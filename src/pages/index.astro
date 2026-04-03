@@ -16,36 +16,31 @@ const [beanEntry, flavourEntry, zodiacEntry] = await Promise.all([
 if (!beanEntry || !flavourEntry || !zodiacEntry) {
   throw new Error(`Missing content for zodiac: ${currentBeanZodiac.slug}`);
 }
-
-const { Content: ZodiacContent } = await render(zodiacEntry);
 ---
 
 <Layout
   title="The Bean Zodiac"
-  description={`${flavourEntry.data.name} + ${beanEntry.data.name} — ${zodiacEntry.data.tagline}`}
+  description={`${flavourEntry.data.name} + ${beanEntry.data.name}`}
 >
   <section>
     <p>
       {currentBeanZodiac.startDate} - {currentBeanZodiac.endDate}
     </p>
     <h1>
-      The Year of the<br />
+      The Year of the
       <a
         href={`/flavours/${currentBeanZodiac.flavourSlug}`}
         style={`color: ${flavourEntry.data.color}`}
       >
         {flavourEntry.data.name}
       </a>
-    </h1>
-    <p>
       <a
         href={`/beans/${currentBeanZodiac.beanSlug}`}
         style={`color: ${beanEntry.data.color}`}
       >
         {beanEntry.data.name}
       </a>
-    </p>
-    <p>{zodiacEntry.data.tagline}</p>
+    </h1>
   </section>
 
   <section>
@@ -56,17 +51,22 @@ const { Content: ZodiacContent } = await render(zodiacEntry);
     />
   </section>
 
-  <section class="horoscope">
-    <ZodiacContent />
+  <section>
+    <p>{zodiacEntry.data.dish}</p>
+    <p><strong>This Bean Year's fortune:</strong> {zodiacEntry.data.fortune}</p>
   </section>
 
-  <nav class="bottom-nav">
+  <nav>
     <a href="/calendar">View the full calendar →</a>
     <a href={`/beans/${currentBeanZodiac.beanSlug}`}
       >About the {beanEntry.data.name} →</a
     >
     <a href={`/flavours/${currentBeanZodiac.flavourSlug}`}
       >About the {flavourEntry.data.name} flavour →</a
+    >
+    <a href={`/zodiacs/${currentBeanZodiac.slug}`}
+      >About those born in the Year of the {flavourEntry.data.name}
+      {beanEntry.data.name} →</a
     >
   </nav>
 </Layout>

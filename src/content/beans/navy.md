@@ -1,6 +1,6 @@
 ---
 name: Navy Bean
-tagline: Small, steady, and indispensable.
+tagline: Small, steady, and indispensable. TODO - focus on humble, dependable
 traits: [dependable, communal, traditional, humble, enduring]
 color: "#e8e8f0"
 modelFile: navy.glb
@@ -10,4 +10,6 @@ The Navy Bean is not glamorous, and it knows it. Small, white, and unassuming, i
 
 Navy Beans believe in the long game. While others chase novelty, they tend to what already works, investing in relationships and practices that compound over years. They find meaning in belonging — in being part of something larger than themselves, in honoring the traditions passed down to them.
 
-The Navy Bean's challenge is the fear of being overlooked. Reliability is not glamorous, and it is easy to interpret a lack of recognition as proof that the work does not matter. The Navy Year asks all Beans to find meaning in the work itself, not in the applause it earns.
+<!-- TODO - rewrite -->
+
+The Navy Bean's challenge is being overlooked. Reliability is not glamorous, and it is easy to interpret a lack of recognition as proof that the work does not matter. The Navy Year asks all Beans to find meaning in the work itself, not in the applause it earns.

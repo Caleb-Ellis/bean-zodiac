@@ -1,7 +1,7 @@
 ---
 name: Kidney Bean
-tagline: Strength earned is strength kept.
-traits: [tenacious, vital, courageous, protective, passionate]
+tagline: Strength earned is strength kept. TODO - rewrite
+traits: [tenacious, vital, strong, protective, passionate]
 color: "#8b2635"
 modelFile: kidney.glb
 ---
@@ -10,4 +10,4 @@ The Kidney Bean is built for endurance. Deep red and firm, it holds its shape un
 
 Kidney Beans are protectors by nature. When those they love face difficulty, Kidney Beans are the first to stand between them and harm. Their passion is genuine and their loyalty unbreakable. Kidney Beans feel things fully — joy, anger, love — and would have it no other way. Half-measures are not their style.
 
-The Kidney Bean's challenge is overextension. Protectors who never stop protecting eventually exhaust themselves, and passion without rest turns to burn. The Kidney Year asks all Beans to fight hard for what matters and surrender, without guilt, what doesn't.
+The Kidney Bean's challenge is overextension. Passion without rest starts to burn. The Kidney Year asks all Beans to fight hard for what matters and surrender, without guilt, what doesn't.

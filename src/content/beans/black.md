@@ -10,4 +10,4 @@ The Black Bean is the keeper of secrets and the guardian of hidden truths. Like 
 
 Black Beans observe before acting, weigh before speaking, and trust only what they have tested themselves. This deliberateness can be mistaken for aloofness, but it is simply the patience of something that knows its own worth. The Black Bean does not need to announce itself — it simply is.
 
-The Black Bean's challenge is opacity. The same gift that protects can also isolate, and keeping one's own counsel can quietly become a habit of withholding. The Black Year asks all Beans to let at least one person see what lives beneath the surface.
+The Black Bean's challenge is opacity. Do not hide. The Black Year asks all Beans to let at least one person see what lives beneath the surface.

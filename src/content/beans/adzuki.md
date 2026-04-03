@@ -10,4 +10,4 @@ The Adzuki Bean has been used for centuries in East Asian cultures to mark good 
 
 Adzuki Beans bring festivity wherever they go. Gatherings are better with them in it. They have a talent for recognizing what deserves to be celebrated and for compelling others to celebrate it with them. Their generosity — with time, attention, and good cheer — is their most distinctive quality.
 
-The Adzuki Bean's challenge is the avoidance of difficulty. Celebration can become a way of outrunning what needs to be faced. The Adzuki Year asks all Beans to let joy be a response to life, not a substitute for it.
+The Adzuki Bean's challenge is the avoidance of difficulty. Face what needs to be faced. The Adzuki Year asks all Beans to let joy be a response to life, not a substitute for it.

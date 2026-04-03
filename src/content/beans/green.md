@@ -1,6 +1,6 @@
 ---
 name: Green Bean
-tagline: Eaten young, at its best right now.
+tagline: Eaten young, at its best right now. TODO - focus on freshness
 traits: [fresh, present, optimistic, quick, seasonal]
 color: "#4e8a5a"
 modelFile: green.glb
@@ -10,4 +10,6 @@ The Green Bean doesn't wait to be discovered. It arrives in season, bright and s
 
 Green Beans are quick. They adapt without drama. Where other signs are working through centuries of accumulated significance, Green Beans are simply responding to what's actually in front of them — accurately, efficiently, without a lot of ceremony. This is not shallowness. This is a different kind of intelligence: the kind that doesn't need to archive everything to know what matters.
 
-The Green Bean's challenge is impermanence. Things that live fully in the present can struggle with endings — and the season always turns. The Green Year asks all Beans to practice the art of finishing well: to complete what was started, and then let it go.
+<!-- TODO - focus on being too quick -->
+
+The Green Bean's challenge is impermanence. Seasons always change. The Green Year asks all Beans to practice the art of finishing well: to complete what was started, and then let it go.

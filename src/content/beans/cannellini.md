@@ -1,6 +1,6 @@
 ---
 name: Cannellini Bean
-tagline: Clarity is a form of generosity.
+tagline: Clarity is a form of generosity. TODO - something about elegance
 traits: [refined, elegant, clear-headed, discerning, gracious]
 color: "#f0ece0"
 modelFile: cannellini.glb
@@ -10,4 +10,4 @@ The Cannellini Bean is the aesthete of the legume world: ivory-white, smooth-ski
 
 Cannellini Beans are curators by instinct, editing ruthlessly: home, calendar, circle. Not out of coldness, but because they understand that clarity requires the courage to remove what does not belong. Their presence tends to bring calm to a room — they have the rare quality of making things feel more considered.
 
-The Cannellini Bean's challenge is perfectionism. Refinement, taken too far, becomes paralysis. The Cannellini Year asks all Beans to release one beautiful, imperfect thing into the world rather than waiting until it is ready.
+The Cannellini Bean's challenge is perfectionism. No Bean is perfect. The Cannellini Year asks all Beans to release one beautiful, imperfect thing into the world rather than waiting until it is ready.

@@ -28,7 +28,8 @@ const zodiacs = defineCollection({
   schema: z.object({
     bean: reference("beans"),
     flavour: reference("flavours"),
-    tagline: z.string(),
+    dish: z.string(),
+    fortune: z.string(),
   }),
 });
 

@@ -10,4 +10,4 @@ The Butter Bean — also called the lima bean — is softness with substance. Cr
 
 Butter Beans are not interested in spectacle. Their gifts are the kind that only reveal themselves over time — the patient accumulation of care, the steady show of presence, the home that always smells like something good is cooking. People seek out Butter Beans not for excitement, but for restoration.
 
-The Butter Bean's challenge is self-neglect. Those who sustain others often forget to sustain themselves, giving their warmth freely until there is nothing left. The Butter Year asks all Beans to be as generous with themselves as they are with everyone else.
+The Butter Bean's challenge is self-neglect. Beans deserve love. The Butter Year asks all Beans to be as generous with themselves as they are with everyone else.

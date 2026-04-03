@@ -1,38 +1,38 @@
 /**
  * Bean Zodiac calculation utilities.
  *
- * The bean year switches on March 12 each calendar year.
+ * The Bean Year switches on March 12 each calendar year.
  * A full cycle is 60 years (LCM of 12 beans × 5 elements).
  *
- * Reference Bean Zodiac = 2026, Sweet Butter Bean
+ * Reference Bean Zodiac = 1993, Umami Edamame
  */
 
 export const BEAN_ORDER = [
-  "butter",
+  "edamame",
+  "black",
+  "fava",
   "kidney",
   "pinto",
-  "green",
+  "mung",
   "cannellini",
   "navy",
   "adzuki",
+  "butter",
   "chickpea",
-  "mung",
-  "fava",
-  "edamame",
-  "black",
+  "green",
 ] as const;
 
 export const FLAVOUR_ORDER = [
-  "sweet",
   "umami",
-  "spicy",
-  "bitter",
+  "sweet",
   "sour",
+  "bitter",
+  "spicy",
 ] as const;
 
 export type BeanSlug = (typeof BEAN_ORDER)[number];
 export type FlavourSlug = (typeof FLAVOUR_ORDER)[number];
-export type ZodiacSlug = `${BeanSlug}-${FlavourSlug}`;
+export type ZodiacSlug = `${FlavourSlug}-${BeanSlug}`;
 
 export type BeanZodiac = {
   beanYear: number;
@@ -44,7 +44,7 @@ export type BeanZodiac = {
 };
 
 /** The calendar year that serves as the cycle reference (index 0 for both arrays = butter + sweet). */
-const REFERENCE_YEAR = 2026;
+const REFERENCE_YEAR = 1993;
 
 /**
  * Returns the bean year for a given date.
@@ -80,7 +80,7 @@ export function getBeanZodiacForYear(beanYear: number): BeanZodiac {
     beanYear,
     beanSlug,
     flavourSlug,
-    slug: `${beanSlug}-${flavourSlug}`,
+    slug: `${flavourSlug}-${beanSlug}`,
     startDate: `March 12, ${beanYear}`,
     endDate: `March 11, ${beanYear + 1}`,
   };
