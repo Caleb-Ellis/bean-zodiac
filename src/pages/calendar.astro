@@ -1,0 +1,88 @@
+---
+import { getEntry } from "astro:content";
+import Layout from "../layouts/Layout.astro";
+import "../styles/global.css";
+import { getZodiacForYear, getBeanYear } from "../lib/zodiac";
+
+const currentBeanYear = getBeanYear(new Date());
+
+// Show 120 years: 60 before and 60 after the current bean year
+const years = Array.from({ length: 121 }, (_, i) =>
+  getZodiacForYear(currentBeanYear - 60 + i),
+);
+
+// Pre-fetch names for display
+const entries = await Promise.all(
+  years.map(async (year) => {
+    const [bean, element] = await Promise.all([
+      getEntry("beans", year.bean),
+      getEntry("elements", year.element),
+    ]);
+
+    if (!bean || !element) {
+      throw new Error(
+        `Missing content for zodiac: ${year.bean} / ${year.element}`,
+      );
+    }
+
+    return { ...year, beanData: bean.data, elementData: element.data };
+  }),
+);
+---
+
+<Layout
+  title="Calendar"
+  description="120 years of Bean Zodiac — two full cycles of beans and elements."
+>
+  <section class="calendar-header">
+    <h1>The Bean Zodiac Calendar</h1>
+    <p>Two complete cycles: 60 years past and 60 years ahead.</p>
+  </section>
+
+  <table class="calendar-table">
+    <thead>
+      <tr>
+        <th>Period</th>
+        <th>Bean</th>
+        <th>Element</th>
+      </tr>
+    </thead>
+    <tbody>
+      {
+        entries.map(
+          ({
+            beanYear,
+            startDate,
+            endDate,
+            bean,
+            element,
+            beanData,
+            elementData,
+          }) => (
+            <tr class:list={[{ current: beanYear === currentBeanYear }]}>
+              <td class="period">
+                {beanYear === currentBeanYear && (
+                  <span class="current-badge">Now</span>
+                )}
+                {startDate} – {endDate}
+              </td>
+              <td>
+                <a href={`/beans/${bean}`} style={`color: ${beanData.color}`}>
+                  {beanData.name}
+                </a>
+              </td>
+              <td>
+                <a
+                  href={`/elements/${element}`}
+                  style={`color: ${elementData.color}`}
+                >
+                  {elementData.name}
+                </a>
+              </td>
+            </tr>
+          ),
+        )
+      }
+    </tbody>
+  </table>
+</Layout>

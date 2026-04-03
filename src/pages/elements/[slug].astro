@@ -1,0 +1,37 @@
+---
+import { getCollection, render } from "astro:content";
+import Layout from "../../layouts/Layout.astro";
+import "../../styles/global.css";
+
+export async function getStaticPaths() {
+	const elements = await getCollection("elements");
+	return elements.map((el) => ({
+		params: { slug: el.id },
+		props: { el },
+	}));
+}
+
+const { el } = Astro.props;
+const { Content } = await render(el);
+---
+
+<Layout title={`${el.data.name} Flavour`} description={`The ${el.data.name} flavour of the Bean Zodiac: ${el.data.traits.join(", ")}.`}>
+  <article>
+    <header class="element-header" style={`--el-color: ${el.data.color}`}>
+      <a href="/elements" class="back-link">← All Flavours</a>
+      <h1 style={`color: ${el.data.color}`}>{el.data.name}</h1>
+      <p class="element-character">{el.data.character}</p>
+      <ul class="traits">
+        {el.data.traits.map((trait) => <li>{trait}</li>)}
+      </ul>
+    </header>
+
+    <div class="element-content">
+      <Content />
+    </div>
+
+    <footer class="element-footer">
+      <a href="/calendar">See which years carry the {el.data.name} flavour →</a>
+    </footer>
+  </article>
+</Layout>
