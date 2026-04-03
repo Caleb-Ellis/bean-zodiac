@@ -1,17 +1,27 @@
 {
-  "name": "",
-  "type": "module",
+  "name": "bean-zodiac",
   "version": "0.0.1",
-  "engines": {
-    "node": ">=22.12.0"
-  },
+  "type": "module",
   "scripts": {
     "dev": "astro dev",
     "build": "astro build",
     "preview": "astro preview",
-    "astro": "astro"
+    "astro": "astro",
+    "fmt": "oxfmt",
+    "fmt:check": "oxfmt --check",
+    "lint": "oxlint",
+    "lint:fix": "oxlint --fix"
   },
   "dependencies": {
     "astro": "^6.1.3"
+  },
+  "devDependencies": {
+    "@tailwindcss/vite": "^4.2.2",
+    "oxfmt": "^0.43.0",
+    "oxlint": "^1.58.0",
+    "tailwindcss": "^4.2.2"
+  },
+  "engines": {
+    "node": ">=22.12.0"
   }
 }
