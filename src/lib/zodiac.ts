@@ -4,7 +4,7 @@
  * The bean year switches on March 12 each calendar year.
  * A full cycle is 60 years (LCM of 12 beans × 5 elements).
  *
- * Reference point: Bean Zodiac 2026 = Bitter Butter Bean
+ * Reference Bean Zodiac = 2026, Sweet Butter Bean
  */
 
 export const BEAN_ORDER = [
@@ -25,15 +25,25 @@ export const BEAN_ORDER = [
 export const FLAVOUR_ORDER = [
   "sweet",
   "umami",
-  "sour",
-  "bitter",
   "spicy",
+  "bitter",
+  "sour",
 ] as const;
 
 export type BeanSlug = (typeof BEAN_ORDER)[number];
 export type FlavourSlug = (typeof FLAVOUR_ORDER)[number];
+export type ZodiacSlug = `${BeanSlug}-${FlavourSlug}`;
 
-/** The calendar year that serves as the cycle reference (index 0 for both arrays). */
+export type BeanZodiac = {
+  beanYear: number;
+  beanSlug: BeanSlug;
+  flavourSlug: FlavourSlug;
+  slug: ZodiacSlug;
+  startDate: string;
+  endDate: string;
+};
+
+/** The calendar year that serves as the cycle reference (index 0 for both arrays = butter + sweet). */
 const REFERENCE_YEAR = 2026;
 
 /**
@@ -41,10 +51,11 @@ const REFERENCE_YEAR = 2026;
  * Before March 12: uses the previous calendar year.
  * On/after March 12: uses the current calendar year.
  */
-export function getBeanYear(date: Date = new Date()): number {
+export function getBeanYear(date: Date): number {
   const month = date.getMonth() + 1; // 1-indexed
   const day = date.getDate();
   const year = date.getFullYear();
+
   if (month < 3 || (month === 3 && day < 12)) {
     return year - 1;
   }
@@ -61,16 +72,21 @@ export function getFlavourSlug(beanYear: number): FlavourSlug {
   return FLAVOUR_ORDER[index];
 }
 
-export function getZodiacForYear(beanYear: number) {
+export function getBeanZodiacForYear(beanYear: number): BeanZodiac {
+  const beanSlug = getBeanSlug(beanYear);
+  const flavourSlug = getFlavourSlug(beanYear);
+
   return {
     beanYear,
-    bean: getBeanSlug(beanYear),
-    element: getFlavourSlug(beanYear),
+    beanSlug,
+    flavourSlug,
+    slug: `${beanSlug}-${flavourSlug}`,
     startDate: `March 12, ${beanYear}`,
     endDate: `March 11, ${beanYear + 1}`,
   };
 }
 
-export function getCurrentZodiac(date: Date = new Date()) {
-  return getZodiacForYear(getBeanYear(date));
+export function getCurrentBeanZodiac() {
+  const currentBeanYear = getBeanYear(new Date());
+  return getBeanZodiacForYear(currentBeanYear);
 }

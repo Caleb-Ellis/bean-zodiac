@@ -3,13 +3,13 @@ import { ClientRouter } from "astro:transitions";
 import Navigation from "../components/Navigation.astro";
 
 interface Props {
-	title?: string;
-	description?: string;
+  title?: string;
+  description?: string;
 }
 
 const {
-	title = "Bean Zodiac",
-	description = "Discover your bean zodiac sign and what the stars — and legumes — have in store.",
+  title = "The Bean Zodiac",
+  description = "Discover your bean zodiac sign and what the stars — and legumes — have in store.",
 } = Astro.props;
 ---
 
@@ -22,7 +22,9 @@ const {
     <link rel="icon" href="/favicon.ico" />
     <meta name="generator" content={Astro.generator} />
     <meta name="description" content={description} />
-    <title>{title === "Bean Zodiac" ? title : `${title} — Bean Zodiac`}</title>
+    <title>
+      {title === "The Bean Zodiac" ? title : `${title} — The Bean Zodiac`}
+    </title>
     <ClientRouter />
   </head>
   <body>

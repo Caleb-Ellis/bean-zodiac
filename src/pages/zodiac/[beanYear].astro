@@ -1,0 +1,74 @@
+---
+import { getEntry, render } from "astro:content";
+import Layout from "../../layouts/Layout.astro";
+import "../../styles/global.css";
+import { getBeanYear, getBeanZodiacForYear } from "../../lib/zodiac";
+
+export async function getStaticPaths() {
+  const currentBeanYear = getBeanYear(new Date());
+  return Array.from({ length: 121 }, (_, i) => ({
+    params: { beanYear: String(currentBeanYear - 60 + i) },
+  }));
+}
+
+const { beanYear: beanYearStr } = Astro.params;
+const beanYear = Number(beanYearStr);
+const currentBeanYear = getBeanYear(new Date());
+
+const zodiac = getBeanZodiacForYear(beanYear);
+
+const [beanEntry, flavourEntry, zodiacEntry] = await Promise.all([
+  getEntry("beans", zodiac.beanSlug),
+  getEntry("flavours", zodiac.flavourSlug),
+  getEntry("zodiacs", zodiac.slug),
+]);
+
+if (!beanEntry || !flavourEntry || !zodiacEntry) {
+  throw new Error(`Missing content for zodiac: ${zodiac.slug}`);
+}
+
+const { Content: ZodiacContent } = await render(zodiacEntry);
+
+const minYear = currentBeanYear - 60;
+const maxYear = currentBeanYear + 60;
+const prevYear = beanYear > minYear ? beanYear - 1 : null;
+const nextYear = beanYear < maxYear ? beanYear + 1 : null;
+---
+
+<Layout
+  title={`${flavourEntry.data.name} ${beanEntry.data.name} Bean — ${beanYear}`}
+  description={zodiacEntry.data.tagline}
+>
+  <section>
+    <p>{zodiac.startDate} - {zodiac.endDate}</p>
+    {beanYear === currentBeanYear && <p>Current year</p>}
+    <h1>
+      The Year of the<br />
+      <a
+        href={`/flavours/${zodiac.flavourSlug}`}
+        style={`color: ${flavourEntry.data.color}`}
+      >
+        {flavourEntry.data.name}
+      </a>
+    </h1>
+    <p>
+      <a
+        href={`/beans/${zodiac.beanSlug}`}
+        style={`color: ${beanEntry.data.color}`}
+      >
+        {beanEntry.data.name}
+      </a>
+    </p>
+    <p>{zodiacEntry.data.tagline}</p>
+  </section>
+
+  <section class="horoscope">
+    <ZodiacContent />
+  </section>
+
+  <nav>
+    {prevYear && <a href={`/zodiac/${prevYear}`}>← {prevYear}</a>}
+    {nextYear && <a href={`/zodiac/${nextYear}`}>{nextYear} →</a>}
+    <a href="/calendar">Full calendar</a>
+  </nav>
+</Layout>

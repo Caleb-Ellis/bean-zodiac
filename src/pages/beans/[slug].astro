@@ -5,8 +5,8 @@ import BeanModel from "../../components/BeanModel.astro";
 import "../../styles/global.css";
 
 export async function getStaticPaths() {
-	const beans = await getCollection("beans");
-	return beans.map((bean) => ({ params: { slug: bean.id }, props: { bean } }));
+  const beans = await getCollection("beans");
+  return beans.map((bean) => ({ params: { slug: bean.id }, props: { bean } }));
 }
 
 const { bean } = Astro.props;
@@ -15,25 +15,25 @@ const { Content } = await render(bean);
 
 <Layout title={bean.data.name} description={bean.data.tagline}>
   <article>
-    <header class="bean-header" style={`--bean-color: ${bean.data.color}`}>
-      <a href="/beans" class="back-link">← All Beans</a>
+    <header>
+      <a href="/beans">← All Beans</a>
       <BeanModel
-        modelFile={bean.data.modelFile}
         beanName={bean.data.name}
         color={bean.data.color}
+        modelFile={bean.data.modelFile}
       />
       <h1 style={`color: ${bean.data.color}`}>{bean.data.name}</h1>
-      <p class="tagline">{bean.data.tagline}</p>
-      <ul class="traits">
+      <p>{bean.data.tagline}</p>
+      <ul>
         {bean.data.traits.map((trait) => <li>{trait}</li>)}
       </ul>
     </header>
 
-    <div class="bean-content">
+    <div>
       <Content />
     </div>
 
-    <footer class="bean-footer">
+    <footer>
       <a href="/calendar">See which years belong to the {bean.data.name} →</a>
     </footer>
   </article>

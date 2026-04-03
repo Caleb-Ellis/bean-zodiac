@@ -4,34 +4,39 @@ import Layout from "../../layouts/Layout.astro";
 import "../../styles/global.css";
 
 export async function getStaticPaths() {
-	const elements = await getCollection("elements");
-	return elements.map((el) => ({
-		params: { slug: el.id },
-		props: { el },
-	}));
+  const flavours = await getCollection("flavours");
+  return flavours.map((flavour) => ({
+    params: { slug: flavour.id },
+    props: { flavour },
+  }));
 }
 
-const { el } = Astro.props;
-const { Content } = await render(el);
+const { flavour } = Astro.props;
+const { Content } = await render(flavour);
 ---
 
-<Layout title={`${el.data.name} Flavour`} description={`The ${el.data.name} flavour of the Bean Zodiac: ${el.data.traits.join(", ")}.`}>
+<Layout
+  title={`${flavour.data.name} Flavour`}
+  description={`The ${flavour.data.name} flavour of the Bean Zodiac: ${flavour.data.traits.join(", ")}.`}
+>
   <article>
-    <header class="element-header" style={`--el-color: ${el.data.color}`}>
-      <a href="/elements" class="back-link">← All Flavours</a>
-      <h1 style={`color: ${el.data.color}`}>{el.data.name}</h1>
-      <p class="element-character">{el.data.character}</p>
-      <ul class="traits">
-        {el.data.traits.map((trait) => <li>{trait}</li>)}
+    <header>
+      <a href="/flavours">← All Flavours</a>
+      <h1 style={`color: ${flavour.data.color}`}>{flavour.data.name}</h1>
+      <p>{flavour.data.character}</p>
+      <ul>
+        {flavour.data.traits.map((trait) => <li>{trait}</li>)}
       </ul>
     </header>
 
-    <div class="element-content">
+    <div>
       <Content />
     </div>
 
-    <footer class="element-footer">
-      <a href="/calendar">See which years carry the {el.data.name} flavour →</a>
+    <footer>
+      <a href="/calendar"
+        >See which years carry the {flavour.data.name} flavour →</a
+      >
     </footer>
   </article>
 </Layout>

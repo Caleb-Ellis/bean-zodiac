@@ -4,30 +4,39 @@ import Layout from "../../layouts/Layout.astro";
 import "../../styles/global.css";
 import { FLAVOUR_ORDER } from "../../lib/zodiac";
 
-const allElements = await getCollection("elements");
-// Sort by zodiac order
-const elements = FLAVOUR_ORDER.map((slug) =>
-	allElements.find((e) => e.id === slug)!,
+const allFlavours = await getCollection("flavours");
+const sortedFlavours = FLAVOUR_ORDER.map(
+  (slug) => allFlavours.find((flavour) => flavour.id === slug)!,
 );
 ---
 
-<Layout title="The Five Flavours" description="Bitter, Spicy, Umami, Sour, and Sweet — the five flavours that shape each Bean Zodiac year.">
-  <section class="page-header">
+<Layout
+  title="The Five Flavours"
+  description="Bitter, Spicy, Umami, Sweet, and Sour - the five flavours that shape each Bean Zodiac year."
+>
+  <section>
     <h1>The Five Flavours</h1>
-    <p>Each year is shaped not only by its bean, but by one of five fundamental flavours.</p>
+    <p>
+      Each year is shaped not only by its bean, but by one of five fundamental
+      flavours.
+    </p>
   </section>
 
-  <ul class="element-list">
-    {elements.map((el) => (
-      <li>
-        <a href={`/elements/${el.id}`} class="element-card" style={`--el-color: ${el.data.color}`}>
-          <h2 style={`color: ${el.data.color}`}>{el.data.name}</h2>
-          <p>{el.data.character}</p>
+  <ul>
+    {
+      sortedFlavours.map((flavour) => (
+        <li>
+          <a href={`/flavours/${flavour.id}`}>
+            <h2 style={`color: ${flavour.data.color}`}>{flavour.data.name}</h2>
+          </a>
+          <p>{flavour.data.character}</p>
           <ul class="traits">
-            {el.data.traits.slice(0, 3).map((t) => <li>{t}</li>)}
+            {flavour.data.traits.map((trait) => (
+              <li>{trait}</li>
+            ))}
           </ul>
-        </a>
-      </li>
-    ))}
+        </li>
+      ))
+    }
   </ul>
 </Layout>

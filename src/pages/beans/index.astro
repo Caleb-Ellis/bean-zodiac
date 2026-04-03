@@ -6,28 +6,43 @@ import "../../styles/global.css";
 import { BEAN_ORDER } from "../../lib/zodiac";
 
 const allBeans = await getCollection("beans");
-// Sort by zodiac order
-const beans = BEAN_ORDER.map((slug) => allBeans.find((b) => b.id === slug)!);
+const sortedBeans = BEAN_ORDER.map(
+  (slug) => allBeans.find((bean) => bean.id === slug)!,
+);
 ---
 
-<Layout title="The Twelve Beans" description="The twelve bean varieties of the Bean Zodiac, each with its own character, fortune, and wisdom.">
-  <section class="page-header">
+<Layout
+  title="The Twelve Beans"
+  description="The twelve bean varieties of the Bean Zodiac, each with its own character, fortune, and wisdom."
+>
+  <section>
     <h1>The Twelve Beans</h1>
-    <p>Each bean carries its own character, wisdom, and fortune. Which one are you?</p>
+    <p>
+      Each bean carries its own character, wisdom, and fortune. Which one are
+      you?
+    </p>
   </section>
 
-  <ul class="bean-grid">
-    {beans.map((bean) => (
-      <li>
-        <a href={`/beans/${bean.id}`} class="bean-card">
-          <BeanModel beanName={bean.data.name} color={bean.data.color} />
-          <h2 style={`color: ${bean.data.color}`}>{bean.data.name}</h2>
+  <ul>
+    {
+      sortedBeans.map((bean) => (
+        <li>
+          <a href={`/beans/${bean.id}`}>
+            <BeanModel
+              beanName={bean.data.name}
+              color={bean.data.color}
+              modelFile={bean.data.modelFile}
+            />
+            <h2 style={`color: ${bean.data.color}`}>{bean.data.name}</h2>
+          </a>
           <p>{bean.data.tagline}</p>
           <ul class="traits">
-            {bean.data.traits.slice(0, 3).map((t) => <li>{t}</li>)}
+            {bean.data.traits.map((trait) => (
+              <li>{trait}</li>
+            ))}
           </ul>
-        </a>
-      </li>
-    ))}
+        </li>
+      ))
+    }
   </ul>
 </Layout>

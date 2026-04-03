@@ -2,41 +2,35 @@
 import { getEntry } from "astro:content";
 import Layout from "../layouts/Layout.astro";
 import "../styles/global.css";
-import { getZodiacForYear, getBeanYear } from "../lib/zodiac";
+import { getBeanZodiacForYear, getBeanYear } from "../lib/zodiac";
 
 const currentBeanYear = getBeanYear(new Date());
 
-// Show 120 years: 60 before and 60 after the current bean year
-const years = Array.from({ length: 121 }, (_, i) =>
-  getZodiacForYear(currentBeanYear - 60 + i),
+const zodiacs = Array.from({ length: 121 }, (_, i) =>
+  getBeanZodiacForYear(currentBeanYear - 60 + i),
 );
 
-// Pre-fetch names for display
-const entries = await Promise.all(
-  years.map(async (year) => {
-    const [bean, element] = await Promise.all([
-      getEntry("beans", year.bean),
-      getEntry("elements", year.element),
+const zodiacEntries = await Promise.all(
+  zodiacs.map(async (zodiac) => {
+    const [bean, flavour] = await Promise.all([
+      getEntry("beans", zodiac.beanSlug),
+      getEntry("flavours", zodiac.flavourSlug),
     ]);
 
-    if (!bean || !element) {
+    if (!bean || !flavour) {
       throw new Error(
-        `Missing content for zodiac: ${year.bean} / ${year.element}`,
+        `Missing content for zodiac: ${zodiac.beanSlug} / ${zodiac.flavourSlug}`,
       );
     }
 
-    return { ...year, beanData: bean.data, elementData: element.data };
+    return { bean, flavour, zodiac };
   }),
 );
 ---
 
-<Layout
-  title="Calendar"
-  description="120 years of Bean Zodiac — two full cycles of beans and elements."
->
+<Layout title="Calendar" description="120 years of beans.">
   <section class="calendar-header">
     <h1>The Bean Zodiac Calendar</h1>
-    <p>Two complete cycles: 60 years past and 60 years ahead.</p>
   </section>
 
   <table class="calendar-table">
@@ -44,44 +38,36 @@ const entries = await Promise.all(
       <tr>
         <th>Period</th>
         <th>Bean</th>
-        <th>Element</th>
+        <th>Flavour</th>
       </tr>
     </thead>
     <tbody>
       {
-        entries.map(
-          ({
-            beanYear,
-            startDate,
-            endDate,
-            bean,
-            element,
-            beanData,
-            elementData,
-          }) => (
-            <tr class:list={[{ current: beanYear === currentBeanYear }]}>
-              <td class="period">
-                {beanYear === currentBeanYear && (
-                  <span class="current-badge">Now</span>
-                )}
-                {startDate} – {endDate}
-              </td>
-              <td>
-                <a href={`/beans/${bean}`} style={`color: ${beanData.color}`}>
-                  {beanData.name}
-                </a>
-              </td>
-              <td>
-                <a
-                  href={`/elements/${element}`}
-                  style={`color: ${elementData.color}`}
-                >
-                  {elementData.name}
-                </a>
-              </td>
-            </tr>
-          ),
-        )
+        zodiacEntries.map(({ bean, flavour, zodiac }) => (
+          <tr class:list={[{ current: zodiac.beanYear === currentBeanYear }]}>
+            <td class="period">
+              {zodiac.beanYear === currentBeanYear && (
+                <span class="current-badge">Now</span>
+              )}
+              <a href={`/zodiac/${zodiac.beanYear}`}>
+                {zodiac.startDate} - {zodiac.endDate}
+              </a>
+            </td>
+            <td>
+              <a href={`/beans/${bean.id}`} style={`color: ${bean.data.color}`}>
+                {bean.data.name}
+              </a>
+            </td>
+            <td>
+              <a
+                href={`/flavours/${flavour.id}`}
+                style={`color: ${flavour.data.color}`}
+              >
+                {flavour.data.name}
+              </a>
+            </td>
+          </tr>
+        ))
       }
     </tbody>
   </table>

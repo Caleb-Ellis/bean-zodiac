@@ -1,4 +1,4 @@
-import { defineCollection } from "astro:content";
+import { defineCollection, reference } from "astro:content";
 import { z } from "astro/zod";
 import { glob } from "astro/loaders";
 
@@ -23,13 +23,13 @@ const flavours = defineCollection({
   }),
 });
 
-const combos = defineCollection({
-  loader: glob({ pattern: "**/*.md", base: "./src/content/combos" }),
+const zodiacs = defineCollection({
+  loader: glob({ pattern: "**/*.md", base: "./src/content/zodiacs" }),
   schema: z.object({
-    bean: z.string(), // bean slug e.g. "butter"
-    flavour: z.string(), // flavour slug e.g. "bitter"
+    bean: reference("beans"),
+    flavour: reference("flavours"),
     tagline: z.string(), // one-line horoscope teaser
   }),
 });
 
-export const collections = { beans, elements: flavours, combos };
+export const collections = { beans, flavours, zodiacs };

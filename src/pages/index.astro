@@ -3,51 +3,52 @@ import { getEntry, render } from "astro:content";
 import Layout from "../layouts/Layout.astro";
 import BeanModel from "../components/BeanModel.astro";
 import "../styles/global.css";
-import { getCurrentZodiac } from "../lib/zodiac";
+import { getCurrentBeanZodiac } from "../lib/zodiac";
 
-const zodiac = getCurrentZodiac();
-const comboId = `${zodiac.bean}-${zodiac.element}`;
+const currentBeanZodiac = getCurrentBeanZodiac();
 
-const [beanEntry, elementEntry, comboEntry] = await Promise.all([
-	getEntry("beans", zodiac.bean),
-	getEntry("elements", zodiac.element),
-	getEntry("combos", comboId),
+const [beanEntry, flavourEntry, zodiacEntry] = await Promise.all([
+  getEntry("beans", currentBeanZodiac.beanSlug),
+  getEntry("flavours", currentBeanZodiac.flavourSlug),
+  getEntry("zodiacs", currentBeanZodiac.slug),
 ]);
 
-if (!beanEntry || !elementEntry || !comboEntry) {
-	throw new Error(
-		`Missing content for zodiac: ${zodiac.bean} / ${zodiac.element}`,
-	);
+if (!beanEntry || !flavourEntry || !zodiacEntry) {
+  throw new Error(`Missing content for zodiac: ${currentBeanZodiac.slug}`);
 }
 
-const { Content: ComboContent } = await render(comboEntry);
+const { Content: ZodiacContent } = await render(zodiacEntry);
 ---
 
 <Layout
-  title="Bean Zodiac"
-  description={`${beanEntry.data.name} + ${elementEntry.data.name} — ${comboEntry.data.tagline}`}
+  title="The Bean Zodiac"
+  description={`${flavourEntry.data.name} + ${beanEntry.data.name} — ${zodiacEntry.data.tagline}`}
 >
-  <section class="hero">
-    <p class="year-label">{zodiac.startDate} – {zodiac.endDate}</p>
+  <section>
+    <p>
+      {currentBeanZodiac.startDate} - {currentBeanZodiac.endDate}
+    </p>
     <h1>
       The Year of the<br />
-      <span class="bean-name" style={`color: ${beanEntry.data.color}`}>
-        {beanEntry.data.name}
-      </span>
-    </h1>
-    <p class="flavour-label">
       <a
-        href={`/elements/${zodiac.element}`}
-        class="flavour-link"
-        style={`color: ${elementEntry.data.color}`}
+        href={`/flavours/${currentBeanZodiac.flavourSlug}`}
+        style={`color: ${flavourEntry.data.color}`}
       >
-        {elementEntry.data.name}
+        {flavourEntry.data.name}
+      </a>
+    </h1>
+    <p>
+      <a
+        href={`/beans/${currentBeanZodiac.beanSlug}`}
+        style={`color: ${beanEntry.data.color}`}
+      >
+        {beanEntry.data.name}
       </a>
     </p>
-    <p class="tagline">{comboEntry.data.tagline}</p>
+    <p>{zodiacEntry.data.tagline}</p>
   </section>
 
-  <section class="model-section">
+  <section>
     <BeanModel
       modelFile={beanEntry.data.modelFile}
       beanName={beanEntry.data.name}
@@ -56,12 +57,16 @@ const { Content: ComboContent } = await render(comboEntry);
   </section>
 
   <section class="horoscope">
-    <ComboContent />
+    <ZodiacContent />
   </section>
 
   <nav class="bottom-nav">
     <a href="/calendar">View the full calendar →</a>
-    <a href={`/beans/${zodiac.bean}`}>About the {beanEntry.data.name} →</a>
-    <a href={`/elements/${zodiac.element}`}>About the {elementEntry.data.name} flavour →</a>
+    <a href={`/beans/${currentBeanZodiac.beanSlug}`}
+      >About the {beanEntry.data.name} →</a
+    >
+    <a href={`/flavours/${currentBeanZodiac.flavourSlug}`}
+      >About the {flavourEntry.data.name} flavour →</a
+    >
   </nav>
 </Layout>

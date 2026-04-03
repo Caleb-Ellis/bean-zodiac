@@ -1,9 +1,9 @@
 ---
 const links = [
-	{ href: "/", label: "This Year" },
-	{ href: "/calendar", label: "Calendar" },
-	{ href: "/beans", label: "Beans" },
-	{ href: "/elements", label: "Elements" },
+  { href: "/", label: "This Year" },
+  { href: "/calendar", label: "Calendar" },
+  { href: "/beans", label: "Beans" },
+  { href: "/flavours", label: "Flavours" },
 ];
 
 const current = Astro.url.pathname;
@@ -12,11 +12,15 @@ const current = Astro.url.pathname;
 <nav>
   <a href="/" class="nav-logo">Bean Zodiac</a>
   <ul>
-    {links.map(({ href, label }) => (
-      <li>
-        <a href={href} class:list={[{ active: current === href }]}>{label}</a>
-      </li>
-    ))}
+    {
+      links.map(({ href, label }) => (
+        <li>
+          <a href={href} class:list={[{ active: current === href }]}>
+            {label}
+          </a>
+        </li>
+      ))
+    }
   </ul>
 </nav>
 
