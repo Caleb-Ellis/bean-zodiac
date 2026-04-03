@@ -13,8 +13,8 @@ const beans = defineCollection({
   }),
 });
 
-const elements = defineCollection({
-  loader: glob({ pattern: "**/*.md", base: "./src/content/elements" }),
+const flavours = defineCollection({
+  loader: glob({ pattern: "**/*.md", base: "./src/content/flavours" }),
   schema: z.object({
     name: z.string(),
     character: z.string(), // brief sensory descriptor
@@ -26,10 +26,10 @@ const elements = defineCollection({
 const combos = defineCollection({
   loader: glob({ pattern: "**/*.md", base: "./src/content/combos" }),
   schema: z.object({
-    bean: z.string(),    // bean slug e.g. "black-bean"
+    bean: z.string(), // bean slug e.g. "butter"
     flavour: z.string(), // flavour slug e.g. "bitter"
     tagline: z.string(), // one-line horoscope teaser
   }),
 });
 
-export const collections = { beans, elements, combos };
+export const collections = { beans, elements: flavours, combos };
