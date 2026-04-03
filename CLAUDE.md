@@ -33,10 +33,10 @@ The core of the app. Key concepts:
 Three Astro glob-loaded collections:
 
 - **`beans/`** — 12 markdown files, one per bean (name, tagline, traits[], color CSS hex, optional modelFile)
-- **`elements/`** — 5 markdown files, one per flavor element (name, character, traits[], color CSS hex)
+- **`flavours/`** — 5 markdown files, one per flavour (name, character, traits[], color CSS hex)
 - **`zodiacs/`** — 60 markdown files, one per bean×element pair (bean slug, flavor slug, tagline)
 
-Zodiacs are the Cartesian product of all beans and elements. Each gets a horoscope-style tagline.
+Zodiacs are the Cartesian product of all beans and flavours. Each gets a horoscope-style tagline.
 
 ### Pages and Routing
 

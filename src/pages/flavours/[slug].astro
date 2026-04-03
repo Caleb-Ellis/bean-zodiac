@@ -23,7 +23,7 @@ const { Content } = await render(flavour);
     <header>
       <a href="/flavours">← All Flavours</a>
       <h1 style={`color: ${flavour.data.color}`}>{flavour.data.name}</h1>
-      <p>{flavour.data.character}</p>
+      <p>{flavour.data.tagline}</p>
       <ul>
         {flavour.data.traits.map((trait) => <li>{trait}</li>)}
       </ul>

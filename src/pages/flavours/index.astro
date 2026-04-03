@@ -29,7 +29,7 @@ const sortedFlavours = FLAVOUR_ORDER.map(
           <a href={`/flavours/${flavour.id}`}>
             <h2 style={`color: ${flavour.data.color}`}>{flavour.data.name}</h2>
           </a>
-          <p>{flavour.data.character}</p>
+          <p>{flavour.data.tagline}</p>
           <ul class="traits">
             {flavour.data.traits.map((trait) => (
               <li>{trait}</li>

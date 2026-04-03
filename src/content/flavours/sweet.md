@@ -1,16 +1,12 @@
 ---
 name: Sweet
-character: The flavour we carry from the very beginning.
+tagline: The flavour that asks nothing in return.
 traits: [joyful, comforting, generous, abundant, warm]
 color: "#c47a3a"
 ---
 
-Sweet is the first flavour we recognize. Before we learn to love bitter or tolerate sour, before we develop a taste for heat or depth, we come to sweetness already knowing it. A sweet year is a return to that original ease — a time when generosity flows naturally, connections form without effort, and the world offers itself openly and without condition.
+Sweet is the flavour of ease — the warmth that arrives without being earned, the joy that needs no justification. A Sweet Year does not ask you to work for it or prove yourself worthy of it. It simply offers itself, openly, and asks only that you receive it.
 
-Sweet years carry abundance. Not necessarily material abundance, though that may come, but an abundance of warmth, of goodwill, of the small pleasures that make a life worth living. The sweet flavour does not ask you to work for it the way bitter does. It simply arrives. The Umami year is a lesson in patience; the Sweet year is a lesson in receiving.
+Sweet Years carry a quality of effortlessness. Not laziness — effortlessness. The sense that things are moving in the right direction without requiring constant force. Connections form naturally. Goodwill circulates freely. What once felt effortful begins to feel like simply being alive at the right time, in the right place. This is not luck. It is permission — permission to let the world be kind, and to let yourself enjoy it.
 
-Sweetness in cooking is not a lesser art. The pastry chef who balances sugar with salt, with acid, with fat, is doing the same work as any chef — attending to contrast, to complexity, to the way one quality illuminates another. Let this year's ease reveal something about what you actually enjoy when you are not fighting for it.
-
-Sweet's shadow is avoidance. Too much sweetness and we never develop tolerance for difficulty. The Sweet year asks you to savour abundance without mistaking it for a permanent condition.
-
-**Fortune for this year:** Let yourself enjoy this. You are not obligated to complicate what is genuinely good.
+Sweet's shadow is avoidance. Too much sweetness and we never develop tolerance for difficulty. The Sweet Year asks you to savour abundance without mistaking it for a permanent condition.

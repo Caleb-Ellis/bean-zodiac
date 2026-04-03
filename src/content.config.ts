@@ -8,7 +8,7 @@ const beans = defineCollection({
     name: z.string(),
     tagline: z.string(),
     traits: z.array(z.string()),
-    color: z.string(), // CSS color for theming
+    color: z.string(),
     modelFile: z.string().optional(), // future: "black-bean.glb"
   }),
 });
@@ -17,7 +17,7 @@ const flavours = defineCollection({
   loader: glob({ pattern: "**/*.md", base: "./src/content/flavours" }),
   schema: z.object({
     name: z.string(),
-    character: z.string(), // brief sensory descriptor
+    tagline: z.string(),
     traits: z.array(z.string()),
     color: z.string(),
   }),
@@ -28,7 +28,7 @@ const zodiacs = defineCollection({
   schema: z.object({
     bean: reference("beans"),
     flavour: reference("flavours"),
-    tagline: z.string(), // one-line horoscope teaser
+    tagline: z.string(),
   }),
 });
 

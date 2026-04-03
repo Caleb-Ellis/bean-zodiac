@@ -3,13 +3,11 @@ name: Chickpea
 tagline: Every form is yours to inhabit.
 traits: [adaptable, sociable, resourceful, warm, inventive]
 color: "#c8a96e"
-modelFile: garbanzo.glb
+modelFile: chickpea.glb
 ---
 
-The Chickpea is the great shapeshifter of the legume world. Whole or ground, roasted or braised, it transforms effortlessly across cuisines and cultures, yet always remains unmistakably itself. Those born under the Chickpea carry this same gift: the ability to fit any room without losing their essence.
+The Chickpea, also called the garbanzo bean, is the great shapeshifter of the legume world. Whole or ground, roasted or braised, it transforms effortlessly across cuisines and cultures, yet always remains unmistakably itself. Those born under the Chickpea carry this same gift: the ability to fit any room without losing their essence.
 
-You are a natural connector. You bridge worlds, translate between temperaments, and have a rare talent for making people feel at ease. Your warmth is genuine and your curiosity about others is boundless. Where the Black Bean looks inward, the Chickpea looks outward — delighting in the texture and variety of human experience.
+Chickpeas are natural connectors. They bridge worlds, translate between temperaments, and have a rare talent for making people feel at ease. Their warmth is genuine and their curiosity about others is boundless. Where the Black Bean looks inward, the Chickpea looks outward — delighting in the texture and variety of human experience.
 
-Your challenge is commitment. When every path looks interesting, choosing one requires courage. The Garbanzo year asks you to explore widely, then plant yourself somewhere worth growing.
-
-**Fortune for this year:** Your versatility is your greatest gift — but choose one project to see all the way through. The compound interest of persistence will surprise you.
+The Chickpea's challenge is commitment. When every path looks interesting, choosing one requires courage. The Chickpea Year asks all Beans to explore widely, then plant themselves somewhere worth growing.
