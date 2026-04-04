@@ -1,4 +1,5 @@
 ---
+slug: sweet-adzuki
 bean: adzuki
 flavour: sweet
 dish: Sweet red bean mochi. Your natural habitat, right there on a plate.

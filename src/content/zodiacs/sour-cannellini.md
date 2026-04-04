@@ -1,4 +1,5 @@
 ---
+slug: sour-cannellini
 bean: cannellini
 flavour: sour
 dish: Cannelini with lemon, good olive oil, and nothing else. One of the simplest elegant things you can make.

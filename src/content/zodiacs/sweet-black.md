@@ -1,4 +1,5 @@
 ---
+slug: sweet-black
 bean: black
 flavour: sweet
 dish: Black bean brownies. Dense, rich, better than they have any right to be.

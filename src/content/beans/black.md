@@ -1,4 +1,5 @@
 ---
+slug: black
 name: Black Bean
 tagline: Depth conceals infinite possibility.
 traits: [introspective, mysterious, resilient, perceptive, determined]

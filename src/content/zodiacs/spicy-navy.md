@@ -1,4 +1,5 @@
 ---
+slug: spicy-navy
 bean: navy
 flavour: spicy
 dish: Spicy navy bean soup with smoked paprika. Not what you expected. Unforgettable.

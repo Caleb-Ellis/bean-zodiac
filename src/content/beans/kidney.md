@@ -1,4 +1,5 @@
 ---
+slug: kidney
 name: Kidney Bean
 tagline: Strength earned is strength kept. TODO - rewrite
 traits: [tenacious, vital, strong, protective, passionate]

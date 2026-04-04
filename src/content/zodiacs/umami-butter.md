@@ -1,4 +1,5 @@
 ---
+slug: umami-butter
 bean: butter
 flavour: umami
 dish: Butter beans slow-cooked in stock, finished with parmesan. Someone finally taking care of you.

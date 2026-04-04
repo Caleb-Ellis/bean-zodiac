@@ -1,4 +1,5 @@
 ---
+slug: umami-black
 bean: black
 flavour: umami
 dish: Black beans braised low and slow in dark stock. Do not lift the lid. It is fine.

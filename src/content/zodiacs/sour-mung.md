@@ -1,4 +1,5 @@
 ---
+slug: sour-mung
 bean: mung
 flavour: sour
 dish: Mung bean sprout salad with rice vinegar and sesame. Fresh, sharp, more than just mild.

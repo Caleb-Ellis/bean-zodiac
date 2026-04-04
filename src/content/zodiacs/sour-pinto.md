@@ -1,4 +1,5 @@
 ---
+slug: sour-pinto
 bean: pinto
 flavour: sour
 dish: Pinto bean soup with a squeeze of lime. Suddenly everything is defined, and better for it.

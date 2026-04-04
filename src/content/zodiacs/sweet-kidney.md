@@ -1,4 +1,5 @@
 ---
+slug: sweet-kidney
 bean: kidney
 flavour: sweet
 dish: Sweet red bean paste, slow-cooked and used in the best possible things. You fought for this.

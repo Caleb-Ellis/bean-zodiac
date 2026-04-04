@@ -1,4 +1,5 @@
 ---
+slug: green
 name: Green Bean
 tagline: Eaten young, at its best right now. TODO - focus on freshness
 traits: [fresh, present, optimistic, quick, seasonal]

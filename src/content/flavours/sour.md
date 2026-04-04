@@ -1,6 +1,7 @@
 ---
+slug: sour
 name: Sour
-tagline: The flavour that cuts through everything else.
+tagline: The Flavour that cuts through everything else.
 traits: [sharp, clarifying, precise, honest, refreshing]
 color: "#b8a800"
 ---

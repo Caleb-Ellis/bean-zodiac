@@ -1,4 +1,5 @@
 ---
+slug: sour-green
 bean: green
 flavour: sour
 dish: Green beans with lemon juice and capers. Already good. Now sharper, and more itself.

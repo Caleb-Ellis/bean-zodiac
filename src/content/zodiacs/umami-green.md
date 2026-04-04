@@ -1,4 +1,5 @@
 ---
+slug: umami-green
 bean: green
 flavour: umami
 dish: Green beans finished in miso butter. Freshness that has found its depth, and is surprised by it.

@@ -1,4 +1,5 @@
 ---
+slug: sour-navy
 bean: navy
 flavour: sour
 dish: White bean and lemon salad with fresh herbs. A small revelation. You can't imagine it without now.

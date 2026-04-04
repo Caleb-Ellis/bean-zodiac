@@ -1,4 +1,5 @@
 ---
+slug: spicy-butter
 bean: butter
 flavour: spicy
 dish: Creamy butter bean stew with chilli and smoked paprika. Strong and soft - a classic.

@@ -1,4 +1,5 @@
 ---
+slug: bitter-kidney
 bean: kidney
 flavour: bitter
 dish: Kidney bean chilli with dried ancho chillies. Takes all afternoon. Worth every hour.

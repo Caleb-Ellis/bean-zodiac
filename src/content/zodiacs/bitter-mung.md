@@ -1,4 +1,5 @@
 ---
+slug: bitter-mung
 bean: mung
 flavour: bitter
 dish: Bitter melon and mung bean soup. Both cooling, both slow, both exactly correct.

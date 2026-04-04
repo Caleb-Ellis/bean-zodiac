@@ -1,4 +1,5 @@
 ---
+slug: bitter-black
 bean: black
 flavour: bitter
 dish: Black bean mole. Looks unassuming. People always come back for more.

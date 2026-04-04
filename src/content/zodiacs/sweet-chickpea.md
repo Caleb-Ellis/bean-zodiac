@@ -1,4 +1,5 @@
 ---
+slug: sweet-chickpea
 bean: chickpea
 flavour: sweet
 dish: Sweet roasted chickpeas with cinnamon. The useful bean, finally showing up as the treat.

@@ -1,4 +1,5 @@
 ---
+slug: sweet-cannellini
 bean: cannellini
 flavour: sweet
 dish: Cannellini with honey and rosemary. Should not work by your logic. Does, completely.

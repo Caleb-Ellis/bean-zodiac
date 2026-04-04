@@ -1,4 +1,5 @@
 ---
+slug: spicy-mung
 bean: mung
 flavour: spicy
 dish: Spicy mung bean dal with fresh ginger. Gentle and warming and not whispering about it.

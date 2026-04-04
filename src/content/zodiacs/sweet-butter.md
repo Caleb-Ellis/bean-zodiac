@@ -1,4 +1,5 @@
 ---
+slug: sweet-butter
 bean: butter
 flavour: sweet
 dish: Butter bean mash with honey-roasted carrots on the side. Everything warm, everything fine.

@@ -1,4 +1,5 @@
 ---
+slug: spicy-green
 bean: green
 flavour: spicy
 dish: Dry-fried Szechuan green beans with garlic and dried chilli. Loud, fast, impossible to ignore.

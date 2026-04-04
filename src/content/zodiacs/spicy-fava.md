@@ -1,4 +1,5 @@
 ---
+slug: spicy-fava
 bean: fava
 flavour: spicy
 dish: Spiced fava bean stew with harissa. The oldest bean, finally making some noise about it.

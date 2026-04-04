@@ -1,4 +1,5 @@
 ---
+slug: spicy-kidney
 bean: kidney
 flavour: spicy
 dish: Kidney bean curry with whole spices. Full commitment, no apologies, exactly as hot as it should be.

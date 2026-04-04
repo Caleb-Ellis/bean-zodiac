@@ -1,4 +1,5 @@
 ---
+slug: spicy-black
 bean: black
 flavour: spicy
 dish: Black bean chilli with dried ancho and chipotle. The quiet one had fire all along.

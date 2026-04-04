@@ -1,4 +1,5 @@
 ---
+slug: spicy-pinto
 bean: pinto
 flavour: spicy
 dish: Spicy pinto bean burrito, fully loaded. Bold, satisfying, all the best qualities at once.

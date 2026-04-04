@@ -1,49 +1,26 @@
 ---
 import { getCollection } from "astro:content";
+import ZodiacResult from "../components/ZodiacResult.tsx";
 import Layout from "../layouts/Layout.astro";
+import { buildZodiacData } from "../lib/zodiac";
 import "../styles/global.css";
-import ZodiacResult from "../components/ZodiacResult";
-import type { ZodiacData } from "../components/ZodiacDatePicker";
-import { getCurrentBeanZodiac } from "../lib/zodiac";
 
-const [allBeans, allFlavours, allZodiacs] = await Promise.all([
-  getCollection("beans"),
-  getCollection("flavours"),
-  getCollection("zodiacs"),
-]);
+const beanCollection = await getCollection("beans");
+const flavourCollection = await getCollection("flavours");
+const zodiacCollection = await getCollection("zodiacs");
 
-const data: ZodiacData = {
-  beans: Object.fromEntries(
-    allBeans.map((b) => [b.id, { name: b.data.name, color: b.data.color }]),
-  ),
-  flavours: Object.fromEntries(
-    allFlavours.map((f) => [f.id, { name: f.data.name, color: f.data.color }]),
-  ),
-  zodiacs: Object.fromEntries(
-    allZodiacs.map((z) => [
-      z.id,
-      { dish: z.data.dish, fortune: z.data.fortune, body: z.body ?? "" },
-    ]),
-  ),
-};
-
-const currentZodiac = getCurrentBeanZodiac();
-const currentBean = data.beans[currentZodiac.beanSlug];
-const currentFlavour = data.flavours[currentZodiac.flavourSlug];
-const currentEntry = data.zodiacs[currentZodiac.slug];
+const data = buildZodiacData(
+  beanCollection,
+  flavourCollection,
+  zodiacCollection,
+);
 ---
 
 <Layout title="The Bean Zodiac" description="Discover your inner legume">
-  <!-- Current year zodiac (static) -->
   <section class="flex flex-col items-center my-4 sm:my-8">
-    <ZodiacResult
-      zodiac={currentZodiac}
-      bean={currentBean}
-      flavour={currentFlavour}
-      entry={currentEntry}
-      client:load
-    />
-    <div class="mb-4"></div>
+    <ZodiacResult data={data} date={new Date()} showFortune client:load />
+  </section>
+  <section class="flex flex-col items-center my-4 sm:my-8">
     <a href="/calendar">Which Bean are you? →</a>
   </section>
 </Layout>

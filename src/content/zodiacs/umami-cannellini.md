@@ -1,4 +1,5 @@
 ---
+slug: umami-cannellini
 bean: cannellini
 flavour: umami
 dish: Cannellini cooked slowly in deep stock until silky. Not flashy. Undeniably the best thing on the table.

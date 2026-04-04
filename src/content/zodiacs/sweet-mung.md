@@ -1,4 +1,5 @@
 ---
+slug: sweet-mung
 bean: mung
 flavour: sweet
 dish: Sweet mung bean soup. The bowl you make for someone who has been through something.

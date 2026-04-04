@@ -1,4 +1,5 @@
 ---
+slug: bitter-butter
 bean: butter
 flavour: bitter
 dish: Butter beans with braised radicchio and good olive oil. Richness that has earned its edge.

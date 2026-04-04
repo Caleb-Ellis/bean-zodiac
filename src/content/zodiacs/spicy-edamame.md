@@ -1,4 +1,5 @@
 ---
+slug: spicy-edamame
 bean: edamame
 flavour: spicy
 dish: Spicy edamame with garlic and chilli flakes. A bar snack that becomes a whole evening.

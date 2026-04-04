@@ -1,0 +1,53 @@
+---
+import { getCollection, render } from "astro:content";
+import BeanModel from "../../components/BeanModel.astro";
+import Layout from "../../layouts/Layout.astro";
+import "../../styles/global.css";
+
+export async function getStaticPaths() {
+  const beans = await getCollection("beans");
+  return beans.map((bean) => ({
+    params: { id: bean.id },
+    props: { bean },
+  }));
+}
+
+const { bean } = Astro.props;
+const { Content: BeanContent } = await render(bean);
+---
+
+<Layout title={bean.data.name} description={bean.data.tagline}>
+  <article
+    class="rounded-2xl bg-white shadow-sm border border-stone-200 overflow-hidden"
+  >
+    <div class="flex flex-col md:flex-row">
+      <div class="w-full md:w-80 shrink-0 aspect-square">
+        <BeanModel bean={bean.data} />
+      </div>
+      <div class="p-6 md:p-8 flex flex-col gap-4 min-w-0">
+        <a
+          href="/beans"
+          class="text-sm text-stone-400 hover:text-stone-600 transition-colors"
+        >
+          ← All Beans
+        </a>
+        <h1 class="text-3xl font-bold" style={`color: ${bean.data.color}`}>
+          {bean.data.name}
+        </h1>
+        <ul class="flex flex-wrap gap-1.5 list-none p-0 m-0">
+          {
+            bean.data.traits.map((trait) => (
+              <li class="text-xs px-2.5 py-1 rounded-full bg-stone-100 text-stone-600">
+                {trait}
+              </li>
+            ))
+          }
+        </ul>
+        <p class="text-stone-600 italic">{bean.data.tagline}</p>
+        <div class="markdown-content">
+          <BeanContent />
+        </div>
+      </div>
+    </div>
+  </article>
+</Layout>

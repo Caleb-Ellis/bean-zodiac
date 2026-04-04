@@ -6,31 +6,28 @@ import "../../styles/global.css";
 export async function getStaticPaths() {
   const flavours = await getCollection("flavours");
   return flavours.map((flavour) => ({
-    params: { slug: flavour.id },
+    params: { id: flavour.id },
     props: { flavour },
   }));
 }
 
 const { flavour } = Astro.props;
-const { Content } = await render(flavour);
+const { Content: FlavourContent } = await render(flavour);
 ---
 
 <Layout
   title={`${flavour.data.name} Flavour`}
-  description={`The ${flavour.data.name} flavour of the Bean Zodiac: ${flavour.data.traits.join(", ")}.`}
+  description={`The ${flavour.data.name} Flavourof the Bean Zodiac: ${flavour.data.traits.join(", ")}.`}
 >
   <article
     class="rounded-2xl bg-white shadow-sm border border-stone-200 overflow-hidden"
-    transition:name={`flavour-card-${flavour.id}`}
   >
     <div class="flex flex-col md:flex-row">
-      <!-- Left: color swatch panel -->
       <div
         class="w-full md:w-72 shrink-0 aspect-square md:aspect-auto"
         style={`background-color: ${flavour.data.color}`}
-      />
-
-      <!-- Right: content -->
+      >
+      </div>
       <div class="p-6 md:p-8 flex flex-col gap-4 min-w-0">
         <a
           href="/flavours"
@@ -51,53 +48,10 @@ const { Content } = await render(flavour);
           }
         </ul>
         <p class="text-stone-600 italic">{flavour.data.tagline}</p>
-        <div class="prose-content">
-          <Content />
+        <div class="markdown-content">
+          <FlavourContent />
         </div>
       </div>
     </div>
   </article>
 </Layout>
-
-<style>
-  .prose-content :global(p) {
-    margin-top: 1rem;
-    line-height: 1.75;
-    color: #44403c; /* stone-700 */
-  }
-
-  .prose-content :global(h2) {
-    margin-top: 1.5rem;
-    font-size: 1.25rem;
-    font-weight: 600;
-    color: #1c1917; /* stone-900 */
-  }
-
-  .prose-content :global(h3) {
-    margin-top: 1.25rem;
-    font-size: 1.1rem;
-    font-weight: 600;
-    color: #1c1917;
-  }
-
-  .prose-content :global(ul) {
-    margin-top: 0.75rem;
-    padding-left: 1.25rem;
-    list-style: disc;
-  }
-
-  .prose-content :global(li) {
-    margin-top: 0.25rem;
-    line-height: 1.75;
-    color: #44403c;
-  }
-
-  .prose-content :global(strong) {
-    font-weight: 600;
-    color: #1c1917;
-  }
-
-  .prose-content :global(em) {
-    font-style: italic;
-  }
-</style>

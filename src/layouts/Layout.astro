@@ -9,7 +9,7 @@ interface Props {
 
 const {
   title = "The Bean Zodiac",
-  description = "Discover your bean zodiac sign and what the stars — and legumes — have in store.",
+  description = "Discover your Bean Zodiac and what the stars — and legumes — have in store.",
 } = Astro.props;
 ---
 
@@ -25,7 +25,6 @@ const {
     <title>
       {title === "The Bean Zodiac" ? title : `${title} — The Bean Zodiac`}
     </title>
-    <ClientRouter />
   </head>
   <body class="bg-stone-50 text-stone-900 min-h-screen font-sans">
     <Navigation />

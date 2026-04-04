@@ -1,4 +1,5 @@
 ---
+slug: umami-navy
 bean: navy
 flavour: umami
 dish: Slow white bean soup, honest and perfect. The table has been set for years. It is full.

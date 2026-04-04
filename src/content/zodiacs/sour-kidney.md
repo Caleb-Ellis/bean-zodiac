@@ -1,4 +1,5 @@
 ---
+slug: sour-kidney
 bean: kidney
 flavour: sour
 dish: Kidney bean salad with red wine vinegar and herbs. Dense and filling, now vivid and alive.

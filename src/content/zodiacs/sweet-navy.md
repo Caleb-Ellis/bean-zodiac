@@ -1,4 +1,5 @@
 ---
+slug: sweet-navy
 bean: navy
 flavour: sweet
 dish: Navy beans in a slow sweet braise. Understated, deeply satisfying, exactly what you built toward.

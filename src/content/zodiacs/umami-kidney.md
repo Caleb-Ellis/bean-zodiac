@@ -1,4 +1,5 @@
 ---
+slug: umami-kidney
 bean: kidney
 flavour: umami
 dish: Slow-cooked kidney bean stew with smoked stock. The pot has been going all year. It is almost ready.

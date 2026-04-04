@@ -1,4 +1,5 @@
 ---
+slug: spicy-adzuki
 bean: adzuki
 flavour: spicy
 dish: Spiced red bean stew with chilli oil and pickled ginger. The party that becomes a story.

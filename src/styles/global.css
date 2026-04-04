@@ -1,1 +1,7 @@
 @import "tailwindcss";
+
+.markdown-content {
+  p:not(:last-of-type) {
+    margin-bottom: 1rem;
+  }
+}

@@ -1,4 +1,5 @@
 ---
+slug: umami-mung
 bean: mung
 flavour: umami
 dish: Slow mung bean broth, clear and deeply nourishing. The most useful thing in the room.

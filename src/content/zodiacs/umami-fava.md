@@ -1,4 +1,5 @@
 ---
+slug: umami-fava
 bean: fava
 flavour: umami
 dish: Slow-cooked fava bean soup with aged cheese. Depth upon depth, and none of it needs explaining.

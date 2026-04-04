@@ -1,4 +1,5 @@
 ---
+slug: sweet-edamame
 bean: edamame
 flavour: sweet
 dish: Fresh edamame with a sweet miso glaze. Young, bright, and the world showing up to meet you.

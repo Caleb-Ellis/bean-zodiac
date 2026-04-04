@@ -1,4 +1,5 @@
 ---
+slug: spicy-chickpea
 bean: chickpea
 flavour: spicy
 dish: Spicy roasted chickpeas. Impossible to stop eating. Impossible to stop talking about.

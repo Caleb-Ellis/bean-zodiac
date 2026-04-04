@@ -1,4 +1,5 @@
 ---
+slug: fava
 name: Fava Bean
 tagline: You carry what came before — and what comes next. TODO - focus on courage
 traits: [courageous, ancestral, risk-taker, historical, deeply rooted]

@@ -1,30 +1,19 @@
 ---
 import { getCollection } from "astro:content";
-import Layout from "../layouts/Layout.astro";
-import "../styles/global.css";
 import ZodiacCalendar from "../components/ZodiacCalendar";
-import type { ZodiacData } from "../components/ZodiacDatePicker";
+import Layout from "../layouts/Layout.astro";
+import { buildZodiacData } from "../lib/zodiac";
+import "../styles/global.css";
 
-const [allBeans, allFlavours, allZodiacs] = await Promise.all([
-  getCollection("beans"),
-  getCollection("flavours"),
-  getCollection("zodiacs"),
-]);
+const beanCollection = await getCollection("beans");
+const flavourCollection = await getCollection("flavours");
+const zodiacCollection = await getCollection("zodiacs");
 
-const data: ZodiacData = {
-  beans: Object.fromEntries(
-    allBeans.map((b) => [b.id, { name: b.data.name, color: b.data.color }]),
-  ),
-  flavours: Object.fromEntries(
-    allFlavours.map((f) => [f.id, { name: f.data.name, color: f.data.color }]),
-  ),
-  zodiacs: Object.fromEntries(
-    allZodiacs.map((z) => [
-      z.id,
-      { dish: z.data.dish, fortune: z.data.fortune, body: z.body ?? "" },
-    ]),
-  ),
-};
+const data = buildZodiacData(
+  beanCollection,
+  flavourCollection,
+  zodiacCollection,
+);
 ---
 
 <Layout

@@ -1,4 +1,5 @@
 ---
+slug: bitter-navy
 bean: navy
 flavour: bitter
 dish: Slow-cooked navy beans with bitter greens. The long game, and it was worth playing.

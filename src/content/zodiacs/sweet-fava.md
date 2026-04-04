@@ -1,4 +1,5 @@
 ---
+slug: sweet-fava
 bean: fava
 flavour: sweet
 dish: Fava bean and honey bruschetta. All that history, and this year it gets to just be a treat.

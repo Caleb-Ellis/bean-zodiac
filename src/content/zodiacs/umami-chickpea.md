@@ -1,4 +1,5 @@
 ---
+slug: umami-chickpea
 bean: chickpea
 flavour: umami
 dish: Slow-roasted chickpeas with miso and olive oil. Unpretentious, deeply satisfying, better than it looks.

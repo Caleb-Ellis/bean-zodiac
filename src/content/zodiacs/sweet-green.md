@@ -1,4 +1,5 @@
 ---
+slug: sweet-green
 bean: green
 flavour: sweet
 dish: Green bean almondine with brown butter and a little honey. Simple, good, no argument required.

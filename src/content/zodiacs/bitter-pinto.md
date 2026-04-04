@@ -1,4 +1,5 @@
 ---
+slug: bitter-pinto
 bean: pinto
 flavour: bitter
 dish: Slow-cooked pinto beans with bitter herbs. An acquired taste, and worth acquiring.

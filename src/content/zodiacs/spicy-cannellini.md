@@ -1,4 +1,5 @@
 ---
+slug: spicy-cannellini
 bean: cannellini
 flavour: spicy
 dish: Cannellini in a spicy tomato braise. Incongruous on paper, completely convincing in practice.
