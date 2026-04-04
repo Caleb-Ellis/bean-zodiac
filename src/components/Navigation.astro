@@ -1,16 +1,14 @@
 ---
 const links = [
-  { href: "/", label: "This Year" },
-  { href: "/calendar", label: "Calendar" },
-  { href: "/beans", label: "Beans" },
-  { href: "/flavours", label: "Flavours" },
+  { href: "/beans", label: "Meet the Beans" },
+  { href: "/flavours", label: "Taste the Flavours" },
 ];
 
 const current = Astro.url.pathname;
 ---
 
 <nav>
-  <a href="/" class="nav-logo">Bean Zodiac</a>
+  <a href="/" class="nav-logo">The Bean Zodiac</a>
   <ul>
     {
       links.map(({ href, label }) => (

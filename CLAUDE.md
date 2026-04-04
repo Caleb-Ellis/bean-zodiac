@@ -40,13 +40,11 @@ Zodiacs are the Cartesian product of all beans and flavours. Each gets a horosco
 
 ### Pages and Routing
 
-- `/` — Current year's zodiac (bean + element + combo horoscope teaser)
-- `/calendar` — 121-year table (60 past + current + 60 future), highlights current year
+- `/` — Current year's zodiac (bean + flavour + zodiac) + date picker
 - `/beans/` — All 12 beans listed
 - `/beans/[slug]` — Bean detail with traits and markdown body
 - `/flavours/` — All 5 flavours listed
 - `/flavours/[slug]` — Flavour detail with traits and markdown body
-- `/zodiacs/[beanYear]` — Zodiac detail with markdown body
 
 Detail pages use `getStaticPaths()` for static generation at build time.
 

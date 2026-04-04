@@ -1,72 +1,29 @@
 ---
-import { getEntry, render } from "astro:content";
+import { getCollection } from "astro:content";
 import Layout from "../layouts/Layout.astro";
-import BeanModel from "../components/BeanModel.astro";
 import "../styles/global.css";
-import { getCurrentBeanZodiac } from "../lib/zodiac";
+import ZodiacDatePicker from "../components/ZodiacDatePicker";
+import type { ZodiacData } from "../components/ZodiacDatePicker";
 
-const currentBeanZodiac = getCurrentBeanZodiac();
-
-const [beanEntry, flavourEntry, zodiacEntry] = await Promise.all([
-  getEntry("beans", currentBeanZodiac.beanSlug),
-  getEntry("flavours", currentBeanZodiac.flavourSlug),
-  getEntry("zodiacs", currentBeanZodiac.slug),
+const [allBeans, allFlavours, allZodiacs] = await Promise.all([
+  getCollection("beans"),
+  getCollection("flavours"),
+  getCollection("zodiacs"),
 ]);
 
-if (!beanEntry || !flavourEntry || !zodiacEntry) {
-  throw new Error(`Missing content for zodiac: ${currentBeanZodiac.slug}`);
-}
+const data: ZodiacData = {
+  beans: Object.fromEntries(
+    allBeans.map((b) => [b.id, { name: b.data.name, color: b.data.color }]),
+  ),
+  flavours: Object.fromEntries(
+    allFlavours.map((f) => [f.id, { name: f.data.name, color: f.data.color }]),
+  ),
+  zodiacs: Object.fromEntries(
+    allZodiacs.map((z) => [z.id, { dish: z.data.dish, fortune: z.data.fortune }]),
+  ),
+};
 ---
 
-<Layout
-  title="The Bean Zodiac"
-  description={`${flavourEntry.data.name} + ${beanEntry.data.name}`}
->
-  <section>
-    <p>
-      {currentBeanZodiac.startDate} - {currentBeanZodiac.endDate}
-    </p>
-    <h1>
-      The Year of the
-      <a
-        href={`/flavours/${currentBeanZodiac.flavourSlug}`}
-        style={`color: ${flavourEntry.data.color}`}
-      >
-        {flavourEntry.data.name}
-      </a>
-      <a
-        href={`/beans/${currentBeanZodiac.beanSlug}`}
-        style={`color: ${beanEntry.data.color}`}
-      >
-        {beanEntry.data.name}
-      </a>
-    </h1>
-  </section>
-
-  <section>
-    <BeanModel
-      modelFile={beanEntry.data.modelFile}
-      beanName={beanEntry.data.name}
-      color={beanEntry.data.color}
-    />
-  </section>
-
-  <section>
-    <p>{zodiacEntry.data.dish}</p>
-    <p><strong>This Bean Year's fortune:</strong> {zodiacEntry.data.fortune}</p>
-  </section>
-
-  <nav>
-    <a href="/calendar">View the full calendar →</a>
-    <a href={`/beans/${currentBeanZodiac.beanSlug}`}
-      >About the {beanEntry.data.name} →</a
-    >
-    <a href={`/flavours/${currentBeanZodiac.flavourSlug}`}
-      >About the {flavourEntry.data.name} flavour →</a
-    >
-    <a href={`/zodiacs/${currentBeanZodiac.slug}`}
-      >About those born in the Year of the {flavourEntry.data.name}
-      {beanEntry.data.name} →</a
-    >
-  </nav>
+<Layout title="The Bean Zodiac" description="Find your bean.">
+  <ZodiacDatePicker data={data} client:load />
 </Layout>
