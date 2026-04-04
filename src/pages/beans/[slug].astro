@@ -14,23 +14,85 @@ const { Content } = await render(bean);
 ---
 
 <Layout title={bean.data.name} description={bean.data.tagline}>
-  <article>
-    <header>
-      <a href="/beans">← All Beans</a>
-      <BeanModel
-        beanName={bean.data.name}
-        color={bean.data.color}
-        modelFile={bean.data.modelFile}
-      />
-      <h1 style={`color: ${bean.data.color}`}>{bean.data.name}</h1>
-      <p>{bean.data.tagline}</p>
-      <ul>
-        {bean.data.traits.map((trait) => <li>{trait}</li>)}
-      </ul>
-    </header>
+  <article
+    class="rounded-2xl bg-white shadow-sm border border-stone-200 overflow-hidden"
+    transition:name={`bean-card-${bean.id}`}
+  >
+    <div class="flex flex-col md:flex-row">
+      <!-- Left: bean model (square) -->
+      <div class="w-full md:w-80 shrink-0 aspect-square">
+        <BeanModel
+          beanName={bean.data.name}
+          color={bean.data.color}
+          modelFile={bean.data.modelFile}
+        />
+      </div>
 
-    <div>
-      <Content />
+      <!-- Right: content -->
+      <div class="p-6 md:p-8 flex flex-col gap-4 min-w-0">
+        <a href="/beans" class="text-sm text-stone-400 hover:text-stone-600 transition-colors">
+          ← All Beans
+        </a>
+        <h1 class="text-3xl font-bold" style={`color: ${bean.data.color}`}>
+          {bean.data.name}
+        </h1>
+        <ul class="flex flex-wrap gap-1.5 list-none p-0 m-0">
+          {
+            bean.data.traits.map((trait) => (
+              <li class="text-xs px-2.5 py-1 rounded-full bg-stone-100 text-stone-600">
+                {trait}
+              </li>
+            ))
+          }
+        </ul>
+        <p class="text-stone-600 italic">{bean.data.tagline}</p>
+        <div class="prose-content">
+          <Content />
+        </div>
+      </div>
     </div>
   </article>
 </Layout>
+
+<style>
+  .prose-content :global(p) {
+    margin-top: 1rem;
+    line-height: 1.75;
+    color: #44403c; /* stone-700 */
+  }
+
+  .prose-content :global(h2) {
+    margin-top: 1.5rem;
+    font-size: 1.25rem;
+    font-weight: 600;
+    color: #1c1917; /* stone-900 */
+  }
+
+  .prose-content :global(h3) {
+    margin-top: 1.25rem;
+    font-size: 1.1rem;
+    font-weight: 600;
+    color: #1c1917;
+  }
+
+  .prose-content :global(ul) {
+    margin-top: 0.75rem;
+    padding-left: 1.25rem;
+    list-style: disc;
+  }
+
+  .prose-content :global(li) {
+    margin-top: 0.25rem;
+    line-height: 1.75;
+    color: #44403c;
+  }
+
+  .prose-content :global(strong) {
+    font-weight: 600;
+    color: #1c1917;
+  }
+
+  .prose-content :global(em) {
+    font-style: italic;
+  }
+</style>

@@ -15,32 +15,40 @@ const sortedBeans = BEAN_ORDER.map(
   title="The Twelve Beans"
   description="The twelve bean varieties of the Bean Zodiac, each with its own character, fortune, and wisdom."
 >
-  <section>
-    <h1>The Twelve Beans</h1>
-    <p>
-      Each bean carries its own character, wisdom, and fortune. Which one are
-      you?
+  <section class="py-12 text-center">
+    <h1 class="text-4xl sm:text-5xl font-bold">The Twelve Beans</h1>
+    <p class="mt-3 text-lg text-stone-500 max-w-xl mx-auto">
+      Each bean carries its own character, wisdom, and fortune. Which one are you?
     </p>
   </section>
 
-  <ul>
+  <ul class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 list-none p-0 m-0">
     {
       sortedBeans.map((bean) => (
-        <li>
-          <a href={`/beans/${bean.id}`}>
+        <li
+          class="rounded-2xl border border-stone-200 bg-white shadow-sm overflow-hidden hover:shadow-md transition-shadow"
+          transition:name={`bean-card-${bean.id}`}
+        >
+          <a href={`/beans/${bean.id}`} class="block aspect-square w-full">
             <BeanModel
               beanName={bean.data.name}
               color={bean.data.color}
               modelFile={bean.data.modelFile}
             />
-            <h2 style={`color: ${bean.data.color}`}>{bean.data.name}</h2>
           </a>
-          <p>{bean.data.tagline}</p>
-          <ul class="traits">
-            {bean.data.traits.map((trait) => (
-              <li>{trait}</li>
-            ))}
-          </ul>
+          <div class="p-4">
+            <h2 class="text-lg font-semibold" style={`color: ${bean.data.color}`}>
+              {bean.data.name}
+            </h2>
+            <p class="text-sm text-stone-600 mt-1">{bean.data.tagline}</p>
+            <ul class="flex flex-wrap gap-1.5 mt-3 list-none p-0 m-0">
+              {bean.data.traits.map((trait) => (
+                <li class="text-xs px-2.5 py-1 rounded-full bg-stone-100 text-stone-600">
+                  {trait}
+                </li>
+              ))}
+            </ul>
+          </div>
         </li>
       ))
     }

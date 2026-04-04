@@ -14,27 +14,38 @@ const sortedFlavours = FLAVOUR_ORDER.map(
   title="The Five Flavours"
   description="Bitter, Spicy, Umami, Sweet, and Sour - the five flavours that shape each Bean Zodiac year."
 >
-  <section>
-    <h1>The Five Flavours</h1>
-    <p>
-      Each year is shaped not only by its bean, but by one of five fundamental
-      flavours.
+  <section class="py-12 text-center">
+    <h1 class="text-4xl sm:text-5xl font-bold">The Five Flavours</h1>
+    <p class="mt-3 text-lg text-stone-500 max-w-xl mx-auto">
+      Each year is shaped not only by its bean, but by one of five fundamental flavours.
     </p>
   </section>
 
-  <ul>
+  <ul class="grid grid-cols-1 sm:grid-cols-2 gap-6 list-none p-0 m-0">
     {
       sortedFlavours.map((flavour) => (
-        <li>
-          <a href={`/flavours/${flavour.id}`}>
-            <h2 style={`color: ${flavour.data.color}`}>{flavour.data.name}</h2>
+        <li
+          class="rounded-2xl border border-stone-200 bg-white shadow-sm overflow-hidden hover:shadow-md transition-shadow"
+          transition:name={`flavour-card-${flavour.id}`}
+        >
+          <a href={`/flavours/${flavour.id}`} class="block">
+            <div class="h-24 w-full" style={`background-color: ${flavour.data.color}`} />
           </a>
-          <p>{flavour.data.tagline}</p>
-          <ul class="traits">
-            {flavour.data.traits.map((trait) => (
-              <li>{trait}</li>
-            ))}
-          </ul>
+          <div class="p-4">
+            <a href={`/flavours/${flavour.id}`} class="no-underline">
+              <h2 class="text-xl font-semibold" style={`color: ${flavour.data.color}`}>
+                {flavour.data.name}
+              </h2>
+            </a>
+            <p class="text-sm text-stone-600 mt-1">{flavour.data.tagline}</p>
+            <ul class="flex flex-wrap gap-1.5 mt-3 list-none p-0 m-0">
+              {flavour.data.traits.map((trait) => (
+                <li class="text-xs px-2.5 py-1 rounded-full bg-stone-100 text-stone-600">
+                  {trait}
+                </li>
+              ))}
+            </ul>
+          </div>
         </li>
       ))
     }

@@ -45,8 +45,8 @@ export default function ZodiacDatePicker({ data }: Props) {
   if (!bean || !flavour || !entry) return null;
 
   return (
-    <>
-      <section>
+    <div className="flex flex-col items-center text-center gap-6">
+      <section className="flex flex-col items-center gap-2">
         <input
           type="date"
           value={toDateInputValue(date)}
@@ -54,10 +54,10 @@ export default function ZodiacDatePicker({ data }: Props) {
             if (e.target.value) setDate(parseDateInputValue(e.target.value));
           }}
         />
-        <p>
-          {zodiac.startDate} - {zodiac.endDate}
+        <p className="text-sm text-stone-500">
+          {zodiac.startDate} – {zodiac.endDate}
         </p>
-        <h1>
+        <h2 className="text-4xl sm:text-5xl font-bold tracking-tight leading-tight">
           The Year of the{" "}
           <a
             href={`/flavours/${zodiac.flavourSlug}`}
@@ -68,22 +68,21 @@ export default function ZodiacDatePicker({ data }: Props) {
           <a href={`/beans/${zodiac.beanSlug}`} style={{ color: bean.color }}>
             {bean.name}
           </a>
-        </h1>
+        </h2>
       </section>
 
-      <section>
-        <p>{entry.dish}</p>
-        <p>
-          <strong>This Bean Year's fortune:</strong> {entry.fortune}
-        </p>
+      <section className="flex flex-col items-center gap-3 max-w-xl">
+        <p className="text-stone-600">{entry.dish}</p>
+        <p className="text-lg font-semibold text-stone-800">This Year's Bean Fortune</p>
+        <p className="italic text-stone-600">"{entry.fortune}"</p>
       </section>
 
-      <nav>
+      <nav className="flex gap-6">
         <a href={`/beans/${zodiac.beanSlug}`}>About the {bean.name} →</a>
         <a href={`/flavours/${zodiac.flavourSlug}`}>
           About the {flavour.name} flavour →
         </a>
       </nav>
-    </>
+    </div>
   );
 }
