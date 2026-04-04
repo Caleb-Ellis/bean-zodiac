@@ -50,21 +50,24 @@ export default function ZodiacCalendar({ data }: Props) {
       <ZodiacWheel beans={data.beans} highlightSlug={zodiac.beanSlug} />
 
       <section className="flex flex-col items-center gap-2">
-        <p className="text-sm text-stone-500">
+        <h2 className="mb-2">
+          <span className="text-xl sm:text-2xl font-bold">The Year of the</span>
+          <br />
+          <span className="text-4xl sm:text-7xl font-bold">
+            <a
+              href={`/flavours/${zodiac.flavourSlug}`}
+              style={{ color: flavour.color }}
+            >
+              {flavour.name}
+            </a>{" "}
+            <a href={`/beans/${zodiac.beanSlug}`} style={{ color: bean.color }}>
+              {bean.name}
+            </a>
+          </span>
+        </h2>
+        <p className="mb-2">
           {zodiac.startDate} – {zodiac.endDate}
         </p>
-        <h2 className="text-4xl sm:text-5xl font-bold tracking-tight leading-tight">
-          The Year of the{" "}
-          <a
-            href={`/flavours/${zodiac.flavourSlug}`}
-            style={{ color: flavour.color }}
-          >
-            {flavour.name}
-          </a>{" "}
-          <a href={`/beans/${zodiac.beanSlug}`} style={{ color: bean.color }}>
-            {bean.name}
-          </a>
-        </h2>
       </section>
 
       <section className="flex flex-col items-center gap-4 max-w-xl">

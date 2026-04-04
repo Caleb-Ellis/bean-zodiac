@@ -20,7 +20,10 @@ const data: ZodiacData = {
     allFlavours.map((f) => [f.id, { name: f.data.name, color: f.data.color }]),
   ),
   zodiacs: Object.fromEntries(
-    allZodiacs.map((z) => [z.id, { dish: z.data.dish, fortune: z.data.fortune, body: z.body ?? "" }]),
+    allZodiacs.map((z) => [
+      z.id,
+      { dish: z.data.dish, fortune: z.data.fortune, body: z.body ?? "" },
+    ]),
   ),
 };
 
@@ -30,15 +33,9 @@ const currentFlavour = data.flavours[currentZodiac.flavourSlug];
 const currentEntry = data.zodiacs[currentZodiac.slug];
 ---
 
-<Layout title="The Bean Zodiac" description="Find your bean.">
-  <!-- Hero -->
-  <section class="text-center py-16">
-    <h1 class="text-5xl sm:text-7xl font-bold tracking-tight">The Bean Zodiac</h1>
-    <p class="mt-3 text-xl sm:text-2xl text-stone-500">Discover your inner legume</p>
-  </section>
-
+<Layout title="The Bean Zodiac" description="Discover your inner legume">
   <!-- Current year zodiac (static) -->
-  <section class="py-8 border-t border-stone-200 flex flex-col items-center">
+  <section class="flex flex-col items-center my-4 sm:my-8">
     <ZodiacResult
       zodiac={currentZodiac}
       bean={currentBean}
@@ -46,5 +43,7 @@ const currentEntry = data.zodiacs[currentZodiac.slug];
       entry={currentEntry}
       client:load
     />
+    <div class="mb-4"></div>
+    <a href="/calendar">Which Bean are you? →</a>
   </section>
 </Layout>
