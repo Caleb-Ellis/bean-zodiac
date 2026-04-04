@@ -1,9 +1,11 @@
 import { useState, useEffect } from "react";
 import { getBeanYear, getBeanZodiacForYear } from "../lib/zodiac";
+import ZodiacResult from "./ZodiacResult";
+import ZodiacWheel from "./ZodiacWheel";
 
 type BeanEntry = { name: string; color: string };
 type FlavourEntry = { name: string; color: string };
-type ZodiacEntry = { dish: string; fortune: string };
+type ZodiacEntry = { dish: string; fortune: string; body: string };
 
 export type ZodiacData = {
   beans: Record<string, BeanEntry>;
@@ -45,7 +47,7 @@ export default function ZodiacDatePicker({ data }: Props) {
   if (!bean || !flavour || !entry) return null;
 
   return (
-    <div className="flex flex-col items-center text-center gap-6">
+    <div className="flex flex-col items-center text-center gap-8">
       <section className="flex flex-col items-center gap-2">
         <input
           type="date"
@@ -54,35 +56,11 @@ export default function ZodiacDatePicker({ data }: Props) {
             if (e.target.value) setDate(parseDateInputValue(e.target.value));
           }}
         />
-        <p className="text-sm text-stone-500">
-          {zodiac.startDate} – {zodiac.endDate}
-        </p>
-        <h2 className="text-4xl sm:text-5xl font-bold tracking-tight leading-tight">
-          The Year of the{" "}
-          <a
-            href={`/flavours/${zodiac.flavourSlug}`}
-            style={{ color: flavour.color }}
-          >
-            {flavour.name}
-          </a>{" "}
-          <a href={`/beans/${zodiac.beanSlug}`} style={{ color: bean.color }}>
-            {bean.name}
-          </a>
-        </h2>
       </section>
 
-      <section className="flex flex-col items-center gap-3 max-w-xl">
-        <p className="text-stone-600">{entry.dish}</p>
-        <p className="text-lg font-semibold text-stone-800">This Year's Bean Fortune</p>
-        <p className="italic text-stone-600">"{entry.fortune}"</p>
-      </section>
+      <ZodiacWheel beans={data.beans} highlightSlug={zodiac.beanSlug} />
 
-      <nav className="flex gap-6">
-        <a href={`/beans/${zodiac.beanSlug}`}>About the {bean.name} →</a>
-        <a href={`/flavours/${zodiac.flavourSlug}`}>
-          About the {flavour.name} flavour →
-        </a>
-      </nav>
+      <ZodiacResult zodiac={zodiac} bean={bean} flavour={flavour} entry={entry} />
     </div>
   );
 }
