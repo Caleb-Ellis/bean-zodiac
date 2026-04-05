@@ -1,4 +1,4 @@
-import { useEffect, useRef, useState } from "react";
+import { useState } from "react";
 import { type ZodiacData } from "../lib/zodiac";
 import ZodiacWheel from "./ZodiacWheel";
 import ZodiacResult from "./ZodiacResult";
@@ -12,15 +12,6 @@ export default function ZodiacCalendar({ data }: Props) {
     toDateInputValue(new Date()),
   );
   const [selectedDate, setSelectedDate] = useState<Date | null>(null);
-  const resultRef = useRef<HTMLDivElement>(null);
-
-  useEffect(() => {
-    if (selectedDate && resultRef.current) {
-      requestAnimationFrame(() => {
-        resultRef.current?.scrollIntoView({ behavior: "smooth", block: "start" });
-      });
-    }
-  }, [selectedDate]);
 
   function handleReveal() {
     if (!inputDate) return;
@@ -46,7 +37,7 @@ export default function ZodiacCalendar({ data }: Props) {
         </button>
       </section>
       {selectedDate && (
-        <div ref={resultRef}>
+        <div>
           <ZodiacResult
             key={selectedDate.getTime()}
             data={data}
