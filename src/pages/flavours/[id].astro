@@ -24,8 +24,7 @@ const { Content: FlavourContent } = await render(flavour);
   >
     <div class="flex flex-col md:flex-row">
       <div
-        class="w-full md:w-72 shrink-0 aspect-square md:aspect-auto"
-        style={`background-color: ${flavour.data.color}`}
+        class={`w-full md:w-72 shrink-0 aspect-square md:aspect-auto bg-flavour-${flavour.id}`}
       >
       </div>
       <div class="p-6 md:p-8 flex flex-col gap-4 min-w-0">
@@ -35,7 +34,7 @@ const { Content: FlavourContent } = await render(flavour);
         >
           ← All Flavours
         </a>
-        <h1 class="text-3xl font-bold" style={`color: ${flavour.data.color}`}>
+        <h1 class={`text-3xl font-bold flavour-${flavour.id}`}>
           {flavour.data.name}
         </h1>
         <ul class="flex flex-wrap gap-1.5 list-none p-0 m-0">

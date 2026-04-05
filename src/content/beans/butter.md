@@ -3,7 +3,6 @@ slug: butter
 name: Butter Bean
 tagline: True abundance is quiet and unhurried.
 traits: [nurturing, generous, patient, grounding, comfortable]
-color: "#f5d048"
 modelFile: butter.glb
 ---
 

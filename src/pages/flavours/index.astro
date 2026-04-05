@@ -13,27 +13,20 @@ const flavours = await getCollection("flavours");
   <section class="py-12 text-center">
     <h1 class="text-4xl sm:text-5xl font-bold">The Five Flavours</h1>
     <p class="mt-3 text-lg text-zinc-400 max-w-xl mx-auto">
-      Each year is shaped not only by its bean, but by one of five fundamental
-      flavours.
+      Each year is shaped not only by its Bean, but by one of five fundamental
+      Flavours.
     </p>
   </section>
-
   <ul class="grid grid-cols-1 sm:grid-cols-2 gap-6 list-none p-0 m-0">
     {
       flavours.map((flavour) => (
         <li class="rounded-2xl border border-zinc-800 bg-zinc-900 overflow-hidden hover:border-zinc-600 transition-colors">
           <a href={`/flavours/${flavour.id}`} class="block">
-            <div
-              class="h-24 w-full"
-              style={`background-color: ${flavour.data.color}`}
-            />
+            <div class={`h-24 w-full bg-flavour-${flavour.id}`} />
           </a>
           <div class="p-4">
             <a href={`/flavours/${flavour.id}`} class="no-underline">
-              <h2
-                class="text-xl font-semibold"
-                style={`color: ${flavour.data.color}`}
-              >
+              <h2 class={`text-xl font-semibold flavour-${flavour.id}`}>
                 {flavour.data.name}
               </h2>
             </a>

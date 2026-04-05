@@ -3,7 +3,6 @@ slug: mung
 name: Mung Bean
 tagline: Small seeds, patient hands, quiet miracles.
 traits: [healing, gentle, regenerative, adaptable, quietly powerful]
-color: "#90d038"
 modelFile: mung.glb
 ---
 

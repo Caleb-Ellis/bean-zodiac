@@ -3,7 +3,6 @@ slug: spicy
 name: Spicy
 tagline: The Flavour that announces itself without apology.
 traits: [bold, transformative, immediate, courageous, intense]
-color: "#ff1a1a"
 ---
 
 Spicy is not one Flavour but many — the bright hit of fresh chilli, the slow build of black pepper, the nasal flare of wasabi, the lingering warmth of ginger — but all share the same fundamental quality: they demand your full attention. You cannot eat something spicy while distracted. A spicy year has this same commanding presence.

@@ -33,11 +33,11 @@ export default function ZodiacResult({
           <span className="text-4xl sm:text-7xl font-bold">
             <a
               href={`/flavours/${flavour.slug}`}
-              style={{ color: flavour.color }}
+              className={`flavour-${flavour.slug}`}
             >
               {flavour.name}
             </a>{" "}
-            <a href={`/beans/${bean.slug}`} style={{ color: bean.color }}>
+            <a href={`/beans/${bean.slug}`} className={`bean-${bean.slug}`}>
               {bean.name}
             </a>
           </span>

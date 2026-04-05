@@ -3,7 +3,6 @@ slug: sour
 name: Sour
 tagline: The Flavour that cuts through everything else.
 traits: [sharp, clarifying, precise, honest, refreshing]
-color: "#ffe000"
 ---
 
 Sour is the great clarifier. A squeeze of lemon over a rich dish, a spoonful of yogurt cutting through sweetness, the bright acid of a good vinaigrette pulling a salad into focus — sourness does not compete with other flavours, it defines them. It makes everything around it more vivid. A Sour Year is similarly clarifying: the fog lifts, the unnecessary falls away, and what remains is brighter for having been sharpened.

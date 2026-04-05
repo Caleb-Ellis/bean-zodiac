@@ -6,7 +6,6 @@ export const beanSchema = z.object({
   slug: z.enum(BeanIds),
   tagline: z.string(),
   traits: z.array(z.string()),
-  color: z.string(),
   modelFile: z.string().optional(),
 });
 export type BeanSchema = z.infer<typeof beanSchema>;

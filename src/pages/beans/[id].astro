@@ -31,7 +31,7 @@ const { Content: BeanContent } = await render(bean);
         >
           ← All Beans
         </a>
-        <h1 class="text-3xl font-bold" style={`color: ${bean.data.color}`}>
+        <h1 class={`text-3xl font-bold bean-${bean.id}`}>
           {bean.data.name}
         </h1>
         <ul class="flex flex-wrap gap-1.5 list-none p-0 m-0">

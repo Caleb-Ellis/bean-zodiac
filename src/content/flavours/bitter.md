@@ -3,7 +3,6 @@ slug: bitter
 name: Bitter
 tagline: The Flavour that rewards patience.
 traits: [discerning, complex, cultivated, deep, transformative]
-color: "#1a4fff"
 ---
 
 The Bitter Flavour is the one that takes the longest to love. Children reject it; seasoned palates seek it out. A Bitter Year carries this same quality: it will not yield its gifts immediately, and those who expect easy reward will turn away. But those who lean into the complexity will find a richness that sweeter years cannot match.

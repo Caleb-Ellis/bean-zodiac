@@ -6,6 +6,5 @@ export const flavourSchema = z.object({
   slug: z.enum(FlavourIds),
   tagline: z.string(),
   traits: z.array(z.string()),
-  color: z.string(),
 });
 export type FlavourSchema = z.infer<typeof flavourSchema>;

@@ -3,7 +3,6 @@ slug: cannellini
 name: Cannellini Bean
 tagline: Clarity is a form of generosity. TODO - something about elegance
 traits: [refined, elegant, clear-headed, discerning, gracious]
-color: "#f0e880"
 modelFile: cannellini.glb
 ---
 
