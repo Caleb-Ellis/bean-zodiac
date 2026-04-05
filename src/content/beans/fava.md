@@ -1,16 +1,13 @@
 ---
 slug: fava
 name: Fava Bean
+tagline: The risk is the point.
+traits: [courageous, bold, daring, pioneering, reckless]
 imageFile: fava.webp
-tagline: You carry what came before — and what comes next. TODO - focus on courage
-traits: [courageous, ancestral, risk-taker, historical, deeply rooted]
-modelFile: fava.glb
 ---
 
-The Fava Bean is ancient — one of the oldest cultivated plants on earth, present in burial sites, sacred rites, and the diets of civilizations long dissolved. Those born under the Fava Bean carry this weight of history consciously. They feel the presence of those who came before them, and understand that they are also ancestors in the making.
+The Fava Bean requires effort. To reach it, you must work through a thick outer pod, then remove a second tough skin to find what is actually inside: a vivid, brilliant Bean that is one of the great pleasures of the spring table. Most cooks skip it when something easier is available. Those who do the work are rewarded with a flavour the simpler alternatives never come close to. Those born under the Fava Bean have always understood this.
 
-Fava Beans are not afraid of significance. Where others shy away from big questions, they move toward them: questions of legacy, meaning, mortality, and what we owe to the future. Their courage is not the flashy kind — it is the slow, deliberate bravery of those who carry on because someone has to.
+Fava Beans are not afraid of difficulty. Where others are deterred by the double preparation, the short season, the effort of the thing, Fava Beans move toward it. Their courage is not performed — it lives in the decision to start before the outcome is guaranteed.
 
-<!-- TODO - Fava should be about courage, challenge should be about being too risky -->
-
-The Fava Bean's challenge is the weight of inheritance. Carrying the past is an honor, but honoring it cannot be allowed to override the present. The Fava Year asks all Beans to tend what was handed down while leaving enough room for what has not yet happened.
+The Fava Bean's challenge is recklessness. Courage without judgment is just speed. The Fava Year asks all Beans to ask not just whether they are willing to do the work — but whether this particular work is worth doing.

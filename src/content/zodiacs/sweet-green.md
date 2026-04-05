@@ -2,8 +2,8 @@
 slug: sweet-green
 bean: green
 flavour: sweet
-dish: Green bean almondine with brown butter and a little honey. Simple, good, no argument required.
-fortune: It is as good as it seems, and there is no catch. Some years are just like green bean almondine, and the only mistake would be spending them looking for what is wrong.
+dish: Green beans quickly blanched, bright and ready. The moment is here — use it.
+fortune: The timing is good. Move without waiting for further confirmation.
 ---
 
-People born in the Year of the Sweet Green Bean are the fresh-spirited people for whom things simply go well — not through luck exactly, but because their natural momentum and openness tend to carry them somewhere good without excessive effort. They have the Green Bean's vivid, present-tense energy in its sweetest form: unencumbered, forward-moving, and well-received. Their complication is a slight wariness of ease, a tendency to assume that something going smoothly must mean they have missed something. They have not missed anything. Some things are just as good as they seem, and this person is one of them.
+People born in the Year of the Sweet Green Bean are the Bean Zodiac's most naturally optimistic movers — bright, enthusiastic, and in a Sweet Year, finding that their momentum carries them somewhere good with almost no resistance. They have the Green Bean's vivid present-moment energy in its most unencumbered form: doors open, ideas land, and things go well with a consistency that others find remarkable. Their complication is a slight wariness of ease — a tendency to assume something going smoothly means they've missed something. They haven't.

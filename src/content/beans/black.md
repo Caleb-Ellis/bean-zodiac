@@ -1,14 +1,13 @@
 ---
 slug: black
 name: Black Bean
-imageFile: black.webp
 tagline: Depth conceals infinite possibility.
-traits: [introspective, mysterious, resilient, perceptive, determined]
-modelFile: black.glb
+traits: [perceptive, resilient, determined, introspective, guarded]
+imageFile: black.webp
 ---
 
-The Black Bean is the keeper of secrets and the guardian of hidden truths. Like the fertile darkness of soil before the first sprout, those born under the Black Bean possess a profound inner world that few are invited to witness. Their strength is not worn on the outside — it lives in the quiet depths where ideas gestate and resolve hardens.
+The Black Bean holds its shape. Unlike beans that dissolve under pressure, it stays firm — giving up its richness slowly, to those who earn it through time and heat. Slice one open and the interior is cream-coloured: the outside reveals nothing about what is inside. When it cooks, it darkens the liquid around it, staining everything in the pot. Those born under the Black Bean are the same.
 
-Black Beans observe before acting, weigh before speaking, and trust only what they have tested themselves. This deliberateness can be mistaken for aloofness, but it is simply the patience of something that knows its own worth. The Black Bean does not need to announce itself — it simply is.
+Black Beans observe before acting, weigh before speaking, and trust only what they have tested themselves. This deliberateness gets mistaken for aloofness, but it is simply the patience of something that knows its own worth. You notice a Black Bean not by how it looks, but by what the broth has become.
 
-The Black Bean's challenge is opacity. Do not hide. The Black Year asks all Beans to let at least one person see what lives beneath the surface.
+The Black Bean's challenge is opacity. The cream-coloured interior never gets to be what it is if the shell never opens. The Black Year asks all Beans to let at least one person see what lives beneath the surface.

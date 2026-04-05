@@ -1,14 +1,13 @@
 ---
 slug: pinto
 name: Pinto Bean
-imageFile: pinto.webp
 tagline: Your markings are your map.
-traits: [creative, expressive, colorful, spontaneous, storytelling]
-modelFile: pinto.glb
+traits: [creative, expressive, spontaneous, imaginative, overemotional]
+imageFile: pinto.webp
 ---
 
-The Pinto Bean wears its history on its skin — a landscape of swirls, speckles, and streaks, each one a record of where it has been and what it has weathered. Those born under the Pinto Bean are similarly marked by experience, and they wear their stories openly, without apology.
+The Pinto Bean is painted. Its skin is a landscape of streaks and speckles — browns and pinks and creams in a pattern unique to each Bean. When you cook it, the markings fade: the vivid exterior dissolves into the pot, the speckles blur, and what remains is a uniformly russet bean. But the broth carries every colour that was on the surface. Those born under the Pinto Bean wear their stories the same way.
 
-Pinto Beans are expressive souls. Where others keep their complexities hidden, Pinto Beans let theirs show — in the way they dress, the way they talk, the projects they pursue. They are drawn to creative work because it allows them to turn the swirling interior landscape into something others can touch. Their instincts are vivid and their imagination restless.
+Pinto Beans are expressive souls. They wear their complexities openly — in the way they dress, the way they talk, the projects they pursue. They are drawn to creative work because it lets them turn the swirling interior landscape into something others can touch. Like the bean whose markings season the whole pot, their expressiveness changes the rooms they move through.
 
-The Pinto Bean's challenge is overexposure. Wearing one's stories openly is a gift, but not every story needs an audience, and not every scar needs to be explained. The Pinto Year asks all Beans to choose which chapters to share and which to keep as their own.
+The Pinto Bean's challenge is overemotion. Not every feeling is an event, and not every story improves with an audience. The Pinto Year asks all Beans to sit with their interior life long enough to understand it — before putting it on display.

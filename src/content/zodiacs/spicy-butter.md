@@ -2,8 +2,8 @@
 slug: spicy-butter
 bean: butter
 flavour: spicy
-dish: Creamy butter bean stew with chilli and smoked paprika. Strong and soft - a classic.
-fortune: Softness and intensity are not opposites — they are the same dish at different temperatures. You have always been capable of both, and this is the year you stop choosing.
+dish: Creamy butter bean stew with chilli and smoked paprika. Soft and fierce — a classic combination.
+fortune: People have mistaken your ease for mildness. Let the rest of what you are show.
 ---
 
-People born in the Year of the Spicy Butter Bean are the great proof that fire and gentleness are not contradictions. They carry the Butter Bean's characteristic creaminess and patience alongside a heat that occasionally startles people who assumed softness meant mild. They are grounded enough to carry intensity without losing their nourishing quality, and fierce enough to make their warmth feel like something rather than just ambient comfort. They are the ones you call when you need someone both kind and honest. They will tell you the hard thing, and then make you dinner.
+People born in the Year of the Spicy Butter Bean are the Bean Zodiac's most deceptively intense souls — easy and unhurried on the surface, with a heat underneath that startles people who assumed ease meant mild. They are the ones you call when you need someone both unhurried and honest — they will take their time getting there, and when they arrive, they will tell you the hard thing clearly.

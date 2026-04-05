@@ -1,16 +1,13 @@
 ---
 slug: navy
 name: Navy Bean
+tagline: Still here. Still yours.
+traits: [principled, loyal, dependable, enduring, rigid]
 imageFile: navy.webp
-tagline: Small, steady, and indispensable. TODO - focus on humble, dependable
-traits: [dependable, communal, traditional, humble, enduring]
-modelFile: navy.glb
 ---
 
-The Navy Bean is not glamorous, and it knows it. Small, white, and unassuming, it has quietly fed navies, families, and generations of those who needed something honest and filling. Those born under the Navy Bean are the backbone of every institution they join: reliable, consistent, and quietly indispensable.
+The Navy Bean is not glamorous, and it knows it. Small, white, and unassuming, it has the particular quality of making whatever it is added to more substantial — thickening the broth, filling the pot, turning a thin soup into something that sustains. It fed the United States Navy for decades because it was reliable: it stored well, cooked predictably, and never failed to do what was required. Those born under the Navy Bean carry this same quietly indispensable quality.
 
-Navy Beans believe in the long game. While others chase novelty, they tend to what already works, investing in relationships and practices that compound over years. They find meaning in belonging — in being part of something larger than themselves, in honoring the traditions passed down to them.
+Navy Beans believe in systems. Not blindly, but because they have seen what happens when structures fail. They do not wait to be told what the right thing is — they already know, and they do it. Like the bean that thickens every pot it enters, their presence makes things more substantial.
 
-<!-- TODO - rewrite -->
-
-The Navy Bean's challenge is being overlooked. Reliability is not glamorous, and it is easy to interpret a lack of recognition as proof that the work does not matter. The Navy Year asks all Beans to find meaning in the work itself, not in the applause it earns.
+The Navy Bean's challenge is rigidity. A Bean that refuses to absorb new flavours just sits in the broth, unchanged and unchanging. The Navy Year asks all Beans to ask whether the structure still serves its purpose — and to have the courage to rebuild what doesn't.

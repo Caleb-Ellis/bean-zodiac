@@ -1,14 +1,13 @@
 ---
 slug: butter
 name: Butter Bean
+tagline: The art of doing nothing badly.
+traits: [easygoing, peaceful, content, indulgent, inert]
 imageFile: butter.webp
-tagline: True abundance is quiet and unhurried.
-traits: [nurturing, generous, patient, grounding, comfortable]
-modelFile: butter.glb
 ---
 
-The Butter Bean — also called the lima bean — is softness with substance. Creamy, rich, and deeply satisfying, it asks nothing of anyone except to slow down enough to appreciate it. Those born under the Butter Bean are the great sustainers: the ones who ensure there is always enough, always warmth, always a place at the table.
+The Butter Bean does not hurry. Large, flat, and pale as cream, it becomes extraordinary simply by being given enough time and warmth — no pressure, no drama, just gentle heat until it is the smoothest thing in the pot. You cannot rush a butter bean. Attempting to produces something chalky and unconvincing.
 
-Butter Beans are not interested in spectacle. Their gifts are the kind that only reveal themselves over time — the patient accumulation of care, the steady show of presence, the home that always smells like something good is cooking. People seek out Butter Beans not for excitement, but for restoration.
+Butter Beans create calm wherever they go. Rarely rattled, never frantic, they have an almost supernatural ability to lower the temperature of a room. People orbit them for this quality and often leave feeling inexplicably restored.
 
-The Butter Bean's challenge is self-neglect. Beans deserve love. The Butter Year asks all Beans to be as generous with themselves as they are with everyone else.
+The Butter Bean's challenge is inertia. A Butter Bean left in the pot too long stops being silky and starts being stodgy. The Butter Year asks all Beans to rest as a choice, not a default — and to notice when comfort has quietly become avoidance.

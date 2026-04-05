@@ -3,7 +3,7 @@ slug: umami-mung
 bean: mung
 flavour: umami
 dish: Slow mung bean broth, clear and deeply nourishing. The most useful thing in the room.
-fortune: The most useful thing in the room is often the quietest — what you are doing right now, without announcement, matters more than anyone around you has yet noticed.
+fortune: What you are doing quietly, without announcement, is the main event. Those nearby can already feel it.
 ---
 
-People born in the Year of the Umami Mung Bean are the quietly powerful people who do the most important work without ever making a fuss about it. They have the Mung Bean's gentle, restorative nature alongside an Umami depth that makes everything they do more sustaining than it appears. They are not dramatic. They do not announce what they are providing. They simply tend what needs tending — the clear broth, slow-cooked, deeply nourishing — and the people around them are better for it in ways that are difficult to articulate and impossible to replicate. The most useful thing in the room is nearly always the quietest.
+People born in the Year of the Umami Mung Bean are the Bean Zodiac's most quietly indispensable caregivers — gentle and nurturing, with an Umami depth that makes everything they provide more sustaining than it appears. They simply tend what needs tending, and the people around them are restored by it in ways that are difficult to articulate and impossible to replicate. Their great challenge is ensuring that the same care they direct outward occasionally finds its way back to them.

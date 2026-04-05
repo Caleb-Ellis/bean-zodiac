@@ -1,12 +1,12 @@
 ---
 slug: bitter
 name: Bitter
-tagline: The Flavour that rewards patience.
-traits: [discerning, complex, cultivated, deep, transformative]
+tagline: The Flavour that must be acquired.
+traits: [discerning, complex, cultivated, intelligent, cold]
 ---
 
-The Bitter Flavour is the one that takes the longest to love. Children reject it; seasoned palates seek it out. A Bitter Year carries this same quality: it will not yield its gifts immediately, and those who expect easy reward will turn away. But those who lean into the complexity will find a richness that sweeter years cannot match.
+Bitterness is the flavour that takes the longest to love. Children reject it; cultivated palates seek it out. The dark chocolate that sharpens the caramel. The radicchio that wakes the whole salad. The aperitivo that opens the palate before the meal begins. Bitterness is not failure — it is contrast applied with intention, the flavour that makes everything around it more vivid. A Bitter Year works the same way.
 
-Bitterness in cooking is not failure; it is contrast. The dark chocolate that makes the caramel taste sweeter. The radicchio that makes the whole salad come alive. Bitter Years will make everything around you more vivid, if you trust it.
+Bitter Years do not yield their gifts to the casual or the impatient. Those who expect easy reward will turn away. Those who bring discernment and patience will find a complexity that sweeter years cannot offer. This is a year that rewards analysis and favours the clear-eyed over the credulous.
 
-Bitter's shadow is cynicism. There is a fine line between discernment and joylessness. The Bitter Year asks you to develop your palate, not to disregard everything.
+Bitter's shadow is coldness. There is a fine line between discernment and detachment. The Bitter Year asks you to develop your palate — not to close yourself off entirely.

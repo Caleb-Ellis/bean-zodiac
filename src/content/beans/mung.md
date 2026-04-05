@@ -1,16 +1,13 @@
 ---
 slug: mung
 name: Mung Bean
-imageFile: mung.webp
 tagline: Small seeds, patient hands, quiet miracles.
-traits: [healing, gentle, regenerative, adaptable, quietly powerful]
-modelFile: mung.glb
+traits: [healing, gentle, nurturing, regenerative, insecure]
+imageFile: mung.webp
 ---
 
-The Mung Bean is a quiet miracle worker. Soaked overnight, it sprouts fresh life from apparent stillness. Used across traditions for its cleansing, cooling, and restorative properties, it is the bean of recovery and renewal. Those born under the Mung Bean carry a gentle but persistent power to heal — themselves, others, and the spaces they move through.
+The Mung Bean does not need much to give a great deal. Soak it overnight and it sprouts, generating fresh life from apparent stillness. Split it and the inside is bright yellow — a small, ordinary-looking bean concealing something vivid. In kitchens and healing traditions across the world, it is the first thing given to someone recovering: easy to digest, cooling, restorative, gentle on whatever has been depleted. Those born under the Mung Bean carry this same quality of uncomplicated, replenishing care.
 
-Mung Beans work slowly, and that is their gift. Where others rush to visible results, Mung Beans tend the conditions. They understand that growth is mostly invisible, that the real work happens underground, and that patience is not passivity but its own form of action.
+Mung Beans work slowly, and that is their gift. They tend the conditions rather than rushing to visible results. The sprout forming in the dark does not announce itself until it is ready. The people around them recover. The rooms they move through become easier to breathe in.
 
-<!-- TODO - rewrite to be about being taken advantage of -->
-
-The Mung Bean's challenge is invisibility. Those who tend the conditions quietly often go uncredited, and unseen effort can slowly become resentment. The Mung Year asks all Beans to name what they need as clearly as they attend to what others need.
+The Mung Bean's challenge is being taken advantage of. A bean that heals freely and asks nothing invites those who are happy to take everything. The Mung Year asks all Beans to give without losing themselves — and to recognise the difference between someone who needs care and someone who simply expects it.

@@ -1,16 +1,13 @@
 ---
 slug: green
 name: Green Bean
+tagline: See what's there. Do what works.
+traits: [energetic, enthusiastic, fresh, optimistic, restless]
 imageFile: green.webp
-tagline: Eaten young, at its best right now. TODO - focus on freshness
-traits: [fresh, present, optimistic, quick, seasonal]
-modelFile: green.glb
 ---
 
-The Green Bean doesn't wait to be discovered. It arrives in season, bright and snappy, and asks to be used immediately — not stored, not soaked, not processed into something else. Those born under the Green Bean have an instinctive relationship with the present tense. They don't carry the past the way older beans do, and they're not particularly interested in long-range planning. They are here, right now, and they are very good at it.
+The Green Bean does not wait. It flowers fast, and if you don't pick it, it goes woody and seeds itself and starts the whole thing over again. It is a bean in a hurry — snappy when fresh, limp when overworked, best caught at exactly the right moment. Those born under the Green Bean carry this same urgent aliveness. They arrive bright and ready and ask to be used right now, not stored, not soaked, not theorised over.
 
-Green Beans are quick. They adapt without drama. Where other signs are working through centuries of accumulated significance, Green Beans are simply responding to what's actually in front of them — accurately, efficiently, without a lot of ceremony. This is not shallowness. This is a different kind of intelligence: the kind that doesn't need to archive everything to know what matters.
+Green Beans are at their best in motion. Ideas arrive quickly, enthusiasm comes easily, and the world seems full of open doors. Their optimism is not naïve — it is strategic. Green Beans understand that possibility depends on showing up before the outcome is certain. Pick one and three more appear.
 
-<!-- TODO - focus on being too quick -->
-
-The Green Bean's challenge is impermanence. Seasons always change. The Green Year asks all Beans to practice the art of finishing well: to complete what was started, and then let it go.
+The Green Bean's challenge is going to seed. A Bean left too long on the vine stops being a Green Bean entirely — it becomes something starchier, tougher, less itself. The Green Year asks all Beans to finish one thing before they start another.

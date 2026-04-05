@@ -53,11 +53,15 @@ export default function ZodiacResult({
         )}
       </section>
       {showContent && (
-        <section dangerouslySetInnerHTML={{ __html: zodiac.content }}></section>
+        <section
+          className="max-w-xl"
+          dangerouslySetInnerHTML={{ __html: zodiac.content }}
+        ></section>
       )}
       <div className="flex gap-6 mt-2">
         <a className="link" href={`/beans/${bean.slug}`}>
-          About the <span className={`bean-${bean.slug}`}>{bean.name}</span>&nbsp;→
+          About the <span className={`bean-${bean.slug}`}>{bean.name}</span>
+          &nbsp;→
         </a>
         <a className="link" href={`/flavours/${flavour.slug}`}>
           About the{" "}

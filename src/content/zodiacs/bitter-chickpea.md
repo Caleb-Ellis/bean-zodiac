@@ -3,7 +3,7 @@ slug: bitter-chickpea
 bean: chickpea
 flavour: bitter
 dish: Slow-cooked hummus with bitter greens on top. The versatile bean, asked to commit.
-fortune: The best version of you is not the most versions of you. One commitment made seriously will be worth more than five kept loosely this year and every year.
+fortune: The most interesting version of your path requires choosing one direction and committing past the point where the other options are still visible.
 ---
 
-People born in the Year of the Bitter Chickpea are the wonderfully capable generalists who are slowly, sometimes reluctantly, learning the rewards of depth. They have the Chickpea's extraordinary adaptability and social warmth — they can fit anywhere, become anything, make every situation work — but the Bitter Flavour in their character keeps asking them to stay somewhere long enough to find out what is actually there. They are not good at boredom. They are becoming very good at commitment, which is a different thing and considerably more interesting.
+People born in the Year of the Bitter Chickpea are the Bean Zodiac's most discerning connectors — sociable and warm, but slowly learning the rewards of depth over breadth. They have the Chickpea's extraordinary adaptability, but the Bitter Flavour keeps asking them to stay somewhere long enough to find out what's actually there. They are excellent at entering any room. They are becoming very good at choosing which rooms to stay in.

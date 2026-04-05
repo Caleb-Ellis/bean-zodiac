@@ -1,12 +1,12 @@
 ---
 slug: umami
 name: Umami
-tagline: The Flavour that makes everything more itself.
-traits: [grounding, nourishing, deepening, satisfying, generous]
+tagline: The Flavour that rewards patience.
+traits: [rich, satisfying, warm, deep, slow]
 ---
 
-Umami is the Flavour that is hardest to name but impossible to mistake. It is depth, substance, the quality that makes you reach for one more bite before you have consciously processed what you are eating. Found in slow-cooked broths, aged cheeses, fermented pastes, dried mushrooms — umami is the Flavour of patience made edible, of time transformed into richness.
+Umami is the flavour that is hardest to name but impossible to mistake. It is depth, warmth, the quality that makes a broth feel like it has been waiting for you. Found in slow-cooked stocks, aged cheeses, fermented pastes, dried mushrooms — umami is the reward for slowness, for staying with something long enough to let it become what it was always trying to be.
 
-Umami Years carries this same quality of invisible depth. These years are not for novelty but for substance. Rather than adding new things, the Umami Year asks you to tend what is already there — to let relationships mature, projects develop, skills deepen. The richest experiences in these years will come not from starting something new but from staying with something long enough to find its full Flavour.
+Umami Years are not for novelty. They are for substance. Tend what is already there — let relationships mature, projects deepen, skills settle into something real. The richest experiences these years come not from beginning something new but from staying present with something already in progress. The warmth builds slowly. It is worth waiting for.
 
-Umami's shadow is complacency. Depth without movement becomes stagnation. The Umami Year asks you to be still with purpose, not still out of inertia.
+Umami's shadow is complacency. Depth without movement becomes stagnation. The Umami Year asks you to be slow with purpose — not slow out of inertia, but slow because you are paying genuine attention.

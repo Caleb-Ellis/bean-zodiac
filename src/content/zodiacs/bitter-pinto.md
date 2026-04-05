@@ -3,7 +3,7 @@ slug: bitter-pinto
 bean: pinto
 flavour: bitter
 dish: Slow-cooked pinto beans with bitter herbs. An acquired taste, and worth acquiring.
-fortune: Not everyone has developed the palate for you yet — give them a season, and do not apologise for the complexity in the meantime.
+fortune: Not everyone will understand you immediately. Give them time — and do not apologise for your complexity in the meantime.
 ---
 
-People born in the Year of the Bitter Pinto Bean are among the most genuinely complex people in the zodiac, and they have stopped pretending otherwise. They have the Pinto Bean's vivid, speckled individuality alongside a Bitter depth that makes them an acquired taste — not immediately legible, not designed for easy consumption, but extraordinary to the people who take the time. They have never been the most obvious choice and they have learned not to care about that. Their individuality deepens over time from colourful to genuinely complex, and the right people find this more interesting than anything simpler could be.
+People born in the Year of the Bitter Pinto Bean are the Bean Zodiac's most critically self-aware creators — vivid and expressive, but equipped with a Bitter self-knowledge that can see the flaws in their own work as clearly as anyone else's. They are not easy to categorise, and they have stopped trying to make themselves easier. Their complexity deepens over time, and the people who stay are exactly the ones they want.

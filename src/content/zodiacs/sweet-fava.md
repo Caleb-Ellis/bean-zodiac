@@ -2,8 +2,8 @@
 slug: sweet-fava
 bean: fava
 flavour: sweet
-dish: Fava bean and honey bruschetta. All that history, and this year it gets to just be a treat.
-fortune: You have earned every soft thing that comes this year, and the tallying is finished. Accept without counting, receive without justifying, and let the legacy express itself as joy.
+dish: Fava bean and honey bruschetta. The bold bean, discovering it can also just be a treat.
+fortune: The good thing does not always have to be earned. This is one of those seasons — accept what is offered freely.
 ---
 
-People born in the Year of the Sweet Fava Bean are the ancient souls who have, finally, been given permission to rest. They carry all the Fava Bean's historical weight and depth and quiet courage, and the sweetness in their character means this year that weight expresses itself not as duty but as warmth. They are the people who have done the serious work for a long time, and who discover with some surprise that they are allowed to have a soft year — that the legacy is still there, still intact, even when they are not actively carrying it. They are learning to let the feast be for them.
+People born in the Year of the Sweet Fava Bean are the Bean Zodiac's most effortlessly bold souls — courageous by nature, and in a Sweet Year, that courage asks nothing of them except to use it. The leap they would normally build up to simply presents itself as the obvious next step. They are not reckless — they are simply people for whom boldness, this year, has been made easy. The good thing does not always have to cost something.

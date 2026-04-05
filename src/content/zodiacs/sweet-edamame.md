@@ -2,8 +2,8 @@
 slug: sweet-edamame
 bean: edamame
 flavour: sweet
-dish: Fresh edamame with a sweet miso glaze. Young, bright, and the world showing up to meet you.
-fortune: Not everything has a catch, and not everything is a lesson — some things are just the good part, and this is one of them. Enjoy the beginning.
+dish: Fresh edamame, simply prepared. The soybean discovering that things can just go well.
+fortune: This year, the work is lighter than you are accustomed to. Trust that, and resist the instinct to add difficulty.
 ---
 
-People born in the Year of the Sweet Edamame are the Bean Zodiac's freshest and most naturally optimistic souls — bright, young-hearted, and constitutionally inclined to believe that things will go well. And for them, they often do. They carry the Edamame's unaffected energy and genuine warmth in its sweetest, most unencumbered form. They have not yet developed the reflex of looking for the catch, and this is not naivety; it is a kind of talent. The world has a tendency to meet them where they are, and the beginning they find themselves in is genuinely good.
+People born in the Year of the Sweet Edamame are the Bean Zodiac's most naturally efficient problem-solvers — practical, direct, and in a Sweet Year, finding that their pragmatic instincts meet almost nothing in the way. They have the Edamame's quality of showing up fully and becoming exactly what's needed, and the sweetness in their character means that what's needed, this year, tends to align with what they have. They do not fully trust this yet. They should.

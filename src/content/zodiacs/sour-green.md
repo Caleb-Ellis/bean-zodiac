@@ -2,8 +2,8 @@
 slug: sour-green
 bean: green
 flavour: sour
-dish: Green beans with lemon juice and capers. Already good. Now sharper, and more itself.
-fortune: Trust the first read — it was accurate, and the instinct you talked yourself out of was the correct one. What you already knew is now undeniable.
+dish: Green beans with lemon juice and capers. Fast, accurate, snapped at exactly the right moment.
+fortune: You already sense when the moment is right. Trust that perception and move without waiting for confirmation.
 ---
 
-People born in the Year of the Sour Green Bean are the clear-eyed people who trust their instincts with good reason: they are almost always right. They have the Green Bean's quick, fresh perception combined with a Sour sharpness that makes their first reading of a situation precisely accurate. They do not need to second-guess themselves, though they sometimes do anyway, and later wish they hadn't. They are the people who could see what was happening before most others noticed anything was happening at all. Their challenge is learning to trust what they already know without requiring someone else to confirm it first.
+People born in the Year of the Sour Green Bean are the Bean Zodiac's most precisely timed opportunists — bright, energetic, with a Sour sharpness that knows exactly when the moment is right and moves immediately. They combine the Green Bean's urgent sense of timing with a clarity that makes their first read accurate in a way others catch up to later. They were ready before everyone else noticed the moment had arrived. Their great learning is to act on that timing without waiting for confirmation.

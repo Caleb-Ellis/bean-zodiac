@@ -2,8 +2,8 @@
 slug: spicy-green
 bean: green
 flavour: spicy
-dish: Dry-fried Szechuan green beans with garlic and dried chilli. Loud, fast, impossible to ignore.
-fortune: Stop treating the thing as a side dish — it is the whole meal, and it has been waiting long enough for you to give it the full flame.
+dish: Dry-fried green beans with garlic and chilli. Loud, fast, impossible to ignore, already gone.
+fortune: The right moment and the right intensity arriving together produce something irreversible. This is that moment.
 ---
 
-People born in the Year of the Spicy Green Bean are the vivid, immediate, slightly overwhelming people who have the great fortune of being perfectly matched to their own energy. They have the Green Bean's speed and fresh presence alongside a heat that makes everything they do vivid and immediate — blistered at the edges, thoroughly alive in the middle. They are not subtle and they are not interested in being subtle. Things that have been building quietly in their life have a way of going loud in a single season, and when they do, the result is the kind of dish people talk about long after the meal is over.
+People born in the Year of the Spicy Green Bean are the Bean Zodiac's most explosively present souls — fresh, vivid, and in a Spicy Year, impossible to miss. They carry the Green Bean's urgent aliveness alongside a heat that turns their natural enthusiasm into something that demands the room. They flower fast and make a lot of noise about it, and the noise is not wrong — there really is something happening here, and it needs to be picked right now before the season ends.
