@@ -94,11 +94,14 @@ function computeTargets(date: Date) {
   return {
     targetOuter: (beanIdx + beanFrac) * 30 - 15,
     targetInner: (flavourIdx + flavourFrac) * 72 - 36,
+    beanIdx,
+    flavourIdx,
   };
 }
 
 export default function ZodiacWheel({ data, date }: Props) {
-  const { targetOuter, targetInner } = computeTargets(date);
+  const { targetOuter, targetInner, beanIdx, flavourIdx } =
+    computeTargets(date);
 
   // Track previous targets and accumulate rotations so animation always takes
   // the shortest angular path (avoids spinning the wrong way at year boundaries).
@@ -107,11 +110,15 @@ export default function ZodiacWheel({ data, date }: Props) {
   const prevDate = useRef<Date | null>(null);
   const [outerRot, setOuterRot] = useState(targetOuter);
   const [innerRot, setInnerRot] = useState(targetInner);
+  const [activeBeanIdx, setActiveBeanIdx] = useState(beanIdx);
+  const [activeFlavourIdx, setActiveFlavourIdx] = useState(flavourIdx);
+  const [highlightVisible, setHighlightVisible] = useState(true);
 
   useEffect(() => {
     const isFirstOrLargeJump =
       prevDate.current === null ||
-      Math.abs(date.getTime() - prevDate.current.getTime()) > 365 * 24 * 60 * 60 * 1000;
+      Math.abs(date.getTime() - prevDate.current.getTime()) >
+        365 * 24 * 60 * 60 * 1000;
     const delta = shortestDelta(prevOuter.current, targetOuter);
     if (Math.abs(delta) > 0.001) {
       setOuterRot((r) => r + delta + (isFirstOrLargeJump ? 360 : 0));
@@ -122,7 +129,8 @@ export default function ZodiacWheel({ data, date }: Props) {
   useEffect(() => {
     const isFirstOrLargeJump =
       prevDate.current === null ||
-      Math.abs(date.getTime() - prevDate.current.getTime()) > 365 * 24 * 60 * 60 * 1000;
+      Math.abs(date.getTime() - prevDate.current.getTime()) >
+        365 * 24 * 60 * 60 * 1000;
     const delta = shortestDelta(prevInner.current, targetInner);
     if (Math.abs(delta) > 0.001) {
       setInnerRot((r) => r + delta + (isFirstOrLargeJump ? 720 : 0));
@@ -135,6 +143,17 @@ export default function ZodiacWheel({ data, date }: Props) {
     prevDate.current = date;
   }, [date]);
 
+  // Fade out immediately, then swap indices and fade back in once spin settles
+  useEffect(() => {
+    setHighlightVisible(false);
+    const timer = setTimeout(() => {
+      setActiveBeanIdx(beanIdx);
+      setActiveFlavourIdx(flavourIdx);
+      setHighlightVisible(true);
+    }, 1900);
+    return () => clearTimeout(timer);
+  }, [beanIdx, flavourIdx]);
+
   const transition = "transform 2.2s cubic-bezier(0.15, 0, 0.1, 1)";
 
   return (
@@ -144,10 +163,6 @@ export default function ZodiacWheel({ data, date }: Props) {
       style={{ height: "auto" }}
       aria-label="Bean Zodiac Wheel"
     >
-      {/* Dark backdrop circles */}
-      <circle cx={CX} cy={CY} r={OUTER_R2 + 1} fill="rgba(0,0,0,0.3)" />
-      <circle cx={CX} cy={CY} r={INNER_R1 - 1} fill="rgba(0,0,0,0.4)" />
-
       {/* Outer bean ring — rotates once per 12 years */}
       <g
         style={{
@@ -162,13 +177,27 @@ export default function ZodiacWheel({ data, date }: Props) {
           const a1 = mid - seg / 2 + GAP;
           const a2 = mid + seg / 2 - GAP;
           const { x, y } = toXY(CX, CY, (OUTER_R1 + OUTER_R2) / 2, mid);
+          const active = i === activeBeanIdx;
           return (
             <g key={beanId}>
+              <defs>
+                <clipPath id={`clip-bean-${beanId}`}>
+                  <path d={annularSector(CX, CY, OUTER_R1, OUTER_R2, a1, a2)} />
+                </clipPath>
+              </defs>
               <path
                 d={annularSector(CX, CY, OUTER_R1, OUTER_R2, a1, a2)}
-                fill="none"
-                style={{ stroke: `var(--bean-${beanId})` }}
-                strokeWidth="1.2"
+                fill={
+                  active && highlightVisible
+                    ? `var(--bean-${beanId})`
+                    : "transparent"
+                }
+                style={{
+                  stroke: `var(--bean-${beanId})`,
+                  transition: "fill 0.5s ease",
+                }}
+                strokeWidth="3"
+                clipPath={`url(#clip-bean-${beanId})`}
               />
               <text
                 x={x}
@@ -181,7 +210,11 @@ export default function ZodiacWheel({ data, date }: Props) {
                 style={{
                   userSelect: "none",
                   pointerEvents: "none",
-                  fill: `var(--bean-${beanId})`,
+                  fill:
+                    active && highlightVisible
+                      ? "black"
+                      : `var(--bean-${beanId})`,
+                  transition: "fill 0.5s ease",
                 }}
               >
                 {data.beans[beanId].name.replace("Bean", "")}
@@ -205,13 +238,27 @@ export default function ZodiacWheel({ data, date }: Props) {
           const a1 = mid - seg / 2 + GAP;
           const a2 = mid + seg / 2 - GAP;
           const { x, y } = toXY(CX, CY, (INNER_R1 + INNER_R2) / 2, mid);
+          const active = i === activeFlavourIdx;
           return (
             <g key={flavourId}>
+              <defs>
+                <clipPath id={`clip-flavour-${flavourId}`}>
+                  <path d={annularSector(CX, CY, INNER_R1, INNER_R2, a1, a2)} />
+                </clipPath>
+              </defs>
               <path
                 d={annularSector(CX, CY, INNER_R1, INNER_R2, a1, a2)}
-                fill="none"
-                style={{ stroke: `var(--flavour-${flavourId})` }}
-                strokeWidth="1.2"
+                fill={
+                  active && highlightVisible
+                    ? `var(--flavour-${flavourId})`
+                    : "transparent"
+                }
+                style={{
+                  stroke: `var(--flavour-${flavourId})`,
+                  transition: "fill 0.5s ease",
+                }}
+                strokeWidth="4"
+                clipPath={`url(#clip-flavour-${flavourId})`}
               />
               <text
                 x={x}
@@ -224,7 +271,11 @@ export default function ZodiacWheel({ data, date }: Props) {
                 style={{
                   userSelect: "none",
                   pointerEvents: "none",
-                  fill: `var(--flavour-${flavourId})`,
+                  fill:
+                    active && highlightVisible
+                      ? "black"
+                      : `var(--flavour-${flavourId})`,
+                  transition: "fill 0.5s ease",
                 }}
               >
                 {data.flavours[flavourId].name}
@@ -247,9 +298,15 @@ export default function ZodiacWheel({ data, date }: Props) {
           fontWeight: 900,
         }}
       >
-        <tspan x={CX} y={CY - 12}>IT'S A</tspan>
-        <tspan x={CX} dy="13">LOTTA</tspan>
-        <tspan x={CX} dy="13">BEANS</tspan>
+        <tspan x={CX} y={CY - 12}>
+          IT'S A
+        </tspan>
+        <tspan x={CX} dy="13">
+          LOTTA
+        </tspan>
+        <tspan x={CX} dy="13">
+          BEANS
+        </tspan>
       </text>
 
       {/* Arrow indicator — fixed at bottom, points up into the rings */}

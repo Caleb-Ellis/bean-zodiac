@@ -40,7 +40,7 @@ export default function ZodiacCalendar({ data }: Props) {
         />
         <button
           onClick={handleReveal}
-          className="bg-zinc-900/80 border border-zinc-700/60 text-zinc-300 rounded-xl px-5 py-2.5 backdrop-blur-sm transition-all duration-200 hover:border-zinc-500 hover:text-white hover:bg-zinc-800/80 active:scale-95 cursor-pointer"
+          className="bg-zinc-900/80 border border-zinc-500/60 text-white rounded-xl px-8 py-4 text-lg font-bold backdrop-blur-sm transition-all duration-200 hover:border-zinc-400 hover:text-white hover:bg-zinc-800/80 active:scale-95 cursor-pointer"
         >
           Uncover the Bean within
         </button>
