@@ -110,7 +110,7 @@ export default function ZodiacWheel({ data, date }: Props) {
   useEffect(() => {
     const delta = shortestDelta(prevOuter.current, targetOuter);
     if (Math.abs(delta) > 0.001) {
-      setOuterRot((r) => r + delta);
+      setOuterRot((r) => r + delta + 360); // 1 extra full rotation
     }
     prevOuter.current = targetOuter;
   }, [targetOuter]);
@@ -118,12 +118,12 @@ export default function ZodiacWheel({ data, date }: Props) {
   useEffect(() => {
     const delta = shortestDelta(prevInner.current, targetInner);
     if (Math.abs(delta) > 0.001) {
-      setInnerRot((r) => r + delta);
+      setInnerRot((r) => r + delta + 720); // 2 extra full rotations
     }
     prevInner.current = targetInner;
   }, [targetInner]);
 
-  const transition = "transform 0.8s cubic-bezier(0.4, 0, 0.2, 1)";
+  const transition = "transform 2.2s cubic-bezier(0.15, 0, 0.1, 1)";
 
   return (
     <svg
