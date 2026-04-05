@@ -26,7 +26,7 @@ export default function ZodiacResult({
   const endDateStr = formatZodiacDate(metadata.endDate);
 
   return (
-    <div className="flex flex-col items-center text-center gap-6">
+    <div className="flex flex-col items-center text-center gap-6 animate-fade-up">
       <section className="flex flex-col items-center gap-2">
         <h2 className="mb-2">
           <span className="text-xl sm:text-2xl font-bold">The Year of the</span>

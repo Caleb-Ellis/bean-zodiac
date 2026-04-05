@@ -13,10 +13,9 @@ export default function ZodiacCalendar({ data }: Props) {
 
   return (
     <div className="flex flex-col items-center text-center gap-8">
+      <ZodiacWheel data={data} date={selectedDate} />
       <section className="flex flex-col items-center gap-3">
-        <p className="text-zinc-400">
-          Pick a date and uncover the Bean within
-        </p>
+        <p className="text-zinc-400">Pick a date and uncover the Bean within</p>
         <input
           type="date"
           value={toDateInputValue(selectedDate)}
@@ -31,9 +30,8 @@ export default function ZodiacCalendar({ data }: Props) {
           }}
         />
       </section>
-      <ZodiacWheel data={data} date={selectedDate} />
       {showResult && (
-        <ZodiacResult data={data} date={selectedDate} showContent />
+        <ZodiacResult key={selectedDate.getTime()} data={data} date={selectedDate} showContent />
       )}
     </div>
   );
