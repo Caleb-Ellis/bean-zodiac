@@ -1,26 +1,5 @@
 @import "tailwindcss";
 
-@keyframes fade-up {
-  from {
-    opacity: 0;
-    transform: translateY(10px);
-  }
-  to {
-    opacity: 1;
-    transform: translateY(0);
-  }
-}
-
-.animate-fade-up {
-  animation: fade-up 0.3s ease-out both;
-}
-
-.markdown-content {
-  p:not(:last-of-type) {
-    margin-bottom: 1rem;
-  }
-}
-
 :root {
   --bean-adzuki:     #e05a46;
   --bean-black:      #9966ff;
@@ -41,6 +20,40 @@
   --flavour-umami:  oklch(78.741% 0.17146 69.116);
   --flavour-spicy:  oklch(70% 0.25704 28.212);
 }
+
+.link {
+  color: white;
+  text-decoration: none;
+  position: relative;
+}
+
+.link::after {
+  content: "";
+  position: absolute;
+  bottom: -2px;
+  left: 50%;
+  right: 50%;
+  height: 1px;
+  background: white;
+  transition: left 0.25s ease, right 0.25s ease;
+}
+
+.link:hover::after,
+.link.active::after {
+  left: 0;
+  right: 0;
+}
+
+.animate-fade-up {
+  animation: fade-up 0.3s ease-out both;
+}
+
+.markdown-content {
+  p:not(:last-of-type) {
+    margin-bottom: 1rem;
+  }
+}
+
 
 .bean-adzuki     { color: var(--bean-adzuki); }
 .bean-black      { color: var(--bean-black); }
@@ -79,3 +92,14 @@
 .bg-flavour-bitter { background-color: var(--flavour-bitter); }
 .bg-flavour-umami  { background-color: var(--flavour-umami); }
 .bg-flavour-spicy  { background-color: var(--flavour-spicy); }
+
+@keyframes fade-up {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
