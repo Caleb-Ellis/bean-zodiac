@@ -1,5 +1,4 @@
 ---
-import { ClientRouter } from "astro:transitions";
 import Navigation from "../components/Navigation.astro";
 
 interface Props {
@@ -36,7 +35,7 @@ const {
     </div>
     <div class="relative z-10">
       <Navigation />
-      <main class="max-w-6xl mx-auto px-4 sm:px-6 py-8 animate-fade-up">
+      <main class="max-w-6xl mx-auto px-2 sm:px-4 py-8 animate-fade-up">
         <slot />
       </main>
     </div>

@@ -32,15 +32,8 @@ export default function ZodiacResult({
           <span className="text-xl sm:text-2xl font-bold">The Year of the</span>
           <br />
           <span className="text-4xl sm:text-7xl font-bold">
-            <a
-              href={`/flavours/${flavour.slug}`}
-              className={`flavour-${flavour.slug}`}
-            >
-              {flavour.name}
-            </a>{" "}
-            <a href={`/beans/${bean.slug}`} className={`bean-${bean.slug}`}>
-              {bean.name}
-            </a>
+            <span className={`flavour-${flavour.slug}`}>{flavour.name}</span>{" "}
+            <span className={`bean-${bean.slug}`}>{bean.name}</span>
           </span>
         </h2>
         <div className="my-6 sm:my-8">
@@ -51,10 +44,10 @@ export default function ZodiacResult({
         </p>
       </section>
       <section className="flex flex-col items-center gap-3 max-w-xl">
-        <p className="text-zinc-400 mb-4">{zodiac.dish}</p>
+        <p className="text-zinc-400 mb-2">{zodiac.dish}</p>
         {showFortune && (
           <>
-            <p className="text-xl sm:text-2xl font-bold">Bean Fortune</p>
+            <p className="text-xl sm:text-2xl font-bold mt-2">Bean Fortune</p>
             <p className="italic text-zinc-400 mb-2">"{zodiac.fortune}"</p>
           </>
         )}
