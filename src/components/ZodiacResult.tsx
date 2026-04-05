@@ -3,6 +3,7 @@ import {
   getZodiacMetadataForDate,
   type ZodiacData,
 } from "../lib/zodiac";
+import Bean from "./Bean";
 
 interface Props {
   data: ZodiacData;
@@ -42,6 +43,9 @@ export default function ZodiacResult({
             </a>
           </span>
         </h2>
+        <div className="my-6 sm:my-8">
+          <Bean bean={bean} flavourId={flavour.slug} />
+        </div>
         <p className="mb-2">
           {startDateStr} - {endDateStr}
         </p>

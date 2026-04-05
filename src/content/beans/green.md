@@ -1,6 +1,7 @@
 ---
 slug: green
 name: Green Bean
+imageFile: green.webp
 tagline: Eaten young, at its best right now. TODO - focus on freshness
 traits: [fresh, present, optimistic, quick, seasonal]
 modelFile: green.glb

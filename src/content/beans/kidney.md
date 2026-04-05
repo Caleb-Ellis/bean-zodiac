@@ -1,6 +1,7 @@
 ---
 slug: kidney
 name: Kidney Bean
+imageFile: kidney.webp
 tagline: Strength earned is strength kept. TODO - rewrite
 traits: [tenacious, vital, strong, protective, passionate]
 modelFile: kidney.glb

@@ -1,6 +1,6 @@
 ---
 import { getCollection, render } from "astro:content";
-import BeanModel from "../../components/BeanModel.astro";
+import Bean from "../../components/Bean.tsx";
 import Layout from "../../layouts/Layout.astro";
 import "../../styles/global.css";
 
@@ -22,7 +22,7 @@ const { Content: BeanContent } = await render(bean);
   >
     <div class="flex flex-col md:flex-row">
       <div class="w-full md:w-80 shrink-0 aspect-square">
-        <BeanModel bean={bean.data} />
+        <Bean bean={bean.data} />
       </div>
       <div class="p-6 md:p-8 flex flex-col gap-4 min-w-0">
         <a

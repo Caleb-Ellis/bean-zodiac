@@ -1,6 +1,7 @@
 ---
 slug: fava
 name: Fava Bean
+imageFile: fava.webp
 tagline: You carry what came before — and what comes next. TODO - focus on courage
 traits: [courageous, ancestral, risk-taker, historical, deeply rooted]
 modelFile: fava.glb

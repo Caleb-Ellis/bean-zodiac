@@ -1,6 +1,7 @@
 ---
 slug: pinto
 name: Pinto Bean
+imageFile: pinto.webp
 tagline: Your markings are your map.
 traits: [creative, expressive, colorful, spontaneous, storytelling]
 modelFile: pinto.glb

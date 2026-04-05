@@ -1,6 +1,7 @@
 ---
 slug: chickpea
 name: Chickpea
+imageFile: chickpea.webp
 tagline: Every form is yours to inhabit. TODO - something about being sociable
 traits: [adaptable, sociable, resourceful, warm, inventive]
 modelFile: chickpea.glb

@@ -1,6 +1,6 @@
 ---
 import { getCollection } from "astro:content";
-import BeanModel from "../../components/BeanModel.astro";
+import Bean from "../../components/Bean.tsx";
 import Layout from "../../layouts/Layout.astro";
 import "../../styles/global.css";
 
@@ -25,7 +25,7 @@ const beans = await getCollection("beans");
       beans.map((bean) => (
         <li class="rounded-2xl border border-zinc-800 bg-zinc-900 overflow-hidden hover:border-zinc-600 transition-colors">
           <a href={`/beans/${bean.id}`} class="block aspect-square w-full">
-            <BeanModel bean={bean.data} />
+            <Bean bean={bean.data} />
           </a>
           <div class="p-4">
             <h2 class={`text-lg font-semibold bean-${bean.id}`}>

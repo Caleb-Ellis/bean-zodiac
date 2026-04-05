@@ -1,6 +1,7 @@
 ---
 slug: black
 name: Black Bean
+imageFile: black.webp
 tagline: Depth conceals infinite possibility.
 traits: [introspective, mysterious, resilient, perceptive, determined]
 modelFile: black.glb

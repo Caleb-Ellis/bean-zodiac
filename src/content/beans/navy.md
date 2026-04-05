@@ -1,6 +1,7 @@
 ---
 slug: navy
 name: Navy Bean
+imageFile: navy.webp
 tagline: Small, steady, and indispensable. TODO - focus on humble, dependable
 traits: [dependable, communal, traditional, humble, enduring]
 modelFile: navy.glb

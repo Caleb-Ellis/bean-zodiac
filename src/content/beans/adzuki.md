@@ -3,7 +3,7 @@ slug: adzuki
 name: Adzuki Bean
 tagline: Celebration is a serious practice.
 traits: [joyful, lucky, prosperous, celebratory, generous]
-modelFile: adzuki.glb
+imageFile: adzuki.webp
 ---
 
 The Adzuki Bean has been used for centuries in East Asian cultures to mark good fortune, to celebrate new years and new lives, to sweeten the most auspicious occasions. Small and deep red, it carries within it the accumulated luck of countless celebrations. Those born under the Adzuki are drawn to joy the way a compass needle is drawn north: it is not a mood, it is an orientation.
