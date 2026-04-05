@@ -14,10 +14,10 @@
   --bean-navy:       #5599ff;
   --bean-pinto:      #e88040;
 
-  --flavour-sweet:  oklch(80% 0.24718 359.283);
-  --flavour-sour:   oklch(90% 0.18747 99.082);
+  --flavour-sweet:  oklch(75% 0.22865 324.989);
+  --flavour-sour:   oklch(70% 0.28931 141.814);
   --flavour-bitter: oklch(65% 0.26342 264.703);
-  --flavour-umami:  oklch(78.741% 0.17146 69.116);
+  --flavour-umami:  oklch(80% 0.17046 77.947);
   --flavour-spicy:  oklch(70% 0.25704 28.212);
 }
 
@@ -92,6 +92,22 @@
 .bg-flavour-bitter { background-color: var(--flavour-bitter); }
 .bg-flavour-umami  { background-color: var(--flavour-umami); }
 .bg-flavour-spicy  { background-color: var(--flavour-spicy); }
+
+.flavour-filter-sweet  {
+  filter: sepia(0.25) hue-rotate(300deg) saturate(1.5);
+}
+.flavour-filter-sour   {
+  filter: sepia(0.25) hue-rotate(42deg) saturate(2);
+}
+.flavour-filter-bitter {
+  filter: sepia(0.25) hue-rotate(187deg) saturate(0.5);
+}
+.flavour-filter-umami  {
+  filter: sepia(0.25) hue-rotate(10deg) saturate(1.5);
+}
+.flavour-filter-spicy  {
+  filter: sepia(0.25) hue-rotate(324deg) saturate(2.5);
+}
 
 input[type="date"]::-webkit-calendar-picker-indicator {
   filter: invert(1);

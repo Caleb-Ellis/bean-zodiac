@@ -15,6 +15,7 @@ export default function Bean({ bean, flavourId }: Props) {
       <img
         src={`/images/${bean.imageFile}`}
         alt={`${flavourId ? `${flavourId} ` : ""}${bean.name}`}
+        className={flavourId ? `flavour-filter-${flavourId}` : undefined}
       />
     </div>
   );
