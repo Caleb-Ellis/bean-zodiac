@@ -223,14 +223,21 @@ export default function ZodiacWheel({ data, date }: Props) {
         })}
       </g>
 
-      {/* Bean emoji in the centre */}
+      {/* BEANS inscription in the centre */}
       <text
-        x={CX}
-        y={CY}
+        x={CX + 1}
+        y={CY + 1}
         textAnchor="middle"
         dominantBaseline="middle"
-        fontSize="18"
-        style={{ userSelect: "none", pointerEvents: "none", fill: 'white' }}
+        fontSize="14"
+        letterSpacing="3"
+        style={{
+          userSelect: "none",
+          pointerEvents: "none",
+          fill: "rgba(255,255,255,0.9)",
+          fontFamily: "'Cinzel', serif",
+          fontWeight: 900,
+        }}
       >
         BEANS
       </text>

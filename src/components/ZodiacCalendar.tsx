@@ -8,19 +8,28 @@ type Props = {
 };
 
 export default function ZodiacCalendar({ data }: Props) {
-  const [inputDate, setInputDate] = useState<string>(
-    toDateInputValue(new Date()),
-  );
-  const [selectedDate, setSelectedDate] = useState<Date | null>(null);
+  const [inputDate, setInputDate] = useState<string>(() => {
+    const param = getDateParam();
+    return param ?? toDateInputValue(new Date());
+  });
+  const [selectedDate, setSelectedDate] = useState<Date | null>(() => {
+    const param = getDateParam();
+    return param ? parseDateInputValue(param) : null;
+  });
 
   function handleReveal() {
     if (!inputDate) return;
     const parsed = parseDateInputValue(inputDate);
-    if (parsed) setSelectedDate(parsed);
+    if (parsed) {
+      setSelectedDate(parsed);
+      const url = new URL(window.location.href);
+      url.searchParams.set("date", inputDate);
+      window.history.pushState({}, "", url);
+    }
   }
 
   return (
-    <div className="flex flex-col items-center text-center gap-8">
+    <div className="flex flex-col items-center text-center gap-8 w-full">
       <ZodiacWheel data={data} date={selectedDate ?? new Date()} />
       <section className="flex flex-col items-center gap-3">
         <input
@@ -48,6 +57,14 @@ export default function ZodiacCalendar({ data }: Props) {
       )}
     </div>
   );
+}
+
+// Returns the `date` query param value (YYYY-MM-DD) if present and valid.
+function getDateParam(): string | null {
+  if (typeof window === "undefined") return null;
+  const value = new URLSearchParams(window.location.search).get("date");
+  if (!value || !/^\d{4}-\d{2}-\d{2}$/.test(value)) return null;
+  return value;
 }
 
 function toDateInputValue(date: Date): string {
