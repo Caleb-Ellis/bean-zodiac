@@ -44,11 +44,11 @@ export default function ZodiacResult({
         </p>
       </section>
       <section className="flex flex-col items-center gap-3 max-w-xl">
-        <p className="text-zinc-400 mb-2">{zodiac.dish}</p>
+        <p className="text-zinc-300 mb-2">{zodiac.dish}</p>
         {showFortune && (
           <>
             <p className="text-xl sm:text-2xl font-bold mt-2">Bean Fortune</p>
-            <p className="italic text-zinc-400 mb-2">"{zodiac.fortune}"</p>
+            <p className="italic text-zinc-300 mb-2">"{zodiac.fortune}"</p>
           </>
         )}
       </section>
@@ -57,14 +57,14 @@ export default function ZodiacResult({
       )}
       <div className="flex gap-6 mt-2">
         <a className="link" href={`/beans/${bean.slug}`}>
-          About the <span className={`bean-${bean.slug}`}>{bean.name}</span> →
+          About the <span className={`bean-${bean.slug}`}>{bean.name}</span>&nbsp;→
         </a>
         <a className="link" href={`/flavours/${flavour.slug}`}>
           About the{" "}
           <span className={`flavour-${flavour.slug}`}>
             {flavour.name} Flavour
-          </span>{" "}
-          →
+          </span>
+          &nbsp;→
         </a>
       </div>
     </div>

@@ -12,33 +12,24 @@ const flavours = await getCollection("flavours");
 >
   <section class="py-12 text-center">
     <h1 class="text-4xl sm:text-5xl font-bold">The Five Flavours</h1>
-    <p class="mt-3 text-lg text-zinc-400 max-w-xl mx-auto">
+    <p class="mt-3 text-lg text-zinc-300 max-w-xl mx-auto">
       Each year is shaped not only by its Bean, but by one of five fundamental
       Flavours.
     </p>
   </section>
-  <ul class="grid grid-cols-1 sm:grid-cols-2 gap-6 list-none p-0 m-0">
+  <ul class="flex flex-col gap-3 list-none p-0 m-0 max-w-lg mx-auto w-full">
     {
       flavours.map((flavour) => (
-        <li class="rounded-2xl border border-zinc-800 bg-zinc-900 overflow-hidden hover:border-zinc-600 transition-colors">
-          <a href={`/flavours/${flavour.id}`} class="block">
-            <div class={`h-24 w-full bg-flavour-${flavour.id}`} />
-          </a>
-          <div class="p-4">
-            <a href={`/flavours/${flavour.id}`} class="no-underline">
-              <h2 class={`text-xl font-semibold flavour-${flavour.id}`}>
+        <li class="rounded-xl border border-zinc-800 bg-zinc-900 overflow-hidden hover:border-zinc-600 transition-colors">
+          <a href={`/flavours/${flavour.id}`} class="flex no-underline">
+            <div class={`w-4 shrink-0 bg-flavour-${flavour.id}`} />
+            <div class="p-4">
+              <h2 class={`text-lg font-semibold flavour-${flavour.id}`}>
                 {flavour.data.name}
               </h2>
-            </a>
-            <p class="text-sm text-zinc-400 mt-1">{flavour.data.tagline}</p>
-            <ul class="flex flex-wrap gap-1.5 mt-3 list-none p-0 m-0">
-              {flavour.data.traits.map((trait) => (
-                <li class="text-xs px-2.5 py-1 rounded-full bg-zinc-800 text-zinc-300">
-                  {trait}
-                </li>
-              ))}
-            </ul>
-          </div>
+              <p class="text-sm text-zinc-300 mt-0.5">{flavour.data.tagline}</p>
+            </div>
+          </a>
         </li>
       ))
     }

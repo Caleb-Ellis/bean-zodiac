@@ -17,8 +17,10 @@ const {
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width" />
-    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
-    <link rel="icon" href="/favicon.ico" />
+    <link
+      rel="icon"
+      href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🫘</text></svg>"
+    />
     <meta name="generator" content={Astro.generator} />
     <meta name="description" content={description} />
     <title>
@@ -27,25 +29,93 @@ const {
   </head>
   <body class="bg-zinc-950 text-white min-h-screen font-sans">
     <!-- SVG filter defs for bean flavour effects -->
-    <svg xmlns="http://www.w3.org/2000/svg" width="0" height="0" style="position:absolute;overflow:hidden" aria-hidden="true">
+    <svg
+      xmlns="http://www.w3.org/2000/svg"
+      width="0"
+      height="0"
+      style="position:absolute;overflow:hidden"
+      aria-hidden="true"
+    >
       <defs>
-        <filter id="umami-texture" color-interpolation-filters="sRGB" x="-5%" y="-5%" width="110%" height="110%">
-          <feTurbulence type="fractalNoise" baseFrequency="0.035" numOctaves="4" seed="3" result="noise"/>
-          <feColorMatrix type="matrix" values="1 0.3 0 0 0  0.5 0.8 0 0 0  0 0.2 0 0 0  0 0 0 0.22 0" in="noise" result="tinted"/>
-          <feComposite in="tinted" in2="SourceGraphic" operator="in" result="masked"/>
-          <feBlend in="SourceGraphic" in2="masked" mode="soft-light"/>
+        <filter
+          id="umami-texture"
+          color-interpolation-filters="sRGB"
+          x="-5%"
+          y="-5%"
+          width="110%"
+          height="110%"
+        >
+          <feTurbulence
+            type="fractalNoise"
+            baseFrequency="0.035"
+            numOctaves="4"
+            seed="3"
+            result="noise"></feTurbulence>
+          <feColorMatrix
+            type="matrix"
+            values="1 0.3 0 0 0  0.5 0.8 0 0 0  0 0.2 0 0 0  0 0 0 0.22 0"
+            in="noise"
+            result="tinted"></feColorMatrix>
+          <feComposite
+            in="tinted"
+            in2="SourceGraphic"
+            operator="in"
+            result="masked"></feComposite>
+          <feBlend in="SourceGraphic" in2="masked" mode="soft-light"></feBlend>
         </filter>
-        <filter id="bitter-grain" color-interpolation-filters="sRGB" x="-5%" y="-5%" width="110%" height="110%">
-          <feTurbulence type="turbulence" baseFrequency="0.72" numOctaves="1" seed="9" result="noise"/>
-          <feColorMatrix type="saturate" values="0" in="noise" result="grayNoise"/>
-          <feBlend in="SourceGraphic" in2="grayNoise" mode="overlay" result="blended"/>
-          <feComposite in="blended" in2="SourceGraphic" operator="in"/>
+        <filter
+          id="bitter-grain"
+          color-interpolation-filters="sRGB"
+          x="-5%"
+          y="-5%"
+          width="110%"
+          height="110%"
+        >
+          <feTurbulence
+            type="turbulence"
+            baseFrequency="0.72"
+            numOctaves="1"
+            seed="9"
+            result="noise"></feTurbulence>
+          <feColorMatrix
+            type="saturate"
+            values="0"
+            in="noise"
+            result="grayNoise"></feColorMatrix>
+          <feBlend
+            in="SourceGraphic"
+            in2="grayNoise"
+            mode="overlay"
+            result="blended"></feBlend>
+          <feComposite in="blended" in2="SourceGraphic" operator="in"
+          ></feComposite>
         </filter>
-        <filter id="spicy-heat" color-interpolation-filters="sRGB" x="-10%" y="-10%" width="120%" height="120%">
-          <feTurbulence type="turbulence" baseFrequency="0.02 0.008" numOctaves="2" result="warp">
-            <animate attributeName="baseFrequency" values="0.02 0.008;0.028 0.012;0.02 0.008" dur="0.4s" repeatCount="indefinite"/>
+        <filter
+          id="spicy-heat"
+          color-interpolation-filters="sRGB"
+          x="-10%"
+          y="-10%"
+          width="120%"
+          height="120%"
+        >
+          <feTurbulence
+            type="turbulence"
+            baseFrequency="0.02 0.008"
+            numOctaves="2"
+            result="warp"
+          >
+            <animate
+              attributeName="baseFrequency"
+              values="0.02 0.008;0.028 0.012;0.02 0.008"
+              dur="0.4s"
+              repeatCount="indefinite"></animate>
           </feTurbulence>
-          <feDisplacementMap in="SourceGraphic" in2="warp" scale="5" xChannelSelector="R" yChannelSelector="G"/>
+          <feDisplacementMap
+            in="SourceGraphic"
+            in2="warp"
+            scale="5"
+            xChannelSelector="R"
+            yChannelSelector="G"></feDisplacementMap>
         </filter>
       </defs>
     </svg>
