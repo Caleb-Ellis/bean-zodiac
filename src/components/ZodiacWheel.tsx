@@ -104,24 +104,36 @@ export default function ZodiacWheel({ data, date }: Props) {
   // the shortest angular path (avoids spinning the wrong way at year boundaries).
   const prevOuter = useRef(targetOuter);
   const prevInner = useRef(targetInner);
+  const prevDate = useRef<Date | null>(null);
   const [outerRot, setOuterRot] = useState(targetOuter);
   const [innerRot, setInnerRot] = useState(targetInner);
 
   useEffect(() => {
+    const isFirstOrLargeJump =
+      prevDate.current === null ||
+      Math.abs(date.getTime() - prevDate.current.getTime()) > 365 * 24 * 60 * 60 * 1000;
     const delta = shortestDelta(prevOuter.current, targetOuter);
     if (Math.abs(delta) > 0.001) {
-      setOuterRot((r) => r + delta + 360); // 1 extra full rotation
+      setOuterRot((r) => r + delta + (isFirstOrLargeJump ? 360 : 0));
     }
     prevOuter.current = targetOuter;
-  }, [targetOuter]);
+  }, [targetOuter, date]);
 
   useEffect(() => {
+    const isFirstOrLargeJump =
+      prevDate.current === null ||
+      Math.abs(date.getTime() - prevDate.current.getTime()) > 365 * 24 * 60 * 60 * 1000;
     const delta = shortestDelta(prevInner.current, targetInner);
     if (Math.abs(delta) > 0.001) {
-      setInnerRot((r) => r + delta + 720); // 2 extra full rotations
+      setInnerRot((r) => r + delta + (isFirstOrLargeJump ? 720 : 0));
     }
     prevInner.current = targetInner;
-  }, [targetInner]);
+  }, [targetInner, date]);
+
+  // Update prevDate after both ring effects have read it
+  useEffect(() => {
+    prevDate.current = date;
+  }, [date]);
 
   const transition = "transform 2.2s cubic-bezier(0.15, 0, 0.1, 1)";
 
@@ -132,20 +144,9 @@ export default function ZodiacWheel({ data, date }: Props) {
       style={{ height: "auto" }}
       aria-label="Bean Zodiac Wheel"
     >
-      <defs>
-        <radialGradient id="glowGradient" cx="50%" cy="50%" r="50%">
-          <stop offset="0%" stopColor="white" stopOpacity="0.18" />
-          <stop offset="60%" stopColor="white" stopOpacity="0.06" />
-          <stop offset="100%" stopColor="white" stopOpacity="0" />
-        </radialGradient>
-      </defs>
-
       {/* Dark backdrop circles */}
       <circle cx={CX} cy={CY} r={OUTER_R2 + 1} fill="rgba(0,0,0,0.3)" />
       <circle cx={CX} cy={CY} r={INNER_R1 - 1} fill="rgba(0,0,0,0.4)" />
-
-      {/* Soft glow behind the rings */}
-      <circle cx={CX} cy={CY} r={OUTER_R2 + 1} fill="url(#glowGradient)" />
 
       {/* Outer bean ring — rotates once per 12 years */}
       <g
@@ -165,7 +166,9 @@ export default function ZodiacWheel({ data, date }: Props) {
             <g key={beanId}>
               <path
                 d={annularSector(CX, CY, OUTER_R1, OUTER_R2, a1, a2)}
-                style={{ fill: `var(--bean-${beanId})` }}
+                fill="none"
+                style={{ stroke: `var(--bean-${beanId})` }}
+                strokeWidth="1.2"
               />
               <text
                 x={x}
@@ -173,10 +176,13 @@ export default function ZodiacWheel({ data, date }: Props) {
                 textAnchor="middle"
                 dominantBaseline="middle"
                 fontSize="5.5"
-                fill="rgba(0,0,0,0.8)"
                 fontWeight="700"
                 transform={`rotate(${textLocalRot(mid, outerRot)}, ${x}, ${y})`}
-                style={{ userSelect: "none", pointerEvents: "none" }}
+                style={{
+                  userSelect: "none",
+                  pointerEvents: "none",
+                  fill: `var(--bean-${beanId})`,
+                }}
               >
                 {data.beans[beanId].name.replace("Bean", "")}
               </text>
@@ -203,7 +209,9 @@ export default function ZodiacWheel({ data, date }: Props) {
             <g key={flavourId}>
               <path
                 d={annularSector(CX, CY, INNER_R1, INNER_R2, a1, a2)}
-                style={{ fill: `var(--flavour-${flavourId})` }}
+                fill="none"
+                style={{ stroke: `var(--flavour-${flavourId})` }}
+                strokeWidth="1.2"
               />
               <text
                 x={x}
@@ -211,10 +219,13 @@ export default function ZodiacWheel({ data, date }: Props) {
                 textAnchor="middle"
                 dominantBaseline="middle"
                 fontSize="6.5"
-                fill="rgba(0,0,0,0.8)"
                 fontWeight="700"
                 transform={`rotate(${textLocalRot(mid, innerRot)}, ${x}, ${y})`}
-                style={{ userSelect: "none", pointerEvents: "none" }}
+                style={{
+                  userSelect: "none",
+                  pointerEvents: "none",
+                  fill: `var(--flavour-${flavourId})`,
+                }}
               >
                 {data.flavours[flavourId].name}
               </text>
@@ -223,14 +234,11 @@ export default function ZodiacWheel({ data, date }: Props) {
         })}
       </g>
 
-      {/* BEANS inscription in the centre */}
+      {/* Centre inscription */}
       <text
-        x={CX + 1}
-        y={CY + 1}
         textAnchor="middle"
-        dominantBaseline="middle"
-        fontSize="14"
-        letterSpacing="3"
+        fontSize="10"
+        letterSpacing="2"
         style={{
           userSelect: "none",
           pointerEvents: "none",
@@ -239,7 +247,9 @@ export default function ZodiacWheel({ data, date }: Props) {
           fontWeight: 900,
         }}
       >
-        BEANS
+        <tspan x={CX} y={CY - 12}>IT'S A</tspan>
+        <tspan x={CX} dy="13">LOTTA</tspan>
+        <tspan x={CX} dy="13">BEANS</tspan>
       </text>
 
       {/* Arrow indicator — fixed at bottom, points up into the rings */}
