@@ -3,7 +3,7 @@ slug: umami
 name: Umami
 tagline: The Flavour that makes everything more itself.
 traits: [grounding, nourishing, deepening, satisfying, generous]
-color: "#8b6914"
+color: "#ff6000"
 ---
 
 Umami is the Flavour that is hardest to name but impossible to mistake. It is depth, substance, the quality that makes you reach for one more bite before you have consciously processed what you are eating. Found in slow-cooked broths, aged cheeses, fermented pastes, dried mushrooms — umami is the Flavour of patience made edible, of time transformed into richness.

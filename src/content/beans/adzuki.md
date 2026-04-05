@@ -3,7 +3,7 @@ slug: adzuki
 name: Adzuki Bean
 tagline: Celebration is a serious practice.
 traits: [joyful, lucky, prosperous, celebratory, generous]
-color: "#7b3f35"
+color: "#e05a46"
 modelFile: adzuki.glb
 ---
 

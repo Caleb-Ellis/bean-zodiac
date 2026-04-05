@@ -47,11 +47,11 @@ export default function ZodiacResult({
         </p>
       </section>
       <section className="flex flex-col items-center gap-3 max-w-xl">
-        <p className="text-stone-600 mb-4">{zodiac.dish}</p>
+        <p className="text-zinc-400 mb-4">{zodiac.dish}</p>
         {showFortune && (
           <>
             <p className="text-xl sm:text-2xl font-bold">Bean Fortune</p>
-            <p className="italic text-stone-600 mb-2">"{zodiac.fortune}"</p>
+            <p className="italic text-zinc-400 mb-2">"{zodiac.fortune}"</p>
           </>
         )}
       </section>

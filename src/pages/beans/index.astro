@@ -13,7 +13,7 @@ const beans = await getCollection("beans");
 >
   <section class="py-12 text-center">
     <h1 class="text-4xl sm:text-5xl font-bold">The Twelve Beans</h1>
-    <p class="mt-3 text-lg text-stone-500 max-w-xl mx-auto">
+    <p class="mt-3 text-lg text-zinc-400 max-w-xl mx-auto">
       Each bean carries its own character, wisdom, and fortune. Which one are
       you?
     </p>
@@ -24,7 +24,7 @@ const beans = await getCollection("beans");
   >
     {
       beans.map((bean) => (
-        <li class="rounded-2xl border border-stone-200 bg-white shadow-sm overflow-hidden hover:shadow-md transition-shadow">
+        <li class="rounded-2xl border border-zinc-800 bg-zinc-900 overflow-hidden hover:border-zinc-600 transition-colors">
           <a href={`/beans/${bean.id}`} class="block aspect-square w-full">
             <BeanModel bean={bean.data} />
           </a>
@@ -35,10 +35,10 @@ const beans = await getCollection("beans");
             >
               {bean.data.name}
             </h2>
-            <p class="text-sm text-stone-600 mt-1">{bean.data.tagline}</p>
+            <p class="text-sm text-zinc-400 mt-1">{bean.data.tagline}</p>
             <ul class="flex flex-wrap gap-1.5 mt-3 list-none p-0 m-0">
               {bean.data.traits.map((trait) => (
-                <li class="text-xs px-2.5 py-1 rounded-full bg-stone-100 text-stone-600">
+                <li class="text-xs px-2.5 py-1 rounded-full bg-zinc-800 text-zinc-300">
                   {trait}
                 </li>
               ))}

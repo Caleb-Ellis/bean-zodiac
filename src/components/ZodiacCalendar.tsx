@@ -14,7 +14,7 @@ export default function ZodiacCalendar({ data }: Props) {
   return (
     <div className="flex flex-col items-center text-center gap-8">
       <section className="flex flex-col items-center gap-3">
-        <p className="text-stone-500">
+        <p className="text-zinc-400">
           Pick a date and uncover the Bean within
         </p>
         <input

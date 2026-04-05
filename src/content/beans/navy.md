@@ -3,7 +3,7 @@ slug: navy
 name: Navy Bean
 tagline: Small, steady, and indispensable. TODO - focus on humble, dependable
 traits: [dependable, communal, traditional, humble, enduring]
-color: "#e8e8f0"
+color: "#5599ff"
 modelFile: navy.glb
 ---
 

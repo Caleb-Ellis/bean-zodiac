@@ -3,7 +3,7 @@ slug: edamame
 name: Edamame
 tagline: Potential is its own kind of power. TODO - focus on youth instead of potential
 traits: [youthful, energetic, fresh, social, full of promise]
-color: "#5d8a35"
+color: "#6ee030"
 modelFile: edamame.glb
 ---
 

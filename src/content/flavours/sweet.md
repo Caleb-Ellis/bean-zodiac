@@ -3,7 +3,7 @@ slug: sweet
 name: Sweet
 tagline: The Flavour that asks nothing in return.
 traits: [joyful, comforting, generous, abundant, warm]
-color: "#c47a3a"
+color: "#ff2d8f"
 ---
 
 Sweet is the Flavour of ease — the warmth that arrives without being earned, the joy that needs no justification. A Sweet Year does not ask you to work for it or prove yourself worthy of it. It simply offers itself, openly, and asks only that you receive it.

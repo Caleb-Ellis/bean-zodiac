@@ -18,7 +18,7 @@ const { Content: BeanContent } = await render(bean);
 
 <Layout title={bean.data.name} description={bean.data.tagline}>
   <article
-    class="rounded-2xl bg-white shadow-sm border border-stone-200 overflow-hidden"
+    class="rounded-2xl bg-zinc-900 border border-zinc-800 overflow-hidden"
   >
     <div class="flex flex-col md:flex-row">
       <div class="w-full md:w-80 shrink-0 aspect-square">
@@ -27,7 +27,7 @@ const { Content: BeanContent } = await render(bean);
       <div class="p-6 md:p-8 flex flex-col gap-4 min-w-0">
         <a
           href="/beans"
-          class="text-sm text-stone-400 hover:text-stone-600 transition-colors"
+          class="text-sm text-zinc-500 hover:text-zinc-300 transition-colors"
         >
           ← All Beans
         </a>
@@ -37,13 +37,13 @@ const { Content: BeanContent } = await render(bean);
         <ul class="flex flex-wrap gap-1.5 list-none p-0 m-0">
           {
             bean.data.traits.map((trait) => (
-              <li class="text-xs px-2.5 py-1 rounded-full bg-stone-100 text-stone-600">
+              <li class="text-xs px-2.5 py-1 rounded-full bg-zinc-800 text-zinc-300">
                 {trait}
               </li>
             ))
           }
         </ul>
-        <p class="text-stone-600 italic">{bean.data.tagline}</p>
+        <p class="text-zinc-400 italic">{bean.data.tagline}</p>
         <div class="markdown-content">
           <BeanContent />
         </div>
