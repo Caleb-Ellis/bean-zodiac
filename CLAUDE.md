@@ -23,20 +23,20 @@ pnpm lint:fix     # Lint and auto-fix
 
 The core of the app. Key concepts:
 
-- **12 beans** × **5 flavors** = **60-year cycle** (LCM, like the real Chinese zodiac)
+- **12 beans** × **5 flavours** × **4 methods** = **240-combination cycle**
 - New year switches on **March 12** annually (not Chinese New Year)
-- `REFERENCE_YEAR = 2026` anchors the cycle
+- Reference Date is 12 March 1993 - this is when the Bean Zodiac started
 - `getCurrentBeanZodiac()` → `getBeanZodiacForYear(beanYear)` is the main call chain
 
 ### Content Collections ([src/content.config.ts](src/content.config.ts))
 
-Three Astro glob-loaded collections:
+Astro glob-loaded collections:
 
 - **`beans/`** — 12 markdown files, one per bean (name, tagline, traits[], color CSS hex, optional modelFile)
 - **`flavours/`** — 5 markdown files, one per flavour (name, character, traits[], color CSS hex)
-- **`zodiacs/`** — 60 markdown files, one per bean×element pair (bean slug, flavor slug, tagline)
-
-Zodiacs are the Cartesian product of all beans and flavours. Each gets a horoscope-style tagline.
+- **`methods/`** — 4 markdown files: boiled, fermented, fried, roasted (name, tagline, traits[])
+- **`zodiacs/`** — 60 markdown files, one per bean×flavour pair (legacy; bean slug, flavour slug, tagline)
+- **`zodiacs-full/`** — 240 markdown files, one per bean×flavour×method combination. Filename: `{method}-{flavour}-{bean}.md`. Frontmatter: slug, bean, flavour, method, trait, dailyFortune, seasonalFortune. Body opens: "Beans born in the Season of the [Method] [Flavour] [Bean] are the Bean Zodiac's most [trait]." Reference file for style: `boiled-bitter-adzuki.md`.
 
 ### Pages and Routing
 
@@ -51,7 +51,3 @@ Detail pages use `getStaticPaths()` for static generation at build time.
 ### Styling
 
 Tailwind CSS 4 via `@tailwindcss/vite`. Each bean and element has a CSS hex color for per-page theming. Component-scoped styles live in `.astro` files.
-
-### Planned Features
-
-`BeanModel.astro` is a placeholder for 3D `.glb` bean models (Three.js/Threlte). Model files would live at `/public/models/{beanName}.glb`.

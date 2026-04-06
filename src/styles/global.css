@@ -14,11 +14,16 @@
   --bean-navy:       #5599ff;
   --bean-pinto:      #e88040;
 
-  --flavour-sweet:  oklch(75% 0.22865 324.989);
-  --flavour-sour:   oklch(70% 0.28931 141.814);
-  --flavour-bitter: oklch(65% 0.26342 264.703);
-  --flavour-umami:  oklch(80% 0.17046 77.947);
-  --flavour-spicy:  oklch(70% 0.25704 28.212);
+  --flavour-sweet:  oklch(75% 0.29 324.989);
+  --flavour-sour:   oklch(70% 0.32 141.814);
+  --flavour-bitter: oklch(65% 0.30 264.703);
+  --flavour-umami:  oklch(80% 0.22 77.947);
+  --flavour-spicy:  oklch(70% 0.31 28.212);
+
+  --method-fried:     oklch(65% 0.16 20);
+  --method-roasted:   oklch(90% 0.05 60);
+  --method-boiled:    oklch(65% 0.16 240);
+  --method-fermented: oklch(65% 0.16 150);
 }
 
 .link {
@@ -92,6 +97,16 @@
 .bg-flavour-bitter { background-color: var(--flavour-bitter); }
 .bg-flavour-umami  { background-color: var(--flavour-umami); }
 .bg-flavour-spicy  { background-color: var(--flavour-spicy); }
+
+.method-fried     { color: var(--method-fried); }
+.method-roasted   { color: var(--method-roasted); }
+.method-boiled    { color: var(--method-boiled); }
+.method-fermented { color: var(--method-fermented); }
+
+.bg-method-fried     { background-color: var(--method-fried); }
+.bg-method-roasted   { background-color: var(--method-roasted); }
+.bg-method-boiled    { background-color: var(--method-boiled); }
+.bg-method-fermented { background-color: var(--method-fermented); }
 
 .flavour-filter-sweet  {
   filter: sepia(0.25) hue-rotate(300deg) saturate(1.5);

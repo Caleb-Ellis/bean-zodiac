@@ -1,4 +1,4 @@
-import { useEffect, useRef, useState } from "react";
+import { Fragment, useEffect, useRef, useState } from "react";
 import {
   BEAN_ORDER,
   BEAN_ZODIAC_REFERENCE_DAY,
@@ -6,34 +6,37 @@ import {
   BEAN_ZODIAC_REFERENCE_YEAR,
   FLAVOUR_EMOJI,
   FLAVOUR_ORDER,
+  METHOD_EMOJI,
+  METHOD_ORDER,
   getBeanYear,
 } from "../lib/zodiac";
+import type { MethodId } from "../lib/zodiac";
 
-// Wheel radius
+// Wheel centre
 const CX = 100;
 const CY = 100;
-// Flavour ring radii
-const INNER_R1 = 33;
-const INNER_R2 = 63;
+// Method ring radii (middle ring)
+const METHOD_R1 = 37;
+const METHOD_R2 = 55;
+// Flavour ring radii (inner ring)
+const FLAVOUR_R1 = 15;
+const FLAVOUR_R2 = 35;
 // Bean ring radii
-const OUTER_R1 = 66;
-const OUTER_R2 = 96;
+const BEAN_R1 = 57;
+const BEAN_R2 = 83;
 // Angular gap between segments
 const GAP = 1.1;
-// Sun radii
-const SUN_INNER_R = 17.5;
-const SUN_OUTER_R = 26;
-const SUN_RAY_TIP_R = 25;
-const SUN_RAY_BASE_R = 18;
 const TRANSITION = "transform 2.2s cubic-bezier(0.15, 0, 0.1, 1)";
+const ACTIVE_DARK = "#27272a";
 
 // Segment widths (degrees)
 const BEAN_SEG = 360 / BEAN_ORDER.length;
 const FLAVOUR_SEG = 360 / FLAVOUR_ORDER.length;
+const METHOD_SEG = 360 / METHOD_ORDER.length;
 const YEARS_PER_FLAVOUR = 2;
 
 // ---------------------------------------------------------------------------
-// Static geometry — computed once at module load, never on render
+// Static geometry + filters — computed once at module load, never on render
 // ---------------------------------------------------------------------------
 
 function toXY(r: number, deg: number) {
@@ -42,10 +45,8 @@ function toXY(r: number, deg: number) {
 }
 
 function annularSector(r1: number, r2: number, a1: number, a2: number): string {
-  const p1 = toXY(r2, a1),
-    p2 = toXY(r2, a2);
-  const p3 = toXY(r1, a2),
-    p4 = toXY(r1, a1);
+  const p1 = toXY(r2, a1), p2 = toXY(r2, a2);
+  const p3 = toXY(r1, a2), p4 = toXY(r1, a1);
   const large = a2 - a1 > 180 ? 1 : 0;
   const f = (n: number) => n.toFixed(3);
   return (
@@ -54,43 +55,60 @@ function annularSector(r1: number, r2: number, a1: number, a2: number): string {
   );
 }
 
+function makeFilter(id: string, color: string, spread: string) {
+  return (
+    <filter key={id} id={id} x={spread} y={spread} width={spread === "-20%" ? "140%" : "200%"} height={spread === "-20%" ? "140%" : "200%"} colorInterpolationFilters="sRGB">
+      <feFlood floodColor={color} result="color" />
+      <feComposite in="color" in2="SourceGraphic" operator="in" />
+    </filter>
+  );
+}
+
 const BEAN_GEOMETRY = BEAN_ORDER.map((beanId, i) => {
   const mid = 90 - i * BEAN_SEG;
-  const path = annularSector(
-    OUTER_R1,
-    OUTER_R2,
-    mid - BEAN_SEG / 2 + GAP,
-    mid + BEAN_SEG / 2 - GAP,
-  );
-  const { x, y } = toXY((OUTER_R1 + OUTER_R2) / 2, mid);
+  const path = annularSector(BEAN_R1, BEAN_R2, mid - BEAN_SEG / 2 + GAP, mid + BEAN_SEG / 2 - GAP);
+  const { x, y } = toXY((BEAN_R1 + BEAN_R2) / 2, mid);
   return { beanId, path, x, y, mid };
 });
 
 const FLAVOUR_GEOMETRY = FLAVOUR_ORDER.map((flavourId, i) => {
   const mid = 90 - i * FLAVOUR_SEG;
-  const path = annularSector(
-    INNER_R1,
-    INNER_R2,
-    mid - FLAVOUR_SEG / 2 + GAP,
-    mid + FLAVOUR_SEG / 2 - GAP,
-  );
-  const { x, y } = toXY((INNER_R1 + INNER_R2) / 2, mid);
+  const path = annularSector(FLAVOUR_R1, FLAVOUR_R2, mid - FLAVOUR_SEG / 2 + GAP, mid + FLAVOUR_SEG / 2 - GAP);
+  const { x, y } = toXY((FLAVOUR_R1 + FLAVOUR_R2) / 2, mid);
   return { flavourId, path, x, y, mid };
 });
 
-const SUN_RAY_PATHS = Array.from({ length: 12 }, (_, i) => {
-  const tipAngle = (i * 30 - 90) * (Math.PI / 180);
-  const tip = {
-    x: CX + SUN_RAY_TIP_R * Math.cos(tipAngle),
-    y: CY + SUN_RAY_TIP_R * Math.sin(tipAngle),
-  };
-  const lAngle = tipAngle - 20 * (Math.PI / 180);
-  const rAngle = tipAngle + 20 * (Math.PI / 180);
-  const l = { x: CX + SUN_RAY_BASE_R * Math.cos(lAngle), y: CY + SUN_RAY_BASE_R * Math.sin(lAngle) };
-  const r = { x: CX + SUN_RAY_BASE_R * Math.cos(rAngle), y: CY + SUN_RAY_BASE_R * Math.sin(rAngle) };
-  const f = (n: number) => n.toFixed(2);
-  return `M${f(tip.x)},${f(tip.y)} L${f(l.x)},${f(l.y)} L${f(r.x)},${f(r.y)} Z`;
+const METHOD_GEOMETRY = METHOD_ORDER.map((methodId, i) => {
+  const mid = 90 + i * METHOD_SEG; // reversed so anti-clockwise rotation tracks correctly
+  const path = annularSector(METHOD_R1, METHOD_R2, mid - METHOD_SEG / 2 + GAP, mid + METHOD_SEG / 2 - GAP);
+  const { x, y } = toXY((METHOD_R1 + METHOD_R2) / 2, mid);
+  return { methodId, path, x, y, mid };
 });
+
+// All filter definitions precomputed — two variants per segment (normal + active).
+// Kept outside the component so React never reconciles them after mount.
+const STATIC_FILTERS = (
+  <>
+    {BEAN_GEOMETRY.map(({ beanId }) => (
+      <Fragment key={beanId}>
+        {makeFilter(`f-b-${beanId}`,   `var(--bean-${beanId})`, "-20%")}
+        {makeFilter(`f-b-${beanId}-a`, ACTIVE_DARK,             "-20%")}
+      </Fragment>
+    ))}
+    {FLAVOUR_GEOMETRY.map(({ flavourId }) => (
+      <Fragment key={flavourId}>
+        {makeFilter(`f-fl-${flavourId}`,   `var(--flavour-${flavourId})`, "-50%")}
+        {makeFilter(`f-fl-${flavourId}-a`, ACTIVE_DARK,                   "-50%")}
+      </Fragment>
+    ))}
+    {METHOD_GEOMETRY.map(({ methodId }) => (
+      <Fragment key={methodId}>
+        {makeFilter(`f-m-${methodId}`,   `var(--method-${methodId})`, "-50%")}
+        {makeFilter(`f-m-${methodId}-a`, ACTIVE_DARK,                 "-50%")}
+      </Fragment>
+    ))}
+  </>
+);
 
 // ---------------------------------------------------------------------------
 
@@ -106,9 +124,10 @@ export default function ZodiacWheel({ date, highlight = true }: Props) {
     absCentre,
     targetOuter,
     targetInner,
-    targetCentre,
+    targetMethod,
     beanIdx,
     flavourIdx,
+    methodIdx,
   } = computeTargets(date);
 
   const prevAbsOuter = useRef(absOuter);
@@ -117,40 +136,41 @@ export default function ZodiacWheel({ date, highlight = true }: Props) {
 
   const [outerRot, setOuterRot] = useState(targetOuter);
   const [innerRot, setInnerRot] = useState(targetInner);
-  const [centreRot, setCentreRot] = useState(targetCentre);
+  const [methodRot, setMethodRot] = useState(targetMethod);
   const [activeBeanIdx, setActiveBeanIdx] = useState(beanIdx);
   const [activeFlavourIdx, setActiveFlavourIdx] = useState(flavourIdx);
+  const [activeMethodIdx, setActiveMethodIdx] = useState(methodIdx);
   const [highlightVisible, setHighlightVisible] = useState(false);
 
   useEffect(() => {
     const delta = absOuter - prevAbsOuter.current;
-    setOuterRot((r) => r + capDelta(delta, 720)); // cap: 2 revolutions = 24 years
+    setOuterRot((r) => r + capDelta(delta, 720));
     prevAbsOuter.current = absOuter;
   }, [absOuter]);
 
   useEffect(() => {
     const delta = absInner - prevAbsInner.current;
-    setInnerRot((r) => r + capDelta(delta, 720)); // cap: 2 revolutions = 20 years
+    setInnerRot((r) => r + capDelta(delta, 720));
     prevAbsInner.current = absInner;
   }, [absInner]);
 
   useEffect(() => {
     const delta = absCentre - prevAbsCentre.current;
-    setCentreRot((r: number) => r + capDelta(delta, 640)); // cap: 1.5 revolutions = 1.5 years
+    setMethodRot((r) => r + capDelta(delta, 640));
     prevAbsCentre.current = absCentre;
   }, [absCentre]);
 
-  // Fade out, wait for spin to settle, then fade back in on the new segment
   useEffect(() => {
     setHighlightVisible(false);
     if (!highlight) return;
     const t = setTimeout(() => {
       setActiveBeanIdx(beanIdx);
       setActiveFlavourIdx(flavourIdx);
+      setActiveMethodIdx(methodIdx);
       setHighlightVisible(true);
     }, 2100);
     return () => clearTimeout(t);
-  }, [beanIdx, flavourIdx, highlight]);
+  }, [beanIdx, flavourIdx, methodIdx, highlight]);
 
   return (
     <svg
@@ -159,128 +179,98 @@ export default function ZodiacWheel({ date, highlight = true }: Props) {
       style={{ height: "auto" }}
       aria-label="Bean Zodiac Wheel"
     >
-      {/* Static clip paths — defined once at the top level, outside animated groups */}
       <defs>
+        {STATIC_FILTERS}
         {BEAN_GEOMETRY.map(({ beanId, path }) => (
-          <clipPath key={beanId} id={`clip-${beanId}`}>
+          <clipPath key={beanId} id={`clip-b-${beanId}`}>
             <path d={path} />
           </clipPath>
         ))}
         {FLAVOUR_GEOMETRY.map(({ flavourId, path }) => (
-          <clipPath key={flavourId} id={`clip-${flavourId}`}>
+          <clipPath key={flavourId} id={`clip-fl-${flavourId}`}>
+            <path d={path} />
+          </clipPath>
+        ))}
+        {METHOD_GEOMETRY.map(({ methodId, path }) => (
+          <clipPath key={methodId} id={`clip-m-${methodId}`}>
             <path d={path} />
           </clipPath>
         ))}
       </defs>
 
       {/* Outer bean ring — rotates once per 12 years */}
-      <g
-        style={{
-          transformOrigin: `${CX}px ${CY}px`,
-          transform: `rotate(${outerRot}deg)`,
-          transition: TRANSITION,
-          willChange: "transform",
-        }}
-      >
+      <g style={{ transformOrigin: `${CX}px ${CY}px`, transform: `rotate(${outerRot}deg)`, transition: TRANSITION, willChange: "transform" }}>
         {BEAN_GEOMETRY.map(({ beanId, path, x, y, mid }, i) => {
           const active = i === activeBeanIdx && highlightVisible;
           const color = `var(--bean-${beanId})`;
-          const filterId = `colorize-${beanId}`;
           return (
             <g key={beanId}>
-              <defs>
-                <filter
-                  id={filterId}
-                  x="-20%"
-                  y="-20%"
-                  width="140%"
-                  height="140%"
-                  colorInterpolationFilters="sRGB"
-                >
-                  <feFlood
-                    floodColor={active ? "#27272a" : color}
-                    result="color"
-                  />
-                  <feComposite in="color" in2="SourceGraphic" operator="in" />
-                </filter>
-              </defs>
               <path
                 d={path}
                 strokeWidth={3}
-                clipPath={`url(#clip-${beanId})`}
+                clipPath={`url(#clip-b-${beanId})`}
                 fill={active ? color : "transparent"}
                 style={{ stroke: color, transition: "fill 0.5s ease" }}
               />
               <image
                 href={`/images/${beanId}.svg`}
-                x={x - 8}
-                y={y - 8}
-                width={16}
-                height={16}
-                clipPath={`url(#clip-${beanId})`}
+                x={x - 7} y={y - 7} width={14} height={14}
+                clipPath={`url(#clip-b-${beanId})`}
                 transform={`rotate(${mid - 90}, ${x}, ${y})`}
                 preserveAspectRatio="xMidYMid meet"
-                style={{
-                  filter: `url(#${filterId})`,
-                  userSelect: "none",
-                  pointerEvents: "none",
-                }}
+                style={{ filter: `url(#f-b-${beanId}${active ? "-a" : ""})`, userSelect: "none", pointerEvents: "none" }}
               />
             </g>
           );
         })}
       </g>
 
-      {/* Inner flavour ring — rotates once per 10 years */}
-      <g
-        style={{
-          transformOrigin: `${CX}px ${CY}px`,
-          transform: `rotate(${innerRot}deg)`,
-          transition: TRANSITION,
-          willChange: "transform",
-        }}
-      >
-        {FLAVOUR_GEOMETRY.map(({ flavourId, path, x, y, mid }, i) => {
-          const active = i === activeFlavourIdx && highlightVisible;
-          const color = `var(--flavour-${flavourId})`;
-          const filterId = `colorize-flavour-${flavourId}`;
+      {/* Middle method ring — spins anti-clockwise */}
+      <g style={{ transformOrigin: `${CX}px ${CY}px`, transform: `rotate(${-methodRot}deg)`, transition: TRANSITION, willChange: "transform" }}>
+        {METHOD_GEOMETRY.map(({ methodId, path, x, y, mid }, i) => {
+          const active = i === activeMethodIdx && highlightVisible;
+          const color = `var(--method-${methodId})`;
           return (
-            <g key={flavourId}>
-              <defs>
-                <filter
-                  id={filterId}
-                  x="-50%"
-                  y="-50%"
-                  width="200%"
-                  height="200%"
-                  colorInterpolationFilters="sRGB"
-                >
-                  <feFlood
-                    floodColor={active ? "#27272a" : color}
-                    result="color"
-                  />
-                  <feComposite in="color" in2="SourceGraphic" operator="in" />
-                </filter>
-              </defs>
+            <g key={methodId}>
               <path
                 d={path}
-                strokeWidth={4}
-                clipPath={`url(#clip-${flavourId})`}
+                strokeWidth={3}
+                clipPath={`url(#clip-m-${methodId})`}
                 fill={active ? color : "transparent"}
                 style={{ stroke: color, transition: "fill 0.5s ease" }}
               />
               <text
-                x={x}
-                y={y}
-                textAnchor="middle"
-                dominantBaseline="middle"
-                fontSize="14"
+                x={x} y={y}
+                textAnchor="middle" dominantBaseline="middle" fontSize="10"
                 transform={`rotate(${mid - 90}, ${x}, ${y})`}
-                style={{
-                  userSelect: "none",
-                  pointerEvents: "none",
-                  filter: `url(#${filterId})`,
-                }}
+                style={{ userSelect: "none", pointerEvents: "none", filter: `url(#f-m-${methodId}${active ? "-a" : ""})` }}
+              >
+                {METHOD_EMOJI[methodId as MethodId]}
+              </text>
+            </g>
+          );
+        })}
+      </g>
+
+      {/* Inner flavour ring */}
+      <g style={{ transformOrigin: `${CX}px ${CY}px`, transform: `rotate(${innerRot}deg)`, transition: TRANSITION, willChange: "transform" }}>
+        {FLAVOUR_GEOMETRY.map(({ flavourId, path, x, y, mid }, i) => {
+          const active = i === activeFlavourIdx && highlightVisible;
+          const color = `var(--flavour-${flavourId})`;
+          return (
+            <g key={flavourId}>
+              <path
+                d={path}
+                strokeWidth={4}
+                clipPath={`url(#clip-fl-${flavourId})`}
+                fill={active ? color : "transparent"}
+                style={{ stroke: color, transition: "fill 0.5s ease" }}
+              />
+              <text
+                x={x} y={y}
+                textAnchor="middle" dominantBaseline="middle" fontSize="9"
+                transform={`rotate(${mid - 90}, ${x}, ${y})`}
+                style={{ userSelect: "none", pointerEvents: "none", filter: `url(#f-fl-${flavourId}${active ? "-a" : ""})` }}
               >
                 {FLAVOUR_EMOJI[flavourId]}
               </text>
@@ -289,61 +279,17 @@ export default function ZodiacWheel({ date, highlight = true }: Props) {
         })}
       </g>
 
-      {/* Centre sun — rotates once per year */}
+      {/* Centre bean emoji */}
       <g style={{ userSelect: "none", pointerEvents: "none" }}>
-        <g
-          style={{
-            transformOrigin: `${CX}px ${CY}px`,
-            transform: `rotate(${centreRot}deg)`,
-            transition: TRANSITION,
-            willChange: "transform",
-          }}
-        >
-          {SUN_RAY_PATHS.map((d, i) => (
-            <path key={i} d={d} fill="#d4d4d4" />
-          ))}
-          <circle
-            cx={CX}
-            cy={CY}
-            r={SUN_INNER_R}
-            fill="none"
-            stroke="#d4d4d4"
-            strokeWidth="2.5"
-          />
-          <circle
-            cx={CX}
-            cy={CY}
-            r={SUN_OUTER_R}
-            fill="none"
-            stroke="#d4d4d4"
-            strokeWidth="2.5"
-          />
-        </g>
-        <text
-          x={CX}
-          y={CY + 2}
-          textAnchor="middle"
-          dominantBaseline="middle"
-          fontSize="16"
-          style={{ userSelect: "none", pointerEvents: "none" }}
-        >
+        <circle cx={CX} cy={CY} r={12} fill="none" stroke="white" strokeWidth="1.5" opacity={0.9} />
+        <text x={CX} y={CY + 1} textAnchor="middle" dominantBaseline="middle" fontSize="10">
           🫘
         </text>
       </g>
 
       {/* Arrow indicator — fixed at bottom, points up into the rings */}
-      <g
-        fill="white"
-        opacity={0.9}
-        style={{
-          userSelect: "none",
-          pointerEvents: "none",
-          filter: "drop-shadow(0 0 3px rgba(255,255,255,0.65))",
-        }}
-      >
-        <path
-          d={`M${CX},${CY + OUTER_R2 + 2} L${CX - 4},${CY + OUTER_R2 + 11} L${CX},${CY + OUTER_R2 + 20} L${CX + 4},${CY + OUTER_R2 + 11} Z`}
-        />
+      <g fill="white" opacity={0.9} style={{ userSelect: "none", pointerEvents: "none", filter: "drop-shadow(0 0 3px rgba(255,255,255,0.65))" }}>
+        <path d={`M${CX},${CY + BEAN_R2 + 2} L${CX - 4},${CY + BEAN_R2 + 11} L${CX},${CY + BEAN_R2 + 20} L${CX + 4},${CY + BEAN_R2 + 11} Z`} />
       </g>
     </svg>
   );
@@ -352,26 +298,22 @@ export default function ZodiacWheel({ date, highlight = true }: Props) {
 function capDelta(delta: number, maxDeg: number): number {
   const abs = Math.abs(delta);
   const remainder = abs % 360;
-  const revs = Math.min(
-    Math.floor(abs / 360),
-    Math.floor((maxDeg - remainder) / 360),
-  );
+  const revs = Math.min(Math.floor(abs / 360), Math.floor((maxDeg - remainder) / 360));
   return Math.sign(delta) * (revs * 360 + remainder);
 }
 
 function computeTargets(date: Date) {
   const REF = BEAN_ZODIAC_REFERENCE_YEAR;
   const beanYear = getBeanYear(date);
-  const m = BEAN_ZODIAC_REFERENCE_MONTH - 1; // Date constructor uses 0-indexed months
+  const m = BEAN_ZODIAC_REFERENCE_MONTH - 1;
   const d = BEAN_ZODIAC_REFERENCE_DAY;
   const yearStart = new Date(beanYear, m, d).getTime();
   const yearEnd = new Date(beanYear + 1, m, d).getTime();
   const beanFrac = (date.getTime() - yearStart) / (yearEnd - yearStart);
 
   const absOuter = (beanYear - REF + beanFrac) * BEAN_SEG;
-  const absInner =
-    (beanYear - REF + beanFrac) * (FLAVOUR_SEG / YEARS_PER_FLAVOUR);
-  const absCentre = (beanYear - REF + beanFrac) * 360; // 1 rev per year
+  const absInner = (beanYear - REF + beanFrac) * (FLAVOUR_SEG / YEARS_PER_FLAVOUR);
+  const absCentre = (beanYear - REF + beanFrac) * 360;
 
   const modOuter = ((absOuter % 360) + 360) % 360;
   const modInner = ((absInner % 360) + 360) % 360;
@@ -381,10 +323,12 @@ function computeTargets(date: Date) {
     absOuter,
     absInner,
     absCentre,
-    targetOuter: modOuter - BEAN_SEG / 2, // half-segment offset aligns boundary with arrow
+    targetOuter: modOuter - BEAN_SEG / 2,
     targetInner: modInner - FLAVOUR_SEG / 2,
     targetCentre: modCentre,
+    targetMethod: modCentre - METHOD_SEG / 2,
     beanIdx: Math.floor(modOuter / BEAN_SEG),
     flavourIdx: Math.floor(modInner / FLAVOUR_SEG),
+    methodIdx: Math.floor(modCentre / METHOD_SEG),
   };
 }

@@ -7,11 +7,13 @@ import "../styles/global.css";
 
 const beanCollection = await getCollection("beans");
 const flavourCollection = await getCollection("flavours");
+const methodCollection = await getCollection("methods");
 const zodiacCollection = await getCollection("zodiacs");
 
 const data = buildZodiacData(
   beanCollection,
   flavourCollection,
+  methodCollection,
   zodiacCollection,
 );
 ---
@@ -21,6 +23,8 @@ const data = buildZodiacData(
     <ZodiacResult data={data} date={new Date()} showFortune client:load />
   </section>
   <section class="flex flex-col items-center my-6 sm:my-8">
-    <a class="link text-xl font-bold" href="/calendar">Which Bean are you?&nbsp;→</a>
+    <a class="link text-xl font-bold" href="/calendar"
+      >Which Bean are you?&nbsp;→</a
+    >
   </section>
 </Layout>

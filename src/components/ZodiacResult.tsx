@@ -22,6 +22,7 @@ export default function ZodiacResult({
   const metadata = getZodiacMetadataForDate(date);
   const bean = data.beans[metadata.beanId];
   const flavour = data.flavours[metadata.flavourId];
+  const method = data.methods[metadata.methodId];
   const zodiac = data.zodiacs[metadata.zodiacId];
   const startDateStr = formatZodiacDate(metadata.startDate);
   const endDateStr = formatZodiacDate(metadata.endDate);
@@ -29,16 +30,14 @@ export default function ZodiacResult({
   return (
     <div className="flex flex-col items-center text-center gap-6 animate-fade-up">
       <section className="flex flex-col items-center gap-2">
-        <h2 className="mb-2">
-          <span className="text-xl sm:text-2xl font-bold">The Year of the</span>
-          <br />
-          <span className="text-4xl sm:text-7xl font-bold">
-            <span className={`flavour-${flavour.slug}`}>{flavour.name}</span>{" "}
-            <span className={`bean-${bean.slug}`}>{bean.name}</span>
-          </span>
+        <h2 className="mb-2 flex flex-col items-center font-bold">
+          <span className="block text-lg sm:text-xl mb-1 sm:mb-2">The Season of the</span>
+          <span className={`block text-2xl sm:text-3xl mb-2 sm:mb-3 flavour-${flavour.slug}`}>{flavour.name}</span>
+          <span className={`block text-4xl sm:text-6xl mb-3 sm:mb-4 method-${method.slug}`}>{method.name}</span>
+          <span className={`block text-6xl sm:text-8xl bean-${bean.slug}`}>{bean.name}</span>
         </h2>
         <div className="my-6 sm:my-8">
-          <Bean bean={bean} flavourId={flavour.slug} />
+          <Bean bean={bean} flavourId={flavour.slug} methodId={method.slug} />
         </div>
         <p className="mb-2">
           {startDateStr} - {endDateStr}
@@ -67,6 +66,13 @@ export default function ZodiacResult({
           About the{" "}
           <span className={`flavour-${flavour.slug}`}>
             {flavour.name} Flavour
+          </span>
+          &nbsp;→
+        </a>
+        <a className="link" href={`/methods/${method.slug}`}>
+          About the{" "}
+          <span className={`method-${method.slug}`}>
+            {method.name} Method
           </span>
           &nbsp;→
         </a>
