@@ -54,7 +54,7 @@ export default function ZodiacResult({
       </section>
       {showContent && (
         <section
-          className="max-w-xl"
+          className="max-w-xl markdown-content"
           dangerouslySetInnerHTML={{ __html: zodiac.content }}
         ></section>
       )}

@@ -112,7 +112,7 @@ export default function ZodiacWheel({ data, date }: Props) {
   const [innerRot, setInnerRot] = useState(targetInner);
   const [activeBeanIdx, setActiveBeanIdx] = useState(beanIdx);
   const [activeFlavourIdx, setActiveFlavourIdx] = useState(flavourIdx);
-  const [highlightVisible, setHighlightVisible] = useState(true);
+  const [highlightVisible, setHighlightVisible] = useState(false);
 
   useEffect(() => {
     const isFirstOrLargeJump =
