@@ -1,106 +1,44 @@
 import { useEffect, useRef, useState } from "react";
 import {
   BEAN_ORDER,
+  BEAN_ZODIAC_REFERENCE_DAY,
+  BEAN_ZODIAC_REFERENCE_MONTH,
   BEAN_ZODIAC_REFERENCE_YEAR,
   FLAVOUR_ORDER,
   getBeanYear,
   type ZodiacData,
 } from "../lib/zodiac";
 
+// Wheel radius
+const CX = 100;
+const CY = 100;
+// Flavour ring radii
+const INNER_R1 = 35;
+const INNER_R2 = 63;
+// Bean ring radii
+const OUTER_R1 = 65;
+const OUTER_R2 = 93;
+// Angular gap between segments
+const GAP = 0.8;
+const TRANSITION = "transform 2.2s cubic-bezier(0.15, 0, 0.1, 1)";
+
+// Segment widths (degrees)
+const BEAN_SEG = 360 / BEAN_ORDER.length;
+const FLAVOUR_SEG = 360 / FLAVOUR_ORDER.length;
+const YEARS_PER_FLAVOUR = 2;
+
 type Props = {
   data: ZodiacData;
   date: Date;
 };
 
-// SVG layout constants
-const CX = 100;
-const CY = 100;
-const OUTER_R2 = 93; // outer edge of bean ring
-const OUTER_R1 = 65; // inner edge of bean ring
-const INNER_R2 = 63; // outer edge of flavour ring
-const INNER_R1 = 35; // inner edge of flavour ring
-const GAP = 0.8; // angular half-gap between segments (degrees)
-
-function toXY(cx: number, cy: number, r: number, deg: number) {
-  const rad = (deg * Math.PI) / 180;
-  return { x: cx + r * Math.cos(rad), y: cy + r * Math.sin(rad) };
-}
-
-function annularSector(
-  cx: number,
-  cy: number,
-  r1: number,
-  r2: number,
-  a1: number,
-  a2: number,
-): string {
-  const p1 = toXY(cx, cy, r2, a1);
-  const p2 = toXY(cx, cy, r2, a2);
-  const p3 = toXY(cx, cy, r1, a2);
-  const p4 = toXY(cx, cy, r1, a1);
-  const large = a2 - a1 > 180 ? 1 : 0;
-  return (
-    `M${p1.x.toFixed(3)},${p1.y.toFixed(3)} ` +
-    `A${r2},${r2},0,${large},1,${p2.x.toFixed(3)},${p2.y.toFixed(3)} ` +
-    `L${p3.x.toFixed(3)},${p3.y.toFixed(3)} ` +
-    `A${r1},${r1},0,${large},0,${p4.x.toFixed(3)},${p4.y.toFixed(3)} Z`
-  );
-}
-
-// Local text rotation so labels always read correctly from outside the wheel.
-//
-// Derivation: at rest the segment at local angle `mid` sits at global angle
-// G = mid + ringRot.  For tangential text to not be upside-down we want the
-// global text rotation to be (G - 90) for the bottom half and (G + 90) for
-// the top half.  Subtracting ringRot gives the required local rotation:
-//   bottom half:  (G - 90) - ringRot = mid - 90
-//   top half:     (G + 90) - ringRot = mid + 90
-function textLocalRot(mid: number, ringRot: number): number {
-  const normG = (((mid + ringRot) % 360) + 360) % 360;
-  return normG > 180 ? mid + 90 : mid - 90;
-}
-
-// Exact target rotations for a given date, including the fractional position
-// within the current bean year / flavour period.
-function computeTargets(date: Date) {
-  const REF = BEAN_ZODIAC_REFERENCE_YEAR; // 1993
-  const beanYear = getBeanYear(date);
-  const beanIdx = (((beanYear - REF) % 12) + 12) % 12;
-  const flavourIdx = ((Math.floor((beanYear - REF) / 2) % 5) + 5) % 5;
-
-  // Fraction elapsed within the current bean year (March 12 → March 12)
-  const beanYearStart = new Date(beanYear, 2, 12).getTime();
-  const beanYearEnd = new Date(beanYear + 1, 2, 12).getTime();
-  const beanFrac =
-    (date.getTime() - beanYearStart) / (beanYearEnd - beanYearStart);
-
-  // Fraction elapsed within the current 2-year flavour period
-  const flavourStartYear = beanYear - ((((beanYear - REF) % 2) + 2) % 2);
-  const flavourStart = new Date(flavourStartYear, 2, 12).getTime();
-  const flavourEnd = new Date(flavourStartYear + 2, 2, 12).getTime();
-  const flavourFrac =
-    (date.getTime() - flavourStart) / (flavourEnd - flavourStart);
-
-  // Subtract half a segment so the *boundary line* (not the center) aligns
-  // with the arrow at beanFrac/flavourFrac = 0 (i.e. exactly on March 12 of
-  // the reference year, the start edge of Edamame / Umami sits at the arrow).
-  return {
-    targetOuter: (beanIdx + beanFrac) * 30 - 15,
-    targetInner: (flavourIdx + flavourFrac) * 72 - 36,
-    beanIdx,
-    flavourIdx,
-  };
-}
-
 export default function ZodiacWheel({ data, date }: Props) {
-  const { targetOuter, targetInner, beanIdx, flavourIdx } =
+  const { absOuter, absInner, targetOuter, targetInner, beanIdx, flavourIdx } =
     computeTargets(date);
 
-  // Track previous targets and accumulate rotations so animation always takes
-  // the shortest angular path (avoids spinning the wrong way at year boundaries).
-  const prevOuter = useRef(targetOuter);
-  const prevInner = useRef(targetInner);
-  const prevDate = useRef<Date | null>(null);
+  const prevAbsOuter = useRef(absOuter);
+  const prevAbsInner = useRef(absInner);
+
   const [outerRot, setOuterRot] = useState(targetOuter);
   const [innerRot, setInnerRot] = useState(targetInner);
   const [activeBeanIdx, setActiveBeanIdx] = useState(beanIdx);
@@ -108,50 +46,29 @@ export default function ZodiacWheel({ data, date }: Props) {
   const [highlightVisible, setHighlightVisible] = useState(false);
 
   useEffect(() => {
-    // Clockwise distance (0–360°) from previous to new target
-    const cwDist = ((targetOuter - prevOuter.current) % 360 + 360) % 360;
-    if (cwDist < 0.001 && prevDate.current !== null) return;
-
-    const isLater =
-      prevDate.current === null ||
-      date.getTime() >= prevDate.current.getTime();
-    // Clockwise for later dates, anticlockwise for earlier
-    const delta = isLater ? cwDist : cwDist - 360;
-    const clamped = Math.sign(delta || 1) * Math.min(Math.abs(delta), 720);
-    setOuterRot((r) => r + clamped);
-    prevOuter.current = targetOuter;
-  }, [targetOuter, date]);
+    const delta = absOuter - prevAbsOuter.current;
+    if (Math.abs(delta) < 0.001) return;
+    setOuterRot((r) => r + capDelta(delta, 720)); // cap: 2 revolutions = 24 years
+    prevAbsOuter.current = absOuter;
+  }, [absOuter]);
 
   useEffect(() => {
-    const cwDist = ((targetInner - prevInner.current) % 360 + 360) % 360;
-    if (cwDist < 0.001 && prevDate.current !== null) return;
+    const delta = absInner - prevAbsInner.current;
+    if (Math.abs(delta) < 0.001) return;
+    setInnerRot((r) => r + capDelta(delta, 1080)); // cap: 3 revolutions = 30 years
+    prevAbsInner.current = absInner;
+  }, [absInner]);
 
-    const isLater =
-      prevDate.current === null ||
-      date.getTime() >= prevDate.current.getTime();
-    const delta = isLater ? cwDist : cwDist - 360;
-    const clamped = Math.sign(delta || 1) * Math.min(Math.abs(delta), 1080);
-    setInnerRot((r) => r + clamped);
-    prevInner.current = targetInner;
-  }, [targetInner, date]);
-
-  // Update prevDate after both ring effects have read it
-  useEffect(() => {
-    prevDate.current = date;
-  }, [date]);
-
-  // Fade out immediately, then swap indices and fade back in once spin settles
+  // Fade out, wait for spin to settle, then fade back in on the new segment
   useEffect(() => {
     setHighlightVisible(false);
-    const timer = setTimeout(() => {
+    const t = setTimeout(() => {
       setActiveBeanIdx(beanIdx);
       setActiveFlavourIdx(flavourIdx);
       setHighlightVisible(true);
     }, 1900);
-    return () => clearTimeout(timer);
+    return () => clearTimeout(t);
   }, [beanIdx, flavourIdx]);
-
-  const transition = "transform 2.2s cubic-bezier(0.15, 0, 0.1, 1)";
 
   return (
     <svg
@@ -165,36 +82,33 @@ export default function ZodiacWheel({ data, date }: Props) {
         style={{
           transformOrigin: `${CX}px ${CY}px`,
           transform: `rotate(${outerRot}deg)`,
-          transition,
+          transition: TRANSITION,
         }}
       >
         {BEAN_ORDER.map((beanId, i) => {
-          const seg = 30; // 360 / 12
-          const mid = 90 - i * seg; // segment i centered at this local angle
-          const a1 = mid - seg / 2 + GAP;
-          const a2 = mid + seg / 2 - GAP;
-          const { x, y } = toXY(CX, CY, (OUTER_R1 + OUTER_R2) / 2, mid);
-          const active = i === activeBeanIdx;
+          const mid = 90 - i * BEAN_SEG;
+          const path = annularSector(
+            OUTER_R1,
+            OUTER_R2,
+            mid - BEAN_SEG / 2 + GAP,
+            mid + BEAN_SEG / 2 - GAP,
+          );
+          const { x, y } = toXY((OUTER_R1 + OUTER_R2) / 2, mid);
+          const active = i === activeBeanIdx && highlightVisible;
+          const color = `var(--bean-${beanId})`;
           return (
             <g key={beanId}>
               <defs>
-                <clipPath id={`clip-bean-${beanId}`}>
-                  <path d={annularSector(CX, CY, OUTER_R1, OUTER_R2, a1, a2)} />
+                <clipPath id={`clip-${beanId}`}>
+                  <path d={path} />
                 </clipPath>
               </defs>
               <path
-                d={annularSector(CX, CY, OUTER_R1, OUTER_R2, a1, a2)}
-                fill={
-                  active && highlightVisible
-                    ? `var(--bean-${beanId})`
-                    : "transparent"
-                }
-                style={{
-                  stroke: `var(--bean-${beanId})`,
-                  transition: "fill 0.5s ease",
-                }}
-                strokeWidth="3"
-                clipPath={`url(#clip-bean-${beanId})`}
+                d={path}
+                strokeWidth={3}
+                clipPath={`url(#clip-${beanId})`}
+                fill={active ? color : "transparent"}
+                style={{ stroke: color, transition: "fill 0.5s ease" }}
               />
               <text
                 x={x}
@@ -203,14 +117,11 @@ export default function ZodiacWheel({ data, date }: Props) {
                 dominantBaseline="middle"
                 fontSize="5.5"
                 fontWeight="700"
-                transform={`rotate(${textLocalRot(mid, outerRot)}, ${x}, ${y})`}
+                transform={`rotate(${mid - 90}, ${x}, ${y})`}
                 style={{
                   userSelect: "none",
                   pointerEvents: "none",
-                  fill:
-                    active && highlightVisible
-                      ? "black"
-                      : `var(--bean-${beanId})`,
+                  fill: active ? "black" : color,
                   transition: "fill 0.5s ease",
                 }}
               >
@@ -226,36 +137,33 @@ export default function ZodiacWheel({ data, date }: Props) {
         style={{
           transformOrigin: `${CX}px ${CY}px`,
           transform: `rotate(${innerRot}deg)`,
-          transition,
+          transition: TRANSITION,
         }}
       >
         {FLAVOUR_ORDER.map((flavourId, i) => {
-          const seg = 72; // 360 / 5
-          const mid = 90 - i * seg;
-          const a1 = mid - seg / 2 + GAP;
-          const a2 = mid + seg / 2 - GAP;
-          const { x, y } = toXY(CX, CY, (INNER_R1 + INNER_R2) / 2, mid);
-          const active = i === activeFlavourIdx;
+          const mid = 90 - i * FLAVOUR_SEG;
+          const path = annularSector(
+            INNER_R1,
+            INNER_R2,
+            mid - FLAVOUR_SEG / 2 + GAP,
+            mid + FLAVOUR_SEG / 2 - GAP,
+          );
+          const { x, y } = toXY((INNER_R1 + INNER_R2) / 2, mid);
+          const active = i === activeFlavourIdx && highlightVisible;
+          const color = `var(--flavour-${flavourId})`;
           return (
             <g key={flavourId}>
               <defs>
-                <clipPath id={`clip-flavour-${flavourId}`}>
-                  <path d={annularSector(CX, CY, INNER_R1, INNER_R2, a1, a2)} />
+                <clipPath id={`clip-${flavourId}`}>
+                  <path d={path} />
                 </clipPath>
               </defs>
               <path
-                d={annularSector(CX, CY, INNER_R1, INNER_R2, a1, a2)}
-                fill={
-                  active && highlightVisible
-                    ? `var(--flavour-${flavourId})`
-                    : "transparent"
-                }
-                style={{
-                  stroke: `var(--flavour-${flavourId})`,
-                  transition: "fill 0.5s ease",
-                }}
-                strokeWidth="4"
-                clipPath={`url(#clip-flavour-${flavourId})`}
+                d={path}
+                strokeWidth={4}
+                clipPath={`url(#clip-${flavourId})`}
+                fill={active ? color : "transparent"}
+                style={{ stroke: color, transition: "fill 0.5s ease" }}
               />
               <text
                 x={x}
@@ -264,14 +172,11 @@ export default function ZodiacWheel({ data, date }: Props) {
                 dominantBaseline="middle"
                 fontSize="6.5"
                 fontWeight="700"
-                transform={`rotate(${textLocalRot(mid, innerRot)}, ${x}, ${y})`}
+                transform={`rotate(${mid - 90}, ${x}, ${y})`}
                 style={{
                   userSelect: "none",
                   pointerEvents: "none",
-                  fill:
-                    active && highlightVisible
-                      ? "black"
-                      : `var(--flavour-${flavourId})`,
+                  fill: active ? "black" : color,
                   transition: "fill 0.5s ease",
                 }}
               >
@@ -284,15 +189,21 @@ export default function ZodiacWheel({ data, date }: Props) {
 
       {/* Centre graphic */}
       <g style={{ userSelect: "none", pointerEvents: "none" }}>
-        <circle cx={CX} cy={CY} r={24} fill="none" stroke="rgba(255,255,255,0.15)" strokeWidth="0.8" />
+        <circle
+          cx={CX}
+          cy={CY}
+          r={24}
+          fill="none"
+          stroke="rgba(255,255,255,0.15)"
+          strokeWidth="0.8"
+        />
         {Array.from({ length: 12 }, (_, i) => {
-          const angle = ((i * 30 - 90) * Math.PI) / 180;
-          const r = 20;
+          const { x, y } = toXY(20, i * BEAN_SEG - 90);
           return (
             <circle
               key={i}
-              cx={CX + r * Math.cos(angle)}
-              cy={CY + r * Math.sin(angle)}
+              cx={x}
+              cy={y}
               r={i % 3 === 0 ? 1.4 : 0.8}
               fill="rgba(255,255,255,0.45)"
             />
@@ -305,21 +216,73 @@ export default function ZodiacWheel({ data, date }: Props) {
 
       {/* Arrow indicator — fixed at bottom, points up into the rings */}
       <g
+        fill="white"
+        opacity={0.9}
         style={{
           userSelect: "none",
           pointerEvents: "none",
           filter: "drop-shadow(0 0 3px rgba(255,255,255,0.65))",
         }}
-        fill="white"
-        opacity={0.9}
       >
-        {/* Arrowhead */}
         <polygon
           points={`${CX},${CY + OUTER_R2 + 2} ${CX - 5},${CY + OUTER_R2 + 9} ${CX + 5},${CY + OUTER_R2 + 9}`}
         />
-        {/* Shaft */}
         <rect x={CX - 1} y={CY + OUTER_R2 + 9} width={2} height={4} />
       </g>
     </svg>
   );
+}
+
+function toXY(r: number, deg: number) {
+  const rad = (deg * Math.PI) / 180;
+  return { x: CX + r * Math.cos(rad), y: CY + r * Math.sin(rad) };
+}
+
+function annularSector(r1: number, r2: number, a1: number, a2: number): string {
+  const p1 = toXY(r2, a1),
+    p2 = toXY(r2, a2);
+  const p3 = toXY(r1, a2),
+    p4 = toXY(r1, a1);
+  const large = a2 - a1 > 180 ? 1 : 0;
+  const f = (n: number) => n.toFixed(3);
+  return (
+    `M${f(p1.x)},${f(p1.y)} A${r2},${r2},0,${large},1,${f(p2.x)},${f(p2.y)} ` +
+    `L${f(p3.x)},${f(p3.y)} A${r1},${r1},0,${large},0,${f(p4.x)},${f(p4.y)} Z`
+  );
+}
+
+function capDelta(delta: number, maxDeg: number): number {
+  const abs = Math.abs(delta);
+  const remainder = abs % 360;
+  const revs = Math.min(
+    Math.floor(abs / 360),
+    Math.floor((maxDeg - remainder) / 360),
+  );
+  return Math.sign(delta) * (revs * 360 + remainder);
+}
+
+function computeTargets(date: Date) {
+  const REF = BEAN_ZODIAC_REFERENCE_YEAR;
+  const beanYear = getBeanYear(date);
+  const m = BEAN_ZODIAC_REFERENCE_MONTH - 1; // Date constructor uses 0-indexed months
+  const d = BEAN_ZODIAC_REFERENCE_DAY;
+  const yearStart = new Date(beanYear, m, d).getTime();
+  const yearEnd = new Date(beanYear + 1, m, d).getTime();
+  const beanFrac = (date.getTime() - yearStart) / (yearEnd - yearStart);
+
+  const absOuter = (beanYear - REF + beanFrac) * BEAN_SEG;
+  const absInner =
+    (beanYear - REF + beanFrac) * (FLAVOUR_SEG / YEARS_PER_FLAVOUR);
+
+  const modOuter = ((absOuter % 360) + 360) % 360;
+  const modInner = ((absInner % 360) + 360) % 360;
+
+  return {
+    absOuter,
+    absInner,
+    targetOuter: modOuter - BEAN_SEG / 2, // half-segment offset aligns boundary with arrow
+    targetInner: modInner - FLAVOUR_SEG / 2,
+    beanIdx: Math.floor(modOuter / BEAN_SEG),
+    flavourIdx: Math.floor(modInner / FLAVOUR_SEG),
+  };
 }
