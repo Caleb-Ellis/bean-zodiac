@@ -16,9 +16,9 @@ type Props = {
 const CX = 100;
 const CY = 100;
 const OUTER_R2 = 93; // outer edge of bean ring
-const OUTER_R1 = 67; // inner edge of bean ring
-const INNER_R2 = 61; // outer edge of flavour ring
-const INNER_R1 = 39; // inner edge of flavour ring
+const OUTER_R1 = 65; // inner edge of bean ring
+const INNER_R2 = 63; // outer edge of flavour ring
+const INNER_R1 = 35; // inner edge of flavour ring
 const GAP = 0.8; // angular half-gap between segments (degrees)
 
 function toXY(cx: number, cy: number, r: number, deg: number) {
@@ -45,13 +45,6 @@ function annularSector(
     `L${p3.x.toFixed(3)},${p3.y.toFixed(3)} ` +
     `A${r1},${r1},0,${large},0,${p4.x.toFixed(3)},${p4.y.toFixed(3)} Z`
   );
-}
-
-// Shortest angular delta from `from` to `to` in degrees
-function shortestDelta(from: number, to: number): number {
-  let diff = (((to - from) % 360) + 360) % 360;
-  if (diff > 180) diff -= 360;
-  return diff;
 }
 
 // Local text rotation so labels always read correctly from outside the wheel.
@@ -115,26 +108,30 @@ export default function ZodiacWheel({ data, date }: Props) {
   const [highlightVisible, setHighlightVisible] = useState(false);
 
   useEffect(() => {
-    const isFirstOrLargeJump =
+    // Clockwise distance (0–360°) from previous to new target
+    const cwDist = ((targetOuter - prevOuter.current) % 360 + 360) % 360;
+    if (cwDist < 0.001 && prevDate.current !== null) return;
+
+    const isLater =
       prevDate.current === null ||
-      Math.abs(date.getTime() - prevDate.current.getTime()) >
-        365 * 24 * 60 * 60 * 1000;
-    const delta = shortestDelta(prevOuter.current, targetOuter);
-    if (Math.abs(delta) > 0.001) {
-      setOuterRot((r) => r + delta + (isFirstOrLargeJump ? 360 : 0));
-    }
+      date.getTime() >= prevDate.current.getTime();
+    // Clockwise for later dates, anticlockwise for earlier
+    const delta = isLater ? cwDist : cwDist - 360;
+    const clamped = Math.sign(delta || 1) * Math.min(Math.abs(delta), 720);
+    setOuterRot((r) => r + clamped);
     prevOuter.current = targetOuter;
   }, [targetOuter, date]);
 
   useEffect(() => {
-    const isFirstOrLargeJump =
+    const cwDist = ((targetInner - prevInner.current) % 360 + 360) % 360;
+    if (cwDist < 0.001 && prevDate.current !== null) return;
+
+    const isLater =
       prevDate.current === null ||
-      Math.abs(date.getTime() - prevDate.current.getTime()) >
-        365 * 24 * 60 * 60 * 1000;
-    const delta = shortestDelta(prevInner.current, targetInner);
-    if (Math.abs(delta) > 0.001) {
-      setInnerRot((r) => r + delta + (isFirstOrLargeJump ? 720 : 0));
-    }
+      date.getTime() >= prevDate.current.getTime();
+    const delta = isLater ? cwDist : cwDist - 360;
+    const clamped = Math.sign(delta || 1) * Math.min(Math.abs(delta), 1080);
+    setInnerRot((r) => r + clamped);
     prevInner.current = targetInner;
   }, [targetInner, date]);
 
@@ -285,36 +282,44 @@ export default function ZodiacWheel({ data, date }: Props) {
         })}
       </g>
 
-      {/* Centre inscription */}
-      <text
-        textAnchor="middle"
-        fontSize="10"
-        letterSpacing="2"
+      {/* Centre graphic */}
+      <g style={{ userSelect: "none", pointerEvents: "none" }}>
+        <circle cx={CX} cy={CY} r={24} fill="none" stroke="rgba(255,255,255,0.15)" strokeWidth="0.8" />
+        {Array.from({ length: 12 }, (_, i) => {
+          const angle = ((i * 30 - 90) * Math.PI) / 180;
+          const r = 20;
+          return (
+            <circle
+              key={i}
+              cx={CX + r * Math.cos(angle)}
+              cy={CY + r * Math.sin(angle)}
+              r={i % 3 === 0 ? 1.4 : 0.8}
+              fill="rgba(255,255,255,0.45)"
+            />
+          );
+        })}
+        <text x={CX} y={CY + 8} textAnchor="middle" fontSize="20">
+          🫘
+        </text>
+      </g>
+
+      {/* Arrow indicator — fixed at bottom, points up into the rings */}
+      <g
         style={{
           userSelect: "none",
           pointerEvents: "none",
-          fill: "rgba(255,255,255,0.9)",
-          fontFamily: "'Cinzel', serif",
-          fontWeight: 900,
+          filter: "drop-shadow(0 0 3px rgba(255,255,255,0.65))",
         }}
-      >
-        <tspan x={CX} y={CY - 12}>
-          IT'S A
-        </tspan>
-        <tspan x={CX} dy="13">
-          LOTTA
-        </tspan>
-        <tspan x={CX} dy="13">
-          BEANS
-        </tspan>
-      </text>
-
-      {/* Arrow indicator — fixed at bottom, points up into the rings */}
-      <polygon
-        points={`${CX},${CY + OUTER_R2 + 3} ${CX - 6},${CY + OUTER_R2 + 14} ${CX + 6},${CY + OUTER_R2 + 14}`}
         fill="white"
-        opacity={0.85}
-      />
+        opacity={0.9}
+      >
+        {/* Arrowhead */}
+        <polygon
+          points={`${CX},${CY + OUTER_R2 + 2} ${CX - 5},${CY + OUTER_R2 + 9} ${CX + 5},${CY + OUTER_R2 + 9}`}
+        />
+        {/* Shaft */}
+        <rect x={CX - 1} y={CY + OUTER_R2 + 9} width={2} height={4} />
+      </g>
     </svg>
   );
 }
