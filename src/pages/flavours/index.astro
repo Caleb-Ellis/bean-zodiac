@@ -3,6 +3,8 @@ import { getCollection } from "astro:content";
 import Layout from "../../layouts/Layout.astro";
 import "../../styles/global.css";
 
+import { FLAVOUR_EMOJI, type FlavourId } from "../../lib/zodiac";
+
 const flavours = await getCollection("flavours");
 ---
 
@@ -22,7 +24,9 @@ const flavours = await getCollection("flavours");
       flavours.map((flavour) => (
         <li class="rounded-xl border border-zinc-800 bg-zinc-900 overflow-hidden hover:border-zinc-600 transition-colors">
           <a href={`/flavours/${flavour.id}`} class="flex no-underline">
-            <div class={`w-4 shrink-0 bg-flavour-${flavour.id}`} />
+            <div class={`w-14 shrink-0 bg-flavour-${flavour.id} flex items-center justify-center`}>
+              <span style="filter: brightness(0); font-size: 1.5rem; line-height: 1;">{FLAVOUR_EMOJI[flavour.id as FlavourId]}</span>
+            </div>
             <div class="p-4">
               <h2 class={`text-lg font-semibold flavour-${flavour.id}`}>
                 {flavour.data.name}

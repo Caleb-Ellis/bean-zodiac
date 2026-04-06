@@ -7,6 +7,8 @@ type Props = {
   data: ZodiacData;
 };
 
+const SPIN_DURATION_MS = 2000;
+
 export default function ZodiacCalendar({ data }: Props) {
   const [inputDate, setInputDate] = useState<string>(() => {
     const param = getDateParam();
@@ -16,21 +18,25 @@ export default function ZodiacCalendar({ data }: Props) {
     const param = getDateParam();
     return param ? parseDateInputValue(param) : null;
   });
+  // Start visible if date is already set from URL params, hidden otherwise
+  const [resultVisible, setResultVisible] = useState<boolean>(() => !!getDateParam());
 
   function handleReveal() {
     if (!inputDate) return;
     const parsed = parseDateInputValue(inputDate);
     if (parsed) {
+      setResultVisible(false);
       setSelectedDate(parsed);
       const url = new URL(window.location.href);
       url.searchParams.set("date", inputDate);
       window.history.pushState({}, "", url);
+      setTimeout(() => setResultVisible(true), SPIN_DURATION_MS);
     }
   }
 
   return (
     <div className="flex flex-col items-center text-center gap-8 w-full">
-      <ZodiacWheel data={data} date={selectedDate ?? new Date()} />
+      <ZodiacWheel date={selectedDate ?? new Date()} highlight={selectedDate !== null} />
       <section className="flex flex-col items-center gap-3">
         <input
           type="date"
@@ -45,7 +51,7 @@ export default function ZodiacCalendar({ data }: Props) {
           Uncover the Bean within
         </button>
       </section>
-      {selectedDate && (
+      {selectedDate && resultVisible && (
         <div>
           <ZodiacResult
             key={selectedDate.getTime()}

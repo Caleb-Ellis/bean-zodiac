@@ -32,7 +32,7 @@ export const BEAN_ORDER = [
   BeanIds.Edamame,
   BeanIds.Black,
   BeanIds.Fava,
-  BeanIds.Kidney,
+  BeanIds.Green,
   BeanIds.Pinto,
   BeanIds.Mung,
   BeanIds.Cannellini,
@@ -40,7 +40,7 @@ export const BEAN_ORDER = [
   BeanIds.Adzuki,
   BeanIds.Butter,
   BeanIds.Chickpea,
-  BeanIds.Green,
+  BeanIds.Kidney,
 ] as const;
 
 export const FlavourIds = {
@@ -57,6 +57,14 @@ export const FLAVOUR_ORDER = [
   FlavourIds.Bitter,
   FlavourIds.Spicy,
 ] as const;
+
+export const FLAVOUR_EMOJI: Record<FlavourId, string> = {
+  sweet: "🍭",
+  sour: "🍋",
+  spicy: "🌶️",
+  bitter: "☕",
+  umami: "🍄",
+};
 
 export type BeanId = (typeof BeanIds)[keyof typeof BeanIds];
 export type Bean = BeanSchema & { content: string };

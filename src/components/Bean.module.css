@@ -12,6 +12,15 @@
     max-width: 10rem;
   }
 
+  .solidBean {
+    width: 100%;
+    max-width: 10rem;
+    aspect-ratio: 1;
+    mask-size: contain;
+    mask-repeat: no-repeat;
+    mask-position: center;
+  }
+
   &::before {
     content: "";
     position: absolute;

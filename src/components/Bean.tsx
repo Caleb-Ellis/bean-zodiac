@@ -8,15 +8,20 @@ type Props = {
 };
 
 export default function Bean({ bean, flavourId }: Props) {
+  const imageUrl = `/images/${bean.imageFile}`;
   return (
     <div
       className={`${styles.bean}${flavourId ? ` flavour-${flavourId}` : ""}`}
     >
-      <img
-        src={`/images/${bean.imageFile}`}
-        alt={`${flavourId ? `${flavourId} ` : ""}${bean.name}`}
-        className={flavourId ? `flavour-filter-${flavourId}` : undefined}
-      />
+      {flavourId ? (
+        <img
+          src={imageUrl}
+          alt={`${flavourId} ${bean.name}`}
+          className={`flavour-filter-${flavourId}`}
+        />
+      ) : (
+        <img src={imageUrl} alt={bean.name} />
+      )}
     </div>
   );
 }

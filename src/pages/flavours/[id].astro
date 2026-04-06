@@ -11,6 +11,8 @@ export async function getStaticPaths() {
   }));
 }
 
+import { FLAVOUR_EMOJI } from "../../lib/zodiac";
+
 const { flavour } = Astro.props;
 const { Content: FlavourContent } = await render(flavour);
 ---
@@ -34,8 +36,9 @@ const { Content: FlavourContent } = await render(flavour);
         >
           ← All Flavours
         </a>
-        <h1 class={`text-3xl font-bold flavour-${flavour.id}`}>
+        <h1 class={`text-3xl font-bold flavour-${flavour.id} flex items-center gap-3`}>
           {flavour.data.name}
+          <span style="font-size: 0.9em;">{FLAVOUR_EMOJI[flavour.id as keyof typeof FLAVOUR_EMOJI]}</span>
         </h1>
         <ul class="flex flex-wrap gap-1.5 list-none p-0 m-0">
           {
