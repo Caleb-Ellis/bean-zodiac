@@ -153,19 +153,19 @@ export const buildZodiacData = (
     beans: Object.fromEntries(
       beans.map((entry) => [
         entry.id,
-        { ...entry.data, content: entry.rendered?.html ?? "No content" },
+        { ...entry.data, content: entry.body ?? "" },
       ]),
     ) as Record<BeanId, Bean>,
     flavours: Object.fromEntries(
       flavours.map((entry) => [
         entry.id,
-        { ...entry.data, content: entry.rendered?.html ?? "No content" },
+        { ...entry.data, content: entry.body ?? "" },
       ]),
     ) as Record<FlavourId, Flavour>,
     zodiacs: Object.fromEntries(
       zodiacs.map((entry) => [
         entry.id,
-        { ...entry.data, content: entry.rendered?.html ?? "No content" },
+        { ...entry.data, content: entry.body ?? "" },
       ]),
     ) as Record<ZodiacId, Zodiac>,
   };

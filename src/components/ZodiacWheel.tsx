@@ -33,14 +33,16 @@ type Props = {
 };
 
 export default function ZodiacWheel({ data, date }: Props) {
-  const { absOuter, absInner, targetOuter, targetInner, beanIdx, flavourIdx } =
+  const { absOuter, absInner, absCentre, targetOuter, targetInner, targetCentre, beanIdx, flavourIdx } =
     computeTargets(date);
 
   const prevAbsOuter = useRef(absOuter);
   const prevAbsInner = useRef(absInner);
+  const prevAbsCentre = useRef(absCentre);
 
   const [outerRot, setOuterRot] = useState(targetOuter);
   const [innerRot, setInnerRot] = useState(targetInner);
+  const [centreRot, setCentreRot] = useState(targetCentre);
   const [activeBeanIdx, setActiveBeanIdx] = useState(beanIdx);
   const [activeFlavourIdx, setActiveFlavourIdx] = useState(flavourIdx);
   const [highlightVisible, setHighlightVisible] = useState(false);
@@ -58,6 +60,13 @@ export default function ZodiacWheel({ data, date }: Props) {
     setInnerRot((r) => r + capDelta(delta, 1080)); // cap: 3 revolutions = 30 years
     prevAbsInner.current = absInner;
   }, [absInner]);
+
+  useEffect(() => {
+    const delta = absCentre - prevAbsCentre.current;
+    if (Math.abs(delta) < 0.001) return;
+    setCentreRot((r: number) => r + capDelta(delta, 360)); // cap: 1 revolution
+    prevAbsCentre.current = absCentre;
+  }, [absCentre]);
 
   // Fade out, wait for spin to settle, then fade back in on the new segment
   useEffect(() => {
@@ -189,26 +198,43 @@ export default function ZodiacWheel({ data, date }: Props) {
 
       {/* Centre graphic */}
       <g style={{ userSelect: "none", pointerEvents: "none" }}>
-        <circle
-          cx={CX}
-          cy={CY}
-          r={24}
-          fill="none"
-          stroke="rgba(255,255,255,0.15)"
-          strokeWidth="0.8"
-        />
-        {Array.from({ length: 12 }, (_, i) => {
-          const { x, y } = toXY(20, i * BEAN_SEG - 90);
-          return (
-            <circle
-              key={i}
-              cx={x}
-              cy={y}
-              r={i % 3 === 0 ? 1.4 : 0.8}
-              fill="rgba(255,255,255,0.45)"
-            />
-          );
-        })}
+        <g
+          style={{
+            transformOrigin: `${CX}px ${CY}px`,
+            transform: `rotate(${centreRot}deg)`,
+            transition: TRANSITION,
+          }}
+        >
+          <circle
+            cx={CX}
+            cy={CY}
+            r={24}
+            fill="none"
+            stroke="rgba(255,255,255,0.15)"
+            strokeWidth="0.8"
+          />
+          {Array.from({ length: 12 }, (_, i) => {
+            const { x, y } = toXY(20, i * BEAN_SEG - 90);
+            if (i % 3 === 0) {
+              return (
+                <path
+                  key={i}
+                  d={starPath(x, y, 2.2, 0.8, 4)}
+                  fill="rgba(255,255,255,0.65)"
+                />
+              );
+            }
+            return (
+              <circle
+                key={i}
+                cx={x}
+                cy={y}
+                r={0.8}
+                fill="rgba(255,255,255,0.45)"
+              />
+            );
+          })}
+        </g>
         <text x={CX} y={CY + 8} textAnchor="middle" fontSize="20">
           🫘
         </text>
@@ -231,6 +257,19 @@ export default function ZodiacWheel({ data, date }: Props) {
       </g>
     </svg>
   );
+}
+
+function starPath(cx: number, cy: number, outer: number, inner: number, points: number): string {
+  const step = Math.PI / points;
+  let d = "";
+  for (let i = 0; i < points * 2; i++) {
+    const r = i % 2 === 0 ? outer : inner;
+    const angle = i * step - Math.PI / 2;
+    const x = cx + r * Math.cos(angle);
+    const y = cy + r * Math.sin(angle);
+    d += (i === 0 ? "M" : "L") + x.toFixed(3) + "," + y.toFixed(3);
+  }
+  return d + "Z";
 }
 
 function toXY(r: number, deg: number) {
@@ -273,15 +312,19 @@ function computeTargets(date: Date) {
   const absOuter = (beanYear - REF + beanFrac) * BEAN_SEG;
   const absInner =
     (beanYear - REF + beanFrac) * (FLAVOUR_SEG / YEARS_PER_FLAVOUR);
+  const absCentre = -(beanYear - REF + beanFrac) * 360; // opposite direction, 1 rev per year
 
   const modOuter = ((absOuter % 360) + 360) % 360;
   const modInner = ((absInner % 360) + 360) % 360;
+  const modCentre = ((absCentre % 360) + 360) % 360;
 
   return {
     absOuter,
     absInner,
+    absCentre,
     targetOuter: modOuter - BEAN_SEG / 2, // half-segment offset aligns boundary with arrow
     targetInner: modInner - FLAVOUR_SEG / 2,
+    targetCentre: modCentre,
     beanIdx: Math.floor(modOuter / BEAN_SEG),
     flavourIdx: Math.floor(modInner / FLAVOUR_SEG),
   };

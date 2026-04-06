@@ -1,3 +1,4 @@
+import Markdown from "react-markdown";
 import {
   formatZodiacDate,
   getZodiacMetadataForDate,
@@ -53,10 +54,9 @@ export default function ZodiacResult({
         )}
       </section>
       {showContent && (
-        <section
-          className="max-w-xl markdown-content"
-          dangerouslySetInnerHTML={{ __html: zodiac.content }}
-        ></section>
+        <section className="max-w-xl markdown-content">
+          <Markdown>{zodiac.content}</Markdown>
+        </section>
       )}
       <div className="flex gap-6 mt-2">
         <a className="link" href={`/beans/${bean.slug}`}>
