@@ -35,8 +35,7 @@ Astro glob-loaded collections:
 - **`beans/`** — 12 markdown files, one per bean (name, tagline, traits[], color CSS hex, optional modelFile)
 - **`flavours/`** — 5 markdown files, one per flavour (name, character, traits[], color CSS hex)
 - **`methods/`** — 4 markdown files: boiled, fermented, fried, roasted (name, tagline, traits[])
-- **`zodiacs/`** — 60 markdown files, one per bean×flavour pair (legacy; bean slug, flavour slug, tagline)
-- **`zodiacs-full/`** — 240 markdown files, one per bean×flavour×method combination. Filename: `{method}-{flavour}-{bean}.md`. Frontmatter: slug, bean, flavour, method, trait, dailyFortune, seasonalFortune. Body opens: "Beans born in the Season of the [Method] [Flavour] [Bean] are the Bean Zodiac's most [trait]." Reference file for style: `boiled-bitter-adzuki.md`.
+- **`zodiacs/`** — 240 markdown files, one per bean×flavour×method combination. Filename: `{method}-{flavour}-{bean}.md`. Frontmatter: slug, bean, flavour, method, trait, dish, quote, fortune. Body opens: "Beans born in the Season of the [Method] [Flavour] [Bean] are the Bean Zodiac's most [trait]." Reference file for style: `boiled-bitter-adzuki.md`.
 
 ### Pages and Routing
 
