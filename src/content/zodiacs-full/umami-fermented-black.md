@@ -4,9 +4,9 @@ bean: black
 flavour: umami
 method: fermented
 trait: introspective
+dish: Black bean in deep fermented miso. Looking inward.
 quote: Who looks outside, dreams; who looks inside, awakens the bean.
-dailyFortune: The answer is closer than the silence suggests.
-seasonalFortune: The depth has been real and the season has given it room — bring something up from it now, so it remains a source rather than a residence.
+fortune: The depth has been real and the season has given it room — bring something up from it now, so it remains a source rather than a residence.
 ---
 
 Beans born in the Season of the Umami Fermented Black Bean are the Bean Zodiac's most introspective — not as habit or preference, but as the primary mode in which they exist: turned inward, working, finding things that the surface could not have shown.

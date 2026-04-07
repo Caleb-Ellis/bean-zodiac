@@ -4,9 +4,9 @@ bean: cannellini
 flavour: bitter
 method: roasted
 trait: refined
+dish: Roasted cannellini with bitter lemon and rosemary. Proper.
 quote: A bean by any other name would taste as fine.
-dailyFortune: Bring care to the small detail today.
-seasonalFortune: The refinement you carry this season is a gift, not a standard — turn it toward the surroundings rather than at them.
+fortune: The refinement you carry this season is a gift, not a standard — turn it toward the surroundings rather than at them.
 ---
 
 Beans born in the Season of the Bitter Roasted Cannellini Bean are the Bean Zodiac's most refined — not as an affect or an aspiration, but as a settled quality that touches everything they do and extends without effort to everything around them.

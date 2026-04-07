@@ -4,9 +4,9 @@ bean: fava
 flavour: sour
 method: roasted
 trait: authentic
+dish: Roasted fava with lemon and fresh herbs. The real thing.
 quote: To be yourself in a world that is constantly trying to make you something else is the greatest bean.
-dailyFortune: Resist the urge to soften your edges.
-seasonalFortune: The authenticity offered this season has been received by the right people — trust that those who did not receive it were not the intended recipients.
+fortune: The authenticity offered this season has been received by the right people — trust that those who did not receive it were not the intended recipients.
 ---
 
 Beans born in the Season of the Sour Roasted Fava Bean are the Bean Zodiac's most authentic — they offer the actual thing, unfiltered by what people might prefer to find, and they do this with a warmth that makes honesty feel like a gift.

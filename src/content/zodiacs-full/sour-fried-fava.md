@@ -4,9 +4,9 @@ bean: fava
 flavour: sour
 method: fried
 trait: reckless
+dish: Fava fried fast in sour pomegranate molasses. No plan. Works anyway.
 quote: Who beans nothing, loses nothing — but wins nothing either.
-dailyFortune: Let your impulse lead for once.
-seasonalFortune: The thing committed to this season has not yet resolved — this is the season to stay with it and find out what happens when the reckless move is followed all the way through.
+fortune: The thing committed to this season has not yet resolved — this is the season to stay with it and find out what happens when the reckless move is followed all the way through.
 ---
 
 Beans born in the Season of the Sour Fried Fava Bean are the Bean Zodiac's most reckless — they go before the conditions are clear, commit before anyone has suggested they might want to reconsider, and find out whether it was the right call on the way down.

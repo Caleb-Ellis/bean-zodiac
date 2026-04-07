@@ -4,9 +4,9 @@ bean: kidney
 flavour: bitter
 method: fried
 trait: confrontational
+dish: Kidney beans fried with charred bitter greens. Ready for this.
 quote: The bean who speaks the difficult truth is a friend; the one who flatters is an enemy.
-dailyFortune: If something needs to be said, say it plainly and without cruelty.
-seasonalFortune: The confrontation this season that has not resolved itself is asking to be approached differently — try the side door before the next direct move.
+fortune: The confrontation this season that has not resolved itself is asking to be approached differently — try the side door before the next direct move.
 ---
 
 Beans born in the Season of the Bitter Fried Kidney Bean are the Bean Zodiac's most confrontational — they do not go around the difficult thing; they go directly toward it.

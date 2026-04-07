@@ -4,9 +4,9 @@ bean: chickpea
 flavour: umami
 method: roasted
 trait: tolerant
+dish: Roasted chickpea with miso and willingness to hear all of it. Go on.
 quote: In the bean practice of tolerance, one's enemy is the best teacher.
-dailyFortune: The friction you are feeling with someone is not a dead end.
-seasonalFortune: Tolerance this season has been a genuine welcome, not a concession — know where the line is, and hold it warmly when it arrives.
+fortune: Tolerance this season has been a genuine welcome, not a concession — know where the line is, and hold it warmly when it arrives.
 ---
 
 Beans born in the Season of the Umami Roasted Chickpea are the Bean Zodiac's most tolerant — they hold space for what is unlike them with a warmth that goes beyond politeness, because they have encountered enough difference to know that difference is usually worth staying for.

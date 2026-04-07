@@ -4,9 +4,9 @@ bean: cannellini
 flavour: umami
 method: fermented
 trait: idealistic
+dish: Cannellini in fermented umami broth. The world as it should be.
 quote: Some beans see things as they are and ask why; I dream of beans that never were and ask why not.
-dailyFortune: Do not let the practical objection cancel the important idea.
-seasonalFortune: The ideal has not been revised this season, and it should not be — give the actual world one honest opportunity to be closer than it appeared.
+fortune: The ideal has not been revised this season, and it should not be — give the actual world one honest opportunity to be closer than it appeared.
 ---
 
 Beans born in the Season of the Umami Fermented Cannellini Bean are the Bean Zodiac's most idealistic — they carry a clear and detailed picture of what things could be, and they have not yet been fully convinced that this picture should be revised.

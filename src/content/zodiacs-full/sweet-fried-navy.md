@@ -4,9 +4,9 @@ bean: navy
 flavour: sweet
 method: fried
 trait: romantic
+dish: Sweet fried navy beans with cinnamon sugar. Means it.
 quote: My bean leaps up when I behold a rainbow in the sky.
-dailyFortune: Do the romantic thing you have been overthinking.
-seasonalFortune: Love the Bean in front of you this season, not only the perfect version — loyalty given to a real thing is more durable than loyalty given to an ideal.
+fortune: Love the Bean in front of you this season, not only the perfect version — loyalty given to a real thing is more durable than loyalty given to an ideal.
 ---
 
 Beans born in the Season of the Sweet Fried Navy Bean are the Bean Zodiac's most romantic — they commit to people with the same absolute loyalty they bring to everything else, and they mean it completely.

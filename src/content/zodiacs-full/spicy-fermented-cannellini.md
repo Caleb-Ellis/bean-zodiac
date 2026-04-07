@@ -4,9 +4,9 @@ bean: cannellini
 flavour: spicy
 method: fermented
 trait: persnickety
+dish: Cannellini with fermented pepper sauce, very specific measurements. Specific.
 quote: The devil is in the beans.
-dailyFortune: The small thing that is bothering you is worth addressing.
-seasonalFortune: Not every detail this season was load-bearing — identify the ones that were, and release the ones that simply caught the light.
+fortune: Not every detail this season was load-bearing — identify the ones that were, and release the ones that simply caught the light.
 ---
 
 Beans born in the Season of the Spicy Fermented Cannellini Bean are the Bean Zodiac's most persnickety — the small thing that isn't quite right bothers them, specifically, in a way they find difficult to set aside until it has been addressed.

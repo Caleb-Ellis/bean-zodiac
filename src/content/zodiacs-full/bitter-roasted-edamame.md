@@ -4,9 +4,9 @@ bean: edamame
 flavour: bitter
 method: roasted
 trait: witty
+dish: Roasted edamame with bitter zest and flaky salt. The punchline lands.
 quote: A bean is a terrible thing to waste.
-dailyFortune: Your observation is sharper than you think.
-seasonalFortune: The sharpest observation this season is not the funny one — let one thing be said plainly, without the angle.
+fortune: The sharpest observation this season is not the funny one — let one thing be said plainly, without the angle.
 ---
 
 Beans born in the Season of the Bitter Roasted Edamame are the Bean Zodiac's most witty — the sharpness of the Edamame and the discernment of the Bitter don't close off the room. Roasted opens it, and the result is intelligence that lands as delight.

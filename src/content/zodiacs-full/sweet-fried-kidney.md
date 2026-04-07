@@ -4,9 +4,9 @@ bean: kidney
 flavour: sweet
 method: fried
 trait: protective
+dish: Sweet kidney bean fritters with gentle spice. Watching over.
 quote: We must protect the beans at all cost!
-dailyFortune: Check in on someone you care about today.
-seasonalFortune: Ask this season whether the cover is giving someone confidence or removing the chance to build it — and learn to tolerate the answer either way.
+fortune: Ask this season whether the cover is giving someone confidence or removing the chance to build it — and learn to tolerate the answer either way.
 ---
 
 Beans born in the Season of the Sweet Fried Kidney Bean are the Bean Zodiac's most protective — the Kidney Bean's core instinct meets the decisive heat of the Fried Method, and what moves between them and the people they love is very little.

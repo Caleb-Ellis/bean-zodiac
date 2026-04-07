@@ -4,9 +4,9 @@ bean: cannellini
 flavour: bitter
 method: fermented
 trait: scholarly
+dish: Cannellini in fermented bitter broth with anchovy. An acquired taste. Worth acquiring.
 quote: I have not failed. I have just found ten thousand ways that will not produce a bean.
-dailyFortune: Read the thing you have been meaning to read.
-seasonalFortune: The scholarship you have accumulated this season is ready for the form that makes it useful — find the occasion, and bring the book outside.
+fortune: The scholarship you have accumulated this season is ready for the form that makes it useful — find the occasion, and bring the book outside.
 ---
 
 Beans born in the Season of the Bitter Fermented Cannellini Bean are the Bean Zodiac's most scholarly — they have a relationship with knowledge that is long, devoted, and not particularly concerned with whether anyone else finds it convenient.

@@ -4,9 +4,9 @@ bean: butter
 flavour: spicy
 method: roasted
 trait: hedonistic
+dish: Butter bean roasted with harissa and cream. Unapologetically indulgent.
 quote: Eat, bean, and be merry, for tomorrow we diet.
-dailyFortune: Enjoy the good thing fully today.
-seasonalFortune: The season has been full and warm and genuinely good — make room for one stretch of wanting nothing, so the wanting something again means what it should.
+fortune: The season has been full and warm and genuinely good — make room for one stretch of wanting nothing, so the wanting something again means what it should.
 ---
 
 Beans born in the Season of the Spicy Roasted Butter Bean are the Bean Zodiac's most hedonistic — they have decided, at some foundational level, that pleasure is not a reward to be deferred but the substance of the thing itself, and they have arranged their lives accordingly.

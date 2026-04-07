@@ -4,9 +4,9 @@ bean: adzuki
 flavour: umami
 method: roasted
 trait: warm
+dish: Roasted adzuki with miso glaze and sesame. Come in. Sit down.
 quote: There's no better feeling in the world than a warm bean on your lap.
-dailyFortune: Let someone know they are welcome.
-seasonalFortune: The warmth you have given this season has reached places you have not seen — tend yourself as well, so there is warmth left when the next one begins.
+fortune: The warmth you have given this season has reached places you have not seen — tend yourself as well, so there is warmth left when the next one begins.
 ---
 
 Beans born in the Season of the Umami Roasted Adzuki Bean are the Bean Zodiac's most warm — not as a mood or an effort, but as a quality that radiates outward the way a roasted bean fills the room: inevitably, all the way through.

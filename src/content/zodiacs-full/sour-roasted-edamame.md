@@ -4,9 +4,9 @@ bean: edamame
 flavour: sour
 method: roasted
 trait: forthright
+dish: Roasted edamame with citric acid and sea salt. Stated plainly.
 quote: All you need in this bean life is ignorance and confidence, and then success is sure.
-dailyFortune: Speak first today.
-seasonalFortune: What was volunteered this season has given others a map they didn't know they needed — this is not the season to hold back more of what you know.
+fortune: What was volunteered this season has given others a map they didn't know they needed — this is not the season to hold back more of what you know.
 ---
 
 Beans born in the Season of the Sour Roasted Edamame are the Bean Zodiac's most forthright — they volunteer the truth before they are asked for it, and they do this from warmth, not compulsion.

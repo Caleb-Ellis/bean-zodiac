@@ -4,9 +4,9 @@ bean: fava
 flavour: umami
 method: fried
 trait: aggressive
+dish: Fava fried with doubanjiang and soy. Goes straight at you.
 quote: The best bean defense is a good offense.
-dailyFortune: Take the initiative today.
-seasonalFortune: What has been pressed through this season was worth pressing — look back once to confirm the path is still open for whoever needs to follow.
+fortune: What has been pressed through this season was worth pressing — look back once to confirm the path is still open for whoever needs to follow.
 ---
 
 Beans born in the Season of the Umami Fried Fava Bean are the Bean Zodiac's most aggressive — they press forward with an intensity and directness that doesn't wait for the situation to open up. They make the opening.

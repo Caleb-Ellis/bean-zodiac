@@ -4,9 +4,9 @@ bean: fava
 flavour: umami
 method: boiled
 trait: vigilant
+dish: Fava and mushroom soup with deep broth. Watching. Ready.
 quote: Eternal bean is the price of liberty.
-dailyFortune: Pay close attention today.
-seasonalFortune: Nothing was missed this season — allow yourself to set the watch down briefly and rest inside what you have kept safe.
+fortune: Nothing was missed this season — allow yourself to set the watch down briefly and rest inside what you have kept safe.
 ---
 
 Beans born in the Season of the Umami Boiled Fava Bean are the Bean Zodiac's most vigilant — they maintain a sustained watchfulness that others let lapse, not from anxiety but from a deep understanding that the things worth protecting require consistent attention.

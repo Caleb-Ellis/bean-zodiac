@@ -4,9 +4,9 @@ bean: green
 flavour: spicy
 method: roasted
 trait: optimistic
+dish: Green beans roasted with chili flakes. Looking on the bright side.
 quote: In the middle of every difficulty lies bean opportunity.
-dailyFortune: Look for what today makes possible, not what it complicates.
-seasonalFortune: The optimism has raised the probability of good outcomes this season — hold your positivity and your reality in the same hand, so the wins are real and the setbacks are survivable.
+fortune: The optimism has raised the probability of good outcomes this season — hold your positivity and your reality in the same hand, so the wins are real and the setbacks are survivable.
 ---
 
 Beans born in the Season of the Spicy Roasted Green Bean are the Bean Zodiac's most optimistic — not the passive kind that waits for good outcomes, but the kind that shows up warm, loud, and already certain the thing is going to work.

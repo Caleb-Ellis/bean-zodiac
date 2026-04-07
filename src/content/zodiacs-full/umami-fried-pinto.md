@@ -4,9 +4,9 @@ bean: pinto
 flavour: umami
 method: fried
 trait: unreliable
+dish: Pinto stir-fried with umami sauce. Usually great. Sometimes not there.
 quote: I am not bean enough to make promises I cannot keep.
-dailyFortune: Make one commitment today and keep it.
-seasonalFortune: The season ends with its accounting — wait one beat before the next commitment, not to be less generous, but to be honest about the distance.
+fortune: The season ends with its accounting — wait one beat before the next commitment, not to be less generous, but to be honest about the distance.
 ---
 
 Beans born in the Season of the Umami Fried Pinto Bean are the Bean Zodiac's most unreliable — not dishonest, but optimistic about themselves in ways the calendar does not support.

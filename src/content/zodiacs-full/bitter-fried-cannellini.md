@@ -4,9 +4,9 @@ bean: cannellini
 flavour: bitter
 method: fried
 trait: assertive
+dish: Cannellini pan-fried crisp with radicchio. Knows its own mind.
 quote: Here I stand. I can bean no other.
-dailyFortune: Say what you mean clearly and early.
-seasonalFortune: The position you have stated clearly this season leaves one door unguarded — make it evident that disagreement is still allowed.
+fortune: The position you have stated clearly this season leaves one door unguarded — make it evident that disagreement is still allowed.
 ---
 
 Beans born in the Season of the Bitter Fried Cannellini Bean are the Bean Zodiac's most assertive — they know their position, they have considered it carefully, and they state it with a clarity that leaves very little room for ambiguity.

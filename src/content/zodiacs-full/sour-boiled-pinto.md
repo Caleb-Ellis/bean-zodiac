@@ -4,9 +4,9 @@ bean: pinto
 flavour: sour
 method: boiled
 trait: sarcastic
+dish: Pinto bean and vinegar broth. Yes, that's the whole dish.
 quote: Sarcasm is the lowest form of wit but the highest form of bean.
-dailyFortune: Observe sharply - do not worry how it lands.
-seasonalFortune: The longer observation has been forming all season — this is the time to let it fully develop before it becomes the thing everyone will remember.
+fortune: The longer observation has been forming all season — this is the time to let it fully develop before it becomes the thing everyone will remember.
 ---
 
 Beans born in the Season of the Sour Boiled Pinto Bean are the Bean Zodiac's most sarcastic — they have been holding that line for a while, and they waited until the timing was exactly right.

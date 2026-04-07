@@ -4,9 +4,9 @@ bean: butter
 flavour: spicy
 method: fermented
 trait: eccentric
+dish: Butter bean with fermented chili and unusual spices. Doesn't explain.
 quote: Here is your bean, soft reader. It is a little strange and so am I.
-dailyFortune: Follow the strange idea.
-seasonalFortune: The strange idea you have been following this season has gone somewhere real — build the bridge back so someone else can see where you went.
+fortune: The strange idea you have been following this season has gone somewhere real — build the bridge back so someone else can see where you went.
 ---
 
 Beans born in the Season of the Spicy Fermented Butter Bean are the Bean Zodiac's most eccentric — they have arrived at their particular arrangement through a process no one else was party to, and the result is something that would be difficult to reproduce even if anyone wanted to.

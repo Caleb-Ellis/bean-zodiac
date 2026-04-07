@@ -4,9 +4,9 @@ bean: kidney
 flavour: bitter
 method: roasted
 trait: proud
+dish: Roasted kidney beans with bitter herb crust. Knows what it's worth.
 quote: It is not the bean that stoops who loses dignity, but the one who forgets why they stood.
-dailyFortune: Pride in your work is warranted.
-seasonalFortune: The pride you carry this season is warranted — let it be generous enough to make room for someone else's.
+fortune: The pride you carry this season is warranted — let it be generous enough to make room for someone else's.
 ---
 
 Beans born in the Season of the Bitter Roasted Kidney Bean are the Bean Zodiac's most proud — they have standards, they have presence, and they expect both to be recognised.

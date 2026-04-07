@@ -4,9 +4,9 @@ bean: fava
 flavour: spicy
 method: roasted
 trait: adventurous
+dish: Roasted fava with baharat and lime. Went somewhere new.
 quote: Life is either a daring bean or nothing at all.
-dailyFortune: Say yes to the thing that requires a little courage today.
-seasonalFortune: The places this season has taken you deserve more time than the next destination will allow — stay long enough to know what you found before you move toward what's next.
+fortune: The places this season has taken you deserve more time than the next destination will allow — stay long enough to know what you found before you move toward what's next.
 ---
 
 Beans born in the Season of the Spicy Roasted Fava Bean are the Bean Zodiac's most adventurous — they move toward the unfamiliar with a warmth and energy that makes everyone around them feel that the unknown is an occasion rather than a risk.

@@ -4,9 +4,9 @@ bean: chickpea
 flavour: sweet
 method: roasted
 trait: bighearted
+dish: Roasted chickpea with sweet spice, plenty for everyone. There's more.
 quote: The best bean way to find yourself is to lose yourself in the service of others.
-dailyFortune: Your instinct to give is correct today.
-seasonalFortune: Receive as readily as you give this season — the limit exists, and the people around you would like to know where it is before they find it for you.
+fortune: Receive as readily as you give this season — the limit exists, and the people around you would like to know where it is before they find it for you.
 ---
 
 Beans born in the Season of the Sweet Roasted Chickpea are the Bean Zodiac's most bighearted — the generosity is not a quality they exercise but a quality they are, and it extends outward without diminishing, like a warmth that seems to have no source it is depleting.

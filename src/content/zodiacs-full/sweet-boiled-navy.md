@@ -4,9 +4,9 @@ bean: navy
 flavour: sweet
 method: boiled
 trait: frugal
+dish: Sweet baked navy beans with molasses. Making a little go far.
 quote: Beware of little bean expenses; a small leak will sink a great ship.
-dailyFortune: Ask yourself whether future-you will thank present-you for it.
-seasonalFortune: Frugality is a virtue until the thing you are conserving is the life it was meant to sustain — spend on the thing that is worth it this season.
+fortune: Frugality is a virtue until the thing you are conserving is the life it was meant to sustain — spend on the thing that is worth it this season.
 ---
 
 Beans born in the Season of the Sweet Boiled Navy Bean are the Bean Zodiac's most frugal — they know the difference between what they have and what they need, and they keep the gap managed.

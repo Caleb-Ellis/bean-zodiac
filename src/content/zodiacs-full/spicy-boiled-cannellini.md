@@ -4,9 +4,9 @@ bean: cannellini
 flavour: spicy
 method: boiled
 trait: perfectionist
+dish: Cannellini in precisely spiced broth. Every variable controlled.
 quote: Have no fear of bean perfection — you will never reach it, but what a view from the attempt.
-dailyFortune: Set the bar high and then release yourself from it.
-seasonalFortune: The work this season that you keep returning to has already passed the threshold — the version that is ready is the one currently in your hands.
+fortune: The work this season that you keep returning to has already passed the threshold — the version that is ready is the one currently in your hands.
 ---
 
 Beans born in the Season of the Spicy Boiled Cannellini Bean are the Bean Zodiac's most perfectionist — the standard they hold is not arbitrary, and they apply it with a patience that outlasts everyone else's tolerance for the gap between where things are and where they should be.

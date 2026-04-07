@@ -4,9 +4,9 @@ bean: kidney
 flavour: sour
 method: boiled
 trait: trustworthy
+dish: Kidney bean chili with tangy tomato base. There every time.
 quote: The secret of getting ahead is getting bean.
-dailyFortune: Keep the promise you made quietly to yourself.
-seasonalFortune: What was promised this season is being kept — the people who are watching have noticed, even if they have not said so.
+fortune: What was promised this season is being kept — the people who are watching have noticed, even if they have not said so.
 ---
 
 Beans born in the Season of the Sour Boiled Kidney Bean are the Bean Zodiac's most trustworthy — they tell the truth, and they stay.

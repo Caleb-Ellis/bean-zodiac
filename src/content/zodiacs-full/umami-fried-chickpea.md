@@ -4,9 +4,9 @@ bean: chickpea
 flavour: umami
 method: fried
 trait: proactive
+dish: Chickpea fried with fish sauce and garlic. Didn't wait to be asked.
 quote: Do not wait to strike till the bean is hot, but make it hot by striking.
-dailyFortune: Don't wait for permission or perfect conditions.
-seasonalFortune: What you moved ahead of this season was real — ask, once, before the next season begins, so the autonomy you are protecting knows what you are doing.
+fortune: What you moved ahead of this season was real — ask, once, before the next season begins, so the autonomy you are protecting knows what you are doing.
 ---
 
 Beans born in the Season of the Umami Fried Chickpea are the Bean Zodiac's most proactive — they see what is going to be needed and address it before they have been asked, which is different from assuming they know best, though the distinction is not always legible to those watching.

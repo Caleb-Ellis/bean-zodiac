@@ -4,9 +4,9 @@ bean: green
 flavour: spicy
 method: fermented
 trait: unconventional
+dish: Green beans in spicy fermented sauce with seaweed. Against the grain.
 quote: Here's to the crazy beans, the misfits, the rebels, the troublemakers.
-dailyFortune: Resist the pressure to solve the problem the way it's always been solved.
-seasonalFortune: The unconventional route you have taken this season is right — show your working before the season ends, or the result will arrive without a path anyone else can follow.
+fortune: The unconventional route you have taken this season is right — show your working before the season ends, or the result will arrive without a path anyone else can follow.
 ---
 
 Beans born in the Season of the Spicy Fermented Green Bean are the Bean Zodiac's most unconventional — they have run Green Bean's restless energy through a Spicy intensity and a Fermented privacy and emerged with a way of doing things that doesn't map to any existing template.

@@ -4,9 +4,9 @@ bean: black
 flavour: sweet
 method: boiled
 trait: steadfast
+dish: Black bean stew with panela and cinnamon. There. Always there.
 quote: Not all those who wander are beans.
-dailyFortune: Your consistency is being felt by someone who has not yet found a way to say so.
-seasonalFortune: Steadfastness extended only outward becomes depletion — redirect some of it inward this season with the same reliability.
+fortune: Steadfastness extended only outward becomes depletion — redirect some of it inward this season with the same reliability.
 ---
 
 Beans born in the Season of the Sweet Boiled Black Bean are the Bean Zodiac's most steadfast — not through discipline or resolve summoned for the occasion, but through a temperament that simply stays.

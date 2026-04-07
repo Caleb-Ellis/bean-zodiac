@@ -4,9 +4,9 @@ bean: adzuki
 flavour: sour
 method: fermented
 trait: self-aware
+dish: Adzuki with fermented plum vinegar and sesame. Exactly what it claims to be.
 quote: Know thyself? If I knew myself, I'd bean away.
-dailyFortune: You already know what this is.
-seasonalFortune: The self-knowledge accumulated this season is reliable — this is not the season for more analysis, but for deciding what to do with what you already know.
+fortune: The self-knowledge accumulated this season is reliable — this is not the season for more analysis, but for deciding what to do with what you already know.
 ---
 
 Beans born in the Season of the Sour Fermented Adzuki Bean are the Bean Zodiac's most self-aware — they have taken the Adzuki's joyful instincts and avoidant shadow through a long internal reckoning, and what has emerged is an unsentimental picture of themselves.

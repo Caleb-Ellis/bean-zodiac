@@ -4,9 +4,9 @@ bean: edamame
 flavour: umami
 method: fried
 trait: keen
+dish: Edamame stir-fried with umami sauce. On it.
 quote: I'm keen as beans!
-dailyFortune: You have already read the room.
-seasonalFortune: What you have already understood is correct — this is not the season to slow down for consensus, but remember the Beans who are still arriving.
+fortune: What you have already understood is correct — this is not the season to slow down for consensus, but remember the Beans who are still arriving.
 ---
 
 Beans born in the Season of the Umami Fried Edamame are the Bean Zodiac's most keen — not eager in the restless sense, but sharp in the way that comes from having absorbed a great deal and learned to read it fast.

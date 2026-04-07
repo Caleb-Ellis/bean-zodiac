@@ -4,9 +4,9 @@ bean: butter
 flavour: bitter
 method: fried
 trait: deliberate
+dish: Butter bean fritters with bitter herb crust. Nothing by accident.
 quote: Well-behaved beans seldom make history.
-dailyFortune: Make the choice you have been putting off.
-seasonalFortune: The axe you have been sharpening this season is sharp — the next move is not preparation, it is the thing itself.
+fortune: The axe you have been sharpening this season is sharp — the next move is not preparation, it is the thing itself.
 ---
 
 Beans born in the Season of the Bitter Fried Butter Bean are the Bean Zodiac's most deliberate — they act with the conviction of the Fried and the discernment of the Bitter, but only once the Butter has been satisfied that this is worth doing.

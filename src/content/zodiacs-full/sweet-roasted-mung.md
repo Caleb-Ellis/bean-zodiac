@@ -4,9 +4,9 @@ bean: mung
 flavour: sweet
 method: roasted
 trait: easygoing
+dish: Roasted mung with light sweet glaze. Fine. All fine.
 quote: Keep your bean up and your worries down, and everything will be just fine.
-dailyFortune: Let the small irritations pass without comment today.
-seasonalFortune: Let the difficulty be hard this season before you settle it — some things resolve into something more useful than ease.
+fortune: Let the difficulty be hard this season before you settle it — some things resolve into something more useful than ease.
 ---
 
 Beans born in the Season of the Sweet Roasted Mung Bean are the Bean Zodiac's most easygoing — they move through difficulty without amplifying it, and they have a talent for making the situation feel more manageable simply by how they inhabit it.

@@ -4,9 +4,9 @@ bean: adzuki
 flavour: bitter
 method: fried
 trait: opinionated
+dish: Pan-fried adzuki with bitter grapefruit and chili oil. Has a lot to say.
 quote: Well-beaned people are always dangerous.
-dailyFortune: Your read on this is probably right.
-seasonalFortune: Your instincts this season are sound — the one opinion still forming is worth waiting for before you seal it.
+fortune: Your instincts this season are sound — the one opinion still forming is worth waiting for before you seal it.
 ---
 
 Beans born in the Season of the Bitter Fried Adzuki Bean are the Bean Zodiac's most opinionated — they arrive at positions with the Adzuki's conviction about what deserves to be marked, Bitter's discerning palate, and Fried's absolute refusal to hedge.

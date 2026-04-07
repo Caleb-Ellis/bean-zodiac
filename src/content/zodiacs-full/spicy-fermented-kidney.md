@@ -4,9 +4,9 @@ bean: kidney
 flavour: spicy
 method: fermented
 trait: obsessive
+dish: Kidney beans in fermented chili sauce, refined over iterations. Many iterations.
 quote: One bean, one passion, one purpose — and a man becomes invincible.
-dailyFortune: Give your obsession one hour of undivided attention today.
-seasonalFortune: The obsession has been faithful this season — surface once before it closes, not to redirect, but to check that where you are is still where you meant to be.
+fortune: The obsession has been faithful this season — surface once before it closes, not to redirect, but to check that where you are is still where you meant to be.
 ---
 
 Beans born in the Season of the Spicy Fermented Kidney Bean are the Bean Zodiac's most obsessive — they have found the thing, and they are not done with it, and they are not asking permission to continue.

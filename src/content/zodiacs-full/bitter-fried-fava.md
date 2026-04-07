@@ -4,9 +4,9 @@ bean: fava
 flavour: bitter
 method: fried
 trait: fearless
+dish: Fava flash-fried with bitter lemon and chili. Doesn't hesitate.
 quote: Do the thing you are afraid to do, and the bean of fear is certain.
-dailyFortune: Act before hesitation.
-seasonalFortune: The leap you have already made this season deserves naming — what you overcame to get here is not carelessness, and others should know it.
+fortune: The leap you have already made this season deserves naming — what you overcame to get here is not carelessness, and others should know it.
 ---
 
 Beans born in the Season of the Bitter Fried Fava Bean are the Bean Zodiac's most fearless — not reckless, but genuinely unimpeded by the fear that stops most Beans before they begin.

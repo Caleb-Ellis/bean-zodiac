@@ -4,9 +4,9 @@ bean: green
 flavour: sweet
 method: fermented
 trait: whimsical
+dish: Green beans in sweet fermented miso dressing with something extra. Why not?
 quote: One bean that I had a long time ago.
-dailyFortune: Follow the delightfully impractical idea today.
-seasonalFortune: Apply the imagination to something that needs it this season — the ordinary is a more interesting problem than it looks.
+fortune: Apply the imagination to something that needs it this season — the ordinary is a more interesting problem than it looks.
 ---
 
 Beans born in the Season of the Sweet Fermented Green Bean are the Bean Zodiac's most whimsical — their inner world is rich and improbable, and they have the generosity to share it without insisting anyone follow.

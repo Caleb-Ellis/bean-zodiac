@@ -4,9 +4,9 @@ bean: butter
 flavour: bitter
 method: boiled
 trait: composed
+dish: Butter bean stew with wilted bitter greens and a bay leaf. Holds itself together.
 quote: Do I contradict myself? Very well then, I contain beans.
-dailyFortune: The steadiness you are carrying today is doing more than you know.
-seasonalFortune: The steadiness you carry this season is doing more than you know — let someone know you are there, not only that you are still.
+fortune: The steadiness you carry this season is doing more than you know — let someone know you are there, not only that you are still.
 ---
 
 Beans born in the Season of the Bitter Boiled Butter Bean are the Bean Zodiac's most composed — not through suppression, but through a genuine preference for stillness that nothing so far has managed to disturb.

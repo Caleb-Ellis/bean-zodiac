@@ -4,9 +4,9 @@ bean: adzuki
 flavour: bitter
 method: fermented
 trait: nostalgic
+dish: Adzuki with fermented bitter orange and sticky rice. Tastes like remembering.
 quote: The past is never dead. It's not even bean.
-dailyFortune: The memory asking for your attention is asking for a reason.
-seasonalFortune: The memory you keep returning to this season is not asking to be relived — it is pointing at something still ahead of you.
+fortune: The memory you keep returning to this season is not asking to be relived — it is pointing at something still ahead of you.
 ---
 
 Beans born in the Season of the Bitter Fermented Adzuki Bean are the Bean Zodiac's most nostalgic — they have worked through joy and loss privately, against a bitter clarity, until what remains is a precise attachment to what has already been good.

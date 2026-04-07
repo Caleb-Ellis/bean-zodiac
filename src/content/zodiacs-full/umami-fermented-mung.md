@@ -4,9 +4,9 @@ bean: mung
 flavour: umami
 method: fermented
 trait: poetic
+dish: Mung in deep fermented broth with tofu. Almost says something.
 quote: A bean should be more careful of his learning than of the pebble in his shoe.
-dailyFortune: Write or say one true thing in the most beautiful way you can.
-seasonalFortune: The season has given you material and the material has found its shape — send it, even on the days when the plain draft is all that is ready.
+fortune: The season has given you material and the material has found its shape — send it, even on the days when the plain draft is all that is ready.
 ---
 
 Beans born in the Season of the Umami Fermented Mung Bean are the Bean Zodiac's most poetic — they find the exact shape of a thing and hold it up in a way that makes it visible to everyone else for the first time.

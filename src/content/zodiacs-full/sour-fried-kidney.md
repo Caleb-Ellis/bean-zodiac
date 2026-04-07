@@ -4,9 +4,9 @@ bean: kidney
 flavour: sour
 method: fried
 trait: argumentative
+dish: Kidney bean patties with acidic tomato sauce. Not done discussing this.
 quote: In the beginning was the bean, and the bean was with argument, and the bean was argument.
-dailyFortune: Listen all the way through before you respond.
-seasonalFortune: The argument this season has been worth having — trust that the friction produced something that a smoother exchange would not have.
+fortune: The argument this season has been worth having — trust that the friction produced something that a smoother exchange would not have.
 ---
 
 Beans born in the Season of the Sour Fried Kidney Bean are the Bean Zodiac's most argumentative — they believe that getting to the truth is worth the friction of getting there.

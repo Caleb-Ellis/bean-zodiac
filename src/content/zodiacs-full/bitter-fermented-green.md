@@ -4,9 +4,9 @@ bean: green
 flavour: bitter
 method: fermented
 trait: imaginative
+dish: Green beans in bitter fermented dressing with sesame. Strange. Good.
 quote: Imagination is more important than bean.
-dailyFortune: Sketch out the strange idea before the sensible one.
-seasonalFortune: The vision taking shape this season should not arrive complete — share the draft before it is finished, and let the friction make it stranger and better.
+fortune: The vision taking shape this season should not arrive complete — share the draft before it is finished, and let the friction make it stranger and better.
 ---
 
 Beans born in the Season of the Bitter Fermented Green Bean are the Bean Zodiac's most imaginative — they can see something that isn't there yet and render it precise enough that others can see it too.

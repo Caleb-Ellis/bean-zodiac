@@ -4,9 +4,9 @@ bean: kidney
 flavour: spicy
 method: roasted
 trait: emotive
+dish: Roasted kidney beans with chipotle and smoked paprika. Feels things deeply.
 quote: The bean is not a logical faculty; it is a faculty of what it wants.
-dailyFortune: Let yourself feel the full weight of what today brings.
-seasonalFortune: The season has been full of genuine feeling freely given — develop the sense, before the next one, of when to pour and when to let the room fill at its own pace.
+fortune: The season has been full of genuine feeling freely given — develop the sense, before the next one, of when to pour and when to let the room fill at its own pace.
 ---
 
 Beans born in the Season of the Spicy Roasted Kidney Bean are the Bean Zodiac's most emotive — they feel the full range and they extend it outward, warmly, without apology.

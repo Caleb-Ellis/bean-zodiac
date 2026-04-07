@@ -4,9 +4,9 @@ bean: navy
 flavour: sour
 method: boiled
 trait: literal-minded
+dish: Navy bean and lemon broth. A soup. A real one.
 quote: When I use a bean, it means just what I choose it to mean — neither more nor less.
-dailyFortune: It's not a metaphor.
-seasonalFortune: What was said this season is what was meant — the clarity this brings to others is worth more than they have told you.
+fortune: What was said this season is what was meant — the clarity this brings to others is worth more than they have told you.
 ---
 
 Beans born in the Season of the Sour Boiled Navy Bean are the Bean Zodiac's most literal-minded — what is said is what is meant, what is meant is what was said, and the space between those two things is not where they live.

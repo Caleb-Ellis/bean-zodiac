@@ -4,9 +4,9 @@ bean: pinto
 flavour: bitter
 method: fermented
 trait: artistic
+dish: Pinto beans with fermented bitter plum and herbs. More composition than recipe.
 quote: Every bean is an artist. The problem is how to remain an artist once we grow up.
-dailyFortune: Make something today, even something small and unfinished.
-seasonalFortune: The work this season needs the friction of an audience — not approval, but the resistance that keeps it honest and stops it from talking only to itself.
+fortune: The work this season needs the friction of an audience — not approval, but the resistance that keeps it honest and stops it from talking only to itself.
 ---
 
 Beans born in the Season of the Bitter Fermented Pinto Bean are the Bean Zodiac's most artistic — not decorative, but genuinely making something that could not have existed without them.

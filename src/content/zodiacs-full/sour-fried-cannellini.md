@@ -4,9 +4,9 @@ bean: cannellini
 flavour: sour
 method: fried
 trait: meticulous
+dish: Cannellini sautéed with capers and exact lemon zest. Counted.
 quote: For every bean, there is a season, and a proper method.
-dailyFortune: Slow down on the step that most deserves your attention.
-seasonalFortune: The detail attended to this season has done its work — step back now and check whether the whole is moving in the direction it was built for.
+fortune: The detail attended to this season has done its work — step back now and check whether the whole is moving in the direction it was built for.
 ---
 
 Beans born in the Season of the Sour Fried Cannellini Bean are the Bean Zodiac's most meticulous — they do the thing correctly, at speed, and they notice when it has not been done correctly before anyone else has thought to look.

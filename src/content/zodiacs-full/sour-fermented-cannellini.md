@@ -4,9 +4,9 @@ bean: cannellini
 flavour: sour
 method: fermented
 trait: critical
+dish: Cannellini in tangy fermented whey with lemon zest. Has notes.
 quote: You call this bean broth?
-dailyFortune: It is not uncharitable.
-seasonalFortune: The conclusion developed privately this season is ready to surface — deliver it, and trust that it is as precise as the process that produced it.
+fortune: The conclusion developed privately this season is ready to surface — deliver it, and trust that it is as precise as the process that produced it.
 ---
 
 Beans born in the Season of the Sour Fermented Cannellini Bean are the Bean Zodiac's most critical — not harsh, but constitutionally unable to look at something without knowing exactly how it could be better.

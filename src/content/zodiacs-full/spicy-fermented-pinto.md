@@ -4,9 +4,9 @@ bean: pinto
 flavour: spicy
 method: fermented
 trait: mercurial
+dish: Pinto in fermented chili that changes every time. It just does.
 quote: Nothing endures but bean.
-dailyFortune: Your quick changes of mind are you updating correctly.
-seasonalFortune: The positions you have moved through this season are not inconsistency — they are a finished argument — but the Beans who couldn't follow need the trail before the season ends.
+fortune: The positions you have moved through this season are not inconsistency — they are a finished argument — but the Beans who couldn't follow need the trail before the season ends.
 ---
 
 Beans born in the Season of the Spicy Fermented Pinto Bean are the Bean Zodiac's most mercurial — they have changed positions completely before anyone around them has registered the first shift.

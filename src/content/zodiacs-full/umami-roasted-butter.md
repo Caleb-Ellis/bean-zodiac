@@ -4,9 +4,9 @@ bean: butter
 flavour: umami
 method: roasted
 trait: receptive
+dish: Butter bean roasted in anchovy oil. Open. Absorbs everything.
 quote: The ear of the bean hears all and judges nothing.
-dailyFortune: Listen today without preparing your response.
-seasonalFortune: This season has been full of what others have offered — offer something of your own, and let it be received the way you have received theirs.
+fortune: This season has been full of what others have offered — offer something of your own, and let it be received the way you have received theirs.
 ---
 
 Beans born in the Season of the Umami Roasted Butter Bean are the Bean Zodiac's most receptive — they take in what is offered with a completeness that is rare, registering not just the surface of what is said but what the saying contains.

@@ -4,9 +4,9 @@ bean: green
 flavour: umami
 method: roasted
 trait: curious
+dish: Green beans roasted with bonito flakes. What's that about? Worth finding out.
 quote: Curiosity is the bean, always leading to new discoveries.
-dailyFortune: Follow the tangent today.
-seasonalFortune: The season's tangents have accumulated into something — choose one before the season ends and go deeper than curiosity usually asks.
+fortune: The season's tangents have accumulated into something — choose one before the season ends and go deeper than curiosity usually asks.
 ---
 
 Beans born in the Season of the Umami Roasted Green Bean are the Bean Zodiac's most curious — their interest in the world is warm, wide, and without agenda: they want to know because knowing is its own reward.

@@ -4,9 +4,9 @@ bean: pinto
 flavour: spicy
 method: roasted
 trait: unpredictable
+dish: Roasted pinto with a rotating chili blend. Different every time.
 quote: Consistency is the last refuge of the bean-less.
-dailyFortune: Surprise someone today.
-seasonalFortune: The surprises this season have landed well — build enough of a foundation in the next one that they continue to read as features, not as weather.
+fortune: The surprises this season have landed well — build enough of a foundation in the next one that they continue to read as features, not as weather.
 ---
 
 Beans born in the Season of the Spicy Roasted Pinto Bean are the Bean Zodiac's most unpredictable — no two appearances the same, and the room always warmer for it.

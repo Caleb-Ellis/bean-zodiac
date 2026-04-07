@@ -4,9 +4,9 @@ bean: chickpea
 flavour: bitter
 method: fermented
 trait: collaborative
+dish: Chickpea with fermented bitter paste and shared flatbread. Better with others.
 quote: None of us is as bean as all of us.
-dailyFortune: The person you have been meaning to loop in is waiting.
-seasonalFortune: The work this season that only you can finish is waiting — make peace with the hours it requires of you alone.
+fortune: The work this season that only you can finish is waiting — make peace with the hours it requires of you alone.
 ---
 
 Beans born in the Season of the Bitter Fermented Chickpea are the Bean Zodiac's most collaborative — they understand that what is made together can be better than what either party would have produced alone, and they have arranged their working life around this understanding.

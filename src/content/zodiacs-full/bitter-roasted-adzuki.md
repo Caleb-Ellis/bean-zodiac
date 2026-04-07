@@ -4,9 +4,9 @@ bean: adzuki
 flavour: bitter
 method: roasted
 trait: polished
+dish: Roasted adzuki with cacao nib and cardamom. Finished. Nothing out of place.
 quote: Have no fear of bean perfection — you'll never reach it.
-dailyFortune: The extra care is worth taking.
-seasonalFortune: The season will hold its shape even without you catching every edge — let the occasion be a little rough and stay in it anyway.
+fortune: The season will hold its shape even without you catching every edge — let the occasion be a little rough and stay in it anyway.
 ---
 
 Beans born in the Season of the Bitter Roasted Adzuki Bean are the Bean Zodiac's most polished — they bring the Adzuki's gift for celebration through the Bitter's cultivated palate and Roasted's generous heat, and what arrives is impeccable without being cold.

@@ -4,9 +4,9 @@ bean: green
 flavour: sour
 method: roasted
 trait: cheerful
+dish: Green beans roasted with bright lemon. Happy about it.
 quote: The most bean thing you can do is smile through your tears.
-dailyFortune: Bring your warmth into the room today.
-seasonalFortune: The good humour this season has held up under scrutiny — the rooms it has entered have been better for it, and that is not nothing.
+fortune: The good humour this season has held up under scrutiny — the rooms it has entered have been better for it, and that is not nothing.
 ---
 
 Beans born in the Season of the Sour Roasted Green Bean are the Bean Zodiac's most cheerful — a warmth that is hard to dismiss because it is also honest, and a brightness that has already acknowledged the difficulty before arriving with a smile.

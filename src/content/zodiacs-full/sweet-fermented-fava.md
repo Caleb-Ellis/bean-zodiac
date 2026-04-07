@@ -4,9 +4,9 @@ bean: fava
 flavour: sweet
 method: fermented
 trait: visionary
+dish: Fava with sweet fermented paste and long spices. Sees ten steps ahead.
 quote: The bean is not to predict the future but to imagine it.
-dailyFortune: Share the picture in your head today.
-seasonalFortune: The vision has been developing long enough — this season, make the distance between now and the future you see feel traversable for someone who is not you.
+fortune: The vision has been developing long enough — this season, make the distance between now and the future you see feel traversable for someone who is not you.
 ---
 
 Beans born in the Season of the Sweet Fermented Fava Bean are the Bean Zodiac's most visionary — they see where things are trying to go before anyone else has noticed the direction, and they are quietly arranging the conditions for it to get there.

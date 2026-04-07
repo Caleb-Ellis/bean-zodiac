@@ -4,9 +4,9 @@ bean: green
 flavour: umami
 method: boiled
 trait: prolific
+dish: Green beans in umami broth with shiitake and more shiitake. Produces.
 quote: Quantity produces bean quality.
-dailyFortune: Make more today and iterate fast.
-seasonalFortune: What has accumulated this season is more than it appeared while you were making it — see the whole before you begin again.
+fortune: What has accumulated this season is more than it appeared while you were making it — see the whole before you begin again.
 ---
 
 Beans born in the Season of the Umami Boiled Green Bean are the Bean Zodiac's most prolific — they produce, and produce, and produce, and the sheer quantity has accumulated into something substantial.

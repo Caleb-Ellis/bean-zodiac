@@ -4,9 +4,9 @@ bean: mung
 flavour: sour
 method: boiled
 trait: impartial
+dish: Mung dal with tamarind. No favorites.
 quote: Fiat justitia ruat bean.
-dailyFortune: Don't get involved.
-seasonalFortune: The impartiality has held this season — what it has built is a reputation for fairness that will outlast the situation that required it.
+fortune: The impartiality has held this season — what it has built is a reputation for fairness that will outlast the situation that required it.
 ---
 
 Beans born in the Season of the Sour Boiled Mung Bean are the Bean Zodiac's most impartial — they see what is there, not what they want to be there, and they apply the same clear measure to everything.

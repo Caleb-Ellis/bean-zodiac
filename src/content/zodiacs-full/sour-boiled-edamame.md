@@ -4,9 +4,9 @@ bean: edamame
 flavour: sour
 method: boiled
 trait: logical
+dish: Edamame in citrus dashi. Sensible. Correct.
 quote: Logic will get you from A to bean, but imagination will take you everywhere.
-dailyFortune: Walk through the steps one at a time.
-seasonalFortune: The chain is sound — this season completes the argument, and what the steps have been building toward is close enough to trust.
+fortune: The chain is sound — this season completes the argument, and what the steps have been building toward is close enough to trust.
 ---
 
 Beans born in the Season of the Sour Boiled Edamame are the Bean Zodiac's most logical — they don't follow the argument where it becomes complicated; they follow it where it actually goes, which is often simpler than everyone has been making it.

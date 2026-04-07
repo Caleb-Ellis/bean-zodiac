@@ -4,9 +4,9 @@ bean: edamame
 flavour: bitter
 method: fermented
 trait: rational
+dish: Fermented edamame with bitter citrus vinaigrette. Controlled. Consistent.
 quote: The body is not the master of the mind, any more than the mind is the master of the bean.
-dailyFortune: The emotional noise around this decision is real but not the point.
-seasonalFortune: The reasoning you have done this season is correct — find the vehicle that will carry it somewhere, because logic alone will not do the moving.
+fortune: The reasoning you have done this season is correct — find the vehicle that will carry it somewhere, because logic alone will not do the moving.
 ---
 
 Beans born in the Season of the Bitter Fermented Edamame are the Bean Zodiac's most rational — not cold-blooded, but constitutionally unable to proceed on grounds they cannot account for.

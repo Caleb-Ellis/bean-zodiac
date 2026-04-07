@@ -4,9 +4,9 @@ bean: chickpea
 flavour: umami
 method: fermented
 trait: innovative
+dish: Chickpea with fermented black garlic and miso. Hasn't been done. Now it has.
 quote: Imagination is more important than bean knowledge.
-dailyFortune: The unconventional idea deserves a real trial today.
-seasonalFortune: What was developed in private this season is finished — the insight needs the object it becomes, and that part requires leaving the dark.
+fortune: What was developed in private this season is finished — the insight needs the object it becomes, and that part requires leaving the dark.
 ---
 
 Beans born in the Season of the Umami Fermented Chickpea are the Bean Zodiac's most innovative — they produce genuinely new things not by discarding what exists but by combining what is already there in configurations no one else had thought to try.

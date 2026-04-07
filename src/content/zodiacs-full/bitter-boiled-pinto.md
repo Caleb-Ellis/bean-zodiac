@@ -4,9 +4,9 @@ bean: pinto
 flavour: bitter
 method: boiled
 trait: detail-oriented
+dish: Pinto bean broth with hand-diced onion and bitter herbs. The small things matter.
 quote: The bean is in the details.
-dailyFortune: Go over the thing one more time before you send it.
-seasonalFortune: This season, step back from the brushwork far enough to see whether the whole canvas is going in the direction you intended.
+fortune: This season, step back from the brushwork far enough to see whether the whole canvas is going in the direction you intended.
 ---
 
 Beans born in the Season of the Bitter Boiled Pinto Bean are the Bean Zodiac's most detail-oriented — they notice what others skip, and they do not skip it on purpose.

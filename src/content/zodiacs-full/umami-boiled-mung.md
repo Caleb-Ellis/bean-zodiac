@@ -4,9 +4,9 @@ bean: mung
 flavour: umami
 method: boiled
 trait: quiet
+dish: Mung dal with umami depth and no announcement. Just there.
 quote: Silence is a bean fool's wisdom.
-dailyFortune: Speak less than you know today.
-seasonalFortune: The stillness has served its purpose this season — break it once, with the thing that has been waiting the longest to be said.
+fortune: The stillness has served its purpose this season — break it once, with the thing that has been waiting the longest to be said.
 ---
 
 Beans born in the Season of the Umami Boiled Mung Bean are the Bean Zodiac's most quiet — not silent, not withdrawn, but possessed of a stillness that the right things settle into.

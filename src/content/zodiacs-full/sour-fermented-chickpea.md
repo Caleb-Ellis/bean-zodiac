@@ -4,9 +4,9 @@ bean: chickpea
 flavour: sour
 method: fermented
 trait: clever
+dish: Chickpea with lacto-fermented lemon and dill. Smarter than it appears.
 quote: The secret of being a bean bore is to tell everything.
-dailyFortune: You have already spotted the shortcut.
-seasonalFortune: The solution has been worked on privately long enough — this season is for giving it to the room, not continuing to refine it alone.
+fortune: The solution has been worked on privately long enough — this season is for giving it to the room, not continuing to refine it alone.
 ---
 
 Beans born in the Season of the Sour Fermented Chickpea are the Bean Zodiac's most clever — they have usually found the solution while others are still mapping the problem, and they have the grace not to make this uncomfortable.

@@ -4,9 +4,9 @@ bean: green
 flavour: umami
 method: fermented
 trait: creative
+dish: Green beans in fermented umami with unexpected combinations. Works somehow.
 quote: Creativity is intelligence having bean fun.
-dailyFortune: Make something today.
-seasonalFortune: The work that has been developing in private is ready to exist outside of you — let it be seen before the season turns.
+fortune: The work that has been developing in private is ready to exist outside of you — let it be seen before the season turns.
 ---
 
 Beans born in the Season of the Umami Fermented Green Bean are the Bean Zodiac's most creative — they have the freshness to begin, the depth to go further than the obvious, and the privacy to work until something entirely their own emerges.

@@ -4,9 +4,9 @@ bean: butter
 flavour: sour
 method: boiled
 trait: honest
+dish: Butter bean broth with lemon and parsley. Exactly what it says.
 quote: The bean will set you free, but first it will make you uncomfortable.
-dailyFortune: Say the true thing plainly.
-seasonalFortune: The honesty that has been building this season is not getting easier to say by waiting — this is the season to say it.
+fortune: The honesty that has been building this season is not getting easier to say by waiting — this is the season to say it.
 ---
 
 Beans born in the Season of the Sour Boiled Butter Bean are the Bean Zodiac's most honest — not with the sharpness of an unchecked acid, but with the considered, unhurried delivery of a truth that has been kept in the pot long enough to become unavoidable.

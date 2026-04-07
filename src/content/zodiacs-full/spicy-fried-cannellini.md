@@ -4,9 +4,9 @@ bean: cannellini
 flavour: spicy
 method: fried
 trait: ambitious
+dish: Crispy cannellini with chili oil. Going places.
 quote: Shoot for the bean. Even if you miss, you will land among the legumes.
-dailyFortune: Move toward the larger goal today.
-seasonalFortune: The larger thing is still ahead and you are still moving toward it — slow down once this season to see what is running alongside you, before you arrive alone.
+fortune: The larger thing is still ahead and you are still moving toward it — slow down once this season to see what is running alongside you, before you arrive alone.
 ---
 
 Beans born in the Season of the Spicy Fried Cannellini Bean are the Bean Zodiac's most ambitious — they have identified the larger thing and they are already moving toward it, at heat, without waiting for a safer moment to begin.

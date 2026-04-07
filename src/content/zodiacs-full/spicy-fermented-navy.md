@@ -4,9 +4,9 @@ bean: navy
 flavour: spicy
 method: fermented
 trait: independent
+dish: Navy bean with fermented chili. Doesn't need your input.
 quote: The bean who follows the crowd will usually get no further than the crowd.
-dailyFortune: Trust your own reading of the situation.
-seasonalFortune: The conclusions you arrived at alone this season are sound — let one of them be tested by someone you trust before the season locks them in.
+fortune: The conclusions you arrived at alone this season are sound — let one of them be tested by someone you trust before the season locks them in.
 ---
 
 Beans born in the Season of the Spicy Fermented Navy Bean are the Bean Zodiac's most independent — they did not arrive at their conclusions by following anyone, and they are not planning to start.

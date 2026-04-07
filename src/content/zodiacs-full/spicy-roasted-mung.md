@@ -4,9 +4,9 @@ bean: mung
 flavour: spicy
 method: roasted
 trait: clingy
+dish: Roasted mung with chili and date molasses. Stays close.
 quote: Love is that condition in which the happiness of another bean is essential to your own.
-dailyFortune: Let someone you love be away from you today.
-seasonalFortune: The warmth you have given this season has been real and sustaining — the Beans you love most are still there even when they are not in reach, and that distance is not the same as loss.
+fortune: The warmth you have given this season has been real and sustaining — the Beans you love most are still there even when they are not in reach, and that distance is not the same as loss.
 ---
 
 Beans born in the Season of the Spicy Roasted Mung Bean are the Bean Zodiac's most clingy — they love with an intensity that makes proximity feel essential, and they are always aware of when it is not there.

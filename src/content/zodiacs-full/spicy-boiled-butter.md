@@ -4,9 +4,9 @@ bean: butter
 flavour: spicy
 method: boiled
 trait: stoic
+dish: Butter bean stew with chili flakes. Holds. Steady.
 quote: You have power over your bean, not outside events. Realize this, and you will find strength.
-dailyFortune: Something today will not go as planned.
-seasonalFortune: What you have absorbed this season without performing has not disappeared — find the form that lets some of it leave.
+fortune: What you have absorbed this season without performing has not disappeared — find the form that lets some of it leave.
 ---
 
 Beans born in the Season of the Spicy Boiled Butter Bean are the Bean Zodiac's most stoic — the heat arrives, is registered completely, and is absorbed without producing any of the theatre that heat usually implies.

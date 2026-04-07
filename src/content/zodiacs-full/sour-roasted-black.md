@@ -4,9 +4,9 @@ bean: black
 flavour: sour
 method: roasted
 trait: earnest
+dish: Black bean roasted with lime and oregano. Tries. Means it.
 quote: The importance of being bean.
-dailyFortune: The thing you feel is real.
-seasonalFortune: The earnestness this season has cost something — trust that what it built in return is more durable than what a guarded approach would have produced.
+fortune: The earnestness this season has cost something — trust that what it built in return is more durable than what a guarded approach would have produced.
 ---
 
 Beans born in the Season of the Sour Roasted Black Bean are the Bean Zodiac's most earnest — not naive, not without edges, but genuinely in contact with what they actually feel, and constitutionally committed to expressing it without pretence.

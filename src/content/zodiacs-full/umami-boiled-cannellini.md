@@ -4,9 +4,9 @@ bean: cannellini
 flavour: umami
 method: boiled
 trait: conscientious
+dish: Cannellini in careful mushroom broth. Did the right thing.
 quote: In matters of bean, swim with the current; in matters of principle, stand like a cannellini.
-dailyFortune: Do the thing properly.
-seasonalFortune: The careful work has been accumulating without announcement — this season, let yourself register what it has produced.
+fortune: The careful work has been accumulating without announcement — this season, let yourself register what it has produced.
 ---
 
 Beans born in the Season of the Umami Boiled Cannellini Bean are the Bean Zodiac's most conscientious — they do the thing properly because doing it properly is the point, not because they expect to be credited for it.

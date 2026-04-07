@@ -4,9 +4,9 @@ bean: green
 flavour: sweet
 method: boiled
 trait: playful
+dish: Green beans with honey butter and fresh dill. Fun.
 quote: We don't stop playing because we grow old; we grow old because we stop bean playful.
-dailyFortune: Bring a lighter touch to whatever you are working on today.
-seasonalFortune: Hold still this season long enough to be seen as something more than motion — what is underneath the lightness deserves to be found.
+fortune: Hold still this season long enough to be seen as something more than motion — what is underneath the lightness deserves to be found.
 ---
 
 Beans born in the Season of the Sweet Boiled Green Bean are the Bean Zodiac's most playful — they bring Green Bean's irrepressible freshness through a Sweet generosity and a Boiled patience, producing a lightness that is somehow also steady.

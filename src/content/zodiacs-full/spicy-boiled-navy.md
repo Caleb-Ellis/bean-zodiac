@@ -4,9 +4,9 @@ bean: navy
 flavour: spicy
 method: boiled
 trait: guarded
+dish: Navy bean soup with dried chili. Takes a while to open up.
 quote: Good beans make good neighbours.
-dailyFortune: Open the gate a little today.
-seasonalFortune: The gate you have been keeping this season has held the right things out as often as the wrong ones — decide before it closes what it is actually protecting.
+fortune: The gate you have been keeping this season has held the right things out as often as the wrong ones — decide before it closes what it is actually protecting.
 ---
 
 Beans born in the Season of the Spicy Boiled Navy Bean are the Bean Zodiac's most guarded — there is something significant held in reserve, and they are in no hurry to release it.

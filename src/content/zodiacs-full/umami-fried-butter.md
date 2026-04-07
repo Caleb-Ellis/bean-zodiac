@@ -4,9 +4,9 @@ bean: butter
 flavour: umami
 method: fried
 trait: pragmatic
+dish: Butter bean patties with soy and mushroom. It works.
 quote: If it works, it's a bean.
-dailyFortune: Choose the solution that actually solves the problem.
-seasonalFortune: The practical approach has served this season — leave one small opening for the thing that resists it, and attend to what it turns out to contain.
+fortune: The practical approach has served this season — leave one small opening for the thing that resists it, and attend to what it turns out to contain.
 ---
 
 Beans born in the Season of the Umami Fried Butter Bean are the Bean Zodiac's most pragmatic — they are not interested in whether a solution is elegant, only in whether it works, and they arrive at this position without guilt.

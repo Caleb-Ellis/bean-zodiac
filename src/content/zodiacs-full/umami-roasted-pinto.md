@@ -4,9 +4,9 @@ bean: pinto
 flavour: umami
 method: roasted
 trait: detached
+dish: Roasted pinto with umami glaze. Observing from a distance. Interesting.
 quote: I have bean watching from a great height for so long.
-dailyFortune: Come down from the overview and get into the texture of something.
-seasonalFortune: The view has been informative this season — descend into one thing fully, and let what you observe from above be richer for having been there.
+fortune: The view has been informative this season — descend into one thing fully, and let what you observe from above be richer for having been there.
 ---
 
 Beans born in the Season of the Umami Roasted Pinto Bean are the Bean Zodiac's most detached — present, warm, and observing from a comfortable distance that has grown too comfortable.

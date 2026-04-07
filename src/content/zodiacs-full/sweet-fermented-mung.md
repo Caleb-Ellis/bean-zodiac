@@ -4,9 +4,9 @@ bean: mung
 flavour: sweet
 method: fermented
 trait: gentle
+dish: Mung with sweet fermented rice and cardamom. Soft. Careful.
 quote: In a bean world, the most rebellious thing you can do is be gentle.
-dailyFortune: Handle the difficult thing with care today.
-seasonalFortune: Turn the gentleness inward this season — not as an afterthought, but with the same precision you extend to everyone else.
+fortune: Turn the gentleness inward this season — not as an afterthought, but with the same precision you extend to everyone else.
 ---
 
 Beans born in the Season of the Sweet Fermented Mung Bean are the Bean Zodiac's most gentle — a quality they have arrived at not from softness but from long interior consideration of what, exactly, care requires.

@@ -4,9 +4,9 @@ bean: black
 flavour: spicy
 method: boiled
 trait: tenacious
+dish: Black bean soup with árbol chili. Doesn't stop.
 quote: It does not matter how slowly you go as long as you do not bean.
-dailyFortune: You are closer than the difficulty suggests.
-seasonalFortune: The hold that has cost you most this season is also the thing proving your shape — what does not yield does not disappear.
+fortune: The hold that has cost you most this season is also the thing proving your shape — what does not yield does not disappear.
 ---
 
 Beans born in the Season of the Spicy Boiled Black Bean are the Bean Zodiac's most tenacious — not as a performance of will, but as a quality so inherent to their structure that applying heat and pressure simply reveals it.

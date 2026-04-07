@@ -4,9 +4,9 @@ bean: edamame
 flavour: umami
 method: roasted
 trait: attentive
+dish: Roasted edamame with umami salt. Listening. Noticing.
 quote: To pay bean attention, this is our endless and proper work.
-dailyFortune: Give the person in front of you your full attention today.
-seasonalFortune: The full presence you have given this season has mattered more than you know — distinguish, once, between being present and being available to everyone.
+fortune: The full presence you have given this season has mattered more than you know — distinguish, once, between being present and being available to everyone.
 ---
 
 Beans born in the Season of the Umami Roasted Edamame are the Bean Zodiac's most attentive — they are fully present in ways most people manage only occasionally, and the people they attend to can feel the difference.

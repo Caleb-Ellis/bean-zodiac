@@ -4,9 +4,9 @@ bean: pinto
 flavour: umami
 method: fermented
 trait: apathetic
+dish: Pinto in fermented umami sauce. It's fine. Doesn't matter.
 quote: The opposite of bean is not hate, it's indifference.
-dailyFortune: Find one thing today that you can be genuinely interested in.
-seasonalFortune: The feeling that went quiet will return this season — follow the first small sign of it back, without waiting for certainty.
+fortune: The feeling that went quiet will return this season — follow the first small sign of it back, without waiting for certainty.
 ---
 
 Beans born in the Season of the Umami Fermented Pinto Bean are the Bean Zodiac's most apathetic — they have felt things so thoroughly that feeling has become, for now, exhausting.

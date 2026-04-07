@@ -4,9 +4,9 @@ bean: pinto
 flavour: spicy
 method: fried
 trait: chaotic
+dish: Pinto stir-fry with everything spicy and no plan. Glorious.
 quote: In the middle of every bean lies opportunity.
-dailyFortune: Find the useful thing in the mess before you clean it up.
-seasonalFortune: The wake of this season is full of things worth finishing — choose one and stay with it past the point of interest, into the quieter country where the actual thing is.
+fortune: The wake of this season is full of things worth finishing — choose one and stay with it past the point of interest, into the quieter country where the actual thing is.
 ---
 
 Beans born in the Season of the Spicy Fried Pinto Bean are the Bean Zodiac's most chaotic — they leave a wake, and something in the wake is always interesting.

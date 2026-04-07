@@ -4,9 +4,9 @@ bean: kidney
 flavour: sour
 method: roasted
 trait: fairness-minded
+dish: Roasted kidney beans with balanced citrus and spice. Everyone gets the same.
 quote: Injustice anywhere is a threat to bean everywhere.
-dailyFortune: Speak up for the fair outcome today.
-seasonalFortune: The fairness this season has been the kind that changes things — what you built by insisting on it will outlast the season that required it.
+fortune: The fairness this season has been the kind that changes things — what you built by insisting on it will outlast the season that required it.
 ---
 
 Beans born in the Season of the Sour Roasted Kidney Bean are the Bean Zodiac's most fairness-minded — their warmth is not just generous; it insists on being distributed evenly.

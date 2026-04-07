@@ -4,9 +4,9 @@ bean: mung
 flavour: sour
 method: roasted
 trait: sensitive
+dish: Roasted mung with light tamarind glaze. Feels the edges of things.
 quote: Nothing is so strong as bean-ness.
-dailyFortune: Let yourself feel today.
-seasonalFortune: The sensitivity this season has been registering correctly — act on what it has been telling you, selectively, and with care.
+fortune: The sensitivity this season has been registering correctly — act on what it has been telling you, selectively, and with care.
 ---
 
 Beans born in the Season of the Sour Roasted Mung Bean are the Bean Zodiac's most sensitive — they register everything, including what was not said, and they hold it with a warmth that makes them extraordinary company.

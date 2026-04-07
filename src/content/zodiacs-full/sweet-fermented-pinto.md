@@ -4,9 +4,9 @@ bean: pinto
 flavour: sweet
 method: fermented
 trait: anxious
+dish: Pinto in sweet fermented sauce, checked and rechecked. Probably fine.
 quote: My bean is afraid of it, and yet I still want to do it.
-dailyFortune: Write down the specific thing you are worried about.
-seasonalFortune: The preparation was thorough — this season, stop at good enough and step into the room.
+fortune: The preparation was thorough — this season, stop at good enough and step into the room.
 ---
 
 Beans born in the Season of the Sweet Fermented Pinto Bean are the Bean Zodiac's most anxious — they have already run every scenario, and several of them did not go well.

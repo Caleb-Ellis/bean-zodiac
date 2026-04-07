@@ -4,9 +4,9 @@ bean: adzuki
 flavour: spicy
 method: fried
 trait: irrepressible
+dish: Pan-fried adzuki with chili crisp. Cannot be contained.
 quote: Don't stop me now - I'm having such a good bean!
-dailyFortune: Stop containing it.
-seasonalFortune: The energy you have released this season has been the right kind — now aim it at the thing most worth the full temperature, not at whatever is in range.
+fortune: The energy you have released this season has been the right kind — now aim it at the thing most worth the full temperature, not at whatever is in range.
 ---
 
 Beans born in the Season of the Spicy Fried Adzuki Bean are the Bean Zodiac's most irrepressible — the Adzuki's instinct for celebration, through Spicy's demanding heat and Fried's refusal to wait, produces something that cannot be contained, only received.

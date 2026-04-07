@@ -4,9 +4,9 @@ bean: mung
 flavour: sweet
 method: fried
 trait: impractical
+dish: Sweet mung pancakes with elaborate garnish. Takes longer than it should.
 quote: Heart in the right place, bean in the wrong pot!
-dailyFortune: The gesture will land.
-seasonalFortune: Ask what would actually help before the oil is hot — the gesture will still be genuine this season, and it will land somewhere it is needed.
+fortune: Ask what would actually help before the oil is hot — the gesture will still be genuine this season, and it will land somewhere it is needed.
 ---
 
 Beans born in the Season of the Sweet Fried Mung Bean are the Bean Zodiac's most impractical — they are moved to help before they have worked out how, and they go ahead anyway.

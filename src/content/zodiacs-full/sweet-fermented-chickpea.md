@@ -4,9 +4,9 @@ bean: chickpea
 flavour: sweet
 method: fermented
 trait: empathetic
+dish: Chickpea with sweet fermented lemon. Meets you where you are.
 quote: Could a greater bean miracle take place than for us to look through each other's eyes for an instant?
-dailyFortune: Someone near you is carrying something they haven't named.
-seasonalFortune: Know where you end before taking on what belongs to someone else — your own interior needs attending to this season.
+fortune: Know where you end before taking on what belongs to someone else — your own interior needs attending to this season.
 ---
 
 Beans born in the Season of the Sweet Fermented Chickpea are the Bean Zodiac's most empathetic — they feel the texture of what someone else is carrying, often before that person has named it to themselves, and this is not a skill they learned but a way they are built.

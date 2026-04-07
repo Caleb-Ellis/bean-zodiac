@@ -4,9 +4,9 @@ bean: mung
 flavour: spicy
 method: fermented
 trait: compulsive
+dish: Mung with gochujang ferment. Repeated. Refined. Repeated.
 quote: The chains of bean are too light to be felt until they are too heavy to be broken.
-dailyFortune: Interrupt the loop once today.
-seasonalFortune: The loop that has run longest this season is the one most worth interrupting — not to end it, but to find out what you do in the gap.
+fortune: The loop that has run longest this season is the one most worth interrupting — not to end it, but to find out what you do in the gap.
 ---
 
 Beans born in the Season of the Spicy Fermented Mung Bean are the Bean Zodiac's most compulsive — they return to certain things with a regularity that puzzles them, drawn back before they have finished leaving.

@@ -4,9 +4,9 @@ bean: mung
 flavour: sour
 method: fermented
 trait: insecure
+dish: Mung with fermented rice water and lime. Wonders if it's enough.
 quote: To bean oneself is the beginning of a lifelong romance.
-dailyFortune: Notice one thing you did well today.
-seasonalFortune: The insecurity this season has been sharp, but the signal-to-noise ratio is improving — act on the signal this season, and let the noise run down on its own.
+fortune: The insecurity this season has been sharp, but the signal-to-noise ratio is improving — act on the signal this season, and let the noise run down on its own.
 ---
 
 Beans born in the Season of the Sour Fermented Mung Bean are the Bean Zodiac's most insecure — they have developed, through long interior processing, an exquisitely detailed understanding of everything they might be getting wrong.

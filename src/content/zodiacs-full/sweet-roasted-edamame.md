@@ -4,9 +4,9 @@ bean: edamame
 flavour: sweet
 method: roasted
 trait: diligent
+dish: Roasted edamame with sweet soy glaze. Earns it.
 quote: Excellence is never granted to a bean; it must be earned.
-dailyFortune: Do the work carefully today.
-seasonalFortune: The work is good enough this season — trust it and let it go.
+fortune: The work is good enough this season — trust it and let it go.
 ---
 
 Beans born in the Season of the Sweet Roasted Edamame are the Bean Zodiac's most diligent — they do the work carefully and completely, not because they are perfectionists but because carelessness offends them on a practical level.

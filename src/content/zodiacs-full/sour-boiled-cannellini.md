@@ -4,9 +4,9 @@ bean: cannellini
 flavour: sour
 method: boiled
 trait: exacting
+dish: Cannellini in sorrel broth, balanced to the milliliter. Precision.
 quote: Good enough is the enemy of the bean.
-dailyFortune: Hold the standard today, even when it would be easier to let something slide.
-seasonalFortune: The standard has held this season and so have you — what you are building will be worth the effort when it is finished.
+fortune: The standard has held this season and so have you — what you are building will be worth the effort when it is finished.
 ---
 
 Beans born in the Season of the Sour Boiled Cannellini Bean are the Bean Zodiac's most exacting — they hold a standard, and they hold it consistently, across contexts, over time, without softening when the occasion makes softening tempting.

@@ -4,9 +4,9 @@ bean: adzuki
 flavour: umami
 method: boiled
 trait: affectionate
+dish: Adzuki in mushroom dashi. Warm. Close. For you.
 quote: All you need is bean.
-dailyFortune: Tell the person you have been thinking about that you have been thinking about them.
-seasonalFortune: Affection this season is not a single statement — it is the pattern of returning.
+fortune: Affection this season is not a single statement — it is the pattern of returning.
 ---
 
 Beans born in the Season of the Umami Boiled Adzuki Bean are the Bean Zodiac's most affectionate — they hold the people they love with a depth and consistency that becomes structural, the kind of care that other Beans build their seasons around.

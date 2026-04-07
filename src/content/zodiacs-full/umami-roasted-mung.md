@@ -4,9 +4,9 @@ bean: mung
 flavour: umami
 method: roasted
 trait: melancholy
+dish: Roasted mung with miso and dark sesame. Beautiful. Sad somehow.
 quote: Sadness is but a bean of the wall beside the window, through which your joy shall look out.
-dailyFortune: Allow your sadness to be present today.
-seasonalFortune: What is grieved this season deserves its full time — and when the grief has been honoured, let the present room have a turn.
+fortune: What is grieved this season deserves its full time — and when the grief has been honoured, let the present room have a turn.
 ---
 
 Beans born in the Season of the Umami Roasted Mung Bean are the Bean Zodiac's most melancholy — not unhappy, but given to a depth of feeling that keeps one foot in what has passed and what will not come back.

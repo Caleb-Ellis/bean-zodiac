@@ -4,9 +4,9 @@ bean: fava
 flavour: spicy
 method: boiled
 trait: unyielding
+dish: Ful medames with harissa. Won't move.
 quote: I am not a bean to be argued out of what I know to be right.
-dailyFortune: Hold your position today.
-seasonalFortune: What you have held firm on this season is real — ask once, before the season ends, whether the thing you are holding against is the situation or the feedback.
+fortune: What you have held firm on this season is real — ask once, before the season ends, whether the thing you are holding against is the situation or the feedback.
 ---
 
 Beans born in the Season of the Spicy Boiled Fava Bean are the Bean Zodiac's most unyielding — once they have decided something is worth doing, nothing rearranges that conviction. Not obstruction, not exhaustion, not the accumulated pressure of people who want them to stop.

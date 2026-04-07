@@ -4,9 +4,9 @@ bean: adzuki
 flavour: sweet
 method: roasted
 trait: generous
+dish: Roasted sweet adzuki with dates and sesame. Takes the best portion and gives it away.
 quote: Take it! Take more! I'll make another batch!
-dailyFortune: Give the thing you were going to hold back.
-seasonalFortune: Let the generosity flow both ways this season — allow someone to bring the thing, and eat it without trying to top it.
+fortune: Let the generosity flow both ways this season — allow someone to bring the thing, and eat it without trying to top it.
 ---
 
 Beans born in the Season of the Sweet Roasted Adzuki Bean are the Bean Zodiac's most generous — the Adzuki's gift for celebration, Sweet's effortless warmth, and Roasted's radiant heat combine into a Bean who gives with a completeness that others return to.

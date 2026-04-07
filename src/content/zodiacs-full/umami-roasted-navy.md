@@ -4,9 +4,9 @@ bean: navy
 flavour: umami
 method: roasted
 trait: wistful
+dish: Roasted navy bean with soy and herbs. Remembers something. Not sure what.
 quote: We shall not cease from bean exploration, and the end of all our exploring will be to arrive where we started.
-dailyFortune: Sit with the ache today.
-seasonalFortune: What you have been faithful to this season is real — the current room also contains something worth that same faithfulness.
+fortune: What you have been faithful to this season is real — the current room also contains something worth that same faithfulness.
 ---
 
 Beans born in the Season of the Umami Roasted Navy Bean are the Bean Zodiac's most wistful — they carry the warmth of what has already passed, and they carry it faithfully.

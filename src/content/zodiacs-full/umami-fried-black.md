@@ -4,9 +4,9 @@ bean: black
 flavour: umami
 method: fried
 trait: focused
+dish: Black beans stir-fried in oyster sauce. One thing, done completely.
 quote: The bean's rays do not burn until brought to a focus.
-dailyFortune: The single thing deserves your full attention.
-seasonalFortune: The exclusion has been correct this season — return briefly to the periphery before the season ends, and confirm nothing important has been lost there.
+fortune: The exclusion has been correct this season — return briefly to the periphery before the season ends, and confirm nothing important has been lost there.
 ---
 
 Beans born in the Season of the Umami Fried Black Bean are the Bean Zodiac's most focused — not because they ignore what surrounds them, but because they have already weighed it, determined what matters, and narrowed to that thing completely.

@@ -4,9 +4,9 @@ bean: kidney
 flavour: sweet
 method: roasted
 trait: overprotective
+dish: Roasted kidney beans with sweet tomato and herbs. Won't let go.
 quote: The bean loved too well, that is the trouble.
-dailyFortune: Ask yourself whether your protection is giving someone confidence.
-seasonalFortune: Love expressed as enclosure is still enclosure — trust this season that the people you care for can move freely and still come back.
+fortune: Love expressed as enclosure is still enclosure — trust this season that the people you care for can move freely and still come back.
 ---
 
 Beans born in the Season of the Sweet Roasted Kidney Bean are the Bean Zodiac's most overprotective — the warmth is real, the care is genuine, and the difficulty is that both have a radius that is very hard to leave.

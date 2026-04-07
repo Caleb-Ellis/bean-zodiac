@@ -4,9 +4,9 @@ bean: fava
 flavour: umami
 method: roasted
 trait: defiant
+dish: Roasted fava with strong miso. On its own terms.
 quote: They tried to bury us. They didn't know we were beans.
-dailyFortune: Refuse the verdict that others have handed down for you today.
-seasonalFortune: What you have been building this season sustains you as much as what you have been refusing — make sure both continue in the next.
+fortune: What you have been building this season sustains you as much as what you have been refusing — make sure both continue in the next.
 ---
 
 Beans born in the Season of the Umami Roasted Fava Bean are the Bean Zodiac's most defiant — they refuse what has been decided for them, and they do this with a warmth and fullness that makes it clear the refusal is not a wound but a position.

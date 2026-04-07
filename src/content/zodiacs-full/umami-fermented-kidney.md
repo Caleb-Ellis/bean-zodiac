@@ -4,9 +4,9 @@ bean: kidney
 flavour: umami
 method: fermented
 trait: conflicted
+dish: Kidney bean in miso with competing umami notes. Pulls in two directions.
 quote: The heart has its bean that reason knows not of.
-dailyFortune: Name the two things pulling at you without trying to resolve them yet.
-seasonalFortune: The tension has not resolved, and this season it does not need to — live with it honestly and let both sides of it be real.
+fortune: The tension has not resolved, and this season it does not need to — live with it honestly and let both sides of it be real.
 ---
 
 Beans born in the Season of the Umami Fermented Kidney Bean are the Bean Zodiac's most conflicted — they carry more than one thing that matters deeply, and the things do not always agree.

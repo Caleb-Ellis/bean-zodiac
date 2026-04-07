@@ -4,9 +4,9 @@ bean: green
 flavour: bitter
 method: roasted
 trait: competitive
+dish: Green beans roasted hard with bitter almonds. Determined to win.
 quote: Beaning isn't everything, but wanting to is.
-dailyFortune: Do the most. Be the best.
-seasonalFortune: The season's gap between effort and result is not failure — it is evidence, and evidence can be used.
+fortune: The season's gap between effort and result is not failure — it is evidence, and evidence can be used.
 ---
 
 Beans born in the Season of the Bitter Roasted Green Bean are the Bean Zodiac's most competitive — not coldly so, but with a particular warmth: they need to win, and they want you to see them do it.

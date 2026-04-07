@@ -4,9 +4,9 @@ bean: navy
 flavour: spicy
 method: roasted
 trait: self-reliant
+dish: Roasted navy bean with chili oil. Needs nothing from you.
 quote: Trust thyself - every bean vibrates to that iron string.
-dailyFortune: Stop waiting for permission.
-seasonalFortune: The season has offered more than you accepted — notice what you turned away from habit rather than necessity, and let the next season take a little more of what is genuinely available.
+fortune: The season has offered more than you accepted — notice what you turned away from habit rather than necessity, and let the next season take a little more of what is genuinely available.
 ---
 
 Beans born in the Season of the Spicy Roasted Navy Bean are the Bean Zodiac's most self-reliant — they have learned to supply what they need from their own resources, and the habit has held.

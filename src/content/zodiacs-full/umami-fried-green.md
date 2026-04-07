@@ -4,9 +4,9 @@ bean: green
 flavour: umami
 method: fried
 trait: overachieving
+dish: Green beans stir-fried with oyster sauce. Already doing more.
 quote: Whatever you are, bean a good one.
-dailyFortune: Aim higher than the brief requires today.
-seasonalFortune: What has been built this season is more than was asked — allow yourself, once, to do the ordinary thing and let that be enough.
+fortune: What has been built this season is more than was asked — allow yourself, once, to do the ordinary thing and let that be enough.
 ---
 
 Beans born in the Season of the Umami Fried Green Bean are the Bean Zodiac's most overachieving — whatever the task, they are already planning how to do twice as much, and somehow, frequently, managing it.

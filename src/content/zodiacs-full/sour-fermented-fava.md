@@ -4,9 +4,9 @@ bean: fava
 flavour: sour
 method: fermented
 trait: contrarian
+dish: Fava in sour fermented brine with mint. Taking the other position, as always.
 quote: Whenever you find yourself on the side of the majority, it is time to bean and reflect.
-dailyFortune: If everyone in the room agrees, ask the question they didn't.
-seasonalFortune: The contrarian position held this season has been load-bearing — trust that the consensus it is pushing back against still needs what you are offering.
+fortune: The contrarian position held this season has been load-bearing — trust that the consensus it is pushing back against still needs what you are offering.
 ---
 
 Beans born in the Season of the Sour Fermented Fava Bean are the Bean Zodiac's most contrarian — they don't hold the minority position to be difficult; they hold it because they have looked at the majority position from every angle and found somewhere it doesn't hold.

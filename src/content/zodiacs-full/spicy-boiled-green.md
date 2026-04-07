@@ -4,9 +4,9 @@ bean: green
 flavour: spicy
 method: boiled
 trait: zealous
+dish: Green bean stew with chili and full conviction. No such thing as too much.
 quote: I have nothing to offer but bean, toil, tears and sweat.
-dailyFortune: Pour yourself into today's work.
-seasonalFortune: The cause has enough heat this season — what it needs now is room for others to arrive in their own time, not yours.
+fortune: The cause has enough heat this season — what it needs now is room for others to arrive in their own time, not yours.
 ---
 
 Beans born in the Season of the Spicy Boiled Green Bean are the Bean Zodiac's most zealous — they have a cause and the steady heat to keep driving it forward, long past the point where others have lost the thread.

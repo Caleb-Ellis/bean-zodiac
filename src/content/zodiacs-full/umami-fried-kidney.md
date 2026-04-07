@@ -4,9 +4,9 @@ bean: kidney
 flavour: umami
 method: fried
 trait: moralistic
+dish: Kidney bean fried with miso. Has principles. Will tell you.
 quote: Moralising and bean are two arts that seldom go together.
-dailyFortune: Lead by example today.
-seasonalFortune: The conviction has been consistent and correct this season — find the form that allows others to arrive at it themselves, without being led.
+fortune: The conviction has been consistent and correct this season — find the form that allows others to arrive at it themselves, without being led.
 ---
 
 Beans born in the Season of the Umami Fried Kidney Bean are the Bean Zodiac's most moralistic — they have developed strong convictions about how things should go, and they are not prepared to stay quiet while they go another way.

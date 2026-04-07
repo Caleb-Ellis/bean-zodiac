@@ -4,9 +4,9 @@ bean: mung
 flavour: sweet
 method: boiled
 trait: nurturing
+dish: Sweet mung bean soup with coconut milk. Wants you to feel better.
 quote: It takes a village to raise a bean.
-dailyFortune: Do one small thing today to make someone else's environment better.
-seasonalFortune: The environment you have been quietly building for others this season — allow someone to build a small part of it for you.
+fortune: The environment you have been quietly building for others this season — allow someone to build a small part of it for you.
 ---
 
 Beans born in the Season of the Sweet Boiled Mung Bean are the Bean Zodiac's most nurturing — they do not make a feature of the care they give; they simply ensure that the Beans around them have what they need before those Beans have thought to ask.

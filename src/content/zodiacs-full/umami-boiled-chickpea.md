@@ -4,9 +4,9 @@ bean: chickpea
 flavour: umami
 method: boiled
 trait: adaptable
+dish: Chickpea in miso broth with kombu. Works in any direction.
 quote: The measure of intelligence is the bean ability to change.
-dailyFortune: The environment has shifted again.
-seasonalFortune: The thread through every version of you this season is the same Bean — let that continuity be confidence, not caveat.
+fortune: The thread through every version of you this season is the same Bean — let that continuity be confidence, not caveat.
 ---
 
 Beans born in the Season of the Umami Boiled Chickpea are the Bean Zodiac's most adaptable — not in the quick sense of bending to a new situation, but in the deep sense of being constitutionally open to becoming something different over time, and doing it with patience and without loss of self.

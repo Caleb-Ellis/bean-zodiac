@@ -4,9 +4,9 @@ bean: cannellini
 flavour: sweet
 method: fried
 trait: expressive
+dish: Cannellini in sweet crispy batter with fresh herbs. Says so.
 quote: I am not afraid of storms, for I am learning how to bean my sail.
-dailyFortune: Say the thing you have been keeping inside.
-seasonalFortune: Read the room before you fill it this season — not to contain yourself, but to find the opening where what you have to say will actually land.
+fortune: Read the room before you fill it this season — not to contain yourself, but to find the opening where what you have to say will actually land.
 ---
 
 Beans born in the Season of the Sweet Fried Cannellini Bean are the Bean Zodiac's most expressive — what they feel moves immediately to the surface, and it arrives there with the elegance the Cannellini applies to everything.

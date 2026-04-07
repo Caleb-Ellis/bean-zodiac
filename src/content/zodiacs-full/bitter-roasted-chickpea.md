@@ -4,9 +4,9 @@ bean: chickpea
 flavour: bitter
 method: roasted
 trait: outgoing
+dish: Roasted chickpea with bitter spice and plenty to share. Come over.
 quote: You catch more beans with honey.
-dailyFortune: The room you have been avoiding is full of people worth knowing.
-seasonalFortune: This season, give yourself one long evening without the company of others — what comes up in that quiet is worth knowing.
+fortune: This season, give yourself one long evening without the company of others — what comes up in that quiet is worth knowing.
 ---
 
 Beans born in the Season of the Bitter Roasted Chickpea are the Bean Zodiac's most outgoing — they move toward people as a matter of course, with a warmth that is genuine and a curiosity about who they are meeting that is, for these Beans, never quite satisfied.

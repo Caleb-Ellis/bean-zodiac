@@ -4,9 +4,9 @@ bean: cannellini
 flavour: spicy
 method: roasted
 trait: charismatic
+dish: Roasted cannellini with chili oil and fresh herbs. Takes over the room.
 quote: The bean enters the room before you do.
-dailyFortune: Bring someone on the edge of the conversation into it.
-seasonalFortune: The room has formed its impression of you this season — hold your own alongside it, and stay connected to what you actually think, independent of how you are being received.
+fortune: The room has formed its impression of you this season — hold your own alongside it, and stay connected to what you actually think, independent of how you are being received.
 ---
 
 Beans born in the Season of the Spicy Roasted Cannellini Bean are the Bean Zodiac's most charismatic — the room changes when they arrive, the conversation finds a new centre of gravity, and people who have never met them have already formed an impression.

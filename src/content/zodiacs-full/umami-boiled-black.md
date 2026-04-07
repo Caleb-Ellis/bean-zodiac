@@ -4,9 +4,9 @@ bean: black
 flavour: umami
 method: boiled
 trait: patient
+dish: Black bean and mushroom soup, long-simmered. Waits as long as needed.
 quote: Patience is bitter, but its bean is sweet.
-dailyFortune: The thing you are waiting for is still happening.
-seasonalFortune: The waiting is not passivity — this season, let those around you see that the patience has direction.
+fortune: The waiting is not passivity — this season, let those around you see that the patience has direction.
 ---
 
 Beans born in the Season of the Umami Boiled Black Bean are the Bean Zodiac's most patient — not through suppression of urgency, but because they have never quite believed that faster was better, and everything they have encountered has confirmed it.

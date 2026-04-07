@@ -4,9 +4,9 @@ bean: edamame
 flavour: sour
 method: fermented
 trait: skeptical
+dish: Edamame in sour fermented citrus sauce. Show the evidence.
 quote: The first bean principle is that you must not fool yourself — and you are the easiest bean to fool.
-dailyFortune: Your instinct to question this is correct.
-seasonalFortune: The skepticism this season is warranted — but the investigation has gone long enough, and this is the season to arrive at the conviction the questioning was preparing you for.
+fortune: The skepticism this season is warranted — but the investigation has gone long enough, and this is the season to arrive at the conviction the questioning was preparing you for.
 ---
 
 Beans born in the Season of the Sour Fermented Edamame are the Bean Zodiac's most skeptical — not cynical, but constitutionally resistant to accepting things at the level they are offered. They need to know what is underneath.

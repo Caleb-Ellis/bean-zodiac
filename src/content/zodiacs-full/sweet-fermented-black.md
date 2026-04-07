@@ -4,9 +4,9 @@ bean: black
 flavour: sweet
 method: fermented
 trait: contemplative
+dish: Black bean with sweet miso and dark honey. Sits with things.
 quote: I think, therefore I am a bean.
-dailyFortune: The thing you have been considering is further along than you think.
-seasonalFortune: What you have been thinking about this season is ready — find the form that makes it available to someone other than you.
+fortune: What you have been thinking about this season is ready — find the form that makes it available to someone other than you.
 ---
 
 Beans born in the Season of the Sweet Fermented Black Bean are the Bean Zodiac's most contemplative — not withdrawn or remote, but genuinely occupied with an interior that has been working for a long time and has not yet shown everything it has found.

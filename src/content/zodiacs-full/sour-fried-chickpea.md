@@ -4,9 +4,9 @@ bean: chickpea
 flavour: sour
 method: fried
 trait: shrewd
+dish: Chickpea with sumac crust and tangy yogurt. Knows the angles.
 quote: Politics is the art of looking for trouble, finding it everywhere, diagnosing it incorrectly, and applying the wrong beans.
-dailyFortune: You read the situation correctly.
-seasonalFortune: The reading this season has been accurate — trust it over the coming months, even when what you see is not what anyone else is saying.
+fortune: The reading this season has been accurate — trust it over the coming months, even when what you see is not what anyone else is saying.
 ---
 
 Beans born in the Season of the Sour Fried Chickpea are the Bean Zodiac's most shrewd — they read people and situations with a speed and accuracy that can seem like luck, until you notice it keeps happening.

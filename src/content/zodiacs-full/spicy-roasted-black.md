@@ -4,9 +4,9 @@ bean: black
 flavour: spicy
 method: roasted
 trait: magnetic
+dish: Black bean and chipotle dip, oven-roasted. Draws everyone over.
 quote: Some beans walk in the rain, others just get wet.
-dailyFortune: Your presence is doing more than you know today.
-seasonalFortune: The pull has been strong this season and the room has filled — decide now what you want it to keep drawing in, before the accumulation chooses for you.
+fortune: The pull has been strong this season and the room has filled — decide now what you want it to keep drawing in, before the accumulation chooses for you.
 ---
 
 Beans born in the Season of the Spicy Roasted Black Bean are the Bean Zodiac's most magnetic — not through effort or strategy, but through the combination of depth and heat that makes something in the room orient toward them before anyone has decided to.

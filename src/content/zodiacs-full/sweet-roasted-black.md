@@ -4,9 +4,9 @@ bean: black
 flavour: sweet
 method: roasted
 trait: resilient
+dish: Black bean roasted with brown sugar and chipotle. Comes back.
 quote: That which does not bean us makes us stronger.
-dailyFortune: You have come back from harder things than this.
-seasonalFortune: Let the difficulty be named this season — resilience that goes unacknowledged suggests it wasn't real, and it was.
+fortune: Let the difficulty be named this season — resilience that goes unacknowledged suggests it wasn't real, and it was.
 ---
 
 Beans born in the Season of the Sweet Roasted Black Bean are the Bean Zodiac's most resilient — not through toughness or refusal to feel, but through a warmth and fundamental solidity that allows them to flex under pressure and return without fracturing.

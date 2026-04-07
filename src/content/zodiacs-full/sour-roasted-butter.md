@@ -4,9 +4,9 @@ bean: butter
 flavour: sour
 method: roasted
 trait: guileless
+dish: Roasted butter bean with preserved lemon. Open. Honest.
 quote: To bean or not to bean — actually, yes, obviously. Why would you not.
-dailyFortune: Take people at their word today.
-seasonalFortune: The guilelessness this season has mostly been repaid — the exceptions are the minority, and they are the cost of the thing, not the thing itself.
+fortune: The guilelessness this season has mostly been repaid — the exceptions are the minority, and they are the cost of the thing, not the thing itself.
 ---
 
 Beans born in the Season of the Sour Roasted Butter Bean are the Bean Zodiac's most guileless — there is nothing behind the thing they say, no second meaning in the gesture, no version of their face that is not the true version.

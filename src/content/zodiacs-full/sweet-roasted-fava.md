@@ -4,9 +4,9 @@ bean: fava
 flavour: sweet
 method: roasted
 trait: outspoken
+dish: Roasted fava with sweet harissa. Speaks before thinking. Worth hearing.
 quote: If you have an important bean to make, don't try to be subtle or clever. Use a pile driver.
-dailyFortune: Say the thing clearly today.
-seasonalFortune: Read the room before filling it this season — not to become subtle, but to find the moment where the clear thing lands rather than cuts.
+fortune: Read the room before filling it this season — not to become subtle, but to find the moment where the clear thing lands rather than cuts.
 ---
 
 Beans born in the Season of the Sweet Roasted Fava Bean are the Bean Zodiac's most outspoken — they say the thing, clearly and warmly, and they don't particularly understand why more Beans don't.

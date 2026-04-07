@@ -4,9 +4,9 @@ bean: fava
 flavour: bitter
 method: boiled
 trait: courageous
+dish: Ful medames with bitter orange zest and cumin. Old and unafraid.
 quote: Courage is not the absence of bean, but the triumph over it.
-dailyFortune: Step toward the thing that scares you today.
-seasonalFortune: The hard thing in front of you this season deserves the courage — but verify first that it is worth facing, not only that it is difficult.
+fortune: The hard thing in front of you this season deserves the courage — but verify first that it is worth facing, not only that it is difficult.
 ---
 
 Beans born in the Season of the Bitter Boiled Fava Bean are the Bean Zodiac's most courageous — they do not court the easy thing. Where others weigh the risk, these Beans have already started moving.

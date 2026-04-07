@@ -4,9 +4,9 @@ bean: navy
 flavour: sweet
 method: fermented
 trait: introverted
+dish: Sweet fermented navy bean soup, made alone, enjoyed quietly. That's enough.
 quote: I am a bean of solitude; the fire of thought does not require witnesses.
-dailyFortune: Protect an hour of quiet today.
-seasonalFortune: The warmth inside has been building — bring some of it out this season, not as performance, but as the fact of what is there.
+fortune: The warmth inside has been building — bring some of it out this season, not as performance, but as the fact of what is there.
 ---
 
 Beans born in the Season of the Sweet Fermented Navy Bean are the Bean Zodiac's most introverted — they have a rich inner world and they live in it comfortably, without feeling that it requires exhibition.

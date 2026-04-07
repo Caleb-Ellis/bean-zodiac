@@ -4,9 +4,9 @@ bean: navy
 flavour: bitter
 method: boiled
 trait: dogmatic
+dish: Navy bean and escarole soup. This way. Not another.
 quote: A bean convinced against his will is of the same opinion still.
-dailyFortune: Someone today holds a view that challenges yours — try listening to the whole argument before deciding they are wrong.
-seasonalFortune: This season, find the oldest principle you hold and ask once whether the evidence it was built on still stands.
+fortune: This season, find the oldest principle you hold and ask once whether the evidence it was built on still stands.
 ---
 
 Beans born in the Season of the Bitter Boiled Navy Bean are the Bean Zodiac's most dogmatic — not in the small sense of stubbornness, but in the large sense: they have arrived at a framework for the world and they apply it fully, without exceptions.

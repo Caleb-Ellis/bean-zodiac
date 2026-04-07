@@ -4,9 +4,9 @@ bean: green
 flavour: bitter
 method: fried
 trait: excitable
+dish: Green beans in bitter sizzling butter with walnuts. Loud about it.
 quote: Nothing great in the bean world was ever achieved without enthusiasm.
-dailyFortune: Let your excitement be contagious today.
-seasonalFortune: The thing that did not pass the filter this season was correctly left behind — save the full sprint for what is genuinely worth it.
+fortune: The thing that did not pass the filter this season was correctly left behind — save the full sprint for what is genuinely worth it.
 ---
 
 Beans born in the Season of the Bitter Fried Green Bean are the Bean Zodiac's most excitable — they bring all of Green Bean's enthusiasm at full volume, with Fried's heat behind it, barely held in check by a Bitter clarity that knows exactly what is worth it.

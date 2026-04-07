@@ -4,9 +4,9 @@ bean: chickpea
 flavour: spicy
 method: roasted
 trait: sociable
+dish: Roasted chickpea with berbere, meant to share. Pull up a chair.
 quote: No bean is an island.
-dailyFortune: The gathering you have been half-planning is worth making real.
-seasonalFortune: The warmth this season has been genuine and wide — find one room to stay in past the comfortable first hour, and let the depth arrive.
+fortune: The warmth this season has been genuine and wide — find one room to stay in past the comfortable first hour, and let the depth arrive.
 ---
 
 Beans born in the Season of the Spicy Roasted Chickpea are the Bean Zodiac's most sociable — they arrive and the room becomes a better room, not through effort or charm deployed as a strategy, but through a genuine pleasure in people that is impossible to fake.

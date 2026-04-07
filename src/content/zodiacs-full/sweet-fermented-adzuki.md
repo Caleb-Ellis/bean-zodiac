@@ -4,9 +4,9 @@ bean: adzuki
 flavour: sweet
 method: fermented
 trait: sentimental
+dish: Fermented sweet adzuki with rose water and rice. Keeps the old things.
 quote: I kept the recipe. I kept everything.
-dailyFortune: Let it affect you.
-seasonalFortune: The feeling is not nothing — offer it this season without the caveat, and let the occasion be as large as it is.
+fortune: The feeling is not nothing — offer it this season without the caveat, and let the occasion be as large as it is.
 ---
 
 Beans born in the Season of the Sweet Fermented Adzuki Bean are the Bean Zodiac's most sentimental — they feel the weight of occasions and people with a completeness that is difficult to explain but impossible to miss.

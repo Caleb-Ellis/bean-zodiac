@@ -4,9 +4,9 @@ bean: edamame
 flavour: umami
 method: boiled
 trait: dedicated
+dish: Edamame in umami dashi with bonito. Committed.
 quote: The price of bean excellence is dedication.
-dailyFortune: Return to the thing you committed to.
-seasonalFortune: What you stayed with has become what it was trying to be — do not move on before you have acknowledged the arrival.
+fortune: What you stayed with has become what it was trying to be — do not move on before you have acknowledged the arrival.
 ---
 
 Beans born in the Season of the Umami Boiled Edamame are the Bean Zodiac's most dedicated — they commit to a thing fully and they stay with it, not out of stubbornness but because they have learned that most worthwhile things only yield to time.

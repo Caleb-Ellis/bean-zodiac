@@ -4,9 +4,9 @@ bean: kidney
 flavour: bitter
 method: boiled
 trait: loyal
+dish: Kidney bean and kale minestrone, long-simmered. Shows up. Every time.
 quote: The bean that matters most is not the one you were born with, but the one you choose to keep.
-dailyFortune: Show up for someone today, even if it costs you something small — loyalty is built in the small moments.
-seasonalFortune: The commitment you have kept this season is real — examine once whether staying still serves the one you are staying for.
+fortune: The commitment you have kept this season is real — examine once whether staying still serves the one you are staying for.
 ---
 
 Beans born in the Season of the Bitter Boiled Kidney Bean are the Bean Zodiac's most loyal — they do not give themselves easily, but once given, they do not take themselves back.

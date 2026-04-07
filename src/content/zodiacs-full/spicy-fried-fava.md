@@ -4,9 +4,9 @@ bean: fava
 flavour: spicy
 method: fried
 trait: risk-taking
+dish: Fava fritters with harissa. No fallback. Doesn't need one.
 quote: Only those who will bean far can possibly find out how far one can go.
-dailyFortune: Calculate the risk, then take it anyway.
-seasonalFortune: The risks you took this season produced results — look back now, not to second-guess, but to identify which of your instincts you can trust further next time.
+fortune: The risks you took this season produced results — look back now, not to second-guess, but to identify which of your instincts you can trust further next time.
 ---
 
 Beans born in the Season of the Spicy Fried Fava Bean are the Bean Zodiac's most risk-taking — they commit before the math is finished, enter before the temperature is confirmed, and make it work on the way through.

@@ -4,9 +4,9 @@ bean: kidney
 flavour: umami
 method: boiled
 trait: disciplined
+dish: Kidney bean stew with soy and mushroom. No shortcuts.
 quote: We are what we repeatedly bean. Excellence, then, is not an act, but a habit.
-dailyFortune: Do the one thing you have been putting off.
-seasonalFortune: The practice has been kept and the practice is the point — this season, let yourself feel what the discipline has produced.
+fortune: The practice has been kept and the practice is the point — this season, let yourself feel what the discipline has produced.
 ---
 
 Beans born in the Season of the Umami Boiled Kidney Bean are the Bean Zodiac's most disciplined — they have learned that what matters most is built through repeated, unglamorous commitment, and they have committed.

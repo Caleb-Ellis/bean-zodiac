@@ -4,9 +4,9 @@ bean: kidney
 flavour: bitter
 method: fermented
 trait: intense
+dish: Kidney bean with fermented black bean sauce and bitter melon. Goes deep.
 quote: Beware the bean who is quiet in a crisis.
-dailyFortune: Channel your intensity into one focused task.
-seasonalFortune: The intensity you have carried this season is ready to be felt, not only eventually known — find one outlet before the season closes.
+fortune: The intensity you have carried this season is ready to be felt, not only eventually known — find one outlet before the season closes.
 ---
 
 Beans born in the Season of the Bitter Fermented Kidney Bean are the Bean Zodiac's most intense — they carry more beneath the surface than most Beans will ever show above it.

@@ -4,9 +4,9 @@ bean: edamame
 flavour: spicy
 method: fermented
 trait: industrious
+dish: Edamame in fermented chili brine. Keeps working.
 quote: I'm a great bean believer in luck, and I find the harder I work, the more I have of it.
-dailyFortune: The task that has been sitting on your list longest is the one to tackle first today.
-seasonalFortune: The work you have been doing this season in private has reached a volume worth surfacing — let someone see the shape of it before it closes.
+fortune: The work you have been doing this season in private has reached a volume worth surfacing — let someone see the shape of it before it closes.
 ---
 
 Beans born in the Season of the Spicy Fermented Edamame are the Bean Zodiac's most industrious — they are always working on something. Especially when it isn't visible.

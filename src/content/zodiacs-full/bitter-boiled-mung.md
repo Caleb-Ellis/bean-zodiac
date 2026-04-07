@@ -4,9 +4,9 @@ bean: mung
 flavour: bitter
 method: boiled
 trait: careful
+dish: Mung bean soup with bitter melon. Precise. A little medicinal.
 quote: Measure twice, bean once.
-dailyFortune: Before you act today, take one extra moment to check — the small pause is the thing that makes the difference.
-seasonalFortune: The careful work this season has reached the point where one more check is not care — it is delay. Let it be done.
+fortune: The careful work this season has reached the point where one more check is not care — it is delay. Let it be done.
 ---
 
 Beans born in the Season of the Bitter Boiled Mung Bean are the Bean Zodiac's most careful — not cautious out of fear, but deliberate in the way of something that understands exactly what it costs to get things wrong.

@@ -4,9 +4,9 @@ bean: edamame
 flavour: spicy
 method: fried
 trait: bold
+dish: Edamame stir-fried with chili and black bean paste. Not shy about it.
 quote: Fortune favours the bean.
-dailyFortune: The bold move is the right move today.
-seasonalFortune: The moves you made this season were correct — check once before the next one that you are still going first and not going alone.
+fortune: The moves you made this season were correct — check once before the next one that you are still going first and not going alone.
 ---
 
 Beans born in the Season of the Spicy Fried Edamame are the Bean Zodiac's most bold — they go first, they commit before the conditions are ideal, and this is not impulsiveness. It is a calculated refusal to let hesitation make the decision.

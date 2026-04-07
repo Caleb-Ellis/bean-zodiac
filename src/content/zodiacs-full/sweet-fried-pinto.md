@@ -4,9 +4,9 @@ bean: pinto
 flavour: sweet
 method: fried
 trait: distractible
+dish: Pinto fried with honey and whatever else was nearby. Started three things.
 quote: A bean divided against itself cannot bean.
-dailyFortune: Pick one thing this morning and give it your whole attention.
-seasonalFortune: Find the thing worth wanting more than the next new thing this season — stay with it long enough to find out what you can actually make.
+fortune: Find the thing worth wanting more than the next new thing this season — stay with it long enough to find out what you can actually make.
 ---
 
 Beans born in the Season of the Sweet Fried Pinto Bean are the Bean Zodiac's most distractible — genuinely interested in everything, which is the same as being focused on nothing.

@@ -4,9 +4,9 @@ bean: cannellini
 flavour: sweet
 method: boiled
 trait: kind
+dish: Cannellini in sweet herb broth with good bread. Just for you.
 quote: A little bean, a little more bean than absolutely necessary — that is what it means to be kind.
-dailyFortune: Do the generous thing.
-seasonalFortune: Name what you need this season — the people around you have been waiting to be kind in return, and they cannot do it if you will not let them.
+fortune: Name what you need this season — the people around you have been waiting to be kind in return, and they cannot do it if you will not let them.
 ---
 
 Beans born in the Season of the Sweet Boiled Cannellini Bean are the Bean Zodiac's most kind — the Cannellini's instinct to elevate whatever it accompanies, softened by Sweet's open-armed generosity and steadied by Boiled's patient depth, produces something that is genuinely nourishing to be near.

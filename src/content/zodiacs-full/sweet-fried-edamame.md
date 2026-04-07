@@ -4,9 +4,9 @@ bean: edamame
 flavour: sweet
 method: fried
 trait: motivated
+dish: Edamame fried with mirin glaze. Gets up. Gets moving.
 quote: The secret of getting ahead is getting bean started.
-dailyFortune: Your energy is high today and the direction is clear.
-seasonalFortune: Check the compass this season — momentum without direction is just speed, and what you are moving toward still needs to be yours.
+fortune: Check the compass this season — momentum without direction is just speed, and what you are moving toward still needs to be yours.
 ---
 
 Beans born in the Season of the Sweet Fried Edamame are the Bean Zodiac's most motivated — not restless, but reliably pointed toward something, moving toward it with a warmth and urgency that makes others want to move with them.

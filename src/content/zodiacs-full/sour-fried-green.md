@@ -4,9 +4,9 @@ bean: green
 flavour: sour
 method: fried
 trait: impulsive
+dish: Green beans quick-fried with vinegar and garlic. Decided. Done.
 quote: Bean first, and think afterwards is not a bad motto.
-dailyFortune: Trust the snap decision.
-seasonalFortune: The impulses this season have been tracking something real — the pattern is visible from further back than the individual decisions appear to be.
+fortune: The impulses this season have been tracking something real — the pattern is visible from further back than the individual decisions appear to be.
 ---
 
 Beans born in the Season of the Sour Fried Green Bean are the Bean Zodiac's most impulsive — the thought and the action arrive at the same moment, and both are gone before doubt could have found a seat.

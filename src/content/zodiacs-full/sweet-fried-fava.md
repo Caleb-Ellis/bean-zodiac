@@ -4,9 +4,9 @@ bean: fava
 flavour: sweet
 method: fried
 trait: daring
+dish: Fava in sweet chili batter. Goes for it.
 quote: Fortune befriends the bean.
-dailyFortune: Make the move that requires a little nerve today.
-seasonalFortune: The leap has been made — develop the same ease with the reckoning this season as you have always had with the leap itself.
+fortune: The leap has been made — develop the same ease with the reckoning this season as you have always had with the leap itself.
 ---
 
 Beans born in the Season of the Sweet Fried Fava Bean are the Bean Zodiac's most daring — they take the leap with a warmth and ease that makes it look like something anyone might do, which is how they end up doing things that most people never attempt.

@@ -4,9 +4,9 @@ bean: mung
 flavour: spicy
 method: fried
 trait: high-strung
+dish: Spiced mung cakes with chili sauce. Wound tight. Worth it.
 quote: Bean cannot endure either perfect solitude or perfect society.
-dailyFortune: Give your nervous system one scheduled break today.
-seasonalFortune: The season has given your nervous system more material than it needed — build the gap between signal and response before the next one starts, while you can still choose the size.
+fortune: The season has given your nervous system more material than it needed — build the gap between signal and response before the next one starts, while you can still choose the size.
 ---
 
 Beans born in the Season of the Spicy Fried Mung Bean are the Bean Zodiac's most high-strung — they are tuned to a register that picks up everything, and they are always, quietly or not, already responding.

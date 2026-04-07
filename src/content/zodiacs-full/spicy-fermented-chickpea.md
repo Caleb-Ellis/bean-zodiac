@@ -4,9 +4,9 @@ bean: chickpea
 flavour: spicy
 method: fermented
 trait: offbeat
+dish: Chickpea in spicy fermented paste on flatbread. Shouldn't work. Does.
 quote: I've lost my damn beans.
-dailyFortune: The unexpected take you have been sitting on is the right one.
-seasonalFortune: The route you have taken this season is yours — hold onto the warmth that makes it worth following, so others can find the way in.
+fortune: The route you have taken this season is yours — hold onto the warmth that makes it worth following, so others can find the way in.
 ---
 
 Beans born in the Season of the Spicy Fermented Chickpea are the Bean Zodiac's most offbeat — they have the Chickpea's gift for connecting with anyone, but the ground they find tends to be somewhere unexpected.

@@ -4,9 +4,9 @@ bean: butter
 flavour: umami
 method: boiled
 trait: grounded
+dish: Butter bean and leek stew with parmesan rind. Solid. Real.
 quote: If it ain't beaned, don't fix it.
-dailyFortune: Return to the fundamentals today.
-seasonalFortune: The foundation you have been has carried more than it was asked to this season — require something of the Beans who have been building on you.
+fortune: The foundation you have been has carried more than it was asked to this season — require something of the Beans who have been building on you.
 ---
 
 Beans born in the Season of the Umami Boiled Butter Bean are the Bean Zodiac's most grounded — not in the way of being limited, but in the way of a thing that has its roots so deeply placed that nothing passing above the surface can meaningfully disturb it.

@@ -4,9 +4,9 @@ bean: chickpea
 flavour: spicy
 method: fried
 trait: spontaneous
+dish: Chickpea pakora. Decided on the spot. Always perfect.
 quote: Let's go! A bean in motion gathers no moss!
-dailyFortune: Say yes first.
-seasonalFortune: The things you started this season are still open — pick one, stay with it past the exciting beginning, and find out what it was.
+fortune: The things you started this season are still open — pick one, stay with it past the exciting beginning, and find out what it was.
 ---
 
 Beans born in the Season of the Spicy Fried Chickpea are the Bean Zodiac's most spontaneous — they don't wait for permission, or a plan, or the right moment.

@@ -4,9 +4,9 @@ bean: kidney
 flavour: spicy
 method: fried
 trait: temperamental
+dish: Kidney bean hash with chili, heat varying by mood. It varies.
 quote: Any bean can be angry — that is easy. But to be angry with the right person, to the right degree, at the right time, for the right purpose — that is not easy.
-dailyFortune: Take one breath and name what you are actually feeling.
-seasonalFortune: The season's storms have moved through and cleared — what remains is yours, and attending to it now costs less than leaving it for the next season to inherit.
+fortune: The season's storms have moved through and cleared — what remains is yours, and attending to it now costs less than leaving it for the next season to inherit.
 ---
 
 Beans born in the Season of the Spicy Fried Kidney Bean are the Bean Zodiac's most temperamental — the heat doubles on itself here, and what results is something that moves very fast and arrives very strongly.

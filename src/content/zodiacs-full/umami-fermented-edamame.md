@@ -4,9 +4,9 @@ bean: edamame
 flavour: umami
 method: fermented
 trait: observant
+dish: Edamame in complex fermented sauce. Noticing everything.
 quote: The bean world is full of obvious things which nobody by any chance ever observes.
-dailyFortune: Look again at what you passed by earlier today.
-seasonalFortune: What has been quietly accumulating this season has become understanding — share it with the Beans who were in the room when you noticed it.
+fortune: What has been quietly accumulating this season has become understanding — share it with the Beans who were in the room when you noticed it.
 ---
 
 Beans born in the Season of the Umami Fermented Edamame are the Bean Zodiac's most observant — they notice what others have already looked at without seeing, and they hold what they notice for a long time before deciding what to do with it.

@@ -4,9 +4,9 @@ bean: black
 flavour: sweet
 method: fried
 trait: driven
+dish: Black beans fried with sweet plantain. Somewhere to be.
 quote: Stay hungry, stay bean.
-dailyFortune: The momentum you have is real.
-seasonalFortune: Check behind you this season — the warmth you carry was always meant to reach the Beans you are pulling, not only the destination.
+fortune: Check behind you this season — the warmth you carry was always meant to reach the Beans you are pulling, not only the destination.
 ---
 
 Beans born in the Season of the Sweet Fried Black Bean are the Bean Zodiac's most driven — not from cold ambition or fear of stillness, but from a warmth and determination that moves outward and tends to pull others along without meaning to.

@@ -4,9 +4,9 @@ bean: butter
 flavour: sweet
 method: roasted
 trait: lighthearted
+dish: Butter bean roasted with maple and thyme. Not a care in the world.
 quote: A day without beans is like a day without sunshine, so bring extra beans.
-dailyFortune: Let something delight you today.
-seasonalFortune: Lightheartedness is not the whole inventory — this season, let what is underneath it carry some weight too.
+fortune: Lightheartedness is not the whole inventory — this season, let what is underneath it carry some weight too.
 ---
 
 Beans born in the Season of the Sweet Roasted Butter Bean are the Bean Zodiac's most lighthearted — the world is, for these Beans, fundamentally fine, and they carry this knowledge outward with a generosity that makes it contagious.

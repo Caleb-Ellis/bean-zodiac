@@ -4,9 +4,9 @@ bean: pinto
 flavour: sour
 method: fried
 trait: manipulative
+dish: Pinto fried with citrus and strategic presentation. You didn't notice.
 quote: It is better to be feared than loved, if you cannot bean both.
-dailyFortune: Ask yourself whether the method is worth the relationship.
-seasonalFortune: The method that has been running this season has reached the point where the cost is visible — this season is for deciding whether to continue, and that decision cannot wait much longer.
+fortune: The method that has been running this season has reached the point where the cost is visible — this season is for deciding whether to continue, and that decision cannot wait much longer.
 ---
 
 Beans born in the Season of the Sour Fried Pinto Bean are the Bean Zodiac's most manipulative — not always deliberately, but the mechanism is there, and it runs.

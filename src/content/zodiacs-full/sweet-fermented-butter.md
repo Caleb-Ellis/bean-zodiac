@@ -4,9 +4,9 @@ bean: butter
 flavour: sweet
 method: fermented
 trait: laid-back
+dish: Butter bean with sweet fermented paste. No rush. It'll be fine.
 quote: The bean abides.
-dailyFortune: Let the thing you cannot control go today.
-seasonalFortune: Some of what is waiting for you this season will not wait indefinitely — find the thing that requires your presence and give it your presence.
+fortune: Some of what is waiting for you this season will not wait indefinitely — find the thing that requires your presence and give it your presence.
 ---
 
 Beans born in the Season of the Sweet Fermented Butter Bean are the Bean Zodiac's most laid-back — not as an attitude adopted, but as a fundamental orientation toward the world that has never seriously considered alternatives.

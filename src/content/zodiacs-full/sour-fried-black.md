@@ -4,9 +4,9 @@ bean: black
 flavour: sour
 method: fried
 trait: direct
+dish: Black beans stir-fried with lime and chili. Here it is.
 quote: Say what you bean and bean what you say.
-dailyFortune: Say the thing.
-seasonalFortune: What was said this season landed — the directness that felt like a risk has built something more durable than a softer approach would have.
+fortune: What was said this season landed — the directness that felt like a risk has built something more durable than a softer approach would have.
 ---
 
 Beans born in the Season of the Sour Fried Black Bean are the Bean Zodiac's most direct — what they see, they say; what they mean, they name; the gap between thought and expression is as small as it gets in any Bean.

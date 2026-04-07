@@ -4,9 +4,9 @@ bean: cannellini
 flavour: umami
 method: fried
 trait: principled
+dish: Cannellini sautéed in anchovy butter. Stands for something.
 quote: The arc of the bean universe is long, but it bends toward justice.
-dailyFortune: Act in alignment with what you believe today.
-seasonalFortune: The principles have been consistent this season — let one of them be examined, not to revise it, but to confirm it still means what you need it to mean.
+fortune: The principles have been consistent this season — let one of them be examined, not to revise it, but to confirm it still means what you need it to mean.
 ---
 
 Beans born in the Season of the Umami Fried Cannellini Bean are the Bean Zodiac's most principled — they have a clear sense of what is right, and they act on it at heat, without waiting to see which way the room is going to move.

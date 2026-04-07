@@ -4,9 +4,9 @@ bean: black
 flavour: bitter
 method: roasted
 trait: elegant
+dish: Black bean and bitter chocolate tart with sea salt. Restrained luxury.
 quote: Elegance is not about being noticed, it's about being bean.
-dailyFortune: You do not need to explain yourself today.
-seasonalFortune: The depth you carry this season was never meant to be kept to yourself — let one person in past the surface.
+fortune: The depth you carry this season was never meant to be kept to yourself — let one person in past the surface.
 ---
 
 Beans born in the Season of the Bitter Roasted Black Bean are the Bean Zodiac's most elegant — not as aesthetic choice or performance, but as what happens when depth, discernment, and warmth have been refined down to their essential forms.

@@ -4,9 +4,9 @@ bean: chickpea
 flavour: bitter
 method: boiled
 trait: versatile
+dish: Chickpea and bitter lemon broth with turnip greens. Can go anywhere.
 quote: A bean is the most versatile of tools.
-dailyFortune: The situation in front of you is asking for a different approach than usual.
-seasonalFortune: Versatility without a direction eventually becomes its own limitation — this season, decide what you are most trying to be.
+fortune: Versatility without a direction eventually becomes its own limitation — this season, decide what you are most trying to be.
 ---
 
 Beans born in the Season of the Bitter Boiled Chickpea are the Bean Zodiac's most versatile — they have the range to meet almost any situation on its own terms, and the patience to read the situation properly before they do.

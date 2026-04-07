@@ -4,9 +4,9 @@ bean: black
 flavour: bitter
 method: fried
 trait: incisive
+dish: Black beans stir-fried with bitter greens and garlic. Cuts through.
 quote: Two things are infinite - the universe and bean stupidity; and I'm not sure about the universe.
-dailyFortune: The thing you dismissed on second thought deserves another look.
-seasonalFortune: Not everyone will want to be cut to the truth this season — decide once, for each, whether to lead with the answer or let the question finish forming.
+fortune: Not everyone will want to be cut to the truth this season — decide once, for each, whether to lead with the answer or let the question finish forming.
 ---
 
 Beans born in the Season of the Bitter Fried Black Bean are the Bean Zodiac's most incisive — they do not search for the point; they have already found it, and they arrive there before anyone else has finished formulating the question.

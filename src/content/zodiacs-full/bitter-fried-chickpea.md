@@ -4,9 +4,9 @@ bean: chickpea
 flavour: bitter
 method: fried
 trait: entrepreneurial
+dish: Crispy chickpea with bitter orange zest and cumin. Spots the opportunity.
 quote: The bean who moves a mountain begins by carrying away small stones.
-dailyFortune: Start the thing.
-seasonalFortune: The thing you started this season that is already running is the one worth staying for — let it finish before the next gap appears.
+fortune: The thing you started this season that is already running is the one worth staying for — let it finish before the next gap appears.
 ---
 
 Beans born in the Season of the Bitter Fried Chickpea are the Bean Zodiac's most entrepreneurial — they see what is missing before anyone else has noticed the gap, and they are already moving to fill it while others are still deciding whether to agree it exists.

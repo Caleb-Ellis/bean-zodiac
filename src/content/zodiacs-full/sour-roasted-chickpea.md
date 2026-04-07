@@ -4,9 +4,9 @@ bean: chickpea
 flavour: sour
 method: roasted
 trait: open-minded
+dish: Roasted chickpea with pomegranate and za'atar. Ready to be convinced.
 quote: The bean mind is like a parachute — it only works when open.
-dailyFortune: The idea that sounds wrong at first deserves a second hearing.
-seasonalFortune: The mind has been genuinely open this season — the positions revised are now better than the ones they replaced, and that is the whole argument for the practice.
+fortune: The mind has been genuinely open this season — the positions revised are now better than the ones they replaced, and that is the whole argument for the practice.
 ---
 
 Beans born in the Season of the Sour Roasted Chickpea are the Bean Zodiac's most open-minded — they consider what they haven't thought of before with genuine interest, and they do it warmly, without the performance of tolerance that makes so much open-mindedness exhausting to be around.

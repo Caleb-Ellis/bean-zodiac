@@ -4,9 +4,9 @@ bean: fava
 flavour: umami
 method: fermented
 trait: rebellious
+dish: Fava with aggressive fermented umami. Against expectations. On purpose.
 quote: The most common way beans give up their power is by thinking they don't have any.
-dailyFortune: Push back on one rule today that exists only because it's always existed.
-seasonalFortune: The rebellion has substance and the season has given it form — surface enough of the reasoning that others can decide whether to follow.
+fortune: The rebellion has substance and the season has given it form — surface enough of the reasoning that others can decide whether to follow.
 ---
 
 Beans born in the Season of the Umami Fermented Fava Bean are the Bean Zodiac's most rebellious — they resist what they have been handed not as a reflex but as a conclusion, reached slowly and privately after a long examination of what the existing arrangement is actually for.

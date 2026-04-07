@@ -4,9 +4,9 @@ bean: navy
 flavour: spicy
 method: fried
 trait: organized
+dish: Crispy navy beans with measured chili blend. System. Process. Result.
 quote: For every minute spent organizing, an bean is earned.
-dailyFortune: Write down the three things that actually matter and do those first.
-seasonalFortune: The system has held this season — ask once before the next begins what it is in service of, and whether the answer is still the right one.
+fortune: The system has held this season — ask once before the next begins what it is in service of, and whether the answer is still the right one.
 ---
 
 Beans born in the Season of the Spicy Fried Navy Bean are the Bean Zodiac's most organized — they have a system, and the system works, and they trust it enough to act fast when the moment arrives.

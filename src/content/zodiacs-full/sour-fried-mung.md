@@ -4,9 +4,9 @@ bean: mung
 flavour: sour
 method: fried
 trait: self-deprecating
+dish: Mung cakes with sour dipping sauce. Nothing special, really.
 quote: I am so clever that sometimes I don't understand a single bean of what I am saying.
-dailyFortune: Make one joke at your own expense and then let it go.
-seasonalFortune: The jokes this season have been landing and costing something — let one thing about yourself be true this season without also being funny.
+fortune: The jokes this season have been landing and costing something — let one thing about yourself be true this season without also being funny.
 ---
 
 Beans born in the Season of the Sour Fried Mung Bean are the Bean Zodiac's most self-deprecating — they get there before anyone else can, and they make it funnier than anyone else would.

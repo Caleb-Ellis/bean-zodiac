@@ -4,9 +4,9 @@ bean: green
 flavour: sour
 method: fermented
 trait: quirky
+dish: Green beans in sour fermented miso dressing with something unexpected. Works somehow.
 quote: We are all bean, but some of us are looking at the stars.
-dailyFortune: Lean into what makes you strange today.
-seasonalFortune: The strange direction this season has taken is the right one — the destination will be legible eventually, and it will be worth the route.
+fortune: The strange direction this season has taken is the right one — the destination will be legible eventually, and it will be worth the route.
 ---
 
 Beans born in the Season of the Sour Fermented Green Bean are the Bean Zodiac's most quirky — they have taken Green Bean's fresh energy into a fermented dark, cut it with Sour's refusal to normalise, and emerged with something that cannot be easily categorised.

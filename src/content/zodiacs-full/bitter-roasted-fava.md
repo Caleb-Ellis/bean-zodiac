@@ -4,9 +4,9 @@ bean: fava
 flavour: bitter
 method: roasted
 trait: pioneering
+dish: Roasted fava with bitter orange crust. First to go there.
 quote: Well-bean is that which is done for the first time.
-dailyFortune: Resist the pull of the established path today.
-seasonalFortune: The territory you are opening this season is only as valuable as the path it leaves behind — check that what you are building is habitable for someone who follows.
+fortune: The territory you are opening this season is only as valuable as the path it leaves behind — check that what you are building is habitable for someone who follows.
 ---
 
 Beans born in the Season of the Bitter Roasted Fava Bean are the Bean Zodiac's most pioneering — drawn toward the unmapped territory not in spite of knowing the risks, but because knowing the risks and going anyway is the only kind of movement that matters to them.

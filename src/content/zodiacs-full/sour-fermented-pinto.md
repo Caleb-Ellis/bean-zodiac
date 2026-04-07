@@ -4,9 +4,9 @@ bean: pinto
 flavour: sour
 method: fermented
 trait: pessimistic
+dish: Pinto in tangy fermented sauce. Bracing for it anyway.
 quote: A bean who expects nothing is never disappointed.
-dailyFortune: Let one small thing surprise you today.
-seasonalFortune: The forecast has been correct more often than not — notice the one variable that didn't confirm the reading, because it is there, and it matters.
+fortune: The forecast has been correct more often than not — notice the one variable that didn't confirm the reading, because it is there, and it matters.
 ---
 
 Beans born in the Season of the Sour Fermented Pinto Bean are the Bean Zodiac's most pessimistic — not carelessly, but with well-developed reasons they can present on request.

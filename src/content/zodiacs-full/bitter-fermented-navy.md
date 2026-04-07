@@ -4,9 +4,9 @@ bean: navy
 flavour: bitter
 method: fermented
 trait: bookish
+dish: Navy bean in bitter kombucha broth with thyme. Unusual. Correct.
 quote: Outside of a bean, a book is a man's best friend. Inside of a bean, it is too dark to read.
-dailyFortune: The book you keep meaning to return to is waiting.
-seasonalFortune: The private library you have been stocking this season is substantial — find one reader who needs what you have read, and bring the book outside.
+fortune: The private library you have been stocking this season is substantial — find one reader who needs what you have read, and bring the book outside.
 ---
 
 Beans born in the Season of the Bitter Fermented Navy Bean are the Bean Zodiac's most bookish — they have built their understanding from deep reading, and they carry it with them as a private architecture no one else can see.

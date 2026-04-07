@@ -4,9 +4,9 @@ bean: black
 flavour: spicy
 method: fermented
 trait: mysterious
+dish: Black bean in gochujang broth. Something in there. Can't quite place it.
 quote: I am not strange, I am just a bean.
-dailyFortune: Do not explain today.
-seasonalFortune: The mystery has been working in you this season without an audience — find the one Bean worth letting into it, not to explain, but to share.
+fortune: The mystery has been working in you this season without an audience — find the one Bean worth letting into it, not to explain, but to share.
 ---
 
 Beans born in the Season of the Spicy Fermented Black Bean are the Bean Zodiac's most mysterious — not because they cultivate opacity or enjoy confusion, but because what they are has not yet been fully processed, even by themselves.

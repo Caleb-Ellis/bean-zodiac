@@ -4,9 +4,9 @@ bean: butter
 flavour: sour
 method: fried
 trait: efficient
+dish: Butter bean fritters with sharp lemon dip. Gets it done.
 quote: Give me six hours to chop down a bean and I will spend the first four sharpening the axe.
-dailyFortune: Identify the one step that will make all the other steps easier.
-seasonalFortune: The efficiency this season has cleared space — what remains is the slower work, and it is worth doing slowly.
+fortune: The efficiency this season has cleared space — what remains is the slower work, and it is worth doing slowly.
 ---
 
 Beans born in the Season of the Sour Fried Butter Bean are the Bean Zodiac's most efficient — not in the frantic sense, but in the sense of someone who has thought carefully about where effort should go and is disinclined to spend any of it elsewhere.

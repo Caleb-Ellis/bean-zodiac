@@ -4,9 +4,9 @@ bean: adzuki
 flavour: umami
 method: fermented
 trait: philosophical
+dish: Adzuki with aged miso. What does flavor mean? This.
 quote: I think, therefore I am a bean.
-dailyFortune: The question underneath the question is the one worth sitting with.
-seasonalFortune: The inquiry has been real and the season has given it time — bring the question outward before the conclusion, and let someone else sit with it.
+fortune: The inquiry has been real and the season has given it time — bring the question outward before the conclusion, and let someone else sit with it.
 ---
 
 Beans born in the Season of the Umami Fermented Adzuki Bean are the Bean Zodiac's most philosophical — they have carried the Adzuki's gift for recognising what deserves to be marked through deep private reflection, until they are no longer just celebrating occasions but examining the nature of occasions themselves.

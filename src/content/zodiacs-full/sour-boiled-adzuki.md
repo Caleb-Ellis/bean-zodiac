@@ -4,9 +4,9 @@ bean: adzuki
 flavour: sour
 method: boiled
 trait: sincere
+dish: Adzuki with pickled plum broth and ginger. Means it.
 quote: This above all - to thine own bean be true
-dailyFortune: Mean it exactly as much as you feel it.
-seasonalFortune: What you mean this season, you mean without reservation — that is sufficient, and it is enough.
+fortune: What you mean this season, you mean without reservation — that is sufficient, and it is enough.
 ---
 
 Beans born in the Season of the Sour Boiled Adzuki Bean are the Bean Zodiac's most sincere — they do not mark occasions they don't mean, and when they mean one, there is nothing between the feeling and the expression.

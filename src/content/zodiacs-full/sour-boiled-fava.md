@@ -4,9 +4,9 @@ bean: fava
 flavour: sour
 method: boiled
 trait: righteous
+dish: Ful medames with fresh lemon and a point to make. Correct. Obviously.
 quote: Injustice anywhere is a threat to beans everywhere.
-dailyFortune: Speak up for what is fair today.
-seasonalFortune: Righteousness sustained across a season is the rarer version — and the one that the Beans around you will remember long after the situation is resolved.
+fortune: Righteousness sustained across a season is the rarer version — and the one that the Beans around you will remember long after the situation is resolved.
 ---
 
 Beans born in the Season of the Sour Boiled Fava Bean are the Bean Zodiac's most righteous — they know what is fair, and they will wait as long as it takes for the situation to admit it.

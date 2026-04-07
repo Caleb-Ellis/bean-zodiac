@@ -4,9 +4,9 @@ bean: mung
 flavour: bitter
 method: roasted
 trait: humble
+dish: Roasted mung with bitter greens and very little fuss. Doesn't need the attention.
 quote: Blessed are the bean in spirit, for theirs is the kingdom of heaven.
-dailyFortune: Let someone else take the credit.
-seasonalFortune: This season, let the people you most want to work alongside know what you are capable of — humility that keeps itself hidden is indistinguishable from absence.
+fortune: This season, let the people you most want to work alongside know what you are capable of — humility that keeps itself hidden is indistinguishable from absence.
 ---
 
 Beans born in the Season of the Bitter Roasted Mung Bean are the Bean Zodiac's most humble — they know exactly what they are capable of, and they keep most of it to themselves.

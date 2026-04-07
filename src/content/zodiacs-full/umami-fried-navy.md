@@ -4,9 +4,9 @@ bean: navy
 flavour: umami
 method: fried
 trait: arrogant
+dish: Crispy navy beans with dashi glaze. Better than you expected.
 quote: The only true wisdom is knowing you know nothing about beans.
-dailyFortune: Find one person today who knows something you do not and ask them about it.
-seasonalFortune: The competence has been genuine this season — develop the habit of doubt now, while the record is still good and the practice still costs little.
+fortune: The competence has been genuine this season — develop the habit of doubt now, while the record is still good and the practice still costs little.
 ---
 
 Beans born in the Season of the Umami Fried Navy Bean are the Bean Zodiac's most arrogant — they have developed a deep and genuine competence, and they have stopped distinguishing between the competence and the certainty about its extent.

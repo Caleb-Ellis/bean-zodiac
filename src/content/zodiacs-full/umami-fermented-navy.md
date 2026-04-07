@@ -4,9 +4,9 @@ bean: navy
 flavour: umami
 method: fermented
 trait: calculating
+dish: Navy bean with precisely layered fermented umami. Counts everything.
 quote: It is not enough to bean well; one must also bean at the right time.
-dailyFortune: You have already worked through the angles. Act.
-seasonalFortune: The plan is finished — this season, commit to it before the calculation becomes its own purpose and the moment it was designed for passes.
+fortune: The plan is finished — this season, commit to it before the calculation becomes its own purpose and the moment it was designed for passes.
 ---
 
 Beans born in the Season of the Umami Fermented Navy Bean are the Bean Zodiac's most calculating — they have been working through the angles for longer than anyone else knows, and they are nearly ready.

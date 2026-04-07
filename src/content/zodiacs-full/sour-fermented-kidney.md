@@ -4,9 +4,9 @@ bean: kidney
 flavour: sour
 method: fermented
 trait: defensive
+dish: Kidney bean in fermented tomato brine. There was a reason.
 quote: The best bean is the one already inside the fortress.
-dailyFortune: Put up your defenses.
-seasonalFortune: The walls built this season are buying the time needed to decide what they are protecting — that decision is almost made, and then the question becomes what happens next.
+fortune: The walls built this season are buying the time needed to decide what they are protecting — that decision is almost made, and then the question becomes what happens next.
 ---
 
 Beans born in the Season of the Sour Fermented Kidney Bean are the Bean Zodiac's most defensive — they have learned, through long internal work, exactly what they are protecting and why.

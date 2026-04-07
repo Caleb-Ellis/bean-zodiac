@@ -4,9 +4,9 @@ bean: navy
 flavour: sour
 method: roasted
 trait: understated
+dish: Roasted navy bean with lemon and quiet confidence. Doesn't announce.
 quote: The bean doth protest too little, methinks.
-dailyFortune: You do not need to fill every silence today.
-seasonalFortune: What was held back this season has not gone unnoticed — the people paying attention have seen what was there without the announcement, and they are the ones that count.
+fortune: What was held back this season has not gone unnoticed — the people paying attention have seen what was there without the announcement, and they are the ones that count.
 ---
 
 Beans born in the Season of the Sour Roasted Navy Bean are the Bean Zodiac's most understated — they have a great deal to offer and they offer it without announcement, leaving it to others to notice.

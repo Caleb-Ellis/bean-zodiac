@@ -4,9 +4,9 @@ bean: edamame
 flavour: spicy
 method: roasted
 trait: confident
+dish: Roasted edamame with chili salt. Knows exactly what it is.
 quote: Whether you think you bean or you think you can't, you're right.
-dailyFortune: Walk into today's situation like you belong there.
-seasonalFortune: The confidence this season has been earned — stay open to being wrong at the same volume as being right, and it will carry you further than certainty would.
+fortune: The confidence this season has been earned — stay open to being wrong at the same volume as being right, and it will carry you further than certainty would.
 ---
 
 Beans born in the Season of the Spicy Roasted Edamame are the Bean Zodiac's most confident — not in the performed sense, but as a quality that radiates outward because there is nothing inward working against it.

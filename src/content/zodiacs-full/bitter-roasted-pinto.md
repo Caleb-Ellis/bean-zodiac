@@ -4,9 +4,9 @@ bean: pinto
 flavour: bitter
 method: roasted
 trait: narcissistic
+dish: Roasted pinto with bitter charred edges and ceremony. Has already been complimented.
 quote: I don't care what you think unless it's about my bean.
-dailyFortune: You will not be wrong about anything.
-seasonalFortune: This season, develop a genuine curiosity about something that is not a reflection — the world outside the mirror has been waiting.
+fortune: This season, develop a genuine curiosity about something that is not a reflection — the world outside the mirror has been waiting.
 ---
 
 Beans born in the Season of the Bitter Roasted Pinto Bean are the Bean Zodiac's most narcissistic — and they would like it noted that they came by it honestly.

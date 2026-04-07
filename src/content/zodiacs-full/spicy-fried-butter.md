@@ -4,9 +4,9 @@ bean: butter
 flavour: spicy
 method: fried
 trait: energetic
+dish: Butter bean fritters with spiced crust. High wattage.
 quote: The world is charged with the grandeur of the bean.
-dailyFortune: Channel today's energy into the one thing that most deserves it.
-seasonalFortune: The season has been full of movement and warmth — turn around before it ends and see what you have left in your wake, not to undo it, but to know.
+fortune: The season has been full of movement and warmth — turn around before it ends and see what you have left in your wake, not to undo it, but to know.
 ---
 
 Beans born in the Season of the Spicy Fried Butter Bean are the Bean Zodiac's most energetic — the Butter's usual stillness, run through Spicy's heat and Fried's refusal to wait, produces something that moves with a warm and total momentum.

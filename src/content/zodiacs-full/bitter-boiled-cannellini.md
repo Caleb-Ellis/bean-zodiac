@@ -4,9 +4,9 @@ bean: cannellini
 flavour: bitter
 method: boiled
 trait: discerning
+dish: Cannellini with braised chicory and black pepper. For those who know.
 quote: The bean you refuse is as important as the bean you accept.
-dailyFortune: Trust the hesitation.
-seasonalFortune: Discernment is the tool, not the door — this season, let one thing through that only almost earned it.
+fortune: Discernment is the tool, not the door — this season, let one thing through that only almost earned it.
 ---
 
 Beans born in the Season of the Bitter Boiled Cannellini Bean are the Bean Zodiac's most discerning — they can identify what is worth their attention from across the room, and they do not give that attention to anything that hasn't earned it.

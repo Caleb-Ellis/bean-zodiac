@@ -4,9 +4,9 @@ bean: chickpea
 flavour: sweet
 method: boiled
 trait: agreeable
+dish: Chickpea with honey and warm spice. Goes along. Fits in.
 quote: Piglet noticed that even though he had a very small bean, it could hold a rather large amount of gratitude.
-dailyFortune: Your willingness to meet people where they are is a gift today.
-seasonalFortune: Accommodation given without limit becomes invisible over time — let the people around you know what you actually wanted this season.
+fortune: Accommodation given without limit becomes invisible over time — let the people around you know what you actually wanted this season.
 ---
 
 Beans born in the Season of the Sweet Boiled Chickpea are the Bean Zodiac's most agreeable — they meet people where those people are, without making a performance of the effort, and something about the ease of this makes the people around them feel unexpectedly settled.

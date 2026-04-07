@@ -4,9 +4,9 @@ bean: black
 flavour: bitter
 method: boiled
 trait: measured
+dish: Black bean soup with braised endive and a strip of orange peel. Calibrated.
 quote: It was the best of beans, it was the worst of beans.
-dailyFortune: Say the thing you have been weighing.
-seasonalFortune: The broth has been finished for some time now — this season, let it be seen before the dish grows cold.
+fortune: The broth has been finished for some time now — this season, let it be seen before the dish grows cold.
 ---
 
 Beans born in the Season of the Bitter Boiled Black Bean are the Bean Zodiac's most measured — not through restraint learned, but through a nature that has never needed to speak before it is certain.

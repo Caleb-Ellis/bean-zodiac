@@ -4,9 +4,9 @@ bean: green
 flavour: sweet
 method: roasted
 trait: capricious
+dish: Green beans roasted with varying sweetness. Changes its mind.
 quote: Consistency is the last refuge of the bean unimaginative.
-dailyFortune: Change your mind freely if something better comes along.
-seasonalFortune: Tell the people counting on you before the direction changes — not as an apology, but as a courtesy that keeps the warmth where it belongs.
+fortune: Tell the people counting on you before the direction changes — not as an apology, but as a courtesy that keeps the warmth where it belongs.
 ---
 
 Beans born in the Season of the Sweet Roasted Green Bean are the Bean Zodiac's most capricious — they change direction with a warmth and conviction that makes each new enthusiasm feel inevitable, even as the last one recedes.

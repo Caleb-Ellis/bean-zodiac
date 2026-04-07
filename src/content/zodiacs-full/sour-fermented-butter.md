@@ -4,9 +4,9 @@ bean: butter
 flavour: sour
 method: fermented
 trait: minimalist
+dish: Butter bean with kimchi brine. That's enough.
 quote: Less is bean.
-dailyFortune: Remove one thing.
-seasonalFortune: The reduction this season has made space — what remains is what was always essential, and the arrangement is better for having less to maintain.
+fortune: The reduction this season has made space — what remains is what was always essential, and the arrangement is better for having less to maintain.
 ---
 
 Beans born in the Season of the Sour Fermented Butter Bean are the Bean Zodiac's most minimalist — they have discovered, through long acquaintance with reduction, that most things are improved by taking something away.

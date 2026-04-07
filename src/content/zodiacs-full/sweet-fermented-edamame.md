@@ -4,9 +4,9 @@ bean: edamame
 flavour: sweet
 method: fermented
 trait: systematic
+dish: Edamame in sweet fermented sauce, measured precisely. Stage by stage.
 quote: For every bean effect there is a definite cause; for every cause there is a definite effect.
-dailyFortune: Build the system before you scale the effort.
-seasonalFortune: The system has been good — check this season whether the problem it was built for is still the one you are solving.
+fortune: The system has been good — check this season whether the problem it was built for is still the one you are solving.
 ---
 
 Beans born in the Season of the Sweet Fermented Edamame are the Bean Zodiac's most systematic — they have thought about how things work before committing to doing them, and the result is effort that compounds rather than repeats.

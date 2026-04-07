@@ -4,9 +4,9 @@ bean: black
 flavour: umami
 method: roasted
 trait: insightful
+dish: Black bean roasted with soy and thyme. Sees what others miss.
 quote: The only true wisdom is knowing you know nothing about beans.
-dailyFortune: Share what you have noticed.
-seasonalFortune: What you have been seeing this season is the beginning of a conversation, not the end of one — offer it as an opening and stay for what it brings back.
+fortune: What you have been seeing this season is the beginning of a conversation, not the end of one — offer it as an opening and stay for what it brings back.
 ---
 
 Beans born in the Season of the Umami Roasted Black Bean are the Bean Zodiac's most insightful — not just for the depth of what they see, but for the warmth with which they offer it: the insight is not a verdict but an invitation.

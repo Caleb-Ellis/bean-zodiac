@@ -4,9 +4,9 @@ bean: butter
 flavour: bitter
 method: fermented
 trait: thoughtful
+dish: Butter bean with white miso and radicchio. Takes its time.
 quote: The unexamined bean is not worth eating.
-dailyFortune: Pause before you respond.
-seasonalFortune: What you have been working on this season has been refined long enough — let enough of it surface that others know the work is happening.
+fortune: What you have been working on this season has been refined long enough — let enough of it surface that others know the work is happening.
 ---
 
 Beans born in the Season of the Bitter Fermented Butter Bean are the Bean Zodiac's most thoughtful — in the genuine sense, which is to say that nothing leaves their interior until it has been properly considered, tested, and found worthy of the air.

@@ -4,9 +4,9 @@ bean: navy
 flavour: umami
 method: boiled
 trait: pedantic
+dish: Navy bean and mushroom soup, technically correct in every way. Every way.
 quote: The bean is in the details.
-dailyFortune: Pick the battles worth winning today.
-seasonalFortune: The precision has been correct this season — make sure the whole it belongs to still deserves it.
+fortune: The precision has been correct this season — make sure the whole it belongs to still deserves it.
 ---
 
 Beans born in the Season of the Umami Boiled Navy Bean are the Bean Zodiac's most pedantic — the right way to do something is the right way, and the difference between right and nearly right is not a small difference.

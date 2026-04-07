@@ -4,9 +4,9 @@ bean: cannellini
 flavour: umami
 method: roasted
 trait: forthcoming
+dish: Roasted cannellini with parmesan and herbs. Shares without being asked.
 quote: Come in, come in. The bean is always on and I have been meaning to tell you something.
-dailyFortune: Share the information or the feeling you have been holding.
-seasonalFortune: What you have been offering this season has been useful — let the conversation find its own way, occasionally, and see what it brings to you.
+fortune: What you have been offering this season has been useful — let the conversation find its own way, occasionally, and see what it brings to you.
 ---
 
 Beans born in the Season of the Umami Roasted Cannellini Bean are the Bean Zodiac's most forthcoming — they do not wait to be asked for what they know, what they have noticed, or what they think would help.

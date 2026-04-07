@@ -4,9 +4,9 @@ bean: black
 flavour: bitter
 method: fermented
 trait: brooding
+dish: Black bean in doenjang broth with bitter greens. A lot going on underneath.
 quote: Whatever our beans are made of, his and mine are the same.
-dailyFortune: Something forming within you for a long time is closer than you think.
-seasonalFortune: What has been working in you this season is ready — find the form that lets it leave the interior.
+fortune: What has been working in you this season is ready — find the form that lets it leave the interior.
 ---
 
 Beans born in the Season of the Bitter Fermented Black Bean are the Bean Zodiac's most brooding — not the performance of depth, but the actual thing: a considerable interior that processes without announcing itself, and surfaces only when it is ready.

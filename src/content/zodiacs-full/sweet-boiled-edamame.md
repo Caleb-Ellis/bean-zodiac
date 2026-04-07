@@ -4,9 +4,9 @@ bean: edamame
 flavour: sweet
 method: boiled
 trait: dependable
+dish: Sweet edamame with a touch of mirin. Consistent. There when you need it.
 quote: The strength of a bean lies not in its weight, but in its reliability.
-dailyFortune: Someone is counting on you today.
-seasonalFortune: What is always there stops being seen as a gift — let someone know what it costs this season, not as a grievance but as a true thing.
+fortune: What is always there stops being seen as a gift — let someone know what it costs this season, not as a grievance but as a true thing.
 ---
 
 Beans born in the Season of the Sweet Boiled Edamame are the Bean Zodiac's most dependable — they show up exactly as promised, at exactly the right time, with no drama either direction.

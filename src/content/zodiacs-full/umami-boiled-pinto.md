@@ -4,9 +4,9 @@ bean: pinto
 flavour: umami
 method: boiled
 trait: timid
+dish: Pinto in gentle mushroom broth. Approaches carefully.
 quote: You gain strength, courage, and confidence by every bean in which you really stop to look fear in the face.
-dailyFortune: Do the small brave thing today.
-seasonalFortune: The conditions are not going to become perfect — step forward before the season ends, while there is still season left to step into.
+fortune: The conditions are not going to become perfect — step forward before the season ends, while there is still season left to step into.
 ---
 
 Beans born in the Season of the Umami Boiled Pinto Bean are the Bean Zodiac's most timid — not without resources, but uncertain, at the crucial moment, whether the moment is right.

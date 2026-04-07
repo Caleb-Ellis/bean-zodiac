@@ -4,9 +4,9 @@ bean: green
 flavour: bitter
 method: boiled
 trait: inquisitive
+dish: Green beans in bitter walnut broth with bay. Always another question.
 quote: The important thing is not to stop bean questioning.
-dailyFortune: Follow the thread of curiosity wherever it leads today — even one unexpected question can open an entirely new room.
-seasonalFortune: Not every thread this season needs to be followed to the end — choose one question that is ready to close, and let it.
+fortune: Not every thread this season needs to be followed to the end — choose one question that is ready to close, and let it.
 ---
 
 Beans born in the Season of the Bitter Boiled Green Bean are the Bean Zodiac's most inquisitive — they do not just notice the open door; they want to know who built it and why.

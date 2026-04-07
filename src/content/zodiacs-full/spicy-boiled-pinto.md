@@ -4,9 +4,9 @@ bean: pinto
 flavour: spicy
 method: boiled
 trait: moody
+dish: Pinto bean stew with varying heat. Depends on the day.
 quote: I am not moody — I am a bean with feelings.
-dailyFortune: Notice where you are on the dial before you interact.
-seasonalFortune: The moods of this season have their own pattern — map the recurring ones and let the people near you know when the significant one is coming.
+fortune: The moods of this season have their own pattern — map the recurring ones and let the people near you know when the significant one is coming.
 ---
 
 Beans born in the Season of the Spicy Boiled Pinto Bean are the Bean Zodiac's most moody — not dramatically, but consistently, in the way of a sky that changes every hour and means it each time.
