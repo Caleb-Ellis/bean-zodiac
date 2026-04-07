@@ -4,6 +4,8 @@ bean: mung
 flavour: umami
 method: fried
 trait: serious
+quote: Life is too important to be taken bean.
+dailyFortune: Bring your full attention to one task today.
 ---
 
 Beans born in the Season of the Fried Umami Mung Bean are the Bean Zodiac's most serious.

@@ -4,9 +4,8 @@ bean: pinto
 flavour: sweet
 method: roasted
 trait: mischievous
-quote: Was that too much? Not a single bean's worth of regret.
+quote: I solemnly swear that my beans are up to no good.
 dailyFortune: The idea that made you smile is probably the right one.
-seasonalFortune: The best rooms you have ever been in were because someone decided to try something.
 ---
 
 Beans born in the Season of the Roasted Sweet Pinto Bean are the Bean Zodiac's most mischievous — warm enough to get away with it, creative enough to make it interesting, and entirely aware of both.

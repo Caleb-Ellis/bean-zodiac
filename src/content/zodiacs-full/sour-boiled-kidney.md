@@ -4,9 +4,8 @@ bean: kidney
 flavour: sour
 method: boiled
 trait: trustworthy
-quote: You can trust me. I've been in hotter water than this.
+quote: The secret of getting ahead is getting bean.
 dailyFortune: Keep the promise you made quietly to yourself.
-seasonalFortune: Trust is not built in the good moments. You have been building it the whole time.
 ---
 
 Beans born in the Season of the Boiled Sour Kidney Bean are the Bean Zodiac's most trustworthy — they tell the truth, and they stay.

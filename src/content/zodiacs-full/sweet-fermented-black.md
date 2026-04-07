@@ -4,6 +4,12 @@ bean: black
 flavour: sweet
 method: fermented
 trait: contemplative
+quote: I think, therefore I am a bean.
+dailyFortune: The thing you have been considering is further along than you think.
 ---
 
-Beans born in the Season of the Fermented Sweet Black Bean are the Bean Zodiac's most contemplative.
+Beans born in the Season of the Fermented Sweet Black Bean are the Bean Zodiac's most contemplative — not withdrawn or remote, but genuinely occupied with an interior that has been working for a long time and has not yet shown everything it has found.
+
+Black Bean's richness comes up slowly; Sweet means the interior work is not struggle but something closer to pleasure — these Beans enjoy the thinking, find the consideration satisfying rather than grinding; Fermented means it all happens at depth, without external pressure driving it, at a pace that no one can accelerate from outside. The Fermented Sweet Black Bean's interior world is, from the inside, quite a pleasant place to be.
+
+The Fermented Sweet Black Bean's challenge is emergence. Contemplation that never breaks surface cannot nourish anyone else. These Beans must find the form in which what they have been considering can become available — not all of it, but enough.

@@ -4,6 +4,8 @@ bean: green
 flavour: sour
 method: boiled
 trait: restless
+quote: I am not a bean at ease.
+dailyFortune: Something isn't finished yet.
 ---
 
 Beans born in the Season of the Boiled Sour Green Bean are the Bean Zodiac's most restless.

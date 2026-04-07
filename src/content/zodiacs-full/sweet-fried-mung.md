@@ -5,8 +5,7 @@ flavour: sweet
 method: fried
 trait: impractical
 quote: Heart in the right place, bean in the wrong pot!
-dailyFortune: The gesture will land. It does not have to be perfect.
-seasonalFortune: The people who help without being asked are the ones who are actually paying attention.
+dailyFortune: The gesture will land.
 ---
 
 Beans born in the Season of the Fried Sweet Mung Bean are the Bean Zodiac's most impractical — they are moved to help before they have worked out how, and they go ahead anyway.

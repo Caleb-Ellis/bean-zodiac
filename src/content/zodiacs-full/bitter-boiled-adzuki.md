@@ -4,9 +4,8 @@ bean: adzuki
 flavour: bitter
 method: boiled
 trait: judicious
-quote: I hereby declare this a red bean occasion.
-dailyFortune: Something today deserves to be marked. You already know what it is.
-seasonalFortune: The occasion will reveal itself. Your instinct for it has never been wrong.
+quote: To bean, or not to bean, that is the question.
+dailyFortune: Something today deserves to be marked.
 ---
 
 Beans born in the Season of the Boiled Bitter Adzuki Bean are the Bean Zodiac's most judicious — they carry the Adzuki Bean's deep instinct for celebration, but they do not spend it until the conditions have been met.

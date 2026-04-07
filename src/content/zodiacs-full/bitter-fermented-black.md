@@ -4,6 +4,12 @@ bean: black
 flavour: bitter
 method: fermented
 trait: brooding
+quote: Whatever our beans are made of, his and mine are the same.
+dailyFortune: Something forming within you for a long time is closer than you think.
 ---
 
-Beans born in the Season of the Fermented Bitter Black Bean are the Bean Zodiac's most brooding.
+Beans born in the Season of the Fermented Bitter Black Bean are the Bean Zodiac's most brooding — not the performance of depth, but the actual thing: a considerable interior that processes without announcing itself, and surfaces only when it is ready.
+
+Black Bean gives nothing up freely, revealing its richness only over time; Bitter strips away anything that doesn't genuinely earn its place; Fermented means the whole transformation happens in the dark, on its own schedule, refusing acceleration. What comes out is specific to the route: complex, aged, unlike anything produced by a faster method.
+
+The Fermented Bitter Black Bean's challenge is outlet. Brooding without any form of release becomes accumulation, and accumulation has nowhere to go. These Beans must find some expression — any — for what has been working in them.

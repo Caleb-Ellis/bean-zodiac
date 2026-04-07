@@ -4,9 +4,8 @@ bean: adzuki
 flavour: sour
 method: roasted
 trait: transparent
-quote: Open book. Open pod. That's all there is.
-dailyFortune: Say the true thing warmly. You know how to do both at once.
-seasonalFortune: The people who know you clearly this season know you that way because you let them. That has not made you smaller.
+quote: The naked bean is the most decent thing in the world.
+dailyFortune: Say the true thing warmly.
 ---
 
 Beans born in the Season of the Roasted Sour Adzuki Bean are the Bean Zodiac's most transparent — they offer the Adzuki's warmth and Roasted's convivial heat with the Sour's clarifying honesty, and the result is a Bean who is exactly what they appear to be.

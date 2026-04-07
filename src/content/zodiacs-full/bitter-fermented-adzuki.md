@@ -4,9 +4,8 @@ bean: adzuki
 flavour: bitter
 method: fermented
 trait: nostalgic
-quote: You can take the bean out of the festival, but you can't take the festival out of the bean.
+quote: The past is never dead. It's not even bean.
 dailyFortune: The memory asking for your attention is asking for a reason.
-seasonalFortune: What you have been carrying from before has not been dead weight. It has been telling you something.
 ---
 
 Beans born in the Season of the Fermented Bitter Adzuki Bean are the Bean Zodiac's most nostalgic — they have worked through joy and loss privately, against a bitter clarity, until what remains is a precise attachment to what has already been good.

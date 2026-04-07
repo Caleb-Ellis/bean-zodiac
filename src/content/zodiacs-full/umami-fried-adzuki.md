@@ -5,8 +5,7 @@ flavour: umami
 method: fried
 trait: passionate
 quote: Anything that gets your bean racing is worth doing!
-dailyFortune: The thing you care about most deserves the most of you today. Give it.
-seasonalFortune: What you have thrown yourself into this season was worth it. The depth was real.
+dailyFortune: The thing you care about most deserves the most of you today.
 ---
 
 Beans born in the Season of the Fried Umami Adzuki Bean are the Bean Zodiac's most passionate — the Adzuki's instinct for what deserves to be marked combines with Umami's depth of feeling, and the Fried Method means none of it is held back.

@@ -5,8 +5,7 @@ flavour: sour
 method: fermented
 trait: critical
 quote: You call this bean broth?
-dailyFortune: What you are seeing is not uncharitable. It is accurate.
-seasonalFortune: The standard you hold quietly is not too high. Others simply haven't caught up.
+dailyFortune: It is not uncharitable.
 ---
 
 Beans born in the Season of the Fermented Sour Cannellini Bean are the Bean Zodiac's most critical — not harsh, but constitutionally unable to look at something without knowing exactly how it could be better.

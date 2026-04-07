@@ -4,9 +4,8 @@ bean: adzuki
 flavour: sour
 method: boiled
 trait: sincere
-quote: No fillers. No artificial flavoring. Just 100% pure beany goodness.
-dailyFortune: Mean it exactly as much as you feel it. That is enough.
-seasonalFortune: The people who've received your honesty this season know the difference between real and performed. They are keeping count.
+quote: This above all - to thine own bean be true
+dailyFortune: Mean it exactly as much as you feel it.
 ---
 
 Beans born in the Season of the Boiled Sour Adzuki Bean are the Bean Zodiac's most sincere — they do not mark occasions they don't mean, and when they mean one, there is nothing between the feeling and the expression.

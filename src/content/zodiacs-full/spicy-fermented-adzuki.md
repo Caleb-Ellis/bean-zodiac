@@ -4,9 +4,8 @@ bean: adzuki
 flavour: spicy
 method: fermented
 trait: provocative
-quote: You stirred the pot. Don't act surprised it's hot.
+quote: Every act of creation is first an act of bean destruction.
 dailyFortune: The question you keep not asking deserves to be asked.
-seasonalFortune: What you have been preparing to say has been ready for some time. The room is as ready as it will get.
 ---
 
 Beans born in the Season of the Fermented Spicy Adzuki Bean are the Bean Zodiac's most provocative — what they bring out has been through private transformation and real heat, and it has a way of rearranging the conversation around it.

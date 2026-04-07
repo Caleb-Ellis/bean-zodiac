@@ -4,9 +4,8 @@ bean: adzuki
 flavour: umami
 method: roasted
 trait: warm
-quote: Come in. Sit down. The broth is always on.
-dailyFortune: Let someone know they are welcome. They are waiting to hear it.
-seasonalFortune: The warmth you have held this season has been felt by more people than will ever tell you.
+quote: There's no better feeling in the world than a warm bean on your lap.
+dailyFortune: Let someone know they are welcome.
 ---
 
 Beans born in the Season of the Roasted Umami Adzuki Bean are the Bean Zodiac's most warm — not as a mood or an effort, but as a quality that radiates outward the way a roasted bean fills the room: inevitably, all the way through.

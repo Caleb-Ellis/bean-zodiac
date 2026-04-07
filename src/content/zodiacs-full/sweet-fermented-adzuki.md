@@ -5,8 +5,7 @@ flavour: sweet
 method: fermented
 trait: sentimental
 quote: I kept the recipe. I kept everything.
-dailyFortune: Let it affect you. You don't have to explain it.
-seasonalFortune: The feelings you have been tending privately have been worth tending. They belong to real things.
+dailyFortune: Let it affect you.
 ---
 
 Beans born in the Season of the Fermented Sweet Adzuki Bean are the Bean Zodiac's most sentimental — they feel the weight of occasions and people with a completeness that is difficult to explain but impossible to miss.

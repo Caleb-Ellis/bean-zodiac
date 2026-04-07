@@ -4,9 +4,8 @@ bean: adzuki
 flavour: sweet
 method: boiled
 trait: joyful
-quote: Life is like a box of mochi - the best thing ever!
+quote: Life is what happens to you while you're busy making other beans.
 dailyFortune: Let today be as good as it already is.
-seasonalFortune: The joy you have carried this season has been doing something. You will see it soon.
 ---
 
 Beans born in the Season of the Boiled Sweet Adzuki Bean are the Bean Zodiac's most joyful — not occasionally bright, but constitutionally oriented toward what is good, the way something slow-cooked cannot help becoming sweet.

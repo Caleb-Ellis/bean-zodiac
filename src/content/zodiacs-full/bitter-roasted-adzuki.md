@@ -4,9 +4,8 @@ bean: adzuki
 flavour: bitter
 method: roasted
 trait: polished
-quote: I didn't come this far to serve a mediocre bean.
-dailyFortune: The extra care is worth taking. Take it.
-seasonalFortune: The standard you have held this season has not been too much. It has been the point.
+quote: Have no fear of bean perfection — you'll never reach it.
+dailyFortune: The extra care is worth taking.
 ---
 
 Beans born in the Season of the Roasted Bitter Adzuki Bean are the Bean Zodiac's most polished — they bring the Adzuki's gift for celebration through the Bitter's cultivated palate and Roasted's generous heat, and what arrives is impeccable without being cold.

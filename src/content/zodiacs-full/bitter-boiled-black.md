@@ -4,9 +4,8 @@ bean: black
 flavour: bitter
 method: boiled
 trait: measured
-quote: I've been simmering on this. I'll speak when the broth is ready.
-dailyFortune: Say the thing you have been weighing. It is ready.
-seasonalFortune: The depth is not invisible. Others can taste it, even if they cannot name it.
+quote: It was the best of beans, it was the worst of beans.
+dailyFortune: Say the thing you have been weighing.
 ---
 
 Beans born in the Season of the Boiled Bitter Black Bean are the Bean Zodiac's most measured — not through restraint learned, but through a nature that has never needed to speak before it is certain.

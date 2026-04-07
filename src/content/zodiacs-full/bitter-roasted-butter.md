@@ -5,8 +5,7 @@ flavour: bitter
 method: roasted
 trait: indulgent
 quote: If I have one more bean I'm gonna pop!
-dailyFortune: Choose the good version today. You will not regret it.
-seasonalFortune: The comfort you keep apologising for is the comfort worth keeping.
+dailyFortune: Choose the good version today.
 ---
 
 Beans born in the Season of the Roasted Bitter Butter Bean are the Bean Zodiac's most indulgent — not in the way of excess, but in the way of someone who has decided, thoughtfully and without apology, that quality is non-negotiable.

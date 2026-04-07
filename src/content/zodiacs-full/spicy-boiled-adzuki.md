@@ -4,9 +4,8 @@ bean: adzuki
 flavour: spicy
 method: boiled
 trait: spirited
-quote: Don't let the slow simmer fool you — I am absolutely on fire in here.
+quote: You've gotta have bean.
 dailyFortune: The energy you are bringing today is the right amount of energy.
-seasonalFortune: The slow heat has not been wasted. It has been building to something.
 ---
 
 Beans born in the Season of the Boiled Spicy Adzuki Bean are the Bean Zodiac's most spirited — they carry real heat, banked through a patient temperament that makes the fire last.

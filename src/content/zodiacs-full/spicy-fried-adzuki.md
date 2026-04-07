@@ -5,8 +5,7 @@ flavour: spicy
 method: fried
 trait: irrepressible
 quote: Don't stop me now - I'm having such a good bean!
-dailyFortune: Stop containing it. Let it go.
-seasonalFortune: The energy you have been bringing to things this season has not been too much. It has been exactly what was needed.
+dailyFortune: Stop containing it.
 ---
 
 Beans born in the Season of the Fried Spicy Adzuki Bean are the Bean Zodiac's most irrepressible — the Adzuki's instinct for celebration, through Spicy's demanding heat and Fried's refusal to wait, produces something that cannot be contained, only received.

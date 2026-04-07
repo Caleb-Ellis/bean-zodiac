@@ -5,8 +5,7 @@ flavour: spicy
 method: fried
 trait: spontaneous
 quote: Let's go! A bean in motion gathers no moss!
-dailyFortune: Say yes first. The plan will follow.
-seasonalFortune: Every room you walked into without a plan turned out fine. This one will too.
+dailyFortune: Say yes first.
 ---
 
 Beans born in the Season of the Fried Spicy Chickpea are the Bean Zodiac's most spontaneous — they don't wait for permission, or a plan, or the right moment.

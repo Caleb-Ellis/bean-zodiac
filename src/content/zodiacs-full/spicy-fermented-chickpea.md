@@ -6,7 +6,6 @@ method: fermented
 trait: offbeat
 quote: I've lost my damn beans.
 dailyFortune: The unexpected take you have been sitting on is the right one.
-seasonalFortune: Strange is just a word for something that hasn't found its context yet.
 ---
 
 Beans born in the Season of the Fermented Spicy Chickpea are the Bean Zodiac's most offbeat — they have the Chickpea's gift for connecting with anyone, but the ground they find tends to be somewhere unexpected.

@@ -4,9 +4,8 @@ bean: adzuki
 flavour: sour
 method: fried
 trait: candid
-quote: I call it as I taste it.
-dailyFortune: Say the thing you have been deciding whether to say. It is time.
-seasonalFortune: The honesty you have offered this season has cost you less than you feared. It has helped more than you know.
+quote: The truth will set you bean.
+dailyFortune: Say the thing you have been deciding whether to say.
 ---
 
 Beans born in the Season of the Fried Sour Adzuki Bean are the Bean Zodiac's most candid — the Adzuki's warmth arrives straight through the Sour's cutting clarity, at frying speed, and what comes out is honesty that is somehow both immediate and kind.
