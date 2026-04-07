@@ -9,8 +9,8 @@ quote: Here I stand. I can bean no other.
 fortune: The position you have stated clearly this season leaves one door unguarded — make it evident that disagreement is still allowed.
 ---
 
-Beans born in the Season of the Bitter Fried Cannellini Bean are the Bean Zodiac's most assertive — they know their position, they have considered it carefully, and they state it with a clarity that leaves very little room for ambiguity.
+Beans born in the Fried Season of the Bitter Cannellini Bean are the Bean Zodiac's most assertive — they know their position and state it clearly.
 
-Cannellini Bean is gracious but not vague — it elevates its surroundings because it knows what it is doing there; Bitter has already stripped the situation down to what genuinely matters; Fried delivers the resulting conviction at heat, decisively, without waiting for a softer opening. These Beans do not hedge. They say the thing, and have usually already considered the counterargument.
+Cannellini Bean is gracious but not vague; Bitter Beans strip situations down to what matters; Fried Beans deliver conviction at heat, decisively.
 
-The Bitter Fried Cannellini Bean's challenge is the room to disagree. These Beans state things so cleanly that other Beans sometimes forget they are allowed to push back. Assertiveness is a quality — it is not a verdict.
+The Fried Bitter Cannellini Bean's challenge is the room to disagree. They state things so cleanly others sometimes forget they're allowed to push back. Assertiveness is a quality, not a verdict.

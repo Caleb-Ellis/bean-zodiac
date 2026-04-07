@@ -9,8 +9,8 @@ quote: Two things are infinite - the universe and bean stupidity; and I'm not su
 fortune: Not everyone will want to be cut to the truth this season — decide once, for each, whether to lead with the answer or let the question finish forming.
 ---
 
-Beans born in the Season of the Bitter Fried Black Bean are the Bean Zodiac's most incisive — they do not search for the point; they have already found it, and they arrive there before anyone else has finished formulating the question.
+Beans born in the Fried Season of the Bitter Black Bean are the Bean Zodiac's most incisive — they find the point and deliver it instantly.
 
-Black Bean has been watching, weighing, processing long before it speaks; Bitter refuses anything that hasn't genuinely earned its place; Fried delivers the result instantly, at heat, with no deliberation visible in the output. What looks like a quick read is compressed observation. These Beans have done the groundwork.
+Black Bean watches and processes long before speaking; Bitter Beans refuse what hasn't earned its place; Fried Beans deliver instantly, at heat.
 
-The Bitter Fried Black Bean's challenge is the effect of speed on the recipient. Not everyone wants to be cut to the truth before they have had time to prepare. These Beans must decide when to lead with the answer and when to let the question finish forming.
+The Fried Bitter Black Bean's challenge is the effect of speed on recipients. Not everyone wants to be cut to truth before they're ready. They must decide when to lead with the answer and when to let the question finish forming.

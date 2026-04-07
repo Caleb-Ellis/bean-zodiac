@@ -5,12 +5,12 @@ flavour: umami
 method: boiled
 trait: quiet
 dish: Mung dal with umami depth and no announcement. Just there.
-quote: Silence is a bean fool's wisdom.
+quote: Silence is a bean's wisdom.
 fortune: The stillness has served its purpose this season — break it once, with the thing that has been waiting the longest to be said.
 ---
 
-Beans born in the Season of the Umami Boiled Mung Bean are the Bean Zodiac's most quiet — not silent, not withdrawn, but possessed of a stillness that the right things settle into.
+Beans born in the Boiled Season of the Umami Mung Bean are the Bean Zodiac's quietest — the noise around them decreases in their presence.
 
-Mung Bean's restoration happens without announcement; Umami provides the depth that makes silence feel substantial rather than empty; Boiled holds everything at a steady, unhurried temperature. The result is a Bean in whose presence the noise around them decreases. Umami Boiled Mung Beans do not need to speak for the room to feel their presence. They are the broth — foundational, felt.
+Mung Beans restore without announcement; Umami Beans give silence weight and meaning; Boiled Beans hold everything at a steady temperature.
 
-The Umami Boiled Mung Bean's challenge is speech. Quiet held too long becomes unavailability. These Beans have things worth saying, and the Beans around them need to hear them. Occasionally, the stillness must break.
+The Boiled Umami Mung Bean's challenge is speech. They must break the stillness occasionally with what has been waiting longest to be said.

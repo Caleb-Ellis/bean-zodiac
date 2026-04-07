@@ -9,8 +9,8 @@ quote: The bean's rays do not burn until brought to a focus.
 fortune: The exclusion has been correct this season — return briefly to the periphery before the season ends, and confirm nothing important has been lost there.
 ---
 
-Beans born in the Season of the Umami Fried Black Bean are the Bean Zodiac's most focused — not because they ignore what surrounds them, but because they have already weighed it, determined what matters, and narrowed to that thing completely.
+Beans born in the Fried Season of the Umami Black Bean are the Bean Zodiac's most focused — they've already decided what matters and they're there completely.
 
-Black Bean has been watching the whole time — nothing missed, everything processed; Umami provides the depth to know which thing is actually worth the full attention; Fried delivers the decision instantly, at heat, making it irreversible. The Umami Fried Black Bean does not multitask. Not because they cannot — because they have identified this as the cost of depth, and they pay it willingly.
+Black Beans watch everything; Umami Beans know which thing deserves full attention; Fried Beans deliver the decision at heat.
 
-The Umami Fried Black Bean's challenge is the relationship to what has been set aside. Focus requires exclusion, and exclusion has consequences. These Beans must occasionally turn their full attention toward the periphery — not to disperse it, but to ensure nothing important has been lost there.
+The Fried Umami Black Bean's challenge is what has been set aside. They must occasionally attend to the periphery to ensure nothing important has been lost there.

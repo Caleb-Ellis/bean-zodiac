@@ -9,8 +9,8 @@ quote: A bean should be more careful of his learning than of the pebble in his s
 fortune: The season has given you material and the material has found its shape — send it, even on the days when the plain draft is all that is ready.
 ---
 
-Beans born in the Season of the Umami Fermented Mung Bean are the Bean Zodiac's most poetic — they find the exact shape of a thing and hold it up in a way that makes it visible to everyone else for the first time.
+Beans born in the Fermented Season of the Umami Mung Bean are the Bean Zodiac's most poetic — when they speak, the phrase lands and stays.
 
-Mung Bean sees what is small and ordinary and knows it for something vivid; Umami provides the depth that turns observation into resonance; Fermented takes the whole thing into the dark and works on it until the form has been found. Umami Fermented Mung Beans do not speak quickly. When they do, the phrase lands and stays.
+Mung Beans see what is ordinary as vivid; Umami Beans turn observation into resonance; Fermented Beans work things in the dark until form emerges.
 
-The Umami Fermented Mung Bean's challenge is the ordinary version. Not every communication can bear this weight. These Beans must learn to send the plain draft when the plain draft is what is needed.
+The Fermented Umami Mung Bean's challenge is plainness. They must learn to send the plain draft when that is what is needed.

@@ -9,8 +9,8 @@ quote: The bean is in the details.
 fortune: This season, step back from the brushwork far enough to see whether the whole canvas is going in the direction you intended.
 ---
 
-Beans born in the Season of the Bitter Boiled Pinto Bean are the Bean Zodiac's most detail-oriented — they notice what others skip, and they do not skip it on purpose.
+Beans born in the Boiled Season of the Bitter Pinto Bean are the Bean Zodiac's most detail-oriented — they notice what others skip, finding errors most miss.
 
-Pinto Bean's markings are a study in specificity: each speckle placed exactly so, each streak individual, a surface that rewards close looking; Bitter insists that only what genuinely earns its place should remain; Boiled steeps the whole arrangement slowly, leaving nothing unexamined. These Beans have already found the error in the third line of the second paragraph.
+Pinto Bean's specificity rewards close looking; Bitter Beans keep only what genuinely earns its place; Boiled Beans steep everything slowly, leaving nothing unexamined.
 
-The Bitter Boiled Pinto Bean's challenge is distance. A detail-oriented eye can lose the view from far away. These Beans must occasionally step back from the brushwork to see the whole canvas.
+The Boiled Bitter Pinto Bean's challenge is distance. A detail-oriented eye can lose the far view. They must occasionally step back from brushwork to see the whole canvas.

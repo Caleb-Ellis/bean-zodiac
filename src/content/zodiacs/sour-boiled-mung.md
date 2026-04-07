@@ -9,8 +9,8 @@ quote: Fiat justitia ruat bean.
 fortune: The impartiality has held this season — what it has built is a reputation for fairness that will outlast the situation that required it.
 ---
 
-Beans born in the Season of the Sour Boiled Mung Bean are the Bean Zodiac's most impartial — they see what is there, not what they want to be there, and they apply the same clear measure to everything.
+Beans born in the Boiled Season of the Sour Mung Bean are the Bean Zodiac's most impartial — they see what is there, not what they wish were there.
 
-Mung Bean's instinct is to help rather than judge; Sour clears away attachment and sentiment, leaving only the accurate view; Boiled steadies all of this, producing a composure that does not tilt toward either side. Sour Boiled Mung Beans are not cold. They are fair. When they offer a view on something, it has been stripped of preference, and this is why others bring them their hardest calls.
+Mung Beans help rather than judge; Sour Beans clear away attachment; Boiled Beans steady this into a composed fairness.
 
-The Sour Boiled Mung Bean's challenge is care. Impartiality applied without warmth can feel like indifference. These Beans must remember that seeing clearly is not the same as being unmoved.
+The Boiled Sour Mung Bean's challenge is warmth. They must remember that seeing clearly is not the same as being unmoved.

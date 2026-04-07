@@ -9,8 +9,8 @@ quote: Have no fear of bean perfection — you'll never reach it.
 fortune: The season will hold its shape even without you catching every edge — let the occasion be a little rough and stay in it anyway.
 ---
 
-Beans born in the Season of the Bitter Roasted Adzuki Bean are the Bean Zodiac's most polished — they bring the Adzuki's gift for celebration through the Bitter's cultivated palate and Roasted's generous heat, and what arrives is impeccable without being cold.
+Beans born in the Roasted Season of the Bitter Adzuki Bean are the Bean Zodiac's most polished — impeccable without being cold.
 
-Adzuki Bean knows when something deserves to be marked; Bitter ensures the marking is genuinely earned — no flat sweetness, nothing undeveloped; Roasted coaxes everything into its fullest expression and does it without apology. The occasion is prepared and the preparation doesn't show. The details are right and no one had to ask them to be.
+Adzuki Bean knows when something deserves marking; Bitter Beans ensure marking is genuinely earned; Roasted Beans coax everything into fullest expression without apology.
 
-The Bitter Roasted Adzuki Bean's challenge is allowing imperfection in the room. A polished temperament can make those nearby feel underdressed — not from unkindness, but because the gap is visible. These Beans must occasionally let the evening be a little rough and stay in it anyway.
+The Roasted Bitter Adzuki Bean's challenge is allowing imperfection in the room. A polished temperament can make others feel underdressed. They must occasionally let the evening be rough and stay in it.

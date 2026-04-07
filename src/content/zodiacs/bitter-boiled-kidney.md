@@ -9,8 +9,8 @@ quote: The bean that matters most is not the one you were born with, but the one
 fortune: The commitment you have kept this season is real — examine once whether staying still serves the one you are staying for.
 ---
 
-Beans born in the Season of the Bitter Boiled Kidney Bean are the Bean Zodiac's most loyal — they do not give themselves easily, but once given, they do not take themselves back.
+Beans born in the Boiled Season of the Bitter Kidney Bean are the Bean Zodiac's most loyal — they commit completely and stay, long after others leave.
 
-Bitter Boiled Kidney Beans hold. Kidney Bean already runs at a depth that ordinary commitment cannot reach; Bitter refuses to perform loyalty for anyone who hasn't genuinely earned it; Boiled means the decision, once made, is made completely — these Beans do not simmer in half-measures. They are the ones who show up through difficulty, who colour everything they are part of, who are still there after the easy season has passed.
+Kidney Bean runs at a depth ordinary commitment cannot reach; Bitter Beans refuse loyalty to those who haven't earned it; Boiled Beans make decisions completely.
 
-The Bitter Boiled Kidney Bean's challenge is knowing that loyalty is a practice, not a credential. These Beans must not let their depth of commitment become a reason to stay past the point where staying serves anyone.
+The Boiled Bitter Kidney Bean's challenge is knowing loyalty is a practice, not a credential. They must not let commitment become a reason to stay when staying no longer serves.

@@ -9,4 +9,4 @@ Sweet is the easiest flavour to love and the hardest to use well. Too much and e
 
 Sweet Years carry effortlessness. Connections form naturally. Goodwill circulates freely. The world feels gentler than it usually does, and this is not luck — it is the year extending an invitation. The only task is to receive what is given, and to extend the same outward.
 
-Sweet's shadow is laziness. Ease sustained without intention curdles into avoidance. The Sweet Year asks you to savour abundance without mistaking it for the permanent order of things.
+Sweet's shadow is complacency. Ease sustained without intention curdles into avoidance. The Sweet Year asks you to savour abundance without mistaking it for the permanent order of things.

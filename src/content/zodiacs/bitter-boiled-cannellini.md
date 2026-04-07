@@ -9,8 +9,8 @@ quote: The bean you refuse is as important as the bean you accept.
 fortune: Discernment is the tool, not the door — this season, let one thing through that only almost earned it.
 ---
 
-Beans born in the Season of the Bitter Boiled Cannellini Bean are the Bean Zodiac's most discerning — they can identify what is worth their attention from across the room, and they do not give that attention to anything that hasn't earned it.
+Beans born in the Boiled Season of the Bitter Cannellini Bean are the Bean Zodiac's most discerning — they judge carefully what deserves their attention.
 
-Cannellini Bean curates ruthlessly — its nature is to refine and elevate whatever surrounds it; Bitter strips away what doesn't genuinely earn its place; Boiled steeps the whole arrangement slowly, until certainty has become something more than preference. These Beans are not finicky — they are precise.
+Cannellini Bean elevates everything it touches; Bitter Beans strip away what hasn't earned its place; Boiled Beans steep slowly, building certainty.
 
-The Bitter Boiled Cannellini Bean's challenge is access. A standard held too consistently becomes a wall. These Beans must remember that discernment is a tool for finding what is good — not a fortress for keeping everything out.
+The Boiled Bitter Cannellini Bean's challenge is knowing when standards become walls. They must remember that discernment finds what is good, not just keeps everything out.

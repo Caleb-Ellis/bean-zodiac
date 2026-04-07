@@ -9,8 +9,8 @@ quote: This above all - to thine own bean be true
 fortune: What you mean this season, you mean without reservation — that is sufficient, and it is enough.
 ---
 
-Beans born in the Season of the Sour Boiled Adzuki Bean are the Bean Zodiac's most sincere — they do not mark occasions they don't mean, and when they mean one, there is nothing between the feeling and the expression.
+Beans born in the Boiled Season of the Sour Adzuki Bean are the Bean Zodiac's most sincere — they celebrate only what they truly feel, and feel without restraint.
 
-Adzuki Bean's instinct is for celebration; Sour strips away anything performative, leaving only what is genuinely felt; Boiled refuses to surface before the feeling is real. When they celebrate you, the red tints everything — not because they planned an effect, but because they cannot help it when they mean it.
+Adzuki Beans celebrate with genuine joy; Sour Beans strip away anything false; Boiled Beans sit with feeling until it's real.
 
-The Sour Boiled Adzuki Bean's challenge is trusting that sincerity is enough. Their joy is real but rarely decorated. These Beans must learn that meaning something fully, and saying so plainly, is the whole gift.
+The Boiled Sour Adzuki Bean's challenge is trusting that sincerity is enough. They must learn that meaning something fully is the whole gift.

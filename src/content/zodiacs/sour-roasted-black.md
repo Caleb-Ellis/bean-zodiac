@@ -9,8 +9,8 @@ quote: The importance of being bean.
 fortune: The earnestness this season has cost something — trust that what it built in return is more durable than what a guarded approach would have produced.
 ---
 
-Beans born in the Season of the Sour Roasted Black Bean are the Bean Zodiac's most earnest — not naive, not without edges, but genuinely in contact with what they actually feel, and constitutionally committed to expressing it without pretence.
+Beans born in the Roasted Season of the Sour Black Bean are the Bean Zodiac's most earnest — genuinely in contact with what they feel.
 
-Black Bean has real depth and does not traffic in surfaces; Sour means the honesty is clarifying rather than decorative — these Beans do not perform sincerity, they simply cannot find a use for its absence; Roasted brings the warmth outward, so the earnestness arrives not as cold candour but as something closer to an invitation.
+Black Beans have real depth; Sour Beans make honesty clarifying; Roasted Beans bring warmth so earnestness feels like invitation.
 
-The Sour Roasted Black Bean's challenge is armour. Earnestness costs something, and the world does not always meet an open thing with equal openness. These Beans must learn to protect their sincerity without encasing it.
+The Roasted Sour Black Bean's challenge is protection. They must learn to shield sincerity without encasing it.

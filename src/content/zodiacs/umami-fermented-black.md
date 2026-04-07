@@ -9,8 +9,8 @@ quote: Who looks outside, dreams; who looks inside, awakens the bean.
 fortune: The depth has been real and the season has given it room — bring something up from it now, so it remains a source rather than a residence.
 ---
 
-Beans born in the Season of the Umami Fermented Black Bean are the Bean Zodiac's most introspective — not as habit or preference, but as the primary mode in which they exist: turned inward, working, finding things that the surface could not have shown.
+Beans born in the Fermented Season of the Umami Black Bean are the Bean Zodiac's most introspective — they live substantially inside.
 
-Black Bean's cream interior is never what the outside suggests; Umami means the depth in there is real, rich, and rewards whoever goes looking; Fermented means the whole enterprise happens on a schedule that refuses interference, at a temperature no one else regulates. These Beans live substantially inside. What they bring up from that depth is real and often unlike anything anyone else produces.
+Black Beans have interiors the surface never suggests; Umami Beans make the depth real and rewarding; Fermented Beans work on their own schedule at their own temperature.
 
-The Umami Fermented Black Bean's challenge is the return. Extended introspection can close the gap between inside and outside until the way back is no longer obvious. These Beans must maintain the practice of bringing things up — not everything, but something — so that the depth remains a source rather than a retreat.
+The Fermented Umami Black Bean's challenge is return. They must maintain the practice of bringing things up from that depth so it remains a source rather than a retreat.

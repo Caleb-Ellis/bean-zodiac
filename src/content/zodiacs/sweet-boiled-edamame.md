@@ -9,8 +9,8 @@ quote: The strength of a bean lies not in its weight, but in its reliability.
 fortune: What is always there stops being seen as a gift — let someone know what it costs this season, not as a grievance but as a true thing.
 ---
 
-Beans born in the Season of the Sweet Boiled Edamame are the Bean Zodiac's most dependable — they show up exactly as promised, at exactly the right time, with no drama either direction.
+Beans born in the Boiled Season of the Sweet Edamame are the Bean Zodiac's most dependable — showing up exactly as promised, with no drama.
 
-Edamame doesn't make a ceremony of delivery; Sweet means the reliability comes with a warmth that makes it feel like generosity rather than duty; Boiled is the long, patient steadiness that makes it real rather than occasional. These Beans are the ones people build their plans around, often without realising that's what they've been doing.
+Edamame makes no ceremony of delivery; Sweet Beans warm the reliability, making it feel like generosity; Boiled Beans make it real, not occasional.
 
-The Sweet Boiled Edamame's challenge is that dependability can become invisible. What is always there stops being noticed. These Beans must occasionally let someone know what it costs to be this consistent.
+The Boiled Sweet Edamame's challenge is visibility. They must let someone know what it costs to be this consistent, so the gift is not lost.

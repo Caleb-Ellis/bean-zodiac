@@ -9,8 +9,8 @@ quote: The secret of getting ahead is getting bean started.
 fortune: Check the compass this season — momentum without direction is just speed, and what you are moving toward still needs to be yours.
 ---
 
-Beans born in the Season of the Sweet Fried Edamame are the Bean Zodiac's most motivated — not restless, but reliably pointed toward something, moving toward it with a warmth and urgency that makes others want to move with them.
+Beans born in the Fried Season of the Sweet Edamame are the Bean Zodiac's most motivated — reliably pointed toward something, moving with warmth and urgency that pulls others along.
 
-Edamame strips away the barriers between intention and action; Sweet means the motivation is generous, flowing outward and pulling others along without meaning to; Fried converts intention to motion immediately, nothing cooling between the idea and the start. These Beans don't wait for inspiration because they don't distinguish it from the work.
+Edamame strips away barriers between intention and action; Sweet Beans make the motivation generous, flowing outward; Fried Beans convert intention to motion immediately.
 
-The Sweet Fried Edamame's challenge is knowing when the drive comes from them and when it comes from the project. Motivated Beans who have lost the thread can keep moving for a while before they notice. They must occasionally check the compass.
+The Fried Sweet Edamame's challenge is knowing when the drive comes from them versus the project. They must occasionally check the compass to ensure their momentum has direction.

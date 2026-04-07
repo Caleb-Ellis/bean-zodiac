@@ -9,8 +9,8 @@ quote: I think, therefore I am a bean.
 fortune: What you have been thinking about this season is ready — find the form that makes it available to someone other than you.
 ---
 
-Beans born in the Season of the Sweet Fermented Black Bean are the Bean Zodiac's most contemplative — not withdrawn or remote, but genuinely occupied with an interior that has been working for a long time and has not yet shown everything it has found.
+Beans born in the Fermented Season of the Sweet Black Bean are the Bean Zodiac's most contemplative — occupied with an interior that has been working for a long time.
 
-Black Bean's richness comes up slowly; Sweet means the interior work is not struggle but something closer to pleasure — these Beans enjoy the thinking, find the consideration satisfying rather than grinding; Fermented means it all happens at depth, without external pressure driving it, at a pace that no one can accelerate from outside. The Sweet Fermented Black Bean's interior world is, from the inside, quite a pleasant place to be.
+Black Beans develop their richness slowly; Sweet Beans make the interior work something closer to pleasure; Fermented Beans work at depth, unpressured by external timeline.
 
-The Sweet Fermented Black Bean's challenge is emergence. Contemplation that never breaks surface cannot nourish anyone else. These Beans must find the form in which what they have been considering can become available — not all of it, but enough.
+The Fermented Sweet Black Bean's challenge is emergence. They must find the form in which what they have been considering becomes available to others, not just to themselves.

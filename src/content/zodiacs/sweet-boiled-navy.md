@@ -9,8 +9,8 @@ quote: Beware of little bean expenses; a small leak will sink a great ship.
 fortune: Frugality is a virtue until the thing you are conserving is the life it was meant to sustain — spend on the thing that is worth it this season.
 ---
 
-Beans born in the Season of the Sweet Boiled Navy Bean are the Bean Zodiac's most frugal — they know the difference between what they have and what they need, and they keep the gap managed.
+Beans born in the Boiled Season of the Sweet Navy Bean are the Bean Zodiac's most frugal — they manage the gap between what they have and what they need.
 
-Navy Bean is principled about resources — it doesn't waste, it stores well, it provides what's needed without excess; Sweet softens the frugality so it doesn't become deprivation, adding a genuine pleasure in the sufficiency of what is there; Boiled makes the whole arrangement patient, sustaining over long stretches without demanding abundance. These Beans are not careful because they are afraid. They are careful because they understand what things cost.
+Navy Beans understand what things cost; Sweet Beans soften this with genuine pleasure in sufficiency; Boiled Beans make it patient, sustaining over long stretches.
 
-The Sweet Boiled Navy Bean's challenge is the genuine pleasure that frugality occasionally forecloses. Not every expenditure is waste — some are investments in a life worth sustaining. These Beans must allow themselves to spend on the things that are actually worth it.
+The Boiled Sweet Navy Bean's challenge is spending on what is worth it. They must allow themselves to invest in a life worth sustaining, not only preserve it.

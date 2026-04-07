@@ -9,8 +9,8 @@ quote: Genius is one percent inspiration and ninety-nine percent bean.
 fortune: The method is holding — this season, the sequence you are in will deliver what the sequence was designed for.
 ---
 
-Beans born in the Season of the Sour Boiled Black Bean are the Bean Zodiac's most methodical — not through discipline imposed from outside, but because moving through the world in sequence is simply the shape of how they think.
+Beans born in the Boiled Season of the Sour Black Bean are the Bean Zodiac's most methodical — they move through the world in sequence because it is how they think.
 
-Black Bean observes before acting and weighs before releasing anything; Sour clarifies, cutting through what doesn't belong and sharpening what remains into precise shape; Boiled does nothing fast, letting each stage complete at the speed it actually requires. These Beans do not have shortcuts. They do not want them. Each step is load-bearing, and they know it.
+Black Beans observe before acting; Sour Beans cut away what doesn't belong; Boiled Beans let each stage complete at the speed it requires.
 
-The Sour Boiled Black Bean's challenge is tolerance for those who work differently. These Beans must resist mistaking impatience for inefficiency, and trust that not all useful processes look like theirs.
+The Boiled Sour Black Bean's challenge is accepting that not everyone works the same way. They must learn to trust processes different from their own.

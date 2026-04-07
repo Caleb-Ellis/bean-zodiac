@@ -9,8 +9,8 @@ quote: You gain strength, courage, and confidence by every bean in which you rea
 fortune: The conditions are not going to become perfect — step forward before the season ends, while there is still season left to step into.
 ---
 
-Beans born in the Season of the Umami Boiled Pinto Bean are the Bean Zodiac's most timid — not without resources, but uncertain, at the crucial moment, whether the moment is right.
+Beans born in the Boiled Season of the Umami Pinto Bean are the Bean Zodiac's most timid — they're uncertain whether the moment is right, despite having much to offer.
 
-Pinto Bean has a rich interior life; its markings are only what it has chosen to show, and the rest is a whole landscape kept private; Umami deepens this further, adding layers that have been building quietly for a long time; Boiled holds everything in a slow, patient heat that sustains without surfacing. These Beans have a great deal to offer. They are not yet sure the conditions are ready.
+Pinto Beans keep their interior landscape private; Umami Beans add layers built quietly over time; Boiled Beans hold everything in slow heat that sustains without surfacing.
 
-The Umami Boiled Pinto Bean's challenge is readiness. Readiness is not something that arrives — it is something decided. These Beans must learn to step forward before the moment is perfect, because the perfect moment is mostly just the next one they will also miss.
+The Boiled Umami Pinto Bean's challenge is action. Readiness is not something that arrives, and they must step forward before the perfect moment, which is always the next one they will miss.

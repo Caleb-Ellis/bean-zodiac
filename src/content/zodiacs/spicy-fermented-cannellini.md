@@ -9,8 +9,8 @@ quote: The devil is in the beans.
 fortune: Not every detail this season was load-bearing — identify the ones that were, and release the ones that simply caught the light.
 ---
 
-Beans born in the Season of the Spicy Fermented Cannellini Bean are the Bean Zodiac's most persnickety — the small thing that isn't quite right bothers them, specifically, in a way they find difficult to set aside until it has been addressed.
+Beans born in the Fermented Season of the Spicy Cannellini Bean are the Bean Zodiac's most persnickety — small wrongs bother them until fixed.
 
-Cannellini Bean curates ruthlessly — even a minor detail out of place registers as wrong in a way these Beans cannot overlook; Spicy means the irritation is immediate, a heat that doesn't cool just because the issue is minor; Fermented processes it internally and at length — by the time these Beans surface their concern, they have usually also arrived at the solution. The detail matters because the whole matters. The small thing is never just the small thing.
+Cannellini Beans curate ruthlessly and cannot overlook detail; Spicy Beans make irritation immediate and hard to dismiss; Fermented Beans process internally at length before surfacing their concern and solution.
 
-The Spicy Fermented Cannellini Bean's challenge is proportion. Not every small thing deserves the full weight of this machinery. These Beans must learn to distinguish the detail that is load-bearing from the detail that simply caught the light.
+The Fermented Spicy Cannellini Bean's challenge is proportion. They must learn to distinguish the detail that is load-bearing from the detail that simply caught the light.

@@ -9,8 +9,8 @@ quote: Bean cannot endure either perfect solitude or perfect society.
 fortune: The season has given your nervous system more material than it needed — build the gap between signal and response before the next one starts, while you can still choose the size.
 ---
 
-Beans born in the Season of the Spicy Fried Mung Bean are the Bean Zodiac's most high-strung — they are tuned to a register that picks up everything, and they are always, quietly or not, already responding.
+Beans born in the Fried Season of the Spicy Mung Bean are the Bean Zodiac's most high-strung — they respond to everything immediately.
 
-Mung Bean runs alert beneath its gentle surface, monitoring the room; Spicy turns the gain up until everything feels immediate; Fried means the response comes before the full picture has arrived. Spicy Fried Mung Beans are not anxious without reason. Their reasons are just faster than everyone else's, and arrive before the calm explanation does.
+Mung Beans run alert beneath gentle surface; Spicy Beans turn the gain up until everything feels immediate; Fried Beans respond before the full picture arrives.
 
-The Spicy Fried Mung Bean's challenge is lag. Not every stimulus requires a response in the moment it is detected. These Beans must find a gap — even a small one — between signal and reaction.
+The Fried Spicy Mung Bean's challenge is lag. They must find a gap between signal and reaction, however small.

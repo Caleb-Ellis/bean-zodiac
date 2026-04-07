@@ -9,8 +9,8 @@ quote: It is not the strongest bean that survives, nor the most intelligent, but
 fortune: The adaptation this season was the right call — the thing you bent to meet was worth bending for, and the shape you hold now is still yours.
 ---
 
-Beans born in the Season of the Sour Boiled Chickpea are the Bean Zodiac's most flexible — they bend to meet what a situation requires without losing the thread of what they are, and they return to themselves when the pressure lifts.
+Beans born in the Boiled Season of the Sour Chickpea are the Bean Zodiac's most flexible — they bend to meet what a situation requires, then return to themselves.
 
-Chickpea holds its shape or dissolves into something new, making the right call — the flexibility is a genuine intelligence about what the moment needs, not passivity; Sour clarifies which part of the arrangement requires change and which should be held firm; Boiled provides the patience for long, considered adaptation that reshapes rather than breaks. These Beans do not resist the pivot. They also do not pivot without reason.
+Chickpeas hold or dissolve as needed; Sour Beans clarify what should change; Boiled Beans reshape without breaking.
 
-The Sour Boiled Chickpea's challenge is the point of not bending. Flexibility that extends without limit eventually loses its shape. These Beans must know which part of themselves is non-negotiable — and hold it.
+The Boiled Sour Chickpea's challenge is knowing what not to bend. They must learn which part of themselves is non-negotiable.

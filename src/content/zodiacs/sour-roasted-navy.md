@@ -6,11 +6,11 @@ method: roasted
 trait: understated
 dish: Roasted navy bean with lemon and quiet confidence. Doesn't announce.
 quote: The bean doth protest too little, methinks.
-fortune: What was held back this season has not gone unnoticed — the people paying attention have seen what was there without the announcement, and they are the ones that count.
+fortune: What was held back this season has not gone unnoticed — the Beans paying attention have seen what was there without the announcement, and they are the ones that count.
 ---
 
-Beans born in the Season of the Sour Roasted Navy Bean are the Bean Zodiac's most understated — they have a great deal to offer and they offer it without announcement, leaving it to others to notice.
+Beans born in the Roasted Season of the Sour Navy Bean are the Bean Zodiac's most understated — they offer much without announcement.
 
-Navy Bean is quietly indispensable — it doesn't need to be seen to be essential; Sour has edited out anything that felt like performance, anything that was there to be noticed rather than to be useful; Roasted provides the warmth that keeps the whole arrangement from being cold, but holds it low enough that you might miss it until you need it. These Beans do not state what they bring. They simply bring it.
+Navy Beans are quietly indispensable; Sour Beans edit out performance; Roasted Beans hold warmth low enough you might miss it.
 
-The Sour Roasted Navy Bean's challenge is being known. Understatement is a virtue, but a virtue that is never read is a virtue that was never received. These Beans must occasionally say the thing they are only showing.
+The Roasted Sour Navy Bean's challenge is being known. They must occasionally say what they are only showing.

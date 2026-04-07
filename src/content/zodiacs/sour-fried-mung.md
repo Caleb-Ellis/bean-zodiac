@@ -9,8 +9,8 @@ quote: I am so clever that sometimes I don't understand a single bean of what I 
 fortune: The jokes this season have been landing and costing something — let one thing about yourself be true this season without also being funny.
 ---
 
-Beans born in the Season of the Sour Fried Mung Bean are the Bean Zodiac's most self-deprecating — they get there before anyone else can, and they make it funnier than anyone else would.
+Beans born in the Fried Season of the Sour Mung Bean are the Bean Zodiac's most self-deprecating — they get there first and make it funnier.
 
-Mung Bean's vulnerability sits close to the surface; Sour has already seen the awkwardness clearly and named it; Fried delivers the observation fast, before the moment passes, with a heat that turns honesty into something that makes the room relax. Sour Fried Mung Beans do not dwell. They make the joke and move on. The joke is usually true, which is what makes it land.
+Mung Beans have vulnerability at the surface; Sour Beans name awkwardness clearly; Fried Beans deliver fast, turning honesty into ease.
 
-The Sour Fried Mung Bean's challenge is the difference between self-awareness and self-diminishment. These Beans must be careful that the laugh is not coming at a cost they are not tracking.
+The Fried Sour Mung Bean's challenge is self-awareness versus self-diminishment. They must ensure the laugh isn't costing them.

@@ -1,28 +1,28 @@
 @import "tailwindcss";
 
 :root {
-  --bean-adzuki:     #e05a46;
-  --bean-black:      #9966ff;
-  --bean-butter:     #f5d048;
+  --bean-adzuki: #e05a46;
+  --bean-black: #9966ff;
+  --bean-butter: #f5d048;
   --bean-cannellini: #f0e880;
-  --bean-chickpea:   #f5b830;
-  --bean-edamame:    #6ee030;
-  --bean-fava:       #d49a3c;
-  --bean-green:      #28d464;
-  --bean-kidney:     #e82038;
-  --bean-mung:       #90d038;
-  --bean-navy:       #5599ff;
-  --bean-pinto:      #e88040;
+  --bean-chickpea: #f5b830;
+  --bean-edamame: #6ee030;
+  --bean-fava: #d49a3c;
+  --bean-green: #28d464;
+  --bean-kidney: #e82038;
+  --bean-mung: #90d038;
+  --bean-navy: #5599ff;
+  --bean-pinto: #e88040;
 
-  --flavour-sweet:  oklch(75% 0.29 324.989);
-  --flavour-sour:   oklch(70% 0.32 141.814);
-  --flavour-bitter: oklch(65% 0.30 264.703);
-  --flavour-umami:  oklch(80% 0.22 77.947);
-  --flavour-spicy:  oklch(70% 0.31 28.212);
+  --flavour-sweet: oklch(75% 0.29 324.989);
+  --flavour-sour: oklch(70% 0.32 141.814);
+  --flavour-bitter: oklch(65% 0.35 264.703);
+  --flavour-umami: oklch(80% 0.22 77.947);
+  --flavour-spicy: oklch(70% 0.31 28.212);
 
-  --method-fried:     oklch(65% 0.16 20);
-  --method-roasted:   oklch(90% 0.05 60);
-  --method-boiled:    oklch(65% 0.16 240);
+  --method-fried: oklch(65% 0.16 20);
+  --method-roasted: oklch(80% 0.1 60);
+  --method-boiled: oklch(65% 0.16 240);
   --method-fermented: oklch(65% 0.16 150);
 }
 
@@ -40,7 +40,9 @@
   right: 50%;
   height: 1px;
   background: white;
-  transition: left 0.25s ease, right 0.25s ease;
+  transition:
+    left 0.25s ease,
+    right 0.25s ease;
 }
 
 .link:hover::after,
@@ -59,65 +61,179 @@
   }
 }
 
+.bean-adzuki {
+  color: var(--bean-adzuki);
+}
+.bean-black {
+  color: var(--bean-black);
+}
+.bean-butter {
+  color: var(--bean-butter);
+}
+.bean-cannellini {
+  color: var(--bean-cannellini);
+}
+.bean-chickpea {
+  color: var(--bean-chickpea);
+}
+.bean-edamame {
+  color: var(--bean-edamame);
+}
+.bean-fava {
+  color: var(--bean-fava);
+}
+.bean-green {
+  color: var(--bean-green);
+}
+.bean-kidney {
+  color: var(--bean-kidney);
+}
+.bean-mung {
+  color: var(--bean-mung);
+}
+.bean-navy {
+  color: var(--bean-navy);
+}
+.bean-pinto {
+  color: var(--bean-pinto);
+}
 
-.bean-adzuki     { color: var(--bean-adzuki); }
-.bean-black      { color: var(--bean-black); }
-.bean-butter     { color: var(--bean-butter); }
-.bean-cannellini { color: var(--bean-cannellini); }
-.bean-chickpea   { color: var(--bean-chickpea); }
-.bean-edamame    { color: var(--bean-edamame); }
-.bean-fava       { color: var(--bean-fava); }
-.bean-green      { color: var(--bean-green); }
-.bean-kidney     { color: var(--bean-kidney); }
-.bean-mung       { color: var(--bean-mung); }
-.bean-navy       { color: var(--bean-navy); }
-.bean-pinto      { color: var(--bean-pinto); }
+.bg-bean-adzuki {
+  background-color: var(--bean-adzuki);
+}
+.bg-bean-black {
+  background-color: var(--bean-black);
+}
+.bg-bean-butter {
+  background-color: var(--bean-butter);
+}
+.bg-bean-cannellini {
+  background-color: var(--bean-cannellini);
+}
+.bg-bean-chickpea {
+  background-color: var(--bean-chickpea);
+}
+.bg-bean-edamame {
+  background-color: var(--bean-edamame);
+}
+.bg-bean-fava {
+  background-color: var(--bean-fava);
+}
+.bg-bean-green {
+  background-color: var(--bean-green);
+}
+.bg-bean-kidney {
+  background-color: var(--bean-kidney);
+}
+.bg-bean-mung {
+  background-color: var(--bean-mung);
+}
+.bg-bean-navy {
+  background-color: var(--bean-navy);
+}
+.bg-bean-pinto {
+  background-color: var(--bean-pinto);
+}
 
-.bg-bean-adzuki     { background-color: var(--bean-adzuki); }
-.bg-bean-black      { background-color: var(--bean-black); }
-.bg-bean-butter     { background-color: var(--bean-butter); }
-.bg-bean-cannellini { background-color: var(--bean-cannellini); }
-.bg-bean-chickpea   { background-color: var(--bean-chickpea); }
-.bg-bean-edamame    { background-color: var(--bean-edamame); }
-.bg-bean-fava       { background-color: var(--bean-fava); }
-.bg-bean-green      { background-color: var(--bean-green); }
-.bg-bean-kidney     { background-color: var(--bean-kidney); }
-.bg-bean-mung       { background-color: var(--bean-mung); }
-.bg-bean-navy       { background-color: var(--bean-navy); }
-.bg-bean-pinto      { background-color: var(--bean-pinto); }
+.flavour-sweet {
+  color: var(--flavour-sweet);
+}
+.flavour-sour {
+  color: var(--flavour-sour);
+}
+.flavour-bitter {
+  color: var(--flavour-bitter);
+}
+.flavour-umami {
+  color: var(--flavour-umami);
+}
+.flavour-spicy {
+  color: var(--flavour-spicy);
+}
 
-.flavour-sweet  { color: var(--flavour-sweet); }
-.flavour-sour   { color: var(--flavour-sour); }
-.flavour-bitter { color: var(--flavour-bitter); }
-.flavour-umami  { color: var(--flavour-umami); }
-.flavour-spicy  { color: var(--flavour-spicy); }
+.bg-flavour-sweet {
+  background-color: var(--flavour-sweet);
+}
+.bg-flavour-sour {
+  background-color: var(--flavour-sour);
+}
+.bg-flavour-bitter {
+  background-color: var(--flavour-bitter);
+}
+.bg-flavour-umami {
+  background-color: var(--flavour-umami);
+}
+.bg-flavour-spicy {
+  background-color: var(--flavour-spicy);
+}
 
-.bg-flavour-sweet  { background-color: var(--flavour-sweet); }
-.bg-flavour-sour   { background-color: var(--flavour-sour); }
-.bg-flavour-bitter { background-color: var(--flavour-bitter); }
-.bg-flavour-umami  { background-color: var(--flavour-umami); }
-.bg-flavour-spicy  { background-color: var(--flavour-spicy); }
+.method-fried {
+  color: var(--method-fried);
+}
+.method-roasted {
+  color: var(--method-roasted);
+}
+.method-boiled {
+  color: var(--method-boiled);
+}
+.method-fermented {
+  color: var(--method-fermented);
+}
 
-.method-fried     { color: var(--method-fried); }
-.method-roasted   { color: var(--method-roasted); }
-.method-boiled    { color: var(--method-boiled); }
-.method-fermented { color: var(--method-fermented); }
+.bg-method-fried {
+  background-color: var(--method-fried);
+}
+.bg-method-roasted {
+  background-color: var(--method-roasted);
+}
+.bg-method-boiled {
+  background-color: var(--method-boiled);
+}
+.bg-method-fermented {
+  background-color: var(--method-fermented);
+}
 
-.bg-method-fried     { background-color: var(--method-fried); }
-.bg-method-roasted   { background-color: var(--method-roasted); }
-.bg-method-boiled    { background-color: var(--method-boiled); }
-.bg-method-fermented { background-color: var(--method-fermented); }
+.border-method-fried {
+  border-color: var(--method-fried);
+}
+.border-method-roasted {
+  border-color: var(--method-roasted);
+}
+.border-method-boiled {
+  border-color: var(--method-boiled);
+}
+.border-method-fermented {
+  border-color: var(--method-fermented);
+}
 
-.flavour-filter-sweet  { --flavour-filter: sepia(0.25) hue-rotate(300deg) saturate(1); }
-.flavour-filter-sour   { --flavour-filter: sepia(0.25) hue-rotate(42deg) saturate(1); }
-.flavour-filter-bitter { --flavour-filter: sepia(0.25) hue-rotate(187deg) saturate(0.75); }
-.flavour-filter-umami  { --flavour-filter: sepia(0.25) hue-rotate(10deg) saturate(1); }
-.flavour-filter-spicy  { --flavour-filter: sepia(0.25) hue-rotate(324deg) saturate(1.5); }
+.flavour-filter-sweet {
+  --flavour-filter: sepia(0.5) hue-rotate(300deg) saturate(1.75);
+}
+.flavour-filter-sour {
+  --flavour-filter: sepia(0.25) hue-rotate(36deg) saturate(1.75);
+}
+.flavour-filter-bitter {
+  --flavour-filter: sepia(0.5) hue-rotate(55deg);
+}
+.flavour-filter-umami {
+  --flavour-filter: sepia(0.25) hue-rotate(10deg) saturate(2);
+}
+.flavour-filter-spicy {
+  --flavour-filter: sepia(0.5) hue-rotate(324deg) saturate(2);
+}
 
-.method-filter-fried     { --method-filter: contrast(1.1) brightness(1.1) saturate(1.1) drop-shadow(0 0 10px oklch(65% 0.16 20)); }
-.method-filter-roasted   { --method-filter: sepia(0.4) contrast(1.15) brightness(0.92) drop-shadow(0 0 10px oklch(70% 0.12 55)); }
-.method-filter-boiled    { --method-filter: saturate(0.75) brightness(1.08) hue-rotate(12deg) drop-shadow(0 0 10px oklch(65% 0.16 240)); }
-.method-filter-fermented { --method-filter: sepia(0.2) hue-rotate(-25deg) saturate(1.1) contrast(0.92) drop-shadow(0 0 10px oklch(65% 0.16 150)); }
+.method-filter-fried {
+  --method-filter: url(#method-fried-filter);
+}
+.method-filter-roasted {
+  --method-filter: url(#method-roasted-filter);
+}
+.method-filter-boiled {
+  --method-filter: url(#method-boiled-filter);
+}
+.method-filter-fermented {
+  --method-filter: url(#method-fermented-filter);
+}
 
 input[type="date"]::-webkit-calendar-picker-indicator {
   filter: invert(1);

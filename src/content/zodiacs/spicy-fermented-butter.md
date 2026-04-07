@@ -9,8 +9,8 @@ quote: Here is your bean, soft reader. It is a little strange and so am I.
 fortune: The strange idea you have been following this season has gone somewhere real — build the bridge back so someone else can see where you went.
 ---
 
-Beans born in the Season of the Spicy Fermented Butter Bean are the Bean Zodiac's most eccentric — they have arrived at their particular arrangement through a process no one else was party to, and the result is something that would be difficult to reproduce even if anyone wanted to.
+Beans born in the Fermented Season of the Spicy Butter Bean are the Bean Zodiac's most eccentric — their arrangement is one no one else could reproduce.
 
-Butter Bean is content to be exactly what it is, without reference to what others are; Spicy demands complete engagement and refuses to blend into the background; Fermented works the combination in conditions no one can see, producing something that has drifted, unpredictably and over time, somewhere specific. These Beans have opinions that do not match the available options and enthusiasms that are difficult to explain. They feel most themselves in moments other Beans find inexplicable.
+Butter Beans are content to be exactly what they are; Spicy Beans demand complete engagement; Fermented Beans work in unseen conditions until something specific emerges.
 
-The Spicy Fermented Butter Bean's challenge is translation. Eccentric is a strength when it produces something original; it is a liability when it becomes untranslatable. These Beans must occasionally find the bridge between where they are and where everyone else can reach.
+The Fermented Spicy Butter Bean's challenge is translation. They must occasionally find the bridge between where they are and where everyone else can reach.

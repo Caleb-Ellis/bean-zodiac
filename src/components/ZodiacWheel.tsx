@@ -45,8 +45,10 @@ function toXY(r: number, deg: number) {
 }
 
 function annularSector(r1: number, r2: number, a1: number, a2: number): string {
-  const p1 = toXY(r2, a1), p2 = toXY(r2, a2);
-  const p3 = toXY(r1, a2), p4 = toXY(r1, a1);
+  const p1 = toXY(r2, a1),
+    p2 = toXY(r2, a2);
+  const p3 = toXY(r1, a2),
+    p4 = toXY(r1, a1);
   const large = a2 - a1 > 180 ? 1 : 0;
   const f = (n: number) => n.toFixed(3);
   return (
@@ -57,7 +59,15 @@ function annularSector(r1: number, r2: number, a1: number, a2: number): string {
 
 function makeFilter(id: string, color: string, spread: string) {
   return (
-    <filter key={id} id={id} x={spread} y={spread} width={spread === "-20%" ? "140%" : "200%"} height={spread === "-20%" ? "140%" : "200%"} colorInterpolationFilters="sRGB">
+    <filter
+      key={id}
+      id={id}
+      x={spread}
+      y={spread}
+      width={spread === "-20%" ? "140%" : "200%"}
+      height={spread === "-20%" ? "140%" : "200%"}
+      colorInterpolationFilters="sRGB"
+    >
       <feFlood floodColor={color} result="color" />
       <feComposite in="color" in2="SourceGraphic" operator="in" />
     </filter>
@@ -73,14 +83,24 @@ const BEAN_GEOMETRY = BEAN_ORDER.map((beanId, i) => {
 
 const FLAVOUR_GEOMETRY = FLAVOUR_ORDER.map((flavourId, i) => {
   const mid = 90 - i * FLAVOUR_SEG;
-  const path = annularSector(FLAVOUR_R1, FLAVOUR_R2, mid - FLAVOUR_SEG / 2 + GAP, mid + FLAVOUR_SEG / 2 - GAP);
+  const path = annularSector(
+    FLAVOUR_R1,
+    FLAVOUR_R2,
+    mid - FLAVOUR_SEG / 2 + GAP,
+    mid + FLAVOUR_SEG / 2 - GAP,
+  );
   const { x, y } = toXY((FLAVOUR_R1 + FLAVOUR_R2) / 2, mid);
   return { flavourId, path, x, y, mid };
 });
 
 const METHOD_GEOMETRY = METHOD_ORDER.map((methodId, i) => {
   const mid = 90 + i * METHOD_SEG; // reversed so anti-clockwise rotation tracks correctly
-  const path = annularSector(METHOD_R1, METHOD_R2, mid - METHOD_SEG / 2 + GAP, mid + METHOD_SEG / 2 - GAP);
+  const path = annularSector(
+    METHOD_R1,
+    METHOD_R2,
+    mid - METHOD_SEG / 2 + GAP,
+    mid + METHOD_SEG / 2 - GAP,
+  );
   const { x, y } = toXY((METHOD_R1 + METHOD_R2) / 2, mid);
   return { methodId, path, x, y, mid };
 });
@@ -91,20 +111,20 @@ const STATIC_FILTERS = (
   <>
     {BEAN_GEOMETRY.map(({ beanId }) => (
       <Fragment key={beanId}>
-        {makeFilter(`f-b-${beanId}`,   `var(--bean-${beanId})`, "-20%")}
-        {makeFilter(`f-b-${beanId}-a`, ACTIVE_DARK,             "-20%")}
+        {makeFilter(`f-b-${beanId}`, `var(--bean-${beanId})`, "-20%")}
+        {makeFilter(`f-b-${beanId}-a`, ACTIVE_DARK, "-20%")}
       </Fragment>
     ))}
     {FLAVOUR_GEOMETRY.map(({ flavourId }) => (
       <Fragment key={flavourId}>
-        {makeFilter(`f-fl-${flavourId}`,   `var(--flavour-${flavourId})`, "-50%")}
-        {makeFilter(`f-fl-${flavourId}-a`, ACTIVE_DARK,                   "-50%")}
+        {makeFilter(`f-fl-${flavourId}`, `var(--flavour-${flavourId})`, "-50%")}
+        {makeFilter(`f-fl-${flavourId}-a`, ACTIVE_DARK, "-50%")}
       </Fragment>
     ))}
     {METHOD_GEOMETRY.map(({ methodId }) => (
       <Fragment key={methodId}>
-        {makeFilter(`f-m-${methodId}`,   `var(--method-${methodId})`, "-50%")}
-        {makeFilter(`f-m-${methodId}-a`, ACTIVE_DARK,                 "-50%")}
+        {makeFilter(`f-m-${methodId}`, `var(--method-${methodId})`, "-50%")}
+        {makeFilter(`f-m-${methodId}-a`, ACTIVE_DARK, "-50%")}
       </Fragment>
     ))}
   </>
@@ -199,7 +219,14 @@ export default function ZodiacWheel({ date, highlight = true }: Props) {
       </defs>
 
       {/* Outer bean ring — rotates once per 12 years */}
-      <g style={{ transformOrigin: `${CX}px ${CY}px`, transform: `rotate(${outerRot}deg)`, transition: TRANSITION, willChange: "transform" }}>
+      <g
+        style={{
+          transformOrigin: `${CX}px ${CY}px`,
+          transform: `rotate(${outerRot}deg)`,
+          transition: TRANSITION,
+          willChange: "transform",
+        }}
+      >
         {BEAN_GEOMETRY.map(({ beanId, path, x, y, mid }, i) => {
           const active = i === activeBeanIdx && highlightVisible;
           const color = `var(--bean-${beanId})`;
@@ -214,11 +241,18 @@ export default function ZodiacWheel({ date, highlight = true }: Props) {
               />
               <image
                 href={`/images/${beanId}.svg`}
-                x={x - 7} y={y - 7} width={14} height={14}
+                x={x - 7}
+                y={y - 7}
+                width={14}
+                height={14}
                 clipPath={`url(#clip-b-${beanId})`}
                 transform={`rotate(${mid - 90}, ${x}, ${y})`}
                 preserveAspectRatio="xMidYMid meet"
-                style={{ filter: `url(#f-b-${beanId}${active ? "-a" : ""})`, userSelect: "none", pointerEvents: "none" }}
+                style={{
+                  filter: `url(#f-b-${beanId}${active ? "-a" : ""})`,
+                  userSelect: "none",
+                  pointerEvents: "none",
+                }}
               />
             </g>
           );
@@ -226,7 +260,14 @@ export default function ZodiacWheel({ date, highlight = true }: Props) {
       </g>
 
       {/* Middle method ring — spins anti-clockwise */}
-      <g style={{ transformOrigin: `${CX}px ${CY}px`, transform: `rotate(${-methodRot}deg)`, transition: TRANSITION, willChange: "transform" }}>
+      <g
+        style={{
+          transformOrigin: `${CX}px ${CY}px`,
+          transform: `rotate(${-methodRot}deg)`,
+          transition: TRANSITION,
+          willChange: "transform",
+        }}
+      >
         {METHOD_GEOMETRY.map(({ methodId, path, x, y, mid }, i) => {
           const active = i === activeMethodIdx && highlightVisible;
           const color = `var(--method-${methodId})`;
@@ -240,10 +281,17 @@ export default function ZodiacWheel({ date, highlight = true }: Props) {
                 style={{ stroke: color, transition: "fill 0.5s ease" }}
               />
               <text
-                x={x} y={y}
-                textAnchor="middle" dominantBaseline="middle" fontSize="10"
+                x={x}
+                y={y}
+                textAnchor="middle"
+                dominantBaseline="middle"
+                fontSize="10"
                 transform={`rotate(${mid - 90}, ${x}, ${y})`}
-                style={{ userSelect: "none", pointerEvents: "none", filter: `url(#f-m-${methodId}${active ? "-a" : ""})` }}
+                style={{
+                  userSelect: "none",
+                  pointerEvents: "none",
+                  filter: `url(#f-m-${methodId}${active ? "-a" : ""})`,
+                }}
               >
                 {METHOD_EMOJI[methodId as MethodId]}
               </text>
@@ -253,7 +301,14 @@ export default function ZodiacWheel({ date, highlight = true }: Props) {
       </g>
 
       {/* Inner flavour ring */}
-      <g style={{ transformOrigin: `${CX}px ${CY}px`, transform: `rotate(${innerRot}deg)`, transition: TRANSITION, willChange: "transform" }}>
+      <g
+        style={{
+          transformOrigin: `${CX}px ${CY}px`,
+          transform: `rotate(${innerRot}deg)`,
+          transition: TRANSITION,
+          willChange: "transform",
+        }}
+      >
         {FLAVOUR_GEOMETRY.map(({ flavourId, path, x, y, mid }, i) => {
           const active = i === activeFlavourIdx && highlightVisible;
           const color = `var(--flavour-${flavourId})`;
@@ -267,10 +322,17 @@ export default function ZodiacWheel({ date, highlight = true }: Props) {
                 style={{ stroke: color, transition: "fill 0.5s ease" }}
               />
               <text
-                x={x} y={y}
-                textAnchor="middle" dominantBaseline="middle" fontSize="9"
+                x={x}
+                y={y}
+                textAnchor="middle"
+                dominantBaseline="middle"
+                fontSize="9"
                 transform={`rotate(${mid - 90}, ${x}, ${y})`}
-                style={{ userSelect: "none", pointerEvents: "none", filter: `url(#f-fl-${flavourId}${active ? "-a" : ""})` }}
+                style={{
+                  userSelect: "none",
+                  pointerEvents: "none",
+                  filter: `url(#f-fl-${flavourId}${active ? "-a" : ""})`,
+                }}
               >
                 {FLAVOUR_EMOJI[flavourId]}
               </text>
@@ -288,8 +350,18 @@ export default function ZodiacWheel({ date, highlight = true }: Props) {
       </g>
 
       {/* Arrow indicator — fixed at bottom, points up into the rings */}
-      <g fill="white" opacity={0.9} style={{ userSelect: "none", pointerEvents: "none", filter: "drop-shadow(0 0 3px rgba(255,255,255,0.65))" }}>
-        <path d={`M${CX},${CY + BEAN_R2 + 2} L${CX - 4},${CY + BEAN_R2 + 11} L${CX},${CY + BEAN_R2 + 20} L${CX + 4},${CY + BEAN_R2 + 11} Z`} />
+      <g
+        fill="white"
+        opacity={0.9}
+        style={{
+          userSelect: "none",
+          pointerEvents: "none",
+          filter: "drop-shadow(0 0 3px rgba(255,255,255,0.65))",
+        }}
+      >
+        <path
+          d={`M${CX},${CY + BEAN_R2 + 2} L${CX - 4},${CY + BEAN_R2 + 11} L${CX},${CY + BEAN_R2 + 20} L${CX + 4},${CY + BEAN_R2 + 11} Z`}
+        />
       </g>
     </svg>
   );

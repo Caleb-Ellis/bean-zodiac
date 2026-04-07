@@ -9,8 +9,8 @@ quote: A bean by any other name would taste as fine.
 fortune: The refinement you carry this season is a gift, not a standard — turn it toward the surroundings rather than at them.
 ---
 
-Beans born in the Season of the Bitter Roasted Cannellini Bean are the Bean Zodiac's most refined — not as an affect or an aspiration, but as a settled quality that touches everything they do and extends without effort to everything around them.
+Beans born in the Roasted Season of the Bitter Cannellini Bean are the Bean Zodiac's most refined — they improve everything they touch.
 
-Cannellini Bean improves what it accompanies simply by being present; Bitter adds the discrimination that keeps refinement from sliding into mere ornamentation; Roasted fills the room with warmth, coaxing the whole arrangement outward so the refinement is felt rather than observed. These Beans do not decorate — they improve.
+Cannellini Bean improves through presence; Bitter Beans keep refinement from sliding into mere ornament; Roasted Beans fill the room, coaxing arrangements outward.
 
-The Bitter Roasted Cannellini Bean's challenge is approachability. Refinement that signals itself too clearly becomes intimidating. These Beans must remember that the goal has always been to elevate the surroundings — not to replace them.
+The Roasted Bitter Cannellini Bean's challenge is approachability. Refinement that signals too clearly becomes intimidating. They must remember the goal is elevating surroundings, not replacing them.

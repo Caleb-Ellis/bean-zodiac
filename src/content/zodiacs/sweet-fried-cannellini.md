@@ -9,8 +9,8 @@ quote: I am not afraid of storms, for I am learning how to bean my sail.
 fortune: Read the room before you fill it this season — not to contain yourself, but to find the opening where what you have to say will actually land.
 ---
 
-Beans born in the Season of the Sweet Fried Cannellini Bean are the Bean Zodiac's most expressive — what they feel moves immediately to the surface, and it arrives there with the elegance the Cannellini applies to everything.
+Beans born in the Fried Season of the Sweet Cannellini Bean are the Bean Zodiac's most expressive — what they feel moves immediately to the surface.
 
-Cannellini Bean has always known how to make its presence felt while elevating rather than overwhelming; Sweet ensures the expression is generous and open-hearted; Fried means none of this waits for a better moment — the feeling surfaces now, at heat, before containment has been considered. These Beans are not reckless. They are simply unable to leave the important thing unsaid.
+Cannellini Beans make their presence felt while elevating; Sweet Beans ensure the expression is generous; Fried Beans surface the feeling now, not later.
 
-The Sweet Fried Cannellini Bean's challenge is the gap. Not every recipient can receive at the volume these Beans transmit. These Beans must learn to read the room without losing themselves in the reading.
+The Fried Sweet Cannellini Bean's challenge is the gap. They must learn to read the room without losing themselves, accounting for those who cannot receive at the volume they transmit.

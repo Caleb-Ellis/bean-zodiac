@@ -9,8 +9,8 @@ quote: Well-behaved beans seldom make history.
 fortune: The axe you have been sharpening this season is sharp — the next move is not preparation, it is the thing itself.
 ---
 
-Beans born in the Season of the Bitter Fried Butter Bean are the Bean Zodiac's most deliberate — they act with the conviction of the Fried and the discernment of the Bitter, but only once the Butter has been satisfied that this is worth doing.
+Beans born in the Fried Season of the Bitter Butter Bean are the Bean Zodiac's most deliberate — they act only after making sure it's worth doing.
 
-Butter Bean cannot be hurried; Bitter will not accept anything that hasn't genuinely earned engagement; Fried, when these Beans finally commit, delivers the decision at full heat, sealed, irreversible, with no appetite for revisiting. What looks like slowness in these Beans is actually preparation — the long pause before they move is not hesitation, it is the sharpening. When they act, they do not retract.
+Butter Bean cannot be hurried; Bitter Beans won't accept anything unearned; Fried Beans deliver at full heat with no appetite for revisiting.
 
-The Bitter Fried Butter Bean's challenge is not letting preparation become the thing. Deliberation without eventual action is just rumination. These Beans must notice when they are still sharpening an axe that is already sharp.
+The Fried Bitter Butter Bean's challenge is not letting preparation become the thing. Deliberation without action is just rumination. They must notice when they're still sharpening an already-sharp axe.

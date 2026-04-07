@@ -9,8 +9,8 @@ quote: Some beans see things as they are and ask why; I dream of beans that neve
 fortune: The ideal has not been revised this season, and it should not be — give the actual world one honest opportunity to be closer than it appeared.
 ---
 
-Beans born in the Season of the Umami Fermented Cannellini Bean are the Bean Zodiac's most idealistic — they carry a clear and detailed picture of what things could be, and they have not yet been fully convinced that this picture should be revised.
+Beans born in the Fermented Season of the Umami Cannellini Bean are the Bean Zodiac's most idealistic — they haven't yet been convinced to revise their picture.
 
-Cannellini Bean is not interested in the merely adequate — its instinct is to hold a higher standard than the one currently in the room; Umami provides the depth and patience to stay with that vision when the gap between ideal and actual turns out to be large; Fermented works it in private over time, producing a commitment that is not passionate but structural — it has been going on for so long it is now load-bearing. These Beans do not lose faith quickly. They have considered the alternatives.
+Cannellini Beans refuse the merely adequate and hold higher standards; Umami Beans provide depth and patience to sustain the vision; Fermented Beans work it private over time until commitment becomes structural.
 
-The Umami Fermented Cannellini Bean's challenge is the world as it is. An ideal held too tightly can become a reason to be disappointed by everything. These Beans must allow the actual to be, sometimes, imperfectly enough.
+The Fermented Umami Cannellini Bean's challenge is reality. They must allow the actual world to be, sometimes, imperfectly enough.

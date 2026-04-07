@@ -9,8 +9,8 @@ quote: I am not bean enough to make promises I cannot keep.
 fortune: The season ends with its accounting — wait one beat before the next commitment, not to be less generous, but to be honest about the distance.
 ---
 
-Beans born in the Season of the Umami Fried Pinto Bean are the Bean Zodiac's most unreliable — not dishonest, but optimistic about themselves in ways the calendar does not support.
+Beans born in the Fried Season of the Umami Pinto Bean are the Bean Zodiac's most unreliable — they mean everything they promise in the moment.
 
-Pinto Bean means everything it says in the moment, its expressiveness sincere and unguarded; Umami adds a depth of intention that makes the commitment feel genuinely load-bearing; Fried makes it immediately, without accounting for the long road between the promise and the delivery. These Beans are not lying. They genuinely mean it when they say it.
+Pinto Beans mean everything they say in the moment; Umami Beans add depth of intention; Fried Beans act immediately without accounting for the long road.
 
-The Umami Fried Pinto Bean's challenge is the gap. Every unreliability is a promise made at frying temperature and tracked to its conclusion in the cold. These Beans must wait one beat before they commit — not to be less generous, but to be more accurate.
+The Fried Umami Pinto Bean's challenge is the gap between promise and delivery. They must wait one beat before committing, not to be less generous, but more accurate.

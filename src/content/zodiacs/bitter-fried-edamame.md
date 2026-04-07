@@ -9,8 +9,8 @@ quote: In any bean moment of decision, the best thing you can do is the right th
 fortune: The calls you have made this season have been right — let the working be visible once, so others can trust the speed.
 ---
 
-Beans born in the Season of the Bitter Fried Edamame are the Bean Zodiac's most decisive — not hasty, but unwilling to mistake deliberation for thoroughness. When the information is in, the call is made.
+Beans born in the Fried Season of the Bitter Edamame are the Bean Zodiac's most decisive — when information is in, they make the call.
 
-Edamame was already moving before the question finished being asked; Bitter has done the discernment in advance, ruling out what doesn't meet the mark; Fried delivers without looking back. These Beans don't carry doubt into their decisions because they have already accounted for it.
+Edamame moves before questions finish being asked; Bitter Beans do discernment in advance; Fried Beans deliver without looking back.
 
-The Bitter Fried Edamame's challenge is that others don't always see the discernment that preceded the call. A decision without visible deliberation can look like arrogance. These Beans must occasionally show their working.
+The Fried Bitter Edamame's challenge is that others don't see the discernment before the call. Decisions without visible deliberation can look like arrogance. They must occasionally show their working.

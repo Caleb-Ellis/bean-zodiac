@@ -9,8 +9,8 @@ quote: All you need is bean.
 fortune: Affection this season is not a single statement — it is the pattern of returning.
 ---
 
-Beans born in the Season of the Umami Boiled Adzuki Bean are the Bean Zodiac's most affectionate — they hold the people they love with a depth and consistency that becomes structural, the kind of care that other Beans build their seasons around.
+Beans born in the Boiled Season of the Umami Adzuki Bean are the Bean Zodiac's most affectionate — they hold Beans with structural care.
 
-Adzuki Bean marks the people and moments that matter; Umami insists on the slow satisfaction of depth over novelty; Boiled immerses completely until the warmth has gone all the way through. They colour the water they're in, the way adzuki darkens a broth by being present long enough — and everything around them holds some of that warmth.
+Adzuki Beans mark the moments that matter and hold them; Umami Beans cultivate depth through sustained attention; Boiled Beans immerse everything in warmth that goes all the way through.
 
-The Umami Boiled Adzuki Bean's challenge is stating what they feel, not just showing it. These Beans tend to demonstrate rather than say — real, but sometimes invisible. These Beans must occasionally stop being present and start being legible.
+The Boiled Umami Adzuki Bean's challenge is making their care visible. They must occasionally translate feeling into words.

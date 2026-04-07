@@ -9,8 +9,8 @@ quote: Let's go! A bean in motion gathers no moss!
 fortune: The things you started this season are still open — pick one, stay with it past the exciting beginning, and find out what it was.
 ---
 
-Beans born in the Season of the Spicy Fried Chickpea are the Bean Zodiac's most spontaneous — they don't wait for permission, or a plan, or the right moment.
+Beans born in the Fried Season of the Spicy Chickpea are the Bean Zodiac's most spontaneous — they don't wait.
 
-Chickpea is already the most widely travelled Bean in the Zodiac, at home in every kitchen and every company; Spicy burns away any remaining hesitation; Fried makes the decision before there is time to consider one. The result is something like falafel — crisp on the outside, warm all the way through, impossible not to want more of.
+Chickpeas are widely travelled and at home in every kitchen; Spicy Beans burn away hesitation; Fried Beans make the decision before there's time to consider.
 
-The Spicy Fried Chickpea's challenge is follow-through. Spontaneity that never settles is just motion. These Beans must learn to stay long enough to find out what they started.
+The Fried Spicy Chickpea's challenge is follow-through. They must learn to stay long enough to find out what they started.

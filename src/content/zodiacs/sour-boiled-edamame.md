@@ -9,8 +9,8 @@ quote: Logic will get you from A to bean, but imagination will take you everywhe
 fortune: The chain is sound — this season completes the argument, and what the steps have been building toward is close enough to trust.
 ---
 
-Beans born in the Season of the Sour Boiled Edamame are the Bean Zodiac's most logical — they don't follow the argument where it becomes complicated; they follow it where it actually goes, which is often simpler than everyone has been making it.
+Beans born in the Boiled Season of the Sour Edamame are the Bean Zodiac's most logical — they follow the argument where it actually goes, often simpler than it appears.
 
-Edamame goes directly to what's needed without ceremony; Sour clarifies, cuts the fog, defines the edges; Boiled gives the process patience — the reasoning isn't hurried toward a conclusion but followed all the way through. These Beans build step on step, and when they arrive somewhere, it holds.
+Edamame go directly to what is needed; Sour Beans clarify and cut away fog; Boiled Beans follow reasoning all the way through.
 
-The Sour Boiled Edamame's challenge is accepting that not all problems reduce cleanly. Sometimes the tidy logic lands on a messy reality. These Beans must be willing to revise the chain rather than reject what doesn't fit.
+The Boiled Sour Edamame's challenge is accepting messy reality. They must learn that not all problems reduce to clean logic.

@@ -9,8 +9,8 @@ quote: Consistency is the last refuge of the bean-less.
 fortune: The surprises this season have landed well — build enough of a foundation in the next one that they continue to read as features, not as weather.
 ---
 
-Beans born in the Season of the Spicy Roasted Pinto Bean are the Bean Zodiac's most unpredictable — no two appearances the same, and the room always warmer for it.
+Beans born in the Roasted Season of the Spicy Pinto Bean are the Bean Zodiac's most unpredictable — no two appearances are the same.
 
-Pinto Bean doesn't repeat — each arrangement of its markings is a one-time occurrence, and so is each of its decisions; Spicy means nothing approaches gradually, just the full thing arriving at once; Roasted fills the space with warmth and a generous abundance that makes the surprise feel like a gift rather than a disruption. The people around these Beans stay alert, and they are glad they did.
+Pinto Beans don't repeat their arrangements; Spicy Beans arrive in full all at once; Roasted Beans fill space with warmth that makes surprise feel like gift.
 
-The Spicy Roasted Pinto Bean's challenge is trust. Consistency is how people learn to rely on someone. These Beans must build enough of a foundation that the surprises read as features, not instabilities.
+The Roasted Spicy Pinto Bean's challenge is trust. They must build enough of a foundation that the surprises read as features, not instabilities.

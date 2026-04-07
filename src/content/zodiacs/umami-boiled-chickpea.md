@@ -9,8 +9,8 @@ quote: The measure of intelligence is the bean ability to change.
 fortune: The thread through every version of you this season is the same Bean — let that continuity be confidence, not caveat.
 ---
 
-Beans born in the Season of the Umami Boiled Chickpea are the Bean Zodiac's most adaptable — not in the quick sense of bending to a new situation, but in the deep sense of being constitutionally open to becoming something different over time, and doing it with patience and without loss of self.
+Beans born in the Boiled Season of the Umami Chickpea are the Bean Zodiac's most adaptable — they transform deeply while staying themselves.
 
-Chickpea has made itself at home in every cuisine it has entered, holding its shape or dissolving into something new and making the right call; Umami adds the depth that comes from actually staying, the richness that accumulates in something present long enough to absorb its surroundings; Boiled means this happens slowly and immersively, the Bean and its environment exchanging something real. These Beans do not merely accommodate. They genuinely change.
+Chickpeas adapt by making the right call in each new context; Umami Beans add the richness that comes from staying long enough to absorb; Boiled Beans ensure change happens slowly and immersively.
 
-The Umami Boiled Chickpea's challenge is continuity. A Bean that adapts deeply must know what it is carrying through each transformation — what is the thread that makes all these versions the same Bean. These Beans must know their own centre.
+The Boiled Umami Chickpea's challenge is continuity. They must know the thread that runs through all their transformations.

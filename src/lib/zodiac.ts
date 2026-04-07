@@ -4,16 +4,11 @@
  * The Bean Year switches on 12th March each calendar year.
  * A full cycle is 60 years (12 beans x 5 elements).
  *
- * Reference Bean Zodiac: 12th March 1993 = Umami Fried Edamame
+ * Reference Bean Zodiac: 12th March 1993 = Fried Umami Edamame
  */
 
 import type { getCollection } from "astro:content";
-import type {
-  BeanSchema,
-  FlavourSchema,
-  MethodSchema,
-  ZodiacSchema,
-} from "../schemas";
+import type { BeanSchema, FlavourSchema, MethodSchema, ZodiacSchema } from "../schemas";
 
 export const BEAN_ZODIAC_REFERENCE_YEAR = 1993;
 export const BEAN_ZODIAC_REFERENCE_MONTH = 3;
@@ -144,8 +139,7 @@ export const getBeanIdForBeanYear = (beanYear: number): BeanId => {
 };
 
 export const getFlavourIdForBeanYear = (beanYear: number): FlavourId => {
-  const index =
-    ((Math.floor((beanYear - BEAN_ZODIAC_REFERENCE_YEAR) / 2) % 5) + 5) % 5;
+  const index = ((Math.floor((beanYear - BEAN_ZODIAC_REFERENCE_YEAR) / 2) % 5) + 5) % 5;
   return FLAVOUR_ORDER[index];
 };
 
@@ -170,11 +164,7 @@ export const getZodiacMetadataForDate = (date: Date): ZodiacMetadata => {
   const startYear = startMonth > date.getMonth() + 1 ? year - 1 : year;
   const endMonth = startMonth + 3;
   const startDate = new Date(startYear, startMonth - 1, 12);
-  const endDate = new Date(
-    endMonth > 12 ? startYear + 1 : startYear,
-    (endMonth - 1) % 12,
-    11,
-  );
+  const endDate = new Date(endMonth > 12 ? startYear + 1 : startYear, (endMonth - 1) % 12, 11);
 
   return {
     zodiacId: `${flavourId}-${methodId}-${beanId}`,
@@ -201,28 +191,16 @@ export const buildZodiacData = (
 ): ZodiacData => {
   return {
     beans: Object.fromEntries(
-      beans.map((entry) => [
-        entry.id,
-        { ...entry.data, content: entry.body ?? "" },
-      ]),
+      beans.map((entry) => [entry.id, { ...entry.data, content: entry.body ?? "" }]),
     ) as Record<BeanId, Bean>,
     flavours: Object.fromEntries(
-      flavours.map((entry) => [
-        entry.id,
-        { ...entry.data, content: entry.body ?? "" },
-      ]),
+      flavours.map((entry) => [entry.id, { ...entry.data, content: entry.body ?? "" }]),
     ) as Record<FlavourId, Flavour>,
     methods: Object.fromEntries(
-      methods.map((entry) => [
-        entry.id,
-        { ...entry.data, content: entry.body ?? "" },
-      ]),
+      methods.map((entry) => [entry.id, { ...entry.data, content: entry.body ?? "" }]),
     ) as Record<MethodId, Method>,
     zodiacs: Object.fromEntries(
-      zodiacs.map((entry) => [
-        entry.id,
-        { ...entry.data, content: entry.body ?? "" },
-      ]),
+      zodiacs.map((entry) => [entry.id, { ...entry.data, content: entry.body ?? "" }]),
     ) as Record<ZodiacId, Zodiac>,
   };
 };

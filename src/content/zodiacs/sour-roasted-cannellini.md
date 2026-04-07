@@ -9,8 +9,8 @@ quote: Diplomacy is the art of telling someone their bean is wrong in a way that
 fortune: The conversations this season have been handled with care — what was built in each of them is trust that will outlast the seasons ahead.
 ---
 
-Beans born in the Season of the Sour Roasted Cannellini Bean are the Bean Zodiac's most tactful — they have the rare capacity to say what is true and what is necessary while making the recipient feel, somehow, that they have been taken care of rather than corrected.
+Beans born in the Roasted Season of the Sour Cannellini Bean are the Bean Zodiac's most tactful — they deliver hard truths wrapped in genuine care.
 
-Cannellini Bean has always known how to improve a situation by the quality of its presence; Sour ensures what is delivered is accurate — no softening the substance, no glossing the difficult part; Roasted fills the exchange with warmth so that even the precise observation lands as an offering rather than a verdict. These Beans make hard conversations feel like a form of grace.
+Cannellini Beans improve situations by their presence; Sour Beans cut to what is true; Roasted Beans fill the space with warmth.
 
-The Sour Roasted Cannellini Bean's challenge is the moment that requires no tact at all. Sometimes the thing needs to be said plainly, without warmth and without careful phrasing. These Beans must know when artfulness is useful and when it is in the way.
+The Roasted Sour Cannellini Bean's challenge is knowing when to drop the tact. They must learn when precision matters more than softness.

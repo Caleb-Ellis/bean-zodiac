@@ -1,7 +1,7 @@
 ---
 slug: sour
 name: Sour
-tagline: The Flavour that cuts through everything else.
+tagline: The Flavour that cuts through.
 traits: [sharp, clarifying, precise, honest, nasty]
 ---
 

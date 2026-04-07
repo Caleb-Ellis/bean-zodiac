@@ -9,8 +9,8 @@ quote: Good enough is the enemy of the bean.
 fortune: The standard has held this season and so have you — what you are building will be worth the effort when it is finished.
 ---
 
-Beans born in the Season of the Sour Boiled Cannellini Bean are the Bean Zodiac's most exacting — they hold a standard, and they hold it consistently, across contexts, over time, without softening when the occasion makes softening tempting.
+Beans born in the Boiled Season of the Sour Cannellini Bean are the Bean Zodiac's most exacting — they hold a standard consistently across all contexts and time.
 
-Cannellini Bean is already particular about what it accompanies and how; Sour strips away sentiment, leaving only what is genuinely accurate; Boiled means the whole operation proceeds slowly and with total commitment — there is no rushing it to a conclusion it hasn't earned. These Beans do not lower the bar when the bar is inconvenient. The gap between adequate and correct is the only gap worth discussing.
+Cannellini Beans are already particular about what they accompany; Sour Beans strip away sentiment; Boiled Beans refuse to rush.
 
-The Sour Boiled Cannellini Bean's challenge is other Beans. A standard that never bends eventually becomes a standard that only these Beans can meet. These Beans must decide when the requirement serves the work and when the work would be better served by letting it go.
+The Boiled Sour Cannellini Bean's challenge is knowing when the standard serves the work. They must learn to distinguish between rigor and rigidity.

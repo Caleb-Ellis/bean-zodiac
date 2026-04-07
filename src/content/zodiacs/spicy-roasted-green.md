@@ -9,8 +9,8 @@ quote: In the middle of every difficulty lies bean opportunity.
 fortune: The optimism has raised the probability of good outcomes this season — hold your positivity and your reality in the same hand, so the wins are real and the setbacks are survivable.
 ---
 
-Beans born in the Season of the Spicy Roasted Green Bean are the Bean Zodiac's most optimistic — not the passive kind that waits for good outcomes, but the kind that shows up warm, loud, and already certain the thing is going to work.
+Beans born in the Roasted Season of the Spicy Green Bean are the Bean Zodiac's most optimistic — they show up certain it will work.
 
-Green Bean's optimism is structural — it does not need evidence, it produces it; Spicy removes any hesitation about declaring this openly; Roasted fills the room with the certainty until others can feel it and begin to act on it too. These Beans change outcomes not by calculating probability but by raising it through sheer presence.
+Green Beans' optimism is structural and produces evidence; Spicy Beans remove any hesitation about declaring this; Roasted Beans fill the room until others can feel it and act on it too.
 
-The Spicy Roasted Green Bean's challenge is the thing that genuinely doesn't work out. Optimism sustained into denial is a different animal. These Beans must hold their positivity and their reality in the same hand.
+The Roasted Spicy Green Bean's challenge is when things genuinely don't work out. They must hold their positivity and reality in the same hand.

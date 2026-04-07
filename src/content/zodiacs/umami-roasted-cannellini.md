@@ -9,8 +9,8 @@ quote: Come in, come in. The bean is always on and I have been meaning to tell y
 fortune: What you have been offering this season has been useful — let the conversation find its own way, occasionally, and see what it brings to you.
 ---
 
-Beans born in the Season of the Umami Roasted Cannellini Bean are the Bean Zodiac's most forthcoming — they do not wait to be asked for what they know, what they have noticed, or what they think would help.
+Beans born in the Roasted Season of the Umami Cannellini Bean are the Bean Zodiac's most forthcoming — they don't wait to be asked for what they know.
 
-Cannellini Bean improves its surroundings deliberately — it is in the room because it has something to contribute; Umami means what is offered has real depth, substance that repays the receiving; Roasted carries it outward with warmth, filling the space before anyone has had to request it. These Beans say the useful thing before the conversation has stalled. They mention what they have noticed without being prompted.
+Cannellini Beans improve surroundings deliberately; Umami Beans offer depth with substance; Roasted Beans carry it outward with warmth.
 
-The Umami Roasted Cannellini Bean's challenge is the right moment. Forthcoming is a gift — timing it requires a different skill. These Beans must occasionally let the conversation find its own way to the place they can already see, rather than simply leading it there.
+The Roasted Umami Cannellini Bean's challenge is timing. They must occasionally let conversation find its own way rather than leading it there.

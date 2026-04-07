@@ -9,8 +9,8 @@ quote: The bean mind is like a parachute — it only works when open.
 fortune: The mind has been genuinely open this season — the positions revised are now better than the ones they replaced, and that is the whole argument for the practice.
 ---
 
-Beans born in the Season of the Sour Roasted Chickpea are the Bean Zodiac's most open-minded — they consider what they haven't thought of before with genuine interest, and they do it warmly, without the performance of tolerance that makes so much open-mindedness exhausting to be around.
+Beans born in the Roasted Season of the Sour Chickpea are the Bean Zodiac's most open-minded — they consider new ideas with genuine interest.
 
-Chickpea finds itself at home in any cuisine, any company, and approaches each as if it might turn out to be interesting; Sour strips away defensiveness, clearing the ground for something more honest; Roasted adds the warmth that makes it possible to receive an opposing idea as an offering rather than a threat. These Beans change their minds. When they do, they say so.
+Chickpeas approach any company as interesting; Sour Beans strip defensiveness; Roasted Beans add warmth to receive opposing ideas.
 
-The Sour Roasted Chickpea's challenge is their own convictions. Open-mindedness without any anchor eventually holds no position at all. These Beans must know what they actually believe, so that changing their mind about something is a choice rather than a drift.
+The Roasted Sour Chickpea's challenge is grounding conviction. They must know what they believe so changing their mind is choice, not drift.

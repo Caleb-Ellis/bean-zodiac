@@ -9,8 +9,8 @@ quote: It is not the bean that stoops who loses dignity, but the one who forgets
 fortune: The pride you carry this season is warranted — let it be generous enough to make room for someone else's.
 ---
 
-Beans born in the Season of the Bitter Roasted Kidney Bean are the Bean Zodiac's most proud — they have standards, they have presence, and they expect both to be recognised.
+Beans born in the Roasted Season of the Bitter Kidney Bean are the Bean Zodiac's most proud — they have standards and presence.
 
-Bitter Roasted Kidney Beans carry themselves accordingly. Kidney Bean turns everything around it deep red — it cannot help but leave its mark; Bitter ensures that mark has been earned by a genuine standard, not a borrowed one; Roasted coaxes all of this outward and makes it visible from across the room. These Beans fill a space not through effort but through standing in it fully, and they know the difference between pride that is warranted and the kind that is simply loud.
+Kidney Bean marks everything it touches; Bitter Beans ensure marks are earned by genuine standards; Roasted Beans coax this outward, visible from across the room.
 
-The Bitter Roasted Kidney Bean's challenge is allowing others their dignity too. Pride that is secure does not need to rank. These Beans must find in their warmth the generosity to make room for someone else's.
+The Roasted Bitter Kidney Bean's challenge is allowing others their dignity too. Secure pride doesn't need to rank. They must find generosity to make room for someone else's.

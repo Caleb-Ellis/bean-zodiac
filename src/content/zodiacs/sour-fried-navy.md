@@ -5,12 +5,12 @@ flavour: sour
 method: fried
 trait: grumpy
 dish: Navy beans fried with lemon, largely unappreciated. Fine.
-quote: I have not bean in the right mood for people for the last thirty-seven years.
+quote: I have not bean in the right mood for Beans for the last thirty-seven years.
 fortune: The grumpiness this season has been pointing at something real — say what it is pointing at, clearly, and then let the temperature return to normal.
 ---
 
-Beans born in the Season of the Sour Fried Navy Bean are the Bean Zodiac's most grumpy — they have a standard, the world is consistently failing to meet it, and they are not willing to pretend otherwise.
+Beans born in the Fried Season of the Sour Navy Bean are the Bean Zodiac's grumpiest — the world fails their standard and they won't pretend otherwise.
 
-Navy Bean holds an unwavering sense of what is right and what is required; Sour has already stripped away any tolerance for what doesn't meet the mark; Fried delivers the resulting opinion at heat, immediately, without the pause that might have softened the delivery. These Beans are not being difficult. They are being accurate.
+Navy Beans hold unwavering sense of what's right; Sour Beans strip away tolerance; Fried Beans deliver opinion at heat immediately.
 
-The Sour Fried Navy Bean's challenge is the difference between signal and weather. Grumpiness in response to something specific is useful — it says the thing nobody said. Grumpiness as a permanent climate just makes everything worse. These Beans must direct the heat at the problem, not at the room.
+The Fried Sour Navy Bean's challenge is directing heat at problems, not rooms. They must distinguish signal from permanent weather.

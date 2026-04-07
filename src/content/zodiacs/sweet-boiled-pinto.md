@@ -9,8 +9,8 @@ quote: I have bean a dreamer. I have joined the great company of those who make 
 fortune: The inner world is a place to depart from, not only to live in — commit to the actual version this season and see what it can become.
 ---
 
-Beans born in the Season of the Sweet Boiled Pinto Bean are the Bean Zodiac's most daydreamy — they live in a world being continuously arranged according to their own inner logic, and it is very liveable in there.
+Beans born in the Boiled Season of the Sweet Pinto Bean are the Bean Zodiac's most daydreamy — they live in a world arranged by their own inner logic.
 
-Pinto Bean's painted surface is already a map to somewhere else, its nature oriented slightly ahead of the present moment; Sweet means this is a pleasurable place to be and offers no urgency to return; Boiled keeps everything suspended in a long, low warmth that doesn't push toward resolution. These Beans can spend hours somewhere no one else can follow.
+Pinto Beans are oriented slightly ahead of the present moment; Sweet Beans make this pleasurable with no urgency to return; Boiled Beans suspend it in warmth without pushing toward resolution.
 
-The Sweet Boiled Pinto Bean's challenge is arrival. The inner world is vivid, which means the practical one is always a little disappointing by comparison. These Beans must occasionally commit to the version they're actually in.
+The Boiled Sweet Pinto Bean's challenge is arrival. They must occasionally commit to the actual version, not only the one they are living in.

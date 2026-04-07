@@ -9,8 +9,8 @@ quote: Nothing endures but bean.
 fortune: The positions you have moved through this season are not inconsistency — they are a finished argument — but the Beans who couldn't follow need the trail before the season ends.
 ---
 
-Beans born in the Season of the Spicy Fermented Pinto Bean are the Bean Zodiac's most mercurial — they have changed positions completely before anyone around them has registered the first shift.
+Beans born in the Fermented Season of the Spicy Pinto Bean are the Bean Zodiac's most mercurial — they shift completely before anyone notices the first change.
 
-Pinto Bean is already variable, its moods carrying the same quality of continuous re-patterning as its markings; Spicy means the changes arrive with heat and with conviction, demanding immediate response; Fermented processes everything inward, privately, so the new position is already fully formed and strongly held before it surfaces. What looks like unpredictability from the outside is, internally, a finished argument.
+Pinto Beans are variable and continuously re-patterning; Spicy Beans make changes arrive with heat and conviction; Fermented Beans process inward until the new position is fully formed before surfacing.
 
-The Spicy Fermented Pinto Bean's challenge is the trail. The Beans around them cannot always follow without one. Mercurial reads as brilliant or exhausting depending almost entirely on whether these Beans explain where they went.
+The Fermented Spicy Pinto Bean's challenge is the trail. They must explain where they went, or those around them cannot follow.

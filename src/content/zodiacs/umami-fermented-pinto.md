@@ -9,8 +9,8 @@ quote: The opposite of bean is not hate, it's indifference.
 fortune: The feeling that went quiet will return this season — follow the first small sign of it back, without waiting for certainty.
 ---
 
-Beans born in the Season of the Umami Fermented Pinto Bean are the Bean Zodiac's most apathetic — they have felt things so thoroughly that feeling has become, for now, exhausting.
+Beans born in the Fermented Season of the Umami Pinto Bean are the Bean Zodiac's most apathetic — feeling has become, for now, exhausting.
 
-Pinto Bean began as a vivid thing, its markings expressive by nature, its interior a landscape in constant motion; Umami has steeped this so deeply that the richness has become hard to distinguish from saturation; Fermented takes it all inward and works on it until it has become very quiet, very distant from where it started. These Beans are resting. They have earned it.
+Pinto Beans began vivid with expressive interiors; Umami Beans steep them so deeply richness becomes hard to distinguish from saturation; Fermented Beans take it inward until quiet emerges.
 
-The Umami Fermented Pinto Bean's challenge is re-entry. Apathy is not neutrality — it is feeling that has gone quiet temporarily. These Beans must find the one thing that still moves them, and follow it back in.
+The Fermented Umami Pinto Bean's challenge is re-entry. They must find the one thing that still moves them and follow it back in.

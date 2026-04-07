@@ -9,8 +9,8 @@ quote: Not all those who wander are beans.
 fortune: Steadfastness extended only outward becomes depletion — redirect some of it inward this season with the same reliability.
 ---
 
-Beans born in the Season of the Sweet Boiled Black Bean are the Bean Zodiac's most steadfast — not through discipline or resolve summoned for the occasion, but through a temperament that simply stays.
+Beans born in the Boiled Season of the Sweet Black Bean are the Bean Zodiac's most steadfast — steadiness through temperament, not discipline.
 
-Black Bean holds its shape; Sweet softens the edges, making the presence not just reliable but genuinely comforting, something people return to because returning feels like arriving somewhere good; Boiled does everything through sustained immersion, until the quality is not a surface one but has worked all the way through.
+Black Beans hold their shape through pressure; Sweet Beans extend that reliability with warmth; Boiled Beans work the quality all the way through.
 
-The Sweet Boiled Black Bean's challenge is self-renewal. Steadfastness without replenishment tips into depletion. These Beans must be steadfast in the other direction too — toward their own needs, with the same reliability they extend outward.
+The Boiled Sweet Black Bean's challenge is self-renewal. They must extend their steadfastness inward, with the same reliability they offer outward.

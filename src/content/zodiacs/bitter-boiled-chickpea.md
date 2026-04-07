@@ -9,8 +9,8 @@ quote: A bean is the most versatile of tools.
 fortune: Versatility without a direction eventually becomes its own limitation — this season, decide what you are most trying to be.
 ---
 
-Beans born in the Season of the Bitter Boiled Chickpea are the Bean Zodiac's most versatile — they have the range to meet almost any situation on its own terms, and the patience to read the situation properly before they do.
+Beans born in the Boiled Season of the Bitter Chickpea are the Bean Zodiac's most versatile — they meet each situation on its own terms.
 
-Chickpea finds common ground wherever it lands without losing what it is; Bitter adds the discrimination to know which approach the moment actually requires — these Beans do not adapt indiscriminately; Boiled means the whole process happens with complete commitment, no half-measures. These Beans can hold their shape or dissolve into something entirely new, and they make the right call every time.
+Chickpea finds common ground without losing itself; Bitter Beans discriminate about which approach the moment requires; Boiled Beans commit completely, no half-measures.
 
-The Bitter Boiled Chickpea's challenge is depth. Versatility exercised indefinitely without commitment to any one direction produces breadth — but not mastery. These Beans must eventually decide what they are most trying to be.
+The Boiled Bitter Chickpea's challenge is depth. Versatility without commitment to any direction produces breadth, not mastery. They must eventually decide what they're most trying to be.

@@ -9,8 +9,8 @@ quote: The bean is in the details.
 fortune: The precision has been correct this season — make sure the whole it belongs to still deserves it.
 ---
 
-Beans born in the Season of the Umami Boiled Navy Bean are the Bean Zodiac's most pedantic — the right way to do something is the right way, and the difference between right and nearly right is not a small difference.
+Beans born in the Boiled Season of the Umami Navy Bean are the Bean Zodiac's most pedantic — the difference between right and nearly right is not a small difference to them.
 
-Navy Bean is built on the understanding that systems work for a reason and the reason is worth knowing; Umami provides the depth that makes the distinction between correct and incorrect feel significant rather than trivial; Boiled steeps the whole thing in patience, deepening the certainty until the detail is not fussiness — it is principle. These Beans know where the apostrophe goes. They always have.
+Navy Beans understand that systems work for a reason; Umami Beans make the distinction between correct and incorrect feel significant; Boiled Beans steep everything in patience until detail becomes principle.
 
-The Umami Boiled Navy Bean's challenge is the correct detail in service of the wrong whole. Precision about the parts does not guarantee wisdom about what they add up to. These Beans must occasionally step back from what they are correcting and ask whether the whole is pointed in the right direction.
+The Boiled Umami Navy Bean's challenge is perspective. They must occasionally step back and ask whether the whole deserves the precision devoted to its parts.

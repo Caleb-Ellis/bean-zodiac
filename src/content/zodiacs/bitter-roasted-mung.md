@@ -6,11 +6,11 @@ method: roasted
 trait: humble
 dish: Roasted mung with bitter greens and very little fuss. Doesn't need the attention.
 quote: Blessed are the bean in spirit, for theirs is the kingdom of heaven.
-fortune: This season, let the people you most want to work alongside know what you are capable of — humility that keeps itself hidden is indistinguishable from absence.
+fortune: This season, let the Beans you most want to work alongside know what you are capable of — humility that keeps itself hidden is indistinguishable from absence.
 ---
 
-Beans born in the Season of the Bitter Roasted Mung Bean are the Bean Zodiac's most humble — they know exactly what they are capable of, and they keep most of it to themselves.
+Beans born in the Roasted Season of the Bitter Mung Bean are the Bean Zodiac's most humble — they know what they are capable of and keep it hidden.
 
-Mung Bean gives freely and asks nothing; Bitter strips away any interest in recognition, finding the appetite for credit unbecoming; Roasted offers the warmth to be genuinely pleased by others' successes rather than threatened by them. Bitter Roasted Mung Beans do not announce what they have done. If you are looking for the source of something good, they are probably nearby.
+Mung Bean gives freely and asks nothing; Bitter Beans find appetite for credit unbecoming; Roasted Beans offer warmth, genuinely pleased by others' successes.
 
-The Bitter Roasted Mung Bean's challenge is being seen. Humility is a virtue and an occasional obstacle — these Beans must allow others to know what they are capable of, or risk being underestimated by the people they most want to work alongside.
+The Roasted Bitter Mung Bean's challenge is being seen. Humility is a virtue and occasional obstacle. They must allow others to know what they're capable of or risk underestimation by Beans they want to work alongside.

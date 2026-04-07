@@ -9,8 +9,8 @@ quote: Do not judge others before you have walked a mile in their beans.
 fortune: The case you closed too quickly this season is still open — leave it there for one more week before the judgment becomes permanent.
 ---
 
-Beans born in the Season of the Bitter Fried Navy Bean are the Bean Zodiac's most judgmental — they evaluate quickly and completely, and they do not tend to revise.
+Beans born in the Fried Season of the Bitter Navy Bean are the Bean Zodiac's most judgmental — they evaluate quickly and hold firm.
 
-Navy Bean already knows what the right thing is, and holds that standard without negotiation; Bitter has no patience for what hasn't earned its place; Fried delivers the assessment at heat and at speed, without the long simmering that might soften it into something less total. These Beans see clearly. The problem is that the clarity is complete before all the evidence is in.
+Navy Bean knows what's right and holds standards without negotiation; Bitter Beans lack patience for what hasn't earned place; Fried Beans deliver assessment at heat and speed.
 
-The Bitter Fried Navy Bean's challenge is the cost of the verdict. A judgment made too fast is not precision — it is foreclosure. These Beans must practice the discipline of leaving the case open a little longer.
+The Fried Bitter Navy Bean's challenge is the cost of the verdict. A judgment too fast isn't precision—it's foreclosure. They must practice leaving the case open a little longer.

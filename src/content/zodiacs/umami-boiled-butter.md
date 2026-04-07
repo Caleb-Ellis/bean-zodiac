@@ -9,8 +9,8 @@ quote: If it ain't beaned, don't fix it.
 fortune: The foundation you have been has carried more than it was asked to this season — require something of the Beans who have been building on you.
 ---
 
-Beans born in the Season of the Umami Boiled Butter Bean are the Bean Zodiac's most grounded — not in the way of being limited, but in the way of a thing that has its roots so deeply placed that nothing passing above the surface can meaningfully disturb it.
+Beans born in the Boiled Season of the Umami Butter Bean are the Bean Zodiac's most grounded — Beans build their seasons around them.
 
-Butter Bean does not hurry and does not need to; Umami adds the depth that comes from staying — the quality that makes something nourishing rather than merely adequate; Boiled immerses the whole arrangement slowly in what surrounds it, releasing what it contains without drama, asking nothing in return. These Beans are foundational — people build things on top of them, relationships and plans and energy, without always knowing they're doing it. When something hard happens, these Beans are where others go.
+Butter Beans do not hurry and require nothing; Umami Beans add nourishing depth that comes from staying; Boiled Beans immerse everything slowly without drama.
 
-The Umami Boiled Butter Bean's challenge is their own needs. Grounded Beans are easy to take for granted — they rarely ask, they rarely move, they rarely make themselves difficult. These Beans must occasionally require something.
+The Boiled Umami Butter Bean's challenge is their own needs. They must occasionally require something of those who have built on their foundation.

@@ -9,8 +9,8 @@ quote: The bean enters the room before you do.
 fortune: The room has formed its impression of you this season — hold your own alongside it, and stay connected to what you actually think, independent of how you are being received.
 ---
 
-Beans born in the Season of the Spicy Roasted Cannellini Bean are the Bean Zodiac's most charismatic — the room changes when they arrive, the conversation finds a new centre of gravity, and people who have never met them have already formed an impression.
+Beans born in the Roasted Season of the Spicy Cannellini Bean are the Bean Zodiac's most charismatic — the room changes and they become its center.
 
-Cannellini Bean elevates everything it accompanies, not by competing but by the quality of its presence; Spicy means this is not subtle — it demands full engagement, it cannot be missed; Roasted carries the whole thing outward with warmth that makes the charisma feel like an invitation rather than a performance. These Beans do not try to be compelling. People remember conversations with them long after the occasion has passed.
+Cannellini Beans elevate everything through the quality of their presence; Spicy Beans demand full engagement and cannot be missed; Roasted Beans carry it outward with warmth that makes the charisma feel like invitation.
 
-The Spicy Roasted Cannellini Bean's challenge is the weight of being seen. Charismatic Beans attract projection — people decide who they are before they have finished speaking. These Beans must stay connected to what they actually think, independently of how the room is receiving them.
+The Roasted Spicy Cannellini Bean's challenge is the weight of being seen. They must stay connected to what they actually think, independent of how the room is receiving them.

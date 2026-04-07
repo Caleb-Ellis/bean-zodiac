@@ -9,8 +9,8 @@ quote: If you can't bean it, you can't manage it.
 fortune: The problem you have been reducing this season is structural only in part — what remains after the analysis will need to be tasted, not measured.
 ---
 
-Beans born in the Season of the Bitter Boiled Edamame are the Bean Zodiac's most analytical — not investigative for its own sake, but driven by the certainty that understanding the structure of a thing is the only reliable way to work with it.
+Beans born in the Boiled Season of the Bitter Edamame are the Bean Zodiac's most analytical — they take things apart to understand their structure.
 
-Edamame cuts to what is actually needed; Bitter demands evidence before anything is accepted; Boiled means the analysis is patient, not rushed toward a conclusion but followed all the way through. These Beans take systems apart the way a cook reduces a stock — carefully, at length, without losing what matters.
+Edamame cuts to what is actually needed; Bitter Beans demand evidence before accepting anything; Boiled Beans follow analysis all the way through without rushing.
 
-The Bitter Boiled Edamame's challenge is that not every problem is a structure problem. Some things yield to feeling before they yield to analysis. These Beans must occasionally let the broth be tasted before the reduction is finished.
+The Boiled Bitter Edamame's challenge is that not every problem is structural. Some things yield to feeling before analysis. They must occasionally taste the broth before finishing the reduction.

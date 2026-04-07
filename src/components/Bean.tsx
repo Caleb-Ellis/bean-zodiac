@@ -13,16 +13,28 @@ export default function Bean({ bean, flavourId, methodId }: Props) {
   return (
     <div
       className={`${styles.bean}${flavourId ? ` flavour-${flavourId}` : ""}`}
-      style={methodId ? { "--glow-color": `var(--method-${methodId})` } as React.CSSProperties : undefined}
+      style={
+        methodId
+          ? ({
+              "--glow-color": `var(--method-${methodId})`,
+            } as React.CSSProperties)
+          : undefined
+      }
     >
       {flavourId ? (
         <img
           src={imageUrl}
           alt={`${flavourId} ${bean.name}`}
-          className={[`flavour-filter-${flavourId}`, methodId ? `method-filter-${methodId}` : ""].join(" ").trim()}
+          className={[`flavour-filter-${flavourId}`, methodId ? `method-filter-${methodId}` : ""]
+            .join(" ")
+            .trim()}
         />
       ) : (
-        <img src={imageUrl} alt={bean.name} className={methodId ? `method-filter-${methodId}` : undefined} />
+        <img
+          src={imageUrl}
+          alt={bean.name}
+          className={methodId ? `method-filter-${methodId}` : undefined}
+        />
       )}
     </div>
   );

@@ -21,20 +21,18 @@ const methods = await getCollection("methods");
   <ul class="grid grid-cols-2 gap-5 list-none p-0 m-0 max-w-lg mx-auto w-full">
     {
       methods.map((method) => (
-        <li class="rounded-xl border border-zinc-800 bg-zinc-900 overflow-hidden hover:border-zinc-600 transition-colors">
+        <li class={`rounded-xl border-4 border-method-${method.id} bg-zinc-900 overflow-hidden transition-opacity hover:opacity-80`}>
           <a href={`/methods/${method.id}`} class="flex flex-col no-underline h-full">
-            <div
-              class={`h-20 bg-method-${method.id} flex items-center justify-center`}
-            >
-              <span style="filter: brightness(0); font-size: 2rem; line-height: 1;">
+            <div class="h-20 flex items-center justify-center">
+              <span style="font-size: 2rem; line-height: 1;">
                 {METHOD_EMOJI[method.id as MethodId]}
               </span>
             </div>
-            <div class="p-3">
-              <h2 class={`text-base font-semibold method-${method.id}`}>
+            <div class={`p-3 bg-method-${method.id} flex-1`}>
+              <h2 class="text-base font-semibold text-black">
                 {method.data.name}
               </h2>
-              <p class="text-sm text-zinc-300 mt-0.5">{method.data.tagline}</p>
+              <p class="text-sm text-black/70 mt-0.5">{method.data.tagline}</p>
             </div>
           </a>
         </li>
