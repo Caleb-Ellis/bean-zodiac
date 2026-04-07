@@ -64,12 +64,12 @@ export default function ZodiacResult({
           )}
         </section>
         {showFortune && (
-          <>
-            <p className="text-xl sm:text-2xl font-bold mt-2">
+          <section className="my-4 sm:my-6">
+            <p className="text-xl sm:text-2xl font-bold mb-4">
               This Season's Fortune
             </p>
-            <p className="italic text-zinc-300 mb-2">"{zodiac.fortune}"</p>
-          </>
+            <p className="italic text-zinc-300">"{zodiac.fortune}"</p>
+          </section>
         )}
       </section>
       {showContent && (

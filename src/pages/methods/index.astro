@@ -18,20 +18,20 @@ const methods = await getCollection("methods");
       Each Bean is transformed by one of four Methods.
     </p>
   </section>
-  <ul class="flex flex-col gap-3 list-none p-0 m-0 max-w-lg mx-auto w-full">
+  <ul class="grid grid-cols-2 gap-5 list-none p-0 m-0 max-w-lg mx-auto w-full">
     {
       methods.map((method) => (
         <li class="rounded-xl border border-zinc-800 bg-zinc-900 overflow-hidden hover:border-zinc-600 transition-colors">
-          <a href={`/methods/${method.id}`} class="flex no-underline">
+          <a href={`/methods/${method.id}`} class="flex flex-col no-underline h-full">
             <div
-              class={`w-14 shrink-0 bg-method-${method.id} flex items-center justify-center`}
+              class={`h-20 bg-method-${method.id} flex items-center justify-center`}
             >
-              <span style="filter: brightness(0); font-size: 1.5rem; line-height: 1;">
+              <span style="filter: brightness(0); font-size: 2rem; line-height: 1;">
                 {METHOD_EMOJI[method.id as MethodId]}
               </span>
             </div>
-            <div class="p-4">
-              <h2 class={`text-lg font-semibold method-${method.id}`}>
+            <div class="p-3">
+              <h2 class={`text-base font-semibold method-${method.id}`}>
                 {method.data.name}
               </h2>
               <p class="text-sm text-zinc-300 mt-0.5">{method.data.tagline}</p>

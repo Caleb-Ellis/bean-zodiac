@@ -175,7 +175,7 @@ export default function ZodiacWheel({ date, highlight = true }: Props) {
   return (
     <svg
       viewBox="0 0 200 220"
-      className="w-96 sm:w-md"
+      className="w-96 sm:w-md lg:w-140"
       style={{ height: "auto" }}
       aria-label="Bean Zodiac Wheel"
     >

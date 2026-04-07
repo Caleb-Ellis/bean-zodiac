@@ -108,21 +108,16 @@
 .bg-method-boiled    { background-color: var(--method-boiled); }
 .bg-method-fermented { background-color: var(--method-fermented); }
 
-.flavour-filter-sweet  {
-  filter: sepia(0.25) hue-rotate(300deg) saturate(1.5);
-}
-.flavour-filter-sour   {
-  filter: sepia(0.25) hue-rotate(42deg) saturate(2);
-}
-.flavour-filter-bitter {
-  filter: sepia(0.25) hue-rotate(187deg) saturate(0.5);
-}
-.flavour-filter-umami  {
-  filter: sepia(0.25) hue-rotate(10deg) saturate(1.5);
-}
-.flavour-filter-spicy  {
-  filter: sepia(0.25) hue-rotate(324deg) saturate(2.5);
-}
+.flavour-filter-sweet  { --flavour-filter: sepia(0.25) hue-rotate(300deg) saturate(1); }
+.flavour-filter-sour   { --flavour-filter: sepia(0.25) hue-rotate(42deg) saturate(1); }
+.flavour-filter-bitter { --flavour-filter: sepia(0.25) hue-rotate(187deg) saturate(0.75); }
+.flavour-filter-umami  { --flavour-filter: sepia(0.25) hue-rotate(10deg) saturate(1); }
+.flavour-filter-spicy  { --flavour-filter: sepia(0.25) hue-rotate(324deg) saturate(1.5); }
+
+.method-filter-fried     { --method-filter: contrast(1.1) brightness(1.1) saturate(1.1) drop-shadow(0 0 10px oklch(65% 0.16 20)); }
+.method-filter-roasted   { --method-filter: sepia(0.4) contrast(1.15) brightness(0.92) drop-shadow(0 0 10px oklch(70% 0.12 55)); }
+.method-filter-boiled    { --method-filter: saturate(0.75) brightness(1.08) hue-rotate(12deg) drop-shadow(0 0 10px oklch(65% 0.16 240)); }
+.method-filter-fermented { --method-filter: sepia(0.2) hue-rotate(-25deg) saturate(1.1) contrast(0.92) drop-shadow(0 0 10px oklch(65% 0.16 150)); }
 
 input[type="date"]::-webkit-calendar-picker-indicator {
   filter: invert(1);

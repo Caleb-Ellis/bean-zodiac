@@ -19,10 +19,10 @@ export default function Bean({ bean, flavourId, methodId }: Props) {
         <img
           src={imageUrl}
           alt={`${flavourId} ${bean.name}`}
-          className={`flavour-filter-${flavourId}`}
+          className={[`flavour-filter-${flavourId}`, methodId ? `method-filter-${methodId}` : ""].join(" ").trim()}
         />
       ) : (
-        <img src={imageUrl} alt={bean.name} />
+        <img src={imageUrl} alt={bean.name} className={methodId ? `method-filter-${methodId}` : undefined} />
       )}
     </div>
   );
