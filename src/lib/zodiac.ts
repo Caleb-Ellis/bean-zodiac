@@ -4,7 +4,7 @@
  * The Bean Year switches on 12th March each calendar year.
  * A full cycle is 60 years (12 beans x 5 elements).
  *
- * Reference Bean Zodiac: 12th March 1993 = Fried Umami Edamame
+ * Reference Bean Zodiac: 12th March 1993 = Umami Fried Edamame
  */
 
 import type { getCollection } from "astro:content";
