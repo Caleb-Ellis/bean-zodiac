@@ -106,12 +106,10 @@ export type Flavour = FlavourSchema & { content: string };
 export type MethodId = (typeof MethodIds)[keyof typeof MethodIds];
 export type Method = MethodSchema & { content: string };
 
-export type ZodiacId = `${FlavourId}-${BeanId}`;
-export type ZodiacIdExtended = `${MethodId}-${FlavourId}-${BeanId}`;
+export type ZodiacId = `${FlavourId}-${MethodId}-${BeanId}`;
 export type Zodiac = ZodiacSchema & { content: string };
 export type ZodiacMetadata = {
   zodiacId: ZodiacId;
-  zodiacIdExtended: ZodiacIdExtended;
   beanId: BeanId;
   flavourId: FlavourId;
   methodId: MethodId;
@@ -179,8 +177,7 @@ export const getZodiacMetadataForDate = (date: Date): ZodiacMetadata => {
   );
 
   return {
-    zodiacId: `${flavourId}-${beanId}`,
-    zodiacIdExtended: `${methodId}-${flavourId}-${beanId}`,
+    zodiacId: `${flavourId}-${methodId}-${beanId}`,
     beanId,
     flavourId,
     methodId,

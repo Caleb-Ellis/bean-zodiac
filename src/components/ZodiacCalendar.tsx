@@ -52,12 +52,13 @@ export default function ZodiacCalendar({ data }: Props) {
         </button>
       </section>
       {selectedDate && resultVisible && (
-        <div>
+        <div className="my-4 sm:my-6">
           <ZodiacResult
             key={selectedDate.getTime()}
             data={data}
             date={selectedDate}
             showContent
+            showQuote
           />
         </div>
       )}

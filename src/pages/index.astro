@@ -19,12 +19,19 @@ const data = buildZodiacData(
 ---
 
 <Layout title="The Bean Zodiac" description="Discover your inner legume">
-  <section class="flex flex-col items-center my-4 sm:my-8">
-    <ZodiacResult data={data} date={new Date()} showFortune client:load />
+  <section class="flex flex-col items-center my-6 sm:my-12">
+    <ZodiacResult
+      data={data}
+      date={new Date()}
+      showDate
+      showFortune
+      client:load
+    />
   </section>
-  <section class="flex flex-col items-center my-6 sm:my-8">
-    <a class="link text-xl font-bold" href="/calendar"
-      >Which Bean are you?&nbsp;→</a
+  <section class="flex flex-col items-center my-8">
+    <a
+      class="bg-zinc-900/80 border border-zinc-500/60 text-white rounded-xl px-8 py-4 text-lg font-bold backdrop-blur-sm transition-all duration-200 hover:border-zinc-400 hover:text-white hover:bg-zinc-800/80 active:scale-95 cursor-pointer"
+      href="/calendar">Which Bean are you?&nbsp;→</a
     >
   </section>
 </Layout>
