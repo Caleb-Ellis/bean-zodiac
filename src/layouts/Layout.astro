@@ -29,7 +29,7 @@ const {
   </head>
   <body class="bg-zinc-950 text-white min-h-screen font-sans">
     <!--
-      Edge-only method filters. Each shares the same 6-step pipeline:
+      Edge-only form filters. Each shares the same 6-step pipeline:
         1. feColorMatrix  — colour-shift the full image → colorized
         2. feComponentTransfer — adjust per-channel gamma → colorized
         3. feMorphology erode SourceAlpha → eroded (alpha shrunk inward)
@@ -40,7 +40,7 @@ const {
     -->
     <svg style="display: none" xmlns="http://www.w3.org/2000/svg">
       <defs>
-        <filter id="method-roasted-filter" color-interpolation-filters="sRGB">
+        <filter id="form-roasted-filter" color-interpolation-filters="sRGB">
           <!-- Subtle overall warm-dark tint applied to the whole bean -->
           <feColorMatrix in="SourceGraphic" type="matrix" result="baseTinted" values="1.04 0 0 0 0.01  0 0.95 0 0 0  0 0 0.78 0 0  0 0 0 1 0"/>
           <!-- Ring 1: wide dark-orange that blurs inward -->
@@ -65,7 +65,7 @@ const {
           <feComposite in="blackEdge" in2="withBrown" operator="over"/>
         </filter>
 
-        <filter id="method-fried-filter" color-interpolation-filters="sRGB">
+        <filter id="form-fried-filter" color-interpolation-filters="sRGB">
           <!-- Subtle overall warm-red tint applied to the whole bean -->
           <feColorMatrix in="SourceGraphic" type="matrix" result="baseTinted" values="1.05 0 0 0 0.01  0 0.99 0 0 0  0 0 0.88 0 0  0 0 0 1 0"/>
           <!-- Stronger red-yellow shift for the edge crust, applied to SourceGraphic -->
@@ -91,7 +91,7 @@ const {
           <feComposite in="blackEdge" in2="withEdge" operator="over"/>
         </filter>
 
-        <filter id="method-boiled-filter" color-interpolation-filters="sRGB">
+        <filter id="form-boiled-filter" color-interpolation-filters="sRGB">
           <feColorMatrix type="matrix" result="colorized" values="0.70 0.10 0.05 0 0.07  0.05 0.72 0.08 0 0.05  0.05 0.10 0.85 0 0.05  0 0 0 1 0"/>
           <feComponentTransfer in="colorized" result="colorized">
             <feFuncR type="gamma" amplitude="1" exponent="0.7" offset="0"/>
@@ -105,7 +105,7 @@ const {
           <feComposite in="colorizedEdge" in2="SourceGraphic" operator="over"/>
         </filter>
 
-        <filter id="method-fermented-filter" color-interpolation-filters="sRGB">
+        <filter id="form-fermented-filter" color-interpolation-filters="sRGB">
           <!-- Subtle green base tint on the whole bean -->
           <feColorMatrix in="SourceGraphic" type="matrix" result="baseTinted" values="0.99 0 0 0 0  0 1.01 0 0 0  0 0 0.96 0 0  0 0 0 1 0"/>
           <!-- Ring 1: wide dark-green that blurs inward -->

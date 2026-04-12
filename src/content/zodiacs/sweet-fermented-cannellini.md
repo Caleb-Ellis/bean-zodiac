@@ -2,14 +2,14 @@
 slug: sweet-fermented-cannellini
 bean: cannellini
 flavour: sweet
-method: fermented
+form: fermented
 trait: diplomatic
 dish: Cannellini in sweet fermented broth with herbs. Everyone leaves satisfied.
 quote: Let us never negotiate out of bean. But let us never fear to negotiate.
 fortune: The candid version has been available this season — find the moment where it serves better than the diplomatic one, and say it.
 ---
 
-Beans born in the Fermented Season of the Sweet Cannellini Bean are the Bean Zodiac's most diplomatic — they find the arrangement everyone can live with, usually before the conversation begins.
+Fermented Beans born in the Year of the Sweet Cannellini Bean are the Bean Zodiac's most diplomatic — they find the arrangement everyone can live with, usually before the conversation begins.
 
 Cannellini Beans elevate by finding what is already good; Sweet Beans keep this warmly intentioned; Fermented Beans do the processing in private and arrive with the answer.
 

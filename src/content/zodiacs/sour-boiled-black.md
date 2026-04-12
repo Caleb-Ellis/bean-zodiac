@@ -2,14 +2,14 @@
 slug: sour-boiled-black
 bean: black
 flavour: sour
-method: boiled
+form: boiled
 trait: methodical
 dish: Black bean and lime soup with cilantro. Step. Step. Done.
 quote: Genius is one percent inspiration and ninety-nine percent bean.
-fortune: The method is holding — this season, the sequence you are in will deliver what the sequence was designed for.
+fortune: The form is holding — this season, the sequence you are in will deliver what the sequence was designed for.
 ---
 
-Beans born in the Boiled Season of the Sour Black Bean are the Bean Zodiac's most methodical — they move through the world in sequence because it is how they think.
+Boiled Beans born in the Year of the Sour Black Bean are the Bean Zodiac's most methodical — they move through the world in sequence because it is how they think.
 
 Black Beans observe before acting; Sour Beans cut away what doesn't belong; Boiled Beans let each stage complete at the speed it requires.
 

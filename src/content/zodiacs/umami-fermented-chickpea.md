@@ -2,14 +2,14 @@
 slug: umami-fermented-chickpea
 bean: chickpea
 flavour: umami
-method: fermented
+form: fermented
 trait: innovative
 dish: Chickpea with fermented black garlic and miso. Hasn't been done. Now it has.
 quote: Imagination is more important than knowledge about beans.
 fortune: What was developed in private this season is finished — the insight needs the object it becomes, and that part requires leaving the dark.
 ---
 
-Beans born in the Fermented Season of the Umami Chickpea are the Bean Zodiac's most innovative — they find connections no one else had noticed.
+Fermented Beans born in the Year of the Umami Chickpea are the Bean Zodiac's most innovative — they find connections no one else had noticed.
 
 Chickpeas find common ground across contexts; Umami Beans provide depth to develop ideas to reality; Fermented Beans transform privately until something emerges unpredictable from its parts.
 

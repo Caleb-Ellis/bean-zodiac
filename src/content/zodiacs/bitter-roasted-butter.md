@@ -2,14 +2,14 @@
 slug: bitter-roasted-butter
 bean: butter
 flavour: bitter
-method: roasted
+form: roasted
 trait: indulgent
 dish: Butter bean roasted with radicchio and good olive oil. Allows itself this.
 quote: If I have one more bean I'm gonna pop!
 fortune: This season, do one thing inconvenient — not to suffer, but to remember what you are choosing when you choose the good version.
 ---
 
-Beans born in the Roasted Season of the Bitter Butter Bean are the Bean Zodiac's most indulgent — quality is non-negotiable.
+Roasted Beans born in the Year of the Bitter Butter Bean are the Bean Zodiac's most indulgent — quality is non-negotiable.
 
 Butter Bean brings ease and warmth; Bitter Beans keep discernment over comfort; Roasted Beans coax sugars out with irresistible, unashamed warmth.
 

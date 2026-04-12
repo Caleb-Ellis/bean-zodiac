@@ -8,7 +8,7 @@
  */
 
 import type { getCollection } from "astro:content";
-import type { BeanSchema, FlavourSchema, MethodSchema, ZodiacSchema } from "../schemas";
+import type { BeanSchema, FlavourSchema, FormSchema, ZodiacSchema } from "../schemas";
 
 export const BEAN_ZODIAC_REFERENCE_YEAR = 1993;
 export const BEAN_ZODIAC_REFERENCE_MONTH = 3;
@@ -63,34 +63,34 @@ export const FLAVOUR_EMOJI: Record<FlavourId, string> = {
   [FlavourIds.Spicy]: "🌶️",
   [FlavourIds.Bitter]: "☕",
   [FlavourIds.Umami]: "🍄",
-};
+} as const;
 
-export const MethodIds = {
+export const FormIds = {
   Boiled: "boiled",
   Fermented: "fermented",
   Fried: "fried",
   Roasted: "roasted",
 } as const;
-export const METHOD_ORDER = [
-  MethodIds.Fried,
-  MethodIds.Roasted,
-  MethodIds.Boiled,
-  MethodIds.Fermented,
+export const FORM_ORDER = [
+  FormIds.Fried,
+  FormIds.Roasted,
+  FormIds.Boiled,
+  FormIds.Fermented,
 ] as const;
-// Start month (1-indexed) for each method, matching METHOD_ORDER
-export const METHOD_START_MONTH: Record<MethodId, number> = {
-  [MethodIds.Fried]: 3,
-  [MethodIds.Roasted]: 6,
-  [MethodIds.Boiled]: 9,
-  [MethodIds.Fermented]: 12,
-};
+// Start month (1-indexed) for each form, matching FORM_ORDER
+export const FORM_START_MONTH: Record<FormId, number> = {
+  [FormIds.Fried]: 3,
+  [FormIds.Roasted]: 6,
+  [FormIds.Boiled]: 9,
+  [FormIds.Fermented]: 12,
+} as const;
 
-export const METHOD_EMOJI: Record<MethodId, string> = {
-  [MethodIds.Fried]: "🔥",
-  [MethodIds.Roasted]: "💨",
-  [MethodIds.Boiled]: "💧",
-  [MethodIds.Fermented]: "🌍",
-};
+export const FORM_EMOJI: Record<FormId, string> = {
+  [FormIds.Fried]: "🔥",
+  [FormIds.Roasted]: "💨",
+  [FormIds.Boiled]: "💧",
+  [FormIds.Fermented]: "🌍",
+} as const;
 
 export type BeanId = (typeof BeanIds)[keyof typeof BeanIds];
 export type Bean = BeanSchema & { content: string };
@@ -98,16 +98,16 @@ export type Bean = BeanSchema & { content: string };
 export type FlavourId = (typeof FlavourIds)[keyof typeof FlavourIds];
 export type Flavour = FlavourSchema & { content: string };
 
-export type MethodId = (typeof MethodIds)[keyof typeof MethodIds];
-export type Method = MethodSchema & { content: string };
+export type FormId = (typeof FormIds)[keyof typeof FormIds];
+export type Form = FormSchema & { content: string };
 
-export type ZodiacId = `${FlavourId}-${MethodId}-${BeanId}`;
+export type ZodiacId = `${FlavourId}-${FormId}-${BeanId}`;
 export type Zodiac = ZodiacSchema & { content: string };
 export type ZodiacMetadata = {
   zodiacId: ZodiacId;
   beanId: BeanId;
   flavourId: FlavourId;
-  methodId: MethodId;
+  formId: FormId;
   startDate: Date;
   endDate: Date;
 };
@@ -115,7 +115,7 @@ export type ZodiacMetadata = {
 export type ZodiacData = {
   beans: Record<BeanId, Bean>;
   flavours: Record<FlavourId, Flavour>;
-  methods: Record<MethodId, Method>;
+  forms: Record<FormId, Form>;
   zodiacs: Record<ZodiacId, Zodiac>;
 };
 
@@ -143,21 +143,21 @@ export const getFlavourIdForBeanYear = (beanYear: number): FlavourId => {
   return FLAVOUR_ORDER[index];
 };
 
-export const getMethodIdForDate = (date: Date): MethodId => {
+export const getFormIdForDate = (date: Date): FormId => {
   const month = date.getMonth() + 1;
   const day = date.getDate();
-  // Shift so Mar 12 = 0, then quarter into METHOD_ORDER
+  // Shift so Mar 12 = 0, then quarter into FORM_ORDER
   const shiftedMonth = (month - 3 + (day < 12 ? -1 : 0) + 12) % 12;
-  return METHOD_ORDER[Math.floor(shiftedMonth / 3)];
+  return FORM_ORDER[Math.floor(shiftedMonth / 3)];
 };
 
 export const getZodiacMetadataForDate = (date: Date): ZodiacMetadata => {
   const beanYear = getBeanYear(date);
   const beanId = getBeanIdForBeanYear(beanYear);
   const flavourId = getFlavourIdForBeanYear(beanYear);
-  const methodId = getMethodIdForDate(date);
+  const formId = getFormIdForDate(date);
 
-  const startMonth = METHOD_START_MONTH[methodId];
+  const startMonth = FORM_START_MONTH[formId];
   const year = date.getFullYear();
   // Fermented starts in Dec and may wrap into the next year, so if the
   // start month is after the current month the period began last year.
@@ -167,10 +167,10 @@ export const getZodiacMetadataForDate = (date: Date): ZodiacMetadata => {
   const endDate = new Date(endMonth > 12 ? startYear + 1 : startYear, (endMonth - 1) % 12, 11);
 
   return {
-    zodiacId: `${flavourId}-${methodId}-${beanId}`,
+    zodiacId: `${flavourId}-${formId}-${beanId}`,
     beanId,
     flavourId,
-    methodId,
+    formId,
     startDate,
     endDate,
   };
@@ -186,7 +186,7 @@ export const formatZodiacDate = (date: Date): string =>
 export const buildZodiacData = (
   beans: Awaited<ReturnType<typeof getCollection<"beans">>>,
   flavours: Awaited<ReturnType<typeof getCollection<"flavours">>>,
-  methods: Awaited<ReturnType<typeof getCollection<"methods">>>,
+  forms: Awaited<ReturnType<typeof getCollection<"forms">>>,
   zodiacs: Awaited<ReturnType<typeof getCollection<"zodiacs">>>,
 ): ZodiacData => {
   return {
@@ -196,9 +196,9 @@ export const buildZodiacData = (
     flavours: Object.fromEntries(
       flavours.map((entry) => [entry.id, { ...entry.data, content: entry.body ?? "" }]),
     ) as Record<FlavourId, Flavour>,
-    methods: Object.fromEntries(
-      methods.map((entry) => [entry.id, { ...entry.data, content: entry.body ?? "" }]),
-    ) as Record<MethodId, Method>,
+    forms: Object.fromEntries(
+      forms.map((entry) => [entry.id, { ...entry.data, content: entry.body ?? "" }]),
+    ) as Record<FormId, Form>,
     zodiacs: Object.fromEntries(
       zodiacs.map((entry) => [entry.id, { ...entry.data, content: entry.body ?? "" }]),
     ) as Record<ZodiacId, Zodiac>,

@@ -6,18 +6,18 @@ import {
   BEAN_ZODIAC_REFERENCE_YEAR,
   FLAVOUR_EMOJI,
   FLAVOUR_ORDER,
-  METHOD_EMOJI,
-  METHOD_ORDER,
+  FORM_EMOJI,
+  FORM_ORDER,
   getBeanYear,
 } from "../lib/zodiac";
-import type { MethodId } from "../lib/zodiac";
+import type { FormId } from "../lib/zodiac";
 
 // Wheel centre
 const CX = 100;
 const CY = 100;
-// Method ring radii (middle ring)
-const METHOD_R1 = 37;
-const METHOD_R2 = 55;
+// Form ring radii (middle ring)
+const FORM_R1 = 37;
+const FORM_R2 = 55;
 // Flavour ring radii (inner ring)
 const FLAVOUR_R1 = 15;
 const FLAVOUR_R2 = 35;
@@ -32,7 +32,7 @@ const ACTIVE_DARK = "#27272a";
 // Segment widths (degrees)
 const BEAN_SEG = 360 / BEAN_ORDER.length;
 const FLAVOUR_SEG = 360 / FLAVOUR_ORDER.length;
-const METHOD_SEG = 360 / METHOD_ORDER.length;
+const FORM_SEG = 360 / FORM_ORDER.length;
 const YEARS_PER_FLAVOUR = 2;
 
 // ---------------------------------------------------------------------------
@@ -93,16 +93,16 @@ const FLAVOUR_GEOMETRY = FLAVOUR_ORDER.map((flavourId, i) => {
   return { flavourId, path, x, y, mid };
 });
 
-const METHOD_GEOMETRY = METHOD_ORDER.map((methodId, i) => {
-  const mid = 90 + i * METHOD_SEG; // reversed so anti-clockwise rotation tracks correctly
+const FORM_GEOMETRY = FORM_ORDER.map((formId, i) => {
+  const mid = 90 + i * FORM_SEG; // reversed so anti-clockwise rotation tracks correctly
   const path = annularSector(
-    METHOD_R1,
-    METHOD_R2,
-    mid - METHOD_SEG / 2 + GAP,
-    mid + METHOD_SEG / 2 - GAP,
+    FORM_R1,
+    FORM_R2,
+    mid - FORM_SEG / 2 + GAP,
+    mid + FORM_SEG / 2 - GAP,
   );
-  const { x, y } = toXY((METHOD_R1 + METHOD_R2) / 2, mid);
-  return { methodId, path, x, y, mid };
+  const { x, y } = toXY((FORM_R1 + FORM_R2) / 2, mid);
+  return { formId, path, x, y, mid };
 });
 
 // All filter definitions precomputed — two variants per segment (normal + active).
@@ -121,10 +121,10 @@ const STATIC_FILTERS = (
         {makeFilter(`f-fl-${flavourId}-a`, ACTIVE_DARK, "-50%")}
       </Fragment>
     ))}
-    {METHOD_GEOMETRY.map(({ methodId }) => (
-      <Fragment key={methodId}>
-        {makeFilter(`f-m-${methodId}`, `var(--method-${methodId})`, "-50%")}
-        {makeFilter(`f-m-${methodId}-a`, ACTIVE_DARK, "-50%")}
+    {FORM_GEOMETRY.map(({ formId }) => (
+      <Fragment key={formId}>
+        {makeFilter(`f-m-${formId}`, `var(--form-${formId})`, "-50%")}
+        {makeFilter(`f-m-${formId}-a`, ACTIVE_DARK, "-50%")}
       </Fragment>
     ))}
   </>
@@ -144,10 +144,10 @@ export default function ZodiacWheel({ date, highlight = true }: Props) {
     absCentre,
     targetOuter,
     targetInner,
-    targetMethod,
+    targetForm,
     beanIdx,
     flavourIdx,
-    methodIdx,
+    formIdx,
   } = computeTargets(date);
 
   const prevAbsOuter = useRef(absOuter);
@@ -156,10 +156,10 @@ export default function ZodiacWheel({ date, highlight = true }: Props) {
 
   const [outerRot, setOuterRot] = useState(targetOuter);
   const [innerRot, setInnerRot] = useState(targetInner);
-  const [methodRot, setMethodRot] = useState(targetMethod);
+  const [formRot, setFormRot] = useState(targetForm);
   const [activeBeanIdx, setActiveBeanIdx] = useState(beanIdx);
   const [activeFlavourIdx, setActiveFlavourIdx] = useState(flavourIdx);
-  const [activeMethodIdx, setActiveMethodIdx] = useState(methodIdx);
+  const [activeFormIdx, setActiveFormIdx] = useState(formIdx);
   const [highlightVisible, setHighlightVisible] = useState(false);
 
   useEffect(() => {
@@ -176,7 +176,7 @@ export default function ZodiacWheel({ date, highlight = true }: Props) {
 
   useEffect(() => {
     const delta = absCentre - prevAbsCentre.current;
-    setMethodRot((r) => r + capDelta(delta, 640));
+    setFormRot((r) => r + capDelta(delta, 640));
     prevAbsCentre.current = absCentre;
   }, [absCentre]);
 
@@ -186,11 +186,11 @@ export default function ZodiacWheel({ date, highlight = true }: Props) {
     const t = setTimeout(() => {
       setActiveBeanIdx(beanIdx);
       setActiveFlavourIdx(flavourIdx);
-      setActiveMethodIdx(methodIdx);
+      setActiveFormIdx(formIdx);
       setHighlightVisible(true);
     }, 2100);
     return () => clearTimeout(t);
-  }, [beanIdx, flavourIdx, methodIdx, highlight]);
+  }, [beanIdx, flavourIdx, formIdx, highlight]);
 
   return (
     <svg
@@ -211,8 +211,8 @@ export default function ZodiacWheel({ date, highlight = true }: Props) {
             <path d={path} />
           </clipPath>
         ))}
-        {METHOD_GEOMETRY.map(({ methodId, path }) => (
-          <clipPath key={methodId} id={`clip-m-${methodId}`}>
+        {FORM_GEOMETRY.map(({ formId, path }) => (
+          <clipPath key={formId} id={`clip-m-${formId}`}>
             <path d={path} />
           </clipPath>
         ))}
@@ -259,24 +259,24 @@ export default function ZodiacWheel({ date, highlight = true }: Props) {
         })}
       </g>
 
-      {/* Middle method ring — spins anti-clockwise */}
+      {/* Middle form ring — spins anti-clockwise */}
       <g
         style={{
           transformOrigin: `${CX}px ${CY}px`,
-          transform: `rotate(${-methodRot}deg)`,
+          transform: `rotate(${-formRot}deg)`,
           transition: TRANSITION,
           willChange: "transform",
         }}
       >
-        {METHOD_GEOMETRY.map(({ methodId, path, x, y, mid }, i) => {
-          const active = i === activeMethodIdx && highlightVisible;
-          const color = `var(--method-${methodId})`;
+        {FORM_GEOMETRY.map(({ formId, path, x, y, mid }, i) => {
+          const active = i === activeFormIdx && highlightVisible;
+          const color = `var(--form-${formId})`;
           return (
-            <g key={methodId}>
+            <g key={formId}>
               <path
                 d={path}
                 strokeWidth={3}
-                clipPath={`url(#clip-m-${methodId})`}
+                clipPath={`url(#clip-m-${formId})`}
                 fill={active ? color : "transparent"}
                 style={{ stroke: color, transition: "fill 0.5s ease" }}
               />
@@ -290,10 +290,10 @@ export default function ZodiacWheel({ date, highlight = true }: Props) {
                 style={{
                   userSelect: "none",
                   pointerEvents: "none",
-                  filter: `url(#f-m-${methodId}${active ? "-a" : ""})`,
+                  filter: `url(#f-m-${formId}${active ? "-a" : ""})`,
                 }}
               >
-                {METHOD_EMOJI[methodId as MethodId]}
+                {FORM_EMOJI[formId as FormId]}
               </text>
             </g>
           );
@@ -398,9 +398,9 @@ function computeTargets(date: Date) {
     targetOuter: modOuter - BEAN_SEG / 2,
     targetInner: modInner - FLAVOUR_SEG / 2,
     targetCentre: modCentre,
-    targetMethod: modCentre - METHOD_SEG / 2,
+    targetForm: modCentre - FORM_SEG / 2,
     beanIdx: Math.floor(modOuter / BEAN_SEG),
     flavourIdx: Math.floor(modInner / FLAVOUR_SEG),
-    methodIdx: Math.floor(modCentre / METHOD_SEG),
+    formIdx: Math.floor(modCentre / FORM_SEG),
   };
 }

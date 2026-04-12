@@ -2,14 +2,14 @@
 slug: bitter-boiled-edamame
 bean: edamame
 flavour: bitter
-method: boiled
+form: boiled
 trait: analytical
 dish: Edamame in bitter citrus dashi. Each element earns its place.
 quote: If you can't bean it, you can't manage it.
 fortune: The problem you have been reducing this season is structural only in part — what remains after the analysis will need to be tasted, not measured.
 ---
 
-Beans born in the Boiled Season of the Bitter Edamame are the Bean Zodiac's most analytical — they take things apart to understand their structure.
+Boiled Beans born in the Year of the Bitter Edamame are the Bean Zodiac's most analytical — they take things apart to understand their structure.
 
 Edamame cuts to what is actually needed; Bitter Beans demand evidence before accepting anything; Boiled Beans follow analysis all the way through without rushing.
 

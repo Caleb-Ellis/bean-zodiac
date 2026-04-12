@@ -2,14 +2,14 @@
 slug: sweet-fried-chickpea
 bean: chickpea
 flavour: sweet
-method: fried
+form: fried
 trait: funny
 dish: Chickpea fritters with sweet yogurt dip. Has everyone laughing.
 quote: If you want to tell beans the truth, make them laugh, otherwise they'll kill you.
 fortune: Put the joke down this season and let what you actually think arrive without the wrapper — they will laugh, and then they will listen.
 ---
 
-Beans born in the Fried Season of the Sweet Chickpea are the Bean Zodiac's funniest — they find what is absurd and deliver it exactly when it lands.
+Fried Beans born in the Year of the Sweet Chickpea are the Bean Zodiac's funniest — they find what is absurd and deliver it exactly when it lands.
 
 Chickpeas read the room before furniture is arranged; Sweet Beans make the humor generous, releasing tension; Fried Beans deliver it now, before the moment passes.
 

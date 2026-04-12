@@ -23,7 +23,7 @@ pnpm lint:fix     # Lint and auto-fix
 
 The core of the app. Key concepts:
 
-- **12 beans** × **5 flavours** × **4 methods** = **240-combination cycle**
+- **12 beans** × **5 flavours** × **4 forms** = **240-combination cycle**
 - New year switches on **March 12** annually (not Chinese New Year)
 - Reference Date is 12 March 1993 - this is when the Bean Zodiac started
 - `getCurrentBeanZodiac()` → `getBeanZodiacForYear(beanYear)` is the main call chain
@@ -34,8 +34,8 @@ Astro glob-loaded collections:
 
 - **`beans/`** — 12 markdown files, one per bean (name, tagline, traits[], color CSS hex, optional modelFile)
 - **`flavours/`** — 5 markdown files, one per flavour (name, character, traits[], color CSS hex)
-- **`methods/`** — 4 markdown files: boiled, fermented, fried, roasted (name, tagline, traits[])
-- **`zodiacs/`** — 240 markdown files, one per bean×flavour×method combination. Filename: `{method}-{flavour}-{bean}.md`. Frontmatter: slug, bean, flavour, method, trait, dish, quote, fortune. Body opens: "Beans born in the Season of the [Method] [Flavour] [Bean] are the Bean Zodiac's most [trait]." Reference file for style: `boiled-bitter-adzuki.md`.
+- **`forms/`** — 4 markdown files: boiled, fermented, fried, roasted (name, tagline, traits[])
+- **`zodiacs/`** — 240 markdown files, one per bean×flavour×form combination. Filename: `{form}-{flavour}-{bean}.md`. Frontmatter: slug, bean, flavour, form, trait, dish, quote, fortune. Body opens: "Beans born in the Season of the [Form] [Flavour] [Bean] are the Bean Zodiac's most [trait]." Reference file for style: `boiled-bitter-adzuki.md`.
 
 ### Pages and Routing
 

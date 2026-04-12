@@ -2,14 +2,14 @@
 slug: bitter-fried-pinto
 bean: pinto
 flavour: bitter
-method: fried
+form: fried
 trait: irreverent
 dish: Pan-fried pinto with bitter citrus and a mess of herbs. Rules are suggestions.
 quote: Irreverence is the champion of liberty and its only sure bean.
 fortune: The target this season deserves the irreverence — check once that it is pretension you are after, and not something that only looks like it.
 ---
 
-Beans born in the Fried Season of the Bitter Pinto Bean are the Bean Zodiac's most irreverent — they question rules that haven't been examined.
+Fried Beans born in the Year of the Bitter Pinto Bean are the Bean Zodiac's most irreverent — they question rules that haven't been examined.
 
 Pinto Bean wears markings as declaration, distinct and uninterested in blending; Bitter Beans refuse easy reverence; Fried Beans arrive fast.
 

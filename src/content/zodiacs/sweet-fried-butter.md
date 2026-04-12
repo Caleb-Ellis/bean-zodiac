@@ -2,14 +2,14 @@
 slug: sweet-fried-butter
 bean: butter
 flavour: sweet
-method: fried
+form: fried
 trait: nonchalant
 dish: Butter bean fritters with honey drizzle. Sure, why not.
 quote: Whatever, it's beans.
 fortune: Some things this season are asking for weight — learn to pick it up without losing yourself in it.
 ---
 
-Beans born in the Fried Season of the Sweet Butter Bean are the Bean Zodiac's most nonchalant — things happen without making any visible dent.
+Fried Beans born in the Year of the Sweet Butter Bean are the Bean Zodiac's most nonchalant — things happen without making any visible dent.
 
 Butter Beans are constitutionally untroubled; Sweet Beans add cheerfulness; Fried Beans deploy heat without ceremony, simply doing the thing and moving on.
 

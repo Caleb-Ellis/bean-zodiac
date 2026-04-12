@@ -2,14 +2,14 @@
 slug: bitter-fermented-cannellini
 bean: cannellini
 flavour: bitter
-method: fermented
+form: fermented
 trait: scholarly
 dish: Cannellini in fermented bitter broth with anchovy. An acquired taste. Worth acquiring.
 quote: I have not failed. I have just found ten thousand ways that will not produce a bean.
 fortune: The scholarship you have accumulated this season is ready for the form that makes it useful — find the occasion, and bring the book outside.
 ---
 
-Beans born in the Fermented Season of the Bitter Cannellini Bean are the Bean Zodiac's most scholarly — they have a devoted relationship with knowledge, surfacing only when conclusion-ready.
+Fermented Beans born in the Year of the Bitter Cannellini Bean are the Bean Zodiac's most scholarly — they have a devoted relationship with knowledge, surfacing only when conclusion-ready.
 
 Cannellini Bean refines and elevates ideas; Bitter Beans favor the complex, things that reward sustained attention; Fermented Beans work the investment in the dark.
 

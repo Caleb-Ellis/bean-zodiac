@@ -2,14 +2,14 @@
 slug: spicy-fermented-chickpea
 bean: chickpea
 flavour: spicy
-method: fermented
+form: fermented
 trait: offbeat
 dish: Chickpea in spicy fermented paste on flatbread. Shouldn't work. Does.
 quote: I've lost my damn beans.
 fortune: The route you have taken this season is yours — hold onto the warmth that makes it worth following, so others can find the way in.
 ---
 
-Beans born in the Fermented Season of the Spicy Chickpea are the Bean Zodiac's most offbeat — they connect easily but land on unexpected ground.
+Fermented Beans born in the Year of the Spicy Chickpea are the Bean Zodiac's most offbeat — they connect easily but land on unexpected ground.
 
 Chickpeas connect with anyone; Spicy Beans demand real transformation; Fermented Beans work in darkness until something new emerges.
 

@@ -2,14 +2,14 @@
 slug: spicy-boiled-edamame
 bean: edamame
 flavour: spicy
-method: boiled
+form: boiled
 trait: hardworking
 dish: Edamame in spiced dashi. Always earning it.
 quote: Genius is one per cent inspiration and ninety-nine per cent beans.
 fortune: The work you have put in this season has compounded. It does not require explanation or acknowledgment, but it will require rest.
 ---
 
-Beans born in the Boiled Season of the Spicy Edamame are the Bean Zodiac's most hardworking — they understand work is required and follow through.
+Boiled Beans born in the Year of the Spicy Edamame are the Bean Zodiac's most hardworking — they understand work is required and follow through.
 
 Edamame know what needs doing without dressing it up; Spicy Beans make the effort urgent and immediate; Boiled Beans sustain the operation with steady patience over time.
 

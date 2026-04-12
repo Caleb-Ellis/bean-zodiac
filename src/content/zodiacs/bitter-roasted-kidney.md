@@ -2,14 +2,14 @@
 slug: bitter-roasted-kidney
 bean: kidney
 flavour: bitter
-method: roasted
+form: roasted
 trait: proud
 dish: Roasted kidney beans with bitter herb crust. Knows what it's worth.
 quote: It is not the bean that stoops who loses dignity, but the one who forgets why they stood.
 fortune: The pride you carry this season is warranted — let it be generous enough to make room for someone else's.
 ---
 
-Beans born in the Roasted Season of the Bitter Kidney Bean are the Bean Zodiac's most proud — they have standards and presence.
+Roasted Beans born in the Year of the Bitter Kidney Bean are the Bean Zodiac's most proud — they have standards and presence.
 
 Kidney Bean marks everything it touches; Bitter Beans ensure marks are earned by genuine standards; Roasted Beans coax this outward, visible from across the room.
 

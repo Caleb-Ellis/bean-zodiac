@@ -2,14 +2,14 @@
 slug: sour-fermented-cannellini
 bean: cannellini
 flavour: sour
-method: fermented
+form: fermented
 trait: critical
 dish: Cannellini in tangy fermented whey with lemon zest. Has notes.
 quote: You call this bean broth?
 fortune: The conclusion developed privately this season is ready to surface — deliver it, and trust that it is as precise as the process that produced it.
 ---
 
-Beans born in the Fermented Season of the Sour Cannellini Bean are the Bean Zodiac's most critical — they know exactly how everything could be better.
+Fermented Beans born in the Year of the Sour Cannellini Bean are the Bean Zodiac's most critical — they know exactly how everything could be better.
 
 Cannellini Beans curate ruthlessly; Sour Beans cut through sentiment; Fermented Beans work until conclusions emerge.
 

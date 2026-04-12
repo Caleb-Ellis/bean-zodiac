@@ -2,14 +2,14 @@
 slug: bitter-boiled-adzuki
 bean: adzuki
 flavour: bitter
-method: boiled
+form: boiled
 trait: judicious
 dish: Adzuki in bitter citrus broth with pickled ginger. Nothing without purpose.
 quote: To bean, or not to bean, that is the question.
 fortune: Your judgment is sound — let those around you hear the deliberation, not only the conclusion.
 ---
 
-Beans born in the Boiled Season of the Bitter Adzuki Bean are the Bean Zodiac's most judicious — they carry the Adzuki Bean's deep instinct for celebration, but they do not spend it until the conditions have been met.
+Boiled Beans born in the Year of the Bitter Adzuki Bean are the Bean Zodiac's most judicious — they carry the Adzuki Bean's deep instinct for celebration, but they do not spend it until the conditions have been met.
 
 Adzuki Beans knows that certain moments deserve to be marked; Bitter Beans insist they must genuinely earn it; Boiled Beans refuse to let anything be rushed.
 

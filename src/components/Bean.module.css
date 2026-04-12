@@ -5,14 +5,14 @@
   position: relative;
   height: 100%;
   --flavour-filter: brightness(1);
-  --method-filter: brightness(1);
+  --form-filter: brightness(1);
 
   img {
     display: block;
     width: 100%;
     height: auto;
     max-width: 10rem;
-    filter: var(--flavour-filter) var(--method-filter);
+    filter: var(--flavour-filter) var(--form-filter);
   }
 
   .solidBean {

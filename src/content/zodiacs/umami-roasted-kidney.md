@@ -2,14 +2,14 @@
 slug: umami-roasted-kidney
 bean: kidney
 flavour: umami
-method: roasted
+form: roasted
 trait: extravagant
 dish: Roasted kidney beans with truffle oil and mushroom. Spares nothing.
 quote: I have nothing to declare except my bean.
 fortune: Abundance is not suspicious — take the full experience this season, and stay long enough in it to know it was depth and not just fullness.
 ---
 
-Beans born in the Roasted Season of the Umami Kidney Bean are the Bean Zodiac's most extravagant — they believe the full experience is always better than the restrained one.
+Roasted Beans born in the Year of the Umami Kidney Bean are the Bean Zodiac's most extravagant — they believe the full experience is always better than the restrained one.
 
 Kidney Beans give up richness slowly and fully; Umami Beans add depth and substance; Roasted Beans coax everything outward to fill the room.
 

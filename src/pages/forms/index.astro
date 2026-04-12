@@ -1,0 +1,42 @@
+---
+import { getCollection } from "astro:content";
+import Layout from "../../layouts/Layout.astro";
+import "../../styles/global.css";
+
+import { FORM_EMOJI, type FormId } from "../../lib/zodiac";
+
+const forms = await getCollection("forms");
+---
+
+<Layout
+  title="The Four Forms"
+  description="Fried, Roasted, Boiled, and Fermented - the four cooking forms that shape how you transform."
+>
+  <section class="py-12 text-center">
+    <h1 class="text-4xl sm:text-5xl font-bold">The Four Forms</h1>
+    <p class="mt-3 text-lg text-zinc-300 max-w-xl mx-auto">
+      Each Bean embodies one of four Forms.
+    </p>
+  </section>
+  <ul class="grid grid-cols-2 gap-5 list-none p-0 m-0 max-w-lg mx-auto w-full">
+    {
+      forms.map((form) => (
+        <li class={`rounded-xl border-4 border-form-${form.id} bg-zinc-900 overflow-hidden transition-opacity hover:opacity-80`}>
+          <a href={`/forms/${form.id}`} class="flex flex-col no-underline h-full">
+            <div class="h-20 flex items-center justify-center">
+              <span style="font-size: 2rem; line-height: 1;">
+                {FORM_EMOJI[form.id as FormId]}
+              </span>
+            </div>
+            <div class={`p-3 bg-form-${form.id} flex-1`}>
+              <h2 class="text-base font-semibold text-black">
+                {form.data.name}
+              </h2>
+              <p class="text-sm text-black/70 mt-0.5">{form.data.tagline}</p>
+            </div>
+          </a>
+        </li>
+      ))
+    }
+  </ul>
+</Layout>

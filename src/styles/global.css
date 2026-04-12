@@ -20,10 +20,10 @@
   --flavour-umami: oklch(80% 0.22 77.947);
   --flavour-spicy: oklch(70% 0.31 28.212);
 
-  --method-fried: oklch(65% 0.16 20);
-  --method-roasted: oklch(80% 0.1 60);
-  --method-boiled: oklch(65% 0.16 240);
-  --method-fermented: oklch(65% 0.16 150);
+  --form-fried: oklch(65% 0.16 20);
+  --form-roasted: oklch(80% 0.1 60);
+  --form-boiled: oklch(65% 0.16 240);
+  --form-fermented: oklch(65% 0.16 150);
 }
 
 .link {
@@ -167,43 +167,43 @@
   background-color: var(--flavour-spicy);
 }
 
-.method-fried {
-  color: var(--method-fried);
+.form-fried {
+  color: var(--form-fried);
 }
-.method-roasted {
-  color: var(--method-roasted);
+.form-roasted {
+  color: var(--form-roasted);
 }
-.method-boiled {
-  color: var(--method-boiled);
+.form-boiled {
+  color: var(--form-boiled);
 }
-.method-fermented {
-  color: var(--method-fermented);
-}
-
-.bg-method-fried {
-  background-color: var(--method-fried);
-}
-.bg-method-roasted {
-  background-color: var(--method-roasted);
-}
-.bg-method-boiled {
-  background-color: var(--method-boiled);
-}
-.bg-method-fermented {
-  background-color: var(--method-fermented);
+.form-fermented {
+  color: var(--form-fermented);
 }
 
-.border-method-fried {
-  border-color: var(--method-fried);
+.bg-form-fried {
+  background-color: var(--form-fried);
 }
-.border-method-roasted {
-  border-color: var(--method-roasted);
+.bg-form-roasted {
+  background-color: var(--form-roasted);
 }
-.border-method-boiled {
-  border-color: var(--method-boiled);
+.bg-form-boiled {
+  background-color: var(--form-boiled);
 }
-.border-method-fermented {
-  border-color: var(--method-fermented);
+.bg-form-fermented {
+  background-color: var(--form-fermented);
+}
+
+.border-form-fried {
+  border-color: var(--form-fried);
+}
+.border-form-roasted {
+  border-color: var(--form-roasted);
+}
+.border-form-boiled {
+  border-color: var(--form-boiled);
+}
+.border-form-fermented {
+  border-color: var(--form-fermented);
 }
 
 .flavour-filter-sweet {
@@ -222,17 +222,17 @@
   --flavour-filter: sepia(0.5) hue-rotate(324deg) saturate(2);
 }
 
-.method-filter-fried {
-  --method-filter: url(#method-fried-filter);
+.form-filter-fried {
+  --form-filter: url(#form-fried-filter);
 }
-.method-filter-roasted {
-  --method-filter: url(#method-roasted-filter);
+.form-filter-roasted {
+  --form-filter: url(#form-roasted-filter);
 }
-.method-filter-boiled {
-  --method-filter: url(#method-boiled-filter);
+.form-filter-boiled {
+  --form-filter: url(#form-boiled-filter);
 }
-.method-filter-fermented {
-  --method-filter: url(#method-fermented-filter);
+.form-filter-fermented {
+  --form-filter: url(#form-fermented-filter);
 }
 
 input[type="date"]::-webkit-calendar-picker-indicator {

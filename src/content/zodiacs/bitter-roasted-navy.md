@@ -2,14 +2,14 @@
 slug: bitter-roasted-navy
 bean: navy
 flavour: bitter
-method: roasted
+form: roasted
 trait: prudent
 dish: Roasted navy bean with bitter herb. Measured. Nothing to excess.
 quote: In preparing to bean, I have always found that plans are useless, but planning is indispensable.
 fortune: The contingency you have been preparing for this season is ready — let the preparation become the action it was always building toward.
 ---
 
-Beans born in the Roasted Season of the Bitter Navy Bean are the Bean Zodiac's most prudent — they anticipate what could go wrong.
+Roasted Beans born in the Year of the Bitter Navy Bean are the Bean Zodiac's most prudent — they anticipate what could go wrong.
 
 Navy Bean is principled and dependable; Bitter Beans identify where failure might come; Roasted Beans hold warmth, keeping analysis from curdling into paralysis.
 

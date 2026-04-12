@@ -22,7 +22,7 @@ export default function ZodiacResult({
   const metadata = getZodiacMetadataForDate(date);
   const bean = data.beans[metadata.beanId];
   const flavour = data.flavours[metadata.flavourId];
-  const method = data.methods[metadata.methodId];
+  const form = data.forms[metadata.formId];
   const zodiac = data.zodiacs[metadata.zodiacId];
   const startDateStr = formatZodiacDate(metadata.startDate);
   const endDateStr = formatZodiacDate(metadata.endDate);
@@ -37,11 +37,11 @@ export default function ZodiacResult({
             <span className={` bean-${bean.slug}`}>{bean.name}</span>
           </span>
           <span className="block text-md sm:text-xl mb-3 sm:mb-6">
-            in the <span className={`method-${method.slug}`}>{method.name}</span> Season
+            in its <span className={`form-${form.slug}`}>{form.name}</span> form
           </span>
         </h2>
         <div className="my-6 sm:my-8">
-          <Bean bean={bean} flavourId={flavour.slug} methodId={method.slug} />
+          <Bean bean={bean} flavourId={flavour.slug} formId={form.slug} />
         </div>
         {showDate && (
           <p className="mb-2">
@@ -73,8 +73,8 @@ export default function ZodiacResult({
           About <span className={`flavour-${flavour.slug}`}>Tasting {flavour.name}</span>
           &nbsp;→
         </a>
-        <a className="link" href={`/methods/${method.slug}`}>
-          About <span className={`method-${method.slug}`}>Being {method.name}</span>
+        <a className="link" href={`/forms/${form.slug}`}>
+          About <span className={`form-${form.slug}`}>Being {form.name}</span>
           &nbsp;→
         </a>
       </div>

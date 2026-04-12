@@ -7,13 +7,13 @@ import "../styles/global.css";
 
 const beanCollection = await getCollection("beans");
 const flavourCollection = await getCollection("flavours");
-const methodCollection = await getCollection("methods");
+const formCollection = await getCollection("forms");
 const zodiacCollection = await getCollection("zodiacs");
 
 const data = buildZodiacData(
   beanCollection,
   flavourCollection,
-  methodCollection,
+  formCollection,
   zodiacCollection,
 );
 ---

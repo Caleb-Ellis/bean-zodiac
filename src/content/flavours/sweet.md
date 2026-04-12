@@ -1,7 +1,7 @@
 ---
 slug: sweet
 name: Sweet
-tagline: The Flavour that everyone loves.
+tagline: The Flavour that comforts.
 traits: [joyful, comforting, generous, effortless, lazy]
 ---
 

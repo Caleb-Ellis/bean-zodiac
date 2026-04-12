@@ -2,14 +2,14 @@
 slug: sweet-roasted-chickpea
 bean: chickpea
 flavour: sweet
-method: roasted
+form: roasted
 trait: bighearted
 dish: Roasted chickpea with sweet spice, plenty for everyone. There's more.
 quote: The best bean way to find yourself is to lose yourself in the service of others.
 fortune: Receive as readily as you give this season — the limit exists, and the Beans around you would like to know where it is before they find it for you.
 ---
 
-Beans born in the Roasted Season of the Sweet Chickpea are the Bean Zodiac's most bighearted — their generosity extends outward without diminishing, like warmth from an inexhaustible source.
+Roasted Beans born in the Year of the Sweet Chickpea are the Bean Zodiac's most bighearted — their generosity extends outward without diminishing, like warmth from an inexhaustible source.
 
 Chickpeas are at ease in any company; Sweet Beans make everything more open; Roasted Beans fill the room with warmth.
 

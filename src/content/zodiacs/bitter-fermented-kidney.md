@@ -2,14 +2,14 @@
 slug: bitter-fermented-kidney
 bean: kidney
 flavour: bitter
-method: fermented
+form: fermented
 trait: intense
 dish: Kidney bean with fermented black bean sauce and bitter melon. Goes deep.
 quote: Beware the bean who is quiet in a crisis.
 fortune: The intensity you have carried this season is ready to be felt, not only eventually known — find one outlet before the season closes.
 ---
 
-Beans born in the Fermented Season of the Bitter Kidney Bean are the Bean Zodiac's most intense — they carry more beneath the surface than most will show.
+Fermented Beans born in the Year of the Bitter Kidney Bean are the Bean Zodiac's most intense — they carry more beneath the surface than most will show.
 
 Kidney Bean's passion runs deep; Bitter Beans refuse to surface anything unexamined; Fermented Beans process without fire, on their own timeline.
 

@@ -2,14 +2,14 @@
 slug: sweet-roasted-navy
 bean: navy
 flavour: sweet
-method: roasted
+form: roasted
 trait: reserved
 dish: Sweet roasted navy bean with brown sugar. Keeps to itself. Warm inside.
 quote: Speech is silver, but bean is golden.
 fortune: Offer something before it has been fully earned this season — not everything worth giving requires the recipient to have already proven it.
 ---
 
-Beans born in the Roasted Season of the Sweet Navy Bean are the Bean Zodiac's most reserved — their warmth is present but not distributed at random.
+Roasted Beans born in the Year of the Sweet Navy Bean are the Bean Zodiac's most reserved — their warmth is present but not distributed at random.
 
 Navy Beans are principled about what is given; Sweet Beans hold the warmth carefully; Roasted Beans sustain the temperature without performing.
 

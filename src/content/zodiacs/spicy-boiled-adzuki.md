@@ -2,14 +2,14 @@
 slug: spicy-boiled-adzuki
 bean: adzuki
 flavour: spicy
-method: boiled
+form: boiled
 trait: spirited
 dish: Adzuki in chili broth with star anise. Ready for whatever comes.
 quote: You've gotta have bean.
 fortune: The season ahead will ask for warmth more than once — bank some of what you have today so it is still there when the occasion needs it.
 ---
 
-Beans born in the Boiled Season of the Spicy Adzuki Bean are the Bean Zodiac's most spirited — heat banked through patience makes the fire last.
+Boiled Beans born in the Year of the Spicy Adzuki Bean are the Bean Zodiac's most spirited — heat banked through patience makes the fire last.
 
 Adzuki Beans know when a moment deserves full expenditure; Spicy Beans demand complete, immediate attention; Boiled Beans slow the release and turn it into sustained warmth.
 

@@ -2,14 +2,14 @@
 slug: bitter-fried-edamame
 bean: edamame
 flavour: bitter
-method: fried
+form: fried
 trait: decisive
 dish: Stir-fried edamame with bitter pepper and sea salt. Made. Moving on.
 quote: In any bean moment of decision, the best thing you can do is the right thing.
 fortune: The calls you have made this season have been right — let the working be visible once, so others can trust the speed.
 ---
 
-Beans born in the Fried Season of the Bitter Edamame are the Bean Zodiac's most decisive — when information is in, they make the call.
+Fried Beans born in the Year of the Bitter Edamame are the Bean Zodiac's most decisive — when information is in, they make the call.
 
 Edamame moves before questions finish being asked; Bitter Beans do discernment in advance; Fried Beans deliver without looking back.
 

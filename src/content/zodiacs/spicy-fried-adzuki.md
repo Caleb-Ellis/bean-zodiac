@@ -2,14 +2,14 @@
 slug: spicy-fried-adzuki
 bean: adzuki
 flavour: spicy
-method: fried
+form: fried
 trait: irrepressible
 dish: Pan-fried adzuki with chili crisp. Cannot be contained.
 quote: Don't stop me now - I'm having such a good bean!
 fortune: The energy you have released this season has been the right kind — now aim it at the thing most worth the full temperature, not at whatever is in range.
 ---
 
-Beans born in the Fried Season of the Spicy Adzuki Bean are the Bean Zodiac's most irrepressible — their heat cannot be contained.
+Fried Beans born in the Year of the Spicy Adzuki Bean are the Bean Zodiac's most irrepressible — their heat cannot be contained.
 
 Adzuki Beans tint everything red simply by being present; Spicy Beans demand total engagement; Fried Beans deliver without management or measurement.
 

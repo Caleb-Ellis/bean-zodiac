@@ -2,14 +2,14 @@
 slug: sour-fried-navy
 bean: navy
 flavour: sour
-method: fried
+form: fried
 trait: grumpy
 dish: Navy beans fried with lemon, largely unappreciated. Fine.
 quote: I have not bean in the right mood for Beans for the last thirty-seven years.
 fortune: The grumpiness this season has been pointing at something real — say what it is pointing at, clearly, and then let the temperature return to normal.
 ---
 
-Beans born in the Fried Season of the Sour Navy Bean are the Bean Zodiac's grumpiest — the world fails their standard and they won't pretend otherwise.
+Fried Beans born in the Year of the Sour Navy Bean are the Bean Zodiac's grumpiest — the world fails their standard and they won't pretend otherwise.
 
 Navy Beans hold unwavering sense of what's right; Sour Beans strip away tolerance; Fried Beans deliver opinion at heat immediately.
 

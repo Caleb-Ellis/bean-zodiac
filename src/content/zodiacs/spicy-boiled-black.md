@@ -2,14 +2,14 @@
 slug: spicy-boiled-black
 bean: black
 flavour: spicy
-method: boiled
+form: boiled
 trait: tenacious
 dish: Black bean soup with árbol chili. Doesn't stop.
 quote: It does not matter how slowly you go as long as you do not bean.
 fortune: The hold that has cost you most this season is also the thing proving your shape — what does not yield does not disappear.
 ---
 
-Beans born in the Boiled Season of the Spicy Black Bean are the Bean Zodiac's most tenacious — a quality so inherent to their structure that heat and pressure simply reveal it.
+Boiled Beans born in the Year of the Spicy Black Bean are the Bean Zodiac's most tenacious — a quality so inherent to their structure that heat and pressure simply reveal it.
 
 Black Beans hold their shape where others surrender; Spicy Beans demand full attention and cannot be ignored; Boiled Beans hold pressure at steady temperature that outlasts volatility.
 

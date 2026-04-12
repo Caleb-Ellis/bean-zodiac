@@ -5,7 +5,7 @@ export const zodiacSchema = z.object({
   slug: z.string(),
   bean: reference("beans"),
   flavour: reference("flavours"),
-  method: reference("methods"),
+  form: reference("forms"),
   trait: z.string(),
   dish: z.string(),
   quote: z.string(),

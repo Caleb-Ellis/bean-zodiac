@@ -2,14 +2,14 @@
 slug: bitter-fried-navy
 bean: navy
 flavour: bitter
-method: fried
+form: fried
 trait: judgmental
 dish: Crispy navy beans with bitter chicory. Watching. Noting.
 quote: Do not judge others before you have walked a mile in their beans.
 fortune: The case you closed too quickly this season is still open — leave it there for one more week before the judgment becomes permanent.
 ---
 
-Beans born in the Fried Season of the Bitter Navy Bean are the Bean Zodiac's most judgmental — they evaluate quickly and hold firm.
+Fried Beans born in the Year of the Bitter Navy Bean are the Bean Zodiac's most judgmental — they evaluate quickly and hold firm.
 
 Navy Bean knows what's right and holds standards without negotiation; Bitter Beans lack patience for what hasn't earned place; Fried Beans deliver assessment at heat and speed.
 

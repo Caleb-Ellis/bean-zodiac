@@ -2,14 +2,14 @@
 slug: umami-roasted-cannellini
 bean: cannellini
 flavour: umami
-method: roasted
+form: roasted
 trait: forthcoming
 dish: Roasted cannellini with parmesan and herbs. Shares without being asked.
 quote: Come in, come in. The bean is always on and I have been meaning to tell you something.
 fortune: What you have been offering this season has been useful — let the conversation find its own way, occasionally, and see what it brings to you.
 ---
 
-Beans born in the Roasted Season of the Umami Cannellini Bean are the Bean Zodiac's most forthcoming — they don't wait to be asked for what they know.
+Roasted Beans born in the Year of the Umami Cannellini Bean are the Bean Zodiac's most forthcoming — they don't wait to be asked for what they know.
 
 Cannellini Beans improve surroundings deliberately; Umami Beans offer depth with substance; Roasted Beans carry it outward with warmth.
 

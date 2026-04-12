@@ -2,14 +2,14 @@
 slug: umami-fried-adzuki
 bean: adzuki
 flavour: umami
-method: fried
+form: fried
 trait: passionate
 dish: Pan-fried adzuki with soy glaze and scallion. All of it. All of it.
 quote: Anything that gets your bean racing is worth doing!
 fortune: What you love this season can hold your full attention — give it freely, and ask once whether the heat is a gift or a pressure.
 ---
 
-Beans born in the Fried Season of the Umami Adzuki Bean are the Bean Zodiac's most passionate — what deserves to be marked is, fully.
+Fried Beans born in the Year of the Umami Adzuki Bean are the Bean Zodiac's most passionate — what deserves to be marked is, fully.
 
 Adzuki Beans know certain occasions deserve full expenditure; Umami Beans provide depth to know what that is; Fried Beans seal it before second thoughts arrive.
 

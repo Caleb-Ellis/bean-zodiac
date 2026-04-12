@@ -2,14 +2,14 @@
 slug: sweet-boiled-fava
 bean: fava
 flavour: sweet
-method: boiled
+form: boiled
 trait: persistent
 dish: Sweet fava stew with carrot and herbs. Keeps going.
 quote: It does not matter how slowly you bean, as long as you do not stop.
 fortune: The question this season is not whether you are capable of continuing — it is whether continuing is still the right direction.
 ---
 
-Beans born in the Boiled Season of the Sweet Fava Bean are the Bean Zodiac's most persistent — continuing without requiring things to be easy or the end to be visible.
+Boiled Beans born in the Year of the Sweet Fava Bean are the Bean Zodiac's most persistent — continuing without requiring things to be easy or the end to be visible.
 
 Fava Beans know that most worthwhile things require sustained effort; Sweet Beans warm the persistence, making it feel like commitment; Boiled Beans make it compound over time.
 

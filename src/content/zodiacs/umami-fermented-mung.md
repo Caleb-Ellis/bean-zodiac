@@ -2,14 +2,14 @@
 slug: umami-fermented-mung
 bean: mung
 flavour: umami
-method: fermented
+form: fermented
 trait: poetic
 dish: Mung in deep fermented broth with tofu. Almost says something.
 quote: A bean should be more careful of his learning than of the pebble in his shoe.
 fortune: The season has given you material and the material has found its shape — send it, even on the days when the plain draft is all that is ready.
 ---
 
-Beans born in the Fermented Season of the Umami Mung Bean are the Bean Zodiac's most poetic — when they speak, the phrase lands and stays.
+Fermented Beans born in the Year of the Umami Mung Bean are the Bean Zodiac's most poetic — when they speak, the phrase lands and stays.
 
 Mung Beans see what is ordinary as vivid; Umami Beans turn observation into resonance; Fermented Beans work things in the dark until form emerges.
 

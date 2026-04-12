@@ -2,14 +2,14 @@
 slug: bitter-roasted-black
 bean: black
 flavour: bitter
-method: roasted
+form: roasted
 trait: elegant
 dish: Black bean and bitter chocolate tart with sea salt. Restrained luxury.
 quote: Elegance is not about being noticed, it's about being bean.
 fortune: The depth you carry this season was never meant to be kept to yourself — let one person in past the surface.
 ---
 
-Beans born in the Roasted Season of the Bitter Black Bean are the Bean Zodiac's most elegant — depth that needs no announcement.
+Roasted Beans born in the Year of the Bitter Black Bean are the Bean Zodiac's most elegant — depth that needs no announcement.
 
 Black Bean earns richness through time; Bitter Beans remove the superfluous; Roasted Beans coax everything outward with dry patience.
 

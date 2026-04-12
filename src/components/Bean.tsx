@@ -1,22 +1,22 @@
-import type { FlavourId, MethodId } from "../lib/zodiac";
+import type { FlavourId, FormId } from "../lib/zodiac";
 import type { BeanSchema } from "../schemas";
 import styles from "./Bean.module.css";
 
 type Props = {
   bean: BeanSchema;
   flavourId?: FlavourId;
-  methodId?: MethodId;
+  formId?: FormId;
 };
 
-export default function Bean({ bean, flavourId, methodId }: Props) {
+export default function Bean({ bean, flavourId, formId }: Props) {
   const imageUrl = `/images/${bean.imageFile}`;
   return (
     <div
       className={`${styles.bean}${flavourId ? ` flavour-${flavourId}` : ""}`}
       style={
-        methodId
+        formId
           ? ({
-              "--glow-color": `var(--method-${methodId})`,
+              "--glow-color": `var(--form-${formId})`,
             } as React.CSSProperties)
           : undefined
       }
@@ -25,7 +25,7 @@ export default function Bean({ bean, flavourId, methodId }: Props) {
         <img
           src={imageUrl}
           alt={`${flavourId} ${bean.name}`}
-          className={[`flavour-filter-${flavourId}`, methodId ? `method-filter-${methodId}` : ""]
+          className={[`flavour-filter-${flavourId}`, formId ? `form-filter-${formId}` : ""]
             .join(" ")
             .trim()}
         />
@@ -33,7 +33,7 @@ export default function Bean({ bean, flavourId, methodId }: Props) {
         <img
           src={imageUrl}
           alt={bean.name}
-          className={methodId ? `method-filter-${methodId}` : undefined}
+          className={formId ? `form-filter-${formId}` : undefined}
         />
       )}
     </div>

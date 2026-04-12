@@ -2,14 +2,14 @@
 slug: sour-roasted-adzuki
 bean: adzuki
 flavour: sour
-method: roasted
+form: roasted
 trait: transparent
 dish: Roasted adzuki with rice vinegar glaze. What you see.
 quote: The naked bean is the most decent thing in the world.
 fortune: The transparency this season has given Beans something to trust — that is slow work, and it is worth continuing.
 ---
 
-Beans born in the Roasted Season of the Sour Adzuki Bean are the Bean Zodiac's most transparent — they are exactly what they appear to be.
+Roasted Beans born in the Year of the Sour Adzuki Bean are the Bean Zodiac's most transparent — they are exactly what they appear to be.
 
 Adzuki Beans mark occasions genuinely; Sour Beans strip away obscuring things; Roasted Beans coax warmth outward.
 

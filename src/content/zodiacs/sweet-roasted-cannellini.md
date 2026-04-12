@@ -2,14 +2,14 @@
 slug: sweet-roasted-cannellini
 bean: cannellini
 flavour: sweet
-method: roasted
+form: roasted
 trait: empowering
 dish: Roasted cannellini with honey and herbs. Puts wind in your sails.
 quote: As we let our own bean shine, we unconsciously give others permission to do the same.
 fortune: Let someone hold the lantern for you this season — the light you have been giving others is allowed to travel back.
 ---
 
-Beans born in the Roasted Season of the Sweet Cannellini Bean are the Bean Zodiac's most empowering — they elevate everyone around them into believing in their own capacity.
+Roasted Beans born in the Year of the Sweet Cannellini Bean are the Bean Zodiac's most empowering — they elevate everyone around them into believing in their own capacity.
 
 Cannellini Beans elevate everything they touch; Sweet Beans do this without hidden agenda; Roasted Beans carry it into the room.
 
