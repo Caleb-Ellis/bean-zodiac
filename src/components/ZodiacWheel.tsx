@@ -176,7 +176,7 @@ export default function ZodiacWheel({ date, highlight = true }: Props) {
 
   useEffect(() => {
     const delta = absCentre - prevAbsCentre.current;
-    setFormRot((r) => r + capDelta(delta, 640));
+    setFormRot((r) => r + capDelta(delta, 720));
     prevAbsCentre.current = absCentre;
   }, [absCentre]);
 
@@ -259,7 +259,7 @@ export default function ZodiacWheel({ date, highlight = true }: Props) {
         })}
       </g>
 
-      {/* Middle form ring — spins anti-clockwise */}
+      {/* Middle flavour ring — rotates once every 10 years */}
       <g
         style={{
           transformOrigin: `${CX}px ${CY}px`,
@@ -300,7 +300,7 @@ export default function ZodiacWheel({ date, highlight = true }: Props) {
         })}
       </g>
 
-      {/* Inner flavour ring */}
+      {/* Inner form ring - rotates once every year */}
       <g
         style={{
           transformOrigin: `${CX}px ${CY}px`,

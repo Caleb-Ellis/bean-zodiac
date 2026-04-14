@@ -1,7 +1,7 @@
 ---
 slug: roasted
 name: Roasted
-tagline: The Form that fills the room.
+tagline: The Form that radiates.
 traits: [warm, generous, radiant, convivial, hedonistic]
 ---
 
