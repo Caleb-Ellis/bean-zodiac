@@ -20,10 +20,12 @@
   --flavour-umami: oklch(80% 0.22 77.947);
   --flavour-spicy: oklch(70% 0.31 28.212);
 
-  --form-fried: oklch(65% 0.16 20);
-  --form-roasted: oklch(80% 0.1 60);
+  --form-fried: oklch(60.566% 0.17888 22.287);
+  --form-roasted: oklch(75.08% 0.12962 57.862);
   --form-boiled: oklch(65% 0.16 240);
-  --form-fermented: oklch(65% 0.16 150);
+  --form-fermented: oklch(62.143% 0.17737 145.813);
+  --form-dried: oklch(82.585% 0.16377 102.426);
+  --form-smoked: oklch(80.155% 0.06209 319.022);
 }
 
 .link {
@@ -179,6 +181,12 @@
 .form-fermented {
   color: var(--form-fermented);
 }
+.form-dried {
+  color: var(--form-dried);
+}
+.form-smoked {
+  color: var(--form-smoked);
+}
 
 .bg-form-fried {
   background-color: var(--form-fried);
@@ -192,6 +200,12 @@
 .bg-form-fermented {
   background-color: var(--form-fermented);
 }
+.bg-form-dried {
+  background-color: var(--form-dried);
+}
+.bg-form-smoked {
+  background-color: var(--form-smoked);
+}
 
 .border-form-fried {
   border-color: var(--form-fried);
@@ -204,6 +218,12 @@
 }
 .border-form-fermented {
   border-color: var(--form-fermented);
+}
+.border-form-dried {
+  border-color: var(--form-dried);
+}
+.border-form-smoked {
+  border-color: var(--form-smoked);
 }
 
 .flavour-filter-sweet {
@@ -227,12 +247,21 @@
 }
 .form-filter-roasted {
   --form-filter: url(#form-roasted-filter);
+  transform: scale(0.9);
 }
 .form-filter-boiled {
   --form-filter: url(#form-boiled-filter);
+  transform: scale(1.1);
 }
 .form-filter-fermented {
   --form-filter: url(#form-fermented-filter);
+}
+.form-filter-dried {
+  --form-filter: url(#form-dried-filter);
+  transform: scale(0.8);
+}
+.form-filter-smoked {
+  --form-filter: url(#form-smoked-filter);
 }
 
 input[type="date"]::-webkit-calendar-picker-indicator {

@@ -1,0 +1,16 @@
+---
+slug: sweet-dried-mung
+bean: mung
+flavour: sweet
+form: dried
+trait: tender
+dish: Dried mung, warm sweetened broth. Held gently.
+quote: The most beautiful things in the world cannot be seen or touched — they must be bean with the heart.
+fortune: The softness you carry this season is not a vulnerability — it is a strength. Protect it without armoring it.
+---
+
+Dried Beans born in the Year of the Sweet Mung Bean are the Bean Zodiac's most tender — the softness has been preserved even where everything else has been stripped away.
+
+Mung Beans restore without taking; Sweet Beans comfort without requiring; Dried Beans strip away the excess, leaving only the care itself, concentrated and lasting.
+
+The Dried Sweet Mung Bean's challenge is the vulnerability of remaining tender. These Beans are gentle in a world that does not always reward it. They must learn to protect the softness without armoring it — holding it as strength rather than apology.

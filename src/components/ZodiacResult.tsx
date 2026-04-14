@@ -40,7 +40,7 @@ export default function ZodiacResult({
             in its <span className={`form-${form.slug}`}>{form.name}</span> form
           </span>
         </h2>
-        <div className="my-6 sm:my-8">
+        <div className="mb-6 sm:mb-8">
           <Bean bean={bean} flavourId={flavour.slug} formId={form.slug} />
         </div>
         {showDate && (

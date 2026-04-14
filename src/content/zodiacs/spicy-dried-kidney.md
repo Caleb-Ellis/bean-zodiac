@@ -1,0 +1,16 @@
+---
+slug: spicy-dried-kidney
+bean: kidney
+flavour: spicy
+form: dried
+trait: volcanic
+dish: Dried kidney, ancho and guajillo. Pressure visible in retrospect.
+quote: Anger is an acid that can do more harm to the bean in which it is stored than to anything on which it is poured.
+fortune: What erupted this season was older than the moment — learn to read the accumulation earlier, before it finds its own timing.
+---
+
+Dried Beans born in the Year of the Spicy Kidney Bean are the Bean Zodiac's most volcanic — pressure building in silence until the surface can no longer hold it.
+
+Kidney Beans carry passion that does not diminish; Spicy Beans make force immediate and total; Dried Beans seal the interior, letting heat accumulate without release until it finds its own way out.
+
+The Dried Spicy Kidney Bean's challenge is the warning signs ignored. These Beans rarely erupt without cause — but the cause is often older than the moment of eruption. They must learn to tend the pressure before it tends itself.

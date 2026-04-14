@@ -129,6 +129,51 @@ const {
           <feComposite in="greenEdge" in2="baseTinted" operator="over" result="withGreen"/>
           <feComposite in="brownEdge" in2="withGreen" operator="over"/>
         </filter>
+
+        <filter id="form-dried-filter" color-interpolation-filters="sRGB">
+          <!-- Warm base tint — sun-bleached, earthy -->
+          <feColorMatrix in="SourceGraphic" type="matrix" result="baseTinted" values="0.92 0.04 0 0 0.04  0.02 0.88 0.02 0 0.01  0 0.02 0.72 0 0  0 0 0 1 0"/>
+          <!-- Papery surface grain — rough, matte, moisture-stripped -->
+          <feColorMatrix in="baseTinted" type="saturate" values="0.70" result="baseTinted"/>
+          <feTurbulence type="fractalNoise" baseFrequency="0.38" numOctaves="4" seed="12" result="grain"/>
+          <feColorMatrix in="grain" type="saturate" values="0" result="grain"/>
+          <feComponentTransfer in="grain" result="grain">
+            <feFuncR type="linear" slope="0.32" intercept="0.68"/>
+            <feFuncG type="linear" slope="0.32" intercept="0.68"/>
+            <feFuncB type="linear" slope="0.32" intercept="0.68"/>
+          </feComponentTransfer>
+          <feComposite in="grain" in2="SourceAlpha" operator="in" result="clippedGrain"/>
+          <feBlend in="baseTinted" in2="clippedGrain" mode="multiply" result="textured"/>
+          <!-- Tight chalky edge ring — desiccated skin pulling inward -->
+          <feColorMatrix in="SourceGraphic" type="matrix" result="crustColorized" values="0.48 0.16 0.06 0 0.06  0.10 0.44 0.06 0 0.03  0.04 0.06 0.30 0 0.01  0 0 0 1 0"/>
+          <feComponentTransfer in="crustColorized" result="crustColorized">
+            <feFuncR type="gamma" amplitude="1" exponent="1.35" offset="0"/>
+            <feFuncG type="gamma" amplitude="1" exponent="1.50" offset="0"/>
+            <feFuncB type="gamma" amplitude="1" exponent="1.80" offset="0"/>
+          </feComponentTransfer>
+          <feMorphology in="SourceAlpha" operator="erode" radius="3" result="eroded"/>
+          <feComposite in="SourceAlpha" in2="eroded" operator="out" result="edgeHard"/>
+          <feGaussianBlur in="edgeHard" stdDeviation="4" result="edgeMask"/>
+          <feComposite in="crustColorized" in2="edgeMask" operator="in" result="colorizedEdge"/>
+          <feComposite in="colorizedEdge" in2="textured" operator="over"/>
+        </filter>
+
+        <filter id="form-smoked-filter" color-interpolation-filters="sRGB">
+          <!-- Gray desaturated base — ashy, smoked surface -->
+          <feColorMatrix in="SourceGraphic" type="matrix" result="baseTinted" values="0.82 0.10 0.08 0 0  0.08 0.80 0.10 0 0  0.06 0.08 0.84 0 0  0 0 0 1 0"/>
+          <!-- Wide diffuse charcoal haze — smoke bleeds deep from the edge inward -->
+          <feColorMatrix in="SourceGraphic" type="matrix" result="smokeColorized" values="0.22 0.06 0.06 0 0.04  0.06 0.22 0.06 0 0.04  0.06 0.06 0.24 0 0.06  0 0 0 1 0"/>
+          <feComponentTransfer in="smokeColorized" result="smokeColorized">
+            <feFuncR type="gamma" amplitude="1" exponent="0.75" offset="0"/>
+            <feFuncG type="gamma" amplitude="1" exponent="0.75" offset="0"/>
+            <feFuncB type="gamma" amplitude="1" exponent="0.70" offset="0"/>
+          </feComponentTransfer>
+          <feMorphology in="SourceAlpha" operator="erode" radius="12" result="eroded"/>
+          <feComposite in="SourceAlpha" in2="eroded" operator="out" result="edgeHard"/>
+          <feGaussianBlur in="edgeHard" stdDeviation="16" result="edgeMask"/>
+          <feComposite in="smokeColorized" in2="edgeMask" operator="in" result="colorizedEdge"/>
+          <feComposite in="colorizedEdge" in2="baseTinted" operator="over"/>
+        </filter>
       </defs>
     </svg>
     <canvas

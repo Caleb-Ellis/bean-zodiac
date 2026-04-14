@@ -35,7 +35,7 @@ Astro glob-loaded collections:
 - **`beans/`** — 12 markdown files, one per bean (name, tagline, traits[], color CSS hex, optional modelFile)
 - **`flavours/`** — 5 markdown files, one per flavour (name, character, traits[], color CSS hex)
 - **`forms/`** — 4 markdown files: boiled, fermented, fried, roasted (name, tagline, traits[])
-- **`zodiacs/`** — 240 markdown files, one per bean×flavour×form combination. Filename: `{form}-{flavour}-{bean}.md`. Frontmatter: slug, bean, flavour, form, trait, dish, quote, fortune. Body opens: "Beans born in the Season of the [Form] [Flavour] [Bean] are the Bean Zodiac's most [trait]." Reference file for style: `boiled-bitter-adzuki.md`.
+- **`zodiacs/`** — 240 markdown files, one per bean×flavour×form combination. Filename: `{form}-{flavour}-{bean}.md`. Frontmatter: slug, bean, flavour, form, trait, dish, quote, fortune. Body opens: "[Form] Beans born in the Year of the [Flavour] [Bean] are the Bean Zodiac's most [trait]." Reference file for style: `bitter-boiled-adzuki.md`.
 
 ### Pages and Routing
 
@@ -44,6 +44,8 @@ Astro glob-loaded collections:
 - `/beans/[slug]` — Bean detail with traits and markdown body
 - `/flavours/` — All 5 flavours listed
 - `/flavours/[slug]` — Flavour detail with traits and markdown body
+- `/forms/` — All 6 flavours listed
+- `/forms/[slug]` — Form detail with traits and markdown body
 
 Detail pages use `getStaticPaths()` for static generation at build time.
 

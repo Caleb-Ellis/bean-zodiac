@@ -2,13 +2,18 @@
  * Bean Zodiac calculation utilities.
  *
  * The Bean Year switches on 12th March each calendar year.
- * A full cycle is 60 years (12 beans x 5 elements).
+ * A full cycle is 60 years.
  *
  * Reference Bean Zodiac: 12th March 1993 = Fried Umami Edamame
  */
 
 import type { getCollection } from "astro:content";
-import type { BeanSchema, FlavourSchema, FormSchema, ZodiacSchema } from "../schemas";
+import type {
+  BeanSchema,
+  FlavourSchema,
+  FormSchema,
+  ZodiacSchema,
+} from "../schemas";
 
 export const BEAN_ZODIAC_REFERENCE_YEAR = 1993;
 export const BEAN_ZODIAC_REFERENCE_MONTH = 3;
@@ -45,9 +50,9 @@ export const BEAN_ORDER = [
 
 export const FlavourIds = {
   Bitter: "bitter",
+  Sour: "sour",
   Spicy: "spicy",
   Sweet: "sweet",
-  Sour: "sour",
   Umami: "umami",
 } as const;
 export const FLAVOUR_ORDER = [
@@ -58,38 +63,46 @@ export const FLAVOUR_ORDER = [
   FlavourIds.Spicy,
 ] as const;
 export const FLAVOUR_EMOJI: Record<FlavourId, string> = {
-  [FlavourIds.Sweet]: "🍭",
+  [FlavourIds.Bitter]: "☕",
   [FlavourIds.Sour]: "🍋",
   [FlavourIds.Spicy]: "🌶️",
-  [FlavourIds.Bitter]: "☕",
+  [FlavourIds.Sweet]: "🍭",
   [FlavourIds.Umami]: "🍄",
 } as const;
 
 export const FormIds = {
   Boiled: "boiled",
+  Dried: "dried",
   Fermented: "fermented",
   Fried: "fried",
   Roasted: "roasted",
+  Smoked: "smoked",
 } as const;
 export const FORM_ORDER = [
   FormIds.Fried,
-  FormIds.Roasted,
   FormIds.Boiled,
   FormIds.Fermented,
+  FormIds.Roasted,
+  FormIds.Smoked,
+  FormIds.Dried,
 ] as const;
 // Start month (1-indexed) for each form, matching FORM_ORDER
 export const FORM_START_MONTH: Record<FormId, number> = {
   [FormIds.Fried]: 3,
-  [FormIds.Roasted]: 6,
-  [FormIds.Boiled]: 9,
-  [FormIds.Fermented]: 12,
+  [FormIds.Boiled]: 5,
+  [FormIds.Fermented]: 7,
+  [FormIds.Roasted]: 9,
+  [FormIds.Smoked]: 11,
+  [FormIds.Dried]: 1,
 } as const;
 
 export const FORM_EMOJI: Record<FormId, string> = {
-  [FormIds.Fried]: "🔥",
-  [FormIds.Roasted]: "💨",
   [FormIds.Boiled]: "💧",
+  [FormIds.Dried]: "☀️",
   [FormIds.Fermented]: "🌍",
+  [FormIds.Fried]: "🔥",
+  [FormIds.Roasted]: "♨️",
+  [FormIds.Smoked]: "💨",
 } as const;
 
 export type BeanId = (typeof BeanIds)[keyof typeof BeanIds];
@@ -134,21 +147,31 @@ export const getBeanYear = (date: Date): number => {
 };
 
 export const getBeanIdForBeanYear = (beanYear: number): BeanId => {
-  const index = (((beanYear - BEAN_ZODIAC_REFERENCE_YEAR) % 12) + 12) % 12;
+  const index = (beanYear - BEAN_ZODIAC_REFERENCE_YEAR) % BEAN_ORDER.length;
   return BEAN_ORDER[index];
 };
 
 export const getFlavourIdForBeanYear = (beanYear: number): FlavourId => {
-  const index = ((Math.floor((beanYear - BEAN_ZODIAC_REFERENCE_YEAR) / 2) % 5) + 5) % 5;
+  const index =
+    Math.floor((beanYear - BEAN_ZODIAC_REFERENCE_YEAR) / 2) %
+    FLAVOUR_ORDER.length;
   return FLAVOUR_ORDER[index];
 };
 
 export const getFormIdForDate = (date: Date): FormId => {
   const month = date.getMonth() + 1;
   const day = date.getDate();
-  // Shift so Mar 12 = 0, then quarter into FORM_ORDER
-  const shiftedMonth = (month - 3 + (day < 12 ? -1 : 0) + 12) % 12;
-  return FORM_ORDER[Math.floor(shiftedMonth / 3)];
+  
+  const onOrAfter = (startMonth: number) =>
+    month > startMonth || (month === startMonth && day >= 12);
+
+  if (onOrAfter(FORM_START_MONTH[FormIds.Smoked])) return FormIds.Smoked; // Nov 12 – Jan 11
+  if (onOrAfter(FORM_START_MONTH[FormIds.Roasted])) return FormIds.Roasted; // Sep 12 – Nov 11
+  if (onOrAfter(FORM_START_MONTH[FormIds.Fermented])) return FormIds.Fermented; // Jul 12 – Sep 11
+  if (onOrAfter(FORM_START_MONTH[FormIds.Boiled])) return FormIds.Boiled; // May 12 – Jul 11
+  if (onOrAfter(FORM_START_MONTH[FormIds.Fried])) return FormIds.Fried; // Mar 12 – May 11
+  if (onOrAfter(FORM_START_MONTH[FormIds.Dried])) return FormIds.Dried; // Jan 12 – Mar 11
+  return FormIds.Smoked; // Jan 1–11: wraps to previous Smoked period
 };
 
 export const getZodiacMetadataForDate = (date: Date): ZodiacMetadata => {
@@ -159,12 +182,14 @@ export const getZodiacMetadataForDate = (date: Date): ZodiacMetadata => {
 
   const startMonth = FORM_START_MONTH[formId];
   const year = date.getFullYear();
-  // Fermented starts in Dec and may wrap into the next year, so if the
-  // start month is after the current month the period began last year.
   const startYear = startMonth > date.getMonth() + 1 ? year - 1 : year;
-  const endMonth = startMonth + 3;
+  const endMonth = startMonth + 2;
   const startDate = new Date(startYear, startMonth - 1, 12);
-  const endDate = new Date(endMonth > 12 ? startYear + 1 : startYear, (endMonth - 1) % 12, 11);
+  const endDate = new Date(
+    endMonth > 12 ? startYear + 1 : startYear,
+    (endMonth - 1) % 12,
+    11,
+  );
 
   return {
     zodiacId: `${flavourId}-${formId}-${beanId}`,
@@ -191,16 +216,28 @@ export const buildZodiacData = (
 ): ZodiacData => {
   return {
     beans: Object.fromEntries(
-      beans.map((entry) => [entry.id, { ...entry.data, content: entry.body ?? "" }]),
+      beans.map((entry) => [
+        entry.id,
+        { ...entry.data, content: entry.body ?? "" },
+      ]),
     ) as Record<BeanId, Bean>,
     flavours: Object.fromEntries(
-      flavours.map((entry) => [entry.id, { ...entry.data, content: entry.body ?? "" }]),
+      flavours.map((entry) => [
+        entry.id,
+        { ...entry.data, content: entry.body ?? "" },
+      ]),
     ) as Record<FlavourId, Flavour>,
     forms: Object.fromEntries(
-      forms.map((entry) => [entry.id, { ...entry.data, content: entry.body ?? "" }]),
+      forms.map((entry) => [
+        entry.id,
+        { ...entry.data, content: entry.body ?? "" },
+      ]),
     ) as Record<FormId, Form>,
     zodiacs: Object.fromEntries(
-      zodiacs.map((entry) => [entry.id, { ...entry.data, content: entry.body ?? "" }]),
+      zodiacs.map((entry) => [
+        entry.id,
+        { ...entry.data, content: entry.body ?? "" },
+      ]),
     ) as Record<ZodiacId, Zodiac>,
   };
 };
