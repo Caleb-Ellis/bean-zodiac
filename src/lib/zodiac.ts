@@ -147,31 +147,21 @@ export const getBeanYear = (date: Date): number => {
 };
 
 export const getBeanIdForBeanYear = (beanYear: number): BeanId => {
-  const index = (beanYear - BEAN_ZODIAC_REFERENCE_YEAR) % BEAN_ORDER.length;
+  const index = (((beanYear - BEAN_ZODIAC_REFERENCE_YEAR) % 12) + 12) % 12;
   return BEAN_ORDER[index];
 };
 
 export const getFlavourIdForBeanYear = (beanYear: number): FlavourId => {
   const index =
-    Math.floor((beanYear - BEAN_ZODIAC_REFERENCE_YEAR) / 2) %
-    FLAVOUR_ORDER.length;
+    ((Math.floor((beanYear - BEAN_ZODIAC_REFERENCE_YEAR) / 2) % 5) + 5) % 5;
   return FLAVOUR_ORDER[index];
 };
 
 export const getFormIdForDate = (date: Date): FormId => {
   const month = date.getMonth() + 1;
   const day = date.getDate();
-  
-  const onOrAfter = (startMonth: number) =>
-    month > startMonth || (month === startMonth && day >= 12);
-
-  if (onOrAfter(FORM_START_MONTH[FormIds.Smoked])) return FormIds.Smoked; // Nov 12 – Jan 11
-  if (onOrAfter(FORM_START_MONTH[FormIds.Roasted])) return FormIds.Roasted; // Sep 12 – Nov 11
-  if (onOrAfter(FORM_START_MONTH[FormIds.Fermented])) return FormIds.Fermented; // Jul 12 – Sep 11
-  if (onOrAfter(FORM_START_MONTH[FormIds.Boiled])) return FormIds.Boiled; // May 12 – Jul 11
-  if (onOrAfter(FORM_START_MONTH[FormIds.Fried])) return FormIds.Fried; // Mar 12 – May 11
-  if (onOrAfter(FORM_START_MONTH[FormIds.Dried])) return FormIds.Dried; // Jan 12 – Mar 11
-  return FormIds.Smoked; // Jan 1–11: wraps to previous Smoked period
+  const shiftedMonth = (month - 3 + (day < 12 ? -1 : 0) + 12) % 12;
+  return FORM_ORDER[Math.floor(shiftedMonth / 2)];
 };
 
 export const getZodiacMetadataForDate = (date: Date): ZodiacMetadata => {

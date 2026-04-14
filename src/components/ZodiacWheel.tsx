@@ -15,12 +15,12 @@ import type { FormId } from "../lib/zodiac";
 // Wheel centre
 const CX = 100;
 const CY = 100;
-// Form ring radii (middle ring)
-const FORM_R1 = 37;
-const FORM_R2 = 55;
-// Flavour ring radii (inner ring)
-const FLAVOUR_R1 = 15;
-const FLAVOUR_R2 = 35;
+// Form ring radii (inner ring)
+const FORM_R1 = 15;
+const FORM_R2 = 35;
+// Flavour ring radii (middle ring)
+const FLAVOUR_R1 = 37;
+const FLAVOUR_R2 = 55;
 // Bean ring radii
 const BEAN_R1 = 57;
 const BEAN_R2 = 83;
@@ -94,7 +94,7 @@ const FLAVOUR_GEOMETRY = FLAVOUR_ORDER.map((flavourId, i) => {
 });
 
 const FORM_GEOMETRY = FORM_ORDER.map((formId, i) => {
-  const mid = 90 + i * FORM_SEG; // reversed so anti-clockwise rotation tracks correctly
+  const mid = 90 - i * FORM_SEG; // reversed so anti-clockwise rotation tracks correctly
   const path = annularSector(
     FORM_R1,
     FORM_R2,
@@ -263,7 +263,7 @@ export default function ZodiacWheel({ date, highlight = true }: Props) {
       <g
         style={{
           transformOrigin: `${CX}px ${CY}px`,
-          transform: `rotate(${-formRot}deg)`,
+          transform: `rotate(${formRot}deg)`,
           transition: TRANSITION,
           willChange: "transform",
         }}

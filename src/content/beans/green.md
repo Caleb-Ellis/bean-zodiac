@@ -1,7 +1,7 @@
 ---
 slug: green
 name: Green Bean
-tagline: See what's there. Do what works.
+tagline: Show up before you're ready.
 traits: [energetic, enthusiastic, fresh, optimistic, restless]
 imageFile: green.webp
 ---

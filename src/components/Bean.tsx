@@ -25,7 +25,10 @@ export default function Bean({ bean, flavourId, formId }: Props) {
         <img
           src={imageUrl}
           alt={`${flavourId} ${bean.name}`}
-          className={[`flavour-filter-${flavourId}`, formId ? `form-filter-${formId}` : ""]
+          className={[
+            `flavour-filter-${flavourId}`,
+            formId ? `form-filter-${formId}` : "",
+          ]
             .join(" ")
             .trim()}
         />

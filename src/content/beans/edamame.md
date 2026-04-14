@@ -1,7 +1,7 @@
 ---
 slug: edamame
 name: Edamame
-tagline: Show up before you're ready.
+tagline: See what's there. Do what works.
 traits: [practical, direct, quick, sharp, dismissive]
 imageFile: edamame.webp
 ---

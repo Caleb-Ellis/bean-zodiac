@@ -19,7 +19,9 @@ export default function ZodiacCalendar({ data }: Props) {
     return param ? parseDateInputValue(param) : null;
   });
   // Start visible if date is already set from URL params, hidden otherwise
-  const [resultVisible, setResultVisible] = useState<boolean>(() => !!getDateParam());
+  const [resultVisible, setResultVisible] = useState<boolean>(
+    () => !!getDateParam(),
+  );
 
   function handleReveal() {
     if (!inputDate) return;
@@ -36,7 +38,10 @@ export default function ZodiacCalendar({ data }: Props) {
 
   return (
     <div className="flex flex-col items-center text-center gap-8 w-full">
-      <ZodiacWheel date={selectedDate ?? new Date()} highlight={selectedDate !== null} />
+      <ZodiacWheel
+        date={selectedDate ?? new Date()}
+        highlight={selectedDate !== null}
+      />
       <section className="flex flex-col items-center gap-3">
         <input
           type="date"
