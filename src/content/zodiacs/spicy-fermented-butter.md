@@ -6,7 +6,7 @@ form: fermented
 trait: eccentric
 dish: Kimchi jjigae with butter beans - fermented napa cabbage stew with gochugaru.
 quote: Here is your bean, soft reader. It is a little strange and so am I.
-fortune: The strange idea you have been following this season has gone somewhere real — build the bridge back so someone else can see where you went.
+fortune: The strange idea has gone somewhere real — build the bridge back now, so someone else can see where you went.
 ---
 
 Fermented Beans born in the Year of the Spicy Butter Bean are the Bean Zodiac's most eccentric — their arrangement is one no one else could reproduce.

@@ -6,7 +6,7 @@ form: boiled
 trait: persistent
 dish: Habas dulces — young fava beans boiled briefly and tossed with honey, lemon zest, and fresh mint.
 quote: It does not matter how slowly you bean, as long as you do not stop.
-fortune: The question this season is not whether you are capable of continuing — it is whether continuing is still the right direction.
+fortune: A direction will be questioned — the question is not whether you are capable of continuing, but whether continuing is still the right direction.
 ---
 
 Boiled Beans born in the Year of the Sweet Fava Bean are the Bean Zodiac's most persistent — continuing without requiring things to be easy or the end to be visible.

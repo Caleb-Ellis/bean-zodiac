@@ -6,7 +6,7 @@ form: dried
 trait: smoldering
 dish: Mole negro - dried black beans with mulato and pasilla chilies.
 quote: Where there's smoke, there's bean.
-fortune: What has been building in you this season has not resolved — find one channel for it before it finds its own way out.
+fortune: What has been building will need a channel — find one before it finds its own way out.
 ---
 
 Dried Beans born in the Year of the Spicy Black Bean are the Bean Zodiac's most smoldering — nothing visible on the surface, but the heat inside has never gone out.

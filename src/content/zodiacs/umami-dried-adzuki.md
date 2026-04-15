@@ -6,7 +6,7 @@ form: dried
 trait: reverential
 dish: Azuki no nimono - dried adzuki simmered in dashi and soy.
 quote: The bean is in the ritual, not the result.
-fortune: The reverence you have brought this season is real — allow one occasion to be ordinary and still worth celebrating.
+fortune: An ordinary occasion is coming — let it be worth celebrating on its own terms.
 ---
 
 Dried Beans born in the Year of the Umami Adzuki Bean are the Bean Zodiac's most reverential — celebration is not casual for them; it is a form of devotion.

@@ -6,7 +6,7 @@ form: fermented
 trait: brooding
 dish: Black beans with bitter orange mojo and fermented crema.
 quote: Whatever our beans are made of, his and mine are the same.
-fortune: What has been working in you this season is ready — find the form that lets it leave the interior.
+fortune: What has been working in you is nearly ready for the surface — find the form that lets it leave the interior.
 ---
 
 Fermented Beans born in the Year of the Bitter Black Bean are the Bean Zodiac's most brooding — they process privately and surface only when ready.

@@ -6,7 +6,7 @@ form: dried
 trait: impenetrable
 dish: Black bean and dried hibiscus soup with lime.
 quote: No bean is an island, entire of itself.
-fortune: What you have sealed inside this season is safe — find one opening and leave it, so the wall does not become all there is.
+fortune: A wall you have built will be respected — leave one opening, or the wall will become the whole thing.
 ---
 
 Dried Beans born in the Year of the Sour Black Bean are the Bean Zodiac's most impenetrable — nothing passes in or out that has not been examined first.

@@ -6,7 +6,7 @@ form: smoked
 trait: acrid
 dish: Kimchi jjigae with smoked adzuki - adzuki bean stew with kimchi, tofu, and gochugaru
 quote: The bean is mightier than the sword.
-fortune: The sharpness you carried this season was real perception — but perception delivered without care for the moment is only an edge. Ask this season whether the observation serves the occasion or only precedes it.
+fortune: A sharp observation is coming — ask before delivering it whether it serves the occasion or only precedes it.
 ---
 
 Smoked Beans born in the Year of the Sour Adzuki Bean are the Bean Zodiac's most acrid — their gift for marking occasions has been sharpened past the point of easy comfort.

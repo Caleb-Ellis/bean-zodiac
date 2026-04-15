@@ -6,7 +6,7 @@ form: smoked
 trait: surgical
 dish: Dashi-smoked edamame with ponzu - edamame cold-smoked over kombu and served in citrus soy
 quote: First, do no bean.
-fortune: The precision you applied this season left no unnecessary damage — the season ahead asks only that you stay long enough to see what the cut has done, and whether anything requires attention.
+fortune: A cut is coming — stay long enough afterward to see what it has done, and whether anything needs attention.
 ---
 
 Smoked Beans born in the Year of the Sour Edamame are the Bean Zodiac's most surgical — fast, precise, and finished before the situation has fully understood what occurred.

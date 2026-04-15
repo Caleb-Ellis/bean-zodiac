@@ -6,7 +6,7 @@ form: fried
 trait: relentless
 dish: Tostadas de frijoles negros - fried tortillas with spiced black bean paste and salsa roja.
 quote: If you're going through bean hell, keep going.
-fortune: What you have driven this season with that heat is real — identify what it is actually for, and let everything else run at a lower temperature for a while.
+fortune: The heat driving what you are building is real — identify what it is actually for, and let everything else run at a lower temperature.
 ---
 
 Fried Beans born in the Year of the Spicy Black Bean are the Bean Zodiac's most relentless — stopping feels like malfunction.

@@ -6,7 +6,7 @@ form: roasted
 trait: enthusiastic
 dish: Wǔxiāng hóngdòu - five-spice roasted adzuki beans with dried Sichuan chili.
 quote: I am HOT and I am EXCITED and I will not be apologising for either.
-fortune: The enthusiasm has carried you through the bright start of this season — find what nourishes it through the hard middle, so the warmth is still there at the end.
+fortune: The bright start will need nourishment through the hard middle — find what sustains the warmth before the beginning is over.
 ---
 
 Roasted Beans born in the Year of the Spicy Adzuki Bean are the Bean Zodiac's most enthusiastic — their warmth radiates outward naturally.

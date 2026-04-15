@@ -6,7 +6,7 @@ form: dried
 trait: enduring
 dish: Boston baked beans - dried navy beans slow-baked with salt pork, molasses, and mustard.
 quote: Endurance is not just the ability to bean a difficult situation — it is to turn it into glory.
-fortune: The endurance you have demonstrated this season is real — allow yourself to rest inside it rather than always pushing past it.
+fortune: An endurance will be demonstrated — allow yourself to rest inside it rather than always pushing past it.
 ---
 
 Dried Beans born in the Year of the Umami Navy Bean are the Bean Zodiac's most enduring — still here, still holding, the depth increasing with every season passed.

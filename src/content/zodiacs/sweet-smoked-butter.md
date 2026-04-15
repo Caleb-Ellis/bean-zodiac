@@ -6,7 +6,7 @@ form: smoked
 trait: hazy
 dish: Gigantes plaki - butter beans baked with sweet tomato, smoked paprika, and honey.
 quote: Que bean sera, sera. Whatever will bean, will bean.
-fortune: The pleasant fog of this season was real and restoring — the season ahead asks for at least one clear edge to hold onto, so the comfort has somewhere specific to live.
+fortune: A pleasant fog is coming — hold onto at least one clear edge inside it, so the comfort has somewhere specific to live.
 ---
 
 Smoked Beans born in the Year of the Sweet Butter Bean are the Bean Zodiac's most hazy — the warmth is real, but the edges have softened past the point of definition.

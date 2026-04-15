@@ -5,8 +5,8 @@ flavour: sweet
 form: fermented
 trait: gentle
 dish: Bánh men — Vietnamese sweet mung bean cakes made with fermented rice wine batter, steamed until just set.
-quote: In a bean world, the most rebellious thing you can do is be gentle.
-fortune: Turn the gentleness inward this season — not as an afterthought, but with the same precision you extend to everyone else.
+quote: In a tough world, the most rebellious thing you can do is be a gentle bean.
+fortune: A gentleness that has been going outward will be needed inward — turn it with the same precision.
 ---
 
 Fermented Beans born in the Year of the Sweet Mung Bean are the Bean Zodiac's gentlest — not from softness but from long interior work on what care requires.

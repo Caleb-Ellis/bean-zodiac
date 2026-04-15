@@ -6,7 +6,7 @@ form: dried
 trait: piquant
 dish: Moong dal - spiced mung bean soup with dried red chilies and mustard seed.
 quote: A spoonful of bean helps the medicine go down.
-fortune: The edge you carry this season does not cancel the warmth — make sure the warmth is the first thing they notice.
+fortune: The edge will arrive before the warmth — make sure the warmth is the first thing they notice.
 ---
 
 Dried Beans born in the Year of the Spicy Mung Bean are the Bean Zodiac's most piquant — the care is real, the gentleness is real, and it comes with a sharpness that prevents it from being taken for granted.

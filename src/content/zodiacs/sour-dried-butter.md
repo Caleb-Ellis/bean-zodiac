@@ -6,7 +6,7 @@ form: dried
 trait: chastened
 dish: Butter bean and sun-dried tomato salad with sherry vinegar.
 quote: Experience is simply the name we give our bean.
-fortune: The caution you carry this season is real knowledge — not every situation that looks like the last one is the last one.
+fortune: A situation that resembles the last one is coming — it is not the last one, and it deserves a fresh read.
 ---
 
 Dried Beans born in the Year of the Sour Butter Bean are the Bean Zodiac's most chastened — the ease is gone, the comfort has been questioned, and what remains is more careful.

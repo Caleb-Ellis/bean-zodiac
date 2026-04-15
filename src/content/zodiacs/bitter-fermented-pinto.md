@@ -6,7 +6,7 @@ form: fermented
 trait: artistic
 dish: Mole Negro - pinto beans with fermented chile and cacao.
 quote: Every bean is an artist. The problem is how to remain an artist once we grow up.
-fortune: The work this season needs the friction of an audience — not approval, but the resistance that keeps it honest and stops it from talking only to itself.
+fortune: The work will need an audience before it is ready — the friction of being seen is what will keep it honest.
 ---
 
 Fermented Beans born in the Year of the Bitter Pinto Bean are the Bean Zodiac's most artistic — they make something that could not exist without them.

@@ -6,7 +6,7 @@ form: smoked
 trait: impassioned
 dish: Red beans and rice - kidney beans slow-cooked with smoked andouille, sweet bell pepper, and thyme.
 quote: The heart has its bean that reason knows nothing of.
-fortune: The passion this season was real and it reached people — the season ahead asks that you name what you are actually fighting for, so the warmth and the declaration can arrive together.
+fortune: A passion will reach people — name what you are actually fighting for, so the warmth and the declaration arrive together.
 ---
 
 Smoked Beans born in the Year of the Sweet Kidney Bean are the Bean Zodiac's most impassioned — the warmth is genuine, and underneath it something urgent is moving without a name.

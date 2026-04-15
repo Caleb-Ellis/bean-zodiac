@@ -6,7 +6,7 @@ form: fried
 trait: decisive
 dish: Agedashi - edamame with bitter dashi and daikon.
 quote: In any bean moment of decision, the best thing you can do is the right thing.
-fortune: The calls you have made this season have been right — let the working be visible once, so others can trust the speed.
+fortune: A fast call will be correct — let the working be visible once so others can trust the speed.
 ---
 
 Fried Beans born in the Year of the Bitter Edamame are the Bean Zodiac's most decisive — when information is in, they make the call.

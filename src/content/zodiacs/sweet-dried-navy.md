@@ -6,7 +6,7 @@ form: dried
 trait: dutiful
 dish: White bean and lemon pound cake — dried navy beans cooked and blended into batter, lending the crumb a quiet density you cannot quite name.
 quote: Ask not what your bean can do for you — ask what you can do for your bean.
-fortune: The service you have given this season has been freely chosen — verify that it is still a choice, and allow yourself to choose yourself occasionally.
+fortune: A service will ask to be questioned — verify it is still a choice, and allow yourself to choose yourself occasionally.
 ---
 
 Dried Beans born in the Year of the Sweet Navy Bean are the Bean Zodiac's most dutiful — they will be here, doing this, for as long as it needs doing.

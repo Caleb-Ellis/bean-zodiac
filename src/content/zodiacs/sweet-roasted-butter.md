@@ -6,7 +6,7 @@ form: roasted
 trait: lighthearted
 dish: Butter beans roasted with vanilla sugar and lemon zest — caramelized at the edges, softly golden throughout.
 quote: A day without beans is like a day without sunshine, so bring extra beans.
-fortune: Lightheartedness is not the whole inventory — this season, let what is underneath it carry some weight too.
+fortune: What is underneath the lightness will want to carry some weight — let it.
 ---
 
 Roasted Beans born in the Year of the Sweet Butter Bean are the Bean Zodiac's most lighthearted — they carry the knowledge that the world is fundamentally fine into every space they enter.

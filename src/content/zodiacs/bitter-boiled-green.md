@@ -6,7 +6,7 @@ form: boiled
 trait: inquisitive
 dish: Minestrone - green beans and puntarelle.
 quote: The important thing is not to stop bean questioning.
-fortune: Not every thread this season needs to be followed to the end — choose one question that is ready to close, and let it.
+fortune: One of the threads you are following will arrive at an answer — let it close before you follow the next one.
 ---
 
 Boiled Beans born in the Year of the Bitter Green Bean are the Bean Zodiac's most inquisitive — they follow threads until they lead somewhere unexpected.

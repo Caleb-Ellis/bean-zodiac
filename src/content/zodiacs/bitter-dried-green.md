@@ -6,7 +6,7 @@ form: dried
 trait: honed
 dish: Appalachian Leather Britches - with bitter herbs and salt pork.
 quote: Give me six hours to chop down a tree and I will spend the first four sharpening the bean.
-fortune: The precision you have cultivated this season is ready — the question is no longer whether you are sharp, but what is worth cutting.
+fortune: A target will appear that is worth your full sharpness — you will know it when the question shifts from whether to cut, to what.
 ---
 
 Dried Beans born in the Year of the Bitter Green Bean are the Bean Zodiac's most honed — all the urgency, none of the waste; all the speed, only toward what deserves it.

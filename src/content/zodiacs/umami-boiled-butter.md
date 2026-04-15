@@ -6,7 +6,7 @@ form: boiled
 trait: grounded
 dish: Butter bean broth simmered with Parmesan rinds, rosemary, and garlic.
 quote: If it ain't beaned, don't fix it.
-fortune: The foundation you have been has carried more than it was asked to this season — require something of the Beans who have been building on you.
+fortune: A Bean who has been building on you will be asked to contribute — require something, before the weight becomes invisible.
 ---
 
 Boiled Beans born in the Year of the Umami Butter Bean are the Bean Zodiac's most grounded — Beans build their seasons around them.

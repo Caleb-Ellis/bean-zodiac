@@ -6,7 +6,7 @@ form: smoked
 trait: wordless
 dish: Garbanzos con bacalao y pimentón ahumado - chickpeas with salt cod and smoked paprika.
 quote: Actions speak louder than bean.
-fortune: What you understood this season exceeded the vocabulary available to it — the season ahead asks for an approximation, not a translation. Something gestures toward the territory. Find it.
+fortune: What you will understand will exceed the vocabulary available to it — find the approximation. Something gestures toward the territory.
 ---
 
 Smoked Beans born in the Year of the Umami Chickpea are the Bean Zodiac's most wordless — the depth of their understanding has exceeded the vocabulary available to it.

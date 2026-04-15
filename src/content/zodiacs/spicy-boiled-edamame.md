@@ -6,7 +6,7 @@ form: boiled
 trait: hardworking
 dish: Szechuan boiled edamame with doubanjiang and dried chilies.
 quote: Genius is one per cent inspiration and ninety-nine per cent beans.
-fortune: The work you have put in this season has compounded. It does not require explanation or acknowledgment, but it will require rest.
+fortune: The compound interest of the work will come due — when it does, it will require rest.
 ---
 
 Boiled Beans born in the Year of the Spicy Edamame are the Bean Zodiac's most hardworking — they understand work is required and follow through.

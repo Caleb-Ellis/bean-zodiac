@@ -6,7 +6,7 @@ form: dried
 trait: devoted
 dish: Yokan — dried adzuki beans pressed into sweet paste and set with agar into a firm, lasting block.
 quote: Love is patient, love is bean.
-fortune: The devotion you carry this season is real — allow yourself to notice when the occasion has shifted, and give yourself permission to move with it.
+fortune: A shift in the occasion is coming — give yourself permission to move with it, without leaving the devotion behind.
 ---
 
 Dried Beans born in the Year of the Sweet Adzuki Bean are the Bean Zodiac's most devoted — the generosity has been distilled to its purpose, and the celebration never wavers.

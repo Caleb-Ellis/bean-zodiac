@@ -6,7 +6,7 @@ form: dried
 trait: ascetic
 dish: Acquacotta - cannellini and bitter greens.
 quote: Simplicity is the ultimate bean.
-fortune: What you have stripped away this season took courage — the harder task now is deciding what to let back in.
+fortune: Something worth keeping is about to ask to be let back in — the harder question is not whether you stripped too much, but whether you will recognise it when it arrives.
 ---
 
 Dried Beans born in the Year of the Bitter Cannellini Bean are the Bean Zodiac's most ascetic — they have removed every excess and arrived at something so refined it barely takes up space.

@@ -43,31 +43,49 @@ export default function ZodiacResult({
             <span className={` bean-${bean.slug}`}>{bean.name}</span>
           </span>
           <span className="block text-md sm:text-xl mb-3 sm:mb-6">
-            in its <span className={`form-${form.slug}`}>{form.name}</span> form
+            in the <span className={`form-${form.slug}`}>{form.name}</span>{" "}
+            season
           </span>
         </h2>
         <div className="mb-6 sm:mb-8">
           <Bean bean={bean} flavourId={flavour.slug} formId={form.slug} />
         </div>
         {showDate && (
-          <p className="mb-2">
+          <p className="mb-4 sm:mb-6">
             {startDateStr} - {endDateStr}
           </p>
         )}
-        <section className="flex flex-col items-center gap-3 max-w-xl">
-          <p className="text-zinc-300">{zodiac.dish}</p>
-          {showQuote && (
-            <p className="italic text-zinc-300">"{zodiac.quote}"</p>
-          )}
-        </section>
         {showFortune && (
-          <section className="my-4 sm:my-6">
-            <p className="text-md sm:text-xl font-bold mb-4">
-              This Season's Fortune
+          <section className="mb-6 sm:mb-10 max-w-xl w-full flex flex-col items-center gap-3">
+            <div className="flex items-center gap-3 w-full">
+              <div className="flex-1 border-t border-zinc-600" />
+              <span className="text-zinc-500 text-xs">✦</span>
+              <div className="flex-1 border-t border-zinc-600" />
+            </div>
+            <p className="text-xs uppercase tracking-widest text-zinc-200">
+              Wisdom of the Bean
             </p>
-            <p className="italic text-zinc-300">"{zodiac.fortune}"</p>
+            <p className="italic text-zinc-200 text-lg text-center px-4">
+              "{zodiac.fortune}"
+            </p>
+            <div className="flex items-center gap-3 w-full">
+              <div className="flex-1 border-t border-zinc-600" />
+              <span className="text-zinc-500 text-xs">✦</span>
+              <div className="flex-1 border-t border-zinc-600" />
+            </div>
           </section>
         )}
+        <section className="flex flex-col items-center gap-3 max-w-xl">
+          {showQuote && <p className="italic mb-4 sm:mb-6">"{zodiac.quote}"</p>}
+          <div className="bg-zinc-900/80 border border-zinc-700/60 rounded-xl px-6 py-5 backdrop-blur-sm max-w-lg w-full mb-2 sm:mb-4">
+            <p className="text-xs uppercase tracking-widest text-zinc-200 mb-3">
+              You can find me in
+            </p>
+            <p className="italic text-zinc-200 text-lg">
+              {zodiac.dish}
+            </p>
+          </div>
+        </section>
       </section>
       {showContent && (
         <section className="max-w-xl markdown-content">

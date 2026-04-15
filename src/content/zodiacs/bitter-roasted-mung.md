@@ -6,7 +6,7 @@ form: roasted
 trait: humble
 dish: Khichdi - roasted mung beans with bitter fenugreek.
 quote: Blessed are the bean in spirit, for theirs is the kingdom of heaven.
-fortune: This season, let the Beans you most want to work alongside know what you are capable of — humility that keeps itself hidden is indistinguishable from absence.
+fortune: The Beans worth working alongside will need to know what you are capable of — humility that stays hidden is indistinguishable from absence.
 ---
 
 Roasted Beans born in the Year of the Bitter Mung Bean are the Bean Zodiac's most humble — they know what they are capable of and keep it hidden.

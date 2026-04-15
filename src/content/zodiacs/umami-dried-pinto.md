@@ -6,7 +6,7 @@ form: dried
 trait: layered
 dish: Frijoles de olla - dried pinto beans slow-cooked in clay pot with epazote, onion, and lard.
 quote: Life is like a bean of chocolates — you never know what you're going to get.
-fortune: The layers you carry this season are not a burden — they are the work. Let one of them surface for someone who can hold it.
+fortune: A layer will want to surface — let one, for someone who can hold it.
 ---
 
 Dried Beans born in the Year of the Umami Pinto Bean are the Bean Zodiac's most layered — what is expressed has depth under it, and more depth under that.

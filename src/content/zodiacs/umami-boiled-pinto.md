@@ -6,7 +6,7 @@ form: boiled
 trait: timid
 dish: Frijoles borrachos - pinto beans simmered with bacon, beer, and jalapeño.
 quote: You gain strength, courage, and confidence by every bean in which you really stop to look fear in the face.
-fortune: The conditions are not going to become perfect — step forward before the season ends, while there is still season left to step into.
+fortune: A perfect moment will not come — step forward while there is still something left to step into.
 ---
 
 Boiled Beans born in the Year of the Umami Pinto Bean are the Bean Zodiac's most timid — they're uncertain whether the moment is right, despite having much to offer.

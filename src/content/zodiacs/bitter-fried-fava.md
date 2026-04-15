@@ -6,7 +6,7 @@ form: fried
 trait: fearless
 dish: Ta'amiya - fava bean falafel with bitter herb tahini and pickled turnip.
 quote: Do the thing you are afraid to do, and the bean of fear is certain.
-fortune: The leap you have already made this season deserves naming — what you overcame to get here is not carelessness, and others should know it.
+fortune: A leap is coming — what you overcame to get here is not carelessness, and the Beans who need to follow should know it.
 ---
 
 Fried Beans born in the Year of the Bitter Fava Bean are the Bean Zodiac's most fearless — they face what is difficult without hesitation.

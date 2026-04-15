@@ -6,7 +6,7 @@ form: smoked
 trait: languid
 dish: Southern butter beans with smoked ham hock and pot liquor.
 quote: Slow and bean wins the race.
-fortune: The pace you set this season produced things that could not have been produced faster — the season ahead asks for at least one thing you are moving toward, so the tempo has a direction.
+fortune: A direction is forming — give the tempo somewhere to move toward.
 ---
 
 Smoked Beans born in the Year of the Umami Butter Bean are the Bean Zodiac's most languid — the ease and the depth have found each other and have no pressing business elsewhere.

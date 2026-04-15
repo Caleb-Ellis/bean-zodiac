@@ -6,7 +6,7 @@ form: fermented
 trait: questioning
 dish: Fava bean soup with harissa yogurt and bitter orange.
 quote: The bean that gets questioned, gets answered.
-fortune: The question you have been working on this season has an answer now — let it be settled, and carry the thoroughness to the next one.
+fortune: An answer is coming — when it does, carry the thoroughness to the next question rather than treating the closure as an ending.
 ---
 
 Fermented Beans born in the Year of the Bitter Fava Bean are the Bean Zodiac's most questioning — they pull at what others accept, knowing the best things require more than first answers.

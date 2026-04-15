@@ -6,7 +6,7 @@ form: fried
 trait: expressive
 dish: Cannellini zeppole — fried Italian doughnuts with a white bean and ricotta filling, tossed in cinnamon sugar.
 quote: I am not afraid of storms, for I am learning how to bean my sail.
-fortune: Read the room before you fill it this season — not to contain yourself, but to find the opening where what you have to say will actually land.
+fortune: A room will want to be filled — find the opening first, so what you have to say actually lands.
 ---
 
 Fried Beans born in the Year of the Sweet Cannellini Bean are the Bean Zodiac's most expressive — what they feel moves immediately to the surface.

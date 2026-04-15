@@ -6,7 +6,7 @@ form: fermented
 trait: insecure
 dish: Mung bean dal with yogurt tadka and lime.
 quote: To bean oneself is the beginning of a lifelong romance.
-fortune: The insecurity this season has been sharp, but the signal-to-noise ratio is improving — act on the signal this season, and let the noise run down on its own.
+fortune: The signal-to-noise ratio will improve — act on the signal when it becomes clear, and let the noise run down on its own.
 ---
 
 Fermented Beans born in the Year of the Sour Mung Bean are the Bean Zodiac's most insecure — they understand in exquisite detail everything they might be getting wrong.

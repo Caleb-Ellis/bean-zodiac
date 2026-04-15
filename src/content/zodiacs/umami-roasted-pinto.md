@@ -6,7 +6,7 @@ form: roasted
 trait: detached
 dish: Roasted pinto beans with ancho chile, tomato paste, and cumin.
 quote: I have bean watching from a great height for so long.
-fortune: The view has been informative this season — descend into one thing fully, and let what you observe from above be richer for having been there.
+fortune: A descent into one thing fully is coming — let what you observe from above be richer for having been there.
 ---
 
 Roasted Beans born in the Year of the Umami Pinto Bean are the Bean Zodiac's most detached — present and warm and observing from a distance that's grown too comfortable.

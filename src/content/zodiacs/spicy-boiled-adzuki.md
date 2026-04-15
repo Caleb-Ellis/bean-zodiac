@@ -6,7 +6,7 @@ form: boiled
 trait: spirited
 dish: Adzuki bean congee with gochugaru and soft-boiled egg.
 quote: You've gotta have bean.
-fortune: The season ahead will ask for warmth more than once — bank some of what you have today so it is still there when the occasion needs it.
+fortune: A moment will ask for warmth — you will have it if you have been tending it.
 ---
 
 Boiled Beans born in the Year of the Spicy Adzuki Bean are the Bean Zodiac's most spirited — heat banked through patience makes the fire last.

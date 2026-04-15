@@ -6,7 +6,7 @@ form: dried
 trait: blazing
 dish: New Mexican dried pinto bean stew with ancho and red New Mexico chile.
 quote: It's better to burn out than to bean away.
-fortune: The intensity you brought this season was complete — ask whether there is anything left for what comes next, and rest accordingly.
+fortune: An intensity is coming that will ask for everything — rest accordingly beforehand, so there is something left for what comes after.
 ---
 
 Dried Beans born in the Year of the Spicy Pinto Bean are the Bean Zodiac's most blazing — the expressiveness has found its highest temperature, and it is not interested in being moderated.

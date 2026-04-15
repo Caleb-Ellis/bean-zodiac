@@ -6,7 +6,7 @@ form: roasted
 trait: outgoing
 dish: Chaat - roasted chickpeas with bitter lime and green chutney.
 quote: You catch more beans with honey.
-fortune: This season, give yourself one long evening without the company of others — what comes up in that quiet is worth knowing.
+fortune: A long evening without company is coming — let it arrive, and attend to what comes up in the quiet.
 ---
 
 Roasted Beans born in the Year of the Bitter Chickpea are the Bean Zodiac's most outgoing — they move toward Beans as a matter of course.

@@ -6,7 +6,7 @@ form: smoked
 trait: ghostly
 dish: Frijoles charros - pinto beans simmered with smoked bacon, chipotle, sweet tomato, and piloncillo.
 quote: I see bean people.
-fortune: The story you carried this season was vivid but the teller stayed just out of reach — the season ahead asks that you be fully in the thing you are expressing, so the room has someone to receive it.
+fortune: A story will be vivid but you will want to stay just out of reach — be fully in the thing you are expressing, so the room has someone to receive it.
 ---
 
 Smoked Beans born in the Year of the Sweet Pinto Bean are the Bean Zodiac's most ghostly — the story is vivid, but the teller is somewhere just out of reach.

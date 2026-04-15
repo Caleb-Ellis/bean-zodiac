@@ -6,7 +6,7 @@ form: fried
 trait: arrogant
 dish: Crispy navy beans with dashi glaze, bonito flakes, and nori.
 quote: The only true wisdom is knowing you know nothing about beans.
-fortune: The competence has been genuine this season — develop the habit of doubt now, while the record is still good and the practice still costs little.
+fortune: A doubt is coming — develop the habit now, while the record is still good and the practice still costs little.
 ---
 
 Fried Beans born in the Year of the Umami Navy Bean are the Bean Zodiac's most arrogant — they've developed real competence and stopped seeing its limits.

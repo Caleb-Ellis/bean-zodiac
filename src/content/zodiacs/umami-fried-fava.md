@@ -6,7 +6,7 @@ form: fried
 trait: aggressive
 dish: Stir-fried fava beans with doubanjiang, ginger, and soy.
 quote: The best bean defense is a good offense.
-fortune: What has been pressed through this season was worth pressing — look back once to confirm the path is still open for whoever needs to follow.
+fortune: A path will be pressed through — look back once to confirm it is still open for whoever needs to follow.
 ---
 
 Fried Beans born in the Year of the Umami Fava Bean are the Bean Zodiac's most aggressive — they press forward without waiting for the situation to open up.

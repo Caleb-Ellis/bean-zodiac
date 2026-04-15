@@ -6,7 +6,7 @@ form: smoked
 trait: ominous
 dish: Smoked navy bean with bitter juniper and char.
 quote: It was a dark and beany night.
-fortune: The weight you carried this season about what was gathering was accurate — the season ahead asks only that you say it in a way that can be heard, before the weather arrives.
+fortune: What is gathering will arrive — say it in a way that can be heard, before the weather does.
 ---
 
 Smoked Beans born in the Year of the Bitter Navy Bean are the Bean Zodiac's most ominous — their sense of what is coming tends to be correct, and they say so in a way that is difficult to dispute.

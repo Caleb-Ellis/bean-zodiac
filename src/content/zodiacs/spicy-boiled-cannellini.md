@@ -6,7 +6,7 @@ form: boiled
 trait: perfectionist
 dish: Ribollita - Tuscan bread soup with cannellini, cavolo nero, and peperoncino.
 quote: Have no fear of bean perfection — you will never reach it, but what a view from the attempt.
-fortune: The work this season that you keep returning to has already passed the threshold — the version that is ready is the one currently in your hands.
+fortune: The work will reach the threshold — the version that is ready will be in your hands, and you will know it.
 ---
 
 Boiled Beans born in the Year of the Spicy Cannellini Bean are the Bean Zodiac's most perfectionist — they know what's right and won't compromise.

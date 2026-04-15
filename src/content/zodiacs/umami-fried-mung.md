@@ -6,7 +6,7 @@ form: fried
 trait: serious
 dish: Bindaetteok - Korean mung bean pancakes with kimchi and soy dipping sauce.
 quote: Life is too important to be taken bean.
-fortune: This season, let one small thing be exactly as small as it is — a brief rest from the full weight is not a failure of gravity.
+fortune: A small thing will arrive — let it be exactly as small as it is.
 ---
 
 Fried Beans born in the Year of the Umami Mung Bean are the Bean Zodiac's most serious — they bring the same gravity to all things.

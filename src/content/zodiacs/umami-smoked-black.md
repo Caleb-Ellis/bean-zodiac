@@ -6,7 +6,7 @@ form: smoked
 trait: solemn
 dish: Feijoada - Brazilian black bean stew with smoked chouriço, carne seca, and bay leaf.
 quote: Ask not what your bean can do for you — ask what you can do for your bean.
-fortune: The gravity you brought this season was correctly placed — the season ahead asks that the room be permitted to breathe somewhere alongside it, so the solemnity doesn't become the ceiling.
+fortune: A gravity will be correctly placed — let the room breathe somewhere alongside it, so the solemnity does not become the ceiling.
 ---
 
 Smoked Beans born in the Year of the Umami Black Bean are the Bean Zodiac's most solemn — the depth has accumulated to the point where anything lighter than gravity feels wrong.

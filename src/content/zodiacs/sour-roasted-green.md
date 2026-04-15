@@ -6,7 +6,7 @@ form: roasted
 trait: cheerful
 dish: Fagiolini al limone - oven-roasted green beans with lemon zest, garlic, and toasted almonds
 quote: The most bean thing you can do is smile through your tears.
-fortune: The good humour this season has held up under scrutiny — the rooms it has entered have been better for it, and that is not nothing.
+fortune: The good humour will be tested — the rooms that hold it will be better for it, and that is not nothing.
 ---
 
 Roasted Beans born in the Year of the Sour Green Bean are the Bean Zodiac's most cheerful — warmth that is hard to dismiss because it is honest.

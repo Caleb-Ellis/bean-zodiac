@@ -6,7 +6,7 @@ form: smoked
 trait: simmering
 dish: Lap cheong congee - Cantonese rice porridge with mung beans, smoked sausage, and chili oil.
 quote: The course of true bean never did run smooth.
-fortune: The care you maintained this season ran hotter than anyone noticed and for longer than anyone understood — next season, let the temperature show. Those you tend deserve to know what it costs.
+fortune: A care will run hotter than anyone notices — let the temperature show, so those you tend know what it costs.
 ---
 
 Smoked Beans born in the Year of the Spicy Mung Bean are the Bean Zodiac's most simmering — their care runs hotter than it appears, and has been running that way for longer than anyone has noticed.

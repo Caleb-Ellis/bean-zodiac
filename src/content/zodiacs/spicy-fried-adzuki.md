@@ -6,7 +6,7 @@ form: fried
 trait: irrepressible
 dish: Spicy adzuki jeon - Korean pan-fried adzuki bean pancake with gochugaru.
 quote: Don't stop me now - I'm having such a good bean!
-fortune: The energy you have released this season has been the right kind — now aim it at the thing most worth the full temperature, not at whatever is in range.
+fortune: The energy will find its target — aim it at the thing most worth the full temperature, not at whatever is in range.
 ---
 
 Fried Beans born in the Year of the Spicy Adzuki Bean are the Bean Zodiac's most irrepressible — their heat cannot be contained.

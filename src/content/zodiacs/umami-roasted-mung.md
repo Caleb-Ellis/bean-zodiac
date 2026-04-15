@@ -6,7 +6,7 @@ form: roasted
 trait: melancholy
 dish: Roasted mung beans with fish sauce, lime leaves, and dried chilli.
 quote: Sadness is but a bean of the wall beside the window, through which your joy shall look out.
-fortune: What is grieved this season deserves its full time — and when the grief has been honoured, let the present room have a turn.
+fortune: A grief will want its full time — and when it has been honoured, let the present room have a turn.
 ---
 
 Roasted Beans born in the Year of the Umami Mung Bean are the Bean Zodiac's most melancholy — not unhappy, but one foot always in what has passed.

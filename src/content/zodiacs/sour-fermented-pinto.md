@@ -6,7 +6,7 @@ form: fermented
 trait: pessimistic
 dish: Frijoles charros - pinto beans with fermented chipotle, bacon, and lime.
 quote: A bean who expects nothing is never disappointed.
-fortune: The forecast has been correct more often than not — notice the one variable that didn't confirm the reading, because it is there, and it matters.
+fortune: A variable in the forecast will not confirm the reading — it is there, and it matters, and it will ask to be noticed.
 ---
 
 Fermented Beans born in the Year of the Sour Pinto Bean are the Bean Zodiac's most pessimistic — with well-developed reasons for every view.

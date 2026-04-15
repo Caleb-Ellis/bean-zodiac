@@ -6,7 +6,7 @@ form: fermented
 trait: laid-back
 dish: Butter bean and labneh with honey — cooked butter beans stirred through strained fermented yogurt and drizzled with wildflower honey.
 quote: The bean abides.
-fortune: Some of what is waiting for you this season will not wait indefinitely — find the thing that requires your presence and give it your presence.
+fortune: Something waiting will not wait indefinitely — find the thing that requires your presence and give it your presence.
 ---
 
 Fermented Beans born in the Year of the Sweet Butter Bean are the Bean Zodiac's most laid-back — a fundamental orientation toward the world, not an attitude adopted.

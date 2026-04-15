@@ -6,7 +6,7 @@ form: roasted
 trait: reserved
 dish: Maple and sea salt roasted navy beans — white beans roasted until caramelized, finished with a drizzle of cold maple syrup.
 quote: Speech is silver, but bean is golden.
-fortune: Offer something before it has been fully earned this season — not everything worth giving requires the recipient to have already proven it.
+fortune: A thing not yet fully earned will ask to be given — offer it before the earning is complete, and find out what the generosity produces.
 ---
 
 Roasted Beans born in the Year of the Sweet Navy Bean are the Bean Zodiac's most reserved — their warmth is present but not distributed at random.

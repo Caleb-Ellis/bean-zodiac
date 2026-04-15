@@ -6,7 +6,7 @@ form: dried
 trait: volcanic
 dish: Red beans and rice - New Orleans style with andouille and cayenne.
 quote: Anger is an acid that can do more harm to the bean in which it is stored than to anything on which it is poured.
-fortune: What erupted this season was older than the moment — learn to read the accumulation earlier, before it finds its own timing.
+fortune: What is accumulating will find its own timing if you do not find it first — read the accumulation earlier this time.
 ---
 
 Dried Beans born in the Year of the Spicy Kidney Bean are the Bean Zodiac's most volcanic — pressure building in silence until the surface can no longer hold it.

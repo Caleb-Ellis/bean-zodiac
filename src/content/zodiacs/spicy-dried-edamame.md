@@ -6,7 +6,7 @@ form: dried
 trait: caustic
 dish: Dried edamame with shichimi togarashi and yuzu salt.
 quote: Be yourself; everyone else is already beaned.
-fortune: The accuracy of your assessments this season was not in question — ask who else is bearing the cost of being right.
+fortune: An accurate assessment is coming — ask who else will bear the cost of being right.
 ---
 
 Dried Beans born in the Year of the Spicy Edamame are the Bean Zodiac's most caustic — efficient, direct, and not always aware of what the efficiency costs.

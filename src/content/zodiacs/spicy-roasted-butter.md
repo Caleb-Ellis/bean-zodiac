@@ -6,7 +6,7 @@ form: roasted
 trait: hedonistic
 dish: Harissa gigantes - butter beans oven-roasted with rose harissa, garlic, and olive oil.
 quote: Eat, bean, and be merry, for tomorrow we diet.
-fortune: The season has been full and warm and genuinely good — make room for one stretch of wanting nothing, so the wanting something again means what it should.
+fortune: A stretch of wanting nothing is coming — let it arrive, so the wanting something again means what it should.
 ---
 
 Roasted Beans born in the Year of the Spicy Butter Bean are the Bean Zodiac's most hedonistic — pleasure is the substance, not the reward.

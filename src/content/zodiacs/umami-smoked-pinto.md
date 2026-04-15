@@ -6,7 +6,7 @@ form: smoked
 trait: atmospheric
 dish: Texas smoked pinto beans with brisket drippings, chipotle, and epazote.
 quote: Wherever you go, there you bean.
-fortune: The quality of every room this season shifted when you entered — and the shift was total, because you had become weather rather than occupant. The season ahead asks what you would most like the air to carry.
+fortune: The quality of every room you enter is about to shift — decide what you want the air to carry before you arrive, so the weather is yours to direct.
 ---
 
 Smoked Beans born in the Year of the Umami Pinto Bean are the Bean Zodiac's most atmospheric — their expressiveness has become weather: something you are inside of rather than observing.

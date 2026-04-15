@@ -6,7 +6,7 @@ form: dried
 trait: astringent
 dish: Pinto bean and dried mulato chile stew with lime.
 quote: Art is not what you see, but what you bean others to see.
-fortune: What you stripped away this season was not all ornament — allow some warmth back in, and check whether the clarity survives it.
+fortune: Some warmth will ask to return — let it in, and find out whether the clarity survives it.
 ---
 
 Dried Beans born in the Year of the Sour Pinto Bean are the Bean Zodiac's most astringent — the expressiveness remains, but the sentimentality has been cut away entirely.

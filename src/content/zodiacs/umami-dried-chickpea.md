@@ -6,7 +6,7 @@ form: dried
 trait: substantive
 dish: Cocido madrileño - dried chickpeas slow-cooked with pork belly, chorizo, and morcilla.
 quote: The measure of a bean is the sum of its choices.
-fortune: The substance you bring this season reaches further than novelty ever could — trust that staying is the work.
+fortune: A novelty will offer itself — trust that staying is the work, and that substance reaches further.
 ---
 
 Dried Beans born in the Year of the Umami Chickpea are the Bean Zodiac's most substantive — they move widely but carry real weight, and whatever room they enter is the heavier for it.

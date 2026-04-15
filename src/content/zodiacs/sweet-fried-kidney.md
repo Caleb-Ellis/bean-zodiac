@@ -6,7 +6,7 @@ form: fried
 trait: protective
 dish: Hotteok with red bean — Korean street pancakes fried until blistered, filled with sweetened kidney bean paste and brown sugar.
 quote: We must protect the beans at all cost!
-fortune: Ask this season whether the cover is giving someone confidence or removing the chance to build it — and learn to tolerate the answer either way.
+fortune: A cover will be questioned — ask whether it is giving confidence or removing the chance to build it.
 ---
 
 Fried Beans born in the Year of the Sweet Kidney Bean are the Bean Zodiac's most protective — what moves between them and the Beans they love is very little.

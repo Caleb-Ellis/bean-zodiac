@@ -6,7 +6,7 @@ form: boiled
 trait: agreeable
 dish: Chana dal halwa — split chickpeas boiled down with ghee and sugar into a dense, golden sweet.
 quote: Piglet noticed that even though he had a very small bean, it could hold a rather large amount of gratitude.
-fortune: Accommodation given without limit becomes invisible over time — let the Beans around you know what you actually wanted this season.
+fortune: An accommodation that has been given without limit will become invisible — let the Beans around you know what you actually wanted.
 ---
 
 Boiled Beans born in the Year of the Sweet Chickpea are the Bean Zodiac's most agreeable — they meet Beans where they are without effort.

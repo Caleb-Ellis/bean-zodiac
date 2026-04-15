@@ -6,7 +6,7 @@ form: fried
 trait: meticulous
 dish: Fagioli al limone con capperi - Italian cannellini beans pan-fried with capers, garlic, and lemon zest.
 quote: For every bean, there is a season, and a proper form.
-fortune: The detail attended to this season has done its work — step back now and check whether the whole is moving in the direction it was built for.
+fortune: The detail will do its work — step back after and check whether the whole is moving in the direction it was built for.
 ---
 
 Fried Beans born in the Year of the Sour Cannellini Bean are the Bean Zodiac's most meticulous — they do it correctly at speed and notice when others haven't.

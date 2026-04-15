@@ -6,7 +6,7 @@ form: smoked
 trait: scorching
 dish: New Orleans red beans and rice with smoked andouille, pickled okra, and hot sauce
 quote: Some like it bean.
-fortune: The heat you brought this season left marks that aren't immediately visible — next season, choose the truths worth that temperature, and deploy the rest at something that survives being used.
+fortune: A heat will be available — choose the truths worth that temperature, and deploy the rest at something that survives being used.
 ---
 
 Smoked Beans born in the Year of the Sour Kidney Bean are the Bean Zodiac's most scorching — something this honest and this passionate leaves marks that are not immediately visible.

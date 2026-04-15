@@ -6,7 +6,7 @@ form: fried
 trait: principled
 dish: Fagioli con alici - pan-fried cannellini with anchovies, garlic, and olive oil.
 quote: The arc of the bean universe is long, but it bends toward justice.
-fortune: The principles have been consistent this season — let one of them be examined, not to revise it, but to confirm it still means what you need it to mean.
+fortune: A principle will want to be examined — not to revise it, but to confirm it still means what you need it to mean.
 ---
 
 Fried Beans born in the Year of the Umami Cannellini Bean are the Bean Zodiac's most principled — they act at heat, without waiting to see which way the room goes.

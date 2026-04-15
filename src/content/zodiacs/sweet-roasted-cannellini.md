@@ -6,7 +6,7 @@ form: roasted
 trait: empowering
 dish: Cannellini roasted in maple and sage — white beans blistered in the oven with maple syrup and fresh sage until caramelized.
 quote: As we let our own bean shine, we unconsciously give others permission to do the same.
-fortune: Let someone hold the lantern for you this season — the light you have been giving others is allowed to travel back.
+fortune: A lantern is about to be carried back toward you — let someone hold it.
 ---
 
 Roasted Beans born in the Year of the Sweet Cannellini Bean are the Bean Zodiac's most empowering — they elevate everyone around them into believing in their own capacity.

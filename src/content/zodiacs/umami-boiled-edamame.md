@@ -6,7 +6,7 @@ form: boiled
 trait: dedicated
 dish: Dashi-ni - edamame simmered in dashi, soy, and mirin.
 quote: The price of bean excellence is dedication.
-fortune: What you stayed with has become what it was trying to be — do not move on before you have acknowledged the arrival.
+fortune: An arrival is coming — do not move on before you have acknowledged it.
 ---
 
 Boiled Beans born in the Year of the Umami Edamame are the Bean Zodiac's most dedicated — they stay until things become what they were trying to be.

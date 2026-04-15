@@ -6,7 +6,7 @@ form: fermented
 trait: industrious
 dish: Edamame with spicy fermented black bean sauce and sesame.
 quote: I'm a great bean believer in luck, and I find the harder I work, the more I have of it.
-fortune: The work you have been doing this season in private has reached a volume worth surfacing — let someone see the shape of it before it closes.
+fortune: The private work has reached a volume worth surfacing — let someone see the shape of it before it closes.
 ---
 
 Fermented Beans born in the Year of the Spicy Edamame are the Bean Zodiac's most industrious — always working, especially unseen.

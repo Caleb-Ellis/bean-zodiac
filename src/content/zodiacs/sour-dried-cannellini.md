@@ -6,7 +6,7 @@ form: dried
 trait: exquisite
 dish: Cannellini and dried porcini brodo with lemon zest.
 quote: The bean is in the details.
-fortune: The precision you bring this season is genuine — its only cost is the distance it creates. Descend occasionally, and bring it with you.
+fortune: The precision you carry will find a room that needs it — descend when you arrive, and bring it with you.
 ---
 
 Dried Beans born in the Year of the Sour Cannellini Bean are the Bean Zodiac's most exquisite — reduced to the smallest possible version of something and still impossibly precise.

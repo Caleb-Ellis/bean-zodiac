@@ -6,7 +6,7 @@ form: fried
 trait: impractical
 dish: Onde-onde — Indonesian fried rice flour balls filled with sweet mung bean paste, rolled in fresh grated coconut.
 quote: Heart in the right place, bean in the wrong pot!
-fortune: Ask what would actually help before the oil is hot — the gesture will still be genuine this season, and it will land somewhere it is needed.
+fortune: A gesture will be ready before the need is known — ask what would actually help before the oil is hot.
 ---
 
 Fried Beans born in the Year of the Sweet Mung Bean are the Bean Zodiac's most impractical — they are moved to help before they have worked out how.

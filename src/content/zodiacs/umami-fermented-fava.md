@@ -6,7 +6,7 @@ form: fermented
 trait: rebellious
 dish: Fava and pixian doubanjiang stir-fry - fava beans with fermented broad bean chili paste and garlic shoots.
 quote: The most common way beans give up their power is by thinking they don't have any.
-fortune: The rebellion has substance and the season has given it form — surface enough of the reasoning that others can decide whether to follow.
+fortune: The rebellion will need its reasoning surfaced — enough that others can decide whether to follow.
 ---
 
 Fermented Beans born in the Year of the Umami Fava Bean are the Bean Zodiac's most rebellious — their refusal comes from deep, private examination.

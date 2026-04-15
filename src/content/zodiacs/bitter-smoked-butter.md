@@ -6,7 +6,7 @@ form: smoked
 trait: dreamy
 dish: Smoked butter bean with bitter herb oil.
 quote: We are such stuff as beans are made on.
-fortune: The distance you kept this season was not aloofness — it was somewhere between the present and wherever you were watching from. Return a little earlier in the one ahead.
+fortune: The distance between you and the present will open again — return a little earlier than last time.
 ---
 
 Smoked Beans born in the Year of the Bitter Butter Bean are the Bean Zodiac's most dreamy — their calm has drifted far enough from the present that it is difficult to locate in real time.

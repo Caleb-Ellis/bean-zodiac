@@ -6,7 +6,7 @@ form: roasted
 trait: fairness-minded
 dish: Rajma tikki - pan-seared kidney bean cakes with amchur and mint chutney
 quote: Injustice anywhere is a threat to bean everywhere.
-fortune: The fairness this season has been the kind that changes things — what you built by insisting on it will outlast the season that required it.
+fortune: A fairness will be required that changes things — insist on it, and what you build by doing so will outlast the situation that required it.
 ---
 
 Roasted Beans born in the Year of the Sour Kidney Bean are the Bean Zodiac's most fairness-minded — warmth that insists on equal distribution.

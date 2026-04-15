@@ -9,6 +9,7 @@ import {
   FORM_EMOJI,
   FORM_ORDER,
   getBeanYear,
+  getFormIdForDate,
 } from "../lib/zodiac";
 import type { FormId } from "../lib/zodiac";
 
@@ -401,6 +402,6 @@ function computeTargets(date: Date) {
     targetForm: modCentre - FORM_SEG / 2,
     beanIdx: Math.floor(modOuter / BEAN_SEG),
     flavourIdx: Math.floor(modInner / FLAVOUR_SEG),
-    formIdx: Math.floor(modCentre / FORM_SEG),
+    formIdx: FORM_ORDER.indexOf(getFormIdForDate(date)),
   };
 }

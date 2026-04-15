@@ -6,7 +6,7 @@ form: roasted
 trait: insightful
 dish: Soy and mirin roasted black soybeans with ginger and star anise.
 quote: The only true wisdom is knowing you know nothing about beans.
-fortune: What you have been seeing this season is the beginning of a conversation, not the end of one — offer it as an opening and stay for what it brings back.
+fortune: A seeing is about to become a conversation — offer it as an opening and stay for what it brings back.
 ---
 
 Roasted Beans born in the Year of the Umami Black Bean are the Bean Zodiac's most insightful — the insight is an invitation, not a verdict.

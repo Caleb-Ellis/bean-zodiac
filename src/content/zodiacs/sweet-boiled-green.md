@@ -6,7 +6,7 @@ form: boiled
 trait: playful
 dish: Ingen no shiro-ae — green beans blanched and tossed in sweet sesame tofu cream with a pinch of sugar.
 quote: We don't stop playing because we grow old; we grow old because we stop bean playful.
-fortune: Hold still this season long enough to be seen as something more than motion — what is underneath the lightness deserves to be found.
+fortune: A stillness will arrive — hold it long enough to be seen as something more than motion.
 ---
 
 Boiled Beans born in the Year of the Sweet Green Bean are the Bean Zodiac's most playful — lightness that sustains itself over time.

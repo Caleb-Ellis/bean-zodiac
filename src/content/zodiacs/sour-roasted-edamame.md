@@ -6,7 +6,7 @@ form: roasted
 trait: forthright
 dish: Yaki edamame with yuzu kosho - oven-roasted edamame with yuzu pepper paste and flaky salt
 quote: All you need in this life is ignorance and beans, and then success is sure.
-fortune: What was volunteered this season has given others a map they didn't know they needed — this is not the season to hold back more of what you know.
+fortune: Something you know will be needed by someone who does not know to ask — volunteer it before the moment passes.
 ---
 
 Roasted Beans born in the Year of the Sour Edamame are the Bean Zodiac's most forthright — they volunteer truth from warmth, not compulsion.

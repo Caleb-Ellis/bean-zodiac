@@ -6,7 +6,7 @@ form: boiled
 trait: measured
 dish: Black bean soup with epazote and bitter orange.
 quote: It was the best of beans, it was the worst of beans.
-fortune: The broth has been finished for some time now — this season, let it be seen before the dish grows cold.
+fortune: The right moment will announce itself — and when it does, what you have been holding back will be ready to be seen.
 ---
 
 Boiled Beans born in the Year of the Bitter Black Bean are the Bean Zodiac's most measured — not through restraint learned, but through a nature that has never needed to speak before it is certain.

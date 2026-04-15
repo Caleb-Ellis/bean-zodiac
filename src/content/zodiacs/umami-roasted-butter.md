@@ -6,7 +6,7 @@ form: roasted
 trait: receptive
 dish: Slow-roasted butter beans with anchovies, garlic, and rosemary.
 quote: The ear of the bean hears all and judges nothing.
-fortune: This season has been full of what others have offered — offer something of your own, and let it be received the way you have received theirs.
+fortune: Something of your own will want to be offered — let it be received the way you have received theirs.
 ---
 
 Roasted Beans born in the Year of the Umami Butter Bean are the Bean Zodiac's most receptive — they register not just what is said, but what the saying contains.

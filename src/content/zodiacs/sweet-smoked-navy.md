@@ -6,7 +6,7 @@ form: smoked
 trait: haunting
 dish: Boston baked beans - navy beans slow-cooked with smoked salt pork, molasses, and brown sugar.
 quote: I am haunted by bean.
-fortune: What you left in rooms this season was still present after you had gone — the season ahead asks whether you have truly arrived somewhere, or only passed through and left the impression of a door.
+fortune: What you leave will still be present after you have gone — ask whether you have truly arrived somewhere, or only passed through and left the impression of a door.
 ---
 
 Smoked Beans born in the Year of the Sweet Navy Bean are the Bean Zodiac's most haunting — their loyalty leaves an impression that persists well after they have gone.

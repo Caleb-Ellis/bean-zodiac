@@ -6,7 +6,7 @@ form: boiled
 trait: kind
 dish: Cannellini in vin santo — white beans simmered in sweet wine with a strip of lemon peel and fresh thyme.
 quote: A little bean, a little more bean than absolutely necessary — that is what it means to be kind.
-fortune: Name what you need this season — the Beans around you have been waiting to be kind in return, and they cannot do it if you will not let them.
+fortune: A need you have will ask to be named — the Beans around you have been waiting to be kind in return, and they cannot do it if you will not let them.
 ---
 
 Boiled Beans born in the Year of the Sweet Cannellini Bean are the Bean Zodiac's kindest — they elevate without calculation.

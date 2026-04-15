@@ -6,7 +6,7 @@ form: fried
 trait: exuberant
 dish: Jin deui — fried glutinous rice sesame balls with sweet adzuki paste inside, golden and crisp and rolling.
 quote: Oh my gourd, did you SEE that?!
-fortune: The party is better when it is a response to life — make sure this season that the celebration is meeting something, not replacing it.
+fortune: A celebration will arrive — make sure it is a response to life, not a replacement for it.
 ---
 
 Fried Beans born in the Year of the Sweet Adzuki Bean are the Bean Zodiac's most exuberant — celebration that happens before anyone decides to measure it.

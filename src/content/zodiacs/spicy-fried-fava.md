@@ -6,7 +6,7 @@ form: fried
 trait: risk-taking
 dish: Ta'amiya - Egyptian fava bean falafel with green chili and cumin.
 quote: Only those who will bean far can possibly find out how far one can go.
-fortune: The risks you took this season produced results — look back now, not to second-guess, but to identify which of your instincts you can trust further next time.
+fortune: A risk will produce results — look back after, not to second-guess, but to identify which instincts you can trust further next time.
 ---
 
 Fried Beans born in the Year of the Spicy Fava Bean are the Bean Zodiac's most risk-taking — they commit before the math is finished.

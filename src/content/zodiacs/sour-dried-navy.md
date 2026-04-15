@@ -6,7 +6,7 @@ form: dried
 trait: uncompromising
 dish: Navy bean and dried tomato stew with red wine vinegar and rosemary.
 quote: Give me liberty, or give me bean!
-fortune: The position you have held this season is correct — learn to distinguish between a principle tested and a principle provoked before the next challenge arrives.
+fortune: A principle will be tested — before it is, know the difference between a principle tested and a principle provoked.
 ---
 
 Dried Beans born in the Year of the Sour Navy Bean are the Bean Zodiac's most uncompromising — the principle exists, the evidence is clear, and there is no version of this that ends in negotiation.

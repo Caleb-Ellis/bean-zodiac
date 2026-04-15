@@ -6,7 +6,7 @@ form: fried
 trait: moralistic
 dish: Pan-fried kidney bean cakes with red miso, sake, and sesame.
 quote: Moralising and bean are two arts that seldom go together.
-fortune: The conviction has been consistent and correct this season — find the form that allows others to arrive at it themselves, without being led.
+fortune: A conviction will be ready — find the form that allows others to arrive at it themselves, without being led.
 ---
 
 Fried Beans born in the Year of the Umami Kidney Bean are the Bean Zodiac's most moralistic — they're not prepared to stay quiet about what is right.

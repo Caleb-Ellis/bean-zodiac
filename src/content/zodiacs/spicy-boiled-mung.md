@@ -6,7 +6,7 @@ form: boiled
 trait: worrisome
 dish: Nokdu juk - Korean mung bean porridge with gochugaru and sesame.
 quote: I have known a great many troubles, but most of them never bean.
-fortune: Not every worry you have carried this season was yours to carry, and not every preparation made the outcome better — let the season end with something unresolved.
+fortune: Not every preparation will improve the outcome — let one thing come that you did not prepare for, and see what happens.
 ---
 
 Boiled Beans born in the Year of the Spicy Mung Bean are the Bean Zodiac's most worrisome — every risk feels immediate and impossible to set down.

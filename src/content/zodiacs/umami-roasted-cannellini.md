@@ -6,7 +6,7 @@ form: roasted
 trait: forthcoming
 dish: Fagioli al forno - roasted cannellini with parmesan, sage, and garlic.
 quote: Come in, come in. The bean is always on and I have been meaning to tell you something.
-fortune: What you have been offering this season has been useful — let the conversation find its own way, occasionally, and see what it brings to you.
+fortune: A conversation will want to find its own way — let it, occasionally, and see what it brings back.
 ---
 
 Roasted Beans born in the Year of the Umami Cannellini Bean are the Bean Zodiac's most forthcoming — they don't wait to be asked for what they know.

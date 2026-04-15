@@ -6,7 +6,7 @@ form: fried
 trait: organized
 dish: Spicy navy bean fritters with smoked paprika and hot sauce.
 quote: For every minute spent organizing, a bean is earned.
-fortune: The system has held this season — ask once before the next begins what it is in service of, and whether the answer is still the right one.
+fortune: The system will hold — ask once before it does what it is in service of, and whether the answer is still the right one.
 ---
 
 Fried Beans born in the Year of the Spicy Navy Bean are the Bean Zodiac's most organized — their system lets them act decisively.

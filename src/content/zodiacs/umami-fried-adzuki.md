@@ -6,7 +6,7 @@ form: fried
 trait: passionate
 dish: Adzuki chahan - Japanese fried rice with adzuki beans, soy sauce, and scallion.
 quote: Anything that gets your bean racing is worth doing!
-fortune: What you love this season can hold your full attention — give it freely, and ask once whether the heat is a gift or a pressure.
+fortune: A love will ask for your full attention — give it freely, and ask once whether the heat is a gift or a pressure.
 ---
 
 Fried Beans born in the Year of the Umami Adzuki Bean are the Bean Zodiac's most passionate — what deserves to be marked is, fully.

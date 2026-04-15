@@ -6,7 +6,7 @@ form: fermented
 trait: offbeat
 dish: Chickpea fatteh with shatta - Lebanese flatbread and chickpea dish with Palestinian fermented hot sauce.
 quote: I've lost my damn beans.
-fortune: The route you have taken this season is yours — hold onto the warmth that makes it worth following, so others can find the way in.
+fortune: The route is yours — hold onto the warmth that makes it worth following, so others can find the way in.
 ---
 
 Fermented Beans born in the Year of the Spicy Chickpea are the Bean Zodiac's most offbeat — they connect easily but land on unexpected ground.

@@ -6,7 +6,7 @@ form: roasted
 trait: elegant
 dish: Bisque - roasted black beans with bitter espresso cream.
 quote: Elegance is not about being noticed, it's about being bean.
-fortune: The depth you carry this season was never meant to be kept to yourself — let one person in past the surface.
+fortune: The depth you carry will find someone who wants to be let past the surface — be there when they arrive.
 ---
 
 Roasted Beans born in the Year of the Bitter Black Bean are the Bean Zodiac's most elegant — depth that needs no announcement.

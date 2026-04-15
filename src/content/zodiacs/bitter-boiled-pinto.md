@@ -6,7 +6,7 @@ form: boiled
 trait: detail-oriented
 dish: Pinto bean caldo with epazote and tomatillo.
 quote: The bean is in the details.
-fortune: This season, step back from the brushwork far enough to see whether the whole canvas is going in the direction you intended.
+fortune: The whole will become visible soon — step far enough back to see it before the detail work consumes the remainder.
 ---
 
 Boiled Beans born in the Year of the Bitter Pinto Bean are the Bean Zodiac's most detail-oriented — they notice what others skip, finding errors most miss.

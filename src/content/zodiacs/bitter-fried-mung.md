@@ -6,7 +6,7 @@ form: fried
 trait: cautious
 dish: Pajeon - mung bean pancakes with bitter greens and vinegar dip.
 quote: Look before you bean.
-fortune: The assessment is finished — this season, the next right move is not another check but the action the checking was preparing you for.
+fortune: The next right move is the action, not another check — when the moment comes, the preparation is finished.
 ---
 
 Fried Beans born in the Year of the Bitter Mung Bean are the Bean Zodiac's most cautious — they check everything before acting fast.

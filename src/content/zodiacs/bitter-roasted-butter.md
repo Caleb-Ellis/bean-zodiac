@@ -6,7 +6,7 @@ form: roasted
 trait: indulgent
 dish: Gratin - butter beans with bitter radicchio and taleggio.
 quote: If I have one more bean I'm gonna pop!
-fortune: This season, do one thing inconvenient — not to suffer, but to remember what you are choosing when you choose the good version.
+fortune: Something inconvenient is coming — do it anyway, not to suffer, but to remember what you are choosing when you choose the good version.
 ---
 
 Roasted Beans born in the Year of the Bitter Butter Bean are the Bean Zodiac's most indulgent — quality is non-negotiable.

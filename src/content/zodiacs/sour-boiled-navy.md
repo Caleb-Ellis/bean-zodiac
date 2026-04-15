@@ -6,7 +6,7 @@ form: boiled
 trait: literal-minded
 dish: Navy bean and escarole soup with lemon and Parmesan.
 quote: When I use a bean, it means just what I choose it to mean — neither more nor less.
-fortune: What was said this season is what was meant — the clarity this brings to others is worth more than they have told you.
+fortune: What you say will be taken at its word — the clarity this brings will be worth more than those who receive it know how to say.
 ---
 
 Boiled Beans born in the Year of the Sour Navy Bean are the Bean Zodiac's most literal-minded — what is said is what is meant.

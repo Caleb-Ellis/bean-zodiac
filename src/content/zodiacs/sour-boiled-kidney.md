@@ -6,7 +6,7 @@ form: boiled
 trait: trustworthy
 dish: German kidney bean and sauerkraut soup with caraway.
 quote: The secret of getting ahead is getting bean.
-fortune: What was promised this season is being kept — the Beans who are watching have noticed, even if they have not said so.
+fortune: What you have promised will be tested — keep it, and the Beans watching will build something on what they observe.
 ---
 
 Boiled Beans born in the Year of the Sour Kidney Bean are the Bean Zodiac's most trustworthy — they tell the truth and stay.

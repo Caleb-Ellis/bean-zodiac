@@ -6,7 +6,7 @@ form: smoked
 trait: unbridled
 dish: Besara - Egyptian smoked fava bean soup with caramelised onion and dried chili.
 quote: Born free, as bean as the wind blows.
-fortune: The motion this season had no natural boundary and didn't look for one — the season ahead asks for the difference between the limit that constrains you and the one that keeps what you're building in the world.
+fortune: A motion will find its limit — learn the difference between the limit that constrains you and the one that keeps what you are building in the world.
 ---
 
 Smoked Beans born in the Year of the Spicy Fava Bean are the Bean Zodiac's most unbridled — the courage has found the accelerant, and no one can say where the boundary has gone.

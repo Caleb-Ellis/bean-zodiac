@@ -5,8 +5,8 @@ flavour: spicy
 form: fried
 trait: spontaneous
 dish: Pakora - spiced chickpea fritters with green chili.
-quote: Let's go! A bean in motion gathers no moss!
-fortune: The things you started this season are still open — pick one, stay with it past the exciting beginning, and find out what it was.
+quote: Life is either a daring adventure or no bean at all.
+fortune: The things started will still be open — pick one, stay past the exciting beginning, and find out what it was.
 ---
 
 Fried Beans born in the Year of the Spicy Chickpea are the Bean Zodiac's most spontaneous — they don't wait.

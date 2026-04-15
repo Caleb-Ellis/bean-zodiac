@@ -6,7 +6,7 @@ form: smoked
 trait: piercing
 dish: Ribollita - Tuscan bread soup with cannellini, smoked pancetta, cavolo nero, and red wine vinegar
 quote: The truth will bean you free.
-fortune: You saw the matter of things this season before the room had finished arranging itself — the season ahead asks that you wait until the room is ready to receive what you are offering.
+fortune: You will see to the matter of something before the room has finished arranging itself — wait until the room is ready to receive what you are offering.
 ---
 
 Smoked Beans born in the Year of the Sour Cannellini Bean are the Bean Zodiac's most piercing — their discernment arrives before the sentence has been finished.

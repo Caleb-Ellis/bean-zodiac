@@ -5,8 +5,8 @@ flavour: spicy
 form: fermented
 trait: obsessive
 dish: Kidney bean gochujang jorim - Korean braised kidney beans in fermented chili paste.
-quote: One bean, one passion, one purpose — and a man becomes invincible.
-fortune: The obsession has been faithful this season — surface once before it closes, not to redirect, but to check that where you are is still where you meant to be.
+quote: One passion, one purpose — and a bean becomes invincible.
+fortune: The obsession will be faithful — surface once before it closes, not to redirect, but to check that where you are is still where you meant to be.
 ---
 
 Fermented Beans born in the Year of the Spicy Kidney Bean are the Bean Zodiac's most obsessive — they have found the thing and will not stop.

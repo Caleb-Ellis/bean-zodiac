@@ -6,7 +6,7 @@ form: fermented
 trait: calculating
 dish: Navy bean and aged miso gratin with Gruyère and toasted breadcrumb.
 quote: It is not enough to bean well; one must also bean at the right time.
-fortune: The plan is finished — this season, commit to it before the calculation becomes its own purpose and the moment it was designed for passes.
+fortune: The plan is finished — commit to it before the calculation becomes its own purpose and the moment it was designed for passes.
 ---
 
 Fermented Beans born in the Year of the Umami Navy Bean are the Bean Zodiac's most calculating — they've been working through the angles longer than anyone knows.

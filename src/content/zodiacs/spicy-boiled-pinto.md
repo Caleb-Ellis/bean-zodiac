@@ -6,7 +6,7 @@ form: boiled
 trait: moody
 dish: Frijoles de olla - pinto beans simmered with chile de árbol.
 quote: I am not moody — I am a bean with feelings.
-fortune: The moods of this season have their own pattern — map the recurring ones and let the Beans near you know when the significant one is coming.
+fortune: A recurring pattern will become visible — let the Beans near you know when the significant one is approaching.
 ---
 
 Boiled Beans born in the Year of the Spicy Pinto Bean are the Bean Zodiac's moodiest — their weather changes constantly and means it each time.

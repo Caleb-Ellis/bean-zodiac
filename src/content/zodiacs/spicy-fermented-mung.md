@@ -6,7 +6,7 @@ form: fermented
 trait: compulsive
 dish: Gỏi đậu xanh - Vietnamese mung bean salad with fermented fish sauce and bird's eye chili.
 quote: The chains of bean are too light to be felt until they are too heavy to be broken.
-fortune: The loop that has run longest this season is the one most worth interrupting — not to end it, but to find out what you do in the gap.
+fortune: The loop that has run longest will ask to be interrupted — find the gap, and see what you do in it.
 ---
 
 Fermented Beans born in the Year of the Spicy Mung Bean are the Bean Zodiac's most compulsive — they return to certain things with a regularity that puzzles them.

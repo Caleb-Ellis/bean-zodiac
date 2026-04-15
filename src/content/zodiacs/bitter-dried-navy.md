@@ -6,7 +6,7 @@ form: dried
 trait: rigid
 dish: Boston Baked Beans - with blackstrap molasses.
 quote: Rules are for the guidance of wise beans and the obedience of fools.
-fortune: The structure you have held this season is real — ask whether the rule still knows its own reason, or has simply become its own defense.
+fortune: A rule you follow will be tested by something it was not designed for — when that happens, ask whether the rule has earned this defense.
 ---
 
 Dried Beans born in the Year of the Bitter Navy Bean are the Bean Zodiac's most rigid — the principle is correct, the method is proven, and there is no argument that will move them.

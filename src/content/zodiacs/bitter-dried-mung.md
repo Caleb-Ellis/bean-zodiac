@@ -6,7 +6,7 @@ form: dried
 trait: clinical
 dish: Moong Dal - mung beans with methi and turmeric.
 quote: First, do no bean.
-fortune: The precision of your care this season is real — allow one instance of warmth that serves no function, just to remember you can.
+fortune: A moment will arrive that resists measurement — allow the warmth that serves no function, just to prove it still works.
 ---
 
 Dried Beans born in the Year of the Bitter Mung Bean are the Bean Zodiac's most clinical — they see what is depleted with precision and apply exactly what is needed, no more.

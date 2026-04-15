@@ -6,7 +6,7 @@ form: boiled
 trait: loyal
 dish: Caldo Verde - kidney beans and kale.
 quote: The bean that matters most is not the one you were born with, but the one you choose to keep.
-fortune: The commitment you have kept this season is real — examine once whether staying still serves the one you are staying for.
+fortune: A test of your loyalty is coming that will ask whether you are staying for them or staying for yourself.
 ---
 
 Boiled Beans born in the Year of the Bitter Kidney Bean are the Bean Zodiac's most loyal — they commit completely and stay, long after others leave.

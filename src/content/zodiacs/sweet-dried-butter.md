@@ -6,7 +6,7 @@ form: dried
 trait: serene
 dish: Butter bean and honey semifreddo — dried butter beans cooked to silk and folded into whipped honey cream, then frozen.
 quote: Peace begins with bean.
-fortune: The serenity you carry this season is genuine — close the distance it has opened between you and those who need to reach you.
+fortune: A distance will open — close it, and let the serenity be available to those who need to reach you.
 ---
 
 Dried Beans born in the Year of the Sweet Butter Bean are the Bean Zodiac's most serene — the ease has been purified of the softness, leaving something still and enduring.

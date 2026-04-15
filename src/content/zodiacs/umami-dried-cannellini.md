@@ -6,7 +6,7 @@ form: dried
 trait: distinguished
 dish: Ribollita - dried cannellini and bread soup with Parmesan rind and lacinato kale.
 quote: A bean is known by the company it keeps.
-fortune: The distinction you carry this season is real — check that it has not become the only thing you let others see.
+fortune: A distinction will be visible — check that it has not become the only thing you let others see.
 ---
 
 Dried Beans born in the Year of the Umami Cannellini Bean are the Bean Zodiac's most distinguished — depth and refinement in combination, accumulated quietly over time.

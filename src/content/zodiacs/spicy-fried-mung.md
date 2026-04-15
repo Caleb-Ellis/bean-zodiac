@@ -4,9 +4,9 @@ bean: mung
 flavour: spicy
 form: fried
 trait: high-strung
-dish: Bindaetteok - Korean mung bean pancake with kimchi and gochugaru.
-quote: Bean cannot endure either perfect solitude or perfect society.
-fortune: The season has given your nervous system more material than it needed — build the gap between signal and response before the next one starts, while you can still choose the size.
+dish: Bindaetteok — Korean mung bean pancake with kimchi and gochugaru.
+quote: Beans cannot endure either perfect solitude or perfect society.
+fortune: More material will arrive than your nervous system needs — build the gap between signal and response before it does, while you can still choose the size.
 ---
 
 Fried Beans born in the Year of the Spicy Mung Bean are the Bean Zodiac's most high-strung — they respond to everything immediately.

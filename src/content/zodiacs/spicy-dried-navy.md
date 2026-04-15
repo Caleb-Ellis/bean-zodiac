@@ -6,7 +6,7 @@ form: dried
 trait: unflinching
 dish: Boston baked beans - navy beans slow-baked with cayenne and dry mustard.
 quote: In matters of principle, stand like a bean.
-fortune: The resolve you maintained this season is real — check whether the thing you refused to move from has changed since you last looked at it.
+fortune: A resolve will be tested — before it is, check whether the thing you are refusing to move from has changed since you last looked at it.
 ---
 
 Dried Beans born in the Year of the Spicy Navy Bean are the Bean Zodiac's most unflinching — the fire has been noted, the position has not changed.

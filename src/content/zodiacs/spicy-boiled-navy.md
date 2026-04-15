@@ -6,7 +6,7 @@ form: boiled
 trait: guarded
 dish: Senate bean soup - navy bean with jalapeño and ham hock.
 quote: Good beans make good neighbours.
-fortune: The gate you have been keeping this season has held the right things out as often as the wrong ones — decide before it closes what it is actually protecting.
+fortune: A gate will be needed — decide before it closes what it is actually protecting.
 ---
 
 Boiled Beans born in the Year of the Spicy Navy Bean are the Bean Zodiac's most guarded — something significant is held in reserve.

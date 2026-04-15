@@ -6,7 +6,7 @@ form: smoked
 trait: wary
 dish: Smoked chickpea shawarma wrap with sumac-marinated onions and pickled turnips
 quote: Beware the bean of March.
-fortune: The caution this season was earned and correctly applied — the season ahead asks whether the wariness has found a room worth committing to, or is still remembering the rooms it has lost.
+fortune: A room worth committing to is coming — the wariness will need to decide whether this is it, or whether it is still remembering the rooms it has lost.
 ---
 
 Smoked Beans born in the Year of the Sour Chickpea are the Bean Zodiac's most wary — they have been everywhere, and they remember clearly what they found.

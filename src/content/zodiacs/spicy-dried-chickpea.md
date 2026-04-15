@@ -6,7 +6,7 @@ form: dried
 trait: combustible
 dish: Harira - Moroccan chickpea soup with ras el hanout.
 quote: It only takes a bean to start a great fire.
-fortune: The heat that followed you this season was not always planned — check what you are leaving in the rooms after you've gone.
+fortune: A heat will follow you into the next room — check what you are leaving behind before you go.
 ---
 
 Dried Beans born in the Year of the Spicy Chickpea are the Bean Zodiac's most combustible — they fit into every room, and in every room, eventually, something ignites.

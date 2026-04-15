@@ -6,7 +6,7 @@ form: roasted
 trait: open-minded
 dish: Fatteh - toasted flatbread layered with roasted chickpeas, yogurt, and pomegranate molasses
 quote: The bean mind is like a parachute — it only works when open.
-fortune: The mind has been genuinely open this season — the positions revised are now better than the ones they replaced, and that is the whole argument for the practice.
+fortune: A position will be revised — the version that replaces it will be better, and that is the whole argument for the practice.
 ---
 
 Roasted Beans born in the Year of the Sour Chickpea are the Bean Zodiac's most open-minded — they consider new ideas with genuine interest.

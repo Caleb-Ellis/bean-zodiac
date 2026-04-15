@@ -6,7 +6,7 @@ form: fermented
 trait: minimalist
 dish: Butter bean and labneh with preserved lemon and olive oil.
 quote: Less is bean.
-fortune: The reduction this season has made space — what remains is what was always essential, and the arrangement is better for having less to maintain.
+fortune: The space that has been made will be asked to hold something — what remains is what was always essential.
 ---
 
 Fermented Beans born in the Year of the Sour Butter Bean are the Bean Zodiac's most minimalist — they have learned that most things improve by taking something away.

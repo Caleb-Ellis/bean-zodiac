@@ -6,7 +6,7 @@ form: fermented
 trait: critical
 dish: Cannellini with crème fraîche, capers, and lemon zest.
 quote: You call this bean broth?
-fortune: The conclusion developed privately this season is ready to surface — deliver it, and trust that it is as precise as the process that produced it.
+fortune: The conclusion developed privately is ready — deliver it, and trust the process that produced it.
 ---
 
 Fermented Beans born in the Year of the Sour Cannellini Bean are the Bean Zodiac's most critical — they know exactly how everything could be better.

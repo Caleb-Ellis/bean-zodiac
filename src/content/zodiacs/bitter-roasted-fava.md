@@ -6,7 +6,7 @@ form: roasted
 trait: pioneering
 dish: Muhammara - roasted fava and bitter herbs.
 quote: Well-bean is that which is done for the first time.
-fortune: The territory you are opening this season is only as valuable as the path it leaves behind — check that what you are building is habitable for someone who follows.
+fortune: The territory you are about to open will have followers — check that what you are building is habitable for someone who comes after.
 ---
 
 Roasted Beans born in the Year of the Bitter Fava Bean are the Bean Zodiac's most pioneering — they venture into unmapped territory.

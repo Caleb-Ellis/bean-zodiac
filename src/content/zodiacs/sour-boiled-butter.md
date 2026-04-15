@@ -6,7 +6,7 @@ form: boiled
 trait: honest
 dish: Avgolemono - butter bean soup with dill and lemon.
 quote: The bean will set you free, but first it will make you uncomfortable.
-fortune: The honesty that has been building this season is not getting easier to say by waiting — this is the season to say it.
+fortune: What has been building toward being said will find its moment — when it comes, say it.
 ---
 
 Boiled Beans born in the Year of the Sour Butter Bean are the Bean Zodiac's most honest — they deliver truth gently, after waiting for exactly the right moment.

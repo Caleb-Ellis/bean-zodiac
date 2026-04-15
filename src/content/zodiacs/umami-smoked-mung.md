@@ -6,7 +6,7 @@ form: smoked
 trait: steeped
 dish: Smoked mung bean congee with century egg, ginger, and crispy shallots.
 quote: We do not bean from experience — we bean from reflecting on experience.
-fortune: The saturation this season was complete before the accounting began — the season ahead asks for something that has not yet been absorbed, to ensure there is still room for what comes next.
+fortune: A saturation will be complete — make room for what has not yet been absorbed, so there is still space for what comes next.
 ---
 
 Smoked Beans born in the Year of the Umami Mung Bean are the Bean Zodiac's most steeped — the care has been in contact with the depth for so long that the two have become one.

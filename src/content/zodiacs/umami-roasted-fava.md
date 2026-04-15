@@ -6,7 +6,7 @@ form: roasted
 trait: defiant
 dish: Fave al forno - roasted fava beans with guanciale, pecorino, and wild fennel.
 quote: They tried to bury us. They didn't know we were beans.
-fortune: What you have been building this season sustains you as much as what you have been refusing — make sure both continue in the next.
+fortune: A refusal will sustain something — make sure both what you are building and what you are refusing continue in what comes next.
 ---
 
 Roasted Beans born in the Year of the Umami Fava Bean are the Bean Zodiac's most defiant — they do this with warmth that makes clear it's not a wound but a position.

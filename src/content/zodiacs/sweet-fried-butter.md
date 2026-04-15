@@ -6,7 +6,7 @@ form: fried
 trait: nonchalant
 dish: Frittelle di fagioli — Tuscan fried white bean fritters, dusted with sugar and drizzled with chestnut honey.
 quote: Whatever, it's beans.
-fortune: Some things this season are asking for weight — learn to pick it up without losing yourself in it.
+fortune: A weight will ask to be picked up — learn to carry it without losing yourself in it.
 ---
 
 Fried Beans born in the Year of the Sweet Butter Bean are the Bean Zodiac's most nonchalant — things happen without making any visible dent.

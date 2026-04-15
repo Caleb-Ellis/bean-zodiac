@@ -6,7 +6,7 @@ form: boiled
 trait: patient
 dish: Kongjorim - black soybeans slow-braised in soy, ginger, and sesame.
 quote: Patience is bitter, but its bean is sweet.
-fortune: The waiting is not passivity — this season, let those around you see that the patience has direction.
+fortune: A direction will become visible — let those around you see that the patience was moving toward something.
 ---
 
 Boiled Beans born in the Year of the Umami Black Bean are the Bean Zodiac's most patient — they believe in the value of time.

@@ -6,7 +6,7 @@ form: fried
 trait: candid
 dish: Pat jeon with rice vinegar dipping sauce - Korean adzuki bean pancakes with a sharp sour dipping sauce.
 quote: The truth will set you bean.
-fortune: The candour this season has been received — trust that the Beans worth telling have already understood what you meant by it.
+fortune: The candour you carry will find the Beans worth telling — trust that they will understand what you mean by it.
 ---
 
 Fried Beans born in the Year of the Sour Adzuki Bean are the Bean Zodiac's most candid — honesty that arrives immediate and kind.

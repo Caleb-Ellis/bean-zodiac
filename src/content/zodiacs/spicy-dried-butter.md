@@ -6,7 +6,7 @@ form: dried
 trait: volatile
 dish: Gigantes plaki - Greek baked giant beans with dried Calabrian chili and preserved lemon.
 quote: Still waters bean deep.
-fortune: The shift in temperature this season surprised even you — learn the early signs and choose where the heat lands before it chooses for you.
+fortune: A shift is coming that will surprise even you — learn the early signs now, while there is still time to choose where the heat lands.
 ---
 
 Dried Beans born in the Year of the Spicy Butter Bean are the Bean Zodiac's most volatile — the calm is present, until suddenly it isn't.

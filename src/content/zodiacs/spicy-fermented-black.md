@@ -6,7 +6,7 @@ form: fermented
 trait: mysterious
 dish: Jajangmyeon - Korean noodles in fermented black bean and chili sauce.
 quote: I am not strange, I am just a bean.
-fortune: The mystery has been working in you this season without an audience — find the one Bean worth letting into it, not to explain, but to share.
+fortune: The right Bean to let into the mystery is closer than it seems — not to explain, but to share.
 ---
 
 Fermented Beans born in the Year of the Spicy Black Bean are the Bean Zodiac's most mysterious — they have not fully processed themselves.

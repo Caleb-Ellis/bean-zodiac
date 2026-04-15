@@ -6,7 +6,7 @@ form: smoked
 trait: budding
 dish: Leather britches - Appalachian smoked green beans with smoked fatback.
 quote: One bean does not a summer make.
-fortune: What began this season was not finished — it was begun, which is the correct stage for something with this much underneath it. Tend it consistently next season rather than checking whether it has arrived.
+fortune: What has begun will not arrive yet — tend it consistently rather than checking whether it has arrived.
 ---
 
 Smoked Beans born in the Year of the Umami Green Bean are the Bean Zodiac's most budding — the urgency is real, but the depth is still forming, and something essential has not yet arrived.

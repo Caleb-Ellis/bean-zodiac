@@ -6,7 +6,7 @@ form: fried
 trait: unreliable
 dish: Frijoles refritos con chorizo - pinto beans fried in lard with Mexican chorizo and ancho chile.
 quote: I am not bean enough to make promises I cannot keep.
-fortune: The season ends with its accounting — wait one beat before the next commitment, not to be less generous, but to be honest about the distance.
+fortune: An accounting is coming — wait one beat before the next commitment, not to be less generous, but to be honest about the distance.
 ---
 
 Fried Beans born in the Year of the Umami Pinto Bean are the Bean Zodiac's most unreliable — they mean everything they promise in the moment.

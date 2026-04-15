@@ -6,7 +6,7 @@ form: fermented
 trait: philosophical
 dish: Hatcho miso shiru - adzuki simmered in two-year aged hatcho miso with silken tofu.
 quote: I think, therefore I am a bean.
-fortune: The inquiry has been real and the season has given it time — bring the question outward before the conclusion, and let someone else sit with it.
+fortune: A question will want to be brought outward — share it before the conclusion, and let someone else sit with it.
 ---
 
 Fermented Beans born in the Year of the Umami Adzuki Bean are the Bean Zodiac's most philosophical — they've thought everything through.

@@ -6,7 +6,7 @@ form: dried
 trait: cryptic
 dish: Frijoles de Olla - with ancho chile and epazote.
 quote: Any sufficiently advanced bean is indistinguishable from magic.
-fortune: The work you have made this season contains something real — offer one person the key, and let them tell you what they found.
+fortune: Someone will want the key — offer it before they stop looking.
 ---
 
 Dried Beans born in the Year of the Bitter Pinto Bean are the Bean Zodiac's most cryptic — the markings are there, the meaning is not offered freely.

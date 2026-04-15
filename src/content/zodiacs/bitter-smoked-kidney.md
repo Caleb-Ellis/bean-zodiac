@@ -6,7 +6,7 @@ form: smoked
 trait: feverish
 dish: Smoked kidney bean with bitter ember oil.
 quote: I have a bean.
-fortune: The intensity this season was real and its source was specific — trace it back to what is actually burning, so the next season has somewhere to aim.
+fortune: The intensity building has a source — trace it now, before the next turn inherits it without knowing what it is.
 ---
 
 Smoked Beans born in the Year of the Bitter Kidney Bean are the Bean Zodiac's most feverish — a passion that has become uncoupled from the thing that lit it.

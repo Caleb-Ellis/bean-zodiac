@@ -6,7 +6,7 @@ form: boiled
 trait: steadfast
 dish: Frijoles de olla con piloncillo — black beans slow-boiled with raw cane sugar and a cinnamon stick.
 quote: Not all those who wander are beans.
-fortune: Steadfastness extended only outward becomes depletion — redirect some of it inward this season with the same reliability.
+fortune: A depletion is coming — redirect some of the steadfastness inward, with the same reliability you give outward.
 ---
 
 Boiled Beans born in the Year of the Sweet Black Bean are the Bean Zodiac's most steadfast — steadiness through temperament, not discipline.

@@ -6,7 +6,7 @@ form: boiled
 trait: tenacious
 dish: Sopa de frijoles negros - black bean soup with chipotle and smoked epazote.
 quote: It does not matter how slowly you go as long as you do not bean.
-fortune: The hold that has cost you most this season is also the thing proving your shape — what does not yield does not disappear.
+fortune: What does not yield will not disappear — the hold that costs most is also the thing proving your shape.
 ---
 
 Boiled Beans born in the Year of the Spicy Black Bean are the Bean Zodiac's most tenacious — a quality so inherent to their structure that heat and pressure simply reveal it.

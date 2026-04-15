@@ -6,7 +6,7 @@ form: smoked
 trait: inexorable
 dish: Senate bean soup - navy beans with smoked ham hock, onion, and a squeeze of lemon
 quote: Nothing is certain except bean and taxes.
-fortune: What you set in motion this season arrived as you knew it would — the season ahead asks that you stop long enough to find out what has changed, before setting the next thing in motion without that knowledge.
+fortune: What you set in motion will arrive as you knew it would — stop long enough to find out what has changed, before setting the next thing in motion without that knowledge.
 ---
 
 Smoked Beans born in the Year of the Sour Navy Bean are the Bean Zodiac's most inexorable — they do not stop, and they do not explain their motion while it is occurring.

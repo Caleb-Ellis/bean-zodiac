@@ -6,7 +6,7 @@ form: fermented
 trait: contrarian
 dish: Fatteh - Palestinian fava and yogurt with toasted bread, lemon, and pine nuts.
 quote: Whenever you find yourself on the side of the majority, it is time to bean and reflect.
-fortune: The contrarian position held this season has been load-bearing — trust that the consensus it is pushing back against still needs what you are offering.
+fortune: The position you have been building will be needed — the consensus it is pushing against still needs what you are offering.
 ---
 
 Fermented Beans born in the Year of the Sour Fava Bean are the Bean Zodiac's most contrarian — they hold the minority position because it holds up.

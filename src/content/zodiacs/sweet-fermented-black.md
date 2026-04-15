@@ -6,7 +6,7 @@ form: fermented
 trait: contemplative
 dish: Black bean and white miso caramel tart — sweet miso folded into caramel over a black bean base, baked until just set.
 quote: I think, therefore I am a bean.
-fortune: What you have been thinking about this season is ready — find the form that makes it available to someone other than you.
+fortune: What you have been thinking will find the form to be available to someone other than you — watch for the moment.
 ---
 
 Fermented Beans born in the Year of the Sweet Black Bean are the Bean Zodiac's most contemplative — occupied with an interior that has been working for a long time.

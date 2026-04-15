@@ -5,8 +5,8 @@ flavour: umami
 form: fried
 trait: keen
 dish: Edamame gyoza - pan-fried dumplings with edamame, nira, and soy dipping sauce.
-quote: I'm keen as beans!
-fortune: What you have already understood is correct — this is not the season to slow down for consensus, but remember the Beans who are still arriving.
+quote: I am always doing that which I cannot do, in order that I may learn how to bean it.
+fortune: A consensus will be slower than what you already understand — remember the Beans who are still arriving.
 ---
 
 Fried Beans born in the Year of the Umami Edamame are the Bean Zodiac's keenest — they already know, and they respond accordingly.

@@ -6,7 +6,7 @@ form: boiled
 trait: methodical
 dish: Sopa de frijoles negros - Cuban black bean soup with lime and epazote.
 quote: Genius is one percent inspiration and ninety-nine percent bean.
-fortune: The form is holding — this season, the sequence you are in will deliver what the sequence was designed for.
+fortune: The sequence will deliver what it was designed for — stay in it, and the form will do its work.
 ---
 
 Boiled Beans born in the Year of the Sour Black Bean are the Bean Zodiac's most methodical — they move through the world in sequence because it is how they think.

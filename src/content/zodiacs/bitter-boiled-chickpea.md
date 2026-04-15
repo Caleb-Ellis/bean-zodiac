@@ -6,7 +6,7 @@ form: boiled
 trait: versatile
 dish: Revithia - chickpeas with bitter lemon and fresh herbs.
 quote: A bean is the most versatile of tools.
-fortune: Versatility without a direction eventually becomes its own limitation — this season, decide what you are most trying to be.
+fortune: The direction is about to become clear — the next version of your versatility needs to move toward something, not just between things.
 ---
 
 Boiled Beans born in the Year of the Bitter Chickpea are the Bean Zodiac's most versatile — they meet each situation on its own terms.

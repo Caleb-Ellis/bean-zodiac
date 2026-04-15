@@ -6,7 +6,7 @@ form: fermented
 trait: observant
 dish: Shio koji edamame - edamame marinated in fermented rice koji with salt and yuzu.
 quote: The world is full of obvious things which no bean by any chance ever observes.
-fortune: What has been quietly accumulating this season has become understanding — share it with the Beans who were in the room when you noticed it.
+fortune: An understanding has been quietly accumulating — share it with the Beans who were in the room when you noticed it.
 ---
 
 Fermented Beans born in the Year of the Umami Edamame are the Bean Zodiac's most observant — they hold what they notice for a long time before saying it.

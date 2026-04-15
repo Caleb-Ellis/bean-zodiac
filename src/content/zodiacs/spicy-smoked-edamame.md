@@ -6,7 +6,7 @@ form: smoked
 trait: ferocious
 dish: Dashi-smoked edamame with yuzu kosho - cold-smoked edamame with spicy citrus pepper paste.
 quote: Cry 'Havoc!' and let slip the beans of war.
-fortune: The force you brought this season was complete before the situation had finished understanding what occurred — next season, find a way to make the arrival legible before it is completed.
+fortune: A force will arrive before the situation has finished understanding it — find a way to make the arrival legible before it completes.
 ---
 
 Smoked Beans born in the Year of the Spicy Edamame are the Bean Zodiac's most ferocious — efficient, hot, and concluded before the situation has fully understood what occurred.

@@ -6,7 +6,7 @@ form: smoked
 trait: sardonic
 dish: Frijoles borrachos al mezcal - smoked pinto beans with mezcal, orange, and pasilla chile
 quote: Outside of a bean, a dog is a man's best friend. Inside of a bean, it's too dark to read.
-fortune: The dry remove you kept this season was not absence of feeling — it was feeling disguised as commentary. The season ahead asks for one thing said plainly, without the distance.
+fortune: A plain thing will need to be said without the distance — find the one occasion where the remove comes down.
 ---
 
 Smoked Beans born in the Year of the Sour Pinto Bean are the Bean Zodiac's most sardonic — their expressiveness has curdled into something that watches the proceedings from a slight remove.

@@ -4,9 +4,9 @@ bean: mung
 flavour: sour
 form: dried
 trait: spare
-dish: Mung bean soup with dried tangerine peel and ginger.
+dish: Ginisang munggo - mung bean soup with dried tangerine peel and ginger.
 quote: The most important thing in communication is to hear what isn't being beaned.
-fortune: The care you gave this season was real and went unmarked — let one person know they were tended, so they know to look for it next time.
+fortune: An act of care will go unmarked — let the person know they were tended, so they know to look for it next time.
 ---
 
 Dried Beans born in the Year of the Sour Mung Bean are the Bean Zodiac's most spare — the care is real, but it does not announce itself, and it does not stay longer than it is needed.

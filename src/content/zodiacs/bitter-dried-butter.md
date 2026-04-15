@@ -6,7 +6,7 @@ form: dried
 trait: stark
 dish: Dried butter beans in sage broth with bitter radicchio.
 quote: Tell me, what is it you plan to do with your one wild and precious bean?
-fortune: The clarity you have arrived at this season did not come cheaply — use it to build something, rather than as an ending.
+fortune: The clarity you have built will be needed by someone who does not yet know they need it — find the occasion before it finds you.
 ---
 
 Dried Beans born in the Year of the Bitter Butter Bean are the Bean Zodiac's most stark — all warmth stripped out, all ease removed, what remains is bare and genuine.

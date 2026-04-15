@@ -6,7 +6,7 @@ form: boiled
 trait: sincere
 dish: Adzuki bean soup with umeboshi and ginger broth.
 quote: This above all - to thine own bean be true
-fortune: What you mean this season, you mean without reservation — that is sufficient, and it is enough.
+fortune: What you mean will be asked to stand without explanation — it will hold, because it is genuine.
 ---
 
 Boiled Beans born in the Year of the Sour Adzuki Bean are the Bean Zodiac's most sincere — they celebrate only what they truly feel, and feel without restraint.

@@ -58,6 +58,7 @@
 }
 
 .markdown-content {
+  text-align: justify;
   p:not(:last-of-type) {
     margin-bottom: 1rem;
   }

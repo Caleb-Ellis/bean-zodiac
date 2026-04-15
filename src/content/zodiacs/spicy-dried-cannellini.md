@@ -6,7 +6,7 @@ form: dried
 trait: searing
 dish: Pasta e fagioli - dried cannellini and pasta soup with peperoncino.
 quote: I came, I saw, I beaned.
-fortune: The mark you left this season was real and deliberate — check whether each one was the mark you meant to make.
+fortune: A mark will be made — make sure each one is the mark you meant to make.
 ---
 
 Dried Beans born in the Year of the Spicy Cannellini Bean are the Bean Zodiac's most searing — the precision is exact and the heat is real, and together they leave a mark.

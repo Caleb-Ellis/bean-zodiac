@@ -6,7 +6,7 @@ form: boiled
 trait: dogmatic
 dish: Navy bean and escarole soup.
 quote: A bean convinced against his will is of the same opinion still.
-fortune: This season, find the oldest principle you hold and ask once whether the evidence it was built on still stands.
+fortune: A principle you hold will be challenged — ask before it arrives whether the challenge is wrong, or whether the principle has aged past its evidence.
 ---
 
 Boiled Beans born in the Year of the Bitter Navy Bean are the Bean Zodiac's most dogmatic — they apply a framework fully, conviction embedded so deeply it becomes invisible.

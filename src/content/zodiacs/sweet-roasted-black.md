@@ -6,7 +6,7 @@ form: roasted
 trait: resilient
 dish: Cocoa-roasted black beans — black beans tossed in cocoa powder and sugar, roasted until cracked and bittersweet.
 quote: That which does not bean us makes us stronger.
-fortune: Let the difficulty be named this season — resilience that goes unacknowledged suggests it wasn't real, and it was.
+fortune: A difficulty is coming that will want to be named — name it, and let the resilience be acknowledged.
 ---
 
 Roasted Beans born in the Year of the Sweet Black Bean are the Bean Zodiac's most resilient — through warmth and solidity that allows them to flex under pressure and return without fracturing.

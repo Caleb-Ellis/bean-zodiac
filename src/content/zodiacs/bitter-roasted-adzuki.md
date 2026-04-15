@@ -6,7 +6,7 @@ form: roasted
 trait: polished
 dish: Roasted adzuki soup with bitter cacao and orange peel.
 quote: Have no fear of bean perfection — you'll never reach it.
-fortune: The season will hold its shape even without you catching every edge — let the occasion be a little rough and stay in it anyway.
+fortune: An occasion will arrive that rewards imperfection — stay in it a little rough, and let the polish rest.
 ---
 
 Roasted Beans born in the Year of the Bitter Adzuki Bean are the Bean Zodiac's most polished — impeccable without being cold.

@@ -6,7 +6,7 @@ form: smoked
 trait: scalding
 dish: Cazuela de alubias - Castilian white bean stew with smoked chorizo and pimentón ahumado.
 quote: Out of the frying pan and into the bean.
-fortune: The precision you applied this season burned at full temperature — which was exact and not always the most refined response. Next season, remember that calibration and scalding come from the same source.
+fortune: A precision at full temperature is coming — remember that calibration and scalding come from the same source.
 ---
 
 Smoked Beans born in the Year of the Spicy Cannellini Bean are the Bean Zodiac's most scalding — their refinement has found a precision that burns.

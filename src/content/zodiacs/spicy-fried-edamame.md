@@ -6,7 +6,7 @@ form: fried
 trait: bold
 dish: Spicy edamame gyoza - pan-fried dumplings with doubanjiang dipping sauce.
 quote: Fortune favours the bean.
-fortune: The moves you made this season were correct — check once before the next one that you are still going first and not going alone.
+fortune: A move will be correct — check once before it that you are still going first and not going alone.
 ---
 
 Fried Beans born in the Year of the Spicy Edamame are the Bean Zodiac's most bold — they go first without waiting for ideal conditions.

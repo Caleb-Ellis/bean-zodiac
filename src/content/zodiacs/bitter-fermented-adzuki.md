@@ -6,7 +6,7 @@ form: fermented
 trait: nostalgic
 dish: Adzuki paste with aged miso and bitter yuzu kosho.
 quote: The past is never dead. It's not even bean.
-fortune: The memory you keep returning to this season is not asking to be relived — it is pointing at something still ahead of you.
+fortune: A memory is going to point at something ahead — follow the pointing, not the memory itself.
 ---
 
 Fermented Beans born in the Year of the Bitter Adzuki Bean are the Bean Zodiac's most nostalgic — they hold attachment to what has been good, worked through privately.

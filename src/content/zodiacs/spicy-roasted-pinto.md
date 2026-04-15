@@ -6,7 +6,7 @@ form: roasted
 trait: unpredictable
 dish: Frijoles charros - pinto beans simmered with roasted pasilla chiles, bacon, and jalapeño.
 quote: Consistency is the last refuge of the bean-less.
-fortune: The surprises this season have landed well — build enough of a foundation in the next one that they continue to read as features, not as weather.
+fortune: A surprise is coming — build enough of a foundation that it continues to read as a feature, not as weather.
 ---
 
 Roasted Beans born in the Year of the Spicy Pinto Bean are the Bean Zodiac's most unpredictable — no two appearances are the same.

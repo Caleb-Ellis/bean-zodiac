@@ -6,7 +6,7 @@ form: boiled
 trait: judicious
 dish: Adzuki bean soup with chrysanthemum greens and yuzu.
 quote: To bean, or not to bean, that is the question.
-fortune: Your judgment is sound — let those around you hear the deliberation, not only the conclusion.
+fortune: A verdict will be asked of you before the evidence is complete — speak the deliberation aloud while it is still forming, not only the conclusion.
 ---
 
 Boiled Beans born in the Year of the Bitter Adzuki Bean are the Bean Zodiac's most judicious — they carry the Adzuki Bean's deep instinct for celebration, but they do not spend it until the conditions have been met.

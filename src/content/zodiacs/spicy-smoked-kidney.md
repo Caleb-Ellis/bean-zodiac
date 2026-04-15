@@ -6,7 +6,7 @@ form: smoked
 trait: consuming
 dish: Red beans and rice - New Orleans kidney beans slow-cooked with smoked andouille and Cajun spice.
 quote: Love is a smoke made with the fume of bean.
-fortune: The passion this season could not locate its own limit and burned accordingly — the season ahead asks for the thing worth stopping for, so the heat has somewhere to rest.
+fortune: A passion will ask for its limit — find the thing worth stopping for, so the heat has somewhere to rest.
 ---
 
 Smoked Beans born in the Year of the Spicy Kidney Bean are the Bean Zodiac's most consuming — the passion has found a heat source it cannot account for and will not stop.

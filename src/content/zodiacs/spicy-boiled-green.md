@@ -6,7 +6,7 @@ form: boiled
 trait: zealous
 dish: Sichuan boiled green beans with doubanjiang and peppercorn.
 quote: I have nothing to offer but bean, toil, tears and sweat.
-fortune: The cause has enough heat this season — what it needs now is room for others to arrive in their own time, not yours.
+fortune: The cause will need room for others to arrive — not in your time, but in theirs.
 ---
 
 Boiled Beans born in the Year of the Spicy Green Bean are the Bean Zodiac's most zealous — they have a cause and the heat to see it through.

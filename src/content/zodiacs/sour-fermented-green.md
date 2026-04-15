@@ -6,7 +6,7 @@ form: fermented
 trait: quirky
 dish: Green bean kimchi - fermented green beans with gochugaru, garlic, and rice vinegar.
 quote: We are all bean, but some of us are looking at the stars.
-fortune: The strange direction this season has taken is the right one — the destination will be legible eventually, and it will be worth the route.
+fortune: The strange direction you are moving in is the right one — the destination will be legible eventually, and it will be worth the route.
 ---
 
 Fermented Beans born in the Year of the Sour Green Bean are the Bean Zodiac's quirkiest — they have emerged with something that cannot be easily categorised.

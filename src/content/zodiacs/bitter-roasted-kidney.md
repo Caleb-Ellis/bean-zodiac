@@ -6,7 +6,7 @@ form: roasted
 trait: proud
 dish: Roasted kidney bean stew with charred bitter peppers and smoked paprika.
 quote: It is not the bean that stoops who loses dignity, but the one who forgets why they stood.
-fortune: The pride you carry this season is warranted — let it be generous enough to make room for someone else's.
+fortune: A warranted pride is coming — let it be generous enough to make room for someone else's.
 ---
 
 Roasted Beans born in the Year of the Bitter Kidney Bean are the Bean Zodiac's most proud — they have standards and presence.

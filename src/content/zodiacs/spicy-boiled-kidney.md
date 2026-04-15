@@ -6,7 +6,7 @@ form: boiled
 trait: stubborn
 dish: Rajma - Punjabi kidney bean curry with dried red chilies and whole spices.
 quote: It does not matter how slowly you go so long as you do not bean.
-fortune: The ground you have held this season is worth examining once before the next begins — ask whether it is a principle you are holding or a pattern.
+fortune: A ground worth examining is coming — ask whether it is a principle you are holding or a pattern you are living in.
 ---
 
 Boiled Beans born in the Year of the Spicy Kidney Bean are the Bean Zodiac's most stubborn — pressure doesn't move them.

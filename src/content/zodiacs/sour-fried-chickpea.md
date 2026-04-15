@@ -6,7 +6,7 @@ form: fried
 trait: shrewd
 dish: Falafel with sumac onions - fried chickpea patties served with tangy sumac-pickled onions.
 quote: Politics is the art of looking for trouble, finding it everywhere, diagnosing it incorrectly, and applying the wrong beans.
-fortune: The reading this season has been accurate — trust it over the coming months, even when what you see is not what anyone else is saying.
+fortune: A reading forming in you will prove accurate — trust it over the coming months, even when what you see is not what anyone else is saying.
 ---
 
 Fried Beans born in the Year of the Sour Chickpea are the Bean Zodiac's shrewdest — they read Beans and situations with speed and accuracy.

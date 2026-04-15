@@ -6,7 +6,7 @@ form: fermented
 trait: idealistic
 dish: Cannellini and white miso soup with roasted garlic and rosemary.
 quote: Some beans see things as they are and ask why; I dream of beans that never were and ask why not.
-fortune: The ideal has not been revised this season, and it should not be — give the actual world one honest opportunity to be closer than it appeared.
+fortune: The ideal will hold — give the actual world one honest opportunity to be closer than it appeared.
 ---
 
 Fermented Beans born in the Year of the Umami Cannellini Bean are the Bean Zodiac's most idealistic — they haven't yet been convinced to revise their picture.

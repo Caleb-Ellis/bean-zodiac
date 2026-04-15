@@ -6,7 +6,7 @@ form: smoked
 trait: hushed
 dish: Southern succotash - smoked butter beans with corn, jalapeño, and smoked bacon.
 quote: Speak softly and carry a big bean.
-fortune: The stillness this season was clearly doing something — the season ahead asks that whatever is accumulating beneath the calm comes up before it becomes pressure.
+fortune: What is accumulating beneath the calm will ask to come up — let it, before it becomes pressure.
 ---
 
 Smoked Beans born in the Year of the Spicy Butter Bean are the Bean Zodiac's most hushed — the calm is present, and underneath it something is running at considerable heat.

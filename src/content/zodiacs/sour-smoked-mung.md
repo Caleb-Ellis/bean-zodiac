@@ -6,7 +6,7 @@ form: smoked
 trait: wispy
 dish: Smoked moong dal with kokum and fresh coconut - Goan dal with kokum fruit and smoked mustard
 quote: My candle burns at both ends; it will not last the bean.
-fortune: Your care this season drifted through rooms without finding a place to put itself down — the season ahead asks for one spot where the attention can stay long enough to repair something.
+fortune: An attention that drifts will be needed somewhere specific — find the spot where it can stay long enough to repair something.
 ---
 
 Smoked Beans born in the Year of the Sour Mung Bean are the Bean Zodiac's most wispy — their care passes through rooms without settling into any of them.

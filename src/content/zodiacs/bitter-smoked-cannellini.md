@@ -6,7 +6,7 @@ form: smoked
 trait: hermetic
 dish: Smoked cannellini with bitter fennel, sealed.
 quote: I want to bean alone.
-fortune: The enclosure you maintained this season was deliberate and had its reasons — the season ahead asks whether it can admit one unsorted thing without losing its integrity. It can.
+fortune: An unsorted thing will ask to enter — let it, and find out whether the enclosure survives one exception.
 ---
 
 Smoked Beans born in the Year of the Bitter Cannellini Bean are the Bean Zodiac's most hermetic — they have refined what they will allow through to almost nothing.

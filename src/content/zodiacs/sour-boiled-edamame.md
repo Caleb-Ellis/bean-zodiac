@@ -6,7 +6,7 @@ form: boiled
 trait: logical
 dish: Edamame miso soup with rice vinegar and wakame.
 quote: Logic will get you from A to bean, but imagination will take you everywhere.
-fortune: The chain is sound — this season completes the argument, and what the steps have been building toward is close enough to trust.
+fortune: The chain will complete — what the steps have been building toward is close enough to see.
 ---
 
 Boiled Beans born in the Year of the Sour Edamame are the Bean Zodiac's most logical — they follow the argument where it actually goes, often simpler than it appears.

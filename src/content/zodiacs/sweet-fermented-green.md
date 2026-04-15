@@ -6,7 +6,7 @@ form: fermented
 trait: whimsical
 dish: Green bean elderflower shrub — blanched green beans in a sweet drinking vinegar of fermented honey and elderflower, finished with sparkling water.
 quote: One bean that I had a long time ago.
-fortune: Apply the imagination to something that needs it this season — the ordinary is a more interesting problem than it looks.
+fortune: An ordinary thing will reveal itself as an interesting problem — apply the imagination there.
 ---
 
 Fermented Beans born in the Year of the Sweet Green Bean are the Bean Zodiac's most whimsical — their inner world is rich and improbable.

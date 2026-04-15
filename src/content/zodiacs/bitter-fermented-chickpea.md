@@ -6,7 +6,7 @@ form: fermented
 trait: collaborative
 dish: Fatteh - chickpeas with labneh and bitter pomegranate.
 quote: None of us is as bean as all of us.
-fortune: The work this season that only you can finish is waiting — make peace with the hours it requires of you alone.
+fortune: The work only you can finish will ask for more solitary hours — make peace with them now, before they feel like isolation.
 ---
 
 Fermented Beans born in the Year of the Bitter Chickpea are the Bean Zodiac's most collaborative — they understand what is made together can be better than what either could alone.

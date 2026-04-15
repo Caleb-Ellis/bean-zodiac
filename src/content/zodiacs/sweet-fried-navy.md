@@ -6,7 +6,7 @@ form: fried
 trait: romantic
 dish: Navy bean beignets — fried dough pillows with a white bean cream filling, dusted generously in powdered sugar.
 quote: My bean leaps up when I behold a rainbow in the sky.
-fortune: Love the Bean in front of you this season, not only the perfect version — loyalty given to a real thing is more durable than loyalty given to an ideal.
+fortune: A real Bean will appear where the ideal was — love them, not the perfect version, and the loyalty will be more durable.
 ---
 
 Fried Beans born in the Year of the Sweet Navy Bean are the Bean Zodiac's most romantic — they commit to Beans with absolute loyalty, delivered at full intensity.

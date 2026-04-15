@@ -6,7 +6,7 @@ form: fermented
 trait: thoughtful
 dish: Butter bean and kimchi broth with bitter greens.
 quote: The unexamined bean is not worth eating.
-fortune: What you have been working on this season has been refined long enough — let enough of it surface that others know the work is happening.
+fortune: The work you have been developing in private will be needed — let enough of it surface before the occasion arrives and finds you unprepared.
 ---
 
 Fermented Beans born in the Year of the Bitter Butter Bean are the Bean Zodiac's most thoughtful — nothing leaves their interior until properly considered and found worthy.

@@ -6,7 +6,7 @@ form: fried
 trait: proactive
 dish: Crispy chickpeas with fish sauce, toasted garlic, and lime.
 quote: Do not wait to strike till the bean is hot, but make it hot by striking.
-fortune: What you moved ahead of this season was real — ask, once, before the next season begins, so the autonomy you are protecting knows what you are doing.
+fortune: A move ahead of the situation is coming — ask once, before making it, so the autonomy you are protecting knows what you are doing.
 ---
 
 Fried Beans born in the Year of the Umami Chickpea are the Bean Zodiac's most proactive — they see what will be needed and address it before being asked.

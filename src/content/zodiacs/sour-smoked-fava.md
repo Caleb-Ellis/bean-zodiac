@@ -6,7 +6,7 @@ form: smoked
 trait: biting
 dish: Bessara - Moroccan smoked fava bean purée with harissa, cumin, and preserved lemon
 quote: If you can't stand the bean, get out of the kitchen.
-fortune: What you said this season needed saying — the season ahead asks whether the truth needed to be delivered at this temperature, or only discovered. Choose the temperature next time.
+fortune: A truth will need to be delivered — choose the temperature before it chooses itself.
 ---
 
 Smoked Beans born in the Year of the Sour Fava Bean are the Bean Zodiac's most biting — their courage has a way of surfacing truths that others had quietly agreed to leave alone.

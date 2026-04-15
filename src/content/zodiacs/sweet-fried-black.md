@@ -6,7 +6,7 @@ form: fried
 trait: driven
 dish: Black bean and sweet plantain fritters — mashed black beans and ripe plantain fried together in rounds, crisp outside and sweet within.
 quote: Stay hungry, stay bean.
-fortune: Check behind you this season — the warmth you carry was always meant to reach the Beans you are pulling, not only the destination.
+fortune: A destination will be approaching — the warmth you carry was always meant to reach the Beans behind you, not only what is ahead.
 ---
 
 Fried Beans born in the Year of the Sweet Black Bean are the Bean Zodiac's most driven — warmth and determination that moves outward, pulling others along without intention.

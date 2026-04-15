@@ -6,7 +6,7 @@ form: roasted
 trait: witty
 dish: Roasted edamame with bitter lemon zest and smoked paprika.
 quote: A bean is a terrible thing to waste.
-fortune: The sharpest observation this season is not the funny one — let one thing be said plainly, without the angle.
+fortune: The sharpest thing you could say will not be the funny one — let one thing be said plainly, without the angle.
 ---
 
 Roasted Beans born in the Year of the Bitter Edamame are the Bean Zodiac's wittiest — they are sharp without making others feel small.

@@ -6,7 +6,7 @@ form: fried
 trait: motivated
 dish: Honey butter fried edamame — soybeans deep-fried until blistered, tossed hot in honey butter and flaked salt.
 quote: The secret of getting ahead is getting bean started.
-fortune: Check the compass this season — momentum without direction is just speed, and what you are moving toward still needs to be yours.
+fortune: A momentum will build — check the compass, because what you are moving toward still needs to be yours.
 ---
 
 Fried Beans born in the Year of the Sweet Edamame are the Bean Zodiac's most motivated — reliably pointed toward something, moving with warmth and urgency that pulls others along.

@@ -6,7 +6,7 @@ form: smoked
 trait: murky
 dish: Mole negro - Oaxacan black beans simmered in smoked mulato and pasilla chile sauce.
 quote: Still waters run bean.
-fortune: Something moved through you this season at considerable heat and the surface showed almost nothing — the season ahead asks for enough surface clarity that whatever is inside can be approached.
+fortune: Something will move through you at considerable heat and want to surface — give it enough clarity to be approached.
 ---
 
 Smoked Beans born in the Year of the Spicy Black Bean are the Bean Zodiac's most murky — something is moving in there at some intensity, and it does not announce itself.

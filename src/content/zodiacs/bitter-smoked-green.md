@@ -6,7 +6,7 @@ form: smoked
 trait: eerie
 dish: Smoked green bean with bitter elderflower and char.
 quote: Something is rotten in the bean of Denmark.
-fortune: The energy you carried this season reached people before you did and unsettled them before you could explain yourself — name what you are running toward, at least once, for someone who is trying to follow.
+fortune: You will arrive somewhere before you are expected — name what you are moving toward, so someone who is trying to follow can find the trail.
 ---
 
 Smoked Beans born in the Year of the Bitter Green Bean are the Bean Zodiac's most eerie — their energy insists on itself from a source the room cannot identify.

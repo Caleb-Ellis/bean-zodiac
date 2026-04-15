@@ -6,7 +6,7 @@ form: boiled
 trait: careful
 dish: Mung bean and bitter melon soup.
 quote: Measure twice, bean once.
-fortune: The careful work this season has reached the point where one more check is not care — it is delay. Let it be done.
+fortune: The action is ready — one more check is not care, it is delay. When the moment arrives, do the thing.
 ---
 
 Boiled Beans born in the Year of the Bitter Mung Bean are the Bean Zodiac's most careful — they check before acting, understanding what it costs to get things wrong.

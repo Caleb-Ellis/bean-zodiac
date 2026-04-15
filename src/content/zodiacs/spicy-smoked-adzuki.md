@@ -6,7 +6,7 @@ form: smoked
 trait: incandescent
 dish: Adzuki doenjang-jjigae - adzuki beans in fermented soybean broth with smoked anchovy and gochugaru.
 quote: It is better to burn out than to bean away.
-fortune: The light you generated this season was not performance — it was you at full temperature, which is extraordinary and difficult to be near at length. Find the register next season that celebrates without overwhelming.
+fortune: You will be asked to burn at full temperature — find the register that is extraordinary without being difficult to remain near.
 ---
 
 Smoked Beans born in the Year of the Spicy Adzuki Bean are the Bean Zodiac's most incandescent — their festivity burns at a frequency that precedes any visible source.

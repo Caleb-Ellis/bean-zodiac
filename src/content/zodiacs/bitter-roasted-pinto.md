@@ -6,7 +6,7 @@ form: roasted
 trait: narcissistic
 dish: Frijoles Refritos - with roasted bitter chiles and lard.
 quote: I don't care what you think unless it's about my bean.
-fortune: This season, develop a genuine curiosity about something that is not a reflection — the world outside the mirror has been waiting.
+fortune: Something outside the mirror is about to ask for your full attention — give it, and find out what the world offers when you look outward.
 ---
 
 Roasted Beans born in the Year of the Bitter Pinto Bean are the Bean Zodiac's most narcissistic — warmth directed entirely inward.

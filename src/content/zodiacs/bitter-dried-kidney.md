@@ -6,7 +6,7 @@ form: dried
 trait: hardened
 dish: Louisiana Red Beans and Rice - with mustard greens.
 quote: What lies behind us and what lies before us are tiny matters compared to what lies bean us.
-fortune: The density you carry this season is not damage — ask whether it still leaves room for what is trying to get in.
+fortune: A density you carry will be mistaken for distance — find what is trying to get in, and leave a small opening.
 ---
 
 Dried Beans born in the Year of the Bitter Kidney Bean are the Bean Zodiac's most hardened — each season of difficulty has added density, not damage.

@@ -6,7 +6,7 @@ form: dried
 trait: incendiary
 dish: Dry-fried adzuki with Sichuan peppercorn and dried chili threads.
 quote: Set the world on bean.
-fortune: The fire you started this season is still burning — check whether what it is consuming was what you intended.
+fortune: A fire is building — check now whether what it will consume is what you intend.
 ---
 
 Dried Beans born in the Year of the Spicy Adzuki Bean are the Bean Zodiac's most incendiary — the joy has been concentrated into something that can start a fire.

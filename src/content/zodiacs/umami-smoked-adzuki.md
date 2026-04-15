@@ -6,7 +6,7 @@ form: smoked
 trait: hallowed
 dish: Smoked adzuki with dashi broth, ginger, and black sesame.
 quote: We hold these beans to be self-evident.
-fortune: The occasions you hallowed this season were genuine — the season ahead asks that the ceremony remain accessible, that it still has an entrance, and that the door is open before the rite begins.
+fortune: A ceremony is coming — keep the entrance open and the door visible before the rite begins.
 ---
 
 Smoked Beans born in the Year of the Umami Adzuki Bean are the Bean Zodiac's most hallowed — celebrations in their presence have the quality of ritual: slow-built, unrepeatable, and impossible to rush.

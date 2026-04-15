@@ -6,7 +6,7 @@ form: fried
 trait: temperamental
 dish: Kottu roti with kidney beans - Sri Lankan stir-fried roti with chili and curry.
 quote: Any bean can be angry — that is easy. But to be angry with the right person, to the right degree, at the right time, for the right purpose — that is not easy.
-fortune: The season's storms have moved through and cleared — what remains is yours, and attending to it now costs less than leaving it for the next season to inherit.
+fortune: A storm will move through and clear — what remains afterward is yours, and attending to it costs less than leaving it for what comes next.
 ---
 
 Fried Beans born in the Year of the Spicy Kidney Bean are the Bean Zodiac's most temperamental — heat doubling on itself creates immediate intensity.

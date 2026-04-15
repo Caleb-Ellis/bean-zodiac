@@ -6,7 +6,7 @@ form: fried
 trait: blunt
 dish: Edamame gyoza with black vinegar dipping sauce - pan-fried edamame dumplings with Zhenjiang vinegar.
 quote: A bean that is used to lying will find that the truth is a very uncomfortable thing.
-fortune: What was said plainly this season was useful — the Beans it landed hardest on will be the ones who return for more.
+fortune: What will need to be said plainly is coming — the Beans it lands hardest on will be the ones who return for more.
 ---
 
 Fried Beans born in the Year of the Sour Edamame are the Bean Zodiac's most blunt — unwilling to soften what can simply be said.

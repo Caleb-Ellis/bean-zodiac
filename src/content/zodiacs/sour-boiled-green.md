@@ -6,7 +6,7 @@ form: boiled
 trait: restless
 dish: Taze fasulye - Turkish green beans slow-cooked with lemon, garlic, and tomato.
 quote: I am not a bean at ease.
-fortune: The restlessness has not been wrong — let it point you toward the one thing that still needs doing, and finish that before it points somewhere else.
+fortune: The restlessness will point somewhere — when it does, follow it to the one thing that needs finishing before it redirects.
 ---
 
 Boiled Beans born in the Year of the Sour Green Bean are the Bean Zodiac's most restless — always adjusting between the need to move and the need to stay.

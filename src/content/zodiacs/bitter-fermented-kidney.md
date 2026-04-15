@@ -6,7 +6,7 @@ form: fermented
 trait: intense
 dish: Doenjang Jjigae - red beans with bitter greens.
 quote: Beware the bean who is quiet in a crisis.
-fortune: The intensity you have carried this season is ready to be felt, not only eventually known — find one outlet before the season closes.
+fortune: The intensity building in you will need an outlet before it finds its own — find one before the moment turns.
 ---
 
 Fermented Beans born in the Year of the Bitter Kidney Bean are the Bean Zodiac's most intense — they carry more beneath the surface than most will show.

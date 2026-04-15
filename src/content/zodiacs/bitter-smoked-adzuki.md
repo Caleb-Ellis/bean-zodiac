@@ -6,7 +6,7 @@ form: smoked
 trait: oracular
 dish: Smoked adzuki with bitter black garlic and charred citrus.
 quote: The unexamined bean is not worth living.
-fortune: You saw this season coming before it announced itself — the question it leaves is whether you shared the reading while there was still time to act on it. Next season, speak first.
+fortune: You will see what is coming before it announces itself — speak the reading while there is still time to act on it.
 ---
 
 Smoked Beans born in the Year of the Bitter Adzuki Bean are the Bean Zodiac's most oracular — they carry the Adzuki's instinct for knowing when a moment is coming before it has announced itself.

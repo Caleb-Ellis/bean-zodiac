@@ -6,7 +6,7 @@ form: fried
 trait: entrepreneurial
 dish: Panisse - chickpea fritters with bitter herb aioli.
 quote: The bean who moves a mountain begins by carrying away small stones.
-fortune: The thing you started this season that is already running is the one worth staying for — let it finish before the next gap appears.
+fortune: The thing already running will ask to be abandoned for the next gap — stay with it past the point where it gets interesting.
 ---
 
 Fried Beans born in the Year of the Bitter Chickpea are the Bean Zodiac's most entrepreneurial — they see what is missing and move to fill it.

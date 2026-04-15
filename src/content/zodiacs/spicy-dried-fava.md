@@ -6,7 +6,7 @@ form: dried
 trait: audacious
 dish: Bessara - Moroccan dried fava bean dip with cumin and chili oil.
 quote: Fortune favors the bean.
-fortune: The move you made this season before conditions were ideal was correct — the next one will ask the same of you.
+fortune: A move before conditions are ideal is coming — it will be correct, and the instinct that made it is trustworthy.
 ---
 
 Dried Beans born in the Year of the Spicy Fava Bean are the Bean Zodiac's most audacious — the work is difficult, the heat is significant, and they have chosen to proceed.

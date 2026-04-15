@@ -6,7 +6,7 @@ form: roasted
 trait: earnest
 dish: Sopa de frijol negro con tomatillo asado - black bean soup with roasted tomatillos and lime crema
 quote: The importance of being bean.
-fortune: The earnestness this season has cost something — trust that what it built in return is more durable than what a guarded approach would have produced.
+fortune: A cost will come with being earnest — what it builds in return will be more durable than what a guarded approach would have.
 ---
 
 Roasted Beans born in the Year of the Sour Black Bean are the Bean Zodiac's most earnest — genuinely in contact with what they feel.

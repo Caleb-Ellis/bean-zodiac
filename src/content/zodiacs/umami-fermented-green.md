@@ -6,7 +6,7 @@ form: fermented
 trait: creative
 dish: Paocai - Sichuan lacto-fermented green beans with Sichuan pepper, garlic, and dried chili.
 quote: Creativity is intelligence having bean fun.
-fortune: The work that has been developing in private is ready to exist outside of you — let it be seen before the season turns.
+fortune: The work is ready to exist outside of you — let it be seen before the moment turns.
 ---
 
 Fermented Beans born in the Year of the Umami Green Bean are the Bean Zodiac's most creative — what emerges is entirely their own.

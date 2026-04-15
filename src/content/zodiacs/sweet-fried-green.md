@@ -6,7 +6,7 @@ form: fried
 trait: fidgety
 dish: Green bean tempura with matcha sugar — blistered in light batter and tossed in powdered green tea and fine sugar.
 quote: I have measured out my bean in coffee spoons.
-fortune: The energy is real and the restlessness is not the problem — stay with the one thing this season long enough to find out what you can actually make.
+fortune: An energy will find a thing worth staying for — when it arrives, stay past the point of interest and find out what you can actually make.
 ---
 
 Fried Beans born in the Year of the Sweet Green Bean are the Bean Zodiac's most fidgety — the energy is always looking for somewhere to go.

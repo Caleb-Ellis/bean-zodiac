@@ -6,7 +6,7 @@ form: boiled
 trait: sarcastic
 dish: Pinto bean and tomatillo caldo with lime and serrano.
 quote: Sarcasm is the lowest form of wit but the highest form of bean.
-fortune: The longer observation has been forming all season — this is the time to let it fully develop before it becomes the thing everyone will remember.
+fortune: The long observation forming in you will find its moment — let it develop fully before it becomes the thing everyone remembers.
 ---
 
 Boiled Beans born in the Year of the Sour Pinto Bean are the Bean Zodiac's most sarcastic — they waited until the timing was exactly right.

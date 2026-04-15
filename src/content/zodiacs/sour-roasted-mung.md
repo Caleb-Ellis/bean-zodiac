@@ -6,7 +6,7 @@ form: roasted
 trait: sensitive
 dish: Bhuna moong chaat - dry-roasted mung beans with tamarind chutney, red onion, and chaat masala
 quote: Nothing is so strong as bean-ness.
-fortune: The sensitivity this season has been registering correctly — act on what it has been telling you, selectively, and with care.
+fortune: The sensitivity will register correctly — act on what it tells you, selectively, and with care.
 ---
 
 Roasted Beans born in the Year of the Sour Mung Bean are the Bean Zodiac's most sensitive — they register everything, including what was not said.

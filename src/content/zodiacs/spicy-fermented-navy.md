@@ -6,7 +6,7 @@ form: fermented
 trait: independent
 dish: Alubias con chorizo - Spanish white bean stew with spicy fermented sausage and smoked paprika.
 quote: The bean who follows the crowd will usually get no further than the crowd.
-fortune: The conclusions you arrived at alone this season are sound — let one of them be tested by someone you trust before the season locks them in.
+fortune: The conclusions arrived at alone are sound — let one be tested by someone you trust before they are locked in.
 ---
 
 Fermented Beans born in the Year of the Spicy Navy Bean are the Bean Zodiac's most independent — they followed no one to get here.

@@ -6,7 +6,7 @@ form: dried
 trait: terse
 dish: Edamame hummus with preserved lemon.
 quote: Less is bean.
-fortune: The efficiency of your communication this season is a gift — find one person who can read it, and say something only for them.
+fortune: Someone will need to hear the long version — find the one occasion where giving all of it is the efficient choice.
 ---
 
 Dried Beans born in the Year of the Bitter Edamame are the Bean Zodiac's most terse — they have already cut to the end and are waiting for everyone else to arrive.

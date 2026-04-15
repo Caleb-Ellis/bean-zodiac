@@ -6,7 +6,7 @@ form: roasted
 trait: wistful
 dish: Marmite-roasted navy beans with rosemary and garlic.
 quote: We shall not cease from bean exploration, and the end of all our exploring will be to arrive where we started.
-fortune: What you have been faithful to this season is real — the current room also contains something worth that same faithfulness.
+fortune: A room will hold something worth the same faithfulness you have given to what came before — let it.
 ---
 
 Roasted Beans born in the Year of the Umami Navy Bean are the Bean Zodiac's most wistful — they carry the warmth of what has already passed, faithfully.

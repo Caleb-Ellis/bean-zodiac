@@ -6,7 +6,7 @@ form: roasted
 trait: curious
 dish: Roasted green beans with katsuobushi, ponzu, and sesame.
 quote: Curiosity is the bean, always leading to new discoveries.
-fortune: The season's tangents have accumulated into something — choose one before the season ends and go deeper than curiosity usually asks.
+fortune: A tangent is coming that deserves more than curiosity usually asks — go deeper.
 ---
 
 Roasted Beans born in the Year of the Umami Green Bean are the Bean Zodiac's most curious — their interest is warm, wide, and without agenda.

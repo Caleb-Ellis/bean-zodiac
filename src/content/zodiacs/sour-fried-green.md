@@ -6,7 +6,7 @@ form: fried
 trait: impulsive
 dish: Gan bian si ji dou - Sichuan dry-fried green beans with garlic, chili, and Zhenjiang vinegar.
 quote: Bean first, and think afterwards is not a bad motto.
-fortune: The impulses this season have been tracking something real — the pattern is visible from further back than the individual decisions appear to be.
+fortune: The impulses tracking something real will become a visible pattern — it will be legible from further back than the individual decisions appear.
 ---
 
 Fried Beans born in the Year of the Sour Green Bean are the Bean Zodiac's most impulsive — thought and action arrive at the same moment.

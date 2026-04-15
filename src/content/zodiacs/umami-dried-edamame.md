@@ -6,7 +6,7 @@ form: dried
 trait: foundational
 dish: Hoshi edamame gohan - dried edamame and dried shiitake cooked into dashi rice.
 quote: Well-beaned is half done.
-fortune: The foundation you have laid this season is real — allow what is built on top of it to also be part of what you take credit for.
+fortune: A foundation will be built on — allow what is built on top of it to also be part of what you take credit for.
 ---
 
 Dried Beans born in the Year of the Umami Edamame are the Bean Zodiac's most foundational — they are the thing under the thing, holding the structure without requiring credit for it.

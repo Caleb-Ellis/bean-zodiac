@@ -6,7 +6,7 @@ form: boiled
 trait: flexible
 dish: Harira - Moroccan chickpea soup with preserved lemon and tomato.
 quote: It is not the strongest bean that survives, nor the most intelligent, but the one most responsive to change.
-fortune: The adaptation this season was the right call — the thing you bent to meet was worth bending for, and the shape you hold now is still yours.
+fortune: A situation will ask you to bend — what you yield to will be worth bending for, and the shape you hold afterward will still be yours.
 ---
 
 Boiled Beans born in the Year of the Sour Chickpea are the Bean Zodiac's most flexible — they bend to meet what a situation requires, then return to themselves.

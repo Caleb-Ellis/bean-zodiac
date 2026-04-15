@@ -6,7 +6,7 @@ form: fermented
 trait: unconventional
 dish: Green bean doenjang muchim - seasoned green beans with fermented soybean paste and gochugaru.
 quote: Here's to the crazy beans, the misfits, the rebels, the troublemakers.
-fortune: The unconventional route you have taken this season is right — show your working before the season ends, or the result will arrive without a path anyone else can follow.
+fortune: The unconventional route is right — show the working before the result arrives, or it will land without a path anyone else can follow.
 ---
 
 Fermented Beans born in the Year of the Spicy Green Bean are the Bean Zodiac's most unconventional — their way of doing things maps to no existing template.

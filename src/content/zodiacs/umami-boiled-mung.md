@@ -6,7 +6,7 @@ form: boiled
 trait: quiet
 dish: Vietnamese mung bean soup with pork and dried shrimp.
 quote: Silence is a bean's wisdom.
-fortune: The stillness has served its purpose this season — break it once, with the thing that has been waiting the longest to be said.
+fortune: A thing has been waiting the longest to be said — break the stillness with it.
 ---
 
 Boiled Beans born in the Year of the Umami Mung Bean are the Bean Zodiac's quietest — the noise around them decreases in their presence.

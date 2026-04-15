@@ -6,7 +6,7 @@ form: smoked
 trait: erratic
 dish: Texas chili con carne - smoked brisket and pinto beans in ancho and guajillo chile broth.
 quote: Life is what happens to you while you're busy bean other beans.
-fortune: The direction changed this season before it could be followed, at a temperature that left the room little choice — the season ahead asks for one thread followed far enough that the room can see where it leads.
+fortune: A thread will ask to be followed — carry it far enough that the room can see where it leads.
 ---
 
 Smoked Beans born in the Year of the Spicy Pinto Bean are the Bean Zodiac's most erratic — the expressiveness is vivid, the temperature is high, and the direction changes before it can be followed.

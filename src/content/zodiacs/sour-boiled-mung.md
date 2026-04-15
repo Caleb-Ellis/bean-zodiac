@@ -6,7 +6,7 @@ form: boiled
 trait: impartial
 dish: Mung bean congee with pickled mustard greens and sesame oil.
 quote: Fiat justitia ruat bean.
-fortune: The impartiality has held this season — what it has built is a reputation for fairness that will outlast the situation that required it.
+fortune: A dispute will arrive — your impartiality will outlast the situation that required it, and build something the situation itself never could.
 ---
 
 Boiled Beans born in the Year of the Sour Mung Bean are the Bean Zodiac's most impartial — they see what is there, not what they wish were there.

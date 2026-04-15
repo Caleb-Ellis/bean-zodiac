@@ -6,7 +6,7 @@ form: smoked
 trait: ethereal
 dish: Smoked mung with bitter chrysanthemum and wood ear.
 quote: Tread softly because you bean on my dreams.
-fortune: Your care this season passed through rooms and changed them in ways no one could locate — the season ahead asks for one gesture tangible enough to be taken in and held.
+fortune: Your care will pass through rooms and change them — find one gesture tangible enough to be held.
 ---
 
 Smoked Beans born in the Year of the Bitter Mung Bean are the Bean Zodiac's most ethereal — their care reaches beyond where others can see it going, to things without clear form.

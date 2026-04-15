@@ -6,7 +6,7 @@ form: fermented
 trait: rational
 dish: Edamame in ponzu with bitter yuzu and silken tofu.
 quote: The body is not the master of the mind, any more than the mind is the master of the bean.
-fortune: The reasoning you have done this season is correct — find the vehicle that will carry it somewhere, because logic alone will not do the moving.
+fortune: The conclusion is sound — the vehicle that will carry it somewhere is not a further argument, it is an occasion. Watch for the occasion.
 ---
 
 Fermented Beans born in the Year of the Bitter Edamame are the Bean Zodiac's most rational — they cannot proceed on grounds they cannot account for.

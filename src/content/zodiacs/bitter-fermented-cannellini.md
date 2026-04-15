@@ -6,7 +6,7 @@ form: fermented
 trait: scholarly
 dish: Cannellini in aged pecorino broth with bitter cicoria.
 quote: I have not failed. I have just found ten thousand ways that will not produce a bean.
-fortune: The scholarship you have accumulated this season is ready for the form that makes it useful — find the occasion, and bring the book outside.
+fortune: The right moment to bring what you have accumulated outward is closer than it feels — find it before the scholarship begins speaking only to itself.
 ---
 
 Fermented Beans born in the Year of the Bitter Cannellini Bean are the Bean Zodiac's most scholarly — they have a devoted relationship with knowledge, surfacing only when conclusion-ready.

@@ -6,7 +6,7 @@ form: smoked
 trait: exalted
 dish: Fagioli all'uccelletto - Tuscan cannellini with smoked pancetta, sage, and tomato.
 quote: The bean shall inherit the earth.
-fortune: What you reached this season was genuine and the height was earned — the season ahead asks that you find something worth being imperfect for, so what you've refined has somewhere human to land.
+fortune: A height will be reached again — find something worth being imperfect for, so what has been refined has somewhere human to land.
 ---
 
 Smoked Beans born in the Year of the Umami Cannellini Bean are the Bean Zodiac's most exalted — their refinement has ascended to something that is difficult to approach without a certain gravity.

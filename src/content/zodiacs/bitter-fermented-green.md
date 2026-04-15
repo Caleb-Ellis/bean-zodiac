@@ -6,7 +6,7 @@ form: fermented
 trait: imaginative
 dish: Szechuan pickled green beans with bitter melon and sesame.
 quote: Imagination is more important than bean.
-fortune: The vision taking shape this season should not arrive complete — share the draft before it is finished, and let the friction make it stranger and better.
+fortune: The draft that is forming will benefit from friction — share it before it is finished, and let the interference make it stranger and better.
 ---
 
 Fermented Beans born in the Year of the Bitter Green Bean are the Bean Zodiac's most imaginative — they see what isn't there yet and render it visible.

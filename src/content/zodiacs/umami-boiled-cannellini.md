@@ -6,7 +6,7 @@ form: boiled
 trait: conscientious
 dish: Pasta e fagioli - cannellini with anchovy paste and Parmesan rind.
 quote: In matters of bean, swim with the current; in matters of principle, stand like a cannellini.
-fortune: The careful work has been accumulating without announcement — this season, let yourself register what it has produced.
+fortune: A careful work will become visible — let yourself register what it has produced.
 ---
 
 Boiled Beans born in the Year of the Umami Cannellini Bean are the Bean Zodiac's most conscientious — they do things properly because proper is the point.

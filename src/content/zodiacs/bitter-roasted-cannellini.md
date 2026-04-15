@@ -6,7 +6,7 @@ form: roasted
 trait: refined
 dish: Bruschetta - cannellini with bitter olive tapenade and roasted garlic.
 quote: A bean by any other name would taste as fine.
-fortune: The refinement you carry this season is a gift, not a standard — turn it toward the surroundings rather than at them.
+fortune: The refinement you carry will be aimed at something — turn it toward the surroundings rather than at them.
 ---
 
 Roasted Beans born in the Year of the Bitter Cannellini Bean are the Bean Zodiac's most refined — they improve everything they touch.

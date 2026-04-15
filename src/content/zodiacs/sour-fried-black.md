@@ -6,7 +6,7 @@ form: fried
 trait: direct
 dish: Black bean tostadas with lime crema - refried black beans on a crisp fried tortilla with sour cream and lime.
 quote: Say what you bean and bean what you say.
-fortune: What was said this season landed — the directness that felt like a risk has built something more durable than a softer approach would have.
+fortune: A moment will ask for the direct version — what feels like a risk will build something more durable than a softer approach would have.
 ---
 
 Fried Beans born in the Year of the Sour Black Bean are the Bean Zodiac's most direct — they see it and say it.

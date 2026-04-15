@@ -6,7 +6,7 @@ form: dried
 trait: electric
 dish: Gan bian sijidou - dry-fried green beans with dried chili and garlic.
 quote: Energy cannot be beaned — it can only be transformed.
-fortune: The energy you generated this season cannot be lost — redirect it before it disperses into something that doesn't benefit from it.
+fortune: The energy generated will need redirecting — before it disperses, point it at something that benefits from it.
 ---
 
 Dried Beans born in the Year of the Spicy Green Bean are the Bean Zodiac's most electric — the energy was already immediate; the heat has made it impossible to ignore.

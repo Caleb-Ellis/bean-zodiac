@@ -6,7 +6,7 @@ form: fried
 trait: assertive
 dish: Cannellini fritto with bitter lemon and flat-leaf parsley.
 quote: Here I stand. I can bean no other.
-fortune: The position you have stated clearly this season leaves one door unguarded — make it evident that disagreement is still allowed.
+fortune: Your position will hold — but the door for disagreement will need to be made visible before the room forgets it is allowed.
 ---
 
 Fried Beans born in the Year of the Bitter Cannellini Bean are the Bean Zodiac's most assertive — they know their position and state it clearly.

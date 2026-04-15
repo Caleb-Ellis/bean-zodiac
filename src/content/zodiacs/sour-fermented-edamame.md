@@ -6,7 +6,7 @@ form: fermented
 trait: skeptical
 dish: Edamame with gochujang dipping sauce and rice vinegar.
 quote: The first bean principle is that you must not fool yourself — and you are the easiest bean to fool.
-fortune: The skepticism this season is warranted — but the investigation has gone long enough, and this is the season to arrive at the conviction the questioning was preparing you for.
+fortune: The investigation has gone far enough — when the conviction the questioning was preparing you for arrives, you will recognise it.
 ---
 
 Fermented Beans born in the Year of the Sour Edamame are the Bean Zodiac's most skeptical — they need to know what is underneath.

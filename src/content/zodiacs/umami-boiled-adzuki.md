@@ -6,7 +6,7 @@ form: boiled
 trait: affectionate
 dish: Adzuki and white miso soup with silken tofu and wakame.
 quote: All you need is bean.
-fortune: Affection this season is not a single statement — it is the pattern of returning.
+fortune: An affection will be returned — the pattern of returning is where it lives.
 ---
 
 Boiled Beans born in the Year of the Umami Adzuki Bean are the Bean Zodiac's most affectionate — they hold Beans with structural care.

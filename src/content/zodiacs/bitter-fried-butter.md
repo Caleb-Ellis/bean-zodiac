@@ -6,7 +6,7 @@ form: fried
 trait: deliberate
 dish: Schnitzel - crumbed butter beans with bitter salsa verde.
 quote: Well-behaved beans seldom make history.
-fortune: The axe you have been sharpening this season is sharp — the next move is not preparation, it is the thing itself.
+fortune: The thing itself is coming — the axe has been sharpened long enough. When the moment arrives, it is the thing, not the preparation.
 ---
 
 Fried Beans born in the Year of the Bitter Butter Bean are the Bean Zodiac's most deliberate — they act only after making sure it's worth doing.

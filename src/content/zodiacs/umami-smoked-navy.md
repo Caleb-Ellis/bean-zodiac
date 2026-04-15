@@ -6,7 +6,7 @@ form: smoked
 trait: timeless
 dish: Boston baked beans - navy beans slow-cooked with smoked salt pork, molasses, and mustard.
 quote: Time is a flat bean.
-fortune: What you carry felt like it predated any particular instance of it — the season ahead asks what is required today, in this room, so the timeless quality also has a present tense.
+fortune: A present tense is being asked for — what you carry needs today's room as well as the timeless one.
 ---
 
 Smoked Beans born in the Year of the Umami Navy Bean are the Bean Zodiac's most timeless — their reliability has gone deep enough that it feels like it predates any particular instance of it.

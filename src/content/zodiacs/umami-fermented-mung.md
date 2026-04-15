@@ -6,7 +6,7 @@ form: fermented
 trait: poetic
 dish: Doenjang juk - savory mung bean porridge with fermented soybean paste and sesame oil.
 quote: A bean should be more careful of his learning than of the pebble in his shoe.
-fortune: The season has given you material and the material has found its shape — send it, even on the days when the plain draft is all that is ready.
+fortune: The material has found its shape — send it, even on the days when the plain draft is all that is ready.
 ---
 
 Fermented Beans born in the Year of the Umami Mung Bean are the Bean Zodiac's most poetic — when they speak, the phrase lands and stays.

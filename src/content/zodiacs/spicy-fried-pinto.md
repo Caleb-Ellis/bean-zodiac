@@ -6,7 +6,7 @@ form: fried
 trait: chaotic
 dish: Chimichangas - deep-fried burritos with spicy pinto beans and ancho chili.
 quote: In the middle of every bean lies opportunity.
-fortune: The wake of this season is full of things worth finishing — choose one and stay with it past the point of interest, into the quieter country where the actual thing is.
+fortune: A wake full of unfinished things is coming — choose one and stay past the point of interest, into the quieter country where the actual thing is.
 ---
 
 Fried Beans born in the Year of the Spicy Pinto Bean are the Bean Zodiac's most chaotic — their wake is always interesting.

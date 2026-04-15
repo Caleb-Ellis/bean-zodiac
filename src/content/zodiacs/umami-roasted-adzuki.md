@@ -6,7 +6,7 @@ form: roasted
 trait: warm
 dish: Miso-roasted adzuki with black sesame and mirin.
 quote: There's no better feeling in the world than a warm bean on your lap.
-fortune: The warmth you have given this season has reached places you have not seen — tend yourself as well, so there is warmth left when the next one begins.
+fortune: A warmth will be needed — tend yourself as well, so there is some left when the occasion arrives.
 ---
 
 Roasted Beans born in the Year of the Umami Adzuki Bean are the Bean Zodiac's most warm — it's what they are like, the way a roasted bean fills the room.

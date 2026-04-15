@@ -6,7 +6,7 @@ form: dried
 trait: mellow
 dish: Gigantes plaki - dried butter beans baked with tomato, anchovy, and herbs.
 quote: All things come to beans who wait.
-fortune: The mellow you carry this season is earned, not inherited — allow it to be a choice rather than a condition.
+fortune: A mellowness will be a choice, not a condition — allow it to be conscious.
 ---
 
 Dried Beans born in the Year of the Umami Butter Bean are the Bean Zodiac's most mellow — the warmth is deep and slow, and nothing about their presence is ever in a hurry.

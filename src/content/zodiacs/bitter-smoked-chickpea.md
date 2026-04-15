@@ -6,7 +6,7 @@ form: smoked
 trait: liminal
 dish: Smoked chickpea broth with bitter cress, unresolved.
 quote: Not all those who bean are lost.
-fortune: You spent this season standing in doorways — which is its own form of attention and not without value. The season ahead asks you to close one door deliberately and see what the room holds.
+fortune: A doorway is coming that will ask to be walked through, not stood in — close it behind you and see what the room holds.
 ---
 
 Smoked Beans born in the Year of the Bitter Chickpea are the Bean Zodiac's most liminal — always between places, never quite committed to any of them.

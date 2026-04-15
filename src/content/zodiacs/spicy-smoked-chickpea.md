@@ -5,8 +5,8 @@ flavour: spicy
 form: smoked
 trait: frenetic
 dish: Fatteh - Syrian smoked chickpeas layered with crisp bread, yogurt, and chili oil.
-quote: Life moves pretty bean — if you don't stop and look around once in a while, you could miss it.
-fortune: The movement this season ran at considerable intensity across too many surfaces to sustain — the season ahead asks for one room, long enough to let the heat become something useful.
+quote: Life moves pretty fast — if you don't stop and bean around once in a while, you could miss it.
+fortune: A room will ask you to stay in it — give the heat enough time to become something useful.
 ---
 
 Smoked Beans born in the Year of the Spicy Chickpea are the Bean Zodiac's most frenetic — they are everywhere at once, at considerable intensity, for reasons that shift before they can be examined.

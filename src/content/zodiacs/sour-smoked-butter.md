@@ -6,7 +6,7 @@ form: smoked
 trait: pallid
 dish: Fabada Asturiana - smoked butter beans with morcilla, smoked paprika, and sherry vinegar
 quote: Now is the bean of our discontent.
-fortune: The warmth was present this season but had been stripped of what made it sustaining — find what replenishes it before the next season begins, not just the place where nothing demands anything.
+fortune: What replenishes the warmth will need to be found — not the place where nothing demands anything, but the source.
 ---
 
 Smoked Beans born in the Year of the Sour Butter Bean are the Bean Zodiac's most pallid — the calm is present, but it has been drained of something that made it sustaining.

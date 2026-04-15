@@ -6,7 +6,7 @@ form: smoked
 trait: dazzling
 dish: Bessara - smoked fava bean dip with smoked paprika, cumin, and honey drizzle.
 quote: All that glitters is not bean.
-fortune: What you produced this season was genuinely dazzling — the season ahead asks whether what you illuminated is still there once the light adjusts, and whether the landing was where you meant it to be.
+fortune: A dazzlement is coming — ask whether what you illuminate will still be there once the light adjusts.
 ---
 
 Smoked Beans born in the Year of the Sweet Fava Bean are the Bean Zodiac's most dazzling — their boldness has acquired a warmth that overwhelms before it clarifies.

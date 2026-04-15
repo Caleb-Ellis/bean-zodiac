@@ -6,7 +6,7 @@ form: fermented
 trait: defensive
 dish: Red beans and rice - Louisiana style with fermented hot sauce and lime.
 quote: The best bean is the one already inside the fortress.
-fortune: The walls built this season are buying the time needed to decide what they are protecting — that decision is almost made, and then the question becomes what happens next.
+fortune: A decision about the walls you have built is coming — they have been buying time to find what they are protecting, and that decision is almost made.
 ---
 
 Fermented Beans born in the Year of the Sour Kidney Bean are the Bean Zodiac's most defensive — they know exactly what they are protecting and why.

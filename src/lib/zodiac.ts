@@ -80,9 +80,9 @@ export const FormIds = {
 } as const;
 export const FORM_ORDER = [
   FormIds.Fried,
-  FormIds.Boiled,
-  FormIds.Fermented,
   FormIds.Roasted,
+  FormIds.Fermented,
+  FormIds.Boiled,
   FormIds.Smoked,
   FormIds.Dried,
 ] as const;

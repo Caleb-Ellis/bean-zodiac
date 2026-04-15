@@ -6,7 +6,7 @@ form: fermented
 trait: sympathetic
 dish: Sikhye with red beans — Korean sweet fermented rice punch with kidney beans, served chilled with pine nuts floating on top.
 quote: Could a greater bean or miracle take place than for us to look through each other's bean for an instant?
-fortune: Leave room this season for the other person's difficulty to be different from yours — sympathy that assumes is less useful than sympathy that asks.
+fortune: A difficulty will arrive that is different from yours — leave room for it to be what it is, not what you would expect.
 ---
 
 Fermented Beans born in the Year of the Sweet Kidney Bean are the Bean Zodiac's most sympathetic — they have processed their own experience enough to recognize what someone else is carrying.

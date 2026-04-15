@@ -6,7 +6,7 @@ form: boiled
 trait: unyielding
 dish: Spiced fava bean soup with berbere and lemon.
 quote: I am not a bean to be argued out of what I know to be right.
-fortune: What you have held firm on this season is real — ask once, before the season ends, whether the thing you are holding against is the situation or the feedback.
+fortune: A thing worth holding firm on is coming — before the moment, decide whether what you are holding against is the situation or the feedback.
 ---
 
 Boiled Beans born in the Year of the Spicy Fava Bean are the Bean Zodiac's most unyielding — once decided, nothing moves them.

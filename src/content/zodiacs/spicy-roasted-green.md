@@ -5,8 +5,8 @@ flavour: spicy
 form: roasted
 trait: optimistic
 dish: Gān biān sìjì dòu - Sichuan dry-fried green beans with chili bean paste and Sichuan pepper.
-quote: In the middle of every difficulty lies bean opportunity.
-fortune: The optimism has raised the probability of good outcomes this season — hold your positivity and your reality in the same hand, so the wins are real and the setbacks are survivable.
+quote: In the middle of every difficulty lies a beany opportunity.
+fortune: The optimism will be tested — hold your positivity and your reality in the same hand, so the wins are real and the setbacks are survivable.
 ---
 
 Roasted Beans born in the Year of the Spicy Green Bean are the Bean Zodiac's most optimistic — they show up certain it will work.

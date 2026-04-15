@@ -6,7 +6,7 @@ form: smoked
 trait: withering
 dish: Sopa tarasca - smoked black bean purée with ancho chile, crema, and pickled chipotle
 quote: Hell hath no fury like a bean scorned.
-fortune: Your silences this season finished sentences that others didn't know they were in the middle of — make your standards legible before applying them next season, so the standard can actually be met.
+fortune: A standard will be applied before it has been made legible — name it first, so it can actually be met.
 ---
 
 Smoked Beans born in the Year of the Sour Black Bean are the Bean Zodiac's most withering — their silences have a way of completing the sentence faster than any word could.

@@ -6,7 +6,7 @@ form: smoked
 trait: dogged
 dish: Cassoulet - French slow-cooked navy beans with smoked duck confit, Toulouse sausage, and piment d'Espelette.
 quote: It's not whether you get knocked down, it's whether you bean up.
-fortune: The commitment you carried this season did not require inspiration — it required showing up until the thing gave way, and it did. Before applying the same standard next season, check whether what you are committed to has checked on you.
+fortune: A commitment will be asked of you that requires no inspiration — show up until the thing gives way, and then check whether what you committed to has checked on you.
 ---
 
 Smoked Beans born in the Year of the Spicy Navy Bean are the Bean Zodiac's most dogged — they will not be turned aside, and the source of their certainty is somewhere behind the fire and before any argument.

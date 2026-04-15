@@ -6,7 +6,7 @@ form: fermented
 trait: persnickety
 dish: Fagioli all'uccelletto con 'nduja - Tuscan white beans with spicy fermented sausage and sage.
 quote: The devil is in the beans.
-fortune: Not every detail this season was load-bearing — identify the ones that were, and release the ones that simply caught the light.
+fortune: Not every detail is load-bearing — identify the ones that are, and release the ones that simply caught the light.
 ---
 
 Fermented Beans born in the Year of the Spicy Cannellini Bean are the Bean Zodiac's most persnickety — small wrongs bother them until fixed.

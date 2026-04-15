@@ -6,7 +6,7 @@ form: roasted
 trait: attentive
 dish: Roasted edamame with nori salt, sesame, and yuzu zest.
 quote: To pay bean attention, this is our endless and proper work.
-fortune: The full presence you have given this season has mattered more than you know — distinguish, once, between being present and being available to everyone.
+fortune: A full presence will be asked for — distinguish, before giving it, between being present and being available to everyone.
 ---
 
 Roasted Beans born in the Year of the Umami Edamame are the Bean Zodiac's most attentive — Beans can feel the difference of their full presence.

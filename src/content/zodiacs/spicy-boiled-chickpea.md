@@ -6,7 +6,7 @@ form: boiled
 trait: resourceful
 dish: Chana masala - chickpea curry with green chilies.
 quote: Necessity is the bean of invention.
-fortune: The season has given you more than you have used alone — the resource you keep overlooking is the one with a name and a phone number.
+fortune: A resource you have been overlooking is about to be needed — it has a name and a phone number.
 ---
 
 Boiled Beans born in the Year of the Spicy Chickpea are the Bean Zodiac's most resourceful — they make whatever is available work.

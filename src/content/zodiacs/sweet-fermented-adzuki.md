@@ -6,7 +6,7 @@ form: fermented
 trait: sentimental
 dish: Adzuki amazake pudding — red beans warmed through in sweet fermented rice drink with a strip of yuzu peel.
 quote: I kept the recipe. I kept everything.
-fortune: The feeling is not nothing — offer it this season without the caveat, and let the occasion be as large as it is.
+fortune: A feeling will arrive without a caveat — offer it at its full size, and let the occasion be as large as it is.
 ---
 
 Fermented Beans born in the Year of the Sweet Adzuki Bean are the Bean Zodiac's most sentimental — they feel the weight of occasions and Beans with completeness.

@@ -6,7 +6,7 @@ form: fried
 trait: opinionated
 dish: Adzuki bean crispy rice cakes with bitter orange syrup.
 quote: Well-beaned Beans are always dangerous.
-fortune: Your instincts this season are sound — the one opinion still forming is worth waiting for before you seal it.
+fortune: The one opinion still forming will be worth the wait — do not seal it before it has finished.
 ---
 
 Fried Beans born in the Year of the Bitter Adzuki Bean are the Bean Zodiac's most opinionated — they decide quickly and hold firmly.

@@ -6,7 +6,7 @@ form: boiled
 trait: composed
 dish: Ribollita - butter beans and cavolo nero.
 quote: Do I contradict myself? Very well then, I contain beans.
-fortune: The steadiness you carry this season is doing more than you know — let someone know you are there, not only that you are still.
+fortune: Someone nearby is waiting to know you are there — not that you are capable, but that you are present.
 ---
 
 Boiled Beans born in the Year of the Bitter Butter Bean are the Bean Zodiac's most composed — not through suppression, but through a genuine preference for stillness that nothing so far has managed to disturb.

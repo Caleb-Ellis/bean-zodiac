@@ -6,7 +6,7 @@ form: dried
 trait: tart
 dish: Sekihan - adzuki and sticky rice with dried pickled ume and sesame.
 quote: A bean a day keeps the doctor away.
-fortune: The edge you carry this season is not bitterness — it is earned flavour. Make sure those around you can tell the difference.
+fortune: An edge you carry will be recognised — make sure those around you can tell it is earned flavour, not bitterness.
 ---
 
 Dried Beans born in the Year of the Sour Adzuki Bean are the Bean Zodiac's most tart — the joy is real, but it comes with an edge that lets you know it was earned.

@@ -6,7 +6,7 @@ form: boiled
 trait: dependable
 dish: Zunda mochi — edamame boiled and ground into sweet green paste, served over soft rice cake.
 quote: The strength of a bean lies not in its weight, but in its reliability.
-fortune: What is always there stops being seen as a gift — let someone know what it costs this season, not as a grievance but as a true thing.
+fortune: A gift that is always there will stop being seen as one — let someone know what it costs, not as a grievance but as a true thing.
 ---
 
 Boiled Beans born in the Year of the Sweet Edamame are the Bean Zodiac's most dependable — showing up exactly as promised, with no drama.

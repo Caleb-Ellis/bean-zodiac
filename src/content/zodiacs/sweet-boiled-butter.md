@@ -6,7 +6,7 @@ form: boiled
 trait: calm
 dish: Butter bean and maple pudding — beans boiled soft and folded into warm cream with maple syrup and a grating of nutmeg.
 quote: Keep calm and carry beans.
-fortune: The alarm is not asking you to become anxious — it is asking you to stay present, and there is a difference worth knowing this season.
+fortune: An alarm will arrive — stay present with it, not anxious.
 ---
 
 Boiled Beans born in the Year of the Sweet Butter Bean are the Bean Zodiac's calmest — genuine ease, not distant.

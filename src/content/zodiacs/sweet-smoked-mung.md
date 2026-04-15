@@ -6,7 +6,7 @@ form: smoked
 trait: translucent
 dish: Sakkarai pongal - sweet mung dal and rice pudding with smoked ghee, jaggery, and cardamom.
 quote: For now we bean a glass darkly.
-fortune: Your care this season passed through without casting a shadow — which meant others looked through you to what was beyond. The season ahead asks you to be the thing that is seen, at least once.
+fortune: Your care will pass through without casting a shadow — be the thing that is seen, at least once.
 ---
 
 Smoked Beans born in the Year of the Sweet Mung Bean are the Bean Zodiac's most translucent — their care passes through without casting a shadow, which means others look through them to what is beyond.

@@ -6,7 +6,7 @@ form: roasted
 trait: magnetic
 dish: Frijoles negros enchipotlados - black beans roasted and simmered in chipotle adobo.
 quote: Some beans walk in the rain, others just get wet.
-fortune: The pull has been strong this season and the room has filled — decide now what you want it to keep drawing in, before the accumulation chooses for you.
+fortune: The room will fill — decide now what you want it to keep drawing in, before the accumulation chooses for you.
 ---
 
 Roasted Beans born in the Year of the Spicy Black Bean are the Bean Zodiac's most magnetic — something in the room orients toward them.

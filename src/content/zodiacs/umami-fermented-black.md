@@ -6,7 +6,7 @@ form: fermented
 trait: introspective
 dish: Black bean and douchi braise - black soybeans with fermented black bean paste, ginger, and Shaoxing wine.
 quote: Who looks outside, dreams; who looks inside, awakens the bean.
-fortune: The depth has been real and the season has given it room — bring something up from it now, so it remains a source rather than a residence.
+fortune: A depth will want to come up — bring something from it, so it remains a source rather than a residence.
 ---
 
 Fermented Beans born in the Year of the Umami Black Bean are the Bean Zodiac's most introspective — they live substantially inside.

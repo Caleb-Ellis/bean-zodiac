@@ -6,7 +6,7 @@ form: dried
 trait: laconic
 dish: Black bean soup with ancho chile and dark chocolate.
 quote: Speech is silver; bean is golden.
-fortune: What you said this season was precisely enough — the silence you left was not empty, even if it felt that way to others.
+fortune: Your silence will be read as both presence and absence — find one occasion where a word is worth more than the space you would have left.
 ---
 
 Dried Beans born in the Year of the Bitter Black Bean are the Bean Zodiac's most laconic — they say exactly one thing, and it is the right one.

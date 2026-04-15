@@ -6,7 +6,7 @@ form: smoked
 trait: otherworldly
 dish: Smoked fava, twice-prepared, with bitter ash.
 quote: We are made of bean stuff.
-fortune: Where you went this season required courage most beans have never needed — the season ahead asks only that you find the form to bring what you found back into the world.
+fortune: Where you are going will require courage most Beans never need — find the form to bring back what you find.
 ---
 
 Smoked Beans born in the Year of the Bitter Fava Bean are the Bean Zodiac's most otherworldly — their courage has led them somewhere that takes others considerable time to follow.

@@ -6,7 +6,7 @@ form: fermented
 trait: empathetic
 dish: Fermented chickpea flour cake — gram flour batter left to ferment overnight, baked with raw honey and orange zest into a dense, fragrant loaf.
 quote: Could a greater bean miracle take place than for us to look through each other's eyes for an instant?
-fortune: Know where you end before taking on what belongs to someone else — your own interior needs attending to this season.
+fortune: A belonging elsewhere will arrive that feels like yours — know where you end before taking it on.
 ---
 
 Fermented Beans born in the Year of the Sweet Chickpea are the Bean Zodiac's most empathetic — they feel what someone is carrying before that person has named it.

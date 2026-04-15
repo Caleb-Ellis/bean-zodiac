@@ -6,7 +6,7 @@ form: dried
 trait: wry
 dish: Balila - chickpeas with dried black lime and olive oil.
 quote: History doesn't repeat itself, but it does bean.
-fortune: The pattern you are watching repeat itself this season is not happening to you — you are happening to it. Do something different.
+fortune: The pattern you have been watching is about to repeat — do something different this time, and find out whether you were happening to it or it was happening to you.
 ---
 
 Dried Beans born in the Year of the Sour Chickpea are the Bean Zodiac's most wry — they have seen too much of the world to take any of it entirely at face value.

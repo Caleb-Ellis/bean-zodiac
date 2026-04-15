@@ -6,7 +6,7 @@ form: dried
 trait: abiding
 dish: Black bean brownies — dried black beans cooked and folded into dark chocolate batter, fudgy and barely holding together.
 quote: Not all those who bean are lost.
-fortune: The constancy you have given this season has gone largely unmarked — make yourself legible once, so it can be appreciated rather than assumed.
+fortune: A constancy will go unmarked — make yourself legible once, so it can be appreciated rather than assumed.
 ---
 
 Dried Beans born in the Year of the Sweet Black Bean are the Bean Zodiac's most abiding — they do not announce themselves, but they are always present when it matters.

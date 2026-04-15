@@ -6,7 +6,7 @@ form: fermented
 trait: conflicted
 dish: Kimchi jjigae - kidney bean and kimchi stew with pork belly, tofu, and sesame oil.
 quote: The heart has its bean that reason knows not of.
-fortune: The tension has not resolved, and this season it does not need to — live with it honestly and let both sides of it be real.
+fortune: The tension will not resolve yet — live with it honestly, and let both sides of it be real.
 ---
 
 Fermented Beans born in the Year of the Umami Kidney Bean are the Bean Zodiac's most conflicted — they know exactly why they're pulled in more than one direction.

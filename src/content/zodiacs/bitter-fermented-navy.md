@@ -6,7 +6,7 @@ form: fermented
 trait: bookish
 dish: Senate Bean Soup - with aged ham and bitter dandelion greens.
 quote: Outside of a bean, a book is a man's best friend. Inside of a bean, it is too dark to read.
-fortune: The private library you have been stocking this season is substantial — find one reader who needs what you have read, and bring the book outside.
+fortune: Someone is about to need what you have been reading — bring the book outside before they stop looking for it.
 ---
 
 Fermented Beans born in the Year of the Bitter Navy Bean are the Bean Zodiac's most bookish — they build understanding from reading and carry it privately.

@@ -6,7 +6,7 @@ form: fermented
 trait: subversive
 dish: Spicy fava with doubanjiang and Sichuan pepper.
 quote: The most bean act in a conformist world is to think for yourself.
-fortune: The work you have been building this season in private is nearly visible — surface enough of it now to confirm the direction before it becomes the only direction.
+fortune: The work building in private is nearly visible — surface enough of it now to confirm the direction before it becomes the only direction.
 ---
 
 Fermented Beans born in the Year of the Spicy Fava Bean are the Bean Zodiac's most subversive — they work quietly until the result can't be ignored.

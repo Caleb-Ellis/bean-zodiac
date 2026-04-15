@@ -6,7 +6,7 @@ form: boiled
 trait: vigilant
 dish: Fave e guanciale - fava beans simmered with cured pork jowl and sage.
 quote: Eternal bean is the price of liberty.
-fortune: Nothing was missed this season — allow yourself to set the watch down briefly and rest inside what you have kept safe.
+fortune: A watch can be set down — rest inside what you have kept safe.
 ---
 
 Boiled Beans born in the Year of the Umami Fava Bean are the Bean Zodiac's most vigilant — they never stop watching what matters.

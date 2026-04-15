@@ -6,7 +6,7 @@ form: dried
 trait: fervent
 dish: Rajma masala - dried kidney beans in spiced onion-tomato gravy.
 quote: The bean that burns twice as bright burns half as long.
-fortune: The fervour you carry this season is real and patient — it does not need to be declared. It needs to be sustained.
+fortune: A fervour will need sustaining — it does not need to be declared. It needs to be kept.
 ---
 
 Dried Beans born in the Year of the Umami Kidney Bean are the Bean Zodiac's most fervent — the passion has deepened over time and is not going anywhere.

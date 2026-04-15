@@ -6,7 +6,7 @@ form: fried
 trait: ambitious
 dish: Spicy cannellini and ricotta fritters with Calabrian chili.
 quote: Shoot for the bean. Even if you miss, you will land among the legumes.
-fortune: The larger thing is still ahead and you are still moving toward it — slow down once this season to see what is running alongside you, before you arrive alone.
+fortune: The larger thing is still ahead — slow down once to see what is running alongside you, before you arrive alone.
 ---
 
 Fried Beans born in the Year of the Spicy Cannellini Bean are the Bean Zodiac's most ambitious — they move toward the larger thing without waiting.

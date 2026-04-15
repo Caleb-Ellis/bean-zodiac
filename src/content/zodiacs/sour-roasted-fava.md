@@ -6,7 +6,7 @@ form: roasted
 trait: authentic
 dish: Ful nabed mashwi - roasted skinned fava beans with lemon, cumin, and fresh coriander
 quote: To be yourself in a world that is constantly trying to make you something else is the greatest bean.
-fortune: The authenticity offered this season has been received by the right Beans — trust that those who did not receive it were not the intended recipients.
+fortune: The authenticity will find the right Beans — those who do not receive it are not the intended recipients.
 ---
 
 Roasted Beans born in the Year of the Sour Fava Bean are the Bean Zodiac's most authentic — they offer the actual thing with warmth.

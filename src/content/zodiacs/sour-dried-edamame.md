@@ -6,7 +6,7 @@ form: dried
 trait: pointed
 dish: Dried edamame with ponzu and toasted sesame.
 quote: The pen is mightier than the bean.
-fortune: What you aimed at this season landed — consider whether you also knew what was standing behind it before you let it go.
+fortune: A target will appear — before you let it go, check whether you know what is standing behind it.
 ---
 
 Dried Beans born in the Year of the Sour Edamame are the Bean Zodiac's most pointed — quick, sharp, and aimed.

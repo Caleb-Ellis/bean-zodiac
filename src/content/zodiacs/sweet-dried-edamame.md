@@ -6,7 +6,7 @@ form: dried
 trait: uncomplicated
 dish: Honey-glazed dried edamame — dried soybeans tossed in hot honey and sea salt until cracked and caramelized.
 quote: Keep it simple, bean.
-fortune: The directness you carry this season is a gift — the only cost is the complexity that cannot fit inside it.
+fortune: A complexity that will not fit in the directness is coming — the cost is real, and worth knowing.
 ---
 
 Dried Beans born in the Year of the Sweet Edamame are the Bean Zodiac's most uncomplicated — they have removed everything that was not necessary, and what is left is simply good.

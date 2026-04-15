@@ -6,7 +6,7 @@ form: fermented
 trait: introverted
 dish: Navy bean and cultured butter pudding — beans baked slowly in a custard of fermented cream, sugar, and vanilla.
 quote: I am a bean of solitude; the fire of thought does not require witnesses.
-fortune: The warmth inside has been building — bring some of it out this season, not as performance, but as the fact of what is there.
+fortune: The warmth inside will find a reason to come out — bring some of it, not as performance, but as the fact of what is there.
 ---
 
 Fermented Beans born in the Year of the Sweet Navy Bean are the Bean Zodiac's most introverted — they live comfortably in a rich inner world.

@@ -6,7 +6,7 @@ form: roasted
 trait: guileless
 dish: Butter bean traybake with preserved lemon, roasted garlic, and rosemary
 quote: To bean or not to bean — actually, yes, obviously. Why would you not.
-fortune: The guilelessness this season has mostly been repaid — the exceptions are the minority, and they are the cost of the thing, not the thing itself.
+fortune: Most of the guilelessness will be repaid — the exceptions are the cost of the thing, not the thing itself.
 ---
 
 Roasted Beans born in the Year of the Sour Butter Bean are the Bean Zodiac's most guileless — nothing behind what they say or do.

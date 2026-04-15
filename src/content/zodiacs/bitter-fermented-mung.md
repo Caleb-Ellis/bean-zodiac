@@ -4,9 +4,9 @@ bean: mung
 flavour: bitter
 form: fermented
 trait: intuitive
-dish: Bindaetteok - mung bean pancakes with bitter herb dipping sauce.
-quote: The intuitive bean is a sacred gift and the rational mind is a faithful servant.
-fortune: The read that has been forming all season is reliable enough to surface now — offer it before it is complete, with the caveat that it is still becoming.
+dish: Bindaetteok — Korean mung bean pancakes with bitter herb dipping sauce.
+quote: The intuitive bean is a sacred gift and the rational bean is a faithful servant.
+fortune: The read forming in you will be ready before it feels complete — offer it early, with the caveat that it is still becoming.
 ---
 
 Fermented Beans born in the Year of the Bitter Mung Bean are the Bean Zodiac's most intuitive — they arrive at right reads through processes they cannot explain.

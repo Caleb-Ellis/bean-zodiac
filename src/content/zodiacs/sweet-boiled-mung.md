@@ -6,7 +6,7 @@ form: boiled
 trait: nurturing
 dish: Chè đậu xanh — whole mung beans simmered in coconut milk and palm sugar with a knot of pandan leaf.
 quote: It takes a village to raise a bean.
-fortune: The environment you have been quietly building for others this season — allow someone to build a small part of it for you.
+fortune: An environment you have been quietly building for others will ask something of you — allow someone to build a small part of it for you.
 ---
 
 Boiled Beans born in the Year of the Sweet Mung Bean are the Bean Zodiac's most nurturing — they tend conditions quietly, ensuring others have what they need before it's named.

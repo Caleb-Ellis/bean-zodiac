@@ -6,7 +6,7 @@ form: dried
 trait: indomitable
 dish: Maccu dolce — dried fava beans cooked to a thick paste with honey and fennel seed, a Sicilian Carnevale sweet.
 quote: She believed she could bean, so she did.
-fortune: The generosity of your drive this season has asked nothing in return — allow one person to carry part of it before the weight becomes invisible to you.
+fortune: A weight will ask to be shared — allow one person to carry part of it before it becomes invisible to you.
 ---
 
 Dried Beans born in the Year of the Sweet Fava Bean are the Bean Zodiac's most indomitable — generosity as a force, courage concentrated until nothing can stop it.

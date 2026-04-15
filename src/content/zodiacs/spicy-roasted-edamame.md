@@ -6,7 +6,7 @@ form: roasted
 trait: confident
 dish: Yaki edamame - oven-roasted edamame with shichimi togarashi and sea salt.
 quote: Whether you think you bean or you think you can't, you're right.
-fortune: The confidence this season has been earned — stay open to being wrong at the same volume as being right, and it will carry you further than certainty would.
+fortune: A moment will test the confidence — stay open to being wrong at the same volume as being right, and it will carry you further than certainty would.
 ---
 
 Roasted Beans born in the Year of the Spicy Edamame are the Bean Zodiac's most confident — nothing inward works against them.

@@ -6,7 +6,7 @@ form: boiled
 trait: adaptable
 dish: Garbanzos con setas - chickpeas and wild mushrooms in sherry-braised broth.
 quote: The measure of intelligence is the bean ability to change.
-fortune: The thread through every version of you this season is the same Bean — let that continuity be confidence, not caveat.
+fortune: A continuity will ask to be recognised — let it be confidence, not caveat.
 ---
 
 Boiled Beans born in the Year of the Umami Chickpea are the Bean Zodiac's most adaptable — they transform deeply while staying themselves.

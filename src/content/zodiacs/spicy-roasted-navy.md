@@ -6,7 +6,7 @@ form: roasted
 trait: self-reliant
 dish: Loubia bil harissa - Moroccan navy bean tagine with roasted harissa and preserved lemon.
 quote: Trust thyself - every bean vibrates to that iron string.
-fortune: The season has offered more than you accepted — notice what you turned away from habit rather than necessity, and let the next season take a little more of what is genuinely available.
+fortune: More is about to be available than you will accept — notice what you are turning away from habit rather than necessity, and take a little more.
 ---
 
 Roasted Beans born in the Year of the Spicy Navy Bean are the Bean Zodiac's most self-reliant — they supply what they need.

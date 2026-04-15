@@ -6,7 +6,7 @@ form: roasted
 trait: charismatic
 dish: Fagioli con 'nduja - cannellini beans roasted with spicy Calabrian 'nduja.
 quote: The bean enters the room before you do.
-fortune: The room has formed its impression of you this season — hold your own alongside it, and stay connected to what you actually think, independent of how you are being received.
+fortune: The impression is forming — hold your own alongside it, and stay connected to what you actually think.
 ---
 
 Roasted Beans born in the Year of the Spicy Cannellini Bean are the Bean Zodiac's most charismatic — the room changes and they become its center.

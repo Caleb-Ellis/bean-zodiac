@@ -6,7 +6,7 @@ form: fried
 trait: energetic
 dish: Spicy butter bean croquetas - fried bean cakes with smoked paprika.
 quote: The world is charged with the grandeur of the bean.
-fortune: The season has been full of movement and warmth — turn around before it ends and see what you have left in your wake, not to undo it, but to know.
+fortune: The movement will leave a wake — turn around before it ends to see what is in it, not to undo it, but to know.
 ---
 
 Fried Beans born in the Year of the Spicy Butter Bean are the Bean Zodiac's most energetic — they move at full warmth and never still.

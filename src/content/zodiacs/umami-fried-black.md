@@ -6,7 +6,7 @@ form: fried
 trait: focused
 dish: Stir-fried black beans with oyster sauce, ginger, and scallion.
 quote: The bean's rays do not burn until brought to a focus.
-fortune: The exclusion has been correct this season — return briefly to the periphery before the season ends, and confirm nothing important has been lost there.
+fortune: An exclusion will have been correct — return briefly to the periphery before it ends, and confirm nothing important has been lost there.
 ---
 
 Fried Beans born in the Year of the Umami Black Bean are the Bean Zodiac's most focused — they've already decided what matters and they're there completely.

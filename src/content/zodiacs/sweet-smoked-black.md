@@ -6,7 +6,7 @@ form: smoked
 trait: mystical
 dish: Mole negro - black beans braised in charred mulato chile, smoked chipotle, and dark chocolate.
 quote: There are more things in bean and earth, Horatio.
-fortune: What moved through you this season had no ordinary framework — the season ahead asks that you find one entrance to it, so that something of what you carry can be approached and shared.
+fortune: What will move through you will have no ordinary framework — find one entrance to it, so something of what you carry can be approached and shared.
 ---
 
 Smoked Beans born in the Year of the Sweet Black Bean are the Bean Zodiac's most mystical — their depth has taken on a quality that resists any ordinary framework.

@@ -6,7 +6,7 @@ form: boiled
 trait: analytical
 dish: Edamame and wakame soup with citrus peel.
 quote: If you can't bean it, you can't manage it.
-fortune: The problem you have been reducing this season is structural only in part — what remains after the analysis will need to be tasted, not measured.
+fortune: The remaining variable cannot be measured — when you arrive at the edge of analysis, trust the tasting.
 ---
 
 Boiled Beans born in the Year of the Bitter Edamame are the Bean Zodiac's most analytical — they take things apart to understand their structure.

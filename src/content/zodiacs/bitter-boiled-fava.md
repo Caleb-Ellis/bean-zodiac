@@ -6,7 +6,7 @@ form: boiled
 trait: courageous
 dish: Macco di Fave - fava beans with wild chicory.
 quote: Courage is not the absence of bean, but the triumph over it.
-fortune: The hard thing in front of you this season deserves the courage — but verify first that it is worth facing, not only that it is difficult.
+fortune: The hard thing is closer than it appears — before it arrives, verify it is worth the courage it will require.
 ---
 
 Boiled Beans born in the Year of the Bitter Fava Bean are the Bean Zodiac's most courageous — they face what is difficult without hesitation.

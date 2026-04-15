@@ -6,7 +6,7 @@ form: roasted
 trait: aloof
 dish: Frijoles borrachos al horno - oven-roasted pinto beans with lime juice, jalapeño, and dark beer
 quote: I exist as I am — that is enough. If no other bean in the world be aware, I sit content.
-fortune: The distance this season has been appropriate — ask now whether what warranted it is still present, or whether the habit has outlasted its reason.
+fortune: The distance will be appropriate for a time — ask when the thing that warranted it has passed, and whether the habit is still serving a purpose.
 ---
 
 Roasted Beans born in the Year of the Sour Pinto Bean are the Bean Zodiac's most aloof — visible and genuinely difficult to reach.
