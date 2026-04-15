@@ -4,7 +4,7 @@ bean: chickpea
 flavour: umami
 form: fermented
 trait: innovative
-dish: Chickpea with fermented black garlic and miso. Hasn't been done. Now it has.
+dish: Chickpea tempeh - fermented whole chickpeas pan-fried and glazed with miso and sesame.
 quote: Imagination is more important than knowledge about beans.
 fortune: What was developed in private this season is finished — the insight needs the object it becomes, and that part requires leaving the dark.
 ---

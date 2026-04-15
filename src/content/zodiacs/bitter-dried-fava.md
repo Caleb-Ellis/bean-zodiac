@@ -4,7 +4,7 @@ bean: fava
 flavour: bitter
 form: dried
 trait: steely
-dish: Dried fava in hard brine. No concessions.
+dish: Bessara - fava beans with cumin and bitter harissa.
 quote: That which does not bean me makes me stronger.
 fortune: The difficulty you moved through this season has become weight you no longer feel — check whether it is still weight, or whether it has become structure.
 ---

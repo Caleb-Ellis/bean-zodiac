@@ -4,7 +4,7 @@ bean: navy
 flavour: bitter
 form: roasted
 trait: prudent
-dish: Roasted navy bean with bitter herb. Measured. Nothing to excess.
+dish: Roasted navy bean and bitter endive salad with mustard vinaigrette.
 quote: In preparing to bean, I have always found that plans are useless, but planning is indispensable.
 fortune: The contingency you have been preparing for this season is ready — let the preparation become the action it was always building toward.
 ---

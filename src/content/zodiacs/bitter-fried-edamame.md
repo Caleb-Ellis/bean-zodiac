@@ -4,7 +4,7 @@ bean: edamame
 flavour: bitter
 form: fried
 trait: decisive
-dish: Stir-fried edamame with bitter pepper and sea salt. Made. Moving on.
+dish: Agedashi - edamame with bitter dashi and daikon.
 quote: In any bean moment of decision, the best thing you can do is the right thing.
 fortune: The calls you have made this season have been right — let the working be visible once, so others can trust the speed.
 ---

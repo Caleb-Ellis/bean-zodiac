@@ -4,7 +4,7 @@ bean: chickpea
 flavour: bitter
 form: roasted
 trait: outgoing
-dish: Roasted chickpea with bitter spice and plenty to share. Come over.
+dish: Chaat - roasted chickpeas with bitter lime and green chutney.
 quote: You catch more beans with honey.
 fortune: This season, give yourself one long evening without the company of others — what comes up in that quiet is worth knowing.
 ---

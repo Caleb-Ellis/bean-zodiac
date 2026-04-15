@@ -4,7 +4,7 @@ bean: pinto
 flavour: spicy
 form: dried
 trait: blazing
-dish: Dried pinto, dried red chilli. Everything given. No moderation.
+dish: New Mexican dried pinto bean stew with ancho and red New Mexico chile.
 quote: It's better to burn out than to bean away.
 fortune: The intensity you brought this season was complete — ask whether there is anything left for what comes next, and rest accordingly.
 ---

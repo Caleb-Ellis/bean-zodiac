@@ -4,7 +4,7 @@ bean: chickpea
 flavour: sweet
 form: fried
 trait: funny
-dish: Chickpea fritters with sweet yogurt dip. Has everyone laughing.
+dish: Chickpea flour churros — crispy strips of fried besan batter rolled in sugar and dipped in dark chocolate.
 quote: If you want to tell beans the truth, make them laugh, otherwise they'll kill you.
 fortune: Put the joke down this season and let what you actually think arrive without the wrapper — they will laugh, and then they will listen.
 ---

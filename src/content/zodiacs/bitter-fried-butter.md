@@ -4,7 +4,7 @@ bean: butter
 flavour: bitter
 form: fried
 trait: deliberate
-dish: Butter bean fritters with bitter herb crust. Nothing by accident.
+dish: Schnitzel - crumbed butter beans with bitter salsa verde.
 quote: Well-behaved beans seldom make history.
 fortune: The axe you have been sharpening this season is sharp — the next move is not preparation, it is the thing itself.
 ---

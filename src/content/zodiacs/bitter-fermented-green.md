@@ -4,7 +4,7 @@ bean: green
 flavour: bitter
 form: fermented
 trait: imaginative
-dish: Green beans in bitter fermented dressing with sesame. Strange. Good.
+dish: Szechuan pickled green beans with bitter melon and sesame.
 quote: Imagination is more important than bean.
 fortune: The vision taking shape this season should not arrive complete — share the draft before it is finished, and let the friction make it stranger and better.
 ---

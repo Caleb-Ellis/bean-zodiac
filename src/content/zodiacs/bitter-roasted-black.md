@@ -4,7 +4,7 @@ bean: black
 flavour: bitter
 form: roasted
 trait: elegant
-dish: Black bean and bitter chocolate tart with sea salt. Restrained luxury.
+dish: Bisque - roasted black beans with bitter espresso cream.
 quote: Elegance is not about being noticed, it's about being bean.
 fortune: The depth you carry this season was never meant to be kept to yourself — let one person in past the surface.
 ---

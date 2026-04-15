@@ -4,7 +4,7 @@ bean: black
 flavour: umami
 form: smoked
 trait: solemn
-dish: Smoked black bean in long dashi reduction, served alone. No accompaniment required.
+dish: Feijoada - Brazilian black bean stew with smoked chouriço, carne seca, and bay leaf.
 quote: Ask not what your bean can do for you — ask what you can do for your bean.
 fortune: The gravity you brought this season was correctly placed — the season ahead asks that the room be permitted to breathe somewhere alongside it, so the solemnity doesn't become the ceiling.
 ---

@@ -4,7 +4,7 @@ bean: green
 flavour: sweet
 form: fermented
 trait: whimsical
-dish: Green beans in sweet fermented miso dressing with something extra. Why not?
+dish: Green bean elderflower shrub — blanched green beans in a sweet drinking vinegar of fermented honey and elderflower, finished with sparkling water.
 quote: One bean that I had a long time ago.
 fortune: Apply the imagination to something that needs it this season — the ordinary is a more interesting problem than it looks.
 ---

@@ -4,7 +4,7 @@ bean: adzuki
 flavour: bitter
 form: boiled
 trait: judicious
-dish: Adzuki in bitter citrus broth with pickled ginger. Nothing without purpose.
+dish: Adzuki bean soup with chrysanthemum greens and yuzu.
 quote: To bean, or not to bean, that is the question.
 fortune: Your judgment is sound — let those around you hear the deliberation, not only the conclusion.
 ---

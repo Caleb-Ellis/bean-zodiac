@@ -4,7 +4,7 @@ bean: cannellini
 flavour: umami
 form: smoked
 trait: exalted
-dish: Smoked cannellini with aged kombu and ceremony. Elevated. Difficult to approach.
+dish: Fagioli all'uccelletto - Tuscan cannellini with smoked pancetta, sage, and tomato.
 quote: The bean shall inherit the earth.
 fortune: What you reached this season was genuine and the height was earned — the season ahead asks that you find something worth being imperfect for, so what you've refined has somewhere human to land.
 ---

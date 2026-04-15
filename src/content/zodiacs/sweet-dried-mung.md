@@ -4,7 +4,7 @@ bean: mung
 flavour: sweet
 form: dried
 trait: tender
-dish: Dried mung, warm sweetened broth. Held gently.
+dish: Lǜdòu gāo — dried mung beans ground fine and pressed with sugar into flower-shaped cakes.
 quote: The most beautiful things in the world cannot be seen or touched — they must be bean with the heart.
 fortune: The softness you carry this season is not a vulnerability — it is a strength. Protect it without armoring it.
 ---

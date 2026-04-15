@@ -4,7 +4,7 @@ bean: fava
 flavour: umami
 form: fermented
 trait: rebellious
-dish: Fava with aggressive fermented umami. Against expectations. On purpose.
+dish: Fava and pixian doubanjiang stir-fry - fava beans with fermented broad bean chili paste and garlic shoots.
 quote: The most common way beans give up their power is by thinking they don't have any.
 fortune: The rebellion has substance and the season has given it form — surface enough of the reasoning that others can decide whether to follow.
 ---

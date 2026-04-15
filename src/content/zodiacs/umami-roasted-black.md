@@ -4,7 +4,7 @@ bean: black
 flavour: umami
 form: roasted
 trait: insightful
-dish: Black bean roasted with soy and thyme. Sees what others miss.
+dish: Soy and mirin roasted black soybeans with ginger and star anise.
 quote: The only true wisdom is knowing you know nothing about beans.
 fortune: What you have been seeing this season is the beginning of a conversation, not the end of one — offer it as an opening and stay for what it brings back.
 ---

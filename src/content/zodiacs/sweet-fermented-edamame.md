@@ -4,7 +4,7 @@ bean: edamame
 flavour: sweet
 form: fermented
 trait: systematic
-dish: Edamame in sweet fermented sauce, measured precisely. Stage by stage.
+dish: Edamame in mirin and sake reduction — soybeans lacquered in sweet rice wine, simmered until each one is evenly coated and glossed.
 quote: For every bean effect there is a definite cause; for every cause there is a definite effect.
 fortune: The system has been good — check this season whether the problem it was built for is still the one you are solving.
 ---

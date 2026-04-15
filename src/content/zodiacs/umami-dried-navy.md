@@ -4,7 +4,7 @@ bean: navy
 flavour: umami
 form: dried
 trait: enduring
-dish: Dried navy bean, long stock. Still here. Has always been.
+dish: Boston baked beans - dried navy beans slow-baked with salt pork, molasses, and mustard.
 quote: Endurance is not just the ability to bean a difficult situation — it is to turn it into glory.
 fortune: The endurance you have demonstrated this season is real — allow yourself to rest inside it rather than always pushing past it.
 ---

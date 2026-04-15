@@ -4,7 +4,7 @@ bean: navy
 flavour: spicy
 form: fermented
 trait: independent
-dish: Navy bean with fermented chili. Doesn't need your input.
+dish: Alubias con chorizo - Spanish white bean stew with spicy fermented sausage and smoked paprika.
 quote: The bean who follows the crowd will usually get no further than the crowd.
 fortune: The conclusions you arrived at alone this season are sound — let one of them be tested by someone you trust before the season locks them in.
 ---

@@ -4,7 +4,7 @@ bean: mung
 flavour: bitter
 form: dried
 trait: clinical
-dish: Dried mung, measured portions. Administered correctly.
+dish: Moong Dal - mung beans with methi and turmeric.
 quote: First, do no bean.
 fortune: The precision of your care this season is real — allow one instance of warmth that serves no function, just to remember you can.
 ---

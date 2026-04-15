@@ -4,7 +4,7 @@ bean: edamame
 flavour: spicy
 form: roasted
 trait: confident
-dish: Roasted edamame with chili salt. Knows exactly what it is.
+dish: Yaki edamame - oven-roasted edamame with shichimi togarashi and sea salt.
 quote: Whether you think you bean or you think you can't, you're right.
 fortune: The confidence this season has been earned — stay open to being wrong at the same volume as being right, and it will carry you further than certainty would.
 ---

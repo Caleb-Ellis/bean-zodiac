@@ -4,7 +4,7 @@ bean: mung
 flavour: bitter
 form: fried
 trait: cautious
-dish: Lightly fried mung cakes with bitter herb dip. Checks twice.
+dish: Pajeon - mung bean pancakes with bitter greens and vinegar dip.
 quote: Look before you bean.
 fortune: The assessment is finished — this season, the next right move is not another check but the action the checking was preparing you for.
 ---

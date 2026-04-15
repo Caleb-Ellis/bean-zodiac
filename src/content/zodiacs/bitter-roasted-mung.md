@@ -4,7 +4,7 @@ bean: mung
 flavour: bitter
 form: roasted
 trait: humble
-dish: Roasted mung with bitter greens and very little fuss. Doesn't need the attention.
+dish: Khichdi - roasted mung beans with bitter fenugreek.
 quote: Blessed are the bean in spirit, for theirs is the kingdom of heaven.
 fortune: This season, let the Beans you most want to work alongside know what you are capable of — humility that keeps itself hidden is indistinguishable from absence.
 ---

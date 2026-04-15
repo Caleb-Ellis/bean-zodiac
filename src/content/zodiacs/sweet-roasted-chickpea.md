@@ -4,7 +4,7 @@ bean: chickpea
 flavour: sweet
 form: roasted
 trait: bighearted
-dish: Roasted chickpea with sweet spice, plenty for everyone. There's more.
+dish: Cinnamon honey roasted chickpeas — oven-blistered until crunchy, tossed hot in honey, cinnamon, and a pinch of cardamom.
 quote: The best bean way to find yourself is to lose yourself in the service of others.
 fortune: Receive as readily as you give this season — the limit exists, and the Beans around you would like to know where it is before they find it for you.
 ---

@@ -4,7 +4,7 @@ bean: edamame
 flavour: sour
 form: roasted
 trait: forthright
-dish: Roasted edamame with citric acid and sea salt. Stated plainly.
+dish: Yaki edamame with yuzu kosho - oven-roasted edamame with yuzu pepper paste and flaky salt
 quote: All you need in this life is ignorance and beans, and then success is sure.
 fortune: What was volunteered this season has given others a map they didn't know they needed — this is not the season to hold back more of what you know.
 ---

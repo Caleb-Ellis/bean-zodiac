@@ -4,7 +4,7 @@ bean: cannellini
 flavour: sour
 form: boiled
 trait: exacting
-dish: Cannellini in sorrel broth, balanced to the milliliter. Precision.
+dish: Ribollita - Tuscan cannellini with red wine vinegar and cavolo nero.
 quote: Good enough is the enemy of the bean.
 fortune: The standard has held this season and so have you — what you are building will be worth the effort when it is finished.
 ---

@@ -4,7 +4,7 @@ bean: butter
 flavour: sweet
 form: boiled
 trait: calm
-dish: Butter bean mash with honey-roasted carrots on the side. Everything warm, everything fine.
+dish: Butter bean and maple pudding — beans boiled soft and folded into warm cream with maple syrup and a grating of nutmeg.
 quote: Keep calm and carry beans.
 fortune: The alarm is not asking you to become anxious — it is asking you to stay present, and there is a difference worth knowing this season.
 ---

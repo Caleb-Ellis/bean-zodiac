@@ -4,7 +4,7 @@ bean: fava
 flavour: sour
 form: roasted
 trait: authentic
-dish: Roasted fava with lemon and fresh herbs. The real thing.
+dish: Ful nabed mashwi - roasted skinned fava beans with lemon, cumin, and fresh coriander
 quote: To be yourself in a world that is constantly trying to make you something else is the greatest bean.
 fortune: The authenticity offered this season has been received by the right Beans — trust that those who did not receive it were not the intended recipients.
 ---

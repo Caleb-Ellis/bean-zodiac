@@ -4,7 +4,7 @@ bean: green
 flavour: spicy
 form: smoked
 trait: ignited
-dish: Smoked green bean with fresh chili, flash-seared. Everything started here.
+dish: Judías verdes con jamón ahumado - Andalusian green beans with smoked ham and pimentón.
 quote: A great bean follows a little spark.
 fortune: The fire this season appeared without a visible spark and burned without a clear target — the season ahead asks you to find what you are trying to light, and aim before striking.
 ---

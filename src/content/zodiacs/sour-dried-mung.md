@@ -4,7 +4,7 @@ bean: mung
 flavour: sour
 form: dried
 trait: spare
-dish: Dried mung, plain water. That's the care. The whole of it.
+dish: Mung bean soup with dried tangerine peel and ginger.
 quote: The most important thing in communication is to hear what isn't being beaned.
 fortune: The care you gave this season was real and went unmarked — let one person know they were tended, so they know to look for it next time.
 ---

@@ -4,7 +4,7 @@ bean: navy
 flavour: sour
 form: dried
 trait: uncompromising
-dish: Dried navy bean. Line in the ground. Discussion closed.
+dish: Navy bean and dried tomato stew with red wine vinegar and rosemary.
 quote: Give me liberty, or give me bean!
 fortune: The position you have held this season is correct — learn to distinguish between a principle tested and a principle provoked before the next challenge arrives.
 ---

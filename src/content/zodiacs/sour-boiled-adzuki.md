@@ -4,7 +4,7 @@ bean: adzuki
 flavour: sour
 form: boiled
 trait: sincere
-dish: Adzuki with pickled plum broth and ginger. Means it.
+dish: Adzuki bean soup with umeboshi and ginger broth.
 quote: This above all - to thine own bean be true
 fortune: What you mean this season, you mean without reservation — that is sufficient, and it is enough.
 ---

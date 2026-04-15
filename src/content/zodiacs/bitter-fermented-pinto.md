@@ -4,7 +4,7 @@ bean: pinto
 flavour: bitter
 form: fermented
 trait: artistic
-dish: Pinto beans with fermented bitter plum and herbs. More composition than recipe.
+dish: Mole Negro - pinto beans with fermented chile and cacao.
 quote: Every bean is an artist. The problem is how to remain an artist once we grow up.
 fortune: The work this season needs the friction of an audience — not approval, but the resistance that keeps it honest and stops it from talking only to itself.
 ---

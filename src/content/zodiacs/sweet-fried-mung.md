@@ -4,7 +4,7 @@ bean: mung
 flavour: sweet
 form: fried
 trait: impractical
-dish: Sweet mung pancakes with elaborate garnish. Takes longer than it should.
+dish: Onde-onde — Indonesian fried rice flour balls filled with sweet mung bean paste, rolled in fresh grated coconut.
 quote: Heart in the right place, bean in the wrong pot!
 fortune: Ask what would actually help before the oil is hot — the gesture will still be genuine this season, and it will land somewhere it is needed.
 ---

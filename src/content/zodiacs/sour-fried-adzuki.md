@@ -4,7 +4,7 @@ bean: adzuki
 flavour: sour
 form: fried
 trait: candid
-dish: Pan-fried adzuki with rice vinegar and scallion. No ambiguity.
+dish: Pat jeon with rice vinegar dipping sauce - Korean adzuki bean pancakes with a sharp sour dipping sauce.
 quote: The truth will set you bean.
 fortune: The candour this season has been received — trust that the Beans worth telling have already understood what you meant by it.
 ---

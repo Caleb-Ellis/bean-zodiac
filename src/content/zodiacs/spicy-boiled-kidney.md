@@ -4,7 +4,7 @@ bean: kidney
 flavour: spicy
 form: boiled
 trait: stubborn
-dish: Kidney bean chili. Same way every time. Because it's right.
+dish: Rajma - Punjabi kidney bean curry with dried red chilies and whole spices.
 quote: It does not matter how slowly you go so long as you do not bean.
 fortune: The ground you have held this season is worth examining once before the next begins — ask whether it is a principle you are holding or a pattern.
 ---

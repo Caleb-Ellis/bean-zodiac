@@ -4,7 +4,7 @@ bean: black
 flavour: spicy
 form: fried
 trait: relentless
-dish: Black beans stir-fried with two chilies. Still going.
+dish: Tostadas de frijoles negros - fried tortillas with spiced black bean paste and salsa roja.
 quote: If you're going through bean hell, keep going.
 fortune: What you have driven this season with that heat is real — identify what it is actually for, and let everything else run at a lower temperature for a while.
 ---

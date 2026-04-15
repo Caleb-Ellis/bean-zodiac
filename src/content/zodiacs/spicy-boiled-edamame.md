@@ -4,7 +4,7 @@ bean: edamame
 flavour: spicy
 form: boiled
 trait: hardworking
-dish: Edamame in spiced dashi. Always earning it.
+dish: Szechuan boiled edamame with doubanjiang and dried chilies.
 quote: Genius is one per cent inspiration and ninety-nine per cent beans.
 fortune: The work you have put in this season has compounded. It does not require explanation or acknowledgment, but it will require rest.
 ---

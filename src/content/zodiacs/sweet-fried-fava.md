@@ -4,7 +4,7 @@ bean: fava
 flavour: sweet
 form: fried
 trait: daring
-dish: Fava in sweet chili batter. Goes for it.
+dish: Sfinci di fave — Sicilian fried dough puffs filled with sweetened fava bean paste and dusted with icing sugar.
 quote: Fortune befriends the bean.
 fortune: The leap has been made — develop the same ease with the reckoning this season as you have always had with the leap itself.
 ---

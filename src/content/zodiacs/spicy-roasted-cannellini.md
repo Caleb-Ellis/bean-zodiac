@@ -4,7 +4,7 @@ bean: cannellini
 flavour: spicy
 form: roasted
 trait: charismatic
-dish: Roasted cannellini with chili oil and fresh herbs. Takes over the room.
+dish: Fagioli con 'nduja - cannellini beans roasted with spicy Calabrian 'nduja.
 quote: The bean enters the room before you do.
 fortune: The room has formed its impression of you this season — hold your own alongside it, and stay connected to what you actually think, independent of how you are being received.
 ---

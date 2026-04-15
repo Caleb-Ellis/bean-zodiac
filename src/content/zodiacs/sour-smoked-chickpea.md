@@ -4,7 +4,7 @@ bean: chickpea
 flavour: sour
 form: smoked
 trait: wary
-dish: Smoked chickpea with sour green mango, held at a careful distance. Watching.
+dish: Smoked chickpea shawarma wrap with sumac-marinated onions and pickled turnips
 quote: Beware the bean of March.
 fortune: The caution this season was earned and correctly applied — the season ahead asks whether the wariness has found a room worth committing to, or is still remembering the rooms it has lost.
 ---

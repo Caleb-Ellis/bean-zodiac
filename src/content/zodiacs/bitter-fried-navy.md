@@ -4,7 +4,7 @@ bean: navy
 flavour: bitter
 form: fried
 trait: judgmental
-dish: Crispy navy beans with bitter chicory. Watching. Noting.
+dish: Crispy navy beans with bitter chicory and anchovy.
 quote: Do not judge others before you have walked a mile in their beans.
 fortune: The case you closed too quickly this season is still open — leave it there for one more week before the judgment becomes permanent.
 ---

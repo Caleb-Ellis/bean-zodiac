@@ -4,7 +4,7 @@ bean: black
 flavour: sweet
 form: smoked
 trait: mystical
-dish: Smoked black bean with sweet black cardamom and considered silence. Beyond explanation.
+dish: Mole negro - black beans braised in charred mulato chile, smoked chipotle, and dark chocolate.
 quote: There are more things in bean and earth, Horatio.
 fortune: What moved through you this season had no ordinary framework — the season ahead asks that you find one entrance to it, so that something of what you carry can be approached and shared.
 ---

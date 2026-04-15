@@ -4,7 +4,7 @@ bean: kidney
 flavour: sour
 form: fried
 trait: argumentative
-dish: Kidney bean patties with acidic tomato sauce. Not done discussing this.
+dish: Rajma tikki with imli chutney - pan-fried Indian kidney bean patties with tamarind dipping sauce.
 quote: In the beginning was the bean, and the bean was with argument, and the bean was argument.
 fortune: The argument this season has been worth having — trust that the friction produced something that a smoother exchange would not have.
 ---

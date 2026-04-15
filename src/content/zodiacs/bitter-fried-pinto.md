@@ -4,7 +4,7 @@ bean: pinto
 flavour: bitter
 form: fried
 trait: irreverent
-dish: Pan-fried pinto with bitter citrus and a mess of herbs. Rules are suggestions.
+dish: Taquitos - pinto beans with bitter lime crema and hot sauce.
 quote: Irreverence is the champion of liberty and its only sure bean.
 fortune: The target this season deserves the irreverence — check once that it is pretension you are after, and not something that only looks like it.
 ---

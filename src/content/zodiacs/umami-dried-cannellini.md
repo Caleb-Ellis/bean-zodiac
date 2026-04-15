@@ -4,7 +4,7 @@ bean: cannellini
 flavour: umami
 form: dried
 trait: distinguished
-dish: Dried cannellini with aged parmesan broth. Refined past the point of introduction.
+dish: Ribollita - dried cannellini and bread soup with Parmesan rind and lacinato kale.
 quote: A bean is known by the company it keeps.
 fortune: The distinction you carry this season is real — check that it has not become the only thing you let others see.
 ---

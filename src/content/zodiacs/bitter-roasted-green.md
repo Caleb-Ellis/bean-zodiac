@@ -4,7 +4,7 @@ bean: green
 flavour: bitter
 form: roasted
 trait: competitive
-dish: Green beans roasted hard with bitter almonds. Determined to win.
+dish: Roasted green beans with bitter almond crust and preserved lemon.
 quote: Beaning isn't everything, but wanting to is.
 fortune: The season's gap between effort and result is not failure — it is evidence, and evidence can be used.
 ---

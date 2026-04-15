@@ -4,7 +4,7 @@ bean: green
 flavour: umami
 form: fermented
 trait: creative
-dish: Green beans in fermented umami with unexpected combinations. Works somehow.
+dish: Paocai - Sichuan lacto-fermented green beans with Sichuan pepper, garlic, and dried chili.
 quote: Creativity is intelligence having bean fun.
 fortune: The work that has been developing in private is ready to exist outside of you — let it be seen before the season turns.
 ---

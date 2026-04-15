@@ -4,7 +4,7 @@ bean: fava
 flavour: sour
 form: smoked
 trait: biting
-dish: Smoked fava with sharp vinegar and bitter herb dust. The truth has an edge.
+dish: Bessara - Moroccan smoked fava bean purée with harissa, cumin, and preserved lemon
 quote: If you can't stand the bean, get out of the kitchen.
 fortune: What you said this season needed saying — the season ahead asks whether the truth needed to be delivered at this temperature, or only discovered. Choose the temperature next time.
 ---

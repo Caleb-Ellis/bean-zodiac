@@ -4,7 +4,7 @@ bean: mung
 flavour: sweet
 form: roasted
 trait: easygoing
-dish: Roasted mung with light sweet glaze. Fine. All fine.
+dish: Jaggery-roasted mung beans — whole mung beans tossed in melted jaggery and cardamom, roasted until crisp and fragrant.
 quote: Keep your bean up and your worries down, and everything will be just fine.
 fortune: Let the difficulty be hard this season before you settle it — some things resolve into something more useful than ease.
 ---

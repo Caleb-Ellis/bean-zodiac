@@ -4,7 +4,7 @@ bean: navy
 flavour: sweet
 form: fried
 trait: romantic
-dish: Sweet fried navy beans with cinnamon sugar. Means it.
+dish: Navy bean beignets — fried dough pillows with a white bean cream filling, dusted generously in powdered sugar.
 quote: My bean leaps up when I behold a rainbow in the sky.
 fortune: Love the Bean in front of you this season, not only the perfect version — loyalty given to a real thing is more durable than loyalty given to an ideal.
 ---

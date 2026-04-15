@@ -4,7 +4,7 @@ bean: butter
 flavour: umami
 form: boiled
 trait: grounded
-dish: Butter bean and leek stew with parmesan rind. Solid. Real.
+dish: Butter bean broth simmered with Parmesan rinds, rosemary, and garlic.
 quote: If it ain't beaned, don't fix it.
 fortune: The foundation you have been has carried more than it was asked to this season — require something of the Beans who have been building on you.
 ---

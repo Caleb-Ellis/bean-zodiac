@@ -4,7 +4,7 @@ bean: mung
 flavour: bitter
 form: smoked
 trait: ethereal
-dish: Smoked mung with bitter chrysanthemum and wood ear. Barely there. Unmistakably present.
+dish: Smoked mung with bitter chrysanthemum and wood ear.
 quote: Tread softly because you bean on my dreams.
 fortune: Your care this season passed through rooms and changed them in ways no one could locate — the season ahead asks for one gesture tangible enough to be taken in and held.
 ---

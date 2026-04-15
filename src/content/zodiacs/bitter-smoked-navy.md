@@ -4,7 +4,7 @@ bean: navy
 flavour: bitter
 form: smoked
 trait: ominous
-dish: Smoked navy bean with bitter juniper and char. Something was always coming.
+dish: Smoked navy bean with bitter juniper and char.
 quote: It was a dark and beany night.
 fortune: The weight you carried this season about what was gathering was accurate — the season ahead asks only that you say it in a way that can be heard, before the weather arrives.
 ---

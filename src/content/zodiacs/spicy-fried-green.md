@@ -4,7 +4,7 @@ bean: green
 flavour: spicy
 form: fried
 trait: headstrong
-dish: Green beans fried hard with chili. Not interested in your feedback.
+dish: Pad prik khing - Thai stir-fried green beans with red curry paste and kaffir lime.
 quote: Well-bean is that which is done with determination.
 fortune: The direction you have been moving this season is right — turn around before you arrive, not after, and collect what the Beans behind you found.
 ---

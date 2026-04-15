@@ -4,7 +4,7 @@ bean: cannellini
 flavour: bitter
 form: fried
 trait: assertive
-dish: Cannellini pan-fried crisp with radicchio. Knows its own mind.
+dish: Cannellini fritto with bitter lemon and flat-leaf parsley.
 quote: Here I stand. I can bean no other.
 fortune: The position you have stated clearly this season leaves one door unguarded — make it evident that disagreement is still allowed.
 ---

@@ -4,7 +4,7 @@ bean: butter
 flavour: spicy
 form: boiled
 trait: stoic
-dish: Butter bean stew with chili flakes. Holds. Steady.
+dish: Kuru fasulye - Turkish butter bean stew with Aleppo pepper and slow-cooked onion.
 quote: You have power over your bean, not outside events. Realize this, and you will find strength.
 fortune: What you have absorbed this season without performing has not disappeared — find the form that lets some of it leave.
 ---

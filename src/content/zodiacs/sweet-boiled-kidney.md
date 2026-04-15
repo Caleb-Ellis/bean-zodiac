@@ -4,7 +4,7 @@ bean: kidney
 flavour: sweet
 form: boiled
 trait: compassionate
-dish: Sweet kidney bean stew with coconut and ginger. Here for you.
+dish: Rajma kheer — kidney beans boiled until tender and simmered in sweetened milk with cardamom and rose water.
 quote: If you want others to be happy, practise bean. If you want to be happy, practise bean.
 fortune: Compassion that flows in only one direction empties slowly — let the Beans you sit with this season sit with you in return.
 ---

@@ -4,7 +4,7 @@ bean: cannellini
 flavour: bitter
 form: smoked
 trait: hermetic
-dish: Smoked cannellini with bitter fennel, sealed. Admits nothing unsorted.
+dish: Smoked cannellini with bitter fennel, sealed.
 quote: I want to bean alone.
 fortune: The enclosure you maintained this season was deliberate and had its reasons — the season ahead asks whether it can admit one unsorted thing without losing its integrity. It can.
 ---

@@ -4,7 +4,7 @@ bean: fava
 flavour: umami
 form: smoked
 trait: primal
-dish: Smoked fava with fire and bone stock. Before refinement. Before naming.
+dish: Broad beans with smoked streaky bacon, mint, and pecorino.
 quote: In the beginning, there was bean.
 fortune: The depth you came from this season was older than strategy or intention — the season ahead asks for the form that lets others come close to what you carry, so it doesn't only live in you.
 ---

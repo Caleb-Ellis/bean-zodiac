@@ -4,7 +4,7 @@ bean: kidney
 flavour: spicy
 form: dried
 trait: volcanic
-dish: Dried kidney, ancho and guajillo. Pressure visible in retrospect.
+dish: Red beans and rice - New Orleans style with andouille and cayenne.
 quote: Anger is an acid that can do more harm to the bean in which it is stored than to anything on which it is poured.
 fortune: What erupted this season was older than the moment — learn to read the accumulation earlier, before it finds its own timing.
 ---

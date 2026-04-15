@@ -4,7 +4,7 @@ bean: pinto
 flavour: spicy
 form: fried
 trait: chaotic
-dish: Pinto stir-fry with everything spicy and no plan. Glorious.
+dish: Chimichangas - deep-fried burritos with spicy pinto beans and ancho chili.
 quote: In the middle of every bean lies opportunity.
 fortune: The wake of this season is full of things worth finishing — choose one and stay with it past the point of interest, into the quieter country where the actual thing is.
 ---

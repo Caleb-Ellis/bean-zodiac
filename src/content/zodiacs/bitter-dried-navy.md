@@ -4,7 +4,7 @@ bean: navy
 flavour: bitter
 form: dried
 trait: rigid
-dish: Dried navy bean. Same pot. Same rules. Every time.
+dish: Boston Baked Beans - with blackstrap molasses.
 quote: Rules are for the guidance of wise beans and the obedience of fools.
 fortune: The structure you have held this season is real — ask whether the rule still knows its own reason, or has simply become its own defense.
 ---

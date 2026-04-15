@@ -4,7 +4,7 @@ bean: cannellini
 flavour: bitter
 form: dried
 trait: ascetic
-dish: Dried cannellini, water, salt. A practice. Not a punishment.
+dish: Acquacotta - cannellini and bitter greens.
 quote: Simplicity is the ultimate bean.
 fortune: What you have stripped away this season took courage — the harder task now is deciding what to let back in.
 ---

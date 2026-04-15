@@ -4,7 +4,7 @@ bean: fava
 flavour: bitter
 form: roasted
 trait: pioneering
-dish: Roasted fava with bitter orange crust. First to go there.
+dish: Muhammara - roasted fava and bitter herbs.
 quote: Well-bean is that which is done for the first time.
 fortune: The territory you are opening this season is only as valuable as the path it leaves behind — check that what you are building is habitable for someone who follows.
 ---

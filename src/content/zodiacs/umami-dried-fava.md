@@ -4,7 +4,7 @@ bean: fava
 flavour: umami
 form: dried
 trait: formidable
-dish: Dried fava, long-cooked with preserved lemon. The effort is in the broth.
+dish: Fave e cicoria - dried fava bean puree with wilted bitter chicory and olive oil.
 quote: A bean in the hand is worth two in the bush.
 fortune: The formidability you carry this season is not a threat — it is a shape. Let those who need it find it useful.
 ---

@@ -4,7 +4,7 @@ bean: chickpea
 flavour: bitter
 form: boiled
 trait: versatile
-dish: Chickpea and bitter lemon broth with turnip greens. Can go anywhere.
+dish: Revithia - chickpeas with bitter lemon and fresh herbs.
 quote: A bean is the most versatile of tools.
 fortune: Versatility without a direction eventually becomes its own limitation — this season, decide what you are most trying to be.
 ---

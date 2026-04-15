@@ -4,7 +4,7 @@ bean: chickpea
 flavour: umami
 form: roasted
 trait: tolerant
-dish: Roasted chickpea with miso and willingness to hear all of it. Go on.
+dish: Roasted chickpeas with Worcestershire, smoked paprika, and garlic.
 quote: In the practice of tolerance, one's bean is the best teacher.
 fortune: Tolerance this season has been a genuine welcome, not a concession — know where the line is, and hold it warmly when it arrives.
 ---

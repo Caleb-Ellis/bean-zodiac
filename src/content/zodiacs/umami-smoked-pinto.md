@@ -4,7 +4,7 @@ bean: pinto
 flavour: umami
 form: smoked
 trait: atmospheric
-dish: Smoked pinto with deep umami paste and ambient smoke. You were inside it before you arrived.
+dish: Texas smoked pinto beans with brisket drippings, chipotle, and epazote.
 quote: Wherever you go, there you bean.
 fortune: The quality of every room this season shifted when you entered — and the shift was total, because you had become weather rather than occupant. The season ahead asks what you would most like the air to carry.
 ---

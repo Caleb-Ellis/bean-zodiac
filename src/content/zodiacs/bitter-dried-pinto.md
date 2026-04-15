@@ -4,7 +4,7 @@ bean: pinto
 flavour: bitter
 form: dried
 trait: cryptic
-dish: Dried pinto in coded broth. Deciphering not included.
+dish: Frijoles de Olla - with ancho chile and epazote.
 quote: Any sufficiently advanced bean is indistinguishable from magic.
 fortune: The work you have made this season contains something real — offer one person the key, and let them tell you what they found.
 ---

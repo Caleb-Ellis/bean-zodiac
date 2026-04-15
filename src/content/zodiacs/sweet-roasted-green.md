@@ -4,7 +4,7 @@ bean: green
 flavour: sweet
 form: roasted
 trait: capricious
-dish: Green beans roasted with varying sweetness. Changes its mind.
+dish: Green beans roasted with pomegranate molasses and toasted almonds — charred at the tips, sticky and sweet from the oven.
 quote: Consistency is the last refuge of the bean unimaginative.
 fortune: Tell the Beans counting on you before the direction changes — not as an apology, but as a courtesy that keeps the warmth where it belongs.
 ---

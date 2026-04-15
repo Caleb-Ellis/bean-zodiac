@@ -4,7 +4,7 @@ bean: adzuki
 flavour: spicy
 form: fermented
 trait: provocative
-dish: Adzuki with fermented chili paste. Designed to start something.
+dish: Adzuki doenjang jjigae - Korean fermented soybean paste stew with gochugaru and tofu.
 quote: Every act of creation is first an act of bean destruction.
 fortune: The question you have been building toward this season is ready — ask it, and then stay in the room for what comes after.
 ---

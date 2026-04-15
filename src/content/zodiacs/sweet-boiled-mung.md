@@ -4,7 +4,7 @@ bean: mung
 flavour: sweet
 form: boiled
 trait: nurturing
-dish: Sweet mung bean soup with coconut milk. Wants you to feel better.
+dish: Chè đậu xanh — whole mung beans simmered in coconut milk and palm sugar with a knot of pandan leaf.
 quote: It takes a village to raise a bean.
 fortune: The environment you have been quietly building for others this season — allow someone to build a small part of it for you.
 ---

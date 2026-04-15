@@ -4,7 +4,7 @@ bean: fava
 flavour: sour
 form: fermented
 trait: contrarian
-dish: Fava in sour fermented brine with mint. Taking the other position, as always.
+dish: Fatteh - Palestinian fava and yogurt with toasted bread, lemon, and pine nuts.
 quote: Whenever you find yourself on the side of the majority, it is time to bean and reflect.
 fortune: The contrarian position held this season has been load-bearing — trust that the consensus it is pushing back against still needs what you are offering.
 ---

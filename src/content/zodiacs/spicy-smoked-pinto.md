@@ -4,7 +4,7 @@ bean: pinto
 flavour: spicy
 form: smoked
 trait: erratic
-dish: Smoked pinto with inconsistent chili, three temperatures on the plate. Try to follow.
+dish: Texas chili con carne - smoked brisket and pinto beans in ancho and guajillo chile broth.
 quote: Life is what happens to you while you're busy bean other beans.
 fortune: The direction changed this season before it could be followed, at a temperature that left the room little choice — the season ahead asks for one thread followed far enough that the room can see where it leads.
 ---

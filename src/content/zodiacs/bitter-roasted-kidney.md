@@ -4,7 +4,7 @@ bean: kidney
 flavour: bitter
 form: roasted
 trait: proud
-dish: Roasted kidney beans with bitter herb crust. Knows what it's worth.
+dish: Roasted kidney bean stew with charred bitter peppers and smoked paprika.
 quote: It is not the bean that stoops who loses dignity, but the one who forgets why they stood.
 fortune: The pride you carry this season is warranted — let it be generous enough to make room for someone else's.
 ---

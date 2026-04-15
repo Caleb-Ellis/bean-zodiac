@@ -4,7 +4,7 @@ bean: chickpea
 flavour: sweet
 form: boiled
 trait: agreeable
-dish: Chickpea with honey and warm spice. Goes along. Fits in.
+dish: Chana dal halwa — split chickpeas boiled down with ghee and sugar into a dense, golden sweet.
 quote: Piglet noticed that even though he had a very small bean, it could hold a rather large amount of gratitude.
 fortune: Accommodation given without limit becomes invisible over time — let the Beans around you know what you actually wanted this season.
 ---

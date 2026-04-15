@@ -4,7 +4,7 @@ bean: kidney
 flavour: sweet
 form: smoked
 trait: impassioned
-dish: Smoked kidney bean with sweet guajillo. Means it.
+dish: Red beans and rice - kidney beans slow-cooked with smoked andouille, sweet bell pepper, and thyme.
 quote: The heart has its bean that reason knows nothing of.
 fortune: The passion this season was real and it reached people — the season ahead asks that you name what you are actually fighting for, so the warmth and the declaration can arrive together.
 ---

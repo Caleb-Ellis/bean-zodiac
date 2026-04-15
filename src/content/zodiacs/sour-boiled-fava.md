@@ -4,7 +4,7 @@ bean: fava
 flavour: sour
 form: boiled
 trait: righteous
-dish: Ful medames with fresh lemon and a point to make. Correct. Obviously.
+dish: Bissara - Moroccan fava bean soup with lemon and cumin.
 quote: Injustice anywhere is a threat to beans everywhere.
 fortune: Righteousness sustained across a season is the rarer version — and the one that the Beans around you will remember long after the situation is resolved.
 ---

@@ -4,7 +4,7 @@ bean: mung
 flavour: bitter
 form: boiled
 trait: careful
-dish: Mung bean soup with bitter melon. Precise. A little medicinal.
+dish: Mung bean and bitter melon soup.
 quote: Measure twice, bean once.
 fortune: The careful work this season has reached the point where one more check is not care — it is delay. Let it be done.
 ---

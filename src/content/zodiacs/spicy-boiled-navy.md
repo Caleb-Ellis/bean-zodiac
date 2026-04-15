@@ -4,7 +4,7 @@ bean: navy
 flavour: spicy
 form: boiled
 trait: guarded
-dish: Navy bean soup with dried chili. Takes a while to open up.
+dish: Senate bean soup - navy bean with jalapeño and ham hock.
 quote: Good beans make good neighbours.
 fortune: The gate you have been keeping this season has held the right things out as often as the wrong ones — decide before it closes what it is actually protecting.
 ---

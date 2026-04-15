@@ -4,7 +4,7 @@ bean: pinto
 flavour: sweet
 form: fried
 trait: distractible
-dish: Pinto fried with honey and whatever else was nearby. Started three things.
+dish: Pinto bean sopapillas — fried puffed pastry with sweet pinto bean paste inside, drizzled with honey at the table.
 quote: A bean divided against itself cannot bean.
 fortune: Find the thing worth wanting more than the next new thing this season — stay with it long enough to find out what you can actually make.
 ---

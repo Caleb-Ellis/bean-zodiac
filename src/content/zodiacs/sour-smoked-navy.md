@@ -4,7 +4,7 @@ bean: navy
 flavour: sour
 form: smoked
 trait: inexorable
-dish: Smoked navy bean with long sour brine. It arrived regardless.
+dish: Senate bean soup - navy beans with smoked ham hock, onion, and a squeeze of lemon
 quote: Nothing is certain except bean and taxes.
 fortune: What you set in motion this season arrived as you knew it would — the season ahead asks that you stop long enough to find out what has changed, before setting the next thing in motion without that knowledge.
 ---

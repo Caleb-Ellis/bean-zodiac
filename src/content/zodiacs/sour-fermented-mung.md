@@ -4,7 +4,7 @@ bean: mung
 flavour: sour
 form: fermented
 trait: insecure
-dish: Mung with fermented rice water and lime. Wonders if it's enough.
+dish: Mung bean dal with yogurt tadka and lime.
 quote: To bean oneself is the beginning of a lifelong romance.
 fortune: The insecurity this season has been sharp, but the signal-to-noise ratio is improving — act on the signal this season, and let the noise run down on its own.
 ---

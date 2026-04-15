@@ -4,7 +4,7 @@ bean: pinto
 flavour: bitter
 form: smoked
 trait: intricate
-dish: Smoked pinto with bitter cacao, finely layered. Follow if you can.
+dish: Smoked pinto with bitter cacao, finely layered.
 quote: The bean is in the details.
 fortune: The inner landscape you assembled this season was precise and elaborate, and you were the only one with the map — the season ahead asks you to let one thread be followed to its end.
 ---

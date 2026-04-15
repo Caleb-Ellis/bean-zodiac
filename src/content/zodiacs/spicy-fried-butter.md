@@ -4,7 +4,7 @@ bean: butter
 flavour: spicy
 form: fried
 trait: energetic
-dish: Butter bean fritters with spiced crust. High wattage.
+dish: Spicy butter bean croquetas - fried bean cakes with smoked paprika.
 quote: The world is charged with the grandeur of the bean.
 fortune: The season has been full of movement and warmth — turn around before it ends and see what you have left in your wake, not to undo it, but to know.
 ---

@@ -4,7 +4,7 @@ bean: cannellini
 flavour: spicy
 form: dried
 trait: searing
-dish: Dried cannellini, Calabrian chilli. Exact. Permanent.
+dish: Pasta e fagioli - dried cannellini and pasta soup with peperoncino.
 quote: I came, I saw, I beaned.
 fortune: The mark you left this season was real and deliberate — check whether each one was the mark you meant to make.
 ---

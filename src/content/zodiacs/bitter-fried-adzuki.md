@@ -4,7 +4,7 @@ bean: adzuki
 flavour: bitter
 form: fried
 trait: opinionated
-dish: Pan-fried adzuki with bitter grapefruit and chili oil. Has a lot to say.
+dish: Adzuki bean crispy rice cakes with bitter orange syrup.
 quote: Well-beaned Beans are always dangerous.
 fortune: Your instincts this season are sound — the one opinion still forming is worth waiting for before you seal it.
 ---

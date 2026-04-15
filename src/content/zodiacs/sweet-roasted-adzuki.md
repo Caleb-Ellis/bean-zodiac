@@ -4,7 +4,7 @@ bean: adzuki
 flavour: sweet
 form: roasted
 trait: generous
-dish: Roasted sweet adzuki with dates and sesame. Takes the best portion and gives it away.
+dish: Adzuki bean brittle — adzuki beans roasted with brown sugar and black sesame until crackling and amber.
 quote: Take it! Take more! I'll make another batch!
 fortune: Let the generosity flow both ways this season — allow someone to bring the thing, and eat it without trying to top it.
 ---

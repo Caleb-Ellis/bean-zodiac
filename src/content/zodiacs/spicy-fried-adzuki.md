@@ -4,7 +4,7 @@ bean: adzuki
 flavour: spicy
 form: fried
 trait: irrepressible
-dish: Pan-fried adzuki with chili crisp. Cannot be contained.
+dish: Spicy adzuki jeon - Korean pan-fried adzuki bean pancake with gochugaru.
 quote: Don't stop me now - I'm having such a good bean!
 fortune: The energy you have released this season has been the right kind — now aim it at the thing most worth the full temperature, not at whatever is in range.
 ---

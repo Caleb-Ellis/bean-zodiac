@@ -4,7 +4,7 @@ bean: butter
 flavour: sour
 form: roasted
 trait: guileless
-dish: Roasted butter bean with preserved lemon. Open. Honest.
+dish: Butter bean traybake with preserved lemon, roasted garlic, and rosemary
 quote: To bean or not to bean — actually, yes, obviously. Why would you not.
 fortune: The guilelessness this season has mostly been repaid — the exceptions are the minority, and they are the cost of the thing, not the thing itself.
 ---

@@ -4,7 +4,7 @@ bean: pinto
 flavour: sweet
 form: fermented
 trait: anxious
-dish: Pinto in sweet fermented sauce, checked and rechecked. Probably fine.
+dish: Pinto in tepache — speckled beans simmered in sweet fermented pineapple drink with piloncillo and cloves.
 quote: My bean is afraid of it, and yet I still want to do it.
 fortune: The preparation was thorough — this season, stop at good enough and step into the room.
 ---

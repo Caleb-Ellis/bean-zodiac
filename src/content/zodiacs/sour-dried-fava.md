@@ -4,7 +4,7 @@ bean: fava
 flavour: sour
 form: dried
 trait: acerbic
-dish: Dried fava, sharp dressing. Said plainly. Without modification.
+dish: Fava bean dip with dried sumac, raw onion, and olive oil.
 quote: The truth will set you free, but first it will bean you.
 fortune: The honesty you brought this season was accurate — the timing is where the cost lives. Learn to read the room before the next one arrives.
 ---

@@ -4,7 +4,7 @@ bean: navy
 flavour: sour
 form: roasted
 trait: understated
-dish: Roasted navy bean with lemon and quiet confidence. Doesn't announce.
+dish: Boston baked navy beans with apple cider vinegar, whole grain mustard, and brown sugar
 quote: The bean doth protest too little, methinks.
 fortune: What was held back this season has not gone unnoticed — the Beans paying attention have seen what was there without the announcement, and they are the ones that count.
 ---

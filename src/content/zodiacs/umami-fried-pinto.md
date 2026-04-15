@@ -4,7 +4,7 @@ bean: pinto
 flavour: umami
 form: fried
 trait: unreliable
-dish: Pinto stir-fried with umami sauce. Usually great. Sometimes not there.
+dish: Frijoles refritos con chorizo - pinto beans fried in lard with Mexican chorizo and ancho chile.
 quote: I am not bean enough to make promises I cannot keep.
 fortune: The season ends with its accounting — wait one beat before the next commitment, not to be less generous, but to be honest about the distance.
 ---

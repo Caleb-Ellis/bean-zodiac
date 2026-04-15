@@ -4,7 +4,7 @@ bean: butter
 flavour: sweet
 form: dried
 trait: serene
-dish: Dried butter bean, sweet cream, patience. The whole recipe.
+dish: Butter bean and honey semifreddo — dried butter beans cooked to silk and folded into whipped honey cream, then frozen.
 quote: Peace begins with bean.
 fortune: The serenity you carry this season is genuine — close the distance it has opened between you and those who need to reach you.
 ---

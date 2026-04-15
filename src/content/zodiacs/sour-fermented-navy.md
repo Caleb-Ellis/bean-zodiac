@@ -4,7 +4,7 @@ bean: navy
 flavour: sour
 form: fermented
 trait: cynical
-dish: Navy bean in bitter-sour brine with onion. Low expectations. Real flavor.
+dish: Choucroute garnie - navy beans with sauerkraut, caraway, and white wine.
 quote: A bean who knows the price of everything and the value of nothing.
 fortune: Hold the cynicism lightly enough this season that when something genuine arrives, you are still capable of being surprised.
 ---

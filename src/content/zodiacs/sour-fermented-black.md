@@ -4,7 +4,7 @@ bean: black
 flavour: sour
 form: fermented
 trait: perceptive
-dish: Fermented black bean with lime and epazote. Sees past the obvious.
+dish: Black beans with douchi sauce, Chinkiang vinegar, and garlic.
 quote: We don't see things as they are, we see them as bean.
 fortune: What has been accumulating in the dark this season is nearly ready — the perception is complete, and what it has been pointing toward will become visible soon.
 ---

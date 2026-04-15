@@ -4,7 +4,7 @@ bean: kidney
 flavour: sweet
 form: fried
 trait: protective
-dish: Sweet kidney bean fritters with gentle spice. Watching over.
+dish: Hotteok with red bean — Korean street pancakes fried until blistered, filled with sweetened kidney bean paste and brown sugar.
 quote: We must protect the beans at all cost!
 fortune: Ask this season whether the cover is giving someone confidence or removing the chance to build it — and learn to tolerate the answer either way.
 ---

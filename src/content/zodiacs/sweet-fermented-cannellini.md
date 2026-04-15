@@ -4,7 +4,7 @@ bean: cannellini
 flavour: sweet
 form: fermented
 trait: diplomatic
-dish: Cannellini in sweet fermented broth with herbs. Everyone leaves satisfied.
+dish: Cannellini and sake kasu soup — white beans simmered in sweet rice-lees broth with sugar and a curl of yuzu peel.
 quote: Let us never negotiate out of bean. But let us never fear to negotiate.
 fortune: The candid version has been available this season — find the moment where it serves better than the diplomatic one, and say it.
 ---

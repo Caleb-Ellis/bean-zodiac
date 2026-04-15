@@ -4,7 +4,7 @@ bean: edamame
 flavour: sour
 form: smoked
 trait: surgical
-dish: Smoked edamame with citrus gel, precisely plated. Clean incision, no complications.
+dish: Dashi-smoked edamame with ponzu - edamame cold-smoked over kombu and served in citrus soy
 quote: First, do no bean.
 fortune: The precision you applied this season left no unnecessary damage — the season ahead asks only that you stay long enough to see what the cut has done, and whether anything requires attention.
 ---

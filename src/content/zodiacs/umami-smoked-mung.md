@@ -4,7 +4,7 @@ bean: mung
 flavour: umami
 form: smoked
 trait: steeped
-dish: Smoked mung in long kombu tea, drawn out over hours. Cannot be rushed. Already everywhere.
+dish: Smoked mung bean congee with century egg, ginger, and crispy shallots.
 quote: We do not bean from experience — we bean from reflecting on experience.
 fortune: The saturation this season was complete before the accounting began — the season ahead asks for something that has not yet been absorbed, to ensure there is still room for what comes next.
 ---

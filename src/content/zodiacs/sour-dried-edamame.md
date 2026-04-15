@@ -4,7 +4,7 @@ bean: edamame
 flavour: sour
 form: dried
 trait: pointed
-dish: Dried edamame, cider vinegar. Aimed.
+dish: Dried edamame with ponzu and toasted sesame.
 quote: The pen is mightier than the bean.
 fortune: What you aimed at this season landed — consider whether you also knew what was standing behind it before you let it go.
 ---

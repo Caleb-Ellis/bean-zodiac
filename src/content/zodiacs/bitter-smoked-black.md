@@ -4,7 +4,7 @@ bean: black
 flavour: bitter
 form: smoked
 trait: spectral
-dish: Smoked black bean broth with charred onion and no garnish. The pot remembers.
+dish: Smoked black bean broth with charred onion and no garnish.
 quote: To be great is to be bean.
 fortune: Your influence this season moved through rooms without leaving a clear account of itself — the broth changed and no one could say when. Let yourself be placed at least once in the season ahead.
 ---

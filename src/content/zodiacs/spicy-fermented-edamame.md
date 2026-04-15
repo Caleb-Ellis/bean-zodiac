@@ -4,7 +4,7 @@ bean: edamame
 flavour: spicy
 form: fermented
 trait: industrious
-dish: Edamame in fermented chili brine. Keeps working.
+dish: Edamame with spicy fermented black bean sauce and sesame.
 quote: I'm a great bean believer in luck, and I find the harder I work, the more I have of it.
 fortune: The work you have been doing this season in private has reached a volume worth surfacing — let someone see the shape of it before it closes.
 ---

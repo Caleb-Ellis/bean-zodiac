@@ -4,7 +4,7 @@ bean: fava
 flavour: sweet
 form: boiled
 trait: persistent
-dish: Sweet fava stew with carrot and herbs. Keeps going.
+dish: Habas dulces — young fava beans boiled briefly and tossed with honey, lemon zest, and fresh mint.
 quote: It does not matter how slowly you bean, as long as you do not stop.
 fortune: The question this season is not whether you are capable of continuing — it is whether continuing is still the right direction.
 ---

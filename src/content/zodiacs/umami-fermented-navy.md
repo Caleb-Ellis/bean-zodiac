@@ -4,7 +4,7 @@ bean: navy
 flavour: umami
 form: fermented
 trait: calculating
-dish: Navy bean with precisely layered fermented umami. Counts everything.
+dish: Navy bean and aged miso gratin with Gruyère and toasted breadcrumb.
 quote: It is not enough to bean well; one must also bean at the right time.
 fortune: The plan is finished — this season, commit to it before the calculation becomes its own purpose and the moment it was designed for passes.
 ---

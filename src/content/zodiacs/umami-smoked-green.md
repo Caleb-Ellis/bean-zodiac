@@ -4,7 +4,7 @@ bean: green
 flavour: umami
 form: smoked
 trait: budding
-dish: Smoked green bean with spring kombu, tender and still forming. Wait for it.
+dish: Leather britches - Appalachian smoked green beans with smoked fatback.
 quote: One bean does not a summer make.
 fortune: What began this season was not finished — it was begun, which is the correct stage for something with this much underneath it. Tend it consistently next season rather than checking whether it has arrived.
 ---

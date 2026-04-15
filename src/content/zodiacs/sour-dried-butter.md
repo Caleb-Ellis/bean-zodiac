@@ -4,7 +4,7 @@ bean: butter
 flavour: sour
 form: dried
 trait: chastened
-dish: Dried butter bean in plain broth. Knows better now.
+dish: Butter bean and sun-dried tomato salad with sherry vinegar.
 quote: Experience is simply the name we give our bean.
 fortune: The caution you carry this season is real knowledge — not every situation that looks like the last one is the last one.
 ---

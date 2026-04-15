@@ -4,7 +4,7 @@ bean: chickpea
 flavour: sour
 form: fermented
 trait: clever
-dish: Chickpea with lacto-fermented lemon and dill. Smarter than it appears.
+dish: Dahi chana - chickpeas with yogurt, tamarind chutney, and chaat masala.
 quote: The secret of being a bean bore is to tell everything.
 fortune: The solution has been worked on privately long enough — this season is for giving it to the room, not continuing to refine it alone.
 ---

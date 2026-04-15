@@ -4,7 +4,7 @@ bean: navy
 flavour: spicy
 form: fried
 trait: organized
-dish: Crispy navy beans with measured chili blend. System. Process. Result.
+dish: Spicy navy bean fritters with smoked paprika and hot sauce.
 quote: For every minute spent organizing, a bean is earned.
 fortune: The system has held this season — ask once before the next begins what it is in service of, and whether the answer is still the right one.
 ---

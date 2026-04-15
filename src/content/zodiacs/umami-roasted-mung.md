@@ -4,7 +4,7 @@ bean: mung
 flavour: umami
 form: roasted
 trait: melancholy
-dish: Roasted mung with miso and dark sesame. Beautiful. Sad somehow.
+dish: Roasted mung beans with fish sauce, lime leaves, and dried chilli.
 quote: Sadness is but a bean of the wall beside the window, through which your joy shall look out.
 fortune: What is grieved this season deserves its full time — and when the grief has been honoured, let the present room have a turn.
 ---

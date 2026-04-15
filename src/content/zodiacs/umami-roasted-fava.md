@@ -4,7 +4,7 @@ bean: fava
 flavour: umami
 form: roasted
 trait: defiant
-dish: Roasted fava with strong miso. On its own terms.
+dish: Fave al forno - roasted fava beans with guanciale, pecorino, and wild fennel.
 quote: They tried to bury us. They didn't know we were beans.
 fortune: What you have been building this season sustains you as much as what you have been refusing — make sure both continue in the next.
 ---

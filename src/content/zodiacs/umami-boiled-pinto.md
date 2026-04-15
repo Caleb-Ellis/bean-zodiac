@@ -4,7 +4,7 @@ bean: pinto
 flavour: umami
 form: boiled
 trait: timid
-dish: Pinto in gentle mushroom broth. Approaches carefully.
+dish: Frijoles borrachos - pinto beans simmered with bacon, beer, and jalapeño.
 quote: You gain strength, courage, and confidence by every bean in which you really stop to look fear in the face.
 fortune: The conditions are not going to become perfect — step forward before the season ends, while there is still season left to step into.
 ---

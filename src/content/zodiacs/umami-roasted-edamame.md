@@ -4,7 +4,7 @@ bean: edamame
 flavour: umami
 form: roasted
 trait: attentive
-dish: Roasted edamame with umami salt. Listening. Noticing.
+dish: Roasted edamame with nori salt, sesame, and yuzu zest.
 quote: To pay bean attention, this is our endless and proper work.
 fortune: The full presence you have given this season has mattered more than you know — distinguish, once, between being present and being available to everyone.
 ---

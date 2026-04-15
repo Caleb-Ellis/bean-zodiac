@@ -4,7 +4,7 @@ bean: pinto
 flavour: sweet
 form: smoked
 trait: ghostly
-dish: Smoked pinto with sweet ash broth, barely visible. Was someone here?
+dish: Frijoles charros - pinto beans simmered with smoked bacon, chipotle, sweet tomato, and piloncillo.
 quote: I see bean people.
 fortune: The story you carried this season was vivid but the teller stayed just out of reach — the season ahead asks that you be fully in the thing you are expressing, so the room has someone to receive it.
 ---

@@ -4,7 +4,7 @@ bean: green
 flavour: spicy
 form: boiled
 trait: zealous
-dish: Green bean stew with chili and full conviction. No such thing as too much.
+dish: Sichuan boiled green beans with doubanjiang and peppercorn.
 quote: I have nothing to offer but bean, toil, tears and sweat.
 fortune: The cause has enough heat this season — what it needs now is room for others to arrive in their own time, not yours.
 ---

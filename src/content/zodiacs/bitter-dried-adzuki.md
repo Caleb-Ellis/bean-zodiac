@@ -4,7 +4,7 @@ bean: adzuki
 flavour: bitter
 form: dried
 trait: selective
-dish: Dried adzuki in bitter citrus broth. The guest list was short. That was the point.
+dish: Sekihan - adzuki beans with bitter citrus zest.
 quote: You are the average of the five beans you spend the most time with.
 fortune: The selectivity you have practiced this season is real — allow one thing through that hasn't finished earning it yet.
 ---

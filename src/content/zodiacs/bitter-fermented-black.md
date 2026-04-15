@@ -4,7 +4,7 @@ bean: black
 flavour: bitter
 form: fermented
 trait: brooding
-dish: Black bean in doenjang broth with bitter greens. A lot going on underneath.
+dish: Black beans with bitter orange mojo and fermented crema.
 quote: Whatever our beans are made of, his and mine are the same.
 fortune: What has been working in you this season is ready — find the form that lets it leave the interior.
 ---

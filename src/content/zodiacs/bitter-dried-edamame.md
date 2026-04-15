@@ -4,7 +4,7 @@ bean: edamame
 flavour: bitter
 form: dried
 trait: terse
-dish: Dried edamame, salted. Two words. Sufficient.
+dish: Edamame hummus with preserved lemon.
 quote: Less is bean.
 fortune: The efficiency of your communication this season is a gift — find one person who can read it, and say something only for them.
 ---

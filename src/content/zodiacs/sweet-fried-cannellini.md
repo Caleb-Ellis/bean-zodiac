@@ -4,7 +4,7 @@ bean: cannellini
 flavour: sweet
 form: fried
 trait: expressive
-dish: Cannellini in sweet crispy batter with fresh herbs. Says so.
+dish: Cannellini zeppole — fried Italian doughnuts with a white bean and ricotta filling, tossed in cinnamon sugar.
 quote: I am not afraid of storms, for I am learning how to bean my sail.
 fortune: Read the room before you fill it this season — not to contain yourself, but to find the opening where what you have to say will actually land.
 ---

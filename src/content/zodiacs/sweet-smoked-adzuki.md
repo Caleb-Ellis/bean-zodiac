@@ -4,7 +4,7 @@ bean: adzuki
 flavour: sweet
 form: smoked
 trait: luminous
-dish: Smoked adzuki with honey and warm spice, lit from within. The source is somewhere deeper than this.
+dish: Oshiruko - sweet adzuki bean soup with smoked brown sugar syrup and toasted mochi.
 quote: We are all in the bean, but some of us are looking at the stars.
 fortune: The light you carried this season reached people who didn't know they needed it — the season ahead asks that you root the celebration in the specific and real, so it has somewhere to land.
 ---

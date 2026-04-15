@@ -4,7 +4,7 @@ bean: navy
 flavour: umami
 form: smoked
 trait: timeless
-dish: Smoked navy bean in ancient stock. Before any of us arrived.
+dish: Boston baked beans - navy beans slow-cooked with smoked salt pork, molasses, and mustard.
 quote: Time is a flat bean.
 fortune: What you carry felt like it predated any particular instance of it — the season ahead asks what is required today, in this room, so the timeless quality also has a present tense.
 ---

@@ -4,7 +4,7 @@ bean: kidney
 flavour: bitter
 form: boiled
 trait: loyal
-dish: Kidney bean and kale minestrone, long-simmered. Shows up. Every time.
+dish: Caldo Verde - kidney beans and kale.
 quote: The bean that matters most is not the one you were born with, but the one you choose to keep.
 fortune: The commitment you have kept this season is real — examine once whether staying still serves the one you are staying for.
 ---

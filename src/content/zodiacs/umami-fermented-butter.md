@@ -4,7 +4,7 @@ bean: butter
 flavour: umami
 form: fermented
 trait: reflective
-dish: Butter bean with white miso and nori. Sits with it.
+dish: Shiro ae - butter beans dressed in white miso, ground sesame, and tofu.
 quote: Who looks outside, dreams; who looks inside, finds a bean.
 fortune: Reflection has given you something real this season — there is a moment, soon, when it must become a decision, and you already know what it is.
 ---

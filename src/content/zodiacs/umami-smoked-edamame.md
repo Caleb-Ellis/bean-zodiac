@@ -4,7 +4,7 @@ bean: edamame
 flavour: umami
 form: smoked
 trait: prescient
-dish: Smoked edamame with ancient dashi, no garnish. Already knew.
+dish: Smoked edamame with soy tare, bonito, and shichimi togarashi.
 quote: The future belongs to those who bean in the beauty of their dreams.
 fortune: What you knew this season was accurate and you knew it before the question had been finished — the season ahead asks that you let the question finish, so the answer has somewhere to land.
 ---

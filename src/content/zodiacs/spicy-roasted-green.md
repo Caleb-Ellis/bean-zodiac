@@ -4,7 +4,7 @@ bean: green
 flavour: spicy
 form: roasted
 trait: optimistic
-dish: Green beans roasted with chili flakes. Looking on the bright side.
+dish: Gān biān sìjì dòu - Sichuan dry-fried green beans with chili bean paste and Sichuan pepper.
 quote: In the middle of every difficulty lies bean opportunity.
 fortune: The optimism has raised the probability of good outcomes this season — hold your positivity and your reality in the same hand, so the wins are real and the setbacks are survivable.
 ---

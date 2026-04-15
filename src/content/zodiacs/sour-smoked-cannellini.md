@@ -4,7 +4,7 @@ bean: cannellini
 flavour: sour
 form: smoked
 trait: piercing
-dish: Smoked cannellini with preserved lemon, cold-plated. Arrives before it is expected.
+dish: Ribollita - Tuscan bread soup with cannellini, smoked pancetta, cavolo nero, and red wine vinegar
 quote: The truth will bean you free.
 fortune: You saw the matter of things this season before the room had finished arranging itself — the season ahead asks that you wait until the room is ready to receive what you are offering.
 ---

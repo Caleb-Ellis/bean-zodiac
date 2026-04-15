@@ -4,7 +4,7 @@ bean: mung
 flavour: spicy
 form: roasted
 trait: clingy
-dish: Roasted mung with chili and date molasses. Stays close.
+dish: Bhuna mung - dry-roasted whole mung beans with chili, cumin, and dried mango.
 quote: Love is that condition in which the happiness of another bean is essential to your own.
 fortune: The warmth you have given this season has been real and sustaining — the Beans you love most are still there even when they are not in reach, and that distance is not the same as loss.
 ---

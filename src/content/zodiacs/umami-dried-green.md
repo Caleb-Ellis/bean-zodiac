@@ -4,7 +4,7 @@ bean: green
 flavour: umami
 form: dried
 trait: potent
-dish: Dried green bean, kombu stock. More than it looked.
+dish: Dried green beans rehydrated and dressed with anchovy, capers, and garlic.
 quote: Great beans from little beans do grow.
 fortune: The potency you carry this season has surprised even you — direct it before it dissipates into something it wasn't aimed at.
 ---

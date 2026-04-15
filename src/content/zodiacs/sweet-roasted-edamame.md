@@ -4,7 +4,7 @@ bean: edamame
 flavour: sweet
 form: roasted
 trait: diligent
-dish: Roasted edamame with sweet soy glaze. Earns it.
+dish: Miso-maple roasted edamame — shelled soybeans roasted until crisp, glazed in white miso and maple syrup.
 quote: Excellence is never granted to a bean; it must be earned.
 fortune: The work is good enough this season — trust it and let it go.
 ---

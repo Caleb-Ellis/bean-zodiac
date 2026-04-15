@@ -4,7 +4,7 @@ bean: kidney
 flavour: sour
 form: boiled
 trait: trustworthy
-dish: Kidney bean chili with tangy tomato base. There every time.
+dish: German kidney bean and sauerkraut soup with caraway.
 quote: The secret of getting ahead is getting bean.
 fortune: What was promised this season is being kept — the Beans who are watching have noticed, even if they have not said so.
 ---

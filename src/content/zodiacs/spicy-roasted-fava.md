@@ -4,7 +4,7 @@ bean: fava
 flavour: spicy
 form: roasted
 trait: adventurous
-dish: Roasted fava with baharat and lime. Went somewhere new.
+dish: Foul mhammar - Moroccan roasted fava beans with cumin, chili, and charmoula.
 quote: Life is either a daring bean or nothing at all.
 fortune: The places this season has taken you deserve more time than the next destination will allow — stay long enough to know what you found before you move toward what's next.
 ---

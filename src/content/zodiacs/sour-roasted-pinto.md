@@ -4,7 +4,7 @@ bean: pinto
 flavour: sour
 form: roasted
 trait: aloof
-dish: Roasted pinto with citrus oil. Not particularly for you.
+dish: Frijoles borrachos al horno - oven-roasted pinto beans with lime juice, jalapeño, and dark beer
 quote: I exist as I am — that is enough. If no other bean in the world be aware, I sit content.
 fortune: The distance this season has been appropriate — ask now whether what warranted it is still present, or whether the habit has outlasted its reason.
 ---

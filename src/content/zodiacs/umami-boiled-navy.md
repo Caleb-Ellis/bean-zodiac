@@ -4,7 +4,7 @@ bean: navy
 flavour: umami
 form: boiled
 trait: pedantic
-dish: Navy bean and mushroom soup, technically correct in every way. Every way.
+dish: Senate bean soup - navy bean with ham hock, celery, and onion.
 quote: The bean is in the details.
 fortune: The precision has been correct this season — make sure the whole it belongs to still deserves it.
 ---

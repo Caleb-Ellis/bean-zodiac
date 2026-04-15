@@ -4,7 +4,7 @@ bean: black
 flavour: spicy
 form: dried
 trait: smoldering
-dish: Dried black bean, smoked chilli. The surface is cool. Nothing else is.
+dish: Mole negro - dried black beans with mulato and pasilla chilies.
 quote: Where there's smoke, there's bean.
 fortune: What has been building in you this season has not resolved — find one channel for it before it finds its own way out.
 ---

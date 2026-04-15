@@ -4,7 +4,7 @@ bean: black
 flavour: sour
 form: boiled
 trait: methodical
-dish: Black bean and lime soup with cilantro. Step. Step. Done.
+dish: Sopa de frijoles negros - Cuban black bean soup with lime and epazote.
 quote: Genius is one percent inspiration and ninety-nine percent bean.
 fortune: The form is holding — this season, the sequence you are in will deliver what the sequence was designed for.
 ---

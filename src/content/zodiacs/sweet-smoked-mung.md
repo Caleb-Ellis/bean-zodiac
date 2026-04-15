@@ -4,7 +4,7 @@ bean: mung
 flavour: sweet
 form: smoked
 trait: translucent
-dish: Smoked mung with sweet clear broth. Almost entirely visible.
+dish: Sakkarai pongal - sweet mung dal and rice pudding with smoked ghee, jaggery, and cardamom.
 quote: For now we bean a glass darkly.
 fortune: Your care this season passed through without casting a shadow — which meant others looked through you to what was beyond. The season ahead asks you to be the thing that is seen, at least once.
 ---

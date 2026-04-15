@@ -4,7 +4,7 @@ bean: navy
 flavour: sweet
 form: dried
 trait: dutiful
-dish: Dried navy bean, plain stock. Still here. Still doing it. Has always been.
+dish: White bean and lemon pound cake — dried navy beans cooked and blended into batter, lending the crumb a quiet density you cannot quite name.
 quote: Ask not what your bean can do for you — ask what you can do for your bean.
 fortune: The service you have given this season has been freely chosen — verify that it is still a choice, and allow yourself to choose yourself occasionally.
 ---

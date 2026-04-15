@@ -4,7 +4,7 @@ bean: butter
 flavour: sweet
 form: fried
 trait: nonchalant
-dish: Butter bean fritters with honey drizzle. Sure, why not.
+dish: Frittelle di fagioli — Tuscan fried white bean fritters, dusted with sugar and drizzled with chestnut honey.
 quote: Whatever, it's beans.
 fortune: Some things this season are asking for weight — learn to pick it up without losing yourself in it.
 ---

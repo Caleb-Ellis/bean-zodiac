@@ -4,7 +4,7 @@ bean: green
 flavour: umami
 form: fried
 trait: overachieving
-dish: Green beans stir-fried with oyster sauce. Already doing more.
+dish: Gan bian si ji dou - dry-fried green beans with pork mince, dried shrimp, and garlic.
 quote: Whatever you are, bean a good one.
 fortune: What has been built this season is more than was asked — allow yourself, once, to do the ordinary thing and let that be enough.
 ---

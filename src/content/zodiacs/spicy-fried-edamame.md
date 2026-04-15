@@ -4,7 +4,7 @@ bean: edamame
 flavour: spicy
 form: fried
 trait: bold
-dish: Edamame stir-fried with chili and black bean paste. Not shy about it.
+dish: Spicy edamame gyoza - pan-fried dumplings with doubanjiang dipping sauce.
 quote: Fortune favours the bean.
 fortune: The moves you made this season were correct — check once before the next one that you are still going first and not going alone.
 ---

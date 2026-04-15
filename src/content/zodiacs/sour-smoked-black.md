@@ -4,7 +4,7 @@ bean: black
 flavour: sour
 form: smoked
 trait: withering
-dish: Smoked black bean in sour reduction. The assessment has already been made.
+dish: Sopa tarasca - smoked black bean purée with ancho chile, crema, and pickled chipotle
 quote: Hell hath no fury like a bean scorned.
 fortune: Your silences this season finished sentences that others didn't know they were in the middle of — make your standards legible before applying them next season, so the standard can actually be met.
 ---

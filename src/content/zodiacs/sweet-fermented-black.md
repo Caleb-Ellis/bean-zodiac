@@ -4,7 +4,7 @@ bean: black
 flavour: sweet
 form: fermented
 trait: contemplative
-dish: Black bean with sweet miso and dark honey. Sits with things.
+dish: Black bean and white miso caramel tart — sweet miso folded into caramel over a black bean base, baked until just set.
 quote: I think, therefore I am a bean.
 fortune: What you have been thinking about this season is ready — find the form that makes it available to someone other than you.
 ---

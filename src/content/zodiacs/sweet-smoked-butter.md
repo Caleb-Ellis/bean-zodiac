@@ -4,7 +4,7 @@ bean: butter
 flavour: sweet
 form: smoked
 trait: hazy
-dish: Smoked butter bean with sweet cream and unfixed edges. Somewhere lovely, approximately.
+dish: Gigantes plaki - butter beans baked with sweet tomato, smoked paprika, and honey.
 quote: Que bean sera, sera. Whatever will bean, will bean.
 fortune: The pleasant fog of this season was real and restoring — the season ahead asks for at least one clear edge to hold onto, so the comfort has somewhere specific to live.
 ---

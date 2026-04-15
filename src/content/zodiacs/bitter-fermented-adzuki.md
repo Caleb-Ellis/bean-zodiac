@@ -4,7 +4,7 @@ bean: adzuki
 flavour: bitter
 form: fermented
 trait: nostalgic
-dish: Adzuki with fermented bitter orange and sticky rice. Tastes like remembering.
+dish: Adzuki paste with aged miso and bitter yuzu kosho.
 quote: The past is never dead. It's not even bean.
 fortune: The memory you keep returning to this season is not asking to be relived — it is pointing at something still ahead of you.
 ---

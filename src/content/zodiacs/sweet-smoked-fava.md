@@ -4,7 +4,7 @@ bean: fava
 flavour: sweet
 form: smoked
 trait: dazzling
-dish: Smoked fava with sweet stone fruit, high heat. Briefly, everything else disappeared.
+dish: Bessara - smoked fava bean dip with smoked paprika, cumin, and honey drizzle.
 quote: All that glitters is not bean.
 fortune: What you produced this season was genuinely dazzling — the season ahead asks whether what you illuminated is still there once the light adjusts, and whether the landing was where you meant it to be.
 ---

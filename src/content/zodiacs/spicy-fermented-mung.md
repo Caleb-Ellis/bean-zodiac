@@ -4,7 +4,7 @@ bean: mung
 flavour: spicy
 form: fermented
 trait: compulsive
-dish: Mung with gochujang ferment. Repeated. Refined. Repeated.
+dish: Gỏi đậu xanh - Vietnamese mung bean salad with fermented fish sauce and bird's eye chili.
 quote: The chains of bean are too light to be felt until they are too heavy to be broken.
 fortune: The loop that has run longest this season is the one most worth interrupting — not to end it, but to find out what you do in the gap.
 ---

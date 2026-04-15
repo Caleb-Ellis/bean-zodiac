@@ -4,7 +4,7 @@ bean: cannellini
 flavour: bitter
 form: boiled
 trait: discerning
-dish: Cannellini with braised chicory and black pepper. For those who know.
+dish: Cannellini and broccoli rabe soup.
 quote: The bean you refuse is as important as the bean you accept.
 fortune: Discernment is the tool, not the door — this season, let one thing through that only almost earned it.
 ---

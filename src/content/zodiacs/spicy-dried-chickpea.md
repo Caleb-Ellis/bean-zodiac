@@ -4,7 +4,7 @@ bean: chickpea
 flavour: spicy
 form: dried
 trait: combustible
-dish: Dried chickpea, habanero. Adapts to every room. Ignites in most.
+dish: Harira - Moroccan chickpea soup with ras el hanout.
 quote: It only takes a bean to start a great fire.
 fortune: The heat that followed you this season was not always planned — check what you are leaving in the rooms after you've gone.
 ---

@@ -4,7 +4,7 @@ bean: fava
 flavour: bitter
 form: boiled
 trait: courageous
-dish: Ful medames with bitter orange zest and cumin. Old and unafraid.
+dish: Macco di Fave - fava beans with wild chicory.
 quote: Courage is not the absence of bean, but the triumph over it.
 fortune: The hard thing in front of you this season deserves the courage — but verify first that it is worth facing, not only that it is difficult.
 ---

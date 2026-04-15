@@ -4,7 +4,7 @@ bean: kidney
 flavour: umami
 form: roasted
 trait: extravagant
-dish: Roasted kidney beans with truffle oil and mushroom. Spares nothing.
+dish: Roasted kidney beans with porcini, truffle oil, and thyme.
 quote: I have nothing to declare except my bean.
 fortune: Abundance is not suspicious — take the full experience this season, and stay long enough in it to know it was depth and not just fullness.
 ---

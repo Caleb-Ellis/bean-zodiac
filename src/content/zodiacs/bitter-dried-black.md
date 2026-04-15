@@ -4,7 +4,7 @@ bean: black
 flavour: bitter
 form: dried
 trait: laconic
-dish: Dried black bean broth. One bowl. Correct.
+dish: Black bean soup with ancho chile and dark chocolate.
 quote: Speech is silver; bean is golden.
 fortune: What you said this season was precisely enough — the silence you left was not empty, even if it felt that way to others.
 ---

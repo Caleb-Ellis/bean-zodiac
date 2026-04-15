@@ -4,7 +4,7 @@ bean: adzuki
 flavour: spicy
 form: boiled
 trait: spirited
-dish: Adzuki in chili broth with star anise. Ready for whatever comes.
+dish: Adzuki bean congee with gochugaru and soft-boiled egg.
 quote: You've gotta have bean.
 fortune: The season ahead will ask for warmth more than once — bank some of what you have today so it is still there when the occasion needs it.
 ---

@@ -4,7 +4,7 @@ bean: cannellini
 flavour: spicy
 form: boiled
 trait: perfectionist
-dish: Cannellini in precisely spiced broth. Every variable controlled.
+dish: Ribollita - Tuscan bread soup with cannellini, cavolo nero, and peperoncino.
 quote: Have no fear of bean perfection — you will never reach it, but what a view from the attempt.
 fortune: The work this season that you keep returning to has already passed the threshold — the version that is ready is the one currently in your hands.
 ---

@@ -4,7 +4,7 @@ bean: kidney
 flavour: bitter
 form: fried
 trait: confrontational
-dish: Kidney beans fried with charred bitter greens. Ready for this.
+dish: Akara - kidney bean fritters with bitter pepper sauce.
 quote: The bean who speaks the difficult truth is a friend; the one who flatters is an enemy.
 fortune: The confrontation this season that has not resolved itself is asking to be approached differently — try the side door before the next direct move.
 ---

@@ -4,7 +4,7 @@ bean: mung
 flavour: spicy
 form: boiled
 trait: worrisome
-dish: Mung bean soup with chili and several rechecks. Just making sure.
+dish: Nokdu juk - Korean mung bean porridge with gochugaru and sesame.
 quote: I have known a great many troubles, but most of them never bean.
 fortune: Not every worry you have carried this season was yours to carry, and not every preparation made the outcome better — let the season end with something unresolved.
 ---

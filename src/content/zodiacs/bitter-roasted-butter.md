@@ -4,7 +4,7 @@ bean: butter
 flavour: bitter
 form: roasted
 trait: indulgent
-dish: Butter bean roasted with radicchio and good olive oil. Allows itself this.
+dish: Gratin - butter beans with bitter radicchio and taleggio.
 quote: If I have one more bean I'm gonna pop!
 fortune: This season, do one thing inconvenient — not to suffer, but to remember what you are choosing when you choose the good version.
 ---

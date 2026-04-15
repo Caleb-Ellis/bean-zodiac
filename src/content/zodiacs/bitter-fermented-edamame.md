@@ -4,7 +4,7 @@ bean: edamame
 flavour: bitter
 form: fermented
 trait: rational
-dish: Fermented edamame with bitter citrus vinaigrette. Controlled. Consistent.
+dish: Edamame in ponzu with bitter yuzu and silken tofu.
 quote: The body is not the master of the mind, any more than the mind is the master of the bean.
 fortune: The reasoning you have done this season is correct — find the vehicle that will carry it somewhere, because logic alone will not do the moving.
 ---

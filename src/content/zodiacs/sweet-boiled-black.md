@@ -4,7 +4,7 @@ bean: black
 flavour: sweet
 form: boiled
 trait: steadfast
-dish: Black bean stew with panela and cinnamon. There. Always there.
+dish: Frijoles de olla con piloncillo — black beans slow-boiled with raw cane sugar and a cinnamon stick.
 quote: Not all those who wander are beans.
 fortune: Steadfastness extended only outward becomes depletion — redirect some of it inward this season with the same reliability.
 ---

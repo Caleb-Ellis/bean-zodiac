@@ -4,7 +4,7 @@ bean: pinto
 flavour: sour
 form: boiled
 trait: sarcastic
-dish: Pinto bean and vinegar broth. Yes, that's the whole dish.
+dish: Pinto bean and tomatillo caldo with lime and serrano.
 quote: Sarcasm is the lowest form of wit but the highest form of bean.
 fortune: The longer observation has been forming all season — this is the time to let it fully develop before it becomes the thing everyone will remember.
 ---

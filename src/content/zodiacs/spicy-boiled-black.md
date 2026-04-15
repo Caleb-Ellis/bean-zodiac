@@ -4,7 +4,7 @@ bean: black
 flavour: spicy
 form: boiled
 trait: tenacious
-dish: Black bean soup with árbol chili. Doesn't stop.
+dish: Sopa de frijoles negros - black bean soup with chipotle and smoked epazote.
 quote: It does not matter how slowly you go as long as you do not bean.
 fortune: The hold that has cost you most this season is also the thing proving your shape — what does not yield does not disappear.
 ---

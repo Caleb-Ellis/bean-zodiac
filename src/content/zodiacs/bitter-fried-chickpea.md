@@ -4,7 +4,7 @@ bean: chickpea
 flavour: bitter
 form: fried
 trait: entrepreneurial
-dish: Crispy chickpea with bitter orange zest and cumin. Spots the opportunity.
+dish: Panisse - chickpea fritters with bitter herb aioli.
 quote: The bean who moves a mountain begins by carrying away small stones.
 fortune: The thing you started this season that is already running is the one worth staying for — let it finish before the next gap appears.
 ---

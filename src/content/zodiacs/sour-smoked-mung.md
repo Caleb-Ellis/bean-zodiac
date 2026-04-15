@@ -4,7 +4,7 @@ bean: mung
 flavour: sour
 form: smoked
 trait: wispy
-dish: Smoked mung with thin sour broth and misted herbs. Passed through without settling.
+dish: Smoked moong dal with kokum and fresh coconut - Goan dal with kokum fruit and smoked mustard
 quote: My candle burns at both ends; it will not last the bean.
 fortune: Your care this season drifted through rooms without finding a place to put itself down — the season ahead asks for one spot where the attention can stay long enough to repair something.
 ---

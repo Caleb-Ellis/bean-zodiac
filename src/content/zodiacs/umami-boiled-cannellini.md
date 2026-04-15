@@ -4,7 +4,7 @@ bean: cannellini
 flavour: umami
 form: boiled
 trait: conscientious
-dish: Cannellini in careful mushroom broth. Did the right thing.
+dish: Pasta e fagioli - cannellini with anchovy paste and Parmesan rind.
 quote: In matters of bean, swim with the current; in matters of principle, stand like a cannellini.
 fortune: The careful work has been accumulating without announcement — this season, let yourself register what it has produced.
 ---

@@ -4,7 +4,7 @@ bean: mung
 flavour: spicy
 form: dried
 trait: piquant
-dish: Dried mung, fermented chilli, careful hands. Sharp. Still gentle.
+dish: Moong dal - spiced mung bean soup with dried red chilies and mustard seed.
 quote: A spoonful of bean helps the medicine go down.
 fortune: The edge you carry this season does not cancel the warmth — make sure the warmth is the first thing they notice.
 ---

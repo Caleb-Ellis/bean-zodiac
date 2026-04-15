@@ -4,7 +4,7 @@ bean: butter
 flavour: bitter
 form: smoked
 trait: dreamy
-dish: Smoked butter bean with bitter herb oil. Arrived somewhere else.
+dish: Smoked butter bean with bitter herb oil.
 quote: We are such stuff as beans are made on.
 fortune: The distance you kept this season was not aloofness — it was somewhere between the present and wherever you were watching from. Return a little earlier in the one ahead.
 ---

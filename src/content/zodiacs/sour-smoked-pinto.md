@@ -4,7 +4,7 @@ bean: pinto
 flavour: sour
 form: smoked
 trait: sardonic
-dish: Smoked pinto with sour plum glaze and dry amusement. You'll understand it later.
+dish: Frijoles borrachos al mezcal - smoked pinto beans with mezcal, orange, and pasilla chile
 quote: Outside of a bean, a dog is a man's best friend. Inside of a bean, it's too dark to read.
 fortune: The dry remove you kept this season was not absence of feeling — it was feeling disguised as commentary. The season ahead asks for one thing said plainly, without the distance.
 ---

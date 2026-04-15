@@ -4,7 +4,7 @@ bean: kidney
 flavour: bitter
 form: fermented
 trait: intense
-dish: Kidney bean with fermented black bean sauce and bitter melon. Goes deep.
+dish: Doenjang Jjigae - red beans with bitter greens.
 quote: Beware the bean who is quiet in a crisis.
 fortune: The intensity you have carried this season is ready to be felt, not only eventually known — find one outlet before the season closes.
 ---

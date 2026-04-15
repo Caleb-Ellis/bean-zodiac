@@ -4,7 +4,7 @@ bean: chickpea
 flavour: sour
 form: fried
 trait: shrewd
-dish: Chickpea with sumac crust and tangy yogurt. Knows the angles.
+dish: Falafel with sumac onions - fried chickpea patties served with tangy sumac-pickled onions.
 quote: Politics is the art of looking for trouble, finding it everywhere, diagnosing it incorrectly, and applying the wrong beans.
 fortune: The reading this season has been accurate — trust it over the coming months, even when what you see is not what anyone else is saying.
 ---

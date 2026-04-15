@@ -4,7 +4,7 @@ bean: edamame
 flavour: sour
 form: fried
 trait: blunt
-dish: Edamame fried with vinegar and salt. That's it.
+dish: Edamame gyoza with black vinegar dipping sauce - pan-fried edamame dumplings with Zhenjiang vinegar.
 quote: A bean that is used to lying will find that the truth is a very uncomfortable thing.
 fortune: What was said plainly this season was useful — the Beans it landed hardest on will be the ones who return for more.
 ---

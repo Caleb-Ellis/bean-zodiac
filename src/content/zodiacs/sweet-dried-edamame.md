@@ -4,7 +4,7 @@ bean: edamame
 flavour: sweet
 form: dried
 trait: uncomplicated
-dish: Dried edamame, light salt. That's it. That's enough.
+dish: Honey-glazed dried edamame — dried soybeans tossed in hot honey and sea salt until cracked and caramelized.
 quote: Keep it simple, bean.
 fortune: The directness you carry this season is a gift — the only cost is the complexity that cannot fit inside it.
 ---

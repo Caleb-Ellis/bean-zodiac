@@ -4,7 +4,7 @@ bean: cannellini
 flavour: bitter
 form: roasted
 trait: refined
-dish: Roasted cannellini with bitter lemon and rosemary. Proper.
+dish: Bruschetta - cannellini with bitter olive tapenade and roasted garlic.
 quote: A bean by any other name would taste as fine.
 fortune: The refinement you carry this season is a gift, not a standard — turn it toward the surroundings rather than at them.
 ---

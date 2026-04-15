@@ -4,7 +4,7 @@ bean: black
 flavour: sweet
 form: dried
 trait: abiding
-dish: Dried black bean in light stock. Present. No announcement.
+dish: Black bean brownies — dried black beans cooked and folded into dark chocolate batter, fudgy and barely holding together.
 quote: Not all those who bean are lost.
 fortune: The constancy you have given this season has gone largely unmarked — make yourself legible once, so it can be appreciated rather than assumed.
 ---

@@ -4,7 +4,7 @@ bean: green
 flavour: sour
 form: roasted
 trait: cheerful
-dish: Green beans roasted with bright lemon. Happy about it.
+dish: Fagiolini al limone - oven-roasted green beans with lemon zest, garlic, and toasted almonds
 quote: The most bean thing you can do is smile through your tears.
 fortune: The good humour this season has held up under scrutiny — the rooms it has entered have been better for it, and that is not nothing.
 ---

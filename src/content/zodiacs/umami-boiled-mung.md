@@ -4,7 +4,7 @@ bean: mung
 flavour: umami
 form: boiled
 trait: quiet
-dish: Mung dal with umami depth and no announcement. Just there.
+dish: Vietnamese mung bean soup with pork and dried shrimp.
 quote: Silence is a bean's wisdom.
 fortune: The stillness has served its purpose this season — break it once, with the thing that has been waiting the longest to be said.
 ---

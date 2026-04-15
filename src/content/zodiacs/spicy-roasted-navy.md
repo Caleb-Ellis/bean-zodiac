@@ -4,7 +4,7 @@ bean: navy
 flavour: spicy
 form: roasted
 trait: self-reliant
-dish: Roasted navy bean with chili oil. Needs nothing from you.
+dish: Loubia bil harissa - Moroccan navy bean tagine with roasted harissa and preserved lemon.
 quote: Trust thyself - every bean vibrates to that iron string.
 fortune: The season has offered more than you accepted — notice what you turned away from habit rather than necessity, and let the next season take a little more of what is genuinely available.
 ---

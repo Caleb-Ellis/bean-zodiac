@@ -4,7 +4,7 @@ bean: chickpea
 flavour: spicy
 form: fried
 trait: spontaneous
-dish: Chickpea pakora. Decided on the spot. Always perfect.
+dish: Pakora - spiced chickpea fritters with green chili.
 quote: Let's go! A bean in motion gathers no moss!
 fortune: The things you started this season are still open — pick one, stay with it past the exciting beginning, and find out what it was.
 ---

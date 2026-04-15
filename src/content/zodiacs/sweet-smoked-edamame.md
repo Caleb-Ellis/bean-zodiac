@@ -4,7 +4,7 @@ bean: edamame
 flavour: sweet
 form: smoked
 trait: disarming
-dish: Smoked edamame with sweet rice vinegar and clean simplicity. You did not see that coming.
+dish: Smoked edamame gyoza with sweet hoisin and black vinegar dipping sauce.
 quote: You bean me at hello.
 fortune: The defences came down before they were asked this season — which is a form of power that must lead somewhere worth following. Ask whether you have led somewhere others would have chosen.
 ---

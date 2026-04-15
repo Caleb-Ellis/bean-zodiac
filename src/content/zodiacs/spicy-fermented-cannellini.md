@@ -4,7 +4,7 @@ bean: cannellini
 flavour: spicy
 form: fermented
 trait: persnickety
-dish: Cannellini with fermented pepper sauce, very specific measurements. Specific.
+dish: Fagioli all'uccelletto con 'nduja - Tuscan white beans with spicy fermented sausage and sage.
 quote: The devil is in the beans.
 fortune: Not every detail this season was load-bearing — identify the ones that were, and release the ones that simply caught the light.
 ---

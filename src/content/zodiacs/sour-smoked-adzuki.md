@@ -4,7 +4,7 @@ bean: adzuki
 flavour: sour
 form: smoked
 trait: acrid
-dish: Smoked adzuki with tamarind reduction and char. Cuts before you're ready.
+dish: Kimchi jjigae with smoked adzuki - adzuki bean stew with kimchi, tofu, and gochugaru
 quote: The bean is mightier than the sword.
 fortune: The sharpness you carried this season was real perception — but perception delivered without care for the moment is only an edge. Ask this season whether the observation serves the occasion or only precedes it.
 ---

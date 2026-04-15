@@ -4,7 +4,7 @@ bean: adzuki
 flavour: sour
 form: fermented
 trait: self-aware
-dish: Adzuki with fermented plum vinegar and sesame. Exactly what it claims to be.
+dish: Adzuki and natto rice bowl with ponzu and spring onion.
 quote: Know thyself? If I knew myself, I'd bean away.
 fortune: The self-knowledge accumulated this season is reliable — this is not the season for more analysis, but for deciding what to do with what you already know.
 ---

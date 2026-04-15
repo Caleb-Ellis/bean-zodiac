@@ -4,7 +4,7 @@ bean: chickpea
 flavour: spicy
 form: boiled
 trait: resourceful
-dish: Chickpea curry with green chili and whatever's available. Makes it work.
+dish: Chana masala - chickpea curry with green chilies.
 quote: Necessity is the bean of invention.
 fortune: The season has given you more than you have used alone — the resource you keep overlooking is the one with a name and a phone number.
 ---

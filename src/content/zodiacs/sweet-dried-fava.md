@@ -4,7 +4,7 @@ bean: fava
 flavour: sweet
 form: dried
 trait: indomitable
-dish: Dried fava, honey glaze. Sweet. Relentless. No particular order.
+dish: Maccu dolce — dried fava beans cooked to a thick paste with honey and fennel seed, a Sicilian Carnevale sweet.
 quote: She believed she could bean, so she did.
 fortune: The generosity of your drive this season has asked nothing in return — allow one person to carry part of it before the weight becomes invisible to you.
 ---

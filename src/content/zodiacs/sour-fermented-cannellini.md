@@ -4,7 +4,7 @@ bean: cannellini
 flavour: sour
 form: fermented
 trait: critical
-dish: Cannellini in tangy fermented whey with lemon zest. Has notes.
+dish: Cannellini with crème fraîche, capers, and lemon zest.
 quote: You call this bean broth?
 fortune: The conclusion developed privately this season is ready to surface — deliver it, and trust that it is as precise as the process that produced it.
 ---

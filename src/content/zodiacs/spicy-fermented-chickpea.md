@@ -4,7 +4,7 @@ bean: chickpea
 flavour: spicy
 form: fermented
 trait: offbeat
-dish: Chickpea in spicy fermented paste on flatbread. Shouldn't work. Does.
+dish: Chickpea fatteh with shatta - Lebanese flatbread and chickpea dish with Palestinian fermented hot sauce.
 quote: I've lost my damn beans.
 fortune: The route you have taken this season is yours — hold onto the warmth that makes it worth following, so others can find the way in.
 ---

@@ -4,7 +4,7 @@ bean: butter
 flavour: spicy
 form: roasted
 trait: hedonistic
-dish: Butter bean roasted with harissa and cream. Unapologetically indulgent.
+dish: Harissa gigantes - butter beans oven-roasted with rose harissa, garlic, and olive oil.
 quote: Eat, bean, and be merry, for tomorrow we diet.
 fortune: The season has been full and warm and genuinely good — make room for one stretch of wanting nothing, so the wanting something again means what it should.
 ---

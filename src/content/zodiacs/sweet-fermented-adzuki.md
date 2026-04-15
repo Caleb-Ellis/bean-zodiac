@@ -4,7 +4,7 @@ bean: adzuki
 flavour: sweet
 form: fermented
 trait: sentimental
-dish: Fermented sweet adzuki with rose water and rice. Keeps the old things.
+dish: Adzuki amazake pudding — red beans warmed through in sweet fermented rice drink with a strip of yuzu peel.
 quote: I kept the recipe. I kept everything.
 fortune: The feeling is not nothing — offer it this season without the caveat, and let the occasion be as large as it is.
 ---

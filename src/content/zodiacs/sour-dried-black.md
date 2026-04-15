@@ -4,7 +4,7 @@ bean: black
 flavour: sour
 form: dried
 trait: impenetrable
-dish: Dried black bean. No entry point visible.
+dish: Black bean and dried hibiscus soup with lime.
 quote: No bean is an island, entire of itself.
 fortune: What you have sealed inside this season is safe — find one opening and leave it, so the wall does not become all there is.
 ---

@@ -4,7 +4,7 @@ bean: kidney
 flavour: sweet
 form: fermented
 trait: sympathetic
-dish: Sweet kidney bean with fermented tamarind. Understands. Really does.
+dish: Sikhye with red beans — Korean sweet fermented rice punch with kidney beans, served chilled with pine nuts floating on top.
 quote: Could a greater bean or miracle take place than for us to look through each other's bean for an instant?
 fortune: Leave room this season for the other person's difficulty to be different from yours — sympathy that assumes is less useful than sympathy that asks.
 ---

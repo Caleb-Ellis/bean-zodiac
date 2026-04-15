@@ -4,7 +4,7 @@ bean: navy
 flavour: sour
 form: boiled
 trait: literal-minded
-dish: Navy bean and lemon broth. A soup. A real one.
+dish: Navy bean and escarole soup with lemon and Parmesan.
 quote: When I use a bean, it means just what I choose it to mean — neither more nor less.
 fortune: What was said this season is what was meant — the clarity this brings to others is worth more than they have told you.
 ---

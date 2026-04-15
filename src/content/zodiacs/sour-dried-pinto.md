@@ -4,7 +4,7 @@ bean: pinto
 flavour: sour
 form: dried
 trait: astringent
-dish: Dried pinto. Every decoration removed. The story, plain.
+dish: Pinto bean and dried mulato chile stew with lime.
 quote: Art is not what you see, but what you bean others to see.
 fortune: What you stripped away this season was not all ornament — allow some warmth back in, and check whether the clarity survives it.
 ---

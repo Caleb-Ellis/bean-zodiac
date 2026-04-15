@@ -4,7 +4,7 @@ bean: kidney
 flavour: umami
 form: fermented
 trait: conflicted
-dish: Kidney bean in miso with competing umami notes. Pulls in two directions.
+dish: Kimchi jjigae - kidney bean and kimchi stew with pork belly, tofu, and sesame oil.
 quote: The heart has its bean that reason knows not of.
 fortune: The tension has not resolved, and this season it does not need to — live with it honestly and let both sides of it be real.
 ---

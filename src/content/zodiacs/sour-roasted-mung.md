@@ -4,7 +4,7 @@ bean: mung
 flavour: sour
 form: roasted
 trait: sensitive
-dish: Roasted mung with light tamarind glaze. Feels the edges of things.
+dish: Bhuna moong chaat - dry-roasted mung beans with tamarind chutney, red onion, and chaat masala
 quote: Nothing is so strong as bean-ness.
 fortune: The sensitivity this season has been registering correctly — act on what it has been telling you, selectively, and with care.
 ---

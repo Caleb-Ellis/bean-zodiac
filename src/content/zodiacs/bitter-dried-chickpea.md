@@ -4,7 +4,7 @@ bean: chickpea
 flavour: bitter
 form: dried
 trait: circumspect
-dish: Dried chickpea in reserved broth. Observing. Not ready yet.
+dish: Ceci in Zimino - chickpeas with bitter chard.
 quote: Look before you bean.
 fortune: The caution you have practiced this season protected something real — check what was also kept out that deserved entry.
 ---

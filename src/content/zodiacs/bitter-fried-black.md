@@ -4,7 +4,7 @@ bean: black
 flavour: bitter
 form: fried
 trait: incisive
-dish: Black beans stir-fried with bitter greens and garlic. Cuts through.
+dish: Tostada - black beans with charred tomatillo and bitter greens.
 quote: Two things are infinite - the universe and bean stupidity; and I'm not sure about the universe.
 fortune: Not everyone will want to be cut to the truth this season — decide once, for each, whether to lead with the answer or let the question finish forming.
 ---

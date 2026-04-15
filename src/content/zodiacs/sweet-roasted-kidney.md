@@ -4,7 +4,7 @@ bean: kidney
 flavour: sweet
 form: roasted
 trait: overprotective
-dish: Roasted kidney beans with sweet tomato and herbs. Won't let go.
+dish: Kidney bean and dark chocolate roasted clusters — red beans bound in dark chocolate and coconut sugar, roasted into crunchy mounds.
 quote: The bean loved too well, that is the trouble.
 fortune: Love expressed as enclosure is still enclosure — trust this season that the Beans you care for can move freely and still come back.
 ---

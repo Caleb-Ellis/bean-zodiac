@@ -4,7 +4,7 @@ bean: black
 flavour: sweet
 form: roasted
 trait: resilient
-dish: Black bean roasted with brown sugar and chipotle. Comes back.
+dish: Cocoa-roasted black beans — black beans tossed in cocoa powder and sugar, roasted until cracked and bittersweet.
 quote: That which does not bean us makes us stronger.
 fortune: Let the difficulty be named this season — resilience that goes unacknowledged suggests it wasn't real, and it was.
 ---

@@ -4,7 +4,7 @@ bean: butter
 flavour: spicy
 form: fermented
 trait: eccentric
-dish: Butter bean with fermented chili and unusual spices. Doesn't explain.
+dish: Kimchi jjigae with butter beans - fermented napa cabbage stew with gochugaru.
 quote: Here is your bean, soft reader. It is a little strange and so am I.
 fortune: The strange idea you have been following this season has gone somewhere real — build the bridge back so someone else can see where you went.
 ---

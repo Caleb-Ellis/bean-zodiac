@@ -4,7 +4,7 @@ bean: butter
 flavour: sweet
 form: fermented
 trait: laid-back
-dish: Butter bean with sweet fermented paste. No rush. It'll be fine.
+dish: Butter bean and labneh with honey — cooked butter beans stirred through strained fermented yogurt and drizzled with wildflower honey.
 quote: The bean abides.
 fortune: Some of what is waiting for you this season will not wait indefinitely — find the thing that requires your presence and give it your presence.
 ---

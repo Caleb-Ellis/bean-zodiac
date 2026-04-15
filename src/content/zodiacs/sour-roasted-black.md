@@ -4,7 +4,7 @@ bean: black
 flavour: sour
 form: roasted
 trait: earnest
-dish: Black bean roasted with lime and oregano. Tries. Means it.
+dish: Sopa de frijol negro con tomatillo asado - black bean soup with roasted tomatillos and lime crema
 quote: The importance of being bean.
 fortune: The earnestness this season has cost something — trust that what it built in return is more durable than what a guarded approach would have produced.
 ---

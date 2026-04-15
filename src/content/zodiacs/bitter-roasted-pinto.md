@@ -4,7 +4,7 @@ bean: pinto
 flavour: bitter
 form: roasted
 trait: narcissistic
-dish: Roasted pinto with bitter charred edges and ceremony. Has already been complimented.
+dish: Frijoles Refritos - with roasted bitter chiles and lard.
 quote: I don't care what you think unless it's about my bean.
 fortune: This season, develop a genuine curiosity about something that is not a reflection — the world outside the mirror has been waiting.
 ---

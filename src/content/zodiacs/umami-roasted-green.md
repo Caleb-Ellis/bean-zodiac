@@ -4,7 +4,7 @@ bean: green
 flavour: umami
 form: roasted
 trait: curious
-dish: Green beans roasted with bonito flakes. What's that about? Worth finding out.
+dish: Roasted green beans with katsuobushi, ponzu, and sesame.
 quote: Curiosity is the bean, always leading to new discoveries.
 fortune: The season's tangents have accumulated into something — choose one before the season ends and go deeper than curiosity usually asks.
 ---

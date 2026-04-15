@@ -4,7 +4,7 @@ bean: cannellini
 flavour: umami
 form: fermented
 trait: idealistic
-dish: Cannellini in fermented umami broth. The world as it should be.
+dish: Cannellini and white miso soup with roasted garlic and rosemary.
 quote: Some beans see things as they are and ask why; I dream of beans that never were and ask why not.
 fortune: The ideal has not been revised this season, and it should not be — give the actual world one honest opportunity to be closer than it appeared.
 ---

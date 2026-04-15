@@ -4,7 +4,7 @@ bean: chickpea
 flavour: spicy
 form: roasted
 trait: sociable
-dish: Roasted chickpea with berbere, meant to share. Pull up a chair.
+dish: Leblebi - Tunisian roasted chickpeas in spiced broth with harissa and cumin.
 quote: No bean is an island.
 fortune: The warmth this season has been genuine and wide — find one room to stay in past the comfortable first hour, and let the depth arrive.
 ---

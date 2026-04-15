@@ -4,7 +4,7 @@ bean: mung
 flavour: sour
 form: fried
 trait: self-deprecating
-dish: Mung cakes with sour dipping sauce. Nothing special, really.
+dish: Bindaetteok - Korean mung bean pancakes with a soy and rice vinegar dipping sauce.
 quote: I am so clever that sometimes I don't understand a single bean of what I am saying.
 fortune: The jokes this season have been landing and costing something — let one thing about yourself be true this season without also being funny.
 ---

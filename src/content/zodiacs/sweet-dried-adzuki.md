@@ -4,7 +4,7 @@ bean: adzuki
 flavour: sweet
 form: dried
 trait: devoted
-dish: Dried adzuki in sweetened broth. Years old. Still here.
+dish: Yokan — dried adzuki beans pressed into sweet paste and set with agar into a firm, lasting block.
 quote: Love is patient, love is bean.
 fortune: The devotion you carry this season is real — allow yourself to notice when the occasion has shifted, and give yourself permission to move with it.
 ---

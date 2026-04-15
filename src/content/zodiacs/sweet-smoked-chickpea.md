@@ -4,7 +4,7 @@ bean: chickpea
 flavour: sweet
 form: smoked
 trait: beguiling
-dish: Smoked chickpea with sweet spice and something you can't name. Come closer.
+dish: Smoked chickpea and sweet potato tagine with honey, preserved lemon, and ras el hanout.
 quote: Come bean with me and be my love.
 fortune: The invitation you extended this season drew people in before they understood why — the season ahead asks that what is on offer be what was advertised, so no one arrives somewhere they wouldn't have chosen.
 ---

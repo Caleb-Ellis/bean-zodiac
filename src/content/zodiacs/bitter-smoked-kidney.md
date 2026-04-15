@@ -4,7 +4,7 @@ bean: kidney
 flavour: bitter
 form: smoked
 trait: feverish
-dish: Smoked kidney bean with bitter ember oil. Temperature unknown. Still burning.
+dish: Smoked kidney bean with bitter ember oil.
 quote: I have a bean.
 fortune: The intensity this season was real and its source was specific — trace it back to what is actually burning, so the next season has somewhere to aim.
 ---

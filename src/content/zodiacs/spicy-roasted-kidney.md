@@ -4,7 +4,7 @@ bean: kidney
 flavour: spicy
 form: roasted
 trait: emotive
-dish: Roasted kidney beans with chipotle and smoked paprika. Feels things deeply.
+dish: Tandoori rajma - kidney beans marinated in spiced yogurt and oven-roasted.
 quote: The bean is not a logical faculty; it is a faculty of what it wants.
 fortune: The season has been full of genuine feeling freely given — develop the sense, before the next one, of when to pour and when to let the room fill at its own pace.
 ---

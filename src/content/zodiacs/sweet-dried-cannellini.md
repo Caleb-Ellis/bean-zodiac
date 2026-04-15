@@ -4,7 +4,7 @@ bean: cannellini
 flavour: sweet
 form: dried
 trait: rarefied
-dish: Dried cannellini, white truffle oil, no concessions to accessibility.
+dish: Torta di fagioli — Tuscan white bean cake, dried cannellini cooked to paste and baked with eggs, sugar, and lemon zest into something simple and precise.
 quote: Excellence is never bean by accident.
 fortune: What you have refined this season is real — inaccessible excellence serves only itself. Descend once and bring it with you.
 ---

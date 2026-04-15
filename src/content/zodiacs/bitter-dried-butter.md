@@ -4,7 +4,7 @@ bean: butter
 flavour: bitter
 form: dried
 trait: stark
-dish: Dried butter bean, plain broth, nothing else. This is what remains.
+dish: Dried butter beans in sage broth with bitter radicchio.
 quote: Tell me, what is it you plan to do with your one wild and precious bean?
 fortune: The clarity you have arrived at this season did not come cheaply — use it to build something, rather than as an ending.
 ---

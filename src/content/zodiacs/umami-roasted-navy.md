@@ -4,7 +4,7 @@ bean: navy
 flavour: umami
 form: roasted
 trait: wistful
-dish: Roasted navy bean with soy and herbs. Remembers something. Not sure what.
+dish: Marmite-roasted navy beans with rosemary and garlic.
 quote: We shall not cease from bean exploration, and the end of all our exploring will be to arrive where we started.
 fortune: What you have been faithful to this season is real — the current room also contains something worth that same faithfulness.
 ---

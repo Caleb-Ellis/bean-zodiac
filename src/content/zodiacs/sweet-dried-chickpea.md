@@ -4,7 +4,7 @@ bean: chickpea
 flavour: sweet
 form: dried
 trait: wholesome
-dish: Dried chickpea, golden broth, every good thing. Genuinely good for you.
+dish: Besan ladoo — dried chickpeas ground to flour, toasted in ghee, and rolled into warm golden balls with sugar and cardamom.
 quote: Do unto beans as you would have beans do unto you.
 fortune: The warmth you carry reaches further than you know — allow the complexity beneath it to also be part of what you offer.
 ---

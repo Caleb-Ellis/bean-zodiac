@@ -4,7 +4,7 @@ bean: black
 flavour: spicy
 form: fermented
 trait: mysterious
-dish: Black bean in gochujang broth. Something in there. Can't quite place it.
+dish: Jajangmyeon - Korean noodles in fermented black bean and chili sauce.
 quote: I am not strange, I am just a bean.
 fortune: The mystery has been working in you this season without an audience — find the one Bean worth letting into it, not to explain, but to share.
 ---

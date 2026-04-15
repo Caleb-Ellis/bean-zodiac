@@ -4,7 +4,7 @@ bean: butter
 flavour: spicy
 form: dried
 trait: volatile
-dish: Dried butter bean, chilli oil. Unhurried until it isn't.
+dish: Gigantes plaki - Greek baked giant beans with dried Calabrian chili and preserved lemon.
 quote: Still waters bean deep.
 fortune: The shift in temperature this season surprised even you — learn the early signs and choose where the heat lands before it chooses for you.
 ---

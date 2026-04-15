@@ -4,7 +4,7 @@ bean: butter
 flavour: spicy
 form: smoked
 trait: hushed
-dish: Smoked butter bean with quiet chili oil, no crunch. Somehow deafening.
+dish: Southern succotash - smoked butter beans with corn, jalapeño, and smoked bacon.
 quote: Speak softly and carry a big bean.
 fortune: The stillness this season was clearly doing something — the season ahead asks that whatever is accumulating beneath the calm comes up before it becomes pressure.
 ---

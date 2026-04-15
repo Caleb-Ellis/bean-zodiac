@@ -4,7 +4,7 @@ bean: black
 flavour: bitter
 form: boiled
 trait: measured
-dish: Black bean soup with braised endive and a strip of orange peel. Calibrated.
+dish: Black bean soup with epazote and bitter orange.
 quote: It was the best of beans, it was the worst of beans.
 fortune: The broth has been finished for some time now — this season, let it be seen before the dish grows cold.
 ---

@@ -4,7 +4,7 @@ bean: pinto
 flavour: umami
 form: dried
 trait: layered
-dish: Dried pinto, slowly reduced stock. Every marking carries a flavour.
+dish: Frijoles de olla - dried pinto beans slow-cooked in clay pot with epazote, onion, and lard.
 quote: Life is like a bean of chocolates — you never know what you're going to get.
 fortune: The layers you carry this season are not a burden — they are the work. Let one of them surface for someone who can hold it.
 ---

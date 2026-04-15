@@ -4,7 +4,7 @@ bean: navy
 flavour: sweet
 form: boiled
 trait: frugal
-dish: Sweet baked navy beans with molasses. Making a little go far.
+dish: Navy bean and black treacle pudding — beans boiled with treacle, ginger, and oats into a thick steamed pudding.
 quote: Beware of little bean expenses; a small leak will sink a great ship.
 fortune: Frugality is a virtue until the thing you are conserving is the life it was meant to sustain — spend on the thing that is worth it this season.
 ---

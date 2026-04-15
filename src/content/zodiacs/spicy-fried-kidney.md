@@ -4,7 +4,7 @@ bean: kidney
 flavour: spicy
 form: fried
 trait: temperamental
-dish: Kidney bean hash with chili, heat varying by mood. It varies.
+dish: Kottu roti with kidney beans - Sri Lankan stir-fried roti with chili and curry.
 quote: Any bean can be angry — that is easy. But to be angry with the right person, to the right degree, at the right time, for the right purpose — that is not easy.
 fortune: The season's storms have moved through and cleared — what remains is yours, and attending to it now costs less than leaving it for the next season to inherit.
 ---

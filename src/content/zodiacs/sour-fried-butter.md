@@ -4,7 +4,7 @@ bean: butter
 flavour: sour
 form: fried
 trait: efficient
-dish: Butter bean fritters with sharp lemon dip. Gets it done.
+dish: Butter bean fritters with preserved lemon aioli - crispy pan-fried butter bean patties with a sharp citrus dipping sauce.
 quote: Give me six hours to chop down a bean and I will spend the first four sharpening the axe.
 fortune: The efficiency this season has cleared space — what remains is the slower work, and it is worth doing slowly.
 ---

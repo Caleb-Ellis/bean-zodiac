@@ -4,7 +4,7 @@ bean: chickpea
 flavour: umami
 form: boiled
 trait: adaptable
-dish: Chickpea in miso broth with kombu. Works in any direction.
+dish: Garbanzos con setas - chickpeas and wild mushrooms in sherry-braised broth.
 quote: The measure of intelligence is the bean ability to change.
 fortune: The thread through every version of you this season is the same Bean — let that continuity be confidence, not caveat.
 ---

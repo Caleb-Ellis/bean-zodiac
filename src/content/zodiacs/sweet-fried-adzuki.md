@@ -4,7 +4,7 @@ bean: adzuki
 flavour: sweet
 form: fried
 trait: exuberant
-dish: Pan-fried sweet adzuki with cane sugar and orange zest. Celebrating.
+dish: Jin deui — fried glutinous rice sesame balls with sweet adzuki paste inside, golden and crisp and rolling.
 quote: Oh my gourd, did you SEE that?!
 fortune: The party is better when it is a response to life — make sure this season that the celebration is meeting something, not replacing it.
 ---

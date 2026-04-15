@@ -4,7 +4,7 @@ bean: chickpea
 flavour: bitter
 form: fermented
 trait: collaborative
-dish: Chickpea with fermented bitter paste and shared flatbread. Better with others.
+dish: Fatteh - chickpeas with labneh and bitter pomegranate.
 quote: None of us is as bean as all of us.
 fortune: The work this season that only you can finish is waiting — make peace with the hours it requires of you alone.
 ---

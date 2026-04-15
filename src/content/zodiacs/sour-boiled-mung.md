@@ -4,7 +4,7 @@ bean: mung
 flavour: sour
 form: boiled
 trait: impartial
-dish: Mung dal with tamarind. No favorites.
+dish: Mung bean congee with pickled mustard greens and sesame oil.
 quote: Fiat justitia ruat bean.
 fortune: The impartiality has held this season — what it has built is a reputation for fairness that will outlast the situation that required it.
 ---

@@ -4,7 +4,7 @@ bean: pinto
 flavour: sweet
 form: dried
 trait: storied
-dish: Dried pinto, slow-cooked. Every marking dissolved into the broth.
+dish: Pinto bean pie — dried pintos cooked soft and sweetened into a custard filling for a Southern pie shell, spiced with cinnamon and vanilla.
 quote: After all, tomorrow is another bean.
 fortune: The history you carry this season is real and rich — allow today to be added to the record, rather than living inside what came before.
 ---

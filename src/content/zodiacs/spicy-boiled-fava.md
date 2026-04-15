@@ -4,7 +4,7 @@ bean: fava
 flavour: spicy
 form: boiled
 trait: unyielding
-dish: Ful medames with harissa. Won't move.
+dish: Spiced fava bean soup with berbere and lemon.
 quote: I am not a bean to be argued out of what I know to be right.
 fortune: What you have held firm on this season is real — ask once, before the season ends, whether the thing you are holding against is the situation or the feedback.
 ---

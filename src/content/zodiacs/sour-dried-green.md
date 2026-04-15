@@ -4,7 +4,7 @@ bean: green
 flavour: sour
 form: dried
 trait: bracing
-dish: Dried green bean, cold vinegar. A shock to the system. Useful.
+dish: Szechuan dry-fried green beans with black vinegar and ginger.
 quote: Into each life some bean must fall.
 fortune: The sharpness you bring is useful for those who need waking — read who is already struggling to stand before you administer the next one.
 ---

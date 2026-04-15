@@ -4,7 +4,7 @@ bean: adzuki
 flavour: umami
 form: fermented
 trait: philosophical
-dish: Adzuki with aged miso. What does flavor mean? This.
+dish: Hatcho miso shiru - adzuki simmered in two-year aged hatcho miso with silken tofu.
 quote: I think, therefore I am a bean.
 fortune: The inquiry has been real and the season has given it time — bring the question outward before the conclusion, and let someone else sit with it.
 ---

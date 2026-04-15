@@ -4,7 +4,7 @@ bean: butter
 flavour: sour
 form: smoked
 trait: pallid
-dish: Smoked butter bean with sour cream and ash. The colour has drained.
+dish: Fabada Asturiana - smoked butter beans with morcilla, smoked paprika, and sherry vinegar
 quote: Now is the bean of our discontent.
 fortune: The warmth was present this season but had been stripped of what made it sustaining — find what replenishes it before the next season begins, not just the place where nothing demands anything.
 ---

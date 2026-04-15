@@ -4,7 +4,7 @@ bean: adzuki
 flavour: umami
 form: roasted
 trait: warm
-dish: Roasted adzuki with miso glaze and sesame. Come in. Sit down.
+dish: Miso-roasted adzuki with black sesame and mirin.
 quote: There's no better feeling in the world than a warm bean on your lap.
 fortune: The warmth you have given this season has reached places you have not seen — tend yourself as well, so there is warmth left when the next one begins.
 ---

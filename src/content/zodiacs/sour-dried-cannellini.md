@@ -4,7 +4,7 @@ bean: cannellini
 flavour: sour
 form: dried
 trait: exquisite
-dish: Dried cannellini, lemon, sea salt, nothing further. Precisely that.
+dish: Cannellini and dried porcini brodo with lemon zest.
 quote: The bean is in the details.
 fortune: The precision you bring this season is genuine — its only cost is the distance it creates. Descend occasionally, and bring it with you.
 ---

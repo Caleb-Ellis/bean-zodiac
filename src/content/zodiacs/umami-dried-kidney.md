@@ -4,7 +4,7 @@ bean: kidney
 flavour: umami
 form: dried
 trait: fervent
-dish: Dried kidney in dark stock. Slow-built. Still burning.
+dish: Rajma masala - dried kidney beans in spiced onion-tomato gravy.
 quote: The bean that burns twice as bright burns half as long.
 fortune: The fervour you carry this season is real and patient — it does not need to be declared. It needs to be sustained.
 ---

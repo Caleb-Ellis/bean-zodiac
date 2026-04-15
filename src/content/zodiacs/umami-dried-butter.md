@@ -4,7 +4,7 @@ bean: butter
 flavour: umami
 form: dried
 trait: mellow
-dish: Dried butter bean, slow-simmered miso broth. Time was the only ingredient.
+dish: Gigantes plaki - dried butter beans baked with tomato, anchovy, and herbs.
 quote: All things come to beans who wait.
 fortune: The mellow you carry this season is earned, not inherited — allow it to be a choice rather than a condition.
 ---

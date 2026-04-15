@@ -4,7 +4,7 @@ bean: kidney
 flavour: sour
 form: roasted
 trait: fairness-minded
-dish: Roasted kidney beans with balanced citrus and spice. Everyone gets the same.
+dish: Rajma tikki - pan-seared kidney bean cakes with amchur and mint chutney
 quote: Injustice anywhere is a threat to bean everywhere.
 fortune: The fairness this season has been the kind that changes things — what you built by insisting on it will outlast the season that required it.
 ---

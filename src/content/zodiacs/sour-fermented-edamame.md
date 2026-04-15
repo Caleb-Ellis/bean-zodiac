@@ -4,7 +4,7 @@ bean: edamame
 flavour: sour
 form: fermented
 trait: skeptical
-dish: Edamame in sour fermented citrus sauce. Show the evidence.
+dish: Edamame with gochujang dipping sauce and rice vinegar.
 quote: The first bean principle is that you must not fool yourself — and you are the easiest bean to fool.
 fortune: The skepticism this season is warranted — but the investigation has gone long enough, and this is the season to arrive at the conviction the questioning was preparing you for.
 ---

@@ -4,7 +4,7 @@ bean: pinto
 flavour: umami
 form: fermented
 trait: apathetic
-dish: Pinto in fermented umami sauce. It's fine. Doesn't matter.
+dish: Pinto beans slow-braised with fish sauce, caramelised onion, and lime.
 quote: The opposite of bean is not hate, it's indifference.
 fortune: The feeling that went quiet will return this season — follow the first small sign of it back, without waiting for certainty.
 ---

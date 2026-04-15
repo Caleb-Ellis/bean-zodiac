@@ -4,7 +4,7 @@ bean: pinto
 flavour: bitter
 form: boiled
 trait: detail-oriented
-dish: Pinto bean broth with hand-diced onion and bitter herbs. The small things matter.
+dish: Pinto bean caldo with epazote and tomatillo.
 quote: The bean is in the details.
 fortune: This season, step back from the brushwork far enough to see whether the whole canvas is going in the direction you intended.
 ---

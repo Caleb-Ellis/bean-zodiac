@@ -4,7 +4,7 @@ bean: adzuki
 flavour: umami
 form: boiled
 trait: affectionate
-dish: Adzuki in mushroom dashi. Warm. Close. For you.
+dish: Adzuki and white miso soup with silken tofu and wakame.
 quote: All you need is bean.
 fortune: Affection this season is not a single statement — it is the pattern of returning.
 ---

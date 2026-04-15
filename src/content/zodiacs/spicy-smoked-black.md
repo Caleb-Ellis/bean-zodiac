@@ -4,7 +4,7 @@ bean: black
 flavour: spicy
 form: smoked
 trait: murky
-dish: Smoked black bean with dark spice paste and obscured depth. Something in there.
+dish: Mole negro - Oaxacan black beans simmered in smoked mulato and pasilla chile sauce.
 quote: Still waters run bean.
 fortune: Something moved through you this season at considerable heat and the surface showed almost nothing — the season ahead asks for enough surface clarity that whatever is inside can be approached.
 ---

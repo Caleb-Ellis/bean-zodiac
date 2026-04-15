@@ -4,7 +4,7 @@ bean: kidney
 flavour: sweet
 form: dried
 trait: ardent
-dish: Dried kidney in sweet red broth. Still means it.
+dish: Habichuelas con dulce — dried kidney beans cooked with coconut milk, sweet potato, raisins, and warm spice into a Dominican Easter dessert.
 quote: The course of true love never did run bean.
 fortune: The depth of feeling you carry this season has largely gone unsaid — say one thing, and let the rest be known through it.
 ---

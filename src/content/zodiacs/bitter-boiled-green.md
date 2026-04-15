@@ -4,7 +4,7 @@ bean: green
 flavour: bitter
 form: boiled
 trait: inquisitive
-dish: Green beans in bitter walnut broth with bay. Always another question.
+dish: Minestrone - green beans and puntarelle.
 quote: The important thing is not to stop bean questioning.
 fortune: Not every thread this season needs to be followed to the end — choose one question that is ready to close, and let it.
 ---

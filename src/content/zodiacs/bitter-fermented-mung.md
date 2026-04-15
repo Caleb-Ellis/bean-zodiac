@@ -4,7 +4,7 @@ bean: mung
 flavour: bitter
 form: fermented
 trait: intuitive
-dish: Mung with bitter fermented paste and ginger. Knows before it's told.
+dish: Bindaetteok - mung bean pancakes with bitter herb dipping sauce.
 quote: The intuitive bean is a sacred gift and the rational mind is a faithful servant.
 fortune: The read that has been forming all season is reliable enough to surface now — offer it before it is complete, with the caveat that it is still becoming.
 ---

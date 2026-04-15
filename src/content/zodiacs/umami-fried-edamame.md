@@ -4,7 +4,7 @@ bean: edamame
 flavour: umami
 form: fried
 trait: keen
-dish: Edamame stir-fried with umami sauce. On it.
+dish: Edamame gyoza - pan-fried dumplings with edamame, nira, and soy dipping sauce.
 quote: I'm keen as beans!
 fortune: What you have already understood is correct — this is not the season to slow down for consensus, but remember the Beans who are still arriving.
 ---

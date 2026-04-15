@@ -4,7 +4,7 @@ bean: black
 flavour: umami
 form: boiled
 trait: patient
-dish: Black bean and mushroom soup, long-simmered. Waits as long as needed.
+dish: Kongjorim - black soybeans slow-braised in soy, ginger, and sesame.
 quote: Patience is bitter, but its bean is sweet.
 fortune: The waiting is not passivity — this season, let those around you see that the patience has direction.
 ---

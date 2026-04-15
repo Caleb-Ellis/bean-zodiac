@@ -4,7 +4,7 @@ bean: chickpea
 flavour: umami
 form: smoked
 trait: wordless
-dish: Smoked chickpea in long umami broth. No description adequate. Just this.
+dish: Garbanzos con bacalao y pimentón ahumado - chickpeas with salt cod and smoked paprika.
 quote: Actions speak louder than bean.
 fortune: What you understood this season exceeded the vocabulary available to it — the season ahead asks for an approximation, not a translation. Something gestures toward the territory. Find it.
 ---

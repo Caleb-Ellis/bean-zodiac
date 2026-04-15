@@ -4,7 +4,7 @@ bean: chickpea
 flavour: spicy
 form: smoked
 trait: frenetic
-dish: Smoked chickpea with three chilis, rapid preparation. Try to keep up.
+dish: Fatteh - Syrian smoked chickpeas layered with crisp bread, yogurt, and chili oil.
 quote: Life moves pretty bean — if you don't stop and look around once in a while, you could miss it.
 fortune: The movement this season ran at considerable intensity across too many surfaces to sustain — the season ahead asks for one room, long enough to let the heat become something useful.
 ---

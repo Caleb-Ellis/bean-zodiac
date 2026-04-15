@@ -4,7 +4,7 @@ bean: adzuki
 flavour: umami
 form: dried
 trait: reverential
-dish: Dried adzuki in dashi broth. Marked properly. As it deserved.
+dish: Azuki no nimono - dried adzuki simmered in dashi and soy.
 quote: The bean is in the ritual, not the result.
 fortune: The reverence you have brought this season is real — allow one occasion to be ordinary and still worth celebrating.
 ---

@@ -4,7 +4,7 @@ bean: edamame
 flavour: umami
 form: dried
 trait: foundational
-dish: Dried edamame in deep stock. The base everything else is built on.
+dish: Hoshi edamame gohan - dried edamame and dried shiitake cooked into dashi rice.
 quote: Well-beaned is half done.
 fortune: The foundation you have laid this season is real — allow what is built on top of it to also be part of what you take credit for.
 ---

@@ -4,7 +4,7 @@ bean: pinto
 flavour: sour
 form: fermented
 trait: pessimistic
-dish: Pinto in tangy fermented sauce. Bracing for it anyway.
+dish: Frijoles charros - pinto beans with fermented chipotle, bacon, and lime.
 quote: A bean who expects nothing is never disappointed.
 fortune: The forecast has been correct more often than not — notice the one variable that didn't confirm the reading, because it is there, and it matters.
 ---

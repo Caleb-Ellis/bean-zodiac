@@ -4,7 +4,7 @@ bean: adzuki
 flavour: spicy
 form: dried
 trait: incendiary
-dish: Dried adzuki, bird's eye chilli. Ignition, and then what?
+dish: Dry-fried adzuki with Sichuan peppercorn and dried chili threads.
 quote: Set the world on bean.
 fortune: The fire you started this season is still burning — check whether what it is consuming was what you intended.
 ---

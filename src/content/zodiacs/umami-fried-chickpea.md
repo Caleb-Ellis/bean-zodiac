@@ -4,7 +4,7 @@ bean: chickpea
 flavour: umami
 form: fried
 trait: proactive
-dish: Chickpea fried with fish sauce and garlic. Didn't wait to be asked.
+dish: Crispy chickpeas with fish sauce, toasted garlic, and lime.
 quote: Do not wait to strike till the bean is hot, but make it hot by striking.
 fortune: What you moved ahead of this season was real — ask, once, before the next season begins, so the autonomy you are protecting knows what you are doing.
 ---

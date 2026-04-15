@@ -4,7 +4,7 @@ bean: navy
 flavour: spicy
 form: dried
 trait: unflinching
-dish: Dried navy bean, black pepper, full heat. Position held.
+dish: Boston baked beans - navy beans slow-baked with cayenne and dry mustard.
 quote: In matters of principle, stand like a bean.
 fortune: The resolve you maintained this season is real — check whether the thing you refused to move from has changed since you last looked at it.
 ---

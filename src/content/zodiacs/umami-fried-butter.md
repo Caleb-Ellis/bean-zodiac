@@ -4,7 +4,7 @@ bean: butter
 flavour: umami
 form: fried
 trait: pragmatic
-dish: Butter bean patties with soy and mushroom. It works.
+dish: Butter bean and shiitake fritters with soy dipping sauce.
 quote: If it works, it's a bean.
 fortune: The practical approach has served this season — leave one small opening for the thing that resists it, and attend to what it turns out to contain.
 ---

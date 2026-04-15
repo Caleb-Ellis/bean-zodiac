@@ -4,7 +4,7 @@ bean: edamame
 flavour: umami
 form: boiled
 trait: dedicated
-dish: Edamame in umami dashi with bonito. Committed.
+dish: Dashi-ni - edamame simmered in dashi, soy, and mirin.
 quote: The price of bean excellence is dedication.
 fortune: What you stayed with has become what it was trying to be — do not move on before you have acknowledged the arrival.
 ---

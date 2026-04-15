@@ -4,7 +4,7 @@ bean: chickpea
 flavour: umami
 form: dried
 trait: substantive
-dish: Dried chickpea, rich bone broth, every table welcome. Genuinely fills the room.
+dish: Cocido madrileño - dried chickpeas slow-cooked with pork belly, chorizo, and morcilla.
 quote: The measure of a bean is the sum of its choices.
 fortune: The substance you bring this season reaches further than novelty ever could — trust that staying is the work.
 ---

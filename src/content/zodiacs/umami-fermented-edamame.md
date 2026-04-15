@@ -4,7 +4,7 @@ bean: edamame
 flavour: umami
 form: fermented
 trait: observant
-dish: Edamame in complex fermented sauce. Noticing everything.
+dish: Shio koji edamame - edamame marinated in fermented rice koji with salt and yuzu.
 quote: The world is full of obvious things which no bean by any chance ever observes.
 fortune: What has been quietly accumulating this season has become understanding — share it with the Beans who were in the room when you noticed it.
 ---

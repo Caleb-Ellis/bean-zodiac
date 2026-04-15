@@ -4,7 +4,7 @@ bean: kidney
 flavour: sour
 form: dried
 trait: fierce
-dish: Dried kidney, black vinegar, nothing softened. Still in it.
+dish: Rajma - kidney beans with dried Kashmiri chiles and tamarind.
 quote: I have not yet begun to bean.
 fortune: What you have fought for this season is real — learn to recognise the moment it has already been won, before you are still fighting after the fact.
 ---

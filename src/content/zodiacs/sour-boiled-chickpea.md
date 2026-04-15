@@ -4,7 +4,7 @@ bean: chickpea
 flavour: sour
 form: boiled
 trait: flexible
-dish: Chickpea soup with preserved lemon and whatever else. Adapts. Works.
+dish: Harira - Moroccan chickpea soup with preserved lemon and tomato.
 quote: It is not the strongest bean that survives, nor the most intelligent, but the one most responsive to change.
 fortune: The adaptation this season was the right call — the thing you bent to meet was worth bending for, and the shape you hold now is still yours.
 ---

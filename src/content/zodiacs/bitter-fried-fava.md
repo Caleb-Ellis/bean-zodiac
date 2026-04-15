@@ -4,7 +4,7 @@ bean: fava
 flavour: bitter
 form: fried
 trait: fearless
-dish: Fava flash-fried with bitter lemon and chili. Doesn't hesitate.
+dish: Ta'amiya - fava bean falafel with bitter herb tahini and pickled turnip.
 quote: Do the thing you are afraid to do, and the bean of fear is certain.
 fortune: The leap you have already made this season deserves naming — what you overcame to get here is not carelessness, and others should know it.
 ---

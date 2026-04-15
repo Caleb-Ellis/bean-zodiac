@@ -4,7 +4,7 @@ bean: edamame
 flavour: sour
 form: boiled
 trait: logical
-dish: Edamame in citrus dashi. Sensible. Correct.
+dish: Edamame miso soup with rice vinegar and wakame.
 quote: Logic will get you from A to bean, but imagination will take you everywhere.
 fortune: The chain is sound — this season completes the argument, and what the steps have been building toward is close enough to trust.
 ---

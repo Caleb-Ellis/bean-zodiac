@@ -4,7 +4,7 @@ bean: navy
 flavour: sour
 form: fried
 trait: grumpy
-dish: Navy beans fried with lemon, largely unappreciated. Fine.
+dish: Navy bean croquettes with sauce gribiche - crisp fried navy bean patties with a tangy egg, caper, and mustard sauce.
 quote: I have not bean in the right mood for Beans for the last thirty-seven years.
 fortune: The grumpiness this season has been pointing at something real — say what it is pointing at, clearly, and then let the temperature return to normal.
 ---

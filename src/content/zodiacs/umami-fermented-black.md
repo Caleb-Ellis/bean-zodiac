@@ -4,7 +4,7 @@ bean: black
 flavour: umami
 form: fermented
 trait: introspective
-dish: Black bean in deep fermented miso. Looking inward.
+dish: Black bean and douchi braise - black soybeans with fermented black bean paste, ginger, and Shaoxing wine.
 quote: Who looks outside, dreams; who looks inside, awakens the bean.
 fortune: The depth has been real and the season has given it room — bring something up from it now, so it remains a source rather than a residence.
 ---

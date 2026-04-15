@@ -4,7 +4,7 @@ bean: adzuki
 flavour: sour
 form: dried
 trait: tart
-dish: Dried adzuki with tamarind. Sweetness, with a consequence.
+dish: Sekihan - adzuki and sticky rice with dried pickled ume and sesame.
 quote: A bean a day keeps the doctor away.
 fortune: The edge you carry this season is not bitterness — it is earned flavour. Make sure those around you can tell the difference.
 ---

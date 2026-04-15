@@ -4,7 +4,7 @@ bean: fava
 flavour: spicy
 form: fried
 trait: risk-taking
-dish: Fava fritters with harissa. No fallback. Doesn't need one.
+dish: Ta'amiya - Egyptian fava bean falafel with green chili and cumin.
 quote: Only those who will bean far can possibly find out how far one can go.
 fortune: The risks you took this season produced results — look back now, not to second-guess, but to identify which of your instincts you can trust further next time.
 ---

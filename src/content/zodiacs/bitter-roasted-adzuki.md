@@ -4,7 +4,7 @@ bean: adzuki
 flavour: bitter
 form: roasted
 trait: polished
-dish: Roasted adzuki with cacao nib and cardamom. Finished. Nothing out of place.
+dish: Roasted adzuki soup with bitter cacao and orange peel.
 quote: Have no fear of bean perfection — you'll never reach it.
 fortune: The season will hold its shape even without you catching every edge — let the occasion be a little rough and stay in it anyway.
 ---

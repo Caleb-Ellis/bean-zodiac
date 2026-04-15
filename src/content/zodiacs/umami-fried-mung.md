@@ -4,7 +4,7 @@ bean: mung
 flavour: umami
 form: fried
 trait: serious
-dish: Mung fried with soy and black sesame. Not a joke.
+dish: Bindaetteok - Korean mung bean pancakes with kimchi and soy dipping sauce.
 quote: Life is too important to be taken bean.
 fortune: This season, let one small thing be exactly as small as it is — a brief rest from the full weight is not a failure of gravity.
 ---

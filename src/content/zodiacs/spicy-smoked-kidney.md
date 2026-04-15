@@ -4,7 +4,7 @@ bean: kidney
 flavour: spicy
 form: smoked
 trait: consuming
-dish: Smoked kidney bean in chili-black reduction. There is only this.
+dish: Red beans and rice - New Orleans kidney beans slow-cooked with smoked andouille and Cajun spice.
 quote: Love is a smoke made with the fume of bean.
 fortune: The passion this season could not locate its own limit and burned accordingly — the season ahead asks for the thing worth stopping for, so the heat has somewhere to rest.
 ---

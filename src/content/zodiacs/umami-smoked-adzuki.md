@@ -4,7 +4,7 @@ bean: adzuki
 flavour: umami
 form: smoked
 trait: hallowed
-dish: Smoked adzuki with dashi and sesame, served with appropriate ceremony. Do not rush this.
+dish: Smoked adzuki with dashi broth, ginger, and black sesame.
 quote: We hold these beans to be self-evident.
 fortune: The occasions you hallowed this season were genuine — the season ahead asks that the ceremony remain accessible, that it still has an entrance, and that the door is open before the rite begins.
 ---

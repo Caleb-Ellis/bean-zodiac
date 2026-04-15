@@ -4,7 +4,7 @@ bean: butter
 flavour: bitter
 form: fermented
 trait: thoughtful
-dish: Butter bean with white miso and radicchio. Takes its time.
+dish: Butter bean and kimchi broth with bitter greens.
 quote: The unexamined bean is not worth eating.
 fortune: What you have been working on this season has been refined long enough — let enough of it surface that others know the work is happening.
 ---

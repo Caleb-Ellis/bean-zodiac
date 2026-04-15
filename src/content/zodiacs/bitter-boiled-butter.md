@@ -4,7 +4,7 @@ bean: butter
 flavour: bitter
 form: boiled
 trait: composed
-dish: Butter bean stew with wilted bitter greens and a bay leaf. Holds itself together.
+dish: Ribollita - butter beans and cavolo nero.
 quote: Do I contradict myself? Very well then, I contain beans.
 fortune: The steadiness you carry this season is doing more than you know — let someone know you are there, not only that you are still.
 ---

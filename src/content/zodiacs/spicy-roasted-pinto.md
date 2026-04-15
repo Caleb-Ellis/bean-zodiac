@@ -4,7 +4,7 @@ bean: pinto
 flavour: spicy
 form: roasted
 trait: unpredictable
-dish: Roasted pinto with a rotating chili blend. Different every time.
+dish: Frijoles charros - pinto beans simmered with roasted pasilla chiles, bacon, and jalapeño.
 quote: Consistency is the last refuge of the bean-less.
 fortune: The surprises this season have landed well — build enough of a foundation in the next one that they continue to read as features, not as weather.
 ---

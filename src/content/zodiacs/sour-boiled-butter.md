@@ -4,7 +4,7 @@ bean: butter
 flavour: sour
 form: boiled
 trait: honest
-dish: Butter bean broth with lemon and parsley. Exactly what it says.
+dish: Avgolemono - butter bean soup with dill and lemon.
 quote: The bean will set you free, but first it will make you uncomfortable.
 fortune: The honesty that has been building this season is not getting easier to say by waiting — this is the season to say it.
 ---

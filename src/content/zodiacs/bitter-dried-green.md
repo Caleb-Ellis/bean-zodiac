@@ -4,7 +4,7 @@ bean: green
 flavour: bitter
 form: dried
 trait: honed
-dish: Dried green bean, sharp vinegar, nothing wasted. The edge is the whole point.
+dish: Appalachian Leather Britches - with bitter herbs and salt pork.
 quote: Give me six hours to chop down a tree and I will spend the first four sharpening the bean.
 fortune: The precision you have cultivated this season is ready — the question is no longer whether you are sharp, but what is worth cutting.
 ---

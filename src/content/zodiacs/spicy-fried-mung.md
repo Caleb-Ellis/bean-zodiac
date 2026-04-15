@@ -4,7 +4,7 @@ bean: mung
 flavour: spicy
 form: fried
 trait: high-strung
-dish: Spiced mung cakes with chili sauce. Wound tight. Worth it.
+dish: Bindaetteok - Korean mung bean pancake with kimchi and gochugaru.
 quote: Bean cannot endure either perfect solitude or perfect society.
 fortune: The season has given your nervous system more material than it needed — build the gap between signal and response before the next one starts, while you can still choose the size.
 ---

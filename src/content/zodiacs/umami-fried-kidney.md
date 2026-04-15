@@ -4,7 +4,7 @@ bean: kidney
 flavour: umami
 form: fried
 trait: moralistic
-dish: Kidney bean fried with miso. Has principles. Will tell you.
+dish: Pan-fried kidney bean cakes with red miso, sake, and sesame.
 quote: Moralising and bean are two arts that seldom go together.
 fortune: The conviction has been consistent and correct this season — find the form that allows others to arrive at it themselves, without being led.
 ---

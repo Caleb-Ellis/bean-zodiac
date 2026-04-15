@@ -4,7 +4,7 @@ bean: adzuki
 flavour: spicy
 form: smoked
 trait: incandescent
-dish: Smoked adzuki with chili lacquer, caramelised at high heat. Hard to look at directly.
+dish: Adzuki doenjang-jjigae - adzuki beans in fermented soybean broth with smoked anchovy and gochugaru.
 quote: It is better to burn out than to bean away.
 fortune: The light you generated this season was not performance — it was you at full temperature, which is extraordinary and difficult to be near at length. Find the register next season that celebrates without overwhelming.
 ---

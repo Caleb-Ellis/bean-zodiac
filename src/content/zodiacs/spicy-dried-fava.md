@@ -4,7 +4,7 @@ bean: fava
 flavour: spicy
 form: dried
 trait: audacious
-dish: Dried fava, scotch bonnet. Already committed. No exit planned.
+dish: Bessara - Moroccan dried fava bean dip with cumin and chili oil.
 quote: Fortune favors the bean.
 fortune: The move you made this season before conditions were ideal was correct — the next one will ask the same of you.
 ---

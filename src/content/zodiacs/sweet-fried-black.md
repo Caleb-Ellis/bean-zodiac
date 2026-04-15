@@ -4,7 +4,7 @@ bean: black
 flavour: sweet
 form: fried
 trait: driven
-dish: Black beans fried with sweet plantain. Somewhere to be.
+dish: Black bean and sweet plantain fritters — mashed black beans and ripe plantain fried together in rounds, crisp outside and sweet within.
 quote: Stay hungry, stay bean.
 fortune: Check behind you this season — the warmth you carry was always meant to reach the Beans you are pulling, not only the destination.
 ---

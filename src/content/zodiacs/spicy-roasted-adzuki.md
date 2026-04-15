@@ -4,7 +4,7 @@ bean: adzuki
 flavour: spicy
 form: roasted
 trait: enthusiastic
-dish: Roasted adzuki with chili and maple. Fully committed.
+dish: Wǔxiāng hóngdòu - five-spice roasted adzuki beans with dried Sichuan chili.
 quote: I am HOT and I am EXCITED and I will not be apologising for either.
 fortune: The enthusiasm has carried you through the bright start of this season — find what nourishes it through the hard middle, so the warmth is still there at the end.
 ---

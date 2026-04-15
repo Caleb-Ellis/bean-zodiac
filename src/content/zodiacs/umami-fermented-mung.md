@@ -4,7 +4,7 @@ bean: mung
 flavour: umami
 form: fermented
 trait: poetic
-dish: Mung in deep fermented broth with tofu. Almost says something.
+dish: Doenjang juk - savory mung bean porridge with fermented soybean paste and sesame oil.
 quote: A bean should be more careful of his learning than of the pebble in his shoe.
 fortune: The season has given you material and the material has found its shape — send it, even on the days when the plain draft is all that is ready.
 ---

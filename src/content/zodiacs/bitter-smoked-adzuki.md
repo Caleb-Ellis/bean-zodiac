@@ -4,7 +4,7 @@ bean: adzuki
 flavour: bitter
 form: smoked
 trait: oracular
-dish: Smoked adzuki with bitter black garlic and charred citrus. Knows before you ask.
+dish: Smoked adzuki with bitter black garlic and charred citrus.
 quote: The unexamined bean is not worth living.
 fortune: You saw this season coming before it announced itself — the question it leaves is whether you shared the reading while there was still time to act on it. Next season, speak first.
 ---

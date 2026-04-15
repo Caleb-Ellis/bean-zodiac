@@ -4,7 +4,7 @@ bean: navy
 flavour: sweet
 form: smoked
 trait: haunting
-dish: Smoked navy bean with sweet wood smoke. Long finished. Still there.
+dish: Boston baked beans - navy beans slow-cooked with smoked salt pork, molasses, and brown sugar.
 quote: I am haunted by bean.
 fortune: What you left in rooms this season was still present after you had gone — the season ahead asks whether you have truly arrived somewhere, or only passed through and left the impression of a door.
 ---

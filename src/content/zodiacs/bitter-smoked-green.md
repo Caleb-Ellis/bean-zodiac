@@ -4,7 +4,7 @@ bean: green
 flavour: bitter
 form: smoked
 trait: eerie
-dish: Smoked green bean with bitter elderflower and char. The source is offstage.
+dish: Smoked green bean with bitter elderflower and char.
 quote: Something is rotten in the bean of Denmark.
 fortune: The energy you carried this season reached people before you did and unsettled them before you could explain yourself — name what you are running toward, at least once, for someone who is trying to follow.
 ---

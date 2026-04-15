@@ -4,7 +4,7 @@ bean: chickpea
 flavour: bitter
 form: smoked
 trait: liminal
-dish: Smoked chickpea broth with bitter cress, unresolved. The door is still open.
+dish: Smoked chickpea broth with bitter cress, unresolved.
 quote: Not all those who bean are lost.
 fortune: You spent this season standing in doorways — which is its own form of attention and not without value. The season ahead asks you to close one door deliberately and see what the room holds.
 ---

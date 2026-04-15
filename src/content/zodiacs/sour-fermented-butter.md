@@ -4,7 +4,7 @@ bean: butter
 flavour: sour
 form: fermented
 trait: minimalist
-dish: Butter bean with kimchi brine. That's enough.
+dish: Butter bean and labneh with preserved lemon and olive oil.
 quote: Less is bean.
 fortune: The reduction this season has made space — what remains is what was always essential, and the arrangement is better for having less to maintain.
 ---

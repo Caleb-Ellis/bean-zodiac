@@ -4,7 +4,7 @@ bean: pinto
 flavour: spicy
 form: fermented
 trait: mercurial
-dish: Pinto in fermented chili that changes every time. It just does.
+dish: Pinto with chipotle en adobo - braised pinto beans in fermented chipotle and pickled jalapeño.
 quote: Nothing endures but bean.
 fortune: The positions you have moved through this season are not inconsistency — they are a finished argument — but the Beans who couldn't follow need the trail before the season ends.
 ---

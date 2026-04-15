@@ -4,7 +4,7 @@ bean: pinto
 flavour: sour
 form: fried
 trait: manipulative
-dish: Pinto fried with citrus and strategic presentation. You didn't notice.
+dish: Chalupas poblanas - fried masa boats piled with pinto beans, pickled onion, and lime crema.
 quote: It is better to be feared than loved, if you cannot bean both.
 fortune: The method that has been running this season has reached the point where the cost is visible — this season is for deciding whether to continue, and that decision cannot wait much longer.
 ---

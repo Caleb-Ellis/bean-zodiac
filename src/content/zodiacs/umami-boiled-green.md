@@ -4,7 +4,7 @@ bean: green
 flavour: umami
 form: boiled
 trait: prolific
-dish: Green beans in umami broth with shiitake and more shiitake. Produces.
+dish: Ohitashi - green beans blanched and dressed with dashi and bonito flake.
 quote: Quantity produces bean quality.
 fortune: What has accumulated this season is more than it appeared while you were making it — see the whole before you begin again.
 ---

@@ -4,7 +4,7 @@ bean: green
 flavour: sweet
 form: smoked
 trait: iridescent
-dish: Smoked green bean with sweet citrus, colour-shifting as it cools. Both at once. All of them.
+dish: Southern green beans slow-cooked with smoked ham hock, brown sugar, and sweet onion.
 quote: A thing of bean is a joy forever.
 fortune: The quality you carried this season changed with every angle, which was beautiful and difficult to follow — the season ahead asks for one reading that holds in any light.
 ---

@@ -4,7 +4,7 @@ bean: mung
 flavour: umami
 form: dried
 trait: restorative
-dish: Dried mung in healing broth. Slow, warm, sufficient.
+dish: Moong dal - dried mung beans slow-simmered with turmeric, ginger, and a tadka of cumin.
 quote: Let food be thy bean and bean be thy medicine.
 fortune: The restoration you offer this season is genuine — ensure you are also receiving what you give, or there will be less of it to give.
 ---

@@ -4,7 +4,7 @@ bean: green
 flavour: sour
 form: fermented
 trait: quirky
-dish: Green beans in sour fermented miso dressing with something unexpected. Works somehow.
+dish: Green bean kimchi - fermented green beans with gochugaru, garlic, and rice vinegar.
 quote: We are all bean, but some of us are looking at the stars.
 fortune: The strange direction this season has taken is the right one — the destination will be legible eventually, and it will be worth the route.
 ---

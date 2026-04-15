@@ -4,7 +4,7 @@ bean: fava
 flavour: spicy
 form: fermented
 trait: subversive
-dish: Fava with fermented harissa. Quietly undermining the expected.
+dish: Spicy fava with doubanjiang and Sichuan pepper.
 quote: The most bean act in a conformist world is to think for yourself.
 fortune: The work you have been building this season in private is nearly visible — surface enough of it now to confirm the direction before it becomes the only direction.
 ---

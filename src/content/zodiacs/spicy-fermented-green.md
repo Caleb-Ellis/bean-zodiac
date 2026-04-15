@@ -4,7 +4,7 @@ bean: green
 flavour: spicy
 form: fermented
 trait: unconventional
-dish: Green beans in spicy fermented sauce with seaweed. Against the grain.
+dish: Green bean doenjang muchim - seasoned green beans with fermented soybean paste and gochugaru.
 quote: Here's to the crazy beans, the misfits, the rebels, the troublemakers.
 fortune: The unconventional route you have taken this season is right — show your working before the season ends, or the result will arrive without a path anyone else can follow.
 ---

@@ -4,7 +4,7 @@ bean: navy
 flavour: spicy
 form: smoked
 trait: dogged
-dish: Smoked navy bean with persistent chili broth. Still here. Still going.
+dish: Cassoulet - French slow-cooked navy beans with smoked duck confit, Toulouse sausage, and piment d'Espelette.
 quote: It's not whether you get knocked down, it's whether you bean up.
 fortune: The commitment you carried this season did not require inspiration — it required showing up until the thing gave way, and it did. Before applying the same standard next season, check whether what you are committed to has checked on you.
 ---

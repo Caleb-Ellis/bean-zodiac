@@ -4,7 +4,7 @@ bean: adzuki
 flavour: sour
 form: roasted
 trait: transparent
-dish: Roasted adzuki with rice vinegar glaze. What you see.
+dish: Iri-azuki - roasted adzuki beans with yuzu zest and sea salt
 quote: The naked bean is the most decent thing in the world.
 fortune: The transparency this season has given Beans something to trust — that is slow work, and it is worth continuing.
 ---

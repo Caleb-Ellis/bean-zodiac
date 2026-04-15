@@ -4,7 +4,7 @@ bean: green
 flavour: sour
 form: boiled
 trait: restless
-dish: Green bean and lemon broth with too many herbs. Couldn't sit still.
+dish: Taze fasulye - Turkish green beans slow-cooked with lemon, garlic, and tomato.
 quote: I am not a bean at ease.
 fortune: The restlessness has not been wrong — let it point you toward the one thing that still needs doing, and finish that before it points somewhere else.
 ---

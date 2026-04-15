@@ -4,7 +4,7 @@ bean: chickpea
 flavour: sour
 form: dried
 trait: wry
-dish: Dried chickpea. Has seen this before. Finds it instructive.
+dish: Balila - chickpeas with dried black lime and olive oil.
 quote: History doesn't repeat itself, but it does bean.
 fortune: The pattern you are watching repeat itself this season is not happening to you — you are happening to it. Do something different.
 ---

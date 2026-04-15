@@ -4,7 +4,7 @@ bean: pinto
 flavour: spicy
 form: boiled
 trait: moody
-dish: Pinto bean stew with varying heat. Depends on the day.
+dish: Frijoles de olla - pinto beans simmered with chile de árbol.
 quote: I am not moody — I am a bean with feelings.
 fortune: The moods of this season have their own pattern — map the recurring ones and let the Beans near you know when the significant one is coming.
 ---

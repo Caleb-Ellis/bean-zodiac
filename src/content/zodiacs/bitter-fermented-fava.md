@@ -4,7 +4,7 @@ bean: fava
 flavour: bitter
 form: fermented
 trait: questioning
-dish: Fava in miso with bitter herb oil. One answer leads to three more.
+dish: Fava bean soup with harissa yogurt and bitter orange.
 quote: The bean that gets questioned, gets answered.
 fortune: The question you have been working on this season has an answer now — let it be settled, and carry the thoroughness to the next one.
 ---

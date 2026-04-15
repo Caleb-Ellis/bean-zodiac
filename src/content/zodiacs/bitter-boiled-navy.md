@@ -4,7 +4,7 @@ bean: navy
 flavour: bitter
 form: boiled
 trait: dogmatic
-dish: Navy bean and escarole soup. This way. Not another.
+dish: Navy bean and escarole soup.
 quote: A bean convinced against his will is of the same opinion still.
 fortune: This season, find the oldest principle you hold and ask once whether the evidence it was built on still stands.
 ---

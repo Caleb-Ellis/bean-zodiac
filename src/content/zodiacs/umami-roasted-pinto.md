@@ -4,7 +4,7 @@ bean: pinto
 flavour: umami
 form: roasted
 trait: detached
-dish: Roasted pinto with umami glaze. Observing from a distance. Interesting.
+dish: Roasted pinto beans with ancho chile, tomato paste, and cumin.
 quote: I have bean watching from a great height for so long.
 fortune: The view has been informative this season — descend into one thing fully, and let what you observe from above be richer for having been there.
 ---

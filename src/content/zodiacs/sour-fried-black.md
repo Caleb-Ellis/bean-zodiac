@@ -4,7 +4,7 @@ bean: black
 flavour: sour
 form: fried
 trait: direct
-dish: Black beans stir-fried with lime and chili. Here it is.
+dish: Black bean tostadas with lime crema - refried black beans on a crisp fried tortilla with sour cream and lime.
 quote: Say what you bean and bean what you say.
 fortune: What was said this season landed — the directness that felt like a risk has built something more durable than a softer approach would have.
 ---

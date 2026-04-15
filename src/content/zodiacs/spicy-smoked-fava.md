@@ -4,7 +4,7 @@ bean: fava
 flavour: spicy
 form: smoked
 trait: unbridled
-dish: Smoked fava with volcanic chili paste and no visible limit. Let it.
+dish: Besara - Egyptian smoked fava bean soup with caramelised onion and dried chili.
 quote: Born free, as bean as the wind blows.
 fortune: The motion this season had no natural boundary and didn't look for one — the season ahead asks for the difference between the limit that constrains you and the one that keeps what you're building in the world.
 ---

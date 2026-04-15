@@ -4,7 +4,7 @@ bean: fava
 flavour: bitter
 form: smoked
 trait: otherworldly
-dish: Smoked fava, twice-prepared, with bitter ash. Returned from somewhere.
+dish: Smoked fava, twice-prepared, with bitter ash.
 quote: We are made of bean stuff.
 fortune: Where you went this season required courage most beans have never needed — the season ahead asks only that you find the form to bring what you found back into the world.
 ---

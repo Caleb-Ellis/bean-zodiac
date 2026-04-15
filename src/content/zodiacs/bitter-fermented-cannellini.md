@@ -4,7 +4,7 @@ bean: cannellini
 flavour: bitter
 form: fermented
 trait: scholarly
-dish: Cannellini in fermented bitter broth with anchovy. An acquired taste. Worth acquiring.
+dish: Cannellini in aged pecorino broth with bitter cicoria.
 quote: I have not failed. I have just found ten thousand ways that will not produce a bean.
 fortune: The scholarship you have accumulated this season is ready for the form that makes it useful — find the occasion, and bring the book outside.
 ---

@@ -4,7 +4,7 @@ bean: kidney
 flavour: bitter
 form: dried
 trait: hardened
-dish: Dried kidney in black broth. Each season, denser. Unbroken.
+dish: Louisiana Red Beans and Rice - with mustard greens.
 quote: What lies behind us and what lies before us are tiny matters compared to what lies bean us.
 fortune: The density you carry this season is not damage — ask whether it still leaves room for what is trying to get in.
 ---

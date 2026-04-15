@@ -4,7 +4,7 @@ bean: edamame
 flavour: sweet
 form: fried
 trait: motivated
-dish: Edamame fried with mirin glaze. Gets up. Gets moving.
+dish: Honey butter fried edamame — soybeans deep-fried until blistered, tossed hot in honey butter and flaked salt.
 quote: The secret of getting ahead is getting bean started.
 fortune: Check the compass this season — momentum without direction is just speed, and what you are moving toward still needs to be yours.
 ---

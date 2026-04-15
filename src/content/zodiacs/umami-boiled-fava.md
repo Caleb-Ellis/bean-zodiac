@@ -4,7 +4,7 @@ bean: fava
 flavour: umami
 form: boiled
 trait: vigilant
-dish: Fava and mushroom soup with deep broth. Watching. Ready.
+dish: Fave e guanciale - fava beans simmered with cured pork jowl and sage.
 quote: Eternal bean is the price of liberty.
 fortune: Nothing was missed this season — allow yourself to set the watch down briefly and rest inside what you have kept safe.
 ---

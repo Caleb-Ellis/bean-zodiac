@@ -4,7 +4,7 @@ bean: kidney
 flavour: sour
 form: smoked
 trait: scorching
-dish: Smoked kidney bean with vinegar reduction and ember oil. Leaves a mark.
+dish: New Orleans red beans and rice with smoked andouille, pickled okra, and hot sauce
 quote: Some like it bean.
 fortune: The heat you brought this season left marks that aren't immediately visible — next season, choose the truths worth that temperature, and deploy the rest at something that survives being used.
 ---

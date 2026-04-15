@@ -4,7 +4,7 @@ bean: cannellini
 flavour: spicy
 form: fried
 trait: ambitious
-dish: Crispy cannellini with chili oil. Going places.
+dish: Spicy cannellini and ricotta fritters with Calabrian chili.
 quote: Shoot for the bean. Even if you miss, you will land among the legumes.
 fortune: The larger thing is still ahead and you are still moving toward it — slow down once this season to see what is running alongside you, before you arrive alone.
 ---

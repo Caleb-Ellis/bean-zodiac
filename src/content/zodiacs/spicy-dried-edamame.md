@@ -4,7 +4,7 @@ bean: edamame
 flavour: spicy
 form: dried
 trait: caustic
-dish: Dried edamame, chilli salt. Efficient. Not always kind about it.
+dish: Dried edamame with shichimi togarashi and yuzu salt.
 quote: Be yourself; everyone else is already beaned.
 fortune: The accuracy of your assessments this season was not in question — ask who else is bearing the cost of being right.
 ---

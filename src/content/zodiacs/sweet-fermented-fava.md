@@ -4,7 +4,7 @@ bean: fava
 flavour: sweet
 form: fermented
 trait: visionary
-dish: Fava with sweet fermented paste and long spices. Sees ten steps ahead.
+dish: Fave dolci al Marsala — fava beans braised in sweet Marsala wine with sugar and lemon until the liquid becomes a syrup.
 quote: The bean is not to predict the future but to imagine it.
 fortune: The vision has been developing long enough — this season, make the distance between now and the future you see feel traversable for someone who is not you.
 ---

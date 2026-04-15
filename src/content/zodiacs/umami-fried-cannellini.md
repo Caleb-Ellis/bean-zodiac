@@ -4,7 +4,7 @@ bean: cannellini
 flavour: umami
 form: fried
 trait: principled
-dish: Cannellini sautéed in anchovy butter. Stands for something.
+dish: Fagioli con alici - pan-fried cannellini with anchovies, garlic, and olive oil.
 quote: The arc of the bean universe is long, but it bends toward justice.
 fortune: The principles have been consistent this season — let one of them be examined, not to revise it, but to confirm it still means what you need it to mean.
 ---

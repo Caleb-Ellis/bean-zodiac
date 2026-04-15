@@ -4,7 +4,7 @@ bean: kidney
 flavour: umami
 form: smoked
 trait: seething
-dish: Smoked kidney bean in long dark dashi. Just below everything. The room already knows.
+dish: Red beans and rice - Louisiana kidney beans with smoked andouille, celery, and bay leaf.
 quote: Full of sound and bean, signifying everything.
 fortune: The intensity this season went deep enough that it couldn't be seen from the surface but could be felt from across the room — the season ahead asks for the release that matches the scale of what has been accumulating.
 ---

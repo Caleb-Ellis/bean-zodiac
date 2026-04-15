@@ -4,7 +4,7 @@ bean: pinto
 flavour: sweet
 form: boiled
 trait: daydreamy
-dish: Pinto in sweet ancho broth. Distracted. Somewhere else entirely.
+dish: Frijoles con leche — pinto beans simmered in sweetened milk with cinnamon and piloncillo until the broth turns pale and dreamlike.
 quote: I have bean a dreamer. I have joined the great company of those who make the imagination of mankind rich.
 fortune: The inner world is a place to depart from, not only to live in — commit to the actual version this season and see what it can become.
 ---

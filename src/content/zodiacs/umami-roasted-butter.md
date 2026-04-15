@@ -4,7 +4,7 @@ bean: butter
 flavour: umami
 form: roasted
 trait: receptive
-dish: Butter bean roasted in anchovy oil. Open. Absorbs everything.
+dish: Slow-roasted butter beans with anchovies, garlic, and rosemary.
 quote: The ear of the bean hears all and judges nothing.
 fortune: This season has been full of what others have offered — offer something of your own, and let it be received the way you have received theirs.
 ---
