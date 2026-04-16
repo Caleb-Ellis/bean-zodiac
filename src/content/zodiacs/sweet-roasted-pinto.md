@@ -9,8 +9,8 @@ quote: I solemnly swear that my beans are up to no good.
 fortune: A room is about to be left — leave it better than you found it, and then let the mischief rest.
 ---
 
-Roasted Beans born in the Year of the Sweet Pinto Bean are the Bean Zodiac's most mischievous — warm enough to get away with it, aware of their own irresistibility.
+Glazed Pinto Beans are the Bean Zodiac's most mischievous — warm enough to get away with it, aware of their own irresistibility.
 
 Pinto Beans arrive expressive with markings that broadcast a story; Sweet Beans keep the whole thing generous; Roasted Beans fill the room with something irresistible.
 
-The Roasted Sweet Pinto Bean's challenge is knowing when to stop. They must read the room they just lit up and leave it a little better.
+The Glazed Pinto Bean's challenge is knowing when to stop. They must read the room they just lit up and leave it a little better.

@@ -1,7 +1,7 @@
 import { useState } from "react";
 import { type ZodiacData } from "../lib/zodiac";
 import ZodiacWheel from "./ZodiacWheel";
-import ZodiacResult from "./ZodiacResult";
+import ZodiacIdentity from "./ZodiacIdentity";
 
 type Props = {
   data: ZodiacData;
@@ -58,7 +58,7 @@ export default function ZodiacCalendar({ data }: Props) {
       </section>
       {selectedDate && resultVisible && (
         <div className="my-4 sm:my-6">
-          <ZodiacResult
+          <ZodiacIdentity
             key={selectedDate.getTime()}
             data={data}
             date={selectedDate}

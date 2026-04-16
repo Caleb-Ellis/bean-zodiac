@@ -9,8 +9,8 @@ quote: Look before you bean.
 fortune: The next right move is the action, not another check — when the moment comes, the preparation is finished.
 ---
 
-Fried Beans born in the Year of the Bitter Mung Bean are the Bean Zodiac's most cautious — they check everything before acting fast.
+Scorched Mung Beans are the Bean Zodiac's most cautious — they check everything before acting fast.
 
 Mung Bean reads conditions first; Bitter Beans demand scrutiny before committing; Fried Beans apply decisive heat only after assessment.
 
-The Fried Bitter Mung Bean's challenge is the moment when caution becomes a reason not to move. They have everything they need. They must occasionally trust the checking is done.
+The Scorched Mung Bean's challenge is the moment when caution becomes a reason not to move. They have everything they need. They must occasionally trust the checking is done.

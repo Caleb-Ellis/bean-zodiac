@@ -9,8 +9,8 @@ quote: Consistency is the last refuge of the unimaginative bean.
 fortune: A direction will change — tell the Beans counting on you before it does.
 ---
 
-Roasted Beans born in the Year of the Sweet Green Bean are the Bean Zodiac's most capricious — they change direction with warmth and conviction that makes each new thing feel inevitable.
+Glazed Green Beans are the Bean Zodiac's most capricious — they change direction with warmth and conviction that makes each new thing feel inevitable.
 
 Green Beans cycle through possibilities fast; Sweet Beans feel each enthusiasm genuinely; Roasted Beans give it heat and presence.
 
-The Roasted Sweet Green Bean's challenge is those counting on them. They must communicate the change before others build plans around the old direction.
+The Glazed Green Bean's challenge is those counting on them. They must communicate the change before others build plans around the old direction.

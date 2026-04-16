@@ -9,8 +9,8 @@ quote: Come in, come in. The bean is always on and I have been meaning to tell y
 fortune: A conversation will want to find its own way — let it, occasionally, and see what it brings back.
 ---
 
-Roasted Beans born in the Year of the Umami Cannellini Bean are the Bean Zodiac's most forthcoming — they don't wait to be asked for what they know.
+Bronzed Cannellini Beans are the Bean Zodiac's most forthcoming — they don't wait to be asked for what they know.
 
 Cannellini Beans improve surroundings deliberately; Umami Beans offer depth with substance; Roasted Beans carry it outward with warmth.
 
-The Roasted Umami Cannellini Bean's challenge is timing. They must occasionally let conversation find its own way rather than leading it there.
+The Bronzed Cannellini Bean's challenge is timing. They must occasionally let conversation find its own way rather than leading it there.

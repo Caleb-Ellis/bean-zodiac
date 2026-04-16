@@ -28,6 +28,20 @@ The core of the app. Key concepts:
 - Reference Date is 12 March 1993 - this is when the Bean Zodiac started
 - `getCurrentBeanZodiac()` → `getBeanZodiacForYear(beanYear)` is the main call chain
 
+### Preparations ([src/lib/zodiac.ts](src/lib/zodiac.ts))
+
+A **Preparation** is the named synthesis of a Flavour × Form combination — e.g. Sweet + Fried = **Caramelized**. There are 30 preparations (5 × 6). They are defined as a lookup constant `PREPARATION_NAMES` in `zodiac.ts` and accessed via `getPreparationName(flavourId, formId)`. No content collection — names only.
+
+Full table:
+
+|          | boiled     | dried        | fermented | fried        | roasted    | smoked      |
+|----------|------------|--------------|-----------|--------------|------------|-------------|
+| bitter   | Decocted   | Desiccated   | Macerated | Scorched     | Dark Roasted | Ashen     |
+| sour     | Brined     | Zested       | Pickled   | Brightened   | Charred    | Cold-Smoked |
+| spicy    | Braised    | Chili-Dried  | Kimchi    | Chili-Crisped | Blackened | Chipotle   |
+| sweet    | Candied    | Crystallized | Honeyed   | Caramelized  | Glazed     | Barbecued   |
+| umami    | Reduced    | Aged         | Miso      | Tempura      | Bronzed    | Burnished   |
+
 ### Content Collections ([src/content.config.ts](src/content.config.ts))
 
 Astro glob-loaded collections:
@@ -39,7 +53,8 @@ Astro glob-loaded collections:
 
 ### Pages and Routing
 
-- `/` — Current year's zodiac (bean + flavour + zodiac) + date picker
+- `/` — Current season's zodiac displayed as "The Season of the [Preparation] [Bean]"
+- `/calendar` — Date picker; result displayed as "You are the [Preparation] [Bean]"
 - `/beans/` — All 12 beans listed
 - `/beans/[slug]` — Bean detail with traits and markdown body
 - `/flavours/` — All 5 flavours listed
@@ -48,6 +63,12 @@ Astro glob-loaded collections:
 - `/forms/[slug]` — Form detail with traits and markdown body
 
 Detail pages use `getStaticPaths()` for static generation at build time.
+
+### Components
+
+- **`ZodiacResult.tsx`** — used on `/`, shows current season with "The Season of the [Preparation] [Bean]" heading + Era/Season/Year badges
+- **`ZodiacIdentity.tsx`** — used on `/calendar` via `ZodiacCalendar.tsx`, shows a user's personal result with "You are the [Preparation] [Bean]" heading + Era/Season/Year badges
+- The preparation name in both components uses a flavour→form gradient with the form's SVG filter applied for texture
 
 ### Styling
 

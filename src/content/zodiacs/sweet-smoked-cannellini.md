@@ -9,8 +9,8 @@ quote: The most beautiful things in the world cannot be seen or bean — they mu
 fortune: What you carry will be handled by someone — build it to survive a little handling without losing what makes it worth it.
 ---
 
-Smoked Beans born in the Year of the Sweet Cannellini Bean are the Bean Zodiac's most delicate — their refinement has become something that needs to be handled with care.
+Barbecued Cannellini Beans are the Bean Zodiac's most delicate — their refinement has become something that needs to be handled with care.
 
 Cannellini Beans remove everything that does not belong until only the essential remains; Sweet Beans soften every edge they touch; Smoked Beans give the result a quality that should not be rushed or jostled.
 
-The Smoked Sweet Cannellini Bean's challenge is resilience. Refinement is not the same as fragility — it simply gets mistaken for it. These Beans must build something that can survive a little handling.
+The Barbecued Cannellini Bean's challenge is resilience. Refinement is not the same as fragility — it simply gets mistaken for it. These Beans must build something that can survive a little handling.

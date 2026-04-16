@@ -9,8 +9,8 @@ quote: That which does not bean us makes us stronger.
 fortune: A difficulty is coming that will want to be named — name it, and let the resilience be acknowledged.
 ---
 
-Roasted Beans born in the Year of the Sweet Black Bean are the Bean Zodiac's most resilient — through warmth and solidity that allows them to flex under pressure and return without fracturing.
+Glazed Black Beans are the Bean Zodiac's most resilient — through warmth and solidity that allows them to flex under pressure and return without fracturing.
 
 Black Beans hold their shape and flex without fracturing; Sweet Beans recover into something warmer; Roasted Beans transform difficulty into comfort.
 
-The Roasted Sweet Black Bean's challenge is allowing the difficulty to be named. They must let themselves say what was hard.
+The Glazed Black Bean's challenge is allowing the difficulty to be named. They must let themselves say what was hard.

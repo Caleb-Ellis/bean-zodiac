@@ -9,8 +9,8 @@ quote: The bean will set you free, but first it will make you uncomfortable.
 fortune: What has been building toward being said will find its moment — when it comes, say it.
 ---
 
-Boiled Beans born in the Year of the Sour Butter Bean are the Bean Zodiac's most honest — they deliver truth gently, after waiting for exactly the right moment.
+Brined Butter Beans are the Bean Zodiac's most honest — they deliver truth gently, after waiting for exactly the right moment.
 
 Butter Beans are gentle and avoid conflict; Sour Beans cut to what is precise; Boiled Beans wait for the moment to be right.
 
-The Boiled Sour Butter Bean's challenge is not waiting too long. They must learn when to speak, or the moment becomes history.
+The Brined Butter Bean's challenge is not waiting too long. They must learn when to speak, or the moment becomes history.

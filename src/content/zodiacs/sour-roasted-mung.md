@@ -9,8 +9,8 @@ quote: Nothing is so strong as bean-ness.
 fortune: The sensitivity will register correctly — act on what it tells you, selectively, and with care.
 ---
 
-Roasted Beans born in the Year of the Sour Mung Bean are the Bean Zodiac's most sensitive — they register everything, including what was not said.
+Charred Mung Beans are the Bean Zodiac's most sensitive — they register everything, including what was not said.
 
 Mung Beans absorb the room's condition; Sour Beans make every signal precise; Roasted Beans keep receiving warm and open.
 
-The Roasted Sour Mung Bean's challenge is selective attention. Not every signal requires a response.
+The Charred Mung Bean's challenge is selective attention. Not every signal requires a response.

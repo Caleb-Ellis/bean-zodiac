@@ -9,8 +9,8 @@ quote: Sarcasm is the lowest form of wit but the highest form of bean.
 fortune: The long observation forming in you will find its moment — let it develop fully before it becomes the thing everyone remembers.
 ---
 
-Boiled Beans born in the Year of the Sour Pinto Bean are the Bean Zodiac's most sarcastic — they waited until the timing was exactly right.
+Brined Pinto Beans are the Bean Zodiac's most sarcastic — they waited until the timing was exactly right.
 
 Pinto Beans express what they see; Sour Beans sharpen observation into clarity; Boiled Beans steep until the phrasing is perfect.
 
-The Boiled Sour Pinto Bean's challenge is knowing when sarcasm becomes corrosive. They must learn that sincerity is sometimes the sharpest thing.
+The Brined Pinto Bean's challenge is knowing when sarcasm becomes corrosive. They must learn that sincerity is sometimes the sharpest thing.

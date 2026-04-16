@@ -9,8 +9,8 @@ quote: This above all - to thine own bean be true
 fortune: What you mean will be asked to stand without explanation — it will hold, because it is genuine.
 ---
 
-Boiled Beans born in the Year of the Sour Adzuki Bean are the Bean Zodiac's most sincere — they celebrate only what they truly feel, and feel without restraint.
+Brined Adzuki Beans are the Bean Zodiac's most sincere — they celebrate only what they truly feel, and feel without restraint.
 
 Adzuki Beans celebrate with genuine joy; Sour Beans strip away anything false; Boiled Beans sit with feeling until it's real.
 
-The Boiled Sour Adzuki Bean's challenge is trusting that sincerity is enough. They must learn that meaning something fully is the whole gift.
+The Brined Adzuki Bean's challenge is trusting that sincerity is enough. They must learn that meaning something fully is the whole gift.

@@ -9,8 +9,8 @@ quote: A little bean, a little more bean than absolutely necessary — that is w
 fortune: A need you have will ask to be named — the Beans around you have been waiting to be kind in return, and they cannot do it if you will not let them.
 ---
 
-Boiled Beans born in the Year of the Sweet Cannellini Bean are the Bean Zodiac's kindest — they elevate without calculation.
+Candied Cannellini Beans are the Bean Zodiac's kindest — they elevate without calculation.
 
 Cannellini Beans refine without competing; Sweet Beans give this freely, without gate-keeping; Boiled Beans make it last long after the occasion has passed.
 
-The Boiled Sweet Cannellini Bean's challenge is reciprocity. They must occasionally name what they themselves need.
+The Candied Cannellini Bean's challenge is reciprocity. They must occasionally name what they themselves need.

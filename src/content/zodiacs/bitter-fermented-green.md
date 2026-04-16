@@ -9,8 +9,8 @@ quote: Imagination is more important than bean.
 fortune: The draft that is forming will benefit from friction — share it before it is finished, and let the interference make it stranger and better.
 ---
 
-Fermented Beans born in the Year of the Bitter Green Bean are the Bean Zodiac's most imaginative — they see what isn't there yet and render it visible.
+Macerated Green Beans are the Bean Zodiac's most imaginative — they see what isn't there yet and render it visible.
 
 Green Bean generates ideas fast; Bitter Beans discard the decorative ruthlessly; Fermented Beans convert raw energy into something richer and stranger.
 
-The Fermented Bitter Green Bean's challenge is letting others in early. Imagination running entirely in private arrives with visions no one has been prepared for. They must share the draft, not only the finished thing.
+The Macerated Green Bean's challenge is letting others in early. Imagination running entirely in private arrives with visions no one has been prepared for. They must share the draft, not only the finished thing.

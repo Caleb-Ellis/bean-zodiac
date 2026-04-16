@@ -9,8 +9,8 @@ quote: To be yourself in a world that is constantly trying to make you something
 fortune: The authenticity will find the right Beans — those who do not receive it are not the intended recipients.
 ---
 
-Roasted Beans born in the Year of the Sour Fava Bean are the Bean Zodiac's most authentic — they offer the actual thing with warmth.
+Charred Fava Beans are the Bean Zodiac's most authentic — they offer the actual thing with warmth.
 
 Fava Beans are double-layered; Sour Beans strip away decoration; Roasted Beans make honesty feel like a gift.
 
-The Roasted Sour Fava Bean's challenge is ongoing maintenance. They must stay curious about whether they have changed.
+The Charred Fava Bean's challenge is ongoing maintenance. They must stay curious about whether they have changed.

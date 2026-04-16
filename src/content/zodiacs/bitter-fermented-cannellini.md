@@ -9,8 +9,8 @@ quote: I have not failed. I have just found ten thousand ways that will not prod
 fortune: The right moment to bring what you have accumulated outward is closer than it feels — find it before the scholarship begins speaking only to itself.
 ---
 
-Fermented Beans born in the Year of the Bitter Cannellini Bean are the Bean Zodiac's most scholarly — they have a devoted relationship with knowledge, surfacing only when conclusion-ready.
+Macerated Cannellini Beans are the Bean Zodiac's most scholarly — they have a devoted relationship with knowledge, surfacing only when conclusion-ready.
 
 Cannellini Bean refines and elevates ideas; Bitter Beans favor the complex, things that reward sustained attention; Fermented Beans work the investment in the dark.
 
-The Fermented Bitter Cannellini Bean's challenge is translation. Scholarship held entirely within is just organized interior. They must find the form that makes what they know useful to the room, not just themselves.
+The Macerated Cannellini Bean's challenge is translation. Scholarship held entirely within is just organized interior. They must find the form that makes what they know useful to the room, not just themselves.

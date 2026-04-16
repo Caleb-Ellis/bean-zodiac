@@ -9,8 +9,8 @@ quote: We are all bean, but some of us are looking at the stars.
 fortune: The strange direction you are moving in is the right one — the destination will be legible eventually, and it will be worth the route.
 ---
 
-Fermented Beans born in the Year of the Sour Green Bean are the Bean Zodiac's quirkiest — they have emerged with something that cannot be easily categorised.
+Pickled Green Beans are the Bean Zodiac's quirkiest — they have emerged with something that cannot be easily categorised.
 
 Green Beans start with openness to any direction; Fermented Beans work privately to produce unexpected outcomes; Sour Beans clear away polite consensus.
 
-The Fermented Sour Green Bean's challenge is being legible to others. They must occasionally describe the route, not only the destination.
+The Pickled Green Bean's challenge is being legible to others. They must occasionally describe the route, not only the destination.

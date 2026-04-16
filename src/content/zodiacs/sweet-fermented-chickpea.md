@@ -9,8 +9,8 @@ quote: Could a greater bean miracle take place than for us to look through each 
 fortune: A belonging elsewhere will arrive that feels like yours — know where you end before taking it on.
 ---
 
-Fermented Beans born in the Year of the Sweet Chickpea are the Bean Zodiac's most empathetic — they feel what someone is carrying before that person has named it.
+Honeyed Chickpeas are the Bean Zodiac's most empathetic — they feel what someone is carrying before that person has named it.
 
 Chickpeas translate between temperaments naturally; Sweet Beans ensure the attention is warm; Fermented Beans work the operation internal until understanding emerges.
 
-The Fermented Sweet Chickpea's challenge is their own interior. They must know where they end before taking on what belongs to someone else.
+The Honeyed Chickpea's challenge is their own interior. They must know where they end before taking on what belongs to someone else.

@@ -9,8 +9,8 @@ quote: It's not whether you get knocked down, it's whether you bean up.
 fortune: A commitment will be asked of you that requires no inspiration — show up until the thing gives way, and then check whether what you committed to has checked on you.
 ---
 
-Smoked Beans born in the Year of the Spicy Navy Bean are the Bean Zodiac's most dogged — they will not be turned aside, and the source of their certainty is somewhere behind the fire and before any argument.
+Chipotle Navy Beans are the Bean Zodiac's most dogged — they will not be turned aside, and the source of their certainty is somewhere behind the fire and before any argument.
 
 Navy Beans know what is required and do it without waiting to be asked; Spicy Beans make adherence feel immediate and non-negotiable; Smoked Beans carry the commitment from somewhere that cannot be examined or appealed to.
 
-The Smoked Spicy Navy Bean's challenge is revision. Being dogged is a quality; being dogged about the wrong thing is an error that compounds. These Beans must occasionally check whether what they are committed to has checked on them.
+The Chipotle Navy Bean's challenge is revision. Being dogged is a quality; being dogged about the wrong thing is an error that compounds. These Beans must occasionally check whether what they are committed to has checked on them.

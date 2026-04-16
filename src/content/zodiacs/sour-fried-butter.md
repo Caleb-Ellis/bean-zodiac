@@ -9,8 +9,8 @@ quote: Give me six hours to chop down a bean and I will spend the first four sha
 fortune: The efficiency will clear space — what remains is the slower work, and it will be worth doing slowly.
 ---
 
-Fried Beans born in the Year of the Sour Butter Bean are the Bean Zodiac's most efficient — they know where effort should go and spend nothing elsewhere.
+Brightened Butter Beans are the Bean Zodiac's most efficient — they know where effort should go and spend nothing elsewhere.
 
 Butter Beans have no interest in unnecessary motion; Sour Beans cut situations to essentials; Fried Beans deliver heat only to identified targets.
 
-The Fried Sour Butter Bean's challenge is accepting slowness. They must resist the urge to proceduralize everything.
+The Brightened Butter Bean's challenge is accepting slowness. They must resist the urge to proceduralize everything.

@@ -9,8 +9,8 @@ quote: Courage is not the absence of bean, but the triumph over it.
 fortune: The hard thing is closer than it appears — before it arrives, verify it is worth the courage it will require.
 ---
 
-Boiled Beans born in the Year of the Bitter Fava Bean are the Bean Zodiac's most courageous — they face what is difficult without hesitation.
+Decocted Fava Beans are the Bean Zodiac's most courageous — they face what is difficult without hesitation.
 
 Fava Bean knows what is worth having requires double preparation; Bitter Beans ensure the courageous act genuinely earns its name; Boiled Beans build courage into a steady practice, not a single moment.
 
-The Boiled Bitter Fava Bean's challenge is knowing not every difficult thing deserves facing. Courage without discernment is just endurance. They must ask whether what they face is worth it.
+The Decocted Fava Bean's challenge is knowing not every difficult thing deserves facing. Courage without discernment is just endurance. They must ask whether what they face is worth it.

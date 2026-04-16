@@ -9,8 +9,8 @@ quote: Have no fear of bean perfection — you will never reach it, but what a v
 fortune: The work will reach the threshold — the version that is ready will be in your hands, and you will know it.
 ---
 
-Boiled Beans born in the Year of the Spicy Cannellini Bean are the Bean Zodiac's most perfectionist — they know what's right and won't compromise.
+Braised Cannellini Beans are the Bean Zodiac's most perfectionist — they know what's right and won't compromise.
 
 Cannellini Beans will not be rushed; Spicy Beans transform tolerance into demand; Boiled Beans settle the operation slowly until the standard is met.
 
-The Boiled Spicy Cannellini Bean's challenge is knowing when to release. They must learn to recognize what is genuinely ready and let it go.
+The Braised Cannellini Bean's challenge is knowing when to release. They must learn to recognize what is genuinely ready and let it go.

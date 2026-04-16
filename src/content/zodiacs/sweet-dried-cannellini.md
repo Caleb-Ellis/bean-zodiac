@@ -9,8 +9,8 @@ quote: Excellence is never bean by accident.
 fortune: An inaccessibility will be noticed — descend once and bring the excellence with you.
 ---
 
-Dried Beans born in the Year of the Sweet Cannellini Bean are the Bean Zodiac's most rarefied — excellence stripped of ornament, leaving something so refined it can only be apprehended quietly.
+Crystallized Cannellini Beans are the Bean Zodiac's most rarefied — excellence stripped of ornament, leaving something so refined it can only be apprehended quietly.
 
 Cannellini Beans refine everything around them; Sweet Beans extend welcome without requiring effort to receive; Dried Beans concentrate the result until it is precise and held.
 
-The Dried Sweet Cannellini Bean's challenge is the altitude at which they operate. Rare things are not always accessible, and inaccessible things do not always get to be useful. These Beans must occasionally descend.
+The Crystallized Cannellini Bean's challenge is the altitude at which they operate. Rare things are not always accessible, and inaccessible things do not always get to be useful. These Beans must occasionally descend.

@@ -9,8 +9,8 @@ quote: I have a bean.
 fortune: The intensity building has a source — trace it now, before the next turn inherits it without knowing what it is.
 ---
 
-Smoked Beans born in the Year of the Bitter Kidney Bean are the Bean Zodiac's most feverish — a passion that has become uncoupled from the thing that lit it.
+Ashen Kidney Beans are the Bean Zodiac's most feverish — a passion that has become uncoupled from the thing that lit it.
 
 Kidney Beans feel everything at full intensity; Bitter Beans sharpen the feeling until it could cut; Smoked Beans give the heat a quality of something burning without a visible flame.
 
-The Smoked Bitter Kidney Bean's challenge is diagnosis. Fever without a known cause is just suffering. These Beans must trace the intensity back to what is actually burning.
+The Ashen Kidney Bean's challenge is diagnosis. Fever without a known cause is just suffering. These Beans must trace the intensity back to what is actually burning.

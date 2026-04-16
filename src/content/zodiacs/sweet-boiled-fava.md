@@ -9,8 +9,8 @@ quote: It does not matter how slowly you bean, as long as you do not stop.
 fortune: A direction will be questioned — the question is not whether you are capable of continuing, but whether continuing is still the right direction.
 ---
 
-Boiled Beans born in the Year of the Sweet Fava Bean are the Bean Zodiac's most persistent — continuing without requiring things to be easy or the end to be visible.
+Candied Fava Beans are the Bean Zodiac's most persistent — continuing without requiring things to be easy or the end to be visible.
 
 Fava Beans know that most worthwhile things require sustained effort; Sweet Beans warm the persistence, making it feel like commitment; Boiled Beans make it compound over time.
 
-The Boiled Sweet Fava Bean's challenge is distinguishing persistence from continuation past the point of return. They must be willing to stop when stopping is the right move, not only when the work is finished.
+The Candied Fava Bean's challenge is distinguishing persistence from continuation past the point of return. They must be willing to stop when stopping is the right move, not only when the work is finished.

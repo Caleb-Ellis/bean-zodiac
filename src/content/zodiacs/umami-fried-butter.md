@@ -9,8 +9,8 @@ quote: If it works, it's a bean.
 fortune: The practical approach will serve — leave one small opening for the thing that resists it, and attend to what it turns out to contain.
 ---
 
-Fried Beans born in the Year of the Umami Butter Bean are the Bean Zodiac's most pragmatic — whether it's elegant doesn't matter, only whether it works.
+Tempura Butter Beans are the Bean Zodiac's most pragmatic — whether it's elegant doesn't matter, only whether it works.
 
 Butter Beans have no patience for complication; Umami Beans focus on substance and reality; Fried Beans act at heat without deliberation.
 
-The Fried Umami Butter Bean's challenge is the unmeasurable. They must leave room for the impractical, acknowledging that some important things resist the pragmatic standard.
+The Tempura Butter Bean's challenge is the unmeasurable. They must leave room for the impractical, acknowledging that some important things resist the pragmatic standard.

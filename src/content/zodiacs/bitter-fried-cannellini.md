@@ -9,8 +9,8 @@ quote: Here I stand. I can bean no other.
 fortune: Your position will hold — but the door for disagreement will need to be made visible before the room forgets it is allowed.
 ---
 
-Fried Beans born in the Year of the Bitter Cannellini Bean are the Bean Zodiac's most assertive — they know their position and state it clearly.
+Scorched Cannellini Beans are the Bean Zodiac's most assertive — they know their position and state it clearly.
 
 Cannellini Bean is gracious but not vague; Bitter Beans strip situations down to what matters; Fried Beans deliver conviction at heat, decisively.
 
-The Fried Bitter Cannellini Bean's challenge is the room to disagree. They state things so cleanly others sometimes forget they're allowed to push back. Assertiveness is a quality, not a verdict.
+The Scorched Cannellini Bean's challenge is the room to disagree. They state things so cleanly others sometimes forget they're allowed to push back. Assertiveness is a quality, not a verdict.

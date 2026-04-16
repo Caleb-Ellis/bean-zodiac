@@ -9,8 +9,8 @@ quote: To bean or not to bean — actually, yes, obviously. Why would you not.
 fortune: Most of the guilelessness will be repaid — the exceptions are the cost of the thing, not the thing itself.
 ---
 
-Roasted Beans born in the Year of the Sour Butter Bean are the Bean Zodiac's most guileless — nothing behind what they say or do.
+Charred Butter Beans are the Bean Zodiac's most guileless — nothing behind what they say or do.
 
 Butter Beans are exactly what they appear; Sour Beans strip affectation; Roasted Beans fill rooms with unfakeable warmth.
 
-The Roasted Sour Butter Bean's challenge is reciprocity. They must notice strategic reading without becoming strategic.
+The Charred Butter Bean's challenge is reciprocity. They must notice strategic reading without becoming strategic.

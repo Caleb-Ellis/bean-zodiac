@@ -9,8 +9,8 @@ quote: The bean loved too well, that is the trouble.
 fortune: A freedom will be needed by the Beans you care for — trust that they can move freely and still come back.
 ---
 
-Roasted Beans born in the Year of the Sweet Kidney Bean are the Bean Zodiac's most overprotective — their warmth is real, but both warmth and care have a radius that is very hard to leave.
+Glazed Kidney Beans are the Bean Zodiac's most overprotective — their warmth is real, but both warmth and care have a radius that is very hard to leave.
 
 Kidney Beans colour everything they touch and hold it close; Sweet Beans make this generous and inviting; Roasted Beans radiate it outward.
 
-The Roasted Sweet Kidney Bean's challenge is understanding that love expressed as enclosure is still enclosure. They must learn to care without holding.
+The Glazed Kidney Bean's challenge is understanding that love expressed as enclosure is still enclosure. They must learn to care without holding.

@@ -9,8 +9,8 @@ quote: No bean is an island.
 fortune: A room will ask you to stay past the comfortable first hour — let the depth arrive.
 ---
 
-Roasted Beans born in the Year of the Spicy Chickpea are the Bean Zodiac's most sociable — they arrive and the room becomes better.
+Blackened Chickpeas are the Bean Zodiac's most sociable — they arrive and the room becomes better.
 
 Chickpeas are at home in any company; Spicy Beans demand real conversation; Roasted Beans carry warmth outward until the whole room feels it.
 
-The Roasted Spicy Chickpea's challenge is depth over time. They must occasionally stay long enough to build it.
+The Blackened Chickpea's challenge is depth over time. They must occasionally stay long enough to build it.

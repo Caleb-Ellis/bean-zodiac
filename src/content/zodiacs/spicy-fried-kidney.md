@@ -9,8 +9,8 @@ quote: Any bean can be angry — that is easy. But to be angry with the right pe
 fortune: A storm will move through and clear — what remains afterward is yours, and attending to it costs less than leaving it for what comes next.
 ---
 
-Fried Beans born in the Year of the Spicy Kidney Bean are the Bean Zodiac's most temperamental — heat doubling on itself creates immediate intensity.
+Chili-Crisped Kidney Beans are the Bean Zodiac's most temperamental — heat doubling on itself creates immediate intensity.
 
 Kidney Beans' passion is already a force; Spicy Beans pour heat on top; Fried Beans make reaction immediate, complete, and sealed.
 
-The Fried Spicy Kidney Bean's challenge is the aftermath. They must learn that the intensity they feel belongs to them, and so does the responsibility for what it leaves behind.
+The Chili-Crisped Kidney Bean's challenge is the aftermath. They must learn that the intensity they feel belongs to them, and so does the responsibility for what it leaves behind.

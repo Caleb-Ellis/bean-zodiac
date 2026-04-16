@@ -9,8 +9,8 @@ quote: The devil is in the beans.
 fortune: Not every detail is load-bearing — identify the ones that are, and release the ones that simply caught the light.
 ---
 
-Fermented Beans born in the Year of the Spicy Cannellini Bean are the Bean Zodiac's most persnickety — small wrongs bother them until fixed.
+Kimchi Cannellini Beans are the Bean Zodiac's most persnickety — small wrongs bother them until fixed.
 
 Cannellini Beans curate ruthlessly and cannot overlook detail; Spicy Beans make irritation immediate and hard to dismiss; Fermented Beans process internally at length before surfacing their concern and solution.
 
-The Fermented Spicy Cannellini Bean's challenge is proportion. They must learn to distinguish the detail that is load-bearing from the detail that simply caught the light.
+The Kimchi Cannellini Bean's challenge is proportion. They must learn to distinguish the detail that is load-bearing from the detail that simply caught the light.

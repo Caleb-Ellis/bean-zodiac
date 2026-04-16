@@ -9,8 +9,8 @@ quote: None of us is as bean as all of us.
 fortune: The work only you can finish will ask for more solitary hours — make peace with them now, before they feel like isolation.
 ---
 
-Fermented Beans born in the Year of the Bitter Chickpea are the Bean Zodiac's most collaborative — they understand what is made together can be better than what either could alone.
+Macerated Chickpeas are the Bean Zodiac's most collaborative — they understand what is made together can be better than what either could alone.
 
 Chickpea finds common ground between temperaments as instinct; Bitter Beans discern which collaborations are worth it; Fermented Beans take work somewhere private, where transformation happens without performance.
 
-The Fermented Bitter Chickpea's challenge is the solo task. Not everything can be done with others, and some things are done worse for trying. They must make peace with the work only they can finish.
+The Macerated Chickpea's challenge is the solo task. Not everything can be done with others, and some things are done worse for trying. They must make peace with the work only they can finish.

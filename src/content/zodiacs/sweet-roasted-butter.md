@@ -9,8 +9,8 @@ quote: A day without beans is like a day without sunshine, so bring extra beans.
 fortune: What is underneath the lightness will want to carry some weight — let it.
 ---
 
-Roasted Beans born in the Year of the Sweet Butter Bean are the Bean Zodiac's most lighthearted — they carry the knowledge that the world is fundamentally fine into every space they enter.
+Glazed Butter Beans are the Bean Zodiac's most lighthearted — they carry the knowledge that the world is fundamentally fine into every space they enter.
 
 Butter Beans believe the world is fundamentally fine; Sweet Beans give this knowledge freely; Roasted Beans fill the room with permission to enjoy.
 
-The Roasted Sweet Butter Bean's challenge is weight-bearing. They must show the substance beneath their lightness.
+The Glazed Butter Bean's challenge is weight-bearing. They must show the substance beneath their lightness.

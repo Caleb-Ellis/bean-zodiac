@@ -9,8 +9,8 @@ quote: The heart has its bean that reason knows nothing of.
 fortune: A passion will reach people — name what you are actually fighting for, so the warmth and the declaration arrive together.
 ---
 
-Smoked Beans born in the Year of the Sweet Kidney Bean are the Bean Zodiac's most impassioned — the warmth is genuine, and underneath it something urgent is moving without a name.
+Barbecued Kidney Beans are the Bean Zodiac's most impassioned — the warmth is genuine, and underneath it something urgent is moving without a name.
 
 Kidney Beans protect what they love at full intensity; Sweet Beans give that protection a warmth that feels welcoming; Smoked Beans carry the urgency from somewhere not immediately visible.
 
-The Smoked Sweet Kidney Bean's challenge is disclosure. Warmth without the underlying declaration is only comfort. These Beans must name what they are actually fighting for.
+The Barbecued Kidney Bean's challenge is disclosure. Warmth without the underlying declaration is only comfort. These Beans must name what they are actually fighting for.

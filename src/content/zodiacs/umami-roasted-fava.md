@@ -9,8 +9,8 @@ quote: They tried to bury us. They didn't know we were beans.
 fortune: A refusal will sustain something — make sure both what you are building and what you are refusing continue in what comes next.
 ---
 
-Roasted Beans born in the Year of the Umami Fava Bean are the Bean Zodiac's most defiant — they do this with warmth that makes clear it's not a wound but a position.
+Bronzed Fava Beans are the Bean Zodiac's most defiant — they do this with warmth that makes clear it's not a wound but a position.
 
 Fava Beans require double work to access; Umami Beans give defiance depth and accumulated richness; Roasted Beans fill the room with warmth and invitation.
 
-The Roasted Umami Fava Bean's challenge is sustenance. They must make sure they are nourished by what they are building, not only by what they are refusing.
+The Bronzed Fava Bean's challenge is sustenance. They must make sure they are nourished by what they are building, not only by what they are refusing.

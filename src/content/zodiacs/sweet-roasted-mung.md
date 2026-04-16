@@ -9,8 +9,8 @@ quote: Keep your bean up and your worries down, and everything will be just fine
 fortune: A difficulty will ask to be hard for a moment — let it be, before settling it. Some things resolve into something more useful than ease.
 ---
 
-Roasted Beans born in the Year of the Sweet Mung Bean are the Bean Zodiac's most easygoing — they move through difficulty without amplifying it, making situations manageable simply by how they inhabit them.
+Glazed Mung Beans are the Bean Zodiac's most easygoing — they move through difficulty without amplifying it, making situations manageable simply by how they inhabit them.
 
 Mung Beans accept what is and work with it; Sweet Beans make this feel like generosity; Roasted Beans fill the room with warmth.
 
-The Roasted Sweet Mung Bean's challenge is urgency. They must occasionally let situations be hard instead of softening them.
+The Glazed Mung Bean's challenge is urgency. They must occasionally let situations be hard instead of softening them.

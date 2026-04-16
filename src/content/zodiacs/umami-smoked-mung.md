@@ -9,8 +9,8 @@ quote: We do not bean from experience — we bean from reflecting on experience.
 fortune: A saturation will be complete — make room for what has not yet been absorbed, so there is still space for what comes next.
 ---
 
-Smoked Beans born in the Year of the Umami Mung Bean are the Bean Zodiac's most steeped — the care has been in contact with the depth for so long that the two have become one.
+Burnished Mung Beans are the Bean Zodiac's most steeped — the care has been in contact with the depth for so long that the two have become one.
 
 Mung Beans tend conditions without rushing; Umami Beans give the tending a richness that can only come from duration; Smoked Beans make the resulting quality diffuse through the room from a source invisible through familiarity.
 
-The Smoked Umami Mung Bean's challenge is freshness. Steeped long enough, even the most nourishing thing becomes saturated. These Beans must occasionally introduce something that has not yet been absorbed.
+The Burnished Mung Bean's challenge is freshness. Steeped long enough, even the most nourishing thing becomes saturated. These Beans must occasionally introduce something that has not yet been absorbed.

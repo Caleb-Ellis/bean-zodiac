@@ -9,8 +9,8 @@ quote: Beware of little bean expenses; a small leak will sink a great ship.
 fortune: The thing worth spending on will appear — do not let frugality close the door before you recognise it.
 ---
 
-Boiled Beans born in the Year of the Sweet Navy Bean are the Bean Zodiac's most frugal — they manage the gap between what they have and what they need.
+Candied Navy Beans are the Bean Zodiac's most frugal — they manage the gap between what they have and what they need.
 
 Navy Beans understand what things cost; Sweet Beans soften this with genuine pleasure in sufficiency; Boiled Beans make it patient, sustaining over long stretches.
 
-The Boiled Sweet Navy Bean's challenge is spending on what is worth it. They must allow themselves to invest in a life worth sustaining, not only preserve it.
+The Candied Navy Bean's challenge is spending on what is worth it. They must allow themselves to invest in a life worth sustaining, not only preserve it.

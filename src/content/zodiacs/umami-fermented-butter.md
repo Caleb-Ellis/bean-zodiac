@@ -9,8 +9,8 @@ quote: Who looks outside, dreams; who looks inside, finds a bean.
 fortune: A reflection will become a decision — you already know what it is.
 ---
 
-Fermented Beans born in the Year of the Umami Butter Bean are the Bean Zodiac's most reflective — they return into experiences until they understand what they mean.
+Miso Butter Beans are the Bean Zodiac's most reflective — they return into experiences until they understand what they mean.
 
 Butter Beans are in no hurry; Umami Beans reward depth that only comes from staying present; Fermented Beans work it internal, producing something richer than the original moment.
 
-The Fermented Umami Butter Bean's challenge is forward momentum. They must distinguish between staying because something remains to give and staying to avoid choosing what comes next.
+The Miso Butter Bean's challenge is forward momentum. They must distinguish between staying because something remains to give and staying to avoid choosing what comes next.

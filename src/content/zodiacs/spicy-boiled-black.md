@@ -9,8 +9,8 @@ quote: It does not matter how slowly you go as long as you do not bean.
 fortune: What does not yield will not disappear — the hold that costs most is also the thing proving your shape.
 ---
 
-Boiled Beans born in the Year of the Spicy Black Bean are the Bean Zodiac's most tenacious — a quality so inherent to their structure that heat and pressure simply reveal it.
+Braised Black Beans are the Bean Zodiac's most tenacious — a quality so inherent to their structure that heat and pressure simply reveal it.
 
 Black Beans hold their shape where others surrender; Spicy Beans demand full attention and cannot be ignored; Boiled Beans hold pressure at steady temperature that outlasts volatility.
 
-The Boiled Spicy Black Bean's challenge is knowing when to release the hold. They must learn to distinguish commitment from refusal to adapt.
+The Braised Black Bean's challenge is knowing when to release the hold. They must learn to distinguish commitment from refusal to adapt.

@@ -9,8 +9,8 @@ quote: Injustice anywhere is a threat to bean everywhere.
 fortune: A fairness will be required that changes things — insist on it, and what you build by doing so will outlast the situation that required it.
 ---
 
-Roasted Beans born in the Year of the Sour Kidney Bean are the Bean Zodiac's most fairness-minded — warmth that insists on equal distribution.
+Charred Kidney Beans are the Bean Zodiac's most fairness-minded — warmth that insists on equal distribution.
 
 Kidney Beans protect and extend naturally; Sour Beans notice distribution immediately; Roasted Beans radiate warmth that everyone deserves welcome.
 
-The Roasted Sour Kidney Bean's challenge is separating fairness from resentment. They must extend fairness to those getting it wrong.
+The Charred Kidney Bean's challenge is separating fairness from resentment. They must extend fairness to those getting it wrong.

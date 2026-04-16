@@ -9,8 +9,8 @@ quote: The best way to find yourself is to lose yourself in the service of other
 fortune: A giving will be offered in return — receive it as readily as you give, and let the Beans near you know where the limit is before they find it for you.
 ---
 
-Roasted Beans born in the Year of the Sweet Chickpea are the Bean Zodiac's most bighearted — their generosity extends outward without diminishing, like warmth from an inexhaustible source.
+Glazed Chickpeas are the Bean Zodiac's most bighearted — their generosity extends outward without diminishing, like warmth from an inexhaustible source.
 
 Chickpeas are at ease in any company; Sweet Beans make everything more open; Roasted Beans fill the room with warmth.
 
-The Roasted Sweet Chickpea's challenge is the cost. Even capacious hearts have limits, and these Beans must learn to name theirs.
+The Glazed Chickpea's challenge is the cost. Even capacious hearts have limits, and these Beans must learn to name theirs.

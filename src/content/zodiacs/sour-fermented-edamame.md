@@ -9,8 +9,8 @@ quote: The first bean principle is that you must not fool yourself — and you a
 fortune: The investigation has gone far enough — when the conviction the questioning was preparing you for arrives, you will recognise it.
 ---
 
-Fermented Beans born in the Year of the Sour Edamame are the Bean Zodiac's most skeptical — they need to know what is underneath.
+Pickled Edamame are the Bean Zodiac's most skeptical — they need to know what is underneath.
 
 Edamame don't slow for surface performance; Sour Beans have no patience for bad premises; Fermented Beans investigate privately until shape emerges.
 
-The Fermented Sour Edamame's challenge is arriving at conviction. They must learn when skepticism is avoidance.
+The Pickled Edamame's challenge is arriving at conviction. They must learn when skepticism is avoidance.

@@ -9,8 +9,8 @@ quote: The bean doth protest too little, methinks.
 fortune: What is held back will not go unnoticed — the Beans paying attention will see what is there without the announcement, and they are the ones that count.
 ---
 
-Roasted Beans born in the Year of the Sour Navy Bean are the Bean Zodiac's most understated — they offer much without announcement.
+Charred Navy Beans are the Bean Zodiac's most understated — they offer much without announcement.
 
 Navy Beans are quietly indispensable; Sour Beans edit out performance; Roasted Beans hold warmth low enough you might miss it.
 
-The Roasted Sour Navy Bean's challenge is being known. They must occasionally say what they are only showing.
+The Charred Navy Bean's challenge is being known. They must occasionally say what they are only showing.

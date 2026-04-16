@@ -9,8 +9,8 @@ quote: Speech is silver, but bean is golden.
 fortune: A thing not yet fully earned will ask to be given — offer it before the earning is complete, and find out what the generosity produces.
 ---
 
-Roasted Beans born in the Year of the Sweet Navy Bean are the Bean Zodiac's most reserved — their warmth is present but not distributed at random.
+Glazed Navy Beans are the Bean Zodiac's most reserved — their warmth is present but not distributed at random.
 
 Navy Beans are principled about what is given; Sweet Beans hold the warmth carefully; Roasted Beans sustain the temperature without performing.
 
-The Roasted Sweet Navy Bean's challenge is the person who doesn't have time to wait. They must sometimes offer what they have before it has been earned.
+The Glazed Navy Bean's challenge is the person who doesn't have time to wait. They must sometimes offer what they have before it has been earned.

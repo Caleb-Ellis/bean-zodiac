@@ -96,6 +96,44 @@ export const FORM_START_MONTH: Record<FormId, number> = {
   [FormIds.Dried]: 1,
 } as const;
 
+export const PREPARATION_NAMES: Record<`${FlavourId}-${FormId}`, string> = {
+  "bitter-boiled": "Decocted",
+  "bitter-dried": "Desiccated",
+  "bitter-fermented": "Macerated",
+  "bitter-fried": "Scorched",
+  "bitter-roasted": "Dark Roasted",
+  "bitter-smoked": "Ashen",
+  "sour-boiled": "Brined",
+  "sour-dried": "Zested",
+  "sour-fermented": "Pickled",
+  "sour-fried": "Brightened",
+  "sour-roasted": "Charred",
+  "sour-smoked": "Cold-Smoked",
+  "spicy-boiled": "Braised",
+  "spicy-dried": "Chili-Dried",
+  "spicy-fermented": "Kimchi",
+  "spicy-fried": "Chili-Crisped",
+  "spicy-roasted": "Blackened",
+  "spicy-smoked": "Chipotle",
+  "sweet-boiled": "Candied",
+  "sweet-dried": "Crystallized",
+  "sweet-fermented": "Honeyed",
+  "sweet-fried": "Caramelized",
+  "sweet-roasted": "Glazed",
+  "sweet-smoked": "Barbecued",
+  "umami-boiled": "Reduced",
+  "umami-dried": "Aged",
+  "umami-fermented": "Miso",
+  "umami-fried": "Tempura",
+  "umami-roasted": "Bronzed",
+  "umami-smoked": "Burnished",
+} as const;
+
+export const getPreparationName = (
+  flavourId: FlavourId,
+  formId: FormId,
+): string => PREPARATION_NAMES[`${flavourId}-${formId}`];
+
 export const FORM_EMOJI: Record<FormId, string> = {
   [FormIds.Boiled]: "💧",
   [FormIds.Dried]: "☀️",

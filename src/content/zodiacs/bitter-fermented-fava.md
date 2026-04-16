@@ -9,8 +9,8 @@ quote: The bean that gets questioned, gets answered.
 fortune: An answer is coming — when it does, carry the thoroughness to the next question rather than treating the closure as an ending.
 ---
 
-Fermented Beans born in the Year of the Bitter Fava Bean are the Bean Zodiac's most questioning — they pull at what others accept, knowing the best things require more than first answers.
+Macerated Fava Beans are the Bean Zodiac's most questioning — they pull at what others accept, knowing the best things require more than first answers.
 
 Fava Bean knows the best things are behind resistance; Bitter Beans withhold assent until something earns it; Fermented Beans work privately and thoroughly.
 
-The Fermented Bitter Fava Bean's challenge is knowing when a question has been sufficiently answered. Questioning without an off switch is its own rigidity. They must eventually let something be settled.
+The Macerated Fava Bean's challenge is knowing when a question has been sufficiently answered. Questioning without an off switch is its own rigidity. They must eventually let something be settled.

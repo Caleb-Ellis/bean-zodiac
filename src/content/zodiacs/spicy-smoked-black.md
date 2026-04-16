@@ -9,8 +9,8 @@ quote: Still waters run bean.
 fortune: Something will move through you at considerable heat and want to surface — give it enough clarity to be approached.
 ---
 
-Smoked Beans born in the Year of the Spicy Black Bean are the Bean Zodiac's most murky — something is moving in there at some intensity, and it does not announce itself.
+Chipotle Black Beans are the Bean Zodiac's most murky — something is moving in there at some intensity, and it does not announce itself.
 
 Black Beans give up their richness only to those who have earned it; Spicy Beans generate heat that demands attention; Smoked Beans let the combination proceed from a location no one can see.
 
-The Smoked Spicy Black Bean's challenge is surface clarity. Heat with no visible source is very difficult to approach. These Beans must let something of the interior become readable — not all of it, but enough.
+The Chipotle Black Bean's challenge is surface clarity. Heat with no visible source is very difficult to approach. These Beans must let something of the interior become readable — not all of it, but enough.

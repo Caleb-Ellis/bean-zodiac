@@ -9,8 +9,8 @@ quote: What lies behind us and what lies before us are tiny matters compared to 
 fortune: A density you carry will be mistaken for distance — find what is trying to get in, and leave a small opening.
 ---
 
-Dried Beans born in the Year of the Bitter Kidney Bean are the Bean Zodiac's most hardened — each season of difficulty has added density, not damage.
+Desiccated Kidney Beans are the Bean Zodiac's most hardened — each season of difficulty has added density, not damage.
 
 Kidney Beans withstand what others don't; Bitter Beans strip away sentiment; Dried Beans remove the moisture that once allowed softness, leaving something that will keep.
 
-The Dried Bitter Kidney Bean's challenge is what hardening costs. A Bean dense enough has no room left for new flavour. These Beans must ask whether the armour still serves them — or has simply become them.
+The Desiccated Kidney Bean's challenge is what hardening costs. A Bean dense enough has no room left for new flavour. These Beans must ask whether the armour still serves them — or has simply become them.

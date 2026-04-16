@@ -9,8 +9,8 @@ quote: The secret of getting ahead is getting bean started.
 fortune: A momentum will build — check the compass, because what you are moving toward still needs to be yours.
 ---
 
-Fried Beans born in the Year of the Sweet Edamame are the Bean Zodiac's most motivated — reliably pointed toward something, moving with warmth and urgency that pulls others along.
+Caramelized Edamame are the Bean Zodiac's most motivated — reliably pointed toward something, moving with warmth and urgency that pulls others along.
 
 Edamame strips away barriers between intention and action; Sweet Beans make the motivation generous, flowing outward; Fried Beans convert intention to motion immediately.
 
-The Fried Sweet Edamame's challenge is knowing when the drive comes from them versus the project. They must occasionally check the compass to ensure their momentum has direction.
+The Caramelized Edamame's challenge is knowing when the drive comes from them versus the project. They must occasionally check the compass to ensure their momentum has direction.

@@ -9,8 +9,8 @@ quote: In any bean moment of decision, the best thing you can do is the right th
 fortune: A fast call will be correct — let the working be visible once so others can trust the speed.
 ---
 
-Fried Beans born in the Year of the Bitter Edamame are the Bean Zodiac's most decisive — when information is in, they make the call.
+Scorched Edamame are the Bean Zodiac's most decisive — when information is in, they make the call.
 
 Edamame moves before questions finish being asked; Bitter Beans do discernment in advance; Fried Beans deliver without looking back.
 
-The Fried Bitter Edamame's challenge is that others don't see the discernment before the call. Decisions without visible deliberation can look like arrogance. They must occasionally show their working.
+The Scorched Edamame's challenge is that others don't see the discernment before the call. Decisions without visible deliberation can look like arrogance. They must occasionally show their working.

@@ -9,8 +9,8 @@ quote: Come bean with me and be my love.
 fortune: An invitation you extend will draw people in before they understand why — make sure what is on offer is what was advertised.
 ---
 
-Smoked Beans born in the Year of the Sweet Chickpea are the Bean Zodiac's most beguiling — you are in the middle of something before you understood it had begun.
+Barbecued Chickpeas are the Bean Zodiac's most beguiling — you are in the middle of something before you understood it had begun.
 
 Chickpeas are warm and at home in any room; Sweet Beans extend an invitation without conditions; Smoked Beans let the magnetism work from somewhere ahead of any explicit offer.
 
-The Smoked Sweet Chickpea's challenge is transparency. Beguiling isn't the same as honest. These Beans must make sure what is on offer is what was advertised.
+The Barbecued Chickpea's challenge is transparency. Beguiling isn't the same as honest. These Beans must make sure what is on offer is what was advertised.

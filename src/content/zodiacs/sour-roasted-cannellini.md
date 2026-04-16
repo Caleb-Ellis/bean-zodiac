@@ -9,8 +9,8 @@ quote: Diplomacy is the art of telling someone their bean is wrong in a way that
 fortune: A conversation is coming that will need careful handling — what it builds will outlast the situation that required the care.
 ---
 
-Roasted Beans born in the Year of the Sour Cannellini Bean are the Bean Zodiac's most tactful — they deliver hard truths wrapped in genuine care.
+Charred Cannellini Beans are the Bean Zodiac's most tactful — they deliver hard truths wrapped in genuine care.
 
 Cannellini Beans improve situations by their presence; Sour Beans cut to what is true; Roasted Beans fill the space with warmth.
 
-The Roasted Sour Cannellini Bean's challenge is knowing when to drop the tact. They must learn when precision matters more than softness.
+The Charred Cannellini Bean's challenge is knowing when to drop the tact. They must learn when precision matters more than softness.

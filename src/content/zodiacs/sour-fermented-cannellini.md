@@ -9,8 +9,8 @@ quote: You call this bean broth?
 fortune: The conclusion developed privately is ready — deliver it, and trust the process that produced it.
 ---
 
-Fermented Beans born in the Year of the Sour Cannellini Bean are the Bean Zodiac's most critical — they know exactly how everything could be better.
+Pickled Cannellini Beans are the Bean Zodiac's most critical — they know exactly how everything could be better.
 
 Cannellini Beans curate ruthlessly; Sour Beans cut through sentiment; Fermented Beans work until conclusions emerge.
 
-The Fermented Sour Cannellini Bean's challenge is delivery. They must remember that precision without warmth is just sharpness.
+The Pickled Cannellini Bean's challenge is delivery. They must remember that precision without warmth is just sharpness.

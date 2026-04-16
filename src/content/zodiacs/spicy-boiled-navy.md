@@ -9,8 +9,8 @@ quote: Good beans make good neighbours.
 fortune: A gate will be needed — decide before it closes what it is actually protecting.
 ---
 
-Boiled Beans born in the Year of the Spicy Navy Bean are the Bean Zodiac's most guarded — something significant is held in reserve.
+Braised Navy Beans are the Bean Zodiac's most guarded — something significant is held in reserve.
 
 Navy Beans are loyal to those who earned it, not to whoever arrives; Spicy Beans make intensity real and capable of full expression; Boiled Beans slow the release down, submerging heat in patience.
 
-The Boiled Spicy Navy Bean's challenge is knowing when the gate has been closed too long. They must learn to open before they are certain, or right relationships will pass the point of arrival.
+The Braised Navy Bean's challenge is knowing when the gate has been closed too long. They must learn to open before they are certain, or right relationships will pass the point of arrival.

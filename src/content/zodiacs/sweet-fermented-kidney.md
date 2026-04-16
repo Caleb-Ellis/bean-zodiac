@@ -9,8 +9,8 @@ quote: Could a greater bean or miracle take place than for us to look through ea
 fortune: A difficulty will arrive that is different from yours — leave room for it to be what it is, not what you would expect.
 ---
 
-Fermented Beans born in the Year of the Sweet Kidney Bean are the Bean Zodiac's most sympathetic — they have processed their own experience enough to recognize what someone else is carrying.
+Honeyed Kidney Beans are the Bean Zodiac's most sympathetic — they have processed their own experience enough to recognize what someone else is carrying.
 
 Kidney Beans take hard seasons seriously; Sweet Beans hold what they've learned without bitterness; Fermented Beans convert it into understanding.
 
-The Fermented Sweet Kidney Bean's challenge is not projecting. They must leave space for the other person's difficulty to be different from their own.
+The Honeyed Kidney Bean's challenge is not projecting. They must leave space for the other person's difficulty to be different from their own.

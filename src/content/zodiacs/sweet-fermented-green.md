@@ -9,8 +9,8 @@ quote: One bean that I had a long time ago.
 fortune: An ordinary thing will reveal itself as an interesting problem — apply the imagination there.
 ---
 
-Fermented Beans born in the Year of the Sweet Green Bean are the Bean Zodiac's most whimsical — their inner world is rich and improbable.
+Honeyed Green Beans are the Bean Zodiac's most whimsical — their inner world is rich and improbable.
 
 Green Beans generate possibilities freely; Sweet Beans remove the pressure to be practical; Fermented Beans work the stranger possibilities quietly.
 
-The Fermented Sweet Green Bean's challenge is grounding. They must apply their imagination to the ordinary, not abandon it for something more appealing.
+The Honeyed Green Bean's challenge is grounding. They must apply their imagination to the ordinary, not abandon it for something more appealing.

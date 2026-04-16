@@ -9,8 +9,8 @@ quote: The bean who speaks the difficult truth is a friend; the one who flatters
 fortune: The confrontation that has not resolved will ask to be approached again — try the side door before the next direct move.
 ---
 
-Fried Beans born in the Year of the Bitter Kidney Bean are the Bean Zodiac's most confrontational — they go directly toward difficult things.
+Scorched Kidney Beans are the Bean Zodiac's most confrontational — they go directly toward difficult things.
 
 Kidney Bean stands between loved ones and threat; Bitter Beans strip comfortable softening away; Fried Beans deliver immediately, at full heat.
 
-The Fried Bitter Kidney Bean's challenge is knowing not every difficulty is a threat to meet head-on. Some things open more easily from the side. They must distinguish between protection and escalation.
+The Scorched Kidney Bean's challenge is knowing not every difficulty is a threat to meet head-on. Some things open more easily from the side. They must distinguish between protection and escalation.

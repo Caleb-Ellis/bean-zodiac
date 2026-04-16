@@ -9,8 +9,8 @@ quote: The bean abides.
 fortune: Something waiting will not wait indefinitely — find the thing that requires your presence and give it your presence.
 ---
 
-Fermented Beans born in the Year of the Sweet Butter Bean are the Bean Zodiac's most laid-back — a fundamental orientation toward the world, not an attitude adopted.
+Honeyed Butter Beans are the Bean Zodiac's most laid-back — a fundamental orientation toward the world, not an attitude adopted.
 
 Butter Beans do not hurry; Sweet Beans have no interest in what requires force; Fermented Beans work on their own schedule, unconcerned with other timelines.
 
-The Fermented Sweet Butter Bean's challenge is things that do not resolve on their own. They must find the nudge that only they can make, remembering that laid-back is not the same as absent.
+The Honeyed Butter Bean's challenge is things that do not resolve on their own. They must find the nudge that only they can make, remembering that laid-back is not the same as absent.

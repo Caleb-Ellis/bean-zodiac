@@ -9,8 +9,8 @@ quote: The most beautiful things in the world cannot be seen or touched — they
 fortune: The softness will be tested — protect it without armoring it.
 ---
 
-Dried Beans born in the Year of the Sweet Mung Bean are the Bean Zodiac's most tender — the softness has been preserved even where everything else has been stripped away.
+Crystallized Mung Beans are the Bean Zodiac's most tender — the softness has been preserved even where everything else has been stripped away.
 
 Mung Beans restore without taking; Sweet Beans comfort without requiring; Dried Beans strip away the excess, leaving only the care itself, concentrated and lasting.
 
-The Dried Sweet Mung Bean's challenge is the vulnerability of remaining tender. These Beans are gentle in a world that does not always reward it. They must learn to protect the softness without armoring it — holding it as strength rather than apology.
+The Crystallized Mung Bean's challenge is the vulnerability of remaining tender. These Beans are gentle in a world that does not always reward it. They must learn to protect the softness without armoring it — holding it as strength rather than apology.

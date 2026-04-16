@@ -9,8 +9,8 @@ quote: Something is rotten in the bean of Denmark.
 fortune: You will arrive somewhere before you are expected — name what you are moving toward, so someone who is trying to follow can find the trail.
 ---
 
-Smoked Beans born in the Year of the Bitter Green Bean are the Bean Zodiac's most eerie — their energy insists on itself from a source the room cannot identify.
+Ashen Green Beans are the Bean Zodiac's most eerie — their energy insists on itself from a source the room cannot identify.
 
 Green Beans arrive bright and want to be used immediately; Bitter Beans make that insistence disconcerting; Smoked Beans leave the origin of the urgency somewhere offstage.
 
-The Smoked Bitter Green Bean's challenge is explainability. Urgency without a locatable source only unsettles — it does not move. These Beans must occasionally name what they are running toward.
+The Ashen Green Bean's challenge is explainability. Urgency without a locatable source only unsettles — it does not move. These Beans must occasionally name what they are running toward.

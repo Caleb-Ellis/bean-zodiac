@@ -9,8 +9,8 @@ quote: I am not a bean to be argued out of what I know to be right.
 fortune: A thing worth holding firm on is coming — before the moment, decide whether what you are holding against is the situation or the feedback.
 ---
 
-Boiled Beans born in the Year of the Spicy Fava Bean are the Bean Zodiac's most unyielding — once decided, nothing moves them.
+Braised Fava Beans are the Bean Zodiac's most unyielding — once decided, nothing moves them.
 
 Fava Beans move toward difficulty as a matter of course; Spicy Beans bring intensity that makes the position urgent and undismissable; Boiled Beans sustain that intensity with patient, steady heat.
 
-The Boiled Spicy Fava Bean's challenge is distinguishing between principle and stubbornness. They must learn to examine whether they hold firm against the situation or against the feedback.
+The Braised Fava Bean's challenge is distinguishing between principle and stubbornness. They must learn to examine whether they hold firm against the situation or against the feedback.

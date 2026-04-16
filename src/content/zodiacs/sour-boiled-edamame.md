@@ -9,8 +9,8 @@ quote: Logic will get you from A to bean, but imagination will take you everywhe
 fortune: The chain will complete — what the steps have been building toward is close enough to see.
 ---
 
-Boiled Beans born in the Year of the Sour Edamame are the Bean Zodiac's most logical — they follow the argument where it actually goes, often simpler than it appears.
+Brined Edamame are the Bean Zodiac's most logical — they follow the argument where it actually goes, often simpler than it appears.
 
 Edamame go directly to what is needed; Sour Beans clarify and cut away fog; Boiled Beans follow reasoning all the way through.
 
-The Boiled Sour Edamame's challenge is accepting messy reality. They must learn that not all problems reduce to clean logic.
+The Brined Edamame's challenge is accepting messy reality. They must learn that not all problems reduce to clean logic.

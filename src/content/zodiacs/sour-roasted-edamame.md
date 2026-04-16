@@ -9,8 +9,8 @@ quote: All you need in this life is ignorance and beans, and then success is sur
 fortune: Something you know will be needed by someone who does not know to ask — volunteer it before the moment passes.
 ---
 
-Roasted Beans born in the Year of the Sour Edamame are the Bean Zodiac's most forthright — they volunteer truth from warmth, not compulsion.
+Charred Edamame are the Bean Zodiac's most forthright — they volunteer truth from warmth, not compulsion.
 
 Edamame don't waste their turn; Sour Beans offer honesty without vagueness; Roasted Beans give the gift instead of verdict.
 
-The Roasted Sour Edamame's challenge is not foreclosing discovery. They must let others find out for themselves sometimes.
+The Charred Edamame's challenge is not foreclosing discovery. They must let others find out for themselves sometimes.

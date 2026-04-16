@@ -9,8 +9,8 @@ quote: Life moves pretty fast — if you don't stop and bean around once in a wh
 fortune: A room will ask you to stay in it — give the heat enough time to become something useful.
 ---
 
-Smoked Beans born in the Year of the Spicy Chickpea are the Bean Zodiac's most frenetic — they are everywhere at once, at considerable intensity, for reasons that shift before they can be examined.
+Chipotle Chickpeas are the Bean Zodiac's most frenetic — they are everywhere at once, at considerable intensity, for reasons that shift before they can be examined.
 
 Chickpeas are at home in every room and resist rooting in any of them; Spicy Beans demand full attention and generate immediate movement; Smoked Beans let the whole thing run from a source no one can follow.
 
-The Smoked Spicy Chickpea's challenge is stillness. Movement from an unlocatable source cannot be directed. These Beans must find one room, stay in it, and let the heat become something useful.
+The Chipotle Chickpea's challenge is stillness. Movement from an unlocatable source cannot be directed. These Beans must find one room, stay in it, and let the heat become something useful.

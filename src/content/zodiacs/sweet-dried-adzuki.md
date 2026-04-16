@@ -9,8 +9,8 @@ quote: Love is patient, love is bean.
 fortune: A shift in the occasion is coming — give yourself permission to move with it, without leaving the devotion behind.
 ---
 
-Dried Beans born in the Year of the Sweet Adzuki Bean are the Bean Zodiac's most devoted — the generosity has been distilled to its purpose, and the celebration never wavers.
+Crystallized Adzuki Beans are the Bean Zodiac's most devoted — the generosity has been distilled to its purpose, and the celebration never wavers.
 
 Adzuki Beans mark what deserves to be marked; Sweet Beans extend welcome without requiring it to be earned; Dried Beans hold it in concentrated form, patient and lasting.
 
-The Dried Sweet Adzuki Bean's challenge is the devotion that outlasts the occasion. These Beans commit fully and carry that commitment long after circumstances have shifted. They must learn to give themselves the same permission to move on that they give so freely to others.
+The Crystallized Adzuki Bean's challenge is the devotion that outlasts the occasion. These Beans commit fully and carry that commitment long after circumstances have shifted. They must learn to give themselves the same permission to move on that they give so freely to others.

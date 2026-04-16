@@ -9,8 +9,8 @@ quote: The course of true bean never did run smooth.
 fortune: A care will run hotter than anyone notices — let the temperature show, so those you tend know what it costs.
 ---
 
-Smoked Beans born in the Year of the Spicy Mung Bean are the Bean Zodiac's most simmering — their care runs hotter than it appears, and has been running that way for longer than anyone has noticed.
+Chipotle Mung Beans are the Bean Zodiac's most simmering — their care runs hotter than it appears, and has been running that way for longer than anyone has noticed.
 
 Mung Beans tend without rushing to visible results; Spicy Beans make the tending urgent; Smoked Beans give the heat a quality that is present without being visible until you are already close.
 
-The Smoked Spicy Mung Bean's challenge is release. What simmers without ever coming to a boil accumulates. These Beans must let the temperature show — those they tend deserve to know what it costs.
+The Chipotle Mung Bean's challenge is release. What simmers without ever coming to a boil accumulates. These Beans must let the temperature show — those they tend deserve to know what it costs.

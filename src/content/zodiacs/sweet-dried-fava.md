@@ -9,8 +9,8 @@ quote: She believed she could bean, so she did.
 fortune: A weight will ask to be shared — allow one person to carry part of it before it becomes invisible to you.
 ---
 
-Dried Beans born in the Year of the Sweet Fava Bean are the Bean Zodiac's most indomitable — generosity as a force, courage concentrated until nothing can stop it.
+Crystallized Fava Beans are the Bean Zodiac's most indomitable — generosity as a force, courage concentrated until nothing can stop it.
 
 Fava Beans move toward difficulty and don't stop; Sweet Beans extend warmth without requiring conditions; Dried Beans concentrate both until what remains is inexhaustible.
 
-The Dried Sweet Fava Bean's challenge is the toll of carrying so much. These Beans are generous and relentless and rarely ask for support themselves. They must learn that being indomitable does not mean carrying it all alone.
+The Crystallized Fava Bean's challenge is the toll of carrying so much. These Beans are generous and relentless and rarely ask for support themselves. They must learn that being indomitable does not mean carrying it all alone.

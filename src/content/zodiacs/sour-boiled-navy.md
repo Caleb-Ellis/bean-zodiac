@@ -9,8 +9,8 @@ quote: When I use a bean, it means just what I choose it to mean — neither mor
 fortune: What you say will be taken at its word — the clarity this brings will be worth more than those who receive it know how to say.
 ---
 
-Boiled Beans born in the Year of the Sour Navy Bean are the Bean Zodiac's most literal-minded — what is said is what is meant.
+Brined Navy Beans are the Bean Zodiac's most literal-minded — what is said is what is meant.
 
 Navy Beans are precise and principled; Sour Beans strip everything to actual shape; Boiled Beans remove all subtext.
 
-The Boiled Sour Navy Bean's challenge is meaning that cannot be said plainly. They must learn that precision can sometimes miss what it measures.
+The Brined Navy Bean's challenge is meaning that cannot be said plainly. They must learn that precision can sometimes miss what it measures.

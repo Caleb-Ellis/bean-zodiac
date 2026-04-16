@@ -9,8 +9,8 @@ quote: The bean shall inherit the earth.
 fortune: A height will be reached again — find something worth being imperfect for, so what has been refined has somewhere human to land.
 ---
 
-Smoked Beans born in the Year of the Umami Cannellini Bean are the Bean Zodiac's most exalted — their refinement has ascended to something that is difficult to approach without a certain gravity.
+Burnished Cannellini Beans are the Bean Zodiac's most exalted — their refinement has ascended to something that is difficult to approach without a certain gravity.
 
 Cannellini Beans curate until only what is worthy remains; Umami Beans give what remains a depth that rewards extended attention; Smoked Beans locate the whole quality somewhere high and slightly removed from ordinary contact.
 
-The Smoked Umami Cannellini Bean's challenge is descent. The exalted that never comes down loses what it was refined to protect. These Beans must find something worth being imperfect for.
+The Burnished Cannellini Bean's challenge is descent. The exalted that never comes down loses what it was refined to protect. These Beans must find something worth being imperfect for.

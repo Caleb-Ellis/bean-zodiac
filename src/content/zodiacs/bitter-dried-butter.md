@@ -9,8 +9,8 @@ quote: Tell me, what is it you plan to do with your one wild and precious bean?
 fortune: The clarity you have built will be needed by someone who does not yet know they need it — find the occasion before it finds you.
 ---
 
-Dried Beans born in the Year of the Bitter Butter Bean are the Bean Zodiac's most stark — all warmth stripped out, all ease removed, what remains is bare and genuine.
+Desiccated Butter Beans are the Bean Zodiac's most stark — all warmth stripped out, all ease removed, what remains is bare and genuine.
 
 Butter Beans become extraordinary through warmth and time; Bitter Beans insist that ease must earn its place; Dried Beans take the warmth away entirely, leaving only what holds without it.
 
-The Dried Bitter Butter Bean's challenge is the return to softness. These Beans know how to endure. The harder question is whether they have forgotten that softness is also possible — and whether they allow it.
+The Desiccated Butter Bean's challenge is the return to softness. These Beans know how to endure. The harder question is whether they have forgotten that softness is also possible — and whether they allow it.

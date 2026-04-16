@@ -9,8 +9,8 @@ quote: Keep calm and carry beans.
 fortune: An alarm will arrive — stay present with it, not anxious.
 ---
 
-Boiled Beans born in the Year of the Sweet Butter Bean are the Bean Zodiac's calmest — genuine ease, not distant.
+Candied Butter Beans are the Bean Zodiac's calmest — genuine ease, not distant.
 
 Butter Beans lower the temperature simply by being present; Sweet Beans extend that as generosity, open and unguarded; Boiled Beans make it structural, not temporary.
 
-The Boiled Sweet Butter Bean's challenge is hearing urgency. They must learn to distinguish peace from obliviousness when an alarm is sounding.
+The Candied Butter Bean's challenge is hearing urgency. They must learn to distinguish peace from obliviousness when an alarm is sounding.

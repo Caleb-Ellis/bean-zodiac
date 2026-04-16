@@ -9,8 +9,8 @@ quote: The bean is in the details.
 fortune: The map you have been making will be needed — let one thread be followed to its end, so someone else can use it.
 ---
 
-Smoked Beans born in the Year of the Bitter Pinto Bean are the Bean Zodiac's most intricate — their inner landscape is elaborate, and they have been the only one with the map.
+Ashen Pinto Beans are the Bean Zodiac's most intricate — their inner landscape is elaborate, and they have been the only one with the map.
 
 Pinto Beans carry complex stories openly in their markings; Bitter Beans insist on examining every layer; Smoked Beans fold it into a presence that never quite resolves.
 
-The Smoked Bitter Pinto Bean's challenge is legibility. Complexity is not its own reward. These Beans must let at least one thread be followed to its end.
+The Ashen Pinto Bean's challenge is legibility. Complexity is not its own reward. These Beans must let at least one thread be followed to its end.
