@@ -1,4 +1,4 @@
-import { useState } from "react";
+import { useRef, useState } from "react";
 import { type ZodiacData } from "../lib/zodiac";
 import ZodiacWheel from "./ZodiacWheel";
 import ZodiacIdentity from "./ZodiacIdentity";
@@ -7,7 +7,11 @@ type Props = {
   data: ZodiacData;
 };
 
-const SPIN_DURATION_MS = 2000;
+const SPIN_DURATION_MS = 3200;
+const FADE_MS = 300;
+
+const BEANS_LETTERS = ["B", "E", "A", "N", "S!"];
+const LETTER_INTERVAL = Math.floor(2000 / BEANS_LETTERS.length);
 
 export default function ZodiacCalendar({ data }: Props) {
   const [inputDate, setInputDate] = useState<string>(() => {
@@ -18,53 +22,144 @@ export default function ZodiacCalendar({ data }: Props) {
     const param = getDateParam();
     return param ? parseDateInputValue(param) : null;
   });
-  // Start visible if date is already set from URL params, hidden otherwise
+  const topRef = useRef<HTMLDivElement>(null);
+  const [spinning, setSpinning] = useState(false);
+  // resultMounted: whether the result is in the DOM at all
+  const [resultMounted, setResultMounted] = useState<boolean>(
+    () => !!getDateParam(),
+  );
+  // resultVisible: drives the opacity transition (mount first, then set true)
   const [resultVisible, setResultVisible] = useState<boolean>(
     () => !!getDateParam(),
   );
+
+  const [beansMounted, setBeansMounted] = useState(false);
+  const [beansVisible, setBeansVisible] = useState(false);
+  const [beansLetterCount, setBeansLetterCount] = useState(0);
+
+  // Controls are hidden while wheel is spinning or result is mounted (even pre-fade-in)
+  const controlsHidden = spinning || resultMounted;
 
   function handleReveal() {
     if (!inputDate) return;
     const parsed = parseDateInputValue(inputDate);
     if (parsed) {
+      setSpinning(true);
+      setResultMounted(false);
       setResultVisible(false);
       setSelectedDate(parsed);
       const url = new URL(window.location.href);
       url.searchParams.set("date", inputDate);
       window.history.pushState({}, "", url);
-      setTimeout(() => setResultVisible(true), SPIN_DURATION_MS);
+
+      // Stream in BEANS letters
+      setBeansMounted(true);
+      setBeansLetterCount(0);
+      setBeansVisible(false);
+      requestAnimationFrame(() =>
+        requestAnimationFrame(() => setBeansVisible(true)),
+      );
+      let count = 0;
+      const letterTimer = setInterval(() => {
+        count++;
+        setBeansLetterCount(count);
+        if (count >= BEANS_LETTERS.length) clearInterval(letterTimer);
+      }, LETTER_INTERVAL);
+
+      setTimeout(() => setBeansVisible(false), SPIN_DURATION_MS - 500);
+      setTimeout(() => setBeansMounted(false), SPIN_DURATION_MS - 500 + FADE_MS);
+
+      setTimeout(() => {
+        setSpinning(false);
+        setResultMounted(true);
+        // Two rAFs so the browser paints opacity-0 before transitioning to opacity-100
+        requestAnimationFrame(() =>
+          requestAnimationFrame(() => setResultVisible(true)),
+        );
+      }, SPIN_DURATION_MS);
     }
   }
 
+  function handleReset() {
+    setSpinning(true); // keep controls hidden while result fades out
+    setResultVisible(false);
+    setTimeout(() => {
+      setResultMounted(false);
+      setSpinning(false);
+      const url = new URL(window.location.href);
+      url.searchParams.delete("date");
+      window.history.pushState({}, "", url);
+      // Scroll after unmount so the page height is settled — no bounce
+      topRef.current?.scrollIntoView({ behavior: "smooth", block: "start" });
+    }, FADE_MS);
+  }
+
   return (
-    <div className="flex flex-col items-center text-center gap-8 w-full">
+    <div ref={topRef} className="flex flex-col items-center text-center w-full">
       <ZodiacWheel
         date={selectedDate ?? new Date()}
         highlight={selectedDate !== null}
       />
-      <section className="flex flex-col items-center gap-3">
-        <input
-          type="date"
-          className="bg-zinc-900/80 border border-zinc-700/60 text-white rounded-xl px-4 py-2.5 cursor-pointer backdrop-blur-sm transition-all duration-200 focus:outline-none focus:border-zinc-500 focus:ring-1 focus:ring-zinc-500/40 hover:border-zinc-600"
-          value={inputDate}
-          onChange={(e) => setInputDate(e.target.value)}
-        />
-        <button
-          onClick={handleReveal}
-          className="bg-zinc-900/80 border border-zinc-500/60 text-white rounded-xl px-8 py-4 text-lg font-bold backdrop-blur-sm transition-all duration-200 hover:border-zinc-400 hover:text-white hover:bg-zinc-800/80 cursor-pointer"
+      {/* Fixed-height slot — controls and BEANS text both live here so layout never shifts */}
+      <div className={`relative w-full flex items-center justify-center overflow-hidden transition-all duration-300 ${resultMounted ? "h-0" : "h-36"}`}>
+        <section
+          className={`absolute flex flex-col items-center gap-3 transition-opacity duration-300 ${
+            controlsHidden
+              ? "opacity-0 pointer-events-none select-none"
+              : "opacity-100"
+          }`}
         >
-          Uncover the Bean within
-        </button>
-      </section>
-      {selectedDate && resultVisible && (
-        <div className="my-4 sm:my-6">
+          <input
+            type="date"
+            className="bg-zinc-900/80 border border-zinc-700/60 text-white rounded-xl px-4 py-2.5 cursor-pointer backdrop-blur-sm transition-all duration-200 focus:outline-none focus:border-zinc-500 focus:ring-1 focus:ring-zinc-500/40 hover:border-zinc-600"
+            value={inputDate}
+            onChange={(e) => setInputDate(e.target.value)}
+          />
+          <button
+            onClick={handleReveal}
+            className="bg-zinc-900/80 border border-zinc-500/60 text-white rounded-xl px-8 py-4 text-lg font-bold backdrop-blur-sm transition-all duration-200 hover:border-zinc-400 hover:text-white hover:bg-zinc-800/80 cursor-pointer"
+          >
+            Discover the Bean Within
+          </button>
+        </section>
+        {beansMounted && (
+          <div
+            className={`absolute transition-opacity duration-300 ${
+              beansVisible ? "opacity-100" : "opacity-0"
+            }`}
+          >
+            <p className="text-3xl sm:text-5xl font-bold text-white flex gap-[0.35em]">
+              {BEANS_LETTERS.map((letter, i) => (
+                <span
+                  key={i}
+                  className={`transition-all duration-300 ${i < beansLetterCount ? "opacity-100 translate-y-0" : "opacity-0 translate-y-2"}`}
+                >
+                  {letter}
+                </span>
+              ))}
+            </p>
+          </div>
+        )}
+      </div>
+      {resultMounted && selectedDate && (
+        <div
+          className={`my-4 sm:my-6 w-full transition-opacity duration-300 ${
+            resultVisible ? "opacity-100" : "opacity-0"
+          }`}
+        >
           <ZodiacIdentity
             key={selectedDate.getTime()}
             data={data}
             date={selectedDate}
-            showContent
-            showQuote
           />
+          <div className="mt-8 flex justify-center">
+            <button
+              onClick={handleReset}
+              className="bg-zinc-900/80 border border-zinc-500/60 text-white rounded-xl px-8 py-4 text-lg font-bold backdrop-blur-sm transition-all duration-200 hover:border-zinc-400 hover:text-white hover:bg-zinc-800/80 cursor-pointer"
+            >
+              I Require More Beans
+            </button>
+          </div>
         </div>
       )}
     </div>

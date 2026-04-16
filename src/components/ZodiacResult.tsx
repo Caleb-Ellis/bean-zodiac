@@ -73,22 +73,26 @@ export default function ZodiacResult({
             <span>{FLAVOUR_EMOJI[metadata.flavourId]}</span>
             <span className={`flavour-${flavour.slug}`}>{flavour.name} Era</span>
           </a>
-          <span className="text-zinc-600">×</span>
-          <a
-            href={`/forms/${form.slug}`}
-            className="flex items-center gap-1.5 px-3 py-1.5 rounded-full bg-zinc-900 border border-zinc-700 hover:border-zinc-500 transition-colors no-underline"
-          >
-            <span>{FORM_EMOJI[metadata.formId]}</span>
-            <span className={`form-${form.slug}`}>{form.name} Season</span>
-          </a>
-          <span className="text-zinc-600">×</span>
-          <a
-            href={`/beans/${bean.slug}`}
-            className="flex items-center gap-1.5 px-3 py-1.5 rounded-full bg-zinc-900 border border-zinc-700 hover:border-zinc-500 transition-colors no-underline"
-          >
-            <span>🫘</span>
-            <span className={`bean-${bean.slug}`}>{bean.name} Year</span>
-          </a>
+          <span className="flex items-center gap-2">
+            <span className="text-zinc-600">×</span>
+            <a
+              href={`/forms/${form.slug}`}
+              className="flex items-center gap-1.5 px-3 py-1.5 rounded-full bg-zinc-900 border border-zinc-700 hover:border-zinc-500 transition-colors no-underline"
+            >
+              <span>{FORM_EMOJI[metadata.formId]}</span>
+              <span className={`form-${form.slug}`}>{form.name} Season</span>
+            </a>
+          </span>
+          <span className="flex items-center gap-2">
+            <span className="text-zinc-600">×</span>
+            <a
+              href={`/beans/${bean.slug}`}
+              className="flex items-center gap-1.5 px-3 py-1.5 rounded-full bg-zinc-900 border border-zinc-700 hover:border-zinc-500 transition-colors no-underline"
+            >
+              <span>🫘</span>
+              <span className={`bean-${bean.slug}`}>{bean.name} Year</span>
+            </a>
+          </span>
         </div>
         {showFortune && (
           <section className="mb-6 sm:mb-10 max-w-xl w-full flex flex-col items-center gap-3">

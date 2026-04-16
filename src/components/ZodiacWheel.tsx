@@ -27,7 +27,10 @@ const BEAN_R1 = 57;
 const BEAN_R2 = 83;
 // Angular gap between segments
 const GAP = 1.1;
-const TRANSITION = "transform 2.2s cubic-bezier(0.15, 0, 0.1, 1)";
+const EASING = "cubic-bezier(0.4, 0, 0.1, 1)";
+const TRANSITION_INNER = `transform 2.5s ${EASING} 0ms`;
+const TRANSITION_MIDDLE = `transform 2.5s ${EASING} 0ms`;
+const TRANSITION_OUTER = `transform 2.5s ${EASING} 0ms`;
 const ACTIVE_DARK = "#27272a";
 
 // Segment widths (degrees)
@@ -128,6 +131,7 @@ const STATIC_FILTERS = (
         {makeFilter(`f-m-${formId}-a`, ACTIVE_DARK, "-50%")}
       </Fragment>
     ))}
+    {makeFilter("f-centre-a", ACTIVE_DARK, "-50%")}
   </>
 );
 
@@ -165,13 +169,13 @@ export default function ZodiacWheel({ date, highlight = true }: Props) {
 
   useEffect(() => {
     const delta = absOuter - prevAbsOuter.current;
-    setOuterRot((r) => r + capDelta(delta, 720));
+    setOuterRot((r) => r + capDelta(delta, 540));
     prevAbsOuter.current = absOuter;
   }, [absOuter]);
 
   useEffect(() => {
     const delta = absInner - prevAbsInner.current;
-    setInnerRot((r) => r + capDelta(delta, 720));
+    setInnerRot((r) => r + capDelta(delta, 630));
     prevAbsInner.current = absInner;
   }, [absInner]);
 
@@ -189,7 +193,7 @@ export default function ZodiacWheel({ date, highlight = true }: Props) {
       setActiveFlavourIdx(flavourIdx);
       setActiveFormIdx(formIdx);
       setHighlightVisible(true);
-    }, 2100);
+    }, 2700);
     return () => clearTimeout(t);
   }, [beanIdx, flavourIdx, formIdx, highlight]);
 
@@ -224,7 +228,7 @@ export default function ZodiacWheel({ date, highlight = true }: Props) {
         style={{
           transformOrigin: `${CX}px ${CY}px`,
           transform: `rotate(${outerRot}deg)`,
-          transition: TRANSITION,
+          transition: TRANSITION_OUTER,
           willChange: "transform",
         }}
       >
@@ -260,12 +264,12 @@ export default function ZodiacWheel({ date, highlight = true }: Props) {
         })}
       </g>
 
-      {/* Middle flavour ring — rotates once every 10 years */}
+      {/* Inner form ring — rotates once every year */}
       <g
         style={{
           transformOrigin: `${CX}px ${CY}px`,
           transform: `rotate(${formRot}deg)`,
-          transition: TRANSITION,
+          transition: TRANSITION_INNER,
           willChange: "transform",
         }}
       >
@@ -301,12 +305,12 @@ export default function ZodiacWheel({ date, highlight = true }: Props) {
         })}
       </g>
 
-      {/* Inner form ring - rotates once every year */}
+      {/* Middle flavour ring — rotates once every 10 years */}
       <g
         style={{
           transformOrigin: `${CX}px ${CY}px`,
           transform: `rotate(${innerRot}deg)`,
-          transition: TRANSITION,
+          transition: TRANSITION_MIDDLE,
           willChange: "transform",
         }}
       >
@@ -344,8 +348,21 @@ export default function ZodiacWheel({ date, highlight = true }: Props) {
 
       {/* Centre bean emoji */}
       <g style={{ userSelect: "none", pointerEvents: "none" }}>
-        <circle cx={CX} cy={CY} r={12} fill="none" stroke="white" strokeWidth="1.5" opacity={0.9} />
-        <text x={CX} y={CY + 1} textAnchor="middle" dominantBaseline="middle" fontSize="10">
+        <circle
+          cx={CX} cy={CY} r={12}
+          fill={highlightVisible ? "white" : "transparent"}
+          stroke="white"
+          strokeWidth="1.5"
+          opacity={0.9}
+          style={{ transition: "fill 0.5s ease" }}
+        />
+        <text
+          x={CX} y={CY + 1}
+          textAnchor="middle"
+          dominantBaseline="middle"
+          fontSize="10"
+          style={highlightVisible ? { filter: "url(#f-centre-a)" } : undefined}
+        >
           🫘
         </text>
       </g>
