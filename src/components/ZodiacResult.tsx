@@ -49,7 +49,7 @@ export default function ZodiacResult({
                 WebkitBackgroundClip: "text",
                 WebkitTextFillColor: "transparent",
                 backgroundClip: "text",
-                filter: `url(#form-${form.slug}-filter) saturate(1.8)`,
+                filter: `url(#form-${form.slug}-filter) saturate(1.8) brightness(1.2)`,
               }}
             >
               {preparation}

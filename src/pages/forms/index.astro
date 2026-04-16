@@ -13,16 +13,21 @@ const forms = await getCollection("forms");
   description="Fried, Roasted, Boiled, and Fermented - the four cooking forms that shape how you transform."
 >
   <section class="py-12 text-center">
-    <h1 class="text-4xl sm:text-5xl font-bold">The Four Forms</h1>
+    <h1 class="text-4xl sm:text-5xl font-bold">The Six Seasons of Form</h1>
     <p class="mt-3 text-lg text-zinc-300 max-w-xl mx-auto">
-      Each Bean embodies one of four Forms.
+      Each Bean is augmented by one of six foundational forms.
     </p>
   </section>
   <ul class="grid grid-cols-2 gap-5 list-none p-0 m-0 max-w-lg mx-auto w-full">
     {
       forms.map((form) => (
-        <li class={`rounded-xl border-4 border-form-${form.id} bg-zinc-900 overflow-hidden transition-opacity hover:opacity-80`}>
-          <a href={`/forms/${form.id}`} class="flex flex-col no-underline h-full">
+        <li
+          class={`rounded-xl border-4 border-form-${form.id} bg-zinc-900 overflow-hidden transition-opacity hover:opacity-80`}
+        >
+          <a
+            href={`/forms/${form.id}`}
+            class="flex flex-col no-underline h-full"
+          >
             <div class="h-20 flex items-center justify-center">
               <span style="font-size: 2rem; line-height: 1;">
                 {FORM_EMOJI[form.id as FormId]}

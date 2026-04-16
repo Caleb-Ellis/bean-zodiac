@@ -9,8 +9,8 @@ quote: Give me liberty, or give me bean!
 fortune: A principle will be tested — before it is, know the difference between a principle tested and a principle provoked.
 ---
 
-Zested Navy Beans are the Bean Zodiac's most uncompromising — the principle exists, the evidence is clear, and there is no version of this that ends in negotiation.
+Dehydrated Navy Beans are the Bean Zodiac's most uncompromising — the principle exists, the evidence is clear, and there is no version of this that ends in negotiation.
 
 Navy Beans hold their structure under pressure; Sour Beans cut through justification that hasn't earned it; Dried Beans ensure that nothing softens between conviction and action.
 
-The Zested Navy Bean's challenge is the cost of zero tolerance. Not everything that looks like a breach is a breach. These Beans must learn to distinguish between a principle tested and a principle provoked.
+The Dehydrated Navy Bean's challenge is the cost of zero tolerance. Not everything that looks like a breach is a breach. These Beans must learn to distinguish between a principle tested and a principle provoked.

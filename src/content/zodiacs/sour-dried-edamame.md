@@ -9,8 +9,8 @@ quote: The pen is mightier than the bean.
 fortune: A target will appear — before you let it go, check whether you know what is standing behind it.
 ---
 
-Zested Edamame are the Bean Zodiac's most pointed — quick, sharp, and aimed.
+Dehydrated Edamame are the Bean Zodiac's most pointed — quick, sharp, and aimed.
 
 Edamame cut to the conclusion; Sour Beans bring clarifying acid; Dried Beans strip away whatever softened the delivery.
 
-The Zested Edamame's challenge is impact without wreckage. A point driven home too hard leaves a hole. These Beans must distinguish between precision and damage.
+The Dehydrated Edamame's challenge is impact without wreckage. A point driven home too hard leaves a hole. These Beans must distinguish between precision and damage.

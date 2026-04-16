@@ -34,13 +34,13 @@ A **Preparation** is the named synthesis of a Flavour × Form combination — e.
 
 Full table:
 
-|          | boiled     | dried        | fermented | fried        | roasted    | smoked      |
-|----------|------------|--------------|-----------|--------------|------------|-------------|
-| bitter   | Decocted   | Desiccated   | Macerated | Scorched     | Dark Roasted | Ashen     |
-| sour     | Brined     | Zested       | Pickled   | Brightened   | Charred    | Cold-Smoked |
-| spicy    | Braised    | Chili-Dried  | Kimchi    | Chili-Crisped | Blackened | Chipotle   |
-| sweet    | Candied    | Crystallized | Honeyed   | Caramelized  | Glazed     | Barbecued   |
-| umami    | Reduced    | Aged         | Miso      | Tempura      | Bronzed    | Burnished   |
+|        | boiled   | dried        | fermented | fried         | roasted      | smoked      |
+| ------ | -------- | ------------ | --------- | ------------- | ------------ | ----------- |
+| bitter | Decocted | Desiccated   | Tinctured | Scorched      | Dark Roasted | Ashen       |
+| sour   | Brined   | Dehydrated   | Pickled   | Brightened    | Charred      | Cold-Smoked |
+| spicy  | Braised  | Chili-Cured  | Kimchi    | Chili-Crisped | Blackened    | Chipotle    |
+| sweet  | Candied  | Crystallized | Honeyed   | Caramelized   | Glazed       | Barbecued   |
+| umami  | Reduced  | Aged         | Miso      | Tempura       | Bronzed      | Burnished   |
 
 ### Content Collections ([src/content.config.ts](src/content.config.ts))
 
