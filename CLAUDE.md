@@ -38,7 +38,7 @@ Full table:
 | ------ | -------- | ------------ | --------- | ----------- | ------------ | ----------- |
 | bitter | Decocted | Desiccated   | Tinctured | Scorched    | Dark Roasted | Ashen       |
 | sour   | Brined   | Dehydrated   | Pickled   | Brightened  | Charred      | Cold-Smoked |
-| spicy  | Braised  | Chili-Cured  | Kimchi    | Red-Hot     | Blackened    | Chipotle    |
+| spicy  | Braised  | Sichuan      | Kimchi    | Red-Hot     | Peri-Peri    | Chipotle    |
 | sweet  | Candied  | Crystallised | Honeyed   | Caramelised | Glazed       | Barbecued   |
 | umami  | Dashi    | Aged         | Miso      | Tempura     | Bronzed      | Burnished   |
 

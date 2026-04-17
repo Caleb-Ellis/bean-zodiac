@@ -9,8 +9,8 @@ quote: Love is that condition in which the happiness of another bean is essentia
 fortune: A distance will open between you and the Beans you love — it is not the same as loss, and the warmth you carry will still be there when it closes.
 ---
 
-Blackened Mung Beans are the Bean Zodiac's most clingy — they love with intensity.
+Peri-Peri Mung Beans are the Bean Zodiac's most clingy — they love with intensity.
 
 Mung Beans need to give in order to feel connected; Spicy Beans make connection feel urgent; Roasted Beans hold everything warm between.
 
-The Blackened Mung Bean's challenge is distance. They must learn that absence is not departure, and love sustained across distance is still love.
+The Peri-Peri Mung Bean's challenge is distance. They must learn that absence is not departure, and love sustained across distance is still love.
