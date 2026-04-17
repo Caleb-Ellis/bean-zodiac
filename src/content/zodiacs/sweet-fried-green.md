@@ -9,8 +9,8 @@ quote: I have measured out my bean in coffee spoons.
 fortune: An energy will find a thing worth staying for — when it arrives, stay past the point of interest and find out what you can actually make.
 ---
 
-Caramelized Green Beans are the Bean Zodiac's most fidgety — the energy is always looking for somewhere to go.
+Caramelised Green Beans are the Bean Zodiac's most fidgety — the energy is always looking for somewhere to go.
 
 Green Beans cannot hold still; Fried doubles this urgency; Sweet Beans sweeten the motion, making restlessness pleasant enough that others are caught in it.
 
-The Caramelized Green Bean's challenge is completion. They must stay with the thing until it is done, not just until it is interesting.
+The Caramelised Green Bean's challenge is completion. They must stay with the thing until it is done, not just until it is interesting.

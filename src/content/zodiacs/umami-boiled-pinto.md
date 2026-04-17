@@ -9,8 +9,8 @@ quote: You gain strength, courage, and confidence by every bean in which you rea
 fortune: A perfect moment will not come — step forward while there is still something left to step into.
 ---
 
-Reduced Pinto Beans are the Bean Zodiac's most timid — they're uncertain whether the moment is right, despite having much to offer.
+Dashi Pinto Beans are the Bean Zodiac's most timid — they're uncertain whether the moment is right, despite having much to offer.
 
 Pinto Beans keep their interior landscape private; Umami Beans add layers built quietly over time; Boiled Beans hold everything in slow heat that sustains without surfacing.
 
-The Reduced Pinto Bean's challenge is action. Readiness is not something that arrives, and they must step forward before the perfect moment, which is always the next one they will miss.
+The Dashi Pinto Bean's challenge is action. Readiness is not something that arrives, and they must step forward before the perfect moment, which is always the next one they will miss.

@@ -4,7 +4,7 @@ bean: navy
 flavour: sweet
 form: roasted
 trait: reserved
-dish: Maple and sea salt roasted navy beans — white beans roasted until caramelized, finished with a drizzle of cold maple syrup.
+dish: Maple and sea salt roasted navy beans — white beans roasted until caramelised, finished with a drizzle of cold maple syrup.
 quote: Speech is silver, but bean is golden.
 fortune: A thing not yet fully earned will ask to be given — offer it before the earning is complete, and find out what the generosity produces.
 ---

@@ -30,17 +30,17 @@ The core of the app. Key concepts:
 
 ### Preparations ([src/lib/zodiac.ts](src/lib/zodiac.ts))
 
-A **Preparation** is the named synthesis of a Flavour × Form combination — e.g. Sweet + Fried = **Caramelized**. There are 30 preparations (5 × 6). They are defined as a lookup constant `PREPARATION_NAMES` in `zodiac.ts` and accessed via `getPreparationName(flavourId, formId)`. No content collection — names only.
+A **Preparation** is the named synthesis of a Flavour × Form combination — e.g. Sweet + Fried = **Caramelised**. There are 30 preparations (5 × 6). They are defined as a lookup constant `PREPARATION_NAMES` in `zodiac.ts` and accessed via `getPreparationName(flavourId, formId)`. No content collection — names only.
 
 Full table:
 
-|        | boiled   | dried        | fermented | fried         | roasted      | smoked      |
-| ------ | -------- | ------------ | --------- | ------------- | ------------ | ----------- |
-| bitter | Decocted | Desiccated   | Tinctured | Scorched      | Dark Roasted | Ashen       |
-| sour   | Brined   | Dehydrated   | Pickled   | Brightened    | Charred      | Cold-Smoked |
-| spicy  | Braised  | Chili-Cured  | Kimchi    | Chili-Crisped | Blackened    | Chipotle    |
-| sweet  | Candied  | Crystallized | Honeyed   | Caramelized   | Glazed       | Barbecued   |
-| umami  | Reduced  | Aged         | Miso      | Tempura       | Bronzed      | Burnished   |
+|        | boiled   | dried        | fermented | fried       | roasted      | smoked      |
+| ------ | -------- | ------------ | --------- | ----------- | ------------ | ----------- |
+| bitter | Decocted | Desiccated   | Tinctured | Scorched    | Dark Roasted | Ashen       |
+| sour   | Brined   | Dehydrated   | Pickled   | Brightened  | Charred      | Cold-Smoked |
+| spicy  | Braised  | Chili-Cured  | Kimchi    | Red-Hot     | Blackened    | Chipotle    |
+| sweet  | Candied  | Crystallised | Honeyed   | Caramelised | Glazed       | Barbecued   |
+| umami  | Dashi    | Aged         | Miso      | Tempura     | Bronzed      | Burnished   |
 
 ### Content Collections ([src/content.config.ts](src/content.config.ts))
 

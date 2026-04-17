@@ -9,8 +9,8 @@ quote: Only those who will bean far can possibly find out how far one can go.
 fortune: A risk will produce results — look back after, not to second-guess, but to identify which instincts you can trust further next time.
 ---
 
-Chili-Crisped Fava Beans are the Bean Zodiac's most risk-taking — they commit before the math is finished.
+Red-Hot Fava Beans are the Bean Zodiac's most risk-taking — they commit before the math is finished.
 
 Fava Beans know the best things require starting before ideal conditions; Spicy Beans make risk urgent and demanding; Fried Beans make it immediate and irreversible.
 
-The Chili-Crisped Fava Bean's challenge is knowing tolerance for risk doesn't mean immunity to consequence. They must build the habit of looking back, not to second-guess, but to learn which instincts are reliable.
+The Red-Hot Fava Bean's challenge is knowing tolerance for risk doesn't mean immunity to consequence. They must build the habit of looking back, not to second-guess, but to learn which instincts are reliable.

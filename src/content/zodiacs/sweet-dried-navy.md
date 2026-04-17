@@ -9,8 +9,8 @@ quote: Ask not what your bean can do for you — ask what you can do for your be
 fortune: A service will ask to be questioned — verify it is still a choice, and allow yourself to choose yourself occasionally.
 ---
 
-Crystallized Navy Beans are the Bean Zodiac's most dutiful — they will be here, doing this, for as long as it needs doing.
+Crystallised Navy Beans are the Bean Zodiac's most dutiful — they will be here, doing this, for as long as it needs doing.
 
 Navy Beans know what the right thing is without being told; Sweet Beans extend it without requiring acknowledgment; Dried Beans hold the commitment in concentrated, patient form.
 
-The Crystallized Navy Bean's challenge is the duty beyond its season. Service given freely and indefinitely begins to look like something the Bean simply is, rather than something they choose. These Beans must occasionally choose themselves.
+The Crystallised Navy Bean's challenge is the duty beyond its season. Service given freely and indefinitely begins to look like something the Bean simply is, rather than something they choose. These Beans must occasionally choose themselves.

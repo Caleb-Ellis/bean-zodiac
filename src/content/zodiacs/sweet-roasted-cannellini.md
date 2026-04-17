@@ -4,7 +4,7 @@ bean: cannellini
 flavour: sweet
 form: roasted
 trait: empowering
-dish: Cannellini roasted in maple and sage — white beans blistered in the oven with maple syrup and fresh sage until caramelized.
+dish: Cannellini roasted in maple and sage — white beans blistered in the oven with maple syrup and fresh sage until caramelised.
 quote: As we let our own bean shine, we unconsciously give others permission to do the same.
 fortune: A lantern is about to be carried back toward you — let someone hold it.
 ---

@@ -9,6 +9,7 @@ type Props = {
 
 const SPIN_DURATION_MS = 3200;
 const FADE_MS = 300;
+const RESULT_MOUNT_DELAY_MS = 150;
 
 const BEANS_LETTERS = ["B", "E", "A", "N", "S!"];
 const LETTER_INTERVAL = Math.floor(2000 / BEANS_LETTERS.length);
@@ -16,7 +17,7 @@ const LETTER_INTERVAL = Math.floor(2000 / BEANS_LETTERS.length);
 export default function ZodiacCalendar({ data }: Props) {
   const [inputDate, setInputDate] = useState<string>(() => {
     const param = getDateParam();
-    return param ?? toDateInputValue(new Date());
+    return param ?? "2001-01-01";
   });
   const [selectedDate, setSelectedDate] = useState<Date | null>(() => {
     const param = getDateParam();
@@ -72,9 +73,10 @@ export default function ZodiacCalendar({ data }: Props) {
       setTimeout(() => {
         setSpinning(false);
         setResultMounted(true);
-        // Two rAFs so the browser paints opacity-0 before transitioning to opacity-100
-        requestAnimationFrame(() =>
-          requestAnimationFrame(() => setResultVisible(true)),
+        // Delay so the browser paints opacity-0 before transitioning to opacity-100
+        setTimeout(
+          () => requestAnimationFrame(() => setResultVisible(true)),
+          RESULT_MOUNT_DELAY_MS,
         );
       }, SPIN_DURATION_MS);
     }
@@ -174,12 +176,6 @@ function getDateParam(): string | null {
   return value;
 }
 
-function toDateInputValue(date: Date): string {
-  const y = date.getFullYear();
-  const m = String(date.getMonth() + 1).padStart(2, "0");
-  const d = String(date.getDate()).padStart(2, "0");
-  return `${y}-${m}-${d}`;
-}
 
 function parseDateInputValue(value: string): Date {
   const [y, m, d] = value.split("-").map(Number);

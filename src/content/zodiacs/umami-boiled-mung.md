@@ -9,8 +9,8 @@ quote: Silence is a bean's wisdom.
 fortune: A thing has been waiting the longest to be said — break the stillness with it.
 ---
 
-Reduced Mung Beans are the Bean Zodiac's quietest — the noise around them decreases in their presence.
+Dashi Mung Beans are the Bean Zodiac's quietest — the noise around them decreases in their presence.
 
 Mung Beans restore without announcement; Umami Beans give silence weight and meaning; Boiled Beans hold everything at a steady temperature.
 
-The Reduced Mung Bean's challenge is speech. They must break the stillness occasionally with what has been waiting longest to be said.
+The Dashi Mung Bean's challenge is speech. They must break the stillness occasionally with what has been waiting longest to be said.

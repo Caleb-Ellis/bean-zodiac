@@ -9,8 +9,8 @@ quote: Heart in the right place, bean in the wrong pot!
 fortune: A gesture will be ready before the need is known — ask what would actually help before the oil is hot.
 ---
 
-Caramelized Mung Beans are the Bean Zodiac's most impractical — they are moved to help before they have worked out how.
+Caramelised Mung Beans are the Bean Zodiac's most impractical — they are moved to help before they have worked out how.
 
 Mung Beans tend and restore by instinct; Sweet Beans make it generous and immediate; Fried Beans remove hesitation, turning impulse to action.
 
-The Caramelized Mung Bean's challenge is diagnosis before treatment. They must ask what would actually help, before the oil is already hot.
+The Caramelised Mung Bean's challenge is diagnosis before treatment. They must ask what would actually help, before the oil is already hot.

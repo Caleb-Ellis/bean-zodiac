@@ -9,8 +9,8 @@ quote: Excellence is never bean by accident.
 fortune: An inaccessibility will be noticed — descend once and bring the excellence with you.
 ---
 
-Crystallized Cannellini Beans are the Bean Zodiac's most rarefied — excellence stripped of ornament, leaving something so refined it can only be apprehended quietly.
+Crystallised Cannellini Beans are the Bean Zodiac's most rarefied — excellence stripped of ornament, leaving something so refined it can only be apprehended quietly.
 
 Cannellini Beans refine everything around them; Sweet Beans extend welcome without requiring effort to receive; Dried Beans concentrate the result until it is precise and held.
 
-The Crystallized Cannellini Bean's challenge is the altitude at which they operate. Rare things are not always accessible, and inaccessible things do not always get to be useful. These Beans must occasionally descend.
+The Crystallised Cannellini Bean's challenge is the altitude at which they operate. Rare things are not always accessible, and inaccessible things do not always get to be useful. These Beans must occasionally descend.

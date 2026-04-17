@@ -9,8 +9,8 @@ quote: Quantity produces bean quality.
 fortune: An accumulation will become visible — see the whole before you begin again.
 ---
 
-Reduced Green Beans are the Bean Zodiac's most prolific — they produce, and what they've made accumulates into something substantial.
+Dashi Green Beans are the Bean Zodiac's most prolific — they produce, and what they've made accumulates into something substantial.
 
 Green Beans keep generating; Umami Beans provide depth to make output matter; Boiled Beans hold the whole endeavour together so work accumulates.
 
-The Reduced Green Bean's challenge is quality. They must occasionally sit with something longer before sending it.
+The Dashi Green Bean's challenge is quality. They must occasionally sit with something longer before sending it.

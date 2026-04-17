@@ -9,8 +9,8 @@ quote: Stay hungry, stay bean.
 fortune: A destination will be approaching — the warmth you carry was always meant to reach the Beans behind you, not only what is ahead.
 ---
 
-Caramelized Black Beans are the Bean Zodiac's most driven — warmth and determination that moves outward, pulling others along without intention.
+Caramelised Black Beans are the Bean Zodiac's most driven — warmth and determination that moves outward, pulling others along without intention.
 
 Black Beans are determined and do not give things up easily; Sweet Beans move with generosity attached, wanting others to arrive with them; Fried Beans make it happen decisively, without waiting.
 
-The Caramelized Black Bean's challenge is slowing for the ones they're pulling. They must check behind them to ensure the warmth is reaching the Beans it was meant for, not just the destination.
+The Caramelised Black Bean's challenge is slowing for the ones they're pulling. They must check behind them to ensure the warmth is reaching the Beans it was meant for, not just the destination.

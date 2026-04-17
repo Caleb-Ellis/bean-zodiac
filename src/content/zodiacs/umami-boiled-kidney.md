@@ -9,8 +9,8 @@ quote: We are what we repeatedly bean. Excellence, then, is not an act, but a ha
 fortune: The practice will produce something — let yourself feel what the discipline has built.
 ---
 
-Reduced Kidney Beans are the Bean Zodiac's most disciplined — they build things through unglamorous repeated commitment.
+Dashi Kidney Beans are the Bean Zodiac's most disciplined — they build things through unglamorous repeated commitment.
 
 Kidney Beans hold their shape under sustained heat and give up richness slowly; Umami Beans reward staying and deepening; Boiled Beans complete the immersion.
 
-The Reduced Kidney Bean's challenge is feeling. They must remember that the practice serves something that still needs to be wanted.
+The Dashi Kidney Bean's challenge is feeling. They must remember that the practice serves something that still needs to be wanted.

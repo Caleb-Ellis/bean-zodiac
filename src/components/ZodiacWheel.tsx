@@ -165,7 +165,10 @@ export default function ZodiacWheel({ date, highlight = true }: Props) {
   const [activeBeanIdx, setActiveBeanIdx] = useState(beanIdx);
   const [activeFlavourIdx, setActiveFlavourIdx] = useState(flavourIdx);
   const [activeFormIdx, setActiveFormIdx] = useState(formIdx);
-  const [highlightVisible, setHighlightVisible] = useState(false);
+  const [beanActive, setBeanActive] = useState(false);
+  const [flavourActive, setFlavourActive] = useState(false);
+  const [formActive, setFormActive] = useState(false);
+  const [centreActive, setCentreActive] = useState(false);
 
   useEffect(() => {
     const delta = absOuter - prevAbsOuter.current;
@@ -186,15 +189,26 @@ export default function ZodiacWheel({ date, highlight = true }: Props) {
   }, [absCentre]);
 
   useEffect(() => {
-    setHighlightVisible(false);
+    setBeanActive(false);
+    setFlavourActive(false);
+    setFormActive(false);
+    setCentreActive(false);
     if (!highlight) return;
-    const t = setTimeout(() => {
+    const t1 = setTimeout(() => {
       setActiveBeanIdx(beanIdx);
       setActiveFlavourIdx(flavourIdx);
       setActiveFormIdx(formIdx);
-      setHighlightVisible(true);
+      setBeanActive(true);
     }, 2700);
-    return () => clearTimeout(t);
+    const t2 = setTimeout(() => setFlavourActive(true), 2850);
+    const t3 = setTimeout(() => setFormActive(true), 3000);
+    const t4 = setTimeout(() => setCentreActive(true), 3300);
+    return () => {
+      clearTimeout(t1);
+      clearTimeout(t2);
+      clearTimeout(t3);
+      clearTimeout(t4);
+    };
   }, [beanIdx, flavourIdx, formIdx, highlight]);
 
   return (
@@ -205,6 +219,12 @@ export default function ZodiacWheel({ date, highlight = true }: Props) {
       aria-label="Bean Zodiac Wheel"
     >
       <defs>
+        <style>{`
+          @keyframes centre-glow {
+            0%   { opacity: 0.7; transform: scale(1); }
+            100% { opacity: 0; transform: scale(4); }
+          }
+        `}</style>
         {STATIC_FILTERS}
         {BEAN_GEOMETRY.map(({ beanId, path }) => (
           <clipPath key={beanId} id={`clip-b-${beanId}`}>
@@ -233,7 +253,7 @@ export default function ZodiacWheel({ date, highlight = true }: Props) {
         }}
       >
         {BEAN_GEOMETRY.map(({ beanId, path, x, y, mid }, i) => {
-          const active = i === activeBeanIdx && highlightVisible;
+          const active = i === activeBeanIdx && beanActive;
           const color = `var(--bean-${beanId})`;
           return (
             <g key={beanId}>
@@ -274,7 +294,7 @@ export default function ZodiacWheel({ date, highlight = true }: Props) {
         }}
       >
         {FORM_GEOMETRY.map(({ formId, path, x, y, mid }, i) => {
-          const active = i === activeFormIdx && highlightVisible;
+          const active = i === activeFormIdx && formActive;
           const color = `var(--form-${formId})`;
           return (
             <g key={formId}>
@@ -315,7 +335,7 @@ export default function ZodiacWheel({ date, highlight = true }: Props) {
         }}
       >
         {FLAVOUR_GEOMETRY.map(({ flavourId, path, x, y, mid }, i) => {
-          const active = i === activeFlavourIdx && highlightVisible;
+          const active = i === activeFlavourIdx && flavourActive;
           const color = `var(--flavour-${flavourId})`;
           return (
             <g key={flavourId}>
@@ -350,18 +370,29 @@ export default function ZodiacWheel({ date, highlight = true }: Props) {
       <g style={{ userSelect: "none", pointerEvents: "none" }}>
         <circle
           cx={CX} cy={CY} r={12}
-          fill={highlightVisible ? "white" : "transparent"}
+          fill={centreActive ? "white" : "transparent"}
           stroke="white"
           strokeWidth="1.5"
           opacity={0.9}
           style={{ transition: "fill 0.5s ease" }}
+        />
+        <circle
+          cx={CX} cy={CY} r={12}
+          fill="white"
+          style={{
+            transformOrigin: `${CX}px ${CY}px`,
+            opacity: centreActive ? undefined : 0,
+            animation: centreActive ? "centre-glow 1s ease-out forwards" : "none",
+            willChange: "transform, opacity",
+            pointerEvents: "none",
+          }}
         />
         <text
           x={CX} y={CY + 1}
           textAnchor="middle"
           dominantBaseline="middle"
           fontSize="10"
-          style={highlightVisible ? { filter: "url(#f-centre-a)" } : undefined}
+          style={centreActive ? { filter: "url(#f-centre-a)" } : undefined}
         >
           🫘
         </text>

@@ -9,8 +9,8 @@ quote: Eternal bean is the price of liberty.
 fortune: A watch can be set down — rest inside what you have kept safe.
 ---
 
-Reduced Fava Beans are the Bean Zodiac's most vigilant — they never stop watching what matters.
+Dashi Fava Beans are the Bean Zodiac's most vigilant — they never stop watching what matters.
 
 Fava Beans understand that what matters requires effort to access and keep; Umami Beans provide slow, careful attention that notices by accumulation; Boiled Beans make it sustained and consistent.
 
-The Reduced Fava Bean's challenge is rest. Sustained vigilance without relief distorts the picture, and they must stand down occasionally to stay accurate.
+The Dashi Fava Bean's challenge is rest. Sustained vigilance without relief distorts the picture, and they must stand down occasionally to stay accurate.

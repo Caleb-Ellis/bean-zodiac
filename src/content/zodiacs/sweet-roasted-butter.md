@@ -4,7 +4,7 @@ bean: butter
 flavour: sweet
 form: roasted
 trait: lighthearted
-dish: Butter beans roasted with vanilla sugar and lemon zest — caramelized at the edges, softly golden throughout.
+dish: Butter beans roasted with vanilla sugar and lemon zest — caramelised at the edges, softly golden throughout.
 quote: A day without beans is like a day without sunshine, so bring extra beans.
 fortune: What is underneath the lightness will want to carry some weight — let it.
 ---
