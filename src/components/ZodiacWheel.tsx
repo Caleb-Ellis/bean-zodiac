@@ -202,7 +202,7 @@ export default function ZodiacWheel({ date, highlight = true }: Props) {
     }, 2700);
     const t2 = setTimeout(() => setFlavourActive(true), 2850);
     const t3 = setTimeout(() => setFormActive(true), 3000);
-    const t4 = setTimeout(() => setCentreActive(true), 3300);
+    const t4 = setTimeout(() => setCentreActive(true), 3150);
     return () => {
       clearTimeout(t1);
       clearTimeout(t2);

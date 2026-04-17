@@ -13,7 +13,6 @@ interface Props {
   data: ZodiacData;
   date: Date;
   showContent?: boolean;
-  showDate?: boolean;
   showFortune?: boolean;
   showQuote?: boolean;
 }
@@ -22,7 +21,6 @@ export default function ZodiacResult({
   data,
   date,
   showContent,
-  showDate,
   showFortune,
   showQuote,
 }: Props) {
@@ -60,18 +58,15 @@ export default function ZodiacResult({
         <div className="mb-6 sm:mb-8">
           <Bean bean={bean} flavourId={flavour.slug} formId={form.slug} />
         </div>
-        {showDate && (
-          <p className="mb-4 sm:mb-6">
-            {startDateStr} - {endDateStr}
-          </p>
-        )}
         <div className="flex items-center gap-2 text-sm text-zinc-400 mb-4 sm:mb-6 flex-wrap justify-center">
           <a
             href={`/flavours/${flavour.slug}`}
             className="flex items-center gap-1.5 px-3 py-1.5 rounded-full bg-zinc-900 border border-zinc-700 hover:border-zinc-500 transition-colors no-underline"
           >
             <span>{FLAVOUR_EMOJI[metadata.flavourId]}</span>
-            <span className={`flavour-${flavour.slug}`}>{flavour.name} Era</span>
+            <span className={`flavour-${flavour.slug}`}>
+              {flavour.name} Era
+            </span>
           </a>
           <span className="flex items-center gap-2">
             <span className="text-zinc-600">×</span>
@@ -120,9 +115,7 @@ export default function ZodiacResult({
             <p className="text-xs uppercase tracking-widest text-zinc-200 mb-3">
               You can find me in
             </p>
-            <p className="italic text-zinc-200 text-lg">
-              {zodiac.dish}
-            </p>
+            <p className="italic text-zinc-200 text-lg">{zodiac.dish}</p>
           </div>
         </section>
       </section>
