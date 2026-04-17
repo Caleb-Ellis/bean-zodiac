@@ -1,0 +1,34 @@
+---
+import { getCollection } from "astro:content";
+import ZodiacCompatibility from "../components/ZodiacCompatibility";
+import Layout from "../layouts/Layout.astro";
+import { buildZodiacData } from "../lib/zodiac";
+import "../styles/global.css";
+
+const beanCollection = await getCollection("beans");
+const flavourCollection = await getCollection("flavours");
+const formCollection = await getCollection("forms");
+const zodiacCollection = await getCollection("zodiacs");
+
+const data = buildZodiacData(
+  beanCollection,
+  flavourCollection,
+  formCollection,
+  zodiacCollection,
+);
+---
+
+<Layout
+  title="Bean Compatibility"
+  description="Find out how compatible your beans are."
+>
+  <section class="text-center py-8 pb-14">
+    <h1 class="text-5xl sm:text-7xl font-bold tracking-tight">
+      Bean Compatibility
+    </h1>
+  </section>
+
+  <section class="border-zinc-800 flex flex-col items-center">
+    <ZodiacCompatibility data={data} client:load />
+  </section>
+</Layout>

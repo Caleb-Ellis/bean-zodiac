@@ -4,9 +4,9 @@ const links = [
   { href: "/flavours", label: "Taste the Flavours", short: "Flavours" },
   { href: "/forms", label: "Become the Forms", short: "Forms" },
   {
-    href: "/calendar",
-    label: "Which Bean are You?",
-    short: "Which Bean are You?",
+    href: "/compatibility",
+    label: "Bean Compatibility",
+    short: "Compatibility",
   },
 ];
 
@@ -22,25 +22,36 @@ const current = Astro.url.pathname;
   >
     The Bean Zodiac
   </a>
+  <a href="/calendar" class="font-bold md:hidden">Which Bean are You?</a>
   <ul class="flex gap-4 sm:gap-6 list-none m-0 p-0">
     {
-      links.map(({ href, label, short }) => (
-        <li>
-          <a
-            href={href}
-            class:list={[
-              "link text-sm sm:text-base text-center inline-flex items-center sm:text-left",
-              {
-                active: current.startsWith(href),
-                "font-bold": current.startsWith(href) || href === "/calendar",
-              },
-            ]}
-          >
-            <span class="sm:hidden">{short}</span>
-            <span class="hidden sm:inline">{label}</span>
-          </a>
-        </li>
-      ))
+      links.map(({ href, label, short }) => {
+        return (
+          <li>
+            <a
+              href={href}
+              class:list={[
+                "link text-sm sm:text-base text-center inline-flex items-center sm:text-left",
+                {
+                  active: current.startsWith(href),
+                  "font-bold": current.startsWith(href) || href === "/calendar",
+                },
+              ]}
+            >
+              <span class="md:hidden">{short}</span>
+              <span class="hidden md:inline">{label}</span>
+            </a>
+          </li>
+        );
+      })
     }
+    <li>
+      <a
+        href="/calendar"
+        class="link text-sm md:text-base text-center items-center md:text-left font-bold hidden md:inline-flex"
+      >
+        Which Bean are You?
+      </a>
+    </li>
   </ul>
 </nav>

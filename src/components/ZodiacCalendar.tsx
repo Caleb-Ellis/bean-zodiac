@@ -198,13 +198,19 @@ export default function ZodiacCalendar({ data }: Props) {
             data={data}
             date={selectedDate}
           />
-          <div className="mt-8 flex justify-center">
+          <div className="mt-8 flex flex-col items-center gap-6">
             <button
               onClick={handleReset}
               className="bg-zinc-900/80 border border-zinc-500/60 text-white rounded-xl px-8 py-4 text-lg font-bold backdrop-blur-sm transition-all duration-200 hover:border-zinc-400 hover:text-white hover:bg-zinc-800/80 cursor-pointer"
             >
               {moreBeanLabel}
             </button>
+            <a
+              href={`/compatibility?a=${inputDate}`}
+              className="text-sm text-zinc-400 hover:text-zinc-200 transition-colors"
+            >
+              Check compatibility →
+            </a>
           </div>
         </div>
       )}
