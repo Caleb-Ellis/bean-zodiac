@@ -1,6 +1,6 @@
 import { useRef, useState } from "react";
 import { type ZodiacData } from "../lib/zodiac";
-import ZodiacWheel from "./ZodiacWheel";
+import ZodiacWheel, { BEANS_LETTERS } from "./ZodiacWheel";
 import ZodiacIdentity from "./ZodiacIdentity";
 
 type Props = {
@@ -11,24 +11,6 @@ const SPIN_DURATION_MS = 3700;
 const FADE_MS = 300;
 const RESULT_MOUNT_DELAY_MS = 150;
 
-const BEANS_LETTERS = [
-  "B",
-  "E",
-  "E",
-  "E",
-  "E",
-  "E",
-  "E",
-  "E",
-  "E",
-  "E",
-  "E",
-  "E",
-  "A",
-  "N",
-  "S",
-  "!",
-];
 const LETTER_INTERVAL = Math.floor(2000 / BEANS_LETTERS.length);
 
 const MORE_BEANS_LABELS = [
@@ -70,7 +52,6 @@ export default function ZodiacCalendar({ data }: Props) {
       MORE_BEANS_LABELS[Math.floor(Math.random() * MORE_BEANS_LABELS.length)],
   );
 
-  const [beansMounted, setBeansMounted] = useState(false);
   const [beansVisible, setBeansVisible] = useState(false);
   const [beansLetterCount, setBeansLetterCount] = useState(0);
 
@@ -90,12 +71,8 @@ export default function ZodiacCalendar({ data }: Props) {
       window.history.pushState({}, "", url);
 
       // Stream in BEANS letters
-      setBeansMounted(true);
       setBeansLetterCount(0);
-      setBeansVisible(false);
-      requestAnimationFrame(() =>
-        requestAnimationFrame(() => setBeansVisible(true)),
-      );
+      setBeansVisible(true);
       let count = 0;
       const letterTimer = setInterval(() => {
         count++;
@@ -104,10 +81,6 @@ export default function ZodiacCalendar({ data }: Props) {
       }, LETTER_INTERVAL);
 
       setTimeout(() => setBeansVisible(false), SPIN_DURATION_MS - 500);
-      setTimeout(
-        () => setBeansMounted(false),
-        SPIN_DURATION_MS - 500 + FADE_MS,
-      );
 
       setTimeout(() => {
         setSpinning(false);
@@ -143,6 +116,8 @@ export default function ZodiacCalendar({ data }: Props) {
       <ZodiacWheel
         date={selectedDate ?? new Date(1933, 2, 12)}
         highlight={selectedDate !== null}
+        beansLetterCount={beansLetterCount}
+        beansVisible={beansVisible}
       />
       {/* Fixed-height slot — controls and BEANS text both live here so layout never shifts */}
       <div
@@ -168,24 +143,6 @@ export default function ZodiacCalendar({ data }: Props) {
             Discover the Bean Within
           </button>
         </section>
-        {beansMounted && (
-          <div
-            className={`absolute transition-opacity duration-300 ${
-              beansVisible ? "opacity-100" : "opacity-0"
-            }`}
-          >
-            <p className="text-3xl sm:text-5xl font-bold text-white flex gap-[0.1em]">
-              {BEANS_LETTERS.map((letter, i) => (
-                <span
-                  key={i}
-                  className={`transition-all duration-300 ${i < beansLetterCount ? "opacity-100 translate-y-0" : "opacity-0 translate-y-2"}`}
-                >
-                  {letter}
-                </span>
-              ))}
-            </p>
-          </div>
-        )}
       </div>
       {resultMounted && selectedDate && (
         <div
@@ -201,13 +158,26 @@ export default function ZodiacCalendar({ data }: Props) {
           <div className="mt-8 flex flex-col items-center gap-6">
             <button
               onClick={handleReset}
-              className="bg-zinc-900/80 border border-zinc-500/60 text-white rounded-xl px-8 py-4 text-lg font-bold backdrop-blur-sm transition-all duration-200 hover:border-zinc-400 hover:text-white hover:bg-zinc-800/80 cursor-pointer"
+              className="bg-zinc-900/80 border border-zinc-500/60 text-white rounded-xl px-8 py-4 font-bold backdrop-blur-sm transition-all duration-200 hover:border-zinc-400 hover:text-white hover:bg-zinc-800/80 cursor-pointer"
             >
-              {moreBeanLabel}
+              {moreBeanLabel}{" "}
+              <svg
+                xmlns="http://www.w3.org/2000/svg"
+                viewBox="0 0 24 24"
+                fill="none"
+                stroke="currentColor"
+                strokeWidth="2.5"
+                strokeLinecap="round"
+                strokeLinejoin="round"
+                className="inline-block ml-1.5 w-4 h-4 align-[-0.125em]"
+              >
+                <path d="M3 12a9 9 0 1 0 9-9 9.75 9.75 0 0 0-6.74 2.74L3 8" />
+                <path d="M3 3v5h5" />
+              </svg>
             </button>
             <a
               href={`/compatibility?a=${inputDate}`}
-              className="text-sm text-zinc-400 hover:text-zinc-200 transition-colors"
+              className="link text-base text-zinc-300 hover:text-white transition-colors"
             >
               Check compatibility →
             </a>

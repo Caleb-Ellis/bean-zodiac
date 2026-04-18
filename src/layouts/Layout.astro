@@ -1,5 +1,6 @@
 ---
 import Navigation from "../components/Navigation.astro";
+import BottomTabBar from "../components/BottomTabBar.astro";
 
 interface Props {
   title?: string;
@@ -16,10 +17,10 @@ const {
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width" />
+    <meta name="viewport" content="width=device-width, viewport-fit=cover" />
     <link
       rel="icon"
-      href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🫘</text></svg>"
+      href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><defs><filter id=%22w%22><feComponentTransfer><feFuncR type=%22linear%22 slope=%220%22 intercept=%221%22/><feFuncG type=%22linear%22 slope=%220%22 intercept=%221%22/><feFuncB type=%22linear%22 slope=%220%22 intercept=%221%22/></feComponentTransfer></filter></defs><text y=%22.9em%22 font-size=%2290%22 filter=%22url(%23w)%22>🫘</text></svg>"
     />
     <meta name="generator" content={Astro.generator} />
     <meta name="description" content={description} />
@@ -556,10 +557,11 @@ const {
     </div>
     <div class="relative z-10 flex flex-col min-h-screen">
       <Navigation />
-      <main class="max-w-6xl mx-auto px-4 py-8 animate-fade-up flex-1 w-full">
+      <main class="max-w-6xl mx-auto px-4 py-8 animate-fade-up flex-1 w-full pb-24 md:pb-8">
         <slot />
       </main>
-      <footer class="relative z-10 border-t border-white/10 py-6 mt-8">
+      <BottomTabBar />
+      <footer class="relative z-10 border-t border-white/10 py-6 mt-8 mb-16 md:mb-0">
         <div
           class="max-w-6xl mx-auto px-2 sm:px-4 flex items-center justify-center gap-2 text-sm text-zinc-400"
         >

@@ -132,17 +132,28 @@ const STATIC_FILTERS = (
       </Fragment>
     ))}
     {makeFilter("f-centre-a", ACTIVE_DARK, "-50%")}
+    <filter key="f-white" id="f-white">
+      <feComponentTransfer>
+        <feFuncR type="linear" slope="0" intercept="1"/>
+        <feFuncG type="linear" slope="0" intercept="1"/>
+        <feFuncB type="linear" slope="0" intercept="1"/>
+      </feComponentTransfer>
+    </filter>
   </>
 );
+
+export const BEANS_LETTERS = ["B","E","E","E","E","E","E","E","E","E","E","E","E","E","E","E","E","E","E","E","E","A","N","S","!"];
 
 // ---------------------------------------------------------------------------
 
 type Props = {
   date: Date;
   highlight?: boolean;
+  beansLetterCount?: number;
+  beansVisible?: boolean;
 };
 
-export default function ZodiacWheel({ date, highlight = true }: Props) {
+export default function ZodiacWheel({ date, highlight = true, beansLetterCount, beansVisible }: Props) {
   const {
     absOuter,
     absInner,
@@ -392,10 +403,44 @@ export default function ZodiacWheel({ date, highlight = true }: Props) {
           textAnchor="middle"
           dominantBaseline="middle"
           fontSize="10"
-          style={centreActive ? { filter: "url(#f-centre-a)" } : undefined}
+          style={{ filter: centreActive ? "url(#f-centre-a)" : "url(#f-white)" }}
         >
           🫘
         </text>
+      </g>
+
+      {/* BEANS letters circling the wheel — base toward centre, skip bottom gap */}
+      <g
+        style={{
+          opacity: beansVisible ? 1 : 0,
+          transition: "opacity 0.3s ease",
+          userSelect: "none",
+          pointerEvents: "none",
+        }}
+      >
+        {BEANS_LETTERS.map((letter, i) => {
+          const deg = 110 + i * (320 / (BEANS_LETTERS.length - 1)); // clockwise from ~6:40 to ~5:20, tight gap around arrow
+          const { x, y } = toXY(90, deg);
+          return (
+            <text
+              key={i}
+              x={x}
+              y={y}
+              textAnchor="middle"
+              dominantBaseline="middle"
+              fontSize="5.5"
+              fill="white"
+              fontWeight="bold"
+              transform={`rotate(${90 + deg}, ${x}, ${y})`}
+              style={{
+                opacity: i < (beansLetterCount ?? 0) ? 1 : 0,
+                transition: i < (beansLetterCount ?? 0) ? "opacity 0.3s ease" : "none",
+              }}
+            >
+              {letter}
+            </text>
+          );
+        })}
       </g>
 
       {/* Arrow indicator — fixed at bottom, points up into the rings */}
