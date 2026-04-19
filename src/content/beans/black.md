@@ -10,4 +10,4 @@ The Black Bean holds its shape. Unlike beans that dissolve under pressure, it st
 
 Black Beans observe before acting, weigh before speaking, and trust only what they have tested themselves. This deliberateness gets mistaken for aloofness, but it is simply the patience of something that knows its own worth. You notice a Black Bean not by how it looks, but by what the broth has become.
 
-The Black Bean's challenge is opacity. The cream-coloured interior never gets to be what it is if the shell never opens. The Black Year asks all Beans to let at least one person see what lives beneath the surface.
+The Black Bean's challenge is opacity. The cream-coloured interior never gets to be what it is if the shell never opens. The Black Bean Year asks all Beans to let at least one person see what lives beneath the surface.

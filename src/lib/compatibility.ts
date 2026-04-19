@@ -116,7 +116,7 @@ export const BEAN_COMPATIBILITY = {
     score: 2,
     label: "Under the Surface",
     description:
-      "Two beans who hold their shape under pressure. They recognise the architecture in each other.",
+      "Two Beans who hold their shape under pressure. They recognise the architecture in each other.",
   },
   "black-mung": {
     score: 1,
@@ -318,7 +318,7 @@ export const BEAN_COMPATIBILITY = {
     score: 2,
     label: "Non-Negotiable",
     description:
-      "Principled meets practical. Two beans who do exactly what they say.",
+      "Principled meets practical. Two Beans who do exactly what they say.",
   },
   "edamame-pinto": {
     score: -2,

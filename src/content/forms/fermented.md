@@ -9,4 +9,4 @@ Fermentation requires no fire, no outside force. It is transformation from withi
 
 Fermented Beans do their most important work out of sight — processing, converting, arriving at conclusions that others cannot follow. They are not quick to share what they're working on.
 
-The Fermented Bean's shadow is aberrance — the risk of going somewhere no one else can follow. Fermentation and spoilage use the same mechanism. The Fermented Bean asks you not to get lost within yourself.
+The Fermented Bean's shadow is aberrance — the risk of going somewhere no one else can follow. Fermentation and spoilage use the same mechanism. The Fermented Season asks you not to get lost within yourself.

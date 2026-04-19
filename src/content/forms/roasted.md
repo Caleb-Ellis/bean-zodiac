@@ -9,4 +9,4 @@ Roasting asks for nothing from Beans except to sit in warmth and become more ful
 
 Roasted Beans carry their warmth outward as a matter of nature. They are the ones who make a room feel inhabited, whose presence is felt before they've said anything, who seem to run a few degrees warmer than everyone else. They have a talent for pleasure — their own and others'.
 
-The Roasted Bean's shadow is self-indulgence. Warmth sustained without discipline becomes excess. The Roasted Bean asks you to pace yourself.
+The Roasted Bean's shadow is self-indulgence. Warmth sustained without discipline becomes excess. The Roasted Season asks you to pace yourself.

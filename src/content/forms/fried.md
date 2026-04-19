@@ -9,4 +9,4 @@ Frying is transformation by fire — fast, total, and irreversible. The oil is s
 
 Fried Beans are kinetic. They move through the world with a characteristic heat — decisive, passionate, difficult to ignore. They process experience through action rather than reflection: the doing is the thinking. They are often the ones who start something, who push past hesitation.
 
-The Fried Bean's shadow is irascibility. The same heat that transforms is the heat that burns. The Fried Bean asks you to know the difference.
+The Fried Bean's shadow is irascibility. The same heat that transforms is the heat that burns. The Fried Season asks you to know the difference.

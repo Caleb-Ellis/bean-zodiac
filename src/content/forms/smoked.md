@@ -9,4 +9,4 @@ Smoking works through concealment. The flame is elsewhere; what reaches the Bean
 
 Smoked Beans are difficult to account for. They arrive in a room and something shifts, though no one can say what. What they say tends to surface in the listener's mind hours later, recontextualising something that seemed unrelated.
 
-The Smoked Bean's shadow is obscurity mistaken for depth. The Smoked Bean asks you to step out of the haze — not to be understood, but to check whether you still understand yourself.
+The Smoked Bean's shadow is obscurity mistaken for depth. The Smoked Season asks you to step out of the haze — not to be understood, but to check whether you still understand yourself.

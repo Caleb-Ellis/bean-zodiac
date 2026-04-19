@@ -27,13 +27,13 @@ const beans = await getCollection("beans");
   >
     {
       beans.map((bean) => (
-        <li class="rounded-2xl border border-zinc-800 bg-zinc-900 overflow-hidden hover:border-zinc-600 transition-colors">
+        <li class="rounded-2xl border-2 border-zinc-800 bg-zinc-900 overflow-hidden hover:border-zinc-600 transition-colors">
           <a href={`/beans/${bean.id}`} class="block aspect-square w-full">
             <Bean bean={bean.data} />
           </a>
           <div class="p-4">
             <h2 class={`text-lg font-semibold bean-${bean.id}`}>
-              {bean.data.name}
+              <a class="link" href={`/beans/${bean.id}`}>{bean.data.name}</a>
             </h2>
             <p class="text-sm text-zinc-300 mt-1">{bean.data.tagline}</p>
             <ul class="flex flex-wrap gap-1.5 mt-3 list-none p-0 m-0">

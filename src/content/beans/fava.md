@@ -10,4 +10,4 @@ The Fava Bean requires effort. To reach it, you must work through a thick outer 
 
 Fava Beans are not afraid of difficulty. Where others are deterred by the double preparation, the short season, the effort of the thing, Fava Beans move toward it. Their courage is not performed — it lives in the decision to start before the outcome is guaranteed.
 
-The Fava Bean's challenge is recklessness. Courage without judgment is just speed. The Fava Year asks all Beans to ask not just whether they are willing to do the work — but whether this particular work is worth doing.
+The Fava Bean's challenge is recklessness. Courage without judgment is just speed. The Fava Bean Year asks all Beans to ask not just whether they are willing to do the work — but whether this particular work is worth doing.

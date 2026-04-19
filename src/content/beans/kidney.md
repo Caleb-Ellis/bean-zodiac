@@ -10,4 +10,4 @@ The Kidney Bean is built to withstand. Deep red and dense, it holds its shape un
 
 Kidney Beans are protectors by nature. When those they love face difficulty, they are the first to stand between them and harm. Their passion is genuine and their loyalty unbreakable. Like the bean that turns its entire cooking liquid red, they colour the world they inhabit.
 
-The Kidney Bean's challenge is overextension. Passion without rest starts to burn. The Kidney Year asks all Beans to fight hard for what matters and surrender, without guilt, what doesn't.
+The Kidney Bean's challenge is overextension. Passion without rest starts to burn. The Kidney Bean Year asks all Beans to fight hard for what matters and surrender, without guilt, what doesn't.

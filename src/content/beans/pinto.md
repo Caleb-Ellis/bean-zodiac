@@ -10,4 +10,4 @@ The Pinto Bean is painted. Its skin is a landscape of streaks and speckles — b
 
 Pinto Beans are expressive souls. They wear their complexities openly — in the way they dress, the way they talk, the projects they pursue. They are drawn to creative work because it lets them turn the swirling interior landscape into something others can touch. Like the bean whose markings season the whole pot, their expressiveness changes the rooms they move through.
 
-The Pinto Bean's challenge is overemotion. Not every feeling is an event, and not every story improves with an audience. The Pinto Year asks all Beans to sit with their interior life long enough to understand it — before putting it on display.
+The Pinto Bean's challenge is overemotion. Not every feeling is an event, and not every story improves with an audience. The Pinto Bean Year asks all Beans to sit with their interior life long enough to understand it — before putting it on display.

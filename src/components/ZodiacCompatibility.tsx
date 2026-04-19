@@ -160,7 +160,7 @@ export default function ZodiacCompatibility({ data }: Props) {
   return (
     <div ref={topRef} className="flex flex-col items-center w-full">
       <div
-        className={`grid transition-all duration-500 w-64 ${
+        className={`grid transition-all duration-500 w-full max-w-xs ${
           formVisible
             ? "grid-rows-[1fr] opacity-100"
             : "grid-rows-[0fr] opacity-0"
@@ -176,7 +176,7 @@ export default function ZodiacCompatibility({ data }: Props) {
             />
             <button
               onClick={handleCompare}
-              className="mt-5 w-full bg-zinc-900/80 border border-zinc-500/60 text-white rounded-xl px-8 py-2.5 text-base font-bold backdrop-blur-sm transition-all duration-200 hover:border-zinc-400 hover:bg-zinc-800/80 cursor-pointer"
+              className="mt-5 w-full bg-zinc-900/80 border-2 border-zinc-500/60 text-white rounded-xl px-8 py-2.5 text-base font-bold backdrop-blur-sm transition-all duration-200 hover:border-zinc-400 hover:bg-zinc-800/80 cursor-pointer"
             >
               Match Beans
             </button>
@@ -202,7 +202,7 @@ export default function ZodiacCompatibility({ data }: Props) {
           {revealedCount >= 4 && (
             <button
               onClick={handleReset}
-              className="animate-fade-up bg-zinc-900/80 border border-zinc-500/60 text-white rounded-xl px-8 py-4 text-lg font-bold backdrop-blur-sm transition-all duration-200 hover:border-zinc-400 hover:bg-zinc-800/80 cursor-pointer"
+              className="animate-fade-up bg-zinc-900/80 border-2 border-zinc-500/60 text-white rounded-xl px-8 py-4 text-lg font-bold transition-all duration-200 hover:border-zinc-400 hover:bg-zinc-800/80 cursor-pointer"
             >
               Match More Beans
               <svg
@@ -242,7 +242,7 @@ function DateField({
       </label>
       <input
         type="date"
-        className="w-full bg-zinc-900/80 border border-zinc-700/60 text-white rounded-xl px-4 py-2.5 cursor-pointer backdrop-blur-sm transition-all duration-200 focus:outline-none focus:border-zinc-500 focus:ring-1 focus:ring-zinc-500/40 hover:border-zinc-600"
+        className="w-full bg-zinc-900/80 border-2 border-zinc-700/60 text-white rounded-xl px-4 py-2.5 cursor-pointer backdrop-blur-sm transition-all duration-200 focus:outline-none focus:border-zinc-500 focus:ring-1 focus:ring-zinc-500/40 hover:border-zinc-600 [&::-webkit-calendar-picker-indicator]:hidden"
         value={value}
         onChange={(e) => onChange(e.target.value)}
       />
@@ -288,8 +288,8 @@ function CompatibilityResult({
   const total = getTotalCompatibility(metaA, metaB);
 
   return (
-    <div className="flex flex-col items-center gap-12 w-full animate-fade-up">
-      <div className="flex flex-col sm:flex-row gap-6 sm:gap-12 justify-center items-center sm:items-start w-full max-w-2xl">
+    <div className="flex flex-col items-center gap-6 w-full animate-fade-up">
+      <div className="flex flex-col sm:flex-row gap-6 justify-center items-center sm:items-start w-full max-w-2xl">
         <MiniIdentity
           beanSlug={beanA.slug}
           beanName={beanA.name}
@@ -315,15 +315,17 @@ function CompatibilityResult({
         />
       </div>
 
-      {calculatingText && (
-        <p
-          className={`text-zinc-300 text-lg italic transition-opacity duration-400 ${
-            calculatingVisible ? "opacity-100" : "opacity-0"
-          }`}
-        >
-          {calculatingText}
-        </p>
-      )}
+      <div className="relative h-0 w-full mt-4">
+        {calculatingText && (
+          <p
+            className={`absolute inset-x-0 text-center text-zinc-300 text-lg italic transition-opacity duration-400 ${
+              calculatingVisible ? "opacity-100" : "opacity-0"
+            }`}
+          >
+            {calculatingText}
+          </p>
+        )}
+      </div>
 
       {revealedCount >= 1 && (
         <div className="w-full max-w-lg flex flex-col gap-3">
@@ -344,7 +346,7 @@ function CompatibilityResult({
       )}
 
       {revealedCount >= 4 && (
-        <div className="animate-fade-up bg-zinc-900/80 border border-zinc-700/60 rounded-xl px-6 py-5 backdrop-blur-sm max-w-lg w-full text-center">
+        <div className="animate-fade-up bg-zinc-900/80 border-2 border-zinc-700/60 rounded-xl px-6 py-5 my-4 max-w-lg w-full text-center">
           <p className="text-xs uppercase tracking-widest text-zinc-400 mb-2">
             Overall
           </p>
@@ -410,7 +412,7 @@ function DimensionRow({
   compat: { score: number; label: string; description: string };
 }) {
   return (
-    <div className="bg-zinc-900/80 border border-zinc-800 rounded-xl px-5 py-4 backdrop-blur-sm flex items-center gap-4">
+    <div className="bg-zinc-900/80 border-2 border-zinc-800 rounded-xl px-5 py-4 flex items-center gap-4">
       <div className="flex flex-col items-center gap-1 w-20 shrink-0">
         <span className="text-xs uppercase tracking-widest text-zinc-500">
           {label}

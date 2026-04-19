@@ -10,4 +10,4 @@ The Adzuki Bean is the bean you call to the party. Small and deep red, it has sw
 
 Adzuki Beans bring festivity wherever they go. They have a talent for recognising what deserves to be celebrated and for compelling others to celebrate it with them. Like the red bean that tints the rice it's cooked with, their joy spreads outward and colours everything around them.
 
-The Adzuki Bean's challenge is avoidance. Red bean paste only becomes sweet after it has been cooked long enough. The Adzuki Year asks all Beans to let joy be a response to life, not a substitute for it.
+The Adzuki Bean's challenge is avoidance. Red bean paste only becomes sweet after it has been cooked long enough. The Adzuki Bean Year asks all Beans to let joy be a response to life, not a substitute for it.

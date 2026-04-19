@@ -10,4 +10,4 @@ The Mung Bean does not need much to give a great deal. Soak it overnight and it 
 
 Mung Beans work slowly, and that is their gift. They tend the conditions rather than rushing to visible results. The sprout forming in the dark does not announce itself until it is ready. The Beans around them recover. The rooms they move through become easier to breathe in.
 
-The Mung Bean's challenge is being taken advantage of. A bean that heals freely and asks nothing invites those who are happy to take everything. The Mung Year asks all Beans to give without losing themselves — and to recognise the difference between someone who needs care and someone who simply expects it.
+The Mung Bean's challenge is being taken advantage of. A bean that heals freely and asks nothing invites those who are happy to take everything. The Mung Bean Year asks all Beans to give without losing themselves — and to recognise the difference between someone who needs care and someone who simply expects it.

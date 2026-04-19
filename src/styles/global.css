@@ -29,7 +29,7 @@
 }
 
 .link {
-  color: white;
+  color: currentColor;
   text-decoration: none;
   position: relative;
 }
@@ -41,7 +41,7 @@
   left: 50%;
   right: 50%;
   height: 1px;
-  background: white;
+  background: currentColor;
   transition:
     left 0.25s ease,
     right 0.25s ease;

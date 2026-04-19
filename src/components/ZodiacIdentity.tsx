@@ -49,7 +49,7 @@ export default function ZodiacIdentity({ data, date }: Props) {
         <div className="flex items-center gap-2 text-sm text-zinc-400 mb-4 sm:mb-6 flex-wrap justify-center">
           <a
             href={`/flavours/${flavour.slug}`}
-            className="flex items-center gap-1.5 px-3 py-1.5 rounded-full bg-zinc-900 border border-zinc-700 hover:border-zinc-500 transition-colors no-underline"
+            className="flex items-center gap-1.5 px-3 py-1.5 rounded-full bg-zinc-900 border-2 border-zinc-700 hover:border-zinc-500 transition-colors no-underline"
           >
             <span>{FLAVOUR_EMOJI[metadata.flavourId]}</span>
             <span className={`flavour-${flavour.slug}`}>
@@ -60,7 +60,7 @@ export default function ZodiacIdentity({ data, date }: Props) {
             <span className="text-zinc-600">×</span>
             <a
               href={`/forms/${form.slug}`}
-              className="flex items-center gap-1.5 px-3 py-1.5 rounded-full bg-zinc-900 border border-zinc-700 hover:border-zinc-500 transition-colors no-underline"
+              className="flex items-center gap-1.5 px-3 py-1.5 rounded-full bg-zinc-900 border-2 border-zinc-700 hover:border-zinc-500 transition-colors no-underline"
             >
               <span>{FORM_EMOJI[metadata.formId]}</span>
               <span className={`form-${form.slug}`}>{form.name} Season</span>
@@ -70,7 +70,7 @@ export default function ZodiacIdentity({ data, date }: Props) {
             <span className="text-zinc-600">×</span>
             <a
               href={`/beans/${bean.slug}`}
-              className="flex items-center gap-1.5 px-3 py-1.5 rounded-full bg-zinc-900 border border-zinc-700 hover:border-zinc-500 transition-colors no-underline"
+              className="flex items-center gap-1.5 px-3 py-1.5 rounded-full bg-zinc-900 border-2 border-zinc-700 hover:border-zinc-500 transition-colors no-underline"
             >
               <span>🫘</span>
               <span className={`bean-${bean.slug}`}>{bean.name} Year</span>
@@ -84,7 +84,7 @@ export default function ZodiacIdentity({ data, date }: Props) {
       <section className="max-w-xl markdown-content">
         <Markdown>{zodiac.content}</Markdown>
       </section>
-      <section className="bg-zinc-900/80 border border-zinc-700/60 rounded-xl px-6 py-5 backdrop-blur-sm max-w-lg w-full mb-2 sm:mb-4">
+      <section className="bg-zinc-900/80 border-2 border-zinc-700/60 rounded-xl px-6 py-5 backdrop-blur-sm max-w-lg w-full mb-2 sm:mb-4">
         <p className="text-xs uppercase tracking-widest text-zinc-200 mb-3">
           You can find me in
         </p>

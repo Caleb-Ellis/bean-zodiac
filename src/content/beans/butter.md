@@ -10,4 +10,4 @@ The Butter Bean does not hurry. Large, flat, and pale as cream, it becomes extra
 
 Butter Beans create calm wherever they go. Rarely rattled, never frantic, they have an almost supernatural ability to lower the temperature of a room. Beans orbit them for this quality and often leave feeling inexplicably restored.
 
-The Butter Bean's challenge is inertia. A Butter Bean left in the pot too long stops being silky and starts being stodgy. The Butter Year asks all Beans to rest as a choice, not a default — and to notice when comfort has quietly become avoidance.
+The Butter Bean's challenge is inertia. A Butter Bean left in the pot too long stops being silky and starts being stodgy. The Butter Bean Year asks all Beans to rest as a choice, not a default — and to notice when comfort has quietly become avoidance.

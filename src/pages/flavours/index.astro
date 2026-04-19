@@ -21,7 +21,7 @@ const flavours = await getCollection("flavours");
   <ul class="flex flex-col gap-3 list-none p-0 m-0 max-w-lg mx-auto w-full">
     {
       flavours.map((flavour) => (
-        <li class="rounded-xl border border-zinc-800 bg-zinc-900 overflow-hidden hover:border-zinc-600 transition-colors">
+        <li class="rounded-xl border-2 border-zinc-800 bg-zinc-900 overflow-hidden hover:border-zinc-600 transition-colors">
           <a href={`/flavours/${flavour.id}`} class="flex no-underline">
             <div
               class={`w-14 shrink-0 bg-flavour-${flavour.id} flex items-center justify-center`}
