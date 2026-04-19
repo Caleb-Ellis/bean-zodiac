@@ -6,6 +6,8 @@ import {
   getTotalCompatibility,
 } from "../lib/compatibility";
 import {
+  FLAVOUR_EMOJI,
+  FORM_EMOJI,
   getPreparationName,
   getZodiacMetadataForDate,
   type BeanId,
@@ -330,16 +332,31 @@ function CompatibilityResult({
       {revealedCount >= 1 && (
         <div className="w-full max-w-lg flex flex-col gap-3">
           <div className="animate-fade-up">
-            <DimensionRow label="Bean" compat={beanCompat} />
+            <DimensionRow
+              label="Flavour"
+              compat={flavourCompat}
+              pairA={{ name: flavourA.name, colorClass: `flavour-${flavourA.slug}`, emoji: FLAVOUR_EMOJI[metaA.flavourId], href: `/flavours/${flavourA.slug}` }}
+              pairB={{ name: flavourB.name, colorClass: `flavour-${flavourB.slug}`, emoji: FLAVOUR_EMOJI[metaB.flavourId], href: `/flavours/${flavourB.slug}` }}
+            />
           </div>
           {revealedCount >= 2 && (
             <div className="animate-fade-up">
-              <DimensionRow label="Flavour" compat={flavourCompat} />
+              <DimensionRow
+                label="Form"
+                compat={formCompat}
+                pairA={{ name: formA.name, colorClass: `form-${formA.slug}`, emoji: FORM_EMOJI[metaA.formId], href: `/forms/${formA.slug}` }}
+                pairB={{ name: formB.name, colorClass: `form-${formB.slug}`, emoji: FORM_EMOJI[metaB.formId], href: `/forms/${formB.slug}` }}
+              />
             </div>
           )}
           {revealedCount >= 3 && (
             <div className="animate-fade-up">
-              <DimensionRow label="Form" compat={formCompat} />
+              <DimensionRow
+                label="Bean"
+                compat={beanCompat}
+                pairA={{ name: beanA.name, colorClass: `bean-${beanA.slug}`, emoji: "🫘", href: `/beans/${beanA.slug}` }}
+                pairB={{ name: beanB.name, colorClass: `bean-${beanB.slug}`, emoji: "🫘", href: `/beans/${beanB.slug}` }}
+              />
             </div>
           )}
         </div>
@@ -407,9 +424,13 @@ function MiniIdentity({
 function DimensionRow({
   label,
   compat,
+  pairA,
+  pairB,
 }: {
   label: string;
   compat: { score: number; label: string; description: string };
+  pairA: { name: string; colorClass: string; emoji: string; href: string };
+  pairB: { name: string; colorClass: string; emoji: string; href: string };
 }) {
   return (
     <div className="bg-zinc-900/80 border-2 border-zinc-800 rounded-xl px-5 py-4 flex items-center gap-4">
@@ -423,6 +444,15 @@ function DimensionRow({
       </div>
       <div className="flex flex-col gap-0.5">
         <span className="font-semibold text-white text-sm">{compat.label}</span>
+        <span className="flex items-center gap-1 text-xs my-1.5 flex-wrap">
+          <a href={pairA.href} className={`flex items-center gap-1 px-2 py-0.5 rounded-full bg-zinc-800 border border-zinc-700 hover:border-zinc-500 transition-colors no-underline ${pairA.colorClass}`}>
+            <span>{pairA.emoji}</span>{pairA.name}
+          </a>
+          <span className="text-zinc-600">×</span>
+          <a href={pairB.href} className={`flex items-center gap-1 px-2 py-0.5 rounded-full bg-zinc-800 border border-zinc-700 hover:border-zinc-500 transition-colors no-underline ${pairB.colorClass}`}>
+            <span>{pairB.emoji}</span>{pairB.name}
+          </a>
+        </span>
         <span className="text-zinc-400 text-sm">{compat.description}</span>
       </div>
     </div>
