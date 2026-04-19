@@ -64,10 +64,38 @@ Astro glob-loaded collections:
 
 Detail pages use `getStaticPaths()` for static generation at build time.
 
+### Compatibility ([src/lib/compatibility.ts](src/lib/compatibility.ts))
+
+Compatibility is calculated across three independent dimensions — bean, flavour, and form — each scored −1, 0, +1, or +2. Scores sum to a total between −4 and +4.
+
+- `getBeanCompatibility(a, b)` — bean-pair score (78 entries, all 12×12 pairs, key sorted alphabetically)
+- `getFlavourCompatibility(a, b)` — flavour-pair score (15 entries, all 5×5 pairs)
+- `getFormCompatibility(a, b)` — form-pair score (21 entries, all 6×6 pairs)
+- `getTotalCompatibility(metaA, metaB)` — sums all three, returns `{ score, label, description }` from `TOTAL_COMPATIBILITY`
+
+`TOTAL_COMPATIBILITY` maps integer scores −4 to +4 to a label and description (e.g. score 4 = "Same Pod", score −4 = "Spoiled Batch").
+
+All pair lookups sort the two IDs alphabetically before joining as a key, so order doesn't matter.
+
+### Pages and Routing
+
+- `/` — Current season's zodiac displayed as "The Season of the [Preparation] [Bean]"
+- `/calendar` — Date picker; result displayed as "You are the [Preparation] [Bean]"
+- `/compatibility` — Two date pickers; compares two beans across bean/flavour/form dimensions
+- `/beans/` — All 12 beans listed
+- `/beans/[slug]` — Bean detail with traits and markdown body
+- `/flavours/` — All 5 flavours listed
+- `/flavours/[slug]` — Flavour detail with traits and markdown body
+- `/forms/` — All 6 forms listed
+- `/forms/[slug]` — Form detail with traits and markdown body
+
+Detail pages use `getStaticPaths()` for static generation at build time.
+
 ### Components
 
 - **`ZodiacResult.tsx`** — used on `/`, shows current season with "The Season of the [Preparation] [Bean]" heading + Era/Season/Year badges
 - **`ZodiacIdentity.tsx`** — used on `/calendar` via `ZodiacCalendar.tsx`, shows a user's personal result with "You are the [Preparation] [Bean]" heading + Era/Season/Year badges
+- **`ZodiacCompatibility.tsx`** — used on `/compatibility`, two date inputs, compares zodiacs with per-dimension rows (bean/flavour/form) and an overall total; result fades in after compare; URL params `?a=YYYY-MM-DD&b=YYYY-MM-DD` are shareable
 - The preparation name in both components uses a flavour→form gradient with the form's SVG filter applied for texture
 
 ### Styling

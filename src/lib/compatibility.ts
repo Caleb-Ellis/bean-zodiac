@@ -10,14 +10,13 @@ export const BEAN_COMPATIBILITY = {
   "adzuki-adzuki": {
     score: 1,
     label: "Carnival",
-    description:
-      "The celebration never ends, and neither does the reason to avoid what it's for.",
+    description: "The celebration never ends!",
   },
   "adzuki-black": {
     score: -1,
     label: "Locked Out",
     description:
-      "Adzuki arrives with streamers. Black doesn't answer the door.",
+      "One arrives with streamers, the other doesn't answer the door.",
   },
   "adzuki-butter": {
     score: 0,
@@ -28,7 +27,8 @@ export const BEAN_COMPATIBILITY = {
   "adzuki-cannellini": {
     score: 0,
     label: "Different Guest Lists",
-    description: "Adzuki fills the space. Cannellini had already decided who belonged in it.",
+    description:
+      "One fills the space. The other had already decided who belonged in it.",
   },
   "adzuki-chickpea": {
     score: 2,
@@ -38,38 +38,41 @@ export const BEAN_COMPATIBILITY = {
   "adzuki-edamame": {
     score: 0,
     label: "Different Calendars",
-    description: "Edamame is already done. Adzuki is still deciding whether this was worth celebrating.",
+    description:
+      "One is already done. The other is still deciding whether it was worth celebrating.",
   },
   "adzuki-fava": {
     score: 0,
     label: "Passing Through",
-    description: "Fava is already somewhere else. Adzuki is still marking the moment.",
+    description:
+      "One is already somewhere else. The other is still marking the moment.",
   },
   "adzuki-green": {
     score: 1,
     label: "Good Start",
-    description: "Green shows up first. Adzuki makes it a thing.",
+    description: "One shows up first. The other makes it a thing.",
   },
   "adzuki-kidney": {
     score: 1,
     label: "Marked",
     description:
-      "Kidney fights for it. Adzuki celebrates that it was worth fighting for.",
+      "One fights for it. The other celebrates that it was worth fighting for.",
   },
   "adzuki-mung": {
     score: 2,
     label: "Cherished",
-    description: "Mung tends the space. Adzuki fills it with light.",
+    description: "One tends the space. The other fills it with light.",
   },
   "adzuki-navy": {
     score: 0,
     label: "Different Reasons",
-    description: "Navy is there out of duty. Adzuki needs it to feel like something more.",
+    description:
+      "One is there out of duty. The other needs it to feel like something more.",
   },
   "adzuki-pinto": {
     score: 1,
     label: "Colour and Light",
-    description: "Pinto brings the story. Adzuki makes it an event.",
+    description: "One brings the story. The other makes it an event.",
   },
   "black-black": {
     score: -1,
@@ -79,7 +82,7 @@ export const BEAN_COMPATIBILITY = {
   "black-butter": {
     score: 1,
     label: "Deep Rest",
-    description: "Butter asks nothing. Black finally exhales.",
+    description: "One asks nothing. The other finally exhales.",
   },
   "black-cannellini": {
     score: 1,
@@ -89,23 +92,25 @@ export const BEAN_COMPATIBILITY = {
   "black-chickpea": {
     score: 0,
     label: "Unreached",
-    description: "Chickpea adapts to everyone. Black is not quite everyone.",
+    description: "One adapts to everyone. The other is not quite everyone.",
   },
   "black-edamame": {
     score: 1,
     label: "Parallel Lines",
-    description: "Each works alone. They understand this about each other, and leave it at that.",
+    description:
+      "Each works alone. They understand this about each other, and leave it at that.",
   },
   "black-fava": {
     score: 0,
     label: "Wary Distance",
     description:
-      "Fava moves too fast for Black to trust. Black moves too slow for Fava to wait.",
+      "One moves too fast to trust. The other moves too slow to wait.",
   },
   "black-green": {
     score: 0,
     label: "Different Orbits",
-    description: "Green burns bright and moves on. Black is still somewhere else, watching.",
+    description:
+      "One burns bright and moves on. The other is still somewhere else, watching.",
   },
   "black-kidney": {
     score: 2,
@@ -116,7 +121,8 @@ export const BEAN_COMPATIBILITY = {
   "black-mung": {
     score: 1,
     label: "Patient Earning",
-    description: "Mung doesn't push. Black doesn't bolt. Trust builds slowly.",
+    description:
+      "One doesn't push. The other doesn't bolt. Trust builds slowly.",
   },
   "black-navy": {
     score: 2,
@@ -127,7 +133,7 @@ export const BEAN_COMPATIBILITY = {
   "black-pinto": {
     score: -1,
     label: "Exposed",
-    description: "Pinto needs to be witnessed. Black finds this exhausting.",
+    description: "One needs to be witnessed. The other finds this exhausting.",
   },
   "butter-butter": {
     score: 0,
@@ -142,44 +148,47 @@ export const BEAN_COMPATIBILITY = {
   "butter-chickpea": {
     score: 2,
     label: "Good Company",
-    description: "Easy warmth, easy laughter. The most comfortable room to be in.",
+    description:
+      "Easy warmth, easy laughter. The most comfortable place to be in.",
   },
   "butter-edamame": {
     score: -1,
     label: "Different Speeds",
-    description: "Edamame has already finished. Butter hasn't started yet.",
+    description: "One has already finished. The other hasn't started yet.",
   },
   "butter-fava": {
     score: -1,
     label: "Stuck",
-    description: "Fava pushes. Butter doesn't budge.",
+    description: "One pushes. The other doesn't budge.",
   },
   "butter-green": {
     score: 0,
     label: "Missed Crossing",
-    description: "Green is already past by the time Butter has considered moving.",
+    description:
+      "One is already past by the time the other has considered moving.",
   },
   "butter-kidney": {
     score: 0,
     label: "Mismatched Urgency",
     description:
-      "Kidney needs to act. Butter needs to rest. They talk past each other.",
+      "One needs to act. The other needs to rest. They talk past each other.",
   },
   "butter-mung": {
     score: 2,
-    label: "The Softest Room",
+    label: "The Softest Place",
     description:
       "Between them: warmth, gentleness, and nothing required of anyone.",
   },
   "butter-navy": {
     score: 0,
-    label: "Same Room",
-    description: "Navy works. Butter rests. Neither finds the other wanting.",
+    label: "Same Place",
+    description: "One works. The other rests. Neither finds the other wanting.",
   },
   "butter-pinto": {
     score: 1,
     label: "Unread Audience",
-    description: "Pinto performs. Butter receives it without flinching. Pinto finds this enough.",
+    description:
+      "One performs. The other receives it without flinching. That turns out to be enough.",
   },
   "cannellini-cannellini": {
     score: -1,
@@ -189,8 +198,7 @@ export const BEAN_COMPATIBILITY = {
   "cannellini-chickpea": {
     score: -1,
     label: "Too Casual",
-    description:
-      "Chickpea adapts to everyone. Cannellini finds this undiscerning.",
+    description: "One adapts to everyone. The other finds this undiscerning.",
   },
   "cannellini-edamame": {
     score: 1,
@@ -202,34 +210,37 @@ export const BEAN_COMPATIBILITY = {
     score: -2,
     label: "Irreconcilable",
     description:
-      "Fava charges in. Cannellini had already decided this was a mistake.",
+      "One charges in. The other had already decided this was a mistake.",
   },
   "cannellini-green": {
     score: -2,
     label: "Incompatible Standards",
     description:
-      "Green is unfinished by definition. Cannellini cannot let that go.",
+      "One is unfinished by definition. The other cannot let that go.",
   },
   "cannellini-kidney": {
     score: 1,
     label: "Unlikely Depth",
     description:
-      "Kidney's rawness surprises Cannellini. Cannellini's grace surprises Kidney.",
+      "Each surprises the other — rawness on one side, grace on the other.",
   },
   "cannellini-mung": {
     score: 0,
     label: "Careful Distance",
-    description: "Both tend their spaces well. Neither quite makes room for the other.",
+    description:
+      "Both tend their spaces well. Neither quite makes room for the other.",
   },
   "cannellini-navy": {
     score: 1,
     label: "Shared Standard",
-    description: "Both precise, both principled. A quiet, surprising solidarity.",
+    description:
+      "Both precise, both principled. A quiet, surprising solidarity.",
   },
   "cannellini-pinto": {
     score: 0,
     label: "Different Languages",
-    description: "Pinto has a lot to say. Cannellini has already edited that out. Neither is wrong.",
+    description:
+      "One has a lot to say. The other has already edited that out. Neither is wrong.",
   },
   "chickpea-chickpea": {
     score: 0,
@@ -240,12 +251,13 @@ export const BEAN_COMPATIBILITY = {
   "chickpea-edamame": {
     score: 2,
     label: "Everywhere at Once",
-    description: "Chickpea opens the doors. Edamame gets things done.",
+    description: "One opens the doors. The other gets things done.",
   },
   "chickpea-fava": {
     score: 0,
     label: "Neither Finishes",
-    description: "Chickpea adapts to everything. Fava commits to nothing. A short acquaintance.",
+    description:
+      "One adapts to everything. The other commits to nothing. A short acquaintance.",
   },
   "chickpea-green": {
     score: 1,
@@ -255,7 +267,7 @@ export const BEAN_COMPATIBILITY = {
   "chickpea-kidney": {
     score: -1,
     label: "Thin Loyalty",
-    description: "Kidney commits completely. Chickpea is everyone's friend.",
+    description: "One commits completely. The other is everyone's friend.",
   },
   "chickpea-mung": {
     score: 1,
@@ -266,7 +278,7 @@ export const BEAN_COMPATIBILITY = {
     score: -1,
     label: "No Anchor",
     description:
-      "Navy wants someone planted. Chickpea is always on their way somewhere.",
+      "One wants someone planted. The other is always on their way somewhere.",
   },
   "chickpea-pinto": {
     score: 2,
@@ -283,22 +295,24 @@ export const BEAN_COMPATIBILITY = {
     score: 0,
     label: "Mutual Indifference",
     description:
-      "Fava acts on instinct. Edamame acts on logic. Neither is the other's type.",
+      "One acts on instinct. The other acts on logic. Neither is the other's type.",
   },
   "edamame-green": {
     score: 1,
     label: "Quick Work",
-    description: "Green brings the energy. Edamame gives it direction.",
+    description: "One brings the energy. The other gives it direction.",
   },
   "edamame-kidney": {
     score: 0,
     label: "Parallel Work",
-    description: "Edamame moves through. Kidney means it. The gap is quiet but real.",
+    description:
+      "One moves through. The other means it. The gap is quiet but real.",
   },
   "edamame-mung": {
     score: -1,
     label: "Unread",
-    description: "Edamame processes. Mung tends. Edamame doesn't notice it needed tending.",
+    description:
+      "One processes. The other tends. One of them doesn't notice it needed tending.",
   },
   "edamame-navy": {
     score: 2,
@@ -309,7 +323,7 @@ export const BEAN_COMPATIBILITY = {
   "edamame-pinto": {
     score: -2,
     label: "Fundamental Mismatch",
-    description: "Pinto needs to be felt. Edamame finds this inefficient.",
+    description: "One needs to be felt. The other finds this inefficient.",
   },
   "fava-fava": {
     score: -1,
@@ -325,22 +339,24 @@ export const BEAN_COMPATIBILITY = {
   "fava-kidney": {
     score: 1,
     label: "Charge",
-    description: "Kidney with purpose. Fava with abandon. Both are moving.",
+    description: "One with purpose. One with abandon. Both are moving.",
   },
   "fava-mung": {
     score: 0,
     label: "Unsteady Ground",
-    description: "Fava doesn't mean harm. Mung doesn't say so. Something is always slightly off.",
+    description:
+      "One doesn't mean harm. The other doesn't say so. Something is always slightly off.",
   },
   "fava-navy": {
     score: -1,
     label: "Head-On",
-    description: "Fava acts before asking. Navy asks before acting. They never agree on when to go.",
+    description:
+      "One acts before asking. The other asks before acting. They never agree on when to go.",
   },
   "fava-pinto": {
     score: 1,
     label: "Scene",
-    description: "Fava does it. Pinto tells everyone about it.",
+    description: "One does it. The other tells everyone about it.",
   },
   "green-green": {
     score: 0,
@@ -350,18 +366,20 @@ export const BEAN_COMPATIBILITY = {
   "green-kidney": {
     score: 1,
     label: "Different Clocks",
-    description: "Kidney runs long and deep. Green runs fast and forward. Mutual admiration from a distance.",
+    description:
+      "One runs long and deep. The other runs fast and forward. Mutual admiration from a distance.",
   },
   "green-mung": {
     score: 0,
     label: "Different Rhythms",
-    description: "Mung tends the conditions. Green has already done the growing and moved on.",
+    description:
+      "One tends the conditions. The other has already done the growing and moved on.",
   },
   "green-navy": {
     score: -2,
     label: "Point of Conflict",
     description:
-      "Green starts before it's ready. Navy doesn't start until it is.",
+      "One starts before it's ready. The other doesn't start until it is.",
   },
   "green-pinto": {
     score: 1,
@@ -377,7 +395,7 @@ export const BEAN_COMPATIBILITY = {
   "kidney-mung": {
     score: 1,
     label: "Held",
-    description: "Kidney protects everything. Mung tends to Kidney.",
+    description: "One protects everything. The other tends to the protector.",
   },
   "kidney-navy": {
     score: 2,
@@ -387,7 +405,8 @@ export const BEAN_COMPATIBILITY = {
   "kidney-pinto": {
     score: 1,
     label: "High Maintenance",
-    description: "Both feel intensely. Neither is very good at receiving. It still means something.",
+    description:
+      "Both feel intensely. Neither is very good at receiving. It still means something.",
   },
   "mung-mung": {
     score: 1,
@@ -397,12 +416,14 @@ export const BEAN_COMPATIBILITY = {
   "mung-navy": {
     score: 0,
     label: "Parallel Steadiness",
-    description: "Navy holds the structure. Mung tends the people. They don't often meet.",
+    description:
+      "One holds the structure. The other tends the people. They don't often meet.",
   },
   "mung-pinto": {
     score: 0,
     label: "Quiet Reception",
-    description: "Mung receives what Pinto brings. Neither is sure what to do with it.",
+    description:
+      "One receives what the other brings. Neither is sure what to do with it.",
   },
   "navy-navy": {
     score: 1,
@@ -412,7 +433,7 @@ export const BEAN_COMPATIBILITY = {
   "navy-pinto": {
     score: -2,
     label: "Structural Opposition",
-    description: "Navy edits everything out. Pinto puts everything in.",
+    description: "One edits everything out. The other puts everything in.",
   },
   "pinto-pinto": {
     score: -1,
@@ -442,22 +463,22 @@ export const FLAVOUR_COMPATIBILITY = {
       "Two flavours that sharpen. Together they sharpen each other, and not much else.",
   },
   "bitter-spicy": {
-    score: 0,
+    score: 1,
     label: "Controlled Burn",
     description:
-      "Both demanding in different ways. They leave each other alone.",
+      "Both demanding in different ways. The pressure is mutual and it works.",
   },
   "bitter-sweet": {
     score: 1,
     label: "The Classic",
     description:
-      "Sweet opens what Bitter would close. Each makes the other legible.",
+      "One opens what the other would close. Each makes the other legible.",
   },
   "bitter-umami": {
-    score: 1,
-    label: "Cultivated",
+    score: 0,
+    label: "Parallel Lines",
     description:
-      "Both acquired tastes. Both reward patience. They understand what the other is doing.",
+      "Both acquired tastes. They get each other, but that's not always enough.",
   },
   "sour-sour": {
     score: -1,
@@ -479,7 +500,7 @@ export const FLAVOUR_COMPATIBILITY = {
   "sour-umami": {
     score: 1,
     label: "Clarified Depth",
-    description: "Sour cuts through. Umami holds underneath.",
+    description: "One cuts through. The other holds underneath.",
   },
   "spicy-spicy": {
     score: -1,
@@ -487,16 +508,15 @@ export const FLAVOUR_COMPATIBILITY = {
     description: "Both demand full attention. Neither can give it.",
   },
   "spicy-sweet": {
-    score: 1,
-    label: "Relief",
-    description:
-      "Sweet softens the heat. Spicy wakes up what was becoming too easy.",
+    score: 0,
+    label: "Cancelled Out",
+    description: "One cools the heat before anything interesting happens.",
   },
   "spicy-umami": {
     score: 0,
     label: "Wrong Moment",
     description:
-      "Spicy wants now. Umami wants patience. They don't quite sync.",
+      "One wants now. The other wants patience. They don't quite sync.",
   },
   "sweet-sweet": {
     score: -1,
@@ -509,9 +529,9 @@ export const FLAVOUR_COMPATIBILITY = {
     description: "Both generous, both inviting. The most comfortable pairing.",
   },
   "umami-umami": {
-    score: 0,
+    score: -1,
     label: "Depth Stall",
-    description: "Rich and patient and going nowhere in particular.",
+    description: "So much patience there is nothing left to wait for.",
   },
 } satisfies Record<string, CompatibilityEntry>;
 
@@ -532,7 +552,8 @@ export const FORM_COMPATIBILITY = {
   "boiled-dried": {
     score: -1,
     label: "Incompatible Needs",
-    description: "Boiled softens through immersion. Dried rejects all of that.",
+    description:
+      "One softens through immersion. The other rejects all of that.",
   },
   "boiled-fermented": {
     score: 1,
@@ -559,7 +580,8 @@ export const FORM_COMPATIBILITY = {
   "dried-dried": {
     score: 0,
     label: "Shared Silence",
-    description: "Both austere. Both self-contained. They leave each other intact.",
+    description:
+      "Both austere. Both self-contained. They leave each other intact.",
   },
   "dried-fermented": {
     score: 1,
@@ -571,12 +593,13 @@ export const FORM_COMPATIBILITY = {
     score: -1,
     label: "No Common Ground",
     description:
-      "Dried has removed everything unnecessary. Fried adds heat to everything.",
+      "One has removed everything unnecessary. The other adds heat to everything.",
   },
   "dried-roasted": {
     score: 0,
     label: "Distant Warmth",
-    description: "Roasted reaches out. Dried doesn't refuse it, but doesn't move toward it either.",
+    description:
+      "One reaches out. The other doesn't refuse it, but doesn't move toward it either.",
   },
   "dried-smoked": {
     score: 0,
@@ -593,12 +616,12 @@ export const FORM_COMPATIBILITY = {
     score: -1,
     label: "Out of Phase",
     description:
-      "Fermented works in silence over months. Fried resolves in seconds.",
+      "One works in silence over months. The other resolves in seconds.",
   },
   "fermented-roasted": {
     score: 1,
     label: "Slow Warmth",
-    description: "Roasted makes room. Fermented arrives, eventually.",
+    description: "One makes room. The other arrives, eventually.",
   },
   "fermented-smoked": {
     score: 1,
@@ -615,13 +638,13 @@ export const FORM_COMPATIBILITY = {
   "fried-roasted": {
     score: 1,
     label: "Radiant",
-    description:
-      "Fried's decisive heat meets Roasted's generous warmth. A loud, bright pairing.",
+    description: "Decisive heat meets generous warmth. A loud, bright pairing.",
   },
   "fried-smoked": {
     score: 1,
     label: "The Spectacle",
-    description: "Fried is immediate and vivid. Smoked gives it an afterimage.",
+    description:
+      "One is immediate and vivid. The other gives it an afterimage.",
   },
   "roasted-roasted": {
     score: 0,
@@ -633,7 +656,7 @@ export const FORM_COMPATIBILITY = {
     score: 0,
     label: "Warm Haze",
     description:
-      "Roasted's openness softens Smoked's inscrutability. Close to a connection, but not quite.",
+      "One's openness softens the other's inscrutability. Close to a connection, but not quite.",
   },
   "smoked-smoked": {
     score: -1,
@@ -655,46 +678,46 @@ export const TOTAL_COMPATIBILITY: Record<
   { label: string; description: string }
 > = {
   4: {
-    label: "Perfect Match",
+    label: "Bean Harmony",
     description:
       "Bean, flavour, and form all say the same thing. A once-in-a-cycle pairing.",
   },
   3: {
-    label: "True Affinity",
+    label: "Full Flavour",
     description:
       "Near-complete resonance. The small gap is the most interesting part.",
   },
   2: {
-    label: "Strong Pull",
+    label: "Good Pairing",
     description:
       "More aligns than doesn't. The friction here is the productive kind.",
   },
   1: {
-    label: "Promising",
+    label: "Worth a Taste",
     description:
       "A real connection with room to grow. Worth meeting each other partway.",
   },
   0: {
-    label: "Open Field",
+    label: "Plain Broth",
     description:
       "Neither drawn together nor pushed apart. What happens here depends entirely on what you bring.",
   },
   "-1": {
-    label: "Uphill",
+    label: "Needs Salt",
     description: "More effort than ease. Not impossible — but not effortless.",
   },
   "-2": {
-    label: "At Odds",
+    label: "Clashing Spices",
     description:
       "Genuine incompatibility across multiple dimensions. Possible with real work. Unlikely without it.",
   },
   "-3": {
-    label: "Difficult",
+    label: "Curdled",
     description:
       "Almost every dimension pulls against the others. Proceed with honest expectations.",
   },
   "-4": {
-    label: "Contrary",
+    label: "Spoiled Batch",
     description:
       "Bean, flavour, and form all conflict. The rarest and most challenging match.",
   },

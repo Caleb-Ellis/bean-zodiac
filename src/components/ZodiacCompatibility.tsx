@@ -19,8 +19,22 @@ type Props = {
   data: ZodiacData;
 };
 
-const FADE_MS = 300;
-const RESULT_MOUNT_DELAY_MS = 150;
+const REVEAL_STEP_MS = 320;
+
+const CALC_VISIBLE_MS = 1600;
+const CALC_FADE_MS = 400;
+const CALC_CYCLE_MS = CALC_VISIBLE_MS + CALC_FADE_MS; // 2000ms
+const CALC_NUM_TEXTS = 3; // total 6000ms
+
+const CALCULATING_TEXTS = [
+  "Consulting Bean astrologers...",
+  "Divining broth...",
+  "Reading pod lines...",
+  "Steeping results...",
+  "Consulting ancient legume scrolls...",
+  "Referencing harvest charts...",
+  "Asking elders of the pod...",
+];
 
 export default function ZodiacCompatibility({ data }: Props) {
   const [inputA, setInputA] = useState<string>(
@@ -43,52 +57,131 @@ export default function ZodiacCompatibility({ data }: Props) {
   const [resultVisible, setResultVisible] = useState(
     () => !!(getParam("a") && getParam("b")),
   );
+  const [resultKey, setResultKey] = useState(0);
+  const [revealedCount, setRevealedCount] = useState(() =>
+    getParam("a") && getParam("b") ? 4 : 0,
+  );
+  const [calculatingText, setCalculatingText] = useState<string | null>(null);
+  const [calculatingVisible, setCalculatingVisible] = useState(false);
+  const [formVisible, setFormVisible] = useState(
+    () => !(getParam("a") && getParam("b")),
+  );
+  const generationRef = useRef(0);
   const topRef = useRef<HTMLDivElement>(null);
 
   function handleCompare() {
     if (!inputA || !inputB) return;
+    const generation = ++generationRef.current;
+    const guard = (fn: () => void) => () => {
+      if (generationRef.current === generation) fn();
+    };
+
     const a = parseDate(inputA);
     const b = parseDate(inputB);
     const url = new URL(window.location.href);
     url.searchParams.set("a", inputA);
     url.searchParams.set("b", inputB);
     window.history.pushState({}, "", url);
-    setDateA(a);
-    setDateB(b);
-    setResultMounted(false);
-    setResultVisible(false);
-    setTimeout(() => {
+
+    setFormVisible(false);
+    setRevealedCount(0);
+    setCalculatingVisible(false);
+
+    const mount = guard(() => {
+      setDateA(a);
+      setDateB(b);
+      setResultKey((k) => k + 1);
       setResultMounted(true);
+      setResultVisible(true);
+
+      const shuffled = [...CALCULATING_TEXTS].sort(() => Math.random() - 0.5);
+      const texts = shuffled.slice(0, CALC_NUM_TEXTS);
+
+      setCalculatingText(texts[0]);
+      requestAnimationFrame(guard(() => setCalculatingVisible(true)));
+
+      for (let i = 1; i < CALC_NUM_TEXTS; i++) {
+        setTimeout(
+          guard(() => setCalculatingVisible(false)),
+          i * CALC_CYCLE_MS - CALC_FADE_MS,
+        );
+        setTimeout(
+          guard(() => {
+            setCalculatingText(texts[i]);
+            requestAnimationFrame(guard(() => setCalculatingVisible(true)));
+          }),
+          i * CALC_CYCLE_MS,
+        );
+      }
+
+      const revealAt = CALC_NUM_TEXTS * CALC_CYCLE_MS;
       setTimeout(
-        () => requestAnimationFrame(() => setResultVisible(true)),
-        RESULT_MOUNT_DELAY_MS,
+        guard(() => setCalculatingVisible(false)),
+        revealAt - CALC_FADE_MS,
       );
-    }, FADE_MS);
+      setTimeout(
+        guard(() => {
+          setCalculatingText(null);
+          for (let i = 1; i <= 4; i++) {
+            setTimeout(
+              guard(() => setRevealedCount(i)),
+              i * REVEAL_STEP_MS,
+            );
+          }
+        }),
+        revealAt,
+      );
+    });
+
+    if (resultMounted) {
+      setResultVisible(false);
+      setCalculatingText(null);
+    }
+    setTimeout(mount, 500);
   }
 
   function handleReset() {
+    generationRef.current++;
+    setCalculatingText(null);
+    setCalculatingVisible(false);
     setResultVisible(false);
     setTimeout(() => {
       setResultMounted(false);
+      setRevealedCount(0);
+      setFormVisible(true);
       const url = new URL(window.location.href);
       url.searchParams.delete("a");
       url.searchParams.delete("b");
       window.history.pushState({}, "", url);
       topRef.current?.scrollIntoView({ behavior: "smooth", block: "start" });
-    }, FADE_MS);
+    }, 300);
   }
 
   return (
-    <div ref={topRef} className="flex flex-col items-center w-full gap-16">
-      <div className="flex flex-col items-center gap-6 w-64">
-        <DateField label="First Bean" value={inputA} onChange={setInputA} />
-        <DateField label="Second Bean" value={inputB} onChange={setInputB} />
-        <button
-          onClick={handleCompare}
-          className="mt-5 w-full bg-zinc-900/80 border border-zinc-500/60 text-white rounded-xl px-8 py-2.5 text-base font-bold backdrop-blur-sm transition-all duration-200 hover:border-zinc-400 hover:bg-zinc-800/80 cursor-pointer"
-        >
-          Compare Beans
-        </button>
+    <div ref={topRef} className="flex flex-col items-center w-full">
+      <div
+        className={`grid transition-all duration-500 w-64 ${
+          formVisible
+            ? "grid-rows-[1fr] opacity-100"
+            : "grid-rows-[0fr] opacity-0"
+        }`}
+      >
+        <div className="overflow-hidden">
+          <div className="flex flex-col items-center gap-6 pb-16">
+            <DateField label="First Bean" value={inputA} onChange={setInputA} />
+            <DateField
+              label="Second Bean"
+              value={inputB}
+              onChange={setInputB}
+            />
+            <button
+              onClick={handleCompare}
+              className="mt-5 w-full bg-zinc-900/80 border border-zinc-500/60 text-white rounded-xl px-8 py-2.5 text-base font-bold backdrop-blur-sm transition-all duration-200 hover:border-zinc-400 hover:bg-zinc-800/80 cursor-pointer"
+            >
+              Match Beans
+            </button>
+          </div>
+        </div>
       </div>
 
       {resultMounted && dateA && dateB && (
@@ -97,13 +190,36 @@ export default function ZodiacCompatibility({ data }: Props) {
             resultVisible ? "opacity-100" : "opacity-0"
           }`}
         >
-          <CompatibilityResult data={data} dateA={dateA} dateB={dateB} />
-          <button
-            onClick={handleReset}
-            className="bg-zinc-900/80 border border-zinc-500/60 text-white rounded-xl px-8 py-4 text-lg font-bold backdrop-blur-sm transition-all duration-200 hover:border-zinc-400 hover:bg-zinc-800/80 cursor-pointer"
-          >
-            Compare Different Beans
-          </button>
+          <CompatibilityResult
+            key={resultKey}
+            data={data}
+            dateA={dateA}
+            dateB={dateB}
+            revealedCount={revealedCount}
+            calculatingText={calculatingText}
+            calculatingVisible={calculatingVisible}
+          />
+          {revealedCount >= 4 && (
+            <button
+              onClick={handleReset}
+              className="animate-fade-up bg-zinc-900/80 border border-zinc-500/60 text-white rounded-xl px-8 py-4 text-lg font-bold backdrop-blur-sm transition-all duration-200 hover:border-zinc-400 hover:bg-zinc-800/80 cursor-pointer"
+            >
+              Match More Beans
+              <svg
+                xmlns="http://www.w3.org/2000/svg"
+                viewBox="0 0 24 24"
+                fill="none"
+                stroke="currentColor"
+                strokeWidth="2.5"
+                strokeLinecap="round"
+                strokeLinejoin="round"
+                className="inline-block ml-1.5 w-4 h-4 align-[-0.125em]"
+              >
+                <path d="M3 12a9 9 0 1 0 9-9 9.75 9.75 0 0 0-6.74 2.74L3 8" />
+                <path d="M3 3v5h5" />
+              </svg>
+            </button>
+          )}
         </div>
       )}
     </div>
@@ -138,10 +254,16 @@ function CompatibilityResult({
   data,
   dateA,
   dateB,
+  revealedCount,
+  calculatingText,
+  calculatingVisible,
 }: {
   data: ZodiacData;
   dateA: Date;
   dateB: Date;
+  revealedCount: number;
+  calculatingText: string | null;
+  calculatingVisible: boolean;
 }) {
   const metaA = getZodiacMetadataForDate(dateA);
   const metaB = getZodiacMetadataForDate(dateB);
@@ -166,8 +288,7 @@ function CompatibilityResult({
   const total = getTotalCompatibility(metaA, metaB);
 
   return (
-    <div className="flex flex-col items-center gap-16 w-full animate-fade-up">
-      {/* Two identity panels */}
+    <div className="flex flex-col items-center gap-12 w-full animate-fade-up">
       <div className="flex flex-col sm:flex-row gap-6 sm:gap-12 justify-center items-center sm:items-start w-full max-w-2xl">
         <MiniIdentity
           beanSlug={beanA.slug}
@@ -194,25 +315,47 @@ function CompatibilityResult({
         />
       </div>
 
-      {/* Compatibility breakdown */}
-      <div className="w-full max-w-lg flex flex-col gap-3">
-        <DimensionRow label="Bean" compat={beanCompat} />
-        <DimensionRow label="Flavour" compat={flavourCompat} />
-        <DimensionRow label="Form" compat={formCompat} />
-      </div>
-
-      {/* Total */}
-      <div className="bg-zinc-900/80 border border-zinc-700/60 rounded-xl px-6 py-5 backdrop-blur-sm max-w-lg w-full text-center">
-        <p className="text-xs uppercase tracking-widest text-zinc-400 mb-2">
-          Overall
-        </p>
+      {calculatingText && (
         <p
-          className={`text-2xl sm:text-3xl font-bold mb-2 ${scoreColor(total.score)}`}
+          className={`text-zinc-300 text-lg italic transition-opacity duration-400 ${
+            calculatingVisible ? "opacity-100" : "opacity-0"
+          }`}
         >
-          {total.label}
+          {calculatingText}
         </p>
-        <p className="text-zinc-300 text-sm">{total.description}</p>
-      </div>
+      )}
+
+      {revealedCount >= 1 && (
+        <div className="w-full max-w-lg flex flex-col gap-3">
+          <div className="animate-fade-up">
+            <DimensionRow label="Bean" compat={beanCompat} />
+          </div>
+          {revealedCount >= 2 && (
+            <div className="animate-fade-up">
+              <DimensionRow label="Flavour" compat={flavourCompat} />
+            </div>
+          )}
+          {revealedCount >= 3 && (
+            <div className="animate-fade-up">
+              <DimensionRow label="Form" compat={formCompat} />
+            </div>
+          )}
+        </div>
+      )}
+
+      {revealedCount >= 4 && (
+        <div className="animate-fade-up bg-zinc-900/80 border border-zinc-700/60 rounded-xl px-6 py-5 backdrop-blur-sm max-w-lg w-full text-center">
+          <p className="text-xs uppercase tracking-widest text-zinc-400 mb-2">
+            Overall
+          </p>
+          <p
+            className={`text-2xl sm:text-3xl font-bold mb-2 ${scoreColor(total.score)}`}
+          >
+            {total.label}
+          </p>
+          <p className="text-zinc-300 text-sm">{total.description}</p>
+        </div>
+      )}
     </div>
   );
 }
@@ -238,7 +381,7 @@ function MiniIdentity({
 }) {
   return (
     <div className="flex flex-col items-center gap-7 flex-1 text-center">
-      <div className="h-56 flex items-center justify-center">
+      <div className="h-48 flex items-center justify-center">
         <Bean bean={bean} flavourId={flavourId} formId={formId} />
       </div>
       <p className="font-bold text-lg leading-tight">
@@ -285,11 +428,15 @@ function DimensionRow({
 }
 
 function scoreColor(score: number): string {
-  if (score >= 2) return "text-emerald-400";
+  if (score >= 4) return "score-gold";
+  if (score === 3) return "score-gleam";
+  if (score === 2) return "text-emerald-400";
   if (score === 1) return "text-green-500";
   if (score === 0) return "text-zinc-400";
   if (score === -1) return "text-amber-500";
-  return "text-red-400";
+  if (score === -2) return "text-red-400";
+  if (score === -3) return "score-smolder";
+  return "score-rot";
 }
 
 function getParam(key: string): string | null {

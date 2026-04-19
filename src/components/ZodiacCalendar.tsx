@@ -156,9 +156,15 @@ export default function ZodiacCalendar({ data }: Props) {
             date={selectedDate}
           />
           <div className="mt-8 flex flex-col items-center gap-6">
+            <a
+              href={`/compatibility?a=${inputDate}`}
+              className="bg-zinc-900/80 border border-zinc-500/60 text-white rounded-xl px-8 py-4 font-bold backdrop-blur-sm transition-all duration-200 hover:border-zinc-400 hover:text-white hover:bg-zinc-800/80 text-center"
+            >
+              Check compatibility →
+            </a>
             <button
               onClick={handleReset}
-              className="bg-zinc-900/80 border border-zinc-500/60 text-white rounded-xl px-8 py-4 font-bold backdrop-blur-sm transition-all duration-200 hover:border-zinc-400 hover:text-white hover:bg-zinc-800/80 cursor-pointer"
+              className="link text-base text-zinc-300 hover:text-white transition-colors cursor-pointer bg-transparent border-none p-0"
             >
               {moreBeanLabel}{" "}
               <svg
@@ -175,12 +181,6 @@ export default function ZodiacCalendar({ data }: Props) {
                 <path d="M3 3v5h5" />
               </svg>
             </button>
-            <a
-              href={`/compatibility?a=${inputDate}`}
-              className="link text-base text-zinc-300 hover:text-white transition-colors"
-            >
-              Check compatibility →
-            </a>
           </div>
         </div>
       )}

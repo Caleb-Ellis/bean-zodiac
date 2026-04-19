@@ -1,12 +1,6 @@
 ---
 const tabs = [
   {
-    href: "/calendar",
-    label: "Who Am I?",
-    match: (p: string) => p === "/calendar",
-    emoji: "❓",
-  },
-  {
     href: "/beans",
     label: "Beans",
     match: (p: string) => p.startsWith("/beans"),
@@ -26,33 +20,49 @@ const tabs = [
   },
   {
     href: "/compatibility",
-    label: "Compat",
+    label: "Match",
     match: (p: string) => p.startsWith("/compatibility"),
     emoji: "❤️",
+  },
+  {
+    href: "/calendar",
+    label: "Who Am I?",
+    match: (p: string) => p === "/calendar",
+    emoji: "❓",
   },
 ];
 
 const current = Astro.url.pathname;
 ---
 
-<nav class="fixed bottom-0 inset-x-0 md:hidden z-50 bg-zinc-950/95 backdrop-blur-sm border-t border-zinc-800" style="padding-bottom: env(safe-area-inset-bottom, 0px)">
+<nav
+  class="fixed bottom-0 inset-x-0 md:hidden z-50 bg-zinc-950/95 backdrop-blur-sm border-t border-zinc-800"
+  style="padding-bottom: env(safe-area-inset-bottom, 0px)"
+>
   <ul class="flex list-none m-0 p-0">
-    {tabs.map(({ href, label, emoji, match }) => {
-      const isActive = match(current);
-      return (
-        <li class="flex-1">
-          <a
-            href={href}
-            class:list={[
-              "flex flex-col items-center gap-1 py-3 text-xs transition-colors",
-              isActive ? "text-white" : "text-zinc-500 hover:text-zinc-300",
-            ]}
-          >
-            <span style="filter: brightness(0) invert(1); font-size: 20px; line-height: 1" aria-hidden="true">{emoji}</span>
-            {label}
-          </a>
-        </li>
-      );
-    })}
+    {
+      tabs.map(({ href, label, emoji, match }) => {
+        const isActive = match(current);
+        return (
+          <li class="flex-1">
+            <a
+              href={href}
+              class:list={[
+                "flex flex-col items-center gap-1 py-3 text-xs transition-colors",
+                isActive ? "text-white" : "text-zinc-500 hover:text-zinc-300",
+              ]}
+            >
+              <span
+                style="filter: brightness(0) invert(1); font-size: 20px; line-height: 1"
+                aria-hidden="true"
+              >
+                {emoji}
+              </span>
+              {label}
+            </a>
+          </li>
+        );
+      })
+    }
   </ul>
 </nav>
