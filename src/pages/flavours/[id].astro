@@ -19,7 +19,7 @@ const { Content: FlavourContent } = await render(flavour);
 
 <Layout
   title={`${flavour.data.name} Flavour`}
-  description={`The ${flavour.data.name} Flavour of the Bean Zodiac: ${flavour.data.traits.join(", ")}.`}
+  description={`The ${flavour.data.name} Flavour of the Bean Zodiac`}
 >
   <article
     class="rounded-2xl bg-zinc-900 border-2 border-zinc-800 overflow-hidden max-w-2xl mx-auto"
@@ -36,9 +36,13 @@ const { Content: FlavourContent } = await render(flavour);
         >
           ← All Flavours
         </a>
-        <h1 class={`text-3xl font-bold flavour-${flavour.id} flex items-center gap-3`}>
+        <h1
+          class={`text-3xl font-bold flavour-${flavour.id} flex items-center gap-3`}
+        >
           {flavour.data.name}
-          <span style="font-size: 0.9em;">{FLAVOUR_EMOJI[flavour.id as keyof typeof FLAVOUR_EMOJI]}</span>
+          <span style="font-size: 0.9em;"
+            >{FLAVOUR_EMOJI[flavour.id as keyof typeof FLAVOUR_EMOJI]}</span
+          >
         </h1>
         <ul class="flex flex-wrap gap-1.5 list-none p-0 m-0">
           {

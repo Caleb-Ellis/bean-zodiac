@@ -9,7 +9,7 @@ const beans = await getCollection("beans");
 
 <Layout
   title="The Twelve Beans"
-  description="The twelve bean varieties of the Bean Zodiac, each with its own character, fortune, and wisdom."
+  description="Each Bean carries its own character, wisdom, and fortune"
 >
   <section class="py-12 text-center">
     <h1 class="text-4xl sm:text-5xl font-bold">The Twelve Beans</h1>
@@ -17,9 +17,9 @@ const beans = await getCollection("beans");
       Each Bean carries its own character, wisdom, and fortune.
     </p>
     <p class="flex flex-col items-center mt-2 sm:mt-4">
-      <a class="link text-xl font-bold" href="/calendar"
-        >Which Bean are You?&nbsp;→</a
-      >
+      <a class="link text-xl font-bold" href="/calendar">
+        Which Bean are You?&nbsp;→
+      </a>
     </p>
   </section>
   <ul
@@ -33,7 +33,9 @@ const beans = await getCollection("beans");
           </a>
           <div class="p-4">
             <h2 class={`text-lg font-semibold bean-${bean.id}`}>
-              <a class="link" href={`/beans/${bean.id}`}>{bean.data.name}</a>
+              <a class="link" href={`/beans/${bean.id}`}>
+                {bean.data.name}
+              </a>
             </h2>
             <p class="text-sm text-zinc-300 mt-1">{bean.data.tagline}</p>
             <ul class="flex flex-wrap gap-1.5 mt-3 list-none p-0 m-0">
