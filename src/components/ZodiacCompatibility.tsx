@@ -367,10 +367,8 @@ function CompatibilityResult({
           <p className="text-xs uppercase tracking-widest text-zinc-400 mb-2">
             Overall
           </p>
-          <p
-            className={`text-2xl sm:text-3xl font-bold mb-2 ${scoreColor(total.score)}`}
-          >
-            {total.label}
+          <p className="text-2xl sm:text-3xl font-bold mb-2">
+            <span className={scoreColor(total.score)}>{total.label}</span>
           </p>
           <p className="text-zinc-300 text-sm">{total.description}</p>
         </div>

@@ -1,103 +1,74 @@
 # CLAUDE.md
 
-This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
-
 ## Commands
 
 ```bash
-pnpm dev          # Start dev server
-pnpm build        # Build for production
-pnpm preview      # Preview production build
-
-pnpm fmt          # Format with oxfmt
-pnpm fmt:check    # Check formatting without writing
-pnpm lint         # Lint with oxlint
-pnpm lint:fix     # Lint and auto-fix
+pnpm dev / build / preview
+pnpm fmt / fmt:check / lint / lint:fix
 ```
 
 ## Architecture
 
-**Bean Zodiac** is an Astro 6 static site — a playful Chinese zodiac analog using beans instead of animals.
+**Bean Zodiac** — Astro 6 static site, a playful Chinese zodiac analog using beans.
 
-### Zodiac System ([src/lib/zodiac.ts](src/lib/zodiac.ts))
+- **12 beans × 5 flavours × 6 forms = 360-combination cycle**
+- New year switches **March 12** annually. Reference date: 12 March 1993.
+- Main call chain: `getCurrentBeanZodiac()` → `getBeanZodiacForYear(beanYear)`
 
-The core of the app. Key concepts:
+### Preparations
 
-- **12 beans** × **5 flavours** × **6 forms** = **360-combination cycle**
-- New year switches on **March 12** annually (not Chinese New Year)
-- Reference Date is 12 March 1993 - this is when the Bean Zodiac started
-- `getCurrentBeanZodiac()` → `getBeanZodiacForYear(beanYear)` is the main call chain
-
-### Preparations ([src/lib/zodiac.ts](src/lib/zodiac.ts))
-
-A **Preparation** is the named synthesis of a Flavour × Form combination — e.g. Sweet + Fried = **Caramelised**. There are 30 preparations (5 × 6). They are defined as a lookup constant `PREPARATION_NAMES` in `zodiac.ts` and accessed via `getPreparationName(flavourId, formId)`. No content collection — names only.
-
-Full table:
+A **Preparation** = Flavour × Form name (30 total). Lookup: `getPreparationName(flavourId, formId)` via `PREPARATION_NAMES` in `zodiac.ts`.
 
 |        | boiled   | dried        | fermented | fried       | roasted      | smoked      |
 | ------ | -------- | ------------ | --------- | ----------- | ------------ | ----------- |
-| bitter | Decocted | Desiccated   | Tinctured | Scorched    | Dark Roasted | Ashen       |
+| bitter | Decocted | Desiccated   | Tinctured | Scorched    | Dark-Roasted | Ashen       |
 | sour   | Brined   | Dehydrated   | Pickled   | Brightened  | Charred      | Cold-Smoked |
 | spicy  | Braised  | Sichuan      | Kimchi    | Red-Hot     | Peri-Peri    | Chipotle    |
 | sweet  | Candied  | Crystallised | Honeyed   | Caramelised | Glazed       | Barbecued   |
 | umami  | Dashi    | Aged         | Miso      | Tempura     | Bronzed      | Burnished   |
 
-### Content Collections ([src/content.config.ts](src/content.config.ts))
+### Content Collections
 
-Astro glob-loaded collections:
+- **`beans/`** — 12 files (name, tagline, traits[], color, optional modelFile)
+- **`flavours/`** — 5 files (name, character, traits[], color)
+- **`forms/`** — 6 files: boiled, dried, fermented, fried, roasted, smoked (name, tagline, traits[])
+- **`zodiacs/`** — 360 files, filename `{flavour}-{form}-{bean}.md`, frontmatter: slug, bean, flavour, form, trait, dish, quote, fortune. Reference style: `bitter-boiled-adzuki.md`.
 
-- **`beans/`** — 12 markdown files, one per bean (name, tagline, traits[], color CSS hex, optional modelFile)
-- **`flavours/`** — 5 markdown files, one per flavour (name, character, traits[], color CSS hex)
-- **`forms/`** — 6 markdown files: boiled, dried, fermented, fried, roasted, smoked (name, tagline, traits[])
-- **`zodiacs/`** — 360 markdown files, one per bean×flavour×form combination. Filename: `{flavour}-{form}-{bean}.md`. Frontmatter: slug, bean, flavour, form, trait, dish, quote, fortune. Body opens: "[Form] Beans born in the Year of the [Flavour] [Bean] are the Bean Zodiac's most [trait]." Reference file for style: `bitter-boiled-adzuki.md`.
+### Pages
 
-### Pages and Routing
+- `/` — "The Season of the [Preparation] [Bean]"
+- `/calendar` — date picker → "You are the [Preparation] [Bean]"
+- `/compatibility` — two date pickers, shareable via `?a=YYYY-MM-DD&b=YYYY-MM-DD`
+- `/beans/`, `/beans/[slug]`, `/flavours/`, `/flavours/[slug]`, `/forms/`, `/forms/[slug]`
 
-- `/` — Current season's zodiac displayed as "The Season of the [Preparation] [Bean]"
-- `/calendar` — Date picker; result displayed as "You are the [Preparation] [Bean]"
-- `/beans/` — All 12 beans listed
-- `/beans/[slug]` — Bean detail with traits and markdown body
-- `/flavours/` — All 5 flavours listed
-- `/flavours/[slug]` — Flavour detail with traits and markdown body
-- `/forms/` — All 6 forms listed
-- `/forms/[slug]` — Form detail with traits and markdown body
+### Rarity
 
-Detail pages use `getStaticPaths()` for static generation at build time.
+`getRarityForDate(date)` — days since reference date mod 20:
 
-### Compatibility ([src/lib/compatibility.ts](src/lib/compatibility.ts))
+- **Artisan** — day 0 — 1-in-20 — `#fcd34d`
+- **Market** — days 4, 8, 12, 16 — 4-in-20 — `#6ee7b7`
+- **Garden** — all others — 15-in-20 — `#ffffff`
 
-Compatibility is calculated across three independent dimensions — bean, flavour, and form — each scored −1, 0, +1, or +2. Scores sum to a total between −4 and +4.
+Exposed as `rarityId` on `ZodiacMetadata`. Badge in `ZodiacIdentity.tsx`. Wheel center fills/glows in rarity color on activation (`RARITY_CENTRE_COLOR` in `ZodiacWheel.tsx`).
 
-- `getBeanCompatibility(a, b)` — bean-pair score (78 entries, all 12×12 pairs, key sorted alphabetically)
-- `getFlavourCompatibility(a, b)` — flavour-pair score (15 entries, all 5×5 pairs)
-- `getFormCompatibility(a, b)` — form-pair score (21 entries, all 6×6 pairs)
-- `getTotalCompatibility(metaA, metaB)` — sums all three, returns `{ score, label, description }` from `TOTAL_COMPATIBILITY`
+### Compatibility
 
-`TOTAL_COMPATIBILITY` maps integer scores −4 to +4 to a label and description (e.g. score 4 = "Same Pod", score −4 = "Spoiled Batch").
+Scores across bean, flavour, form — each −1/0/+1/+2 — total −4 to +4.
 
-All pair lookups sort the two IDs alphabetically before joining as a key, so order doesn't matter.
+- `getBeanCompatibility(a, b)` — 78 entries
+- `getFlavourCompatibility(a, b)` — 15 entries
+- `getFormCompatibility(a, b)` — 21 entries
+- `getTotalCompatibility(metaA, metaB)` → `{ score, label, description }` from `TOTAL_COMPATIBILITY` (score 4 = "Same Pod", −4 = "Spoiled Batch")
 
-### Pages and Routing
-
-- `/` — Current season's zodiac displayed as "The Season of the [Preparation] [Bean]"
-- `/calendar` — Date picker; result displayed as "You are the [Preparation] [Bean]"
-- `/compatibility` — Two date pickers; compares two beans across bean/flavour/form dimensions
-- `/beans/` — All 12 beans listed
-- `/beans/[slug]` — Bean detail with traits and markdown body
-- `/flavours/` — All 5 flavours listed
-- `/flavours/[slug]` — Flavour detail with traits and markdown body
-- `/forms/` — All 6 forms listed
-- `/forms/[slug]` — Form detail with traits and markdown body
-
-Detail pages use `getStaticPaths()` for static generation at build time.
+All lookups sort IDs alphabetically before joining as key.
 
 ### Components
 
-- **`ZodiacResult.tsx`** — used on `/`, shows current season with "The Season of the [Preparation] [Bean]" heading + Era/Season/Year badges
-- **`ZodiacIdentity.tsx`** — used on `/calendar` via `ZodiacCalendar.tsx`, shows a user's personal result with "You are the [Preparation] [Bean]" heading + Era/Season/Year badges
-- **`ZodiacCompatibility.tsx`** — used on `/compatibility`, two date inputs, compares zodiacs with per-dimension rows (bean/flavour/form) and an overall total; result fades in after compare; URL params `?a=YYYY-MM-DD&b=YYYY-MM-DD` are shareable
-- The preparation name in both components uses a flavour→form gradient with the form's SVG filter applied for texture
+- **`ZodiacResult.tsx`** — `/`, current season + Era/Season/Year badges
+- **`ZodiacIdentity.tsx`** — `/calendar`, personal result + badges
+- **`ZodiacCompatibility.tsx`** — `/compatibility`, per-dimension rows with overall total
+- Preparation name uses a flavour→form gradient with the form's SVG filter for texture
 
 ### Styling
 
-Tailwind CSS 4 via `@tailwindcss/vite`. Each bean and element has a CSS hex color for per-page theming. Component-scoped styles live in `.astro` files.
+Tailwind CSS 4 via `@tailwindcss/vite`. Per-element CSS hex colors for theming. Component-scoped styles in `.astro` files.

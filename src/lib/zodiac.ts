@@ -101,7 +101,7 @@ export const PREPARATION_NAMES: Record<`${FlavourId}-${FormId}`, string> = {
   "bitter-dried": "Desiccated",
   "bitter-fermented": "Tinctured",
   "bitter-fried": "Scorched",
-  "bitter-roasted": "Dark Roasted",
+  "bitter-roasted": "Dark-Roasted",
   "bitter-smoked": "Ashen",
   "sour-boiled": "Brined",
   "sour-dried": "Dehydrated",
@@ -154,11 +154,36 @@ export type Form = FormSchema & { content: string };
 
 export type ZodiacId = `${FlavourId}-${FormId}-${BeanId}`;
 export type Zodiac = ZodiacSchema & { content: string };
+
+export const RarityIds = {
+  Store: "store",
+  Market: "market",
+  Heirloom: "heirloom",
+} as const;
+export type RarityId = (typeof RarityIds)[keyof typeof RarityIds];
+
+const ORIGIN_DATE = new Date(
+  BEAN_ZODIAC_REFERENCE_YEAR,
+  BEAN_ZODIAC_REFERENCE_MONTH - 1,
+  BEAN_ZODIAC_REFERENCE_DAY,
+);
+
+export const getRarityForDate = (date: Date): RarityId => {
+  const days = Math.floor(
+    (date.getTime() - ORIGIN_DATE.getTime()) / 86_400_000,
+  );
+  const r = ((days % 20) + 20) % 20;
+  if (r === 0) return RarityIds.Heirloom;
+  if (r === 4 || r === 8 || r === 12 || r === 16) return RarityIds.Market;
+  return RarityIds.Store;
+};
+
 export type ZodiacMetadata = {
   zodiacId: ZodiacId;
   beanId: BeanId;
   flavourId: FlavourId;
   formId: FormId;
+  rarityId: RarityId;
   startDate: Date;
   endDate: Date;
 };
@@ -224,6 +249,7 @@ export const getZodiacMetadataForDate = (date: Date): ZodiacMetadata => {
     beanId,
     flavourId,
     formId,
+    rarityId: getRarityForDate(date),
     startDate,
     endDate,
   };

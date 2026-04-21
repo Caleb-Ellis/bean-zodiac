@@ -9,8 +9,8 @@ quote: A bean by any other name would taste as fine.
 fortune: The refinement you carry will be aimed at something — turn it toward the surroundings rather than at them.
 ---
 
-Dark Roasted Cannellini Beans are the Bean Zodiac's most refined — they improve everything they touch.
+Dark-Roasted Cannellini Beans are the Bean Zodiac's most refined — they improve everything they touch.
 
 Cannellini Bean improves through presence; Bitter Beans keep refinement from sliding into mere ornament; Roasted Beans fill the room, coaxing arrangements outward.
 
-The Dark Roasted Cannellini Bean's challenge is approachability. Refinement that signals too clearly becomes intimidating. They must remember the goal is elevating surroundings, not replacing them.
+The Dark-Roasted Cannellini Bean's challenge is approachability. Refinement that signals too clearly becomes intimidating. They must remember the goal is elevating surroundings, not replacing them.

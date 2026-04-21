@@ -8,10 +8,18 @@ import {
   FLAVOUR_ORDER,
   FORM_EMOJI,
   FORM_ORDER,
+  RarityIds,
   getBeanYear,
   getFormIdForDate,
+  getRarityForDate,
 } from "../lib/zodiac";
 import type { FormId } from "../lib/zodiac";
+
+const RARITY_CENTRE_COLOR: Record<string, string> = {
+  [RarityIds.Store]: "#ffffff",
+  [RarityIds.Market]: "#6ee7b7",
+  [RarityIds.Heirloom]: "#fcd34d",
+};
 
 // Wheel centre
 const CX = 100;
@@ -80,7 +88,12 @@ function makeFilter(id: string, color: string, spread: string) {
 
 const BEAN_GEOMETRY = BEAN_ORDER.map((beanId, i) => {
   const mid = 90 - i * BEAN_SEG;
-  const path = annularSector(BEAN_R1, BEAN_R2, mid - BEAN_SEG / 2 + GAP, mid + BEAN_SEG / 2 - GAP);
+  const path = annularSector(
+    BEAN_R1,
+    BEAN_R2,
+    mid - BEAN_SEG / 2 + GAP,
+    mid + BEAN_SEG / 2 - GAP,
+  );
   const { x, y } = toXY((BEAN_R1 + BEAN_R2) / 2, mid);
   return { beanId, path, x, y, mid };
 });
@@ -134,15 +147,41 @@ const STATIC_FILTERS = (
     {makeFilter("f-centre-a", ACTIVE_DARK, "-50%")}
     <filter key="f-white" id="f-white">
       <feComponentTransfer>
-        <feFuncR type="linear" slope="0" intercept="1"/>
-        <feFuncG type="linear" slope="0" intercept="1"/>
-        <feFuncB type="linear" slope="0" intercept="1"/>
+        <feFuncR type="linear" slope="0" intercept="1" />
+        <feFuncG type="linear" slope="0" intercept="1" />
+        <feFuncB type="linear" slope="0" intercept="1" />
       </feComponentTransfer>
     </filter>
   </>
 );
 
-export const BEANS_LETTERS = ["B","E","E","E","E","E","E","E","E","E","E","E","E","E","E","E","E","E","E","E","E","A","N","S","!"];
+export const BEANS_LETTERS = [
+  "B",
+  "E",
+  "E",
+  "E",
+  "E",
+  "E",
+  "E",
+  "E",
+  "E",
+  "E",
+  "E",
+  "E",
+  "E",
+  "E",
+  "E",
+  "E",
+  "E",
+  "E",
+  "E",
+  "E",
+  "E",
+  "A",
+  "N",
+  "S",
+  "!",
+];
 
 // ---------------------------------------------------------------------------
 
@@ -153,7 +192,12 @@ type Props = {
   beansVisible?: boolean;
 };
 
-export default function ZodiacWheel({ date, highlight = true, beansLetterCount, beansVisible }: Props) {
+export default function ZodiacWheel({
+  date,
+  highlight = true,
+  beansLetterCount,
+  beansVisible,
+}: Props) {
   const {
     absOuter,
     absInner,
@@ -165,6 +209,8 @@ export default function ZodiacWheel({ date, highlight = true, beansLetterCount, 
     flavourIdx,
     formIdx,
   } = computeTargets(date);
+
+  const centreColor = RARITY_CENTRE_COLOR[getRarityForDate(date)];
 
   const prevAbsOuter = useRef(absOuter);
   const prevAbsInner = useRef(absInner);
@@ -380,30 +426,44 @@ export default function ZodiacWheel({ date, highlight = true, beansLetterCount, 
       {/* Centre bean emoji */}
       <g style={{ userSelect: "none", pointerEvents: "none" }}>
         <circle
-          cx={CX} cy={CY} r={12}
-          fill={centreActive ? "white" : "transparent"}
-          stroke="white"
+          cx={CX}
+          cy={CY}
+          r={12}
+          fill={centreActive ? centreColor : "transparent"}
+          stroke={centreActive ? centreColor : "white"}
           strokeWidth="1.5"
           opacity={0.9}
-          style={{ transition: "fill 0.5s ease" }}
+          style={{
+            transition: "fill 0.5s ease, filter 0.5s ease",
+            filter: centreActive
+              ? `drop-shadow(0 0 5px ${centreColor}) drop-shadow(0 0 10px ${centreColor})`
+              : "none",
+          }}
         />
         <circle
-          cx={CX} cy={CY} r={12}
-          fill="white"
+          cx={CX}
+          cy={CY}
+          r={12}
+          fill={centreColor}
           style={{
             transformOrigin: `${CX}px ${CY}px`,
             opacity: centreActive ? undefined : 0,
-            animation: centreActive ? "centre-glow 1s ease-out forwards" : "none",
+            animation: centreActive
+              ? "centre-glow 1s ease-out forwards"
+              : "none",
             willChange: "transform, opacity",
             pointerEvents: "none",
           }}
         />
         <text
-          x={CX} y={CY + 1}
+          x={CX}
+          y={CY + 1}
           textAnchor="middle"
           dominantBaseline="middle"
           fontSize="10"
-          style={{ filter: centreActive ? "url(#f-centre-a)" : "url(#f-white)" }}
+          style={{
+            filter: centreActive ? "url(#f-centre-a)" : "url(#f-white)",
+          }}
         >
           🫘
         </text>
@@ -434,7 +494,8 @@ export default function ZodiacWheel({ date, highlight = true, beansLetterCount, 
               transform={`rotate(${90 + deg}, ${x}, ${y})`}
               style={{
                 opacity: i < (beansLetterCount ?? 0) ? 1 : 0,
-                transition: i < (beansLetterCount ?? 0) ? "opacity 0.3s ease" : "none",
+                transition:
+                  i < (beansLetterCount ?? 0) ? "opacity 0.3s ease" : "none",
               }}
             >
               {letter}
@@ -464,7 +525,10 @@ export default function ZodiacWheel({ date, highlight = true, beansLetterCount, 
 function capDelta(delta: number, maxDeg: number): number {
   const abs = Math.abs(delta);
   const remainder = abs % 360;
-  const revs = Math.min(Math.floor(abs / 360), Math.floor((maxDeg - remainder) / 360));
+  const revs = Math.min(
+    Math.floor(abs / 360),
+    Math.floor((maxDeg - remainder) / 360),
+  );
   return Math.sign(delta) * (revs * 360 + remainder);
 }
 
@@ -478,7 +542,8 @@ function computeTargets(date: Date) {
   const beanFrac = (date.getTime() - yearStart) / (yearEnd - yearStart);
 
   const absOuter = (beanYear - REF + beanFrac) * BEAN_SEG;
-  const absInner = (beanYear - REF + beanFrac) * (FLAVOUR_SEG / YEARS_PER_FLAVOUR);
+  const absInner =
+    (beanYear - REF + beanFrac) * (FLAVOUR_SEG / YEARS_PER_FLAVOUR);
   const absCentre = (beanYear - REF + beanFrac) * 360;
 
   const modOuter = ((absOuter % 360) + 360) % 360;

@@ -9,8 +9,8 @@ quote: You catch more beans with honey.
 fortune: A long evening without company is coming — let it arrive, and attend to what comes up in the quiet.
 ---
 
-Dark Roasted Chickpeas are the Bean Zodiac's most outgoing — they move toward Beans as a matter of course.
+Dark-Roasted Chickpeas are the Bean Zodiac's most outgoing — they move toward Beans as a matter of course.
 
 Chickpea finds common ground everywhere, at ease in every room; Bitter Beans discriminate between interesting and merely present; Roasted Beans carry everything outward with conviviality.
 
-The Dark Roasted Chickpea's challenge is solitude. They can lose track of what they think away from others. They must occasionally sit with themselves long enough to hear what comes up.
+The Dark-Roasted Chickpea's challenge is solitude. They can lose track of what they think away from others. They must occasionally sit with themselves long enough to hear what comes up.

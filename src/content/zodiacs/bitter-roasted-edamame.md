@@ -9,8 +9,8 @@ quote: A bean is a terrible thing to waste.
 fortune: The sharpest thing you could say will not be the funny one — let one thing be said plainly, without the angle.
 ---
 
-Dark Roasted Edamame are the Bean Zodiac's wittiest — they are sharp without making others feel small.
+Dark-Roasted Edamame are the Bean Zodiac's wittiest — they are sharp without making others feel small.
 
 Edamame don't waste words; Bitter Beans insist what's said earns its place; Roasted Beans arrive with warmth, filling rather than cutting.
 
-The Dark Roasted Edamame's challenge is using wit to deflect. Sharpness that never lands softly is distance. They must occasionally let something be said plainly.
+The Dark-Roasted Edamame's challenge is using wit to deflect. Sharpness that never lands softly is distance. They must occasionally let something be said plainly.

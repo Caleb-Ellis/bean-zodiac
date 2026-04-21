@@ -311,21 +311,21 @@ input[type="date"]::-webkit-datetime-edit-year-field:focus {
 }
 
 .score-gold {
-  background: linear-gradient(90deg, #f59e0b 0%, #f59e0b 20%, #fde68a 50%, #f59e0b 80%, #f59e0b 100%);
+  background: linear-gradient(90deg, #f59e0b 0%, #f59e0b 33%, #fde68a 50%, #f59e0b 67%, #f59e0b 100%);
   background-size: 300%;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   background-clip: text;
-  animation: score-shimmer 2.5s linear infinite;
+  animation: score-shimmer 3.5s linear infinite;
 }
 
 .score-gleam {
-  background: linear-gradient(90deg, #10b981 0%, #10b981 20%, #a7f3d0 50%, #10b981 80%, #10b981 100%);
+  background: linear-gradient(90deg, #10b981 0%, #10b981 33%, #a7f3d0 50%, #10b981 67%, #10b981 100%);
   background-size: 300%;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   background-clip: text;
-  animation: score-shimmer 2.5s linear infinite;
+  animation: score-shimmer 3.5s linear infinite;
 }
 
 .score-smolder {
@@ -354,7 +354,7 @@ input[type="date"]::-webkit-datetime-edit-year-field:focus {
     background-position: 0% center;
   }
   100% {
-    background-position: 100% center;
+    background-position: 150% center;
   }
 }
 

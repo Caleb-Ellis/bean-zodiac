@@ -2,6 +2,7 @@ import Markdown from "react-markdown";
 import {
   FLAVOUR_EMOJI,
   FORM_EMOJI,
+  RarityIds,
   getPreparationName,
   getZodiacMetadataForDate,
   type ZodiacData,
@@ -26,7 +27,18 @@ export default function ZodiacIdentity({ data, date }: Props) {
       <section className="flex flex-col items-center gap-2">
         <h2 className="mb-2 flex flex-col items-center font-bold">
           <span className="block text-md sm:text-xl mb-2 sm:mb-4">
-            You are the
+            You are{" "}
+            {metadata.rarityId === RarityIds.Heirloom && (
+              <>
+                an <span className="score-gold">Heirloom</span>
+              </>
+            )}
+            {metadata.rarityId === RarityIds.Market && (
+              <>
+                a <span className="score-gleam">Market-Fresh</span>
+              </>
+            )}
+            {metadata.rarityId === RarityIds.Store && <>a</>}
           </span>
           <span className="block text-4xl sm:text-7xl mb-3 sm:mb-7">
             <span

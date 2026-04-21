@@ -52,6 +52,8 @@ export default function ZodiacCalendar({ data }: Props) {
       MORE_BEANS_LABELS[Math.floor(Math.random() * MORE_BEANS_LABELS.length)],
   );
 
+  const [highlighted, setHighlighted] = useState(() => !!getDateParam());
+
   const [beansVisible, setBeansVisible] = useState(false);
   const [beansLetterCount, setBeansLetterCount] = useState(0);
 
@@ -62,6 +64,7 @@ export default function ZodiacCalendar({ data }: Props) {
     if (!inputDate) return;
     const parsed = parseDateInputValue(inputDate);
     if (parsed) {
+      setHighlighted(true);
       setSpinning(true);
       setResultMounted(false);
       setResultVisible(false);
@@ -95,6 +98,7 @@ export default function ZodiacCalendar({ data }: Props) {
   }
 
   function handleReset() {
+    setHighlighted(false);
     setSpinning(true); // keep controls hidden while result fades out
     setResultVisible(false);
     setTimeout(() => {
@@ -115,7 +119,7 @@ export default function ZodiacCalendar({ data }: Props) {
     <div ref={topRef} className="flex flex-col items-center text-center w-full">
       <ZodiacWheel
         date={selectedDate ?? new Date(1933, 2, 12)}
-        highlight={selectedDate !== null}
+        highlight={selectedDate !== null && highlighted}
         beansLetterCount={beansLetterCount}
         beansVisible={beansVisible}
       />

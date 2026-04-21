@@ -9,8 +9,8 @@ quote: It is not the bean that stoops who loses dignity, but the one who forgets
 fortune: A warranted pride is coming — let it be generous enough to make room for someone else's.
 ---
 
-Dark Roasted Kidney Beans are the Bean Zodiac's most proud — they have standards and presence.
+Dark-Roasted Kidney Beans are the Bean Zodiac's most proud — they have standards and presence.
 
 Kidney Bean marks everything it touches; Bitter Beans ensure marks are earned by genuine standards; Roasted Beans coax this outward, visible from across the room.
 
-The Dark Roasted Kidney Bean's challenge is allowing others their dignity too. Secure pride doesn't need to rank. They must find generosity to make room for someone else's.
+The Dark-Roasted Kidney Bean's challenge is allowing others their dignity too. Secure pride doesn't need to rank. They must find generosity to make room for someone else's.

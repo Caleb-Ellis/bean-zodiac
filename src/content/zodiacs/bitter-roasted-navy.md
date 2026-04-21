@@ -9,8 +9,8 @@ quote: In preparing to bean, I have always found that plans are useless, but pla
 fortune: The contingency you have been preparing for will arrive — let the preparation become the action it was always building toward.
 ---
 
-Dark Roasted Navy Beans are the Bean Zodiac's most prudent — they anticipate what could go wrong.
+Dark-Roasted Navy Beans are the Bean Zodiac's most prudent — they anticipate what could go wrong.
 
 Navy Bean is principled and dependable; Bitter Beans identify where failure might come; Roasted Beans hold warmth, keeping analysis from curdling into paralysis.
 
-The Dark Roasted Navy Bean's challenge is the contingency that becomes the plan. Prudence that never commits is hesitation with better vocabulary. They must let preparation become an action.
+The Dark-Roasted Navy Bean's challenge is the contingency that becomes the plan. Prudence that never commits is hesitation with better vocabulary. They must let preparation become an action.
