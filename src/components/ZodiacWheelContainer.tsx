@@ -1,5 +1,10 @@
 import { useRef, useState } from "react";
-import { type ZodiacData } from "../lib/zodiac";
+import {
+  getZodiacMetadataForDate,
+  type ZodiacData,
+  type ZodiacId,
+} from "../lib/zodiac";
+import { getClaimedBeanSlug, setClaimedBeanSlug } from "../lib/claimedBean";
 import ZodiacWheel, { BEANS_LETTERS } from "./ZodiacWheel";
 import ZodiacIdentity from "./ZodiacIdentity";
 
@@ -27,7 +32,7 @@ const MORE_BEANS_LABELS = [
   "I Have a Need. A Need for Beans",
 ];
 
-export default function ZodiacCalendar({ data }: Props) {
+export default function ZodiacWheelContainer({ data }: Props) {
   const [inputDate, setInputDate] = useState<string>(() => {
     const param = getDateParam();
     return param ?? "2001-01-01";
@@ -36,7 +41,10 @@ export default function ZodiacCalendar({ data }: Props) {
     const param = getDateParam();
     return param ? parseDateInputValue(param) : null;
   });
+  const [claimedSlug, setClaimedSlug] = useState<ZodiacId | null>(getClaimedBeanSlug);
+  const [justClaimed, setJustClaimed] = useState(false);
   const topRef = useRef<HTMLDivElement>(null);
+  const wheelRef = useRef<HTMLDivElement>(null);
   const [spinning, setSpinning] = useState(false);
   // resultMounted: whether the result is in the DOM at all
   const [resultMounted, setResultMounted] = useState<boolean>(
@@ -84,6 +92,7 @@ export default function ZodiacCalendar({ data }: Props) {
       }, LETTER_INTERVAL);
 
       setTimeout(() => setBeansVisible(false), SPIN_DURATION_MS - 500);
+      if (wheelRef.current) smoothScrollToCenter(wheelRef.current, 600);
 
       setTimeout(() => {
         setSpinning(false);
@@ -97,8 +106,19 @@ export default function ZodiacCalendar({ data }: Props) {
     }
   }
 
+  function handleClaim() {
+    if (!selectedDate) return;
+    const { flavourId, formId, beanId } =
+      getZodiacMetadataForDate(selectedDate);
+    const slug: ZodiacId = `${flavourId}-${formId}-${beanId}`;
+    setClaimedBeanSlug(slug);
+    setClaimedSlug(slug);
+    setJustClaimed(true);
+  }
+
   function handleReset() {
     setHighlighted(false);
+    setJustClaimed(false);
     setSpinning(true); // keep controls hidden while result fades out
     setResultVisible(false);
     setTimeout(() => {
@@ -117,12 +137,32 @@ export default function ZodiacCalendar({ data }: Props) {
 
   return (
     <div ref={topRef} className="flex flex-col items-center text-center w-full">
-      <ZodiacWheel
-        date={selectedDate ?? new Date(1933, 2, 12)}
-        highlight={selectedDate !== null && highlighted}
-        beansLetterCount={beansLetterCount}
-        beansVisible={beansVisible}
-      />
+      <div ref={wheelRef} className="relative w-full flex justify-center">
+        <ZodiacWheel
+          date={selectedDate ?? new Date(1933, 2, 12)}
+          highlight={selectedDate !== null && highlighted}
+          beansLetterCount={beansLetterCount}
+          beansVisible={beansVisible}
+        />
+        {/* Scroll-down chevron — absolutely positioned at bottom of wheel */}
+        <div
+          className={`absolute -bottom-2 left-1/2 -translate-x-1/2 transition-opacity duration-500 ${resultVisible ? "opacity-100" : "opacity-0"}`}
+          style={{ filter: "drop-shadow(0 0 8px rgba(161,161,170,0.7))" }}
+        >
+          <svg
+            xmlns="http://www.w3.org/2000/svg"
+            viewBox="0 0 24 24"
+            fill="none"
+            stroke="#a1a1aa"
+            strokeWidth="2"
+            strokeLinecap="round"
+            strokeLinejoin="round"
+            className="w-8 h-8 animate-bounce"
+          >
+            <path d="m6 9 6 6 6-6" />
+          </svg>
+        </div>
+      </div>
       {/* Fixed-height slot — controls and BEANS text both live here so layout never shifts */}
       <div
         className={`relative w-full flex items-center justify-center overflow-hidden transition-all duration-300 ${resultMounted ? "h-0" : "h-36"}`}
@@ -158,14 +198,11 @@ export default function ZodiacCalendar({ data }: Props) {
             key={selectedDate.getTime()}
             data={data}
             date={selectedDate}
+            onClaim={handleClaim}
+            claimed={justClaimed}
+            hasClaimed={!!claimedSlug && !justClaimed}
           />
           <div className="mt-8 flex flex-col items-center gap-6">
-            <a
-              href={`/compatibility?a=${inputDate}`}
-              className="bg-zinc-900/80 border-2 border-zinc-500/60 text-white rounded-xl px-8 py-4 font-bold backdrop-blur-sm transition-all duration-200 hover:border-zinc-400 hover:text-white hover:bg-zinc-800/80 text-center"
-            >
-              Check compatibility →
-            </a>
             <button
               onClick={handleReset}
               className="link text-base text-zinc-300 hover:text-white transition-colors cursor-pointer bg-transparent border-none p-0"
@@ -198,6 +235,22 @@ function getDateParam(): string | null {
   const value = new URLSearchParams(window.location.search).get("date");
   if (!value || !/^\d{4}-\d{2}-\d{2}$/.test(value)) return null;
   return value;
+}
+
+function smoothScrollToCenter(el: HTMLElement, duration = 1200) {
+  const rect = el.getBoundingClientRect();
+  const targetY =
+    window.scrollY + rect.top + rect.height / 2 - window.innerHeight / 2;
+  const startY = window.scrollY;
+  const diff = targetY - startY;
+  const start = performance.now();
+  function step(now: number) {
+    const t = Math.min((now - start) / duration, 1);
+    const ease = t < 0.5 ? 2 * t * t : -1 + (4 - 2 * t) * t;
+    window.scrollTo(0, startY + diff * ease);
+    if (t < 1) requestAnimationFrame(step);
+  }
+  requestAnimationFrame(step);
 }
 
 function parseDateInputValue(value: string): Date {

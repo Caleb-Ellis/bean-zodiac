@@ -1,6 +1,6 @@
 ---
 import { getCollection } from "astro:content";
-import ZodiacCalendar from "../components/ZodiacCalendar";
+import ZodiacWheelContainer from "../components/ZodiacWheelContainer";
 import Layout from "../layouts/Layout.astro";
 import { buildZodiacData } from "../lib/zodiac";
 import "../styles/global.css";
@@ -24,11 +24,10 @@ const data = buildZodiacData(
 >
   <section class="text-center py-8">
     <h1 class="text-5xl sm:text-7xl font-bold tracking-tight">
-      Which Bean are You?
+      Consult the Wheel
     </h1>
   </section>
-
   <section class="border-zinc-800 flex flex-col items-center">
-    <ZodiacCalendar data={data} client:load />
+    <ZodiacWheelContainer data={data} client:load />
   </section>
 </Layout>

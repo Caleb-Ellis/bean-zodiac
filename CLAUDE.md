@@ -43,11 +43,9 @@ A **Preparation** = Flavour × Form name (30 total). Lookup: `getPreparationName
 
 ### Rarity
 
-`getRarityForDate(date)` — days since reference date mod 20:
-
-- **Artisan** — day 0 — 1-in-20 — `#fcd34d`
-- **Market** — days 4, 8, 12, 16 — 4-in-20 — `#6ee7b7`
-- **Garden** — all others — 15-in-20 — `#ffffff`
+- **Heirloom** — 1-in-10
+- **Reserve** — 2-in-10
+- **Garden** — 7-in-10
 
 Exposed as `rarityId` on `ZodiacMetadata`. Badge in `ZodiacIdentity.tsx`. Wheel center fills/glows in rarity color on activation (`RARITY_CENTRE_COLOR` in `ZodiacWheel.tsx`).
 

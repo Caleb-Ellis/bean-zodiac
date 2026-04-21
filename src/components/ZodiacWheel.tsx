@@ -8,18 +8,11 @@ import {
   FLAVOUR_ORDER,
   FORM_EMOJI,
   FORM_ORDER,
-  RarityIds,
   getBeanYear,
   getFormIdForDate,
-  getRarityForDate,
 } from "../lib/zodiac";
 import type { FormId } from "../lib/zodiac";
 
-const RARITY_CENTRE_COLOR: Record<string, string> = {
-  [RarityIds.Store]: "#ffffff",
-  [RarityIds.Market]: "#6ee7b7",
-  [RarityIds.Heirloom]: "#fcd34d",
-};
 
 // Wheel centre
 const CX = 100;
@@ -210,7 +203,7 @@ export default function ZodiacWheel({
     formIdx,
   } = computeTargets(date);
 
-  const centreColor = RARITY_CENTRE_COLOR[getRarityForDate(date)];
+  const centreColor = "#ffffff";
 
   const prevAbsOuter = useRef(absOuter);
   const prevAbsInner = useRef(absInner);

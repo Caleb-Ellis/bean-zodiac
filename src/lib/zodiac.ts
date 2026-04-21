@@ -155,9 +155,24 @@ export type Form = FormSchema & { content: string };
 export type ZodiacId = `${FlavourId}-${FormId}-${BeanId}`;
 export type Zodiac = ZodiacSchema & { content: string };
 
+const VALID_FLAVOUR_IDS = new Set<string>(Object.values(FlavourIds));
+const VALID_FORM_IDS = new Set<string>(Object.values(FormIds));
+const VALID_BEAN_IDS = new Set<string>(Object.values(BeanIds));
+
+export const isValidZodiacId = (slug: string): slug is ZodiacId => {
+  const parts = slug.split("-");
+  if (parts.length !== 3) return false;
+  const [flavourId, formId, beanId] = parts;
+  return (
+    VALID_FLAVOUR_IDS.has(flavourId) &&
+    VALID_FORM_IDS.has(formId) &&
+    VALID_BEAN_IDS.has(beanId)
+  );
+};
+
 export const RarityIds = {
-  Store: "store",
-  Market: "market",
+  Garden: "garden",
+  Reserve: "reserve",
   Heirloom: "heirloom",
 } as const;
 export type RarityId = (typeof RarityIds)[keyof typeof RarityIds];
@@ -168,14 +183,73 @@ const ORIGIN_DATE = new Date(
   BEAN_ZODIAC_REFERENCE_DAY,
 );
 
+const daysSinceOrigin = (date: Date): number =>
+  Math.floor((date.getTime() - ORIGIN_DATE.getTime()) / 86_400_000);
+
 export const getRarityForDate = (date: Date): RarityId => {
-  const days = Math.floor(
-    (date.getTime() - ORIGIN_DATE.getTime()) / 86_400_000,
-  );
-  const r = ((days % 20) + 20) % 20;
+  const r = ((daysSinceOrigin(date) % 10) + 10) % 10;
   if (r === 0) return RarityIds.Heirloom;
-  if (r === 4 || r === 8 || r === 12 || r === 16) return RarityIds.Market;
-  return RarityIds.Store;
+  if (r === 3 || r === 7) return RarityIds.Reserve;
+  return RarityIds.Garden;
+};
+
+export const getRarityForSlug = (slug: string, date: Date): RarityId => {
+  let h = daysSinceOrigin(date);
+  for (const c of slug) h = (Math.imul(h, 31) + c.charCodeAt(0)) >>> 0;
+  const r = h % 10;
+  if (r === 0) return RarityIds.Heirloom;
+  if (r === 3 || r === 7) return RarityIds.Reserve;
+  return RarityIds.Garden;
+};
+
+export type DailyDimensions = {
+  beanId: BeanId;
+  flavourId: FlavourId;
+  formId: FormId;
+};
+
+export const getDailyDimensions = (date: Date): DailyDimensions => {
+  const d = daysSinceOrigin(date);
+  return {
+    formId: FORM_ORDER[((d % 6) + 6) % 6],
+    flavourId: FLAVOUR_ORDER[((d % 5) + 5) % 5],
+    beanId: BEAN_ORDER[((d % 12) + 12) % 12],
+  };
+};
+
+export const getFortuneZodiacId = (
+  date: Date,
+  personal: DailyDimensions,
+  seasonal: Pick<ZodiacMetadata, "beanId" | "flavourId" | "formId">,
+): ZodiacId => {
+  const daily = getDailyDimensions(date);
+  const personalIndex =
+    BEAN_ORDER.indexOf(personal.beanId) *
+      FLAVOUR_ORDER.length *
+      FORM_ORDER.length +
+    FLAVOUR_ORDER.indexOf(personal.flavourId) * FORM_ORDER.length +
+    FORM_ORDER.indexOf(personal.formId);
+  const phase = (((daysSinceOrigin(date) + personalIndex) % 6) + 6) % 6;
+  console.log({ daily, seasonal, personal });
+  if (phase === 0)
+    return `${seasonal.flavourId}-${daily.formId}-${personal.beanId}`;
+  if (phase === 1)
+    return `${seasonal.flavourId}-${personal.formId}-${daily.beanId}`;
+  if (phase === 2)
+    return `${daily.flavourId}-${seasonal.formId}-${personal.beanId}`;
+  if (phase === 3)
+    return `${daily.flavourId}-${personal.formId}-${seasonal.beanId}`;
+  if (phase === 4)
+    return `${personal.flavourId}-${seasonal.formId}-${daily.beanId}`;
+  return `${personal.flavourId}-${daily.formId}-${seasonal.beanId}`;
+};
+
+export const getFortuneText = (zodiac: Zodiac, rarityId: RarityId): string => {
+  if (rarityId === RarityIds.Heirloom && zodiac.highFortune)
+    return zodiac.highFortune;
+  if (rarityId === RarityIds.Reserve && zodiac.midFortune)
+    return zodiac.midFortune;
+  return zodiac.fortune;
 };
 
 export type ZodiacMetadata = {

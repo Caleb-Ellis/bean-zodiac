@@ -10,5 +10,7 @@ export const zodiacSchema = z.object({
   dish: z.string(),
   quote: z.string(),
   fortune: z.string(),
+  midFortune: z.string().optional(),
+  highFortune: z.string().optional(),
 });
 export type ZodiacSchema = z.infer<typeof zodiacSchema>;

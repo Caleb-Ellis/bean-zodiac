@@ -1,12 +1,16 @@
+import { useEffect, useState } from "react";
 import Markdown from "react-markdown";
 import {
   FLAVOUR_EMOJI,
   FORM_EMOJI,
-  formatZodiacDate,
+  getFortuneText,
   getPreparationName,
   getZodiacMetadataForDate,
   type ZodiacData,
+  type ZodiacId,
 } from "../lib/zodiac";
+import { clearClaimedBeanSlug, getClaimedBeanSlug } from "../lib/claimedBean";
+import ClaimedBeanResult from "./ClaimedBeanResult";
 import Bean from "./Bean";
 
 interface Props {
@@ -24,21 +28,47 @@ export default function ZodiacResult({
   showFortune,
   showQuote,
 }: Props) {
-  const metadata = getZodiacMetadataForDate(date);
-  const bean = data.beans[metadata.beanId];
-  const flavour = data.flavours[metadata.flavourId];
-  const form = data.forms[metadata.formId];
-  const zodiac = data.zodiacs[metadata.zodiacId];
-  const preparation = getPreparationName(metadata.flavourId, metadata.formId);
-  const startDateStr = formatZodiacDate(metadata.startDate);
-  const endDateStr = formatZodiacDate(metadata.endDate);
+  const [claimedSlug, setClaimedSlug] = useState<ZodiacId | null | undefined>(
+    undefined,
+  );
+
+  useEffect(() => {
+    setClaimedSlug(getClaimedBeanSlug());
+  }, []);
+
+  if (claimedSlug === undefined) return null;
+
+  if (claimedSlug) {
+    return (
+      <ClaimedBeanResult
+        data={data}
+        date={date}
+        claimedSlug={claimedSlug}
+        showFortune={showFortune}
+        onRelinquish={() => {
+          clearClaimedBeanSlug();
+          setClaimedSlug(null);
+        }}
+      />
+    );
+  }
+
+  const meta = getZodiacMetadataForDate(date);
+  const bean = data.beans[meta.beanId];
+  const flavour = data.flavours[meta.flavourId];
+  const form = data.forms[meta.formId];
+  const zodiac = data.zodiacs[meta.zodiacId];
+  if (!bean || !flavour || !form || !zodiac) return null;
+
+  const preparation = getPreparationName(meta.flavourId, meta.formId);
+  const fortuneText = getFortuneText(zodiac, meta.rarityId);
 
   return (
     <div className="flex flex-col items-center text-center gap-6 animate-fade-up">
       <section className="flex flex-col items-center gap-2">
         <h2 className="mb-2 flex flex-col items-center font-bold">
           <span className="block text-md sm:text-xl mb-2 sm:mb-4">
-            The Season of the
+            We are in the Season of the
           </span>
           <span className="block text-4xl sm:text-7xl mb-3 sm:mb-7">
             <span
@@ -63,7 +93,7 @@ export default function ZodiacResult({
             href={`/flavours/${flavour.slug}`}
             className="flex items-center gap-1.5 px-3 py-1.5 rounded-full bg-zinc-900 border-2 border-zinc-700 hover:border-zinc-500 transition-colors no-underline"
           >
-            <span>{FLAVOUR_EMOJI[metadata.flavourId]}</span>
+            <span>{FLAVOUR_EMOJI[meta.flavourId]}</span>
             <span className={`flavour-${flavour.slug}`}>
               {flavour.name} Era
             </span>
@@ -74,7 +104,7 @@ export default function ZodiacResult({
               href={`/forms/${form.slug}`}
               className="flex items-center gap-1.5 px-3 py-1.5 rounded-full bg-zinc-900 border-2 border-zinc-700 hover:border-zinc-500 transition-colors no-underline"
             >
-              <span>{FORM_EMOJI[metadata.formId]}</span>
+              <span>{FORM_EMOJI[meta.formId]}</span>
               <span className={`form-${form.slug}`}>{form.name} Season</span>
             </a>
           </span>
@@ -100,7 +130,7 @@ export default function ZodiacResult({
               Wisdom of the Bean
             </p>
             <p className="italic text-zinc-200 text-lg text-center px-4">
-              "{zodiac.fortune}"
+              "{fortuneText}"
             </p>
             <div className="flex items-center gap-3 w-full">
               <div className="flex-1 border-t border-zinc-600" />
@@ -124,6 +154,12 @@ export default function ZodiacResult({
           <Markdown>{zodiac.content}</Markdown>
         </section>
       )}
+      <a
+        href="/wheel"
+        className="bg-zinc-900/80 border-2 border-zinc-500/60 text-white rounded-xl px-8 py-4 font-bold backdrop-blur-sm transition-all duration-200 hover:border-zinc-400 hover:text-white hover:bg-zinc-800/80"
+      >
+        Which Bean are You?&nbsp;→
+      </a>
     </div>
   );
 }

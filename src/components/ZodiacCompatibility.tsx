@@ -1,4 +1,4 @@
-import { useRef, useState } from "react";
+import { useEffect, useRef, useState } from "react";
 import {
   getBeanCompatibility,
   getFlavourCompatibility,
@@ -14,8 +14,12 @@ import {
   type FlavourId,
   type FormId,
   type ZodiacData,
+  type ZodiacId,
 } from "../lib/zodiac";
 import Bean from "./Bean";
+import { getClaimedBeanSlug } from "../lib/claimedBean";
+
+type MetaSlice = { beanId: BeanId; flavourId: FlavourId; formId: FormId };
 
 type Props = {
   data: ZodiacData;
@@ -25,8 +29,8 @@ const REVEAL_STEP_MS = 320;
 
 const CALC_VISIBLE_MS = 1600;
 const CALC_FADE_MS = 400;
-const CALC_CYCLE_MS = CALC_VISIBLE_MS + CALC_FADE_MS; // 2000ms
-const CALC_NUM_TEXTS = 3; // total 6000ms
+const CALC_CYCLE_MS = CALC_VISIBLE_MS + CALC_FADE_MS;
+const CALC_NUM_TEXTS = 2;
 
 const CALCULATING_TEXTS = [
   "Consulting Bean astrologers...",
@@ -39,59 +43,67 @@ const CALCULATING_TEXTS = [
 ];
 
 export default function ZodiacCompatibility({ data }: Props) {
-  const [inputA, setInputA] = useState<string>(
-    () => getParam("a") ?? "2001-01-01",
-  );
-  const [inputB, setInputB] = useState<string>(
-    () => getParam("b") ?? "2001-01-01",
-  );
-  const [dateA, setDateA] = useState<Date | null>(() => {
-    const p = getParam("a");
-    return p ? parseDate(p) : null;
+  const [claimedSlug, setClaimedSlug] = useState<ZodiacId | null>(null);
+  useEffect(() => {
+    setClaimedSlug(getClaimedBeanSlug());
+  }, []);
+
+  const claimedMeta: MetaSlice | null = (() => {
+    if (!claimedSlug) return null;
+    const [flavourId, formId, beanId] = claimedSlug.split("-") as [
+      FlavourId,
+      FormId,
+      BeanId,
+    ];
+    return { beanId, flavourId, formId };
+  })();
+
+  const [inputA, setInputA] = useState("2001-01-01");
+  const [inputB, setInputB] = useState(() => {
+    if (typeof window !== "undefined") {
+      const b = new URLSearchParams(window.location.search).get("b");
+      if (b) return b;
+    }
+    return "2001-01-01";
   });
-  const [dateB, setDateB] = useState<Date | null>(() => {
-    const p = getParam("b");
-    return p ? parseDate(p) : null;
-  });
-  const [resultMounted, setResultMounted] = useState(
-    () => !!(getParam("a") && getParam("b")),
-  );
-  const [resultVisible, setResultVisible] = useState(
-    () => !!(getParam("a") && getParam("b")),
-  );
+
+  const [metaA, setMetaA] = useState<MetaSlice | null>(null);
+  const [metaB, setMetaB] = useState<MetaSlice | null>(null);
+
+  const [resultMounted, setResultMounted] = useState(false);
+  const [resultVisible, setResultVisible] = useState(false);
   const [resultKey, setResultKey] = useState(0);
-  const [revealedCount, setRevealedCount] = useState(() =>
-    getParam("a") && getParam("b") ? 4 : 0,
-  );
+  const [revealedCount, setRevealedCount] = useState(0);
   const [calculatingText, setCalculatingText] = useState<string | null>(null);
   const [calculatingVisible, setCalculatingVisible] = useState(false);
-  const [formVisible, setFormVisible] = useState(
-    () => !(getParam("a") && getParam("b")),
-  );
+  const [formVisible, setFormVisible] = useState(true);
   const generationRef = useRef(0);
   const topRef = useRef<HTMLDivElement>(null);
 
   function handleCompare() {
-    if (!inputA || !inputB) return;
+    const inputForB = inputB;
+    const inputForA = inputA;
+    if (!inputForB) return;
+    if (!claimedMeta && !inputForA) return;
+
     const generation = ++generationRef.current;
     const guard = (fn: () => void) => () => {
       if (generationRef.current === generation) fn();
     };
 
-    const a = parseDate(inputA);
-    const b = parseDate(inputB);
-    const url = new URL(window.location.href);
-    url.searchParams.set("a", inputA);
-    url.searchParams.set("b", inputB);
-    window.history.pushState({}, "", url);
+    const resolvedMetaA: MetaSlice =
+      claimedMeta ?? getZodiacMetadataForDate(parseDate(inputForA));
+    const resolvedMetaB: MetaSlice = getZodiacMetadataForDate(
+      parseDate(inputForB),
+    );
 
     setFormVisible(false);
     setRevealedCount(0);
     setCalculatingVisible(false);
 
     const mount = guard(() => {
-      setDateA(a);
-      setDateB(b);
+      setMetaA(resolvedMetaA);
+      setMetaB(resolvedMetaB);
       setResultKey((k) => k + 1);
       setResultMounted(true);
       setResultVisible(true);
@@ -151,10 +163,6 @@ export default function ZodiacCompatibility({ data }: Props) {
       setResultMounted(false);
       setRevealedCount(0);
       setFormVisible(true);
-      const url = new URL(window.location.href);
-      url.searchParams.delete("a");
-      url.searchParams.delete("b");
-      window.history.pushState({}, "", url);
       topRef.current?.scrollIntoView({ behavior: "smooth", block: "start" });
     }, 300);
   }
@@ -170,9 +178,15 @@ export default function ZodiacCompatibility({ data }: Props) {
       >
         <div className="overflow-hidden">
           <div className="flex flex-col items-center gap-6 pb-16">
-            <DateField label="First Bean" value={inputA} onChange={setInputA} />
+            {!claimedMeta && (
+              <DateField
+                label="First Bean"
+                value={inputA}
+                onChange={setInputA}
+              />
+            )}
             <DateField
-              label="Second Bean"
+              label={claimedMeta ? "Their Bean" : "Second Bean"}
               value={inputB}
               onChange={setInputB}
             />
@@ -186,7 +200,7 @@ export default function ZodiacCompatibility({ data }: Props) {
         </div>
       </div>
 
-      {resultMounted && dateA && dateB && (
+      {resultMounted && metaA && metaB && (
         <div
           className={`w-full flex flex-col items-center gap-8 transition-opacity duration-300 ${
             resultVisible ? "opacity-100" : "opacity-0"
@@ -195,8 +209,8 @@ export default function ZodiacCompatibility({ data }: Props) {
           <CompatibilityResult
             key={resultKey}
             data={data}
-            dateA={dateA}
-            dateB={dateB}
+            metaA={metaA}
+            metaB={metaB}
             revealedCount={revealedCount}
             calculatingText={calculatingText}
             calculatingVisible={calculatingVisible}
@@ -254,22 +268,19 @@ function DateField({
 
 function CompatibilityResult({
   data,
-  dateA,
-  dateB,
+  metaA,
+  metaB,
   revealedCount,
   calculatingText,
   calculatingVisible,
 }: {
   data: ZodiacData;
-  dateA: Date;
-  dateB: Date;
+  metaA: MetaSlice;
+  metaB: MetaSlice;
   revealedCount: number;
   calculatingText: string | null;
   calculatingVisible: boolean;
 }) {
-  const metaA = getZodiacMetadataForDate(dateA);
-  const metaB = getZodiacMetadataForDate(dateB);
-
   const beanA = data.beans[metaA.beanId];
   const flavourA = data.flavours[metaA.flavourId];
   const formA = data.forms[metaA.formId];
@@ -287,7 +298,7 @@ function CompatibilityResult({
     metaB.flavourId,
   );
   const formCompat = getFormCompatibility(metaA.formId, metaB.formId);
-  const total = getTotalCompatibility(metaA, metaB);
+  const total = getTotalCompatibility(metaA as never, metaB as never);
 
   return (
     <div className="flex flex-col items-center gap-6 w-full animate-fade-up">
@@ -335,8 +346,18 @@ function CompatibilityResult({
             <DimensionRow
               label="Flavour"
               compat={flavourCompat}
-              pairA={{ name: flavourA.name, colorClass: `flavour-${flavourA.slug}`, emoji: FLAVOUR_EMOJI[metaA.flavourId], href: `/flavours/${flavourA.slug}` }}
-              pairB={{ name: flavourB.name, colorClass: `flavour-${flavourB.slug}`, emoji: FLAVOUR_EMOJI[metaB.flavourId], href: `/flavours/${flavourB.slug}` }}
+              pairA={{
+                name: flavourA.name,
+                colorClass: `flavour-${flavourA.slug}`,
+                emoji: FLAVOUR_EMOJI[metaA.flavourId],
+                href: `/flavours/${flavourA.slug}`,
+              }}
+              pairB={{
+                name: flavourB.name,
+                colorClass: `flavour-${flavourB.slug}`,
+                emoji: FLAVOUR_EMOJI[metaB.flavourId],
+                href: `/flavours/${flavourB.slug}`,
+              }}
             />
           </div>
           {revealedCount >= 2 && (
@@ -344,8 +365,18 @@ function CompatibilityResult({
               <DimensionRow
                 label="Form"
                 compat={formCompat}
-                pairA={{ name: formA.name, colorClass: `form-${formA.slug}`, emoji: FORM_EMOJI[metaA.formId], href: `/forms/${formA.slug}` }}
-                pairB={{ name: formB.name, colorClass: `form-${formB.slug}`, emoji: FORM_EMOJI[metaB.formId], href: `/forms/${formB.slug}` }}
+                pairA={{
+                  name: formA.name,
+                  colorClass: `form-${formA.slug}`,
+                  emoji: FORM_EMOJI[metaA.formId],
+                  href: `/forms/${formA.slug}`,
+                }}
+                pairB={{
+                  name: formB.name,
+                  colorClass: `form-${formB.slug}`,
+                  emoji: FORM_EMOJI[metaB.formId],
+                  href: `/forms/${formB.slug}`,
+                }}
               />
             </div>
           )}
@@ -354,8 +385,18 @@ function CompatibilityResult({
               <DimensionRow
                 label="Bean"
                 compat={beanCompat}
-                pairA={{ name: beanA.name, colorClass: `bean-${beanA.slug}`, emoji: "🫘", href: `/beans/${beanA.slug}` }}
-                pairB={{ name: beanB.name, colorClass: `bean-${beanB.slug}`, emoji: "🫘", href: `/beans/${beanB.slug}` }}
+                pairA={{
+                  name: beanA.name,
+                  colorClass: `bean-${beanA.slug}`,
+                  emoji: "🫘",
+                  href: `/beans/${beanA.slug}`,
+                }}
+                pairB={{
+                  name: beanB.name,
+                  colorClass: `bean-${beanB.slug}`,
+                  emoji: "🫘",
+                  href: `/beans/${beanB.slug}`,
+                }}
               />
             </div>
           )}
@@ -443,12 +484,20 @@ function DimensionRow({
       <div className="flex flex-col gap-0.5">
         <span className="font-semibold text-white text-sm">{compat.label}</span>
         <span className="flex items-center gap-1 text-xs my-1.5 flex-wrap">
-          <a href={pairA.href} className={`flex items-center gap-1 px-2 py-0.5 rounded-full bg-zinc-800 border border-zinc-700 hover:border-zinc-500 transition-colors no-underline ${pairA.colorClass}`}>
-            <span>{pairA.emoji}</span>{pairA.name}
+          <a
+            href={pairA.href}
+            className={`flex items-center gap-1 px-2 py-0.5 rounded-full bg-zinc-800 border border-zinc-700 hover:border-zinc-500 transition-colors no-underline ${pairA.colorClass}`}
+          >
+            <span>{pairA.emoji}</span>
+            {pairA.name}
           </a>
           <span className="text-zinc-600">×</span>
-          <a href={pairB.href} className={`flex items-center gap-1 px-2 py-0.5 rounded-full bg-zinc-800 border border-zinc-700 hover:border-zinc-500 transition-colors no-underline ${pairB.colorClass}`}>
-            <span>{pairB.emoji}</span>{pairB.name}
+          <a
+            href={pairB.href}
+            className={`flex items-center gap-1 px-2 py-0.5 rounded-full bg-zinc-800 border border-zinc-700 hover:border-zinc-500 transition-colors no-underline ${pairB.colorClass}`}
+          >
+            <span>{pairB.emoji}</span>
+            {pairB.name}
           </a>
         </span>
         <span className="text-zinc-400 text-sm">{compat.description}</span>
@@ -467,13 +516,6 @@ function scoreColor(score: number): string {
   if (score === -2) return "text-red-400";
   if (score === -3) return "score-smolder";
   return "score-rot";
-}
-
-function getParam(key: string): string | null {
-  if (typeof window === "undefined") return null;
-  const value = new URLSearchParams(window.location.search).get(key);
-  if (!value || !/^\d{4}-\d{2}-\d{2}$/.test(value)) return null;
-  return value;
 }
 
 function parseDate(value: string): Date {
