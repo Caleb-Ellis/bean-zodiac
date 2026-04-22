@@ -6,7 +6,10 @@ form: smoked
 trait: disarming
 dish: Smoked edamame gyoza with sweet hoisin and black vinegar dipping sauce.
 quote: You bean me at hello.
-fortune: A defense will come down before it is asked — make sure what it reveals leads somewhere worth following.
+seasonalFortune: A defense will come down before it is asked — make sure what it reveals leads somewhere worth following.
+dailyCommon: Bring the openness — it will lower what has been raised.
+dailyUncommon: The defense in the room came down because of what you carried in — keep going.
+dailyRare: Disarm it completely — the full softness is the most powerful thing in here right now.
 ---
 
 Barbecued Edamame are the Bean Zodiac's most disarming — they move quickly and the warmth arrives before the defences can consider whether to deploy.

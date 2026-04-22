@@ -6,7 +6,10 @@ form: smoked
 trait: murky
 dish: Mole negro - Oaxacan black beans simmered in smoked mulato and pasilla chile sauce.
 quote: Still waters run bean.
-fortune: Something will move through you at considerable heat and want to surface — give it enough clarity to be approached.
+seasonalFortune: Something will move through you at considerable heat and want to surface — give it enough clarity to be approached.
+dailyCommon: Something is moving in there — let one piece of it become readable to someone near.
+dailyUncommon: The heat has been running long enough; give it enough clarity to be approached.
+dailyRare: Let the full interior surface today — enough to be approached, and approached completely.
 ---
 
 Chipotle Black Beans are the Bean Zodiac's most murky — something is moving in there at some intensity, and it does not announce itself.

@@ -6,7 +6,10 @@ form: roasted
 trait: understated
 dish: Boston baked navy beans with apple cider vinegar, whole grain mustard, and brown sugar
 quote: The bean doth protest too little, methinks.
-fortune: What is held back will not go unnoticed — the Beans paying attention will see what is there without the announcement, and they are the ones that count.
+seasonalFortune: What is held back will not go unnoticed — the Beans paying attention will see what is there without the announcement, and they are the ones that count.
+dailyCommon: The understated version is the stronger one — use it.
+dailyUncommon: Say less; the weight is in what is held back.
+dailyRare: Reduce it to the minimum — the single thing that carries the whole meaning, and nothing else.
 ---
 
 Charred Navy Beans are the Bean Zodiac's most understated — they offer much without announcement.

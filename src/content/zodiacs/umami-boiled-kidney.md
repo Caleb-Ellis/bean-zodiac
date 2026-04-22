@@ -6,7 +6,10 @@ form: boiled
 trait: disciplined
 dish: Red beans and rice - Louisiana style with Andouille sausage and the holy trinity, made on a Monday.
 quote: We are what we repeatedly bean. Excellence, then, is not an act, but a habit.
-fortune: The practice will produce something — let yourself feel what the discipline has built.
+seasonalFortune: The practice will produce something — let yourself feel what the discipline has built.
+dailyCommon: Do the next one — the practice is already in motion.
+dailyUncommon: Stay with the form — what you are building shows up in how you do it.
+dailyRare: Let the commitment run all the way through — the thing it is building will be worth wanting.
 ---
 
 Dashi Kidney Beans are the Bean Zodiac's most disciplined — they build things through unglamorous repeated commitment.

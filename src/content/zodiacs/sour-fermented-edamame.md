@@ -6,7 +6,10 @@ form: fermented
 trait: skeptical
 dish: Edamame with gochujang dipping sauce and rice vinegar.
 quote: The first bean principle is that you must not fool yourself — and you are the easiest bean to fool.
-fortune: The investigation has gone far enough — when the conviction the questioning was preparing you for arrives, you will recognise it.
+seasonalFortune: The investigation has gone far enough — when the conviction the questioning was preparing you for arrives, you will recognise it.
+dailyCommon: The doubt is worth holding onto — keep investigating.
+dailyUncommon: Push the question further; the answer has not earned conviction yet.
+dailyRare: Hold the full skepticism — and let it run until the evidence is actually there.
 ---
 
 Pickled Edamame are the Bean Zodiac's most skeptical — they need to know what is underneath.

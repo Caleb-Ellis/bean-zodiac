@@ -6,7 +6,10 @@ form: roasted
 trait: aloof
 dish: Frijoles borrachos al horno - oven-roasted pinto beans with lime juice, jalapeño, and dark beer
 quote: I exist as I am — that is enough. If no other bean in the world be aware, I sit content.
-fortune: The distance will be appropriate for a time — ask when the thing that warranted it has passed, and whether the habit is still serving a purpose.
+seasonalFortune: The distance will be appropriate for a time — ask when the thing that warranted it has passed, and whether the habit is still serving a purpose.
+dailyCommon: The distance is available — hold it as long as you need.
+dailyUncommon: Stay further back; let the room come to you.
+dailyRare: Withdraw completely — full remove, and let what is there exist without you in it.
 ---
 
 Charred Pinto Beans are the Bean Zodiac's most aloof — visible and genuinely difficult to reach.

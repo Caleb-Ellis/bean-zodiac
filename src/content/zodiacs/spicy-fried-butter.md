@@ -6,7 +6,10 @@ form: fried
 trait: energetic
 dish: Spicy butter bean croquetas - fried bean cakes with smoked paprika.
 quote: The world is charged with the grandeur of the bean.
-fortune: The movement will leave a wake — turn around before it ends to see what is in it, not to undo it, but to know.
+seasonalFortune: The movement will leave a wake — turn around before it ends to see what is in it, not to undo it, but to know.
+dailyCommon: The movement today is full — turn around once to see what it is leaving in its wake.
+dailyUncommon: The energy is at full warmth; move through what needs it and stay aware of what follows.
+dailyRare: Everything moves today at the highest temperature — bring it all and stay present for what it leaves behind.
 ---
 
 Red-Hot Butter Beans are the Bean Zodiac's most energetic — they move at full warmth and never still.

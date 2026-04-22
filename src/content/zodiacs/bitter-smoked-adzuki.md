@@ -6,7 +6,10 @@ form: smoked
 trait: oracular
 dish: Smoked adzuki with bitter black garlic and charred citrus.
 quote: The unexamined bean is not worth living.
-fortune: You will see what is coming before it announces itself — speak the reading while there is still time to act on it.
+seasonalFortune: You will see what is coming before it announces itself — speak the reading while there is still time to act on it.
+dailyCommon: Something is forming before it has announced itself — note it.
+dailyUncommon: The reading is clear; speak it while there is still time to act.
+dailyRare: See all the way to the end of what is coming — and say it plainly, without softening.
 ---
 
 Ashen Adzuki Beans are the Bean Zodiac's most oracular — they carry the Adzuki's instinct for knowing when a moment is coming before it has announced itself.

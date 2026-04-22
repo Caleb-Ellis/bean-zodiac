@@ -6,7 +6,10 @@ form: fermented
 trait: offbeat
 dish: Chickpea fatteh with shatta - Lebanese flatbread and chickpea dish with Palestinian fermented hot sauce.
 quote: I've lost my damn beans.
-fortune: The route is yours — hold onto the warmth that makes it worth following, so others can find the way in.
+seasonalFortune: The route is yours — hold onto the warmth that makes it worth following, so others can find the way in.
+dailyCommon: The unexpected landing is worth exploring — keep hold of the warmth that brought you.
+dailyUncommon: The offbeat route is yours; bring the warmth along so others can find you there.
+dailyRare: Follow the strangeness completely today — and keep the warmth burning so the path back stays lit.
 ---
 
 Kimchi Chickpeas are the Bean Zodiac's most offbeat — they connect easily but land on unexpected ground.

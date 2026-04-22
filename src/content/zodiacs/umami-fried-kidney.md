@@ -6,7 +6,10 @@ form: fried
 trait: moralistic
 dish: Pan-fried kidney bean cakes with red miso, sake, and sesame.
 quote: Moralising and bean are two arts that seldom go together.
-fortune: A conviction will be ready — find the form that allows others to arrive at it themselves, without being led.
+seasonalFortune: A conviction will be ready — find the form that allows others to arrive at it themselves, without being led.
+dailyCommon: Name what is right — the clarity you have is worth putting into the room.
+dailyUncommon: Hold the conviction fully — the standard you are applying is the correct one.
+dailyRare: Say it completely — the moral weight of what you believe is the whole of what needs to be said.
 ---
 
 Tempura Kidney Beans are the Bean Zodiac's most moralistic — they're not prepared to stay quiet about what is right.

@@ -6,7 +6,10 @@ form: fermented
 trait: conflicted
 dish: Kimchi jjigae - kidney bean and kimchi stew with pork belly, tofu, and sesame oil.
 quote: The heart has its bean that reason knows not of.
-fortune: The tension will not resolve yet — live with it honestly, and let both sides of it be real.
+seasonalFortune: The tension will not resolve yet — live with it honestly, and let both sides of it be real.
+dailyCommon: Let both of them be real — the tension you are holding is honest.
+dailyUncommon: Stay inside the contradiction — you do not have to resolve it today.
+dailyRare: Hold both sides at full weight — the conflict is the truth, and you are the one who can carry it.
 ---
 
 Miso Kidney Beans are the Bean Zodiac's most conflicted — they know exactly why they're pulled in more than one direction.

@@ -6,7 +6,10 @@ form: boiled
 trait: measured
 dish: Black bean soup with epazote and bitter orange.
 quote: It was the best of beans, it was the worst of beans.
-fortune: The right moment will announce itself — and when it does, what you have been holding back will be ready to be seen.
+seasonalFortune: The right moment will announce itself — and when it does, what you have been holding back will be ready to be seen.
+dailyCommon: Say one thing exactly — not two things approximately.
+dailyUncommon: The broth is ready; let someone taste it before the bowl is done.
+dailyRare: The room around you has begun to slow to your pace — hold it there.
 ---
 
 Decocted Black Beans are the Bean Zodiac's most measured — not through restraint learned, but through a nature that has never needed to speak before it is certain.

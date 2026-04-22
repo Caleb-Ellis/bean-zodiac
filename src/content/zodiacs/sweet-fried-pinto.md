@@ -6,7 +6,10 @@ form: fried
 trait: distractible
 dish: Pinto bean sopapillas — fried puffed pastry with sweet pinto bean paste inside, drizzled with honey at the table.
 quote: A bean divided against itself cannot bean.
-fortune: A next new thing will arrive — find what is worth wanting more, and stay past the point of interest.
+seasonalFortune: A next new thing will arrive — find what is worth wanting more, and stay past the point of interest.
+dailyCommon: Let the new thing arrive — something in it is worth following.
+dailyUncommon: The pivot is the right move — the new direction has more in it than the old one.
+dailyRare: Follow every thread fully — the scatter is generative today and something brilliant is in there.
 ---
 
 Caramelised Pinto Beans are the Bean Zodiac's most distractible — genuinely interested in everything, which is the same as being focused on nothing.

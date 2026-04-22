@@ -6,7 +6,10 @@ form: roasted
 trait: self-reliant
 dish: Loubia bil harissa - Moroccan navy bean tagine with roasted harissa and preserved lemon.
 quote: Trust thyself - every bean vibrates to that iron string.
-fortune: More is about to be available than you will accept — notice what you are turning away from habit rather than necessity, and take a little more.
+seasonalFortune: More is about to be available than you will accept — notice what you are turning away from habit rather than necessity, and take a little more.
+dailyCommon: Something is available today — receive it, from someone who is offering.
+dailyUncommon: The self-reliance is real; accept what is given without filtering it through necessity.
+dailyRare: Take everything offered today — completely, from the full range of what is available.
 ---
 
 Peri-Peri Navy Beans are the Bean Zodiac's most self-reliant — they supply what they need.

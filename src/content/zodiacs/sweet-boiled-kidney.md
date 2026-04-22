@@ -6,7 +6,10 @@ form: boiled
 trait: compassionate
 dish: Rajma kheer — kidney beans boiled until tender and simmered in sweetened milk with cardamom and rose water.
 quote: If you want others to be happy, practise bean. If you want to be happy, practise bean.
-fortune: A compassion that flows in only one direction will ask for balance — let the Beans you sit with also sit with you.
+seasonalFortune: A compassion that flows in only one direction will ask for balance — let the Beans you sit with also sit with you.
+dailyCommon: Listen without shaping what comes next.
+dailyUncommon: The person in front of you needs to feel the weight of it received — let it land.
+dailyRare: Open wide enough to hold what is being brought to you — your capacity for this is the gift.
 ---
 
 Candied Kidney Beans are the Bean Zodiac's most compassionate — they have the patience to sit with difficulty and the warmth to make it bearable.

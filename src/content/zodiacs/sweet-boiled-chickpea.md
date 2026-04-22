@@ -6,7 +6,10 @@ form: boiled
 trait: agreeable
 dish: Chana dal halwa — split chickpeas boiled down with ghee and sugar into a dense, golden sweet.
 quote: Piglet noticed that even though he had a very small bean, it could hold a rather large amount of gratitude.
-fortune: An accommodation that has been given without limit will become invisible — let the Beans around you know what you actually wanted.
+seasonalFortune: An accommodation that has been given without limit will become invisible — let the Beans around you know what you actually wanted.
+dailyCommon: Find the common ground and start there.
+dailyUncommon: Your willingness to meet people where they are is making the whole room easier.
+dailyRare: The agreement comes together because of how fully you are able to receive every voice in it.
 ---
 
 Candied Chickpeas are the Bean Zodiac's most agreeable — they meet Beans where they are without effort.

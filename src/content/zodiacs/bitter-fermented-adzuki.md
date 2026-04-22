@@ -6,7 +6,10 @@ form: fermented
 trait: nostalgic
 dish: Adzuki paste with aged miso and bitter yuzu kosho.
 quote: The past is never dead. It's not even bean.
-fortune: A memory is going to point at something ahead — follow the pointing, not the memory itself.
+seasonalFortune: A memory is going to point at something ahead — follow the pointing, not the memory itself.
+dailyCommon: Return to the good thing — not to stay, but to bring something back.
+dailyUncommon: What has been is worth holding; carry it forward as orientation, not anchor.
+dailyRare: The past is fully present in you — let it inform everything about what you do now.
 ---
 
 Tinctured Adzuki Beans are the Bean Zodiac's most nostalgic — they hold attachment to what has been good, worked through privately.

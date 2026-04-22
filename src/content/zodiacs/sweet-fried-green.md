@@ -6,7 +6,10 @@ form: fried
 trait: fidgety
 dish: Green bean tempura with matcha sugar — blistered in light batter and tossed in powdered green tea and fine sugar.
 quote: I have measured out my bean in coffee spoons.
-fortune: An energy will find a thing worth staying for — when it arrives, stay past the point of interest and find out what you can actually make.
+seasonalFortune: An energy will find a thing worth staying for — when it arrives, stay past the point of interest and find out what you can actually make.
+dailyCommon: Let the energy move — it will find what it needs.
+dailyUncommon: The restlessness today is pointing at something — follow it.
+dailyRare: Go everywhere at once — the scatter is the method and something will catch.
 ---
 
 Caramelised Green Beans are the Bean Zodiac's most fidgety — the energy is always looking for somewhere to go.

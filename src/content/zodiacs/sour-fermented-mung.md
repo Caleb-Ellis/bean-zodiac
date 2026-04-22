@@ -6,7 +6,10 @@ form: fermented
 trait: insecure
 dish: Mung bean dal with yogurt tadka and lime.
 quote: To bean oneself is the beginning of a lifelong romance.
-fortune: The signal-to-noise ratio will improve — act on the signal when it becomes clear, and let the noise run down on its own.
+seasonalFortune: The signal-to-noise ratio will improve — act on the signal when it becomes clear, and let the noise run down on its own.
+dailyCommon: The doubt is loud today — let it speak without needing to answer it.
+dailyUncommon: The uncertainty is deeper than usual; stay with it fully.
+dailyRare: The insecurity is at full volume — sit in it completely, and see what it actually says.
 ---
 
 Pickled Mung Beans are the Bean Zodiac's most insecure — they understand in exquisite detail everything they might be getting wrong.

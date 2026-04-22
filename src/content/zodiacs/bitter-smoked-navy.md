@@ -6,7 +6,10 @@ form: smoked
 trait: ominous
 dish: Smoked navy bean with bitter juniper and char.
 quote: It was a dark and beany night.
-fortune: What is gathering will arrive — say it in a way that can be heard, before the weather does.
+seasonalFortune: What is gathering will arrive — say it in a way that can be heard, before the weather does.
+dailyCommon: Name what is gathering — it will arrive whether you speak or not.
+dailyUncommon: Say it clearly; they need time to prepare before the weather turns.
+dailyRare: Deliver the full forecast without softening — being believed is not a condition of being right.
 ---
 
 Ashen Navy Beans are the Bean Zodiac's most ominous — their sense of what is coming tends to be correct, and they say so in a way that is difficult to dispute.

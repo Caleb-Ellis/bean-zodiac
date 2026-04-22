@@ -6,7 +6,10 @@ form: fermented
 trait: persnickety
 dish: Fagioli all'uccelletto con 'nduja - Tuscan white beans with spicy fermented sausage and sage.
 quote: The devil is in the beans.
-fortune: Not every detail is load-bearing — identify the ones that are, and release the ones that simply caught the light.
+seasonalFortune: Not every detail is load-bearing — identify the ones that are, and release the ones that simply caught the light.
+dailyCommon: The detail that is bothering you is real — give it the attention it needs, then move.
+dailyUncommon: The standard has been set; apply it to the thing that is actually load-bearing.
+dailyRare: Every small wrong in view today deserves attention — work through them completely.
 ---
 
 Kimchi Cannellini Beans are the Bean Zodiac's most persnickety — small wrongs bother them until fixed.

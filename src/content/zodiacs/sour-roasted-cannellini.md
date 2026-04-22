@@ -6,7 +6,10 @@ form: roasted
 trait: tactful
 dish: Cannellini al forno con gremolata - oven-roasted cannellini with lemon, parsley, and garlic
 quote: Diplomacy is the art of telling someone their bean is wrong in a way that makes them want to fix it.
-fortune: A conversation is coming that will need careful handling — what it builds will outlast the situation that required the care.
+seasonalFortune: A conversation is coming that will need careful handling — what it builds will outlast the situation that required the care.
+dailyCommon: The careful version is there — use it.
+dailyUncommon: Take another pass at the phrasing; the right words are close.
+dailyRare: Give it every ounce of consideration — the most precisely right version of what needs to be said.
 ---
 
 Charred Cannellini Beans are the Bean Zodiac's most tactful — they deliver hard truths wrapped in genuine care.

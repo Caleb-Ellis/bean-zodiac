@@ -6,7 +6,10 @@ form: fermented
 trait: systematic
 dish: Edamame in mirin and sake reduction — soybeans lacquered in sweet rice wine, simmered until each one is evenly coated and glossed.
 quote: For every bean effect there is a definite cause; for every cause there is a definite effect.
-fortune: A system will be tested by the problem it was not built for — this is the moment to find out.
+seasonalFortune: A system will be tested by the problem it was not built for — this is the moment to find out.
+dailyCommon: Work the method — it is doing what it was built to do.
+dailyUncommon: The system you have built is handling more than you can see at once.
+dailyRare: Trust the structure completely — it was designed for exactly this.
 ---
 
 Honeyed Edamame are the Bean Zodiac's most systematic — they think about how things work before committing.

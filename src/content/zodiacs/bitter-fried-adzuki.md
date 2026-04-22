@@ -6,7 +6,10 @@ form: fried
 trait: opinionated
 dish: Adzuki bean crispy rice cakes with bitter orange syrup.
 quote: Well-beaned Beans are always dangerous.
-fortune: The one opinion still forming will be worth the wait — do not seal it before it has finished.
+seasonalFortune: The one opinion still forming will be worth the wait — do not seal it before it has finished.
+dailyCommon: The opinion is forming — let it finish, then commit to it entirely.
+dailyUncommon: The position is ready; state it without softening or qualification.
+dailyRare: You have decided — hold it fully and without revision.
 ---
 
 Scorched Adzuki Beans are the Bean Zodiac's most opinionated — they decide quickly and hold firmly.

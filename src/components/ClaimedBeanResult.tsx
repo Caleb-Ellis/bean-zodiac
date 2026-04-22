@@ -101,7 +101,10 @@ export default function ClaimedBeanResult({
                     <span className="score-gold">Heirloom </span>
                   )}
                   {rarityId === RarityIds.Reserve && (
-                    <span className="score-gleam">Reserve </span>
+                    <span className="score-gleam">Market-Fresh </span>
+                  )}
+                  {rarityId === RarityIds.Garden && (
+                    <span>Store-Bought </span>
                   )}
                   <a
                     href={`/zodiacs/${fortuneZodiacId}`}
@@ -232,7 +235,7 @@ export default function ClaimedBeanResult({
           ends in {daysLeft} {daysLeft === 1 ? "day" : "days"}.
         </p>
         <p className="text-sm italic text-zinc-400">
-          "{seasonalZodiac.fortune}"
+          "{seasonalZodiac.seasonalFortune}"
         </p>
       </section>
     </div>

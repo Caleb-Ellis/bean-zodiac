@@ -6,7 +6,10 @@ form: smoked
 trait: mystical
 dish: Mole negro - black beans braised in charred mulato chile, smoked chipotle, and dark chocolate.
 quote: There are more things in bean and earth, Horatio.
-fortune: What will move through you will have no ordinary framework — find one entrance to it, so something of what you carry can be approached and shared.
+seasonalFortune: What will move through you will have no ordinary framework — find one entrance to it, so something of what you carry can be approached and shared.
+dailyCommon: Follow the thing that has no clear explanation — it knows where it is going.
+dailyUncommon: What is moving through you today is from somewhere deeper than reason — trust it.
+dailyRare: Go all the way into it — the mystery is the destination, and you are already there.
 ---
 
 Barbecued Black Beans are the Bean Zodiac's most mystical — their depth has taken on a quality that resists any ordinary framework.

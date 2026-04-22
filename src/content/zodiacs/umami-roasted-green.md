@@ -6,7 +6,10 @@ form: roasted
 trait: curious
 dish: Roasted green beans with katsuobushi, ponzu, and sesame.
 quote: Curiosity is the bean, always leading to new discoveries.
-fortune: A tangent is coming that deserves more than curiosity usually asks — go deeper.
+seasonalFortune: A tangent is coming that deserves more than curiosity usually asks — go deeper.
+dailyCommon: Follow what interests you — the thing you are drawn to has something in it.
+dailyUncommon: Go further than the first answer — the question you are in deserves a second look.
+dailyRare: Let the curiosity take you all the way — the thing you are pursuing will give up its full depth if you stay.
 ---
 
 Bronzed Green Beans are the Bean Zodiac's most curious — their interest is warm, wide, and without agenda.

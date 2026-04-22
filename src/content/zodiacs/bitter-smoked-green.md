@@ -6,7 +6,10 @@ form: smoked
 trait: eerie
 dish: Smoked green bean with bitter elderflower and char.
 quote: Something is rotten in the bean of Denmark.
-fortune: You will arrive somewhere before you are expected — name what you are moving toward, so someone who is trying to follow can find the trail.
+seasonalFortune: You will arrive somewhere before you are expected — name what you are moving toward, so someone who is trying to follow can find the trail.
+dailyCommon: Let the urgency insist on itself — it does not need a source to be real.
+dailyUncommon: Move from somewhere the room cannot identify; the origin is not the point.
+dailyRare: Arrive before you are expected, from a direction no one was watching — let the strangeness do its work.
 ---
 
 Ashen Green Beans are the Bean Zodiac's most eerie — their energy insists on itself from a source the room cannot identify.

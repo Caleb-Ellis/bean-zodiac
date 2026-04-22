@@ -6,7 +6,10 @@ form: boiled
 trait: adaptable
 dish: Garbanzos con setas - chickpeas and wild mushrooms in sherry-braised broth.
 quote: The measure of intelligence is the bean ability to change.
-fortune: A continuity will ask to be recognised — let it be confidence, not caveat.
+seasonalFortune: A continuity will ask to be recognised — let it be confidence, not caveat.
+dailyCommon: Read what the moment needs and give it — the adjustment is already in you.
+dailyUncommon: Let the context change you more than feels comfortable — you will be yourself on the other side.
+dailyRare: Give yourself entirely to where you have landed — you carry the thread through every form you take.
 ---
 
 Dashi Chickpeas are the Bean Zodiac's most adaptable — they transform deeply while staying themselves.

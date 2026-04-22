@@ -6,7 +6,10 @@ form: fried
 trait: pragmatic
 dish: Butter bean and shiitake fritters with soy dipping sauce.
 quote: If it works, it's a bean.
-fortune: The practical approach will serve — leave one small opening for the thing that resists it, and attend to what it turns out to contain.
+seasonalFortune: The practical approach will serve — leave one small opening for the thing that resists it, and attend to what it turns out to contain.
+dailyCommon: Take the approach that works — the practical instinct you have is the right one.
+dailyUncommon: Cut to what serves the situation — the clearest path is the one you have already seen.
+dailyRare: Do what works — the simplest version of the answer is the whole answer.
 ---
 
 Tempura Butter Beans are the Bean Zodiac's most pragmatic — whether it's elegant doesn't matter, only whether it works.

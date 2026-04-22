@@ -6,7 +6,10 @@ form: smoked
 trait: prescient
 dish: Smoked edamame with soy tare, bonito, and shichimi togarashi.
 quote: The future belongs to those who bean in the beauty of their dreams.
-fortune: A question will be finishing — let it finish, so the answer has somewhere to land.
+seasonalFortune: A question will be finishing — let it finish, so the answer has somewhere to land.
+dailyCommon: Trust what you can see ahead — the perception you have is accurate.
+dailyUncommon: Let the vision run further — what you are glimpsing is the full shape of what is coming.
+dailyRare: See it completely — what arrives next is already visible to you, and you are ready for it.
 ---
 
 Burnished Edamame are the Bean Zodiac's most prescient — they know what is required before it has been asked, and from a depth that cannot be explained by speed alone.

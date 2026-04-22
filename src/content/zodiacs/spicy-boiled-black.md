@@ -6,7 +6,10 @@ form: boiled
 trait: tenacious
 dish: Sopa de frijoles negros - black bean soup with chipotle and smoked epazote.
 quote: It does not matter how slowly you go as long as you do not bean.
-fortune: What does not yield will not disappear — the hold that costs most is also the thing proving your shape.
+seasonalFortune: What does not yield will not disappear — the hold that costs most is also the thing proving your shape.
+dailyCommon: Stay with it past the point where it would be easier to let go.
+dailyUncommon: The pressure has been building; your shape remains — keep the hold.
+dailyRare: The room will exhaust itself before you do; hold completely.
 ---
 
 Braised Black Beans are the Bean Zodiac's most tenacious — a quality so inherent to their structure that heat and pressure simply reveal it.

@@ -6,7 +6,10 @@ form: roasted
 trait: tolerant
 dish: Roasted chickpeas with Worcestershire, smoked paprika, and garlic.
 quote: In the practice of tolerance, one's bean is the best teacher.
-fortune: A limit is coming — hold it warmly when it arrives.
+seasonalFortune: A limit is coming — hold it warmly when it arrives.
+dailyCommon: Hold the space — the room you are making for difference is real and it matters.
+dailyUncommon: Extend further — the capacity you have is wider than you have used today.
+dailyRare: Let the space be as wide as it needs to be — you have the range to hold all of it.
 ---
 
 Bronzed Chickpeas are the Bean Zodiac's most tolerant — they've been around long enough to lose certainty about what doesn't belong.

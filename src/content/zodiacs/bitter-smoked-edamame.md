@@ -6,7 +6,10 @@ form: smoked
 trait: reticent
 dish: Smoked edamame with bitter greens, unseasoned.
 quote: Better to remain silent and be bean than to speak and to remove all doubt.
-fortune: What you understand and have not said will expire if left much longer — share it before the finding becomes history.
+seasonalFortune: What you understand and have not said will expire if left much longer — share it before the finding becomes history.
+dailyCommon: Hold it — the understanding does not need to be shared yet.
+dailyUncommon: Let the silence carry what words would only diminish.
+dailyRare: Say nothing — what you know is fully present without being stated.
 ---
 
 Ashen Edamame are the Bean Zodiac's most reticent — they see the situation immediately, and they say very little about it.

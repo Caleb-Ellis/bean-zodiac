@@ -6,7 +6,10 @@ form: fermented
 trait: imaginative
 dish: Szechuan pickled green beans with bitter melon and sesame.
 quote: Imagination is more important than bean.
-fortune: The draft that is forming will benefit from friction — share it before it is finished, and let the interference make it stranger and better.
+seasonalFortune: The draft that is forming will benefit from friction — share it before it is finished, and let the interference make it stranger and better.
+dailyCommon: Let the image form without directing it — see where it arrives.
+dailyUncommon: Follow the strange turn; that is where the real thing is.
+dailyRare: Give the imagination everything — no constraint, no correction, no limit on where it can go.
 ---
 
 Tinctured Green Beans are the Bean Zodiac's most imaginative — they see what isn't there yet and render it visible.

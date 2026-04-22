@@ -6,7 +6,10 @@ form: boiled
 trait: restless
 dish: Taze fasulye - Turkish green beans slow-cooked with lemon, garlic, and tomato.
 quote: I am not a bean at ease.
-fortune: The restlessness will point somewhere — when it does, follow it to the one thing that needs finishing before it redirects.
+seasonalFortune: The restlessness will point somewhere — when it does, follow it to the one thing that needs finishing before it redirects.
+dailyCommon: Let the restlessness point somewhere — follow it to the one thing it is actually asking for.
+dailyUncommon: The urge to move is real; so is the thing that still needs finishing before you do.
+dailyRare: Stay where you are — what you are looking for is still forming here, and leaving now would miss it.
 ---
 
 Brined Green Beans are the Bean Zodiac's most restless — always adjusting between the need to move and the need to stay.

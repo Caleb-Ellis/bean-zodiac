@@ -6,7 +6,10 @@ form: roasted
 trait: forthright
 dish: Yaki edamame with yuzu kosho - oven-roasted edamame with yuzu pepper paste and flaky salt
 quote: All you need in this life is ignorance and beans, and then success is sure.
-fortune: Something you know will be needed by someone who does not know to ask — volunteer it before the moment passes.
+seasonalFortune: Something you know will be needed by someone who does not know to ask — volunteer it before the moment passes.
+dailyCommon: The thing worth saying is ready — say it before you are asked.
+dailyUncommon: Volunteer it now; the moment is here.
+dailyRare: Give it fully — everything you know that is relevant, right now.
 ---
 
 Charred Edamame are the Bean Zodiac's most forthright — they volunteer truth from warmth, not compulsion.

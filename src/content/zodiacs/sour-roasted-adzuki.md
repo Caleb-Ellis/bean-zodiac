@@ -6,7 +6,10 @@ form: roasted
 trait: transparent
 dish: Iri-azuki - roasted adzuki beans with yuzu zest and sea salt
 quote: The naked bean is the most decent thing in the world.
-fortune: The transparency will give Beans something to trust — the slow work of building it is worth continuing.
+seasonalFortune: The transparency will give Beans something to trust — the slow work of building it is worth continuing.
+dailyCommon: The open version is available — use it.
+dailyUncommon: Let more be visible than you usually would.
+dailyRare: Show everything — the full interior, without selection.
 ---
 
 Charred Adzuki Beans are the Bean Zodiac's most transparent — they are exactly what they appear to be.

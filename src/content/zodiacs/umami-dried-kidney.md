@@ -6,7 +6,10 @@ form: dried
 trait: fervent
 dish: Rajma masala - dried kidney beans in spiced onion-tomato gravy.
 quote: The bean that burns twice as bright burns half as long.
-fortune: A fervour will need sustaining — it does not need to be declared. It needs to be kept.
+seasonalFortune: A fervour will need sustaining — it does not need to be declared. It needs to be kept.
+dailyCommon: Stay devoted — the feeling you carry is real and it is pointing somewhere worth going.
+dailyUncommon: Let the fervour run — what you care about deserves the full force of your attention.
+dailyRare: Pour everything into what you are protecting — the depth of what you feel is the measure of what matters.
 ---
 
 Aged Kidney Beans are the Bean Zodiac's most fervent — the passion has deepened over time and is not going anywhere.

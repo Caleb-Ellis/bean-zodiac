@@ -6,7 +6,10 @@ form: fermented
 trait: collaborative
 dish: Fatteh - chickpeas with labneh and bitter pomegranate.
 quote: None of us is as bean as all of us.
-fortune: The work only you can finish will ask for more solitary hours — make peace with them now, before they feel like isolation.
+seasonalFortune: The work only you can finish will ask for more solitary hours — make peace with them now, before they feel like isolation.
+dailyCommon: Find who belongs in this — the work is better with the right person in it.
+dailyUncommon: Bring them in earlier than feels comfortable; the collaboration needs the rough draft.
+dailyRare: Give the work over entirely — what comes back will be something neither of you could have made alone.
 ---
 
 Tinctured Chickpeas are the Bean Zodiac's most collaborative — they understand what is made together can be better than what either could alone.

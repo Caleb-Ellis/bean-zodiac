@@ -6,7 +6,10 @@ form: dried
 trait: circumspect
 dish: Ceci in Zimino - chickpeas with bitter chard.
 quote: Look before you bean.
-fortune: A thing you have been protecting yourself from is about to resolve — check whether what is kept out still warrants the caution.
+seasonalFortune: A thing you have been protecting yourself from is about to resolve — check whether what is kept out still warrants the caution.
+dailyCommon: Read the room before committing — there is more to see.
+dailyUncommon: Hold your position until the conditions are fully clear; nothing needs to be decided before they are.
+dailyRare: Survey every angle before you move — circumspection at this depth is not caution, it is precision.
 ---
 
 Desiccated Chickpeas are the Bean Zodiac's most circumspect — they move between worlds carefully, committing nothing before the conditions are clear.

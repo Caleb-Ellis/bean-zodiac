@@ -6,7 +6,10 @@ form: boiled
 trait: judicious
 dish: Adzuki bean soup with chrysanthemum greens and yuzu.
 quote: To bean, or not to bean, that is the question.
-fortune: A verdict will be asked of you before the evidence is complete — speak the deliberation aloud while it is still forming, not only the conclusion.
+seasonalFortune: A verdict will be asked of you before the evidence is complete — speak the deliberation aloud while it is still forming, not only the conclusion.
+dailyCommon: The slower assessment is the correct one — trust the time it takes.
+dailyUncommon: Render your judgment before circumstance renders it for you.
+dailyRare: Give the full weight of consideration to what is before you — even where the room has grown impatient waiting for the verdict.
 ---
 
 Decocted Adzuki Beans are the Bean Zodiac's most judicious — they carry the Adzuki Bean's deep instinct for celebration, but they do not spend it until the conditions have been met.

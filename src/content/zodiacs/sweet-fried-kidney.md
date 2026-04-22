@@ -6,7 +6,10 @@ form: fried
 trait: protective
 dish: Hotteok with red bean — Korean street pancakes fried until blistered, filled with sweetened kidney bean paste and brown sugar.
 quote: We must protect the beans at all cost!
-fortune: A cover will be questioned — ask whether it is giving confidence or removing the chance to build it.
+seasonalFortune: A cover will be questioned — ask whether it is giving confidence or removing the chance to build it.
+dailyCommon: Stand between the thing you love and what is coming at it.
+dailyUncommon: The protection you offer today is what allows the people around you to move freely.
+dailyRare: Cover it completely — your capacity for this is equal to what is needed.
 ---
 
 Caramelised Kidney Beans are the Bean Zodiac's most protective — what moves between them and the Beans they love is very little.

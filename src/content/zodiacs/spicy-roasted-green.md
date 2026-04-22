@@ -6,7 +6,10 @@ form: roasted
 trait: optimistic
 dish: Gān biān sìjì dòu - Sichuan dry-fried green beans with chili bean paste and Sichuan pepper.
 quote: In the middle of every difficulty lies a beany opportunity.
-fortune: The optimism will be tested — hold your positivity and your reality in the same hand, so the wins are real and the setbacks are survivable.
+seasonalFortune: The optimism will be tested — hold your positivity and your reality in the same hand, so the wins are real and the setbacks are survivable.
+dailyCommon: The optimism today is warranted — let it carry the room.
+dailyUncommon: The certainty that it will work is real; hold it alongside what is actually happening.
+dailyRare: Bring the full optimism today — every bit of it, alongside the full reality, in the same hand.
 ---
 
 Peri-Peri Green Beans are the Bean Zodiac's most optimistic — they show up certain it will work.

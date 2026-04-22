@@ -6,7 +6,10 @@ form: smoked
 trait: feverish
 dish: Smoked kidney bean with bitter ember oil.
 quote: I have a bean.
-fortune: The intensity building has a source — trace it now, before the next turn inherits it without knowing what it is.
+seasonalFortune: The intensity building has a source — trace it now, before the next turn inherits it without knowing what it is.
+dailyCommon: Let the heat run — it is burning for a reason.
+dailyUncommon: Feed what is burning; this intensity has somewhere to go.
+dailyRare: Run at full fever — nothing dampened, nothing rationalised, the complete heat of it.
 ---
 
 Ashen Kidney Beans are the Bean Zodiac's most feverish — a passion that has become uncoupled from the thing that lit it.

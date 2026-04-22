@@ -6,7 +6,10 @@ form: boiled
 trait: analytical
 dish: Edamame and wakame soup with citrus peel.
 quote: If you can't bean it, you can't manage it.
-fortune: The remaining variable cannot be measured — when you arrive at the edge of analysis, trust the tasting.
+seasonalFortune: The remaining variable cannot be measured — when you arrive at the edge of analysis, trust the tasting.
+dailyCommon: The structure is visible — identify it before making the move.
+dailyUncommon: Where analysis ends, a single taste tells more than the next hour of reduction.
+dailyRare: Take it apart until the mechanism is fully visible — nothing should remain opaque when the method is applied completely.
 ---
 
 Decocted Edamame are the Bean Zodiac's most analytical — they take things apart to understand their structure.

@@ -6,7 +6,10 @@ form: fermented
 trait: independent
 dish: Alubias con chorizo - Spanish white bean stew with spicy fermented sausage and smoked paprika.
 quote: The bean who follows the crowd will usually get no further than the crowd.
-fortune: The conclusions arrived at alone are sound — let one be tested by someone you trust before they are locked in.
+seasonalFortune: The conclusions arrived at alone are sound — let one be tested by someone you trust before they are locked in.
+dailyCommon: The conclusion arrived at alone is sound — test it with one Bean you trust before locking it in.
+dailyUncommon: The independence is real and earned; let one point of contact in.
+dailyRare: The full conviction is yours — bring it entirely, and stay open to the one voice worth hearing.
 ---
 
 Kimchi Navy Beans are the Bean Zodiac's most independent — they followed no one to get here.

@@ -6,7 +6,10 @@ form: dried
 trait: laconic
 dish: Black bean soup with ancho chile and dark chocolate.
 quote: Speech is silver; bean is golden.
-fortune: Your silence will be read as both presence and absence — find one occasion where a word is worth more than the space you would have left.
+seasonalFortune: Your silence will be read as both presence and absence — find one occasion where a word is worth more than the space you would have left.
+dailyCommon: One word lands better than three — find it.
+dailyUncommon: Cut everything before the last clause; the conclusion is the only part that carries weight.
+dailyRare: Say the one thing, then let the silence carry everything that follows.
 ---
 
 Desiccated Black Beans are the Bean Zodiac's most laconic — they say exactly one thing, and it is the right one.

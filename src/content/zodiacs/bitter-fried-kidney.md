@@ -6,7 +6,10 @@ form: fried
 trait: confrontational
 dish: Akara - kidney bean fritters with bitter pepper sauce.
 quote: The bean who speaks the difficult truth is a friend; the one who flatters is an enemy.
-fortune: The confrontation that has not resolved will ask to be approached again — try the side door before the next direct move.
+seasonalFortune: The confrontation that has not resolved will ask to be approached again — try the side door before the next direct move.
+dailyCommon: The difficulty is there — move toward it directly.
+dailyUncommon: Do not approach from the side; this one deserves to be met head-on.
+dailyRare: Go straight at it — full force, no softening, no detour.
 ---
 
 Scorched Kidney Beans are the Bean Zodiac's most confrontational — they go directly toward difficult things.

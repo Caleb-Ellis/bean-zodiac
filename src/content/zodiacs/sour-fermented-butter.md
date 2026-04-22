@@ -6,7 +6,10 @@ form: fermented
 trait: minimalist
 dish: Butter bean and labneh with preserved lemon and olive oil.
 quote: Less is bean.
-fortune: The space that has been made will be asked to hold something — what remains is what was always essential.
+seasonalFortune: The space that has been made will be asked to hold something — what remains is what was always essential.
+dailyCommon: The simpler version is the right one — use it.
+dailyUncommon: Take out one more thing; what is left will be better for the absence.
+dailyRare: Leave only what is irreducible — everything else was decoration, and the room will know the difference.
 ---
 
 Pickled Butter Beans are the Bean Zodiac's most minimalist — they have learned that most things improve by taking something away.

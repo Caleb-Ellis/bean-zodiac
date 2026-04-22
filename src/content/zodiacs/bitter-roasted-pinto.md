@@ -6,7 +6,10 @@ form: roasted
 trait: narcissistic
 dish: Frijoles Refritos - with roasted bitter chiles and lard.
 quote: I don't care what you think unless it's about my bean.
-fortune: Something outside the mirror is about to ask for your full attention — give it, and find out what the world offers when you look outward.
+seasonalFortune: Something outside the mirror is about to ask for your full attention — give it, and find out what the world offers when you look outward.
+dailyCommon: Return to the thing you do best — it deserves the attention you give it.
+dailyUncommon: No one else will see what you see in this; that is not a flaw.
+dailyRare: The full measure of your attention belongs here — give it completely and without apology.
 ---
 
 Dark-Roasted Pinto Beans are the Bean Zodiac's most narcissistic — warmth directed entirely inward.

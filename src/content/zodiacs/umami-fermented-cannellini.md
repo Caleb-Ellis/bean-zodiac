@@ -6,7 +6,10 @@ form: fermented
 trait: idealistic
 dish: Cannellini and white miso soup with roasted garlic and rosemary.
 quote: Some beans see things as they are and ask why; I dream of beans that never were and ask why not.
-fortune: The ideal will hold — give the actual world one honest opportunity to be closer than it appeared.
+seasonalFortune: The ideal will hold — give the actual world one honest opportunity to be closer than it appeared.
+dailyCommon: Hold to what it should be — the standard you are keeping is worth keeping.
+dailyUncommon: Let the ideal run at full brightness — it is the measure that matters.
+dailyRare: Refuse the diminished version — what you know it could be is the thing to build toward.
 ---
 
 Miso Cannellini Beans are the Bean Zodiac's most idealistic — they haven't yet been convinced to revise their picture.

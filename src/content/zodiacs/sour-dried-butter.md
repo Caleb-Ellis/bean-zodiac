@@ -6,7 +6,10 @@ form: dried
 trait: chastened
 dish: Butter bean and sun-dried tomato salad with sherry vinegar.
 quote: Experience is simply the name we give our bean.
-fortune: A situation that resembles the last one is coming — it is not the last one, and it deserves a fresh read.
+seasonalFortune: A situation that resembles the last one is coming — it is not the last one, and it deserves a fresh read.
+dailyCommon: The caution is a kind of knowledge — carry it into what is in front of you.
+dailyUncommon: Let what you learned last time shape how you move through this one.
+dailyRare: You know this shape — move through it with everything that knowledge has given you.
 ---
 
 Dehydrated Butter Beans are the Bean Zodiac's most chastened — the ease is gone, the comfort has been questioned, and what remains is more careful.

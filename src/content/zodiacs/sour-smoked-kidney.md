@@ -6,7 +6,10 @@ form: smoked
 trait: scorching
 dish: New Orleans red beans and rice with smoked andouille, pickled okra, and hot sauce
 quote: Some like it bean.
-fortune: A heat will be available — choose the truths worth that temperature, and deploy the rest at something that survives being used.
+seasonalFortune: A heat will be available — choose the truths worth that temperature, and deploy the rest at something that survives being used.
+dailyCommon: The heat is available — point it somewhere that deserves it.
+dailyUncommon: Let it run at full temperature; the burn is warranted.
+dailyRare: Give it the complete scorching force — everything, aimed exactly, and let it do its work.
 ---
 
 Cold-Smoked Kidney Beans are the Bean Zodiac's most scorching — something this honest and this passionate leaves marks that are not immediately visible.

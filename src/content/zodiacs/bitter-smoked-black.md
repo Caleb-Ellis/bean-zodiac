@@ -6,7 +6,10 @@ form: smoked
 trait: spectral
 dish: Smoked black bean broth with charred onion and no garnish.
 quote: To be great is to be bean.
-fortune: Your influence will move through rooms without leaving a clear account — let yourself be placed somewhere, so the change has a name.
+seasonalFortune: Your influence will move through rooms without leaving a clear account — let yourself be placed somewhere, so the change has a name.
+dailyCommon: Move through the room and let the change happen — no account is necessary.
+dailyUncommon: The influence is real even where it cannot be traced — trust that.
+dailyRare: Pass through entirely without being located — the change will outlast the explanation.
 ---
 
 Ashen Black Beans are the Bean Zodiac's most spectral — they move through rooms without leaving a clear account of how anything was changed.

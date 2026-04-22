@@ -6,7 +6,10 @@ form: fried
 trait: aggressive
 dish: Stir-fried fava beans with doubanjiang, ginger, and soy.
 quote: The best bean defense is a good offense.
-fortune: A path will be pressed through — look back once to confirm it is still open for whoever needs to follow.
+seasonalFortune: A path will be pressed through — look back once to confirm it is still open for whoever needs to follow.
+dailyCommon: Push through — the forward movement you are committed to is the right one.
+dailyUncommon: Apply the full force — the moment requires more than caution.
+dailyRare: Drive it all the way — the path is yours and the momentum is real.
 ---
 
 Tempura Fava Beans are the Bean Zodiac's most aggressive — they press forward without waiting for the situation to open up.

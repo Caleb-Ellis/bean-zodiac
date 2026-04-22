@@ -6,7 +6,10 @@ form: fried
 trait: entrepreneurial
 dish: Panisse - chickpea fritters with bitter herb aioli.
 quote: The bean who moves a mountain begins by carrying away small stones.
-fortune: The thing already running will ask to be abandoned for the next gap — stay with it past the point where it gets interesting.
+seasonalFortune: The thing already running will ask to be abandoned for the next gap — stay with it past the point where it gets interesting.
+dailyCommon: The gap is visible — move toward it.
+dailyUncommon: The opportunity is real; commit before someone else names it.
+dailyRare: Everything needed to begin is already present — start now, without waiting for permission.
 ---
 
 Scorched Chickpeas are the Bean Zodiac's most entrepreneurial — they see what is missing and move to fill it.

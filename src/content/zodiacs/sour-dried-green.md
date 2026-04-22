@@ -6,7 +6,10 @@ form: dried
 trait: bracing
 dish: Szechuan dry-fried green beans with black vinegar and ginger.
 quote: Into each life some bean must fall.
-fortune: Someone who needs waking up is coming — read whether they are struggling to stand before you administer it.
+seasonalFortune: Someone who needs waking up is coming — read whether they are struggling to stand before you administer it.
+dailyCommon: The bracing thing you are about to do will leave whoever receives it more awake — proceed.
+dailyUncommon: The shock is the gift; deliver it without softening it.
+dailyRare: The full cold of it is the point — let it arrive at full temperature.
 ---
 
 Dehydrated Green Beans are the Bean Zodiac's most bracing — the freshness remains, but it is cold and sharp and entirely without cushion.

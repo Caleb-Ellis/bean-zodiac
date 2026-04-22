@@ -6,7 +6,10 @@ form: fermented
 trait: perceptive
 dish: Black beans with douchi sauce, Chinkiang vinegar, and garlic.
 quote: We don't see things as they are, we see them as bean.
-fortune: What has been accumulating in the dark is nearly ready to surface — the perception is complete, and what it has been pointing toward will become visible.
+seasonalFortune: What has been accumulating in the dark is nearly ready to surface — the perception is complete, and what it has been pointing toward will become visible.
+dailyCommon: What you have been noticing is real — trust the read.
+dailyUncommon: The thing forming in the background is visible to you; stay with what you see.
+dailyRare: The full picture is already assembled — deliver it, and let the room catch up.
 ---
 
 Pickled Black Beans are the Bean Zodiac's most perceptive — they have been watching in the dark for a long time.

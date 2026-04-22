@@ -6,7 +6,10 @@ form: dried
 trait: reverential
 dish: Azuki no nimono - dried adzuki simmered in dashi and soy.
 quote: The bean is in the ritual, not the result.
-fortune: An ordinary occasion is coming — let it be worth celebrating on its own terms.
+seasonalFortune: An ordinary occasion is coming — let it be worth celebrating on its own terms.
+dailyCommon: Mark this moment — something is worth pausing for, and you are the one who will do it.
+dailyUncommon: Treat the occasion as it deserves — give it the full weight of your attention.
+dailyRare: Make it sacred — what you consecrate becomes the thing others remember was worth honouring.
 ---
 
 Aged Adzuki Beans are the Bean Zodiac's most reverential — celebration is not casual for them; it is a form of devotion.

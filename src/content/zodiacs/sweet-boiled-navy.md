@@ -6,7 +6,10 @@ form: boiled
 trait: frugal
 dish: Navy bean and black treacle pudding — beans boiled with treacle, ginger, and oats into a thick steamed pudding.
 quote: Beware of little bean expenses; a small leak will sink a great ship.
-fortune: The thing worth spending on will appear — do not let frugality close the door before you recognise it.
+seasonalFortune: The thing worth spending on will appear — do not let frugality close the door before you recognise it.
+dailyCommon: The simpler option is the correct one.
+dailyUncommon: What you already have is worth a closer look.
+dailyRare: Your instinct for the essential is protecting what matters most — apply it fully.
 ---
 
 Candied Navy Beans are the Bean Zodiac's most frugal — they manage the gap between what they have and what they need.

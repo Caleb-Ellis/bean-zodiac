@@ -6,7 +6,10 @@ form: smoked
 trait: impassioned
 dish: Red beans and rice - kidney beans slow-cooked with smoked andouille, sweet bell pepper, and thyme.
 quote: The heart has its bean that reason knows nothing of.
-fortune: A passion will reach people — name what you are actually fighting for, so the warmth and the declaration arrive together.
+seasonalFortune: A passion will reach people — name what you are actually fighting for, so the warmth and the declaration arrive together.
+dailyCommon: Let the feeling come through in what you say.
+dailyUncommon: The passion you bring today is what makes the argument real — do not remove it.
+dailyRare: Give the full force of it — the impassioned version is the true version, and today it has a room.
 ---
 
 Barbecued Kidney Beans are the Bean Zodiac's most impassioned — the warmth is genuine, and underneath it something urgent is moving without a name.

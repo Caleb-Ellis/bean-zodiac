@@ -6,7 +6,10 @@ form: fried
 trait: funny
 dish: Chickpea flour churros — crispy strips of fried besan batter rolled in sugar and dipped in dark chocolate.
 quote: If you want to tell beans the truth, make them laugh, otherwise they'll kill you.
-fortune: A plain thing will need to land first — put the joke down, and let what you actually think arrive without the wrapper.
+seasonalFortune: A plain thing will need to land first — put the joke down, and let what you actually think arrive without the wrapper.
+dailyCommon: Find the joke that is also true — those are the ones that land.
+dailyUncommon: The lightness you bring is doing something serious — let it keep going.
+dailyRare: Let the full wit out — the room is ready for exactly how funny you actually are.
 ---
 
 Caramelised Chickpeas are the Bean Zodiac's funniest — they find what is absurd and deliver it exactly when it lands.

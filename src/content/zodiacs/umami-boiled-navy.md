@@ -6,7 +6,10 @@ form: boiled
 trait: pedantic
 dish: Senate bean soup - navy bean with ham hock, celery, and onion.
 quote: The bean is in the details.
-fortune: The precision will be applied — make sure the whole it belongs to still deserves it.
+seasonalFortune: The precision will be applied — make sure the whole it belongs to still deserves it.
+dailyCommon: Get it exactly right — the difference will matter to someone who looks closely.
+dailyUncommon: Go back and fix the small thing — you already know which one it is.
+dailyRare: Hold to the precise version — the gap between right and nearly right is the entire point.
 ---
 
 Dashi Navy Beans are the Bean Zodiac's most pedantic — the difference between right and nearly right is not a small difference to them.

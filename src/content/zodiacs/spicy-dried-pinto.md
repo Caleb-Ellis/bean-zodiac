@@ -6,7 +6,10 @@ form: dried
 trait: blazing
 dish: New Mexican dried pinto bean stew with ancho and red New Mexico chile.
 quote: It's better to burn out than to bean away.
-fortune: An intensity is coming that will ask for everything — rest accordingly beforehand, so there is something left for what comes after.
+seasonalFortune: An intensity is coming that will ask for everything — rest accordingly beforehand, so there is something left for what comes after.
+dailyCommon: The temperature today is high — give the work what the moment actually calls for.
+dailyUncommon: The full expressiveness is available; bring it entirely to what is in front of you.
+dailyRare: Everything you touch today will carry the full fire — hold nothing back from this one.
 ---
 
 Sichuan Pinto Beans are the Bean Zodiac's most blazing — the expressiveness has found its highest temperature, and it is not interested in being moderated.

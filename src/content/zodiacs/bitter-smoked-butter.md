@@ -6,7 +6,10 @@ form: smoked
 trait: dreamy
 dish: Smoked butter bean with bitter herb oil.
 quote: We are such stuff as beans are made on.
-fortune: The distance between you and the present will open again — return a little earlier than last time.
+seasonalFortune: The distance between you and the present will open again — return a little earlier than last time.
+dailyCommon: Let the drift continue — the distance is not yet a problem.
+dailyUncommon: Stay in the dream; what is there is more real than what is insisting on your attention.
+dailyRare: Go all the way into it — the present will still be there when you return.
 ---
 
 Ashen Butter Beans are the Bean Zodiac's most dreamy — their calm has drifted far enough from the present that it is difficult to locate in real time.

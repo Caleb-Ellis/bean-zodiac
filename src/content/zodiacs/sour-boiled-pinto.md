@@ -6,7 +6,10 @@ form: boiled
 trait: sarcastic
 dish: Pinto bean and tomatillo caldo with lime and serrano.
 quote: Sarcasm is the lowest form of wit but the highest form of bean.
-fortune: The long observation forming in you will find its moment — let it develop fully before it becomes the thing everyone remembers.
+seasonalFortune: The long observation forming in you will find its moment — let it develop fully before it becomes the thing everyone remembers.
+dailyCommon: The observation has been forming long enough — the moment for it is here.
+dailyUncommon: The timing is now; the line that has been waiting is ready to land.
+dailyRare: The room has set it up perfectly — say the thing, and trust that the timing has done its work.
 ---
 
 Brined Pinto Beans are the Bean Zodiac's most sarcastic — they waited until the timing was exactly right.

@@ -6,7 +6,10 @@ form: fried
 trait: efficient
 dish: Butter bean fritters with preserved lemon aioli - crispy pan-fried butter bean patties with a sharp citrus dipping sauce.
 quote: Give me six hours to chop down a bean and I will spend the first four sharpening the axe.
-fortune: The efficiency will clear space — what remains is the slower work, and it will be worth doing slowly.
+seasonalFortune: The efficiency will clear space — what remains is the slower work, and it will be worth doing slowly.
+dailyCommon: The quickest route is the right one — take it.
+dailyUncommon: Cut the unnecessary step; the destination is already clear.
+dailyRare: Move at full efficiency — every action toward the thing, nothing beside it.
 ---
 
 Brightened Butter Beans are the Bean Zodiac's most efficient — they know where effort should go and spend nothing elsewhere.

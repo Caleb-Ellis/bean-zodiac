@@ -6,7 +6,10 @@ form: smoked
 trait: atmospheric
 dish: Texas smoked pinto beans with brisket drippings, chipotle, and epazote.
 quote: Wherever you go, there you bean.
-fortune: The quality of every room you enter is about to shift — decide what you want the air to carry before you arrive, so the weather is yours to direct.
+seasonalFortune: The quality of every room you enter is about to shift — decide what you want the air to carry before you arrive, so the weather is yours to direct.
+dailyCommon: Set the tone — the quality of the room shifts when you are in it.
+dailyUncommon: Let your presence be deliberate — the atmosphere you carry is yours to direct.
+dailyRare: Fill the room completely — the weather you bring is the one everyone else will be inside of.
 ---
 
 Burnished Pinto Beans are the Bean Zodiac's most atmospheric — their expressiveness has become weather: something you are inside of rather than observing.

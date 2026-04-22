@@ -6,7 +6,10 @@ form: boiled
 trait: playful
 dish: Ingen no shiro-ae — green beans blanched and tossed in sweet sesame tofu cream with a pinch of sugar.
 quote: We don't stop playing because we grow old; we grow old because we stop bean playful.
-fortune: A stillness will arrive — hold it long enough to be seen as something more than motion.
+seasonalFortune: A stillness will arrive — hold it long enough to be seen as something more than motion.
+dailyCommon: Find the version of this that is actually fun.
+dailyUncommon: Bring the lightness — the room is waiting for someone to start.
+dailyRare: Your delight is the most generative force in the space right now — let it run.
 ---
 
 Candied Green Beans are the Bean Zodiac's most playful — lightness that sustains itself over time.

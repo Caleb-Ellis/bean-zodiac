@@ -6,7 +6,10 @@ form: fermented
 trait: intuitive
 dish: Bindaetteok — Korean mung bean pancakes with bitter herb dipping sauce.
 quote: The intuitive bean is a sacred gift and the rational bean is a faithful servant.
-fortune: The read forming in you will be ready before it feels complete — offer it early, with the caveat that it is still becoming.
+seasonalFortune: The read forming in you will be ready before it feels complete — offer it early, with the caveat that it is still becoming.
+dailyCommon: Trust the read before it has finished forming — it is already further along than it feels.
+dailyUncommon: Follow the signal without needing to explain it; the explanation can come after.
+dailyRare: Give the intuition everything — act on it completely, before the rational layer can catch up.
 ---
 
 Tinctured Mung Beans are the Bean Zodiac's most intuitive — they arrive at right reads through processes they cannot explain.

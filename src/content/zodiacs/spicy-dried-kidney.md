@@ -6,7 +6,10 @@ form: dried
 trait: volcanic
 dish: Red beans and rice - New Orleans style with andouille and cayenne.
 quote: Anger is an acid that can do more harm to the bean in which it is stored than to anything on which it is poured.
-fortune: What is accumulating will find its own timing if you do not find it first — read the accumulation earlier this time.
+seasonalFortune: What is accumulating will find its own timing if you do not find it first — read the accumulation earlier this time.
+dailyCommon: Something has been building — read the pressure now, while the reading is still available.
+dailyUncommon: The accumulation is significant; find the channel before it finds one.
+dailyRare: The full force is at the surface today — direct it entirely before the timing chooses itself.
 ---
 
 Sichuan Kidney Beans are the Bean Zodiac's most volcanic — pressure building in silence until the surface can no longer hold it.

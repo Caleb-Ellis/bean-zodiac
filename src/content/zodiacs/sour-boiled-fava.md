@@ -6,7 +6,10 @@ form: boiled
 trait: righteous
 dish: Bissara - Moroccan fava bean soup with lemon and cumin.
 quote: Injustice anywhere is a threat to beans everywhere.
-fortune: A cause will ask for sustained conviction — the version held through the hard middle is the one that will be remembered.
+seasonalFortune: A cause will ask for sustained conviction — the version held through the hard middle is the one that will be remembered.
+dailyCommon: Hold the line — not because it is convenient, but because it is right.
+dailyUncommon: The fair thing is clear and someone needs to say it; that someone is you.
+dailyRare: Do not soften the principle to make it easier to receive — it is correct, and that is enough.
 ---
 
 Brined Fava Beans are the Bean Zodiac's most righteous — they know what is fair and hold that line patiently.

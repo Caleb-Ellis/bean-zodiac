@@ -6,7 +6,10 @@ form: smoked
 trait: ethereal
 dish: Smoked mung with bitter chrysanthemum and wood ear.
 quote: Tread softly because you bean on my dreams.
-fortune: Your care will pass through rooms and change them — find one gesture tangible enough to be held.
+seasonalFortune: Your care will pass through rooms and change them — find one gesture tangible enough to be held.
+dailyCommon: Let the care arrive without explanation — it will be felt even without a source.
+dailyUncommon: Reach further than seems possible; what you tend does not need to be in sight.
+dailyRare: Let the care pass through walls — there is no limit on how far it reaches.
 ---
 
 Ashen Mung Beans are the Bean Zodiac's most ethereal — their care reaches beyond where others can see it going, to things without clear form.

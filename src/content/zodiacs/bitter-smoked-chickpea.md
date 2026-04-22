@@ -6,7 +6,10 @@ form: smoked
 trait: liminal
 dish: Smoked chickpea broth with bitter cress, unresolved.
 quote: Not all those who bean are lost.
-fortune: A doorway is coming that will ask to be walked through, not stood in — close it behind you and see what the room holds.
+seasonalFortune: A doorway is coming that will ask to be walked through, not stood in — close it behind you and see what the room holds.
+dailyCommon: Stay between for now — the door does not need to close yet.
+dailyUncommon: Remain in the threshold; being between is its own form of knowledge.
+dailyRare: Hold the in-between completely — not as failure to arrive, but as the place you are most fluent.
 ---
 
 Ashen Chickpeas are the Bean Zodiac's most liminal — always between places, never quite committed to any of them.

@@ -6,7 +6,10 @@ form: dried
 trait: ardent
 dish: Habichuelas con dulce — dried kidney beans cooked with coconut milk, sweet potato, raisins, and warm spice into a Dominican Easter dessert.
 quote: The course of true love never did run bean.
-fortune: A depth of feeling will need to be said — say one thing, and let the rest be known through it.
+seasonalFortune: A depth of feeling will need to be said — say one thing, and let the rest be known through it.
+dailyCommon: Let the feeling be present in how you speak today.
+dailyUncommon: The depth of what you feel is showing — do not pull it back.
+dailyRare: Say the full thing — the person in front of you is ready to receive it.
 ---
 
 Crystallised Kidney Beans are the Bean Zodiac's most ardent — the passion has been distilled to something patient and permanent.

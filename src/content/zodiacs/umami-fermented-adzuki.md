@@ -6,7 +6,10 @@ form: fermented
 trait: philosophical
 dish: Hatcho miso shiru - adzuki simmered in two-year aged hatcho miso with silken tofu.
 quote: I think, therefore I am a bean.
-fortune: A question will want to be brought outward — share it before the conclusion, and let someone else sit with it.
+seasonalFortune: A question will want to be brought outward — share it before the conclusion, and let someone else sit with it.
+dailyCommon: Follow the question — the thinking you are in is going somewhere worth staying.
+dailyUncommon: Let the question grow to its full size — it has earned that.
+dailyRare: Sit all the way inside it — the deepest questions ask for everything, and you are the one who can give it.
 ---
 
 Miso Adzuki Beans are the Bean Zodiac's most philosophical — they've thought everything through.

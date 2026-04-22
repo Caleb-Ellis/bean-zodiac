@@ -6,7 +6,10 @@ form: fried
 trait: focused
 dish: Stir-fried black beans with oyster sauce, ginger, and scallion.
 quote: The bean's rays do not burn until brought to a focus.
-fortune: An exclusion will have been correct — return briefly to the periphery before it ends, and confirm nothing important has been lost there.
+seasonalFortune: An exclusion will have been correct — return briefly to the periphery before it ends, and confirm nothing important has been lost there.
+dailyCommon: Stay on it — the attention you are giving it is exactly what it needs.
+dailyUncommon: Narrow further — the thing you are looking at has more to give if you go closer.
+dailyRare: Give it your complete attention — everything else can wait.
 ---
 
 Tempura Black Beans are the Bean Zodiac's most focused — they've already decided what matters and they're there completely.

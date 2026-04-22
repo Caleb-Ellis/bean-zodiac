@@ -6,7 +6,10 @@ form: smoked
 trait: incandescent
 dish: Adzuki doenjang-jjigae - adzuki beans in fermented soybean broth with smoked anchovy and gochugaru.
 quote: It is better to burn out than to bean away.
-fortune: You will be asked to burn at full temperature — find the register that is extraordinary without being difficult to remain near.
+seasonalFortune: You will be asked to burn at full temperature — find the register that is extraordinary without being difficult to remain near.
+dailyCommon: The brightness today is real — give it the space to radiate without overwhelming.
+dailyUncommon: The incandescence is at full frequency; find the register that sustains it.
+dailyRare: Burn at the full temperature today — completely, at the register that is extraordinary without being difficult to remain near.
 ---
 
 Chipotle Adzuki Beans are the Bean Zodiac's most incandescent — their festivity burns at a frequency that precedes any visible source.

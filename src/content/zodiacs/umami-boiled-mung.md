@@ -6,7 +6,10 @@ form: boiled
 trait: quiet
 dish: Vietnamese mung bean soup with pork and dried shrimp.
 quote: Silence is a bean's wisdom.
-fortune: A thing has been waiting the longest to be said — break the stillness with it.
+seasonalFortune: A thing has been waiting the longest to be said — break the stillness with it.
+dailyCommon: Hold the stillness — the room will settle into it.
+dailyUncommon: Let the quiet do what it does — the weight of it is already working.
+dailyRare: Say it — the silence you kept has made it the only thing left in the room.
 ---
 
 Dashi Mung Beans are the Bean Zodiac's quietest — the noise around them decreases in their presence.

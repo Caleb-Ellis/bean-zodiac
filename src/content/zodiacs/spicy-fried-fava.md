@@ -6,7 +6,10 @@ form: fried
 trait: risk-taking
 dish: Ta'amiya - Egyptian fava bean falafel with green chili and cumin.
 quote: Only those who will bean far can possibly find out how far one can go.
-fortune: A risk will produce results — look back after, not to second-guess, but to identify which instincts you can trust further next time.
+seasonalFortune: A risk will produce results — look back after, not to second-guess, but to identify which instincts you can trust further next time.
+dailyCommon: The risk today is real — take it and look back after to see what to trust further.
+dailyUncommon: The commitment is made before the math is done; go at it with everything and learn from the result.
+dailyRare: Take the full risk today — commit completely and stay for the accounting of every instinct it tests.
 ---
 
 Red-Hot Fava Beans are the Bean Zodiac's most risk-taking — they commit before the math is finished.

@@ -6,7 +6,10 @@ form: fried
 trait: incisive
 dish: Tostada - black beans with charred tomatillo and bitter greens.
 quote: Two things are infinite - the universe and bean stupidity; and I'm not sure about the universe.
-fortune: Someone will not want the truth at full speed — decide before you arrive whether to lead with the answer or let the question finish first.
+seasonalFortune: Someone will not want the truth at full speed — decide before you arrive whether to lead with the answer or let the question finish first.
+dailyCommon: Find the point and move toward it — everything else is preamble.
+dailyUncommon: Cut to what matters; the long way around wastes both of you.
+dailyRare: The truth is visible — deliver it at full speed without apology.
 ---
 
 Scorched Black Beans are the Bean Zodiac's most incisive — they find the point and deliver it instantly.

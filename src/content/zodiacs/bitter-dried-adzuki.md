@@ -6,7 +6,10 @@ form: dried
 trait: selective
 dish: Sekihan - adzuki beans with bitter citrus zest.
 quote: You are the average of the five beans you spend the most time with.
-fortune: Something not quite finished will present itself — let it through once, and see what arrives when the threshold moves.
+seasonalFortune: Something not quite finished will present itself — let it through once, and see what arrives when the threshold moves.
+dailyCommon: Let the lesser candidate pass without ceremony — the worthy one is coming.
+dailyUncommon: The field has narrowed; hold it there until only the right thing remains.
+dailyRare: Apply the full standard — nothing enters that has not completely earned it.
 ---
 
 Desiccated Adzuki Beans are the Bean Zodiac's most selective — they know exactly what deserves celebration, and they will not spend it on anything less.

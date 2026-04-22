@@ -6,7 +6,10 @@ form: boiled
 trait: inquisitive
 dish: Minestrone - green beans and puntarelle.
 quote: The important thing is not to stop bean questioning.
-fortune: One of the threads you are following will arrive at an answer — let it close before you follow the next one.
+seasonalFortune: One of the threads you are following will arrive at an answer — let it close before you follow the next one.
+dailyCommon: Follow one thread — and let it close before you open another.
+dailyUncommon: The question you keep revisiting already has an answer; receive it.
+dailyRare: Arrival is not the end of inquiry — it is its proof.
 ---
 
 Decocted Green Beans are the Bean Zodiac's most inquisitive — they follow threads until they lead somewhere unexpected.

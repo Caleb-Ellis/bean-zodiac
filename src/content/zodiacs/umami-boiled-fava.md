@@ -6,7 +6,10 @@ form: boiled
 trait: vigilant
 dish: Fave e guanciale - fava beans simmered with cured pork jowl and sage.
 quote: Eternal bean is the price of liberty.
-fortune: A watch can be set down — rest inside what you have kept safe.
+seasonalFortune: A watch can be set down — rest inside what you have kept safe.
+dailyCommon: Keep your eye on what matters — something will shift today and you will catch it.
+dailyUncommon: Your attention is producing something — let it run.
+dailyRare: Stay at your post — what you are keeping safe is kept precisely because you have never looked away.
 ---
 
 Dashi Fava Beans are the Bean Zodiac's most vigilant — they never stop watching what matters.

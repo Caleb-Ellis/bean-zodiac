@@ -6,7 +6,10 @@ form: smoked
 trait: wordless
 dish: Garbanzos con bacalao y pimentón ahumado - chickpeas with salt cod and smoked paprika.
 quote: Actions speak louder than bean.
-fortune: What you will understand will exceed the vocabulary available to it — find the approximation. Something gestures toward the territory.
+seasonalFortune: What you will understand will exceed the vocabulary available to it — find the approximation. Something gestures toward the territory.
+dailyCommon: Let the knowing be enough — the words do not have to arrive for the understanding to be real.
+dailyUncommon: Stay in the wordless place — what you know at this depth is real even without a name.
+dailyRare: Be entirely in what cannot be said — the deepest understanding lives past the reach of language, and you are there.
 ---
 
 Burnished Chickpeas are the Bean Zodiac's most wordless — the depth of their understanding has exceeded the vocabulary available to it.

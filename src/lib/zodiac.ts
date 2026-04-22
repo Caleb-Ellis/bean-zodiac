@@ -245,11 +245,11 @@ export const getFortuneZodiacId = (
 };
 
 export const getFortuneText = (zodiac: Zodiac, rarityId: RarityId): string => {
-  if (rarityId === RarityIds.Heirloom && zodiac.highFortune)
-    return zodiac.highFortune;
-  if (rarityId === RarityIds.Reserve && zodiac.midFortune)
-    return zodiac.midFortune;
-  return zodiac.fortune;
+  if (rarityId === RarityIds.Heirloom && zodiac.dailyRare)
+    return zodiac.dailyRare;
+  if (rarityId === RarityIds.Reserve && zodiac.dailyUncommon)
+    return zodiac.dailyUncommon;
+  return zodiac.dailyCommon ?? zodiac.seasonalFortune;
 };
 
 export type ZodiacMetadata = {

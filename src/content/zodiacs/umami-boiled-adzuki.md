@@ -6,7 +6,10 @@ form: boiled
 trait: affectionate
 dish: Adzuki and white miso soup with silken tofu and wakame.
 quote: All you need is bean.
-fortune: An affection will be returned — the pattern of returning is where it lives.
+seasonalFortune: An affection will be returned — the pattern of returning is where it lives.
+dailyCommon: The small gesture you are considering is worth making — it will land.
+dailyUncommon: The depth of what you feel is not excessive — let more of it be visible today.
+dailyRare: The affection you have been measuring out belongs to them in full — give it.
 ---
 
 Dashi Adzuki Beans are the Bean Zodiac's most affectionate — they hold Beans with structural care.

@@ -6,7 +6,10 @@ form: fermented
 trait: questioning
 dish: Fava bean soup with harissa yogurt and bitter orange.
 quote: The bean that gets questioned, gets answered.
-fortune: An answer is coming — when it does, carry the thoroughness to the next question rather than treating the closure as an ending.
+seasonalFortune: An answer is coming — when it does, carry the thoroughness to the next question rather than treating the closure as an ending.
+dailyCommon: Pull at the thing that has been accepted — there is likely more to it.
+dailyUncommon: Ask the question that has not been asked; the easy answer is usually the incomplete one.
+dailyRare: Question everything before you — nothing has earned its place until you have turned it over completely.
 ---
 
 Tinctured Fava Beans are the Bean Zodiac's most questioning — they pull at what others accept, knowing the best things require more than first answers.

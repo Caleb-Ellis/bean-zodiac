@@ -6,7 +6,10 @@ form: fermented
 trait: industrious
 dish: Edamame with spicy fermented black bean sauce and sesame.
 quote: I'm a great bean believer in luck, and I find the harder I work, the more I have of it.
-fortune: The private work has reached a volume worth surfacing — let someone see the shape of it before it closes.
+seasonalFortune: The private work has reached a volume worth surfacing — let someone see the shape of it before it closes.
+dailyCommon: Surface a piece of the work today — enough to show where you are.
+dailyUncommon: The unseen work has volume; bring some of it into the light.
+dailyRare: Everything done in private has earned its moment — bring the full shape of it forward today.
 ---
 
 Kimchi Edamame are the Bean Zodiac's most industrious — always working, especially unseen.

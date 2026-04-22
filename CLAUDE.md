@@ -32,7 +32,7 @@ A **Preparation** = Flavour × Form name (30 total). Lookup: `getPreparationName
 - **`beans/`** — 12 files (name, tagline, traits[], color, optional modelFile)
 - **`flavours/`** — 5 files (name, character, traits[], color)
 - **`forms/`** — 6 files: boiled, dried, fermented, fried, roasted, smoked (name, tagline, traits[])
-- **`zodiacs/`** — 360 files, filename `{flavour}-{form}-{bean}.md`, frontmatter: slug, bean, flavour, form, trait, dish, quote, fortune. Reference style: `bitter-boiled-adzuki.md`.
+- **`zodiacs/`** — 360 files, filename `{flavour}-{form}-{bean}.md`, frontmatter: slug, bean, flavour, form, trait, dish, quote, seasonalFortune, dailyCommon?, dailyUncommon?, dailyRare?. Reference style: `bitter-boiled-adzuki.md`.
 
 ### Pages
 
@@ -40,6 +40,16 @@ A **Preparation** = Flavour × Form name (30 total). Lookup: `getPreparationName
 - `/calendar` — date picker → "You are the [Preparation] [Bean]"
 - `/compatibility` — two date pickers, shareable via `?a=YYYY-MM-DD&b=YYYY-MM-DD`
 - `/beans/`, `/beans/[slug]`, `/flavours/`, `/flavours/[slug]`, `/forms/`, `/forms/[slug]`
+
+### Daily Fortunes
+
+Each zodiac has one `seasonalFortune` and three daily fortunes keyed to rarity:
+
+- `dailyCommon` — mild expression of the trait
+- `dailyUncommon` — stronger expression of the trait
+- `dailyRare` — the trait at full, unguarded intensity
+
+All fortunes: one sentence, one em dash allowed, no qualifying statements. Each step up intensifies the trait — never pushes against it.
 
 ### Rarity
 

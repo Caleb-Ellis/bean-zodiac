@@ -6,7 +6,10 @@ form: dried
 trait: storied
 dish: Pinto bean pie — dried pintos cooked soft and sweetened into a custard filling for a Southern pie shell, spiced with cinnamon and vanilla.
 quote: After all, tomorrow is another bean.
-fortune: A today will want to be added to the record — let it, rather than living inside what came before.
+seasonalFortune: A today will want to be added to the record — let it, rather than living inside what came before.
+dailyCommon: Add something to today — it belongs in the record.
+dailyUncommon: The story you are living has a new chapter beginning — follow it.
+dailyRare: What is happening now is the part that will matter most to tell — be present for it.
 ---
 
 Crystallised Pinto Beans are the Bean Zodiac's most storied — the marks are faded but the flavour they left is still in everything.
