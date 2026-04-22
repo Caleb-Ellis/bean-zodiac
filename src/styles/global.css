@@ -323,6 +323,15 @@ input[type="date"]::-webkit-datetime-edit-year-field:focus {
   animation: score-shimmer 3.5s linear infinite;
 }
 
+.score-silver {
+  background: linear-gradient(90deg, #d4d4d8 0%, #d4d4d8 33%, #fafafa 50%, #d4d4d8 67%, #d4d4d8 100%);
+  background-size: 300%;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  animation: score-shimmer 3.5s linear infinite;
+}
+
 .score-gleam {
   background: linear-gradient(90deg, #10b981 0%, #10b981 33%, #a7f3d0 50%, #10b981 67%, #10b981 100%);
   background-size: 300%;

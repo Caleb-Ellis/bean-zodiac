@@ -44,7 +44,6 @@ export default function ZodiacResult({
         data={data}
         date={date}
         claimedSlug={claimedSlug}
-        showFortune={showFortune}
         onRelinquish={() => {
           clearClaimedBeanSlug();
           setClaimedSlug(null);

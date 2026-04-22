@@ -1,0 +1,100 @@
+---
+import { getCollection, getEntry, render } from "astro:content";
+import Bean from "../../components/Bean.tsx";
+import Layout from "../../layouts/Layout.astro";
+import { getPreparationName, FLAVOUR_EMOJI, FORM_EMOJI, type FlavourId, type FormId } from "../../lib/zodiac";
+import "../../styles/global.css";
+
+export async function getStaticPaths() {
+  const zodiacs = await getCollection("zodiacs");
+  return zodiacs.map((zodiac) => ({
+    params: { id: zodiac.id },
+    props: { zodiac },
+  }));
+}
+
+const { zodiac } = Astro.props;
+const bean = await getEntry(zodiac.data.bean);
+const flavour = await getEntry(zodiac.data.flavour);
+const form = await getEntry(zodiac.data.form);
+const flavourId = flavour.id as FlavourId;
+const formId = form.id as FormId;
+const preparation = getPreparationName(flavourId, formId);
+const { Content: ZodiacContent } = await render(zodiac);
+---
+
+<Layout
+  title={`${preparation} ${bean.data.name}`}
+  description={zodiac.data.quote}
+>
+  <article
+    class="rounded-2xl bg-zinc-900 border-2 border-zinc-800 overflow-hidden"
+  >
+    <div class="flex flex-col md:flex-row">
+      <div class="w-full md:w-80 shrink-0 aspect-square">
+        <Bean
+          bean={bean.data}
+          flavourId={flavourId}
+          formId={formId}
+        />
+      </div>
+      <div class="p-6 md:p-8 flex flex-col gap-4 min-w-0">
+        <a
+          href="/"
+          class="text-sm text-zinc-500 hover:text-zinc-300 transition-colors"
+        >
+          ← Home
+        </a>
+        <h1 class="text-3xl font-bold">
+          <span
+            style={`background: linear-gradient(135deg, var(--flavour-${flavourId}) 60%, var(--form-${formId}) 75%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; filter: url(#form-${formId}-filter) saturate(1.8) brightness(1.2);`}
+          >
+            {preparation}
+          </span>{" "}
+          <span class={`bean-${bean.id}`}>{bean.data.name}</span>
+        </h1>
+        <div class="flex flex-wrap items-center gap-2 text-sm text-zinc-400">
+          <a
+            href={`/flavours/${flavourId}`}
+            class="flex items-center gap-1.5 px-3 py-1.5 rounded-full bg-zinc-900 border-2 border-zinc-700 hover:border-zinc-500 transition-colors no-underline"
+          >
+            <span>{FLAVOUR_EMOJI[flavourId]}</span>
+            <span class={`flavour-${flavourId}`}>{flavour.data.name}</span>
+          </a>
+          <span class="text-zinc-600">×</span>
+          <a
+            href={`/forms/${formId}`}
+            class="flex items-center gap-1.5 px-3 py-1.5 rounded-full bg-zinc-900 border-2 border-zinc-700 hover:border-zinc-500 transition-colors no-underline"
+          >
+            <span>{FORM_EMOJI[formId]}</span>
+            <span class={`form-${formId}`}>{form.data.name}</span>
+          </a>
+          <span class="text-zinc-600">×</span>
+          <a
+            href={`/beans/${bean.id}`}
+            class="flex items-center gap-1.5 px-3 py-1.5 rounded-full bg-zinc-900 border-2 border-zinc-700 hover:border-zinc-500 transition-colors no-underline"
+          >
+            <span>🫘</span>
+            <span class={`bean-${bean.id}`}>{bean.data.name}</span>
+          </a>
+          <span class="text-zinc-600">=</span>
+          <span class="score-silver px-3 py-1.5 rounded-full bg-zinc-900 border-2 uppercase tracking-wide" style="border-color: #d4d4d8;">
+            {zodiac.data.trait}
+          </span>
+        </div>
+        <p class="text-zinc-300 italic">"{zodiac.data.quote}"</p>
+        <div class="markdown-content mb-2">
+          <ZodiacContent />
+        </div>
+        <section
+          class="bg-zinc-900/80 border-2 border-zinc-700/60 rounded-xl px-6 py-5 backdrop-blur-sm text-center"
+        >
+          <p class="text-xs uppercase tracking-widest text-zinc-200 mb-3">
+            You can find me in
+          </p>
+          <p class="italic text-zinc-200 text-lg">{zodiac.data.dish}</p>
+        </section>
+      </div>
+    </div>
+  </article>
+</Layout>
