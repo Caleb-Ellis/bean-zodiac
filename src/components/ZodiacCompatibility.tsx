@@ -6,8 +6,6 @@ import {
   getTotalCompatibility,
 } from "../lib/compatibility";
 import {
-  FLAVOUR_EMOJI,
-  FORM_EMOJI,
   getPreparationName,
   getZodiacMetadataForDate,
   type BeanId,
@@ -17,6 +15,10 @@ import {
   type ZodiacId,
 } from "../lib/zodiac";
 import Bean from "./Bean";
+import BeanBadge from "./BeanBadge";
+import FlavourBadge from "./FlavourBadge";
+import FormBadge from "./FormBadge";
+import ZodiacName from "./ZodiacName";
 import { getClaimedBeanSlug } from "../lib/claimedBean";
 
 type MetaSlice = { beanId: BeanId; flavourId: FlavourId; formId: FormId };
@@ -304,10 +306,8 @@ function CompatibilityResult({
     <div className="flex flex-col items-center gap-6 w-full animate-fade-up">
       <div className="flex flex-col sm:flex-row gap-6 justify-center items-center sm:items-start w-full max-w-2xl">
         <MiniIdentity
-          beanSlug={beanA.slug}
+          beanId={metaA.beanId}
           beanName={beanA.name}
-          flavourSlug={flavourA.slug}
-          formSlug={formA.slug}
           preparation={prepA}
           bean={beanA}
           flavourId={metaA.flavourId}
@@ -317,10 +317,8 @@ function CompatibilityResult({
           ×
         </div>
         <MiniIdentity
-          beanSlug={beanB.slug}
+          beanId={metaB.beanId}
           beanName={beanB.name}
-          flavourSlug={flavourB.slug}
-          formSlug={formB.slug}
           preparation={prepB}
           bean={beanB}
           flavourId={metaB.flavourId}
@@ -346,18 +344,8 @@ function CompatibilityResult({
             <DimensionRow
               label="Flavour"
               compat={flavourCompat}
-              pairA={{
-                name: flavourA.name,
-                colorClass: `flavour-${flavourA.slug}`,
-                emoji: FLAVOUR_EMOJI[metaA.flavourId],
-                href: `/flavours/${flavourA.slug}`,
-              }}
-              pairB={{
-                name: flavourB.name,
-                colorClass: `flavour-${flavourB.slug}`,
-                emoji: FLAVOUR_EMOJI[metaB.flavourId],
-                href: `/flavours/${flavourB.slug}`,
-              }}
+              badgeA={<FlavourBadge small id={metaA.flavourId} name={flavourA.name} />}
+              badgeB={<FlavourBadge small id={metaB.flavourId} name={flavourB.name} />}
             />
           </div>
           {revealedCount >= 2 && (
@@ -365,18 +353,8 @@ function CompatibilityResult({
               <DimensionRow
                 label="Form"
                 compat={formCompat}
-                pairA={{
-                  name: formA.name,
-                  colorClass: `form-${formA.slug}`,
-                  emoji: FORM_EMOJI[metaA.formId],
-                  href: `/forms/${formA.slug}`,
-                }}
-                pairB={{
-                  name: formB.name,
-                  colorClass: `form-${formB.slug}`,
-                  emoji: FORM_EMOJI[metaB.formId],
-                  href: `/forms/${formB.slug}`,
-                }}
+                badgeA={<FormBadge small id={metaA.formId} name={formA.name} />}
+                badgeB={<FormBadge small id={metaB.formId} name={formB.name} />}
               />
             </div>
           )}
@@ -385,18 +363,8 @@ function CompatibilityResult({
               <DimensionRow
                 label="Bean"
                 compat={beanCompat}
-                pairA={{
-                  name: beanA.name,
-                  colorClass: `bean-${beanA.slug}`,
-                  emoji: "🫘",
-                  href: `/beans/${beanA.slug}`,
-                }}
-                pairB={{
-                  name: beanB.name,
-                  colorClass: `bean-${beanB.slug}`,
-                  emoji: "🫘",
-                  href: `/beans/${beanB.slug}`,
-                }}
+                badgeA={<BeanBadge small id={metaA.beanId} name={beanA.name} />}
+                badgeB={<BeanBadge small id={metaB.beanId} name={beanB.name} />}
               />
             </div>
           )}
@@ -419,23 +387,19 @@ function CompatibilityResult({
 }
 
 function MiniIdentity({
-  beanSlug,
   beanName,
-  flavourSlug,
-  formSlug,
   preparation,
   bean,
   flavourId,
   formId,
+  beanId,
 }: {
-  beanSlug: string;
   beanName: string;
-  flavourSlug: string;
-  formSlug: string;
   preparation: string;
   bean: ZodiacData["beans"][BeanId];
   flavourId: FlavourId;
   formId: FormId;
+  beanId: BeanId;
 }) {
   return (
     <div className="flex flex-col items-center gap-7 flex-1 text-center">
@@ -443,18 +407,13 @@ function MiniIdentity({
         <Bean bean={bean} flavourId={flavourId} formId={formId} />
       </div>
       <p className="font-bold text-lg leading-tight">
-        <span
-          style={{
-            background: `linear-gradient(135deg, var(--flavour-${flavourSlug}) 60%, var(--form-${formSlug}) 75%)`,
-            WebkitBackgroundClip: "text",
-            WebkitTextFillColor: "transparent",
-            backgroundClip: "text",
-            filter: `url(#form-${formSlug}-filter) saturate(1.8) brightness(1.2)`,
-          }}
-        >
-          {preparation}
-        </span>{" "}
-        <span className={`bean-${beanSlug}`}>{beanName}</span>
+        <ZodiacName
+          flavourId={flavourId}
+          formId={formId}
+          beanId={beanId}
+          preparation={preparation}
+          beanName={beanName}
+        />
       </p>
     </div>
   );
@@ -463,13 +422,13 @@ function MiniIdentity({
 function DimensionRow({
   label,
   compat,
-  pairA,
-  pairB,
+  badgeA,
+  badgeB,
 }: {
   label: string;
   compat: { score: number; label: string; description: string };
-  pairA: { name: string; colorClass: string; emoji: string; href: string };
-  pairB: { name: string; colorClass: string; emoji: string; href: string };
+  badgeA: React.ReactNode;
+  badgeB: React.ReactNode;
 }) {
   return (
     <div className="bg-zinc-900/80 border-2 border-zinc-800 rounded-xl px-5 py-4 flex items-center gap-4">
@@ -484,21 +443,9 @@ function DimensionRow({
       <div className="flex flex-col gap-0.5">
         <span className="font-semibold text-white text-sm">{compat.label}</span>
         <span className="flex items-center gap-1 text-xs my-1.5 flex-wrap">
-          <a
-            href={pairA.href}
-            className={`flex items-center gap-1 px-2 py-0.5 rounded-full bg-zinc-800 border border-zinc-700 hover:border-zinc-500 transition-colors no-underline ${pairA.colorClass}`}
-          >
-            <span>{pairA.emoji}</span>
-            {pairA.name}
-          </a>
+          {badgeA}
           <span className="text-zinc-600">×</span>
-          <a
-            href={pairB.href}
-            className={`flex items-center gap-1 px-2 py-0.5 rounded-full bg-zinc-800 border border-zinc-700 hover:border-zinc-500 transition-colors no-underline ${pairB.colorClass}`}
-          >
-            <span>{pairB.emoji}</span>
-            {pairB.name}
-          </a>
+          {badgeB}
         </span>
         <span className="text-zinc-400 text-sm">{compat.description}</span>
       </div>
@@ -507,15 +454,15 @@ function DimensionRow({
 }
 
 function scoreColor(score: number): string {
-  if (score >= 4) return "score-gold";
-  if (score === 3) return "score-gleam";
+  if (score >= 4) return "text-effect-gold";
+  if (score === 3) return "text-effect-emerald";
   if (score === 2) return "text-emerald-400";
   if (score === 1) return "text-green-500";
   if (score === 0) return "text-zinc-400";
   if (score === -1) return "text-amber-500";
   if (score === -2) return "text-red-400";
-  if (score === -3) return "score-smolder";
-  return "score-rot";
+  if (score === -3) return "text-effect-bruise";
+  return "text-effect-rot";
 }
 
 function parseDate(value: string): Date {

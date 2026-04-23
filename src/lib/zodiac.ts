@@ -172,7 +172,7 @@ export const isValidZodiacId = (slug: string): slug is ZodiacId => {
 
 export const RarityIds = {
   Garden: "garden",
-  Reserve: "reserve",
+  Market: "market",
   Heirloom: "heirloom",
 } as const;
 export type RarityId = (typeof RarityIds)[keyof typeof RarityIds];
@@ -189,7 +189,7 @@ const daysSinceOrigin = (date: Date): number =>
 export const getRarityForDate = (date: Date): RarityId => {
   const r = ((daysSinceOrigin(date) % 10) + 10) % 10;
   if (r === 0) return RarityIds.Heirloom;
-  if (r === 3 || r === 7) return RarityIds.Reserve;
+  if (r === 3 || r === 7) return RarityIds.Market;
   return RarityIds.Garden;
 };
 
@@ -198,7 +198,7 @@ export const getRarityForSlug = (slug: string, date: Date): RarityId => {
   for (const c of slug) h = (Math.imul(h, 31) + c.charCodeAt(0)) >>> 0;
   const r = h % 10;
   if (r === 0) return RarityIds.Heirloom;
-  if (r === 3 || r === 7) return RarityIds.Reserve;
+  if (r === 3 || r === 7) return RarityIds.Market;
   return RarityIds.Garden;
 };
 
@@ -247,7 +247,7 @@ export const getFortuneZodiacId = (
 export const getFortuneText = (zodiac: Zodiac, rarityId: RarityId): string => {
   if (rarityId === RarityIds.Heirloom && zodiac.dailyRare)
     return zodiac.dailyRare;
-  if (rarityId === RarityIds.Reserve && zodiac.dailyUncommon)
+  if (rarityId === RarityIds.Market && zodiac.dailyUncommon)
     return zodiac.dailyUncommon;
   return zodiac.dailyCommon ?? zodiac.seasonalFortune;
 };

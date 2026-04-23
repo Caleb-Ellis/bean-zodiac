@@ -1,7 +1,4 @@
 import {
-  FLAVOUR_EMOJI,
-  FORM_EMOJI,
-  RarityIds,
   getFortuneText,
   getFortuneZodiacId,
   getPreparationName,
@@ -14,6 +11,10 @@ import {
   type ZodiacId,
 } from "../lib/zodiac";
 import Bean from "./Bean";
+import BeanBadge from "./BeanBadge";
+import FlavourBadge from "./FlavourBadge";
+import FormBadge from "./FormBadge";
+import ZodiacName from "./ZodiacName";
 
 interface Props {
   data: ZodiacData;
@@ -44,8 +45,6 @@ export default function ClaimedBeanResult({
   const rarityId = getRarityForSlug(claimedSlug, date);
   const seasonalMeta = getZodiacMetadataForDate(date);
   const seasonalBean = data.beans[seasonalMeta.beanId];
-  const seasonalFlavour = data.flavours[seasonalMeta.flavourId];
-  const seasonalForm = data.forms[seasonalMeta.formId];
   const seasonalZodiac = data.zodiacs[seasonalMeta.zodiacId];
   const seasonalPreparation = getPreparationName(
     seasonalMeta.flavourId,
@@ -97,68 +96,28 @@ export default function ClaimedBeanResult({
               </div>
               <div className="flex flex-col items-start gap-2 min-w-0">
                 <p className="text-sm sm:text-base font-bold uppercase tracking-widest text-zinc-200 text-left mb-2">
-                  {rarityId === RarityIds.Heirloom && (
-                    <span className="score-gold">Heirloom </span>
-                  )}
-                  {rarityId === RarityIds.Reserve && (
-                    <span className="score-gleam">Market-Fresh </span>
-                  )}
-                  {rarityId === RarityIds.Garden && (
-                    <span>Store-Bought </span>
-                  )}
-                  <a
-                    href={`/zodiacs/${fortuneZodiacId}`}
-                    className="no-underline hover:underline"
-                  >
-                    <span
-                      style={{
-                        background: `linear-gradient(135deg, var(--flavour-${fortuneFlavour.slug}) 60%, var(--form-${fortuneForm.slug}))`,
-                        WebkitBackgroundClip: "text",
-                        WebkitTextFillColor: "transparent",
-                        backgroundClip: "text",
-                        filter: `url(#form-${fortuneForm.slug}-filter) saturate(1.8) brightness(1.2)`,
-                      }}
-                    >
-                      {fortunePreparation}
-                    </span>{" "}
-                    <span className={`bean-${fortuneBean.slug}`}>
-                      {fortuneBean.name}
-                    </span>
-                  </a>
+                  <ZodiacName
+                    flavourId={fortuneFlavourId}
+                    formId={fortuneFormId}
+                    beanId={fortuneBeanId}
+                    preparation={fortunePreparation}
+                    beanName={fortuneBean.name}
+                    zodiacId={fortuneZodiacId}
+                    rarityId={rarityId}
+                  />
                 </p>
                 <p className="italic text-zinc-200 sm:text-lg text-left sm:mb-1">
                   "{fortuneText}"
                 </p>
                 <div className="flex flex-wrap items-center gap-2 text-sm text-zinc-400 mt-1">
-                  <a
-                    href={`/flavours/${fortuneFlavour.slug}`}
-                    className="flex items-center gap-1.5 px-3 py-1.5 rounded-full bg-zinc-900 border-2 border-zinc-700 hover:border-zinc-500 transition-colors no-underline"
-                  >
-                    <span>{FLAVOUR_EMOJI[fortuneFlavourId]}</span>
-                    <span className={`flavour-${fortuneFlavour.slug}`}>
-                      {fortuneFlavour.name}
-                    </span>
-                  </a>
+                  <FlavourBadge
+                    id={fortuneFlavourId}
+                    name={fortuneFlavour.name}
+                  />
                   <span className="text-zinc-600">×</span>
-                  <a
-                    href={`/forms/${fortuneForm.slug}`}
-                    className="flex items-center gap-1.5 px-3 py-1.5 rounded-full bg-zinc-900 border-2 border-zinc-700 hover:border-zinc-500 transition-colors no-underline"
-                  >
-                    <span>{FORM_EMOJI[fortuneFormId]}</span>
-                    <span className={`form-${fortuneForm.slug}`}>
-                      {fortuneForm.name}
-                    </span>
-                  </a>
+                  <FormBadge id={fortuneFormId} name={fortuneForm.name} />
                   <span className="text-zinc-600">×</span>
-                  <a
-                    href={`/beans/${fortuneBean.slug}`}
-                    className="flex items-center gap-1.5 px-3 py-1.5 rounded-full bg-zinc-900 border-2 border-zinc-700 hover:border-zinc-500 transition-colors no-underline"
-                  >
-                    <span>🫘</span>
-                    <span className={`bean-${fortuneBean.slug}`}>
-                      {fortuneBean.name}
-                    </span>
-                  </a>
+                  <BeanBadge id={fortuneBeanId} name={fortuneBean.name} />
                 </div>
               </div>
             </div>
@@ -174,18 +133,13 @@ export default function ClaimedBeanResult({
             You are the
           </span>
           <span className="block text-4xl sm:text-7xl mb-3 sm:mb-7">
-            <span
-              style={{
-                background: `linear-gradient(135deg, var(--flavour-${flavour.slug}) 60%, var(--form-${form.slug}))`,
-                WebkitBackgroundClip: "text",
-                WebkitTextFillColor: "transparent",
-                backgroundClip: "text",
-                filter: `url(#form-${form.slug}-filter) saturate(1.8) brightness(1.2)`,
-              }}
-            >
-              {preparation}
-            </span>{" "}
-            <span className={`bean-${bean.slug}`}>{bean.name}</span>
+            <ZodiacName
+              flavourId={flavourId}
+              formId={formId}
+              beanId={beanId}
+              preparation={preparation}
+              beanName={bean.name}
+            />
           </span>
         </h2>
         <div className="mb-6 sm:mb-8">
@@ -213,25 +167,14 @@ export default function ClaimedBeanResult({
         </div>
         <p className="text-sm text-zinc-400">
           The {seasonalTrait} Season of the{" "}
-          <a
-            href={`/zodiacs/${seasonalMeta.zodiacId}`}
-            className="no-underline hover:underline"
-          >
-            <span
-              style={{
-                background: `linear-gradient(135deg, var(--flavour-${seasonalFlavour?.slug}) 60%, var(--form-${seasonalForm?.slug}))`,
-                WebkitBackgroundClip: "text",
-                WebkitTextFillColor: "transparent",
-                backgroundClip: "text",
-                filter: `url(#form-${seasonalForm?.slug}-filter) saturate(1.8) brightness(1.2)`,
-              }}
-            >
-              {seasonalPreparation}
-            </span>{" "}
-            <span className={`bean-${seasonalBean?.slug}`}>
-              {seasonalBean?.name}
-            </span>
-          </a>{" "}
+          <ZodiacName
+            flavourId={seasonalMeta.flavourId}
+            formId={seasonalMeta.formId}
+            beanId={seasonalMeta.beanId}
+            preparation={seasonalPreparation}
+            beanName={seasonalBean?.name ?? ""}
+            zodiacId={seasonalMeta.zodiacId}
+          />{" "}
           ends in {daysLeft} {daysLeft === 1 ? "day" : "days"}.
         </p>
         <p className="text-sm italic text-zinc-400">

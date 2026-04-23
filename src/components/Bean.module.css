@@ -4,35 +4,18 @@
   justify-content: center;
   position: relative;
   height: 100%;
-  --flavour-filter: brightness(1);
-  --form-filter: brightness(1);
 
-  img {
-    display: block;
-    width: 100%;
-    height: auto;
-    max-width: 10rem;
-    filter: var(--flavour-filter) var(--form-filter);
-  }
-
-  .solidBean {
+  .glowWrapper {
     width: 100%;
     max-width: 10rem;
-    aspect-ratio: 1;
-    mask-size: contain;
-    mask-repeat: no-repeat;
-    mask-position: center;
-  }
+    filter: var(--flavour-filter, brightness(1))
+      drop-shadow(0 0 0.4rem var(--glow-center-color, transparent))
+      drop-shadow(0 0 0.8rem var(--glow-color, transparent));
 
-  &::before {
-    content: "";
-    position: absolute;
-    inset: -2rem;
-    pointer-events: none;
-    border-radius: 50%;
-    filter: blur(3.5rem);
-    z-index: -1;
-    transform-origin: center;
-    background: radial-gradient(circle, var(--glow-color, transparent) 0%, transparent 70%);
+    img {
+      display: block;
+      width: 100%;
+      height: auto;
+    }
   }
 }

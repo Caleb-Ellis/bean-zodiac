@@ -14,31 +14,19 @@ export default function Bean({ bean, flavourId, formId }: Props) {
     <div
       className={`${styles.bean}${flavourId ? ` flavour-${flavourId}` : ""}`}
       style={
-        formId
+        formId || flavourId
           ? ({
-              "--glow-color": `var(--form-${formId})`,
+              "--glow-color": formId ? `var(--form-${formId})` : "transparent",
+              "--glow-center-color": flavourId
+                ? `var(--flavour-${flavourId})`
+                : "transparent",
             } as React.CSSProperties)
           : undefined
       }
     >
-      {flavourId ? (
-        <img
-          src={imageUrl}
-          alt={`${flavourId} ${bean.name}`}
-          className={[
-            `flavour-filter-${flavourId}`,
-            formId ? `form-filter-${formId}` : "",
-          ]
-            .join(" ")
-            .trim()}
-        />
-      ) : (
-        <img
-          src={imageUrl}
-          alt={bean.name}
-          className={formId ? `form-filter-${formId}` : undefined}
-        />
-      )}
+      <div className={`${styles.glowWrapper}${flavourId ? ` flavour-filter-${flavourId}` : ""}`}>
+        <img src={imageUrl} alt={flavourId ? `${flavourId} ${bean.name}` : bean.name} />
+      </div>
     </div>
   );
 }

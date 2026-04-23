@@ -1,6 +1,7 @@
 ---
 import { getCollection, render } from "astro:content";
 import Bean from "../../components/Bean.tsx";
+import TraitBadge from "../../components/TraitBadge.tsx";
 import Layout from "../../layouts/Layout.astro";
 import "../../styles/global.css";
 
@@ -35,13 +36,7 @@ const { Content: BeanContent } = await render(bean);
           {bean.data.name}
         </h1>
         <ul class="flex flex-wrap gap-1.5 list-none p-0 m-0">
-          {
-            bean.data.traits.map((trait) => (
-              <li class="text-xs px-2.5 py-1 rounded-full bg-zinc-800 text-zinc-300">
-                {trait}
-              </li>
-            ))
-          }
+          {bean.data.traits.map((trait) => <TraitBadge trait={trait} />)}
         </ul>
         <p class="text-zinc-300 italic">{bean.data.tagline}</p>
         <div class="markdown-content">

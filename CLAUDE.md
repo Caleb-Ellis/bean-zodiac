@@ -36,10 +36,10 @@ A **Preparation** = Flavour × Form name (30 total). Lookup: `getPreparationName
 
 ### Pages
 
-- `/` — "The Season of the [Preparation] [Bean]"
-- `/calendar` — date picker → "You are the [Preparation] [Bean]"
+- `/` — "The Season of the [Preparation] [Bean]" when no claimed bean, "You are the [Preparation] [Bean] when bean claimed, alongside daily fortune bean
+- `/wheel` — date picker → "You are the [Preparation] [Bean]"
 - `/compatibility` — two date pickers, shareable via `?a=YYYY-MM-DD&b=YYYY-MM-DD`
-- `/beans/`, `/beans/[slug]`, `/flavours/`, `/flavours/[slug]`, `/forms/`, `/forms/[slug]`
+- `/beans/`, `/beans/[slug]`, `/flavours/`, `/flavours/[slug]`, `/forms/`, `/forms/[slug]`, `/zodiacs/[slug]`
 
 ### Daily Fortunes
 
@@ -57,8 +57,6 @@ All fortunes: one sentence, one em dash allowed, no qualifying statements. Each 
 - **Reserve** — 2-in-10
 - **Garden** — 7-in-10
 
-Exposed as `rarityId` on `ZodiacMetadata`. Badge in `ZodiacIdentity.tsx`. Wheel center fills/glows in rarity color on activation (`RARITY_CENTRE_COLOR` in `ZodiacWheel.tsx`).
-
 ### Compatibility
 
 Scores across bean, flavour, form — each −1/0/+1/+2 — total −4 to +4.
@@ -66,16 +64,9 @@ Scores across bean, flavour, form — each −1/0/+1/+2 — total −4 to +4.
 - `getBeanCompatibility(a, b)` — 78 entries
 - `getFlavourCompatibility(a, b)` — 15 entries
 - `getFormCompatibility(a, b)` — 21 entries
-- `getTotalCompatibility(metaA, metaB)` → `{ score, label, description }` from `TOTAL_COMPATIBILITY` (score 4 = "Same Pod", −4 = "Spoiled Batch")
+- `getTotalCompatibility(metaA, metaB)` → `{ score, label, description }` from `TOTAL_COMPATIBILITY`
 
 All lookups sort IDs alphabetically before joining as key.
-
-### Components
-
-- **`ZodiacResult.tsx`** — `/`, current season + Era/Season/Year badges
-- **`ZodiacIdentity.tsx`** — `/calendar`, personal result + badges
-- **`ZodiacCompatibility.tsx`** — `/compatibility`, per-dimension rows with overall total
-- Preparation name uses a flavour→form gradient with the form's SVG filter for texture
 
 ### Styling
 
