@@ -24,7 +24,7 @@ export default function Bean({ bean, flavourId, formId }: Props) {
           : undefined
       }
     >
-      <div className={`${styles.glowWrapper}${flavourId ? ` flavour-filter-${flavourId}` : ""}`}>
+      <div className={`${styles.glowWrapper}${flavourId && formId ? ` prep-${flavourId}-${formId}` : flavourId ? ` flavour-filter-${flavourId}` : ""}${formId ? ` form-filter-${formId}` : ""}`}>
         <img src={imageUrl} alt={flavourId ? `${flavourId} ${bean.name}` : bean.name} />
       </div>
     </div>

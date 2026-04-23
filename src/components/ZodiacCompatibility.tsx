@@ -14,11 +14,10 @@ import {
   type ZodiacData,
   type ZodiacId,
 } from "../lib/zodiac";
-import Bean from "./Bean";
 import BeanBadge from "./BeanBadge";
 import FlavourBadge from "./FlavourBadge";
 import FormBadge from "./FormBadge";
-import ZodiacName from "./ZodiacName";
+import MiniIdentity from "./MiniIdentity";
 import { getClaimedBeanSlug } from "../lib/claimedBean";
 
 type MetaSlice = { beanId: BeanId; flavourId: FlavourId; formId: FormId };
@@ -386,38 +385,6 @@ function CompatibilityResult({
   );
 }
 
-function MiniIdentity({
-  beanName,
-  preparation,
-  bean,
-  flavourId,
-  formId,
-  beanId,
-}: {
-  beanName: string;
-  preparation: string;
-  bean: ZodiacData["beans"][BeanId];
-  flavourId: FlavourId;
-  formId: FormId;
-  beanId: BeanId;
-}) {
-  return (
-    <div className="flex flex-col items-center gap-7 flex-1 text-center">
-      <div className="h-48 flex items-center justify-center">
-        <Bean bean={bean} flavourId={flavourId} formId={formId} />
-      </div>
-      <p className="font-bold text-lg leading-tight">
-        <ZodiacName
-          flavourId={flavourId}
-          formId={formId}
-          beanId={beanId}
-          preparation={preparation}
-          beanName={beanName}
-        />
-      </p>
-    </div>
-  );
-}
 
 function DimensionRow({
   label,

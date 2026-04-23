@@ -1,0 +1,60 @@
+---
+import { getCollection } from "astro:content";
+import Layout from "../../layouts/Layout.astro";
+import MiniIdentity from "../../components/MiniIdentity.tsx";
+import {
+  buildZodiacData,
+  BeanIds,
+  FlavourIds,
+  FormIds,
+  getPreparationName,
+  type BeanId,
+  type FlavourId,
+  type FormId,
+} from "../../lib/zodiac";
+import "../../styles/global.css";
+
+if (!import.meta.env.DEV) {
+  return new Response(null, { status: 404 });
+}
+
+const data = buildZodiacData(
+  await getCollection("beans"),
+  await getCollection("flavours"),
+  await getCollection("forms"),
+  await getCollection("zodiacs"),
+);
+
+const flavourIds = Object.values(FlavourIds) as FlavourId[];
+const formIds = Object.values(FormIds) as FormId[];
+const beanIds = Object.values(BeanIds) as BeanId[];
+---
+
+<Layout title="Filter Debug">
+  {
+    flavourIds.map((flavourId) =>
+      formIds.map((formId) => {
+        const preparation = getPreparationName(flavourId, formId);
+        return (
+          <section style="margin-bottom: 6rem">
+            <div style="display: grid; grid-template-columns: 1fr 1fr 1fr 1fr; column-gap: 1rem; row-gap: 5rem;">
+              {beanIds.map((beanId) => (
+                <div>
+                  <MiniIdentity
+                    bean={data.beans[beanId]}
+                    beanId={beanId}
+                    beanName={data.beans[beanId].name}
+                    flavourId={flavourId}
+                    formId={formId}
+                    preparation={preparation}
+                    client:load
+                  />
+                </div>
+              ))}
+            </div>
+          </section>
+        );
+      }),
+    )
+  }
+</Layout>

@@ -247,6 +247,153 @@ html {
   --flavour-filter: sepia(0.5) hue-rotate(324deg) saturate(2);
 }
 
+.form-filter-fried {
+  --form-filter: url(#form-fried-filter);
+}
+.form-filter-roasted {
+  --form-filter: url(#form-roasted-filter);
+  transform: scale(0.9);
+}
+.form-filter-boiled {
+  --form-filter: url(#form-boiled-filter);
+  transform: scale(1.05);
+}
+.form-filter-fermented {
+  --form-filter: url(#form-fermented-filter);
+}
+.form-filter-dried {
+  --form-filter: url(#form-dried-filter);
+  transform: scale(0.8);
+}
+.form-filter-smoked {
+  --form-filter: url(#form-smoked-filter);
+}
+
+/* Decocted */
+.prep-bitter-boiled {
+  --flavour-filter: sepia(0.5) hue-rotate(195deg) brightness(0.65) contrast(1.5) saturate(0.7);
+}
+/* Desiccated */
+.prep-bitter-dried {
+  --flavour-filter: grayscale(0.75) contrast(1.3) brightness(0.9);
+}
+/* Tinctured */
+.prep-bitter-fermented {
+  --flavour-filter: sepia(0.5) contrast(1.4) brightness(0.85);
+}
+/* Scorched */
+.prep-bitter-fried {
+  --flavour-filter: brightness(0.65) contrast(1.8) sepia(0.4) hue-rotate(345deg) saturate(1.5);
+}
+/* Dark-Roasted */
+.prep-bitter-roasted {
+  --flavour-filter: brightness(0.75) contrast(2) sepia(0.2);
+}
+/* Ashen */
+.prep-bitter-smoked {
+  --flavour-filter: grayscale(0.9) brightness(1.1) contrast(0.85);
+}
+
+/* Brined */
+.prep-sour-boiled {
+  --flavour-filter: hue-rotate(155deg) saturate(0.5) brightness(1.05);
+}
+/* Dehydrated */
+.prep-sour-dried {
+  --flavour-filter: saturate(1.25) contrast(1.25);
+}
+/* Pickled */
+.prep-sour-fermented {
+  --flavour-filter: sepia(0.15) hue-rotate(35deg) saturate(1.2) contrast(1.2);
+}
+/* Brightened */
+.prep-sour-fried {
+  --flavour-filter: brightness(1.25) saturate(1.25) contrast(1.1);
+}
+/* Charred */
+.prep-sour-roasted {
+  --flavour-filter: contrast(2) brightness(0.8) saturate(1.3) hue-rotate(-15deg);
+}
+/* Cold-Smoked */
+.prep-sour-smoked {
+  --flavour-filter: sepia(0.15) hue-rotate(205deg) saturate(0.45) brightness(1.1);
+}
+
+/* Braised */
+.prep-spicy-boiled {
+  --flavour-filter: sepia(0.6) hue-rotate(340deg) saturate(1.5) brightness(0.85) contrast(1.2);
+}
+/* Sichuan */
+.prep-spicy-dried {
+  --flavour-filter: hue-rotate(320deg) saturate(1.15) contrast(1.1) brightness(1.1);
+}
+/* Kimchi */
+.prep-spicy-fermented {
+  --flavour-filter: sepia(0.25) hue-rotate(330deg) saturate(2) brightness(0.8) contrast(1.5);
+}
+/* Red-Hot */
+.prep-spicy-fried {
+  --flavour-filter: sepia(1) hue-rotate(-41deg) saturate(2.5) brightness(0.8) contrast(2);
+}
+/* Peri-Peri */
+.prep-spicy-roasted {
+  --flavour-filter: sepia(0.65) hue-rotate(-20deg) saturate(2.5) brightness(0.95) contrast(1.5);
+}
+/* Chipotle */
+.prep-spicy-smoked {
+  --flavour-filter: sepia(0.75) hue-rotate(330deg) saturate(2.4) brightness(0.82);
+}
+
+/* Candied */
+.prep-sweet-boiled {
+  --flavour-filter: saturate(1.8) hue-rotate(320deg) contrast(1.1);
+}
+/* Crystallised */
+.prep-sweet-dried {
+  --flavour-filter: brightness(0.9) contrast(1.8) saturate(2.2)
+}
+/* Honeyed */
+.prep-sweet-fermented {
+  --flavour-filter: sepia(0.75) hue-rotate(18deg) saturate(2) contrast(1.1) brightness(0.9);
+}
+/* Caramelised */
+.prep-sweet-fried {
+  --flavour-filter: sepia(0.6) saturate(1.3) brightness(0.88) contrast(1.25);
+}
+/* Glazed */
+.prep-sweet-roasted {
+  --flavour-filter: brightness(1.1) saturate(1.3) contrast(2) hue-rotate(-10deg);
+}
+/* Barbecued */
+.prep-sweet-smoked {
+  --flavour-filter: sepia(0.45) brightness(0.92) saturate(1.5) hue-rotate(-21deg);
+}
+
+/* Dashi */
+.prep-umami-boiled {
+  --flavour-filter: sepia(0.08) contrast(0.9) saturate(0.85) brightness(1.05);
+}
+/* Aged */
+.prep-umami-dried {
+  --flavour-filter: sepia(0.4) saturate(0.65) contrast(1.15);
+}
+/* Miso */
+.prep-umami-fermented {
+  --flavour-filter: sepia(0.7) hue-rotate(12deg) saturate(1.2) brightness(0.85) contrast(1.1);
+}
+/* Tempura */
+.prep-umami-fried {
+  --flavour-filter: sepia(0.3) hue-rotate(35deg) saturate(1.2) brightness(1.051) contrast(0.95);
+}
+/* Bronzed */
+.prep-umami-roasted {
+  --flavour-filter: sepia(0.6) hue-rotate(18deg) saturate(2) contrast(1.3) brightness(0.9);
+}
+/* Burnished */
+.prep-umami-smoked {
+  --flavour-filter: sepia(0.35) brightness(0.75) contrast(1.8) saturate(0.75);
+}
+
 input[type="date"]::-webkit-calendar-picker-indicator {
   filter: invert(1);
   opacity: 0.45;
