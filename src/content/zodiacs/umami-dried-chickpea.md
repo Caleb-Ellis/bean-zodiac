@@ -7,9 +7,9 @@ trait: substantive
 dish: Cocido madrileño - dried chickpeas slow-cooked with pork belly, chorizo, and morcilla.
 quote: The measure of a bean is the sum of its choices.
 seasonalFortune: A novelty will offer itself — trust that staying is the work, and that substance reaches further.
-dailyCommon: Bring everything you have — what you contribute today will carry more than its apparent size.
-dailyUncommon: Let the room feel what you are adding — the weight of it is the gift.
-dailyRare: Give the full substance of what you know — the depth was always the point.
+dailyNeutral: Bring everything you have — what you contribute today will carry more than its apparent size.
+dailyGood: Let the room feel what you are adding — the weight of it is the gift.
+dailyBest: Give the full substance of what you know — the depth was always the point.
 ---
 
 Aged Chickpeas are the Bean Zodiac's most substantive — they move widely but carry real weight, and whatever room they enter is the heavier for it.

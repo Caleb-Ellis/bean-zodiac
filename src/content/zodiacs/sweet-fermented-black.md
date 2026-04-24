@@ -7,9 +7,9 @@ trait: contemplative
 dish: Black bean and white miso caramel tart — sweet miso folded into caramel over a black bean base, baked until just set.
 quote: I think, therefore I am a bean.
 seasonalFortune: What you have been thinking will find the form to be available to someone other than you — watch for the moment.
-dailyCommon: Sit with the thought before bringing it anywhere.
-dailyUncommon: What has been turning in you is almost ready — stay with it.
-dailyRare: Go all the way down into it — the depth is where the thing worth saying lives.
+dailyNeutral: Sit with the thought before bringing it anywhere.
+dailyGood: What has been turning in you is almost ready — stay with it.
+dailyBest: Go all the way down into it — the depth is where the thing worth saying lives.
 ---
 
 Honeyed Black Beans are the Bean Zodiac's most contemplative — occupied with an interior that has been working for a long time.

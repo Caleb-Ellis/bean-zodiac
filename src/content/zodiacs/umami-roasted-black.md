@@ -7,9 +7,9 @@ trait: insightful
 dish: Soy and mirin roasted black soybeans with ginger and star anise.
 quote: The only true wisdom is knowing you know nothing about beans.
 seasonalFortune: A seeing is about to become a conversation — offer it as an opening and stay for what it brings back.
-dailyCommon: Say what you see — the perception you have is worth putting in the room.
-dailyUncommon: Go one layer deeper — the full insight is further in than the first version of it.
-dailyRare: Give the complete picture — what you can see from here, others cannot, and it is time.
+dailyNeutral: Say what you see — the perception you have is worth putting in the room.
+dailyGood: Go one layer deeper — the full insight is further in than the first version of it.
+dailyBest: Give the complete picture — what you can see from here, others cannot, and it is time.
 ---
 
 Bronzed Black Beans are the Bean Zodiac's most insightful — the insight is an invitation, not a verdict.

@@ -7,9 +7,9 @@ trait: restorative
 dish: Moong dal - dried mung beans slow-simmered with turmeric, ginger, and a tadka of cumin.
 quote: Let food be thy bean and bean be thy medicine.
 seasonalFortune: A restoration will be offered — ensure you are also receiving what you give.
-dailyCommon: Offer what restores — the care you give works deeper than the person receiving it knows.
-dailyUncommon: Give the full depth of your attention — the effect will run further than you can see.
-dailyRare: Let the restoration be complete — and then turn it toward yourself, with the same patience you give everyone else.
+dailyNeutral: Offer what restores — the care you give works deeper than the person receiving it knows.
+dailyGood: Give the full depth of your attention — the effect will run further than you can see.
+dailyBest: Let the restoration be complete — and then turn it toward yourself, with the same patience you give everyone else.
 ---
 
 Aged Mung Beans are the Bean Zodiac's most restorative — the care is deep and patient and works slowly, and it has never failed to work.

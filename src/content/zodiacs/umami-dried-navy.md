@@ -7,9 +7,9 @@ trait: enduring
 dish: Boston baked beans - dried navy beans slow-baked with salt pork, molasses, and mustard.
 quote: Endurance is not just the ability to bean a difficult situation — it is to turn it into glory.
 seasonalFortune: An endurance will be demonstrated — allow yourself to rest inside it rather than always pushing past it.
-dailyCommon: Keep your position — what you are holding has value precisely because you have held it this long.
-dailyUncommon: Stay in it — the depth you are building shows only to those who return.
-dailyRare: Hold it all the way through — what endures, endures for a reason, and you are the reason.
+dailyNeutral: Keep your position — what you are holding has value precisely because you have held it this long.
+dailyGood: Stay in it — the depth you are building shows only to those who return.
+dailyBest: Hold it all the way through — what endures, endures for a reason, and you are the reason.
 ---
 
 Aged Navy Beans are the Bean Zodiac's most enduring — still here, still holding, the depth increasing with every season passed.

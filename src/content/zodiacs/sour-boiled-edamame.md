@@ -7,9 +7,9 @@ trait: logical
 dish: Edamame miso soup with rice vinegar and wakame.
 quote: Logic will get you from A to bean, but imagination will take you everywhere.
 seasonalFortune: The chain will complete — what the steps have been building toward is close enough to see.
-dailyCommon: Follow the reasoning where it actually leads — it is shorter than it appears.
-dailyUncommon: The simplest answer is already in front of you; resist the urge to complicate it.
-dailyRare: The logic has arrived at its conclusion — let it land, even if the room expected something less clean.
+dailyNeutral: Follow the reasoning where it actually leads — it is shorter than it appears.
+dailyGood: The simplest answer is already in front of you; resist the urge to complicate it.
+dailyBest: The logic has arrived at its conclusion — let it land, even if the room expected something less clean.
 ---
 
 Brined Edamame are the Bean Zodiac's most logical — they follow the argument where it actually goes, often simpler than it appears.

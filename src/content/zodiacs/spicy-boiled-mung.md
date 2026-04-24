@@ -7,9 +7,9 @@ trait: worrisome
 dish: Nokdu juk - Korean mung bean porridge with gochugaru and sesame.
 quote: I have known a great many troubles, but most of them never bean.
 seasonalFortune: Not every preparation will improve the outcome — let one thing come that you did not prepare for, and see what happens.
-dailyCommon: The thing circling in your mind deserves a deliberate pass — name it and return to the work.
-dailyUncommon: Hold every contingency in view today; the preparation is worth the weight.
-dailyRare: The full catalogue of what could go wrong deserves your attention today — bring it all, completely.
+dailyNeutral: The thing circling in your mind deserves a deliberate pass — name it and return to the work.
+dailyGood: Hold every contingency in view today; the preparation is worth the weight.
+dailyBest: The full catalogue of what could go wrong deserves your attention today — bring it all, completely.
 ---
 
 Braised Mung Beans are the Bean Zodiac's most worrisome — every risk feels immediate and impossible to set down.

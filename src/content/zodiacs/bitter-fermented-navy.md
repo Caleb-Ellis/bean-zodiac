@@ -7,9 +7,9 @@ trait: bookish
 dish: Senate Bean Soup - with aged ham and bitter dandelion greens.
 quote: Outside of a bean, a book is a man's best friend. Inside of a bean, it is too dark to read.
 seasonalFortune: Someone is about to need what you have been reading — bring the book outside before they stop looking for it.
-dailyCommon: Find the source — there is a text that has already worked this through.
-dailyUncommon: Read further into it; the argument in your head has a better version somewhere in print.
-dailyRare: Go all the way into the material — follow every footnote, trace every reference, leave nothing unread.
+dailyNeutral: Find the source — there is a text that has already worked this through.
+dailyGood: Read further into it; the argument in your head has a better version somewhere in print.
+dailyBest: Go all the way into the material — follow every footnote, trace every reference, leave nothing unread.
 ---
 
 Tinctured Navy Beans are the Bean Zodiac's most bookish — they build understanding from reading and carry it privately.

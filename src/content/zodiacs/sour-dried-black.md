@@ -7,9 +7,9 @@ trait: impenetrable
 dish: Black bean and dried hibiscus soup with lime.
 quote: No bean is an island, entire of itself.
 seasonalFortune: A wall you have built will be respected — leave one opening, or the wall will become the whole thing.
-dailyCommon: The distance you are keeping is deliberate — hold it as long as you need.
-dailyUncommon: The wall is doing what you built it for — stand behind it and let it work.
-dailyRare: Let nothing through today; the barrier is exactly as thick as it needs to be.
+dailyNeutral: The distance you are keeping is deliberate — hold it as long as you need.
+dailyGood: The wall is doing what you built it for — stand behind it and let it work.
+dailyBest: Let nothing through today; the barrier is exactly as thick as it needs to be.
 ---
 
 Dehydrated Black Beans are the Bean Zodiac's most impenetrable — nothing passes in or out that has not been examined first.

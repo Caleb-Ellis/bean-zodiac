@@ -7,9 +7,9 @@ trait: headstrong
 dish: Pad prik khing - Thai stir-fried green beans with red curry paste and kaffir lime.
 quote: Well-bean is that which is done with determination.
 seasonalFortune: The direction is right — turn around before you arrive, not after, and collect what the Beans behind you found.
-dailyCommon: The direction is set — turn around before you arrive and collect what those behind you found.
-dailyUncommon: The headstrong move is correct; bring everyone who can keep up.
-dailyRare: Move in the full direction today, at full speed — and turn around before you arrive.
+dailyNeutral: The direction is set — turn around before you arrive and collect what those behind you found.
+dailyGood: The headstrong move is correct; bring everyone who can keep up.
+dailyBest: Move in the full direction today, at full speed — and turn around before you arrive.
 ---
 
 Red-Hot Green Beans are the Bean Zodiac's most headstrong — once decided, they move immediately.

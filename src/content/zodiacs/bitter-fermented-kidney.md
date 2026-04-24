@@ -7,9 +7,9 @@ trait: intense
 dish: Doenjang Jjigae - red beans with bitter greens.
 quote: Beware the bean who is quiet in a crisis.
 seasonalFortune: The intensity building in you will need an outlet before it finds its own — find one before the moment turns.
-dailyCommon: Let what you carry be felt — it does not need to be understood to be present.
-dailyUncommon: Go further into it; the surface version is not what this actually is.
-dailyRare: Release the full weight of it — nothing held back, nothing softened, the complete thing.
+dailyNeutral: Let what you carry be felt — it does not need to be understood to be present.
+dailyGood: Go further into it; the surface version is not what this actually is.
+dailyBest: Release the full weight of it — nothing held back, nothing softened, the complete thing.
 ---
 
 Tinctured Kidney Beans are the Bean Zodiac's most intense — they carry more beneath the surface than most will show.

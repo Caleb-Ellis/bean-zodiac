@@ -7,9 +7,9 @@ trait: cautious
 dish: Pajeon - mung bean pancakes with bitter greens and vinegar dip.
 quote: Look before you bean.
 seasonalFortune: The next right move is the action, not another check — when the moment comes, the preparation is finished.
-dailyCommon: Check the conditions before committing — there is still time to look.
-dailyUncommon: Nothing passes through without being verified; apply the full scrutiny.
-dailyRare: Examine everything — no move is made before every variable has been assessed.
+dailyNeutral: Check the conditions before committing — there is still time to look.
+dailyGood: Nothing passes through without being verified; apply the full scrutiny.
+dailyBest: Examine everything — no move is made before every variable has been assessed.
 ---
 
 Scorched Mung Beans are the Bean Zodiac's most cautious — they check everything before acting fast.

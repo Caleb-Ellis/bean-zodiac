@@ -7,9 +7,9 @@ trait: haunting
 dish: Boston baked beans - navy beans slow-cooked with smoked salt pork, molasses, and brown sugar.
 quote: I am haunted by bean.
 seasonalFortune: What you leave will still be present after you have gone — ask whether you have truly arrived somewhere, or only passed through and left the impression of a door.
-dailyCommon: Leave something in the room — the impression matters.
-dailyUncommon: What you bring today will stay after you have gone — make it worth the staying.
-dailyRare: Let the full weight of it linger — be present in the way that cannot be forgotten.
+dailyNeutral: Leave something in the room — the impression matters.
+dailyGood: What you bring today will stay after you have gone — make it worth the staying.
+dailyBest: Let the full weight of it linger — be present in the way that cannot be forgotten.
 ---
 
 Barbecued Navy Beans are the Bean Zodiac's most haunting — their loyalty leaves an impression that persists well after they have gone.

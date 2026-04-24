@@ -7,9 +7,9 @@ trait: loyal
 dish: Caldo Verde - kidney beans and kale.
 quote: The bean that matters most is not the one you were born with, but the one you choose to keep.
 seasonalFortune: A test of your loyalty is coming that will ask whether you are staying for them or staying for yourself.
-dailyCommon: The commitment you made still holds — honor it without being asked.
-dailyUncommon: Ask whether you are staying because it serves them or because leaving is harder.
-dailyRare: Stay; the depth of this commitment needs no explanation and will not accept one.
+dailyNeutral: The commitment you made still holds — honor it without being asked.
+dailyGood: Ask whether you are staying because it serves them or because leaving is harder.
+dailyBest: Stay; the depth of this commitment needs no explanation and will not accept one.
 ---
 
 Decocted Kidney Beans are the Bean Zodiac's most loyal — they commit completely and stay, long after others leave.

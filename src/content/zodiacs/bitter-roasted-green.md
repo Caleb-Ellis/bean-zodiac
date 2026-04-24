@@ -7,9 +7,9 @@ trait: competitive
 dish: Roasted green beans with bitter almond crust and preserved lemon.
 quote: Beaning isn't everything, but wanting to is.
 seasonalFortune: A gap between effort and result is coming — it is evidence, and evidence can be used.
-dailyCommon: Measure the gap and close it — that is the point.
-dailyUncommon: Push harder than the last round; the standard exists to be exceeded.
-dailyRare: Give everything available — hold nothing back, leave no margin for the next person.
+dailyNeutral: Measure the gap and close it — that is the point.
+dailyGood: Push harder than the last round; the standard exists to be exceeded.
+dailyBest: Give everything available — hold nothing back, leave no margin for the next person.
 ---
 
 Dark-Roasted Green Beans are the Bean Zodiac's most competitive — they need to win and want you to see it.

@@ -7,9 +7,9 @@ trait: combustible
 dish: Harira - Moroccan chickpea soup with ras el hanout.
 quote: It only takes a bean to start a great fire.
 seasonalFortune: A heat will follow you into the next room — check what you are leaving behind before you go.
-dailyCommon: Something today will catch — stay aware of what you are near.
-dailyUncommon: The contact today is live; the heat will follow whatever you touch.
-dailyRare: Everything you move through today will ignite behind you — move with full intention.
+dailyNeutral: Something today will catch — stay aware of what you are near.
+dailyGood: The contact today is live; the heat will follow whatever you touch.
+dailyBest: Everything you move through today will ignite behind you — move with full intention.
 ---
 
 Sichuan Chickpeas are the Bean Zodiac's most combustible — they fit into every room, and in every room, eventually, something ignites.

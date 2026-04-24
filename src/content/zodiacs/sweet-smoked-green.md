@@ -7,9 +7,9 @@ trait: iridescent
 dish: Southern green beans slow-cooked with smoked ham hock, brown sugar, and sweet onion.
 quote: A thing of bean is a joy forever.
 seasonalFortune: A quality will change with every angle — find one reading that holds in any light.
-dailyCommon: Show the different angle — it changes what is visible.
-dailyUncommon: The way you shift today will reveal something that has been hidden in the fixed reading.
-dailyRare: Move through every angle — the full iridescence is what is needed, every colour at once.
+dailyNeutral: Show the different angle — it changes what is visible.
+dailyGood: The way you shift today will reveal something that has been hidden in the fixed reading.
+dailyBest: Move through every angle — the full iridescence is what is needed, every colour at once.
 ---
 
 Barbecued Green Beans are the Bean Zodiac's most iridescent — they catch the light differently depending on where you are standing.

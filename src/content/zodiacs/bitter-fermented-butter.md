@@ -7,9 +7,9 @@ trait: thoughtful
 dish: Butter bean and kimchi broth with bitter greens.
 quote: The unexamined bean is not worth eating.
 seasonalFortune: The work you have been developing in private will be needed — let enough of it surface before the occasion arrives and finds you unprepared.
-dailyCommon: Take the time the thought requires — it will be better for it.
-dailyUncommon: Consider it from every angle before it surfaces; nothing leaves before it is ready.
-dailyRare: Give it the complete interior treatment — no thought leaves half-formed.
+dailyNeutral: Take the time the thought requires — it will be better for it.
+dailyGood: Consider it from every angle before it surfaces; nothing leaves before it is ready.
+dailyBest: Give it the complete interior treatment — no thought leaves half-formed.
 ---
 
 Tinctured Butter Beans are the Bean Zodiac's most thoughtful — nothing leaves their interior until properly considered and found worthy.

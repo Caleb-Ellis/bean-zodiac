@@ -7,9 +7,9 @@ trait: wistful
 dish: Marmite-roasted navy beans with rosemary and garlic.
 quote: We shall not cease from bean exploration, and the end of all our exploring will be to arrive where we started.
 seasonalFortune: A room will hold something worth the same faithfulness you have given to what came before — let it.
-dailyCommon: Let the longing be present — what it is reaching toward is worth reaching toward.
-dailyUncommon: Sit with what was — the depth of what you carry from it is what made you.
-dailyRare: Let yourself be in both places at once — the past you are holding is as real as today, and you are allowed to keep it.
+dailyNeutral: Let the longing be present — what it is reaching toward is worth reaching toward.
+dailyGood: Sit with what was — the depth of what you carry from it is what made you.
+dailyBest: Let yourself be in both places at once — the past you are holding is as real as today, and you are allowed to keep it.
 ---
 
 Bronzed Navy Beans are the Bean Zodiac's most wistful — they carry the warmth of what has already passed, faithfully.

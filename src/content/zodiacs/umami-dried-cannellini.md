@@ -7,9 +7,9 @@ trait: distinguished
 dish: Ribollita - dried cannellini and bread soup with Parmesan rind and lacinato kale.
 quote: A bean is known by the company it keeps.
 seasonalFortune: A distinction will be visible — check that it has not become the only thing you let others see.
-dailyCommon: Let the work speak at its own pace — the quality is legible to anyone paying attention.
-dailyUncommon: Carry what you have earned without explaining it — it will reach the right people.
-dailyRare: Walk in without the context — what you are is present in the room before you speak.
+dailyNeutral: Let the work speak at its own pace — the quality is legible to anyone paying attention.
+dailyGood: Carry what you have earned without explaining it — it will reach the right people.
+dailyBest: Walk in without the context — what you are is present in the room before you speak.
 ---
 
 Aged Cannellini Beans are the Bean Zodiac's most distinguished — depth and refinement in combination, accumulated quietly over time.

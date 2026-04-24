@@ -7,9 +7,9 @@ trait: indulgent
 dish: Gratin - butter beans with bitter radicchio and taleggio.
 quote: If I have one more bean I'm gonna pop!
 seasonalFortune: Something inconvenient is coming — do it anyway, not to suffer, but to remember what you are choosing when you choose the good version.
-dailyCommon: Choose the good version — there is no virtue in the lesser one.
-dailyUncommon: Take the best available option without apology; quality is its own justification.
-dailyRare: Accept nothing below the full measure of what this could be.
+dailyNeutral: Choose the good version — there is no virtue in the lesser one.
+dailyGood: Take the best available option without apology; quality is its own justification.
+dailyBest: Accept nothing below the full measure of what this could be.
 ---
 
 Dark-Roasted Butter Beans are the Bean Zodiac's most indulgent — quality is non-negotiable.

@@ -7,9 +7,9 @@ trait: ascetic
 dish: Acquacotta - cannellini and bitter greens.
 quote: Simplicity is the ultimate bean.
 seasonalFortune: Something worth keeping is about to ask to be let back in — the harder question is not whether you stripped too much, but whether you will recognise it when it arrives.
-dailyCommon: Remove one more thing — see if what remains is stronger for it.
-dailyUncommon: Hold the reduction until only what cannot be argued away remains.
-dailyRare: Everything that does not belong has been taken — what is left needs no defense.
+dailyNeutral: Remove one more thing — see if what remains is stronger for it.
+dailyGood: Hold the reduction until only what cannot be argued away remains.
+dailyBest: Everything that does not belong has been taken — what is left needs no defense.
 ---
 
 Desiccated Cannellini Beans are the Bean Zodiac's most ascetic — they have removed every excess and arrived at something so refined it barely takes up space.

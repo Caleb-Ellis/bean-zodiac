@@ -7,9 +7,9 @@ trait: motivated
 dish: Honey butter fried edamame — soybeans deep-fried until blistered, tossed hot in honey butter and flaked salt.
 quote: The secret of getting ahead is getting bean started.
 seasonalFortune: A momentum will build — check the compass, because what you are moving toward still needs to be yours.
-dailyCommon: Set the target and move toward it — the energy is there.
-dailyUncommon: The momentum is building faster than you can track — trust it.
-dailyRare: Go at full speed — everything is pointing in the same direction today.
+dailyNeutral: Set the target and move toward it — the energy is there.
+dailyGood: The momentum is building faster than you can track — trust it.
+dailyBest: Go at full speed — everything is pointing in the same direction today.
 ---
 
 Caramelised Edamame are the Bean Zodiac's most motivated — reliably pointed toward something, moving with warmth and urgency that pulls others along.

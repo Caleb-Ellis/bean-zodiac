@@ -7,9 +7,9 @@ trait: astringent
 dish: Pinto bean and dried mulato chile stew with lime.
 quote: Art is not what you see, but what you bean others to see.
 seasonalFortune: Some warmth will ask to return — let it in, and find out whether the clarity survives it.
-dailyCommon: The astringency is the flavour — let it be what it is.
-dailyUncommon: Pull the warmth back; the clarity that remains is the thing worth having.
-dailyRare: Let it run completely dry — the astringency is the whole contribution today, and it is a real one.
+dailyNeutral: The astringency is the flavour — let it be what it is.
+dailyGood: Pull the warmth back; the clarity that remains is the thing worth having.
+dailyBest: Let it run completely dry — the astringency is the whole contribution today, and it is a real one.
 ---
 
 Dehydrated Pinto Beans are the Bean Zodiac's most astringent — the expressiveness remains, but the sentimentality has been cut away entirely.

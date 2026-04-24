@@ -7,9 +7,9 @@ trait: poetic
 dish: Doenjang juk - savory mung bean porridge with fermented soybean paste and sesame oil.
 quote: A bean should be more careful of his learning than of the pebble in his shoe.
 seasonalFortune: The material has found its shape — send it, even on the days when the plain draft is all that is ready.
-dailyCommon: Find the image — what you are trying to say has a shape, and it is close.
-dailyUncommon: Let the language reach — the precise version is further in, and worth finding.
-dailyRare: Write all the way to where it lives — the truest form of it is what the whole thing was reaching for.
+dailyNeutral: Find the image — what you are trying to say has a shape, and it is close.
+dailyGood: Let the language reach — the precise version is further in, and worth finding.
+dailyBest: Write all the way to where it lives — the truest form of it is what the whole thing was reaching for.
 ---
 
 Miso Mung Beans are the Bean Zodiac's most poetic — when they speak, the phrase lands and stays.

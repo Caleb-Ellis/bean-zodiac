@@ -7,9 +7,9 @@ trait: layered
 dish: Frijoles de olla - dried pinto beans slow-cooked in clay pot with epazote, onion, and lard.
 quote: Life is like a bean of chocolates — you never know what you're going to get.
 seasonalFortune: A layer will want to surface — let one, for someone who can hold it.
-dailyCommon: Give the surface — the depth underneath will be felt by anyone who pauses.
-dailyUncommon: Let one more layer be visible — the right person is looking.
-dailyRare: Open all the way — the one who can hold every layer is already here.
+dailyNeutral: Give the surface — the depth underneath will be felt by anyone who pauses.
+dailyGood: Let one more layer be visible — the right person is looking.
+dailyBest: Open all the way — the one who can hold every layer is already here.
 ---
 
 Aged Pinto Beans are the Bean Zodiac's most layered — what is expressed has depth under it, and more depth under that.

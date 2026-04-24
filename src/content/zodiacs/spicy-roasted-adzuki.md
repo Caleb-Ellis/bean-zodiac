@@ -7,9 +7,9 @@ trait: enthusiastic
 dish: Wǔxiāng hóngdòu - five-spice roasted adzuki beans with dried Sichuan chili.
 quote: I am HOT and I am EXCITED and I will not be apologising for either.
 seasonalFortune: The bright start will need nourishment through the hard middle — find what sustains the warmth before the beginning is over.
-dailyCommon: The warmth today is real — give it freely to what is in front of you.
-dailyUncommon: The enthusiasm is high; bring it to the thing that most deserves the full temperature.
-dailyRare: Everything today deserves the full warmth — give it completely, and find what sustains it through the middle.
+dailyNeutral: The warmth today is real — give it freely to what is in front of you.
+dailyGood: The enthusiasm is high; bring it to the thing that most deserves the full temperature.
+dailyBest: Everything today deserves the full warmth — give it completely, and find what sustains it through the middle.
 ---
 
 Peri-Peri Adzuki Beans are the Bean Zodiac's most enthusiastic — their warmth radiates outward naturally.

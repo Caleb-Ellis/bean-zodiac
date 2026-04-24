@@ -7,9 +7,9 @@ trait: irreverent
 dish: Taquitos - pinto beans with bitter lime crema and hot sauce.
 quote: Irreverence is the champion of liberty and its only sure bean.
 seasonalFortune: A target is about to appear that deserves the irreverence — check once that it is pretension and not something that only looks like it.
-dailyCommon: The rule has not been examined — question it.
-dailyUncommon: The pretension is visible; name it without apology.
-dailyRare: Question everything that hasn't earned its place — nothing is sacred until it has been tested.
+dailyNeutral: The rule has not been examined — question it.
+dailyGood: The pretension is visible; name it without apology.
+dailyBest: Question everything that hasn't earned its place — nothing is sacred until it has been tested.
 ---
 
 Scorched Pinto Beans are the Bean Zodiac's most irreverent — they question rules that haven't been examined.

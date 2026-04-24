@@ -7,9 +7,9 @@ trait: polished
 dish: Roasted adzuki soup with bitter cacao and orange peel.
 quote: Have no fear of bean perfection — you'll never reach it.
 seasonalFortune: An occasion will arrive that rewards imperfection — stay in it a little rough, and let the polish rest.
-dailyCommon: Attend to what others skip — it is where the difference lives.
-dailyUncommon: Bring the full standard to what is in front of you; nothing is too minor for the complete version.
-dailyRare: Everything about this can be impeccable — let it be.
+dailyNeutral: Attend to what others skip — it is where the difference lives.
+dailyGood: Bring the full standard to what is in front of you; nothing is too minor for the complete version.
+dailyBest: Everything about this can be impeccable — let it be.
 ---
 
 Dark-Roasted Adzuki Beans are the Bean Zodiac's most polished — impeccable without being cold.

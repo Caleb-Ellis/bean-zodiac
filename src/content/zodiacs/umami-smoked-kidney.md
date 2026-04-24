@@ -7,9 +7,9 @@ trait: seething
 dish: Red beans and rice - Louisiana kidney beans with smoked andouille, celery, and bay leaf.
 quote: Full of sound and bean, signifying everything.
 seasonalFortune: An intensity is building deeper than the surface — find the release that matches the scale of what has been accumulating.
-dailyCommon: Feel the heat — the intensity you are carrying is real and it has been building.
-dailyUncommon: Let it build to its full pressure — what you are holding has earned the full weight of your feeling.
-dailyRare: Hold the full intensity — the depth of what is seething in you is the measure of how much you care.
+dailyNeutral: Feel the heat — the intensity you are carrying is real and it has been building.
+dailyGood: Let it build to its full pressure — what you are holding has earned the full weight of your feeling.
+dailyBest: Hold the full intensity — the depth of what is seething in you is the measure of how much you care.
 ---
 
 Burnished Kidney Beans are the Bean Zodiac's most seething — the passion has gone down to a temperature that is not visible from the surface but can be felt from across the room.

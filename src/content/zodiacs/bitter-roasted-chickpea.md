@@ -7,9 +7,9 @@ trait: outgoing
 dish: Chaat - roasted chickpeas with bitter lime and green chutney.
 quote: You catch more beans with honey.
 seasonalFortune: A long evening without company is coming — let it arrive, and attend to what comes up in the quiet.
-dailyCommon: Move toward the room — there is something there worth finding.
-dailyUncommon: Find the person who hasn't been found yet; that is where the conversation is.
-dailyRare: Fill the room entirely — your presence is the thing that makes it worth being in.
+dailyNeutral: Move toward the room — there is something there worth finding.
+dailyGood: Find the person who hasn't been found yet; that is where the conversation is.
+dailyBest: Fill the room entirely — your presence is the thing that makes it worth being in.
 ---
 
 Dark-Roasted Chickpeas are the Bean Zodiac's most outgoing — they move toward Beans as a matter of course.

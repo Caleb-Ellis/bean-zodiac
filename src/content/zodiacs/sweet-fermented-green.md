@@ -7,9 +7,9 @@ trait: whimsical
 dish: Green bean elderflower shrub — blanched green beans in a sweet drinking vinegar of fermented honey and elderflower, finished with sparkling water.
 quote: One bean that I had a long time ago.
 seasonalFortune: An ordinary thing will reveal itself as an interesting problem — apply the imagination there.
-dailyCommon: Follow the unexpected thread — it goes somewhere.
-dailyUncommon: The odd angle is the interesting one — pursue it.
-dailyRare: Let the imagination go entirely — wherever it takes you is worth the trip.
+dailyNeutral: Follow the unexpected thread — it goes somewhere.
+dailyGood: The odd angle is the interesting one — pursue it.
+dailyBest: Let the imagination go entirely — wherever it takes you is worth the trip.
 ---
 
 Honeyed Green Beans are the Bean Zodiac's most whimsical — their inner world is rich and improbable.

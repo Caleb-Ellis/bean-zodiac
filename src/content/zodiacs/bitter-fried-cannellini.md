@@ -7,9 +7,9 @@ trait: assertive
 dish: Cannellini fritto with bitter lemon and flat-leaf parsley.
 quote: Here I stand. I can bean no other.
 seasonalFortune: Your position will hold — but the door for disagreement will need to be made visible before the room forgets it is allowed.
-dailyCommon: State your position clearly — vagueness serves no one here.
-dailyUncommon: The case has been made; deliver it without hedging.
-dailyRare: Stand in it entirely — the position is yours and it will not move.
+dailyNeutral: State your position clearly — vagueness serves no one here.
+dailyGood: The case has been made; deliver it without hedging.
+dailyBest: Stand in it entirely — the position is yours and it will not move.
 ---
 
 Scorched Cannellini Beans are the Bean Zodiac's most assertive — they know their position and state it clearly.

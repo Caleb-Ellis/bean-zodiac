@@ -7,9 +7,9 @@ trait: wary
 dish: Smoked chickpea shawarma wrap with sumac-marinated onions and pickled turnips
 quote: Beware the bean of March.
 seasonalFortune: A room worth committing to is coming — the wariness will need to decide whether this is it, or whether it is still remembering the rooms it has lost.
-dailyCommon: The wariness is correct — keep the eyes open.
-dailyUncommon: Hold the caution; the room has not yet earned more than that.
-dailyRare: Watch everything — full wariness, no assumptions, and let what reveals itself do so at its own pace.
+dailyNeutral: The wariness is correct — keep the eyes open.
+dailyGood: Hold the caution; the room has not yet earned more than that.
+dailyBest: Watch everything — full wariness, no assumptions, and let what reveals itself do so at its own pace.
 ---
 
 Cold-Smoked Chickpeas are the Bean Zodiac's most wary — they have been everywhere, and they remember clearly what they found.

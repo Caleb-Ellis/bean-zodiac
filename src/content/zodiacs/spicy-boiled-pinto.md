@@ -7,9 +7,9 @@ trait: moody
 dish: Frijoles de olla - pinto beans simmered with chile de árbol.
 quote: I am not moody — I am a bean with feelings.
 seasonalFortune: A recurring pattern will become visible — let the Beans near you know when the significant one is approaching.
-dailyCommon: The weather today is yours — let it move through fully.
-dailyUncommon: The shift is real and total; let those nearby know what is happening.
-dailyRare: Every emotional front arriving today is genuine — meet each one entirely and mean it.
+dailyNeutral: The weather today is yours — let it move through fully.
+dailyGood: The shift is real and total; let those nearby know what is happening.
+dailyBest: Every emotional front arriving today is genuine — meet each one entirely and mean it.
 ---
 
 Braised Pinto Beans are the Bean Zodiac's moodiest — their weather changes constantly and means it each time.

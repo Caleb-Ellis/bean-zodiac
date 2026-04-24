@@ -7,9 +7,9 @@ trait: refined
 dish: Bruschetta - cannellini with bitter olive tapenade and roasted garlic.
 quote: A bean by any other name would taste as fine.
 seasonalFortune: The refinement you carry will be aimed at something — turn it toward the surroundings rather than at them.
-dailyCommon: Bring your full standard to what is in front of you — the room is better for it.
-dailyUncommon: Improve what surrounds you simply by being present in it; this is not effort, it is nature.
-dailyRare: Let the refinement be complete — nothing in the arrangement should be left as it was found.
+dailyNeutral: Bring your full standard to what is in front of you — the room is better for it.
+dailyGood: Improve what surrounds you simply by being present in it; this is not effort, it is nature.
+dailyBest: Let the refinement be complete — nothing in the arrangement should be left as it was found.
 ---
 
 Dark-Roasted Cannellini Beans are the Bean Zodiac's most refined — they improve everything they touch.

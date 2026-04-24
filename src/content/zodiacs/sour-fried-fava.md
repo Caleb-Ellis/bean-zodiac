@@ -7,9 +7,9 @@ trait: reckless
 dish: Ta'amiya with pomegranate molasses - Egyptian fava bean falafel with a sweet-sour pomegranate dressing.
 quote: Who beans nothing, loses nothing — but wins nothing either.
 seasonalFortune: The thing committed to will not have resolved yet — stay with it, and find out what happens when the reckless move is followed all the way through.
-dailyCommon: The reckless move is available — consider it seriously.
-dailyUncommon: Commit before you know how it ends; the committing is the thing.
-dailyRare: Go in completely — all of it, without waiting to see the landing.
+dailyNeutral: The reckless move is available — consider it seriously.
+dailyGood: Commit before you know how it ends; the committing is the thing.
+dailyBest: Go in completely — all of it, without waiting to see the landing.
 ---
 
 Brightened Fava Beans are the Bean Zodiac's most reckless — they go before conditions are clear.

@@ -7,9 +7,9 @@ trait: uncompromising
 dish: Navy bean and dried tomato stew with red wine vinegar and rosemary.
 quote: Give me liberty, or give me bean!
 seasonalFortune: A principle will be tested — before it is, know the difference between a principle tested and a principle provoked.
-dailyCommon: The position holds — stand in it.
-dailyUncommon: Offer no ground today; the line is correct and the ground is yours.
-dailyRare: Hold it absolutely — the room will know where the boundary is, and that is the whole point.
+dailyNeutral: The position holds — stand in it.
+dailyGood: Offer no ground today; the line is correct and the ground is yours.
+dailyBest: Hold it absolutely — the room will know where the boundary is, and that is the whole point.
 ---
 
 Dehydrated Navy Beans are the Bean Zodiac's most uncompromising — the principle exists, the evidence is clear, and there is no version of this that ends in negotiation.

@@ -7,9 +7,9 @@ trait: smoldering
 dish: Mole negro - dried black beans with mulato and pasilla chilies.
 quote: Where there's smoke, there's bean.
 seasonalFortune: What has been building will need a channel — find one before it finds its own way out.
-dailyCommon: The heat inside is real today — let something small show through.
-dailyUncommon: What has been building has earned expression; give it one deliberate form.
-dailyRare: The full temperature is here and it has been waiting — let it surface entirely.
+dailyNeutral: The heat inside is real today — let something small show through.
+dailyGood: What has been building has earned expression; give it one deliberate form.
+dailyBest: The full temperature is here and it has been waiting — let it surface entirely.
 ---
 
 Sichuan Black Beans are the Bean Zodiac's most smoldering — nothing visible on the surface, but the heat inside has never gone out.

@@ -7,9 +7,9 @@ trait: clever
 dish: Dahi chana - chickpeas with yogurt, tamarind chutney, and chaat masala.
 quote: The secret of being a bean bore is to tell everything.
 seasonalFortune: The solution has been worked long enough — give it to the room and find out what happens when it meets the world.
-dailyCommon: The connection you have made is the right one — use it.
-dailyUncommon: The clever route is also the correct route; take it.
-dailyRare: Trust the full architecture of what you have worked out — bring it into the open and let it run.
+dailyNeutral: The connection you have made is the right one — use it.
+dailyGood: The clever route is also the correct route; take it.
+dailyBest: Trust the full architecture of what you have worked out — bring it into the open and let it run.
 ---
 
 Pickled Chickpeas are the Bean Zodiac's most clever — they find solutions while others still map problems.

@@ -7,9 +7,9 @@ trait: hardworking
 dish: Szechuan boiled edamame with doubanjiang and dried chilies.
 quote: Genius is one per cent inspiration and ninety-nine per cent beans.
 seasonalFortune: The compound interest of the work will come due — when it does, it will require rest.
-dailyCommon: The work ahead is knowable — put the first hour in and the rest will show itself.
-dailyUncommon: Today requires sustained effort and you are built for it — begin.
-dailyRare: The output today will be everything that could be given — bring it all to the task.
+dailyNeutral: The work ahead is knowable — put the first hour in and the rest will show itself.
+dailyGood: Today requires sustained effort and you are built for it — begin.
+dailyBest: The output today will be everything that could be given — bring it all to the task.
 ---
 
 Braised Edamame are the Bean Zodiac's most hardworking — they understand work is required and follow through.

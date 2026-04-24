@@ -7,9 +7,9 @@ trait: mysterious
 dish: Jajangmyeon - Korean noodles in fermented black bean and chili sauce.
 quote: I am not strange, I am just a bean.
 seasonalFortune: The right Bean to let into the mystery is closer than it seems — not to explain, but to share.
-dailyCommon: Let one thing of the interior show today — just one, to someone who is paying attention.
-dailyUncommon: The mystery has depth worth sharing; find the Bean who can sit with it.
-dailyRare: Open the full interior today — to share, not to explain.
+dailyNeutral: Let one thing of the interior show today — just one, to someone who is paying attention.
+dailyGood: The mystery has depth worth sharing; find the Bean who can sit with it.
+dailyBest: Open the full interior today — to share, not to explain.
 ---
 
 Kimchi Black Beans are the Bean Zodiac's most mysterious — they have not fully processed themselves.

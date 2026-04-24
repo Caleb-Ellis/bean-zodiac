@@ -7,9 +7,9 @@ trait: keen
 dish: Edamame gyoza - pan-fried dumplings with edamame, nira, and soy dipping sauce.
 quote: I am always doing that which I cannot do, in order that I may learn how to bean it.
 seasonalFortune: A consensus will be slower than what you already understand — remember the Beans who are still arriving.
-dailyCommon: Stay sharp — what you are picking up is real and worth attending to.
-dailyUncommon: Let the keenness run — you are seeing more than the room has said yet.
-dailyRare: Take in everything — the full picture is available to you and you are fast enough to hold it.
+dailyNeutral: Stay sharp — what you are picking up is real and worth attending to.
+dailyGood: Let the keenness run — you are seeing more than the room has said yet.
+dailyBest: Take in everything — the full picture is available to you and you are fast enough to hold it.
 ---
 
 Tempura Edamame are the Bean Zodiac's keenest — they already know, and they respond accordingly.

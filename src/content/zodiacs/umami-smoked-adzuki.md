@@ -7,9 +7,9 @@ trait: hallowed
 dish: Smoked adzuki with dashi broth, ginger, and black sesame.
 quote: We hold these beans to be self-evident.
 seasonalFortune: A ceremony is coming — keep the entrance open and the door visible before the rite begins.
-dailyCommon: Treat it as sacred — the moment you are in deserves that weight.
-dailyUncommon: Let the reverence be full — what you are marking is worth every measure of it.
-dailyRare: Consecrate it completely — the ordinary has earned the weight of the sacred, and you are the one to say so.
+dailyNeutral: Treat it as sacred — the moment you are in deserves that weight.
+dailyGood: Let the reverence be full — what you are marking is worth every measure of it.
+dailyBest: Consecrate it completely — the ordinary has earned the weight of the sacred, and you are the one to say so.
 ---
 
 Burnished Adzuki Beans are the Bean Zodiac's most hallowed — celebrations in their presence have the quality of ritual: slow-built, unrepeatable, and impossible to rush.

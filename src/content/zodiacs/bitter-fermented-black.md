@@ -7,9 +7,9 @@ trait: brooding
 dish: Black beans with bitter orange mojo and fermented crema.
 quote: Whatever our beans are made of, his and mine are the same.
 seasonalFortune: What has been working in you is nearly ready for the surface — find the form that lets it leave the interior.
-dailyCommon: Stay with what is working in you — it is not ready yet, and that is correct.
-dailyUncommon: Process it further; the surface version is not what this is asking for.
-dailyRare: Go deeper into it — the full transformation requires the full dark.
+dailyNeutral: Stay with what is working in you — it is not ready yet, and that is correct.
+dailyGood: Process it further; the surface version is not what this is asking for.
+dailyBest: Go deeper into it — the full transformation requires the full dark.
 ---
 
 Tinctured Black Beans are the Bean Zodiac's most brooding — they process privately and surface only when ready.

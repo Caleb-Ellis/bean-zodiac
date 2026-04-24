@@ -170,12 +170,14 @@ export const isValidZodiacId = (slug: string): slug is ZodiacId => {
   );
 };
 
-export const RarityIds = {
+export const QualityIds = {
+  Rotten: "rotten",
+  Stale: "stale",
   Garden: "garden",
   Market: "market",
   Heirloom: "heirloom",
 } as const;
-export type RarityId = (typeof RarityIds)[keyof typeof RarityIds];
+export type QualityId = (typeof QualityIds)[keyof typeof QualityIds];
 
 const ORIGIN_DATE = new Date(
   BEAN_ZODIAC_REFERENCE_YEAR,
@@ -186,20 +188,21 @@ const ORIGIN_DATE = new Date(
 const daysSinceOrigin = (date: Date): number =>
   Math.floor((date.getTime() - ORIGIN_DATE.getTime()) / 86_400_000);
 
-export const getRarityForDate = (date: Date): RarityId => {
-  const r = ((daysSinceOrigin(date) % 10) + 10) % 10;
-  if (r === 0) return RarityIds.Heirloom;
-  if (r === 3 || r === 7) return RarityIds.Market;
-  return RarityIds.Garden;
+const qualityFromSlot = (r: number): QualityId => {
+  if (r === 0) return QualityIds.Heirloom;
+  if (r === 3 || r === 7) return QualityIds.Market;
+  if (r === 1 || r === 5) return QualityIds.Stale;
+  if (r === 9) return QualityIds.Rotten;
+  return QualityIds.Garden;
 };
 
-export const getRarityForSlug = (slug: string, date: Date): RarityId => {
+export const getQualityForDate = (date: Date): QualityId =>
+  qualityFromSlot(((daysSinceOrigin(date) % 10) + 10) % 10);
+
+export const getQualityForSlug = (slug: string, date: Date): QualityId => {
   let h = daysSinceOrigin(date);
   for (const c of slug) h = (Math.imul(h, 31) + c.charCodeAt(0)) >>> 0;
-  const r = h % 10;
-  if (r === 0) return RarityIds.Heirloom;
-  if (r === 3 || r === 7) return RarityIds.Market;
-  return RarityIds.Garden;
+  return qualityFromSlot(h % 10);
 };
 
 export type DailyDimensions = {
@@ -217,39 +220,67 @@ export const getDailyDimensions = (date: Date): DailyDimensions => {
   };
 };
 
+const makeFallbackDimensions = (index: number, d: number): DailyDimensions => ({
+  beanId: BEAN_ORDER[(((d * 13 + index * 7) % 12) + 12) % 12],
+  flavourId: FLAVOUR_ORDER[(((d * 11 + index * 3) % 5) + 5) % 5],
+  formId: FORM_ORDER[(((d * 7 + index * 5) % 6) + 6) % 6],
+});
+
 export const getFortuneZodiacId = (
   date: Date,
   personal: DailyDimensions,
   seasonal: Pick<ZodiacMetadata, "beanId" | "flavourId" | "formId">,
 ): ZodiacId => {
   const daily = getDailyDimensions(date);
+  const d = daysSinceOrigin(date);
+
   const personalIndex =
     BEAN_ORDER.indexOf(personal.beanId) *
       FLAVOUR_ORDER.length *
       FORM_ORDER.length +
     FLAVOUR_ORDER.indexOf(personal.flavourId) * FORM_ORDER.length +
     FORM_ORDER.indexOf(personal.formId);
-  const phase = (((daysSinceOrigin(date) + personalIndex) % 6) + 6) % 6;
-  console.log({ daily, seasonal, personal });
-  if (phase === 0)
-    return `${seasonal.flavourId}-${daily.formId}-${personal.beanId}`;
-  if (phase === 1)
-    return `${seasonal.flavourId}-${personal.formId}-${daily.beanId}`;
-  if (phase === 2)
-    return `${daily.flavourId}-${seasonal.formId}-${personal.beanId}`;
-  if (phase === 3)
-    return `${daily.flavourId}-${personal.formId}-${seasonal.beanId}`;
-  if (phase === 4)
-    return `${personal.flavourId}-${seasonal.formId}-${daily.beanId}`;
-  return `${personal.flavourId}-${daily.formId}-${seasonal.beanId}`;
+  const seasonalIndex =
+    BEAN_ORDER.indexOf(seasonal.beanId) *
+      FLAVOUR_ORDER.length *
+      FORM_ORDER.length +
+    FLAVOUR_ORDER.indexOf(seasonal.flavourId) * FORM_ORDER.length +
+    FORM_ORDER.indexOf(seasonal.formId);
+
+  const phase = (((d + personalIndex) % 6) + 6) % 6;
+
+  // Personal and seasonal each participate 50% of the time.
+  // When inactive, a unique fallback is derived from their index so each bean
+  // gets its own deterministic substitute rather than the shared daily bean.
+  const P =
+    (d + personalIndex) % 2 === 0
+      ? personal
+      : makeFallbackDimensions(personalIndex, d);
+  const S =
+    (d + seasonalIndex) % 2 === 0
+      ? seasonal
+      : makeFallbackDimensions(seasonalIndex, d);
+
+  if (phase === 0) return `${S.flavourId}-${daily.formId}-${P.beanId}`;
+  if (phase === 1) return `${S.flavourId}-${P.formId}-${daily.beanId}`;
+  if (phase === 2) return `${daily.flavourId}-${S.formId}-${P.beanId}`;
+  if (phase === 3) return `${daily.flavourId}-${P.formId}-${S.beanId}`;
+  if (phase === 4) return `${P.flavourId}-${S.formId}-${daily.beanId}`;
+  return `${P.flavourId}-${daily.formId}-${S.beanId}`;
 };
 
-export const getFortuneText = (zodiac: Zodiac, rarityId: RarityId): string => {
-  if (rarityId === RarityIds.Heirloom && zodiac.dailyRare)
-    return zodiac.dailyRare;
-  if (rarityId === RarityIds.Market && zodiac.dailyUncommon)
-    return zodiac.dailyUncommon;
-  return zodiac.dailyCommon ?? zodiac.seasonalFortune;
+export const getFortuneText = (
+  zodiac: Zodiac,
+  qualityId: QualityId,
+): string => {
+  if (qualityId === QualityIds.Heirloom && zodiac.dailyBest)
+    return zodiac.dailyBest;
+  if (qualityId === QualityIds.Market && zodiac.dailyGood)
+    return zodiac.dailyGood;
+  if (qualityId === QualityIds.Stale && zodiac.dailyBad) return zodiac.dailyBad;
+  if (qualityId === QualityIds.Rotten && zodiac.dailyWorst)
+    return zodiac.dailyWorst;
+  return zodiac.dailyNeutral ?? zodiac.seasonalFortune;
 };
 
 export type ZodiacMetadata = {
@@ -257,7 +288,7 @@ export type ZodiacMetadata = {
   beanId: BeanId;
   flavourId: FlavourId;
   formId: FormId;
-  rarityId: RarityId;
+  qualityId: QualityId;
   startDate: Date;
   endDate: Date;
 };
@@ -323,7 +354,7 @@ export const getZodiacMetadataForDate = (date: Date): ZodiacMetadata => {
     beanId,
     flavourId,
     formId,
-    rarityId: getRarityForDate(date),
+    qualityId: getQualityForDate(date),
     startDate,
     endDate,
   };

@@ -7,9 +7,9 @@ trait: unpredictable
 dish: Frijoles charros - pinto beans simmered with roasted pasilla chiles, bacon, and jalapeño.
 quote: Consistency is the last refuge of the bean-less.
 seasonalFortune: A surprise is coming — build enough of a foundation that it continues to read as a feature, not as weather.
-dailyCommon: The surprise today is a feature — build enough foundation that it reads that way.
-dailyUncommon: The unpredictability is real and warm; give it a stable thing to stand on.
-dailyRare: Bring the full unpredictability today — and give it the foundation it needs to be trusted.
+dailyNeutral: The surprise today is a feature — build enough foundation that it reads that way.
+dailyGood: The unpredictability is real and warm; give it a stable thing to stand on.
+dailyBest: Bring the full unpredictability today — and give it the foundation it needs to be trusted.
 ---
 
 Peri-Peri Pinto Beans are the Bean Zodiac's most unpredictable — no two appearances are the same.

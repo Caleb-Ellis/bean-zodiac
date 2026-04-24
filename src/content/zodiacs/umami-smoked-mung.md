@@ -7,9 +7,9 @@ trait: steeped
 dish: Smoked mung bean congee with century egg, ginger, and crispy shallots.
 quote: We do not bean from experience — we bean from reflecting on experience.
 seasonalFortune: A saturation will be complete — make room for what has not yet been absorbed, so there is still space for what comes next.
-dailyCommon: Let it steep — what you are absorbing is going all the way in.
-dailyUncommon: Give it longer — the full saturation is still happening and it needs more time.
-dailyRare: Let it go all the way through — the complete absorption is what you have been in long enough to achieve.
+dailyNeutral: Let it steep — what you are absorbing is going all the way in.
+dailyGood: Give it longer — the full saturation is still happening and it needs more time.
+dailyBest: Let it go all the way through — the complete absorption is what you have been in long enough to achieve.
 ---
 
 Burnished Mung Beans are the Bean Zodiac's most steeped — the care has been in contact with the depth for so long that the two have become one.

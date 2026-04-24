@@ -7,9 +7,9 @@ trait: careful
 dish: Mung bean and bitter melon soup.
 quote: Measure twice, bean once.
 seasonalFortune: The action is ready — one more check is not care, it is delay. When the moment arrives, do the thing.
-dailyCommon: The check is done — act on what you found.
-dailyUncommon: Caution that postpones completion is not care; it is a different kind of carelessness.
-dailyRare: Nothing passes through without your full attention — give it, even where it is not expected.
+dailyNeutral: The check is done — act on what you found.
+dailyGood: Caution that postpones completion is not care; it is a different kind of carelessness.
+dailyBest: Nothing passes through without your full attention — give it, even where it is not expected.
 ---
 
 Decocted Mung Beans are the Bean Zodiac's most careful — they check before acting, understanding what it costs to get things wrong.

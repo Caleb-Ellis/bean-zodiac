@@ -7,9 +7,9 @@ trait: unyielding
 dish: Spiced fava bean soup with berbere and lemon.
 quote: I am not a bean to be argued out of what I know to be right.
 seasonalFortune: A thing worth holding firm on is coming — before the moment, decide whether what you are holding against is the situation or the feedback.
-dailyCommon: The decision was made — stay in it.
-dailyUncommon: The conviction has been examined; bring it fully into the room.
-dailyRare: Every force applied against what you know is right will only sharpen it — stand entirely in it.
+dailyNeutral: The decision was made — stay in it.
+dailyGood: The conviction has been examined; bring it fully into the room.
+dailyBest: Every force applied against what you know is right will only sharpen it — stand entirely in it.
 ---
 
 Braised Fava Beans are the Bean Zodiac's most unyielding — once decided, nothing moves them.

@@ -7,9 +7,9 @@ trait: rebellious
 dish: Fava and pixian doubanjiang stir-fry - fava beans with fermented broad bean chili paste and garlic shoots.
 quote: The most common way beans give up their power is by thinking they don't have any.
 seasonalFortune: The rebellion will need its reasoning surfaced — enough that others can decide whether to follow.
-dailyCommon: Push against it — the thing that should be different deserves the pressure.
-dailyUncommon: Hold your ground — the resistance you are offering is doing its work.
-dailyRare: Refuse it entirely — you have been right about this all along, and the full force of that is justified.
+dailyNeutral: Push against it — the thing that should be different deserves the pressure.
+dailyGood: Hold your ground — the resistance you are offering is doing its work.
+dailyBest: Refuse it entirely — you have been right about this all along, and the full force of that is justified.
 ---
 
 Miso Fava Beans are the Bean Zodiac's most rebellious — their refusal comes from deep, private examination.

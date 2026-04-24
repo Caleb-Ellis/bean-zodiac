@@ -46,7 +46,8 @@ const YEARS_PER_FLAVOUR = 2;
 
 function toXY(r: number, deg: number) {
   const rad = (deg * Math.PI) / 180;
-  return { x: CX + r * Math.cos(rad), y: CY + r * Math.sin(rad) };
+  const p = (n: number) => Math.round(n * 1e6) / 1e6;
+  return { x: p(CX + r * Math.cos(rad)), y: p(CY + r * Math.sin(rad)) };
 }
 
 function annularSector(r1: number, r2: number, a1: number, a2: number): string {

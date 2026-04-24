@@ -7,9 +7,9 @@ trait: indomitable
 dish: Maccu dolce — dried fava beans cooked to a thick paste with honey and fennel seed, a Sicilian Carnevale sweet.
 quote: She believed she could bean, so she did.
 seasonalFortune: A weight will ask to be shared — allow one person to carry part of it before it becomes invisible to you.
-dailyCommon: Move toward the difficulty — you already know you will.
-dailyUncommon: The resistance you are meeting is smaller than your capacity for it.
-dailyRare: Nothing in front of you is equal to what you are capable of — proceed.
+dailyNeutral: Move toward the difficulty — you already know you will.
+dailyGood: The resistance you are meeting is smaller than your capacity for it.
+dailyBest: Nothing in front of you is equal to what you are capable of — proceed.
 ---
 
 Crystallised Fava Beans are the Bean Zodiac's most indomitable — generosity as a force, courage concentrated until nothing can stop it.

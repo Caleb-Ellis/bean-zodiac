@@ -7,9 +7,9 @@ trait: warm
 dish: Miso-roasted adzuki with black sesame and mirin.
 quote: There's no better feeling in the world than a warm bean on your lap.
 seasonalFortune: A warmth will be needed — tend yourself as well, so there is some left when the occasion arrives.
-dailyCommon: Let the warmth come — the ease you create for others is a genuine gift.
-dailyUncommon: Give it more fully — the room will hold everything you are offering.
-dailyRare: Open it entirely — the warmth you carry is the thing the people around you needed most.
+dailyNeutral: Let the warmth come — the ease you create for others is a genuine gift.
+dailyGood: Give it more fully — the room will hold everything you are offering.
+dailyBest: Open it entirely — the warmth you carry is the thing the people around you needed most.
 ---
 
 Bronzed Adzuki Beans are the Bean Zodiac's most warm — it's what they are like, the way a roasted bean fills the room.

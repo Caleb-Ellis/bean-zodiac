@@ -29,7 +29,7 @@ A **Preparation** = Flavour × Form name (30 total). Lookup: `getPreparationName
 
 ### Content Collections
 
-- **`beans/`** — 12 files (name, tagline, traits[], color, optional modelFile)
+- **`beans/`** — 12 files (name, tagline, traits[], color, imageFile)
 - **`flavours/`** — 5 files (name, character, traits[], color)
 - **`forms/`** — 6 files: boiled, dried, fermented, fried, roasted, smoked (name, tagline, traits[])
 - **`zodiacs/`** — 360 files, filename `{flavour}-{form}-{bean}.md`, frontmatter: slug, bean, flavour, form, trait, dish, quote, seasonalFortune, dailyCommon?, dailyUncommon?, dailyRare?. Reference style: `bitter-boiled-adzuki.md`.

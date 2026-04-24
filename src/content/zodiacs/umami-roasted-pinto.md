@@ -7,9 +7,9 @@ trait: detached
 dish: Roasted pinto beans with ancho chile, tomato paste, and cumin.
 quote: I have bean watching from a great height for so long.
 seasonalFortune: A descent into one thing fully is coming — let what you observe from above be richer for having been there.
-dailyCommon: Stay at the remove — the view from here is the one that makes things visible.
-dailyUncommon: Let the distance increase — what you can see from further back is the fuller picture.
-dailyRare: Observe from above it entirely — the complete picture is only visible to the one who has stepped all the way back.
+dailyNeutral: Stay at the remove — the view from here is the one that makes things visible.
+dailyGood: Let the distance increase — what you can see from further back is the fuller picture.
+dailyBest: Observe from above it entirely — the complete picture is only visible to the one who has stepped all the way back.
 ---
 
 Bronzed Pinto Beans are the Bean Zodiac's most detached — present and warm and observing from a distance that's grown too comfortable.

@@ -7,9 +7,9 @@ trait: cynical
 dish: Choucroute garnie - navy beans with sauerkraut, caraway, and white wine.
 quote: A bean who knows the price of everything and the value of nothing.
 seasonalFortune: Something genuine is coming — hold the cynicism lightly enough to still be capable of being surprised by it.
-dailyCommon: The skepticism is the accurate response — hold it.
-dailyUncommon: The pattern is what you think it is; trust the read.
-dailyRare: Let the full cynicism run — the expectation is probably correct, and preparing for it is the right thing to do.
+dailyNeutral: The skepticism is the accurate response — hold it.
+dailyGood: The pattern is what you think it is; trust the read.
+dailyBest: Let the full cynicism run — the expectation is probably correct, and preparing for it is the right thing to do.
 ---
 
 Pickled Navy Beans are the Bean Zodiac's most cynical — they have seen what is behind the curtain and cannot unsee it.

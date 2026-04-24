@@ -7,9 +7,9 @@ trait: languid
 dish: Southern butter beans with smoked ham hock and pot liquor.
 quote: Slow and bean wins the race.
 seasonalFortune: A direction is forming — give the tempo somewhere to move toward.
-dailyCommon: Move at your own pace — the slowness you are in is the right tempo for today.
-dailyUncommon: Let everything slow — the ease you are carrying is the whole of what is being asked.
-dailyRare: Give yourself over to the unhurried — the full depth of what is available here only opens at this speed.
+dailyNeutral: Move at your own pace — the slowness you are in is the right tempo for today.
+dailyGood: Let everything slow — the ease you are carrying is the whole of what is being asked.
+dailyBest: Give yourself over to the unhurried — the full depth of what is available here only opens at this speed.
 ---
 
 Burnished Butter Beans are the Bean Zodiac's most languid — the ease and the depth have found each other and have no pressing business elsewhere.

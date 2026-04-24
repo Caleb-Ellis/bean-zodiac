@@ -7,9 +7,9 @@ trait: dutiful
 dish: White bean and lemon pound cake — dried navy beans cooked and blended into batter, lending the crumb a quiet density you cannot quite name.
 quote: Ask not what your bean can do for you — ask what you can do for your bean.
 seasonalFortune: A service will ask to be questioned — verify it is still a choice, and allow yourself to choose yourself occasionally.
-dailyCommon: Do the thing that needs doing — you already know what it is.
-dailyUncommon: The service you give today is holding something together that would otherwise come apart.
-dailyRare: The whole of it rests on what you are willing to do — and you are willing.
+dailyNeutral: Do the thing that needs doing — you already know what it is.
+dailyGood: The service you give today is holding something together that would otherwise come apart.
+dailyBest: The whole of it rests on what you are willing to do — and you are willing.
 ---
 
 Crystallised Navy Beans are the Bean Zodiac's most dutiful — they will be here, doing this, for as long as it needs doing.

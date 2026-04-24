@@ -7,9 +7,9 @@ trait: scholarly
 dish: Cannellini in aged pecorino broth with bitter cicoria.
 quote: I have not failed. I have just found ten thousand ways that will not produce a bean.
 seasonalFortune: The right moment to bring what you have accumulated outward is closer than it feels — find it before the scholarship begins speaking only to itself.
-dailyCommon: Stay with the source material — there is more in it than the first pass found.
-dailyUncommon: Go deeper into the subject; the conclusion is not yet available.
-dailyRare: Follow it all the way to the bottom — no premise left unexamined, no implication left unfollowed.
+dailyNeutral: Stay with the source material — there is more in it than the first pass found.
+dailyGood: Go deeper into the subject; the conclusion is not yet available.
+dailyBest: Follow it all the way to the bottom — no premise left unexamined, no implication left unfollowed.
 ---
 
 Tinctured Cannellini Beans are the Bean Zodiac's most scholarly — they have a devoted relationship with knowledge, surfacing only when conclusion-ready.

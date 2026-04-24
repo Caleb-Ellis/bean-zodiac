@@ -7,9 +7,9 @@ trait: chaotic
 dish: Chimichangas - deep-fried burritos with spicy pinto beans and ancho chili.
 quote: In the middle of every bean lies opportunity.
 seasonalFortune: A wake full of unfinished things is coming — choose one and stay past the point of interest, into the quieter country where the actual thing is.
-dailyCommon: One of the things started today is worth finishing — find it and stay.
-dailyUncommon: The chaos is real and generative; pick one thread and follow it to the end.
-dailyRare: Everything today is running at full heat and in every direction — choose one completely and finish it.
+dailyNeutral: One of the things started today is worth finishing — find it and stay.
+dailyGood: The chaos is real and generative; pick one thread and follow it to the end.
+dailyBest: Everything today is running at full heat and in every direction — choose one completely and finish it.
 ---
 
 Red-Hot Pinto Beans are the Bean Zodiac's most chaotic — their wake is always interesting.

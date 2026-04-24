@@ -7,9 +7,9 @@ trait: principled
 dish: Fagioli con alici - pan-fried cannellini with anchovies, garlic, and olive oil.
 quote: The arc of the bean universe is long, but it bends toward justice.
 seasonalFortune: A principle will want to be examined — not to revise it, but to confirm it still means what you need it to mean.
-dailyCommon: Hold to it — the principle you are standing on is the right ground to be standing on.
-dailyUncommon: Let the principle be the whole decision — there is no part of this that falls outside it.
-dailyRare: Stand entirely on what you know to be right — the principle holds, and so do you.
+dailyNeutral: Hold to it — the principle you are standing on is the right ground to be standing on.
+dailyGood: Let the principle be the whole decision — there is no part of this that falls outside it.
+dailyBest: Stand entirely on what you know to be right — the principle holds, and so do you.
 ---
 
 Tempura Cannellini Beans are the Bean Zodiac's most principled — they act at heat, without waiting to see which way the room goes.

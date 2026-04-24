@@ -7,9 +7,9 @@ trait: anxious
 dish: Pinto in tepache — speckled beans simmered in sweet fermented pineapple drink with piloncillo and cloves.
 quote: My bean is afraid of it, and yet I still want to do it.
 seasonalFortune: The preparation will be complete — stop at good enough and step into the room.
-dailyCommon: The preparation is enough — move forward on what you have.
-dailyUncommon: Most of what you are carrying will not arrive — put it down for now.
-dailyRare: Step into it — everything you need is already with you.
+dailyNeutral: The preparation is enough — move forward on what you have.
+dailyGood: Most of what you are carrying will not arrive — put it down for now.
+dailyBest: Step into it — everything you need is already with you.
 ---
 
 Honeyed Pinto Beans are the Bean Zodiac's most anxious — they have already run every scenario.

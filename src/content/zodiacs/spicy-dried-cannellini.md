@@ -7,9 +7,9 @@ trait: searing
 dish: Pasta e fagioli - dried cannellini and pasta soup with peperoncino.
 quote: I came, I saw, I beaned.
 seasonalFortune: A mark will be made — make sure each one is the mark you meant to make.
-dailyCommon: The mark today will stick — make it the one you intend.
-dailyUncommon: The precision is full and the heat is behind it; apply both with care.
-dailyRare: Everything that meets your full attention today will carry it permanently — bring your best aim.
+dailyNeutral: The mark today will stick — make it the one you intend.
+dailyGood: The precision is full and the heat is behind it; apply both with care.
+dailyBest: Everything that meets your full attention today will carry it permanently — bring your best aim.
 ---
 
 Sichuan Cannellini Beans are the Bean Zodiac's most searing — the precision is exact and the heat is real, and together they leave a mark.

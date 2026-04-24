@@ -7,9 +7,9 @@ trait: sincere
 dish: Adzuki bean soup with umeboshi and ginger broth.
 quote: This above all - to thine own bean be true
 seasonalFortune: What you mean will be asked to stand without explanation — it will hold, because it is genuine.
-dailyCommon: The honest version of what you mean is also the clearer one — trust it.
-dailyUncommon: What you feel does not need to be made more palatable before it is worth saying.
-dailyRare: Say the full thing — the room is steady enough to hold it.
+dailyNeutral: The honest version of what you mean is also the clearer one — trust it.
+dailyGood: What you feel does not need to be made more palatable before it is worth saying.
+dailyBest: Say the full thing — the room is steady enough to hold it.
 ---
 
 Brined Adzuki Beans are the Bean Zodiac's most sincere — they celebrate only what they truly feel, and feel without restraint.

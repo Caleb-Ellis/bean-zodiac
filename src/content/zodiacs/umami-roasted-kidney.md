@@ -7,9 +7,9 @@ trait: extravagant
 dish: Roasted kidney beans with porcini, truffle oil, and thyme.
 quote: I have nothing to declare except my bean.
 seasonalFortune: An abundance will arrive — take the full experience, and stay long enough to know it was depth and not just fullness.
-dailyCommon: Go all out — the full version of what you are offering is the right one.
-dailyUncommon: Add more — the generous version of this is what it was always meant to be.
-dailyRare: Give it the full treatment — everything you are capable of, nothing economized.
+dailyNeutral: Go all out — the full version of what you are offering is the right one.
+dailyGood: Add more — the generous version of this is what it was always meant to be.
+dailyBest: Give it the full treatment — everything you are capable of, nothing economized.
 ---
 
 Bronzed Kidney Beans are the Bean Zodiac's most extravagant — they believe the full experience is always better than the restrained one.

@@ -7,9 +7,9 @@ trait: zealous
 dish: Sichuan boiled green beans with doubanjiang and peppercorn.
 quote: I have nothing to offer but bean, toil, tears and sweat.
 seasonalFortune: The cause will need room for others to arrive — not in your time, but in theirs.
-dailyCommon: The cause is worth the energy — give it fully today.
-dailyUncommon: The heat in you has a direction; aim it at the thing that needs it most.
-dailyRare: Everything you care about is asking for your full commitment today — bring it without reservation.
+dailyNeutral: The cause is worth the energy — give it fully today.
+dailyGood: The heat in you has a direction; aim it at the thing that needs it most.
+dailyBest: Everything you care about is asking for your full commitment today — bring it without reservation.
 ---
 
 Braised Green Beans are the Bean Zodiac's most zealous — they have a cause and the heat to see it through.

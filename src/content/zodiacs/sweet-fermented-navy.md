@@ -7,9 +7,9 @@ trait: introverted
 dish: Navy bean and cultured butter pudding — beans baked slowly in a custard of fermented cream, sugar, and vanilla.
 quote: I am a bean of solitude; the fire of thought does not require witnesses.
 seasonalFortune: The warmth inside will find a reason to come out — bring some of it, not as performance, but as the fact of what is there.
-dailyCommon: Take the quiet you need — it is the right resource today.
-dailyUncommon: The depth you return from will be worth the distance.
-dailyRare: Go all the way in — what lives there is what you have to give.
+dailyNeutral: Take the quiet you need — it is the right resource today.
+dailyGood: The depth you return from will be worth the distance.
+dailyBest: Go all the way in — what lives there is what you have to give.
 ---
 
 Honeyed Navy Beans are the Bean Zodiac's most introverted — they live comfortably in a rich inner world.

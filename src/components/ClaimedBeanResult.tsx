@@ -2,7 +2,7 @@ import {
   getFortuneText,
   getFortuneZodiacId,
   getPreparationName,
-  getRarityForSlug,
+  getQualityForSlug,
   getZodiacMetadataForDate,
   type BeanId,
   type FlavourId,
@@ -42,7 +42,7 @@ export default function ClaimedBeanResult({
   if (!bean || !flavour || !form || !zodiac) return null;
 
   const preparation = getPreparationName(flavourId, formId);
-  const rarityId = getRarityForSlug(claimedSlug, date);
+  const qualityId = getQualityForSlug(claimedSlug, date);
   const seasonalMeta = getZodiacMetadataForDate(date);
   const seasonalBean = data.beans[seasonalMeta.beanId];
   const seasonalZodiac = data.zodiacs[seasonalMeta.zodiacId];
@@ -61,7 +61,7 @@ export default function ClaimedBeanResult({
     seasonalMeta,
   );
   const fortuneZodiac = data.zodiacs[fortuneZodiacId];
-  const fortuneText = getFortuneText(fortuneZodiac, rarityId);
+  const fortuneText = getFortuneText(fortuneZodiac, qualityId);
 
   const [fortuneFlavourId, fortuneFormId, fortuneBeanId] =
     fortuneZodiacId.split("-") as [FlavourId, FormId, BeanId];
@@ -103,7 +103,7 @@ export default function ClaimedBeanResult({
                     preparation={fortunePreparation}
                     beanName={fortuneBean.name}
                     zodiacId={fortuneZodiacId}
-                    rarityId={rarityId}
+                    qualityId={qualityId}
                   />
                 </p>
                 <p className="italic text-zinc-200 sm:text-lg text-left sm:mb-1">

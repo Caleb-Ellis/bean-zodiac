@@ -7,9 +7,9 @@ trait: pioneering
 dish: Muhammara - roasted fava and bitter herbs.
 quote: Well-bean is that which is done for the first time.
 seasonalFortune: The territory you are about to open will have followers — check that what you are building is habitable for someone who comes after.
-dailyCommon: Move into the unmapped territory — that is where the work is.
-dailyUncommon: Go further than last time; the path you open is the one others will use.
-dailyRare: Go where no one has yet — this is exactly the terrain you were built for.
+dailyNeutral: Move into the unmapped territory — that is where the work is.
+dailyGood: Go further than last time; the path you open is the one others will use.
+dailyBest: Go where no one has yet — this is exactly the terrain you were built for.
 ---
 
 Dark-Roasted Fava Beans are the Bean Zodiac's most pioneering — they venture into unmapped territory.

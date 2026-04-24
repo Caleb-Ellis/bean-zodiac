@@ -7,9 +7,9 @@ trait: pungent
 dish: Leather britches - Appalachian smoke-dried green beans simmered with ham hock and cider vinegar
 quote: A bean by any other name would smell as sweet.
 seasonalFortune: You will arrive before you are expected — learn to arrive before making an entrance.
-dailyCommon: The presence is already arriving before you — let it.
-dailyUncommon: Fill the room; the full pungency is the signal you are sending.
-dailyRare: Arrive at complete intensity — everything about you at full strength, before a word is spoken.
+dailyNeutral: The presence is already arriving before you — let it.
+dailyGood: Fill the room; the full pungency is the signal you are sending.
+dailyBest: Arrive at complete intensity — everything about you at full strength, before a word is spoken.
 ---
 
 Cold-Smoked Green Beans are the Bean Zodiac's most pungent — their optimism has developed an edge that fills the room before they have entered it.

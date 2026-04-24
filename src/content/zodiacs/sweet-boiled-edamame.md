@@ -7,9 +7,9 @@ trait: dependable
 dish: Zunda mochi — edamame boiled and ground into sweet green paste, served over soft rice cake.
 quote: The strength of a bean lies not in its weight, but in its reliability.
 seasonalFortune: A gift that is always there will stop being seen as one — let someone know what it costs, not as a grievance but as a true thing.
-dailyCommon: Show up the way you said you would.
-dailyUncommon: Someone is counting on you today in a way they haven't said aloud yet.
-dailyRare: Your consistency is the ground others are standing on — they feel it even when they do not name it.
+dailyNeutral: Show up the way you said you would.
+dailyGood: Someone is counting on you today in a way they haven't said aloud yet.
+dailyBest: Your consistency is the ground others are standing on — they feel it even when they do not name it.
 ---
 
 Candied Edamame are the Bean Zodiac's most dependable — showing up exactly as promised, with no drama.

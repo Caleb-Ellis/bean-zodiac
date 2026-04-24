@@ -7,9 +7,9 @@ trait: beguiling
 dish: Smoked chickpea and sweet potato tagine with honey, preserved lemon, and ras el hanout.
 quote: Come bean with me and be my love.
 seasonalFortune: An invitation you extend will draw people in before they understand why — make sure what is on offer is what was advertised.
-dailyCommon: Draw them in — the invitation is already working.
-dailyUncommon: What you put out today will pull people toward it before they understand why.
-dailyRare: Open the full force of the charm — the room is already leaning, and it is ready for all of it.
+dailyNeutral: Draw them in — the invitation is already working.
+dailyGood: What you put out today will pull people toward it before they understand why.
+dailyBest: Open the full force of the charm — the room is already leaning, and it is ready for all of it.
 ---
 
 Barbecued Chickpeas are the Bean Zodiac's most beguiling — you are in the middle of something before you understood it had begun.

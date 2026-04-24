@@ -7,9 +7,9 @@ trait: overachieving
 dish: Gan bian si ji dou - dry-fried green beans with pork mince, dried shrimp, and garlic.
 quote: Whatever you are, bean a good one.
 seasonalFortune: More will be built than was asked — allow yourself, once, to do the ordinary thing and let that be enough.
-dailyCommon: Go further than what was asked — the extra effort is in your nature and it shows.
-dailyUncommon: Build more than the brief requires — the full version of it is what you actually wanted to make.
-dailyRare: Give it everything you have and then more — the version you are capable of is the one worth making.
+dailyNeutral: Go further than what was asked — the extra effort is in your nature and it shows.
+dailyGood: Build more than the brief requires — the full version of it is what you actually wanted to make.
+dailyBest: Give it everything you have and then more — the version you are capable of is the one worth making.
 ---
 
 Tempura Green Beans are the Bean Zodiac's most overachieving — they're already planning to do twice as much.

@@ -7,9 +7,9 @@ trait: wry
 dish: Balila - chickpeas with dried black lime and olive oil.
 quote: History doesn't repeat itself, but it does bean.
 seasonalFortune: The pattern you have been watching is about to repeat — do something different this time, and find out whether you were happening to it or it was happening to you.
-dailyCommon: The observation forming is accurate — let it find the right moment.
-dailyUncommon: The angle you are seeing from is the correct one; say what it shows.
-dailyRare: The wry read is the true one — deliver it, and let the room work out what to do with it.
+dailyNeutral: The observation forming is accurate — let it find the right moment.
+dailyGood: The angle you are seeing from is the correct one; say what it shows.
+dailyBest: The wry read is the true one — deliver it, and let the room work out what to do with it.
 ---
 
 Dehydrated Chickpeas are the Bean Zodiac's most wry — they have seen too much of the world to take any of it entirely at face value.

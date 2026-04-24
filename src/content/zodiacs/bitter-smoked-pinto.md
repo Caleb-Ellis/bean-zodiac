@@ -7,9 +7,9 @@ trait: intricate
 dish: Smoked pinto with bitter cacao, finely layered.
 quote: The bean is in the details.
 seasonalFortune: The map you have been making will be needed — let one thread be followed to its end, so someone else can use it.
-dailyCommon: Follow one more layer — the map is not yet complete.
-dailyUncommon: Go deeper into the structure; what is there has not yet been fully charted.
-dailyRare: Lay out the full complexity — every layer, every thread, the entire elaborate interior made visible.
+dailyNeutral: Follow one more layer — the map is not yet complete.
+dailyGood: Go deeper into the structure; what is there has not yet been fully charted.
+dailyBest: Lay out the full complexity — every layer, every thread, the entire elaborate interior made visible.
 ---
 
 Ashen Pinto Beans are the Bean Zodiac's most intricate — their inner landscape is elaborate, and they have been the only one with the map.

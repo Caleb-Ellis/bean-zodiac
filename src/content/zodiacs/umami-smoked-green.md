@@ -7,9 +7,9 @@ trait: budding
 dish: Leather britches - Appalachian smoked green beans with smoked fatback.
 quote: One bean does not a summer make.
 seasonalFortune: What has begun will not arrive yet — tend it consistently rather than checking whether it has arrived.
-dailyCommon: Tend what is beginning — the growth you are in is real even when it is small.
-dailyUncommon: Give it consistent attention — what you are growing is alive and it needs you.
-dailyRare: Stay with the emergence — the full opening is on its way, and your tending is what will get it there.
+dailyNeutral: Tend what is beginning — the growth you are in is real even when it is small.
+dailyGood: Give it consistent attention — what you are growing is alive and it needs you.
+dailyBest: Stay with the emergence — the full opening is on its way, and your tending is what will get it there.
 ---
 
 Burnished Green Beans are the Bean Zodiac's most budding — the urgency is real, but the depth is still forming, and something essential has not yet arrived.

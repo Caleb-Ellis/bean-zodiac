@@ -7,9 +7,9 @@ trait: courageous
 dish: Macco di Fave - fava beans with wild chicory.
 quote: Courage is not the absence of bean, but the triumph over it.
 seasonalFortune: The hard thing is closer than it appears — before it arrives, verify it is worth the courage it will require.
-dailyCommon: The difficult thing is waiting — decide whether it is worth the cost before you begin.
-dailyUncommon: Move toward it; the preparation is complete enough.
-dailyRare: The courage required today is not rare — but your willingness to spend it without reserve is.
+dailyNeutral: The difficult thing is waiting — decide whether it is worth the cost before you begin.
+dailyGood: Move toward it; the preparation is complete enough.
+dailyBest: The courage required today is not rare — but your willingness to spend it without reserve is.
 ---
 
 Decocted Fava Beans are the Bean Zodiac's most courageous — they face what is difficult without hesitation.

@@ -1,4 +1,4 @@
-import { RarityIds, type BeanId, type FlavourId, type FormId, type RarityId, type ZodiacId } from "../lib/zodiac";
+import { QualityIds, type BeanId, type FlavourId, type FormId, type QualityId, type ZodiacId } from "../lib/zodiac";
 
 interface Props {
   flavourId: FlavourId;
@@ -7,12 +7,12 @@ interface Props {
   preparation: string;
   beanName: string;
   zodiacId?: ZodiacId;
-  rarityId?: RarityId;
+  qualityId?: QualityId;
 }
 
-const RARITY_LABEL: Partial<Record<RarityId, { text: string; className: string }>> = {
-  [RarityIds.Heirloom]: { text: "Heirloom ", className: "text-effect-gold" },
-  [RarityIds.Market]: { text: "Market-Fresh ", className: "text-effect-emerald" },
+const QUALITY_LABEL: Partial<Record<QualityId, { text: string; className: string }>> = {
+  [QualityIds.Heirloom]: { text: "Heirloom ", className: "text-effect-gold" },
+  [QualityIds.Market]: { text: "Market-Fresh ", className: "text-effect-emerald" },
 };
 
 export default function ZodiacName({
@@ -22,11 +22,11 @@ export default function ZodiacName({
   preparation,
   beanName,
   zodiacId,
-  rarityId,
+  qualityId,
 }: Props) {
-  const rarityLabel = rarityId ? RARITY_LABEL[rarityId] : undefined;
-  const raritySpan = rarityLabel ? (
-    <span className={rarityLabel.className}>{rarityLabel.text}</span>
+  const qualityLabel = qualityId ? QUALITY_LABEL[qualityId] : undefined;
+  const qualitySpan = qualityLabel ? (
+    <span className={qualityLabel.className}>{qualityLabel.text}</span>
   ) : null;
   const preparationSpan = (
     <span
@@ -46,14 +46,14 @@ export default function ZodiacName({
   if (zodiacId) {
     return (
       <a href={`/zodiacs/${zodiacId}`} className="no-underline hover:underline">
-        {raritySpan}{preparationSpan} {beanSpan}
+        {qualitySpan}{preparationSpan} {beanSpan}
       </a>
     );
   }
 
   return (
     <>
-      {raritySpan}{preparationSpan} {beanSpan}
+      {qualitySpan}{preparationSpan} {beanSpan}
     </>
   );
 }

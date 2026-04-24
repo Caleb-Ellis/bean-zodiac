@@ -7,9 +7,9 @@ trait: exacting
 dish: Ribollita - Tuscan cannellini with red wine vinegar and cavolo nero.
 quote: Good enough is the enemy of the bean.
 seasonalFortune: The standard will be tested — it will hold, and what it produces will be worth the effort it required.
-dailyCommon: The standard is correct — hold it even where holding it is inconvenient.
-dailyUncommon: Do not lower the bar because lowering it is easier than defending why it is where it is.
-dailyRare: The room will adjust to the standard; the standard does not adjust to the room.
+dailyNeutral: The standard is correct — hold it even where holding it is inconvenient.
+dailyGood: Do not lower the bar because lowering it is easier than defending why it is where it is.
+dailyBest: The room will adjust to the standard; the standard does not adjust to the room.
 ---
 
 Brined Cannellini Beans are the Bean Zodiac's most exacting — they hold a standard consistently across all contexts and time.

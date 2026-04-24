@@ -7,9 +7,9 @@ trait: guarded
 dish: Senate bean soup - navy bean with jalapeño and ham hock.
 quote: Good beans make good neighbours.
 seasonalFortune: A gate will be needed — decide before it closes what it is actually protecting.
-dailyCommon: Reserve the full openness for those who have earned a view through the gate.
-dailyUncommon: The guard is real and warranted today — hold the boundary with intention.
-dailyRare: The reserve today is total — give access to none of it until you are certain.
+dailyNeutral: Reserve the full openness for those who have earned a view through the gate.
+dailyGood: The guard is real and warranted today — hold the boundary with intention.
+dailyBest: The reserve today is total — give access to none of it until you are certain.
 ---
 
 Braised Navy Beans are the Bean Zodiac's most guarded — something significant is held in reserve.

@@ -7,9 +7,9 @@ trait: literal-minded
 dish: Navy bean and escarole soup with lemon and Parmesan.
 quote: When I use a bean, it means just what I choose it to mean — neither more nor less.
 seasonalFortune: What you say will be taken at its word — the clarity this brings will be worth more than those who receive it know how to say.
-dailyCommon: Say what you mean exactly — the interpretation will follow from that.
-dailyUncommon: Do not leave room for a meaning you did not intend; the extra room will be used.
-dailyRare: The precise version is the kind one — say it plainly, and let the plainness be the gift.
+dailyNeutral: Say what you mean exactly — the interpretation will follow from that.
+dailyGood: Do not leave room for a meaning you did not intend; the extra room will be used.
+dailyBest: The precise version is the kind one — say it plainly, and let the plainness be the gift.
 ---
 
 Brined Navy Beans are the Bean Zodiac's most literal-minded — what is said is what is meant.

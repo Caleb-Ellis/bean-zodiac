@@ -7,9 +7,9 @@ trait: hermetic
 dish: Smoked cannellini with bitter fennel, sealed.
 quote: I want to bean alone.
 seasonalFortune: An unsorted thing will ask to enter — let it, and find out whether the enclosure survives one exception.
-dailyCommon: Keep the enclosure — not everything asking to enter has earned it.
-dailyUncommon: Maintain the seal; what is inside is exactly what belongs there.
-dailyRare: Allow nothing through that has not passed the full standard — the enclosure is complete and correct.
+dailyNeutral: Keep the enclosure — not everything asking to enter has earned it.
+dailyGood: Maintain the seal; what is inside is exactly what belongs there.
+dailyBest: Allow nothing through that has not passed the full standard — the enclosure is complete and correct.
 ---
 
 Ashen Cannellini Beans are the Bean Zodiac's most hermetic — they have refined what they will allow through to almost nothing.

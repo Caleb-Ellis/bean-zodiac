@@ -63,7 +63,7 @@ export default function ZodiacResult({
   if (!bean || !flavour || !form || !zodiac) return null;
 
   const preparation = getPreparationName(meta.flavourId, meta.formId);
-  const fortuneText = getFortuneText(zodiac, meta.rarityId);
+  const fortuneText = getFortuneText(zodiac, meta.qualityId);
 
   return (
     <div className="flex flex-col items-center text-center gap-6 animate-fade-up">

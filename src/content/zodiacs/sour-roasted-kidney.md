@@ -7,9 +7,9 @@ trait: fairness-minded
 dish: Rajma tikki - pan-seared kidney bean cakes with amchur and mint chutney
 quote: Injustice anywhere is a threat to bean everywhere.
 seasonalFortune: A fairness will be required that changes things — insist on it, and what you build by doing so will outlast the situation that required it.
-dailyCommon: The fair thing is clear — say what it is.
-dailyUncommon: Push for it; the fair outcome is available and it deserves to be fought for.
-dailyRare: Insist on it completely — every dimension of what is fair, held all the way through.
+dailyNeutral: The fair thing is clear — say what it is.
+dailyGood: Push for it; the fair outcome is available and it deserves to be fought for.
+dailyBest: Insist on it completely — every dimension of what is fair, held all the way through.
 ---
 
 Charred Kidney Beans are the Bean Zodiac's most fairness-minded — warmth that insists on equal distribution.

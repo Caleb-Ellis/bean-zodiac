@@ -7,9 +7,9 @@ trait: earnest
 dish: Sopa de frijol negro con tomatillo asado - black bean soup with roasted tomatillos and lime crema
 quote: The importance of being bean.
 seasonalFortune: A cost will come with being earnest — what it builds in return will be more durable than what a guarded approach would have.
-dailyCommon: The genuine version is the correct one — say it.
-dailyUncommon: Mean it fully; the sincerity is the point.
-dailyRare: Give it without any distance — the earnestness is the whole thing.
+dailyNeutral: The genuine version is the correct one — say it.
+dailyGood: Mean it fully; the sincerity is the point.
+dailyBest: Give it without any distance — the earnestness is the whole thing.
 ---
 
 Charred Black Beans are the Bean Zodiac's most earnest — genuinely in contact with what they feel.

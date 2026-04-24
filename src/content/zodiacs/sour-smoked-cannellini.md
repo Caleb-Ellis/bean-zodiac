@@ -7,9 +7,9 @@ trait: piercing
 dish: Ribollita - Tuscan bread soup with cannellini, smoked pancetta, cavolo nero, and red wine vinegar
 quote: The truth will bean you free.
 seasonalFortune: You will see to the matter of something before the room has finished arranging itself — wait until the room is ready to receive what you are offering.
-dailyCommon: The thing you are seeing through is exactly what it is — say so.
-dailyUncommon: Push the perception further; the full picture is there.
-dailyRare: Let it go all the way through — the complete piercing read, delivered without softening.
+dailyNeutral: The thing you are seeing through is exactly what it is — say so.
+dailyGood: Push the perception further; the full picture is there.
+dailyBest: Let it go all the way through — the complete piercing read, delivered without softening.
 ---
 
 Cold-Smoked Cannellini Beans are the Bean Zodiac's most piercing — their discernment arrives before the sentence has been finished.

@@ -7,9 +7,9 @@ trait: passionate
 dish: Adzuki chahan - Japanese fried rice with adzuki beans, soy sauce, and scallion.
 quote: Anything that gets your bean racing is worth doing!
 seasonalFortune: A love will ask for your full attention — give it freely, and ask once whether the heat is a gift or a pressure.
-dailyCommon: Follow what you feel — the passion you are in is pointing somewhere real.
-dailyUncommon: Give it full room — what you feel today has earned its full expression.
-dailyRare: Let it be everything — the feeling at full intensity is what it was always trying to become.
+dailyNeutral: Follow what you feel — the passion you are in is pointing somewhere real.
+dailyGood: Give it full room — what you feel today has earned its full expression.
+dailyBest: Let it be everything — the feeling at full intensity is what it was always trying to become.
 ---
 
 Tempura Adzuki Beans are the Bean Zodiac's most passionate — what deserves to be marked is, fully.

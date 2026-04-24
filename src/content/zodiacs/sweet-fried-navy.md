@@ -7,9 +7,9 @@ trait: romantic
 dish: Navy bean beignets — fried dough pillows with a white bean cream filling, dusted generously in powdered sugar.
 quote: My bean leaps up when I behold a rainbow in the sky.
 seasonalFortune: A real Bean will appear where the ideal was — love them, not the perfect version, and the loyalty will be more durable.
-dailyCommon: Let the feeling be larger than is strictly warranted — that is the right size.
-dailyUncommon: The idealism you bring today is making the real thing more than it would otherwise be.
-dailyRare: Love it fully and without reserve — the grand version is the true version.
+dailyNeutral: Let the feeling be larger than is strictly warranted — that is the right size.
+dailyGood: The idealism you bring today is making the real thing more than it would otherwise be.
+dailyBest: Love it fully and without reserve — the grand version is the true version.
 ---
 
 Caramelised Navy Beans are the Bean Zodiac's most romantic — they commit to Beans with absolute loyalty, delivered at full intensity.

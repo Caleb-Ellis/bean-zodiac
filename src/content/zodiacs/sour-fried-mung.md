@@ -7,9 +7,9 @@ trait: self-deprecating
 dish: Bindaetteok - Korean mung bean pancakes with a soy and rice vinegar dipping sauce.
 quote: I am so clever that sometimes I don't understand a single bean of what I am saying.
 seasonalFortune: A thing about yourself will need to be true without also being funny — let it land at its actual weight, just once.
-dailyCommon: The self-deprecating move is available — use it lightly.
-dailyUncommon: Turn it further inward; the joke is at your own expense and that is the right place for it.
-dailyRare: Go fully at yourself — the fullest version of the self-deprecation, delivered without flinching.
+dailyNeutral: The self-deprecating move is available — use it lightly.
+dailyGood: Turn it further inward; the joke is at your own expense and that is the right place for it.
+dailyBest: Go fully at yourself — the fullest version of the self-deprecation, delivered without flinching.
 ---
 
 Brightened Mung Beans are the Bean Zodiac's most self-deprecating — they get there first and make it funnier.

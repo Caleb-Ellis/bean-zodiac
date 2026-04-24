@@ -7,9 +7,9 @@ trait: discerning
 dish: Cannellini and broccoli rabe soup.
 quote: The bean you refuse is as important as the bean you accept.
 seasonalFortune: A thing that hasn't fully earned entry is coming — let it through anyway, and see what the exception teaches your standard.
-dailyCommon: Notice what earns your attention today — and what merely requests it.
-dailyUncommon: The standard is only as good as what it lets through, not what it excludes.
-dailyRare: The thing that has not earned entry will not earn it by waiting — refuse it without apology.
+dailyNeutral: Notice what earns your attention today — and what merely requests it.
+dailyGood: The standard is only as good as what it lets through, not what it excludes.
+dailyBest: The thing that has not earned entry will not earn it by waiting — refuse it without apology.
 ---
 
 Decocted Cannellini Beans are the Bean Zodiac's most discerning — they judge carefully what deserves their attention.

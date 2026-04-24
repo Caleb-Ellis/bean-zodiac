@@ -7,9 +7,9 @@ trait: methodical
 dish: Sopa de frijoles negros - Cuban black bean soup with lime and epazote.
 quote: Genius is one percent inspiration and ninety-nine percent bean.
 seasonalFortune: The sequence will deliver what it was designed for — stay in it, and the form will do its work.
-dailyCommon: Work through it in order — the next step is enough to know for now.
-dailyUncommon: Do not skip ahead; what you are in the middle of is the part that matters.
-dailyRare: The sequence you have built is doing its work — stay in it, and do not let impatience pull you out of the step you are in.
+dailyNeutral: Work through it in order — the next step is enough to know for now.
+dailyGood: Do not skip ahead; what you are in the middle of is the part that matters.
+dailyBest: The sequence you have built is doing its work — stay in it, and do not let impatience pull you out of the step you are in.
 ---
 
 Brined Black Beans are the Bean Zodiac's most methodical — they move through the world in sequence because it is how they think.

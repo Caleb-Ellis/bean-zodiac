@@ -7,9 +7,9 @@ trait: apathetic
 dish: Pinto beans slow-braised with fish sauce, caramelised onion, and lime.
 quote: The opposite of bean is not hate, it's indifference.
 seasonalFortune: The feeling that went quiet will return — follow the first small sign of it back, without waiting for certainty.
-dailyCommon: Follow what is true in this moment — the direction you are being pulled is real.
-dailyUncommon: Let the moment determine the course — the current pull is the one worth following.
-dailyRare: Go where the feeling is strongest — the honest response to what is actually in front of you is the most you can offer.
+dailyNeutral: Follow what is true in this moment — the direction you are being pulled is real.
+dailyGood: Let the moment determine the course — the current pull is the one worth following.
+dailyBest: Go where the feeling is strongest — the honest response to what is actually in front of you is the most you can offer.
 ---
 
 Miso Pinto Beans are the Bean Zodiac's most apathetic — feeling has become, for now, exhausting.

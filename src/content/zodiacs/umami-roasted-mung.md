@@ -7,9 +7,9 @@ trait: melancholy
 dish: Roasted mung beans with fish sauce, lime leaves, and dried chilli.
 quote: Sadness is but a bean of the wall beside the window, through which your joy shall look out.
 seasonalFortune: A grief will want its full time — and when it has been honoured, let the present room have a turn.
-dailyCommon: Feel it fully — the sadness you are carrying is real and it deserves its time.
-dailyUncommon: Go deeper into it — the feeling has more in it than the surface allows.
-dailyRare: Let the full weight of it land — what you are carrying is real, and you are the one who can hold it.
+dailyNeutral: Feel it fully — the sadness you are carrying is real and it deserves its time.
+dailyGood: Go deeper into it — the feeling has more in it than the surface allows.
+dailyBest: Let the full weight of it land — what you are carrying is real, and you are the one who can hold it.
 ---
 
 Bronzed Mung Beans are the Bean Zodiac's most melancholy — not unhappy, but one foot always in what has passed.

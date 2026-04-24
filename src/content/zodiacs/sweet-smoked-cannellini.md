@@ -7,9 +7,9 @@ trait: delicate
 dish: Fagioli al fiasco - cannellini baked in a flask with smoked guanciale, sweet Vin Santo, and sage.
 quote: The most beautiful things in the world cannot be seen or bean — they must be felt with the heart.
 seasonalFortune: What you carry will be handled by someone — build it to survive a little handling without losing what makes it worth it.
-dailyCommon: Handle the thing carefully — it deserves the precision.
-dailyUncommon: The care you bring today is the difference between something lasting and something lost.
-dailyRare: Be fully delicate — give it all the attention and lightness it needs.
+dailyNeutral: Handle the thing carefully — it deserves the precision.
+dailyGood: The care you bring today is the difference between something lasting and something lost.
+dailyBest: Be fully delicate — give it all the attention and lightness it needs.
 ---
 
 Barbecued Cannellini Beans are the Bean Zodiac's most delicate — their refinement has become something that needs to be handled with care.

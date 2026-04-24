@@ -7,9 +7,9 @@ trait: cryptic
 dish: Frijoles de Olla - with ancho chile and epazote.
 quote: Any sufficiently advanced bean is indistinguishable from magic.
 seasonalFortune: Someone will want the key — offer it before they stop looking.
-dailyCommon: The meaning is in the markings — let those who can read them find it.
-dailyUncommon: Offer nothing unearned; the code stands, and the right reader will arrive.
-dailyRare: Everything needed is already present — nothing more will be offered, and nothing more is needed.
+dailyNeutral: The meaning is in the markings — let those who can read them find it.
+dailyGood: Offer nothing unearned; the code stands, and the right reader will arrive.
+dailyBest: Everything needed is already present — nothing more will be offered, and nothing more is needed.
 ---
 
 Desiccated Pinto Beans are the Bean Zodiac's most cryptic — the markings are there, the meaning is not offered freely.

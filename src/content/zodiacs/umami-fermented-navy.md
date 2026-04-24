@@ -7,9 +7,9 @@ trait: calculating
 dish: Navy bean and aged miso gratin with Gruyère and toasted breadcrumb.
 quote: It is not enough to bean well; one must also bean at the right time.
 seasonalFortune: The plan is finished — commit to it before the calculation becomes its own purpose and the moment it was designed for passes.
-dailyCommon: Work it through — the thinking you are doing is the right preparation.
-dailyUncommon: Go finer — the precise version of the answer is within reach.
-dailyRare: Run the numbers to the end — the exact figure you have been approaching is what you came here for.
+dailyNeutral: Work it through — the thinking you are doing is the right preparation.
+dailyGood: Go finer — the precise version of the answer is within reach.
+dailyBest: Run the numbers to the end — the exact figure you have been approaching is what you came here for.
 ---
 
 Miso Navy Beans are the Bean Zodiac's most calculating — they've been working through the angles longer than anyone knows.

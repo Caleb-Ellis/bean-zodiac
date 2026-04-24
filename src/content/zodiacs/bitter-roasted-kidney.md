@@ -7,9 +7,9 @@ trait: proud
 dish: Roasted kidney bean stew with charred bitter peppers and smoked paprika.
 quote: It is not the bean that stoops who loses dignity, but the one who forgets why they stood.
 seasonalFortune: A warranted pride is coming — let it be generous enough to make room for someone else's.
-dailyCommon: Stand in what you have earned — it does not require modesty.
-dailyUncommon: Make the standard visible; others should know what they are measuring against.
-dailyRare: Carry it fully — the pride is warranted and the room is large enough to hold it.
+dailyNeutral: Stand in what you have earned — it does not require modesty.
+dailyGood: Make the standard visible; others should know what they are measuring against.
+dailyBest: Carry it fully — the pride is warranted and the room is large enough to hold it.
 ---
 
 Dark-Roasted Kidney Beans are the Bean Zodiac's most proud — they have standards and presence.

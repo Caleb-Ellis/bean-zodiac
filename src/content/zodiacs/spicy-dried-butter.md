@@ -7,9 +7,9 @@ trait: volatile
 dish: Gigantes plaki - Greek baked giant beans with dried Calabrian chili and preserved lemon.
 quote: Still waters bean deep.
 seasonalFortune: A shift is coming that will surprise even you — learn the early signs now, while there is still time to choose where the heat lands.
-dailyCommon: Pay attention to what is building today — the temperature is readable before it shifts.
-dailyUncommon: The change is already in motion; get ahead of where the heat will land.
-dailyRare: The full shift is coming — direct it completely before it finds its own direction.
+dailyNeutral: Pay attention to what is building today — the temperature is readable before it shifts.
+dailyGood: The change is already in motion; get ahead of where the heat will land.
+dailyBest: The full shift is coming — direct it completely before it finds its own direction.
 ---
 
 Sichuan Butter Beans are the Bean Zodiac's most volatile — the calm is present, until suddenly it isn't.
