@@ -10,6 +10,8 @@ seasonalFortune: A move will be correct — check once before it that you are st
 dailyNeutral: The move is clear — go first and bring someone along.
 dailyGood: The boldness today is warranted; check once that you are going first, not going alone.
 dailyBest: Go first today, completely — bring the full weight of what you know and hold the door.
+dailyBad: The bold move was made and no one followed; the door was held for a room that did not arrive.
+dailyWorst: Going first today leads somewhere no one should have gone; the bold call was wrong.
 ---
 
 Red-Hot Edamame are the Bean Zodiac's most bold — they go first without waiting for ideal conditions.

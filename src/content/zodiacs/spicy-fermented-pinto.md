@@ -10,6 +10,8 @@ seasonalFortune: A trail of positions will need a map — leave the reasoning be
 dailyNeutral: The position has moved — leave the reasoning before it closes.
 dailyGood: The shift is complete; build the map back so the Beans who need it can follow.
 dailyBest: Every position change today deserves its full accounting — leave the trail completely so the room can follow where you went.
+dailyBad: The position shifted before the last map was done; the reasoning is lost.
+dailyWorst: The shifts close too fast; the room has lost track entirely.
 ---
 
 Kimchi Pinto Beans are the Bean Zodiac's most mercurial — they shift completely before anyone notices the first change.

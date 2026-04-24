@@ -10,6 +10,8 @@ seasonalFortune: The question has been building — ask it, and then stay in the
 dailyNeutral: The question today is worth asking — ask it and stay in the room.
 dailyGood: The provocation is ready; put it in the room and hold your ground.
 dailyBest: Say the thing that rearranges the conversation — and stay for every word of what comes after.
+dailyBad: The question lands before the room is ready — what was meant to open something has closed it instead.
+dailyWorst: The provocation today ends the conversation it was meant to start — nothing is left in the room worth staying for.
 ---
 
 Kimchi Adzuki Beans are the Bean Zodiac's most provocative — they emerge from the dark to rearrange the conversation.

@@ -10,6 +10,8 @@ seasonalFortune: An answer is coming — when it does, carry the thoroughness to
 dailyNeutral: Pull at the thing that has been accepted — there is likely more to it.
 dailyGood: Ask the question that has not been asked; the easy answer is usually the incomplete one.
 dailyBest: Question everything before you — nothing has earned its place until you have turned it over completely.
+dailyBad: The questioning has run past the point where any answer would be accepted.
+dailyWorst: Nothing has earned the right to be believed.
 ---
 
 Tinctured Fava Beans are the Bean Zodiac's most questioning — they pull at what others accept, knowing the best things require more than first answers.

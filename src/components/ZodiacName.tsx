@@ -1,4 +1,11 @@
-import { QualityIds, type BeanId, type FlavourId, type FormId, type QualityId, type ZodiacId } from "../lib/zodiac";
+import {
+  QualityIds,
+  type BeanId,
+  type FlavourId,
+  type FormId,
+  type QualityId,
+  type ZodiacId,
+} from "../lib/zodiac";
 
 interface Props {
   flavourId: FlavourId;
@@ -10,10 +17,28 @@ interface Props {
   qualityId?: QualityId;
 }
 
-const QUALITY_LABEL: Partial<Record<QualityId, { text: string; className: string }>> = {
-  [QualityIds.Heirloom]: { text: "Heirloom ", className: "text-effect-gold" },
-  [QualityIds.Market]: { text: "Market-Fresh ", className: "text-effect-emerald" },
+const QUALITY_OPTIONS: Partial<
+  Record<QualityId, { texts: string[]; className: string }>
+> = {
+  [QualityIds.Heirloom]: {
+    texts: ["Heirloom", "Gourmet", "Prized", "Heritage", "Artisanal"],
+    className: "text-effect-gold",
+  },
+  [QualityIds.Market]: {
+    texts: ["Fresh", "Select", "Quality", "Reserve", "Handpicked"],
+    className: "text-effect-emerald",
+  },
+  [QualityIds.Stale]: {
+    texts: ["Stale", "Old", "Faded", "Tired", "Wilted"],
+    className: "text-effect-bruise",
+  },
+  [QualityIds.Rotten]: {
+    texts: ["Rotten", "Spoiled", "Putrid", "Foul", "Mouldy"],
+    className: "text-effect-rot",
+  },
 };
+
+const daySeed = Math.floor(Date.now() / 86_400_000);
 
 export default function ZodiacName({
   flavourId,
@@ -24,7 +49,13 @@ export default function ZodiacName({
   zodiacId,
   qualityId,
 }: Props) {
-  const qualityLabel = qualityId ? QUALITY_LABEL[qualityId] : undefined;
+  const qualityOpt = qualityId ? QUALITY_OPTIONS[qualityId] : undefined;
+  const qualityLabel = qualityOpt
+    ? {
+        text: qualityOpt.texts[daySeed % qualityOpt.texts.length] + " ",
+        className: qualityOpt.className,
+      }
+    : undefined;
   const qualitySpan = qualityLabel ? (
     <span className={qualityLabel.className}>{qualityLabel.text}</span>
   ) : null;
@@ -46,14 +77,16 @@ export default function ZodiacName({
   if (zodiacId) {
     return (
       <a href={`/zodiacs/${zodiacId}`} className="no-underline hover:underline">
-        {qualitySpan}{preparationSpan} {beanSpan}
+        {qualitySpan}
+        {preparationSpan} {beanSpan}
       </a>
     );
   }
 
   return (
     <>
-      {qualitySpan}{preparationSpan} {beanSpan}
+      {qualitySpan}
+      {preparationSpan} {beanSpan}
     </>
   );
 }

@@ -10,6 +10,8 @@ seasonalFortune: A belonging elsewhere will arrive that feels like yours — kno
 dailyNeutral: Listen for what is underneath what is being said.
 dailyGood: What you are receiving today is real — let it land before you respond.
 dailyBest: Step fully into what the other person is carrying — let it be as real for you as it is for them.
+dailyBad: You are so far inside the other person's feeling that you have lost your own position.
+dailyWorst: The empathy has dissolved your edges, and their experience has become yours.
 ---
 
 Honeyed Chickpeas are the Bean Zodiac's most empathetic — they feel what someone is carrying before that person has named it.

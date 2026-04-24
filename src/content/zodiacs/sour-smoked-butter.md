@@ -10,6 +10,8 @@ seasonalFortune: What replenishes the warmth will need to be found — not the p
 dailyNeutral: The depletion is real — let the day be quieter than usual.
 dailyGood: Do less; the pallor is the signal that replenishment is needed.
 dailyBest: Go fully quiet — everything reduced to the minimum, and let the rest wait.
+dailyBad: Going fully quiet will mean nothing arrives when something was needed.
+dailyWorst: Complete quiet will mean nothing is said — and silence will settle the matter.
 ---
 
 Cold-Smoked Butter Beans are the Bean Zodiac's most pallid — the calm is present, but it has been drained of something that made it sustaining.

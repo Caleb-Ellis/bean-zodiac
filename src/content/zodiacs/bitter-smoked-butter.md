@@ -10,6 +10,8 @@ seasonalFortune: The distance between you and the present will open again — re
 dailyNeutral: Let the drift continue — the distance is not yet a problem.
 dailyGood: Stay in the dream; what is there is more real than what is insisting on your attention.
 dailyBest: Go all the way into it — the present will still be there when you return.
+dailyBad: The present has slipped while the attention was elsewhere.
+dailyWorst: The moment has passed and the directions have been obscured.
 ---
 
 Ashen Butter Beans are the Bean Zodiac's most dreamy — their calm has drifted far enough from the present that it is difficult to locate in real time.

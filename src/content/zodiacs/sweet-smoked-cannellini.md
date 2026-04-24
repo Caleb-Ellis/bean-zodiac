@@ -10,6 +10,8 @@ seasonalFortune: What you carry will be handled by someone — build it to survi
 dailyNeutral: Handle the thing carefully — it deserves the precision.
 dailyGood: The care you bring today is the difference between something lasting and something lost.
 dailyBest: Be fully delicate — give it all the attention and lightness it needs.
+dailyBad: The delicacy you are known for cannot withstand what today is bringing.
+dailyWorst: The tending has been so careful that ordinary contact is now breaking it.
 ---
 
 Barbecued Cannellini Beans are the Bean Zodiac's most delicate — their refinement has become something that needs to be handled with care.

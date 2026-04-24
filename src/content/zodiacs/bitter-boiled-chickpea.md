@@ -10,6 +10,8 @@ seasonalFortune: The direction is about to become clear — the next version of 
 dailyNeutral: One form serves today better than the rest — choose it and hold it.
 dailyGood: Your range is not the gift; the precision with which you deploy it is.
 dailyBest: Every form available to you is suited to today — move between them without friction or hesitation.
+dailyBad: You have found the form for the moment — and abandoned it before it could land.
+dailyWorst: Every shape is available and none of them are you.
 ---
 
 Decocted Chickpeas are the Bean Zodiac's most versatile — they meet each situation on its own terms.

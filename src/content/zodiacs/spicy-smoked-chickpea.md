@@ -10,6 +10,8 @@ seasonalFortune: A room will ask you to stay in it — give the heat enough time
 dailyNeutral: The energy today is real — give one room the full temperature before moving.
 dailyGood: The heat is everywhere; direct it into one place and let it become something.
 dailyBest: Stay in one room today with the full heat — completely, long enough for it to become useful.
+dailyBad: The heat moved through every room and stayed in none.
+dailyWorst: The frenzy has no room to return to; the source is lost.
 ---
 
 Chipotle Chickpeas are the Bean Zodiac's most frenetic — they are everywhere at once, at considerable intensity, for reasons that shift before they can be examined.

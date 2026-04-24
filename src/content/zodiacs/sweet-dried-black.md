@@ -10,6 +10,8 @@ seasonalFortune: A constancy will go unmarked — make yourself legible once, so
 dailyNeutral: Stay — your presence is doing more than you think.
 dailyGood: The people you show up for have noticed, even when they haven't said so.
 dailyBest: Your constancy is what others are orienting around — hold the position.
+dailyBad: The constancy you are holding is indistinguishable from refusing to move.
+dailyWorst: The fixedness has become so complete that it is no longer clear where you end.
 ---
 
 Crystallised Black Beans are the Bean Zodiac's most abiding — they do not announce themselves, but they are always present when it matters.

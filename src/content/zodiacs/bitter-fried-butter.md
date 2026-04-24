@@ -10,6 +10,8 @@ seasonalFortune: The thing itself is coming — the axe has been sharpened long 
 dailyNeutral: Take the time the decision requires — this is not delay, it is the work.
 dailyGood: Every step has been examined; act with the full weight of that preparation behind it.
 dailyBest: Nothing has been skipped, nothing rushed — deliver with the complete conviction of everything built.
+dailyBad: The moment for action has passed while you were preparing for it.
+dailyWorst: Everything has been weighed and the scales will not tip toward any choice.
 ---
 
 Scorched Butter Beans are the Bean Zodiac's most deliberate — they act only after making sure it's worth doing.

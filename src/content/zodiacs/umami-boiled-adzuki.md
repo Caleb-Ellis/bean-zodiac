@@ -10,6 +10,8 @@ seasonalFortune: An affection will be returned — the pattern of returning is w
 dailyNeutral: The small gesture you are considering is worth making — it will land.
 dailyGood: The depth of what you feel is not excessive — let more of it be visible today.
 dailyBest: The affection you have been measuring out belongs to them in full — give it.
+dailyBad: The warmth you are offering today is not landing — it is asking for something.
+dailyWorst: The reaching is too tight — what feels like closeness is starting to feel like pressure.
 ---
 
 Dashi Adzuki Beans are the Bean Zodiac's most affectionate — they hold Beans with structural care.

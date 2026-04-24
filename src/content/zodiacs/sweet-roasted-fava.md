@@ -10,6 +10,8 @@ seasonalFortune: A room will need the clear thing — find the moment where it l
 dailyNeutral: Say the clear thing — the room can hear it.
 dailyGood: What you name today is what will finally be addressed.
 dailyBest: Say it fully — the truth is the most useful thing in the room right now.
+dailyBad: The outspokenness today is landing harder than the situation called for — not every truth needs a full audience.
+dailyWorst: The thing was said and the room was not ready for it — the honesty was real, but the damage is also real.
 ---
 
 Glazed Fava Beans are the Bean Zodiac's most outspoken — they say the clear thing warmly and fill the room with it.

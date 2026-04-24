@@ -10,6 +10,8 @@ seasonalFortune: What is accumulating beneath the calm will ask to come up — l
 dailyNeutral: The calm today is real — let what is underneath it show, just a little.
 dailyGood: The heat beneath the surface has been building; give it one way out.
 dailyBest: Let everything running beneath the calm surface today — completely, before it becomes pressure.
+dailyBad: The calm is a lid; what is beneath has no way up.
+dailyWorst: Nothing beneath will surface; the hush is sealed.
 ---
 
 Chipotle Butter Beans are the Bean Zodiac's most hushed — the calm is present, and underneath it something is running at considerable heat.

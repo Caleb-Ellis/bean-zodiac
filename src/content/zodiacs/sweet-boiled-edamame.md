@@ -10,6 +10,8 @@ seasonalFortune: A gift that is always there will stop being seen as one — let
 dailyNeutral: Show up the way you said you would.
 dailyGood: Someone is counting on you today in a way they haven't said aloud yet.
 dailyBest: Your consistency is the ground others are standing on — they feel it even when they do not name it.
+dailyBad: The consistency you are carrying is becoming resentment — you are showing up but it is costing more than it should.
+dailyWorst: The dependability has become invisibility — you have been reliable past the point of anyone noticing.
 ---
 
 Candied Edamame are the Bean Zodiac's most dependable — showing up exactly as promised, with no drama.

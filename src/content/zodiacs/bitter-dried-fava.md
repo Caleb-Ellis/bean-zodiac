@@ -10,6 +10,8 @@ seasonalFortune: The weight you carry will become visible to someone who needs t
 dailyNeutral: The conditions are difficult — continue anyway.
 dailyGood: The softness is not required here; proceed without it.
 dailyBest: Everything that could have softened this has been removed — hold the position without apology.
+dailyBad: The position is held past where it was worth holding.
+dailyWorst: The firmness has become a prison of your own making.
 ---
 
 Desiccated Fava Beans are the Bean Zodiac's most steely — the work is hard, the conditions are harsh, and they have decided none of it is reason to stop.

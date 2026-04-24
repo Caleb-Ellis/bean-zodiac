@@ -10,6 +10,8 @@ seasonalFortune: A move before conditions are ideal is coming — it will be cor
 dailyNeutral: The move is available — take it before conditions start to close.
 dailyGood: The difficulty ahead was chosen; go at it with everything.
 dailyBest: The audacity today is complete — commit fully and trust the instinct that brought you here.
+dailyBad: The reach exceeded what is available; the gap is wider than expected.
+dailyWorst: The move is fully committed with no landing; the fall is complete.
 ---
 
 Sichuan Fava Beans are the Bean Zodiac's most audacious — the work is difficult, the heat is significant, and they have chosen to proceed.

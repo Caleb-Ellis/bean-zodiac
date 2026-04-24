@@ -10,6 +10,8 @@ seasonalFortune: The system will hold — ask once before it does what it is in 
 dailyNeutral: The system is working — check once what it is in service of.
 dailyGood: The structure is sound; run through it at full speed and ask what it produced.
 dailyBest: Everything today runs through the system at full efficiency — stay aware of what the structure is actually for.
+dailyBad: The system ran efficiently toward a goal that no longer holds.
+dailyWorst: The structure has become the point; its purpose is gone.
 ---
 
 Red-Hot Navy Beans are the Bean Zodiac's most organized — their system lets them act decisively.

@@ -92,6 +92,7 @@ export default function ClaimedBeanResult({
                   bean={fortuneBean}
                   flavourId={fortuneFlavourId}
                   formId={fortuneFormId}
+                  qualityId={qualityId}
                 />
               </div>
               <div className="flex flex-col items-start gap-2 min-w-0">
@@ -106,7 +107,7 @@ export default function ClaimedBeanResult({
                     qualityId={qualityId}
                   />
                 </p>
-                <p className="italic text-zinc-200 sm:text-lg text-left sm:mb-1">
+                <p className="italic text-zinc-200 sm:text-lg text-left mb-1 sm:mb-2">
                   "{fortuneText}"
                 </p>
                 <div className="flex flex-wrap items-center gap-2 text-sm text-zinc-400 mt-1">

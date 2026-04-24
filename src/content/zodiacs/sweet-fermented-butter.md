@@ -10,6 +10,8 @@ seasonalFortune: Something waiting will not wait indefinitely — find the thing
 dailyNeutral: Let the pace slow — the right speed is slower than you think today.
 dailyGood: The ease you carry is doing something for the room — let it do its work.
 dailyBest: Settle fully into it — the unhurried version is the best version today.
+dailyBad: The ease is landing as indifference today — someone needed you to care and you did not show it.
+dailyWorst: It has been let go past the point of recovery — the ease has become negligence.
 ---
 
 Honeyed Butter Beans are the Bean Zodiac's most laid-back — a fundamental orientation toward the world, not an attitude adopted.

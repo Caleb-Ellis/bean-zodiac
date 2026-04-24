@@ -10,6 +10,8 @@ seasonalFortune: The clarity you have built will be needed by someone who does n
 dailyNeutral: Remove the comfort and see what holds beneath it.
 dailyGood: The warmth is not needed here — let what remains stand on its own terms.
 dailyBest: Everything that does not belong has been stripped away — what is left is the truth of the thing.
+dailyBad: Everything has been stripped, including what was worth keeping.
+dailyWorst: The removal has left only absence where something was.
 ---
 
 Desiccated Butter Beans are the Bean Zodiac's most stark — all warmth stripped out, all ease removed, what remains is bare and genuine.

@@ -10,6 +10,8 @@ seasonalFortune: A resolve will be tested — before it is, check whether the th
 dailyNeutral: The position holds today — stand in it without explanation.
 dailyGood: The fire has not moved you; hold completely and let the record show it.
 dailyBest: Every test of your resolve today confirms what you already know — remain entirely in it.
+dailyBad: The resolve has become rigidity — what is being held firm against today is something worth hearing.
+dailyWorst: Nothing pressing in today can register; the unflinching blocks it all, including what is correct.
 ---
 
 Sichuan Navy Beans are the Bean Zodiac's most unflinching — the fire has been noted, the position has not changed.

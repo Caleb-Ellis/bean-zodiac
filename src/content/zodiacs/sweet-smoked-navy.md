@@ -10,6 +10,8 @@ seasonalFortune: What you leave will still be present after you have gone — as
 dailyNeutral: Leave something in the room — the impression matters.
 dailyGood: What you bring today will stay after you have gone — make it worth the staying.
 dailyBest: Let the full weight of it linger — be present in the way that cannot be forgotten.
+dailyBad: The way you linger is a weight the room cannot put down.
+dailyWorst: The staying has gone so long that the room has forgotten how to move around it.
 ---
 
 Barbecued Navy Beans are the Bean Zodiac's most haunting — their loyalty leaves an impression that persists well after they have gone.

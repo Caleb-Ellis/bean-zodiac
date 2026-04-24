@@ -10,6 +10,8 @@ seasonalFortune: A weight will ask to be shared — allow one person to carry pa
 dailyNeutral: Move toward the difficulty — you already know you will.
 dailyGood: The resistance you are meeting is smaller than your capacity for it.
 dailyBest: Nothing in front of you is equal to what you are capable of — proceed.
+dailyBad: The indomitability is making you ignore what the situation is actually telling you — not everything can be overcome.
+dailyWorst: Something can stop you, and refusing to see that is where the danger lies.
 ---
 
 Crystallised Fava Beans are the Bean Zodiac's most indomitable — generosity as a force, courage concentrated until nothing can stop it.

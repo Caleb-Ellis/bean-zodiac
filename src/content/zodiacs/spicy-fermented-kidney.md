@@ -10,6 +10,8 @@ seasonalFortune: The obsession will be faithful — surface once before it close
 dailyNeutral: The focus is real — give it the full day.
 dailyGood: The obsession has earned its depth; run the full depth of it.
 dailyBest: Everything today belongs to the thing — give it completely, without remainder.
+dailyBad: The obsession runs past necessity; depth without direction.
+dailyWorst: The obsession takes everything and surfaces nothing.
 ---
 
 Kimchi Kidney Beans are the Bean Zodiac's most obsessive — they have found the thing and will not stop.

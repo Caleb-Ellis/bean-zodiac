@@ -10,6 +10,8 @@ seasonalFortune: A direction will become visible — let those around you see th
 dailyNeutral: What is not yet ready is not lost — the time you are giving it is the work.
 dailyGood: The pace you are holding is not inertia — it is the shape of your attention.
 dailyBest: Let it take as long as it takes — you are not waiting, you are tending.
+dailyBad: The wait has gone past useful — what you are calling patience is avoidance.
+dailyWorst: You have been still so long the moment has passed through you — patience has become its own kind of disappearance.
 ---
 
 Dashi Black Beans are the Bean Zodiac's most patient — they believe in the value of time.

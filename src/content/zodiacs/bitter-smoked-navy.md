@@ -10,6 +10,8 @@ seasonalFortune: What is gathering will arrive — say it in a way that can be h
 dailyNeutral: Name what is gathering — it will arrive whether you speak or not.
 dailyGood: Say it clearly; they need time to prepare before the weather turns.
 dailyBest: Deliver the full forecast without softening — being believed is not a condition of being right.
+dailyBad: The forecast is being issued before there is evidence to support it.
+dailyWorst: The omen has replaced the event — nothing can happen without it arriving first.
 ---
 
 Ashen Navy Beans are the Bean Zodiac's most ominous — their sense of what is coming tends to be correct, and they say so in a way that is difficult to dispute.

@@ -10,6 +10,8 @@ seasonalFortune: A force will arrive before the situation has finished understan
 dailyNeutral: The force today is real — give the situation a moment to understand it before it lands.
 dailyGood: The ferocity is complete and ready; make the arrival legible before deploying it.
 dailyBest: Bring the full force today — entirely, with enough announcement that the room can meet it.
+dailyBad: The force completed before the room could understand it.
+dailyWorst: The ferocity today arrived and concluded with no announcement; the room cannot reach it and the damage stands.
 ---
 
 Chipotle Edamame are the Bean Zodiac's most ferocious — efficient, hot, and concluded before the situation has fully understood what occurred.

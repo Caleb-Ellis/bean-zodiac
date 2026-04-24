@@ -10,6 +10,8 @@ seasonalFortune: The thing worth spending on will appear — do not let frugalit
 dailyNeutral: The simpler option is the correct one.
 dailyGood: What you already have is worth a closer look.
 dailyBest: Your instinct for the essential is protecting what matters most — apply it fully.
+dailyBad: The frugality you are applying today is protecting the wrong thing — what you are preserving is already gone.
+dailyWorst: The withholding has gone on so long that what was worth spending on has already passed — the saving was the loss.
 ---
 
 Candied Navy Beans are the Bean Zodiac's most frugal — they manage the gap between what they have and what they need.

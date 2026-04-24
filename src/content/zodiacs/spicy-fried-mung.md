@@ -10,6 +10,8 @@ seasonalFortune: More material will arrive than your nervous system needs — bu
 dailyNeutral: The signal today is real — find the gap before responding, however small.
 dailyGood: Everything is arriving at full volume; build the gap and use it.
 dailyBest: The full gain is on today — find the lag in every signal and use it completely.
+dailyBad: The signal today completed before a gap could be found — the response was already out.
+dailyWorst: Responding to everything today has overspent what was available; nothing remains for what actually required it.
 ---
 
 Red-Hot Mung Beans are the Bean Zodiac's most high-strung — they respond to everything immediately.

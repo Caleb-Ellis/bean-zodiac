@@ -10,6 +10,8 @@ seasonalFortune: An environment you have been quietly building for others will a
 dailyNeutral: Tend to the small thing — it is the right size for today.
 dailyGood: What you have been quietly tending is ready for more care.
 dailyBest: Everything in your orbit is growing because you made the conditions right — trust what you have built.
+dailyBad: What you are tending is asking for more nurturing than you have to give.
+dailyWorst: The care you are pouring out has no bottom and it is draining you — no one asked for this much.
 ---
 
 Candied Mung Beans are the Bean Zodiac's most nurturing — they tend conditions quietly, ensuring others have what they need before it's named.

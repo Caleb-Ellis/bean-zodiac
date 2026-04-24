@@ -10,6 +10,8 @@ seasonalFortune: A direction will change — tell the Beans counting on you befo
 dailyNeutral: Change direction — the new one is more interesting.
 dailyGood: The pivot you make today will free something that was stuck.
 dailyBest: Go where the feeling takes you — the caprice is the right navigator today.
+dailyBad: The whimsy today is not harmless — things were started and then abandoned and the room is still waiting.
+dailyWorst: Direction has changed so many times that nothing is where it was left — including the people who were following.
 ---
 
 Glazed Green Beans are the Bean Zodiac's most capricious — they change direction with warmth and conviction that makes each new thing feel inevitable.

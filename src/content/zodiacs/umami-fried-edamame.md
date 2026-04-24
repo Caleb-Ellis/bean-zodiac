@@ -10,6 +10,8 @@ seasonalFortune: A consensus will be slower than what you already understand —
 dailyNeutral: Stay sharp — what you are picking up is real and worth attending to.
 dailyGood: Let the keenness run — you are seeing more than the room has said yet.
 dailyBest: Take in everything — the full picture is available to you and you are fast enough to hold it.
+dailyBad: The pace is the problem — what has been seen and acted on has left everyone else behind.
+dailyWorst: The whole picture has been processed and the gap between you and the room is not closing — they are still at the beginning.
 ---
 
 Tempura Edamame are the Bean Zodiac's keenest — they already know, and they respond accordingly.

@@ -10,6 +10,8 @@ seasonalFortune: An attention that drifts will be needed somewhere specific — 
 dailyNeutral: The attention is drifting — let it wander and see where it lands.
 dailyGood: Follow the wisp; it is going somewhere, and the destination will be legible when you arrive.
 dailyBest: Let it drift completely — follow every pull without catching hold, and trust that where it settles is where it was going.
+dailyBad: Following every pull will mean settling nowhere that holds.
+dailyWorst: You will follow every drift — and arrive somewhere nobody was waiting for you.
 ---
 
 Cold-Smoked Mung Beans are the Bean Zodiac's most wispy — their care passes through rooms without settling into any of them.

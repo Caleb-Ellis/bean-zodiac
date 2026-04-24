@@ -10,6 +10,8 @@ seasonalFortune: A fairness will be required that changes things — insist on i
 dailyNeutral: The fair thing is clear — say what it is.
 dailyGood: Push for it; the fair outcome is available and it deserves to be fought for.
 dailyBest: Insist on it completely — every dimension of what is fair, held all the way through.
+dailyBad: Insisting on every dimension of what is fair will hold up what needed to move.
+dailyWorst: Enforcing every dimension of fairness will hold up what needs to move.
 ---
 
 Charred Kidney Beans are the Bean Zodiac's most fairness-minded — warmth that insists on equal distribution.

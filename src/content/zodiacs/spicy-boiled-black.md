@@ -10,6 +10,8 @@ seasonalFortune: What does not yield will not disappear — the hold that costs 
 dailyNeutral: Stay with it past the point where it would be easier to let go.
 dailyGood: The pressure has been building; your shape remains — keep the hold.
 dailyBest: The room will exhaust itself before you do; hold completely.
+dailyBad: The grip is tighter than the thing deserves — you are holding shape against nothing.
+dailyWorst: Nothing bends today — only the refusal remains, and it has become the whole point.
 ---
 
 Braised Black Beans are the Bean Zodiac's most tenacious — a quality so inherent to their structure that heat and pressure simply reveal it.

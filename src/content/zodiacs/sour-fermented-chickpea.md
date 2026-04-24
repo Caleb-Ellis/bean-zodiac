@@ -10,6 +10,8 @@ seasonalFortune: The solution has been worked long enough — give it to the roo
 dailyNeutral: The connection you have made is the right one — use it.
 dailyGood: The clever route is also the correct route; take it.
 dailyBest: Trust the full architecture of what you have worked out — bring it into the open and let it run.
+dailyBad: The architecture is more complex than what it is solving.
+dailyWorst: The clever solution will work — but for something other than what you needed.
 ---
 
 Pickled Chickpeas are the Bean Zodiac's most clever — they find solutions while others still map problems.

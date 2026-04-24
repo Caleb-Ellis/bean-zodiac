@@ -10,6 +10,8 @@ seasonalFortune: A seeing is about to become a conversation — offer it as an o
 dailyNeutral: Say what you see — the perception you have is worth putting in the room.
 dailyGood: Go one layer deeper — the full insight is further in than the first version of it.
 dailyBest: Give the complete picture — what you can see from here, others cannot, and it is time.
+dailyBad: The clarity is being held as a destination — and the expectation is that others arrive at it and stay.
+dailyWorst: The insight is complete and no one else is living inside it — the seeing has become entirely solitary.
 ---
 
 Bronzed Black Beans are the Bean Zodiac's most insightful — the insight is an invitation, not a verdict.

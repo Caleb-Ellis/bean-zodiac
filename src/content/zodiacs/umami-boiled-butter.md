@@ -10,6 +10,8 @@ seasonalFortune: A Bean who has been building on you will be asked to contribute
 dailyNeutral: Stay where you are — the people around you are steadying themselves against your position.
 dailyGood: Let your steadiness come with a need — the foundation can speak.
 dailyBest: Ask for something — you have held others long enough to hold a requirement of your own.
+dailyBad: The steadiness has become a refusal — you are not grounded, you are stuck.
+dailyWorst: Nothing can move you today and nothing will — the immovability is the problem.
 ---
 
 Dashi Butter Beans are the Bean Zodiac's most grounded — Beans build their seasons around them.

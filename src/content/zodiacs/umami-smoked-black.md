@@ -10,6 +10,8 @@ seasonalFortune: A gravity will be correctly placed — let the room breathe som
 dailyNeutral: Hold the gravity — what you are in asks for the full weight of your attention.
 dailyGood: Let the solemnity be complete — the occasion deserves to be treated as what it is.
 dailyBest: Give it the full weight — the gravity of what you are holding is real, and the room can carry it.
+dailyBad: The weight of it has filled the room — there is no air left in it.
+dailyWorst: The gravity is total and nothing can move inside it — the room is waiting for a release that is not coming.
 ---
 
 Burnished Black Beans are the Bean Zodiac's most solemn — the depth has accumulated to the point where anything lighter than gravity feels wrong.

@@ -10,6 +10,8 @@ seasonalFortune: A shift is coming that will surprise even you — learn the ear
 dailyNeutral: Pay attention to what is building today — the temperature is readable before it shifts.
 dailyGood: The change is already in motion; get ahead of where the heat will land.
 dailyBest: The full shift is coming — direct it completely before it finds its own direction.
+dailyBad: The heat is building and will erupt without warning.
+dailyWorst: Contact is detonation today; no direction can be predicted.
 ---
 
 Sichuan Butter Beans are the Bean Zodiac's most volatile — the calm is present, until suddenly it isn't.

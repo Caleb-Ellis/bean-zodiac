@@ -10,6 +10,8 @@ seasonalFortune: The detail will do its work — step back after and check wheth
 dailyNeutral: The detail is worth attending to — stay with it.
 dailyGood: Go through it carefully; the small things are what the whole depends on.
 dailyBest: Give every part of it the full attention — nothing too small to look at properly.
+dailyBad: The full attention will be given to a part that will not matter.
+dailyWorst: Every detail will align correctly — and the whole will still misfire.
 ---
 
 Brightened Cannellini Beans are the Bean Zodiac's most meticulous — they do it correctly at speed and notice when others haven't.

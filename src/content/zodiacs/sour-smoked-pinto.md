@@ -10,6 +10,8 @@ seasonalFortune: A plain thing will need to be said without the distance — fin
 dailyNeutral: The sardonic angle is the correct one — take it.
 dailyGood: Let the dryness run; the distance is the whole joke.
 dailyBest: Give it the full sardonic remove — completely dry, completely detached, and perfectly placed.
+dailyBad: The completely dry read will reach someone who needed something warmer.
+dailyWorst: The delivery will be perfect — and the precision will wound instead of illuminate.
 ---
 
 Cold-Smoked Pinto Beans are the Bean Zodiac's most sardonic — their expressiveness has curdled into something that watches the proceedings from a slight remove.

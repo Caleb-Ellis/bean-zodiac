@@ -10,6 +10,8 @@ seasonalFortune: A careful work will become visible — let yourself register wh
 dailyNeutral: Finish it properly — the care you put in is legible to anyone who looks.
 dailyGood: Your attention is the most valuable thing you will give today — spend it accordingly.
 dailyBest: Give it everything the work deserves — when you do it properly, it stays done.
+dailyBad: The care you are giving is more than this deserves — you are depleting for diminishing return.
+dailyWorst: Nothing you do today will be good enough to you — put it down before the standard eats the work.
 ---
 
 Dashi Cannellini Beans are the Bean Zodiac's most conscientious — they do things properly because proper is the point.

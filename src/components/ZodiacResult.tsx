@@ -1,7 +1,6 @@
 import { useEffect, useState } from "react";
 import Markdown from "react-markdown";
 import {
-  getFortuneText,
   getPreparationName,
   getZodiacMetadataForDate,
   type ZodiacData,
@@ -63,7 +62,6 @@ export default function ZodiacResult({
   if (!bean || !flavour || !form || !zodiac) return null;
 
   const preparation = getPreparationName(meta.flavourId, meta.formId);
-  const fortuneText = getFortuneText(zodiac, meta.qualityId);
 
   return (
     <div className="flex flex-col items-center text-center gap-6 animate-fade-up">
@@ -107,7 +105,7 @@ export default function ZodiacResult({
               Wisdom of the Bean
             </p>
             <p className="italic text-zinc-200 text-lg text-center px-4">
-              "{fortuneText}"
+              "{zodiac.seasonalFortune}"
             </p>
             <div className="flex items-center gap-3 w-full">
               <div className="flex-1 border-t border-zinc-600" />
@@ -118,7 +116,10 @@ export default function ZodiacResult({
         )}
         <section className="flex flex-col items-center gap-3 max-w-xl">
           {showQuote && <p className="italic mb-4 sm:mb-6">"{zodiac.quote}"</p>}
-          <ZodiacDish dish={zodiac.dish} className="max-w-lg w-full mb-2 sm:mb-4" />
+          <ZodiacDish
+            dish={zodiac.dish}
+            className="max-w-lg w-full mb-2 sm:mb-4"
+          />
         </section>
       </section>
       {showContent && (

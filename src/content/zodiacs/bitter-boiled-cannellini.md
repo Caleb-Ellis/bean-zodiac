@@ -10,6 +10,8 @@ seasonalFortune: A thing that hasn't fully earned entry is coming — let it thr
 dailyNeutral: Notice what earns your attention today — and what merely requests it.
 dailyGood: The standard is only as good as what it lets through, not what it excludes.
 dailyBest: The thing that has not earned entry will not earn it by waiting — refuse it without apology.
+dailyBad: The standard is no longer selecting — it is refusing everything on principle.
+dailyWorst: Everything is being judged against an impossible standard.
 ---
 
 Decocted Cannellini Beans are the Bean Zodiac's most discerning — they judge carefully what deserves their attention.

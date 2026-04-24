@@ -10,6 +10,8 @@ seasonalFortune: A lantern is about to be carried back toward you — let someon
 dailyNeutral: Give someone the confidence they are almost ready to find themselves.
 dailyGood: What you say today will be carried by someone long after the conversation ends.
 dailyBest: Lift the room completely — your belief in what they can do is the thing that makes it real.
+dailyBad: The encouragement you are giving is replacing something you should do yourself.
+dailyWorst: Everyone has been lifted so high that what you offer has been lost.
 ---
 
 Glazed Cannellini Beans are the Bean Zodiac's most empowering — they elevate everyone around them into believing in their own capacity.

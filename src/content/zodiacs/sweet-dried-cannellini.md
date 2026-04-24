@@ -10,6 +10,8 @@ seasonalFortune: An inaccessibility will be noticed — descend once and bring t
 dailyNeutral: Bring what is excellent — the occasion is ready for it.
 dailyGood: The precision you carry is doing something the room cannot name yet.
 dailyBest: Let the excellence speak fully — it is sufficient, and more than that.
+dailyBad: The standard you are holding is not meeting anyone where they are.
+dailyWorst: The refinement has gone past the point of access — the excellence is real, but no one can reach it.
 ---
 
 Crystallised Cannellini Beans are the Bean Zodiac's most rarefied — excellence stripped of ornament, leaving something so refined it can only be apprehended quietly.

@@ -10,6 +10,8 @@ seasonalFortune: A passion will reach people — name what you are actually figh
 dailyNeutral: Let the feeling come through in what you say.
 dailyGood: The passion you bring today is what makes the argument real — do not remove it.
 dailyBest: Give the full force of it — the impassioned version is the true version, and today it has a room.
+dailyBad: The impassioned version of you today is harder to be near than you know.
+dailyWorst: The passion has turned into a fire that does not distinguish between what it is warming and what it is burning.
 ---
 
 Barbecued Kidney Beans are the Bean Zodiac's most impassioned — the warmth is genuine, and underneath it something urgent is moving without a name.

@@ -10,6 +10,8 @@ seasonalFortune: A future you have been seeing will need to feel traversable to 
 dailyNeutral: Let the long view shape the small decision in front of you.
 dailyGood: What you can see from here is further than anyone else in the room.
 dailyBest: Go fully to where you are looking — the distance is real and the road is there.
+dailyBad: The vision is so far ahead that you are not seeing what is directly in front of you.
+dailyWorst: The horizon has held your gaze so long that the ground has disappeared from underneath.
 ---
 
 Honeyed Fava Beans are the Bean Zodiac's most visionary — they see where things are trying to go, quietly arranging the conditions.

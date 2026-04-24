@@ -10,6 +10,8 @@ seasonalFortune: A principle you hold will be challenged — ask before it arriv
 dailyNeutral: The principle holds — apply it, and notice where it strains.
 dailyGood: A conviction that cannot remember its origin is inheritance, not principle — trace it back.
 dailyBest: The principle applies here too — hold it without exception or apology.
+dailyBad: The principle is being applied where its evidence ran out.
+dailyWorst: The framework has become a cage — and the outside is no longer visible.
 ---
 
 Decocted Navy Beans are the Bean Zodiac's most dogmatic — they apply a framework fully, conviction embedded so deeply it becomes invisible.

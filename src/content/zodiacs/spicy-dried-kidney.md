@@ -10,6 +10,8 @@ seasonalFortune: What is accumulating will find its own timing if you do not fin
 dailyNeutral: Something has been building — read the pressure now, while the reading is still available.
 dailyGood: The accumulation is significant; find the channel before it finds one.
 dailyBest: The full force is at the surface today — direct it entirely before the timing chooses itself.
+dailyBad: The eruption is coming without the direction decided — it will find its own target.
+dailyWorst: What the force found today, it finished — it arrived before anything could be done with it.
 ---
 
 Sichuan Kidney Beans are the Bean Zodiac's most volcanic — pressure building in silence until the surface can no longer hold it.

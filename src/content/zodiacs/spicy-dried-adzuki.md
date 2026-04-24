@@ -10,6 +10,8 @@ seasonalFortune: A fire is building — check now whether what it will consume i
 dailyNeutral: The spark today has range — choose the thing that deserves to catch.
 dailyGood: The fire is real and ready; send it at the thing that can carry it.
 dailyBest: Everything you ignite today will spread exactly as far as you aim it — aim well.
+dailyBad: The fire is spreading past the target — what was meant to illuminate is beginning to consume.
+dailyWorst: The fire is past the target today — what was meant and what was caught are no longer distinguishable.
 ---
 
 Sichuan Adzuki Beans are the Bean Zodiac's most incendiary — the joy has been concentrated into something that can start a fire.

@@ -10,6 +10,8 @@ seasonalFortune: A cost will come with being earnest — what it builds in retur
 dailyNeutral: The genuine version is the correct one — say it.
 dailyGood: Mean it fully; the sincerity is the point.
 dailyBest: Give it without any distance — the earnestness is the whole thing.
+dailyBad: The full earnestness will arrive without distance — and be used without care.
+dailyWorst: The earnestness will arrive with no distance — and distance is what would have protected you.
 ---
 
 Charred Black Beans are the Bean Zodiac's most earnest — genuinely in contact with what they feel.

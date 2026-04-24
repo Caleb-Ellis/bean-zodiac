@@ -10,6 +10,8 @@ seasonalFortune: A warranted pride is coming — let it be generous enough to ma
 dailyNeutral: Stand in what you have earned — it does not require modesty.
 dailyGood: Make the standard visible; others should know what they are measuring against.
 dailyBest: Carry it fully — the pride is warranted and the room is large enough to hold it.
+dailyBad: The pride has closed the door to what was being offered.
+dailyWorst: The pride is standing alone and it no longer remembers why.
 ---
 
 Dark-Roasted Kidney Beans are the Bean Zodiac's most proud — they have standards and presence.

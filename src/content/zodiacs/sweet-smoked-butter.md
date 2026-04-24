@@ -10,6 +10,8 @@ seasonalFortune: A pleasant fog is coming — hold onto at least one clear edge 
 dailyNeutral: Let the edges stay soft — precision is not what today requires.
 dailyGood: The gentle blur you bring is making the room easier to inhabit.
 dailyBest: Settle fully into the haze — the softness is the thing today, and it is enough.
+dailyBad: The haze today is not rest — you have lost your bearings and the softness is not helping.
+dailyWorst: The fog is total — nothing is findable from inside it, and the drifting has become the problem.
 ---
 
 Barbecued Butter Beans are the Bean Zodiac's most hazy — the warmth is real, but the edges have softened past the point of definition.

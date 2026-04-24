@@ -10,6 +10,8 @@ seasonalFortune: A precision at full temperature is coming — remember that cal
 dailyNeutral: The precision today is real — apply it where the cut is genuinely needed.
 dailyGood: The full temperature is behind the precision; check the calibration before deploying.
 dailyBest: Bring the full searing precision today — completely, and with the calibration that makes it refinement rather than excess.
+dailyBad: The precision ran without calibration; it seared what did not need it.
+dailyWorst: The full temperature chose its own target; the damage is done.
 ---
 
 Chipotle Cannellini Beans are the Bean Zodiac's most scalding — their refinement has found a precision that burns.

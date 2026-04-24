@@ -10,6 +10,8 @@ seasonalFortune: The precision will be applied — make sure the whole it belong
 dailyNeutral: Get it exactly right — the difference will matter to someone who looks closely.
 dailyGood: Go back and fix the small thing — you already know which one it is.
 dailyBest: Hold to the precise version — the gap between right and nearly right is the entire point.
+dailyBad: The correction you are about to make is accurate and will cost more than the error would have.
+dailyWorst: The detail has swallowed the whole — no one in the room can see what it is trying to protect.
 ---
 
 Dashi Navy Beans are the Bean Zodiac's most pedantic — the difference between right and nearly right is not a small difference to them.

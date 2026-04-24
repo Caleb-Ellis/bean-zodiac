@@ -10,6 +10,8 @@ seasonalFortune: A story will be vivid but you will want to stay just out of rea
 dailyNeutral: Let your presence be felt even where it is not fully declared.
 dailyGood: The impression you leave today will be carrying on long after you have moved through.
 dailyBest: Be the thing that remains — step fully into the story and let the room feel you entirely.
+dailyBad: The ghostliness today has gone past atmosphere — you are simply not present and the room can tell.
+dailyWorst: The fading has been so complete that what is there is no longer part of what is happening — what remains is less than a presence.
 ---
 
 Barbecued Pinto Beans are the Bean Zodiac's most ghostly — the story is vivid, but the teller is somewhere just out of reach.

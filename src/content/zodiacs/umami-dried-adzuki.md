@@ -10,6 +10,8 @@ seasonalFortune: An ordinary occasion is coming — let it be worth celebrating 
 dailyNeutral: Mark this moment — something is worth pausing for, and you are the one who will do it.
 dailyGood: Treat the occasion as it deserves — give it the full weight of your attention.
 dailyBest: Make it sacred — what you consecrate becomes the thing others remember was worth honouring.
+dailyBad: The occasion has been elevated past the people in it — what is being honoured now is the reverence itself.
+dailyWorst: Nothing rises to the threshold — the sacred stays empty, and another moment passes unmarked.
 ---
 
 Aged Adzuki Beans are the Bean Zodiac's most reverential — celebration is not casual for them; it is a form of devotion.

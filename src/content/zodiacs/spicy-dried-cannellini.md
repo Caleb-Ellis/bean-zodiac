@@ -10,6 +10,8 @@ seasonalFortune: A mark will be made — make sure each one is the mark you mean
 dailyNeutral: The mark today will stick — make it the one you intend.
 dailyGood: The precision is full and the heat is behind it; apply both with care.
 dailyBest: Everything that meets your full attention today will carry it permanently — bring your best aim.
+dailyBad: The precision has gone past the edge — what was being refined is now scorched.
+dailyWorst: The full sear lands on everything today, wanted or not; nothing escapes the attention unburned.
 ---
 
 Sichuan Cannellini Beans are the Bean Zodiac's most searing — the precision is exact and the heat is real, and together they leave a mark.

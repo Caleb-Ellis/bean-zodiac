@@ -189,20 +189,20 @@ const daysSinceOrigin = (date: Date): number =>
   Math.floor((date.getTime() - ORIGIN_DATE.getTime()) / 86_400_000);
 
 const qualityFromSlot = (r: number): QualityId => {
-  if (r === 0) return QualityIds.Heirloom;
-  if (r === 3 || r === 7) return QualityIds.Market;
-  if (r === 1 || r === 5) return QualityIds.Stale;
-  if (r === 9) return QualityIds.Rotten;
-  return QualityIds.Garden;
+  if (r < 4) return QualityIds.Heirloom; // 4/50
+  if (r < 17) return QualityIds.Market; // 13/50
+  if (r < 42) return QualityIds.Garden; // 25/50
+  if (r < 49) return QualityIds.Stale; // 7/50
+  return QualityIds.Rotten; // 1/50
 };
 
 export const getQualityForDate = (date: Date): QualityId =>
-  qualityFromSlot(((daysSinceOrigin(date) % 10) + 10) % 10);
+  qualityFromSlot(((daysSinceOrigin(date) % 50) + 50) % 50);
 
 export const getQualityForSlug = (slug: string, date: Date): QualityId => {
   let h = daysSinceOrigin(date);
   for (const c of slug) h = (Math.imul(h, 31) + c.charCodeAt(0)) >>> 0;
-  return qualityFromSlot(h % 10);
+  return qualityFromSlot(h % 50);
 };
 
 export type DailyDimensions = {

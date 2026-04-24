@@ -10,6 +10,8 @@ seasonalFortune: A thing not yet fully earned will ask to be given — offer it 
 dailyNeutral: Keep what is yours close today — the interior is where the value is.
 dailyGood: The quiet you are holding is doing more than disclosure would.
 dailyBest: Withdraw fully into what is real and yours — the depth is the gift, and today it belongs to you.
+dailyBad: The reserve today is being felt as absence — the people around you needed something and you did not give it.
+dailyWorst: The withdrawal has been so complete that the room has stopped trying to reach.
 ---
 
 Glazed Navy Beans are the Bean Zodiac's most reserved — their warmth is present but not distributed at random.

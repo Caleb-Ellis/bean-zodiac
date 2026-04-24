@@ -10,6 +10,8 @@ seasonalFortune: A service will ask to be questioned — verify it is still a ch
 dailyNeutral: Do the thing that needs doing — you already know what it is.
 dailyGood: The service you give today is holding something together that would otherwise come apart.
 dailyBest: The whole of it rests on what you are willing to do — and you are willing.
+dailyBad: The duty you are carrying today has no feeling in it — you are doing what is required and nothing more.
+dailyWorst: The obligation has consumed who you are, and what remains is only the duty.
 ---
 
 Crystallised Navy Beans are the Bean Zodiac's most dutiful — they will be here, doing this, for as long as it needs doing.

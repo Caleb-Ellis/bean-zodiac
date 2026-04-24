@@ -10,6 +10,8 @@ seasonalFortune: A thing worth holding firm on is coming — before the moment, 
 dailyNeutral: The decision was made — stay in it.
 dailyGood: The conviction has been examined; bring it fully into the room.
 dailyBest: Every force applied against what you know is right will only sharpen it — stand entirely in it.
+dailyBad: The position is firm, but the feedback arriving today is worth examining before the door closes.
+dailyWorst: The refusal today is total and unexamined — what is being held against is the truth.
 ---
 
 Braised Fava Beans are the Bean Zodiac's most unyielding — once decided, nothing moves them.

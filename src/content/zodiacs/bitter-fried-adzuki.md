@@ -10,6 +10,8 @@ seasonalFortune: The one opinion still forming will be worth the wait — do not
 dailyNeutral: The opinion is forming — let it finish, then commit to it entirely.
 dailyGood: The position is ready; state it without softening or qualification.
 dailyBest: You have decided — hold it fully and without revision.
+dailyBad: The opinion was set before the information arrived.
+dailyWorst: Nothing can enter that does not already agree.
 ---
 
 Scorched Adzuki Beans are the Bean Zodiac's most opinionated — they decide quickly and hold firmly.

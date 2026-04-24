@@ -10,6 +10,8 @@ seasonalFortune: A distance will open between you and the Beans you love — it 
 dailyNeutral: The love today is real — hold it warmly and let it carry across whatever distance opens.
 dailyGood: The intensity is full; give it completely to the Beans who are here.
 dailyBest: Love completely today — at the full temperature, without pulling back.
+dailyBad: The distance reads as departure; the warmth intensifies past what is needed.
+dailyWorst: The intensity made the distance; the clinging pushed away.
 ---
 
 Peri-Peri Mung Beans are the Bean Zodiac's most clingy — they love with intensity.

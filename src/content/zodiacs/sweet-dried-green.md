@@ -10,6 +10,8 @@ seasonalFortune: The effort behind the renewal will want to be seen — let thos
 dailyNeutral: Return to it — the energy is there.
 dailyGood: The renewal has already started — you are already in it.
 dailyBest: You came back again, and the room noticed — let them see the full return.
+dailyBad: You are back again but nothing has changed — the return is starting to look like a loop.
+dailyWorst: The returning has become a pattern without ever staying, and something is being avoided.
 ---
 
 Crystallised Green Beans are the Bean Zodiac's most perennial — the freshness never depletes; the energy renews before it runs out.

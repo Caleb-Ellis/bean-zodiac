@@ -10,6 +10,8 @@ seasonalFortune: The candid version will be available — find the moment where 
 dailyNeutral: Find the reading of things that makes the most room.
 dailyGood: The bridge you build today will carry more than today's weight.
 dailyBest: Hold the whole of it — every side, every tension — and find the line that moves through all of them.
+dailyBad: The diplomacy today is a way of not saying the thing — someone needs the direct version.
+dailyWorst: The truth has been handled so carefully that no one can find it — the diplomacy has become erasure.
 ---
 
 Honeyed Cannellini Beans are the Bean Zodiac's most diplomatic — they find the arrangement everyone can live with, usually before the conversation begins.

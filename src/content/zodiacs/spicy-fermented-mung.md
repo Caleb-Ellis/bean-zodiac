@@ -10,6 +10,8 @@ seasonalFortune: The loop that has run longest will ask to be interrupted — fi
 dailyNeutral: The loop is familiar — find the gap before returning, however small.
 dailyGood: The pull is real and the loop is running; find the space inside it.
 dailyBest: The compulsion is at full strength today — find every gap in it and fill them differently.
+dailyBad: The loop is running with no gap; the return comes too soon.
+dailyWorst: The loop has no inside; each urge completes before anything can happen.
 ---
 
 Kimchi Mung Beans are the Bean Zodiac's most compulsive — they return to certain things with a regularity that puzzles them.

@@ -10,6 +10,8 @@ seasonalFortune: A dazzlement is coming — ask whether what you illuminate will
 dailyNeutral: Let it be impressive — it earned that.
 dailyGood: What you bring today is more than the room was expecting — give it all.
 dailyBest: Go at full dazzle — hold nothing back, let the full force of what you are fill the space.
+dailyBad: The dazzle is a performance for the room rather than presence in it.
+dailyWorst: The brightness has been enough that no one got close — the dazzling has become a distance.
 ---
 
 Barbecued Fava Beans are the Bean Zodiac's most dazzling — their boldness has acquired a warmth that overwhelms before it clarifies.

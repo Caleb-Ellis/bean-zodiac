@@ -10,6 +10,8 @@ seasonalFortune: A passion will ask for its limit — find the thing worth stopp
 dailyNeutral: The passion today is at full heat — find the thing worth stopping for.
 dailyGood: The consuming force is complete; give it the limit that lets it rest.
 dailyBest: Burn completely today — at full consuming temperature, and find the thing worth stopping for before the end.
+dailyBad: The consuming found no limit; it ran the full length.
+dailyWorst: What was consumed today cannot be replaced; the passion ran past its own sustainability and there is nothing left.
 ---
 
 Chipotle Kidney Beans are the Bean Zodiac's most consuming — the passion has found a heat source it cannot account for and will not stop.

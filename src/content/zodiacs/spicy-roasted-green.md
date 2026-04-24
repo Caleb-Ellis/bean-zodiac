@@ -10,6 +10,8 @@ seasonalFortune: The optimism will be tested — hold your positivity and your r
 dailyNeutral: The optimism today is warranted — let it carry the room.
 dailyGood: The certainty that it will work is real; hold it alongside what is actually happening.
 dailyBest: Bring the full optimism today — every bit of it, alongside the full reality, in the same hand.
+dailyBad: The optimism runs ahead of what is there; it will misread the situation.
+dailyWorst: Positivity has separated from reality; what matters sits unaddressed.
 ---
 
 Peri-Peri Green Beans are the Bean Zodiac's most optimistic — they show up certain it will work.

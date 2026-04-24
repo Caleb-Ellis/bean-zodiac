@@ -10,6 +10,8 @@ seasonalFortune: The sensitivity will register correctly — act on what it tell
 dailyNeutral: What you are registering is real — trust it.
 dailyGood: The signal is there; stay with what you are feeling.
 dailyBest: Give the full sensitivity its due — everything you are picking up, at full resolution.
+dailyBad: Everything you are picking up will be more than the day can hold.
+dailyWorst: At full sensitivity, you will absorb more than you are equipped to carry.
 ---
 
 Charred Mung Beans are the Bean Zodiac's most sensitive — they register everything, including what was not said.

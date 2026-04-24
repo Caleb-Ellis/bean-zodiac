@@ -10,6 +10,8 @@ seasonalFortune: A system will be tested by the problem it was not built for —
 dailyNeutral: Work the method — it is doing what it was built to do.
 dailyGood: The system you have built is handling more than you can see at once.
 dailyBest: Trust the structure completely — it was designed for exactly this.
+dailyBad: The system you are following is working against what is actually in front of you.
+dailyWorst: The process is being followed past the point where it applies — the map is wrong and it is still being used.
 ---
 
 Honeyed Edamame are the Bean Zodiac's most systematic — they think about how things work before committing.

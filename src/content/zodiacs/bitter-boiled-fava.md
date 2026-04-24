@@ -10,6 +10,8 @@ seasonalFortune: The hard thing is closer than it appears — before it arrives,
 dailyNeutral: The difficult thing is waiting — decide whether it is worth the cost before you begin.
 dailyGood: Move toward it; the preparation is complete enough.
 dailyBest: The courage required today is not rare — but your willingness to spend it without reserve is.
+dailyBad: The courage is spent — on something that did not require it.
+dailyWorst: You have faced it without asking whether it deserved the full cost.
 ---
 
 Decocted Fava Beans are the Bean Zodiac's most courageous — they face what is difficult without hesitation.

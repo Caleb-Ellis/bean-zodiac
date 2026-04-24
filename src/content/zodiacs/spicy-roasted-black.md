@@ -10,6 +10,8 @@ seasonalFortune: The room will fill — decide now what you want it to keep draw
 dailyNeutral: The pull today is real — decide what you want it to draw toward.
 dailyGood: The room is orienting; give it something worth arriving at.
 dailyBest: The full magnetism is present today — direct it completely at what deserves to be brought in.
+dailyBad: The pull today drew indiscriminately — the room has filled with things that should not have arrived.
+dailyWorst: What was drawn in today cannot be cleared; the magnetism was given no direction and the room belongs to what arrived.
 ---
 
 Peri-Peri Black Beans are the Bean Zodiac's most magnetic — something in the room orients toward them.

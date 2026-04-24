@@ -10,6 +10,8 @@ seasonalFortune: A care will run hotter than anyone notices — let the temperat
 dailyNeutral: The care today is running hotter than it shows — let the temperature become visible.
 dailyGood: The simmer has been building; bring it up to the surface.
 dailyBest: Let the full heat of the care show today — completely, so those you tend know what it costs.
+dailyBad: The simmer came up before it was let; the release was not chosen.
+dailyWorst: What was held emerged as pressure; the accumulation found its own way out.
 ---
 
 Chipotle Mung Beans are the Bean Zodiac's most simmering — their care runs hotter than it appears, and has been running that way for longer than anyone has noticed.

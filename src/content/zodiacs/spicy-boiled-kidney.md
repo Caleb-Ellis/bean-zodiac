@@ -10,6 +10,8 @@ seasonalFortune: A ground worth examining is coming — ask whether it is a prin
 dailyNeutral: Stay in your position while the pressure runs its course.
 dailyGood: The resistance today is a feature — hold through it.
 dailyBest: The pressure today will run its full course; your shape holds through all of it.
+dailyBad: The position is held, but there is no principle underneath it — only the refusal to move.
+dailyWorst: What was meant to hold ground has become the blockage; nothing can pass through it.
 ---
 
 Braised Kidney Beans are the Bean Zodiac's most stubborn — pressure doesn't move them.

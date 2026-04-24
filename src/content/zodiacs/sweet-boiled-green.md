@@ -10,6 +10,8 @@ seasonalFortune: A stillness will arrive — hold it long enough to be seen as s
 dailyNeutral: Find the version of this that is actually fun.
 dailyGood: Bring the lightness — the room is waiting for someone to start.
 dailyBest: Your delight is the most generative force in the space right now — let it run.
+dailyBad: The lightness is reading as avoidance, and the room needs someone to be serious.
+dailyWorst: The play has become a wall between you and what actually needs to be held.
 ---
 
 Candied Green Beans are the Bean Zodiac's most playful — lightness that sustains itself over time.

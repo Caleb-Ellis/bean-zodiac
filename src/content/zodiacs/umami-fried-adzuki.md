@@ -10,6 +10,8 @@ seasonalFortune: A love will ask for your full attention — give it freely, and
 dailyNeutral: Follow what you feel — the passion you are in is pointing somewhere real.
 dailyGood: Give it full room — what you feel today has earned its full expression.
 dailyBest: Let it be everything — the feeling at full intensity is what it was always trying to become.
+dailyBad: The feeling is real and the thing receiving it is bending under it — passion has become pressure.
+dailyWorst: The passion has outgrown what it is for — what is being loved and what is being overwhelmed have merged.
 ---
 
 Tempura Adzuki Beans are the Bean Zodiac's most passionate — what deserves to be marked is, fully.

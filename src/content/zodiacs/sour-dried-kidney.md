@@ -10,6 +10,8 @@ seasonalFortune: A fight worth having will arrive — learn to recognise the mom
 dailyNeutral: The fierceness is warranted — bring it to what is in front of you.
 dailyGood: Fight this one with everything; the cause is worth the full force.
 dailyBest: Give it the whole weight of what you carry — and let the intensity be visible.
+dailyBad: The intensity will be directed at something that cannot hold it.
+dailyWorst: The force will land completely — and what it hits will strain under the full weight.
 ---
 
 Dehydrated Kidney Beans are the Bean Zodiac's most fierce — the passion has been sharpened to a point and held there.

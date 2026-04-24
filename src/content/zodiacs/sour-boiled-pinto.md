@@ -10,6 +10,8 @@ seasonalFortune: The long observation forming in you will find its moment — le
 dailyNeutral: The observation has been forming long enough — the moment for it is here.
 dailyGood: The timing is now; the line that has been waiting is ready to land.
 dailyBest: The room has set it up perfectly — say the thing, and trust that the timing has done its work.
+dailyBad: The line will land — and in landing, will close something that was still open.
+dailyWorst: The timing will be perfect — and perfect timing will leave a mark.
 ---
 
 Brined Pinto Beans are the Bean Zodiac's most sarcastic — they waited until the timing was exactly right.

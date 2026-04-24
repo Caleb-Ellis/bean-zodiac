@@ -10,6 +10,8 @@ seasonalFortune: The signal-to-noise ratio will improve — act on the signal wh
 dailyNeutral: The doubt is loud today — let it speak without needing to answer it.
 dailyGood: The uncertainty is deeper than usual; stay with it fully.
 dailyBest: The insecurity is at full volume — sit in it completely, and see what it actually says.
+dailyBad: The insecurity will speak before you do — and be believed.
+dailyWorst: The insecurity will speak so loudly that nothing else can be heard.
 ---
 
 Pickled Mung Beans are the Bean Zodiac's most insecure — they understand in exquisite detail everything they might be getting wrong.

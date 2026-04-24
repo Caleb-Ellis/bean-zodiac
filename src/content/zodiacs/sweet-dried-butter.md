@@ -10,6 +10,8 @@ seasonalFortune: A distance will open — close it, and let the serenity be avai
 dailyNeutral: Bring the calm into the room — it travels further than you expect.
 dailyGood: The steadiness you carry today is what others are borrowing.
 dailyBest: Let the peace extend outward until the whole room has slowed to meet it.
+dailyBad: The serenity is becoming distance — you are at peace but not present.
+dailyWorst: The calm has become a withdrawal so complete that nothing can reach what is inside — including the things that should.
 ---
 
 Crystallised Butter Beans are the Bean Zodiac's most serene — the ease has been purified of the softness, leaving something still and enduring.

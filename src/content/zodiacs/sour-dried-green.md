@@ -10,6 +10,8 @@ seasonalFortune: Someone who needs waking up is coming — read whether they are
 dailyNeutral: The bracing thing you are about to do will leave whoever receives it more awake — proceed.
 dailyGood: The shock is the gift; deliver it without softening it.
 dailyBest: The full cold of it is the point — let it arrive at full temperature.
+dailyBad: The cold of it will arrive before anyone was ready to be woken.
+dailyWorst: The shock will wake something — and the waking will be too sudden to hold.
 ---
 
 Dehydrated Green Beans are the Bean Zodiac's most bracing — the freshness remains, but it is cold and sharp and entirely without cushion.

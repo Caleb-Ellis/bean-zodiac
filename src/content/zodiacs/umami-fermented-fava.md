@@ -10,6 +10,8 @@ seasonalFortune: The rebellion will need its reasoning surfaced — enough that 
 dailyNeutral: Push against it — the thing that should be different deserves the pressure.
 dailyGood: Hold your ground — the resistance you are offering is doing its work.
 dailyBest: Refuse it entirely — you have been right about this all along, and the full force of that is justified.
+dailyBad: The rebellion is clear and the reasoning behind it is not — no one can follow without the map.
+dailyWorst: The refusal stands but the reasoning behind it is interior — no one can decide whether to stand with it.
 ---
 
 Miso Fava Beans are the Bean Zodiac's most rebellious — their refusal comes from deep, private examination.

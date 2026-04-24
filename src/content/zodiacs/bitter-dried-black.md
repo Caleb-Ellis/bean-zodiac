@@ -10,6 +10,8 @@ seasonalFortune: Your silence will be read as both presence and absence — find
 dailyNeutral: One word lands better than three — find it.
 dailyGood: Cut everything before the last clause; the conclusion is the only part that carries weight.
 dailyBest: Say the one thing, then let the silence carry everything that follows.
+dailyBad: The silence has stopped being deliberate — it is just absence.
+dailyWorst: The silence has become its own answer.
 ---
 
 Desiccated Black Beans are the Bean Zodiac's most laconic — they say exactly one thing, and it is the right one.

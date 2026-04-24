@@ -10,6 +10,8 @@ seasonalFortune: Something will move through you at considerable heat and want t
 dailyNeutral: Something is moving in there — let one piece of it become readable to someone near.
 dailyGood: The heat has been running long enough; give it enough clarity to be approached.
 dailyBest: Let the full interior surface today — enough to be approached, and approached completely.
+dailyBad: What is moving gives no signal; the heat is unreadable.
+dailyWorst: The interior surfaces nothing; the murkiness is total.
 ---
 
 Chipotle Black Beans are the Bean Zodiac's most murky — something is moving in there at some intensity, and it does not announce itself.

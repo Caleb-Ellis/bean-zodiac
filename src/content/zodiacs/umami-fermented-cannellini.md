@@ -10,6 +10,8 @@ seasonalFortune: The ideal will hold — give the actual world one honest opport
 dailyNeutral: Hold to what it should be — the standard you are keeping is worth keeping.
 dailyGood: Let the ideal run at full brightness — it is the measure that matters.
 dailyBest: Refuse the diminished version — what you know it could be is the thing to build toward.
+dailyBad: The gap between what is and what it should be has become the only thing visible.
+dailyWorst: The ideal is intact and nothing today is meeting it — the gap has become the main thing visible.
 ---
 
 Miso Cannellini Beans are the Bean Zodiac's most idealistic — they haven't yet been convinced to revise their picture.

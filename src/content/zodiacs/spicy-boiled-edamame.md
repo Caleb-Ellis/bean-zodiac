@@ -10,6 +10,8 @@ seasonalFortune: The compound interest of the work will come due — when it doe
 dailyNeutral: The work ahead is knowable — put the first hour in and the rest will show itself.
 dailyGood: Today requires sustained effort and you are built for it — begin.
 dailyBest: The output today will be everything that could be given — bring it all to the task.
+dailyBad: The effort today is outpacing any result — all labor, no return.
+dailyWorst: The drive today has no object; it will consume everything and leave nothing to show.
 ---
 
 Braised Edamame are the Bean Zodiac's most hardworking — they understand work is required and follow through.

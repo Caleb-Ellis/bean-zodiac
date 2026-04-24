@@ -10,6 +10,8 @@ seasonalFortune: Something worth keeping is about to ask to be let back in — t
 dailyNeutral: Remove one more thing — see if what remains is stronger for it.
 dailyGood: Hold the reduction until only what cannot be argued away remains.
 dailyBest: Everything that does not belong has been taken — what is left needs no defense.
+dailyBad: The deprivation has outlasted its purpose — there is nothing left to prove with it.
+dailyWorst: There is nothing left and nothing was gained.
 ---
 
 Desiccated Cannellini Beans are the Bean Zodiac's most ascetic — they have removed every excess and arrived at something so refined it barely takes up space.

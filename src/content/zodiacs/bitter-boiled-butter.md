@@ -10,6 +10,8 @@ seasonalFortune: Someone nearby is waiting to know you are there — not that yo
 dailyNeutral: The stillness you carry is not emptiness — let it be felt as steadiness.
 dailyGood: Someone today needs to know you are home before they can continue.
 dailyBest: You are the surface others need to be still against — hold.
+dailyBad: The stillness has become distance — and those around you have stopped trying to cross it.
+dailyWorst: The stillness is being read as indifference — and it is becoming true.
 ---
 
 Decocted Butter Beans are the Bean Zodiac's most composed — not through suppression, but through a genuine preference for stillness that nothing so far has managed to disturb.

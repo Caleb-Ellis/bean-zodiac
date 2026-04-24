@@ -10,6 +10,8 @@ seasonalFortune: The work is about to be good enough — trust it and let it go.
 dailyNeutral: Work the detail — it is worth the time it takes.
 dailyGood: The care you are putting in is compounding into something that will hold.
 dailyBest: Give it the full attention — the work deserves everything you brought today.
+dailyBad: The diligence today is past the point of diminishing returns — you are working on something that is already done.
+dailyWorst: The effort has become an end, and the work itself has been forgotten.
 ---
 
 Glazed Edamame are the Bean Zodiac's most diligent — they do the work carefully and completely, warming every step with genuine effort.

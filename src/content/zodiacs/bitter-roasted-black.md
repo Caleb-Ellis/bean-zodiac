@@ -10,6 +10,8 @@ seasonalFortune: The depth you carry will find someone who wants to be let past 
 dailyNeutral: Let the depth speak for itself — no announcement is needed.
 dailyGood: Move through this with the assurance of something that requires no explanation.
 dailyBest: Everything unnecessary has been removed — what remains is the thing itself, entirely.
+dailyBad: Everything unnecessary has been removed, including the warmth.
+dailyWorst: It is entirely correct and no one is in it.
 ---
 
 Dark-Roasted Black Beans are the Bean Zodiac's most elegant — depth that needs no announcement.

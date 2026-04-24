@@ -10,6 +10,8 @@ seasonalFortune: The energy generated will need redirecting — before it disper
 dailyNeutral: The charge today is high — point it at something that can use the current.
 dailyGood: The energy is immediate and live; run it through something that needs it.
 dailyBest: Everything today will carry the full voltage — send it into the thing that can actually bear it.
+dailyBad: The current is live and ungrounded; everything it touches gets shocked.
+dailyWorst: The full voltage arcs indiscriminately and the damage is done.
 ---
 
 Sichuan Green Beans are the Bean Zodiac's most electric — the energy was already immediate; the heat has made it impossible to ignore.

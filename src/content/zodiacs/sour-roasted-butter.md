@@ -10,6 +10,8 @@ seasonalFortune: Most of the guilelessness will be repaid — the exceptions are
 dailyNeutral: Take what is in front of you at face value — it is probably what it appears to be.
 dailyGood: Skip the reading-between-the-lines; what was said is what was meant.
 dailyBest: Receive it completely plainly — the guileless response is the correct one.
+dailyBad: The guileless response will be read as an invitation.
+dailyWorst: Taking things completely plainly will miss what was actually being offered.
 ---
 
 Charred Butter Beans are the Bean Zodiac's most guileless — nothing behind what they say or do.

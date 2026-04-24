@@ -10,6 +10,8 @@ seasonalFortune: A risk will produce results — look back after, not to second-
 dailyNeutral: The risk today is real — take it and look back after to see what to trust further.
 dailyGood: The commitment is made before the math is done; go at it with everything and learn from the result.
 dailyBest: Take the full risk today — commit completely and stay for the accounting of every instinct it tests.
+dailyBad: The risk came back today and the accounting is not done — what went wrong has not been looked at.
+dailyWorst: The commitment was full and the landing was not there; the consequence is complete and the instinct cannot yet be trusted.
 ---
 
 Red-Hot Fava Beans are the Bean Zodiac's most risk-taking — they commit before the math is finished.

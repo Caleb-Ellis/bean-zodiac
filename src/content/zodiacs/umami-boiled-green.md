@@ -10,6 +10,8 @@ seasonalFortune: An accumulation will become visible — see the whole before yo
 dailyNeutral: Make the next thing — the doing is the whole of it today.
 dailyGood: Keep going — the volume you are producing is becoming something worth looking at.
 dailyBest: Let it all come — the accumulation is the work, and you are capable of all of it.
+dailyBad: The volume is outrunning the value — you are making more before finishing what you have.
+dailyWorst: Nothing being produced today is being looked at — it is all going straight into the pile.
 ---
 
 Dashi Green Beans are the Bean Zodiac's most prolific — they produce, and what they've made accumulates into something substantial.

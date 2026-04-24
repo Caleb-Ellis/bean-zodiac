@@ -10,6 +10,8 @@ seasonalFortune: A commitment will be asked of you that requires no inspiration 
 dailyNeutral: The commitment today is real — show up for it and check once that it has checked on you.
 dailyGood: The doggedness is at full strength; give it completely and ask once if the direction is still right.
 dailyBest: Commit entirely today — without turning aside, and with enough openness to check the thing you are committed to.
+dailyBad: The commitment is dogged past the point where the direction was right.
+dailyWorst: The doggedness compounded the error; each step deepened it.
 ---
 
 Chipotle Navy Beans are the Bean Zodiac's most dogged — they will not be turned aside, and the source of their certainty is somewhere behind the fire and before any argument.

@@ -10,6 +10,8 @@ seasonalFortune: The impression is forming — hold your own alongside it, and s
 dailyNeutral: The room is yours today — hold your own alongside how it is receiving you.
 dailyGood: The charisma is full and real; stay connected to what you actually think.
 dailyBest: Everything today will center on your presence — carry it completely and stay entirely yourself.
+dailyBad: The room's reception crowded out what was thought; presence without substance.
+dailyWorst: The charisma today ran ahead of everything else; what the room receives is not what was meant to be there.
 ---
 
 Peri-Peri Cannellini Beans are the Bean Zodiac's most charismatic — the room changes and they become its center.

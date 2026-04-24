@@ -10,6 +10,8 @@ seasonalFortune: A small thing will arrive — let it be exactly as small as it 
 dailyNeutral: Bring the full weight — the seriousness you are bringing is the appropriate response.
 dailyGood: Give it the gravity it deserves — the considered approach is the right one here.
 dailyBest: Treat it as though everything depends on it — for you, right now, it does.
+dailyBad: The weight being brought is heavier than what is underneath it — the serious approach is distorting what it is touching.
+dailyWorst: Everything is urgent and nothing is small today — the proportion has been lost entirely.
 ---
 
 Tempura Mung Beans are the Bean Zodiac's most serious — they bring the same gravity to all things.

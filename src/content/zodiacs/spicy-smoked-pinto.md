@@ -10,6 +10,8 @@ seasonalFortune: A thread will ask to be followed — carry it far enough that t
 dailyNeutral: The thread today is real — follow it far enough to show where it leads.
 dailyGood: The expressiveness is at full temperature; find one thread and run the full length of it.
 dailyBest: Everything today runs at full heat — pick the thread completely and follow it to its end.
+dailyBad: The thread changed before the room could follow; the trail is cold.
+dailyWorst: The erratic has exhausted the room; no thread can be followed back.
 ---
 
 Chipotle Pinto Beans are the Bean Zodiac's most erratic — the expressiveness is vivid, the temperature is high, and the direction changes before it can be followed.

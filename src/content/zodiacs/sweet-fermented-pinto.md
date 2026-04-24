@@ -10,6 +10,8 @@ seasonalFortune: The preparation will be complete — stop at good enough and st
 dailyNeutral: The preparation is enough — move forward on what you have.
 dailyGood: Most of what you are carrying will not arrive — put it down for now.
 dailyBest: Step into it — everything you need is already with you.
+dailyBad: The worry is taking up all the space — there is no room left for anything else to happen.
+dailyWorst: The worry has taken over entirely, and there is no room for anything else.
 ---
 
 Honeyed Pinto Beans are the Bean Zodiac's most anxious — they have already run every scenario.

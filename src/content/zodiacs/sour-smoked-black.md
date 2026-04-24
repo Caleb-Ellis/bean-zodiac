@@ -10,6 +10,8 @@ seasonalFortune: A standard will be applied before it has been made legible — 
 dailyNeutral: The withering response is available — find the right target for it.
 dailyGood: Let it land at full weight; the deflation is warranted.
 dailyBest: Give it completely — the full withering force, aimed exactly, and let it do its work.
+dailyBad: The withering force will find something it cannot repair.
+dailyWorst: The critique will land with precision — and precision will wound more than soften.
 ---
 
 Cold-Smoked Black Beans are the Bean Zodiac's most withering — their silences have a way of completing the sentence faster than any word could.

@@ -10,6 +10,8 @@ seasonalFortune: A difficulty is coming that will want to be named — name it, 
 dailyNeutral: Hold the shape — the pressure is temporary.
 dailyGood: What is being applied to you today is less than what you are built for.
 dailyBest: Take the full weight — you were made for exactly this load.
+dailyBad: The resilience today is refusing to let anything land — you are absorbing what should be acknowledged.
+dailyWorst: The bouncing back has happened so many times that the ability to say when something hurt is gone.
 ---
 
 Glazed Black Beans are the Bean Zodiac's most resilient — through warmth and solidity that allows them to flex under pressure and return without fracturing.

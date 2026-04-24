@@ -10,6 +10,8 @@ seasonalFortune: An understanding has been quietly accumulating — share it wit
 dailyNeutral: Keep watching — the detail you are about to notice will matter.
 dailyGood: Let your attention go finer — what you are looking at has more in it.
 dailyBest: Give it your total attention — the full picture is visible only to the one who stays.
+dailyBad: The observation has been held past the moment when it could have helped — it is accurate and now irrelevant.
+dailyWorst: Everything noticed today will stay noticed and nothing more — the window for acting on it has already closed.
 ---
 
 Miso Edamame are the Bean Zodiac's most observant — they hold what they notice for a long time before saying it.

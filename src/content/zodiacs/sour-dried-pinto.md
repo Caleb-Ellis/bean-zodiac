@@ -10,6 +10,8 @@ seasonalFortune: Some warmth will ask to return — let it in, and find out whet
 dailyNeutral: The astringency is the flavour — let it be what it is.
 dailyGood: Pull the warmth back; the clarity that remains is the thing worth having.
 dailyBest: Let it run completely dry — the astringency is the whole contribution today, and it is a real one.
+dailyBad: Running dry will take more than the excess — it will take something that was needed.
+dailyWorst: Removing excess will remove too much — and what remains will not be sufficient.
 ---
 
 Dehydrated Pinto Beans are the Bean Zodiac's most astringent — the expressiveness remains, but the sentimentality has been cut away entirely.

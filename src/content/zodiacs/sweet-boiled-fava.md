@@ -10,6 +10,8 @@ seasonalFortune: A direction will be questioned — the question is not whether 
 dailyNeutral: Keep going — the resistance is part of the work.
 dailyGood: The effort is compounding in ways that will only be visible later.
 dailyBest: You have already outlasted most of what was working against you — finish it.
+dailyBad: The resistance you are feeling is the work telling you something — not every difficulty is meant to be pushed through.
+dailyWorst: The persistence has outlasted its purpose, and what is being continued no longer matters.
 ---
 
 Candied Fava Beans are the Bean Zodiac's most persistent — continuing without requiring things to be easy or the end to be visible.

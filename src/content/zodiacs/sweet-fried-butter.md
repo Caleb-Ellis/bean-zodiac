@@ -10,6 +10,8 @@ seasonalFortune: A weight will ask to be picked up — learn to carry it without
 dailyNeutral: Let the weight land lightly — the ease is genuine today.
 dailyGood: The cool you bring is keeping the room from overcorrecting — hold it.
 dailyBest: Carry it all without carrying it — the nonchalance is the right answer for exactly this.
+dailyBad: The nonchalance is reading as dismissal — what is in front of you today is serious and it needs to be treated as such.
+dailyWorst: Something that needed full attention got a shrug — the damage is done and the ease was the cause.
 ---
 
 Caramelised Butter Beans are the Bean Zodiac's most nonchalant — things happen without making any visible dent.

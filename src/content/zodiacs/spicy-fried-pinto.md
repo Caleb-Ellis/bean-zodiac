@@ -10,6 +10,8 @@ seasonalFortune: A wake full of unfinished things is coming — choose one and s
 dailyNeutral: One of the things started today is worth finishing — find it and stay.
 dailyGood: The chaos is real and generative; pick one thread and follow it to the end.
 dailyBest: Everything today is running at full heat and in every direction — choose one completely and finish it.
+dailyBad: The wake is longer and nothing is finished; the next thing began too soon.
+dailyWorst: The chaos has no generative edge; too many threads and none will close.
 ---
 
 Red-Hot Pinto Beans are the Bean Zodiac's most chaotic — their wake is always interesting.

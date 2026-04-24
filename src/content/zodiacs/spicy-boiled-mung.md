@@ -10,6 +10,8 @@ seasonalFortune: Not every preparation will improve the outcome — let one thin
 dailyNeutral: The thing circling in your mind deserves a deliberate pass — name it and return to the work.
 dailyGood: Hold every contingency in view today; the preparation is worth the weight.
 dailyBest: The full catalogue of what could go wrong deserves your attention today — bring it all, completely.
+dailyBad: The contingencies have multiplied; the worry is more exhausting than the work.
+dailyWorst: Every path is blocked; the risks will not clear.
 ---
 
 Braised Mung Beans are the Bean Zodiac's most worrisome — every risk feels immediate and impossible to set down.

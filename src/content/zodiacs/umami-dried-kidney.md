@@ -10,6 +10,8 @@ seasonalFortune: A fervour will need sustaining — it does not need to be decla
 dailyNeutral: Stay devoted — the feeling you carry is real and it is pointing somewhere worth going.
 dailyGood: Let the fervour run — what you care about deserves the full force of your attention.
 dailyBest: Pour everything into what you are protecting — the depth of what you feel is the measure of what matters.
+dailyBad: The fervour is running past its cause — what is being protected now is the feeling of protecting, not the thing.
+dailyWorst: The heat is still rising but what it is reaching for is no longer there.
 ---
 
 Aged Kidney Beans are the Bean Zodiac's most fervent — the passion has deepened over time and is not going anywhere.

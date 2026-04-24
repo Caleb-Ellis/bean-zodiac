@@ -10,6 +10,8 @@ seasonalFortune: A momentum will build — check the compass, because what you a
 dailyNeutral: Set the target and move toward it — the energy is there.
 dailyGood: The momentum is building faster than you can track — trust it.
 dailyBest: Go at full speed — everything is pointing in the same direction today.
+dailyBad: The motivation is not letting anything rest — including you.
+dailyWorst: The movement toward what is next is so fast that nothing is known of what was left.
 ---
 
 Caramelised Edamame are the Bean Zodiac's most motivated — reliably pointed toward something, moving with warmth and urgency that pulls others along.

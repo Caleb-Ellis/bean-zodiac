@@ -10,6 +10,8 @@ seasonalFortune: A perfect moment will not come — step forward while there is 
 dailyNeutral: Take the first step — the ground is there even when it doesn't feel like it.
 dailyGood: Go ahead before you are certain — certainty is the thing you build by going.
 dailyBest: Step into it with all the uncertainty intact — the fear and the step can happen at the same time.
+dailyBad: The hesitation is holding past the moment — it has gone from caution to a reason to stay still.
+dailyWorst: The window has closed while you were waiting for it to feel right — it never feels right.
 ---
 
 Dashi Pinto Beans are the Bean Zodiac's most timid — they're uncertain whether the moment is right, despite having much to offer.

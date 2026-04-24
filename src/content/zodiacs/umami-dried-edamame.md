@@ -10,6 +10,8 @@ seasonalFortune: A foundation will be built on — allow what is built on top of
 dailyNeutral: Hold the structure — what you are providing is what everything else is built on.
 dailyGood: Stay in position — the weight resting on you is there because you can take it.
 dailyBest: Be the thing everything is standing on — and let someone know it.
+dailyBad: The work is holding everything up and no one standing on it knows — the foundation goes unremarked.
+dailyWorst: The work is invisible and the arrangement has become permanent — this is what the foundation agreed to.
 ---
 
 Aged Edamame are the Bean Zodiac's most foundational — they are the thing under the thing, holding the structure without requiring credit for it.

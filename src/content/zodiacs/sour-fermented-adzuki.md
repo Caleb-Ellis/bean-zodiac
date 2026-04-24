@@ -10,6 +10,8 @@ seasonalFortune: The self-knowledge you have accumulated will be needed — not 
 dailyNeutral: The self-knowledge you carry is working — let it inform the next step.
 dailyGood: You already know what this is; let the knowing become the action.
 dailyBest: The clearest account of who you are is available to you right now — act from it, fully.
+dailyBad: The clearest account of who you are will make the next step harder to take.
+dailyWorst: What you know about yourself will be used against the thing you are trying to do.
 ---
 
 Pickled Adzuki Beans are the Bean Zodiac's most self-aware — they have examined themselves until the picture is unsentimental.

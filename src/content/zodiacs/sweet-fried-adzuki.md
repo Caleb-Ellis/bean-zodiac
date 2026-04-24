@@ -10,6 +10,8 @@ seasonalFortune: A celebration will arrive — make sure it is a response to lif
 dailyNeutral: Bring the full enthusiasm — the room can hold it.
 dailyGood: Your energy today is the thing that gets things moving — let it.
 dailyBest: Release it completely — the exuberance is the gift, and today it belongs everywhere.
+dailyBad: The exuberance is more than the room can hold today — pull some of it back.
+dailyWorst: Every available space has been filled and then some — the room people need is no longer there.
 ---
 
 Caramelised Adzuki Beans are the Bean Zodiac's most exuberant — celebration that happens before anyone decides to measure it.

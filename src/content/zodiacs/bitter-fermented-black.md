@@ -10,6 +10,8 @@ seasonalFortune: What has been working in you is nearly ready for the surface �
 dailyNeutral: Stay with what is working in you — it is not ready yet, and that is correct.
 dailyGood: Process it further; the surface version is not what this is asking for.
 dailyBest: Go deeper into it — the full transformation requires the full dark.
+dailyBad: The brood has become the only available mode.
+dailyWorst: The brood has no shape left — only momentum.
 ---
 
 Tinctured Black Beans are the Bean Zodiac's most brooding — they process privately and surface only when ready.

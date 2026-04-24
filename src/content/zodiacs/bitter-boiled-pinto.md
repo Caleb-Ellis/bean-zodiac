@@ -10,6 +10,8 @@ seasonalFortune: The whole will become visible soon — step far enough back to 
 dailyNeutral: The detail others skipped is the one that matters today — find it.
 dailyGood: Step back before continuing; the brushwork only resolves from a distance.
 dailyBest: Nothing passes your eye unseen — apply the full measure of attention without compromise.
+dailyBad: The detail work has resumed before the distance has been taken.
+dailyWorst: The whole is gone — only its components remain visible.
 ---
 
 Decocted Pinto Beans are the Bean Zodiac's most detail-oriented — they notice what others skip, finding errors most miss.

@@ -10,6 +10,8 @@ seasonalFortune: A difficulty will arrive that is different from yours — leave
 dailyNeutral: Meet the person where they are.
 dailyGood: The difficulty in front of you is real on its own terms — receive it fully.
 dailyBest: Open to it completely — your capacity for this is the thing they need most today.
+dailyBad: The sympathy is running ahead of what you actually know — you have taken a side that the full picture does not support.
+dailyWorst: A position has been felt into so completely that no new information can reach it — the sympathy has closed the room.
 ---
 
 Honeyed Kidney Beans are the Bean Zodiac's most sympathetic — they have processed their own experience enough to recognize what someone else is carrying.

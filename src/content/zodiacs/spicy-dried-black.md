@@ -10,6 +10,8 @@ seasonalFortune: What has been building will need a channel — find one before 
 dailyNeutral: The heat inside is real today — let something small show through.
 dailyGood: What has been building has earned expression; give it one deliberate form.
 dailyBest: The full temperature is here and it has been waiting — let it surface entirely.
+dailyBad: The heat is building and finding no exit — what is held inside is becoming resentment.
+dailyWorst: Nothing surfaces today; the interior burns without exit, consuming itself, and nothing will show it.
 ---
 
 Sichuan Black Beans are the Bean Zodiac's most smoldering — nothing visible on the surface, but the heat inside has never gone out.

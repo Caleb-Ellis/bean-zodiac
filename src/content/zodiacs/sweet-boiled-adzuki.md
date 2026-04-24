@@ -10,6 +10,8 @@ seasonalFortune: A joy will find you in the middle of the actual thing — bring
 dailyNeutral: Let the small moment land before moving to the next one.
 dailyGood: Your gladness is contagious today — do not keep it to yourself.
 dailyBest: The joy you are feeling is real and it is enough — let it fill the room entirely.
+dailyBad: The brightness you are reaching for today will not come — let the flat feeling be what it is.
+dailyWorst: The joy has turned to performance with no audience, and the performing itself is exhausting.
 ---
 
 Candied Adzuki Beans are the Bean Zodiac's most joyful — joy as constitutional orientation, not occasion.

@@ -10,6 +10,8 @@ seasonalFortune: The feeling that went quiet will return — follow the first sm
 dailyNeutral: Follow what is true in this moment — the direction you are being pulled is real.
 dailyGood: Let the moment determine the course — the current pull is the one worth following.
 dailyBest: Go where the feeling is strongest — the honest response to what is actually in front of you is the most you can offer.
+dailyBad: Something might move — but the search for it has been abandoned before it could be found.
+dailyWorst: Nothing moves today and nothing is being sought — the apathy has become the whole response.
 ---
 
 Miso Pinto Beans are the Bean Zodiac's most apathetic — feeling has become, for now, exhausting.

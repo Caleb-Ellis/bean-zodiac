@@ -10,6 +10,8 @@ seasonalFortune: A freedom will be needed by the Beans you care for — trust th
 dailyNeutral: Hold the line — what you are guarding is worth it.
 dailyGood: The protection you extend today is the thing that allows everything else to move.
 dailyBest: Cover it completely — the full force of your care is exactly what is needed here.
+dailyBad: The protection today is preventing something necessary from happening.
+dailyWorst: The shielding has gone past help, and what needed to harden has been kept soft.
 ---
 
 Glazed Kidney Beans are the Bean Zodiac's most overprotective — their warmth is real, but both warmth and care have a radius that is very hard to leave.

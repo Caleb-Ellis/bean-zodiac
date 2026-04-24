@@ -10,6 +10,8 @@ seasonalFortune: The confrontation that has not resolved will ask to be approach
 dailyNeutral: The difficulty is there — move toward it directly.
 dailyGood: Do not approach from the side; this one deserves to be met head-on.
 dailyBest: Go straight at it — full force, no softening, no detour.
+dailyBad: The confrontation was sought before it was warranted.
+dailyWorst: Nothing passes without a fight and nothing is resolved by one.
 ---
 
 Scorched Kidney Beans are the Bean Zodiac's most confrontational — they go directly toward difficult things.

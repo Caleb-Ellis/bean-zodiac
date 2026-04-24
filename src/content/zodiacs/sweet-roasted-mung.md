@@ -10,6 +10,8 @@ seasonalFortune: A difficulty will ask to be hard for a moment — let it be, be
 dailyNeutral: Let things be as they are — the ease is the right response.
 dailyGood: The lack of resistance you bring today is allowing something to resolve that has been stuck.
 dailyBest: Release the need to manage it — go fully easy and let the day do what it does.
+dailyBad: The easygoing quality today has let something through that should have been held — not all of this is fine.
+dailyWorst: The ease around it has been so complete that no one knows where the line is — including the one who drew it.
 ---
 
 Glazed Mung Beans are the Bean Zodiac's most easygoing — they move through difficulty without amplifying it, making situations manageable simply by how they inhabit them.

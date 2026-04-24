@@ -10,6 +10,8 @@ seasonalFortune: A real Bean will appear where the ideal was — love them, not 
 dailyNeutral: Let the feeling be larger than is strictly warranted — that is the right size.
 dailyGood: The idealism you bring today is making the real thing more than it would otherwise be.
 dailyBest: Love it fully and without reserve — the grand version is the true version.
+dailyBad: The romantic version of what is happening is not what is happening — you are in a story that the other person is not in.
+dailyWorst: The ideal has been chosen over what is actually there — and now the distance between them cannot be crossed.
 ---
 
 Caramelised Navy Beans are the Bean Zodiac's most romantic — they commit to Beans with absolute loyalty, delivered at full intensity.

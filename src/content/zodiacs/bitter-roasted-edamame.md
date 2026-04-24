@@ -10,6 +10,8 @@ seasonalFortune: The sharpest thing you could say will not be the funny one — 
 dailyNeutral: Find the angle — it is there, and the room will be better for it.
 dailyGood: The sharpest version is available; deliver it at full precision.
 dailyBest: Everything here has an edge — find each one and use it without pulling a single punch.
+dailyBad: The jest has landed on someone it was not meant to wound.
+dailyWorst: Everything in range has an edge in it now and no one is laughing.
 ---
 
 Dark-Roasted Edamame are the Bean Zodiac's wittiest — they are sharp without making others feel small.

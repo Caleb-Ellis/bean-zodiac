@@ -10,6 +10,8 @@ seasonalFortune: The quality of every room you enter is about to shift — decid
 dailyNeutral: Set the tone — the quality of the room shifts when you are in it.
 dailyGood: Let your presence be deliberate — the atmosphere you carry is yours to direct.
 dailyBest: Fill the room completely — the weather you bring is the one everyone else will be inside of.
+dailyBad: The atmosphere is the whole offering today — and what the room needed was something it could speak to directly.
+dailyWorst: The background is where it stays and the room breathes it without knowing the source — nothing is being said.
 ---
 
 Burnished Pinto Beans are the Bean Zodiac's most atmospheric — their expressiveness has become weather: something you are inside of rather than observing.

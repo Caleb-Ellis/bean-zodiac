@@ -10,6 +10,8 @@ seasonalFortune: A full presence will be asked for — distinguish, before givin
 dailyNeutral: Give it your full attention — the thing in front of you is worth everything you are bringing.
 dailyGood: Stay with it longer — the complete picture is available to the one who does not move.
 dailyBest: Be entirely present — the full depth of your attention is what this moment has been waiting for.
+dailyBad: The attention has been distributed so completely that nothing is receiving all of it.
+dailyWorst: The attention has been drawn in too many directions — what reaches the most important is scattered.
 ---
 
 Bronzed Edamame are the Bean Zodiac's most attentive — Beans can feel the difference of their full presence.

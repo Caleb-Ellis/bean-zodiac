@@ -10,6 +10,8 @@ seasonalFortune: A giving will be offered in return — receive it as readily as
 dailyNeutral: Make room for more than what is expected of you.
 dailyGood: The size of your welcome today is what the person in front of you needed most.
 dailyBest: Open as wide as you go — the full bigheartedness is what is called for, and you have it.
+dailyBad: The bigheartedness today has no floor — you have opened for something that you cannot actually carry.
+dailyWorst: So much has been said yes to that the yes has lost its meaning — the size of the heart has become the problem.
 ---
 
 Glazed Chickpeas are the Bean Zodiac's most bighearted — their generosity extends outward without diminishing, like warmth from an inexhaustible source.

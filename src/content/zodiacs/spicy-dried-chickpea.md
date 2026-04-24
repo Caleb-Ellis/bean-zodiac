@@ -10,6 +10,8 @@ seasonalFortune: A heat will follow you into the next room — check what you ar
 dailyNeutral: Something today will catch — stay aware of what you are near.
 dailyGood: The contact today is live; the heat will follow whatever you touch.
 dailyBest: Everything you move through today will ignite behind you — move with full intention.
+dailyBad: The ignition is happening before the aim is set — what catches may not be what was meant.
+dailyWorst: The ignition today has no direction and no aim; the spread has outrun any intention behind it.
 ---
 
 Sichuan Chickpeas are the Bean Zodiac's most combustible — they fit into every room, and in every room, eventually, something ignites.

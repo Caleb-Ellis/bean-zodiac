@@ -32,30 +32,34 @@ A **Preparation** = Flavour × Form name (30 total). Lookup: `getPreparationName
 - **`beans/`** — 12 files (name, tagline, traits[], color, imageFile)
 - **`flavours/`** — 5 files (name, character, traits[], color)
 - **`forms/`** — 6 files: boiled, dried, fermented, fried, roasted, smoked (name, tagline, traits[])
-- **`zodiacs/`** — 360 files, filename `{flavour}-{form}-{bean}.md`, frontmatter: slug, bean, flavour, form, trait, dish, quote, seasonalFortune, dailyCommon?, dailyUncommon?, dailyRare?. Reference style: `bitter-boiled-adzuki.md`.
+- **`zodiacs/`** — 360 files, filename `{flavour}-{form}-{bean}.md`, frontmatter: slug, bean, flavour, form, trait, dish, quote, seasonalFortune, dailyNeutral, dailyGood, dailyBest, dailyBad, dailyWorst. Reference style: `bitter-boiled-adzuki.md`.
 
 ### Pages
 
-- `/` — "The Season of the [Preparation] [Bean]" when no claimed bean, "You are the [Preparation] [Bean] when bean claimed, alongside daily fortune bean
+- `/` — "The Season of the [Preparation] [Bean]" when no claimed bean, "You are the [Preparation] [Bean] when bean claimed, alongside daily fortune bean.
 - `/wheel` — date picker → "You are the [Preparation] [Bean]"
 - `/compatibility` — two date pickers, shareable via `?a=YYYY-MM-DD&b=YYYY-MM-DD`
 - `/beans/`, `/beans/[slug]`, `/flavours/`, `/flavours/[slug]`, `/forms/`, `/forms/[slug]`, `/zodiacs/[slug]`
 
 ### Daily Fortunes
 
-Each zodiac has one `seasonalFortune` and three daily fortunes keyed to rarity:
+Each zodiac has one `seasonalFortune` and three daily fortunes keyed to quality:
 
-- `dailyCommon` — mild expression of the trait
-- `dailyUncommon` — stronger expression of the trait
-- `dailyRare` — the trait at full, unguarded intensity
+- `dailyNeutral` - mild positive expression of the trait
+- `dailyGood` — stronger positive expression of the trait
+- `dailyBest` — best positive expression of the trait
+- `dailyBad` - mild negative expression of the trait
+- `dailyWorst` - medium negative expression of the trait (we don't want to be too negative)
 
-All fortunes: one sentence, one em dash allowed, no qualifying statements. Each step up intensifies the trait — never pushes against it.
+All fortunes: one sentence, one em dash allowed, no qualifying statements.
 
-### Rarity
+### Quality
 
-- **Heirloom** — 1-in-10
-- **Reserve** — 2-in-10
-- **Garden** — 7-in-10
+- **Garden** - Neutral, Very Common
+- **Market** - Good, Common
+- **Stale** - Bad, Uncommon
+- **Heirloom** - Best, Rare
+- **Rotten** - Worst, Very Rare
 
 ### Compatibility
 

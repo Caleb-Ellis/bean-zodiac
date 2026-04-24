@@ -10,6 +10,8 @@ seasonalFortune: More is about to be available than you will accept — notice w
 dailyNeutral: Something is available today — receive it, from someone who is offering.
 dailyGood: The self-reliance is real; accept what is given without filtering it through necessity.
 dailyBest: Take everything offered today — completely, from the full range of what is available.
+dailyBad: What was offered is turned away from habit; the default won.
+dailyWorst: Every offering fails the test; nothing reaches through.
 ---
 
 Peri-Peri Navy Beans are the Bean Zodiac's most self-reliant — they supply what they need.

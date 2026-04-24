@@ -10,6 +10,8 @@ seasonalFortune: A doubt is coming — develop the habit now, while the record i
 dailyNeutral: Trust your assessment — the confidence you have built is grounded in what you have actually done.
 dailyGood: Hold the standard — the bar you are applying is the right one, and you know what meets it.
 dailyBest: Stand behind your own quality — you have earned the certainty, and the certainty is accurate.
+dailyBad: The certainty is operating in a situation that is not as clear as it appears — and doubt has not arrived yet.
+dailyWorst: The error is already in motion — doubt would have caught it, but it was not invited.
 ---
 
 Tempura Navy Beans are the Bean Zodiac's most arrogant — they've developed real competence and stopped seeing its limits.

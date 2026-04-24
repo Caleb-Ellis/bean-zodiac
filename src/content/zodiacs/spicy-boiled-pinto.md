@@ -10,6 +10,8 @@ seasonalFortune: A recurring pattern will become visible — let the Beans near 
 dailyNeutral: The weather today is yours — let it move through fully.
 dailyGood: The shift is real and total; let those nearby know what is happening.
 dailyBest: Every emotional front arriving today is genuine — meet each one entirely and mean it.
+dailyBad: The weather is shifting faster than those nearby can follow — they are losing the thread.
+dailyWorst: The storm today will pass through everything; nothing around you will come out the same.
 ---
 
 Braised Pinto Beans are the Bean Zodiac's moodiest — their weather changes constantly and means it each time.

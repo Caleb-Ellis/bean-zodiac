@@ -10,6 +10,8 @@ seasonalFortune: A need you have will ask to be named — the Beans around you h
 dailyNeutral: Give the small kindness — the one that costs almost nothing.
 dailyGood: The generosity you extend today will be remembered longer than you expect.
 dailyBest: Open your hands fully — everything you give from this place comes back enriched.
+dailyBad: The kindness you are offering is not landing — you are giving what you need, not what they do.
+dailyWorst: The generosity has become performance — what is being given is not being given for the other person.
 ---
 
 Candied Cannellini Beans are the Bean Zodiac's kindest — they elevate without calculation.

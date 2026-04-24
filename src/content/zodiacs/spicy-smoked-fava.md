@@ -10,6 +10,8 @@ seasonalFortune: A motion will find its limit — learn the difference between t
 dailyNeutral: The motion today is real — find the boundary that keeps it in the world.
 dailyGood: The unbridled force is at full strength; find the limit that is a feature, not a constraint.
 dailyBest: Move with complete freedom today — and find the boundary that makes it sustainable.
+dailyBad: The motion passed its limits; what was built is ungoverned.
+dailyWorst: The unbridled has run through every limit; the work has no edge.
 ---
 
 Chipotle Fava Beans are the Bean Zodiac's most unbridled — the courage has found the accelerant, and no one can say where the boundary has gone.

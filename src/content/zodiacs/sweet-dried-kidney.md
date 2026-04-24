@@ -10,6 +10,8 @@ seasonalFortune: A depth of feeling will need to be said — say one thing, and 
 dailyNeutral: Let the feeling be present in how you speak today.
 dailyGood: The depth of what you feel is showing — do not pull it back.
 dailyBest: Say the full thing — the person in front of you is ready to receive it.
+dailyBad: The ardency is burning too bright for the room to hold.
+dailyWorst: What you are bringing has become consuming — the ardency has stopped being a gift and started being a demand.
 ---
 
 Crystallised Kidney Beans are the Bean Zodiac's most ardent — the passion has been distilled to something patient and permanent.

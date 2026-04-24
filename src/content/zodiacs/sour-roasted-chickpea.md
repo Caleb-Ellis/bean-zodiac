@@ -10,6 +10,8 @@ seasonalFortune: A position will be revised — the version that replaces it wil
 dailyNeutral: The other view is worth taking seriously — stay with it longer than feels comfortable.
 dailyGood: Let the position shift; the new version is better.
 dailyBest: Revise completely — the original position was a starting point, and this is the thing it was pointing toward.
+dailyBad: The revision will go further than the evidence supports.
+dailyWorst: You will revise completely — and what you believe instead will be less helpful.
 ---
 
 Charred Chickpeas are the Bean Zodiac's most open-minded — they consider new ideas with genuine interest.

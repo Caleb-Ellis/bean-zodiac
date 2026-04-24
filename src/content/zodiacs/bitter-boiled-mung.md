@@ -10,6 +10,8 @@ seasonalFortune: The action is ready — one more check is not care, it is delay
 dailyNeutral: The check is done — act on what you found.
 dailyGood: Caution that postpones completion is not care; it is a different kind of carelessness.
 dailyBest: Nothing passes through without your full attention — give it, even where it is not expected.
+dailyBad: The check is done — and you are doing it again.
+dailyWorst: Nothing is finished because finished means it can be judged.
 ---
 
 Decocted Mung Beans are the Bean Zodiac's most careful — they check before acting, understanding what it costs to get things wrong.

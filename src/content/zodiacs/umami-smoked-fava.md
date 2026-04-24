@@ -10,6 +10,8 @@ seasonalFortune: A depth will want to come close to others — find the form tha
 dailyNeutral: Trust the instinct — what you feel at the deepest level is accurate.
 dailyGood: Let the primal pull have the room — the force underneath is the truest signal.
 dailyBest: Give the depth complete authority — what lives at the bottom of you has been right all along.
+dailyBad: What wells up has no shape yet — the raw feeling cannot find its form.
+dailyWorst: The depth is too raw to be shaped or shared — it remains entirely interior.
 ---
 
 Burnished Fava Beans are the Bean Zodiac's most primal — the courage has gone deep enough to find something older than strategy or intention.

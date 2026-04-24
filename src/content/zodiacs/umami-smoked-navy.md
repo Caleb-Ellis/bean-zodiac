@@ -10,6 +10,8 @@ seasonalFortune: A present tense is being asked for — what you carry needs tod
 dailyNeutral: Rest in what endures — the things that last are more present today than they appear.
 dailyGood: Let what is permanent be the whole of it — the timeless version of this is the one that matters.
 dailyBest: Live in the part of it that will still be here — what is truly timeless is available to you right now.
+dailyBad: The timeless has replaced the present — what is required today in this room is not being asked.
+dailyWorst: The particular is invisible from inside the timeless — today is not a question that has been posed.
 ---
 
 Burnished Navy Beans are the Bean Zodiac's most timeless — their reliability has gone deep enough that it feels like it predates any particular instance of it.

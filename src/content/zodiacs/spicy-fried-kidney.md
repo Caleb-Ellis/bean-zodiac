@@ -10,6 +10,8 @@ seasonalFortune: A storm will move through and clear — what remains afterward 
 dailyNeutral: The intensity today is real and yours — attend to what it leaves behind.
 dailyGood: The full temperature is here; let it run and then own the aftermath.
 dailyBest: Everything today will run at the highest heat — feel it completely and take full responsibility for its wake.
+dailyBad: The heat today ran its full course and the aftermath is sitting there unattended — the responsibility has not been picked up.
+dailyWorst: The highest heat today left a wake that will not clear on its own; what was felt completely was not accounted for.
 ---
 
 Red-Hot Kidney Beans are the Bean Zodiac's most temperamental — heat doubling on itself creates immediate intensity.

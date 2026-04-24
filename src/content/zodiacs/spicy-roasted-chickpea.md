@@ -10,6 +10,8 @@ seasonalFortune: A room will ask you to stay past the comfortable first hour —
 dailyNeutral: The room is warm today — stay past the comfortable first hour.
 dailyGood: The connection is real; let it go deeper than surface.
 dailyBest: Every room today is worth staying in completely — give it the full depth of what you have.
+dailyBad: The room was warm and then empty — the leaving came before the depth.
+dailyWorst: Every room today received the warmth and gave nothing back; none of them were stayed in long enough.
 ---
 
 Peri-Peri Chickpeas are the Bean Zodiac's most sociable — they arrive and the room becomes better.

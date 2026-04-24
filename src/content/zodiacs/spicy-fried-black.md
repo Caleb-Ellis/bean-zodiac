@@ -10,6 +10,8 @@ seasonalFortune: The heat driving what you are building is real — identify wha
 dailyNeutral: The drive today is real — identify what it is for and send it there.
 dailyGood: The relentlessness has a target; give the full force to it.
 dailyBest: Everything today goes toward the thing — all of it, at full temperature, without stopping.
+dailyBad: The drive today has outrun what it was for; the relentlessness is running at nothing.
+dailyWorst: The drive today has outrun its object entirely; what is left is force with nowhere to go.
 ---
 
 Red-Hot Black Beans are the Bean Zodiac's most relentless — stopping feels like malfunction.

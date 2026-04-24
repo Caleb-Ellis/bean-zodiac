@@ -10,6 +10,8 @@ seasonalFortune: An invitation you extend will draw people in before they unders
 dailyNeutral: Draw them in — the invitation is already working.
 dailyGood: What you put out today will pull people toward it before they understand why.
 dailyBest: Open the full force of the charm — the room is already leaning, and it is ready for all of it.
+dailyBad: The charm today is doing work it should not be doing — you are beguiling your way out of something that needs a real answer.
+dailyWorst: The beguiling was used to close a door that needed to stay open — the charm was deliberate and the room felt it.
 ---
 
 Barbecued Chickpeas are the Bean Zodiac's most beguiling — you are in the middle of something before you understood it had begun.

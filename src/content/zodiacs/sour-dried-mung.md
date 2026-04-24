@@ -10,6 +10,8 @@ seasonalFortune: An act of care will go unmarked — let the person know they we
 dailyNeutral: The simplest version is the correct one — use it.
 dailyGood: Strip it to the essential; what remains is what was always worth keeping.
 dailyBest: Take away everything that is not the thing — what is left will be enough, and more than enough.
+dailyBad: What you remove will include something the room was counting on.
+dailyWorst: What you strip away will include something that was holding the structure together.
 ---
 
 Dehydrated Mung Beans are the Bean Zodiac's most spare — the care is real, but it does not announce itself, and it does not stay longer than it is needed.

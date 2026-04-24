@@ -10,6 +10,8 @@ seasonalFortune: A layer will want to surface — let one, for someone who can h
 dailyNeutral: Give the surface — the depth underneath will be felt by anyone who pauses.
 dailyGood: Let one more layer be visible — the right person is looking.
 dailyBest: Open all the way — the one who can hold every layer is already here.
+dailyBad: The depth is present and the room is not staying — what is layered is waiting for a reader who has already left.
+dailyWorst: The layers are all there and no one is opening them — the depth remains unasked for.
 ---
 
 Aged Pinto Beans are the Bean Zodiac's most layered — what is expressed has depth under it, and more depth under that.

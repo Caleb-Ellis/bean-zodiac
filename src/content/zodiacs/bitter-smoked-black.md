@@ -10,6 +10,8 @@ seasonalFortune: Your influence will move through rooms without leaving a clear 
 dailyNeutral: Move through the room and let the change happen — no account is necessary.
 dailyGood: The influence is real even where it cannot be traced — trust that.
 dailyBest: Pass through entirely without being located — the change will outlast the explanation.
+dailyBad: The change has passed through and left nothing it can be held to.
+dailyWorst: The change has happened and you are no longer visible in it.
 ---
 
 Ashen Black Beans are the Bean Zodiac's most spectral — they move through rooms without leaving a clear account of how anything was changed.

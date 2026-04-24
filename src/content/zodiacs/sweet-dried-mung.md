@@ -10,6 +10,8 @@ seasonalFortune: The softness will be tested — protect it without armoring it.
 dailyNeutral: Bring the softness — it is welcome here.
 dailyGood: The tenderness you carry is doing more than the harder approach would.
 dailyBest: Stay open — the gentleness is the strength, and the room is ready for it.
+dailyBad: The tenderness today is a vulnerability — you are too open to what is in the room.
+dailyWorst: The softness has become a liability — you are being hurt by things that did not mean to hurt you.
 ---
 
 Crystallised Mung Beans are the Bean Zodiac's most tender — the softness has been preserved even where everything else has been stripped away.

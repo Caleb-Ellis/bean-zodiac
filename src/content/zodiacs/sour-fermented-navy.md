@@ -10,6 +10,8 @@ seasonalFortune: Something genuine is coming — hold the cynicism lightly enoug
 dailyNeutral: The skepticism is the accurate response — hold it.
 dailyGood: The pattern is what you think it is; trust the read.
 dailyBest: Let the full cynicism run — the expectation is probably correct, and preparing for it is the right thing to do.
+dailyBad: The expectation will arrive correctly — and there will be no room for anything else.
+dailyWorst: The cynicism will be proven right — and being right will bring no satisfaction.
 ---
 
 Pickled Navy Beans are the Bean Zodiac's most cynical — they have seen what is behind the curtain and cannot unsee it.

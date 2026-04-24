@@ -10,6 +10,8 @@ seasonalFortune: A potency will arrive and want to be directed — aim it before
 dailyNeutral: Aim what you have — the force is real and today it has a clear target.
 dailyGood: Release the full charge — what you are directing will reach further than you expect.
 dailyBest: Give it everything — the potency you have been holding is ready to do exactly what it was built for.
+dailyBad: The effect has scattered — the power is working but without direction.
+dailyWorst: The potency has gone everywhere at once — nothing was aimed and nothing of it remains.
 ---
 
 Aged Green Beans are the Bean Zodiac's most potent — the freshness has been aged, the urgency concentrated, and the result is something with real force.

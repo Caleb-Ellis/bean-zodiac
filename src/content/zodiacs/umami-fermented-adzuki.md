@@ -10,6 +10,8 @@ seasonalFortune: A question will want to be brought outward — share it before 
 dailyNeutral: Follow the question — the thinking you are in is going somewhere worth staying.
 dailyGood: Let the question grow to its full size — it has earned that.
 dailyBest: Sit all the way inside it — the deepest questions ask for everything, and you are the one who can give it.
+dailyBad: The inquiry has reached a conclusion — and nothing between the start and the end has been shared.
+dailyWorst: The question has been sitting so long it has become part of the room — no one knows it is there anymore.
 ---
 
 Miso Adzuki Beans are the Bean Zodiac's most philosophical — they've thought everything through.

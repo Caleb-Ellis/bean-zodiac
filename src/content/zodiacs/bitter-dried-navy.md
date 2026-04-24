@@ -10,6 +10,8 @@ seasonalFortune: A rule you follow will be tested by something it was not design
 dailyNeutral: The principle holds — apply it exactly as it was designed.
 dailyGood: The structure is correct; do not allow the pressure of the moment to shift it.
 dailyBest: No adjustment, no exception, no deviation — the position holds entirely.
+dailyBad: The rigidity has made the position brittle — one good push will break it.
+dailyWorst: It has broken, and is still being held.
 ---
 
 Desiccated Navy Beans are the Bean Zodiac's most rigid — the principle is correct, the method is proven, and there is no argument that will move them.

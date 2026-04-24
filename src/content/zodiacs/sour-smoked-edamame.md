@@ -10,6 +10,8 @@ seasonalFortune: A cut is coming — stay long enough afterward to see what it h
 dailyNeutral: The cut is there — make it cleanly.
 dailyGood: Go exactly to the thing; no wider than what is needed.
 dailyBest: The incision is ready — single, exact, and at exactly the right depth.
+dailyBad: The incision will be exact — and at exactly the wrong place.
+dailyWorst: The incision will be exact and at exactly the right depth — in exactly the wrong place.
 ---
 
 Cold-Smoked Edamame are the Bean Zodiac's most surgical — fast, precise, and finished before the situation has fully understood what occurred.

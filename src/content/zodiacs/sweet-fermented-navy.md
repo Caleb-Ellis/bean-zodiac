@@ -10,6 +10,8 @@ seasonalFortune: The warmth inside will find a reason to come out — bring some
 dailyNeutral: Take the quiet you need — it is the right resource today.
 dailyGood: The depth you return from will be worth the distance.
 dailyBest: Go all the way in — what lives there is what you have to give.
+dailyBad: The withdrawal today is past what the situation allows — someone needed you there and you were not reachable.
+dailyWorst: The turning-inward has gone so far that what is inside is no longer reachable.
 ---
 
 Honeyed Navy Beans are the Bean Zodiac's most introverted — they live comfortably in a rich inner world.

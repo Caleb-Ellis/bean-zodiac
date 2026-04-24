@@ -10,6 +10,8 @@ seasonalFortune: A conversation is coming that will need careful handling — wh
 dailyNeutral: The careful version is there — use it.
 dailyGood: Take another pass at the phrasing; the right words are close.
 dailyBest: Give it every ounce of consideration — the most precisely right version of what needs to be said.
+dailyBad: The most precisely right version will be too carefully right to land.
+dailyWorst: The perfect phrasing will be so considered it will never quite be said.
 ---
 
 Charred Cannellini Beans are the Bean Zodiac's most tactful — they deliver hard truths wrapped in genuine care.

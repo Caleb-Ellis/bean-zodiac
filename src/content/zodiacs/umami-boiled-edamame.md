@@ -10,6 +10,8 @@ seasonalFortune: An arrival is coming — do not move on before you have acknowl
 dailyNeutral: Stay in it today — you are the reason it will get finished.
 dailyGood: Give it everything you have while it still deserves everything you have.
 dailyBest: See it through to what it was always trying to become — you are the one who will get it there.
+dailyBad: The staying has gone past what it deserves — the dedication is running on its own momentum now.
+dailyWorst: The commitment is holding past its season — the thing that once needed you has moved on.
 ---
 
 Dashi Edamame are the Bean Zodiac's most dedicated — they stay until things become what they were trying to be.

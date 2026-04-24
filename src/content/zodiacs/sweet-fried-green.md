@@ -10,6 +10,8 @@ seasonalFortune: An energy will find a thing worth staying for — when it arriv
 dailyNeutral: Let the energy move — it will find what it needs.
 dailyGood: The restlessness today is pointing at something — follow it.
 dailyBest: Go everywhere at once — the scatter is the method and something will catch.
+dailyBad: The restlessness today is asking too much of everyone around you — you need to stay in one place.
+dailyWorst: Nothing was left long enough to be completed — every thread is live and nothing is finished.
 ---
 
 Caramelised Green Beans are the Bean Zodiac's most fidgety — the energy is always looking for somewhere to go.

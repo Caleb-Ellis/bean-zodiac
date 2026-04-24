@@ -10,6 +10,8 @@ seasonalFortune: A restoration will be offered — ensure you are also receiving
 dailyNeutral: Offer what restores — the care you give works deeper than the person receiving it knows.
 dailyGood: Give the full depth of your attention — the effect will run further than you can see.
 dailyBest: Let the restoration be complete — and then turn it toward yourself, with the same patience you give everyone else.
+dailyBad: The giving is still going and the cost of it has not been counted.
+dailyWorst: What was available has been spent — and the restoring has not stopped to notice.
 ---
 
 Aged Mung Beans are the Bean Zodiac's most restorative — the care is deep and patient and works slowly, and it has never failed to work.

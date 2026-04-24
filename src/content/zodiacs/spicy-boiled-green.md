@@ -10,6 +10,8 @@ seasonalFortune: The cause will need room for others to arrive — not in your t
 dailyNeutral: The cause is worth the energy — give it fully today.
 dailyGood: The heat in you has a direction; aim it at the thing that needs it most.
 dailyBest: Everything you care about is asking for your full commitment today — bring it without reservation.
+dailyBad: The heat is crowding the room — others cannot find a way in today.
+dailyWorst: The cause has become a demand; every voice that differs will be pushed out.
 ---
 
 Braised Green Beans are the Bean Zodiac's most zealous — they have a cause and the heat to see it through.

@@ -10,6 +10,8 @@ seasonalFortune: The material has found its shape — send it, even on the days 
 dailyNeutral: Find the image — what you are trying to say has a shape, and it is close.
 dailyGood: Let the language reach — the precise version is further in, and worth finding.
 dailyBest: Write all the way to where it lives — the truest form of it is what the whole thing was reaching for.
+dailyBad: The plain thing is being worked past what it requires — what was clear is now obscured by the form.
+dailyWorst: The draft is not coming and the plain version would have been enough — nothing has been sent.
 ---
 
 Miso Mung Beans are the Bean Zodiac's most poetic — when they speak, the phrase lands and stays.

@@ -10,6 +10,8 @@ seasonalFortune: A situation will ask you to bend — what you yield to will be 
 dailyNeutral: The adjustment this situation requires is smaller than it seems — make it without losing your footing.
 dailyGood: Bend to meet what is in front of you; you will find yourself again on the other side.
 dailyBest: You have bent further than this and come back — yield to it fully, and trust the return.
+dailyBad: You will bend further than you meant to, and not notice until you are already there.
+dailyWorst: You will bend further than intended — and the space will not spring back as it was.
 ---
 
 Brined Chickpeas are the Bean Zodiac's most flexible — they bend to meet what a situation requires, then return to themselves.

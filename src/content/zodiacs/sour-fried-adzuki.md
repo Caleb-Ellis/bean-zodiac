@@ -10,6 +10,8 @@ seasonalFortune: The candour you carry will find the Beans worth telling — tru
 dailyNeutral: The direct version is also the clearest one — use it.
 dailyGood: Say the actual thing; the room is ready for it.
 dailyBest: Give it completely unguarded — say what you think, in full, without softening.
+dailyBad: What you give unguarded will reach someone who was not ready for it.
+dailyWorst: The full, unfiltered thing will arrive — and cannot be recalled.
 ---
 
 Brightened Adzuki Beans are the Bean Zodiac's most candid — honesty that arrives immediate and kind.

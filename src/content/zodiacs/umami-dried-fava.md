@@ -10,6 +10,8 @@ seasonalFortune: A shape will be perceived — let those who need it find it use
 dailyNeutral: Move toward what requires you — your presence changes the shape of what is possible.
 dailyGood: Bring the full weight of what you have built — the moment can hold it.
 dailyBest: Let yourself be entirely what you are — the depth and the force, together, with nothing held back.
+dailyBad: The strength is showing and the gentleness is not — what arrives first today is force, not steadiness.
+dailyWorst: The power is present and the room does not know what to do with it.
 ---
 
 Aged Fava Beans are the Bean Zodiac's most formidable — accumulated depth behind the courage, and neither one asking permission.

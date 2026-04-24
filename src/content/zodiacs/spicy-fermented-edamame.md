@@ -10,6 +10,8 @@ seasonalFortune: The private work has reached a volume worth surfacing — let s
 dailyNeutral: Surface a piece of the work today — enough to show where you are.
 dailyGood: The unseen work has volume; bring some of it into the light.
 dailyBest: Everything done in private has earned its moment — bring the full shape of it forward today.
+dailyBad: The work is running but nothing surfaces; no shape is visible.
+dailyWorst: Work disappears as it's done; the shape never surfaces.
 ---
 
 Kimchi Edamame are the Bean Zodiac's most industrious — always working, especially unseen.

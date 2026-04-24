@@ -10,6 +10,8 @@ seasonalFortune: A novelty will offer itself — trust that staying is the work,
 dailyNeutral: Bring everything you have — what you contribute today will carry more than its apparent size.
 dailyGood: Let the room feel what you are adding — the weight of it is the gift.
 dailyBest: Give the full substance of what you know — the depth was always the point.
+dailyBad: The substance is there and invisible again — taken for surface by everyone who should know better.
+dailyWorst: The weight exists and will not be noticed — and nothing is being done to bring it forward.
 ---
 
 Aged Chickpeas are the Bean Zodiac's most substantive — they move widely but carry real weight, and whatever room they enter is the heavier for it.

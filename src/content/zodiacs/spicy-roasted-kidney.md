@@ -10,6 +10,8 @@ seasonalFortune: A genuine feeling will ask to be given freely — develop the s
 dailyNeutral: The feeling today is real — let it show.
 dailyGood: The emotion is at full strength; extend it outward and read where it is landing.
 dailyBest: Feel everything today at full temperature and pour it into the room — completely, without apology.
+dailyBad: The feeling came full-force before the room could hold it.
+dailyWorst: The full pour found no capacity; what was given is too much.
 ---
 
 Peri-Peri Kidney Beans are the Bean Zodiac's most emotive — they feel fully and extend it outward without apology.

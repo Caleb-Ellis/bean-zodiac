@@ -10,6 +10,8 @@ seasonalFortune: The work only you can finish will ask for more solitary hours �
 dailyNeutral: Find who belongs in this — the work is better with the right person in it.
 dailyGood: Bring them in earlier than feels comfortable; the collaboration needs the rough draft.
 dailyBest: Give the work over entirely — what comes back will be something neither of you could have made alone.
+dailyBad: The collaboration has absorbed the voice that made it worth joining.
+dailyWorst: What you made has become unrecognizable as yours.
 ---
 
 Tinctured Chickpeas are the Bean Zodiac's most collaborative — they understand what is made together can be better than what either could alone.

@@ -10,6 +10,8 @@ seasonalFortune: An abundance will arrive — take the full experience, and stay
 dailyNeutral: Go all out — the full version of what you are offering is the right one.
 dailyGood: Add more — the generous version of this is what it was always meant to be.
 dailyBest: Give it the full treatment — everything you are capable of, nothing economized.
+dailyBad: The scale is real and the depth beneath it is not — the extravagance is doing the work the substance should be doing.
+dailyWorst: The scale has grown but the substance has not kept pace — the spectacle is all there is.
 ---
 
 Bronzed Kidney Beans are the Bean Zodiac's most extravagant — they believe the full experience is always better than the restrained one.

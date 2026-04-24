@@ -10,6 +10,8 @@ seasonalFortune: The space that has been made will be asked to hold something �
 dailyNeutral: The simpler version is the right one — use it.
 dailyGood: Take out one more thing; what is left will be better for the absence.
 dailyBest: Leave only what is irreducible — everything else was decoration, and the room will know the difference.
+dailyBad: What you remove will include something that was holding the rest together.
+dailyWorst: The reduction will strip too far — and what is left will not hold together.
 ---
 
 Pickled Butter Beans are the Bean Zodiac's most minimalist — they have learned that most things improve by taking something away.

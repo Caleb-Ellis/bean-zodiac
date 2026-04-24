@@ -10,6 +10,8 @@ seasonalFortune: An occasion will arrive that rewards imperfection — stay in i
 dailyNeutral: Attend to what others skip — it is where the difference lives.
 dailyGood: Bring the full standard to what is in front of you; nothing is too minor for the complete version.
 dailyBest: Everything about this can be impeccable — let it be.
+dailyBad: The polish is complete — and there is nothing underneath it.
+dailyWorst: The gloss has covered everything — including what needed to be seen.
 ---
 
 Dark-Roasted Adzuki Beans are the Bean Zodiac's most polished — impeccable without being cold.
