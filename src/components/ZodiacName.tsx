@@ -21,7 +21,7 @@ const QUALITY_OPTIONS: Partial<
   Record<QualityId, { texts: string[]; className: string }>
 > = {
   [QualityIds.Heirloom]: {
-    texts: ["Heirloom", "Gourmet", "Prized", "Heritage", "Artisanal"],
+    texts: ["Heirloom", "Gourmet", "Heritage", "Artisanal"],
     className: "text-effect-gold",
   },
   [QualityIds.Market]: {
@@ -29,7 +29,7 @@ const QUALITY_OPTIONS: Partial<
     className: "text-effect-emerald",
   },
   [QualityIds.Stale]: {
-    texts: ["Stale", "Old", "Faded", "Tired", "Wilted"],
+    texts: ["Stale", "Old", "Faded", "Mushy", "Wilted"],
     className: "text-effect-bruise",
   },
   [QualityIds.Rotten]: {

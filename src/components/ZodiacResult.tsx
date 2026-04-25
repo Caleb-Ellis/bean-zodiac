@@ -17,7 +17,6 @@ import ZodiacName from "./ZodiacName";
 
 interface Props {
   data: ZodiacData;
-  date: Date;
   showContent?: boolean;
   showFortune?: boolean;
   showQuote?: boolean;
@@ -25,11 +24,11 @@ interface Props {
 
 export default function ZodiacResult({
   data,
-  date,
   showContent,
   showFortune,
   showQuote,
 }: Props) {
+  const [date] = useState(() => new Date());
   const [claimedSlug, setClaimedSlug] = useState<ZodiacId | null | undefined>(
     undefined,
   );

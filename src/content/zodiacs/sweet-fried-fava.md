@@ -10,8 +10,8 @@ seasonalFortune: A reckoning will follow the leap — develop the same ease with
 dailyNeutral: Take the step that has been waiting — the conditions are good enough.
 dailyGood: The risk in front of you is smaller than your capacity for it.
 dailyBest: Leap — the courage is already there and the landing will hold.
-dailyBad: The daring today is not courage — it is not looking at what is actually there.
-dailyWorst: Every warning was cleared away without stopping, and the risk was real.
+dailyBad: The leap feels right, but you will be punished if you do not look first.
+dailyWorst: Every warning was cleared away without stopping, and the risk is real.
 ---
 
 Caramelised Fava Beans are the Bean Zodiac's most daring — they take the leap with warmth and ease.

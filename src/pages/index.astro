@@ -20,6 +20,6 @@ const data = buildZodiacData(
 
 <Layout title="The Bean Zodiac" description="Discover your inner Bean">
   <section class="flex flex-col items-center my-6 sm:my-12">
-    <ZodiacResult data={data} date={new Date()} showFortune client:load />
+    <ZodiacResult data={data} showFortune client:load />
   </section>
 </Layout>

@@ -1,8 +1,6 @@
 import {
-  getFortuneText,
-  getFortuneZodiacId,
+  getDailyFortune,
   getPreparationName,
-  getQualityForSlug,
   getZodiacMetadataForDate,
   type BeanId,
   type FlavourId,
@@ -42,7 +40,6 @@ export default function ClaimedBeanResult({
   if (!bean || !flavour || !form || !zodiac) return null;
 
   const preparation = getPreparationName(flavourId, formId);
-  const qualityId = getQualityForSlug(claimedSlug, date);
   const seasonalMeta = getZodiacMetadataForDate(date);
   const seasonalBean = data.beans[seasonalMeta.beanId];
   const seasonalZodiac = data.zodiacs[seasonalMeta.zodiacId];
@@ -55,13 +52,7 @@ export default function ClaimedBeanResult({
     (seasonalMeta.endDate.getTime() - date.getTime()) / (1000 * 60 * 60 * 24),
   );
 
-  const fortuneZodiacId = getFortuneZodiacId(
-    date,
-    { beanId, flavourId, formId },
-    seasonalMeta,
-  );
-  const fortuneZodiac = data.zodiacs[fortuneZodiacId];
-  const fortuneText = getFortuneText(fortuneZodiac, qualityId);
+  const { zodiacId: fortuneZodiacId, qualityId, text: fortuneText } = getDailyFortune(date, claimedSlug, data.zodiacs);
 
   const [fortuneFlavourId, fortuneFormId, fortuneBeanId] =
     fortuneZodiacId.split("-") as [FlavourId, FormId, BeanId];

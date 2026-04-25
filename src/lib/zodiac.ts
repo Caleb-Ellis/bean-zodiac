@@ -249,7 +249,7 @@ export const getFortuneZodiacId = (
 
   const phase = (((d + personalIndex) % 6) + 6) % 6;
 
-  // Personal and seasonal each participate 50% of the time.
+  // Personal and seasonal participate 50% and 33% of the time respectively.
   // When inactive, a unique fallback is derived from their index so each bean
   // gets its own deterministic substitute rather than the shared daily bean.
   const P =
@@ -257,16 +257,16 @@ export const getFortuneZodiacId = (
       ? personal
       : makeFallbackDimensions(personalIndex, d);
   const S =
-    (d + seasonalIndex) % 2 === 0
+    (d + seasonalIndex) % 3 === 0
       ? seasonal
       : makeFallbackDimensions(seasonalIndex, d);
 
   if (phase === 0) return `${S.flavourId}-${daily.formId}-${P.beanId}`;
-  if (phase === 1) return `${S.flavourId}-${P.formId}-${daily.beanId}`;
-  if (phase === 2) return `${daily.flavourId}-${S.formId}-${P.beanId}`;
-  if (phase === 3) return `${daily.flavourId}-${P.formId}-${S.beanId}`;
-  if (phase === 4) return `${P.flavourId}-${S.formId}-${daily.beanId}`;
-  return `${P.flavourId}-${daily.formId}-${S.beanId}`;
+  if (phase === 1) return `${P.flavourId}-${daily.formId}-${S.beanId}`;
+  if (phase === 2) return `${S.flavourId}-${P.formId}-${daily.beanId}`;
+  if (phase === 3) return `${daily.flavourId}-${S.formId}-${P.beanId}`;
+  if (phase === 4) return `${daily.flavourId}-${P.formId}-${S.beanId}`;
+  return `${P.flavourId}-${S.formId}-${daily.beanId}`;
 };
 
 export const getFortuneText = (
@@ -288,9 +288,35 @@ export type ZodiacMetadata = {
   beanId: BeanId;
   flavourId: FlavourId;
   formId: FormId;
-  qualityId: QualityId;
   startDate: Date;
   endDate: Date;
+};
+
+export type DailyFortune = {
+  zodiacId: ZodiacId;
+  qualityId: QualityId;
+  text: string;
+};
+
+export const getDailyFortune = (
+  date: Date,
+  personalSlug: ZodiacId,
+  zodiacs: Record<ZodiacId, Zodiac>,
+): DailyFortune => {
+  const [flavourId, formId, beanId] = personalSlug.split("-") as [
+    FlavourId,
+    FormId,
+    BeanId,
+  ];
+  const seasonal = getZodiacMetadataForDate(date);
+  const qualityId = getQualityForSlug(personalSlug, date);
+  const zodiacId = getFortuneZodiacId(
+    date,
+    { beanId, flavourId, formId },
+    seasonal,
+  );
+  const zodiac = zodiacs[zodiacId];
+  return { zodiacId, qualityId, text: getFortuneText(zodiac, qualityId) };
 };
 
 export type ZodiacData = {
@@ -354,7 +380,6 @@ export const getZodiacMetadataForDate = (date: Date): ZodiacMetadata => {
     beanId,
     flavourId,
     formId,
-    qualityId: getQualityForDate(date),
     startDate,
     endDate,
   };
