@@ -15,6 +15,7 @@ interface Props {
   beanName: string;
   zodiacId?: ZodiacId;
   qualityId?: QualityId;
+  date?: Date;
 }
 
 const QUALITY_OPTIONS: Partial<
@@ -38,8 +39,6 @@ const QUALITY_OPTIONS: Partial<
   },
 };
 
-const daySeed = Math.floor(Date.now() / 86_400_000);
-
 export default function ZodiacName({
   flavourId,
   formId,
@@ -48,7 +47,9 @@ export default function ZodiacName({
   beanName,
   zodiacId,
   qualityId,
+  date,
 }: Props) {
+  const daySeed = Math.floor((date ?? new Date()).getTime() / 86_400_000);
   const qualityOpt = qualityId ? QUALITY_OPTIONS[qualityId] : undefined;
   const qualityLabel = qualityOpt
     ? {

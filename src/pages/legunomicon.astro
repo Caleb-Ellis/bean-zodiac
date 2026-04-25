@@ -1,0 +1,25 @@
+---
+import { getCollection } from "astro:content";
+import Legunomicon from "../components/Legunomicon.tsx";
+import Layout from "../layouts/Layout.astro";
+import { buildZodiacData } from "../lib/zodiac";
+import "../styles/global.css";
+
+const beanCollection = await getCollection("beans");
+const flavourCollection = await getCollection("flavours");
+const formCollection = await getCollection("forms");
+const zodiacCollection = await getCollection("zodiacs");
+
+const data = buildZodiacData(
+  beanCollection,
+  flavourCollection,
+  formCollection,
+  zodiacCollection,
+);
+---
+
+<Layout title="The Legunomicon" description="Your Bean fortune history">
+  <section class="flex flex-col items-center my-6 sm:my-12 px-4">
+    <Legunomicon data={data} client:load />
+  </section>
+</Layout>

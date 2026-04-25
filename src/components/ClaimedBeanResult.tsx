@@ -1,3 +1,4 @@
+import { useEffect } from "react";
 import {
   getDailyFortune,
   getPreparationName,
@@ -8,6 +9,10 @@ import {
   type ZodiacData,
   type ZodiacId,
 } from "../lib/zodiac";
+import {
+  addFortuneToHistory,
+  clearFortuneHistory,
+} from "../lib/fortuneHistory";
 import Bean from "./Bean";
 import BeanBadge from "./BeanBadge";
 import FlavourBadge from "./FlavourBadge";
@@ -52,7 +57,11 @@ export default function ClaimedBeanResult({
     (seasonalMeta.endDate.getTime() - date.getTime()) / (1000 * 60 * 60 * 24),
   );
 
-  const { zodiacId: fortuneZodiacId, qualityId, text: fortuneText } = getDailyFortune(date, claimedSlug, data.zodiacs);
+  const {
+    zodiacId: fortuneZodiacId,
+    qualityId,
+    text: fortuneText,
+  } = getDailyFortune(date, claimedSlug, data.zodiacs);
 
   const [fortuneFlavourId, fortuneFormId, fortuneBeanId] =
     fortuneZodiacId.split("-") as [FlavourId, FormId, BeanId];
@@ -63,6 +72,16 @@ export default function ClaimedBeanResult({
     fortuneFlavourId,
     fortuneFormId,
   );
+
+  useEffect(() => {
+    const isoDate = date.toISOString().slice(0, 10);
+    addFortuneToHistory({
+      date: isoDate,
+      zodiacId: fortuneZodiacId,
+      qualityId,
+      text: fortuneText,
+    });
+  }, [date, fortuneZodiacId, qualityId, fortuneText]);
 
   return (
     <div className="flex flex-col items-center text-center gap-6 animate-fade-up">
@@ -139,23 +158,17 @@ export default function ClaimedBeanResult({
         </div>
         <div className="flex items-center gap-2 text-sm text-zinc-400 mb-6 sm:mb-8">
           <a
+            href="/legunomicon"
+            className="flex items-center gap-1.5 px-3 py-1.5 rounded-full bg-zinc-900 border-2 border-zinc-700 hover:border-zinc-500 transition-colors no-underline text-zinc-300"
+          >
+            📖&nbsp; The Legunomicon
+          </a>
+          <a
             href={`/zodiacs/${claimedSlug}`}
             className="flex items-center gap-1.5 px-3 py-1.5 rounded-full bg-zinc-900 border-2 border-zinc-700 hover:border-zinc-500 transition-colors no-underline text-zinc-300"
           >
             About Me →
           </a>
-          <button
-            onClick={() => {
-              if (
-                window.confirm("Are you sure you want to relinquish your Bean?")
-              ) {
-                onRelinquish();
-              }
-            }}
-            className="flex items-center gap-1.5 px-3 py-1.5 rounded-full border-2 border-zinc-700 hover:border-zinc-500 text-zinc-400 hover:text-zinc-300 transition-colors cursor-pointer bg-transparent text-sm"
-          >
-            Relinquish <span className="text-xs">✕</span>
-          </button>
         </div>
         <p className="text-sm text-zinc-400">
           The {seasonalTrait} Season of the{" "}
@@ -172,6 +185,23 @@ export default function ClaimedBeanResult({
         <p className="text-sm italic text-zinc-400">
           "{seasonalZodiac.seasonalFortune}"
         </p>
+        <div className="mt-6 sm:mt-8">
+          <button
+            onClick={() => {
+              if (
+                window.confirm(
+                  "Are you sure you want to relinquish your Bean? Your Legunomicon fortune history will also be deleted.",
+                )
+              ) {
+                clearFortuneHistory();
+                onRelinquish();
+              }
+            }}
+            className="flex items-center gap-1.5 px-3 py-1.5 rounded-full border-2 border-zinc-700 hover:border-zinc-500 text-zinc-400 hover:text-zinc-300 transition-colors cursor-pointer bg-transparent text-sm"
+          >
+            Relinquish your Bean <span className="text-xs">✕</span>
+          </button>
+        </div>
       </section>
     </div>
   );
