@@ -1,7 +1,9 @@
 import { useRef, useState } from "react";
 import {
+  fetchZodiac,
   getZodiacMetadataForDate,
-  type ZodiacData,
+  type Zodiac,
+  type AllZodiacData,
   type ZodiacId,
 } from "../lib/zodiac";
 import { getClaimedBeanSlug, setClaimedBeanSlug } from "../lib/claimedBean";
@@ -9,7 +11,7 @@ import ZodiacWheel, { BEANS_LETTERS } from "./ZodiacWheel";
 import ZodiacIdentity from "./ZodiacIdentity";
 
 type Props = {
-  data: ZodiacData;
+  data: AllZodiacData;
 };
 
 const SPIN_DURATION_MS = 3700;
@@ -42,6 +44,7 @@ export default function ZodiacWheelContainer({ data }: Props) {
     return param ? parseDateInputValue(param) : null;
   });
   const [claimedSlug, setClaimedSlug] = useState<ZodiacId | null>(getClaimedBeanSlug);
+  const [zodiac, setZodiac] = useState<Zodiac | null>(null);
   const [justClaimed, setJustClaimed] = useState(false);
   const topRef = useRef<HTMLDivElement>(null);
   const wheelRef = useRef<HTMLDivElement>(null);
@@ -72,6 +75,8 @@ export default function ZodiacWheelContainer({ data }: Props) {
     if (!inputDate) return;
     const parsed = parseDateInputValue(inputDate);
     if (parsed) {
+      setZodiac(null);
+      fetchZodiac(getZodiacMetadataForDate(parsed).zodiacId).then(setZodiac);
       setHighlighted(true);
       setSpinning(true);
       setResultMounted(false);
@@ -197,6 +202,7 @@ export default function ZodiacWheelContainer({ data }: Props) {
           <ZodiacIdentity
             key={selectedDate.getTime()}
             data={data}
+            zodiac={zodiac}
             date={selectedDate}
             onClaim={handleClaim}
             claimed={justClaimed}

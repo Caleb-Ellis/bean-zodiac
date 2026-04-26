@@ -1,4 +1,4 @@
-import { useEffect, useRef, useState } from "react";
+import { useRef, useState } from "react";
 import {
   getBeanCompatibility,
   getFlavourCompatibility,
@@ -11,7 +11,7 @@ import {
   type BeanId,
   type FlavourId,
   type FormId,
-  type ZodiacData,
+  type AllZodiacData,
   type ZodiacId,
 } from "../lib/zodiac";
 import BeanBadge from "./BeanBadge";
@@ -23,7 +23,7 @@ import { getClaimedBeanSlug } from "../lib/claimedBean";
 type MetaSlice = { beanId: BeanId; flavourId: FlavourId; formId: FormId };
 
 type Props = {
-  data: ZodiacData;
+  data: AllZodiacData;
 };
 
 const REVEAL_STEP_MS = 320;
@@ -44,10 +44,9 @@ const CALCULATING_TEXTS = [
 ];
 
 export default function ZodiacCompatibility({ data }: Props) {
-  const [claimedSlug, setClaimedSlug] = useState<ZodiacId | null>(null);
-  useEffect(() => {
-    setClaimedSlug(getClaimedBeanSlug());
-  }, []);
+  const [claimedSlug] = useState<ZodiacId | null>(
+    () => (typeof window !== "undefined" ? getClaimedBeanSlug() : null),
+  );
 
   const claimedMeta: MetaSlice | null = (() => {
     if (!claimedSlug) return null;
@@ -275,7 +274,7 @@ function CompatibilityResult({
   calculatingText,
   calculatingVisible,
 }: {
-  data: ZodiacData;
+  data: AllZodiacData;
   metaA: MetaSlice;
   metaB: MetaSlice;
   revealedCount: number;

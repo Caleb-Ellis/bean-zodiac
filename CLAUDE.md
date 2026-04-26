@@ -13,7 +13,7 @@ pnpm fmt / fmt:check / lint / lint:fix
 
 - **12 beans × 5 flavours × 6 forms = 360-combination cycle**
 - New year switches **March 12** annually. Reference date: 12 March 1993.
-- Main call chain: `getCurrentBeanZodiac()` → `getBeanZodiacForYear(beanYear)`
+- Main entry point: `getZodiacMetadataForDate(date)` → `ZodiacMetadata` (zodiacId, beanId, flavourId, formId, startDate, endDate)
 
 ### Preparations
 
@@ -36,9 +36,9 @@ A **Preparation** = Flavour × Form name (30 total). Lookup: `getPreparationName
 
 ### Pages
 
-- `/` — "The Season of the [Preparation] [Bean]" when no claimed bean, "You are the [Preparation] [Bean] when bean claimed, alongside daily fortune bean.
-- `/wheel` — date picker → "You are the [Preparation] [Bean]"
-- `/compatibility` — two date pickers, shareable via `?a=YYYY-MM-DD&b=YYYY-MM-DD`
+- `/` — "The Season of the [Preparation] [Bean]" when no claimed bean, "You are the [Preparation] [Bean]" when bean claimed, alongside daily fortune bean.
+- `/wheel` — date picker → "You are the [Preparation] [Bean]". Shareable via `?date=YYYY-MM-DD`.
+- `/compatibility` — date picker for a second bean; if a bean is claimed it's used as the first. Shareable via `?b=YYYY-MM-DD`.
 - `/beans/`, `/beans/[slug]`, `/flavours/`, `/flavours/[slug]`, `/forms/`, `/forms/[slug]`, `/zodiacs/[slug]`
 
 ### Daily Fortunes
@@ -71,6 +71,25 @@ Scores across bean, flavour, form — each −1/0/+1/+2 — total −4 to +4.
 - `getTotalCompatibility(metaA, metaB)` → `{ score, label, description }` from `TOTAL_COMPATIBILITY`
 
 All lookups sort IDs alphabetically before joining as key.
+
+### Data Architecture
+
+Client props use `ZodiacSliceData` (beans + flavours + forms only) — not the full `ZodiacData`. Zodiac fortune content is fetched on demand via static JSON endpoints.
+
+- **`ZodiacSliceData`** — `Omit<ZodiacData, "zodiacs">`. Built with `buildZodiacSliceData(beans, flavours, forms)`. Passed as props to all three interactive pages (~15KB vs ~720KB for full data).
+- **`/api/zodiacs/[slug].json`** — 360 static JSON files, one per zodiac (~1.5KB each). Generated at build time from `src/pages/api/zodiacs/[slug].json.ts`.
+- **`fetchZodiac(zodiacId)`** — fetches a single zodiac JSON file. Used by components at runtime.
+- **`getDailyFortuneIds(date, personalSlug)`** — synchronous; returns `{ zodiacId, qualityId }` without needing the zodiacs dict. Pair with `getFortuneText(zodiac, qualityId)` after fetching.
+
+**Per-page fetch strategy:**
+- `/` default view: fetches one zodiac (current season) on mount for fortune + dish.
+- `/` claimed view (`ClaimedBeanResult`): fetches seasonal zodiac + fortune zodiac in parallel on mount.
+- `/wheel` (`ZodiacWheelContainer`): pre-fetches the zodiac immediately when user clicks "Discover the Bean Within" — data is ready before the 3.7s spin ends.
+- `/compatibility`: no zodiac fetches — only bean/flavour/form display data needed.
+
+### Claimed Bean & localStorage
+
+The claimed bean slug is stored in localStorage under the key `bean-zodiac-claimed`. A `<script is:inline>` in `Layout.astro`'s `<head>` pre-reads it into `window.__claimedBean` before React hydrates, so components can initialise state synchronously (no post-mount flicker). Helpers in `src/lib/claimedBean.ts`: `getClaimedBeanSlug`, `setClaimedBeanSlug`, `clearClaimedBeanSlug`.
 
 ### Styling
 

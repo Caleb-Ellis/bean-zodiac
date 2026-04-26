@@ -1,12 +1,15 @@
-import { useEffect } from "react";
+import { useEffect, useState } from "react";
 import {
-  getDailyFortune,
+  fetchZodiac,
+  getDailyFortuneIds,
+  getFortuneText,
   getPreparationName,
   getZodiacMetadataForDate,
   type BeanId,
   type FlavourId,
   type FormId,
-  type ZodiacData,
+  type Zodiac,
+  type AllZodiacData,
   type ZodiacId,
 } from "../lib/zodiac";
 import {
@@ -20,7 +23,7 @@ import FormBadge from "./FormBadge";
 import ZodiacName from "./ZodiacName";
 
 interface Props {
-  data: ZodiacData;
+  data: AllZodiacData;
   date: Date;
   claimedSlug: ZodiacId;
   onRelinquish: () => void;
@@ -41,47 +44,48 @@ export default function ClaimedBeanResult({
   const bean = data.beans[beanId];
   const flavour = data.flavours[flavourId];
   const form = data.forms[formId];
-  const zodiac = data.zodiacs[claimedSlug];
-  if (!bean || !flavour || !form || !zodiac) return null;
+  if (!bean || !flavour || !form) return null;
 
   const preparation = getPreparationName(flavourId, formId);
   const seasonalMeta = getZodiacMetadataForDate(date);
   const seasonalBean = data.beans[seasonalMeta.beanId];
-  const seasonalZodiac = data.zodiacs[seasonalMeta.zodiacId];
   const seasonalPreparation = getPreparationName(
     seasonalMeta.flavourId,
     seasonalMeta.formId,
   );
-  const seasonalTrait = seasonalZodiac?.trait;
   const daysLeft = Math.ceil(
     (seasonalMeta.endDate.getTime() - date.getTime()) / (1000 * 60 * 60 * 24),
   );
 
-  const {
-    zodiacId: fortuneZodiacId,
-    qualityId,
-    text: fortuneText,
-  } = getDailyFortune(date, claimedSlug, data.zodiacs);
-
+  const { zodiacId: fortuneZodiacId, qualityId } = getDailyFortuneIds(date, claimedSlug);
   const [fortuneFlavourId, fortuneFormId, fortuneBeanId] =
     fortuneZodiacId.split("-") as [FlavourId, FormId, BeanId];
   const fortuneBean = data.beans[fortuneBeanId];
   const fortuneFlavour = data.flavours[fortuneFlavourId];
   const fortuneForm = data.forms[fortuneFormId];
-  const fortunePreparation = getPreparationName(
-    fortuneFlavourId,
-    fortuneFormId,
-  );
+  const fortunePreparation = getPreparationName(fortuneFlavourId, fortuneFormId);
+
+  const [seasonalZodiac, setSeasonalZodiac] = useState<Zodiac | null>(null);
+  const [fortuneZodiac, setFortuneZodiac] = useState<Zodiac | null>(null);
 
   useEffect(() => {
-    const isoDate = date.toISOString().slice(0, 10);
-    addFortuneToHistory({
-      date: isoDate,
-      zodiacId: fortuneZodiacId,
-      qualityId,
-      text: fortuneText,
+    Promise.all([
+      fetchZodiac(seasonalMeta.zodiacId),
+      fetchZodiac(fortuneZodiacId),
+    ]).then(([seasonal, fortune]) => {
+      setSeasonalZodiac(seasonal);
+      setFortuneZodiac(fortune);
+      const localDateStr = `${date.getFullYear()}-${String(date.getMonth() + 1).padStart(2, "0")}-${String(date.getDate()).padStart(2, "0")}`;
+      addFortuneToHistory({
+        date: localDateStr,
+        zodiacId: fortuneZodiacId,
+        qualityId,
+        text: getFortuneText(fortune, qualityId),
+      });
     });
-  }, [date, fortuneZodiacId, qualityId, fortuneText]);
+  }, []);
+
+  const fortuneText = fortuneZodiac ? getFortuneText(fortuneZodiac, qualityId) : null;
 
   return (
     <div className="flex flex-col items-center text-center gap-6 animate-fade-up">
@@ -117,9 +121,11 @@ export default function ClaimedBeanResult({
                     qualityId={qualityId}
                   />
                 </p>
-                <p className="italic text-zinc-200 sm:text-lg text-left mb-1 sm:mb-2">
-                  "{fortuneText}"
-                </p>
+                {fortuneText && (
+                  <p className="italic text-zinc-200 sm:text-lg text-left mb-1 sm:mb-2">
+                    "{fortuneText}"
+                  </p>
+                )}
                 <div className="flex flex-wrap items-center gap-2 text-sm text-zinc-400 mt-1">
                   <FlavourBadge
                     id={fortuneFlavourId}
@@ -171,7 +177,7 @@ export default function ClaimedBeanResult({
           </a>
         </div>
         <p className="text-sm text-zinc-400">
-          The {seasonalTrait} Season of the{" "}
+          {seasonalZodiac && `The ${seasonalZodiac.trait} Season of the `}
           <ZodiacName
             flavourId={seasonalMeta.flavourId}
             formId={seasonalMeta.formId}
@@ -182,9 +188,11 @@ export default function ClaimedBeanResult({
           />{" "}
           ends in {daysLeft} {daysLeft === 1 ? "day" : "days"}.
         </p>
-        <p className="text-sm italic text-zinc-400">
-          "{seasonalZodiac.seasonalFortune}"
-        </p>
+        {seasonalZodiac && (
+          <p className="text-sm italic text-zinc-400">
+            "{seasonalZodiac.seasonalFortune}"
+          </p>
+        )}
         <div className="mt-6 sm:mt-8">
           <button
             onClick={() => {

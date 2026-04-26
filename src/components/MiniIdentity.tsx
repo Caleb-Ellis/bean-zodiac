@@ -1,11 +1,11 @@
-import type { BeanId, FlavourId, FormId, ZodiacData } from "../lib/zodiac";
+import type { BeanId, FlavourId, FormId, AllZodiacData } from "../lib/zodiac";
 import Bean from "./Bean";
 import ZodiacName from "./ZodiacName";
 
 type Props = {
   beanName: string;
   preparation: string;
-  bean: ZodiacData["beans"][BeanId];
+  bean: AllZodiacData["beans"][BeanId];
   flavourId: FlavourId;
   formId: FormId;
   beanId: BeanId;

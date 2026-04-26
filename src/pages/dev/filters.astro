@@ -3,7 +3,7 @@ import { getCollection } from "astro:content";
 import Layout from "../../layouts/Layout.astro";
 import MiniIdentity from "../../components/MiniIdentity.tsx";
 import {
-  buildZodiacData,
+  buildAllZodiacData,
   BeanIds,
   FlavourIds,
   FormIds,
@@ -18,11 +18,10 @@ if (!import.meta.env.DEV) {
   return new Response(null, { status: 404 });
 }
 
-const data = buildZodiacData(
+const data = buildAllZodiacData(
   await getCollection("beans"),
   await getCollection("flavours"),
   await getCollection("forms"),
-  await getCollection("zodiacs"),
 );
 
 const flavourIds = Object.values(FlavourIds) as FlavourId[];

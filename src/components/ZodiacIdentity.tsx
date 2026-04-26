@@ -2,7 +2,8 @@ import Markdown from "react-markdown";
 import {
   getPreparationName,
   getZodiacMetadataForDate,
-  type ZodiacData,
+  type Zodiac,
+  type AllZodiacData,
 } from "../lib/zodiac";
 import Bean from "./Bean";
 import BeanBadge from "./BeanBadge";
@@ -12,7 +13,8 @@ import ZodiacDish from "./ZodiacDish";
 import ZodiacName from "./ZodiacName";
 
 interface Props {
-  data: ZodiacData;
+  data: AllZodiacData;
+  zodiac: Zodiac | null;
   date: Date;
   onClaim?: () => void;
   claimed?: boolean;
@@ -21,6 +23,7 @@ interface Props {
 
 export default function ZodiacIdentity({
   data,
+  zodiac,
   date,
   onClaim,
   claimed,
@@ -30,7 +33,6 @@ export default function ZodiacIdentity({
   const bean = data.beans[metadata.beanId];
   const flavour = data.flavours[metadata.flavourId];
   const form = data.forms[metadata.formId];
-  const zodiac = data.zodiacs[metadata.zodiacId];
   const preparation = getPreparationName(metadata.flavourId, metadata.formId);
 
   return (
@@ -53,9 +55,11 @@ export default function ZodiacIdentity({
         <div className="mb-4 sm:mb-6">
           <Bean bean={bean} flavourId={flavour.slug} formId={form.slug} />
         </div>
-        <div className="flex flex-col items-center gap-3 max-w-xl">
-          <p className="italic mb-4 sm:mb-6">"{zodiac.quote}"</p>
-        </div>
+        {zodiac && (
+          <div className="flex flex-col items-center gap-3 max-w-xl">
+            <p className="italic mb-4 sm:mb-6">"{zodiac.quote}"</p>
+          </div>
+        )}
         <div className="flex items-center gap-2 text-sm text-zinc-400 mb-4 sm:mb-6 flex-wrap justify-center">
           <FlavourBadge id={metadata.flavourId} name={flavour.name} />
           <span className="flex items-center gap-2">
@@ -67,11 +71,13 @@ export default function ZodiacIdentity({
             <BeanBadge id={metadata.beanId} name={bean.name} />
           </span>
         </div>
-        <ZodiacDish dish={zodiac.dish} className="max-w-lg w-full mb-2 sm:mb-4" />
+        {zodiac && <ZodiacDish dish={zodiac.dish} className="max-w-lg w-full mb-2 sm:mb-4" />}
       </section>
-      <section className="max-w-xl markdown-content">
-        <Markdown>{zodiac.content}</Markdown>
-      </section>
+      {zodiac && (
+        <section className="max-w-xl markdown-content">
+          <Markdown>{zodiac.content}</Markdown>
+        </section>
+      )}
       {onClaim !== undefined && (
         <div className="relative h-14 w-full max-w-sm flex items-center justify-center mt-1">
           <button

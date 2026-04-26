@@ -1,9 +1,11 @@
 import { useEffect, useState } from "react";
 import Markdown from "react-markdown";
 import {
+  fetchZodiac,
   getPreparationName,
   getZodiacMetadataForDate,
-  type ZodiacData,
+  type Zodiac,
+  type AllZodiacData,
   type ZodiacId,
 } from "../lib/zodiac";
 import { clearClaimedBeanSlug, getClaimedBeanSlug } from "../lib/claimedBean";
@@ -16,7 +18,7 @@ import ZodiacDish from "./ZodiacDish";
 import ZodiacName from "./ZodiacName";
 
 interface Props {
-  data: ZodiacData;
+  data: AllZodiacData;
   showContent?: boolean;
   showFortune?: boolean;
   showQuote?: boolean;
@@ -30,12 +32,18 @@ export default function ZodiacResult({
 }: Props) {
   const [date] = useState(() => new Date());
   const [claimedSlug, setClaimedSlug] = useState<ZodiacId | null | undefined>(
-    undefined,
+    () => {
+      if (typeof window === "undefined") return undefined;
+      return getClaimedBeanSlug();
+    },
   );
 
-  useEffect(() => {
-    setClaimedSlug(getClaimedBeanSlug());
-  }, []);
+  const meta = getZodiacMetadataForDate(date);
+  const bean = data.beans[meta.beanId];
+  const flavour = data.flavours[meta.flavourId];
+  const form = data.forms[meta.formId];
+  const [zodiac, setZodiac] = useState<Zodiac | null>(null);
+  useEffect(() => { fetchZodiac(meta.zodiacId).then(setZodiac); }, [meta.zodiacId]);
 
   if (claimedSlug === undefined) return null;
 
@@ -53,12 +61,7 @@ export default function ZodiacResult({
     );
   }
 
-  const meta = getZodiacMetadataForDate(date);
-  const bean = data.beans[meta.beanId];
-  const flavour = data.flavours[meta.flavourId];
-  const form = data.forms[meta.formId];
-  const zodiac = data.zodiacs[meta.zodiacId];
-  if (!bean || !flavour || !form || !zodiac) return null;
+  if (!bean || !flavour || !form) return null;
 
   const preparation = getPreparationName(meta.flavourId, meta.formId);
 
@@ -93,7 +96,7 @@ export default function ZodiacResult({
             <BeanBadge id={meta.beanId} name={bean.name} label="Year" />
           </span>
         </div>
-        {showFortune && (
+        {showFortune && zodiac && (
           <section className="mb-6 sm:mb-10 max-w-xl w-full flex flex-col items-center gap-3">
             <div className="flex items-center gap-3 w-full">
               <div className="flex-1 border-t border-zinc-600" />
@@ -114,14 +117,16 @@ export default function ZodiacResult({
           </section>
         )}
         <section className="flex flex-col items-center gap-3 max-w-xl">
-          {showQuote && <p className="italic mb-4 sm:mb-6">"{zodiac.quote}"</p>}
-          <ZodiacDish
-            dish={zodiac.dish}
-            className="max-w-lg w-full mb-2 sm:mb-4"
-          />
+          {showQuote && zodiac && <p className="italic mb-4 sm:mb-6">"{zodiac.quote}"</p>}
+          {zodiac && (
+            <ZodiacDish
+              dish={zodiac.dish}
+              className="max-w-lg w-full mb-2 sm:mb-4"
+            />
+          )}
         </section>
       </section>
-      {showContent && (
+      {showContent && zodiac && (
         <section className="max-w-xl markdown-content">
           <Markdown>{zodiac.content}</Markdown>
         </section>

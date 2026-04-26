@@ -4,7 +4,7 @@ import {
   type BeanId,
   type FlavourId,
   type FormId,
-  type ZodiacData,
+  type AllZodiacData,
 } from "../lib/zodiac";
 import { getFortuneHistory, type FortuneEntry } from "../lib/fortuneHistory";
 import Bean from "./Bean";
@@ -14,7 +14,7 @@ import FormBadge from "./FormBadge";
 import ZodiacName from "./ZodiacName";
 
 interface Props {
-  data: ZodiacData;
+  data: AllZodiacData;
 }
 
 function formatDate(iso: string): string {
@@ -31,7 +31,7 @@ function FortuneCard({
   data,
 }: {
   entry: FortuneEntry;
-  data: ZodiacData;
+  data: AllZodiacData;
 }) {
   const [flavourId, formId, beanId] = entry.zodiacId.split("-") as [
     FlavourId,

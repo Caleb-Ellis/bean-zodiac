@@ -155,6 +155,21 @@ export type Form = FormSchema & { content: string };
 export type ZodiacId = `${FlavourId}-${FormId}-${BeanId}`;
 export type Zodiac = ZodiacSchema & { content: string };
 
+export type ZodiacMetadata = {
+  zodiacId: ZodiacId;
+  beanId: BeanId;
+  flavourId: FlavourId;
+  formId: FormId;
+  startDate: Date;
+  endDate: Date;
+};
+
+export type AllZodiacData = {
+  beans: Record<BeanId, Bean>;
+  flavours: Record<FlavourId, Flavour>;
+  forms: Record<FormId, Form>;
+};
+
 const VALID_FLAVOUR_IDS = new Set<string>(Object.values(FlavourIds));
 const VALID_FORM_IDS = new Set<string>(Object.values(FormIds));
 const VALID_BEAN_IDS = new Set<string>(Object.values(BeanIds));
@@ -196,22 +211,19 @@ const qualityFromSlot = (r: number): QualityId => {
   return QualityIds.Rotten; // 1/50
 };
 
-export const getQualityForDate = (date: Date): QualityId =>
-  qualityFromSlot(((daysSinceOrigin(date) % 50) + 50) % 50);
-
 export const getQualityForSlug = (slug: string, date: Date): QualityId => {
   let h = daysSinceOrigin(date);
   for (const c of slug) h = (Math.imul(h, 31) + c.charCodeAt(0)) >>> 0;
   return qualityFromSlot(h % 50);
 };
 
-export type DailyDimensions = {
+type DailyDimensions = {
   beanId: BeanId;
   flavourId: FlavourId;
   formId: FormId;
 };
 
-export const getDailyDimensions = (date: Date): DailyDimensions => {
+const getDailyDimensions = (date: Date): DailyDimensions => {
   const d = daysSinceOrigin(date);
   return {
     formId: FORM_ORDER[((d % 6) + 6) % 6],
@@ -283,49 +295,6 @@ export const getFortuneText = (
   return zodiac.dailyNeutral ?? zodiac.seasonalFortune;
 };
 
-export type ZodiacMetadata = {
-  zodiacId: ZodiacId;
-  beanId: BeanId;
-  flavourId: FlavourId;
-  formId: FormId;
-  startDate: Date;
-  endDate: Date;
-};
-
-export type DailyFortune = {
-  zodiacId: ZodiacId;
-  qualityId: QualityId;
-  text: string;
-};
-
-export const getDailyFortune = (
-  date: Date,
-  personalSlug: ZodiacId,
-  zodiacs: Record<ZodiacId, Zodiac>,
-): DailyFortune => {
-  const [flavourId, formId, beanId] = personalSlug.split("-") as [
-    FlavourId,
-    FormId,
-    BeanId,
-  ];
-  const seasonal = getZodiacMetadataForDate(date);
-  const qualityId = getQualityForSlug(personalSlug, date);
-  const zodiacId = getFortuneZodiacId(
-    date,
-    { beanId, flavourId, formId },
-    seasonal,
-  );
-  const zodiac = zodiacs[zodiacId];
-  return { zodiacId, qualityId, text: getFortuneText(zodiac, qualityId) };
-};
-
-export type ZodiacData = {
-  beans: Record<BeanId, Bean>;
-  flavours: Record<FlavourId, Flavour>;
-  forms: Record<FormId, Form>;
-  zodiacs: Record<ZodiacId, Zodiac>;
-};
-
 export const getBeanYear = (date: Date): number => {
   const month = date.getMonth() + 1; // 1-indexed
   const day = date.getDate();
@@ -340,12 +309,12 @@ export const getBeanYear = (date: Date): number => {
   return year;
 };
 
-export const getBeanIdForBeanYear = (beanYear: number): BeanId => {
+const getBeanIdForBeanYear = (beanYear: number): BeanId => {
   const index = (((beanYear - BEAN_ZODIAC_REFERENCE_YEAR) % 12) + 12) % 12;
   return BEAN_ORDER[index];
 };
 
-export const getFlavourIdForBeanYear = (beanYear: number): FlavourId => {
+const getFlavourIdForBeanYear = (beanYear: number): FlavourId => {
   const index =
     ((Math.floor((beanYear - BEAN_ZODIAC_REFERENCE_YEAR) / 2) % 5) + 5) % 5;
   return FLAVOUR_ORDER[index];
@@ -385,43 +354,49 @@ export const getZodiacMetadataForDate = (date: Date): ZodiacMetadata => {
   };
 };
 
-export const formatZodiacDate = (date: Date): string =>
-  date.toLocaleDateString("en-AU", {
-    day: "numeric",
-    month: "long",
-    year: "numeric",
-  });
-
-export const buildZodiacData = (
+export const buildAllZodiacData = (
   beans: Awaited<ReturnType<typeof getCollection<"beans">>>,
   flavours: Awaited<ReturnType<typeof getCollection<"flavours">>>,
   forms: Awaited<ReturnType<typeof getCollection<"forms">>>,
-  zodiacs: Awaited<ReturnType<typeof getCollection<"zodiacs">>>,
-): ZodiacData => {
-  return {
-    beans: Object.fromEntries(
-      beans.map((entry) => [
-        entry.id,
-        { ...entry.data, content: entry.body ?? "" },
-      ]),
-    ) as Record<BeanId, Bean>,
-    flavours: Object.fromEntries(
-      flavours.map((entry) => [
-        entry.id,
-        { ...entry.data, content: entry.body ?? "" },
-      ]),
-    ) as Record<FlavourId, Flavour>,
-    forms: Object.fromEntries(
-      forms.map((entry) => [
-        entry.id,
-        { ...entry.data, content: entry.body ?? "" },
-      ]),
-    ) as Record<FormId, Form>,
-    zodiacs: Object.fromEntries(
-      zodiacs.map((entry) => [
-        entry.id,
-        { ...entry.data, content: entry.body ?? "" },
-      ]),
-    ) as Record<ZodiacId, Zodiac>,
-  };
+): AllZodiacData => ({
+  beans: Object.fromEntries(
+    beans.map((entry) => [
+      entry.id,
+      { ...entry.data, content: entry.body ?? "" },
+    ]),
+  ) as Record<BeanId, Bean>,
+  flavours: Object.fromEntries(
+    flavours.map((entry) => [
+      entry.id,
+      { ...entry.data, content: entry.body ?? "" },
+    ]),
+  ) as Record<FlavourId, Flavour>,
+  forms: Object.fromEntries(
+    forms.map((entry) => [
+      entry.id,
+      { ...entry.data, content: entry.body ?? "" },
+    ]),
+  ) as Record<FormId, Form>,
+});
+
+export const fetchZodiac = (zodiacId: ZodiacId): Promise<Zodiac> =>
+  fetch(`/api/zodiacs/${zodiacId}.json`).then((r) => r.json());
+
+export const getDailyFortuneIds = (
+  date: Date,
+  personalSlug: ZodiacId,
+): { zodiacId: ZodiacId; qualityId: QualityId } => {
+  const [flavourId, formId, beanId] = personalSlug.split("-") as [
+    FlavourId,
+    FormId,
+    BeanId,
+  ];
+  const seasonal = getZodiacMetadataForDate(date);
+  const qualityId = getQualityForSlug(personalSlug, date);
+  const zodiacId = getFortuneZodiacId(
+    date,
+    { beanId, flavourId, formId },
+    seasonal,
+  );
+  return { zodiacId, qualityId };
 };

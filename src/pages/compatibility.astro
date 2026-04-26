@@ -2,20 +2,14 @@
 import { getCollection } from "astro:content";
 import ZodiacCompatibility from "../components/ZodiacCompatibility";
 import Layout from "../layouts/Layout.astro";
-import { buildZodiacData } from "../lib/zodiac";
+import { buildAllZodiacData } from "../lib/zodiac";
 import "../styles/global.css";
 
 const beanCollection = await getCollection("beans");
 const flavourCollection = await getCollection("flavours");
 const formCollection = await getCollection("forms");
-const zodiacCollection = await getCollection("zodiacs");
 
-const data = buildZodiacData(
-  beanCollection,
-  flavourCollection,
-  formCollection,
-  zodiacCollection,
-);
+const data = buildAllZodiacData(beanCollection, flavourCollection, formCollection);
 ---
 
 <Layout

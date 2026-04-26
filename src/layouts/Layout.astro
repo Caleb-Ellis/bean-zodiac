@@ -51,6 +51,13 @@ const {
     />
     <meta name="twitter:description" content={description} />
     <meta name="twitter:image" content={new URL("/og.png", Astro.site).href} />
+    <script is:inline>
+      try {
+        window.__claimedBean = localStorage.getItem("bean-zodiac-claimed");
+      } catch (_) {
+        window.__claimedBean = null;
+      }
+    </script>
   </head>
   <body class="bg-zinc-950 text-white min-h-screen font-sans">
     <!--
