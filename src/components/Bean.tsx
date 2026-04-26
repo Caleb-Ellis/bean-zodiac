@@ -1,4 +1,5 @@
-import type { FlavourId, FormId, QualityId } from "../lib/zodiac";
+import type { FlavourId, FormId } from "../lib/zodiac";
+import type { QualityId } from "../lib/fortune";
 import type { BeanSchema } from "../schemas";
 import styles from "./Bean.module.css";
 
@@ -26,16 +27,18 @@ export default function Bean({ bean, flavourId, formId, qualityId }: Props) {
         formId || flavourId
           ? ({
               "--glow-color": formId ? `var(--form-${formId})` : "transparent",
-              "--glow-center-color": flavourId
-                ? `var(--flavour-${flavourId})`
-                : "transparent",
+              "--glow-center-color": flavourId ? `var(--flavour-${flavourId})` : "transparent",
             } as React.CSSProperties)
           : undefined
       }
     >
       <div
         className={`${styles.glowWrapper}${flavourId && formId ? ` prep-${flavourId}-${formId}` : flavourId ? ` flavour-filter-${flavourId}` : ""}${formId ? ` form-filter-${formId}` : ""}`}
-        style={qualityId != null ? { "--quality-saturate": QUALITY_SATURATE[qualityId] } as React.CSSProperties : undefined}
+        style={
+          qualityId != null
+            ? ({ "--quality-saturate": QUALITY_SATURATE[qualityId] } as React.CSSProperties)
+            : undefined
+        }
       >
         <img src={imageUrl} alt={flavourId ? `${flavourId} ${bean.name}` : bean.name} />
       </div>

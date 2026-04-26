@@ -1,21 +1,16 @@
 import { useEffect, useState } from "react";
 import {
-  fetchZodiac,
-  getDailyFortuneIds,
-  getFortuneText,
   getPreparationName,
   getZodiacMetadataForDate,
   type BeanId,
   type FlavourId,
   type FormId,
   type Zodiac,
-  type AllZodiacData,
   type ZodiacId,
 } from "../lib/zodiac";
-import {
-  addFortuneToHistory,
-  clearFortuneHistory,
-} from "../lib/fortuneHistory";
+import { getDailyFortuneIds, getFortuneText } from "../lib/fortune";
+import { fetchZodiac, type AllZodiacData } from "../lib/data";
+import { addFortuneToHistory, clearFortuneHistory } from "../lib/fortuneHistory";
 import Bean from "./Bean";
 import BeanBadge from "./BeanBadge";
 import FlavourBadge from "./FlavourBadge";
@@ -29,17 +24,8 @@ interface Props {
   onRelinquish: () => void;
 }
 
-export default function ClaimedBeanResult({
-  data,
-  date,
-  claimedSlug,
-  onRelinquish,
-}: Props) {
-  const [flavourId, formId, beanId] = claimedSlug.split("-") as [
-    FlavourId,
-    FormId,
-    BeanId,
-  ];
+export default function ClaimedBeanResult({ data, date, claimedSlug, onRelinquish }: Props) {
+  const [flavourId, formId, beanId] = claimedSlug.split("-") as [FlavourId, FormId, BeanId];
 
   const bean = data.beans[beanId];
   const flavour = data.flavours[flavourId];
@@ -49,17 +35,17 @@ export default function ClaimedBeanResult({
   const preparation = getPreparationName(flavourId, formId);
   const seasonalMeta = getZodiacMetadataForDate(date);
   const seasonalBean = data.beans[seasonalMeta.beanId];
-  const seasonalPreparation = getPreparationName(
-    seasonalMeta.flavourId,
-    seasonalMeta.formId,
-  );
+  const seasonalPreparation = getPreparationName(seasonalMeta.flavourId, seasonalMeta.formId);
   const daysLeft = Math.ceil(
     (seasonalMeta.endDate.getTime() - date.getTime()) / (1000 * 60 * 60 * 24),
   );
 
   const { zodiacId: fortuneZodiacId, qualityId } = getDailyFortuneIds(date, claimedSlug);
-  const [fortuneFlavourId, fortuneFormId, fortuneBeanId] =
-    fortuneZodiacId.split("-") as [FlavourId, FormId, BeanId];
+  const [fortuneFlavourId, fortuneFormId, fortuneBeanId] = fortuneZodiacId.split("-") as [
+    FlavourId,
+    FormId,
+    BeanId,
+  ];
   const fortuneBean = data.beans[fortuneBeanId];
   const fortuneFlavour = data.flavours[fortuneFlavourId];
   const fortuneForm = data.forms[fortuneFormId];
@@ -69,20 +55,19 @@ export default function ClaimedBeanResult({
   const [fortuneZodiac, setFortuneZodiac] = useState<Zodiac | null>(null);
 
   useEffect(() => {
-    Promise.all([
-      fetchZodiac(seasonalMeta.zodiacId),
-      fetchZodiac(fortuneZodiacId),
-    ]).then(([seasonal, fortune]) => {
-      setSeasonalZodiac(seasonal);
-      setFortuneZodiac(fortune);
-      const localDateStr = `${date.getFullYear()}-${String(date.getMonth() + 1).padStart(2, "0")}-${String(date.getDate()).padStart(2, "0")}`;
-      addFortuneToHistory({
-        date: localDateStr,
-        zodiacId: fortuneZodiacId,
-        qualityId,
-        text: getFortuneText(fortune, qualityId),
-      });
-    });
+    Promise.all([fetchZodiac(seasonalMeta.zodiacId), fetchZodiac(fortuneZodiacId)]).then(
+      ([seasonal, fortune]) => {
+        setSeasonalZodiac(seasonal);
+        setFortuneZodiac(fortune);
+        const localDateStr = `${date.getFullYear()}-${String(date.getMonth() + 1).padStart(2, "0")}-${String(date.getDate()).padStart(2, "0")}`;
+        addFortuneToHistory({
+          date: localDateStr,
+          zodiacId: fortuneZodiacId,
+          qualityId,
+          text: getFortuneText(fortune, qualityId),
+        });
+      },
+    );
   }, []);
 
   const fortuneText = fortuneZodiac ? getFortuneText(fortuneZodiac, qualityId) : null;
@@ -127,10 +112,7 @@ export default function ClaimedBeanResult({
                   </p>
                 )}
                 <div className="flex flex-wrap items-center gap-2 text-sm text-zinc-400 mt-1">
-                  <FlavourBadge
-                    id={fortuneFlavourId}
-                    name={fortuneFlavour.name}
-                  />
+                  <FlavourBadge id={fortuneFlavourId} name={fortuneFlavour.name} />
                   <span className="text-zinc-600">×</span>
                   <FormBadge id={fortuneFormId} name={fortuneForm.name} />
                   <span className="text-zinc-600">×</span>
@@ -146,9 +128,7 @@ export default function ClaimedBeanResult({
           </div>
         </section>
         <h2 className="mb-2 flex flex-col items-center font-bold">
-          <span className="block text-md sm:text-xl mb-2 sm:mb-4">
-            You are the
-          </span>
+          <span className="block text-md sm:text-xl mb-2 sm:mb-4">You are the</span>
           <span className="block text-4xl sm:text-7xl mb-3 sm:mb-7">
             <ZodiacName
               flavourId={flavourId}
@@ -189,9 +169,7 @@ export default function ClaimedBeanResult({
           ends in {daysLeft} {daysLeft === 1 ? "day" : "days"}.
         </p>
         {seasonalZodiac && (
-          <p className="text-sm italic text-zinc-400">
-            "{seasonalZodiac.seasonalFortune}"
-          </p>
+          <p className="text-sm italic text-zinc-400">"{seasonalZodiac.seasonalFortune}"</p>
         )}
         <div className="mt-6 sm:mt-8">
           <button

@@ -82,6 +82,7 @@ Client props use `ZodiacSliceData` (beans + flavours + forms only) — not the f
 - **`getDailyFortuneIds(date, personalSlug)`** — synchronous; returns `{ zodiacId, qualityId }` without needing the zodiacs dict. Pair with `getFortuneText(zodiac, qualityId)` after fetching.
 
 **Per-page fetch strategy:**
+
 - `/` default view: fetches one zodiac (current season) on mount for fortune + dish.
 - `/` claimed view (`ClaimedBeanResult`): fetches seasonal zodiac + fortune zodiac in parallel on mount.
 - `/wheel` (`ZodiacWheelContainer`): pre-fetches the zodiac immediately when user clicks "Discover the Bean Within" — data is ready before the 3.7s spin ends.

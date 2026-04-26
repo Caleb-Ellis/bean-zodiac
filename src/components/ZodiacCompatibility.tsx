@@ -11,9 +11,9 @@ import {
   type BeanId,
   type FlavourId,
   type FormId,
-  type AllZodiacData,
   type ZodiacId,
 } from "../lib/zodiac";
+import { type AllZodiacData } from "../lib/data";
 import BeanBadge from "./BeanBadge";
 import FlavourBadge from "./FlavourBadge";
 import FormBadge from "./FormBadge";
@@ -44,17 +44,13 @@ const CALCULATING_TEXTS = [
 ];
 
 export default function ZodiacCompatibility({ data }: Props) {
-  const [claimedSlug] = useState<ZodiacId | null>(
-    () => (typeof window !== "undefined" ? getClaimedBeanSlug() : null),
+  const [claimedSlug] = useState<ZodiacId | null>(() =>
+    typeof window !== "undefined" ? getClaimedBeanSlug() : null,
   );
 
   const claimedMeta: MetaSlice | null = (() => {
     if (!claimedSlug) return null;
-    const [flavourId, formId, beanId] = claimedSlug.split("-") as [
-      FlavourId,
-      FormId,
-      BeanId,
-    ];
+    const [flavourId, formId, beanId] = claimedSlug.split("-") as [FlavourId, FormId, BeanId];
     return { beanId, flavourId, formId };
   })();
 
@@ -91,11 +87,8 @@ export default function ZodiacCompatibility({ data }: Props) {
       if (generationRef.current === generation) fn();
     };
 
-    const resolvedMetaA: MetaSlice =
-      claimedMeta ?? getZodiacMetadataForDate(parseDate(inputForA));
-    const resolvedMetaB: MetaSlice = getZodiacMetadataForDate(
-      parseDate(inputForB),
-    );
+    const resolvedMetaA: MetaSlice = claimedMeta ?? getZodiacMetadataForDate(parseDate(inputForA));
+    const resolvedMetaB: MetaSlice = getZodiacMetadataForDate(parseDate(inputForB));
 
     setFormVisible(false);
     setRevealedCount(0);
@@ -171,20 +164,12 @@ export default function ZodiacCompatibility({ data }: Props) {
     <div ref={topRef} className="flex flex-col items-center w-full">
       <div
         className={`grid transition-all duration-500 w-full max-w-xs ${
-          formVisible
-            ? "grid-rows-[1fr] opacity-100"
-            : "grid-rows-[0fr] opacity-0"
+          formVisible ? "grid-rows-[1fr] opacity-100" : "grid-rows-[0fr] opacity-0"
         }`}
       >
         <div className="overflow-hidden">
           <div className="flex flex-col items-center gap-6 pb-16">
-            {!claimedMeta && (
-              <DateField
-                label="First Bean"
-                value={inputA}
-                onChange={setInputA}
-              />
-            )}
+            {!claimedMeta && <DateField label="First Bean" value={inputA} onChange={setInputA} />}
             <DateField
               label={claimedMeta ? "Their Bean" : "Second Bean"}
               value={inputB}
@@ -253,9 +238,7 @@ function DateField({
 }) {
   return (
     <div className="flex flex-col gap-1.5 w-full">
-      <label className="text-xs uppercase tracking-widest text-zinc-400">
-        {label}
-      </label>
+      <label className="text-xs uppercase tracking-widest text-zinc-400">{label}</label>
       <input
         type="date"
         className="w-full bg-zinc-900/80 border-2 border-zinc-700/60 text-white rounded-xl px-4 py-2.5 cursor-pointer backdrop-blur-sm transition-all duration-200 focus:outline-none focus:border-zinc-500 focus:ring-1 focus:ring-zinc-500/40 hover:border-zinc-600 [&::-webkit-calendar-picker-indicator]:hidden"
@@ -293,10 +276,7 @@ function CompatibilityResult({
   const prepB = getPreparationName(metaB.flavourId, metaB.formId);
 
   const beanCompat = getBeanCompatibility(metaA.beanId, metaB.beanId);
-  const flavourCompat = getFlavourCompatibility(
-    metaA.flavourId,
-    metaB.flavourId,
-  );
+  const flavourCompat = getFlavourCompatibility(metaA.flavourId, metaB.flavourId);
   const formCompat = getFormCompatibility(metaA.formId, metaB.formId);
   const total = getTotalCompatibility(metaA as never, metaB as never);
 
@@ -311,9 +291,7 @@ function CompatibilityResult({
           flavourId={metaA.flavourId}
           formId={metaA.formId}
         />
-        <div className="flex items-center self-center text-zinc-600 text-3xl font-thin">
-          ×
-        </div>
+        <div className="flex items-center self-center text-zinc-600 text-3xl font-thin">×</div>
         <MiniIdentity
           beanId={metaB.beanId}
           beanName={beanB.name}
@@ -371,9 +349,7 @@ function CompatibilityResult({
 
       {revealedCount >= 4 && (
         <div className="animate-fade-up bg-zinc-900/80 border-2 border-zinc-700/60 rounded-xl px-6 py-5 my-4 max-w-lg w-full text-center">
-          <p className="text-xs uppercase tracking-widest text-zinc-400 mb-2">
-            Overall
-          </p>
+          <p className="text-xs uppercase tracking-widest text-zinc-400 mb-2">Overall</p>
           <p className="text-2xl sm:text-3xl font-bold mb-2">
             <span className={scoreColor(total.score)}>{total.label}</span>
           </p>
@@ -383,7 +359,6 @@ function CompatibilityResult({
     </div>
   );
 }
-
 
 function DimensionRow({
   label,
@@ -399,9 +374,7 @@ function DimensionRow({
   return (
     <div className="bg-zinc-900/80 border-2 border-zinc-800 rounded-xl px-5 py-4 flex items-center gap-4">
       <div className="flex flex-col items-center gap-1 w-20 shrink-0">
-        <span className="text-xs uppercase tracking-widest text-zinc-500">
-          {label}
-        </span>
+        <span className="text-xs uppercase tracking-widest text-zinc-500">{label}</span>
         <span className={`text-lg font-bold ${scoreColor(compat.score)}`}>
           {compat.score > 0 ? `+${compat.score}` : compat.score}
         </span>

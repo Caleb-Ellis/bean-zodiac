@@ -1,11 +1,5 @@
-import {
-  QualityIds,
-  type BeanId,
-  type FlavourId,
-  type FormId,
-  type QualityId,
-  type ZodiacId,
-} from "../lib/zodiac";
+import { type BeanId, type FlavourId, type FormId, type ZodiacId } from "../lib/zodiac";
+import { QualityIds, type QualityId } from "../lib/fortune";
 
 interface Props {
   flavourId: FlavourId;
@@ -18,9 +12,7 @@ interface Props {
   date?: Date;
 }
 
-const QUALITY_OPTIONS: Partial<
-  Record<QualityId, { texts: string[]; className: string }>
-> = {
+const QUALITY_OPTIONS: Partial<Record<QualityId, { texts: string[]; className: string }>> = {
   [QualityIds.Heirloom]: {
     texts: ["Heirloom", "Gourmet", "Heritage", "Artisanal"],
     className: "text-effect-gold",

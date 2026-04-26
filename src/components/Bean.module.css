@@ -8,7 +8,8 @@
   .glowWrapper {
     width: 100%;
     max-width: 10rem;
-    filter: saturate(var(--quality-saturate, 1)) var(--form-filter, brightness(1)) var(--flavour-filter, brightness(1))
+    filter: saturate(var(--quality-saturate, 1)) var(--form-filter, brightness(1))
+      var(--flavour-filter, brightness(1))
       drop-shadow(0 0 0.4rem var(--glow-center-color, transparent))
       drop-shadow(0 0 0.8rem var(--glow-color, transparent));
 

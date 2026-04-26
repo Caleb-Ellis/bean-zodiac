@@ -1,4 +1,5 @@
-import { type QualityId, type ZodiacId } from "./zodiac";
+import { type ZodiacId } from "./zodiac";
+import { type QualityId } from "./fortune";
 
 export const FORTUNE_HISTORY_KEY = "bean-zodiac-fortune-history";
 
@@ -23,10 +24,7 @@ export const addFortuneToHistory = (entry: FortuneEntry): void => {
   if (typeof window === "undefined") return;
   const history = getFortuneHistory();
   if (history.some((e) => e.date === entry.date)) return;
-  localStorage.setItem(
-    FORTUNE_HISTORY_KEY,
-    JSON.stringify([entry, ...history]),
-  );
+  localStorage.setItem(FORTUNE_HISTORY_KEY, JSON.stringify([entry, ...history]));
 };
 
 export const clearFortuneHistory = (): void => {

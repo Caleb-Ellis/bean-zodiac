@@ -13,7 +13,6 @@ import {
 } from "../lib/zodiac";
 import type { FormId } from "../lib/zodiac";
 
-
 // Wheel centre
 const CX = 100;
 const CY = 100;
@@ -82,12 +81,7 @@ function makeFilter(id: string, color: string, spread: string) {
 
 const BEAN_GEOMETRY = BEAN_ORDER.map((beanId, i) => {
   const mid = 90 - i * BEAN_SEG;
-  const path = annularSector(
-    BEAN_R1,
-    BEAN_R2,
-    mid - BEAN_SEG / 2 + GAP,
-    mid + BEAN_SEG / 2 - GAP,
-  );
+  const path = annularSector(BEAN_R1, BEAN_R2, mid - BEAN_SEG / 2 + GAP, mid + BEAN_SEG / 2 - GAP);
   const { x, y } = toXY((BEAN_R1 + BEAN_R2) / 2, mid);
   return { beanId, path, x, y, mid };
 });
@@ -106,12 +100,7 @@ const FLAVOUR_GEOMETRY = FLAVOUR_ORDER.map((flavourId, i) => {
 
 const FORM_GEOMETRY = FORM_ORDER.map((formId, i) => {
   const mid = 90 - i * FORM_SEG; // reversed so anti-clockwise rotation tracks correctly
-  const path = annularSector(
-    FORM_R1,
-    FORM_R2,
-    mid - FORM_SEG / 2 + GAP,
-    mid + FORM_SEG / 2 - GAP,
-  );
+  const path = annularSector(FORM_R1, FORM_R2, mid - FORM_SEG / 2 + GAP, mid + FORM_SEG / 2 - GAP);
   const { x, y } = toXY((FORM_R1 + FORM_R2) / 2, mid);
   return { formId, path, x, y, mid };
 });
@@ -442,9 +431,7 @@ export default function ZodiacWheel({
           style={{
             transformOrigin: `${CX}px ${CY}px`,
             opacity: centreActive ? undefined : 0,
-            animation: centreActive
-              ? "centre-glow 1s ease-out forwards"
-              : "none",
+            animation: centreActive ? "centre-glow 1s ease-out forwards" : "none",
             willChange: "transform, opacity",
             pointerEvents: "none",
           }}
@@ -488,8 +475,7 @@ export default function ZodiacWheel({
               transform={`rotate(${90 + deg}, ${x}, ${y})`}
               style={{
                 opacity: i < (beansLetterCount ?? 0) ? 1 : 0,
-                transition:
-                  i < (beansLetterCount ?? 0) ? "opacity 0.3s ease" : "none",
+                transition: i < (beansLetterCount ?? 0) ? "opacity 0.3s ease" : "none",
               }}
             >
               {letter}
@@ -519,10 +505,7 @@ export default function ZodiacWheel({
 function capDelta(delta: number, maxDeg: number): number {
   const abs = Math.abs(delta);
   const remainder = abs % 360;
-  const revs = Math.min(
-    Math.floor(abs / 360),
-    Math.floor((maxDeg - remainder) / 360),
-  );
+  const revs = Math.min(Math.floor(abs / 360), Math.floor((maxDeg - remainder) / 360));
   return Math.sign(delta) * (revs * 360 + remainder);
 }
 
@@ -536,8 +519,7 @@ function computeTargets(date: Date) {
   const beanFrac = (date.getTime() - yearStart) / (yearEnd - yearStart);
 
   const absOuter = (beanYear - REF + beanFrac) * BEAN_SEG;
-  const absInner =
-    (beanYear - REF + beanFrac) * (FLAVOUR_SEG / YEARS_PER_FLAVOUR);
+  const absInner = (beanYear - REF + beanFrac) * (FLAVOUR_SEG / YEARS_PER_FLAVOUR);
   const absCentre = (beanYear - REF + beanFrac) * 360;
 
   const modOuter = ((absOuter % 360) + 360) % 360;

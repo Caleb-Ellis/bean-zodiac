@@ -1,11 +1,6 @@
 import { useEffect, useState } from "react";
-import {
-  getPreparationName,
-  type BeanId,
-  type FlavourId,
-  type FormId,
-  type AllZodiacData,
-} from "../lib/zodiac";
+import { getPreparationName, type BeanId, type FlavourId, type FormId } from "../lib/zodiac";
+import { type AllZodiacData } from "../lib/data";
 import { getFortuneHistory, type FortuneEntry } from "../lib/fortuneHistory";
 import Bean from "./Bean";
 import BeanBadge from "./BeanBadge";
@@ -26,18 +21,8 @@ function formatDate(iso: string): string {
   });
 }
 
-function FortuneCard({
-  entry,
-  data,
-}: {
-  entry: FortuneEntry;
-  data: AllZodiacData;
-}) {
-  const [flavourId, formId, beanId] = entry.zodiacId.split("-") as [
-    FlavourId,
-    FormId,
-    BeanId,
-  ];
+function FortuneCard({ entry, data }: { entry: FortuneEntry; data: AllZodiacData }) {
+  const [flavourId, formId, beanId] = entry.zodiacId.split("-") as [FlavourId, FormId, BeanId];
   const bean = data.beans[beanId];
   const preparation = getPreparationName(flavourId, formId);
   const entryDate = new Date(entry.date + "T12:00:00");
@@ -47,12 +32,7 @@ function FortuneCard({
   return (
     <li className="rounded-2xl border-2 border-zinc-800 bg-zinc-900 p-5 sm:p-6 flex items-center gap-4 sm:gap-6">
       <div className="shrink-0" style={{ width: "4rem" }}>
-        <Bean
-          bean={bean}
-          flavourId={flavourId}
-          formId={formId}
-          qualityId={entry.qualityId}
-        />
+        <Bean bean={bean} flavourId={flavourId} formId={formId} qualityId={entry.qualityId} />
       </div>
       <div className="flex flex-col items-start gap-1.5 min-w-0">
         <p className="text-xs text-zinc-400">{formatDate(entry.date)}</p>
@@ -68,15 +48,9 @@ function FortuneCard({
             date={entryDate}
           />
         </p>
-        <p className="italic text-zinc-300 text-base mt-1 mb-2">
-          "{entry.text}"
-        </p>
+        <p className="italic text-zinc-300 text-base mt-1 mb-2">"{entry.text}"</p>
         <div className="flex flex-wrap items-center gap-2 text-sm text-zinc-400 mt-1">
-          <FlavourBadge
-            id={flavourId}
-            name={data.flavours[flavourId].name}
-            small
-          />
+          <FlavourBadge id={flavourId} name={data.flavours[flavourId].name} small />
           <span className="text-zinc-600">×</span>
           <FormBadge id={formId} name={data.forms[formId].name} small />
           <span className="text-zinc-600">×</span>

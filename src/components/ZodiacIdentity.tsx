@@ -1,10 +1,6 @@
 import Markdown from "react-markdown";
-import {
-  getPreparationName,
-  getZodiacMetadataForDate,
-  type Zodiac,
-  type AllZodiacData,
-} from "../lib/zodiac";
+import { getPreparationName, getZodiacMetadataForDate, type Zodiac } from "../lib/zodiac";
+import { type AllZodiacData } from "../lib/data";
 import Bean from "./Bean";
 import BeanBadge from "./BeanBadge";
 import FlavourBadge from "./FlavourBadge";
@@ -39,9 +35,7 @@ export default function ZodiacIdentity({
     <div className="flex flex-col items-center text-center gap-6 animate-fade-up">
       <section className="flex flex-col items-center gap-2">
         <h2 className="mb-2 flex flex-col items-center font-bold">
-          <span className="block text-md sm:text-xl mb-2 sm:mb-4">
-            You are the
-          </span>
+          <span className="block text-md sm:text-xl mb-2 sm:mb-4">You are the</span>
           <span className="block text-4xl sm:text-7xl mb-3 sm:mb-7">
             <ZodiacName
               flavourId={metadata.flavourId}

@@ -7,17 +7,7 @@
  * Reference Bean Zodiac: 12th March 1993 = Fried Umami Edamame
  */
 
-import type { getCollection } from "astro:content";
-import type {
-  BeanSchema,
-  FlavourSchema,
-  FormSchema,
-  ZodiacSchema,
-} from "../schemas";
-
-export const BEAN_ZODIAC_REFERENCE_YEAR = 1993;
-export const BEAN_ZODIAC_REFERENCE_MONTH = 3;
-export const BEAN_ZODIAC_REFERENCE_DAY = 12;
+import type { BeanSchema, FlavourSchema, FormSchema, ZodiacSchema } from "../schemas";
 
 export const BeanIds = {
   Adzuki: "adzuki",
@@ -33,6 +23,46 @@ export const BeanIds = {
   Navy: "navy",
   Pinto: "pinto",
 } as const;
+export type BeanId = (typeof BeanIds)[keyof typeof BeanIds];
+export type Bean = BeanSchema & { content: string };
+
+export const FlavourIds = {
+  Bitter: "bitter",
+  Sour: "sour",
+  Spicy: "spicy",
+  Sweet: "sweet",
+  Umami: "umami",
+} as const;
+export type FlavourId = (typeof FlavourIds)[keyof typeof FlavourIds];
+export type Flavour = FlavourSchema & { content: string };
+
+export const FormIds = {
+  Boiled: "boiled",
+  Dried: "dried",
+  Fermented: "fermented",
+  Fried: "fried",
+  Roasted: "roasted",
+  Smoked: "smoked",
+} as const;
+export type FormId = (typeof FormIds)[keyof typeof FormIds];
+export type Form = FormSchema & { content: string };
+
+export type ZodiacId = `${FlavourId}-${FormId}-${BeanId}`;
+export type Zodiac = ZodiacSchema & { content: string };
+
+export type ZodiacMetadata = {
+  zodiacId: ZodiacId;
+  beanId: BeanId;
+  flavourId: FlavourId;
+  formId: FormId;
+  startDate: Date;
+  endDate: Date;
+};
+
+export const BEAN_ZODIAC_REFERENCE_YEAR = 1993;
+export const BEAN_ZODIAC_REFERENCE_MONTH = 3;
+export const BEAN_ZODIAC_REFERENCE_DAY = 12;
+
 export const BEAN_ORDER = [
   BeanIds.Edamame,
   BeanIds.Black,
@@ -48,13 +78,6 @@ export const BEAN_ORDER = [
   BeanIds.Kidney,
 ] as const;
 
-export const FlavourIds = {
-  Bitter: "bitter",
-  Sour: "sour",
-  Spicy: "spicy",
-  Sweet: "sweet",
-  Umami: "umami",
-} as const;
 export const FLAVOUR_ORDER = [
   FlavourIds.Umami,
   FlavourIds.Sweet,
@@ -62,6 +85,7 @@ export const FLAVOUR_ORDER = [
   FlavourIds.Bitter,
   FlavourIds.Spicy,
 ] as const;
+
 export const FLAVOUR_EMOJI: Record<FlavourId, string> = {
   [FlavourIds.Bitter]: "☕",
   [FlavourIds.Sour]: "🍋",
@@ -70,14 +94,6 @@ export const FLAVOUR_EMOJI: Record<FlavourId, string> = {
   [FlavourIds.Umami]: "🍄",
 } as const;
 
-export const FormIds = {
-  Boiled: "boiled",
-  Dried: "dried",
-  Fermented: "fermented",
-  Fried: "fried",
-  Roasted: "roasted",
-  Smoked: "smoked",
-} as const;
 export const FORM_ORDER = [
   FormIds.Fried,
   FormIds.Roasted,
@@ -86,6 +102,7 @@ export const FORM_ORDER = [
   FormIds.Smoked,
   FormIds.Dried,
 ] as const;
+
 // Start month (1-indexed) for each form, matching FORM_ORDER
 export const FORM_START_MONTH: Record<FormId, number> = {
   [FormIds.Fried]: 3,
@@ -94,6 +111,15 @@ export const FORM_START_MONTH: Record<FormId, number> = {
   [FormIds.Roasted]: 9,
   [FormIds.Smoked]: 11,
   [FormIds.Dried]: 1,
+} as const;
+
+export const FORM_EMOJI: Record<FormId, string> = {
+  [FormIds.Boiled]: "💧",
+  [FormIds.Dried]: "☀️",
+  [FormIds.Fermented]: "🌍",
+  [FormIds.Fried]: "🔥",
+  [FormIds.Roasted]: "♨️",
+  [FormIds.Smoked]: "💨",
 } as const;
 
 export const PREPARATION_NAMES: Record<`${FlavourId}-${FormId}`, string> = {
@@ -129,46 +155,8 @@ export const PREPARATION_NAMES: Record<`${FlavourId}-${FormId}`, string> = {
   "umami-smoked": "Burnished",
 } as const;
 
-export const getPreparationName = (
-  flavourId: FlavourId,
-  formId: FormId,
-): string => PREPARATION_NAMES[`${flavourId}-${formId}`];
-
-export const FORM_EMOJI: Record<FormId, string> = {
-  [FormIds.Boiled]: "💧",
-  [FormIds.Dried]: "☀️",
-  [FormIds.Fermented]: "🌍",
-  [FormIds.Fried]: "🔥",
-  [FormIds.Roasted]: "♨️",
-  [FormIds.Smoked]: "💨",
-} as const;
-
-export type BeanId = (typeof BeanIds)[keyof typeof BeanIds];
-export type Bean = BeanSchema & { content: string };
-
-export type FlavourId = (typeof FlavourIds)[keyof typeof FlavourIds];
-export type Flavour = FlavourSchema & { content: string };
-
-export type FormId = (typeof FormIds)[keyof typeof FormIds];
-export type Form = FormSchema & { content: string };
-
-export type ZodiacId = `${FlavourId}-${FormId}-${BeanId}`;
-export type Zodiac = ZodiacSchema & { content: string };
-
-export type ZodiacMetadata = {
-  zodiacId: ZodiacId;
-  beanId: BeanId;
-  flavourId: FlavourId;
-  formId: FormId;
-  startDate: Date;
-  endDate: Date;
-};
-
-export type AllZodiacData = {
-  beans: Record<BeanId, Bean>;
-  flavours: Record<FlavourId, Flavour>;
-  forms: Record<FormId, Form>;
-};
+export const getPreparationName = (flavourId: FlavourId, formId: FormId): string =>
+  PREPARATION_NAMES[`${flavourId}-${formId}`];
 
 const VALID_FLAVOUR_IDS = new Set<string>(Object.values(FlavourIds));
 const VALID_FORM_IDS = new Set<string>(Object.values(FormIds));
@@ -179,120 +167,8 @@ export const isValidZodiacId = (slug: string): slug is ZodiacId => {
   if (parts.length !== 3) return false;
   const [flavourId, formId, beanId] = parts;
   return (
-    VALID_FLAVOUR_IDS.has(flavourId) &&
-    VALID_FORM_IDS.has(formId) &&
-    VALID_BEAN_IDS.has(beanId)
+    VALID_FLAVOUR_IDS.has(flavourId) && VALID_FORM_IDS.has(formId) && VALID_BEAN_IDS.has(beanId)
   );
-};
-
-export const QualityIds = {
-  Rotten: "rotten",
-  Stale: "stale",
-  Garden: "garden",
-  Market: "market",
-  Heirloom: "heirloom",
-} as const;
-export type QualityId = (typeof QualityIds)[keyof typeof QualityIds];
-
-const ORIGIN_DATE = new Date(
-  BEAN_ZODIAC_REFERENCE_YEAR,
-  BEAN_ZODIAC_REFERENCE_MONTH - 1,
-  BEAN_ZODIAC_REFERENCE_DAY,
-);
-
-const daysSinceOrigin = (date: Date): number =>
-  Math.floor((date.getTime() - ORIGIN_DATE.getTime()) / 86_400_000);
-
-const qualityFromSlot = (r: number): QualityId => {
-  if (r < 4) return QualityIds.Heirloom; // 4/50
-  if (r < 17) return QualityIds.Market; // 13/50
-  if (r < 42) return QualityIds.Garden; // 25/50
-  if (r < 49) return QualityIds.Stale; // 7/50
-  return QualityIds.Rotten; // 1/50
-};
-
-export const getQualityForSlug = (slug: string, date: Date): QualityId => {
-  let h = daysSinceOrigin(date);
-  for (const c of slug) h = (Math.imul(h, 31) + c.charCodeAt(0)) >>> 0;
-  return qualityFromSlot(h % 50);
-};
-
-type DailyDimensions = {
-  beanId: BeanId;
-  flavourId: FlavourId;
-  formId: FormId;
-};
-
-const getDailyDimensions = (date: Date): DailyDimensions => {
-  const d = daysSinceOrigin(date);
-  return {
-    formId: FORM_ORDER[((d % 6) + 6) % 6],
-    flavourId: FLAVOUR_ORDER[((d % 5) + 5) % 5],
-    beanId: BEAN_ORDER[((d % 12) + 12) % 12],
-  };
-};
-
-const makeFallbackDimensions = (index: number, d: number): DailyDimensions => ({
-  beanId: BEAN_ORDER[(((d * 13 + index * 7) % 12) + 12) % 12],
-  flavourId: FLAVOUR_ORDER[(((d * 11 + index * 3) % 5) + 5) % 5],
-  formId: FORM_ORDER[(((d * 7 + index * 5) % 6) + 6) % 6],
-});
-
-export const getFortuneZodiacId = (
-  date: Date,
-  personal: DailyDimensions,
-  seasonal: Pick<ZodiacMetadata, "beanId" | "flavourId" | "formId">,
-): ZodiacId => {
-  const daily = getDailyDimensions(date);
-  const d = daysSinceOrigin(date);
-
-  const personalIndex =
-    BEAN_ORDER.indexOf(personal.beanId) *
-      FLAVOUR_ORDER.length *
-      FORM_ORDER.length +
-    FLAVOUR_ORDER.indexOf(personal.flavourId) * FORM_ORDER.length +
-    FORM_ORDER.indexOf(personal.formId);
-  const seasonalIndex =
-    BEAN_ORDER.indexOf(seasonal.beanId) *
-      FLAVOUR_ORDER.length *
-      FORM_ORDER.length +
-    FLAVOUR_ORDER.indexOf(seasonal.flavourId) * FORM_ORDER.length +
-    FORM_ORDER.indexOf(seasonal.formId);
-
-  const phase = (((d + personalIndex) % 6) + 6) % 6;
-
-  // Personal and seasonal participate 50% and 33% of the time respectively.
-  // When inactive, a unique fallback is derived from their index so each bean
-  // gets its own deterministic substitute rather than the shared daily bean.
-  const P =
-    (d + personalIndex) % 2 === 0
-      ? personal
-      : makeFallbackDimensions(personalIndex, d);
-  const S =
-    (d + seasonalIndex) % 3 === 0
-      ? seasonal
-      : makeFallbackDimensions(seasonalIndex, d);
-
-  if (phase === 0) return `${S.flavourId}-${daily.formId}-${P.beanId}`;
-  if (phase === 1) return `${P.flavourId}-${daily.formId}-${S.beanId}`;
-  if (phase === 2) return `${S.flavourId}-${P.formId}-${daily.beanId}`;
-  if (phase === 3) return `${daily.flavourId}-${S.formId}-${P.beanId}`;
-  if (phase === 4) return `${daily.flavourId}-${P.formId}-${S.beanId}`;
-  return `${P.flavourId}-${S.formId}-${daily.beanId}`;
-};
-
-export const getFortuneText = (
-  zodiac: Zodiac,
-  qualityId: QualityId,
-): string => {
-  if (qualityId === QualityIds.Heirloom && zodiac.dailyBest)
-    return zodiac.dailyBest;
-  if (qualityId === QualityIds.Market && zodiac.dailyGood)
-    return zodiac.dailyGood;
-  if (qualityId === QualityIds.Stale && zodiac.dailyBad) return zodiac.dailyBad;
-  if (qualityId === QualityIds.Rotten && zodiac.dailyWorst)
-    return zodiac.dailyWorst;
-  return zodiac.dailyNeutral ?? zodiac.seasonalFortune;
 };
 
 export const getBeanYear = (date: Date): number => {
@@ -315,8 +191,7 @@ const getBeanIdForBeanYear = (beanYear: number): BeanId => {
 };
 
 const getFlavourIdForBeanYear = (beanYear: number): FlavourId => {
-  const index =
-    ((Math.floor((beanYear - BEAN_ZODIAC_REFERENCE_YEAR) / 2) % 5) + 5) % 5;
+  const index = ((Math.floor((beanYear - BEAN_ZODIAC_REFERENCE_YEAR) / 2) % 5) + 5) % 5;
   return FLAVOUR_ORDER[index];
 };
 
@@ -338,11 +213,7 @@ export const getZodiacMetadataForDate = (date: Date): ZodiacMetadata => {
   const startYear = startMonth > date.getMonth() + 1 ? year - 1 : year;
   const endMonth = startMonth + 2;
   const startDate = new Date(startYear, startMonth - 1, 12);
-  const endDate = new Date(
-    endMonth > 12 ? startYear + 1 : startYear,
-    (endMonth - 1) % 12,
-    11,
-  );
+  const endDate = new Date(endMonth > 12 ? startYear + 1 : startYear, (endMonth - 1) % 12, 11);
 
   return {
     zodiacId: `${flavourId}-${formId}-${beanId}`,
@@ -352,51 +223,4 @@ export const getZodiacMetadataForDate = (date: Date): ZodiacMetadata => {
     startDate,
     endDate,
   };
-};
-
-export const buildAllZodiacData = (
-  beans: Awaited<ReturnType<typeof getCollection<"beans">>>,
-  flavours: Awaited<ReturnType<typeof getCollection<"flavours">>>,
-  forms: Awaited<ReturnType<typeof getCollection<"forms">>>,
-): AllZodiacData => ({
-  beans: Object.fromEntries(
-    beans.map((entry) => [
-      entry.id,
-      { ...entry.data, content: entry.body ?? "" },
-    ]),
-  ) as Record<BeanId, Bean>,
-  flavours: Object.fromEntries(
-    flavours.map((entry) => [
-      entry.id,
-      { ...entry.data, content: entry.body ?? "" },
-    ]),
-  ) as Record<FlavourId, Flavour>,
-  forms: Object.fromEntries(
-    forms.map((entry) => [
-      entry.id,
-      { ...entry.data, content: entry.body ?? "" },
-    ]),
-  ) as Record<FormId, Form>,
-});
-
-export const fetchZodiac = (zodiacId: ZodiacId): Promise<Zodiac> =>
-  fetch(`/api/zodiacs/${zodiacId}.json`).then((r) => r.json());
-
-export const getDailyFortuneIds = (
-  date: Date,
-  personalSlug: ZodiacId,
-): { zodiacId: ZodiacId; qualityId: QualityId } => {
-  const [flavourId, formId, beanId] = personalSlug.split("-") as [
-    FlavourId,
-    FormId,
-    BeanId,
-  ];
-  const seasonal = getZodiacMetadataForDate(date);
-  const qualityId = getQualityForSlug(personalSlug, date);
-  const zodiacId = getFortuneZodiacId(
-    date,
-    { beanId, flavourId, formId },
-    seasonal,
-  );
-  return { zodiacId, qualityId };
 };

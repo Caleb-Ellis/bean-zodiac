@@ -2,7 +2,7 @@
 import { getCollection } from "astro:content";
 import ZodiacCompatibility from "../components/ZodiacCompatibility";
 import Layout from "../layouts/Layout.astro";
-import { buildAllZodiacData } from "../lib/zodiac";
+import { buildAllZodiacData } from "../lib/data";
 import "../styles/global.css";
 
 const beanCollection = await getCollection("beans");

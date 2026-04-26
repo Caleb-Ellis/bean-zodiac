@@ -13,8 +13,7 @@ export const GET: APIRoute = ({ props }) => {
   const { entry } = props as {
     entry: Awaited<ReturnType<typeof getCollection<"zodiacs">>>[0];
   };
-  return new Response(
-    JSON.stringify({ ...entry.data, content: entry.body ?? "" }),
-    { headers: { "Content-Type": "application/json" } },
-  );
+  return new Response(JSON.stringify({ ...entry.data, content: entry.body ?? "" }), {
+    headers: { "Content-Type": "application/json" },
+  });
 };

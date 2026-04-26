@@ -3,7 +3,6 @@ import { getCollection } from "astro:content";
 import Layout from "../../layouts/Layout.astro";
 import MiniIdentity from "../../components/MiniIdentity.tsx";
 import {
-  buildAllZodiacData,
   BeanIds,
   FlavourIds,
   FormIds,
@@ -12,6 +11,7 @@ import {
   type FlavourId,
   type FormId,
 } from "../../lib/zodiac";
+import { buildAllZodiacData } from "../../lib/data";
 import "../../styles/global.css";
 
 if (!import.meta.env.DEV) {

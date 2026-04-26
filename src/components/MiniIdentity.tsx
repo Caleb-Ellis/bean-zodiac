@@ -1,4 +1,5 @@
-import type { BeanId, FlavourId, FormId, AllZodiacData } from "../lib/zodiac";
+import type { BeanId, FlavourId, FormId } from "../lib/zodiac";
+import type { AllZodiacData } from "../lib/data";
 import Bean from "./Bean";
 import ZodiacName from "./ZodiacName";
 

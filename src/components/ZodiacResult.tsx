@@ -1,13 +1,12 @@
 import { useEffect, useState } from "react";
 import Markdown from "react-markdown";
 import {
-  fetchZodiac,
   getPreparationName,
   getZodiacMetadataForDate,
   type Zodiac,
-  type AllZodiacData,
   type ZodiacId,
 } from "../lib/zodiac";
+import { fetchZodiac, type AllZodiacData } from "../lib/data";
 import { clearClaimedBeanSlug, getClaimedBeanSlug } from "../lib/claimedBean";
 import ClaimedBeanResult from "./ClaimedBeanResult";
 import Bean from "./Bean";
@@ -24,26 +23,21 @@ interface Props {
   showQuote?: boolean;
 }
 
-export default function ZodiacResult({
-  data,
-  showContent,
-  showFortune,
-  showQuote,
-}: Props) {
+export default function ZodiacResult({ data, showContent, showFortune, showQuote }: Props) {
   const [date] = useState(() => new Date());
-  const [claimedSlug, setClaimedSlug] = useState<ZodiacId | null | undefined>(
-    () => {
-      if (typeof window === "undefined") return undefined;
-      return getClaimedBeanSlug();
-    },
-  );
+  const [claimedSlug, setClaimedSlug] = useState<ZodiacId | null | undefined>(() => {
+    if (typeof window === "undefined") return undefined;
+    return getClaimedBeanSlug();
+  });
 
   const meta = getZodiacMetadataForDate(date);
   const bean = data.beans[meta.beanId];
   const flavour = data.flavours[meta.flavourId];
   const form = data.forms[meta.formId];
   const [zodiac, setZodiac] = useState<Zodiac | null>(null);
-  useEffect(() => { fetchZodiac(meta.zodiacId).then(setZodiac); }, [meta.zodiacId]);
+  useEffect(() => {
+    fetchZodiac(meta.zodiacId).then(setZodiac);
+  }, [meta.zodiacId]);
 
   if (claimedSlug === undefined) return null;
 
@@ -69,9 +63,7 @@ export default function ZodiacResult({
     <div className="flex flex-col items-center text-center gap-6 animate-fade-up">
       <section className="flex flex-col items-center gap-2">
         <h2 className="mb-2 flex flex-col items-center font-bold">
-          <span className="block text-md sm:text-xl mb-2 sm:mb-4">
-            We are in the Season of the
-          </span>
+          <span className="block text-md sm:text-xl mb-2 sm:mb-4">We are in the Season of the</span>
           <span className="block text-4xl sm:text-7xl mb-3 sm:mb-7">
             <ZodiacName
               flavourId={meta.flavourId}
@@ -103,9 +95,7 @@ export default function ZodiacResult({
               <span className="text-zinc-500 text-xs">✦</span>
               <div className="flex-1 border-t border-zinc-600" />
             </div>
-            <p className="text-xs uppercase tracking-widest text-zinc-200">
-              Wisdom of the Bean
-            </p>
+            <p className="text-xs uppercase tracking-widest text-zinc-200">Wisdom of the Bean</p>
             <p className="italic text-zinc-200 text-lg text-center px-4">
               "{zodiac.seasonalFortune}"
             </p>
@@ -118,12 +108,7 @@ export default function ZodiacResult({
         )}
         <section className="flex flex-col items-center gap-3 max-w-xl">
           {showQuote && zodiac && <p className="italic mb-4 sm:mb-6">"{zodiac.quote}"</p>}
-          {zodiac && (
-            <ZodiacDish
-              dish={zodiac.dish}
-              className="max-w-lg w-full mb-2 sm:mb-4"
-            />
-          )}
+          {zodiac && <ZodiacDish dish={zodiac.dish} className="max-w-lg w-full mb-2 sm:mb-4" />}
         </section>
       </section>
       {showContent && zodiac && (

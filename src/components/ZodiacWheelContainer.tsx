@@ -1,11 +1,6 @@
 import { useRef, useState } from "react";
-import {
-  fetchZodiac,
-  getZodiacMetadataForDate,
-  type Zodiac,
-  type AllZodiacData,
-  type ZodiacId,
-} from "../lib/zodiac";
+import { getZodiacMetadataForDate, type Zodiac, type ZodiacId } from "../lib/zodiac";
+import { fetchZodiac, type AllZodiacData } from "../lib/data";
 import { getClaimedBeanSlug, setClaimedBeanSlug } from "../lib/claimedBean";
 import ZodiacWheel, { BEANS_LETTERS } from "./ZodiacWheel";
 import ZodiacIdentity from "./ZodiacIdentity";
@@ -50,17 +45,12 @@ export default function ZodiacWheelContainer({ data }: Props) {
   const wheelRef = useRef<HTMLDivElement>(null);
   const [spinning, setSpinning] = useState(false);
   // resultMounted: whether the result is in the DOM at all
-  const [resultMounted, setResultMounted] = useState<boolean>(
-    () => !!getDateParam(),
-  );
+  const [resultMounted, setResultMounted] = useState<boolean>(() => !!getDateParam());
   // resultVisible: drives the opacity transition (mount first, then set true)
-  const [resultVisible, setResultVisible] = useState<boolean>(
-    () => !!getDateParam(),
-  );
+  const [resultVisible, setResultVisible] = useState<boolean>(() => !!getDateParam());
 
   const [moreBeanLabel, setMoreBeanLabel] = useState(
-    () =>
-      MORE_BEANS_LABELS[Math.floor(Math.random() * MORE_BEANS_LABELS.length)],
+    () => MORE_BEANS_LABELS[Math.floor(Math.random() * MORE_BEANS_LABELS.length)],
   );
 
   const [highlighted, setHighlighted] = useState(() => !!getDateParam());
@@ -113,8 +103,7 @@ export default function ZodiacWheelContainer({ data }: Props) {
 
   function handleClaim() {
     if (!selectedDate) return;
-    const { flavourId, formId, beanId } =
-      getZodiacMetadataForDate(selectedDate);
+    const { flavourId, formId, beanId } = getZodiacMetadataForDate(selectedDate);
     const slug: ZodiacId = `${flavourId}-${formId}-${beanId}`;
     setClaimedBeanSlug(slug);
     setClaimedSlug(slug);
@@ -129,9 +118,7 @@ export default function ZodiacWheelContainer({ data }: Props) {
     setTimeout(() => {
       setResultMounted(false);
       setSpinning(false);
-      setMoreBeanLabel(
-        MORE_BEANS_LABELS[Math.floor(Math.random() * MORE_BEANS_LABELS.length)],
-      );
+      setMoreBeanLabel(MORE_BEANS_LABELS[Math.floor(Math.random() * MORE_BEANS_LABELS.length)]);
       const url = new URL(window.location.href);
       url.searchParams.delete("date");
       window.history.pushState({}, "", url);
@@ -174,9 +161,7 @@ export default function ZodiacWheelContainer({ data }: Props) {
       >
         <section
           className={`absolute w-full px-6 flex flex-col items-center gap-3 transition-opacity duration-300 ${
-            controlsHidden
-              ? "opacity-0 pointer-events-none select-none"
-              : "opacity-100"
+            controlsHidden ? "opacity-0 pointer-events-none select-none" : "opacity-100"
           }`}
         >
           <input
@@ -245,8 +230,7 @@ function getDateParam(): string | null {
 
 function smoothScrollToCenter(el: HTMLElement, duration = 1200) {
   const rect = el.getBoundingClientRect();
-  const targetY =
-    window.scrollY + rect.top + rect.height / 2 - window.innerHeight / 2;
+  const targetY = window.scrollY + rect.top + rect.height / 2 - window.innerHeight / 2;
   const startY = window.scrollY;
   const diff = targetY - startY;
   const start = performance.now();
