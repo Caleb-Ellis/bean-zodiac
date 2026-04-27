@@ -1,5 +1,10 @@
-import { type BeanId, type FlavourId, type FormId, type ZodiacId } from "../lib/zodiac";
-import { QualityIds, type QualityId } from "../lib/fortune";
+import {
+  type BeanId,
+  type FlavourId,
+  type FormId,
+  type ZodiacId,
+} from "../lib/zodiac";
+import { getQualityLabel, type QualityId } from "../lib/fortune";
 
 interface Props {
   flavourId: FlavourId;
@@ -12,25 +17,6 @@ interface Props {
   date?: Date;
 }
 
-const QUALITY_OPTIONS: Partial<Record<QualityId, { texts: string[]; className: string }>> = {
-  [QualityIds.Heirloom]: {
-    texts: ["Heirloom", "Gourmet", "Heritage", "Artisanal"],
-    className: "text-effect-gold",
-  },
-  [QualityIds.Market]: {
-    texts: ["Fresh", "Select", "Quality", "Reserve", "Handpicked"],
-    className: "text-effect-emerald",
-  },
-  [QualityIds.Stale]: {
-    texts: ["Stale", "Old", "Faded", "Mushy", "Wilted"],
-    className: "text-effect-bruise",
-  },
-  [QualityIds.Rotten]: {
-    texts: ["Rotten", "Spoiled", "Putrid", "Foul", "Mouldy"],
-    className: "text-effect-rot",
-  },
-};
-
 export default function ZodiacName({
   flavourId,
   formId,
@@ -41,13 +27,8 @@ export default function ZodiacName({
   qualityId,
   date,
 }: Props) {
-  const daySeed = Math.floor((date ?? new Date()).getTime() / 86_400_000);
-  const qualityOpt = qualityId ? QUALITY_OPTIONS[qualityId] : undefined;
-  const qualityLabel = qualityOpt
-    ? {
-        text: qualityOpt.texts[daySeed % qualityOpt.texts.length] + " ",
-        className: qualityOpt.className,
-      }
+  const qualityLabel = qualityId
+    ? getQualityLabel(qualityId, date ?? new Date())
     : undefined;
   const qualitySpan = qualityLabel ? (
     <span className={qualityLabel.className}>{qualityLabel.text}</span>
@@ -70,7 +51,7 @@ export default function ZodiacName({
   if (zodiacId) {
     return (
       <a href={`/zodiacs/${zodiacId}`} className="no-underline hover:underline">
-        {qualitySpan}
+        {qualitySpan}{" "}
         {preparationSpan} {beanSpan}
       </a>
     );

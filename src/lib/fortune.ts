@@ -76,11 +76,15 @@ export const getFortuneZodiacId = (
   const d = daysSinceOrigin(date);
 
   const personalIndex =
-    BEAN_ORDER.indexOf(personal.beanId) * FLAVOUR_ORDER.length * FORM_ORDER.length +
+    BEAN_ORDER.indexOf(personal.beanId) *
+      FLAVOUR_ORDER.length *
+      FORM_ORDER.length +
     FLAVOUR_ORDER.indexOf(personal.flavourId) * FORM_ORDER.length +
     FORM_ORDER.indexOf(personal.formId);
   const seasonalIndex =
-    BEAN_ORDER.indexOf(seasonal.beanId) * FLAVOUR_ORDER.length * FORM_ORDER.length +
+    BEAN_ORDER.indexOf(seasonal.beanId) *
+      FLAVOUR_ORDER.length *
+      FORM_ORDER.length +
     FLAVOUR_ORDER.indexOf(seasonal.flavourId) * FORM_ORDER.length +
     FORM_ORDER.indexOf(seasonal.formId);
 
@@ -89,8 +93,14 @@ export const getFortuneZodiacId = (
   // Personal and seasonal participate 50% and 33% of the time respectively.
   // When inactive, a unique fallback is derived from their index so each bean
   // gets its own deterministic substitute rather than the shared daily bean.
-  const P = (d + personalIndex) % 2 === 0 ? personal : makeFallbackDimensions(personalIndex, d);
-  const S = (d + seasonalIndex) % 3 === 0 ? seasonal : makeFallbackDimensions(seasonalIndex, d);
+  const P =
+    (d + personalIndex) % 2 === 0
+      ? personal
+      : makeFallbackDimensions(personalIndex, d);
+  const S =
+    (d + seasonalIndex) % 3 === 0
+      ? seasonal
+      : makeFallbackDimensions(seasonalIndex, d);
 
   if (phase === 0) return `${S.flavourId}-${daily.formId}-${P.beanId}`;
   if (phase === 1) return `${P.flavourId}-${daily.formId}-${S.beanId}`;
@@ -100,11 +110,50 @@ export const getFortuneZodiacId = (
   return `${P.flavourId}-${S.formId}-${daily.beanId}`;
 };
 
-export const getFortuneText = (zodiac: Zodiac, qualityId: QualityId): string => {
-  if (qualityId === QualityIds.Heirloom && zodiac.dailyBest) return zodiac.dailyBest;
-  if (qualityId === QualityIds.Market && zodiac.dailyGood) return zodiac.dailyGood;
+export const getQualityLabel = (
+  qualityId: QualityId,
+  date: Date,
+): { text: string; className: string } | undefined => {
+  const d = daysSinceOrigin(date);
+  const pick = (texts: string[]) =>
+    texts[((d % texts.length) + texts.length) % texts.length];
+  switch (qualityId) {
+    case QualityIds.Heirloom:
+      return {
+        text: pick(["Heirloom", "Gourmet", "Heritage", "Artisanal", "Prized"]),
+        className: "text-effect-gold",
+      };
+    case QualityIds.Market:
+      return {
+        text: pick(["Fresh", "Select", "Quality", "Reserve", "Handpicked"]),
+        className: "text-effect-emerald",
+      };
+    case QualityIds.Stale:
+      return {
+        text: pick(["Stale", "Old", "Faded", "Mushy", "Wilted"]),
+        className: "text-effect-bruise",
+      };
+    case QualityIds.Rotten:
+      return {
+        text: pick(["Rotten", "Spoiled", "Putrid", "Foul", "Mouldy"]),
+        className: "text-effect-rot",
+      };
+    default:
+      return undefined;
+  }
+};
+
+export const getFortuneText = (
+  zodiac: Zodiac,
+  qualityId: QualityId,
+): string => {
+  if (qualityId === QualityIds.Heirloom && zodiac.dailyBest)
+    return zodiac.dailyBest;
+  if (qualityId === QualityIds.Market && zodiac.dailyGood)
+    return zodiac.dailyGood;
   if (qualityId === QualityIds.Stale && zodiac.dailyBad) return zodiac.dailyBad;
-  if (qualityId === QualityIds.Rotten && zodiac.dailyWorst) return zodiac.dailyWorst;
+  if (qualityId === QualityIds.Rotten && zodiac.dailyWorst)
+    return zodiac.dailyWorst;
   return zodiac.dailyNeutral ?? zodiac.seasonalFortune;
 };
 
@@ -112,9 +161,17 @@ export const getDailyFortuneIds = (
   date: Date,
   personalSlug: ZodiacId,
 ): { zodiacId: ZodiacId; qualityId: QualityId } => {
-  const [flavourId, formId, beanId] = personalSlug.split("-") as [FlavourId, FormId, BeanId];
+  const [flavourId, formId, beanId] = personalSlug.split("-") as [
+    FlavourId,
+    FormId,
+    BeanId,
+  ];
   const seasonal = getZodiacMetadataForDate(date);
   const qualityId = getQualityForSlug(personalSlug, date);
-  const zodiacId = getFortuneZodiacId(date, { beanId, flavourId, formId }, seasonal);
+  const zodiacId = getFortuneZodiacId(
+    date,
+    { beanId, flavourId, formId },
+    seasonal,
+  );
   return { zodiacId, qualityId };
 };

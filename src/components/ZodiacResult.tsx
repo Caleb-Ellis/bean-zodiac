@@ -78,7 +78,7 @@ export default function ZodiacResult({ data, showContent, showFortune, showQuote
           <Bean bean={bean} flavourId={flavour.slug} formId={form.slug} />
         </div>
         <div className="flex items-center gap-2 text-sm text-zinc-400 mb-4 sm:mb-6 flex-wrap justify-center">
-          <FlavourBadge id={meta.flavourId} name={flavour.name} label="Era" />
+          <FlavourBadge id={meta.flavourId} name={flavour.name} label="Phase" />
           <span className="flex items-center gap-2">
             <span className="text-zinc-600">×</span>
             <FormBadge id={meta.formId} name={form.name} label="Season" />
