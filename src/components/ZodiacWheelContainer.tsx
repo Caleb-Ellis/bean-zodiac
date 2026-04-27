@@ -2,6 +2,7 @@ import { useRef, useState } from "react";
 import { getZodiacMetadataForDate, type Zodiac, type ZodiacId } from "../lib/zodiac";
 import { fetchZodiac, type AllZodiacData } from "../lib/data";
 import { getClaimedBeanSlug, setClaimedBeanSlug } from "../lib/claimedBean";
+import { addMetBean } from "../lib/metBeans";
 import ZodiacWheel, { BEANS_LETTERS } from "./ZodiacWheel";
 import ZodiacIdentity from "./ZodiacIdentity";
 
@@ -66,7 +67,9 @@ export default function ZodiacWheelContainer({ data }: Props) {
     const parsed = parseDateInputValue(inputDate);
     if (parsed) {
       setZodiac(null);
-      fetchZodiac(getZodiacMetadataForDate(parsed).zodiacId).then(setZodiac);
+      const discoveredZodiacId = getZodiacMetadataForDate(parsed).zodiacId;
+      fetchZodiac(discoveredZodiacId).then(setZodiac);
+      addMetBean(discoveredZodiacId);
       setHighlighted(true);
       setSpinning(true);
       setResultMounted(false);

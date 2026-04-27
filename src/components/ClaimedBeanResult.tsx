@@ -14,6 +14,7 @@ import {
   addFortuneToHistory,
   clearFortuneHistory,
 } from "../lib/fortuneHistory";
+import { addMetBean, clearMetBeans } from "../lib/metBeans";
 import Bean from "./Bean";
 import BeanBadge from "./BeanBadge";
 import FlavourBadge from "./FlavourBadge";
@@ -88,6 +89,9 @@ export default function ClaimedBeanResult({
         qualityId,
         text: getFortuneText(fortune, qualityId),
       });
+      addMetBean(claimedSlug);
+      addMetBean(seasonalMeta.zodiacId);
+      addMetBean(fortuneZodiacId);
     });
   }, []);
 
@@ -170,7 +174,13 @@ export default function ClaimedBeanResult({
         <div className="mb-6 sm:mb-8">
           <Bean bean={bean} flavourId={flavour.slug} formId={form.slug} />
         </div>
-        <div className="flex items-center gap-2 text-sm text-zinc-400 mb-4 sm:mb-6">
+        <div className="flex flex-col sm:flex-row items-center gap-2 text-sm text-zinc-400 mb-4 sm:mb-6">
+          <a
+            href="/beaniary"
+            className="flex items-center gap-1.5 px-3 py-1.5 rounded-full bg-zinc-900 border-2 border-zinc-700 hover:border-zinc-500 transition-colors no-underline text-zinc-300"
+          >
+            🫘&nbsp; The Beaniary
+          </a>
           <a
             href="/legunomicon"
             className="flex items-center gap-1.5 px-3 py-1.5 rounded-full bg-zinc-900 border-2 border-zinc-700 hover:border-zinc-500 transition-colors no-underline text-zinc-300"
@@ -256,6 +266,7 @@ export default function ClaimedBeanResult({
                 )
               ) {
                 clearFortuneHistory();
+                clearMetBeans();
                 onRelinquish();
               }
             }}

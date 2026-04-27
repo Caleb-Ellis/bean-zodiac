@@ -1,0 +1,23 @@
+---
+import { getCollection } from "astro:content";
+import BeaniaryComponent from "../components/Beaniary.tsx";
+import Layout from "../layouts/Layout.astro";
+import { buildAllZodiacData } from "../lib/data";
+import "../styles/global.css";
+
+const beanCollection = await getCollection("beans");
+const flavourCollection = await getCollection("flavours");
+const formCollection = await getCollection("forms");
+
+const data = buildAllZodiacData(
+  beanCollection,
+  flavourCollection,
+  formCollection,
+);
+---
+
+<Layout title="The Beaniary" description="A record of every Bean you have encountered">
+  <section class="flex flex-col items-center my-6 sm:my-12 px-4">
+    <BeaniaryComponent data={data} client:load />
+  </section>
+</Layout>
