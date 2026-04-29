@@ -1,7 +1,7 @@
 import { type ZodiacId } from "./zodiac";
 import { type QualityId } from "./fortune";
 
-export const FORTUNE_HISTORY_KEY = "bean-zodiac-fortune-history";
+const FORTUNE_HISTORY_KEY = "bean-zodiac-fortune-history";
 
 export type FortuneEntry = {
   date: string;

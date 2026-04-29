@@ -104,7 +104,7 @@ export const FORM_ORDER = [
 ] as const;
 
 // Start month (1-indexed) for each form, matching FORM_ORDER
-export const FORM_START_MONTH: Record<FormId, number> = {
+const FORM_START_MONTH: Record<FormId, number> = {
   [FormIds.Fried]: 3,
   [FormIds.Boiled]: 5,
   [FormIds.Fermented]: 7,
@@ -122,7 +122,7 @@ export const FORM_EMOJI: Record<FormId, string> = {
   [FormIds.Smoked]: "💨",
 } as const;
 
-export const PREPARATION_NAMES: Record<`${FlavourId}-${FormId}`, string> = {
+const PREPARATION_NAMES: Record<`${FlavourId}-${FormId}`, string> = {
   "bitter-boiled": "Decocted",
   "bitter-dried": "Desiccated",
   "bitter-fermented": "Tinctured",

@@ -20,11 +20,9 @@ interface Props {
 function BeaniaryEntry({
   zodiacId,
   data,
-  met,
 }: {
   zodiacId: ZodiacId;
   data: AllZodiacData;
-  met: boolean;
 }) {
   const [flavourId, formId, beanId] = zodiacId.split("-") as [
     FlavourId,
@@ -37,35 +35,29 @@ function BeaniaryEntry({
   if (!bean) return null;
 
   return (
-    <li className="rounded-2xl border-2 border-zinc-800 bg-zinc-900 p-4 flex flex-col items-center gap-3 text-center h-full">
+    <li className="rounded-2xl border-2 border-zinc-800 bg-zinc-900 p-4 flex flex-col items-center justify-center gap-3 min-h-40">
       <div
         className="flex items-center justify-center"
         style={{ width: "3.5rem", height: "5rem" }}
       >
-        {met ? (
-          <Bean bean={bean} flavourId={flavourId} formId={formId} />
-        ) : (
-          <span style={{ fontSize: "2rem", filter: "brightness(0)" }} aria-hidden="true">🫘</span>
-        )}
+        <Bean bean={bean} flavourId={flavourId} formId={formId} />
       </div>
-      {met && (
-        <p className="text-xs font-bold uppercase tracking-wide text-zinc-200 leading-tight">
-          <ZodiacName
-            flavourId={flavourId}
-            formId={formId}
-            beanId={beanId}
-            preparation={preparation}
-            beanName={bean.name}
-            zodiacId={zodiacId}
-          />
-        </p>
-      )}
+      <p className="text-xs font-bold uppercase tracking-wide text-zinc-200 leading-tight text-center">
+        <ZodiacName
+          flavourId={flavourId}
+          formId={formId}
+          beanId={beanId}
+          preparation={preparation}
+          beanName={bean.name}
+          zodiacId={zodiacId}
+        />
+      </p>
     </li>
   );
 }
 
 export default function Beaniary({ data }: Props) {
-  const [metSet, setMetSet] = useState<Set<ZodiacId>>(new Set());
+  const [metBeans, setMetBeans] = useState<ZodiacId[]>([]);
 
   useEffect(() => {
     if (localStorage.getItem(MET_BEANS_KEY) === null) {
@@ -73,23 +65,18 @@ export default function Beaniary({ data }: Props) {
       const claimed = getClaimedBeanSlug();
       if (claimed) addMetBean(claimed);
     }
-    setMetSet(new Set(getMetBeans()));
+    setMetBeans(getMetBeans());
   }, []);
 
-  const allZodiacIds = useMemo(() => {
-    const flavourIds = (Object.keys(data.flavours) as FlavourId[]).sort();
-    const formIds = (Object.keys(data.forms) as FormId[]).sort();
-    const beanIds = (Object.keys(data.beans) as BeanId[]).sort();
-    const ids: ZodiacId[] = [];
-    for (const flavourId of flavourIds) {
-      for (const formId of formIds) {
-        for (const beanId of beanIds) {
-          ids.push(`${flavourId}-${formId}-${beanId}` as ZodiacId);
-        }
-      }
-    }
-    return ids;
-  }, []);
+  const sortedMetIds = useMemo(() => {
+    return [...metBeans].sort((a, b) => {
+      const [aFlavour, aForm, aBean] = a.split("-");
+      const [bFlavour, bForm, bBean] = b.split("-");
+      return aBean.localeCompare(bBean) || aFlavour.localeCompare(bFlavour) || aForm.localeCompare(bForm);
+    });
+  }, [metBeans]);
+
+  const unmetCount = 360 - sortedMetIds.length;
 
   return (
     <div className="w-full max-w-4xl mx-auto flex flex-col gap-6 animate-fade-up">
@@ -100,13 +87,17 @@ export default function Beaniary({ data }: Props) {
         </p>
       </section>
       <ul className="grid grid-cols-2 sm:grid-cols-4 lg:grid-cols-6 gap-4 list-none p-0 m-0 items-stretch">
-        {allZodiacIds.map((zodiacId) => (
+        {sortedMetIds.map((zodiacId) => (
           <BeaniaryEntry
             key={zodiacId}
             zodiacId={zodiacId}
             data={data}
-            met={metSet.has(zodiacId)}
           />
+        ))}
+        {Array.from({ length: unmetCount }, (_, i) => (
+          <li key={`unmet-${i}`} className="rounded-2xl border-2 border-zinc-800 bg-zinc-900 p-4 flex items-center justify-center min-h-40">
+            <span style={{ fontSize: "2rem", filter: "brightness(0)" }} aria-hidden="true">🫘</span>
+          </li>
         ))}
       </ul>
     </div>

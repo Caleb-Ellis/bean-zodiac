@@ -1,6 +1,6 @@
 import { isValidZodiacId, type ZodiacId } from "./zodiac";
 
-export const CLAIMED_BEAN_KEY = "bean-zodiac-claimed";
+const CLAIMED_BEAN_KEY = "bean-zodiac-claimed";
 
 export const getClaimedBeanSlug = (): ZodiacId | null => {
   if (typeof window === "undefined") return null;
