@@ -1,5 +1,9 @@
 import Markdown from "react-markdown";
-import { getPreparationName, getZodiacMetadataForDate, type Zodiac } from "../lib/zodiac";
+import {
+  getPreparationName,
+  getZodiacMetadataForDate,
+  type Zodiac,
+} from "../lib/zodiac";
 import { type AllZodiacData } from "../lib/data";
 import Bean from "./Bean";
 import BeanBadge from "./BeanBadge";
@@ -35,7 +39,9 @@ export default function ZodiacIdentity({
     <div className="flex flex-col items-center text-center gap-6 animate-fade-up">
       <section className="flex flex-col items-center gap-2">
         <h2 className="mb-2 flex flex-col items-center font-bold">
-          <span className="block text-md sm:text-xl mb-2 sm:mb-4">You are the</span>
+          <span className="block text-md sm:text-xl mb-2 sm:mb-4">
+            {hasClaimed ? "The" : "You are the"}
+          </span>
           <span className="block text-4xl sm:text-7xl mb-3 sm:mb-7">
             <ZodiacName
               flavourId={metadata.flavourId}
@@ -65,14 +71,19 @@ export default function ZodiacIdentity({
             <BeanBadge id={metadata.beanId} name={bean.name} />
           </span>
         </div>
-        {zodiac && <ZodiacDish dish={zodiac.dish} className="max-w-lg w-full mb-2 sm:mb-4" />}
+        {zodiac && (
+          <ZodiacDish
+            dish={zodiac.dish}
+            className="max-w-lg w-full mb-2 sm:mb-4"
+          />
+        )}
       </section>
       {zodiac && (
         <section className="max-w-xl markdown-content">
           <Markdown>{zodiac.content}</Markdown>
         </section>
       )}
-      {onClaim !== undefined && (
+      {onClaim !== undefined && !hasClaimed && (
         <div className="relative h-14 w-full max-w-sm flex items-center justify-center mt-1">
           <button
             onClick={onClaim}
@@ -85,12 +96,6 @@ export default function ZodiacIdentity({
             className={`absolute inset-0 flex items-center justify-center text-zinc-300 transition-all duration-300 underline ${claimed ? "opacity-100 translate-y-0 delay-300" : "opacity-0 translate-y-2 pointer-events-none"}`}
           >
             You are ready to receive the Bean's wisdom
-          </a>
-          <a
-            href={`/compatibility?b=${date.getFullYear()}-${String(date.getMonth() + 1).padStart(2, "0")}-${String(date.getDate()).padStart(2, "0")}`}
-            className={`absolute inset-0 flex items-center justify-center bg-zinc-900/80 border-2 border-zinc-500/60 text-white rounded-xl px-8 font-bold backdrop-blur-sm transition-opacity duration-300 hover:border-zinc-400 hover:bg-zinc-800/80 no-underline ${hasClaimed ? "opacity-100" : "opacity-0 pointer-events-none"}`}
-          >
-            Check compatibility →
           </a>
         </div>
       )}

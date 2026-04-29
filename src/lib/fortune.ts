@@ -67,6 +67,16 @@ const makeFallbackDimensions = (index: number, d: number): DailyDimensions => ({
   formId: FORM_ORDER[(((d * 7 + index * 5) % 6) + 6) % 6],
 });
 
+// Deterministic hash mixing two integers — breaks the periodic patterns that
+// simple modulo arithmetic creates when one operand is constant within a season.
+const h32 = (a: number, b: number): number => {
+  let h = Math.imul(a ^ (b * 0x9e3779b9), 0x85ebca6b) >>> 0;
+  h ^= h >>> 16;
+  h = Math.imul(h, 0x45d9f3b) >>> 0;
+  h ^= h >>> 16;
+  return h;
+};
+
 const getFortuneZodiacId = (
   date: Date,
   personal: DailyDimensions,
@@ -88,17 +98,17 @@ const getFortuneZodiacId = (
     FLAVOUR_ORDER.indexOf(seasonal.flavourId) * FORM_ORDER.length +
     FORM_ORDER.indexOf(seasonal.formId);
 
-  const phase = (((d + personalIndex) % 6) + 6) % 6;
+  const phase = h32(d, personalIndex ^ (seasonalIndex << 9)) % 6;
 
-  // Personal and seasonal participate 50% and 33% of the time respectively.
+  // Personal and seasonal participate ~50% and ~33% of the time respectively.
   // When inactive, a unique fallback is derived from their index so each bean
   // gets its own deterministic substitute rather than the shared daily bean.
   const P =
-    (d + personalIndex) % 2 === 0
+    h32(d, personalIndex) % 2 === 0
       ? personal
       : makeFallbackDimensions(personalIndex, d);
   const S =
-    (d + seasonalIndex) % 3 === 0
+    h32(d, seasonalIndex ^ 0xdeadbeef) % 3 === 0
       ? seasonal
       : makeFallbackDimensions(seasonalIndex, d);
 

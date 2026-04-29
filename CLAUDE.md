@@ -65,14 +65,15 @@ All fortunes: one sentence, one em dash allowed, no qualifying statements.
 
 ### Compatibility
 
-Scores across bean, flavour, form — each −1/0/+1/+2 — total −4 to +4.
+Scores across bean, flavour, form, and special - total -3 to +4.
 
 - `getBeanCompatibility(a, b)` — 78 entries
 - `getFlavourCompatibility(a, b)` — 15 entries
 - `getFormCompatibility(a, b)` — 21 entries
+- `getSpecialCompatibilityDetail(a, b)` — cross-attribute bonus; checks bean×flavour, bean×form, flavour×form (both orderings) against `SPECIAL_COMPATIBILITY`; returns `{ entry, attrA, attrB }` or `null`
 - `getTotalCompatibility(metaA, metaB)` → `{ score, label, description }` from `TOTAL_COMPATIBILITY`
 
-All lookups sort IDs alphabetically before joining as key.
+All lookups sort IDs alphabetically before joining as key. Special compatibility keys are the same format (e.g. `"adzuki-sweet"`, `"bitter-fermented"`).
 
 ### Data Architecture
 

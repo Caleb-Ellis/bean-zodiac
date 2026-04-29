@@ -1,10 +1,26 @@
-import { useRef, useState } from "react";
-import { getZodiacMetadataForDate, type Zodiac, type ZodiacId } from "../lib/zodiac";
+import { useEffect, useRef, useState } from "react";
+import {
+  getZodiacMetadataForDate,
+  type BeanId,
+  type FlavourId,
+  type FormId,
+  type Zodiac,
+  type ZodiacId,
+} from "../lib/zodiac";
 import { fetchZodiac, type AllZodiacData } from "../lib/data";
 import { getClaimedBeanSlug, setClaimedBeanSlug } from "../lib/claimedBean";
 import { addMetBean } from "../lib/metBeans";
 import ZodiacWheel, { BEANS_LETTERS } from "./ZodiacWheel";
 import ZodiacIdentity from "./ZodiacIdentity";
+import {
+  CompatibilityResult,
+  CALCULATING_TEXTS,
+  CALC_CYCLE_MS,
+  CALC_FADE_MS,
+  CALC_NUM_TEXTS,
+  REVEAL_STEP_MS,
+  type MetaSlice,
+} from "./CompatibilityResult";
 
 type Props = {
   data: AllZodiacData;
@@ -30,6 +46,15 @@ const MORE_BEANS_LABELS = [
   "I Have a Need. A Need for Beans",
 ];
 
+function parseClaimedSlug(slug: ZodiacId): MetaSlice {
+  const [flavourId, formId, beanId] = slug.split("-") as [
+    FlavourId,
+    FormId,
+    BeanId,
+  ];
+  return { flavourId, formId, beanId };
+}
+
 export default function ZodiacWheelContainer({ data }: Props) {
   const [inputDate, setInputDate] = useState<string>(() => {
     const param = getDateParam();
@@ -39,19 +64,24 @@ export default function ZodiacWheelContainer({ data }: Props) {
     const param = getDateParam();
     return param ? parseDateInputValue(param) : null;
   });
-  const [claimedSlug, setClaimedSlug] = useState<ZodiacId | null>(getClaimedBeanSlug);
+  const [claimedSlug, setClaimedSlug] = useState<ZodiacId | null>(
+    getClaimedBeanSlug,
+  );
   const [zodiac, setZodiac] = useState<Zodiac | null>(null);
   const [justClaimed, setJustClaimed] = useState(false);
   const topRef = useRef<HTMLDivElement>(null);
   const wheelRef = useRef<HTMLDivElement>(null);
   const [spinning, setSpinning] = useState(false);
-  // resultMounted: whether the result is in the DOM at all
-  const [resultMounted, setResultMounted] = useState<boolean>(() => !!getDateParam());
-  // resultVisible: drives the opacity transition (mount first, then set true)
-  const [resultVisible, setResultVisible] = useState<boolean>(() => !!getDateParam());
+  const [resultMounted, setResultMounted] = useState<boolean>(
+    () => !!getDateParam(),
+  );
+  const [resultVisible, setResultVisible] = useState<boolean>(
+    () => !!getDateParam(),
+  );
 
   const [moreBeanLabel, setMoreBeanLabel] = useState(
-    () => MORE_BEANS_LABELS[Math.floor(Math.random() * MORE_BEANS_LABELS.length)],
+    () =>
+      MORE_BEANS_LABELS[Math.floor(Math.random() * MORE_BEANS_LABELS.length)],
   );
 
   const [highlighted, setHighlighted] = useState(() => !!getDateParam());
@@ -59,8 +89,36 @@ export default function ZodiacWheelContainer({ data }: Props) {
   const [beansVisible, setBeansVisible] = useState(false);
   const [beansLetterCount, setBeansLetterCount] = useState(0);
 
-  // Controls are hidden while wheel is spinning or result is mounted (even pre-fade-in)
+  // Compatibility state
+  const compatGenerationRef = useRef(0);
+  const [compatMounted, setCompatMounted] = useState(false);
+  const [compatVisible, setCompatVisible] = useState(false);
+  const [compatKey, setCompatKey] = useState(0);
+  const [compatMetaA, setCompatMetaA] = useState<MetaSlice | null>(null);
+  const [compatMetaB, setCompatMetaB] = useState<MetaSlice | null>(null);
+  const [compatRevealedCount, setCompatRevealedCount] = useState(0);
+  const [compatCalculatingText, setCompatCalculatingText] = useState<
+    string | null
+  >(null);
+  const [compatCalculatingVisible, setCompatCalculatingVisible] =
+    useState(false);
+
+  useEffect(() => {
+    if (selectedDate && !zodiac) {
+      const zodiacId = getZodiacMetadataForDate(selectedDate).zodiacId;
+      fetchZodiac(zodiacId).then(setZodiac);
+    }
+  }, []);
+
   const controlsHidden = spinning || resultMounted;
+
+  // Whether to show the compat button: claimed bean exists and result is for a different zodiac
+  const showCompatButton =
+    claimedSlug &&
+    selectedDate &&
+    resultVisible &&
+    !compatMounted &&
+    getZodiacMetadataForDate(selectedDate).zodiacId !== claimedSlug;
 
   function handleReveal() {
     if (!inputDate) return;
@@ -75,11 +133,14 @@ export default function ZodiacWheelContainer({ data }: Props) {
       setResultMounted(false);
       setResultVisible(false);
       setSelectedDate(parsed);
+      // Reset compat when spinning to a new date
+      setCompatMounted(false);
+      setCompatVisible(false);
+      compatGenerationRef.current++;
       const url = new URL(window.location.href);
       url.searchParams.set("date", inputDate);
       window.history.pushState({}, "", url);
 
-      // Stream in BEANS letters
       setBeansLetterCount(0);
       setBeansVisible(true);
       let count = 0;
@@ -95,7 +156,6 @@ export default function ZodiacWheelContainer({ data }: Props) {
       setTimeout(() => {
         setSpinning(false);
         setResultMounted(true);
-        // Delay so the browser paints opacity-0 before transitioning to opacity-100
         setTimeout(
           () => requestAnimationFrame(() => setResultVisible(true)),
           RESULT_MOUNT_DELAY_MS,
@@ -106,7 +166,8 @@ export default function ZodiacWheelContainer({ data }: Props) {
 
   function handleClaim() {
     if (!selectedDate) return;
-    const { flavourId, formId, beanId } = getZodiacMetadataForDate(selectedDate);
+    const { flavourId, formId, beanId } =
+      getZodiacMetadataForDate(selectedDate);
     const slug: ZodiacId = `${flavourId}-${formId}-${beanId}`;
     setClaimedBeanSlug(slug);
     setClaimedSlug(slug);
@@ -116,18 +177,81 @@ export default function ZodiacWheelContainer({ data }: Props) {
   function handleReset() {
     setHighlighted(false);
     setJustClaimed(false);
-    setSpinning(true); // keep controls hidden while result fades out
+    setSpinning(true);
     setResultVisible(false);
+    setCompatMounted(false);
+    setCompatVisible(false);
+    compatGenerationRef.current++;
     setTimeout(() => {
       setResultMounted(false);
       setSpinning(false);
-      setMoreBeanLabel(MORE_BEANS_LABELS[Math.floor(Math.random() * MORE_BEANS_LABELS.length)]);
+      setMoreBeanLabel(
+        MORE_BEANS_LABELS[Math.floor(Math.random() * MORE_BEANS_LABELS.length)],
+      );
       const url = new URL(window.location.href);
       url.searchParams.delete("date");
       window.history.pushState({}, "", url);
-      // Scroll after unmount so the page height is settled — no bounce
       topRef.current?.scrollIntoView({ behavior: "smooth", block: "start" });
     }, FADE_MS);
+  }
+
+  function handleCheckCompatibility() {
+    if (!claimedSlug || !selectedDate) return;
+
+    const generation = ++compatGenerationRef.current;
+    const guard = (fn: () => void) => () => {
+      if (compatGenerationRef.current === generation) fn();
+    };
+
+    const resolvedMetaA = parseClaimedSlug(claimedSlug);
+    const resolvedMetaB: MetaSlice = getZodiacMetadataForDate(selectedDate);
+
+    setCompatRevealedCount(0);
+    setCompatCalculatingVisible(false);
+
+    setCompatMetaA(resolvedMetaA);
+    setCompatMetaB(resolvedMetaB);
+    setCompatKey((k) => k + 1);
+    setCompatMounted(true);
+    setCompatVisible(true);
+
+    const shuffled = [...CALCULATING_TEXTS].sort(() => Math.random() - 0.5);
+    const texts = shuffled.slice(0, CALC_NUM_TEXTS);
+
+    setCompatCalculatingText(texts[0]);
+    requestAnimationFrame(guard(() => setCompatCalculatingVisible(true)));
+
+    for (let i = 1; i < CALC_NUM_TEXTS; i++) {
+      setTimeout(
+        guard(() => setCompatCalculatingVisible(false)),
+        i * CALC_CYCLE_MS - CALC_FADE_MS,
+      );
+      setTimeout(
+        guard(() => {
+          setCompatCalculatingText(texts[i]);
+          requestAnimationFrame(guard(() => setCompatCalculatingVisible(true)));
+        }),
+        i * CALC_CYCLE_MS,
+      );
+    }
+
+    const revealAt = CALC_NUM_TEXTS * CALC_CYCLE_MS;
+    setTimeout(
+      guard(() => setCompatCalculatingVisible(false)),
+      revealAt - CALC_FADE_MS,
+    );
+    setTimeout(
+      guard(() => {
+        setCompatCalculatingText(null);
+        for (let i = 1; i <= 4; i++) {
+          setTimeout(
+            guard(() => setCompatRevealedCount(i)),
+            i * REVEAL_STEP_MS,
+          );
+        }
+      }),
+      revealAt,
+    );
   }
 
   return (
@@ -139,7 +263,6 @@ export default function ZodiacWheelContainer({ data }: Props) {
           beansLetterCount={beansLetterCount}
           beansVisible={beansVisible}
         />
-        {/* Scroll-down chevron — absolutely positioned at bottom of wheel */}
         <div
           className={`absolute -bottom-2 left-1/2 -translate-x-1/2 transition-opacity duration-500 ${resultVisible ? "opacity-100" : "opacity-0"}`}
           style={{ filter: "drop-shadow(0 0 8px rgba(161,161,170,0.7))" }}
@@ -158,13 +281,14 @@ export default function ZodiacWheelContainer({ data }: Props) {
           </svg>
         </div>
       </div>
-      {/* Fixed-height slot — controls and BEANS text both live here so layout never shifts */}
       <div
         className={`relative w-full flex items-center justify-center overflow-hidden transition-all duration-300 ${resultMounted ? "h-0" : "h-36"}`}
       >
         <section
           className={`absolute w-full px-6 flex flex-col items-center gap-3 transition-opacity duration-300 ${
-            controlsHidden ? "opacity-0 pointer-events-none select-none" : "opacity-100"
+            controlsHidden
+              ? "opacity-0 pointer-events-none select-none"
+              : "opacity-100"
           }`}
         >
           <input
@@ -196,6 +320,36 @@ export default function ZodiacWheelContainer({ data }: Props) {
             claimed={justClaimed}
             hasClaimed={!!claimedSlug && !justClaimed}
           />
+
+          {showCompatButton && (
+            <div className="mt-8 animate-fade-up">
+              <button
+                onClick={handleCheckCompatibility}
+                className="link text-base text-zinc-300 hover:text-white transition-colors cursor-pointer bg-transparent border-none p-0"
+              >
+                Check Compatibility →
+              </button>
+            </div>
+          )}
+
+          {compatMounted && compatMetaA && compatMetaB && (
+            <div
+              className={`mt-10 px-4 py-6 w-full flex flex-col items-center gap-8 transition-opacity duration-300 ${
+                compatVisible ? "opacity-100" : "opacity-0"
+              }`}
+            >
+              <CompatibilityResult
+                key={compatKey}
+                data={data}
+                metaA={compatMetaA}
+                metaB={compatMetaB}
+                revealedCount={compatRevealedCount}
+                calculatingText={compatCalculatingText}
+                calculatingVisible={compatCalculatingVisible}
+              />
+            </div>
+          )}
+
           <div className="mt-8 flex flex-col items-center gap-6">
             <button
               onClick={handleReset}
@@ -223,7 +377,6 @@ export default function ZodiacWheelContainer({ data }: Props) {
   );
 }
 
-// Returns the `date` query param value (YYYY-MM-DD) if present and valid.
 function getDateParam(): string | null {
   if (typeof window === "undefined") return null;
   const value = new URLSearchParams(window.location.search).get("date");
@@ -233,7 +386,8 @@ function getDateParam(): string | null {
 
 function smoothScrollToCenter(el: HTMLElement, duration = 1200) {
   const rect = el.getBoundingClientRect();
-  const targetY = window.scrollY + rect.top + rect.height / 2 - window.innerHeight / 2;
+  const targetY =
+    window.scrollY + rect.top + rect.height / 2 - window.innerHeight / 2;
   const startY = window.scrollY;
   const diff = targetY - startY;
   const start = performance.now();

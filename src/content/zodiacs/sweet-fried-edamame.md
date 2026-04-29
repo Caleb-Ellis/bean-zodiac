@@ -5,7 +5,7 @@ flavour: sweet
 form: fried
 trait: motivated
 dish: Honey butter fried edamame — soybeans deep-fried until blistered, tossed hot in honey butter and flaked salt.
-quote: The secret of getting ahead is getting bean started.
+quote: The secret of getting ahead is getting beaned.
 seasonalFortune: A momentum will build — check the compass, because what you are moving toward still needs to be yours.
 dailyNeutral: Set the target and move toward it — the energy is there.
 dailyGood: The momentum is building faster than you can track — trust it.

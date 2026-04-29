@@ -25,7 +25,10 @@ export default function MiniIdentity({
       <div className="h-48 flex items-center justify-center">
         <Bean bean={bean} flavourId={flavourId} formId={formId} />
       </div>
-      <p className="font-bold text-lg leading-tight">
+      <a
+        href={`/zodiacs/${flavourId}-${formId}-${beanId}`}
+        className="font-bold text-lg leading-tight no-underline hover:underline"
+      >
         <ZodiacName
           flavourId={flavourId}
           formId={formId}
@@ -33,7 +36,7 @@ export default function MiniIdentity({
           preparation={preparation}
           beanName={beanName}
         />
-      </p>
+      </a>
     </div>
   );
 }
