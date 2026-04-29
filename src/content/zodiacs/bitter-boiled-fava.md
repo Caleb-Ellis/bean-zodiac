@@ -5,7 +5,7 @@ flavour: bitter
 form: boiled
 trait: courageous
 dish: Macco di Fave - fava beans with wild chicory.
-quote: Courage is not the absence of bean, but the triumph over it.
+quote: Courage is not the absence of beans, but the triumph over it.
 seasonalFortune: The hard thing is closer than it appears — before it arrives, verify it is worth the courage it will require.
 dailyNeutral: The difficult thing is waiting — decide whether it is worth the cost before you begin.
 dailyGood: Move toward it; the preparation is complete enough.

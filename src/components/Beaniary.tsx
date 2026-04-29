@@ -35,23 +35,28 @@ function BeaniaryEntry({
   if (!bean) return null;
 
   return (
-    <li className="rounded-2xl border-2 border-zinc-800 bg-zinc-900 p-4 flex flex-col items-center justify-center gap-3 min-h-40">
-      <div
-        className="flex items-center justify-center"
-        style={{ width: "3.5rem", height: "5rem" }}
+    <li className="rounded-2xl border-2 border-zinc-800 bg-zinc-900 min-h-40">
+      <a
+        href={`/zodiacs/${zodiacId}`}
+        className="no-underline p-4 flex flex-col items-center justify-center gap-3 h-full w-full"
       >
-        <Bean bean={bean} flavourId={flavourId} formId={formId} />
-      </div>
-      <p className="text-xs font-bold uppercase tracking-wide text-zinc-200 leading-tight text-center">
-        <ZodiacName
-          flavourId={flavourId}
-          formId={formId}
-          beanId={beanId}
-          preparation={preparation}
-          beanName={bean.name}
-          zodiacId={zodiacId}
-        />
-      </p>
+        <div
+          className="flex items-center justify-center"
+          style={{ width: "3.5rem", height: "5rem" }}
+        >
+          <Bean bean={bean} flavourId={flavourId} formId={formId} />
+        </div>
+        <p className="text-xs font-bold uppercase tracking-wide text-zinc-200 leading-tight text-center">
+          <ZodiacName
+            flavourId={flavourId}
+            formId={formId}
+            beanId={beanId}
+            preparation={preparation}
+            beanName={bean.name}
+            zodiacId={zodiacId}
+          />
+        </p>
+      </a>
     </li>
   );
 }

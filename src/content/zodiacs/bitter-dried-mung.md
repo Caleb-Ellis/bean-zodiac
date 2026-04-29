@@ -5,7 +5,7 @@ flavour: bitter
 form: dried
 trait: clinical
 dish: Moong Dal - mung beans with methi and turmeric.
-quote: First, do no bean.
+quote: First, do no harm to beans.
 seasonalFortune: A moment will arrive that resists measurement — allow the warmth that serves no function, just to prove it still works.
 dailyNeutral: See what is depleted and apply exactly what is needed — no more, no less.
 dailyGood: The diagnosis is accurate; apply the correct measure without deviation.

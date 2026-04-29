@@ -13,6 +13,8 @@ import { fetchZodiac, type AllZodiacData } from "../lib/data";
 import {
   addFortuneToHistory,
   clearFortuneHistory,
+  getFortuneHistory,
+  updateFortuneScore,
 } from "../lib/fortuneHistory";
 import { addMetBean, clearMetBeans } from "../lib/metBeans";
 import Bean from "./Bean";
@@ -65,15 +67,16 @@ export default function ClaimedBeanResult({
   const [fortuneFlavourId, fortuneFormId, fortuneBeanId] =
     fortuneZodiacId.split("-") as [FlavourId, FormId, BeanId];
   const fortuneBean = data.beans[fortuneBeanId];
-  const fortuneFlavour = data.flavours[fortuneFlavourId];
-  const fortuneForm = data.forms[fortuneFormId];
   const fortunePreparation = getPreparationName(
     fortuneFlavourId,
     fortuneFormId,
   );
 
+  const localDateStr = `${date.getFullYear()}-${String(date.getMonth() + 1).padStart(2, "0")}-${String(date.getDate()).padStart(2, "0")}`;
+
   const [seasonalZodiac, setSeasonalZodiac] = useState<Zodiac | null>(null);
   const [fortuneZodiac, setFortuneZodiac] = useState<Zodiac | null>(null);
+  const [score, setScore] = useState(0);
 
   useEffect(() => {
     Promise.all([
@@ -82,18 +85,26 @@ export default function ClaimedBeanResult({
     ]).then(([seasonal, fortune]) => {
       setSeasonalZodiac(seasonal);
       setFortuneZodiac(fortune);
-      const localDateStr = `${date.getFullYear()}-${String(date.getMonth() + 1).padStart(2, "0")}-${String(date.getDate()).padStart(2, "0")}`;
       addFortuneToHistory({
         date: localDateStr,
         zodiacId: fortuneZodiacId,
         qualityId,
         text: getFortuneText(fortune, qualityId),
+        score: 0,
       });
+      const existing = getFortuneHistory().find((e) => e.date === localDateStr);
+      setScore(existing?.score ?? 0);
       addMetBean(claimedSlug);
       addMetBean(seasonalMeta.zodiacId);
       addMetBean(fortuneZodiacId);
     });
   }, []);
+
+  const handleScore = (v: number) => {
+    const newScore = score === v ? 0 : v;
+    updateFortuneScore(localDateStr, newScore);
+    setScore(newScore);
+  };
 
   const fortuneText = fortuneZodiac
     ? getFortuneText(fortuneZodiac, qualityId)
@@ -113,14 +124,14 @@ export default function ClaimedBeanResult({
           </p>
           <div className="flex flex-col gap-6 w-full">
             <div className="flex items-center gap-4 sm:gap-6 w-full">
-              <div className="shrink-0" style={{ width: "6rem" }}>
+              <a href={`/zodiacs/${fortuneZodiacId}`} className="shrink-0 block no-underline" style={{ width: "6rem" }}>
                 <Bean
                   bean={fortuneBean}
                   flavourId={fortuneFlavourId}
                   formId={fortuneFormId}
                   qualityId={qualityId}
                 />
-              </div>
+              </a>
               <div className="flex flex-col items-start gap-2 min-w-0">
                 <p className="text-sm sm:text-base font-bold uppercase tracking-widest text-zinc-200 text-left mb-2">
                   <ZodiacName
@@ -138,15 +149,24 @@ export default function ClaimedBeanResult({
                     "{fortuneText}"
                   </p>
                 )}
-                <div className="flex flex-wrap items-center gap-2 text-sm text-zinc-400 mt-1">
-                  <FlavourBadge
-                    id={fortuneFlavourId}
-                    name={fortuneFlavour.name}
-                  />
-                  <span className="text-zinc-600">×</span>
-                  <FormBadge id={fortuneFormId} name={fortuneForm.name} />
-                  <span className="text-zinc-600">×</span>
-                  <BeanBadge id={fortuneBeanId} name={fortuneBean.name} />
+                <div className="flex flex-wrap items-center gap-3 text-sm">
+                  <span className="text-zinc-400">Did this resonate?</span>
+                  <div className="flex gap-3">
+                    <button
+                      onClick={() => handleScore(1)}
+                      aria-label="Thumbs up — Yes"
+                      className={`flex items-center gap-1.5 px-2.5 py-1 rounded-full border text-sm transition-colors cursor-pointer ${score === 1 ? "bg-zinc-400 border-zinc-400 text-zinc-900" : "bg-transparent border-zinc-700 text-zinc-500 hover:border-zinc-500 hover:text-zinc-300"}`}
+                    >
+                      <span>👍</span> Yes
+                    </button>
+                    <button
+                      onClick={() => handleScore(-1)}
+                      aria-label="Thumbs down — No"
+                      className={`flex items-center gap-1.5 px-2.5 py-1 rounded-full border text-sm transition-colors cursor-pointer ${score === -1 ? "bg-zinc-400 border-zinc-400 text-zinc-900" : "bg-transparent border-zinc-700 text-zinc-500 hover:border-zinc-500 hover:text-zinc-300"}`}
+                    >
+                      <span>👎</span> No
+                    </button>
+                  </div>
                 </div>
               </div>
             </div>
@@ -188,10 +208,10 @@ export default function ClaimedBeanResult({
             📖&nbsp; The Legunomicon
           </a>
           <a
-            href={`/zodiacs/${claimedSlug}`}
+            href="/me"
             className="flex items-center gap-1.5 px-3 py-1.5 rounded-full bg-zinc-900 border-2 border-zinc-700 hover:border-zinc-500 transition-colors no-underline text-zinc-300"
           >
-            About Me →
+            👤&nbsp; About Me
           </a>
         </div>
         <section className="mt-6 sm:mt-8 max-w-3xl w-full flex flex-col items-center gap-4">

@@ -1,0 +1,19 @@
+---
+import { getCollection } from "astro:content";
+import MePage from "../components/MePage.tsx";
+import Layout from "../layouts/Layout.astro";
+import { buildAllZodiacData } from "../lib/data";
+import "../styles/global.css";
+
+const beanCollection = await getCollection("beans");
+const flavourCollection = await getCollection("flavours");
+const formCollection = await getCollection("forms");
+
+const data = buildAllZodiacData(beanCollection, flavourCollection, formCollection);
+---
+
+<Layout title="About Me" description="Your Bean identity and Spirit Bean">
+  <section class="flex flex-col my-6 sm:my-12">
+    <MePage data={data} client:load />
+  </section>
+</Layout>

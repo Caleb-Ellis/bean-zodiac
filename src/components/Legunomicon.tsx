@@ -55,6 +55,11 @@ function FortuneCard({ entry, data }: { entry: FortuneEntry; data: AllZodiacData
           <FormBadge id={formId} name={data.forms[formId].name} small />
           <span className="text-zinc-600">×</span>
           <BeanBadge id={beanId} name={bean.name} small />
+          {(entry.score ?? 0) !== 0 && (
+            <span className="text-zinc-500 text-xs ml-1">
+              {entry.score === 1 ? "👍 Resonated" : "👎 Didn't resonate"}
+            </span>
+          )}
         </div>
       </div>
     </li>

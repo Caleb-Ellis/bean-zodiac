@@ -5,7 +5,7 @@ flavour: bitter
 form: dried
 trait: hardened
 dish: Louisiana Red Beans and Rice - with mustard greens.
-quote: What lies behind us and what lies before us are tiny matters compared to what lies bean us.
+quote: What lies behind us and what lies before us are tiny matters compared to what lies between beans.
 seasonalFortune: A density you carry will be mistaken for distance — find what is trying to get in, and leave a small opening.
 dailyNeutral: The difficulty has added density, not damage — carry it forward as strength.
 dailyGood: What would have broken something else has only made you denser — let it show.

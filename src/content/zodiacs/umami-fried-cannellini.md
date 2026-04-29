@@ -10,8 +10,8 @@ seasonalFortune: A principle will want to be examined — not to revise it, but 
 dailyNeutral: Hold to it — the principle you are standing on is the right ground to be standing on.
 dailyGood: Let the principle be the whole decision — there is no part of this that falls outside it.
 dailyBest: Stand entirely on what you know to be right — the principle holds, and so do you.
-dailyBad: The principle is holding a position that no longer serves it — and revision is being refused on principle.
-dailyWorst: The standard has hardened — revision is no longer possible, only alignment.
+dailyBad: The principle is being held too rigidly — consider if it still fits.
+dailyWorst: The principle has hardened into dogma — leaving no room to question or adapt.
 ---
 
 Tempura Cannellini Beans are the Bean Zodiac's most principled — they act at heat, without waiting to see which way the room goes.

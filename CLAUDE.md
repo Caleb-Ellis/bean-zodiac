@@ -39,8 +39,9 @@ A **Preparation** = Flavour × Form name (30 total). Lookup: `getPreparationName
 - `/` — "The Season of the [Preparation] [Bean]" when no claimed bean, "You are the [Preparation] [Bean]" when bean claimed, alongside daily fortune bean.
 - `/wheel` — date picker → "You are the [Preparation] [Bean]". Shareable via `?date=YYYY-MM-DD`.
 - `/compatibility` — date picker for a second bean; if a bean is claimed it's used as the first. Shareable via `?b=YYYY-MM-DD`.
-- `/legunomicon` — chronological history of daily fortune entries (requires a claimed bean to populate).
+- `/legunomicon` — chronological history of daily fortune entries; shows resonance vote indicator per entry.
 - `/beaniary` — compendium grid of all 360 zodiacs; met beans show image + name, unmet show a black bean emoji.
+- `/me` — claimed bean's full zodiac page + Spirit Bean radar charts (see below).
 - `/beans/`, `/beans/[slug]`, `/flavours/`, `/flavours/[slug]`, `/forms/`, `/forms/[slug]`, `/zodiacs/[slug]`
 
 ### Daily Fortunes
@@ -95,9 +96,18 @@ Client props use `ZodiacSliceData` (beans + flavours + forms only) — not the f
 
 The claimed bean slug is stored in localStorage under the key `bean-zodiac-claimed`. A `<script is:inline>` in `Layout.astro`'s `<head>` pre-reads it into `window.__claimedBean` before React hydrates, so components can initialise state synchronously (no post-mount flicker). Helpers in `src/lib/claimedBean.ts`: `getClaimedBeanSlug`, `setClaimedBeanSlug`, `clearClaimedBeanSlug`.
 
-**Fortune history** — daily fortune entries stored under `bean-zodiac-fortune-history` as `FortuneEntry[]` (date, zodiacId, qualityId, text), newest first. Helpers in `src/lib/fortuneHistory.ts`: `getFortuneHistory`, `addFortuneToHistory`, `clearFortuneHistory`. Populated by `ClaimedBeanResult` on mount.
+**Fortune history** — daily fortune entries stored under `bean-zodiac-fortune-history` as `FortuneEntry[]` (date, zodiacId, qualityId, text, score), newest first. `score`: 0 = no vote, +1 = thumbs up, -1 = thumbs down. Helpers in `src/lib/fortuneHistory.ts`: `getFortuneHistory`, `addFortuneToHistory`, `updateFortuneScore`, `clearFortuneHistory`. `ClaimedBeanResult` shows "Did this resonate?" 👍 Yes / 👎 No buttons below the daily fortune; vote is toggleable.
 
 **Met beans** — set of encountered zodiac IDs stored under `bean-zodiac-met-beans` as `ZodiacId[]`, newest first. Helpers in `src/lib/metBeans.ts`: `getMetBeans`, `addMetBean`, `clearMetBeans`. Recorded in three places: `ClaimedBeanResult` (claimed bean + seasonal bean + daily fortune bean on mount), `ZodiacWheelContainer` (any discovered bean on spin). On first visit to `/beaniary`, backfills from fortune history if the key is absent. All three localStorage stores are wiped together when the user relinquishes their bean.
+
+### Spirit Bean (`/me`)
+
+Three SVG radar charts (flavour, form, bean) showing affinity scores. Rendered by `SpiritBeanRadar.tsx` (custom SVG, no library). Score computation in `MePage.tsx`:
+
+- Baseline: all attributes start at 5.
+- Claimed bean's flavour/form/bean each get +5.
+- Each thumbs-up fortune adds +1 to that zodiac's flavour, form, and bean; thumbs-down subtracts 1.
+- Charts auto-scale to max value (floor 10). Labels use per-attribute CSS color variables.
 
 ### Styling
 

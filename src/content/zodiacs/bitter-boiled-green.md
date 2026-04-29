@@ -5,7 +5,7 @@ flavour: bitter
 form: boiled
 trait: inquisitive
 dish: Minestrone - green beans and puntarelle.
-quote: The important thing is not to stop bean questioning.
+quote: The important thing is not to stop questioning beans.
 seasonalFortune: One of the threads you are following will arrive at an answer — let it close before you follow the next one.
 dailyNeutral: Follow one thread — and let it close before you open another.
 dailyGood: The question you keep revisiting already has an answer; receive it.

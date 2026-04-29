@@ -5,7 +5,7 @@ flavour: sweet
 form: dried
 trait: tender
 dish: Lǜdòu gāo — dried mung beans ground fine and pressed with sugar into flower-shaped cakes.
-quote: The most beautiful things in the world cannot be seen or touched — they must be bean with the heart.
+quote: The most beautiful things in the world cannot be seen or touched — they must be seen with the bean.
 seasonalFortune: The softness will be tested — protect it without armoring it.
 dailyNeutral: Bring the softness — it is welcome here.
 dailyGood: The tenderness you carry is doing more than the harder approach would.
