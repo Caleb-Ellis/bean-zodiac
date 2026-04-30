@@ -10,8 +10,8 @@ seasonalFortune: The pattern you have been watching is about to repeat — do so
 dailyNeutral: The observation forming is accurate — let it find the right moment.
 dailyGood: The angle you are seeing from is the correct one; say what it shows.
 dailyBest: The wry read is the true one — deliver it, and let the room work out what to do with it.
-dailyBad: The wry distance will feel like a read — and close what it was observing.
-dailyWorst: The observation will be correct, and nothing that was open will remain so.
+dailyBad: A straighter engagement is what's wanted — the observation landed as condescension.
+dailyWorst: Nothing is connecting — the wry distance has been given the credit, and the people saying it are not wrong.
 ---
 
 Dehydrated Chickpeas are the Bean Zodiac's most wry — they have seen too much of the world to take any of it entirely at face value.

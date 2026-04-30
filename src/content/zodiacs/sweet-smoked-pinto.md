@@ -8,10 +8,10 @@ dish: Frijoles charros - pinto beans simmered with smoked bacon, chipotle, sweet
 quote: I see bean people.
 seasonalFortune: A story will be vivid but you will want to stay just out of reach — be fully in the thing you are expressing, so the room has someone to receive it.
 dailyNeutral: Let your presence be felt even where it is not fully declared.
-dailyGood: The impression you leave today will be carrying on long after you have moved through.
+dailyGood: The impression you leave will be carrying on long after you have moved through.
 dailyBest: Be the thing that remains — step fully into the story and let the room feel you entirely.
-dailyBad: The ghostliness today has gone past atmosphere — you are simply not present and the room can tell.
-dailyWorst: The fading has been so complete that what is there is no longer part of what is happening — what remains is less than a presence.
+dailyBad: The atmosphere has gone past presence — the room can tell you are not fully in it.
+dailyWorst: The fading has been so complete that the people around you have stopped accounting for you in what they are doing.
 ---
 
 Barbecued Pinto Beans are the Bean Zodiac's most ghostly — the story is vivid, but the teller is somewhere just out of reach.

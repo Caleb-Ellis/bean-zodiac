@@ -8,9 +8,9 @@ dish: Green beans roasted with pomegranate molasses and toasted almonds — char
 quote: Consistency is the last refuge of the unimaginative bean.
 seasonalFortune: A direction will change — tell the Beans counting on you before it does.
 dailyNeutral: Change direction — the new one is more interesting.
-dailyGood: The pivot you make today will free something that was stuck.
-dailyBest: Go where the feeling takes you — the caprice is the right navigator today.
-dailyBad: The whimsy today is not harmless — things were started and then abandoned and the room is still waiting.
+dailyGood: The pivot you make will free something that was stuck.
+dailyBest: Go where the feeling takes you — it is the right navigator for exactly this.
+dailyBad: Things were started and then abandoned — and the room is still waiting.
 dailyWorst: Direction has changed so many times that nothing is where it was left — including the people who were following.
 ---
 

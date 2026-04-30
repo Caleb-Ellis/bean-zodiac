@@ -10,8 +10,8 @@ seasonalFortune: What has begun will not arrive yet — tend it consistently rat
 dailyNeutral: Tend what is beginning — the growth you are in is real even when it is small.
 dailyGood: Give it consistent attention — what you are growing is alive and it needs you.
 dailyBest: Stay with the emergence — the full opening is on its way, and your tending is what will get it there.
-dailyBad: The result is being demanded before the depth has had time to form — what opens now will open incomplete.
-dailyWorst: The opening is premature — what emerges has not had time to fully form.
+dailyBad: The result is being demanded before the depth has had time to form.
+dailyWorst: Completion is being insisted on — what is still opening is being treated as already late.
 ---
 
 Burnished Green Beans are the Bean Zodiac's most budding — the urgency is real, but the depth is still forming, and something essential has not yet arrived.

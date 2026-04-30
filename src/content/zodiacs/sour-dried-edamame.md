@@ -10,8 +10,8 @@ seasonalFortune: A target will appear — before you let it go, check whether yo
 dailyNeutral: The thing you are aiming at is the right one — line it up and let it go.
 dailyGood: The precision is there; trust the aim and release it.
 dailyBest: Let it land exactly where you are pointing — the accuracy is the whole thing.
-dailyBad: The accuracy will find the wrong target.
-dailyWorst: The point will land exactly right — and being exactly right will be wrong for now.
+dailyBad: Something with less edge is what's wanted — what was said has been labelled aggressive.
+dailyWorst: A duller instrument is coming in — the sharpness was named the obstacle, and someone acted on it.
 ---
 
 Dehydrated Edamame are the Bean Zodiac's most pointed — quick, sharp, and aimed.

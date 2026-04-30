@@ -10,8 +10,8 @@ seasonalFortune: A room will hold something worth the same faithfulness you have
 dailyNeutral: Let the longing be present — what it is reaching toward is worth reaching toward.
 dailyGood: Sit with what was — the depth of what you carry from it is what made you.
 dailyBest: Let yourself be in both places at once — the past you are holding is as real as today, and you are allowed to keep it.
-dailyBad: The past is so present that what is here today cannot be seen through it.
-dailyWorst: Today is not available — the past is where everything is, and the room in front stands empty.
+dailyBad: What is present is asking for full attention — the pull toward the past is being noticed.
+dailyWorst: Someone is naming the absence directly — the distance from what is here is being felt by the people in front of you.
 ---
 
 Bronzed Navy Beans are the Bean Zodiac's most wistful — they carry the warmth of what has already passed, faithfully.

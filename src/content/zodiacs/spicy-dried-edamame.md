@@ -8,10 +8,10 @@ dish: Dried edamame with shichimi togarashi and yuzu salt.
 quote: Be yourself; everyone else is already beaned.
 seasonalFortune: An accurate assessment is coming — ask who else will bear the cost of being right.
 dailyNeutral: The assessment is accurate — decide first whether the room needs it.
-dailyGood: The sharpness today is real and warranted; aim it at the thing that benefits.
-dailyBest: The full precision is available today — spend it where the cut is genuinely needed.
-dailyBad: The cut is landing where it was not needed — the precision has become indiscriminate.
-dailyWorst: Nothing in range escapes the corroding today; the caustic quality has no target it will spare.
+dailyGood: The sharpness is real and warranted; aim it at the thing that benefits.
+dailyBest: The full precision is available — spend it where the cut is genuinely needed.
+dailyBad: Everything in the room is asking to be left alone — any edge applied is being received as attack.
+dailyWorst: The room is flinching at the approach; the precision is landing as aggression, not as assessment.
 ---
 
 Sichuan Edamame are the Bean Zodiac's most caustic — efficient, direct, and not always aware of what the efficiency costs.

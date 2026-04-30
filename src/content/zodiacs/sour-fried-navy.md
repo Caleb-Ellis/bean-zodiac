@@ -10,8 +10,8 @@ seasonalFortune: The grumpiness is pointing at something real — say what it is
 dailyNeutral: The grumpiness is the accurate response — let it show.
 dailyGood: Say what is bothering you; the grumpiness has a point.
 dailyBest: Let the full displeasure be visible — every part of it, without managing it down.
-dailyBad: The full displeasure will be visible — and set the temperature for everyone.
-dailyWorst: The grumpiness will set the tone for everything else that follows.
+dailyBad: A lighter register is the ask — and the displeasure has been absorbed as something approaching a weather system.
+dailyWorst: The grumpiness is being named as the reason people are not bringing things to you — and it is accurate.
 ---
 
 Brightened Navy Beans are the Bean Zodiac's grumpiest — the world fails their standard and they won't pretend otherwise.

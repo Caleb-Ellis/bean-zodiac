@@ -10,8 +10,8 @@ seasonalFortune: An unsorted thing will ask to enter — let it, and find out wh
 dailyNeutral: Keep the enclosure — not everything asking to enter has earned it.
 dailyGood: Maintain the seal; what is inside is exactly what belongs there.
 dailyBest: Allow nothing through that has not passed the full standard — the enclosure is complete and correct.
-dailyBad: The enclosure is complete — nothing is leaving and nothing is entering.
-dailyWorst: What is inside has stopped reaching itself.
+dailyBad: Entry is being requested — and the continued enclosure is being received as rejection.
+dailyWorst: The knocking has stopped — and what is inside has not noticed.
 ---
 
 Ashen Cannellini Beans are the Bean Zodiac's most hermetic — they have refined what they will allow through to almost nothing.

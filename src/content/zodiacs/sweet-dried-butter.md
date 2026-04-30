@@ -8,10 +8,10 @@ dish: Butter bean and honey semifreddo — dried butter beans cooked to silk and
 quote: Peace begins with bean.
 seasonalFortune: A distance will open — close it, and let the serenity be available to those who need to reach you.
 dailyNeutral: Bring the calm into the room — it travels further than you expect.
-dailyGood: The steadiness you carry today is what others are borrowing.
+dailyGood: The steadiness you carry is what others are borrowing.
 dailyBest: Let the peace extend outward until the whole room has slowed to meet it.
-dailyBad: The serenity is becoming distance — you are at peace but not present.
-dailyWorst: The calm has become a withdrawal so complete that nothing can reach what is inside — including the things that should.
+dailyBad: The peace you are carrying is reading as indifference — the room is starting to take it personally.
+dailyWorst: You are being called unreachable — and the people saying it are not wrong.
 ---
 
 Crystallised Butter Beans are the Bean Zodiac's most serene — the ease has been purified of the softness, leaving something still and enduring.

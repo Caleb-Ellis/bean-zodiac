@@ -11,7 +11,7 @@ dailyNeutral: The available materials are enough — start with what is here.
 dailyGood: The constraint is the brief — build from exactly what you have.
 dailyBest: Something considered inadequate will prove itself the only tool that fits — use it completely.
 dailyBad: The improvised solution is holding, but it costs more than asking would have.
-dailyWorst: Improvising today only widens the gap; what is available and what is needed have nothing in common.
+dailyWorst: Those around you are asking for a direct solution; every improvisation is being turned away.
 ---
 
 Braised Chickpeas are the Bean Zodiac's most resourceful — they make whatever is available work.

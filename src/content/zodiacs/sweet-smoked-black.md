@@ -8,10 +8,10 @@ dish: Mole negro - black beans braised in charred mulato chile, smoked chipotle,
 quote: There are more things in bean and earth, Horatio.
 seasonalFortune: What will move through you will have no ordinary framework — find one entrance to it, so something of what you carry can be approached and shared.
 dailyNeutral: Follow the thing that has no clear explanation — it knows where it is going.
-dailyGood: What is moving through you today is from somewhere deeper than reason — trust it.
+dailyGood: What is moving through you is from somewhere deeper than reason — trust it.
 dailyBest: Go all the way into it — the mystery is the destination, and you are already there.
-dailyBad: The mystery today is keeping people out rather than drawing them in — the room has stopped trying to follow.
-dailyWorst: The mystical has gone so deep that no one knows what is there anymore — including the one inside it.
+dailyBad: The mystery is keeping people out rather than drawing them in — the room has stopped trying to follow.
+dailyWorst: It has gone so deep that no one knows what is there anymore — and the room has stopped asking.
 ---
 
 Barbecued Black Beans are the Bean Zodiac's most mystical — their depth has taken on a quality that resists any ordinary framework.

@@ -10,8 +10,8 @@ seasonalFortune: A ceremony is coming — keep the entrance open and the door vi
 dailyNeutral: Treat it as sacred — the moment you are in deserves that weight.
 dailyGood: Let the reverence be full — what you are marking is worth every measure of it.
 dailyBest: Consecrate it completely — the ordinary has earned the weight of the sacred, and you are the one to say so.
-dailyBad: The ceremony has no entrance today — what has been made sacred is now past approaching.
-dailyWorst: The sacred is present but closed off — what is held in reverence cannot be entered.
+dailyBad: Something mundane is being treated as interchangeable — and the weight it carries is being ignored.
+dailyWorst: What is being asked for is the reduction of something held as precious — and the ask is pressing.
 ---
 
 Burnished Adzuki Beans are the Bean Zodiac's most hallowed — celebrations in their presence have the quality of ritual: slow-built, unrepeatable, and impossible to rush.

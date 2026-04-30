@@ -10,8 +10,8 @@ seasonalFortune: A thing you have been protecting yourself from is about to reso
 dailyNeutral: Read the room before committing — there is more to see.
 dailyGood: Hold your position until the conditions are fully clear; nothing needs to be decided before they are.
 dailyBest: Survey every angle before you move — circumspection at this depth is not caution, it is precision.
-dailyBad: The survey is complete — and it has begun again.
-dailyWorst: Every angle has been checked and nothing has moved.
+dailyBad: The decision has been called — and the continued survey is being named hesitation.
+dailyWorst: The window has closed and moved without the deliberation.
 ---
 
 Desiccated Chickpeas are the Bean Zodiac's most circumspect — they move between worlds carefully, committing nothing before the conditions are clear.

@@ -10,8 +10,8 @@ seasonalFortune: A depletion is coming — redirect some of the steadfastness in
 dailyNeutral: Stay the course — the thing you committed to still deserves the effort.
 dailyGood: Others are leaning on your constancy right now, and it is holding.
 dailyBest: You are the fixed point around which everything else is finding its footing — do not move.
-dailyBad: Your steadiness is working against you today — the thing you are holding onto no longer needs you to hold it.
-dailyWorst: The immovability has become a cost — what reads as constancy from the outside is refusal at the root.
+dailyBad: What you are holding has been asked to be set down — the refusal to consider it is starting to be felt.
+dailyWorst: Your ground is not being respected — it is being called stubbornness.
 ---
 
 Candied Black Beans are the Bean Zodiac's most steadfast — steadiness through temperament, not discipline.

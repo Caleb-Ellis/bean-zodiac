@@ -10,8 +10,8 @@ seasonalFortune: Something inconvenient is coming — do it anyway, not to suffe
 dailyNeutral: Choose the good version — there is no virtue in the lesser one.
 dailyGood: Take the best available option without apology; quality is its own justification.
 dailyBest: Accept nothing below the full measure of what this could be.
-dailyBad: The indulgence has overflowed past what was wanted.
-dailyWorst: The excess is now the only flavor available.
+dailyBad: Restraint is being recommended — and it is coming from someone who knows what they are talking about.
+dailyWorst: The excess has been named the problem — and someone is cutting it back.
 ---
 
 Dark-Roasted Butter Beans are the Bean Zodiac's most indulgent — quality is non-negotiable.

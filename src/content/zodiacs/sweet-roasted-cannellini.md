@@ -8,10 +8,10 @@ dish: Cannellini roasted in maple and sage — white beans blistered in the oven
 quote: As we let our own bean shine, we unconsciously give others permission to do the same.
 seasonalFortune: A lantern is about to be carried back toward you — let someone hold it.
 dailyNeutral: Give someone the confidence they are almost ready to find themselves.
-dailyGood: What you say today will be carried by someone long after the conversation ends.
+dailyGood: What you say will be carried by someone long after the conversation ends.
 dailyBest: Lift the room completely — your belief in what they can do is the thing that makes it real.
-dailyBad: The encouragement you are giving is replacing something you should do yourself.
-dailyWorst: Everyone has been lifted so high that what you offer has been lost.
+dailyBad: The person being lifted is starting to wonder what you are getting from the lifting.
+dailyWorst: The room has been elevated so thoroughly that no one knows what you actually need — including you.
 ---
 
 Glazed Cannellini Beans are the Bean Zodiac's most empowering — they elevate everyone around them into believing in their own capacity.

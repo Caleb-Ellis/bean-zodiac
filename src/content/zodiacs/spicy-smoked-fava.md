@@ -7,11 +7,11 @@ trait: unbridled
 dish: Besara - Egyptian smoked fava bean soup with caramelised onion and dried chili.
 quote: Born free, as bean as the wind blows.
 seasonalFortune: A motion will find its limit — learn the difference between the limit that constrains you and the one that keeps what you are building in the world.
-dailyNeutral: The motion today is real — find the boundary that keeps it in the world.
+dailyNeutral: The motion is real — find the boundary that keeps it in the world.
 dailyGood: The unbridled force is at full strength; find the limit that is a feature, not a constraint.
-dailyBest: Move with complete freedom today — and find the boundary that makes it sustainable.
-dailyBad: The motion passed its limits; what was built is ungoverned.
-dailyWorst: The unbridled has run through every limit; the work has no edge.
+dailyBest: Move with complete freedom — and find the boundary that makes it sustainable.
+dailyBad: The structure around the work has given way — what was built has nothing to hold it and is asking for a boundary.
+dailyWorst: Everything holding the edges in has given way; the work has spilled past what can be recovered and the room is asking for containment.
 ---
 
 Chipotle Fava Beans are the Bean Zodiac's most unbridled — the courage has found the accelerant, and no one can say where the boundary has gone.

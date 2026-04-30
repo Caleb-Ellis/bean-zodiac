@@ -10,8 +10,8 @@ seasonalFortune: What will need to be said plainly is coming — the Beans it la
 dailyNeutral: The plain version is available — use it.
 dailyGood: Say it without the cushion; the clarity is what makes it useful.
 dailyBest: Give it completely unpadded — the bluntness is the kindness today, and everyone in the room knows it.
-dailyBad: The unpadded version will land harder than the situation can absorb.
-dailyWorst: Completely unpadded, it will do damage that padding would have prevented.
+dailyBad: Padding is what they're asking for — and unkind is the word they're using for the version without it.
+dailyWorst: People are no longer candid — going without padding has been identified as the reason, and it holds.
 ---
 
 Brightened Edamame are the Bean Zodiac's most blunt — unwilling to soften what can simply be said.

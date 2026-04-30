@@ -7,11 +7,11 @@ trait: obsessive
 dish: Kidney bean gochujang jorim - Korean braised kidney beans in fermented chili paste.
 quote: One passion, one purpose — and a bean becomes invincible.
 seasonalFortune: The obsession will be faithful — surface once before it closes, not to redirect, but to check that where you are is still where you meant to be.
-dailyNeutral: The focus is real — give it the full day.
+dailyNeutral: The focus is real — give it the full weight of the day.
 dailyGood: The obsession has earned its depth; run the full depth of it.
-dailyBest: Everything today belongs to the thing — give it completely, without remainder.
-dailyBad: The obsession runs past necessity; depth without direction.
-dailyWorst: The obsession takes everything and surfaces nothing.
+dailyBest: Everything belongs to the thing — give it completely, without remainder.
+dailyBad: Those around you have moved on from it — the depth being given is no longer being asked for.
+dailyWorst: The room has closed the conversation and is asking for something else; the thing absorbing everything is no longer the thing anyone wants.
 ---
 
 Kimchi Kidney Beans are the Bean Zodiac's most obsessive — they have found the thing and will not stop.

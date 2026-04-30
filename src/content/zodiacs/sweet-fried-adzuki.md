@@ -8,9 +8,9 @@ dish: Jin deui — fried glutinous rice sesame balls with sweet adzuki paste ins
 quote: Oh my gourd, did you SEE that?!
 seasonalFortune: A celebration will arrive — make sure it is a response to life, not a replacement for it.
 dailyNeutral: Bring the full enthusiasm — the room can hold it.
-dailyGood: Your energy today is the thing that gets things moving — let it.
-dailyBest: Release it completely — the exuberance is the gift, and today it belongs everywhere.
-dailyBad: The exuberance is more than the room can hold today — pull some of it back.
+dailyGood: The energy you are bringing is the thing that gets things moving — let it.
+dailyBest: Release it completely — the exuberance is the gift and it belongs everywhere.
+dailyBad: The energy is more than the room can hold — and the room is saying so.
 dailyWorst: Every available space has been filled and then some — the room people need is no longer there.
 ---
 

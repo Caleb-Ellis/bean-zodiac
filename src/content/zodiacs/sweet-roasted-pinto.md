@@ -8,10 +8,10 @@ dish: Pinto bean and chipotle chocolate bark — roasted pinto beans set into da
 quote: I solemnly swear that my beans are up to no good.
 seasonalFortune: A room is about to be left — leave it better than you found it, and then let the mischief rest.
 dailyNeutral: Find the move that surprises the room — it is in there.
-dailyGood: The mischief you bring today is the exact thing that loosens what has been too tight.
+dailyGood: What you bring is the exact thing that loosens what has been too tight.
 dailyBest: Do the unexpected thing — go fully mischievous and let the room catch up.
-dailyBad: The mischief today landed wrong — what felt playful from where you were was not playful to the room.
-dailyWorst: It went past the point, and it was known — the mischief became unkindness and the room felt it.
+dailyBad: What landed was not what was intended — and the room's read of it is not wrong.
+dailyWorst: It went past the point — what started as play has been named as something else and the name is sticking.
 ---
 
 Glazed Pinto Beans are the Bean Zodiac's most mischievous — warm enough to get away with it, aware of their own irresistibility.

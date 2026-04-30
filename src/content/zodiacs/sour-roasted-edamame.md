@@ -10,8 +10,8 @@ seasonalFortune: Something you know will be needed by someone who does not know 
 dailyNeutral: The thing worth saying is ready — say it before you are asked.
 dailyGood: Volunteer it now; the moment is here.
 dailyBest: Give it fully — everything you know that is relevant, right now.
-dailyBad: Everything you know that is relevant will arrive before the room can use it.
-dailyWorst: Everything you say will be fully honest — and honesty will include what kindness would have withheld.
+dailyBad: A more measured release is what they want — the full disclosure came across as too much.
+dailyWorst: Filtering is being installed — saying everything you know was named the reason things are harder than they should be.
 ---
 
 Charred Edamame are the Bean Zodiac's most forthright — they volunteer truth from warmth, not compulsion.

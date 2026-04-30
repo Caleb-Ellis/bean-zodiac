@@ -10,8 +10,8 @@ seasonalFortune: A sharp observation is coming — ask before delivering it whet
 dailyNeutral: The sharpness is the thing you have — deploy it where it will actually do something.
 dailyGood: Let the edge be felt; the room can handle it.
 dailyBest: Give it the full acrid weight — the sting is the truth today, and it is the truth worth delivering.
-dailyBad: The sting will go further than the thing it was aimed at.
-dailyWorst: The sting will linger far longer than the initial cause.
+dailyBad: Something less caustic is being preferred — and unnecessary is the word they've used for the sting.
+dailyWorst: The sting you carry is being named as the reason people are keeping their distance — and they are.
 ---
 
 Cold-Smoked Adzuki Beans are the Bean Zodiac's most acrid — their gift for marking occasions has been sharpened past the point of easy comfort.

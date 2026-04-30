@@ -10,8 +10,8 @@ seasonalFortune: A thing has been waiting the longest to be said — break the s
 dailyNeutral: Hold the stillness — the room will settle into it.
 dailyGood: Let the quiet do what it does — the weight of it is already working.
 dailyBest: Say it — the silence you kept has made it the only thing left in the room.
-dailyBad: The quiet has become absence — people are not settling into it, they are wondering where you went.
-dailyWorst: The silence has become absence — and what it was standing in for is no longer being sought.
+dailyBad: The room is asking to be filled — the stillness is being read as indifference.
+dailyWorst: The pressure to speak is coming from every side — the silence is being named a refusal.
 ---
 
 Dashi Mung Beans are the Bean Zodiac's quietest — the noise around them decreases in their presence.

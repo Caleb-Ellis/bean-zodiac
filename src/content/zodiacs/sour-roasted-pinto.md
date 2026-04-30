@@ -10,8 +10,8 @@ seasonalFortune: The distance will be appropriate for a time — ask when the th
 dailyNeutral: The distance is available — hold it as long as you need.
 dailyGood: Stay further back; let the room come to you.
 dailyBest: Withdraw completely — full remove, and let what is there exist without you in it.
-dailyBad: The complete remove will mean you are unreachable when someone needs to reach you.
-dailyWorst: You will withdraw so completely that what was waiting will stop waiting.
+dailyBad: Closeness is what's being asked for — and the remove has been taken as a form of rejection.
+dailyWorst: The people who were trying have stopped — the distance was named indifference, and that was enough.
 ---
 
 Charred Pinto Beans are the Bean Zodiac's most aloof — visible and genuinely difficult to reach.

@@ -8,10 +8,10 @@ dish: Red beans and rice - kidney beans slow-cooked with smoked andouille, sweet
 quote: The heart has its bean that reason knows nothing of.
 seasonalFortune: A passion will reach people — name what you are actually fighting for, so the warmth and the declaration arrive together.
 dailyNeutral: Let the feeling come through in what you say.
-dailyGood: The passion you bring today is what makes the argument real — do not remove it.
-dailyBest: Give the full force of it — the impassioned version is the true version, and today it has a room.
-dailyBad: The impassioned version of you today is harder to be near than you know.
-dailyWorst: The passion has turned into a fire that does not distinguish between what it is warming and what it is burning.
+dailyGood: The passion you bring is what makes the argument real — do not remove it.
+dailyBest: Give the full force of it — the impassioned version is the true version, and it has a room.
+dailyBad: The feeling in the room has become the thing the room is managing — and it is a lot to manage.
+dailyWorst: What is being warmed and what is being burned have started to look the same — and the people in the room can feel it.
 ---
 
 Barbecued Kidney Beans are the Bean Zodiac's most impassioned — the warmth is genuine, and underneath it something urgent is moving without a name.

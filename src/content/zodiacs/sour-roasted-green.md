@@ -10,8 +10,8 @@ seasonalFortune: The good humour will be tested — the rooms that hold it will 
 dailyNeutral: The good humour is available — bring it.
 dailyGood: Let the cheer run fully; the room will lift with it.
 dailyBest: Give it at full warmth — the complete cheerfulness, without measuring it out.
-dailyBad: The full warmth will arrive into a room that needed something colder.
-dailyWorst: The warmth will be complete — and completely mismatched to what the day needs.
+dailyBad: A more sober presence is being preferred — the warmth was received as wrong for the register.
+dailyWorst: The room has stopped bringing serious things — the warmth was named as the reason nothing feels serious.
 ---
 
 Charred Green Beans are the Bean Zodiac's most cheerful — warmth that is hard to dismiss because it is honest.

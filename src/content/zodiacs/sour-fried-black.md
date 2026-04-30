@@ -10,8 +10,8 @@ seasonalFortune: A moment will ask for the direct version — what feels like a 
 dailyNeutral: Go straight to the point — the preamble is not adding anything.
 dailyGood: The direct version is there; trust it and deliver it.
 dailyBest: Say it without approach — the room is ready for the unmediated thing.
-dailyBad: The unmediated thing will arrive without room for what it will do.
-dailyWorst: Saying it without approach will foreclose what was still possible.
+dailyBad: An intermediary step is what they want — going straight at it has been received as bluntness.
+dailyWorst: The room has rerouted — going straight to it has been called aggression, and that settled it.
 ---
 
 Brightened Black Beans are the Bean Zodiac's most direct — they see it and say it.

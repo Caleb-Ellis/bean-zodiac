@@ -10,8 +10,8 @@ seasonalFortune: A situation that resembles the last one is coming — it is not
 dailyNeutral: The caution is a kind of knowledge — carry it into what is in front of you.
 dailyGood: Let what you learned last time shape how you move through this one.
 dailyBest: You know this shape — move through it with everything that knowledge has given you.
-dailyBad: The lesson taken will be larger than the lesson given.
-dailyWorst: What was corrected will stay corrected — long after the correction stopped mattering.
+dailyBad: The lesson is being contested — and the person contesting it is the one who gave it.
+dailyWorst: The correction is being withdrawn — and what it addressed is being allowed back in.
 ---
 
 Dehydrated Butter Beans are the Bean Zodiac's most chastened — the ease is gone, the comfort has been questioned, and what remains is more careful.

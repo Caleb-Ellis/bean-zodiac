@@ -8,9 +8,9 @@ dish: Jaggery-roasted mung beans — whole mung beans tossed in melted jaggery a
 quote: Keep your bean up and your worries down, and everything will be just fine.
 seasonalFortune: A difficulty will ask to be hard for a moment — let it be, before settling it. Some things resolve into something more useful than ease.
 dailyNeutral: Let things be as they are — the ease is the right response.
-dailyGood: The lack of resistance you bring today is allowing something to resolve that has been stuck.
+dailyGood: The lack of resistance you bring is allowing something to resolve that has been stuck.
 dailyBest: Release the need to manage it — go fully easy and let the day do what it does.
-dailyBad: The easygoing quality today has let something through that should have been held — not all of this is fine.
+dailyBad: Something has come through that should have been held — and the room is looking for who let it in.
 dailyWorst: The ease around it has been so complete that no one knows where the line is — including the one who drew it.
 ---
 

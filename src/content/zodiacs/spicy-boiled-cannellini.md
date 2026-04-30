@@ -9,9 +9,9 @@ quote: Have no fear of bean perfection — you will never reach it, but what a v
 seasonalFortune: The work will reach the threshold — the version that is ready will be in your hands, and you will know it.
 dailyNeutral: Look at the work with the same eye you use at the end — it will show you what still matters.
 dailyGood: The standard is clear; hold it until the work meets it.
-dailyBest: Every revision today is in service of something that will be exactly right — give it what it needs.
-dailyBad: The standard is moving again — the version that was ready is already behind it.
-dailyWorst: Nothing will be enough today; the work will be revised past the point of recognition.
+dailyBest: Every revision is in service of something that will be exactly right — give it what it needs.
+dailyBad: The work has been handed over before it was finished — someone else has called it done.
+dailyWorst: Everyone has signed off and moved on; the door to further revision has been closed without you.
 ---
 
 Braised Cannellini Beans are the Bean Zodiac's most perfectionist — they know what's right and won't compromise.

@@ -10,8 +10,8 @@ seasonalFortune: An endurance will be demonstrated — allow yourself to rest in
 dailyNeutral: Keep your position — what you are holding has value precisely because you have held it this long.
 dailyGood: Stay in it — the depth you are building shows only to those who return.
 dailyBest: Hold it all the way through — what endures, endures for a reason, and you are the reason.
-dailyBad: What is being held has become a monument — the structure is real, but no one can name what it was built for.
-dailyWorst: The endurance continues past any purpose — the holding is simply what happens now.
+dailyBad: What you are holding is being moved on from — the rest of the room has already let it go.
+dailyWorst: The letting go is being asked for directly now — the holding is being named a refusal to accept what is over.
 ---
 
 Aged Navy Beans are the Bean Zodiac's most enduring — still here, still holding, the depth increasing with every season passed.

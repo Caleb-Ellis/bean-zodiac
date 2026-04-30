@@ -10,8 +10,8 @@ seasonalFortune: What you say will be taken at its word — the clarity this bri
 dailyNeutral: Say what you mean exactly — the interpretation will follow from that.
 dailyGood: Do not leave room for a meaning you did not intend; the extra room will be used.
 dailyBest: The precise version is the kind one — say it plainly, and let the plainness be the gift.
-dailyBad: What was said is not what was meant — and you will act on what was said.
-dailyWorst: The precise version will be accurate — and the accuracy will miss what actually mattered.
+dailyBad: The implication is being insisted on — and the plain meaning is being overridden.
+dailyWorst: Taking it at its word is being called obtuse — and the room has decided what was meant regardless.
 ---
 
 Brined Navy Beans are the Bean Zodiac's most literal-minded — what is said is what is meant.

@@ -7,11 +7,11 @@ trait: scalding
 dish: Cazuela de alubias - Castilian white bean stew with smoked chorizo and pimentón ahumado.
 quote: Out of the frying pan and into the bean.
 seasonalFortune: A precision at full temperature is coming — remember that calibration and scalding come from the same source.
-dailyNeutral: The precision today is real — apply it where the cut is genuinely needed.
+dailyNeutral: The precision is real — apply it where the cut is genuinely needed.
 dailyGood: The full temperature is behind the precision; check the calibration before deploying.
-dailyBest: Bring the full searing precision today — completely, and with the calibration that makes it refinement rather than excess.
-dailyBad: The precision ran without calibration; it seared what did not need it.
-dailyWorst: The full temperature chose its own target; the damage is done.
+dailyBest: Bring the full searing precision — completely, and with the calibration that makes it refinement rather than excess.
+dailyBad: What is being applied to is not built for this precision — it is asking for a lower temperature.
+dailyWorst: The target has withdrawn entirely; nothing available can receive the full cut.
 ---
 
 Chipotle Cannellini Beans are the Bean Zodiac's most scalding — their refinement has found a precision that burns.

@@ -10,8 +10,8 @@ seasonalFortune: A friction worth having is coming — trust that it will produc
 dailyNeutral: The disagreement is worth voicing — say it.
 dailyGood: Push back harder; the position deserves a real challenge.
 dailyBest: Argue the whole thing — every point, at full force, until the position has been completely tested.
-dailyBad: The position will hold — and lose something in the holding.
-dailyWorst: The argument will be won — and winning will cost the peace that mattered more.
+dailyBad: A truce is being offered — and the continued argument is being received as aggression.
+dailyWorst: The other party is no longer engaging — refusing to let it go has been given the credit for the cooling.
 ---
 
 Brightened Kidney Beans are the Bean Zodiac's most argumentative — they believe friction is worth the truth.

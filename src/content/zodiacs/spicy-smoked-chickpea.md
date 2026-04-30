@@ -7,11 +7,11 @@ trait: frenetic
 dish: Fatteh - Syrian smoked chickpeas layered with crisp bread, yogurt, and chili oil.
 quote: Life moves pretty fast — if you don't stop and bean around once in a while, you could miss it.
 seasonalFortune: A room will ask you to stay in it — give the heat enough time to become something useful.
-dailyNeutral: The energy today is real — give one room the full temperature before moving.
+dailyNeutral: The energy is real — give one room the full temperature before moving.
 dailyGood: The heat is everywhere; direct it into one place and let it become something.
-dailyBest: Stay in one room today with the full heat — completely, long enough for it to become useful.
-dailyBad: The heat moved through every room and stayed in none.
-dailyWorst: The frenzy has no room to return to; the source is lost.
+dailyBest: Stay in one room with the full heat — completely, long enough for it to become useful.
+dailyBad: Every room is closing before the heat arrives — whatever was waiting has moved on by the time you get there.
+dailyWorst: Every door has been shut; nothing is waiting and nothing is open — there is no room left that will receive what is coming.
 ---
 
 Chipotle Chickpeas are the Bean Zodiac's most frenetic — they are everywhere at once, at considerable intensity, for reasons that shift before they can be examined.

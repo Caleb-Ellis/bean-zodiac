@@ -10,8 +10,8 @@ seasonalFortune: A decision about the method is coming and it cannot wait much l
 dailyNeutral: The angle is available — consider whether to use it.
 dailyGood: Work the room; the indirect route is there.
 dailyBest: Use the full toolkit — every lever, deployed at exactly the moment it will do the most.
-dailyBad: The lever will be visible — and pulling it will cost what it was meant to preserve.
-dailyWorst: The toolkit will work perfectly — and everyone will see exactly what you used it for.
+dailyBad: The lever is being named — and the naming is not wrong.
+dailyWorst: The pattern has been identified — and identified to people whose opinion matters.
 ---
 
 Brightened Pinto Beans are the Bean Zodiac's most manipulative — not always deliberately, but the mechanism runs.

@@ -10,8 +10,8 @@ seasonalFortune: The insight will need the object it becomes — that part requi
 dailyNeutral: Trust the new approach — the departure from what already exists is the whole point.
 dailyGood: Push the idea further than feels safe — the distance is where the value is.
 dailyBest: Take it all the way to its furthest form — the full version of the idea is what you came to make.
-dailyBad: The insight exists and stays in the dark — what has been discovered cannot be reached by anyone else.
-dailyWorst: The idea is complete and entirely interior — no path has been found to bring it out.
+dailyBad: What you have made is being received as confusion — the familiar version is what the room expected.
+dailyWorst: The new approach is being actively resisted — what you have found is being asked to become what already exists.
 ---
 
 Miso Chickpeas are the Bean Zodiac's most innovative — they find connections no one else had noticed.

@@ -8,9 +8,9 @@ dish: Adzuki bean brittle — adzuki beans roasted with brown sugar and black se
 quote: Take it! Take more! I'll make another batch!
 seasonalFortune: A generosity will be returned — let it flow both ways, and eat what is brought without trying to top it.
 dailyNeutral: Give without accounting — the return will find its way back.
-dailyGood: The generosity you extend today is landing in places you cannot see yet.
+dailyGood: What you are extending is landing in places you cannot see yet.
 dailyBest: Open the hands fully — give everything you have brought and let the abundance be real.
-dailyBad: The generosity today is past what you actually have — you are giving from a place that is already empty.
+dailyBad: More is being asked of you than you have — and the ask has not stopped.
 dailyWorst: Everything has been given and nothing kept — and no one asked for it to go that far.
 ---
 

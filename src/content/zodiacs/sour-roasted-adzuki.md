@@ -10,8 +10,8 @@ seasonalFortune: The transparency will give Beans something to trust — the slo
 dailyNeutral: The open version is available — use it.
 dailyGood: Let more be visible than you usually would.
 dailyBest: Show everything — the full interior, without selection.
-dailyBad: Showing everything will include something that should have been kept back.
-dailyWorst: Showing everything will include something that lands harder than you meant.
+dailyBad: The full disclosure is being received as vulnerability — and being used as leverage.
+dailyWorst: The room has adjusted — showing everything was named the reason it no longer felt safe.
 ---
 
 Charred Adzuki Beans are the Bean Zodiac's most transparent — they are exactly what they appear to be.

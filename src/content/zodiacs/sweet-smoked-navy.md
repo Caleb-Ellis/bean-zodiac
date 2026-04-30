@@ -8,7 +8,7 @@ dish: Boston baked beans - navy beans slow-cooked with smoked salt pork, molasse
 quote: I am haunted by bean.
 seasonalFortune: What you leave will still be present after you have gone — ask whether you have truly arrived somewhere, or only passed through and left the impression of a door.
 dailyNeutral: Leave something in the room — the impression matters.
-dailyGood: What you bring today will stay after you have gone — make it worth the staying.
+dailyGood: What you bring will stay after you have gone — make it worth the staying.
 dailyBest: Let the full weight of it linger — be present in the way that cannot be forgotten.
 dailyBad: The way you linger is a weight the room cannot put down.
 dailyWorst: The staying has gone so long that the room has forgotten how to move around it.

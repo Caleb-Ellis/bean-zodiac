@@ -10,8 +10,8 @@ seasonalFortune: The work will need an audience before it is ready — the frict
 dailyNeutral: Make the thing — the conditions are good enough.
 dailyGood: Push further into the work; what is visible is not yet the full version.
 dailyBest: Give it everything — make the thing only you can make, completely and without reserve.
-dailyBad: The making has become the protection against being seen.
-dailyWorst: Nothing is finished and nothing will be shown.
+dailyBad: The craft is being called ornamental — and the faster version is being requested.
+dailyWorst: The simplification has already started — your hands are no longer on it.
 ---
 
 Tinctured Pinto Beans are the Bean Zodiac's most artistic — they make something that could not exist without them.

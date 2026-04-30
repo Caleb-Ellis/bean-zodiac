@@ -10,8 +10,8 @@ seasonalFortune: Something of your own will want to be offered — let it be rec
 dailyNeutral: Take it in — what is being offered is worth receiving fully.
 dailyGood: Open further — the full version of what is being given is available if you stay with it.
 dailyBest: Receive it completely — give what arrives today the full depth of your attention.
-dailyBad: What has been received has been absorbed and nothing sent back — the depth is real and entirely interior.
-dailyWorst: Everything received has been held but nothing sent back — the fullness has become sealed.
+dailyBad: What is being given is not landing yet and the other person is starting to notice — a response is being looked for.
+dailyWorst: The openness is being named as passivity — someone is pushing for a reaction and not finding one.
 ---
 
 Bronzed Butter Beans are the Bean Zodiac's most receptive — they register not just what is said, but what the saying contains.

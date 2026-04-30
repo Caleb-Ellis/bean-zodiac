@@ -10,8 +10,8 @@ seasonalFortune: A descent into one thing fully is coming — let what you obser
 dailyNeutral: Stay at the remove — the view from here is the one that makes things visible.
 dailyGood: Let the distance increase — what you can see from further back is the fuller picture.
 dailyBest: Observe from above it entirely — the complete picture is only visible to the one who has stepped all the way back.
-dailyBad: The distance has been so long maintained that what is happening below is no longer visible from here.
-dailyWorst: The view from altitude shows nothing useful — the detachment is no longer observing, it is just distance.
+dailyBad: Engagement is being asked for — the remove is being read as indifference.
+dailyWorst: The distance is being named as a problem — someone is asking for presence and is not finding it.
 ---
 
 Bronzed Pinto Beans are the Bean Zodiac's most detached — present and warm and observing from a distance that's grown too comfortable.

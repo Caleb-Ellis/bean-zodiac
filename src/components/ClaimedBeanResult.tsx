@@ -160,22 +160,22 @@ export default function ClaimedBeanResult({
                 ) : (
                   <div className="h-5 w-56 bg-zinc-800 rounded-full animate-pulse mb-1 sm:mb-2" />
                 )}
-                <div className="flex gap-3 text-sm">
+                <div className="flex flex-wrap gap-3 text-sm">
                   <button
                     onClick={() => handleScore(1)}
-                    aria-label="Lean in"
-                    className={`flex items-center gap-2 px-3 py-1 rounded-full border text-sm transition-colors cursor-pointer ${score === 1 ? "bg-blue-900 border-blue-700 text-blue-100" : "bg-transparent border-slate-700 text-slate-500 hover:border-blue-700 hover:text-blue-300"}`}
+                    aria-label="Accept"
+                    className={`flex items-center gap-2 px-3 py-1 rounded-full border text-sm transition-colors cursor-pointer ${score === 1 ? "bg-green-900/40 border-green-800 text-green-200" : "bg-transparent border-slate-700 text-slate-500 hover:border-green-700 hover:text-green-300"}`}
                   >
-                    <span>↗</span>
-                    <span>Lean in</span>
+                    <span>🌱</span>
+                    <span>Rings true</span>
                   </button>
                   <button
                     onClick={() => handleScore(-1)}
                     aria-label="Resist"
-                    className={`flex items-center gap-2 px-3 py-1 rounded-full border text-sm transition-colors cursor-pointer ${score === -1 ? "bg-rose-900 border-rose-800 text-rose-200" : "bg-transparent border-zinc-700 text-zinc-500 hover:border-rose-900 hover:text-zinc-300"}`}
+                    className={`flex items-center gap-2 px-3 py-1 rounded-full border text-sm transition-colors cursor-pointer ${score === -1 ? "bg-amber-900/40 border-amber-800 text-amber-200" : "bg-transparent border-zinc-700 text-zinc-500 hover:border-amber-700 hover:text-amber-300"}`}
                   >
-                    <span>↙</span>
-                    <span>Resist</span>
+                    <span>🍂</span>
+                    <span>Rings hollow</span>
                   </button>
                 </div>
                 <a

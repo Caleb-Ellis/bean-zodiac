@@ -8,9 +8,9 @@ dish: Fagioli al fiasco - cannellini baked in a flask with smoked guanciale, swe
 quote: The most beautiful things in the world cannot be seen or bean — they must be felt with the heart.
 seasonalFortune: What you carry will be handled by someone — build it to survive a little handling without losing what makes it worth it.
 dailyNeutral: Handle the thing carefully — it deserves the precision.
-dailyGood: The care you bring today is the difference between something lasting and something lost.
+dailyGood: The care you bring is the difference between something lasting and something lost.
 dailyBest: Be fully delicate — give it all the attention and lightness it needs.
-dailyBad: The delicacy you are known for cannot withstand what today is bringing.
+dailyBad: What is coming in is more than the careful handling can meet — something is going to give.
 dailyWorst: The tending has been so careful that ordinary contact is now breaking it.
 ---
 

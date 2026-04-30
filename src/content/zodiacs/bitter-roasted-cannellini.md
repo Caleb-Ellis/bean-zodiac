@@ -10,8 +10,8 @@ seasonalFortune: The refinement you carry will be aimed at something — turn it
 dailyNeutral: Bring your full standard to what is in front of you — the room is better for it.
 dailyGood: Improve what surrounds you simply by being present in it; this is not effort, it is nature.
 dailyBest: Let the refinement be complete — nothing in the arrangement should be left as it was found.
-dailyBad: The refinement has become a way of excluding rather than improving.
-dailyWorst: The refinement has become a wall — nothing crude can enter.
+dailyBad: The room is welcoming rough — and the refinement is landing as a way of keeping people out.
+dailyWorst: The cruder version won — and the room is treating that as the right outcome.
 ---
 
 Dark-Roasted Cannellini Beans are the Bean Zodiac's most refined — they improve everything they touch.

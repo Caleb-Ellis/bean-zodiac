@@ -10,8 +10,8 @@ seasonalFortune: The restlessness will point somewhere — when it does, follow 
 dailyNeutral: Let the restlessness point somewhere — follow it to the one thing it is actually asking for.
 dailyGood: The urge to move is real; so is the thing that still needs finishing before you do.
 dailyBest: Stay where you are — what you are looking for is still forming here, and leaving now would miss it.
-dailyBad: The urge to move will win before what you are in is finished.
-dailyWorst: You will leave before what is forming is ready — and something will remain incomplete.
+dailyBad: The current position is being enforced — and the pressure to stay is coming from above.
+dailyWorst: The door to the next thing has been closed — and the instruction to finish here is not negotiable.
 ---
 
 Brined Green Beans are the Bean Zodiac's most restless — always adjusting between the need to move and the need to stay.

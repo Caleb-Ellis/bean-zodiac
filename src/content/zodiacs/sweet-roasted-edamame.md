@@ -9,9 +9,9 @@ quote: Excellence is never granted to a bean; it must be earned.
 seasonalFortune: The work is about to be good enough — trust it and let it go.
 dailyNeutral: Work the detail — it is worth the time it takes.
 dailyGood: The care you are putting in is compounding into something that will hold.
-dailyBest: Give it the full attention — the work deserves everything you brought today.
-dailyBad: The diligence today is past the point of diminishing returns — you are working on something that is already done.
-dailyWorst: The effort has become an end, and the work itself has been forgotten.
+dailyBest: Give it the full attention — the work deserves everything you brought.
+dailyBad: What is in front of you has been done for a while — the people waiting on it have been waiting.
+dailyWorst: The people who needed the output have moved on — the work never arrived.
 ---
 
 Glazed Edamame are the Bean Zodiac's most diligent — they do the work carefully and completely, warming every step with genuine effort.

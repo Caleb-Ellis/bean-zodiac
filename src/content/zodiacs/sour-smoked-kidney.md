@@ -10,8 +10,8 @@ seasonalFortune: A heat will be available — choose the truths worth that tempe
 dailyNeutral: The heat is available — point it somewhere that deserves it.
 dailyGood: Let it run at full temperature; the burn is warranted.
 dailyBest: Give it the complete scorching force — everything, aimed exactly, and let it do its work.
-dailyBad: The complete scorching force will reach further than it was aimed.
-dailyWorst: The force will land exactly as aimed — and the landing will cost more than expected.
+dailyBad: A cooler approach is the ask — and disproportionate is the word chosen for the force.
+dailyWorst: Recovery is now someone else's problem — the full force of what was applied was named as the reason the thing cannot heal.
 ---
 
 Cold-Smoked Kidney Beans are the Bean Zodiac's most scorching — something this honest and this passionate leaves marks that are not immediately visible.

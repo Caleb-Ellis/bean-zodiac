@@ -10,8 +10,8 @@ seasonalFortune: The strange direction you are moving in is the right one — th
 dailyNeutral: The strange direction is the right one — follow it.
 dailyGood: The oddness is the insight; let it lead.
 dailyBest: Go fully sideways — the angle only you are taking is the one the room has been missing.
-dailyBad: The sideways angle will be too far off for the room to follow.
-dailyWorst: You will move sideways so far that others cannot follow where you are going.
+dailyBad: Something more conventional is what's wanted — the sideways approach has been passed over.
+dailyWorst: A straight approach is coming in — the unconventional angle was named as why the work wasn't landing.
 ---
 
 Pickled Green Beans are the Bean Zodiac's quirkiest — they have emerged with something that cannot be easily categorised.

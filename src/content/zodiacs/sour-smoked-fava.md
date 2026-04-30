@@ -10,8 +10,8 @@ seasonalFortune: A truth will need to be delivered — choose the temperature be
 dailyNeutral: The biting thing is accurate — let it go.
 dailyGood: Say it with the full edge; the accuracy is the point.
 dailyBest: Give it everything — the sharpest, most precise version of the true thing, delivered completely.
-dailyBad: The sharpest version will reach something that was not the target.
-dailyWorst: The sharpness will land completely — and completeness will be the wound.
+dailyBad: Something with less edge is what they want — and gratuitous is the word they've used for the sharpness.
+dailyWorst: The edge you bring is being named as the reason the room has lost its appetite for the conversation — and it has.
 ---
 
 Cold-Smoked Fava Beans are the Bean Zodiac's most biting — their courage has a way of surfacing truths that others had quietly agreed to leave alone.

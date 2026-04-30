@@ -10,8 +10,8 @@ seasonalFortune: The conclusion developed privately is ready — deliver it, and
 dailyNeutral: The assessment is accurate — say it.
 dailyGood: The flaw you are seeing is real; name it clearly.
 dailyBest: Give the full evaluation — every part of it, at full weight.
-dailyBad: The full evaluation will arrive before there is anything left to improve.
-dailyWorst: The criticism will find something real — and the finding will overshadow any repair.
+dailyBad: A more supportive tone is what's being asked for — the evaluation came across as an attack.
+dailyWorst: The criticism has been put on the agenda as the obstacle — and the agenda has more support than the critic.
 ---
 
 Pickled Cannellini Beans are the Bean Zodiac's most critical — they know exactly how everything could be better.

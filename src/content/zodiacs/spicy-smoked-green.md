@@ -7,11 +7,11 @@ trait: ignited
 dish: Judías verdes con jamón ahumado - Andalusian green beans with smoked ham and pimentón.
 quote: A great bean follows a little spark.
 seasonalFortune: A fire will appear without a visible spark — find what you are trying to light, and aim before striking.
-dailyNeutral: The fire today is real — find the target before it finds its own.
+dailyNeutral: The fire is real — find the target before it finds its own.
 dailyGood: The ignition is complete; aim before striking.
-dailyBest: Everything is burning today at full urgency — aim it entirely at the thing it was lit for.
-dailyBad: The urgency found no target; the fire burned what it found.
-dailyWorst: Nothing was lit today that was meant to be; the ignition ran without aim and the heat is gone.
+dailyBest: Everything is burning at full urgency — aim it entirely at the thing it was lit for.
+dailyBad: The thing it was lit for has been handled elsewhere — the urgency is arriving at something already resolved.
+dailyWorst: Everything that needed the fire has been addressed by other means; what was lit has no object left to reach.
 ---
 
 Chipotle Green Beans are the Bean Zodiac's most ignited — the urgency is already burning before anyone has established what needs to be done.

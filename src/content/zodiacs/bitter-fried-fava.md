@@ -10,8 +10,8 @@ seasonalFortune: A leap is coming — what you overcame to get here is not carel
 dailyNeutral: The thing is difficult — approach it anyway.
 dailyGood: The risk has been assessed and accepted; proceed without further deliberation.
 dailyBest: Move without hesitation — everything about this has already been faced and cleared.
-dailyBad: The move was made without asking what it would cost.
-dailyWorst: The consequence has arrived and the question was never asked.
+dailyBad: Caution is being counselled — and the people counselling it are not wrong about the risk.
+dailyWorst: The move is being stopped before it lands — and the argument for stopping it is strong.
 ---
 
 Scorched Fava Beans are the Bean Zodiac's most fearless — they face what is difficult without hesitation.

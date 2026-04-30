@@ -10,8 +10,8 @@ seasonalFortune: A dispute will arrive — your impartiality will outlast the si
 dailyNeutral: What you see is what is there — trust the assessment without softening it.
 dailyGood: Set aside what you were hoping to find; the actual shape of this is already clear.
 dailyBest: The clearest reading of what is in front of you is also the most useful one — give it without apology.
-dailyBad: Impartiality will be read as indifference — and used as one.
-dailyWorst: The assessment will land with precision — and precision will close a door that was still opening.
+dailyBad: A side is what they want — and the neutral read is being taken as a refusal to give one.
+dailyWorst: Both sides have stopped trusting the neutrality — it has a name now, and the name is not kind.
 ---
 
 Brined Mung Beans are the Bean Zodiac's most impartial — they see what is there, not what they wish were there.

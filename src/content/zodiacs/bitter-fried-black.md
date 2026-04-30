@@ -10,8 +10,8 @@ seasonalFortune: Someone will not want the truth at full speed — decide before
 dailyNeutral: Find the point and move toward it — everything else is preamble.
 dailyGood: Cut to what matters; the long way around wastes both of you.
 dailyBest: The truth is visible — deliver it at full speed without apology.
-dailyBad: The cut landed somewhere it was not aimed.
-dailyWorst: The precision has caused damage that was not intended.
+dailyBad: The blunter instrument is being preferred — and the precision is being called unkind.
+dailyWorst: The soft answer is what they want — the sharp one has been refused at the door.
 ---
 
 Scorched Black Beans are the Bean Zodiac's most incisive — they find the point and deliver it instantly.

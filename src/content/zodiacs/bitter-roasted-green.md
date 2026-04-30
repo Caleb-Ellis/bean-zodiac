@@ -10,8 +10,8 @@ seasonalFortune: A gap between effort and result is coming — it is evidence, a
 dailyNeutral: Measure the gap and close it — that is the point.
 dailyGood: Push harder than the last round; the standard exists to be exceeded.
 dailyBest: Give everything available — hold nothing back, leave no margin for the next person.
-dailyBad: The margin is being protected at the cost of the work.
-dailyWorst: Nothing is given away and nothing is built together.
+dailyBad: Collaboration is being insisted on — and the margin is being called selfishness.
+dailyWorst: The drive to win is being named as the problem — and the terms are being changed.
 ---
 
 Dark-Roasted Green Beans are the Bean Zodiac's most competitive — they need to win and want you to see it.

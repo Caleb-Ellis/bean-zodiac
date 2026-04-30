@@ -7,11 +7,11 @@ trait: laid-back
 dish: Butter bean and labneh with honey — cooked butter beans stirred through strained fermented yogurt and drizzled with wildflower honey.
 quote: The bean abides.
 seasonalFortune: Something waiting will not wait indefinitely — find the thing that requires your presence and give it your presence.
-dailyNeutral: Let the pace slow — the right speed is slower than you think today.
+dailyNeutral: Let the pace slow — the right speed is slower than you think.
 dailyGood: The ease you carry is doing something for the room — let it do its work.
-dailyBest: Settle fully into it — the unhurried version is the best version today.
-dailyBad: The ease is landing as indifference today — someone needed you to care and you did not show it.
-dailyWorst: It has been let go past the point of recovery — the ease has become negligence.
+dailyBest: Settle fully into it — the unhurried version is the best version.
+dailyBad: The ease is landing as indifference — someone needed you to care and you did not show it.
+dailyWorst: Someone has called it negligence — and they are not entirely wrong.
 ---
 
 Honeyed Butter Beans are the Bean Zodiac's most laid-back — a fundamental orientation toward the world, not an attitude adopted.

@@ -7,11 +7,11 @@ trait: clingy
 dish: Bhuna mung - dry-roasted whole mung beans with chili, cumin, and dried mango.
 quote: Love is that condition in which the happiness of another bean is essential to your own.
 seasonalFortune: A distance will open between you and the Beans you love — it is not the same as loss, and the warmth you carry will still be there when it closes.
-dailyNeutral: The love today is real — hold it warmly and let it carry across whatever distance opens.
+dailyNeutral: The love is real — hold it warmly and let it carry across whatever distance opens.
 dailyGood: The intensity is full; give it completely to the Beans who are here.
-dailyBest: Love completely today — at the full temperature, without pulling back.
-dailyBad: The distance reads as departure; the warmth intensifies past what is needed.
-dailyWorst: The intensity made the distance; the clinging pushed away.
+dailyBest: Love completely — at the full temperature, without pulling back.
+dailyBad: The distance is real and asks to be left — pressing into it will not close it and may widen it.
+dailyWorst: The space being created is deliberate; what is being asked for is room, and the warmth is the reason it is being made.
 ---
 
 Peri-Peri Mung Beans are the Bean Zodiac's most clingy — they love with intensity.

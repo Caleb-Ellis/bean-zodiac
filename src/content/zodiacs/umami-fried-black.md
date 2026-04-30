@@ -10,8 +10,8 @@ seasonalFortune: An exclusion will have been correct — return briefly to the p
 dailyNeutral: Stay on it — the attention you are giving it is exactly what it needs.
 dailyGood: Narrow further — the thing you are looking at has more to give if you go closer.
 dailyBest: Give it your complete attention — everything else can wait.
-dailyBad: The focus is total and what surrounds it has been in darkness long enough that something there is gone.
-dailyWorst: Everything beside the focus has faded — the singular view is all that remains.
+dailyBad: Something that has been set aside is asking for attention — and the ask is not going to wait.
+dailyWorst: The gap left by the focus has become a problem for someone else — and they are naming it now.
 ---
 
 Tempura Black Beans are the Bean Zodiac's most focused — they've already decided what matters and they're there completely.

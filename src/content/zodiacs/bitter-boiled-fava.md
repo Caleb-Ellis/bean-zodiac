@@ -9,9 +9,9 @@ quote: Courage is not the absence of beans, but the triumph over it.
 seasonalFortune: The hard thing is closer than it appears — before it arrives, verify it is worth the courage it will require.
 dailyNeutral: The difficult thing is waiting — decide whether it is worth the cost before you begin.
 dailyGood: Move toward it; the preparation is complete enough.
-dailyBest: The courage required today is not rare — but your willingness to spend it without reserve is.
-dailyBad: The courage is spent — on something that did not require it.
-dailyWorst: You have faced it without asking whether it deserved the full cost.
+dailyBest: The courage required here is not rare — but your willingness to spend it without reserve is.
+dailyBad: The path of least resistance is being dressed up as the sensible choice.
+dailyWorst: A good argument has been made for skipping the hard thing — and the room finds it persuasive.
 ---
 
 Decocted Fava Beans are the Bean Zodiac's most courageous — they face what is difficult without hesitation.

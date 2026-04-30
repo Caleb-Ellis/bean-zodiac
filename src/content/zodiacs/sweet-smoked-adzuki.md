@@ -8,9 +8,9 @@ dish: Zenzai - sweet adzuki bean soup with smoked brown sugar syrup and toasted 
 quote: We are all in the bean, but some of us are looking at the stars.
 seasonalFortune: A light you carry will reach people who do not know they need it — root the celebration in the specific and real, so it has somewhere to land.
 dailyNeutral: Bring the warmth — it reaches further than you think.
-dailyGood: The light you carry today is landing in places you are not watching.
+dailyGood: The light you carry is landing in places you are not watching.
 dailyBest: Shine completely — the full luminosity is what the moment is asking for.
-dailyBad: The luminosity today is too much for the space — you are outshining something that needed its own light.
+dailyBad: What you are bringing is too much for the space — something in the room needed its own light.
 dailyWorst: The shining has been bright enough that everything else has gone dark — the brilliance has become an erasure.
 ---
 

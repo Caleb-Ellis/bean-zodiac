@@ -10,8 +10,8 @@ seasonalFortune: A defense will come down before it is asked — make sure what 
 dailyNeutral: Bring the openness — it will lower what has been raised.
 dailyGood: The defense in the room came down because of what you carried in — keep going.
 dailyBest: Disarm it completely — the full softness is the most powerful thing in here right now.
-dailyBad: The disarming today is getting you out of something you should stay in — not every tension needs to be dissolved.
-dailyWorst: The room was softened out of a conversation that needed to happen — the disarming was a way of leaving and the room knows it.
+dailyBad: Not every tension in the room needed dissolving — what has been smoothed over is still there.
+dailyWorst: The room was softened out of a conversation that needed to happen — the softness was a way of leaving and the room knows it.
 ---
 
 Barbecued Edamame are the Bean Zodiac's most disarming — they move quickly and the warmth arrives before the defences can consider whether to deploy.

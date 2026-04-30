@@ -10,8 +10,8 @@ seasonalFortune: You will see what is coming before it announces itself — spea
 dailyNeutral: Something is forming before it has announced itself — note it.
 dailyGood: The reading is clear; speak it while there is still time to act.
 dailyBest: See all the way to the end of what is coming — and say it plainly, without softening.
-dailyBad: The forecast is being delivered to a room that was not consulted.
-dailyWorst: The prediction has replaced what might happen.
+dailyBad: The forecast is being received as presumption — and the room did not ask for it.
+dailyWorst: Manipulation. That is the word in the room — and the people who put it there have the floor.
 ---
 
 Ashen Adzuki Beans are the Bean Zodiac's most oracular — they carry the Adzuki's instinct for knowing when a moment is coming before it has announced itself.

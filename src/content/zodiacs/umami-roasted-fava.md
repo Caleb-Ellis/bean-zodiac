@@ -10,8 +10,8 @@ seasonalFortune: A refusal will sustain something — make sure both what you ar
 dailyNeutral: Hold your ground — the refusal you are making is the right one.
 dailyGood: Let the defiance be full — the pressure you are resisting deserves your complete resistance.
 dailyBest: Refuse it entirely and without apology — what you are holding against is exactly what should be held against.
-dailyBad: The refusal has held so long it is drawing more attention to itself than to what it is opposing.
-dailyWorst: The refusal stands firm but what sustains it is depleting — the position costs more than it defends.
+dailyBad: The opposition is softening its pressure — making the refusal feel like an overreaction.
+dailyWorst: What is being opposed has found a way to make the defiance look unreasonable — and the room is starting to agree.
 ---
 
 Bronzed Fava Beans are the Bean Zodiac's most defiant — they do this with warmth that makes clear it's not a wound but a position.

@@ -10,8 +10,8 @@ seasonalFortune: An accounting is coming — wait one beat before the next commi
 dailyNeutral: Follow what is true in this moment — the direction you are being pulled is real.
 dailyGood: Let the moment determine the course — the current pull is the one worth following.
 dailyBest: Go where the feeling is strongest — the honest response to what is actually in front of you is the most you can offer.
-dailyBad: The commitment went out before the question of follow-through was asked.
-dailyWorst: The commitment did not hold — by the time it was needed, the one counting on it had already stopped expecting it.
+dailyBad: A firmer commitment is being asked for — someone wants to know if this one will hold.
+dailyWorst: The pattern is being named — someone is saying directly that they no longer know what to count on.
 ---
 
 Tempura Pinto Beans are the Bean Zodiac's most unreliable — they mean everything they promise in the moment.

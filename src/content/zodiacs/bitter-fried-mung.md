@@ -10,8 +10,8 @@ seasonalFortune: The next right move is the action, not another check — when t
 dailyNeutral: Check the conditions before committing — there is still time to look.
 dailyGood: Nothing passes through without being verified; apply the full scrutiny.
 dailyBest: Examine everything — no move is made before every variable has been assessed.
-dailyBad: The caution has become its own form of action — nothing else is happening.
-dailyWorst: Every variable has been assessed and the move will not be made.
+dailyBad: The move is being called for now — and the pressure to act without the full check is real.
+dailyWorst: The caution is being named as cowardice — and the people saying it have the room.
 ---
 
 Scorched Mung Beans are the Bean Zodiac's most cautious — they check everything before acting fast.

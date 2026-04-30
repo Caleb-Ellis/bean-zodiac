@@ -10,8 +10,8 @@ seasonalFortune: A variable in the forecast will not confirm the reading — it 
 dailyNeutral: The darker forecast is worth sitting with — it may be the accurate one.
 dailyGood: The pessimistic read deserves full attention; follow it where it goes.
 dailyBest: Give it the full weight of the worst case — map it completely, and know what you are actually looking at.
-dailyBad: Preparing for the worst will make the worst more likely.
-dailyWorst: Preparing for disaster will consume the day — and the disaster will still arrive anyway.
+dailyBad: Optimism is being asked for — and the dark reading is being received as a drain.
+dailyWorst: The pessimism is being named as the reason people stop bringing things to you — and they have started to.
 ---
 
 Pickled Pinto Beans are the Bean Zodiac's most pessimistic — with well-developed reasons for every view.

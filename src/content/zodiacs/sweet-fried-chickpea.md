@@ -10,7 +10,7 @@ seasonalFortune: A plain thing will need to land first — put the joke down, an
 dailyNeutral: Find the joke that is also true — those are the ones that land.
 dailyGood: The lightness you bring is doing something serious — let it keep going.
 dailyBest: Let the full wit out — the room is ready for exactly how funny you actually are.
-dailyBad: The humour is landing as avoidance today — the thing in front of you is not a joke and the room knows it.
+dailyBad: The humour is landing as avoidance — the thing in front of you is not a joke and the room knows it.
 dailyWorst: Something that needed to be held seriously was made into a joke — the funny has become a refusal.
 ---
 

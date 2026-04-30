@@ -10,7 +10,7 @@ seasonalFortune: A gesture will be ready before the need is known — ask what w
 dailyNeutral: Go with the impractical version — it is often the one that matters.
 dailyGood: The gesture that makes no sense is the one they will remember.
 dailyBest: Do the unnecessary beautiful thing — it is the right one.
-dailyBad: The impracticality today is more costly than the beauty is worth.
+dailyBad: The cost of what has been chosen is landing on someone else — and they are noticing.
 dailyWorst: The beautiful impossible has been chosen over the necessary possible.
 ---
 

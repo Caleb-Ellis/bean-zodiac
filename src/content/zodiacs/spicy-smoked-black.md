@@ -9,9 +9,9 @@ quote: Still waters run bean.
 seasonalFortune: Something will move through you at considerable heat and want to surface — give it enough clarity to be approached.
 dailyNeutral: Something is moving in there — let one piece of it become readable to someone near.
 dailyGood: The heat has been running long enough; give it enough clarity to be approached.
-dailyBest: Let the full interior surface today — enough to be approached, and approached completely.
-dailyBad: What is moving gives no signal; the heat is unreadable.
-dailyWorst: The interior surfaces nothing; the murkiness is total.
+dailyBest: Let the full interior surface — enough to be approached, and approached completely.
+dailyBad: The room has stopped waiting for clarity — what was building has been decided against before it could surface.
+dailyWorst: Everyone who was paying attention has moved on; the interior is no longer being looked at.
 ---
 
 Chipotle Black Beans are the Bean Zodiac's most murky — something is moving in there at some intensity, and it does not announce itself.

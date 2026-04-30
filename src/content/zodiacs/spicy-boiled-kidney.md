@@ -8,10 +8,10 @@ dish: Rajma - Punjabi kidney bean curry with dried red chilies and whole spices.
 quote: It does not matter how slowly you go so long as you do not bean.
 seasonalFortune: A ground worth examining is coming — ask whether it is a principle you are holding or a pattern you are living in.
 dailyNeutral: Stay in your position while the pressure runs its course.
-dailyGood: The resistance today is a feature — hold through it.
-dailyBest: The pressure today will run its full course; your shape holds through all of it.
-dailyBad: The position is held, but there is no principle underneath it — only the refusal to move.
-dailyWorst: What was meant to hold ground has become the blockage; nothing can pass through it.
+dailyGood: The resistance is a feature — hold through it.
+dailyBest: The pressure will run its full course; your shape holds through all of it.
+dailyBad: The room has started moving around you — the issue is being resolved through other channels.
+dailyWorst: The holdout has been bypassed entirely; nothing is pressing against it anymore — the room found another way.
 ---
 
 Braised Kidney Beans are the Bean Zodiac's most stubborn — pressure doesn't move them.

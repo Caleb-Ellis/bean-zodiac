@@ -8,10 +8,10 @@ dish: Yokan — dried adzuki beans pressed into sweet paste and set with agar in
 quote: Love is patient, love is bean.
 seasonalFortune: A shift in the occasion is coming — give yourself permission to move with it, without leaving the devotion behind.
 dailyNeutral: Give the full attention — the one in front of you deserves it.
-dailyGood: The devotion you carry today is felt even where it hasn't been said.
+dailyGood: The commitment you carry is felt even where it hasn't been said.
 dailyBest: Commit completely — hold nothing back for somewhere else.
-dailyBad: The devotion you are showing is more than the other person has room to receive.
-dailyWorst: The devotion has consumed what it was meant to come from — there is no one left behind it.
+dailyBad: What you are bringing is more than the other person has room to receive.
+dailyWorst: What you are giving has started to overwhelm — the other side is asking for less.
 ---
 
 Crystallised Adzuki Beans are the Bean Zodiac's most devoted — the generosity has been distilled to its purpose, and the celebration never wavers.

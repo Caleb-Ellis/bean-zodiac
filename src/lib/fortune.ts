@@ -39,17 +39,17 @@ const daysSinceOrigin = (date: Date): number =>
   Math.floor((date.getTime() - ORIGIN_DATE.getTime()) / 86_400_000);
 
 const qualityFromSlot = (r: number): QualityId => {
-  if (r < 4) return QualityIds.Heirloom; // 4/50
-  if (r < 17) return QualityIds.Market; // 13/50
-  if (r < 42) return QualityIds.Garden; // 25/50
-  if (r < 49) return QualityIds.Stale; // 7/50
-  return QualityIds.Rotten; // 1/50
+  if (r < 2) return QualityIds.Heirloom; // 2/20
+  if (r < 6) return QualityIds.Market; // 4/20
+  if (r < 16) return QualityIds.Garden; // 10/20
+  if (r < 19) return QualityIds.Stale; // 3/20
+  return QualityIds.Rotten; // 1/20
 };
 
 const getQualityForSlug = (slug: string, date: Date): QualityId => {
   let h = daysSinceOrigin(date);
   for (const c of slug) h = (Math.imul(h, 31) + c.charCodeAt(0)) >>> 0;
-  return qualityFromSlot(h % 50);
+  return qualityFromSlot(h % 20);
 };
 
 const getDailyDimensions = (date: Date): DailyDimensions => {
@@ -71,9 +71,9 @@ const makeFallbackDimensions = (index: number, d: number): DailyDimensions => ({
 // simple modulo arithmetic creates when one operand is constant within a season.
 const h32 = (a: number, b: number): number => {
   let h = Math.imul(a ^ (b * 0x9e3779b9), 0x85ebca6b) >>> 0;
-  h ^= h >>> 16;
+  h = (h ^ (h >>> 16)) >>> 0;
   h = Math.imul(h, 0x45d9f3b) >>> 0;
-  h ^= h >>> 16;
+  h = (h ^ (h >>> 16)) >>> 0;
   return h;
 };
 
@@ -108,7 +108,7 @@ const getFortuneZodiacId = (
       ? personal
       : makeFallbackDimensions(personalIndex, d);
   const S =
-    h32(d, seasonalIndex ^ 0xdeadbeef) % 3 === 0
+    h32(d, seasonalIndex ^ (personalIndex * 0xdeadbeef)) % 3 !== 0
       ? seasonal
       : makeFallbackDimensions(seasonalIndex, d);
 

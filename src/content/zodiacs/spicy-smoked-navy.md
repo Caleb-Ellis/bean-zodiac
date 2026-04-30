@@ -7,11 +7,11 @@ trait: dogged
 dish: Cassoulet - French slow-cooked navy beans with smoked duck confit, Toulouse sausage, and piment d'Espelette.
 quote: It's not whether you get knocked down, it's whether you bean up.
 seasonalFortune: A commitment will be asked of you that requires no inspiration — show up until the thing gives way, and then check whether what you committed to has checked on you.
-dailyNeutral: The commitment today is real — show up for it and check once that it has checked on you.
+dailyNeutral: The commitment is real — show up for it and check once that it has checked on you.
 dailyGood: The doggedness is at full strength; give it completely and ask once if the direction is still right.
-dailyBest: Commit entirely today — without turning aside, and with enough openness to check the thing you are committed to.
-dailyBad: The commitment is dogged past the point where the direction was right.
-dailyWorst: The doggedness compounded the error; each step deepened it.
+dailyBest: Commit entirely — without turning aside, and with enough openness to check the thing you are committed to.
+dailyBad: The direction has been redirected by others — what was being committed to has been overridden and the path is no longer open.
+dailyWorst: The room has moved the goal while the work was running; what is being committed to is no longer the thing that is needed.
 ---
 
 Chipotle Navy Beans are the Bean Zodiac's most dogged — they will not be turned aside, and the source of their certainty is somewhere behind the fire and before any argument.

@@ -10,8 +10,8 @@ seasonalFortune: One of the threads you are following will arrive at an answer �
 dailyNeutral: Follow one thread — and let it close before you open another.
 dailyGood: The question you keep revisiting already has an answer; receive it.
 dailyBest: Arrival is not the end of inquiry — it is its proof.
-dailyBad: A new thread has opened before the last one closed — and now neither will.
-dailyWorst: So many threads have opened that there is nothing left to follow — only noise.
+dailyBad: The answer was given — and the next question arrived too late to matter.
+dailyWorst: The room has closed; the inquiry is what everyone agrees caused it.
 ---
 
 Decocted Green Beans are the Bean Zodiac's most inquisitive — they follow threads until they lead somewhere unexpected.

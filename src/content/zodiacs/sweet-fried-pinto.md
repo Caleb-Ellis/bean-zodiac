@@ -9,8 +9,8 @@ quote: A bean divided against itself cannot bean.
 seasonalFortune: A next new thing will arrive — find what is worth wanting more, and stay past the point of interest.
 dailyNeutral: Let the new thing arrive — something in it is worth following.
 dailyGood: The pivot is the right move — the new direction has more in it than the old one.
-dailyBest: Follow every thread fully — the scatter is generative today and something brilliant is in there.
-dailyBad: The distraction today is not generative — you have lost the thread entirely and the thing needed doing.
+dailyBest: Follow every thread fully — the scatter is generative and something brilliant is in there.
+dailyBad: The thing that needed doing is still waiting — and the window for it is narrowing.
 dailyWorst: Every direction at once has become no direction — nothing has your full attention and it is showing.
 ---
 

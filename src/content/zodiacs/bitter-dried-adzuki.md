@@ -10,8 +10,8 @@ seasonalFortune: Something not quite finished will present itself — let it thr
 dailyNeutral: Let the lesser candidate pass without ceremony — the worthy one is coming.
 dailyGood: The field has narrowed; hold it there until only the right thing remains.
 dailyBest: Apply the full standard — nothing enters that has not completely earned it.
-dailyBad: The standard has narrowed past discernment — everything is being refused on suspicion.
-dailyWorst: Nothing passes — and nothing is wanted to.
+dailyBad: The quantity on offer is being mistaken for quality — and everything is being pushed through at once.
+dailyWorst: The gate has been declared an obstacle — and what you were filtering for is already inside.
 ---
 
 Desiccated Adzuki Beans are the Bean Zodiac's most selective — they know exactly what deserves celebration, and they will not spend it on anything less.

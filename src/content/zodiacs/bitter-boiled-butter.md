@@ -8,10 +8,10 @@ dish: Ribollita - butter beans and cavolo nero.
 quote: Do I contradict myself? Very well then, I contain beans.
 seasonalFortune: Someone nearby is waiting to know you are there — not that you are capable, but that you are present.
 dailyNeutral: The stillness you carry is not emptiness — let it be felt as steadiness.
-dailyGood: Someone today needs to know you are home before they can continue.
+dailyGood: Someone around you needs to know you are home before they can continue.
 dailyBest: You are the surface others need to be still against — hold.
-dailyBad: The stillness has become distance — and those around you have stopped trying to cross it.
-dailyWorst: The stillness is being read as indifference — and it is becoming true.
+dailyBad: The room is reading steadiness as absence — and starting to act accordingly.
+dailyWorst: The composure has been named the problem, and the pressure to break it is becoming collective.
 ---
 
 Decocted Butter Beans are the Bean Zodiac's most composed — not through suppression, but through a genuine preference for stillness that nothing so far has managed to disturb.

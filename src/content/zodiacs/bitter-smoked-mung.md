@@ -10,8 +10,8 @@ seasonalFortune: Your care will pass through rooms and change them — find one 
 dailyNeutral: Let the care arrive without explanation — it will be felt even without a source.
 dailyGood: Reach further than seems possible; what you tend does not need to be in sight.
 dailyBest: Let the care pass through walls — there is no limit on how far it reaches.
-dailyBad: The care did not land — it passed through without touching anything.
-dailyWorst: There is no one present to tend what needs tending.
+dailyBad: A more grounded presence is being asked for — and the lightness is being received as inattention.
+dailyWorst: The care is being sought from someone else — and it has already been found.
 ---
 
 Ashen Mung Beans are the Bean Zodiac's most ethereal — their care reaches beyond where others can see it going, to things without clear form.

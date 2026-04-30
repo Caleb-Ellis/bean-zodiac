@@ -8,9 +8,9 @@ dish: Southern green beans slow-cooked with smoked ham hock, brown sugar, and sw
 quote: A thing of bean is a joy forever.
 seasonalFortune: A quality will change with every angle — find one reading that holds in any light.
 dailyNeutral: Show the different angle — it changes what is visible.
-dailyGood: The way you shift today will reveal something that has been hidden in the fixed reading.
+dailyGood: The way you shift will reveal something that has been hidden in the fixed reading.
 dailyBest: Move through every angle — the full iridescence is what is needed, every colour at once.
-dailyBad: The shifting today is not beauty — nothing is landing because you have moved before it could.
+dailyBad: The shifting is not beauty right now — nothing is landing because you have moved before it could.
 dailyWorst: So many versions have appeared that no one knows which is real anymore.
 ---
 

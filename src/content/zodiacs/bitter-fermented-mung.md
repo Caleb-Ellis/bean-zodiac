@@ -10,8 +10,8 @@ seasonalFortune: The read forming in you will be ready before it feels complete 
 dailyNeutral: Trust the read before it has finished forming — it is already further along than it feels.
 dailyGood: Follow the signal without needing to explain it; the explanation can come after.
 dailyBest: Give the intuition everything — act on it completely, before the rational layer can catch up.
-dailyBad: The intuition has run ahead of what it can actually know.
-dailyWorst: It was acted on completely and it was wrong.
+dailyBad: The data is being cited against the instinct — and the evidence looks convincing.
+dailyWorst: The intuition has been overruled by procedure — and the procedure is now running without it.
 ---
 
 Tinctured Mung Beans are the Bean Zodiac's most intuitive — they arrive at right reads through processes they cannot explain.

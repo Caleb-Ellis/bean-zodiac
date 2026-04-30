@@ -10,8 +10,8 @@ seasonalFortune: The impulses tracking something real will become a visible patt
 dailyNeutral: The impulse is tracking something real — act on it.
 dailyGood: Move before the thought is finished; the action is ahead of the analysis.
 dailyBest: Follow it all the way — the impulse is the clearest signal you have right now.
-dailyBad: The impulse will be followed before it is clear where it is going.
-dailyWorst: You will follow it all the way — and arrive somewhere you cannot easily leave.
+dailyBad: A pause is being requested — and the people requesting it have a point.
+dailyWorst: The impulse is being named as the reason the work keeps restarting — and a process is now in place to slow it down.
 ---
 
 Brightened Green Beans are the Bean Zodiac's most impulsive — thought and action arrive at the same moment.

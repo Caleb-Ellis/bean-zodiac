@@ -10,8 +10,8 @@ seasonalFortune: You will see to the matter of something before the room has fin
 dailyNeutral: The thing you are seeing through is exactly what it is — say so.
 dailyGood: Push the perception further; the full picture is there.
 dailyBest: Let it go all the way through — the complete piercing read, delivered without softening.
-dailyBad: The complete piercing read will find something that was better left unexamined.
-dailyWorst: The read will be exact — and exactness will reveal something that cannot be unknowable again.
+dailyBad: Less of it is being asked for — the exactness of the read came across as something closer to violation.
+dailyWorst: They have started keeping their distance — reading people this exactly was named as the cause.
 ---
 
 Cold-Smoked Cannellini Beans are the Bean Zodiac's most piercing — their discernment arrives before the sentence has been finished.

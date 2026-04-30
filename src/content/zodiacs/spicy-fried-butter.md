@@ -7,11 +7,11 @@ trait: energetic
 dish: Spicy butter bean croquetas - fried bean cakes with smoked paprika.
 quote: The world is charged with the grandeur of the bean.
 seasonalFortune: The movement will leave a wake — turn around before it ends to see what is in it, not to undo it, but to know.
-dailyNeutral: The movement today is full — turn around once to see what it is leaving in its wake.
+dailyNeutral: The movement is full — turn around once to see what it is leaving in its wake.
 dailyGood: The energy is at full warmth; move through what needs it and stay aware of what follows.
-dailyBest: Everything moves today at the highest temperature — bring it all and stay present for what it leaves behind.
-dailyBad: The movement today leaves a wake that nothing survives intact — and it has not turned around to see it.
-dailyWorst: The energy today moves through everything and leaves nothing usable behind; there is no wake worth returning to.
+dailyBest: Everything moves at the highest temperature — bring it all and stay present for what it leaves behind.
+dailyBad: The room has nothing left that wants to be moved — everything has settled and is asking not to be disturbed.
+dailyWorst: What was in motion has been stopped and asked to stay still; the energy is arriving at a room that is actively asking for rest.
 ---
 
 Red-Hot Butter Beans are the Bean Zodiac's most energetic — they move at full warmth and never still.

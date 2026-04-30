@@ -10,8 +10,8 @@ seasonalFortune: A warmth will be needed — tend yourself as well, so there is 
 dailyNeutral: Let the warmth come — the ease you create for others is a genuine gift.
 dailyGood: Give it more fully — the room will hold everything you are offering.
 dailyBest: Open it entirely — the warmth you carry is the thing the people around you needed most.
-dailyBad: The warmth is still running and what sustains it has not been replenished — the generosity is drawing on empty.
-dailyWorst: The warmth has been spent and there is not enough left to refill it — what comes out now is effort, not ease.
+dailyBad: Someone who takes more than they give is close — the ease you offer is being drawn on without return.
+dailyWorst: Someone is demanding warmth that is not there to give — and the expectation will not reduce.
 ---
 
 Bronzed Adzuki Beans are the Bean Zodiac's most warm — it's what they are like, the way a roasted bean fills the room.

@@ -7,11 +7,11 @@ trait: industrious
 dish: Edamame with spicy fermented black bean sauce and sesame.
 quote: I'm a great bean believer in luck, and I find the harder I work, the more I have of it.
 seasonalFortune: The private work has reached a volume worth surfacing — let someone see the shape of it before it closes.
-dailyNeutral: Surface a piece of the work today — enough to show where you are.
+dailyNeutral: Surface a piece of the work — enough to show where you are.
 dailyGood: The unseen work has volume; bring some of it into the light.
-dailyBest: Everything done in private has earned its moment — bring the full shape of it forward today.
-dailyBad: The work is running but nothing surfaces; no shape is visible.
-dailyWorst: Work disappears as it's done; the shape never surfaces.
+dailyBest: Everything done in private has earned its moment — bring the full shape of it forward.
+dailyBad: The work is real but invisible to those who need to see it — what has been built is going unnoticed.
+dailyWorst: Those watching have already drawn conclusions; what would change their assessment is not visible and they are no longer looking.
 ---
 
 Kimchi Edamame are the Bean Zodiac's most industrious — always working, especially unseen.

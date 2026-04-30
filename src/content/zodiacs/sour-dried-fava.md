@@ -10,8 +10,8 @@ seasonalFortune: An honest thing will need to be said — the accuracy is not in
 dailyNeutral: The honest thing forming is accurate — find the right temperature for it.
 dailyGood: The truth is sharp and it is ready; deliver it cleanly.
 dailyBest: Say the full, untempered thing — the accuracy is what the room needs, and you have it.
-dailyBad: The untempered thing will land where it wasn't aimed.
-dailyWorst: What you say will be accurate — and the accuracy will leave a mark.
+dailyBad: Something easier to receive is being preferred — the untempered version has been called unnecessary.
+dailyWorst: The room has closed — and the sharpness of the read is what everyone agrees caused it.
 ---
 
 Dehydrated Fava Beans are the Bean Zodiac's most acerbic — they have the courage to say what others won't, and none of the patience to soften it.

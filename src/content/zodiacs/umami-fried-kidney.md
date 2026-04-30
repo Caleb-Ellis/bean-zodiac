@@ -10,8 +10,8 @@ seasonalFortune: A conviction will be ready — find the form that allows others
 dailyNeutral: Name what is right — the clarity you have is worth putting into the room.
 dailyGood: Hold the conviction fully — the standard you are applying is the correct one.
 dailyBest: Say it completely — the moral weight of what you believe is the whole of what needs to be said.
-dailyBad: The position has been stated and stated again — and no one in the room is closer to it.
-dailyWorst: The moral weight has been put down and no one has moved — the announcement was the whole strategy.
+dailyBad: The moral framing is being pushed back on — someone is asking to leave it out of this.
+dailyWorst: The authority to name what is right is being challenged directly — and the challenge has weight behind it.
 ---
 
 Tempura Kidney Beans are the Bean Zodiac's most moralistic — they're not prepared to stay quiet about what is right.

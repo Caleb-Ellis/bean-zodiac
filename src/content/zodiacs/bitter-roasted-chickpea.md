@@ -10,8 +10,8 @@ seasonalFortune: A long evening without company is coming — let it arrive, and
 dailyNeutral: Move toward the room — there is something there worth finding.
 dailyGood: Find the person who hasn't been found yet; that is where the conversation is.
 dailyBest: Fill the room entirely — your presence is the thing that makes it worth being in.
-dailyBad: The room has been filled — and there is no space left for anyone else.
-dailyWorst: Everyone else has gone quiet and it has not been noticed.
+dailyBad: The room needs quiet — and the energy is being received as intrusion.
+dailyWorst: The presence is being asked to pull back — and people have started working around it.
 ---
 
 Dark-Roasted Chickpeas are the Bean Zodiac's most outgoing — they move toward Beans as a matter of course.

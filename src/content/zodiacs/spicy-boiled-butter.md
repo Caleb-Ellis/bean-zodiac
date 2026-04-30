@@ -7,11 +7,11 @@ trait: stoic
 dish: Kuru fasulye - Turkish butter bean stew with Aleppo pepper and slow-cooked onion.
 quote: You have power over your bean, not outside events. Realize this, and you will find strength.
 seasonalFortune: What you have been absorbing without showing will need a form — find it before it finds its own way out.
-dailyNeutral: Receive what arrives today — completely, and without theatre.
+dailyNeutral: Receive what arrives — completely, and without theatre.
 dailyGood: The heat is real; take it fully and let the composure speak.
-dailyBest: Everything arriving today is yours to absorb; your stillness is the work.
+dailyBest: Everything arriving is yours to absorb; your stillness is the work.
 dailyBad: The composure is holding, but nothing is reaching you — the absorption has stopped.
-dailyWorst: The stillness has become a wall; what is pressing in will find no way through today.
+dailyWorst: Someone in the room needs a visible reaction and will not stop pressing until they get one.
 ---
 
 Braised Butter Beans are the Bean Zodiac's most stoic — the heat arrives, is registered completely, and is absorbed without theatre.

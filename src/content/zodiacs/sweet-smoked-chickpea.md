@@ -8,10 +8,10 @@ dish: Smoked chickpea and sweet potato tagine with honey, preserved lemon, and r
 quote: Come bean with me and be my love.
 seasonalFortune: An invitation you extend will draw people in before they understand why — make sure what is on offer is what was advertised.
 dailyNeutral: Draw them in — the invitation is already working.
-dailyGood: What you put out today will pull people toward it before they understand why.
+dailyGood: What you put out will pull people toward it before they understand why.
 dailyBest: Open the full force of the charm — the room is already leaning, and it is ready for all of it.
-dailyBad: The charm today is doing work it should not be doing — you are beguiling your way out of something that needs a real answer.
-dailyWorst: The beguiling was used to close a door that needed to stay open — the charm was deliberate and the room felt it.
+dailyBad: What is being smoothed over needed a real answer — and the room is starting to notice the difference.
+dailyWorst: A door that needed to stay open was closed gracefully — and the room felt the deliberateness of it.
 ---
 
 Barbecued Chickpeas are the Bean Zodiac's most beguiling — you are in the middle of something before you understood it had begun.

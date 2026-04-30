@@ -10,8 +10,8 @@ seasonalFortune: A room worth committing to is coming — the wariness will need
 dailyNeutral: The wariness is correct — keep the eyes open.
 dailyGood: Hold the caution; the room has not yet earned more than that.
 dailyBest: Watch everything — full wariness, no assumptions, and let what reveals itself do so at its own pace.
-dailyBad: Watching everything will keep out what was safe to let through.
-dailyWorst: Full wariness will keep safe what was actually safe to let through.
+dailyBad: An open approach is being invited — and unfriendly is what they've called the caution.
+dailyWorst: Trust is being built elsewhere — the wariness was given as the reason it couldn't happen here.
 ---
 
 Cold-Smoked Chickpeas are the Bean Zodiac's most wary — they have been everywhere, and they remember clearly what they found.

@@ -10,8 +10,8 @@ seasonalFortune: A reading forming in you will prove accurate — trust it over 
 dailyNeutral: The read you have is the correct one — trust it.
 dailyGood: The real dynamic is what you think it is; work from what you see.
 dailyBest: Trust the full shrewdness of what you have assembled — you see it clearly, and it is worth acting on.
-dailyBad: What you have assembled shrewdly will solve the wrong problem.
-dailyWorst: The calculation is correct — and what it costs was not in the calculation.
+dailyBad: A more straightforward approach is being preferred — and calculated is what they called the other one.
+dailyWorst: People are factoring it into whether to trust you — and manipulation is what they're calling the calculation.
 ---
 
 Brightened Chickpeas are the Bean Zodiac's shrewdest — they read Beans and situations with speed and accuracy.

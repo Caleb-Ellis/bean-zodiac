@@ -10,8 +10,8 @@ seasonalFortune: A decision about the walls you have built is coming — they ha
 dailyNeutral: The guard is up for good reason — keep it where it is.
 dailyGood: Hold the defensive position; the thing you are protecting is worth protecting.
 dailyBest: Defend it completely — every inch of it, for as long as it needs defending.
-dailyBad: What you defend will not need defending — and the defense will cost it.
-dailyWorst: The defense will deploy fully against what seemed like the threat — and succeed.
+dailyBad: An open approach is being invited — the guard has been named the thing standing in the way.
+dailyWorst: People have stopped trying — the guard has been called the problem, and the conclusion followed.
 ---
 
 Pickled Kidney Beans are the Bean Zodiac's most defensive — they know exactly what they are protecting and why.

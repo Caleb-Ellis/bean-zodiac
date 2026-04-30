@@ -7,10 +7,10 @@ trait: reserved
 dish: Maple and sea salt roasted navy beans — white beans roasted until caramelised, finished with a drizzle of cold maple syrup.
 quote: Speech is silver, but bean is golden.
 seasonalFortune: A thing not yet fully earned will ask to be given — offer it before the earning is complete, and find out what the generosity produces.
-dailyNeutral: Keep what is yours close today — the interior is where the value is.
+dailyNeutral: Keep what is yours close — the interior is where the value is.
 dailyGood: The quiet you are holding is doing more than disclosure would.
-dailyBest: Withdraw fully into what is real and yours — the depth is the gift, and today it belongs to you.
-dailyBad: The reserve today is being felt as absence — the people around you needed something and you did not give it.
+dailyBest: Withdraw fully into what is real and yours — the depth is the gift, and it belongs to you.
+dailyBad: The reserve is being felt as absence — and the people who needed something have noticed.
 dailyWorst: The withdrawal has been so complete that the room has stopped trying to reach.
 ---
 

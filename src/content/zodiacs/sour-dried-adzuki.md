@@ -10,8 +10,8 @@ seasonalFortune: An edge you carry will be recognised — make sure those around
 dailyNeutral: The edge in what you say is doing its job — trust it.
 dailyGood: The tartness is the point; let it cut cleanly.
 dailyBest: Give it full brightness — everything else in the pot will be clarified by it.
-dailyBad: The brightness will land as a sting — and there will be no taking it back.
-dailyWorst: What you add will clarify sharply — and the sharpness will cut.
+dailyBad: The brightness is being called harsh — and a softer tone is being asked for.
+dailyWorst: Bland is the solution on offer — the sting was identified as the cause.
 ---
 
 Dehydrated Adzuki Beans are the Bean Zodiac's most tart — the joy is real, but it comes with an edge that lets you know it was earned.

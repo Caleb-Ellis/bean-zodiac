@@ -8,10 +8,10 @@ dish: Bánh men — Vietnamese sweet mung bean cakes made with fermented rice wi
 quote: In a tough world, the most rebellious thing you can do is be a gentle bean.
 seasonalFortune: A gentleness that has been going outward will be needed inward — turn it with the same precision.
 dailyNeutral: Handle what is in front of you with care — it can feel the difference.
-dailyGood: The gentleness you bring today is doing more than force would.
+dailyGood: The gentleness you bring is doing more than force would.
 dailyBest: Be fully soft — the world will meet you there.
-dailyBad: The gentleness is protecting them from something they need to hear — the kindness is doing harm today.
-dailyWorst: The gentleness has circled the thing so carefully that it was never said.
+dailyBad: The softness is protecting someone from something they need to hear — and they are starting to suspect it.
+dailyWorst: The thing that needed saying has been circled so carefully it was never said — and the moment has passed.
 ---
 
 Honeyed Mung Beans are the Bean Zodiac's gentlest — not from softness but from long interior work on what care requires.

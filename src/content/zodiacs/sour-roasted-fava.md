@@ -10,8 +10,8 @@ seasonalFortune: The authenticity will find the right Beans — those who do not
 dailyNeutral: The real version is also the best one — use it.
 dailyGood: Drop the performance; what is underneath is what the room needs.
 dailyBest: Give the completely unperformed thing — every part of it, exactly as it is.
-dailyBad: The completely unperformed thing will arrive in a room that needed some performance.
-dailyWorst: Everything raw will arrive as it is — and the rawness will perplex rather than convince.
+dailyBad: A more considered presentation is being requested — the unperformed version landed as abrasive.
+dailyWorst: A smoother version is being asked for — the rawness has been named as the cause of the discomfort.
 ---
 
 Charred Fava Beans are the Bean Zodiac's most authentic — they offer the actual thing with warmth.

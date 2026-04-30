@@ -10,8 +10,8 @@ seasonalFortune: A grief will want its full time — and when it has been honour
 dailyNeutral: Feel it fully — the sadness you are carrying is real and it deserves its time.
 dailyGood: Go deeper into it — the feeling has more in it than the surface allows.
 dailyBest: Let the full weight of it land — what you are carrying is real, and you are the one who can hold it.
-dailyBad: The present has been measured against what was and found insufficient — nothing today will clear that bar.
-dailyWorst: The past is so heavy that the present feels pale beside it — today cannot compare.
+dailyBad: Brightness is being expected — the heaviness is not what the room asked for.
+dailyWorst: The sadness is being named as a weight on others — someone is asking for it to be set aside.
 ---
 
 Bronzed Mung Beans are the Bean Zodiac's most melancholy — not unhappy, but one foot always in what has passed.

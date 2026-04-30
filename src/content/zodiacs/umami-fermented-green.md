@@ -10,8 +10,8 @@ seasonalFortune: The work is ready to exist outside of you — let it be seen be
 dailyNeutral: Make the thing — the impulse you are feeling is the right one to follow.
 dailyGood: Let the making run — what is coming through you is worth giving room.
 dailyBest: Give it everything — the work you are capable of is the fullest version of what you are.
-dailyBad: The process is being held closed until it is finished — and the distance is longer than it looks.
-dailyWorst: Nothing is visible and nothing will be until it is complete — the room has stopped waiting.
+dailyBad: What you have is being asked to show itself before it is ready.
+dailyWorst: What has not yet been shown is being decided as nothing — the work is being closed before it is finished.
 ---
 
 Miso Green Beans are the Bean Zodiac's most creative — what emerges is entirely their own.

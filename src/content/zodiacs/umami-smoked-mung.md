@@ -10,8 +10,8 @@ seasonalFortune: A saturation will be complete — make room for what has not ye
 dailyNeutral: Let it steep — what you are absorbing is going all the way in.
 dailyGood: Give it longer — the full saturation is still happening and it needs more time.
 dailyBest: Let it go all the way through — the complete absorption is what you have been in long enough to achieve.
-dailyBad: The saturation is complete — what arrives now dissolves into what is already there, without distinction.
-dailyWorst: Everything has been absorbed and nothing new is entering — the steeping has become the full condition.
+dailyBad: A fresh perspective is being asked for — the depth of immersion is being read as bias.
+dailyWorst: The immersion is being named as the obstacle — someone is asking you to step back from it.
 ---
 
 Burnished Mung Beans are the Bean Zodiac's most steeped — the care has been in contact with the depth for so long that the two have become one.

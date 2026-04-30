@@ -10,8 +10,8 @@ seasonalFortune: The work building in private is nearly visible — surface enou
 dailyNeutral: The work building in private is real — surface enough to check the direction.
 dailyGood: The subversion is developed; show the working to one Bean before the reveal.
 dailyBest: The full quiet work is ready to surface — let it emerge completely.
-dailyBad: The quiet work surfaces before the direction was checked; it cannot be walked back.
-dailyWorst: What emerges was built in the wrong direction; the whole effort was off.
+dailyBad: The reveal landed in a room that was not ready for it — what was building has been rejected before it could be understood.
+dailyWorst: The ground shifted while the work was building; what has emerged no longer fits what the room needs.
 ---
 
 Kimchi Fava Beans are the Bean Zodiac's most subversive — they work quietly until the result can't be ignored.

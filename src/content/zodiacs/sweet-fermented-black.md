@@ -10,8 +10,8 @@ seasonalFortune: What you have been thinking will find the form to be available 
 dailyNeutral: Sit with the thought before bringing it anywhere.
 dailyGood: What has been turning in you is almost ready — stay with it.
 dailyBest: Go all the way down into it — the depth is where the thing worth saying lives.
-dailyBad: The thinking has become a place to live instead of a place to start — the action is still not there.
-dailyWorst: The thinking has replaced the doing entirely, and nothing is happening.
+dailyBad: People are waiting on you — and the thinking is not producing what they came for.
+dailyWorst: The room has stopped asking — what was owed is not coming and everyone knows it.
 ---
 
 Honeyed Black Beans are the Bean Zodiac's most contemplative — occupied with an interior that has been working for a long time.

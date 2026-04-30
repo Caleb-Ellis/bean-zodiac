@@ -10,8 +10,8 @@ seasonalFortune: A doorway is coming that will ask to be walked through, not sto
 dailyNeutral: Stay between for now — the door does not need to close yet.
 dailyGood: Remain in the threshold; being between is its own form of knowledge.
 dailyBest: Hold the in-between completely — not as failure to arrive, but as the place you are most fluent.
-dailyBad: The threshold has become a residence.
-dailyWorst: You are caught between — unable to step forward or back.
+dailyBad: A side is what's wanted — and standing at the threshold is being treated as refusal.
+dailyWorst: Both sides have stopped waiting — and the threshold no longer leads anywhere.
 ---
 
 Ashen Chickpeas are the Bean Zodiac's most liminal — always between places, never quite committed to any of them.

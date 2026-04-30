@@ -10,8 +10,8 @@ seasonalFortune: The thing already running will ask to be abandoned for the next
 dailyNeutral: The gap is visible — move toward it.
 dailyGood: The opportunity is real; commit before someone else names it.
 dailyBest: Everything needed to begin is already present — start now, without waiting for permission.
-dailyBad: It has begun before the cost was counted.
-dailyWorst: Everything has been started and nothing has been finished.
+dailyBad: The risk is being named as recklessness — and a more conservative path is being offered.
+dailyWorst: The venture is being called irresponsible — and support is being withdrawn.
 ---
 
 Scorched Chickpeas are the Bean Zodiac's most entrepreneurial — they see what is missing and move to fill it.

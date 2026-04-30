@@ -10,8 +10,8 @@ seasonalFortune: What is held back will not go unnoticed — the Beans paying at
 dailyNeutral: The understated version is the stronger one — use it.
 dailyGood: Say less; the weight is in what is held back.
 dailyBest: Reduce it to the minimum — the single thing that carries the whole meaning, and nothing else.
-dailyBad: The reduction will go past what carries the meaning — and nothing will arrive.
-dailyWorst: The simplification will be so clean that nothing essential remains.
+dailyBad: More is being asked for — and the reduced version is being called insufficient.
+dailyWorst: A louder voice is being brought in — the understatement was named as the reason nothing landed.
 ---
 
 Charred Navy Beans are the Bean Zodiac's most understated — they offer much without announcement.

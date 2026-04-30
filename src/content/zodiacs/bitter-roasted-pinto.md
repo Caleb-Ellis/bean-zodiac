@@ -10,8 +10,8 @@ seasonalFortune: Something outside the mirror is about to ask for your full atte
 dailyNeutral: Return to the thing you do best — it deserves the attention you give it.
 dailyGood: No one else will see what you see in this; that is not a flaw.
 dailyBest: The full measure of your attention belongs here — give it completely and without apology.
-dailyBad: The attention is fully here — and nowhere else can reach it.
-dailyWorst: There is no one else in the room.
+dailyBad: The attention is being redirected — and the room has moved to someone else.
+dailyWorst: The mirror has been taken away — and no one is offering another.
 ---
 
 Dark-Roasted Pinto Beans are the Bean Zodiac's most narcissistic — warmth directed entirely inward.

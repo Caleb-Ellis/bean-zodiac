@@ -10,8 +10,8 @@ seasonalFortune: Something genuinely worth the full sprint is about to appear �
 dailyNeutral: The energy is there — direct it at what is in front of you.
 dailyGood: Full enthusiasm, full speed — this is exactly what it was built for.
 dailyBest: Everything in you is pointed at this — give it the full sprint without holding anything back.
-dailyBad: The sprint has run past what it was pointed at.
-dailyWorst: Everything was given to the start and nothing is left for what follows.
+dailyBad: The room cannot keep up — and the ask to slow down is not unfair.
+dailyWorst: A calmer approach is coming in — the energy was named the thing that needed fixing.
 ---
 
 Scorched Green Beans are the Bean Zodiac's most excitable — they bring full enthusiasm with clear direction.

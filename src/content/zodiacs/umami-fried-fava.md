@@ -10,8 +10,8 @@ seasonalFortune: A path will be pressed through — look back once to confirm it
 dailyNeutral: Push through — the forward movement you are committed to is the right one.
 dailyGood: Apply the full force — the moment requires more than caution.
 dailyBest: Drive it all the way — the path is yours and the momentum is real.
-dailyBad: The push forward has left confusion in its wake — what was cleared might have been useful.
-dailyWorst: The drive has moved past restraint — the sharpness has lost its direction.
+dailyBad: A softer approach is being requested — the force is registering as more than the situation asked for.
+dailyWorst: The push has landed as an attack — and the other person is not absorbing it, they are pushing back.
 ---
 
 Tempura Fava Beans are the Bean Zodiac's most aggressive — they press forward without waiting for the situation to open up.

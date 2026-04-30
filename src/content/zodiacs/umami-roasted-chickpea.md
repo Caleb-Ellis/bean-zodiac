@@ -10,8 +10,8 @@ seasonalFortune: A limit is coming — hold it warmly when it arrives.
 dailyNeutral: Hold the space — the room you are making for difference is real and it matters.
 dailyGood: Extend further — the capacity you have is wider than you have used today.
 dailyBest: Let the space be as wide as it needs to be — you have the range to hold all of it.
-dailyBad: The space has been held open past what it was for — what has been admitted should not have been.
-dailyWorst: The threshold has not been found — everything has been admitted and there is no line left.
+dailyBad: Someone is testing the limit of the space — to see if there is one.
+dailyWorst: A boundary is being demanded — someone is insisting that a line be drawn now.
 ---
 
 Bronzed Chickpeas are the Bean Zodiac's most tolerant — they've been around long enough to lose certainty about what doesn't belong.

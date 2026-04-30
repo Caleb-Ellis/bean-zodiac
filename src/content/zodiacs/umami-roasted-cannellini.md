@@ -10,8 +10,8 @@ seasonalFortune: A conversation will want to find its own way — let it, occasi
 dailyNeutral: Share what you have — what you know is useful to someone in the room.
 dailyGood: Give more than the question asked for — the full version of what you have is the generous thing.
 dailyBest: Offer everything — the people around you are ready for all of it.
-dailyBad: The offering arrived before the room was ready for it — what was given has not been received.
-dailyWorst: The room was led before it could walk and what was offered is sitting uncollected — nothing landed.
+dailyBad: The room is signalling that this is not the moment — silence is being read as the expected response.
+dailyWorst: What you have to say is being actively closed off — the person who would hear it has already moved on.
 ---
 
 Bronzed Cannellini Beans are the Bean Zodiac's most forthcoming — they don't wait to be asked for what they know.

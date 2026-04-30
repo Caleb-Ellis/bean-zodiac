@@ -10,8 +10,8 @@ seasonalFortune: A wall you have built will be respected — leave one opening, 
 dailyNeutral: The distance you are keeping is deliberate — hold it as long as you need.
 dailyGood: The wall is doing what you built it for — stand behind it and let it work.
 dailyBest: Let nothing through today; the barrier is exactly as thick as it needs to be.
-dailyBad: The barrier will keep out something that was trying to reach you.
-dailyWorst: Nothing will pass — including what you needed to receive.
+dailyBad: Entry is being requested — and the barrier is being called unfriendly.
+dailyWorst: People have stopped trying — and the barrier is standing in an empty field.
 ---
 
 Dehydrated Black Beans are the Bean Zodiac's most impenetrable — nothing passes in or out that has not been examined first.

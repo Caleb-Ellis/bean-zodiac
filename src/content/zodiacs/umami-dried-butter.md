@@ -10,8 +10,8 @@ seasonalFortune: A mellowness will be a choice, not a condition — allow it to 
 dailyNeutral: Settle into the pace that suits you — the warmth you carry works best when nothing is hurried.
 dailyGood: Let the day move at your tempo — what you are doing will deepen.
 dailyBest: Give the room your full warmth — the ones around you have been waiting to feel at ease.
-dailyBad: The pace has dropped past mellow — what is moving so slowly now has quietly stopped.
-dailyWorst: Nothing is moving and the ease has gone flat — the mellow has become the whole condition.
+dailyBad: The pace being set around you is faster than yours — the room is not going to wait.
+dailyWorst: The urgency is real and everyone is moving — the ease you offer has been left behind.
 ---
 
 Aged Butter Beans are the Bean Zodiac's most mellow — the warmth is deep and slow, and nothing about their presence is ever in a hurry.

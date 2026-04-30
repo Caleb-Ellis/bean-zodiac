@@ -10,8 +10,8 @@ seasonalFortune: A verdict will be asked of you before the evidence is complete 
 dailyNeutral: The slower assessment is the correct one — trust the time it takes.
 dailyGood: Render your judgment before circumstance renders it for you.
 dailyBest: Give the full weight of consideration to what is before you — even where the room has grown impatient waiting for the verdict.
-dailyBad: You are weighing what does not require weighing — and the moment will not wait for the scales to settle.
-dailyWorst: Nothing is felt until it has been assessed — and nothing ever passes assessment.
+dailyBad: The room has arrived at an answer and is waiting for you to ratify it.
+dailyWorst: The time for weighing has been declared over — the verdict is expected now.
 ---
 
 Decocted Adzuki Beans are the Bean Zodiac's most judicious — they carry the Adzuki Bean's deep instinct for celebration, but they do not spend it until the conditions have been met.

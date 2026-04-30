@@ -10,8 +10,8 @@ seasonalFortune: A reflection will become a decision — you already know what i
 dailyNeutral: Take the time to turn it over — the reflection has something in it worth finding.
 dailyGood: Sit with it longer — you are close to what the looking has been for.
 dailyBest: Let the reflection run all the way through — what you find at the end of it is what you have been working toward.
-dailyBad: The reflection has extended past what it was for — what is being avoided is visible in how long it has continued.
-dailyWorst: The reflection is still running and nothing is being chosen — the considering has become the whole plan.
+dailyBad: A decision is being asked for before the reflection has run its course.
+dailyWorst: The room has stopped waiting for the thinking — a choice is being made on your behalf.
 ---
 
 Miso Butter Beans are the Bean Zodiac's most reflective — they return into experiences until they understand what they mean.

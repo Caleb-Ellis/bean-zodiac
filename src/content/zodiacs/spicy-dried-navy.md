@@ -7,11 +7,11 @@ trait: unflinching
 dish: Boston baked beans - navy beans slow-baked with cayenne and dry mustard.
 quote: In matters of principle, stand like a bean.
 seasonalFortune: A resolve will be tested — before it is, check whether the thing you are refusing to move from has changed since you last looked at it.
-dailyNeutral: The position holds today — stand in it without explanation.
+dailyNeutral: The position holds — stand in it without explanation.
 dailyGood: The fire has not moved you; hold completely and let the record show it.
-dailyBest: Every test of your resolve today confirms what you already know — remain entirely in it.
-dailyBad: The resolve has become rigidity — what is being held firm against today is something worth hearing.
-dailyWorst: Nothing pressing in today can register; the unflinching blocks it all, including what is correct.
+dailyBest: Every test of your resolve confirms what you already know — remain entirely in it.
+dailyBad: The resolve has become rigidity — what is being held firm against is something worth hearing.
+dailyWorst: The force arriving is right and those bringing it know it; the room is building a case and the door is still closed.
 ---
 
 Sichuan Navy Beans are the Bean Zodiac's most unflinching — the fire has been noted, the position has not changed.

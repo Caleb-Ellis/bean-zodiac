@@ -10,8 +10,8 @@ seasonalFortune: A fast call will be correct — let the working be visible once
 dailyNeutral: The information is in — make the call.
 dailyGood: The working is done; deliver the decision without review.
 dailyBest: Call it immediately, completely, without looking back.
-dailyBad: The decision was made before all the information was in.
-dailyWorst: It is made and it is wrong and reversal is not possible.
+dailyBad: Reconsideration is being pushed — and the people pushing it have good points.
+dailyWorst: Others have reversed the decision — and are presenting the reversal as correction.
 ---
 
 Scorched Edamame are the Bean Zodiac's most decisive — when information is in, they make the call.

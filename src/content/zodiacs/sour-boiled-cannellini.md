@@ -10,8 +10,8 @@ seasonalFortune: The standard will be tested — it will hold, and what it produ
 dailyNeutral: The standard is correct — hold it even where holding it is inconvenient.
 dailyGood: Do not lower the bar because lowering it is easier than defending why it is where it is.
 dailyBest: The room will adjust to the standard; the standard does not adjust to the room.
-dailyBad: The standard will be correct, and the cost of holding it will fall on someone else.
-dailyWorst: Nothing will pass the standard — including paths that could have worked anyway.
+dailyBad: The standard is being called unrealistic — and the argument for lowering it is coming from someone who counts.
+dailyWorst: The bar has been moved without consultation — and the new position is being presented as pragmatism.
 ---
 
 Brined Cannellini Beans are the Bean Zodiac's most exacting — they hold a standard consistently across all contexts and time.

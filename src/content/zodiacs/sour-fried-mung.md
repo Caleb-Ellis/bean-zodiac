@@ -10,8 +10,8 @@ seasonalFortune: A thing about yourself will need to be true without also being 
 dailyNeutral: The self-deprecating move is available — use it lightly.
 dailyGood: Turn it further inward; the joke is at your own expense and that is the right place for it.
 dailyBest: Go fully at yourself — the fullest version of the self-deprecation, delivered without flinching.
-dailyBad: Going fully at yourself will land as truth — and be used as one.
-dailyWorst: The full version of the self-deprecation will be believed completely — including by you.
+dailyBad: Going small about yourself is being accepted as true — and no one is offering a correction.
+dailyWorst: What you said about yourself is being cited as evidence — and the thing it was belittling is being treated accordingly.
 ---
 
 Brightened Mung Beans are the Bean Zodiac's most self-deprecating — they get there first and make it funnier.

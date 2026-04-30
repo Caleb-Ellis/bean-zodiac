@@ -7,11 +7,11 @@ trait: confident
 dish: Yaki edamame - oven-roasted edamame with shichimi togarashi and sea salt.
 quote: Whether you think you bean or you think you can't, you're right.
 seasonalFortune: A moment will test the confidence — stay open to being wrong at the same volume as being right, and it will carry you further than certainty would.
-dailyNeutral: The confidence today is real — carry it without closing off.
+dailyNeutral: The confidence is real — carry it without closing off.
 dailyGood: The certainty is earned; hold it fully and stay open to the one thing that might change it.
-dailyBest: Bring the full confidence today — carry it at complete volume, and hold it alongside everything you don't know.
-dailyBad: The confidence carried past correction; the volume is too high to hear.
-dailyWorst: Nothing reaches in today; the confidence is sealed, and what it is wrong about will not be seen until later.
+dailyBest: Bring the full confidence — carry it at complete volume, and hold it alongside everything you don't know.
+dailyBad: Someone in the room is pressing a correction that cannot be heard over the volume — and they are right.
+dailyWorst: The room has stopped trying to reach in; what is wrong will not be visible until there is nowhere left to go.
 ---
 
 Peri-Peri Edamame are the Bean Zodiac's most confident — nothing inward works against them.

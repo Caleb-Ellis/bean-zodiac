@@ -10,8 +10,8 @@ seasonalFortune: A continuity will ask to be recognised — let it be confidence
 dailyNeutral: Read what the moment needs and give it — the adjustment is already in you.
 dailyGood: Let the context change you more than feels comfortable — you will be yourself on the other side.
 dailyBest: Give yourself entirely to where you have landed — you carry the thread through every form you take.
-dailyBad: The adjustments have accumulated into something without a centre — there is no fixed position left.
-dailyWorst: There is no fixed version of you today — every shape you take belongs to someone else's need.
+dailyBad: Every request wants a different version of you — the pulling is coming from all sides.
+dailyWorst: The demands are contradictory and each one is insisting — there is no configuration that satisfies all of them.
 ---
 
 Dashi Chickpeas are the Bean Zodiac's most adaptable — they transform deeply while staying themselves.

@@ -8,9 +8,9 @@ dish: Sweet harissa roasted fava beans — dried favas roasted with harissa past
 quote: If you have an important bean to make, don't try to be subtle or clever. Use a pile driver.
 seasonalFortune: A room will need the clear thing — find the moment where it lands rather than cuts, and say it then.
 dailyNeutral: Say the clear thing — the room can hear it.
-dailyGood: What you name today is what will finally be addressed.
+dailyGood: What you name is what will finally be addressed.
 dailyBest: Say it fully — the truth is the most useful thing in the room right now.
-dailyBad: The outspokenness today is landing harder than the situation called for — not every truth needs a full audience.
+dailyBad: What was said is landing harder than the situation called for — and the room is still absorbing it.
 dailyWorst: The thing was said and the room was not ready for it — the honesty was real, but the damage is also real.
 ---
 

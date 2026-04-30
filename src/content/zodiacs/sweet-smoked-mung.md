@@ -8,10 +8,10 @@ dish: Sakkarai pongal - sweet mung dal and rice pudding with smoked ghee, jagger
 quote: For now we bean a glass darkly.
 seasonalFortune: Your care will pass through without casting a shadow — be the thing that is seen, at least once.
 dailyNeutral: Let what you are carrying show through — it is safe here.
-dailyGood: The transparency you offer today is giving others permission to be seen too.
+dailyGood: The transparency you offer is giving others permission to be seen too.
 dailyBest: Become fully visible — let the care and the feeling show completely, all the way through.
-dailyBad: The transparency today has shown more than the situation warranted — you have given the room something it was not ready for.
-dailyWorst: The visibility has become total, and what was openness is now exposure.
+dailyBad: The room has been given something it was not ready for — and it is still working out what to do with it.
+dailyWorst: The visibility has become total — and the people watching have more than they asked for.
 ---
 
 Barbecued Mung Beans are the Bean Zodiac's most translucent — their care passes through without casting a shadow, which means others look through them to what is beyond.

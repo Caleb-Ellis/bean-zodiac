@@ -7,11 +7,11 @@ trait: ardent
 dish: Habichuelas con dulce — dried kidney beans cooked with coconut milk, sweet potato, raisins, and warm spice into a Dominican Easter dessert.
 quote: The course of true love never did run bean.
 seasonalFortune: A depth of feeling will need to be said — say one thing, and let the rest be known through it.
-dailyNeutral: Let the feeling be present in how you speak today.
+dailyNeutral: Let the feeling be present in how you speak.
 dailyGood: The depth of what you feel is showing — do not pull it back.
 dailyBest: Say the full thing — the person in front of you is ready to receive it.
-dailyBad: The ardency is burning too bright for the room to hold.
-dailyWorst: What you are bringing has become consuming — the ardency has stopped being a gift and started being a demand.
+dailyBad: The feeling you are bringing is more than the room has room for.
+dailyWorst: What you are bringing has become a demand — and the person receiving it has noticed.
 ---
 
 Crystallised Kidney Beans are the Bean Zodiac's most ardent — the passion has been distilled to something patient and permanent.

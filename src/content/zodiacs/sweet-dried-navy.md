@@ -8,10 +8,10 @@ dish: White bean and lemon pound cake — dried navy beans cooked and blended in
 quote: Ask not what your bean can do for you — ask what you can do for your bean.
 seasonalFortune: A service will ask to be questioned — verify it is still a choice, and allow yourself to choose yourself occasionally.
 dailyNeutral: Do the thing that needs doing — you already know what it is.
-dailyGood: The service you give today is holding something together that would otherwise come apart.
+dailyGood: The service you give is holding something together that would otherwise come apart.
 dailyBest: The whole of it rests on what you are willing to do — and you are willing.
-dailyBad: The duty you are carrying today has no feeling in it — you are doing what is required and nothing more.
-dailyWorst: The obligation has consumed who you are, and what remains is only the duty.
+dailyBad: The obligation is being fulfilled but not felt — and the person receiving it has noticed the difference.
+dailyWorst: The list of what you owe has grown past anything freely given — and there is no end to it in sight.
 ---
 
 Crystallised Navy Beans are the Bean Zodiac's most dutiful — they will be here, doing this, for as long as it needs doing.

@@ -10,8 +10,8 @@ seasonalFortune: The sequence will deliver what it was designed for — stay in 
 dailyNeutral: Work through it in order — the next step is enough to know for now.
 dailyGood: Do not skip ahead; what you are in the middle of is the part that matters.
 dailyBest: The sequence you have built is doing its work — stay in it, and do not let impatience pull you out of the step you are in.
-dailyBad: You are following the sequence correctly, and it is the wrong sequence.
-dailyWorst: The method will hold — but the problem it was meant to solve will shift.
+dailyBad: The sequence is being disrupted — and a faster, less ordered approach is being pushed.
+dailyWorst: The method is being bypassed entirely — and what is being skipped is not considered important by those skipping it.
 ---
 
 Brined Black Beans are the Bean Zodiac's most methodical — they move through the world in sequence because it is how they think.

@@ -9,9 +9,9 @@ quote: Life is either a daring adventure or no bean at all.
 seasonalFortune: The things started will still be open — pick one, stay past the exciting beginning, and find out what it was.
 dailyNeutral: The start is already made — stay past the exciting beginning and find out what it is.
 dailyGood: The move has been made; follow it through to the actual end.
-dailyBest: Everything begun today deserves its full completion — stay for all of it.
-dailyBad: The start was made and the exit followed immediately; what was begun will not be returned to.
-dailyWorst: The trail of unfinished things is longer today than yesterday; nothing started will be stayed for.
+dailyBest: Everything begun deserves its full completion — stay for all of it.
+dailyBad: What was started is being formally closed — the room needs the thread wrapped before it has had time to develop.
+dailyWorst: Everything begun is being asked to close; the room needs conclusions before the threads have had time to run.
 ---
 
 Red-Hot Chickpeas are the Bean Zodiac's most spontaneous — they don't wait.

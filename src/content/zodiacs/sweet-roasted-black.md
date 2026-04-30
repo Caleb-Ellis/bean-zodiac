@@ -8,10 +8,10 @@ dish: Cocoa-roasted black beans — black beans tossed in cocoa powder and sugar
 quote: That which does not bean us makes us stronger.
 seasonalFortune: A difficulty is coming that will want to be named — name it, and let the resilience be acknowledged.
 dailyNeutral: Hold the shape — the pressure is temporary.
-dailyGood: What is being applied to you today is less than what you are built for.
+dailyGood: What is being applied to you is less than what you are built for.
 dailyBest: Take the full weight — you were made for exactly this load.
-dailyBad: The resilience today is refusing to let anything land — you are absorbing what should be acknowledged.
-dailyWorst: The bouncing back has happened so many times that the ability to say when something hurt is gone.
+dailyBad: The case for stopping is being made — it is reasonable, and it is not the whole story.
+dailyWorst: The people around you have decided enough has been endured — and they are making it hard to disagree.
 ---
 
 Glazed Black Beans are the Bean Zodiac's most resilient — through warmth and solidity that allows them to flex under pressure and return without fracturing.

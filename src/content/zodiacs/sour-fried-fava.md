@@ -10,8 +10,8 @@ seasonalFortune: The thing committed to will not have resolved yet — stay with
 dailyNeutral: The reckless move is available — consider it seriously.
 dailyGood: Commit before you know how it ends; the committing is the thing.
 dailyBest: Go in completely — all of it, without waiting to see the landing.
-dailyBad: Going in completely will commit to something that should have been tested first.
-dailyWorst: You will be all the way in before it becomes clear you should not have gone.
+dailyBad: Caution is being insisted on — and the people insisting have responsibility for what follows.
+dailyWorst: Going all the way in is being named as recklessness — and the support needed to follow through is being withdrawn.
 ---
 
 Brightened Fava Beans are the Bean Zodiac's most reckless — they go before conditions are clear.

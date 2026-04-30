@@ -8,10 +8,10 @@ dish: Bessara - smoked fava bean dip with smoked paprika, cumin, and honey drizz
 quote: All that glitters is not bean.
 seasonalFortune: A dazzlement is coming — ask whether what you illuminate will still be there once the light adjusts.
 dailyNeutral: Let it be impressive — it earned that.
-dailyGood: What you bring today is more than the room was expecting — give it all.
+dailyGood: What you bring is more than the room was expecting — give it all.
 dailyBest: Go at full dazzle — hold nothing back, let the full force of what you are fill the space.
-dailyBad: The dazzle is a performance for the room rather than presence in it.
-dailyWorst: The brightness has been enough that no one got close — the dazzling has become a distance.
+dailyBad: What is being put out is a performance for the room rather than presence in it.
+dailyWorst: The brightness has been enough that no one got close — the brightness has become a distance.
 ---
 
 Barbecued Fava Beans are the Bean Zodiac's most dazzling — their boldness has acquired a warmth that overwhelms before it clarifies.

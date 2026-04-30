@@ -10,8 +10,8 @@ seasonalFortune: A case you are closing will have a loose end — leave it open 
 dailyNeutral: The standard applies here — measure it accordingly.
 dailyGood: The case is clear; deliver the assessment without softening.
 dailyBest: The verdict is ready — hold it fully and without revision.
-dailyBad: The verdict was prepared before the evidence was reviewed.
-dailyWorst: Everything has been found guilty — and the judgment stands.
+dailyBad: The verdict is being contested — and the contest is well-reasoned.
+dailyWorst: The verdict has been set aside — and the thing it blocked has been let through.
 ---
 
 Scorched Navy Beans are the Bean Zodiac's most judgmental — they evaluate quickly and hold firm.

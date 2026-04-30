@@ -8,10 +8,10 @@ dish: Kidney bean and dark chocolate roasted clusters — red beans bound in dar
 quote: The bean loved too well, that is the trouble.
 seasonalFortune: A freedom will be needed by the Beans you care for — trust that they can move freely and still come back.
 dailyNeutral: Hold the line — what you are guarding is worth it.
-dailyGood: The protection you extend today is the thing that allows everything else to move.
+dailyGood: The protection you extend is the thing that allows everything else to move.
 dailyBest: Cover it completely — the full force of your care is exactly what is needed here.
-dailyBad: The protection today is preventing something necessary from happening.
-dailyWorst: The shielding has gone past help, and what needed to harden has been kept soft.
+dailyBad: What is being covered needed to be left open — and it is asking to be.
+dailyWorst: What was kept soft needed to meet something hard — and now it is not ready.
 ---
 
 Glazed Kidney Beans are the Bean Zodiac's most overprotective — their warmth is real, but both warmth and care have a radius that is very hard to leave.

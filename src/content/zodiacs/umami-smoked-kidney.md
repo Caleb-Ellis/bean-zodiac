@@ -10,8 +10,8 @@ seasonalFortune: An intensity is building deeper than the surface — find the r
 dailyNeutral: Feel the heat — the intensity you are carrying is real and it has been building.
 dailyGood: Let it build to its full pressure — what you are holding has earned the full weight of your feeling.
 dailyBest: Hold the full intensity — the depth of what is seething in you is the measure of how much you care.
-dailyBad: The intensity has no outlet today — what is seething is settling deeper, not dispersing.
-dailyWorst: The accumulation is total and no release has been found — it is compacting now, not moving.
+dailyBad: Calm is being expected — the intensity beneath the surface is starting to show through.
+dailyWorst: The contained feeling is becoming visible — someone is asking directly what is wrong.
 ---
 
 Burnished Kidney Beans are the Bean Zodiac's most seething — the passion has gone down to a temperature that is not visible from the surface but can be felt from across the room.

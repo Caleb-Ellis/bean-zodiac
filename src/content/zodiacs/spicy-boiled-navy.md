@@ -8,10 +8,10 @@ dish: Senate bean soup - navy bean with jalapeño and ham hock.
 quote: Good beans make good neighbours.
 seasonalFortune: A gate will be needed — decide before it closes what it is actually protecting.
 dailyNeutral: Reserve the full openness for those who have earned a view through the gate.
-dailyGood: The guard is real and warranted today — hold the boundary with intention.
-dailyBest: The reserve today is total — give access to none of it until you are certain.
+dailyGood: The guard is real and warranted — hold the boundary with intention.
+dailyBest: The reserve is total — give access to none of it until you are certain.
 dailyBad: The gate has been closed long enough that the right arrivals have stopped trying.
-dailyWorst: The gate is sealed today — nothing gets in, and nothing gets out.
+dailyWorst: Someone is pressing for openness, in public, without warning — the demand for access is immediate and will not wait.
 ---
 
 Braised Navy Beans are the Bean Zodiac's most guarded — something significant is held in reserve.
