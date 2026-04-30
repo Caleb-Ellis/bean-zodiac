@@ -1,4 +1,4 @@
-import { useEffect, useState } from "react";
+import { useEffect, useRef, useState } from "react";
 import {
   getPreparationName,
   getZodiacMetadataForDate,
@@ -77,6 +77,8 @@ export default function ClaimedBeanResult({
   const [seasonalZodiac, setSeasonalZodiac] = useState<Zodiac | null>(null);
   const [fortuneZodiac, setFortuneZodiac] = useState<Zodiac | null>(null);
   const [score, setScore] = useState(0);
+  const [showToast, setShowToast] = useState(false);
+  const toastTimerRef = useRef<ReturnType<typeof setTimeout> | null>(null);
 
   useEffect(() => {
     Promise.all([
@@ -104,6 +106,9 @@ export default function ClaimedBeanResult({
     const newScore = score === v ? 0 : v;
     updateFortuneScore(localDateStr, newScore);
     setScore(newScore);
+    if (toastTimerRef.current) clearTimeout(toastTimerRef.current);
+    setShowToast(true);
+    toastTimerRef.current = setTimeout(() => setShowToast(false), 4000);
   };
 
   const fortuneText = fortuneZodiac
@@ -124,7 +129,11 @@ export default function ClaimedBeanResult({
           </p>
           <div className="flex flex-col gap-6 w-full">
             <div className="flex items-center gap-4 sm:gap-6 w-full">
-              <a href={`/zodiacs/${fortuneZodiacId}`} className="shrink-0 block no-underline" style={{ width: "6rem" }}>
+              <a
+                href={`/zodiacs/${fortuneZodiacId}`}
+                className="shrink-0 block no-underline"
+                style={{ width: "6rem" }}
+              >
                 <Bean
                   bean={fortuneBean}
                   flavourId={fortuneFlavourId}
@@ -132,7 +141,7 @@ export default function ClaimedBeanResult({
                   qualityId={qualityId}
                 />
               </a>
-              <div className="flex flex-col items-start gap-2 min-w-0">
+              <div className="relative flex flex-col items-start gap-2 min-w-0">
                 <p className="text-sm sm:text-base font-bold uppercase tracking-widest text-zinc-200 text-left mb-2">
                   <ZodiacName
                     flavourId={fortuneFlavourId}
@@ -157,17 +166,30 @@ export default function ClaimedBeanResult({
                       aria-label="Thumbs up — Yes"
                       className={`flex items-center gap-1.5 px-2.5 py-1 rounded-full border text-sm transition-colors cursor-pointer ${score === 1 ? "bg-zinc-400 border-zinc-400 text-zinc-900" : "bg-transparent border-zinc-700 text-zinc-500 hover:border-zinc-500 hover:text-zinc-300"}`}
                     >
-                      <span>👍</span> Yes
+                      <span>👍</span>&nbsp;Yes
                     </button>
                     <button
                       onClick={() => handleScore(-1)}
                       aria-label="Thumbs down — No"
                       className={`flex items-center gap-1.5 px-2.5 py-1 rounded-full border text-sm transition-colors cursor-pointer ${score === -1 ? "bg-zinc-400 border-zinc-400 text-zinc-900" : "bg-transparent border-zinc-700 text-zinc-500 hover:border-zinc-500 hover:text-zinc-300"}`}
                     >
-                      <span>👎</span> No
+                      <span>👎</span>&nbsp;No
                     </button>
                   </div>
                 </div>
+                <a
+                  role="status"
+                  aria-live="polite"
+                  href="/me#spirit-bean"
+                  className="absolute left-0 right-0 sm:right-auto top-full mt-3 px-3 py-2 rounded-lg bg-zinc-800 border border-zinc-600 text-sm text-zinc-300 underline transition-all duration-300"
+                  style={{
+                    opacity: showToast ? 1 : 0,
+                    transform: `translateY(${showToast ? "0" : "-4px"})`,
+                    pointerEvents: showToast ? "auto" : "none",
+                  }}
+                >
+                  See how this has affected your Spirit&nbsp;Bean&nbsp;→
+                </a>
               </div>
             </div>
           </div>

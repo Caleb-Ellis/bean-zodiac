@@ -38,6 +38,9 @@ function computeScores(
   flavourHighlight: number;
   formHighlight: number;
   beanHighlight: number;
+  claimedFlavourIdx: number;
+  claimedFormIdx: number;
+  claimedBeanIdx: number;
 } {
   const [claimedFlavourId, claimedFormId, claimedBeanId] = claimedSlug.split(
     "-",
@@ -67,13 +70,31 @@ function computeScores(
     beanScores[b] = (beanScores[b] ?? 5) + adjustedS;
   }
 
+  const flavourValues = FLAVOUR_ORDER.map((id) =>
+    Math.max(0, flavourScores[id]),
+  );
+  const formValues = FORM_ORDER.map((id) => Math.max(0, formScores[id]));
+  const beanValues = BEAN_ORDER.map((id) => Math.max(0, beanScores[id]));
+
+  const claimedFlavourIdx = FLAVOUR_ORDER.indexOf(claimedFlavourId);
+  const claimedFormIdx = FORM_ORDER.indexOf(claimedFormId);
+  const claimedBeanIdx = BEAN_ORDER.indexOf(claimedBeanId);
+
+  const pickHighlight = (values: number[], claimedIdx: number) => {
+    const max = Math.max(...values);
+    return values[claimedIdx] === max ? claimedIdx : values.indexOf(max);
+  };
+
   return {
-    flavourValues: FLAVOUR_ORDER.map((id) => Math.max(0, flavourScores[id])),
-    formValues: FORM_ORDER.map((id) => Math.max(0, formScores[id])),
-    beanValues: BEAN_ORDER.map((id) => Math.max(0, beanScores[id])),
-    flavourHighlight: FLAVOUR_ORDER.indexOf(claimedFlavourId),
-    formHighlight: FORM_ORDER.indexOf(claimedFormId),
-    beanHighlight: BEAN_ORDER.indexOf(claimedBeanId),
+    flavourValues,
+    formValues,
+    beanValues,
+    flavourHighlight: pickHighlight(flavourValues, claimedFlavourIdx),
+    formHighlight: pickHighlight(formValues, claimedFormIdx),
+    beanHighlight: pickHighlight(beanValues, claimedBeanIdx),
+    claimedFlavourIdx,
+    claimedFormIdx,
+    claimedBeanIdx,
   };
 }
 
@@ -91,6 +112,16 @@ export default function MePage({ data }: Props) {
     fetchZodiac(slug).then((z) => setZodiac(z));
     setScores(computeScores(slug, data));
   }, []);
+
+  useEffect(() => {
+    if (zodiac && window.location.hash === "#spirit-bean") {
+      setTimeout(() => {
+        document
+          .getElementById("spirit-bean")
+          ?.scrollIntoView({ behavior: "smooth" });
+      }, 50);
+    }
+  }, [zodiac]);
 
   if (claimedSlug === null) {
     return (
@@ -116,27 +147,27 @@ export default function MePage({ data }: Props) {
   const preparation = bean ? getPreparationName(flavourId, formId) : "";
 
   const flavourLabels = FLAVOUR_ORDER.map(
-    (id) => `${FLAVOUR_EMOJI[id]} ${data.flavours[id]?.name ?? id}`,
+    (id) => `${FLAVOUR_EMOJI[id]} ${data.flavours[id]?.name ?? id}${id === flavourId ? " 👤" : ""}`,
   );
   const flavourColors = FLAVOUR_ORDER.map((id) => `var(--flavour-${id})`);
   const flavourHrefs = FLAVOUR_ORDER.map((id) => `/flavours/${id}`);
   const formLabels = FORM_ORDER.map(
-    (id) => `${FORM_EMOJI[id]} ${data.forms[id]?.name ?? id}`,
+    (id) => `${FORM_EMOJI[id]} ${data.forms[id]?.name ?? id}${id === formId ? " 👤" : ""}`,
   );
   const formColors = FORM_ORDER.map((id) => `var(--form-${id})`);
   const formHrefs = FORM_ORDER.map((id) => `/forms/${id}`);
   const beanLabels = BEAN_ORDER.map((id) =>
-    (data.beans[id]?.name ?? id).replace(/ Bean$/, ""),
+    `${(data.beans[id]?.name ?? id).replace(/ Bean$/, "")}${id === beanId ? " 👤" : ""}`,
   );
   const beanColors = BEAN_ORDER.map((id) => `var(--bean-${id})`);
   const beanHrefs = BEAN_ORDER.map((id) => `/beans/${id}`);
   const alignedCount = scores
     ? [
-        scores.flavourValues[scores.flavourHighlight] >=
+        scores.flavourValues[scores.claimedFlavourIdx] >=
           Math.max(...scores.flavourValues),
-        scores.beanValues[scores.beanHighlight] >=
+        scores.beanValues[scores.claimedBeanIdx] >=
           Math.max(...scores.beanValues),
-        scores.formValues[scores.formHighlight] >=
+        scores.formValues[scores.claimedFormIdx] >=
           Math.max(...scores.formValues),
       ].filter(Boolean).length
     : 0;
@@ -197,7 +228,7 @@ export default function MePage({ data }: Props) {
       </div>
 
       {/* Spirit Bean */}
-      <section className="flex flex-col items-center gap-8">
+      <section id="spirit-bean" className="flex flex-col items-center gap-8">
         <div className="flex items-center gap-3 w-full">
           <div className="flex-1 border-t border-zinc-700" />
           <span className="text-zinc-500 text-xs">✦</span>
@@ -219,16 +250,7 @@ export default function MePage({ data }: Props) {
                 labelHrefs={flavourHrefs}
                 values={scores.flavourValues}
                 highlightIndex={scores.flavourHighlight}
-                colorVar={`var(--flavour-${flavourId})`}
-              />
-              <SpiritBeanRadar
-                title="Bean"
-                labels={beanLabels}
-                labelColors={beanColors}
-                labelHrefs={beanHrefs}
-                  values={scores.beanValues}
-                highlightIndex={scores.beanHighlight}
-                colorVar={`var(--bean-${beanId})`}
+                colorVar={`var(--flavour-${FLAVOUR_ORDER[scores.flavourHighlight]})`}
               />
               <SpiritBeanRadar
                 title="Form"
@@ -237,7 +259,16 @@ export default function MePage({ data }: Props) {
                 labelHrefs={formHrefs}
                 values={scores.formValues}
                 highlightIndex={scores.formHighlight}
-                colorVar={`var(--form-${formId})`}
+                colorVar={`var(--form-${FORM_ORDER[scores.formHighlight]})`}
+              />
+              <SpiritBeanRadar
+                title="Bean"
+                labels={beanLabels}
+                labelColors={beanColors}
+                labelHrefs={beanHrefs}
+                values={scores.beanValues}
+                highlightIndex={scores.beanHighlight}
+                colorVar={`var(--bean-${BEAN_ORDER[scores.beanHighlight]})`}
               />
             </div>
             <p className="text-2xl font-semibold text-center text-zinc-200">
