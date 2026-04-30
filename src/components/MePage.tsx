@@ -30,7 +30,6 @@ interface Props {
 
 function computeScores(
   claimedSlug: ZodiacId,
-  data: AllZodiacData,
 ): {
   flavourValues: number[];
   formValues: number[];
@@ -58,8 +57,7 @@ function computeScores(
   for (const entry of history) {
     const s = entry.score ?? 0;
     if (s === 0) continue;
-    const adjustedS =
-      entry.qualityId === "stale" || entry.qualityId === "rotten" ? -s : s;
+    const adjustedS = Math.sign(s);
     const [f, frm, b] = entry.zodiacId.split("-") as [
       FlavourId,
       FormId,
@@ -99,18 +97,20 @@ function computeScores(
 }
 
 export default function MePage({ data }: Props) {
-  const [claimedSlug, setClaimedSlug] = useState<ZodiacId | null>(null);
+  const [claimedSlug] = useState<ZodiacId | null>(() => {
+    if (typeof window === "undefined") return null;
+    return getClaimedBeanSlug();
+  });
   const [zodiac, setZodiac] = useState<Zodiac | null>(null);
-  const [scores, setScores] = useState<ReturnType<typeof computeScores> | null>(
-    null,
-  );
+  const [scores] = useState<ReturnType<typeof computeScores> | null>(() => {
+    if (typeof window === "undefined") return null;
+    const slug = getClaimedBeanSlug();
+    return slug ? computeScores(slug) : null;
+  });
 
   useEffect(() => {
-    const slug = getClaimedBeanSlug();
-    setClaimedSlug(slug);
-    if (!slug) return;
-    fetchZodiac(slug).then((z) => setZodiac(z));
-    setScores(computeScores(slug, data));
+    if (!claimedSlug) return;
+    fetchZodiac(claimedSlug).then((z) => setZodiac(z));
   }, []);
 
   useEffect(() => {
@@ -147,17 +147,20 @@ export default function MePage({ data }: Props) {
   const preparation = bean ? getPreparationName(flavourId, formId) : "";
 
   const flavourLabels = FLAVOUR_ORDER.map(
-    (id) => `${FLAVOUR_EMOJI[id]} ${data.flavours[id]?.name ?? id}${id === flavourId ? " 👤" : ""}`,
+    (id) =>
+      `${FLAVOUR_EMOJI[id]} ${data.flavours[id]?.name ?? id}${id === flavourId ? " 👤" : ""}`,
   );
   const flavourColors = FLAVOUR_ORDER.map((id) => `var(--flavour-${id})`);
   const flavourHrefs = FLAVOUR_ORDER.map((id) => `/flavours/${id}`);
   const formLabels = FORM_ORDER.map(
-    (id) => `${FORM_EMOJI[id]} ${data.forms[id]?.name ?? id}${id === formId ? " 👤" : ""}`,
+    (id) =>
+      `${FORM_EMOJI[id]} ${data.forms[id]?.name ?? id}${id === formId ? " 👤" : ""}`,
   );
   const formColors = FORM_ORDER.map((id) => `var(--form-${id})`);
   const formHrefs = FORM_ORDER.map((id) => `/forms/${id}`);
-  const beanLabels = BEAN_ORDER.map((id) =>
-    `${(data.beans[id]?.name ?? id).replace(/ Bean$/, "")}${id === beanId ? " 👤" : ""}`,
+  const beanLabels = BEAN_ORDER.map(
+    (id) =>
+      `${(data.beans[id]?.name ?? id).replace(/ Bean$/, "")}${id === beanId ? " 👤" : ""}`,
   );
   const beanColors = BEAN_ORDER.map((id) => `var(--bean-${id})`);
   const beanHrefs = BEAN_ORDER.map((id) => `/beans/${id}`);
@@ -211,14 +214,18 @@ export default function MePage({ data }: Props) {
             {form && <FormBadge id={formId} name={form.name} />}
             <span className="text-zinc-600">×</span>
             {bean && <BeanBadge id={beanId} name={bean.name} />}
-            {zodiac && (
-              <>
-                <span className="text-zinc-600">=</span>
-                <TraitBadge trait={zodiac.trait} featured />
-              </>
+            <span className="text-zinc-600">=</span>
+            {zodiac ? (
+              <TraitBadge trait={zodiac.trait} featured />
+            ) : (
+              <div className="h-6 w-20 bg-zinc-800 rounded-full animate-pulse" />
             )}
           </div>
-          {zodiac && <p className="text-zinc-300 italic">"{zodiac.quote}"</p>}
+          {zodiac ? (
+            <p className="text-zinc-300 italic">"{zodiac.quote}"</p>
+          ) : (
+            <div className="h-4 w-64 bg-zinc-800 rounded-full animate-pulse" />
+          )}
           {zodiac?.content && (
             <div className="markdown-content mb-2">
               <Markdown>{zodiac.content}</Markdown>

@@ -2,6 +2,17 @@
 
 ---
 
+<script>
+  const orbs = document.querySelectorAll<HTMLElement>(".orb");
+  const reduced = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+  if (!reduced) {
+    document.addEventListener("visibilitychange", () => {
+      const state = document.hidden ? "paused" : "running";
+      orbs.forEach((o) => (o.style.animationPlayState = state));
+    });
+  }
+</script>
+
 <div class="orbs" aria-hidden="true">
   <div class="orb orb-1"></div>
   <div class="orb orb-2"></div>
@@ -24,6 +35,13 @@
     border-radius: 50%;
     opacity: 0.25;
     animation: drift linear infinite;
+    will-change: transform;
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    .orb {
+      animation: none;
+    }
   }
 
   .orb-1 {

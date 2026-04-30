@@ -12,6 +12,7 @@
 <script>
   const canvas = document.getElementById("stars") as HTMLCanvasElement;
   const ctx = canvas.getContext("2d")!;
+  const reduced = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
 
   interface Star {
     x: number;
@@ -23,10 +24,12 @@
   }
 
   let stars: Star[] = [];
+  let rafId: number | null = null;
 
   function resize() {
     canvas.width = window.innerWidth;
     canvas.height = window.innerHeight;
+    if (reduced) drawStatic();
   }
 
   function seed() {
@@ -40,6 +43,16 @@
     }));
   }
 
+  function drawStatic() {
+    ctx.clearRect(0, 0, canvas.width, canvas.height);
+    for (const s of stars) {
+      ctx.beginPath();
+      ctx.arc(s.x, s.y, s.r, 0, Math.PI * 2);
+      ctx.fillStyle = `rgba(255,255,255,${s.alpha})`;
+      ctx.fill();
+    }
+  }
+
   function draw(t: number) {
     ctx.clearRect(0, 0, canvas.width, canvas.height);
     for (const s of stars) {
@@ -49,13 +62,32 @@
       ctx.fillStyle = `rgba(255,255,255,${Math.max(0, twinkle)})`;
       ctx.fill();
     }
-    requestAnimationFrame(draw);
+    rafId = requestAnimationFrame(draw);
+  }
+
+  function start() {
+    if (rafId === null && !reduced) rafId = requestAnimationFrame(draw);
+  }
+
+  function stop() {
+    if (rafId !== null) {
+      cancelAnimationFrame(rafId);
+      rafId = null;
+    }
   }
 
   resize();
   seed();
   window.addEventListener("resize", resize);
-  requestAnimationFrame(draw);
+
+  if (reduced) {
+    drawStatic();
+  } else {
+    start();
+    document.addEventListener("visibilitychange", () => {
+      document.hidden ? stop() : start();
+    });
+  }
 </script>
 
 <style>

@@ -282,7 +282,7 @@ export default function ZodiacWheelContainer({ data }: Props) {
         </div>
       </div>
       <div
-        className={`relative w-full flex items-center justify-center overflow-hidden transition-all duration-300 ${resultMounted ? "h-0" : "h-36"}`}
+        className={`relative w-full flex items-center justify-center overflow-hidden transition-[height,opacity] duration-300 ${resultMounted ? "h-0" : "h-36"}`}
       >
         <section
           className={`absolute w-full px-6 flex flex-col items-center gap-3 transition-opacity duration-300 ${
@@ -293,13 +293,13 @@ export default function ZodiacWheelContainer({ data }: Props) {
         >
           <input
             type="date"
-            className="bg-zinc-900/80 border-2 border-zinc-700/60 text-white rounded-xl px-4 py-2.5 cursor-pointer backdrop-blur-sm transition-all duration-200 focus:outline-none focus:border-zinc-500 focus:ring-1 focus:ring-zinc-500/40 hover:border-zinc-600 [&::-webkit-calendar-picker-indicator]:hidden"
+            className="bg-zinc-900/80 border-2 border-zinc-700/60 text-white rounded-xl px-4 py-2.5 cursor-pointer backdrop-blur-sm transition-[border-color,box-shadow] duration-200 focus:outline-none focus:border-zinc-500 focus:ring-1 focus:ring-zinc-500/40 hover:border-zinc-600 [&::-webkit-calendar-picker-indicator]:hidden"
             value={inputDate}
             onChange={(e) => setInputDate(e.target.value)}
           />
           <button
             onClick={handleReveal}
-            className="bg-zinc-900/80 border-2 border-zinc-500/60 text-white rounded-xl px-8 py-4 text-lg font-bold backdrop-blur-sm transition-all duration-200 hover:border-zinc-400 hover:text-white hover:bg-zinc-800/80 cursor-pointer"
+            className="bg-zinc-900/80 border-2 border-zinc-500/60 text-white rounded-xl px-8 py-4 text-lg font-bold backdrop-blur-sm transition-[border-color,background-color,color] duration-200 hover:border-zinc-400 hover:text-white hover:bg-zinc-800/80 cursor-pointer"
           >
             Discover the Bean Within
           </button>

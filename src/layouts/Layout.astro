@@ -54,6 +54,14 @@ const {
     <script is:inline>
       try {
         window.__claimedBean = localStorage.getItem("bean-zodiac-claimed");
+        if (window.__claimedBean) {
+          const link = document.createElement("link");
+          link.rel = "preload";
+          link.as = "fetch";
+          link.href = `/api/zodiacs/${window.__claimedBean}.json`;
+          link.crossOrigin = "anonymous";
+          document.head.appendChild(link);
+        }
       } catch (_) {
         window.__claimedBean = null;
       }

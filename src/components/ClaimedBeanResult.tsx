@@ -153,42 +153,43 @@ export default function ClaimedBeanResult({
                     qualityId={qualityId}
                   />
                 </p>
-                {fortuneText && (
+                {fortuneText ? (
                   <p className="italic text-zinc-200 sm:text-lg text-left mb-1 sm:mb-2">
                     "{fortuneText}"
                   </p>
+                ) : (
+                  <div className="h-5 w-56 bg-zinc-800 rounded-full animate-pulse mb-1 sm:mb-2" />
                 )}
-                <div className="flex flex-wrap items-center gap-3 text-sm">
-                  <span className="text-zinc-400">Did this resonate?</span>
-                  <div className="flex gap-3">
-                    <button
-                      onClick={() => handleScore(1)}
-                      aria-label="Thumbs up — Yes"
-                      className={`flex items-center gap-1.5 px-2.5 py-1 rounded-full border text-sm transition-colors cursor-pointer ${score === 1 ? "bg-zinc-400 border-zinc-400 text-zinc-900" : "bg-transparent border-zinc-700 text-zinc-500 hover:border-zinc-500 hover:text-zinc-300"}`}
-                    >
-                      <span>👍</span>&nbsp;Yes
-                    </button>
-                    <button
-                      onClick={() => handleScore(-1)}
-                      aria-label="Thumbs down — No"
-                      className={`flex items-center gap-1.5 px-2.5 py-1 rounded-full border text-sm transition-colors cursor-pointer ${score === -1 ? "bg-zinc-400 border-zinc-400 text-zinc-900" : "bg-transparent border-zinc-700 text-zinc-500 hover:border-zinc-500 hover:text-zinc-300"}`}
-                    >
-                      <span>👎</span>&nbsp;No
-                    </button>
-                  </div>
+                <div className="flex gap-3 text-sm">
+                  <button
+                    onClick={() => handleScore(1)}
+                    aria-label="Lean in"
+                    className={`flex items-center gap-2 px-3 py-1 rounded-full border text-sm transition-colors cursor-pointer ${score === 1 ? "bg-blue-900 border-blue-700 text-blue-100" : "bg-transparent border-slate-700 text-slate-500 hover:border-blue-700 hover:text-blue-300"}`}
+                  >
+                    <span>↗</span>
+                    <span>Lean in</span>
+                  </button>
+                  <button
+                    onClick={() => handleScore(-1)}
+                    aria-label="Resist"
+                    className={`flex items-center gap-2 px-3 py-1 rounded-full border text-sm transition-colors cursor-pointer ${score === -1 ? "bg-rose-900 border-rose-800 text-rose-200" : "bg-transparent border-zinc-700 text-zinc-500 hover:border-rose-900 hover:text-zinc-300"}`}
+                  >
+                    <span>↙</span>
+                    <span>Resist</span>
+                  </button>
                 </div>
                 <a
                   role="status"
                   aria-live="polite"
                   href="/me#spirit-bean"
-                  className="absolute left-0 right-0 sm:right-auto top-full mt-3 px-3 py-2 rounded-lg bg-zinc-800 border border-zinc-600 text-sm text-zinc-300 underline transition-all duration-300"
+                  className="absolute left-0 top-full mt-3 w-max px-3 py-2 rounded-lg bg-zinc-800 border border-zinc-600 text-sm text-zinc-300 underline shadow-md transition-[opacity,transform] duration-300 ease-out"
                   style={{
                     opacity: showToast ? 1 : 0,
                     transform: `translateY(${showToast ? "0" : "-4px"})`,
                     pointerEvents: showToast ? "auto" : "none",
                   }}
                 >
-                  See how this has affected your Spirit&nbsp;Bean&nbsp;→
+                  Your Spirit Bean stirs&nbsp;→
                 </a>
               </div>
             </div>
@@ -243,9 +244,11 @@ export default function ClaimedBeanResult({
             <div className="flex-1 border-t border-zinc-600" />
           </div>
           <p className="text-xs uppercase tracking-widest text-zinc-200">
-            {seasonalZodiac
-              ? `We are in the ${seasonalZodiac.trait} Season of the`
-              : "Current Season"}
+            {seasonalZodiac ? (
+              `We are in the ${seasonalZodiac.trait} Season of the`
+            ) : (
+              <span className="inline-block h-4 w-48 bg-zinc-800 rounded-full animate-pulse" />
+            )}
           </p>
           <p className="text-sm sm:text-lg font-bold uppercase tracking-widest text-zinc-200 text-left mb-2">
             <ZodiacName
@@ -266,10 +269,12 @@ export default function ClaimedBeanResult({
               />
             </div>
           )}
-          {seasonalZodiac && (
+          {seasonalZodiac ? (
             <p className="italic text-zinc-200 sm:text-lg text-center px-4">
               "{seasonalZodiac.seasonalFortune}"
             </p>
+          ) : (
+            <div className="h-5 w-64 bg-zinc-800 rounded-full animate-pulse" />
           )}
           <div className="flex flex-wrap justify-center items-center gap-2 text-sm text-zinc-400 my-2 sm:my-4">
             <FlavourBadge

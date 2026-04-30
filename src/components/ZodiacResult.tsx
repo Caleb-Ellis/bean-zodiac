@@ -88,7 +88,7 @@ export default function ZodiacResult({ data, showContent, showFortune, showQuote
             <BeanBadge id={meta.beanId} name={bean.name} label="Year" />
           </span>
         </div>
-        {showFortune && zodiac && (
+        {showFortune && (
           <section className="mb-6 sm:mb-10 max-w-xl w-full flex flex-col items-center gap-3">
             <div className="flex items-center gap-3 w-full">
               <div className="flex-1 border-t border-zinc-600" />
@@ -96,9 +96,10 @@ export default function ZodiacResult({ data, showContent, showFortune, showQuote
               <div className="flex-1 border-t border-zinc-600" />
             </div>
             <p className="text-xs uppercase tracking-widest text-zinc-200">Wisdom of the Bean</p>
-            <p className="italic text-zinc-200 text-lg text-center px-4">
-              "{zodiac.seasonalFortune}"
-            </p>
+            {zodiac
+              ? <p className="italic text-zinc-200 text-lg text-center px-4">"{zodiac.seasonalFortune}"</p>
+              : <div className="h-6 w-72 bg-zinc-800 rounded-full animate-pulse" />
+            }
             <div className="flex items-center gap-3 w-full">
               <div className="flex-1 border-t border-zinc-600" />
               <span className="text-zinc-500 text-xs">✦</span>
@@ -118,7 +119,7 @@ export default function ZodiacResult({ data, showContent, showFortune, showQuote
       )}
       <a
         href="/wheel"
-        className="bg-zinc-900/80 border-2 border-zinc-500/60 text-white rounded-xl px-8 py-4 font-bold backdrop-blur-sm transition-all duration-200 hover:border-zinc-400 hover:text-white hover:bg-zinc-800/80"
+        className="bg-zinc-900/80 border-2 border-zinc-500/60 text-white rounded-xl px-8 py-4 font-bold backdrop-blur-sm transition-[border-color,background-color,color] duration-200 hover:border-zinc-400 hover:text-white hover:bg-zinc-800/80"
       >
         Which Bean are You?&nbsp;→
       </a>

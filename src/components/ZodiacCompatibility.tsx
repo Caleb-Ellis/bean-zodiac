@@ -123,7 +123,7 @@ export default function ZodiacCompatibility({ data }: Props) {
   return (
     <div ref={topRef} className="flex flex-col items-center w-full">
       <div
-        className={`grid transition-all duration-500 w-full max-w-xs ${
+        className={`grid transition-[grid-template-rows,opacity] duration-500 w-full max-w-xs ${
           formVisible
             ? "grid-rows-[1fr] opacity-100"
             : "grid-rows-[0fr] opacity-0"
@@ -139,7 +139,7 @@ export default function ZodiacCompatibility({ data }: Props) {
             />
             <button
               onClick={handleCompare}
-              className="mt-5 w-full bg-zinc-900/80 border-2 border-zinc-500/60 text-white rounded-xl px-8 py-2.5 text-base font-bold backdrop-blur-sm transition-all duration-200 hover:border-zinc-400 hover:bg-zinc-800/80 cursor-pointer"
+              className="mt-5 w-full bg-zinc-900/80 border-2 border-zinc-500/60 text-white rounded-xl px-8 py-2.5 text-base font-bold backdrop-blur-sm transition-[border-color,background-color] duration-200 hover:border-zinc-400 hover:bg-zinc-800/80 cursor-pointer"
             >
               Match Beans
             </button>
@@ -165,7 +165,7 @@ export default function ZodiacCompatibility({ data }: Props) {
           {revealedCount >= 4 && (
             <button
               onClick={handleReset}
-              className="animate-fade-up bg-zinc-900/80 border-2 border-zinc-500/60 text-white rounded-xl px-8 py-4 text-lg font-bold transition-all duration-200 hover:border-zinc-400 hover:bg-zinc-800/80 cursor-pointer"
+              className="animate-fade-up bg-zinc-900/80 border-2 border-zinc-500/60 text-white rounded-xl px-8 py-4 text-lg font-bold transition-[border-color,background-color] duration-200 hover:border-zinc-400 hover:bg-zinc-800/80 cursor-pointer"
             >
               Match More Beans
               <svg
@@ -205,7 +205,7 @@ function DateField({
       </label>
       <input
         type="date"
-        className="w-full bg-zinc-900/80 border-2 border-zinc-700/60 text-white rounded-xl px-4 py-2.5 cursor-pointer backdrop-blur-sm transition-all duration-200 focus:outline-none focus:border-zinc-500 focus:ring-1 focus:ring-zinc-500/40 hover:border-zinc-600 [&::-webkit-calendar-picker-indicator]:hidden"
+        className="w-full bg-zinc-900/80 border-2 border-zinc-700/60 text-white rounded-xl px-4 py-2.5 cursor-pointer backdrop-blur-sm transition-[border-color,box-shadow] duration-200 focus:outline-none focus:border-zinc-500 focus:ring-1 focus:ring-zinc-500/40 hover:border-zinc-600 [&::-webkit-calendar-picker-indicator]:hidden"
         value={value}
         onChange={(e) => onChange(e.target.value)}
       />
