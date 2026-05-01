@@ -14,8 +14,8 @@ dailyBad: Caution is being insisted on — and the people insisting have respons
 dailyWorst: Going all the way in is being named as recklessness — and the support needed to follow through is being withdrawn.
 ---
 
-Brightened Fava Beans are the Bean Zodiac's most reckless — they go before conditions are clear.
+Agrodolce Fava Beans are the Bean Zodiac's most reckless — they go before conditions are clear.
 
 Fava Beans don't wait for ease; Sour Beans don't soften reality; Fried Beans convert immediately to action.
 
-The Brightened Fava Bean's challenge is learning what they're rushing past. They must distinguish caution from avoidance.
+The Agrodolce Fava Bean's challenge is learning what they're rushing past. They must distinguish caution from avoidance.

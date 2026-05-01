@@ -14,8 +14,8 @@ dailyBad: The room is welcoming rough — and the refinement is landing as a way
 dailyWorst: The cruder version won — and the room is treating that as the right outcome.
 ---
 
-Dark-Roasted Cannellini Beans are the Bean Zodiac's most refined — they improve everything they touch.
+Charcoal Cannellini Beans are the Bean Zodiac's most refined — they improve everything they touch.
 
 Cannellini Bean improves through presence; Bitter Beans keep refinement from sliding into mere ornament; Roasted Beans fill the room, coaxing arrangements outward.
 
-The Dark-Roasted Cannellini Bean's challenge is approachability. Refinement that signals too clearly becomes intimidating. They must remember the goal is elevating surroundings, not replacing them.
+The Charcoal Cannellini Bean's challenge is approachability. Refinement that signals too clearly becomes intimidating. They must remember the goal is elevating surroundings, not replacing them.

@@ -14,8 +14,8 @@ dailyBad: An answer is being asked for — the question is being treated as dela
 dailyWorst: The exploration is being named as avoidance — someone wants a conclusion and is naming the wandering as a problem.
 ---
 
-Bronzed Green Beans are the Bean Zodiac's most curious — their interest is warm, wide, and without agenda.
+Rendered Green Beans are the Bean Zodiac's most curious — their interest is warm, wide, and without agenda.
 
 Green Beans notice everything and keep moving; Umami Beans accumulate noticing into depth; Roasted Beans turn curiosity outward with generosity.
 
-The Bronzed Green Bean's challenge is focus. They must choose what is most worth understanding, as not everything can be next.
+The Rendered Green Bean's challenge is focus. They must choose what is most worth understanding, as not everything can be next.

@@ -28,9 +28,7 @@ interface Props {
   data: AllZodiacData;
 }
 
-function computeScores(
-  claimedSlug: ZodiacId,
-): {
+function computeScores(claimedSlug: ZodiacId): {
   flavourValues: number[];
   formValues: number[];
   beanValues: number[];

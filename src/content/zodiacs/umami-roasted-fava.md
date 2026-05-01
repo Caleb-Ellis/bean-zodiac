@@ -14,8 +14,8 @@ dailyBad: The opposition is softening its pressure — making the refusal feel l
 dailyWorst: What is being opposed has found a way to make the defiance look unreasonable — and the room is starting to agree.
 ---
 
-Bronzed Fava Beans are the Bean Zodiac's most defiant — they do this with warmth that makes clear it's not a wound but a position.
+Rendered Fava Beans are the Bean Zodiac's most defiant — they do this with warmth that makes clear it's not a wound but a position.
 
 Fava Beans require double work to access; Umami Beans give defiance depth and accumulated richness; Roasted Beans fill the room with warmth and invitation.
 
-The Bronzed Fava Bean's challenge is sustenance. They must make sure they are nourished by what they are building, not only by what they are refusing.
+The Rendered Fava Bean's challenge is sustenance. They must make sure they are nourished by what they are building, not only by what they are refusing.

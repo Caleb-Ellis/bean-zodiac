@@ -14,8 +14,8 @@ dailyBad: Someone who takes more than they give is close — the ease you offer 
 dailyWorst: Someone is demanding warmth that is not there to give — and the expectation will not reduce.
 ---
 
-Bronzed Adzuki Beans are the Bean Zodiac's most warm — it's what they are like, the way a roasted bean fills the room.
+Rendered Adzuki Beans are the Bean Zodiac's most warm — it's what they are like, the way a roasted bean fills the room.
 
 Adzuki Beans mark occasions with joy that colours everything; Umami Beans provide depth that makes warmth feel like more; Roasted Beans hold everything at the right temperature.
 
-The Bronzed Adzuki Bean's challenge is exhaustion. They must tend their own warmth so it deserves to be kept.
+The Rendered Adzuki Bean's challenge is exhaustion. They must tend their own warmth so it deserves to be kept.

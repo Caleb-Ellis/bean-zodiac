@@ -14,8 +14,8 @@ dailyBad: The scale is being received as excess — someone is signalling that l
 dailyWorst: The gesture is being rejected — what was offered is being named as too much and handed back.
 ---
 
-Bronzed Kidney Beans are the Bean Zodiac's most extravagant — they believe the full experience is always better than the restrained one.
+Rendered Kidney Beans are the Bean Zodiac's most extravagant — they believe the full experience is always better than the restrained one.
 
 Kidney Beans give up richness slowly and fully; Umami Beans add depth and substance; Roasted Beans coax everything outward to fill the room.
 
-The Bronzed Kidney Bean's challenge is distinction. They must know whether extravagance serves genuine depth or substitutes for it.
+The Rendered Kidney Bean's challenge is distinction. They must know whether extravagance serves genuine depth or substitutes for it.

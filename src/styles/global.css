@@ -285,7 +285,7 @@ html {
 .prep-bitter-fried {
   --flavour-filter: brightness(0.65) contrast(1.8) sepia(0.4) hue-rotate(345deg) saturate(1.5);
 }
-/* Dark-Roasted */
+/* Charcoal */
 .prep-bitter-roasted {
   --flavour-filter: brightness(0.75) contrast(2) sepia(0.2);
 }
@@ -306,13 +306,13 @@ html {
 .prep-sour-fermented {
   --flavour-filter: sepia(0.15) hue-rotate(35deg) saturate(1.2) contrast(1.2);
 }
-/* Brightened */
+/* Agrodolce */
 .prep-sour-fried {
-  --flavour-filter: brightness(1.25) saturate(1.25) contrast(1.1);
+  --flavour-filter: sepia(0.35) hue-rotate(10deg) saturate(1.6) contrast(1.2);
 }
-/* Charred */
+/* Chimichurri */
 .prep-sour-roasted {
-  --flavour-filter: contrast(2) brightness(0.8) saturate(1.3) hue-rotate(-15deg);
+  --flavour-filter: contrast(2) saturate(0.75) hue-rotate(70deg);
 }
 /* Cold-Smoked */
 .prep-sour-smoked {
@@ -385,11 +385,11 @@ html {
 .prep-umami-fried {
   --flavour-filter: sepia(0.3) hue-rotate(35deg) saturate(1.2) brightness(1.051) contrast(0.95);
 }
-/* Bronzed */
+/* Rendered */
 .prep-umami-roasted {
   --flavour-filter: sepia(0.6) hue-rotate(18deg) saturate(1.5) contrast(1.3) brightness(0.9);
 }
-/* Burnished */
+/* Hickory */
 .prep-umami-smoked {
   --flavour-filter: sepia(0.35) brightness(0.75) contrast(1.8) saturate(0.75);
 }
@@ -501,6 +501,16 @@ input[type="date"]::-webkit-datetime-edit-year-field:focus {
   animation: score-rot 8s ease-in-out infinite;
 }
 
+.text-effect-fog {
+  color: #a8895a;
+  animation: pulse-fog 4s ease-in-out infinite;
+}
+
+.text-effect-void {
+  color: #7c5cc4;
+  animation: pulse-void 6s ease-in-out infinite;
+}
+
 @keyframes score-shimmer {
   0% {
     background-position: 0% center;
@@ -518,6 +528,16 @@ input[type="date"]::-webkit-datetime-edit-year-field:focus {
   50% {
     color: #b91c1c;
   }
+}
+
+@keyframes pulse-fog {
+  0%, 100% { color: #a8895a; }
+  50% { color: #4a3a20; }
+}
+
+@keyframes pulse-void {
+  0%, 100% { color: #7c5cc4; }
+  50% { color: #4f2d96; }
 }
 
 @keyframes score-rot {

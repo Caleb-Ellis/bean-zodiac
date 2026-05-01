@@ -14,8 +14,8 @@ dailyBad: A more measured release is what they want — the full disclosure came
 dailyWorst: Filtering is being installed — saying everything you know was named the reason things are harder than they should be.
 ---
 
-Charred Edamame are the Bean Zodiac's most forthright — they volunteer truth from warmth, not compulsion.
+Chimichurri Edamame are the Bean Zodiac's most forthright — they volunteer truth from warmth, not compulsion.
 
 Edamame don't waste their turn; Sour Beans offer honesty without vagueness; Roasted Beans give the gift instead of verdict.
 
-The Charred Edamame's challenge is not foreclosing discovery. They must let others find out for themselves sometimes.
+The Chimichurri Edamame's challenge is not foreclosing discovery. They must let others find out for themselves sometimes.

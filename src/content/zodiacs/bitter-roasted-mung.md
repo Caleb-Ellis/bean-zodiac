@@ -14,8 +14,8 @@ dailyBad: The people offering credit are confused — refusing it again is not g
 dailyWorst: People want you visible in the work — and the absence is becoming the story of it.
 ---
 
-Dark-Roasted Mung Beans are the Bean Zodiac's most humble — they know what they are capable of and keep it hidden.
+Charcoal Mung Beans are the Bean Zodiac's most humble — they know what they are capable of and keep it hidden.
 
 Mung Bean gives freely and asks nothing; Bitter Beans find appetite for credit unbecoming; Roasted Beans offer warmth, genuinely pleased by others' successes.
 
-The Dark-Roasted Mung Bean's challenge is being seen. Humility is a virtue and occasional obstacle. They must allow others to know what they're capable of or risk underestimation by Beans they want to work alongside.
+The Charcoal Mung Bean's challenge is being seen. Humility is a virtue and occasional obstacle. They must allow others to know what they're capable of or risk underestimation by Beans they want to work alongside.

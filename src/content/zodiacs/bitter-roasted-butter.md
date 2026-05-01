@@ -14,8 +14,8 @@ dailyBad: Restraint is being recommended — and it is coming from someone who k
 dailyWorst: The excess has been named the problem — and someone is cutting it back.
 ---
 
-Dark-Roasted Butter Beans are the Bean Zodiac's most indulgent — quality is non-negotiable.
+Charcoal Butter Beans are the Bean Zodiac's most indulgent — quality is non-negotiable.
 
 Butter Bean brings ease and warmth; Bitter Beans keep discernment over comfort; Roasted Beans coax sugars out with irresistible, unashamed warmth.
 
-The Dark-Roasted Butter Bean's challenge is motion. A life arranged only around comfort stops being comfortable. They must occasionally do something inconvenient—not to suffer, but to remember what they're choosing.
+The Charcoal Butter Bean's challenge is motion. A life arranged only around comfort stops being comfortable. They must occasionally do something inconvenient—not to suffer, but to remember what they're choosing.

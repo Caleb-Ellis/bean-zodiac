@@ -14,8 +14,8 @@ dailyBad: Going small about yourself is being accepted as true — and no one is
 dailyWorst: What you said about yourself is being cited as evidence — and the thing it was belittling is being treated accordingly.
 ---
 
-Brightened Mung Beans are the Bean Zodiac's most self-deprecating — they get there first and make it funnier.
+Agrodolce Mung Beans are the Bean Zodiac's most self-deprecating — they get there first and make it funnier.
 
 Mung Beans have vulnerability at the surface; Sour Beans name awkwardness clearly; Fried Beans deliver fast, turning honesty into ease.
 
-The Brightened Mung Bean's challenge is self-awareness versus self-diminishment. They must ensure the laugh isn't costing them.
+The Agrodolce Mung Bean's challenge is self-awareness versus self-diminishment. They must ensure the laugh isn't costing them.

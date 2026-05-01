@@ -14,8 +14,8 @@ dailyBad: The lever is being named — and the naming is not wrong.
 dailyWorst: The pattern has been identified — and identified to people whose opinion matters.
 ---
 
-Brightened Pinto Beans are the Bean Zodiac's most manipulative — not always deliberately, but the mechanism runs.
+Agrodolce Pinto Beans are the Bean Zodiac's most manipulative — not always deliberately, but the mechanism runs.
 
 Pinto Beans imagine many versions; Sour Beans know which details matter; Fried Beans choose before others orient.
 
-The Brightened Pinto Bean's challenge is trust. They must ask whether outcomes are worth the cost before they act.
+The Agrodolce Pinto Bean's challenge is trust. They must ask whether outcomes are worth the cost before they act.

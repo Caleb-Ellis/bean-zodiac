@@ -14,8 +14,8 @@ dailyBad: Someone is testing the limit of the space — to see if there is one.
 dailyWorst: A boundary is being demanded — someone is insisting that a line be drawn now.
 ---
 
-Bronzed Chickpeas are the Bean Zodiac's most tolerant — they've been around long enough to lose certainty about what doesn't belong.
+Rendered Chickpeas are the Bean Zodiac's most tolerant — they've been around long enough to lose certainty about what doesn't belong.
 
 Chickpeas make themselves at home with genuine appreciation; Umami Beans provide depth beyond mere acceptance; Roasted Beans fill space with conviviality.
 
-The Bronzed Chickpea's challenge is limits. They must know what they will not accept and hold that line warmly, without apology.
+The Rendered Chickpea's challenge is limits. They must know what they will not accept and hold that line warmly, without apology.

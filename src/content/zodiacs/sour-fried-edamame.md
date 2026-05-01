@@ -14,8 +14,8 @@ dailyBad: Padding is what they're asking for — and unkind is the word they're 
 dailyWorst: People are no longer candid — going without padding has been identified as the reason, and it holds.
 ---
 
-Brightened Edamame are the Bean Zodiac's most blunt — unwilling to soften what can simply be said.
+Agrodolce Edamame are the Bean Zodiac's most blunt — unwilling to soften what can simply be said.
 
 Edamame skip preamble; Sour Beans won't dilute truth; Fried Beans deliver before tact intervenes.
 
-The Brightened Edamame's challenge is the gap between true and useful. They must ask whether they're giving truth or just discharging it.
+The Agrodolce Edamame's challenge is the gap between true and useful. They must ask whether they're giving truth or just discharging it.

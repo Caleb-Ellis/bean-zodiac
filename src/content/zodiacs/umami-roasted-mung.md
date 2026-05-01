@@ -14,8 +14,8 @@ dailyBad: Brightness is being expected — the heaviness is not what the room as
 dailyWorst: The sadness is being named as a weight on others — someone is asking for it to be set aside.
 ---
 
-Bronzed Mung Beans are the Bean Zodiac's most melancholy — not unhappy, but one foot always in what has passed.
+Rendered Mung Beans are the Bean Zodiac's most melancholy — not unhappy, but one foot always in what has passed.
 
 Mung Beans absorb conditions including loss; Umami Beans make nothing shallow, leaving residue; Roasted Beans hold it in steady warmth.
 
-The Bronzed Mung Bean's challenge is present tense. They must let now be enough, even when it lacks the weight of what came before.
+The Rendered Mung Bean's challenge is present tense. They must let now be enough, even when it lacks the weight of what came before.

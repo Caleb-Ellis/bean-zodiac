@@ -14,8 +14,8 @@ dailyBad: A more measured approach is being preferred — the unguarded version 
 dailyWorst: A more careful communicator is being sought — the candour has been named as the reason trust is eroding.
 ---
 
-Brightened Adzuki Beans are the Bean Zodiac's most candid — honesty that arrives immediate and kind.
+Agrodolce Adzuki Beans are the Bean Zodiac's most candid — honesty that arrives immediate and kind.
 
 Adzuki Beans celebrate and mark what Beans deserve; Sour Beans insist honesty enables celebration; Fried Beans arrive before time to soften.
 
-The Brightened Adzuki Bean's challenge is reading the room at speed. They must ensure truth lands somewhere it can be received.
+The Agrodolce Adzuki Bean's challenge is reading the room at speed. They must ensure truth lands somewhere it can be received.

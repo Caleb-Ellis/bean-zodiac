@@ -14,8 +14,8 @@ dailyBad: A plainer answer is what's being demanded — the careful phrasing has
 dailyWorst: The direct approach is being insisted on — the tact was named as the reason nothing got addressed.
 ---
 
-Charred Cannellini Beans are the Bean Zodiac's most tactful — they deliver hard truths wrapped in genuine care.
+Chimichurri Cannellini Beans are the Bean Zodiac's most tactful — they deliver hard truths wrapped in genuine care.
 
 Cannellini Beans improve situations by their presence; Sour Beans cut to what is true; Roasted Beans fill the space with warmth.
 
-The Charred Cannellini Bean's challenge is knowing when to drop the tact. They must learn when precision matters more than softness.
+The Chimichurri Cannellini Bean's challenge is knowing when to drop the tact. They must learn when precision matters more than softness.

@@ -14,8 +14,8 @@ dailyBad: Holding things loosely is being received as uncertainty — and a firm
 dailyWorst: Someone less revisable is being preferred — the willingness to revise was named as the reason you cannot be relied on.
 ---
 
-Charred Chickpeas are the Bean Zodiac's most open-minded — they consider new ideas with genuine interest.
+Chimichurri Chickpeas are the Bean Zodiac's most open-minded — they consider new ideas with genuine interest.
 
 Chickpeas approach any company as interesting; Sour Beans strip defensiveness; Roasted Beans add warmth to receive opposing ideas.
 
-The Charred Chickpea's challenge is grounding conviction. They must know what they believe so changing their mind is choice, not drift.
+The Chimichurri Chickpea's challenge is grounding conviction. They must know what they believe so changing their mind is choice, not drift.

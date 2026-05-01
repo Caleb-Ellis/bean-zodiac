@@ -14,8 +14,8 @@ dailyBad: An intermediary step is what they want — going straight at it has be
 dailyWorst: The room has rerouted — going straight to it has been called aggression, and that settled it.
 ---
 
-Brightened Black Beans are the Bean Zodiac's most direct — they see it and say it.
+Agrodolce Black Beans are the Bean Zodiac's most direct — they see it and say it.
 
 Black Beans have watched carefully; Sour Beans cut to what is precise; Fried Beans deliver without waiting for softness.
 
-The Brightened Black Bean's challenge is ensuring directness doesn't read as dismissal. They must show care beneath the lack of ornament.
+The Agrodolce Black Bean's challenge is ensuring directness doesn't read as dismissal. They must show care beneath the lack of ornament.

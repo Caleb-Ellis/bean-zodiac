@@ -14,8 +14,8 @@ dailyBad: Something mundane is being treated as interchangeable — and the weig
 dailyWorst: What is being asked for is the reduction of something held as precious — and the ask is pressing.
 ---
 
-Burnished Adzuki Beans are the Bean Zodiac's most hallowed — celebrations in their presence have the quality of ritual: slow-built, unrepeatable, and impossible to rush.
+Hickory Adzuki Beans are the Bean Zodiac's most hallowed — celebrations in their presence have the quality of ritual: slow-built, unrepeatable, and impossible to rush.
 
 Adzuki Beans mark every moment that genuinely deserves it; Umami Beans give that marking a depth that can only accumulate over time; Smoked Beans make the weight of the occasion seem to come from somewhere older than the room.
 
-The Burnished Adzuki Bean's challenge is accessibility. The hallowed can become unreachable. These Beans must make sure the ceremony still has an entrance.
+The Hickory Adzuki Bean's challenge is accessibility. The hallowed can become unreachable. These Beans must make sure the ceremony still has an entrance.

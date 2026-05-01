@@ -8,9 +8,6 @@ import {
 import { type AllZodiacData } from "../lib/data";
 import { getFortuneHistory, type FortuneEntry } from "../lib/fortuneHistory";
 import Bean from "./Bean";
-import BeanBadge from "./BeanBadge";
-import FlavourBadge from "./FlavourBadge";
-import FormBadge from "./FormBadge";
 import ZodiacName from "./ZodiacName";
 
 interface Props {
@@ -40,8 +37,6 @@ function FortuneCard({
   ];
   const bean = data.beans[beanId];
   const preparation = getPreparationName(flavourId, formId);
-  const entryDate = new Date(entry.date + "T12:00:00");
-
   if (!bean) return null;
 
   return (
@@ -65,7 +60,6 @@ function FortuneCard({
             beanName={bean.name}
             zodiacId={entry.zodiacId}
             qualityId={entry.qualityId}
-            date={entryDate}
           />
         </p>
         <p className="italic text-zinc-300 text-base mt-1 mb-2">

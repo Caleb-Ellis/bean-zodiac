@@ -14,8 +14,8 @@ dailyBad: Refinement is being asked for — the rawness is being received as unf
 dailyWorst: The instinct is being named as a problem — someone is asking for something more considered.
 ---
 
-Burnished Fava Beans are the Bean Zodiac's most primal — the courage has gone deep enough to find something older than strategy or intention.
+Hickory Fava Beans are the Bean Zodiac's most primal — the courage has gone deep enough to find something older than strategy or intention.
 
 Fava Beans move toward difficulty before any case has been made; Umami Beans give that movement a richness accumulated over long exposure; Smoked Beans carry it from a source that precedes any accounting.
 
-The Burnished Fava Bean's challenge is form. What is primal is not always speakable, but it must be brought somewhere. These Beans must find the form that lets others come close to what they carry.
+The Hickory Fava Bean's challenge is form. What is primal is not always speakable, but it must be brought somewhere. These Beans must find the form that lets others come close to what they carry.

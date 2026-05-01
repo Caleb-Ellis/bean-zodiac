@@ -14,8 +14,8 @@ dailyBad: Lightness is being called for — the gravity is being felt as a burde
 dailyWorst: The weight is being named as oppressive — and someone with standing is asking for it to lift.
 ---
 
-Burnished Black Beans are the Bean Zodiac's most solemn — the depth has accumulated to the point where anything lighter than gravity feels wrong.
+Hickory Black Beans are the Bean Zodiac's most solemn — the depth has accumulated to the point where anything lighter than gravity feels wrong.
 
 Black Beans hold their richness until it has been fully earned; Umami Beans give that richness a weight that can only come from duration; Smoked Beans make the gravity seem to emanate from the walls.
 
-The Burnished Black Bean's challenge is permission. Solemnity without release becomes oppressive. These Beans must find a way to let the room breathe.
+The Hickory Black Bean's challenge is permission. Solemnity without release becomes oppressive. These Beans must find a way to let the room breathe.

@@ -14,8 +14,8 @@ dailyBad: The rougher version is being preferred — and the finish is being cal
 dailyWorst: Others have stripped the polish — the raw version is what they wanted.
 ---
 
-Dark-Roasted Adzuki Beans are the Bean Zodiac's most polished — impeccable without being cold.
+Charcoal Adzuki Beans are the Bean Zodiac's most polished — impeccable without being cold.
 
 Adzuki Bean knows when something deserves marking; Bitter Beans ensure marking is genuinely earned; Roasted Beans coax everything into fullest expression without apology.
 
-The Dark-Roasted Adzuki Bean's challenge is allowing imperfection in the room. A polished temperament can make others feel underdressed. They must occasionally let the evening be rough and stay in it.
+The Charcoal Adzuki Bean's challenge is allowing imperfection in the room. A polished temperament can make others feel underdressed. They must occasionally let the evening be rough and stay in it.

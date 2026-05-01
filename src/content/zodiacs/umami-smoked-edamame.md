@@ -14,8 +14,8 @@ dailyBad: The reading is being doubted — someone is asking for the source befo
 dailyWorst: The foreknowledge is being named as presumption — someone is pushing back on being understood before they have spoken.
 ---
 
-Burnished Edamame are the Bean Zodiac's most prescient — they know what is required before it has been asked, and from a depth that cannot be explained by speed alone.
+Hickory Edamame are the Bean Zodiac's most prescient — they know what is required before it has been asked, and from a depth that cannot be explained by speed alone.
 
 Edamame reach conclusions before others have finished the question; Umami Beans give that foreknowledge a richness born from slow accumulation; Smoked Beans make the understanding seem to arrive from outside the ordinary sequence of events.
 
-The Burnished Edamame's challenge is patience. Prescience without timing is simply ahead of schedule. These Beans must let the question finish before they complete it.
+The Hickory Edamame's challenge is patience. Prescience without timing is simply ahead of schedule. These Beans must let the question finish before they complete it.

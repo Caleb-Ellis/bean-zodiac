@@ -14,8 +14,8 @@ dailyBad: Help is being offered — and refusing it is starting to look like stu
 dailyWorst: The pride is being called the obstacle — and the people saying so are trying to help.
 ---
 
-Dark-Roasted Kidney Beans are the Bean Zodiac's most proud — they have standards and presence.
+Charcoal Kidney Beans are the Bean Zodiac's most proud — they have standards and presence.
 
 Kidney Bean marks everything it touches; Bitter Beans ensure marks are earned by genuine standards; Roasted Beans coax this outward, visible from across the room.
 
-The Dark-Roasted Kidney Bean's challenge is allowing others their dignity too. Secure pride doesn't need to rank. They must find generosity to make room for someone else's.
+The Charcoal Kidney Bean's challenge is allowing others their dignity too. Secure pride doesn't need to rank. They must find generosity to make room for someone else's.

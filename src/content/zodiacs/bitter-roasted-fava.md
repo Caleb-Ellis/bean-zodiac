@@ -14,8 +14,8 @@ dailyBad: The known path is being recommended — and the people recommending it
 dailyWorst: The new direction has been vetoed — and the group is returning to what was already tried.
 ---
 
-Dark-Roasted Fava Beans are the Bean Zodiac's most pioneering — they venture into unmapped territory.
+Charcoal Fava Beans are the Bean Zodiac's most pioneering — they venture into unmapped territory.
 
 Fava Bean requires effort, returning something simpler alternatives don't; Bitter Beans demand the effort points somewhere genuine; Roasted Beans radiate warmth bringing others along.
 
-The Dark-Roasted Fava Bean's challenge is expecting others will follow. Pioneering is only as generative as the path it opens. They must stay connected to whether what they're building is habitable for others.
+The Charcoal Fava Bean's challenge is expecting others will follow. Pioneering is only as generative as the path it opens. They must stay connected to whether what they're building is habitable for others.

@@ -14,8 +14,8 @@ dailyBad: What is present is asking for full attention — the pull toward the p
 dailyWorst: Someone is naming the absence directly — the distance from what is here is being felt by the people in front of you.
 ---
 
-Bronzed Navy Beans are the Bean Zodiac's most wistful — they carry the warmth of what has already passed, faithfully.
+Rendered Navy Beans are the Bean Zodiac's most wistful — they carry the warmth of what has already passed, faithfully.
 
 Navy Beans are loyal to the past; Umami Beans give recollection genuine depth; Roasted Beans hold it in warmth that makes past feel present.
 
-The Bronzed Navy Bean's challenge is present attention. They must occasionally let the past stay where it is.
+The Rendered Navy Bean's challenge is present attention. They must occasionally let the past stay where it is.

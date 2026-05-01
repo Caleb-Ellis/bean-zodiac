@@ -14,8 +14,8 @@ dailyBad: A more considered presentation is being requested — the unperformed 
 dailyWorst: A smoother version is being asked for — the rawness has been named as the cause of the discomfort.
 ---
 
-Charred Fava Beans are the Bean Zodiac's most authentic — they offer the actual thing with warmth.
+Chimichurri Fava Beans are the Bean Zodiac's most authentic — they offer the actual thing with warmth.
 
 Fava Beans are double-layered; Sour Beans strip away decoration; Roasted Beans make honesty feel like a gift.
 
-The Charred Fava Bean's challenge is ongoing maintenance. They must stay curious about whether they have changed.
+The Chimichurri Fava Bean's challenge is ongoing maintenance. They must stay curious about whether they have changed.

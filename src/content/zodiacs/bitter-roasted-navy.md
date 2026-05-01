@@ -14,8 +14,8 @@ dailyBad: The urgency is real — and the preparation is being named as delay.
 dailyWorst: The prudence has been overridden — and the action has been taken without it.
 ---
 
-Dark-Roasted Navy Beans are the Bean Zodiac's most prudent — they anticipate what could go wrong.
+Charcoal Navy Beans are the Bean Zodiac's most prudent — they anticipate what could go wrong.
 
 Navy Bean is principled and dependable; Bitter Beans identify where failure might come; Roasted Beans hold warmth, keeping analysis from curdling into paralysis.
 
-The Dark-Roasted Navy Bean's challenge is the contingency that becomes the plan. Prudence that never commits is hesitation with better vocabulary. They must let preparation become an action.
+The Charcoal Navy Bean's challenge is the contingency that becomes the plan. Prudence that never commits is hesitation with better vocabulary. They must let preparation become an action.

@@ -1,5 +1,6 @@
 import type { BeanId, FlavourId, FormId } from "../lib/zodiac";
 import type { AllZodiacData } from "../lib/data";
+import type { QualityId } from "../lib/fortune";
 import Bean from "./Bean";
 import ZodiacName from "./ZodiacName";
 
@@ -10,6 +11,7 @@ type Props = {
   flavourId: FlavourId;
   formId: FormId;
   beanId: BeanId;
+  qualityId?: QualityId;
 };
 
 export default function MiniIdentity({
@@ -19,11 +21,17 @@ export default function MiniIdentity({
   flavourId,
   formId,
   beanId,
+  qualityId,
 }: Props) {
   return (
     <div className="flex flex-col items-center gap-7 flex-1 text-center">
       <div className="h-48 flex items-center justify-center">
-        <Bean bean={bean} flavourId={flavourId} formId={formId} />
+        <Bean
+          bean={bean}
+          flavourId={flavourId}
+          formId={formId}
+          qualityId={qualityId}
+        />
       </div>
       <a
         href={`/zodiacs/${flavourId}-${formId}-${beanId}`}
@@ -35,6 +43,7 @@ export default function MiniIdentity({
           beanId={beanId}
           preparation={preparation}
           beanName={beanName}
+          qualityId={qualityId}
         />
       </a>
     </div>

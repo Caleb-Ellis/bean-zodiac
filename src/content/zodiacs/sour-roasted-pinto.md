@@ -14,8 +14,8 @@ dailyBad: Closeness is what's being asked for — and the remove has been taken 
 dailyWorst: The people who were trying have stopped — the distance was named indifference, and that was enough.
 ---
 
-Charred Pinto Beans are the Bean Zodiac's most aloof — visible and genuinely difficult to reach.
+Chimichurri Pinto Beans are the Bean Zodiac's most aloof — visible and genuinely difficult to reach.
 
 Pinto Beans wear their story openly; Sour Beans clarify what happens when generosity meets carelessness; Roasted Beans provide warmth through glass.
 
-The Charred Pinto Bean's challenge is distinguishing protection from habit. They must ask whether the wall is still load-bearing.
+The Chimichurri Pinto Bean's challenge is distinguishing protection from habit. They must ask whether the wall is still load-bearing.

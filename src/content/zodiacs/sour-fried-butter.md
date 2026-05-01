@@ -14,8 +14,8 @@ dailyBad: The pace is being called dehumanising — and a slower approach is bei
 dailyWorst: People feel unseen, and they have started saying so — efficiency is the word they are pointing at.
 ---
 
-Brightened Butter Beans are the Bean Zodiac's most efficient — they know where effort should go and spend nothing elsewhere.
+Agrodolce Butter Beans are the Bean Zodiac's most efficient — they know where effort should go and spend nothing elsewhere.
 
 Butter Beans have no interest in unnecessary motion; Sour Beans cut situations to essentials; Fried Beans deliver heat only to identified targets.
 
-The Brightened Butter Bean's challenge is accepting slowness. They must resist the urge to proceduralize everything.
+The Agrodolce Butter Bean's challenge is accepting slowness. They must resist the urge to proceduralize everything.

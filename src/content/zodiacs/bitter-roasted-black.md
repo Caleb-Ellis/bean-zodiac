@@ -14,8 +14,8 @@ dailyBad: The warmth is being asked for — and the precision alone is not what 
 dailyWorst: Something looser is coming in — the elegance was cold, or that's what they agreed.
 ---
 
-Dark-Roasted Black Beans are the Bean Zodiac's most elegant — depth that needs no announcement.
+Charcoal Black Beans are the Bean Zodiac's most elegant — depth that needs no announcement.
 
 Black Bean earns richness through time; Bitter Beans remove the superfluous; Roasted Beans coax everything outward with dry patience.
 
-The Dark-Roasted Black Bean's challenge is accessibility. Elegance refined too far becomes unapproachable. They must remember their depth was never meant to be kept to themselves.
+The Charcoal Black Bean's challenge is accessibility. Elegance refined too far becomes unapproachable. They must remember their depth was never meant to be kept to themselves.

@@ -14,8 +14,8 @@ dailyBad: The company around you is setting a lower bar and making it feel reaso
 dailyWorst: Everything in the room is calling the elevation unnecessary — and the pressure to come down is steady.
 ---
 
-Burnished Cannellini Beans are the Bean Zodiac's most exalted — their refinement has ascended to something that is difficult to approach without a certain gravity.
+Hickory Cannellini Beans are the Bean Zodiac's most exalted — their refinement has ascended to something that is difficult to approach without a certain gravity.
 
 Cannellini Beans curate until only what is worthy remains; Umami Beans give what remains a depth that rewards extended attention; Smoked Beans locate the whole quality somewhere high and slightly removed from ordinary contact.
 
-The Burnished Cannellini Bean's challenge is descent. The exalted that never comes down loses what it was refined to protect. These Beans must find something worth being imperfect for.
+The Hickory Cannellini Bean's challenge is descent. The exalted that never comes down loses what it was refined to protect. These Beans must find something worth being imperfect for.

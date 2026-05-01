@@ -127,13 +127,13 @@ const PREPARATION_NAMES: Record<`${FlavourId}-${FormId}`, string> = {
   "bitter-dried": "Desiccated",
   "bitter-fermented": "Tinctured",
   "bitter-fried": "Scorched",
-  "bitter-roasted": "Dark-Roasted",
+  "bitter-roasted": "Charcoal",
   "bitter-smoked": "Ashen",
   "sour-boiled": "Brined",
   "sour-dried": "Dehydrated",
   "sour-fermented": "Pickled",
-  "sour-fried": "Brightened",
-  "sour-roasted": "Charred",
+  "sour-fried": "Agrodolce",
+  "sour-roasted": "Chimichurri",
   "sour-smoked": "Cold-Smoked",
   "spicy-boiled": "Braised",
   "spicy-dried": "Sichuan",
@@ -151,8 +151,8 @@ const PREPARATION_NAMES: Record<`${FlavourId}-${FormId}`, string> = {
   "umami-dried": "Aged",
   "umami-fermented": "Miso",
   "umami-fried": "Tempura",
-  "umami-roasted": "Bronzed",
-  "umami-smoked": "Burnished",
+  "umami-roasted": "Rendered",
+  "umami-smoked": "Hickory",
 } as const;
 
 export const getPreparationName = (flavourId: FlavourId, formId: FormId): string =>

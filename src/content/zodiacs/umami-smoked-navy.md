@@ -14,8 +14,8 @@ dailyBad: The immediate is pressing — what is in front of you right now is ask
 dailyWorst: The particular is being demanded — someone needs a direct answer for this moment and is not finding one.
 ---
 
-Burnished Navy Beans are the Bean Zodiac's most timeless — their reliability has gone deep enough that it feels like it predates any particular instance of it.
+Hickory Navy Beans are the Bean Zodiac's most timeless — their reliability has gone deep enough that it feels like it predates any particular instance of it.
 
 Navy Beans hold the structure without requiring persuasion; Umami Beans give everything that stays long enough a richness that feels permanent; Smoked Beans make the whole quality seem to have been present before any of us arrived.
 
-The Burnished Navy Bean's challenge is nowness. Timeless describes what has accumulated — it is not permission to stop. These Beans must ask what is required of them today, in this particular room.
+The Hickory Navy Bean's challenge is nowness. Timeless describes what has accumulated — it is not permission to stop. These Beans must ask what is required of them today, in this particular room.

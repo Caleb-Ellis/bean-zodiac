@@ -14,8 +14,8 @@ dailyBad: A more sober presence is being preferred — the warmth was received a
 dailyWorst: The room has stopped bringing serious things — the warmth was named as the reason nothing feels serious.
 ---
 
-Charred Green Beans are the Bean Zodiac's most cheerful — warmth that is hard to dismiss because it is honest.
+Chimichurri Green Beans are the Bean Zodiac's most cheerful — warmth that is hard to dismiss because it is honest.
 
 Green Beans are energetic and optimistic; Roasted Beans fill rooms freely; Sour Beans keep cheerfulness from cloying.
 
-The Charred Green Bean's challenge is being taken seriously. They must occasionally let the full picture show.
+The Chimichurri Green Bean's challenge is being taken seriously. They must occasionally let the full picture show.

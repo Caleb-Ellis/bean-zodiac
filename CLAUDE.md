@@ -19,13 +19,13 @@ pnpm fmt / fmt:check / lint / lint:fix
 
 A **Preparation** = Flavour × Form name (30 total). Lookup: `getPreparationName(flavourId, formId)` via `PREPARATION_NAMES` in `zodiac.ts`.
 
-|        | boiled   | dried        | fermented | fried       | roasted      | smoked      |
-| ------ | -------- | ------------ | --------- | ----------- | ------------ | ----------- |
-| bitter | Decocted | Desiccated   | Tinctured | Scorched    | Dark-Roasted | Ashen       |
-| sour   | Brined   | Dehydrated   | Pickled   | Brightened  | Charred      | Cold-Smoked |
-| spicy  | Braised  | Sichuan      | Kimchi    | Red-Hot     | Peri-Peri    | Chipotle    |
-| sweet  | Candied  | Crystallised | Honeyed   | Caramelised | Glazed       | Barbecued   |
-| umami  | Dashi    | Aged         | Miso      | Tempura     | Bronzed      | Burnished   |
+|        | boiled   | dried        | fermented | fried       | roasted     | smoked      |
+| ------ | -------- | ------------ | --------- | ----------- | ----------- | ----------- |
+| bitter | Decocted | Desiccated   | Tinctured | Scorched    | Charcoal    | Ashen       |
+| sour   | Brined   | Dehydrated   | Pickled   | Agrodolce   | Chimichurri | Cold-Smoked |
+| spicy  | Braised  | Sichuan      | Kimchi    | Red-Hot     | Peri-Peri   | Chipotle    |
+| sweet  | Candied  | Crystallised | Honeyed   | Caramelised | Glazed      | Barbecued   |
+| umami  | Dashi    | Aged         | Miso      | Tempura     | Rendered    | Hickory     |
 
 ### Content Collections
 

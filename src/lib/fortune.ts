@@ -39,9 +39,9 @@ const daysSinceOrigin = (date: Date): number =>
   Math.floor((date.getTime() - ORIGIN_DATE.getTime()) / 86_400_000);
 
 const qualityFromSlot = (r: number): QualityId => {
-  if (r < 2) return QualityIds.Heirloom; // 2/20
-  if (r < 6) return QualityIds.Market; // 4/20
-  if (r < 16) return QualityIds.Garden; // 10/20
+  if (r < 3) return QualityIds.Heirloom; // 3/20
+  if (r < 8) return QualityIds.Market; // 5/20
+  if (r < 16) return QualityIds.Garden; // 8/20
   if (r < 19) return QualityIds.Stale; // 3/20
   return QualityIds.Rotten; // 1/20
 };
@@ -122,32 +122,16 @@ const getFortuneZodiacId = (
 
 export const getQualityLabel = (
   qualityId: QualityId,
-  date: Date,
 ): { text: string; className: string } | undefined => {
-  const d = daysSinceOrigin(date);
-  const pick = (texts: string[]) =>
-    texts[((d % texts.length) + texts.length) % texts.length];
   switch (qualityId) {
     case QualityIds.Heirloom:
-      return {
-        text: pick(["Heirloom", "Gourmet", "Heritage", "Artisanal", "Prized"]),
-        className: "text-effect-gold",
-      };
+      return { text: "Vivid", className: "text-effect-gold" };
     case QualityIds.Market:
-      return {
-        text: pick(["Fresh", "Select", "Quality", "Reserve", "Handpicked"]),
-        className: "text-effect-emerald",
-      };
+      return { text: "Bright", className: "text-effect-emerald" };
     case QualityIds.Stale:
-      return {
-        text: pick(["Stale", "Old", "Faded", "Mushy", "Wilted"]),
-        className: "text-effect-bruise",
-      };
+      return { text: "Pale", className: "text-effect-fog" };
     case QualityIds.Rotten:
-      return {
-        text: pick(["Rotten", "Spoiled", "Putrid", "Foul", "Mouldy"]),
-        className: "text-effect-rot",
-      };
+      return { text: "Dark", className: "text-effect-void" };
     default:
       return undefined;
   }
@@ -157,14 +141,11 @@ export const getFortuneText = (
   zodiac: Zodiac,
   qualityId: QualityId,
 ): string => {
-  if (qualityId === QualityIds.Heirloom && zodiac.dailyBest)
-    return zodiac.dailyBest;
-  if (qualityId === QualityIds.Market && zodiac.dailyGood)
-    return zodiac.dailyGood;
-  if (qualityId === QualityIds.Stale && zodiac.dailyBad) return zodiac.dailyBad;
-  if (qualityId === QualityIds.Rotten && zodiac.dailyWorst)
-    return zodiac.dailyWorst;
-  return zodiac.dailyNeutral ?? zodiac.seasonalFortune;
+  if (qualityId === QualityIds.Heirloom) return zodiac.dailyBest;
+  if (qualityId === QualityIds.Market) return zodiac.dailyGood;
+  if (qualityId === QualityIds.Stale) return zodiac.dailyBad;
+  if (qualityId === QualityIds.Rotten) return zodiac.dailyWorst;
+  return zodiac.dailyNeutral;
 };
 
 export const getDailyFortuneIds = (

@@ -14,8 +14,8 @@ dailyBad: More is being asked for — and the reduced version is being called in
 dailyWorst: A louder voice is being brought in — the understatement was named as the reason nothing landed.
 ---
 
-Charred Navy Beans are the Bean Zodiac's most understated — they offer much without announcement.
+Chimichurri Navy Beans are the Bean Zodiac's most understated — they offer much without announcement.
 
 Navy Beans are quietly indispensable; Sour Beans edit out performance; Roasted Beans hold warmth low enough you might miss it.
 
-The Charred Navy Bean's challenge is being known. They must occasionally say what they are only showing.
+The Chimichurri Navy Bean's challenge is being known. They must occasionally say what they are only showing.

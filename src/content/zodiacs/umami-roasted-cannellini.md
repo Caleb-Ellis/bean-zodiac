@@ -14,8 +14,8 @@ dailyBad: The room is signalling that this is not the moment — silence is bein
 dailyWorst: What you have to say is being actively closed off — the person who would hear it has already moved on.
 ---
 
-Bronzed Cannellini Beans are the Bean Zodiac's most forthcoming — they don't wait to be asked for what they know.
+Rendered Cannellini Beans are the Bean Zodiac's most forthcoming — they don't wait to be asked for what they know.
 
 Cannellini Beans improve surroundings deliberately; Umami Beans offer depth with substance; Roasted Beans carry it outward with warmth.
 
-The Bronzed Cannellini Bean's challenge is timing. They must occasionally let conversation find its own way rather than leading it there.
+The Rendered Cannellini Bean's challenge is timing. They must occasionally let conversation find its own way rather than leading it there.

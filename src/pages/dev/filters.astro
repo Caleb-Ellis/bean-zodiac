@@ -12,6 +12,15 @@ import {
   type FormId,
 } from "../../lib/zodiac";
 import { buildAllZodiacData } from "../../lib/data";
+import { type QualityId } from "../../lib/fortune";
+
+const qualityIds: (QualityId | undefined)[] = [
+  "rotten",
+  "stale",
+  "garden",
+  "market",
+  "heirloom",
+];
 import "../../styles/global.css";
 
 if (!import.meta.env.DEV) {
@@ -36,20 +45,23 @@ const beanIds = Object.values(BeanIds) as BeanId[];
         const preparation = getPreparationName(flavourId, formId);
         return (
           <section style="margin-bottom: 6rem">
-            <div style="display: grid; grid-template-columns: 1fr 1fr 1fr 1fr; column-gap: 1rem; row-gap: 5rem;">
-              {beanIds.map((beanId) => (
-                <div>
-                  <MiniIdentity
-                    bean={data.beans[beanId]}
-                    beanId={beanId}
-                    beanName={data.beans[beanId].name}
-                    flavourId={flavourId}
-                    formId={formId}
-                    preparation={preparation}
-                    client:load
-                  />
-                </div>
-              ))}
+            <div style="display: grid; grid-template-columns: 1fr 1fr 1fr 1fr 1fr; column-gap: 1rem; row-gap: 5rem;">
+              {beanIds.map((beanId) =>
+                qualityIds.map((qualityId) => (
+                  <div>
+                    <MiniIdentity
+                      bean={data.beans[beanId]}
+                      beanId={beanId}
+                      beanName={data.beans[beanId].name}
+                      flavourId={flavourId}
+                      formId={formId}
+                      preparation={preparation}
+                      qualityId={qualityId}
+                      client:load
+                    />
+                  </div>
+                )),
+              )}
             </div>
           </section>
         );

@@ -14,8 +14,8 @@ dailyBad: The full disclosure is being received as vulnerability — and being u
 dailyWorst: The room has adjusted — showing everything was named the reason it no longer felt safe.
 ---
 
-Charred Adzuki Beans are the Bean Zodiac's most transparent — they are exactly what they appear to be.
+Chimichurri Adzuki Beans are the Bean Zodiac's most transparent — they are exactly what they appear to be.
 
 Adzuki Beans mark occasions genuinely; Sour Beans strip away obscuring things; Roasted Beans coax warmth outward.
 
-The Charred Adzuki Bean's challenge is the other person's readiness. They must sometimes pace the offer instead of hiding it.
+The Chimichurri Adzuki Bean's challenge is the other person's readiness. They must sometimes pace the offer instead of hiding it.

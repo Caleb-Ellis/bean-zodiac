@@ -14,8 +14,8 @@ dailyBad: A lighter register is the ask — and the displeasure has been absorbe
 dailyWorst: The grumpiness is being named as the reason people are not bringing things to you — and it is accurate.
 ---
 
-Brightened Navy Beans are the Bean Zodiac's grumpiest — the world fails their standard and they won't pretend otherwise.
+Agrodolce Navy Beans are the Bean Zodiac's grumpiest — the world fails their standard and they won't pretend otherwise.
 
 Navy Beans hold unwavering sense of what's right; Sour Beans strip away tolerance; Fried Beans deliver opinion at heat immediately.
 
-The Brightened Navy Bean's challenge is directing heat at problems, not rooms. They must distinguish signal from permanent weather.
+The Agrodolce Navy Bean's challenge is directing heat at problems, not rooms. They must distinguish signal from permanent weather.

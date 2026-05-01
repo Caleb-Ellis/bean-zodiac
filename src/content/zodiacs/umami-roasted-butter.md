@@ -14,8 +14,8 @@ dailyBad: What is being given is not landing yet and the other person is startin
 dailyWorst: The openness is being named as passivity — someone is pushing for a reaction and not finding one.
 ---
 
-Bronzed Butter Beans are the Bean Zodiac's most receptive — they register not just what is said, but what the saying contains.
+Rendered Butter Beans are the Bean Zodiac's most receptive — they register not just what is said, but what the saying contains.
 
 Butter Beans create calm that makes others want to stay; Umami Beans add depth that rewards staying; Roasted Beans bring warmth outward as an unspoken invitation.
 
-The Bronzed Butter Bean's challenge is their own expression. They must occasionally offer what they are holding.
+The Rendered Butter Bean's challenge is their own expression. They must occasionally offer what they are holding.

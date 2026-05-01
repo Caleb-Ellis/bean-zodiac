@@ -14,8 +14,8 @@ dailyBad: The plain taking of things is being exploited — and the person explo
 dailyWorst: Having no guard is being named as the vulnerability — and the people who see it are not all benign.
 ---
 
-Charred Butter Beans are the Bean Zodiac's most guileless — nothing behind what they say or do.
+Chimichurri Butter Beans are the Bean Zodiac's most guileless — nothing behind what they say or do.
 
 Butter Beans are exactly what they appear; Sour Beans strip affectation; Roasted Beans fill rooms with unfakeable warmth.
 
-The Charred Butter Bean's challenge is reciprocity. They must notice strategic reading without becoming strategic.
+The Chimichurri Butter Bean's challenge is reciprocity. They must notice strategic reading without becoming strategic.

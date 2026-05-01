@@ -14,8 +14,8 @@ dailyBad: A thicker skin is the recommendation — and the sensitivity has been 
 dailyWorst: Certain things are now being kept from you — the full receptivity was named as the reason they cannot be trusted to you.
 ---
 
-Charred Mung Beans are the Bean Zodiac's most sensitive — they register everything, including what was not said.
+Chimichurri Mung Beans are the Bean Zodiac's most sensitive — they register everything, including what was not said.
 
 Mung Beans absorb the room's condition; Sour Beans make every signal precise; Roasted Beans keep receiving warm and open.
 
-The Charred Mung Bean's challenge is selective attention. Not every signal requires a response.
+The Chimichurri Mung Bean's challenge is selective attention. Not every signal requires a response.

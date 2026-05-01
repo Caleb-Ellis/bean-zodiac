@@ -14,8 +14,8 @@ dailyBad: A pause is being requested — and the people requesting it have a poi
 dailyWorst: The impulse is being named as the reason the work keeps restarting — and a process is now in place to slow it down.
 ---
 
-Brightened Green Beans are the Bean Zodiac's most impulsive — thought and action arrive at the same moment.
+Agrodolce Green Beans are the Bean Zodiac's most impulsive — thought and action arrive at the same moment.
 
 Green Beans are already moving; Fried Beans remove interval between decision and action; Sour Beans provide cutting clarity.
 
-The Brightened Green Bean's challenge is when the impulse is wrong. They must develop capacity for a brief pause.
+The Agrodolce Green Bean's challenge is when the impulse is wrong. They must develop capacity for a brief pause.

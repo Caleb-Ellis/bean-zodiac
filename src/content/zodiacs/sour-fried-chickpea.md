@@ -14,8 +14,8 @@ dailyBad: A more straightforward approach is being preferred — and calculated 
 dailyWorst: People are factoring it into whether to trust you — and manipulation is what they're calling the calculation.
 ---
 
-Brightened Chickpeas are the Bean Zodiac's shrewdest — they read Beans and situations with speed and accuracy.
+Agrodolce Chickpeas are the Bean Zodiac's shrewdest — they read Beans and situations with speed and accuracy.
 
 Chickpeas have an ear for the room; Sour Beans strip situations to what is actually at stake; Fried Beans act immediately.
 
-The Brightened Chickpea's challenge is generous interpretation. They must resist always assuming the worst of Beans's motives.
+The Agrodolce Chickpea's challenge is generous interpretation. They must resist always assuming the worst of Beans's motives.

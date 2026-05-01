@@ -14,8 +14,8 @@ dailyBad: A more serious register is what's wanted — this one has been flagged
 dailyWorst: The straight answer is the demand — and the wit is what the demand is pointing at.
 ---
 
-Dark-Roasted Edamame are the Bean Zodiac's wittiest — they are sharp without making others feel small.
+Charcoal Edamame are the Bean Zodiac's wittiest — they are sharp without making others feel small.
 
 Edamame don't waste words; Bitter Beans insist what's said earns its place; Roasted Beans arrive with warmth, filling rather than cutting.
 
-The Dark-Roasted Edamame's challenge is using wit to deflect. Sharpness that never lands softly is distance. They must occasionally let something be said plainly.
+The Charcoal Edamame's challenge is using wit to deflect. Sharpness that never lands softly is distance. They must occasionally let something be said plainly.

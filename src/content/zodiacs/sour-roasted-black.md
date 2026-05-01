@@ -14,8 +14,8 @@ dailyBad: A more cynical read is being offered as wisdom — and naive is what t
 dailyWorst: Someone is acting on it — the full sincerity has been named as the opening, and they have used it.
 ---
 
-Charred Black Beans are the Bean Zodiac's most earnest — genuinely in contact with what they feel.
+Chimichurri Black Beans are the Bean Zodiac's most earnest — genuinely in contact with what they feel.
 
 Black Beans have real depth; Sour Beans make honesty clarifying; Roasted Beans bring warmth so earnestness feels like invitation.
 
-The Charred Black Bean's challenge is protection. They must learn to shield sincerity without encasing it.
+The Chimichurri Black Bean's challenge is protection. They must learn to shield sincerity without encasing it.

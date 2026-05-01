@@ -14,8 +14,8 @@ dailyBad: Collaboration is being insisted on — and the margin is being called 
 dailyWorst: The drive to win is being named as the problem — and the terms are being changed.
 ---
 
-Dark-Roasted Green Beans are the Bean Zodiac's most competitive — they need to win and want you to see it.
+Charcoal Green Beans are the Bean Zodiac's most competitive — they need to win and want you to see it.
 
 Green Bean is always ready to go first; Bitter Beans know genuine standards and won't accept less; Roasted Beans make competition visible and social.
 
-The Dark-Roasted Green Bean's challenge is losing. They struggle with gaps between standards they carry and results received. They must learn effort is data, not consolation.
+The Charcoal Green Bean's challenge is losing. They struggle with gaps between standards they carry and results received. They must learn effort is data, not consolation.

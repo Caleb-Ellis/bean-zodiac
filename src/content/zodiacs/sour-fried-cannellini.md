@@ -14,8 +14,8 @@ dailyBad: The full attention is being called overcorrection — and a lighter to
 dailyWorst: The work has been moved to someone less thorough — the care taken was named the bottleneck.
 ---
 
-Brightened Cannellini Beans are the Bean Zodiac's most meticulous — they do it correctly at speed and notice when others haven't.
+Agrodolce Cannellini Beans are the Bean Zodiac's most meticulous — they do it correctly at speed and notice when others haven't.
 
 Cannellini Beans bring precision to everything; Sour Beans strip away what doesn't matter; Fried Beans deliver care with heat.
 
-The Brightened Cannellini Bean's challenge is perspective. They must occasionally step back and ask whether the whole is moving right.
+The Agrodolce Cannellini Bean's challenge is perspective. They must occasionally step back and ask whether the whole is moving right.

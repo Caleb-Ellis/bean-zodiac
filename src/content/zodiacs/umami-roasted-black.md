@@ -14,8 +14,8 @@ dailyBad: Speed is being asked for — the read you are still doing is being tre
 dailyWorst: A surface-level answer is being accepted by the room — going deeper is not being invited.
 ---
 
-Bronzed Black Beans are the Bean Zodiac's most insightful — the insight is an invitation, not a verdict.
+Rendered Black Beans are the Bean Zodiac's most insightful — the insight is an invitation, not a verdict.
 
 Black Beans watch long before speaking; Umami Beans provide depth that is full and satisfying; Roasted Beans bring warmth outward for all to access.
 
-The Bronzed Black Bean's challenge is permanence. They must remember that seeing clearly doesn't mean others must stay with that seeing.
+The Rendered Black Bean's challenge is permanence. They must remember that seeing clearly doesn't mean others must stay with that seeing.

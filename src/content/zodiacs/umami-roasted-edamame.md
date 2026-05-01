@@ -14,8 +14,8 @@ dailyBad: Multiple things are asking for all of the attention at once — and ea
 dailyWorst: Someone is naming the divided attention as the problem — and they are not wrong that they are not getting enough.
 ---
 
-Bronzed Edamame are the Bean Zodiac's most attentive — Beans can feel the difference of their full presence.
+Rendered Edamame are the Bean Zodiac's most attentive — Beans can feel the difference of their full presence.
 
 Edamame bring efficiency to bearing with no distractions; Umami Beans give warmth and depth to attention; Roasted Beans radiate it outward.
 
-The Bronzed Edamame's challenge is availability. They must distinguish between being fully present and being endlessly accessible.
+The Rendered Edamame's challenge is availability. They must distinguish between being fully present and being endlessly accessible.

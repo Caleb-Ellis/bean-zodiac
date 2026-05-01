@@ -14,8 +14,8 @@ dailyBad: Engagement is being asked for — the remove is being read as indiffer
 dailyWorst: The distance is being named as a problem — someone is asking for presence and is not finding it.
 ---
 
-Bronzed Pinto Beans are the Bean Zodiac's most detached — present and warm and observing from a distance that's grown too comfortable.
+Rendered Pinto Beans are the Bean Zodiac's most detached — present and warm and observing from a distance that's grown too comfortable.
 
 Pinto Beans have unique stories of their own; Umami Beans watch long enough to find patterns; Roasted Beans fill room with detached warm appreciation.
 
-The Bronzed Pinto Bean's challenge is participation. They must close the gap often enough to have something new to observe from their preferred altitude.
+The Rendered Pinto Bean's challenge is participation. They must close the gap often enough to have something new to observe from their preferred altitude.

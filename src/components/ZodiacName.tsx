@@ -14,7 +14,6 @@ interface Props {
   beanName: string;
   zodiacId?: ZodiacId;
   qualityId?: QualityId;
-  date?: Date;
 }
 
 export default function ZodiacName({
@@ -25,13 +24,10 @@ export default function ZodiacName({
   beanName,
   zodiacId,
   qualityId,
-  date,
 }: Props) {
-  const qualityLabel = qualityId
-    ? getQualityLabel(qualityId, date ?? new Date())
-    : undefined;
+  const qualityLabel = qualityId ? getQualityLabel(qualityId) : undefined;
   const qualitySpan = qualityLabel ? (
-    <span className={qualityLabel.className}>{qualityLabel.text}</span>
+    <span className={qualityLabel.className}>{qualityLabel.text} </span>
   ) : null;
   const preparationSpan = (
     <span
@@ -51,7 +47,7 @@ export default function ZodiacName({
   if (zodiacId) {
     return (
       <a href={`/zodiacs/${zodiacId}`} className="no-underline hover:underline">
-        {qualitySpan}{" "}
+        {qualitySpan}
         {preparationSpan} {beanSpan}
       </a>
     );

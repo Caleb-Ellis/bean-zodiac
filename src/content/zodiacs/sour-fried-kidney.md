@@ -14,8 +14,8 @@ dailyBad: A truce is being offered — and the continued argument is being recei
 dailyWorst: The other party is no longer engaging — refusing to let it go has been given the credit for the cooling.
 ---
 
-Brightened Kidney Beans are the Bean Zodiac's most argumentative — they believe friction is worth the truth.
+Agrodolce Kidney Beans are the Bean Zodiac's most argumentative — they believe friction is worth the truth.
 
 Kidney Beans don't drop what they pick up; Sour Beans reject comfortable versions; Fried Beans respond at full heat.
 
-The Brightened Kidney Bean's challenge is knowing when to stop. They must ask whether winning serves the relationship and the truth.
+The Agrodolce Kidney Bean's challenge is knowing when to stop. They must ask whether winning serves the relationship and the truth.
