@@ -10,8 +10,8 @@ seasonalFortune: Where you are going will require courage most Beans never need 
 dailyNeutral: Go where the others have not — that is what you are for.
 dailyGood: Move further into it; what is found there cannot be reached any other way.
 dailyBest: Go all the way — into the territory no one else has charted, and bring back what only you can find.
-dailyBad: A common ground is being asked for — and the distance is being received as disinterest.
-dailyWorst: People have stopped reaching — the remove was named absence, and that was that.
+dailyBad: Find the common ground and meet them there; the distance is real, but the bridge is on your side.
+dailyWorst: Come all the way back — wherever you have been, the people here need you present, not translated.
 ---
 
 Ashen Fava Beans are the Bean Zodiac's most otherworldly — their courage has led them somewhere that takes others considerable time to follow.

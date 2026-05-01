@@ -10,8 +10,8 @@ seasonalFortune: An occasion will arrive that rewards imperfection — stay in i
 dailyNeutral: Attend to what others skip — it is where the difference lives.
 dailyGood: Bring the full standard to what is in front of you; nothing is too minor for the complete version.
 dailyBest: Everything about this can be impeccable — let it be.
-dailyBad: The rougher version is being preferred — and the finish is being called inaccessible.
-dailyWorst: Others have stripped the polish — the raw version is what they wanted.
+dailyBad: Leave it a little rough today; not every surface needs to be finished before it can be useful.
+dailyWorst: Hand over the raw version — the polish is costing this more than it is adding.
 ---
 
 Charcoal Adzuki Beans are the Bean Zodiac's most polished — impeccable without being cold.

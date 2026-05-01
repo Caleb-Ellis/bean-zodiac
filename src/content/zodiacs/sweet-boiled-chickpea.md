@@ -8,8 +8,8 @@ dish: Chana dal halwa — split chickpeas boiled down with ghee and sugar into a
 quote: Piglet noticed that even though he had a very small bean, it could hold a rather large amount of gratitude.
 seasonalFortune: An accommodation that has been given without limit will become invisible — let the Beans around you know what you actually wanted.
 dailyNeutral: Find the common ground and start there.
-dailyGood: Your willingness to meet people where they are is making the whole room easier.
-dailyBest: The agreement comes together because of how fully you are able to receive every voice in it.
+dailyGood: Your willingness to meet people where they are is making everything easier.
+dailyBest: The agreement comes together because you are genuinely able to hold every voice.
 dailyBad: The accommodation you are offering has cost you something you wanted to keep.
 dailyWorst: Agreement has come at such a cost that what you actually wanted has disappeared.
 ---

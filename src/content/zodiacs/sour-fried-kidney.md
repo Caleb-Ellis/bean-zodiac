@@ -10,8 +10,8 @@ seasonalFortune: A friction worth having is coming — trust that it will produc
 dailyNeutral: The disagreement is worth voicing — say it.
 dailyGood: Push back harder; the position deserves a real challenge.
 dailyBest: Argue the whole thing — every point, at full force, until the position has been completely tested.
-dailyBad: A truce is being offered — and the continued argument is being received as aggression.
-dailyWorst: The other party is no longer engaging — refusing to let it go has been given the credit for the cooling.
+dailyBad: Take the truce; a generous offer is on the table and continuing past it will turn a disagreement into something worse.
+dailyWorst: Let it go completely — the other party has stopped engaging, and the argument is the only thing left in the room.
 ---
 
 Agrodolce Kidney Beans are the Bean Zodiac's most argumentative — they believe friction is worth the truth.

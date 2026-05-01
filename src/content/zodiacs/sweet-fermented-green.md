@@ -10,8 +10,8 @@ seasonalFortune: An ordinary thing will reveal itself as an interesting problem 
 dailyNeutral: Follow the unexpected thread — it goes somewhere.
 dailyGood: The odd angle is the interesting one — pursue it.
 dailyBest: Let the imagination go entirely — wherever it takes you is worth the trip.
-dailyBad: You have moved on before the thing was finished — and the people waiting on it have noticed.
-dailyWorst: Nothing is being delivered — and the room has stopped expecting it.
+dailyBad: Finish the thing before moving on — it is not done, and the moving on is visible.
+dailyWorst: Deliver something; the imagination has not produced anything anyone else can use.
 ---
 
 Honeyed Green Beans are the Bean Zodiac's most whimsical — their inner world is rich and improbable.

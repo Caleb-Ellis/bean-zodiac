@@ -10,7 +10,7 @@ seasonalFortune: A stretch of wanting nothing is coming — let it arrive, so th
 dailyNeutral: The pleasure is real — receive it completely.
 dailyGood: The warmth is at full strength; let it be the substance, not the reward.
 dailyBest: Everything is an invitation — accept it entirely and let the pleasure be its own justification.
-dailyBad: What is available has been stripped back; everything on offer is thin and not worth the reach.
+dailyBad: Do not reach — what is on offer has been stripped back and nothing here is worth the effort.
 dailyWorst: The supply has run out; nothing on offer carries any temperature and the cupboard is empty.
 ---
 

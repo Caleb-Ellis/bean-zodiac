@@ -8,10 +8,10 @@ dish: Adzuki chahan - Japanese fried rice with adzuki beans, soy sauce, and scal
 quote: Anything that gets your bean racing is worth doing!
 seasonalFortune: A love will ask for your full attention — give it freely, and ask once whether the heat is a gift or a pressure.
 dailyNeutral: Follow what you feel — the passion you are in is pointing somewhere real.
-dailyGood: Give it full room — what you feel today has earned its full expression.
+dailyGood: Give it full room — what you feel has earned its full expression.
 dailyBest: Let it be everything — the feeling at full intensity is what it was always trying to become.
-dailyBad: A more measured tone is being asked for — the intensity is landing somewhere the other person is not ready for.
-dailyWorst: The feeling is being named as too much — and the ask is to bring it down or take it elsewhere.
+dailyBad: Bring the temperature down; the intensity is arriving somewhere that cannot hold it.
+dailyWorst: Lower it; the feeling is being named as too much and continuing at this register will cost something.
 ---
 
 Tempura Adzuki Beans are the Bean Zodiac's most passionate — what deserves to be marked is, fully.

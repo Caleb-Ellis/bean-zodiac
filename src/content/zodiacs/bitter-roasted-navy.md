@@ -10,8 +10,8 @@ seasonalFortune: The contingency you have been preparing for will arrive — let
 dailyNeutral: Check the contingency before moving — there is still time to see what could go wrong.
 dailyGood: The plan accounts for every failure; proceed with that knowledge behind it.
 dailyBest: Every scenario has been prepared for — move into the action with the full weight of that preparation.
-dailyBad: The urgency is real — and the preparation is being named as delay.
-dailyWorst: The prudence has been overridden — and the action has been taken without it.
+dailyBad: Move now with what you have; the preparation has done its job and the window is closing.
+dailyWorst: Skip the contingency and act — waiting for the full picture here is costing more than the risk.
 ---
 
 Charcoal Navy Beans are the Bean Zodiac's most prudent — they anticipate what could go wrong.

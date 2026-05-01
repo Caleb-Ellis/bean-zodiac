@@ -7,11 +7,11 @@ trait: understated
 dish: Boston baked navy beans with apple cider vinegar, whole grain mustard, and brown sugar
 quote: The bean doth protest too little, methinks.
 seasonalFortune: What is held back will not go unnoticed — the Beans paying attention will see what is there without the announcement, and they are the ones that count.
-dailyNeutral: The understated version is the stronger one — use it.
+dailyNeutral: The quieter version is the stronger one — use it.
 dailyGood: Say less; the weight is in what is held back.
 dailyBest: Reduce it to the minimum — the single thing that carries the whole meaning, and nothing else.
-dailyBad: More is being asked for — and the reduced version is being called insufficient.
-dailyWorst: A louder voice is being brought in — the understatement was named as the reason nothing landed.
+dailyBad: Give them more than usual; the held-back version is reading as insufficient and the room is asking directly.
+dailyWorst: A louder voice has been brought in. Say what you mean out loud this time, or nothing will land.
 ---
 
 Chimichurri Navy Beans are the Bean Zodiac's most understated — they offer much without announcement.

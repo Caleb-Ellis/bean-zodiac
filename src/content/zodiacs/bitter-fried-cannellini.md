@@ -10,8 +10,8 @@ seasonalFortune: Your position will hold — but the door for disagreement will 
 dailyNeutral: State your position clearly — vagueness serves no one here.
 dailyGood: The case has been made; deliver it without hedging.
 dailyBest: Stand in it entirely — the position is yours and it will not move.
-dailyBad: The pushback is well-organised — and the room has more of it than expected.
-dailyWorst: The vote went the other way — and the room is already in motion.
+dailyBad: Soften the edges a little; the position can stay, but the delivery needs more room for the other person.
+dailyWorst: Concede the point and move with the room — being right matters less than what happens next.
 ---
 
 Scorched Cannellini Beans are the Bean Zodiac's most assertive — they know their position and state it clearly.

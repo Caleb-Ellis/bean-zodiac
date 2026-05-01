@@ -55,7 +55,11 @@ function computeScores(claimedSlug: ZodiacId): {
   for (const entry of history) {
     const s = entry.score ?? 0;
     if (s === 0) continue;
-    const adjustedS = Math.sign(s);
+    const magnitude =
+      entry.qualityId === "heirloom" || entry.qualityId === "rotten" ? 2 : 1;
+    const sign =
+      entry.qualityId === "stale" || entry.qualityId === "rotten" ? -1 : 1;
+    const adjustedS = sign * magnitude * s;
     const [f, frm, b] = entry.zodiacId.split("-") as [
       FlavourId,
       FormId,

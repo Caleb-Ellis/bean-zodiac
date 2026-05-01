@@ -8,10 +8,10 @@ dish: Butter bean and maple pudding — beans boiled soft and folded into warm c
 quote: Keep calm and carry beans.
 seasonalFortune: An alarm will arrive — stay present with it, not anxious.
 dailyNeutral: The pace you are setting is the right one — hold it.
-dailyGood: What is gathering around you will settle if you give it the room.
-dailyBest: You are the stillness the room has been waiting for — let everything slow down around you.
-dailyBad: Urgency is pressing in — the steadiness you are holding is being called stalling.
-dailyWorst: Holding still is now the thing being punished — the room wants you to move.
+dailyGood: What is gathering around you will settle if you hold your ground.
+dailyBest: Your stillness is doing the work — let everything slow down around you.
+dailyBad: Move; the steadiness reads as stalling, and the urgency pressing in is not wrong.
+dailyWorst: Move — everything around you is demanding it, and holding still has become the problem.
 ---
 
 Candied Butter Beans are the Bean Zodiac's calmest — genuine ease, not distant.

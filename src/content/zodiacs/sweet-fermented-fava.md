@@ -8,10 +8,10 @@ dish: Fave dolci al Marsala — fava beans braised in sweet Marsala wine with su
 quote: The bean is not to predict the future but to imagine it.
 seasonalFortune: A future you have been seeing will need to feel traversable to someone who is not you — make the distance legible.
 dailyNeutral: Let the long view shape the small decision in front of you.
-dailyGood: What you can see from here is further than anyone else in the room.
+dailyGood: What you can see from here is further than what is visible to most — trust it.
 dailyBest: Go fully to where you are looking — the distance is real and the road is there.
-dailyBad: What is directly in front of you is being missed — the people in it are asking for your attention.
-dailyWorst: The ground shifted while you were looking ahead — and no one warned you because you seemed to know where you were going.
+dailyBad: Come back to what is immediately in front of you; the long view is missing it.
+dailyWorst: Look down — the ground has shifted while you were looking ahead.
 ---
 
 Honeyed Fava Beans are the Bean Zodiac's most visionary — they see where things are trying to go, quietly arranging the conditions.

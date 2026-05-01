@@ -6,12 +6,12 @@ form: boiled
 trait: resourceful
 dish: Chana masala - chickpea curry with green chilies.
 quote: Necessity is the bean of invention.
-seasonalFortune: A resource you have been overlooking is about to be needed — it has a name and a phone number.
+seasonalFortune: A resource you have been overlooking is about to be the only one that fits — locate it before the need arrives.
 dailyNeutral: The available materials are enough — start with what is here.
 dailyGood: The constraint is the brief — build from exactly what you have.
 dailyBest: Something considered inadequate will prove itself the only tool that fits — use it completely.
 dailyBad: The improvised solution is holding, but it costs more than asking would have.
-dailyWorst: Those around you are asking for a direct solution; every improvisation is being turned away.
+dailyWorst: Every improvisation is being turned away — ask directly for what is needed.
 ---
 
 Braised Chickpeas are the Bean Zodiac's most resourceful — they make whatever is available work.

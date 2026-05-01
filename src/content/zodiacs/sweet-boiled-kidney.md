@@ -8,10 +8,10 @@ dish: Rajma kheer — kidney beans boiled until tender and simmered in sweetened
 quote: If you want others to be happy, practise bean. If you want to be happy, practise bean.
 seasonalFortune: A compassion that flows in only one direction will ask for balance — let the Beans you sit with also sit with you.
 dailyNeutral: Listen without shaping what comes next.
-dailyGood: The person in front of you needs to feel the weight of it received — let it land.
+dailyGood: The person in front of you needs to know their weight has landed — stay until it does.
 dailyBest: Open wide enough to hold what is being brought to you — your capacity for this is the gift.
-dailyBad: More is being unloaded on you than was invited — the assumption that you can hold all of it has not been examined.
-dailyWorst: Something has been taken on that was not meant to be carried — the weight is real, but it belongs elsewhere.
+dailyBad: Name what you cannot hold — more has arrived than was invited, and the assumption behind it has gone unexamined.
+dailyWorst: Put down the weight — it was not meant to be yours.
 ---
 
 Candied Kidney Beans are the Bean Zodiac's most compassionate — they have the patience to sit with difficulty and the warmth to make it bearable.

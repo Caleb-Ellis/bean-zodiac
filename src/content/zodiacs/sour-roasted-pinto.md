@@ -10,8 +10,8 @@ seasonalFortune: The distance will be appropriate for a time — ask when the th
 dailyNeutral: The distance is available — hold it as long as you need.
 dailyGood: Stay further back; let the room come to you.
 dailyBest: Withdraw completely — full remove, and let what is there exist without you in it.
-dailyBad: Closeness is what's being asked for — and the remove has been taken as a form of rejection.
-dailyWorst: The people who were trying have stopped — the distance was named indifference, and that was enough.
+dailyBad: Move closer; the remove is being read as rejection and the people who took it that way are not wrong.
+dailyWorst: Come in entirely. The ones who were trying have stopped and indifference is what they're calling it now.
 ---
 
 Chimichurri Pinto Beans are the Bean Zodiac's most aloof — visible and genuinely difficult to reach.

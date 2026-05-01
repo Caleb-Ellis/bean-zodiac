@@ -116,7 +116,7 @@ const FORM_START_MONTH: Record<FormId, number> = {
 export const FORM_EMOJI: Record<FormId, string> = {
   [FormIds.Boiled]: "💧",
   [FormIds.Dried]: "☀️",
-  [FormIds.Fermented]: "🌍",
+  [FormIds.Fermented]: "🦠",
   [FormIds.Fried]: "🔥",
   [FormIds.Roasted]: "♨️",
   [FormIds.Smoked]: "💨",

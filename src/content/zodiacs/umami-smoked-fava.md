@@ -8,10 +8,10 @@ dish: Broad beans with smoked streaky bacon, mint, and pecorino.
 quote: In the beginning, there was bean.
 seasonalFortune: A depth will want to come close to others — find the form that allows approach, so it does not only live in you.
 dailyNeutral: Trust the instinct — what you feel at the deepest level is accurate.
-dailyGood: Let the primal pull have the room — the force underneath is the truest signal.
+dailyGood: Let the primal pull lead — the force underneath is the truest signal.
 dailyBest: Give the depth complete authority — what lives at the bottom of you has been right all along.
-dailyBad: Refinement is being asked for — the rawness is being received as unfinished.
-dailyWorst: The instinct is being named as a problem — someone is asking for something more considered.
+dailyBad: Refine the form; the rawness is being received as unfinished.
+dailyWorst: Bring something more considered; the instinct is being named as a problem and the ask is direct.
 ---
 
 Hickory Fava Beans are the Bean Zodiac's most primal — the courage has gone deep enough to find something older than strategy or intention.

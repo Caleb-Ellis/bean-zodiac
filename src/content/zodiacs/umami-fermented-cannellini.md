@@ -7,11 +7,11 @@ trait: idealistic
 dish: Cannellini and white miso soup with roasted garlic and rosemary.
 quote: Some beans see things as they are and ask why; I dream of beans that never were and ask why not.
 seasonalFortune: The ideal will hold — give the actual world one honest opportunity to be closer than it appeared.
-dailyNeutral: Hold to what it should be — the standard you are keeping is worth keeping.
+dailyNeutral: Hold to what it should be; the standard is real and it is doing work.
 dailyGood: Let the ideal run at full brightness — it is the measure that matters.
 dailyBest: Refuse the diminished version — what you know it could be is the thing to build toward.
-dailyBad: The practical version is being pressed — what you are holding to is being called unrealistic.
-dailyWorst: The compromise is being insisted on from every direction — the ideal is being named an obstacle.
+dailyBad: Accept the practical version for now; the ideal does not have to be abandoned to be set aside.
+dailyWorst: Take the compromise; what you are holding out for is being named the problem.
 ---
 
 Miso Cannellini Beans are the Bean Zodiac's most idealistic — they haven't yet been convinced to revise their picture.

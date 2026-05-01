@@ -10,8 +10,8 @@ seasonalFortune: A tangent is coming that deserves more than curiosity usually a
 dailyNeutral: Follow what interests you — the thing you are drawn to has something in it.
 dailyGood: Go further than the first answer — the question you are in deserves a second look.
 dailyBest: Let the curiosity take you all the way — the thing you are pursuing will give up its full depth if you stay.
-dailyBad: An answer is being asked for — the question is being treated as delay.
-dailyWorst: The exploration is being named as avoidance — someone wants a conclusion and is naming the wandering as a problem.
+dailyBad: Give the answer being asked for; the question is being treated as delay.
+dailyWorst: Land on a conclusion; the exploration is being named avoidance and the wandering is being named the problem.
 ---
 
 Rendered Green Beans are the Bean Zodiac's most curious — their interest is warm, wide, and without agenda.

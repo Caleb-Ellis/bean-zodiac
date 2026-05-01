@@ -10,8 +10,8 @@ seasonalFortune: An energy will find a thing worth staying for — when it arriv
 dailyNeutral: Let the energy move — it will find what it needs.
 dailyGood: The restlessness is pointing at something — follow it.
 dailyBest: Go everywhere at once — the scatter is the method and something will catch.
-dailyBad: The people around you needed steadiness — what they got is still moving.
-dailyWorst: Every thread is still live — and the people waiting on them are starting to talk.
+dailyBad: Hold still; steadiness was needed and what arrived is still moving.
+dailyWorst: Close something — every thread is live and nothing is finished.
 ---
 
 Caramelised Green Beans are the Bean Zodiac's most fidgety — the energy is always looking for somewhere to go.

@@ -10,8 +10,8 @@ seasonalFortune: The chain will complete — what the steps have been building t
 dailyNeutral: Follow the reasoning where it actually leads — it is shorter than it appears.
 dailyGood: The simplest answer is already in front of you; resist the urge to complicate it.
 dailyBest: The logic has arrived at its conclusion — let it land, even if the room expected something less clean.
-dailyBad: Feeling is being offered as the better guide — and it has more support than the argument does.
-dailyWorst: The room has moved on — the logic was beside the point, apparently, and the rest followed.
+dailyBad: The room is running on instinct right now; a perfectly sound argument will not land the way you think it will.
+dailyWorst: Put the argument down. Nobody is interested in it and continuing will make this harder than it already is.
 ---
 
 Brined Edamame are the Bean Zodiac's most logical — they follow the argument where it actually goes, often simpler than it appears.

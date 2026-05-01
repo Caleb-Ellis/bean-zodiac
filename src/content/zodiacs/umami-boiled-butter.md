@@ -6,12 +6,12 @@ form: boiled
 trait: grounded
 dish: Butter bean broth simmered with Parmesan rinds, rosemary, and garlic.
 quote: If it ain't beaned, don't fix it.
-seasonalFortune: A Bean who has been building on you will be asked to contribute — require something, before the weight becomes invisible.
-dailyNeutral: Stay where you are — the people around you are steadying themselves against your position.
-dailyGood: Let your steadiness come with a need — the foundation can speak.
-dailyBest: Ask for something — you have held others long enough to hold a requirement of your own.
-dailyBad: Something is asking you to adjust — the position everyone leaned on is now in the way.
-dailyWorst: The demand to shift is coming from every direction — what was a foundation is being named an obstacle.
+seasonalFortune: What has been quietly held in place here is about to be recognised for what it is.
+dailyNeutral: Stay where you are; the ground beneath everything is still you.
+dailyGood: Steadiness is a need too — let it make a claim.
+dailyBest: Ask for something — you have held long enough to hold a requirement of your own.
+dailyBad: Something that was load-bearing is being described as a burden.
+dailyWorst: The ground has been called a ceiling; the framing is hardening.
 ---
 
 Dashi Butter Beans are the Bean Zodiac's most grounded — Beans build their seasons around them.

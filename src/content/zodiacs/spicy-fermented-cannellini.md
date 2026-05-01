@@ -10,8 +10,8 @@ seasonalFortune: Not every detail is load-bearing — identify the ones that are
 dailyNeutral: The detail that is bothering you is real — give it the attention it needs, then move.
 dailyGood: The standard has been set; apply it to the thing that is actually load-bearing.
 dailyBest: Every small wrong in view deserves attention — work through them completely.
-dailyBad: The room has moved forward and locked the work in — the small wrongs are no longer accessible.
-dailyWorst: Everything has been filed and sent; the details that still needed attention are no longer reachable.
+dailyBad: Name the small wrongs before the lock — once it moves forward they are out of reach.
+dailyWorst: Hold back until the details are right — once filed and sent, nothing is reachable.
 ---
 
 Kimchi Cannellini Beans are the Bean Zodiac's most persnickety — small wrongs bother them until fixed.

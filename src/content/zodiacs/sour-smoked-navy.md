@@ -10,8 +10,8 @@ seasonalFortune: What you set in motion will arrive as you knew it would — sto
 dailyNeutral: The momentum is moving — stay with it.
 dailyGood: Keep going; the direction is set and the pace is correct.
 dailyBest: Advance completely — every step, without pause, all the way to where this is going.
-dailyBad: A pause is what they're asking for — and the forward motion has been taken as disregard.
-dailyWorst: People have stopped trying to influence the direction — the inexorability was named as the reason, and they gave up.
+dailyBad: Pause and ask what has changed; the forward motion is being read as disregard, and the reading is not entirely wrong.
+dailyWorst: The attempts to redirect have stopped. Unstoppable and unresponsive have become the same thing.
 ---
 
 Cold-Smoked Navy Beans are the Bean Zodiac's most inexorable — they do not stop, and they do not explain their motion while it is occurring.

@@ -10,8 +10,8 @@ seasonalFortune: Someone is about to need what you have been reading — bring t
 dailyNeutral: Find the source — there is a text that has already worked this through.
 dailyGood: Read further into it; the argument in your head has a better version somewhere in print.
 dailyBest: Go all the way into the material — follow every footnote, trace every reference, leave nothing unread.
-dailyBad: What's wanted is the answer from memory — the reference is slowing things down.
-dailyWorst: The work has moved on — the reading was delay, and the context was left behind.
+dailyBad: Answer from memory and keep moving; the text can be checked after the moment has passed.
+dailyWorst: Close the book and act on what you already know — more reading will not improve what needs doing right now.
 ---
 
 Tinctured Navy Beans are the Bean Zodiac's most bookish — they build understanding from reading and carry it privately.

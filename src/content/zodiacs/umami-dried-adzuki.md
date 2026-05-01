@@ -7,11 +7,11 @@ trait: reverential
 dish: Azuki no nimono - dried adzuki simmered in dashi and soy.
 quote: The bean is in the ritual, not the result.
 seasonalFortune: An ordinary occasion is coming — let it be worth celebrating on its own terms.
-dailyNeutral: Mark this moment — something is worth pausing for, and you are the one who will do it.
-dailyGood: Treat the occasion as it deserves — give it the full weight of your attention.
-dailyBest: Make it sacred — what you consecrate becomes the thing others remember was worth honouring.
-dailyBad: No one is slowing down — the moment is being moved through.
-dailyWorst: The occasion is being processed and passed — no space is being made for ceremony.
+dailyNeutral: Pause and mark it; this one is worth more than a passing acknowledgment.
+dailyGood: Give the occasion everything it is asking for.
+dailyBest: Make it sacred; what is honoured this completely does not fade.
+dailyBad: Let this one pass without ceremony — the instinct to elevate every moment is not always right.
+dailyWorst: Move through it without marking it; not every occasion earns what you would give it.
 ---
 
 Aged Adzuki Beans are the Bean Zodiac's most reverential — celebration is not casual for them; it is a form of devotion.

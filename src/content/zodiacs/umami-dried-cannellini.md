@@ -9,9 +9,9 @@ quote: A bean is known by the company it keeps.
 seasonalFortune: A distinction will be visible — check that it has not become the only thing you let others see.
 dailyNeutral: Let the work speak at its own pace — the quality is legible to anyone paying attention.
 dailyGood: Carry what you have earned without explaining it — it will reach the right people.
-dailyBest: Walk in without the context — what you are is present in the room before you speak.
-dailyBad: The reputation has arrived before you and filled the room — no one is looking for what is underneath it.
-dailyWorst: The context has no place for what you carry — everything here is being received as equivalent.
+dailyBest: Walk in without the context — what you are arrives before you speak.
+dailyBad: Step past the reputation that preceded you; what is underneath it is not being asked for yet.
+dailyWorst: Allow the distinction to go unread; this context cannot hold it.
 ---
 
 Aged Cannellini Beans are the Bean Zodiac's most distinguished — depth and refinement in combination, accumulated quietly over time.

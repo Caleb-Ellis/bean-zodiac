@@ -10,8 +10,8 @@ seasonalFortune: What has been building toward being said will find its moment �
 dailyNeutral: The thing that wants to be said is already formed — the moment for it is closer than it feels.
 dailyGood: Do not wait for a more comfortable moment; this one is the one.
 dailyBest: Say it now, gently — the person who needed to hear it has been waiting as long as you have been waiting to say it.
-dailyBad: The softer version is being preferred — and the room is signalling it cannot hold the full thing.
-dailyWorst: Telling the truth is being named as unkindness — and the people saying it have the room.
+dailyBad: The room wants something gentler; give it less than you have, just this once.
+dailyWorst: What you would say is being called cruel by people who are louder than you. Say less.
 ---
 
 Brined Butter Beans are the Bean Zodiac's most honest — they deliver truth gently, after waiting for exactly the right moment.

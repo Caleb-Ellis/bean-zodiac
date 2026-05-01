@@ -7,11 +7,11 @@ trait: daydreamy
 dish: Frijoles con leche — pinto beans simmered in sweetened milk with cinnamon and piloncillo until the broth turns pale and dreamlike.
 quote: I have bean a dreamer. I have joined the great company of those who make the imagination of mankind rich.
 seasonalFortune: The actual version will ask to be committed to — step into it, and see what it can become.
-dailyNeutral: Let the mind go where it wants — something useful is waiting there.
+dailyNeutral: Let the mind go where it wants.
 dailyGood: The image that keeps returning deserves more time.
-dailyBest: The inner world you are traveling has more to show you — stay in it a little longer.
-dailyBad: Someone is asking for your full attention and getting the edge of it — the ask is becoming more pointed.
-dailyWorst: The absence is being named directly — there is no easy way to return from where you have drifted.
+dailyBest: The inner world you are traveling has more to show you — stay in it.
+dailyBad: Someone is asking for your full attention and getting the edge of it — the ask is pointed.
+dailyWorst: Surface before the naming is final — the absence is being called out, and the distance is past easy recovery.
 ---
 
 Candied Pinto Beans are the Bean Zodiac's most daydreamy — they live in a world arranged by their own inner logic.

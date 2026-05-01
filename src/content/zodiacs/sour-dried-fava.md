@@ -7,11 +7,11 @@ trait: acerbic
 dish: Fava bean dip with dried sumac, raw onion, and olive oil.
 quote: The truth will set you free, but first it will bean you.
 seasonalFortune: An honest thing will need to be said — the accuracy is not in question, but read the room before choosing the temperature.
-dailyNeutral: The honest thing forming is accurate — find the right temperature for it.
+dailyNeutral: The read is accurate — hold it until the temperature is right.
 dailyGood: The truth is sharp and it is ready; deliver it cleanly.
 dailyBest: Say the full, untempered thing — the accuracy is what the room needs, and you have it.
-dailyBad: Something easier to receive is being preferred — the untempered version has been called unnecessary.
-dailyWorst: The room has closed — and the sharpness of the read is what everyone agrees caused it.
+dailyBad: Warm it slightly; the content is right but the delivery has left a mark.
+dailyWorst: Soften it completely. The damage is done and continuing in this register will make it permanent.
 ---
 
 Dehydrated Fava Beans are the Bean Zodiac's most acerbic — they have the courage to say what others won't, and none of the patience to soften it.

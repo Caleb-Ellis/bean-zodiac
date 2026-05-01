@@ -7,11 +7,11 @@ trait: languid
 dish: Southern butter beans with smoked ham hock and pot liquor.
 quote: Slow and bean wins the race.
 seasonalFortune: A direction is forming — give the tempo somewhere to move toward.
-dailyNeutral: Move at your own pace — the slowness you are in is the right tempo for today.
+dailyNeutral: Move at your own pace; the slowness you are in is the right tempo.
 dailyGood: Let everything slow — the ease you are carrying is the whole of what is being asked.
 dailyBest: Give yourself over to the unhurried — the full depth of what is available here only opens at this speed.
-dailyBad: Urgency is arriving — what is being asked for is speed, and the pace is being noticed.
-dailyWorst: The slowness is being named as a failure — someone is saying it is costing something real.
+dailyBad: Pick up the pace; urgency has arrived and what is being asked for is speed.
+dailyWorst: Move; the slowness is being named as a failure and the cost it is causing is real.
 ---
 
 Hickory Butter Beans are the Bean Zodiac's most languid — the ease and the depth have found each other and have no pressing business elsewhere.

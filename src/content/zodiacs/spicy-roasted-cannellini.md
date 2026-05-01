@@ -7,11 +7,11 @@ trait: charismatic
 dish: Fagioli con 'nduja - cannellini beans roasted with spicy Calabrian 'nduja.
 quote: The bean enters the room before you do.
 seasonalFortune: The impression is forming — hold your own alongside it, and stay connected to what you actually think.
-dailyNeutral: The room is yours — hold your own alongside how it is receiving you.
+dailyNeutral: The presence is landing. Stay connected to what is underneath it.
 dailyGood: The charisma is full and real; stay connected to what you actually think.
 dailyBest: Everything will center on your presence — carry it completely and stay entirely yourself.
-dailyBad: The room is receiving the surface and not looking for what is underneath — what is actually there is not being asked for.
-dailyWorst: What the room wants is the presence and nothing else; everything behind it is being turned away as unnecessary.
+dailyBad: Push past the surface — what is actually there is going entirely unseen.
+dailyWorst: Offer only the presence — everything behind it is being refused and the surface is all that is wanted.
 ---
 
 Peri-Peri Cannellini Beans are the Bean Zodiac's most charismatic — the room changes and they become its center.

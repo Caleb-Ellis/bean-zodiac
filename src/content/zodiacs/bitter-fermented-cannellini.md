@@ -10,8 +10,8 @@ seasonalFortune: The right moment to bring what you have accumulated outward is 
 dailyNeutral: Stay with the source material — there is more in it than the first pass found.
 dailyGood: Go deeper into the subject; the conclusion is not yet available.
 dailyBest: Follow it all the way to the bottom — no premise left unexamined, no implication left unfollowed.
-dailyBad: The research is being called delay — and the practical answer is what is wanted.
-dailyWorst: Action has started without the scholarship — the room decided it could.
+dailyBad: Give the practical answer and skip the footnotes; the room needs the conclusion, not the method.
+dailyWorst: Act before the research is complete — imperfect movement beats perfect understanding that arrives too late.
 ---
 
 Tinctured Cannellini Beans are the Bean Zodiac's most scholarly — they have a devoted relationship with knowledge, surfacing only when conclusion-ready.

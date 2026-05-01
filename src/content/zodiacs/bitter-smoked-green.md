@@ -10,8 +10,8 @@ seasonalFortune: You will arrive somewhere before you are expected — name what
 dailyNeutral: Let the urgency insist on itself — it does not need a source to be real.
 dailyGood: Move from somewhere the room cannot identify; the origin is not the point.
 dailyBest: Arrive before you are expected, from a direction no one was watching — let the strangeness do its work.
-dailyBad: The unsettling quality is being asked to stand aside — and a more comfortable presence is being preferred.
-dailyWorst: The room has rearranged — the strangeness was named and then quietly stepped around.
+dailyBad: Make yourself comfortable and let the room settle; not every space is ready for the strangeness.
+dailyWorst: Come in through the front door and explain yourself — this is one of those times where approachable beats uncanny.
 ---
 
 Ashen Green Beans are the Bean Zodiac's most eerie — their energy insists on itself from a source the room cannot identify.

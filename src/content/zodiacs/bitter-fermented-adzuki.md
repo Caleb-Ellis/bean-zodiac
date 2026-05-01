@@ -10,8 +10,8 @@ seasonalFortune: A memory is going to point at something ahead — follow the po
 dailyNeutral: Return to the good thing — not to stay, but to bring something back.
 dailyGood: What has been is worth holding; carry it forward as orientation, not anchor.
 dailyBest: The past is fully present in you — let it inform everything about what you do now.
-dailyBad: The present is demanding full attention — and everything that came before it is being called a distraction.
-dailyWorst: What happened is being reframed as irrelevant — and the people reframing it are certain they are being practical.
+dailyBad: Stay in the present today; what came before is not what this moment needs from you.
+dailyWorst: Put the past down entirely and face what is directly in front of you — it cannot wait for the comparison.
 ---
 
 Tinctured Adzuki Beans are the Bean Zodiac's most nostalgic — they hold attachment to what has been good, worked through privately.

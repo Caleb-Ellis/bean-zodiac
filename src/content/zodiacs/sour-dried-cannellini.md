@@ -10,8 +10,8 @@ seasonalFortune: The precision you carry will find a room that needs it — desc
 dailyNeutral: The exactness you bring is the contribution — apply it fully.
 dailyGood: The standard you are working to is the correct one; hold it across every detail.
 dailyBest: Bring the full weight of it — the room will rise to meet what you carry in.
-dailyBad: The high standard is being called impractical — and something more achievable is being offered.
-dailyWorst: The standard has been replaced — and the replacement is being celebrated as more realistic.
+dailyBad: Lower the bar, just here; the room cannot meet you and the gap is becoming the story.
+dailyWorst: Let it go. The new standard is worse and everyone has already agreed to it.
 ---
 
 Dehydrated Cannellini Beans are the Bean Zodiac's most exquisite — reduced to the smallest possible version of something and still impossibly precise.

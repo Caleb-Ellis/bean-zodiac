@@ -9,9 +9,9 @@ quote: To bean or not to bean — actually, yes, obviously. Why would you not.
 seasonalFortune: Most of the guilelessness will be repaid — the exceptions are the cost of the thing, not the thing itself.
 dailyNeutral: Take what is in front of you at face value — it is probably what it appears to be.
 dailyGood: Skip the reading-between-the-lines; what was said is what was meant.
-dailyBest: Receive it completely plainly — the guileless response is the correct one.
-dailyBad: The plain taking of things is being exploited — and the person exploiting it knows what they are doing.
-dailyWorst: Having no guard is being named as the vulnerability — and the people who see it are not all benign.
+dailyBest: Receive it completely plainly — the uncalculated response is the correct one.
+dailyBad: Read this one a little; the plain taking of it is being exploited by someone who knows exactly what they are doing.
+dailyWorst: Put a guard up. Not everyone who sees the opening is benign.
 ---
 
 Chimichurri Butter Beans are the Bean Zodiac's most guileless — nothing behind what they say or do.

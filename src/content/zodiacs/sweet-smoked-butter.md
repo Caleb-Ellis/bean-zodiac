@@ -8,10 +8,10 @@ dish: Gigantes plaki - butter beans baked with sweet tomato, smoked paprika, and
 quote: Que bean sera, sera. Whatever will bean, will bean.
 seasonalFortune: A pleasant fog is coming — hold onto at least one clear edge inside it, so the comfort has somewhere specific to live.
 dailyNeutral: Let the edges stay soft — precision is not what this requires.
-dailyGood: The gentle blur you bring is making the room easier to inhabit.
+dailyGood: The gentle blur you bring is making everything easier to inhabit.
 dailyBest: Settle fully into the haze — the softness is the thing, and it is enough.
-dailyBad: The softness is not helping the people around you find what they need — and they are starting to say so.
-dailyWorst: The people who needed clarity from you have stopped waiting for it.
+dailyBad: Find one clear edge; the softness is making what is needed impossible to locate.
+dailyWorst: Say something specific — the haze has become a place to hide in, and clarity has been given up on.
 ---
 
 Barbecued Butter Beans are the Bean Zodiac's most hazy — the warmth is real, but the edges have softened past the point of definition.

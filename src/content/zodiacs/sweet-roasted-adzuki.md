@@ -10,8 +10,8 @@ seasonalFortune: A generosity will be returned — let it flow both ways, and ea
 dailyNeutral: Give without accounting — the return will find its way back.
 dailyGood: What you are extending is landing in places you cannot see yet.
 dailyBest: Open the hands fully — give everything you have brought and let the abundance be real.
-dailyBad: More is being asked of you than you have — and the ask has not stopped.
-dailyWorst: Everything has been given and nothing kept — and no one asked for it to go that far.
+dailyBad: Hold something back; the ask has exceeded what you have to give.
+dailyWorst: Keep something — it has all gone out and none of it was requested at that scale.
 ---
 
 Glazed Adzuki Beans are the Bean Zodiac's most generous — combining the Adzuki's gift for celebration with Sweet's effortless warmth and Roasted's radiant generosity.

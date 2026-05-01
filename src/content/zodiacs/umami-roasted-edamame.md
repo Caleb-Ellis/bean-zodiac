@@ -8,10 +8,10 @@ dish: Roasted edamame with nori salt, sesame, and yuzu zest.
 quote: To pay bean attention, this is our endless and proper work.
 seasonalFortune: A full presence will be asked for — distinguish, before giving it, between being present and being available to everyone.
 dailyNeutral: Give it your full attention — the thing in front of you is worth everything you are bringing.
-dailyGood: Stay with it longer — the complete picture is available to the one who does not move.
+dailyGood: Stay with it longer — the complete picture is available to those who do not move.
 dailyBest: Be entirely present — the full depth of your attention is what this moment has been waiting for.
-dailyBad: Multiple things are asking for all of the attention at once — and each one is pressing.
-dailyWorst: Someone is naming the divided attention as the problem — and they are not wrong that they are not getting enough.
+dailyBad: Choose what gets the attention; multiple things are pressing and each one cannot have all of it.
+dailyWorst: Give undivided attention to what is naming the division; the claim is accurate and it will not wait.
 ---
 
 Rendered Edamame are the Bean Zodiac's most attentive — Beans can feel the difference of their full presence.

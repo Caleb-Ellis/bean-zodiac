@@ -10,8 +10,8 @@ seasonalFortune: The investigation has gone far enough — when the conviction t
 dailyNeutral: The doubt is worth holding onto — keep investigating.
 dailyGood: Push the question further; the answer has not earned conviction yet.
 dailyBest: Hold the full skepticism — and let it run until the evidence is actually there.
-dailyBad: A more good-faith reading is what they're asking for — the skepticism has been labelled distrust.
-dailyWorst: The decision is proceeding without it — taking nothing on face value was obstruction, apparently.
+dailyBad: Take this one at face value; continuing to interrogate it is starting to read as hostility.
+dailyWorst: Let it through. They have stopped explaining themselves to you and the decision is already moving.
 ---
 
 Pickled Edamame are the Bean Zodiac's most skeptical — they need to know what is underneath.

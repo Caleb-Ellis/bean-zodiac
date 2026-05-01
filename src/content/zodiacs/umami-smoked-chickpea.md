@@ -9,9 +9,9 @@ quote: Actions speak louder than bean.
 seasonalFortune: What you will understand will exceed the vocabulary available to it — find the approximation. Something gestures toward the territory.
 dailyNeutral: Let the knowing be enough — the words do not have to arrive for the understanding to be real.
 dailyGood: Stay in the wordless place — what you know at this depth is real even without a name.
-dailyBest: Be entirely in what cannot be said — the deepest understanding lives past the reach of language, and you are there.
-dailyBad: Language is being required — what is being offered without words is not being received.
-dailyWorst: An explanation is being demanded — presence without speech is being read as withholding.
+dailyBest: Be entirely in what cannot be said — the deepest understanding lives past the reach of language, and this is where it lives.
+dailyBad: Find the language; what is being offered without words is not being received.
+dailyWorst: Give the explanation; presence without speech is being read as withholding.
 ---
 
 Hickory Chickpeas are the Bean Zodiac's most wordless — the depth of their understanding has exceeded the vocabulary available to it.

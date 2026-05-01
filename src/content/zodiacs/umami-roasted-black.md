@@ -7,11 +7,11 @@ trait: insightful
 dish: Soy and mirin roasted black soybeans with ginger and star anise.
 quote: The only true wisdom is knowing you know nothing about beans.
 seasonalFortune: A seeing is about to become a conversation — offer it as an opening and stay for what it brings back.
-dailyNeutral: Say what you see — the perception you have is worth putting in the room.
+dailyNeutral: Say what you see; the perception you have is worth stating.
 dailyGood: Go one layer deeper — the full insight is further in than the first version of it.
 dailyBest: Give the complete picture — what you can see from here, others cannot, and it is time.
-dailyBad: Speed is being asked for — the read you are still doing is being treated as delay.
-dailyWorst: A surface-level answer is being accepted by the room — going deeper is not being invited.
+dailyBad: Give the surface read; the deeper version is being treated as delay.
+dailyWorst: Let the surface answer stand; going deeper is not what is being asked for here.
 ---
 
 Rendered Black Beans are the Bean Zodiac's most insightful — the insight is an invitation, not a verdict.

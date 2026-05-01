@@ -10,8 +10,8 @@ seasonalFortune: A cut is coming — stay long enough afterward to see what it h
 dailyNeutral: The cut is there — make it cleanly.
 dailyGood: Go exactly to the thing; no wider than what is needed.
 dailyBest: The incision is ready — single, exact, and at exactly the right depth.
-dailyBad: A warmer intervention is what's preferred — and cold is the word chosen for the precise one.
-dailyWorst: They are asking for someone different — the precision of it was named as the reason they feel like subjects.
+dailyBad: Warm up the delivery; the precision arrived correct but cold, and cold is what has been remembered.
+dailyWorst: A different approach is being sought out. The exactness of it is the reason — it read as procedure, not care.
 ---
 
 Cold-Smoked Edamame are the Bean Zodiac's most surgical — fast, precise, and finished before the situation has fully understood what occurred.

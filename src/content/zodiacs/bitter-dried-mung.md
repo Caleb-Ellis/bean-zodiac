@@ -10,8 +10,8 @@ seasonalFortune: A moment will arrive that resists measurement — allow the war
 dailyNeutral: See what is depleted and apply exactly what is needed — no more, no less.
 dailyGood: The diagnosis is accurate; apply the correct measure without deviation.
 dailyBest: Nothing overlooked, nothing added that was not required — the full clinical attention, completely applied.
-dailyBad: The ask is for warmth, not a diagnosis — and the person asking means it.
-dailyWorst: Coldness. The room has agreed on the word, and on what they want in its place.
+dailyBad: Give the warmth, not the assessment; what is needed here cannot be measured.
+dailyWorst: Set the method down entirely and just be present — that is the only thing that will work right now.
 ---
 
 Desiccated Mung Beans are the Bean Zodiac's most clinical — they see what is depleted with precision and apply exactly what is needed, no more.

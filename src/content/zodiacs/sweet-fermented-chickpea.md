@@ -9,9 +9,9 @@ quote: Could a greater bean miracle take place than for us to look through each 
 seasonalFortune: A belonging elsewhere will arrive that feels like yours — know where you end before taking it on.
 dailyNeutral: Listen for what is underneath what is being said.
 dailyGood: What you are receiving is real — let it land before you respond.
-dailyBest: Step fully into what the other person is carrying — let it be as real for you as it is for them.
-dailyBad: The other person's need is pulling you further in than you can afford to go.
-dailyWorst: What belongs to them has crossed into you — the boundary between their experience and yours is gone.
+dailyBest: Step fully into what is being carried — let it be as real for you as it is for whoever carries it.
+dailyBad: Come back to yourself; the need is pulling you further in than you can go.
+dailyWorst: Find the line between what is yours and what is not — it has been lost, and you are feeling the difference.
 ---
 
 Honeyed Chickpeas are the Bean Zodiac's most empathetic — they feel what someone is carrying before that person has named it.

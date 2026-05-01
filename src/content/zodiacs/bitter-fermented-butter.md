@@ -10,8 +10,8 @@ seasonalFortune: The work you have been developing in private will be needed —
 dailyNeutral: Take the time the thought requires — it will be better for it.
 dailyGood: Consider it from every angle before it surfaces; nothing leaves before it is ready.
 dailyBest: Give it the complete interior treatment — no thought leaves half-formed.
-dailyBad: The considered answer is no longer being waited for — a quick one has been accepted instead.
-dailyWorst: The thinking time has been declared over — and the decision has been made without it.
+dailyBad: Offer the half-formed version now; something out is more useful than something perfect and still inside.
+dailyWorst: Say the first thing that arrives — this is not the moment for the interior treatment.
 ---
 
 Tinctured Butter Beans are the Bean Zodiac's most thoughtful — nothing leaves their interior until properly considered and found worthy.

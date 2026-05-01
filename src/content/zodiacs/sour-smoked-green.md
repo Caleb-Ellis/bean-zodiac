@@ -8,10 +8,10 @@ dish: Leather britches - Appalachian smoke-dried green beans simmered with ham h
 quote: A bean by any other name would smell as sweet.
 seasonalFortune: You will arrive before you are expected — learn to arrive before making an entrance.
 dailyNeutral: The presence is already arriving before you — let it.
-dailyGood: Fill the room; the full pungency is the signal you are sending.
+dailyGood: Fill the space; the full intensity is the signal you are sending and it is the right one.
 dailyBest: Arrive at complete intensity — everything about you at full strength, before a word is spoken.
-dailyBad: Dilution is what's being asked for — the full strength came across as overwhelming.
-dailyWorst: The pungency is being named as the reason people are not staying — and they are not.
+dailyBad: Dilute it slightly; the full strength arrived as overwhelming and that is now the impression that has stuck.
+dailyWorst: The intensity is the reason things are emptying out. Dial it back before the space is entirely clear.
 ---
 
 Cold-Smoked Green Beans are the Bean Zodiac's most pungent — their optimism has developed an edge that fills the room before they have entered it.

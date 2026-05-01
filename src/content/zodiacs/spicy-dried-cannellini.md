@@ -6,11 +6,11 @@ form: dried
 trait: searing
 dish: Pasta e fagioli - dried cannellini and pasta soup with peperoncino.
 quote: I came, I saw, I beaned.
-seasonalFortune: A mark will be made — make sure each one is the mark you meant to make.
-dailyNeutral: The mark will stick — make it the one you intend.
+seasonalFortune: The marks made this season will last. Choose each one with the full weight of that.
+dailyNeutral: Slow the precision down just enough to confirm the aim before it lands.
 dailyGood: The precision is full and the heat is behind it; apply both with care.
 dailyBest: Everything that meets your full attention will carry it permanently — bring your best aim.
-dailyBad: The thing receiving your full attention was not built to hold it — what is being applied is more than it can take.
+dailyBad: What is receiving your full attention was not built to hold it. Pull back before more is applied than it can take.
 dailyWorst: Everything arriving is asking to be marked; the demand on the precision is total and will not let up.
 ---
 

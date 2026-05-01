@@ -10,12 +10,12 @@ seasonalFortune: What will move through you will have no ordinary framework — 
 dailyNeutral: Follow the thing that has no clear explanation — it knows where it is going.
 dailyGood: What is moving through you is from somewhere deeper than reason — trust it.
 dailyBest: Go all the way into it — the mystery is the destination, and you are already there.
-dailyBad: The mystery is keeping people out rather than drawing them in — the room has stopped trying to follow.
-dailyWorst: It has gone so deep that no one knows what is there anymore — and the room has stopped asking.
+dailyBad: Give an entrance to it; the mystery is keeping what is here out rather than drawing it in.
+dailyWorst: Surface something — it has gone so deep that even an approach is no longer possible.
 ---
 
 Barbecued Black Beans are the Bean Zodiac's most mystical — their depth has taken on a quality that resists any ordinary framework.
 
 Black Beans hold their richness until it has been earned; Sweet Beans make the approach feel welcomed and uncomplicated; Smoked Beans give the combination a quality that seems to operate outside ordinary registers.
 
-The Barbecued Black Bean's challenge is accessibility. Mystery is only worth having if someone can approach it. These Beans must occasionally meet the room where it is.
+The Barbecued Black Bean's challenge is accessibility. Mystery is only worth having if someone can approach it. These Beans must occasionally create an entrance.

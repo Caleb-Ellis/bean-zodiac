@@ -10,8 +10,8 @@ seasonalFortune: The loop that has run longest will ask to be interrupted — fi
 dailyNeutral: The loop is familiar — find the gap before returning, however small.
 dailyGood: The pull is real and the loop is running; find the space inside it.
 dailyBest: The compulsion is at full strength — find every gap in it and fill them differently.
-dailyBad: The pull is happening faster than the room can follow — those nearby have stopped knowing where you are in the loop.
-dailyWorst: Everyone around you has stepped back; the loop is visible to them and what they see is asking them to give distance.
+dailyBad: Break the loop before the thread is lost — it is already running faster than anyone can follow.
+dailyWorst: The loop is visible from outside and what is seen is prompting distance. Step out of it, even briefly.
 ---
 
 Kimchi Mung Beans are the Bean Zodiac's most compulsive — they return to certain things with a regularity that puzzles them.

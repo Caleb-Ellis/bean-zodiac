@@ -6,12 +6,12 @@ form: fermented
 trait: philosophical
 dish: Hatcho miso shiru - adzuki simmered in two-year aged hatcho miso with silken tofu.
 quote: I think, therefore I am a bean.
-seasonalFortune: A question will want to be brought outward — share it before the conclusion, and let someone else sit with it.
-dailyNeutral: Follow the question — the thinking you are in is going somewhere worth staying.
+seasonalFortune: A question will want to be shared before it has resolved — let it out while it is still open.
+dailyNeutral: Follow the question; the thinking you are in is going somewhere worth staying.
 dailyGood: Let the question grow to its full size — it has earned that.
-dailyBest: Sit all the way inside it — the deepest questions ask for everything, and you are the one who can give it.
-dailyBad: The room wants a conclusion — the question is being asked to close before it has run.
-dailyWorst: An answer is being required — the thinking you are still in has been decided to be finished.
+dailyBest: Sit all the way inside it; the deepest questions ask for everything, and this is the moment for everything.
+dailyBad: Give the conclusion that is being asked for; the question can continue somewhere it is not being timed.
+dailyWorst: Close it; what is still open is being read as unfinished work, not unfinished thought.
 ---
 
 Miso Adzuki Beans are the Bean Zodiac's most philosophical — they've thought everything through.

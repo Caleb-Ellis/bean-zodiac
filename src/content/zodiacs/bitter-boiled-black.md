@@ -10,8 +10,8 @@ seasonalFortune: The right moment will announce itself — and when it does, wha
 dailyNeutral: Say one thing exactly — not two things approximately.
 dailyGood: The broth is ready; let someone taste it before the bowl is done.
 dailyBest: The room around you has begun to slow to your pace — hold it there.
-dailyBad: The silence is filling itself — and someone else's pace is becoming the room's.
-dailyWorst: Everyone has moved on; your precision is now indistinguishable from reluctance.
+dailyBad: Someone else is setting the pace now; match it, at least until the moment passes.
+dailyWorst: Everyone has moved on — say something, anything, before the gap becomes a wall.
 ---
 
 Decocted Black Beans are the Bean Zodiac's most measured — not through restraint learned, but through a nature that has never needed to speak before it is certain.

@@ -9,9 +9,9 @@ quote: Life is too important to be taken bean.
 seasonalFortune: A small thing will arrive — let it be exactly as small as it is.
 dailyNeutral: Bring the full weight — the seriousness you are bringing is the appropriate response.
 dailyGood: Give it the gravity it deserves — the considered approach is the right one here.
-dailyBest: Treat it as though everything depends on it — for you, right now, it does.
-dailyBad: Levity is being asked for — the gravity is being felt as a heaviness the room does not want.
-dailyWorst: The seriousness is being named as exhausting — by someone whose judgment in this matters.
+dailyBest: Treat it as though everything depends on it — for you, in this, it does.
+dailyBad: Bring some lightness; the gravity is being felt as a heaviness the moment cannot hold.
+dailyWorst: Ease it; the seriousness is being named as exhausting and the source of that naming matters.
 ---
 
 Tempura Mung Beans are the Bean Zodiac's most serious — they bring the same gravity to all things.

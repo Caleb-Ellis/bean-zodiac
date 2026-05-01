@@ -6,12 +6,12 @@ form: smoked
 trait: solemn
 dish: Feijoada - Brazilian black bean stew with smoked chouriço, carne seca, and bay leaf.
 quote: Ask not what your bean can do for you — ask what you can do for your bean.
-seasonalFortune: A gravity will be correctly placed — let the room breathe somewhere alongside it, so the solemnity does not become the ceiling.
-dailyNeutral: Hold the gravity — what you are in asks for the full weight of your attention.
+seasonalFortune: A gravity will be correctly placed — let something breathe alongside it, so the solemnity does not become the ceiling.
+dailyNeutral: Hold the gravity; what you are in asks for the full weight of your attention.
 dailyGood: Let the solemnity be complete — the occasion deserves to be treated as what it is.
-dailyBest: Give it the full weight — the gravity of what you are holding is real, and the room can carry it.
-dailyBad: Lightness is being called for — the gravity is being felt as a burden by the people around it.
-dailyWorst: The weight is being named as oppressive — and someone with standing is asking for it to lift.
+dailyBest: Give it the full weight; the gravity of what you are holding is real and this moment can carry it.
+dailyBad: Let some lightness in; the gravity is being felt as a burden and the ask is to ease it.
+dailyWorst: Lift it; the weight is being named as oppressive and the request comes from somewhere that matters.
 ---
 
 Hickory Black Beans are the Bean Zodiac's most solemn — the depth has accumulated to the point where anything lighter than gravity feels wrong.

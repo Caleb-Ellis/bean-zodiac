@@ -10,8 +10,8 @@ seasonalFortune: The depth you carry will find someone who wants to be let past 
 dailyNeutral: Let the depth speak for itself — no announcement is needed.
 dailyGood: Move through this with the assurance of something that requires no explanation.
 dailyBest: Everything unnecessary has been removed — what remains is the thing itself, entirely.
-dailyBad: The warmth is being asked for — and the precision alone is not what the room came for.
-dailyWorst: Something looser is coming in — the elegance was cold, or that's what they agreed.
+dailyBad: Add some warmth to it; precision without approachability is just distance with good posture.
+dailyWorst: Let it be loose and a little imprecise — the room needs access more than it needs refinement right now.
 ---
 
 Charcoal Black Beans are the Bean Zodiac's most elegant — depth that needs no announcement.

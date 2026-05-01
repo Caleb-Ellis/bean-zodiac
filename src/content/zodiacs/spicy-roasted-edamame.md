@@ -10,8 +10,8 @@ seasonalFortune: A moment will test the confidence — stay open to being wrong 
 dailyNeutral: The confidence is real — carry it without closing off.
 dailyGood: The certainty is earned; hold it fully and stay open to the one thing that might change it.
 dailyBest: Bring the full confidence — carry it at complete volume, and hold it alongside everything you don't know.
-dailyBad: Someone in the room is pressing a correction that cannot be heard over the volume — and they are right.
-dailyWorst: The room has stopped trying to reach in; what is wrong will not be visible until there is nowhere left to go.
+dailyBad: A correction is being pressed that cannot be heard over the volume — and it is right. Lower it enough to let the signal through.
+dailyWorst: What is wrong will not be visible until there is nowhere left to go. The correction has already stopped being offered.
 ---
 
 Peri-Peri Edamame are the Bean Zodiac's most confident — nothing inward works against them.

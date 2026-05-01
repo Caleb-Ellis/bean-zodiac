@@ -7,11 +7,11 @@ trait: bracing
 dish: Szechuan dry-fried green beans with black vinegar and ginger.
 quote: Into each life some bean must fall.
 seasonalFortune: Someone who needs waking up is coming — read whether they are struggling to stand before you administer it.
-dailyNeutral: The bracing thing you are about to do will leave whoever receives it more awake — proceed.
+dailyNeutral: What you are about to deliver will leave the recipient more awake — proceed.
 dailyGood: The shock is the gift; deliver it without softening it.
 dailyBest: The full cold of it is the point — let it arrive at full temperature.
-dailyBad: A warmer delivery is what they're asking for — the cold clarity arrived as shock.
-dailyWorst: Protection is being sought from you — specifically from the cold clarity you bring.
+dailyBad: Warm it up; whoever is receiving this is not ready for the cold version.
+dailyWorst: Stand down entirely. The person in front of you is already on the floor.
 ---
 
 Dehydrated Green Beans are the Bean Zodiac's most bracing — the freshness remains, but it is cold and sharp and entirely without cushion.

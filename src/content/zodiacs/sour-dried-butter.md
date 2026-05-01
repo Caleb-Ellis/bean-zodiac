@@ -7,11 +7,11 @@ trait: chastened
 dish: Butter bean and sun-dried tomato salad with sherry vinegar.
 quote: Experience is simply the name we give our bean.
 seasonalFortune: A situation that resembles the last one is coming — it is not the last one, and it deserves a fresh read.
-dailyNeutral: The caution is a kind of knowledge — carry it into what is in front of you.
-dailyGood: Let what you learned last time shape how you move through this one.
-dailyBest: You know this shape — move through it with everything that knowledge has given you.
-dailyBad: The lesson is being contested — and the person contesting it is the one who gave it.
-dailyWorst: The correction is being withdrawn — and what it addressed is being allowed back in.
+dailyNeutral: The caution is earned — carry it.
+dailyGood: You have been here before; let it show.
+dailyBest: Move through it with everything the last time taught you.
+dailyBad: Set the lesson aside; the person who needs you right now does not want to hear it.
+dailyWorst: Drop the guard entirely. The wariness is the problem here and people are starting to say so.
 ---
 
 Dehydrated Butter Beans are the Bean Zodiac's most chastened — the ease is gone, the comfort has been questioned, and what remains is more careful.

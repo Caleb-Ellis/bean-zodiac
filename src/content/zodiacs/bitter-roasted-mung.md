@@ -10,8 +10,8 @@ seasonalFortune: The Beans worth working alongside will need to know what you ar
 dailyNeutral: Give what is needed without noting it — the work is its own acknowledgment.
 dailyGood: Do more than was asked and say nothing about it; the record will show.
 dailyBest: Let everything go to the thing itself — your name is not required anywhere in this.
-dailyBad: The people offering credit are confused — refusing it again is not going over well.
-dailyWorst: People want you visible in the work — and the absence is becoming the story of it.
+dailyBad: Take the credit being offered; refusing it a second time is not modesty, it is just awkward.
+dailyWorst: Put your name on it — staying invisible here is costing the work something it cannot afford to lose.
 ---
 
 Charcoal Mung Beans are the Bean Zodiac's most humble — they know what they are capable of and keep it hidden.

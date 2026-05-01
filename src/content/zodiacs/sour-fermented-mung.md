@@ -7,11 +7,11 @@ trait: insecure
 dish: Mung bean dal with yogurt tadka and lime.
 quote: To bean oneself is the beginning of a lifelong romance.
 seasonalFortune: The signal-to-noise ratio will improve — act on the signal when it becomes clear, and let the noise run down on its own.
-dailyNeutral: The doubt is loud today — let it speak without needing to answer it.
+dailyNeutral: The doubt is loud — let it speak without needing to answer it.
 dailyGood: The uncertainty is deeper than usual; stay with it fully.
-dailyBest: The insecurity is at full volume — sit in it completely, and see what it actually says.
-dailyBad: Reassurance is being withheld — and the absence of it is being called appropriate distance.
-dailyWorst: Confirmation was what they gave, not address — and they are calling it honesty.
+dailyBest: Sit in it completely — let the noise run until it says the thing underneath.
+dailyBad: Ask for what you need; waiting for them to notice is not working and the gap is widening.
+dailyWorst: Stop waiting. What they offered was not reassurance and accepting it as such will make things worse.
 ---
 
 Pickled Mung Beans are the Bean Zodiac's most insecure — they understand in exquisite detail everything they might be getting wrong.

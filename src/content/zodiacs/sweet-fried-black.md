@@ -10,8 +10,8 @@ seasonalFortune: A destination will be approaching — the warmth you carry was 
 dailyNeutral: Push toward the next thing — the momentum is real.
 dailyGood: The drive you carry is compressing what would otherwise take weeks.
 dailyBest: Go completely — the full force of what you are is the right amount for what is ahead.
-dailyBad: What you are moving past has people in it — not everything in the way is an obstacle.
-dailyWorst: The people and things passed over are making themselves known — the cost of the speed is becoming clear.
+dailyBad: Slow down; not everything in the way is an obstacle.
+dailyWorst: Stop and look back — the cost of the speed is arriving, and it needs to be faced.
 ---
 
 Caramelised Black Beans are the Bean Zodiac's most driven — warmth and determination that moves outward, pulling others along without intention.

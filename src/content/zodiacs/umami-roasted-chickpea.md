@@ -7,11 +7,11 @@ trait: tolerant
 dish: Roasted chickpeas with Worcestershire, smoked paprika, and garlic.
 quote: In the practice of tolerance, one's bean is the best teacher.
 seasonalFortune: A limit is coming — hold it warmly when it arrives.
-dailyNeutral: Hold the space — the room you are making for difference is real and it matters.
-dailyGood: Extend further — the capacity you have is wider than you have used today.
+dailyNeutral: Hold the space; what you are making room for is real and it matters.
+dailyGood: Extend further; the capacity you have is wider than you have used.
 dailyBest: Let the space be as wide as it needs to be — you have the range to hold all of it.
-dailyBad: Someone is testing the limit of the space — to see if there is one.
-dailyWorst: A boundary is being demanded — someone is insisting that a line be drawn now.
+dailyBad: Name the limit; what is testing it wants to know if one exists.
+dailyWorst: Draw the line; the demand is direct and continuing without one will cost more than the boundary will.
 ---
 
 Rendered Chickpeas are the Bean Zodiac's most tolerant — they've been around long enough to lose certainty about what doesn't belong.

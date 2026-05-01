@@ -9,9 +9,9 @@ quote: Keep it simple, bean.
 seasonalFortune: A complexity that will not fit in the directness is coming — the cost is real, and worth knowing.
 dailyNeutral: Say the direct thing — it is enough.
 dailyGood: The clarity you offer is cutting through what complication cannot.
-dailyBest: Strip everything to what is true — the room will come to meet you there.
-dailyBad: The directness is cutting past what the other person actually needed you to sit with.
-dailyWorst: Something has been simplified past the point of honesty — and the person on the other side can feel it.
+dailyBest: Strip everything to what is true; what remains is enough.
+dailyBad: The directness is cutting past what was actually needed.
+dailyWorst: Give the complicated version — what was simplified has gone past honesty, and the gap is felt.
 ---
 
 Crystallised Edamame are the Bean Zodiac's most uncomplicated — they have removed everything that was not necessary, and what is left is simply good.

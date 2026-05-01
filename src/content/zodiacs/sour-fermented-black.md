@@ -10,8 +10,8 @@ seasonalFortune: What has been accumulating in the dark is nearly ready to surfa
 dailyNeutral: What you have been noticing is real — trust the read.
 dailyGood: The thing forming in the background is visible to you; stay with what you see.
 dailyBest: The full picture is already assembled — deliver it, and let the room catch up.
-dailyBad: People are asking for less of it — the full read has landed as something closer to surveillance.
-dailyWorst: People have started concealing what they can — the perception was called intrusive, and they took the cue.
+dailyBad: Pull back; you have seen enough, and continuing to look is making people uncomfortable.
+dailyWorst: Stop watching entirely. They have noticed and the doors are closing.
 ---
 
 Pickled Black Beans are the Bean Zodiac's most perceptive — they have been watching in the dark for a long time.

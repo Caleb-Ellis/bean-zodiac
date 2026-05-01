@@ -10,8 +10,8 @@ seasonalFortune: A light you carry will reach people who do not know they need i
 dailyNeutral: Bring the warmth — it reaches further than you think.
 dailyGood: The light you carry is landing in places you are not watching.
 dailyBest: Shine completely — the full luminosity is what the moment is asking for.
-dailyBad: What you are bringing is too much for the space — something in the room needed its own light.
-dailyWorst: The shining has been bright enough that everything else has gone dark — the brilliance has become an erasure.
+dailyBad: Dim it a little; what is here needed its own light and yours is filling everything.
+dailyWorst: Step back — the brilliance has gone bright enough to erase what was already here.
 ---
 
 Barbecued Adzuki Beans are the Bean Zodiac's most luminous — their joy seems to emanate from somewhere deeper than the occasion.

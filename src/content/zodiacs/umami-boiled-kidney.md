@@ -11,7 +11,7 @@ dailyNeutral: Do the next one — the practice is already in motion.
 dailyGood: Stay with the form — what you are building shows up in how you do it.
 dailyBest: Let the commitment run all the way through — the thing it is building will be worth wanting.
 dailyBad: The disruption is real and the structure is being asked to bend.
-dailyWorst: The day will not accommodate the practice — everything is pushing for the exception.
+dailyWorst: Everything is pushing for the exception; the structure is being asked to prove it means something.
 ---
 
 Dashi Kidney Beans are the Bean Zodiac's most disciplined — they build things through unglamorous repeated commitment.

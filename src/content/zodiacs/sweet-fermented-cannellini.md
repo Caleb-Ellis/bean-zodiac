@@ -10,8 +10,8 @@ seasonalFortune: The candid version will be available — find the moment where 
 dailyNeutral: Find the reading of things that makes the most room.
 dailyGood: The bridge you build will carry more than its immediate weight.
 dailyBest: Hold the whole of it — every side, every tension — and find the line that moves through all of them.
-dailyBad: The careful framing is a way of not saying the thing — someone needs the direct version.
-dailyWorst: The truth has been handled so carefully that no one can find it — and the room is starting to notice.
+dailyBad: Say the direct version — the careful framing is a way of not saying the thing.
+dailyWorst: Give the unhandled version; the truth has been smoothed past the point of use.
 ---
 
 Honeyed Cannellini Beans are the Bean Zodiac's most diplomatic — they find the arrangement everyone can live with, usually before the conversation begins.

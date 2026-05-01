@@ -8,10 +8,10 @@ dish: Leather britches - Appalachian smoked green beans with smoked fatback.
 quote: One bean does not a summer make.
 seasonalFortune: What has begun will not arrive yet — tend it consistently rather than checking whether it has arrived.
 dailyNeutral: Tend what is beginning — the growth you are in is real even when it is small.
-dailyGood: Give it consistent attention — what you are growing is alive and it needs you.
-dailyBest: Stay with the emergence — the full opening is on its way, and your tending is what will get it there.
-dailyBad: The result is being demanded before the depth has had time to form.
-dailyWorst: Completion is being insisted on — what is still opening is being treated as already late.
+dailyGood: Give it consistent attention — what you are growing is alive and the tending is what it needs.
+dailyBest: Stay with the emergence; the full opening is on its way and consistent tending is what gets it there.
+dailyBad: Show what has formed; the result is being demanded and something partial is better than silence.
+dailyWorst: Give the timeline being asked for; what is still opening is being treated as already late.
 ---
 
 Hickory Green Beans are the Bean Zodiac's most budding — the urgency is real, but the depth is still forming, and something essential has not yet arrived.

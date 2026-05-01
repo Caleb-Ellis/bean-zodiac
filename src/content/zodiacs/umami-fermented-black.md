@@ -7,11 +7,11 @@ trait: introspective
 dish: Black bean and douchi braise - black soybeans with fermented black bean paste, ginger, and Shaoxing wine.
 quote: Who looks outside, dreams; who looks inside, awakens the bean.
 seasonalFortune: A depth will want to come up — bring something from it, so it remains a source rather than a residence.
-dailyNeutral: Turn inward — what is there has been waiting to be examined.
-dailyGood: Go deeper — the layer you have been circling has something in it.
-dailyBest: Give the interior your full attention — you have the capacity to go all the way down.
-dailyBad: The inward pull is being read as absence — the room wants to know where you went.
-dailyWorst: The demand to surface is coming from outside — what you are attending to inside is being named a refusal to show up.
+dailyNeutral: Turn inward; what is there has been waiting to be examined.
+dailyGood: Go all the way in; the layer you have been approaching has something in it.
+dailyBest: Give the interior your full attention and stay until something comes up.
+dailyBad: Surface something; the inward pull is being read as absence.
+dailyWorst: Come back out; continuing inward past this point is being named a refusal.
 ---
 
 Miso Black Beans are the Bean Zodiac's most introspective — they live substantially inside.

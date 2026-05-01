@@ -10,8 +10,8 @@ seasonalFortune: A target will appear that is worth your full sharpness — you 
 dailyNeutral: Apply precision to what is in front of you — nothing is too small to be done exactly right.
 dailyGood: The edge is sharper than most things require — this is not most things.
 dailyBest: Full precision, no waste, no detour — move at your sharpest and do not slow down.
-dailyBad: The standard of precision has been lowered — and the room has accepted the new floor.
-dailyWorst: The edge is being called excessive — and the blunter tool is being handed over.
+dailyBad: Ease off the exactness; good enough is doing real work today and perfect is not needed.
+dailyWorst: Use the blunter tool — not everything deserves the sharpest thing in the drawer.
 ---
 
 Desiccated Green Beans are the Bean Zodiac's most honed — all the urgency, none of the waste; all the speed, only toward what deserves it.

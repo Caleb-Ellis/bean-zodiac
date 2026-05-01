@@ -8,10 +8,10 @@ dish: Butter bean and labneh with honey — cooked butter beans stirred through 
 quote: The bean abides.
 seasonalFortune: Something waiting will not wait indefinitely — find the thing that requires your presence and give it your presence.
 dailyNeutral: Let the pace slow — the right speed is slower than you think.
-dailyGood: The ease you carry is doing something for the room — let it do its work.
+dailyGood: The ease you carry is doing something — let it do its work.
 dailyBest: Settle fully into it — the unhurried version is the best version.
-dailyBad: The ease is landing as indifference — someone needed you to care and you did not show it.
-dailyWorst: Someone has called it negligence — and they are not entirely wrong.
+dailyBad: Show that you care — the ease is reading as indifference.
+dailyWorst: Step up; the ease has become absence.
 ---
 
 Honeyed Butter Beans are the Bean Zodiac's most laid-back — a fundamental orientation toward the world, not an attitude adopted.

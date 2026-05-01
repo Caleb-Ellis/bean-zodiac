@@ -10,8 +10,8 @@ seasonalFortune: The conclusion is sound — the vehicle that will carry it some
 dailyNeutral: Account for the premise before moving — what it is built on determines where it can go.
 dailyGood: Follow the argument all the way through; stop when it holds, not when it gets inconvenient.
 dailyBest: Apply the full reasoning — every premise examined, every implication followed, nothing accepted on insufficient grounds.
-dailyBad: The argument is being dismissed — and feeling is being offered as a better guide.
-dailyWorst: The reasoning has been ruled out of order — and the decision is proceeding on instinct.
+dailyBad: Go with the feeling this once; not every good move can be accounted for in advance.
+dailyWorst: Trust the instinct and act — the argument can be reconstructed after the fact, and right now the moment won't wait for it.
 ---
 
 Tinctured Edamame are the Bean Zodiac's most rational — they cannot proceed on grounds they cannot account for.

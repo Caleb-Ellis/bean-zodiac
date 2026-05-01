@@ -10,8 +10,8 @@ seasonalFortune: Your care will pass through without casting a shadow — be the
 dailyNeutral: Let what you are carrying show through — it is safe here.
 dailyGood: The transparency you offer is giving others permission to be seen too.
 dailyBest: Become fully visible — let the care and the feeling show completely, all the way through.
-dailyBad: The room has been given something it was not ready for — and it is still working out what to do with it.
-dailyWorst: The visibility has become total — and the people watching have more than they asked for.
+dailyBad: Offer less; what was shown was more than what was ready to receive it.
+dailyWorst: Pull something back — the visibility has gone past what anyone can hold comfortably.
 ---
 
 Barbecued Mung Beans are the Bean Zodiac's most translucent — their care passes through without casting a shadow, which means others look through them to what is beyond.

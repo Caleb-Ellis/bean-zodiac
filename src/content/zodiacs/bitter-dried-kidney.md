@@ -10,8 +10,8 @@ seasonalFortune: A density you carry will be mistaken for distance — find what
 dailyNeutral: The difficulty has added density, not damage — carry it forward as strength.
 dailyGood: What would have broken something else has only made you denser — let it show.
 dailyBest: Every hardship has been converted — nothing remains that has not been tested and held.
-dailyBad: The difficulty is being named as something to set down, not carry — and the offer comes from someone who means well.
-dailyWorst: The hardness is being reframed as damage — and the people saying so seem genuinely concerned.
+dailyBad: Set something down today; not every weight you can carry is one you should.
+dailyWorst: Let someone in — the density that protects you is also what is keeping out the good stuff.
 ---
 
 Desiccated Kidney Beans are the Bean Zodiac's most hardened — each season of difficulty has added density, not damage.

@@ -10,12 +10,12 @@ seasonalFortune: A thing not yet fully earned will ask to be given — offer it 
 dailyNeutral: Keep what is yours close — the interior is where the value is.
 dailyGood: The quiet you are holding is doing more than disclosure would.
 dailyBest: Withdraw fully into what is real and yours — the depth is the gift, and it belongs to you.
-dailyBad: The reserve is being felt as absence — and the people who needed something have noticed.
-dailyWorst: The withdrawal has been so complete that the room has stopped trying to reach.
+dailyBad: Offer something; the reserve is being felt as absence and the gap is showing.
+dailyWorst: Come out of it — the withdrawal has been so complete that reaching in has stopped.
 ---
 
 Glazed Navy Beans are the Bean Zodiac's most reserved — their warmth is present but not distributed at random.
 
 Navy Beans are principled about what is given; Sweet Beans hold the warmth carefully; Roasted Beans sustain the temperature without performing.
 
-The Glazed Navy Bean's challenge is the person who doesn't have time to wait. They must sometimes offer what they have before it has been earned.
+The Glazed Navy Bean's challenge is those who don't have time to wait. They must sometimes offer what they have before it has been earned.

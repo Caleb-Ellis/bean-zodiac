@@ -10,8 +10,8 @@ seasonalFortune: The strange idea has gone somewhere real — build the bridge b
 dailyNeutral: The strange idea is worth following — take it one step further into the open.
 dailyGood: The arrangement is yours and it is right; find the bridge that lets someone else see where you went.
 dailyBest: Follow the full strangeness and leave a path back.
-dailyBad: The room has moved on; what was being followed has no one tracking it anymore.
-dailyWorst: Those who wanted to follow have already found somewhere else to stand — the gap is past bridging.
+dailyBad: Keep following it without company — attention has moved on and the thread is untended.
+dailyWorst: The gap has grown past bridging. Find a new entry point rather than extending this one.
 ---
 
 Kimchi Butter Beans are the Bean Zodiac's most eccentric — their arrangement is one no one else could reproduce.

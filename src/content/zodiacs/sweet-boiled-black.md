@@ -6,12 +6,12 @@ form: boiled
 trait: steadfast
 dish: Frijoles de olla con piloncillo — black beans slow-boiled with raw cane sugar and a cinnamon stick.
 quote: Not all those who wander are beans.
-seasonalFortune: A depletion is coming — redirect some of the steadfastness inward, with the same reliability you give outward.
+seasonalFortune: A depletion is coming — redirect the steadfastness inward, with the same reliability you give outward.
 dailyNeutral: Stay the course — the thing you committed to still deserves the effort.
-dailyGood: Others are leaning on your constancy right now, and it is holding.
+dailyGood: Others are leaning on your constancy, and it is holding.
 dailyBest: You are the fixed point around which everything else is finding its footing — do not move.
-dailyBad: What you are holding has been asked to be set down — the refusal to consider it is starting to be felt.
-dailyWorst: Your ground is not being respected — it is being called stubbornness.
+dailyBad: Set it down — it has been asked of you, and holding past this point is not constancy.
+dailyWorst: Hold the ground anyway — it is not being respected, and the refusal is being named stubbornness.
 ---
 
 Candied Black Beans are the Bean Zodiac's most steadfast — steadiness through temperament, not discipline.

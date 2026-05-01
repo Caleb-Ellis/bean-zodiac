@@ -10,8 +10,8 @@ seasonalFortune: What you mean will be asked to stand without explanation — it
 dailyNeutral: The honest version of what you mean is also the clearer one — trust it.
 dailyGood: What you feel does not need to be made more palatable before it is worth saying.
 dailyBest: Say the full thing — the room is steady enough to hold it.
-dailyBad: A more guarded approach is being recommended — and the sincerity is what prompted it.
-dailyWorst: A more managed version is what's being asked for — the full honesty was identified as the cause.
+dailyBad: Hold a little back — the room wants less of you right now, not more.
+dailyWorst: Say less. What's been offered has already cost more than it needed to.
 ---
 
 Brined Adzuki Beans are the Bean Zodiac's most sincere — they celebrate only what they truly feel, and feel without restraint.

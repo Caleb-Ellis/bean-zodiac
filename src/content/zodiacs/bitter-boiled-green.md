@@ -7,11 +7,11 @@ trait: inquisitive
 dish: Minestrone - green beans and puntarelle.
 quote: The important thing is not to stop questioning beans.
 seasonalFortune: One of the threads you are following will arrive at an answer — let it close before you follow the next one.
-dailyNeutral: Follow one thread — and let it close before you open another.
+dailyNeutral: The question worth asking is already in the room — find it before reaching for a new one.
 dailyGood: The question you keep revisiting already has an answer; receive it.
 dailyBest: Arrival is not the end of inquiry — it is its proof.
-dailyBad: The answer was given — and the next question arrived too late to matter.
-dailyWorst: The room has closed; the inquiry is what everyone agrees caused it.
+dailyBad: Accept the answer that's been given and move on; the next question can wait.
+dailyWorst: Stop asking — declare something, anything, and let the room breathe again.
 ---
 
 Decocted Green Beans are the Bean Zodiac's most inquisitive — they follow threads until they lead somewhere unexpected.

@@ -10,8 +10,8 @@ seasonalFortune: Someone will want the key — offer it before they stop looking
 dailyNeutral: The meaning is in the markings — let those who can read them find it.
 dailyGood: Offer nothing unearned; the code stands, and the right reader will arrive.
 dailyBest: Everything needed is already present — nothing more will be offered, and nothing more is needed.
-dailyBad: The ask is for plain speech — and it is not an unreasonable one.
-dailyWorst: Evasion. That is what it looks like from here — and the right reader has stopped looking.
+dailyBad: Say it plainly this once; not every exchange can afford the longer route to meaning.
+dailyWorst: Drop the code entirely and just tell them — the door will not stay open much longer.
 ---
 
 Desiccated Pinto Beans are the Bean Zodiac's most cryptic — the markings are there, the meaning is not offered freely.

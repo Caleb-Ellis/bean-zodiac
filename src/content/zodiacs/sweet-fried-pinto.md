@@ -10,8 +10,8 @@ seasonalFortune: A next new thing will arrive — find what is worth wanting mor
 dailyNeutral: Let the new thing arrive — something in it is worth following.
 dailyGood: The pivot is the right move — the new direction has more in it than the old one.
 dailyBest: Follow every thread fully — the scatter is generative and something brilliant is in there.
-dailyBad: The thing that needed doing is still waiting — and the window for it is narrowing.
-dailyWorst: Every direction at once has become no direction — nothing has your full attention and it is showing.
+dailyBad: Go back to the thing that needed doing — the window is narrowing.
+dailyWorst: Pick one direction and commit; every direction at once has become no direction.
 ---
 
 Caramelised Pinto Beans are the Bean Zodiac's most distractible — genuinely interested in everything, which is the same as being focused on nothing.

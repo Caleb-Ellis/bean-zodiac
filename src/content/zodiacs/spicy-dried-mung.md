@@ -6,12 +6,12 @@ form: dried
 trait: piquant
 dish: Moong dal - spiced mung bean soup with dried red chilies and mustard seed.
 quote: A spoonful of bean helps the medicine go down.
-seasonalFortune: The edge will arrive before the warmth — make sure the warmth is the first thing they notice.
-dailyNeutral: Lead with the warmth — let the edge come second.
+seasonalFortune: This season, the edge will arrive before the warmth does. Plan the order of what you offer.
+dailyNeutral: Lead with the warmth. Let the edge come second.
 dailyGood: The care is real and the sharpness is real; make sure the care arrives first.
 dailyBest: Give the full warmth before the sharpness — make both felt, in the right order.
-dailyBad: The room is not ready for the edge — whatever arrived first is being held against you.
-dailyWorst: Everything coming in is already defensive; the warmth is not registering and only the sharpness is landing.
+dailyBad: Send the warmth ahead — the edge got there first and it is all that has landed.
+dailyWorst: Everything is already defensive. Only the sharpness is getting through; the warmth is not reaching anyone.
 ---
 
 Sichuan Mung Beans are the Bean Zodiac's most piquant — the care is real, the gentleness is real, and it comes with a sharpness that prevents it from being taken for granted.

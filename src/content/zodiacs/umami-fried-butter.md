@@ -10,8 +10,8 @@ seasonalFortune: The practical approach will serve — leave one small opening f
 dailyNeutral: Take the approach that works — the practical instinct you have is the right one.
 dailyGood: Cut to what serves the situation — the clearest path is the one you have already seen.
 dailyBest: Do what works — the simplest version of the answer is the whole answer.
-dailyBad: What is being asked for is not the efficient answer — something beyond utility is being required.
-dailyWorst: What was cut as unnecessary has turned out to matter — and the one it mattered to is saying so.
+dailyBad: Give what is being asked for, not the efficient version of it; utility is not the standard here.
+dailyWorst: Attend to what was cut; it has turned out to matter and the cost of cutting it is being named.
 ---
 
 Tempura Butter Beans are the Bean Zodiac's most pragmatic — whether it's elegant doesn't matter, only whether it works.

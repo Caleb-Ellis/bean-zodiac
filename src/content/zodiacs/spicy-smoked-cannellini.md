@@ -10,7 +10,7 @@ seasonalFortune: A precision at full temperature is coming — remember that cal
 dailyNeutral: The precision is real — apply it where the cut is genuinely needed.
 dailyGood: The full temperature is behind the precision; check the calibration before deploying.
 dailyBest: Bring the full searing precision — completely, and with the calibration that makes it refinement rather than excess.
-dailyBad: What is being applied to is not built for this precision — it is asking for a lower temperature.
+dailyBad: Lower the precision — what it is being applied to cannot hold this temperature.
 dailyWorst: The target has withdrawn entirely; nothing available can receive the full cut.
 ---
 

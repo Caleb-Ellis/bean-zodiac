@@ -10,8 +10,8 @@ seasonalFortune: The candour you carry will find the Beans worth telling — tru
 dailyNeutral: The direct version is also the clearest one — use it.
 dailyGood: Say the actual thing; the room is ready for it.
 dailyBest: Give it completely unguarded — say what you think, in full, without softening.
-dailyBad: A more measured approach is being preferred — the unguarded version was received as oversharing.
-dailyWorst: A more careful communicator is being sought — the candour has been named as the reason trust is eroding.
+dailyBad: What you just said landed harder than you intended — give the room a moment before you say anything else.
+dailyWorst: Someone has started editing themselves around you, which means the unguarded version is now the problem.
 ---
 
 Agrodolce Adzuki Beans are the Bean Zodiac's most candid — honesty that arrives immediate and kind.

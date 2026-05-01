@@ -10,8 +10,8 @@ seasonalFortune: A conversation is coming that will need careful handling — wh
 dailyNeutral: The careful version is there — use it.
 dailyGood: Take another pass at the phrasing; the right words are close.
 dailyBest: Give it every ounce of consideration — the most precisely right version of what needs to be said.
-dailyBad: A plainer answer is what's being demanded — the careful phrasing has been taken as evasion.
-dailyWorst: The direct approach is being insisted on — the tact was named as the reason nothing got addressed.
+dailyBad: Say the plain version; all the careful phrasing is landing as evasion and the room is losing patience.
+dailyWorst: Drop the wrapping and say the thing directly. The care around it has been named the reason nothing got resolved.
 ---
 
 Chimichurri Cannellini Beans are the Bean Zodiac's most tactful — they deliver hard truths wrapped in genuine care.

@@ -9,9 +9,9 @@ quote: Whatever you are, bean a good one.
 seasonalFortune: More will be built than was asked — allow yourself, once, to do the ordinary thing and let that be enough.
 dailyNeutral: Go further than what was asked — the extra effort is in your nature and it shows.
 dailyGood: Build more than the brief requires — the full version of it is what you actually wanted to make.
-dailyBest: Give it everything you have and then more — the version you are capable of is the one worth making.
-dailyBad: The output is making others feel the gap — someone is signalling that it is not welcome.
-dailyWorst: The standard is being named as a problem for the group — and the ask is to bring it down.
+dailyBest: Give it everything and then more — this is what that capacity is for.
+dailyBad: Match the group's output; the gap is being felt and the signal is clear.
+dailyWorst: Bring it down; the standard is being named a problem and the ask is direct.
 ---
 
 Tempura Green Beans are the Bean Zodiac's most overachieving — they're already planning to do twice as much.

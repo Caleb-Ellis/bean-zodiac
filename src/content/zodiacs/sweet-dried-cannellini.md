@@ -8,10 +8,10 @@ dish: Torta di fagioli — Tuscan white bean cake, dried cannellini cooked to pa
 quote: Excellence is never bean by accident.
 seasonalFortune: An inaccessibility will be noticed — descend once and bring the excellence with you.
 dailyNeutral: Bring what is excellent — the occasion is ready for it.
-dailyGood: The precision you carry is doing something the room cannot name yet.
-dailyBest: Let the excellence speak fully — it is sufficient, and more than that.
+dailyGood: The precision you carry is doing something that has not yet been named.
+dailyBest: Let the excellence speak fully; it needs no apology.
 dailyBad: The standard you are holding is not meeting anyone where they are.
-dailyWorst: The refinement has gone past the point of access — the excellence is real, but no one can reach it.
+dailyWorst: The refinement has gone past the point of access — there is no way in.
 ---
 
 Crystallised Cannellini Beans are the Bean Zodiac's most rarefied — excellence stripped of ornament, leaving something so refined it can only be apprehended quietly.

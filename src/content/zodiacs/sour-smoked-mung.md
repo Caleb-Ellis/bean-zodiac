@@ -8,10 +8,10 @@ dish: Smoked moong dal with kokum and fresh coconut - Goan dal with kokum fruit 
 quote: My candle burns at both ends; it will not last the bean.
 seasonalFortune: An attention that drifts will be needed somewhere specific — find the spot where it can stay long enough to repair something.
 dailyNeutral: The attention is drifting — let it wander and see where it lands.
-dailyGood: Follow the wisp; it is going somewhere, and the destination will be legible when you arrive.
+dailyGood: Follow where the attention drifts; it is going somewhere, and the destination will be legible when you arrive.
 dailyBest: Let it drift completely — follow every pull without catching hold, and trust that where it settles is where it was going.
-dailyBad: More substance is the ask — and the lightness has been taken as inattention.
-dailyWorst: Someone more present is being brought in — the wispiness was named as the thing holding everything back.
+dailyBad: Put the attention down somewhere specific; the lightness is being read as inattention and the gap is real.
+dailyWorst: A more grounded presence has been found for the role. Come back before it is filled.
 ---
 
 Cold-Smoked Mung Beans are the Bean Zodiac's most wispy — their care passes through rooms without settling into any of them.

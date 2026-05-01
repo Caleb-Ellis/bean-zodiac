@@ -6,12 +6,12 @@ form: roasted
 trait: wistful
 dish: Marmite-roasted navy beans with rosemary and garlic.
 quote: We shall not cease from bean exploration, and the end of all our exploring will be to arrive where we started.
-seasonalFortune: A room will hold something worth the same faithfulness you have given to what came before — let it.
-dailyNeutral: Let the longing be present — what it is reaching toward is worth reaching toward.
+seasonalFortune: What is here will hold something worth the same faithfulness you have given to what came before — let it.
+dailyNeutral: Let the longing be present; what it is reaching toward is worth reaching toward.
 dailyGood: Sit with what was — the depth of what you carry from it is what made you.
-dailyBest: Let yourself be in both places at once — the past you are holding is as real as today, and you are allowed to keep it.
-dailyBad: What is present is asking for full attention — the pull toward the past is being noticed.
-dailyWorst: Someone is naming the absence directly — the distance from what is here is being felt by the people in front of you.
+dailyBest: Let yourself be in both places at once — the past you are holding is as real as what is here, and you are allowed to keep it.
+dailyBad: Come fully into the present; the pull toward the past is being noticed.
+dailyWorst: Let the past stay where it is; the distance from what is here is being named and it is being felt.
 ---
 
 Rendered Navy Beans are the Bean Zodiac's most wistful — they carry the warmth of what has already passed, faithfully.

@@ -7,11 +7,11 @@ trait: timid
 dish: Frijoles borrachos - pinto beans simmered with bacon, beer, and jalapeño.
 quote: You gain strength, courage, and confidence by every bean in which you really stop to look fear in the face.
 seasonalFortune: A perfect moment will not come — step forward while there is still something left to step into.
-dailyNeutral: Take the first step — the ground is there even when it doesn't feel like it.
+dailyNeutral: Take the first step; the ground holds.
 dailyGood: Go ahead before you are certain — certainty is the thing you build by going.
 dailyBest: Step into it with all the uncertainty intact — the fear and the step can happen at the same time.
-dailyBad: The hesitation is holding past the moment — it has gone from caution to a reason to stay still.
-dailyWorst: The window has closed while you were waiting for it to feel right — it never feels right.
+dailyBad: The hesitation has moved past caution and become its own reason to stay.
+dailyWorst: The window has closed; it would not have felt right when it opened either.
 ---
 
 Dashi Pinto Beans are the Bean Zodiac's most timid — they're uncertain whether the moment is right, despite having much to offer.

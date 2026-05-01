@@ -10,8 +10,8 @@ seasonalFortune: A target is about to appear that deserves the irreverence — c
 dailyNeutral: The rule has not been examined — question it.
 dailyGood: The pretension is visible; name it without apology.
 dailyBest: Question everything that hasn't earned its place — nothing is sacred until it has been tested.
-dailyBad: The room wants seriousness — the joke has no audience left.
-dailyWorst: The people offended have a point — and disrespect is the word they've used.
+dailyBad: Play it straight this once; not every moment can hold the weight of a question mark.
+dailyWorst: Put the irreverence down entirely — what you are questioning right now is not pretension, and the difference matters.
 ---
 
 Scorched Pinto Beans are the Bean Zodiac's most irreverent — they question rules that haven't been examined.

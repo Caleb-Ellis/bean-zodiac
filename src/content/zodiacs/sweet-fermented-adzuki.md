@@ -10,8 +10,8 @@ seasonalFortune: A feeling will arrive without a caveat — offer it at its full
 dailyNeutral: Let the feeling arrive without trimming it first.
 dailyGood: The memory you are carrying deserves to be spoken aloud.
 dailyBest: Give the full emotion — unedited, at its actual size.
-dailyBad: The people around you have moved on — the pull to stay in what was is noted and not shared.
-dailyWorst: The present is insisting on your attention — and it is running out of patience.
+dailyBad: Let the occasion go — it has ended.
+dailyWorst: Put it down; the present has run out of patience for it.
 ---
 
 Honeyed Adzuki Beans are the Bean Zodiac's most sentimental — they feel the weight of occasions and Beans with completeness.

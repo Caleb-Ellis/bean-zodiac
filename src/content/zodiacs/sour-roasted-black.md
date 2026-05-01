@@ -9,9 +9,9 @@ quote: The importance of being bean.
 seasonalFortune: A cost will come with being earnest — what it builds in return will be more durable than what a guarded approach would have.
 dailyNeutral: The genuine version is the correct one — say it.
 dailyGood: Mean it fully; the sincerity is the point.
-dailyBest: Give it without any distance — the earnestness is the whole thing.
-dailyBad: A more cynical read is being offered as wisdom — and naive is what they called going without the irony.
-dailyWorst: Someone is acting on it — the full sincerity has been named as the opening, and they have used it.
+dailyBest: Give it without any distance — the genuine thing, unguarded, is the whole thing.
+dailyBad: Take on a little armour; the room is offering cynicism as wisdom and "naive" has been said about the unironic version.
+dailyWorst: Guard it. Someone has treated the full sincerity as an opening and used it.
 ---
 
 Chimichurri Black Beans are the Bean Zodiac's most earnest — genuinely in contact with what they feel.

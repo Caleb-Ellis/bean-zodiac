@@ -9,9 +9,9 @@ quote: A bean who knows the price of everything and the value of nothing.
 seasonalFortune: Something genuine is coming — hold the cynicism lightly enough to still be capable of being surprised by it.
 dailyNeutral: The skepticism is the accurate response — hold it.
 dailyGood: The pattern is what you think it is; trust the read.
-dailyBest: Let the full cynicism run — the expectation is probably correct, and preparing for it is the right thing to do.
-dailyBad: Good faith is being asked for — and the expectation of failure is being called unfair.
-dailyWorst: Building is happening elsewhere — the cynicism was named as the thing that kept it from happening here.
+dailyBest: Prepare for the most likely outcome — the pattern holds, and acting otherwise is sentimental.
+dailyBad: Try good faith, just here; the expectation of failure is becoming a self-fulfilling one.
+dailyWorst: Let this one in. The building is happening elsewhere and the pattern that predicted failure is the reason.
 ---
 
 Pickled Navy Beans are the Bean Zodiac's most cynical — they have seen what is behind the curtain and cannot unsee it.

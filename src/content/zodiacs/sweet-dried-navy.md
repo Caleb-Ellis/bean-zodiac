@@ -6,12 +6,12 @@ form: dried
 trait: dutiful
 dish: White bean and lemon pound cake — dried navy beans cooked and blended into batter, lending the crumb a quiet density you cannot quite name.
 quote: Ask not what your bean can do for you — ask what you can do for your bean.
-seasonalFortune: A service will ask to be questioned — verify it is still a choice, and allow yourself to choose yourself occasionally.
+seasonalFortune: A service will ask to be questioned — verify it is still a choice.
 dailyNeutral: Do the thing that needs doing — you already know what it is.
 dailyGood: The service you give is holding something together that would otherwise come apart.
 dailyBest: The whole of it rests on what you are willing to do — and you are willing.
-dailyBad: The obligation is being fulfilled but not felt — and the person receiving it has noticed the difference.
-dailyWorst: The list of what you owe has grown past anything freely given — and there is no end to it in sight.
+dailyBad: Mean it — the obligation is being met but not felt, and the difference is showing.
+dailyWorst: The list of what you owe has grown past anything freely given, and it keeps growing.
 ---
 
 Crystallised Navy Beans are the Bean Zodiac's most dutiful — they will be here, doing this, for as long as it needs doing.

@@ -10,8 +10,8 @@ seasonalFortune: What you understand and have not said will expire if left much 
 dailyNeutral: Hold it — the understanding does not need to be shared yet.
 dailyGood: Let the silence carry what words would only diminish.
 dailyBest: Say nothing — what you know is fully present without being stated.
-dailyBad: What you know is being asked for directly — and the reticence is being read as withholding.
-dailyWorst: The silence has been accepted as an answer — and the wrong conclusion is being acted on.
+dailyBad: Say what you know; it is being asked for directly, and the silence is not landing as depth.
+dailyWorst: Speak before the wrong conclusion gets any further — what you have not said is already being acted on.
 ---
 
 Ashen Edamame are the Bean Zodiac's most reticent — they see the situation immediately, and they say very little about it.

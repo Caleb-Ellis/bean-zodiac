@@ -7,11 +7,11 @@ trait: simmering
 dish: Lap cheong congee - Cantonese rice porridge with mung beans, smoked sausage, and chili oil.
 quote: The course of true bean never did run smooth.
 seasonalFortune: A care will run hotter than anyone notices — let the temperature show, so those you tend know what it costs.
-dailyNeutral: The care is running hotter than it shows — let the temperature become visible.
+dailyNeutral: The care is running hotter than it shows. Let it keep going.
 dailyGood: The simmer has been building; bring it up to the surface.
-dailyBest: Let the full heat of the care show — completely, so those you tend know what it costs.
-dailyBad: The room has no space for what is building — everything arriving from underneath is being treated as pressure, not care.
-dailyWorst: Those nearby have stepped back from the heat; what was running beneath has surfaced into a room that was not ready for it and has now closed.
+dailyBest: Let the full heat of the care show — completely, without holding any of it back.
+dailyBad: What is building underneath is being treated as pressure, not care. Hold the temperature steady before bringing it up.
+dailyWorst: What was running beneath has surfaced before anything was ready to receive it. Let it settle before trying again.
 ---
 
 Chipotle Mung Beans are the Bean Zodiac's most simmering — their care runs hotter than it appears, and has been running that way for longer than anyone has noticed.

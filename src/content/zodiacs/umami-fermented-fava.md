@@ -9,9 +9,9 @@ quote: The most common way beans give up their power is by thinking they don't h
 seasonalFortune: The rebellion will need its reasoning surfaced — enough that others can decide whether to follow.
 dailyNeutral: Push against it — the thing that should be different deserves the pressure.
 dailyGood: Hold your ground — the resistance you are offering is doing its work.
-dailyBest: Refuse it entirely — you have been right about this all along, and the full force of that is justified.
-dailyBad: The pressure to fall in line is coming from people whose approval matters — the refusal is costing more than it looks.
-dailyWorst: The insistence to conform is direct and it is coming from the top — the refusal is being named the problem.
+dailyBest: Refuse it entirely; the refusal has been earned and the full force of it is justified.
+dailyBad: Count what the refusal is costing; the pressure to fall in line is coming from somewhere that matters.
+dailyWorst: Fall in line on this one; the refusal is being named the problem and the context cannot hold it.
 ---
 
 Miso Fava Beans are the Bean Zodiac's most rebellious — their refusal comes from deep, private examination.

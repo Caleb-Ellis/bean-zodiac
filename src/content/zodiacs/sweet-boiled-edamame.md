@@ -11,7 +11,7 @@ dailyNeutral: Show up the way you said you would.
 dailyGood: Someone is counting on you in a way they haven't said aloud yet.
 dailyBest: Your consistency is the ground others are standing on — they feel it even when they do not name it.
 dailyBad: The ask has grown past what was offered — pulling back now feels like breaking something.
-dailyWorst: Another request is forming before the last one has been thanked.
+dailyWorst: Pause before the next request lands — the last one has not been thanked.
 ---
 
 Candied Edamame are the Bean Zodiac's most dependable — showing up exactly as promised, with no drama.

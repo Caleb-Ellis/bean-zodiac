@@ -10,8 +10,8 @@ seasonalFortune: A height will be reached again — find something worth being i
 dailyNeutral: Hold to the height — the standard you are keeping is the right one to keep.
 dailyGood: Reach higher — the refined version of what you are doing is the one worth making.
 dailyBest: Let it be as elevated as it can be — the full version of what you are capable of is the thing to aim at.
-dailyBad: The company around you is setting a lower bar and making it feel reasonable.
-dailyWorst: Everything in the room is calling the elevation unnecessary — and the pressure to come down is steady.
+dailyBad: Hold the standard; a lower bar is being set around you and it is starting to feel reasonable.
+dailyWorst: Come down; the elevation is being called unnecessary and the pressure is steady and coming from every direction.
 ---
 
 Hickory Cannellini Beans are the Bean Zodiac's most exalted — their refinement has ascended to something that is difficult to approach without a certain gravity.

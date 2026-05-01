@@ -6,12 +6,12 @@ form: dried
 trait: abiding
 dish: Black bean brownies — dried black beans cooked and folded into dark chocolate batter, fudgy and barely holding together.
 quote: Not all those who bean are lost.
-seasonalFortune: A constancy will go unmarked — make yourself legible once, so it can be appreciated rather than assumed.
-dailyNeutral: Stay — your presence is doing more than you think.
-dailyGood: The people you show up for have noticed, even when they haven't said so.
+seasonalFortune: A constancy will go unmarked — make yourself legible before it is simply assumed.
+dailyNeutral: Stay; the presence is doing its work.
+dailyGood: The constancy is noticed even where it has gone unnamed.
 dailyBest: Your constancy is what others are orienting around — hold the position.
 dailyBad: The constancy you are holding is indistinguishable from refusing to move.
-dailyWorst: The insistence that you stay has been met with an insistence that you leave — and the people asking are not wrong.
+dailyWorst: Release the insistence — it is being matched with an equal insistence to leave.
 ---
 
 Crystallised Black Beans are the Bean Zodiac's most abiding — they do not announce themselves, but they are always present when it matters.

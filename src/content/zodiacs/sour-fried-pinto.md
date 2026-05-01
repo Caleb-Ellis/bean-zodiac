@@ -10,8 +10,8 @@ seasonalFortune: A decision about the method is coming and it cannot wait much l
 dailyNeutral: The angle is available — consider whether to use it.
 dailyGood: Work the room; the indirect route is there.
 dailyBest: Use the full toolkit — every lever, deployed at exactly the moment it will do the most.
-dailyBad: The lever is being named — and the naming is not wrong.
-dailyWorst: The pattern has been identified — and identified to people whose opinion matters.
+dailyBad: Go straight; someone has seen the lever you were reaching for and named it out loud, so the indirect route is closed.
+dailyWorst: The whole toolkit is now visible to people whose opinion sets the terms — put it away and find out what a plain ask can do.
 ---
 
 Agrodolce Pinto Beans are the Bean Zodiac's most manipulative — not always deliberately, but the mechanism runs.

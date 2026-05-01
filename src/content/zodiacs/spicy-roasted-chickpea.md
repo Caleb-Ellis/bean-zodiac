@@ -6,12 +6,12 @@ form: roasted
 trait: sociable
 dish: Leblebi - Tunisian roasted chickpeas in spiced broth with harissa and cumin.
 quote: No bean is an island.
-seasonalFortune: A room will ask you to stay past the comfortable first hour — let the depth arrive.
-dailyNeutral: The room is warm — stay past the comfortable first hour.
+seasonalFortune: Somewhere this season, depth is available if you stay past the comfortable first hour — let it arrive.
+dailyNeutral: Stay. What is forming is worth more than the easy exit.
 dailyGood: The connection is real; let it go deeper than surface.
-dailyBest: Every room is worth staying in completely — give it the full depth of what you have.
-dailyBad: The room has cleared before the depth could form — everyone left before what was starting had time to become something.
-dailyWorst: Every room has asked to be kept at the surface; no one is staying past the warmth and nothing is going deeper.
+dailyBest: Give the full depth of what you have — completely, without keeping the easy exit available.
+dailyBad: What was starting cleared before it could form. The depth was there and the window closed too soon.
+dailyWorst: Push deeper — everything is being held at the surface and the warmth is not reaching what it should.
 ---
 
 Peri-Peri Chickpeas are the Bean Zodiac's most sociable — they arrive and the room becomes better.

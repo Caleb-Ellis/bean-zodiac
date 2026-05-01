@@ -7,11 +7,11 @@ trait: sardonic
 dish: Frijoles borrachos al mezcal - smoked pinto beans with mezcal, orange, and pasilla chile
 quote: Outside of a bean, a dog is a man's best friend. Inside of a bean, it's too dark to read.
 seasonalFortune: A plain thing will need to be said without the distance — find the one occasion where the remove comes down.
-dailyNeutral: The sardonic angle is the correct one — take it.
+dailyNeutral: The dry angle is the correct one — take it.
 dailyGood: Let the dryness run; the distance is the whole joke.
-dailyBest: Give it the full sardonic remove — completely dry, completely detached, and perfectly placed.
-dailyBad: A warmer tone is the ask — the dry register has been received as something closer to cruelty.
-dailyWorst: The dryness of your read is being named as the reason people no longer bring real things — and they have stopped.
+dailyBest: Give it the full remove — completely dry, completely detached, and perfectly placed.
+dailyBad: Warm it slightly; the dry register has arrived as something closer to cruelty than wit, and the difference matters.
+dailyWorst: Real things have stopped being brought. The remove is the reason and the distance has become the problem.
 ---
 
 Cold-Smoked Pinto Beans are the Bean Zodiac's most sardonic — their expressiveness has curdled into something that watches the proceedings from a slight remove.

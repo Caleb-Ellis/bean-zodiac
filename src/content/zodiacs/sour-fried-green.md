@@ -10,8 +10,8 @@ seasonalFortune: The impulses tracking something real will become a visible patt
 dailyNeutral: The impulse is tracking something real — act on it.
 dailyGood: Move before the thought is finished; the action is ahead of the analysis.
 dailyBest: Follow it all the way — the impulse is the clearest signal you have right now.
-dailyBad: A pause is being requested — and the people requesting it have a point.
-dailyWorst: The impulse is being named as the reason the work keeps restarting — and a process is now in place to slow it down.
+dailyBad: Stop for a moment before the next move — the people asking you to have a point, and ignoring them will make the next part harder.
+dailyWorst: A process has been put in place specifically to slow you down, which means the pattern has been noticed at a level that can do something about it.
 ---
 
 Agrodolce Green Beans are the Bean Zodiac's most impulsive — thought and action arrive at the same moment.

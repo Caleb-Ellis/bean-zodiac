@@ -8,10 +8,10 @@ dish: Ingen no shiro-ae — green beans blanched and tossed in sweet sesame tofu
 quote: We don't stop playing because we grow old; we grow old because we stop bean playful.
 seasonalFortune: A stillness will arrive — hold it long enough to be seen as something more than motion.
 dailyNeutral: Find the version of this that is actually fun.
-dailyGood: Bring the lightness — the room is waiting for someone to start.
-dailyBest: Your delight is the most generative force in the space right now — let it run.
-dailyBad: The lightness is reading as avoidance, and the room needs someone to be serious.
-dailyWorst: The room is done waiting for the lightness to pass — the call to be present with the weight is direct.
+dailyGood: Bring the lightness — others are waiting for someone to start.
+dailyBest: Your delight is the most generative force here — let it run.
+dailyBad: Drop the lightness here — it reads as avoidance, and seriousness is what the moment is asking for.
+dailyWorst: Be present with the weight that is actually here — the patience for lightness has run out.
 ---
 
 Candied Green Beans are the Bean Zodiac's most playful — lightness that sustains itself over time.

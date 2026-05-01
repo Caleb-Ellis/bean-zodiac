@@ -9,9 +9,9 @@ quote: Well-beaned is half done.
 seasonalFortune: A foundation will be built on — allow what is built on top of it to also be part of what you take credit for.
 dailyNeutral: Hold the structure — what you are providing is what everything else is built on.
 dailyGood: Stay in position — the weight resting on you is there because you can take it.
-dailyBest: Be the thing everything is standing on — and let someone know it.
-dailyBad: Something is asking you to step aside — what you have been holding is being restructured around your absence.
-dailyWorst: The arrangement is being rebuilt without you in it — what you provided is being replaced.
+dailyBest: Be the thing everything is standing on — and let it be known.
+dailyBad: Step aside and see what it reveals; the structure will show its weight when you are not under it.
+dailyWorst: Let the rebuild proceed; what was foundational will become apparent in the absence.
 ---
 
 Aged Edamame are the Bean Zodiac's most foundational — they are the thing under the thing, holding the structure without requiring credit for it.

@@ -10,8 +10,8 @@ seasonalFortune: The position you have been building will be needed — the cons
 dailyNeutral: The counter-position is valid — say it.
 dailyGood: The consensus has a gap in it; push on the gap.
 dailyBest: Take the position all the way — the room needs the full weight of the counterargument, and you are the one to deliver it.
-dailyBad: Agreement is what's wanted — and pushing against it is being taken as a decision to be difficult.
-dailyWorst: Bad faith. The room has settled on the term — and the counterposition has been ruled out accordingly.
+dailyBad: Agree, just this once; pushing back here is costing you the credibility to push back when it matters.
+dailyWorst: Let the consensus stand. Someone has said "bad faith" out loud and the room is nodding.
 ---
 
 Pickled Fava Beans are the Bean Zodiac's most contrarian — they hold the minority position because it holds up.

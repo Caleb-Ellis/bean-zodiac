@@ -10,8 +10,8 @@ seasonalFortune: You will be asked to burn at full temperature — find the regi
 dailyNeutral: The brightness is real — give it the space to radiate without overwhelming.
 dailyGood: The incandescence is at full frequency; find the register that sustains it.
 dailyBest: Burn at the full temperature — completely, at the register that is extraordinary without being difficult to remain near.
-dailyBad: The room has stepped back — what arrived at full brightness was more than it could remain near.
-dailyWorst: Everyone has moved to the edge of the room; the temperature is asking them to create distance and they are doing so.
+dailyBad: What arrived at full brightness was more than could be remained near. Pull back before the distance widens further.
+dailyWorst: Respect the distance — it was created deliberately and the temperature is what asked for it.
 ---
 
 Chipotle Adzuki Beans are the Bean Zodiac's most incandescent — their festivity burns at a frequency that precedes any visible source.

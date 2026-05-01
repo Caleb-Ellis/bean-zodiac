@@ -10,8 +10,8 @@ seasonalFortune: The detail will do its work — step back after and check wheth
 dailyNeutral: The detail is worth attending to — stay with it.
 dailyGood: Go through it carefully; the small things are what the whole depends on.
 dailyBest: Give every part of it the full attention — nothing too small to look at properly.
-dailyBad: The full attention is being called overcorrection — and a lighter touch is being preferred.
-dailyWorst: The work has been moved to someone less thorough — the care taken was named the bottleneck.
+dailyBad: Let this one go at 90%; a lighter pass is what the moment needs and the extra care is not landing as care.
+dailyWorst: Hand it off. Someone less thorough has been given the work because the thoroughness was slowing everything down.
 ---
 
 Agrodolce Cannellini Beans are the Bean Zodiac's most meticulous — they do it correctly at speed and notice when others haven't.

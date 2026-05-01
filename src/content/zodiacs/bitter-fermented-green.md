@@ -10,8 +10,8 @@ seasonalFortune: The draft that is forming will benefit from friction — share 
 dailyNeutral: Let the image form without directing it — see where it arrives.
 dailyGood: Follow the strange turn; that is where the real thing is.
 dailyBest: Give the imagination everything — no constraint, no correction, no limit on where it can go.
-dailyBad: The practical path is what's wanted — and there is no appetite for what hasn't been proven.
-dailyWorst: The brief has been rewritten — the imaginative version is what got cut.
+dailyBad: Take the proven path this time; save the strange version for a moment that can hold it.
+dailyWorst: Deliver the plain thing they asked for — the vision can wait, and insisting on it now will only get it refused.
 ---
 
 Tinctured Green Beans are the Bean Zodiac's most imaginative — they see what isn't there yet and render it visible.

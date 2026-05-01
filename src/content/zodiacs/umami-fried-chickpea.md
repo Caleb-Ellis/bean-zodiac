@@ -10,8 +10,8 @@ seasonalFortune: A move ahead of the situation is coming — ask once, before ma
 dailyNeutral: Move ahead of it — what you are anticipating is real, and the action is the right response.
 dailyGood: Act before the moment arrives — you can see further than the situation has declared.
 dailyBest: Go before you are asked — the distance between where you are and where it needs to be is yours to close.
-dailyBad: A pause is being asked for before the next move — the ask is to check in first.
-dailyWorst: The action that went ahead without asking has caused friction — and the ask now is to not do that again.
+dailyBad: Pause before the next move; the ask is to check in before acting.
+dailyWorst: Ask before the next one; the action that went ahead has caused friction and the pattern is being named.
 ---
 
 Tempura Chickpeas are the Bean Zodiac's most proactive — they see what will be needed and address it before being asked.

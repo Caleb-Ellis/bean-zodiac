@@ -10,8 +10,8 @@ seasonalFortune: A warranted pride is coming — let it be generous enough to ma
 dailyNeutral: Stand in what you have earned — it does not require modesty.
 dailyGood: Make the standard visible; others should know what they are measuring against.
 dailyBest: Carry it fully — the pride is warranted and the room is large enough to hold it.
-dailyBad: Help is being offered — and refusing it is starting to look like stubbornness.
-dailyWorst: The pride is being called the obstacle — and the people saying so are trying to help.
+dailyBad: Accept the help that is being offered; what you have earned does not require you to do this alone.
+dailyWorst: Set the standard down and let someone else lead — right now the obstacle is the posture, not the problem.
 ---
 
 Charcoal Kidney Beans are the Bean Zodiac's most proud — they have standards and presence.

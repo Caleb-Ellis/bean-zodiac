@@ -10,8 +10,8 @@ seasonalFortune: The remaining variable cannot be measured — when you arrive a
 dailyNeutral: The structure is visible — identify it before making the move.
 dailyGood: Where analysis ends, a single taste tells more than the next hour of reduction.
 dailyBest: Take it apart until the mechanism is fully visible — nothing should remain opaque when the method is applied completely.
-dailyBad: The conclusion has already been drawn and the room is moving on without it.
-dailyWorst: A decision has been reached — and it went around the analysis entirely.
+dailyBad: Skip the reduction and taste it now — a good guess beats a late answer.
+dailyWorst: Put the framework down and just decide; the moment has outpaced the method.
 ---
 
 Decocted Edamame are the Bean Zodiac's most analytical — they take things apart to understand their structure.

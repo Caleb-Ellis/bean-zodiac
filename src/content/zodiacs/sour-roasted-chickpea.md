@@ -10,8 +10,8 @@ seasonalFortune: A position will be revised — the version that replaces it wil
 dailyNeutral: The other view is worth taking seriously — stay with it longer than feels comfortable.
 dailyGood: Let the position shift; the new version is better.
 dailyBest: Revise completely — the original position was a starting point, and this is the thing it was pointing toward.
-dailyBad: Holding things loosely is being received as uncertainty — and a firmer position is being asked for.
-dailyWorst: Someone less revisable is being preferred — the willingness to revise was named as the reason you cannot be relied on.
+dailyBad: Pick a position and stay in it; holding things loosely is reading as uncertainty and the room wants something solid.
+dailyWorst: Stop revising. Someone less moveable has been brought in because the revisions were the unreliability.
 ---
 
 Chimichurri Chickpeas are the Bean Zodiac's most open-minded — they consider new ideas with genuine interest.

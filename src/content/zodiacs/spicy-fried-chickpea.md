@@ -7,11 +7,11 @@ trait: spontaneous
 dish: Pakora - spiced chickpea fritters with green chili.
 quote: Life is either a daring adventure or no bean at all.
 seasonalFortune: The things started will still be open — pick one, stay past the exciting beginning, and find out what it was.
-dailyNeutral: The start is already made — stay past the exciting beginning and find out what it is.
+dailyNeutral: Stay with what was started. The interesting part is further in than this.
 dailyGood: The move has been made; follow it through to the actual end.
 dailyBest: Everything begun deserves its full completion — stay for all of it.
-dailyBad: What was started is being formally closed — the room needs the thread wrapped before it has had time to develop.
-dailyWorst: Everything begun is being asked to close; the room needs conclusions before the threads have had time to run.
+dailyBad: What was started is being formally closed before it had time to develop. Wrap the thread cleanly.
+dailyWorst: Conclusions are being demanded on threads that have barely run. Close what can be closed and move on.
 ---
 
 Red-Hot Chickpeas are the Bean Zodiac's most spontaneous — they don't wait.

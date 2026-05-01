@@ -10,8 +10,8 @@ seasonalFortune: Someone will need to hear the long version — find the one occ
 dailyNeutral: Say it in half the words — the second half is not needed.
 dailyGood: The conclusion is the only part that matters; offer it directly.
 dailyBest: One sentence — exact, complete, nothing left to add.
-dailyBad: Everyone wants more — and the minimal version is being passed around as evidence of something.
-dailyWorst: Rude. That is the word they have settled on — and a full explanation is now the price of re-entry.
+dailyBad: Give more than you think is needed; the extra sentence is not waste, it is courtesy.
+dailyWorst: Explain the whole thing, start to finish — brevity has already cost you the room.
 ---
 
 Desiccated Edamame are the Bean Zodiac's most terse — they have already cut to the end and are waiting for everyone else to arrive.

@@ -10,8 +10,8 @@ seasonalFortune: The efficiency will clear space — what remains is the slower 
 dailyNeutral: The quickest route is the right one — take it.
 dailyGood: Cut the unnecessary step; the destination is already clear.
 dailyBest: Move at full efficiency — every action toward the thing, nothing beside it.
-dailyBad: The pace is being called dehumanising — and a slower approach is being asked for.
-dailyWorst: People feel unseen, and they have started saying so — efficiency is the word they are pointing at.
+dailyBad: Slow down and let the process breathe; the pace that felt optimal is reading as a machine that doesn't see people.
+dailyWorst: Stop optimising entirely and just be in it — the word "dehumanising" has been used and that is not a small thing.
 ---
 
 Agrodolce Butter Beans are the Bean Zodiac's most efficient — they know where effort should go and spend nothing elsewhere.

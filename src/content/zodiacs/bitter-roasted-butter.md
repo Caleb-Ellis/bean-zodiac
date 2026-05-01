@@ -10,8 +10,8 @@ seasonalFortune: Something inconvenient is coming — do it anyway, not to suffe
 dailyNeutral: Choose the good version — there is no virtue in the lesser one.
 dailyGood: Take the best available option without apology; quality is its own justification.
 dailyBest: Accept nothing below the full measure of what this could be.
-dailyBad: Restraint is being recommended — and it is coming from someone who knows what they are talking about.
-dailyWorst: The excess has been named the problem — and someone is cutting it back.
+dailyBad: Pull back a little; the full version is available, but this is not the moment for all of it.
+dailyWorst: Cut it back to the minimum and stop there — more is not doing what you think it is doing right now.
 ---
 
 Charcoal Butter Beans are the Bean Zodiac's most indulgent — quality is non-negotiable.

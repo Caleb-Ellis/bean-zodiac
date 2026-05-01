@@ -10,8 +10,8 @@ seasonalFortune: Something worth keeping is about to ask to be let back in — t
 dailyNeutral: Remove one more thing — see if what remains is stronger for it.
 dailyGood: Hold the reduction until only what cannot be argued away remains.
 dailyBest: Everything that does not belong has been taken — what is left needs no defense.
-dailyBad: Comfort is being pressed in as courtesy — and refusing it now looks like ingratitude.
-dailyWorst: The excess has been reframed as necessary — and holding the reduction now looks like deprivation.
+dailyBad: Accept the comfort being offered; not everything added back in is a compromise.
+dailyWorst: Let the imperfect thing stay — what you stripped out may have been keeping something else alive.
 ---
 
 Desiccated Cannellini Beans are the Bean Zodiac's most ascetic — they have removed every excess and arrived at something so refined it barely takes up space.

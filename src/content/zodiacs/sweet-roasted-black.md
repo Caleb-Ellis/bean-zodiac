@@ -10,8 +10,8 @@ seasonalFortune: A difficulty is coming that will want to be named — name it, 
 dailyNeutral: Hold the shape — the pressure is temporary.
 dailyGood: What is being applied to you is less than what you are built for.
 dailyBest: Take the full weight — you were made for exactly this load.
-dailyBad: The case for stopping is being made — it is reasonable, and it is not the whole story.
-dailyWorst: The people around you have decided enough has been endured — and they are making it hard to disagree.
+dailyBad: Consider stopping; the case for it is reasonable and deserves more than dismissal.
+dailyWorst: Put it down — enough has been endured, and continuing past this point is not resilience.
 ---
 
 Glazed Black Beans are the Bean Zodiac's most resilient — through warmth and solidity that allows them to flex under pressure and return without fracturing.

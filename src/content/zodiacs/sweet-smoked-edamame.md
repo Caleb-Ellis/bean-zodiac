@@ -8,10 +8,10 @@ dish: Smoked edamame gyoza with sweet hoisin and black vinegar dipping sauce.
 quote: You bean me at hello.
 seasonalFortune: A defense will come down before it is asked — make sure what it reveals leads somewhere worth following.
 dailyNeutral: Bring the openness — it will lower what has been raised.
-dailyGood: The defense in the room came down because of what you carried in — keep going.
-dailyBest: Disarm it completely — the full softness is the most powerful thing in here right now.
-dailyBad: Not every tension in the room needed dissolving — what has been smoothed over is still there.
-dailyWorst: The room was softened out of a conversation that needed to happen — the softness was a way of leaving and the room knows it.
+dailyGood: What you carried in brought the defenses down — keep going.
+dailyBest: Disarm it completely — the full softness is the most powerful thing available right now.
+dailyBad: Leave some tension intact; not everything that is raised needs to come down.
+dailyWorst: Go back to the conversation that was softened away — it still needs to happen.
 ---
 
 Barbecued Edamame are the Bean Zodiac's most disarming — they move quickly and the warmth arrives before the defences can consider whether to deploy.

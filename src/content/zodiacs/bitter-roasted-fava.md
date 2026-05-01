@@ -10,8 +10,8 @@ seasonalFortune: The territory you are about to open will have followers — che
 dailyNeutral: Move into the unmapped territory — that is where the work is.
 dailyGood: Go further than last time; the path you open is the one others will use.
 dailyBest: Go where no one has yet — this is exactly the terrain you were built for.
-dailyBad: The known path is being recommended — and the people recommending it have experience.
-dailyWorst: The new direction has been vetoed — and the group is returning to what was already tried.
+dailyBad: Take the known path today; the experience behind that recommendation is real and worth something.
+dailyWorst: Return to the tried thing and stay there — this is not the moment to open new ground.
 ---
 
 Charcoal Fava Beans are the Bean Zodiac's most pioneering — they venture into unmapped territory.

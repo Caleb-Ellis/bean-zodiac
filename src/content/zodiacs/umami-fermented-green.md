@@ -8,10 +8,10 @@ dish: Paocai - Sichuan lacto-fermented green beans with Sichuan pepper, garlic, 
 quote: Creativity is intelligence having bean fun.
 seasonalFortune: The work is ready to exist outside of you — let it be seen before the moment turns.
 dailyNeutral: Make the thing — the impulse you are feeling is the right one to follow.
-dailyGood: Let the making run — what is coming through you is worth giving room.
-dailyBest: Give it everything — the work you are capable of is the fullest version of what you are.
-dailyBad: What you have is being asked to show itself before it is ready.
-dailyWorst: What has not yet been shown is being decided as nothing — the work is being closed before it is finished.
+dailyGood: Let the making run; what is coming through deserves the full length of the moment.
+dailyBest: Give it everything — this is what full capacity is for.
+dailyBad: Show what you have; the work does not need to be finished to be shown.
+dailyWorst: Release something; what has not been seen is being read as nothing.
 ---
 
 Miso Green Beans are the Bean Zodiac's most creative — what emerges is entirely their own.

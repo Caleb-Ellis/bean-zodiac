@@ -6,12 +6,12 @@ form: boiled
 trait: patient
 dish: Kongjorim - black soybeans slow-braised in soy, ginger, and sesame.
 quote: Patience is bitter, but its bean is sweet.
-seasonalFortune: A direction will become visible — let those around you see that the patience was moving toward something.
+seasonalFortune: The thing you have been tending is further along than it appears from here.
 dailyNeutral: What is not yet ready is not lost — the time you are giving it is the work.
-dailyGood: The pace you are holding is deliberate — let it continue at its own speed.
-dailyBest: Let it take as long as it takes — you are not waiting, you are tending.
-dailyBad: The pressure to move is building — something wants an answer before it is ready.
-dailyWorst: Everyone around you has decided it is time — the wait is being called inaction.
+dailyGood: Hold the pace; it is doing more than it appears to be doing.
+dailyBest: Whatever this is asking of you, it is asking correctly.
+dailyBad: Something is pressing for movement before the moment has arrived.
+dailyWorst: The wait has been called inaction; give it a shape before that reading hardens.
 ---
 
 Dashi Black Beans are the Bean Zodiac's most patient — they believe in the value of time.

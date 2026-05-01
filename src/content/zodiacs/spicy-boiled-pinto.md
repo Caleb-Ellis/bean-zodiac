@@ -11,7 +11,7 @@ dailyNeutral: The weather is yours — let it move through fully.
 dailyGood: The shift is real and total; let those nearby know what is happening.
 dailyBest: Every emotional front arriving is genuine — meet each one entirely and mean it.
 dailyBad: The weather is shifting faster than those nearby can follow — they are losing the thread.
-dailyWorst: Those around you are asking for steadiness — the pressure to flatten everything and push through is relentless.
+dailyWorst: Hold steady — the pressure to flatten everything and push through will not stop.
 ---
 
 Braised Pinto Beans are the Bean Zodiac's moodiest — their weather changes constantly and means it each time.

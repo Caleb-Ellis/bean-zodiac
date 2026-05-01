@@ -8,10 +8,10 @@ dish: Onde-onde — Indonesian fried rice flour balls filled with sweet mung bea
 quote: Heart in the right place, bean in the wrong pot!
 seasonalFortune: A gesture will be ready before the need is known — ask what would actually help before the oil is hot.
 dailyNeutral: Go with the impractical version — it is often the one that matters.
-dailyGood: The gesture that makes no sense is the one they will remember.
+dailyGood: The gesture that makes no sense is the one that will be remembered.
 dailyBest: Do the unnecessary beautiful thing — it is the right one.
-dailyBad: The cost of what has been chosen is landing on someone else — and they are noticing.
-dailyWorst: The beautiful impossible has been chosen over the necessary possible.
+dailyBad: Ask who is carrying the cost of this; it is not landing where the intention was.
+dailyWorst: Choose the necessary possible — the beautiful impossible has already had its turn.
 ---
 
 Caramelised Mung Beans are the Bean Zodiac's most impractical — they are moved to help before they have worked out how.

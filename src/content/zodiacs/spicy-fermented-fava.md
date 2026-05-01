@@ -6,12 +6,12 @@ form: fermented
 trait: subversive
 dish: Spicy fava with doubanjiang and Sichuan pepper.
 quote: The most bean act in a conformist world is to think for yourself.
-seasonalFortune: The work building in private is nearly visible — surface enough of it now to confirm the direction before it becomes the only direction.
-dailyNeutral: The work building in private is real — surface enough to check the direction.
+seasonalFortune: The work building in private is nearly ready. Surface enough of it now to confirm the direction before it becomes the only direction.
+dailyNeutral: Check the direction before continuing. Surface just enough to verify it still holds.
 dailyGood: The subversion is developed; show the working to one Bean before the reveal.
 dailyBest: The full quiet work is ready to surface — let it emerge completely.
-dailyBad: The reveal landed in a room that was not ready for it — what was building has been rejected before it could be understood.
-dailyWorst: The ground shifted while the work was building; what has emerged no longer fits what the room needs.
+dailyBad: Prepare the ground before the next reveal — what surfaced was rejected before it could be understood.
+dailyWorst: The ground shifted while the work was building. What has emerged no longer fits what is needed.
 ---
 
 Kimchi Fava Beans are the Bean Zodiac's most subversive — they work quietly until the result can't be ignored.

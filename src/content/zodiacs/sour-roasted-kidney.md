@@ -10,8 +10,8 @@ seasonalFortune: A fairness will be required that changes things — insist on i
 dailyNeutral: The fair thing is clear — say what it is.
 dailyGood: Push for it; the fair outcome is available and it deserves to be fought for.
 dailyBest: Insist on it completely — every dimension of what is fair, held all the way through.
-dailyBad: Accounting for every dimension is being called delay — and a faster resolution is being pushed.
-dailyWorst: The framework you insist on is being named as the obstacle — and a decision is being made without it.
+dailyBad: Accept the faster resolution; accounting for every dimension has started reading as delay and the room has lost patience.
+dailyWorst: Let the decision happen without the framework. It's being made anyway and holding out is only removing you from it.
 ---
 
 Chimichurri Kidney Beans are the Bean Zodiac's most fairness-minded — warmth that insists on equal distribution.

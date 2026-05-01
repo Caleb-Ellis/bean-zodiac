@@ -10,8 +10,8 @@ seasonalFortune: What you have promised will be tested — keep it, and the Bean
 dailyNeutral: Keep the thing you said you would — it will be noticed, and it will matter.
 dailyGood: Your word is the structure others are building on; do not shift what they are standing on.
 dailyBest: Stay — not because it is easy, but because staying is what you said, and what you said is what you are.
-dailyBad: The commitment is being questioned — and the questioning is coming from someone who was relying on it.
-dailyWorst: Doubt has set in — and it is spreading further than anyone is saying aloud.
+dailyBad: Someone who was counting on you is starting to wonder; manage their expectations before they manage themselves.
+dailyWorst: Walk it back. What you committed to is no longer possible and continuing to hold it out is making things worse for everyone.
 ---
 
 Brined Kidney Beans are the Bean Zodiac's most trustworthy — they tell the truth and stay.

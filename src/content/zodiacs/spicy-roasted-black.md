@@ -6,12 +6,12 @@ form: roasted
 trait: magnetic
 dish: Frijoles negros enchipotlados - black beans roasted and simmered in chipotle adobo.
 quote: Some beans walk in the rain, others just get wet.
-seasonalFortune: The room will fill — decide now what you want it to keep drawing in, before the accumulation chooses for you.
-dailyNeutral: The pull is real — decide what you want it to draw toward.
-dailyGood: The room is orienting; give it something worth arriving at.
+seasonalFortune: What accumulates will be what you drew in — decide now what that should be, before the pull chooses for you.
+dailyNeutral: The pull is active. Let it land on something worth keeping.
+dailyGood: Everything is orienting toward you; give it something worth arriving at.
 dailyBest: The full magnetism is present — direct it completely at what deserves to be brought in.
-dailyBad: The room is sending things toward you that do not belong there — what is arriving was not invited and is asking to stay.
-dailyWorst: Everything unwanted has found its way in and is not leaving; the room belongs to what arrived and is not asking to be cleared.
+dailyBad: What is arriving was not invited and is asking to stay. Set a boundary before more comes through.
+dailyWorst: Everything unwanted has found its way in and is not leaving. What arrived has settled and is not asking to be cleared.
 ---
 
 Peri-Peri Black Beans are the Bean Zodiac's most magnetic — something in the room orients toward them.

@@ -8,10 +8,10 @@ dish: Miso-roasted adzuki with black sesame and mirin.
 quote: There's no better feeling in the world than a warm bean on your lap.
 seasonalFortune: A warmth will be needed — tend yourself as well, so there is some left when the occasion arrives.
 dailyNeutral: Let the warmth come — the ease you create for others is a genuine gift.
-dailyGood: Give it more fully — the room will hold everything you are offering.
-dailyBest: Open it entirely — the warmth you carry is the thing the people around you needed most.
-dailyBad: Someone who takes more than they give is close — the ease you offer is being drawn on without return.
-dailyWorst: Someone is demanding warmth that is not there to give — and the expectation will not reduce.
+dailyGood: Give it more fully — the moment will hold everything you are offering.
+dailyBest: Open it entirely; the warmth you carry is what this occasion needed most.
+dailyBad: Notice what is being drawn on without return; the ease you offer is not without cost.
+dailyWorst: Protect what is left; the demand is for warmth that is not there to give.
 ---
 
 Rendered Adzuki Beans are the Bean Zodiac's most warm — it's what they are like, the way a roasted bean fills the room.

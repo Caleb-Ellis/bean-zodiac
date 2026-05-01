@@ -8,10 +8,10 @@ dish: Frittelle di fagioli — Tuscan fried white bean fritters, dusted with sug
 quote: Whatever, it's beans.
 seasonalFortune: A weight will ask to be picked up — learn to carry it without losing yourself in it.
 dailyNeutral: Let the weight land lightly — the ease is genuine.
-dailyGood: The cool you bring is keeping the room from overcorrecting — hold it.
+dailyGood: The cool you bring is holding the temperature — hold it.
 dailyBest: Carry it all without carrying it — it is the right answer for exactly this.
-dailyBad: The ease is reading as dismissal — what is in front of you is serious and it is not being treated that way.
-dailyWorst: Something that needed full attention got a shrug — the damage is done and the ease was the cause.
+dailyBad: Take this one seriously; what is in front of you is not something to be easy about.
+dailyWorst: Give it the full weight it needed — the shrug has already done damage and only seriousness recovers it.
 ---
 
 Caramelised Butter Beans are the Bean Zodiac's most nonchalant — things happen without making any visible dent.

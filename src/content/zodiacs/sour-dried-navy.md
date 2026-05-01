@@ -8,10 +8,10 @@ dish: Navy bean and dried tomato stew with red wine vinegar and rosemary.
 quote: Give me liberty, or give me bean!
 seasonalFortune: A principle will be tested — before it is, know the difference between a principle tested and a principle provoked.
 dailyNeutral: The position holds — stand in it.
-dailyGood: Offer no ground today; the line is correct and the ground is yours.
+dailyGood: Offer no ground; the line is correct and the ground is yours.
 dailyBest: Hold it absolutely — the room will know where the boundary is, and that is the whole point.
-dailyBad: An exception is being requested — and the person requesting it has a reasonable case.
-dailyWorst: Those with the authority have routed around it — the boundary was labelled inflexibility, and that was enough.
+dailyBad: Grant the exception; this one has merit and holding the line here is not the same as holding the principle.
+dailyWorst: Bend. The people with authority have already gone around you and left the principle standing alone.
 ---
 
 Dehydrated Navy Beans are the Bean Zodiac's most uncompromising — the principle exists, the evidence is clear, and there is no version of this that ends in negotiation.

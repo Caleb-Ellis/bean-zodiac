@@ -10,8 +10,8 @@ seasonalFortune: The intensity building has a source — trace it now, before th
 dailyNeutral: Let the heat run — it is burning for a reason.
 dailyGood: Feed what is burning; this intensity has somewhere to go.
 dailyBest: Run at full fever — nothing dampened, nothing rationalised, the complete heat of it.
-dailyBad: A lower temperature is being asked for — and the urgency is being received as alarm.
-dailyWorst: Instability. The diagnosis is in — and people have started to step around rather than with.
+dailyBad: Bring the temperature down; what you are carrying is real, but the heat is getting in the way of it being useful.
+dailyWorst: Cool it entirely and find the source — the intensity has uncoupled from whatever lit it, and that is what needs attention now.
 ---
 
 Ashen Kidney Beans are the Bean Zodiac's most feverish — a passion that has become uncoupled from the thing that lit it.

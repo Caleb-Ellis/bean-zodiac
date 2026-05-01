@@ -10,8 +10,8 @@ seasonalFortune: The plan is finished — commit to it before the calculation be
 dailyNeutral: Work it through — the thinking you are doing is the right preparation.
 dailyGood: Go finer — the precise version of the answer is within reach.
 dailyBest: Run the numbers to the end — the exact figure you have been approaching is what you came here for.
-dailyBad: A move is being required before the calculation is complete — the time to think is being taken away.
-dailyWorst: Someone else has decided and acted — the plan that was being prepared is no longer the one in motion.
+dailyBad: Move on the incomplete calculation; the time to think has been taken and the moment is here.
+dailyWorst: Adapt to what has been decided; the plan that was being prepared is no longer the one in motion.
 ---
 
 Miso Navy Beans are the Bean Zodiac's most calculating — they've been working through the angles longer than anyone knows.

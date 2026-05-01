@@ -7,11 +7,11 @@ trait: quirky
 dish: Green bean kimchi - fermented green beans with gochugaru, garlic, and rice vinegar.
 quote: We are all bean, but some of us are looking at the stars.
 seasonalFortune: The strange direction you are moving in is the right one — the destination will be legible eventually, and it will be worth the route.
-dailyNeutral: The strange direction is the right one — follow it.
+dailyNeutral: Something in the approach doesn't follow — that is the part worth keeping.
 dailyGood: The oddness is the insight; let it lead.
 dailyBest: Go fully sideways — the angle only you are taking is the one the room has been missing.
-dailyBad: Something more conventional is what's wanted — the sideways approach has been passed over.
-dailyWorst: A straight approach is coming in — the unconventional angle was named as why the work wasn't landing.
+dailyBad: Try the conventional approach; the sideways route is not landing and the room has stopped waiting.
+dailyWorst: Go straight. The unconventional angle has been named the reason nothing is working and it is now a liability.
 ---
 
 Pickled Green Beans are the Bean Zodiac's quirkiest — they have emerged with something that cannot be easily categorised.

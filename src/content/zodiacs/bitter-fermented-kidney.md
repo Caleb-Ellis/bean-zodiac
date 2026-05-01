@@ -10,8 +10,8 @@ seasonalFortune: The intensity building in you will need an outlet before it fin
 dailyNeutral: Let what you carry be felt — it does not need to be understood to be present.
 dailyGood: Go further into it; the surface version is not what this actually is.
 dailyBest: Release the full weight of it — nothing held back, nothing softened, the complete thing.
-dailyBad: The energy in the room is being kept deliberately low — and the intensity is being received as pressure.
-dailyWorst: The full presence is being named as too much — and people are stepping back.
+dailyBad: Turn it down a notch; the room needs less heat right now, not more.
+dailyWorst: Pull back entirely — what you're bringing is landing as weight, not presence, and the difference matters.
 ---
 
 Tinctured Kidney Beans are the Bean Zodiac's most intense — they carry more beneath the surface than most will show.

@@ -7,11 +7,11 @@ trait: fierce
 dish: Rajma - kidney beans with dried Kashmiri chiles and tamarind.
 quote: I have not yet begun to bean.
 seasonalFortune: A fight worth having will arrive — learn to recognise the moment it has already been won, so you are not still fighting after the fact.
-dailyNeutral: The fierceness is warranted — bring it to what is in front of you.
+dailyNeutral: This one is worth it — bring everything.
 dailyGood: Fight this one with everything; the cause is worth the full force.
-dailyBest: Give it the whole weight of what you carry — and let the intensity be visible.
-dailyBad: A gentler approach is being asked for — the intensity landed as intimidation.
-dailyWorst: People have moved to someone less imposing — the full force of it was what they named as the barrier.
+dailyBest: Give it the whole weight of what you carry — let the intensity be visible.
+dailyBad: Ease off; the room wanted an ally and received a battering ram.
+dailyWorst: Step back entirely. Everyone has quietly found someone easier to stand near.
 ---
 
 Dehydrated Kidney Beans are the Bean Zodiac's most fierce — the passion has been sharpened to a point and held there.

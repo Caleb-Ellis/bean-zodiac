@@ -10,8 +10,8 @@ seasonalFortune: A cause will ask for sustained conviction — the version held 
 dailyNeutral: Hold the line — not because it is convenient, but because it is right.
 dailyGood: The fair thing is clear and someone needs to say it; that someone is you.
 dailyBest: Do not soften the principle to make it easier to receive — it is correct, and that is enough.
-dailyBad: The principle is being called obstruction — and a more accommodating position is being requested.
-dailyWorst: The right thing is being named as the obstacle — and there is enough agreement in the room for something to be done about it.
+dailyBad: The room wants a compromise; holding the line right now will cost more than it returns.
+dailyWorst: Stand down. The people who disagree have the numbers, and this hill is about to become a problem.
 ---
 
 Brined Fava Beans are the Bean Zodiac's most righteous — they know what is fair and hold that line patiently.

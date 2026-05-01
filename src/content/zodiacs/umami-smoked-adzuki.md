@@ -9,9 +9,9 @@ quote: We hold these beans to be self-evident.
 seasonalFortune: A ceremony is coming — keep the entrance open and the door visible before the rite begins.
 dailyNeutral: Treat it as sacred — the moment you are in deserves that weight.
 dailyGood: Let the reverence be full — what you are marking is worth every measure of it.
-dailyBest: Consecrate it completely — the ordinary has earned the weight of the sacred, and you are the one to say so.
-dailyBad: Something mundane is being treated as interchangeable — and the weight it carries is being ignored.
-dailyWorst: What is being asked for is the reduction of something held as precious — and the ask is pressing.
+dailyBest: Consecrate it completely — the ordinary has earned the weight of the sacred, and this is the moment to say so.
+dailyBad: Name the weight it carries; the mundane is being treated as interchangeable and that reading is hardening.
+dailyWorst: Protect what is being asked to be reduced; the ask is pressing but the reduction is not a small one.
 ---
 
 Hickory Adzuki Beans are the Bean Zodiac's most hallowed — celebrations in their presence have the quality of ritual: slow-built, unrepeatable, and impossible to rush.

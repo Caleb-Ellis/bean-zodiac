@@ -7,11 +7,11 @@ trait: innovative
 dish: Chickpea tempeh - fermented whole chickpeas pan-fried and glazed with miso and sesame.
 quote: Imagination is more important than knowledge about beans.
 seasonalFortune: The insight will need the object it becomes — that part requires leaving the dark.
-dailyNeutral: Trust the new approach — the departure from what already exists is the whole point.
+dailyNeutral: Trust the new approach; what departs from what already exists is where the value is.
 dailyGood: Push the idea further than feels safe — the distance is where the value is.
 dailyBest: Take it all the way to its furthest form — the full version of the idea is what you came to make.
-dailyBad: What you have made is being received as confusion — the familiar version is what the room expected.
-dailyWorst: The new approach is being actively resisted — what you have found is being asked to become what already exists.
+dailyBad: Show it in a form that can be received; the idea does not have to be smaller, only legible.
+dailyWorst: Meet the resistance; the new approach needs a shape familiar enough to get through the door.
 ---
 
 Miso Chickpeas are the Bean Zodiac's most innovative — they find connections no one else had noticed.

@@ -10,8 +10,8 @@ seasonalFortune: The sharpest thing you could say will not be the funny one — 
 dailyNeutral: Find the angle — it is there, and the room will be better for it.
 dailyGood: The sharpest version is available; deliver it at full precision.
 dailyBest: Everything here has an edge — find each one and use it without pulling a single punch.
-dailyBad: A more serious register is what's wanted — this one has been flagged as wrong for the room.
-dailyWorst: The straight answer is the demand — and the wit is what the demand is pointing at.
+dailyBad: Drop the angle and say it straight; the room came for the answer, not the performance.
+dailyWorst: Put the wit down entirely and just tell them — the sharpness is getting in the way of the thing itself.
 ---
 
 Charcoal Edamame are the Bean Zodiac's wittiest — they are sharp without making others feel small.

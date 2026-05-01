@@ -6,12 +6,12 @@ form: dried
 trait: incendiary
 dish: Dry-fried adzuki with Sichuan peppercorn and dried chili threads.
 quote: Set the world on bean.
-seasonalFortune: A fire is building — check now whether what it will consume is what you intend.
-dailyNeutral: The spark has range — choose the thing that deserves to catch.
+seasonalFortune: A fire is building. Check now whether what it will consume is what you intend.
+dailyNeutral: Choose the thing that deserves to catch, then send the spark.
 dailyGood: The fire is real and ready; send it at the thing that can carry it.
-dailyBest: Everything you ignite will spread exactly as far as you aim it — aim well.
-dailyBad: The target has shifted since you last looked; what the spark finds will not be what was intended.
-dailyWorst: The room has nothing left to direct toward; whatever is sent will land on whatever is nearest.
+dailyBest: Aim well — everything you ignite will spread exactly as far as you direct it.
+dailyBad: The target has shifted since you last looked. What the spark finds will not be what was intended.
+dailyWorst: There is nothing worth directing it toward. Whatever is sent will land on whatever is nearest.
 ---
 
 Sichuan Adzuki Beans are the Bean Zodiac's most incendiary — the joy has been concentrated into something that can start a fire.

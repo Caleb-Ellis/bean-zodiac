@@ -10,8 +10,8 @@ seasonalFortune: The compound interest of the work will come due — when it doe
 dailyNeutral: The work ahead is knowable — put the first hour in and the rest will show itself.
 dailyGood: Sustained effort is required and you are built for it — begin.
 dailyBest: The output will be everything that could be given — bring it all to the task.
-dailyBad: The task keeps being reduced — what is being asked for has shrunk, and the pull to match it is strong.
-dailyWorst: Everything that needed doing has been handed elsewhere; the work has been taken and given to someone else.
+dailyBad: The task keeps being reduced — hold the original standard regardless of what is being asked for now.
+dailyWorst: The work has been taken elsewhere; find something else that needs doing and put the effort there.
 ---
 
 Braised Edamame are the Bean Zodiac's most hardworking — they understand work is required and follow through.

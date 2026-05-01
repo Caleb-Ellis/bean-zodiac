@@ -10,8 +10,8 @@ seasonalFortune: A rule you follow will be tested by something it was not design
 dailyNeutral: The principle holds — apply it exactly as it was designed.
 dailyGood: The structure is correct; do not allow the pressure of the moment to shift it.
 dailyBest: No adjustment, no exception, no deviation — the position holds entirely.
-dailyBad: An exception is being brought forward — and it comes with consensus behind it.
-dailyWorst: The structure is being voted out — and the vote is not close.
+dailyBad: Allow the exception; a structure that cannot flex here was not built for this.
+dailyWorst: Abandon the position entirely — what you are defending has outrun the reason it was built.
 ---
 
 Desiccated Navy Beans are the Bean Zodiac's most rigid — the principle is correct, the method is proven, and there is no argument that will move them.

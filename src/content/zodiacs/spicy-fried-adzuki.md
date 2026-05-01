@@ -7,11 +7,11 @@ trait: irrepressible
 dish: Spicy adzuki jeon - Korean pan-fried adzuki bean pancake with gochugaru.
 quote: Don't stop me now - I'm having such a good bean!
 seasonalFortune: The energy will find its target — aim it at the thing most worth the full temperature, not at whatever is in range.
-dailyNeutral: The heat has a target — send it at the thing most worth the temperature.
+dailyNeutral: Choose the target before the heat goes anywhere.
 dailyGood: The energy is full and irrepressible; aim it before it finds its own direction.
 dailyBest: Everything runs at full heat — point it entirely at the thing that deserves it.
-dailyBad: The room is asking for quiet — what arrives at full heat is being treated as something to manage, not meet.
-dailyWorst: Everything around you has drawn back; the heat is landing on a room that has already decided it doesn't want it.
+dailyBad: What arrives at full heat is being treated as something to manage, not meet. Pull back until conditions change.
+dailyWorst: Everything has drawn back. The heat is landing where it is not wanted and will not be received.
 ---
 
 Red-Hot Adzuki Beans are the Bean Zodiac's most irrepressible — their heat cannot be contained.

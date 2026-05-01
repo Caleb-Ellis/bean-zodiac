@@ -10,8 +10,8 @@ seasonalFortune: The bright start will need nourishment through the hard middle 
 dailyNeutral: The warmth is real — give it freely to what is in front of you.
 dailyGood: The enthusiasm is high; bring it to the thing that most deserves the full temperature.
 dailyBest: Everything deserves the full warmth — give it completely, and find what sustains it through the middle.
-dailyBad: The room was not in a state for warmth — what arrived with full enthusiasm landed somewhere that could not receive it.
-dailyWorst: The energy needed to meet what is being given is not there; the room cannot receive what is arriving.
+dailyBad: What arrived with full enthusiasm landed somewhere that could not receive it. Pull back and find a better surface.
+dailyWorst: Withdraw the warmth — the conditions cannot use it and it is being wasted.
 ---
 
 Peri-Peri Adzuki Beans are the Bean Zodiac's most enthusiastic — their warmth radiates outward naturally.

@@ -10,8 +10,8 @@ seasonalFortune: A direction will be questioned — the question is not whether 
 dailyNeutral: Keep going — the resistance is part of the work.
 dailyGood: The effort is compounding in ways that will only be visible later.
 dailyBest: You have already outlasted most of what was working against you — finish it.
-dailyBad: The case for stopping is being made — it is not hostile, and it is getting harder to dismiss.
-dailyWorst: The demand to stop has become collective — the refusal is the only thing anyone can see.
+dailyBad: Hear the case for stopping — it is getting harder to dismiss.
+dailyWorst: Stop — the demand is collective, and the refusal is the only thing anyone can see.
 ---
 
 Candied Fava Beans are the Bean Zodiac's most persistent — continuing without requiring things to be easy or the end to be visible.

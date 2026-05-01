@@ -10,8 +10,8 @@ seasonalFortune: A fire will appear without a visible spark — find what you ar
 dailyNeutral: The fire is real — find the target before it finds its own.
 dailyGood: The ignition is complete; aim before striking.
 dailyBest: Everything is burning at full urgency — aim it entirely at the thing it was lit for.
-dailyBad: The thing it was lit for has been handled elsewhere — the urgency is arriving at something already resolved.
-dailyWorst: Everything that needed the fire has been addressed by other means; what was lit has no object left to reach.
+dailyBad: Let the urgency go — what it was lit for has been handled and it is arriving at something already resolved.
+dailyWorst: Extinguish it — everything that needed the fire has been addressed and what was lit has nothing left to reach.
 ---
 
 Chipotle Green Beans are the Bean Zodiac's most ignited — the urgency is already burning before anyone has established what needs to be done.

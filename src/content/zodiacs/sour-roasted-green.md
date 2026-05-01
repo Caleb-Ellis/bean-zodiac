@@ -9,9 +9,9 @@ quote: The most bean thing you can do is smile through your tears.
 seasonalFortune: The good humour will be tested — the rooms that hold it will be better for it, and that is not nothing.
 dailyNeutral: The good humour is available — bring it.
 dailyGood: Let the cheer run fully; the room will lift with it.
-dailyBest: Give it at full warmth — the complete cheerfulness, without measuring it out.
-dailyBad: A more sober presence is being preferred — the warmth was received as wrong for the register.
-dailyWorst: The room has stopped bringing serious things — the warmth was named as the reason nothing feels serious.
+dailyBest: Give it at full warmth — unmeasured, unqualified, the whole thing.
+dailyBad: Take the temperature down a notch; the warmth arrived at the wrong register and the room has noticed.
+dailyWorst: Go sober. People have stopped bringing serious things because the good cheer made serious feel impossible.
 ---
 
 Chimichurri Green Beans are the Bean Zodiac's most cheerful — warmth that is hard to dismiss because it is honest.

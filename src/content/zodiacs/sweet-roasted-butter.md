@@ -8,14 +8,14 @@ dish: Butter beans roasted with vanilla sugar and lemon zest — caramelised at 
 quote: A day without beans is like a day without sunshine, so bring extra beans.
 seasonalFortune: What is underneath the lightness will want to carry some weight — let it.
 dailyNeutral: Bring the easy version — it is enough for what this needs.
-dailyGood: The lightness you carry is making the room easier to be in.
+dailyGood: The lightness you carry is making everything easier — let it keep going.
 dailyBest: Let the delight run fully — the whole day is worth enjoying at its full size.
-dailyBad: The lightness is not meeting the weight in the room — and the room is starting to name it.
-dailyWorst: The ease was a refusal to hold what was actually there — and the room felt the turning away.
+dailyBad: Match the weight of what is here; the lightness is not meeting it and the gap is showing.
+dailyWorst: Hold what is actually there — the ease has become a refusal, and it has been felt.
 ---
 
 Glazed Butter Beans are the Bean Zodiac's most lighthearted — they carry the knowledge that the world is fundamentally fine into every space they enter.
 
-Butter Beans believe the world is fundamentally fine; Sweet Beans give this knowledge freely; Roasted Beans fill the room with permission to enjoy.
+Butter Beans believe the world is fundamentally fine; Sweet Beans give this knowledge freely; Roasted Beans fill everything with permission to enjoy.
 
 The Glazed Butter Bean's challenge is weight-bearing. They must show the substance beneath their lightness.

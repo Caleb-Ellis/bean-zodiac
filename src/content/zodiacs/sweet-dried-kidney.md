@@ -9,9 +9,9 @@ quote: The course of true love never did run bean.
 seasonalFortune: A depth of feeling will need to be said — say one thing, and let the rest be known through it.
 dailyNeutral: Let the feeling be present in how you speak.
 dailyGood: The depth of what you feel is showing — do not pull it back.
-dailyBest: Say the full thing — the person in front of you is ready to receive it.
-dailyBad: The feeling you are bringing is more than the room has room for.
-dailyWorst: What you are bringing has become a demand — and the person receiving it has noticed.
+dailyBest: Say the full thing — it is ready to be received.
+dailyBad: Reduce what is being brought — it exceeds what can be held.
+dailyWorst: Ease the bringing — what was offered has become a demand, and it is landing that way.
 ---
 
 Crystallised Kidney Beans are the Bean Zodiac's most ardent — the passion has been distilled to something patient and permanent.

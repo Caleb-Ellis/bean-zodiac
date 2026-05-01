@@ -8,10 +8,10 @@ dish: Green bean gangjeong — dried green beans lacquered in honey and rice syr
 quote: No matter how long the winter, spring is sure to bean.
 seasonalFortune: The effort behind the renewal will want to be seen — let those around you see it before they mistake it for effortlessness.
 dailyNeutral: Return to it — the energy is there.
-dailyGood: The renewal has already started — you are already in it.
-dailyBest: You came back again, and the room noticed — let them see the full return.
-dailyBad: You are back again but nothing has changed — the return is starting to look like a loop.
-dailyWorst: The people who have watched you return and leave again are no longer sure which version to trust.
+dailyGood: The renewal has already started; you are in it.
+dailyBest: You came back again, and it was noticed — let the full return be seen.
+dailyBad: You are back again but nothing has changed; the return is looking like a loop.
+dailyWorst: What was once a return is now just another turn in the cycle.
 ---
 
 Crystallised Green Beans are the Bean Zodiac's most perennial — the freshness never depletes; the energy renews before it runs out.

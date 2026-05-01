@@ -10,8 +10,8 @@ seasonalFortune: Someone nearby is waiting to know you are there — not that yo
 dailyNeutral: The stillness you carry is not emptiness — let it be felt as steadiness.
 dailyGood: Someone around you needs to know you are home before they can continue.
 dailyBest: You are the surface others need to be still against — hold.
-dailyBad: The room is reading steadiness as absence — and starting to act accordingly.
-dailyWorst: The composure has been named the problem, and the pressure to break it is becoming collective.
+dailyBad: Make a small noise — not to disturb the peace, but to confirm you are in it.
+dailyWorst: Crack the surface; everyone is waiting for proof that something is actually in there.
 ---
 
 Decocted Butter Beans are the Bean Zodiac's most composed — not through suppression, but through a genuine preference for stillness that nothing so far has managed to disturb.

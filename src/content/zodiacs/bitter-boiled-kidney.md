@@ -10,8 +10,8 @@ seasonalFortune: A test of your loyalty is coming that will ask whether you are 
 dailyNeutral: The commitment you made still holds — honor it without being asked.
 dailyGood: Ask whether you are staying because it serves them or because leaving is harder.
 dailyBest: Stay; the depth of this commitment needs no explanation and will not accept one.
-dailyBad: The easier exit is being offered — and it is being made to look like wisdom.
-dailyWorst: What you stayed for is being used as evidence against the staying — by the very people you stayed for.
+dailyBad: Take the exit; not every commitment that felt right still is.
+dailyWorst: Let it go — staying past this point is not devotion, it is just inertia with a better story.
 ---
 
 Decocted Kidney Beans are the Bean Zodiac's most loyal — they commit completely and stay, long after others leave.

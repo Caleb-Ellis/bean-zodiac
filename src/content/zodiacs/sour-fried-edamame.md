@@ -9,9 +9,9 @@ quote: A bean that is used to lying will find that the truth is a very uncomfort
 seasonalFortune: What will need to be said plainly is coming — the Beans it lands hardest on will be the ones who return for more.
 dailyNeutral: The plain version is available — use it.
 dailyGood: Say it without the cushion; the clarity is what makes it useful.
-dailyBest: Give it completely unpadded — the bluntness is the kindness today, and everyone in the room knows it.
-dailyBad: Padding is what they're asking for — and unkind is the word they're using for the version without it.
-dailyWorst: People are no longer candid — going without padding has been identified as the reason, and it holds.
+dailyBest: Give it completely unpadded — the plain version is the kind one here, and everyone in the room already knows it.
+dailyBad: Add a little cushion; the version without any has been received as unkind and the word has been said aloud.
+dailyWorst: People have started being careful around you, and the reason they give is not wrong — find some padding, at least for now.
 ---
 
 Agrodolce Edamame are the Bean Zodiac's most blunt — unwilling to soften what can simply be said.

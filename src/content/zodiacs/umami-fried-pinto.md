@@ -7,11 +7,11 @@ trait: unreliable
 dish: Frijoles refritos con chorizo - pinto beans fried in lard with Mexican chorizo and ancho chile.
 quote: I am not bean enough to make promises I cannot keep.
 seasonalFortune: An accounting is coming — wait one beat before the next commitment, not to be less generous, but to be honest about the distance.
-dailyNeutral: Follow what is true in this moment — the direction you are being pulled is real.
-dailyGood: Let the moment determine the course — the current pull is the one worth following.
-dailyBest: Go where the feeling is strongest — the honest response to what is actually in front of you is the most you can offer.
-dailyBad: A firmer commitment is being asked for — someone wants to know if this one will hold.
-dailyWorst: The pattern is being named — someone is saying directly that they no longer know what to count on.
+dailyNeutral: Pause before committing; the intention is real but the distance matters.
+dailyGood: Make the commitment with a margin — what you promise with a little room is what you can keep.
+dailyBest: Say exactly what you can do and nothing more; precision here is the whole of the gift.
+dailyBad: Account for the distance before the next commitment; the ask is for something that will hold.
+dailyWorst: Name the pattern before it is named for you; the unreliability is being tracked and the moment to speak to it is here.
 ---
 
 Tempura Pinto Beans are the Bean Zodiac's most unreliable — they mean everything they promise in the moment.

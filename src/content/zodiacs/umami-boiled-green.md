@@ -7,11 +7,11 @@ trait: prolific
 dish: Ohitashi - green beans blanched and dressed with dashi and bonito flake.
 quote: Quantity produces bean quality.
 seasonalFortune: An accumulation will become visible — see the whole before you begin again.
-dailyNeutral: Make the next thing — the doing is the whole of it today.
-dailyGood: Keep going — the volume you are producing is becoming something worth looking at.
+dailyNeutral: Make the next thing; the doing is the whole of it.
+dailyGood: Keep going; the volume is becoming something worth looking at.
 dailyBest: Let it all come — the accumulation is the work, and you are capable of all of it.
-dailyBad: The ask is for something finished, not something new — the making is running past what is needed.
-dailyWorst: Nothing being produced is what is being asked for — the output and the need have separated entirely.
+dailyBad: The ask is for something finished, not something new.
+dailyWorst: Output and need have stopped overlapping.
 ---
 
 Dashi Green Beans are the Bean Zodiac's most prolific — they produce, and what they've made accumulates into something substantial.
