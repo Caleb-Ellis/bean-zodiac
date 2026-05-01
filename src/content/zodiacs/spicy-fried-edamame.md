@@ -11,7 +11,7 @@ dailyNeutral: Go first. The moment is right and the move is clear.
 dailyGood: The boldness is warranted; check once that you are going first, not going alone.
 dailyBest: Go first, completely — bring the full weight of what you know and hold the door.
 dailyBad: Close the door — the bold move was made and nothing followed.
-dailyWorst: Going first is not what is needed here — what is wanted is someone to wait, not someone to lead.
+dailyWorst: Wait rather than lead; what is needed here is someone to hold back, not someone to go first.
 ---
 
 Red-Hot Edamame are the Bean Zodiac's most bold — they go first without waiting for ideal conditions.

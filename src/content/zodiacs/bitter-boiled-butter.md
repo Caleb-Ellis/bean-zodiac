@@ -14,8 +14,8 @@ dailyBad: Make a small noise — not to disturb the peace, but to confirm you ar
 dailyWorst: Crack the surface; everyone is waiting for proof that something is actually in there.
 ---
 
-Decocted Butter Beans are the Bean Zodiac's most composed — not through suppression, but through a genuine preference for stillness that nothing so far has managed to disturb.
+Infused Butter Beans are the Bean Zodiac's most composed — not through suppression, but through a genuine preference for stillness that nothing so far has managed to disturb.
 
 Butter Beans refuse to hurry; Bitter Beans refuse to accept anything that hasn't genuinely earned attention; Boiled Beans refuse to let the process be rushed.
 
-The Decocted Butter Bean's challenge is warmth. Composure that never breaks can look, from the outside, like nobody is home. These Beans must remember that stillness is not the same as distance — and that those around them sometimes need to know the difference.
+The Infused Butter Bean's challenge is warmth. Composure that never breaks can look, from the outside, like nobody is home. These Beans must remember that stillness is not the same as distance — and that those around them sometimes need to know the difference.

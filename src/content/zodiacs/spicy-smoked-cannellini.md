@@ -11,7 +11,7 @@ dailyNeutral: The precision is real — apply it where the cut is genuinely need
 dailyGood: The full temperature is behind the precision; check the calibration before deploying.
 dailyBest: Bring the full searing precision — completely, and with the calibration that makes it refinement rather than excess.
 dailyBad: Lower the precision — what it is being applied to cannot hold this temperature.
-dailyWorst: The target has withdrawn entirely; nothing available can receive the full cut.
+dailyWorst: Accept the withdrawal; the target has pulled back entirely and nothing available can receive the full cut.
 ---
 
 Chipotle Cannellini Beans are the Bean Zodiac's most scalding — their refinement has found a precision that burns.

@@ -10,7 +10,7 @@ seasonalFortune: Something will ask you to stay in it — give the heat enough t
 dailyNeutral: The energy is real — give one place the full temperature before moving.
 dailyGood: The heat is everywhere; direct it into one place and let it become something.
 dailyBest: Stay with one thing and give it the full heat — completely, long enough for it to become useful.
-dailyBad: Every door is closing before the heat arrives — whatever was waiting has moved on by the time you get there.
+dailyBad: Arrive earlier; every door is closing before the heat gets there and whatever was waiting has moved on.
 dailyWorst: Hold what is coming — every door has been shut and there is nowhere for it to go.
 ---
 

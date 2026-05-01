@@ -14,8 +14,8 @@ dailyBad: Call it good enough and put the brush down; the last pass is costing m
 dailyWorst: Send it — imperfect and out the door is more useful than perfect and still on the table.
 ---
 
-Decocted Pinto Beans are the Bean Zodiac's most detail-oriented — they notice what others skip, finding errors most miss.
+Infused Pinto Beans are the Bean Zodiac's most detail-oriented — they notice what others skip, finding errors most miss.
 
 Pinto Bean's specificity rewards close looking; Bitter Beans keep only what genuinely earns its place; Boiled Beans steep everything slowly, leaving nothing unexamined.
 
-The Decocted Pinto Bean's challenge is distance. A detail-oriented eye can lose the far view. They must occasionally step back from brushwork to see the whole canvas.
+The Infused Pinto Bean's challenge is distance. A detail-oriented eye can lose the far view. They must occasionally step back from brushwork to see the whole canvas.

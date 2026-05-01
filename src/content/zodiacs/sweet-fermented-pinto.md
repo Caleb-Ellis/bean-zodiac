@@ -14,8 +14,8 @@ dailyBad: Put the preoccupation down; what is actually in front of you cannot ge
 dailyWorst: Come back; the absence has been accommodated and the gap is widening.
 ---
 
-Honeyed Pinto Beans are the Bean Zodiac's most anxious — they have already run every scenario.
+Funky Pinto Beans are the Bean Zodiac's most anxious — they have already run every scenario.
 
 Pinto Beans imagine every outcome; Sweet Beans want each to go well; Fermented Beans process it without natural end.
 
-The Honeyed Pinto Bean's challenge is the revision cycle. They must learn to stop at good enough and move forward.
+The Funky Pinto Bean's challenge is the revision cycle. They must learn to stop at good enough and move forward.

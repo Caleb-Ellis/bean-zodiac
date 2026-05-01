@@ -14,8 +14,8 @@ dailyBad: Give them the simpler version; the full complexity is yours, but it is
 dailyWorst: Strip it back to one thread and hand that over — the rest can stay on the map, but the map is not what they asked for.
 ---
 
-Ashen Pinto Beans are the Bean Zodiac's most intricate — their inner landscape is elaborate, and they have been the only one with the map.
+Charcoal Pinto Beans are the Bean Zodiac's most intricate — their inner landscape is elaborate, and they have been the only one with the map.
 
 Pinto Beans carry complex stories openly in their markings; Bitter Beans insist on examining every layer; Smoked Beans fold it into a presence that never quite resolves.
 
-The Ashen Pinto Bean's challenge is legibility. Complexity is not its own reward. These Beans must let at least one thread be followed to its end.
+The Charcoal Pinto Bean's challenge is legibility. Complexity is not its own reward. These Beans must let at least one thread be followed to its end.

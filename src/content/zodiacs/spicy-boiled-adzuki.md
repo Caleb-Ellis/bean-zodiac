@@ -10,8 +10,8 @@ seasonalFortune: A moment is approaching that needs heat — be the one who brou
 dailyNeutral: Give the moment more warmth than it is asking for.
 dailyGood: The heat has been building long enough — this is the moment to spend it.
 dailyBest: Hold nothing back; the fire was made for exactly this.
-dailyBad: The room has settled into caution — your warmth is arriving as noise, not heat.
-dailyWorst: Pull back — the room has gone cold to you, and pressing further will only widen the gap.
+dailyBad: Ease back — what you are sending is landing as interference, not warmth.
+dailyWorst: Pull back — those around you have gone cold, and pressing further will only widen the gap.
 ---
 
 Braised Adzuki Beans are the Bean Zodiac's most spirited — heat banked through patience makes the fire last.

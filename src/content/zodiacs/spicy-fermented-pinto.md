@@ -10,7 +10,7 @@ seasonalFortune: A trail of positions will need a map — leave the reasoning be
 dailyNeutral: The position has moved — leave the reasoning before it closes.
 dailyGood: The shift is complete; build the map back so the Beans who need it can follow.
 dailyBest: Every position change deserves its full accounting. Leave the trail completely — all of it.
-dailyBad: The last position was still being held when you moved. The map was not left, and now there is no way to follow.
+dailyBad: Leave a marker before moving again; the last position was still being held when you left, and now there is no way to follow.
 dailyWorst: Signal your position — tracking has been abandoned and no one is expecting to know where you are.
 ---
 

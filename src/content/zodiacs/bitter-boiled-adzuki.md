@@ -14,8 +14,8 @@ dailyBad: Pick something — any thorough position will serve better than a prol
 dailyWorst: Commit now, even imperfectly; whatever the scales say, the moment will not wait.
 ---
 
-Decocted Adzuki Beans are the Bean Zodiac's most judicious — they carry the Adzuki Bean's deep instinct for celebration, but they do not spend it until the conditions have been met.
+Infused Adzuki Beans are the Bean Zodiac's most judicious — they carry the Adzuki Bean's deep instinct for celebration, but they do not spend it until the conditions have been met.
 
 Adzuki Beans knows that certain moments deserve to be marked; Bitter Beans insist they must genuinely earn it; Boiled Beans refuse to let anything be rushed.
 
-The Decocted Adzuki Bean's challenge is timeliness. A verdict delivered after the fact is information, not nourishment. These Beans must learn to share the deliberation — not just the outcome.
+The Infused Adzuki Bean's challenge is timeliness. A verdict delivered after the fact is information, not nourishment. These Beans must learn to share the deliberation — not just the outcome.

@@ -14,8 +14,8 @@ dailyBad: Add some warmth to it; precision without approachability is just dista
 dailyWorst: Let it be loose and a little imprecise — the room needs access more than it needs refinement right now.
 ---
 
-Charcoal Black Beans are the Bean Zodiac's most elegant — depth that needs no announcement.
+Wood-Fired Black Beans are the Bean Zodiac's most elegant — depth that needs no announcement.
 
 Black Bean earns richness through time; Bitter Beans remove the superfluous; Roasted Beans coax everything outward with dry patience.
 
-The Charcoal Black Bean's challenge is accessibility. Elegance refined too far becomes unapproachable. They must remember their depth was never meant to be kept to themselves.
+The Wood-Fired Black Bean's challenge is accessibility. Elegance refined too far becomes unapproachable. They must remember their depth was never meant to be kept to themselves.

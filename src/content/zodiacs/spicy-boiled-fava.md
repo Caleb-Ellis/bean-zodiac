@@ -10,7 +10,7 @@ seasonalFortune: A thing worth holding firm on is coming — before the moment, 
 dailyNeutral: The decision was made — stay in it.
 dailyGood: The conviction has been examined — bring it fully to bear.
 dailyBest: Every force applied against what you know is right will only sharpen it — stand entirely in it.
-dailyBad: The position is firm, but the feedback arriving is worth examining before the door closes.
+dailyBad: Examine the arriving feedback before the door closes — the current position is not as settled as it feels.
 dailyWorst: Examine what you are refusing — it is correct.
 ---
 

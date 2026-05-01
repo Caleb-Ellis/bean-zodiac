@@ -14,8 +14,8 @@ dailyBad: Bring the temperature down; what you are carrying is real, but the hea
 dailyWorst: Cool it entirely and find the source — the intensity has uncoupled from whatever lit it, and that is what needs attention now.
 ---
 
-Ashen Kidney Beans are the Bean Zodiac's most feverish — a passion that has become uncoupled from the thing that lit it.
+Charcoal Kidney Beans are the Bean Zodiac's most feverish — a passion that has become uncoupled from the thing that lit it.
 
 Kidney Beans feel everything at full intensity; Bitter Beans sharpen the feeling until it could cut; Smoked Beans give the heat a quality of something burning without a visible flame.
 
-The Ashen Kidney Bean's challenge is diagnosis. Fever without a known cause is just suffering. These Beans must trace the intensity back to what is actually burning.
+The Charcoal Kidney Bean's challenge is diagnosis. Fever without a known cause is just suffering. These Beans must trace the intensity back to what is actually burning.

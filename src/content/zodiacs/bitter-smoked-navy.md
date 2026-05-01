@@ -14,8 +14,8 @@ dailyBad: Soften the delivery; the warning is real, but the form it is in is clo
 dailyWorst: Let this one go without the forecast — sometimes the right call is letting the weather speak for itself.
 ---
 
-Ashen Navy Beans are the Bean Zodiac's most ominous — their sense of what is coming tends to be correct, and they say so in a way that is difficult to dispute.
+Charcoal Navy Beans are the Bean Zodiac's most ominous — their sense of what is coming tends to be correct, and they say so in a way that is difficult to dispute.
 
 Navy Beans know what is required without needing to be persuaded; Bitter Beans insist on the unvarnished reading; Smoked Beans deliver the assessment from a source that cannot be interrogated.
 
-The Ashen Navy Bean's challenge is delivery. A forecast is only useful if it can be heard. These Beans must find a way to say the thing that does not make being believed impossible.
+The Charcoal Navy Bean's challenge is delivery. A forecast is only useful if it can be heard. These Beans must find a way to say the thing that does not make being believed impossible.

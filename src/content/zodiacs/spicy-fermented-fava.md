@@ -11,7 +11,7 @@ dailyNeutral: Check the direction before continuing. Surface just enough to veri
 dailyGood: The subversion is developed; show the working to one Bean before the reveal.
 dailyBest: The full quiet work is ready to surface — let it emerge completely.
 dailyBad: Prepare the ground before the next reveal — what surfaced was rejected before it could be understood.
-dailyWorst: The ground shifted while the work was building. What has emerged no longer fits what is needed.
+dailyWorst: Reframe what has emerged; the ground shifted while the work was building, and what came up no longer fits.
 ---
 
 Kimchi Fava Beans are the Bean Zodiac's most subversive — they work quietly until the result can't be ignored.

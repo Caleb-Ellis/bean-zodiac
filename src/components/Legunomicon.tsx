@@ -71,7 +71,7 @@ function FortuneCard({
               className={`flex items-center gap-1.5 px-2 py-0.5 rounded-full border text-xs ${entry.score > 0 ? "border-green-800 text-green-200" : "border-amber-800 text-amber-200"}`}
             >
               <span>{entry.score > 0 ? "🌱" : "🍂"}</span>
-              <span>{entry.score > 0 ? "Rings true" : "Rings hollow"}</span>
+              <span>{entry.score > 0 ? "Accepted" : "Resisted"}</span>
             </span>
           )}
         </div>

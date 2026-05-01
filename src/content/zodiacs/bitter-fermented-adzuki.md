@@ -14,8 +14,8 @@ dailyBad: Stay in the present today; what came before is not what this moment ne
 dailyWorst: Put the past down entirely and face what is directly in front of you — it cannot wait for the comparison.
 ---
 
-Tinctured Adzuki Beans are the Bean Zodiac's most nostalgic — they hold attachment to what has been good, worked through privately.
+Cultured Adzuki Beans are the Bean Zodiac's most nostalgic — they hold attachment to what has been good, worked through privately.
 
 Adzuki Bean knows what deserves marking; Bitter Beans strip away the sentimental, leaving only what holds up; Fermented Beans work inward in the dark.
 
-The Tinctured Adzuki Bean's challenge is ensuring the past orients rather than anchors. Nostalgia points forward only sometimes. They must ask whether they're returning for nourishment or to avoid what's in front of them.
+The Cultured Adzuki Bean's challenge is ensuring the past orients rather than anchors. Nostalgia points forward only sometimes. They must ask whether they're returning for nourishment or to avoid what's in front of them.

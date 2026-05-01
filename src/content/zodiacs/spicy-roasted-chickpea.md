@@ -10,7 +10,7 @@ seasonalFortune: Somewhere this season, depth is available if you stay past the 
 dailyNeutral: Stay. What is forming is worth more than the easy exit.
 dailyGood: The connection is real; let it go deeper than surface.
 dailyBest: Give the full depth of what you have — completely, without keeping the easy exit available.
-dailyBad: What was starting cleared before it could form. The depth was there and the window closed too soon.
+dailyBad: Reopen what cleared before it could form; the depth was there and the window closed too soon.
 dailyWorst: Push deeper — everything is being held at the surface and the warmth is not reaching what it should.
 ---
 

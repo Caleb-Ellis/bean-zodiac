@@ -14,8 +14,8 @@ dailyBad: Give the practical answer and skip the footnotes; the room needs the c
 dailyWorst: Act before the research is complete — imperfect movement beats perfect understanding that arrives too late.
 ---
 
-Tinctured Cannellini Beans are the Bean Zodiac's most scholarly — they have a devoted relationship with knowledge, surfacing only when conclusion-ready.
+Cultured Cannellini Beans are the Bean Zodiac's most scholarly — they have a devoted relationship with knowledge, surfacing only when conclusion-ready.
 
 Cannellini Bean refines and elevates ideas; Bitter Beans favor the complex, things that reward sustained attention; Fermented Beans work the investment in the dark.
 
-The Tinctured Cannellini Bean's challenge is translation. Scholarship held entirely within is just organized interior. They must find the form that makes what they know useful to the room, not just themselves.
+The Cultured Cannellini Bean's challenge is translation. Scholarship held entirely within is just organized interior. They must find the form that makes what they know useful to the room, not just themselves.

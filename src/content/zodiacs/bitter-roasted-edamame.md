@@ -14,8 +14,8 @@ dailyBad: Drop the angle and say it straight; the room came for the answer, not 
 dailyWorst: Put the wit down entirely and just tell them — the sharpness is getting in the way of the thing itself.
 ---
 
-Charcoal Edamame are the Bean Zodiac's wittiest — they are sharp without making others feel small.
+Wood-Fired Edamame are the Bean Zodiac's wittiest — they are sharp without making others feel small.
 
 Edamame don't waste words; Bitter Beans insist what's said earns its place; Roasted Beans arrive with warmth, filling rather than cutting.
 
-The Charcoal Edamame's challenge is using wit to deflect. Sharpness that never lands softly is distance. They must occasionally let something be said plainly.
+The Wood-Fired Edamame's challenge is using wit to deflect. Sharpness that never lands softly is distance. They must occasionally let something be said plainly.

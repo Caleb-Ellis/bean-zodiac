@@ -14,8 +14,8 @@ dailyBad: Pull back a little; the full version is available, but this is not the
 dailyWorst: Cut it back to the minimum and stop there — more is not doing what you think it is doing right now.
 ---
 
-Charcoal Butter Beans are the Bean Zodiac's most indulgent — quality is non-negotiable.
+Wood-Fired Butter Beans are the Bean Zodiac's most indulgent — quality is non-negotiable.
 
 Butter Bean brings ease and warmth; Bitter Beans keep discernment over comfort; Roasted Beans coax sugars out with irresistible, unashamed warmth.
 
-The Charcoal Butter Bean's challenge is motion. A life arranged only around comfort stops being comfortable. They must occasionally do something inconvenient—not to suffer, but to remember what they're choosing.
+The Wood-Fired Butter Bean's challenge is motion. A life arranged only around comfort stops being comfortable. They must occasionally do something inconvenient—not to suffer, but to remember what they're choosing.

@@ -11,7 +11,7 @@ dailyNeutral: The charge is high. Point it at something that can use the current
 dailyGood: The energy is immediate and live; run it through something that needs it.
 dailyBest: Everything will carry the full voltage — send it into the thing that can actually bear it.
 dailyBad: Cut the current — what receives it cannot hold the charge and everything it touches is being damaged.
-dailyWorst: Every transmission is being treated as a hazard. Dim it down until conditions change.
+dailyWorst: Dim it down until conditions change — every transmission is being treated as a hazard.
 ---
 
 Sichuan Green Beans are the Bean Zodiac's most electric — the energy was already immediate; the heat has made it impossible to ignore.

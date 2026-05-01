@@ -10,8 +10,8 @@ seasonalFortune: A surprise is coming — build enough of a foundation that it c
 dailyNeutral: The surprise is real and warm. Let it land.
 dailyGood: The unpredictability is real and warm; give it a stable thing to stand on.
 dailyBest: Bring the full unpredictability — and give it the foundation it needs to be trusted.
-dailyBad: Something stable is being asked for and the ground has shifted one time too many. Hold still before the next move.
-dailyWorst: The ground here is no longer being trusted. What needed something to stand on has gone to find it elsewhere.
+dailyBad: Hold still before the next move; something stable is being asked for and the ground has shifted one time too many.
+dailyWorst: Stop moving; what needed stable ground has lost trust in this one and gone to find it elsewhere.
 ---
 
 Peri-Peri Pinto Beans are the Bean Zodiac's most unpredictable — no two appearances are the same.

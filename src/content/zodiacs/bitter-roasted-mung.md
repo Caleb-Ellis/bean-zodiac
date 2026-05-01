@@ -14,8 +14,8 @@ dailyBad: Take the credit being offered; refusing it a second time is not modest
 dailyWorst: Put your name on it — staying invisible here is costing the work something it cannot afford to lose.
 ---
 
-Charcoal Mung Beans are the Bean Zodiac's most humble — they know what they are capable of and keep it hidden.
+Wood-Fired Mung Beans are the Bean Zodiac's most humble — they know what they are capable of and keep it hidden.
 
 Mung Bean gives freely and asks nothing; Bitter Beans find appetite for credit unbecoming; Roasted Beans offer warmth, genuinely pleased by others' successes.
 
-The Charcoal Mung Bean's challenge is being seen. Humility is a virtue and occasional obstacle. They must allow others to know what they're capable of or risk underestimation by Beans they want to work alongside.
+The Wood-Fired Mung Bean's challenge is being seen. Humility is a virtue and occasional obstacle. They must allow others to know what they're capable of or risk underestimation by Beans they want to work alongside.

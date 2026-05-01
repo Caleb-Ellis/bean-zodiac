@@ -11,7 +11,7 @@ dailyNeutral: The pleasure is real — receive it completely.
 dailyGood: The warmth is at full strength; let it be the substance, not the reward.
 dailyBest: Everything is an invitation — accept it entirely and let the pleasure be its own justification.
 dailyBad: Do not reach — what is on offer has been stripped back and nothing here is worth the effort.
-dailyWorst: The supply has run out; nothing on offer carries any temperature and the cupboard is empty.
+dailyWorst: Stop looking for what is not here; nothing on offer carries any temperature and the supply has run out.
 ---
 
 Peri-Peri Butter Beans are the Bean Zodiac's most hedonistic — pleasure is the substance, not the reward.

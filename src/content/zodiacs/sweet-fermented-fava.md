@@ -14,8 +14,8 @@ dailyBad: Come back to what is immediately in front of you; the long view is mis
 dailyWorst: Look down — the ground has shifted while you were looking ahead.
 ---
 
-Honeyed Fava Beans are the Bean Zodiac's most visionary — they see where things are trying to go, quietly arranging the conditions.
+Funky Fava Beans are the Bean Zodiac's most visionary — they see where things are trying to go, quietly arranging the conditions.
 
 Fava Beans do the work others skip; Sweet Beans make the vision generous, for everyone; Fermented Beans develop it in private until it can be believed.
 
-The Honeyed Fava Bean's challenge is the gap between what they see and where others stand. They must make the distance feel traversable, not simplify the vision itself.
+The Funky Fava Bean's challenge is the gap between what they see and where others stand. They must make the distance feel traversable, not simplify the vision itself.

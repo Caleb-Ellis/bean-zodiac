@@ -10,8 +10,8 @@ seasonalFortune: The things started will still be open — pick one, stay past t
 dailyNeutral: Stay with what was started. The interesting part is further in than this.
 dailyGood: The move has been made; follow it through to the actual end.
 dailyBest: Everything begun deserves its full completion — stay for all of it.
-dailyBad: What was started is being formally closed before it had time to develop. Wrap the thread cleanly.
-dailyWorst: Conclusions are being demanded on threads that have barely run. Close what can be closed and move on.
+dailyBad: Wrap the thread cleanly; what was started is being formally closed before it had time to develop.
+dailyWorst: Close what can be closed and move on; conclusions are being demanded before the threads have barely run.
 ---
 
 Red-Hot Chickpeas are the Bean Zodiac's most spontaneous — they don't wait.

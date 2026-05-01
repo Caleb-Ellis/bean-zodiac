@@ -14,8 +14,8 @@ dailyBad: Pull the edge back; the sharpness has been received as gratuitous rath
 dailyWorst: The appetite for this conversation has gone. The edge is the reason.
 ---
 
-Cold-Smoked Fava Beans are the Bean Zodiac's most biting — their courage has a way of surfacing truths that others had quietly agreed to leave alone.
+Cured Fava Beans are the Bean Zodiac's most biting — their courage has a way of surfacing truths that others had quietly agreed to leave alone.
 
 Fava Beans move toward difficulty before being asked; Sour Beans give honest observation a pointed edge; Smoked Beans let the remark linger in the air long after it has been made.
 
-The Cold-Smoked Fava Bean's challenge is proportion. Courage and acidity together can exceed what the moment requires. These Beans must ask whether the truth needed to be said, or only discovered.
+The Cured Fava Bean's challenge is proportion. Courage and acidity together can exceed what the moment requires. These Beans must ask whether the truth needed to be said, or only discovered.

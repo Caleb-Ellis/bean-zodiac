@@ -10,7 +10,7 @@ seasonalFortune: A commitment will be asked of you that requires no inspiration 
 dailyNeutral: Show up. The commitment is real and the direction is sound.
 dailyGood: The doggedness is at full strength; give it completely and ask once if the direction is still right.
 dailyBest: Commit entirely — without turning aside, and with enough openness to check the thing you are committed to.
-dailyBad: What was being committed to has been overridden and the path is no longer open. Find a new entry.
+dailyBad: Find a new entry; what was being committed to has been overridden and the path is no longer open.
 dailyWorst: Reorient before going further — the goal has moved and what is being committed to is no longer what is needed.
 ---
 

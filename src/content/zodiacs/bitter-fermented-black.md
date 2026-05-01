@@ -14,8 +14,8 @@ dailyBad: Come up for air; the interior has had enough time, and the surface nee
 dailyWorst: Bring it out into the light even half-formed — staying in the dark any longer is not processing, it is hiding.
 ---
 
-Tinctured Black Beans are the Bean Zodiac's most brooding — they process privately and surface only when ready.
+Cultured Black Beans are the Bean Zodiac's most brooding — they process privately and surface only when ready.
 
 Black Bean reveals richness only over time; Bitter Beans strip away what hasn't earned its place; Fermented Beans transform in the dark, refusing acceleration.
 
-The Tinctured Black Bean's challenge is outlet. Brooding without release becomes accumulation with nowhere to go. They must find expression for what has been working in them.
+The Cultured Black Bean's challenge is outlet. Brooding without release becomes accumulation with nowhere to go. They must find expression for what has been working in them.

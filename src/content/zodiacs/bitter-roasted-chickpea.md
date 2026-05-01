@@ -14,8 +14,8 @@ dailyBad: Give the room some quiet; not every space is improved by filling it.
 dailyWorst: Step back and let the silence do the work — the presence is landing as pressure, not warmth.
 ---
 
-Charcoal Chickpeas are the Bean Zodiac's most outgoing — they move toward Beans as a matter of course.
+Wood-Fired Chickpeas are the Bean Zodiac's most outgoing — they move toward Beans as a matter of course.
 
 Chickpea finds common ground everywhere, at ease in every room; Bitter Beans discriminate between interesting and merely present; Roasted Beans carry everything outward with conviviality.
 
-The Charcoal Chickpea's challenge is solitude. They can lose track of what they think away from others. They must occasionally sit with themselves long enough to hear what comes up.
+The Wood-Fired Chickpea's challenge is solitude. They can lose track of what they think away from others. They must occasionally sit with themselves long enough to hear what comes up.

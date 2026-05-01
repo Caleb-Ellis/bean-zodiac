@@ -10,7 +10,7 @@ seasonalFortune: A resource you have been overlooking is about to be the only on
 dailyNeutral: The available materials are enough — start with what is here.
 dailyGood: The constraint is the brief — build from exactly what you have.
 dailyBest: Something considered inadequate will prove itself the only tool that fits — use it completely.
-dailyBad: The improvised solution is holding, but it costs more than asking would have.
+dailyBad: Let go of the improvised solution — asking directly costs less than continuing to hold it.
 dailyWorst: Every improvisation is being turned away — ask directly for what is needed.
 ---
 

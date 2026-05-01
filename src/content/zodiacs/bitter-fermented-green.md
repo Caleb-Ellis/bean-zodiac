@@ -14,8 +14,8 @@ dailyBad: Take the proven path this time; save the strange version for a moment 
 dailyWorst: Deliver the plain thing they asked for — the vision can wait, and insisting on it now will only get it refused.
 ---
 
-Tinctured Green Beans are the Bean Zodiac's most imaginative — they see what isn't there yet and render it visible.
+Cultured Green Beans are the Bean Zodiac's most imaginative — they see what isn't there yet and render it visible.
 
 Green Bean generates ideas fast; Bitter Beans discard the decorative ruthlessly; Fermented Beans convert raw energy into something richer and stranger.
 
-The Tinctured Green Bean's challenge is letting others in early. Imagination running entirely in private arrives with visions no one has been prepared for. They must share the draft, not only the finished thing.
+The Cultured Green Bean's challenge is letting others in early. Imagination running entirely in private arrives with visions no one has been prepared for. They must share the draft, not only the finished thing.

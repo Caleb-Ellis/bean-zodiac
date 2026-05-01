@@ -14,8 +14,8 @@ dailyBad: Put the attention down somewhere specific; the lightness is being read
 dailyWorst: A more grounded presence has been found for the role. Come back before it is filled.
 ---
 
-Cold-Smoked Mung Beans are the Bean Zodiac's most wispy — their care passes through rooms without settling into any of them.
+Cured Mung Beans are the Bean Zodiac's most wispy — their care passes through rooms without settling into any of them.
 
 Mung Beans tend without demanding; Sour Beans give the care an unsentimental edge; Smoked Beans let both qualities drift rather than land.
 
-The Cold-Smoked Mung Bean's challenge is grounding. Care that doesn't stay can't repair what it passes through. These Beans must find a place to put their attention down and leave it there.
+The Cured Mung Bean's challenge is grounding. Care that doesn't stay can't repair what it passes through. These Beans must find a place to put their attention down and leave it there.

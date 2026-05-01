@@ -14,8 +14,8 @@ dailyBad: Follow the evidence this time; the signal may be real, but right now t
 dailyWorst: Set the read aside and run the procedure — trust the process, not the feeling, until this one is done.
 ---
 
-Tinctured Mung Beans are the Bean Zodiac's most intuitive — they arrive at right reads through processes they cannot explain.
+Cultured Mung Beans are the Bean Zodiac's most intuitive — they arrive at right reads through processes they cannot explain.
 
 Mung Bean senses what is depleted and offers what restores; Bitter Beans discern real signals from passing impressions; Fermented Beans keep this working in the dark, beyond conscious scrutiny.
 
-The Tinctured Mung Bean's challenge is sharing the read before it's fully formed. Waiting for certainty means arriving too late. They must offer intuition earlier, with the caveat that it's still becoming.
+The Cultured Mung Bean's challenge is sharing the read before it's fully formed. Waiting for certainty means arriving too late. They must offer intuition earlier, with the caveat that it's still becoming.

@@ -11,7 +11,7 @@ dailyNeutral: Stay aware of what you are near. Something will catch.
 dailyGood: The contact is live; the heat will follow whatever you touch.
 dailyBest: Everything you move through will ignite behind you — move with full intention.
 dailyBad: Move carefully — the ground was already live when you got here and every motion is catching.
-dailyWorst: Nothing can be touched without catching. The conditions were set before you got here.
+dailyWorst: Keep your hands off it — nothing can be touched without catching, and the conditions were already set when you arrived.
 ---
 
 Sichuan Chickpeas are the Bean Zodiac's most combustible — they fit into every room, and in every room, eventually, something ignites.

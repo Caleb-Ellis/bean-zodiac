@@ -10,8 +10,8 @@ seasonalFortune: The unconventional route is right. Show the working before the 
 dailyNeutral: Show one step of the working. The destination is followable only if the path is visible.
 dailyGood: The alternative is complete; share the path before the result arrives.
 dailyBest: The full unconventional method deserves its moment — show every step of the working.
-dailyBad: The destination is clear, but the path is not. The connection broke somewhere behind you.
-dailyWorst: No one is still following. The route has gone past the point where any connection can be maintained.
+dailyBad: Go back and find where the connection broke; the destination is visible but the path behind you no longer is.
+dailyWorst: Lay a trail back toward where people can follow; the route has gone past the point where any connection remains.
 ---
 
 Kimchi Green Beans are the Bean Zodiac's most unconventional — their way of doing things maps to no existing template.

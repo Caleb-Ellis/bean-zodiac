@@ -10,7 +10,7 @@ seasonalFortune: The direction is right — turn around before you arrive, not a
 dailyNeutral: Keep the direction. The move is already right.
 dailyGood: The headstrong move is correct; bring everyone who can keep up.
 dailyBest: Move in the full direction, at full speed — and turn around before you arrive.
-dailyBad: Something behind has broken and is asking to be seen before you arrive. Turn back before going further.
+dailyBad: Turn back before going further; something behind has broken and is asking to be seen.
 dailyWorst: Change direction — everything ahead has been closed off and the force has nowhere left to go.
 ---
 

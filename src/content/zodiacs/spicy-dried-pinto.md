@@ -10,7 +10,7 @@ seasonalFortune: An intensity is coming that will ask for everything — rest ac
 dailyNeutral: The temperature is high. Give the work what the moment actually calls for.
 dailyGood: The full expressiveness is available; bring it entirely to what is in front of you.
 dailyBest: Hold nothing back from this one — everything you touch will carry the full fire.
-dailyBad: What is in range cannot hold this heat. Lower the temperature before something worth keeping is damaged.
+dailyBad: Lower the temperature — what is in range cannot hold this heat, and something worth keeping is about to be damaged.
 dailyWorst: Contain it — the full flame is more than the moment can hold.
 ---
 

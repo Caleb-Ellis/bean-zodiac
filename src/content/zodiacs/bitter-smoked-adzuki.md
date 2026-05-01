@@ -14,8 +14,8 @@ dailyBad: Keep the reading to yourself today; the room is not in a position to r
 dailyWorst: Say nothing — what you are seeing is real, but the timing has already closed the door.
 ---
 
-Ashen Adzuki Beans are the Bean Zodiac's most oracular — they carry the Adzuki's instinct for knowing when a moment is coming before it has announced itself.
+Charcoal Adzuki Beans are the Bean Zodiac's most oracular — they carry the Adzuki's instinct for knowing when a moment is coming before it has announced itself.
 
 Adzuki Beans know what deserves to be marked; Bitter Beans strip that knowledge to what is unarguably true; Smoked Beans deliver it from somewhere the source cannot be located.
 
-The Ashen Adzuki Bean's challenge is timing. A prophecy delivered after the fact is description, not guidance. These Beans must share the reading while there is still time to do something with it.
+The Charcoal Adzuki Bean's challenge is timing. A prophecy delivered after the fact is description, not guidance. These Beans must share the reading while there is still time to do something with it.

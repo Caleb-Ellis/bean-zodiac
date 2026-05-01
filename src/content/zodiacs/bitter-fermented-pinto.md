@@ -14,8 +14,8 @@ dailyBad: Make the faster version; craft applied to the wrong moment is still wa
 dailyWorst: Strip it back to the functional thing and hand it over — the full version belongs to a different occasion.
 ---
 
-Tinctured Pinto Beans are the Bean Zodiac's most artistic — they make something that could not exist without them.
+Cultured Pinto Beans are the Bean Zodiac's most artistic — they make something that could not exist without them.
 
 Pinto Bean is already painted, expression a condition of existence; Bitter Beans demand something from whoever encounters the work; Fermented Beans transform things privately.
 
-The Tinctured Pinto Bean's challenge is the audience. Art made entirely in private runs out of material. They need friction—not approval, but the resistance that keeps work honest.
+The Cultured Pinto Bean's challenge is the audience. Art made entirely in private runs out of material. They need friction—not approval, but the resistance that keeps work honest.

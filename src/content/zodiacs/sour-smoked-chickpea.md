@@ -14,8 +14,8 @@ dailyBad: Open up a little; the invitation is genuine and the caution is reading
 dailyWorst: Trust is forming somewhere else. The guard was the reason it couldn't happen here.
 ---
 
-Cold-Smoked Chickpeas are the Bean Zodiac's most wary — they have been everywhere, and they remember clearly what they found.
+Cured Chickpeas are the Bean Zodiac's most wary — they have been everywhere, and they remember clearly what they found.
 
 Chickpeas fit every room without committing to any of them; Sour Beans record what they observe without softening it; Smoked Beans carry that record from somewhere that cannot be read directly.
 
-The Cold-Smoked Chickpea's challenge is openness. Wariness is hard-won, but so is a wall. These Beans must find a room worth committing to.
+The Cured Chickpea's challenge is openness. Wariness is hard-won, but so is a wall. These Beans must find a room worth committing to.

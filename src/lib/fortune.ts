@@ -39,17 +39,17 @@ const daysSinceOrigin = (date: Date): number =>
   Math.floor((date.getTime() - ORIGIN_DATE.getTime()) / 86_400_000);
 
 const qualityFromSlot = (r: number): QualityId => {
-  if (r === 0) return QualityIds.Heirloom;
-  if (r === 1) return QualityIds.Market;
-  if (r === 2) return QualityIds.Garden;
-  if (r === 3) return QualityIds.Stale;
+  if (r < 1) return QualityIds.Heirloom;
+  if (r < 3) return QualityIds.Market;
+  if (r < 7) return QualityIds.Garden;
+  if (r < 9) return QualityIds.Stale;
   return QualityIds.Rotten;
 };
 
 const getQualityForSlug = (slug: string, date: Date): QualityId => {
   let h = daysSinceOrigin(date);
   for (const c of slug) h = (Math.imul(h, 31) + c.charCodeAt(0)) >>> 0;
-  return qualityFromSlot(h % 5);
+  return qualityFromSlot(h % 10);
 };
 
 const getDailyDimensions = (date: Date): DailyDimensions => {
@@ -100,15 +100,15 @@ const getFortuneZodiacId = (
 
   const phase = h32(d, personalIndex ^ (seasonalIndex << 9)) % 6;
 
-  // Personal and seasonal participate ~50% and ~33% of the time respectively.
+  // Personal and seasonal participate ~14% and ~20% of the time respectively.
   // When inactive, a unique fallback is derived from their index so each bean
   // gets its own deterministic substitute rather than the shared daily bean.
   const P =
-    h32(d, personalIndex) % 2 === 0
+    h32(d, personalIndex) % 7 === 0
       ? personal
       : makeFallbackDimensions(personalIndex, d);
   const S =
-    h32(d, seasonalIndex ^ (personalIndex * 0xdeadbeef)) % 3 !== 0
+    h32(d, seasonalIndex ^ (personalIndex * 0xdeadbeef)) % 5 === 0
       ? seasonal
       : makeFallbackDimensions(seasonalIndex, d);
 
@@ -129,7 +129,7 @@ export const getQualityLabel = (
     case QualityIds.Market:
       return { text: "Bright", className: "text-effect-emerald" };
     case QualityIds.Stale:
-      return { text: "Pale", className: "text-effect-fog" };
+      return { text: "Faded", className: "text-effect-fog" };
     case QualityIds.Rotten:
       return { text: "Dark", className: "text-effect-void" };
     default:

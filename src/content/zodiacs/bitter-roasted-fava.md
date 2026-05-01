@@ -14,8 +14,8 @@ dailyBad: Take the known path today; the experience behind that recommendation i
 dailyWorst: Return to the tried thing and stay there — this is not the moment to open new ground.
 ---
 
-Charcoal Fava Beans are the Bean Zodiac's most pioneering — they venture into unmapped territory.
+Wood-Fired Fava Beans are the Bean Zodiac's most pioneering — they venture into unmapped territory.
 
 Fava Bean requires effort, returning something simpler alternatives don't; Bitter Beans demand the effort points somewhere genuine; Roasted Beans radiate warmth bringing others along.
 
-The Charcoal Fava Bean's challenge is expecting others will follow. Pioneering is only as generative as the path it opens. They must stay connected to whether what they're building is habitable for others.
+The Wood-Fired Fava Bean's challenge is expecting others will follow. Pioneering is only as generative as the path it opens. They must stay connected to whether what they're building is habitable for others.

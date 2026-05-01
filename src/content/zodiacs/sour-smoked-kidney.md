@@ -14,8 +14,8 @@ dailyBad: Bring the temperature down; what was applied has been called dispropor
 dailyWorst: The damage is real and the full force is the reason it is not healing. Step back and let it cool.
 ---
 
-Cold-Smoked Kidney Beans are the Bean Zodiac's most scorching — something this honest and this passionate leaves marks that are not immediately visible.
+Cured Kidney Beans are the Bean Zodiac's most scorching — something this honest and this passionate leaves marks that are not immediately visible.
 
 Kidney Beans protect what they love at full intensity; Sour Beans cut to what is true and say it plainly; Smoked Beans carry the heat from somewhere offstage, which only makes it worse.
 
-The Cold-Smoked Kidney Bean's challenge is measured force. The most scorching truths are the ones that could have been softened and weren't — so at least choose the ones worth that.
+The Cured Kidney Bean's challenge is measured force. The most scorching truths are the ones that could have been softened and weren't — so at least choose the ones worth that.

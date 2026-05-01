@@ -14,8 +14,8 @@ dailyBad: Offer less of the read; the exactness of it arrived as something close
 dailyWorst: A distance has formed that wasn't there before. Reading this precisely is the reason.
 ---
 
-Cold-Smoked Cannellini Beans are the Bean Zodiac's most piercing — their discernment arrives before the sentence has been finished.
+Cured Cannellini Beans are the Bean Zodiac's most piercing — their discernment arrives before the sentence has been finished.
 
 Cannellini Beans refine and remove what does not belong; Sour Beans clarify without sentiment; Smoked Beans make the cut from an angle no one anticipated.
 
-The Cold-Smoked Cannellini Bean's challenge is timing. Precision delivered too early is still a wound. These Beans must wait until the room is ready to receive what they are offering.
+The Cured Cannellini Bean's challenge is timing. Precision delivered too early is still a wound. These Beans must wait until the room is ready to receive what they are offering.

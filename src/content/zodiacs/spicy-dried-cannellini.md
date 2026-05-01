@@ -10,8 +10,8 @@ seasonalFortune: The marks made this season will last. Choose each one with the 
 dailyNeutral: Slow the precision down just enough to confirm the aim before it lands.
 dailyGood: The precision is full and the heat is behind it; apply both with care.
 dailyBest: Everything that meets your full attention will carry it permanently — bring your best aim.
-dailyBad: What is receiving your full attention was not built to hold it. Pull back before more is applied than it can take.
-dailyWorst: Everything arriving is asking to be marked; the demand on the precision is total and will not let up.
+dailyBad: Pull back — what is receiving your full attention was not built to hold it, and more is being applied than it can take.
+dailyWorst: Step back from the demand — everything arriving is asking to be marked, and the precision cannot answer all of it.
 ---
 
 Sichuan Cannellini Beans are the Bean Zodiac's most searing — the precision is exact and the heat is real, and together they leave a mark.

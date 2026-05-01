@@ -14,8 +14,8 @@ dailyBad: Someone else is setting the pace now; match it, at least until the mom
 dailyWorst: Everyone has moved on — say something, anything, before the gap becomes a wall.
 ---
 
-Decocted Black Beans are the Bean Zodiac's most measured — not through restraint learned, but through a nature that has never needed to speak before it is certain.
+Infused Black Beans are the Bean Zodiac's most measured — not through restraint learned, but through a nature that has never needed to speak before it is certain.
 
 Black Beans give up their richness slowly; Bitter Beans strip away anything unearned; Boiled Beans work in silence.
 
-The Decocted Black Bean's challenge is legibility. Composure held too long becomes opacity, and opacity looks a great deal like coldness. These Beans must let some of the broth show before the dish is finished.
+The Infused Black Bean's challenge is legibility. Composure held too long becomes opacity, and opacity looks a great deal like coldness. These Beans must let some of the broth show before the dish is finished.

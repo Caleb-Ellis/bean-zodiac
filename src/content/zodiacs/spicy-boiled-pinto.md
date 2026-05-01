@@ -10,7 +10,7 @@ seasonalFortune: A recurring pattern will become visible — let the Beans near 
 dailyNeutral: The weather is yours — let it move through fully.
 dailyGood: The shift is real and total; let those nearby know what is happening.
 dailyBest: Every emotional front arriving is genuine — meet each one entirely and mean it.
-dailyBad: The weather is shifting faster than those nearby can follow — they are losing the thread.
+dailyBad: Slow down enough to bring those nearby along — they have lost the thread.
 dailyWorst: Hold steady — the pressure to flatten everything and push through will not stop.
 ---
 

@@ -14,8 +14,8 @@ dailyBad: Skip the reduction and taste it now — a good guess beats a late answ
 dailyWorst: Put the framework down and just decide; the moment has outpaced the method.
 ---
 
-Decocted Edamame are the Bean Zodiac's most analytical — they take things apart to understand their structure.
+Infused Edamame are the Bean Zodiac's most analytical — they take things apart to understand their structure.
 
 Edamame cuts to what is actually needed; Bitter Beans demand evidence before accepting anything; Boiled Beans follow analysis all the way through without rushing.
 
-The Decocted Edamame's challenge is that not every problem is structural. Some things yield to feeling before analysis. They must occasionally taste the broth before finishing the reduction.
+The Infused Edamame's challenge is that not every problem is structural. Some things yield to feeling before analysis. They must occasionally taste the broth before finishing the reduction.

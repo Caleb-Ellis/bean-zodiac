@@ -14,8 +14,8 @@ dailyBad: Set the method aside; it is working against what is actually in front 
 dailyWorst: Abandon the map — it was wrong before you started following it.
 ---
 
-Honeyed Edamame are the Bean Zodiac's most systematic — they think about how things work before committing.
+Funky Edamame are the Bean Zodiac's most systematic — they think about how things work before committing.
 
 Edamame builds toward what is actually needed; Sweet Beans make the system generous, sustaining others as well; Fermented Beans develop the approach in private and arrive with durability.
 
-The Honeyed Edamame's challenge is that good systems outlive the problems they were built for. They must be willing to pull apart and rebuild from a new start.
+The Funky Edamame's challenge is that good systems outlive the problems they were built for. They must be willing to pull apart and rebuild from a new start.

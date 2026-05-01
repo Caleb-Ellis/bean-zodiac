@@ -14,8 +14,8 @@ dailyBad: Let the rough version stand; improving everything in the room can feel
 dailyWorst: Accept the cruder outcome and move on — holding the standard here is costing more goodwill than it is worth.
 ---
 
-Charcoal Cannellini Beans are the Bean Zodiac's most refined — they improve everything they touch.
+Wood-Fired Cannellini Beans are the Bean Zodiac's most refined — they improve everything they touch.
 
 Cannellini Bean improves through presence; Bitter Beans keep refinement from sliding into mere ornament; Roasted Beans fill the room, coaxing arrangements outward.
 
-The Charcoal Cannellini Bean's challenge is approachability. Refinement that signals too clearly becomes intimidating. They must remember the goal is elevating surroundings, not replacing them.
+The Wood-Fired Cannellini Bean's challenge is approachability. Refinement that signals too clearly becomes intimidating. They must remember the goal is elevating surroundings, not replacing them.

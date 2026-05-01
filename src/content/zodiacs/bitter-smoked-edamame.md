@@ -14,8 +14,8 @@ dailyBad: Say what you know; it is being asked for directly, and the silence is 
 dailyWorst: Speak before the wrong conclusion gets any further — what you have not said is already being acted on.
 ---
 
-Ashen Edamame are the Bean Zodiac's most reticent — they see the situation immediately, and they say very little about it.
+Charcoal Edamame are the Bean Zodiac's most reticent — they see the situation immediately, and they say very little about it.
 
 Edamame cut through noise and reach the conclusion first; Bitter Beans refuse to share what hasn't been earned; Smoked Beans let the understanding hang in the air without declaration.
 
-The Ashen Edamame's challenge is transmission. Conclusions kept entirely to oneself become indistinguishable from having had none. These Beans must share the finding before it expires.
+The Charcoal Edamame's challenge is transmission. Conclusions kept entirely to oneself become indistinguishable from having had none. These Beans must share the finding before it expires.

@@ -14,8 +14,8 @@ dailyBad: Dilute it slightly; the full strength arrived as overwhelming and that
 dailyWorst: The intensity is the reason things are emptying out. Dial it back before the space is entirely clear.
 ---
 
-Cold-Smoked Green Beans are the Bean Zodiac's most pungent — their optimism has developed an edge that fills the room before they have entered it.
+Cured Green Beans are the Bean Zodiac's most pungent — their optimism has developed an edge that fills the room before they have entered it.
 
 Green Beans are bright and insist on being used immediately; Sour Beans give that insistence a clarifying sharpness; Smoked Beans send the quality ahead in ways that are not always intended.
 
-The Cold-Smoked Green Bean's challenge is subtlety. At this concentration, the energy precedes any chance of being received. These Beans must learn to arrive before making an entrance.
+The Cured Green Bean's challenge is subtlety. At this concentration, the energy precedes any chance of being received. These Beans must learn to arrive before making an entrance.

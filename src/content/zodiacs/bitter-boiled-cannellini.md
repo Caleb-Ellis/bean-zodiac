@@ -14,8 +14,8 @@ dailyBad: Let the imperfect thing in — sometimes good enough is exactly what t
 dailyWorst: Drop the standard entirely for now; holding it here costs more than what it protects.
 ---
 
-Decocted Cannellini Beans are the Bean Zodiac's most discerning — they judge carefully what deserves their attention.
+Infused Cannellini Beans are the Bean Zodiac's most discerning — they judge carefully what deserves their attention.
 
 Cannellini Bean elevates everything it touches; Bitter Beans strip away what hasn't earned its place; Boiled Beans steep slowly, building certainty.
 
-The Decocted Cannellini Bean's challenge is knowing when standards become walls. They must remember that discernment finds what is good, not just keeps everything out.
+The Infused Cannellini Bean's challenge is knowing when standards become walls. They must remember that discernment finds what is good, not just keeps everything out.

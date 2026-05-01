@@ -14,8 +14,8 @@ dailyBad: Pause and ask what has changed; the forward motion is being read as di
 dailyWorst: The attempts to redirect have stopped. Unstoppable and unresponsive have become the same thing.
 ---
 
-Cold-Smoked Navy Beans are the Bean Zodiac's most inexorable — they do not stop, and they do not explain their motion while it is occurring.
+Cured Navy Beans are the Bean Zodiac's most inexorable — they do not stop, and they do not explain their motion while it is occurring.
 
 Navy Beans hold to the structure and do not require persuasion; Sour Beans cut through delay; Smoked Beans give the forward motion an origin no one can appeal to.
 
-The Cold-Smoked Navy Bean's challenge is consultation. What is inexorable is also unresponsive. These Beans must stop long enough to find out if anything has changed.
+The Cured Navy Bean's challenge is consultation. What is inexorable is also unresponsive. These Beans must stop long enough to find out if anything has changed.

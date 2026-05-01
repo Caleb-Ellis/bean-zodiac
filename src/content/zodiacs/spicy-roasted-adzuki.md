@@ -10,7 +10,7 @@ seasonalFortune: The bright start will need nourishment through the hard middle 
 dailyNeutral: The warmth is real — give it freely to what is in front of you.
 dailyGood: The enthusiasm is high; bring it to the thing that most deserves the full temperature.
 dailyBest: Everything deserves the full warmth — give it completely, and find what sustains it through the middle.
-dailyBad: What arrived with full enthusiasm landed somewhere that could not receive it. Pull back and find a better surface.
+dailyBad: Pull back and find a better surface; what arrived with full enthusiasm landed somewhere that could not receive it.
 dailyWorst: Withdraw the warmth — the conditions cannot use it and it is being wasted.
 ---
 

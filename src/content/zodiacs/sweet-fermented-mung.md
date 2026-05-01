@@ -14,8 +14,8 @@ dailyBad: Say the hard thing gently — the softness has been protecting against
 dailyWorst: Say it plainly; the careful circling has used up the moment.
 ---
 
-Honeyed Mung Beans are the Bean Zodiac's gentlest — not from softness but from long interior work on what care requires.
+Funky Mung Beans are the Bean Zodiac's gentlest — not from softness but from long interior work on what care requires.
 
 Mung Beans restore; Sweet Beans hold the warmth that is easy to receive; Fermented Beans work out the gentleness in private, arriving with precision.
 
-The Honeyed Mung Bean's challenge is their own interior. They must turn the gentleness around, extending it to themselves as carefully as they extend it to others.
+The Funky Mung Bean's challenge is their own interior. They must turn the gentleness around, extending it to themselves as carefully as they extend it to others.

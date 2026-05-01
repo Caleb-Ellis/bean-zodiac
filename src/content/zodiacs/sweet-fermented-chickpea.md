@@ -14,8 +14,8 @@ dailyBad: Come back to yourself; the need is pulling you further in than you can
 dailyWorst: Find the line between what is yours and what is not — it has been lost, and you are feeling the difference.
 ---
 
-Honeyed Chickpeas are the Bean Zodiac's most empathetic — they feel what someone is carrying before that person has named it.
+Funky Chickpeas are the Bean Zodiac's most empathetic — they feel what someone is carrying before that person has named it.
 
 Chickpeas translate between temperaments naturally; Sweet Beans ensure the attention is warm; Fermented Beans work the operation internal until understanding emerges.
 
-The Honeyed Chickpea's challenge is their own interior. They must know where they end before taking on what belongs to someone else.
+The Funky Chickpea's challenge is their own interior. They must know where they end before taking on what belongs to someone else.

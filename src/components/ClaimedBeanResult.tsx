@@ -167,7 +167,7 @@ export default function ClaimedBeanResult({
                     className={`flex items-center gap-2 px-3 py-1 rounded-full border text-sm transition-colors cursor-pointer ${score === 1 ? "bg-green-900/40 border-green-800 text-green-200" : "bg-transparent border-slate-700 text-slate-500 hover:border-green-700 hover:text-green-300"}`}
                   >
                     <span>🌱</span>
-                    <span>Rings true</span>
+                    <span>Accept</span>
                   </button>
                   <button
                     onClick={() => handleScore(-1)}
@@ -175,7 +175,7 @@ export default function ClaimedBeanResult({
                     className={`flex items-center gap-2 px-3 py-1 rounded-full border text-sm transition-colors cursor-pointer ${score === -1 ? "bg-amber-900/40 border-amber-800 text-amber-200" : "bg-transparent border-zinc-700 text-zinc-500 hover:border-amber-700 hover:text-amber-300"}`}
                   >
                     <span>🍂</span>
-                    <span>Rings hollow</span>
+                    <span>Resist</span>
                   </button>
                 </div>
                 <a
@@ -309,7 +309,7 @@ export default function ClaimedBeanResult({
             onClick={() => {
               if (
                 window.confirm(
-                  "Are you sure you want to relinquish your Bean? Your Legunomicon fortune history will also be deleted.",
+                  "Are you sure you want to relinquish your Bean? Your Beaniary, Legunomicon and Spirit Bean will be reset.",
                 )
               ) {
                 clearFortuneHistory();

@@ -3,20 +3,12 @@ import type { QualityId } from "../lib/fortune";
 import type { BeanSchema } from "../schemas";
 import styles from "./Bean.module.css";
 
-const QUALITY_SATURATE: Record<QualityId, number> = {
-  rotten: 0,
-  stale: 0.5,
-  garden: 1,
-  market: 1.5,
-  heirloom: 2,
-};
-
-const QUALITY_BRIGHTNESS: Record<QualityId, number> = {
-  rotten: 0,
-  stale: 0.75,
-  garden: 1,
-  market: 1.25,
-  heirloom: 1.5,
+const QUALITY_FILTER: Record<QualityId, string> = {
+  rotten: "saturate(0) brightness(0)",
+  stale: "saturate(0.5) brightness(0.5)",
+  garden: "saturate(1) brightness(1)",
+  market: "saturate(1.5) brightness(1.125) contrast(1.25)",
+  heirloom: "saturate(2) brightness(1.25) contrast(1.5)",
 };
 
 type Props = {
@@ -47,8 +39,7 @@ export default function Bean({ bean, flavourId, formId, qualityId }: Props) {
         style={
           qualityId != null
             ? ({
-                "--quality-saturate": QUALITY_SATURATE[qualityId],
-                "--quality-brightness": QUALITY_BRIGHTNESS[qualityId],
+                "--quality-filter": QUALITY_FILTER[qualityId],
               } as React.CSSProperties)
             : undefined
         }

@@ -14,8 +14,8 @@ dailyBad: Make the care tangible; something here needs to be held, not sensed.
 dailyWorst: Show up in a way that can be pointed to — the presence is real, but right now it cannot be found.
 ---
 
-Ashen Mung Beans are the Bean Zodiac's most ethereal — their care reaches beyond where others can see it going, to things without clear form.
+Charcoal Mung Beans are the Bean Zodiac's most ethereal — their care reaches beyond where others can see it going, to things without clear form.
 
 Mung Beans tend conditions without rushing to visible results; Bitter Beans reduce the care to what is strictly necessary; Smoked Beans let it arrive from somewhere the recipient cannot point to.
 
-The Ashen Mung Bean's challenge is tangibility. Ethereal care is difficult to receive. These Beans must make their presence legible enough to be taken in.
+The Charcoal Mung Bean's challenge is tangibility. Ethereal care is difficult to receive. These Beans must make their presence legible enough to be taken in.

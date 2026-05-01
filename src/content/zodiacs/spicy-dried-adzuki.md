@@ -10,8 +10,8 @@ seasonalFortune: A fire is building. Check now whether what it will consume is w
 dailyNeutral: Choose the thing that deserves to catch, then send the spark.
 dailyGood: The fire is real and ready; send it at the thing that can carry it.
 dailyBest: Aim well — everything you ignite will spread exactly as far as you direct it.
-dailyBad: The target has shifted since you last looked. What the spark finds will not be what was intended.
-dailyWorst: There is nothing worth directing it toward. Whatever is sent will land on whatever is nearest.
+dailyBad: Check the target again before sending — it has shifted, and the spark will not find what was intended.
+dailyWorst: Hold the spark — there is nothing worth directing it toward, and what you send will land on whatever is nearest.
 ---
 
 Sichuan Adzuki Beans are the Bean Zodiac's most incendiary — the joy has been concentrated into something that can start a fire.

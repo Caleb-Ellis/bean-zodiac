@@ -11,7 +11,7 @@ dailyNeutral: The feeling is real — let it show.
 dailyGood: The emotion is at full strength; extend it outward and read where it is landing.
 dailyBest: Feel everything at full temperature and pour it outward — completely, without apology.
 dailyBad: Scale back what you are offering — everything arriving with full feeling is being held at a distance.
-dailyWorst: What is pouring out has nowhere to go. The capacity for it has closed and nothing is coming through.
+dailyWorst: Find somewhere for it to go; what is pouring out has no capacity left to receive it.
 ---
 
 Peri-Peri Kidney Beans are the Bean Zodiac's most emotive — they feel fully and extend it outward without apology.

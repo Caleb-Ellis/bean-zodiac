@@ -14,8 +14,8 @@ dailyBad: Take this one on alone; the group will slow it down more than they wil
 dailyWorst: Close the door and finish it yourself — this part of the work does not belong to anyone else.
 ---
 
-Tinctured Chickpeas are the Bean Zodiac's most collaborative — they understand what is made together can be better than what either could alone.
+Cultured Chickpeas are the Bean Zodiac's most collaborative — they understand what is made together can be better than what either could alone.
 
 Chickpea finds common ground between temperaments as instinct; Bitter Beans discern which collaborations are worth it; Fermented Beans take work somewhere private, where transformation happens without performance.
 
-The Tinctured Chickpea's challenge is the solo task. Not everything can be done with others, and some things are done worse for trying. They must make peace with the work only they can finish.
+The Cultured Chickpea's challenge is the solo task. Not everything can be done with others, and some things are done worse for trying. They must make peace with the work only they can finish.

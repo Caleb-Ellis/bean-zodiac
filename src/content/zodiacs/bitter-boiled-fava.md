@@ -14,8 +14,8 @@ dailyBad: Take the easier path today; not every hill needs to be the one you die
 dailyWorst: Stand down — the hard thing can wait, and insisting otherwise is its own kind of foolishness.
 ---
 
-Decocted Fava Beans are the Bean Zodiac's most courageous — they face what is difficult without hesitation.
+Infused Fava Beans are the Bean Zodiac's most courageous — they face what is difficult without hesitation.
 
 Fava Bean knows what is worth having requires double preparation; Bitter Beans ensure the courageous act genuinely earns its name; Boiled Beans build courage into a steady practice, not a single moment.
 
-The Decocted Fava Bean's challenge is knowing not every difficult thing deserves facing. Courage without discernment is just endurance. They must ask whether what they face is worth it.
+The Infused Fava Bean's challenge is knowing not every difficult thing deserves facing. Courage without discernment is just endurance. They must ask whether what they face is worth it.

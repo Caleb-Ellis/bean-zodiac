@@ -14,8 +14,8 @@ dailyBad: Come out of it; the absence has been felt and presence was needed.
 dailyWorst: Surface now — the distance has been accepted as permanent, and that window is closing.
 ---
 
-Honeyed Navy Beans are the Bean Zodiac's most introverted — they live comfortably in a rich inner world.
+Funky Navy Beans are the Bean Zodiac's most introverted — they live comfortably in a rich inner world.
 
 Navy Beans do what is required without needing notice; Sweet Beans keep the inner world warm and generous; Fermented Beans build something substantial that doesn't require an audience.
 
-The Honeyed Navy Bean's challenge is warmth that doesn't travel. They must occasionally bring the warmth out where it can affect someone else's room.
+The Funky Navy Bean's challenge is warmth that doesn't travel. They must occasionally bring the warmth out where it can affect someone else's room.

@@ -14,8 +14,8 @@ dailyBad: Step out of it; the thinking has run past what it can produce.
 dailyWorst: Surface something now, even unfinished — the window is closing.
 ---
 
-Honeyed Black Beans are the Bean Zodiac's most contemplative — occupied with an interior that has been working for a long time.
+Funky Black Beans are the Bean Zodiac's most contemplative — occupied with an interior that has been working for a long time.
 
 Black Beans develop their richness slowly; Sweet Beans make the interior work something closer to pleasure; Fermented Beans work at depth, unpressured by external timeline.
 
-The Honeyed Black Bean's challenge is emergence. They must find the form in which what they have been considering becomes available to others, not just to themselves.
+The Funky Black Bean's challenge is emergence. They must find the form in which what they have been considering becomes available to others, not just to themselves.

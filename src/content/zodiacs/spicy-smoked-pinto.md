@@ -11,7 +11,7 @@ dailyNeutral: Pick the thread and stay with it. The direction will become clear.
 dailyGood: The expressiveness is at full temperature; find one thread and run the full length of it.
 dailyBest: Everything runs at full heat — pick the thread completely and follow it to its end.
 dailyBad: Pause before the next shift — one more has been one too many and what was readable is no longer trackable.
-dailyWorst: The thread has been lost and nothing is being followed anymore. Find the last clear point and start from there.
+dailyWorst: Find the last clear point and start from there; the thread has been lost and nothing is being followed.
 ---
 
 Chipotle Pinto Beans are the Bean Zodiac's most erratic — the expressiveness is vivid, the temperature is high, and the direction changes before it can be followed.

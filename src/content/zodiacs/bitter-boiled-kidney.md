@@ -14,8 +14,8 @@ dailyBad: Take the exit; not every commitment that felt right still is.
 dailyWorst: Let it go — staying past this point is not devotion, it is just inertia with a better story.
 ---
 
-Decocted Kidney Beans are the Bean Zodiac's most loyal — they commit completely and stay, long after others leave.
+Infused Kidney Beans are the Bean Zodiac's most loyal — they commit completely and stay, long after others leave.
 
 Kidney Bean runs at a depth ordinary commitment cannot reach; Bitter Beans refuse loyalty to those who haven't earned it; Boiled Beans make decisions completely.
 
-The Decocted Kidney Bean's challenge is knowing loyalty is a practice, not a credential. They must not let commitment become a reason to stay when staying no longer serves.
+The Infused Kidney Bean's challenge is knowing loyalty is a practice, not a credential. They must not let commitment become a reason to stay when staying no longer serves.

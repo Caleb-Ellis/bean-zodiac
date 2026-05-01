@@ -14,8 +14,8 @@ dailyBad: Find the common ground and meet them there; the distance is real, but 
 dailyWorst: Come all the way back — wherever you have been, the people here need you present, not translated.
 ---
 
-Ashen Fava Beans are the Bean Zodiac's most otherworldly — their courage has led them somewhere that takes others considerable time to follow.
+Charcoal Fava Beans are the Bean Zodiac's most otherworldly — their courage has led them somewhere that takes others considerable time to follow.
 
 Fava Beans move toward difficulty before the outcome is guaranteed; Bitter Beans strip the destination to what is strictly true; Smoked Beans return with something whose origin cannot be explained in ordinary terms.
 
-The Ashen Fava Bean's challenge is translation. What was found somewhere else must still be brought somewhere it can be used. These Beans must find the form.
+The Charcoal Fava Bean's challenge is translation. What was found somewhere else must still be brought somewhere it can be used. These Beans must find the form.

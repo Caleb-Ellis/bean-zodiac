@@ -14,8 +14,8 @@ dailyBad: Move now with what you have; the preparation has done its job and the 
 dailyWorst: Skip the contingency and act — waiting for the full picture here is costing more than the risk.
 ---
 
-Charcoal Navy Beans are the Bean Zodiac's most prudent — they anticipate what could go wrong.
+Wood-Fired Navy Beans are the Bean Zodiac's most prudent — they anticipate what could go wrong.
 
 Navy Bean is principled and dependable; Bitter Beans identify where failure might come; Roasted Beans hold warmth, keeping analysis from curdling into paralysis.
 
-The Charcoal Navy Bean's challenge is the contingency that becomes the plan. Prudence that never commits is hesitation with better vocabulary. They must let preparation become an action.
+The Wood-Fired Navy Bean's challenge is the contingency that becomes the plan. Prudence that never commits is hesitation with better vocabulary. They must let preparation become an action.

@@ -10,7 +10,7 @@ seasonalFortune: A motion will find its limit — learn the difference between t
 dailyNeutral: Move. The force is real and the direction is clear.
 dailyGood: The unbridled force is at full strength; find the limit that is a feature, not a constraint.
 dailyBest: Move with complete freedom — and find the boundary that makes it sustainable.
-dailyBad: The structure around the work has given way — what was built has nothing to hold it and is asking for a boundary.
+dailyBad: Set a boundary before more spills; the structure has given way and what was built has nothing left to hold it.
 dailyWorst: Contain what is left — the edges have given way and the work has spilled past what can be recovered.
 ---
 

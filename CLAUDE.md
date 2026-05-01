@@ -19,13 +19,13 @@ pnpm fmt / fmt:check / lint / lint:fix
 
 A **Preparation** = Flavour × Form name (30 total). Lookup: `getPreparationName(flavourId, formId)` via `PREPARATION_NAMES` in `zodiac.ts`.
 
-|        | boiled   | dried        | fermented | fried       | roasted     | smoked      |
-| ------ | -------- | ------------ | --------- | ----------- | ----------- | ----------- |
-| bitter | Decocted | Desiccated   | Tinctured | Scorched    | Charcoal    | Ashen       |
-| sour   | Brined   | Dehydrated   | Pickled   | Agrodolce   | Chimichurri | Cold-Smoked |
-| spicy  | Braised  | Sichuan      | Kimchi    | Red-Hot     | Peri-Peri   | Chipotle    |
-| sweet  | Candied  | Crystallised | Honeyed   | Caramelised | Glazed      | Barbecued   |
-| umami  | Dashi    | Aged         | Miso      | Tempura     | Rendered    | Hickory     |
+|        | boiled  | dried        | fermented | fried       | roasted     | smoked    |
+| ------ | ------- | ------------ | --------- | ----------- | ----------- | --------- |
+| bitter | Infused | Desiccated   | Cultured  | Scorched    | Wood-Fired  | Charcoal  |
+| sour   | Brined  | Dehydrated   | Pickled   | Agrodolce   | Chimichurri | Cured     |
+| spicy  | Braised | Sichuan      | Kimchi    | Red-Hot     | Peri-Peri   | Chipotle  |
+| sweet  | Candied | Crystallised | Funky     | Caramelised | Glazed      | Barbecued |
+| umami  | Dashi   | Aged         | Miso      | Tempura     | Rendered    | Hickory   |
 
 ### Content Collections
 
@@ -83,7 +83,7 @@ Client props use `ZodiacSliceData` (beans + flavours + forms only) — not the f
 - **`ZodiacSliceData`** — `Omit<ZodiacData, "zodiacs">`. Built with `buildZodiacSliceData(beans, flavours, forms)`. Passed as props to all three interactive pages (~15KB vs ~720KB for full data).
 - **`/api/zodiacs/[slug].json`** — 360 static JSON files, one per zodiac (~1.5KB each). Generated at build time from `src/pages/api/zodiacs/[slug].json.ts`.
 - **`fetchZodiac(zodiacId)`** — fetches a single zodiac JSON file. Used by components at runtime.
-- **`getDailyFortuneIds(date, personalSlug)`** — synchronous; returns `{ zodiacId, qualityId }` without needing the zodiacs dict. Pair with `getFortuneText(zodiac, qualityId)` after fetching.
+- **`getDailyFortuneIds(date, personalSlug)`** — synchronous; returns `{ zodiacId, qualityId }` without needing the zodiacs dict. Pair with `getFortuneText(zodiac, qualityId)` after fetching. Stale and Rotten fortunes show negative text; resonance votes are inverted for Spirit Bean scoring.
 
 **Per-page fetch strategy:**
 

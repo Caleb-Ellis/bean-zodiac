@@ -14,8 +14,8 @@ dailyBad: Leave it a little rough today; not every surface needs to be finished 
 dailyWorst: Hand over the raw version — the polish is costing this more than it is adding.
 ---
 
-Charcoal Adzuki Beans are the Bean Zodiac's most polished — impeccable without being cold.
+Wood-Fired Adzuki Beans are the Bean Zodiac's most polished — impeccable without being cold.
 
 Adzuki Bean knows when something deserves marking; Bitter Beans ensure marking is genuinely earned; Roasted Beans coax everything into fullest expression without apology.
 
-The Charcoal Adzuki Bean's challenge is allowing imperfection in the room. A polished temperament can make others feel underdressed. They must occasionally let the evening be rough and stay in it.
+The Wood-Fired Adzuki Bean's challenge is allowing imperfection in the room. A polished temperament can make others feel underdressed. They must occasionally let the evening be rough and stay in it.

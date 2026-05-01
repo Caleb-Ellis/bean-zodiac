@@ -14,8 +14,8 @@ dailyBad: Wait for the full picture; a side has been taken before it arrived.
 dailyWorst: Let the new information in — the position has closed, and that is the problem.
 ---
 
-Honeyed Kidney Beans are the Bean Zodiac's most sympathetic — they have processed their own experience enough to recognize what someone else is carrying.
+Funky Kidney Beans are the Bean Zodiac's most sympathetic — they have processed their own experience enough to recognize what someone else is carrying.
 
 Kidney Beans take hard seasons seriously; Sweet Beans hold what they've learned without bitterness; Fermented Beans convert it into understanding.
 
-The Honeyed Kidney Bean's challenge is not projecting. They must leave space for the other person's difficulty to be different from their own.
+The Funky Kidney Bean's challenge is not projecting. They must leave space for the other person's difficulty to be different from their own.

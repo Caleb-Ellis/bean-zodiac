@@ -10,7 +10,7 @@ seasonalFortune: What you have been absorbing without showing will need a form �
 dailyNeutral: Receive what arrives — completely, and without theatre.
 dailyGood: The heat is real; take it fully and let the composure speak.
 dailyBest: Everything arriving is yours to absorb; your stillness is the work.
-dailyBad: The composure is holding, but nothing is reaching you — the absorption has stopped.
+dailyBad: Drop the composure enough to let something through — nothing is reaching you.
 dailyWorst: The pressure will not ease until something shows — give it a small surface to land on.
 ---
 

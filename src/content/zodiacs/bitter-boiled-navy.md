@@ -14,8 +14,8 @@ dailyBad: Take the exception; a rule that bends here does not break everywhere.
 dailyWorst: Let the framework go for now — not every situation owes it a hearing.
 ---
 
-Decocted Navy Beans are the Bean Zodiac's most dogmatic — they apply a framework fully, conviction embedded so deeply it becomes invisible.
+Infused Navy Beans are the Bean Zodiac's most dogmatic — they apply a framework fully, conviction embedded so deeply it becomes invisible.
 
 Navy Bean believes in systems it has tested; Bitter Beans strip away what hasn't earned merit; Boiled Beans steep conviction so slowly it becomes invisible to them.
 
-The Decocted Navy Bean's challenge is the system outlived by its evidence. A principle with no memory of its origin is inherited, not principled. They must ask whether the structure still serves what it was built for.
+The Infused Navy Bean's challenge is the system outlived by its evidence. A principle with no memory of its origin is inherited, not principled. They must ask whether the structure still serves what it was built for.

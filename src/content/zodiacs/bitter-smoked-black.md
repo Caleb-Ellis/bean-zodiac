@@ -14,8 +14,8 @@ dailyBad: Let yourself be located; the influence is real, but it needs a name at
 dailyWorst: Show up visibly and stay there — the tracelessness has crossed from mystery into absence, and people are noticing.
 ---
 
-Ashen Black Beans are the Bean Zodiac's most spectral — they move through rooms without leaving a clear account of how anything was changed.
+Charcoal Black Beans are the Bean Zodiac's most spectral — they move through rooms without leaving a clear account of how anything was changed.
 
 Black Beans hold their richness back until trust is earned; Bitter Beans strip sentiment to bare signal; Smoked Beans make the influence untraceable until long after.
 
-The Ashen Black Bean's challenge is acknowledgment. A presence that can never be located is not connection — it is haunting. These Beans must occasionally let themselves be placed.
+The Charcoal Black Bean's challenge is acknowledgment. A presence that can never be located is not connection — it is haunting. These Beans must occasionally let themselves be placed.

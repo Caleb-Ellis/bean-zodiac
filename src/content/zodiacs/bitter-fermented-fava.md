@@ -14,8 +14,8 @@ dailyBad: Accept the answer that's been given and let it close; not every settle
 dailyWorst: Stop asking — the room has run out of goodwill for it, and one more question will cost more than the answer is worth.
 ---
 
-Tinctured Fava Beans are the Bean Zodiac's most questioning — they pull at what others accept, knowing the best things require more than first answers.
+Cultured Fava Beans are the Bean Zodiac's most questioning — they pull at what others accept, knowing the best things require more than first answers.
 
 Fava Bean knows the best things are behind resistance; Bitter Beans withhold assent until something earns it; Fermented Beans work privately and thoroughly.
 
-The Tinctured Fava Bean's challenge is knowing when a question has been sufficiently answered. Questioning without an off switch is its own rigidity. They must eventually let something be settled.
+The Cultured Fava Bean's challenge is knowing when a question has been sufficiently answered. Questioning without an off switch is its own rigidity. They must eventually let something be settled.

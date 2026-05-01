@@ -10,8 +10,8 @@ seasonalFortune: The question has been building. Ask it — then stay present fo
 dailyNeutral: The question is worth asking. Ask it, then hold your position.
 dailyGood: The provocation is ready; put it forward and stay in what follows.
 dailyBest: Say the thing that rearranges the conversation — and stay for every word of what comes after.
-dailyBad: What was meant to open something has closed it instead. Wait before sending the next one.
-dailyWorst: The conversation has ended before it could be held open. Nothing is left worth pressing against.
+dailyBad: Wait before sending the next one; what was meant to open something has closed it instead.
+dailyWorst: Walk away; the conversation closed before it could be held open, and nothing remains worth pressing.
 ---
 
 Kimchi Adzuki Beans are the Bean Zodiac's most provocative — they emerge from the dark to rearrange the conversation.

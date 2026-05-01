@@ -10,7 +10,7 @@ seasonalFortune: The system will hold — ask once before it does what it is in 
 dailyNeutral: Run the system. The structure is sound and the efficiency is real.
 dailyGood: The structure is sound; run through it at full speed and ask what it produced.
 dailyBest: Everything runs through the system at full efficiency — stay aware of what the structure is actually for.
-dailyBad: The system ran efficiently toward a goal that no longer holds.
+dailyBad: Update the goal; the system ran efficiently toward one that no longer holds.
 dailyWorst: Stop the system and update the goal — everything is running efficiently toward something that no longer exists.
 ---
 

@@ -10,7 +10,7 @@ seasonalFortune: What you refuse to release will be tested — and the hold that
 dailyNeutral: Stay with it past the point where it would be easier to let go.
 dailyGood: The pressure has been building; your shape remains — keep the hold.
 dailyBest: The room will exhaust itself before you do; hold completely.
-dailyBad: The hold has become a delay — others have finished and the room is waiting on you.
+dailyBad: Move — others have finished and the delay is yours now.
 dailyWorst: Release it; the thing you are gripping has already let go of you.
 ---
 

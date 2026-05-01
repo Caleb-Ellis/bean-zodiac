@@ -14,8 +14,8 @@ dailyBad: Turn it down a notch; the room needs less heat right now, not more.
 dailyWorst: Pull back entirely — what you're bringing is landing as weight, not presence, and the difference matters.
 ---
 
-Tinctured Kidney Beans are the Bean Zodiac's most intense — they carry more beneath the surface than most will show.
+Cultured Kidney Beans are the Bean Zodiac's most intense — they carry more beneath the surface than most will show.
 
 Kidney Bean's passion runs deep; Bitter Beans refuse to surface anything unexamined; Fermented Beans process without fire, on their own timeline.
 
-The Tinctured Kidney Bean's challenge is not becoming so compressed nothing escapes. Intensity isn't containment. They must find a way to let what they carry be felt, not just eventually known.
+The Cultured Kidney Bean's challenge is not becoming so compressed nothing escapes. Intensity isn't containment. They must find a way to let what they carry be felt, not just eventually known.

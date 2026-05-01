@@ -10,7 +10,7 @@ seasonalFortune: A passion will ask for its limit — find the thing worth stopp
 dailyNeutral: The passion is at full heat. Give it completely to what is in front of you.
 dailyGood: The consuming force is complete; give it the limit that lets it rest.
 dailyBest: Burn completely — at full consuming temperature, and find the thing worth stopping for before the end.
-dailyBad: What is available to give to is not able to take any more — the vessel is full and the heat has nowhere to go.
+dailyBad: Direct the heat somewhere that can still take it; what is available has reached its limit and the vessel is full.
 dailyWorst: Spend no more — everything has reached its limit and there is nothing left that can receive the full temperature.
 ---
 

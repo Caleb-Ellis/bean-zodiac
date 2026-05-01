@@ -11,7 +11,7 @@ dailyNeutral: Lead with the warmth. Let the edge come second.
 dailyGood: The care is real and the sharpness is real; make sure the care arrives first.
 dailyBest: Give the full warmth before the sharpness — make both felt, in the right order.
 dailyBad: Send the warmth ahead — the edge got there first and it is all that has landed.
-dailyWorst: Everything is already defensive. Only the sharpness is getting through; the warmth is not reaching anyone.
+dailyWorst: Withdraw the edge entirely — everything is already defensive, and the warmth is not reaching anyone.
 ---
 
 Sichuan Mung Beans are the Bean Zodiac's most piquant — the care is real, the gentleness is real, and it comes with a sharpness that prevents it from being taken for granted.

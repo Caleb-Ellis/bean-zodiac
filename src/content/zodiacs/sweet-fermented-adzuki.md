@@ -14,8 +14,8 @@ dailyBad: Let the occasion go — it has ended.
 dailyWorst: Put it down; the present has run out of patience for it.
 ---
 
-Honeyed Adzuki Beans are the Bean Zodiac's most sentimental — they feel the weight of occasions and Beans with completeness.
+Funky Adzuki Beans are the Bean Zodiac's most sentimental — they feel the weight of occasions and Beans with completeness.
 
 Adzuki Beans recognize what deserves remembering; Sweet Beans open their arms to it; Fermented Beans deepen it with time.
 
-The Honeyed Adzuki Bean's challenge is not apologizing for feeling. They must learn to offer the feeling without qualification or caveat.
+The Funky Adzuki Bean's challenge is not apologizing for feeling. They must learn to offer the feeling without qualification or caveat.

@@ -14,8 +14,8 @@ dailyBad: Make yourself comfortable and let the room settle; not every space is 
 dailyWorst: Come in through the front door and explain yourself — this is one of those times where approachable beats uncanny.
 ---
 
-Ashen Green Beans are the Bean Zodiac's most eerie — their energy insists on itself from a source the room cannot identify.
+Charcoal Green Beans are the Bean Zodiac's most eerie — their energy insists on itself from a source the room cannot identify.
 
 Green Beans arrive bright and want to be used immediately; Bitter Beans make that insistence disconcerting; Smoked Beans leave the origin of the urgency somewhere offstage.
 
-The Ashen Green Bean's challenge is explainability. Urgency without a locatable source only unsettles — it does not move. These Beans must occasionally name what they are running toward.
+The Charcoal Green Bean's challenge is explainability. Urgency without a locatable source only unsettles — it does not move. These Beans must occasionally name what they are running toward.

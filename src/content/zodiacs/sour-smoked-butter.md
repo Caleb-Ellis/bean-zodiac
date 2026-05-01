@@ -14,8 +14,8 @@ dailyBad: Show up more fully; the quietness is being read as disengagement and t
 dailyWorst: A substitute has been found for the absence. Come back before the arrangement becomes permanent.
 ---
 
-Cold-Smoked Butter Beans are the Bean Zodiac's most pallid — the calm is present, but it has been drained of something that made it sustaining.
+Cured Butter Beans are the Bean Zodiac's most pallid — the calm is present, but it has been drained of something that made it sustaining.
 
 Butter Beans offer ease as a natural condition; Sour Beans cut through comfort to what remains; Smoked Beans give the combination a quality that is difficult to name but hard to be near for long.
 
-The Cold-Smoked Butter Bean's challenge is warmth. These Beans must find their way back to something replenishing — not just the place where nothing demands anything.
+The Cured Butter Bean's challenge is warmth. These Beans must find their way back to something replenishing — not just the place where nothing demands anything.

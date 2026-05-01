@@ -10,8 +10,8 @@ seasonalFortune: The energy will find its target — aim it at the thing most wo
 dailyNeutral: Choose the target before the heat goes anywhere.
 dailyGood: The energy is full and irrepressible; aim it before it finds its own direction.
 dailyBest: Everything runs at full heat — point it entirely at the thing that deserves it.
-dailyBad: What arrives at full heat is being treated as something to manage, not meet. Pull back until conditions change.
-dailyWorst: Everything has drawn back. The heat is landing where it is not wanted and will not be received.
+dailyBad: Pull back until conditions change; what arrives at full heat is being treated as something to manage, not meet.
+dailyWorst: Stop sending heat into closed space; everything has drawn back and it will not be received.
 ---
 
 Red-Hot Adzuki Beans are the Bean Zodiac's most irrepressible — their heat cannot be contained.

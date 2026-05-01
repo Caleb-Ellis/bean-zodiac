@@ -10,8 +10,8 @@ seasonalFortune: The conclusions arrived at alone are sound. Before locking them
 dailyNeutral: Test the conclusion with one voice you trust before it closes into certainty.
 dailyGood: The independence is real and earned; let one point of contact in.
 dailyBest: The full conviction is yours — bring it entirely, and stay open to the one voice worth hearing.
-dailyBad: The one voice worth hearing is not going to keep trying. The window is narrowing.
-dailyWorst: The voices worth hearing have stopped pressing. The conclusion is locking in unchallenged.
+dailyBad: Listen before the window closes; the one voice worth hearing is almost done trying.
+dailyWorst: Pull the conclusion open before it locks; the voices worth hearing have stopped pressing and it will set unchallenged.
 ---
 
 Kimchi Navy Beans are the Bean Zodiac's most independent — they followed no one to get here.

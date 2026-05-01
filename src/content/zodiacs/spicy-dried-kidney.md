@@ -11,7 +11,7 @@ dailyNeutral: Read the pressure now, while a channel can still be chosen.
 dailyGood: The accumulation is significant; find the channel before it finds one.
 dailyBest: The full force is at the surface — direct it entirely before the timing chooses itself.
 dailyBad: Find a new channel before the pressure finds its own exit — the one you were counting on has been blocked.
-dailyWorst: What built up was given no direction and no outlet. It has taken its own.
+dailyWorst: Find a channel immediately — what built up had no direction and has already begun to take its own.
 ---
 
 Sichuan Kidney Beans are the Bean Zodiac's most volcanic — pressure building in silence until the surface can no longer hold it.

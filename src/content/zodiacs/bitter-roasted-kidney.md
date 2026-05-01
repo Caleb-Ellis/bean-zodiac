@@ -14,8 +14,8 @@ dailyBad: Accept the help that is being offered; what you have earned does not r
 dailyWorst: Set the standard down and let someone else lead — right now the obstacle is the posture, not the problem.
 ---
 
-Charcoal Kidney Beans are the Bean Zodiac's most proud — they have standards and presence.
+Wood-Fired Kidney Beans are the Bean Zodiac's most proud — they have standards and presence.
 
 Kidney Bean marks everything it touches; Bitter Beans ensure marks are earned by genuine standards; Roasted Beans coax this outward, visible from across the room.
 
-The Charcoal Kidney Bean's challenge is allowing others their dignity too. Secure pride doesn't need to rank. They must find generosity to make room for someone else's.
+The Wood-Fired Kidney Bean's challenge is allowing others their dignity too. Secure pride doesn't need to rank. They must find generosity to make room for someone else's.

@@ -14,8 +14,8 @@ dailyBad: Come back to what is in front of you; the drift has gone far enough an
 dailyWorst: Return fully and stay — the distance has stopped being peaceful and started being a problem for the people in the room.
 ---
 
-Ashen Butter Beans are the Bean Zodiac's most dreamy — their calm has drifted far enough from the present that it is difficult to locate in real time.
+Charcoal Butter Beans are the Bean Zodiac's most dreamy — their calm has drifted far enough from the present that it is difficult to locate in real time.
 
 Butter Beans lower the temperature without effort; Bitter Beans strip the comfortable until only the necessary remains; Smoked Beans give the combination a quality that lingers in the room after everyone has moved on.
 
-The Ashen Butter Bean's challenge is presence. A dream remembered in perfect detail is no longer a dream. These Beans must return from wherever they have drifted long enough to be found.
+The Charcoal Butter Bean's challenge is presence. A dream remembered in perfect detail is no longer a dream. These Beans must return from wherever they have drifted long enough to be found.

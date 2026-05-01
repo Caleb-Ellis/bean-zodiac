@@ -11,7 +11,7 @@ dailyNeutral: The unexpected landing is worth exploring — keep hold of the war
 dailyGood: The offbeat route is yours; bring the warmth along so others can find you there.
 dailyBest: Follow the strangeness completely — and keep the warmth burning so the path back stays lit.
 dailyBad: Close the distance before it becomes permanent — the thread has been lost and no one can reach you.
-dailyWorst: The offbeat route has gone past the point where anyone is still trying to find it. Come back partway.
+dailyWorst: Come back partway before no one is left trying to find the route.
 ---
 
 Kimchi Chickpeas are the Bean Zodiac's most offbeat — they connect easily but land on unexpected ground.

@@ -14,8 +14,8 @@ dailyBad: Pick one answer and defend it; the room needs a stake in the ground, n
 dailyWorst: Collapse the options down to one and deliver it plainly — breadth is not helping anyone right now.
 ---
 
-Decocted Chickpeas are the Bean Zodiac's most versatile — they meet each situation on its own terms.
+Infused Chickpeas are the Bean Zodiac's most versatile — they meet each situation on its own terms.
 
 Chickpea finds common ground without losing itself; Bitter Beans discriminate about which approach the moment requires; Boiled Beans commit completely, no half-measures.
 
-The Decocted Chickpea's challenge is depth. Versatility without commitment to any direction produces breadth, not mastery. They must eventually decide what they're most trying to be.
+The Infused Chickpea's challenge is depth. Versatility without commitment to any direction produces breadth, not mastery. They must eventually decide what they're most trying to be.

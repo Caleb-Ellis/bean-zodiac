@@ -14,8 +14,8 @@ dailyBad: Answer from memory and keep moving; the text can be checked after the 
 dailyWorst: Close the book and act on what you already know — more reading will not improve what needs doing right now.
 ---
 
-Tinctured Navy Beans are the Bean Zodiac's most bookish — they build understanding from reading and carry it privately.
+Cultured Navy Beans are the Bean Zodiac's most bookish — they build understanding from reading and carry it privately.
 
 Navy Bean is loyal to systems; Bitter Beans keep only systems that have genuinely earned their place; Fermented Beans do the whole thing in private.
 
-The Tinctured Navy Bean's challenge is translation. The private library is substantial, but knowledge that remains untransmitted cannot do anything in the world. They must occasionally bring the book outside.
+The Cultured Navy Bean's challenge is translation. The private library is substantial, but knowledge that remains untransmitted cannot do anything in the world. They must occasionally bring the book outside.

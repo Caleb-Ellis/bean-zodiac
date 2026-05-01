@@ -14,8 +14,8 @@ dailyBad: Say the direct version — the careful framing is a way of not saying 
 dailyWorst: Give the unhandled version; the truth has been smoothed past the point of use.
 ---
 
-Honeyed Cannellini Beans are the Bean Zodiac's most diplomatic — they find the arrangement everyone can live with, usually before the conversation begins.
+Funky Cannellini Beans are the Bean Zodiac's most diplomatic — they find the arrangement everyone can live with, usually before the conversation begins.
 
 Cannellini Beans elevate by finding what is already good; Sweet Beans keep this warmly intentioned; Fermented Beans do the processing in private and arrive with the answer.
 
-The Honeyed Cannellini Bean's challenge is honesty. They must occasionally let the candid version out, not only the diplomatic one.
+The Funky Cannellini Bean's challenge is honesty. They must occasionally let the candid version out, not only the diplomatic one.

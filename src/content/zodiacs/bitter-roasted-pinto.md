@@ -14,8 +14,8 @@ dailyBad: Turn the attention outward for once; the room has something in it that
 dailyWorst: Put yourself entirely aside and attend to what is in front of you — the world outside the mirror is asking for something.
 ---
 
-Charcoal Pinto Beans are the Bean Zodiac's most narcissistic — warmth directed entirely inward.
+Wood-Fired Pinto Beans are the Bean Zodiac's most narcissistic — warmth directed entirely inward.
 
 Pinto Bean's markings are uniquely its own; Bitter Beans recognize genuine quality, most readily seeing themselves; Roasted Beans fill rooms, but warmth is self-oriented.
 
-The Charcoal Pinto Bean's challenge is interest. A Bean consistently finding themselves more compelling than others will find others agree—by leaving. They must develop genuine curiosity about something not a reflection.
+The Wood-Fired Pinto Bean's challenge is interest. A Bean consistently finding themselves more compelling than others will find others agree—by leaving. They must develop genuine curiosity about something not a reflection.

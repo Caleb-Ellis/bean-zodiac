@@ -14,8 +14,8 @@ dailyBad: Finish the thing before moving on — it is not done, and the moving o
 dailyWorst: Deliver something; the imagination has not produced anything anyone else can use.
 ---
 
-Honeyed Green Beans are the Bean Zodiac's most whimsical — their inner world is rich and improbable.
+Funky Green Beans are the Bean Zodiac's most whimsical — their inner world is rich and improbable.
 
 Green Beans generate possibilities freely; Sweet Beans remove the pressure to be practical; Fermented Beans work the stranger possibilities quietly.
 
-The Honeyed Green Bean's challenge is grounding. They must apply their imagination to the ordinary, not abandon it for something more appealing.
+The Funky Green Bean's challenge is grounding. They must apply their imagination to the ordinary, not abandon it for something more appealing.

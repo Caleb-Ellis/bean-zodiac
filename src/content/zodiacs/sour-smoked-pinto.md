@@ -14,8 +14,8 @@ dailyBad: Warm it slightly; the dry register has arrived as something closer to 
 dailyWorst: Real things have stopped being brought. The remove is the reason and the distance has become the problem.
 ---
 
-Cold-Smoked Pinto Beans are the Bean Zodiac's most sardonic — their expressiveness has curdled into something that watches the proceedings from a slight remove.
+Cured Pinto Beans are the Bean Zodiac's most sardonic — their expressiveness has curdled into something that watches the proceedings from a slight remove.
 
 Pinto Beans carry vivid complexity that colours the whole pot; Sour Beans give that colour an acidic quality; Smoked Beans release it into the room without quite owning it.
 
-The Cold-Smoked Pinto Bean's challenge is sincerity. Sardony is a mode, not a position. These Beans must find something they will say plainly, without the distance.
+The Cured Pinto Bean's challenge is sincerity. Sardony is a mode, not a position. These Beans must find something they will say plainly, without the distance.

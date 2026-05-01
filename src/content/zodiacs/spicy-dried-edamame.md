@@ -11,7 +11,7 @@ dailyNeutral: The assessment is accurate. Decide first whether it is needed.
 dailyGood: The sharpness is real and warranted; aim it at the thing that benefits.
 dailyBest: The full precision is available — spend it where the cut is genuinely needed.
 dailyBad: Leave it alone — any edge applied right now is being received as attack.
-dailyWorst: The precision is landing as aggression, not as assessment. Put the edge down.
+dailyWorst: Put the edge down — the precision is landing as aggression, not as assessment.
 ---
 
 Sichuan Edamame are the Bean Zodiac's most caustic — efficient, direct, and not always aware of what the efficiency costs.

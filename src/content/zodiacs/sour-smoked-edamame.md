@@ -14,8 +14,8 @@ dailyBad: Warm up the delivery; the precision arrived correct but cold, and cold
 dailyWorst: A different approach is being sought out. The exactness of it is the reason — it read as procedure, not care.
 ---
 
-Cold-Smoked Edamame are the Bean Zodiac's most surgical — fast, precise, and finished before the situation has fully understood what occurred.
+Cured Edamame are the Bean Zodiac's most surgical — fast, precise, and finished before the situation has fully understood what occurred.
 
 Edamame reach conclusions before others have formed the question; Sour Beans reduce to what is cleanest; Smoked Beans perform the operation from somewhere no one can quite locate.
 
-The Cold-Smoked Edamame's challenge is aftercare. The incision may be clean, but something is still required afterward. These Beans must stay long enough to see what the cut has done.
+The Cured Edamame's challenge is aftercare. The incision may be clean, but something is still required afterward. These Beans must stay long enough to see what the cut has done.

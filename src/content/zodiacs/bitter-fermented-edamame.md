@@ -14,8 +14,8 @@ dailyBad: Go with the feeling this once; not every good move can be accounted fo
 dailyWorst: Trust the instinct and act — the argument can be reconstructed after the fact, and right now the moment won't wait for it.
 ---
 
-Tinctured Edamame are the Bean Zodiac's most rational — they cannot proceed on grounds they cannot account for.
+Cultured Edamame are the Bean Zodiac's most rational — they cannot proceed on grounds they cannot account for.
 
 Edamame strips away the unnecessary; Bitter Beans withhold assent until something earns it; Fermented Beans turn over premises others don't examine.
 
-The Tinctured Edamame's challenge is that Beans aren't always willing. Well-reasoned conclusions without warmth fail to change anything. They must remember logic is the engine, not the vehicle.
+The Cultured Edamame's challenge is that Beans aren't always willing. Well-reasoned conclusions without warmth fail to change anything. They must remember logic is the engine, not the vehicle.

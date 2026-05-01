@@ -14,8 +14,8 @@ dailyBad: Accept the answer that's been given and move on; the next question can
 dailyWorst: Stop asking — declare something, anything, and let the room breathe again.
 ---
 
-Decocted Green Beans are the Bean Zodiac's most inquisitive — they follow threads until they lead somewhere unexpected.
+Infused Green Beans are the Bean Zodiac's most inquisitive — they follow threads until they lead somewhere unexpected.
 
 Green Bean's energy produces constant questions; Bitter Beans strip the casual from the curious; Boiled Beans sit with questions long enough for real answers.
 
-The Decocted Green Bean's challenge is the question that never closes. Inquiry without resolution is avoidance dressed as curiosity. They must occasionally allow themselves to arrive.
+The Infused Green Bean's challenge is the question that never closes. Inquiry without resolution is avoidance dressed as curiosity. They must occasionally allow themselves to arrive.

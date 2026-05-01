@@ -15,7 +15,11 @@ import {
 } from "../lib/zodiac";
 import { fetchZodiac, type AllZodiacData } from "../lib/data";
 import { getClaimedBeanSlug } from "../lib/claimedBean";
-import { getFortuneHistory } from "../lib/fortuneHistory";
+import {
+  computeSpiritBeanScores,
+  getSpiritDiff,
+  getAlignmentText,
+} from "../lib/spiritBean";
 import Bean from "./Bean";
 import BeanBadge from "./BeanBadge";
 import FlavourBadge from "./FlavourBadge";
@@ -28,87 +32,19 @@ interface Props {
   data: AllZodiacData;
 }
 
-function computeScores(claimedSlug: ZodiacId): {
-  flavourValues: number[];
-  formValues: number[];
-  beanValues: number[];
-  flavourHighlight: number;
-  formHighlight: number;
-  beanHighlight: number;
-  claimedFlavourIdx: number;
-  claimedFormIdx: number;
-  claimedBeanIdx: number;
-} {
-  const [claimedFlavourId, claimedFormId, claimedBeanId] = claimedSlug.split(
-    "-",
-  ) as [FlavourId, FormId, BeanId];
-
-  const flavourScores = Object.fromEntries(FLAVOUR_ORDER.map((id) => [id, 5]));
-  const formScores = Object.fromEntries(FORM_ORDER.map((id) => [id, 5]));
-  const beanScores = Object.fromEntries(BEAN_ORDER.map((id) => [id, 5]));
-
-  flavourScores[claimedFlavourId] += 5;
-  formScores[claimedFormId] += 5;
-  beanScores[claimedBeanId] += 5;
-
-  const history = getFortuneHistory();
-  for (const entry of history) {
-    const s = entry.score ?? 0;
-    if (s === 0) continue;
-    const magnitude =
-      entry.qualityId === "heirloom" || entry.qualityId === "rotten" ? 2 : 1;
-    const sign =
-      entry.qualityId === "stale" || entry.qualityId === "rotten" ? -1 : 1;
-    const adjustedS = sign * magnitude * s;
-    const [f, frm, b] = entry.zodiacId.split("-") as [
-      FlavourId,
-      FormId,
-      BeanId,
-    ];
-    flavourScores[f] = (flavourScores[f] ?? 5) + adjustedS;
-    formScores[frm] = (formScores[frm] ?? 5) + adjustedS;
-    beanScores[b] = (beanScores[b] ?? 5) + adjustedS;
-  }
-
-  const flavourValues = FLAVOUR_ORDER.map((id) =>
-    Math.max(0, flavourScores[id]),
-  );
-  const formValues = FORM_ORDER.map((id) => Math.max(0, formScores[id]));
-  const beanValues = BEAN_ORDER.map((id) => Math.max(0, beanScores[id]));
-
-  const claimedFlavourIdx = FLAVOUR_ORDER.indexOf(claimedFlavourId);
-  const claimedFormIdx = FORM_ORDER.indexOf(claimedFormId);
-  const claimedBeanIdx = BEAN_ORDER.indexOf(claimedBeanId);
-
-  const pickHighlight = (values: number[], claimedIdx: number) => {
-    const max = Math.max(...values);
-    return values[claimedIdx] === max ? claimedIdx : values.indexOf(max);
-  };
-
-  return {
-    flavourValues,
-    formValues,
-    beanValues,
-    flavourHighlight: pickHighlight(flavourValues, claimedFlavourIdx),
-    formHighlight: pickHighlight(formValues, claimedFormIdx),
-    beanHighlight: pickHighlight(beanValues, claimedBeanIdx),
-    claimedFlavourIdx,
-    claimedFormIdx,
-    claimedBeanIdx,
-  };
-}
-
 export default function MePage({ data }: Props) {
   const [claimedSlug] = useState<ZodiacId | null>(() => {
     if (typeof window === "undefined") return null;
     return getClaimedBeanSlug();
   });
   const [zodiac, setZodiac] = useState<Zodiac | null>(null);
-  const [scores] = useState<ReturnType<typeof computeScores> | null>(() => {
-    if (typeof window === "undefined") return null;
-    const slug = getClaimedBeanSlug();
-    return slug ? computeScores(slug) : null;
-  });
+  const [scores] = useState<ReturnType<typeof computeSpiritBeanScores> | null>(
+    () => {
+      if (typeof window === "undefined") return null;
+      const slug = getClaimedBeanSlug();
+      return slug ? computeSpiritBeanScores(slug) : null;
+    },
+  );
 
   useEffect(() => {
     if (!claimedSlug) return;
@@ -166,25 +102,8 @@ export default function MePage({ data }: Props) {
   );
   const beanColors = BEAN_ORDER.map((id) => `var(--bean-${id})`);
   const beanHrefs = BEAN_ORDER.map((id) => `/beans/${id}`);
-  const alignedCount = scores
-    ? [
-        scores.flavourValues[scores.claimedFlavourIdx] >=
-          Math.max(...scores.flavourValues),
-        scores.beanValues[scores.claimedBeanIdx] >=
-          Math.max(...scores.beanValues),
-        scores.formValues[scores.claimedFormIdx] >=
-          Math.max(...scores.formValues),
-      ].filter(Boolean).length
-    : 0;
-
-  const alignmentText =
-    alignedCount === 3
-      ? "Your body and spirit align."
-      : alignedCount === 2
-        ? "Your spirit stirs — body and spirit are nearly one."
-        : alignedCount === 1
-          ? "One thread holds — body and spirit drift apart."
-          : "Your body and spirit walk their own paths.";
+  const spiritDiff = scores ? getSpiritDiff(scores) : 0;
+  const alignmentText = getAlignmentText(spiritDiff);
 
   return (
     <div className="flex flex-col gap-8 animate-fade-up">

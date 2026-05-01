@@ -14,8 +14,8 @@ dailyBad: Skip the last check and ship it; done is doing more good than careful 
 dailyWorst: Release it unverified — the cost of waiting has already exceeded the cost of being wrong.
 ---
 
-Decocted Mung Beans are the Bean Zodiac's most careful — they check before acting, understanding what it costs to get things wrong.
+Infused Mung Beans are the Bean Zodiac's most careful — they check before acting, understanding what it costs to get things wrong.
 
 Mung Bean's instinct is to tend and restore; Bitter Beans refuse careless care; Boiled Beans hold everything in patient suspension.
 
-The Decocted Mung Bean's challenge is completion. Careful Beans excel at starts and middles; endings defer indefinitely. They must eventually let things be done.
+The Infused Mung Bean's challenge is completion. Careful Beans excel at starts and middles; endings defer indefinitely. They must eventually let things be done.

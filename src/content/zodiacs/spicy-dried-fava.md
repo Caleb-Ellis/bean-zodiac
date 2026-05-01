@@ -10,7 +10,7 @@ seasonalFortune: A move before conditions are ideal is coming. It will be correc
 dailyNeutral: The move is available — take it before conditions start to close.
 dailyGood: The difficulty ahead was chosen; go at it with everything.
 dailyBest: Commit fully and trust the instinct that brought you here. The audacity is complete.
-dailyBad: The space you were moving into has closed. The ground is no longer open for the approach you had in mind.
+dailyBad: Find a new approach — the space you were moving into has closed and the ground is no longer open for it.
 dailyWorst: Change the approach — the position has been filled and the original route can no longer reach it.
 ---
 

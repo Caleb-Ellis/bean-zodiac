@@ -11,7 +11,7 @@ dailyNeutral: Something is moving in there — let one piece of it become readab
 dailyGood: The heat has been running long enough; give it enough clarity to be approached.
 dailyBest: Let the full interior surface — enough to be approached, and approached completely.
 dailyBad: Stop waiting for clarity — the decision has already been made against what was building.
-dailyWorst: The interior is no longer being looked at. Whatever was paying attention has moved on.
+dailyWorst: Surface something before whatever is paying attention moves on; the interior is no longer being looked at.
 ---
 
 Chipotle Black Beans are the Bean Zodiac's most murky — something is moving in there at some intensity, and it does not announce itself.

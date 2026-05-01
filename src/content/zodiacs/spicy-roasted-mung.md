@@ -10,7 +10,7 @@ seasonalFortune: A distance will open — it is not the same as loss, and the wa
 dailyNeutral: The love is real — hold it warmly and let it carry across whatever distance opens.
 dailyGood: The intensity is full; give it completely to what is here.
 dailyBest: Love completely — at the full temperature, without pulling back.
-dailyBad: The distance is real and asks to be left — pressing into it will not close it and may widen it.
+dailyBad: Leave the distance alone; pressing into it will not close it and may widen it.
 dailyWorst: Give the room being asked for — the warmth is the reason it is being created and pressing closer will make it permanent.
 ---
 
