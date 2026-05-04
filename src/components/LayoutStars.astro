@@ -25,8 +25,11 @@
 
   let stars: Star[] = [];
   let rafId: number | null = null;
+  let lastWidth = 0;
 
   function resize() {
+    if (window.innerWidth === lastWidth) return;
+    lastWidth = window.innerWidth;
     canvas.width = window.innerWidth;
     canvas.height = window.innerHeight;
     if (reduced) drawStatic();

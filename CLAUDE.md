@@ -100,14 +100,26 @@ The claimed bean slug is stored in localStorage under the key `bean-zodiac-claim
 
 **Met beans** — set of encountered zodiac IDs stored under `bean-zodiac-met-beans` as `ZodiacId[]`, newest first. Helpers in `src/lib/metBeans.ts`: `getMetBeans`, `addMetBean`, `clearMetBeans`. Recorded in three places: `ClaimedBeanResult` (claimed bean + seasonal bean + daily fortune bean on mount), `ZodiacWheelContainer` (any discovered bean on spin). On first visit to `/beaniary`, backfills from fortune history if the key is absent. All three localStorage stores are wiped together when the user relinquishes their bean.
 
-### Spirit Bean (`/me`)
+### Spirit Bean (`/beanstalk`)
 
-Three SVG radar charts (flavour, form, bean) showing affinity scores. Rendered by `SpiritBeanRadar.tsx` (custom SVG, no library). Score computation in `MePage.tsx`:
+Three SVG radar charts (flavour, form, bean) showing affinity scores. Rendered by `SpiritBeanRadar.tsx` (custom SVG, no library). Score computation in `spiritBean.ts`:
 
-- Baseline: all attributes start at 5.
-- Claimed bean's flavour/form/bean each get +5.
+- Baseline: all attributes start at 8.
+- Claimed bean's flavour/form/bean each get +4.
 - Each thumbs-up fortune adds +1 to that zodiac's flavour, form, and bean; thumbs-down subtracts 1.
-- Charts auto-scale to max value (floor 10). Labels use per-attribute CSS color variables.
+- Heirloom/rotten qualities apply 2× magnitude; stale/rotten negate the adjustment.
+- Charts auto-scale to max value (floor 16). Labels use per-attribute CSS color variables.
+
+### The Beanstalk (`/beanstalk`, below Spirit Bean)
+
+A scrollable vertical timeline showing how the Spirit Bean has shifted across seasons. Rendered by `Beanstalk.tsx`.
+
+- **Nodes**: all fortune history entries become nodes (scored or not). `score !== 0` → Accepted/Resisted pill; `score === 0` → grey Ignored pill.
+- **Season filter**: badge bar above the timeline, grouped by Bean Year (e.g. "🫘 Butter Bean 2025" header with preparation-name badges like "Caramelised", "Glazed"). Defaults to the current form-season on load; cannot be deselected, only switched. Selected season shows "The Season of the [ZodiacName]" at the top of the timeline.
+- **Left panel**: sticky, `h-svh`, shows the spirit zodiac name (via `ZodiacName`) and three stacked radar charts that animate (JS lerp via `requestAnimationFrame`) to the cumulative Spirit Bean scores at the active node.
+- **Right panel**: scrollable timeline with a vertical line (dark blue base, bright blue fill tracking scroll position). Fortune cards show the fortune zodiac name, badges, fortune text, and a scored/ignored pill.
+- **Scroll tracking**: window scroll listener advances the active node when an element's top crosses 60% of the viewport; the fill bar height is updated directly via ref.
+- **Data**: `buildBeanstalkNodes(claimedSlug)` in `spiritBean.ts` builds the node list (all history, sorted ascending). `computeSpiritBeanScoresUpTo(claimedSlug, cutoffDateStr)` computes cumulative scores at a given date.
 
 ### Styling
 

@@ -1,5 +1,5 @@
 interface Props {
-  title: string;
+  title?: string;
   labels: string[];
   labelColors: string[]; // per-label CSS color, e.g. "var(--flavour-sweet)"
   labelHrefs?: string[]; // per-label link href
@@ -49,17 +49,17 @@ export default function SpiritBeanRadar({
   const cy = 150;
   const maxRadius = 88;
   const labelRadius = 106;
-  const maxVal = Math.max(...values, 10);
+  const maxVal = Math.max(...values, 16);
 
   const dataPoints = values.map((v, i) => toPoint(v, maxVal, i, n, cx, cy, maxRadius));
   const polygonPoints = dataPoints.map(([x, y]) => `${x},${y}`).join(" ");
 
   return (
-    <div className="flex flex-col items-center gap-2">
-      <p className="text-xs uppercase tracking-widest text-zinc-400">{title}</p>
+    <div className="flex flex-col items-center gap-2 h-full">
+      {title && <p className="text-xs uppercase tracking-widest text-zinc-400">{title}</p>}
       <svg
         viewBox="0 0 300 300"
-        className="w-full max-w-85"
+        className="w-full h-full max-w-85 max-h-full"
         overflow="visible"
         aria-hidden="true"
       >

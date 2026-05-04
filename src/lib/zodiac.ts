@@ -7,7 +7,12 @@
  * Reference Bean Zodiac: 12th March 1993 = Fried Umami Edamame
  */
 
-import type { BeanSchema, FlavourSchema, FormSchema, ZodiacSchema } from "../schemas";
+import type {
+  BeanSchema,
+  FlavourSchema,
+  FormSchema,
+  ZodiacSchema,
+} from "../schemas";
 
 export const BeanIds = {
   Adzuki: "adzuki",
@@ -106,9 +111,9 @@ export const FORM_ORDER = [
 // Start month (1-indexed) for each form, matching FORM_ORDER
 const FORM_START_MONTH: Record<FormId, number> = {
   [FormIds.Fried]: 3,
-  [FormIds.Boiled]: 5,
+  [FormIds.Roasted]: 5,
   [FormIds.Fermented]: 7,
-  [FormIds.Roasted]: 9,
+  [FormIds.Boiled]: 9,
   [FormIds.Smoked]: 11,
   [FormIds.Dried]: 1,
 } as const;
@@ -155,8 +160,10 @@ const PREPARATION_NAMES: Record<`${FlavourId}-${FormId}`, string> = {
   "umami-smoked": "Hickory",
 } as const;
 
-export const getPreparationName = (flavourId: FlavourId, formId: FormId): string =>
-  PREPARATION_NAMES[`${flavourId}-${formId}`];
+export const getPreparationName = (
+  flavourId: FlavourId,
+  formId: FormId,
+): string => PREPARATION_NAMES[`${flavourId}-${formId}`];
 
 const VALID_FLAVOUR_IDS = new Set<string>(Object.values(FlavourIds));
 const VALID_FORM_IDS = new Set<string>(Object.values(FormIds));
@@ -167,7 +174,9 @@ export const isValidZodiacId = (slug: string): slug is ZodiacId => {
   if (parts.length !== 3) return false;
   const [flavourId, formId, beanId] = parts;
   return (
-    VALID_FLAVOUR_IDS.has(flavourId) && VALID_FORM_IDS.has(formId) && VALID_BEAN_IDS.has(beanId)
+    VALID_FLAVOUR_IDS.has(flavourId) &&
+    VALID_FORM_IDS.has(formId) &&
+    VALID_BEAN_IDS.has(beanId)
   );
 };
 
@@ -191,7 +200,8 @@ const getBeanIdForBeanYear = (beanYear: number): BeanId => {
 };
 
 const getFlavourIdForBeanYear = (beanYear: number): FlavourId => {
-  const index = ((Math.floor((beanYear - BEAN_ZODIAC_REFERENCE_YEAR) / 2) % 5) + 5) % 5;
+  const index =
+    ((Math.floor((beanYear - BEAN_ZODIAC_REFERENCE_YEAR) / 2) % 5) + 5) % 5;
   return FLAVOUR_ORDER[index];
 };
 
@@ -213,7 +223,11 @@ export const getZodiacMetadataForDate = (date: Date): ZodiacMetadata => {
   const startYear = startMonth > date.getMonth() + 1 ? year - 1 : year;
   const endMonth = startMonth + 2;
   const startDate = new Date(startYear, startMonth - 1, 12);
-  const endDate = new Date(endMonth > 12 ? startYear + 1 : startYear, (endMonth - 1) % 12, 11);
+  const endDate = new Date(
+    endMonth > 12 ? startYear + 1 : startYear,
+    (endMonth - 1) % 12,
+    11,
+  );
 
   return {
     zodiacId: `${flavourId}-${formId}-${beanId}`,

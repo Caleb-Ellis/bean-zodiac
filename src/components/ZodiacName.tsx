@@ -14,6 +14,7 @@ interface Props {
   beanName: string;
   zodiacId?: ZodiacId;
   qualityId?: QualityId;
+  asLink?: boolean;
 }
 
 export default function ZodiacName({
@@ -24,6 +25,7 @@ export default function ZodiacName({
   beanName,
   zodiacId,
   qualityId,
+  asLink = true,
 }: Props) {
   const qualityLabel = qualityId ? getQualityLabel(qualityId) : undefined;
   const qualitySpan = qualityLabel ? (
@@ -31,6 +33,7 @@ export default function ZodiacName({
   ) : null;
   const preparationSpan = (
     <span
+      key={`${flavourId}-${formId}`}
       style={{
         background: `linear-gradient(135deg, var(--flavour-${flavourId}) 60%, var(--form-${formId}) 75%)`,
         WebkitBackgroundClip: "text",
@@ -44,7 +47,7 @@ export default function ZodiacName({
   );
   const beanSpan = <span className={`bean-${beanId}`}>{beanName}</span>;
 
-  if (zodiacId) {
+  if (zodiacId && asLink) {
     return (
       <a href={`/zodiacs/${zodiacId}`} className="no-underline hover:underline">
         {qualitySpan}

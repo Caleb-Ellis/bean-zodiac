@@ -13,7 +13,7 @@ export default function FlavourBadge({ id, name, label, small }: Props) {
     return (
       <a
         href={`/flavours/${id}`}
-        className={`flex items-center gap-1 px-2 py-0.5 rounded-full bg-zinc-800 border border-zinc-700 hover:border-zinc-500 transition-colors no-underline flavour-${id}`}
+        className={`text-xs flex items-center gap-1 px-2 py-0.5 rounded-full bg-zinc-800 border border-zinc-700 hover:border-zinc-500 transition-colors no-underline flavour-${id}`}
       >
         <span>{FLAVOUR_EMOJI[id]}</span>
         {text}

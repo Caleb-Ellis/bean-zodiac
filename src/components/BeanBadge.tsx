@@ -35,7 +35,7 @@ export default function BeanBadge({ id, name, label, small }: Props) {
     return (
       <a
         href={`/beans/${id}`}
-        className={`flex items-center gap-1 px-2 py-0.5 rounded-full bg-zinc-800 border border-zinc-700 hover:border-zinc-500 transition-colors no-underline bean-${id}`}
+        className={`text-xs flex items-center gap-1 px-2 py-0.5 rounded-full bg-zinc-800 border border-zinc-700 hover:border-zinc-500 transition-colors no-underline bean-${id}`}
       >
         <BeanIcon id={id} size={14} />
         {text}

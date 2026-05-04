@@ -25,20 +25,23 @@ export interface SpiritBeanScores {
 
 export function computeSpiritBeanScores(
   claimedSlug: ZodiacId,
+  cutoffDateStr?: string,
 ): SpiritBeanScores {
   const [claimedFlavourId, claimedFormId, claimedBeanId] = claimedSlug.split(
     "-",
   ) as [FlavourId, FormId, BeanId];
 
-  const flavourScores = Object.fromEntries(FLAVOUR_ORDER.map((id) => [id, 5]));
-  const formScores = Object.fromEntries(FORM_ORDER.map((id) => [id, 5]));
-  const beanScores = Object.fromEntries(BEAN_ORDER.map((id) => [id, 5]));
+  const flavourScores = Object.fromEntries(FLAVOUR_ORDER.map((id) => [id, 4]));
+  const formScores = Object.fromEntries(FORM_ORDER.map((id) => [id, 4]));
+  const beanScores = Object.fromEntries(BEAN_ORDER.map((id) => [id, 4]));
 
-  flavourScores[claimedFlavourId] += 5;
-  formScores[claimedFormId] += 5;
-  beanScores[claimedBeanId] += 5;
+  flavourScores[claimedFlavourId] += 4;
+  formScores[claimedFormId] += 4;
+  beanScores[claimedBeanId] += 4;
 
-  const history = getFortuneHistory();
+  const history = cutoffDateStr
+    ? getFortuneHistory().filter((e) => e.date <= cutoffDateStr)
+    : getFortuneHistory();
   for (const entry of history) {
     const s = entry.score ?? 0;
     if (s === 0) continue;
@@ -100,14 +103,50 @@ const ALIGNMENT_TEXTS = [
   "A faint divergence — barely worth naming.",
   "Something stirs beneath the surface.",
   "The spirit is restless.",
-  "A quiet tension between who you are and who you become.",
-  "The pull is unmistakable now.",
+  "A quiet gap opens between your birth and your bearing.",
+  "The distance is unmistakable now.",
   "Body and spirit no longer speak the same language.",
-  "You are becoming something your birth did not predict.",
+  "The gap has widened further than your birth bean expected.",
   "The gap widens — the beans are watching closely.",
-  "A transformation is almost complete.",
+  "Your spirit has wandered far from where it started.",
 ];
 
 export function getAlignmentText(spiritDiff: number): string {
   return ALIGNMENT_TEXTS[Math.min(spiritDiff, ALIGNMENT_TEXTS.length - 1)];
+}
+
+export type BeanstalkNode = {
+  kind: "fortune";
+  date: string;
+  scores: SpiritBeanScores;
+  spiritZodiacId: ZodiacId;
+  fortuneZodiacId: ZodiacId;
+  qualityId: import("./fortune").QualityId;
+  text: string;
+  score: number;
+};
+
+export function buildBeanstalkNodes(claimedSlug: ZodiacId): BeanstalkNode[] {
+  const history = getFortuneHistory().sort((a, b) =>
+    a.date < b.date ? -1 : 1,
+  );
+
+  if (history.length === 0) return [];
+
+  const fortuneNodes: BeanstalkNode[] = history.map((entry) => {
+    const scores = computeSpiritBeanScores(claimedSlug, entry.date);
+    const spiritZodiacId: ZodiacId = `${FLAVOUR_ORDER[scores.flavourHighlight]}-${FORM_ORDER[scores.formHighlight]}-${BEAN_ORDER[scores.beanHighlight]}`;
+    return {
+      kind: "fortune",
+      date: entry.date,
+      scores,
+      spiritZodiacId,
+      fortuneZodiacId: entry.zodiacId,
+      qualityId: entry.qualityId,
+      text: entry.text,
+      score: entry.score || 0,
+    };
+  });
+
+  return fortuneNodes;
 }

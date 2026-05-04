@@ -13,7 +13,7 @@ export default function FormBadge({ id, name, label, small }: Props) {
     return (
       <a
         href={`/forms/${id}`}
-        className={`flex items-center gap-1 px-2 py-0.5 rounded-full bg-zinc-800 border border-zinc-700 hover:border-zinc-500 transition-colors no-underline form-${id}`}
+        className={`text-xs flex items-center gap-1 px-2 py-0.5 rounded-full bg-zinc-800 border border-zinc-700 hover:border-zinc-500 transition-colors no-underline form-${id}`}
       >
         <span>{FORM_EMOJI[id]}</span>
         {text}

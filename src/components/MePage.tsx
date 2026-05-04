@@ -1,32 +1,22 @@
-import Markdown from "react-markdown";
-import { useEffect, useState } from "react";
+import { useState } from "react";
 import {
-  BEAN_ORDER,
-  FLAVOUR_EMOJI,
-  FLAVOUR_ORDER,
-  FORM_EMOJI,
-  FORM_ORDER,
-  getPreparationName,
   type BeanId,
   type FlavourId,
   type FormId,
-  type Zodiac,
   type ZodiacId,
 } from "../lib/zodiac";
-import { fetchZodiac, type AllZodiacData } from "../lib/data";
+
+import { type AllZodiacData } from "../lib/data";
 import { getClaimedBeanSlug } from "../lib/claimedBean";
 import {
   computeSpiritBeanScores,
+  buildBeanstalkNodes,
   getSpiritDiff,
   getAlignmentText,
+  type BeanstalkNode,
 } from "../lib/spiritBean";
-import Bean from "./Bean";
-import BeanBadge from "./BeanBadge";
-import FlavourBadge from "./FlavourBadge";
-import FormBadge from "./FormBadge";
-import TraitBadge from "./TraitBadge";
-import ZodiacName from "./ZodiacName";
-import SpiritBeanRadar from "./SpiritBeanRadar";
+import Beanstalk from "./Beanstalk";
+import { FlavourRadar, FormRadar, BeanRadar } from "./SpiritBeanRadars";
 
 interface Props {
   data: AllZodiacData;
@@ -37,7 +27,6 @@ export default function MePage({ data }: Props) {
     if (typeof window === "undefined") return null;
     return getClaimedBeanSlug();
   });
-  const [zodiac, setZodiac] = useState<Zodiac | null>(null);
   const [scores] = useState<ReturnType<typeof computeSpiritBeanScores> | null>(
     () => {
       if (typeof window === "undefined") return null;
@@ -45,21 +34,11 @@ export default function MePage({ data }: Props) {
       return slug ? computeSpiritBeanScores(slug) : null;
     },
   );
-
-  useEffect(() => {
-    if (!claimedSlug) return;
-    fetchZodiac(claimedSlug).then((z) => setZodiac(z));
-  }, []);
-
-  useEffect(() => {
-    if (zodiac && window.location.hash === "#spirit-bean") {
-      setTimeout(() => {
-        document
-          .getElementById("spirit-bean")
-          ?.scrollIntoView({ behavior: "smooth" });
-      }, 50);
-    }
-  }, [zodiac]);
+  const [beanstalkNodes] = useState<BeanstalkNode[]>(() => {
+    if (typeof window === "undefined") return [];
+    const slug = getClaimedBeanSlug();
+    return slug ? buildBeanstalkNodes(slug) : [];
+  });
 
   if (claimedSlug === null) {
     return (
@@ -74,135 +53,91 @@ export default function MePage({ data }: Props) {
     );
   }
 
-  const [flavourId, formId, beanId] = (claimedSlug?.split("-") ?? []) as [
+  const [flavourId, formId, beanId] = claimedSlug.split("-") as [
     FlavourId,
     FormId,
     BeanId,
   ];
-  const bean = data.beans[beanId];
-  const flavour = data.flavours[flavourId];
-  const form = data.forms[formId];
-  const preparation = bean ? getPreparationName(flavourId, formId) : "";
-
-  const flavourLabels = FLAVOUR_ORDER.map(
-    (id) =>
-      `${FLAVOUR_EMOJI[id]} ${data.flavours[id]?.name ?? id}${id === flavourId ? " 👤" : ""}`,
-  );
-  const flavourColors = FLAVOUR_ORDER.map((id) => `var(--flavour-${id})`);
-  const flavourHrefs = FLAVOUR_ORDER.map((id) => `/flavours/${id}`);
-  const formLabels = FORM_ORDER.map(
-    (id) =>
-      `${FORM_EMOJI[id]} ${data.forms[id]?.name ?? id}${id === formId ? " 👤" : ""}`,
-  );
-  const formColors = FORM_ORDER.map((id) => `var(--form-${id})`);
-  const formHrefs = FORM_ORDER.map((id) => `/forms/${id}`);
-  const beanLabels = BEAN_ORDER.map(
-    (id) =>
-      `${(data.beans[id]?.name ?? id).replace(/ Bean$/, "")}${id === beanId ? " 👤" : ""}`,
-  );
-  const beanColors = BEAN_ORDER.map((id) => `var(--bean-${id})`);
-  const beanHrefs = BEAN_ORDER.map((id) => `/beans/${id}`);
-  const spiritDiff = scores ? getSpiritDiff(scores) : 0;
-  const alignmentText = getAlignmentText(spiritDiff);
 
   return (
     <div className="flex flex-col gap-8 animate-fade-up">
-      <div className="flex flex-col md:flex-row gap-8">
-        <div className="w-full md:w-80 shrink-0 aspect-square">
-          {bean && <Bean bean={bean} flavourId={flavourId} formId={formId} />}
-        </div>
-        <div className="flex flex-col gap-4 min-w-0 flex-1">
-          <a
-            href="/"
-            className="text-sm text-zinc-500 hover:text-zinc-300 transition-colors"
-          >
-            ← Home
-          </a>
-          <h1 className="text-3xl font-bold">
-            {bean && (
-              <ZodiacName
-                flavourId={flavourId}
-                formId={formId}
-                beanId={beanId}
-                preparation={preparation}
-                beanName={bean.name}
-              />
-            )}
-          </h1>
-          <div className="flex flex-wrap items-center gap-2 text-sm text-zinc-400">
-            {flavour && <FlavourBadge id={flavourId} name={flavour.name} />}
-            <span className="text-zinc-600">×</span>
-            {form && <FormBadge id={formId} name={form.name} />}
-            <span className="text-zinc-600">×</span>
-            {bean && <BeanBadge id={beanId} name={bean.name} />}
-            <span className="text-zinc-600">=</span>
-            {zodiac ? (
-              <TraitBadge trait={zodiac.trait} featured />
-            ) : (
-              <div className="h-6 w-20 bg-zinc-800 rounded-full animate-pulse" />
-            )}
-          </div>
-          {zodiac ? (
-            <p className="text-zinc-300 italic">"{zodiac.quote}"</p>
-          ) : (
-            <div className="h-4 w-64 bg-zinc-800 rounded-full animate-pulse" />
-          )}
-          {zodiac?.content && (
-            <div className="markdown-content mb-2">
-              <Markdown>{zodiac.content}</Markdown>
-            </div>
-          )}
-        </div>
-      </div>
-
-      {/* Spirit Bean */}
-      <section id="spirit-bean" className="flex flex-col items-center gap-8">
-        <div className="flex items-center gap-3 w-full">
-          <div className="flex-1 border-t border-zinc-700" />
-          <span className="text-zinc-500 text-xs">✦</span>
-          <div className="flex-1 border-t border-zinc-700" />
-        </div>
+      {/* Beanstalk */}
+      <section id="beanstalk" className="flex flex-col items-center gap-8">
         <div className="text-center">
-          <h2 className="text-4xl font-bold mb-4">Spirit Bean</h2>
-          <p className="text-zinc-400 max-w-md mx-auto">
-            Your affinity with each element of the Bean Zodiac.
+          <h1 className="text-4xl sm:text-6xl font-bold mb-4">The Beanstalk</h1>
+        </div>
+
+        <div className="flex items-center gap-3 max-w-6xl w-full mb-4">
+          <div className="flex-1 border-t border-zinc-600" />
+          <span className="text-zinc-500 text-xs">✦</span>
+          <div className="flex-1 border-t border-zinc-600" />
+        </div>
+
+        <div className="text-center">
+          <h1 className="text-2xl sm:text-4xl font-bold mb-4">Spirit Bean</h1>
+          <p className="text-zinc-400 mt-3 mb-4 sm:mb-6">
+            Your current affinity with each element of the Bean Zodiac.
           </p>
         </div>
         {scores && (
           <>
             <div className="grid grid-cols-1 sm:grid-cols-3 gap-12 w-full">
-              <SpiritBeanRadar
-                title="Flavour"
-                labels={flavourLabels}
-                labelColors={flavourColors}
-                labelHrefs={flavourHrefs}
-                values={scores.flavourValues}
-                highlightIndex={scores.flavourHighlight}
-                colorVar={`var(--flavour-${FLAVOUR_ORDER[scores.flavourHighlight]})`}
-              />
-              <SpiritBeanRadar
-                title="Form"
-                labels={formLabels}
-                labelColors={formColors}
-                labelHrefs={formHrefs}
-                values={scores.formValues}
-                highlightIndex={scores.formHighlight}
-                colorVar={`var(--form-${FORM_ORDER[scores.formHighlight]})`}
-              />
-              <SpiritBeanRadar
-                title="Bean"
-                labels={beanLabels}
-                labelColors={beanColors}
-                labelHrefs={beanHrefs}
-                values={scores.beanValues}
-                highlightIndex={scores.beanHighlight}
-                colorVar={`var(--bean-${BEAN_ORDER[scores.beanHighlight]})`}
-              />
+              <div className="flex flex-col items-center">
+                <p className="text-sm text-zinc-400 uppercase tracking-widest">
+                  Flavour
+                </p>
+                <FlavourRadar
+                  data={data}
+                  claimedId={flavourId}
+                  values={scores.flavourValues}
+                  highlightIndex={scores.flavourHighlight}
+                  showLinks
+                />
+              </div>
+              <div className="flex flex-col items-center">
+                <p className="text-sm text-zinc-400 uppercase tracking-widest">
+                  Form
+                </p>
+                <FormRadar
+                  data={data}
+                  claimedId={formId}
+                  values={scores.formValues}
+                  highlightIndex={scores.formHighlight}
+                  showLinks
+                />
+              </div>
+              <div className="flex flex-col items-center">
+                <p className="text-sm text-zinc-400 uppercase tracking-widest">
+                  Bean
+                </p>
+                <BeanRadar
+                  data={data}
+                  claimedId={beanId}
+                  values={scores.beanValues}
+                  highlightIndex={scores.beanHighlight}
+                  showLinks
+                />
+              </div>
             </div>
-            <p className="text-2xl font-semibold text-center text-zinc-200">
-              {alignmentText}
+            <p className="text-lg sm:text-xl font-bold text-zinc-300 text-center">
+              {getAlignmentText(getSpiritDiff(scores))}
             </p>
           </>
+        )}
+
+        <div className="flex items-center gap-3 max-w-6xl w-full">
+          <div className="flex-1 border-t border-zinc-600" />
+          <span className="text-zinc-500 text-xs">✦</span>
+          <div className="flex-1 border-t border-zinc-600" />
+        </div>
+
+        {scores && claimedSlug && (
+          <Beanstalk
+            nodes={beanstalkNodes}
+            currentScores={scores}
+            data={data}
+            claimedSlug={claimedSlug}
+          />
         )}
       </section>
     </div>

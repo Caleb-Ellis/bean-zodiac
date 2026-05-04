@@ -181,7 +181,7 @@ export default function ClaimedBeanResult({
                 <a
                   role="status"
                   aria-live="polite"
-                  href="/me#spirit-bean"
+                  href="/beanstalk"
                   className="absolute left-0 top-full mt-3 w-max px-3 py-2 rounded-lg bg-zinc-800 border border-zinc-600 text-sm text-zinc-300 underline shadow-md transition-[opacity,transform] duration-300 ease-out"
                   style={{
                     opacity: showToast ? 1 : 0,
@@ -189,7 +189,7 @@ export default function ClaimedBeanResult({
                     pointerEvents: showToast ? "auto" : "none",
                   }}
                 >
-                  Your Spirit Bean stirs&nbsp;→
+                  The Beanstalk grows&nbsp;→
                 </a>
               </div>
             </div>
@@ -225,13 +225,13 @@ export default function ClaimedBeanResult({
             🫘&nbsp; The Beaniary
           </a>
           <a
-            href="/legunomicon"
+            href="/beanstalk"
             className="flex items-center gap-1.5 px-3 py-1.5 rounded-full bg-zinc-900 border-2 border-zinc-700 hover:border-zinc-500 transition-colors no-underline text-zinc-300"
           >
-            📖&nbsp; The Legunomicon
+            🪴&nbsp; The Beanstalk
           </a>
           <a
-            href="/me"
+            href={`/zodiacs/${claimedSlug}`}
             className="flex items-center gap-1.5 px-3 py-1.5 rounded-full bg-zinc-900 border-2 border-zinc-700 hover:border-zinc-500 transition-colors no-underline text-zinc-300"
           >
             👤&nbsp; About Me

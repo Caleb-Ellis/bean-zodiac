@@ -75,9 +75,23 @@ export default function Beaniary({ data }: Props) {
 
   const sortedMetIds = useMemo(() => {
     return [...metBeans].sort((a, b) => {
-      const [aFlavour, aForm, aBean] = a.split("-");
-      const [bFlavour, bForm, bBean] = b.split("-");
-      return aBean.localeCompare(bBean) || aFlavour.localeCompare(bFlavour) || aForm.localeCompare(bForm);
+      const [aFlavour, aForm, aBean] = a.split("-") as [
+        FlavourId,
+        FormId,
+        BeanId,
+      ];
+      const [bFlavour, bForm, bBean] = b.split("-") as [
+        FlavourId,
+        FormId,
+        BeanId,
+      ];
+      const beanCmp = (data.beans[aBean]?.name ?? aBean).localeCompare(
+        data.beans[bBean]?.name ?? bBean,
+      );
+      if (beanCmp !== 0) return beanCmp;
+      return getPreparationName(aFlavour, aForm).localeCompare(
+        getPreparationName(bFlavour, bForm),
+      );
     });
   }, [metBeans]);
 
@@ -86,22 +100,26 @@ export default function Beaniary({ data }: Props) {
   return (
     <div className="w-full max-w-4xl mx-auto flex flex-col gap-6 animate-fade-up">
       <section className="py-12 text-center">
-        <h1 className="text-4xl sm:text-5xl font-bold">The Beaniary</h1>
-        <p className="mt-3 text-lg text-zinc-300 max-w-xl mx-auto">
-          A record of every Bean you have encountered.
-        </p>
+        <h1 className="text-4xl sm:text-6xl font-bold mb-4">The Beaniary</h1>
       </section>
+      <p className="text-lg font-bold text-center mb-2">
+        You have met {sortedMetIds.length} cultivars of the Bean Zodiac.
+      </p>
       <ul className="grid grid-cols-2 sm:grid-cols-4 lg:grid-cols-6 gap-4 list-none p-0 m-0 items-stretch">
         {sortedMetIds.map((zodiacId) => (
-          <BeaniaryEntry
-            key={zodiacId}
-            zodiacId={zodiacId}
-            data={data}
-          />
+          <BeaniaryEntry key={zodiacId} zodiacId={zodiacId} data={data} />
         ))}
         {Array.from({ length: unmetCount }, (_, i) => (
-          <li key={`unmet-${i}`} className="rounded-2xl border-2 border-zinc-800 bg-zinc-900 p-4 flex items-center justify-center min-h-40">
-            <span style={{ fontSize: "2rem", filter: "brightness(0)" }} aria-hidden="true">🫘</span>
+          <li
+            key={`unmet-${i}`}
+            className="rounded-2xl border-2 border-zinc-800 bg-zinc-900 p-4 flex items-center justify-center min-h-40"
+          >
+            <span
+              style={{ fontSize: "2rem", filter: "brightness(0)" }}
+              aria-hidden="true"
+            >
+              🫘
+            </span>
           </li>
         ))}
       </ul>
