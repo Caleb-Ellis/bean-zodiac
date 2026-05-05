@@ -6,7 +6,7 @@ form: dried
 trait: serene
 dish: Butter bean and honey semifreddo — dried butter beans cooked to silk and folded into whipped honey cream, then frozen.
 quote: Peace begins with bean.
-seasonalFortune: A distance will open — close it, and let the serenity be available to those who need to reach you.
+seasonalFortune: Ancient bean wisdom says — serenity comes from within.
 dailyNeutral: Bring the calm outward; it reaches further than it appears.
 dailyGood: The steadiness you carry is what others are borrowing.
 dailyBest: Let the peace extend outward until everything around you has slowed to meet it.

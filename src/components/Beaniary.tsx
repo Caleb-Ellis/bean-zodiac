@@ -62,6 +62,7 @@ function BeaniaryEntry({
 }
 
 export default function Beaniary({ data }: Props) {
+  const [mounted, setMounted] = useState(false);
   const [metBeans, setMetBeans] = useState<ZodiacId[]>([]);
 
   useEffect(() => {
@@ -71,6 +72,7 @@ export default function Beaniary({ data }: Props) {
       if (claimed) addMetBean(claimed);
     }
     setMetBeans(getMetBeans());
+    setMounted(true);
   }, []);
 
   const sortedMetIds = useMemo(() => {
@@ -97,12 +99,25 @@ export default function Beaniary({ data }: Props) {
 
   const unmetCount = 360 - sortedMetIds.length;
 
+  if (!mounted) {
+    return (
+      <div className="w-full max-w-4xl mx-auto flex flex-col gap-6 animate-fade-up">
+        <section className="pt-12 text-center">
+          <h1 className="text-4xl sm:text-6xl font-bold mb-4">The Beaniary</h1>
+        </section>
+        <div className="flex items-center justify-center py-24">
+          <div className="w-8 h-8 rounded-full border-2 border-zinc-700 border-t-blue-500 animate-spin" />
+        </div>
+      </div>
+    );
+  }
+
   return (
     <div className="w-full max-w-4xl mx-auto flex flex-col gap-6 animate-fade-up">
-      <section className="py-12 text-center">
+      <section className="pt-12 text-center">
         <h1 className="text-4xl sm:text-6xl font-bold mb-4">The Beaniary</h1>
       </section>
-      <p className="text-lg font-bold text-center mb-2">
+      <p className="text-lg font-bold text-center mb-2 sm:mb-4">
         You have met {sortedMetIds.length} cultivars of the Bean Zodiac.
       </p>
       <ul className="grid grid-cols-2 sm:grid-cols-4 lg:grid-cols-6 gap-4 list-none p-0 m-0 items-stretch">

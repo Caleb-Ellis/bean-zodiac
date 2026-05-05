@@ -63,7 +63,9 @@ export default function ZodiacResult({ data, showContent, showFortune, showQuote
     <div className="flex flex-col items-center text-center gap-6 animate-fade-up">
       <section className="flex flex-col items-center gap-2">
         <h2 className="mb-2 flex flex-col items-center font-bold">
-          <span className="block text-md sm:text-xl mb-2 sm:mb-4">We are in the Season of the</span>
+          <span className="block text-md sm:text-xl mb-2 sm:mb-4">
+            {zodiac ? `We are in the ${zodiac.trait} Season of the` : "We are in the Season of the"}
+          </span>
           <span className="block text-4xl sm:text-7xl mb-3 sm:mb-7">
             <ZodiacName
               flavourId={meta.flavourId}

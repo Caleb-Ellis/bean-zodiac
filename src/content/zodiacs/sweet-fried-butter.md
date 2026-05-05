@@ -6,7 +6,7 @@ form: fried
 trait: nonchalant
 dish: Frittelle di fagioli — Tuscan fried white bean fritters, dusted with sugar and drizzled with chestnut honey.
 quote: Whatever, it's beans.
-seasonalFortune: A weight will ask to be picked up — learn to carry it without losing yourself in it.
+seasonalFortune: The bean prophecy is clear — whatever it is, it's probably fine.
 dailyNeutral: Let the weight land lightly — the ease is genuine.
 dailyGood: The cool you bring is holding the temperature — hold it.
 dailyBest: Carry it all without carrying it — it is the right answer for exactly this.

@@ -1,5 +1,8 @@
 import { useEffect, useMemo, useRef, useState } from "react";
 import {
+  BEAN_ORDER,
+  FLAVOUR_ORDER,
+  FORM_ORDER,
   getBeanYear,
   getPreparationName,
   getZodiacMetadataForDate,
@@ -8,8 +11,7 @@ import {
   type FormId,
   type ZodiacId,
 } from "../lib/zodiac";
-import type { AllZodiacData } from "../lib/data";
-import { fetchZodiac } from "../lib/data";
+import { fetchZodiac, type AllZodiacData } from "../lib/data";
 import type { Zodiac } from "../lib/zodiac";
 import {
   computeSpiritBeanScores,
@@ -53,6 +55,10 @@ function closeEnough(a: number[], b: number[]): boolean {
   return a.every((v, i) => Math.abs(v - (b[i] ?? v)) < 0.05);
 }
 
+function spiritZodiacIdFromDisplay(d: DisplayValues): ZodiacId {
+  return `${FLAVOUR_ORDER[d.flavourHighlight]}-${FORM_ORDER[d.formHighlight]}-${BEAN_ORDER[d.beanHighlight]}` as ZodiacId;
+}
+
 // ---------- helpers ----------
 
 function formatDate(d: Date): string {
@@ -71,6 +77,7 @@ function formatDisplayDate(dateStr: string): string {
   });
 }
 
+
 function zodiacParts(id: ZodiacId): [FlavourId, FormId, BeanId] {
   return id.split("-") as [FlavourId, FormId, BeanId];
 }
@@ -85,7 +92,7 @@ function dayBefore(dateStr: string): string {
 // ---------- season filter ----------
 
 interface SeasonFilter {
-  key: string; // startDate string
+  key: string;
   zodiacId: ZodiacId;
   flavourId: FlavourId;
   formId: FormId;
@@ -93,6 +100,34 @@ interface SeasonFilter {
   startDateStr: string;
   endDateStr: string;
   beanYear: number;
+}
+
+// Sample dates per form (15th of the start month, relative to bean year start)
+const FORM_SAMPLE: Record<string, [relYear: 0 | 1, month: number]> = {
+  fried: [0, 3],
+  roasted: [0, 5],
+  fermented: [0, 7],
+  boiled: [0, 9],
+  smoked: [0, 11],
+  dried: [1, 1],
+};
+
+function getAllSeasonsForBeanYear(beanYear: number): SeasonFilter[] {
+  return FORM_ORDER.map((formId) => {
+    const [relYear, month] = FORM_SAMPLE[formId]!;
+    const sampleDate = new Date(beanYear + relYear, month - 1, 15);
+    const meta = getZodiacMetadataForDate(sampleDate);
+    return {
+      key: formatDate(meta.startDate),
+      zodiacId: meta.zodiacId,
+      flavourId: meta.flavourId,
+      formId: meta.formId,
+      beanId: meta.beanId,
+      startDateStr: formatDate(meta.startDate),
+      endDateStr: formatDate(meta.endDate),
+      beanYear,
+    };
+  });
 }
 
 // ---------- props ----------
@@ -104,6 +139,12 @@ interface Props {
   claimedSlug: ZodiacId;
 }
 
+// ---------- initial year display computation (outside hooks) ----------
+
+const _currentBeanYear = getBeanYear(new Date());
+const _initialYearSeasons = getAllSeasonsForBeanYear(_currentBeanYear);
+const _initialYearStart = _initialYearSeasons[0]?.startDateStr;
+
 export default function Beanstalk({
   nodes,
   currentScores,
@@ -113,73 +154,95 @@ export default function Beanstalk({
   const [claimedFlavourId, claimedFormId, claimedBeanId] =
     zodiacParts(claimedSlug);
 
-  // ---------- season filter ----------
+  // ---------- year filter ----------
 
-  const seasons = useMemo<SeasonFilter[]>(() => {
-    const seen = new Map<string, SeasonFilter>();
+  const beanYears = useMemo<number[]>(() => {
+    const yearSet = new Set<number>([getBeanYear(new Date())]);
     for (const node of nodes) {
-      if (node.kind !== "fortune") continue;
       const [y, m, d] = node.date.split("-").map(Number);
-      const meta = getZodiacMetadataForDate(new Date(y, m - 1, d));
-      const startKey = formatDate(meta.startDate);
-      if (!seen.has(startKey)) {
-        const [fId, frId, bId] = meta.zodiacId.split("-") as [
-          FlavourId,
-          FormId,
-          BeanId,
-        ];
-        seen.set(startKey, {
-          key: startKey,
-          zodiacId: meta.zodiacId,
-          flavourId: fId,
-          formId: frId,
-          beanId: bId,
-          startDateStr: startKey,
-          endDateStr: formatDate(meta.endDate),
-          beanYear: getBeanYear(meta.startDate),
-        });
-      }
+      yearSet.add(getBeanYear(new Date(y, m - 1, d)));
     }
-    return Array.from(seen.values()).sort((a, b) =>
-      a.startDateStr.localeCompare(b.startDateStr),
-    );
+    return Array.from(yearSet).sort((a, b) => a - b);
   }, [nodes]);
 
-  const [selectedSeasonKey, setSelectedSeasonKey] = useState<string | null>(
-    () => {
-      const meta = getZodiacMetadataForDate(new Date());
-      return formatDate(meta.startDate);
-    },
+  const [selectedBeanYear, setSelectedBeanYear] =
+    useState<number>(_currentBeanYear);
+
+  const yearSeasons = useMemo<SeasonFilter[]>(
+    () => getAllSeasonsForBeanYear(selectedBeanYear),
+    [selectedBeanYear],
   );
-  const [seasonZodiac, setSeasonZodiac] = useState<Zodiac | null>(null);
 
-  const filteredNodes = useMemo(() => {
-    if (!selectedSeasonKey) return nodes;
-    const season = seasons.find((s) => s.key === selectedSeasonKey);
-    if (!season) return nodes;
-    return nodes.filter(
-      (n) => n.date >= season.startDateStr && n.date <= season.endDateStr,
-    );
-  }, [nodes, selectedSeasonKey, seasons]);
+  const fortuneNodesInYear = useMemo(() => {
+    if (yearSeasons.length === 0) return [];
+    const yearStart = yearSeasons[0]!.startDateStr;
+    const yearEnd = yearSeasons[yearSeasons.length - 1]!.endDateStr;
+    return nodes.filter((n) => n.date >= yearStart && n.date <= yearEnd);
+  }, [nodes, yearSeasons]);
 
-  // Find first fortune node to seed display values
-  const firstFortune = filteredNodes.find((n) => n.kind === "fortune") as
-    | (BeanstalkNode & { kind: "fortune" })
-    | undefined;
+  const today = formatDate(new Date());
 
-  const initialDisplay = firstFortune
-    ? scoresToDisplay(firstFortune.scores)
-    : scoresToDisplay(currentScores);
+  const yearSections = useMemo(() => {
+    let idx = 0;
+    return yearSeasons
+      .filter((season) => season.startDateStr <= today)
+      .map((season) => {
+        const sectionNodes = fortuneNodesInYear.filter(
+          (n) => n.date >= season.startDateStr && n.date <= season.endDateStr,
+        );
+        const startIdx = idx;
+        idx += sectionNodes.length;
+        return { season, nodes: sectionNodes, startIdx };
+      });
+  }, [yearSeasons, fortuneNodesInYear]);
 
-  const [activeIdx, setActiveIdx] = useState(0);
+  const [sectionZodiacs, setSectionZodiacs] = useState<Map<string, Zodiac>>(
+    new Map(),
+  );
+  const [loadingZodiacs, setLoadingZodiacs] = useState(false);
+  const pendingFetches = useRef(0);
+
+  useEffect(() => {
+    setSectionZodiacs(new Map());
+    const count = yearSections.length;
+    pendingFetches.current = count;
+    if (count === 0) return;
+    setLoadingZodiacs(true);
+    for (const { season } of yearSections) {
+      fetchZodiac(season.zodiacId).then((z) => {
+        setSectionZodiacs((prev) => new Map(prev).set(season.zodiacId, z));
+        pendingFetches.current -= 1;
+        if (pendingFetches.current === 0) setLoadingZodiacs(false);
+      });
+    }
+  }, [yearSections]);
+
+  // ---------- initial display ----------
+
+  const computeInitialDisplay = (): DisplayValues => {
+    if (_initialYearStart) {
+      return scoresToDisplay(
+        computeSpiritBeanScores(claimedSlug, dayBefore(_initialYearStart)),
+      );
+    }
+    return scoresToDisplay(currentScores);
+  };
+
+  const [activeIdx, setActiveIdx] = useState<number | null>(null);
   const [activeRadarTab, setActiveRadarTab] = useState<
     "flavour" | "form" | "bean"
   >("flavour");
-  const [radarExpanded, setRadarExpanded] = useState(false);
+  const [radarExpanded, setRadarExpanded] = useState(true);
+
+  const initialDisplay = computeInitialDisplay();
   const [display, setDisplay] = useState<DisplayValues>(initialDisplay);
+  const [preYearSpiritId, setPreYearSpiritId] = useState<ZodiacId>(() =>
+    spiritZodiacIdFromDisplay(initialDisplay),
+  );
 
   const displayRef = useRef<DisplayValues>(initialDisplay);
   const targetRef = useRef<DisplayValues>(initialDisplay);
+  const preYearDisplayRef = useRef<DisplayValues>(initialDisplay);
   const rafRef = useRef<number>(0);
 
   const nodeRefs = useRef<(HTMLDivElement | null)[]>([]);
@@ -188,42 +251,32 @@ export default function Beanstalk({
   const timelineRef = useRef<HTMLDivElement>(null);
   const topRef = useRef<HTMLDivElement>(null);
 
-  // fetch season zodiac for seasonalFortune display
+  // reset + snap radar to start-of-year scores when year changes
   useEffect(() => {
-    const sel = seasons.find((s) => s.key === selectedSeasonKey);
-    if (!sel) return;
-    setSeasonZodiac(null);
-    fetchZodiac(sel.zodiacId).then(setSeasonZodiac);
-  }, [selectedSeasonKey, seasons]);
-
-  // reset + snap radar to start-of-season scores when filter changes
-  useEffect(() => {
-    setActiveIdx(0);
-    const season = seasons.find((s) => s.key === selectedSeasonKey);
-    if (!season) return;
+    setActiveIdx(null);
+    const seasons = getAllSeasonsForBeanYear(selectedBeanYear);
+    const yearStart = seasons[0]?.startDateStr;
+    if (!yearStart) return;
     const startScores = computeSpiritBeanScores(
       claimedSlug,
-      dayBefore(season.startDateStr),
+      dayBefore(yearStart),
     );
     const snap = scoresToDisplay(startScores);
+    preYearDisplayRef.current = snap;
+    setPreYearSpiritId(spiritZodiacIdFromDisplay(snap));
     displayRef.current = snap;
     targetRef.current = snap;
     setDisplay(snap);
-  }, [selectedSeasonKey]);
+  }, [selectedBeanYear]);
 
-  // find the active fortune node (nearest fortune at or before activeIdx)
-  const activeFortuneNode = (() => {
-    for (let i = activeIdx; i >= 0; i--) {
-      const n = filteredNodes[i];
-      if (n?.kind === "fortune") return n;
-    }
-    return firstFortune ?? null;
-  })();
+  const activeFortuneNode =
+    activeIdx !== null ? (fortuneNodesInYear[activeIdx] ?? null) : null;
 
   // animate display values toward target when activeIdx changes
   useEffect(() => {
-    if (!activeFortuneNode) return;
-    targetRef.current = scoresToDisplay(activeFortuneNode.scores);
+    targetRef.current = activeFortuneNode
+      ? scoresToDisplay(activeFortuneNode.scores)
+      : preYearDisplayRef.current;
 
     cancelAnimationFrame(rafRef.current);
     const step = () => {
@@ -255,12 +308,12 @@ export default function Beanstalk({
 
   // update base line height to end at last node's dot center
   useEffect(() => {
-    const lastEl = nodeRefs.current[filteredNodes.length - 1];
+    const lastEl = nodeRefs.current[fortuneNodesInYear.length - 1];
     if (!lastEl || !timelineRef.current || !baseLineRef.current) return;
     const tlTop = timelineRef.current.getBoundingClientRect().top;
     const elRect = lastEl.getBoundingClientRect();
     baseLineRef.current.style.height = `${elRect.top + elRect.height / 2 - tlTop}px`;
-  }, [filteredNodes]);
+  }, [fortuneNodesInYear]);
 
   // scroll listener: track active node + fill bar
   useEffect(() => {
@@ -268,8 +321,8 @@ export default function Beanstalk({
       const isMobile = window.innerWidth < 640;
       const threshold =
         window.innerHeight * (isMobile ? (radarExpanded ? 0.6 : 0.45) : 0.35);
-      let newActive = 0;
-      for (let i = 0; i < filteredNodes.length; i++) {
+      let newActive: number | null = null;
+      for (let i = 0; i < fortuneNodesInYear.length; i++) {
         const el = nodeRefs.current[i];
         if (!el) continue;
         if (el.getBoundingClientRect().top <= threshold) newActive = i;
@@ -277,12 +330,16 @@ export default function Beanstalk({
       setActiveIdx(newActive);
 
       if (fillRef.current && timelineRef.current) {
-        const activeEl = nodeRefs.current[newActive];
-        if (activeEl) {
-          const tlRect = timelineRef.current.getBoundingClientRect();
-          const elRect = activeEl.getBoundingClientRect();
-          const fillH = elRect.top + elRect.height / 2 - tlRect.top;
-          fillRef.current.style.height = `${Math.max(0, fillH)}px`;
+        if (newActive === null) {
+          fillRef.current.style.height = "0px";
+        } else {
+          const activeEl = nodeRefs.current[newActive];
+          if (activeEl) {
+            const tlRect = timelineRef.current.getBoundingClientRect();
+            const elRect = activeEl.getBoundingClientRect();
+            const fillH = elRect.top + elRect.height / 2 - tlRect.top;
+            fillRef.current.style.height = `${Math.max(0, fillH)}px`;
+          }
         }
       }
     };
@@ -290,7 +347,7 @@ export default function Beanstalk({
     window.addEventListener("scroll", handleScroll, { passive: true });
     handleScroll();
     return () => window.removeEventListener("scroll", handleScroll);
-  }, [filteredNodes, radarExpanded]);
+  }, [fortuneNodesInYear, radarExpanded]);
 
   if (nodes.length === 0) {
     return (
@@ -300,110 +357,80 @@ export default function Beanstalk({
     );
   }
 
-  // ---------- season filter badges ----------
-  // Group form-seasons by Bean Year
-  const seasonsByBeanYear = useMemo(() => {
-    const groups = new Map<number, SeasonFilter[]>();
-    for (const s of seasons) {
-      if (!groups.has(s.beanYear)) groups.set(s.beanYear, []);
-      groups.get(s.beanYear)!.push(s);
-    }
-    return Array.from(groups.entries()).sort(([a], [b]) => a - b);
-  }, [seasons]);
+  // ---------- year filter bar ----------
 
-  const seasonFilterBar = seasons.length > 0 && (
+  const yearFilterBar = (
     <div className="flex justify-center w-full">
-      <div className="flex flex-col gap-2 mb-8 w-full max-w-2xl">
-        {seasonsByBeanYear.map(([beanYear, group]) => {
-          const beanId = group[0]!.beanId;
-          const beanName = data.beans[beanId]?.name ?? beanId;
-          const groupHasSelected = group.some(
-            (s) => s.key === selectedSeasonKey,
-          );
+      <div className="flex flex-wrap gap-2 mb-8 justify-center">
+        {beanYears.map((year) => {
+          const seasons = getAllSeasonsForBeanYear(year);
+          const bId = seasons[0]?.beanId;
+          const fId = seasons[0]?.flavourId;
+          const bName = bId ? (data.beans[bId]?.name ?? bId) : String(year);
+          const fName = fId ? (data.flavours[fId]?.name ?? fId) : "";
+          const isSelected = year === selectedBeanYear;
           return (
-            <div
-              key={beanYear}
-              className={`flex flex-col gap-2 rounded-xl border px-4 py-2.5 transition-colors ${
-                groupHasSelected
-                  ? "border-zinc-600 bg-zinc-900"
-                  : "border-zinc-800 bg-zinc-900/40"
+            <button
+              key={year}
+              onClick={() => {
+                if (!isSelected) {
+                  setSelectedBeanYear(year);
+                  topRef.current?.scrollIntoView({ behavior: "instant" });
+                }
+              }}
+              className={`inline-flex items-center gap-2 px-3 py-1.5 rounded-full border text-sm font-medium transition-colors ${
+                isSelected
+                  ? "border-blue-500 bg-blue-950 cursor-default"
+                  : "border-zinc-700 bg-zinc-800 hover:border-zinc-500 cursor-pointer"
               }`}
             >
-              {/* Bean Year header */}
-              <div className="flex items-center gap-1.5">
+              {bId && (
                 <span
                   style={{
                     display: "inline-block",
-                    width: 16,
-                    height: 16,
+                    width: 14,
+                    height: 14,
                     flexShrink: 0,
-                    backgroundColor: `var(--bean-${beanId})`,
-                    maskImage: `url('/images/${beanId}.svg')`,
+                    backgroundColor: `var(--bean-${bId})`,
+                    maskImage: `url('/images/${bId}.svg')`,
                     maskSize: "contain",
                     maskRepeat: "no-repeat",
                     maskPosition: "center",
-                    WebkitMaskImage: `url('/images/${beanId}.svg')`,
+                    WebkitMaskImage: `url('/images/${bId}.svg')`,
                     WebkitMaskSize: "contain",
                     WebkitMaskRepeat: "no-repeat",
                     WebkitMaskPosition: "center",
                   }}
                 />
-                <span className={`text-sm font-semibold bean-${beanId}`}>
-                  {beanName}
-                </span>
-                <span className="text-sm text-zinc-500">{beanYear}</span>
-              </div>
-              {/* Form-season badges */}
-              <div className="flex flex-wrap gap-1.5">
-                {group.map((s) => {
-                  const prep = getPreparationName(s.flavourId, s.formId);
-                  const isSelected = selectedSeasonKey === s.key;
-                  return (
-                    <button
-                      key={s.key}
-                      onClick={() => {
-                        if (!isSelected) setSelectedSeasonKey(s.key);
-                      }}
-                      className={`inline-flex items-center px-2 py-0.5 sm:px-3 sm:py-1 rounded-full border text-xs sm:text-sm font-medium transition-colors ${
-                        isSelected
-                          ? "border-blue-500 bg-blue-950 cursor-default"
-                          : "border-zinc-700 bg-zinc-800 hover:border-zinc-500 cursor-pointer"
-                      }`}
-                    >
-                      <span
-                        style={{
-                          background: `linear-gradient(135deg, var(--flavour-${s.flavourId}) 60%, var(--form-${s.formId}) 75%)`,
-                          WebkitBackgroundClip: "text",
-                          WebkitTextFillColor: "transparent",
-                          backgroundClip: "text",
-                        }}
-                      >
-                        {prep}
-                      </span>
-                    </button>
-                  );
-                })}
-              </div>
-            </div>
+              )}
+              <span
+                style={
+                  isSelected
+                    ? {}
+                    : {
+                        background: `linear-gradient(135deg, var(--flavour-${fId}) 60%, var(--bean-${bId}) 100%)`,
+                        WebkitBackgroundClip: "text",
+                        WebkitTextFillColor: "transparent",
+                        backgroundClip: "text",
+                      }
+                }
+              >
+                {fName} {bName}
+              </span>
+              <span className="text-zinc-500 text-xs">{year}</span>
+            </button>
           );
         })}
       </div>
     </div>
   );
 
-  const selectedSeasonIdx = seasons.findIndex(
-    (s) => s.key === selectedSeasonKey,
-  );
-  const prevSeason = seasons[selectedSeasonIdx - 1] ?? null;
-  const nextSeason = seasons[selectedSeasonIdx + 1] ?? null;
-
-  const navigateSeason = (key: string) => {
-    setSelectedSeasonKey(key);
-    topRef.current?.scrollIntoView({ behavior: "smooth" });
-  };
+  const selectedYearIdx = beanYears.indexOf(selectedBeanYear);
+  const prevYear = beanYears[selectedYearIdx - 1] ?? null;
+  const nextYear = beanYears[selectedYearIdx + 1] ?? null;
 
   // ---------- spirit zodiac for left panel ----------
-  const spiritId = activeFortuneNode?.spiritZodiacId;
+  const spiritId = activeFortuneNode?.spiritZodiacId ?? preYearSpiritId;
   const spiritParts = spiritId ? zodiacParts(spiritId) : null;
   const spiritFlavourId = spiritParts?.[0];
   const spiritFormId = spiritParts?.[1];
@@ -419,12 +446,12 @@ export default function Beanstalk({
       <h2 className="text-2xl sm:text-4xl text-center font-bold mb-4">
         Timeline
       </h2>
-      {seasonFilterBar}
+      {yearFilterBar}
       <div className="w-full flex flex-col lg:flex-row gap-8 lg:gap-16 items-start">
         {/* ── Left: sticky spirit bean panel ── */}
         <div className="max-lg:-mx-4 max-lg:w-screen lg:w-80 shrink-0 sticky top-0 z-20 lg:h-svh flex flex-col lg:bg-transparent lg:border-none max-lg:pt-2 lg:pt-6 sm:pb-6">
           {/* Mobile: center card wrapper */}
-          <div className="max-lg:relative max-lg:mx-auto max-lg:w-[92%] max-lg:bg-zinc-900 max-lg:border max-lg:border-zinc-700 max-lg:rounded-xl max-lg:shadow-[0_0_24px_rgba(0,0,0,0.6)] max-lg:px-4 max-lg:pt-3 max-lg:pb-4 lg:contents">
+          <div className="max-lg:relative max-lg:mx-auto max-lg:w-[95%] max-lg:bg-zinc-900 max-lg:border max-lg:border-zinc-700 max-lg:rounded-xl max-lg:shadow-[0_0_24px_rgba(0,0,0,0.6)] max-lg:px-4 max-lg:pt-3 max-lg:pb-4 lg:contents">
             {spiritId &&
               spiritFlavourId &&
               spiritFormId &&
@@ -434,7 +461,7 @@ export default function Beanstalk({
                   <p className="text-xs text-zinc-400 uppercase tracking-widest mb-1">
                     Spirit Bean
                   </p>
-                  <p className="text-lg font-bold leading-tight mb-1">
+                  <p className="text-lg font-bold leading-tight mb-2">
                     <ZodiacName
                       flavourId={spiritFlavourId}
                       formId={spiritFormId}
@@ -449,9 +476,9 @@ export default function Beanstalk({
               )}
             <button
               onClick={() => setRadarExpanded((v) => !v)}
-              className="lg:hidden absolute bottom-0 left-1/2 -translate-x-1/2 translate-y-1/2 flex items-center gap-1 px-3 py-0.5 rounded-full bg-zinc-800 border border-zinc-700 text-zinc-400 text-xs cursor-pointer z-10"
+              className="lg:hidden absolute bottom-0 left-1/2 -translate-x-1/2 translate-y-1/2 flex items-center gap-1 px-3 py-0.5 rounded-full bg-zinc-800 border border-zinc-400 text-zinc-400 text-xs cursor-pointer z-10"
             >
-              {radarExpanded ? "▲" : "▼"}
+              {radarExpanded ? "Hide evolution ▲" : "See evolution ▼"}
             </button>
 
             {/* Mobile: tab switcher + single radar */}
@@ -464,17 +491,17 @@ export default function Beanstalk({
                     {
                       key: "flavour",
                       label: "Flavour",
-                      color: `var(--flavour-${claimedFlavourId})`,
+                      color: `var(--flavour-${spiritFlavourId ?? claimedFlavourId})`,
                     },
                     {
                       key: "form",
                       label: "Form",
-                      color: `var(--form-${claimedFormId})`,
+                      color: `var(--form-${spiritFormId ?? claimedFormId})`,
                     },
                     {
                       key: "bean",
                       label: "Bean",
-                      color: `var(--bean-${claimedBeanId})`,
+                      color: `var(--bean-${spiritBeanId ?? claimedBeanId})`,
                     },
                   ] as const
                 ).map(({ key, label, color }) => (
@@ -561,71 +588,6 @@ export default function Beanstalk({
 
         {/* ── Right: scrollable timeline ── */}
         <div className="flex-1 relative min-w-0 mb-[80svh]" ref={timelineRef}>
-          {/* Season header */}
-          {(() => {
-            const sel = seasons.find((s) => s.key === selectedSeasonKey);
-            if (!sel) return null;
-            const prep = getPreparationName(sel.flavourId, sel.formId);
-            const bean = data.beans[sel.beanId];
-            const beanName = bean?.name ?? sel.beanId;
-            const flavour = data.flavours[sel.flavourId];
-            const form = data.forms[sel.formId];
-            return (
-              <div className="mb-6 pl-8 flex items-center justify-center gap-8">
-                {bean && (
-                  <div className="w-18 h-18 shrink-0">
-                    <Bean
-                      bean={bean}
-                      flavourId={sel.flavourId}
-                      formId={sel.formId}
-                    />
-                  </div>
-                )}
-                <div className="flex flex-col sm:min-w-lg max-w-lg">
-                  <p className="text-xs text-zinc-500 mb-1">
-                    The Season of the
-                  </p>
-                  <p className="text-sm font-bold uppercase tracking-widest text-zinc-200 mb-2">
-                    <ZodiacName
-                      flavourId={sel.flavourId}
-                      formId={sel.formId}
-                      beanId={sel.beanId}
-                      preparation={prep}
-                      beanName={beanName}
-                      zodiacId={sel.zodiacId}
-                    />
-                  </p>
-                  <div className="flex flex-wrap items-center gap-1 mb-3">
-                    <FlavourBadge
-                      id={sel.flavourId}
-                      name={flavour.name}
-                      label="Phase"
-                      small
-                    />
-                    <span className="text-zinc-700 text-xs">×</span>
-                    <FormBadge
-                      id={sel.formId}
-                      name={form.name}
-                      label="Season"
-                      small
-                    />
-                    <span className="text-zinc-700 text-xs">×</span>
-                    <BeanBadge
-                      id={sel.beanId}
-                      name={beanName}
-                      label="Year"
-                      small
-                    />
-                  </div>
-                  {seasonZodiac && (
-                    <p className="italic text-zinc-300 text-sm">
-                      "{seasonZodiac.seasonalFortune}"
-                    </p>
-                  )}
-                </div>
-              </div>
-            );
-          })()}
           {/* Base line */}
           <div
             ref={baseLineRef}
@@ -640,149 +602,254 @@ export default function Beanstalk({
           />
 
           <div className="flex flex-col">
-            {filteredNodes.map((node, i) => {
-              const isActive = i === activeIdx;
-
-              const [fId, frId, bId] = zodiacParts(node.fortuneZodiacId);
-              const fortuneBean = data.beans[bId];
-              const prep = getPreparationName(fId, frId);
-              const accepted = node.score > 0;
+            {yearSections.map(({ season, nodes: sectionNodes, startIdx }) => {
+              const prep = getPreparationName(season.flavourId, season.formId);
+              const flavour = data.flavours[season.flavourId];
+              const form = data.forms[season.formId];
+              const bean = data.beans[season.beanId];
+              const beanName = bean?.name ?? season.beanId;
+              const isEmpty = sectionNodes.length === 0;
+              const zodiac = sectionZodiacs.get(season.zodiacId) ?? null;
 
               return (
-                <div
-                  key={`fortune-${node.date}`}
-                  ref={(el) => {
-                    nodeRefs.current[i] = el;
-                  }}
-                  className="relative flex items-center gap-4 py-3"
-                >
-                  {/* Dot */}
-                  <div
-                    className="relative z-10 left-1.25 shrink-0 rounded-full transition-all duration-200"
-                    style={{
-                      width: 12,
-                      height: 12,
-                      transform: `${isActive ? "scale(1.5)" : "scale(1)"}`,
-                      backgroundColor: isActive ? "#3b82f6" : "#1e3a5f",
-                      boxShadow: isActive
-                        ? "0 0 0 3px rgba(59,130,246,0.25)"
-                        : "none",
-                    }}
-                  />
-
-                  {/* Fortune card */}
-                  <div
-                    className={`flex-1 min-w-0 rounded-2xl border-2 p-4 transition-colors ${isActive ? "border-blue-800 bg-zinc-900" : "border-zinc-800 bg-zinc-900/60"}`}
-                  >
-                    <div className="flex items-center gap-6">
-                      {fortuneBean && (
-                        <div className="shrink-0" style={{ width: "3rem" }}>
-                          <Bean
-                            bean={fortuneBean}
-                            flavourId={fId}
-                            formId={frId}
-                            qualityId={node.qualityId}
-                          />
-                        </div>
-                      )}
-                      <div className="flex-1 min-w-0">
-                        <p className="text-xs text-zinc-500 mb-1">
-                          {formatDisplayDate(node.date)}
-                        </p>
-
-                        {fortuneBean && (
-                          <p className="text-sm font-bold uppercase tracking-widest text-zinc-200 mb-2">
-                            <ZodiacName
-                              flavourId={fId}
-                              formId={frId}
-                              beanId={bId}
-                              preparation={prep}
-                              beanName={fortuneBean.name}
-                              zodiacId={node.fortuneZodiacId}
-                              qualityId={node.qualityId}
-                            />
-                          </p>
-                        )}
-
-                        <p className="italic text-zinc-300 text-sm mb-3">
-                          "{node.text}"
-                        </p>
-
-                        {node.score === 0 ? (
-                          <span className="inline-flex items-center gap-1.5 px-2 py-0.5 rounded-full border border-zinc-700 text-zinc-500 text-xs">
-                            <span>💤</span>
-                            <span>Ignored</span>
-                          </span>
-                        ) : (
-                          <span
-                            className={`inline-flex items-center gap-1.5 px-2 py-0.5 rounded-full border text-xs ${
-                              accepted
-                                ? "border-green-800 text-green-200"
-                                : "border-amber-800 text-amber-200"
-                            }`}
-                          >
-                            <span>{accepted ? "🌱" : "🍂"}</span>
-                            <span>{accepted ? "Accepted" : "Resisted"}</span>
-                          </span>
-                        )}
+                <div key={season.key}>
+                  {/* Section header */}
+                  <div className="pl-8 pt-10 pb-4 flex flex-col items-center text-center gap-2">
+                    {loadingZodiacs && !zodiac ? (
+                      <div className="h-3 w-40 rounded bg-zinc-800 animate-pulse" />
+                    ) : (
+                      <p className="text-xs text-zinc-500">
+                        {zodiac ? `The ${zodiac.trait} Season of the` : "The Season of the"}
+                      </p>
+                    )}
+                    <p className="text-sm font-bold uppercase tracking-widest text-zinc-200">
+                      <ZodiacName
+                        flavourId={season.flavourId}
+                        formId={season.formId}
+                        beanId={season.beanId}
+                        preparation={prep}
+                        beanName={beanName}
+                        zodiacId={season.zodiacId}
+                      />
+                    </p>
+                    {bean && (
+                      <div className="w-16 h-16 my-6">
+                        <Bean
+                          bean={bean}
+                          flavourId={season.flavourId}
+                          formId={season.formId}
+                        />
                       </div>
+                    )}
+                    <div className="flex flex-wrap items-center justify-center gap-1">
+                      <FlavourBadge
+                        id={season.flavourId}
+                        name={flavour.name}
+                        label="Phase"
+                        small
+                      />
+                      <span className="text-zinc-700 text-xs">×</span>
+                      <FormBadge
+                        id={season.formId}
+                        name={form.name}
+                        label="Season"
+                        small
+                      />
+                      <span className="text-zinc-700 text-xs">×</span>
+                      <BeanBadge
+                        id={season.beanId}
+                        name={beanName}
+                        label="Year"
+                        small
+                      />
                     </div>
+                    <p className="text-xs text-zinc-500 mt-1">
+                      {formatDisplayDate(season.startDateStr)} –{" "}
+                      {formatDisplayDate(season.endDateStr)}
+                    </p>
+                    {loadingZodiacs && !zodiac ? (
+                      <div className="flex flex-col gap-1.5 w-64 mt-1">
+                        <div className="h-3 rounded bg-zinc-800 animate-pulse" />
+                        <div className="h-3 w-4/5 mx-auto rounded bg-zinc-800 animate-pulse" />
+                      </div>
+                    ) : zodiac ? (
+                      <p className="italic text-zinc-300 text-sm max-w-sm mt-1">
+                        "{zodiac.seasonalFortune}"
+                      </p>
+                    ) : null}
                   </div>
+
+                  {isEmpty ? (
+                    <div className="pl-8 pb-4 text-center">
+                      <p className="text-zinc-700 text-sm italic">
+                        No fortunes recorded this season.
+                      </p>
+                    </div>
+                  ) : (
+                    sectionNodes.map((node, localIdx) => {
+                      const globalIdx = startIdx + localIdx;
+                      const isActive = globalIdx === activeIdx;
+                      const [fId, frId, bId] = zodiacParts(
+                        node.fortuneZodiacId,
+                      );
+                      const fortuneBean = data.beans[bId];
+                      const nodeProp = getPreparationName(fId, frId);
+                      const accepted = node.score > 0;
+
+                      return (
+                        <div
+                          key={`fortune-${node.date}`}
+                          ref={(el) => {
+                            nodeRefs.current[globalIdx] = el;
+                          }}
+                          className="relative flex items-center gap-4 py-3"
+                        >
+                          {/* Dot */}
+                          <div
+                            className="relative z-10 left-1.25 shrink-0 rounded-full transition-all duration-200"
+                            style={{
+                              width: 12,
+                              height: 12,
+                              transform: `${isActive ? "scale(1.5)" : "scale(1)"}`,
+                              backgroundColor: isActive ? "#3b82f6" : "#1e3a5f",
+                              boxShadow: isActive
+                                ? "0 0 0 3px rgba(59,130,246,0.25)"
+                                : "none",
+                            }}
+                          />
+
+                          {/* Fortune card */}
+                          <div
+                            className={`flex-1 min-w-0 rounded-2xl border-2 p-4 transition-colors ${isActive ? "border-blue-800 bg-zinc-900" : "border-zinc-800 bg-zinc-900/60"}`}
+                          >
+                            <div className="flex items-center gap-6">
+                              {fortuneBean && (
+                                <div
+                                  className="shrink-0"
+                                  style={{ width: "3rem" }}
+                                >
+                                  <Bean
+                                    bean={fortuneBean}
+                                    flavourId={fId}
+                                    formId={frId}
+                                    qualityId={node.qualityId}
+                                  />
+                                </div>
+                              )}
+                              <div className="flex-1 min-w-0">
+                                <p className="text-xs text-zinc-500 mb-1">
+                                  {formatDisplayDate(node.date)}
+                                </p>
+
+                                {fortuneBean && (
+                                  <p className="text-sm font-bold uppercase tracking-widest text-zinc-200 mb-2">
+                                    <ZodiacName
+                                      flavourId={fId}
+                                      formId={frId}
+                                      beanId={bId}
+                                      preparation={nodeProp}
+                                      beanName={fortuneBean.name}
+                                      zodiacId={node.fortuneZodiacId}
+                                      qualityId={node.qualityId}
+                                    />
+                                  </p>
+                                )}
+
+                                <p className="italic text-zinc-300 text-sm mb-3">
+                                  "{node.text}"
+                                </p>
+
+                                {node.score === 0 ? (
+                                  <span className="inline-flex items-center gap-1.5 px-2 py-0.5 rounded-full border border-zinc-700 text-zinc-500 text-xs">
+                                    <span>💤</span>
+                                    <span>Ignored</span>
+                                  </span>
+                                ) : (
+                                  <span
+                                    className={`inline-flex items-center gap-1.5 px-2 py-0.5 rounded-full border text-xs ${
+                                      accepted
+                                        ? "border-green-800 text-green-200"
+                                        : "border-amber-800 text-amber-200"
+                                    }`}
+                                  >
+                                    <span>{accepted ? "🌱" : "🍂"}</span>
+                                    <span>
+                                      {accepted ? "Accepted" : "Resisted"}
+                                    </span>
+                                  </span>
+                                )}
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      );
+                    })
+                  )}
                 </div>
               );
             })}
           </div>
 
-          {/* Prev / Next season navigation */}
+          {/* Prev / Next year navigation */}
           <div className="flex justify-between gap-4 mt-8">
-            {prevSeason ? (
-              <button
-                onClick={() => navigateSeason(prevSeason.key)}
-                className="flex flex-col items-start px-4 py-3 rounded-xl border border-zinc-700 bg-zinc-900 hover:border-zinc-500 transition-colors text-sm cursor-pointer"
-              >
-                <span className="text-zinc-500 text-xs mb-1">
-                  ← Previous season
-                </span>
-                <ZodiacName
-                  key={prevSeason.zodiacId}
-                  flavourId={prevSeason.flavourId}
-                  formId={prevSeason.formId}
-                  beanId={prevSeason.beanId}
-                  preparation={getPreparationName(
-                    prevSeason.flavourId,
-                    prevSeason.formId,
-                  )}
-                  beanName={
-                    data.beans[prevSeason.beanId]?.name ?? prevSeason.beanId
-                  }
-                />
-              </button>
+            {prevYear !== null ? (
+              (() => {
+                const prevSeasons = getAllSeasonsForBeanYear(prevYear);
+                const pBId = prevSeasons[0]?.beanId;
+                const pFId = prevSeasons[0]?.flavourId;
+                const pBName = pBId
+                  ? (data.beans[pBId]?.name ?? pBId)
+                  : String(prevYear);
+                const pFName = pFId ? (data.flavours[pFId]?.name ?? pFId) : "";
+                return (
+                  <button
+                    onClick={() => {
+                      setSelectedBeanYear(prevYear);
+                      topRef.current?.scrollIntoView({ behavior: "instant" });
+                    }}
+                    className="flex flex-col items-start px-4 py-3 rounded-xl border border-zinc-700 bg-zinc-900 hover:border-zinc-500 transition-colors text-sm cursor-pointer"
+                  >
+                    <span className="text-zinc-500 text-xs mb-1">
+                      ← Previous year
+                    </span>
+                    <span className="text-zinc-200 font-medium">
+                      {pFName} {pBName}{" "}
+                      <span className="text-zinc-500">{prevYear}</span>
+                    </span>
+                  </button>
+                );
+              })()
             ) : (
               <div />
             )}
 
-            {nextSeason ? (
-              <button
-                onClick={() => navigateSeason(nextSeason.key)}
-                className="flex flex-col items-end px-4 py-3 rounded-xl border border-zinc-700 bg-zinc-900 hover:border-zinc-500 transition-colors text-sm cursor-pointer"
-              >
-                <span className="text-zinc-500 text-xs mb-1">
-                  Next season →
-                </span>
-                <ZodiacName
-                  key={nextSeason.zodiacId}
-                  flavourId={nextSeason.flavourId}
-                  formId={nextSeason.formId}
-                  beanId={nextSeason.beanId}
-                  preparation={getPreparationName(
-                    nextSeason.flavourId,
-                    nextSeason.formId,
-                  )}
-                  beanName={
-                    data.beans[nextSeason.beanId]?.name ?? nextSeason.beanId
-                  }
-                />
-              </button>
+            {nextYear !== null ? (
+              (() => {
+                const nextSeasons = getAllSeasonsForBeanYear(nextYear);
+                const nBId = nextSeasons[0]?.beanId;
+                const nFId = nextSeasons[0]?.flavourId;
+                const nBName = nBId
+                  ? (data.beans[nBId]?.name ?? nBId)
+                  : String(nextYear);
+                const nFName = nFId ? (data.flavours[nFId]?.name ?? nFId) : "";
+                return (
+                  <button
+                    onClick={() => {
+                      setSelectedBeanYear(nextYear);
+                      topRef.current?.scrollIntoView({ behavior: "instant" });
+                    }}
+                    className="flex flex-col items-end px-4 py-3 rounded-xl border border-zinc-700 bg-zinc-900 hover:border-zinc-500 transition-colors text-sm cursor-pointer"
+                  >
+                    <span className="text-zinc-500 text-xs mb-1">
+                      Next year →
+                    </span>
+                    <span className="text-zinc-200 font-medium">
+                      {nFName} {nBName}{" "}
+                      <span className="text-zinc-500">{nextYear}</span>
+                    </span>
+                  </button>
+                );
+              })()
             ) : (
               <div />
             )}

@@ -6,7 +6,7 @@ form: fermented
 trait: laid-back
 dish: Butter bean and labneh with honey — cooked butter beans stirred through strained fermented yogurt and drizzled with wildflower honey.
 quote: The bean abides.
-seasonalFortune: Something waiting will not wait indefinitely — find the thing that requires your presence and give it your presence.
+seasonalFortune: This is a season that rewards not trying too hard — sit back, relax and enjoy the beans.
 dailyNeutral: Let the pace slow — the right speed is slower than you think.
 dailyGood: The ease you carry is doing something — let it do its work.
 dailyBest: Settle fully into it — the unhurried version is the best version.

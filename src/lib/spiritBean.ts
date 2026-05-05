@@ -88,6 +88,10 @@ export function computeSpiritBeanScores(
   };
 }
 
+export function getSpiritZodiacId(scores: SpiritBeanScores): ZodiacId {
+  return `${FLAVOUR_ORDER[scores.flavourHighlight]}-${FORM_ORDER[scores.formHighlight]}-${BEAN_ORDER[scores.beanHighlight]}`;
+}
+
 export function getSpiritDiff(scores: SpiritBeanScores): number {
   return (
     Math.max(...scores.flavourValues) -
@@ -99,16 +103,39 @@ export function getSpiritDiff(scores: SpiritBeanScores): number {
 }
 
 const ALIGNMENT_TEXTS = [
+  // 0–9: mild
   "Your body and spirit align.",
-  "A faint divergence — barely worth naming.",
-  "Something stirs beneath the surface.",
-  "The spirit is restless.",
-  "A quiet gap opens between your birth and your bearing.",
-  "The distance is unmistakable now.",
-  "Body and spirit no longer speak the same language.",
-  "The gap has widened further than your birth bean expected.",
-  "The gap widens — the beans are watching closely.",
-  "Your spirit has wandered far from where it started.",
+  "A seed contains everything — including its opposite.",
+  "Something beneath the surface has begun to want.",
+  "The self is not entirely still.",
+  "Change asks quietly before it enters.",
+  "A small door has opened.",
+  "What you are and what you are becoming have not yet met.",
+  "The self leans — barely, but leaning is how it starts.",
+  "A pull exists in you that has no name yet.",
+  "You are faithful to your nature, though it has begun to wander.",
+  // 10–19: moderate
+  "Change has stopped asking.",
+  "What you were and what you are no longer agree.",
+  "You have grown in directions your origin did not anticipate.",
+  "The self you were given and the self you made are in negotiation.",
+  "You are becoming something your beginning did not plan for.",
+  "The original self persists — but quietly.",
+  "Two truths live in you now, and both are real.",
+  "What shaped you first no longer shapes you most.",
+  "You have been unmade and remade — not all at once, but steadily.",
+  "The origin remains, but it no longer governs.",
+  // 20–29: extreme
+  "You have outgrown the self you were handed.",
+  "What you were is now a reference point, not a home.",
+  "Nothing anchors you to the beginning anymore.",
+  "The self that was born and the self that lives have parted ways.",
+  "You are no longer what you were — and what you were knows it.",
+  "Change does not always return what it borrows.",
+  "What you've become cannot be traced back to where you began.",
+  "The beginning would not recognize the end.",
+  "The river has forgotten it was ever rain.",
+  "Your origin is no longer behind you — it is simply gone.",
 ];
 
 export function getAlignmentText(spiritDiff: number): string {

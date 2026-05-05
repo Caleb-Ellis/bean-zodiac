@@ -6,7 +6,7 @@ form: smoked
 trait: hazy
 dish: Gigantes plaki - butter beans baked with sweet tomato, smoked paprika, and honey.
 quote: Que bean sera, sera. Whatever will bean, will bean.
-seasonalFortune: A pleasant fog is coming — hold onto at least one clear edge inside it, so the comfort has somewhere specific to live.
+seasonalFortune: Everything is blurry, and has soft edges. Meeting beans will be tough in these conditions.
 dailyNeutral: Let the edges stay soft — precision is not what this requires.
 dailyGood: The gentle blur you bring is making everything easier to inhabit.
 dailyBest: Settle fully into the haze — the softness is the thing, and it is enough.

@@ -1,0 +1,7002 @@
+[
+  {
+    "date": "2026-05-05",
+    "zodiacId": "sweet-fermented-navy",
+    "qualityId": "heirloom",
+    "text": "The signal was there; you had learned to read it.",
+    "score": 0
+  },
+  {
+    "date": "2026-05-04",
+    "zodiacId": "sour-fermented-mung",
+    "qualityId": "market",
+    "text": "You push before the ground is ready to hold you.",
+    "score": 1
+  },
+  {
+    "date": "2026-05-03",
+    "zodiacId": "sweet-fermented-adzuki",
+    "qualityId": "market",
+    "text": "The gap between effort and result is where something is hiding.",
+    "score": 1
+  },
+  {
+    "date": "2026-05-02",
+    "zodiacId": "bitter-boiled-pinto",
+    "qualityId": "market",
+    "text": "Depth calls to depth — what you find is genuinely yours.",
+    "score": 0
+  },
+  {
+    "date": "2026-04-30",
+    "zodiacId": "sweet-fried-black",
+    "qualityId": "heirloom",
+    "text": "Warmth extended without calculation — this is the practice.",
+    "score": 1
+  },
+  {
+    "date": "2026-04-28",
+    "zodiacId": "sour-roasted-chickpea",
+    "qualityId": "garden",
+    "text": "What comes through you is not about you — pass it forward.",
+    "score": -1
+  },
+  {
+    "date": "2026-04-27",
+    "zodiacId": "umami-fried-pinto",
+    "qualityId": "rotten",
+    "text": "Something complicated simplifies once you stop forcing the shape.",
+    "score": 1
+  },
+  {
+    "date": "2026-04-26",
+    "zodiacId": "bitter-roasted-adzuki",
+    "qualityId": "stale",
+    "text": "The window is brief — you see it and move.",
+    "score": 1
+  },
+  {
+    "date": "2026-04-25",
+    "zodiacId": "sour-fermented-fava",
+    "qualityId": "heirloom",
+    "text": "The slow transformation is already well underway.",
+    "score": 0
+  },
+  {
+    "date": "2026-04-24",
+    "zodiacId": "umami-smoked-green",
+    "qualityId": "market",
+    "text": "Generosity given without expectation compounds differently.",
+    "score": 0
+  },
+  {
+    "date": "2026-04-19",
+    "zodiacId": "bitter-roasted-pinto",
+    "qualityId": "stale",
+    "text": "The thing you called a problem was mostly just unfamiliar.",
+    "score": 0
+  },
+  {
+    "date": "2026-04-17",
+    "zodiacId": "bitter-fried-mung",
+    "qualityId": "stale",
+    "text": "What the day demands is less than what you planned to give.",
+    "score": 0
+  },
+  {
+    "date": "2026-04-16",
+    "zodiacId": "umami-smoked-edamame",
+    "qualityId": "garden",
+    "text": "What comes through you is not about you — pass it forward.",
+    "score": 1
+  },
+  {
+    "date": "2026-04-15",
+    "zodiacId": "spicy-fried-fava",
+    "qualityId": "market",
+    "text": "What was missing was simpler than you thought.",
+    "score": -1
+  },
+  {
+    "date": "2026-04-14",
+    "zodiacId": "bitter-roasted-edamame",
+    "qualityId": "garden",
+    "text": "What the day demands is less than what you planned to give.",
+    "score": 0
+  },
+  {
+    "date": "2026-04-12",
+    "zodiacId": "bitter-fermented-mung",
+    "qualityId": "market",
+    "text": "Something long delayed finally moves.",
+    "score": 0
+  },
+  {
+    "date": "2026-04-11",
+    "zodiacId": "sweet-fermented-black",
+    "qualityId": "heirloom",
+    "text": "The difficulty was real, and you were equal to it.",
+    "score": -1
+  },
+  {
+    "date": "2026-04-10",
+    "zodiacId": "spicy-fermented-pinto",
+    "qualityId": "market",
+    "text": "Your instinct outpaces your explanation — trust it.",
+    "score": 0
+  },
+  {
+    "date": "2026-04-09",
+    "zodiacId": "sweet-fried-fava",
+    "qualityId": "rotten",
+    "text": "Something outside your control resolves in your favour.",
+    "score": 0
+  },
+  {
+    "date": "2026-04-08",
+    "zodiacId": "umami-dried-fava",
+    "qualityId": "rotten",
+    "text": "Depth calls to depth — what you find is genuinely yours.",
+    "score": 0
+  },
+  {
+    "date": "2026-04-06",
+    "zodiacId": "sour-boiled-edamame",
+    "qualityId": "market",
+    "text": "The difficulty was real, and you were equal to it.",
+    "score": 0
+  },
+  {
+    "date": "2026-04-05",
+    "zodiacId": "umami-fermented-butter",
+    "qualityId": "garden",
+    "text": "You draw a line and discover it was the right one.",
+    "score": -1
+  },
+  {
+    "date": "2026-04-02",
+    "zodiacId": "umami-boiled-navy",
+    "qualityId": "heirloom",
+    "text": "The small mercy you offer lands somewhere it was needed.",
+    "score": 0
+  },
+  {
+    "date": "2026-03-31",
+    "zodiacId": "sweet-roasted-green",
+    "qualityId": "stale",
+    "text": "The thread you follow leads somewhere real.",
+    "score": 1
+  },
+  {
+    "date": "2026-03-30",
+    "zodiacId": "umami-roasted-kidney",
+    "qualityId": "garden",
+    "text": "The effort was proportionate and the result reflects that.",
+    "score": -1
+  },
+  {
+    "date": "2026-03-29",
+    "zodiacId": "spicy-boiled-navy",
+    "qualityId": "garden",
+    "text": "Something is completing — let it finish.",
+    "score": 1
+  },
+  {
+    "date": "2026-03-28",
+    "zodiacId": "sour-fried-fava",
+    "qualityId": "garden",
+    "text": "What the day demands is less than what you planned to give.",
+    "score": 1
+  },
+  {
+    "date": "2026-03-27",
+    "zodiacId": "sweet-smoked-butter",
+    "qualityId": "garden",
+    "text": "A quiet win; no audience required.",
+    "score": 0
+  },
+  {
+    "date": "2026-03-26",
+    "zodiacId": "sour-boiled-fava",
+    "qualityId": "garden",
+    "text": "What you gave comes back in a form you did not anticipate.",
+    "score": 1
+  },
+  {
+    "date": "2026-03-25",
+    "zodiacId": "bitter-smoked-pinto",
+    "qualityId": "rotten",
+    "text": "What comes through you is not about you — pass it forward.",
+    "score": -1
+  },
+  {
+    "date": "2026-03-24",
+    "zodiacId": "umami-fried-black",
+    "qualityId": "stale",
+    "text": "The connection you almost missed arrives at the right moment.",
+    "score": 1
+  },
+  {
+    "date": "2026-03-23",
+    "zodiacId": "umami-fried-black",
+    "qualityId": "stale",
+    "text": "The work you have been doing quietly is about to be seen.",
+    "score": 0
+  },
+  {
+    "date": "2026-03-22",
+    "zodiacId": "sweet-dried-fava",
+    "qualityId": "stale",
+    "text": "What you withheld kept you honest — that was enough.",
+    "score": 0
+  },
+  {
+    "date": "2026-03-21",
+    "zodiacId": "bitter-smoked-edamame",
+    "qualityId": "stale",
+    "text": "What comes through you is not about you — pass it forward.",
+    "score": 0
+  },
+  {
+    "date": "2026-03-20",
+    "zodiacId": "spicy-fermented-mung",
+    "qualityId": "stale",
+    "text": "The pattern you have been tracking finally breaks open.",
+    "score": 0
+  },
+  {
+    "date": "2026-03-19",
+    "zodiacId": "sour-fried-kidney",
+    "qualityId": "garden",
+    "text": "You find the right scale and everything becomes manageable.",
+    "score": 0
+  },
+  {
+    "date": "2026-03-18",
+    "zodiacId": "sweet-smoked-edamame",
+    "qualityId": "rotten",
+    "text": "You do less and it lands harder.",
+    "score": 1
+  },
+  {
+    "date": "2026-03-17",
+    "zodiacId": "spicy-roasted-navy",
+    "qualityId": "rotten",
+    "text": "An obstacle becomes a detail once you stop centering it.",
+    "score": 1
+  },
+  {
+    "date": "2026-03-15",
+    "zodiacId": "bitter-fermented-cannellini",
+    "qualityId": "garden",
+    "text": "Your steadiness is the invisible infrastructure everyone relies on.",
+    "score": 0
+  },
+  {
+    "date": "2026-03-14",
+    "zodiacId": "sour-fermented-black",
+    "qualityId": "market",
+    "text": "You extend yourself further than feels safe — and it holds.",
+    "score": 1
+  },
+  {
+    "date": "2026-03-13",
+    "zodiacId": "spicy-boiled-mung",
+    "qualityId": "garden",
+    "text": "What seemed like luck was the residue of your consistency.",
+    "score": 1
+  },
+  {
+    "date": "2026-03-12",
+    "zodiacId": "sweet-fermented-adzuki",
+    "qualityId": "garden",
+    "text": "The shape of the problem clarifies — now you can work with it.",
+    "score": 1
+  },
+  {
+    "date": "2026-03-10",
+    "zodiacId": "umami-dried-cannellini",
+    "qualityId": "garden",
+    "text": "What was missing was simpler than you thought.",
+    "score": 1
+  },
+  {
+    "date": "2026-03-09",
+    "zodiacId": "sour-boiled-cannellini",
+    "qualityId": "market",
+    "text": "The edge you have kept sharp finds its use.",
+    "score": 0
+  },
+  {
+    "date": "2026-03-08",
+    "zodiacId": "sweet-boiled-mung",
+    "qualityId": "market",
+    "text": "The patience was worth it; the thing comes together now.",
+    "score": -1
+  },
+  {
+    "date": "2026-03-06",
+    "zodiacId": "umami-fermented-pinto",
+    "qualityId": "stale",
+    "text": "Something you let go of stops taking up space.",
+    "score": 1
+  },
+  {
+    "date": "2026-03-05",
+    "zodiacId": "spicy-boiled-edamame",
+    "qualityId": "garden",
+    "text": "Momentum returns where it had been draining away.",
+    "score": 0
+  },
+  {
+    "date": "2026-03-04",
+    "zodiacId": "sour-smoked-pinto",
+    "qualityId": "garden",
+    "text": "You do the harder version of the thing and it shows.",
+    "score": 1
+  },
+  {
+    "date": "2026-02-28",
+    "zodiacId": "umami-fermented-mung",
+    "qualityId": "stale",
+    "text": "Let what you are carrying show through — it is safe here.",
+    "score": 0
+  },
+  {
+    "date": "2026-02-27",
+    "zodiacId": "umami-roasted-navy",
+    "qualityId": "market",
+    "text": "The work speaks; you do not need to.",
+    "score": 1
+  },
+  {
+    "date": "2026-02-26",
+    "zodiacId": "umami-dried-kidney",
+    "qualityId": "garden",
+    "text": "Let what you are carrying show through — it is safe here.",
+    "score": 0
+  },
+  {
+    "date": "2026-02-25",
+    "zodiacId": "sweet-fermented-butter",
+    "qualityId": "market",
+    "text": "You do less and it lands harder.",
+    "score": 1
+  },
+  {
+    "date": "2026-02-24",
+    "zodiacId": "umami-dried-chickpea",
+    "qualityId": "garden",
+    "text": "You contribute what the moment needed, not what you had planned.",
+    "score": 0
+  },
+  {
+    "date": "2026-02-23",
+    "zodiacId": "sweet-fried-navy",
+    "qualityId": "market",
+    "text": "The difficulty was real, and you were equal to it.",
+    "score": 0
+  },
+  {
+    "date": "2026-02-22",
+    "zodiacId": "bitter-roasted-black",
+    "qualityId": "stale",
+    "text": "The effort was proportionate and the result reflects that.",
+    "score": 0
+  },
+  {
+    "date": "2026-02-21",
+    "zodiacId": "sweet-dried-pinto",
+    "qualityId": "garden",
+    "text": "Something you said months ago proves itself true today.",
+    "score": 0
+  },
+  {
+    "date": "2026-02-18",
+    "zodiacId": "sour-smoked-butter",
+    "qualityId": "garden",
+    "text": "The effort was proportionate and the result reflects that.",
+    "score": 0
+  },
+  {
+    "date": "2026-02-17",
+    "zodiacId": "spicy-dried-adzuki",
+    "qualityId": "market",
+    "text": "You find the right scale and everything becomes manageable.",
+    "score": 0
+  },
+  {
+    "date": "2026-02-12",
+    "zodiacId": "spicy-smoked-black",
+    "qualityId": "garden",
+    "text": "Pull the edge back; this moment needs warmth more than precision.",
+    "score": 1
+  },
+  {
+    "date": "2026-02-11",
+    "zodiacId": "bitter-fried-kidney",
+    "qualityId": "market",
+    "text": "You reach for more before the first is fully yours.",
+    "score": 1
+  },
+  {
+    "date": "2026-02-10",
+    "zodiacId": "spicy-fermented-butter",
+    "qualityId": "rotten",
+    "text": "Small adjustments compound — this one counts.",
+    "score": 0
+  },
+  {
+    "date": "2026-02-08",
+    "zodiacId": "sweet-fried-pinto",
+    "qualityId": "heirloom",
+    "text": "Something you let go of stops taking up space.",
+    "score": 0
+  },
+  {
+    "date": "2026-02-07",
+    "zodiacId": "umami-roasted-black",
+    "qualityId": "rotten",
+    "text": "The shape of the problem clarifies — now you can work with it.",
+    "score": 0
+  },
+  {
+    "date": "2026-02-06",
+    "zodiacId": "spicy-boiled-green",
+    "qualityId": "market",
+    "text": "The pattern you have been tracking finally breaks open.",
+    "score": 1
+  },
+  {
+    "date": "2026-02-05",
+    "zodiacId": "sour-roasted-cannellini",
+    "qualityId": "garden",
+    "text": "You hold your ground without needing to make noise about it.",
+    "score": -1
+  },
+  {
+    "date": "2026-02-04",
+    "zodiacId": "sour-roasted-chickpea",
+    "qualityId": "garden",
+    "text": "The right comparison arrives and it shifts everything.",
+    "score": 0
+  },
+  {
+    "date": "2026-02-03",
+    "zodiacId": "umami-fried-fava",
+    "qualityId": "rotten",
+    "text": "You choose slowness and the quality of the output reflects it.",
+    "score": 1
+  },
+  {
+    "date": "2026-02-02",
+    "zodiacId": "sweet-smoked-chickpea",
+    "qualityId": "stale",
+    "text": "Depth calls to depth — what you find is genuinely yours.",
+    "score": -1
+  },
+  {
+    "date": "2026-01-29",
+    "zodiacId": "spicy-fermented-cannellini",
+    "qualityId": "stale",
+    "text": "Something old and patient rises to the surface — receive it.",
+    "score": -1
+  },
+  {
+    "date": "2026-01-28",
+    "zodiacId": "bitter-roasted-fava",
+    "qualityId": "garden",
+    "text": "Your attention narrows to exactly what is needed.",
+    "score": 0
+  },
+  {
+    "date": "2026-01-26",
+    "zodiacId": "bitter-boiled-edamame",
+    "qualityId": "market",
+    "text": "A quiet win; no audience required.",
+    "score": 0
+  },
+  {
+    "date": "2026-01-25",
+    "zodiacId": "umami-fermented-black",
+    "qualityId": "garden",
+    "text": "The softer path is not the weaker one.",
+    "score": 1
+  },
+  {
+    "date": "2026-01-24",
+    "zodiacId": "sour-dried-edamame",
+    "qualityId": "garden",
+    "text": "The signal was there; you had learned to read it.",
+    "score": 1
+  },
+  {
+    "date": "2026-01-22",
+    "zodiacId": "bitter-boiled-pinto",
+    "qualityId": "market",
+    "text": "An unlikely source carries exactly the clarity you need.",
+    "score": 0
+  },
+  {
+    "date": "2026-01-20",
+    "zodiacId": "umami-fermented-fava",
+    "qualityId": "stale",
+    "text": "An obstacle becomes a detail once you stop centering it.",
+    "score": -1
+  },
+  {
+    "date": "2026-01-18",
+    "zodiacId": "umami-boiled-mung",
+    "qualityId": "market",
+    "text": "What you almost abandoned becomes the thing you are proudest of.",
+    "score": 1
+  },
+  {
+    "date": "2026-01-16",
+    "zodiacId": "sour-dried-green",
+    "qualityId": "garden",
+    "text": "The work speaks; you do not need to.",
+    "score": -1
+  },
+  {
+    "date": "2026-01-15",
+    "zodiacId": "sweet-fried-chickpea",
+    "qualityId": "market",
+    "text": "What felt like retreat was the necessary arc.",
+    "score": 0
+  },
+  {
+    "date": "2026-01-14",
+    "zodiacId": "sour-dried-chickpea",
+    "qualityId": "garden",
+    "text": "What comes through you is not about you — pass it forward.",
+    "score": 1
+  },
+  {
+    "date": "2026-01-13",
+    "zodiacId": "bitter-fried-edamame",
+    "qualityId": "heirloom",
+    "text": "The patience was worth it; the thing comes together now.",
+    "score": 0
+  },
+  {
+    "date": "2026-01-12",
+    "zodiacId": "sour-roasted-edamame",
+    "qualityId": "stale",
+    "text": "The resistance you meet is teaching you the shape of the door.",
+    "score": 0
+  },
+  {
+    "date": "2026-01-11",
+    "zodiacId": "bitter-fried-butter",
+    "qualityId": "market",
+    "text": "Precision lands — this is what the long preparation was for.",
+    "score": 0
+  },
+  {
+    "date": "2026-01-10",
+    "zodiacId": "sweet-fermented-butter",
+    "qualityId": "market",
+    "text": "Precision lands — this is what the long preparation was for.",
+    "score": 0
+  },
+  {
+    "date": "2026-01-09",
+    "zodiacId": "sweet-boiled-cannellini",
+    "qualityId": "rotten",
+    "text": "The version of yourself you have been building shows up clearly.",
+    "score": -1
+  },
+  {
+    "date": "2026-01-06",
+    "zodiacId": "spicy-fried-green",
+    "qualityId": "market",
+    "text": "Stillness is not absence — it is a different kind of work.",
+    "score": 0
+  },
+  {
+    "date": "2026-01-05",
+    "zodiacId": "sweet-dried-black",
+    "qualityId": "market",
+    "text": "You push before the ground is ready to hold you.",
+    "score": -1
+  },
+  {
+    "date": "2026-01-04",
+    "zodiacId": "umami-dried-mung",
+    "qualityId": "market",
+    "text": "The slow transformation is already well underway.",
+    "score": 1
+  },
+  {
+    "date": "2026-01-01",
+    "zodiacId": "sweet-fermented-mung",
+    "qualityId": "heirloom",
+    "text": "Something you let go of stops taking up space.",
+    "score": 0
+  },
+  {
+    "date": "2025-12-29",
+    "zodiacId": "sour-smoked-adzuki",
+    "qualityId": "heirloom",
+    "text": "Warmth extended without calculation — this is the practice.",
+    "score": 0
+  },
+  {
+    "date": "2025-12-28",
+    "zodiacId": "spicy-fried-mung",
+    "qualityId": "market",
+    "text": "What you bring is exactly proportionate to what is needed.",
+    "score": 1
+  },
+  {
+    "date": "2025-12-27",
+    "zodiacId": "bitter-smoked-cannellini",
+    "qualityId": "rotten",
+    "text": "The question you have been avoiding is the useful one.",
+    "score": -1
+  },
+  {
+    "date": "2025-12-24",
+    "zodiacId": "bitter-boiled-butter",
+    "qualityId": "stale",
+    "text": "You do the harder version of the thing and it shows.",
+    "score": 1
+  },
+  {
+    "date": "2025-12-23",
+    "zodiacId": "umami-dried-mung",
+    "qualityId": "market",
+    "text": "The risk was measured and the landing is solid.",
+    "score": 0
+  },
+  {
+    "date": "2025-12-22",
+    "zodiacId": "umami-boiled-chickpea",
+    "qualityId": "stale",
+    "text": "You mistake endurance for wisdom — they are not the same.",
+    "score": -1
+  },
+  {
+    "date": "2025-12-21",
+    "zodiacId": "sour-fried-pinto",
+    "qualityId": "rotten",
+    "text": "An unlikely source carries exactly the clarity you need.",
+    "score": 0
+  },
+  {
+    "date": "2025-12-20",
+    "zodiacId": "sour-roasted-mung",
+    "qualityId": "rotten",
+    "text": "The difficulty you face is not a sign you chose wrong.",
+    "score": 0
+  },
+  {
+    "date": "2025-12-19",
+    "zodiacId": "sweet-dried-kidney",
+    "qualityId": "garden",
+    "text": "You draw a line and discover it was the right one.",
+    "score": 0
+  },
+  {
+    "date": "2025-12-17",
+    "zodiacId": "umami-boiled-kidney",
+    "qualityId": "market",
+    "text": "One honest word does what days of positioning could not.",
+    "score": 1
+  },
+  {
+    "date": "2025-12-15",
+    "zodiacId": "spicy-fried-fava",
+    "qualityId": "market",
+    "text": "What you carry forward is lighter than what you set down.",
+    "score": 0
+  },
+  {
+    "date": "2025-12-14",
+    "zodiacId": "bitter-roasted-adzuki",
+    "qualityId": "market",
+    "text": "You extend yourself further than feels safe — and it holds.",
+    "score": 1
+  },
+  {
+    "date": "2025-12-12",
+    "zodiacId": "spicy-roasted-adzuki",
+    "qualityId": "garden",
+    "text": "The discomfort is pointing at something useful.",
+    "score": -1
+  },
+  {
+    "date": "2025-12-11",
+    "zodiacId": "bitter-roasted-pinto",
+    "qualityId": "stale",
+    "text": "The gap between effort and result is where something is hiding.",
+    "score": 0
+  },
+  {
+    "date": "2025-12-10",
+    "zodiacId": "sweet-roasted-navy",
+    "qualityId": "garden",
+    "text": "Stillness is not absence — it is a different kind of work.",
+    "score": -1
+  },
+  {
+    "date": "2025-12-09",
+    "zodiacId": "bitter-dried-adzuki",
+    "qualityId": "garden",
+    "text": "The softer path is not the weaker one.",
+    "score": -1
+  },
+  {
+    "date": "2025-12-08",
+    "zodiacId": "bitter-fermented-kidney",
+    "qualityId": "garden",
+    "text": "A brief pause does more than hours of pressing forward.",
+    "score": 0
+  },
+  {
+    "date": "2025-12-07",
+    "zodiacId": "sour-boiled-edamame",
+    "qualityId": "rotten",
+    "text": "Something complicated simplifies once you stop forcing the shape.",
+    "score": 1
+  },
+  {
+    "date": "2025-12-06",
+    "zodiacId": "bitter-smoked-pinto",
+    "qualityId": "garden",
+    "text": "Something you have been holding loosens without announcement.",
+    "score": 0
+  },
+  {
+    "date": "2025-12-05",
+    "zodiacId": "umami-fermented-cannellini",
+    "qualityId": "garden",
+    "text": "You recognise the pattern early enough to change the outcome.",
+    "score": 1
+  },
+  {
+    "date": "2025-12-04",
+    "zodiacId": "bitter-boiled-edamame",
+    "qualityId": "market",
+    "text": "Something you let go of stops taking up space.",
+    "score": 0
+  },
+  {
+    "date": "2025-12-02",
+    "zodiacId": "bitter-fermented-kidney",
+    "qualityId": "stale",
+    "text": "What you built for yourself turns out to work for others too.",
+    "score": 0
+  },
+  {
+    "date": "2025-12-01",
+    "zodiacId": "bitter-fried-mung",
+    "qualityId": "market",
+    "text": "An unlikely source carries exactly the clarity you need.",
+    "score": 0
+  },
+  {
+    "date": "2025-11-29",
+    "zodiacId": "spicy-roasted-mung",
+    "qualityId": "garden",
+    "text": "You contribute what the moment needed, not what you had planned.",
+    "score": 1
+  },
+  {
+    "date": "2025-11-27",
+    "zodiacId": "spicy-fried-black",
+    "qualityId": "market",
+    "text": "The discomfort is pointing at something useful.",
+    "score": 0
+  },
+  {
+    "date": "2025-11-26",
+    "zodiacId": "umami-roasted-chickpea",
+    "qualityId": "rotten",
+    "text": "Small adjustments compound — this one counts.",
+    "score": 1
+  },
+  {
+    "date": "2025-11-25",
+    "zodiacId": "umami-fried-navy",
+    "qualityId": "rotten",
+    "text": "You arrive with the right thing at the right moment.",
+    "score": 0
+  },
+  {
+    "date": "2025-11-22",
+    "zodiacId": "sour-fermented-adzuki",
+    "qualityId": "market",
+    "text": "Let the question sit — it does not need your answer yet.",
+    "score": 1
+  },
+  {
+    "date": "2025-11-20",
+    "zodiacId": "spicy-roasted-navy",
+    "qualityId": "heirloom",
+    "text": "Warmth extended without calculation — this is the practice.",
+    "score": 0
+  },
+  {
+    "date": "2025-11-17",
+    "zodiacId": "sour-smoked-edamame",
+    "qualityId": "market",
+    "text": "Something old and patient rises to the surface — receive it.",
+    "score": 0
+  },
+  {
+    "date": "2025-11-16",
+    "zodiacId": "bitter-fried-mung",
+    "qualityId": "garden",
+    "text": "Depth calls to depth — what you find is genuinely yours.",
+    "score": 1
+  },
+  {
+    "date": "2025-11-15",
+    "zodiacId": "umami-fermented-pinto",
+    "qualityId": "market",
+    "text": "Let the question sit — it does not need your answer yet.",
+    "score": 0
+  },
+  {
+    "date": "2025-11-14",
+    "zodiacId": "sour-fried-mung",
+    "qualityId": "heirloom",
+    "text": "You recognise the pattern early enough to change the outcome.",
+    "score": 1
+  },
+  {
+    "date": "2025-11-12",
+    "zodiacId": "spicy-fried-fava",
+    "qualityId": "market",
+    "text": "The small mercy you offer lands somewhere it was needed.",
+    "score": 0
+  },
+  {
+    "date": "2025-11-08",
+    "zodiacId": "spicy-smoked-edamame",
+    "qualityId": "garden",
+    "text": "The signal was there; you had learned to read it.",
+    "score": -1
+  },
+  {
+    "date": "2025-11-05",
+    "zodiacId": "sour-boiled-adzuki",
+    "qualityId": "garden",
+    "text": "A long-held tension releases without fanfare — let it go.",
+    "score": 0
+  },
+  {
+    "date": "2025-11-03",
+    "zodiacId": "sour-dried-fava",
+    "qualityId": "stale",
+    "text": "A small correction now prevents a larger one later.",
+    "score": 1
+  },
+  {
+    "date": "2025-11-02",
+    "zodiacId": "umami-dried-pinto",
+    "qualityId": "rotten",
+    "text": "You recognise the pattern early enough to change the outcome.",
+    "score": 0
+  },
+  {
+    "date": "2025-11-01",
+    "zodiacId": "sour-boiled-fava",
+    "qualityId": "market",
+    "text": "A brief pause does more than hours of pressing forward.",
+    "score": 0
+  },
+  {
+    "date": "2025-10-31",
+    "zodiacId": "sweet-dried-edamame",
+    "qualityId": "market",
+    "text": "Your instinct outpaces your explanation — trust it.",
+    "score": 1
+  },
+  {
+    "date": "2025-10-29",
+    "zodiacId": "umami-dried-kidney",
+    "qualityId": "heirloom",
+    "text": "Something is completing — let it finish.",
+    "score": 1
+  },
+  {
+    "date": "2025-10-28",
+    "zodiacId": "sweet-fried-fava",
+    "qualityId": "market",
+    "text": "Something you let go of stops taking up space.",
+    "score": 1
+  },
+  {
+    "date": "2025-10-27",
+    "zodiacId": "sour-smoked-black",
+    "qualityId": "market",
+    "text": "Generosity given without expectation compounds differently.",
+    "score": -1
+  },
+  {
+    "date": "2025-10-26",
+    "zodiacId": "sweet-fermented-mung",
+    "qualityId": "garden",
+    "text": "A quiet win; no audience required.",
+    "score": 1
+  },
+  {
+    "date": "2025-10-25",
+    "zodiacId": "bitter-smoked-chickpea",
+    "qualityId": "market",
+    "text": "What you carry forward is lighter than what you set down.",
+    "score": -1
+  },
+  {
+    "date": "2025-10-24",
+    "zodiacId": "spicy-roasted-cannellini",
+    "qualityId": "garden",
+    "text": "You contribute what the moment needed, not what you had planned.",
+    "score": 0
+  },
+  {
+    "date": "2025-10-23",
+    "zodiacId": "spicy-smoked-navy",
+    "qualityId": "market",
+    "text": "What you withheld kept you honest — that was enough.",
+    "score": 1
+  },
+  {
+    "date": "2025-10-22",
+    "zodiacId": "spicy-dried-cannellini",
+    "qualityId": "market",
+    "text": "The risk was measured and the landing is solid.",
+    "score": 0
+  },
+  {
+    "date": "2025-10-21",
+    "zodiacId": "sweet-fried-chickpea",
+    "qualityId": "garden",
+    "text": "You extend yourself further than feels safe — and it holds.",
+    "score": 0
+  },
+  {
+    "date": "2025-10-19",
+    "zodiacId": "bitter-dried-adzuki",
+    "qualityId": "stale",
+    "text": "Generosity given without expectation compounds differently.",
+    "score": 1
+  },
+  {
+    "date": "2025-10-18",
+    "zodiacId": "umami-fermented-pinto",
+    "qualityId": "market",
+    "text": "A long-held tension releases without fanfare — let it go.",
+    "score": 0
+  },
+  {
+    "date": "2025-10-17",
+    "zodiacId": "sour-boiled-edamame",
+    "qualityId": "garden",
+    "text": "What you carry forward is lighter than what you set down.",
+    "score": 0
+  },
+  {
+    "date": "2025-10-16",
+    "zodiacId": "sweet-boiled-adzuki",
+    "qualityId": "heirloom",
+    "text": "The window is brief — you see it and move.",
+    "score": 0
+  },
+  {
+    "date": "2025-10-15",
+    "zodiacId": "sour-fermented-fava",
+    "qualityId": "market",
+    "text": "Something you have been holding loosens without announcement.",
+    "score": 0
+  },
+  {
+    "date": "2025-10-14",
+    "zodiacId": "sour-smoked-green",
+    "qualityId": "garden",
+    "text": "An obstacle becomes a detail once you stop centering it.",
+    "score": 0
+  },
+  {
+    "date": "2025-10-12",
+    "zodiacId": "sweet-dried-chickpea",
+    "qualityId": "stale",
+    "text": "Something settles that you had stopped expecting to settle.",
+    "score": 0
+  },
+  {
+    "date": "2025-10-11",
+    "zodiacId": "umami-fried-adzuki",
+    "qualityId": "market",
+    "text": "Small adjustments compound — this one counts.",
+    "score": 1
+  },
+  {
+    "date": "2025-10-10",
+    "zodiacId": "sour-fried-chickpea",
+    "qualityId": "rotten",
+    "text": "What you built for yourself turns out to work for others too.",
+    "score": 1
+  },
+  {
+    "date": "2025-10-05",
+    "zodiacId": "spicy-boiled-kidney",
+    "qualityId": "market",
+    "text": "The care you take now is the margin you will need later.",
+    "score": 1
+  },
+  {
+    "date": "2025-10-04",
+    "zodiacId": "spicy-boiled-black",
+    "qualityId": "stale",
+    "text": "The edge you have kept sharp finds its use.",
+    "score": 0
+  },
+  {
+    "date": "2025-10-03",
+    "zodiacId": "umami-fermented-mung",
+    "qualityId": "market",
+    "text": "The gap between effort and result is where something is hiding.",
+    "score": 0
+  },
+  {
+    "date": "2025-10-02",
+    "zodiacId": "sweet-boiled-black",
+    "qualityId": "stale",
+    "text": "Something outside your control resolves in your favour.",
+    "score": 0
+  },
+  {
+    "date": "2025-10-01",
+    "zodiacId": "umami-dried-fava",
+    "qualityId": "rotten",
+    "text": "The urgency fades before it ever needed to arrive.",
+    "score": 0
+  },
+  {
+    "date": "2025-09-30",
+    "zodiacId": "sour-fermented-kidney",
+    "qualityId": "heirloom",
+    "text": "The work speaks; you do not need to.",
+    "score": 0
+  },
+  {
+    "date": "2025-09-28",
+    "zodiacId": "spicy-dried-adzuki",
+    "qualityId": "heirloom",
+    "text": "What you have been building quietly now has its own foundation.",
+    "score": 1
+  },
+  {
+    "date": "2025-09-27",
+    "zodiacId": "sweet-roasted-green",
+    "qualityId": "heirloom",
+    "text": "The right comparison arrives and it shifts everything.",
+    "score": -1
+  },
+  {
+    "date": "2025-09-26",
+    "zodiacId": "spicy-fermented-black",
+    "qualityId": "stale",
+    "text": "Generosity given without expectation compounds differently.",
+    "score": 0
+  },
+  {
+    "date": "2025-09-25",
+    "zodiacId": "sour-smoked-fava",
+    "qualityId": "rotten",
+    "text": "Something long delayed finally moves.",
+    "score": 0
+  },
+  {
+    "date": "2025-09-23",
+    "zodiacId": "bitter-fermented-black",
+    "qualityId": "heirloom",
+    "text": "One honest word does what days of positioning could not.",
+    "score": -1
+  },
+  {
+    "date": "2025-09-20",
+    "zodiacId": "bitter-boiled-mung",
+    "qualityId": "rotten",
+    "text": "The patience was worth it; the thing comes together now.",
+    "score": 0
+  },
+  {
+    "date": "2025-09-18",
+    "zodiacId": "spicy-roasted-edamame",
+    "qualityId": "stale",
+    "text": "The window is brief — you see it and move.",
+    "score": 0
+  },
+  {
+    "date": "2025-09-17",
+    "zodiacId": "sweet-dried-navy",
+    "qualityId": "stale",
+    "text": "Your instinct outpaces your explanation — trust it.",
+    "score": 1
+  },
+  {
+    "date": "2025-09-16",
+    "zodiacId": "bitter-smoked-navy",
+    "qualityId": "stale",
+    "text": "What you withheld kept you honest — that was enough.",
+    "score": 1
+  },
+  {
+    "date": "2025-09-13",
+    "zodiacId": "sweet-boiled-green",
+    "qualityId": "garden",
+    "text": "Precision lands — this is what the long preparation was for.",
+    "score": 0
+  },
+  {
+    "date": "2025-09-12",
+    "zodiacId": "bitter-fermented-fava",
+    "qualityId": "market",
+    "text": "The small mercy you offer lands somewhere it was needed.",
+    "score": 1
+  },
+  {
+    "date": "2025-09-11",
+    "zodiacId": "sour-roasted-adzuki",
+    "qualityId": "market",
+    "text": "Let the question sit — it does not need your answer yet.",
+    "score": 0
+  },
+  {
+    "date": "2025-09-07",
+    "zodiacId": "umami-roasted-black",
+    "qualityId": "stale",
+    "text": "What felt like retreat was the necessary arc.",
+    "score": 1
+  },
+  {
+    "date": "2025-09-06",
+    "zodiacId": "umami-fried-mung",
+    "qualityId": "garden",
+    "text": "The long arc bends toward something you can now see.",
+    "score": 1
+  },
+  {
+    "date": "2025-09-05",
+    "zodiacId": "bitter-fried-adzuki",
+    "qualityId": "stale",
+    "text": "The thread you follow leads somewhere real.",
+    "score": 1
+  },
+  {
+    "date": "2025-09-04",
+    "zodiacId": "spicy-dried-edamame",
+    "qualityId": "stale",
+    "text": "An unlikely source carries exactly the clarity you need.",
+    "score": 0
+  },
+  {
+    "date": "2025-09-03",
+    "zodiacId": "umami-fermented-adzuki",
+    "qualityId": "market",
+    "text": "Something you said months ago proves itself true today.",
+    "score": 0
+  },
+  {
+    "date": "2025-09-02",
+    "zodiacId": "sweet-fermented-chickpea",
+    "qualityId": "market",
+    "text": "Pull the edge back; this moment needs warmth more than precision.",
+    "score": 1
+  },
+  {
+    "date": "2025-09-01",
+    "zodiacId": "bitter-roasted-navy",
+    "qualityId": "rotten",
+    "text": "Generosity given without expectation compounds differently.",
+    "score": 0
+  },
+  {
+    "date": "2025-08-30",
+    "zodiacId": "sour-roasted-butter",
+    "qualityId": "rotten",
+    "text": "The clarity arrives after the noise settles — wait for it.",
+    "score": 1
+  },
+  {
+    "date": "2025-08-29",
+    "zodiacId": "sour-fried-navy",
+    "qualityId": "stale",
+    "text": "The difficulty you face is not a sign you chose wrong.",
+    "score": 1
+  },
+  {
+    "date": "2025-08-28",
+    "zodiacId": "spicy-boiled-pinto",
+    "qualityId": "market",
+    "text": "What you chose to protect turns out to have been worth it.",
+    "score": 0
+  },
+  {
+    "date": "2025-08-26",
+    "zodiacId": "spicy-fermented-kidney",
+    "qualityId": "garden",
+    "text": "The difficulty was real, and you were equal to it.",
+    "score": 1
+  },
+  {
+    "date": "2025-08-25",
+    "zodiacId": "sweet-smoked-navy",
+    "qualityId": "market",
+    "text": "What was missing was simpler than you thought.",
+    "score": 1
+  },
+  {
+    "date": "2025-08-24",
+    "zodiacId": "sweet-roasted-adzuki",
+    "qualityId": "stale",
+    "text": "A long-held tension releases without fanfare — let it go.",
+    "score": 0
+  },
+  {
+    "date": "2025-08-20",
+    "zodiacId": "umami-boiled-butter",
+    "qualityId": "garden",
+    "text": "The version of yourself you have been building shows up clearly.",
+    "score": 1
+  },
+  {
+    "date": "2025-08-19",
+    "zodiacId": "bitter-fried-green",
+    "qualityId": "stale",
+    "text": "The urgency fades before it ever needed to arrive.",
+    "score": 1
+  },
+  {
+    "date": "2025-08-17",
+    "zodiacId": "sour-fermented-green",
+    "qualityId": "garden",
+    "text": "The question you have been avoiding is the useful one.",
+    "score": 0
+  },
+  {
+    "date": "2025-08-15",
+    "zodiacId": "umami-roasted-black",
+    "qualityId": "stale",
+    "text": "The care you take now is the margin you will need later.",
+    "score": 0
+  },
+  {
+    "date": "2025-08-14",
+    "zodiacId": "spicy-smoked-kidney",
+    "qualityId": "stale",
+    "text": "The friction you meet is shaping something worth keeping.",
+    "score": -1
+  },
+  {
+    "date": "2025-08-11",
+    "zodiacId": "spicy-fermented-butter",
+    "qualityId": "market",
+    "text": "Your steadiness is the invisible infrastructure everyone relies on.",
+    "score": 1
+  },
+  {
+    "date": "2025-08-10",
+    "zodiacId": "spicy-dried-adzuki",
+    "qualityId": "garden",
+    "text": "The effort was proportionate and the result reflects that.",
+    "score": 0
+  },
+  {
+    "date": "2025-08-08",
+    "zodiacId": "sour-smoked-navy",
+    "qualityId": "stale",
+    "text": "The shape of the problem clarifies — now you can work with it.",
+    "score": 0
+  },
+  {
+    "date": "2025-08-06",
+    "zodiacId": "umami-fermented-kidney",
+    "qualityId": "market",
+    "text": "A door closes cleanly — walk through without looking back.",
+    "score": 0
+  },
+  {
+    "date": "2025-08-05",
+    "zodiacId": "sour-boiled-fava",
+    "qualityId": "garden",
+    "text": "An unlikely source carries exactly the clarity you need.",
+    "score": 1
+  },
+  {
+    "date": "2025-08-03",
+    "zodiacId": "sour-boiled-pinto",
+    "qualityId": "heirloom",
+    "text": "Stillness is not absence — it is a different kind of work.",
+    "score": 0
+  },
+  {
+    "date": "2025-08-02",
+    "zodiacId": "spicy-fermented-green",
+    "qualityId": "garden",
+    "text": "Momentum returns where it had been draining away.",
+    "score": -1
+  },
+  {
+    "date": "2025-07-30",
+    "zodiacId": "sour-roasted-green",
+    "qualityId": "garden",
+    "text": "The pattern you have been tracking finally breaks open.",
+    "score": 1
+  },
+  {
+    "date": "2025-07-28",
+    "zodiacId": "sour-boiled-kidney",
+    "qualityId": "heirloom",
+    "text": "The question you have been avoiding is the useful one.",
+    "score": 1
+  },
+  {
+    "date": "2025-07-27",
+    "zodiacId": "umami-dried-kidney",
+    "qualityId": "garden",
+    "text": "A long-held tension releases without fanfare — let it go.",
+    "score": 0
+  },
+  {
+    "date": "2025-07-26",
+    "zodiacId": "sweet-fermented-black",
+    "qualityId": "garden",
+    "text": "What you withheld kept you honest — that was enough.",
+    "score": 0
+  },
+  {
+    "date": "2025-07-25",
+    "zodiacId": "spicy-boiled-adzuki",
+    "qualityId": "garden",
+    "text": "You meet the difficult thing with more than you expected to have.",
+    "score": -1
+  },
+  {
+    "date": "2025-07-22",
+    "zodiacId": "umami-smoked-navy",
+    "qualityId": "market",
+    "text": "What seemed like luck was the residue of your consistency.",
+    "score": 0
+  },
+  {
+    "date": "2025-07-21",
+    "zodiacId": "spicy-smoked-black",
+    "qualityId": "stale",
+    "text": "Something outside your control resolves in your favour.",
+    "score": 0
+  },
+  {
+    "date": "2025-07-20",
+    "zodiacId": "bitter-fermented-butter",
+    "qualityId": "market",
+    "text": "The effort was proportionate and the result reflects that.",
+    "score": 1
+  },
+  {
+    "date": "2025-07-19",
+    "zodiacId": "bitter-boiled-black",
+    "qualityId": "garden",
+    "text": "The version of yourself you have been building shows up clearly.",
+    "score": 0
+  },
+  {
+    "date": "2025-07-18",
+    "zodiacId": "bitter-boiled-cannellini",
+    "qualityId": "garden",
+    "text": "Stillness is not absence — it is a different kind of work.",
+    "score": 0
+  },
+  {
+    "date": "2025-07-17",
+    "zodiacId": "sweet-fermented-pinto",
+    "qualityId": "heirloom",
+    "text": "The clarity arrives after the noise settles — wait for it.",
+    "score": 1
+  },
+  {
+    "date": "2025-07-16",
+    "zodiacId": "sour-fried-black",
+    "qualityId": "stale",
+    "text": "The shape of the problem clarifies — now you can work with it.",
+    "score": 0
+  },
+  {
+    "date": "2025-07-14",
+    "zodiacId": "sweet-fried-fava",
+    "qualityId": "stale",
+    "text": "Something you have resisted turns out to be the better route.",
+    "score": 0
+  },
+  {
+    "date": "2025-07-13",
+    "zodiacId": "sweet-smoked-green",
+    "qualityId": "stale",
+    "text": "What was complicated is beginning to settle into sense.",
+    "score": -1
+  },
+  {
+    "date": "2025-07-12",
+    "zodiacId": "bitter-fried-chickpea",
+    "qualityId": "market",
+    "text": "What draws you forward is not what it appears to be.",
+    "score": 1
+  },
+  {
+    "date": "2025-07-11",
+    "zodiacId": "sour-smoked-navy",
+    "qualityId": "market",
+    "text": "The window is brief — you see it and move.",
+    "score": 0
+  },
+  {
+    "date": "2025-07-10",
+    "zodiacId": "bitter-fried-green",
+    "qualityId": "garden",
+    "text": "One honest word does what days of positioning could not.",
+    "score": 0
+  },
+  {
+    "date": "2025-07-09",
+    "zodiacId": "spicy-boiled-black",
+    "qualityId": "garden",
+    "text": "What you almost abandoned becomes the thing you are proudest of.",
+    "score": -1
+  },
+  {
+    "date": "2025-07-08",
+    "zodiacId": "sour-fried-butter",
+    "qualityId": "garden",
+    "text": "Something settles that you had stopped expecting to settle.",
+    "score": -1
+  },
+  {
+    "date": "2025-07-07",
+    "zodiacId": "sour-roasted-navy",
+    "qualityId": "market",
+    "text": "The thread you follow leads somewhere real.",
+    "score": 0
+  },
+  {
+    "date": "2025-07-05",
+    "zodiacId": "umami-roasted-black",
+    "qualityId": "heirloom",
+    "text": "You meet the difficult thing with more than you expected to have.",
+    "score": 0
+  },
+  {
+    "date": "2025-07-04",
+    "zodiacId": "spicy-fermented-butter",
+    "qualityId": "stale",
+    "text": "The clarity arrives after the noise settles — wait for it.",
+    "score": 0
+  },
+  {
+    "date": "2025-07-03",
+    "zodiacId": "bitter-dried-fava",
+    "qualityId": "rotten",
+    "text": "What draws you forward is not what it appears to be.",
+    "score": -1
+  },
+  {
+    "date": "2025-07-02",
+    "zodiacId": "sour-smoked-chickpea",
+    "qualityId": "garden",
+    "text": "What you gave comes back in a form you did not anticipate.",
+    "score": 0
+  },
+  {
+    "date": "2025-07-01",
+    "zodiacId": "umami-dried-navy",
+    "qualityId": "garden",
+    "text": "The friction you meet is shaping something worth keeping.",
+    "score": 1
+  },
+  {
+    "date": "2025-06-30",
+    "zodiacId": "sour-dried-mung",
+    "qualityId": "market",
+    "text": "What draws you forward is not what it appears to be.",
+    "score": 0
+  },
+  {
+    "date": "2025-06-29",
+    "zodiacId": "bitter-smoked-cannellini",
+    "qualityId": "garden",
+    "text": "Your attention narrows to exactly what is needed.",
+    "score": 0
+  },
+  {
+    "date": "2025-06-28",
+    "zodiacId": "sour-fried-cannellini",
+    "qualityId": "heirloom",
+    "text": "The long arc bends toward something you can now see.",
+    "score": 0
+  },
+  {
+    "date": "2025-06-27",
+    "zodiacId": "spicy-boiled-black",
+    "qualityId": "market",
+    "text": "You reach for more before the first is fully yours.",
+    "score": 0
+  },
+  {
+    "date": "2025-06-26",
+    "zodiacId": "umami-fried-mung",
+    "qualityId": "rotten",
+    "text": "What you carry forward is lighter than what you set down.",
+    "score": 1
+  },
+  {
+    "date": "2025-06-25",
+    "zodiacId": "sweet-smoked-pinto",
+    "qualityId": "stale",
+    "text": "Something you said months ago proves itself true today.",
+    "score": 0
+  },
+  {
+    "date": "2025-06-23",
+    "zodiacId": "spicy-fermented-pinto",
+    "qualityId": "rotten",
+    "text": "What was complicated is beginning to settle into sense.",
+    "score": 1
+  },
+  {
+    "date": "2025-06-22",
+    "zodiacId": "spicy-fermented-adzuki",
+    "qualityId": "market",
+    "text": "Your instinct outpaces your explanation — trust it.",
+    "score": -1
+  },
+  {
+    "date": "2025-06-21",
+    "zodiacId": "sour-fried-black",
+    "qualityId": "stale",
+    "text": "Something settles that you had stopped expecting to settle.",
+    "score": 1
+  },
+  {
+    "date": "2025-06-20",
+    "zodiacId": "spicy-fermented-edamame",
+    "qualityId": "stale",
+    "text": "The friction you meet is shaping something worth keeping.",
+    "score": 0
+  },
+  {
+    "date": "2025-06-19",
+    "zodiacId": "bitter-fermented-fava",
+    "qualityId": "garden",
+    "text": "The difficulty was real, and you were equal to it.",
+    "score": 0
+  },
+  {
+    "date": "2025-06-17",
+    "zodiacId": "bitter-boiled-adzuki",
+    "qualityId": "heirloom",
+    "text": "The difficulty you face is not a sign you chose wrong.",
+    "score": -1
+  },
+  {
+    "date": "2025-06-16",
+    "zodiacId": "spicy-fried-cannellini",
+    "qualityId": "heirloom",
+    "text": "The work speaks; you do not need to.",
+    "score": 1
+  },
+  {
+    "date": "2025-06-14",
+    "zodiacId": "sour-boiled-edamame",
+    "qualityId": "garden",
+    "text": "A quiet win; no audience required.",
+    "score": 0
+  },
+  {
+    "date": "2025-06-13",
+    "zodiacId": "spicy-smoked-adzuki",
+    "qualityId": "rotten",
+    "text": "What you withheld kept you honest — that was enough.",
+    "score": 0
+  },
+  {
+    "date": "2025-06-12",
+    "zodiacId": "umami-fried-mung",
+    "qualityId": "garden",
+    "text": "A quiet win; no audience required.",
+    "score": 0
+  },
+  {
+    "date": "2025-06-11",
+    "zodiacId": "bitter-roasted-edamame",
+    "qualityId": "market",
+    "text": "The window is brief — you see it and move.",
+    "score": 1
+  },
+  {
+    "date": "2025-06-10",
+    "zodiacId": "sour-smoked-cannellini",
+    "qualityId": "heirloom",
+    "text": "The difficulty you face is not a sign you chose wrong.",
+    "score": 0
+  },
+  {
+    "date": "2025-06-06",
+    "zodiacId": "bitter-roasted-cannellini",
+    "qualityId": "garden",
+    "text": "An unlikely source carries exactly the clarity you need.",
+    "score": 0
+  },
+  {
+    "date": "2025-06-05",
+    "zodiacId": "sour-dried-butter",
+    "qualityId": "rotten",
+    "text": "You recognise the pattern early enough to change the outcome.",
+    "score": 1
+  },
+  {
+    "date": "2025-06-04",
+    "zodiacId": "spicy-roasted-edamame",
+    "qualityId": "stale",
+    "text": "You offer comfort where honesty would have served better.",
+    "score": 0
+  },
+  {
+    "date": "2025-06-03",
+    "zodiacId": "umami-smoked-chickpea",
+    "qualityId": "stale",
+    "text": "You hold your ground without needing to make noise about it.",
+    "score": 0
+  },
+  {
+    "date": "2025-06-01",
+    "zodiacId": "bitter-roasted-kidney",
+    "qualityId": "garden",
+    "text": "The friction you meet is shaping something worth keeping.",
+    "score": -1
+  },
+  {
+    "date": "2025-05-30",
+    "zodiacId": "sour-fried-pinto",
+    "qualityId": "market",
+    "text": "What looked like an ending was actually a better starting point.",
+    "score": -1
+  },
+  {
+    "date": "2025-05-28",
+    "zodiacId": "spicy-boiled-black",
+    "qualityId": "market",
+    "text": "The care you take now is the margin you will need later.",
+    "score": 1
+  },
+  {
+    "date": "2025-05-27",
+    "zodiacId": "sour-fried-cannellini",
+    "qualityId": "garden",
+    "text": "What seemed like luck was the residue of your consistency.",
+    "score": 1
+  },
+  {
+    "date": "2025-05-26",
+    "zodiacId": "umami-fermented-chickpea",
+    "qualityId": "market",
+    "text": "Warmth extended without calculation — this is the practice.",
+    "score": 0
+  },
+  {
+    "date": "2025-05-25",
+    "zodiacId": "bitter-roasted-mung",
+    "qualityId": "market",
+    "text": "The piece you have been missing steps into view.",
+    "score": 1
+  },
+  {
+    "date": "2025-05-24",
+    "zodiacId": "bitter-dried-edamame",
+    "qualityId": "market",
+    "text": "What was complicated is beginning to settle into sense.",
+    "score": 0
+  },
+  {
+    "date": "2025-05-22",
+    "zodiacId": "umami-boiled-chickpea",
+    "qualityId": "stale",
+    "text": "The resistance you meet is teaching you the shape of the door.",
+    "score": 1
+  },
+  {
+    "date": "2025-05-20",
+    "zodiacId": "umami-boiled-kidney",
+    "qualityId": "garden",
+    "text": "Something old and patient rises to the surface — receive it.",
+    "score": 1
+  },
+  {
+    "date": "2025-05-18",
+    "zodiacId": "spicy-roasted-adzuki",
+    "qualityId": "garden",
+    "text": "Small adjustments compound — this one counts.",
+    "score": 0
+  },
+  {
+    "date": "2025-05-17",
+    "zodiacId": "sour-smoked-butter",
+    "qualityId": "market",
+    "text": "Your instinct outpaces your explanation — trust it.",
+    "score": 1
+  },
+  {
+    "date": "2025-05-16",
+    "zodiacId": "umami-fried-green",
+    "qualityId": "stale",
+    "text": "The resistance you meet is teaching you the shape of the door.",
+    "score": 0
+  },
+  {
+    "date": "2025-05-15",
+    "zodiacId": "bitter-dried-butter",
+    "qualityId": "market",
+    "text": "What draws you forward is not what it appears to be.",
+    "score": 0
+  },
+  {
+    "date": "2025-05-14",
+    "zodiacId": "umami-fried-kidney",
+    "qualityId": "market",
+    "text": "The slow transformation is already well underway.",
+    "score": 0
+  },
+  {
+    "date": "2025-05-13",
+    "zodiacId": "umami-smoked-pinto",
+    "qualityId": "stale",
+    "text": "What felt like retreat was the necessary arc.",
+    "score": -1
+  },
+  {
+    "date": "2025-05-12",
+    "zodiacId": "umami-smoked-green",
+    "qualityId": "market",
+    "text": "The version of yourself you have been building shows up clearly.",
+    "score": 0
+  },
+  {
+    "date": "2025-05-11",
+    "zodiacId": "spicy-boiled-edamame",
+    "qualityId": "garden",
+    "text": "You recognise the pattern early enough to change the outcome.",
+    "score": -1
+  },
+  {
+    "date": "2025-05-10",
+    "zodiacId": "umami-fried-green",
+    "qualityId": "garden",
+    "text": "What you chose to protect turns out to have been worth it.",
+    "score": 0
+  },
+  {
+    "date": "2025-05-09",
+    "zodiacId": "umami-smoked-fava",
+    "qualityId": "stale",
+    "text": "What looked like an ending was actually a better starting point.",
+    "score": 1
+  },
+  {
+    "date": "2025-05-07",
+    "zodiacId": "bitter-fried-pinto",
+    "qualityId": "garden",
+    "text": "The softer path is not the weaker one.",
+    "score": 0
+  },
+  {
+    "date": "2025-05-05",
+    "zodiacId": "bitter-smoked-navy",
+    "qualityId": "garden",
+    "text": "The long arc bends toward something you can now see.",
+    "score": 0
+  },
+  {
+    "date": "2025-05-02",
+    "zodiacId": "sweet-fried-fava",
+    "qualityId": "stale",
+    "text": "You contribute what the moment needed, not what you had planned.",
+    "score": -1
+  },
+  {
+    "date": "2025-05-01",
+    "zodiacId": "spicy-boiled-chickpea",
+    "qualityId": "stale",
+    "text": "Your instinct outpaces your explanation — trust it.",
+    "score": -1
+  },
+  {
+    "date": "2025-04-30",
+    "zodiacId": "umami-roasted-fava",
+    "qualityId": "stale",
+    "text": "What you chose to protect turns out to have been worth it.",
+    "score": 1
+  },
+  {
+    "date": "2025-04-29",
+    "zodiacId": "spicy-smoked-edamame",
+    "qualityId": "market",
+    "text": "Your steadiness is the invisible infrastructure everyone relies on.",
+    "score": 0
+  },
+  {
+    "date": "2025-04-28",
+    "zodiacId": "sweet-fermented-green",
+    "qualityId": "market",
+    "text": "The version of yourself you have been building shows up clearly.",
+    "score": 0
+  },
+  {
+    "date": "2025-04-27",
+    "zodiacId": "bitter-fermented-adzuki",
+    "qualityId": "stale",
+    "text": "The thread you follow leads somewhere real.",
+    "score": 0
+  },
+  {
+    "date": "2025-04-26",
+    "zodiacId": "spicy-smoked-adzuki",
+    "qualityId": "market",
+    "text": "A quiet win; no audience required.",
+    "score": 1
+  },
+  {
+    "date": "2025-04-21",
+    "zodiacId": "bitter-fermented-butter",
+    "qualityId": "stale",
+    "text": "You do less and it lands harder.",
+    "score": 0
+  },
+  {
+    "date": "2025-04-20",
+    "zodiacId": "umami-fermented-pinto",
+    "qualityId": "garden",
+    "text": "Something you have been holding loosens without announcement.",
+    "score": 0
+  },
+  {
+    "date": "2025-04-19",
+    "zodiacId": "sour-fermented-adzuki",
+    "qualityId": "garden",
+    "text": "What you almost abandoned becomes the thing you are proudest of.",
+    "score": 0
+  },
+  {
+    "date": "2025-04-18",
+    "zodiacId": "umami-dried-kidney",
+    "qualityId": "market",
+    "text": "You name what others have been circling — it clarifies.",
+    "score": 0
+  },
+  {
+    "date": "2025-04-17",
+    "zodiacId": "sour-fermented-cannellini",
+    "qualityId": "garden",
+    "text": "The work speaks; you do not need to.",
+    "score": -1
+  },
+  {
+    "date": "2025-04-16",
+    "zodiacId": "bitter-fried-kidney",
+    "qualityId": "garden",
+    "text": "The edge you have kept sharp finds its use.",
+    "score": -1
+  },
+  {
+    "date": "2025-04-15",
+    "zodiacId": "spicy-boiled-edamame",
+    "qualityId": "garden",
+    "text": "The difficulty you face is not a sign you chose wrong.",
+    "score": 0
+  },
+  {
+    "date": "2025-04-14",
+    "zodiacId": "umami-fried-kidney",
+    "qualityId": "stale",
+    "text": "An unlikely source carries exactly the clarity you need.",
+    "score": 0
+  },
+  {
+    "date": "2025-04-13",
+    "zodiacId": "sweet-boiled-chickpea",
+    "qualityId": "stale",
+    "text": "You meet the difficult thing with more than you expected to have.",
+    "score": 0
+  },
+  {
+    "date": "2025-04-11",
+    "zodiacId": "bitter-dried-green",
+    "qualityId": "heirloom",
+    "text": "Something outside your control resolves in your favour.",
+    "score": -1
+  },
+  {
+    "date": "2025-04-09",
+    "zodiacId": "umami-fried-fava",
+    "qualityId": "garden",
+    "text": "Something settles that you had stopped expecting to settle.",
+    "score": 0
+  },
+  {
+    "date": "2025-04-08",
+    "zodiacId": "umami-boiled-mung",
+    "qualityId": "market",
+    "text": "You do less and it lands harder.",
+    "score": 1
+  },
+  {
+    "date": "2025-04-06",
+    "zodiacId": "umami-boiled-butter",
+    "qualityId": "garden",
+    "text": "The signal was there; you had learned to read it.",
+    "score": 0
+  },
+  {
+    "date": "2025-04-04",
+    "zodiacId": "spicy-fried-navy",
+    "qualityId": "market",
+    "text": "Something settles that you had stopped expecting to settle.",
+    "score": -1
+  },
+  {
+    "date": "2025-04-03",
+    "zodiacId": "spicy-roasted-black",
+    "qualityId": "market",
+    "text": "One honest word does what days of positioning could not.",
+    "score": 1
+  },
+  {
+    "date": "2025-04-02",
+    "zodiacId": "sweet-fried-fava",
+    "qualityId": "stale",
+    "text": "The thing you called a problem was mostly just unfamiliar.",
+    "score": -1
+  },
+  {
+    "date": "2025-04-01",
+    "zodiacId": "sweet-roasted-green",
+    "qualityId": "stale",
+    "text": "Something outside your control resolves in your favour.",
+    "score": 1
+  },
+  {
+    "date": "2025-03-31",
+    "zodiacId": "spicy-smoked-cannellini",
+    "qualityId": "market",
+    "text": "You recognise the pattern early enough to change the outcome.",
+    "score": 1
+  },
+  {
+    "date": "2025-03-30",
+    "zodiacId": "sweet-dried-pinto",
+    "qualityId": "garden",
+    "text": "Something you said months ago proves itself true today.",
+    "score": -1
+  },
+  {
+    "date": "2025-03-29",
+    "zodiacId": "bitter-roasted-edamame",
+    "qualityId": "market",
+    "text": "The work you have been doing quietly is about to be seen.",
+    "score": 0
+  },
+  {
+    "date": "2025-03-28",
+    "zodiacId": "spicy-fried-fava",
+    "qualityId": "rotten",
+    "text": "Choose the good version — there is no virtue in the lesser one.",
+    "score": 1
+  },
+  {
+    "date": "2025-03-25",
+    "zodiacId": "umami-boiled-mung",
+    "qualityId": "market",
+    "text": "Stillness is not absence — it is a different kind of work.",
+    "score": -1
+  },
+  {
+    "date": "2025-03-23",
+    "zodiacId": "sour-fried-green",
+    "qualityId": "market",
+    "text": "What you almost abandoned becomes the thing you are proudest of.",
+    "score": 1
+  },
+  {
+    "date": "2025-03-21",
+    "zodiacId": "umami-dried-kidney",
+    "qualityId": "stale",
+    "text": "The risk was measured and the landing is solid.",
+    "score": 0
+  },
+  {
+    "date": "2025-03-20",
+    "zodiacId": "bitter-fried-kidney",
+    "qualityId": "market",
+    "text": "A small correction now prevents a larger one later.",
+    "score": 0
+  },
+  {
+    "date": "2025-03-16",
+    "zodiacId": "umami-fermented-adzuki",
+    "qualityId": "garden",
+    "text": "Warmth extended without calculation — this is the practice.",
+    "score": 0
+  },
+  {
+    "date": "2025-03-15",
+    "zodiacId": "spicy-fermented-cannellini",
+    "qualityId": "market",
+    "text": "Small adjustments compound — this one counts.",
+    "score": 1
+  },
+  {
+    "date": "2025-03-13",
+    "zodiacId": "sour-smoked-butter",
+    "qualityId": "rotten",
+    "text": "Something old and patient rises to the surface — receive it.",
+    "score": 1
+  },
+  {
+    "date": "2025-03-12",
+    "zodiacId": "spicy-fried-edamame",
+    "qualityId": "market",
+    "text": "Your attention narrows to exactly what is needed.",
+    "score": 1
+  },
+  {
+    "date": "2025-03-11",
+    "zodiacId": "bitter-fried-navy",
+    "qualityId": "garden",
+    "text": "The edge you have kept sharp finds its use.",
+    "score": 0
+  },
+  {
+    "date": "2025-03-10",
+    "zodiacId": "spicy-dried-cannellini",
+    "qualityId": "market",
+    "text": "You explain where you could simply be.",
+    "score": 1
+  },
+  {
+    "date": "2025-03-09",
+    "zodiacId": "bitter-boiled-fava",
+    "qualityId": "stale",
+    "text": "The signal was there; you had learned to read it.",
+    "score": 0
+  },
+  {
+    "date": "2025-03-08",
+    "zodiacId": "spicy-smoked-butter",
+    "qualityId": "market",
+    "text": "What looked like an ending was actually a better starting point.",
+    "score": 0
+  },
+  {
+    "date": "2025-03-07",
+    "zodiacId": "spicy-dried-pinto",
+    "qualityId": "garden",
+    "text": "The connection you almost missed arrives at the right moment.",
+    "score": -1
+  },
+  {
+    "date": "2025-03-06",
+    "zodiacId": "sweet-smoked-black",
+    "qualityId": "stale",
+    "text": "You name what others have been circling — it clarifies.",
+    "score": 0
+  },
+  {
+    "date": "2025-03-05",
+    "zodiacId": "sour-smoked-mung",
+    "qualityId": "heirloom",
+    "text": "The piece you have been missing steps into view.",
+    "score": -1
+  },
+  {
+    "date": "2025-03-04",
+    "zodiacId": "bitter-roasted-fava",
+    "qualityId": "rotten",
+    "text": "The resistance you meet is teaching you the shape of the door.",
+    "score": 1
+  },
+  {
+    "date": "2025-03-03",
+    "zodiacId": "sour-fried-green",
+    "qualityId": "garden",
+    "text": "An obstacle becomes a detail once you stop centering it.",
+    "score": 0
+  },
+  {
+    "date": "2025-03-02",
+    "zodiacId": "bitter-fermented-pinto",
+    "qualityId": "stale",
+    "text": "Let the question sit — it does not need your answer yet.",
+    "score": 0
+  },
+  {
+    "date": "2025-03-01",
+    "zodiacId": "bitter-roasted-adzuki",
+    "qualityId": "rotten",
+    "text": "What you have been building quietly now has its own foundation.",
+    "score": 0
+  },
+  {
+    "date": "2025-02-28",
+    "zodiacId": "bitter-smoked-adzuki",
+    "qualityId": "rotten",
+    "text": "Small adjustments compound — this one counts.",
+    "score": 1
+  },
+  {
+    "date": "2025-02-27",
+    "zodiacId": "umami-fermented-green",
+    "qualityId": "market",
+    "text": "What you carry forward is lighter than what you set down.",
+    "score": 1
+  },
+  {
+    "date": "2025-02-25",
+    "zodiacId": "sweet-smoked-navy",
+    "qualityId": "stale",
+    "text": "A brief pause does more than hours of pressing forward.",
+    "score": 1
+  },
+  {
+    "date": "2025-02-23",
+    "zodiacId": "umami-smoked-adzuki",
+    "qualityId": "garden",
+    "text": "Something you named months ago is finally listening.",
+    "score": 0
+  },
+  {
+    "date": "2025-02-21",
+    "zodiacId": "bitter-smoked-edamame",
+    "qualityId": "garden",
+    "text": "Warmth extended without calculation — this is the practice.",
+    "score": 1
+  },
+  {
+    "date": "2025-02-18",
+    "zodiacId": "sweet-fried-fava",
+    "qualityId": "market",
+    "text": "What comes through you is not about you — pass it forward.",
+    "score": 1
+  },
+  {
+    "date": "2025-02-17",
+    "zodiacId": "umami-roasted-edamame",
+    "qualityId": "rotten",
+    "text": "The softer path is not the weaker one.",
+    "score": 0
+  },
+  {
+    "date": "2025-02-16",
+    "zodiacId": "spicy-fermented-cannellini",
+    "qualityId": "stale",
+    "text": "Something you said months ago proves itself true today.",
+    "score": 0
+  },
+  {
+    "date": "2025-02-15",
+    "zodiacId": "umami-fried-navy",
+    "qualityId": "garden",
+    "text": "A long-held tension releases without fanfare — let it go.",
+    "score": 0
+  },
+  {
+    "date": "2025-02-14",
+    "zodiacId": "spicy-boiled-adzuki",
+    "qualityId": "stale",
+    "text": "Precision lands — this is what the long preparation was for.",
+    "score": 1
+  },
+  {
+    "date": "2025-02-13",
+    "zodiacId": "bitter-fried-black",
+    "qualityId": "market",
+    "text": "You name what others have been circling — it clarifies.",
+    "score": 0
+  },
+  {
+    "date": "2025-02-12",
+    "zodiacId": "umami-fried-butter",
+    "qualityId": "stale",
+    "text": "You contribute what the moment needed, not what you had planned.",
+    "score": 0
+  },
+  {
+    "date": "2025-02-11",
+    "zodiacId": "bitter-boiled-black",
+    "qualityId": "stale",
+    "text": "Something settles that you had stopped expecting to settle.",
+    "score": 1
+  },
+  {
+    "date": "2025-02-10",
+    "zodiacId": "sweet-smoked-pinto",
+    "qualityId": "garden",
+    "text": "The edge you have kept sharp finds its use.",
+    "score": 1
+  },
+  {
+    "date": "2025-02-06",
+    "zodiacId": "sour-roasted-butter",
+    "qualityId": "stale",
+    "text": "You reach for more before the first is fully yours.",
+    "score": -1
+  },
+  {
+    "date": "2025-02-05",
+    "zodiacId": "umami-fermented-chickpea",
+    "qualityId": "market",
+    "text": "The work speaks; you do not need to.",
+    "score": -1
+  },
+  {
+    "date": "2025-02-04",
+    "zodiacId": "sweet-smoked-edamame",
+    "qualityId": "stale",
+    "text": "Depth calls to depth — what you find is genuinely yours.",
+    "score": 1
+  },
+  {
+    "date": "2025-02-02",
+    "zodiacId": "spicy-roasted-black",
+    "qualityId": "stale",
+    "text": "You recognise the pattern early enough to change the outcome.",
+    "score": 0
+  },
+  {
+    "date": "2025-02-01",
+    "zodiacId": "sweet-boiled-edamame",
+    "qualityId": "rotten",
+    "text": "You hold your ground without needing to make noise about it.",
+    "score": 1
+  },
+  {
+    "date": "2025-01-31",
+    "zodiacId": "sour-boiled-adzuki",
+    "qualityId": "rotten",
+    "text": "A door closes cleanly — walk through without looking back.",
+    "score": 0
+  },
+  {
+    "date": "2025-01-29",
+    "zodiacId": "sour-smoked-pinto",
+    "qualityId": "market",
+    "text": "Warmth extended without calculation — this is the practice.",
+    "score": 1
+  },
+  {
+    "date": "2025-01-24",
+    "zodiacId": "bitter-dried-butter",
+    "qualityId": "rotten",
+    "text": "What you withheld kept you honest — that was enough.",
+    "score": 0
+  },
+  {
+    "date": "2025-01-23",
+    "zodiacId": "spicy-boiled-green",
+    "qualityId": "stale",
+    "text": "What you chose to protect turns out to have been worth it.",
+    "score": 0
+  },
+  {
+    "date": "2025-01-22",
+    "zodiacId": "bitter-smoked-cannellini",
+    "qualityId": "rotten",
+    "text": "A brief pause does more than hours of pressing forward.",
+    "score": 1
+  },
+  {
+    "date": "2025-01-18",
+    "zodiacId": "spicy-smoked-butter",
+    "qualityId": "stale",
+    "text": "You offer comfort where honesty would have served better.",
+    "score": 0
+  },
+  {
+    "date": "2025-01-15",
+    "zodiacId": "sour-roasted-chickpea",
+    "qualityId": "market",
+    "text": "The right comparison arrives and it shifts everything.",
+    "score": -1
+  },
+  {
+    "date": "2025-01-14",
+    "zodiacId": "bitter-fried-butter",
+    "qualityId": "garden",
+    "text": "Stillness is not absence — it is a different kind of work.",
+    "score": 0
+  },
+  {
+    "date": "2025-01-13",
+    "zodiacId": "sweet-boiled-chickpea",
+    "qualityId": "rotten",
+    "text": "One honest word does what days of positioning could not.",
+    "score": 1
+  },
+  {
+    "date": "2025-01-12",
+    "zodiacId": "sour-roasted-green",
+    "qualityId": "heirloom",
+    "text": "The care you take now is the margin you will need later.",
+    "score": -1
+  },
+  {
+    "date": "2025-01-11",
+    "zodiacId": "sour-dried-green",
+    "qualityId": "stale",
+    "text": "The friction you meet is shaping something worth keeping.",
+    "score": 1
+  },
+  {
+    "date": "2025-01-10",
+    "zodiacId": "umami-dried-cannellini",
+    "qualityId": "stale",
+    "text": "The patience was worth it; the thing comes together now.",
+    "score": 1
+  },
+  {
+    "date": "2025-01-09",
+    "zodiacId": "spicy-fermented-fava",
+    "qualityId": "garden",
+    "text": "The gap between effort and result is where something is hiding.",
+    "score": 0
+  },
+  {
+    "date": "2025-01-07",
+    "zodiacId": "umami-fermented-kidney",
+    "qualityId": "market",
+    "text": "Depth calls to depth — what you find is genuinely yours.",
+    "score": 1
+  },
+  {
+    "date": "2025-01-06",
+    "zodiacId": "umami-fermented-fava",
+    "qualityId": "rotten",
+    "text": "The long arc bends toward something you can now see.",
+    "score": -1
+  },
+  {
+    "date": "2025-01-02",
+    "zodiacId": "umami-fermented-kidney",
+    "qualityId": "market",
+    "text": "What you carry forward is lighter than what you set down.",
+    "score": 0
+  },
+  {
+    "date": "2024-12-31",
+    "zodiacId": "bitter-dried-fava",
+    "qualityId": "market",
+    "text": "Let what you are carrying show through — it is safe here.",
+    "score": 0
+  },
+  {
+    "date": "2024-12-30",
+    "zodiacId": "umami-fermented-navy",
+    "qualityId": "garden",
+    "text": "The patience was worth it; the thing comes together now.",
+    "score": 0
+  },
+  {
+    "date": "2024-12-29",
+    "zodiacId": "sour-fried-chickpea",
+    "qualityId": "heirloom",
+    "text": "The right comparison arrives and it shifts everything.",
+    "score": 1
+  },
+  {
+    "date": "2024-12-28",
+    "zodiacId": "spicy-fried-pinto",
+    "qualityId": "stale",
+    "text": "What you bring is exactly proportionate to what is needed.",
+    "score": 0
+  },
+  {
+    "date": "2024-12-27",
+    "zodiacId": "bitter-boiled-black",
+    "qualityId": "garden",
+    "text": "A door closes cleanly — walk through without looking back.",
+    "score": 1
+  },
+  {
+    "date": "2024-12-24",
+    "zodiacId": "sour-roasted-black",
+    "qualityId": "market",
+    "text": "You do less and it lands harder.",
+    "score": 0
+  },
+  {
+    "date": "2024-12-22",
+    "zodiacId": "sour-boiled-adzuki",
+    "qualityId": "market",
+    "text": "The connection you almost missed arrives at the right moment.",
+    "score": 1
+  },
+  {
+    "date": "2024-12-20",
+    "zodiacId": "bitter-dried-chickpea",
+    "qualityId": "market",
+    "text": "What you bring is exactly proportionate to what is needed.",
+    "score": 0
+  },
+  {
+    "date": "2024-12-18",
+    "zodiacId": "spicy-fermented-chickpea",
+    "qualityId": "garden",
+    "text": "One honest word does what days of positioning could not.",
+    "score": 0
+  },
+  {
+    "date": "2024-12-17",
+    "zodiacId": "bitter-smoked-pinto",
+    "qualityId": "stale",
+    "text": "The urgency fades before it ever needed to arrive.",
+    "score": 0
+  },
+  {
+    "date": "2024-12-16",
+    "zodiacId": "sweet-smoked-butter",
+    "qualityId": "heirloom",
+    "text": "You choose slowness and the quality of the output reflects it.",
+    "score": 1
+  },
+  {
+    "date": "2024-12-14",
+    "zodiacId": "umami-dried-black",
+    "qualityId": "rotten",
+    "text": "What draws you forward is not what it appears to be.",
+    "score": 1
+  },
+  {
+    "date": "2024-12-13",
+    "zodiacId": "sour-roasted-navy",
+    "qualityId": "garden",
+    "text": "The shape of the problem clarifies — now you can work with it.",
+    "score": -1
+  },
+  {
+    "date": "2024-12-08",
+    "zodiacId": "umami-roasted-edamame",
+    "qualityId": "garden",
+    "text": "An unlikely source carries exactly the clarity you need.",
+    "score": 1
+  },
+  {
+    "date": "2024-12-07",
+    "zodiacId": "spicy-smoked-kidney",
+    "qualityId": "garden",
+    "text": "The patience was worth it; the thing comes together now.",
+    "score": 1
+  },
+  {
+    "date": "2024-12-06",
+    "zodiacId": "umami-fermented-kidney",
+    "qualityId": "market",
+    "text": "A quiet win; no audience required.",
+    "score": 0
+  },
+  {
+    "date": "2024-12-05",
+    "zodiacId": "spicy-roasted-mung",
+    "qualityId": "stale",
+    "text": "The clarity arrives after the noise settles — wait for it.",
+    "score": 0
+  },
+  {
+    "date": "2024-12-04",
+    "zodiacId": "spicy-boiled-navy",
+    "qualityId": "stale",
+    "text": "What draws you forward is not what it appears to be.",
+    "score": 0
+  },
+  {
+    "date": "2024-12-02",
+    "zodiacId": "bitter-fermented-adzuki",
+    "qualityId": "market",
+    "text": "The edge you have kept sharp finds its use.",
+    "score": 0
+  },
+  {
+    "date": "2024-12-01",
+    "zodiacId": "sour-fried-butter",
+    "qualityId": "market",
+    "text": "Your instinct outpaces your explanation — trust it.",
+    "score": 1
+  },
+  {
+    "date": "2024-11-29",
+    "zodiacId": "bitter-smoked-fava",
+    "qualityId": "rotten",
+    "text": "Let what you are carrying show through — it is safe here.",
+    "score": 0
+  },
+  {
+    "date": "2024-11-27",
+    "zodiacId": "sour-roasted-butter",
+    "qualityId": "heirloom",
+    "text": "The pattern you have been tracking finally breaks open.",
+    "score": -1
+  },
+  {
+    "date": "2024-11-24",
+    "zodiacId": "spicy-fried-chickpea",
+    "qualityId": "garden",
+    "text": "You mistake endurance for wisdom — they are not the same.",
+    "score": -1
+  },
+  {
+    "date": "2024-11-23",
+    "zodiacId": "bitter-boiled-pinto",
+    "qualityId": "market",
+    "text": "The effort was proportionate and the result reflects that.",
+    "score": 1
+  },
+  {
+    "date": "2024-11-22",
+    "zodiacId": "bitter-boiled-black",
+    "qualityId": "heirloom",
+    "text": "The thread you follow leads somewhere real.",
+    "score": 1
+  },
+  {
+    "date": "2024-11-21",
+    "zodiacId": "sour-smoked-black",
+    "qualityId": "market",
+    "text": "You mistake endurance for wisdom — they are not the same.",
+    "score": 0
+  },
+  {
+    "date": "2024-11-19",
+    "zodiacId": "spicy-dried-pinto",
+    "qualityId": "stale",
+    "text": "What comes through you is not about you — pass it forward.",
+    "score": 0
+  },
+  {
+    "date": "2024-11-18",
+    "zodiacId": "umami-fried-fava",
+    "qualityId": "market",
+    "text": "Choose the good version — there is no virtue in the lesser one.",
+    "score": 1
+  },
+  {
+    "date": "2024-11-14",
+    "zodiacId": "sour-dried-pinto",
+    "qualityId": "garden",
+    "text": "What was missing was simpler than you thought.",
+    "score": 0
+  },
+  {
+    "date": "2024-11-12",
+    "zodiacId": "sour-fermented-fava",
+    "qualityId": "garden",
+    "text": "You do less and it lands harder.",
+    "score": 0
+  },
+  {
+    "date": "2024-11-10",
+    "zodiacId": "sour-fermented-chickpea",
+    "qualityId": "garden",
+    "text": "The thing you called a problem was mostly just unfamiliar.",
+    "score": 1
+  },
+  {
+    "date": "2024-11-09",
+    "zodiacId": "sweet-fermented-black",
+    "qualityId": "stale",
+    "text": "What was missing was simpler than you thought.",
+    "score": 1
+  },
+  {
+    "date": "2024-11-08",
+    "zodiacId": "sweet-fermented-cannellini",
+    "qualityId": "market",
+    "text": "Depth calls to depth — what you find is genuinely yours.",
+    "score": 0
+  },
+  {
+    "date": "2024-11-07",
+    "zodiacId": "umami-roasted-cannellini",
+    "qualityId": "garden",
+    "text": "What you almost abandoned becomes the thing you are proudest of.",
+    "score": 0
+  },
+  {
+    "date": "2024-11-06",
+    "zodiacId": "sweet-smoked-cannellini",
+    "qualityId": "stale",
+    "text": "The clarity arrives after the noise settles — wait for it.",
+    "score": 0
+  },
+  {
+    "date": "2024-11-03",
+    "zodiacId": "sour-dried-navy",
+    "qualityId": "rotten",
+    "text": "You contribute what the moment needed, not what you had planned.",
+    "score": 1
+  },
+  {
+    "date": "2024-11-01",
+    "zodiacId": "bitter-fried-edamame",
+    "qualityId": "garden",
+    "text": "You draw a line and discover it was the right one.",
+    "score": 0
+  },
+  {
+    "date": "2024-10-30",
+    "zodiacId": "sweet-fried-adzuki",
+    "qualityId": "heirloom",
+    "text": "Something outside your control resolves in your favour.",
+    "score": 1
+  },
+  {
+    "date": "2024-10-29",
+    "zodiacId": "bitter-roasted-fava",
+    "qualityId": "market",
+    "text": "What was complicated is beginning to settle into sense.",
+    "score": 0
+  },
+  {
+    "date": "2024-10-28",
+    "zodiacId": "sweet-roasted-green",
+    "qualityId": "garden",
+    "text": "Choose the good version — there is no virtue in the lesser one.",
+    "score": 1
+  },
+  {
+    "date": "2024-10-27",
+    "zodiacId": "sweet-fried-black",
+    "qualityId": "market",
+    "text": "The edge you have kept sharp finds its use.",
+    "score": -1
+  },
+  {
+    "date": "2024-10-26",
+    "zodiacId": "sweet-boiled-fava",
+    "qualityId": "heirloom",
+    "text": "The work speaks; you do not need to.",
+    "score": 0
+  },
+  {
+    "date": "2024-10-25",
+    "zodiacId": "sweet-fermented-chickpea",
+    "qualityId": "market",
+    "text": "You arrive with the right thing at the right moment.",
+    "score": -1
+  },
+  {
+    "date": "2024-10-23",
+    "zodiacId": "sweet-smoked-adzuki",
+    "qualityId": "market",
+    "text": "Depth calls to depth — what you find is genuinely yours.",
+    "score": 1
+  },
+  {
+    "date": "2024-10-21",
+    "zodiacId": "bitter-smoked-edamame",
+    "qualityId": "stale",
+    "text": "Something old and patient rises to the surface — receive it.",
+    "score": 0
+  },
+  {
+    "date": "2024-10-19",
+    "zodiacId": "sour-roasted-edamame",
+    "qualityId": "garden",
+    "text": "You recognise the pattern early enough to change the outcome.",
+    "score": -1
+  },
+  {
+    "date": "2024-10-18",
+    "zodiacId": "sour-fermented-kidney",
+    "qualityId": "garden",
+    "text": "You extend yourself further than feels safe — and it holds.",
+    "score": 1
+  },
+  {
+    "date": "2024-10-16",
+    "zodiacId": "sweet-fried-fava",
+    "qualityId": "rotten",
+    "text": "You meet the difficult thing with more than you expected to have.",
+    "score": 1
+  },
+  {
+    "date": "2024-10-15",
+    "zodiacId": "bitter-fried-pinto",
+    "qualityId": "garden",
+    "text": "What was missing was simpler than you thought.",
+    "score": 1
+  },
+  {
+    "date": "2024-10-14",
+    "zodiacId": "sour-smoked-navy",
+    "qualityId": "garden",
+    "text": "Something you have resisted turns out to be the better route.",
+    "score": -1
+  },
+  {
+    "date": "2024-10-13",
+    "zodiacId": "umami-dried-navy",
+    "qualityId": "market",
+    "text": "The piece you have been missing steps into view.",
+    "score": 0
+  },
+  {
+    "date": "2024-10-12",
+    "zodiacId": "sour-fermented-green",
+    "qualityId": "garden",
+    "text": "The version of yourself you have been building shows up clearly.",
+    "score": 1
+  },
+  {
+    "date": "2024-10-11",
+    "zodiacId": "sour-roasted-chickpea",
+    "qualityId": "heirloom",
+    "text": "The risk was measured and the landing is solid.",
+    "score": 0
+  },
+  {
+    "date": "2024-10-10",
+    "zodiacId": "sour-dried-pinto",
+    "qualityId": "garden",
+    "text": "What you built for yourself turns out to work for others too.",
+    "score": -1
+  },
+  {
+    "date": "2024-10-09",
+    "zodiacId": "umami-fried-black",
+    "qualityId": "garden",
+    "text": "What was missing was simpler than you thought.",
+    "score": -1
+  },
+  {
+    "date": "2024-10-08",
+    "zodiacId": "bitter-fermented-butter",
+    "qualityId": "market",
+    "text": "You name what others have been circling — it clarifies.",
+    "score": 0
+  },
+  {
+    "date": "2024-10-06",
+    "zodiacId": "sweet-fried-butter",
+    "qualityId": "market",
+    "text": "Your instinct outpaces your explanation — trust it.",
+    "score": 0
+  },
+  {
+    "date": "2024-10-05",
+    "zodiacId": "umami-dried-black",
+    "qualityId": "stale",
+    "text": "Your steadiness is the invisible infrastructure everyone relies on.",
+    "score": 0
+  },
+  {
+    "date": "2024-10-05",
+    "zodiacId": "sour-smoked-butter",
+    "qualityId": "garden",
+    "text": "The edge you have kept sharp finds its use.",
+    "score": 0
+  },
+  {
+    "date": "2024-10-03",
+    "zodiacId": "bitter-dried-cannellini",
+    "qualityId": "rotten",
+    "text": "The detail you almost skipped turns out to be the one that matters.",
+    "score": 0
+  },
+  {
+    "date": "2024-10-01",
+    "zodiacId": "bitter-smoked-fava",
+    "qualityId": "market",
+    "text": "Depth calls to depth — what you find is genuinely yours.",
+    "score": 0
+  },
+  {
+    "date": "2024-09-30",
+    "zodiacId": "bitter-boiled-navy",
+    "qualityId": "garden",
+    "text": "You recognise the pattern early enough to change the outcome.",
+    "score": 0
+  },
+  {
+    "date": "2024-09-29",
+    "zodiacId": "spicy-dried-fava",
+    "qualityId": "market",
+    "text": "The window is brief — you see it and move.",
+    "score": 0
+  },
+  {
+    "date": "2024-09-28",
+    "zodiacId": "sour-boiled-cannellini",
+    "qualityId": "garden",
+    "text": "Let what you are carrying show through — it is safe here.",
+    "score": 0
+  },
+  {
+    "date": "2024-09-27",
+    "zodiacId": "umami-roasted-fava",
+    "qualityId": "garden",
+    "text": "The connection you almost missed arrives at the right moment.",
+    "score": 1
+  },
+  {
+    "date": "2024-09-26",
+    "zodiacId": "spicy-dried-edamame",
+    "qualityId": "rotten",
+    "text": "The work you have been doing quietly is about to be seen.",
+    "score": 0
+  },
+  {
+    "date": "2024-09-25",
+    "zodiacId": "sour-boiled-mung",
+    "qualityId": "stale",
+    "text": "A brief pause does more than hours of pressing forward.",
+    "score": -1
+  },
+  {
+    "date": "2024-09-24",
+    "zodiacId": "spicy-roasted-green",
+    "qualityId": "heirloom",
+    "text": "Your attention narrows to exactly what is needed.",
+    "score": 1
+  },
+  {
+    "date": "2024-09-22",
+    "zodiacId": "sour-dried-adzuki",
+    "qualityId": "garden",
+    "text": "Something is completing — let it finish.",
+    "score": 0
+  },
+  {
+    "date": "2024-09-19",
+    "zodiacId": "umami-smoked-mung",
+    "qualityId": "stale",
+    "text": "You mistake endurance for wisdom — they are not the same.",
+    "score": 0
+  },
+  {
+    "date": "2024-09-17",
+    "zodiacId": "spicy-boiled-cannellini",
+    "qualityId": "market",
+    "text": "The difficulty you face is not a sign you chose wrong.",
+    "score": 0
+  },
+  {
+    "date": "2024-09-15",
+    "zodiacId": "sour-roasted-mung",
+    "qualityId": "garden",
+    "text": "A long-held tension releases without fanfare — let it go.",
+    "score": 0
+  },
+  {
+    "date": "2024-09-14",
+    "zodiacId": "sour-dried-cannellini",
+    "qualityId": "stale",
+    "text": "Momentum returns where it had been draining away.",
+    "score": 0
+  },
+  {
+    "date": "2024-09-13",
+    "zodiacId": "sour-roasted-kidney",
+    "qualityId": "stale",
+    "text": "Stillness is not absence — it is a different kind of work.",
+    "score": 1
+  },
+  {
+    "date": "2024-09-12",
+    "zodiacId": "sweet-fermented-pinto",
+    "qualityId": "stale",
+    "text": "Choose the good version — there is no virtue in the lesser one.",
+    "score": 1
+  },
+  {
+    "date": "2024-09-10",
+    "zodiacId": "spicy-boiled-mung",
+    "qualityId": "garden",
+    "text": "Precision lands — this is what the long preparation was for.",
+    "score": 1
+  },
+  {
+    "date": "2024-09-09",
+    "zodiacId": "sweet-fried-cannellini",
+    "qualityId": "market",
+    "text": "You explain where you could simply be.",
+    "score": -1
+  },
+  {
+    "date": "2024-09-06",
+    "zodiacId": "sour-fried-edamame",
+    "qualityId": "rotten",
+    "text": "The heat you carry scorches what it meant to warm.",
+    "score": 0
+  },
+  {
+    "date": "2024-09-02",
+    "zodiacId": "spicy-smoked-chickpea",
+    "qualityId": "heirloom",
+    "text": "You contribute what the moment needed, not what you had planned.",
+    "score": 0
+  },
+  {
+    "date": "2024-09-01",
+    "zodiacId": "sweet-smoked-black",
+    "qualityId": "garden",
+    "text": "What felt like retreat was the necessary arc.",
+    "score": 0
+  },
+  {
+    "date": "2024-08-31",
+    "zodiacId": "spicy-boiled-pinto",
+    "qualityId": "garden",
+    "text": "The conversation that needed to happen finally does.",
+    "score": 0
+  },
+  {
+    "date": "2024-08-30",
+    "zodiacId": "bitter-roasted-kidney",
+    "qualityId": "heirloom",
+    "text": "The difficulty you face is not a sign you chose wrong.",
+    "score": 0
+  },
+  {
+    "date": "2024-08-27",
+    "zodiacId": "umami-dried-black",
+    "qualityId": "garden",
+    "text": "Something old and patient rises to the surface — receive it.",
+    "score": 0
+  },
+  {
+    "date": "2024-08-26",
+    "zodiacId": "sour-boiled-fava",
+    "qualityId": "market",
+    "text": "Something you have been holding loosens without announcement.",
+    "score": 0
+  },
+  {
+    "date": "2024-08-24",
+    "zodiacId": "bitter-fermented-black",
+    "qualityId": "garden",
+    "text": "The conversation that needed to happen finally does.",
+    "score": 0
+  },
+  {
+    "date": "2024-08-23",
+    "zodiacId": "umami-fermented-navy",
+    "qualityId": "market",
+    "text": "Something you said months ago proves itself true today.",
+    "score": 1
+  },
+  {
+    "date": "2024-08-20",
+    "zodiacId": "bitter-roasted-mung",
+    "qualityId": "market",
+    "text": "Pull the edge back; this moment needs warmth more than precision.",
+    "score": 1
+  },
+  {
+    "date": "2024-08-19",
+    "zodiacId": "umami-fried-butter",
+    "qualityId": "garden",
+    "text": "Your steadiness is the invisible infrastructure everyone relies on.",
+    "score": 0
+  },
+  {
+    "date": "2024-08-18",
+    "zodiacId": "spicy-dried-butter",
+    "qualityId": "market",
+    "text": "The small mercy you offer lands somewhere it was needed.",
+    "score": 1
+  },
+  {
+    "date": "2024-08-17",
+    "zodiacId": "sour-roasted-green",
+    "qualityId": "market",
+    "text": "Your attention narrows to exactly what is needed.",
+    "score": -1
+  },
+  {
+    "date": "2024-08-15",
+    "zodiacId": "spicy-smoked-adzuki",
+    "qualityId": "stale",
+    "text": "Something complicated simplifies once you stop forcing the shape.",
+    "score": 1
+  },
+  {
+    "date": "2024-08-14",
+    "zodiacId": "sweet-fried-cannellini",
+    "qualityId": "stale",
+    "text": "Something you have resisted turns out to be the better route.",
+    "score": 0
+  },
+  {
+    "date": "2024-08-13",
+    "zodiacId": "sour-smoked-black",
+    "qualityId": "stale",
+    "text": "Stillness is not absence — it is a different kind of work.",
+    "score": 0
+  },
+  {
+    "date": "2024-08-12",
+    "zodiacId": "umami-fried-edamame",
+    "qualityId": "garden",
+    "text": "What felt like retreat was the necessary arc.",
+    "score": 0
+  },
+  {
+    "date": "2024-08-11",
+    "zodiacId": "bitter-fermented-black",
+    "qualityId": "rotten",
+    "text": "Something you have resisted turns out to be the better route.",
+    "score": -1
+  },
+  {
+    "date": "2024-08-10",
+    "zodiacId": "umami-dried-navy",
+    "qualityId": "market",
+    "text": "What you chose to protect turns out to have been worth it.",
+    "score": 1
+  },
+  {
+    "date": "2024-08-09",
+    "zodiacId": "umami-dried-adzuki",
+    "qualityId": "rotten",
+    "text": "The pattern you have been tracking finally breaks open.",
+    "score": 0
+  },
+  {
+    "date": "2024-08-05",
+    "zodiacId": "bitter-boiled-adzuki",
+    "qualityId": "stale",
+    "text": "What looked like an ending was actually a better starting point.",
+    "score": 0
+  },
+  {
+    "date": "2024-08-04",
+    "zodiacId": "spicy-roasted-kidney",
+    "qualityId": "stale",
+    "text": "The resistance you meet is teaching you the shape of the door.",
+    "score": 0
+  },
+  {
+    "date": "2024-08-03",
+    "zodiacId": "sweet-dried-green",
+    "qualityId": "market",
+    "text": "The discomfort is pointing at something useful.",
+    "score": -1
+  },
+  {
+    "date": "2024-08-01",
+    "zodiacId": "bitter-smoked-cannellini",
+    "qualityId": "rotten",
+    "text": "The window is brief — you see it and move.",
+    "score": 0
+  },
+  {
+    "date": "2024-07-31",
+    "zodiacId": "sweet-boiled-navy",
+    "qualityId": "garden",
+    "text": "The shape of the problem clarifies — now you can work with it.",
+    "score": 1
+  },
+  {
+    "date": "2024-07-28",
+    "zodiacId": "umami-fermented-adzuki",
+    "qualityId": "market",
+    "text": "What draws you forward is not what it appears to be.",
+    "score": 0
+  },
+  {
+    "date": "2024-07-27",
+    "zodiacId": "bitter-roasted-kidney",
+    "qualityId": "stale",
+    "text": "The slow transformation is already well underway.",
+    "score": 0
+  },
+  {
+    "date": "2024-07-26",
+    "zodiacId": "bitter-fermented-mung",
+    "qualityId": "garden",
+    "text": "Something long delayed finally moves.",
+    "score": 0
+  },
+  {
+    "date": "2024-07-25",
+    "zodiacId": "bitter-fried-butter",
+    "qualityId": "rotten",
+    "text": "Something complicated simplifies once you stop forcing the shape.",
+    "score": -1
+  },
+  {
+    "date": "2024-07-23",
+    "zodiacId": "sour-fried-adzuki",
+    "qualityId": "stale",
+    "text": "Something you let go of stops taking up space.",
+    "score": 0
+  },
+  {
+    "date": "2024-07-21",
+    "zodiacId": "sour-dried-cannellini",
+    "qualityId": "garden",
+    "text": "Your attention narrows to exactly what is needed.",
+    "score": 0
+  },
+  {
+    "date": "2024-07-18",
+    "zodiacId": "sour-roasted-cannellini",
+    "qualityId": "garden",
+    "text": "What you built for yourself turns out to work for others too.",
+    "score": 0
+  },
+  {
+    "date": "2024-07-17",
+    "zodiacId": "bitter-dried-adzuki",
+    "qualityId": "stale",
+    "text": "Something you have been holding loosens without announcement.",
+    "score": 1
+  },
+  {
+    "date": "2024-07-15",
+    "zodiacId": "sour-fried-black",
+    "qualityId": "stale",
+    "text": "What you bring is exactly proportionate to what is needed.",
+    "score": 1
+  },
+  {
+    "date": "2024-07-12",
+    "zodiacId": "sour-smoked-kidney",
+    "qualityId": "garden",
+    "text": "Something outside your control resolves in your favour.",
+    "score": 1
+  },
+  {
+    "date": "2024-07-11",
+    "zodiacId": "sweet-fried-black",
+    "qualityId": "stale",
+    "text": "What you bring is exactly proportionate to what is needed.",
+    "score": -1
+  },
+  {
+    "date": "2024-07-10",
+    "zodiacId": "sweet-fermented-black",
+    "qualityId": "heirloom",
+    "text": "You meet the difficult thing with more than you expected to have.",
+    "score": 1
+  },
+  {
+    "date": "2024-07-09",
+    "zodiacId": "spicy-roasted-fava",
+    "qualityId": "market",
+    "text": "The edge you have kept sharp finds its use.",
+    "score": 1
+  },
+  {
+    "date": "2024-07-07",
+    "zodiacId": "umami-boiled-kidney",
+    "qualityId": "market",
+    "text": "The discomfort is pointing at something useful.",
+    "score": 0
+  },
+  {
+    "date": "2024-07-06",
+    "zodiacId": "spicy-smoked-fava",
+    "qualityId": "rotten",
+    "text": "Choose the good version — there is no virtue in the lesser one.",
+    "score": 0
+  },
+  {
+    "date": "2024-07-05",
+    "zodiacId": "sour-smoked-pinto",
+    "qualityId": "stale",
+    "text": "The right comparison arrives and it shifts everything.",
+    "score": 1
+  },
+  {
+    "date": "2024-07-03",
+    "zodiacId": "sour-fried-navy",
+    "qualityId": "stale",
+    "text": "The work speaks; you do not need to.",
+    "score": 0
+  },
+  {
+    "date": "2024-07-01",
+    "zodiacId": "umami-fermented-pinto",
+    "qualityId": "stale",
+    "text": "You reach for more before the first is fully yours.",
+    "score": -1
+  },
+  {
+    "date": "2024-06-30",
+    "zodiacId": "sweet-dried-green",
+    "qualityId": "market",
+    "text": "The resistance you meet is teaching you the shape of the door.",
+    "score": 0
+  },
+  {
+    "date": "2024-06-29",
+    "zodiacId": "spicy-roasted-mung",
+    "qualityId": "market",
+    "text": "You do the harder version of the thing and it shows.",
+    "score": 0
+  },
+  {
+    "date": "2024-06-26",
+    "zodiacId": "bitter-dried-cannellini",
+    "qualityId": "market",
+    "text": "Let what you are carrying show through — it is safe here.",
+    "score": 1
+  },
+  {
+    "date": "2024-06-25",
+    "zodiacId": "sour-dried-butter",
+    "qualityId": "rotten",
+    "text": "What comes through you is not about you — pass it forward.",
+    "score": 1
+  },
+  {
+    "date": "2024-06-24",
+    "zodiacId": "bitter-boiled-pinto",
+    "qualityId": "market",
+    "text": "Generosity given without expectation compounds differently.",
+    "score": 1
+  },
+  {
+    "date": "2024-06-23",
+    "zodiacId": "bitter-fried-butter",
+    "qualityId": "market",
+    "text": "The effort was proportionate and the result reflects that.",
+    "score": 1
+  },
+  {
+    "date": "2024-06-22",
+    "zodiacId": "sour-roasted-green",
+    "qualityId": "heirloom",
+    "text": "You recognise the pattern early enough to change the outcome.",
+    "score": 0
+  },
+  {
+    "date": "2024-06-21",
+    "zodiacId": "umami-fried-black",
+    "qualityId": "stale",
+    "text": "The work speaks; you do not need to.",
+    "score": 1
+  },
+  {
+    "date": "2024-06-20",
+    "zodiacId": "bitter-fermented-navy",
+    "qualityId": "market",
+    "text": "What you gave comes back in a form you did not anticipate.",
+    "score": 1
+  },
+  {
+    "date": "2024-06-19",
+    "zodiacId": "sweet-dried-kidney",
+    "qualityId": "rotten",
+    "text": "The shape of the problem clarifies — now you can work with it.",
+    "score": 0
+  },
+  {
+    "date": "2024-06-18",
+    "zodiacId": "bitter-smoked-butter",
+    "qualityId": "stale",
+    "text": "You choose slowness and the quality of the output reflects it.",
+    "score": 0
+  },
+  {
+    "date": "2024-06-16",
+    "zodiacId": "spicy-fermented-black",
+    "qualityId": "garden",
+    "text": "What comes through you is not about you — pass it forward.",
+    "score": 1
+  },
+  {
+    "date": "2024-06-14",
+    "zodiacId": "spicy-smoked-navy",
+    "qualityId": "market",
+    "text": "The slow transformation is already well underway.",
+    "score": 0
+  },
+  {
+    "date": "2024-06-12",
+    "zodiacId": "spicy-roasted-navy",
+    "qualityId": "rotten",
+    "text": "Your attention narrows to exactly what is needed.",
+    "score": 0
+  },
+  {
+    "date": "2024-06-11",
+    "zodiacId": "sweet-roasted-butter",
+    "qualityId": "market",
+    "text": "You find the right scale and everything becomes manageable.",
+    "score": 0
+  },
+  {
+    "date": "2024-06-10",
+    "zodiacId": "sweet-fermented-chickpea",
+    "qualityId": "market",
+    "text": "Your attention narrows to exactly what is needed.",
+    "score": 1
+  },
+  {
+    "date": "2024-06-09",
+    "zodiacId": "spicy-roasted-navy",
+    "qualityId": "market",
+    "text": "A brief pause does more than hours of pressing forward.",
+    "score": 1
+  },
+  {
+    "date": "2024-06-08",
+    "zodiacId": "bitter-dried-green",
+    "qualityId": "garden",
+    "text": "You draw a line and discover it was the right one.",
+    "score": 0
+  },
+  {
+    "date": "2024-06-07",
+    "zodiacId": "sweet-smoked-kidney",
+    "qualityId": "market",
+    "text": "Pull the edge back; this moment needs warmth more than precision.",
+    "score": 1
+  },
+  {
+    "date": "2024-06-06",
+    "zodiacId": "umami-roasted-mung",
+    "qualityId": "market",
+    "text": "You extend yourself further than feels safe — and it holds.",
+    "score": 0
+  },
+  {
+    "date": "2024-06-03",
+    "zodiacId": "umami-boiled-navy",
+    "qualityId": "stale",
+    "text": "The clarity arrives after the noise settles — wait for it.",
+    "score": 0
+  },
+  {
+    "date": "2024-06-02",
+    "zodiacId": "sour-roasted-mung",
+    "qualityId": "market",
+    "text": "The piece you have been missing steps into view.",
+    "score": 1
+  },
+  {
+    "date": "2024-06-01",
+    "zodiacId": "sour-dried-black",
+    "qualityId": "garden",
+    "text": "Something you let go of stops taking up space.",
+    "score": -1
+  },
+  {
+    "date": "2024-05-31",
+    "zodiacId": "sour-dried-navy",
+    "qualityId": "garden",
+    "text": "What you built for yourself turns out to work for others too.",
+    "score": 1
+  },
+  {
+    "date": "2024-05-30",
+    "zodiacId": "umami-dried-pinto",
+    "qualityId": "market",
+    "text": "Momentum returns where it had been draining away.",
+    "score": 0
+  },
+  {
+    "date": "2024-05-28",
+    "zodiacId": "sour-fermented-green",
+    "qualityId": "market",
+    "text": "The small mercy you offer lands somewhere it was needed.",
+    "score": 0
+  },
+  {
+    "date": "2024-05-25",
+    "zodiacId": "sour-smoked-fava",
+    "qualityId": "stale",
+    "text": "A long-held tension releases without fanfare — let it go.",
+    "score": 1
+  },
+  {
+    "date": "2024-05-24",
+    "zodiacId": "sour-smoked-black",
+    "qualityId": "market",
+    "text": "Generosity given without expectation compounds differently.",
+    "score": 0
+  },
+  {
+    "date": "2024-05-23",
+    "zodiacId": "spicy-dried-edamame",
+    "qualityId": "market",
+    "text": "You name what others have been circling — it clarifies.",
+    "score": 0
+  },
+  {
+    "date": "2024-05-21",
+    "zodiacId": "bitter-fermented-butter",
+    "qualityId": "stale",
+    "text": "The heat you carry scorches what it meant to warm.",
+    "score": 1
+  },
+  {
+    "date": "2024-05-20",
+    "zodiacId": "umami-fermented-mung",
+    "qualityId": "garden",
+    "text": "What you built for yourself turns out to work for others too.",
+    "score": 1
+  },
+  {
+    "date": "2024-05-18",
+    "zodiacId": "sweet-smoked-pinto",
+    "qualityId": "market",
+    "text": "The edge you have kept sharp finds its use.",
+    "score": 0
+  },
+  {
+    "date": "2024-05-17",
+    "zodiacId": "umami-fried-adzuki",
+    "qualityId": "market",
+    "text": "The right comparison arrives and it shifts everything.",
+    "score": 0
+  },
+  {
+    "date": "2024-05-16",
+    "zodiacId": "umami-fermented-navy",
+    "qualityId": "market",
+    "text": "Momentum returns where it had been draining away.",
+    "score": 0
+  },
+  {
+    "date": "2024-05-15",
+    "zodiacId": "umami-roasted-mung",
+    "qualityId": "rotten",
+    "text": "You explain where you could simply be.",
+    "score": 0
+  },
+  {
+    "date": "2024-05-13",
+    "zodiacId": "sour-fried-fava",
+    "qualityId": "heirloom",
+    "text": "You draw a line and discover it was the right one.",
+    "score": 1
+  },
+  {
+    "date": "2024-05-12",
+    "zodiacId": "spicy-smoked-butter",
+    "qualityId": "garden",
+    "text": "The patience was worth it; the thing comes together now.",
+    "score": 0
+  },
+  {
+    "date": "2024-05-10",
+    "zodiacId": "sweet-dried-butter",
+    "qualityId": "garden",
+    "text": "The question you have been avoiding is the useful one.",
+    "score": -1
+  },
+  {
+    "date": "2024-05-09",
+    "zodiacId": "sour-fermented-edamame",
+    "qualityId": "rotten",
+    "text": "The difficulty you face is not a sign you chose wrong.",
+    "score": 0
+  },
+  {
+    "date": "2024-05-08",
+    "zodiacId": "sweet-boiled-navy",
+    "qualityId": "stale",
+    "text": "The work speaks; you do not need to.",
+    "score": 0
+  },
+  {
+    "date": "2024-05-07",
+    "zodiacId": "spicy-fried-green",
+    "qualityId": "garden",
+    "text": "The difficulty was real, and you were equal to it.",
+    "score": 1
+  },
+  {
+    "date": "2024-05-06",
+    "zodiacId": "bitter-fermented-adzuki",
+    "qualityId": "stale",
+    "text": "Something you named months ago is finally listening.",
+    "score": 1
+  },
+  {
+    "date": "2024-05-05",
+    "zodiacId": "sour-smoked-green",
+    "qualityId": "garden",
+    "text": "The edge you have kept sharp finds its use.",
+    "score": 0
+  },
+  {
+    "date": "2024-05-04",
+    "zodiacId": "sour-fried-butter",
+    "qualityId": "garden",
+    "text": "Let what you are carrying show through — it is safe here.",
+    "score": 0
+  },
+  {
+    "date": "2024-05-01",
+    "zodiacId": "spicy-fermented-chickpea",
+    "qualityId": "stale",
+    "text": "The window is brief — you see it and move.",
+    "score": 0
+  },
+  {
+    "date": "2024-04-30",
+    "zodiacId": "sour-smoked-chickpea",
+    "qualityId": "garden",
+    "text": "Precision lands — this is what the long preparation was for.",
+    "score": 0
+  },
+  {
+    "date": "2024-04-29",
+    "zodiacId": "sweet-dried-edamame",
+    "qualityId": "garden",
+    "text": "The softer path is not the weaker one.",
+    "score": 0
+  },
+  {
+    "date": "2024-04-26",
+    "zodiacId": "umami-smoked-black",
+    "qualityId": "heirloom",
+    "text": "Momentum returns where it had been draining away.",
+    "score": 0
+  },
+  {
+    "date": "2024-04-25",
+    "zodiacId": "sour-fried-green",
+    "qualityId": "heirloom",
+    "text": "The slow transformation is already well underway.",
+    "score": 0
+  },
+  {
+    "date": "2024-04-23",
+    "zodiacId": "bitter-fried-mung",
+    "qualityId": "garden",
+    "text": "The difficulty was real, and you were equal to it.",
+    "score": 1
+  },
+  {
+    "date": "2024-04-20",
+    "zodiacId": "sour-fermented-black",
+    "qualityId": "garden",
+    "text": "The difficulty was real, and you were equal to it.",
+    "score": 0
+  },
+  {
+    "date": "2024-04-19",
+    "zodiacId": "sweet-fried-edamame",
+    "qualityId": "garden",
+    "text": "The heat you carry scorches what it meant to warm.",
+    "score": -1
+  },
+  {
+    "date": "2024-04-18",
+    "zodiacId": "bitter-roasted-mung",
+    "qualityId": "stale",
+    "text": "Warmth extended without calculation — this is the practice.",
+    "score": 0
+  },
+  {
+    "date": "2024-04-17",
+    "zodiacId": "sweet-fried-cannellini",
+    "qualityId": "garden",
+    "text": "Your instinct outpaces your explanation — trust it.",
+    "score": 0
+  },
+  {
+    "date": "2024-04-16",
+    "zodiacId": "sour-fried-adzuki",
+    "qualityId": "market",
+    "text": "The care you take now is the margin you will need later.",
+    "score": 1
+  },
+  {
+    "date": "2024-04-15",
+    "zodiacId": "bitter-dried-mung",
+    "qualityId": "stale",
+    "text": "What you chose to protect turns out to have been worth it.",
+    "score": 0
+  },
+  {
+    "date": "2024-04-14",
+    "zodiacId": "sweet-roasted-green",
+    "qualityId": "stale",
+    "text": "The thing you called a problem was mostly just unfamiliar.",
+    "score": 0
+  },
+  {
+    "date": "2024-04-13",
+    "zodiacId": "bitter-smoked-black",
+    "qualityId": "stale",
+    "text": "Something you let go of stops taking up space.",
+    "score": 0
+  },
+  {
+    "date": "2024-04-12",
+    "zodiacId": "sweet-boiled-pinto",
+    "qualityId": "market",
+    "text": "What you chose to protect turns out to have been worth it.",
+    "score": 0
+  },
+  {
+    "date": "2024-04-11",
+    "zodiacId": "umami-fermented-black",
+    "qualityId": "stale",
+    "text": "The detail you almost skipped turns out to be the one that matters.",
+    "score": 1
+  },
+  {
+    "date": "2024-04-09",
+    "zodiacId": "umami-fried-butter",
+    "qualityId": "garden",
+    "text": "What felt like retreat was the necessary arc.",
+    "score": 0
+  },
+  {
+    "date": "2024-04-08",
+    "zodiacId": "spicy-smoked-black",
+    "qualityId": "heirloom",
+    "text": "A long-held tension releases without fanfare — let it go.",
+    "score": 1
+  },
+  {
+    "date": "2024-04-07",
+    "zodiacId": "sour-roasted-fava",
+    "qualityId": "market",
+    "text": "The discomfort is pointing at something useful.",
+    "score": 0
+  },
+  {
+    "date": "2024-04-05",
+    "zodiacId": "spicy-smoked-butter",
+    "qualityId": "market",
+    "text": "Something you named months ago is finally listening.",
+    "score": 0
+  },
+  {
+    "date": "2024-04-03",
+    "zodiacId": "sour-roasted-mung",
+    "qualityId": "market",
+    "text": "You recognise the pattern early enough to change the outcome.",
+    "score": -1
+  },
+  {
+    "date": "2024-04-02",
+    "zodiacId": "bitter-fried-green",
+    "qualityId": "heirloom",
+    "text": "Your steadiness is the invisible infrastructure everyone relies on.",
+    "score": 1
+  },
+  {
+    "date": "2024-04-01",
+    "zodiacId": "umami-fried-black",
+    "qualityId": "heirloom",
+    "text": "The care you take now is the margin you will need later.",
+    "score": 1
+  },
+  {
+    "date": "2024-03-31",
+    "zodiacId": "bitter-fermented-black",
+    "qualityId": "garden",
+    "text": "Something complicated simplifies once you stop forcing the shape.",
+    "score": -1
+  },
+  {
+    "date": "2024-03-27",
+    "zodiacId": "spicy-dried-fava",
+    "qualityId": "market",
+    "text": "Let the question sit — it does not need your answer yet.",
+    "score": 0
+  },
+  {
+    "date": "2024-03-26",
+    "zodiacId": "sour-fried-black",
+    "qualityId": "stale",
+    "text": "Small adjustments compound — this one counts.",
+    "score": -1
+  },
+  {
+    "date": "2024-03-25",
+    "zodiacId": "umami-smoked-pinto",
+    "qualityId": "heirloom",
+    "text": "Let the question sit — it does not need your answer yet.",
+    "score": 0
+  },
+  {
+    "date": "2024-03-23",
+    "zodiacId": "sour-smoked-adzuki",
+    "qualityId": "garden",
+    "text": "The work speaks; you do not need to.",
+    "score": 0
+  },
+  {
+    "date": "2024-03-22",
+    "zodiacId": "bitter-fermented-kidney",
+    "qualityId": "stale",
+    "text": "You reach for more before the first is fully yours.",
+    "score": 0
+  },
+  {
+    "date": "2024-03-21",
+    "zodiacId": "sour-boiled-pinto",
+    "qualityId": "market",
+    "text": "The question you have been avoiding is the useful one.",
+    "score": 1
+  },
+  {
+    "date": "2024-03-19",
+    "zodiacId": "spicy-fermented-black",
+    "qualityId": "market",
+    "text": "Let the question sit — it does not need your answer yet.",
+    "score": 1
+  },
+  {
+    "date": "2024-03-17",
+    "zodiacId": "sour-fermented-fava",
+    "qualityId": "market",
+    "text": "You do less and it lands harder.",
+    "score": 0
+  },
+  {
+    "date": "2024-03-16",
+    "zodiacId": "sweet-dried-cannellini",
+    "qualityId": "stale",
+    "text": "A door closes cleanly — walk through without looking back.",
+    "score": 0
+  },
+  {
+    "date": "2024-03-12",
+    "zodiacId": "spicy-boiled-butter",
+    "qualityId": "garden",
+    "text": "What looked like an ending was actually a better starting point.",
+    "score": 1
+  },
+  {
+    "date": "2024-03-11",
+    "zodiacId": "spicy-roasted-black",
+    "qualityId": "garden",
+    "text": "The window is brief — you see it and move.",
+    "score": 1
+  },
+  {
+    "date": "2024-03-08",
+    "zodiacId": "umami-smoked-butter",
+    "qualityId": "market",
+    "text": "A door closes cleanly — walk through without looking back.",
+    "score": 1
+  },
+  {
+    "date": "2024-03-06",
+    "zodiacId": "bitter-fried-kidney",
+    "qualityId": "market",
+    "text": "The piece you have been missing steps into view.",
+    "score": 0
+  },
+  {
+    "date": "2024-03-05",
+    "zodiacId": "spicy-fermented-mung",
+    "qualityId": "garden",
+    "text": "You find the right scale and everything becomes manageable.",
+    "score": 0
+  },
+  {
+    "date": "2024-03-03",
+    "zodiacId": "spicy-fried-adzuki",
+    "qualityId": "garden",
+    "text": "You give the thing away and find you still have it.",
+    "score": 1
+  },
+  {
+    "date": "2024-03-02",
+    "zodiacId": "sweet-fermented-cannellini",
+    "qualityId": "garden",
+    "text": "The work you have been doing quietly is about to be seen.",
+    "score": 0
+  },
+  {
+    "date": "2024-02-29",
+    "zodiacId": "sweet-roasted-edamame",
+    "qualityId": "garden",
+    "text": "The thread you follow leads somewhere real.",
+    "score": 0
+  },
+  {
+    "date": "2024-02-27",
+    "zodiacId": "bitter-fermented-cannellini",
+    "qualityId": "market",
+    "text": "What you chose to protect turns out to have been worth it.",
+    "score": 0
+  },
+  {
+    "date": "2024-02-26",
+    "zodiacId": "bitter-smoked-adzuki",
+    "qualityId": "garden",
+    "text": "You do less and it lands harder.",
+    "score": 1
+  },
+  {
+    "date": "2024-02-25",
+    "zodiacId": "umami-fried-mung",
+    "qualityId": "garden",
+    "text": "Your attention narrows to exactly what is needed.",
+    "score": -1
+  },
+  {
+    "date": "2024-02-24",
+    "zodiacId": "umami-fried-pinto",
+    "qualityId": "garden",
+    "text": "You hold your ground without needing to make noise about it.",
+    "score": 0
+  },
+  {
+    "date": "2024-02-23",
+    "zodiacId": "spicy-boiled-pinto",
+    "qualityId": "garden",
+    "text": "You choose slowness and the quality of the output reflects it.",
+    "score": 0
+  },
+  {
+    "date": "2024-02-21",
+    "zodiacId": "spicy-fermented-green",
+    "qualityId": "heirloom",
+    "text": "Something complicated simplifies once you stop forcing the shape.",
+    "score": 1
+  },
+  {
+    "date": "2024-02-19",
+    "zodiacId": "sour-smoked-black",
+    "qualityId": "garden",
+    "text": "The heat you carry scorches what it meant to warm.",
+    "score": -1
+  },
+  {
+    "date": "2024-02-18",
+    "zodiacId": "sour-boiled-mung",
+    "qualityId": "market",
+    "text": "Your attention narrows to exactly what is needed.",
+    "score": 1
+  },
+  {
+    "date": "2024-02-17",
+    "zodiacId": "spicy-dried-fava",
+    "qualityId": "stale",
+    "text": "Small adjustments compound — this one counts.",
+    "score": -1
+  },
+  {
+    "date": "2024-02-15",
+    "zodiacId": "spicy-roasted-chickpea",
+    "qualityId": "market",
+    "text": "The version of yourself you have been building shows up clearly.",
+    "score": 1
+  },
+  {
+    "date": "2024-02-13",
+    "zodiacId": "sour-boiled-navy",
+    "qualityId": "market",
+    "text": "The difficulty you face is not a sign you chose wrong.",
+    "score": -1
+  },
+  {
+    "date": "2024-02-12",
+    "zodiacId": "umami-smoked-butter",
+    "qualityId": "rotten",
+    "text": "The risk was measured and the landing is solid.",
+    "score": 0
+  },
+  {
+    "date": "2024-02-11",
+    "zodiacId": "sweet-smoked-chickpea",
+    "qualityId": "garden",
+    "text": "You arrive with the right thing at the right moment.",
+    "score": -1
+  },
+  {
+    "date": "2024-02-10",
+    "zodiacId": "bitter-fermented-mung",
+    "qualityId": "garden",
+    "text": "What you carry forward is lighter than what you set down.",
+    "score": 0
+  },
+  {
+    "date": "2024-02-09",
+    "zodiacId": "sweet-fried-adzuki",
+    "qualityId": "garden",
+    "text": "Something is completing — let it finish.",
+    "score": 1
+  },
+  {
+    "date": "2024-02-07",
+    "zodiacId": "sour-fried-black",
+    "qualityId": "garden",
+    "text": "The clarity arrives after the noise settles — wait for it.",
+    "score": 0
+  },
+  {
+    "date": "2024-02-05",
+    "zodiacId": "sour-boiled-butter",
+    "qualityId": "market",
+    "text": "You mistake endurance for wisdom — they are not the same.",
+    "score": 1
+  },
+  {
+    "date": "2024-02-04",
+    "zodiacId": "sweet-fried-cannellini",
+    "qualityId": "market",
+    "text": "The version of yourself you have been building shows up clearly.",
+    "score": 0
+  },
+  {
+    "date": "2024-02-03",
+    "zodiacId": "sour-fermented-green",
+    "qualityId": "market",
+    "text": "Warmth extended without calculation — this is the practice.",
+    "score": 0
+  },
+  {
+    "date": "2024-02-02",
+    "zodiacId": "sour-dried-adzuki",
+    "qualityId": "stale",
+    "text": "What felt like retreat was the necessary arc.",
+    "score": -1
+  },
+  {
+    "date": "2024-02-01",
+    "zodiacId": "sour-roasted-black",
+    "qualityId": "garden",
+    "text": "A small correction now prevents a larger one later.",
+    "score": 0
+  },
+  {
+    "date": "2024-01-31",
+    "zodiacId": "spicy-fermented-kidney",
+    "qualityId": "market",
+    "text": "What felt like retreat was the necessary arc.",
+    "score": 0
+  },
+  {
+    "date": "2024-01-30",
+    "zodiacId": "bitter-fried-chickpea",
+    "qualityId": "market",
+    "text": "Something complicated simplifies once you stop forcing the shape.",
+    "score": 0
+  },
+  {
+    "date": "2024-01-29",
+    "zodiacId": "umami-fried-kidney",
+    "qualityId": "garden",
+    "text": "What you bring is exactly proportionate to what is needed.",
+    "score": 0
+  },
+  {
+    "date": "2024-01-28",
+    "zodiacId": "sour-smoked-edamame",
+    "qualityId": "stale",
+    "text": "What was missing was simpler than you thought.",
+    "score": -1
+  },
+  {
+    "date": "2024-01-27",
+    "zodiacId": "bitter-dried-green",
+    "qualityId": "garden",
+    "text": "You draw a line and discover it was the right one.",
+    "score": 1
+  },
+  {
+    "date": "2024-01-24",
+    "zodiacId": "sweet-fried-edamame",
+    "qualityId": "garden",
+    "text": "Something you have been holding loosens without announcement.",
+    "score": 0
+  },
+  {
+    "date": "2024-01-23",
+    "zodiacId": "spicy-roasted-cannellini",
+    "qualityId": "heirloom",
+    "text": "The window is brief — you see it and move.",
+    "score": 0
+  },
+  {
+    "date": "2024-01-21",
+    "zodiacId": "bitter-boiled-pinto",
+    "qualityId": "rotten",
+    "text": "What you carry forward is lighter than what you set down.",
+    "score": 0
+  },
+  {
+    "date": "2024-01-20",
+    "zodiacId": "umami-dried-butter",
+    "qualityId": "rotten",
+    "text": "You recognise the pattern early enough to change the outcome.",
+    "score": 1
+  },
+  {
+    "date": "2024-01-15",
+    "zodiacId": "spicy-fermented-cannellini",
+    "qualityId": "rotten",
+    "text": "Warmth extended without calculation — this is the practice.",
+    "score": 1
+  },
+  {
+    "date": "2024-01-12",
+    "zodiacId": "sour-smoked-adzuki",
+    "qualityId": "rotten",
+    "text": "The effort was proportionate and the result reflects that.",
+    "score": 0
+  },
+  {
+    "date": "2024-01-11",
+    "zodiacId": "spicy-roasted-black",
+    "qualityId": "garden",
+    "text": "Something you said months ago proves itself true today.",
+    "score": 0
+  },
+  {
+    "date": "2024-01-10",
+    "zodiacId": "sweet-fried-fava",
+    "qualityId": "stale",
+    "text": "You do less and it lands harder.",
+    "score": 0
+  },
+  {
+    "date": "2024-01-08",
+    "zodiacId": "spicy-fried-black",
+    "qualityId": "stale",
+    "text": "Depth calls to depth — what you find is genuinely yours.",
+    "score": 0
+  },
+  {
+    "date": "2024-01-07",
+    "zodiacId": "bitter-smoked-green",
+    "qualityId": "stale",
+    "text": "You find the right scale and everything becomes manageable.",
+    "score": 0
+  },
+  {
+    "date": "2024-01-04",
+    "zodiacId": "sour-dried-fava",
+    "qualityId": "market",
+    "text": "The connection you almost missed arrives at the right moment.",
+    "score": 1
+  },
+  {
+    "date": "2024-01-02",
+    "zodiacId": "sour-roasted-fava",
+    "qualityId": "stale",
+    "text": "What seemed like luck was the residue of your consistency.",
+    "score": 0
+  },
+  {
+    "date": "2024-01-01",
+    "zodiacId": "bitter-smoked-green",
+    "qualityId": "stale",
+    "text": "Something long delayed finally moves.",
+    "score": 0
+  },
+  {
+    "date": "2023-12-29",
+    "zodiacId": "bitter-dried-chickpea",
+    "qualityId": "rotten",
+    "text": "The urgency fades before it ever needed to arrive.",
+    "score": 0
+  },
+  {
+    "date": "2023-12-28",
+    "zodiacId": "sweet-roasted-green",
+    "qualityId": "stale",
+    "text": "Something is completing — let it finish.",
+    "score": 0
+  },
+  {
+    "date": "2023-12-26",
+    "zodiacId": "umami-smoked-edamame",
+    "qualityId": "market",
+    "text": "The friction you meet is shaping something worth keeping.",
+    "score": 0
+  },
+  {
+    "date": "2023-12-25",
+    "zodiacId": "spicy-fermented-chickpea",
+    "qualityId": "garden",
+    "text": "The version of yourself you have been building shows up clearly.",
+    "score": 0
+  },
+  {
+    "date": "2023-12-24",
+    "zodiacId": "spicy-boiled-edamame",
+    "qualityId": "market",
+    "text": "You push before the ground is ready to hold you.",
+    "score": 0
+  },
+  {
+    "date": "2023-12-22",
+    "zodiacId": "umami-fermented-mung",
+    "qualityId": "stale",
+    "text": "The slow transformation is already well underway.",
+    "score": 0
+  },
+  {
+    "date": "2023-12-21",
+    "zodiacId": "sweet-fried-pinto",
+    "qualityId": "market",
+    "text": "You hold your ground without needing to make noise about it.",
+    "score": -1
+  },
+  {
+    "date": "2023-12-20",
+    "zodiacId": "sweet-smoked-green",
+    "qualityId": "stale",
+    "text": "What was missing was simpler than you thought.",
+    "score": 1
+  },
+  {
+    "date": "2023-12-19",
+    "zodiacId": "umami-fermented-mung",
+    "qualityId": "stale",
+    "text": "What comes through you is not about you — pass it forward.",
+    "score": 0
+  },
+  {
+    "date": "2023-12-18",
+    "zodiacId": "spicy-roasted-green",
+    "qualityId": "market",
+    "text": "The effort was proportionate and the result reflects that.",
+    "score": 0
+  },
+  {
+    "date": "2023-12-17",
+    "zodiacId": "sweet-roasted-chickpea",
+    "qualityId": "heirloom",
+    "text": "The softer path is not the weaker one.",
+    "score": -1
+  },
+  {
+    "date": "2023-12-16",
+    "zodiacId": "bitter-fried-adzuki",
+    "qualityId": "rotten",
+    "text": "Precision lands — this is what the long preparation was for.",
+    "score": 1
+  },
+  {
+    "date": "2023-12-15",
+    "zodiacId": "sweet-boiled-pinto",
+    "qualityId": "garden",
+    "text": "Something you have been holding loosens without announcement.",
+    "score": 0
+  },
+  {
+    "date": "2023-12-14",
+    "zodiacId": "bitter-smoked-butter",
+    "qualityId": "rotten",
+    "text": "The shape of the problem clarifies — now you can work with it.",
+    "score": 1
+  },
+  {
+    "date": "2023-12-13",
+    "zodiacId": "spicy-boiled-green",
+    "qualityId": "rotten",
+    "text": "The work speaks; you do not need to.",
+    "score": 1
+  },
+  {
+    "date": "2023-12-12",
+    "zodiacId": "sweet-smoked-navy",
+    "qualityId": "garden",
+    "text": "What felt like retreat was the necessary arc.",
+    "score": 0
+  },
+  {
+    "date": "2023-12-10",
+    "zodiacId": "spicy-dried-navy",
+    "qualityId": "garden",
+    "text": "You recognise the pattern early enough to change the outcome.",
+    "score": -1
+  },
+  {
+    "date": "2023-12-09",
+    "zodiacId": "spicy-roasted-green",
+    "qualityId": "rotten",
+    "text": "Your attention narrows to exactly what is needed.",
+    "score": 1
+  },
+  {
+    "date": "2023-12-08",
+    "zodiacId": "umami-fried-mung",
+    "qualityId": "heirloom",
+    "text": "The difficulty you face is not a sign you chose wrong.",
+    "score": -1
+  },
+  {
+    "date": "2023-12-07",
+    "zodiacId": "sour-roasted-navy",
+    "qualityId": "market",
+    "text": "The piece you have been missing steps into view.",
+    "score": 0
+  },
+  {
+    "date": "2023-12-05",
+    "zodiacId": "umami-dried-adzuki",
+    "qualityId": "garden",
+    "text": "The right comparison arrives and it shifts everything.",
+    "score": 0
+  },
+  {
+    "date": "2023-12-04",
+    "zodiacId": "bitter-smoked-adzuki",
+    "qualityId": "market",
+    "text": "What you withheld kept you honest — that was enough.",
+    "score": -1
+  },
+  {
+    "date": "2023-12-03",
+    "zodiacId": "sour-dried-pinto",
+    "qualityId": "garden",
+    "text": "A quiet win; no audience required.",
+    "score": 0
+  },
+  {
+    "date": "2023-12-02",
+    "zodiacId": "bitter-fermented-green",
+    "qualityId": "stale",
+    "text": "What felt like retreat was the necessary arc.",
+    "score": 0
+  },
+  {
+    "date": "2023-12-01",
+    "zodiacId": "umami-fermented-adzuki",
+    "qualityId": "garden",
+    "text": "Momentum returns where it had been draining away.",
+    "score": -1
+  },
+  {
+    "date": "2023-11-30",
+    "zodiacId": "sweet-fermented-kidney",
+    "qualityId": "garden",
+    "text": "What you withheld kept you honest — that was enough.",
+    "score": 1
+  },
+  {
+    "date": "2023-11-29",
+    "zodiacId": "umami-smoked-black",
+    "qualityId": "garden",
+    "text": "You do the harder version of the thing and it shows.",
+    "score": 0
+  },
+  {
+    "date": "2023-11-28",
+    "zodiacId": "sweet-boiled-cannellini",
+    "qualityId": "garden",
+    "text": "The risk was measured and the landing is solid.",
+    "score": 0
+  },
+  {
+    "date": "2023-11-26",
+    "zodiacId": "umami-fermented-black",
+    "qualityId": "rotten",
+    "text": "The risk was measured and the landing is solid.",
+    "score": 1
+  },
+  {
+    "date": "2023-11-23",
+    "zodiacId": "sweet-fermented-navy",
+    "qualityId": "market",
+    "text": "The clarity arrives after the noise settles — wait for it.",
+    "score": 0
+  },
+  {
+    "date": "2023-11-22",
+    "zodiacId": "spicy-fermented-chickpea",
+    "qualityId": "heirloom",
+    "text": "The shape of the problem clarifies — now you can work with it.",
+    "score": -1
+  },
+  {
+    "date": "2023-11-21",
+    "zodiacId": "sweet-smoked-mung",
+    "qualityId": "garden",
+    "text": "The conversation that needed to happen finally does.",
+    "score": 0
+  },
+  {
+    "date": "2023-11-20",
+    "zodiacId": "sour-dried-kidney",
+    "qualityId": "garden",
+    "text": "What you built for yourself turns out to work for others too.",
+    "score": 1
+  },
+  {
+    "date": "2023-11-19",
+    "zodiacId": "spicy-roasted-chickpea",
+    "qualityId": "market",
+    "text": "You name what others have been circling — it clarifies.",
+    "score": -1
+  },
+  {
+    "date": "2023-11-18",
+    "zodiacId": "spicy-roasted-chickpea",
+    "qualityId": "garden",
+    "text": "A quiet win; no audience required.",
+    "score": 0
+  },
+  {
+    "date": "2023-11-17",
+    "zodiacId": "sour-boiled-green",
+    "qualityId": "rotten",
+    "text": "Warmth extended without calculation — this is the practice.",
+    "score": -1
+  },
+  {
+    "date": "2023-11-14",
+    "zodiacId": "spicy-fried-edamame",
+    "qualityId": "heirloom",
+    "text": "You choose slowness and the quality of the output reflects it.",
+    "score": -1
+  },
+  {
+    "date": "2023-11-12",
+    "zodiacId": "sour-roasted-cannellini",
+    "qualityId": "rotten",
+    "text": "The discomfort is pointing at something useful.",
+    "score": 1
+  },
+  {
+    "date": "2023-11-11",
+    "zodiacId": "sour-roasted-black",
+    "qualityId": "stale",
+    "text": "What you bring is exactly proportionate to what is needed.",
+    "score": 0
+  },
+  {
+    "date": "2023-11-07",
+    "zodiacId": "sour-fermented-fava",
+    "qualityId": "market",
+    "text": "Depth calls to depth — what you find is genuinely yours.",
+    "score": 0
+  },
+  {
+    "date": "2023-11-06",
+    "zodiacId": "sweet-roasted-cannellini",
+    "qualityId": "rotten",
+    "text": "You hold your ground without needing to make noise about it.",
+    "score": 1
+  },
+  {
+    "date": "2023-11-05",
+    "zodiacId": "sweet-dried-pinto",
+    "qualityId": "heirloom",
+    "text": "What seemed like luck was the residue of your consistency.",
+    "score": 0
+  },
+  {
+    "date": "2023-11-03",
+    "zodiacId": "umami-roasted-cannellini",
+    "qualityId": "stale",
+    "text": "The piece you have been missing steps into view.",
+    "score": 1
+  },
+  {
+    "date": "2023-11-02",
+    "zodiacId": "sweet-boiled-pinto",
+    "qualityId": "rotten",
+    "text": "Let what you are carrying show through — it is safe here.",
+    "score": 0
+  },
+  {
+    "date": "2023-11-01",
+    "zodiacId": "spicy-roasted-kidney",
+    "qualityId": "stale",
+    "text": "You push before the ground is ready to hold you.",
+    "score": 0
+  },
+  {
+    "date": "2023-10-31",
+    "zodiacId": "sour-fried-mung",
+    "qualityId": "stale",
+    "text": "The heat you carry scorches what it meant to warm.",
+    "score": 1
+  },
+  {
+    "date": "2023-10-28",
+    "zodiacId": "sweet-fried-butter",
+    "qualityId": "heirloom",
+    "text": "Let the question sit — it does not need your answer yet.",
+    "score": 0
+  },
+  {
+    "date": "2023-10-26",
+    "zodiacId": "sweet-fermented-pinto",
+    "qualityId": "market",
+    "text": "The conversation that needed to happen finally does.",
+    "score": 1
+  },
+  {
+    "date": "2023-10-25",
+    "zodiacId": "spicy-fermented-fava",
+    "qualityId": "market",
+    "text": "What comes through you is not about you — pass it forward.",
+    "score": 0
+  },
+  {
+    "date": "2023-10-24",
+    "zodiacId": "spicy-dried-adzuki",
+    "qualityId": "market",
+    "text": "You arrive with the right thing at the right moment.",
+    "score": 0
+  },
+  {
+    "date": "2023-10-23",
+    "zodiacId": "sweet-fermented-fava",
+    "qualityId": "garden",
+    "text": "A quiet win; no audience required.",
+    "score": 1
+  },
+  {
+    "date": "2023-10-22",
+    "zodiacId": "sour-fermented-navy",
+    "qualityId": "garden",
+    "text": "Warmth extended without calculation — this is the practice.",
+    "score": -1
+  },
+  {
+    "date": "2023-10-19",
+    "zodiacId": "bitter-smoked-edamame",
+    "qualityId": "garden",
+    "text": "You hold your ground without needing to make noise about it.",
+    "score": -1
+  },
+  {
+    "date": "2023-10-17",
+    "zodiacId": "sour-fried-fava",
+    "qualityId": "market",
+    "text": "What the day demands is less than what you planned to give.",
+    "score": -1
+  },
+  {
+    "date": "2023-10-16",
+    "zodiacId": "spicy-smoked-kidney",
+    "qualityId": "stale",
+    "text": "Momentum returns where it had been draining away.",
+    "score": -1
+  },
+  {
+    "date": "2023-10-14",
+    "zodiacId": "bitter-fried-navy",
+    "qualityId": "stale",
+    "text": "The patience was worth it; the thing comes together now.",
+    "score": 1
+  },
+  {
+    "date": "2023-10-13",
+    "zodiacId": "bitter-dried-navy",
+    "qualityId": "garden",
+    "text": "What you carry forward is lighter than what you set down.",
+    "score": -1
+  },
+  {
+    "date": "2023-10-11",
+    "zodiacId": "spicy-fermented-cannellini",
+    "qualityId": "heirloom",
+    "text": "You explain where you could simply be.",
+    "score": 0
+  },
+  {
+    "date": "2023-10-10",
+    "zodiacId": "bitter-fermented-pinto",
+    "qualityId": "market",
+    "text": "You find the right scale and everything becomes manageable.",
+    "score": 0
+  },
+  {
+    "date": "2023-10-09",
+    "zodiacId": "sweet-roasted-mung",
+    "qualityId": "garden",
+    "text": "The discomfort is pointing at something useful.",
+    "score": 0
+  },
+  {
+    "date": "2023-10-08",
+    "zodiacId": "spicy-fried-black",
+    "qualityId": "garden",
+    "text": "What you bring is exactly proportionate to what is needed.",
+    "score": 0
+  },
+  {
+    "date": "2023-10-07",
+    "zodiacId": "bitter-roasted-adzuki",
+    "qualityId": "garden",
+    "text": "You choose slowness and the quality of the output reflects it.",
+    "score": 0
+  },
+  {
+    "date": "2023-10-06",
+    "zodiacId": "spicy-fermented-chickpea",
+    "qualityId": "market",
+    "text": "Something complicated simplifies once you stop forcing the shape.",
+    "score": 1
+  },
+  {
+    "date": "2023-10-05",
+    "zodiacId": "spicy-fermented-black",
+    "qualityId": "garden",
+    "text": "The gap between effort and result is where something is hiding.",
+    "score": -1
+  },
+  {
+    "date": "2023-10-04",
+    "zodiacId": "bitter-roasted-adzuki",
+    "qualityId": "stale",
+    "text": "Something you named months ago is finally listening.",
+    "score": 1
+  },
+  {
+    "date": "2023-10-02",
+    "zodiacId": "bitter-roasted-pinto",
+    "qualityId": "stale",
+    "text": "The difficulty you face is not a sign you chose wrong.",
+    "score": 1
+  },
+  {
+    "date": "2023-09-30",
+    "zodiacId": "umami-fermented-cannellini",
+    "qualityId": "market",
+    "text": "What you bring is exactly proportionate to what is needed.",
+    "score": 1
+  },
+  {
+    "date": "2023-09-29",
+    "zodiacId": "umami-fried-butter",
+    "qualityId": "stale",
+    "text": "You mistake endurance for wisdom — they are not the same.",
+    "score": 0
+  },
+  {
+    "date": "2023-09-28",
+    "zodiacId": "bitter-fried-pinto",
+    "qualityId": "garden",
+    "text": "You arrive with the right thing at the right moment.",
+    "score": 0
+  },
+  {
+    "date": "2023-09-27",
+    "zodiacId": "sour-dried-chickpea",
+    "qualityId": "garden",
+    "text": "The difficulty you face is not a sign you chose wrong.",
+    "score": 0
+  },
+  {
+    "date": "2023-09-26",
+    "zodiacId": "sweet-dried-fava",
+    "qualityId": "stale",
+    "text": "Warmth extended without calculation — this is the practice.",
+    "score": 0
+  },
+  {
+    "date": "2023-09-24",
+    "zodiacId": "umami-smoked-navy",
+    "qualityId": "garden",
+    "text": "Something is completing — let it finish.",
+    "score": 0
+  },
+  {
+    "date": "2023-09-23",
+    "zodiacId": "sweet-fermented-navy",
+    "qualityId": "heirloom",
+    "text": "Something old and patient rises to the surface — receive it.",
+    "score": -1
+  },
+  {
+    "date": "2023-09-22",
+    "zodiacId": "umami-dried-adzuki",
+    "qualityId": "stale",
+    "text": "Something you have resisted turns out to be the better route.",
+    "score": 1
+  },
+  {
+    "date": "2023-09-19",
+    "zodiacId": "spicy-roasted-mung",
+    "qualityId": "stale",
+    "text": "What was complicated is beginning to settle into sense.",
+    "score": 0
+  },
+  {
+    "date": "2023-09-18",
+    "zodiacId": "sweet-dried-chickpea",
+    "qualityId": "market",
+    "text": "A door closes cleanly — walk through without looking back.",
+    "score": -1
+  },
+  {
+    "date": "2023-09-17",
+    "zodiacId": "sweet-boiled-mung",
+    "qualityId": "market",
+    "text": "You offer comfort where honesty would have served better.",
+    "score": 0
+  },
+  {
+    "date": "2023-09-16",
+    "zodiacId": "spicy-boiled-pinto",
+    "qualityId": "stale",
+    "text": "You give the thing away and find you still have it.",
+    "score": -1
+  },
+  {
+    "date": "2023-09-13",
+    "zodiacId": "sweet-boiled-adzuki",
+    "qualityId": "rotten",
+    "text": "Something outside your control resolves in your favour.",
+    "score": 0
+  },
+  {
+    "date": "2023-09-12",
+    "zodiacId": "sweet-dried-kidney",
+    "qualityId": "rotten",
+    "text": "A brief pause does more than hours of pressing forward.",
+    "score": 0
+  },
+  {
+    "date": "2023-09-07",
+    "zodiacId": "bitter-fermented-black",
+    "qualityId": "garden",
+    "text": "You choose slowness and the quality of the output reflects it.",
+    "score": -1
+  },
+  {
+    "date": "2023-09-06",
+    "zodiacId": "bitter-dried-adzuki",
+    "qualityId": "garden",
+    "text": "You explain where you could simply be.",
+    "score": 0
+  },
+  {
+    "date": "2023-09-04",
+    "zodiacId": "umami-smoked-navy",
+    "qualityId": "garden",
+    "text": "You push before the ground is ready to hold you.",
+    "score": 0
+  },
+  {
+    "date": "2023-09-02",
+    "zodiacId": "umami-boiled-chickpea",
+    "qualityId": "rotten",
+    "text": "What you almost abandoned becomes the thing you are proudest of.",
+    "score": 1
+  },
+  {
+    "date": "2023-09-01",
+    "zodiacId": "sweet-boiled-kidney",
+    "qualityId": "garden",
+    "text": "Something outside your control resolves in your favour.",
+    "score": 0
+  },
+  {
+    "date": "2023-08-31",
+    "zodiacId": "bitter-roasted-fava",
+    "qualityId": "garden",
+    "text": "The signal was there; you had learned to read it.",
+    "score": 1
+  },
+  {
+    "date": "2023-08-30",
+    "zodiacId": "sweet-dried-butter",
+    "qualityId": "stale",
+    "text": "The window is brief — you see it and move.",
+    "score": 0
+  },
+  {
+    "date": "2023-08-27",
+    "zodiacId": "sweet-fermented-edamame",
+    "qualityId": "garden",
+    "text": "Depth calls to depth — what you find is genuinely yours.",
+    "score": -1
+  },
+  {
+    "date": "2023-08-25",
+    "zodiacId": "spicy-fried-adzuki",
+    "qualityId": "heirloom",
+    "text": "You offer comfort where honesty would have served better.",
+    "score": 0
+  },
+  {
+    "date": "2023-08-22",
+    "zodiacId": "spicy-boiled-cannellini",
+    "qualityId": "stale",
+    "text": "Something long delayed finally moves.",
+    "score": 1
+  },
+  {
+    "date": "2023-08-21",
+    "zodiacId": "spicy-fried-fava",
+    "qualityId": "stale",
+    "text": "You do less and it lands harder.",
+    "score": 1
+  },
+  {
+    "date": "2023-08-19",
+    "zodiacId": "sweet-fermented-navy",
+    "qualityId": "rotten",
+    "text": "What you have been building quietly now has its own foundation.",
+    "score": -1
+  },
+  {
+    "date": "2023-08-18",
+    "zodiacId": "umami-dried-butter",
+    "qualityId": "garden",
+    "text": "You name what others have been circling — it clarifies.",
+    "score": 0
+  },
+  {
+    "date": "2023-08-17",
+    "zodiacId": "sweet-roasted-fava",
+    "qualityId": "garden",
+    "text": "You meet the difficult thing with more than you expected to have.",
+    "score": 1
+  },
+  {
+    "date": "2023-08-15",
+    "zodiacId": "sour-smoked-pinto",
+    "qualityId": "market",
+    "text": "One honest word does what days of positioning could not.",
+    "score": 0
+  },
+  {
+    "date": "2023-08-14",
+    "zodiacId": "bitter-fermented-butter",
+    "qualityId": "market",
+    "text": "You push before the ground is ready to hold you.",
+    "score": 0
+  },
+  {
+    "date": "2023-08-13",
+    "zodiacId": "sour-fermented-navy",
+    "qualityId": "garden",
+    "text": "The edge you have kept sharp finds its use.",
+    "score": 0
+  },
+  {
+    "date": "2023-08-12",
+    "zodiacId": "sour-fried-edamame",
+    "qualityId": "market",
+    "text": "What the day demands is less than what you planned to give.",
+    "score": 0
+  },
+  {
+    "date": "2023-08-11",
+    "zodiacId": "bitter-fermented-green",
+    "qualityId": "market",
+    "text": "An obstacle becomes a detail once you stop centering it.",
+    "score": -1
+  },
+  {
+    "date": "2023-08-10",
+    "zodiacId": "spicy-smoked-kidney",
+    "qualityId": "stale",
+    "text": "The softer path is not the weaker one.",
+    "score": -1
+  },
+  {
+    "date": "2023-08-07",
+    "zodiacId": "sweet-boiled-kidney",
+    "qualityId": "garden",
+    "text": "The urgency fades before it ever needed to arrive.",
+    "score": 1
+  },
+  {
+    "date": "2023-08-06",
+    "zodiacId": "bitter-boiled-cannellini",
+    "qualityId": "garden",
+    "text": "Something outside your control resolves in your favour.",
+    "score": 1
+  },
+  {
+    "date": "2023-08-05",
+    "zodiacId": "bitter-roasted-chickpea",
+    "qualityId": "rotten",
+    "text": "The work speaks; you do not need to.",
+    "score": 1
+  },
+  {
+    "date": "2023-08-04",
+    "zodiacId": "spicy-smoked-chickpea",
+    "qualityId": "market",
+    "text": "Something long delayed finally moves.",
+    "score": 1
+  },
+  {
+    "date": "2023-08-03",
+    "zodiacId": "bitter-fried-fava",
+    "qualityId": "market",
+    "text": "You give the thing away and find you still have it.",
+    "score": 1
+  },
+  {
+    "date": "2023-08-02",
+    "zodiacId": "sour-fermented-pinto",
+    "qualityId": "market",
+    "text": "Something is completing — let it finish.",
+    "score": 0
+  },
+  {
+    "date": "2023-08-01",
+    "zodiacId": "sweet-fried-adzuki",
+    "qualityId": "market",
+    "text": "The care you take now is the margin you will need later.",
+    "score": 0
+  },
+  {
+    "date": "2023-07-30",
+    "zodiacId": "umami-fried-black",
+    "qualityId": "stale",
+    "text": "Something you named months ago is finally listening.",
+    "score": 1
+  },
+  {
+    "date": "2023-07-29",
+    "zodiacId": "spicy-roasted-kidney",
+    "qualityId": "heirloom",
+    "text": "The friction you meet is shaping something worth keeping.",
+    "score": 1
+  },
+  {
+    "date": "2023-07-27",
+    "zodiacId": "sour-fermented-adzuki",
+    "qualityId": "rotten",
+    "text": "A small correction now prevents a larger one later.",
+    "score": 0
+  },
+  {
+    "date": "2023-07-26",
+    "zodiacId": "sweet-fermented-black",
+    "qualityId": "stale",
+    "text": "What was missing was simpler than you thought.",
+    "score": 0
+  },
+  {
+    "date": "2023-07-25",
+    "zodiacId": "sour-boiled-kidney",
+    "qualityId": "stale",
+    "text": "The thing you called a problem was mostly just unfamiliar.",
+    "score": 0
+  },
+  {
+    "date": "2023-07-24",
+    "zodiacId": "umami-roasted-fava",
+    "qualityId": "rotten",
+    "text": "The risk was measured and the landing is solid.",
+    "score": -1
+  },
+  {
+    "date": "2023-07-23",
+    "zodiacId": "bitter-dried-green",
+    "qualityId": "garden",
+    "text": "Something old and patient rises to the surface — receive it.",
+    "score": 1
+  },
+  {
+    "date": "2023-07-22",
+    "zodiacId": "spicy-boiled-cannellini",
+    "qualityId": "heirloom",
+    "text": "What you built for yourself turns out to work for others too.",
+    "score": 0
+  },
+  {
+    "date": "2023-07-21",
+    "zodiacId": "sweet-roasted-fava",
+    "qualityId": "heirloom",
+    "text": "The resistance you meet is teaching you the shape of the door.",
+    "score": 0
+  },
+  {
+    "date": "2023-07-19",
+    "zodiacId": "sour-roasted-butter",
+    "qualityId": "market",
+    "text": "What felt like retreat was the necessary arc.",
+    "score": 0
+  },
+  {
+    "date": "2023-07-18",
+    "zodiacId": "spicy-smoked-pinto",
+    "qualityId": "market",
+    "text": "You extend yourself further than feels safe — and it holds.",
+    "score": 1
+  },
+  {
+    "date": "2023-07-15",
+    "zodiacId": "sweet-dried-navy",
+    "qualityId": "stale",
+    "text": "The softer path is not the weaker one.",
+    "score": 0
+  },
+  {
+    "date": "2023-07-14",
+    "zodiacId": "bitter-roasted-fava",
+    "qualityId": "market",
+    "text": "The slow transformation is already well underway.",
+    "score": 0
+  },
+  {
+    "date": "2023-07-12",
+    "zodiacId": "sour-smoked-adzuki",
+    "qualityId": "garden",
+    "text": "Precision lands — this is what the long preparation was for.",
+    "score": 1
+  },
+  {
+    "date": "2023-07-11",
+    "zodiacId": "sweet-boiled-green",
+    "qualityId": "rotten",
+    "text": "A brief pause does more than hours of pressing forward.",
+    "score": 0
+  },
+  {
+    "date": "2023-07-10",
+    "zodiacId": "umami-fermented-cannellini",
+    "qualityId": "heirloom",
+    "text": "What draws you forward is not what it appears to be.",
+    "score": 1
+  },
+  {
+    "date": "2023-07-09",
+    "zodiacId": "bitter-roasted-mung",
+    "qualityId": "rotten",
+    "text": "Precision lands — this is what the long preparation was for.",
+    "score": 0
+  },
+  {
+    "date": "2023-07-08",
+    "zodiacId": "sour-dried-chickpea",
+    "qualityId": "garden",
+    "text": "The thing you called a problem was mostly just unfamiliar.",
+    "score": 1
+  },
+  {
+    "date": "2023-07-07",
+    "zodiacId": "sour-roasted-navy",
+    "qualityId": "market",
+    "text": "You contribute what the moment needed, not what you had planned.",
+    "score": 0
+  },
+  {
+    "date": "2023-07-06",
+    "zodiacId": "spicy-smoked-navy",
+    "qualityId": "stale",
+    "text": "The version of yourself you have been building shows up clearly.",
+    "score": 1
+  },
+  {
+    "date": "2023-07-04",
+    "zodiacId": "sour-fermented-mung",
+    "qualityId": "market",
+    "text": "The right comparison arrives and it shifts everything.",
+    "score": 0
+  },
+  {
+    "date": "2023-07-03",
+    "zodiacId": "sweet-boiled-kidney",
+    "qualityId": "market",
+    "text": "What you have been building quietly now has its own foundation.",
+    "score": 0
+  },
+  {
+    "date": "2023-07-01",
+    "zodiacId": "sweet-roasted-kidney",
+    "qualityId": "market",
+    "text": "What you almost abandoned becomes the thing you are proudest of.",
+    "score": 1
+  },
+  {
+    "date": "2023-06-30",
+    "zodiacId": "bitter-smoked-mung",
+    "qualityId": "garden",
+    "text": "Your attention narrows to exactly what is needed.",
+    "score": 0
+  },
+  {
+    "date": "2023-06-29",
+    "zodiacId": "bitter-dried-adzuki",
+    "qualityId": "market",
+    "text": "The clarity arrives after the noise settles — wait for it.",
+    "score": 0
+  },
+  {
+    "date": "2023-06-28",
+    "zodiacId": "sweet-roasted-cannellini",
+    "qualityId": "market",
+    "text": "The edge you have kept sharp finds its use.",
+    "score": 1
+  },
+  {
+    "date": "2023-06-26",
+    "zodiacId": "spicy-roasted-navy",
+    "qualityId": "stale",
+    "text": "What you carry forward is lighter than what you set down.",
+    "score": 0
+  },
+  {
+    "date": "2023-06-25",
+    "zodiacId": "spicy-fried-chickpea",
+    "qualityId": "stale",
+    "text": "You find the right scale and everything becomes manageable.",
+    "score": 1
+  },
+  {
+    "date": "2023-06-24",
+    "zodiacId": "sweet-fried-adzuki",
+    "qualityId": "stale",
+    "text": "Something settles that you had stopped expecting to settle.",
+    "score": 0
+  },
+  {
+    "date": "2023-06-23",
+    "zodiacId": "umami-fried-green",
+    "qualityId": "garden",
+    "text": "Small adjustments compound — this one counts.",
+    "score": 1
+  },
+  {
+    "date": "2023-06-21",
+    "zodiacId": "sweet-dried-chickpea",
+    "qualityId": "garden",
+    "text": "The conversation that needed to happen finally does.",
+    "score": 0
+  },
+  {
+    "date": "2023-06-20",
+    "zodiacId": "bitter-fried-black",
+    "qualityId": "market",
+    "text": "Pull the edge back; this moment needs warmth more than precision.",
+    "score": 0
+  },
+  {
+    "date": "2023-06-18",
+    "zodiacId": "umami-fermented-navy",
+    "qualityId": "heirloom",
+    "text": "Momentum returns where it had been draining away.",
+    "score": 1
+  },
+  {
+    "date": "2023-06-17",
+    "zodiacId": "spicy-smoked-edamame",
+    "qualityId": "stale",
+    "text": "Something outside your control resolves in your favour.",
+    "score": -1
+  },
+  {
+    "date": "2023-06-16",
+    "zodiacId": "bitter-boiled-cannellini",
+    "qualityId": "market",
+    "text": "Stillness is not absence — it is a different kind of work.",
+    "score": 0
+  },
+  {
+    "date": "2023-06-15",
+    "zodiacId": "bitter-dried-navy",
+    "qualityId": "market",
+    "text": "A small correction now prevents a larger one later.",
+    "score": 0
+  },
+  {
+    "date": "2023-06-14",
+    "zodiacId": "sweet-roasted-black",
+    "qualityId": "garden",
+    "text": "Something settles that you had stopped expecting to settle.",
+    "score": 0
+  },
+  {
+    "date": "2023-06-12",
+    "zodiacId": "sour-roasted-mung",
+    "qualityId": "garden",
+    "text": "The urgency fades before it ever needed to arrive.",
+    "score": -1
+  },
+  {
+    "date": "2023-06-11",
+    "zodiacId": "spicy-fermented-butter",
+    "qualityId": "market",
+    "text": "The detail you almost skipped turns out to be the one that matters.",
+    "score": -1
+  },
+  {
+    "date": "2023-06-10",
+    "zodiacId": "spicy-dried-navy",
+    "qualityId": "rotten",
+    "text": "You choose slowness and the quality of the output reflects it.",
+    "score": 0
+  },
+  {
+    "date": "2023-06-08",
+    "zodiacId": "sweet-boiled-butter",
+    "qualityId": "rotten",
+    "text": "Your instinct outpaces your explanation — trust it.",
+    "score": 1
+  },
+  {
+    "date": "2023-06-07",
+    "zodiacId": "bitter-dried-cannellini",
+    "qualityId": "stale",
+    "text": "What felt like retreat was the necessary arc.",
+    "score": 1
+  },
+  {
+    "date": "2023-06-06",
+    "zodiacId": "sweet-fermented-chickpea",
+    "qualityId": "garden",
+    "text": "Pull the edge back; this moment needs warmth more than precision.",
+    "score": 1
+  },
+  {
+    "date": "2023-06-05",
+    "zodiacId": "bitter-roasted-navy",
+    "qualityId": "market",
+    "text": "What was missing was simpler than you thought.",
+    "score": 0
+  },
+  {
+    "date": "2023-06-04",
+    "zodiacId": "umami-roasted-chickpea",
+    "qualityId": "market",
+    "text": "The detail you almost skipped turns out to be the one that matters.",
+    "score": 1
+  },
+  {
+    "date": "2023-06-03",
+    "zodiacId": "spicy-fried-butter",
+    "qualityId": "stale",
+    "text": "Something is completing — let it finish.",
+    "score": -1
+  },
+  {
+    "date": "2023-06-02",
+    "zodiacId": "bitter-smoked-navy",
+    "qualityId": "market",
+    "text": "What you almost abandoned becomes the thing you are proudest of.",
+    "score": 1
+  },
+  {
+    "date": "2023-06-01",
+    "zodiacId": "sweet-fermented-mung",
+    "qualityId": "garden",
+    "text": "The patience was worth it; the thing comes together now.",
+    "score": 0
+  },
+  {
+    "date": "2023-05-30",
+    "zodiacId": "sweet-smoked-navy",
+    "qualityId": "stale",
+    "text": "The softer path is not the weaker one.",
+    "score": 0
+  },
+  {
+    "date": "2023-05-27",
+    "zodiacId": "umami-fermented-pinto",
+    "qualityId": "garden",
+    "text": "The difficulty was real, and you were equal to it.",
+    "score": 1
+  },
+  {
+    "date": "2023-05-24",
+    "zodiacId": "umami-roasted-green",
+    "qualityId": "market",
+    "text": "You give the thing away and find you still have it.",
+    "score": 1
+  },
+  {
+    "date": "2023-05-23",
+    "zodiacId": "sweet-dried-black",
+    "qualityId": "heirloom",
+    "text": "Something outside your control resolves in your favour.",
+    "score": 0
+  },
+  {
+    "date": "2023-05-22",
+    "zodiacId": "sour-roasted-kidney",
+    "qualityId": "rotten",
+    "text": "You give the thing away and find you still have it.",
+    "score": 0
+  },
+  {
+    "date": "2023-05-21",
+    "zodiacId": "spicy-fried-adzuki",
+    "qualityId": "heirloom",
+    "text": "The softer path is not the weaker one.",
+    "score": 0
+  },
+  {
+    "date": "2023-05-20",
+    "zodiacId": "sour-fermented-adzuki",
+    "qualityId": "market",
+    "text": "The work speaks; you do not need to.",
+    "score": 0
+  },
+  {
+    "date": "2023-05-19",
+    "zodiacId": "spicy-boiled-black",
+    "qualityId": "garden",
+    "text": "Something settles that you had stopped expecting to settle.",
+    "score": 1
+  },
+  {
+    "date": "2023-05-18",
+    "zodiacId": "umami-fermented-edamame",
+    "qualityId": "market",
+    "text": "The effort was proportionate and the result reflects that.",
+    "score": 0
+  },
+  {
+    "date": "2023-05-16",
+    "zodiacId": "sour-roasted-fava",
+    "qualityId": "garden",
+    "text": "The long arc bends toward something you can now see.",
+    "score": -1
+  },
+  {
+    "date": "2023-05-15",
+    "zodiacId": "sour-boiled-black",
+    "qualityId": "rotten",
+    "text": "Your instinct outpaces your explanation — trust it.",
+    "score": 0
+  },
+  {
+    "date": "2023-05-13",
+    "zodiacId": "bitter-smoked-adzuki",
+    "qualityId": "heirloom",
+    "text": "The difficulty you face is not a sign you chose wrong.",
+    "score": 0
+  },
+  {
+    "date": "2023-05-12",
+    "zodiacId": "umami-fried-fava",
+    "qualityId": "garden",
+    "text": "The slow transformation is already well underway.",
+    "score": 0
+  },
+  {
+    "date": "2023-05-11",
+    "zodiacId": "spicy-roasted-chickpea",
+    "qualityId": "market",
+    "text": "You find the right scale and everything becomes manageable.",
+    "score": 1
+  },
+  {
+    "date": "2023-05-09",
+    "zodiacId": "sweet-boiled-chickpea",
+    "qualityId": "garden",
+    "text": "The conversation that needed to happen finally does.",
+    "score": 1
+  },
+  {
+    "date": "2023-05-07",
+    "zodiacId": "sweet-dried-pinto",
+    "qualityId": "market",
+    "text": "You mistake endurance for wisdom — they are not the same.",
+    "score": -1
+  },
+  {
+    "date": "2023-05-06",
+    "zodiacId": "umami-fermented-kidney",
+    "qualityId": "stale",
+    "text": "You draw a line and discover it was the right one.",
+    "score": 0
+  },
+  {
+    "date": "2023-05-05",
+    "zodiacId": "spicy-dried-mung",
+    "qualityId": "garden",
+    "text": "Something you have resisted turns out to be the better route.",
+    "score": 0
+  },
+  {
+    "date": "2023-05-04",
+    "zodiacId": "sour-smoked-kidney",
+    "qualityId": "market",
+    "text": "The discomfort is pointing at something useful.",
+    "score": 1
+  },
+  {
+    "date": "2023-05-03",
+    "zodiacId": "sour-roasted-black",
+    "qualityId": "market",
+    "text": "The question you have been avoiding is the useful one.",
+    "score": -1
+  },
+  {
+    "date": "2023-05-01",
+    "zodiacId": "spicy-fried-fava",
+    "qualityId": "market",
+    "text": "Momentum returns where it had been draining away.",
+    "score": 0
+  },
+  {
+    "date": "2023-04-30",
+    "zodiacId": "sour-smoked-kidney",
+    "qualityId": "stale",
+    "text": "Stillness is not absence — it is a different kind of work.",
+    "score": -1
+  },
+  {
+    "date": "2023-04-29",
+    "zodiacId": "bitter-fermented-cannellini",
+    "qualityId": "garden",
+    "text": "An unlikely source carries exactly the clarity you need.",
+    "score": 1
+  },
+  {
+    "date": "2023-04-28",
+    "zodiacId": "umami-smoked-chickpea",
+    "qualityId": "stale",
+    "text": "The slow transformation is already well underway.",
+    "score": 0
+  },
+  {
+    "date": "2023-04-27",
+    "zodiacId": "bitter-fried-edamame",
+    "qualityId": "garden",
+    "text": "A door closes cleanly — walk through without looking back.",
+    "score": -1
+  },
+  {
+    "date": "2023-04-25",
+    "zodiacId": "bitter-dried-mung",
+    "qualityId": "stale",
+    "text": "What looked like an ending was actually a better starting point.",
+    "score": 0
+  },
+  {
+    "date": "2023-04-24",
+    "zodiacId": "sour-dried-pinto",
+    "qualityId": "garden",
+    "text": "The edge you have kept sharp finds its use.",
+    "score": 1
+  },
+  {
+    "date": "2023-04-23",
+    "zodiacId": "sour-dried-cannellini",
+    "qualityId": "market",
+    "text": "What you carry forward is lighter than what you set down.",
+    "score": 0
+  },
+  {
+    "date": "2023-04-20",
+    "zodiacId": "spicy-roasted-green",
+    "qualityId": "rotten",
+    "text": "What was missing was simpler than you thought.",
+    "score": 0
+  },
+  {
+    "date": "2023-04-19",
+    "zodiacId": "umami-boiled-mung",
+    "qualityId": "garden",
+    "text": "The pattern you have been tracking finally breaks open.",
+    "score": 1
+  },
+  {
+    "date": "2023-04-18",
+    "zodiacId": "umami-fried-butter",
+    "qualityId": "garden",
+    "text": "You find the right scale and everything becomes manageable.",
+    "score": 1
+  },
+  {
+    "date": "2023-04-17",
+    "zodiacId": "spicy-fermented-mung",
+    "qualityId": "stale",
+    "text": "Depth calls to depth — what you find is genuinely yours.",
+    "score": 0
+  },
+  {
+    "date": "2023-04-16",
+    "zodiacId": "spicy-roasted-green",
+    "qualityId": "stale",
+    "text": "The patience was worth it; the thing comes together now.",
+    "score": -1
+  },
+  {
+    "date": "2023-04-15",
+    "zodiacId": "bitter-dried-cannellini",
+    "qualityId": "market",
+    "text": "Stillness is not absence — it is a different kind of work.",
+    "score": 1
+  },
+  {
+    "date": "2023-04-12",
+    "zodiacId": "sour-boiled-chickpea",
+    "qualityId": "stale",
+    "text": "What you chose to protect turns out to have been worth it.",
+    "score": 0
+  },
+  {
+    "date": "2023-04-08",
+    "zodiacId": "sour-roasted-chickpea",
+    "qualityId": "stale",
+    "text": "The friction you meet is shaping something worth keeping.",
+    "score": 0
+  },
+  {
+    "date": "2023-04-06",
+    "zodiacId": "bitter-roasted-fava",
+    "qualityId": "heirloom",
+    "text": "You reach for more before the first is fully yours.",
+    "score": 0
+  },
+  {
+    "date": "2023-04-05",
+    "zodiacId": "umami-dried-adzuki",
+    "qualityId": "market",
+    "text": "An obstacle becomes a detail once you stop centering it.",
+    "score": -1
+  },
+  {
+    "date": "2023-04-04",
+    "zodiacId": "bitter-smoked-green",
+    "qualityId": "stale",
+    "text": "What you built for yourself turns out to work for others too.",
+    "score": 0
+  },
+  {
+    "date": "2023-04-02",
+    "zodiacId": "bitter-boiled-cannellini",
+    "qualityId": "market",
+    "text": "The friction you meet is shaping something worth keeping.",
+    "score": 1
+  },
+  {
+    "date": "2023-03-31",
+    "zodiacId": "umami-boiled-adzuki",
+    "qualityId": "rotten",
+    "text": "Something you have resisted turns out to be the better route.",
+    "score": 0
+  },
+  {
+    "date": "2023-03-30",
+    "zodiacId": "umami-roasted-mung",
+    "qualityId": "garden",
+    "text": "The discomfort is pointing at something useful.",
+    "score": 0
+  },
+  {
+    "date": "2023-03-27",
+    "zodiacId": "umami-dried-fava",
+    "qualityId": "garden",
+    "text": "What you gave comes back in a form you did not anticipate.",
+    "score": 0
+  },
+  {
+    "date": "2023-03-26",
+    "zodiacId": "sour-roasted-black",
+    "qualityId": "stale",
+    "text": "What you bring is exactly proportionate to what is needed.",
+    "score": 1
+  },
+  {
+    "date": "2023-03-21",
+    "zodiacId": "umami-dried-navy",
+    "qualityId": "heirloom",
+    "text": "You hold your ground without needing to make noise about it.",
+    "score": 0
+  },
+  {
+    "date": "2023-03-19",
+    "zodiacId": "bitter-fried-edamame",
+    "qualityId": "garden",
+    "text": "The risk was measured and the landing is solid.",
+    "score": 0
+  },
+  {
+    "date": "2023-03-17",
+    "zodiacId": "bitter-boiled-navy",
+    "qualityId": "market",
+    "text": "The thing you called a problem was mostly just unfamiliar.",
+    "score": 1
+  },
+  {
+    "date": "2023-03-16",
+    "zodiacId": "bitter-fried-green",
+    "qualityId": "rotten",
+    "text": "You hold your ground without needing to make noise about it.",
+    "score": 1
+  },
+  {
+    "date": "2023-03-15",
+    "zodiacId": "umami-fermented-adzuki",
+    "qualityId": "rotten",
+    "text": "Something you said months ago proves itself true today.",
+    "score": -1
+  },
+  {
+    "date": "2023-03-14",
+    "zodiacId": "bitter-smoked-pinto",
+    "qualityId": "garden",
+    "text": "An obstacle becomes a detail once you stop centering it.",
+    "score": 1
+  },
+  {
+    "date": "2023-03-09",
+    "zodiacId": "umami-boiled-edamame",
+    "qualityId": "garden",
+    "text": "You offer comfort where honesty would have served better.",
+    "score": 1
+  },
+  {
+    "date": "2023-03-07",
+    "zodiacId": "umami-smoked-edamame",
+    "qualityId": "stale",
+    "text": "The conversation that needed to happen finally does.",
+    "score": 1
+  },
+  {
+    "date": "2023-03-05",
+    "zodiacId": "spicy-boiled-adzuki",
+    "qualityId": "garden",
+    "text": "An unlikely source carries exactly the clarity you need.",
+    "score": 1
+  },
+  {
+    "date": "2023-03-04",
+    "zodiacId": "bitter-dried-black",
+    "qualityId": "garden",
+    "text": "Something you have resisted turns out to be the better route.",
+    "score": 1
+  },
+  {
+    "date": "2023-03-03",
+    "zodiacId": "bitter-fermented-green",
+    "qualityId": "garden",
+    "text": "What you almost abandoned becomes the thing you are proudest of.",
+    "score": 1
+  },
+  {
+    "date": "2023-03-02",
+    "zodiacId": "spicy-fermented-kidney",
+    "qualityId": "market",
+    "text": "Something long delayed finally moves.",
+    "score": 1
+  },
+  {
+    "date": "2023-02-28",
+    "zodiacId": "bitter-fermented-mung",
+    "qualityId": "heirloom",
+    "text": "The window is brief — you see it and move.",
+    "score": 1
+  },
+  {
+    "date": "2023-02-27",
+    "zodiacId": "sweet-boiled-pinto",
+    "qualityId": "rotten",
+    "text": "A door closes cleanly — walk through without looking back.",
+    "score": 0
+  },
+  {
+    "date": "2023-02-26",
+    "zodiacId": "bitter-fried-cannellini",
+    "qualityId": "garden",
+    "text": "The pattern you have been tracking finally breaks open.",
+    "score": 0
+  },
+  {
+    "date": "2023-02-25",
+    "zodiacId": "bitter-fermented-mung",
+    "qualityId": "garden",
+    "text": "You find the right scale and everything becomes manageable.",
+    "score": 0
+  },
+  {
+    "date": "2023-02-24",
+    "zodiacId": "sweet-roasted-navy",
+    "qualityId": "stale",
+    "text": "The difficulty you face is not a sign you chose wrong.",
+    "score": 1
+  },
+  {
+    "date": "2023-02-21",
+    "zodiacId": "sweet-dried-butter",
+    "qualityId": "heirloom",
+    "text": "The clarity arrives after the noise settles — wait for it.",
+    "score": 1
+  },
+  {
+    "date": "2023-02-20",
+    "zodiacId": "bitter-smoked-black",
+    "qualityId": "market",
+    "text": "You do less and it lands harder.",
+    "score": 1
+  },
+  {
+    "date": "2023-02-19",
+    "zodiacId": "sweet-fried-kidney",
+    "qualityId": "market",
+    "text": "What comes through you is not about you — pass it forward.",
+    "score": 1
+  },
+  {
+    "date": "2023-02-18",
+    "zodiacId": "spicy-roasted-edamame",
+    "qualityId": "heirloom",
+    "text": "The version of yourself you have been building shows up clearly.",
+    "score": 0
+  },
+  {
+    "date": "2023-02-17",
+    "zodiacId": "sour-dried-fava",
+    "qualityId": "stale",
+    "text": "You draw a line and discover it was the right one.",
+    "score": 0
+  },
+  {
+    "date": "2023-02-16",
+    "zodiacId": "sour-fermented-kidney",
+    "qualityId": "market",
+    "text": "What you have been building quietly now has its own foundation.",
+    "score": 1
+  },
+  {
+    "date": "2023-02-15",
+    "zodiacId": "spicy-roasted-navy",
+    "qualityId": "garden",
+    "text": "What you chose to protect turns out to have been worth it.",
+    "score": 0
+  },
+  {
+    "date": "2023-02-14",
+    "zodiacId": "bitter-roasted-pinto",
+    "qualityId": "stale",
+    "text": "Something outside your control resolves in your favour.",
+    "score": 0
+  },
+  {
+    "date": "2023-02-11",
+    "zodiacId": "spicy-fermented-navy",
+    "qualityId": "heirloom",
+    "text": "The edge you have kept sharp finds its use.",
+    "score": 1
+  },
+  {
+    "date": "2023-02-09",
+    "zodiacId": "umami-smoked-kidney",
+    "qualityId": "rotten",
+    "text": "You do less and it lands harder.",
+    "score": 1
+  },
+  {
+    "date": "2023-02-08",
+    "zodiacId": "sour-boiled-cannellini",
+    "qualityId": "heirloom",
+    "text": "The small mercy you offer lands somewhere it was needed.",
+    "score": 1
+  },
+  {
+    "date": "2023-02-07",
+    "zodiacId": "umami-smoked-black",
+    "qualityId": "market",
+    "text": "The shape of the problem clarifies — now you can work with it.",
+    "score": -1
+  },
+  {
+    "date": "2023-02-06",
+    "zodiacId": "sweet-smoked-black",
+    "qualityId": "market",
+    "text": "The long arc bends toward something you can now see.",
+    "score": 0
+  },
+  {
+    "date": "2023-02-05",
+    "zodiacId": "spicy-fried-cannellini",
+    "qualityId": "stale",
+    "text": "You choose slowness and the quality of the output reflects it.",
+    "score": 0
+  },
+  {
+    "date": "2023-02-04",
+    "zodiacId": "sour-boiled-green",
+    "qualityId": "market",
+    "text": "The urgency fades before it ever needed to arrive.",
+    "score": 1
+  },
+  {
+    "date": "2023-02-03",
+    "zodiacId": "spicy-fried-kidney",
+    "qualityId": "garden",
+    "text": "What seemed like luck was the residue of your consistency.",
+    "score": -1
+  },
+  {
+    "date": "2023-02-02",
+    "zodiacId": "sweet-dried-mung",
+    "qualityId": "garden",
+    "text": "You draw a line and discover it was the right one.",
+    "score": 1
+  },
+  {
+    "date": "2023-02-01",
+    "zodiacId": "bitter-fermented-black",
+    "qualityId": "rotten",
+    "text": "Momentum returns where it had been draining away.",
+    "score": 1
+  },
+  {
+    "date": "2023-01-31",
+    "zodiacId": "bitter-fried-adzuki",
+    "qualityId": "garden",
+    "text": "You name what others have been circling — it clarifies.",
+    "score": -1
+  },
+  {
+    "date": "2023-01-30",
+    "zodiacId": "spicy-fried-kidney",
+    "qualityId": "garden",
+    "text": "A door closes cleanly — walk through without looking back.",
+    "score": 0
+  },
+  {
+    "date": "2023-01-29",
+    "zodiacId": "bitter-dried-navy",
+    "qualityId": "rotten",
+    "text": "What felt like retreat was the necessary arc.",
+    "score": 0
+  },
+  {
+    "date": "2023-01-28",
+    "zodiacId": "bitter-fried-kidney",
+    "qualityId": "garden",
+    "text": "Choose the good version — there is no virtue in the lesser one.",
+    "score": 1
+  },
+  {
+    "date": "2023-01-27",
+    "zodiacId": "sweet-roasted-black",
+    "qualityId": "stale",
+    "text": "Something complicated simplifies once you stop forcing the shape.",
+    "score": 0
+  },
+  {
+    "date": "2023-01-26",
+    "zodiacId": "umami-dried-kidney",
+    "qualityId": "market",
+    "text": "A door closes cleanly — walk through without looking back.",
+    "score": 0
+  },
+  {
+    "date": "2023-01-25",
+    "zodiacId": "sweet-roasted-chickpea",
+    "qualityId": "garden",
+    "text": "You explain where you could simply be.",
+    "score": 0
+  },
+  {
+    "date": "2023-01-23",
+    "zodiacId": "sour-dried-chickpea",
+    "qualityId": "heirloom",
+    "text": "The question you have been avoiding is the useful one.",
+    "score": 1
+  },
+  {
+    "date": "2023-01-22",
+    "zodiacId": "bitter-fried-mung",
+    "qualityId": "market",
+    "text": "Something complicated simplifies once you stop forcing the shape.",
+    "score": 0
+  },
+  {
+    "date": "2023-01-21",
+    "zodiacId": "umami-roasted-cannellini",
+    "qualityId": "garden",
+    "text": "Something you let go of stops taking up space.",
+    "score": 1
+  },
+  {
+    "date": "2023-01-20",
+    "zodiacId": "sour-dried-navy",
+    "qualityId": "market",
+    "text": "What the day demands is less than what you planned to give.",
+    "score": 0
+  },
+  {
+    "date": "2023-01-19",
+    "zodiacId": "umami-roasted-black",
+    "qualityId": "heirloom",
+    "text": "The slow transformation is already well underway.",
+    "score": 0
+  },
+  {
+    "date": "2023-01-18",
+    "zodiacId": "sweet-dried-green",
+    "qualityId": "market",
+    "text": "The right comparison arrives and it shifts everything.",
+    "score": 1
+  },
+  {
+    "date": "2023-01-16",
+    "zodiacId": "spicy-boiled-green",
+    "qualityId": "rotten",
+    "text": "A door closes cleanly — walk through without looking back.",
+    "score": 0
+  },
+  {
+    "date": "2023-01-14",
+    "zodiacId": "spicy-boiled-edamame",
+    "qualityId": "heirloom",
+    "text": "What seemed like luck was the residue of your consistency.",
+    "score": 1
+  },
+  {
+    "date": "2023-01-12",
+    "zodiacId": "sour-dried-navy",
+    "qualityId": "stale",
+    "text": "Something old and patient rises to the surface — receive it.",
+    "score": 0
+  },
+  {
+    "date": "2023-01-08",
+    "zodiacId": "spicy-fermented-navy",
+    "qualityId": "market",
+    "text": "The shape of the problem clarifies — now you can work with it.",
+    "score": 1
+  },
+  {
+    "date": "2023-01-07",
+    "zodiacId": "sweet-boiled-fava",
+    "qualityId": "market",
+    "text": "Something long delayed finally moves.",
+    "score": 0
+  },
+  {
+    "date": "2023-01-06",
+    "zodiacId": "sweet-fried-mung",
+    "qualityId": "rotten",
+    "text": "The work you have been doing quietly is about to be seen.",
+    "score": 0
+  },
+  {
+    "date": "2023-01-05",
+    "zodiacId": "sweet-boiled-edamame",
+    "qualityId": "garden",
+    "text": "The friction you meet is shaping something worth keeping.",
+    "score": 0
+  },
+  {
+    "date": "2023-01-04",
+    "zodiacId": "bitter-dried-black",
+    "qualityId": "stale",
+    "text": "The difficulty you face is not a sign you chose wrong.",
+    "score": 0
+  },
+  {
+    "date": "2023-01-03",
+    "zodiacId": "sweet-dried-green",
+    "qualityId": "garden",
+    "text": "Something settles that you had stopped expecting to settle.",
+    "score": -1
+  },
+  {
+    "date": "2023-01-02",
+    "zodiacId": "sweet-dried-kidney",
+    "qualityId": "heirloom",
+    "text": "The resistance you meet is teaching you the shape of the door.",
+    "score": 0
+  },
+  {
+    "date": "2022-12-29",
+    "zodiacId": "spicy-fermented-cannellini",
+    "qualityId": "heirloom",
+    "text": "You draw a line and discover it was the right one.",
+    "score": 0
+  },
+  {
+    "date": "2022-12-28",
+    "zodiacId": "sour-smoked-pinto",
+    "qualityId": "stale",
+    "text": "What you carry forward is lighter than what you set down.",
+    "score": 1
+  },
+  {
+    "date": "2022-12-27",
+    "zodiacId": "spicy-fried-kidney",
+    "qualityId": "stale",
+    "text": "An unlikely source carries exactly the clarity you need.",
+    "score": 1
+  },
+  {
+    "date": "2022-12-26",
+    "zodiacId": "umami-boiled-edamame",
+    "qualityId": "rotten",
+    "text": "The discomfort is pointing at something useful.",
+    "score": -1
+  },
+  {
+    "date": "2022-12-25",
+    "zodiacId": "umami-fermented-fava",
+    "qualityId": "garden",
+    "text": "Something outside your control resolves in your favour.",
+    "score": 0
+  },
+  {
+    "date": "2022-12-24",
+    "zodiacId": "umami-dried-cannellini",
+    "qualityId": "stale",
+    "text": "Warmth extended without calculation — this is the practice.",
+    "score": 1
+  },
+  {
+    "date": "2022-12-22",
+    "zodiacId": "umami-smoked-green",
+    "qualityId": "market",
+    "text": "Something you have been holding loosens without announcement.",
+    "score": 0
+  },
+  {
+    "date": "2022-12-21",
+    "zodiacId": "sweet-dried-black",
+    "qualityId": "garden",
+    "text": "Let what you are carrying show through — it is safe here.",
+    "score": 0
+  },
+  {
+    "date": "2022-12-18",
+    "zodiacId": "bitter-smoked-kidney",
+    "qualityId": "heirloom",
+    "text": "Momentum returns where it had been draining away.",
+    "score": 0
+  },
+  {
+    "date": "2022-12-16",
+    "zodiacId": "sour-roasted-black",
+    "qualityId": "market",
+    "text": "What was missing was simpler than you thought.",
+    "score": 1
+  },
+  {
+    "date": "2022-12-14",
+    "zodiacId": "umami-roasted-mung",
+    "qualityId": "market",
+    "text": "The version of yourself you have been building shows up clearly.",
+    "score": 1
+  },
+  {
+    "date": "2022-12-13",
+    "zodiacId": "spicy-roasted-cannellini",
+    "qualityId": "stale",
+    "text": "Depth calls to depth — what you find is genuinely yours.",
+    "score": -1
+  },
+  {
+    "date": "2022-12-12",
+    "zodiacId": "spicy-smoked-green",
+    "qualityId": "garden",
+    "text": "A long-held tension releases without fanfare — let it go.",
+    "score": 0
+  },
+  {
+    "date": "2022-12-10",
+    "zodiacId": "spicy-roasted-adzuki",
+    "qualityId": "garden",
+    "text": "An obstacle becomes a detail once you stop centering it.",
+    "score": -1
+  },
+  {
+    "date": "2022-12-09",
+    "zodiacId": "bitter-boiled-cannellini",
+    "qualityId": "market",
+    "text": "Your steadiness is the invisible infrastructure everyone relies on.",
+    "score": 0
+  },
+  {
+    "date": "2022-12-08",
+    "zodiacId": "bitter-fried-adzuki",
+    "qualityId": "garden",
+    "text": "The risk was measured and the landing is solid.",
+    "score": 0
+  },
+  {
+    "date": "2022-12-07",
+    "zodiacId": "bitter-fermented-cannellini",
+    "qualityId": "heirloom",
+    "text": "The signal was there; you had learned to read it.",
+    "score": 1
+  },
+  {
+    "date": "2022-12-05",
+    "zodiacId": "umami-boiled-butter",
+    "qualityId": "garden",
+    "text": "The risk was measured and the landing is solid.",
+    "score": -1
+  },
+  {
+    "date": "2022-12-02",
+    "zodiacId": "sweet-dried-black",
+    "qualityId": "garden",
+    "text": "A long-held tension releases without fanfare — let it go.",
+    "score": 1
+  },
+  {
+    "date": "2022-12-01",
+    "zodiacId": "bitter-smoked-cannellini",
+    "qualityId": "market",
+    "text": "What you built for yourself turns out to work for others too.",
+    "score": 0
+  },
+  {
+    "date": "2022-11-30",
+    "zodiacId": "sour-fried-kidney",
+    "qualityId": "stale",
+    "text": "The urgency fades before it ever needed to arrive.",
+    "score": -1
+  },
+  {
+    "date": "2022-11-28",
+    "zodiacId": "spicy-dried-cannellini",
+    "qualityId": "heirloom",
+    "text": "The question you have been avoiding is the useful one.",
+    "score": 0
+  },
+  {
+    "date": "2022-11-25",
+    "zodiacId": "umami-fried-cannellini",
+    "qualityId": "garden",
+    "text": "What comes through you is not about you — pass it forward.",
+    "score": 0
+  },
+  {
+    "date": "2022-11-24",
+    "zodiacId": "umami-dried-black",
+    "qualityId": "rotten",
+    "text": "What draws you forward is not what it appears to be.",
+    "score": 0
+  },
+  {
+    "date": "2022-11-21",
+    "zodiacId": "umami-dried-cannellini",
+    "qualityId": "heirloom",
+    "text": "Something settles that you had stopped expecting to settle.",
+    "score": -1
+  },
+  {
+    "date": "2022-11-20",
+    "zodiacId": "sour-dried-green",
+    "qualityId": "market",
+    "text": "The discomfort is pointing at something useful.",
+    "score": 0
+  },
+  {
+    "date": "2022-11-18",
+    "zodiacId": "bitter-boiled-kidney",
+    "qualityId": "garden",
+    "text": "You explain where you could simply be.",
+    "score": 1
+  },
+  {
+    "date": "2022-11-16",
+    "zodiacId": "sour-fermented-kidney",
+    "qualityId": "stale",
+    "text": "Choose the good version — there is no virtue in the lesser one.",
+    "score": 0
+  },
+  {
+    "date": "2022-11-15",
+    "zodiacId": "sweet-fermented-navy",
+    "qualityId": "garden",
+    "text": "You do the harder version of the thing and it shows.",
+    "score": 0
+  },
+  {
+    "date": "2022-11-13",
+    "zodiacId": "sweet-fermented-cannellini",
+    "qualityId": "market",
+    "text": "Something old and patient rises to the surface — receive it.",
+    "score": -1
+  },
+  {
+    "date": "2022-11-12",
+    "zodiacId": "bitter-fermented-kidney",
+    "qualityId": "market",
+    "text": "The thing you called a problem was mostly just unfamiliar.",
+    "score": 1
+  },
+  {
+    "date": "2022-11-11",
+    "zodiacId": "sour-boiled-chickpea",
+    "qualityId": "stale",
+    "text": "The signal was there; you had learned to read it.",
+    "score": 1
+  },
+  {
+    "date": "2022-11-10",
+    "zodiacId": "umami-boiled-edamame",
+    "qualityId": "rotten",
+    "text": "You offer comfort where honesty would have served better.",
+    "score": -1
+  },
+  {
+    "date": "2022-11-08",
+    "zodiacId": "umami-roasted-fava",
+    "qualityId": "stale",
+    "text": "Pull the edge back; this moment needs warmth more than precision.",
+    "score": 1
+  },
+  {
+    "date": "2022-11-07",
+    "zodiacId": "sweet-fermented-pinto",
+    "qualityId": "market",
+    "text": "What you built for yourself turns out to work for others too.",
+    "score": 0
+  },
+  {
+    "date": "2022-11-06",
+    "zodiacId": "bitter-boiled-chickpea",
+    "qualityId": "market",
+    "text": "What you have been building quietly now has its own foundation.",
+    "score": 0
+  },
+  {
+    "date": "2022-11-04",
+    "zodiacId": "sweet-fried-edamame",
+    "qualityId": "stale",
+    "text": "The window is brief — you see it and move.",
+    "score": 0
+  },
+  {
+    "date": "2022-11-03",
+    "zodiacId": "spicy-roasted-adzuki",
+    "qualityId": "garden",
+    "text": "Something complicated simplifies once you stop forcing the shape.",
+    "score": -1
+  },
+  {
+    "date": "2022-11-01",
+    "zodiacId": "spicy-roasted-kidney",
+    "qualityId": "market",
+    "text": "The friction you meet is shaping something worth keeping.",
+    "score": 1
+  },
+  {
+    "date": "2022-10-31",
+    "zodiacId": "spicy-smoked-adzuki",
+    "qualityId": "heirloom",
+    "text": "The work you have been doing quietly is about to be seen.",
+    "score": 0
+  },
+  {
+    "date": "2022-10-30",
+    "zodiacId": "sweet-roasted-kidney",
+    "qualityId": "market",
+    "text": "Choose the good version — there is no virtue in the lesser one.",
+    "score": 1
+  },
+  {
+    "date": "2022-10-27",
+    "zodiacId": "sour-smoked-edamame",
+    "qualityId": "garden",
+    "text": "The detail you almost skipped turns out to be the one that matters.",
+    "score": 0
+  },
+  {
+    "date": "2022-10-26",
+    "zodiacId": "umami-boiled-edamame",
+    "qualityId": "stale",
+    "text": "The effort was proportionate and the result reflects that.",
+    "score": -1
+  },
+  {
+    "date": "2022-10-25",
+    "zodiacId": "umami-boiled-green",
+    "qualityId": "market",
+    "text": "A quiet win; no audience required.",
+    "score": -1
+  },
+  {
+    "date": "2022-10-24",
+    "zodiacId": "umami-boiled-pinto",
+    "qualityId": "stale",
+    "text": "An unlikely source carries exactly the clarity you need.",
+    "score": 0
+  },
+  {
+    "date": "2022-10-23",
+    "zodiacId": "umami-boiled-butter",
+    "qualityId": "garden",
+    "text": "The thread you follow leads somewhere real.",
+    "score": 1
+  },
+  {
+    "date": "2022-10-21",
+    "zodiacId": "bitter-boiled-black",
+    "qualityId": "market",
+    "text": "The long arc bends toward something you can now see.",
+    "score": 0
+  },
+  {
+    "date": "2022-10-20",
+    "zodiacId": "sour-fermented-butter",
+    "qualityId": "garden",
+    "text": "Your steadiness is the invisible infrastructure everyone relies on.",
+    "score": 0
+  },
+  {
+    "date": "2022-10-19",
+    "zodiacId": "bitter-fermented-edamame",
+    "qualityId": "market",
+    "text": "What the day demands is less than what you planned to give.",
+    "score": 0
+  },
+  {
+    "date": "2022-10-17",
+    "zodiacId": "sweet-fried-black",
+    "qualityId": "market",
+    "text": "Let what you are carrying show through — it is safe here.",
+    "score": -1
+  },
+  {
+    "date": "2022-10-16",
+    "zodiacId": "bitter-fermented-cannellini",
+    "qualityId": "heirloom",
+    "text": "Momentum returns where it had been draining away.",
+    "score": 0
+  },
+  {
+    "date": "2022-10-12",
+    "zodiacId": "umami-fermented-adzuki",
+    "qualityId": "garden",
+    "text": "The slow transformation is already well underway.",
+    "score": 1
+  },
+  {
+    "date": "2022-10-11",
+    "zodiacId": "sweet-fried-edamame",
+    "qualityId": "heirloom",
+    "text": "The resistance you meet is teaching you the shape of the door.",
+    "score": 0
+  },
+  {
+    "date": "2022-10-09",
+    "zodiacId": "spicy-boiled-black",
+    "qualityId": "stale",
+    "text": "A small correction now prevents a larger one later.",
+    "score": 0
+  },
+  {
+    "date": "2022-10-06",
+    "zodiacId": "spicy-dried-mung",
+    "qualityId": "market",
+    "text": "What seemed like luck was the residue of your consistency.",
+    "score": 0
+  },
+  {
+    "date": "2022-10-05",
+    "zodiacId": "sour-dried-edamame",
+    "qualityId": "rotten",
+    "text": "One honest word does what days of positioning could not.",
+    "score": 1
+  },
+  {
+    "date": "2022-10-04",
+    "zodiacId": "bitter-boiled-adzuki",
+    "qualityId": "heirloom",
+    "text": "You meet the difficult thing with more than you expected to have.",
+    "score": 0
+  },
+  {
+    "date": "2022-10-03",
+    "zodiacId": "spicy-boiled-chickpea",
+    "qualityId": "garden",
+    "text": "Something old and patient rises to the surface — receive it.",
+    "score": 0
+  },
+  {
+    "date": "2022-10-02",
+    "zodiacId": "sour-dried-mung",
+    "qualityId": "stale",
+    "text": "The thing you called a problem was mostly just unfamiliar.",
+    "score": 1
+  },
+  {
+    "date": "2022-10-01",
+    "zodiacId": "sweet-dried-edamame",
+    "qualityId": "market",
+    "text": "The pattern you have been tracking finally breaks open.",
+    "score": 1
+  },
+  {
+    "date": "2022-09-30",
+    "zodiacId": "spicy-fermented-pinto",
+    "qualityId": "stale",
+    "text": "Something long delayed finally moves.",
+    "score": 0
+  },
+  {
+    "date": "2022-09-29",
+    "zodiacId": "sweet-fried-fava",
+    "qualityId": "stale",
+    "text": "The shape of the problem clarifies — now you can work with it.",
+    "score": -1
+  },
+  {
+    "date": "2022-09-28",
+    "zodiacId": "sour-fried-kidney",
+    "qualityId": "market",
+    "text": "Generosity given without expectation compounds differently.",
+    "score": 1
+  },
+  {
+    "date": "2022-09-25",
+    "zodiacId": "spicy-roasted-black",
+    "qualityId": "market",
+    "text": "You contribute what the moment needed, not what you had planned.",
+    "score": 1
+  },
+  {
+    "date": "2022-09-24",
+    "zodiacId": "umami-dried-cannellini",
+    "qualityId": "stale",
+    "text": "An unlikely source carries exactly the clarity you need.",
+    "score": 0
+  },
+  {
+    "date": "2022-09-23",
+    "zodiacId": "sweet-dried-mung",
+    "qualityId": "garden",
+    "text": "Let the question sit — it does not need your answer yet.",
+    "score": 0
+  },
+  {
+    "date": "2022-09-22",
+    "zodiacId": "umami-fermented-edamame",
+    "qualityId": "garden",
+    "text": "Your attention narrows to exactly what is needed.",
+    "score": 1
+  },
+  {
+    "date": "2022-09-21",
+    "zodiacId": "bitter-boiled-navy",
+    "qualityId": "stale",
+    "text": "The work speaks; you do not need to.",
+    "score": 0
+  },
+  {
+    "date": "2022-09-18",
+    "zodiacId": "sour-smoked-kidney",
+    "qualityId": "garden",
+    "text": "Precision lands — this is what the long preparation was for.",
+    "score": 0
+  },
+  {
+    "date": "2022-09-17",
+    "zodiacId": "sour-boiled-mung",
+    "qualityId": "garden",
+    "text": "You reach for more before the first is fully yours.",
+    "score": 1
+  },
+  {
+    "date": "2022-09-15",
+    "zodiacId": "bitter-boiled-pinto",
+    "qualityId": "garden",
+    "text": "The edge you have kept sharp finds its use.",
+    "score": 0
+  },
+  {
+    "date": "2022-09-13",
+    "zodiacId": "spicy-dried-butter",
+    "qualityId": "garden",
+    "text": "You push before the ground is ready to hold you.",
+    "score": 0
+  },
+  {
+    "date": "2022-09-12",
+    "zodiacId": "bitter-smoked-adzuki",
+    "qualityId": "stale",
+    "text": "You do the harder version of the thing and it shows.",
+    "score": 0
+  },
+  {
+    "date": "2022-09-11",
+    "zodiacId": "umami-smoked-kidney",
+    "qualityId": "market",
+    "text": "Let what you are carrying show through — it is safe here.",
+    "score": 1
+  },
+  {
+    "date": "2022-09-09",
+    "zodiacId": "umami-smoked-chickpea",
+    "qualityId": "stale",
+    "text": "The detail you almost skipped turns out to be the one that matters.",
+    "score": 1
+  },
+  {
+    "date": "2022-09-07",
+    "zodiacId": "sweet-boiled-edamame",
+    "qualityId": "market",
+    "text": "The work speaks; you do not need to.",
+    "score": -1
+  },
+  {
+    "date": "2022-09-05",
+    "zodiacId": "umami-fermented-fava",
+    "qualityId": "heirloom",
+    "text": "You reach for more before the first is fully yours.",
+    "score": 0
+  },
+  {
+    "date": "2022-09-03",
+    "zodiacId": "sweet-boiled-fava",
+    "qualityId": "rotten",
+    "text": "What felt like retreat was the necessary arc.",
+    "score": 0
+  },
+  {
+    "date": "2022-08-30",
+    "zodiacId": "umami-fermented-butter",
+    "qualityId": "market",
+    "text": "Small adjustments compound — this one counts.",
+    "score": 1
+  },
+  {
+    "date": "2022-08-29",
+    "zodiacId": "sour-boiled-butter",
+    "qualityId": "heirloom",
+    "text": "What looked like an ending was actually a better starting point.",
+    "score": 0
+  },
+  {
+    "date": "2022-08-27",
+    "zodiacId": "umami-fermented-adzuki",
+    "qualityId": "stale",
+    "text": "The pattern you have been tracking finally breaks open.",
+    "score": 1
+  },
+  {
+    "date": "2022-08-24",
+    "zodiacId": "spicy-fermented-green",
+    "qualityId": "market",
+    "text": "What seemed like luck was the residue of your consistency.",
+    "score": 0
+  },
+  {
+    "date": "2022-08-23",
+    "zodiacId": "spicy-fermented-cannellini",
+    "qualityId": "stale",
+    "text": "The work you have been doing quietly is about to be seen.",
+    "score": -1
+  },
+  {
+    "date": "2022-08-22",
+    "zodiacId": "sweet-boiled-edamame",
+    "qualityId": "stale",
+    "text": "What felt like retreat was the necessary arc.",
+    "score": 0
+  },
+  {
+    "date": "2022-08-20",
+    "zodiacId": "sour-boiled-mung",
+    "qualityId": "market",
+    "text": "Pull the edge back; this moment needs warmth more than precision.",
+    "score": 1
+  },
+  {
+    "date": "2022-08-18",
+    "zodiacId": "umami-fermented-pinto",
+    "qualityId": "market",
+    "text": "The edge you have kept sharp finds its use.",
+    "score": 0
+  },
+  {
+    "date": "2022-08-17",
+    "zodiacId": "bitter-dried-kidney",
+    "qualityId": "market",
+    "text": "Something long delayed finally moves.",
+    "score": -1
+  },
+  {
+    "date": "2022-08-16",
+    "zodiacId": "bitter-fermented-pinto",
+    "qualityId": "heirloom",
+    "text": "The long arc bends toward something you can now see.",
+    "score": 1
+  },
+  {
+    "date": "2022-08-13",
+    "zodiacId": "sweet-fried-navy",
+    "qualityId": "stale",
+    "text": "Let the question sit — it does not need your answer yet.",
+    "score": 1
+  },
+  {
+    "date": "2022-08-11",
+    "zodiacId": "spicy-dried-navy",
+    "qualityId": "heirloom",
+    "text": "The resistance you meet is teaching you the shape of the door.",
+    "score": -1
+  },
+  {
+    "date": "2022-08-10",
+    "zodiacId": "spicy-roasted-butter",
+    "qualityId": "heirloom",
+    "text": "Precision lands — this is what the long preparation was for.",
+    "score": 1
+  },
+  {
+    "date": "2022-08-09",
+    "zodiacId": "spicy-dried-edamame",
+    "qualityId": "market",
+    "text": "An unlikely source carries exactly the clarity you need.",
+    "score": 1
+  },
+  {
+    "date": "2022-08-07",
+    "zodiacId": "umami-dried-chickpea",
+    "qualityId": "rotten",
+    "text": "The conversation that needed to happen finally does.",
+    "score": 0
+  },
+  {
+    "date": "2022-08-06",
+    "zodiacId": "bitter-smoked-butter",
+    "qualityId": "stale",
+    "text": "An obstacle becomes a detail once you stop centering it.",
+    "score": 1
+  },
+  {
+    "date": "2022-08-04",
+    "zodiacId": "bitter-boiled-chickpea",
+    "qualityId": "stale",
+    "text": "You mistake endurance for wisdom — they are not the same.",
+    "score": 0
+  },
+  {
+    "date": "2022-08-03",
+    "zodiacId": "sweet-boiled-kidney",
+    "qualityId": "stale",
+    "text": "Momentum returns where it had been draining away.",
+    "score": 0
+  },
+  {
+    "date": "2022-07-31",
+    "zodiacId": "bitter-fried-kidney",
+    "qualityId": "garden",
+    "text": "The urgency fades before it ever needed to arrive.",
+    "score": 0
+  },
+  {
+    "date": "2022-07-27",
+    "zodiacId": "umami-smoked-mung",
+    "qualityId": "stale",
+    "text": "What was complicated is beginning to settle into sense.",
+    "score": 1
+  },
+  {
+    "date": "2022-07-26",
+    "zodiacId": "umami-boiled-kidney",
+    "qualityId": "garden",
+    "text": "The signal was there; you had learned to read it.",
+    "score": 0
+  },
+  {
+    "date": "2022-07-25",
+    "zodiacId": "sour-dried-kidney",
+    "qualityId": "garden",
+    "text": "Precision lands — this is what the long preparation was for.",
+    "score": 0
+  },
+  {
+    "date": "2022-07-24",
+    "zodiacId": "sweet-boiled-chickpea",
+    "qualityId": "garden",
+    "text": "What was complicated is beginning to settle into sense.",
+    "score": 1
+  },
+  {
+    "date": "2022-07-22",
+    "zodiacId": "spicy-dried-kidney",
+    "qualityId": "market",
+    "text": "Precision lands — this is what the long preparation was for.",
+    "score": 1
+  },
+  {
+    "date": "2022-07-20",
+    "zodiacId": "spicy-smoked-adzuki",
+    "qualityId": "garden",
+    "text": "You arrive with the right thing at the right moment.",
+    "score": -1
+  },
+  {
+    "date": "2022-07-19",
+    "zodiacId": "sour-boiled-edamame",
+    "qualityId": "market",
+    "text": "You do less and it lands harder.",
+    "score": 0
+  },
+  {
+    "date": "2022-07-18",
+    "zodiacId": "bitter-fermented-chickpea",
+    "qualityId": "market",
+    "text": "What you built for yourself turns out to work for others too.",
+    "score": 1
+  },
+  {
+    "date": "2022-07-17",
+    "zodiacId": "umami-fried-butter",
+    "qualityId": "stale",
+    "text": "The gap between effort and result is where something is hiding.",
+    "score": 0
+  },
+  {
+    "date": "2022-07-15",
+    "zodiacId": "sour-smoked-mung",
+    "qualityId": "market",
+    "text": "Generosity given without expectation compounds differently.",
+    "score": 0
+  },
+  {
+    "date": "2022-07-14",
+    "zodiacId": "umami-smoked-fava",
+    "qualityId": "market",
+    "text": "You do the harder version of the thing and it shows.",
+    "score": 1
+  },
+  {
+    "date": "2022-07-13",
+    "zodiacId": "sour-roasted-pinto",
+    "qualityId": "stale",
+    "text": "You mistake endurance for wisdom — they are not the same.",
+    "score": 0
+  },
+  {
+    "date": "2022-07-11",
+    "zodiacId": "spicy-smoked-butter",
+    "qualityId": "stale",
+    "text": "Let the question sit — it does not need your answer yet.",
+    "score": 1
+  },
+  {
+    "date": "2022-07-10",
+    "zodiacId": "bitter-fermented-navy",
+    "qualityId": "garden",
+    "text": "The work you have been doing quietly is about to be seen.",
+    "score": 0
+  },
+  {
+    "date": "2022-07-08",
+    "zodiacId": "sweet-fermented-navy",
+    "qualityId": "stale",
+    "text": "The risk was measured and the landing is solid.",
+    "score": 1
+  },
+  {
+    "date": "2022-07-07",
+    "zodiacId": "spicy-fermented-navy",
+    "qualityId": "rotten",
+    "text": "The difficulty was real, and you were equal to it.",
+    "score": 0
+  },
+  {
+    "date": "2022-07-06",
+    "zodiacId": "sour-boiled-butter",
+    "qualityId": "market",
+    "text": "The connection you almost missed arrives at the right moment.",
+    "score": 1
+  },
+  {
+    "date": "2022-07-05",
+    "zodiacId": "spicy-boiled-green",
+    "qualityId": "market",
+    "text": "Warmth extended without calculation — this is the practice.",
+    "score": 1
+  },
+  {
+    "date": "2022-07-04",
+    "zodiacId": "spicy-boiled-mung",
+    "qualityId": "heirloom",
+    "text": "You do less and it lands harder.",
+    "score": 0
+  },
+  {
+    "date": "2022-07-03",
+    "zodiacId": "sour-smoked-edamame",
+    "qualityId": "heirloom",
+    "text": "The piece you have been missing steps into view.",
+    "score": 0
+  },
+  {
+    "date": "2022-07-02",
+    "zodiacId": "bitter-smoked-black",
+    "qualityId": "garden",
+    "text": "Warmth extended without calculation — this is the practice.",
+    "score": 0
+  },
+  {
+    "date": "2022-07-01",
+    "zodiacId": "bitter-boiled-kidney",
+    "qualityId": "garden",
+    "text": "You meet the difficult thing with more than you expected to have.",
+    "score": 1
+  },
+  {
+    "date": "2022-06-26",
+    "zodiacId": "sour-roasted-edamame",
+    "qualityId": "garden",
+    "text": "One honest word does what days of positioning could not.",
+    "score": 0
+  },
+  {
+    "date": "2022-06-25",
+    "zodiacId": "sweet-fermented-kidney",
+    "qualityId": "stale",
+    "text": "The signal was there; you had learned to read it.",
+    "score": 0
+  },
+  {
+    "date": "2022-06-24",
+    "zodiacId": "umami-dried-edamame",
+    "qualityId": "market",
+    "text": "The clarity arrives after the noise settles — wait for it.",
+    "score": 0
+  },
+  {
+    "date": "2022-06-23",
+    "zodiacId": "spicy-dried-cannellini",
+    "qualityId": "market",
+    "text": "Momentum returns where it had been draining away.",
+    "score": -1
+  },
+  {
+    "date": "2022-06-21",
+    "zodiacId": "spicy-boiled-chickpea",
+    "qualityId": "heirloom",
+    "text": "The effort was proportionate and the result reflects that.",
+    "score": 0
+  },
+  {
+    "date": "2022-06-20",
+    "zodiacId": "sour-fermented-kidney",
+    "qualityId": "market",
+    "text": "What you withheld kept you honest — that was enough.",
+    "score": 0
+  },
+  {
+    "date": "2022-06-18",
+    "zodiacId": "sweet-fried-fava",
+    "qualityId": "market",
+    "text": "An obstacle becomes a detail once you stop centering it.",
+    "score": 1
+  },
+  {
+    "date": "2022-06-17",
+    "zodiacId": "umami-fermented-cannellini",
+    "qualityId": "stale",
+    "text": "Choose the good version — there is no virtue in the lesser one.",
+    "score": 1
+  },
+  {
+    "date": "2022-06-16",
+    "zodiacId": "spicy-roasted-cannellini",
+    "qualityId": "stale",
+    "text": "Warmth extended without calculation — this is the practice.",
+    "score": 0
+  },
+  {
+    "date": "2022-06-15",
+    "zodiacId": "spicy-smoked-pinto",
+    "qualityId": "market",
+    "text": "Your attention narrows to exactly what is needed.",
+    "score": -1
+  },
+  {
+    "date": "2022-06-14",
+    "zodiacId": "bitter-fermented-fava",
+    "qualityId": "market",
+    "text": "The softer path is not the weaker one.",
+    "score": 0
+  },
+  {
+    "date": "2022-06-13",
+    "zodiacId": "sweet-fermented-navy",
+    "qualityId": "stale",
+    "text": "An obstacle becomes a detail once you stop centering it.",
+    "score": 1
+  },
+  {
+    "date": "2022-06-12",
+    "zodiacId": "sour-roasted-kidney",
+    "qualityId": "garden",
+    "text": "The care you take now is the margin you will need later.",
+    "score": 1
+  },
+  {
+    "date": "2022-06-11",
+    "zodiacId": "sour-dried-green",
+    "qualityId": "stale",
+    "text": "Your attention narrows to exactly what is needed.",
+    "score": -1
+  },
+  {
+    "date": "2022-06-10",
+    "zodiacId": "spicy-roasted-green",
+    "qualityId": "garden",
+    "text": "Warmth extended without calculation — this is the practice.",
+    "score": 0
+  },
+  {
+    "date": "2022-06-09",
+    "zodiacId": "spicy-dried-edamame",
+    "qualityId": "heirloom",
+    "text": "The detail you almost skipped turns out to be the one that matters.",
+    "score": 0
+  },
+  {
+    "date": "2022-06-08",
+    "zodiacId": "bitter-fermented-black",
+    "qualityId": "garden",
+    "text": "The effort was proportionate and the result reflects that.",
+    "score": 0
+  },
+  {
+    "date": "2022-06-05",
+    "zodiacId": "bitter-fried-fava",
+    "qualityId": "market",
+    "text": "What the day demands is less than what you planned to give.",
+    "score": 1
+  },
+  {
+    "date": "2022-06-04",
+    "zodiacId": "spicy-boiled-cannellini",
+    "qualityId": "heirloom",
+    "text": "The detail you almost skipped turns out to be the one that matters.",
+    "score": -1
+  },
+  {
+    "date": "2022-06-02",
+    "zodiacId": "spicy-fermented-navy",
+    "qualityId": "market",
+    "text": "What you chose to protect turns out to have been worth it.",
+    "score": 0
+  },
+  {
+    "date": "2022-05-31",
+    "zodiacId": "bitter-smoked-green",
+    "qualityId": "stale",
+    "text": "The care you take now is the margin you will need later.",
+    "score": 0
+  },
+  {
+    "date": "2022-05-30",
+    "zodiacId": "sour-dried-mung",
+    "qualityId": "garden",
+    "text": "What was complicated is beginning to settle into sense.",
+    "score": -1
+  },
+  {
+    "date": "2022-05-28",
+    "zodiacId": "umami-roasted-navy",
+    "qualityId": "garden",
+    "text": "You push before the ground is ready to hold you.",
+    "score": -1
+  },
+  {
+    "date": "2022-05-27",
+    "zodiacId": "sour-dried-black",
+    "qualityId": "market",
+    "text": "Something you named months ago is finally listening.",
+    "score": 1
+  },
+  {
+    "date": "2022-05-26",
+    "zodiacId": "sweet-smoked-green",
+    "qualityId": "rotten",
+    "text": "Something you let go of stops taking up space.",
+    "score": 1
+  },
+  {
+    "date": "2022-05-25",
+    "zodiacId": "sour-fermented-pinto",
+    "qualityId": "rotten",
+    "text": "The discomfort is pointing at something useful.",
+    "score": 1
+  },
+  {
+    "date": "2022-05-24",
+    "zodiacId": "spicy-fried-edamame",
+    "qualityId": "garden",
+    "text": "The small mercy you offer lands somewhere it was needed.",
+    "score": -1
+  },
+  {
+    "date": "2022-05-22",
+    "zodiacId": "spicy-fermented-butter",
+    "qualityId": "stale",
+    "text": "The gap between effort and result is where something is hiding.",
+    "score": 1
+  },
+  {
+    "date": "2022-05-21",
+    "zodiacId": "umami-smoked-mung",
+    "qualityId": "market",
+    "text": "Something you said months ago proves itself true today.",
+    "score": 0
+  },
+  {
+    "date": "2022-05-20",
+    "zodiacId": "sour-roasted-edamame",
+    "qualityId": "garden",
+    "text": "The gap between effort and result is where something is hiding.",
+    "score": 1
+  },
+  {
+    "date": "2022-05-19",
+    "zodiacId": "bitter-fermented-butter",
+    "qualityId": "market",
+    "text": "You find the right scale and everything becomes manageable.",
+    "score": 1
+  },
+  {
+    "date": "2022-05-18",
+    "zodiacId": "umami-fried-navy",
+    "qualityId": "market",
+    "text": "What looked like an ending was actually a better starting point.",
+    "score": -1
+  },
+  {
+    "date": "2022-05-17",
+    "zodiacId": "spicy-roasted-adzuki",
+    "qualityId": "market",
+    "text": "What you built for yourself turns out to work for others too.",
+    "score": 0
+  },
+  {
+    "date": "2022-05-16",
+    "zodiacId": "sour-roasted-kidney",
+    "qualityId": "garden",
+    "text": "You reach for more before the first is fully yours.",
+    "score": -1
+  },
+  {
+    "date": "2022-05-15",
+    "zodiacId": "bitter-fermented-edamame",
+    "qualityId": "market",
+    "text": "Depth calls to depth — what you find is genuinely yours.",
+    "score": 0
+  },
+  {
+    "date": "2022-05-14",
+    "zodiacId": "spicy-boiled-chickpea",
+    "qualityId": "market",
+    "text": "Your steadiness is the invisible infrastructure everyone relies on.",
+    "score": 1
+  },
+  {
+    "date": "2022-05-12",
+    "zodiacId": "spicy-boiled-black",
+    "qualityId": "garden",
+    "text": "Let what you are carrying show through — it is safe here.",
+    "score": 1
+  },
+  {
+    "date": "2022-05-11",
+    "zodiacId": "sour-fermented-cannellini",
+    "qualityId": "stale",
+    "text": "The risk was measured and the landing is solid.",
+    "score": -1
+  },
+  {
+    "date": "2022-05-09",
+    "zodiacId": "bitter-roasted-green",
+    "qualityId": "stale",
+    "text": "Small adjustments compound — this one counts.",
+    "score": 0
+  },
+  {
+    "date": "2022-05-07",
+    "zodiacId": "bitter-roasted-butter",
+    "qualityId": "garden",
+    "text": "Let what you are carrying show through — it is safe here.",
+    "score": 0
+  },
+  {
+    "date": "2022-05-05",
+    "zodiacId": "sour-roasted-mung",
+    "qualityId": "stale",
+    "text": "Something you named months ago is finally listening.",
+    "score": 1
+  }
+]

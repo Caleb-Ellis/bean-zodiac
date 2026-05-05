@@ -6,7 +6,7 @@ form: fried
 trait: shrewd
 dish: Falafel with sumac onions - fried chickpea patties served with tangy sumac-pickled onions.
 quote: Politics is the art of looking for trouble, finding it everywhere, diagnosing it incorrectly, and applying the wrong beans.
-seasonalFortune: A reading forming in you will prove accurate — trust it over the coming months, even when what you see is not what anyone else is saying.
+seasonalFortune: Bean intelligence confirms — what you spotted first will arrive exactly as you expected, and no one will have the grace to admit you said so first.
 dailyNeutral: The read you have is the correct one — trust it.
 dailyGood: The real dynamic is what you think it is; work from what you see.
 dailyBest: Trust the full picture you have assembled — you see it clearly, and it is worth acting on.

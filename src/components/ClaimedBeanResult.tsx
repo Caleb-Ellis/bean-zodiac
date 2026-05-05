@@ -11,6 +11,10 @@ import {
 import { getDailyFortuneIds, getFortuneText } from "../lib/fortune";
 import { fetchZodiac, type AllZodiacData } from "../lib/data";
 import {
+  computeSpiritBeanScores,
+  getSpiritZodiacId,
+} from "../lib/spiritBean";
+import {
   addFortuneToHistory,
   clearFortuneHistory,
   getFortuneHistory,
@@ -60,9 +64,14 @@ export default function ClaimedBeanResult({
     (seasonalMeta.endDate.getTime() - date.getTime()) / (1000 * 60 * 60 * 24),
   );
 
+  const yesterday = new Date(date);
+  yesterday.setDate(yesterday.getDate() - 1);
+  const yesterdayStr = `${yesterday.getFullYear()}-${String(yesterday.getMonth() + 1).padStart(2, "0")}-${String(yesterday.getDate()).padStart(2, "0")}`;
+  const spiritScores = computeSpiritBeanScores(claimedSlug, yesterdayStr);
+  const spiritSlug = getSpiritZodiacId(spiritScores);
   const { zodiacId: fortuneZodiacId, qualityId } = getDailyFortuneIds(
     date,
-    claimedSlug,
+    spiritSlug,
   );
   const [fortuneFlavourId, fortuneFormId, fortuneBeanId] =
     fortuneZodiacId.split("-") as [FlavourId, FormId, BeanId];

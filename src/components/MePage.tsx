@@ -1,13 +1,18 @@
-import { useState } from "react";
+import { useState, useEffect } from "react";
 import {
   type BeanId,
   type FlavourId,
   type FormId,
   type ZodiacId,
+  BEAN_ORDER,
+  FLAVOUR_ORDER,
+  FORM_ORDER,
+  getPreparationName,
 } from "../lib/zodiac";
 
 import { type AllZodiacData } from "../lib/data";
 import { getClaimedBeanSlug } from "../lib/claimedBean";
+import { addMetBean } from "../lib/metBeans";
 import {
   computeSpiritBeanScores,
   buildBeanstalkNodes,
@@ -17,12 +22,22 @@ import {
 } from "../lib/spiritBean";
 import Beanstalk from "./Beanstalk";
 import { FlavourRadar, FormRadar, BeanRadar } from "./SpiritBeanRadars";
+import MiniIdentity from "./MiniIdentity";
 
 interface Props {
   data: AllZodiacData;
 }
 
+function Spinner() {
+  return (
+    <div className="flex items-center justify-center py-24">
+      <div className="w-8 h-8 rounded-full border-2 border-zinc-700 border-t-blue-500 animate-spin" />
+    </div>
+  );
+}
+
 export default function MePage({ data }: Props) {
+  const [mounted, setMounted] = useState(false);
   const [claimedSlug] = useState<ZodiacId | null>(() => {
     if (typeof window === "undefined") return null;
     return getClaimedBeanSlug();
@@ -39,6 +54,15 @@ export default function MePage({ data }: Props) {
     const slug = getClaimedBeanSlug();
     return slug ? buildBeanstalkNodes(slug) : [];
   });
+
+  useEffect(() => {
+    setMounted(true);
+    if (!scores) return;
+    const spiritZodiacId = `${FLAVOUR_ORDER[scores.flavourHighlight]}-${FORM_ORDER[scores.formHighlight]}-${BEAN_ORDER[scores.beanHighlight]}` as ZodiacId;
+    addMetBean(spiritZodiacId);
+  }, []);
+
+  if (!mounted) return <Spinner />;
 
   if (claimedSlug === null) {
     return (
@@ -119,6 +143,46 @@ export default function MePage({ data }: Props) {
                 />
               </div>
             </div>
+            {(() => {
+              const spiritFlavourId = FLAVOUR_ORDER[scores.flavourHighlight];
+              const spiritFormId = FORM_ORDER[scores.formHighlight];
+              const spiritBeanId = BEAN_ORDER[scores.beanHighlight];
+              const isDifferent =
+                spiritFlavourId !== flavourId ||
+                spiritFormId !== formId ||
+                spiritBeanId !== beanId;
+
+              return isDifferent ? (
+                <div className="flex flex-col sm:flex-row gap-12 sm:gap-8 justify-center items-center sm:items-start w-full max-w-2xl my-4">
+                  <div className="flex flex-col items-center gap-3 flex-1">
+                    <p className="text-sm text-zinc-500 uppercase tracking-widest mb-4">
+                      You were born a
+                    </p>
+                    <MiniIdentity
+                      beanId={beanId}
+                      beanName={data.beans[beanId].name}
+                      preparation={getPreparationName(flavourId, formId)}
+                      bean={data.beans[beanId]}
+                      flavourId={flavourId}
+                      formId={formId}
+                    />
+                  </div>
+                  <div className="flex flex-col items-center gap-3 flex-1">
+                    <p className="text-sm text-zinc-500 uppercase tracking-widest mb-4">
+                      Your spirit is a
+                    </p>
+                    <MiniIdentity
+                      beanId={spiritBeanId}
+                      beanName={data.beans[spiritBeanId].name}
+                      preparation={getPreparationName(spiritFlavourId, spiritFormId)}
+                      bean={data.beans[spiritBeanId]}
+                      flavourId={spiritFlavourId}
+                      formId={spiritFormId}
+                    />
+                  </div>
+                </div>
+              ) : null;
+            })()}
             <p className="text-lg sm:text-xl font-bold text-zinc-300 text-center">
               {getAlignmentText(getSpiritDiff(scores))}
             </p>

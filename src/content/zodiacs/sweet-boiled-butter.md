@@ -6,7 +6,7 @@ form: boiled
 trait: calm
 dish: Butter bean and maple pudding — beans boiled soft and folded into warm cream with maple syrup and a grating of nutmeg.
 quote: Keep calm and carry beans.
-seasonalFortune: An alarm will arrive — stay present with it, not anxious.
+seasonalFortune: Beans worldwide agree — calm beans rule, mean beans drool.
 dailyNeutral: The pace you are setting is the right one — hold it.
 dailyGood: What is gathering around you will settle if you hold your ground.
 dailyBest: Your stillness is doing the work — let everything slow down around you.
