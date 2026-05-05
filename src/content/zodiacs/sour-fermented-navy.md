@@ -6,12 +6,12 @@ form: fermented
 trait: cynical
 dish: Choucroute garnie - navy beans with sauerkraut, caraway, and white wine.
 quote: A bean who knows the price of everything and the value of nothing.
-seasonalFortune: Something genuine is coming — hold the cynicism lightly enough to still be capable of being surprised by it.
-dailyNeutral: The skepticism is the accurate response — hold it.
-dailyGood: The pattern is what you think it is; trust the read.
-dailyBest: Prepare for the most likely outcome — the pattern holds, and acting otherwise is sentimental.
-dailyBad: Try good faith, just here; the expectation of failure is becoming a self-fulfilling one.
-dailyWorst: Let this one in. The building is happening elsewhere and the pattern that predicted failure is the reason.
+seasonalFortune: The brine grows clearer with time — something solid settles, something false rises to the surface. What remains at the bottom merits attention.
+dailyMid: The pattern shows itself, but only at the edges. The center still hides layers.
+dailyHigh: The fermentation confirms what was suspected. The structure reveals itself whole.
+dailyMost: The outcome crystallizes early. Move through certainty with purpose.
+dailyLow: The weight shifts toward brightness. Something untested carries its own kind of credibility.
+dailyLeast: The brine sparkles. What presents itself directly, without defense, finds welcome here.
 ---
 
 Pickled Navy Beans are the Bean Zodiac's most cynical — they have seen what is behind the curtain and cannot unsee it.

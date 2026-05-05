@@ -6,15 +6,15 @@ form: dried
 trait: wholesome
 dish: Besan ladoo — dried chickpeas ground to flour, toasted in ghee, and rolled into warm golden balls with sugar and cardamom.
 quote: Do unto beans as you would have beans do unto you.
-seasonalFortune: A complexity will want to be part of what you offer — allow it, alongside the warmth.
-dailyNeutral: Bring the warmth — it is what the moment needs.
-dailyGood: The goodwill you offer is landing more deeply than the surface suggests.
-dailyBest: Open fully; what you carry is more than warmth, and all of it belongs.
-dailyBad: The warmth you are bringing is flattening what actually happened.
-dailyWorst: Look at it directly — something has been sweetened over that needed clear eyes, and the evasion is known.
+seasonalFortune: The mill reveals what the whole bean held hidden. What emerges golden from the grind carries both the sweetness and the structure that made the bean itself.
+dailyMid: Flour settling into its finest dust — substance rendered visible.
+dailyHigh: The ghee takes the grain and transforms, releasing what lay dormant in the dry measure.
+dailyMost: Cardamom blooms in heat; the warmth carries seeds of something deeper, fragrant and true.
+dailyLow: The pieces scatter without weight; no integration holds them.
+dailyLeast: The shell polished bright, hollow at the centre where substance should gather.
 ---
 
-Crystallised Chickpeas are the Bean Zodiac's most wholesome — they have been everywhere, and they carry the warmth of every room they've passed through.
+Crystallised Chickpeas are the Bean Zodiac's most wholesome — they have been everywhere, and they carry the warmth of all those they've touched.
 
 Chickpeas bridge worlds and carry warmth; Sweet Beans extend comfort without reservation; Dried Beans hold it in concentrated form, portable and sustaining.
 

@@ -6,12 +6,12 @@ form: dried
 trait: hardened
 dish: Louisiana Red Beans and Rice - with mustard greens.
 quote: What lies behind us and what lies before us are tiny matters compared to what lies between beans.
-seasonalFortune: A density you carry will be mistaken for distance — find what is trying to get in, and leave a small opening.
-dailyNeutral: The difficulty has added density, not damage — carry it forward as strength.
-dailyGood: What would have broken something else has only made you denser — let it show.
-dailyBest: Every hardship has been converted — nothing remains that has not been tested and held.
-dailyBad: Set something down today; not every weight you can carry is one you should.
-dailyWorst: Let someone in — the density that protects you is also what is keeping out the good stuff.
+seasonalFortune: When the pot boils away its water, something ancient surfaces. A season for the compressed to become essential — the mustard leaf knows that bitterness sharpens the palate only after it has first hardened the plant.
+dailyMid: The shape holds even where softness once pooled.
+dailyHigh: The narrow path through the centre calls only those willing to absorb time.
+dailyMost: Each layer sealed against the last — pressure becomes radiance.
+dailyLow: The mustard green wilts before the brine reaches it — porous where the pot expected density.
+dailyLeast: Louisiana heat finds every seam — the bean that once held firm now draws in whatever the water carries.
 ---
 
 Desiccated Kidney Beans are the Bean Zodiac's most hardened — each season of difficulty has added density, not damage.

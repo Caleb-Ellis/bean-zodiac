@@ -6,12 +6,12 @@ form: boiled
 trait: logical
 dish: Edamame miso soup with rice vinegar and wakame.
 quote: Logic will get you from A to bean, but imagination will take you everywhere.
-seasonalFortune: The chain will complete — what the steps have been building toward is close enough to see.
-dailyNeutral: Follow the reasoning where it actually leads — it is shorter than it appears.
-dailyGood: The simplest answer is already in front of you; resist the urge to complicate it.
-dailyBest: The logic has arrived at its conclusion — let it land, even if the room expected something less clean.
-dailyBad: The room is running on instinct right now; a perfectly sound argument will not land the way you think it will.
-dailyWorst: Put the argument down. Nobody is interested in it and continuing will make this harder than it already is.
+seasonalFortune: The broth clarifies itself this season — each ingredient dissolves into its function, and the whole becomes legible.
+dailyMid: The path threads straight through the steam, visible to anyone patient enough to follow it.
+dailyHigh: Every step arrives exactly where it was always going; the straightness of the route is its own kind of beauty.
+dailyMost: The answer crystallizes on the surface — pure, unadorned, asking nothing of the reader.
+dailyLow: The wakame curls in ways the heat alone cannot predict. Intention scatters into flavor.
+dailyLeast: All the ingredients are present, yet the soup tastes of something unmapped — edges dissolving into the broth.
 ---
 
 Brined Edamame are the Bean Zodiac's most logical — they follow the argument where it actually goes, often simpler than it appears.

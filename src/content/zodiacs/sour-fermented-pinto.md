@@ -6,12 +6,12 @@ form: fermented
 trait: pessimistic
 dish: Frijoles charros - pinto beans with fermented chipotle, bacon, and lime.
 quote: A bean who expects nothing is never disappointed.
-seasonalFortune: A variable in the forecast will not confirm the reading — it is there, and it matters, and it will ask to be noticed.
-dailyNeutral: The darker forecast is worth sitting with — it may be the accurate one.
-dailyGood: The dark read deserves full attention; follow it where it goes.
-dailyBest: Give it the full weight of the worst case — map it completely, and know what you are actually looking at.
-dailyBad: Offer the version where it works out; the dark reading is landing as a drain and people are starting to notice.
-dailyWorst: Find something that didn't go wrong. People have stopped bringing things to you and the reason is not a mystery.
+seasonalFortune: The brine deepens this season, flavor settling into its most predictable form. What ferments in darkness may surprise only those who haven't tasted its earlier versions.
+dailyMid: The vinegar notes arrive exactly where anticipated — sharp, bitter, unmistaken.
+dailyHigh: Each layer of salt confirms what was already known; the evidence stacks in its familiar shape.
+dailyMost: The chipotle's heat maps precisely to expectation — smoke and shadow moving along their charted course.
+dailyLow: The bacon's saltiness carries an unfamiliar brightness; the lime arrives with a gentleness nobody quite prepared for.
+dailyLeast: The fermentation has wandered into territory the cure could never have predicted — the whole dish tilted toward something utterly new.
 ---
 
 Pickled Pinto Beans are the Bean Zodiac's most pessimistic — with well-developed reasons for every view.

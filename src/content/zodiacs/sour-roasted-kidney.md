@@ -3,18 +3,18 @@ slug: sour-roasted-kidney
 bean: kidney
 flavour: sour
 form: roasted
-trait: fairness-minded
+trait: fair
 dish: Rajma tikki - pan-seared kidney bean cakes with amchur and mint chutney
 quote: Injustice anywhere is a threat to bean everywhere.
-seasonalFortune: A fairness will be required that changes things — insist on it, and what you build by doing so will outlast the situation that required it.
-dailyNeutral: The fair thing is clear — say what it is.
-dailyGood: Push for it; the fair outcome is available and it deserves to be fought for.
-dailyBest: Insist on it completely — every dimension of what is fair, held all the way through.
-dailyBad: Accept the faster resolution; accounting for every dimension has started reading as delay and the room has lost patience.
-dailyWorst: Let the decision happen without the framework. It's being made anyway and holding out is only removing you from it.
+seasonalFortune: The spice settles deeper into the oil this season, its warmth threading through the beans with an older geometry — what was once distributed even now pools and rises unevenly. The chutney's portions cannot be recut. What begins unequal may still nourish, though the path there grows stranger.
+dailyMid: The mint chutney drapes across the tikkis with an honest hand.
+dailyHigh: The amchur dust settles in precise measure — each granule lands where the spice before intended.
+dailyMost: The oil's heat reaches every bean equally; the crust forms all at once; the portions emerge aligned.
+dailyLow: The mint pools thickly in one corner of the plate, thin elsewhere.
+dailyLeast: The beans cook at different depths — some roasted bright, others still pale inside.
 ---
 
-Chimichurri Kidney Beans are the Bean Zodiac's most fairness-minded — warmth that insists on equal distribution.
+Chimichurri Kidney Beans are the Bean Zodiac's fairest — warmth that insists on equal distribution.
 
 Kidney Beans protect and extend naturally; Sour Beans notice distribution immediately; Roasted Beans radiate warmth that everyone deserves welcome.
 

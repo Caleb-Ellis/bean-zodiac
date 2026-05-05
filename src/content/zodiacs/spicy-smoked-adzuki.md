@@ -3,19 +3,19 @@ slug: spicy-smoked-adzuki
 bean: adzuki
 flavour: spicy
 form: smoked
-trait: incandescent
+trait: transfixing
 dish: Adzuki doenjang-jjigae - adzuki beans in fermented soybean broth with smoked anchovy and gochugaru.
 quote: It is better to burn out than to bean away.
-seasonalFortune: You will be asked to burn at full temperature — find the register that is extraordinary without being difficult to remain near.
-dailyNeutral: The brightness is real — give it the space to radiate without overwhelming.
-dailyGood: The incandescence is at full frequency; find the register that sustains it.
-dailyBest: Burn at the full temperature — completely, at the register that is extraordinary without being difficult to remain near.
-dailyBad: Pull back before the distance widens further; what arrived at full brightness was more than could be remained near.
-dailyWorst: Respect the distance — it was created deliberately and the temperature is what asked for it.
+seasonalFortune: The smoke hangs in the room — moving through walls, gathering in corners, settling into fabric. This season asks whether the smoke lingers as a signature or dissipates into the air.
+dailyMid: The broth shifts colour at their approach. The bowl remembers them before it's offered.
+dailyHigh: The gochugaru swirls in suspension — every movement visible, every particle held exactly where it lands.
+dailyMost: The anchovy dissolves completely, yet the broth knows its flavour, its form, the exact moment of its surrender.
+dailyLow: The beans sink to the bottom, indistinguishable from what surrounds them. The broth carries no memory of their colour.
+dailyLeast: The steam rises without shaping itself. The heat moves through the kitchen as if no one had lit the fire.
 ---
 
-Chipotle Adzuki Beans are the Bean Zodiac's most incandescent — their festivity burns at a frequency that precedes any visible source.
+Chipotle Adzuki Beans are the Bean Zodiac's most transfixing — the effect arrives before anyone has decided to be affected.
 
-Adzuki Beans recognise what deserves to be marked and compel the room to join them; Spicy Beans burn away hesitation before anyone has chosen to opt out; Smoked Beans send the heat ahead of any declaration.
+Adzuki Beans recognise what deserves to be marked and compel others to join them; Spicy Beans dissolve hesitation before anyone has chosen to opt out; Smoked Beans send the effect ahead of any declaration.
 
-The Chipotle Adzuki Bean's challenge is modulation. Incandescence is extraordinary and difficult to be near at length. These Beans must find the register that celebrates without overwhelming.
+The Chipotle Adzuki Bean's challenge is modulation. Being transfixing is extraordinary — but nobody stays transfixed indefinitely. These Beans must find the register that holds without overwhelming.

@@ -6,12 +6,12 @@ form: dried
 trait: restorative
 dish: Moong dal - dried mung beans slow-simmered with turmeric, ginger, and a tadka of cumin.
 quote: Let food be thy bean and bean be thy medicine.
-seasonalFortune: A restoration will be offered — ensure you are also receiving what you give.
-dailyNeutral: Offer what restores — it works deeper than the surface of the exchange.
-dailyGood: Give the full depth of your attention — the effect will run further than you can see.
-dailyBest: Let the restoration be complete — and then turn it toward yourself with the same patience.
-dailyBad: Match the moment's register; restoration is not what is being asked of you here.
-dailyWorst: Raise the register; the quietude is being received as absence.
+seasonalFortune: The broth thickens with what has simmered longest. A season arrives where the deepest flavors — the ones that took hours to unfold — are what the palate needs.
+dailyMid: The spice has settled into the base, spreading its warmth through the whole pot.
+dailyHigh: What begins as a single grain expands to fill the space around it, nourishing by proximity alone.
+dailyMost: The tadka crackles at the end, and all that came before blooms into life.
+dailyLow: The broth moves quickly from heat to table, skipping the slow steep.
+dailyLeast: The seasoning rises to the top, sharp and separate, never quite merging with the rest.
 ---
 
 Aged Mung Beans are the Bean Zodiac's most restorative — the care is deep and patient and works slowly, and it has never failed to work.

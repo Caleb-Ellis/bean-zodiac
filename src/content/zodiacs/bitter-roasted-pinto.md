@@ -6,12 +6,12 @@ form: roasted
 trait: narcissistic
 dish: Frijoles Refritos - with roasted bitter chiles and lard.
 quote: I don't care what you think unless it's about my bean.
-seasonalFortune: Something outside the mirror is about to ask for your full attention — give it, and find out what the world offers when you look outward.
-dailyNeutral: Return to the thing you do best — it deserves the attention you give it.
-dailyGood: No one else will see what you see in this; that is not a flaw.
-dailyBest: The full measure of your attention belongs here — give it completely and without apology.
-dailyBad: Turn the attention outward for once; the room has something in it that is not about you, and it is worth finding.
-dailyWorst: Put yourself entirely aside and attend to what is in front of you — the world outside the mirror is asking for something.
+seasonalFortune: Lard renders slowly, indifferent to the pan around it — a whole season can pass in the act of becoming purely oneself. The bitter chiles do their work regardless of who is watching.
+dailyMid: The markings on the pinto are unlike any other bean's. This particular pattern has no equal.
+dailyHigh: The skillet is hot, the fat is fragrant — the refried bean fills it completely, leaving no room for doubt about its own flavor.
+dailyMost: Press the bean flat. Let the lard carry only this. The whole dish is this — nothing else belongs.
+dailyLow: The bitter chiles draw the eye. The refried bean underneath is the quiet part of the dish.
+dailyLeast: Everyone reaches for the chile first. The lard, the bean, the whole foundation — all in service of something else's flavor.
 ---
 
 Wood-Fired Pinto Beans are the Bean Zodiac's most narcissistic — warmth directed entirely inward.

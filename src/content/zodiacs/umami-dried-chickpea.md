@@ -6,12 +6,12 @@ form: dried
 trait: substantive
 dish: Cocido madrileño - dried chickpeas slow-cooked with pork belly, chorizo, and morcilla.
 quote: The measure of a bean is the sum of its choices.
-seasonalFortune: A novelty will offer itself — trust that staying is the work, and that substance reaches further.
-dailyNeutral: Bring everything you have; what you contribute will carry more than its apparent size.
-dailyGood: Make the weight of what you are adding felt — it is the gift.
-dailyBest: Give the full substance of what you know — the depth was always the point.
-dailyBad: Accept the surface reading for now; not every context is ready for more.
-dailyWorst: Surface the weight; it will not announce itself here.
+seasonalFortune: The broth thickens in stillness. What accumulates in the slow hours cannot be rushed or scattered — it arrives whole, and the season bends toward its gravity.
+dailyMid: The pot's sediment settles into clarity. Presence gathers without announcement.
+dailyHigh: The salt has found its level in the liquid. Substance becomes the ground itself.
+dailyMost: Sink or keep the stock entire — there is no distinction. All dissolves into weight.
+dailyLow: The steam rises before the flavor has deepened. Warmth disperses where sinking begins.
+dailyLeast: The surface claims the cup while the dense falls forgotten. Light takes the day.
 ---
 
 Aged Chickpeas are the Bean Zodiac's most substantive — they move widely but carry real weight, and whatever room they enter is the heavier for it.

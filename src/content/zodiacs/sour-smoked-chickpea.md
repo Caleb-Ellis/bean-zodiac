@@ -6,12 +6,12 @@ form: smoked
 trait: wary
 dish: Smoked chickpea shawarma wrap with sumac-marinated onions and pickled turnips
 quote: Beware the bean of March.
-seasonalFortune: A room worth committing to is coming — the wariness will need to decide whether this is it, or whether it is still remembering the rooms it has lost.
-dailyNeutral: The read is correct — keep the eyes open.
-dailyGood: Hold the caution; what is in front of you has not yet earned more than that.
-dailyBest: Watch everything — no assumptions, and let what reveals itself do so at its own pace.
-dailyBad: Open up a little; the invitation is genuine and the caution is reading as a refusal.
-dailyWorst: Trust is forming somewhere else. The guard was the reason it couldn't happen here.
+seasonalFortune: Smoke carries memory. The wrapping paper darkens, the filling stays true. What was charred speaks louder than what merely waited.
+dailyMid: Sumac cuts through. The eye catalogs, the palate remembers.
+dailyHigh: The onion reads its layers aloud. Each one earned its place in the stack.
+dailyMost: Turnips stay crisp in brine. The guard becomes the thing that preserves.
+dailyLow: The wrap holds without asking questions. Some meals come from forgetting the smoke.
+dailyLeast: The chickpea lands in a new bowl. The filling shifts before anyone tastes it.
 ---
 
 Cured Chickpeas are the Bean Zodiac's most wary — they have been everywhere, and they remember clearly what they found.

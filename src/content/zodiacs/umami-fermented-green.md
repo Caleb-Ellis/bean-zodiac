@@ -6,12 +6,12 @@ form: fermented
 trait: creative
 dish: Paocai - Sichuan lacto-fermented green beans with Sichuan pepper, garlic, and dried chili.
 quote: Creativity is intelligence having bean fun.
-seasonalFortune: The work is ready to exist outside of you — let it be seen before the moment turns.
-dailyNeutral: Make the thing — the impulse you are feeling is the right one to follow.
-dailyGood: Let the making run; what is coming through deserves the full length of the moment.
-dailyBest: Give it everything — this is what full capacity is for.
-dailyBad: Show what you have; the work does not need to be finished to be shown.
-dailyWorst: Release something; what has not been seen is being read as nothing.
+seasonalFortune: In the brine, something unmade becomes something unprecedented — salt and time are conspirators, and the brine knows what wants to emerge.
+dailyMid: A flavor exists only by departing from what came before.
+dailyHigh: The ferment rises; its particular alchemy cannot be repeated.
+dailyMost: The brine is alive with invention — trust what only this moment can birth.
+dailyLow: The recipe holds steady; all the ingredients find their place exactly as written.
+dailyLeast: What was made once before is made again, reliable and whole.
 ---
 
 Miso Green Beans are the Bean Zodiac's most creative — what emerges is entirely their own.

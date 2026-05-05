@@ -6,12 +6,12 @@ form: smoked
 trait: impassioned
 dish: Red beans and rice - kidney beans slow-cooked with smoked andouille, sweet bell pepper, and thyme.
 quote: The heart has its bean that reason knows nothing of.
-seasonalFortune: A passion will reach people — name what you are actually fighting for, so the warmth and the declaration arrive together.
-dailyNeutral: Let the feeling come through in what you say.
-dailyGood: The passion you bring is what makes the argument real — do not remove it.
-dailyBest: Give the full force of it — the impassioned version is the true version, and it belongs here.
-dailyBad: Lower the temperature; the feeling has become the thing that needs managing, and it is a lot.
-dailyWorst: Name what is being burned — it has started to look like what is being warmed, and the difference matters.
+seasonalFortune: The embers know what burns beneath. Speak the name of the thing being guarded — let the smoke and the voice rise together.
+dailyMid: Something slow moves under the surface, building its heat.
+dailyHigh: The andouille releases its depth; follow where the richness leads.
+dailyMost: The pepper holds the full color of the fire — nothing held back.
+dailyLow: The spoon moves gently through the pot; the beans separate into their own cooling paths.
+dailyLeast: The rice soaks the liquid without urgency; what burns settles into steady warmth.
 ---
 
 Barbecued Kidney Beans are the Bean Zodiac's most impassioned — the warmth is genuine, and underneath it something urgent is moving without a name.

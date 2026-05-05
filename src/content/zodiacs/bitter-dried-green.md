@@ -6,12 +6,12 @@ form: dried
 trait: honed
 dish: Appalachian Leather Britches - with bitter herbs and salt pork.
 quote: Give me six hours to chop down a tree and I will spend the first four sharpening the bean.
-seasonalFortune: A target will appear that is worth your full sharpness — you will know it when the question shifts from whether to cut, to what.
-dailyNeutral: Apply precision to what is in front of you — nothing is too small to be done exactly right.
-dailyGood: The edge is sharper than most things require — this is not most things.
-dailyBest: Full precision, no waste, no detour — move at your sharpest and do not slow down.
-dailyBad: Ease off the exactness; good enough is doing real work today and perfect is not needed.
-dailyWorst: Use the blunter tool — not everything deserves the sharpest thing in the drawer.
+seasonalFortune: The brittle pod knows which fiber will snap first. What wears thin may reveal the sinew beneath — what remains after the salt has done its work is what cuts.
+dailyMid: Edges find their angle in half-light, where pressure meets the grain.
+dailyHigh: Something breaks the wrong way and teaches the hand how it was meant to move.
+dailyMost: The blade passes through the matter with the certainty of something that has already worn itself smooth; no hesitation, all consequence.
+dailyLow: The leather britches simmer untended, the herbs scattered without intention.
+dailyLeast: A blade left in the drawer — sharpness preserved for its own sake, waiting for a task that keeps drifting.
 ---
 
 Desiccated Green Beans are the Bean Zodiac's most honed — all the urgency, none of the waste; all the speed, only toward what deserves it.

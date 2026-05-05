@@ -6,12 +6,12 @@ form: roasted
 trait: guileless
 dish: Butter bean traybake with preserved lemon, roasted garlic, and rosemary
 quote: To bean or not to bean — actually, yes, obviously. Why would you not.
-seasonalFortune: Most of the guilelessness will be repaid — the exceptions are the cost of the thing, not the thing itself.
-dailyNeutral: Take what is in front of you at face value — it is probably what it appears to be.
-dailyGood: Skip the reading-between-the-lines; what was said is what was meant.
-dailyBest: Receive it completely plainly — the uncalculated response is the correct one.
-dailyBad: Read this one a little; the plain taking of it is being exploited by someone who knows exactly what they are doing.
-dailyWorst: Put a guard up. Not everyone who sees the opening is benign.
+seasonalFortune: The preserved lemon dissolves into the oil without apology. What ferments does so openly; what chars does so visibly; what's set to roast will brown exactly as promised. The season asks only that clarity persist through the heat.
+dailyMid: The rosemary releases its oils into the open air.
+dailyHigh: The butter splits at high temperature and clings to nothing but itself — this is the geometry of plain speaking.
+dailyMost: Each layer of the traybake settles into its true place without rearrangement.
+dailyLow: The lemon's sourness mutes beneath other flavours, folding in rather than cutting through.
+dailyLeast: The roast proceeds in shadow; heat works without announcement.
 ---
 
 Chimichurri Butter Beans are the Bean Zodiac's most guileless — nothing behind what they say or do.

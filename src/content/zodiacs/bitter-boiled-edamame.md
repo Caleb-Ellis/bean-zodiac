@@ -6,12 +6,12 @@ form: boiled
 trait: analytical
 dish: Edamame and wakame soup with citrus peel.
 quote: If you can't bean it, you can't manage it.
-seasonalFortune: The remaining variable cannot be measured — when you arrive at the edge of analysis, trust the tasting.
-dailyNeutral: The structure is visible — identify it before making the move.
-dailyGood: Where analysis ends, a single taste tells more than the next hour of reduction.
-dailyBest: Take it apart until the mechanism is fully visible — nothing should remain opaque when the method is applied completely.
-dailyBad: Skip the reduction and taste it now — a good guess beats a late answer.
-dailyWorst: Put the framework down and just decide; the moment has outpaced the method.
+seasonalFortune: The season invites a long study of how things hold themselves together. Some structures dissolve under examination; others strengthen. The difference lies in what was bearing weight and what merely appeared to.
+dailyMid: The broth thickens with layers — citrus cuts through, wakame bends but doesn't snap. There is something worth seeing if the pod is opened carefully enough.
+dailyHigh: Beneath the skin lies a geometry that has been waiting. The pattern doesn't emerge; it was always there, simply unread.
+dailyMost: Disassemble without mercy. The skeleton reveals what the whole concealed.
+dailyLow: The soup is served before the citrus has been squeezed — quick hands, warm bowl, and the wakame decides the rest.
+dailyLeast: The pod opens at a glance. The broth is already on the table, and the geometry can wait for another meal.
 ---
 
 Infused Edamame are the Bean Zodiac's most analytical — they take things apart to understand their structure.

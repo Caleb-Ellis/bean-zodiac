@@ -6,12 +6,12 @@ form: fried
 trait: principled
 dish: Fagioli con alici - pan-fried cannellini with anchovies, garlic, and olive oil.
 quote: The arc of the bean universe is long, but it bends toward justice.
-seasonalFortune: A principle will want to be examined — not to revise it, but to confirm it still means what you need it to mean.
-dailyNeutral: Hold to it — the principle you are standing on is the right ground to be standing on.
-dailyGood: Let the principle be the whole decision — there is no part of this that falls outside it.
-dailyBest: Stand entirely on what you know to be right — the principle holds, and so do you.
-dailyBad: Give the compromise that is being asked for; the situation requires some movement.
-dailyWorst: Bend; the refusal is being named the obstacle and what is at stake is being attributed to it.
+seasonalFortune: The line forms where heat meets conviction, where what remains in the pan is what was always meant to stay. Examine the scent — does it still speak the language it always has.
+dailyMid: The grain holds. The anchor holds.
+dailyHigh: Every thread traces back to the same thread. The spine does not splinter.
+dailyMost: The oil carries the conviction through the fire — nothing burns that shouldn't, nothing yields that shouldn't.
+dailyLow: The surface reflects what surrounds it. The shape knows many configurations.
+dailyLeast: The current asks for the turn; the pattern shifts where pressure touches it.
 ---
 
 Tempura Cannellini Beans are the Bean Zodiac's most principled — they act at heat, without waiting to see which way the room goes.

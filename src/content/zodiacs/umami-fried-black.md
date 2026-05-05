@@ -6,16 +6,16 @@ form: fried
 trait: focused
 dish: Stir-fried black beans with oyster sauce, ginger, and scallion.
 quote: The bean's rays do not burn until brought to a focus.
-seasonalFortune: An exclusion will have been correct — return briefly to the periphery before it ends, and confirm nothing important has been lost there.
-dailyNeutral: Stay on it — the attention you are giving it is exactly what it needs.
-dailyGood: Narrow further — the thing you are looking at has more to give if you go closer.
-dailyBest: Give it your complete attention — everything else can wait.
-dailyBad: Attend to what has been set aside; the ask is not going to wait for the focus to lift on its own.
-dailyWorst: Turn to the periphery; the gap left by the focus has become a problem and it is being named.
+seasonalFortune: The flame that narrows leaves char at its edges — as the season wanes, sift through the cinders and find what the heat erased.
+dailyMid: The wok holds steady; oil trembles in small circles.
+dailyHigh: The bean surrenders to the moment — sear marks deepen, texture contracts inward.
+dailyMost: A single point of attention becomes the entire kitchen; everything else dissolves at the rim.
+dailyLow: The scallion's layers unfold in many directions at once.
+dailyLeast: Steam rises in ten thousand threads; the wok breathes without intention.
 ---
 
 Tempura Black Beans are the Bean Zodiac's most focused — they've already decided what matters and they're there completely.
 
 Black Beans watch everything; Umami Beans know which thing deserves full attention; Fried Beans deliver the decision at heat.
 
-The Tempura Black Bean's challenge is what has been set aside. They must occasionally attend to the periphery to ensure nothing important has been lost there.
+The challenge is the periphery. What gets excluded doesn't stay excluded.

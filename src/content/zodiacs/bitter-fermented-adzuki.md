@@ -6,12 +6,12 @@ form: fermented
 trait: nostalgic
 dish: Adzuki paste with aged miso and bitter yuzu kosho.
 quote: The past is never dead. It's not even bean.
-seasonalFortune: A memory is going to point at something ahead — follow the pointing, not the memory itself.
-dailyNeutral: Return to the good thing — not to stay, but to bring something back.
-dailyGood: What has been is worth holding; carry it forward as orientation, not anchor.
-dailyBest: The past is fully present in you — let it inform everything about what you do now.
-dailyBad: Stay in the present today; what came before is not what this moment needs from you.
-dailyWorst: Put the past down entirely and face what is directly in front of you — it cannot wait for the comparison.
+seasonalFortune: Fermentation deepens the flavor of what already existed — in the dark. This season, the past's umami is available, but only to those who've let it age.
+dailyMid: A fold of yesterday's bean paste finds its place in the morning's soup.
+dailyHigh: The aged miso carries knowledge that fresh salt cannot; a foundation remembers.
+dailyMost: The pressure that turned beans into cultured wisdom now becomes tomorrow's texture.
+dailyLow: The paste is served fresh — no aging, no depth, a dish with nothing behind it.
+dailyLeast: The jar sits empty of memory; the yuzu kosho bites without context, bright and brief.
 ---
 
 Cultured Adzuki Beans are the Bean Zodiac's most nostalgic — they hold attachment to what has been good, worked through privately.

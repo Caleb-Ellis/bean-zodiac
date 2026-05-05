@@ -3,19 +3,19 @@ slug: spicy-dried-kidney
 bean: kidney
 flavour: spicy
 form: dried
-trait: volcanic
+trait: primed
 dish: Red beans and rice - New Orleans style with andouille and cayenne.
 quote: Anger is an acid that can do more harm to the bean in which it is stored than to anything on which it is poured.
-seasonalFortune: What is accumulating will find its own timing if you do not find it first. Read the signs earlier than you did last time.
-dailyNeutral: Read the pressure now, while a channel can still be chosen.
-dailyGood: The accumulation is significant; find the channel before it finds one.
-dailyBest: The full force is at the surface — direct it entirely before the timing chooses itself.
-dailyBad: Find a new channel before the pressure finds its own exit — the one you were counting on has been blocked.
-dailyWorst: Find a channel immediately — what built up had no direction and has already begun to take its own.
+seasonalFortune: The dried pod holds its fire through the long dark months — what simmers now will season the whole meal when it breaks open.
+dailyMid: Spice settles deeper into the grain with each hour; the heat compounds, a slow climb.
+dailyHigh: The andouille's smoke winds tighter through the pot; pressure rises where the lid sits.
+dailyMost: The moment arrives when pressure and spark meet — the grain splits, the fire escapes, everything transforms.
+dailyLow: The flavors spread loose and wide, each one separate from the rest.
+dailyLeast: The broth cools before the rice can drink it in; the timing runs wide.
 ---
 
-Sichuan Kidney Beans are the Bean Zodiac's most volcanic — pressure building in silence until the surface can no longer hold it.
+Sichuan Kidney Beans are the Bean Zodiac's most primed — the accumulation has been building long enough that the next trigger will not need to be significant.
 
-Kidney Beans carry passion that does not diminish; Spicy Beans make force immediate and total; Dried Beans seal the interior, letting heat accumulate without release until it finds its own way out.
+Kidney Beans carry passion that does not diminish; Spicy Beans make force immediate and total; Dried Beans seal the interior, letting energy accumulate without release until it finds its own way out.
 
-The Sichuan Kidney Bean's challenge is the warning signs ignored. These Beans rarely erupt without cause — but the cause is often older than the moment of eruption. They must learn to tend the pressure before it tends itself.
+The Sichuan Kidney Bean's challenge is the warning signs ignored. These Beans rarely release without cause — but the cause is often older than the moment of release. They must learn to tend the pressure before it tends itself.

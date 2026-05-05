@@ -6,12 +6,12 @@ form: roasted
 trait: witty
 dish: Roasted edamame with bitter lemon zest and smoked paprika.
 quote: A bean is a terrible thing to waste.
-seasonalFortune: The sharpest thing you could say will not be the funny one — let one thing be said plainly, without the angle.
-dailyNeutral: Find the angle — it is there, and the room will be better for it.
-dailyGood: The sharpest version is available; deliver it at full precision.
-dailyBest: Everything here has an edge — find each one and use it without pulling a single punch.
-dailyBad: Drop the angle and say it straight; the room came for the answer, not the performance.
-dailyWorst: Put the wit down entirely and just tell them — the sharpness is getting in the way of the thing itself.
+seasonalFortune: Lemon zest brightens without sweetening — it sharpens what's already there. The season rewards the well-placed remark over the obvious one, the edge that arrives warm rather than cold.
+dailyMid: The paprika settles into the shell. A dry observation, landed just so, opens more than a direct question.
+dailyHigh: Bitter zest at its peak — the precise word cuts clean and leaves no bruise.
+dailyMost: Release every layer. Smoke, zest, salt — nothing held in reserve. The wit is the gift; give it all.
+dailyLow: The paprika is listed before the lemon zest on the dish — earnestly, literally, in order. The wood-fired edamame arrives warm and straightforward.
+dailyLeast: Smoke, shell, salt — each noted in turn, each taken at face value. The lemon zest goes unremarked upon.
 ---
 
 Wood-Fired Edamame are the Bean Zodiac's wittiest — they are sharp without making others feel small.

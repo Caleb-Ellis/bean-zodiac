@@ -45,11 +45,18 @@ export function computeSpiritBeanScores(
   for (const entry of history) {
     const s = entry.score ?? 0;
     if (s === 0) continue;
-    const magnitude =
-      entry.qualityId === "heirloom" || entry.qualityId === "rotten" ? 2 : 1;
-    const sign =
-      entry.qualityId === "stale" || entry.qualityId === "rotten" ? -1 : 1;
-    const adjustedS = sign * magnitude * s;
+    let adjustedS: number;
+    if (entry.qualityId === "heirloom") {
+      adjustedS = s > 0 ? 2 : -1;
+    } else if (entry.qualityId === "rotten") {
+      adjustedS = s > 0 ? -2 : 1;
+    } else if (entry.qualityId === "stale") {
+      adjustedS = -s;
+    } else if (entry.qualityId === "garden") {
+      adjustedS = s > 0 ? 1 : 0;
+    } else {
+      adjustedS = s;
+    }
     const [f, frm, b] = entry.zodiacId.split("-") as [
       FlavourId,
       FormId,

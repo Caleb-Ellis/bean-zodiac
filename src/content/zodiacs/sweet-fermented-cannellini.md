@@ -6,12 +6,12 @@ form: fermented
 trait: diplomatic
 dish: Cannellini and sake kasu soup — white beans simmered in sweet rice-lees broth with sugar and a curl of yuzu peel.
 quote: Let us never negotiate out of bean. But let us never fear to negotiate.
-seasonalFortune: The candid version will be available — find the moment where it serves better than the diplomatic one.
-dailyNeutral: Find the reading of things that makes the most room.
-dailyGood: The bridge you build will carry more than its immediate weight.
-dailyBest: Hold the whole of it — every side, every tension — and find the line that moves through all of them.
-dailyBad: Say the direct version — the careful framing is a way of not saying the thing.
-dailyWorst: Give the unhandled version; the truth has been smoothed past the point of use.
+seasonalFortune: The broth thickens in the dark. When clarity is called for, the sediment rises — what was clarity enough alone becomes necessity itself.
+dailyMid: The bean softens all it touches; the broth absorbs what each corner brings.
+dailyHigh: The edges dissolve into something everyone can taste.
+dailyMost: All the brine and sweetness, every note of ferment — held in one bowl.
+dailyLow: The straight edge cuts through. The words arrive before the breath.
+dailyLeast: The bean breaks before it yields. Hardness leaves no room for what might come after.
 ---
 
 Funky Cannellini Beans are the Bean Zodiac's most diplomatic — they find the arrangement everyone can live with, usually before the conversation begins.

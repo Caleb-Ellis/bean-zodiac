@@ -6,12 +6,12 @@ form: dried
 trait: rigid
 dish: Boston Baked Beans - with blackstrap molasses.
 quote: Rules are for the guidance of wise beans and the obedience of fools.
-seasonalFortune: A rule you follow will be tested by something it was not designed for — when that happens, ask whether the rule has earned this defense.
-dailyNeutral: The principle holds — apply it exactly as it was designed.
-dailyGood: The structure is correct; do not allow the pressure of the moment to shift it.
-dailyBest: No adjustment, no exception, no deviation — the position holds entirely.
-dailyBad: Allow the exception; a structure that cannot flex here was not built for this.
-dailyWorst: Abandon the position entirely — what you are defending has outrun the reason it was built.
+seasonalFortune: The mold hardens around the beans as they dry. When winter comes, what was formed in autumn asks - does the vessel still cradle what it was meant to hold, or only the shape of what was?
+dailyMid: The blackstrap thickens where it settles. Layers build from what does not move.
+dailyHigh: The beans hold their dark color through the longest soak — the bitterness leaches nothing.
+dailyMost: The oven's heat cannot compromise the line between the bean and everything else. Boundaries remain.
+dailyLow: The molasses runs differently this year. The recipe loosens where it once held firm.
+dailyLeast: The water takes the shape of whatever holds it. The beans drift easy in the broth.
 ---
 
 Desiccated Navy Beans are the Bean Zodiac's most rigid — the principle is correct, the method is proven, and there is no argument that will move them.

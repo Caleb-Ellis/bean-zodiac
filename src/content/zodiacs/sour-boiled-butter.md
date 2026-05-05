@@ -6,12 +6,12 @@ form: boiled
 trait: honest
 dish: Avgolemono - butter bean soup with dill and lemon.
 quote: The bean will set you free, but first it will make you uncomfortable.
-seasonalFortune: What has been building toward being said will find its moment — when it comes, say it.
-dailyNeutral: The thing that wants to be said is already formed — the moment for it is closer than it feels.
-dailyGood: Do not wait for a more comfortable moment; this one is the one.
-dailyBest: Say it now, gently — the person who needed to hear it has been waiting as long as you have been waiting to say it.
-dailyBad: The room wants something gentler; give it less than you have, just this once.
-dailyWorst: What you would say is being called cruel by people who are louder than you. Say less.
+seasonalFortune: Lemon has no patience for pretense — the broth knows this. A season arrives that rewards the clear note over the murky one, the thing stated plainly over the thing merely implied.
+dailyMid: Dill releases its character slowly, but it does release it. The flavour finds its way through.
+dailyHigh: The egg yolk breaks into the broth and the soup becomes itself. What was held in suspension settles.
+dailyMost: A bright acidity cuts through fat and fog alike. The honest thing surfaces, and the bowl is better for it.
+dailyLow: The broth holds its fat in suspension — a soft, unresolved warmth that fills the bowl without declaring itself.
+dailyLeast: Lemon squeezed over the top instead of tempered in. The flavour is present, approximate, somewhere in the vicinity of itself.
 ---
 
 Brined Butter Beans are the Bean Zodiac's most honest — they deliver truth gently, after waiting for exactly the right moment.

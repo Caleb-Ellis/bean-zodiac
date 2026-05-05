@@ -6,16 +6,16 @@ form: dried
 trait: formidable
 dish: Fave e cicoria - dried fava bean puree with wilted bitter chicory and olive oil.
 quote: A bean in the hand is worth two in the bush.
-seasonalFortune: A shape will be perceived — let those who need it find it useful.
-dailyNeutral: Move toward what requires you — your presence changes the shape of what is possible.
-dailyGood: Bring the full weight of what you have built — the moment can hold it.
-dailyBest: Let yourself be entirely what you are — the depth and the force, together, with nothing held back.
-dailyBad: Reduce the scale; what is here cannot hold the full weight of what you carry.
-dailyWorst: Compress what you carry; this space was not built for the size of it.
+seasonalFortune: The broth thickens where time has done its work. This season calls for what cannot be rushed — the density that settles only after pressure and patience have folded into the grain.
+dailyMid: The puree holds a structure beneath its surface, built from collapse that became inevitable strength.
+dailyHigh: What was once scattered grain has consolidated into something that shifts the weight of the whole dish.
+dailyMost: The olive oil catches here — where foundation meets flourish, austere becomes generous.
+dailyLow: The chicory opens instead, unfurling against the ease of the moment.
+dailyLeast: Lightness moves through — the grain remains, but unburdened.
 ---
 
 Aged Fava Beans are the Bean Zodiac's most formidable — accumulated depth behind the courage, and neither one asking permission.
 
 Fava Beans move toward difficulty without hesitation; Umami Beans bring the weight of substance that has taken time to build; Dried Beans seal it, making the whole more dense than it appears.
 
-The Aged Fava Bean's challenge is the room that clears before they speak. Formidability without warmth is intimidation. These Beans must find ways to make the depth accessible — not only the force.
+The Aged Fava Bean's challenge is the silence that opens before they speak. Formidability without warmth is intimidation. These Beans must find ways to make the depth accessible — not only the force.

@@ -6,12 +6,12 @@ form: dried
 trait: volatile
 dish: Gigantes plaki - Greek baked giant beans with dried Calabrian chili and preserved lemon.
 quote: Still waters bean deep.
-seasonalFortune: A shift is coming that will surprise even you — learn the early signs now, while there is still time to choose where the heat lands.
-dailyNeutral: The temperature is readable before it shifts. Pay attention now.
-dailyGood: The change is already in motion; get ahead of where the heat will land.
-dailyBest: The full shift is coming — direct it completely before it finds its own direction.
-dailyBad: Step back from what is pressing against you — it cannot read the threshold, and you are closer to it than you think.
-dailyWorst: Touch nothing — everything is spark right now, and whatever makes contact will set something off.
+seasonalFortune: Salt crystals gather around what cannot escape. The sealed vessel holds pressure that waits — whether it rises as steam or settles as sediment depends on what the hand chooses to disturb. The lemon's bitterness and the chili's fire already know their rhythm; the question is whether the bean learns to breathe between them.
+dailyMid: The surface stays smooth while the oil beneath begins its dark work.
+dailyHigh: Heat flares with sharp edges; the broth starts to remember which way it wants to move.
+dailyMost: The bean cracks open and becomes the architect of everything around it — nothing moves without consulting its rupture first.
+dailyLow: The sealed pot holds steady; the bean rests unshaken in its brine, asking nothing of the heat.
+dailyLeast: The heat and salt maintain their distance — the bean floats unchanged between them, neither pushed nor pulling.
 ---
 
 Sichuan Butter Beans are the Bean Zodiac's most volatile — the calm is present, until suddenly it isn't.

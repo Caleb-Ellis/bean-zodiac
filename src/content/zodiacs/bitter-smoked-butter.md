@@ -6,12 +6,12 @@ form: smoked
 trait: dreamy
 dish: Smoked butter bean with bitter herb oil.
 quote: We are such stuff as beans are made on.
-seasonalFortune: The distance between you and the present will open again — return a little earlier than last time.
-dailyNeutral: Let the drift continue — the distance is not yet a problem.
-dailyGood: Stay in the dream; what is there is more real than what is insisting on your attention.
-dailyBest: Go all the way into it — the present will still be there when you return.
-dailyBad: Come back to what is in front of you; the drift has gone far enough and something here needs you.
-dailyWorst: Return fully and stay — the distance has stopped being peaceful and started being a problem for the people in the room.
+seasonalFortune: Smoke enters the fat slowly, over hours — and the fat holds it long after the fire is cold. This season belongs to that kind of absorption. What drifts in without announcement will outlast what arrives with urgency.
+dailyMid: The herb oil spreads at its own pace. The dream doing its quiet work needs no witness.
+dailyHigh: Bitter and fat find each other through the smoke — the combination lands before the logic does.
+dailyMost: Follow the drift all the way to the back of the room. That is where the full flavor lives.
+dailyLow: The herb oil sits exactly where it landed. The dish is present, accounted for, thoroughly on the plate.
+dailyLeast: Smoked butter bean, bitter herb oil — the dish is what it says. The smoke is just smoke.
 ---
 
 Charcoal Butter Beans are the Bean Zodiac's most dreamy — their calm has drifted far enough from the present that it is difficult to locate in real time.

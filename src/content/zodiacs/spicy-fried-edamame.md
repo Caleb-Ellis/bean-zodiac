@@ -6,12 +6,12 @@ form: fried
 trait: bold
 dish: Spicy edamame gyoza - pan-fried dumplings with doubanjiang dipping sauce.
 quote: Fortune favours the bean.
-seasonalFortune: A move will be correct — check once before it that you are still going first and not going alone.
-dailyNeutral: Go first. The moment is right and the move is clear.
-dailyGood: The boldness is warranted; check once that you are going first, not going alone.
-dailyBest: Go first, completely — bring the full weight of what you know and hold the door.
-dailyBad: Close the door — the bold move was made and nothing followed.
-dailyWorst: Wait rather than lead; what is needed here is someone to hold back, not someone to go first.
+seasonalFortune: The oil holds heat that asks to be answered. Steam rises first; the pan decides what follows. This season, boldness finds its vessel — whether the vessel receives it alone or surrounded by warmth.
+dailyMid: The heat peaks. Move while the moment still breathes steam.
+dailyHigh: The sauce sings first. The edamame that reaches the plate will shape what others reach for.
+dailyMost: Dip first — the spice spreads wider than hesitation, and the door that opens early stays open longest.
+dailyLow: The salt rests on skin. Patience has its own temperature.
+dailyLeast: The doubanjiang settles. Some moments ask for slower hands.
 ---
 
 Red-Hot Edamame are the Bean Zodiac's most bold — they go first without waiting for ideal conditions.

@@ -6,12 +6,12 @@ form: fermented
 trait: rebellious
 dish: Fava and pixian doubanjiang stir-fry - fava beans with fermented broad bean chili paste and garlic shoots.
 quote: The most common way beans give up their power is by thinking they don't have any.
-seasonalFortune: The rebellion will need its reasoning surfaced — enough that others can decide whether to follow.
-dailyNeutral: Push against it — the thing that should be different deserves the pressure.
-dailyGood: Hold your ground — the resistance you are offering is doing its work.
-dailyBest: Refuse it entirely; the refusal has been earned and the full force of it is justified.
-dailyBad: Count what the refusal is costing; the pressure to fall in line is coming from somewhere that matters.
-dailyWorst: Fall in line on this one; the refusal is being named the problem and the context cannot hold it.
+seasonalFortune: The ferment deepens in chambers sealed against outside noise. What emerges carries the fingerprints of its own refusal — aged, concentrated, unmistakably itself.
+dailyMid: The brine holds firm, pressed down by the weight of its own conviction.
+dailyHigh: The paste breaks open walls with its umami density. The chili paste cuts through resistance with ancient certainty.
+dailyMost: Garlic shoots rise through layers without permission. The doubanjiang's dark red claims its space without apology.
+dailyLow: The current moves freely between forms, adjusting where pressure appears. Brine and broth find their level.
+dailyLeast: Ingredients dissolve into the greater whole, their separate nature softening into harmony.
 ---
 
 Miso Fava Beans are the Bean Zodiac's most rebellious — their refusal comes from deep, private examination.

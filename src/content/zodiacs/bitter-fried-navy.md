@@ -6,12 +6,12 @@ form: fried
 trait: judgmental
 dish: Crispy navy beans with bitter chicory and anchovy.
 quote: Do not judge others before you have walked a mile in their beans.
-seasonalFortune: A case you are closing will have a loose end — leave it open one more week before the judgment becomes permanent.
-dailyNeutral: The standard applies here — measure it accordingly.
-dailyGood: The case is clear; deliver the assessment without softening.
-dailyBest: The verdict is ready — hold it fully and without revision.
-dailyBad: Leave the case open another day; a verdict that can't wait is probably wrong.
-dailyWorst: Suspend the judgment entirely — what you are about to close should have stayed open.
+seasonalFortune: The anchovy sharpens everything it touches — not to wound, but to clarify. This season, the palate that named the flaw early will be trusted longest.
+dailyMid: The chicory does not soften at the edge of the pan. What is bitter stays bitter, and the judgment holds.
+dailyHigh: Crisp all the way through — no soft center, no second-guessing the heat.
+dailyMost: The verdict arrived before the plate cooled. Name it.
+dailyLow: The chicory sits in the oil a moment longer, neither searing nor settling — the verdict stays open.
+dailyLeast: The anchovy holds back, the pan stays warm, and the crisp shell waits for a call that keeps deferring.
 ---
 
 Scorched Navy Beans are the Bean Zodiac's most judgmental — they evaluate quickly and hold firm.

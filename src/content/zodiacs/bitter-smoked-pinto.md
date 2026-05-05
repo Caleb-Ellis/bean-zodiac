@@ -6,12 +6,12 @@ form: smoked
 trait: intricate
 dish: Smoked pinto with bitter cacao, finely layered.
 quote: The bean is in the details.
-seasonalFortune: The map you have been making will be needed — let one thread be followed to its end, so someone else can use it.
-dailyNeutral: Follow one more layer — the map is not yet complete.
-dailyGood: Go deeper into the structure; what is there has not yet been fully charted.
-dailyBest: Lay out the full complexity — every layer, every thread, the entire elaborate interior made visible.
-dailyBad: Give them the simpler version; the full complexity is yours, but it is not what this moment needs.
-dailyWorst: Strip it back to one thread and hand that over — the rest can stay on the map, but the map is not what they asked for.
+seasonalFortune: A slow smoke pulls bitterness into depth — the cacao crust holds its structure long past the point where simpler things have dissolved. The season rewards those whose marbling runs all the way through.
+dailyMid: The smoke has settled into the grain; the layering is doing its quiet work beneath the crust.
+dailyHigh: Cacao and char have found each other at the exact stratum where the flavour turns — the structure holds what a quicker hand would miss.
+dailyMost: Unfold every layer — smoke into fat, fat into bean, bean into the fine print of the marbling itself.
+dailyLow: The crust carries the day — smoke at the surface, cacao at the rim, the pinto plain beneath.
+dailyLeast: One note, full pot — the cacao whole, the smoke thin, the marbling a pattern and no more.
 ---
 
 Charcoal Pinto Beans are the Bean Zodiac's most intricate — their inner landscape is elaborate, and they have been the only one with the map.

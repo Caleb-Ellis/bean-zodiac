@@ -6,12 +6,12 @@ form: fermented
 trait: clever
 dish: Dahi chana - chickpeas with yogurt, tamarind chutney, and chaat masala.
 quote: The secret of being a bean bore is to tell everything.
-seasonalFortune: The solution has been worked long enough — give it to the room and find out what happens when it meets the world.
-dailyNeutral: The connection you have made is the right one — use it.
-dailyGood: The clever route is also the correct route; take it.
-dailyBest: Trust the full architecture of what you have worked out — bring it into the open and let it run.
-dailyBad: Use the obvious solution; the room has already picked it and fighting that will cost more than the elegance is worth.
-dailyWorst: Put the clever version away. Someone has used the word "showing off" and it has stuck.
+seasonalFortune: The brine has done its work in the dark; now the ferment emerges to teach those still in the cask.
+dailyMid: A layer beneath the surface calls the pattern into focus.
+dailyHigh: The spice was always there — today the palate remembers why it was added.
+dailyMost: Each element speaks to the next; the dish hums with what was understood before the tasting.
+dailyLow: The straightforward path yields what is needed, without branching.
+dailyLeast: The flavours are single notes, ringing clear and unadorned.
 ---
 
 Pickled Chickpeas are the Bean Zodiac's most clever — they find solutions while others still map problems.

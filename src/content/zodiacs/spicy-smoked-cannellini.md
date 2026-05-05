@@ -3,19 +3,19 @@ slug: spicy-smoked-cannellini
 bean: cannellini
 flavour: spicy
 form: smoked
-trait: scalding
+trait: trenchant
 dish: Cazuela de alubias - Castilian white bean stew with smoked chorizo and pimentón ahumado.
 quote: Out of the frying pan and into the bean.
-seasonalFortune: A precision at full temperature is coming — remember that calibration and scalding come from the same source.
-dailyNeutral: The precision is real — apply it where the cut is genuinely needed.
-dailyGood: The full temperature is behind the precision; check the calibration before deploying.
-dailyBest: Bring the full searing precision — completely, and with the calibration that makes it refinement rather than excess.
-dailyBad: Lower the precision — what it is being applied to cannot hold this temperature.
-dailyWorst: Accept the withdrawal; the target has pulled back entirely and nothing available can receive the full cut.
+seasonalFortune: The smoke reveals distinctions others miss — what holds flavor, what merely fills space. This season demands knowing the difference, and holding it. The risk lies in forgetting why the cut was necessary at all.
+dailyMid: Smoke lingers on the surface; beneath, the grain separates itself.
+dailyHigh: The rim of the bowl holds the essence; the center falls away clean.
+dailyMost: The smoke remembers only what matters. Everything else evaporates.
+dailyLow: Flavors merge at the edges; boundaries soften and blur.
+dailyLeast: The broth diffuses through each bean, indistinct — nothing stands apart.
 ---
 
-Chipotle Cannellini Beans are the Bean Zodiac's most scalding — their refinement has found a precision that burns.
+Chipotle Cannellini Beans are the Bean Zodiac's most trenchant — their refinement has found a precision that cuts clean and lingers.
 
-Cannellini Beans remove what does not belong with practiced calm; Spicy Beans make the removal feel immediate and total; Smoked Beans give the cut a quality that leaves heat long after the source has moved on.
+Cannellini Beans remove what does not belong with practiced calm; Spicy Beans make the removal immediate and total; Smoked Beans give the cut a quality that leaves an impression long after the source has moved on.
 
-The Chipotle Cannellini Bean's challenge is calibration. Precision without modulation is a different kind of excess. These Beans must remember that the most refined response is not always the most searing one.
+The Chipotle Cannellini Bean's challenge is calibration. Trenchant delivered without modulation is a different kind of excess. These Beans must remember that the most refined response is not always the sharpest one.

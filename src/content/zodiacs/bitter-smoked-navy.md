@@ -6,12 +6,12 @@ form: smoked
 trait: ominous
 dish: Smoked navy bean with bitter juniper and char.
 quote: It was a dark and beany night.
-seasonalFortune: What is gathering will arrive — say it in a way that can be heard, before the weather does.
-dailyNeutral: Name what is gathering — it will arrive whether you speak or not.
-dailyGood: Say it clearly; they need time to prepare before the weather turns.
-dailyBest: Deliver the full forecast without softening — being believed is not a condition of being right.
-dailyBad: Soften the delivery; the warning is real, but the form it is in is closing ears before it lands.
-dailyWorst: Let this one go without the forecast — sometimes the right call is letting the weather speak for itself.
+seasonalFortune: Char settles before smoke rises — what the juniper already knows, the air will confirm in time.
+dailyMid: The bitter edge arrives first, a small announcement before the rest follows.
+dailyHigh: Smoke carries further than the fire that made it — something felt now will be understood later.
+dailyMost: Read the char. The smolder knows what the flame will say.
+dailyLow: The juniper reads as sweet today, and the char as just char — the dish pleasant, nothing more.
+dailyLeast: All smoke, all warmth — the bitter edge gone quiet, the signal lost in the comfort of the meal.
 ---
 
 Charcoal Navy Beans are the Bean Zodiac's most ominous — their sense of what is coming tends to be correct, and they say so in a way that is difficult to dispute.

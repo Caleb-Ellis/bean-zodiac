@@ -6,12 +6,12 @@ form: boiled
 trait: moody
 dish: Frijoles de olla - pinto beans simmered with chile de árbol.
 quote: I am not moody — I am a bean with feelings.
-seasonalFortune: A recurring pattern will become visible — let the Beans near you know when the significant one is approaching.
-dailyNeutral: The weather is yours — let it move through fully.
-dailyGood: The shift is real and total; let those nearby know what is happening.
-dailyBest: Every emotional front arriving is genuine — meet each one entirely and mean it.
-dailyBad: Slow down enough to bring those nearby along — they have lost the thread.
-dailyWorst: Hold steady — the pressure to flatten everything and push through will not stop.
+seasonalFortune: The broth thickens with the turning of the season — what simmers beneath will rise in waves, each one distinct, each one necessary. The chile's heat builds slowly and arrives without warning, turning the liquid dark, turning the beans soft, turning what was simple into something alive.
+dailyMid: The broth shifts color between dawn and dusk. The heat does not hold still.
+dailyHigh: The chile announces itself completely — there is no mistaking what is in the pot.
+dailyMost: The beans absorb everything the liquid offers, and the liquid becomes something new with each hour of heat.
+dailyLow: The broth settles into one temperature and holds. The beans soften at a steady pace.
+dailyLeast: The simmering hums at the same frequency all day long. The spices dissolve into the background.
 ---
 
 Braised Pinto Beans are the Bean Zodiac's moodiest — their weather changes constantly and means it each time.

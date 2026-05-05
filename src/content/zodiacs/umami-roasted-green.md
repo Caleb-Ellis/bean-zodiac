@@ -6,12 +6,12 @@ form: roasted
 trait: curious
 dish: Roasted green beans with katsuobushi, ponzu, and sesame.
 quote: Curiosity is the bean, always leading to new discoveries.
-seasonalFortune: A tangent is coming that deserves more than curiosity usually asks — go deeper.
-dailyNeutral: Follow what interests you — the thing you are drawn to has something in it.
-dailyGood: Go further than the first answer — the question you are in deserves a second look.
-dailyBest: Let the curiosity take you all the way — the thing you are pursuing will give up its full depth if you stay.
-dailyBad: Give the answer being asked for; the question is being treated as delay.
-dailyWorst: Land on a conclusion; the exploration is being named avoidance and the wandering is being named the problem.
+seasonalFortune: The ponzu soaks deeper than its surface gloss — what begins as questioning taste becomes the foundation of knowing.
+dailyMid: Sesame seeds multiply under attention, each one distinct where once seemed uniform.
+dailyHigh: The bonito flakes drift and reform with each breath — following their scatter reveals the shape of flavor itself.
+dailyMost: Steep into the broth and extract what wants to be found — the beans surrender their secrets to patient heat.
+dailyLow: The plate holds many flavors calling at once, each claiming equal urgency.
+dailyLeast: The scatter overwhelms the still center, motion mistaken for progress.
 ---
 
 Rendered Green Beans are the Bean Zodiac's most curious — their interest is warm, wide, and without agenda.

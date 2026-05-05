@@ -6,12 +6,12 @@ form: boiled
 trait: prolific
 dish: Ohitashi - green beans blanched and dressed with dashi and bonito flake.
 quote: Quantity produces bean quality.
-seasonalFortune: An accumulation will become visible — see the whole before you begin again.
-dailyNeutral: Make the next thing; the doing is the whole of it.
-dailyGood: Keep going; the volume is becoming something worth looking at.
-dailyBest: Let it all come — the accumulation is the work, and you are capable of all of it.
-dailyBad: The ask is for something finished, not something new.
-dailyWorst: Output and need have stopped overlapping.
+seasonalFortune: The dashi deepens with each pass through the pot. Layer upon layer of umami compounds in the broth — what began as a single moment of heat becomes a reservoir. This is the season of accumulation; the flavour grows without asking permission.
+dailyMid: The blanching waters warm with each plunge. Residue settles at the bottom, evidence of work continuing.
+dailyHigh: Bonito flakes scatter like seeds across the surface. What was singular begins to pattern and repeat.
+dailyMost: The broth overflows the vessel. The hand cannot empty faster than the pot fills.
+dailyLow: A single bean rests on the plate, fully dressed. The silence between courses stretches.
+dailyLeast: The pot sits cooling. The blade rests in stillness.
 ---
 
 Dashi Green Beans are the Bean Zodiac's most prolific — they produce, and what they've made accumulates into something substantial.

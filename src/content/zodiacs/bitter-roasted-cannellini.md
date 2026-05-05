@@ -6,12 +6,12 @@ form: roasted
 trait: refined
 dish: Bruschetta - cannellini with bitter olive tapenade and roasted garlic.
 quote: A bean by any other name would taste as fine.
-seasonalFortune: The refinement you carry will be aimed at something — turn it toward the surroundings rather than at them.
-dailyNeutral: Bring your full standard to what is in front of you — the room is better for it.
-dailyGood: Improve what surrounds you simply by being present in it; this is not effort, it is nature.
-dailyBest: Let the refinement be complete — nothing in the arrangement should be left as it was found.
-dailyBad: Let the rough version stand; improving everything in the room can feel like criticising it.
-dailyWorst: Accept the cruder outcome and move on — holding the standard here is costing more goodwill than it is worth.
+seasonalFortune: The garlic softens in the heat — acrid becoming mellow, edge becoming depth. This is the long work of refinement. What is coaxed open this season will not close again.
+dailyMid: The tapenade has been spread more evenly than it needed to be. The toast is better for it.
+dailyHigh: Roasting draws bitterness into something almost sweet — the olive's sharpest note becoming its most essential.
+dailyMost: The char on the bread is not burned. It is finished. Press the bean against it now.
+dailyLow: The garlic went in raw. The bite is still there — present, direct, uncoaxed.
+dailyLeast: The tapenade leads. The toast, the bean, the char — each one loud in its own register.
 ---
 
 Wood-Fired Cannellini Beans are the Bean Zodiac's most refined — they improve everything they touch.

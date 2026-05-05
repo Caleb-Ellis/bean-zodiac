@@ -6,12 +6,12 @@ form: fried
 trait: serious
 dish: Bindaetteok - Korean mung bean pancakes with kimchi and soy dipping sauce.
 quote: Life is too important to be taken bean.
-seasonalFortune: A small thing will arrive — let it be exactly as small as it is.
-dailyNeutral: Bring the full weight — the seriousness you are bringing is the appropriate response.
-dailyGood: Give it the gravity it deserves — the considered approach is the right one here.
-dailyBest: Treat it as though everything depends on it — for you, in this, it does.
-dailyBad: Bring some lightness; the gravity is being felt as a heaviness the moment cannot hold.
-dailyWorst: Ease it; the seriousness is being named as exhausting and the source of that naming matters.
+seasonalFortune: The season holds more than appears in a first passing. What settles at the bottom of the bowl is the part worth returning to again.
+dailyMid: The oil darkens as it holds heat. There are layers underneath.
+dailyHigh: Each grain in the batter carries its own weight. A careful eye finds where the crust cracks reveal the density within.
+dailyMost: The soy darkens at the bottom of the dish. Let the weight of that depth season everything.
+dailyLow: The surface catches light and moves quickly past.
+dailyLeast: Flavors scatter and disperse. The air carries more than the bowl does.
 ---
 
 Tempura Mung Beans are the Bean Zodiac's most serious — they bring the same gravity to all things.

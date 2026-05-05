@@ -6,12 +6,12 @@ form: dried
 trait: perennial
 dish: Green bean gangjeong — dried green beans lacquered in honey and rice syrup, coated in sesame, and shaped into Korean confection pieces.
 quote: No matter how long the winter, spring is sure to bean.
-seasonalFortune: The effort behind the renewal will want to be seen — let those around you see it before they mistake it for effortlessness.
-dailyNeutral: Return to it — the energy is there.
-dailyGood: The renewal has already started; you are in it.
-dailyBest: You came back again, and it was noticed — let the full return be seen.
-dailyBad: You are back again but nothing has changed; the return is looking like a loop.
-dailyWorst: What was once a return is now just another turn in the cycle.
+seasonalFortune: The sweetness lives in the gaps. Honey remembers the flower it came from and the seasons it must endure — returning not because it forgets, but because the cycle cannot hold still.
+dailyMid: Sesame clings where syrup has already settled.
+dailyHigh: The husk fractures inward, each crack a passage to what comes next.
+dailyMost: Spring whispers through the dried pod before winter has finished its work.
+dailyLow: The beans rest in their glazed stillness, asking nothing of the pan.
+dailyLeast: The amber holds what it holds, waiting for a thaw that may never arrive.
 ---
 
 Crystallised Green Beans are the Bean Zodiac's most perennial — the freshness never depletes; the energy renews before it runs out.

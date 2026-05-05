@@ -6,12 +6,12 @@ form: fermented
 trait: sympathetic
 dish: Sikhye with red beans — Korean sweet fermented rice punch with kidney beans, served chilled with pine nuts floating on top.
 quote: Could a greater bean or miracle take place than for us to look through each other's bean for an instant?
-seasonalFortune: A difficulty will arrive that is different from yours — leave room for it to be what it is, not what you would expect.
-dailyNeutral: Meet what is in front of you where it actually is.
-dailyGood: The difficulty is real on its own terms — receive it fully before responding.
-dailyBest: Open to it completely — the capacity you carry is exactly what this asks for.
-dailyBad: Wait for the full picture; a side has been taken before it arrived.
-dailyWorst: Let the new information in — the position has closed, and that is the problem.
+seasonalFortune: The rice has broken down into sweetness — what was grain becomes the medium others drink.
+dailyMid: Pine nuts settle to the surface; depth remains unstirred below.
+dailyHigh: The punch accepts what floats in it — sugar dissolved, solid suspended, liquid held.
+dailyMost: Cold clarifies. The brew knows exactly what temperature holds everything together.
+dailyLow: The first sip tastes of what was expected — the rest remains untasted.
+dailyLeast: Sweetness masks the fermentation beneath — comfort obscures the work that made it possible.
 ---
 
 Funky Kidney Beans are the Bean Zodiac's most sympathetic — they have processed their own experience enough to recognize what someone else is carrying.

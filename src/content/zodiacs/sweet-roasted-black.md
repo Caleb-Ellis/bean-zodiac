@@ -6,12 +6,12 @@ form: roasted
 trait: resilient
 dish: Cocoa-roasted black beans — black beans tossed in cocoa powder and sugar, roasted until cracked and bittersweet.
 quote: That which does not bean us makes us stronger.
-seasonalFortune: A difficulty is coming that will want to be named — name it, and let the resilience be acknowledged.
-dailyNeutral: Hold the shape — the pressure is temporary.
-dailyGood: What is being applied to you is less than what you are built for.
-dailyBest: Take the full weight — you were made for exactly this load.
-dailyBad: Consider stopping; the case for it is reasonable and deserves more than dismissal.
-dailyWorst: Put it down — enough has been endured, and continuing past this point is not resilience.
+seasonalFortune: The skin cracks from heat; sugar pools in every fissure. What emerges is sweeter for the pressure.
+dailyMid: Pressure shapes the surface; the interior holds. Cocoa settles into every crevice.
+dailyHigh: The load transforms; weight becomes density. What endures carries its own sweetness.
+dailyMost: Strain maps the grain. The fracture lines reveal the structure underneath — bittersweet proof of integrity.
+dailyLow: The shell grows smooth; edges soften. Movement comes easier when the frame stays flexible.
+dailyLeast: Brittleness whispers where resilience would hum. The beans scatter rather than settle.
 ---
 
 Glazed Black Beans are the Bean Zodiac's most resilient — through warmth and solidity that allows them to flex under pressure and return without fracturing.

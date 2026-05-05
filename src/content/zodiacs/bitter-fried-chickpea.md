@@ -6,12 +6,12 @@ form: fried
 trait: entrepreneurial
 dish: Panisse - chickpea fritters with bitter herb aioli.
 quote: The bean who moves a mountain begins by carrying away small stones.
-seasonalFortune: The thing already running will ask to be abandoned for the next gap — stay with it past the point where it gets interesting.
-dailyNeutral: The gap is visible — move toward it.
-dailyGood: The opportunity is real; commit before someone else names it.
-dailyBest: Everything needed to begin is already present — start now, without waiting for permission.
-dailyBad: Take the conservative path today; not every gap needs filling right now, by you.
-dailyWorst: Stand down from this one entirely — the appetite for risk here is yours alone, and that is not enough.
+seasonalFortune: The pan was always hot; the oil always ready. What changes is which hand reaches for the wooden spoon — and when it learns to not flinch at the snap and scatter.
+dailyMid: The oil breaks into pearls; something is about to begin.
+dailyHigh: The fritter hits the pan and knows its shape only through the heat — the form arrives in the frying, not before.
+dailyMost: The herb stems were chopped yesterday, the garlic today, the aioli five minutes ago — nothing waits, everything goes in.
+dailyLow: The oil sits at temperature, the batter ready — the herb aioli gets one more taste.
+dailyLeast: The panisse batter rests. The pan waits. The recipe is reviewed again.
 ---
 
 Scorched Chickpeas are the Bean Zodiac's most entrepreneurial — they see what is missing and move to fill it.

@@ -6,12 +6,12 @@ form: boiled
 trait: judicious
 dish: Adzuki bean soup with chrysanthemum greens and yuzu.
 quote: To bean, or not to bean, that is the question.
-seasonalFortune: A verdict will be asked of you before the evidence is complete — speak the deliberation aloud while it is still forming, not only the conclusion.
-dailyNeutral: The slower assessment is the correct one — trust the time it takes.
-dailyGood: Render your judgment before circumstance renders it for you.
-dailyBest: Give the full weight of consideration to what is before you — even where the room has grown impatient waiting for the verdict.
-dailyBad: Pick something — any thorough position will serve better than a prolonged silence.
-dailyWorst: Commit now, even imperfectly; whatever the scales say, the moment will not wait.
+seasonalFortune: The skin teaches before the flesh surrenders. Season's turn asks not for answers but for the threshold — that space where bitterness still speaks and sweetness hasn't yet arrived. A soup requires patience in the telling as much as in the simmering.
+dailyMid: The chrysanthemum opens only when its own time arrives; the yuzu does not ripen by insistence.
+dailyHigh: When the scales still shift, the weight of attention itself becomes the ballast.
+dailyMost: To steep without hurrying — to let each layer unfold and teach what it holds — is to gather what rushing could never measure.
+dailyLow: The chrysanthemum goes in before the broth is ready — tender, briefly bright, already spent.
+dailyLeast: Yuzu pressed while still green releases what it has — tart, unfinished, committed.
 ---
 
 Infused Adzuki Beans are the Bean Zodiac's most judicious — they carry the Adzuki Bean's deep instinct for celebration, but they do not spend it until the conditions have been met.

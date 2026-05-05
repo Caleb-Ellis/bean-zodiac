@@ -6,12 +6,12 @@ form: smoked
 trait: inexorable
 dish: Senate bean soup - navy beans with smoked ham hock, onion, and a squeeze of lemon
 quote: Nothing is certain except bean and taxes.
-seasonalFortune: What you set in motion will arrive as you knew it would — stop long enough to find out what has changed, before setting the next thing in motion without that knowledge.
-dailyNeutral: The momentum is moving — stay with it.
-dailyGood: Keep going; the direction is set and the pace is correct.
-dailyBest: Advance completely — every step, without pause, all the way to where this is going.
-dailyBad: Pause and ask what has changed; the forward motion is being read as disregard, and the reading is not entirely wrong.
-dailyWorst: The attempts to redirect have stopped. Unstoppable and unresponsive have become the same thing.
+seasonalFortune: Smoke rises in one direction; the beans remember their path through heat. What was set at the fire's edge arrives at the bowl's edge as it was always meant to. The lemon waits.
+dailyMid: The steam knows only upward. One foot follows the last.
+dailyHigh: Every joint locked in sequence. Nothing bends, nothing questions.
+dailyMost: The soup reaches boiling; the broth does not retreat.
+dailyLow: The currents shift beneath the surface. A spoon turns the beans.
+dailyLeast: The ham hock dissolves into the broth; what was solid becomes possibility.
 ---
 
 Cured Navy Beans are the Bean Zodiac's most inexorable — they do not stop, and they do not explain their motion while it is occurring.

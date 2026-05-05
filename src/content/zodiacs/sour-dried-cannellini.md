@@ -6,12 +6,12 @@ form: dried
 trait: exquisite
 dish: Cannellini and dried porcini brodo with lemon zest.
 quote: The bean is in the details.
-seasonalFortune: The precision you carry will find a room that needs it — descend when you arrive, and bring it with you.
-dailyNeutral: The exactness you bring is the contribution — apply it fully.
-dailyGood: The standard you are working to is the correct one; hold it across every detail.
-dailyBest: Bring the full weight of it — the room will rise to meet what you carry in.
-dailyBad: Lower the bar, just here; the room cannot meet you and the gap is becoming the story.
-dailyWorst: Let it go. The new standard is worse and everyone has already agreed to it.
+seasonalFortune: The porcini has released its dark memory into the broth. Each grain of lemon zest marks a boundary; the bean holds its shape at the smallest possible scale. To see it requires stopping.
+dailyMid: The finish is clean where it matters. The detail does not scatter.
+dailyHigh: The broth arrives at the bean without rupturing it. Each element knows its place.
+dailyMost: Every edge is exact; the weight of care shows in the grain.
+dailyLow: The bean has softened and begun to blur. The flavors run together and multiply.
+dailyLeast: The porcini clouds the entire broth in a dark abundance. There are no distinguishing marks, only richness everywhere.
 ---
 
 Dehydrated Cannellini Beans are the Bean Zodiac's most exquisite — reduced to the smallest possible version of something and still impossibly precise.

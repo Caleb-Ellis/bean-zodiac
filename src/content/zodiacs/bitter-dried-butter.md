@@ -6,12 +6,12 @@ form: dried
 trait: stark
 dish: Dried butter beans in sage broth with bitter radicchio.
 quote: Tell me, what is it you plan to do with your one wild and precious bean?
-seasonalFortune: The clarity you have built will be needed by someone who does not yet know they need it — find the occasion before it finds you.
-dailyNeutral: Remove the comfort and see what holds beneath it.
-dailyGood: The warmth is not needed here — let what remains stand on its own terms.
-dailyBest: Everything that does not belong has been stripped away — what is left is the truth of the thing.
-dailyBad: Add some warmth back in; not everything benefits from being stripped to the bone.
-dailyWorst: Make it comfortable — bare honesty is not serving anyone right now, and softness is not a lie.
+seasonalFortune: Desiccation strips the lie from the bean. This season carves inward — what emerges is what the sage broth knows to be true, whether or not it tastes like comfort.
+dailyMid: The skeleton speaks plainer than the skin.
+dailyHigh: Sage thins the air around what must be seen.
+dailyMost: The broth learns to hold the bitter without translation.
+dailyLow: Sage broth finds a creamier note — the bean sits a little easier in it.
+dailyLeast: The butter shines through the drying — the broth turns round and generous, a little too at ease with itself.
 ---
 
 Desiccated Butter Beans are the Bean Zodiac's most stark — all warmth stripped out, all ease removed, what remains is bare and genuine.

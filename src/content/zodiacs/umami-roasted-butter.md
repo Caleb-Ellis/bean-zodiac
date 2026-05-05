@@ -6,12 +6,12 @@ form: roasted
 trait: receptive
 dish: Slow-roasted butter beans with anchovies, garlic, and rosemary.
 quote: The ear of the bean hears all and judges nothing.
-seasonalFortune: Something of your own will want to be offered — let it be received the way you have received what is given to you.
-dailyNeutral: Take it in; what is being offered is worth receiving fully.
-dailyGood: Open further — the full version of what is being given is available if you stay with it.
-dailyBest: Receive it completely; give what arrives the full depth of your attention.
-dailyBad: Respond; what is being given is not landing and a response is being looked for.
-dailyWorst: React; the openness is being named as passivity and the push for a response is not going to stop.
+seasonalFortune: The season's deeper layers accumulate slowly; the palate sharpens with each return — what seemed simple at first reveals itself in layers, like fat rendering from slow heat.
+dailyMid: The surface flavor carries hints of what's underneath; attending to it brings clarity.
+dailyHigh: All frequencies arrive clear as rendered fat — nothing scrambled in the signal.
+dailyMost: The full depth is available; the body receives what the season is offering.
+dailyLow: The pulse moves briskly, the ear seeks newness elsewhere — the still center holds less appeal.
+dailyLeast: Volatility wins the moment; depth requires patience the current mood cannot quite spare.
 ---
 
 Rendered Butter Beans are the Bean Zodiac's most receptive — they register not just what is said, but what the saying contains.

@@ -6,12 +6,12 @@ form: fermented
 trait: mercurial
 dish: Pinto with chipotle en adobo - braised pinto beans in fermented chipotle and pickled jalapeño.
 quote: Nothing endures but bean.
-seasonalFortune: A trail of positions will need a map — leave the reasoning before the season ends, so the Beans who could not follow can still arrive.
-dailyNeutral: The position has moved — leave the reasoning before it closes.
-dailyGood: The shift is complete; build the map back so the Beans who need it can follow.
-dailyBest: Every position change deserves its full accounting. Leave the trail completely — all of it.
-dailyBad: Leave a marker before moving again; the last position was still being held when you left, and now there is no way to follow.
-dailyWorst: Signal your position — tracking has been abandoned and no one is expecting to know where you are.
+seasonalFortune: The smoke rises in patterns the eye cannot hold. Each wisp was fire once, now air — the season asks which version will be remembered.
+dailyMid: The adobo deepens, layer after layer. Something settles into the paste; something rises as steam.
+dailyHigh: The ferment transforms completely in darkness. When the jar opens, the beans have become what the brine always intended.
+dailyMost: Heat and time conspire perfectly. The ingredient surrenders to its own becoming.
+dailyLow: The brine stays still. The beans remain firm, unchanged by the salt that surrounds them.
+dailyLeast: The chipotle holds its shape. Smoke memory preserved, untouched by the hands that reach for it.
 ---
 
 Kimchi Pinto Beans are the Bean Zodiac's most mercurial — they shift completely before anyone notices the first change.

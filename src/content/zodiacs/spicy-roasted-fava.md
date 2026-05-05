@@ -6,12 +6,12 @@ form: roasted
 trait: adventurous
 dish: Foul mhammar - Moroccan roasted fava beans with cumin, chili, and charmoula.
 quote: Life is either a daring bean or nothing at all.
-seasonalFortune: A destination is coming — stay long enough to know what you found before you move toward what is next.
-dailyNeutral: Enter the new territory. The pull toward it is real and worth following.
-dailyGood: The adventure is real; go toward it completely and stay past the point of arrival.
-dailyBest: Move toward the unfamiliar with everything — and stay until you know what it was.
-dailyBad: Find another way in — the new territory has been closed off and what was open is no longer available.
-dailyWorst: Work the known ground — every unfamiliar direction has been closed and it is all that remains.
+seasonalFortune: The charmoula calls further than the roasted skin. Root in what scorches and sweetens, then follow the smoke.
+dailyMid: Heat rises where it will; the spice knows the way.
+dailyHigh: Stride into the unfamiliar as if entering a well-seasoned kitchen — each element reveals itself.
+dailyMost: The embers still glow; go where they lead without turning to check the cold behind.
+dailyLow: The soil has its own gravity. Remain with the weight of what is known.
+dailyLeast: The bean holds. Depth grows in stillness.
 ---
 
 Peri-Peri Fava Beans are the Bean Zodiac's most adventurous — they move toward the unfamiliar with warmth.

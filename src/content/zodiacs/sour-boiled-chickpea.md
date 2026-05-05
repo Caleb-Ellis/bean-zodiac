@@ -6,12 +6,12 @@ form: boiled
 trait: flexible
 dish: Harira - Moroccan chickpea soup with preserved lemon and tomato.
 quote: It is not the strongest bean that survives, nor the most intelligent, but the one most responsive to change.
-seasonalFortune: A situation will ask you to bend — what you yield to will be worth bending for, and the shape you hold afterward will still be yours.
-dailyNeutral: The adjustment this situation requires is smaller than it seems — make it without losing your footing.
-dailyGood: Bend to meet what is in front of you; you will find yourself again on the other side.
-dailyBest: You have bent further than this and come back — yield to it fully, and trust the return.
-dailyBad: Pick a position and stay in it; the room is losing confidence with every pivot.
-dailyWorst: Stop moving. The people around you need something solid and your willingness to shift is making things worse.
+seasonalFortune: Preserved lemon takes a year to become itself — held in salt, pressed against what it cannot escape, until the rind surrenders something the raw fruit never could. What is changing now has been soaking that long.
+dailyMid: The broth shifts to meet what is added. So does this moment.
+dailyHigh: The chickpea softens without losing itself. That is the whole art.
+dailyMost: Harira makes room for everything — tomato, lemon, time. Today is that kind of soup.
+dailyLow: The dried chickpea before the water. Still, whole, waiting to be told what shape to hold.
+dailyLeast: Something in the pot refuses to soften. The spoon finds it again and again.
 ---
 
 Brined Chickpeas are the Bean Zodiac's most flexible — they bend to meet what a situation requires, then return to themselves.

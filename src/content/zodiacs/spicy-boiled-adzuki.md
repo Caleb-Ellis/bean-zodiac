@@ -6,12 +6,12 @@ form: boiled
 trait: spirited
 dish: Adzuki bean congee with gochugaru and soft-boiled egg.
 quote: You've gotta have bean.
-seasonalFortune: A moment is approaching that needs heat — be the one who brought it.
-dailyNeutral: Give the moment more warmth than it is asking for.
-dailyGood: The heat has been building long enough — this is the moment to spend it.
-dailyBest: Hold nothing back; the fire was made for exactly this.
-dailyBad: Ease back — what you are sending is landing as interference, not warmth.
-dailyWorst: Pull back — those around you have gone cold, and pressing further will only widen the gap.
+seasonalFortune: The gochugaru has been gathering in the depths; when the congee breaks surface tension, what rises is exactly what was always meant to rise.
+dailyMid: The egg yolk gleams beneath the surface, waiting for spoon and steam.
+dailyHigh: The broth reaches its tremor — the moment when restraint becomes its own flavor.
+dailyMost: Fire and patience meet at the bowl's center; all the heat from all the time collects here.
+dailyLow: The congee thickens. Warmth spreads without urgency or flash.
+dailyLeast: The beans soften into themselves — a quiet dissolution, a gentle dissolution.
 ---
 
 Braised Adzuki Beans are the Bean Zodiac's most spirited — heat banked through patience makes the fire last.

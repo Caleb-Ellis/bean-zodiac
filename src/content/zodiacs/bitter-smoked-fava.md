@@ -6,12 +6,12 @@ form: smoked
 trait: otherworldly
 dish: Smoked fava, twice-prepared, with bitter ash.
 quote: We are made of bean stuff.
-seasonalFortune: Where you are going will require courage most Beans never need — find the form to bring back what you find.
-dailyNeutral: Go where the others have not — that is what you are for.
-dailyGood: Move further into it; what is found there cannot be reached any other way.
-dailyBest: Go all the way — into the territory no one else has charted, and bring back what only you can find.
-dailyBad: Find the common ground and meet them there; the distance is real, but the bridge is on your side.
-dailyWorst: Come all the way back — wherever you have been, the people here need you present, not translated.
+seasonalFortune: Smoke carries what fire cannot — a flavour that lingers in registers the palate takes seasons to locate. The twice-prepared bean knows this. Something distant is already closer than it appears.
+dailyMid: The ash at the edge of the dish holds a bitterness the untrained tongue skips over entirely.
+dailyHigh: What the smoke carries back has no name in the recipe — and the dish is richer for it.
+dailyMost: Past the char, past the bitterness, past the second preparation — something waits that only arrives this way.
+dailyLow: The smoke settles close to the dish today — a grounded bitterness, familiar and well within reach.
+dailyLeast: Twice-prepared, the fava lands squarely in the known — ash and all, a comfort in its plainness.
 ---
 
 Charcoal Fava Beans are the Bean Zodiac's most otherworldly — their courage has led them somewhere that takes others considerable time to follow.

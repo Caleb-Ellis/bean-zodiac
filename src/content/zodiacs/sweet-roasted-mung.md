@@ -6,12 +6,12 @@ form: roasted
 trait: easygoing
 dish: Jaggery-roasted mung beans — whole mung beans tossed in melted jaggery and cardamom, roasted until crisp and fragrant.
 quote: Keep your bean up and your worries down, and everything will be just fine.
-seasonalFortune: A difficulty will ask to be hard for a moment — let it be, before settling it. Some things resolve into something more useful than ease.
-dailyNeutral: Let things be as they are — the ease is the right response.
-dailyGood: The lack of resistance you bring is allowing something to resolve that has been stuck.
-dailyBest: Release the need to manage it — go fully easy and let the day do what it does.
-dailyBad: Draw the line; something has come through that should have been held.
-dailyWorst: Name what the limit is — the ease has been so complete that even you have lost track of it.
+seasonalFortune: This season's friction has learned to speak. The beans that settle into its grain — neither fighting nor collapsing — hear the shape of what needs doing. The cardamom rises with the warmth, and the path unfolds in sugar.
+dailyMid: The sugar melts where it must. Pressure hardens only what resists meeting it. The bean finds its crisp surface by yielding to the heat.
+dailyHigh: The thing pressing against the pan is softening at the edges. The jaggery liquefies when held long enough. Fragrance rises where friction once stood.
+dailyMost: Stillness in the roasting pan. The beans arrange themselves into wholeness when left to the flame's rhythm.
+dailyLow: Urgency enters the kitchen, hand tightening on the spoon. The beans scatter when pushed too early, their surfaces still soft, their sweetness not yet set.
+dailyLeast: Constant stirring keeps nothing from burning, and everything from becoming itself. The roasting catches hold only in the pause.
 ---
 
 Glazed Mung Beans are the Bean Zodiac's most easygoing — they move through difficulty without amplifying it, making situations manageable simply by how they inhabit them.

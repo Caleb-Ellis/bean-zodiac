@@ -6,12 +6,12 @@ form: smoked
 trait: ferocious
 dish: Dashi-smoked edamame with yuzu kosho - cold-smoked edamame with spicy citrus pepper paste.
 quote: Cry 'Havoc!' and let slip the beans of war.
-seasonalFortune: A force will arrive before the situation has finished understanding it — find a way to make the arrival legible before it completes.
-dailyNeutral: The force is real — give the situation a moment to understand it before it lands.
-dailyGood: The ferocity is complete and ready; make the arrival legible before deploying it.
-dailyBest: Bring the full force — entirely, with enough announcement that it can be met.
-dailyBad: Slow down before the next one; the force completed before the situation could understand it.
-dailyWorst: Leave it as it stands; what arrived concluded before anything could be asked, and there is no reaching back in.
+seasonalFortune: Smoke obscures the hand that moves it — the season asks not for silence, but for the signal to arrive in time for the room to brace.
+dailyMid: Heat blooms where the smoke clears.
+dailyHigh: The paste stains the tongue before the palate names the spice.
+dailyMost: The pod splits open at its own insistence — the arrival and the announcement are one motion.
+dailyLow: The yuzu lingers long after the smoke clears; sweetness develops in delayed unfolding.
+dailyLeast: The bean yields gradually, its edges softening through patient heat.
 ---
 
 Chipotle Edamame are the Bean Zodiac's most ferocious — efficient, hot, and concluded before the situation has fully understood what occurred.

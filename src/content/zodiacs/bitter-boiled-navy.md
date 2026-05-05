@@ -6,12 +6,12 @@ form: boiled
 trait: dogmatic
 dish: Navy bean and escarole soup.
 quote: A bean convinced against his will is of the same opinion still.
-seasonalFortune: A principle you hold will be challenged — ask before it arrives whether the challenge is wrong, or whether the principle has aged past its evidence.
-dailyNeutral: The principle holds — apply it, and notice where it strains.
-dailyGood: A conviction that cannot remember its origin is inheritance, not principle — trace it back.
-dailyBest: The principle applies here too — hold it without exception or apology.
-dailyBad: Take the exception; a rule that bends here does not break everywhere.
-dailyWorst: Let the framework go for now — not every situation owes it a hearing.
+seasonalFortune: The mold formed in cold broth holds shape under heat. Whether it survives depends on what was melted away before the pressure came.
+dailyMid: The recipe's strictures filter out what doesn't belong.
+dailyHigh: The beans have been sorted this way for three seasons. The broth tastes the same.
+dailyMost: This is the exact temperature and time the pot was designed to hold.
+dailyLow: The escarole finds its own shape in the broth. Every temperature is acceptable.
+dailyLeast: The recipe shifts each time the soup is made. Each version is called the original.
 ---
 
 Infused Navy Beans are the Bean Zodiac's most dogmatic — they apply a framework fully, conviction embedded so deeply it becomes invisible.

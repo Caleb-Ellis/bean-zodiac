@@ -6,12 +6,12 @@ form: dried
 trait: impenetrable
 dish: Black bean and dried hibiscus soup with lime.
 quote: No bean is an island, entire of itself.
-seasonalFortune: A wall you have built will be respected — leave one opening, or the wall will become the whole thing.
-dailyNeutral: Hold the distance — it is doing what you intended.
-dailyGood: The wall is working; stand behind it.
-dailyBest: Let nothing through; the thickness is exactly right.
-dailyBad: Leave a gap; the wall that admits no one eventually has no one left outside it.
-dailyWorst: Open the gate. You are keeping it shut out of habit and the field behind you is empty.
+seasonalFortune: The skin holds what the broth cannot reach. Each layer resists the heat; even the lime's sharpness stops at the perimeter. What grows dense grows quiet.
+dailyMid: The bean wears its dryness like a closed door. Moisture is kept at a distance.
+dailyHigh: The tannins form a rampart; the fragrance of hibiscus circles but does not enter.
+dailyMost: Everything outside is spectacle. The interior is untroubled and whole.
+dailyLow: The surface grows soft where the soup touches it. Flavor bleeds across the boundary in both directions.
+dailyLeast: The bean dissolves into the broth. What was solid becomes part of what surrounds it.
 ---
 
 Dehydrated Black Beans are the Bean Zodiac's most impenetrable — nothing passes in or out that has not been examined first.

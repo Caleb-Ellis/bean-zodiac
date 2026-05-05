@@ -6,12 +6,12 @@ form: fermented
 trait: provocative
 dish: Adzuki doenjang jjigae - Korean fermented soybean paste stew with gochugaru and tofu.
 quote: Every act of creation is first an act of bean destruction.
-seasonalFortune: The question has been building. Ask it — then stay present for everything that comes after.
-dailyNeutral: The question is worth asking. Ask it, then hold your position.
-dailyGood: The provocation is ready; put it forward and stay in what follows.
-dailyBest: Say the thing that rearranges the conversation — and stay for every word of what comes after.
-dailyBad: Wait before sending the next one; what was meant to open something has closed it instead.
-dailyWorst: Walk away; the conversation closed before it could be held open, and nothing remains worth pressing.
+seasonalFortune: The ferment has worked toward threshold. The time arrives to crack the lid — what rises into air will reshape the space around it.
+dailyMid: The brine holds a spark. Strike it now and watch the heat travel through what was thought settled.
+dailyHigh: The capsicum releases its oils into the dark. Where it touches, the taste becomes unmistakable.
+dailyMost: The pot boils over its edge — the thing that couldn't stay contained becomes the thing everyone's gathered to witness.
+dailyLow: The paste ages without disruption. Layers deepen, but nothing announces itself.
+dailyLeast: The lid stays sealed. What ferments stays concealed, and the room holds only its old air.
 ---
 
 Kimchi Adzuki Beans are the Bean Zodiac's most provocative — they emerge from the dark to rearrange the conversation.

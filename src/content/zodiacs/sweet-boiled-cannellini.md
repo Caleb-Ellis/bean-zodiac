@@ -6,12 +6,12 @@ form: boiled
 trait: kind
 dish: Cannellini in vin santo — white beans simmered in sweet wine with a strip of lemon peel and fresh thyme.
 quote: A little bean, a little more bean than absolutely necessary — that is what it means to be kind.
-seasonalFortune: A need you have will ask to be named — the Beans around you have been waiting to be kind in return, and they need the opening.
-dailyNeutral: Give the small kindness — the one that costs almost nothing.
-dailyGood: The generosity you are extending will be remembered longer than you expect.
-dailyBest: Open your hands fully — everything you give from this place comes back enriched.
-dailyBad: What you are offering is landing as pity — the intention and the reception are not the same thing.
-dailyWorst: Guard the warmth — someone has learned how to take from it.
+seasonalFortune: The thyme you cannot see has been drawing all along — kindness becomes the current that carries other things forward, and this season it brings unexpected vessels to shore.
+dailyMid: The lemon peel stays in the wine; the sweetness deepens by simply being present.
+dailyHigh: The vin santo finds its own level — generosity in the pot creates the conditions for everything else to soften and open.
+dailyMost: Pour the liquid freely, knowing the beans were already whole before the pouring began.
+dailyLow: The beans rest separately in their own water, keeping their shape intact.
+dailyLeast: The sweetness holds itself close, waiting to be sought rather than offered.
 ---
 
 Candied Cannellini Beans are the Bean Zodiac's kindest — they elevate without calculation.

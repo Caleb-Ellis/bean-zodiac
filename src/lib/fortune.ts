@@ -141,11 +141,11 @@ export const getFortuneText = (
   zodiac: Zodiac,
   qualityId: QualityId,
 ): string => {
-  if (qualityId === QualityIds.Heirloom) return zodiac.dailyBest;
-  if (qualityId === QualityIds.Market) return zodiac.dailyGood;
-  if (qualityId === QualityIds.Stale) return zodiac.dailyBad;
-  if (qualityId === QualityIds.Rotten) return zodiac.dailyWorst;
-  return zodiac.dailyNeutral;
+  if (qualityId === QualityIds.Heirloom) return zodiac.dailyMost;
+  if (qualityId === QualityIds.Market) return zodiac.dailyHigh;
+  if (qualityId === QualityIds.Stale) return zodiac.dailyLow;
+  if (qualityId === QualityIds.Rotten) return zodiac.dailyLeast;
+  return zodiac.dailyMid;
 };
 
 export const getDailyFortuneIds = (

@@ -6,12 +6,12 @@ form: boiled
 trait: worrisome
 dish: Nokdu juk - Korean mung bean porridge with gochugaru and sesame.
 quote: I have known a great many troubles, but most of them never bean.
-seasonalFortune: Not every preparation will improve the outcome — let one thing come that you did not prepare for, and see what happens.
-dailyNeutral: The thing circling in your mind deserves a deliberate pass — name it and return to the work.
-dailyGood: Hold every contingency in view; the preparation is worth the weight.
-dailyBest: The full catalogue of what could go wrong deserves your attention — bring it all, completely.
-dailyBad: Press the concern anyway — it has been decided it will be fine and everything is being dismissed.
-dailyWorst: Put the risks on record before the decision locks — they are no longer being heard.
+seasonalFortune: The broth thickens where the bean settles. Vigilance runs deep here, patient as the slow simmer — the heat will not break what has been tended.
+dailyMid: Steam rises from the surface, carrying the ginger's heat — something moves through the porridge, small and sharp-edged.
+dailyHigh: The sesame oil pools and darkens, deepening every layer beneath it. Each grain holds its place; each grain is known.
+dailyMost: The mung bean holds its shape through the boiling — intact, itself, a whole thing moving through the medium without dissolving.
+dailyLow: The porridge flows freely, finds its level without resistance. The bowl settles; the spoon moves without catching.
+dailyLeast: Steam disperses into air. The heat dissipates. The dish becomes what it becomes, indifferent to the hand that stirs.
 ---
 
 Braised Mung Beans are the Bean Zodiac's most worrisome — every risk feels immediate and impossible to set down.

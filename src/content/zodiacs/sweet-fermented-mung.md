@@ -6,12 +6,12 @@ form: fermented
 trait: gentle
 dish: Bánh men — Vietnamese sweet mung bean cakes made with fermented rice wine batter, steamed until just set.
 quote: In a tough world, the most rebellious thing you can do is be a gentle bean.
-seasonalFortune: A gentleness that has been going outward will be needed inward — turn it with the same precision.
-dailyNeutral: Handle what is in front of you with care — it can feel the difference.
-dailyGood: The gentleness you bring is doing more than force would.
-dailyBest: Be fully soft — the world will meet you there.
-dailyBad: Say the hard thing gently — the softness has been protecting against something that needs to be heard.
-dailyWorst: Say it plainly; the careful circling has used up the moment.
+seasonalFortune: Fermentation asks what becomes of care when left alone. The brine deepens what was already there, salt and time conspiring toward a gentleness no rush could find.
+dailyMid: A film of mold appears on still water. Something patient is working at the surface.
+dailyHigh: The koji spreads in silence. Transformation asks for stillness, and gentleness is its own fermentation.
+dailyMost: Sugar breaks down into something sweeter than itself. Gentleness reaches the grain and remakes it.
+dailyLow: The hand stirs the jar too quickly. Motion without intention scatters what was settling.
+dailyLeast: The lid comes off too soon — eager to see what was better left to its own work.
 ---
 
 Funky Mung Beans are the Bean Zodiac's gentlest — not from softness but from long interior work on what care requires.

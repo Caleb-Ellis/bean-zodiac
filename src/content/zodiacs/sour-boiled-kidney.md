@@ -6,12 +6,12 @@ form: boiled
 trait: trustworthy
 dish: German kidney bean and sauerkraut soup with caraway.
 quote: The secret of getting ahead is getting bean.
-seasonalFortune: What you have promised will be tested — keep it, and the Beans watching will build something on what they observe.
-dailyNeutral: Keep the thing you said you would — it will be noticed, and it will matter.
-dailyGood: Your word is the structure others are building on; do not shift what they are standing on.
-dailyBest: Stay — not because it is easy, but because staying is what you said, and what you said is what you are.
-dailyBad: Someone who was counting on you is starting to wonder; manage their expectations before they manage themselves.
-dailyWorst: Walk it back. What you committed to is no longer possible and continuing to hold it out is making things worse for everyone.
+seasonalFortune: Fermentation arrives this season. What was brined at the start remains as promised, and those who counted on it have already built their plans around the fact of it.
+dailyMid: The broth remembers what was spoken into it. Salt holds the shape.
+dailyHigh: The caraway seeds drift where they were placed — the structure is exact, the sift deliberate.
+dailyMost: Bean meets bean at the bottom of the pot. The word was kept because the word was all there ever was.
+dailyLow: Flavours drift and merge in their own directions. Boundaries soften where the heat reaches.
+dailyLeast: The broth tastes of many hands and many choices. The recipe has become a suggestion.
 ---
 
 Brined Kidney Beans are the Bean Zodiac's most trustworthy — they tell the truth and stay.

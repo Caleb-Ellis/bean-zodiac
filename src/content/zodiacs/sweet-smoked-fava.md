@@ -5,13 +5,13 @@ flavour: sweet
 form: smoked
 trait: dazzling
 dish: Bessara - smoked fava bean dip with smoked paprika, cumin, and honey drizzle.
-quote: All that glitters is not bean.
-seasonalFortune: A dazzlement is coming — ask whether what you illuminate will still be there once the light adjusts.
-dailyNeutral: Let it be impressive — it earned that.
-dailyGood: What you bring exceeds what was expected — give it all.
-dailyBest: Go at full dazzle — hold nothing back and let what you are do what it does.
-dailyBad: Drop the performance; what is being put out is spectacle without presence, and it reads as such.
-dailyWorst: Come closer — the brightness has been keeping everything at a distance.
+quote: All that glitters is not beans.
+seasonalFortune: Smoke lingers longest where air is still. The season will test whether the glow outlasts the spark that made it — whether the paprika settles into the dip or burns away on the tongue.
+dailyMid: The edge of the flame casts light on something real.
+dailyHigh: The smoke rises where it's meant to; the honey catches what finds it.
+dailyMost: The full char is visible — the warmth reaches further than the light.
+dailyLow: The smoke disperses quickly; the spice hides under the sweetness.
+dailyLeast: The dip sits cool in its bowl; the paprika settles into itself.
 ---
 
 Barbecued Fava Beans are the Bean Zodiac's most dazzling — their boldness has acquired a warmth that overwhelms before it clarifies.

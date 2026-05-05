@@ -6,12 +6,12 @@ form: smoked
 trait: iridescent
 dish: Southern green beans slow-cooked with smoked ham hock, brown sugar, and sweet onion.
 quote: A thing of bean is a joy forever.
-seasonalFortune: A quality will change with every angle — find one reading that holds in any light.
-dailyNeutral: Show the different angle — it changes what is visible.
-dailyGood: The way you shift will reveal something that has been hidden in the fixed reading.
-dailyBest: Move through every angle — the full iridescence is what is needed, every colour at once.
-dailyBad: Hold still long enough for something to land; the shifting is outpacing what it can leave behind.
-dailyWorst: Pick a version and stay in it — so many have appeared that the real one is no longer findable.
+seasonalFortune: The smoke curls through the flesh like memory — each breath changes the story. One constant glimmer persists beneath the turning light.
+dailyMid: The ham hock renders an amber note against the char, visible only from certain angles.
+dailyHigh: Approach from every direction. The brown sugar caramelizes differently in each shadow.
+dailyMost: All the colours emerge at once — sweet, smoke, char, and the green beneath. Every vantage point feeds the whole.
+dailyLow: The flavours scatter across the plate without gathering weight.
+dailyLeast: Each glance reveals a different bean entirely — nothing anchors the eye.
 ---
 
 Barbecued Green Beans are the Bean Zodiac's most iridescent — they catch the light differently depending on where you are standing.

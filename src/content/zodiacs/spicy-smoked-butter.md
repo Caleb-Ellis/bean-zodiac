@@ -6,12 +6,12 @@ form: smoked
 trait: hushed
 dish: Southern succotash - smoked butter beans with corn, jalapeño, and smoked bacon.
 quote: Speak softly and carry a big bean.
-seasonalFortune: What is accumulating beneath the calm will ask to come up — let it, before it becomes pressure.
-dailyNeutral: The calm is real — let what is underneath it show, just a little.
-dailyGood: The heat beneath the surface has been building; give it one way out.
-dailyBest: Let everything running beneath the calm surface — completely, before it becomes pressure.
-dailyBad: Dig before the surface is accepted as the whole — what is underneath is no longer being asked for.
-dailyWorst: Listen for what is underneath — the surface is all that is being worked with and what is below has gone unheard.
+seasonalFortune: Smoke settles in layers. The deepest heat waits in the char — patient, until the surface finally yields.
+dailyMid: The broth thickens where no one watches.
+dailyHigh: One crack in the skin releases what has been smoking underneath.
+dailyMost: The char splits and everything beneath floods out — necessary, unavoidable, cleansing.
+dailyLow: All flavor rides on the surface, bright and insistent.
+dailyLeast: The smoke rises so quickly there is no time for the depths to form.
 ---
 
 Chipotle Butter Beans are the Bean Zodiac's most hushed — the calm is present, and underneath it something is running at considerable heat.

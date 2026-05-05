@@ -6,12 +6,12 @@ form: dried
 trait: acerbic
 dish: Fava bean dip with dried sumac, raw onion, and olive oil.
 quote: The truth will set you free, but first it will bean you.
-seasonalFortune: An honest thing will need to be said — the accuracy is not in question, but read the room before choosing the temperature.
-dailyNeutral: The read is accurate — hold it until the temperature is right.
-dailyGood: The truth is sharp and it is ready; deliver it cleanly.
-dailyBest: Say the full, untempered thing — the accuracy is what the room needs, and you have it.
-dailyBad: Warm it slightly; the content is right but the delivery has left a mark.
-dailyWorst: Soften it completely. The damage is done and continuing in this register will make it permanent.
+seasonalFortune: The sumac's tang carries what cannot be softened. The words arrive concentrated, demanding the palate adjust rather than sugar them down. Precision is the kindness offered here.
+dailyMid: Sharp enough to cut, yet the plate is ready. The dip holds its edge without spilling over the rim.
+dailyHigh: Olive oil pools at the truth's edge, golden and unapologetic. Every word lands clean, and the mouth learns something.
+dailyMost: Stripped raw as the onion itself — the moment demands the uncut thing, and clarity offers its own kind of nourishment.
+dailyLow: The edge has dulled slightly, lost some of its precision. Words reach their target but without the same exactness.
+dailyLeast: Smoothed and rounded, the flavour has become soft where it once was keen. The message arrives but the point has been muted.
 ---
 
 Dehydrated Fava Beans are the Bean Zodiac's most acerbic — they have the courage to say what others won't, and none of the patience to soften it.

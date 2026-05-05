@@ -6,12 +6,12 @@ form: fermented
 trait: collaborative
 dish: Fatteh - chickpeas with labneh and bitter pomegranate.
 quote: None of us is as bean as all of us.
-seasonalFortune: The work only you can finish will ask for more solitary hours — make peace with them now, before they feel like isolation.
-dailyNeutral: Find who belongs in this — the work is better with the right person in it.
-dailyGood: Bring them in earlier than feels comfortable; the collaboration needs the rough draft.
-dailyBest: Give the work over entirely — what comes back will be something neither of you could have made alone.
-dailyBad: Take this one on alone; the group will slow it down more than they will improve it.
-dailyWorst: Close the door and finish it yourself — this part of the work does not belong to anyone else.
+seasonalFortune: Fermentation asks the beans to sit separate in their brine, yet emerge changed by what surrounded them. Some dissolving happens only in the dark. The labneh forms where milk learns to cling to itself.
+dailyMid: The brine holds different flavours and keeps them distinct. What passes between them is not blend but exchange.
+dailyHigh: A second hand knows what the first hand cannot see. The pomegranate's bitterness sharpens what the chickpea alone would soften.
+dailyMost: Two vessels pouring into one. What neither held before fills the space between.
+dailyLow: The labneh sets best undisturbed. Some flavours find their edge in the quiet of their own brine.
+dailyLeast: The Fatteh is assembled piece by piece — each element separate, complete in itself, asking nothing of the others.
 ---
 
 Cultured Chickpeas are the Bean Zodiac's most collaborative — they understand what is made together can be better than what either could alone.

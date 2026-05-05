@@ -6,12 +6,12 @@ form: fermented
 trait: whimsical
 dish: Green bean elderflower shrub — blanched green beans in a sweet drinking vinegar of fermented honey and elderflower, finished with sparkling water.
 quote: One bean that I had a long time ago.
-seasonalFortune: An ordinary thing will reveal itself as an interesting problem — apply the imagination there.
-dailyNeutral: Follow the unexpected thread — it goes somewhere.
-dailyGood: The odd angle is the interesting one — pursue it.
-dailyBest: Let the imagination go entirely — wherever it takes you is worth the trip.
-dailyBad: Finish the thing before moving on — it is not done, and the moving on is visible.
-dailyWorst: Deliver something; the imagination has not produced anything anyone else can use.
+seasonalFortune: The fermented layer speaks in a voice the surface cannot hear — sweet in ways that only time and patience can unlock.
+dailyMid: The beans bend toward their own logic, curved in a direction only they recognize.
+dailyHigh: Sweetness arrives through digression — the flavor blooms sideways, not straight down.
+dailyMost: The fermentation knows no map; follow the bubbles where they rise.
+dailyLow: The clear vinegar cuts a direct path — every note arrives as itself.
+dailyLeast: The beans line up, singular and simple; the honey dissolves into what it feeds.
 ---
 
 Funky Green Beans are the Bean Zodiac's most whimsical — their inner world is rich and improbable.

@@ -6,12 +6,12 @@ form: fried
 trait: keen
 dish: Edamame gyoza - pan-fried dumplings with edamame, nira, and soy dipping sauce.
 quote: I am always doing that which I cannot do, in order that I may learn how to bean it.
-seasonalFortune: A consensus will be slower than what you already understand — wait for it rather than outrunning it.
-dailyNeutral: Stay sharp; what you are picking up is real and worth attending to.
-dailyGood: Let the keenness run — you are seeing more than what has been said yet.
-dailyBest: Take in everything; the full picture is available and you are fast enough to hold it.
-dailyBad: Slow down; the speed is leaving others behind and the ask is to come back for them.
-dailyWorst: Bring it down; the sharpness is being read as making others look slow and it is being named as the problem.
+seasonalFortune: The oil renders hot and the edges crisp first — what shows at the surface speaks loud. The season asks whether the sharpest sight sees the slowest things.
+dailyMid: The edges hold clean. The bright lines separate what matters from what obscures.
+dailyHigh: The oil snaps the shell dark and the inside glows — all the layers read at once. No blur here.
+dailyMost: The kernel splits and the taste is all there — whole and vivid and impossible to misread.
+dailyLow: The warmth softens the outline. The boundaries drift and merge with what surrounds them.
+dailyLeast: The coating blurs and clouds. The heat spreads even and nothing stands apart.
 ---
 
 Tempura Edamame are the Bean Zodiac's keenest — they already know, and they respond accordingly.

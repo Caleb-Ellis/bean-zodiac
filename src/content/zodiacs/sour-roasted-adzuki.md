@@ -6,12 +6,12 @@ form: roasted
 trait: transparent
 dish: Iri-azuki - roasted adzuki beans with yuzu zest and sea salt
 quote: The naked bean is the most decent thing in the world.
-seasonalFortune: The transparency will give Beans something to trust — the slow work of building it is worth continuing.
-dailyNeutral: The open version is available — use it.
-dailyGood: Let more be visible than you usually would.
-dailyBest: Show everything — the full interior, without selection.
-dailyBad: Hold some of it back; what you have shown is being treated as a position to argue from, not a confidence.
-dailyWorst: Close up. The openness has been used against you and the people in the room know it worked.
+seasonalFortune: The skin splits in heat, seeds spilling their rust-bright selves to air. Unshelled things settle differently — the yuzu zest clings where shadow once lived. What stands bare becomes the measure.
+dailyMid: The salt crystals catch light as they land. Each grain visible, each flavor distinct, the whole plate transparent as glass.
+dailyHigh: Steam rises and reveals the interior color. Layers peel back without asking. The dish declares itself.
+dailyMost: The bean splits fully open. Every layer exposed at once — skin, seed coat, heart — and somehow more beautiful for it.
+dailyLow: Layers remain folded. The bean holds its shapes close. Warmth moves inward instead of outward.
+dailyLeast: The roasting brings no brightness. Salt does not catch. The seed settles into itself, withholding what it knows.
 ---
 
 Chimichurri Adzuki Beans are the Bean Zodiac's most transparent — they are exactly what they appear to be.

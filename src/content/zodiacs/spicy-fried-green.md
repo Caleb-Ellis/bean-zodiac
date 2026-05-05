@@ -6,12 +6,12 @@ form: fried
 trait: headstrong
 dish: Pad prik khing - Thai stir-fried green beans with red curry paste and kaffir lime.
 quote: Well-bean is that which is done with determination.
-seasonalFortune: The direction is right — turn around before you arrive, not after, and collect what the Beans behind you found.
-dailyNeutral: Keep the direction. The move is already right.
-dailyGood: The headstrong move is correct; bring everyone who can keep up.
-dailyBest: Move in the full direction, at full speed — and turn around before you arrive.
-dailyBad: Turn back before going further; something behind has broken and is asking to be seen.
-dailyWorst: Change direction — everything ahead has been closed off and the force has nowhere left to go.
+seasonalFortune: The curry paste holds the season's intensity — what comes through the heat determines what arrives at the plate.
+dailyMid: The wok catches fire; the beans surrender to the motion.
+dailyHigh: Each snap of the wok sends the beans further along their course; the kaffir lime opens a door that won't close again.
+dailyMost: The heat has spoken — the beans are already transformed and the fire keeps them moving.
+dailyLow: The flame wavers between temperatures; the beans sit longer in uncertainty.
+dailyLeast: The lime juice pools at the edge of the wok, not quite mixing — the force that was driving the whole thing hesitates.
 ---
 
 Red-Hot Green Beans are the Bean Zodiac's most headstrong — once decided, they move immediately.

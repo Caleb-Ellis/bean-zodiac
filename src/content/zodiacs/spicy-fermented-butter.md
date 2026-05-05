@@ -6,12 +6,12 @@ form: fermented
 trait: eccentric
 dish: Kimchi jjigae with butter beans - fermented napa cabbage stew with gochugaru.
 quote: Here is your bean, soft reader. It is a little strange and so am I.
-seasonalFortune: The strange idea has gone somewhere real — build the bridge back now, so someone else can see where you went.
-dailyNeutral: The strange idea is worth following — take it one step further into the open.
-dailyGood: The arrangement is yours and it is right; find the bridge that lets someone else see where you went.
-dailyBest: Follow the full strangeness and leave a path back.
-dailyBad: Keep following it without company — attention has moved on and the thread is untended.
-dailyWorst: Find a new entry point; the gap has grown past bridging and extending this one leads nowhere.
+seasonalFortune: The fermentation unfolds along its own calendar. The napa leaves bend where pressure guides them, not where hands expect. By season's end, what emerges will be worth the salt that preserved its strangeness.
+dailyMid: The gochugaru swirls in patterns the broth cannot predict.
+dailyHigh: The butter dissolves where the heat meets its own geometry — somewhere the kimchi was always meant to go.
+dailyMost: The stew sings from the bottom of the pot, indifferent to whether the spoon remembers its shape.
+dailyLow: The cabbage sheets lie where the brine left them — straightforward, legible, exactly as arranged.
+dailyLeast: The broth settles into clarity, each ingredient visible, nothing hidden beneath fermentation's work.
 ---
 
 Kimchi Butter Beans are the Bean Zodiac's most eccentric — their arrangement is one no one else could reproduce.

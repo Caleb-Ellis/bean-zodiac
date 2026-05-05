@@ -6,12 +6,12 @@ form: roasted
 trait: competitive
 dish: Roasted green beans with bitter almond crust and preserved lemon.
 quote: Beaning isn't everything, but wanting to is.
-seasonalFortune: A gap between effort and result is coming — it is evidence, and evidence can be used.
-dailyNeutral: Measure the gap and close it — that is the point.
-dailyGood: Push harder than the last round; the standard exists to be exceeded.
-dailyBest: Give everything available — hold nothing back, leave no margin for the next person.
-dailyBad: Share the margin today; winning alone here costs more than losing together would.
-dailyWorst: Let someone else take it — the competition is unnecessary.
+seasonalFortune: The almond crust does not soften under heat — it sets, hardens, becomes the standard by which the bean beneath is judged. A season of calibration, where the gap between what is achieved and what is possible becomes the only honest measure worth keeping.
+dailyMid: The lemon's acid cuts through; the gap is already visible to those looking.
+dailyHigh: Each pass under the flame tightens the crust — another round drives the standard higher.
+dailyMost: Drive the heat until the crust shatters — leave nothing on the tray for the next batch.
+dailyLow: The almond crust settles at good enough — the lemon already bright, the heat already done.
+dailyLeast: A tray pulled early, declared finished, the gap between that and best left unchecked.
 ---
 
 Wood-Fired Green Beans are the Bean Zodiac's most competitive — they need to win and want you to see it.

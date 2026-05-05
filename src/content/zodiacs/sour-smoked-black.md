@@ -6,12 +6,12 @@ form: smoked
 trait: withering
 dish: Sopa tarasca - smoked black bean purée with ancho chile, crema, and pickled chipotle
 quote: Hell hath no fury like a bean scorned.
-seasonalFortune: A standard will be applied before it has been made legible — name it first, so it can actually be met.
-dailyNeutral: The full weight of what you think is available — find the right target for it.
-dailyGood: Let it land at full weight; the deflation is warranted.
-dailyBest: Give it completely — aimed exactly, and let it do its work.
-dailyBad: Ease off; the critique landed as something personal rather than something useful, and that gap matters.
-dailyWorst: Things have stopped being offered for assessment. The force of the critique is the reason.
+seasonalFortune: The ash settles where it always aimed. What was meant to char speaks in silence.
+dailyMid: Smoke finds its own path through the kitchen.
+dailyHigh: The heat knows precisely where to land.
+dailyMost: Edges sharpen under sustained flame — let them clarify what lies beneath.
+dailyLow: The purée diffuses, its edges softening into the broth.
+dailyLeast: Warmth spreads evenly; every element receives the same measure.
 ---
 
 Cured Black Beans are the Bean Zodiac's most withering — their silences have a way of completing the sentence faster than any word could.

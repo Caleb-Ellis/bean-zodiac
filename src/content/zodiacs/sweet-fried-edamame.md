@@ -6,12 +6,12 @@ form: fried
 trait: motivated
 dish: Honey butter fried edamame — soybeans deep-fried until blistered, tossed hot in honey butter and flaked salt.
 quote: The secret of getting ahead is getting beaned.
-seasonalFortune: A momentum will build — check the compass, because what you are moving toward still needs to be yours.
-dailyNeutral: Set the target and move toward it — the energy is there.
-dailyGood: The momentum is building faster than you can track — trust it.
-dailyBest: Go at full speed — everything is pointing in the same direction.
-dailyBad: Allow something to rest; the pace is not sustainable and it is showing.
-dailyWorst: Slow down and account for what has been left behind — it is not going away.
+seasonalFortune: The honey thickens at the edge of the pan; which heat was chosen, which was inherited.
+dailyMid: Warmth rises from the oil — the seeds swell toward something.
+dailyHigh: The blister knows its moment; the salt finds its place.
+dailyMost: All skin splits open at once. This is the catch.
+dailyLow: The edamame settles in its shell — contentment without hurry.
+dailyLeast: The butter cools before it clings; seeds rest in their skins, waiting.
 ---
 
 Caramelised Edamame are the Bean Zodiac's most motivated — reliably pointed toward something, moving with warmth and urgency that pulls others along.

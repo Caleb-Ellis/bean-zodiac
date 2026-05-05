@@ -32,7 +32,7 @@ A **Preparation** = Flavour × Form name (30 total). Lookup: `getPreparationName
 - **`beans/`** — 12 files (name, tagline, traits[], color, imageFile)
 - **`flavours/`** — 5 files (name, character, traits[], color)
 - **`forms/`** — 6 files: boiled, dried, fermented, fried, roasted, smoked (name, tagline, traits[])
-- **`zodiacs/`** — 360 files, filename `{flavour}-{form}-{bean}.md`, frontmatter: slug, bean, flavour, form, trait, dish, quote, seasonalFortune, dailyNeutral, dailyGood, dailyBest, dailyBad, dailyWorst. Reference style: `bitter-boiled-adzuki.md`.
+- **`zodiacs/`** — 360 files, filename `{flavour}-{form}-{bean}.md`, frontmatter: slug, bean, flavour, form, trait, dish, quote, seasonalFortune, dailyMid, dailyHigh, dailyMost, dailyLow, dailyLeast. Reference style: `bitter-boiled-adzuki.md`.
 
 ### Pages
 
@@ -48,13 +48,13 @@ A **Preparation** = Flavour × Form name (30 total). Lookup: `getPreparationName
 
 Each zodiac has one `seasonalFortune` and three daily fortunes keyed to quality:
 
-- `dailyNeutral` - mild positive expression of the trait
-- `dailyGood` — stronger positive expression of the trait
-- `dailyBest` — best positive expression of the trait
-- `dailyBad` - mild negative expression of the trait
-- `dailyWorst` - medium negative expression of the trait (we don't want to be too negative)
+- `dailyMid` - mild positive expression of the trait
+- `dailyHigh` — stronger positive expression of the trait
+- `dailyMost` — best positive expression of the trait
+- `dailyLow` - mild negative expression of the trait
+- `dailyLeast` - medium negative expression of the trait (we don't want to be too negative)
 
-All fortunes: one sentence, one em dash allowed, no qualifying statements.
+The daily fortune that is selected is influenced by the user's claimed/spirit bean, the current season, and a random daily bean.
 
 ### Quality
 
@@ -96,7 +96,7 @@ Client props use `ZodiacSliceData` (beans + flavours + forms only) — not the f
 
 The claimed bean slug is stored in localStorage under the key `bean-zodiac-claimed`. A `<script is:inline>` in `Layout.astro`'s `<head>` pre-reads it into `window.__claimedBean` before React hydrates, so components can initialise state synchronously (no post-mount flicker). Helpers in `src/lib/claimedBean.ts`: `getClaimedBeanSlug`, `setClaimedBeanSlug`, `clearClaimedBeanSlug`.
 
-**Fortune history** — daily fortune entries stored under `bean-zodiac-fortune-history` as `FortuneEntry[]` (date, zodiacId, qualityId, text, score), newest first. `score`: 0 = no vote, +1 = thumbs up, -1 = thumbs down. Helpers in `src/lib/fortuneHistory.ts`: `getFortuneHistory`, `addFortuneToHistory`, `updateFortuneScore`, `clearFortuneHistory`. `ClaimedBeanResult` shows "Did this resonate?" 👍 Yes / 👎 No buttons below the daily fortune; vote is toggleable.
+**Fortune history** — daily fortune entries stored under `bean-zodiac-fortune-history` as `FortuneEntry[]` (date, zodiacId, qualityId, text, score), newest first. `score`: 0 = no vote, +1 = thumbs up, -1 = thumbs down. Helpers in `src/lib/fortuneHistory.ts`: `getFortuneHistory`, `addFortuneToHistory`, `updateFortuneScore`, `clearFortuneHistory`. `ClaimedBeanResult` shows "Accept" / "Resist" buttons below the daily fortune; vote is toggleable.
 
 **Met beans** — set of encountered zodiac IDs stored under `bean-zodiac-met-beans` as `ZodiacId[]`, newest first. Helpers in `src/lib/metBeans.ts`: `getMetBeans`, `addMetBean`, `clearMetBeans`. Recorded in three places: `ClaimedBeanResult` (claimed bean + seasonal bean + daily fortune bean on mount), `ZodiacWheelContainer` (any discovered bean on spin). On first visit to `/beaniary`, backfills from fortune history if the key is absent. All three localStorage stores are wiped together when the user relinquishes their bean.
 
@@ -106,7 +106,7 @@ Three SVG radar charts (flavour, form, bean) showing affinity scores. Rendered b
 
 - Baseline: all attributes start at 8.
 - Claimed bean's flavour/form/bean each get +4.
-- Each thumbs-up fortune adds +1 to that zodiac's flavour, form, and bean; thumbs-down subtracts 1.
+- Each accepted fortune adds +1 to that zodiac's flavour, form, and bean; thumbs-down subtracts 1.
 - Heirloom/rotten qualities apply 2× magnitude; stale/rotten negate the adjustment.
 - Charts auto-scale to max value (floor 16). Labels use per-attribute CSS color variables.
 
@@ -115,9 +115,9 @@ Three SVG radar charts (flavour, form, bean) showing affinity scores. Rendered b
 A scrollable vertical timeline showing how the Spirit Bean has shifted across seasons. Rendered by `Beanstalk.tsx`.
 
 - **Nodes**: all fortune history entries become nodes (scored or not). `score !== 0` → Accepted/Resisted pill; `score === 0` → grey Ignored pill.
-- **Season filter**: badge bar above the timeline, grouped by Bean Year (e.g. "🫘 Butter Bean 2025" header with preparation-name badges like "Caramelised", "Glazed"). Defaults to the current form-season on load; cannot be deselected, only switched. Selected season shows "The Season of the [ZodiacName]" at the top of the timeline.
+- **Year filter**: bean year badges above the timeline (e.g. "Sweet Butter Bean 2026"). Defaults to the current bean year on load; cannot be deselected, only switched.
 - **Left panel**: sticky, `h-svh`, shows the spirit zodiac name (via `ZodiacName`) and three stacked radar charts that animate (JS lerp via `requestAnimationFrame`) to the cumulative Spirit Bean scores at the active node.
-- **Right panel**: scrollable timeline with a vertical line (dark blue base, bright blue fill tracking scroll position). Fortune cards show the fortune zodiac name, badges, fortune text, and a scored/ignored pill.
+- **Right panel**: scrollable timeline with a vertical line (dark blue base, bright blue fill tracking scroll position). Fortune cards show the fortune zodiac name, badges, fortune text, and a scored/ignored pill. Season headers are included.
 - **Scroll tracking**: window scroll listener advances the active node when an element's top crosses 60% of the viewport; the fill bar height is updated directly via ref.
 - **Data**: `buildBeanstalkNodes(claimedSlug)` in `spiritBean.ts` builds the node list (all history, sorted ascending). `computeSpiritBeanScoresUpTo(claimedSlug, cutoffDateStr)` computes cumulative scores at a given date.
 

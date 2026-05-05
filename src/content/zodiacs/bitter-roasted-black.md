@@ -6,12 +6,12 @@ form: roasted
 trait: elegant
 dish: Bisque - roasted black beans with bitter espresso cream.
 quote: Elegance is not about being noticed, it's about being bean.
-seasonalFortune: The depth you carry will find someone who wants to be let past the surface — be there when they arrive.
-dailyNeutral: Let the depth speak for itself — no announcement is needed.
-dailyGood: Move through this with the assurance of something that requires no explanation.
-dailyBest: Everything unnecessary has been removed — what remains is the thing itself, entirely.
-dailyBad: Add some warmth to it; precision without approachability is just distance with good posture.
-dailyWorst: Let it be loose and a little imprecise — the room needs access more than it needs refinement right now.
+seasonalFortune: The bisque that holds — not because the cream was added, but because nothing false was. Refinement is its own kind of quiet; the espresso doesn't announce the depth, it simply is it.
+dailyMid: The roast pulls everything inward until only the essential remains.
+dailyHigh: Cream meets bitter without contest — the bisque knows exactly what it is.
+dailyMost: Strip the reduction to its darkest note. That is the flavor that was always there.
+dailyLow: The bisque arrives garnished — each flourish a small announcement of itself.
+dailyLeast: Espresso, cream, reduction, a finishing oil. The dish is generous to a fault, and the depth is somewhere underneath.
 ---
 
 Wood-Fired Black Beans are the Bean Zodiac's most elegant — depth that needs no announcement.

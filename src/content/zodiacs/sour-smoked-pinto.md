@@ -6,12 +6,12 @@ form: smoked
 trait: sardonic
 dish: Frijoles borrachos al mezcal - smoked pinto beans with mezcal, orange, and pasilla chile
 quote: Outside of a bean, a dog is a man's best friend. Inside of a bean, it's too dark to read.
-seasonalFortune: A plain thing will need to be said without the distance — find the one occasion where the remove comes down.
-dailyNeutral: The dry angle is the correct one — take it.
-dailyGood: Let the dryness run; the distance is the whole joke.
-dailyBest: Give it the full remove — completely dry, completely detached, and perfectly placed.
-dailyBad: Warm it slightly; the dry register has arrived as something closer to cruelty than wit, and the difference matters.
-dailyWorst: Real things have stopped being brought. The remove is the reason and the distance has become the problem.
+seasonalFortune: Smoke clears, eventually. This season, the veil thins — what once seemed clever begins to show its sinews, and the question becomes whether to peek or let it remain obscured.
+dailyMid: The mezcal burns clear. The observer steps forward to taste.
+dailyHigh: Orange peel and ash both belong on the tongue. The truth lands without warning.
+dailyMost: The remove dissolves. What was said at a distance is spoken face to face, and the air tastes like completion.
+dailyLow: The mezcal tastes like mezcal. The pasilla's heat comes straight through, unadorned.
+dailyLeast: All distance collapses. Everything means what it says, and there is nowhere else to stand.
 ---
 
 Cured Pinto Beans are the Bean Zodiac's most sardonic — their expressiveness has curdled into something that watches the proceedings from a slight remove.

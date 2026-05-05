@@ -6,12 +6,12 @@ form: dried
 trait: serene
 dish: Butter bean and honey semifreddo — dried butter beans cooked to silk and folded into whipped honey cream, then frozen.
 quote: Peace begins with bean.
-seasonalFortune: Ancient bean wisdom says — serenity comes from within.
-dailyNeutral: Bring the calm outward; it reaches further than it appears.
-dailyGood: The steadiness you carry is what others are borrowing.
-dailyBest: Let the peace extend outward until everything around you has slowed to meet it.
-dailyBad: Show the care beneath the peace — the calm reads as indifference, and it is being taken personally.
-dailyWorst: Reach back — unreachable is what you are being called, and the charge is sticking.
+seasonalFortune: The honey settles without stirring, but the layer beneath is thickening. This season — stillness contains its own small hunger. Feed what remains patient.
+dailyMid: The silk holds its surface. What passes through, recognizes itself.
+dailyHigh: The semifreddo does not announce its sweetness — it simply arrives, and everything stops to taste it.
+dailyMost: The cream has found its stillness; the room takes its temperature from the bowl.
+dailyLow: The freezing accelerates; scattered warmths seek each other frantically.
+dailyLeast: The spoon moves without resting — each stroke breaks what was becoming whole.
 ---
 
 Crystallised Butter Beans are the Bean Zodiac's most serene — the ease has been purified of the softness, leaving something still and enduring.

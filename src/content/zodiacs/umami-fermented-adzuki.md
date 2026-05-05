@@ -6,12 +6,12 @@ form: fermented
 trait: philosophical
 dish: Hatcho miso shiru - adzuki simmered in two-year aged hatcho miso with silken tofu.
 quote: I think, therefore I am a bean.
-seasonalFortune: A question will want to be shared before it has resolved — let it out while it is still open.
-dailyNeutral: Follow the question; the thinking you are in is going somewhere worth staying.
-dailyGood: Let the question grow to its full size — it has earned that.
-dailyBest: Sit all the way inside it; the deepest questions ask for everything, and this is the moment for everything.
-dailyBad: Give the conclusion that is being asked for; the question can continue somewhere it is not being timed.
-dailyWorst: Close it; what is still open is being read as unfinished work, not unfinished thought.
+seasonalFortune: The brine deepens with time. What ferments beneath the surface — slower than expectation, richer than what first appeared — carries the umami of months. The question isn't whether it will develop, but what kind of depth it will become.
+dailyMid: The layers inside the paste are still becoming.
+dailyHigh: The fermentation is revealing what was always there, inaccessible until now.
+dailyMost: A complexity emerges that couldn't have been predicted — the miso teaches what it took time to know.
+dailyLow: The flavour arrives quickly, needing nothing but appetite.
+dailyLeast: The surface is enough; the answer tastes like itself.
 ---
 
 Miso Adzuki Beans are the Bean Zodiac's most philosophical — they've thought everything through.

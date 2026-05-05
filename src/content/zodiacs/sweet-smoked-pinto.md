@@ -6,12 +6,12 @@ form: smoked
 trait: ghostly
 dish: Frijoles charros - pinto beans simmered with smoked bacon, chipotle, sweet tomato, and piloncillo.
 quote: I see bean people.
-seasonalFortune: A story will be vivid but you will want to stay just out of reach — step fully into what you are expressing, so there is someone there to receive it.
-dailyNeutral: Let your presence be felt even where it is not fully declared.
-dailyGood: The impression you leave will carry on long after you have moved through.
-dailyBest: Be the thing that remains — step fully into the story and let yourself be entirely in it.
-dailyBad: Come fully in; the atmosphere is there but the presence behind it is not.
-dailyWorst: Show up completely — the fading has gone so far that nothing is being arranged around you anymore.
+seasonalFortune: Smoke rises from the pot with intention — the season asks what lingers in air after the heat has done its work, what flavour persists when the hand that seasoned it withdraws.
+dailyMid: The broth knows the hand that stirred it, though the hand has moved on.
+dailyHigh: Bacon fat clarifies the water; the unseen makes the invisible suddenly visible.
+dailyMost: The piloncillo dissolves into sweetness that moves through the beans like a story told in the dark — present because it is incomplete.
+dailyLow: The pot sits full and steaming; each bean holds its own taste without whisper or echo.
+dailyLeast: The flavours settle into their own shapes — the chipotle is chipotle, the tomato is tomato, the bean simply a bean.
 ---
 
 Barbecued Pinto Beans are the Bean Zodiac's most ghostly — the story is vivid, but the teller is somewhere just out of reach.

@@ -6,12 +6,12 @@ form: fried
 trait: excitable
 dish: Tempura - green beans with bitter matcha salt.
 quote: Nothing great in the world was ever achieved without beans!
-seasonalFortune: Something genuinely worth the full sprint is about to appear — save the energy for it, and you will know it when it arrives.
-dailyNeutral: The energy is there — direct it at what is in front of you.
-dailyGood: Full enthusiasm, full speed — this is exactly what it was built for.
-dailyBest: Everything in you is pointed at this — give it the full sprint without holding anything back.
-dailyBad: Slow down and match the room's pace; the energy is good but the gap is getting too wide.
-dailyWorst: Bring it all the way down — full calm, full quiet, and let someone else set the tempo for now.
+seasonalFortune: The oil is hot and the batter is ready — something real is arriving, and the season rewards the one who enters the moment without hesitation.
+dailyMid: The crunch comes to those who meet the heat; the bean that waits in batter does not stay crisp forever.
+dailyHigh: Matcha salt knows exactly where to land — the direction is sharp, and the leap is the right one.
+dailyMost: Full heat, full contact, full light — throw the bean into the oil and don't look away.
+dailyLow: The oil is hot and the batter is ready — the bean takes its time deciding.
+dailyLeast: Matcha salt lands on the plate; the heat does its work; the crunch arrives to a quiet table.
 ---
 
 Scorched Green Beans are the Bean Zodiac's most excitable — they bring full enthusiasm with clear direction.

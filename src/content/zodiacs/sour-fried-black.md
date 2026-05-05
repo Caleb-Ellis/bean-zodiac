@@ -6,12 +6,12 @@ form: fried
 trait: direct
 dish: Black bean tostadas with lime crema - refried black beans on a crisp fried tortilla with sour cream and lime.
 quote: Say what you bean and bean what you say.
-seasonalFortune: A moment will ask for the direct version — what feels like a risk will build something more durable than a softer approach would have.
-dailyNeutral: Go straight to the point — the preamble is not adding anything.
-dailyGood: The direct version is there; trust it and deliver it.
-dailyBest: Say it without approach — the room is ready for the unmediated thing.
-dailyBad: Take a step back before you say the thing; the version without any approach is reading as bluntness right now.
-dailyWorst: Go around. Someone has used the word "aggression" and the room has agreed, so the straight route is closed.
+seasonalFortune: The beans have split their skin and let their interior show. This is the season of surfaces stripped bare — what was hidden now catches light without filter or apology.
+dailyMid: The lime cuts through. Its sharpness doesn't soften the bean; it renders the bean more itself.
+dailyHigh: Acid finds its mark. The brightness makes what is true unmissable.
+dailyMost: The bean cracks open. What spills out needs no translation.
+dailyLow: The path winds first. The spice arrives in layers, then reveals what was underneath.
+dailyLeast: The flavours travel hidden — each note arrives as its own story, waiting to be found.
 ---
 
 Agrodolce Black Beans are the Bean Zodiac's most direct — they see it and say it.

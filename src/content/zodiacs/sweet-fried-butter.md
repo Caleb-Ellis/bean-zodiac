@@ -6,12 +6,12 @@ form: fried
 trait: nonchalant
 dish: Frittelle di fagioli — Tuscan fried white bean fritters, dusted with sugar and drizzled with chestnut honey.
 quote: Whatever, it's beans.
-seasonalFortune: The bean prophecy is clear — whatever it is, it's probably fine.
-dailyNeutral: Let the weight land lightly — the ease is genuine.
-dailyGood: The cool you bring is holding the temperature — hold it.
-dailyBest: Carry it all without carrying it — it is the right answer for exactly this.
-dailyBad: Take this one seriously; what is in front of you is not something to be easy about.
-dailyWorst: Give it the full weight it needed — the shrug has already done damage and only seriousness recovers it.
+seasonalFortune: The fritter cools; the honey pools. What rises golden will settle into sweetness, and nothing requires intervention.
+dailyMid: The caramel darkens at its own pace — pressure hastens nothing that isn't already underway.
+dailyHigh: Lightness does the work. Where others see crisis, the surface holds; beneath it, the bean retains its shape.
+dailyMost: The dusting falls where it falls. Acceptance is the only labor, and it weighs nothing.
+dailyLow: The pan demands attention — heat and timing are not forgiving in this moment.
+dailyLeast: The honey hardens; sweetness requires intention. Some currents cannot be ridden.
 ---
 
 Caramelised Butter Beans are the Bean Zodiac's most nonchalant — things happen without making any visible dent.

@@ -6,12 +6,12 @@ form: fried
 trait: decisive
 dish: Agedashi - edamame with bitter dashi and daikon.
 quote: In any bean moment of decision, the best thing you can do is the right thing.
-seasonalFortune: A fast call will be correct — let the working be visible once so others can trust the speed.
-dailyNeutral: The information is in — make the call.
-dailyGood: The working is done; deliver the decision without review.
-dailyBest: Call it immediately, completely, without looking back.
-dailyBad: Reconsider this one; the good points being raised deserve more than a closed door.
-dailyWorst: Reverse the call — getting it right matters more than having been right the first time.
+seasonalFortune: Daikon root holds both sharpness and sweetness within. The knife must choose one, even as the broth learns to honor both. Speed alone tastes thin; the best cuts show their hesitation first.
+dailyMid: The pod splits cleanly. What was contained now stands separate.
+dailyHigh: The heat has done its work. The shell cracks at the first bite without negotiation.
+dailyMost: The dashi remembers every decision before the bean even entered the pot.
+dailyLow: The pod holds longer than necessary. The broth waits, already seasoned.
+dailyLeast: The dashi circles the bean slowly — warmth without a moment of arrival.
 ---
 
 Scorched Edamame are the Bean Zodiac's most decisive — when information is in, they make the call.

@@ -6,12 +6,12 @@ form: dried
 trait: cryptic
 dish: Frijoles de Olla - with ancho chile and epazote.
 quote: Any sufficiently advanced bean is indistinguishable from magic.
-seasonalFortune: Someone will want the key — offer it before they stop looking.
-dailyNeutral: The meaning is in the markings — let those who can read them find it.
-dailyGood: Offer nothing unearned; the code stands, and the right reader will arrive.
-dailyBest: Everything needed is already present — nothing more will be offered, and nothing more is needed.
-dailyBad: Say it plainly this once; not every exchange can afford the longer route to meaning.
-dailyWorst: Drop the code entirely and just tell them — the door will not stay open much longer.
+seasonalFortune: The pinto's speckled skin remembers what heat took from it. Within the desiccated shell, a residual story — not written, but impressed. A season of being read slowly, in the quiet of slow cooking, when time is a broth and meaning settles at the bottom.
+dailyMid: The speckles whisper their patterns; those attuned to variations already understand.
+dailyHigh: The skin holds its alphabet; a decoder arrives with fresh eyes and reads fluently.
+dailyMost: Let the speckles speak — those who listen know the language without grammar.
+dailyLow: The speckles arrange themselves plainly today — a legible map, each mark landing where it says it does.
+dailyLeast: Frijoles de Olla simmers open and readable, its ancho broth giving everything away before the first spoonful.
 ---
 
 Desiccated Pinto Beans are the Bean Zodiac's most cryptic — the markings are there, the meaning is not offered freely.

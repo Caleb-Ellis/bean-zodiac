@@ -6,12 +6,12 @@ form: roasted
 trait: unpredictable
 dish: Frijoles charros - pinto beans simmered with roasted pasilla chiles, bacon, and jalapeño.
 quote: Consistency is the last refuge of the bean-less.
-seasonalFortune: A surprise is coming — build enough of a foundation that it continues to read as a feature, not as weather.
-dailyNeutral: The surprise is real and warm. Let it land.
-dailyGood: The unpredictability is real and warm; give it a stable thing to stand on.
-dailyBest: Bring the full unpredictability — and give it the foundation it needs to be trusted.
-dailyBad: Hold still before the next move; something stable is being asked for and the ground has shifted one time too many.
-dailyWorst: Stop moving; what needed stable ground has lost trust in this one and gone to find it elsewhere.
+seasonalFortune: The roasted bean holds fire unpredictably. Some seasons the pasilla's smoky depth emerges first; others the jalapeño ignites before anything settles. This is the season to trust the order that reveals itself, not the order planned.
+dailyMid: The bacon crackles in an unexpected rhythm. The simmer finds pockets of heat that weren't mapped. Small departures make the dish itself.
+dailyHigh: The pot contains multitudes. Pasilla, jalapeño, and char trade places — each day the flavor arrives in a new hierarchy. This is mastery wearing a different face each time.
+dailyMost: The full range of the roasted bean reveals itself — a different heat signature, a different balance, a different soul entirely. The foundation holds. The surprises multiply.
+dailyLow: The patterns settle into grooves. Each ingredient finds its place and stays. The jalapeño's fire follows the same descent.
+dailyLeast: The beans roast to the same copper every time. The bacon offers no variation. Heat becomes predictable, mapped, and contained.
 ---
 
 Peri-Peri Pinto Beans are the Bean Zodiac's most unpredictable — no two appearances are the same.

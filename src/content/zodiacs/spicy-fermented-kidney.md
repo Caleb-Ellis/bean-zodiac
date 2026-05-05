@@ -6,12 +6,12 @@ form: fermented
 trait: obsessive
 dish: Kidney bean gochujang jorim - Korean braised kidney beans in fermented chili paste.
 quote: One passion, one purpose — and a bean becomes invincible.
-seasonalFortune: The obsession will be faithful — surface once before it closes, not to redirect, but to check that where you are is still where you meant to be.
-dailyNeutral: The focus is real — give it the full weight of the day.
-dailyGood: The obsession has earned its depth; run the full depth of it.
-dailyBest: Everything belongs to the thing — give it completely, without remainder.
-dailyBad: Read the interest level honestly; the focus has outlasted it, and the depth is no longer welcome.
-dailyWorst: Let go of what absorbed you — the conversation has closed and something else is being asked for.
+seasonalFortune: The brine holds what was loosened — months compress into a single clarity, flavor building on itself, until the thing that seemed most scattered is precisely what the palate seeks.
+dailyMid: The paste thickens daily — each fold of attention deepens what was already formed.
+dailyHigh: Fermentation demands a singular vision — the chilis marry with time into something indivisible.
+dailyMost: The slow reduction becomes the whole meal — everything else dissolves into what remained.
+dailyLow: The lid lifts — flavors drift upward and vanish, each moment separate, unrepeated.
+dailyLeast: The jar stays open — the heat escapes, the brine loses its hold, boundaries dissolve.
 ---
 
 Kimchi Kidney Beans are the Bean Zodiac's most obsessive — they have found the thing and will not stop.

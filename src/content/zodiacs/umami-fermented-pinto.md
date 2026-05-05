@@ -6,12 +6,12 @@ form: fermented
 trait: apathetic
 dish: Pinto beans slow-braised with fish sauce, caramelised onion, and lime.
 quote: The opposite of bean is not hate, it's indifference.
-seasonalFortune: The feeling that went quiet will return — follow the first small sign of it back, without waiting for certainty.
-dailyNeutral: Follow what is true; the direction you are being pulled is real.
-dailyGood: Let the pull lead; it knows where the feeling is.
-dailyBest: Go where it is strongest and stay until something answers.
-dailyBad: Perform the enthusiasm; the absence is being noticed and the gap is widening.
-dailyWorst: Match the investment being asked for; the indifference is being named a problem and the cost is accumulating.
+seasonalFortune: Lime cuts through layers when the palate has gone dull. What emerges beneath the accumulated depth — a flavor from another season, a brightness the tongue had forgotten.
+dailyMid: The silence holds something. Fish sauce ferments for years before its purpose becomes clear.
+dailyHigh: Stillness has its own flavor. Caramelised depths sweeten without sound.
+dailyMost: Numbness is not absence — it is saturation. The bean knows every angle of the brine.
+dailyLow: Brightness cracks the surface. Acid wakes the dormant palate to all that it holds.
+dailyLeast: The smallest shift in temperature carries flavor again. One bright note arrives where drowsiness had settled.
 ---
 
 Miso Pinto Beans are the Bean Zodiac's most apathetic — feeling has become, for now, exhausting.

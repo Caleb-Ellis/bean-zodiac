@@ -6,12 +6,12 @@ form: fermented
 trait: minimalist
 dish: Butter bean and labneh with preserved lemon and olive oil.
 quote: Less is bean.
-seasonalFortune: The space that has been made will be asked to hold something — what remains is what was always essential.
-dailyNeutral: The simpler version is the right one — use it.
-dailyGood: Take out one more thing; what is left will be better for the absence.
-dailyBest: Leave only what is irreducible — everything else was decoration, and the room will know the difference.
-dailyBad: Add something; the stripped-back version is reading as indifference and the room needed more.
-dailyWorst: Fill it in, all of it. Someone else is already doing it and the gap you left is the story now.
+seasonalFortune: The brine deepens — each preserved layer speaks louder than the whole once did. Clarity tastes of salt and time.
+dailyMid: The kernel remains. Everything else was kindling.
+dailyHigh: Another element falls away and the taste clarifies. Essential rises to the surface.
+dailyMost: Only the irreducible survives — the rest was always ceremony.
+dailyLow: The plate fills. Abundance arrives unbidden, each element distinct and demanding.
+dailyLeast: Every ingredient sings at once. The palate can follow only one voice.
 ---
 
 Pickled Butter Beans are the Bean Zodiac's most minimalist — they have learned that most things improve by taking something away.

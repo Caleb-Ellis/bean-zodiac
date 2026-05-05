@@ -6,12 +6,12 @@ form: roasted
 trait: understated
 dish: Boston baked navy beans with apple cider vinegar, whole grain mustard, and brown sugar
 quote: The bean doth protest too little, methinks.
-seasonalFortune: What is held back will not go unnoticed — the Beans paying attention will see what is there without the announcement, and they are the ones that count.
-dailyNeutral: The quieter version is the stronger one — use it.
-dailyGood: Say less; the weight is in what is held back.
-dailyBest: Reduce it to the minimum — the single thing that carries the whole meaning, and nothing else.
-dailyBad: Give them more than usual; the held-back version is reading as insufficient and the room is asking directly.
-dailyWorst: A louder voice has been brought in. Say what you mean out loud this time, or nothing will land.
+seasonalFortune: The vinegar rises through the season — what was folded underneath unfolds slowly. Warmth accumulates in the dark places.
+dailyMid: Layers open quietly, one at a time.
+dailyHigh: The whole dish speaks in the space between ingredients.
+dailyMost: The steam carries what the surface cannot say.
+dailyLow: Everything announces itself at once. The flourish fills the air.
+dailyLeast: The loudest note drowns the rest. Clarity demands the full voice.
 ---
 
 Chimichurri Navy Beans are the Bean Zodiac's most understated — they offer much without announcement.

@@ -6,12 +6,12 @@ form: boiled
 trait: detail-oriented
 dish: Pinto bean caldo with epazote and tomatillo.
 quote: The bean is in the details.
-seasonalFortune: The whole will become visible soon — step far enough back to see it before the detail work consumes the remainder.
-dailyNeutral: The detail others skipped is the one that matters — find it.
-dailyGood: Step back before continuing; the brushwork only resolves from a distance.
-dailyBest: Nothing passes your eye unseen — apply the full measure of attention without compromise.
-dailyBad: Call it good enough and put the brush down; the last pass is costing more than it will save.
-dailyWorst: Send it — imperfect and out the door is more useful than perfect and still on the table.
+seasonalFortune: The eye that dissolves in the grain of wood misses the tree it came from. A season ripens toward convergence — the precise grain that seemed to matter will give way to structure that endures.
+dailyMid: The thread others left dangling is the one that unravels everything.
+dailyHigh: In the clearing that others deemed complete, a single stone still sits where it fell.
+dailyMost: The broth that has been tasted at every stage tastes of everything that built it.
+dailyLow: The caldo reaches the table warm and fragrant — close enough to the recipe.
+dailyLeast: The epazote goes in by the handful, the tomatillo by feel, and the broth still nourishes.
 ---
 
 Infused Pinto Beans are the Bean Zodiac's most detail-oriented — they notice what others skip, finding errors most miss.

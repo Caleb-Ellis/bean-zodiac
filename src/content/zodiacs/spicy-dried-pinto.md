@@ -3,19 +3,19 @@ slug: spicy-dried-pinto
 bean: pinto
 flavour: spicy
 form: dried
-trait: blazing
+trait: untempered
 dish: New Mexican dried pinto bean stew with ancho and red New Mexico chile.
 quote: It's better to burn out than to bean away.
-seasonalFortune: An intensity is coming that will ask for everything — rest accordingly beforehand, so there is something left for what comes after.
-dailyNeutral: The temperature is high. Give the work what the moment actually calls for.
-dailyGood: The full expressiveness is available; bring it entirely to what is in front of you.
-dailyBest: Hold nothing back from this one — everything you touch will carry the full fire.
-dailyBad: Lower the temperature — what is in range cannot hold this heat, and something worth keeping is about to be damaged.
-dailyWorst: Contain it — the full flame is more than the moment can hold.
+seasonalFortune: The embers leave scorch marks before the ash settles — what remains after the burn tells the truer story than the heat itself.
+dailyMid: Flames rise without asking permission; the walls around them decide what survives.
+dailyHigh: Every surface glows red — the dish demands all the spice it can hold.
+dailyMost: Nothing stays unburned — scorch the beans until the char speaks louder than the seed.
+dailyLow: The peppers wait in their pods; the broth cools before it claims the pot.
+dailyLeast: Simmer low where the flavors stack without rushing — patience is the only spice that deepens.
 ---
 
-Sichuan Pinto Beans are the Bean Zodiac's most blazing — the expressiveness has found its highest temperature, and it is not interested in being moderated.
+Sichuan Pinto Beans are the Bean Zodiac's most untempered — the expressiveness has found its highest pitch, and it is not interested in being moderated.
 
-Pinto Beans wear their interior openly and vividly; Spicy Beans add heat until the effect is total; Dried Beans concentrate the energy, leaving nothing to dampen what comes out.
+Pinto Beans wear their interior openly and vividly; Spicy Beans drive the energy until the effect is total; Dried Beans concentrate it, leaving nothing to cushion what comes out.
 
-The Sichuan Pinto Bean's challenge is what remains when the fire has passed through. Creation at full burn is real — but these Beans must ask whether they have left anything for the next piece of work, or given it all to this one.
+The Sichuan Pinto Bean's challenge is what remains when the force has passed through. Creation at full pitch is real — but these Beans must ask whether they have left anything for the next piece of work, or given it all to this one.

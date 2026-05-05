@@ -6,12 +6,12 @@ form: smoked
 trait: ethereal
 dish: Smoked mung with bitter chrysanthemum and wood ear.
 quote: Tread softly because you bean on my dreams.
-seasonalFortune: Your care will pass through rooms and change them — find one gesture tangible enough to be held.
-dailyNeutral: Let the care arrive without explanation — it will be felt even without a source.
-dailyGood: Reach further than seems possible; what you tend does not need to be in sight.
-dailyBest: Let the care pass through walls — there is no limit on how far it reaches.
-dailyBad: Make the care tangible; something here needs to be held, not sensed.
-dailyWorst: Show up in a way that can be pointed to — the presence is real, but right now it cannot be found.
+seasonalFortune: Chrysanthemum steeps longest in the coldest water — the season ahead belongs to care that crosses distances without shortcut, reaching things that have no name for what they need.
+dailyMid: Smoke finds the wood ear without being asked.
+dailyHigh: The bitterness carries further than the source.
+dailyMost: Move through the membrane between tended and untended.
+dailyLow: The mung stays in its hull — solid, legible, a thing with edges.
+dailyLeast: Wood ear fits the log exactly, knowing precisely what it is.
 ---
 
 Charcoal Mung Beans are the Bean Zodiac's most ethereal — their care reaches beyond where others can see it going, to things without clear form.

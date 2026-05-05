@@ -6,12 +6,12 @@ form: smoked
 trait: murky
 dish: Mole negro - Oaxacan black beans simmered in smoked mulato and pasilla chile sauce.
 quote: Still waters run bean.
-seasonalFortune: Something will move through you at considerable heat and want to surface — give it enough clarity to be approached.
-dailyNeutral: Something is moving in there — let one piece of it become readable.
-dailyGood: The heat has been running long enough; give it enough clarity to be approached.
-dailyBest: Let the full interior surface — enough to be approached, and approached completely.
-dailyBad: Stop waiting for clarity — the decision has already been made against what was building.
-dailyWorst: Surface something before whatever is paying attention moves on; the interior is no longer being looked at.
+seasonalFortune: Smoke rises through layers — each one darker than the last, each one holding something the others cannot name. The season asks not that the darkness clear, but that something moves within it with purpose, with direction, with intention most cannot witness.
+dailyMid: In the hull, in the char, the flavor assembles in shadow.
+dailyHigh: Complexity flowers in the place where no light reaches — each note emerges from its own small darkness.
+dailyMost: The depth creates its own weather. Inside, the storm knows exactly where it is.
+dailyLow: Everything glows at the surface; the beans show all they are.
+dailyLeast: Transparency from edge to edge — nothing withheld, nothing held.
 ---
 
 Chipotle Black Beans are the Bean Zodiac's most murky — something is moving in there at some intensity, and it does not announce itself.

@@ -6,12 +6,12 @@ form: dried
 trait: circumspect
 dish: Ceci in Zimino - chickpeas with bitter chard.
 quote: Look before you bean.
-seasonalFortune: A thing you have been protecting yourself from is about to resolve — check whether what is kept out still warrants the caution.
-dailyNeutral: Read the room before committing — there is more to see.
-dailyGood: Hold your position until the conditions are fully clear; nothing needs to be decided before they are.
-dailyBest: Survey every angle before you move — at this depth, looking is not delay, it is the work.
-dailyBad: Decide now with what you have; the picture will never be as complete as you would like.
-dailyWorst: Commit to something and move — the window does not have your schedule.
+seasonalFortune: The chard beneath the surface is beginning to turn — what was kept separate finds itself binding again. The threshold between tasting and consuming grows thin.
+dailyMid: The pot hasn't yet boiled. Some beans remain waiting in their examination, unmilled, unbroken.
+dailyHigh: The mist still sits between the observer and the observed. Time for another layer of discernment before the flavour deepens.
+dailyMost: At this turning, the depth itself is the answer. The chard and the legume are still learning each other — there is no movement until both are ready.
+dailyLow: The chickpea goes into the broth before the chard has wilted. The dish arrives at the table still deciding what it is.
+dailyLeast: Ceci in Zimino, plated mid-simmer — the chard still sharp, the beans still hard. A commitment made before the conditions were read.
 ---
 
 Desiccated Chickpeas are the Bean Zodiac's most circumspect — they move between worlds carefully, committing nothing before the conditions are clear.

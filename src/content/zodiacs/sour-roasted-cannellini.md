@@ -6,12 +6,12 @@ form: roasted
 trait: tactful
 dish: Cannellini al forno con gremolata - oven-roasted cannellini with lemon, parsley, and garlic
 quote: Diplomacy is the art of telling someone their bean is wrong in a way that makes them want to fix it.
-seasonalFortune: A conversation is coming that will need careful handling — what it builds will outlast the situation that required the care.
-dailyNeutral: The careful version is there — use it.
-dailyGood: Take another pass at the phrasing; the right words are close.
-dailyBest: Give it every ounce of consideration — the most precisely right version of what needs to be said.
-dailyBad: Say the plain version; all the careful phrasing is landing as evasion and the room is losing patience.
-dailyWorst: Drop the wrapping and say the thing directly. The care around it has been named the reason nothing got resolved.
+seasonalFortune: Gremolata is bright oil, herb, and citrus held in tension — each part depends on its measure. A season of precise calibration approaches; what is preserved will be the balance itself.
+dailyMid: The lemon's edge finds its moment between the salt and the warmth.
+dailyHigh: Each element arrives in its own measure, adding without drowning.
+dailyMost: The plate arrives complete — each guest tastes exactly what was intended.
+dailyLow: The flavors blur forward, unfiltered and all at once.
+dailyLeast: Raw garlic speaks before the oil can soften it.
 ---
 
 Chimichurri Cannellini Beans are the Bean Zodiac's most tactful — they deliver hard truths wrapped in genuine care.

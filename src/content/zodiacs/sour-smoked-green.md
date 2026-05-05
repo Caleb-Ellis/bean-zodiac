@@ -6,12 +6,12 @@ form: smoked
 trait: pungent
 dish: Leather britches - Appalachian smoke-dried green beans simmered with ham hock and cider vinegar
 quote: A bean by any other name would smell as sweet.
-seasonalFortune: You will arrive before you are expected — learn to arrive before making an entrance.
-dailyNeutral: The presence is already arriving before you — let it.
-dailyGood: Fill the space; the full intensity is the signal you are sending and it is the right one.
-dailyBest: Arrive at complete intensity — everything about you at full strength, before a word is spoken.
-dailyBad: Dilute it slightly; the full strength arrived as overwhelming and that is now the impression that has stuck.
-dailyWorst: The intensity is the reason things are emptying out. Dial it back before the space is entirely clear.
+seasonalFortune: Smoke memory lingers in the beans — a clarity that arrives in the room first, settles in the corners, announces itself before any welcome. The season asks; can sharpness teach without wounding? Can pungency make space for listening?
+dailyMid: The smoke announces itself. A distinct note that arrives before conversation.
+dailyHigh: Smoke fills the room completely. Every corner carries the signature — unmistakable, irreplaceable, the dominant note in every mixture.
+dailyMost: Smoke becomes the air itself. So present, so integral, that everything else is seasoning.
+dailyLow: The smoke disperses thinly. A ghost of a note — detectable only at the edges, easy to miss.
+dailyLeast: The smoke dissolves before landing. A suggestion, a half-memory, barely present at all.
 ---
 
 Cured Green Beans are the Bean Zodiac's most pungent — their optimism has developed an edge that fills the room before they have entered it.

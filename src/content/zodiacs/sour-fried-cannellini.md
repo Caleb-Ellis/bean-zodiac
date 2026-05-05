@@ -6,12 +6,12 @@ form: fried
 trait: meticulous
 dish: Fagioli al limone con capperi - Italian cannellini beans pan-fried with capers, garlic, and lemon zest.
 quote: For every bean, there is a season, and a proper form.
-seasonalFortune: The detail will do its work — step back after and check whether the whole is moving in the direction it was built for.
-dailyNeutral: The detail is worth attending to — stay with it.
-dailyGood: Go through it carefully; the small things are what the whole depends on.
-dailyBest: Give every part of it the full attention — nothing too small to look at properly.
-dailyBad: Let this one go at 90%; a lighter pass is what the moment needs and the extra care is not landing as care.
-dailyWorst: Hand it off. Someone less thorough has been given the work because the thoroughness was slowing everything down.
+seasonalFortune: The caper floats alone until it finds the bean — each element polished by its own discipline, then brought to the plate. The zest will know when it's enough.
+dailyMid: The lemon peel curls from the fruit with steady pressure — this is the day for small calibrations.
+dailyHigh: Every layer peels clean when the knife knows where to go. The capers will arrange themselves where they belong.
+dailyMost: The oil hisses at exactly the right temperature. This is when the finest grain of salt makes the difference.
+dailyLow: The pan is hot and the beans go in — let the warmth work without ceremony.
+dailyLeast: Throw the lot together while the oil is still moving. Rough edges catch the flavor better.
 ---
 
 Agrodolce Cannellini Beans are the Bean Zodiac's most meticulous — they do it correctly at speed and notice when others haven't.

@@ -6,12 +6,12 @@ form: smoked
 trait: unbridled
 dish: Besara - Egyptian smoked fava bean soup with caramelised onion and dried chili.
 quote: Born free, as bean as the wind blows.
-seasonalFortune: A motion will find its limit — learn the difference between the limit that constrains you and the one that keeps what you are building in the world.
-dailyNeutral: Move. The force is real and the direction is clear.
-dailyGood: The unbridled force is at full strength; find the limit that is a feature, not a constraint.
-dailyBest: Move with complete freedom — and find the boundary that makes it sustainable.
-dailyBad: Set a boundary before more spills; the structure has given way and what was built has nothing left to hold it.
-dailyWorst: Contain what is left — the edges have given way and the work has spilled past what can be recovered.
+seasonalFortune: The smoke seeks its shape through air this season — some corridors let it pour through freely, others contain it into something that smolders.
+dailyMid: Embers know their own direction; follow where the heat carries.
+dailyHigh: The caramelisation deepens where nothing interferes — layers build on layers of caramelised intent.
+dailyMost: Smoke rises where the fire is fiercest; let the current run to the thickest part of the soup.
+dailyLow: The onions sweeten slowly; some fires require the longer heat.
+dailyLeast: The chili's warmth settles into the base, patient in the depth.
 ---
 
 Chipotle Fava Beans are the Bean Zodiac's most unbridled — the courage has found the accelerant, and no one can say where the boundary has gone.

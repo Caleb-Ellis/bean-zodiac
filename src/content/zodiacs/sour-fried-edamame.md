@@ -6,12 +6,12 @@ form: fried
 trait: blunt
 dish: Edamame gyoza with black vinegar dipping sauce - pan-fried edamame dumplings with Zhenjiang vinegar.
 quote: A bean that is used to lying will find that the truth is a very uncomfortable thing.
-seasonalFortune: What will need to be said plainly is coming — the Beans it lands hardest on will be the ones who return for more.
-dailyNeutral: The plain version is available — use it.
-dailyGood: Say it without the cushion; the clarity is what makes it useful.
-dailyBest: Give it completely unpadded — the plain version is the kind one here, and everyone in the room already knows it.
-dailyBad: Add a little cushion; the version without any has been received as unkind and the word has been said aloud.
-dailyWorst: People have started being careful around you, and the reason they give is not wrong — find some padding, at least for now.
+seasonalFortune: The straight path announces itself. Those who taste the vinegar sharp will ask for more of it.
+dailyMid: The sauce floats separate from the dumpling — dip as needed.
+dailyHigh: Bite through the wrapper into the filling; the bitterness sharpens what is inside.
+dailyMost: The vinegar requires no apology. Its edge cuts clean.
+dailyLow: The layers thicken — wrapper upon wrapper, filling hidden beneath softness.
+dailyLeast: Something sweetens the approach. The sauce mellows before the dipping begins.
 ---
 
 Agrodolce Edamame are the Bean Zodiac's most blunt — unwilling to soften what can simply be said.

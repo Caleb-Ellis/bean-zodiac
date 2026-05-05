@@ -6,12 +6,12 @@ form: boiled
 trait: daydreamy
 dish: Frijoles con leche — pinto beans simmered in sweetened milk with cinnamon and piloncillo until the broth turns pale and dreamlike.
 quote: I have bean a dreamer. I have joined the great company of those who make the imagination of mankind rich.
-seasonalFortune: The actual version will ask to be committed to — step into it, and see what it can become.
-dailyNeutral: Let the mind go where it wants.
-dailyGood: The image that keeps returning deserves more time.
-dailyBest: The inner world you are traveling has more to show you — stay in it.
-dailyBad: Someone is asking for your full attention and getting the edge of it — the ask is pointed.
-dailyWorst: Surface before the naming is final — the absence is being called out, and the distance is past easy recovery.
+seasonalFortune: The broth thickens where milk meets bean. What was suspended in pale sweetness begins to hold shape, to cast shadows. The mind's interior landscape prepares walls.
+dailyMid: Cinnamon trails mark the boundary between the stirred and the still.
+dailyHigh: The sweetened depths call back what drifted toward the surface.
+dailyMost: The broth holds everything at once — the bean dissolving, the milk becoming silk, the spice becoming breath.
+dailyLow: The beans scatter across the surface, each finding its own current.
+dailyLeast: The milk thins to clarity; the bean sits alone in its own corner of the bowl.
 ---
 
 Candied Pinto Beans are the Bean Zodiac's most daydreamy — they live in a world arranged by their own inner logic.

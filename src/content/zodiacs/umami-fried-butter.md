@@ -6,12 +6,12 @@ form: fried
 trait: pragmatic
 dish: Butter bean and shiitake fritters with soy dipping sauce.
 quote: If it works, it's a bean.
-seasonalFortune: The practical approach will serve — leave one small opening for the thing that resists it, and attend to what it turns out to contain.
-dailyNeutral: Take the approach that works — the practical instinct you have is the right one.
-dailyGood: Cut to what serves the situation — the clearest path is the one you have already seen.
-dailyBest: Do what works — the simplest version of the answer is the whole answer.
-dailyBad: Give what is being asked for, not the efficient version of it; utility is not the standard here.
-dailyWorst: Attend to what was cut; it has turned out to matter and the cost of cutting it is being named.
+seasonalFortune: The oil holds what rises, the pan's heat answers only to itself. Substance finds its form without embellishment — yet the discarded garnish sometimes held what could not be measured.
+dailyMid: The sauce reduces to its essential note. Flavor concentrates where water falls away.
+dailyHigh: The fritter crisps at the exact moment. Steam and oil decide their own measure.
+dailyMost: Cut to what matters. The crumb speaks the whole truth of the bean.
+dailyLow: The bean turns slowly in the cool broth, absorbing what cannot be rushed. Depth moves at its own pace.
+dailyLeast: The decoration holds its own weight. Beauty lingers where efficiency would not linger.
 ---
 
 Tempura Butter Beans are the Bean Zodiac's most pragmatic — whether it's elegant doesn't matter, only whether it works.

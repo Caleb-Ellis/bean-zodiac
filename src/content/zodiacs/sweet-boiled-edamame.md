@@ -6,12 +6,12 @@ form: boiled
 trait: dependable
 dish: Zunda mochi — edamame boiled and ground into sweet green paste, served over soft rice cake.
 quote: The strength of a bean lies not in its weight, but in its reliability.
-seasonalFortune: A gift that is always there will stop being seen as one — let someone know what it costs, not as a grievance but as a true thing.
-dailyNeutral: Show up the way you said you would.
-dailyGood: Someone is counting on you in a way they haven't said aloud yet.
-dailyBest: Your consistency is the ground others are standing on — they feel it even when they do not name it.
-dailyBad: The ask has grown past what was offered — pulling back now feels like breaking something.
-dailyWorst: Pause before the next request lands — the last one has not been thanked.
+seasonalFortune: The broth holds memory — each time edamame breaks the surface, something rises that was not there before. A season when constancy itself becomes the ingredient, and those who simmer longest discover what was cooking all along.
+dailyMid: The pod yields to pressure exactly as it always has; fingers know the pattern.
+dailyHigh: The paste takes shape from repeated folding — each turn makes the next one easier.
+dailyMost: Sweetness builds in layers, each one possible only because the last one held firm.
+dailyLow: The beans scattered across the plate — scattered beautifully, scattered without intention.
+dailyLeast: A boil without rhythm; things rise at different moments, each one surprising.
 ---
 
 Candied Edamame are the Bean Zodiac's most dependable — showing up exactly as promised, with no drama.

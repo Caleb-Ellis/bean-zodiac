@@ -6,12 +6,12 @@ form: smoked
 trait: seething
 dish: Red beans and rice - Louisiana kidney beans with smoked andouille, celery, and bay leaf.
 quote: Full of sound and bean, signifying everything.
-seasonalFortune: An intensity is building deeper than the surface — find the release that matches the scale of what has been accumulating.
-dailyNeutral: Feel the heat — the intensity you are carrying is real and it has been building.
-dailyGood: Let it build to its full pressure — what you are holding has earned the full weight of your feeling.
-dailyBest: Hold the full intensity — the depth of what is seething in you is the measure of how much you care.
-dailyBad: Bring the surface down; the intensity beneath is starting to show and calm is what is being expected.
-dailyWorst: Name what is seething; the contained feeling is visible and the question of what is wrong is being asked directly.
+seasonalFortune: The smoke has been gathering in the chamber long enough that the walls have absorbed it — this season asks whether the heat will finally find an opening or settle into the grain.
+dailyMid: The flavor deepens where water could not reach.
+dailyHigh: Embers hold their shape longest in the darkest chambers.
+dailyMost: The kitchen knows what the mouth has not yet tasted.
+dailyLow: Heat scatters where steam rises fastest.
+dailyLeast: The spice moves through the air before it touches anything.
 ---
 
 Hickory Kidney Beans are the Bean Zodiac's most seething — the passion has gone down to a temperature that is not visible from the surface but can be felt from across the room.

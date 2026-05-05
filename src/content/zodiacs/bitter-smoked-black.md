@@ -3,19 +3,19 @@ slug: bitter-smoked-black
 bean: black
 flavour: bitter
 form: smoked
-trait: spectral
+trait: scary
 dish: Smoked black bean broth with charred onion and no garnish.
 quote: To be great is to be bean.
-seasonalFortune: Your influence will move through rooms without leaving a clear account — let yourself be placed somewhere, so the change has a name.
-dailyNeutral: Move through the room and let the change happen — no account is necessary.
-dailyGood: The influence is real even where it cannot be traced — trust that.
-dailyBest: Pass through entirely without being located — the change will outlast the explanation.
-dailyBad: Let yourself be located; the influence is real, but it needs a name attached to it right now.
-dailyWorst: Show up visibly and stay there — the tracelessness has crossed from mystery into absence, and people are noticing.
+seasonalFortune: A broth this dark holds its depth for months. The charred onion submerges. What surfaces — slowly, without announcement — was there from the first simmer.
+dailyMid: The smoke has settled into the broth's surface. Something beneath it stirs without breaking through.
+dailyHigh: The bowl arrives with no garnish — nothing to soften it, nothing to explain it
+dailyMost: Charcoal reads all the way to the bone. The unease in the room has found its source.
+dailyLow: The broth is mild today — familiar, easy to place, no mystery in the finish.
+dailyLeast: A sprig of green at the rim. The bowl is readable from across the room. Everyone knows what they are getting.
 ---
 
-Charcoal Black Beans are the Bean Zodiac's most spectral — they move through rooms without leaving a clear account of how anything was changed.
+Charcoal Black Beans are the Bean Zodiac's scariest — not in the sense of aggression, but in the older sense of the word. They move through the world leaving an unease that takes hours to locate.
 
-Black Beans hold their richness back until trust is earned; Bitter Beans strip sentiment to bare signal; Smoked Beans make the influence untraceable until long after.
+Black Beans hold everything back until trust is earned; Bitter Beans strip the warmth from what they say until only the signal remains; Smoked Beans ensure that by the time anyone understands what happened, the source is long gone. Together they produce a Bean whose presence changes things that cannot name what changed them.
 
-The Charcoal Black Bean's challenge is acknowledgment. A presence that can never be located is not connection — it is haunting. These Beans must occasionally let themselves be placed.
+The Charcoal Black Bean's challenge is the cost of this to everyone else. Unease is not connection. These Beans contain something worth knowing — the task is making it possible for someone to ask.

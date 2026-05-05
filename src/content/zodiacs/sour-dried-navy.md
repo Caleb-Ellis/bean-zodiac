@@ -6,12 +6,12 @@ form: dried
 trait: uncompromising
 dish: Navy bean and dried tomato stew with red wine vinegar and rosemary.
 quote: Give me liberty, or give me bean!
-seasonalFortune: A principle will be tested — before it is, know the difference between a principle tested and a principle provoked.
-dailyNeutral: The position holds — stand in it.
-dailyGood: Offer no ground; the line is correct and the ground is yours.
-dailyBest: Hold it absolutely — the room will know where the boundary is, and that is the whole point.
-dailyBad: Grant the exception; this one has merit and holding the line here is not the same as holding the principle.
-dailyWorst: Bend. The people with authority have already gone around you and left the principle standing alone.
+seasonalFortune: Something hardens this season — a line drawn, a ferment complete. The question rises quietly; whether the stand protects the principle or merely haunts it.
+dailyMid: The measure holds. Vinegar and salt stay true.
+dailyHigh: Pressure arrives; the answer crystallizes. No softening.
+dailyMost: The boundary stands — drawn before the test, proven under it. Concede nothing.
+dailyLow: The line bends slightly, as dried beans soften only in their own time and their own way.
+dailyLeast: The conviction ripens differently — held in suspension rather than pressed.
 ---
 
 Dehydrated Navy Beans are the Bean Zodiac's most uncompromising — the principle exists, the evidence is clear, and there is no version of this that ends in negotiation.

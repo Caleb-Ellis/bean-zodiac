@@ -6,12 +6,12 @@ form: roasted
 trait: earnest
 dish: Sopa de frijol negro con tomatillo asado - black bean soup with roasted tomatillos and lime crema
 quote: The importance of being bean.
-seasonalFortune: A cost will come with being earnest — what it builds in return will be more durable than what a guarded approach would have.
-dailyNeutral: The genuine version is the correct one — say it.
-dailyGood: Mean it fully; the sincerity is the point.
-dailyBest: Give it without any distance — the genuine thing, unguarded, is the whole thing.
-dailyBad: Take on a little armour; the room is offering cynicism as wisdom and "naive" has been said about the unironic version.
-dailyWorst: Guard it. Someone has treated the full sincerity as an opening and used it.
+seasonalFortune: The dark legume at the pot's bottom holds what light cannot reach. Roasting burns away the husk; what remains is the speech of embers.
+dailyMid: The tomatillo's char speaks sharper than its flesh. The depth stays unfiltered.
+dailyHigh: Lime curdles crema into something truer — edges dissolve where sincerity touches.
+dailyMost: The beans have already broken open in the broth. Holding back is not possible.
+dailyLow: The soup grows thin when stirred too often. Flavours scatter into surface gestures.
+dailyLeast: Cream smooths the tart edge; the acidity retreats into sweetness. The whole becomes palatable.
 ---
 
 Chimichurri Black Beans are the Bean Zodiac's most earnest — genuinely in contact with what they feel.

@@ -6,12 +6,12 @@ form: fried
 trait: argumentative
 dish: Rajma tikki with imli chutney - pan-fried Indian kidney bean patties with tamarind dipping sauce.
 quote: In the beginning was the bean, and the bean was with argument, and the bean was argument.
-seasonalFortune: A friction worth having is coming — trust that it will produce something a smoother exchange could not.
-dailyNeutral: The disagreement is worth voicing — say it.
-dailyGood: Push back harder; the position deserves a real challenge.
-dailyBest: Argue the whole thing — every point, at full force, until the position has been completely tested.
-dailyBad: Take the truce; a generous offer is on the table and continuing past it will turn a disagreement into something worse.
-dailyWorst: Let it go completely — the other party has stopped engaging, and the argument is the only thing left in the room.
+seasonalFortune: The patty holds its shape through the clash of heat and resistance — where the flavours meet without merging, something worth tasting emerges.
+dailyMid: The chutney pools dark at the bowl's edge, waiting to be drawn into the bite.
+dailyHigh: Char blooms where opposition meets the pan's insistence. Let friction have a voice.
+dailyMost: Each layer reveals itself under pressure. Name the heat; name the source; let clarity emerge.
+dailyLow: The sauce integrates smoothly, the flavours dissolving into one another. The patty surrenders its edges.
+dailyLeast: The spoon moves in circles, round and round — nothing breaks the surface tension of agreement.
 ---
 
 Agrodolce Kidney Beans are the Bean Zodiac's most argumentative — they believe friction is worth the truth.

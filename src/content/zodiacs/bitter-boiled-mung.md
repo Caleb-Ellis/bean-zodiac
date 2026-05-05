@@ -6,12 +6,12 @@ form: boiled
 trait: careful
 dish: Mung bean and bitter melon soup.
 quote: Measure twice, bean once.
-seasonalFortune: The action is ready — one more check is not care, it is delay. When the moment arrives, do the thing.
-dailyNeutral: The check is done — act on what you found.
-dailyGood: Caution that postpones completion is not care; it is a different kind of carelessness.
-dailyBest: Nothing passes through without your full attention — give it, even where it is not expected.
-dailyBad: Skip the last check and ship it; done is doing more good than careful right now.
-dailyWorst: Release it unverified — the cost of waiting has already exceeded the cost of being wrong.
+seasonalFortune: The broth thickens in stages; the bitterness mellows slowly in the suspension. What seems complete at first glance contains layers still dissolving beneath the surface, reshaping everything above them. To tend is not to hasten.
+dailyMid: A second simmering reveals what the first heat concealed — sediment settling in the edges, flavors clarifying in the stillness.
+dailyHigh: The bitter and the tame have reached an accord; what emerges carries both truths, neither overpowering, both essential to what arrives on the table.
+dailyMost: The seams and the shadows, the numbers that could break both ways — each one examined until its nature becomes plain, until nothing travels forward disguised as something else.
+dailyLow: The pot comes off the heat before the bitterness has settled — something rushes the meal forward before the broth is ready to say what it means.
+dailyLeast: A handful of beans tipped straight into the bowl, the melon unexamined, the heat turned high and trusted — the soup arrives fast, and the dish tells on itself.
 ---
 
 Infused Mung Beans are the Bean Zodiac's most careful — they check before acting, understanding what it costs to get things wrong.

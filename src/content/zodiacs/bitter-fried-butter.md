@@ -6,12 +6,12 @@ form: fried
 trait: deliberate
 dish: Schnitzel - crumbed butter beans with bitter salsa verde.
 quote: Well-behaved beans seldom make history.
-seasonalFortune: The thing itself is coming — the axe has been sharpened long enough. When the moment arrives, it is the thing, not the preparation.
-dailyNeutral: Take the time the decision requires — this is not delay, it is the work.
-dailyGood: Every step has been examined; act with the full weight of that preparation behind it.
-dailyBest: Nothing has been skipped, nothing rushed — deliver with the complete conviction of everything built.
-dailyBad: Move faster than feels right; the moment has less patience than the preparation does.
-dailyWorst: Act now on what you have — the axe is sharp enough, and waiting any longer is just waiting.
+seasonalFortune: The oil remembers every moment it held flame. What passes through it unmarked will return later to demand attention. The season favors those who let nothing slip unbothered.
+dailyMid: The third sift catches what the first two missed.
+dailyHigh: The bean knows its own bitterness — the salsa need not apologize.
+dailyMost: Each ingredient has been tasted, tested, weighed — now the oil is ready.
+dailyLow: The oil goes in before the pan is ready — the crumb still cooks, just faster than intended.
+dailyLeast: The salsa verde skips the second taste. The schnitzel goes out.
 ---
 
 Scorched Butter Beans are the Bean Zodiac's most deliberate — they act only after making sure it's worth doing.

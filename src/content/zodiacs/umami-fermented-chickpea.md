@@ -6,12 +6,12 @@ form: fermented
 trait: innovative
 dish: Chickpea tempeh - fermented whole chickpeas pan-fried and glazed with miso and sesame.
 quote: Imagination is more important than knowledge about beans.
-seasonalFortune: The insight will need the object it becomes — that part requires leaving the dark.
-dailyNeutral: Trust the new approach; what departs from what already exists is where the value is.
-dailyGood: Push the idea further than feels safe — the distance is where the value is.
-dailyBest: Take it all the way to its furthest form — the full version of the idea is what you came to make.
-dailyBad: Show it in a form that can be received; the idea does not have to be smaller, only legible.
-dailyWorst: Meet the resistance; the new approach needs a shape familiar enough to get through the door.
+seasonalFortune: The fermentation deepens in solitude, yet the broth calls for something unfermented — the gap between private work and shared tasting is where the insight proves itself.
+dailyMid: Salt crystals refract light differently than the brine they came from.
+dailyHigh: The miso's flavor has no precedent in the soybeans or salt alone — emergence names itself.
+dailyMost: Unbind the chickpea from its origin and watch what gathers where it settles.
+dailyLow: The well-tended garden yields the same blooms as last season.
+dailyLeast: The pot holds what was always meant to boil — comfort in the expected reduction.
 ---
 
 Miso Chickpeas are the Bean Zodiac's most innovative — they find connections no one else had noticed.

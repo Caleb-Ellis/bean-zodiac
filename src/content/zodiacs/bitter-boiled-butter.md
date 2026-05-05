@@ -6,12 +6,12 @@ form: boiled
 trait: composed
 dish: Ribollita - butter beans and cavolo nero.
 quote: Do I contradict myself? Very well then, I contain beans.
-seasonalFortune: Someone nearby is waiting to know you are there — not that you are capable, but that you are present.
-dailyNeutral: The stillness you carry is not emptiness — let it be felt as steadiness.
-dailyGood: Someone around you needs to know you are home before they can continue.
-dailyBest: You are the surface others need to be still against — hold.
-dailyBad: Make a small noise — not to disturb the peace, but to confirm you are in it.
-dailyWorst: Crack the surface; everyone is waiting for proof that something is actually in there.
+seasonalFortune: The stock simmers on, thick and reduced — what settles to the bottom carries the weight of the whole. A season of gathering, of allowing pressure and time to do their work without interference. The broth only deepens when the flame stays low.
+dailyMid: The surface holds. Others circle its stillness the way they might circle the edge of still water.
+dailyHigh: In the dark greens and white beans, a composition — one does not move, the other does not shout. This is how things begin to speak to one another.
+dailyMost: The bean takes the heat, takes the time, takes whatever comes — and emerges more itself. This is the work of not resisting.
+dailyLow: The broth runs thin today — flavours spreading wide before they settle into anything.
+dailyLeast: All the windows open at once. A scattering kind of day, each thing pulling toward a different room.
 ---
 
 Infused Butter Beans are the Bean Zodiac's most composed — not through suppression, but through a genuine preference for stillness that nothing so far has managed to disturb.

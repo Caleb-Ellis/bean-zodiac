@@ -6,12 +6,12 @@ form: boiled
 trait: inquisitive
 dish: Minestrone - green beans and puntarelle.
 quote: The important thing is not to stop questioning beans.
-seasonalFortune: One of the threads you are following will arrive at an answer — let it close before you follow the next one.
-dailyNeutral: The question worth asking is already in the room — find it before reaching for a new one.
-dailyGood: The question you keep revisiting already has an answer; receive it.
-dailyBest: Arrival is not the end of inquiry — it is its proof.
-dailyBad: Accept the answer that's been given and move on; the next question can wait.
-dailyWorst: Stop asking — declare something, anything, and let the room breathe again.
+seasonalFortune: A thread spools taut through the broth. Follow it to its knot — that's where the flavor settled. The next thread will unspool only after this one stills, so don't abandon the simmer too early.
+dailyMid: The question unfolding beneath the surface has sharper teeth than the one on the tongue.
+dailyHigh: The answer was in the reduction all along — what evaporates away reveals what was held.
+dailyMost: The bottom of the pot holds what the steam couldn't steal.
+dailyLow: The surface of the minestrone holds the eye today — the ingredients clear, the broth familiar, the bowl enough.
+dailyLeast: A good broth needs no knot to follow. The puntarelle bitters flat and clean, and that is the whole story.
 ---
 
 Infused Green Beans are the Bean Zodiac's most inquisitive — they follow threads until they lead somewhere unexpected.

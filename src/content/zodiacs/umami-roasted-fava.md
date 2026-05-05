@@ -6,16 +6,16 @@ form: roasted
 trait: defiant
 dish: Fave al forno - roasted fava beans with guanciale, pecorino, and wild fennel.
 quote: They tried to bury us. They didn't know we were beans.
-seasonalFortune: A refusal will sustain something — make sure both what you are building and what you are refusing continue in what comes next.
-dailyNeutral: Hold your ground — the refusal you are making is the right one.
-dailyGood: Let the defiance be full — the pressure you are resisting deserves your complete resistance.
-dailyBest: Refuse it entirely and without apology — what you are holding against is exactly what should be held against.
-dailyBad: Recalibrate the resistance; the opposition has softened and the refusal is now reading as overreaction.
-dailyWorst: Soften the defiance; what is being opposed has made it look unreasonable and the ground is shifting.
+seasonalFortune: The salt in the rendered fat holds what the season cannot soften — structure built from resistance, preserved across months. What bends will break; what plants itself deeper will bear.
+dailyMid: The outer skin chars while the interior thickens — boundaries clarify themselves.
+dailyHigh: Fennel and smoke intertwine, each sharpening the other — pressure that meets pressure creates clarity.
+dailyMost: The whole bean blackens at the edges, sweetening at the core — refusal spoken aloud becomes its own nourishment.
+dailyLow: The salt dissolves into the warmth, seasoning without insisting — boundaries soften when the pressure itself shifts.
+dailyLeast: The bean crumbles instead of holding its shape — accommodation so complete that nothing is left to lean against.
 ---
 
 Rendered Fava Beans are the Bean Zodiac's most defiant — they do this with warmth that makes clear it's not a wound but a position.
 
-Fava Beans require double work to access; Umami Beans give defiance depth and accumulated richness; Roasted Beans fill the room with warmth and invitation.
+Fava Beans require double work to access; Umami Beans give defiance depth and accumulated richness; Roasted Beans radiate warmth that welcomes.
 
-The Rendered Fava Bean's challenge is sustenance. They must make sure they are nourished by what they are building, not only by what they are refusing.
+The challenge: building sustains as much as refusal does — without it, the stance becomes brittle.

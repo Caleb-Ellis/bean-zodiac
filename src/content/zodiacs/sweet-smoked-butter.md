@@ -6,12 +6,12 @@ form: smoked
 trait: hazy
 dish: Gigantes plaki - butter beans baked with sweet tomato, smoked paprika, and honey.
 quote: Que bean sera, sera. Whatever will bean, will bean.
-seasonalFortune: Everything is blurry, and has soft edges. Meeting beans will be tough in these conditions.
-dailyNeutral: Let the edges stay soft — precision is not what this requires.
-dailyGood: The gentle blur you bring is making everything easier to inhabit.
-dailyBest: Settle fully into the haze — the softness is the thing, and it is enough.
-dailyBad: Find one clear edge; the softness is making what is needed impossible to locate.
-dailyWorst: Say something specific — the haze has become a place to hide in, and clarity has been given up on.
+seasonalFortune: Smoke curls up through the weeks. Some say it holds clarity inside — you will know only when it dissipates, when the paprika dust settles across the plate. The season ahead asks nothing of the edges; the warmth arrives soft enough to fill the spaces in between.
+dailyMid: The oil pools and doesn't separate. Boundaries blur into amber. This softness carries intention without announcing it.
+dailyHigh: Honey and tomato meld so completely the dish forgets which was which. The merger is the whole point.
+dailyMost: Smoke accumulates — layer upon layer — until the thing in the pan becomes something new. The transformation asks for patience, not clarity.
+dailyLow: Edges come into focus. The paprika flecks distinct, countable. Each element declares itself separately.
+dailyLeast: The plate divides itself into corners. Sweetness stays in one place, smoke in another. Lines, unmissable.
 ---
 
 Barbecued Butter Beans are the Bean Zodiac's most hazy — the warmth is real, but the edges have softened past the point of definition.

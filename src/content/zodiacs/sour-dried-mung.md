@@ -6,12 +6,12 @@ form: dried
 trait: spare
 dish: Ginisang munggo - mung bean soup with dried tangerine peel and ginger.
 quote: The most important thing in communication is to hear what isn't being beaned.
-seasonalFortune: An act of care will go unmarked — let the person know they were tended, so they know to look for it next time.
-dailyNeutral: The simplest version is the correct one — use it.
-dailyGood: Strip it to the essential; what remains is what was always worth keeping.
-dailyBest: Take away everything that is not the thing — what is left will be enough, and more than enough.
-dailyBad: Add more than feels right; the room needs abundance, not precision, right now.
-dailyWorst: Give them everything, all at once. The minimum is not working and someone else is already filling the gap.
+seasonalFortune: The dried peel releases its oils slowly, asking nothing — this season's tending happens in reduction, in what remains after the excess evaporates.
+dailyMid: The broth is complete with three ingredients; the fourth would cloud what is already clear.
+dailyHigh: Water knows its work — it strips away, it clarifies, it nourishes without announcement.
+dailyMost: The peel's bitter note sustains the whole; remove it and the bowl becomes only sweetness.
+dailyLow: The pot welcomes abundance; abundance welcomes the pot.
+dailyLeast: Generosity fills the bowl to brimming; brimming bowls overflow.
 ---
 
 Dehydrated Mung Beans are the Bean Zodiac's most spare — the care is real, but it does not announce itself, and it does not stay longer than it is needed.

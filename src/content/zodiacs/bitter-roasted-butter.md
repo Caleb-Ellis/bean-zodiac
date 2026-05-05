@@ -6,12 +6,12 @@ form: roasted
 trait: indulgent
 dish: Gratin - butter beans with bitter radicchio and taleggio.
 quote: If I have one more bean I'm gonna pop!
-seasonalFortune: Something inconvenient is coming — do it anyway, not to suffer, but to remember what you are choosing when you choose the good version.
-dailyNeutral: Choose the good version — there is no virtue in the lesser one.
-dailyGood: Take the best available option without apology; quality is its own justification.
-dailyBest: Accept nothing below the full measure of what this could be.
-dailyBad: Pull back a little; the full version is available, but this is not the moment for all of it.
-dailyWorst: Cut it back to the minimum and stop there — more is not doing what you think it is doing right now.
+seasonalFortune: The gratin is not finished at first bubble — the crust forms slowly, the radicchio softens, the taleggio finds its moment. Richness earned through patience is a different richness entirely.
+dailyMid: The wood fire is already lit. The good option is warm and waiting.
+dailyHigh: Taleggio does not apologize for its depth. Neither should this.
+dailyMost: Take the whole gratin. Leave nothing.
+dailyLow: The gratin goes to the table at half-portion. Plenty remained in the dish.
+dailyLeast: The taleggio sits wrapped in the cold. The radicchio wilts. The oven never opens.
 ---
 
 Wood-Fired Butter Beans are the Bean Zodiac's most indulgent — quality is non-negotiable.

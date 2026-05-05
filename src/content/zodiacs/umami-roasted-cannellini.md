@@ -6,12 +6,12 @@ form: roasted
 trait: forthcoming
 dish: Fagioli al forno - roasted cannellini with parmesan, sage, and garlic.
 quote: Come in, come in. The bean is always on and I have been meaning to tell you something.
-seasonalFortune: A conversation will want to find its own way — let it, occasionally, and see what it brings back.
-dailyNeutral: Share what you have; what you know is useful here.
-dailyGood: Give more than the question asked for — the full version of what you have is the generous thing.
-dailyBest: Offer everything; the occasion is ready for all of it.
-dailyBad: Hold it; silence is the expected response and the signal is clear.
-dailyWorst: Let it go; what you have to say is being closed off and the moment has moved on.
+seasonalFortune: Layers release their depth slowly — what rises unbidden carries the whole season forward.
+dailyMid: The garlic's warmth opens first; generosity finds its own measure.
+dailyHigh: Sage leaves surrender everything; depths meet daylight completely.
+dailyMost: Parmesan dust rises through it all; the offering spills from every angle.
+dailyLow: The beans hold their flavor close; warmth gathers inward.
+dailyLeast: Embers cool to ash; what remains stays quietly contained.
 ---
 
 Rendered Cannellini Beans are the Bean Zodiac's most forthcoming — they don't wait to be asked for what they know.

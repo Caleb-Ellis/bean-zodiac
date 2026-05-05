@@ -6,12 +6,12 @@ form: fried
 trait: romantic
 dish: Navy bean beignets — fried dough pillows with a white bean cream filling, dusted generously in powdered sugar.
 quote: My bean leaps up when I behold a rainbow in the sky.
-seasonalFortune: A real Bean will appear where the ideal was — love them, not the perfect version, and the loyalty will be more durable.
-dailyNeutral: Let the feeling be larger than is strictly warranted — that is the right size.
-dailyGood: The idealism you bring is making the real thing more than it would otherwise be.
-dailyBest: Love it fully and without reserve — the grand version is the true version.
-dailyBad: Come back to what is actually happening; the romantic version is a story being told alone.
-dailyWorst: Choose what is actually there — the ideal has been held so long that what is real cannot compete.
+seasonalFortune: The dough rises to what feeds it. A season blooms best among the things it trusts — the imperfect companion, the known soil, the bean that stays warm through repeated heat.
+dailyMid: Powdered sugar clings to what it touches. What is present receives the full measure of regard.
+dailyHigh: The cream filling sweetens and holds the shape of what contains it — presence itself becomes luminous.
+dailyMost: The oil shimmers at its hottest point. All warmth belongs to the thing directly before it, no shadow version required.
+dailyLow: The beignet settles on the plate without arrangement. Attention measures and distributes itself evenly.
+dailyLeast: The powdered sugar falls neutral, touching what passes through. Things are received as they are offered, nothing more.
 ---
 
 Caramelised Navy Beans are the Bean Zodiac's most romantic — they commit to Beans with absolute loyalty, delivered at full intensity.

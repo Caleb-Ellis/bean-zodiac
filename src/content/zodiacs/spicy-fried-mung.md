@@ -6,12 +6,12 @@ form: fried
 trait: high-strung
 dish: Bindaetteok — Korean mung bean pancake with kimchi and gochugaru.
 quote: Beans cannot endure either perfect solitude or perfect society.
-seasonalFortune: More material will arrive than your nervous system needs — build the gap between signal and response before it does, while you can still choose the size.
-dailyNeutral: The signal is real — find the gap before responding, however small.
-dailyGood: Everything is arriving at full volume; build the gap and use it.
-dailyBest: The full gain is on — find the lag in every signal and use it completely.
-dailyBad: Find the gap before it disappears entirely; everything is arriving at once and the volume is not going to lower itself.
-dailyWorst: Let some of it go unanswered; the incoming is total and deliberate, and nothing is waiting before the next thing lands.
+seasonalFortune: Heat builds where the oil settles; patience carves the space between the flame and the sizzle. Seasons teach the pause that saves the dish.
+dailyMid: A crackle travels through the pan — each seed finds its moment to flower.
+dailyHigh: The crust knows before the inside; every sear carries a small revelation.
+dailyMost: Oil sings in the presence of exactly what it needs — heat reads the bean and transforms.
+dailyLow: The bean softens in its own time; the pan waits for what arrives at its edges.
+dailyLeast: Steam rises, but slowly — everything becomes less urgent, more diffuse.
 ---
 
 Red-Hot Mung Beans are the Bean Zodiac's most high-strung — they respond to everything immediately.

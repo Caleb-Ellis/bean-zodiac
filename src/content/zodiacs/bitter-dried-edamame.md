@@ -6,12 +6,12 @@ form: dried
 trait: terse
 dish: Edamame hummus with preserved lemon.
 quote: Less is bean.
-seasonalFortune: Someone will need to hear the long version — find the one occasion where giving all of it is the efficient choice.
-dailyNeutral: Say it in half the words — the second half is not needed.
-dailyGood: The conclusion is the only part that matters; offer it directly.
-dailyBest: One sentence — exact, complete, nothing left to add.
-dailyBad: Give more than you think is needed; the extra sentence is not waste, it is courtesy.
-dailyWorst: Explain the whole thing, start to finish — brevity has already cost you the room.
+seasonalFortune: The husk splits too soon; what escapes is what was meant to stay. This season will demand the shell's patience, teaching that some flavours only emerge when moisture returns.
+dailyMid: The pit speaks what the flesh cannot.
+dailyHigh: The preserved lemon cuts through silence — a single note, undeniable.
+dailyMost: Clarity arrives stripped to its essence, and needs no accompaniment.
+dailyLow: The hummus spreads wider than the bowl requires, still reaching for an edge.
+dailyLeast: Three lemon slices where one would have served — the dish keeps explaining itself.
 ---
 
 Desiccated Edamame are the Bean Zodiac's most terse — they have already cut to the end and are waiting for everyone else to arrive.

@@ -6,12 +6,12 @@ form: roasted
 trait: proud
 dish: Roasted kidney bean stew with charred bitter peppers and smoked paprika.
 quote: It is not the bean that stoops who loses dignity, but the one who forgets why they stood.
-seasonalFortune: A warranted pride is coming — let it be generous enough to make room for someone else's.
-dailyNeutral: Stand in what you have earned — it does not require modesty.
-dailyGood: Make the standard visible; others should know what they are measuring against.
-dailyBest: Carry it fully — the pride is warranted and the room is large enough to hold it.
-dailyBad: Accept the help that is being offered; what you have earned does not require you to do this alone.
-dailyWorst: Set the standard down and let someone else lead — right now the obstacle is the posture, not the problem.
+seasonalFortune: The kidney bean does not soften in the roasting — it deepens. What this season returns is not new weight but truer density, something already earned finding its final form.
+dailyMid: Smoked paprika asks for nothing — its presence is the point.
+dailyHigh: The stew clarifies around the bean. Structure asserts itself.
+dailyMost: Roast to the edge of char — this is what depth looks like from the outside.
+dailyLow: The stew waits on someone else's approval before settling into itself.
+dailyLeast: Smoked paprika defers to the bowl — present, but asking permission.
 ---
 
 Wood-Fired Kidney Beans are the Bean Zodiac's most proud — they have standards and presence.

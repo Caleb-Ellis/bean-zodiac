@@ -3,19 +3,19 @@ slug: spicy-smoked-green
 bean: green
 flavour: spicy
 form: smoked
-trait: ignited
+trait: untethered
 dish: Judías verdes con jamón ahumado - Andalusian green beans with smoked ham and pimentón.
 quote: A great bean follows a little spark.
-seasonalFortune: A fire will appear without a visible spark — find what you are trying to light, and aim before striking.
-dailyNeutral: The fire is real — find the target before it finds its own.
-dailyGood: The ignition is complete; aim before striking.
-dailyBest: Everything is burning at full urgency — aim it entirely at the thing it was lit for.
-dailyBad: Let the urgency go — what it was lit for has been handled and it is arriving at something already resolved.
-dailyWorst: Extinguish it — everything that needed the fire has been addressed and what was lit has nothing left to reach.
+seasonalFortune: Smoke drifts where the wind leans — the beans follow, seeking the hand that will catch them.
+dailyMid: The pod bursts before the plate is ready; the heat knows where to go.
+dailyHigh: Steam rises in one direction; the ambers glow where they're needed.
+dailyMost: The smoke and the hand arrive at the same moment; the jar receives what was meant for it.
+dailyLow: The beans rest in their bed, patient as cured ham — they wait for purpose to announce itself.
+dailyLeast: The heat settles into the beans; the smoke becomes the flavor, nothing separate, nothing racing.
 ---
 
-Chipotle Green Beans are the Bean Zodiac's most ignited — the urgency is already burning before anyone has established what needs to be done.
+Chipotle Green Beans are the Bean Zodiac's most untethered — the urgency is already in motion before anyone has established what it's for.
 
-Green Beans arrive ready and insist on being used immediately; Spicy Beans turn the insistence into something that cannot be set aside; Smoked Beans make the flame appear without a visible spark.
+Green Beans arrive ready and insist on being used immediately; Spicy Beans make that insistence impossible to set aside; Smoked Beans make it appear without a visible source.
 
-The Chipotle Green Bean's challenge is direction. Ignition without a target is just fire. These Beans must find what they are trying to light, and aim.
+The Chipotle Green Bean's challenge is direction. Untethered energy is still real energy — but it will attach to whatever is nearest if these Beans don't choose first.

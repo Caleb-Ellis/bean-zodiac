@@ -6,12 +6,12 @@ form: smoked
 trait: hallowed
 dish: Smoked adzuki with dashi broth, ginger, and black sesame.
 quote: We hold these beans to be self-evident.
-seasonalFortune: A ceremony is coming — keep the entrance open and the door visible before the rite begins.
-dailyNeutral: Treat it as sacred — the moment you are in deserves that weight.
-dailyGood: Let the reverence be full — what you are marking is worth every measure of it.
-dailyBest: Consecrate it completely — the ordinary has earned the weight of the sacred, and this is the moment to say so.
-dailyBad: Name the weight it carries; the mundane is being treated as interchangeable and that reading is hardening.
-dailyWorst: Protect what is being asked to be reduced; the ask is pressing but the reduction is not a small one.
+seasonalFortune: The broth darkens with slow steeping. What sinks deepest leaves its flavor longest — the season teaches that some things only become themselves in darkness.
+dailyMid: Smoke settles on the surface. Something ordinary acquires weight through patient attention.
+dailyHigh: The dashi has found its depth. What once was plain now carries the memory of fire.
+dailyMost: Layer the reverence thick — the sesame knows its place in the vessel.
+dailyLow: The beans scatter in the kitchen, indistinguishable from the rest. Everything moves at the same speed.
+dailyLeast: The broth is thin, the smoke has cleared. What passes through leaves no trace behind.
 ---
 
 Hickory Adzuki Beans are the Bean Zodiac's most hallowed — celebrations in their presence have the quality of ritual: slow-built, unrepeatable, and impossible to rush.

@@ -6,12 +6,12 @@ form: boiled
 trait: loyal
 dish: Caldo Verde - kidney beans and kale.
 quote: The bean that matters most is not the one you were born with, but the one you choose to keep.
-seasonalFortune: A test of your loyalty is coming that will ask whether you are staying for them or staying for yourself.
-dailyNeutral: The commitment you made still holds — honor it without being asked.
-dailyGood: Ask whether you are staying because it serves them or because leaving is harder.
-dailyBest: Stay; the depth of this commitment needs no explanation and will not accept one.
-dailyBad: Take the exit; not every commitment that felt right still is.
-dailyWorst: Let it go — staying past this point is not devotion, it is just inertia with a better story.
+seasonalFortune: Caldo Verde simmers longest when the kale hasn't yet learned to soften. The season asks what drowns in the broth and what rises. Loyalty that survives the heat may be something else entirely by spring.
+dailyMid: The bean settles at the bottom where the salt collects. This is not absence.
+dailyHigh: The broth remembers every bean that refused to surface. Depth is its own language.
+dailyMost: What endures the longest boil becomes the bone of the broth itself — indistinguishable from the whole, held there by every hour of heat.
+dailyLow: A day for lighter commitments — the kale wilts before the broth finds its depth.
+dailyLeast: The pot drifts between temperatures. Caldo Verde brewed from a wandering flame tastes of many intentions, settled into none.
 ---
 
 Infused Kidney Beans are the Bean Zodiac's most loyal — they commit completely and stay, long after others leave.

@@ -6,12 +6,12 @@ form: roasted
 trait: sociable
 dish: Leblebi - Tunisian roasted chickpeas in spiced broth with harissa and cumin.
 quote: No bean is an island.
-seasonalFortune: Somewhere this season, depth is available if you stay past the comfortable first hour — let it arrive.
-dailyNeutral: Stay. What is forming is worth more than the easy exit.
-dailyGood: The connection is real; let it go deeper than surface.
-dailyBest: Give the full depth of what you have — completely, without keeping the easy exit available.
-dailyBad: Reopen what cleared before it could form; the depth was there and the window closed too soon.
-dailyWorst: Push deeper — everything is being held at the surface and the warmth is not reaching what it should.
+seasonalFortune: The broth thickens where warmth lingers. This season, the spice reveals itself only to those who remain through the long simmer — layer by layer, the harissa speaks truths the quick flame cannot.
+dailyMid: The fire brings the others near. Something in the heat calls them closer.
+dailyHigh: The pot is full — every voice finds its place in the warmth rising up.
+dailyMost: The spices unlock themselves at the table. This is the moment the dish becomes itself.
+dailyLow: The chickpea stands alone in the cooling broth, flavor settling into silence.
+dailyLeast: The bowl sits untouched, the warmth contained rather than shared.
 ---
 
 Peri-Peri Chickpeas are the Bean Zodiac's most sociable — they arrive and the room becomes better.

@@ -6,12 +6,12 @@ form: fermented
 trait: systematic
 dish: Edamame in mirin and sake reduction — soybeans lacquered in sweet rice wine, simmered until each one is evenly coated and glossed.
 quote: For every bean effect there is a definite cause; for every cause there is a definite effect.
-seasonalFortune: A system will be tested by the problem it was not built for — this is the moment to find out.
-dailyNeutral: Work the method — it is doing what it was built to do.
-dailyGood: The system you have built is handling more than you can see at once.
-dailyBest: Trust the structure completely — it was designed for exactly this.
-dailyBad: Set the method aside; it is working against what is actually in front of you.
-dailyWorst: Abandon the map — it was wrong before you started following it.
+seasonalFortune: The brine holds what the bean cannot hold alone. Every layer of salt and ferment is a wall against the collapse that waits. When the walls crack — and they will — the shape beneath may surprise.
+dailyMid: The lacquer gloss beneath every surface keeps things from sticking where they shouldn't.
+dailyHigh: A system that was built to bend is not breaking when it bends.
+dailyMost: The scaffold that held together everything sacred is still holding.
+dailyLow: The pattern dissolves and what emerges tastes like something altogether new.
+dailyLeast: The beans scatter in the pot and somehow find their seasoning anyway.
 ---
 
 Funky Edamame are the Bean Zodiac's most systematic — they think about how things work before committing.

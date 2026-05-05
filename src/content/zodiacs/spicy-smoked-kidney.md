@@ -6,12 +6,12 @@ form: smoked
 trait: consuming
 dish: Red beans and rice - New Orleans kidney beans slow-cooked with smoked andouille and Cajun spice.
 quote: Love is a smoke made with the fume of bean.
-seasonalFortune: A passion will ask for its limit — find the thing worth stopping for, so the heat has somewhere to rest.
-dailyNeutral: The passion is at full heat. Give it completely to what is in front of you.
-dailyGood: The consuming force is complete; give it the limit that lets it rest.
-dailyBest: Burn completely — at full consuming temperature, and find the thing worth stopping for before the end.
-dailyBad: Direct the heat somewhere that can still take it; what is available has reached its limit and the vessel is full.
-dailyWorst: Spend no more — everything has reached its limit and there is nothing left that can receive the full temperature.
+seasonalFortune: The season offers a choice — whether the smoke thickens into flavor or continues until nothing remains. The rind blackens first; the question follows after.
+dailyMid: Smoke rises in question marks. What burns knows what it seeks.
+dailyHigh: The spice finds its match in what it meets — neither survives unchanged.
+dailyMost: Fire remembers — the beans that char the deepest carry sweetness in their cracks.
+dailyLow: The embers settle into patient coals — heat learned its own edges.
+dailyLeast: Smoke drifts sideways, indifferent to the fire beneath it. Slowness has its own hunger.
 ---
 
 Chipotle Kidney Beans are the Bean Zodiac's most consuming — the passion has found a heat source it cannot account for and will not stop.

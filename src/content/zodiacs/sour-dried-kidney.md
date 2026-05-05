@@ -5,13 +5,13 @@ flavour: sour
 form: dried
 trait: fierce
 dish: Rajma - kidney beans with dried Kashmiri chiles and tamarind.
-quote: I have not yet begun to bean.
-seasonalFortune: A fight worth having will arrive — learn to recognise the moment it has already been won, so you are not still fighting after the fact.
-dailyNeutral: This one is worth it — bring everything.
-dailyGood: Fight this one with everything; the cause is worth the full force.
-dailyBest: Give it the whole weight of what you carry — let the intensity be visible.
-dailyBad: Ease off; the room wanted an ally and received a battering ram.
-dailyWorst: Step back entirely. Everyone has quietly found someone easier to stand near.
+quote: This isn't even my final bean!
+seasonalFortune: The tamarind vine knows when the fruit is ripe enough to yield — but only the one who tastes it can tell if the seed inside has sharpened or splintered.
+dailyMid: The chile's heat gathers at the edges, pointing inward. A single flame where three once flickered.
+dailyHigh: The dried beans fracture along their fiercest grain. The break is clean. The kernel emerges whole.
+dailyMost: The spice rises to its sharpest note — the moment before it cuts the throat is the moment it cuts deepest through the dish.
+dailyLow: The brine settles. The beans soften at their hardest points. Edges blur where they once drew lines.
+dailyLeast: The tamarind ferments without the fruit — sourness becomes flatness, a note that dissolves before the throat can hold it.
 ---
 
 Dehydrated Kidney Beans are the Bean Zodiac's most fierce — the passion has been sharpened to a point and held there.

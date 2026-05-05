@@ -6,16 +6,16 @@ form: roasted
 trait: polished
 dish: Roasted adzuki soup with bitter cacao and orange peel.
 quote: Have no fear of bean perfection — you'll never reach it.
-seasonalFortune: An occasion will arrive that rewards imperfection — stay in it a little rough, and let the polish rest.
-dailyNeutral: Attend to what others skip — it is where the difference lives.
-dailyGood: Bring the full standard to what is in front of you; nothing is too minor for the complete version.
-dailyBest: Everything about this can be impeccable — let it be.
-dailyBad: Leave it a little rough today; not every surface needs to be finished before it can be useful.
-dailyWorst: Hand over the raw version — the polish is costing this more than it is adding.
+seasonalFortune: The orange peel steeps longest — bitterness softening into something the bowl could not have held earlier. A season's work earns its finish through patience with the flame, not haste to pour.
+dailyMid: The cacao's surface blooms where the roast was even. Quiet attention produces the sheen others call luck.
+dailyHigh: What comes off the heat without a single scorch mark was not accidental. The careful hand is its own reward.
+dailyMost: Give the soup its final hour. The finish that waits at the bottom of the bowl is worth the whole fire.
+dailyLow: The orange peel goes in approximate. The bowl lands warm and a little loose — closer to honest than finished.
+dailyLeast: The cacao hits the broth before the roast has settled. Something rough at the rim, something approximate in the pour — the dish arrives at its own pace.
 ---
 
 Wood-Fired Adzuki Beans are the Bean Zodiac's most polished — impeccable without being cold.
 
 Adzuki Bean knows when something deserves marking; Bitter Beans ensure marking is genuinely earned; Roasted Beans coax everything into fullest expression without apology.
 
-The Wood-Fired Adzuki Bean's challenge is allowing imperfection in the room. A polished temperament can make others feel underdressed. They must occasionally let the evening be rough and stay in it.
+The Wood-Fired Adzuki Bean's challenge is sitting with imperfection. A polished temperament can make others feel underdressed. They must occasionally let the evening be rough and stay in it.

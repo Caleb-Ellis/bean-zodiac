@@ -6,12 +6,12 @@ form: roasted
 trait: hedonistic
 dish: Harissa gigantes - butter beans oven-roasted with rose harissa, garlic, and olive oil.
 quote: Eat, bean, and be merry, for tomorrow we diet.
-seasonalFortune: A stretch of wanting nothing is coming — let it arrive, so the wanting something again means what it should.
-dailyNeutral: The pleasure is real — receive it completely.
-dailyGood: The warmth is at full strength; let it be the substance, not the reward.
-dailyBest: Everything is an invitation — accept it entirely and let the pleasure be its own justification.
-dailyBad: Do not reach — what is on offer has been stripped back and nothing here is worth the effort.
-dailyWorst: Stop looking for what is not here; nothing on offer carries any temperature and the supply has run out.
+seasonalFortune: The sweetness fades to nothing, then blooms again — each cycle teaches the palate what hunger means.
+dailyMid: Rose petals unfold in the pan.
+dailyHigh: The heat peaks — every layer becomes flavor.
+dailyMost: Dissolve into what the oil holds.
+dailyLow: The spoon rests in the bowl.
+dailyLeast: Hunger keeps its own counsel.
 ---
 
 Peri-Peri Butter Beans are the Bean Zodiac's most hedonistic — pleasure is the substance, not the reward.

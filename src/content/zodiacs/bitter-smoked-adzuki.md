@@ -6,12 +6,12 @@ form: smoked
 trait: oracular
 dish: Smoked adzuki with bitter black garlic and charred citrus.
 quote: The unexamined bean is not worth living.
-seasonalFortune: You will see what is coming before it announces itself — speak the reading while there is still time to act on it.
-dailyNeutral: Something is forming before it has announced itself — note it.
-dailyGood: The reading is clear; speak it while there is still time to act.
-dailyBest: See all the way to the end of what is coming — and say it plainly, without softening.
-dailyBad: Keep the reading to yourself today; the room is not in a position to receive it.
-dailyWorst: Say nothing — what you are seeing is real, but the timing has already closed the door.
+seasonalFortune: Smoke rises before the fire is visible — a season that rewards those who read the drift and name it before the charring begins.
+dailyMid: The black garlic has already turned; the citrus rind carries a story from before the scorch.
+dailyHigh: The smoke thins and the shape beneath it is unmistakable — the reading was already written in the char.
+dailyMost: Name the ember before it catches. Say what the smoke is spelling. The window in the char is open.
+dailyLow: The smoke has been rising for a while. The dish sits, unread, its char taken at face value.
+dailyLeast: A pattern in the citrus rind, a story in the black garlic — the kind of thing that passes for ordinary on a day the signal goes untranslated.
 ---
 
 Charcoal Adzuki Beans are the Bean Zodiac's most oracular — they carry the Adzuki's instinct for knowing when a moment is coming before it has announced itself.

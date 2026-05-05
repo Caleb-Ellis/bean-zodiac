@@ -6,12 +6,12 @@ form: boiled
 trait: dedicated
 dish: Dashi-ni - edamame simmered in dashi, soy, and mirin.
 quote: The price of bean excellence is dedication.
-seasonalFortune: An arrival is coming — do not move on before you have acknowledged it.
-dailyNeutral: Stay in it — you are the reason it will get finished.
-dailyGood: Give it everything you have while it still deserves everything you have.
-dailyBest: See it through to what it was always trying to become — you are the one who will get it there.
-dailyBad: What you are honouring is no longer being waited for.
-dailyWorst: Everything has shifted away from this; continuing now is its own kind of cost.
+seasonalFortune: The broth thickens with time. Each turn inward deepens what was already there — the question is whether the vessel will hold what it's becoming.
+dailyMid: The bean remains soft at the edge, firm at the center. The dashi asks for one more hour.
+dailyHigh: Immersion carries its own weight. The heat knows where to go.
+dailyMost: What emerges from the pot has learned its own shape through devotion.
+dailyLow: The surface breaks easily. Attention scatters toward the next bloom.
+dailyLeast: The bean splits before it settles. The broth accepts what arrives and moves on.
 ---
 
 Dashi Edamame are the Bean Zodiac's most dedicated — they stay until things become what they were trying to be.

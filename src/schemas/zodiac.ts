@@ -10,10 +10,10 @@ export const zodiacSchema = z.object({
   dish: z.string(),
   quote: z.string(),
   seasonalFortune: z.string(),
-  dailyWorst: z.string(),
-  dailyBad: z.string(),
-  dailyNeutral: z.string(),
-  dailyGood: z.string(),
-  dailyBest: z.string(),
+  dailyLeast: z.string(),
+  dailyLow: z.string(),
+  dailyMid: z.string(),
+  dailyHigh: z.string(),
+  dailyMost: z.string(),
 });
 export type ZodiacSchema = z.infer<typeof zodiacSchema>;

@@ -6,12 +6,12 @@ form: fried
 trait: assertive
 dish: Cannellini fritto with bitter lemon and flat-leaf parsley.
 quote: Here I stand. I can bean no other.
-seasonalFortune: Your position will hold — but the door for disagreement will need to be made visible before the room forgets it is allowed.
-dailyNeutral: State your position clearly — vagueness serves no one here.
-dailyGood: The case has been made; deliver it without hedging.
-dailyBest: Stand in it entirely — the position is yours and it will not move.
-dailyBad: Soften the edges a little; the position can stay, but the delivery needs more room for the other person.
-dailyWorst: Concede the point and move with the room — being right matters less than what happens next.
+seasonalFortune: The skin crisps but the interior holds its shape — the lemon's edge cuts clean, and the parsley knows not to soften what has been made firm.
+dailyMid: The oil accepts the bean's form without argument; the assertion meets no resistance here.
+dailyHigh: Bitter pulls the plate into focus; when doubt lifts, the shape of the thing becomes undeniable.
+dailyMost: Heat has been applied and the boundary is sealed — the bean is itself, entire, and welcomes the gaze that falls upon it.
+dailyLow: The lemon thins to suggestion; the bite goes looking for an edge that hasn't arrived yet.
+dailyLeast: The oil waits longer than it should — the cannellini sits in the pan without committing to a crust, parsley drifting on top, uncalled.
 ---
 
 Scorched Cannellini Beans are the Bean Zodiac's most assertive — they know their position and state it clearly.

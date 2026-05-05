@@ -6,12 +6,12 @@ form: fried
 trait: efficient
 dish: Butter bean fritters with preserved lemon aioli - crispy pan-fried butter bean patties with a sharp citrus dipping sauce.
 quote: Give me six hours to chop down a bean and I will spend the first four sharpening the axe.
-seasonalFortune: The efficiency will clear space — what remains is the slower work, and it will be worth doing slowly.
-dailyNeutral: The quickest route is the right one — take it.
-dailyGood: Cut the unnecessary step; the destination is already clear.
-dailyBest: Move at full efficiency — every action toward the thing, nothing beside it.
-dailyBad: Slow down and let the process breathe; the pace that felt optimal is reading as a machine that doesn't see people.
-dailyWorst: Stop optimising entirely and just be in it — the word "dehumanising" has been used and that is not a small thing.
+seasonalFortune: The preserved lemon yields only its essential oils — every drop speaks, nothing whispers. The season recognizes each requirement and provides it, precisely measured.
+dailyMid: The fritter holds its shape where pressure finds it.
+dailyHigh: Oil and heat compose a dialogue so direct, the bean requires no further translation.
+dailyMost: The edge between golden and seared exists for one brief moment. The pan knows which side to take.
+dailyLow: The batter took its time in assembly. Flavours layered themselves without urgency across the bowl.
+dailyLeast: The aioli gathered its components through meandering — lemon juice spoke to garlic spoke to oil — each conversation unhurried.
 ---
 
 Agrodolce Butter Beans are the Bean Zodiac's most efficient — they know where effort should go and spend nothing elsewhere.

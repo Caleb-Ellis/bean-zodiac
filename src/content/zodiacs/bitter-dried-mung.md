@@ -6,12 +6,12 @@ form: dried
 trait: clinical
 dish: Moong Dal - mung beans with methi and turmeric.
 quote: First, do no harm to beans.
-seasonalFortune: A moment will arrive that resists measurement — allow the warmth that serves no function, just to prove it still works.
-dailyNeutral: See what is depleted and apply exactly what is needed — no more, no less.
-dailyGood: The diagnosis is accurate; apply the correct measure without deviation.
-dailyBest: Nothing overlooked, nothing added that was not required — the full clinical attention, completely applied.
-dailyBad: Give the warmth, not the assessment; what is needed here cannot be measured.
-dailyWorst: Set the method down entirely and just be present — that is the only thing that will work right now.
+seasonalFortune: What splits from the pod splits clean. Each crack in the hull reads true — the season reveals itself through fissures that need no interpretation, only the hand that knows which part feeds and which part harms.
+dailyMid: The measure holds steady; what was whole is now known by its absence.
+dailyHigh: The turmeric finds the exact depth of the wound.
+dailyMost: Every grain aligns with its purpose — the broth rises without waste.
+dailyLow: The measure comes in approximately — the dal is close enough, the methi a little generous.
+dailyLeast: The turmeric goes in by feel; the broth thickens somewhere past the line.
 ---
 
 Desiccated Mung Beans are the Bean Zodiac's most clinical — they see what is depleted with precision and apply exactly what is needed, no more.

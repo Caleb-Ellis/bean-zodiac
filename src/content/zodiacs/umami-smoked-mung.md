@@ -6,12 +6,12 @@ form: smoked
 trait: steeped
 dish: Smoked mung bean congee with century egg, ginger, and crispy shallots.
 quote: We do not bean from experience — we bean from reflecting on experience.
-seasonalFortune: A saturation will be complete — make room for what has not yet been absorbed, so there is still space for what comes next.
-dailyNeutral: Let it steep — what you are absorbing is going all the way in.
-dailyGood: Give it longer — the full saturation is still happening and it needs more time.
-dailyBest: Let it go all the way through — the complete absorption is what the full duration was for.
-dailyBad: Offer the fresh perspective; the immersion is being read as bias and something unsteep is being asked for.
-dailyWorst: Step back from it; the immersion is being named as the obstacle and the ask is direct.
+seasonalFortune: The broth thickens — what lingers asks whether depth still nurtures.
+dailyMid: Smoke settles into the grain. Layer upon layer, the distinction between infusion and vessel dissolves.
+dailyHigh: Century egg and bean become one story. The saturation writes itself into fiber and memory.
+dailyMost: The smoke has claimed everything — nothing remains on the surface. This is completion.
+dailyLow: The condiment floods — ginger interrupts the slow song with its own urgency.
+dailyLeast: The steep reverses course. Flavors scatter, each retreating to its own edge.
 ---
 
 Hickory Mung Beans are the Bean Zodiac's most steeped — the care has been in contact with the depth for so long that the two have become one.

@@ -6,12 +6,12 @@ form: smoked
 trait: translucent
 dish: Sakkarai pongal - sweet mung dal and rice pudding with smoked ghee, jaggery, and cardamom.
 quote: For now we bean a glass darkly.
-seasonalFortune: Your care will pass through without casting a shadow — be the thing that is seen, at least once.
-dailyNeutral: Let what you are carrying show through — it is safe here.
-dailyGood: The transparency you offer is giving others permission to be seen too.
-dailyBest: Become fully visible — let the care and the feeling show completely, all the way through.
-dailyBad: Offer less; what was shown was more than what was ready to receive it.
-dailyWorst: Pull something back — the visibility has gone past what anyone can hold comfortably.
+seasonalFortune: The smoke lingers in the grain long after the fire cools — what passes through leaves traces, and those traces become the shape of something remembered, something that matters.
+dailyMid: A seed hull holds its own light within; vision continues straight through, unbroken.
+dailyHigh: Jaggery dissolves clean in water — sweetness flows everywhere, and in its spreading, reveals what was hidden.
+dailyMost: Smoke clears to show the kitchen whole — every surface lit, every corner known, nothing kept separate.
+dailyLow: The cardamom shell keeps its secrets close; certain flavours unfold only in their own time.
+dailyLeast: Ghee clouds and thickens; some richness settles, opaque and held.
 ---
 
 Barbecued Mung Beans are the Bean Zodiac's most translucent — their care passes through without casting a shadow, which means others look through them to what is beyond.

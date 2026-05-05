@@ -6,12 +6,12 @@ form: boiled
 trait: hardworking
 dish: Szechuan boiled edamame with doubanjiang and dried chilies.
 quote: Genius is one per cent inspiration and ninety-nine per cent beans.
-seasonalFortune: The compound interest of the work will come due — when it does, it will require rest.
-dailyNeutral: The work ahead is knowable — put the first hour in and the rest will show itself.
-dailyGood: Sustained effort is required and you are built for it — begin.
-dailyBest: The output will be everything that could be given — bring it all to the task.
-dailyBad: The task keeps being reduced — hold the original standard regardless of what is being asked for now.
-dailyWorst: The work has been taken elsewhere; find something else that needs doing and put the effort there.
+seasonalFortune: The beanbroth accumulates across seasons — what emerges is the sum of all the slow stirring.
+dailyMid: The first pod yields to the tooth; patience finds its way through.
+dailyHigh: Steam rises from the pot — meet it fully.
+dailyMost: All strength goes to the fire; this is where it belongs.
+dailyLow: The broth simmers without attendance — something shifts in that neglect.
+dailyLeast: The pods remain in water, waiting for hands that don't arrive.
 ---
 
 Braised Edamame are the Bean Zodiac's most hardworking — they understand work is required and follow through.

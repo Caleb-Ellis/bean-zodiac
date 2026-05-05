@@ -6,12 +6,12 @@ form: dried
 trait: steely
 dish: Bessara - fava beans with cumin and bitter harissa.
 quote: That which does not bean me makes me stronger.
-seasonalFortune: The weight you carry will become visible to someone who needs to see it — let the structure show.
-dailyNeutral: The conditions are difficult — continue anyway.
-dailyGood: The softness is not required here; proceed without it.
-dailyBest: Everything that could have softened this has been removed — hold the position without apology.
-dailyBad: Accept the softer path; endurance is not always what the moment is asking for.
-dailyWorst: Yield — holding this position is costing more than the position is worth.
+seasonalFortune: The hull thickens where pressure insists. What harissa cannot dissolve may yet feed those who know how to split it open — slowly, with intention.
+dailyMid: The grain runs deep; the cracks follow it faithfully.
+dailyHigh: Cumin circles the edge; the core remains untouched, essential.
+dailyMost: Stripped bare and still holding. The desiccation is complete — what stands now is what was always meant to.
+dailyLow: Cumin spills past the edge; the core bends a little with it.
+dailyLeast: The hull softens early. Bessara yields before the grinding is done.
 ---
 
 Desiccated Fava Beans are the Bean Zodiac's most steely — the work is hard, the conditions are harsh, and they have decided none of it is reason to stop.

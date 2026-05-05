@@ -6,12 +6,12 @@ form: fried
 trait: irrepressible
 dish: Spicy adzuki jeon - Korean pan-fried adzuki bean pancake with gochugaru.
 quote: Don't stop me now - I'm having such a good bean!
-seasonalFortune: The energy will find its target — aim it at the thing most worth the full temperature, not at whatever is in range.
-dailyNeutral: Choose the target before the heat goes anywhere.
-dailyGood: The energy is full and irrepressible; aim it before it finds its own direction.
-dailyBest: Everything runs at full heat — point it entirely at the thing that deserves it.
-dailyBad: Pull back until conditions change; what arrives at full heat is being treated as something to manage, not meet.
-dailyWorst: Stop sending heat into closed space; everything has drawn back and it will not be received.
+seasonalFortune: The pod splits open when its moment arrives — pressure finds release through timing, not restraint. What blazes without direction will ash and scatter; what blazes toward a thing will transform it utterly.
+dailyMid: The oil at the bottom of the pan still moves, still kindles. The edges crisp; the middle holds its form.
+dailyHigh: All the gochugaru dissolves into the batter — the whole dish glows. The heat makes something new.
+dailyMost: The pan itself sings with the intensity. The pancake rises golden, crackling, complete.
+dailyLow: The flame lowers. The bean softens gradual, absorbs the spice whole. A different kind of knowing comes slow.
+dailyLeast: The bean sits whole in cool water. It waits. The flavours gather in stillness, dormant, patient as seeds.
 ---
 
 Red-Hot Adzuki Beans are the Bean Zodiac's most irrepressible — their heat cannot be contained.

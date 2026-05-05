@@ -6,12 +6,12 @@ form: smoked
 trait: exalted
 dish: Fagioli all'uccelletto - Tuscan cannellini with smoked pancetta, sage, and tomato.
 quote: The bean shall inherit the earth.
-seasonalFortune: A height will be reached again — find something worth being imperfect for, so what has been refined has somewhere human to land.
-dailyNeutral: Hold to the height — the standard you are keeping is the right one to keep.
-dailyGood: Reach higher — the refined version of what you are doing is the one worth making.
-dailyBest: Let it be as elevated as it can be — the full version of what you are capable of is the thing to aim at.
-dailyBad: Hold the standard; a lower bar is being set around you and it is starting to feel reasonable.
-dailyWorst: Come down; the elevation is being called unnecessary and the pressure is steady and coming from every direction.
+seasonalFortune: Smoke carries upward only so far — this season asks what lingers in the air versus what settles back into the pan.
+dailyMid: The smoke rings around the bean, holding its shape through heat and time.
+dailyHigh: Hickory notes deepening toward something ineffable — the smoked curve bends toward a thing that cannot be unsmoked.
+dailyMost: The cannellini at the peak of its refinement, pale and burnished, resisting the ordinary entirely.
+dailyLow: Sage wilts into the broth, dissolving its edges into the whole.
+dailyLeast: The pancetta fat softening into everything else, its own distinction becoming texture rather than form.
 ---
 
 Hickory Cannellini Beans are the Bean Zodiac's most exalted — their refinement has ascended to something that is difficult to approach without a certain gravity.

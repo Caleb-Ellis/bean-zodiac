@@ -6,12 +6,12 @@ form: boiled
 trait: unyielding
 dish: Spiced fava bean soup with berbere and lemon.
 quote: I am not a bean to be argued out of what I know to be right.
-seasonalFortune: A thing worth holding firm on is coming — before the moment, decide whether what you are holding against is the situation or the feedback.
-dailyNeutral: The decision was made — stay in it.
-dailyGood: The conviction has been examined — bring it fully to bear.
-dailyBest: Every force applied against what you know is right will only sharpen it — stand entirely in it.
-dailyBad: Examine the arriving feedback before the door closes — the current position is not as settled as it feels.
-dailyWorst: Examine what you are refusing — it is correct.
+seasonalFortune: The skin holds long enough to teach what the seed knows. Pressure reveals whether the core is diamond or merely stone — seasons will determine which.
+dailyMid: The broth darkens where the bean refuses to soften.
+dailyHigh: Spice finds its grip in stillness — the motionless center burns brightest.
+dailyMost: Heat and time conspire only where something remains to be changed by them.
+dailyLow: The pot calls its inhabitants to bend with the steam.
+dailyLeast: Water remembers no shape it holds — the bean dissolves where currents run.
 ---
 
 Braised Fava Beans are the Bean Zodiac's most unyielding — once decided, nothing moves them.

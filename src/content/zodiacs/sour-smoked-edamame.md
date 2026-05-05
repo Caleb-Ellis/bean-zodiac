@@ -6,12 +6,12 @@ form: smoked
 trait: surgical
 dish: Dashi-smoked edamame with ponzu - edamame cold-smoked over kombu and served in citrus soy
 quote: First, do no bean.
-seasonalFortune: A cut is coming — stay long enough afterward to see what it has done, and whether anything needs attention.
-dailyNeutral: The cut is there — make it cleanly.
-dailyGood: Go exactly to the thing; no wider than what is needed.
-dailyBest: The incision is ready — single, exact, and at exactly the right depth.
-dailyBad: Warm up the delivery; the precision arrived correct but cold, and cold is what has been remembered.
-dailyWorst: A different approach is being sought out. The exactness of it is the reason — it read as procedure, not care.
+seasonalFortune: The smoke clears only for those who know where to look. Clarity this season belongs to the still hand — the one that stops, measures, and trusts the edge of the blade. Ponzu cuts sharper than effort; kombu remembers what was already known.
+dailyMid: The shell peels back with one motion. The rest waits.
+dailyHigh: Smoke rises where the cut was made — the incision finds itself.
+dailyMost: The cold-smoke settles on what matters. Everything else burns away.
+dailyLow: The flavours blur, layering where they ought to separate. The line between what is needed and what lingers grows unclear.
+dailyLeast: The smoke fills the room without direction. Nothing is refined to its point.
 ---
 
 Cured Edamame are the Bean Zodiac's most surgical — fast, precise, and finished before the situation has fully understood what occurred.

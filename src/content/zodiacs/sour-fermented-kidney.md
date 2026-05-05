@@ -6,12 +6,12 @@ form: fermented
 trait: defensive
 dish: Red beans and rice - Louisiana style with fermented hot sauce and lime.
 quote: The best bean is the one already inside the fortress.
-seasonalFortune: A decision about the walls you have built is coming — they have been buying time to find what they are protecting, and that decision is almost made.
-dailyNeutral: The guard is up for good reason — keep it where it is.
-dailyGood: Hold the defensive position; the thing you are protecting is worth protecting.
-dailyBest: Defend it completely — every inch of it, for as long as it needs defending.
-dailyBad: Lower it slightly; an invitation is on the table and the wall is the only thing refusing it.
-dailyWorst: Open up. People have stopped trying to get through and the silence outside is not a victory.
+seasonalFortune: The vinegar speaks to what was sealed. Listen — the fermentation knows its own vessel, knows what enters, knows what must stay. A reckoning arrives with the brine, asking whether the membrane still remembers its purpose.
+dailyMid: Sourness and salt work together at the threshold.
+dailyHigh: The brine holds its shape. Everything essential remains exactly where the fermentation placed it.
+dailyMost: Boundaries breathe — each wall lacquered with time, purposeful as the rice beneath, yielding nothing that isn't already known.
+dailyLow: The lid lifts, and brightness floods the crock.
+dailyLeast: Walls blur like oversoaked husks. Everything pours freely into everything else.
 ---
 
 Pickled Kidney Beans are the Bean Zodiac's most defensive — they know exactly what they are protecting and why.

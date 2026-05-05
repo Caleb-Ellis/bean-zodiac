@@ -6,12 +6,12 @@ form: fermented
 trait: observant
 dish: Shio koji edamame - edamame marinated in fermented rice koji with salt and yuzu.
 quote: The world is full of obvious things which no bean by any chance ever observes.
-seasonalFortune: An understanding has been quietly accumulating — share it while it is still useful.
-dailyNeutral: Keep watching; the detail you are about to notice will matter.
-dailyGood: Let your attention go finer — what you are looking at has more in it.
-dailyBest: Give it your total attention; the full picture is there for those who stay long enough.
-dailyBad: Say what you have noticed; the pace here will not slow to wait for it.
-dailyWorst: Share the observation now; events are moving past the point where it can land.
+seasonalFortune: Koji works in the dark — spores colonize grain for weeks before flavor emerges. The season asks for similar patience; what is invisible now shapes everything later.
+dailyMid: Salt crystals dissolve at different rates. The smaller ones vanish first, while coarser grains take longer — notice which dissolves in your mouth and when.
+dailyHigh: Yuzu oils hold notes that arrive in sequence — first brightness, then depth, then the faint bitter undertone that makes the first brightness matter. Each layer is there if the palate stays open.
+dailyMost: Taste with no part withheld — the brine, the koji's subtle funk, the edamame's own earthiness, the yuzu's surprise. All of it speaks.
+dailyLow: The salt is salt, the beans are beans — a simple dish offers simple truths. Sometimes the surface is where the meal lives.
+dailyLeast: Sweetness arrives, dissolves, is gone. The pod splits; the bean emerges, is eaten. Each moment complete in itself.
 ---
 
 Miso Edamame are the Bean Zodiac's most observant — they hold what they notice for a long time before saying it.

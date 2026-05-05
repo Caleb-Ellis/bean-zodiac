@@ -6,12 +6,12 @@ form: fried
 trait: fidgety
 dish: Green bean tempura with matcha sugar — blistered in light batter and tossed in powdered green tea and fine sugar.
 quote: I have measured out my bean in coffee spoons.
-seasonalFortune: An energy will find a thing worth staying for — when it arrives, stay past the point of interest and find out what you can actually make.
-dailyNeutral: Let the energy move — it will find what it needs.
-dailyGood: The restlessness is pointing at something — follow it.
-dailyBest: Go everywhere at once — the scatter is the method and something will catch.
-dailyBad: Hold still; steadiness was needed and what arrived is still moving.
-dailyWorst: Close something — every thread is live and nothing is finished.
+seasonalFortune: The batter thickens around what lingers. Matcha settles where the bean stayed longest — the dusting collects only where there is stillness. The season asks for return, not rotation.
+dailyMid: Oil bubbles where attention gathers.
+dailyHigh: The crust forms deeper each time the heat meets the same surface.
+dailyMost: One corner caramelised completely tells more than scattered blistering.
+dailyLow: Sugar dissolves evenly across every surface — the grain binds everything equally.
+dailyLeast: The tempura takes shape in the pan that is never left.
 ---
 
 Caramelised Green Beans are the Bean Zodiac's most fidgety — the energy is always looking for somewhere to go.

@@ -6,12 +6,12 @@ form: dried
 trait: ascetic
 dish: Acquacotta - cannellini and bitter greens.
 quote: Simplicity is the ultimate bean.
-seasonalFortune: Something worth keeping is about to ask to be let back in — the harder question is not whether you stripped too much, but whether you will recognise it when it arrives.
-dailyNeutral: Remove one more thing — see if what remains is stronger for it.
-dailyGood: Hold the reduction until only what cannot be argued away remains.
-dailyBest: Everything that does not belong has been taken — what is left needs no defense.
-dailyBad: Accept the comfort being offered; not everything added back in is a compromise.
-dailyWorst: Let the imperfect thing stay — what you stripped out may have been keeping something else alive.
+seasonalFortune: The broth grows clearer as the greens settle. What was scattered returns in layers — first as sediment, then as nourishment. The question is not whether the pot deserves what enters, but whether what remains inside knows how to hold it.
+dailyMid: The edge between what was and what persists appears at the waterline.
+dailyHigh: The bitter leaf gives up its roughness only to the patient broth. In giving, it becomes the structure the lesser flavours cling to.
+dailyMost: The kernel of essence — what remains after every other claim has been dismissed — holds steadier than anything whole ever could.
+dailyLow: The broth thickens where restraint once kept it clear. The acquacotta holds an extra handful tonight.
+dailyLeast: Every flavour that was ever set aside finds its way back to the bowl. The spare broth becomes a stew.
 ---
 
 Desiccated Cannellini Beans are the Bean Zodiac's most ascetic — they have removed every excess and arrived at something so refined it barely takes up space.

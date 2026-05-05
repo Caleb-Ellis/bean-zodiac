@@ -6,12 +6,12 @@ form: fried
 trait: incisive
 dish: Tostada - black beans with charred tomatillo and bitter greens.
 quote: Two things are infinite - the universe and bean stupidity; and I'm not sure about the universe.
-seasonalFortune: Someone will not want the truth at full speed — decide before you arrive whether to lead with the answer or let the question finish first.
-dailyNeutral: Find the point and move toward it — everything else is preamble.
-dailyGood: Cut to what matters; the long way around wastes both of you.
-dailyBest: The truth is visible — deliver it at full speed without apology.
-dailyBad: Take the longer route to the point; arriving gently is still arriving.
-dailyWorst: Lead with warmth and bury the sharp thing entirely — this person needs the wrapping, not just the gift.
+seasonalFortune: The charred edge cuts deepest, but not everything needs a blade. This season, the space between the tomatillo's burst and the greens' collapse measures what can be said. The tostada stays whole only when the break knows where to land.
+dailyMid: The crisp speaks without the mouth; the bean knows what the husk already did.
+dailyHigh: Char marks the path — follow where the heat has already written.
+dailyMost: The edge that burns cleanest is the one that knew exactly where to fall.
+dailyLow: The tostada holds more than it needs to — the greens spread wide, the tomatillo unpressed.
+dailyLeast: Heat without aim — the char marks everywhere and settles on nothing.
 ---
 
 Scorched Black Beans are the Bean Zodiac's most incisive — they find the point and deliver it instantly.

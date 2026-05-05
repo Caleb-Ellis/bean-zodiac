@@ -6,12 +6,12 @@ form: fried
 trait: proactive
 dish: Crispy chickpeas with fish sauce, toasted garlic, and lime.
 quote: Do not wait to strike till the bean is hot, but make it hot by striking.
-seasonalFortune: A move ahead of the situation is coming — ask once, before making it, so the autonomy you are protecting knows what you are doing.
-dailyNeutral: Move ahead of it — what you are anticipating is real, and the action is the right response.
-dailyGood: Act before the moment arrives — you can see further than the situation has declared.
-dailyBest: Go before you are asked — the distance between where you are and where it needs to be is yours to close.
-dailyBad: Pause before the next move; the ask is to check in before acting.
-dailyWorst: Ask before the next one; the action that went ahead has caused friction and the pattern is being named.
+seasonalFortune: The oil sizzles before the bean arrives — knowing what heat demands is the long sight. Permission whispers while the pan speaks; a question asked answers itself in the steam.
+dailyMid: The kernel splits before pressure builds. Readiness and timing share the same oil.
+dailyHigh: The moment arrives already seasoned. The hand moving is the hand that saw it coming.
+dailyMost: The gaps between things are visible only to those already standing in them — arrival and foresight collapse into one motion.
+dailyLow: The pan cools. Stillness holds its own weight.
+dailyLeast: The bean waits in the bowl. Patience is its own kind of clarity.
 ---
 
 Tempura Chickpeas are the Bean Zodiac's most proactive — they see what will be needed and address it before being asked.

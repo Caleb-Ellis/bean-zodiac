@@ -6,12 +6,12 @@ form: dried
 trait: electric
 dish: Gan bian sijidou - dry-fried green beans with dried chili and garlic.
 quote: Energy cannot be beaned — it can only be transformed.
-seasonalFortune: The energy generated this season will need redirecting. Point it at something that benefits before it disperses on its own.
-dailyNeutral: The charge is high. Point it at something that can use the current.
-dailyGood: The energy is immediate and live; run it through something that needs it.
-dailyBest: Everything will carry the full voltage — send it into the thing that can actually bear it.
-dailyBad: Cut the current — what receives it cannot hold the charge and everything it touches is being damaged.
-dailyWorst: Dim it down until conditions change — every transmission is being treated as a hazard.
+seasonalFortune: The beans swell with residual heat from cooking oil long cooled. What once moved quick now settles into the spice, patient as aged stock. The season asks for this stillness — this is when the flavor deepens without friction.
+dailyMid: Crackling edges give way. The bean finds its rest in what absorbs rather than resists.
+dailyHigh: Each fracture in the skin releases something steadier underneath. The intensity pools into sweetness.
+dailyMost: The wok cools. What remains is the full depth — the spice no longer bright but woven through, inseparable from the bean itself.
+dailyLow: The warmth disperses evenly through the oil. No spark, only saturation.
+dailyLeast: All current moves through the broth. The bean dissolves into the whole, indistinguishable from what surrounds it.
 ---
 
 Sichuan Green Beans are the Bean Zodiac's most electric — the energy was already immediate; the heat has made it impossible to ignore.

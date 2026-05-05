@@ -6,12 +6,12 @@ form: fried
 trait: temperamental
 dish: Kottu roti with kidney beans - Sri Lankan stir-fried roti with chili and curry.
 quote: Any bean can be angry — that is easy. But to be angry with the right person, to the right degree, at the right time, for the right purpose — that is not easy.
-seasonalFortune: A storm will move through and clear — what remains afterward is yours, and attending to it costs less than leaving it for what comes next.
-dailyNeutral: Let it run. The temperature is real and the aftermath is manageable.
-dailyGood: The full temperature is here; let it run and then own the aftermath.
-dailyBest: Everything will run at the highest heat — feel it completely and take full responsibility for its wake.
-dailyBad: Lower the temperature before engaging; everything coming through is being read as heat before it lands.
-dailyWorst: Wait it out before pressing further; the decision about what is arriving has been made and nothing will move it.
+seasonalFortune: Oil holds the bean's secret — when the pan reaches that trembling point, what breaks apart and crisps will teach something the raw form never could. The char is not waste; it is translation.
+dailyMid: Heat rises in visible waves. The bean splits cleanly, its edges darkening into something new.
+dailyHigh: Every surface crackles. The oil becomes a mirror for the bean's complexity — each layer revealed in its own time.
+dailyMost: The pan speaks; the bean listens and answers in full voice. What emerges is unmistakable, complete, unafraid.
+dailyLow: The oil stays calm. The bean cooks through without the sharp notes — a gentler path, slower to darken.
+dailyLeast: The heat remains steady, even. The bean softens in its own time, no urgency to char or speak louder than necessary.
 ---
 
 Red-Hot Kidney Beans are the Bean Zodiac's most temperamental — heat doubling on itself creates immediate intensity.

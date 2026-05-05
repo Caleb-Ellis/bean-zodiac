@@ -6,12 +6,12 @@ form: roasted
 trait: overprotective
 dish: Kidney bean and dark chocolate roasted clusters — red beans bound in dark chocolate and coconut sugar, roasted into crunchy mounds.
 quote: The bean loved too well, that is the trouble.
-seasonalFortune: A freedom will be needed by the Beans you care for — trust that they can move freely and still come back.
-dailyNeutral: Hold the line — what you are guarding is worth it.
-dailyGood: The protection you extend is the thing that allows everything else to move.
-dailyBest: Cover it completely — the full force of your care is exactly what is needed here.
-dailyBad: Remove the cover; what is underneath needed to be left open and it is asking for it.
-dailyWorst: Step back entirely — what was kept soft was not ready for what arrived, because it was never allowed to be.
+seasonalFortune: The chocolate dissolves; the sweetness remains. To nurture is to accept the transformation.
+dailyMid: Warmth radiates outward, asking nothing in return.
+dailyHigh: The caramel crust cracks open — what was protected stands on its own.
+dailyMost: Hold everything loosely. The strength was always there.
+dailyLow: The beans scatter, finding their own path through the roasted dark.
+dailyLeast: Hands open. The sweetness carries further when released.
 ---
 
 Glazed Kidney Beans are the Bean Zodiac's most overprotective — their warmth is real, but both warmth and care have a radius that is very hard to leave.

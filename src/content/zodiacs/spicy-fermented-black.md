@@ -6,12 +6,12 @@ form: fermented
 trait: mysterious
 dish: Jajangmyeon - Korean noodles in fermented black bean and chili sauce.
 quote: I am not strange, I am just a bean.
-seasonalFortune: The right Bean to let into the mystery is closer than it seems — not to explain, but to share.
-dailyNeutral: Let one thing of the interior show — just one, to someone who is paying attention.
-dailyGood: The mystery has depth worth sharing; find the Bean who can sit with it.
-dailyBest: Open the full interior — to share, not to explain.
-dailyBad: Surface it anyway — the waiting is over and what was building has been decided against.
-dailyWorst: Break the seal before attention is gone entirely — no one is looking at the interior anymore.
+seasonalFortune: The bean darkens in its vessel — slower fermentation teaches what time alone cannot speak.
+dailyMid: The brine holds its secrets; patience tastes the difference.
+dailyHigh: Black liquor stains the roots — what seeps through leaves no trace of its path.
+dailyMost: The darkest sauce flavors from what the eye cannot reach.
+dailyLow: The surface reveals everything at once — no layers to discover.
+dailyLeast: Clear broth shows all its bones; seasoning speaks plainly.
 ---
 
 Kimchi Black Beans are the Bean Zodiac's most mysterious — they have not fully processed themselves.

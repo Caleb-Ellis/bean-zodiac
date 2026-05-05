@@ -6,12 +6,12 @@ form: roasted
 trait: melancholy
 dish: Roasted mung beans with fish sauce, lime leaves, and dried chilli.
 quote: Sadness is but a bean of the wall beside the window, through which your joy shall look out.
-seasonalFortune: A grief will want its full time — and when it has been honoured, let the present have a turn.
-dailyNeutral: Feel it fully; the sadness you are carrying is real and it deserves its time.
-dailyGood: Go deeper into it — the feeling has more in it than the surface allows.
-dailyBest: Let the full weight of it land; what you are carrying is real and this is the moment to hold it.
-dailyBad: Bring the brightness; heaviness is not what is being asked for here.
-dailyWorst: Set it aside; the sadness is being named as a weight on what is around it and the ask is direct.
+seasonalFortune: The umami deepens through slow roasting — depths will layer and settle. The lime leaf curls inward; permission comes when the broth has cooled enough to taste clearly.
+dailyMid: Fish sauce lingers in the grain. Depths call to depths. The roasted shell holds what the heat released.
+dailyHigh: The chilli rind remembers its growing season. Follow the residue backward — it names something that shaped the shape of now.
+dailyMost: Caramelization creates its own sorrow. Let the darkening speak. The past has texture here.
+dailyLow: Brightness surfaces between the beans. The lime leaf unfurls — swift, uncomplicated, present-tense green.
+dailyLeast: The water moves quickly through. Swift steam, swift cooling. What arrives tastes only of itself.
 ---
 
 Rendered Mung Beans are the Bean Zodiac's most melancholy — not unhappy, but one foot always in what has passed.

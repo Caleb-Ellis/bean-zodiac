@@ -6,12 +6,12 @@ form: boiled
 trait: joyful
 dish: Oshiruko - Japanese sweet adzuki soup with toasted rice cake floating on top.
 quote: Life is what happens to you while you're busy making other beans.
-seasonalFortune: A joy will find you in the middle of the actual thing — bring it there, not only to what has been arranged in advance.
-dailyNeutral: Let the small moment land before moving to the next one.
-dailyGood: Your gladness is contagious — do not keep it to yourself.
-dailyBest: The joy you are feeling is real and it is enough — let it into everything, not just the occasion.
-dailyBad: There is no opening for brightness here — meet what is present before offering your own.
-dailyWorst: Pull it back — your brightness is landing as evasion, not presence.
+seasonalFortune: The sweetness pooled at the bottom will be discovered by those who wait. What settles becomes the season's inheritance — less announcement, more sustained warmth beneath surface.
+dailyMid: The broth carries an unnamed brightness that takes its time revealing itself.
+dailyHigh: Light finds the smallest crevices and stays — like steam rising from the bowl's rim.
+dailyMost: The sweetness here asks nothing and offers everything. It arrives in the grain of an ordinary morning.
+dailyLow: There is merit in stillness. The beans rest in their own weight, requiring nothing more.
+dailyLeast: The silence at the bottom of the bowl holds its own kind of completeness.
 ---
 
 Candied Adzuki Beans are the Bean Zodiac's most joyful — joy as constitutional orientation, not occasion.

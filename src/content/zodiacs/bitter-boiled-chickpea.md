@@ -6,12 +6,12 @@ form: boiled
 trait: versatile
 dish: Revithia - chickpeas with bitter lemon and fresh herbs.
 quote: A bean is the most versatile of tools.
-seasonalFortune: The direction is about to become clear — the next version of your versatility needs to move toward something, not just between things.
-dailyNeutral: One form serves the moment better than the rest — choose it and hold it.
-dailyGood: Your range is not the gift; the precision with which you deploy it is.
-dailyBest: Every form available to you is suited to the moment — move between them without friction or hesitation.
-dailyBad: Pick one answer and defend it; the room needs a stake in the ground, not a menu.
-dailyWorst: Collapse the options down to one and deliver it plainly — breadth is not helping anyone right now.
+seasonalFortune: The lemon has been cut in many directions; now its essence pools toward a single vessel. Bitterness clarifies when bound — the broth waits for the bean that knows which form it must take to be essential.
+dailyMid: The plate holds three preparations, but one spoon will find its place.
+dailyHigh: Each vessel catches the light differently; the herb knows which water to flavor.
+dailyMost: The kitchen opens in all directions at once — every surface holds the right tool, every angle reveals its grain.
+dailyLow: One vessel, one purpose — the herb finds its water and stays.
+dailyLeast: The kitchen narrows to a single preparation, and that preparation holds.
 ---
 
 Infused Chickpeas are the Bean Zodiac's most versatile — they meet each situation on its own terms.

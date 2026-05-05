@@ -6,12 +6,12 @@ form: fried
 trait: risk-taking
 dish: Ta'amiya - Egyptian fava bean falafel with green chili and cumin.
 quote: Only those who will bean far can possibly find out how far one can go.
-seasonalFortune: A risk will produce results — look back after, not to second-guess, but to identify which instincts you can trust further next time.
-dailyNeutral: The instinct is sound. Commit now and check the math after.
-dailyGood: The commitment is made before the math is done; go at it with everything and learn from the result.
-dailyBest: Take the full risk — commit completely and stay for the accounting of every instinct it tests.
-dailyBad: Move without the guarantee — every commitment is being held until the math finishes, and it will not.
-dailyWorst: Wait for the lock to ease — the conditions are set against movement and what would push through is being stopped.
+seasonalFortune: The oil is hot; the beans are ready. What burns reveals flavor only the committed will taste. The season belongs to those who enter before the pan cools.
+dailyMid: The first crack holds wisdom. Step into the heat before doubt thickens.
+dailyHigh: Fava splits in boiling water — yes, this is breaking. This is how it becomes tender. Move deeper.
+dailyMost: The best learning lives inside the fire. Immersion completes what hesitation fragments.
+dailyLow: The measurement spreads; the recipe builds slowly. Each ingredient waits for the next. Precision is its own momentum.
+dailyLeast: The flame holds steady. Adjustment comes in small increments. Everything settles at its own pace.
 ---
 
 Red-Hot Fava Beans are the Bean Zodiac's most risk-taking — they commit before the math is finished.

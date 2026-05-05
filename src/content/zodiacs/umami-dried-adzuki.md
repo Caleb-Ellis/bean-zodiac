@@ -6,12 +6,12 @@ form: dried
 trait: reverential
 dish: Azuki no nimono - dried adzuki simmered in dashi and soy.
 quote: The bean is in the ritual, not the result.
-seasonalFortune: An ordinary occasion is coming — let it be worth celebrating on its own terms.
-dailyNeutral: Pause and mark it; this one is worth more than a passing acknowledgment.
-dailyGood: Give the occasion everything it is asking for.
-dailyBest: Make it sacred; what is honoured this completely does not fade.
-dailyBad: Let this one pass without ceremony — the instinct to elevate every moment is not always right.
-dailyWorst: Move through it without marking it; not every occasion earns what you would give it.
+seasonalFortune: The broth thickens by slow heat, not by rushing it. There comes a season when the reverence flows into the beans and deepens them both — and another when ceremony becomes a shell with nothing fermenting within. The distinction lies in whether the occasion breathes, or only the ritual does.
+dailyMid: The broth settles; it asks only to be tasted, not performed.
+dailyHigh: Something arrives that wants to be simmered in, held, flavored to its fullest — the attending to it becomes inseparable from what it becomes.
+dailyMost: The reduction happens — what is steeped in this deeply does not evaporate.
+dailyLow: The moment skips, light and seasoning-less, a brief warmth with no depth accruing.
+dailyLeast: The beans scatter before they soften; all hastiness, no stewing, no infusion claimed.
 ---
 
 Aged Adzuki Beans are the Bean Zodiac's most reverential — celebration is not casual for them; it is a form of devotion.

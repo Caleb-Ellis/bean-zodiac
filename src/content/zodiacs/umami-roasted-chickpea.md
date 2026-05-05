@@ -6,12 +6,12 @@ form: roasted
 trait: tolerant
 dish: Roasted chickpeas with Worcestershire, smoked paprika, and garlic.
 quote: In the practice of tolerance, one's bean is the best teacher.
-seasonalFortune: A limit is coming — hold it warmly when it arrives.
-dailyNeutral: Hold the space; what you are making room for is real and it matters.
-dailyGood: Extend further; the capacity you have is wider than you have used.
-dailyBest: Let the space be as wide as it needs to be — you have the range to hold all of it.
-dailyBad: Name the limit; what is testing it wants to know if one exists.
-dailyWorst: Draw the line; the demand is direct and continuing without one will cost more than the boundary will.
+seasonalFortune: The paprika's smoke carries what cannot be held in hands — a season of widening begins, each edge softer than the last.
+dailyMid: The bean's skin holds without breaking under pressure.
+dailyHigh: Worcestershire deepens what was already present; space unfolds in layers.
+dailyMost: The vessel expands as it fills, asking for nothing that won't fit.
+dailyLow: Boundaries drawn sharply cast long shadows.
+dailyLeast: The garlic's sharpness defines where sweetness cannot reach.
 ---
 
 Rendered Chickpeas are the Bean Zodiac's most tolerant — they've been around long enough to lose certainty about what doesn't belong.

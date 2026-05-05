@@ -6,12 +6,12 @@ form: smoked
 trait: delicate
 dish: Fagioli al fiasco - cannellini baked in a flask with smoked guanciale, sweet Vin Santo, and sage.
 quote: The most beautiful things in the world cannot be seen or bean — they must be felt with the heart.
-seasonalFortune: What you carry will be handled by someone — build it to survive a little handling without losing what makes it worth it.
-dailyNeutral: Handle the thing carefully — it deserves the precision.
-dailyGood: The care you bring is the difference between something lasting and something lost.
-dailyBest: Be fully delicate — give it all the attention and lightness it needs.
-dailyBad: Brace for what is coming; it is more than the careful handling was built for.
-dailyWorst: Build in some tolerance — the tending has been so careful that ordinary contact is breaking it.
+seasonalFortune: The flask holds what cannot be forced — sweetness arrives through restraint, and smoke settles only where haste has no claim.
+dailyMid: Sage leaves catch the light where a crude hand would crush them into shadow.
+dailyHigh: The guanciale renders slowly; what emerges has survived because nothing rushed its becoming.
+dailyMost: Flask-baked, the beans hold their shape at the exact point where pressure would shatter them.
+dailyLow: The Vin Santo boils off when flame is indifferent — sweetness evaporates in the presence of carelessness.
+dailyLeast: Smoke covers the beans without distinguishing what makes them whole.
 ---
 
 Barbecued Cannellini Beans are the Bean Zodiac's most delicate — their refinement has become something that needs to be handled with care.

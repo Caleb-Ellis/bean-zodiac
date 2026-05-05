@@ -6,12 +6,12 @@ form: fermented
 trait: thoughtful
 dish: Butter bean and kimchi broth with bitter greens.
 quote: The unexamined bean is not worth eating.
-seasonalFortune: The work you have been developing in private will be needed — let enough of it surface before the occasion arrives and finds you unprepared.
-dailyNeutral: Take the time the thought requires — it will be better for it.
-dailyGood: Consider it from every angle before it surfaces; nothing leaves before it is ready.
-dailyBest: Give it the complete interior treatment — no thought leaves half-formed.
-dailyBad: Offer the half-formed version now; something out is more useful than something perfect and still inside.
-dailyWorst: Say the first thing that arrives — this is not the moment for the interior treatment.
+seasonalFortune: In the dark fermentation of the season, something patient emerges from salt and time. The broth thickens. When the palate grows restless for something it cannot name, what was left alone in the dark will be precisely what was needed — if it rises to meet the moment before the moment passes.
+dailyMid: The layers multiply in stillness. Each dark day adds what cannot be rushed.
+dailyHigh: What deepens in silence today becomes the broth that sustains. The work is working.
+dailyMost: Fermentation reaches its peak — let it surface, imperfect and essential, while the hunger for it still burns.
+dailyLow: The broth is rushed to the table before the bitter greens have had their say.
+dailyLeast: The kimchi surfaces half-formed — tangy before its time, still working out what it wants to be.
 ---
 
 Cultured Butter Beans are the Bean Zodiac's most thoughtful — nothing leaves their interior until properly considered and found worthy.

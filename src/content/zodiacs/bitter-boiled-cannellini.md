@@ -6,12 +6,12 @@ form: boiled
 trait: discerning
 dish: Cannellini and broccoli rabe soup.
 quote: The bean you refuse is as important as the bean you accept.
-seasonalFortune: A thing that hasn't fully earned entry is coming — let it through anyway, and see what the exception teaches your standard.
-dailyNeutral: Notice what earns your attention — and what merely requests it.
-dailyGood: The standard is only as good as what it lets through, not what it excludes.
-dailyBest: The thing that has not earned entry will not earn it by waiting — refuse it without apology.
-dailyBad: Let the imperfect thing in — sometimes good enough is exactly what the moment needs.
-dailyWorst: Drop the standard entirely for now; holding it here costs more than what it protects.
+seasonalFortune: The broth refuses nothing, yet something always sinks. The flavor that rises this season will be the one that was never meant to settle.
+dailyMid: The hull and the flesh know different truths; one dissolves while the other holds.
+dailyHigh: Water remembers which beans it touches first. The first to cloud the broth are rarely the ones that flavor it.
+dailyMost: Strip the chaff before the fire. What lingers after heat has chosen what matters.
+dailyLow: Every bean that falls into the pot finds its place there. The broth thickens without asking why.
+dailyLeast: A generous broth takes in everything — rind, hull, sediment — and calls it flavor.
 ---
 
 Infused Cannellini Beans are the Bean Zodiac's most discerning — they judge carefully what deserves their attention.

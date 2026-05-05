@@ -6,12 +6,12 @@ form: roasted
 trait: aloof
 dish: Frijoles borrachos al horno - oven-roasted pinto beans with lime juice, jalapeño, and dark beer
 quote: I exist as I am — that is enough. If no other bean in the world be aware, I sit content.
-seasonalFortune: The distance will be appropriate for a time — ask when the thing that warranted it has passed, and whether the habit is still serving a purpose.
-dailyNeutral: The distance is available — hold it as long as you need.
-dailyGood: Stay further back; let the room come to you.
-dailyBest: Withdraw completely — full remove, and let what is there exist without you in it.
-dailyBad: Move closer; the remove is being read as rejection and the people who took it that way are not wrong.
-dailyWorst: Come in entirely. The ones who were trying have stopped and indifference is what they're calling it now.
+seasonalFortune: The heat has done its work — what remains asks whether the skin still needs its thickness, or whether the separation was only ever the roasting itself.
+dailyMid: The rim holds its own light.
+dailyHigh: From far enough, the fermentation reads as clarity.
+dailyMost: A sealed vessel perfects slowly, needing nothing of the outer air.
+dailyLow: The beer dissolves the edge — sweetness finds its way through lime and fire.
+dailyLeast: Root and bulb twist together in the same dark soil, indistinguishable.
 ---
 
 Chimichurri Pinto Beans are the Bean Zodiac's most aloof — visible and genuinely difficult to reach.

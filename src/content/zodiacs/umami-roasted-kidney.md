@@ -6,12 +6,12 @@ form: roasted
 trait: extravagant
 dish: Roasted kidney beans with porcini, truffle oil, and thyme.
 quote: I have nothing to declare except my bean.
-seasonalFortune: An abundance will arrive — take the full experience, and stay long enough to know it was depth and not just fullness.
-dailyNeutral: Go all out — the full version of what you are offering is the right one.
-dailyGood: Add more — the generous version of this is what it was always meant to be.
-dailyBest: Give it the full treatment — everything you are capable of, nothing economized.
-dailyBad: Reduce the scale; the signal is clear that less would be enough.
-dailyWorst: Withdraw the gesture; what was offered is being named as too much and handed back.
+seasonalFortune: The truffle oil rises through layers — what seemed abundant at first reveals itself as merely the entry. Depth compounds through patience; the finish holds more than the first note promised.
+dailyMid: The thyme unfolds across the hour — surfaces contain what the patient palate discovers.
+dailyHigh: The porcini's weight invites every corner of the vessel — abundance here speaks in undertones, not proclamation.
+dailyMost: The oil pools where it will; the bean splits to give everything — this is the generosity that needs no announcement.
+dailyLow: The single note suffices; the spare preparation holds its own clarity.
+dailyLeast: The restrained portion contains its complete thought — a quieter fullness, but fullness nonetheless.
 ---
 
 Rendered Kidney Beans are the Bean Zodiac's most extravagant — they believe the full experience is always better than the restrained one.

@@ -6,12 +6,12 @@ form: dried
 trait: uncomplicated
 dish: Honey-glazed dried edamame — dried soybeans tossed in hot honey and sea salt until cracked and caramelised.
 quote: Keep it simple, bean.
-seasonalFortune: A complexity that will not fit in the directness is coming — the cost is real, and worth knowing.
-dailyNeutral: Say the direct thing — it is enough.
-dailyGood: The clarity you offer is cutting through what complication cannot.
-dailyBest: Strip everything to what is true; what remains is enough.
-dailyBad: The directness is cutting past what was actually needed.
-dailyWorst: Give the complicated version — what was simplified has gone past honesty, and the gap is felt.
+seasonalFortune: The shell gives way before the kernel grows dense. Sweetness will ask whether one note can hold a season.
+dailyMid: Salt dissolves into the smallest spaces.
+dailyHigh: The honey finds every crevice without searching for them.
+dailyMost: What remains gleams — stripped to its single, essential sweetness.
+dailyLow: Layers unfold where none were expected.
+dailyLeast: The flavor deepens, branches into itself.
 ---
 
 Crystallised Edamame are the Bean Zodiac's most uncomplicated — they have removed everything that was not necessary, and what is left is simply good.

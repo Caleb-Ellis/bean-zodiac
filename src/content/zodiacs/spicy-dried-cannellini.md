@@ -3,19 +3,19 @@ slug: spicy-dried-cannellini
 bean: cannellini
 flavour: spicy
 form: dried
-trait: searing
+trait: unerring
 dish: Pasta e fagioli - dried cannellini and pasta soup with peperoncino.
 quote: I came, I saw, I beaned.
-seasonalFortune: The marks made this season will last. Choose each one with the full weight of that.
-dailyNeutral: Slow the precision down just enough to confirm the aim before it lands.
-dailyGood: The precision is full and the heat is behind it; apply both with care.
-dailyBest: Everything that meets your full attention will carry it permanently — bring your best aim.
-dailyBad: Pull back — what is receiving your full attention was not built to hold it, and more is being applied than it can take.
-dailyWorst: Step back from the demand — everything arriving is asking to be marked, and the precision cannot answer all of it.
+seasonalFortune: The grain finds the mill. What passes through emerges transformed.
+dailyMid: The thread pulls taut. Each knot holds.
+dailyHigh: The knife splits the seed — clean halves, no dust.
+dailyMost: Every strike finds sinew. The broth knows exactly what was added.
+dailyLow: The scatter seeds itself. The broth accepts what drifts in.
+dailyLeast: The course shifts — the mill grinds new patterns.
 ---
 
-Sichuan Cannellini Beans are the Bean Zodiac's most searing — the precision is exact and the heat is real, and together they leave a mark.
+Sichuan Cannellini Beans are the Bean Zodiac's most unerring — the precision is exact and the standards are real, and together they leave a mark.
 
 Cannellini Beans apply their standards with deliberate grace; Spicy Beans make the effect immediate and commanding; Dried Beans strip away whatever buffer stood between the quality and its impact.
 
-The Sichuan Cannellini Bean's challenge is the impression that lasts longer than intended. A sear is not wrong — but these Beans must consider whether the mark they leave was the mark they meant to make.
+The Sichuan Cannellini Bean's challenge is the impression that lasts longer than intended. Unerring aim means every mark lands exactly — which means these Beans own every impression they leave, including the ones they didn't fully consider.

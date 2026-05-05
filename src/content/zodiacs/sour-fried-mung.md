@@ -6,12 +6,12 @@ form: fried
 trait: self-deprecating
 dish: Bindaetteok - Korean mung bean pancakes with a soy and rice vinegar dipping sauce.
 quote: I am so clever that sometimes I don't understand a single bean of what I am saying.
-seasonalFortune: A thing about yourself will need to be true without also being funny — let it land at its actual weight, just once.
-dailyNeutral: The joke at your own expense is available — use it lightly.
-dailyGood: Turn it further inward; the joke is at your own expense and that is the right place for it.
-dailyBest: Go fully at yourself — all of it, delivered without flinching and without waiting for permission.
-dailyBad: Correct the record; what you said about yourself is being taken at face value and nobody is rushing to disagree.
-dailyWorst: Stop going there entirely — what you have been saying about yourself is being cited as evidence, and the joke is no longer a joke to anyone else.
+seasonalFortune: The pancake crisps where the batter meets oil — some surfaces reflect light, others absorb it. Depth arrives when the vinegar cuts through without needing to be clever about the cutting.
+dailyMid: The sauce holds both sharp and sweet, each note waiting. A single flourish in the middle grounds both.
+dailyHigh: Vinegar finds the crease in the batter and settles there. The depth opens cleanly.
+dailyMost: The golden edge speaks plainly. Oil did its work; the bean's flavor answers directly.
+dailyLow: The plate fills with earnestness. No deflection needed — the weight holds firm on its own.
+dailyLeast: The dipping sauce is straightforward. Salty, bright, unadorned. The bean stands without commentary.
 ---
 
 Agrodolce Mung Beans are the Bean Zodiac's most self-deprecating — they get there first and make it funnier.

@@ -3,19 +3,19 @@ slug: spicy-dried-adzuki
 bean: adzuki
 flavour: spicy
 form: dried
-trait: incendiary
+trait: catalytic
 dish: Dry-fried adzuki with Sichuan peppercorn and dried chili threads.
 quote: Set the world on bean.
-seasonalFortune: A fire is building. Check now whether what it will consume is what you intend.
-dailyNeutral: Choose the thing that deserves to catch, then send the spark.
-dailyGood: The fire is real and ready; send it at the thing that can carry it.
-dailyBest: Aim well — everything you ignite will spread exactly as far as you direct it.
-dailyBad: Check the target again before sending — it has shifted, and the spark will not find what was intended.
-dailyWorst: Hold the spark — there is nothing worth directing it toward, and what you send will land on whatever is nearest.
+seasonalFortune: Heat waits in the kernel. A season builds toward the moment when friction alone becomes enough — when presence becomes pressure, and small contact ignites what was already tinder-dry.
+dailyMid: The peppercorn finds its target. Motion begins where intention lands.
+dailyHigh: Contact blooms into cascade. One spark becomes the fire that crosses the room.
+dailyMost: The heat knows its work. Each element reaches its mark and carries the next — a chain reaction perfectly aimed.
+dailyLow: Energy scatters into many directions. The spark catches in several places at once, unfocused and dispersed.
+dailyLeast: Motion without memory — the flame spreads but leaves no trace, and the next moment arrives unlinked to what came before.
 ---
 
-Sichuan Adzuki Beans are the Bean Zodiac's most incendiary — the joy has been concentrated into something that can start a fire.
+Sichuan Adzuki Beans are the Bean Zodiac's most catalytic — the joy has been concentrated into something that starts reactions in others without necessarily being spent in the process.
 
-Adzuki Beans know how to mark a moment; Spicy Beans make it immediate and impossible to ignore; Dried Beans concentrate the intensity until it ignites on contact.
+Adzuki Beans know how to mark a moment; Spicy Beans make the effect immediate and impossible to ignore; Dried Beans concentrate it until even small contact is enough to set something moving.
 
-The Sichuan Adzuki Bean's challenge is the celebration that consumes itself. Heat that burns too bright leaves ash, not memory. These Beans must learn to spread the fire — not spend it all at once.
+The Sichuan Adzuki Bean's challenge is the reaction that runs past the intended target. These Beans have the capacity to start things without spending themselves — but only if they choose what to activate with care.

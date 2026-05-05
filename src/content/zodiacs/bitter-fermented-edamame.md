@@ -6,12 +6,12 @@ form: fermented
 trait: rational
 dish: Edamame in ponzu with bitter yuzu and silken tofu.
 quote: The body is not the master of the mind, any more than the mind is the master of the bean.
-seasonalFortune: The conclusion is sound — the vehicle that will carry it somewhere is not a further argument, it is an occasion. Watch for the occasion.
-dailyNeutral: Account for the premise before moving — what it is built on determines where it can go.
-dailyGood: Follow the argument all the way through; stop when it holds, not when it gets inconvenient.
-dailyBest: Apply the full reasoning — every premise examined, every implication followed, nothing accepted on insufficient grounds.
-dailyBad: Go with the feeling this once; not every good move can be accounted for in advance.
-dailyWorst: Trust the instinct and act — the argument can be reconstructed after the fact, and right now the moment won't wait for it.
+seasonalFortune: The culture has been working longer than it has been tasted. What arrives now is not a new argument — it is the right substrate for one already complete. The acidity is useful at this pitch; leave it longer and it tips past clarifying.
+dailyMid: The culture is reading correctly — trust what the tang says.
+dailyHigh: Nothing has tipped; the ratio holds all the way through.
+dailyMost: Check every condition — do not assume a culture is active that has not yet been verified.
+dailyLow: The jar gets opened before the culture has finished its argument.
+dailyLeast: Ponzu before the tofu sets — a decision made on appetite alone.
 ---
 
 Cultured Edamame are the Bean Zodiac's most rational — they cannot proceed on grounds they cannot account for.

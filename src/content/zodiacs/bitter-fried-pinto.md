@@ -6,12 +6,12 @@ form: fried
 trait: irreverent
 dish: Taquitos - pinto beans with bitter lime crema and hot sauce.
 quote: Irreverence is the champion of liberty and its only sure bean.
-seasonalFortune: A target is about to appear that deserves the irreverence — check once that it is pretension and not something that only looks like it.
-dailyNeutral: The rule has not been examined — question it.
-dailyGood: The pretension is visible; name it without apology.
-dailyBest: Question everything that hasn't earned its place — nothing is sacred until it has been tested.
-dailyBad: Play it straight this once; not every moment can hold the weight of a question mark.
-dailyWorst: Put the irreverence down entirely — what you are questioning right now is not pretension, and the difference matters.
+seasonalFortune: The lime crema is cooling in a season that rewards the unimpressed. Structures that have been mistaken for walls are only folded paper — the heat already knows. One good crack and the shell gives up what it was protecting.
+dailyMid: The hot sauce sits untouched. Something has been running on ceremony where none was earned.
+dailyHigh: The crema cuts through where polish couldn't — the gap between the claim and the thing is visible now.
+dailyMost: Split it open. What spills out is the only honest part.
+dailyLow: The crema is taken at its word. A crisp surface earns its trust today.
+dailyLeast: The taquito arrives as promised — the ceremony holds, the hot sauce stays in its lane.
 ---
 
 Scorched Pinto Beans are the Bean Zodiac's most irreverent — they question rules that haven't been examined.

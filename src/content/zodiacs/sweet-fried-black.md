@@ -6,12 +6,12 @@ form: fried
 trait: driven
 dish: Black bean and sweet plantain fritters — mashed black beans and ripe plantain fried together in rounds, crisp outside and sweet within.
 quote: Stay hungry, stay bean.
-seasonalFortune: A destination will be approaching — the warmth you carry was always meant to reach the Beans behind you, not only what is ahead.
-dailyNeutral: Push toward the next thing — the momentum is real.
-dailyGood: The drive you carry is compressing what would otherwise take weeks.
-dailyBest: Go completely — the full force of what you are is the right amount for what is ahead.
-dailyBad: Slow down; not everything in the way is an obstacle.
-dailyWorst: Stop and look back — the cost of the speed is arriving, and it needs to be faced.
+seasonalFortune: The oil holds memory of what passes through it. Forward motion sweetens the ones left in the pan, though the fastest flame often burns what lingers.
+dailyMid: Plantain softens where pressure is applied; the crispness comes from the heat that follows.
+dailyHigh: A round from the fryer enters whole and emerges transformed — the outer shell cannot contain what the inside becomes.
+dailyMost: Caramel forms where sustained heat meets sweetness; the beans dissolve into something grander than their separate selves.
+dailyLow: The batter rests before frying — stillness shapes what motion will accomplish.
+dailyLeast: Some batches cool before serving, their sweetness deepening in the pause.
 ---
 
 Caramelised Black Beans are the Bean Zodiac's most driven — warmth and determination that moves outward, pulling others along without intention.
