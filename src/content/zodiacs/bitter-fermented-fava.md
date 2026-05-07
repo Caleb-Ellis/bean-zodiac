@@ -6,12 +6,12 @@ form: fermented
 trait: questioning
 dish: Fava bean soup with harissa yogurt and bitter orange.
 quote: The bean that gets questioned, gets answered.
-seasonalFortune: The fermented vessel holds what asked to be held. Some layers settle differently than others — the brine remembers which depths were drawn from.
-dailyMid: A seam runs through what seemed solid.
-dailyHigh: The unasked question ferments alone in the corner; it's the one worth tasting.
-dailyMost: Each answer is a skin — peel back and find what demanded the wrapping.
-dailyLow: The first answer settles like a lid — the soup below stays unsampled.
-dailyLeast: A skin forms over the broth and it passes for surface, and that is enough.
+seasonalFortune: The brine holds memory of every bean that resisted dissolving. Fermentation rewrites what the salt first announced — depth accumulates in silence, layer beneath layer, each one earned.
+dailyMid: The harissa bloom speaks sideways, layers unfolding beneath the surface.
+dailyHigh: Bitter orange finds the seam where assumption cracks. What was swallowed whole demands to be tasted again.
+dailyMost: The ferment worked at its own pace, asking nothing of the salt or the waiting. The vessel knew the answer lived in time.
+dailyLow: The soup arrives warm and ready. The beans have settled into themselves, content with their form.
+dailyLeast: The yogurt surface holds still. Some flavours need no further breaking.
 ---
 
 Cultured Fava Beans are the Bean Zodiac's most questioning — they pull at what others accept, knowing the best things require more than first answers.

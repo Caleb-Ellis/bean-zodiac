@@ -8,6 +8,19 @@ import {
   type ZodiacId,
 } from "./zodiac";
 import { getFortuneHistory } from "./fortuneHistory";
+import { type QualityId } from "./fortune";
+
+export function getAdjustedFortuneScore(
+  score: number,
+  qualityId: QualityId,
+): number {
+  if (score === 0) return 0;
+  if (qualityId === "heirloom") return score > 0 ? 2 : -1;
+  if (qualityId === "rotten") return score > 0 ? -2 : 1;
+  if (qualityId === "stale") return -score;
+  if (qualityId === "garden") return score > 0 ? 1 : 0;
+  return score;
+}
 
 export const SPIRIT_DIFF_THRESHOLD = 10;
 
@@ -45,18 +58,7 @@ export function computeSpiritBeanScores(
   for (const entry of history) {
     const s = entry.score ?? 0;
     if (s === 0) continue;
-    let adjustedS: number;
-    if (entry.qualityId === "heirloom") {
-      adjustedS = s > 0 ? 2 : -1;
-    } else if (entry.qualityId === "rotten") {
-      adjustedS = s > 0 ? -2 : 1;
-    } else if (entry.qualityId === "stale") {
-      adjustedS = -s;
-    } else if (entry.qualityId === "garden") {
-      adjustedS = s > 0 ? 1 : 0;
-    } else {
-      adjustedS = s;
-    }
+    const adjustedS = getAdjustedFortuneScore(s, entry.qualityId);
     const [f, frm, b] = entry.zodiacId.split("-") as [
       FlavourId,
       FormId,

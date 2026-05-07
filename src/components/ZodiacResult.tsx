@@ -39,7 +39,16 @@ export default function ZodiacResult({ data, showContent, showFortune, showQuote
     fetchZodiac(meta.zodiacId).then(setZodiac);
   }, [meta.zodiacId]);
 
-  if (claimedSlug === undefined) return null;
+  if (claimedSlug === undefined) {
+    return (
+      <div className="flex flex-col items-center gap-6 animate-pulse">
+        <div className="h-6 w-48 bg-zinc-800 rounded-full" />
+        <div className="h-14 w-72 bg-zinc-800 rounded-full" />
+        <div className="w-32 h-32 bg-zinc-800 rounded-full" />
+        <div className="h-4 w-56 bg-zinc-800 rounded-full" />
+      </div>
+    );
+  }
 
   if (claimedSlug) {
     return (
