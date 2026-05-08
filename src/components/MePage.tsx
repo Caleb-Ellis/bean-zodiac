@@ -4,9 +4,6 @@ import {
   type FlavourId,
   type FormId,
   type ZodiacId,
-  BEAN_ORDER,
-  FLAVOUR_ORDER,
-  FORM_ORDER,
   getPreparationName,
 } from "../lib/zodiac";
 
@@ -17,7 +14,11 @@ import {
   computeSpiritBeanScores,
   buildBeanstalkNodes,
   getSpiritDiff,
+  getSpiritZodiacId,
   getAlignmentText,
+  SPIRIT_FLAVOUR_RING,
+  SPIRIT_FORM_RING,
+  SPIRIT_BEAN_RING,
   type BeanstalkNode,
 } from "../lib/spiritBean";
 import Beanstalk from "./Beanstalk";
@@ -58,7 +59,7 @@ export default function MePage({ data }: Props) {
   useEffect(() => {
     setMounted(true);
     if (!scores) return;
-    const spiritZodiacId = `${FLAVOUR_ORDER[scores.flavourHighlight]}-${FORM_ORDER[scores.formHighlight]}-${BEAN_ORDER[scores.beanHighlight]}` as ZodiacId;
+    const spiritZodiacId = getSpiritZodiacId(scores);
     addMetBean(spiritZodiacId);
   }, []);
 
@@ -144,9 +145,9 @@ export default function MePage({ data }: Props) {
               </div>
             </div>
             {(() => {
-              const spiritFlavourId = FLAVOUR_ORDER[scores.flavourHighlight];
-              const spiritFormId = FORM_ORDER[scores.formHighlight];
-              const spiritBeanId = BEAN_ORDER[scores.beanHighlight];
+              const spiritFlavourId = SPIRIT_FLAVOUR_RING[scores.flavourHighlight];
+              const spiritFormId = SPIRIT_FORM_RING[scores.formHighlight];
+              const spiritBeanId = SPIRIT_BEAN_RING[scores.beanHighlight];
               const isDifferent =
                 spiritFlavourId !== flavourId ||
                 spiritFormId !== formId ||

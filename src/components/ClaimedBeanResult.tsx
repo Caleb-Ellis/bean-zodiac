@@ -13,7 +13,7 @@ import { getDailyFortuneIds, getFortuneText } from "../lib/fortune";
 import { fetchZodiac, type AllZodiacData } from "../lib/data";
 import {
   computeSpiritBeanScores,
-  getAdjustedFortuneScore,
+  getRingAdjustment,
   getSpiritZodiacId,
 } from "../lib/spiritBean";
 import {
@@ -155,16 +155,14 @@ export default function ClaimedBeanResult({
   };
 
   const buildScoredText = (trait: string, currentScore: number) => {
-    const Trait = trait.charAt(0).toUpperCase() + trait.slice(1);
     const a = /^[aeiou]/i.test(trait) ? "an" : "a";
     const pick = <T,>(arr: T[]) => arr[Math.floor(Math.random() * arr.length)];
-    const adj = getAdjustedFortuneScore(currentScore, qualityId);
+    const adj = getRingAdjustment(currentScore, qualityId).chosen;
     if (currentScore === 0) {
       return pick([
         `You don't seem to be ${a} ${trait} bean...`,
         `You don't exhibit ${trait} bean qualities...`,
         `The ${trait} bean doesn't quite fit you...`,
-        `${Trait} doesn't seem to be your nature...`,
         `You and the ${trait} bean are strangers...`,
       ]);
     }
@@ -173,21 +171,18 @@ export default function ClaimedBeanResult({
           `You seem to be quite ${a} ${trait} bean...`,
           `The ${trait} bean runs deep in you...`,
           `You carry strong ${trait} bean energy...`,
-          `${Trait} defines you more than most...`,
           `You are unmistakably ${a} ${trait} bean...`,
         ])
       : adj === 1
         ? pick([
             `You may be a bit of ${a} ${trait} bean...`,
             `There's a hint of the ${trait} bean in you...`,
-            `A touch of ${trait} bean energy surrounds you...`,
             `You show signs of the ${trait} bean...`,
             `The ${trait} bean flickers within you...`,
           ])
         : pick([
             `You're not a very ${trait} bean...`,
             `The ${trait} bean eludes you today...`,
-            `${Trait} bean energy feels distant from you...`,
             `You resist the pull of the ${trait} bean...`,
             `The ${trait} bean finds little in common with you...`,
           ]);
@@ -212,7 +207,8 @@ export default function ClaimedBeanResult({
       updateFortuneScore(localDateStr, newScore);
       setScore(newScore);
       setScored(true);
-      if (fortuneZodiac) setScoredText(buildScoredText(fortuneZodiac.trait, newScore));
+      if (fortuneZodiac)
+        setScoredText(buildScoredText(fortuneZodiac.trait, newScore));
       markSeen();
       applyQuality();
     }, 350);
@@ -241,8 +237,8 @@ export default function ClaimedBeanResult({
     <>
       {dialogOpen &&
         createPortal(
-          <div className="fixed inset-0 z-50 flex items-center justify-center mb-24">
-            <div className="max-w-lg w-full mx-4 flex flex-col items-center gap-4">
+          <div className="fixed inset-0 z-50 p-4 flex items-center justify-center">
+            <div className="max-w-lg w-full flex flex-col items-center gap-4">
               <div
                 className="flex flex-col items-center gap-4"
                 style={{
@@ -257,7 +253,7 @@ export default function ClaimedBeanResult({
                   <span className="block text-md sm:text-xl mb-2 sm:mb-4">
                     The
                   </span>
-                  <span className="block text-3xl sm:text-6xl mb-3 sm:mb-7">
+                  <span className="block text-2xl sm:text-5xl mb-3 sm:mb-7">
                     <ZodiacName
                       flavourId={fortuneFlavourId}
                       formId={fortuneFormId}
@@ -271,7 +267,7 @@ export default function ClaimedBeanResult({
                   </span>
                 </h2>
                 <div
-                  className="mb-6 sm:mb-8 animate-fade-up"
+                  className="mb-8 sm:mb-12 animate-fade-up max-w-36 sm:max-w-none"
                   style={{ animationDelay: "100ms" }}
                 >
                   <Bean
@@ -279,111 +275,125 @@ export default function ClaimedBeanResult({
                     flavourId={fortuneFlavourId}
                     formId={fortuneFormId}
                     qualityId={showQuality ? qualityId : undefined}
+                    maxHeight="8rem"
                   />
                 </div>
               </div>
 
               <div
-                className="relative w-full rounded-2xl bg-zinc-900 border border-zinc-700 pt-4 p-6 flex flex-col items-center gap-4 shadow-2xl shadow-black/90 animate-fade-up"
+                className="relative w-full rounded-2xl p-[1.5px] overflow-hidden animate-fade-up shadow-2xl shadow-black/90"
                 style={{ animationDelay: "200ms" }}
               >
-                <p className="text-xs uppercase tracking-widest text-zinc-400">
-                  Give us this day our daily bean
-                </p>
-                <button
-                  onClick={handleClose}
-                  aria-label="Close"
-                  className="absolute top-3.5 right-3 text-zinc-600 hover:text-zinc-400 transition-colors cursor-pointer bg-transparent border-none text-base leading-none"
-                >
-                  ✕
-                </button>
-
-                {fortuneZodiac ? (
-                  <p className="text-zinc-300 text-sm sm:text-base text-center">
-                    {fortuneZodiac.dish}
+                <div
+                  className="absolute"
+                  style={{
+                    inset: "-200%",
+                    background: `conic-gradient(from 0deg, var(--flavour-${fortuneZodiac?.flavour.id}), var(--form-${fortuneZodiac?.form.id}), var(--bean-${fortuneZodiac?.bean.id}), var(--flavour-${fortuneZodiac?.flavour.id}))`,
+                    animation: "spin 10s linear infinite",
+                  }}
+                />
+                <div className="relative w-full rounded-[calc(1rem-1.5px)] bg-zinc-900 p-4 flex flex-col items-center gap-4">
+                  <p className="text-xs uppercase tracking-widest text-zinc-400">
+                    Give us this day our daily bean
                   </p>
-                ) : (
-                  <div className="h-4 w-48 bg-zinc-800 rounded-full animate-pulse" />
-                )}
-
-                {!revealed ? (
                   <button
-                    onClick={() => {
-                      setRevealing(true);
-                      setTimeout(() => setRevealed(true), 350);
-                    }}
-                    disabled={!fortuneZodiac || revealing}
-                    className="mt-2 px-4 py-2 rounded-full border border-indigo-500 text-sm text-zinc-300 hover:border-zinc-400 hover:text-zinc-100 transition-[colors,opacity] duration-350 cursor-pointer bg-transparent disabled:opacity-40 disabled:cursor-not-allowed"
-                    style={{ opacity: revealing ? 0 : 1 }}
+                    onClick={handleClose}
+                    aria-label="Close"
+                    className="absolute top-3.5 right-3 text-zinc-600 hover:text-zinc-400 transition-colors cursor-pointer bg-transparent border-none text-base leading-none"
                   >
-                    🫘 REVEAL 🫘
+                    ✕
                   </button>
-                ) : (
-                  <>
-                    {fortuneText ? (
-                      <p className="italic text-zinc-200 text-center sm:text-base animate-fade-up mb-2">
-                        "{fortuneText}"
-                      </p>
-                    ) : (
-                      <div className="h-5 w-56 bg-zinc-800 rounded-full animate-pulse" />
-                    )}
 
-                    {!scored ? (
-                      <div
-                        className="flex flex-wrap justify-center gap-2 text-sm animate-fade-up transition-opacity duration-350"
-                        style={{
-                          opacity: scoringOut ? 0 : 1,
-                          pointerEvents: scoringOut ? "none" : "auto",
-                        }}
-                      >
-                        <button
-                          onClick={() => handleScore(1)}
-                          className="flex items-center gap-2 px-3 py-1 rounded-full border border-slate-700 text-slate-500 hover:border-green-700 hover:text-green-300 transition-colors cursor-pointer bg-transparent"
+                  {fortuneZodiac ? (
+                    <p className="text-zinc-300 text-sm sm:text-base text-center">
+                      {fortuneZodiac.dish}
+                    </p>
+                  ) : (
+                    <div className="h-4 w-48 bg-zinc-800 rounded-full animate-pulse" />
+                  )}
+
+                  {!revealed ? (
+                    <button
+                      onClick={() => {
+                        setRevealing(true);
+                        setTimeout(() => setRevealed(true), 350);
+                      }}
+                      disabled={!fortuneZodiac || revealing}
+                      className="mt-2 px-4 py-2 rounded-full border border-white text-sm text-zinc-300 hover:text-zinc-100 transition-[colors,opacity] duration-350 cursor-pointer bg-transparent disabled:opacity-40 disabled:cursor-not-allowed font-semibold tracking-widest animate-pulse-gentle"
+                      style={{ opacity: revealing ? 0 : 1 }}
+                    >
+                      RECEIVE THE BEAN'S WISDOM
+                    </button>
+                  ) : (
+                    <>
+                      {fortuneText ? (
+                        <p className="italic text-zinc-200 text-center sm:text-base animate-fade-up mb-2">
+                          "{fortuneText}"
+                        </p>
+                      ) : (
+                        <div className="h-5 w-56 bg-zinc-800 rounded-full animate-pulse" />
+                      )}
+
+                      {!scored ? (
+                        <div
+                          className="flex flex-wrap justify-center gap-3 text-sm animate-fade-up transition-opacity duration-350"
+                          style={{
+                            opacity: scoringOut ? 0 : 1,
+                            pointerEvents: scoringOut ? "none" : "auto",
+                          }}
                         >
-                          <span>🌱</span>
-                          <span>Accept</span>
-                        </button>
-                        <button
-                          onClick={() => handleScore(-1)}
-                          className="flex items-center gap-2 px-3 py-1 rounded-full border border-zinc-700 text-zinc-500 hover:border-amber-700 hover:text-amber-300 transition-colors cursor-pointer bg-transparent"
-                        >
-                          <span>🍂</span>
-                          <span>Resist</span>
-                        </button>
-                        <button
-                          onClick={handleIgnore}
-                          className="flex items-center gap-2 px-3 py-1 rounded-full border border-zinc-700 text-zinc-500 hover:border-blue-600 hover:text-blue-400 transition-colors cursor-pointer bg-transparent"
-                        >
-                          <span>💤</span>
-                          <span>Ignore</span>
-                        </button>
-                      </div>
-                    ) : (
-                      <div className="flex flex-col items-center gap-4 animate-fade-up">
-                        {scoredText && (
-                          <p className="text-xs text-zinc-500 italic text-center mb-2">
-                            {scoredText}
-                          </p>
-                        )}
-                        <div className="flex items-center gap-6">
-                          <a
-                            href="/beanstalk"
-                            className="text-sm text-zinc-400 hover:text-zinc-200 underline transition-colors"
-                          >
-                            The Beanstalk grows →
-                          </a>
                           <button
-                            onClick={handleClose}
-                            aria-label="Close"
-                            className="flex align-center text-zinc-500 hover:text-zinc-400 transition-colors cursor-pointer bg-transparent border-none text-sm leading-none"
+                            onClick={() => handleScore(1)}
+                            className="flex items-center gap-2 px-3 py-1 rounded-full border border-green-900 text-green-700 hover:border-green-700 hover:text-green-300 transition-colors cursor-pointer bg-transparent"
                           >
-                            Close ✕
+                            <span>🌱</span>
+                            <span>Accept</span>
+                          </button>
+                          <button
+                            onClick={() => handleScore(-1)}
+                            className="flex items-center gap-2 px-3 py-1 rounded-full border border-amber-900 text-amber-700 hover:border-amber-700 hover:text-amber-300 transition-colors cursor-pointer bg-transparent"
+                          >
+                            <span>🍂</span>
+                            <span>Resist</span>
+                          </button>
+                          <button
+                            onClick={handleIgnore}
+                            className="flex items-center gap-2 px-3 py-1 rounded-full border border-blue-700 text-blue-500 hover:border-blue-500 hover:text-blue-300 transition-colors cursor-pointer bg-transparent"
+                          >
+                            <span>💤</span>
+                            <span>Ignore</span>
                           </button>
                         </div>
-                      </div>
-                    )}
-                  </>
-                )}
+                      ) : (
+                        <div
+                          key={scoredText}
+                          className="flex flex-col items-center gap-4 animate-fade-up"
+                        >
+                          {scoredText && (
+                            <p className="text-sm text-zinc-400 italic text-center mb-2">
+                              {scoredText}
+                            </p>
+                          )}
+                          <div className="flex items-center gap-6">
+                            <a
+                              href="/beanstalk"
+                              className="text-sm text-zinc-400 hover:text-zinc-200 underline transition-colors"
+                            >
+                              The Beanstalk grows →
+                            </a>
+                            <button
+                              onClick={handleClose}
+                              aria-label="Close"
+                              className="flex align-center text-zinc-500 hover:text-zinc-400 transition-colors cursor-pointer bg-transparent border-none text-sm leading-none"
+                            >
+                              Close ✕
+                            </button>
+                          </div>
+                        </div>
+                      )}
+                    </>
+                  )}
+                </div>
               </div>
             </div>
           </div>,
@@ -391,6 +401,79 @@ export default function ClaimedBeanResult({
         )}
 
       <div className="flex flex-col items-center text-center gap-6 animate-fade-up">
+        <section className="mb-8 sm:mb-12 max-w-2xl w-full flex flex-col items-center gap-4">
+          <div className="flex items-center gap-3 w-full">
+            <div className="flex-1 border-t border-zinc-600" />
+            <span className="text-zinc-500 text-xs">✦</span>
+            <div className="flex-1 border-t border-zinc-600" />
+          </div>
+          <p className="text-xs uppercase tracking-widest text-zinc-200 mb-2">
+            You have received the Bean's Wisdom
+          </p>
+          <div className="flex flex-col gap-6 w-full">
+            <div className="flex items-center gap-4 sm:gap-6 w-full">
+              <a
+                href={`/zodiacs/${fortuneZodiacId}`}
+                className="shrink-0 block no-underline"
+                style={{ width: "6rem" }}
+              >
+                <Bean
+                  bean={fortuneBean}
+                  flavourId={fortuneFlavourId}
+                  formId={fortuneFormId}
+                  qualityId={qualityId}
+                />
+              </a>
+              <div className="relative flex flex-col items-start gap-2 min-w-0 overflow-hidden">
+                <p className="text-sm sm:text-base font-bold uppercase tracking-widest text-zinc-200 text-left mb-2">
+                  <ZodiacName
+                    flavourId={fortuneFlavourId}
+                    formId={fortuneFormId}
+                    beanId={fortuneBeanId}
+                    preparation={fortunePreparation}
+                    beanName={fortuneBean.name}
+                    zodiacId={fortuneZodiacId}
+                    qualityId={qualityId}
+                  />
+                </p>
+                {fortuneText ? (
+                  <p className="italic text-zinc-200 sm:text-lg text-left mb-1 sm:mb-2">
+                    "{fortuneText}"
+                  </p>
+                ) : (
+                  <div className="h-5 w-56 bg-zinc-800 rounded-full animate-pulse mb-1 sm:mb-2" />
+                )}
+                {!dialogOpen && (
+                  <span
+                    className={`inline-flex items-center gap-1.5 px-3 py-1 rounded-full border text-sm ${
+                      score === 1
+                        ? "border-green-800 text-green-200"
+                        : score === -1
+                          ? "border-amber-800 text-amber-200"
+                          : "border-blue-700 text-blue-500"
+                    }`}
+                  >
+                    <span>
+                      {score === 1 ? "🌱" : score === -1 ? "🍂" : "💤"}
+                    </span>
+                    <span>
+                      {score === 1
+                        ? "Accepted"
+                        : score === -1
+                          ? "Resisted"
+                          : "Ignored"}
+                    </span>
+                  </span>
+                )}
+              </div>
+            </div>
+          </div>
+          <div className="flex items-center gap-3 w-full">
+            <div className="flex-1 border-t border-zinc-600" />
+            <span className="text-zinc-500 text-xs">✦</span>
+            <div className="flex-1 border-t border-zinc-600" />
+          </div>
+        </section>
         <section className="flex flex-col items-center gap-2">
           <h2 className="mb-2 flex flex-col items-center font-bold">
             <span className="block text-md sm:text-xl mb-2 sm:mb-4">

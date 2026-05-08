@@ -16,9 +16,10 @@ type Props = {
   flavourId?: FlavourId;
   formId?: FormId;
   qualityId?: QualityId;
+  maxHeight?: React.CSSProperties["maxHeight"];
 };
 
-export default function Bean({ bean, flavourId, formId, qualityId }: Props) {
+export default function Bean({ bean, flavourId, formId, qualityId, maxHeight }: Props) {
   const imageUrl = `/images/${bean.imageFile}`;
   return (
     <div
@@ -47,6 +48,7 @@ export default function Bean({ bean, flavourId, formId, qualityId }: Props) {
         <img
           src={imageUrl}
           alt={flavourId ? `${flavourId} ${bean.name}` : bean.name}
+          style={maxHeight != null ? { maxHeight } : undefined}
         />
       </div>
     </div>

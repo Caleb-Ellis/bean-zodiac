@@ -1,13 +1,15 @@
 import {
-  BEAN_ORDER,
   FLAVOUR_EMOJI,
-  FLAVOUR_ORDER,
   FORM_EMOJI,
-  FORM_ORDER,
   type BeanId,
   type FlavourId,
   type FormId,
 } from "../lib/zodiac";
+import {
+  SPIRIT_BEAN_RING,
+  SPIRIT_FLAVOUR_RING,
+  SPIRIT_FORM_RING,
+} from "../lib/spiritBean";
 import SpiritBeanRadar from "./SpiritBeanRadar";
 
 interface RadarData {
@@ -47,13 +49,13 @@ export function FlavourRadar({
   highlightIndex,
   showLinks,
 }: FlavourRadarProps) {
-  const labels = FLAVOUR_ORDER.map(
+  const labels = SPIRIT_FLAVOUR_RING.map(
     (id) =>
       `${FLAVOUR_EMOJI[id]} ${data.flavours[id]?.name ?? id}${id === claimedId ? " 👤" : ""}`,
   );
-  const labelColors = FLAVOUR_ORDER.map((id) => `var(--flavour-${id})`);
+  const labelColors = SPIRIT_FLAVOUR_RING.map((id) => `var(--flavour-${id})`);
   const labelHrefs = showLinks
-    ? FLAVOUR_ORDER.map((id) => `/flavours/${id}`)
+    ? SPIRIT_FLAVOUR_RING.map((id) => `/flavours/${id}`)
     : undefined;
   return (
     <SpiritBeanRadar
@@ -62,7 +64,7 @@ export function FlavourRadar({
       labelHrefs={labelHrefs}
       values={values}
       highlightIndex={highlightIndex}
-      colorVar={`var(--flavour-${FLAVOUR_ORDER[highlightIndex]})`}
+      colorVar={`var(--flavour-${SPIRIT_FLAVOUR_RING[highlightIndex]})`}
     />
   );
 }
@@ -74,13 +76,13 @@ export function FormRadar({
   highlightIndex,
   showLinks,
 }: FormRadarProps) {
-  const labels = FORM_ORDER.map(
+  const labels = SPIRIT_FORM_RING.map(
     (id) =>
       `${FORM_EMOJI[id]} ${data.forms[id]?.name ?? id}${id === claimedId ? " 👤" : ""}`,
   );
-  const labelColors = FORM_ORDER.map((id) => `var(--form-${id})`);
+  const labelColors = SPIRIT_FORM_RING.map((id) => `var(--form-${id})`);
   const labelHrefs = showLinks
-    ? FORM_ORDER.map((id) => `/forms/${id}`)
+    ? SPIRIT_FORM_RING.map((id) => `/forms/${id}`)
     : undefined;
   return (
     <SpiritBeanRadar
@@ -89,7 +91,7 @@ export function FormRadar({
       labelHrefs={labelHrefs}
       values={values}
       highlightIndex={highlightIndex}
-      colorVar={`var(--form-${FORM_ORDER[highlightIndex]})`}
+      colorVar={`var(--form-${SPIRIT_FORM_RING[highlightIndex]})`}
     />
   );
 }
@@ -101,13 +103,13 @@ export function BeanRadar({
   highlightIndex,
   showLinks,
 }: BeanRadarProps) {
-  const labels = BEAN_ORDER.map(
+  const labels = SPIRIT_BEAN_RING.map(
     (id) =>
       `${(data.beans[id]?.name ?? id).replace(/ Bean$/, "")}${id === claimedId ? " 👤" : ""}`,
   );
-  const labelColors = BEAN_ORDER.map((id) => `var(--bean-${id})`);
+  const labelColors = SPIRIT_BEAN_RING.map((id) => `var(--bean-${id})`);
   const labelHrefs = showLinks
-    ? BEAN_ORDER.map((id) => `/beans/${id}`)
+    ? SPIRIT_BEAN_RING.map((id) => `/beans/${id}`)
     : undefined;
   return (
     <SpiritBeanRadar
@@ -116,7 +118,7 @@ export function BeanRadar({
       labelHrefs={labelHrefs}
       values={values}
       highlightIndex={highlightIndex}
-      colorVar={`var(--bean-${BEAN_ORDER[highlightIndex]})`}
+      colorVar={`var(--bean-${SPIRIT_BEAN_RING[highlightIndex]})`}
     />
   );
 }

@@ -1,7 +1,4 @@
 import {
-  BEAN_ORDER,
-  FLAVOUR_ORDER,
-  FORM_ORDER,
   type BeanId,
   type FlavourId,
   type FormId,
@@ -10,16 +7,79 @@ import {
 import { getFortuneHistory } from "./fortuneHistory";
 import { type QualityId } from "./fortune";
 
-export function getAdjustedFortuneScore(
-  score: number,
+export const SPIRIT_FLAVOUR_RING: FlavourId[] = [
+  "bitter",
+  "sour",
+  "spicy",
+  "sweet",
+  "umami",
+];
+
+export const SPIRIT_FORM_RING: FormId[] = [
+  "boiled",
+  "dried",
+  "fermented",
+  "smoked",
+  "roasted",
+  "fried",
+];
+
+export const SPIRIT_BEAN_RING: BeanId[] = [
+  "green",
+  "fava",
+  "kidney",
+  "pinto",
+  "adzuki",
+  "chickpea",
+  "mung",
+  "butter",
+  "navy",
+  "cannellini",
+  "edamame",
+  "black",
+];
+
+interface RingAdjustment {
+  chosen: number;
+  neighbours: number;
+}
+
+const ACCEPTED_ADJ: Record<QualityId, RingAdjustment> = {
+  heirloom: { chosen: +6, neighbours: +2 },
+  market:   { chosen: +4, neighbours: +1 },
+  garden:   { chosen: +2, neighbours:  0 },
+  stale:    { chosen: -2, neighbours:  0 },
+  rotten:   { chosen: -3, neighbours: -1 },
+};
+
+const RESISTED_ADJ: Record<QualityId, RingAdjustment> = {
+  heirloom: { chosen: -4, neighbours: -1 },
+  market:   { chosen: -3, neighbours:  0 },
+  garden:   { chosen: -2, neighbours:  0 },
+  stale:    { chosen: +2, neighbours:  0 },
+  rotten:   { chosen: +3, neighbours: +1 },
+};
+
+export function getRingAdjustment(
+  rawScore: number,
   qualityId: QualityId,
-): number {
-  if (score === 0) return 0;
-  if (qualityId === "heirloom") return score > 0 ? 2 : -1;
-  if (qualityId === "rotten") return score > 0 ? -2 : 1;
-  if (qualityId === "stale") return -score;
-  if (qualityId === "garden") return score > 0 ? 1 : 0;
-  return score;
+): RingAdjustment {
+  return rawScore > 0 ? ACCEPTED_ADJ[qualityId] : RESISTED_ADJ[qualityId];
+}
+
+function applyRingAdjustment<T extends string>(
+  ring: readonly T[],
+  scores: Record<string, number>,
+  id: T,
+  adj: RingAdjustment,
+): void {
+  const i = ring.indexOf(id);
+  const n = ring.length;
+  scores[id] += adj.chosen;
+  if (adj.neighbours !== 0) {
+    scores[ring[(i - 1 + n) % n]] += adj.neighbours;
+    scores[ring[(i + 1) % n]] += adj.neighbours;
+  }
 }
 
 export const SPIRIT_DIFF_THRESHOLD = 10;
@@ -44,13 +104,15 @@ export function computeSpiritBeanScores(
     "-",
   ) as [FlavourId, FormId, BeanId];
 
-  const flavourScores = Object.fromEntries(FLAVOUR_ORDER.map((id) => [id, 4]));
-  const formScores = Object.fromEntries(FORM_ORDER.map((id) => [id, 4]));
-  const beanScores = Object.fromEntries(BEAN_ORDER.map((id) => [id, 4]));
+  const flavourScores = Object.fromEntries(
+    SPIRIT_FLAVOUR_RING.map((id) => [id, 10]),
+  );
+  const formScores = Object.fromEntries(SPIRIT_FORM_RING.map((id) => [id, 10]));
+  const beanScores = Object.fromEntries(SPIRIT_BEAN_RING.map((id) => [id, 10]));
 
-  flavourScores[claimedFlavourId] += 4;
-  formScores[claimedFormId] += 4;
-  beanScores[claimedBeanId] += 4;
+  flavourScores[claimedFlavourId] += 10;
+  formScores[claimedFormId] += 10;
+  beanScores[claimedBeanId] += 10;
 
   const history = cutoffDateStr
     ? getFortuneHistory().filter((e) => e.date <= cutoffDateStr)
@@ -58,26 +120,26 @@ export function computeSpiritBeanScores(
   for (const entry of history) {
     const s = entry.score ?? 0;
     if (s === 0) continue;
-    const adjustedS = getAdjustedFortuneScore(s, entry.qualityId);
     const [f, frm, b] = entry.zodiacId.split("-") as [
       FlavourId,
       FormId,
       BeanId,
     ];
-    flavourScores[f] = (flavourScores[f] ?? 5) + adjustedS;
-    formScores[frm] = (formScores[frm] ?? 5) + adjustedS;
-    beanScores[b] = (beanScores[b] ?? 5) + adjustedS;
+    const adj = getRingAdjustment(s, entry.qualityId);
+    applyRingAdjustment(SPIRIT_FLAVOUR_RING, flavourScores, f, adj);
+    applyRingAdjustment(SPIRIT_FORM_RING, formScores, frm, adj);
+    applyRingAdjustment(SPIRIT_BEAN_RING, beanScores, b, adj);
   }
 
-  const flavourValues = FLAVOUR_ORDER.map((id) =>
+  const flavourValues = SPIRIT_FLAVOUR_RING.map((id) =>
     Math.max(0, flavourScores[id]),
   );
-  const formValues = FORM_ORDER.map((id) => Math.max(0, formScores[id]));
-  const beanValues = BEAN_ORDER.map((id) => Math.max(0, beanScores[id]));
+  const formValues = SPIRIT_FORM_RING.map((id) => Math.max(0, formScores[id]));
+  const beanValues = SPIRIT_BEAN_RING.map((id) => Math.max(0, beanScores[id]));
 
-  const claimedFlavourIdx = FLAVOUR_ORDER.indexOf(claimedFlavourId);
-  const claimedFormIdx = FORM_ORDER.indexOf(claimedFormId);
-  const claimedBeanIdx = BEAN_ORDER.indexOf(claimedBeanId);
+  const claimedFlavourIdx = SPIRIT_FLAVOUR_RING.indexOf(claimedFlavourId);
+  const claimedFormIdx = SPIRIT_FORM_RING.indexOf(claimedFormId);
+  const claimedBeanIdx = SPIRIT_BEAN_RING.indexOf(claimedBeanId);
 
   const pickHighlight = (values: number[], claimedIdx: number) => {
     const max = Math.max(...values);
@@ -98,7 +160,7 @@ export function computeSpiritBeanScores(
 }
 
 export function getSpiritZodiacId(scores: SpiritBeanScores): ZodiacId {
-  return `${FLAVOUR_ORDER[scores.flavourHighlight]}-${FORM_ORDER[scores.formHighlight]}-${BEAN_ORDER[scores.beanHighlight]}`;
+  return `${SPIRIT_FLAVOUR_RING[scores.flavourHighlight]}-${SPIRIT_FORM_RING[scores.formHighlight]}-${SPIRIT_BEAN_RING[scores.beanHighlight]}` as ZodiacId;
 }
 
 export function getSpiritDiff(scores: SpiritBeanScores): number {
@@ -171,7 +233,7 @@ export function buildBeanstalkNodes(claimedSlug: ZodiacId): BeanstalkNode[] {
 
   const fortuneNodes: BeanstalkNode[] = history.map((entry) => {
     const scores = computeSpiritBeanScores(claimedSlug, entry.date);
-    const spiritZodiacId: ZodiacId = `${FLAVOUR_ORDER[scores.flavourHighlight]}-${FORM_ORDER[scores.formHighlight]}-${BEAN_ORDER[scores.beanHighlight]}`;
+    const spiritZodiacId = getSpiritZodiacId(scores);
     return {
       kind: "fortune",
       date: entry.date,

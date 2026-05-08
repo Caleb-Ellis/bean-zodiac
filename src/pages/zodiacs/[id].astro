@@ -39,8 +39,13 @@ const { Content: ZodiacContent } = await render(zodiac);
   title={`${preparation} ${bean.data.name}`}
   description={zodiac.data.quote}
 >
+  <div class="relative rounded-2xl p-[1.5px] overflow-hidden shadow-2xl shadow-black/90">
+    <div
+      class="absolute"
+      style={`inset: -200%; background: conic-gradient(from 0deg, var(--flavour-${flavourId}), var(--form-${formId}), var(--bean-${beanId}), var(--flavour-${flavourId})); animation: spin 15s linear infinite;`}
+    ></div>
   <article
-    class="rounded-2xl bg-zinc-900 border-2 border-zinc-800 overflow-hidden"
+    class="relative rounded-2xl bg-zinc-900 overflow-hidden"
   >
     <div class="flex flex-col md:flex-row">
       <div class="w-full md:w-80 shrink-0 aspect-square">
@@ -85,4 +90,5 @@ const { Content: ZodiacContent } = await render(zodiac);
       </div>
     </div>
   </article>
+  </div>
 </Layout>

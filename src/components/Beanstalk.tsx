@@ -1,7 +1,5 @@
 import { useEffect, useMemo, useRef, useState } from "react";
 import {
-  BEAN_ORDER,
-  FLAVOUR_ORDER,
   FORM_ORDER,
   getBeanYear,
   getPreparationName,
@@ -15,6 +13,10 @@ import { fetchZodiac, type AllZodiacData } from "../lib/data";
 import type { Zodiac } from "../lib/zodiac";
 import {
   computeSpiritBeanScores,
+  getSpiritZodiacId,
+  SPIRIT_BEAN_RING,
+  SPIRIT_FLAVOUR_RING,
+  SPIRIT_FORM_RING,
   type BeanstalkNode,
   type SpiritBeanScores,
 } from "../lib/spiritBean";
@@ -56,7 +58,7 @@ function closeEnough(a: number[], b: number[]): boolean {
 }
 
 function spiritZodiacIdFromDisplay(d: DisplayValues): ZodiacId {
-  return `${FLAVOUR_ORDER[d.flavourHighlight]}-${FORM_ORDER[d.formHighlight]}-${BEAN_ORDER[d.beanHighlight]}` as ZodiacId;
+  return `${SPIRIT_FLAVOUR_RING[d.flavourHighlight]}-${SPIRIT_FORM_RING[d.formHighlight]}-${SPIRIT_BEAN_RING[d.beanHighlight]}` as ZodiacId;
 }
 
 // ---------- helpers ----------
@@ -232,7 +234,9 @@ export default function Beanstalk({
   const [activeRadarTab, setActiveRadarTab] = useState<
     "flavour" | "form" | "bean"
   >("flavour");
-  const [radarExpanded, setRadarExpanded] = useState(true);
+  const [radarExpanded, setRadarExpanded] = useState(
+    () => localStorage.getItem("bean-zodiac-radar-expanded") !== "false",
+  );
 
   const initialDisplay = computeInitialDisplay();
   const [display, setDisplay] = useState<DisplayValues>(initialDisplay);
@@ -313,7 +317,7 @@ export default function Beanstalk({
     const tlTop = timelineRef.current.getBoundingClientRect().top;
     const elRect = lastEl.getBoundingClientRect();
     baseLineRef.current.style.height = `${elRect.top + elRect.height / 2 - tlTop}px`;
-  }, [fortuneNodesInYear]);
+  }, [fortuneNodesInYear, sectionZodiacs]);
 
   // scroll listener: track active node + fill bar
   useEffect(() => {
@@ -475,7 +479,16 @@ export default function Beanstalk({
                 </div>
               )}
             <button
-              onClick={() => setRadarExpanded((v) => !v)}
+              onClick={() =>
+                setRadarExpanded((v) => {
+                  const next = !v;
+                  localStorage.setItem(
+                    "bean-zodiac-radar-expanded",
+                    String(next),
+                  );
+                  return next;
+                })
+              }
               className="lg:hidden absolute bottom-0 left-1/2 -translate-x-1/2 translate-y-1/2 flex items-center gap-1 px-3 py-0.5 rounded-full bg-zinc-800 border border-zinc-400 text-zinc-400 text-xs cursor-pointer z-10"
             >
               {radarExpanded ? "Hide evolution ▲" : "See evolution ▼"}
@@ -760,7 +773,7 @@ export default function Beanstalk({
                                 </p>
 
                                 {node.score === 0 ? (
-                                  <span className="inline-flex items-center gap-1.5 px-2 py-0.5 rounded-full border border-zinc-700 text-zinc-500 text-xs">
+                                  <span className="inline-flex items-center gap-1.5 px-2 py-0.5 rounded-full border border-blue-700 text-blue-500 text-xs">
                                     <span>💤</span>
                                     <span>Ignored</span>
                                   </span>

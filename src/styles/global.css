@@ -530,6 +530,15 @@ input[type="date"]::-webkit-datetime-edit-year-field:focus {
   }
 }
 
+@keyframes pulse-gentle {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0.85; }
+}
+
+.animate-pulse-gentle {
+  animation: pulse-gentle 5s ease-in-out infinite;
+}
+
 @keyframes pulse-fog {
   0%, 100% { color: #a2ddff; }
   50% { color: oklch(76.902% 0.07657 234.134); }
