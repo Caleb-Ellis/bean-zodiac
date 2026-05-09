@@ -6,16 +6,16 @@ form: smoked
 trait: ghostly
 dish: Frijoles charros - pinto beans simmered with smoked bacon, chipotle, sweet tomato, and piloncillo.
 quote: I see bean people.
-seasonalFortune: Smoke rises from the pot with intention — the season asks what lingers in air after the heat has done its work, what flavour persists when the hand that seasoned it withdraws.
-dailyMid: The broth knows the hand that stirred it, though the hand has moved on.
-dailyHigh: Bacon fat clarifies the water; the unseen makes the invisible suddenly visible.
-dailyMost: The piloncillo dissolves into sweetness that moves through the beans like a story told in the dark — present because it is incomplete.
-dailyLow: The pot sits full and steaming; each bean holds its own taste without whisper or echo.
-dailyLeast: The flavours settle into their own shapes — the chipotle is chipotle, the tomato is tomato, the bean simply a bean.
+seasonalFortune: Smoke rises from the pot with intention — the season asks what lingers in the air after the heat has finished its work, what sweetness keeps its shape once the hand that seasoned it has slipped away.
+dailyMid: The hand that stirred the pot has drifted into smoke; the stirring continues without it.
+dailyHigh: Bacon fat colours the beans the way breath colours a window — what could not be seen leaves its shape behind anyway.
+dailyMost: The piloncillo dissolves into a sweetness that wanders the beans like a voice from the next room — heard most clearly because no one is speaking.
+dailyLow: The pot sits full and steaming; each bean is only itself, mute beneath the lid, keeping its own counsel.
+dailyLeast: The flavours settle heavy into their bodies — the chipotle is only chipotle, the tomato only tomato, and the smoke has forgotten every door it once knew.
 ---
 
-Barbecued Pinto Beans are the Bean Zodiac's most ghostly — the story is vivid, but the teller is somewhere just out of reach.
+Barbecued Pinto Beans are the Bean Zodiac's most ghostly — the story vivid in the air, the teller always one room further on.
 
-Pinto Beans carry their markings openly and season whatever they inhabit; Sweet Beans make those markings feel inviting; Smoked Beans give the whole display a quality of something seen through glass.
+Pinto Beans wear their markings openly and season whatever they inhabit; Sweet Beans make those markings feel like an invitation; Smoked Beans set the whole display behind glass, near enough to read and too far to touch.
 
-The Barbecued Pinto Bean's challenge is embodiment. Expression without presence is a performance with no one behind it. These Beans must let themselves be fully in the thing they are expressing.
+The Barbecued Pinto Bean's challenge is embodiment. Expression without presence is a performance with no one behind the curtain. These Beans must learn to stand fully inside the thing they are giving away.

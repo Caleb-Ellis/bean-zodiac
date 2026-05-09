@@ -1,8 +1,13 @@
 # build output
 dist/
 
-# generated types
-.astro/
+# generated content (derived from src/content/ via scripts/build-content.mjs)
+src/data/generated/
+public/api/
+
+# editor and tooling
+.claude/
+.vscode/
 
 # dependencies
 node_modules/

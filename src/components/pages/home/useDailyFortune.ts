@@ -1,0 +1,219 @@
+import { useEffect, useState } from "react";
+import {
+  type FlavourId,
+  type FormId,
+  type BeanId,
+  type Zodiac,
+  type ZodiacId,
+} from "../../../lib/zodiac";
+import { getDailyFortuneIds, getFortuneText } from "../../../lib/fortune";
+import { fetchZodiac } from "../../../lib/data";
+import {
+  computeSpiritBeanScores,
+  getRingAdjustment,
+  getSpiritZodiacId,
+} from "../../../lib/spiritBean";
+import { useStore } from "../../../store";
+
+function formatLocalDate(date: Date): string {
+  return `${date.getFullYear()}-${String(date.getMonth() + 1).padStart(2, "0")}-${String(date.getDate()).padStart(2, "0")}`;
+}
+
+function buildScoredText(
+  trait: string,
+  score: number,
+  qualityId: ReturnType<typeof getDailyFortuneIds>["qualityId"],
+): string {
+  const a = /^[aeiou]/i.test(trait) ? "an" : "a";
+  const pick = <T>(arr: T[]) => arr[Math.floor(Math.random() * arr.length)]!;
+  const adj = getRingAdjustment(score, qualityId).chosen;
+  if (score === 0) {
+    return pick([
+      `You don't seem to be ${a} ${trait} bean...`,
+      `You don't exhibit ${trait} bean qualities...`,
+      `The ${trait} bean doesn't quite fit you...`,
+      `You and the ${trait} bean are strangers...`,
+    ]);
+  }
+  if (adj >= 2) {
+    return pick([
+      `You seem to be quite ${a} ${trait} bean...`,
+      `The ${trait} bean runs deep in you...`,
+      `You carry strong ${trait} bean energy...`,
+      `You are unmistakably ${a} ${trait} bean...`,
+    ]);
+  }
+  if (adj === 1) {
+    return pick([
+      `You may be a bit of ${a} ${trait} bean...`,
+      `There's a hint of the ${trait} bean in you...`,
+      `You show signs of the ${trait} bean...`,
+      `The ${trait} bean flickers within you...`,
+    ]);
+  }
+  return pick([
+    `You're not a very ${trait} bean...`,
+    `The ${trait} bean eludes you today...`,
+    `You resist the pull of the ${trait} bean...`,
+    `The ${trait} bean finds little in common with you...`,
+  ]);
+}
+
+export interface DailyFortune {
+  fortuneZodiacId: ZodiacId;
+  fortuneFlavourId: FlavourId;
+  fortuneFormId: FormId;
+  fortuneBeanId: BeanId;
+  fortuneZodiac: Zodiac | null;
+  qualityId: ReturnType<typeof getDailyFortuneIds>["qualityId"];
+  fortuneText: string | null;
+  score: number;
+  scored: boolean;
+  scoredText: string | null;
+  dialogOpen: boolean;
+  revealed: boolean;
+  revealing: boolean;
+  scoringOut: boolean;
+  showQuality: boolean;
+  qualityFading: boolean;
+  handleReveal: () => void;
+  handleScore: (v: number) => void;
+  handleIgnore: () => void;
+  handleClose: () => void;
+}
+
+export function useDailyFortune(date: Date, claimedSlug: ZodiacId): DailyFortune {
+  const localDateStr = formatLocalDate(date);
+
+  const yesterday = new Date(date);
+  yesterday.setDate(yesterday.getDate() - 1);
+  const spiritScores = computeSpiritBeanScores(claimedSlug, formatLocalDate(yesterday));
+  const spiritSlug = getSpiritZodiacId(spiritScores);
+  const { zodiacId: fortuneZodiacId, qualityId } = getDailyFortuneIds(date, spiritSlug);
+  const [fortuneFlavourId, fortuneFormId, fortuneBeanId] = fortuneZodiacId.split("-") as [
+    FlavourId,
+    FormId,
+    BeanId,
+  ];
+
+  const initialEntry = useStore.getState().fortuneHistory.find((e) => e.date === localDateStr);
+  const initialScore = initialEntry?.score ?? 0;
+  const initiallyScored = initialScore !== 0;
+
+  const [fortuneZodiac, setFortuneZodiac] = useState<Zodiac | null>(null);
+  const [score, setScore] = useState(initialScore);
+  const [scored, setScored] = useState(initiallyScored);
+  const [dialogOpen, setDialogOpen] = useState(() => !initialEntry?.seenAt);
+  const [revealed, setRevealed] = useState(false);
+  const [revealing, setRevealing] = useState(false);
+  const [scoringOut, setScoringOut] = useState(false);
+  const [showQuality, setShowQuality] = useState(initiallyScored);
+  const [qualityFading, setQualityFading] = useState(false);
+  const [scoredText, setScoredText] = useState<string | null>(null);
+
+  useEffect(() => {
+    fetchZodiac(fortuneZodiacId).then((fortune) => {
+      setFortuneZodiac(fortune);
+      if (initiallyScored) {
+        setScoredText(buildScoredText(fortune.trait, initialScore, qualityId));
+      }
+      useStore.getState().addFortuneEntry({
+        date: localDateStr,
+        zodiacId: fortuneZodiacId,
+        qualityId,
+        text: getFortuneText(fortune, qualityId),
+        score: 0,
+      });
+    });
+  }, [fortuneZodiacId]);
+
+  useEffect(() => {
+    document.body.style.overflow = dialogOpen ? "hidden" : "";
+    const layoutContent = document.getElementById("layout-content");
+    if (layoutContent) {
+      layoutContent.style.visibility = dialogOpen ? "hidden" : "";
+    }
+    return () => {
+      document.body.style.overflow = "";
+      if (layoutContent) layoutContent.style.visibility = "";
+    };
+  }, [dialogOpen]);
+
+  const markSeen = () => {
+    useStore.getState().markFortuneSeen(localDateStr);
+  };
+
+  const applyQuality = () => {
+    if (qualityId === "garden") {
+      setShowQuality(true);
+      return;
+    }
+    setQualityFading(true);
+    setTimeout(() => {
+      setShowQuality(true);
+      setQualityFading(false);
+    }, 400);
+  };
+
+  const handleReveal = () => {
+    setRevealing(true);
+    setTimeout(() => setRevealed(true), 350);
+  };
+
+  const handleScore = (v: number) => {
+    setScoringOut(true);
+    setTimeout(() => {
+      const newScore = score === v ? 0 : v;
+      useStore.getState().updateFortuneScore(localDateStr, newScore);
+      setScore(newScore);
+      setScored(true);
+      if (fortuneZodiac) {
+        setScoredText(buildScoredText(fortuneZodiac.trait, newScore, qualityId));
+      }
+      markSeen();
+      applyQuality();
+    }, 350);
+  };
+
+  const handleIgnore = () => {
+    setScoringOut(true);
+    setTimeout(() => {
+      setScored(true);
+      if (fortuneZodiac) {
+        setScoredText(buildScoredText(fortuneZodiac.trait, 0, qualityId));
+      }
+      markSeen();
+      applyQuality();
+    }, 350);
+  };
+
+  const handleClose = () => {
+    if (revealed) markSeen();
+    setDialogOpen(false);
+  };
+
+  const fortuneText = fortuneZodiac ? getFortuneText(fortuneZodiac, qualityId) : null;
+
+  return {
+    fortuneZodiacId,
+    fortuneFlavourId,
+    fortuneFormId,
+    fortuneBeanId,
+    fortuneZodiac,
+    qualityId,
+    fortuneText,
+    score,
+    scored,
+    scoredText,
+    dialogOpen,
+    revealed,
+    revealing,
+    scoringOut,
+    showQuality,
+    qualityFading,
+    handleReveal,
+    handleScore,
+    handleIgnore,
+    handleClose,
+  };
+}

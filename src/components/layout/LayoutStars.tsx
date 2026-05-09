@@ -1,0 +1,110 @@
+import { useEffect, useRef } from "react";
+
+interface Star {
+  x: number;
+  y: number;
+  r: number;
+  alpha: number;
+  speed: number;
+  phase: number;
+}
+
+export function LayoutStars() {
+  const canvasRef = useRef<HTMLCanvasElement>(null);
+
+  useEffect(() => {
+    const canvas = canvasRef.current;
+    if (!canvas) return;
+    const ctx = canvas.getContext("2d")!;
+    const reduced = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+
+    let stars: Star[] = [];
+    let rafId: number | null = null;
+    let lastWidth = 0;
+
+    function resize() {
+      if (window.innerWidth === lastWidth) return;
+      lastWidth = window.innerWidth;
+      canvas!.width = window.innerWidth;
+      canvas!.height = Math.max(
+        window.innerHeight,
+        document.documentElement.clientHeight,
+        screen.height,
+      );
+      if (reduced) drawStatic();
+    }
+
+    function seed() {
+      stars = Array.from({ length: 180 }, () => ({
+        x: Math.random() * canvas!.width,
+        y: Math.random() * canvas!.height,
+        r: Math.random() * 1.2 + 0.3,
+        alpha: Math.random() * 0.25 + 0.1,
+        speed: Math.random() * 0.6 + 0.2,
+        phase: Math.random() * Math.PI * 2,
+      }));
+    }
+
+    function drawStatic() {
+      ctx.clearRect(0, 0, canvas!.width, canvas!.height);
+      for (const s of stars) {
+        ctx.beginPath();
+        ctx.arc(s.x, s.y, s.r, 0, Math.PI * 2);
+        ctx.fillStyle = `rgba(255,255,255,${s.alpha})`;
+        ctx.fill();
+      }
+    }
+
+    function draw(t: number) {
+      ctx.clearRect(0, 0, canvas!.width, canvas!.height);
+      for (const s of stars) {
+        const twinkle = s.alpha + Math.sin(t * s.speed + s.phase) * 0.06;
+        ctx.beginPath();
+        ctx.arc(s.x, s.y, s.r, 0, Math.PI * 2);
+        ctx.fillStyle = `rgba(255,255,255,${Math.max(0, twinkle)})`;
+        ctx.fill();
+      }
+      rafId = requestAnimationFrame(draw);
+    }
+
+    function start() {
+      if (rafId === null && !reduced) rafId = requestAnimationFrame(draw);
+    }
+
+    function stop() {
+      if (rafId !== null) {
+        cancelAnimationFrame(rafId);
+        rafId = null;
+      }
+    }
+
+    resize();
+    seed();
+    window.addEventListener("resize", resize);
+
+    if (reduced) {
+      drawStatic();
+    } else {
+      start();
+      document.addEventListener("visibilitychange", onVisibility);
+    }
+
+    function onVisibility() {
+      document.hidden ? stop() : start();
+    }
+
+    return () => {
+      stop();
+      window.removeEventListener("resize", resize);
+      document.removeEventListener("visibilitychange", onVisibility);
+    };
+  }, []);
+
+  return (
+    <canvas
+      ref={canvasRef}
+      aria-hidden="true"
+      className="fixed inset-0 pointer-events-none z-0 w-full h-full"
+    />
+  );
+}

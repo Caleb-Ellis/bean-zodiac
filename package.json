@@ -3,29 +3,36 @@
   "version": "0.0.1",
   "type": "module",
   "scripts": {
-    "dev": "astro dev",
-    "build": "astro build",
-    "preview": "astro preview",
-    "astro": "astro",
+    "dev": "node scripts/build-content.mjs && vite",
+    "build": "node scripts/build-content.mjs && tsc --noEmit && vite build",
+    "preview": "vite preview",
+    "content": "node scripts/build-content.mjs",
     "fmt": "oxfmt",
     "fmt:check": "oxfmt --check",
     "lint": "oxlint",
     "lint:fix": "oxlint --fix"
   },
   "dependencies": {
-    "@astrojs/react": "^5.0.2",
-    "astro": "^6.1.3",
+    "@tanstack/react-router": "^1.121.2",
     "react": "^19.2.4",
     "react-dom": "^19.2.4",
-    "react-markdown": "^10.1.0"
+    "react-markdown": "^10.1.0",
+    "zustand": "^5.0.5"
   },
   "devDependencies": {
     "@tailwindcss/vite": "^4.2.2",
+    "@tanstack/router-devtools": "^1.121.2",
+    "@tanstack/router-plugin": "^1.121.2",
+    "@types/node": "^25.6.2",
     "@types/react": "^19.2.14",
     "@types/react-dom": "^19.2.3",
+    "@vitejs/plugin-react": "^4.5.2",
+    "gray-matter": "^4.0.3",
     "oxfmt": "^0.43.0",
     "oxlint": "^1.58.0",
-    "tailwindcss": "^4.2.2"
+    "tailwindcss": "^4.2.2",
+    "typescript": "^6.0.3",
+    "vite": "^6.3.5"
   },
   "engines": {
     "node": ">=22.12.0"

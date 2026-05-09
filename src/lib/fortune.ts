@@ -5,23 +5,16 @@ import {
   BEAN_ZODIAC_REFERENCE_YEAR,
   FLAVOUR_ORDER,
   FORM_ORDER,
+  QualityIds,
   getZodiacMetadataForDate,
   type BeanId,
   type FlavourId,
   type FormId,
+  type QualityId,
   type Zodiac,
   type ZodiacId,
   type ZodiacMetadata,
 } from "./zodiac";
-
-const QualityIds = {
-  Rotten: "rotten",
-  Stale: "stale",
-  Garden: "garden",
-  Market: "market",
-  Heirloom: "heirloom",
-} as const;
-export type QualityId = (typeof QualityIds)[keyof typeof QualityIds];
 
 type DailyDimensions = {
   beanId: BeanId;
@@ -86,15 +79,11 @@ const getFortuneZodiacId = (
   const d = daysSinceOrigin(date);
 
   const personalIndex =
-    BEAN_ORDER.indexOf(personal.beanId) *
-      FLAVOUR_ORDER.length *
-      FORM_ORDER.length +
+    BEAN_ORDER.indexOf(personal.beanId) * FLAVOUR_ORDER.length * FORM_ORDER.length +
     FLAVOUR_ORDER.indexOf(personal.flavourId) * FORM_ORDER.length +
     FORM_ORDER.indexOf(personal.formId);
   const seasonalIndex =
-    BEAN_ORDER.indexOf(seasonal.beanId) *
-      FLAVOUR_ORDER.length *
-      FORM_ORDER.length +
+    BEAN_ORDER.indexOf(seasonal.beanId) * FLAVOUR_ORDER.length * FORM_ORDER.length +
     FLAVOUR_ORDER.indexOf(seasonal.flavourId) * FORM_ORDER.length +
     FORM_ORDER.indexOf(seasonal.formId);
 
@@ -103,10 +92,7 @@ const getFortuneZodiacId = (
   // Personal and seasonal participate ~14% and ~20% of the time respectively.
   // When inactive, a unique fallback is derived from their index so each bean
   // gets its own deterministic substitute rather than the shared daily bean.
-  const P =
-    h32(d, personalIndex) % 7 === 0
-      ? personal
-      : makeFallbackDimensions(personalIndex, d);
+  const P = h32(d, personalIndex) % 7 === 0 ? personal : makeFallbackDimensions(personalIndex, d);
   const S =
     h32(d, seasonalIndex ^ (personalIndex * 0xdeadbeef)) % 5 === 0
       ? seasonal
@@ -120,27 +106,7 @@ const getFortuneZodiacId = (
   return `${P.flavourId}-${S.formId}-${daily.beanId}`;
 };
 
-export const getQualityLabel = (
-  qualityId: QualityId,
-): { text: string; className: string } | undefined => {
-  switch (qualityId) {
-    case QualityIds.Heirloom:
-      return { text: "Vivid", className: "text-effect-gold" };
-    case QualityIds.Market:
-      return { text: "Bright", className: "text-effect-emerald" };
-    case QualityIds.Stale:
-      return { text: "Faded", className: "text-effect-fog" };
-    case QualityIds.Rotten:
-      return { text: "Dark", className: "text-effect-void" };
-    default:
-      return undefined;
-  }
-};
-
-export const getFortuneText = (
-  zodiac: Zodiac,
-  qualityId: QualityId,
-): string => {
+export const getFortuneText = (zodiac: Zodiac, qualityId: QualityId): string => {
   if (qualityId === QualityIds.Heirloom) return zodiac.dailyMost;
   if (qualityId === QualityIds.Market) return zodiac.dailyHigh;
   if (qualityId === QualityIds.Stale) return zodiac.dailyLow;
@@ -152,17 +118,9 @@ export const getDailyFortuneIds = (
   date: Date,
   personalSlug: ZodiacId,
 ): { zodiacId: ZodiacId; qualityId: QualityId } => {
-  const [flavourId, formId, beanId] = personalSlug.split("-") as [
-    FlavourId,
-    FormId,
-    BeanId,
-  ];
+  const [flavourId, formId, beanId] = personalSlug.split("-") as [FlavourId, FormId, BeanId];
   const seasonal = getZodiacMetadataForDate(date);
   const qualityId = getQualityForSlug(personalSlug, date);
-  const zodiacId = getFortuneZodiacId(
-    date,
-    { beanId, flavourId, formId },
-    seasonal,
-  );
+  const zodiacId = getFortuneZodiacId(date, { beanId, flavourId, formId }, seasonal);
   return { zodiacId, qualityId };
 };

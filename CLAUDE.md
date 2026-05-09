@@ -1,19 +1,35 @@
-# CLAUDE.md
+# Bean Zodiac
+
+A playful Chinese zodiac analog using beans. **12 beans × 5 flavours × 6 forms = 360-combination cycle.**
 
 ## Commands
 
 ```bash
-pnpm dev / build / preview
-pnpm fmt / fmt:check / lint / lint:fix
+pnpm dev          # build content + start Vite dev server
+pnpm build        # build content + type-check + Vite production build
+pnpm preview      # preview production build
+pnpm content      # build markdown → JSON (runs automatically before dev/build)
+pnpm fmt          # format
+pnpm fmt:check    # check formatting
+pnpm lint         # lint
+pnpm lint:fix     # lint + autofix
 ```
+
+## Stack
+
+- **Vite 6** + **React 19** SPA
+- **TanStack Router** v1 — file-based routing (`src/routes/`)
+- **Zustand** v5 — single `bean-zodiac` localStorage key with `persist` middleware
+- **Tailwind CSS 4** via `@tailwindcss/vite`
+- **gray-matter** — build-time markdown → JSON conversion (`scripts/build-content.mjs`)
 
 ## Architecture
 
-**Bean Zodiac** — Astro 6 static site, a playful Chinese zodiac analog using beans.
+### The Cycle
 
-- **12 beans × 5 flavours × 6 forms = 360-combination cycle**
-- New year switches **March 12** annually. Reference date: 12 March 1993.
-- Main entry point: `getZodiacMetadataForDate(date)` → `ZodiacMetadata` (zodiacId, beanId, flavourId, formId, startDate, endDate)
+New year switches **March 12** annually. Reference date: 12 March 1993.
+
+Main entry point: `getZodiacMetadataForDate(date)` → `ZodiacMetadata` (zodiacId, beanId, flavourId, formId, startDate, endDate)
 
 ### Preparations
 
@@ -27,7 +43,9 @@ A **Preparation** = Flavour × Form name (30 total). Lookup: `getPreparationName
 | sweet  | Candied | Crystallised | Funky     | Caramelised | Glazed      | Barbecued |
 | umami  | Dashi   | Aged         | Miso      | Tempura     | Rendered    | Hickory   |
 
-### Content Collections
+### Content
+
+Markdown lives in `src/content/`. The build script (`scripts/build-content.mjs`) converts it to JSON in `src/data/generated/` and copies zodiac files to `public/api/zodiacs/` so `fetchZodiac()` works unchanged at `/api/zodiacs/{slug}.json`.
 
 - **`beans/`** — 12 files (name, tagline, traits[], color, imageFile)
 - **`flavours/`** — 5 files (name, character, traits[], color)
@@ -41,86 +59,78 @@ A **Preparation** = Flavour × Form name (30 total). Lookup: `getPreparationName
 - `/compatibility` — date picker for a second bean; if a bean is claimed it's used as the first. Shareable via `?b=YYYY-MM-DD`.
 - `/legunomicon` — chronological history of daily fortune entries; shows resonance vote indicator per entry.
 - `/beaniary` — compendium grid of all 360 zodiacs; met beans show image + name, unmet show a black bean emoji.
-- `/me` — claimed bean's full zodiac page + Spirit Bean radar charts (see below).
-- `/beans/`, `/beans/[slug]`, `/flavours/`, `/flavours/[slug]`, `/forms/`, `/forms/[slug]`, `/zodiacs/[slug]`
+- `/beanstalk` — claimed bean's full zodiac page + Spirit Bean radar charts + timeline.
+- `/beans/`, `/beans/:id`, `/flavours/`, `/flavours/:id`, `/forms/`, `/forms/:id`, `/zodiacs/:id`
+- `/calendar` → redirects to `/wheel`. `/zodiacs` → redirects to `/`.
 
 ### Daily Fortunes
 
-Each zodiac has one `seasonalFortune` and three daily fortunes keyed to quality:
+Each zodiac has one `seasonalFortune` and five daily fortunes keyed to quality:
 
-- `dailyMid` - mild positive expression of the trait
+- `dailyMid` — mild positive expression of the trait
 - `dailyHigh` — stronger positive expression of the trait
 - `dailyMost` — best positive expression of the trait
-- `dailyLow` - mild negative expression of the trait
-- `dailyLeast` - medium negative expression of the trait (we don't want to be too negative)
+- `dailyLow` — mild negative expression of the trait
+- `dailyLeast` — medium negative expression of the trait
 
-The daily fortune that is selected is influenced by the user's claimed/spirit bean, the current season, and a random daily bean.
+The daily fortune selected is influenced by the user's claimed/spirit bean, the current season, and a random daily bean.
 
 ### Quality
 
-- **Garden** - Neutral, Very Common
-- **Market** - Good, Common
-- **Stale** - Bad, Uncommon
-- **Heirloom** - Best, Rare
-- **Rotten** - Worst, Very Rare
+- **Garden** — Neutral, Very Common
+- **Market** — Good, Common
+- **Stale** — Bad, Uncommon
+- **Heirloom** — Best, Rare
+- **Rotten** — Worst, Very Rare
 
 ### Compatibility
 
-Scores across bean, flavour, form, and special - total -3 to +4.
+Scores across bean, flavour, form, and special — total -3 to +4.
 
 - `getBeanCompatibility(a, b)` — 78 entries
 - `getFlavourCompatibility(a, b)` — 15 entries
 - `getFormCompatibility(a, b)` — 21 entries
-- `getSpecialCompatibilityDetail(a, b)` — cross-attribute bonus; checks bean×flavour, bean×form, flavour×form (both orderings) against `SPECIAL_COMPATIBILITY`; returns `{ entry, attrA, attrB }` or `null`
-- `getTotalCompatibility(metaA, metaB)` → `{ score, label, description }` from `TOTAL_COMPATIBILITY`
+- `getSpecialCompatibilityDetail(a, b)` — cross-attribute bonus; checks bean×flavour, bean×form, flavour×form (both orderings); returns `{ entry, attrA, attrB }` or `null`
+- `getTotalCompatibility(metaA, metaB)` → `{ score, label, description }`
 
-All lookups sort IDs alphabetically before joining as key. Special compatibility keys are the same format (e.g. `"adzuki-sweet"`, `"bitter-fermented"`).
+All lookups sort IDs alphabetically before joining as key (e.g. `"adzuki-sweet"`, `"bitter-fermented"`).
 
 ### Data Architecture
 
-Client props use `ZodiacSliceData` (beans + flavours + forms only) — not the full `ZodiacData`. Zodiac fortune content is fetched on demand via static JSON endpoints.
-
-- **`ZodiacSliceData`** — `Omit<ZodiacData, "zodiacs">`. Built with `buildZodiacSliceData(beans, flavours, forms)`. Passed as props to all three interactive pages (~15KB vs ~720KB for full data).
-- **`/api/zodiacs/[slug].json`** — 360 static JSON files, one per zodiac (~1.5KB each). Generated at build time from `src/pages/api/zodiacs/[slug].json.ts`.
-- **`fetchZodiac(zodiacId)`** — fetches a single zodiac JSON file. Used by components at runtime.
-- **`getDailyFortuneIds(date, personalSlug)`** — synchronous; returns `{ zodiacId, qualityId }` without needing the zodiacs dict. Pair with `getFortuneText(zodiac, qualityId)` after fetching. Stale and Rotten fortunes show negative text; resonance votes are inverted for Spirit Bean scoring.
+- **`AllZodiacData`** — `{ beans, flavours, forms }` imported from generated JSON at build time in `src/lib/data.ts`. Passed as `data` prop to all page components (~15KB).
+- **`/api/zodiacs/{slug}.json`** — 360 static JSON files served from `public/api/zodiacs/`. Fetched on demand via `fetchZodiac(zodiacId)`.
+- **`getDailyFortuneIds(date, personalSlug)`** — synchronous; returns `{ zodiacId, qualityId }`. Pair with `getFortuneText(zodiac, qualityId)` after fetching.
 
 **Per-page fetch strategy:**
 
-- `/` default view: fetches one zodiac (current season) on mount for fortune + dish.
-- `/` claimed view (`ClaimedBeanResult`): fetches seasonal zodiac + fortune zodiac in parallel on mount.
-- `/wheel` (`ZodiacWheelContainer`): pre-fetches the zodiac immediately when user clicks "Discover the Bean Within" — data is ready before the 3.7s spin ends.
+- `/` default: fetches seasonal zodiac on mount for fortune + dish.
+- `/` claimed (`ClaimedBeanResult`): fetches seasonal + fortune zodiac in parallel on mount.
+- `/wheel` (`ZodiacWheelContainer`): pre-fetches zodiac when user clicks "Discover the Bean Within" — data is ready before the 3.7s spin ends.
 - `/compatibility`: no zodiac fetches — only bean/flavour/form display data needed.
 
-### Claimed Bean & localStorage
+### State & localStorage
 
-The claimed bean slug is stored in localStorage under the key `bean-zodiac-claimed`. A `<script is:inline>` in `Layout.astro`'s `<head>` pre-reads it into `window.__claimedBean` before React hydrates, so components can initialise state synchronously (no post-mount flicker). Helpers in `src/lib/claimedBean.ts`: `getClaimedBeanSlug`, `setClaimedBeanSlug`, `clearClaimedBeanSlug`.
+All persistent state lives in a single Zustand store (`src/store/index.ts`) under the `bean-zodiac` localStorage key.
 
-**Fortune history** — daily fortune entries stored under `bean-zodiac-fortune-history` as `FortuneEntry[]` (date, zodiacId, qualityId, text, score), newest first. `score`: 0 = no vote, +1 = thumbs up, -1 = thumbs down. Helpers in `src/lib/fortuneHistory.ts`: `getFortuneHistory`, `addFortuneToHistory`, `updateFortuneScore`, `clearFortuneHistory`. `ClaimedBeanResult` shows "Accept" / "Resist" buttons below the daily fortune; vote is toggleable.
+- **claimedBean** (`ZodiacId | null`) — the user's claimed zodiac. Thin wrapper API in `src/lib/claimedBean.ts`: `getClaimedBeanSlug`, `setClaimedBeanSlug`, `clearClaimedBeanSlug`.
+- **fortuneHistory** (`FortuneEntry[]`) — daily fortune entries (date, zodiacId, qualityId, text, score), newest first. `score`: 0 = no vote, +1 = thumbs up, -1 = thumbs down. API in `src/lib/fortuneHistory.ts`.
+- **metBeans** (`ZodiacId[]`) — encountered zodiac IDs, newest first. API in `src/lib/metBeans.ts`. Backfills from fortune history on first `/beaniary` visit.
+- **fortuneSeenDate** (`string | null`) — `YYYY-MM-DD` of the last day the fortune dialog was dismissed. Drives whether the dialog auto-opens on `/`.
+- **radarExpanded** (`boolean`) — Beanstalk mobile radar-panel expansion preference.
 
-**Met beans** — set of encountered zodiac IDs stored under `bean-zodiac-met-beans` as `ZodiacId[]`, newest first. Helpers in `src/lib/metBeans.ts`: `getMetBeans`, `addMetBean`, `clearMetBeans`. Recorded in three places: `ClaimedBeanResult` (claimed bean + seasonal bean + daily fortune bean on mount), `ZodiacWheelContainer` (any discovered bean on spin). On first visit to `/beaniary`, backfills from fortune history if the key is absent. All three localStorage stores are wiped together when the user relinquishes their bean.
+`relinquish()` clears claimedBean, fortuneHistory, metBeans, and fortuneSeenDate at once.
 
-### Spirit Bean (`/beanstalk`)
+### Spirit Bean & Beanstalk (`/beanstalk`)
 
-Three SVG radar charts (flavour, form, bean) showing affinity scores. Rendered by `SpiritBeanRadar.tsx` (custom SVG, no library). Score computation in `spiritBean.ts`:
+**Spirit Bean** — three SVG radar charts (flavour, form, bean) showing affinity scores. Rendered by `SpiritBeanRadar.tsx`. Score computation in `spiritBean.ts`:
 
-- Baseline: all attributes start at 8.
-- Claimed bean's flavour/form/bean each get +4.
+- Baseline: all attributes start at 8. Claimed bean's flavour/form/bean each get +4.
 - Each accepted fortune adds +1 to that zodiac's flavour, form, and bean; thumbs-down subtracts 1.
 - Heirloom/rotten qualities apply 2× magnitude; stale/rotten negate the adjustment.
-- Charts auto-scale to max value (floor 16). Labels use per-attribute CSS color variables.
+- Charts auto-scale to max value (floor 16).
 
-### The Beanstalk (`/beanstalk`, below Spirit Bean)
-
-A scrollable vertical timeline showing how the Spirit Bean has shifted across seasons. Rendered by `Beanstalk.tsx`.
-
-- **Nodes**: all fortune history entries become nodes (scored or not). `score !== 0` → Accepted/Resisted pill; `score === 0` → grey Ignored pill.
-- **Year filter**: bean year badges above the timeline (e.g. "Sweet Butter Bean 2026"). Defaults to the current bean year on load; cannot be deselected, only switched.
-- **Left panel**: sticky, `h-svh`, shows the spirit zodiac name (via `ZodiacName`) and three stacked radar charts that animate (JS lerp via `requestAnimationFrame`) to the cumulative Spirit Bean scores at the active node.
-- **Right panel**: scrollable timeline with a vertical line (dark blue base, bright blue fill tracking scroll position). Fortune cards show the fortune zodiac name, badges, fortune text, and a scored/ignored pill. Season headers are included.
-- **Scroll tracking**: window scroll listener advances the active node when an element's top crosses 60% of the viewport; the fill bar height is updated directly via ref.
-- **Data**: `buildBeanstalkNodes(claimedSlug)` in `spiritBean.ts` builds the node list (all history, sorted ascending). `computeSpiritBeanScoresUpTo(claimedSlug, cutoffDateStr)` computes cumulative scores at a given date.
+**Beanstalk** — scrollable vertical timeline of fortune history. Left panel: sticky, `h-svh`, shows spirit zodiac + radar charts that lerp to cumulative scores at the active node. Right panel: scrollable timeline with a scroll-tracked fill bar. Year filter defaults to current bean year.
 
 ### Styling
 
-Tailwind CSS 4 via `@tailwindcss/vite`. Per-element CSS hex colors for theming. Component-scoped styles in `.astro` files.
+Tailwind CSS 4. Per-element CSS hex colors for theming. Form visual effects use SVG filter `<defs>` rendered once at root via `FormFilters.tsx`.

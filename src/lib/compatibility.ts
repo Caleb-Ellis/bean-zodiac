@@ -36,12 +36,7 @@ export const getSpecialCompatibilityDetail = (
   a: CompatSlice,
   b: CompatSlice,
 ): SpecialCompatDetail | null => {
-  const checks: [
-    string,
-    string,
-    "bean" | "flavour" | "form",
-    "bean" | "flavour" | "form",
-  ][] = [
+  const checks: [string, string, "bean" | "flavour" | "form", "bean" | "flavour" | "form"][] = [
     [a.beanId, b.flavourId, "bean", "flavour"],
     [b.beanId, a.flavourId, "flavour", "bean"],
     [a.beanId, b.formId, "bean", "form"],
