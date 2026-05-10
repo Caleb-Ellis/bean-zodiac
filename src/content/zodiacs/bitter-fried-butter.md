@@ -6,16 +6,16 @@ form: fried
 trait: deliberate
 dish: Schnitzel - crumbed butter beans with bitter salsa verde.
 quote: Well-behaved beans seldom make history.
-seasonalFortune: The oil remembers every moment it held flame. What passes through it unmarked will return later to demand attention. The season favors those who let nothing slip unbothered.
-dailyMid: The third sift catches what the first two missed.
-dailyHigh: The bean knows its own bitterness — the salsa need not apologize.
-dailyMost: Each ingredient has been tasted, tested, weighed — now the oil is ready.
-dailyLow: The oil goes in before the pan is ready — the crumb still cooks, just faster than intended.
-dailyLeast: The salsa verde skips the second taste. The schnitzel goes out.
+seasonalFortune: Oil brought slowly to temperature; a crust set in one unbroken minute. The season rewards the cook who waits for the surface to stop trembling before the bean goes in.
+dailyMid: Crumb sifted twice, then a third time for the grit the first two passed over.
+dailyHigh: Capers rinsed, parsley chopped against the grain, anchovy mashed to paste — the salsa assembled before the pan sees heat.
+dailyMost: Butter beans pressed dry between two cloths; the egg wash given a full minute to take; the crumb pressed in with the flat of a knife.
+dailyLow: Oil in the cold pan, bean laid down beside it. The crust comes up paler, eaten standing at the stove.
+dailyLeast: Salsa verde mixed once and called done. Lemon hits the schnitzel at the table instead.
 ---
 
-Scorched Butter Beans are the Bean Zodiac's most deliberate — they act only after making sure it's worth doing.
+Scorched Butter Beans move only after the ground beneath the move has been tested.
 
-Butter Bean cannot be hurried; Bitter Beans won't accept anything unearned; Fried Beans deliver at full heat with no appetite for revisiting.
+Butter Bean refuses haste; Bitter Beans take nothing on credit; Fried Beans commit at full heat and do not look back.
 
-The Scorched Butter Bean's challenge is not letting preparation become the thing. Deliberation without action is just rumination. They must notice when they're still sharpening an already-sharp axe.
+The danger for a Scorched Butter Bean is mistaking the sharpening for the cut. An axe honed past use is still an axe unswung — at some point the bean must meet the oil.

@@ -6,12 +6,12 @@ form: boiled
 trait: careful
 dish: Mung bean and bitter melon soup.
 quote: Measure twice, bean once.
-seasonalFortune: The broth thickens in stages; the bitterness mellows slowly in the suspension. What seems complete at first glance contains layers still dissolving beneath the surface, reshaping everything above them. To tend is not to hasten.
-dailyMid: A second simmering reveals what the first heat concealed — sediment settling in the edges, flavors clarifying in the stillness.
-dailyHigh: The bitter and the tame have reached an accord; what emerges carries both truths, neither overpowering, both essential to what arrives on the table.
-dailyMost: The seams and the shadows, the numbers that could break both ways — each one examined until its nature becomes plain, until nothing travels forward disguised as something else.
-dailyLow: The pot comes off the heat before the bitterness has settled — something rushes the meal forward before the broth is ready to say what it means.
-dailyLeast: A handful of beans tipped straight into the bowl, the melon unexamined, the heat turned high and trusted — the soup arrives fast, and the dish tells on itself.
+seasonalFortune: Salt the melon, weight it, rinse it, salt it again. The mung soak two nights — skipping the second leaves a chalk at the centre of every bean that no fire will cook out. The season's broth keeps the receipts.
+dailyMid: Grey scum rises in the first ten minutes. Skim it before it folds back in, or the soup carries that muddiness all the way to the bowl.
+dailyHigh: Beans counted into the palm. Salt by pinch, not by pour. Taste at the fifteenth minute, the thirtieth, the forty-fifth — three small corrections beat one large one at the end.
+dailyMost: Halve each melon, run the spoon down the ridge, lift the pith out in one curl before the seeds scatter; what the broth carries forward is only what was chosen to go in.
+dailyLow: Lid off on a whim. A fistful of melon tipped in unweighed, the seeds going with it — the broth turns sharp at the back of the throat, and the bowl empties faster than usual.
+dailyLeast: Beans straight from the bag. Melon halved with a thumb. Pot on the high flame and forgotten until the kitchen smells of it — eaten standing at the stove, the spoon still in the pan.
 ---
 
 Infused Mung Beans are the Bean Zodiac's most careful — they check before acting, understanding what it costs to get things wrong.

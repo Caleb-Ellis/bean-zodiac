@@ -33,7 +33,10 @@ export default function FortuneDialog({ data, fortune }: Props) {
   } = fortune;
 
   const fortuneBean = data.beans[fortuneBeanId];
-  const fortunePreparation = getPreparationName(fortuneFlavourId, fortuneFormId);
+  const fortunePreparation = getPreparationName(
+    fortuneFlavourId,
+    fortuneFormId,
+  );
 
   if (!fortuneBean) return null;
 
@@ -104,59 +107,68 @@ export default function FortuneDialog({ data, fortune }: Props) {
             </button>
 
             {fortuneZodiac ? (
-              <p className="text-zinc-300 text-sm sm:text-base text-center">{fortuneZodiac.dish}</p>
+              <p className="text-zinc-300 text-sm sm:text-base text-center">
+                {fortuneZodiac.dish}
+              </p>
             ) : (
               <div className="h-4 w-48 bg-zinc-800 rounded-full animate-pulse" />
             )}
 
             {!revealed ? (
-              <button
-                onClick={handleReveal}
-                disabled={!fortuneZodiac || revealing}
-                className="mt-2 px-4 py-2 rounded-full border border-white text-sm text-zinc-300 hover:text-zinc-100 transition-[colors,opacity] duration-350 cursor-pointer bg-transparent disabled:opacity-40 disabled:cursor-not-allowed font-semibold tracking-widest animate-pulse-gentle"
-                style={{ opacity: revealing ? 0 : 1 }}
+              <div
+                style={{
+                  opacity: revealing ? 0 : !fortuneZodiac ? 0.4 : 1,
+                  transition: "opacity 350ms",
+                }}
               >
-                RECEIVE THE BEAN'S WISDOM
-              </button>
+                <button
+                  onClick={handleReveal}
+                  disabled={!fortuneZodiac || revealing}
+                  className="mt-2 px-4 py-2 rounded-full border border-white text-sm text-zinc-300 hover:text-zinc-100 cursor-pointer bg-transparent disabled:cursor-not-allowed font-semibold tracking-widest animate-pulse-gentle"
+                >
+                  RECEIVE THE BEAN'S WISDOM
+                </button>
+              </div>
             ) : (
               <>
-                {fortuneText ? (
-                  <p className="italic text-zinc-200 text-center sm:text-base animate-fade-up mb-2">
-                    "{fortuneText}"
-                  </p>
-                ) : (
-                  <div className="h-5 w-56 bg-zinc-800 rounded-full animate-pulse" />
-                )}
-
                 {!scored ? (
                   <div
-                    className="flex flex-wrap justify-center gap-3 text-sm animate-fade-up transition-opacity duration-350"
+                    className="flex flex-col items-center gap-4 w-full transition-opacity duration-350"
                     style={{
                       opacity: scoringOut ? 0 : 1,
                       pointerEvents: scoringOut ? "none" : "auto",
                     }}
                   >
-                    <button
-                      onClick={() => handleScore(1)}
-                      className="flex items-center gap-2 px-3 py-1 rounded-full border border-green-900 text-green-700 hover:border-green-700 hover:text-green-300 transition-colors cursor-pointer bg-transparent"
-                    >
-                      <span>🌱</span>
-                      <span>Accept</span>
-                    </button>
-                    <button
-                      onClick={() => handleScore(-1)}
-                      className="flex items-center gap-2 px-3 py-1 rounded-full border border-amber-900 text-amber-700 hover:border-amber-700 hover:text-amber-300 transition-colors cursor-pointer bg-transparent"
-                    >
-                      <span>🍂</span>
-                      <span>Resist</span>
-                    </button>
-                    <button
-                      onClick={handleIgnore}
-                      className="flex items-center gap-2 px-3 py-1 rounded-full border border-blue-700 text-blue-500 hover:border-blue-500 hover:text-blue-300 transition-colors cursor-pointer bg-transparent"
-                    >
-                      <span>💤</span>
-                      <span>Ignore</span>
-                    </button>
+                    {fortuneText ? (
+                      <p className="italic text-zinc-200 text-center sm:text-base animate-fade-up mb-2">
+                        "{fortuneText}"
+                      </p>
+                    ) : (
+                      <div className="h-5 w-56 bg-zinc-800 rounded-full animate-pulse" />
+                    )}
+                    <div className="flex flex-wrap justify-center gap-3 text-sm animate-fade-up">
+                      <button
+                        onClick={() => handleScore(1)}
+                        className="flex items-center gap-2 px-3 py-1 rounded-full border border-green-900 text-green-700 hover:border-green-700 hover:text-green-300 transition-colors cursor-pointer bg-transparent"
+                      >
+                        <span>🌱</span>
+                        <span>Accept</span>
+                      </button>
+                      <button
+                        onClick={() => handleScore(-1)}
+                        className="flex items-center gap-2 px-3 py-1 rounded-full border border-amber-900 text-amber-700 hover:border-amber-700 hover:text-amber-300 transition-colors cursor-pointer bg-transparent"
+                      >
+                        <span>🍂</span>
+                        <span>Resist</span>
+                      </button>
+                      <button
+                        onClick={handleIgnore}
+                        className="flex items-center gap-2 px-3 py-1 rounded-full border border-blue-700 text-blue-500 hover:border-blue-500 hover:text-blue-300 transition-colors cursor-pointer bg-transparent"
+                      >
+                        <span>💤</span>
+                        <span>Ignore</span>
+                      </button>
+                    </div>
                   </div>
                 ) : (
                   <div
@@ -164,7 +176,9 @@ export default function FortuneDialog({ data, fortune }: Props) {
                     className="flex flex-col items-center gap-4 animate-fade-up"
                   >
                     {scoredText && (
-                      <p className="text-sm text-zinc-400 italic text-center mb-2">{scoredText}</p>
+                      <p className="italic text-zinc-200 text-center sm:text-base mb-2">
+                        "{scoredText}"
+                      </p>
                     )}
                     <div className="flex items-center gap-6">
                       <a

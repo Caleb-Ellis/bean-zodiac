@@ -6,16 +6,16 @@ form: dried
 trait: stark
 dish: Dried butter beans in sage broth with bitter radicchio.
 quote: Tell me, what is it you plan to do with your one wild and precious bean?
-seasonalFortune: Desiccation strips the lie from the bean. This season carves inward — what emerges is what the sage broth knows to be true, whether or not it tastes like comfort.
-dailyMid: The skeleton speaks plainer than the skin.
-dailyHigh: Sage thins the air around what must be seen.
-dailyMost: The broth learns to hold the bitter without translation.
-dailyLow: Sage broth finds a creamier note — the bean sits a little easier in it.
-dailyLeast: The butter shines through the drying — the broth turns round and generous, a little too at ease with itself.
+seasonalFortune: The beans go into the pot unsoaked; the radicchio is cut and salted without apology. What the broth gives up, it gives up slowly, and the sage does not soften what the drying has taken.
+dailyMid: Radicchio cut, salted, left to weep on the board.
+dailyHigh: The sage is bruised between the fingers before it meets the water — nothing is asked to bloom that has not first been pressed.
+dailyMost: Chalk at the bean's centre when the knife goes in; back into the pot, another hour, no shortcut found.
+dailyLow: A spoon of cream stirred in at the end; the radicchio's edge rounds, the sage rides easier.
+dailyLeast: The beans soaked overnight, the broth thickened with their starch, eaten from a wide bowl with bread torn by hand.
 ---
 
-Desiccated Butter Beans are the Bean Zodiac's most stark — all warmth stripped out, all ease removed, what remains is bare and genuine.
+Dried Butter Beans cured under bitterness keep nothing back as garnish. The fat is rendered off in the drying; the radicchio salts what remains; the sage holds the line.
 
-Butter Beans become extraordinary through warmth and time; Bitter Beans insist that ease must earn its place; Dried Beans take the warmth away entirely, leaving only what holds without it.
+Butter Beans cook into richness over long heat; Bitter Beans refuse to flatter the tongue; Dried Beans surrender their water and ask the broth to do the work. Together the dish stands on bone.
 
-The Desiccated Butter Bean's challenge is the return to softness. These Beans know how to endure. The harder question is whether they have forgotten that softness is also possible — and whether they allow it.
+The cook who hurries this pot tastes chalk and learns. The cook who waits is fed plainly, from a shallow bowl, with nothing on top.

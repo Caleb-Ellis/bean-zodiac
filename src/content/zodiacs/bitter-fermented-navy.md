@@ -6,16 +6,16 @@ form: fermented
 trait: bookish
 dish: Senate Bean Soup - with aged ham and bitter dandelion greens.
 quote: Outside of a bean, a book is a man's best friend. Inside of a bean, it is too dark to read.
-seasonalFortune: Broth grows rich from long fermentation; a shelf of references will be tasted by another's tongue before the season closes.
-dailyMid: The argument has weight in print somewhere — the bean knows this without having to say it.
-dailyHigh: Pages turn inward; the margin notes thicken where the real thinking happens.
-dailyMost: Deep into the dark brine of sources — each layer fermented with the last, each footnote a path deeper.
-dailyLow: The broth season invites a walk rather than another chapter — the body knows things the page does not.
-dailyLeast: Senate Bean Soup rewards a steady hand at the pot, the kind of knowledge that skips the index entirely.
+seasonalFortune: The crock sits behind the pantry door through three changes of weather; by the time the ham hock goes in, the brine remembers every week it waited.
+dailyMid: Dandelion stems set aside, leaves chopped fine; the older recipe card is the one consulted, the one with grease at the corner.
+dailyHigh: A second pot started before the first is tasted, ham bone cracked for the marrow, dog-eared page held open with a spoon.
+dailyMost: Down through the cellar jars — the 1962 crock under the 1958 crock, each lid pried, each brine sniffed, each labelled in pencil on the underside.
+dailyLow: The crock left covered; dandelion pulled fresh from the verge and wilted into butter, eaten standing.
+dailyLeast: Soup built from what is in the pot already — ham scraps, a handful of beans, salt by the palmful, no card pulled from the box.
 ---
 
-Cultured Navy Beans are the Bean Zodiac's most bookish — they build understanding from reading and carry it privately.
+Cultured Navy Beans are the Bean Zodiac's most bookish — they build understanding slowly, in the dark, and keep the ledger to themselves.
 
-Navy Bean is loyal to systems; Bitter Beans keep only systems that have genuinely earned their place; Fermented Beans do the whole thing in private.
+Navy Bean keeps to its system; Bitter Beans cull the system down to what has earned a place; Fermented Beans do the work behind a closed door, with weeks rather than hours.
 
-The Cultured Navy Bean's challenge is translation. The private library is substantial, but knowledge that remains untransmitted cannot do anything in the world. They must occasionally bring the book outside.
+The Cultured Navy Bean's task is to bring the jar to the table. A brine that no one tastes goes flat the same as a brine that was never made. The crock must, occasionally, be opened for company.

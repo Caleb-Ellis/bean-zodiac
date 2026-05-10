@@ -6,16 +6,16 @@ form: fermented
 trait: imaginative
 dish: Szechuan pickled green beans with bitter melon and sesame.
 quote: Imagination is more important than bean.
-seasonalFortune: The brine accepts what the raw pod resists. A vision passed between hands curdles differently than one kept whole, gathering salt and tang it could not have found alone.
-dailyMid: Fermenting keeps its own time; the interior shifts while the surface appears still.
-dailyHigh: The sesame cracks open. What seemed finished is just beginning to smell like something.
-dailyMost: The thread leads into the kitchen wall. The only way forward is through the strangeness it promises.
-dailyLow: The sesame stays whole. The dish arrives as expected — familiar, correct, already understood.
-dailyLeast: The brine sits at room temperature. What's already in the jar is what gets served.
+seasonalFortune: The brine takes what the raw pod refuses. Crushed sesame goes in before the lid; bitter melon, sliced thin enough to read through, settles against the green beans and waits to become something the jar has not seen before.
+dailyMid: Salt is rubbed into the melon until it weeps; the pods are packed tight; nothing visible happens for three days.
+dailyHigh: Toasted sesame, ground coarse, scattered over pods still cold from the crock — the dish leaves the kitchen tasting of a place the cook has not been.
+dailyMost: A spoonful of last week's brine into this week's jar. The pods darken. The melon goes translucent. What comes out is not the recipe.
+dailyLow: Green beans blanched, dressed with sesame oil and a clean pinch of salt. Eaten the same evening, against rice.
+dailyLeast: The jar opened at three days, bitter melon still crisp, the brine sharp and uncomplicated on the tongue.
 ---
 
-Cultured Green Beans are the Bean Zodiac's most imaginative — they see what isn't there yet and render it visible.
+Cultured Green Beans are the Bean Zodiac's most imaginative — they taste the jar a month before it is opened.
 
-Green Bean generates ideas fast; Bitter Beans discard the decorative ruthlessly; Fermented Beans convert raw energy into something richer and stranger.
+Green Bean runs ahead of the pot; Bitter Beans strip away the pleasant and the merely pretty; Fermented Beans give time a job to do, turning what was crisp into what is strange.
 
-The Cultured Green Bean's challenge is letting others in early. Imagination running entirely in private arrives with visions no one has been prepared for. They must share the draft, not only the finished thing.
+The Cultured Green Bean's difficulty is the long wait between the idea and the eating. The crock must be opened by other hands, and shared while the smell is still surprising — not held back until the cook alone knows what it has become.

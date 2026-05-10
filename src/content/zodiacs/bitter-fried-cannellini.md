@@ -6,16 +6,16 @@ form: fried
 trait: assertive
 dish: Cannellini fritto with bitter lemon and flat-leaf parsley.
 quote: Here I stand. I can bean no other.
-seasonalFortune: The skin crisps but the interior holds its shape — the lemon's edge cuts clean, and the parsley knows not to soften what has been made firm.
-dailyMid: The oil accepts the bean's form without argument; the assertion meets no resistance here.
-dailyHigh: Bitter pulls the plate into focus; when doubt lifts, the shape of the thing becomes undeniable.
-dailyMost: Heat has been applied and the boundary is sealed — the bean is itself, entire, and welcomes the gaze that falls upon it.
-dailyLow: The lemon thins to suggestion; the bite goes looking for an edge that hasn't arrived yet.
-dailyLeast: The oil waits longer than it should — the cannellini sits in the pan without committing to a crust, parsley drifting on top, uncalled.
+seasonalFortune: Cannellini hit hot oil skinside down and hold; lemon goes in last, in strips, peel and all, before the parsley.
+dailyMid: Salt the beans on the way into the pan, not after — the crust takes the seasoning with it.
+dailyHigh: Press each bean once against the iron and leave it. The blister arrives on its own schedule.
+dailyMost: Lemon peel hits the oil and spits; the parsley is thrown in off the heat, stems and all, and stays where it lands.
+dailyLow: The pan goes on cool, beans tumbling through warm oil, lemon halved into the bowl beneath — soft, slick, parsley raw on top.
+dailyLeast: A handful of cannellini drained from the tin, dressed at the counter with oil, lemon, torn parsley, eaten with a spoon.
 ---
 
-Scorched Cannellini Beans are the Bean Zodiac's most assertive — they know their position and state it clearly.
+Fried Cannellini sits skin-up in the pan and waits for the crust to set before it will be moved.
 
-Cannellini Bean is gracious but not vague; Bitter Beans strip situations down to what matters; Fried Beans deliver conviction at heat, decisively.
+The cannellini is the bean for plain speech; bitterness clears the palate of hedging; the fry pan asks for a single decision and rewards holding it.
 
-The Scorched Cannellini Bean's challenge is the room to disagree. They state things so cleanly others sometimes forget they're allowed to push back. Assertiveness is a quality, not a verdict.
+The work of this bean is leaving room around the plate. A clean statement crowds out the murmur it might have answered; the lemon was not asked to argue, only to cut.

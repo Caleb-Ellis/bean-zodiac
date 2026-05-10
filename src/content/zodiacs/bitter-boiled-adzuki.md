@@ -6,12 +6,12 @@ form: boiled
 trait: judicious
 dish: Adzuki bean soup with chrysanthemum greens and yuzu.
 quote: To bean, or not to bean, that is the question.
-seasonalFortune: The skin teaches before the flesh surrenders. Season's turn asks not for answers but for the threshold — that space where bitterness still speaks and sweetness hasn't yet arrived. A soup requires patience in the telling as much as in the simmering.
-dailyMid: The chrysanthemum opens only when its own time arrives; the yuzu does not ripen by insistence.
-dailyHigh: When the scales still shift, the weight of attention itself becomes the ballast.
-dailyMost: To steep without hurrying — to let each layer unfold and teach what it holds — is to gather what rushing could never measure.
-dailyLow: The chrysanthemum goes in before the broth is ready — tender, briefly bright, already spent.
-dailyLeast: Yuzu pressed while still green releases what it has — tart, unfinished, committed.
+seasonalFortune: A slow season. Invitations sit unanswered, verdicts hang half-formed, the small yes-or-nos other people are waiting on take their own time. There's a tension between deliberation and delay that won't fully resolve, only soften — the way a long simmer softens without ever quite finishing.
+dailyMid: Yuzu zested early and set aside; the broth simmers on without it until the adzuki have given what they came to give.
+dailyHigh: Chrysanthemum greens rinsed, stacked, ignored — the broth needs another quarter hour before it will know what to do with them.
+dailyMost: Adzuki tasted, broth tasted, broth tasted again; the chrysanthemum waits, the yuzu waits, and the bowl when it arrives carries every minute it was owed.
+dailyLow: Yuzu squeezed in at first boil; the adzuki are still firm, and the soup is brighter for the company of an unfinished broth.
+dailyLeast: Chrysanthemum torn straight from the stem into a barely-warm bowl, a thumbnail of yuzu after — supper before the adzuki have softened, and none the worse.
 ---
 
 Infused Adzuki Beans are the Bean Zodiac's most judicious — they carry the Adzuki Bean's deep instinct for celebration, but they do not spend it until the conditions have been met.

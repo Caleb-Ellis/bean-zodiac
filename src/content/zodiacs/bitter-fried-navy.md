@@ -6,16 +6,16 @@ form: fried
 trait: judgmental
 dish: Crispy navy beans with bitter chicory and anchovy.
 quote: Do not judge others before you have walked a mile in their beans.
-seasonalFortune: The anchovy sharpens everything it touches — not to wound, but to clarify. This season, the palate that named the flaw early will be trusted longest.
-dailyMid: The chicory does not soften at the edge of the pan. What is bitter stays bitter, and the judgment holds.
-dailyHigh: Crisp all the way through — no soft center, no second-guessing the heat.
-dailyMost: The verdict arrived before the plate cooled. Name it.
-dailyLow: The chicory sits in the oil a moment longer, neither searing nor settling — the verdict stays open.
-dailyLeast: The anchovy holds back, the pan stays warm, and the crisp shell waits for a call that keeps deferring.
+seasonalFortune: Anchovy goes into the hot oil before the chicory and renders down to a brown smear; what comes after is salted by it whether the cook intended so or not.
+dailyMid: Chicory ribs hit the pan and stay rigid. They blacken at the edge before they wilt; the bitterness sets, and the dish is built around it.
+dailyHigh: Navy beans split their skins in the fryer at the count the cook expected. Pulled a second later they would shatter; pulled a second sooner they would weep starch into the oil.
+dailyMost: One bean tasted from the spider. Salt, done, plated.
+dailyLow: The chicory goes in whole-leaf and tender, oil not yet smoking, beans turned twice instead of left to colour on one face.
+dailyLeast: Anchovy stirred into warm oil off the heat, navy beans tumbled through it barely crisped; the chicory wilts in the residual warmth and the plate is eaten with a spoon.
 ---
 
-Scorched Navy Beans are the Bean Zodiac's most judgmental — they evaluate quickly and hold firm.
+Bitter Fried Navy comes to the table already decided. The anchovy has cut the oil, the chicory has held its shape against the heat, and the beans have been pulled from the fryer at the exact moment their skins crack — not before, not after.
 
-Navy Bean knows what's right and holds standards without negotiation; Bitter Beans lack patience for what hasn't earned place; Fried Beans deliver assessment at heat and speed.
+Navy holds its line under pressure and will not be talked round. Bitter refuses the soft edge; what is sharp is left sharp. Fried works at the speed of hot fat, where there is no time to reconsider once the bean is in the pan.
 
-The Scorched Navy Bean's challenge is the cost of the verdict. A judgment too fast isn't precision—it's foreclosure. They must practice leaving the case open a little longer.
+The cost is the verdict that lands a beat too early. A bean pulled before its skin has split is still raw at the centre, however brown the outside. The cook who learns to leave the spider in the oil for one more breath finds the dish that judgement alone cannot reach.

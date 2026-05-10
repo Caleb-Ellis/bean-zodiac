@@ -34,7 +34,11 @@ export default function ClaimedHomeContent({
   fortune,
   onRelinquish,
 }: Props) {
-  const [flavourId, formId, beanId] = claimedSlug.split("-") as [FlavourId, FormId, BeanId];
+  const [flavourId, formId, beanId] = claimedSlug.split("-") as [
+    FlavourId,
+    FormId,
+    BeanId,
+  ];
 
   const bean = data.beans[beanId];
   const flavour = data.flavours[flavourId];
@@ -44,7 +48,10 @@ export default function ClaimedHomeContent({
   const seasonalBean = data.beans[seasonalMeta.beanId];
   const seasonalFlavour = data.flavours[seasonalMeta.flavourId];
   const seasonalForm = data.forms[seasonalMeta.formId];
-  const seasonalPreparation = getPreparationName(seasonalMeta.flavourId, seasonalMeta.formId);
+  const seasonalPreparation = getPreparationName(
+    seasonalMeta.flavourId,
+    seasonalMeta.formId,
+  );
   const daysLeft = Math.ceil(
     (seasonalMeta.endDate.getTime() - date.getTime()) / (1000 * 60 * 60 * 24),
   );
@@ -57,18 +64,28 @@ export default function ClaimedHomeContent({
   if (!bean || !flavour || !form) return null;
 
   const preparation = getPreparationName(flavourId, formId);
-  const {
-    fortuneZodiacId,
-    fortuneFlavourId,
-    fortuneFormId,
-    fortuneBeanId,
-    qualityId,
-    fortuneText,
-    score,
-    dialogOpen,
-  } = fortune;
-  const fortuneBean = data.beans[fortuneBeanId];
-  const fortunePreparation = getPreparationName(fortuneFlavourId, fortuneFormId);
+  const { dialogOpen } = fortune;
+
+  const localDateStr = `${date.getFullYear()}-${String(date.getMonth() + 1).padStart(2, "0")}-${String(date.getDate()).padStart(2, "0")}`;
+  const todayEntry = useStore((s) =>
+    s.fortuneHistory.find((e) => e.date === localDateStr),
+  );
+
+  const storedZodiacId = todayEntry?.zodiacId;
+  const storedSplit = storedZodiacId
+    ? (storedZodiacId.split("-") as [FlavourId, FormId, BeanId])
+    : null;
+  const fortuneFlavourId = storedSplit?.[0];
+  const fortuneFormId = storedSplit?.[1];
+  const fortuneBeanId = storedSplit?.[2];
+  const fortuneBean = fortuneBeanId ? data.beans[fortuneBeanId] : undefined;
+  const fortunePreparation =
+    fortuneFlavourId && fortuneFormId
+      ? getPreparationName(fortuneFlavourId, fortuneFormId)
+      : "";
+  const qualityId = todayEntry?.qualityId;
+  const fortuneText = todayEntry?.text ?? null;
+  const score = todayEntry?.score ?? 0;
 
   const handleRelinquish = () => {
     if (
@@ -83,56 +100,63 @@ export default function ClaimedHomeContent({
 
   return (
     <div className="flex flex-col items-center text-center gap-6 animate-fade-up">
-      {fortuneBean && (
-        <section className="mb-8 sm:mb-12 max-w-2xl w-full flex flex-col items-center gap-4">
-          <Divider />
-          <p className="text-xs uppercase tracking-widest text-zinc-200 mb-2">
-            You have received the Bean's Wisdom
-          </p>
-          <div className="flex flex-col gap-6 w-full">
-            <div className="flex items-center gap-4 sm:gap-6 w-full">
-              <a
-                href={`/zodiacs/${fortuneZodiacId}`}
-                className="shrink-0 block no-underline"
-                style={{ width: "6rem" }}
-              >
-                <Bean
-                  bean={fortuneBean}
-                  flavourId={fortuneFlavourId}
-                  formId={fortuneFormId}
-                  qualityId={qualityId}
-                />
-              </a>
-              <div className="relative flex flex-col items-start gap-2 min-w-0 overflow-hidden">
-                <p className="text-sm sm:text-base font-bold uppercase tracking-widest text-zinc-200 text-left mb-2">
-                  <ZodiacName
+      {fortuneBean &&
+        storedZodiacId &&
+        fortuneFlavourId &&
+        fortuneFormId &&
+        fortuneBeanId &&
+        qualityId && (
+          <section className="mb-8 sm:mb-12 max-w-2xl w-full flex flex-col items-center gap-4">
+            <Divider />
+            <p className="text-xs uppercase tracking-widest text-zinc-200 mb-2">
+              You have received the Bean's Wisdom
+            </p>
+            <div className="flex flex-col gap-6 w-full">
+              <div className="flex items-center gap-4 sm:gap-6 w-full">
+                <a
+                  href={`/zodiacs/${storedZodiacId}`}
+                  className="shrink-0 block no-underline"
+                  style={{ width: "6rem" }}
+                >
+                  <Bean
+                    bean={fortuneBean}
                     flavourId={fortuneFlavourId}
                     formId={fortuneFormId}
-                    beanId={fortuneBeanId}
-                    preparation={fortunePreparation}
-                    beanName={fortuneBean.name}
-                    zodiacId={fortuneZodiacId}
                     qualityId={qualityId}
                   />
-                </p>
-                {fortuneText ? (
-                  <p className="italic text-zinc-200 sm:text-lg text-left mb-1 sm:mb-2">
-                    "{fortuneText}"
+                </a>
+                <div className="relative flex flex-col items-start gap-2 min-w-0 overflow-hidden">
+                  <p className="text-sm sm:text-base font-bold uppercase tracking-widest text-zinc-200 text-left mb-2">
+                    <ZodiacName
+                      flavourId={fortuneFlavourId}
+                      formId={fortuneFormId}
+                      beanId={fortuneBeanId}
+                      preparation={fortunePreparation}
+                      beanName={fortuneBean.name}
+                      zodiacId={storedZodiacId}
+                      qualityId={qualityId}
+                    />
                   </p>
-                ) : (
-                  <div className="h-5 w-56 bg-zinc-800 rounded-full animate-pulse mb-1 sm:mb-2" />
-                )}
-                {!dialogOpen && <FortuneScoreBadge score={score} size="md" />}
+                  {fortuneText ? (
+                    <p className="italic text-zinc-200 sm:text-lg text-left mb-1 sm:mb-2">
+                      "{fortuneText}"
+                    </p>
+                  ) : (
+                    <div className="h-5 w-56 bg-zinc-800 rounded-full animate-pulse mb-1 sm:mb-2" />
+                  )}
+                  {!dialogOpen && <FortuneScoreBadge score={score} size="md" />}
+                </div>
               </div>
             </div>
-          </div>
-          <Divider />
-        </section>
-      )}
+            <Divider />
+          </section>
+        )}
 
       <section className="flex flex-col items-center gap-2">
         <h2 className="mb-2 flex flex-col items-center font-bold">
-          <span className="block text-md sm:text-xl mb-2 sm:mb-4">You are the</span>
+          <span className="block text-md sm:text-xl mb-2 sm:mb-4">
+            You are the
+          </span>
           <span className="block text-4xl sm:text-7xl mb-3 sm:mb-7">
             <ZodiacName
               flavourId={flavourId}
@@ -144,7 +168,11 @@ export default function ClaimedHomeContent({
           </span>
         </h2>
         <div className="mb-6 sm:mb-8">
-          <Bean bean={bean} flavourId={flavour.slug as FlavourId} formId={form.slug as FormId} />
+          <Bean
+            bean={bean}
+            flavourId={flavour.slug as FlavourId}
+            formId={form.slug as FormId}
+          />
         </div>
         <div className="flex flex-row flex-wrap justify-center items-center gap-2 text-sm text-zinc-400 mb-4 sm:mb-6">
           <a
@@ -170,7 +198,7 @@ export default function ClaimedHomeContent({
           <Divider />
           <p className="text-xs uppercase tracking-widest text-zinc-200">
             {seasonalZodiac ? (
-              `We are in the ${seasonalZodiac.trait} Season of the`
+              `We are in the ${seasonalZodiac.trait} season of the`
             ) : (
               <span className="inline-block h-4 w-48 bg-zinc-800 rounded-full animate-pulse" />
             )}

@@ -6,16 +6,16 @@ form: dried
 trait: honed
 dish: Appalachian Leather Britches - with bitter herbs and salt pork.
 quote: Give me six hours to chop down a tree and I will spend the first four sharpening the bean.
-seasonalFortune: The brittle pod knows which fiber will snap first. What wears thin may reveal the sinew beneath — what remains after the salt has done its work is what cuts.
-dailyMid: Edges find their angle in half-light, where pressure meets the grain.
-dailyHigh: Something breaks the wrong way and teaches the hand how it was meant to move.
-dailyMost: The blade passes through the matter with the certainty of something that has already worn itself smooth; no hesitation, all consequence.
-dailyLow: The leather britches simmer untended, the herbs scattered without intention.
-dailyLeast: A blade left in the drawer — sharpness preserved for its own sake, waiting for a task that keeps drifting.
+seasonalFortune: Pods threaded on string above the stove all winter, the green long gone leathery; what comes down in February is split with a thumbnail along the seam the bean already chose.
+dailyMid: A paring knife drawn twice across the steel before the salt pork meets the board.
+dailyHigh: The britches go in last, after the pork has rendered and the bitter herbs have given up their oil — nothing earlier would have held its shape.
+dailyMost: Four hours soaking, one hour simmering, and the pod splits clean where the string passed through; no fiber wasted, no fiber left.
+dailyLow: Dried pods tipped straight from the jar into cold water with the pork, herbs, and a handful of salt — one pot, one hour, eaten from the ladle.
+dailyLeast: The string of britches stays hung above the stove another month, admired in passing, waiting for a supper that warrants them.
 ---
 
-Desiccated Green Beans are the Bean Zodiac's most honed — all the urgency, none of the waste; all the speed, only toward what deserves it.
+The Desiccated Green Bean comes down off the string in late winter, when fresh greens are a rumour and the larder has been narrowing for months.
 
-Green Beans arrive fast and ready; Bitter Beans insist that arrival earn its place; Dried Beans strip away the restlessness, leaving only the edge.
+Green Beans are quick, eager, willing to be eaten the day they are picked; the bitter herbs ask that quickness account for itself; drying concentrates what is left until every pod earns its place in the pot.
 
-The Desiccated Green Bean's challenge is the spark without tinder. Precision pointed at nothing is still wasted. These Beans must find something worthy of the sharpness they have cultivated.
+The work of the Desiccated Green Bean is knowing which night the britches come down. Hung too long, they outlast the appetite for them; cut down for any weeknight supper, they spend themselves on a meal that would have made do with cabbage.

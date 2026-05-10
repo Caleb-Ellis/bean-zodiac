@@ -1,4 +1,4 @@
-import { createRootRoute, Outlet, useLocation } from "@tanstack/react-router";
+import { createRootRoute, Outlet } from "@tanstack/react-router";
 import { TanStackRouterDevtools } from "@tanstack/router-devtools";
 import { BottomTabBar } from "../components/layout/BottomTabBar";
 import { Footer } from "../components/layout/Footer";

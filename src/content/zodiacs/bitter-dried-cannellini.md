@@ -6,16 +6,16 @@ form: dried
 trait: ascetic
 dish: Acquacotta - cannellini and bitter greens.
 quote: Simplicity is the ultimate bean.
-seasonalFortune: The broth grows clearer as the greens settle. What was scattered returns in layers — first as sediment, then as nourishment. The question is not whether the pot deserves what enters, but whether what remains inside knows how to hold it.
-dailyMid: The edge between what was and what persists appears at the waterline.
-dailyHigh: The bitter leaf gives up its roughness only to the patient broth. In giving, it becomes the structure the lesser flavours cling to.
-dailyMost: The kernel of essence — what remains after every other claim has been dismissed — holds steadier than anything whole ever could.
-dailyLow: The broth thickens where restraint once kept it clear. The acquacotta holds an extra handful tonight.
-dailyLeast: Every flavour that was ever set aside finds its way back to the bowl. The spare broth becomes a stew.
+seasonalFortune: Cannellini soak in nothing but water, overnight, no aromatics added. The bitter greens go in late, stalks first, leaves held back until the broth has thinned to almost-nothing. What sits in the bowl at the end is bean, leaf, water — and the long quiet hours between them.
+dailyMid: Stale bread at the bottom of the bowl. Broth poured over. Nothing else.
+dailyHigh: Three greens reach for the pot; two are set back on the board. The chosen leaf steeps alone.
+dailyMost: Salt last. A single thread of oil drawn across the surface — no more.
+dailyLow: Onion, garlic, a heel of pancetta rendered first; the cannellini go in already perfumed. The acquacotta arrives crowded and good.
+dailyLeast: Every green from the garden in the pot, oil poured with a heavy hand, bread torn rather than sliced. Eaten standing at the stove.
 ---
 
-Desiccated Cannellini Beans are the Bean Zodiac's most ascetic — they have removed every excess and arrived at something so refined it barely takes up space.
+Dried Cannellini Beans pare the pantry down until only the unargued remain. They cook in plain water; they refuse the second handful; they leave the pot looking emptier than it is.
 
-Cannellini Beans curate ruthlessly; Bitter Beans insist everything earn its presence; Dried Beans complete the reduction, leaving only what cannot be argued away.
+Cannellini Beans curate without sentiment; Bitter Beans demand each ingredient earn its keep; Dried Beans finish the work, cooking slow and asking nothing of the cupboard.
 
-The Desiccated Cannellini Bean's challenge is the life unlived by omission. Perfection achieved through removal is still removal. These Beans must occasionally allow something imperfect to remain.
+The Dried Cannellini Bean's hazard is the dish gone hollow — broth so clear it tastes of restraint rather than greens. Now and then, a heel of bread, a green left whole, a thread of oil poured without measuring.

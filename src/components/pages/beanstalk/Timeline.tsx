@@ -34,7 +34,9 @@ export default function Timeline({
   activeIdx,
   radarExpanded,
 }: Props) {
-  const [sectionZodiacs, setSectionZodiacs] = useState<Map<string, Zodiac>>(new Map());
+  const [sectionZodiacs, setSectionZodiacs] = useState<Map<string, Zodiac>>(
+    new Map(),
+  );
   const [loadingZodiacs, setLoadingZodiacs] = useState(false);
   const pendingFetches = useRef(0);
 
@@ -71,7 +73,8 @@ export default function Timeline({
   useEffect(() => {
     const handleScroll = () => {
       const isMobile = window.innerWidth < 640;
-      const threshold = window.innerHeight * (isMobile ? (radarExpanded ? 0.6 : 0.45) : 0.35);
+      const threshold =
+        window.innerHeight * (isMobile ? (radarExpanded ? 0.6 : 0.45) : 0.35);
       let newActive: number | null = null;
       for (let i = 0; i < fortuneNodesInYear.length; i++) {
         const el = nodeRefs.current[i];
@@ -118,7 +121,9 @@ export default function Timeline({
                 <div className="h-3 w-40 rounded bg-zinc-800 animate-pulse" />
               ) : (
                 <p className="text-xs text-zinc-500">
-                  {zodiac ? `The ${zodiac.trait} Season of the` : "The Season of the"}
+                  {zodiac
+                    ? `The ${zodiac.trait} season of the`
+                    : "The season of the"}
                 </p>
               )}
               <p className="text-sm font-bold uppercase tracking-widest text-zinc-200">
@@ -133,18 +138,38 @@ export default function Timeline({
               </p>
               {bean && (
                 <div className="w-16 h-16 my-6">
-                  <Bean bean={bean} flavourId={season.flavourId} formId={season.formId} />
+                  <Bean
+                    bean={bean}
+                    flavourId={season.flavourId}
+                    formId={season.formId}
+                  />
                 </div>
               )}
               <div className="flex flex-wrap items-center justify-center gap-1">
-                <FlavourBadge id={season.flavourId} name={flavour.name} label="Phase" small />
+                <FlavourBadge
+                  id={season.flavourId}
+                  name={flavour.name}
+                  label="Phase"
+                  small
+                />
                 <span className="text-zinc-700 text-xs">×</span>
-                <FormBadge id={season.formId} name={form.name} label="Season" small />
+                <FormBadge
+                  id={season.formId}
+                  name={form.name}
+                  label="Season"
+                  small
+                />
                 <span className="text-zinc-700 text-xs">×</span>
-                <BeanBadge id={season.beanId} name={beanName} label="Year" small />
+                <BeanBadge
+                  id={season.beanId}
+                  name={beanName}
+                  label="Year"
+                  small
+                />
               </div>
               <p className="text-xs text-zinc-500 mt-1">
-                {formatDisplayDate(season.startDateStr)} – {formatDisplayDate(season.endDateStr)}
+                {formatDisplayDate(season.startDateStr)} –{" "}
+                {formatDisplayDate(season.endDateStr)}
               </p>
               {loadingZodiacs && !zodiac ? (
                 <div className="flex flex-col gap-1.5 w-64 mt-1">
@@ -160,7 +185,9 @@ export default function Timeline({
 
             {isEmpty ? (
               <div className="pl-8 pb-4 text-center">
-                <p className="text-zinc-700 text-sm italic">No fortunes recorded this season.</p>
+                <p className="text-zinc-700 text-sm italic">
+                  No fortunes recorded this season.
+                </p>
               </div>
             ) : (
               sectionNodes.map((node, localIdx) => {
@@ -185,7 +212,9 @@ export default function Timeline({
                         height: 12,
                         transform: `${isActive ? "scale(1.5)" : "scale(1)"}`,
                         backgroundColor: isActive ? "#3b82f6" : "#1e3a5f",
-                        boxShadow: isActive ? "0 0 0 3px rgba(59,130,246,0.25)" : "none",
+                        boxShadow: isActive
+                          ? "0 0 0 3px rgba(59,130,246,0.25)"
+                          : "none",
                       }}
                     />
 
@@ -222,7 +251,9 @@ export default function Timeline({
                             </p>
                           )}
 
-                          <p className="italic text-zinc-300 text-sm mb-3">"{node.text}"</p>
+                          <p className="italic text-zinc-300 text-sm mb-3">
+                            "{node.text}"
+                          </p>
 
                           <FortuneScoreBadge score={node.score} />
                         </div>

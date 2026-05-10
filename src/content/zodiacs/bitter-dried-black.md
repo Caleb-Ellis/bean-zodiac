@@ -6,12 +6,12 @@ form: dried
 trait: laconic
 dish: Black bean soup with ancho chile and dark chocolate.
 quote: Speech is silver; bean is golden.
-seasonalFortune: The reduction completes itself. What remains — dark, concentrated, irreducible — speaks in a language others have forgotten.
-dailyMid: The ancho's heat settles beneath surface tension; the chocolate waits to darken everything. A season of diminishing noise.
-dailyHigh: The broth thickens where others thin it. What was many becomes one, and that one thing holds.
-dailyMost: The long simmer has done the talking. The pot sits silent, the flavor unmistakable.
-dailyLow: The broth runs thin with extra telling. The ancho speaks, and then speaks again, and the chocolate explains itself at length.
-dailyLeast: Each layer surfaces before the last has settled. The soup stays soup — nothing has had time to concentrate into something else.
+seasonalFortune: Black beans, ancho, a square of chocolate, salt. Nothing else goes in. Nothing else is wanted.
+dailyMid: Toast the ancho dry, tear it once, drop it in. No second seasoning until the pot has had its say.
+dailyHigh: Six hours at a bare tremor. Lift the lid at the end and the broth has gone glossy and near-black; the spoon stands a moment before it sinks.
+dailyMost: One ancho. One bean. One square of chocolate folded in at the last. Served in a shallow bowl, no garnish; the cook eats standing.
+dailyLow: A bouquet of oregano and bay, a clove of garlic, a strip of orange peel, cumin bloomed in oil — each goes in as it occurs to the cook, and the broth grows talkative around the bean.
+dailyLeast: Cilantro stems early, lime at the finish, crema swirled through, pickled onion on top, the ancho doubled and a second chile beside it. The bowl crowds happily.
 ---
 
 Desiccated Black Beans are the Bean Zodiac's most laconic — they say exactly one thing, and it is the right one.

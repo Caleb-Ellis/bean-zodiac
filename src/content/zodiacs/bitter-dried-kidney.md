@@ -6,16 +6,16 @@ form: dried
 trait: hardened
 dish: Louisiana Red Beans and Rice - with mustard greens.
 quote: What lies behind us and what lies before us are tiny matters compared to what lies between beans.
-seasonalFortune: When the pot boils away its water, something ancient surfaces. A season for the compressed to become essential — the mustard leaf knows that bitterness sharpens the palate only after it has first hardened the plant.
-dailyMid: The shape holds even where softness once pooled.
-dailyHigh: The narrow path through the centre calls only those willing to absorb time.
-dailyMost: Each layer sealed against the last — pressure becomes radiance.
-dailyLow: The mustard green wilts before the brine reaches it — porous where the pot expected density.
-dailyLeast: Louisiana heat finds every seam — the bean that once held firm now draws in whatever the water carries.
+seasonalFortune: A long soak, and longer still — the beans take the water on their own clock, and the mustard greens wait beside the pot, stems trimmed, leaves torn down to size.
+dailyMid: Overnight in cold water; in the morning the skins are taut and the pot can begin.
+dailyHigh: The beans simmer uncovered for three hours before the greens go in. Nothing is rushed; nothing is checked twice.
+dailyMost: Bay leaf, thyme stem, a ham hock laid in at the start — flavours given the whole afternoon to render down to one thing. The cook who lifts the lid early rebuilds the seam.
+dailyLow: Hot soak instead of cold; the beans split a little but the broth comes up sweet by noon.
+dailyLeast: Canned kidneys, mustard greens torn straight in, the rice already on. Supper at the stove, standing.
 ---
 
-Desiccated Kidney Beans are the Bean Zodiac's most hardened — each season of difficulty has added density, not damage.
+The Bitter Dried Kidney keeps. Stored in a jar through the cold months, the bean cures into something that will outlast the cook who put it up.
 
-Kidney Beans withstand what others don't; Bitter Beans strip away sentiment; Dried Beans remove the moisture that once allowed softness, leaving something that will keep.
+Kidney holds its shape against long heat; bitter strips the broth of any sweetness that would soften it; dried gives back only what the water has earned. The mustard green, wilted in at the end, sharpens the pot the way frost sharpens a leaf.
 
-The Desiccated Kidney Bean's challenge is what hardening costs. A Bean dense enough has no room left for new flavour. These Beans must ask whether the armour still serves them — or has simply become them.
+The cost is patience. A bean this dense will not take a shortcut — soaked too briefly, the centre stays chalk; simmered without time, the skin splits before the inside gives. What it asks of the cook is the same thing it asks of the season: wait, and then wait again.

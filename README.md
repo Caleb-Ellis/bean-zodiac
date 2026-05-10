@@ -50,11 +50,11 @@ Markdown lives in `src/content/`. The build script (`scripts/build-content.mjs`)
 - **`beans/`** — 12 files (name, tagline, traits[], color, imageFile)
 - **`flavours/`** — 5 files (name, character, traits[], color)
 - **`forms/`** — 6 files: boiled, dried, fermented, fried, roasted, smoked (name, tagline, traits[])
-- **`zodiacs/`** — 360 files, filename `{flavour}-{form}-{bean}.md`, frontmatter: slug, bean, flavour, form, trait, dish, quote, seasonalFortune, dailyMid, dailyHigh, dailyMost, dailyLow, dailyLeast. Reference style: `bitter-boiled-adzuki.md`.
+- **`zodiacs/`** — 360 files, filename `{flavour}-{form}-{bean}.md`, frontmatter: slug, bean, flavour, form, trait, dish, quote, seasonalFortune, dailyMid, dailyHigh, dailyMost, dailyLow, dailyLeast.
 
 ### Pages
 
-- `/` — "The Season of the [Preparation] [Bean]" when no claimed bean, "You are the [Preparation] [Bean]" when bean claimed, alongside daily fortune bean.
+- `/` — "The season of the [Preparation] [Bean]" when no claimed bean, "You are the [Preparation] [Bean]" when bean claimed, alongside daily fortune bean.
 - `/wheel` — date picker → "You are the [Preparation] [Bean]". Shareable via `?date=YYYY-MM-DD`.
 - `/compatibility` — date picker for a second bean; if a bean is claimed it's used as the first. Shareable via `?b=YYYY-MM-DD`.
 - `/legunomicon` — chronological history of daily fortune entries; shows resonance vote indicator per entry.
@@ -65,23 +65,23 @@ Markdown lives in `src/content/`. The build script (`scripts/build-content.mjs`)
 
 ### Daily Fortunes
 
-Each zodiac has one `seasonalFortune` and five daily fortunes keyed to quality:
+Each zodiac has one `seasonalFortune` and five daily fortunes:
 
-- `dailyMid` — mild positive expression of the trait
-- `dailyHigh` — stronger positive expression of the trait
-- `dailyMost` — best positive expression of the trait
-- `dailyLow` — mild negative expression of the trait
-- `dailyLeast` — medium negative expression of the trait
+- `dailyMid` — mild expression of the trait
+- `dailyHigh` — medium expression of the trait
+- `dailyMost` — strong expression of the trait
+- `dailyLow` — mild expression of the opposite of the trait (e.g. if trait is "courageous" this is could be "cowardly")
+- `dailyLeast` — medium expression of the opposite of the trait
 
 The daily fortune selected is influenced by the user's claimed/spirit bean, the current season, and a random daily bean.
 
 ### Quality
 
-- **Garden** — Neutral, Very Common
-- **Market** — Good, Common
-- **Stale** — Bad, Uncommon
-- **Heirloom** — Best, Rare
-- **Rotten** — Worst, Very Rare
+- **Garden** — Neutral, Common
+- **Market** — Bright, Uncommon
+- **Stale** — Faded, Uncommon
+- **Heirloom** — Vivid, Rare
+- **Rotten** — Dark, Rare
 
 ### Compatibility
 

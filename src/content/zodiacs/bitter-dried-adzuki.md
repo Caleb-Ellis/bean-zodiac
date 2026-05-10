@@ -6,12 +6,12 @@ form: dried
 trait: selective
 dish: Sekihan - adzuki beans with bitter citrus zest.
 quote: You are the average of the five beans you spend the most time with.
-seasonalFortune: The sifter holds steady, and each pass leaves behind the chaff that crept in with the wheat. The desiccated hull knows the weight of what stays. Few things earn their place in the bowl; fewer still deserve to taste the brine.
-dailyMid: A filtering wind moves through, patient and without malice.
-dailyHigh: The threshold grows luminous where something true approaches it.
-dailyMost: The scales refuse the counterfeit; only the genuine settles at the bottom.
-dailyLow: The sekihan bowl fills freely, welcoming whatever the hand brings near.
-dailyLeast: The threshold stands wide — every grain finds passage, the bitter and the bland alike.
+seasonalFortune: Spread the dried adzuki on a pale cloth and pick out the split skins, the pebbles, the beans gone chalk-pale at the hilum. Only the whole ones earn the soaking water. The zest is pared in thin curls — pith left on the fruit, never in the pot.
+dailyMid: Rinse the beans until the water runs from rust to clear; pour off the cloudy first soak without ceremony.
+dailyHigh: Three citrus on the board, one chosen for its oil; the other two set back in the bowl.
+dailyMost: Tasted, the broth wants more zest. The grater stays in the drawer until a firmer fruit comes to hand.
+dailyLow: Every bean from the sack goes into the pot, splits and pebbles culled later, at the bowl.
+dailyLeast: All four citrus zested in at once. The sekihan eaten standing, sharp at the edges, sweet underneath.
 ---
 
 Desiccated Adzuki Beans are the Bean Zodiac's most selective — they know exactly what deserves celebration, and they will not spend it on anything less.

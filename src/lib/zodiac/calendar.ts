@@ -66,7 +66,15 @@ export const getZodiacMetadataForDate = (date: Date): ZodiacMetadata => {
   const startYear = startMonth > date.getMonth() + 1 ? year - 1 : year;
   const endMonth = startMonth + 2;
   const startDate = new Date(startYear, startMonth - 1, 12);
-  const endDate = new Date(endMonth > 12 ? startYear + 1 : startYear, (endMonth - 1) % 12, 11);
+  const endDate = new Date(
+    endMonth > 12 ? startYear + 1 : startYear,
+    (endMonth - 1) % 12,
+    11,
+    23,
+    59,
+    59,
+    999,
+  );
 
   return {
     zodiacId: `${flavourId}-${formId}-${beanId}`,

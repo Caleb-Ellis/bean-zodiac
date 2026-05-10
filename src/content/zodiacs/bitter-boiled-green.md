@@ -6,12 +6,12 @@ form: boiled
 trait: inquisitive
 dish: Minestrone - green beans and puntarelle.
 quote: The important thing is not to stop questioning beans.
-seasonalFortune: A thread spools taut through the broth. Follow it to its knot — that's where the flavor settled. The next thread will unspool only after this one stills, so don't abandon the simmer too early.
-dailyMid: The question unfolding beneath the surface has sharper teeth than the one on your tongue.
-dailyHigh: The answer was in the reduction all along — what evaporates reveals what you were holding.
-dailyMost: The bottom of your pot holds what the steam couldn't steal from you.
-dailyLow: Let the surface of your minestrone hold your eye today — the ingredients clear, the broth familiar, the bowl enough.
-dailyLeast: Accept what you see; a good soup needs no mystery or complexity. The bitter green bean floats — and that is all.
+seasonalFortune: Taste the broth, then taste it again an hour on. The puntarelle gives up its bitterness in stages, and each stage asks a different salt. Keep the lid cracked through the long simmer; what you learn at the third tasting will set the seasoning for the season.
+dailyMid: Split a green bean lengthwise before it goes in — see how the seed sits inside the pod.
+dailyHigh: Lift the lid; chase the steam back to the leaf it rose from.
+dailyMost: Strip the puntarelle to its hollow stem and soak the curls in cold water until they coil; nothing in the pot tonight that you have not first taken apart.
+dailyLow: Tip the beans straight from the colander into the broth.
+dailyLeast: Minestrone, bowl, spoon. The puntarelle is bitter; the bean is green; supper is on the table.
 ---
 
 Infused Green Beans are the Bean Zodiac's most inquisitive — they follow threads until they lead somewhere unexpected.

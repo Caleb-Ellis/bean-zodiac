@@ -6,16 +6,16 @@ form: fried
 trait: opinionated
 dish: Adzuki bean crispy rice cakes with bitter orange syrup.
 quote: Well-beaned Beans are always dangerous.
-seasonalFortune: The crisp shell knows what it is. The season tests its edges — some judgment survives the heat, some shatters under bitter pour.
-dailyMid: The amber glaze pooling at the plate's edge settles into its shape.
-dailyHigh: The char marks hold their meaning. What seared stayed.
-dailyMost: The syrup burns exactly as intended. Nothing asks to be remade.
-dailyLow: The glaze sits undecided between bitter and sweet.
-dailyLeast: The crisp rice cake holds every shape the mould suggests — each one equally likely.
+seasonalFortune: Adzuki paste pressed into the cake before the oil is hot enough; the edge that forms is the edge it keeps. Bitter orange peel goes in whole rind and all, no second thought once the syrup darkens.
+dailyMid: Cake lifted from the pan when the underside has set, not before.
+dailyHigh: One taste of the syrup, then the pour. The peel has spoken; argue with it later.
+dailyMost: Crust black at the corners where it had to be. The cook does not turn the cake to hide them.
+dailyLow: Syrup tasted, set down, tasted again; a second strip of peel goes in halfway through.
+dailyLeast: Three cakes pulled at three different shades of brown, each one set on the plate as it came.
 ---
 
-Scorched Adzuki Beans are the Bean Zodiac's most opinionated — they decide quickly and hold firmly.
+Scorched Adzuki cakes are pressed firm and dropped into hot oil before the cook has time to reconsider. The shell takes its colour fast and keeps it.
 
-Adzuki Bean knows immediately if a moment deserves recognition; Bitter Beans make judgment sharp and acquired; Fried Beans seal the position before time to second-guess.
+Adzuki holds its shape under pressure; bitter orange refuses to be sweetened past recognition; the fry seals the verdict while the centre is still warm.
 
-The Scorched Adzuki Bean's challenge is the space between opinion and verdict. A discerning palate applied too quickly can miss things. They must remember a judgment worth having is one that has had a moment to cool.
+The work of the Scorched Adzuki Bean is the pour of the syrup — bitter against the sealed crust, committed in one motion. A cake reheated is a cake re-argued, and the second crust is never the first.
