@@ -7,11 +7,11 @@ trait: narcissistic
 dish: Frijoles Refritos - with roasted bitter chiles and lard.
 quote: I don't care what you think unless it's about my bean.
 seasonalFortune: Lard renders slowly, indifferent to the pan around it — a whole season can pass in the act of becoming purely oneself. The bitter chiles do their work regardless of who is watching.
-dailyMid: The markings on the pinto are unlike any other bean's. This particular pattern has no equal.
-dailyHigh: The skillet is hot, the fat is fragrant — the refried bean fills it completely, leaving no room for doubt about its own flavor.
-dailyMost: Press the bean flat. Let the lard carry only this. The whole dish is this — nothing else belongs.
-dailyLow: The bitter chiles draw the eye. The refried bean underneath is the quiet part of the dish.
-dailyLeast: Everyone reaches for the chile first. The lard, the bean, the whole foundation — all in service of something else's flavor.
+facetMid: The markings on the pinto are unlike any other bean's. This particular pattern has no equal.
+facetHigh: The skillet is hot, the fat is fragrant — the refried bean fills it completely, leaving no room for doubt about its own flavor.
+facetMost: Press the bean flat. Let the lard carry only this. The whole dish is this — nothing else belongs.
+facetLow: The bitter chiles draw the eye. The refried bean underneath is the quiet part of the dish.
+facetLeast: Everyone reaches for the chile first. The lard, the bean, the whole foundation — all in service of something else's flavor.
 ---
 
 Wood-Fired Pinto Beans are the Bean Zodiac's most narcissistic — warmth directed entirely inward.

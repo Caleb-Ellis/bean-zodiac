@@ -7,11 +7,11 @@ trait: disarming
 dish: Smoked edamame gyoza with sweet hoisin and black vinegar dipping sauce.
 quote: You bean me at hello.
 seasonalFortune: The smoke carries intention forward. What reaches across the room finds a place already prepared, the shells soften from within, and what was guarded discovers its entrance was always open. The real test waits after the opening — whether the path beyond is one worth taking.
-dailyMid: The hoisin glaze catches light before caution finishes forming.
-dailyHigh: Smoke bends around the barrier, finds the seam, passes through. The pod splits willingly.
-dailyMost: The sweetness disarms itself — no armor left, only the pure bean, the honest center revealed.
-dailyLow: The surface holds its char. Walls stand. Distance is kept.
-dailyLeast: The sauce thickens. Everything moves slowly. The seed stays wrapped.
+facetMid: The hoisin glaze catches light before caution finishes forming.
+facetHigh: Smoke bends around the barrier, finds the seam, passes through. The pod splits willingly.
+facetMost: The sweetness disarms itself — no armor left, only the pure bean, the honest center revealed.
+facetLow: The surface holds its char. Walls stand. Distance is kept.
+facetLeast: The sauce thickens. Everything moves slowly. The seed stays wrapped.
 ---
 
 Barbecued Edamame are the Bean Zodiac's most disarming — they move quickly and the warmth arrives before the defences can consider whether to deploy.

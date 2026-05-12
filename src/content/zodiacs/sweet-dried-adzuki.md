@@ -7,11 +7,11 @@ trait: devoted
 dish: Yokan — dried adzuki beans pressed into sweet paste and set with agar into a firm, lasting block.
 quote: Love is patient, love is bean.
 seasonalFortune: The paste holds, but the agar that sets it will one day melt. Devotion shapes the season now; seasons will shape devotion next.
-dailyMid: The binding agent works quietly below the surface.
-dailyHigh: What was scattered draws toward center, finding its own weight.
-dailyMost: The mold gives shape; the beans surrender to becoming what holds.
-dailyLow: The crystals catch light but do not catch each other.
-dailyLeast: The paste loosens, remembers it was once dust.
+facetMid: The binding agent works quietly below the surface.
+facetHigh: What was scattered draws toward center, finding its own weight.
+facetMost: The mold gives shape; the beans surrender to becoming what holds.
+facetLow: The crystals catch light but do not catch each other.
+facetLeast: The paste loosens, remembers it was once dust.
 ---
 
 Crystallised Adzuki Beans are the Bean Zodiac's most devoted — the generosity has been distilled to its purpose, and the celebration never wavers.

@@ -6,16 +6,16 @@ form: dried
 trait: terse
 dish: Edamame hummus with preserved lemon.
 quote: Less is bean.
-seasonalFortune: Dried edamame go straight from jar to mortar, no soak. One rind of preserved lemon, pounded in. Salt last, sparingly. The paste is ready before the kettle whistles.
-dailyMid: Skins off; the pale green beneath is the dish.
-dailyHigh: Lemon rind, mortar, salt. Done.
-dailyMost: One bowl. One spoon. The crust of salt on the rim is the garnish.
-dailyLow: The mortar set aside for the food processor; a longer pound, olive oil drizzled in by eye, parsley folded through at the end.
-dailyLeast: Tahini, garlic confit, three rinds of lemon and the juice besides — eaten with warm flatbread torn by hand, the bowl passed twice.
+seasonalFortune: The husk splits too soon; what escapes is what was meant to stay. This season will demand the shell's patience, teaching that some flavours only emerge when moisture returns.
+facetMid: The pit speaks what the flesh cannot.
+facetHigh: The preserved lemon cuts through silence — a single note, undeniable.
+facetMost: Clarity arrives stripped to its essence, and needs no accompaniment.
+facetLow: The hummus spreads wider than the bowl requires, still reaching for an edge.
+facetLeast: Three lemon slices where one would have served — the dish keeps explaining itself.
 ---
 
-Dried edamame arrive already pared. The pod is gone, the moisture rendered out, what remains is the bean reduced to its hard green argument.
+Desiccated Edamame are the Bean Zodiac's most terse — they have already cut to the end and are waiting for everyone else to arrive.
 
-Edamame waste no preamble. Bitter strips whatever has not earned its place. Drying cures the rest until nothing soft is left to hide behind.
+Edamame skip the preamble; Bitter Beans strip what doesn't earn its place; Dried Beans reduce the remainder until there is nothing left that isn't necessary.
 
-The longer path has its uses — a slow braise, a sauce that wants building in layers. Dried edamame must occasionally allow the pot to simmer past the point of immediate sense, and trust the deepening.
+The Desiccated Edamame's challenge is the cost of brevity. Not every exchange can be resolved in a sentence. These Beans must occasionally allow the longer path, even when the shortcut is obvious.

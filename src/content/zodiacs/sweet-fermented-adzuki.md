@@ -7,11 +7,11 @@ trait: sentimental
 dish: Adzuki amazake pudding — red beans warmed through in sweet fermented rice drink with a strip of yuzu peel.
 quote: I kept the recipe. I kept everything.
 seasonalFortune: The brine that has been steeping carries its own weight now. To taste it fully is not excess — it is completion. A season to honor what time has wrought, to know the sauce by its darkened surface and the depth underneath.
-dailyMid: The fermentation holds. Layers persist.
-dailyHigh: The yuzu peel releases its ghost into the liquid. The original shape still matters.
-dailyMost: Steep in what has been preserved. Let the sweetness take its true time.
-dailyLow: The beans have absorbed their fill; the dish stands complete and needs no amendment.
-dailyLeast: The heat of the amazake lifts; something lighter surfaces in the cup.
+facetMid: The fermentation holds. Layers persist.
+facetHigh: The yuzu peel releases its ghost into the liquid. The original shape still matters.
+facetMost: Steep in what has been preserved. Let the sweetness take its true time.
+facetLow: The beans have absorbed their fill; the dish stands complete and needs no amendment.
+facetLeast: The heat of the amazake lifts; something lighter surfaces in the cup.
 ---
 
 Funky Adzuki Beans are the Bean Zodiac's most sentimental — they feel the weight of occasions and Beans with completeness.

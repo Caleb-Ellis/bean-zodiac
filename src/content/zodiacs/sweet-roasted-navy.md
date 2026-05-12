@@ -6,12 +6,12 @@ form: roasted
 trait: reserved
 dish: Maple and sea salt roasted navy beans — white beans roasted until caramelised, finished with a drizzle of cold maple syrup.
 quote: Speech is silver, but bean is golden.
-seasonalFortune: The glaze thickens in silence. A thing given before its time ripens holds the sweetness of risk — the caramel becomes the offering itself.
-dailyMid: The bean hides its corners; the syrup knows where to pool.
-dailyHigh: Cold maple finds its own light in the darkness.
-dailyMost: The interior crust speaks louder than steam.
-dailyLow: Sweetness spills where the surface cracks.
-dailyLeast: The beans scatter freely across the plate.
+seasonalFortune: A slow oven and a held tongue. The sweetness gathers inward, crust darkening, and what gets offered later is denser for the wait.
+facetMost: At a crowded table you answer the question asked and not the three around it. Friends lean closer; you do not lean back.
+facetHigh: The guests are still in their coats. You pour water, take the seat by the kitchen, and let someone else open the conversation.
+facetMid: A thing worth saying gets the full hour in the oven. By the time it leaves your mouth the edges have caramelised.
+facetLow: Halfway through the first bite you have already told the cook what you would change. The verdict arrives before the salt settles.
+facetLeast: Three group chats, one running narration of your evening, syrup-thick. You drizzle the day over anyone who scrolls past.
 ---
 
 Glazed Navy Beans are the Bean Zodiac's most reserved — their warmth is present but not distributed at random.

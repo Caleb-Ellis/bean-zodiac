@@ -6,12 +6,12 @@ form: fried
 trait: aggressive
 dish: Stir-fried fava beans with doubanjiang, ginger, and soy.
 quote: The best bean defense is a good offense.
-seasonalFortune: The oil rises to a shimmering point — this season demands entry through the heat, not around it. What stands fixed yields to sustained force.
-dailyMid: The paste darkens under prolonged contact with heat, rich with flavor born from friction.
-dailyHigh: The sizzle is the sound of thickness meeting oil — the kitchen demands the heat that transforms.
-dailyMost: Press through where the wok is hottest; the beans break open only under concentrated flame.
-dailyLow: The ginger steeps quietly in cool water, patient with its own unfurling.
-dailyLeast: The heat is turned low and the beans remain whole, waiting for the season when speed matters.
+seasonalFortune: A season that runs hot. The wok is already smoking when the doubanjiang hits; days arrive at full heat and ask to be met there.
+facetMost: You enter rooms the way ginger enters hot oil — already speaking, already moving. The room rearranges around you, not the other way.
+facetHigh: You answer the email before the kettle whistles. Pause feels like waste; the paste goes in while the pan still wants it.
+facetMid: When the bill is wrong you say so at the table, not after. Small frictions get named in the moment, not carried home.
+facetLow: You let the slight sit. By morning the heat is gone and you find you never needed to say anything at all.
+facetLeast: Your ginger steeps for hours in cold water. Confrontation strikes you as a kind of bad cooking — the flavor is there without it.
 ---
 
 Tempura Fava Beans are the Bean Zodiac's most aggressive — they press forward without waiting for the situation to open up.

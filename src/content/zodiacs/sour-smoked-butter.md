@@ -7,11 +7,11 @@ trait: pallid
 dish: Fabada Asturiana - smoked butter beans with morcilla, smoked paprika, and sherry vinegar
 quote: Now is the bean of our discontent.
 seasonalFortune: Smoke settles on what has already paled; underneath, where the vinegar was poured, something waits to be remembered. The broth thickens only when it's given time to sit with its own emptiness.
-dailyMid: The paprika hasn't rusted yet — it still holds its red beneath the grey.
-dailyHigh: The morcilla remembers blood; the beans remember their form. Both refuse to disappear entirely.
-dailyMost: Warmth collects in the pot's corners, small and stubborn. A slow turn brings it all back into the broth.
-dailyLow: The smoke clears too quickly; colour floods back before there's silence enough to hear what the pallor was teaching.
-dailyLeast: Every surface gleams, every voice rises, every hand reaches — the broth boils over before it has time to know itself.
+facetMid: The paprika hasn't rusted yet — it still holds its red beneath the grey.
+facetHigh: The morcilla remembers blood; the beans remember their form. Both refuse to disappear entirely.
+facetMost: Warmth collects in the pot's corners, small and stubborn. A slow turn brings it all back into the broth.
+facetLow: The smoke clears too quickly; colour floods back before there's silence enough to hear what the pallor was teaching.
+facetLeast: Every surface gleams, every voice rises, every hand reaches — the broth boils over before it has time to know itself.
 ---
 
 Cured Butter Beans carry the quietest weight — the calm is present, but something that made it sustaining has been drained away.

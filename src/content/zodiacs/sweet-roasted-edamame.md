@@ -7,11 +7,11 @@ trait: diligent
 dish: Miso-maple roasted edamame — shelled soybeans roasted until crisp, glazed in white miso and maple syrup.
 quote: Excellence is never granted to a bean; it must be earned.
 seasonalFortune: The glaze sets in layers — first the miso darkens, then the maple caramelizes, then the stillness hardens everything into place. Letting the final coat cure requires a different kind of work.
-dailyMid: Each layer holds the heat a little longer; the shell grows increasingly papery beneath the glaze.
-dailyHigh: The sweetness and salt marry most completely when the attention never wavers — the miso-maple bond deepens.
-dailyMost: Roasted through and through, down to the kernel's core — the crisping has reached its truest form.
-dailyLow: The edamame yields to the heat without ceremony — the shells slip off easily, roasted or not.
-dailyLeast: Movement, warmth, and steam — the glaze pools rather than clings.
+facetMid: Each layer holds the heat a little longer; the shell grows increasingly papery beneath the glaze.
+facetHigh: The sweetness and salt marry most completely when the attention never wavers — the miso-maple bond deepens.
+facetMost: Roasted through and through, down to the kernel's core — the crisping has reached its truest form.
+facetLow: The edamame yields to the heat without ceremony — the shells slip off easily, roasted or not.
+facetLeast: Movement, warmth, and steam — the glaze pools rather than clings.
 ---
 
 Glazed Edamame are the Bean Zodiac's most diligent — they do the work carefully and completely, warming every step with genuine effort.

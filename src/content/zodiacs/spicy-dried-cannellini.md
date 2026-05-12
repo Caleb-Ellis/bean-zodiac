@@ -7,11 +7,11 @@ trait: unerring
 dish: Pasta e fagioli - dried cannellini and pasta soup with peperoncino.
 quote: I came, I saw, I beaned.
 seasonalFortune: The grain finds the mill. What passes through emerges transformed.
-dailyMid: The thread pulls taut. Each knot holds.
-dailyHigh: The knife splits the seed — clean halves, no dust.
-dailyMost: Every strike finds sinew. The broth knows exactly what was added.
-dailyLow: The scatter seeds itself. The broth accepts what drifts in.
-dailyLeast: The course shifts — the mill grinds new patterns.
+facetMid: The thread pulls taut. Each knot holds.
+facetHigh: The knife splits the seed — clean halves, no dust.
+facetMost: Every strike finds sinew. The broth knows exactly what was added.
+facetLow: The scatter seeds itself. The broth accepts what drifts in.
+facetLeast: The course shifts — the mill grinds new patterns.
 ---
 
 Sichuan Cannellini Beans are the Bean Zodiac's most unerring — the precision is exact and the standards are real, and together they leave a mark.

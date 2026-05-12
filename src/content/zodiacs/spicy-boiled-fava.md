@@ -7,11 +7,11 @@ trait: unyielding
 dish: Spiced fava bean soup with berbere and lemon.
 quote: I am not a bean to be argued out of what I know to be right.
 seasonalFortune: The skin holds long enough to teach what the seed knows. Pressure reveals whether the core is diamond or merely stone — seasons will determine which.
-dailyMid: The broth darkens where the bean refuses to soften.
-dailyHigh: Spice finds its grip in stillness — the motionless center burns brightest.
-dailyMost: Heat and time conspire only where something remains to be changed by them.
-dailyLow: The pot calls its inhabitants to bend with the steam.
-dailyLeast: Water remembers no shape it holds — the bean dissolves where currents run.
+facetMid: The broth darkens where the bean refuses to soften.
+facetHigh: Spice finds its grip in stillness — the motionless center burns brightest.
+facetMost: Heat and time conspire only where something remains to be changed by them.
+facetLow: The pot calls its inhabitants to bend with the steam.
+facetLeast: Water remembers no shape it holds — the bean dissolves where currents run.
 ---
 
 Braised Fava Beans are the Bean Zodiac's most unyielding — once decided, nothing moves them.

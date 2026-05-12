@@ -7,11 +7,11 @@ trait: confident
 dish: Yaki edamame - oven-roasted edamame with shichimi togarashi and sea salt.
 quote: Whether you think you bean or you think you can't, you're right.
 seasonalFortune: The char marks what was always there. Through the roast's heat, the edamame finds its own weight — salt binding to skin, kernel firm inside the pod. The season asks nothing of certainty; it asks only that the thing itself remain whole.
-dailyMid: Salt accumulates where it's meant to. The roasted surface holds what the fire offered.
-dailyHigh: The pod expands through its own combustion — fire recognizing fire, the shape widening into its fullest version.
-dailyMost: Everything the kernel needed it already contained. The roast merely revealed what was complete before the heat.
-dailyLow: The seasoning distributes unevenly across the pod — one bite carries heat, another carries nothing. The taste keeps changing.
-dailyLeast: The kernel hasn't firmed yet. The salt hasn't found where it belongs.
+facetMid: Salt accumulates where it's meant to. The roasted surface holds what the fire offered.
+facetHigh: The pod expands through its own combustion — fire recognizing fire, the shape widening into its fullest version.
+facetMost: Everything the kernel needed it already contained. The roast merely revealed what was complete before the heat.
+facetLow: The seasoning distributes unevenly across the pod — one bite carries heat, another carries nothing. The taste keeps changing.
+facetLeast: The kernel hasn't firmed yet. The salt hasn't found where it belongs.
 ---
 
 Peri-Peri Edamame are the Bean Zodiac's most confident — nothing inward works against them.

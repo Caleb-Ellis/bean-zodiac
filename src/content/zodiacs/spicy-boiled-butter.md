@@ -7,11 +7,11 @@ trait: stoic
 dish: Kuru fasulye - Turkish butter bean stew with Aleppo pepper and slow-cooked onion.
 quote: You have power over your bean, not outside events. Realize this, and you will find strength.
 seasonalFortune: The liquid learns what the grain resists. The season's weight gathers in the narrow places, asking which walls must thin.
-dailyMid: The heat finds its own temperature in the slow water. What enters stays, unmarked.
-dailyHigh: The spice declares itself; the bean absorbs without quarrel. The stew becomes its own answer.
-dailyMost: The pepper's burn becomes sweetness only in the keeping. Patience renders the impossible smooth.
-dailyLow: Impulse boils faster than water. The heat scatters before it settles.
-dailyLeast: The spice demands immediately what the season gives slowly. Steam escapes before the bean knows it was needed.
+facetMid: The heat finds its own temperature in the slow water. What enters stays, unmarked.
+facetHigh: The spice declares itself; the bean absorbs without quarrel. The stew becomes its own answer.
+facetMost: The pepper's burn becomes sweetness only in the keeping. Patience renders the impossible smooth.
+facetLow: Impulse boils faster than water. The heat scatters before it settles.
+facetLeast: The spice demands immediately what the season gives slowly. Steam escapes before the bean knows it was needed.
 ---
 
 Braised Butter Beans are the Bean Zodiac's most stoic — the heat arrives, is registered completely, and is absorbed without theatre.

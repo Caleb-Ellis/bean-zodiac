@@ -7,11 +7,11 @@ trait: hedonistic
 dish: Harissa gigantes - butter beans oven-roasted with rose harissa, garlic, and olive oil.
 quote: Eat, bean, and be merry, for tomorrow we diet.
 seasonalFortune: The sweetness fades to nothing, then blooms again — each cycle teaches the palate what hunger means.
-dailyMid: Rose petals unfold in the pan.
-dailyHigh: The heat peaks — every layer becomes flavor.
-dailyMost: Dissolve into what the oil holds.
-dailyLow: The spoon rests in the bowl.
-dailyLeast: Hunger keeps its own counsel.
+facetMid: Rose petals unfold in the pan.
+facetHigh: The heat peaks — every layer becomes flavor.
+facetMost: Dissolve into what the oil holds.
+facetLow: The spoon rests in the bowl.
+facetLeast: Hunger keeps its own counsel.
 ---
 
 Peri-Peri Butter Beans are the Bean Zodiac's most hedonistic — pleasure is the substance, not the reward.

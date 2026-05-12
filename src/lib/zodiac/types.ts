@@ -75,11 +75,11 @@ export type ZodiacSchema = {
   dish: string;
   quote: string;
   seasonalFortune: string;
-  dailyLeast: string;
-  dailyLow: string;
-  dailyMid: string;
-  dailyHigh: string;
-  dailyMost: string;
+  facetLeast: string;
+  facetLow: string;
+  facetMid: string;
+  facetHigh: string;
+  facetMost: string;
 };
 
 export type Bean = BeanSchema & { content: string };

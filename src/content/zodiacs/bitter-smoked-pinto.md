@@ -7,11 +7,11 @@ trait: intricate
 dish: Smoked pinto with bitter cacao, finely layered.
 quote: The bean is in the details.
 seasonalFortune: A slow smoke pulls bitterness into depth — the cacao crust holds its structure long past the point where simpler things have dissolved. The season rewards those whose marbling runs all the way through.
-dailyMid: The smoke has settled into the grain; the layering is doing its quiet work beneath the crust.
-dailyHigh: Cacao and char have found each other at the exact stratum where the flavour turns — the structure holds what a quicker hand would miss.
-dailyMost: Unfold every layer — smoke into fat, fat into bean, bean into the fine print of the marbling itself.
-dailyLow: The crust carries the day — smoke at the surface, cacao at the rim, the pinto plain beneath.
-dailyLeast: One note, full pot — the cacao whole, the smoke thin, the marbling a pattern and no more.
+facetMid: The smoke has settled into the grain; the layering is doing its quiet work beneath the crust.
+facetHigh: Cacao and char have found each other at the exact stratum where the flavour turns — the structure holds what a quicker hand would miss.
+facetMost: Unfold every layer — smoke into fat, fat into bean, bean into the fine print of the marbling itself.
+facetLow: The crust carries the day — smoke at the surface, cacao at the rim, the pinto plain beneath.
+facetLeast: One note, full pot — the cacao whole, the smoke thin, the marbling a pattern and no more.
 ---
 
 Charcoal Pinto Beans are the Bean Zodiac's most intricate — their inner landscape is elaborate, and they have been the only one with the map.

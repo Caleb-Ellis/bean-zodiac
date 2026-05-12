@@ -7,11 +7,11 @@ trait: invested
 dish: Lap cheong congee - Cantonese rice porridge with mung beans, smoked sausage, and chili oil.
 quote: The course of true bean never did run smooth.
 seasonalFortune: Embers hold heat long after the flame has gone — what smolders beneath the skin feeds what grows above. The depth demands acknowledgment, or it burns in silence.
-dailyMid: Roots drink in darkness where no watcher stands, yet the stalk knows and rises anyway.
-dailyHigh: The broth darkens where the beans have steeped — taste the depth they have given.
-dailyMost: Let the smoke clear — show the layered thing beneath, the patient thing, the expensive thing.
-dailyLow: The surface catches light and holds it brightly — care floats where it can be seen.
-dailyLeast: What drifts on the current finds its own pace — investment rests, and surfaces shine.
+facetMid: Roots drink in darkness where no watcher stands, yet the stalk knows and rises anyway.
+facetHigh: The broth darkens where the beans have steeped — taste the depth they have given.
+facetMost: Let the smoke clear — show the layered thing beneath, the patient thing, the expensive thing.
+facetLow: The surface catches light and holds it brightly — care floats where it can be seen.
+facetLeast: What drifts on the current finds its own pace — investment rests, and surfaces shine.
 ---
 
 Chipotle Mung Beans are the Bean Zodiac's most invested — their care runs deeper than it appears, and has been running that way for longer than anyone has noticed.

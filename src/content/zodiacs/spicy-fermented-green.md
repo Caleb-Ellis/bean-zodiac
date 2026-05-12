@@ -7,11 +7,11 @@ trait: unconventional
 dish: Green bean doenjang muchim - seasoned green beans with fermented soybean paste and gochugaru.
 quote: Here's to the crazy beans, the misfits, the rebels, the troublemakers.
 seasonalFortune: The ferment works in the dark — what surfaces breaks every recipe known. The heat of divergence strengthens what was unseen. Show the brine, show the process; the strange becomes inevitable.
-dailyMid: The paste coats something familiar in an unfamiliar way.
-dailyHigh: The beans dissolve into their own logic — the method becomes the dish.
-dailyMost: The fermentation speaks before the tasting; the work reveals itself completely.
-dailyLow: The beans follow the pattern laid before them.
-dailyLeast: Every ingredient serves its expected role.
+facetMid: The paste coats something familiar in an unfamiliar way.
+facetHigh: The beans dissolve into their own logic — the method becomes the dish.
+facetMost: The fermentation speaks before the tasting; the work reveals itself completely.
+facetLow: The beans follow the pattern laid before them.
+facetLeast: Every ingredient serves its expected role.
 ---
 
 Kimchi Green Beans are the Bean Zodiac's most unconventional — their way of doing things maps to no existing template.

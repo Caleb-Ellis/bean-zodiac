@@ -7,11 +7,11 @@ trait: chastened
 dish: Butter bean and sun-dried tomato salad with sherry vinegar.
 quote: Experience is simply the name we give our bean.
 seasonalFortune: The sun-dried tomato has collapsed into itself and sharpened. What emerges from vinegar carries the memory of heat that came before. The softness is no longer the point.
-dailyMid: The bean moves with the weight of its own dryness. Caution sits in the ribs where suppleness once lived.
-dailyHigh: The vinegar speaks first, and the bean has already learned to listen. Past temperatures have carved the way.
-dailyMost: What the salad teaches is written in every shriveled surface. The lesson holds.
-dailyLow: The bean swells with new moisture. Crispness softens at the edges; the surface grows tender again.
-dailyLeast: The vinegar has not yet touched this. The tomato is still warm and whole, unshriveled, offering without reservation.
+facetMid: The bean moves with the weight of its own dryness. Caution sits in the ribs where suppleness once lived.
+facetHigh: The vinegar speaks first, and the bean has already learned to listen. Past temperatures have carved the way.
+facetMost: What the salad teaches is written in every shriveled surface. The lesson holds.
+facetLow: The bean swells with new moisture. Crispness softens at the edges; the surface grows tender again.
+facetLeast: The vinegar has not yet touched this. The tomato is still warm and whole, unshriveled, offering without reservation.
 ---
 
 Dehydrated Butter Beans are the Bean Zodiac's most chastened — the ease is gone, the comfort has been questioned, and what remains is more careful.

@@ -82,21 +82,29 @@ export interface DailyFortune {
   handleClose: () => void;
 }
 
-export function useDailyFortune(date: Date, claimedSlug: ZodiacId): DailyFortune {
+export function useDailyFortune(
+  date: Date,
+  claimedSlug: ZodiacId,
+): DailyFortune {
   const localDateStr = formatLocalDate(date);
 
   const yesterday = new Date(date);
   yesterday.setDate(yesterday.getDate() - 1);
-  const spiritScores = computeSpiritBeanScores(claimedSlug, formatLocalDate(yesterday));
+  const spiritScores = computeSpiritBeanScores(
+    claimedSlug,
+    formatLocalDate(yesterday),
+  );
   const spiritSlug = getSpiritZodiacId(spiritScores);
-  const { zodiacId: fortuneZodiacId, qualityId } = getDailyFortuneIds(date, spiritSlug);
-  const [fortuneFlavourId, fortuneFormId, fortuneBeanId] = fortuneZodiacId.split("-") as [
-    FlavourId,
-    FormId,
-    BeanId,
-  ];
+  const { zodiacId: fortuneZodiacId, qualityId } = getDailyFortuneIds(
+    date,
+    spiritSlug,
+  );
+  const [fortuneFlavourId, fortuneFormId, fortuneBeanId] =
+    fortuneZodiacId.split("-") as [FlavourId, FormId, BeanId];
 
-  const initialEntry = useStore.getState().fortuneHistory.find((e) => e.date === localDateStr);
+  const initialEntry = useStore
+    .getState()
+    .fortuneHistory.find((e) => e.date === localDateStr);
   const initialScore = initialEntry?.score ?? 0;
   const initiallyScored = initialScore !== 0;
 
@@ -168,7 +176,9 @@ export function useDailyFortune(date: Date, claimedSlug: ZodiacId): DailyFortune
       setScore(newScore);
       setScored(true);
       if (fortuneZodiac) {
-        setScoredText(buildScoredText(fortuneZodiac.trait, newScore, qualityId));
+        setScoredText(
+          buildScoredText(fortuneZodiac.trait, newScore, qualityId),
+        );
       }
       markSeen();
       applyQuality();
@@ -192,7 +202,9 @@ export function useDailyFortune(date: Date, claimedSlug: ZodiacId): DailyFortune
     setDialogOpen(false);
   };
 
-  const fortuneText = fortuneZodiac ? getFortuneText(fortuneZodiac, qualityId) : null;
+  const fortuneText = fortuneZodiac
+    ? getFortuneText(fortuneZodiac, qualityId)
+    : null;
 
   return {
     fortuneZodiacId,

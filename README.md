@@ -50,7 +50,7 @@ Markdown lives in `src/content/`. The build script (`scripts/build-content.mjs`)
 - **`beans/`** — 12 files (name, tagline, traits[], color, imageFile)
 - **`flavours/`** — 5 files (name, character, traits[], color)
 - **`forms/`** — 6 files: boiled, dried, fermented, fried, roasted, smoked (name, tagline, traits[])
-- **`zodiacs/`** — 360 files, filename `{flavour}-{form}-{bean}.md`, frontmatter: slug, bean, flavour, form, trait, dish, quote, seasonalFortune, dailyMid, dailyHigh, dailyMost, dailyLow, dailyLeast.
+- **`zodiacs/`** — 360 files, filename `{flavour}-{form}-{bean}.md`, frontmatter: slug, bean, flavour, form, trait, dish, quote, seasonalFortune, facetMid, facetHigh, facetMost, facetLow, facetLeast.
 
 ### Pages
 
@@ -67,11 +67,11 @@ Markdown lives in `src/content/`. The build script (`scripts/build-content.mjs`)
 
 Each zodiac has one `seasonalFortune` and five daily fortunes:
 
-- `dailyMid` — mild expression of the trait
-- `dailyHigh` — medium expression of the trait
-- `dailyMost` — strong expression of the trait
-- `dailyLow` — mild expression of the opposite of the trait (e.g. if trait is "courageous" this is could be "cowardly")
-- `dailyLeast` — medium expression of the opposite of the trait
+- `facetMid` — mild expression of the trait
+- `facetHigh` — medium expression of the trait
+- `facetMost` — strong expression of the trait
+- `facetLow` — mild expression of the opposite of the trait (e.g. if trait is "courageous" this is could be "cowardly")
+- `facetLeast` — medium expression of the opposite of the trait
 
 The daily fortune selected is influenced by the user's claimed/spirit bean, the current season, and a random daily bean.
 

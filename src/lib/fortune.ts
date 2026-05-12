@@ -32,17 +32,17 @@ const daysSinceOrigin = (date: Date): number =>
   Math.floor((date.getTime() - ORIGIN_DATE.getTime()) / 86_400_000);
 
 const qualityFromSlot = (r: number): QualityId => {
-  if (r < 1) return QualityIds.Heirloom;
-  if (r < 3) return QualityIds.Market;
-  if (r < 7) return QualityIds.Garden;
-  if (r < 9) return QualityIds.Stale;
+  if (r === 0) return QualityIds.Heirloom;
+  if (r === 1) return QualityIds.Market;
+  if (r === 2) return QualityIds.Garden;
+  if (r === 3) return QualityIds.Stale;
   return QualityIds.Rotten;
 };
 
 const getQualityForSlug = (slug: string, date: Date): QualityId => {
   let h = daysSinceOrigin(date);
   for (const c of slug) h = (Math.imul(h, 31) + c.charCodeAt(0)) >>> 0;
-  return qualityFromSlot(h % 10);
+  return qualityFromSlot(h % 5);
 };
 
 const getDailyDimensions = (date: Date): DailyDimensions => {
@@ -117,11 +117,11 @@ export const getFortuneText = (
   zodiac: Zodiac,
   qualityId: QualityId,
 ): string => {
-  if (qualityId === QualityIds.Heirloom) return zodiac.dailyMost;
-  if (qualityId === QualityIds.Market) return zodiac.dailyHigh;
-  if (qualityId === QualityIds.Stale) return zodiac.dailyLow;
-  if (qualityId === QualityIds.Rotten) return zodiac.dailyLeast;
-  return zodiac.dailyMid;
+  if (qualityId === QualityIds.Heirloom) return zodiac.facetMost;
+  if (qualityId === QualityIds.Market) return zodiac.facetHigh;
+  if (qualityId === QualityIds.Stale) return zodiac.facetLow;
+  if (qualityId === QualityIds.Rotten) return zodiac.facetLeast;
+  return zodiac.facetMid;
 };
 
 export const getDailyFortuneIds = (

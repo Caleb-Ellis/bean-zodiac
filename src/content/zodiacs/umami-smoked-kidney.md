@@ -7,11 +7,11 @@ trait: seething
 dish: Red beans and rice - Louisiana kidney beans with smoked andouille, celery, and bay leaf.
 quote: Full of sound and bean, signifying everything.
 seasonalFortune: The smoke has been gathering in the chamber long enough that the walls have absorbed it — this season asks whether the heat will finally find an opening or settle into the grain.
-dailyMid: The flavor deepens where water could not reach.
-dailyHigh: Embers hold their shape longest in the darkest chambers.
-dailyMost: The kitchen knows what the mouth has not yet tasted.
-dailyLow: Heat scatters where steam rises fastest.
-dailyLeast: The spice moves through the air before it touches anything.
+facetMid: The flavor deepens where water could not reach.
+facetHigh: Embers hold their shape longest in the darkest chambers.
+facetMost: The kitchen knows what the mouth has not yet tasted.
+facetLow: Heat scatters where steam rises fastest.
+facetLeast: The spice moves through the air before it touches anything.
 ---
 
 Hickory Kidney Beans are the Bean Zodiac's most seething — the passion has gone down to a temperature that is not visible from the surface but can be felt from across the room.

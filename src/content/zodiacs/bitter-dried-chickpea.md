@@ -6,16 +6,16 @@ form: dried
 trait: circumspect
 dish: Ceci in Zimino - chickpeas with bitter chard.
 quote: Look before you bean.
-seasonalFortune: Soak the chickpeas a full night, and a few hours past dawn. The chard, washed, set aside; its stems separated from its leaves, the leaves from the ribs. Nothing meets the pot until each part has been weighed in the hand.
-dailyMid: A chickpea lifted from the bowl, pressed between thumb and finger. Still chalk at the centre. Back into the water.
-dailyHigh: Chard stems thumbed for grit at the base; the bitter ones set aside, the rest cut crosswise and held until the oil has settled around the garlic.
-dailyMost: The pot left at a murmur. Skim, taste, wait. Skim again. A bean split open between the teeth before the lid comes off for good.
-dailyLow: Chickpeas tipped in still firm at the core, chard following whole-leafed and unwashed. The dish eaten leaning on the counter, faster than it was made.
-dailyLeast: Garlic browned past amber, chard thrown over it, water from the kettle. Ceci in Zimino in forty minutes, rougher than it should be, finished before the question was asked.
+seasonalFortune: The chard beneath the surface is beginning to turn — what was kept separate finds itself binding again. The threshold between tasting and consuming grows thin.
+facetMid: The pot hasn't yet boiled. Some beans remain waiting in their examination, unmilled, unbroken.
+facetHigh: The mist still sits between the observer and the observed. Time for another layer of discernment before the flavour deepens.
+facetMost: At this turning, the depth itself is the answer. The chard and the legume are still learning each other — there is no movement until both are ready.
+facetLow: The chickpea goes into the broth before the chard has wilted. The dish arrives at the table still deciding what it is.
+facetLeast: Ceci in Zimino, plated mid-simmer — the chard still sharp, the beans still hard. A commitment made before the conditions were read.
 ---
 
-The Dried Chickpea soaks overnight and then a while longer. It is weighed, split, tasted at the centre before it is allowed near the pot.
+Desiccated Chickpeas are the Bean Zodiac's most circumspect — they move between worlds carefully, committing nothing before the conditions are clear.
 
-Chickpeas hold a room without entering it. Bitter chard rewards the cook who sorts rib from leaf. Dried beans punish haste with chalk and reward the soaker with a broth that thickens of its own accord.
+Chickpeas read any room; Bitter Beans demand discernment before reward; Dried Beans ensure nothing is offered before it has been considered.
 
-The risk is the bowl that never reaches the table — water changed once more, leaf trimmed once more, the fire let go cold. At some hour the pot must be covered and the chard folded in.
+The Desiccated Chickpea's challenge is paralysis by caution. A Bean that never fully enters the room it is standing in belongs to none of them. These Beans must eventually commit to something more than observation.

@@ -6,12 +6,12 @@ form: smoked
 trait: luminous
 dish: Zenzai - sweet adzuki bean soup with smoked brown sugar syrup and toasted mochi.
 quote: We are all in the bean, but some of us are looking at the stars.
-seasonalFortune: The syrup darkens slowly, turning bitter at its sweetest. Root the glow in what can be tasted — luminosity needs a taste to land.
-dailyMid: The steam rises and carries something unseen.
-dailyHigh: Mochi holds light inside itself, soft and glowing.
-dailyMost: The brown sugar caramelizes at the exact moment it becomes radiant.
-dailyLow: The broth settles into itself, obscure and warm.
-dailyLeast: The embers cool to ash — a different kind of presence.
+seasonalFortune: A life lived in the smoke-sweetness of late evening — brown sugar darkening over coals, mochi blistering, the room leaning toward whoever last spoke.
+facetMost: You walk in late and the conversation reorganises around you within a sentence; you didn't ask for it, you don't refuse it.
+facetHigh: Strangers tell you things on the train. You answer like the syrup answers the spoon — slow, dark, holding the heat from earlier.
+facetMid: You wear the one colour everyone notices and forget you're wearing it. Compliments arrive; you accept them like toasted mochi, no ceremony.
+facetLow: You sit at the back of the bar with a paperback. Whoever wants you nearby can cross the room; the coals will keep.
+facetLeast: You pay in cash, leave before the song ends, and the night closes behind you like a lid on a cold pot.
 ---
 
 Barbecued Adzuki Beans are the Bean Zodiac's most luminous — their joy seems to emanate from somewhere deeper than the occasion.

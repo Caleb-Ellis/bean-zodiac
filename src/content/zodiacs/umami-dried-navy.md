@@ -7,11 +7,11 @@ trait: enduring
 dish: Boston baked beans - dried navy beans slow-baked with salt pork, molasses, and mustard.
 quote: Endurance is not just the ability to bean a difficult situation — it is to turn it into glory.
 seasonalFortune: Slow cooking reveals what hurrying would hide — layers deepen under sustained heat.
-dailyMid: The beans soften from within, gaining tenderness that firmness alone cannot achieve.
-dailyHigh: Time's accumulation sweetens the brine — what sits longest becomes most valued.
-dailyMost: The pot holds steady through transformation — nothing emerges untempered by patience.
-dailyLow: The quick sear releases what slow cooking locks in — surfaces matter when time is brief.
-dailyLeast: Fleeting warmth shapes the bean differently — some flavors bloom in the moment alone.
+facetMid: The beans soften from within, gaining tenderness that firmness alone cannot achieve.
+facetHigh: Time's accumulation sweetens the brine — what sits longest becomes most valued.
+facetMost: The pot holds steady through transformation — nothing emerges untempered by patience.
+facetLow: The quick sear releases what slow cooking locks in — surfaces matter when time is brief.
+facetLeast: Fleeting warmth shapes the bean differently — some flavors bloom in the moment alone.
 ---
 
 Aged Navy Beans are the Bean Zodiac's most enduring — still here, still holding, the depth increasing with every season passed.

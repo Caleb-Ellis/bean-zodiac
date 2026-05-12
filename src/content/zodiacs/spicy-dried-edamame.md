@@ -6,12 +6,12 @@ form: dried
 trait: caustic
 dish: Dried edamame with shichimi togarashi and yuzu salt.
 quote: Be yourself; everyone else is already beaned.
-seasonalFortune: The citrus rises before the dust settles. What burns away reveals what endures — and what breaks when clarity comes too swift.
-dailyMid: Salt crystals catch the light before dissolving. The edge finds its mark, but the landing softens.
-dailyHigh: Shichimi uncoils across the palate — layers of heat in perfect sequence. Each note arrives where it belongs.
-dailyMost: The pod splits clean. Nothing wasted, everything necessary, the strike and the aftermath both visible and true.
-dailyLow: The spice diffuses slowly through the whole dish. Many paths through the heat; multiple endings possible.
-dailyLeast: Edges blur where clarity once cut. The flavor lingers but the contour dissolves.
+seasonalFortune: A year cured down to what holds. The unneeded falls away like husks; what remains is salted, sharp, and keeps through every weather.
+facetMost: The receipt is wrong by eighty cents. You point at the line before the server has finished setting down the water.
+facetHigh: Three drafts arrive in your inbox. You reply to each with the sentence that goes slack — shichimi first, the rest of the note after.
+facetMid: A housemate asks which lamp to keep. You weigh it a beat, then say the brass one, plainly; the other goes to the curb by morning.
+facetLow: The text sits in drafts overnight. By breakfast you have salted three sentences out of it and the pod sends whole.
+facetLeast: A stranger on the platform reads the timetable wrong aloud. You hear it, say nothing, and watch your own train pull in.
 ---
 
 Sichuan Edamame are the Bean Zodiac's most caustic — efficient, direct, and not always aware of what the efficiency costs.

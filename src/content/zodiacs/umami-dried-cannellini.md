@@ -7,11 +7,11 @@ trait: distinguished
 dish: Ribollita - dried cannellini and bread soup with Parmesan rind and lacinato kale.
 quote: A bean is known by the company it keeps.
 seasonalFortune: Slow reduction concentrates the essence. What settles at the bottom asks for recognition — whether by deepening roots or by finally dissolving.
-dailyMid: The grain holds its own weight in the broth.
-dailyHigh: Parmesan rind melts into the whole; distinction becomes the medium, not the message.
-dailyMost: The kale knows which depths to seek. What rises to the surface has already claimed its place.
-dailyLow: The beans scatter through bread — presence without arrangement.
-dailyLeast: Everything flavors everything else equally. The boundaries blur into flavor.
+facetMid: The grain holds its own weight in the broth.
+facetHigh: Parmesan rind melts into the whole; distinction becomes the medium, not the message.
+facetMost: The kale knows which depths to seek. What rises to the surface has already claimed its place.
+facetLow: The beans scatter through bread — presence without arrangement.
+facetLeast: Everything flavors everything else equally. The boundaries blur into flavor.
 ---
 
 Aged Cannellini Beans are the Bean Zodiac's most distinguished — depth and refinement in combination, accumulated quietly over time.

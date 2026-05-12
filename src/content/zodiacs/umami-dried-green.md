@@ -6,12 +6,12 @@ form: dried
 trait: potent
 dish: Dried green beans rehydrated and dressed with anchovy, capers, and garlic.
 quote: Great beans from little beans do grow.
-seasonalFortune: The aged salt holds what it promises — deep enough that a single grain reshapes the whole season's taste.
-dailyMid: The anchovy dissolves without announcing itself, yet everything tastes like it.
-dailyHigh: The caper bursts — small and hard and precisely placed, it alters the entire bite.
-dailyMost: Concentrate it. One spoon of this brine waters the whole garden.
-dailyLow: The garlic spreads evenly through the broth — present everywhere, claimed nowhere.
-dailyLeast: The seasoning becomes the water; the drinker forgets there was ever anything added.
+seasonalFortune: A season that asks for less and gives back more; the dried bean takes its slow water and returns weightier than it left.
+facetMost: One sentence in the group thread, then silence for a week. The room keeps re-reading it.
+facetHigh: You send the short reply and put the phone down. Whatever answer comes back arrives shaped by your three words.
+facetMid: Your apologies are a single line; you do not garnish them. The other person finds themselves nodding hours later.
+facetLow: At the stove you keep adding — another clove, another caper, a second pinch — until every spoonful tastes like the last.
+facetLeast: You leave the house with nothing planned and come back with nothing to report. The day rehydrates you and asks for nothing in return.
 ---
 
 Aged Green Beans are the Bean Zodiac's most potent — the freshness has been aged, the urgency concentrated, and the result is something with real force.

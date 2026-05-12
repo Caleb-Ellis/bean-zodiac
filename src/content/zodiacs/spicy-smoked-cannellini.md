@@ -7,11 +7,11 @@ trait: trenchant
 dish: Cazuela de alubias - Castilian white bean stew with smoked chorizo and pimentón ahumado.
 quote: Out of the frying pan and into the bean.
 seasonalFortune: The smoke reveals distinctions others miss — what holds flavor, what merely fills space. This season demands knowing the difference, and holding it. The risk lies in forgetting why the cut was necessary at all.
-dailyMid: Smoke lingers on the surface; beneath, the grain separates itself.
-dailyHigh: The rim of the bowl holds the essence; the center falls away clean.
-dailyMost: The smoke remembers only what matters. Everything else evaporates.
-dailyLow: Flavors merge at the edges; boundaries soften and blur.
-dailyLeast: The broth diffuses through each bean, indistinct — nothing stands apart.
+facetMid: Smoke lingers on the surface; beneath, the grain separates itself.
+facetHigh: The rim of the bowl holds the essence; the center falls away clean.
+facetMost: The smoke remembers only what matters. Everything else evaporates.
+facetLow: Flavors merge at the edges; boundaries soften and blur.
+facetLeast: The broth diffuses through each bean, indistinct — nothing stands apart.
 ---
 
 Chipotle Cannellini Beans are the Bean Zodiac's most trenchant — their refinement has found a precision that cuts clean and lingers.

@@ -7,11 +7,11 @@ trait: introverted
 dish: Navy bean and cultured butter pudding — beans baked slowly in a custard of fermented cream, sugar, and vanilla.
 quote: I am a bean of solitude; the fire of thought does not require witnesses.
 seasonalFortune: The custard thickens from within, and in thickening becomes legible to those who taste it. This season asks the cream what it has learned in darkness.
-dailyMid: Sweetness deepens where light cannot reach; the pudding knows this.
-dailyHigh: The butter holds its memory — each fold contains a season.
-dailyMost: Fermentation is conversation between what was and what arrives; the bean listens both ways.
-dailyLow: The surface seeks the air, the spoon meets it halfway.
-dailyLeast: What ferments alone still becomes — the vessel opens to exchange.
+facetMid: Sweetness deepens where light cannot reach; the pudding knows this.
+facetHigh: The butter holds its memory — each fold contains a season.
+facetMost: Fermentation is conversation between what was and what arrives; the bean listens both ways.
+facetLow: The surface seeks the air, the spoon meets it halfway.
+facetLeast: What ferments alone still becomes — the vessel opens to exchange.
 ---
 
 Funky Navy Beans are the Bean Zodiac's most introverted — they live comfortably in a rich inner world.

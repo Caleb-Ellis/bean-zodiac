@@ -7,11 +7,11 @@ trait: foundational
 dish: Hoshi edamame gohan - dried edamame and dried shiitake cooked into dashi rice.
 quote: Well-beaned is half done.
 seasonalFortune: In the dashi broth, all flavors settle to their necessary depth. What remains when the water has evaporated is what was always meant to stay.
-dailyMid: The grain rests on layers of invisible work. The rice remembers who held it up.
-dailyHigh: Stack what you can atop the umami bed — it will not shift beneath the weight.
-dailyMost: The dashi knows its own depth. Clarity comes from the patient sinking of things.
-dailyLow: The surface glitters with what floats. Some prefer the view from above the broth.
-dailyLeast: A meal without layers is light on the tongue — perhaps easier, but the palate forgets it soon.
+facetMid: The grain rests on layers of invisible work. The rice remembers who held it up.
+facetHigh: Stack what you can atop the umami bed — it will not shift beneath the weight.
+facetMost: The dashi knows its own depth. Clarity comes from the patient sinking of things.
+facetLow: The surface glitters with what floats. Some prefer the view from above the broth.
+facetLeast: A meal without layers is light on the tongue — perhaps easier, but the palate forgets it soon.
 ---
 
 Aged Edamame are the Bean Zodiac's most foundational — they are the thing under the thing, holding the structure without requiring credit for it.

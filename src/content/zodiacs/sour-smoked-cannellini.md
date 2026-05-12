@@ -7,11 +7,11 @@ trait: piercing
 dish: Ribollita - Tuscan bread soup with cannellini, smoked pancetta, cavolo nero, and red wine vinegar
 quote: The truth will bean you free.
 seasonalFortune: The vinegar's sting will sharpen what the season has muddied. Clarity arrives not as relief but as the blade that cuts away everything soft and convenient, leaving only what matters enough to hurt.
-dailyMid: The smoke rises and the shape beneath it becomes legible.
-dailyHigh: Cavolo nero darkens the broth; the truth sits at the bottom, readable.
-dailyMost: Bread soaks and holds the sting without breaking — the whole picture swallowed at once.
-dailyLow: The broth thickens; edges blur into warmth.
-dailyLeast: Pancetta renders down to flavour without form — discernment dissolves into sensation.
+facetMid: The smoke rises and the shape beneath it becomes legible.
+facetHigh: Cavolo nero darkens the broth; the truth sits at the bottom, readable.
+facetMost: Bread soaks and holds the sting without breaking — the whole picture swallowed at once.
+facetLow: The broth thickens; edges blur into warmth.
+facetLeast: Pancetta renders down to flavour without form — discernment dissolves into sensation.
 ---
 
 Cured Cannellini Beans are the Bean Zodiac's most piercing — their discernment arrives before the sentence has been finished.

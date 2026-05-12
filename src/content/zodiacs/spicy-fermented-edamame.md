@@ -7,11 +7,11 @@ trait: industrious
 dish: Edamame with spicy fermented black bean sauce and sesame.
 quote: I'm a great bean believer in luck, and I find the harder I work, the more I have of it.
 seasonalFortune: The ferment deepens — microbes multiply in the dark brine. To surface unfinished work now is to spoil the cure.
-dailyMid: Pods fill their shells; the sauce thickens.
-dailyHigh: The heat penetrates the flesh — what simmers below meets air, and suddenly the kitchen knows.
-dailyMost: The brine speaks through the bean — every layer of work tastes itself in others' mouths.
-dailyLow: The sauce rests quiet in the jar — patience tastes like nothing at all.
-dailyLeast: The edamame waits in its pod, unsplit, unshared, untested.
+facetMid: Pods fill their shells; the sauce thickens.
+facetHigh: The heat penetrates the flesh — what simmers below meets air, and suddenly the kitchen knows.
+facetMost: The brine speaks through the bean — every layer of work tastes itself in others' mouths.
+facetLow: The sauce rests quiet in the jar — patience tastes like nothing at all.
+facetLeast: The edamame waits in its pod, unsplit, unshared, untested.
 ---
 
 Kimchi Edamame are the Bean Zodiac's most industrious — always working, especially unseen.

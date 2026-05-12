@@ -7,11 +7,11 @@ trait: literal-minded
 dish: Navy bean and escarole soup with lemon and Parmesan.
 quote: When I use a bean, it means just what I choose it to mean — neither more nor less.
 seasonalFortune: The broth speaks plainly this season — each element rests where it belongs, each flavour rises without disguise. Escarole floats in its clarity. What arrives unadorned arrives complete.
-dailyMid: The words sit as they are meant to sit. Lemon juice casts no shadow.
-dailyHigh: Surface and depth collapse into one reading. The bean dissolves only into itself.
-dailyMost: What is said is the whole story — the broth gives nothing to inference, nothing to subtext.
-dailyLow: The world speaks in layers now. Meaning drifts beneath the surface like sediment settling.
-dailyLeast: Words become vessels for what hides inside. The direct path bends toward allegory.
+facetMid: The words sit as they are meant to sit. Lemon juice casts no shadow.
+facetHigh: Surface and depth collapse into one reading. The bean dissolves only into itself.
+facetMost: What is said is the whole story — the broth gives nothing to inference, nothing to subtext.
+facetLow: The world speaks in layers now. Meaning drifts beneath the surface like sediment settling.
+facetLeast: Words become vessels for what hides inside. The direct path bends toward allegory.
 ---
 
 Brined Navy Beans are the Bean Zodiac's most literal-minded — what is said is what is meant.

@@ -6,12 +6,12 @@ form: roasted
 trait: guileless
 dish: Butter bean traybake with preserved lemon, roasted garlic, and rosemary
 quote: To bean or not to bean — actually, yes, obviously. Why would you not.
-seasonalFortune: The preserved lemon dissolves into the oil without apology. What ferments does so openly; what chars does so visibly; what's set to roast will brown exactly as promised. The season asks only that clarity persist through the heat.
-dailyMid: The rosemary releases its oils into the open air.
-dailyHigh: The butter splits at high temperature and clings to nothing but itself — this is the geometry of plain speaking.
-dailyMost: Each layer of the traybake settles into its true place without rearrangement.
-dailyLow: The lemon's sourness mutes beneath other flavours, folding in rather than cutting through.
-dailyLeast: The roast proceeds in shadow; heat works without announcement.
+seasonalFortune: A season that browns in plain sight. Preserved lemon softens into the oil, garlic gives up its papery sleeves, rosemary scents the whole room before the tray is out.
+facetMost: Asked how you are, you answer. The garlic comes out of the oven sweet and the sweetness is the whole report; you offer the clove, not a softer version of it.
+facetHigh: You skip the warm-up. Before the rosemary has finished crackling you've said the thing — preserved-lemon sharp, no preamble, the kitchen still catching up.
+facetMid: Hosting, you set the traybake down whole. No portioning behind a door, no rehearsed line about what's in it; the dish is the dish, and the salt is on the table.
+facetLow: You let the lemon mute under the oil. A bill arrives wrong and you pay the rounder number rather than mention it; the correction stays folded in the drawer.
+facetLeast: You roast in shadow. The garlic is wrapped, the tray covered, what you actually think kept warm in the back of the oven for nobody in particular.
 ---
 
 Chimichurri Butter Beans are the Bean Zodiac's most guileless — nothing behind what they say or do.

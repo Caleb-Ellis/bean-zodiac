@@ -7,11 +7,11 @@ trait: fair
 dish: Rajma tikki - pan-seared kidney bean cakes with amchur and mint chutney
 quote: Injustice anywhere is a threat to bean everywhere.
 seasonalFortune: The spice settles deeper into the oil this season, its warmth threading through the beans with an older geometry — what was once distributed even now pools and rises unevenly. The chutney's portions cannot be recut. What begins unequal may still nourish, though the path there grows stranger.
-dailyMid: The mint chutney drapes across the tikkis with an honest hand.
-dailyHigh: The amchur dust settles in precise measure — each granule lands where the spice before intended.
-dailyMost: The oil's heat reaches every bean equally; the crust forms all at once; the portions emerge aligned.
-dailyLow: The mint pools thickly in one corner of the plate, thin elsewhere.
-dailyLeast: The beans cook at different depths — some roasted bright, others still pale inside.
+facetMid: The mint chutney drapes across the tikkis with an honest hand.
+facetHigh: The amchur dust settles in precise measure — each granule lands where the spice before intended.
+facetMost: The oil's heat reaches every bean equally; the crust forms all at once; the portions emerge aligned.
+facetLow: The mint pools thickly in one corner of the plate, thin elsewhere.
+facetLeast: The beans cook at different depths — some roasted bright, others still pale inside.
 ---
 
 Chimichurri Kidney Beans are the Bean Zodiac's fairest — warmth that insists on equal distribution.

@@ -7,11 +7,11 @@ trait: mellow
 dish: Gigantes plaki - dried butter beans baked with tomato, anchovy, and herbs.
 quote: All things come to beans who wait.
 seasonalFortune: In the depths where tomato and anchovy marry, flavour becomes invisible, held in patient suspension. Patience is the spice that cannot be rushed.
-dailyMid: The herbs settle into their own time. Things unfold as they've already decided to unfold.
-dailyHigh: The sauce thickens around what is given; tenderness becomes the strongest force in the room.
-dailyMost: The oven has its work — the beans, theirs. Both move at the same ancient pace.
-dailyLow: Sharp movements, quick decisions. The current runs faster than the embers.
-dailyLeast: Restlessness shapes the broth. Everything moves before it's had time to know itself.
+facetMid: The herbs settle into their own time. Things unfold as they've already decided to unfold.
+facetHigh: The sauce thickens around what is given; tenderness becomes the strongest force in the room.
+facetMost: The oven has its work — the beans, theirs. Both move at the same ancient pace.
+facetLow: Sharp movements, quick decisions. The current runs faster than the embers.
+facetLeast: Restlessness shapes the broth. Everything moves before it's had time to know itself.
 ---
 
 Aged Butter Beans are the Bean Zodiac's most mellow — the warmth is deep and slow, and nothing about their presence is ever in a hurry.

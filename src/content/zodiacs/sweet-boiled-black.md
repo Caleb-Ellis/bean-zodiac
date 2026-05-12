@@ -7,11 +7,11 @@ trait: steadfast
 dish: Frijoles de olla con piloncillo — black beans slow-boiled with raw cane sugar and a cinnamon stick.
 quote: Not all those who wander are beans.
 seasonalFortune: In seasons of turning, the slowest-cooked thing remains itself. Piloncillo dissolves but the beans endure — this is the steadfast paradox.
-dailyMid: The center holds, and the spice settles deeper.
-dailyHigh: The sweetness comes from what stayed long enough in the heat.
-dailyMost: The water boils but the bean does not break — there is a science to this constancy.
-dailyLow: The current shifts; the bean drifts, lighter in the broth.
-dailyLeast: Everything rearranges, and the bean finds itself elsewhere.
+facetMid: The center holds, and the spice settles deeper.
+facetHigh: The sweetness comes from what stayed long enough in the heat.
+facetMost: The water boils but the bean does not break — there is a science to this constancy.
+facetLow: The current shifts; the bean drifts, lighter in the broth.
+facetLeast: Everything rearranges, and the bean finds itself elsewhere.
 ---
 
 Candied Black Beans are the Bean Zodiac's most steadfast — steadiness through temperament, not discipline.

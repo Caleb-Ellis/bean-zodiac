@@ -7,11 +7,11 @@ trait: distractible
 dish: Pinto bean sopapillas — fried puffed pastry with sweet pinto bean paste inside, drizzled with honey at the table.
 quote: A bean divided against itself cannot bean.
 seasonalFortune: The honey settles before the paste hardens — which sweetness will you follow to its end?
-dailyMid: The filling reveals itself in layers; the threads of interest hold their weight.
-dailyHigh: The pastry puffs open — one direction yields depths the scatter could not reach.
-dailyMost: Every puff carries the paste to a different mouth; the fractured path completes the taste.
-dailyLow: The honey pools in stillness; one canal catches all the light.
-dailyLeast: The pastry refuses to rise without a single heat.
+facetMid: The filling reveals itself in layers; the threads of interest hold their weight.
+facetHigh: The pastry puffs open — one direction yields depths the scatter could not reach.
+facetMost: Every puff carries the paste to a different mouth; the fractured path completes the taste.
+facetLow: The honey pools in stillness; one canal catches all the light.
+facetLeast: The pastry refuses to rise without a single heat.
 ---
 
 Caramelised Pinto Beans are the Bean Zodiac's most distractible — genuinely interested in everything, which is the same as being focused on nothing.

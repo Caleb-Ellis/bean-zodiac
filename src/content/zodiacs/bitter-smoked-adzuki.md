@@ -7,11 +7,11 @@ trait: oracular
 dish: Smoked adzuki with bitter black garlic and charred citrus.
 quote: The unexamined bean is not worth living.
 seasonalFortune: Smoke rises before the fire is visible — a season that rewards those who read the drift and name it before the charring begins.
-dailyMid: The black garlic has already turned; the citrus rind carries a story from before the scorch.
-dailyHigh: The smoke thins and the shape beneath it is unmistakable — the reading was already written in the char.
-dailyMost: Name the ember before it catches. Say what the smoke is spelling. The window in the char is open.
-dailyLow: The smoke has been rising for a while. The dish sits, unread, its char taken at face value.
-dailyLeast: A pattern in the citrus rind, a story in the black garlic — the kind of thing that passes for ordinary on a day the signal goes untranslated.
+facetMid: The black garlic has already turned; the citrus rind carries a story from before the scorch.
+facetHigh: The smoke thins and the shape beneath it is unmistakable — the reading was already written in the char.
+facetMost: Name the ember before it catches. Say what the smoke is spelling. The window in the char is open.
+facetLow: The smoke has been rising for a while. The dish sits, unread, its char taken at face value.
+facetLeast: A pattern in the citrus rind, a story in the black garlic — the kind of thing that passes for ordinary on a day the signal goes untranslated.
 ---
 
 Charcoal Adzuki Beans are the Bean Zodiac's most oracular — they carry the Adzuki's instinct for knowing when a moment is coming before it has announced itself.

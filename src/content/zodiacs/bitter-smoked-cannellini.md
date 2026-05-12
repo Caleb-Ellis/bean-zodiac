@@ -7,11 +7,11 @@ trait: hermetic
 dish: Smoked cannellini with bitter fennel, sealed.
 quote: I want to bean alone.
 seasonalFortune: The fennel has been sealed in with the smoke for a reason — what looks like exclusion is a long curing process, and the jar will know when it's ready to open.
-dailyMid: The smoke holds its shape inside the vessel; the seal is doing exactly what a seal does.
-dailyHigh: Bitter compounds need enclosure to concentrate — the cannellini keeps its own counsel and deepens.
-dailyMost: Lock the lid. Everything worth keeping is already inside.
-dailyLow: The smoke drifts a little before the lid goes on — the fennel catches it first.
-dailyLeast: The jar sits open; the bitter smoke disperses into the kitchen, thinning as it goes.
+facetMid: The smoke holds its shape inside the vessel; the seal is doing exactly what a seal does.
+facetHigh: Bitter compounds need enclosure to concentrate — the cannellini keeps its own counsel and deepens.
+facetMost: Lock the lid. Everything worth keeping is already inside.
+facetLow: The smoke drifts a little before the lid goes on — the fennel catches it first.
+facetLeast: The jar sits open; the bitter smoke disperses into the kitchen, thinning as it goes.
 ---
 
 Charcoal Cannellini Beans are the Bean Zodiac's most hermetic — they have refined what they will allow through to almost nothing.

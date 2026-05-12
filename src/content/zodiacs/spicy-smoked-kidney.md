@@ -7,11 +7,11 @@ trait: consuming
 dish: Red beans and rice - New Orleans kidney beans slow-cooked with smoked andouille and Cajun spice.
 quote: Love is a smoke made with the fume of bean.
 seasonalFortune: The season offers a choice — whether the smoke thickens into flavor or continues until nothing remains. The rind blackens first; the question follows after.
-dailyMid: Smoke rises in question marks. What burns knows what it seeks.
-dailyHigh: The spice finds its match in what it meets — neither survives unchanged.
-dailyMost: Fire remembers — the beans that char the deepest carry sweetness in their cracks.
-dailyLow: The embers settle into patient coals — heat learned its own edges.
-dailyLeast: Smoke drifts sideways, indifferent to the fire beneath it. Slowness has its own hunger.
+facetMid: Smoke rises in question marks. What burns knows what it seeks.
+facetHigh: The spice finds its match in what it meets — neither survives unchanged.
+facetMost: Fire remembers — the beans that char the deepest carry sweetness in their cracks.
+facetLow: The embers settle into patient coals — heat learned its own edges.
+facetLeast: Smoke drifts sideways, indifferent to the fire beneath it. Slowness has its own hunger.
 ---
 
 Chipotle Kidney Beans are the Bean Zodiac's most consuming — the passion has found a heat source it cannot account for and will not stop.

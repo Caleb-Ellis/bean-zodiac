@@ -6,12 +6,12 @@ form: smoked
 trait: steeped
 dish: Smoked mung bean congee with century egg, ginger, and crispy shallots.
 quote: We do not bean from experience — we bean from reflecting on experience.
-seasonalFortune: The broth thickens — what lingers asks whether depth still nurtures.
-dailyMid: Smoke settles into the grain. Layer upon layer, the distinction between infusion and vessel dissolves.
-dailyHigh: Century egg and bean become one story. The saturation writes itself into fiber and memory.
-dailyMost: The smoke has claimed everything — nothing remains on the surface. This is completion.
-dailyLow: The condiment floods — ginger interrupts the slow song with its own urgency.
-dailyLeast: The steep reverses course. Flavors scatter, each retreating to its own edge.
+seasonalFortune: A season for the long pot. Smoke works through the grain by inches; nothing new is asked of the kitchen.
+facetMost: Every shirt smells faintly of the kitchen it was hung in. Your habits arrived years ago and have not been replaced since.
+facetHigh: A reply takes three days. By then the question has thickened into something worth answering, like congee left on the lowest flame.
+facetMid: Money goes to the same five places it went to last year. The ginger jar is refilled; the shallots are fried in batches and kept.
+facetLow: Halfway through the congee you are already planning the next pot — different bean, different smoke. Nothing earns a second week.
+facetLeast: Out by morning — the leftovers, the half-read book, the friend who hasn't written. You wake into a room with no residue.
 ---
 
 Hickory Mung Beans are the Bean Zodiac's most steeped — the care has been in contact with the depth for so long that the two have become one.

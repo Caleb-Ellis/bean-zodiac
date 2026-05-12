@@ -7,11 +7,11 @@ trait: timeless
 dish: Boston baked beans - navy beans slow-cooked with smoked salt pork, molasses, and mustard.
 quote: Time is a flat bean.
 seasonalFortune: Smoke settles slowly — what lies beneath emerges only in patience. The molasses darkens and deepens; the salt holds fast through seasons yet to come.
-dailyMid: The brine remembers itself. Each layer adds weight.
-dailyHigh: Layered and slow — the bean knows itself through time. Nothing essential burns away.
-dailyMost: The pot asks nothing but consistency. What transforms through heat becomes truer.
-dailyLow: The fresh snap — before the slow burn, before the cure. Brightness lives elsewhere today.
-dailyLeast: Quick, bright flavours bloom without need for depth. The harvest speaks for itself.
+facetMid: The brine remembers itself. Each layer adds weight.
+facetHigh: Layered and slow — the bean knows itself through time. Nothing essential burns away.
+facetMost: The pot asks nothing but consistency. What transforms through heat becomes truer.
+facetLow: The fresh snap — before the slow burn, before the cure. Brightness lives elsewhere today.
+facetLeast: Quick, bright flavours bloom without need for depth. The harvest speaks for itself.
 ---
 
 Hickory Navy Beans are the Bean Zodiac's most timeless — their reliability has gone deep enough that it feels like it predates any particular instance of it.

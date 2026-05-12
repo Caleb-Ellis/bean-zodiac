@@ -7,11 +7,11 @@ trait: dutiful
 dish: White bean and lemon pound cake — dried navy beans cooked and blended into batter, lending the crumb a quiet density you cannot quite name.
 quote: Ask not what your bean can do for you — ask what you can do for your bean.
 seasonalFortune: The structure holds because of what's been given — the recipe asks — will it continue?
-dailyMid: The crumb remembers what was folded in.
-dailyHigh: Density becomes the thing that cannot be removed — what was added has become essential.
-dailyMost: The batter thickens where it was stirred.
-dailyLow: The cake rises without the weight beneath it.
-dailyLeast: A meal gets prepared from habit, the hands moving through the motions — the hunger is elsewhere.
+facetMid: The crumb remembers what was folded in.
+facetHigh: Density becomes the thing that cannot be removed — what was added has become essential.
+facetMost: The batter thickens where it was stirred.
+facetLow: The cake rises without the weight beneath it.
+facetLeast: A meal gets prepared from habit, the hands moving through the motions — the hunger is elsewhere.
 ---
 
 Crystallised Navy Beans are the Bean Zodiac's most dutiful — they will be here, doing this, for as long as it needs doing.

@@ -7,11 +7,11 @@ trait: magnetic
 dish: Frijoles negros enchipotlados - black beans roasted and simmered in chipotle adobo.
 quote: Some beans walk in the rain, others just get wet.
 seasonalFortune: The embers hold their shape longest when the circle widens—intention braids with circumstance, and what settles becomes the season's seasoning.
-dailyMid: Smoke finds the spaces where it wants to linger.
-dailyHigh: The char marks where heat and bean converge; nothing passes through without imprinting.
-dailyMost: Each element bent toward the center — the flame knows exactly where to darken.
-dailyLow: The beans cool in their own stillness, each one distinct in shadow.
-dailyLeast: The spice moves through air on its own path, unbounded and dispersing.
+facetMid: Smoke finds the spaces where it wants to linger.
+facetHigh: The char marks where heat and bean converge; nothing passes through without imprinting.
+facetMost: Each element bent toward the center — the flame knows exactly where to darken.
+facetLow: The beans cool in their own stillness, each one distinct in shadow.
+facetLeast: The spice moves through air on its own path, unbounded and dispersing.
 ---
 
 Peri-Peri Black Beans are the Bean Zodiac's most magnetic — something in the room orients toward them.

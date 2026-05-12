@@ -7,11 +7,11 @@ trait: zealous
 dish: Sichuan boiled green beans with doubanjiang and peppercorn.
 quote: I have nothing to offer but bean, toil, tears and sweat.
 seasonalFortune: The flame that rises through generations finds its shape in silence between them — what burns today cools into kindling for tomorrow's hands.
-dailyMid: The peppercorn's fire gathers in the pod.
-dailyHigh: Steam carries the heat upward; the dish transcends the vessel.
-dailyMost: Every grain of doubanjiang dissolves into the broth — nothing withheld.
-dailyLow: The spice settles; the broth becomes still and clear.
-dailyLeast: The greens soften into their own quiet color.
+facetMid: The peppercorn's fire gathers in the pod.
+facetHigh: Steam carries the heat upward; the dish transcends the vessel.
+facetMost: Every grain of doubanjiang dissolves into the broth — nothing withheld.
+facetLow: The spice settles; the broth becomes still and clear.
+facetLeast: The greens soften into their own quiet color.
 ---
 
 Braised Green Beans are the Bean Zodiac's most zealous — they have a cause and the heat to see it through.

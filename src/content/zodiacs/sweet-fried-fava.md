@@ -7,11 +7,11 @@ trait: daring
 dish: Sfinci di fave — Sicilian fried dough puffs filled with sweetened fava bean paste and dusted with icing sugar.
 quote: Fortune befriends the bean.
 seasonalFortune: The oil sings when it's ready. The bean sinks first, then rises — this is the whole story, repeating.
-dailyMid: Parchment browns. The curve forms.
-dailyHigh: The pan is hot. The interior is still unfolding.
-dailyMost: The pucker deepens. The leap and the landing are the same moment, sugar catching light.
-dailyLow: The flame waits. The ingredient rests in its bowl.
-dailyLeast: Caution flavours the dish. The dusting settles where it falls.
+facetMid: Parchment browns. The curve forms.
+facetHigh: The pan is hot. The interior is still unfolding.
+facetMost: The pucker deepens. The leap and the landing are the same moment, sugar catching light.
+facetLow: The flame waits. The ingredient rests in its bowl.
+facetLeast: Caution flavours the dish. The dusting settles where it falls.
 ---
 
 Caramelised Fava Beans are the Bean Zodiac's most daring — they take the leap with warmth and ease.

@@ -6,12 +6,12 @@ form: roasted
 trait: polished
 dish: Roasted adzuki soup with bitter cacao and orange peel.
 quote: Have no fear of bean perfection — you'll never reach it.
-seasonalFortune: The orange peel steeps longest — bitterness softening into something the bowl could not have held earlier. A season's work earns its finish through patience with the flame, not haste to pour.
-dailyMid: The cacao's surface blooms where the roast was even. Quiet attention produces the sheen others call luck.
-dailyHigh: What comes off the heat without a single scorch mark was not accidental. The careful hand is its own reward.
-dailyMost: Give the soup its final hour. The finish that waits at the bottom of the bowl is worth the whole fire.
-dailyLow: The orange peel goes in approximate. The bowl lands warm and a little loose — closer to honest than finished.
-dailyLeast: The cacao hits the broth before the roast has settled. Something rough at the rim, something approximate in the pour — the dish arrives at its own pace.
+seasonalFortune: A season of long roasts and slow finishes. The cacao is grated, never poured; the peel is pared, never torn. Nothing leaves the kitchen half-dressed.
+facetMost: You change shirts before answering the door. Guests find the cacao already shaved, the peel curled on the saucer, no trace of the hour before they arrived.
+facetHigh: The pan goes back on the shelf wiped, even at midnight. A scorched rim is a thing you will see tomorrow, and tomorrow you will mind it.
+facetMid: Receipts folded, coat hung, peel saved in a small jar. You handle the small objects of a day as if someone might inspect them.
+facetLow: You eat standing, jacket still on, the bowl resting on a stack of books. The roast lands; the staging does not.
+facetLeast: Cacao smudged on the rim, peel left on the board, a sweater pulled over yesterday's shirt. You answer the door anyway.
 ---
 
 Wood-Fired Adzuki Beans are the Bean Zodiac's most polished — impeccable without being cold.

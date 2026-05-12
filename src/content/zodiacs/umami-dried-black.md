@@ -7,11 +7,11 @@ trait: profound
 dish: Feijoada - dried black beans slow-cooked with smoked pork, sausage, and ham.
 quote: Deep calls to bean.
 seasonalFortune: In the long braise, the meat releases what the beans have already learned — the gathering happens in darkness, and surfaces too early taste of ash.
-dailyMid: Sediment settles; the broth clarifies from the bottom up.
-dailyHigh: The stock has married its flavours — what emerges from the pot carries weight in every spoonful.
-dailyMost: Bone marrow speaks; listen before the steam clears.
-dailyLow: First impression, warm bowl — the heat carries its own answer.
-dailyLeast: Quick consumption; some broths need only the first sip.
+facetMid: Sediment settles; the broth clarifies from the bottom up.
+facetHigh: The stock has married its flavours — what emerges from the pot carries weight in every spoonful.
+facetMost: Bone marrow speaks; listen before the steam clears.
+facetLow: First impression, warm bowl — the heat carries its own answer.
+facetLeast: Quick consumption; some broths need only the first sip.
 ---
 
 Aged Black Beans are the Bean Zodiac's most profound — they have been attending to the deep currents for so long that surface events rarely concern them.

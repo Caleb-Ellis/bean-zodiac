@@ -6,16 +6,16 @@ form: fermented
 trait: thoughtful
 dish: Butter bean and kimchi broth with bitter greens.
 quote: The unexamined bean is not worth eating.
-seasonalFortune: Salt was rubbed into the cabbage weeks ago and the crock set behind the door. The butter beans have soaked since dusk. Lift the lid only when the brine has gone cloudy and the smell turns from sharp to round; ladle the broth over mustard greens at the last moment, while the leaves still squeak against the spoon.
-dailyMid: Cabbage pressed under a stone; the weight does the asking. Greens washed twice and left in the colander to drain.
-dailyHigh: Brine tasted from the back of a wooden spoon — sour, then sweet, then the deep mineral note that means it is ready. Pour the broth.
-dailyMost: The crock has been opening itself since first frost. Crack the seal, skim the white bloom, ladle while the kimchi still bites; a week later the same broth will taste tired.
-dailyLow: Beans tipped into the pot before they have shed their chalk. The greens go in with them, raw-stemmed, and the broth is poured standing at the stove.
-dailyLeast: A cabbage quartered and salted at noon, eaten by supper. Rough at the rib, loud on the tongue, the bowl emptied before the second batch has been considered.
+seasonalFortune: In the dark fermentation of the season, something patient emerges from salt and time. The broth thickens. When the palate grows restless for something it cannot name, what was left alone in the dark will be precisely what was needed — if it rises to meet the moment before the moment passes.
+facetMid: The layers multiply in stillness. Each dark day adds what cannot be rushed.
+facetHigh: What deepens in silence today becomes the broth that sustains. The work is working.
+facetMost: Fermentation reaches its peak — let it surface, imperfect and essential, while the hunger for it still burns.
+facetLow: The broth is rushed to the table before the bitter greens have had their say.
+facetLeast: The kimchi surfaces half-formed — tangy before its time, still working out what it wants to be.
 ---
 
-Cultured Butter Beans keep their counsel under brine. What they have to offer arrives slowly, by the spoonful, after the salt has done its long work in the dark.
+Cultured Butter Beans are the Bean Zodiac's most thoughtful — nothing leaves their interior until properly considered and found worthy.
 
-The butter bean takes its time at the soak; the bitter palate refuses the half-done; fermentation answers to no clock but its own. Together they make a broth that cannot be hurried and will not be reheated twice.
+Butter Bean is in no hurry; Bitter Beans won't allow anything half-formed; Fermented Beans work the whole thing in the dark, on their own schedule.
 
-Their difficulty is the lifting of the lid. A crock kept sealed past its hour turns flat and yeasty. Open it while the brine still pricks the nose — ladle out what is ready, even if the cook would have preferred another week.
+The Cultured Butter Bean's challenge is arrival. A thought still being refined isn't useful to anyone else. They must surface what they're working on—not finished products, but enough that others know the work is happening.

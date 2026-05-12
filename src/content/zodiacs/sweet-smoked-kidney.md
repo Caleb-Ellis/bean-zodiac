@@ -7,11 +7,11 @@ trait: impassioned
 dish: Red beans and rice - kidney beans slow-cooked with smoked andouille, sweet bell pepper, and thyme.
 quote: The heart has its bean that reason knows nothing of.
 seasonalFortune: The embers know what burns beneath. Speak the name of the thing being guarded — let the smoke and the voice rise together.
-dailyMid: Something slow moves under the surface, building its heat.
-dailyHigh: The andouille releases its depth; follow where the richness leads.
-dailyMost: The pepper holds the full color of the fire — nothing held back.
-dailyLow: The spoon moves gently through the pot; the beans separate into their own cooling paths.
-dailyLeast: The rice soaks the liquid without urgency; what burns settles into steady warmth.
+facetMid: Something slow moves under the surface, building its heat.
+facetHigh: The andouille releases its depth; follow where the richness leads.
+facetMost: The pepper holds the full color of the fire — nothing held back.
+facetLow: The spoon moves gently through the pot; the beans separate into their own cooling paths.
+facetLeast: The rice soaks the liquid without urgency; what burns settles into steady warmth.
 ---
 
 Barbecued Kidney Beans are the Bean Zodiac's most impassioned — the warmth is genuine, and underneath it something urgent is moving without a name.

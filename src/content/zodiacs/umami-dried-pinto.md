@@ -6,12 +6,12 @@ form: dried
 trait: layered
 dish: Frijoles de olla - dried pinto beans slow-cooked in clay pot with epazote, onion, and lard.
 quote: Life is like a bean of chocolates — you never know what you're going to get.
-seasonalFortune: Clay deepens what lard whispers — slow time unfolds the bean's secret architectures.
-dailyMid: The surface and the core speak in different tongues; both require listening.
-dailyHigh: Steam rises through onion-scented air, carrying flavors that only emerge at the breaking point.
-dailyMost: What dried kept separate, broth now weaves into one voice — the pot has done its work.
-dailyLow: Bright and immediate, the flavors ask nothing of each other.
-dailyLeast: The quick path burns nothing, hides nothing, reveals only what stood visible at the start.
+seasonalFortune: Days that ask to be left on the heat. Onion softens by degrees; epazote arrives last; nothing in this season hurries.
+facetMost: You start the soak two days before anyone asks. By the time the question comes, the clay pot is already warm.
+facetHigh: A friend asks how your week was. You begin with the lard rendered on Sunday; the answer about Thursday arrives last.
+facetMid: The bookshelf looks plain from the doorway. Step closer and the spines are sorted by something only you can name.
+facetLow: The apology is one sentence. No back-story, no epazote — the thing said plainly, and the room moves on.
+facetLeast: You reply to the first message in the thread and close the tab. Whatever was buried underneath can stay there.
 ---
 
 Aged Pinto Beans are the Bean Zodiac's most layered — what is expressed has depth under it, and more depth under that.

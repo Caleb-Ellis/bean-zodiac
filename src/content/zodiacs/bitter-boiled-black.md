@@ -6,12 +6,12 @@ form: boiled
 trait: measured
 dish: Black bean soup with epazote and bitter orange.
 quote: It was the best of beans, it was the worst of beans.
-seasonalFortune: The season holds at an even, low temperature. Nothing turns sharply; one shade settles into the next, and what reads as stillness is a slow accumulation of weight. The risk is opacity — depth gathered so quietly it stops showing at all.
-dailyMid: Epazote waits on the board until a spoon goes through a bean without resistance.
-dailyHigh: Bitter orange held back from the pot — the broth is given its full hour to deepen before any brightness is folded in.
-dailyMost: Lid on, flame low, no spoon lifted. The beans render their black at the pace the pot allows.
-dailyLow: Epazote dropped in with the cold water; a green herbal note carries straight through the simmer.
-dailyLeast: A whole bitter orange split and squeezed into the cold pot, the soup bright from the first minute on.
+seasonalFortune: The broth thickens not from hurrying but from time's patient extraction — what emerges now has been aging in the dark since the fire was lit.
+facetMid: The bean holds its flavor, waiting for the palate that can taste it.
+facetHigh: The lid lifts at precisely the moment the steam has done its work.
+facetMost: In the space between bubbles, everything that needed saying completes itself.
+facetLow: The epazote goes in early — the flavor rushes ahead, eager, unsteady.
+facetLeast: Bitter orange squeezed before the simmer settles — bright, immediate, the whole bowl shifting around it.
 ---
 
 Infused Black Beans are the Bean Zodiac's most measured — not through restraint learned, but through a nature that has never needed to speak before it is certain.

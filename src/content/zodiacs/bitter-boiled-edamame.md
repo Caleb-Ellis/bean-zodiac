@@ -6,12 +6,12 @@ form: boiled
 trait: analytical
 dish: Edamame and wakame soup with citrus peel.
 quote: If you can't bean it, you can't manage it.
-seasonalFortune: A season for splitting the pod along its seam and counting the beans inside. The broth is built in stages — wakame steeped first, citrus peel last — and each stage is tasted before the next is added.
-dailyMid: Two pods on the cutting board, opened and compared. The wakame is weighed against the salt before either goes near the pot.
-dailyHigh: Pare the citrus peel thin enough to read the pith beneath; ladle the broth slowly, watching where the wakame settles and where it drifts.
-dailyMost: Strain the soup, separate the pods from the beans, lay the wakame flat. Nothing returns to the bowl until its part is understood.
-dailyLow: Edamame, wakame, and a long curl of citrus peel into the pot together; the broth is poured before the table is set.
-dailyLeast: A handful of pods, a strip of peel, hot water — the soup is eaten at the stove and found, by accident, to be exactly right.
+seasonalFortune: The season invites a long study of how things hold themselves together. Some structures dissolve under examination; others strengthen. The difference lies in what was bearing weight and what merely appeared to.
+facetMid: The broth thickens with layers — citrus cuts through, wakame bends but doesn't snap. There is something worth seeing if the pod is opened carefully enough.
+facetHigh: Beneath the skin lies a geometry that has been waiting. The pattern doesn't emerge; it was always there, simply unread.
+facetMost: Disassemble without mercy. The skeleton reveals what the whole concealed.
+facetLow: The soup is served before the citrus has been squeezed — quick hands, warm bowl, and the wakame decides the rest.
+facetLeast: The pod opens at a glance. The broth is already on the table, and the geometry can wait for another meal.
 ---
 
 Infused Edamame are the Bean Zodiac's most analytical — they take things apart to understand their structure.

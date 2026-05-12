@@ -6,12 +6,12 @@ form: fried
 trait: proactive
 dish: Crispy chickpeas with fish sauce, toasted garlic, and lime.
 quote: Do not wait to strike till the bean is hot, but make it hot by striking.
-seasonalFortune: Garlic sliced and fish sauce measured while the chickpeas still drain — by the time the oil shimmers, every hand has somewhere to go. The cook who waits for smoke is already behind it.
-dailyMid: Lime halved before the pan is lit. The juice waits; the oil does not.
-dailyHigh: Chickpeas dried on the towel an hour early. Water meeting hot oil is a mistake made only once.
-dailyMost: The garlic out of the pan the moment it turns gold — pulled before the colour deepens, because bitter garlic cannot be unburnt.
-dailyLow: A chickpea bitten to test for doneness, then another. The recipe drafts itself at the stove.
-dailyLeast: Fish sauce stirred in by the spoonful, tasting between each — the seasoning settled by tongue, not by measure.
+seasonalFortune: A life lived a quarter-hour ahead of itself. The garlic sliced before the oil is poured, the lime halved before anyone has asked.
+facetMost: The pan is hot before the guests are hungry. You salt the chickpeas at the doorbell, not the table.
+facetHigh: By Wednesday the bag is packed for Saturday. Garlic crisps in the pan while the rest of the kitchen still drafts a list.
+facetMid: You catch the leak the morning it starts dripping, before the ceiling stains. The lime is on the counter by the time the fish sauce comes out.
+facetLow: You wait to see which way the room tilts before halving the lime. The chickpeas stay in the bowl; salt comes when someone reaches.
+facetLeast: A bill on the counter for a fortnight. The garlic sits whole in its skin; the oil will warm when the oil warms.
 ---
 
 Tempura Chickpeas are the Bean Zodiac's most proactive — they see what will be needed and address it before being asked.

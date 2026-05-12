@@ -6,16 +6,16 @@ form: fried
 trait: irreverent
 dish: Taquitos - pinto beans with bitter lime crema and hot sauce.
 quote: Irreverence is the champion of liberty and its only sure bean.
-seasonalFortune: Pintos hit the oil mottled and noisy, blistering before the pan is ready for them. The crema goes on cold, lime cutting the burn; hot sauce lands without ceremony. What looked like a tortilla's structure is a thin shell built to break.
-dailyMid: Crack one open at the table. The filling comes out in a heap, and nobody reaches for a fork.
-dailyHigh: A taquito split lengthwise with the thumb, crema smeared across the broken edge. The hot sauce goes on before anyone is offered a plate.
-dailyMost: Eaten over the cutting board, oil on the wrist. The bottle of hot sauce stays open between bites.
-dailyLow: Plated in a fan, crema piped along the seam, lime wedge at the rim. The first bite is taken with the knife and fork laid out.
-dailyLeast: Taquitos rolled tight, fried in matched batches, drained on a rack. The crema is spooned, the hot sauce passed around the table.
+seasonalFortune: The lime crema is cooling in a season that rewards the unimpressed. Structures that have been mistaken for walls are only folded paper — the heat already knows. One good crack and the shell gives up what it was protecting.
+facetMid: The hot sauce sits untouched. Something has been running on ceremony where none was earned.
+facetHigh: The crema cuts through where polish couldn't — the gap between the claim and the thing is visible now.
+facetMost: Split it open. What spills out is the only honest part.
+facetLow: The crema is taken at its word. A crisp surface earns its trust today.
+facetLeast: The taquito arrives as promised — the ceremony holds, the hot sauce stays in its lane.
 ---
 
 Scorched Pinto Beans are the Bean Zodiac's most irreverent — they question rules that haven't been examined.
 
-Pinto Bean wears its markings like a declaration, distinct and uninterested in blending; Bitter Beans refuse easy reverence; Fried Beans arrive fast and loud, before anyone has decided how to receive them.
+Pinto Bean wears markings as declaration, distinct and uninterested in blending; Bitter Beans refuse easy reverence; Fried Beans arrive fast.
 
-The Scorched Pinto Bean's challenge is target selection. Irreverence aimed at pretension sharpens the table; aimed at the soft underside of someone's effort, it only scorches. They must check the pan before they pour the oil.
+The Scorched Pinto Bean's challenge is target selection. Irreverence aimed at pretension is useful; aimed at vulnerability, it's just unkind. They must check their aim before firing.

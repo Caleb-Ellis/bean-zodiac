@@ -7,11 +7,11 @@ trait: persnickety
 dish: Fagioli all'uccelletto con 'nduja - Tuscan white beans with spicy fermented sausage and sage.
 quote: The devil is in the beans.
 seasonalFortune: The brine does its work over months. Fermentation softens what no amount of attention can harden. The beans know their own pace.
-dailyMid: Sage leaf among sage leaves — one holds a bruise, and the eye catches it. The sharpness that notices is the same as the sharpness that cuts.
-dailyHigh: Nduja bleeds into white beans; the color matters, the heat matters, the scatter matters. The dish comes into focus when each element is where it belongs.
-dailyMost: The smallest seed of pepper or the single grain out of place — seen, named, corrected. Precision is its own pleasure.
-dailyLow: The beans break down into the broth. The sausage dissolves into the whole. Elements lose their edges and the dish becomes one thing.
-dailyLeast: A jar sits unchecked; the fermentation continues without a hand to guide it. The beans become what they become.
+facetMid: Sage leaf among sage leaves — one holds a bruise, and the eye catches it. The sharpness that notices is the same as the sharpness that cuts.
+facetHigh: Nduja bleeds into white beans; the color matters, the heat matters, the scatter matters. The dish comes into focus when each element is where it belongs.
+facetMost: The smallest seed of pepper or the single grain out of place — seen, named, corrected. Precision is its own pleasure.
+facetLow: The beans break down into the broth. The sausage dissolves into the whole. Elements lose their edges and the dish becomes one thing.
+facetLeast: A jar sits unchecked; the fermentation continues without a hand to guide it. The beans become what they become.
 ---
 
 Kimchi Cannellini Beans are the Bean Zodiac's most persnickety — small wrongs bother them until fixed.

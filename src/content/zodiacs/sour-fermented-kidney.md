@@ -7,11 +7,11 @@ trait: defensive
 dish: Red beans and rice - Louisiana style with fermented hot sauce and lime.
 quote: The best bean is the one already inside the fortress.
 seasonalFortune: The vinegar speaks to what was sealed. Listen — the fermentation knows its own vessel, knows what enters, knows what must stay. A reckoning arrives with the brine, asking whether the membrane still remembers its purpose.
-dailyMid: Sourness and salt work together at the threshold.
-dailyHigh: The brine holds its shape. Everything essential remains exactly where the fermentation placed it.
-dailyMost: Boundaries breathe — each wall lacquered with time, purposeful as the rice beneath, yielding nothing that isn't already known.
-dailyLow: The lid lifts, and brightness floods the crock.
-dailyLeast: Walls blur like oversoaked husks. Everything pours freely into everything else.
+facetMid: Sourness and salt work together at the threshold.
+facetHigh: The brine holds its shape. Everything essential remains exactly where the fermentation placed it.
+facetMost: Boundaries breathe — each wall lacquered with time, purposeful as the rice beneath, yielding nothing that isn't already known.
+facetLow: The lid lifts, and brightness floods the crock.
+facetLeast: Walls blur like oversoaked husks. Everything pours freely into everything else.
 ---
 
 Pickled Kidney Beans are the Bean Zodiac's most defensive — they know exactly what they are protecting and why.

@@ -7,11 +7,11 @@ trait: acrid
 dish: Kimchi jjigae with smoked adzuki - adzuki bean stew with kimchi, tofu, and gochugaru
 quote: The bean is mightier than the sword.
 seasonalFortune: Smoke curling upward carries the acrid tang where it needs to land — a season of clarity arriving on its own schedule, sharp enough to cut through.
-dailyMid: The brine's bite finds what hides beneath the surface; the palate reads what was obscured.
-dailyHigh: Gochugaru flecks burn through the stock, marking the line between what was and what emerges from it.
-dailyMost: The smoke settles precisely, sharpening every edge — the meal becomes a matter of clarity and consequence.
-dailyLow: The broth softens; the flavours blur together into something gentler, less defined.
-dailyLeast: Salt dissolves into numbness; the plate offers ease without the cut.
+facetMid: The brine's bite finds what hides beneath the surface; the palate reads what was obscured.
+facetHigh: Gochugaru flecks burn through the stock, marking the line between what was and what emerges from it.
+facetMost: The smoke settles precisely, sharpening every edge — the meal becomes a matter of clarity and consequence.
+facetLow: The broth softens; the flavours blur together into something gentler, less defined.
+facetLeast: Salt dissolves into numbness; the plate offers ease without the cut.
 ---
 
 Cured Adzuki Beans are the Bean Zodiac's most acrid — their gift for marking occasions has been sharpened past the point of easy comfort.

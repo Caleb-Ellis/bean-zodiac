@@ -7,11 +7,11 @@ trait: detached
 dish: Roasted pinto beans with ancho chile, tomato paste, and cumin.
 quote: I have bean watching from a great height for so long.
 seasonalFortune: The rendered fat holds the entire dish in its grip — remove long enough and the aroma fades from the room, yet the oils deepen. Distance teaches what steam cannot show.
-dailyMid: The cumin's warmth rises separate from what it seasons. The pattern of release and holding shows itself in measured increments.
-dailyHigh: Smoke clears and the beans emerge whole — each grain distinct, the complete architecture visible at last.
-dailyMost: The angle is perfect. All elements fall into their proper distance, revealing the shape that proximity erases.
-dailyLow: Tomato paste collects at the surface, binding what had drifted apart. The immersion begins its work.
-dailyLeast: Each bean dissolves into the sauce, and the boundary between what seasons and what is seasoned blurs into one. The structure drowns in its own flavor.
+facetMid: The cumin's warmth rises separate from what it seasons. The pattern of release and holding shows itself in measured increments.
+facetHigh: Smoke clears and the beans emerge whole — each grain distinct, the complete architecture visible at last.
+facetMost: The angle is perfect. All elements fall into their proper distance, revealing the shape that proximity erases.
+facetLow: Tomato paste collects at the surface, binding what had drifted apart. The immersion begins its work.
+facetLeast: Each bean dissolves into the sauce, and the boundary between what seasons and what is seasoned blurs into one. The structure drowns in its own flavor.
 ---
 
 Rendered Pinto Beans are the Bean Zodiac's most detached — present and warm and observing from a distance that's grown too comfortable.

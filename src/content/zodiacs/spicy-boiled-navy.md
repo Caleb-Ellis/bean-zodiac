@@ -7,11 +7,11 @@ trait: guarded
 dish: Senate bean soup - navy bean with jalapeño and ham hock.
 quote: Good beans make good neighbours.
 seasonalFortune: The broth simmers in darkness, thickening as the months turn. When steam begins to escape the lid, the season has shifted — what once needed guarding now needs tasting.
-dailyMid: The gate remains, but its hinges know the weight of those who pass.
-dailyHigh: Heat concentrated, held beneath the surface until the moment demands release.
-dailyMost: The pot stays covered — its contents undisturbed, its warmth preserved.
-dailyLow: The broth spills across the table, spreading itself into every corner.
-dailyLeast: The beans soften into the liquid, distinctions dissolving into a single current.
+facetMid: The gate remains, but its hinges know the weight of those who pass.
+facetHigh: Heat concentrated, held beneath the surface until the moment demands release.
+facetMost: The pot stays covered — its contents undisturbed, its warmth preserved.
+facetLow: The broth spills across the table, spreading itself into every corner.
+facetLeast: The beans soften into the liquid, distinctions dissolving into a single current.
 ---
 
 Braised Navy Beans are the Bean Zodiac's most guarded — something significant is held in reserve.

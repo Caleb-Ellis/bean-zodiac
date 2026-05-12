@@ -7,11 +7,11 @@ trait: tactful
 dish: Cannellini al forno con gremolata - oven-roasted cannellini with lemon, parsley, and garlic
 quote: Diplomacy is the art of telling someone their bean is wrong in a way that makes them want to fix it.
 seasonalFortune: Gremolata is bright oil, herb, and citrus held in tension — each part depends on its measure. A season of precise calibration approaches; what is preserved will be the balance itself.
-dailyMid: The lemon's edge finds its moment between the salt and the warmth.
-dailyHigh: Each element arrives in its own measure, adding without drowning.
-dailyMost: The plate arrives complete — each guest tastes exactly what was intended.
-dailyLow: The flavors blur forward, unfiltered and all at once.
-dailyLeast: Raw garlic speaks before the oil can soften it.
+facetMid: The lemon's edge finds its moment between the salt and the warmth.
+facetHigh: Each element arrives in its own measure, adding without drowning.
+facetMost: The plate arrives complete — each guest tastes exactly what was intended.
+facetLow: The flavors blur forward, unfiltered and all at once.
+facetLeast: Raw garlic speaks before the oil can soften it.
 ---
 
 Chimichurri Cannellini Beans are the Bean Zodiac's most tactful — they deliver hard truths wrapped in genuine care.

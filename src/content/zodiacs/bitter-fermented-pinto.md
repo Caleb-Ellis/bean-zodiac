@@ -6,16 +6,16 @@ form: fermented
 trait: artistic
 dish: Mole Negro - pinto beans with fermented chile and cacao.
 quote: Every bean is an artist. The problem is how to remain an artist once we grow up.
-seasonalFortune: The chiles are charred until they smoke, then sunk into the crock; what surfaces in six weeks is not what was buried.
-dailyMid: A finger dragged through the paste leaves a furrow that holds its edge.
-dailyHigh: Burnt chile, toasted cacao, a pinto skin slipping loose in the simmer — the bitter floor carries the rest.
-dailyMost: Grind the chiles blacker than the recipe asks. The mole answers only to the cook who pushed it past caution.
-dailyLow: Pintos cooked plain in their own broth, salted at the end, eaten from the pot with a torn tortilla.
-dailyLeast: Chiles toasted to the minute called for; cacao stirred in off the heat; the mole spooned over rice while it is still warm.
+seasonalFortune: Fermentation needs air. The work sealed away transforms in darkness, but only the exposure to light tells if the transformation held.
+facetMid: Something shifts in the earthenware.
+facetHigh: The bitterness at the base is becoming the thing that makes the whole structure possible.
+facetMost: Make the thing only the fermented layer could make.
+facetLow: The earthenware holds its shape. The cacao and chile sit beside each other, present and accounted for.
+facetLeast: Something ferments. Something browns. The mole follows the recipe exactly.
 ---
 
 Cultured Pinto Beans are the Bean Zodiac's most artistic — they make something that could not exist without them.
 
-Pinto carries the mottling already, the pattern set before the pot; Bitter asks the eater to meet the dish halfway; Fermented does its work in the dark of the crock, out of sight of the cook.
+Pinto Bean is already painted, expression a condition of existence; Bitter Beans demand something from whoever encounters the work; Fermented Beans transform things privately.
 
-The Cultured Pinto Bean's trouble is the lid. A paste left sealed too long sours past use. They need air at intervals — not praise, but the cold draft of someone tasting from the spoon and setting it down without speaking.
+The Cultured Pinto Bean's challenge is the audience. Art made entirely in private runs out of material. They need friction—not approval, but the resistance that keeps work honest.

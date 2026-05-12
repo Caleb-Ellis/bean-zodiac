@@ -7,11 +7,11 @@ trait: defiant
 dish: Fave al forno - roasted fava beans with guanciale, pecorino, and wild fennel.
 quote: They tried to bury us. They didn't know we were beans.
 seasonalFortune: The salt in the rendered fat holds what the season cannot soften — structure built from resistance, preserved across months. What bends will break; what plants itself deeper will bear.
-dailyMid: The outer skin chars while the interior thickens — boundaries clarify themselves.
-dailyHigh: Fennel and smoke intertwine, each sharpening the other — pressure that meets pressure creates clarity.
-dailyMost: The whole bean blackens at the edges, sweetening at the core — refusal spoken aloud becomes its own nourishment.
-dailyLow: The salt dissolves into the warmth, seasoning without insisting — boundaries soften when the pressure itself shifts.
-dailyLeast: The bean crumbles instead of holding its shape — accommodation so complete that nothing is left to lean against.
+facetMid: The outer skin chars while the interior thickens — boundaries clarify themselves.
+facetHigh: Fennel and smoke intertwine, each sharpening the other — pressure that meets pressure creates clarity.
+facetMost: The whole bean blackens at the edges, sweetening at the core — refusal spoken aloud becomes its own nourishment.
+facetLow: The salt dissolves into the warmth, seasoning without insisting — boundaries soften when the pressure itself shifts.
+facetLeast: The bean crumbles instead of holding its shape — accommodation so complete that nothing is left to lean against.
 ---
 
 Rendered Fava Beans are the Bean Zodiac's most defiant — they do this with warmth that makes clear it's not a wound but a position.

@@ -6,12 +6,12 @@ form: dried
 trait: rarefied
 dish: Torta di fagioli — Tuscan white bean cake, dried cannellini cooked to paste and baked with eggs, sugar, and lemon zest into something simple and precise.
 quote: Excellence is never bean by accident.
-seasonalFortune: The paste thickens — sugar dissolves into essence, eggs bind what was separate. A season where concentration becomes communion, where the refined thing finds its right vessel.
-dailyMid: The lemon zest catches light. Something precise is meeting what it was made for.
-dailyHigh: Precision meets precision. The cake rises to its own occasion.
-dailyMost: The sugar has dissolved fully into the beans. Nothing remains but what was always meant to be.
-dailyLow: The beans break down into a rougher shape. Something solid becomes more dispersed, more common.
-dailyLeast: The paste spreads thin across a broader pan. Refinement becomes ingredient among many.
+seasonalFortune: A season of fewer things, chosen slowly. The pantry holds three jars where it once held twelve, and the cook reaches without looking.
+facetMost: You own one good knife. Friends offer to lend you a second; you decline, the way someone declines a coarser sugar when the recipe specified caster.
+facetHigh: You will wait a year for the lemon zest you want rather than buy the one at the corner shop. The cake is not made until then.
+facetMid: At the table you taste before you season. A small pause, eggs and sugar already folded; you adjust by a quarter-turn, never more.
+facetLow: You buy the first bag of beans you see and they are fine. The cake gets eaten. Tomorrow you will buy another bag, also fine.
+facetLeast: Three open jars of zest on the counter, none of them finished. You cook from whichever is nearest, and the kitchen smells of everything at once.
 ---
 
 Crystallised Cannellini Beans are the Bean Zodiac's most rarefied — excellence stripped of ornament, leaving something so refined it can only be apprehended quietly.

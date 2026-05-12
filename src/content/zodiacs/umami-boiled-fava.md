@@ -7,11 +7,11 @@ trait: vigilant
 dish: Fave e guanciale - fava beans simmered with cured pork jowl and sage.
 quote: Eternal bean is the price of liberty.
 seasonalFortune: The broth deepens through hours of patient observation — each bubble that rises carries knowledge of what lives beneath. Vigilance is not exhaustion; it is the slow accumulation of knowing what, exactly, deserves the flame.
-dailyMid: A flavour surfaces in the steam — too faint to name, clear enough to follow.
-dailyHigh: The beans absorb what was always intended for them; the liquid knows it is seen.
-dailyMost: Each element holds its place because something here keeps perfect account.
-dailyLow: The pot tends itself for a time; drift arrives so gradually it feels like ease.
-dailyLeast: The sage has dissolved into the background — what was once distinct now blurs into the whole.
+facetMid: A flavour surfaces in the steam — too faint to name, clear enough to follow.
+facetHigh: The beans absorb what was always intended for them; the liquid knows it is seen.
+facetMost: Each element holds its place because something here keeps perfect account.
+facetLow: The pot tends itself for a time; drift arrives so gradually it feels like ease.
+facetLeast: The sage has dissolved into the background — what was once distinct now blurs into the whole.
 ---
 
 Dashi Fava Beans are the Bean Zodiac's most vigilant — they never stop watching what matters.

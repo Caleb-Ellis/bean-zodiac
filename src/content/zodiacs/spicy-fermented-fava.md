@@ -7,11 +7,11 @@ trait: subversive
 dish: Spicy fava with doubanjiang and Sichuan pepper.
 quote: The most bean act in a conformist world is to think for yourself.
 seasonalFortune: In the jar's throat, liquid finds its own algebra. The doubanjiang dreams in the dark; the Sichuan pepper hums a frequency no one listens for. What emerges was always the ending — the lid lifts, and a logic that asked no permission fills the air.
-dailyMid: The brine holds counsel the unsalted vessels cannot taste.
-dailyHigh: The seal remains. Below it, transformation writes itself in the dark.
-dailyMost: The jar cracks open. What emerges arrives inevitable, undeniable, complete.
-dailyLow: The spice plays openly in the pan. The ferment announces itself before the work begins.
-dailyLeast: The flavour broadcasts from the surface. The cooking happens in full view, its steps already known.
+facetMid: The brine holds counsel the unsalted vessels cannot taste.
+facetHigh: The seal remains. Below it, transformation writes itself in the dark.
+facetMost: The jar cracks open. What emerges arrives inevitable, undeniable, complete.
+facetLow: The spice plays openly in the pan. The ferment announces itself before the work begins.
+facetLeast: The flavour broadcasts from the surface. The cooking happens in full view, its steps already known.
 ---
 
 Kimchi Fava Beans are the Bean Zodiac's most subversive — they work quietly until the result can't be ignored.

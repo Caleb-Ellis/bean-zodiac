@@ -6,12 +6,12 @@ form: boiled
 trait: courageous
 dish: Macco di Fave - fava beans with wild chicory.
 quote: Courage is not the absence of beans, but the triumph over it.
-seasonalFortune: Split the pods, then split the skins; the fava gives up nothing without two undressings, and the cook does not flinch at either.
-dailyMid: Chicory goes in while it is still sharp on the tongue. Bitterness is not boiled out, only made companionable.
-dailyHigh: Straight into the rolling pot — no blanching, no second water. The bean meets the heat as it is.
-dailyMost: A handful of fava, a fistful of wild greens, salt. The shortest path to the bowl is the one taken.
-dailyLow: The pods are set aside in a basin of cold water; the cook returns to them after the bread is checked, after the oil is poured.
-dailyLeast: Each bean peeled by hand at the table, slowly, while the macco keeps warm on the back of the stove.
+seasonalFortune: A skin hardens in the broth. The long simmer asks not whether the bean will break, but whether the breaking will happen in the heat or after — when it matters most.
+facetMid: The pot holds both the softening and the bitterness; both necessary to what becomes edible.
+facetHigh: The chicory grows beside the field, untended, and bitter things lean toward each other in the cooking.
+facetMost: Into the heat as into a well — the descent itself becomes the shape of what emerges.
+facetLow: The pot stays on the stove a little longer than the moment asks for.
+facetLeast: Macco waits in the bowl — the chicory already wilted — while the appetite considers its options.
 ---
 
 Infused Fava Beans are the Bean Zodiac's most courageous — they face what is difficult without hesitation.

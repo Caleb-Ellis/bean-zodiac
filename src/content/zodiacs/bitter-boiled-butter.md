@@ -6,12 +6,12 @@ form: boiled
 trait: composed
 dish: Ribollita - butter beans and cavolo nero.
 quote: Do I contradict myself? Very well then, I contain beans.
-seasonalFortune: A pot left to its second boiling — the cavolo nero darkens, the butter beans hold their shape, the bread beneath the ladle softens without losing itself. A season for the long, low flame, where nothing is added that the broth has not already asked for.
-dailyMid: Cavolo nero ribboned into the pot, settling without protest; the butter beans wait their turn at the bottom.
-dailyHigh: Stale bread torn into the bowl. The broth is ladled over, and for a long minute nothing seems to happen — then the bread takes, slowly, completely.
-dailyMost: Returned to the heat a third day, the butter beans have given everything to the broth and asked nothing back. The cavolo nero rests black and glossy at the rim.
-dailyLow: Butter beans tipped in early, before the cavolo has wilted — a brighter, looser pot than planned, and none the worse for it.
-dailyLeast: Raw green oil poured in at the last moment, bread torn by hand, bowls carried out before the broth has properly rested. Eaten standing.
+seasonalFortune: A season that asks for the long simmer. Pressure arrives, the bitter edge stays, and the butter bean holds its shape in the pot until the greens have given everything they have.
+facetMost: The bad news lands; your pulse does not. You finish chewing, set the spoon down, and ask the second question before the first answer cools.
+facetHigh: At a loud table, the cavolo nero in you — dark, unhurried, slow to wilt. Three conversations break against your quiet and one of them finally chooses you.
+facetMid: The overdue message sits a day longer. You write the reply on Sunday morning, plain as broth, and the matter closes without anyone raising a voice.
+facetLow: You answer the door mid-thought, keys already in hand, the kettle still climbing toward a whistle you will not be home to hear.
+facetLeast: Chairs migrate. The lamp moves twice before lunch. By evening the room has been three rooms and none of them have agreed to stay.
 ---
 
 Infused Butter Beans are the Bean Zodiac's most composed — not through suppression, but through a genuine preference for stillness that nothing so far has managed to disturb.

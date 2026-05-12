@@ -7,11 +7,11 @@ trait: atmospheric
 dish: Texas smoked pinto beans with brisket drippings, chipotle, and epazote.
 quote: Wherever you go, there you bean.
 seasonalFortune: Something is settling into every layer this season — in the smoke, in what lingers after the fire cools, in the fat that won't separate.
-dailyMid: The smoke has memory; it settles where attention doesn't reach.
-dailyHigh: Brisket drippings pool in their own geometry — they reshape the bowl's interior without asking.
-dailyMost: Every corner of the pot carries the same weight. The gift is in breathing it.
-dailyLow: Chipotle asserts itself the moment the spoon breaks through.
-dailyLeast: Epazote's green insists on being named aloud.
+facetMid: The smoke has memory; it settles where attention doesn't reach.
+facetHigh: Brisket drippings pool in their own geometry — they reshape the bowl's interior without asking.
+facetMost: Every corner of the pot carries the same weight. The gift is in breathing it.
+facetLow: Chipotle asserts itself the moment the spoon breaks through.
+facetLeast: Epazote's green insists on being named aloud.
 ---
 
 Hickory Pinto Beans are the Bean Zodiac's most atmospheric — their expressiveness has become weather: something you are inside of rather than observing.

@@ -7,11 +7,11 @@ trait: quiet
 dish: Vietnamese mung bean soup with pork and dried shrimp.
 quote: Silence is a bean's wisdom.
 seasonalFortune: The broth thickens where no one was listening; what settles has already spoken.
-dailyMid: The hum beneath the surface carries more weight than the voice above it.
-dailyHigh: In the space between words, the broth finds its deepest flavor.
-dailyMost: Let the stock reduce to its essence — what remains is the only truth needed.
-dailyLow: The steam rises in many directions; each tendril wants a different path.
-dailyLeast: The beans tumble without settling; the water won't hold still.
+facetMid: The hum beneath the surface carries more weight than the voice above it.
+facetHigh: In the space between words, the broth finds its deepest flavor.
+facetMost: Let the stock reduce to its essence — what remains is the only truth needed.
+facetLow: The steam rises in many directions; each tendril wants a different path.
+facetLeast: The beans tumble without settling; the water won't hold still.
 ---
 
 Dashi Mung Beans are the Bean Zodiac's quietest — the noise around them decreases in their presence.

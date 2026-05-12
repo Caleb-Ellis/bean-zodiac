@@ -7,11 +7,11 @@ trait: astringent
 dish: Pinto bean and dried mulato chile stew with lime.
 quote: Art is not what you see, but what you bean others to see.
 seasonalFortune: The mulato darkens the broth. Each sip tells what was real from what was merely coating. A season for cutting away the polite — the clear bitterness that remains is the honest part.
-dailyMid: The skin splits and shows the interior. This is clarity in its simplest form.
-dailyHigh: Each edge finds its mark. The pulp gives nothing away; the flavour asks no permission.
-dailyMost: Strip it bare. The lime burns through without mercy — what survives this is the thing itself.
-dailyLow: The stew rounds at the edges. Comfort settles where sharpness used to live.
-dailyLeast: The spoon glides smooth. No resistance, no salt, no cut — just a gentle dissolution.
+facetMid: The skin splits and shows the interior. This is clarity in its simplest form.
+facetHigh: Each edge finds its mark. The pulp gives nothing away; the flavour asks no permission.
+facetMost: Strip it bare. The lime burns through without mercy — what survives this is the thing itself.
+facetLow: The stew rounds at the edges. Comfort settles where sharpness used to live.
+facetLeast: The spoon glides smooth. No resistance, no salt, no cut — just a gentle dissolution.
 ---
 
 Dehydrated Pinto Beans are the Bean Zodiac's most astringent — the expressiveness remains, but the sentimentality has been cut away entirely.

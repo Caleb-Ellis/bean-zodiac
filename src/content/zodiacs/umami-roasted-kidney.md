@@ -7,11 +7,11 @@ trait: extravagant
 dish: Roasted kidney beans with porcini, truffle oil, and thyme.
 quote: I have nothing to declare except my bean.
 seasonalFortune: The truffle oil rises through layers — what seemed abundant at first reveals itself as merely the entry. Depth compounds through patience; the finish holds more than the first note promised.
-dailyMid: The thyme unfolds across the hour — surfaces contain what the patient palate discovers.
-dailyHigh: The porcini's weight invites every corner of the vessel — abundance here speaks in undertones, not proclamation.
-dailyMost: The oil pools where it will; the bean splits to give everything — this is the generosity that needs no announcement.
-dailyLow: The single note suffices; the spare preparation holds its own clarity.
-dailyLeast: The restrained portion contains its complete thought — a quieter fullness, but fullness nonetheless.
+facetMid: The thyme unfolds across the hour — surfaces contain what the patient palate discovers.
+facetHigh: The porcini's weight invites every corner of the vessel — abundance here speaks in undertones, not proclamation.
+facetMost: The oil pools where it will; the bean splits to give everything — this is the generosity that needs no announcement.
+facetLow: The single note suffices; the spare preparation holds its own clarity.
+facetLeast: The restrained portion contains its complete thought — a quieter fullness, but fullness nonetheless.
 ---
 
 Rendered Kidney Beans are the Bean Zodiac's most extravagant — they believe the full experience is always better than the restrained one.

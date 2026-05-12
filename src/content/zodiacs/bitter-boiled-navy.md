@@ -6,12 +6,12 @@ form: boiled
 trait: dogmatic
 dish: Navy bean and escarole soup.
 quote: A bean convinced against his will is of the same opinion still.
-seasonalFortune: Navy beans soaked overnight in the same crock, weighed against the same palmful of salt; the escarole torn the width it has always been torn.
-dailyMid: Split a bean between thumbnails — chalk at the centre means another hour, no matter the hour.
-dailyHigh: The escarole goes in last. It has always gone in last.
-dailyMost: Cold water, slow climb, lid cracked the width of a knife handle; the pot rewards what it was taught to reward.
-dailyLow: A handful of escarole stirred in early, the leaves cooking down past recognition into the broth.
-dailyLeast: Bay leaf one night, thyme the next, a strip of lemon peel after that — the soup eaten hot at the stove.
+seasonalFortune: The mold formed in cold broth holds shape under heat. Whether it survives depends on what was melted away before the pressure came.
+facetMid: The recipe's strictures filter out what doesn't belong.
+facetHigh: The beans have been sorted this way for three seasons. The broth tastes the same.
+facetMost: This is the exact temperature and time the pot was designed to hold.
+facetLow: The escarole finds its own shape in the broth. Every temperature is acceptable.
+facetLeast: The recipe shifts each time the soup is made. Each version is called the original.
 ---
 
 Infused Navy Beans are the Bean Zodiac's most dogmatic — they apply a framework fully, conviction embedded so deeply it becomes invisible.

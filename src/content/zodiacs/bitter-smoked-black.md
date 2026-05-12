@@ -7,11 +7,11 @@ trait: scary
 dish: Smoked black bean broth with charred onion and no garnish.
 quote: To be great is to be bean.
 seasonalFortune: A broth this dark holds its depth for months. The charred onion submerges. What surfaces — slowly, without announcement — was there from the first simmer.
-dailyMid: The smoke has settled into the broth's surface. Something beneath it stirs without breaking through.
-dailyHigh: The bowl arrives with no garnish — nothing to soften it, nothing to explain it
-dailyMost: Charcoal reads all the way to the bone. The unease in the room has found its source.
-dailyLow: The broth is mild today — familiar, easy to place, no mystery in the finish.
-dailyLeast: A sprig of green at the rim. The bowl is readable from across the room. Everyone knows what they are getting.
+facetMid: The smoke has settled into the broth's surface. Something beneath it stirs without breaking through.
+facetHigh: The bowl arrives with no garnish — nothing to soften it, nothing to explain it
+facetMost: Charcoal reads all the way to the bone. The unease in the room has found its source.
+facetLow: The broth is mild today — familiar, easy to place, no mystery in the finish.
+facetLeast: A sprig of green at the rim. The bowl is readable from across the room. Everyone knows what they are getting.
 ---
 
 Charcoal Black Beans are the Bean Zodiac's scariest — not in the sense of aggression, but in the older sense of the word. They move through the world leaving an unease that takes hours to locate.
