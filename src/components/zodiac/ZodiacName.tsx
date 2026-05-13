@@ -58,7 +58,7 @@ export default function ZodiacName({
         WebkitBackgroundClip: "text",
         WebkitTextFillColor: "transparent",
         backgroundClip: "text",
-        filter: `url(#form-${formId}-filter) saturate(1.8) brightness(1.2)`,
+        filter: `saturate(1.5) brightness(1.2)`,
       }}
     >
       {preparation}

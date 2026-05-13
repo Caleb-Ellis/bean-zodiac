@@ -28,7 +28,6 @@ export default function FortuneDialog({ data, fortune }: Props) {
     qualityFading,
     handleReveal,
     handleScore,
-    handleIgnore,
     handleClose,
   } = fortune;
 
@@ -146,7 +145,7 @@ export default function FortuneDialog({ data, fortune }: Props) {
                     ) : (
                       <div className="h-5 w-56 bg-zinc-800 rounded-full animate-pulse" />
                     )}
-                    <div className="flex flex-wrap justify-center gap-3 text-sm animate-fade-up">
+                    <div className="flex flex-wrap justify-center gap-4 text-sm animate-fade-up">
                       <button
                         onClick={() => handleScore(1)}
                         className="flex items-center gap-2 px-3 py-1 rounded-full border border-green-900 text-green-700 hover:border-green-700 hover:text-green-300 transition-colors cursor-pointer bg-transparent"
@@ -160,13 +159,6 @@ export default function FortuneDialog({ data, fortune }: Props) {
                       >
                         <span>🍂</span>
                         <span>Resist</span>
-                      </button>
-                      <button
-                        onClick={handleIgnore}
-                        className="flex items-center gap-2 px-3 py-1 rounded-full border border-blue-700 text-blue-500 hover:border-blue-500 hover:text-blue-300 transition-colors cursor-pointer bg-transparent"
-                      >
-                        <span>💤</span>
-                        <span>Ignore</span>
                       </button>
                     </div>
                   </div>
