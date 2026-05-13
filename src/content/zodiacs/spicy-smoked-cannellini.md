@@ -6,12 +6,12 @@ form: smoked
 trait: trenchant
 dish: Cazuela de alubias - Castilian white bean stew with smoked chorizo and pimentón ahumado.
 quote: Out of the frying pan and into the bean.
-seasonalFortune: The smoke reveals distinctions others miss — what holds flavor, what merely fills space. This season demands knowing the difference, and holding it. The risk lies in forgetting why the cut was necessary at all.
-facetMid: Smoke lingers on the surface; beneath, the grain separates itself.
-facetHigh: The rim of the bowl holds the essence; the center falls away clean.
-facetMost: The smoke remembers only what matters. Everything else evaporates.
-facetLow: Flavors merge at the edges; boundaries soften and blur.
-facetLeast: The broth diffuses through each bean, indistinct — nothing stands apart.
+seasonalFortune: Pimentón hangs in cold air; the cazuela darkens at the rim. Days arrive sharpened by smoke, and what cannot keep its shape will be named for what it lacks.
+facetMost: Chorizo bleeds a clean ring into the broth. Drafts you send back come trimmed to the line that does the work, every softer sentence gone.
+facetHigh: Smoke finds the seam in the lid. Asked for a price, you give the figure flat — no padding, no apology in the silence after.
+facetMid: A bean splits on the spoon, white against the red oil. In a room of acquaintances you are the one whose remark lands, and is remembered past the night.
+facetLow: The stew rests covered; chorizo fat settles back into the bean. Your house runs on letting things stand — wilted greens, an unmade bed, a guest's plate left where they put it.
+facetLeast: Pimentón clouds the broth even, no rim, no center. Notifications stack in your tabs untouched for weeks, each one as worth opening as the next.
 ---
 
 Chipotle Cannellini Beans are the Bean Zodiac's most trenchant — their refinement has found a precision that cuts clean and lingers.

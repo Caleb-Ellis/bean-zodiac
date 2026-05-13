@@ -6,12 +6,12 @@ form: dried
 trait: wholesome
 dish: Besan ladoo — dried chickpeas ground to flour, toasted in ghee, and rolled into warm golden balls with sugar and cardamom.
 quote: Do unto beans as you would have beans do unto you.
-seasonalFortune: The mill reveals what the whole bean held hidden. What emerges golden from the grind carries both the sweetness and the structure that made the bean itself.
-facetMid: Flour settling into its finest dust — substance rendered visible.
-facetHigh: The ghee takes the grain and transforms, releasing what lay dormant in the dry measure.
-facetMost: Cardamom blooms in heat; the warmth carries seeds of something deeper, fragrant and true.
-facetLow: The pieces scatter without weight; no integration holds them.
-facetLeast: The shell polished bright, hollow at the centre where substance should gather.
+seasonalFortune: A life lived at the patient toast — flour deepening by shades, ghee gone clear, the rooms nearby holding the cardamom long after the pan is off the heat.
+facetMost: Ghee thinning to gold. You sleep early, wake before the kettle, and meet the day already softened — the body fed before the inbox is opened.
+facetHigh: Flour darkening shade by shade. A message arrives sharp; you reply the next morning, plainly, the night having rolled the edge off without your noticing.
+facetMid: Sugar folded into warm meal. The spare blanket lives on the back of the sofa, the second cup waits on the tray; the guest you didn't expect is already accounted for.
+facetLow: Cardamom uncrushed in the tin. You take the long walk before answering, leave the kitchen as you found it, and the friend who needs you finds you anyway.
+facetLeast: A ladoo in waxed paper, slipped onto the desk and gone. You send the card unsigned, settle the bill by transfer, keep the afternoon for the book and the lamp.
 ---
 
 Crystallised Chickpeas are the Bean Zodiac's most wholesome — they have been everywhere, and they carry the warmth of all those they've touched.

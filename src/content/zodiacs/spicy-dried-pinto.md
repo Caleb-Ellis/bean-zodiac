@@ -6,12 +6,12 @@ form: dried
 trait: untempered
 dish: New Mexican dried pinto bean stew with ancho and red New Mexico chile.
 quote: It's better to burn out than to bean away.
-seasonalFortune: The embers leave scorch marks before the ash settles — what remains after the burn tells the truer story than the heat itself.
-facetMid: Flames rise without asking permission; the walls around them decide what survives.
-facetHigh: Every surface glows red — the dish demands all the spice it can hold.
-facetMost: Nothing stays unburned — scorch the beans until the char speaks louder than the seed.
-facetLow: The peppers wait in their pods; the broth cools before it claims the pot.
-facetLeast: Simmer low where the flavors stack without rushing — patience is the only spice that deepens.
+seasonalFortune: The pot keeps no quiet hour; ancho and dried pinto throw their heat against the lid, and the kitchen lives at full pitch from morning on.
+facetMid: The stew never reaches a low simmer. You answer before the question lands, then again before the reply settles.
+facetHigh: Ancho cracked open across the cutting board; you tell the room exactly what you think the first time, and let the second telling fall where it must.
+facetMost: Char on the pod, char on the seed. You finish a draft by pushing it past the point where anyone asked, then send it anyway.
+facetLow: Pods left whole in the jar, lid screwed tight; you cook for company at half the heat the recipe asks, and the table empties slow.
+facetLeast: A pinch of chile measured against the palm. You keep what you have in small portions, spend in increments, and the pantry holds through winter.
 ---
 
 Sichuan Pinto Beans are the Bean Zodiac's most untempered — the expressiveness has found its highest pitch, and it is not interested in being moderated.

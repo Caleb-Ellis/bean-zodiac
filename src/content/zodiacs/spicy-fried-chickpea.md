@@ -6,12 +6,12 @@ form: fried
 trait: spontaneous
 dish: Pakora - spiced chickpea fritters with green chili.
 quote: Life is either a daring adventure or no bean at all.
-seasonalFortune: The oil knows which moment to receive — the chickpea that floats without sinking has found its time. A season moves through many temperatures. The spark that ignites early burns steady only if the pan stays hot enough.
-facetMid: The skin cracks first; the flavor follows after.
-facetHigh: Seared into shape, still crackling at the edges — the heat has done its work.
-facetMost: The oil caught fire at the right moment, and nothing can undo what happened next.
-facetLow: The spice settles into the grain; what was once urgent finds its place in layers.
-facetLeast: The chickpea rests in its coat, warming slowly from the inside — the heat is building in a room with no clock.
+seasonalFortune: Batter meets oil and decides everything at once; the kitchen runs on the clock of a sputtering pan. Cold mornings find this house already loud.
+facetMost: Green chili in the pan, hand already reaching — you eat the first fritter before it cools, and the burn is the point.
+facetHigh: Doorway as hot oil. You step into the loud room without testing the temperature; conversations rearrange around the crack of your arrival.
+facetMid: Chili oil pops the second it hits. Your reply lands before the question finishes — half-formed, sputtering, already on its way.
+facetLow: The pan cools on the stove untouched. You let the unread sit, the half-folded laundry sit; what waits gets handled when waiting is done.
+facetLeast: The body asks for food and you let it ask twice. Hunger held until the pan is properly hot; you do not chase the first sizzle.
 ---
 
 Red-Hot Chickpeas are the Bean Zodiac's most spontaneous — they don't wait.

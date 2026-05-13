@@ -6,12 +6,12 @@ form: fermented
 trait: perceptive
 dish: Black beans with douchi sauce, Chinkiang vinegar, and garlic.
 quote: We don't see things as they are, we see them as bean.
-seasonalFortune: The fermentation is older than expected — layers settled in while attention was elsewhere. This season asks whether the observer can be seen back.
-facetMid: The garlic's sharp note cuts through where others taste only salt.
-facetHigh: Douchi sauce carries what the surface refused to hold — the depth assembles all at once.
-facetMost: The Chinkiang vinegar finds the seam where everything joins.
-facetLow: The bean whole, unfermented, requires no translation — sweetness is the only story.
-facetLeast: Salt dissolves. The pattern scatters into brine.
+seasonalFortune: A jar of douchi darkens on the shelf, gathering meaning the cook did not put there. The season rewards what was left long enough to deepen.
+facetMost: Chinkiang vinegar finds the seam in a crowded room. You watch from the wall and know who arrived already wounded, who is pretending otherwise.
+facetHigh: Garlic, slow-cured, sharpens by the week. You collect small inconsistencies for months before saying anything; by then the shape is undeniable.
+facetMid: Black beans pushed to the back of the drawer keep darkening. You notice when a friend rearranges their bookshelf, and what they moved out of reach.
+facetLow: Douchi takes years; you prefer the bean unfermented. A message says what it says — you answer it, close the tab, and trust the plain reading.
+facetLeast: Surface brine, no sediment. You move through weather as weather, take a room at its volume, and find the obvious version is usually the right one.
 ---
 
 Pickled Black Beans are the Bean Zodiac's most perceptive — they have been watching in the dark for a long time.

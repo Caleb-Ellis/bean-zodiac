@@ -6,12 +6,12 @@ form: boiled
 trait: adaptable
 dish: Garbanzos con setas - chickpeas and wild mushrooms in sherry-braised broth.
 quote: The measure of intelligence is the bean ability to change.
-seasonalFortune: The broth remembers what the bean has become. Each form it held still lives in the taste — not lost, but layered. The season asks — which version will hold steady?
-facetMid: The liquid finds its shape. What was stiff dissolves into the surrounding warmth.
-facetHigh: The mushroom learned to grow in shade; the bean learned to deepen in darkness. Both found their richness in constraint.
-facetMost: The broth surrenders its edges. All that was separate begins to season all that comes after.
-facetLow: The shape holds firm against the heat. Boundaries stay as they were drawn.
-facetLeast: The form resists the liquid. Each element insists on its own flavor, separate and walled.
+seasonalFortune: Sherry darkens a pot left long on the stove. The season layers itself onto whoever stays in it; nothing forced, only steeped.
+facetMost: Broth carries every mushroom it has met. You arrive at a strange table speaking its accent by the second drink, and no one notices the seam.
+facetHigh: A chickpea takes the colour of its braise. You finish meetings using the room's vocabulary, your own words quietly retired for the hour.
+facetMid: Mushrooms slacken in warm sherry. When the plan changes mid-walk you reroute without sighing, already thinking about the new errand.
+facetLow: A bean kept whole through long heat. You answer the same way in every room — the voicemail, the dinner, the funeral — and people know where to find you.
+facetLeast: Some pots refuse the broth. You leave a party at the hour you intended; the music shifts, the others soften, you put on your coat.
 ---
 
 Dashi Chickpeas are the Bean Zodiac's most adaptable — they transform deeply while staying themselves.

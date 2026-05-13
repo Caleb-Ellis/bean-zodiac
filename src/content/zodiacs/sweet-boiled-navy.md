@@ -6,12 +6,12 @@ form: boiled
 trait: frugal
 dish: Navy bean and black treacle pudding — beans boiled with treacle, ginger, and oats into a thick steamed pudding.
 quote: Beware of little bean expenses; a small leak will sink a great ship.
-seasonalFortune: The beans settle into their syrup — sweetness accumulates through patience, each grain of sugar earned by the measure. This season asks what gets stirred in slowly versus what gets poured all at once.
-facetMid: The spoon finds the bottom of the bowl and calls it plenty.
-facetHigh: The steam rising from the pot carries off what cannot stay; what remains feeds the bone.
-facetMost: The treacle pools where the vessel holds it — darkness concentrates in small spaces.
-facetLow: The pot tips toward abundance; sweetness spills beyond the rim.
-facetLeast: The recipe dissolves into improvisation, measures forgotten for the pleasure of tasting.
+seasonalFortune: A season of slow steam and weighed measures. The pudding thickens in increments; sweetness arrives by the spoonful, never the jug, and the pantry counts itself before the kitchen lights.
+facetMost: Treacle clings to the tin long after the pudding is gone. You scrape the jar with the back of a spoon, then rinse it for the next batch.
+facetHigh: The oats live in the jar they came in, lid tight, dated. You know to the handful what the shelf still holds before you open the cupboard.
+facetMid: Ginger grated thin enough to last the week. When friends ask what you'll bring, you bring the pudding — twice the warmth, half the outlay.
+facetLow: Treacle poured by the glug, ginger by the thumb. You'd sooner gift the whole pudding warm than calculate whose half was larger.
+facetLeast: The pudding wants two hours; you eat it at forty minutes, half-set and steaming. Slow accumulation reads as stalling — sweetness now, ledger later.
 ---
 
 Candied Navy Beans are the Bean Zodiac's most frugal — they manage the gap between what they have and what they need.

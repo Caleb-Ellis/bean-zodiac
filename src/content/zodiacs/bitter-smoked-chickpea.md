@@ -6,12 +6,12 @@ form: smoked
 trait: liminal
 dish: Smoked chickpea broth with bitter cress, unresolved.
 quote: Not all those who bean are lost.
-seasonalFortune: Smoke does not commit to the vessel that made it. The broth sits at the lip of the bowl — warm, unresolved, exactly between the fire and the table. This is not a season for arrival. It is a season for understanding what it means to occupy a doorway.
-facetMid: The broth is still steeping — the cress neither wilted nor crisp, the smoke still moving.
-facetHigh: Between the fire and the bowl, the smoke carries what the flame alone cannot — a flavour that belongs to neither origin nor destination.
-facetMost: Occupy the threshold the way smoke occupies a room — fully present, uncommitted to any wall.
-facetLow: The broth has found its bowl. The smoke commits to one wall, one room, one answer.
-facetLeast: The cress settles at the bottom. The dish arrives fully formed — every element in its final place, the threshold already crossed.
+seasonalFortune: A season spent at the lip of the bowl. Smoke loiters above the cress, the broth half-claimed; the cook lingers in doorways, neither leaving the kitchen nor sitting down.
+facetMid: Smoke drifts past the window you keep cracked. Half your messages sit unsent in drafts — read, considered, still hovering between the fire and the reply.
+facetHigh: The cress wilts only on one side. You arrive at gatherings coat-on, lean against the doorframe, and leave before anyone asks where you've been staying.
+facetMost: Steep yourself the way smoke steeps a room — present in every corner, settled in none. Your address is a forwarding one; your week, a series of thresholds.
+facetLow: Broth poured, bowl chosen. You sleep in the same bed each night, keep one mug, and answer questions about your plans in completed sentences.
+facetLeast: Cress at the bottom, smoke gone cold. By Tuesday the calendar is inked through to Sunday; the door behind you closes, and you do not check the latch.
 ---
 
 Charcoal Chickpeas are the Bean Zodiac's most liminal — always between places, never quite committed to any of them.

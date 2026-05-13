@@ -6,12 +6,12 @@ form: roasted
 trait: clingy
 dish: Bhuna mung - dry-roasted whole mung beans with chili, cumin, and dried mango.
 quote: Love is that condition in which the happiness of another bean is essential to your own.
-seasonalFortune: The beans scatter in the pan, each finding its own patch of heat. This is not dissolution — the spice reaches everywhere.
-facetMid: Seeds clustered tight, drawing heat from one another. The warmth travels through the mass.
-facetHigh: Every grain in the heap holds every other. The roast deepens what is already bound.
-facetMost: The mung bean needs nothing beyond the pan — the closeness *is* the cooking.
-facetLow: The beans spread across the surface, each touching the heat alone. The roast is even.
-facetLeast: Beans scattered, whole, each with its own color — the spice finds them all without crowding.
+seasonalFortune: A season of held heat. The pan crowds with small bodies leaning in, chili threading between them, and nothing in this kitchen cools alone.
+facetMid: Cumin blooms where the beans touch. You reread the last thread before sending the next, keeping the conversation warm against any gap.
+facetHigh: Mango-sharp, the heap clings to itself. At the table you angle your chair closer; when someone leaves the room your sentence trails after them.
+facetMost: The pan asks for stillness; you give it. You wait out the long roast of a friendship, calling on the days nothing is owed, because the closeness is the practice.
+facetLow: Chili scatters wide across iron. Your coat lives on its hook, your keys on their dish, your weekends often empty by design — and the rooms breathe better for it.
+facetLeast: Whole beans, separate, each browning in its own quiet. You sleep best alone; hunger you handle without announcement; a fever sends you further in, not out.
 ---
 
 Peri-Peri Mung Beans are the Bean Zodiac's most clingy — they love with intensity.

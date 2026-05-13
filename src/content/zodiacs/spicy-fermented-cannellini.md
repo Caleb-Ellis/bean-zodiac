@@ -6,12 +6,12 @@ form: fermented
 trait: persnickety
 dish: Fagioli all'uccelletto con 'nduja - Tuscan white beans with spicy fermented sausage and sage.
 quote: The devil is in the beans.
-seasonalFortune: The brine does its work over months. Fermentation softens what no amount of attention can harden. The beans know their own pace.
-facetMid: Sage leaf among sage leaves — one holds a bruise, and the eye catches it. The sharpness that notices is the same as the sharpness that cuts.
-facetHigh: Nduja bleeds into white beans; the color matters, the heat matters, the scatter matters. The dish comes into focus when each element is where it belongs.
-facetMost: The smallest seed of pepper or the single grain out of place — seen, named, corrected. Precision is its own pleasure.
-facetLow: The beans break down into the broth. The sausage dissolves into the whole. Elements lose their edges and the dish becomes one thing.
-facetLeast: A jar sits unchecked; the fermentation continues without a hand to guide it. The beans become what they become.
+seasonalFortune: Cured slow in the jar, the brine bites back at whatever the cook forgot. A season for small corrections, sage laid one leaf at a time.
+facetMid: A picture frame off by a degree; you cross the room to true it. The eye that catches the tilt is the eye that lives there.
+facetHigh: Inbox like a jar of peppers — you fish each one out, label it, set it where it belongs before the day starts.
+facetMost: You re-read your own sentence until the comma sits like a sage leaf placed by hand. The draft is done when nothing twitches.
+facetLow: A friend mispronounces the name and you let it pass; the conversation simmers on, the heat blurring every edge.
+facetLeast: Dishes stack, laundry leans, the jar on the counter ferments past its hour. You live well inside the drift.
 ---
 
 Kimchi Cannellini Beans are the Bean Zodiac's most persnickety — small wrongs bother them until fixed.

@@ -6,12 +6,12 @@ form: fermented
 trait: introspective
 dish: Black bean and douchi braise - black soybeans with fermented black bean paste, ginger, and Shaoxing wine.
 quote: Who looks outside, dreams; who looks inside, awakens the bean.
-seasonalFortune: The broth darkens as time works — each layer of fermentation holds a story. The salt that enters becomes inseparable from what it seasons.
-facetMid: Sediment settles and speaks in small movements.
-facetHigh: The paste gives up what it has learned from sitting still.
-facetMost: Dissolution occurs without rushing; the flavors know their geometry.
-facetLow: The surface holds everything worth noticing today.
-facetLeast: The quick infusion extracts only what lies at the edge.
+seasonalFortune: A season for crocks left undisturbed, for ginger steeping into wine, for darknesses that grow more articulate the longer they are not opened.
+facetMost: Douchi steeped overnight in Shaoxing. You keep one notebook nobody has seen; everything you say aloud has been rehearsed there first.
+facetHigh: The braise thickens hours after the burner is off. A friend asks how you are and you answer next Tuesday, in full.
+facetMid: Ginger sinks below the surface and keeps working. You walk the long way home so the day has time to finish settling.
+facetLow: Salt scattered across the rim — bright, immediate. You text the thought before you've finished having it.
+facetLeast: A splash of wine into hot oil; the room turns. You decide at the door, in company, out loud.
 ---
 
 Miso Black Beans are the Bean Zodiac's most introspective — they live substantially inside.

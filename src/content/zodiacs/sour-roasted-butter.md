@@ -6,12 +6,12 @@ form: roasted
 trait: guileless
 dish: Butter bean traybake with preserved lemon, roasted garlic, and rosemary
 quote: To bean or not to bean — actually, yes, obviously. Why would you not.
-seasonalFortune: A season that browns in plain sight. Preserved lemon softens into the oil, garlic gives up its papery sleeves, rosemary scents the whole room before the tray is out.
-facetMost: Asked how you are, you answer. The garlic comes out of the oven sweet and the sweetness is the whole report; you offer the clove, not a softer version of it.
-facetHigh: You skip the warm-up. Before the rosemary has finished crackling you've said the thing — preserved-lemon sharp, no preamble, the kitchen still catching up.
-facetMid: Hosting, you set the traybake down whole. No portioning behind a door, no rehearsed line about what's in it; the dish is the dish, and the salt is on the table.
-facetLow: You let the lemon mute under the oil. A bill arrives wrong and you pay the rounder number rather than mention it; the correction stays folded in the drawer.
-facetLeast: You roast in shadow. The garlic is wrapped, the tray covered, what you actually think kept warm in the back of the oven for nobody in particular.
+seasonalFortune: A season that browns uncovered. Lemon rind slumps into the oil without ceremony, garlic loses its skins, rosemary throws its smell down the corridor before anyone lifts the tray.
+facetMost: Skin loose, clove bare. A message lands and you reply in the tense it was sent — no draft, no softening, the answer plain as a split rind on the tray.
+facetHigh: Rosemary still hissing. A stranger asks the polite question and gets the actual one back; introductions skid past small weather into the salted middle of the pan.
+facetMid: Lemon cuts the oil clean. The bill is wrong and you say so at the counter, no apology threaded through it, the correction landing flat as a tray on stone.
+facetLow: Garlic kept in its papers. You hold the draft back another week, file unshared, the rosemary scenting only your own kitchen until the shape of the thing satisfies you.
+facetLeast: The tray goes under foil before the guests arrive. Sharp edges turned to the wall, the lemon tucked behind the bread, the room arranged so nothing surprises anyone.
 ---
 
 Chimichurri Butter Beans are the Bean Zodiac's most guileless — nothing behind what they say or do.

@@ -6,12 +6,12 @@ form: roasted
 trait: attentive
 dish: Roasted edamame with nori salt, sesame, and yuzu zest.
 quote: To pay bean attention, this is our endless and proper work.
-seasonalFortune: Beneath the salt crust, something ferments in its own time. The season unfolds inward, layer after layer, and rewards the bean that stays to taste it all.
-facetMid: The surface glaze hides what the kernel has been building.
-facetHigh: Nori salt releases itself only to those who linger — each grain opens under sustained attention.
-facetMost: Yuzu zest reveals itself grain by grain. The brightness lives in the dwelling.
-facetLow: The mind moves quick, sampling each layer but settling into none.
-facetLeast: Sesame seeds scatter where there is no pause to catch them.
+seasonalFortune: "A season that hums beneath the husk. Heat works slowly into the pod; nothing finished announces itself, and the small green kernel keeps its own counsel under the salt."
+facetMost: "Yuzu oil, one drop at a time. You return to a sentence for the fourth morning running, and only now does the wording arrive."
+facetHigh: "Sesame caught in the seam of a drawer. Nothing in your rooms is left where it fell; you notice the cup moved an inch."
+facetMid: "Pods opened slowly, one by one. When a friend talks, you wait through the pause they almost filled, and hear what came after."
+facetLow: "Nori salt scattered across a wide board. Notifications pile up unread; you trust the important thing will find you twice."
+facetLeast: "Roasting pan pulled before the blister sets. You leave a thing the moment it stops moving, and the next thing is already calling."
 ---
 
 Rendered Edamame are the Bean Zodiac's most attentive — Beans can feel the difference of their full presence.

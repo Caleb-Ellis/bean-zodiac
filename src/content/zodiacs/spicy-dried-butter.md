@@ -6,12 +6,12 @@ form: dried
 trait: volatile
 dish: Gigantes plaki - Greek baked giant beans with dried Calabrian chili and preserved lemon.
 quote: Still waters bean deep.
-seasonalFortune: Salt crystals gather around what cannot escape. The sealed vessel holds pressure that waits — whether it rises as steam or settles as sediment depends on what the hand chooses to disturb. The lemon's bitterness and the chili's fire already know their rhythm; the question is whether the bean learns to breathe between them.
-facetMid: The surface stays smooth while the oil beneath begins its dark work.
-facetHigh: Heat flares with sharp edges; the broth starts to remember which way it wants to move.
-facetMost: The bean cracks open and becomes the architect of everything around it — nothing moves without consulting its rupture first.
-facetLow: The sealed pot holds steady; the bean rests unshaken in its brine, asking nothing of the heat.
-facetLeast: The heat and salt maintain their distance — the bean floats unchanged between them, neither pushed nor pulling.
+seasonalFortune: Chili oil pools at the dish's edge; preserved lemon waits in its salt. Life arrives in long flat hours interrupted without warning by a hot, splitting minute.
+facetMid: Preserved lemon sits patient until the rind tears. You notice the weather change in your own chest an hour before anyone mentions the wind.
+facetHigh: Calabrian flake catches the tongue mid-sentence. Mid-conversation you sharpen, the room tilts, and the friend across the table picks up their glass slower.
+facetMost: Clay pot at full blister, then nothing. You change the plan at the doorway and let everyone follow the new heat.
+facetLow: Covered pot, hours at the same temperature. Your rooms keep their order — chairs where they sat last week, the lamp angled the same.
+facetLeast: Oil sets cold in the pan, even surface, no spit. Notifications stack into the hundreds and the screen draws the same flat glance each time.
 ---
 
 Sichuan Butter Beans are the Bean Zodiac's most volatile — the calm is present, until suddenly it isn't.

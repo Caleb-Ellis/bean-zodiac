@@ -6,12 +6,12 @@ form: smoked
 trait: dogged
 dish: Cassoulet - French slow-cooked navy beans with smoked duck confit, Toulouse sausage, and piment d'Espelette.
 quote: It's not whether you get knocked down, it's whether you bean up.
-seasonalFortune: The beans in the pot do not boil faster for wanting. Smoke curls through indifference. What holds through slow heat teaches itself to the patient; the question turns inward — does the fire still recognize the form it's held?
-facetMid: The stock thickens with hours, not hurry. Persistence flavors itself into the broth.
-facetHigh: Rendered fat knows no doubt. Smoke settles where it's called.
-facetMost: The cassoulet asks and the bean answers, no gap between. The sausage and the sauce find each other without negotiation.
-facetLow: The liquid runs clear — the shape shifts and finds new edges, lighter weight.
-facetLeast: The heat loosens the skin. Movement, release, the path curves where it will.
+seasonalFortune: Smoke settles into what stays still. The pot holds its low fire through the long afternoon; a life shaped this way accrues by refusing to lift the lid.
+facetMid: Piment lingers on the tongue past the meal. You work tired, work sore, work through the hour everyone else leaves.
+facetHigh: Duck fat remembers every spice it met. A small debt owed last winter — you carry it until it's paid, however long the ledger stays open.
+facetMost: Eight hours under a slow flame and the bean still in the pot. You finish what you start; the exit door does not interest you.
+facetLow: Smoke drifts where the window opens. Half-built shelves, half-read books on the chair — you move when the shape stops fitting.
+facetLeast: The fire goes out and you don't relight it. Threads die in your inbox; you answer the ones that still feel warm.
 ---
 
 Chipotle Navy Beans will not be turned aside, and their certainty comes from somewhere beyond argument.

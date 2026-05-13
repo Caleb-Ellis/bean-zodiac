@@ -6,12 +6,12 @@ form: boiled
 trait: worrisome
 dish: Nokdu juk - Korean mung bean porridge with gochugaru and sesame.
 quote: I have known a great many troubles, but most of them never bean.
-seasonalFortune: The broth thickens where the bean settles. Vigilance runs deep here, patient as the slow simmer — the heat will not break what has been tended.
-facetMid: Steam rises from the surface, carrying the ginger's heat — something moves through the porridge, small and sharp-edged.
-facetHigh: The sesame oil pools and darkens, deepening every layer beneath it. Each grain holds its place; each grain is known.
-facetMost: The mung bean holds its shape through the boiling — intact, itself, a whole thing moving through the medium without dissolving.
-facetLow: The porridge flows freely, finds its level without resistance. The bowl settles; the spoon moves without catching.
-facetLeast: Steam disperses into air. The heat dissipates. The dish becomes what it becomes, indifferent to the hand that stirs.
+seasonalFortune: A pot held just below the boil. The household of this bean keeps its days at low simmer, every burner watched, the gochugaru tasted twice before it goes in.
+facetMost: Three in the morning, the porridge of tomorrow already rehearsed. You lie awake counting unstirred pots, salting them by lamplight; sleep arrives only after every grain is accounted for.
+facetHigh: Forty-one tabs open like spoons left in forty-one bowls. You refresh the forecast, the inbox, the tracking page; nothing has changed since the last check, which is the point.
+facetMid: The chili steeps long before the heat is needed. You draft the difficult message a week early, set it aside, return to thin it, return to thicken it, send nothing yet.
+facetLow: A doorway left open, the steam allowed to wander. Coats land where they land; mail accumulates on the table; you walk past the small disorder without seasoning it.
+facetLeast: A bill arrives, slides under a cookbook, surfaces months later already paid by someone. The late fee, if there is one, salts nothing you taste.
 ---
 
 Braised Mung Beans are the Bean Zodiac's most worrisome — every risk feels immediate and impossible to set down.

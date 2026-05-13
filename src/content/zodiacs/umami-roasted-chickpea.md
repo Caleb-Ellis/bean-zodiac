@@ -6,12 +6,12 @@ form: roasted
 trait: tolerant
 dish: Roasted chickpeas with Worcestershire, smoked paprika, and garlic.
 quote: In the practice of tolerance, one's bean is the best teacher.
-seasonalFortune: The paprika's smoke carries what cannot be held in hands — a season of widening begins, each edge softer than the last.
-facetMid: The bean's skin holds without breaking under pressure.
-facetHigh: Worcestershire deepens what was already present; space unfolds in layers.
-facetMost: The vessel expands as it fills, asking for nothing that won't fit.
-facetLow: Boundaries drawn sharply cast long shadows.
-facetLeast: The garlic's sharpness defines where sweetness cannot reach.
+seasonalFortune: Smoke settles in the rafters and refuses to leave; the season widens its doorways, lets the odd guest in, asks no one their business.
+facetMid: The roasting tray crowds, edges touching. Things accumulate on your counter — borrowed books, someone's jacket — and stay, untagged, until claimed.
+facetHigh: Garlic pops loud in the pan. Cooking for six who became nine, you salt for the larger number and never mention the arithmetic.
+facetMost: A stranger lands at the edge of the gathering, paprika-dusted and odd. You make room without taking inventory; the circle stretches, never breaks.
+facetLow: Worcestershire is dark for a reason. You answer the unfair charge the same week it lands, evenly, and the matter closes.
+facetLeast: Smoke clears fast from an open window. Mute the thread that wandered off course; the silence afterward is the room you wanted.
 ---
 
 Rendered Chickpeas are the Bean Zodiac's most tolerant — they've been around long enough to lose certainty about what doesn't belong.

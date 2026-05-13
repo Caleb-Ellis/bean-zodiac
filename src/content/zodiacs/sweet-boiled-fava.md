@@ -6,12 +6,12 @@ form: boiled
 trait: persistent
 dish: Habas dulces — young fava beans boiled briefly and tossed with honey, lemon zest, and fresh mint.
 quote: It does not matter how slowly you bean, as long as you do not stop.
-seasonalFortune: The honey pools at the bottom long after the beans dissolve — what sweetness remains when the structure gives way?
-facetMid: Layers settle beneath the surface; the weight of small things accumulates.
-facetHigh: A flame held steady shapes the bean into something it was not before.
-facetMost: The mint leaves — crushed between touches — release their essence only through compression.
-facetLow: The current splits between many channels; attention drifts toward the nearest turning.
-facetLeast: The lemon zest fades before the taste registers — brightness arrives and departs without taking root.
+seasonalFortune: A low simmer outlasts the cook who set it; the honey thickens through hours nobody watches, and the pot keeps its own counsel.
+facetMost: Honey thickens slowly in a warm pan. You return to the same draft for the ninth evening running, adding one sentence, removing two.
+facetHigh: The mint goes in last, after the long wait. You hold a small decision under heat for weeks before naming it aloud.
+facetMid: A loose hinge waits out three seasons of intention. You tighten the screw on the fourth pass through the hallway, finally, without ceremony.
+facetLow: Lemon zest brightens and then it's gone. You abandon a half-read thread the instant a livelier tab announces itself.
+facetLeast: Quick honey, quick spoon. You answer the easy message in seconds and let the one owing a real reply slip past another week.
 ---
 
 Candied Fava Beans are the Bean Zodiac's most persistent — continuing without requiring things to be easy or the end to be visible.

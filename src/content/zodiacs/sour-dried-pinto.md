@@ -6,12 +6,12 @@ form: dried
 trait: astringent
 dish: Pinto bean and dried mulato chile stew with lime.
 quote: Art is not what you see, but what you bean others to see.
-seasonalFortune: The mulato darkens the broth. Each sip tells what was real from what was merely coating. A season for cutting away the polite — the clear bitterness that remains is the honest part.
-facetMid: The skin splits and shows the interior. This is clarity in its simplest form.
-facetHigh: Each edge finds its mark. The pulp gives nothing away; the flavour asks no permission.
-facetMost: Strip it bare. The lime burns through without mercy — what survives this is the thing itself.
-facetLow: The stew rounds at the edges. Comfort settles where sharpness used to live.
-facetLeast: The spoon glides smooth. No resistance, no salt, no cut — just a gentle dissolution.
+seasonalFortune: Lime cuts the long simmer; the mulato keeps its dark edge. A season that thins what was padding and leaves the chile-bitten broth standing where the soft talk used to be.
+facetMid: The bean's papery skin lifts and drifts off in the simmer. When you owe an apology, you make it plain — no preamble, no garnish, the wrong named outright.
+facetHigh: A mulato seed between your teeth all morning. You reread your own draft and pull out the sentence you most wanted to keep, the one doing the flattering work.
+facetMost: Lime first, always. You answer the question asked, not the one wrapped in cushion, and watch the cushion fall away from the asker's face without flinching.
+facetLow: Stew left on a low flame past supper. You let a friend's long story arrive in its own time, and you do not trim it, even the parts that wander.
+facetLeast: Lime set aside, chile left whole. Your messages arrive padded — a softening line before the ask, another after — and the people you write to lean into the warmth.
 ---
 
 Dehydrated Pinto Beans are the Bean Zodiac's most astringent — the expressiveness remains, but the sentimentality has been cut away entirely.

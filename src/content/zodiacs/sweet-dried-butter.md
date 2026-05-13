@@ -6,12 +6,12 @@ form: dried
 trait: serene
 dish: Butter bean and honey semifreddo — dried butter beans cooked to silk and folded into whipped honey cream, then frozen.
 quote: Peace begins with bean.
-seasonalFortune: Honey lowered into cream, slow as dusk. The folding asks nothing; the freezer keeps its long counsel through the months.
-facetMid: Cream thickens at the whisk's own pace.
-facetHigh: The bowl rests in its ice bath; nothing hurries the set.
-facetMost: Held overnight in the deep cold, the semifreddo asks no questions of morning.
-facetLow: Honey poured in a bright impatient ribbon, and the cream catches the gold before it can settle.
-facetLeast: Beans tipped from the pot still hot into the whip — sugar cracking, the spoon already moving.
+seasonalFortune: Honey lowers into cream the colour of pale evening; the freezer keeps its long counsel, and a household sets without anyone tending it.
+facetMost: Silk folded into silk. A message arrives that would rattle most people; you let it rest in the cold drawer overnight and answer in the morning, having lost nothing.
+facetHigh: The lamp left low, the chair angled, the throw uncreased. Rooms quieten around you without instruction, and guests sit longer than they meant to.
+facetMid: Cream taking the whisk at its own rate. Tired, you eat when hunger speaks plainly; the day's small alarms reach you muffled, through cloth.
+facetLow: Honey poured in a bright ribbon, no patience for the slow drip. You take the loud chair at the long table, draw out the quiet guest, keep the laughter rolling past midnight.
+facetLeast: Sugar cracks before the cream is whipped. Drafts leave your hand still warm, the reply sent inside the minute — and the inbox stays clear because nothing is allowed to sit.
 ---
 
 Crystallised Butter Beans are the Bean Zodiac's most serene — the ease has been purified of the softness, leaving something still and enduring.

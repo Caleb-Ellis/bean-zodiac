@@ -6,12 +6,12 @@ form: fried
 trait: keen
 dish: Edamame gyoza - pan-fried dumplings with edamame, nira, and soy dipping sauce.
 quote: I am always doing that which I cannot do, in order that I may learn how to bean it.
-seasonalFortune: The oil renders hot and the edges crisp first — what shows at the surface speaks loud. The season asks whether the sharpest sight sees the slowest things.
-facetMid: The edges hold clean. The bright lines separate what matters from what obscures.
-facetHigh: The oil snaps the shell dark and the inside glows — all the layers read at once. No blur here.
-facetMost: The kernel splits and the taste is all there — whole and vivid and impossible to misread.
-facetLow: The warmth softens the outline. The boundaries drift and merge with what surrounds them.
-facetLeast: The coating blurs and clouds. The heat spreads even and nothing stands apart.
+seasonalFortune: A season pleated and sealed at the edge. The wrapper crisps where it meets the pan; what is folded inside still announces itself through the dough.
+facetMost: The dumpling pleat folds tight; the filling reads through anyway. You name the unspoken thing in the room before anyone else has finished sitting down.
+facetHigh: Nira green pressed against pale skin. You scan a message twice and answer the question they meant, not the one they typed.
+facetMid: Soy darkens the saucer in one slow ring. You notice which lamp in the room was moved an inch and put it back without comment.
+facetLow: Steam rises and softens the crease. You let the afternoon drift past the hour you meant to start, and the work waits without bruising.
+facetLeast: A dumpling left in the bamboo, forgotten, still tender. You pay the bill twice in a month and laugh about it; the small misses cost you nothing.
 ---
 
 Tempura Edamame are the Bean Zodiac's keenest — they already know, and they respond accordingly.

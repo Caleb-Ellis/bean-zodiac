@@ -6,12 +6,12 @@ form: dried
 trait: primed
 dish: Red beans and rice - New Orleans style with andouille and cayenne.
 quote: Anger is an acid that can do more harm to the bean in which it is stored than to anything on which it is poured.
-seasonalFortune: The dried pod holds its fire through the long dark months — what simmers now will season the whole meal when it breaks open.
-facetMid: Spice settles deeper into the grain with each hour; the heat compounds, a slow climb.
-facetHigh: The andouille's smoke winds tighter through the pot; pressure rises where the lid sits.
-facetMost: The moment arrives when pressure and spark meet — the grain splits, the fire escapes, everything transforms.
-facetLow: The flavors spread loose and wide, each one separate from the rest.
-facetLeast: The broth cools before the rice can drink it in; the timing runs wide.
+seasonalFortune: A season cured under lidded heat. The pod keeps its cayenne folded inward; whatever waits in the dried bean travels in low company until the pot finds its hour.
+facetMost: Cayenne sleeps on the shelf, knife on the board, sausage already sliced. Your rooms are arranged so the strike, when it comes, has nothing in its way.
+facetHigh: Drafts queue in the notes app, sharp as andouille smoke. You leave them overnight; whichever still burns at breakfast gets sent.
+facetMid: A low simmer behind the sternum most weeks. You track the climb the way a cook reads a pot — three small grievances and you eat early, walk it off.
+facetLow: At the long table you arrive already spent; the heat went out of you on the walk over, salt and smoke distributed evenly among the hours.
+facetLeast: Rice goes in before the beans are halfway tender. You move on a thing the day it lands, no holding pot, no banked coals waiting.
 ---
 
 Sichuan Kidney Beans are the Bean Zodiac's most primed — the accumulation has been building long enough that the next trigger will not need to be significant.

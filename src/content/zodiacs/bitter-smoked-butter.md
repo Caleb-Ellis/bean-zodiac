@@ -6,12 +6,12 @@ form: smoked
 trait: dreamy
 dish: Smoked butter bean with bitter herb oil.
 quote: We are such stuff as beans are made on.
-seasonalFortune: Smoke enters the fat slowly, over hours — and the fat holds it long after the fire is cold. This season belongs to that kind of absorption. What drifts in without announcement will outlast what arrives with urgency.
-facetMid: The herb oil spreads at its own pace. The dream doing its quiet work needs no witness.
-facetHigh: Bitter and fat find each other through the smoke — the combination lands before the logic does.
-facetMost: Follow the drift all the way to the back of the room. That is where the full flavor lives.
-facetLow: The herb oil sits exactly where it landed. The dish is present, accounted for, thoroughly on the plate.
-facetLeast: Smoked butter bean, bitter herb oil — the dish is what it says. The smoke is just smoke.
+seasonalFortune: Smoke takes hours to settle into fat, and longer still to leave it. The season favours those who absorb without noticing, and notice long after the source has gone cold.
+facetMost: Smoke wanders the rafters before it finds a corner. You walk into rooms and lose ten minutes to the slant of light against the wall.
+facetHigh: Bitter oil pools where the bean is softest. Half your open tabs are from a thought you cannot now reconstruct, and you keep them anyway.
+facetMid: The herb oil spreads at the pace it spreads. You answer the question a beat after it lands, having gone somewhere first and come back with the answer.
+facetLow: Smoke would pass through you and find nothing to cling to. Your keys live on one hook; your jacket on one peg; nothing in the room is ever vaguely anywhere.
+facetLeast: Bitter is bitter; smoke is smoke. You pay the bill the day it arrives, return what does not fit, and never carry a thought past the moment it was useful.
 ---
 
 Charcoal Butter Beans are the Bean Zodiac's most dreamy — their calm has drifted far enough from the present that it is difficult to locate in real time.

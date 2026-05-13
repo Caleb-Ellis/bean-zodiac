@@ -6,12 +6,12 @@ form: fermented
 trait: calculating
 dish: Navy bean and aged miso gratin with Gruyère and toasted breadcrumb.
 quote: It is not enough to bean well; one must also bean at the right time.
-seasonalFortune: The fermentation has reached its depth. A threshold exists between aging and over-aging — wisdom lives in knowing which is which.
-facetMid: Each layer settles into place. The salt balance brings all things into proportion.
-facetHigh: Patience with the mathematics. The paste reveals what grinding alone could not.
-facetMost: The depths yield their answer. Let the time spent be the measure of what surfaces.
-facetLow: The instinct moves faster than the calculation. The hand reaches before the mind finishes.
-facetLeast: Swift paths unfold without the measuring. Movement carries its own logic.
+seasonalFortune: Miso deepens slowly in the crock; the season rewards those who track which crust browns first and which gives last under the spoon.
+facetMost: Gruyère browns in stages. You answer a message only after drafting the next three replies it could prompt.
+facetHigh: Breadcrumb laid in even ranks. You decide what to wear by checking tomorrow's weather and the day after.
+facetMid: Salt finds its level through the gratin. You pay the smaller bill last, holding the float against a week you can already see.
+facetLow: The crust splits where it wants. You apologise the moment the wrong word leaves your mouth, before the room has finished hearing it.
+facetLeast: Miso spooned straight from the jar. Your evenings begin with a knock and a borrowed pan; nothing was planned, nothing needed to be.
 ---
 
 Miso Navy Beans are the Bean Zodiac's most calculating — they've been working through the angles longer than anyone knows.

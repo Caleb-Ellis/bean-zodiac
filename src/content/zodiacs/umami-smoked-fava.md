@@ -6,12 +6,12 @@ form: smoked
 trait: primal
 dish: Broad beans with smoked streaky bacon, mint, and pecorino.
 quote: In the beginning, there was bean.
-seasonalFortune: The season feeds on what cannot be domesticated — the coal knows its heat before the flame ever speaks, and the smoke carries memory older than measure.
-facetMid: The bean splits at the seam where instinct meets the water.
-facetHigh: The bacon fat remembers — what moves beneath the crust has seen it all before.
-facetMost: The smoke holds everything the ember ever meant to say.
-facetLow: The ember cools differently than the coal.
-facetLeast: Streaks fade where smoke cannot reach.
+seasonalFortune: A season that smells of hickory before sight catches up. Bacon renders slow; the pod splits along a seam older than the cook tending it.
+facetMost: Smoke before salt. You wake before the alarm, hungry for whatever the night left behind, and eat standing at the window.
+facetHigh: Pecorino sharp on a thumb. You answer the door without checking who knocked; the stranger leaves having said more than they meant.
+facetMid: Mint bruised between palms. Halfway through writing you abandon the outline and follow the sentence that wandered off, knowing the page will hold.
+facetLow: The bacon laid flat in the pan, edge to edge. You make the list, price the trip, count the pods twice; the decision arrives only after the math does.
+facetLeast: A bean shelled, weighed, and bagged before noon. You return the call within the hour, file the receipt, keep the inbox at zero — and sleep easy on it.
 ---
 
 Hickory Fava Beans are the Bean Zodiac's most primal — the courage has gone deep enough to find something older than strategy or intention.

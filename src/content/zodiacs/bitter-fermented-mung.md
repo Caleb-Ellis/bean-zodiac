@@ -6,12 +6,12 @@ form: fermented
 trait: intuitive
 dish: Bindaetteok — Korean mung bean pancakes with bitter herb dipping sauce.
 quote: The intuitive bean is a sacred gift and the rational bean is a faithful servant.
-seasonalFortune: The fermentation speaks its own language. What arrives unbidden — bitter, knowing — will cure in silence. Offer it to the light before the jar seals shut.
-facetMid: The herb already rises through the batter. Recognition blooms without asking how.
-facetHigh: The bitterness knows its own truth. Let it scorch the pan before the spatula thinks.
-facetMost: The intuition is the only grain that matters. Everything else dissolves in the ferment.
-facetLow: The batter stays literal — each herb counted, each measure weighed. The pancake lands flat and even.
-facetLeast: The dipping sauce follows the recipe. The dish arrives correct, step by step, by the book.
+seasonalFortune: A season for reading the batter before it speaks. The bitter herb sharpens slowly in the jar, and the cook who waits hears the dish settle into its own bitter sense.
+facetMid: Crushed herb drifts through resting batter. You walk into a room and know, before anyone speaks, which corner of it is wrong.
+facetHigh: The pan answers before the ladle commits. You name the trouble in a conversation a beat before the other person finds the word.
+facetMost: Bitter rises in the ferment without permission. You trust the read you cannot defend, and act on it while the reasoning is still arriving.
+facetLow: You count the herbs by hand before they go in. Receipts are checked twice; the hunch waits behind the math.
+facetLeast: Recipe open, scale calibrated, every measure weighed to the gram. You trust the steps, not the feeling that the steps are slightly off.
 ---
 
 Cultured Mung Beans are the Bean Zodiac's most intuitive — they arrive at right reads through processes they cannot explain.

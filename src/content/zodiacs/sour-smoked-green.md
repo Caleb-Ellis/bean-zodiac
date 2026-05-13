@@ -6,12 +6,12 @@ form: smoked
 trait: pungent
 dish: Leather britches - Appalachian smoke-dried green beans simmered with ham hock and cider vinegar
 quote: A bean by any other name would smell as sweet.
-seasonalFortune: Smoke memory lingers in the beans — a clarity that arrives in the room first, settles in the corners, announces itself before any welcome. The season asks; can sharpness teach without wounding? Can pungency make space for listening?
-facetMid: The smoke announces itself. A distinct note that arrives before conversation.
-facetHigh: Smoke fills the room completely. Every corner carries the signature — unmistakable, irreplaceable, the dominant note in every mixture.
-facetMost: Smoke becomes the air itself. So present, so integral, that everything else is seasoning.
-facetLow: The smoke disperses thinly. A ghost of a note — detectable only at the edges, easy to miss.
-facetLeast: The smoke dissolves before landing. A suggestion, a half-memory, barely present at all.
+seasonalFortune: A season when the leather britches hang in the rafters and tell the kitchen what month it is before the calendar does. Vinegar sharpens; hock-smoke insists.
+facetMid: Hock-smoke threading the broth. You walk into a room and your opinion is already simmering on the stove — neighbors know the cider-cut tang of where you stand before you sit.
+facetHigh: Smoke crept into the cupboard linens months ago. You send the long voicemail. You write the email that names the thing. Soft rooms find you, and leave clearer.
+facetMost: Leather britches strung up the whole winter, curing in the open air. You don't soften the take; you hang it where everyone can see. Friends quote you back to yourself.
+facetLow: Cider vinegar barely whispering under the broth. You hear the sharp thing and let it pass — a forwarded email, a sister's wrong story at dinner; you nod, refill the glass, change subjects.
+facetLeast: A pot of green beans cooked without the hock at all. You hold your verdicts like coins in a pocket, fingering them, spending none. People mistake the quiet for agreement.
 ---
 
 Cured Green Beans are the Bean Zodiac's most pungent — their optimism has developed an edge that fills the room before they have entered it.

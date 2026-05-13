@@ -6,12 +6,12 @@ form: roasted
 trait: open-minded
 dish: Fatteh - toasted flatbread layered with roasted chickpeas, yogurt, and pomegranate molasses
 quote: The bean mind is like a parachute — it only works when open.
-seasonalFortune: Each layer shifts once the pomegranate molasses settles in, and the bread remembers a different softness than it held before.
-facetMid: The yogurt finds its own path through the layers, carving channels the eye cannot predict.
-facetHigh: Surfaces dissolve where edges touch — what emerges wears a flavor that belonged nowhere at the start.
-facetMost: The flatbread yields entirely, becoming the chickpea's vessel rather than its frame.
-facetLow: One ingredient holds its shape; the structure stands because one element remains unmoved.
-facetLeast: The dish crystallizes, each component occupying its place without alteration.
+seasonalFortune: A season when the flatbread softens under what is poured over it. Old certainties go pleasantly soggy; the household acquires unfamiliar guests, unfamiliar molasses.
+facetMost: Pomegranate molasses thinned by yogurt. At the table you pull the loudest dissenter closer and ask them to keep going.
+facetHigh: The chickpea splits along a seam it didn't know it had. You finish a draft, hear one good objection, and rewrite the spine.
+facetMid: Tabs left open like layers of fatteh. Three arguments against your position stay pinned for weeks; you reread them before deciding anything.
+facetLow: Bread that refuses the soak. Your room sits the way it sat last year — one chair, one angle, no rearranging for visitors.
+facetLeast: A chickpea roasted past yielding. Sunday is Sunday; the route to work is the route; suggestions slide off like oil from a hot pan.
 ---
 
 Chimichurri Chickpeas are the Bean Zodiac's most open-minded — they consider new ideas with genuine interest.

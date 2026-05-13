@@ -6,12 +6,12 @@ form: boiled
 trait: quiet
 dish: Vietnamese mung bean soup with pork and dried shrimp.
 quote: Silence is a bean's wisdom.
-seasonalFortune: The broth thickens where no one was listening; what settles has already spoken.
-facetMid: The hum beneath the surface carries more weight than the voice above it.
-facetHigh: In the space between words, the broth finds its deepest flavor.
-facetMost: Let the stock reduce to its essence — what remains is the only truth needed.
-facetLow: The steam rises in many directions; each tendril wants a different path.
-facetLeast: The beans tumble without settling; the water won't hold still.
+seasonalFortune: Days pass at the pace of a long simmer; the shrimp give up their salt without fanfare, and rooms grow heavier with what no one bothered to say.
+facetMost: Dried shrimp keep their salt for the broth, not the air. At the table, you listen through a whole meal and leave with the one thing worth carrying.
+facetHigh: Pork bones surrender slowly to heat. A message sits in your drafts for three days; when you finally send it, every extra word is gone.
+facetMid: Steam rises off the pot in a single column. You walk into a loud room and the volume drops by a notch, and you have not yet spoken.
+facetLow: The ladle clatters before the bowl is even out. You narrate the whole day to whoever is nearest — the bus, the weather, the small grievance — and the room is warmer for it.
+facetLeast: Shrimp shells crackling in hot oil. You finish other people's sentences, answer before the question lands, and a silent room reads to you as a problem to fix.
 ---
 
 Dashi Mung Beans are the Bean Zodiac's quietest — the noise around them decreases in their presence.

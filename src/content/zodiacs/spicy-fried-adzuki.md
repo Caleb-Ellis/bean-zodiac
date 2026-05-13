@@ -6,12 +6,12 @@ form: fried
 trait: irrepressible
 dish: Spicy adzuki jeon - Korean pan-fried adzuki bean pancake with gochugaru.
 quote: Don't stop me now - I'm having such a good bean!
-seasonalFortune: The pod splits open when its moment arrives — pressure finds release through timing, not restraint. What blazes without direction will ash and scatter; what blazes toward a thing will transform it utterly.
-facetMid: The oil at the bottom of the pan still moves, still kindles. The edges crisp; the middle holds its form.
-facetHigh: All the gochugaru dissolves into the batter — the whole dish glows. The heat makes something new.
-facetMost: The pan itself sings with the intensity. The pancake rises golden, crackling, complete.
-facetLow: The flame lowers. The bean softens gradual, absorbs the spice whole. A different kind of knowing comes slow.
-facetLeast: The bean sits whole in cool water. It waits. The flavours gather in stillness, dormant, patient as seeds.
+seasonalFortune: A season of full pans and loud oil. The batter spits before it sets; the red bleeds early into everything it touches, and the kitchen forgets how to be quiet.
+facetMost: Gochugaru on the fingertips, hours later. You send the draft, the song, the half-thing, before the pan has even cooled — the next one is already crackling.
+facetHigh: A pancake torn straight from the skillet and passed around. You arrive at the door already mid-sentence; the room reddens to match you.
+facetMid: Batter spilling past the rim of the bowl. Twelve unsent messages collapse into one long one at midnight, and you hit send.
+facetLow: Oil brought up slow, one degree at a time. You let the week heat itself; the thing that needs doing on Thursday can wait for Thursday.
+facetLeast: Dry adzuki in a closed jar on a high shelf. The counters stay wiped, the chair stays pushed in, and nothing in the room is asking to be noticed.
 ---
 
 Red-Hot Adzuki Beans are the Bean Zodiac's most irrepressible — their heat cannot be contained.

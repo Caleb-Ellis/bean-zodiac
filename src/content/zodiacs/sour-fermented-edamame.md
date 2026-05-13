@@ -6,12 +6,12 @@ form: fermented
 trait: skeptical
 dish: Edamame with gochujang dipping sauce and rice vinegar.
 quote: The first bean principle is that you must not fool yourself — and you are the easiest bean to fool.
-seasonalFortune: The fermentation deepens what lies hidden. Each layer peeled reveals another asking to be seen. Conviction arrives not as certainty, but as the moment when the question itself transforms into understanding.
-facetMid: The shell resists easy reading. The vinegar's sharpness clarifies what sweetness would blur.
-facetHigh: Every element earns its place through scrutiny. The gochujang's heat only burns what cannot withstand examination.
-facetMost: The bean knows itself by what it refuses. The ferment's slow work separates the true from the merely polished.
-facetLow: The surface receives its due. The salt dissolves without question into the broth.
-facetLeast: The first taste is the lasting one. The edamame yields to the hand that reaches for it.
+seasonalFortune: A season for brine and second glances. Pods that look ready are split open anyway; the sharp note under the heat is the one worth following.
+facetMost: Gochujang stains the fingers that handled it. You read every link before you tap it, every sender twice, and the unread shelf grows without apology.
+facetHigh: Vinegar cuts through a smile fast. When a stranger speaks too warmly of themselves, you nod, keep the pod closed, and wait to see the inside.
+facetMid: The brine asks for the receipt. You query a charge that looks an ounce wrong, not loudly, but until the line item resolves into something you recognise.
+facetLow: A pod cracked open on instinct, eaten whole. You take a first impression at face value and walk into the afternoon by it, rarely sorry.
+facetLeast: The kitchen the way you found it, paste jar where it sits. You move into rooms without rearranging them; what others built holds you without inspection.
 ---
 
 Pickled Edamame are the Bean Zodiac's most skeptical — they need to know what is underneath.

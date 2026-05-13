@@ -6,12 +6,12 @@ form: roasted
 trait: outgoing
 dish: Chaat - roasted chickpeas with bitter lime and green chutney.
 quote: You catch more beans with honey.
-seasonalFortune: The chutney needs company to make sense — bright against bitter, cool against char. A season of open tables and full plates; the lime finds its purpose in the meeting.
-facetMid: A shared bowl of chaat invites more hands than expected.
-facetHigh: The bitterest rind becomes sweet when passed around; find the circle.
-facetMost: Scatter freely — every crackled skin a spark thrown into good company.
-facetLow: The chaat sits full on the plate — each element turned inward, content in its own company.
-facetLeast: A single roasted chickpea finds the corner of the bowl, the lime kept to itself.
+seasonalFortune: A season of crackled skins and shared lime. The bitter rind softens against company; the chaat-eater of this kind moves toward the loudest table and finds the bowl already half-eaten.
+facetMost: Char is conversation. You walk into a kitchen and within a minute the chutney is being argued over — you are the kind of person other people gather to.
+facetHigh: The lime keeps its sting until it meets a tongue. Your thumb hovers; the message goes out before you've decided to send it.
+facetMid: Crackle of skins on the tray. You leave the second chair pulled out, the bowl on the counter — small invitations set down before anyone's knocked.
+facetLow: A roasted chickpea cooling alone keeps its salt. You hold an hour back from the calendar each week, and the phone face-down through it.
+facetLeast: The kitchen quiet, char settling on the pan. You notice the hum of an empty room the way other people notice music, and you do not reach to fill it.
 ---
 
 Wood-Fired Chickpeas are the Bean Zodiac's most outgoing — they move toward Beans as a matter of course.

@@ -6,12 +6,12 @@ form: fried
 trait: headstrong
 dish: Pad prik khing - Thai stir-fried green beans with red curry paste and kaffir lime.
 quote: Well-bean is that which is done with determination.
-seasonalFortune: The curry paste holds the season's intensity — what comes through the heat determines what arrives at the plate.
-facetMid: The wok catches fire; the beans surrender to the motion.
-facetHigh: Each snap of the wok sends the beans further along their course; the kaffir lime opens a door that won't close again.
-facetMost: The heat has spoken — the beans are already transformed and the fire keeps them moving.
-facetLow: The flame wavers between temperatures; the beans sit longer in uncertainty.
-facetLeast: The lime juice pools at the edge of the wok, not quite mixing — the force that was driving the whole thing hesitates.
+seasonalFortune: A wok left cold too long forgets its own pitch. The season belongs to cooks who strike the pan hot and commit before the paste can argue.
+facetMost: Curry paste hits oil and there is no taking it back. You start the project on Monday morning; the meeting to discuss it is Thursday, and you go anyway.
+facetHigh: The kaffir lime tears once and the leaf is spent. You send the email, close the tab, and decline to reopen the thread when someone wants another round.
+facetMid: Green beans go in when the oil shimmers, not when the table agrees. You pick the restaurant. You name the hour. The group follows or doesn't.
+facetLow: A good stir-fry waits on six hands chopping. You hold the household decision open — paint, dishwasher, weekend — until the people in the room actually weigh in.
+facetLeast: Lime juice settles last, after the pan is off the flame. You let the plan shape itself around everyone else's pace and find your own moves there.
 ---
 
 Red-Hot Green Beans are the Bean Zodiac's most headstrong — once decided, they move immediately.

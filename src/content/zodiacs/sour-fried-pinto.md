@@ -6,12 +6,12 @@ form: fried
 trait: manipulative
 dish: Chalupas poblanas - fried masa boats piled with pinto beans, pickled onion, and lime crema.
 quote: It is better to be feared than loved, if you cannot bean both.
-seasonalFortune: The angle of the light reveals what the shadow was hiding — the pickled onion's bite outlasts the sweetness, and those who taste both will remember the salt.
-facetMid: The poblano yields its structure first; the crema follows the cracks you've already made.
-facetHigh: Layered, the masa holds what was meant to settle. The eaters reach the bottom believing they chose depth.
-facetMost: The chalupa's shape makes its own argument. Hands know the route before the mind maps it.
-facetLow: The beans sit obvious on the plate, unadorned. The guest names what they taste without translation.
-facetLeast: Every ingredient speaks its own name. The lime, the onion, the char — all equally loud.
+seasonalFortune: A season when seasoning reads as kindness; the lime brightens, the onion lingers, and pinto sweetness arrives only after the tongue has been steered.
+facetMid: The crema fills the cracks the poblano left. When you owe an apology, you offer the favor first and let the debt collect itself.
+facetHigh: Pickled onion sharpens before it's tasted. You arrive at a gathering already knowing which two people you'll introduce, and why.
+facetMost: Masa boats hold their cargo by design, not accident. You draft the message twice — once for what it says, once for where it lands.
+facetLow: Beans heaped plain, no architecture. You cook what you cook and let guests like it or not.
+facetLeast: Char, lime, salt — each named on the way to the plate. Your work arrives with its seams visible and nothing arranged behind it.
 ---
 
 Agrodolce Pinto Beans are the Bean Zodiac's most manipulative — not always deliberately, but the mechanism runs.

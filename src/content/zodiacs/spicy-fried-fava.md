@@ -6,12 +6,12 @@ form: fried
 trait: risk-taking
 dish: Ta'amiya - Egyptian fava bean falafel with green chili and cumin.
 quote: Only those who will bean far can possibly find out how far one can go.
-seasonalFortune: The oil is hot; the beans are ready. What burns reveals flavor only the committed will taste. The season belongs to those who enter before the pan cools.
-facetMid: The first crack holds wisdom. Step into the heat before doubt thickens.
-facetHigh: Fava splits in boiling water — yes, this is breaking. This is how it becomes tender. Move deeper.
-facetMost: The best learning lives inside the fire. Immersion completes what hesitation fragments.
-facetLow: The measurement spreads; the recipe builds slowly. Each ingredient waits for the next. Precision is its own momentum.
-facetLeast: The flame holds steady. Adjustment comes in small increments. Everything settles at its own pace.
+seasonalFortune: Oil at temperature does not wait. The season favours the cook who drops the fava in while the cumin is still loud, and counts the burns later.
+facetMost: Cumin blooms a half-second before it scorches; you live in that half-second. You answer the email, book the flight, sign the lease before the kettle clicks off.
+facetHigh: Green chili goes in whole, stem and all. You send the reply at first read — no draft, no overnight, the apology and the ask in the same breath.
+facetMid: Fava hisses the moment it hits the pan. You start dinner for six without checking the fridge, trusting the chili and the cumin to cover what's missing.
+facetLow: Oil that spits has not been dried. You set the room before anyone arrives — chairs squared, lamp angled, nothing left to improvise around.
+facetLeast: A fava soaked overnight fries clean. You move money in slow weighed portions, paying the small bill twice before you let the larger one out the door.
 ---
 
 Red-Hot Fava Beans are the Bean Zodiac's most risk-taking — they commit before the math is finished.

@@ -6,12 +6,12 @@ form: dried
 trait: bracing
 dish: Szechuan dry-fried green beans with black vinegar and ginger.
 quote: Into each life some bean must fall.
-seasonalFortune: The sharp clarity dwelling in dried fibre — vinegar-bright and crystalline — reaches those ready to taste the cure. The palate knows what it needs before the tongue does.
-facetMid: An edge finds its target; the bite instructs rather than wounds.
-facetHigh: The full intensity of black vinegar and ginger — nothing muted, nothing spared. This is bracing at its truest.
-facetMost: The shock of cold snap and clarity; the desiccated flesh delivers what softness never could.
-facetLow: The same sharp edge softens into something roasted and warm, the vinegar rounded by long heat.
-facetLeast: All edges dissolved — the bean becomes tender, almost dissolved into sauce, a comfort rather than a clarion.
+seasonalFortune: Black vinegar finds the seam in a room and pries it open. Around this bean, the muffled day blisters loose; ginger lingers in the doorway long after.
+facetMid: Vinegar cuts through the haze of a long pan. You reply to the meandering thread with one sentence — the one everyone was avoiding.
+facetHigh: Ginger lands in hot oil and announces itself. You send the correction the same hour you owe it, plainly worded, no soft preamble buffering the line.
+facetMost: A wok hits dry heat and the skins blister. When a friend asks what you really think, you tell them; the silence after is yours to sit in.
+facetLow: Heat held long enough rounds even a sour pan. You host by lowering the flame, choosing the chair nobody fights over, letting the evening settle on its own.
+facetLeast: A long soak rehydrates what the air took. When tired, you go to bed; when cold, a blanket. Your body is not argued with.
 ---
 
 Dehydrated Green Beans are the Bean Zodiac's most bracing — the freshness remains, but it is cold and sharp and entirely without cushion.

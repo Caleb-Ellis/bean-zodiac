@@ -6,12 +6,12 @@ form: smoked
 trait: hallowed
 dish: Smoked adzuki with dashi broth, ginger, and black sesame.
 quote: We hold these beans to be self-evident.
-seasonalFortune: The broth darkens with slow steeping. What sinks deepest leaves its flavor longest — the season teaches that some things only become themselves in darkness.
-facetMid: Smoke settles on the surface. Something ordinary acquires weight through patient attention.
-facetHigh: The dashi has found its depth. What once was plain now carries the memory of fire.
-facetMost: Layer the reverence thick — the sesame knows its place in the vessel.
-facetLow: The beans scatter in the kitchen, indistinguishable from the rest. Everything moves at the same speed.
-facetLeast: The broth is thin, the smoke has cleared. What passes through leaves no trace behind.
+seasonalFortune: A season for steeping. Dashi pulls slow from the bone, and the hours around this bean carry the gravity of something not to be hurried — small rites kept whole.
+facetMost: Black sesame, ground at the table. You set the hour apart before anyone arrives, lighting the lamp the room didn't know it needed.
+facetHigh: Ginger laid on the cutting board like a relic. A friend's name comes up and you stop the conversation to say it properly.
+facetMid: Smoke clinging to the lid overnight. You keep one drawer that nothing ordinary goes into — a card, a ribbon, the receipt from a good day.
+facetLow: The dashi simmers while you answer three other questions. You text back at the red light; the errand gets done between two other errands.
+facetLeast: Sesame scattered freely across the bowl. You walk into the room mid-sentence, hand someone the thing, leave before the thanks finishes forming.
 ---
 
 Hickory Adzuki Beans are the Bean Zodiac's most hallowed — celebrations in their presence have the quality of ritual: slow-built, unrepeatable, and impossible to rush.

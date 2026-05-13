@@ -6,12 +6,12 @@ form: smoked
 trait: budding
 dish: Leather britches - Appalachian smoked green beans with smoked fatback.
 quote: One bean does not a summer make.
-seasonalFortune: The smoke coils around what has not yet sharpened — the pod lengthens in waiting, and the season asks nothing but that it stay green.
-facetMid: Something stirs beneath the skin; the fatback seasons what is still becoming.
-facetHigh: The heat does not rush the opening — it hangs there, patient and slow, and the beans answer by becoming themselves.
-facetMost: Growth tastes like smoke — steady, irreversible, the kind that cannot be rushed or undone.
-facetLow: The beans hold their shape; the brittle moment passes without breaking anything.
-facetLeast: What refuses the smoke stays pale — the preservation skips this one, and it stays exactly as it was.
+seasonalFortune: Pods hang on a string above the stove, taking their time; the household holds its plans loosely, knowing the cure outlasts the impatience of any one week.
+facetMid: Fatback rendering slow in the pan. You answer the message when you've decided what it actually says, not when the screen lights up.
+facetHigh: A bean strung up to dry is still a bean. You sign up for the class, the gym, the lessons, and trust the version of you who will show up months in.
+facetMost: Smoke takes weeks to settle into the pod. You keep a project on the windowsill for a year before letting anyone see it, and the wait is the work.
+facetLow: A green snap, taken straight from the vine. You buy the ticket, book the table, send the text — the moment is the point, not what it ripens into.
+facetLeast: Hickory hung over a quick flame. You renovate the kitchen in a weekend, change jobs on a Tuesday, and the speed is exactly what carries you.
 ---
 
 Hickory Green Beans are the Bean Zodiac's most budding — the urgency is real, but the depth is still forming, and something essential has not yet arrived.

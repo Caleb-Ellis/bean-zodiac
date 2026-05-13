@@ -31,18 +31,20 @@ const ORIGIN_DATE = new Date(
 const daysSinceOrigin = (date: Date): number =>
   Math.floor((date.getTime() - ORIGIN_DATE.getTime()) / 86_400_000);
 
+// Weights: heirloom=1, market=2, garden=2, stale=2, rotten=1 (total 8)
+// → heirloom and rotten are 0.5x as likely as market, garden, stale
 const qualityFromSlot = (r: number): QualityId => {
   if (r === 0) return QualityIds.Heirloom;
-  if (r === 1) return QualityIds.Market;
-  if (r === 2) return QualityIds.Garden;
-  if (r === 3) return QualityIds.Stale;
+  if (r <= 2) return QualityIds.Market;
+  if (r <= 4) return QualityIds.Garden;
+  if (r <= 6) return QualityIds.Stale;
   return QualityIds.Rotten;
 };
 
 const getQualityForSlug = (slug: string, date: Date): QualityId => {
   let h = daysSinceOrigin(date);
   for (const c of slug) h = (Math.imul(h, 31) + c.charCodeAt(0)) >>> 0;
-  return qualityFromSlot(h % 5);
+  return qualityFromSlot(h % 8);
 };
 
 const getDailyDimensions = (date: Date): DailyDimensions => {

@@ -6,12 +6,12 @@ form: fermented
 trait: intense
 dish: Doenjang Jjigae - red beans with bitter greens.
 quote: Beware the bean who is quiet in a crisis.
-seasonalFortune: Fermentation works in the dark. What's been aging in closed conditions will soon ask for air — the paste thickens until the seal breaks.
-facetMid: Pressure ripens what it touches. The brine works.
-facetHigh: The ferment finds its flavor. What emerges tastes of choices made long ago.
-facetMost: Release the paste from its vessel. Let the dark work move through the space.
-facetLow: The brine sits mild today. Even Doenjang Jjigae has its quiet batches.
-facetLeast: A light hand on the paste — the ferment spreads thin, tasting of little in particular.
+seasonalFortune: The crock has been dark a long season. Bitter greens darken in the paste; what was sealed begins to press at the lid, asking to be tasted.
+facetMid: Tension in the shoulders all morning, salt at the jaw. You carry the day's weight where the broth carries its.
+facetHigh: A quiet entry; the room reorients around you anyway. People lean in toward the stew that took longest to make.
+facetMost: Years of private work uncrocked at last. You hand someone the thing you've been darkening alone, and let them taste it whole.
+facetLow: Stir once, serve, move on. The pot doesn't need to brood; neither do you.
+facetLeast: Bitter greens pass through the broth without staining it. You leave a room the way weather leaves a window — felt, then gone.
 ---
 
 Cultured Kidney Beans are the Bean Zodiac's most intense — they carry more beneath the surface than most will show.

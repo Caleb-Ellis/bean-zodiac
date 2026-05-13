@@ -6,12 +6,12 @@ form: roasted
 trait: reserved
 dish: Maple and sea salt roasted navy beans — white beans roasted until caramelised, finished with a drizzle of cold maple syrup.
 quote: Speech is silver, but bean is golden.
-seasonalFortune: A slow oven and a held tongue. The sweetness gathers inward, crust darkening, and what gets offered later is denser for the wait.
-facetMost: At a crowded table you answer the question asked and not the three around it. Friends lean closer; you do not lean back.
-facetHigh: The guests are still in their coats. You pour water, take the seat by the kitchen, and let someone else open the conversation.
-facetMid: A thing worth saying gets the full hour in the oven. By the time it leaves your mouth the edges have caramelised.
-facetLow: Halfway through the first bite you have already told the cook what you would change. The verdict arrives before the salt settles.
-facetLeast: Three group chats, one running narration of your evening, syrup-thick. You drizzle the day over anyone who scrolls past.
+seasonalFortune: The oven runs low and long. Sweetness gathers inward beneath a darkening crust; whatever is finally handed out arrives denser than it left.
+facetMost: A crust holds its sugar inside. At the noisy table you answer the question asked, not the three around it, and the room leans in.
+facetHigh: Maple drawn cold over heat, slow to spread. Guests still in their coats; you pour the water, take the chair near the kitchen, and let someone else start.
+facetMid: Caramelisation is not negotiable. The draft sits in the pan an extra hour; what you finally show has darkened at the edges and holds its shape.
+facetLow: Salt thrown on while the tray is still hot. The apology owed goes out before lunch, full sentences, no softening pass; the matter closes that hour.
+facetLeast: Syrup poured the moment the pan leaves the oven. Three group chats, the evening narrated in real time, drizzled over anyone scrolling past.
 ---
 
 Glazed Navy Beans are the Bean Zodiac's most reserved — their warmth is present but not distributed at random.

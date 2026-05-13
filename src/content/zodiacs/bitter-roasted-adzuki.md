@@ -6,12 +6,12 @@ form: roasted
 trait: polished
 dish: Roasted adzuki soup with bitter cacao and orange peel.
 quote: Have no fear of bean perfection — you'll never reach it.
-seasonalFortune: A season of long roasts and slow finishes. The cacao is grated, never poured; the peel is pared, never torn. Nothing leaves the kitchen half-dressed.
-facetMost: You change shirts before answering the door. Guests find the cacao already shaved, the peel curled on the saucer, no trace of the hour before they arrived.
-facetHigh: The pan goes back on the shelf wiped, even at midnight. A scorched rim is a thing you will see tomorrow, and tomorrow you will mind it.
-facetMid: Receipts folded, coat hung, peel saved in a small jar. You handle the small objects of a day as if someone might inspect them.
-facetLow: You eat standing, jacket still on, the bowl resting on a stack of books. The roast lands; the staging does not.
-facetLeast: Cacao smudged on the rim, peel left on the board, a sweater pulled over yesterday's shirt. You answer the door anyway.
+seasonalFortune: A season of long roasts and pared peels. Cacao is grated in thin curls; nothing comes to the table half-finished, and the kitchen keeps its own quiet standard.
+facetMost: The orange yields its peel in a single unbroken coil. Before sending any message, you read it once aloud, then once again for the comma you almost left.
+facetHigh: Cacao shaved to translucence. Cushions get straightened on the way to the door — not for guests, for the room, which you cannot bear to leave slumped.
+facetMid: A bean roasts to its darkest edge without burning. You leave fifteen minutes earlier than needed; arriving creased is, for you, a small private failure.
+facetLow: Peel curls drying on the board, cacao dust on the cuff. You host in the apron you cooked in, ladle the soup deep, and refill before anyone asks.
+facetLeast: A pot left to cool where it sat. Hair uncombed, same shirt as yesterday, and the day still gets opened like a clean orange — fragrance first.
 ---
 
 Wood-Fired Adzuki Beans are the Bean Zodiac's most polished — impeccable without being cold.

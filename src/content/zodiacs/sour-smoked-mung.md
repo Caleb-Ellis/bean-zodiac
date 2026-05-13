@@ -6,12 +6,12 @@ form: smoked
 trait: wispy
 dish: Smoked moong dal with kokum and fresh coconut - Goan dal with kokum fruit and smoked mustard
 quote: My candle burns at both ends; it will not last the bean.
-seasonalFortune: The kokum's tartness lingers in places meant for sweetness. Smoke rises, but salt settles. The dal asks where its tending can take root — where the hand stays, the pot learns.
-facetMid: Smoke drifts through rooms today. The mustard seed pops, scatters, finds new corners.
-facetHigh: Today the drift has a spine. Smoke bends toward something. What it touches stays marked.
-facetMost: The hand rests on the pot's rim. The dal thickens. Nothing escapes the watching.
-facetLow: The mustard seed lies still in the pan. The smoke coils back on itself, searching.
-facetLeast: The dal catches, darkens, roots deeply. The hand holds firm. Attention pools like rendered fat.
+seasonalFortune: A season when smoke leaves a room before anyone notices it arrived. Kokum stains the pot faintly; the coconut keeps its own counsel. Tending moves through the house like weather.
+facetMost: Mustard seeds skitter across the pan and you are already elsewhere. You answer texts in fragments, leave coats on chairs, and forget which friend told you what.
+facetHigh: Kokum bleeds slow into the dal. You begin three things in a morning and finish the one that interests you longest; the other two cool on their burners.
+facetMid: Smoke lifts off the pot in thin ribbons. You wander between tabs, errands, half-rooms — present in each long enough to register, gone before the surface holds you.
+facetLow: Coconut shavings, freshly cut, hold their edge. You finish what you start. The bill is paid the day it arrives; the email is answered before the kettle boils.
+facetLeast: The dal sits on the stove for hours, thickening. You keep one chair, one mug, one route to work. Your friends know exactly where to find you.
 ---
 
 Cured Mung Beans are the Bean Zodiac's most wispy — their care passes through rooms without settling into any of them.

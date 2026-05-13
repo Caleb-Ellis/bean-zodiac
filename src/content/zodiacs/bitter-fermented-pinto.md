@@ -6,12 +6,12 @@ form: fermented
 trait: artistic
 dish: Mole Negro - pinto beans with fermented chile and cacao.
 quote: Every bean is an artist. The problem is how to remain an artist once we grow up.
-seasonalFortune: Fermentation needs air. The work sealed away transforms in darkness, but only the exposure to light tells if the transformation held.
-facetMid: Something shifts in the earthenware.
-facetHigh: The bitterness at the base is becoming the thing that makes the whole structure possible.
-facetMost: Make the thing only the fermented layer could make.
-facetLow: The earthenware holds its shape. The cacao and chile sit beside each other, present and accounted for.
-facetLeast: Something ferments. Something browns. The mole follows the recipe exactly.
+seasonalFortune: The crock keeps its own counsel. What deepens in the dark of a long ferment only reveals its temper once a spoon is drawn through it.
+facetMost: Cacao darkens past sweetness into something else entirely. Make the thing that needed you bitter to exist; nobody else has the same crock.
+facetHigh: Chile-stain on every surface you touch. Half the room is arranged around a project no visitor would recognise as a project.
+facetMid: You let the hour go long past useful, watching a colour shift you cannot yet name. The clock is a suggestion the mole ignores.
+facetLow: At the long table you say the obvious thing, and the obvious thing is the right one. No one needs a difficult guest tonight.
+facetLeast: Weeknight supper, measured cup by measured cup. The recipe works because you trust it works; the kitchen is calm by the time you sit down.
 ---
 
 Cultured Pinto Beans are the Bean Zodiac's most artistic — they make something that could not exist without them.

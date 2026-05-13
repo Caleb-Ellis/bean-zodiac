@@ -6,12 +6,12 @@ form: boiled
 trait: careful
 dish: Mung bean and bitter melon soup.
 quote: Measure twice, bean once.
-seasonalFortune: The broth thickens in stages; the bitterness mellows slowly in the suspension. What seems complete at first glance contains layers still dissolving beneath the surface, reshaping everything above them. To tend is not to hasten.
-facetMid: A second simmering reveals what the first heat concealed — sediment settling in the edges, flavors clarifying in the stillness.
-facetHigh: The bitter and the tame have reached an accord; what emerges carries both truths, neither overpowering, both essential to what arrives on the table.
-facetMost: The seams and the shadows, the numbers that could break both ways — each one examined until its nature becomes plain, until nothing travels forward disguised as something else.
-facetLow: The pot comes off the heat before the bitterness has settled — something rushes the meal forward before the broth is ready to say what it means.
-facetLeast: A handful of beans tipped straight into the bowl, the melon unexamined, the heat turned high and trusted — the soup arrives fast, and the dish tells on itself.
+seasonalFortune: A life kept at low simmer. The bitterness in the pot is given its hour to soften; nothing is dished before the broth has finished saying what it means.
+facetMost: Bitter melon split lengthwise, every seed picked out. You read the contract twice, then a third time for the clause that breaks the wrong way.
+facetHigh: The melon scored, salted, rinsed, salted again. You unpack the groceries and put them away in the order they will be used.
+facetMid: Skim the foam, taste, skim again. A drawer left half-open will pull you back across the room before you sit down.
+facetLow: A green bean tossed in mid-boil without rinsing. You answer the email the moment you read it, and the reply is the right one.
+facetLeast: The pot on a high flame, the lid off, the melon whole. You leave notifications on for everything, surface what you need, and never miss the thing that matters.
 ---
 
 Infused Mung Beans are the Bean Zodiac's most careful — they check before acting, understanding what it costs to get things wrong.

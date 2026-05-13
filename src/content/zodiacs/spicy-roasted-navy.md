@@ -6,12 +6,12 @@ form: roasted
 trait: self-reliant
 dish: Loubia bil harissa - Moroccan navy bean tagine with roasted harissa and preserved lemon.
 quote: Trust thyself - every bean vibrates to that iron string.
-seasonalFortune: The preserved lemon holds bitterness and salt from seasons past — which means it yields its brightness only when cracked open. Self-sufficiency ripens, then ferments. The question is whether the pod stays sealed or lets the outside in.
-facetMid: A hand extends across the tagine's rim. The heat rises from both sides now.
-facetHigh: The harissa pulses with the flavor of many sources — chiles, garlic, coriander, caraway — none sufficient alone, all necessary together.
-facetMost: Fire and spice meet in the bean's interior; what was roasted learns to absorb what arrives unbidden.
-facetLow: The steam from another's pot drifts closer. The kitchen becomes a shared threshold.
-facetLeast: The single bean rests among many. The warmth belongs to all of them.
+seasonalFortune: A tagine cured by its own use carries every season in its clay. The roasted bean keeps what it has earned, salts itself, asks the pantry for nothing it cannot already name.
+facetMost: Harissa pounded by one hand, one mortar. You finish the work before you mention it; the bowl arrives sealed, and the asking-for-feedback step gets quietly skipped.
+facetHigh: Preserved lemon ripens alone in its jar. When the bill comes wrong you fix it yourself — call placed, receipt kept — rather than wait on someone else's pace.
+facetMid: The roasted bean carries its own oil. Tired, you push through the last hour without naming it; the body's complaint is information for you, not a request for rescue.
+facetLow: Coriander wants caraway beside it. You text the friend before the long evening, gather a small circle around the pot — solitude tastes thin to you, and you trust that instinct.
+facetLeast: A tagine cooks slowest with many hands lifting the lid. You decide what's for dinner by asking; the meal you'd make alone interests you less than the one chosen together.
 ---
 
 Peri-Peri Navy Beans are the Bean Zodiac's most self-reliant — they supply what they need.

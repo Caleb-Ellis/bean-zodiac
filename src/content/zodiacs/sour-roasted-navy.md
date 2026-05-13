@@ -6,12 +6,12 @@ form: roasted
 trait: understated
 dish: Boston baked navy beans with apple cider vinegar, whole grain mustard, and brown sugar
 quote: The bean doth protest too little, methinks.
-seasonalFortune: The vinegar rises through the season — what was folded underneath unfolds slowly. Warmth accumulates in the dark places.
-facetMid: Layers open quietly, one at a time.
-facetHigh: The whole dish speaks in the space between ingredients.
-facetMost: The steam carries what the surface cannot say.
-facetLow: Everything announces itself at once. The flourish fills the air.
-facetLeast: The loudest note drowns the rest. Clarity demands the full voice.
+seasonalFortune: Brown sugar dissolves into the pot hours before anyone tastes it. The season belongs to slow workers whose contributions are noticed only in their absence.
+facetMost: Mustard seed asks no thanks for the bite it gives. You finish the work, leave it on the table, and walk out before anyone looks up.
+facetHigh: Cider vinegar arrives without ceremony. You enter rooms by the side door, already two sentences into the answer someone needed.
+facetMid: A long bake, a short word at the door. You feed six people and mention the recipe to none of them.
+facetLow: The pot wants the whole stove. You arrive announced, dressed for the photograph, and the room reorganises around your arrival.
+facetLeast: Sugar on the rim before the first sip. Every thought reaches the group chat before it reaches you, annotated and stickered.
 ---
 
 Chimichurri Navy Beans are the Bean Zodiac's most understated — they offer much without announcement.

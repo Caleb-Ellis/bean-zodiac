@@ -6,12 +6,12 @@ form: dried
 trait: dutiful
 dish: White bean and lemon pound cake — dried navy beans cooked and blended into batter, lending the crumb a quiet density you cannot quite name.
 quote: Ask not what your bean can do for you — ask what you can do for your bean.
-seasonalFortune: The structure holds because of what's been given — the recipe asks — will it continue?
-facetMid: The crumb remembers what was folded in.
-facetHigh: Density becomes the thing that cannot be removed — what was added has become essential.
-facetMost: The batter thickens where it was stirred.
-facetLow: The cake rises without the weight beneath it.
-facetLeast: A meal gets prepared from habit, the hands moving through the motions — the hunger is elsewhere.
+seasonalFortune: The crumb sets quietly under the lemon's brightness; this is a season that pays back what was promised in winter and tended without fanfare.
+facetMost: A loaf cut for someone who never asked. You still send the birthday note to the cousin who stopped sending one back, and the address is memorised.
+facetHigh: Zest pressed into sugar before the eggs go in. The bin is at the kerb on Tuesday night; the prescription is collected the day before it runs out.
+facetMid: Pound cake wrapped for the neighbour, foil tucked under. You answer the group chat by morning, even the dull threads, even the ones you could let drift.
+facetLow: Lemon by the squeeze, not the spoon. You leave the dinner when the talk thins, jacket already on, the dessert plate passing the other way.
+facetLeast: Half a batter standing while you start a soda bread instead. You quit the committee the week it bores you and feel no pull to explain it.
 ---
 
 Crystallised Navy Beans are the Bean Zodiac's most dutiful — they will be here, doing this, for as long as it needs doing.

@@ -6,12 +6,12 @@ form: dried
 trait: acerbic
 dish: Fava bean dip with dried sumac, raw onion, and olive oil.
 quote: The truth will set you free, but first it will bean you.
-seasonalFortune: The sumac's tang carries what cannot be softened. The words arrive concentrated, demanding the palate adjust rather than sugar them down. Precision is the kindness offered here.
-facetMid: Sharp enough to cut, yet the plate is ready. The dip holds its edge without spilling over the rim.
-facetHigh: Olive oil pools at the truth's edge, golden and unapologetic. Every word lands clean, and the mouth learns something.
-facetMost: Stripped raw as the onion itself — the moment demands the uncut thing, and clarity offers its own kind of nourishment.
-facetLow: The edge has dulled slightly, lost some of its precision. Words reach their target but without the same exactness.
-facetLeast: Smoothed and rounded, the flavour has become soft where it once was keen. The message arrives but the point has been muted.
+seasonalFortune: A season pitched at the brightness of sumac — life arrives undiluted, and the company kept tends to be those who can take their food without sugar stirred in.
+facetMid: Sumac dusted over plain bread. Your replies arrive in one sentence — the verdict given, no garnish around it, the thread closed before the recipient can ask twice.
+facetHigh: Olive oil cuts the dip without smoothing its tang. When you owe an apology you give it whole — no qualifying clause, no shifting of weight onto circumstance.
+facetMost: Raw onion, no soak, no rinse. Friends bring you the draft, the outfit, the half-formed plan because they know you will not pretend it works.
+facetLow: Onion left to rest under oil before serving. You wait for the right hour to say the hard thing; the room you keep is calmer for it.
+facetLeast: Sumac folded deep into the dip until only warmth remains. Reading another's work, you find the strong line first, and your praise is the thing they keep.
 ---
 
 Dehydrated Fava Beans are the Bean Zodiac's most acerbic — they have the courage to say what others won't, and none of the patience to soften it.

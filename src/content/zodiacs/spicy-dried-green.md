@@ -6,12 +6,12 @@ form: dried
 trait: electric
 dish: Gan bian sijidou - dry-fried green beans with dried chili and garlic.
 quote: Energy cannot be beaned — it can only be transformed.
-seasonalFortune: The beans swell with residual heat from cooking oil long cooled. What once moved quick now settles into the spice, patient as aged stock. The season asks for this stillness — this is when the flavor deepens without friction.
-facetMid: Crackling edges give way. The bean finds its rest in what absorbs rather than resists.
-facetHigh: Each fracture in the skin releases something steadier underneath. The intensity pools into sweetness.
-facetMost: The wok cools. What remains is the full depth — the spice no longer bright but woven through, inseparable from the bean itself.
-facetLow: The warmth disperses evenly through the oil. No spark, only saturation.
-facetLeast: All current moves through the broth. The bean dissolves into the whole, indistinguishable from what surrounds it.
+seasonalFortune: A dry wok throws sparks before the oil arrives. The season belongs to those who carry their own heat into the room, blistering the skin of the day until the garlic catches.
+facetMid: Chilies blacken in hot oil. You walk into a slack conversation and the cadence sharpens; people sit up without knowing why.
+facetHigh: Garlic hits the pan and the kitchen wakes. Your thumb on the screen at midnight, firing off the message that pulls three friends out of their beds.
+facetMost: Oil smoking before the bean goes in. You begin the work loud — half-formed, half-shouted — and let the room flinch into the shape of it.
+facetLow: The wok rests between batches. You let a quick reply sit overnight; morning trims it down to the line worth sending.
+facetLeast: Steam off a covered pot, slow and even. You move through weather without registering it, untouched by the small electricities other people chase.
 ---
 
 Sichuan Green Beans are the Bean Zodiac's most electric — the energy was already immediate; the heat has made it impossible to ignore.

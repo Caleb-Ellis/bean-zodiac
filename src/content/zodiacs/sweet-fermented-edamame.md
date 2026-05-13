@@ -6,12 +6,12 @@ form: fermented
 trait: systematic
 dish: Edamame in mirin and sake reduction — soybeans lacquered in sweet rice wine, simmered until each one is evenly coated and glossed.
 quote: For every bean effect there is a definite cause; for every cause there is a definite effect.
-seasonalFortune: The brine holds what the bean cannot hold alone. Every layer of salt and ferment is a wall against the collapse that waits. When the walls crack — and they will — the shape beneath may surprise.
-facetMid: The lacquer gloss beneath every surface keeps things from sticking where they shouldn't.
-facetHigh: A system that was built to bend is not breaking when it bends.
-facetMost: The scaffold that held together everything sacred is still holding.
-facetLow: The pattern dissolves and what emerges tastes like something altogether new.
-facetLeast: The beans scatter in the pot and somehow find their seasoning anyway.
+seasonalFortune: A season for slow reductions. The mirin gives up its sugar by degrees, the sake its sharpness, and what coats the bean is the patience of a long, low flame.
+facetMid: Mirin reduces only at the heat it asks for. You keep a running list in your head of what each room, each errand, each friend requires, and you work the list in order.
+facetHigh: The sake goes in first, then the mirin, never reversed. Before you pack a bag you write the trip out — nights, weather, what gets worn twice — and the bag is light.
+facetMost: A glaze is a hundred small decisions reduced to one gloss. Friends ask how you remember birthdays and you show them the spreadsheet, half-apologetic, fully unwilling to abandon it.
+facetLow: Soybeans burst their pods in whatever order suits them. You answer the messages that catch your eye, leave the rest, and the day arranges itself around your attention.
+facetLeast: The pot simmers without a timer and the beans come out glossed anyway. You buy the ticket the morning of, pack standing up, and find the hotel from the train.
 ---
 
 Funky Edamame are the Bean Zodiac's most systematic — they think about how things work before committing.

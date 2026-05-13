@@ -6,12 +6,12 @@ form: fried
 trait: expressive
 dish: Cannellini zeppole — fried Italian doughnuts with a white bean and ricotta filling, tossed in cinnamon sugar.
 quote: I am not afraid of storms, for I am learning how to bean my sail.
-seasonalFortune: The sugar's bloom opens beneath the oil — what rises will find its own surface, unfiltered and immediate.
-facetMid: The cannellini breaks its skin before the oil does; the moment catches what's already moving outward.
-facetHigh: A full heat draws the filling's sweetness through — what emerges travels farther than the pan's edge.
-facetMost: The zeppola speaks while still steaming; the cinnamon settles on tongues without waiting for permission.
-facetLow: The beans hold their shape longer in the cooler oil; the sweetness deepens inward before it rises.
-facetLeast: The filling stays sealed, sugaring the outside while keeping the interior quiet — expression turns to itself.
+seasonalFortune: A season of split skins and warm sugar; rooms fill quickly around the bean that arrives still hissing from the oil.
+facetMost: Cinnamon dust on every fingertip. You answer the message before the screen has stopped lighting up, mid-thought and grinning.
+facetHigh: The zeppola splits steam at the table. Strangers learn your sister's name, your last argument, the price of your shoes.
+facetMid: Filling presses against pastry. A song catches you and the kitchen hears it — your hands keep working but the room knows.
+facetLow: Ricotta cools slow at the core. You draft the reply three times, then send something shorter than what you felt.
+facetLeast: A dusted shell, sealed. You leave a party and friends realise later you never told them the thing that happened Tuesday.
 ---
 
 Caramelised Cannellini Beans are the Bean Zodiac's most expressive — what they feel moves immediately to the surface.

@@ -6,12 +6,12 @@ form: roasted
 trait: sensitive
 dish: Bhuna moong chaat - dry-roasted mung beans with tamarind chutney, red onion, and chaat masala
 quote: Nothing is so strong as bean-ness.
-seasonalFortune: The chaat masala settles differently on each bean this season. Layers of salt, smoke, and pepper arrange themselves according to what the wind has already touched. This is the season of reading the dust, not the shell.
-facetMid: The tamarind's threads run through everything — visible to those pausing long enough to taste.
-facetHigh: Every edge carries meaning. The char marks the roast, the onion's bite sharpens the picture, each spice occupies its exact note.
-facetMost: The full weight of the meal arrives. Every element speaks; all of it matters.
-facetLow: The surface satisfies. Salt and surface are enough for the afternoon.
-facetLeast: The beans scatter across the plate, each one separate, each one calling for nothing.
+seasonalFortune: A season when tamarind reaches further than expected. The mung's roasted skin catches every change in the room's air, and the bean keeps a record the cook does not.
+facetMid: Onion bites first, tamarind answers later. You hear the second sentence in a message and reply to that one.
+facetHigh: Chaat masala on the tongue, named spice by spice. A friend's voice goes thin on a vowel and you cancel your evening.
+facetMost: The roast remembers the pan it cooled in. You walk into a room and know who left it angry an hour ago.
+facetLow: Tamarind hits, you swallow, you move on. Texts get answered in the order they arrive, not the order they ache.
+facetLeast: Salt, smoke, sour — one good plate, no sub-notes. You sleep through the argument in the next apartment and wake rested.
 ---
 
 Chimichurri Mung Beans are the Bean Zodiac's most sensitive — they register everything, including what was not said.

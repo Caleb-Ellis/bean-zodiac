@@ -6,12 +6,12 @@ form: boiled
 trait: loyal
 dish: Caldo Verde - kidney beans and kale.
 quote: The bean that matters most is not the one you were born with, but the one you choose to keep.
-seasonalFortune: Caldo Verde simmers longest when the kale hasn't yet learned to soften. The season asks what drowns in the broth and what rises. Loyalty that survives the heat may be something else entirely by spring.
-facetMid: The bean settles at the bottom where the salt collects. This is not absence.
-facetHigh: The broth remembers every bean that refused to surface. Depth is its own language.
-facetMost: What endures the longest boil becomes the bone of the broth itself — indistinguishable from the whole, held there by every hour of heat.
-facetLow: A day for lighter commitments — the kale wilts before the broth finds its depth.
-facetLeast: The pot drifts between temperatures. Caldo Verde brewed from a wandering flame tastes of many intentions, settled into none.
+seasonalFortune: A long pot kept low, kale folded in late. The kitchen runs at the pace of the slowest ingredient, and what stays in the broth all afternoon is what feeds anyone by evening.
+facetMost: Kale stripped from its rib, one leaf at a time. You answer the same friend's calls a decade after everyone else stopped picking up, and the hour it costs is not an hour you count.
+facetHigh: The pot you started Sunday morning, still on the back burner. When a name comes up you haven't heard in years, you already know which winter they lost their mother.
+facetMid: A bean held under broth, soft but unbroken. You keep the standing dinner with the friend who cancels half the time; the table is set anyway.
+facetLow: Salt thrown in late, kale wilting fast. You let the group thread go quiet for months and feel no pull to revive it; the ones who matter find you by other doors.
+facetLeast: A broth ladled out before it deepens. You leave the job, the city, the standing order without looking back, and the next pot is already on the flame.
 ---
 
 Infused Kidney Beans are the Bean Zodiac's most loyal — they commit completely and stay, long after others leave.

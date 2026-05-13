@@ -6,12 +6,12 @@ form: smoked
 trait: sardonic
 dish: Frijoles borrachos al mezcal - smoked pinto beans with mezcal, orange, and pasilla chile
 quote: Outside of a bean, a dog is a man's best friend. Inside of a bean, it's too dark to read.
-seasonalFortune: Smoke clears, eventually. This season, the veil thins — what once seemed clever begins to show its sinews, and the question becomes whether to peek or let it remain obscured.
-facetMid: The mezcal burns clear. The observer steps forward to taste.
-facetHigh: Orange peel and ash both belong on the tongue. The truth lands without warning.
-facetMost: The remove dissolves. What was said at a distance is spoken face to face, and the air tastes like completion.
-facetLow: The mezcal tastes like mezcal. The pasilla's heat comes straight through, unadorned.
-facetLeast: All distance collapses. Everything means what it says, and there is nowhere else to stand.
+seasonalFortune: A pot smoked over pasilla keeps its commentary low. The season favours those who watch the room before they enter it, and who answer questions a half-beat late.
+facetMost: Mezcal arrives already smirking. At the group text, you are the one who names the thing nobody wanted named, in seven words, then goes quiet.
+facetHigh: Orange peel curls against ash. You walk into a room, read the mood, and adjust your face before anyone notices you adjusting.
+facetMid: Pasilla heat shows up after the swallow. Compliments leave your mouth wrapped in a small twist; the receiver has to unwrap them at home.
+facetLow: The mezcal tastes like mezcal. You answer the question asked, in the order asked, and feel no urge to angle the reply.
+facetLeast: Smoke parts; the pot is just a pot. You praise things straight, apologise straight, and never workshop a sentence before letting it go.
 ---
 
 Cured Pinto Beans are the Bean Zodiac's most sardonic — their expressiveness has curdled into something that watches the proceedings from a slight remove.

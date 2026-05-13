@@ -6,12 +6,12 @@ form: roasted
 trait: insightful
 dish: Soy and mirin roasted black soybeans with ginger and star anise.
 quote: The only true wisdom is knowing you know nothing about beans.
-seasonalFortune: The veil draws back on what has hidden beneath the glaze. The bones of it matter — they will reshape how others taste the whole.
-facetMid: The smoke clears; the structure beneath the surface holds firm.
-facetHigh: Layers unfold like the skin of a roasted bean — each one reveals what the last concealed.
-facetMost: The broth speaks truths that the surface never could.
-facetLow: The surface reflects only what sun catches; the root systems remain private.
-facetLeast: The shape shifts with each glance — what seemed fixed moments ago dissolves.
+seasonalFortune: A season for the slow stare. Glaze hardens over what matters; the season belongs to those willing to crack it and read what cooled underneath.
+facetMost: Star anise opens in eight directions at once. You reread the short message four times, then answer the question the sender didn't ask.
+facetHigh: Ginger keeps biting after the bite. A laugh lands wrong at the table; you note who else heard it and store the moment whole.
+facetMid: Mirin needs an hour to find the bean. Mid-draft, you stop, walk away, and return knowing which sentence is the load-bearing one.
+facetLow: Soy on the tongue, soy on the tongue — no second layer asked for. A friend says they're fine; you take fine and move the conversation on.
+facetLeast: Roasted skins crack and you keep eating. A plan stops working; you swap it for the next one before anyone names what went wrong.
 ---
 
 Rendered Black Beans are the Bean Zodiac's most insightful — the insight is an invitation, not a verdict.

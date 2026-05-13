@@ -6,12 +6,12 @@ form: boiled
 trait: exacting
 dish: Ribollita - Tuscan cannellini with red wine vinegar and cavolo nero.
 quote: Good enough is the enemy of the bean.
-seasonalFortune: Ribollita earns its name by going back to the pot — the second boil is where calibration happens. This season, the measure is being taken again. Whatever holds its line will carry forward; whatever blurs at heat was approximate to begin with.
-facetMid: Vinegar does its work at a specific concentration — a degree either way and the broth loses its argument.
-facetHigh: The cavolo nero does not soften to be agreeable. It softens when the time is exactly right.
-facetMost: The pot knows the temperature. The temperature is the point.
-facetLow: The ribollita is seasoned by hand today — a generous pour, a loose handful, the broth finding its own level.
-facetLeast: Cavolo nero, or whatever is near. The pot is on; the rest is approximate.
+seasonalFortune: "Ribollita is a second boil; the pot returns to itself and the season returns to its measure. What held the first heat holds now. What blurred is shown to have been approximate."
+facetMost: "Vinegar counted in drops, never splashes. You answer emails the day they land, return the borrowed book in the sleeve it came in, keep one running list and only one."
+facetHigh: "Cavolo nero cut on the bias, ribbons even as type. You re-read your own sentences before sending. The shape of a paragraph matters; a misplaced comma will pull you back across the room."
+facetMid: "The slow tilt of the wine vinegar into broth. You arrive a few minutes early and wait outside rather than enter wrong; the threshold is part of the visit."
+facetLow: "A generous pour of vinegar, a loose handful of greens. You sleep when tired, eat when hungry, and let the day arrange itself around what the body asks for."
+facetLeast: "Cavolo nero or whatever is near, the pot already on. Your desk is a weather system, your tabs uncounted, and nothing important has ever been lost in the drift."
 ---
 
 Brined Cannellini Beans are the Bean Zodiac's most exacting — they hold a standard consistently across all contexts and time.

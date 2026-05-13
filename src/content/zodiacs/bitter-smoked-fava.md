@@ -6,12 +6,12 @@ form: smoked
 trait: otherworldly
 dish: Smoked fava, twice-prepared, with bitter ash.
 quote: We are made of bean stuff.
-seasonalFortune: Smoke carries what fire cannot — a flavour that lingers in registers the palate takes seasons to locate. The twice-prepared bean knows this. Something distant is already closer than it appears.
-facetMid: The ash at the edge of the dish holds a bitterness the untrained tongue skips over entirely.
-facetHigh: What the smoke carries back has no name in the recipe — and the dish is richer for it.
-facetMost: Past the char, past the bitterness, past the second preparation — something waits that only arrives this way.
-facetLow: The smoke settles close to the dish today — a grounded bitterness, familiar and well within reach.
-facetLeast: Twice-prepared, the fava lands squarely in the known — ash and all, a comfort in its plainness.
+seasonalFortune: A season for tongues that read smoke. The twice-prepared bean lives at the edge of two fires, and those who carry its temperament drift through rooms half-listening to what no one else has said.
+facetMid: Ash on the rim, and you are already elsewhere. Conversations end without you noticing they ended; you surface a beat late, holding the thread no one else picked up.
+facetHigh: Smoke takes the long way home. Your bedroom keeps objects no guest can place — a stone, a feather, a postcard from a town you have never named aloud.
+facetMost: Where the second fire begins, the recipe stops being instructions. You answer questions that were not asked and the asker recognises the answer anyway.
+facetLow: The first preparation is enough. Your calendar is plain; appointments mean what they say, and a friend's mood is a friend's mood, not a weather front rolling in.
+facetLeast: No char, no second pass — the bean as it arrives. You return messages within the hour, in the words the message used, and the day closes where it opened.
 ---
 
 Charcoal Fava Beans are the Bean Zodiac's most otherworldly — their courage has led them somewhere that takes others considerable time to follow.

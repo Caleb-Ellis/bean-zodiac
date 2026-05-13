@@ -6,12 +6,12 @@ form: fermented
 trait: defensive
 dish: Red beans and rice - Louisiana style with fermented hot sauce and lime.
 quote: The best bean is the one already inside the fortress.
-seasonalFortune: The vinegar speaks to what was sealed. Listen — the fermentation knows its own vessel, knows what enters, knows what must stay. A reckoning arrives with the brine, asking whether the membrane still remembers its purpose.
-facetMid: Sourness and salt work together at the threshold.
-facetHigh: The brine holds its shape. Everything essential remains exactly where the fermentation placed it.
-facetMost: Boundaries breathe — each wall lacquered with time, purposeful as the rice beneath, yielding nothing that isn't already known.
-facetLow: The lid lifts, and brightness floods the crock.
-facetLeast: Walls blur like oversoaked husks. Everything pours freely into everything else.
+seasonalFortune: A season of sealed jars and tested lids. The brine sharpens, the rice waits beneath, and old hulls thicken against weather that has not yet arrived.
+facetMost: Lime cuts a clean line across the rice. You keep certain doors latched on principle; what stays out has been ruled out for years, and you can name each reason.
+facetHigh: Hot sauce settles at the bottom of the bottle. Messages sit unopened until you decide who deserves the reply; the unread count is a moat, not an oversight.
+facetMid: The crock ferments quietly in the corner. New acquaintances meet a pleasant outer wall; the real kitchen stays behind it until they have earned the second room.
+facetLow: A jar passed across the table, still warm. You lend the good knife, the spare key, the last of the rice — and forget to ask after them.
+facetLeast: Brine thinned with river water. You answer the door mid-sentence, hand over the recipe before being asked; closing time is something other households observe.
 ---
 
 Pickled Kidney Beans are the Bean Zodiac's most defensive — they know exactly what they are protecting and why.

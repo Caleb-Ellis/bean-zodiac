@@ -6,12 +6,12 @@ form: dried
 trait: pointed
 dish: Dried edamame with ponzu and toasted sesame.
 quote: The pen is mightier than the bean.
-seasonalFortune: The ponzu has been settling. What rises to the surface this season asks only to be named.
-facetMid: The sesame grain lands where intention placed it.
-facetHigh: The seed splits clean. The opening shows exactly what was always there.
-facetMost: Edge finds target without hesitation. The point cuts through to the thing that matters.
-facetLow: The edge rounds slightly. What lands carries softness along with its force.
-facetLeast: The point disperses into the liquid. The clarity spreads and diffuses across everything.
+seasonalFortune: Ponzu sharpens in the bowl as the pod dries. A season for short sentences; the citrus does the rest.
+facetMid: Ponzu cuts the salt before the salt can spread. The apology you owe arrives in one sentence, named, before lunch.
+facetHigh: A pod cracks along its dried seam. Your reply lands in three lines where a paragraph was expected, and the thread closes.
+facetMost: Sesame toasted to the dark edge. At the meeting you ask the one question everyone else has been circling for forty minutes.
+facetLow: Sesame scattered loose across the bowl. You give the long answer at the door because the short one would close it.
+facetLeast: Ponzu pooled wide and shallow. You leave the draft open for a week, circling, and the version that arrives is kinder for it.
 ---
 
 Dehydrated Edamame are the Bean Zodiac's most pointed — quick, sharp, and aimed.

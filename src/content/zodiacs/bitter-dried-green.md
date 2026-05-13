@@ -6,12 +6,12 @@ form: dried
 trait: honed
 dish: Appalachian Leather Britches - with bitter herbs and salt pork.
 quote: Give me six hours to chop down a tree and I will spend the first four sharpening the bean.
-seasonalFortune: The brittle pod knows which fiber will snap first. What wears thin may reveal the sinew beneath — what remains after the salt has done its work is what cuts.
-facetMid: Edges find their angle in half-light, where pressure meets the grain.
-facetHigh: Something breaks the wrong way and teaches the hand how it was meant to move.
-facetMost: The blade passes through the matter with the certainty of something that has already worn itself smooth; no hesitation, all consequence.
-facetLow: The leather britches simmer untended, the herbs scattered without intention.
-facetLeast: A blade left in the drawer — sharpness preserved for its own sake, waiting for a task that keeps drifting.
+seasonalFortune: Strung beans wait through winter on a single thread, surrendering water to time. What hangs long enough loses everything but the line of itself, and the line is what cuts.
+facetMost: A blade drawn once across the strop, then set down. The work you keep is the work that survived the paring — three sentences, one pot, nothing else asked to stay.
+facetHigh: Salt pulls water from the pod until only fiber remains. You wake hungry for one thing and refuse the whole table until it arrives.
+facetMid: Bitter herbs hung in bunches, each within reach. Your drawers hold few objects; the ones that stay have earned the shelf twice over.
+facetLow: Strings left long on the vine, gathered all at once. Tabs stay open, threads stay unread, and the thing you need surfaces anyway.
+facetLeast: A pantry of jars, none labeled, none discarded. You keep every gift, every receipt, every half-finished notebook; thinning the pile feels like losing it.
 ---
 
 Desiccated Green Beans are the Bean Zodiac's most honed — all the urgency, none of the waste; all the speed, only toward what deserves it.

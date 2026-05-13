@@ -6,12 +6,12 @@ form: fried
 trait: direct
 dish: Black bean tostadas with lime crema - refried black beans on a crisp fried tortilla with sour cream and lime.
 quote: Say what you bean and bean what you say.
-seasonalFortune: The beans have split their skin and let their interior show. This is the season of surfaces stripped bare — what was hidden now catches light without filter or apology.
-facetMid: The lime cuts through. Its sharpness doesn't soften the bean; it renders the bean more itself.
-facetHigh: Acid finds its mark. The brightness makes what is true unmissable.
-facetMost: The bean cracks open. What spills out needs no translation.
-facetLow: The path winds first. The spice arrives in layers, then reveals what was underneath.
-facetLeast: The flavours travel hidden — each note arrives as its own story, waiting to be found.
+seasonalFortune: Tortillas crisp loud in the pan; nothing here is hidden under sauce. A season for plain saying, for the lime that names what the bean already was.
+facetMid: A tortilla snaps clean along its fold. Your reply is one line; the thread closes because there was nothing left to add.
+facetHigh: Crema thinned to its honest weight. The apology you owe goes out short, named, unbuffered — no preamble to soften the landing.
+facetMost: Lime hits the tongue before politeness can intervene. You tell the friend the thing nobody else will, in the room where it matters.
+facetLow: The pan layers oil, bean, salt in slow order. You take the long route to a point, and the people around you learn it better that way.
+facetLeast: Refried beans cover what the tortilla carried first. You keep the sharp thing in a drawer, brought out only for the room that has earned it.
 ---
 
 Agrodolce Black Beans are the Bean Zodiac's most direct — they see it and say it.

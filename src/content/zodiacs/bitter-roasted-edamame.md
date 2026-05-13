@@ -6,12 +6,12 @@ form: roasted
 trait: witty
 dish: Roasted edamame with bitter lemon zest and smoked paprika.
 quote: A bean is a terrible thing to waste.
-seasonalFortune: Lemon zest brightens without sweetening — it sharpens what's already there. The season rewards the well-placed remark over the obvious one, the edge that arrives warm rather than cold.
-facetMid: The paprika settles into the shell. A dry observation, landed just so, opens more than a direct question.
-facetHigh: Bitter zest at its peak — the precise word cuts clean and leaves no bruise.
-facetMost: Release every layer. Smoke, zest, salt — nothing held in reserve. The wit is the gift; give it all.
-facetLow: The paprika is listed before the lemon zest on the dish — earnestly, literally, in order. The wood-fired edamame arrives warm and straightforward.
-facetLeast: Smoke, shell, salt — each noted in turn, each taken at face value. The lemon zest goes unremarked upon.
+seasonalFortune: A season of warm smoke threaded with cold zest. The air rewards the remark that arrives blistered at the edges and salted at the center, never the one shouted plain.
+facetMid: Paprika clings to a split shell. Your replies in the thread land sideways, and the group chat quotes you back to yourself by morning.
+facetHigh: Zest meets heat at the rim of the pan. You hold court at the edge of the room, trading the shortest sentences and collecting the longest laughs.
+facetMost: Wood-fire as your whole vocabulary. Draft the line, salt it, send it; the page is the pod and the pod is already cracked open before anyone reads.
+facetLow: The receipt is read aloud, item by item. You return the wrong size without a story attached, pay what is owed, and leave the lemon on the counter.
+facetLeast: Bean, shell, salt, dinner. You set the table the way the recipe prints it, serve the smoke without comment, and call early evening a fine hour to sleep.
 ---
 
 Wood-Fired Edamame are the Bean Zodiac's wittiest — they are sharp without making others feel small.

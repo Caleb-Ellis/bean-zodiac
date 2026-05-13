@@ -6,12 +6,12 @@ form: roasted
 trait: capricious
 dish: Green beans roasted with pomegranate molasses and toasted almonds — charred at the tips, sticky and sweet from the oven.
 quote: Consistency is the last refuge of the unimaginative bean.
-seasonalFortune: The char that falls away reveals the sauce beneath — seasons crack open what summer had sealed. Each shift in the wind brings a different heat, and the beans know which way to turn before the smoke clears.
-facetMid: The pomegranate's seed settles differently in each pan — the sweetness follows the tilt.
-facetHigh: Warmth finds the crevice and splits the shell open. The almond's path through the oil is never twice the same.
-facetMost: Catch the drift. The kernel changes colour because it must.
-facetLow: The bean holds its shape through the whole roast — the same pan, the same flame, the same turn of the wrist.
-facetLeast: Roots grow deeper where the soil stays still. What was planted here will remain, season after season, in the same bed.
+seasonalFortune: A pan left in a hot oven keeps cooking past the cook's intention. Seasons here arrive sticky-tipped and uneven, sweetness pooling wherever the heat last leaned.
+facetMid: Almonds skitter when the pan tilts. Your group thread proposes Thursday, then Friday, then a different bar entirely — the invitation keeps moving.
+facetHigh: Molasses takes the shape of whatever it lands on. The draft you opened this morning is a different essay by lunch, and you mean every version of it.
+facetMost: Char at the tips, sugar at the root. You walk into the kitchen for one dish and walk out having made another, the original recipe still open on the counter.
+facetLow: A roast holds its temperature whether you watch or not. The plan you made on Sunday is the plan you serve on Saturday, almonds and all.
+facetLeast: Pomegranate seeds sit where they fall. You said the pan goes in at seven; it goes in at seven, and no shift in the wind moves it.
 ---
 
 Glazed Green Beans are the Bean Zodiac's most capricious — they change direction with warmth and conviction that makes each new thing feel inevitable.

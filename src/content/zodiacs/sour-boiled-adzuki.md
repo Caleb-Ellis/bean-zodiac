@@ -6,12 +6,12 @@ form: boiled
 trait: sincere
 dish: Adzuki bean soup with umeboshi and ginger broth.
 quote: This above all - to thine own bean be true
-seasonalFortune: The umeboshi does its work without announcing itself — the broth knows. A season where bare substance carries further than any garnish could.
-facetMid: Ginger left whole still scents the broth. What is real flavours without being dissolved.
-facetHigh: The adzuki releases its sweetness slowly, no heat required. Meaning moves the same way.
-facetMost: Speak the broth as it is — salt, sour, warmth. The bowl does not ask for translation.
-facetLow: The garnish gets more attention than the broth. Presentation fills the bowl.
-facetLeast: A soup assembled from memory of soup. The motions are correct; the umeboshi is decorative.
+seasonalFortune: A season pickled in its own salt. The bare broth does the carrying; the cured plum colours every spoonful without needing to be tasted directly.
+facetMost: Salt, sour, the slow red of the adzuki. You name what you feel by its plainest word and refuse the longer one offered as a kindness.
+facetHigh: Ginger surrendering its heat one slice at a time. You let people see you in increments, but each increment is the same bean — nothing reserved for later.
+facetMid: A pot simmered long past appearances. You cook the thing you actually want to eat, and serve it without arranging the bowl for anyone's photograph.
+facetLow: The umeboshi placed for colour, not for cure. You stage the rooms you live in; what reads as warmth was sourced for it.
+facetLeast: A bright surface above no broth. You answer the message in the voice you wish you had, and the ginger is only an emoji.
 ---
 
 Brined Adzuki Beans are the Bean Zodiac's most sincere — they celebrate only what they truly feel, and feel without restraint.

@@ -6,12 +6,12 @@ form: dried
 trait: conductive
 dish: Harira - Moroccan chickpea soup with ras el hanout.
 quote: It only takes a bean to start a great fire.
-seasonalFortune: A pinch of ras el hanout stirred into the pot on the first day will be tasted in every bowl ladled for months; the chickpeas carry it the length of the season.
-facetMid: Ginger and cinnamon, bloomed in oil, find the broth before the bean does.
-facetHigh: Stir the harira once and the pepper reaches the rim of the pot.
-facetMost: One chickpea split against the spoon; the whole kitchen smells of cumin by evening.
-facetLow: The chickpeas hold their skins; ras el hanout settles in a ring at the bottom of the bowl.
-facetLeast: Harira eaten close to the pot — each spoonful its own weather, the cinnamon never reaching the second helping.
+seasonalFortune: One bowl of harira passes through a household and the cumin lingers in the curtains for weeks; the chickpea travels further than the spoon that carried it.
+facetMost: Cinnamon crossing a cold kitchen. You walk into a quiet room and within an hour the argument has started, the laughter has started, something has started.
+facetHigh: A single peppercorn in the oil and the whole pot wakes; you say the one sentence a meeting needed and the table tilts toward it.
+facetMid: Ras el hanout finds the broth before the bean softens. Your mood arrives in a room ahead of you and people meet it at the door.
+facetLow: Ginger held back from the pan, kept whole in the jar. You sit through the dinner without leaving a fingerprint on its weather.
+facetLeast: Chickpeas dried on the rack, sealed in a tin; messages left on read for days. The kitchen passes through you and nothing of it carries.
 ---
 
 Sichuan Chickpeas are the Bean Zodiac's most conductive — they fit into every environment, and in every environment, eventually, something shifts.

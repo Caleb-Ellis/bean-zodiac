@@ -6,12 +6,12 @@ form: roasted
 trait: unpredictable
 dish: Frijoles charros - pinto beans simmered with roasted pasilla chiles, bacon, and jalapeño.
 quote: Consistency is the last refuge of the bean-less.
-seasonalFortune: The roasted bean holds fire unpredictably. Some seasons the pasilla's smoky depth emerges first; others the jalapeño ignites before anything settles. This is the season to trust the order that reveals itself, not the order planned.
-facetMid: The bacon crackles in an unexpected rhythm. The simmer finds pockets of heat that weren't mapped. Small departures make the dish itself.
-facetHigh: The pot contains multitudes. Pasilla, jalapeño, and char trade places — each day the flavor arrives in a new hierarchy. This is mastery wearing a different face each time.
-facetMost: The full range of the roasted bean reveals itself — a different heat signature, a different balance, a different soul entirely. The foundation holds. The surprises multiply.
-facetLow: The patterns settle into grooves. Each ingredient finds its place and stays. The jalapeño's fire follows the same descent.
-facetLeast: The beans roast to the same copper every time. The bacon offers no variation. Heat becomes predictable, mapped, and contained.
+seasonalFortune: Roasted pintos refuse a fixed order this season; some pots lead with pasilla smoke, others with jalapeño bite. The kitchen rewards those who taste before they plan.
+facetMid: Bacon spitting against the iron, never the same beat twice. You change the route home for no reason. Friends learn to ask which version they've got.
+facetHigh: A pasilla cracks open and the whole pot tilts toward it. You answer emails in the order they smell interesting, not the order they arrived.
+facetMost: Three chiles in the pan, none in the recipe. You introduce yourself differently each time and mean every version. Acquaintances compare notes and find separate people.
+facetLow: The jalapeño goes in at the same minute it always has. Your weeknights run on a fixed rotation; the leftovers tell you which day it is.
+facetLeast: Pintos roasted to the exact copper your mother used. You reread the books you trust and decline the ones you don't. The grocery list has not changed in years.
 ---
 
 Peri-Peri Pinto Beans are the Bean Zodiac's most unpredictable — no two appearances are the same.

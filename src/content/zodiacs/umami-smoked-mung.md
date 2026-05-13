@@ -6,12 +6,12 @@ form: smoked
 trait: steeped
 dish: Smoked mung bean congee with century egg, ginger, and crispy shallots.
 quote: We do not bean from experience — we bean from reflecting on experience.
-seasonalFortune: A season for the long pot. Smoke works through the grain by inches; nothing new is asked of the kitchen.
-facetMost: Every shirt smells faintly of the kitchen it was hung in. Your habits arrived years ago and have not been replaced since.
-facetHigh: A reply takes three days. By then the question has thickened into something worth answering, like congee left on the lowest flame.
-facetMid: Money goes to the same five places it went to last year. The ginger jar is refilled; the shallots are fried in batches and kept.
-facetLow: Halfway through the congee you are already planning the next pot — different bean, different smoke. Nothing earns a second week.
-facetLeast: Out by morning — the leftovers, the half-read book, the friend who hasn't written. You wake into a room with no residue.
+seasonalFortune: A slow stretch of low heat. The kitchen carries last month's smoke into this one, and the household learns the smell as weather.
+facetMost: The walls have taken on the colour of the pot. You keep the chair where it has always been, and visitors learn to walk around it.
+facetHigh: Ginger sliced thin enough to see through. You arrive an hour before you are needed and let the room come to temperature around you.
+facetMid: A century egg darkens for weeks before it is ready. You do not answer the question the day it is asked; the reply waits until the shape of it sets.
+facetLow: Crispy shallots, then a new oil for the next batch. You leave the chair where the last guest left it and start the playlist over from a different song.
+facetLeast: Smoke clears the moment the lid lifts. Your inbox empties as it fills; nothing waits long enough to acquire a smell.
 ---
 
 Hickory Mung Beans are the Bean Zodiac's most steeped — the care has been in contact with the depth for so long that the two have become one.

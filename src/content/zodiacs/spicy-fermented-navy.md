@@ -6,12 +6,12 @@ form: fermented
 trait: independent
 dish: Alubias con chorizo - Spanish white bean stew with spicy fermented sausage and smoked paprika.
 quote: The bean who follows the crowd will usually get no further than the crowd.
-seasonalFortune: The ferment completes in darkness, salt and spice working without witness. A season that honors the brew developing alone — the conviction that needs no one watching to become itself.
-facetMid: Heat rises where it rises; the sausage cooks without instruction.
-facetHigh: The chorizo sizzles before the oil is called hot.
-facetMost: Paprika teaches itself — smoke and char decide the depth.
-facetLow: The broth waits for the hand that knows which spice comes first.
-facetLeast: The flavors listen to one another, each bowing to the taste of the last.
+seasonalFortune: A season of crocks left untouched in cool dark, salt doing its slow work. The cook who trusts the jar walks past it for weeks; the stew arrives ready.
+facetMid: Paprika dusts your sleeve before the group chat decides where to eat. You have already ordered.
+facetHigh: Chorizo blistering in a dry pan — you start the project the week it occurs to you, draft alone, show no one.
+facetMost: You rearrange the kitchen so the salt sits where your hand falls, not where the last cook left it. Every shelf reset to your reach.
+facetLow: Spoon hovering over the pot, you wait to taste what the host stirred in before salting your own bowl.
+facetLeast: Smoke curling above a covered lid; you put the receipt down and ask three people whether the price was fair before paying.
 ---
 
 Kimchi Navy Beans are the Bean Zodiac's most independent — they followed no one to get here.

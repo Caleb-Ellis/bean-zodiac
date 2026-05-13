@@ -6,12 +6,12 @@ form: smoked
 trait: hermetic
 dish: Smoked cannellini with bitter fennel, sealed.
 quote: I want to bean alone.
-seasonalFortune: The fennel has been sealed in with the smoke for a reason — what looks like exclusion is a long curing process, and the jar will know when it's ready to open.
-facetMid: The smoke holds its shape inside the vessel; the seal is doing exactly what a seal does.
-facetHigh: Bitter compounds need enclosure to concentrate — the cannellini keeps its own counsel and deepens.
-facetMost: Lock the lid. Everything worth keeping is already inside.
-facetLow: The smoke drifts a little before the lid goes on — the fennel catches it first.
-facetLeast: The jar sits open; the bitter smoke disperses into the kitchen, thinning as it goes.
+seasonalFortune: A season cured behind glass. The smoke pools where the fennel was laid down, and the household measures its hours by what stays sealed rather than what arrives.
+facetMid: Fennel darkens inside the jar. You answer texts on a delay long enough that friends have stopped expecting otherwise, and nobody minds.
+facetHigh: Smoke concentrates because it has nowhere to go. Your apartment door stays shut on Saturdays; the buzzer is a suggestion, not a summons.
+facetMost: One lid, one bean, one bitter herb. You pay rent in cash at the office to avoid the small talk an autopay confirmation would invite.
+facetLow: The seal lifts early; fennel-smoke wanders the counter. You leave the bedroom door open while you sleep, trusting the rest of the flat to drift in.
+facetLeast: An unlidded jar on the sill, the bitterness gone by morning. You tell a stranger on the bus where you were born and feel lighter for the next stop.
 ---
 
 Charcoal Cannellini Beans are the Bean Zodiac's most hermetic — they have refined what they will allow through to almost nothing.

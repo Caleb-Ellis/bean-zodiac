@@ -6,12 +6,12 @@ form: roasted
 trait: prudent
 dish: Roasted navy bean and bitter endive salad with mustard vinaigrette.
 quote: In preparing to bean, I have always found that plans are useless, but planning is indispensable.
-seasonalFortune: Mustard seed holds its sharpness for years before meeting the press — the season rewards those who have kept their bitterness precise and ready.
-facetMid: The endive leaf curls inward before it opens. A second look at the seam finds the fold worth trusting.
-facetHigh: The vinaigrette has been balanced to the drop. What was rehearsed in the bowl holds, even at the table.
-facetMost: The roast is done — pull it now, while the skin still crackles with intention.
-facetLow: The vinaigrette goes in before the mustard is measured. The endive lands in the bowl still warm from the cut.
-facetLeast: The roast comes out early — skin unset, heat still climbing. The navy bean, dense at the centre, carries more than the timing accounted for.
+seasonalFortune: A jar of mustard seed kept dry through three winters; the season favours those whose pantries answer questions before they are asked.
+facetMost: Mustard ground the night before the salad. You set out tomorrow's coat by the door, and the rain that arrives finds you already buttoned.
+facetHigh: The vinaigrette rests in its jar, lid on, waiting. You draft the difficult message, then leave it overnight before sending.
+facetMid: Endive split lengthwise, ribs checked for bitterness before the bowl. You read the clause about cancellation fees twice.
+facetLow: A bean rolls off the pan and you leave it where it lands. Coats heap on the chair; the bill is paid the day it is due, not before.
+facetLeast: Heat climbing in the oven, timer ignored, beans pulled by smell. You buy the lamp in the window and walk it home unboxed.
 ---
 
 Wood-Fired Navy Beans are the Bean Zodiac's most prudent — they anticipate what could go wrong.

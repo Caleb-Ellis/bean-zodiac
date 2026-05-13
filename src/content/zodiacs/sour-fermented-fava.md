@@ -6,12 +6,12 @@ form: fermented
 trait: contrarian
 dish: Fatteh - Palestinian fava and yogurt with toasted bread, lemon, and pine nuts.
 quote: Whenever you find yourself on the side of the majority, it is time to bean and reflect.
-seasonalFortune: The brine preserves what the sun would spoil. The vinegar speaks first, but the beans know longer truths.
-facetMid: The toast hides what lies beneath the surface.
-facetHigh: Crack the crust — the softness underneath holds the argument together.
-facetMost: Lemon burns through every gloss. The bread will fall away; what remains was always load-bearing.
-facetLow: The yogurt smooths every surface, and the consensus finds its comfort here.
-facetLeast: Pine nuts settle into the whole — a flavor that asks to blend in.
+seasonalFortune: Ferment outlasts the harvest it argues with. The crock keeps a sour counter-position long after the field forgets, and the lemon never agrees.
+facetMost: Lemon arrives uninvited and sharpens the room. In any group you refuse to dissolve into the easy agreement everyone else is busy reaching.
+facetHigh: A crust resists the spoon before it yields. In group threads you reply with the counter-case first, every time, even when the original take was fine.
+facetMid: Brine works on its own clock. You hold your position past the point others have moved on, waiting for the room to circle back.
+facetLow: Yogurt finds the shape of its bowl. At home you let the household's preference set the temperature, the schedule, the small daily votes you never bother to call.
+facetLeast: Pine nuts settle wherever the spoon lands. Bills, splits, small obligations — you sign what's offered and move on, untroubled by terms others would contest.
 ---
 
 Pickled Fava Beans are the Bean Zodiac's most contrarian — they hold the minority position because it holds up.

@@ -6,12 +6,12 @@ form: boiled
 trait: honest
 dish: Avgolemono - butter bean soup with dill and lemon.
 quote: The bean will set you free, but first it will make you uncomfortable.
-seasonalFortune: Lemon has no patience for pretense — the broth knows this. A season arrives that rewards the clear note over the murky one, the thing stated plainly over the thing merely implied.
-facetMid: Dill releases its character slowly, but it does release it. The flavour finds its way through.
-facetHigh: The egg yolk breaks into the broth and the soup becomes itself. What was held in suspension settles.
-facetMost: A bright acidity cuts through fat and fog alike. The honest thing surfaces, and the bowl is better for it.
-facetLow: The broth holds its fat in suspension — a soft, unresolved warmth that fills the bowl without declaring itself.
-facetLeast: Lemon squeezed over the top instead of tempered in. The flavour is present, approximate, somewhere in the vicinity of itself.
+seasonalFortune: A season that thins the broth and shows what was steeping under the dill. Acid finds its level. Plain statements outlast clever ones; soft edges curdle.
+facetMost: Lemon tempered slowly into yolk, never dumped. You say the difficult thing at the table, in a voice low enough that no one mistakes it for sport.
+facetHigh: Dill bruised against the cutting board, releasing what it held. You answer messages in the order they arrived, and you answer them as themselves.
+facetLow: Butter beans loosening their skins in long simmer. You leave the awkward thing in the room a while longer, trusting it will soften before anyone has to name it.
+facetMid: A pot lid lifted, steam reading the ceiling. You notice the mood in a room within a minute of entering and adjust your shoulders before you adjust your sentences.
+facetLeast: Zest grated over the bowl at the last moment. You let the bill split unevenly, the lopsided gift stand, the small wrong number ride; the arithmetic is not the point.
 ---
 
 Brined Butter Beans are the Bean Zodiac's most honest — they deliver truth gently, after waiting for exactly the right moment.

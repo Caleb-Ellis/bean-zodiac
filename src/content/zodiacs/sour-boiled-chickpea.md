@@ -6,12 +6,12 @@ form: boiled
 trait: flexible
 dish: Harira - Moroccan chickpea soup with preserved lemon and tomato.
 quote: It is not the strongest bean that survives, nor the most intelligent, but the one most responsive to change.
-seasonalFortune: Preserved lemon takes a year to become itself — held in salt, pressed against what it cannot escape, until the rind surrenders something the raw fruit never could. What is changing now has been soaking that long.
-facetMid: The broth shifts to meet what is added. So does this moment.
-facetHigh: The chickpea softens without losing itself. That is the whole art.
-facetMost: Harira makes room for everything — tomato, lemon, time. Today is that kind of soup.
-facetLow: The dried chickpea before the water. Still, whole, waiting to be told what shape to hold.
-facetLeast: Something in the pot refuses to soften. The spoon finds it again and again.
+seasonalFortune: A pot of harira keeps changing for hours — tomato thinning, lemon sharpening, chickpea giving up its edge. The kitchens that thrive this season are the ones tended slowly.
+facetMost: 'A draft begun in tomato can finish in preserved lemon. You revise the plan mid-sentence, and the new shape fits the page better than the one you outlined.'
+facetHigh: 'At the long table you tilt toward whoever just sat down: their weather, their pace, the joke they almost made. The conversation simmers wherever you stir it.'
+facetMid: 'You start an hour early and end an hour late; the broth dictates the clock. Whatever the calendar said, you cook until the chickpea gives.'
+facetLow: 'The shelf you arranged in March is the shelf in November. Jars stand where you set them, lids facing out, salt where salt has always lived.'
+facetLeast: 'A bill arrives, a date is named, the amount is paid. No counter-offer, no second steeping — the rind stays whole, the terms stay the terms.'
 ---
 
 Brined Chickpeas are the Bean Zodiac's most flexible — they bend to meet what a situation requires, then return to themselves.

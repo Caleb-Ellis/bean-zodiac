@@ -6,12 +6,12 @@ form: fermented
 trait: scholarly
 dish: Cannellini in aged pecorino broth with bitter cicoria.
 quote: I have not failed. I have just found ten thousand ways that will not produce a bean.
-seasonalFortune: The brine grows clouded with what the beans have released. What was hidden in fermentation now demands to be tasted, understood, shared.
-facetMid: Layers reveal themselves to patient attention. The aged broth contains more than the first spoonful suggested.
-facetHigh: Each examination pulls new complexity from the tangle. The deeper the read, the richer the meaning becomes.
-facetMost: Every thread traced to its source. The whole architecture stands visible — all its connections, all its weight.
-facetLow: The surface of the broth is enough for today. A quick skim carries the dish to the table — depth left for another season.
-facetLeast: The first answer fits the bowl and that is where inquiry rests. The pecorino hasn't aged long, but it is sharp enough to serve.
+seasonalFortune: A wheel of pecorino bitters slowly in its rind; the season rewards what has been kept in the dark and turned, occasionally, by a steady hand.
+facetMid: Cicoria hung to wilt above the shelf. You keep the book whose margins are already crowded, because the second pass finds what the first walked past.
+facetHigh: A tab open three weeks, broth darkening on the back burner. You follow the footnote, then the footnote's footnote, and emerge holding something nobody asked you to bring.
+facetMost: Pecorino sharpened by years in its own salt. You finish the essay nobody commissioned, every citation in place, and only then consider who the room is.
+facetLow: The cicoria goes in while still bright. You answer the message before the kettle finishes; the cost of being wrong here is small, and the day is moving.
+facetLeast: Quick broth, bread torn, friends already at the door. You meet the stranger and ask the obvious question first — the long one can wait or never come.
 ---
 
 Cultured Cannellini Beans are the Bean Zodiac's most scholarly — they have a devoted relationship with knowledge, surfacing only when conclusion-ready.

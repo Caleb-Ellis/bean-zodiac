@@ -6,12 +6,12 @@ form: dried
 trait: abiding
 dish: Black bean brownies — dried black beans cooked and folded into dark chocolate batter, fudgy and barely holding together.
 quote: Not all those who bean are lost.
-seasonalFortune: The long simmer deepens the color into something almost black. By season's close, what was broth becomes syrup — the essence concentrates, the chaff rises away, and sweetness settles in the last drop.
-facetMid: Chocolate absorbs into the crumb; the bean's dark presence goes unannounced.
-facetHigh: Fudge layers claim the spoon — what persists is what satisfies.
-facetMost: The paste holds the heat, releases it slowly, sustains across the plate.
-facetLow: Steam rises and dissipates; the flavor moves swift through air.
-facetLeast: The texture crumbles, shifts, flows back into its parts.
+seasonalFortune: A dried bean waits years for its hour and gives it back as fudge. The pan cools slowly; the chocolate sets darker than it looked in the bowl.
+facetMost: The brownie is denser on the third day than the first. You sleep the same hours in any season, wake unprompted, and have not used an alarm in years.
+facetHigh: Beans hold their shape inside the batter. The lamp in the corner has been on the same table since you moved in; you have never thought to move it.
+facetMid: Cocoa stains the wooden spoon a little darker each time. You pay the small recurring bill the morning it arrives, by hand, on a card you have kept for a decade.
+facetLow: Fresh batter on a hot pan, gone in an afternoon. You answer a message the minute you see it or not at all; nothing waits in a draft.
+facetLeast: Chocolate breaks differently each time you melt it. You repaint a wall on a Tuesday, sell the chair you sat in last week, and feel lighter walking past the gap.
 ---
 
 Crystallised Black Beans are the Bean Zodiac's most abiding — they do not announce themselves, but they are always present when it matters.

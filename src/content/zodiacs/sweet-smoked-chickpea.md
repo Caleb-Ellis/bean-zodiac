@@ -6,12 +6,12 @@ form: smoked
 trait: beguiling
 dish: Smoked chickpea and sweet potato tagine with honey, preserved lemon, and ras el hanout.
 quote: Come bean with me and be my love.
-seasonalFortune: Smoke rises before the source is visible — what gathers around the scent may arrive hungry for more than what the fire offers.
-facetMid: The honey working into every crevice — sweetness finds its paths without announcement.
-facetHigh: Layers of smoke settling across the palate — each one landing before the last is named.
-facetMost: The preserve at the center, the spice at the rim, the char at the edge — everything already in place before the feast begins.
-facetLow: The tagine revealed, all elements distinct and legible — what each ingredient brings stands on its own merit.
-facetLeast: Every flavor announces itself clearly at once — the bright arrives alongside the bitter, the warm stands apart from the deep.
+seasonalFortune: Smoke drifts across the yard before the fire is found; the season tends to arrive in noses and ears before anyone agrees it has started.
+facetMid: Honey threading the seams of a closed jar. You answer messages a day late, warmly, and no one minds — the warmth was already in the room.
+facetHigh: Ras el hanout, bloomed slow. You lower your voice in a crowded room and the crowded room leans in; nothing you said required leaning.
+facetMost: The tagine lid lifted at the exact wrong moment, and the table forgives it. You walk into rooms mid-decision and the decision quietly rearranges around you.
+facetLow: Preserved lemon, cut and laid out in plain segments. You say the price before the pitch, the catch before the favor; people know where they stand with you.
+facetLeast: Coals raked flat, every ember in view. Your invitations come with an itinerary attached. Nothing about you arrives by scent first.
 ---
 
 Barbecued Chickpeas are the Bean Zodiac's most beguiling — you are in the middle of something before you understood it had begun.

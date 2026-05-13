@@ -6,12 +6,12 @@ form: boiled
 trait: stubborn
 dish: Rajma - Punjabi kidney bean curry with dried red chilies and whole spices.
 quote: It does not matter how slowly you go so long as you do not bean.
-seasonalFortune: The hull remembers what the broth forgot. Pressure that cannot enter becomes pressure that orbits — and in that shape, the season finds its shape. What will not crack may become the season's question, not its answer.
-facetMid: The skin holds while vapour thickens the broth around it.
-facetHigh: The spices enter the centre through repetition, not through breaking.
-facetMost: The whole pot is arranged by what refuses its terms.
-facetLow: The broth finds new paths when the hull offers room for movement.
-facetLeast: The spice reaches everywhere when the seed agrees to soften at the edges.
+seasonalFortune: A season that simmers without softening. Heat orbits the hull, chilies steeping the broth around a centre that will not yield its shape to the pot.
+facetMost: Chilies bloom long before the bean gives. The household runs on terms you set in winter; furniture, mealtimes, the angle of a lamp — moved only when you move them.
+facetHigh: Red oil pooling at the rim. A message sits four days in the thread; the reply you owe waits for terms the morning has not yet delivered.
+facetMid: Whole spices clicking against the pot lid. You carry an apology the way one carries a stone in the pocket — present, weighed, not yet set down.
+facetLow: Broth finding the gap between beans. Plans rearrange themselves around you mid-afternoon; the route you took this morning is not the route you'll take tomorrow.
+facetLeast: A chili softening into the simmer. At the table you take the seat offered, the dish passed, the topic chosen; the evening shapes itself around the room.
 ---
 
 Braised Kidney Beans are the Bean Zodiac's most stubborn — pressure doesn't move them.

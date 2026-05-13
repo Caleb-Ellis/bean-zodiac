@@ -6,12 +6,12 @@ form: fried
 trait: chaotic
 dish: Chimichangas - deep-fried burritos with spicy pinto beans and ancho chili.
 quote: In the middle of every bean lies opportunity.
-seasonalFortune: Oil snaps around each bean differently this season — some char quick, some sing slow, all worthy of the fire.
-facetMid: The pan holds several notes at once, each one clear.
-facetHigh: Each spark finds its own trajectory through the heat — all of them burning full.
-facetMost: The oil is alive in a hundred directions at once. Let the pan hold them all. Some beans blacken, some stay tender, all are becoming.
-facetLow: One flavor dominates the kitchen today, steady and singular.
-facetLeast: The oil settles. One bean softens at a time. The pan knows what it wants.
+seasonalFortune: A season of spitting oil and half-folded tortillas; the kitchen of this bean runs hot, loud, and rarely in one direction for long.
+facetMost: Ancho heat blooms in every corner at once. Six tortillas open on the counter, six fillings half-made; you move between them, finishing none, fluent in all.
+facetHigh: Oil claims whatever it touches. You leave the shirt on the chair, the chair near the door, the door propped — a trail of half-set things, each abandoned mid-fold.
+facetMid: A burrito splits and the filling spills three ways. Forty tabs open, three drafts unsent, a voice note recorded over a voice note; you find the thread when you find it.
+facetLow: A chimichanga goes in whole or not at all. You finish the thing in front of you before the next pan touches the burner.
+facetLeast: One pot of beans, one chili, one supper. The week's plan fits on an index card, and the card does not get rewritten.
 ---
 
 Red-Hot Pinto Beans are the Bean Zodiac's most chaotic — their wake is always interesting.

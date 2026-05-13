@@ -6,12 +6,12 @@ form: dried
 trait: stark
 dish: Dried butter beans in sage broth with bitter radicchio.
 quote: Tell me, what is it you plan to do with your one wild and precious bean?
-seasonalFortune: A season cured down to its bones. The cupboard runs to sage and salt; the radicchio refuses to sweeten, and the broth that lasts is the broth without garnish.
-facetMost: Asked how you slept, you say badly. No sage stirred through the answer, no broth to carry it — the bitter leaf served plain, and the table left to do what it will.
-facetHigh: Rooms pared to what holds. A pan, a jar of dried beans, the radicchio on the board because it will be eaten — nothing kept for the look of it.
-facetMid: A bill you owe goes back the day it lands. Flat note, no sage to perfume it, the figure named and the broth cleared from the stove.
-facetLow: You round the hard sentence before it leaves you; the radicchio gets a long bath, the broth a spoon of butter, the friend the gentler version.
-facetLeast: Money leaves your hands in generous pours — the good sage, the second jar of beans, the bottle that turns a weeknight broth into something the table lingers over.
+seasonalFortune: A season cured to its bones. The cupboard keeps sage and salt; the radicchio refuses to sweeten, and the broth that lasts is the broth without garnish.
+facetMost: The body answers in salt. Asked how you slept, you say badly — no sage folded into the reply, the bitter leaf set down plain, the table left to make of it what it will.
+facetHigh: A jar of dried beans, a pan, the radicchio cut because it will be eaten. Rooms pared to what holds. Nothing kept on the shelf for the look of it.
+facetMid: Messages answered the hour they land. No sage stirred through the wording; the figure named, the question closed, the thread cleared like a stove gone cold.
+facetLow: You soak the hard sentence the way radicchio gets its long bath — bitterness drawn out, a spoon of butter folded in, the friend handed the gentler version.
+facetLeast: Money pours from your hands in generous measure. The good sage, the second jar of beans, the bottle that turns a weeknight broth into something the table lingers over.
 ---
 
 Desiccated Butter Beans are the Bean Zodiac's most stark — all warmth stripped out, all ease removed, what remains is bare and genuine.

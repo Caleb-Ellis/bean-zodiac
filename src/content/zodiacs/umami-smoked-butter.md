@@ -6,12 +6,12 @@ form: smoked
 trait: languid
 dish: Southern butter beans with smoked ham hock and pot liquor.
 quote: Slow and bean wins the race.
-seasonalFortune: Smoke moves through the season like a hand underwater — deliberate, heavy with intention. The season asks — what if the longest path also deepens? The pot liquor speaks in whispers only patience can hear.
-facetMid: The broth mirrors the beans — slow extraction, slow yielding. The dish grows more itself.
-facetHigh: Smoke settles into the butter until they are indistinguishable. This is the marriage of ease and richness.
-facetMost: The ham hock surrenders its whole story to the broth. What resistance becomes when it accepts its role.
-facetLow: The fire flickers with different hungers. The beans shift between many pots, many hands.
-facetLeast: The surface gleams with possibility — many colors, many tastes, none yet resting into depth.
+seasonalFortune: The season holds at a low simmer. Smoke pools in the rafters and refuses to leave. Days thicken the way pot liquor thickens — by sitting, not by stirring.
+facetMost: A ham hock asks for hours, not minutes. You answer letters when the broth is ready, never before, and the world adjusts.
+facetHigh: Smoke finds the marrow on its own schedule. You sleep until the body finishes its work; alarms strike a room that has already left.
+facetMid: Pot liquor settles into the bottom of the bowl. You leave the book face-down on the arm of the chair, knowing the page is keeping itself.
+facetLow: Butter beans split under a rolling boil. You arrive first, refill the glasses, ask the second question before the first answer cools.
+facetLeast: A pot left untended scorches. You answer the message standing up, thumb already drafting the next one before the kettle clicks.
 ---
 
 Hickory Butter Beans are the Bean Zodiac's most languid — the ease and the depth have found each other and have no pressing business elsewhere.

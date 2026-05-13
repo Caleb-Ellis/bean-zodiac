@@ -6,12 +6,12 @@ form: fried
 trait: candid
 dish: Pat jeon with rice vinegar dipping sauce - Korean adzuki bean pancakes with a sharp sour dipping sauce.
 quote: The truth will set you bean.
-seasonalFortune: Heat cracks the skin first; acid seeps through the fault lines. What rises to the surface has nowhere left to hide. The season turns on small honesty — the kind that shapes what comes after, grain by grain.
-facetMid: The first bite tastes what the pan already knew.
-facetHigh: Where oil meets heat, the bean's edges sing before they darken.
-facetMost: Vinegar and sweetness stand their ground against each other, equal forces. Neither spills into the other's bowl.
-facetLow: Layers of sauce soften the sharp edge, each one a courtesy.
-facetLeast: The flavor travels through so many vessels before it arrives — something quieter by then, but still there.
+seasonalFortune: The season fries quick and dips sharp. Batter meets oil before the cook can second-guess it, and what surfaces wears no extra coat. A plainer table follows.
+facetMost: Vinegar served undiluted. In a room rearranging itself around a polite fiction, you name the thing on the plate and let the room recover.
+facetHigh: A message answered while still hot from the pan. You type what you mean, send it, close the tab; softening drafts go uneaten.
+facetMid: Oil splatters where it splatters. The receipt was wrong on your end; you say so before the other person notices, and pay the difference.
+facetLow: A spoon of sugar stirred into the dipping bowl. You phrase the hard thing twice in your head, choose the kinder version, set it down gently.
+facetLeast: The pan can wait. You hold a small truth back through Tuesday, Wednesday, the week — not hiding it, letting it cool to a temperature someone can hold.
 ---
 
 Agrodolce Adzuki Beans are the Bean Zodiac's most candid — honesty that arrives immediate and kind.

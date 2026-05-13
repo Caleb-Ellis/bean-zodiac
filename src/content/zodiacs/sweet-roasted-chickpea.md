@@ -6,12 +6,12 @@ form: roasted
 trait: fun
 dish: Cinnamon honey roasted chickpeas — oven-blistered until crunchy, tossed hot in honey, cinnamon, and a pinch of cardamom.
 quote: The best way to find yourself is to lose yourself in the service of other beans.
-seasonalFortune: The cardamom rises. This season unfolds for those who understand that lightness is itself a form of weight — that filling a space with something irresistible takes precision, not accident. The crunch holds more than it appears.
-facetMid: The honey gathers. What glimmers nearby follows the shape of the heat.
-facetHigh: The cinnamon spirals upward through everything — sweet smoke that makes the air itself brighter.
-facetMost: The blister catches. In breaking open, something essential spills forward and finds exactly where it was meant to land.
-facetLow: The sweetness settles heavily. What might have risen instead presses down.
-facetLeast: The spice finds no wind. The warmth stays close and does not travel.
+seasonalFortune: A season scented with cardamom and warm honey. The air thickens with small invitations; rooms hum a half-tone brighter, and what passes for ordinary arrives glazed.
+facetMid: Honey hits the hot pan and sings. You walk into a quiet room and, without meaning to, leave it louder than you found it.
+facetHigh: Cinnamon thrown on coals. At the table, you reach for the dull guest first — the one nobody else has cracked open — and stay until they laugh.
+facetMost: The blister at the moment of catching. You can feel a gathering tilt toward boredom three minutes before anyone else, and you move before it lands.
+facetLow: Honey gone slack in a cold jar. Invitations arrive; you read them twice, set them down, and the evening passes pleasantly without you.
+facetLeast: Cardamom sealed in the tin. Group threads light up — you mute them, answer the one person you wanted to hear from, and close the lid.
 ---
 
 Glazed Chickpeas are the Bean Zodiac's most fun — and unlike most things that know they're fun, they wear it lightly. The good time doesn't announce itself; it just happens, and everyone around them ends up having it.

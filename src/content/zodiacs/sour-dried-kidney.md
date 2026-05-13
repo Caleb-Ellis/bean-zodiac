@@ -6,12 +6,12 @@ form: dried
 trait: fierce
 dish: Rajma - kidney beans with dried Kashmiri chiles and tamarind.
 quote: This isn't even my final bean!
-seasonalFortune: The tamarind vine knows when the fruit is ripe enough to yield — but only the one who tastes it can tell if the seed inside has sharpened or splintered.
-facetMid: The chile's heat gathers at the edges, pointing inward. A single flame where three once flickered.
-facetHigh: The dried beans fracture along their fiercest grain. The break is clean. The kernel emerges whole.
-facetMost: The spice rises to its sharpest note — the moment before it cuts the throat is the moment it cuts deepest through the dish.
-facetLow: The brine settles. The beans soften at their hardest points. Edges blur where they once drew lines.
-facetLeast: The tamarind ferments without the fruit — sourness becomes flatness, a note that dissolves before the throat can hold it.
+seasonalFortune: A season that dries the pod down to its hardest seed. Tamarind keeps its pucker through the long shelf; the chile holds its sting unsoftened by the year.
+facetMid: A bean soaked overnight does not forget the water. The wrong charge on the bill — you call back, you wait on hold, you do not let it pass.
+facetHigh: Tamarind on the tongue, eyes open. When a friend repeats the slight a third time, you stop nodding and name it back to them, plainly, across the table.
+facetMost: Kashmiri red, ground fine. You make the thing you make at full strength, undiluted; if someone needs it gentler they can ask, and you will say no.
+facetLow: Long simmer, low flame. At home you let the small grievances cook themselves down — the unwashed pan, the late return — and find the kitchen lighter for it.
+facetLeast: Chiles dulled by a year in the jar. You round the corners of every disagreement before it reaches the table; the room thanks you and does not know it.
 ---
 
 Dehydrated Kidney Beans are the Bean Zodiac's most fierce — the passion has been sharpened to a point and held there.

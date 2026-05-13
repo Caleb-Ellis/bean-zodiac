@@ -6,12 +6,12 @@ form: smoked
 trait: invested
 dish: Lap cheong congee - Cantonese rice porridge with mung beans, smoked sausage, and chili oil.
 quote: The course of true bean never did run smooth.
-seasonalFortune: Embers hold heat long after the flame has gone — what smolders beneath the skin feeds what grows above. The depth demands acknowledgment, or it burns in silence.
-facetMid: Roots drink in darkness where no watcher stands, yet the stalk knows and rises anyway.
-facetHigh: The broth darkens where the beans have steeped — taste the depth they have given.
-facetMost: Let the smoke clear — show the layered thing beneath, the patient thing, the expensive thing.
-facetLow: The surface catches light and holds it brightly — care floats where it can be seen.
-facetLeast: What drifts on the current finds its own pace — investment rests, and surfaces shine.
+seasonalFortune: A season of low coals and long hours. The pot sits at the back of the stove, working without an audience, and the house begins to smell like something that has been thought about for days.
+facetMost: Smoke gets into the rice and stays. You remember the names of people's small troubles months after they have forgotten telling you.
+facetHigh: Chili oil settles into the grain overnight. When friends arrive you have already done the thing they were going to ask for.
+facetMid: Sausage rendering, fat going gold and slow. Your phone keeps the threads that other people drop — birthdays, anniversaries, the hard week someone mentioned.
+facetLow: A bright slick of oil on the surface. You greet acquaintances warmly and forget them by Tuesday, and nothing is owed.
+facetLeast: Quick rice, eaten standing. You spend on what's in front of you and walk away without checking whether it lasted.
 ---
 
 Chipotle Mung Beans are the Bean Zodiac's most invested — their care runs deeper than it appears, and has been running that way for longer than anyone has noticed.

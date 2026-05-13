@@ -6,12 +6,12 @@ form: fried
 trait: temperamental
 dish: Kottu roti with kidney beans - Sri Lankan stir-fried roti with chili and curry.
 quote: Any bean can be angry — that is easy. But to be angry with the right person, to the right degree, at the right time, for the right purpose — that is not easy.
-seasonalFortune: Oil holds the bean's secret — when the pan reaches that trembling point, what breaks apart and crisps will teach something the raw form never could. The char is not waste; it is translation.
-facetMid: Heat rises in visible waves. The bean splits cleanly, its edges darkening into something new.
-facetHigh: Every surface crackles. The oil becomes a mirror for the bean's complexity — each layer revealed in its own time.
-facetMost: The pan speaks; the bean listens and answers in full voice. What emerges is unmistakable, complete, unafraid.
-facetLow: The oil stays calm. The bean cooks through without the sharp notes — a gentler path, slower to darken.
-facetLeast: The heat remains steady, even. The bean softens in its own time, no urgency to char or speak louder than necessary.
+seasonalFortune: A season ruled by the griddle's clatter. Roti gets chopped under a hot blade, chili meets oil, and the kitchen runs on quick weather — bright, loud, gone.
+facetMost: Blades on iron, chili hitting fat. You start the work loud and let everyone hear it; the draft argues back, and you keep cutting until it answers.
+facetHigh: A scrape of steel announces you. At the table you raise the temperature on purpose — one sharp question into a polite room, then watching what curls.
+facetMid: Curry-stained thumb on the screen. You fire off the reply while it still smokes; the careful version, drafted later, never gets sent.
+facetLow: Roti softening slowly under a cloth. You sit on the thing that stung you for a day, two days, until the edge has gone out of it.
+facetLeast: Coriander cooling on a windowsill. You notice the room sour before it shows, lower the flame in yourself, and the weather passes through without catching.
 ---
 
 Red-Hot Kidney Beans are the Bean Zodiac's most temperamental — heat doubling on itself creates immediate intensity.

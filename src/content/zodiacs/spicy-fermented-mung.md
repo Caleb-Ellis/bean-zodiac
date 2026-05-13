@@ -6,12 +6,12 @@ form: fermented
 trait: compulsive
 dish: Gỏi đậu xanh - Vietnamese mung bean salad with fermented fish sauce and bird's eye chili.
 quote: The chains of bean are too light to be felt until they are too heavy to be broken.
-seasonalFortune: The ferment deepens what it touches. What began as a single stirring becomes a current that runs through the season — observable in the brine, in the way each return shapes the next.
-facetMid: Salt settles at the bottom. The pull toward familiar edges sharpens — a thing worth noticing if one watches the jar.
-facetHigh: The vessel warms from within. Spice and time have woven tight — the compulsion carries its own heat.
-facetMost: The brine becomes clear. Every return visible, every pull purposeful — the ferment has revealed its own architecture.
-facetLow: The ingredients separate and drift. Without insistence, without the pull that binds — flavors disperse in their own directions.
-facetLeast: Everything finds its own level. The stirring stops; nothing calls to anything else — what ferments does so alone.
+seasonalFortune: A jar left sealed still works in the dark. The season grooves itself into small returns; brine deepens by repetition, and what gets stirred most often sets the tongue.
+facetMid: Chili oil rings the rim where the thumb keeps landing. You reopen the same thread at night to check a reply you have already read twice.
+facetHigh: Fish sauce carries the room before the lid is off. Mid-sentence, your hand drifts back to the phone; the pocket is checked before the thought finishes.
+facetMost: A chili pinned between molars, worried for the burn. You name the loop out loud, schedule it, and still walk the same lap of the kitchen at the same hour.
+facetLow: Herbs torn once and dropped in whole. You forget where you left the tab open, and the want passes before you remember to feed it.
+facetLeast: Lime cut, used, the rind tossed without ceremony. A craving arrives, gets answered or doesn't, and leaves no groove behind.
 ---
 
 Kimchi Mung Beans are the Bean Zodiac's most compulsive — they return to certain things with a regularity that puzzles them.

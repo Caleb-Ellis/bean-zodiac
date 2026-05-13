@@ -6,12 +6,12 @@ form: fermented
 trait: silly
 dish: Butter bean and labneh with honey — cooked butter beans stirred through strained fermented yogurt and drizzled with wildflower honey.
 quote: The bean abides.
-seasonalFortune: The season ferments beneath its own weight, all that heaviness curdling into something unexpectedly light. This is what was always there.
-facetMid: The honey finds its cracks — sweetness pools where the structure strains.
-facetHigh: Strain the yogurt one more time and what remains is the distilled angle, luminous and inevitable.
-facetMost: The wildflower blooms despite itself, its petals folded into the strictest geometry.
-facetLow: The beans hold still in the liquid, patient with their own sinking.
-facetLeast: The spoon stirs only what it touches.
+seasonalFortune: A season when the heaviest crocks turn sweetest. Cellars hum, the labneh slumps in its cloth, and the honeyjar tilts toward whoever passes nearest the shelf.
+facetMost: Honey drizzled into yogurt and a bean dropped in for ballast — the meeting reads as a joke, and you serve it without explanation.
+facetHigh: At the long table, the stranger across from you laughs before they meant to. You did that on purpose; you will not say how.
+facetMid: Things land askew in your rooms. A chair faces the wall, a postcard props the salt, and you walk past these the way honey walks past a spoon.
+facetLow: You let the meeting run its full hour. The clock ticks; nothing in you skips ahead to the punchline.
+facetLeast: The bill arrives, you pay the bill. No flourish in the signature, no comment slipped under the saucer.
 ---
 
 Funky Butter Beans are the Bean Zodiac's silliest — not performed, not deployed for effect, just naturally and cheerfully absurd in a way that makes everything around them feel less serious than it thought it was.

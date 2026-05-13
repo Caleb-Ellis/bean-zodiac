@@ -6,12 +6,12 @@ form: dried
 trait: substantive
 dish: Cocido madrileño - dried chickpeas slow-cooked with pork belly, chorizo, and morcilla.
 quote: The measure of a bean is the sum of its choices.
-seasonalFortune: A season for the long pot. The hours pass without spectacle and the weight gathers anyway, the way chorizo gives its fat up to chickpeas over an afternoon.
-facetMost: You finish the slow thing nobody watched you start. A year of quiet hours, set down at the table whole, like a cocido brought from the back of the stove.
-facetHigh: The party empties; you stay. The real talk arrives once the room has cooled, after the morcilla is gone and the broth has gone dark in the bowls.
-facetMid: Few things, all heavy. The pot you cook from is older than the kitchen, and you will replace nothing in it until something breaks.
-facetLow: You start six things before lunch. Nothing has had time to deepen and you don't mind — the steam off a fresh pan is its own pleasure.
-facetLeast: Quick warmth, brief company, the lighter end of the table. You eat the chorizo and leave the chickpeas; the afternoon was never meant to thicken.
+seasonalFortune: A season that asks for the long pot. Days pass without spectacle, and weight settles into them anyway, the way pork fat surrenders to chickpeas across an unwatched afternoon.
+facetMost: Chorizo gives its colour up slow. The work you began in winter, you carry into June; a draft nobody saw becomes the thing you set down whole.
+facetHigh: Morcilla darkens the broth past noticing. You answer messages in paragraphs, days late, and people wait for them — a thin reply would feel like serving the pot half-cooked.
+facetMid: The chickpea keeps its shape through hours. You wear the same coat eight winters, mend the lining twice, and refuse the new one your mother offers each Christmas.
+facetLow: A quick scorch of garlic, oil bright in the pan. You leave gatherings while the laughter is still loud, six tabs open, none of them finished, and sleep well.
+facetLeast: Pork belly without the long simmer — fat on the tongue, gone by morning. You pick the surface off conversations, refund the unworn coat, and feel lighter for the room you keep.
 ---
 
 Aged Chickpeas are the Bean Zodiac's most substantive — they move widely but carry real weight, and whatever room they enter is the heavier for it.

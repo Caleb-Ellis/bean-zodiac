@@ -6,12 +6,12 @@ form: dried
 trait: wry
 dish: Balila - chickpeas with dried black lime and olive oil.
 quote: History doesn't repeat itself, but it does bean.
-seasonalFortune: The lime rind has been speaking all along. Those who caught it early are already elsewhere.
-facetMid: The oil catches the light the way it always does — except this time someone else notices.
-facetHigh: The bitter dust on the skin tells the story nobody bothered to ask for.
-facetMost: What crystallized in the drought holds its shape. The clarity in a grain of salt is enough.
-facetLow: The surface reads simply. The chickpea holds its shape without needing to suggest anything beneath.
-facetLeast: The flavor arrives straightforwardly, asking nothing of interpretation.
+seasonalFortune: Black lime keeps its tartness past every season; the years pucker the skin and sharpen what's left inside.
+facetMid: The lime rattles in its jar like a held thought. You draft the reply, reread it, and send the version with half the words gone.
+facetHigh: Olive oil pooling at the rim of an earnest speech. You let the silence drag a beat too long, then offer the smaller, drier version.
+facetMost: A pinch of dried lime, and the sentence finally bites. You build the joke around the one ingredient no one else would have named.
+facetLow: Chickpeas slack in their bowl, oil bright on top. You set the table plainly; whatever you say over it, you mean straight through.
+facetLeast: Salt unclouded, oil poured straight from the bottle. You write the apology the way it first occurred to you and send it before a cleverer version arrives.
 ---
 
 Dehydrated Chickpeas are the Bean Zodiac's most wry — they have seen too much of the world to take any of it entirely at face value.

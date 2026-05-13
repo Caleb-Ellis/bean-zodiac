@@ -6,12 +6,12 @@ form: fermented
 trait: self-aware
 dish: Adzuki and natto rice bowl with ponzu and spring onion.
 quote: Know thyself? If I knew myself, I'd bean away.
-seasonalFortune: The brine has done its work — each layer of the bean revealed, each shadow mapped. This season asks whether clarity might calcify, whether the observer might become a mirror studying itself instead of a vessel receiving what arrives.
-facetMid: The ponzu's tang cuts through the rice; the observer and observed remain distinct.
-facetHigh: Each grain sits separate and known; the spring onion's crisp edge announces itself without confusion.
-facetMost: Move as the ferment moves — from the inside out, unchanged by outside observation.
-facetLow: The natto's cling erases the bean's outline; threads blind the eye to the whole.
-facetLeast: The rice bowl floods — no shape holds, no part distinguishes itself from what surrounds it.
+seasonalFortune: A season of long ferments and clear ponzu. The pickled adzuki sits in its brine and is not surprised by what the brine has drawn out of it.
+facetMost: Natto pulls its own thread, never doubting. You revise a sentence and recognise, mid-cut, the exact tic you've been editing out of yourself for years.
+facetHigh: Ponzu lands sharp on the tongue, no apology. You can name which friend you tire and which one tires you, and you don't pretend the count is even.
+facetMid: Rice swells to the measure of its water. You notice when hunger is loneliness wearing a coat, and eat or don't eat accordingly.
+facetLow: Spring onion scattered loose across the bowl. You reread an old message thread and find a version of yourself you'd forgotten making.
+facetLeast: The ferment works in the dark and keeps no ledger. You move through a day on weather and appetite, taking no inventory of the shape you cut.
 ---
 
 Pickled Adzuki Beans are the Bean Zodiac's most self-aware — they have examined themselves until the picture is unsentimental.

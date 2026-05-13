@@ -6,12 +6,12 @@ form: boiled
 trait: restless
 dish: Taze fasulye - Turkish green beans slow-cooked with lemon, garlic, and tomato.
 quote: I am not a bean at ease.
-seasonalFortune: The brine keeps warming. What stays simmered down becomes something else entirely — and the thing that leaves the pot is not less, only separate.
-facetMid: A tremor in the liquid. Small movements ripple outward, enough to know the pot is still alive.
-facetHigh: The temperature rises in just the right measure. Motion and marinating meet at a single point.
-facetMost: Boiling — the moment when stillness turns explosive, and the bean knows exactly when to give way.
-facetLow: The brine settles. The bean rests in its own broth, heavy with flavor — a kind of arrival.
-facetLeast: The water goes cool. The bean sits, absorbed into the liquid around it, indistinguishable from home.
+seasonalFortune: A season of lemon working into the pod. The household that slow-cooks under sharpness finds its rooms rearranged by Wednesday and the garlic already chopped twice.
+facetMost: Lemon hits the pan before the tomato is ready. You leave the meeting the moment the verdict is in; standing past the end is its own small punishment.
+facetHigh: Garlic loose on the counter, never in a jar. You shift the lamp, the chair, the rug — a room is a draft until something moves in it.
+facetMid: Tomato skins splitting under heat. You answer the message, then answer it again better; the thread keeps a faint simmer for hours.
+facetLow: Beans gone soft in their own broth. You cook the same dish on the same night; the saucepan returns to the same burner without comment.
+facetLeast: The pot left to steep overnight, untouched. Your body asks for the long sleep, the cold morning, the chair by the window that nobody has moved in years.
 ---
 
 Brined Green Beans are the Bean Zodiac's most restless — always adjusting between the need to move and the need to stay.

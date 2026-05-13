@@ -6,12 +6,12 @@ form: smoked
 trait: withering
 dish: Sopa tarasca - smoked black bean purée with ancho chile, crema, and pickled chipotle
 quote: Hell hath no fury like a bean scorned.
-seasonalFortune: The ash settles where it always aimed. What was meant to char speaks in silence.
-facetMid: Smoke finds its own path through the kitchen.
-facetHigh: The heat knows precisely where to land.
-facetMost: Edges sharpen under sustained flame — let them clarify what lies beneath.
-facetLow: The purée diffuses, its edges softening into the broth.
-facetLeast: Warmth spreads evenly; every element receives the same measure.
+seasonalFortune: A season of low smoke and slow verdicts. Ancho darkens in the pan; the household learns which silences mean a pot has already been judged.
+facetMost: Chipotle pickled past sweetness. You are the kind of person who lets a single look end a meeting, and you do not soften it on the walk back to your desk.
+facetHigh: Crema thinned to a line across the bowl. You read a room before you sit down, and you sit down already knowing who you will not be lending the book to.
+facetLow: Ancho bloomed slow in warm oil. You are the kind of person who keeps giving the friend who is always late one more chance, and the third coat in winter, and a ride home.
+facetMid: Smoke held in the rafters past midnight. You answer a long message with three words and sleep cleanly; the unsaid portion was, to you, the most accurate part.
+facetLeast: Crema folded in until the bowl turns soft brown. You buy the round, you forgive the borrowed sweater stained, you keep the group chat alive on a Tuesday with nothing to say.
 ---
 
 Cured Black Beans are the Bean Zodiac's most withering — their silences have a way of completing the sentence faster than any word could.

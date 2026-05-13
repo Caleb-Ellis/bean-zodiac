@@ -6,12 +6,12 @@ form: fermented
 trait: conflicted
 dish: Kimchi jjigae - kidney bean and kimchi stew with pork belly, tofu, and sesame oil.
 quote: The heart has its bean that reason knows not of.
-seasonalFortune: The brine holds what fermentation cannot dissolve — both the sharp and the deep matter equally, aging together.
-facetMid: Two flavors steep in the same pot; the broth darkens where they meet.
-facetHigh: The salt binds contradictions into a single taste — neither flavor loses itself.
-facetMost: Fermentation requires the tension; stillness would prevent the transformation.
-facetLow: One note rises above the rest; clarity arrives in simplicity.
-facetLeast: The dish resolves into a single thread, clean and unambiguous.
+seasonalFortune: Kimchi and brine ripen side by side in the crock; sourness and depth lengthen together, neither yielding, and the lid holds both.
+facetMost: Two old friends across the table, both right. You pour for each and refuse to call the kinder one.
+facetHigh: Three drafts sit open in the thread, each one tofu-soft; none gets sent, none gets closed.
+facetMid: Lid on the pot — kimchi sour, pork fat sweet — you stir without picking a side.
+facetLow: A bill arrives wrong; your reply goes out before the sesame oil has finished pooling on the broth.
+facetLeast: One simmer, one timer, one outcome; you move the spoon and the day in a single clean line.
 ---
 
 Miso Kidney Beans are the Bean Zodiac's most conflicted — they know exactly why they're pulled in more than one direction.

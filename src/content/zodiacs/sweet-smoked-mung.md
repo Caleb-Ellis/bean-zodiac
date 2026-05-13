@@ -6,12 +6,12 @@ form: smoked
 trait: translucent
 dish: Sakkarai pongal - sweet mung dal and rice pudding with smoked ghee, jaggery, and cardamom.
 quote: For now we bean a glass darkly.
-seasonalFortune: The smoke lingers in the grain long after the fire cools — what passes through leaves traces, and those traces become the shape of something remembered, something that matters.
-facetMid: A seed hull holds its own light within; vision continues straight through, unbroken.
-facetHigh: Jaggery dissolves clean in water — sweetness flows everywhere, and in its spreading, reveals what was hidden.
-facetMost: Smoke clears to show the kitchen whole — every surface lit, every corner known, nothing kept separate.
-facetLow: The cardamom shell keeps its secrets close; certain flavours unfold only in their own time.
-facetLeast: Ghee clouds and thickens; some richness settles, opaque and held.
+seasonalFortune: A season the smoke moves through and out of, leaving rice softer than it found it. Rooms warm without anyone tracing the source.
+facetMost: Ghee thinned to gold, pourable, nothing held back. You answer the question asked, plainly, and watch the room loosen around the reply.
+facetHigh: Cardamom split open before it hits the pot. Your calendar is shared by default; people find you where you said you would be.
+facetMid: Jaggery dissolved into milk without a trace of grain. A friend asks what's wrong and you tell them, without dressing it.
+facetLow: Smoke that keeps its colour in the rafters. You let the question pass; some weather in you wants longer to settle before it speaks.
+facetLeast: A clay pot with the lid clamped down — pressure builds sweetness inside. You guard the inside life; what others see of you is the rim, not the pudding.
 ---
 
 Barbecued Mung Beans are the Bean Zodiac's most translucent — their care passes through without casting a shadow, which means others look through them to what is beyond.

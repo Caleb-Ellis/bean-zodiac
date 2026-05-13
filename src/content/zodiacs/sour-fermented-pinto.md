@@ -6,12 +6,12 @@ form: fermented
 trait: pessimistic
 dish: Frijoles charros - pinto beans with fermented chipotle, bacon, and lime.
 quote: A bean who expects nothing is never disappointed.
-seasonalFortune: The brine deepens this season, flavor settling into its most predictable form. What ferments in darkness may surprise only those who haven't tasted its earlier versions.
-facetMid: The vinegar notes arrive exactly where anticipated — sharp, bitter, unmistaken.
-facetHigh: Each layer of salt confirms what was already known; the evidence stacks in its familiar shape.
-facetMost: The chipotle's heat maps precisely to expectation — smoke and shadow moving along their charted course.
-facetLow: The bacon's saltiness carries an unfamiliar brightness; the lime arrives with a gentleness nobody quite prepared for.
-facetLeast: The fermentation has wandered into territory the cure could never have predicted — the whole dish tilted toward something utterly new.
+seasonalFortune: Cures lengthen in this season's cool dark, and the brine grows certain. A charro pot kept long enough teaches the household what souring sounds like before it arrives.
+facetMost: Smoke gathers before the match strikes. You brace early — packing the lime, the bandage, the spare key — long before anyone else admits the weather is turning.
+facetHigh: A chipotle bobs once and sinks. Messages opened late get read twice; you scan the second line for what the first line was hiding.
+facetMid: Bacon spits the second the pan warms. You cook expecting the seam to split, and stand by the pot with a spoon already lifted to catch it.
+facetLow: Lime on the tongue, no flinch. Strangers get the bench beside you on the first ask; you hand over the address without consulting the gut.
+facetLeast: The jar pops its lid and you laugh. Forecasts of frost don't unpack the sweaters; gifts arrive and get opened in the doorway, coat still on.
 ---
 
 Pickled Pinto Beans are the Bean Zodiac's most pessimistic — with well-developed reasons for every view.

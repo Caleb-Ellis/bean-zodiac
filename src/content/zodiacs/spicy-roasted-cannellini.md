@@ -4,14 +4,14 @@ bean: cannellini
 flavour: spicy
 form: roasted
 trait: charismatic
-dish: Fagioli con 'nduja - cannellini beans roasted with spicy Calabrian 'nduja.
+dish: Fagioli con nduja - cannellini beans roasted with spicy Calabrian nduja.
 quote: The bean enters the room before you do.
-seasonalFortune: The oil shimmers, the 'nduja bleeds into the bean, and the room becomes a kind of mirror. The self that is seen and the self that remains hidden must be held as one thing.
-facetMid: The spice rises — it fills the air before anything is tasted. The core of the bean stays cool.
-facetHigh: Roasted gold, the surface catches light. What draws the eye is also what is most fragile. Let others look while the seed inside holds its own gravity.
-facetMost: The dish becomes what everyone is reaching for. The presence carries weight and warmth both. The bean feeds the hunger without disappearing into it.
-facetLow: The heat has not kindled — the roast is pale and the spice rests in the oil untasted. The bean goes unnoticed in its own pot.
-facetLeast: The surface is smooth and unmarked. Nothing ripples outward. The spice stays locked away and the warmth does not leave its own skin.
+seasonalFortune: Nduja bleeds red into the oil before a single bean is lifted; this is a season in which arrivals announce themselves and rooms reorganise around the heat at their center.
+facetMid: Cannellini browning in chilli oil — the smell pulls the household toward the kitchen. You text three people back at once and each one feels chosen.
+facetHigh: The nduja melts before the pan is hot. You walk into the meeting two minutes late on purpose, knowing the room resets when you sit down.
+facetMost: A roasting tin sets the whole flat humming. Strangers tell you things on the second sentence. You have learned to keep one thought back, uncooked, just for yourself.
+facetLow: Pale beans, oil still cold in the tin. At the party you find the one quiet armchair and the dog, and stay there until the cab home.
+facetLeast: Cannellini left plain, no chilli touched. You let voicemails ripen for days; the group chat moves on without you and the relief is enormous.
 ---
 
 Peri-Peri Cannellini Beans are the Bean Zodiac's most charismatic — the room changes and they become its center.

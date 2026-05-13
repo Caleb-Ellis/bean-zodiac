@@ -6,12 +6,12 @@ form: fried
 trait: moralistic
 dish: Pan-fried kidney bean cakes with red miso, sake, and sesame.
 quote: Moralising and bean are two arts that seldom go together.
-seasonalFortune: The miso settles deeper into the bean. What seemed surface-level reveals layers of reasoning — slow, fermented understanding arrives beneath the sear.
-facetMid: The heat marks a boundary; the line is visible where it burns.
-facetHigh: Sear without turning back; the mark declares what it declares.
-facetMost: Let the char speak. The bean knows where the flame found it.
-facetLow: The boundaries blur at the edges — seasoning bleeds beyond the rim.
-facetLeast: The path shifts; the hand guides differently than it expected.
+seasonalFortune: A season of red miso deepening in the pan — verdicts cure slowly, and the household keeps its scorched edges in plain view, unhidden, unsoftened.
+facetMost: Sake reduced to lacquer. You answer a late text the day it arrives, naming the thing the group has been politely circling for weeks.
+facetHigh: Sesame catching on iron. You return the borrowed book with a note about the dog-eared page, the one you would have folded differently.
+facetMid: Miso darkening at the rim. At the table you set down a fork mid-sentence when a story turns mean, and the room hears the pause.
+facetLow: The cake breaks before it sets. You let a friend's bad plan run its course, pouring another glass, curious how the sear will read in the morning.
+facetLeast: Salt drifting past the crust. You keep three versions of the same opinion in rotation and spend on whichever the week asks for, untroubled by the swap.
 ---
 
 Tempura Kidney Beans are the Bean Zodiac's most moralistic — they're not prepared to stay quiet about what is right.

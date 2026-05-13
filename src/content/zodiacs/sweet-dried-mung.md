@@ -6,12 +6,12 @@ form: dried
 trait: tender
 dish: Lǜdòu gāo — dried mung beans ground fine and pressed with sugar into flower-shaped cakes.
 quote: The most beautiful things in the world cannot be seen or touched — they must be seen with the bean.
-seasonalFortune: The dissolution happening beneath the surface—grinding finer, pressing together—is the shape strength takes when sweetness is the medium.
-facetMid: The grain yields where the shell would crack.
-facetHigh: Dissolution and reconstitution; the pressed form holds what the whole never could.
-facetMost: The flower shape holds its sugar without sealing.
-facetLow: The grain resists the mortar, holds its form whole.
-facetLeast: Crystalline edges where softness used to breathe.
+seasonalFortune: A season ground fine — what was whole is pressed into petalled shapes, sweetness carrying what the husk could not hold.
+facetMost: Flour finer than breath. When a friend's voice catches mid-sentence, you do not fill the gap — you sit inside it until they find the next word.
+facetMid: Petal pressed but unsealed. You notice the held shoulder, the half-finished sentence at the edge of the room, and move toward it without making a show of the moving.
+facetHigh: Sugar folded through the grain before the mould closes. The gift you choose is the one shaped to the person, not the occasion; you'd sooner arrive empty than wrong.
+facetLow: A bean that refuses the mortar. Your rooms keep their corners — books squared, chairs returned. Order is the comfort; softness left out would feel like clutter.
+facetLeast: Crystal that stays crystal. You return the call in three sentences, settle the split bill on the walk home, and carry no residue of either across the threshold.
 ---
 
 Crystallised Mung Beans are the Bean Zodiac's most tender — the softness has been preserved even where everything else has been stripped away.

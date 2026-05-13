@@ -6,12 +6,12 @@ form: dried
 trait: ardent
 dish: Habichuelas con dulce — dried kidney beans cooked with coconut milk, sweet potato, raisins, and warm spice into a Dominican Easter dessert.
 quote: The course of true love never did run bean.
-seasonalFortune: Sweetness that has crystallized over seasons holds a particular kind of strength — compressed ardor has its own way of arriving, patient and unrelenting, when the moment finally meets the feeling.
-facetMid: Heat rises from the bottom of the pot, slow and insistent.
-facetHigh: The spice penetrates every bite, announcing itself without apology.
-facetMost: Enough fire to transform what it touches — coconut milk breaks to a caramel, the beans themselves sing with warmth.
-facetLow: The measure is calm, letting each ingredient remain distinct and unhurried.
-facetLeast: A gentle hand holds the spoon; sweetness needs no urgency to dissolve into milk.
+seasonalFortune: The dried bean keeps its heat tucked under a wrinkled coat; in this household a feeling, once taken in, simmers for months before it is ladled out.
+facetMost: Cinnamon does not yield, it gives. The notebook you keep returns to the same name across years, each entry darker and sweeter, none of them retracted.
+facetHigh: Raisins swell against the spoon. You text first, you text long, you text without waiting to see if the tone of the room is ready for it.
+facetMid: Sugar and coconut milk thicken on a low flame. Whoever sits beside you on the bus gets the full weather of your week before the next stop.
+facetLow: Sweet potato keeps its corners through the pot. You pay the rent, you split the bill down the cent, and what you feel stays a private accounting.
+facetLeast: A bean soaks overnight before anyone touches the stove. Invitations sit in your inbox for three days while you decide whether the warmth is worth the trip.
 ---
 
 Crystallised Kidney Beans are the Bean Zodiac's most ardent — the passion has been distilled to something patient and permanent.

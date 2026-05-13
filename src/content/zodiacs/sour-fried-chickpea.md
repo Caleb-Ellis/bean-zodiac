@@ -6,12 +6,12 @@ form: fried
 trait: shrewd
 dish: Falafel with sumac onions - fried chickpea patties served with tangy sumac-pickled onions.
 quote: Politics is the art of looking for trouble, finding it everywhere, diagnosing it incorrectly, and applying the wrong beans.
-seasonalFortune: The vinegar has cut through to what matters. Early tells held true — the sumac dust settles on the same ground it always was destined to reach.
-facetMid: The skin crisps first; the architecture reveals itself in stages.
-facetHigh: Each grain of salt reads as strategy, each surface crack announces what lies below.
-facetMost: The interior yields its logic entire — move with certainty.
-facetLow: The coating thickens; the center takes longer to settle.
-facetLeast: The focus rests on what steams on the plate, not the heat that made it.
+seasonalFortune: A season cured in vinegar. The shrewd nose finds the angle early; sumac stains the fingers of those who handled the deal before its name was spoken.
+facetMost: Onions bleed magenta the moment the acid touches them. You walk into a room and clock the alliances before anyone has refilled a glass.
+facetHigh: Crust shatters, interior steams. Before answering a message, you reread the one above it — looking for what the sender hoped you wouldn't notice.
+facetMid: Sumac dust falls evenly on hot oil. Split a bill and you can tell, within a dollar, who is rounding down on purpose.
+facetLow: A patty held together by faith and chickpea flour. You take a quoted price as the price; the haggling never occurs to you.
+facetLeast: Pickled onions sweetening in their jar. Compliments arrive and you keep them whole — never turning them over to check the underside.
 ---
 
 Agrodolce Chickpeas are the Bean Zodiac's shrewdest — they read Beans and situations with speed and accuracy.

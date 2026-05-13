@@ -6,12 +6,12 @@ form: boiled
 trait: nurturing
 dish: Chè đậu xanh — whole mung beans simmered in coconut milk and palm sugar with a knot of pandan leaf.
 quote: It takes a village to raise a bean.
-seasonalFortune: Something simmered long enough begins to sweeten on its own — the coconut milk rises.
-facetMid: The broth holds what floats within it.
-facetHigh: Sugar dissolves into everything it touches, equally.
-facetMost: Pour steadily — the bowl knows when it's full.
-facetLow: The bean that hardens alone grows dense, fine-grained.
-facetLeast: The pandan unfolds whether the pot tends it or drifts.
+seasonalFortune: A long pot keeps its own quiet weather; the pandan steeps, the sugar yields, and the room around it slowly softens without announcement.
+facetMost: Palm sugar dissolves into the pot before anyone tastes it. You feed people the moment they sit down, before they admit they came hungry.
+facetHigh: A knot of pandan tied for someone else's bowl. You text first when a friend goes quiet, and you keep texting.
+facetMid: Coconut milk rises and you skim it for whoever's bowl is thinnest. Your inbox stays open late; the message marked unread is one you're still drafting.
+facetLow: Some beans simmer best with the lid on. You keep your rooms to yourself, lock the door behind you, and call it rest, not retreat.
+facetLeast: Pandan unfurls, then the pot moves on. You leave before the bowls are cleared, and the next thing is already pulling at your sleeve.
 ---
 
 Candied Mung Beans are the Bean Zodiac's most nurturing — they tend conditions quietly, ensuring others have what they need before it's named.

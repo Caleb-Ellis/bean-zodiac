@@ -6,12 +6,12 @@ form: fermented
 trait: philosophical
 dish: Hatcho miso shiru - adzuki simmered in two-year aged hatcho miso with silken tofu.
 quote: I think, therefore I am a bean.
-seasonalFortune: The brine deepens with time. What ferments beneath the surface — slower than expectation, richer than what first appeared — carries the umami of months. The question isn't whether it will develop, but what kind of depth it will become.
-facetMid: The layers inside the paste are still becoming.
-facetHigh: The fermentation is revealing what was always there, inaccessible until now.
-facetMost: A complexity emerges that couldn't have been predicted — the miso teaches what it took time to know.
-facetLow: The flavour arrives quickly, needing nothing but appetite.
-facetLeast: The surface is enough; the answer tastes like itself.
+seasonalFortune: Crocks sit in the dark and the paste turns slowly inward. The season favours what has been thinking a long time — broth gathering weight in the pot, depth accumulating below the lid.
+facetMost: A jar darkens on the shelf for two years. You let a question steep that long before you'll trust an answer to it.
+facetHigh: Silken tofu yields without resistance. In a roomful of opinions yours arrives last, after everyone has spoken, and only if pressed.
+facetMid: Steam stalls at the window above the simmering pot. You notice small reversals — a sentence ending differently than it began — and carry them for days.
+facetLow: The broth gives its taste up front. You answer the email in one line, settle the debt at the door, forget the matter before evening.
+facetLeast: The body asks in plain syllables. Tired, you sleep; restless, you walk; no instinct waits on a second opinion.
 ---
 
 Miso Adzuki Beans are the Bean Zodiac's most philosophical — they've thought everything through.

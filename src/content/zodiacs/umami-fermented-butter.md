@@ -6,12 +6,12 @@ form: fermented
 trait: reflective
 dish: Shiro ae - butter beans dressed in white miso, ground sesame, and tofu.
 quote: Who looks outside, dreams; who looks inside, finds a bean.
-seasonalFortune: The miso deepens in its vessel — what sits still becomes more itself.
-facetMid: The sesame gives what it has to the pressing.
-facetHigh: The white miso holds what cannot be seen — trust the dissolving.
-facetMost: All flavors meet where the beans sink deepest.
-facetLow: The butter rises fast to the surface.
-facetLeast: The tofu takes its shape the instant the miso touches it.
+seasonalFortune: Miso slackens in its crock; the season favors what has been kept long enough to deepen.
+facetMost: Sesame, ground twice, gives up more the second time. You return to old conversations until they finally release their meaning.
+facetHigh: A draft sits in white miso, dissolving. You re-read every message before sending, and most you do not send.
+facetMid: Tofu pressed beneath a weight. You sit with a room a long while before moving anything in it.
+facetLow: Butter beans skim the surface of hot water. Hunger names itself and you eat; the thought arrives later, if at all.
+facetLeast: Salt finds its level fast. You answer the email the minute it lands and never circle back.
 ---
 
 Miso Butter Beans are the Bean Zodiac's most reflective — they return into experiences until they understand what they mean.

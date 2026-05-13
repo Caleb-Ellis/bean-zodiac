@@ -6,12 +6,12 @@ form: fried
 trait: serious
 dish: Bindaetteok - Korean mung bean pancakes with kimchi and soy dipping sauce.
 quote: Life is too important to be taken bean.
-seasonalFortune: The season holds more than appears in a first passing. What settles at the bottom of the bowl is the part worth returning to again.
-facetMid: The oil darkens as it holds heat. There are layers underneath.
-facetHigh: Each grain in the batter carries its own weight. A careful eye finds where the crust cracks reveal the density within.
-facetMost: The soy darkens at the bottom of the dish. Let the weight of that depth season everything.
-facetLow: The surface catches light and moves quickly past.
-facetLeast: Flavors scatter and disperse. The air carries more than the bowl does.
+seasonalFortune: A season that asks for the long burner. Days settle the way oil settles in a cold pan — slowly, and toward the bottom.
+facetMost: Soy pooling under a pancake, dark and unhurried. When a friend brings you a small worry, you set down what you were doing and treat it at full size.
+facetHigh: Kimchi cut fine, folded in without ceremony. You answer the message that needs answering; the tab of unread jokes can wait until winter.
+facetMid: The batter thickens between stirrings. You arrive at a room a beat after others, having considered what it asks of you.
+facetLow: Crust crackling fast in hot oil. You decide what to wear by reaching, what to cook by smelling, and the day goes fine.
+facetLeast: Scallion oil skating across the surface. You skim a long email, send back two words, and the thing somehow gets done.
 ---
 
 Tempura Mung Beans are the Bean Zodiac's most serious — they bring the same gravity to all things.

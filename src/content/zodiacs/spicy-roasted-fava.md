@@ -6,12 +6,12 @@ form: roasted
 trait: adventurous
 dish: Foul mhammar - Moroccan roasted fava beans with cumin, chili, and charmoula.
 quote: Life is either a daring bean or nothing at all.
-seasonalFortune: The charmoula calls further than the roasted skin. Root in what scorches and sweetens, then follow the smoke.
-facetMid: Heat rises where it will; the spice knows the way.
-facetHigh: Stride into the unfamiliar as if entering a well-seasoned kitchen — each element reveals itself.
-facetMost: The embers still glow; go where they lead without turning to check the cold behind.
-facetLow: The soil has its own gravity. Remain with the weight of what is known.
-facetLeast: The bean holds. Depth grows in stillness.
+seasonalFortune: A season when the charmoula travels further than the pan it was mixed in. Households of this bean keep the windows open and the kettle moving.
+facetMost: Cumin blooming in hot oil — you book the unfamiliar flight before the return one. Strangers' couches, odd routes home; the itinerary is the point.
+facetHigh: Chili cracks under the roast. You reroute mid-walk for a street you've never turned down, and arrive late without apology.
+facetMid: Skins blistering loud in the pan. When the group debates the restaurant, you name the one nobody has tried.
+facetLow: Charmoula thickens slowly, garlic settling. You reread the book you already love rather than start the stack on the table.
+facetLeast: A fava cooling in its skin, unmoved by smoke. You take the same walk daily and notice more each time.
 ---
 
 Peri-Peri Fava Beans are the Bean Zodiac's most adventurous — they move toward the unfamiliar with warmth.

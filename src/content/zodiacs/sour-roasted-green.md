@@ -6,12 +6,12 @@ form: roasted
 trait: cheerful
 dish: Fagiolini al limone - oven-roasted green beans with lemon zest, garlic, and toasted almonds
 quote: The most bean thing you can do is smile through your tears.
-seasonalFortune: Warmth passes through like toasted oil on the skin — absorbed, held, carried forward into dimmer corners.
-facetMid: The almond catches light before the tooth; brightness gathered in small, hard places.
-facetHigh: Zest rises in the heat — sharp, carried on air, impossible to ignore or contain.
-facetMost: Every particle glows. The roast declares itself without apology.
-facetLow: The beans rest in their own weight. Warmth moves elsewhere, leaving them whole.
-facetLeast: Silence pools where sound once scattered. The dish asks nothing; offers little back.
+seasonalFortune: Lemon and roast carry through the house long after the pan cools; brightness keeps moving room to room, settling where it is needed.
+facetMid: Replies arrive quick, warm, exclamation point intact — an almond cracking clean between the teeth.
+facetHigh: Greet first, always; the cashier remembers your face — zest scraped fine over a stranger's afternoon.
+facetMost: You change the air of a room by walking in — garlic blooming the moment the oven door opens.
+facetLow: Rooms kept dim, good moods kept to yourself — beans cooling quiet on the sheet pan.
+facetLeast: Slow weather, brightness left to others — lemon kept back from the dish.
 ---
 
 Chimichurri Green Beans are the Bean Zodiac's most cheerful — warmth that is hard to dismiss because it is honest.

@@ -6,12 +6,12 @@ form: roasted
 trait: warm
 dish: Miso-roasted adzuki with black sesame and mirin.
 quote: There's no better feeling in the world than a warm bean on your lap.
-seasonalFortune: The miso darkens slowly, layer upon layer of time rendered into depth. Warmth is not borrowed but built — each ember tended becomes the season's glow. What radiates has first been held close.
-facetMid: Sesame seeds catch light; small brightness held in the palm.
-facetHigh: The glaze thickens where it pools — radiance becoming tangible.
-facetMost: Mirin coats everything. The sweetness is everywhere it touches.
-facetLow: The beans cool on the plate. Stillness has its own music.
-facetLeast: The roast rests in shadow. Quiet depth, untouched.
+seasonalFortune: "Miso deepens in the oven; the season runs long and low. Houses smell of sesame and slow heat, and the people inside grow patient with one another, kettles always within reach."
+facetMost: "Mirin glossing every seed. You answer the door before the second knock, kettle already on, and the stranger on the step is sitting down before they remember why they came."
+facetHigh: "Glaze thickens where it pools. When a friend goes quiet for weeks, you send the unprompted message — no occasion, no ask, just the heat kept burning on their behalf."
+facetMid: "Sesame catches the lamp. You spend more on a gift than you meant to, because the cheaper one felt like a draft through the door."
+facetLow: "The pan cools untouched on the rack. You leave a message on read for a day or two; the reply, when it lands, is exactly the size it needed to be."
+facetLeast: "Adzuki resting in shadow. You sleep with the window cracked in winter, take your tea barely warm, and find other people's fussing over you faintly unbearable."
 ---
 
 Rendered Adzuki Beans are the Bean Zodiac's most warm — it's what they are like, the way a roasted bean radiates outward.

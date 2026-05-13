@@ -6,12 +6,12 @@ form: smoked
 trait: pallid
 dish: Fabada Asturiana - smoked butter beans with morcilla, smoked paprika, and sherry vinegar
 quote: Now is the bean of our discontent.
-seasonalFortune: Smoke settles on what has already paled; underneath, where the vinegar was poured, something waits to be remembered. The broth thickens only when it's given time to sit with its own emptiness.
-facetMid: The paprika hasn't rusted yet — it still holds its red beneath the grey.
-facetHigh: The morcilla remembers blood; the beans remember their form. Both refuse to disappear entirely.
-facetMost: Warmth collects in the pot's corners, small and stubborn. A slow turn brings it all back into the broth.
-facetLow: The smoke clears too quickly; colour floods back before there's silence enough to hear what the pallor was teaching.
-facetLeast: Every surface gleams, every voice rises, every hand reaches — the broth boils over before it has time to know itself.
+seasonalFortune: A season for smoke that has lost its fire. The vinegar's sharpness lingers in rooms where the lamp is left low, and the pot sits half-warm on a back burner well past supper.
+facetMost: Paprika gone grey at the rim. You wear unsaturated colours by instinct, choose the chair nearest the wall, and let livelier guests do the talking without resenting them.
+facetHigh: The morcilla holds its shape but not its blood. You answer messages in clipped, accurate sentences hours after they arrive, and nobody minds.
+facetMid: Sherry vinegar in a cup of cold broth. You let plans drift past their hour before naming them dead; the delay is rarely costly.
+facetLow: Smoke lifting clean off the pan. You walk into a room and the temperature rises; flat afternoons exhaust you, and you make small noise to keep them moving.
+facetLeast: Butter beans simmering loud in a bright kitchen. You buy saturated reds, laugh first at your own jokes, and find muted company genuinely tiring within the hour.
 ---
 
 Cured Butter Beans carry the quietest weight — the calm is present, but something that made it sustaining has been drained away.

@@ -6,12 +6,12 @@ form: fermented
 trait: imaginative
 dish: Szechuan pickled green beans with bitter melon and sesame.
 quote: Imagination is more important than bean.
-seasonalFortune: The brine accepts what the raw pod resists. A vision passed between hands curdles differently than one kept whole, gathering salt and tang it could not have found alone.
-facetMid: Fermenting keeps its own time; the interior shifts while the surface appears still.
-facetHigh: The sesame cracks open. What seemed finished is just beginning to smell like something.
-facetMost: The thread leads into the kitchen wall. The only way forward is through the strangeness it promises.
-facetLow: The sesame stays whole. The dish arrives as expected — familiar, correct, already understood.
-facetLeast: The brine sits at room temperature. What's already in the jar is what gets served.
+seasonalFortune: Bitter melon learns sweetness from salt and waiting. The Cultured Green Bean lives among half-pickled notions, drafts steeping in their own brine until something stranger surfaces.
+facetMost: Sesame splits under the pestle and a doorway opens. You draft sideways, building the wrong room on purpose and moving in.
+facetHigh: Sleep finds you mid-pickle, pods still tumbling behind the eyelids. You wake reaching for paper before the kettle.
+facetMid: A message arrives plain; you answer in a flavour the sender did not order, and the thread tilts toward bitter melon.
+facetLow: The pantry stays in rows. You cook the recipe as written, sesame measured, the jar labelled in the hand that bought it.
+facetLeast: A friend describes a strange idea; you nod, pay the bill, and walk home along the route you always take.
 ---
 
 Cultured Green Beans are the Bean Zodiac's most imaginative — they see what isn't there yet and render it visible.

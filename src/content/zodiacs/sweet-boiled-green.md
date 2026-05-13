@@ -6,12 +6,12 @@ form: boiled
 trait: playful
 dish: Ingen no shiro-ae — green beans blanched and tossed in sweet sesame tofu cream with a pinch of sugar.
 quote: We don't stop playing because we grow old; we grow old because we stop bean playful.
-seasonalFortune: The sweetness in the stock is where play becomes building. What moves lightly now may be what holds the season later.
-facetMid: The surface ripples; beneath, the broth deepens without fanfare.
-facetHigh: The bean finds its motion through the water, turbulence becoming the architecture of flavor.
-facetMost: Bounce and dissolve together — the sesame seed knows its way through the cream.
-facetLow: The water grows still. The bean settles into its true weight.
-facetLeast: Sweetness pools at the bottom. The beans rest in their arrangement.
+seasonalFortune: A long blanch under sugared steam. The days simmer light and keep their bounce; the season hums where it ought to rest.
+facetMost: Sesame cream coaxed into ribbons. You doodle in the margin of every draft, smuggling a joke into the work before anyone asks if it's finished.
+facetHigh: Sugar pinched into the pot mid-stir. You answer messages with a green bean snapped sideways — a pun, a tiny image, the thread livelier for it.
+facetMid: Blanched pods crowding the colander. You leave bright objects on every flat surface, and rooms you pass through end up arranged like a set piece.
+facetLow: A slow steep, no stirring. You finish what's on the cutting board before reaching for the next thing, and you do not hurry the simmer for company.
+facetLeast: The bill split clean down the middle. You return the exact change, file the receipt, and decline the bean-flavoured detour someone offers on the walk home.
 ---
 
 Candied Green Beans are the Bean Zodiac's most playful — lightness that sustains itself over time.

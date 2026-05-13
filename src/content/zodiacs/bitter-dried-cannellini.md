@@ -6,12 +6,12 @@ form: dried
 trait: ascetic
 dish: Acquacotta - cannellini and bitter greens.
 quote: Simplicity is the ultimate bean.
-seasonalFortune: A clear season. The pot holds water, a handful of beans, one bitter leaf; the kitchen smells of nothing until it is time to eat.
-facetMost: Salt, water, bean, leaf. You cook the acquacotta down to four ingredients and refuse the fifth a friend swears by.
-facetHigh: A bare counter. The cruet, the wooden spoon, the lidded pot — nothing else stays out, and you know where each one lives.
-facetMid: The cracked bowl still pours, so the cracked bowl stays. You replace what fails, not what tires.
-facetLow: You eat the second helping standing at the stove, then a slice of bread to catch what the broth left behind.
-facetLeast: Six chairs, eight people, the pot stretched with another ladle of water. You'd rather crowd the table than turn anyone back.
+seasonalFortune: A long quiet season. The bean keeps in its jar, the bitter leaf cures on the sill, and the kitchen waits weeks for the pot to come down.
+facetMost: Water, bean, one bitter leaf. The fifth ingredient is offered and you wave it off without looking up from the pot.
+facetHigh: The shelf holds three jars and no more; a fourth would have to earn its place by displacing one already there.
+facetMid: A coat outlasts a decade because you have never let yourself want the next one. What works is not replaced until it stops.
+facetLow: Drawers full of small good things — pens, ribbons, a folded receipt from a fine afternoon. Nothing leaves your keeping without a fight.
+facetLeast: You set out the second cruet, the bread, the dish of salt; the table grows crowded and you keep adding what someone might reach for.
 ---
 
 Desiccated Cannellini Beans are the Bean Zodiac's most ascetic — they have removed every excess and arrived at something so refined it barely takes up space.

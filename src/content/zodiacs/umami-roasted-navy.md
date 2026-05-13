@@ -6,12 +6,12 @@ form: roasted
 trait: wistful
 dish: Marmite-roasted navy beans with rosemary and garlic.
 quote: We shall not cease from bean exploration, and the end of all our exploring will be to arrive where we started.
-seasonalFortune: Umami sleeps in the roasted shell, waiting to be called forth. The broth remembers every hand that stirred it; a season to taste what persistence leaves behind.
-facetMid: The saltiness pools at the bottom — a trace of what gave flavor before.
-facetHigh: The rendered fat carries the whole story; it browns the next meal with what the last one learned.
-facetMost: Marmite-dark, umami gathers the kitchen's echoes into something whole and alive again.
-facetLow: The fresh bean takes the heat as new; the fire asks no questions of where it came from.
-facetLeast: Each roasting cracks the shell open — what was sealed stays sealed no longer.
+seasonalFortune: Marmite darkens slow in the jar; rosemary keeps its needle through winter. A season for the small salted things that outlast their occasion.
+facetMid: A pinch of Marmite stirred in for the absent. When you cook, you cook recipes that belong to someone — and you say their name while you stir.
+facetHigh: Rosemary scents a drawer long after the sprig is gone. You reread old messages the way others reread novels, finding new weather in the same lines.
+facetMost: Papery garlic skins kept in a dish on the sill. Every room you live in becomes a quiet archive — objects held because someone once touched them.
+facetLow: The roast crackles, is eaten, forgotten by morning. You finish a thing and walk forward; what was good was good, and the next pan is already warming.
+facetLeast: Bean shells split clean and swept from the tray. You give possessions away easily, without ceremony — a room emptied is a room ready.
 ---
 
 Rendered Navy Beans are the Bean Zodiac's most wistful — they carry the warmth of what has already passed, faithfully.

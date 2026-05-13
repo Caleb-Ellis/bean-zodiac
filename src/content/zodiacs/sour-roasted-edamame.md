@@ -6,12 +6,12 @@ form: roasted
 trait: forthright
 dish: Yaki edamame with yuzu kosho - oven-roasted edamame with yuzu pepper paste and flaky salt
 quote: All you need in this life is ignorance and beans, and then success is sure.
-seasonalFortune: Clarity emerges in layers — each pod splits to reveal what was needed all along, the bitter and the bright held equally.
-facetMid: The yuzu paste speaks plainly; the salt catches light.
-facetHigh: Seeds split open of their own weight — nothing held back by the roasting.
-facetMost: Skin splits clean. Everything inside becomes visible at once.
-facetLow: The flesh clings to its shell; flavor stays locked beneath surface warmth.
-facetLeast: Silence gathers where words might have fallen — the taste arrives unnamed.
+seasonalFortune: The season favors pods that crack on the pan. What was hidden under the shell now salts the air, and rooms around such people learn quickly what they are.
+facetMid: Steam lifts straight off the tray — debts answered the same week they land.
+facetHigh: Roast loud, salt after. The message goes out unedited; the tab closes before doubt arrives.
+facetMost: A pod splits at the seam, and the room hears it. You say the thing before anyone has set down their drink.
+facetLow: Some shells keep their seed. The good plates stay in the cupboard, the loud books face-down on the shelf.
+facetLeast: Salt held back is salt kept. You finish the work in private and show no one for a year.
 ---
 
 Chimichurri Edamame are the Bean Zodiac's most forthright — they volunteer truth from warmth, not compulsion.

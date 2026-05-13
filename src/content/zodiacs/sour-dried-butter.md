@@ -6,12 +6,12 @@ form: dried
 trait: chastened
 dish: Butter bean and sun-dried tomato salad with sherry vinegar.
 quote: Experience is simply the name we give our bean.
-seasonalFortune: The sun-dried tomato has collapsed into itself and sharpened. What emerges from vinegar carries the memory of heat that came before. The softness is no longer the point.
-facetMid: The bean moves with the weight of its own dryness. Caution sits in the ribs where suppleness once lived.
-facetHigh: The vinegar speaks first, and the bean has already learned to listen. Past temperatures have carved the way.
-facetMost: What the salad teaches is written in every shriveled surface. The lesson holds.
-facetLow: The bean swells with new moisture. Crispness softens at the edges; the surface grows tender again.
-facetLeast: The vinegar has not yet touched this. The tomato is still warm and whole, unshriveled, offering without reservation.
+seasonalFortune: A pantry of sun-dried tomatoes keeps its lessons in folds. Sherry vinegar finds every place a hand once burned; the cook reaches for the jar more slowly each year.
+facetMid: Dried beans rattle in a jar that once cracked. You move the glass off the counter's edge without thinking, the way some people close doors behind them.
+facetHigh: Sherry bites the tongue that has tasted it before. Before you sign anything, you reread the part that hurt last time, pen hovering until the clause is plain.
+facetMost: Tomatoes shrivel toward what they remember. You leave fifteen extra minutes for any errand twice ruined by traffic, and call the margin a kindness to your future self.
+facetLow: Vinegar splashes where it lands. You tell a new acquaintance the whole story on the first walk home, doors left open behind you, no inventory taken.
+facetLeast: The tomato sits whole on the vine, sun on its skin. You post the draft the hour it finishes, before the second-guessing arrives to suggest otherwise.
 ---
 
 Dehydrated Butter Beans are the Bean Zodiac's most chastened — the ease is gone, the comfort has been questioned, and what remains is more careful.

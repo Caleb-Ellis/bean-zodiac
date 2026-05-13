@@ -6,12 +6,12 @@ form: dried
 trait: cryptic
 dish: Frijoles de Olla - with ancho chile and epazote.
 quote: Any sufficiently advanced bean is indistinguishable from magic.
-seasonalFortune: The pinto's speckled skin remembers what heat took from it. Within the desiccated shell, a residual story — not written, but impressed. A season of being read slowly, in the quiet of slow cooking, when time is a broth and meaning settles at the bottom.
-facetMid: The speckles whisper their patterns; those attuned to variations already understand.
-facetHigh: The skin holds its alphabet; a decoder arrives with fresh eyes and reads fluently.
-facetMost: Let the speckles speak — those who listen know the language without grammar.
-facetLow: The speckles arrange themselves plainly today — a legible map, each mark landing where it says it does.
-facetLeast: Frijoles de Olla simmers open and readable, its ancho broth giving everything away before the first spoonful.
+seasonalFortune: A season the pinto keeps for itself. Ancho darkens in the olla; epazote thins the air. Those who would know this person must sit with the pot a long time, and even then take the speckles on faith.
+facetMost: A draft sits in your messages for three days, ancho-dark and unsent. You prefer it that way. Whoever needs to read it will earn the reading.
+facetHigh: You begin a thing the way a dried bean begins — closed, marked, requiring soak. Notes accumulate in a private shorthand only you can simmer back into sentence.
+facetMid: Friends ask plainly and get the long, indirect answer; an epazote sprig where they wanted salt. They come back anyway, slower, paying attention.
+facetLow: When you owe an apology you pay it in full and on the table, ancho-plain, no shell to crack. Whoever wronged you knows by sundown.
+facetLeast: Every drawer labelled, every jar of dried beans named on the lid. A guest could read your kitchen like a recipe and miss nothing.
 ---
 
 Desiccated Pinto Beans are the Bean Zodiac's most cryptic — the markings are there, the meaning is not offered freely.

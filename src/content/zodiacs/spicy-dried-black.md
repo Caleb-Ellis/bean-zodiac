@@ -6,12 +6,12 @@ form: dried
 trait: suppressed
 dish: Mole negro - dried black beans with mulato and pasilla chilies.
 quote: Where there's smoke, there's bean.
-seasonalFortune: Pasilla and mulato toast in a dry pan until the kitchen stings, then go under a weighted lid; the heat is kept, not released.
-facetMid: Char the chilies; bury them in stock. The bite is there, low under the simmer.
-facetHigh: A mole held at the barest tremor for hours — surface still, the chili in every spoonful.
-facetMost: Beans pressed through a sieve into the pot. Nothing in the bowl announces the chili; everything in the bowl is the chili.
-facetLow: Chilies torn in by hand and left whole; the broth flushes red within minutes.
-facetLeast: Lid off, pasilla seeds and all, the kitchen coughing — the pot eaten straight from the stove with a torn tortilla.
+seasonalFortune: A pan of chilies toasted dark and a lid set heavy; what stings the kitchen is folded down into a long, quiet simmer, and the heat travels inward for hours.
+facetMid: Mulato banked at the back of the stove, the kitchen still warm hours later. Rooms behind you close tidy — a drawer shut, a chair pushed in, the day put away.
+facetHigh: Pasilla under a weighted lid, surface unbroken. At the loud end of the table you keep the steadiest face, refilling glasses while the argument runs.
+facetMost: Pressed through a sieve, nothing of the chili visible, all of it present. You carry a fever to the table and pour water for the room before you sit.
+facetLow: Chilies torn in by hand, red flooding the broth. You name the wrong charge at the counter the minute you see it, plainly, before the line behind you stirs.
+facetLeast: Lid off, seeds and all, the kitchen coughing. First drafts go out the door warm and unsorted, with you still talking through the doorway.
 ---
 
 Sichuan Black Beans are the Bean Zodiac's most suppressed — the intensity is real and total, and none of it shows.

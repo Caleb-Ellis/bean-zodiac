@@ -6,12 +6,12 @@ form: dried
 trait: impenetrable
 dish: Black bean and dried hibiscus soup with lime.
 quote: No bean is an island, entire of itself.
-seasonalFortune: The skin holds what the broth cannot reach. Each layer resists the heat; even the lime's sharpness stops at the perimeter. What grows dense grows quiet.
-facetMid: The bean wears its dryness like a closed door. Moisture is kept at a distance.
-facetHigh: The tannins form a rampart; the fragrance of hibiscus circles but does not enter.
-facetMost: Everything outside is spectacle. The interior is untroubled and whole.
-facetLow: The surface grows soft where the soup touches it. Flavor bleeds across the boundary in both directions.
-facetLeast: The bean dissolves into the broth. What was solid becomes part of what surrounds it.
+seasonalFortune: Hibiscus stains the pot rim red while the beans stay black at the core. Some interiors are not edited by what surrounds them; weather passes over, not through.
+facetMid: The dry bean rattles in the jar, sealed against the kitchen's damp. Drawers close. Closets close. A guest sees the room you decided they would see.
+facetHigh: Lime sharpens the broth without entering the skin. At the party you stand near the door, courteous, unread, leaving with the face you arrived in.
+facetMost: Hibiscus reddens the water; the bean keeps its color. Messages collect for days. You answer when you have something to say, and not a moment before.
+facetLow: A long simmer, and the skin gives. You send the draft to anyone who asks; whatever you are working on, the room hears about it by Wednesday.
+facetLeast: The bean slackens; the broth darkens with it. You tell the doctor everything on the first visit, weep at films, sleep where you fall.
 ---
 
 Dehydrated Black Beans are the Bean Zodiac's most impenetrable — nothing passes in or out that has not been examined first.

@@ -8,13 +8,15 @@ Almanac and recipe-headnote, not horoscope. Think M.F.K. Fisher, Patience Gray, 
 
 The six lines split into two registers. **`seasonalFortune` is almanac** — a mood-setter in the third person, describing the _texture of life_ a person of this bean tends to inhabit, no direct address. **The five dailies are characterological** — each one is a _facet of personality_ the reader either accepts ("yes, that's me") or resists ("no, that's not me"). The accept/resist signal across the five is what types the user, so each line has to be sharp enough to provoke a clear yes or no.
 
-**Enact the trait, never name it.** A `judicious` zodiac never says "you are patient today" — it shows a verdict being held back. The reader should infer the trait from the gesture. It should be obvious that the fortunes are about the trait (or opposite of the trait if facetLow or facetLeast).
+**Enact the trait, never name it.** A `judicious` zodiac never says "you are patient today" — it shows a verdict being held back. The reader should infer the trait from the gesture. It should be obvious that the facets are about the trait (or opposite of the trait if facetLow or facetLeast).
 
 **Each daily describes a behavioral facet** The literal layer underneath every daily should paraphrase to "you are the kind of person who _does this thing_" — a recognisable pattern of behavior, not a forecast and not a piece of advice. Second person is the default. The zodiac's dish can be included as an image that lets the personality pattern land. Behavior first, dish second.
 
+**Each daily starts with poetic imagery regarding the dish** Each daily should start with a brief poetic sentence that in some way ties to both the trait and the dish - encourage the abstract, metaphorical and maybe a bit weird.
+
 **The five facets sit on a spectrum of trait expression.** Not five intensities of the same situation — five points on how strongly the trait shows up in this person:
 
-- **`facetMost`** — the purest, most self-aware form of the trait; the person who has made it their signature
+- **`facetMost`** — the purest, most self-aware form of the trait; the person who has made it their signature.
 - **`facetHigh`** — the trait as a default move
 - **`facetMid`** — the trait shows up consistently
 - **`facetLow`** — you often go the other way
@@ -22,7 +24,7 @@ The six lines split into two registers. **`seasonalFortune` is almanac** — a m
 
 Across the five, a real person should accept some and resist others. If the same reader would accept all five, the spectrum is too narrow.
 
-**Spread the five facets across different life-areas where personality shows up.** Don't write five variations on the same behavior. Pick five rows from the pool below — no two from the same row, and at most one from `digital`. **Pick the setting before you write the beat.** A life-area is not a setting — `transactional` is not always "at a restaurant," `social-edge` is not always "at a dinner party." The dish supplies imagery; it does not necessarily supply the scene. Across a set of five, no more than two fortunes should literally take place around food.
+**Spread the five facets across different life-areas where personality shows up.** Don't write five variations on the same behavior. Pick five rows from the pool below — no two from the same row. **Pick the setting before you write the beat.** A life-area is not a setting — `transactional` is not always "at a restaurant," `social-edge` is not always "at a dinner party." The dish supplies imagery; it does not necessarily supply the scene. Across a set of five, no more than two fortunes should literally take place around food.
 
 - **bodily** — how this person handles sleep, hunger, fatigue, illness; what their body asks for
 - **spatial** — how they treat rooms and objects; what they leave out, hide, rearrange
@@ -31,13 +33,13 @@ Across the five, a real person should accept some and resist others. If the same
 - **material** — how they handle money, possessions, gifts; what they spend on
 - **creative** — how they start, stall, share, or finish their own work
 - **domestic** — how they cook, clean, host, decide household things
-- **transactional** — how they handle apologies owed, bills, returns, small obligations
+- **transactional** — how they handle bills, returns, small obligations, apologies owed
 - **ambient** — what moods recur in them; what they notice in weather, smell, sound
-- **digital** — how they handle messages, tabs, notifications (cap: one per set)
+- **digital** — how they handle messages, tabs, notifications
 
 **Bias the situation pool toward the bean physically does.** A bitter-boiled bean's situations should lean toward delay. A sweet-roasted bean leans toward invitation, warmth, the gift etc. Don't enumerate this in the line — let it shape which rows of the pool you reach for. Same taxonomy, 360 different palettes.
 
-**facetLow and facetLeast describe the opposite-leaning person, joyfully.** Not failure, not warning. If the trait is `judicious`, low/least describe a person who acts on instinct and is well served by it. If the trait is `courageous`, low/least describe a person who is cautious by nature and is right to be. Same dish providing texture as the high end — same kitchen, different temperament.
+**facetLow and facetLeast describe the opposite-leaning person.** Not failure, not warning. If the trait is `judicious`, low/least describe a person who acts on instinct and is well served by it. If the trait is `courageous`, low/least describe a person who is cautious by nature and is right to be.
 
 **Vary cadence within the set of five.** Don't open every daily with "The X…". Mix declarative sentences, fragments, semicolon-balanced clauses, imperatives, participial phrases collapsing into an image. Symmetric scaffolding reads as machine-generated even when it isn't.
 

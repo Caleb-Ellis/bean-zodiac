@@ -6,12 +6,12 @@ form: roasted
 trait: aloof
 dish: Frijoles borrachos al horno - oven-roasted pinto beans with lime juice, jalapeño, and dark beer
 quote: I exist as I am — that is enough. If no other bean in the world be aware, I sit content.
-seasonalFortune: The heat has done its work — what remains asks whether the skin still needs its thickness, or whether the separation was only ever the roasting itself.
-facetMid: The rim holds its own light.
-facetHigh: From far enough, the fermentation reads as clarity.
-facetMost: A sealed vessel perfects slowly, needing nothing of the outer air.
-facetLow: The beer dissolves the edge — sweetness finds its way through lime and fire.
-facetLeast: Root and bulb twist together in the same dark soil, indistinguishable.
+seasonalFortune: A season of blistered skins and shut doors. The roast deepens what the lime had already separated; what these weeks ask of a person is the courage to remain unmixed.
+facetMost: A jalapeño cures whole, sealed in its own heat. There is one room in your house no guest has entered, and you do not consider this a failure of hosting.
+facetHigh: At the long table you sit where the lime hits hardest, three seats from the nearest conversation, and stay.
+facetLow: You answer messages the hour they arrive, beer poured, lime cut, the door already open before the knock.
+facetMid: Twelve unread threads, each one charred at the edge. You will read them when the pan cools.
+facetLeast: Skin against skin in the dark beer of a crowd — you go home steeped in other people and sleep deeper for it.
 ---
 
 Chimichurri Pinto Beans are the Bean Zodiac's most aloof — visible and genuinely difficult to reach.

@@ -6,12 +6,12 @@ form: fermented
 trait: observant
 dish: Shio koji edamame - edamame marinated in fermented rice koji with salt and yuzu.
 quote: The world is full of obvious things which no bean by any chance ever observes.
-seasonalFortune: Koji works in the dark — spores colonize grain for weeks before flavor emerges. The season asks for similar patience; what is invisible now shapes everything later.
-facetMid: Salt crystals dissolve at different rates. The smaller ones vanish first, while coarser grains take longer — notice which dissolves in your mouth and when.
-facetHigh: Yuzu oils hold notes that arrive in sequence — first brightness, then depth, then the faint bitter undertone that makes the first brightness matter. Each layer is there if the palate stays open.
-facetMost: Taste with no part withheld — the brine, the koji's subtle funk, the edamame's own earthiness, the yuzu's surprise. All of it speaks.
-facetLow: The salt is salt, the beans are beans — a simple dish offers simple truths. Sometimes the surface is where the meal lives.
-facetLeast: Sweetness arrives, dissolves, is gone. The pod splits; the bean emerges, is eaten. Each moment complete in itself.
+seasonalFortune: Koji works in the dark for weeks before flavor declares itself. The season belongs to the slow accumulators — those who file what they see and wait.
+facetMost: A koji-dusted grain hides in the corner of the jar. You catalogue the room before sitting — every chair angle, every coat on every hook.
+facetHigh: Yuzu rind brightens before it bites; you've already clocked the stranger's wedding ring, their wrist tattoo, the way they tilt the menu toward the window.
+facetMid: Brine settles slow. You hear the kettle's note shift a half-step before it whistles.
+facetLow: The pod splits, the bean is eaten, no postscript. You move when the moment moves and never reread the page you just turned.
+facetLeast: Salt dissolves and is gone. Unread badges stack to four digits; you scroll past them without flinching.
 ---
 
 Miso Edamame are the Bean Zodiac's most observant — they hold what they notice for a long time before saying it.

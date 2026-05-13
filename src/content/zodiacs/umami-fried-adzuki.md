@@ -6,12 +6,12 @@ form: fried
 trait: passionate
 dish: Adzuki chahan - Japanese fried rice with adzuki beans, soy sauce, and scallion.
 quote: Anything that gets your bean racing is worth doing!
-seasonalFortune: The grain remembers which fires shaped it — the soy speaks of long fermentation, and there is distinction between a flame that cares and one that merely consumes.
-facetMid: Heat moves through the vessel, touching everything it reaches.
-facetHigh: The scallion rises where the flame has been — green and insistent with what it learned.
-facetMost: The bowl accepts its fullness without hesitation — this is what it was meant to hold.
-facetLow: The grains scatter gently, each finding its own cooling.
-facetLeast: The aromatics drift without conviction, thinning into the air.
+seasonalFortune: Their days run hot at the edges; what they love is loaded into the pan whole, and what they don't never reaches the flame.
+facetMost: Wok flame leaps before the oil settles. You begin every project at full burn — no half-measures, every grain in the pan turned by the same hand.
+facetHigh: Soy darkens the rice in seconds. You lean into a stranger's sentence, ask the second question, refuse the polite distance most people keep.
+facetMid: Scallion hits the heat and gives up its sweetness at once. When something matters, you move on it now — calendars rearranged, the slow version refused.
+facetLow: Grains cool in their own time. You hold back the gesture, let the want pass through, decide later what was worth keeping.
+facetLeast: Steam thinning above an empty pan. Messages sit unread for days; nothing in the inbox pulls hard enough to answer.
 ---
 
 Tempura Adzuki Beans are the Bean Zodiac's most passionate — what deserves to be marked is, fully.

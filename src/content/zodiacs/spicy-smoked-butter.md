@@ -6,12 +6,12 @@ form: smoked
 trait: hushed
 dish: Southern succotash - smoked butter beans with corn, jalapeño, and smoked bacon.
 quote: Speak softly and carry a big bean.
-seasonalFortune: A season spent over low coals. The room smells of smoke long before anyone notices the pot has been on since morning.
-facetMost: At the loud end of the table you eat slowly, answer when asked, and let the jalapeño do the talking the room expects from you.
-facetHigh: You cook for six without narrating a single step; the succotash arrives, the bacon already crumbled, and no one saw you cross the kitchen.
-facetMid: You finish the work and close the laptop. Someone else will mention it. The corn keeps its kernels intact whether or not the pot is praised.
-facetLow: You announce the dish before it hits the table — every chopped pepper, every minute on the smoker, recounted while the butter beans are still warm.
-facetLeast: You walk into a room the way bacon hits a hot pan — noise, smoke, every head turning, and no question at all about whether you have arrived.
+seasonalFortune: A season spent over low coals. The room fills with smoke hours before anyone notices the pot has been on since morning.
+facetMost: Low coals, loud table. You answer when asked and let the jalapeño carry whatever heat the room came looking for.
+facetHigh: Notifications stacked like cordwood. You reply once, late, in a sentence that smolders for a week without ever raising its voice.
+facetMid: The work closes quietly behind you, the way a smoker seals around the lid; let someone else name what was finished.
+facetLow: You narrate the bacon — every chopped pepper, every minute on the coals, recounted before the butter beans have left the pan.
+facetLeast: Into the room the way bacon hits a cast iron — pop, smoke, every head turning, and no question of who walked in.
 ---
 
 Chipotle Butter Beans are the Bean Zodiac's most hushed — the calm is present, and underneath it something is running at considerable heat.

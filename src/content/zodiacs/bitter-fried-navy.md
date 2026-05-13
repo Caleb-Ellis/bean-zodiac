@@ -6,12 +6,12 @@ form: fried
 trait: judgmental
 dish: Crispy navy beans with bitter chicory and anchovy.
 quote: Do not judge others before you have walked a mile in their beans.
-seasonalFortune: A season cooked at high heat, where the chicory blackens fast and the anchovy declares itself. Small failings scorch visibly; nothing simmers unnoticed for long.
-facetMost: One taste of a stranger's cooking and the dish is filed for life — salt, char, the lazy chicory stem. The ledger does not reopen.
-facetHigh: A book closes at the wrong sentence and never reopens. A film loses you in the first ten minutes, and the pan is already off the heat.
-facetMid: Bills paid the day they arrive. The friend who forgets to settle up twice is quietly dropped from the next dinner.
-facetLow: The anchovy waits in the tin. You let the chicory stew, watch it behave a second week, taste again before deciding anything at all.
-facetLeast: Strangers walk into your kitchen and leave warmer; the pan stays low, the oil patient, every guest fed before anyone is weighed.
+seasonalFortune: The oil runs hot and the chicory blackens before it bends. A season that crackles at the edges, where verdicts arrive faster than the anchovy can salt them.
+facetMost: The pan reads every guest in a single spit of oil. A first message lands wrong and the thread is closed before the reply finishes typing.
+facetMid: Chicory snaps under the knife the moment it bruises. Two late arrivals at the same table and the third invitation is never sent.
+facetHigh: Anchovy sharp on the tongue, no rinse. You walk a room and clock the chair set askew, the lamp left burning, the coat draped where the coat should not be.
+facetLow: A navy bean wants slow oil to crisp without scorching. You sit with the bad first impression a week longer, let it brown evenly, ask once more before filing it away.
+facetLeast: The chicory keeps its leaves where another cook would strip them. Friends arrive late, leave dishes in your sink, borrow the book unreturned; the door swings open again.
 ---
 
 Scorched Navy Beans are the Bean Zodiac's most judgmental — they evaluate quickly and hold firm.

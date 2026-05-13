@@ -6,12 +6,12 @@ form: dried
 trait: audacious
 dish: Bessara - Moroccan dried fava bean dip with cumin and chili oil.
 quote: Fortune favors the bean.
-seasonalFortune: The skin splits when heat insists. What emerges is meant for the fire — not gentler conditions, but the very flame that calls it forth. The season asks for the bold strike.
-facetMid: Cumin and salt find their true note in the scorch. Entry happens now.
-facetHigh: The oil crackles; the spice sharpens. Movement through the heat is movement into itself.
-facetMost: Char marks the path. Commit to the bite that burns.
-facetLow: The dip thickens; patience holds the spoon. Equilibrium settles.
-facetLeast: Cooling brings a different kind of nourishment. The beans rest in their own softness.
+seasonalFortune: A year that cures hard and serves hot. The dried bean keeps its shape until the chili oil hits, and then a household built on small dares finds the heat it was waiting on.
+facetMost: Chili oil bloomed before anyone sat down. You enter a room speaking, and the introductions catch up later.
+facetHigh: Rough draft, salted and pushed across the table. You send the work while the cumin is still loud, before the second-guess arrives.
+facetMid: The pestle strikes once, hard. You move on the half-formed plan rather than wait for the full one.
+facetLow: A pinch of chili held back from the bowl; the spoon tests, the hand pauses. You walk the room twice before deciding where the chair goes.
+facetLeast: Better to soak the favas overnight than scorch them at noon. You let small obligations sit a day, draft the reply twice, and send the calmer one.
 ---
 
 Sichuan Fava Beans are the Bean Zodiac's most audacious — the work is difficult, the heat is significant, and they have chosen to proceed.

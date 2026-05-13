@@ -6,12 +6,12 @@ form: roasted
 trait: easygoing
 dish: Jaggery-roasted mung beans — whole mung beans tossed in melted jaggery and cardamom, roasted until crisp and fragrant.
 quote: Keep your bean up and your worries down, and everything will be just fine.
-seasonalFortune: This season's friction has learned to speak. The beans that settle into its grain — neither fighting nor collapsing — hear the shape of what needs doing. The cardamom rises with the warmth, and the path unfolds in sugar.
-facetMid: The sugar melts where it must. Pressure hardens only what resists meeting it. The bean finds its crisp surface by yielding to the heat.
-facetHigh: The thing pressing against the pan is softening at the edges. The jaggery liquefies when held long enough. Fragrance rises where friction once stood.
-facetMost: Stillness in the roasting pan. The beans arrange themselves into wholeness when left to the flame's rhythm.
-facetLow: Urgency enters the kitchen, hand tightening on the spoon. The beans scatter when pushed too early, their surfaces still soft, their sweetness not yet set.
-facetLeast: Constant stirring keeps nothing from burning, and everything from becoming itself. The roasting catches hold only in the pause.
+seasonalFortune: A season that warms slowly, the way jaggery slackens before it pours. Hard edges round off in the pan. Cardamom finds its way into rooms it was not invited into.
+facetMost: Jaggery in the room before anyone names it. A friend arrives sharp-cornered; you offer the chair, the glass, no questions, and the corners go.
+facetHigh: Cardamom drifts where it isn't invited. The unread thread crests past forty; you tap in, say something warm, and leave the rest unanswered.
+facetMid: A handful tossed in the pan, no measuring. Guests show up an hour early and you set another plate without rearranging the night.
+facetLow: The jaggery seizes when stirred too soon. A plan slips by ten minutes and your jaw sets; you push the room toward the clock.
+facetLeast: A burnt bean can't sweeten anything. An apology owed gets drafted six times; you'd rather pay the late fee than send a softened version.
 ---
 
 Glazed Mung Beans are the Bean Zodiac's most easygoing — they move through difficulty without amplifying it, making situations manageable simply by how they inhabit them.

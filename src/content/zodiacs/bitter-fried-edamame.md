@@ -6,12 +6,12 @@ form: fried
 trait: decisive
 dish: Agedashi - edamame with bitter dashi and daikon.
 quote: In any bean moment of decision, the best thing you can do is the right thing.
-seasonalFortune: Daikon root holds both sharpness and sweetness within. The knife must choose one, even as the broth learns to honor both. Speed alone tastes thin; the best cuts show their hesitation first.
-facetMid: The pod splits cleanly. What was contained now stands separate.
-facetHigh: The heat has done its work. The shell cracks at the first bite without negotiation.
-facetMost: The dashi remembers every decision before the bean even entered the pot.
-facetLow: The pod holds longer than necessary. The broth waits, already seasoned.
-facetLeast: The dashi circles the bean slowly — warmth without a moment of arrival.
+seasonalFortune: A season for sharp oil and short pans. Daikon grates itself thin against the season; pods scorch before the doubt arrives. The almanac favors the cut already made over the cut still being weighed.
+facetMost: Oil at temperature, the pod goes in without ceremony. You name the rent, the route, the no — once, in a single sentence — and let the room adjust around the heat you brought.
+facetHigh: The shell cracks at first bite, no negotiation. Tabs close in clean sweeps; threads end with a line that needs no follow-up; the inbox empties because each message met its verdict on opening.
+facetMid: Dashi reduces to a darker line on the pan. Mid-afternoon you stop circling — pick the chair, pick the hour, pick the route home — and the rest of the day arranges itself around those three small scorches.
+facetLow: Daikon takes its time against the grater. You let a plan stay loose past the point others would seal it, and the shape that arrives by evening fits the room better than the one drawn at noon.
+facetLeast: The pod holds; the broth keeps its counsel. You sit with a choice for a week, turning it like a stone in warm water, and walk into the room already at ease with whichever way it tips.
 ---
 
 Scorched Edamame are the Bean Zodiac's most decisive — when information is in, they make the call.

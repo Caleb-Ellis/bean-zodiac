@@ -6,12 +6,12 @@ form: dried
 trait: clinical
 dish: Moong Dal - mung beans with methi and turmeric.
 quote: First, do no harm to beans.
-seasonalFortune: A season pared to what it owes. Mornings open dry; the day asks for the named amount and nothing extra, and the hand that measures sleeps without argument.
-facetMost: An apology owed gets named, paid, and closed in a single sentence — no softening turmeric stirred in after.
-facetHigh: Fever rising, you weigh the methi against the hour and take the smaller dose. The body is a ledger, not a guest.
-facetMid: Drawers labelled. The jar of dried mung at the back holds what the front jar held last week, minus what you used.
-facetLow: You leave the house roughly when you meant to. The dal will be ready roughly when it's ready. Roughly is a measure.
-facetLeast: No scale, no spoon. A handful of mung, turmeric until the pot looks right, methi because the kitchen smelled like it wanted some.
+seasonalFortune: A season weighed in grams. The household that keeps dried mung in a labelled jar moves through these weeks unhurried, spending only what the ledger has named.
+facetMost: Turmeric stains the cloth where the debt was set down. You name the wrong, pay it once, and do not return to rub at the mark.
+facetHigh: A cough begins; you count the hours, halve the methi, and sleep. The body gets the dose the chart prescribes — not the one fear writes.
+facetMid: Inbox at zero by dusk. Each message answered in the words it needed, no warmer, the unread badge cured like a bean set out to dry.
+facetLow: You leave when the leaving feels right. The dal finishes when it finishes. A rough hour is still an hour, and it has always been enough.
+facetLeast: Methi by the fistful, turmeric until the pot goes gold. The recipe lives in the wrist; the scale is in a drawer you have not opened.
 ---
 
 Desiccated Mung Beans are the Bean Zodiac's most clinical — they see what is depleted with precision and apply exactly what is needed, no more.

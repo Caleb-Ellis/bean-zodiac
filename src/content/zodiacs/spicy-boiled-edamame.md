@@ -6,12 +6,12 @@ form: boiled
 trait: hardworking
 dish: Szechuan boiled edamame with doubanjiang and dried chilies.
 quote: Genius is one per cent inspiration and ninety-nine per cent beans.
-seasonalFortune: The beanbroth accumulates across seasons — what emerges is the sum of all the slow stirring.
-facetMid: The first pod yields to the tooth; patience finds its way through.
-facetHigh: Steam rises from the pot — meet it fully.
-facetMost: All strength goes to the fire; this is where it belongs.
-facetLow: The broth simmers without attendance — something shifts in that neglect.
-facetLeast: The pods remain in water, waiting for hands that don't arrive.
+seasonalFortune: A long simmer salts the year for this one; chili oil collects on the surface of every month, and the pod gives only to a steady hand.
+facetMost: Dawn arrives chili-red. You are already at the second pot, third list, fourth hour — the day catches up to you near noon.
+facetHigh: Doubanjiang waits on a clean board. Guests sit; you keep moving, ferrying bowls, refilling water, until the last pod is split.
+facetMid: A tab open since Tuesday, simmering. You return to it between other things, salting it with small fixes, and close it only when the broth has reduced.
+facetLow: Pods cooling in the colander, unclaimed. You step over the unfinished task, take the long walk, and come back to find the kitchen has waited.
+facetLeast: Heat blooms across the tongue and you stop. Bed by nine, pot left soaking; the body's verdict outweighs whatever was half-done.
 ---
 
 Braised Edamame are the Bean Zodiac's most hardworking — they understand work is required and follow through.

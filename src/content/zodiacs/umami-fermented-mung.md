@@ -6,12 +6,12 @@ form: fermented
 trait: poetic
 dish: Doenjang juk - savory mung bean porridge with fermented soybean paste and sesame oil.
 quote: A bean should be more careful of his learning than of the pebble in his shoe.
-seasonalFortune: The brine holds memory — what ferments in stillness learns a darker language. One season the beans speak in salt; another, they settle into their own depth.
-facetMid: Sesame oil catches light the way certain words catch ears. The ordinary glows where it always did.
-facetHigh: The paste thickens. What simmers beneath surfaces rises to the breath — the spoon stops mid-stir.
-facetMost: Steam carries the message. Plain beans become vessel; the fermented dark becomes voice.
-facetLow: The broth runs thin. What might have resonated spreads too wide, touches nothing.
-facetLeast: The salt fades. Something meant for depth arrives instead as mere flavor.
+seasonalFortune: The crock keeps its dark counsel; salt slows the bean into speech. A season for slow language, for what thickens beneath the lid before it is ladled.
+facetMost: Steam lifts off the porridge and carries a line with it. You move through rooms gathering small phrases nobody else logged.
+facetHigh: Sesame oil pools dark on the surface. You rewrite the three-line message four times; the cadence matters as much as the news.
+facetMid: A clay pot moved an inch changes the room. You rearrange a shelf until the objects rhyme.
+facetLow: Porridge cools fastest at the rim. You eat while it's hot and don't pause to name the warmth; the day moves and you move with it.
+facetLeast: Fermented paste keeps its own time; you keep yours by the clock. Bills paid the day they arrive, receipts filed plain, no flourish in the margin.
 ---
 
 Miso Mung Beans are the Bean Zodiac's most poetic — when they speak, the phrase lands and stays.

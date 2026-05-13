@@ -7,7 +7,9 @@ import {
   type ZodiacId,
 } from "../../lib/zodiac";
 
-const getQualityLabel = (qualityId: QualityId): { text: string; className: string } | undefined => {
+const getQualityLabel = (
+  qualityId: QualityId,
+): { text: string; className: string } | undefined => {
   switch (qualityId) {
     case QualityIds.Heirloom:
       return { text: "Vivid", className: "text-effect-gold" };
@@ -51,14 +53,10 @@ export default function ZodiacName({
     <span
       key={`${flavourId}-${formId}`}
       style={{
-        display: "inline-block",
-        maxWidth: "100%",
-        wordBreak: "break-word",
         background: `linear-gradient(135deg, var(--flavour-${flavourId}) 60%, var(--form-${formId}) 75%)`,
         WebkitBackgroundClip: "text",
         WebkitTextFillColor: "transparent",
         backgroundClip: "text",
-        filter: `saturate(1.5) brightness(1.2)`,
       }}
     >
       {preparation}

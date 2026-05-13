@@ -6,12 +6,12 @@ form: roasted
 trait: mischievous
 dish: Pinto bean and chipotle chocolate bark — roasted pinto beans set into dark chocolate with chipotle and flaked sea salt.
 quote: I solemnly swear that my beans are up to no good.
-seasonalFortune: The things that want to bend hold their shape longer than they appear. Find the salt in what tastes sweet, and the balance shifts — chocolate catches the light it refused before.
-facetMid: The warmth loosens what the shell contains; edges soften where pressure was firm.
-facetHigh: Heat finds the hidden notes — chipotle's whisper becomes clear, and the whole thing opens.
-facetMost: The bark shatters exactly where it should; light spills from what was tightly pressed.
-facetLow: Salt scattered heavy makes which note rings loudest — the roast's clarity becomes absolute.
-facetLeast: The depth extends; all layers steep together, the smoke lingers where before it cleared.
+seasonalFortune: A season for the slow burn behind the sweet bite. Chocolate sets cold over a roast that hasn't quit; chipotle waits a beat before it speaks.
+facetMid: Salt scattered with a deliberate hand. You feed people the version of a story that lands hardest, then watch the chipotle arrive late.
+facetHigh: A bark broken loudly in a quiet room. Your replies arrive at 11pm with one extra word that nobody asked for; the thread tilts.
+facetMost: Chocolate poured smooth, chipotle hidden underneath. You walk into a gathering you weren't invited to, holding something nobody can refuse, and stay until the room is yours.
+facetLow: The bean roasted plain, no chocolate, no heat. You send the apology the moment you owe it, in the words you owe, and add nothing decorative.
+facetLeast: A tray cooling untouched on the counter. You leave a room exactly as you found it; the surprise others wait for never arrives, and you prefer it that way.
 ---
 
 Glazed Pinto Beans are the Bean Zodiac's most mischievous — warm enough to get away with it, aware of their own irresistibility.

@@ -6,12 +6,12 @@ form: roasted
 trait: confident
 dish: Yaki edamame - oven-roasted edamame with shichimi togarashi and sea salt.
 quote: Whether you think you bean or you think you can't, you're right.
-seasonalFortune: The char marks what was always there. Through the roast's heat, the edamame finds its own weight — salt binding to skin, kernel firm inside the pod. The season asks nothing of certainty; it asks only that the thing itself remain whole.
-facetMid: Salt accumulates where it's meant to. The roasted surface holds what the fire offered.
-facetHigh: The pod expands through its own combustion — fire recognizing fire, the shape widening into its fullest version.
-facetMost: Everything the kernel needed it already contained. The roast merely revealed what was complete before the heat.
-facetLow: The seasoning distributes unevenly across the pod — one bite carries heat, another carries nothing. The taste keeps changing.
-facetLeast: The kernel hasn't firmed yet. The salt hasn't found where it belongs.
+seasonalFortune: A season for pods that blister without splitting. Shichimi clings where the oven has scored a place for it, and the kitchens favour cooks who season once and trust the heat to do the rest.
+facetMid: Shichimi settles into the pod's blistered map. You send the message you meant to send, then close the tab — no rereading, no softening pass.
+facetHigh: Heat finds the husk and the husk holds. At the long table you name the thing nobody else will, voice unhurried, and the room reorganises itself around what you said.
+facetMost: The pod knows its own salt before the oven does. You wake when you wake, eat when hungry, and decline the diagnostic loop about whether you slept enough.
+facetLow: A pod still green in the centre, asking for another minute. You write the message, delete it, rewrite it; somewhere in the third draft a truer one appears.
+facetLeast: Edamame pulled before the char takes. You keep the receipt, the warranty, the second opinion — and the small purchase you almost regretted turns out fine because you checked.
 ---
 
 Peri-Peri Edamame are the Bean Zodiac's most confident — nothing inward works against them.

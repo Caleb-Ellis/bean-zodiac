@@ -6,12 +6,12 @@ form: fermented
 trait: critical
 dish: Cannellini with crème fraîche, capers, and lemon zest.
 quote: You call this bean broth?
-seasonalFortune: The brine reveals what sweetness once concealed. The season turns toward the taste that sharpens what comes after.
-facetMid: The capers sink to the bottom; someone must notice they are there.
-facetHigh: Lemon zest catches the light where it was overlooked — this is the work that matters.
-facetMost: The full acid of the season comes clear. Speak the astringency plainly.
-facetLow: The crème fraîche smooths all distinction into one soft thing.
-facetLeast: The surface gleams; the layers stay sealed beneath.
+seasonalFortune: A long sour cure settles in the crock. The brine grows specific where the sweet months were vague, and small faults rise legible to the surface.
+facetMost: Lemon zest pricks the tongue before the bean does. You name the off-note in the room while others are still chewing politely.
+facetHigh: Capers gathered at the bottom of the jar. You reread the message you already sent and find the comma you would move.
+facetMid: Crème fraîche thinned with a squeeze. You return the borrowed book with the page corners straightened and a receipt folded inside.
+facetLow: A spoon stirs the bowl until the zest disappears. You meet the new acquaintance and decide, easily, to like them.
+facetLeast: The jar sits sealed on the shelf, brine quiet. You wake into the grey morning and find nothing in it that needs adjusting.
 ---
 
 Pickled Cannellini Beans are the Bean Zodiac's most critical — they know exactly how everything could be better.

@@ -6,12 +6,12 @@ form: fermented
 trait: collaborative
 dish: Fatteh - chickpeas with labneh and bitter pomegranate.
 quote: None of us is as bean as all of us.
-seasonalFortune: Fermentation asks the beans to sit separate in their brine, yet emerge changed by what surrounded them. Some dissolving happens only in the dark. The labneh forms where milk learns to cling to itself.
-facetMid: The brine holds different flavours and keeps them distinct. What passes between them is not blend but exchange.
-facetHigh: A second hand knows what the first hand cannot see. The pomegranate's bitterness sharpens what the chickpea alone would soften.
-facetMost: Two vessels pouring into one. What neither held before fills the space between.
-facetLow: The labneh sets best undisturbed. Some flavours find their edge in the quiet of their own brine.
-facetLeast: The Fatteh is assembled piece by piece — each element separate, complete in itself, asking nothing of the others.
+seasonalFortune: A season for slow exchange across the brine. Labneh thickens against the cloth; pomegranate seeds wait for a bowl to fall into. Each ingredient sharpens beside what it is not.
+facetMost: Pomegranate cracked open over another cook's pan. You bring your draft to someone else's table and let their salt finish it, the page edited by a hand not yours.
+facetHigh: The thread runs longer than the hour. You answer at midnight, fold their question into yours, and send back a version neither of you would have written alone.
+facetMid: A pot you set down on a counter that is not yours. You cook in someone else's kitchen and ask where the colander lives before you reach for it.
+facetLow: Labneh straining overnight, no one watching the cloth. You take the long job into a room with the door shut, and the answer arrives only after the second silent hour.
+facetLeast: Seeds in their own bowl, cloth on its own hook. You arrange the room so each thing has a corner, and you do not ask the lamp what the chair thinks.
 ---
 
 Cultured Chickpeas are the Bean Zodiac's most collaborative — they understand what is made together can be better than what either could alone.

@@ -6,12 +6,12 @@ form: smoked
 trait: solemn
 dish: Feijoada - Brazilian black bean stew with smoked chouriço, carne seca, and bay leaf.
 quote: Ask not what your bean can do for you — ask what you can do for your bean.
-seasonalFortune: The stock simmers long enough to become essential — depth earned through patience, not rushed. What emerges carries smoke in its bones. The season asks for presence, not haste.
-facetMid: The dark beans settle to the bottom; the broth holds their gravity without questioning it.
-facetHigh: Chouriço splits and releases its oils — what was hidden becomes undeniable.
-facetMost: Every ingredient bends toward the weight at the center; the pot becomes ceremonial.
-facetLow: The broth moves quickly, carrying flavors light as steam — quick clarity instead of depth.
-facetLeast: The surface glimmers; what lies beneath stays untasted, and the meal is no less enjoyed.
+seasonalFortune: A season for long pots and longer quiet. Stock darkens by the hour; the smoke settles into wood and cloth. Days the Hickory Black inhabits are measured in deepening, not in motion.
+facetMid: Bay leaf surfaces, sinks, surfaces again. You answer a friend's message only when you have something the weight of an answer to send.
+facetHigh: Carne seca, cured against forgetting. You keep what others throw out — a thank-you card, a ticket stub, the email you cannot yet reply to.
+facetMost: The pot is loud only at the start; afterwards it murmurs for hours. You enter rooms without announcing yourself and people notice anyway.
+facetLow: Chouriço crackles loud in a hot pan. You decide on the doorstep, pay the bill the day it arrives, and sleep through what you cannot fix.
+facetLeast: Smoke lifts off the lid and disperses. You leave parties early and laughing, owe no one a long letter, and your kitchen drawer holds three things.
 ---
 
 Hickory Black Beans are the Bean Zodiac's most solemn — the depth has accumulated to the point where anything lighter than gravity feels wrong.

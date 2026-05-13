@@ -6,12 +6,12 @@ form: dried
 trait: restorative
 dish: Moong dal - dried mung beans slow-simmered with turmeric, ginger, and a tadka of cumin.
 quote: Let food be thy bean and bean be thy medicine.
-seasonalFortune: The broth thickens with what has simmered longest. A season arrives where the deepest flavors — the ones that took hours to unfold — are what the palate needs.
-facetMid: Turmeric stirred in at dawn; by noon the pot is filled gold.
-facetHigh: Hold the ginger over low heat — an hour in, it's medicinal.
-facetMost: Beans soaked since yesterday, simmered since morning, ladled now into the bowl of someone who has not eaten well in weeks.
-facetLow: Cumin straight into hot ghee, poured over rice, eaten standing up — the day asks for that and nothing slower.
-facetLeast: Split the mung, skip the soak, set the kettle whistling; whoever comes through the door is fed before their coat is off.
+seasonalFortune: A long season for what slow heat unlocks. The household leans toward what has steeped — turmeric in the pot since dawn, ginger gone soft and medicinal by dusk.
+facetMid: Turmeric goes in early. You text the friend who went quiet last month; you do not wait for the answer before you go again.
+facetHigh: Ginger held under low heat all afternoon. The spare blanket is washed, folded, set on the chair before anyone admits they are cold.
+facetMost: Beans soaked since yesterday, simmered since morning, ladled into the bowl of someone who has not eaten well in weeks — and you sit with them while they finish.
+facetLow: Cumin straight into hot ghee. You answer the question asked, not the one underneath it, and move on; the day does not need to be steeped.
+facetLeast: Split the mung, skip the soak. The reply is one line, sent now; the unread thread from October stays unread, and the room is no worse for it.
 ---
 
 Aged Mung Beans are the Bean Zodiac's most restorative — the care is deep and patient and works slowly, and it has never failed to work.

@@ -6,12 +6,12 @@ form: smoked
 trait: hazy
 dish: Gigantes plaki - butter beans baked with sweet tomato, smoked paprika, and honey.
 quote: Que bean sera, sera. Whatever will bean, will bean.
-seasonalFortune: Smoke curls up through the weeks. Some say it holds clarity inside — you will know only when it dissipates, when the paprika dust settles across the plate. The season ahead asks nothing of the edges; the warmth arrives soft enough to fill the spaces in between.
-facetMid: The oil pools and doesn't separate. Boundaries blur into amber. This softness carries intention without announcing it.
-facetHigh: Honey and tomato meld so completely the dish forgets which was which. The merger is the whole point.
-facetMost: Smoke accumulates — layer upon layer — until the thing in the pan becomes something new. The transformation asks for patience, not clarity.
-facetLow: Edges come into focus. The paprika flecks distinct, countable. Each element declares itself separately.
-facetLeast: The plate divides itself into corners. Sweetness stays in one place, smoke in another. Lines, unmissable.
+seasonalFortune: The weeks come on slow as smoke through a low oven. Tomato deepens into honey, honey into paprika, and nothing in the season insists on a single name for itself.
+facetMid: Paprika dust drifting where it lands. You leave the books in soft piles, the laundry half-folded, the rooms arranged by approximate gravity rather than by rule.
+facetHigh: Honey loosening into the pan's warm corners. Plans you made on Tuesday rearrange themselves by Thursday, and you follow the new shape without naming when it changed.
+facetMost: A pan left in the oven past the timer, deepening. Asked what you mean, you answer in adjacent sentences, circling the thing rather than pinning it, content for the listener to wander in.
+facetLow: The paprika flecks countable on the bean's skin. You answer the message in the order it asked, line by line, and close the tab when you are done.
+facetLeast: Honey on one side of the plate, smoke on the other. Wallet in the left pocket, keys in the right, every receipt filed the evening it arrives.
 ---
 
 Barbecued Butter Beans are the Bean Zodiac's most hazy — the warmth is real, but the edges have softened past the point of definition.

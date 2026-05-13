@@ -6,12 +6,12 @@ form: fermented
 trait: contemplative
 dish: Black bean and white miso caramel tart — sweet miso folded into caramel over a black bean base, baked until just set.
 quote: I think, therefore I am a bean.
-seasonalFortune: Fermentation deepens what was already there — sweetness rising through the dark, layer folding into layer, the caramel beginning to ask what it has become.
-facetMid: The miso carries its own logic downward, salt meeting sweetness in the slow dark, working toward a shape it does not yet name.
-facetHigh: What ferments in the unmarked hours gathers weight without haste — the black bean releasing what only time can extract.
-facetMost: Sit with the tart before cutting it, let the caramel set, become what it will be in stillness.
-facetLow: The flavours arrive already clear — surface sweetness, no waiting required, no layering needed.
-facetLeast: What emerges comes quick, the recipe already known, its pleasures simple and immediate.
+seasonalFortune: A season folded inward, the way miso darkens under its own weight. Sweetness gathers in the unwatched crock; the year keeps its own counsel.
+facetMid: Caramel cooling in its tin, taking its time. You reread the message before sending. The question sits an hour past its asking, and you let it.
+facetHigh: Salt feeling its way through the slow dark. At the table, you wait two beats after someone stops talking — not for politeness, to be sure they are finished.
+facetMost: A tart left overnight to know itself. You keep a notebook nobody reads. Decisions arrive there months before they reach a mouth.
+facetLow: Miso whisked in at the last minute, bright and sure. You answer the door mid-thought and follow the visitor wherever they lead.
+facetLeast: Sugar hitting the pan and going. You buy the ticket on the platform. The shoes come home in the bag you went out without.
 ---
 
 Funky Black Beans are the Bean Zodiac's most contemplative — occupied with an interior that has been working for a long time.

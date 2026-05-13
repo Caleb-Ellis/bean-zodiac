@@ -6,12 +6,12 @@ form: smoked
 trait: biting
 dish: Bessara - Moroccan smoked fava bean purée with harissa, cumin, and preserved lemon
 quote: If you can't stand the bean, get out of the kitchen.
-seasonalFortune: The smoke carries memory through stone and mortar. Preserved lemon darkens in its brine. The cumin, cracked and fragrant, speaks plainly — clarity belongs to those willing to taste its edge.
-facetMid: Harissa settles into corners, blooming sharp where it lands.
-facetHigh: The purée yields nothing; each note — preserved lemon, cumin ash, the smoked flesh itself — holds its shape, unmistakable.
-facetMost: Bessara holds ash and intention. The brine no longer conceals. The remark remains in the room after breath leaves it.
-facetLow: The flavours blur together, each one mild in the company of the others.
-facetLeast: Surfaces soften. The edges round away.
+seasonalFortune: Smoke clings to the mortar long after the pestle stills. Preserved lemon darkens; cumin cracks; harissa waits in the corner of the bowl for whoever stirs first.
+facetMost: Harissa pooled at the rim, untouched. You are the one who names the thing the table has been circling — and lets the name sit where it landed.
+facetHigh: Cumin cracking under the pestle. Your replies to messages arrive clean and short; the friend who wanted softening has to find it elsewhere.
+facetMid: Preserved lemon brightening a quiet bowl. In meetings you ask the question others rehearsed and abandoned, then return to your notes without flourish.
+facetLow: Smoke loosens into the wider room. You leave the hard sentence unsent overnight, and by morning a gentler one has grown in its place.
+facetLeast: Bessara smoothed under the back of a spoon. You round the corner off every observation before it leaves you; friends bring you their bruises because you do not press them.
 ---
 
 Cured Fava Beans are the Bean Zodiac's most biting — their courage has a way of surfacing truths that others had quietly agreed to leave alone.

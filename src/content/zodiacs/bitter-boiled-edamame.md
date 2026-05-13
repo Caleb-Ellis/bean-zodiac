@@ -6,12 +6,12 @@ form: boiled
 trait: analytical
 dish: Edamame and wakame soup with citrus peel.
 quote: If you can't bean it, you can't manage it.
-seasonalFortune: The season invites a long study of how things hold themselves together. Some structures dissolve under examination; others strengthen. The difference lies in what was bearing weight and what merely appeared to.
-facetMid: The broth thickens with layers — citrus cuts through, wakame bends but doesn't snap. There is something worth seeing if the pod is opened carefully enough.
-facetHigh: Beneath the skin lies a geometry that has been waiting. The pattern doesn't emerge; it was always there, simply unread.
-facetMost: Disassemble without mercy. The skeleton reveals what the whole concealed.
-facetLow: The soup is served before the citrus has been squeezed — quick hands, warm bowl, and the wakame decides the rest.
-facetLeast: The pod opens at a glance. The broth is already on the table, and the geometry can wait for another meal.
+seasonalFortune: A season for slow broths and slower verdicts. The fuzzed pod gives up its bead only to a steady thumb; what holds and what merely sits is told by pressure, not by looking.
+facetMost: Wakame laid flat on the board, every frond accounted for. You empty the drawer onto the counter before you'll admit a thing is missing, and rebuild it pile by pile.
+facetHigh: A pod split lengthwise, both halves studied. Forty-one unread messages and you are reading the third one for the fourth time, deciding what it actually asked.
+facetMid: Citrus peel curled beside the bowl, no part wasted. You read the receipt line by line at the door, and the clerk waits while you find the charge that wasn't agreed.
+facetLow: Bitterness blooms in the broth without coaxing — wakame thrown in, lid on, dinner. You cook by glance and feel, and the people you feed do not notice a missing step.
+facetLeast: A pod popped straight into the mouth, no ceremony. You take strangers at their word at the first telling, and the table moves on while someone else is still weighing it.
 ---
 
 Infused Edamame are the Bean Zodiac's most analytical — they take things apart to understand their structure.

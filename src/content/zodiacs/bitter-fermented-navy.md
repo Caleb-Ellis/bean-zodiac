@@ -6,12 +6,12 @@ form: fermented
 trait: bookish
 dish: Senate Bean Soup - with aged ham and bitter dandelion greens.
 quote: Outside of a bean, a book is a man's best friend. Inside of a bean, it is too dark to read.
-seasonalFortune: Broth grows rich from long fermentation; a shelf of references will be tasted by another's tongue before the season closes.
-facetMid: The argument has weight in print somewhere — the bean knows this without having to say it.
-facetHigh: Pages turn inward; the margin notes thicken where the real thinking happens.
-facetMost: Deep into the dark brine of sources — each layer fermented with the last, each footnote a path deeper.
-facetLow: The broth season invites a walk rather than another chapter — the body knows things the page does not.
-facetLeast: Senate Bean Soup rewards a steady hand at the pot, the kind of knowledge that skips the index entirely.
+seasonalFortune: A long-cured broth deepens in the dark of the pantry; private reading thickens into something a stranger's spoon will eventually want to taste.
+facetMid: Dandelion greens steep sharper the longer they sit. In conversation you wait, then place the sourced sentence that ends the disagreement.
+facetHigh: The ham hock gives up its salt slowly, page by page. Forty tabs stay open across three devices; nothing closes until the through-line surfaces.
+facetMost: A shelf of jars, each label a citation in your own hand. You annotate the margins of borrowed books and shelve them by argument, not author.
+facetLow: Broth asks for stillness; you ask for a walk. The shin remembers the slope before any chapter could describe it.
+facetLeast: Senate Bean Soup learned by wrist, not recipe — you fix the leaking tap, rewire the lamp, and trust the hand that already knows.
 ---
 
 Cultured Navy Beans are the Bean Zodiac's most bookish — they build understanding from reading and carry it privately.

@@ -6,12 +6,12 @@ form: fried
 trait: arrogant
 dish: Crispy navy beans with dashi glaze, bonito flakes, and nori.
 quote: The only true wisdom is knowing you know nothing about beans.
-seasonalFortune: The crispness holds until the steam breaks through — knowing where the shell gives is knowing when to stop.
-facetMid: The glaze catches light the way it's meant to; confidence earned through heat and time tastes right.
-facetHigh: The bonito flakes drift over the top, their smoke saying what words cannot — the judgment stands because it comes from depth.
-facetMost: Lean into the dashi; the intensity is not overreach but foundation — back this entirely, it has earned itself.
-facetLow: The nori folds differently depending on the moisture in the air — what seemed set reveals other angles worth considering.
-facetLeast: The beans soften where they were thought solid; the hand that seasons discovers it was not the only one that could.
+seasonalFortune: A season that crackles at the edges. The shell does the talking; the dashi underneath is taken on faith, and mostly the faith is warranted.
+facetMost: Bonito curling in the heat above the bowl. You answer the email before the meeting, sign it, and do not soften the verb.
+facetHigh: Smoke off the pan, nori darkening. At the table you correct the host on the wine and the room settles around your call.
+facetMid: Glaze setting glossy on a bean. You give directions without hedging — left, then the second light — and walk on before they thank you.
+facetLow: Nori limp from the kettle's steam. You re-read the message twice, delete the certain word, and ask instead what they thought.
+facetLeast: A bean gone soft in the middle of the platter. You hand the recipe over, take notes on their changes, and pin the new version above the stove.
 ---
 
 Tempura Navy Beans are the Bean Zodiac's most arrogant — they've developed real competence and stopped seeing its limits.

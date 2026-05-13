@@ -6,12 +6,12 @@ form: smoked
 trait: eerie
 dish: Smoked green bean with bitter elderflower and char.
 quote: Something is rotten in the bean of Denmark.
-seasonalFortune: Elderflower opens in the cold. The char carries a message with no return address — and the season is long enough to sit with it.
-facetMid: Smoke arrives before the source does. The green holds its shape anyway.
-facetHigh: The bitter note lands first — before the dish is placed, before the door is opened. Follow it.
-facetMost: Char speaks in a register beneath language. The bone knows before the mind does — move now.
-facetLow: The dish arrives well-lit and fully accounted for. Bitter, smoke, green — each element where it belongs.
-facetLeast: Elderflower settles into familiar sweetness. The char reads as seasoning. The source is the stove.
+seasonalFortune: A season threaded with elderflower and ash. The smoked green bean keeps its snap in rooms where the source of the smell cannot be named.
+facetMid: Char ringing a bean with no fire in sight. You wake at three and rearrange the furniture without turning on the lamp.
+facetHigh: Bitter elderflower steeping in a pot you didn't set down. A friend's voice goes thin over the phone; you call back before they ask.
+facetMost: Smoke under a closed door, sweet and wrong. You pay debts no one has named yet — the small ones, ahead of the asking.
+facetLow: Green beans bright on a white plate, every char mark accounted for. Your inbox closes at the bottom; the read receipts line up.
+facetLeast: Elderflower as garnish, smoke as seasoning, nothing more. You sleep through storms and wake hungry, certain the kettle is only a kettle.
 ---
 
 Charcoal Green Beans are the Bean Zodiac's most eerie — their energy insists on itself from a source the room cannot identify.

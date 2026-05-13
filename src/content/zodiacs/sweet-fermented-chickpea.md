@@ -6,12 +6,12 @@ form: fermented
 trait: empathetic
 dish: Fermented chickpea flour cake — gram flour batter left to ferment overnight, baked with raw honey and orange zest into a dense, fragrant loaf.
 quote: Could a greater bean miracle take place than for us to look through each other's eyes for an instant?
-seasonalFortune: A life lived close to other people's weather. The batter takes a week's mood into itself overnight; the loaf comes out tasting of the room it rose in.
-facetMost: Sat down at a strange table, you know within a minute whose shoulders are up. The honey finds the crack before anyone has named it.
-facetHigh: A stranger on the bus exhales hard and your own chest follows. You carry their afternoon three stops past your own.
-facetMid: You answer the message that came in at midnight before the one marked urgent. Zest in the batter; the quiet ask first.
-facetLow: Plans keep their own time. You leave when you said you would, mid-sentence or not, and the loaf comes out when it comes out.
-facetLeast: A tenner is a tenner. The loaf goes to whoever asked first, not whoever needed it most, and you sleep fine.
+seasonalFortune: The batter takes a week's mood into itself overnight. A life shaped by the rooms it rises in, sweet where someone leaned close, dense where the air went thin.
+facetMost: Honey finds the hairline crack before the cake is cut. At a strange table you clock whose shoulders are up inside a minute, and tilt your chair toward them.
+facetHigh: Orange zest catches in the throat of the room. A stranger on the bus sighs hard and you carry her afternoon three stops past your own stop.
+facetMid: The batter listens through the night to a kitchen it cannot see. At midnight the quiet message gets answered first; the one marked urgent waits till morning.
+facetLow: A loaf comes out when the oven says, not when the table asks. You leave at the hour you named, mid-sentence if need be, and the evening keeps its shape.
+facetLeast: Honey is weighed, not poured by feel. The last slice goes to whoever asked first; you can hear the other person's sigh and still pass the plate on.
 ---
 
 Funky Chickpeas are the Bean Zodiac's most empathetic — they feel what someone is carrying before that person has named it.

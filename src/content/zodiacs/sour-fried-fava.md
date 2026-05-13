@@ -6,12 +6,12 @@ form: fried
 trait: reckless
 dish: Ta'amiya with pomegranate molasses - Egyptian fava bean falafel with a sweet-sour pomegranate dressing.
 quote: Who beans nothing, loses nothing — but wins nothing either.
-seasonalFortune: The pomegranate molasses runs faster than the oil — the first splash makes its own shape before it touches anything at all.
-facetMid: The heat rises; the move is already sizzling.
-facetHigh: The oil speaks; plunge without reading the thermometer.
-facetMost: Leap before the pomegranate even splits.
-facetLow: The measure is drawn, the moment holds still and waits.
-facetLeast: The oil cools; the fava settles in the pan before the heat begins.
+seasonalFortune: Pomegranate molasses outruns the spoon; oil takes the bean before the bean is ready. A season of splashes, scorch marks, and bright accidents.
+facetMid: Oil beads on a counter no one wiped. You rearrange the heavy furniture at midnight and decide later whether you like it.
+facetHigh: Pomegranate stains the receipt. You sign before the total resolves, trusting the smear to mean yes.
+facetMost: Thumb above a sticky screen — send first, read after. The splash hits the wall before the thought finishes forming.
+facetLow: Molasses thickening on the sill. You let the invitation sit overnight; by morning its shape has clarified.
+facetLeast: The pan idles, sour-sweet but cool. New faces you greet at the threshold, not the curb — the doorway does the sorting.
 ---
 
 Agrodolce Fava Beans are the Bean Zodiac's most reckless — they go before conditions are clear.

@@ -6,12 +6,12 @@ form: boiled
 trait: judicious
 dish: Adzuki bean soup with chrysanthemum greens and yuzu.
 quote: To bean, or not to bean, that is the question.
-seasonalFortune: A life lived at low simmer. The pot stays on the back burner; the skin yields when it is ready, and rooms around it learn to wait without resenting the wait.
-facetMost: The apology owed since Tuesday sits on your tongue another day. You will deliver it whole, or not at all — half-cured serves no one.
-facetHigh: A friend asks what you thought of the thing. You answer next week, after the bitterness has cooked off and the verdict tastes like broth, not rind.
-facetMid: You leave the message unread until evening. Mornings rush the answer; by dusk the right shape of it has surfaced.
-facetLow: You buy the chair the afternoon you see it. The yuzu in the bowl was picked green; you trust what your hand already knew.
-facetLeast: First draft goes out before the broth clears. Tart, half-steeped, committed — the next one will be the edit.
+seasonalFortune: A life lived at low simmer. The pot keeps the back burner; skins yield only when ready, and the rooms around it learn to wait without resenting the wait.
+facetMost: Yuzu peel steeps until the bitterness rounds. The apology owed since Tuesday waits on your tongue another day — you will deliver it whole or not at all.
+facetHigh: Bitter greens take their time wilting. Asked what you thought, you answer next week, when the rind has cooked down to broth.
+facetMid: Adzuki skins split in their own hour. The unread message keeps until evening; by dusk the right shape of it has surfaced.
+facetLow: A green yuzu, picked early, still perfumes the bowl. You buy the chair the afternoon you see it; the hand already knew.
+facetLeast: The pot lid lifts before the broth clears. First draft sent — tart, half-steeped, committed. The next one will be the edit.
 ---
 
 Infused Adzuki Beans are the Bean Zodiac's most judicious — they carry the Adzuki Bean's deep instinct for celebration, but they do not spend it until the conditions have been met.

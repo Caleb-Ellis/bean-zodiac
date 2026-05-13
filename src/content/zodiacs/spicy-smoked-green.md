@@ -6,12 +6,12 @@ form: smoked
 trait: untethered
 dish: Judías verdes con jamón ahumado - Andalusian green beans with smoked ham and pimentón.
 quote: A great bean follows a little spark.
-seasonalFortune: Smoke drifts where the wind leans — the beans follow, seeking the hand that will catch them.
-facetMid: The pod bursts before the plate is ready; the heat knows where to go.
-facetHigh: Steam rises in one direction; the ambers glow where they're needed.
-facetMost: The smoke and the hand arrive at the same moment; the jar receives what was meant for it.
-facetLow: The beans rest in their bed, patient as cured ham — they wait for purpose to announce itself.
-facetLeast: The heat settles into the beans; the smoke becomes the flavor, nothing separate, nothing racing.
+seasonalFortune: Pimentón scents a kitchen long after the pan is cold; the heat outlives whatever called for it.
+facetMost: Smoke takes the shape of the room. You keep no fixed chair, drifting between windows, settling wherever the light is currently warm.
+facetHigh: A pod splits before the ham hits the pan. You answer the message you haven't fully read yet, already three sentences in.
+facetMid: Char marks where attention landed. Your open tabs are a map of yesterday's small fevers, none of them closed, none quite finished.
+facetLow: Ham cures on its own clock. You let the beans sit in the colander an extra hour, waiting until the meal asks to be cooked.
+facetLeast: Smoke prefers a still room. You sleep through the alarm that was set for nothing in particular and wake at your usual hour.
 ---
 
 Chipotle Green Beans are the Bean Zodiac's most untethered — the urgency is already in motion before anyone has established what it's for.

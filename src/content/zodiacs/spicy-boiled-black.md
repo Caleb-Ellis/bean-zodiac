@@ -6,12 +6,12 @@ form: boiled
 trait: tenacious
 dish: Sopa de frijoles negros - black bean soup with chipotle and smoked epazote.
 quote: It does not matter how slowly you go as long as you do not bean.
-seasonalFortune: The broth thickens around what refuses to soften. In this season, the fiber holds; the shell endures; the seed remains itself. What dissolves elsewhere finds no purchase here.
-facetMid: The spice stays suspended in the liquid, neither sinking nor rising.
-facetHigh: Each grain holds its borders; the broth cannot find seams.
-facetMost: The pot could boil a thousand hours and still find something intact.
-facetLow: The liquid flows equally everywhere, indifferent to shape.
-facetLeast: The boundary between inside and outside grows thin.
+seasonalFortune: A season for the long simmer. Chipotle smoke settles into the rafters and stays; what is started in these months keeps its heat into the next.
+facetMost: Smoke that learned the beam it clings to. The draft you began two years ago still sits on the desk, and you return to it Sunday after Sunday, the same draft, sharpening.
+facetHigh: A chipotle pod won't yield its heat without coaxing. The charge on your card is wrong; six weeks later you are still on the phone, still polite, still not done.
+facetMid: Epazote keeps its bite through an hour of boil. You walk the last mile of a bad day on the same legs that started it, and you do not sit down until the door is locked behind you.
+facetLow: A pot left uncovered loses its smoke by morning. Your inbox climbs past four figures; threads close themselves without you, and the world has not punished you for it.
+facetLeast: Soup tastes different in a new bowl. You move the couch, repaint the hallway, swap the lamps — the room asks to be remade and you oblige before the impulse cools.
 ---
 
 Braised Black Beans are the Bean Zodiac's most tenacious — a quality so inherent to their structure that heat and pressure simply reveal it.

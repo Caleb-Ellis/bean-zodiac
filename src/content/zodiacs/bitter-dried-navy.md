@@ -6,12 +6,12 @@ form: dried
 trait: rigid
 dish: Boston Baked Beans - with blackstrap molasses.
 quote: Rules are for the guidance of wise beans and the obedience of fools.
-seasonalFortune: The mold hardens around the beans as they dry. When winter comes, what was formed in autumn asks - does the vessel still cradle what it was meant to hold, or only the shape of what was?
-facetMid: The blackstrap thickens where it settles. Layers build from what does not move.
-facetHigh: The beans hold their dark color through the longest soak — the bitterness leaches nothing.
-facetMost: The oven's heat cannot compromise the line between the bean and everything else. Boundaries remain.
-facetLow: The molasses runs differently this year. The recipe loosens where it once held firm.
-facetLeast: The water takes the shape of whatever holds it. The beans drift easy in the broth.
+seasonalFortune: Molasses keeps through long cellars; the dried bean asks nothing of the season except the same low oven, the same hours, the same iron pot waiting on the same shelf.
+facetMost: Slow as blackstrap leaving the spoon. You will not be hurried — the hours the method demands are the hours you give, and a hand on your elbow only sets the clock back.
+facetHigh: Bitterness that outlasts the soak. Debts get paid by the day you said you would pay them, in full, even when the other person has plainly forgotten and would forgive the slip.
+facetMid: Cast iron sits where cast iron sits. Each thing in your rooms has its shelf, and the shelf does not negotiate; a guest who moves a mug will find it returned before they leave.
+facetLow: Molasses thinned with whatever's open. Messages drift across days and tabs in your hand, half-answered, reordered when someone newer speaks — and nothing in you minds the slack.
+facetLeast: A pot that takes the shape of any fire. You bend toward the room you're in, swap your stance for the company, and the version of you that walks out is not the one that walked in.
 ---
 
 Desiccated Navy Beans are the Bean Zodiac's most rigid — the principle is correct, the method is proven, and there is no argument that will move them.

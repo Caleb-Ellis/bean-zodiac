@@ -6,12 +6,12 @@ form: dried
 trait: distinguished
 dish: Ribollita - dried cannellini and bread soup with Parmesan rind and lacinato kale.
 quote: A bean is known by the company it keeps.
-seasonalFortune: Slow reduction concentrates the essence. What settles at the bottom asks for recognition — whether by deepening roots or by finally dissolving.
-facetMid: The grain holds its own weight in the broth.
-facetHigh: Parmesan rind melts into the whole; distinction becomes the medium, not the message.
-facetMost: The kale knows which depths to seek. What rises to the surface has already claimed its place.
-facetLow: The beans scatter through bread — presence without arrangement.
-facetLeast: Everything flavors everything else equally. The boundaries blur into flavor.
+seasonalFortune: A pot left overnight thickens past stew into something with a name. The season rewards what has been kept long enough to be asked for by it.
+facetMost: A Parmesan rind, saved for years, surfaces in your own work. You sign nothing, and the room knows the hand anyway.
+facetHigh: Bread torn slowly into broth. You walk into a borrowed room and, without rearranging, leave it composed.
+facetMid: At the long table you speak less than the others and are quoted more; the kale steeped longest carries the bowl.
+facetLow: Inbox like scattered crusts — you answer the message in front of you, ignore the thread, and the day still closes clean.
+facetLeast: You spend on the bright thing in the window. No cellar, no rind kept for weather; the wallet stays as light as new bread.
 ---
 
 Aged Cannellini Beans are the Bean Zodiac's most distinguished — depth and refinement in combination, accumulated quietly over time.

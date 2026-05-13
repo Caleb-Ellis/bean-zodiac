@@ -6,12 +6,12 @@ form: smoked
 trait: wordless
 dish: Garbanzos con bacalao y pimentón ahumado - chickpeas with salt cod and smoked paprika.
 quote: Actions speak louder than bean.
-seasonalFortune: Smoke carries what salt cod cannot speak. This season, the meal arrives without names — the paprika dissolves, the fire becomes a texture, and those who gather know what was meant.
-facetMid: The chickpea holds its own humidity. Flavor settles in the hollows where words would scatter.
-facetHigh: Salt rises without sound. The knowing moves through the room in smoke — recognized, absorbed, complete.
-facetMost: The fire spoke once. Everything after is translation in the mouth — taste becomes the only grammar that matters.
-facetLow: Clarity arrives too bright. Voices overlap; the salt disperses; the flavors separate into individual shouts.
-facetLeast: The spice breaks into explanation. Each element announces itself separately, leaving nothing to be understood beyond the words.
+seasonalFortune: A season cured low and slow. Salt cod gives up its brine to the chickpea; paprika settles into corners; what passes between people this quarter travels by smoke, not by sentence.
+facetMost: Smoke finds the room before the cook does. You enter a gathering, pour a glass, and the friend in the corner already knows why you came.
+facetHigh: Paprika hangs in the doorway after the pan is washed. You notice the weather shifting an hour before anyone mentions the sky.
+facetMid: Salt cod soaking in a covered bowl on the counter. Asked how you are, you set down a plate instead of answering.
+facetLow: Bright voices, bright captions. You narrate the chickpeas as they hit the oil, and the thread is better for the running commentary.
+facetLeast: Paprika measured by the quarter teaspoon, said aloud. You'd rather settle a debt with a clear receipt than with a glance across the table.
 ---
 
 Hickory Chickpeas are the Bean Zodiac's most wordless — the depth of their understanding has exceeded the vocabulary available to it.

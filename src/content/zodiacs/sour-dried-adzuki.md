@@ -6,12 +6,12 @@ form: dried
 trait: tart
 dish: Sekihan - adzuki and sticky rice with dried pickled ume and sesame.
 quote: A bean a day keeps the doctor away.
-seasonalFortune: What was whole becomes dust; dust becomes intent. The shriveling concentrates the tart — time and acid are the same preserving force.
-facetMid: The vinegar does its work quietly. Sharpness clarifies what sweetness only obscures.
-facetHigh: The grain beside the bean turns lucid in the sour's presence. Edges declare themselves where softness once diffused.
-facetMost: Let the tart speak its full declaration. The acid makes everything touched by it sharp enough to read.
-facetLow: The flavour diffuses into the steam — boundaries soften. All tastes flatten into a single warmth.
-facetLeast: The sour has surrendered to the rice. What was distinct now blends; the shape dissolves.
+seasonalFortune: The ume sits years in its own brine before it earns the rice. A life that cures rather than cooks; nothing kept that hasn't first been sharpened.
+facetMid: Brine seeps slowly into the grain. You leave a message unsent for an hour, then trim a sentence that was flattering itself before you press send.
+facetHigh: A sesame seed splits cleanly or not at all. When the receipt comes you check it; the apology you owe is the exact amount, never rounded up to look generous.
+facetMost: One ume in the jar flavours the whole crock. You enter a room and the small false thing everyone agreed to ignore goes pink at the edges.
+facetLow: Sticky rice forgives what falls into it. The guest at your table tells a softened version of the story; you pass the sesame and let them keep it.
+facetLeast: Steam carries no edges, only the smell of something warm. You walk into a grey afternoon and find it kindly; weather, like company, does not need to be corrected.
 ---
 
 Dehydrated Adzuki Beans are the Bean Zodiac's most tart — the joy is real, but it comes with an edge that lets you know it was earned.

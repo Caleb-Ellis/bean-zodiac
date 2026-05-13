@@ -6,12 +6,12 @@ form: smoked
 trait: disarming
 dish: Smoked edamame gyoza with sweet hoisin and black vinegar dipping sauce.
 quote: You bean me at hello.
-seasonalFortune: The smoke carries intention forward. What reaches across the room finds a place already prepared, the shells soften from within, and what was guarded discovers its entrance was always open. The real test waits after the opening — whether the path beyond is one worth taking.
-facetMid: The hoisin glaze catches light before caution finishes forming.
-facetHigh: Smoke bends around the barrier, finds the seam, passes through. The pod splits willingly.
-facetMost: The sweetness disarms itself — no armor left, only the pure bean, the honest center revealed.
-facetLow: The surface holds its char. Walls stand. Distance is kept.
-facetLeast: The sauce thickens. Everything moves slowly. The seed stays wrapped.
+seasonalFortune: Smoke moves through the season without asking. Rooms warm a beat before anyone decides to soften; the pleated edge gives, the sweetness arrives ahead of the question.
+facetMid: Hoisin catches the lamp. You walk into the unfamiliar room and have a name from the host inside a minute, coat already taken.
+facetHigh: A pod opens before the fingers close. Strangers tell you things on the train; the seat beside you fills first, the silence around you breaks easiest.
+facetMost: Smoke threading through a tied pouch. You apologise before the other person finishes the sentence, and the bill arrives already settled, the argument folded back into dumpling pleats.
+facetLow: Black vinegar holding its sharpness in the dish. You let a message sit two days; the warmth is real, but it travels at its own pace and not the room's.
+facetLeast: The pod kept closed against the heat. You decline the second invitation without a softening line, and your evenings stay your own — small, dark, salted.
 ---
 
 Barbecued Edamame are the Bean Zodiac's most disarming — they move quickly and the warmth arrives before the defences can consider whether to deploy.

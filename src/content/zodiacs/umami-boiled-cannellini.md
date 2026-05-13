@@ -6,12 +6,12 @@ form: boiled
 trait: conscientious
 dish: Pasta e fagioli - cannellini with anchovy paste and Parmesan rind.
 quote: In matters of bean, swim with the current; in matters of principle, stand like a cannellini.
-seasonalFortune: The broth thickens where attentiveness meets time. What is tended with intention accumulates depth that cannot be rushed or borrowed — each layer of care becomes substance.
-facetMid: The stock holds the flavor of each element added with thought.
-facetHigh: Every grain counted, every fold deliberate — the dish speaks in the language of its making.
-facetMost: The seasoning finds its purpose through patient adjustment; the result endures because it was built to last.
-facetLow: The beans soften without tasting what the water holds.
-facetLeast: Speed carries its own flavor, swift and thin.
+seasonalFortune: A season of slow stocks and labelled jars. The pot holds its low simmer; the rind gives up its salt by degrees, and nothing useful is hurried out of the broth.
+facetMost: Anchovy dissolving into oil, invisible and load-bearing. You keep the spreadsheet no one asked for, and three people quietly depend on it.
+facetHigh: Parmesan rind kept in the freezer against a future pot. You answer emails in the order they arrived, never the order they shouted.
+facetMid: Beans rinsed, sorted, the split ones set aside. Before leaving a room, you put back the two things that weren't yours.
+facetLow: A pot left to find its own seasoning. You pay the bill the day the reminder arrives, and the lights still come on.
+facetLeast: Salt by the handful, broth by the eye. Receipts go in the drawer; the drawer goes unopened; the month closes anyway.
 ---
 
 Dashi Cannellini Beans are the Bean Zodiac's most conscientious — they do things properly because proper is the point.

@@ -6,12 +6,12 @@ form: fried
 trait: impractical
 dish: Onde-onde — Indonesian fried rice flour balls filled with sweet mung bean paste, rolled in fresh grated coconut.
 quote: Heart in the right place, bean in the wrong pot!
-seasonalFortune: The sweetness arrives before the heat does — the filling knows its shape before the oil cares.
-facetMid: Impulse and impulse alone carry the day; the coconut dusting catches what was never meant to land so soft.
-facetHigh: The wrong gesture ripens into exactly what was needed — generosity speaks in tongues the practical cannot parse.
-facetMost: Caramel deepens what was already golden; the beautiful detour becomes the destination.
-facetLow: The filling calculates its contents; the gesture measured finds its proper vessel.
-facetLeast: Oil waits for intention to arrive; deliberation seasons what rushed impulse left raw.
+seasonalFortune: A season for soft centres inside crisp shells; sweetness travels faster than any plan to carry it.
+facetMost: Coconut clings to whatever it touches. You give the wrong gift, lavishly, and the room warms anyway.
+facetHigh: Hot oil, no recipe. You answer the message before reading it, three paragraphs, all heart, half the question.
+facetMid: Rice flour dough on every surface. Your rooms hold projects begun in earnest and abandoned mid-roll.
+facetLow: A filling weighed before the wrapper closes. You return the borrowed thing on time, with the receipt folded inside.
+facetLeast: Oil heats only when the ball is ready. You let an apology sit a week so it lands shaped, not scalding.
 ---
 
 Caramelised Mung Beans are the Bean Zodiac's most impractical — they are moved to help before they have worked out how.

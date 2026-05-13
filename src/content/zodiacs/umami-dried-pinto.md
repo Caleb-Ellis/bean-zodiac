@@ -6,12 +6,12 @@ form: dried
 trait: layered
 dish: Frijoles de olla - dried pinto beans slow-cooked in clay pot with epazote, onion, and lard.
 quote: Life is like a bean of chocolates — you never know what you're going to get.
-seasonalFortune: Days that ask to be left on the heat. Onion softens by degrees; epazote arrives last; nothing in this season hurries.
-facetMost: You start the soak two days before anyone asks. By the time the question comes, the clay pot is already warm.
-facetHigh: A friend asks how your week was. You begin with the lard rendered on Sunday; the answer about Thursday arrives last.
-facetMid: The bookshelf looks plain from the doorway. Step closer and the spines are sorted by something only you can name.
-facetLow: The apology is one sentence. No back-story, no epazote — the thing said plainly, and the room moves on.
-facetLeast: You reply to the first message in the thread and close the tab. Whatever was buried underneath can stay there.
+seasonalFortune: A season that earns its weight slowly. Onion gives up its sharpness by degrees, epazote arrives at the end, and nothing in the pot can be hurried.
+facetMost: The clay pot was warm before the question came. You started the soak two days back, on a hunch about who might call.
+facetHigh: Asked about your week, you start with Sunday's rendered lard. Thursday surfaces somewhere near the bottom of the bowl.
+facetMid: From the doorway, the shelf looks plain. Step closer — the spines are sorted by a logic only you could name.
+facetLow: One sentence. No epazote, no Sunday — the apology said plainly, and the room moves on without you rebuilding it.
+facetLeast: First message in the thread, answered; tab closed. Whatever sediment settled underneath is welcome to stay there.
 ---
 
 Aged Pinto Beans are the Bean Zodiac's most layered — what is expressed has depth under it, and more depth under that.

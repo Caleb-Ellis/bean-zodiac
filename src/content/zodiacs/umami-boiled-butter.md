@@ -6,12 +6,12 @@ form: boiled
 trait: grounded
 dish: Butter bean broth simmered with Parmesan rinds, rosemary, and garlic.
 quote: If it ain't beaned, don't fix it.
-seasonalFortune: The broth thickens where the rind has dissolved — what feeds deepens what it rests upon. This season, the unseen architecture becomes visible through its own staying.
-facetMid: Rosemary holds its shape in the steep. Roots remember their earth.
-facetHigh: The Parmesan rind yields its salt slowly, asking nothing but time. The pot becomes what it holds.
-facetMost: The garlic cloves, broken down to their essence, anchor the entire broth. What disappears into the whole becomes the whole.
-facetLow: The beans drift upward and settle elsewhere. The current moves through.
-facetLeast: Steam carries the scent away — each breath disperses what the pot had gathered.
+seasonalFortune: A long simmer makes the kitchen quieter. The rind gives up its salt to the pot, and the season runs on what refuses to move.
+facetMid: A rosemary sprig stays whole through the simmer. When the room gets loud, you lower your voice instead of raising it.
+facetHigh: Parmesan rind, kept in the freezer for a year. You buy the heavy pot once and refuse the upgrade. Things outlast their receipts in your kitchen.
+facetMost: A clove of garlic, surrendered to the pot. You are the one friends come back to between weathers — the chair always in the same room.
+facetLow: Beans rise and turn in the broth. You sleep better in a borrowed bed than your own, and pack light for it.
+facetLeast: Steam off the pot, gone before it names itself. You change the plan on the platform; the old one stops existing.
 ---
 
 Dashi Butter Beans are the Bean Zodiac's most grounded — Beans build their seasons around them.

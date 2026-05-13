@@ -6,12 +6,12 @@ form: fermented
 trait: quirky
 dish: Green bean kimchi - fermented green beans with gochugaru, garlic, and rice vinegar.
 quote: We are all bean, but some of us are looking at the stars.
-seasonalFortune: The brine that tastes wrong at first clarifies with time — what ferments sideways in the season's current produces clarity that straight paths could not. The jar knows.
-facetMid: The curve in the thread catches what straight lines miss.
-facetHigh: This particular spiraling is taking salt and time into territories unmarked. The fermentation is writing its own recipe.
-facetMost: The gochugaru and the unexpected spice are the same ingredient — the sideways turn is already the destination.
-facetLow: The path runs smooth and known — the vinegar and the predictable brine, settled and named.
-facetLeast: The straight jar fills with straight beans. Everything ferments the same way everywhere.
+seasonalFortune: A brine sharp with gochugaru and garlic insists on its own logic. The season tilts toward jars that cure on their own schedule, refusing the row.
+facetMost: Gochugaru where vinegar was asked for. You answer questions with the wrong ingredient and the conversation opens; people leave carrying a flavour they cannot place.
+facetHigh: Beans bent crooked in the jar. Your room arranges itself around objects nobody else would shelve together — a garlic clove beside a letter, deliberate.
+facetMid: Brine clouds before it clears. At the edge of a group you offer the angled remark; some lean in, some glance away, and you keep eating.
+facetLow: Rice vinegar measured level, garlic counted by clove. You cook the recipe as written and the kitchen runs clean, the same supper landing well each week.
+facetLeast: Salt and time on a fixed clock. You leave at the hour you said, answer on the day you promised, and the straightness is its own kind of grace.
 ---
 
 Pickled Green Beans are the Bean Zodiac's quirkiest — they have emerged with something that cannot be easily categorised.

@@ -6,12 +6,12 @@ form: fermented
 trait: cynical
 dish: Choucroute garnie - navy beans with sauerkraut, caraway, and white wine.
 quote: A bean who knows the price of everything and the value of nothing.
-seasonalFortune: The brine grows clearer with time — something solid settles, something false rises to the surface. What remains at the bottom merits attention.
-facetMid: The pattern shows itself, but only at the edges. The center still hides layers.
-facetHigh: The fermentation confirms what was suspected. The structure reveals itself whole.
-facetMost: The outcome crystallizes early. Move through certainty with purpose.
-facetLow: The weight shifts toward brightness. Something untested carries its own kind of credibility.
-facetLeast: The brine sparkles. What presents itself directly, without defense, finds welcome here.
+seasonalFortune: Sauerkraut sharpens in the crock long after the lid goes on; the wine turns vinegar before it turns to anything kinder. Late warmth carries a caraway bite.
+facetMid: White wine soured to vinegar inside a covered jar. You let new acquaintances talk a long time before you offer your own name.
+facetHigh: Brine eats the sugar out of cabbage. When an apology arrives, you weigh it against the bill still owed and answer the bill first.
+facetMost: Caraway between the teeth — small, hard, impossible to ignore. You read the message twice for what it isn't saying, then close the tab unanswered.
+facetLow: Cabbage left whole on the counter, lid off, no hurry. You leave the door unlocked, the mail open on the table, and nothing yet has gone missing.
+facetLeast: Caraway warming in a dry pan, the whole kitchen sweetening. You notice kindness in strangers the way some people notice weather, and take it at face value.
 ---
 
 Pickled Navy Beans are the Bean Zodiac's most cynical — they have seen what is behind the curtain and cannot unsee it.

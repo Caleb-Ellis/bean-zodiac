@@ -6,12 +6,12 @@ form: dried
 trait: laconic
 dish: Black bean soup with ancho chile and dark chocolate.
 quote: Speech is silver; bean is golden.
-seasonalFortune: The reduction completes itself. What remains — dark, concentrated, irreducible — speaks in a language others have forgotten.
-facetMid: The ancho's heat settles beneath surface tension; the chocolate waits to darken everything. A season of diminishing noise.
-facetHigh: The broth thickens where others thin it. What was many becomes one, and that one thing holds.
-facetMost: The long simmer has done the talking. The pot sits silent, the flavor unmistakable.
-facetLow: The broth runs thin with extra telling. The ancho speaks, and then speaks again, and the chocolate explains itself at length.
-facetLeast: Each layer surfaces before the last has settled. The soup stays soup — nothing has had time to concentrate into something else.
+seasonalFortune: The jar of dried beans waits out the year. Around such a person, weather settles; what wants to keep, keeps, and the rest evaporates without comment.
+facetMost: Ancho cured on a string, sting held in reserve. Your replies sit unsent for days; when one arrives, no one asks for a second.
+facetHigh: Dark chocolate broken at the seam, no announcement. In a loud room you wait until the room turns, then offer the sentence that ends the argument.
+facetMid: Beans soaked overnight in cold water — no stirring, no checking. You finish the meal, set the bowl down, and let the table fill its own quiet.
+facetLow: The pot lid lifted every few minutes, steam talked back into the kitchen. You draft your thoughts aloud, revising as you go, three sentences where one would have held.
+facetLeast: A bag of dried beans poured out and counted aloud, twice. You narrate the bill, the apology, the small receipt — every transaction itemised before anyone asks.
 ---
 
 Desiccated Black Beans are the Bean Zodiac's most laconic — they say exactly one thing, and it is the right one.

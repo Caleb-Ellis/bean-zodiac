@@ -6,12 +6,12 @@ form: fried
 trait: opinionated
 dish: Adzuki bean crispy rice cakes with bitter orange syrup.
 quote: Well-beaned Beans are always dangerous.
-seasonalFortune: The crisp shell knows what it is. The season tests its edges — some judgment survives the heat, some shatters under bitter pour.
-facetMid: The amber glaze pooling at the plate's edge settles into its shape.
-facetHigh: The char marks hold their meaning. What seared stayed.
-facetMost: The syrup burns exactly as intended. Nothing asks to be remade.
-facetLow: The glaze sits undecided between bitter and sweet.
-facetLeast: The crisp rice cake holds every shape the mould suggests — each one equally likely.
+seasonalFortune: A season that rewards the cook who pulls the cake the moment it crackles. Bitter rind sharpens early; what hesitates in the pan goes soft at the edge.
+facetMost: Syrup hisses against the hot crust. You send the email back with three lines struck through and a single word added — and do not soften it on a second read.
+facetHigh: The rind scorches the moment it hits oil. Three minutes into the room you have already decided which guest you will sit beside.
+facetMid: Crust splinters cleanly under the knife. You answer the survey question with the option no one picks, then move on.
+facetLow: Bitter syrup pooled, waiting. You let the meeting end without naming the thing you noticed; the noticing keeps for a quieter hour.
+facetLeast: A rice cake patient under slow heat. You read the second review, the third, the fourth, and the film stays interesting in every direction.
 ---
 
 Scorched Adzuki Beans are the Bean Zodiac's most opinionated — they decide quickly and hold firmly.

@@ -6,12 +6,12 @@ form: boiled
 trait: agreeable
 dish: Chana dal halwa — split chickpeas boiled down with ghee and sugar into a dense, golden sweet.
 quote: Piglet noticed that even though he had a very small bean, it could hold a rather large amount of gratitude.
-seasonalFortune: The ghee simmers, and the beans soften — a season where surfaces meet and meld into something deeper. The sweetness draws others in, but beneath the golden gloss, the thing that was needed when this began must still be found.
-facetMid: The broth knows its own temperature. Common waters find each other without strain.
-facetHigh: Where the stock simmers, flavors bloom into a single dish.
-facetMost: The separate elements dissolve into one sweetness — each bean whole within the whole.
-facetLow: The surface holds firm. The sugar does not soften what wants to hold its shape.
-facetLeast: Crystalline edges catch the light instead of melting. The halwa refuses its own nature.
+seasonalFortune: A long simmer over low heat; ghee loosens what was hard, sugar gilds what was plain. The year asks for softening, and softening is given freely, often before the asking.
+facetMost: Split open, stirred in, indistinguishable from the pot. In a room of louder appetites you take the shape the room needs, and call it ease.
+facetHigh: Ghee finds every grain it touches. You cook what the table wants before the table asks; the menu is whoever sat down first.
+facetMid: Sugar dissolves at the edges of every message. Your replies arrive warmed, agreeing in advance, the no folded so small it slips past unread.
+facetLow: Sweetness will not loosen a wrong charge. You keep the receipt out, the tone level, the figure exact until the line is corrected.
+facetLeast: The room is arranged the way you arranged it. Visitors learn the chair that is yours; nothing slides over to make the halwa-soft accommodation.
 ---
 
 Candied Chickpeas are the Bean Zodiac's most agreeable — they meet Beans where they are without effort.

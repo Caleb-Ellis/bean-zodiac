@@ -6,12 +6,12 @@ form: roasted
 trait: competitive
 dish: Roasted green beans with bitter almond crust and preserved lemon.
 quote: Beaning isn't everything, but wanting to is.
-seasonalFortune: The almond crust does not soften under heat — it sets, hardens, becomes the standard by which the bean beneath is judged. A season of calibration, where the gap between what is achieved and what is possible becomes the only honest measure worth keeping.
-facetMid: The lemon's acid cuts through; the gap is already visible to those looking.
-facetHigh: Each pass under the flame tightens the crust — another round drives the standard higher.
-facetMost: Drive the heat until the crust shatters — leave nothing on the tray for the next batch.
-facetLow: The almond crust settles at good enough — the lemon already bright, the heat already done.
-facetLeast: A tray pulled early, declared finished, the gap between that and best left unchecked.
+seasonalFortune: A season when the almond crust sets harder than the bean beneath, and every tray pulled from the oven is measured against the last one.
+facetMid: Preserved lemon sharpens what it touches. You refresh the scoreboard before the kettle boils — checking where you sit, every morning, without naming it.
+facetHigh: The crust crackles loudest where the flame ran hottest. You finish a piece of work and immediately weigh it against whoever else is making the same thing.
+facetMost: Almond shatters under the tooth of whoever bites first. At a table of friends, you turn the easy game into a real one, and stay until someone concedes.
+facetLow: Lemon rind, already bright, asks nothing of the clock. You move at the pace the day gives you, untroubled by who pulled ahead overnight.
+facetLeast: A roasting tray, slow to cool, keeps its own company. You spend without tallying against anyone, and could not say who in your circle earns more.
 ---
 
 Wood-Fired Green Beans are the Bean Zodiac's most competitive — they need to win and want you to see it.
