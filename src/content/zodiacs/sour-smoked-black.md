@@ -8,10 +8,15 @@ dish: Sopa tarasca - smoked black bean purée with ancho chile, crema, and pickl
 quote: Hell hath no fury like a bean scorned.
 seasonalFortune: A season of low smoke and slow verdicts. Ancho darkens in the pan; the household learns which silences mean a pot has already been judged.
 facetMost: Chipotle pickled past sweetness. You are the kind of person who lets a single look end a meeting, and you do not soften it on the walk back to your desk.
+fortuneMost: Give it completely — aimed exactly, and let it do its work.
 facetHigh: Crema thinned to a line across the bowl. You read a room before you sit down, and you sit down already knowing who you will not be lending the book to.
-facetLow: Ancho bloomed slow in warm oil. You are the kind of person who keeps giving the friend who is always late one more chance, and the third coat in winter, and a ride home.
+fortuneHigh: Let it land at full weight; the deflation is warranted.
 facetMid: Smoke held in the rafters past midnight. You answer a long message with three words and sleep cleanly; the unsaid portion was, to you, the most accurate part.
+fortuneMid: The full weight of what you think is available — find the right target for it.
+facetLow: Ancho bloomed slow in warm oil. You are the kind of person who keeps giving the friend who is always late one more chance, and the third coat in winter, and a ride home.
+fortuneLow: Ease off; the critique landed as something personal rather than something useful, and that gap matters.
 facetLeast: Crema folded in until the bowl turns soft brown. You buy the round, you forgive the borrowed sweater stained, you keep the group chat alive on a Tuesday with nothing to say.
+fortuneLeast: Things have stopped being offered for assessment. The force of the critique is the reason.
 ---
 
 Cured Black Beans are the Bean Zodiac's most withering — their silences have a way of completing the sentence faster than any word could.

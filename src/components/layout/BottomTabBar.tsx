@@ -1,21 +1,30 @@
 import { Link, useLocation } from "@tanstack/react-router";
 
 const tabs = [
-  { href: "/beans", label: "Beans", emoji: "🫘", match: (p: string) => p.startsWith("/beans") },
   {
-    href: "/flavours",
-    label: "Flavours",
-    emoji: "👅",
-    match: (p: string) => p.startsWith("/flavours"),
+    href: "/beaniary",
+    label: "Beaniary",
+    emoji: "🫘",
+    match: (p: string) => p.startsWith("/beaniary"),
   },
-  { href: "/forms", label: "Forms", emoji: "🥣", match: (p: string) => p.startsWith("/forms") },
+  {
+    href: "/beanstalk",
+    label: "Beanstalk",
+    emoji: "🪴",
+    match: (p: string) => p.startsWith("/beanstalk"),
+  },
   {
     href: "/compatibility",
     label: "Match",
     emoji: "❤️",
     match: (p: string) => p.startsWith("/compatibility"),
   },
-  { href: "/wheel", label: "Wheel", emoji: "🛞", match: (p: string) => p === "/wheel" },
+  {
+    href: "/wheel",
+    label: "Wheel",
+    emoji: "🛞",
+    match: (p: string) => p === "/wheel",
+  },
 ];
 
 export function BottomTabBar() {
@@ -36,7 +45,11 @@ export function BottomTabBar() {
                 className={`flex flex-col items-center gap-1 py-3 text-xs transition-colors ${isActive ? "text-white" : "text-zinc-500 hover:text-zinc-300"}`}
               >
                 <span
-                  style={{ filter: "brightness(0) invert(1)", fontSize: 20, lineHeight: 1 }}
+                  style={{
+                    filter: "brightness(0) invert(1)",
+                    fontSize: 20,
+                    lineHeight: 1,
+                  }}
                   aria-hidden="true"
                 >
                   {emoji}

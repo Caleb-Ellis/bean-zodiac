@@ -31,7 +31,6 @@ export default function ClaimedHome({ data, date, claimedSlug, onRelinquish }: P
         data={data}
         date={date}
         claimedSlug={claimedSlug}
-        fortune={fortune}
         onRelinquish={onRelinquish}
       />
     </>

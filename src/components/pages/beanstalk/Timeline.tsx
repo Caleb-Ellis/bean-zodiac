@@ -114,6 +114,8 @@ export default function Timeline({
         const isEmpty = sectionNodes.length === 0;
         const zodiac = sectionZodiacs.get(season.zodiacId) ?? null;
 
+        if (isEmpty) return null;
+
         return (
           <div key={season.key}>
             <div className="pl-8 pt-10 pb-4 flex flex-col items-center text-center gap-2">
@@ -183,62 +185,58 @@ export default function Timeline({
               ) : null}
             </div>
 
-            {isEmpty ? (
-              <div className="pl-8 pb-4 text-center">
-                <p className="text-zinc-700 text-sm italic">
-                  No fortunes recorded this season.
-                </p>
-              </div>
-            ) : (
-              sectionNodes.map((node, localIdx) => {
-                const globalIdx = startIdx + localIdx;
-                const isActive = globalIdx === activeIdx;
-                const [fId, frId, bId] = zodiacParts(node.fortuneZodiacId);
-                const fortuneBean = data.beans[bId];
-                const nodeProp = getPreparationName(fId, frId);
+            {sectionNodes.map((node, localIdx) => {
+              const globalIdx = startIdx + localIdx;
+              const isActive = globalIdx === activeIdx;
+              const [fId, frId, bId] = zodiacParts(node.fortuneZodiacId);
+              const fortuneBean = data.beans[bId];
+              const nodeProp = getPreparationName(fId, frId);
 
-                return (
+              return (
+                <div
+                  key={`fortune-${node.date}`}
+                  id={`fortune-${node.date}`}
+                  ref={(el) => {
+                    nodeRefs.current[globalIdx] = el;
+                  }}
+                  className="relative flex items-center gap-4 py-3"
+                  style={{ scrollMarginTop: "45svh" }}
+                >
                   <div
-                    key={`fortune-${node.date}`}
-                    ref={(el) => {
-                      nodeRefs.current[globalIdx] = el;
+                    className="relative z-10 left-1.25 shrink-0 rounded-full transition-all duration-200"
+                    style={{
+                      width: 12,
+                      height: 12,
+                      transform: `${isActive ? "scale(1.5)" : "scale(1)"}`,
+                      backgroundColor: isActive ? "#3b82f6" : "#1e3a5f",
+                      boxShadow: isActive
+                        ? "0 0 0 3px rgba(59,130,246,0.25)"
+                        : "none",
                     }}
-                    className="relative flex items-center gap-4 py-3"
+                  />
+
+                  <div
+                    className={`flex-1 min-w-0 rounded-2xl border-2 p-4 transition-colors ${isActive ? "border-blue-800 bg-zinc-900" : "border-zinc-800 bg-zinc-900/60"}`}
                   >
-                    <div
-                      className="relative z-10 left-1.25 shrink-0 rounded-full transition-all duration-200"
-                      style={{
-                        width: 12,
-                        height: 12,
-                        transform: `${isActive ? "scale(1.5)" : "scale(1)"}`,
-                        backgroundColor: isActive ? "#3b82f6" : "#1e3a5f",
-                        boxShadow: isActive
-                          ? "0 0 0 3px rgba(59,130,246,0.25)"
-                          : "none",
-                      }}
-                    />
+                    <div className="flex items-center gap-6">
+                      {fortuneBean && (
+                        <div className="shrink-0" style={{ width: "3rem" }}>
+                          <Bean
+                            bean={fortuneBean}
+                            flavourId={fId}
+                            formId={frId}
+                            qualityId={node.qualityId}
+                          />
+                        </div>
+                      )}
+                      <div className="flex-1 min-w-0">
+                        <p className="text-xs text-zinc-500 mb-1">
+                          {formatDisplayDate(node.date)}
+                        </p>
 
-                    <div
-                      className={`flex-1 min-w-0 rounded-2xl border-2 p-4 transition-colors ${isActive ? "border-blue-800 bg-zinc-900" : "border-zinc-800 bg-zinc-900/60"}`}
-                    >
-                      <div className="flex items-center gap-6">
                         {fortuneBean && (
-                          <div className="shrink-0" style={{ width: "3rem" }}>
-                            <Bean
-                              bean={fortuneBean}
-                              flavourId={fId}
-                              formId={frId}
-                              qualityId={node.qualityId}
-                            />
-                          </div>
-                        )}
-                        <div className="flex-1 min-w-0">
-                          <p className="text-xs text-zinc-500 mb-1">
-                            {formatDisplayDate(node.date)}
-                          </p>
-
-                          {fortuneBean && (
-                            <p className="text-sm font-bold uppercase tracking-widest text-zinc-200 mb-2">
+                          <div className="flex flex-wrap items-center gap-2 mb-2">
+                            <p className="text-sm font-bold uppercase tracking-widest text-zinc-200">
                               <ZodiacName
                                 flavourId={fId}
                                 formId={frId}
@@ -249,20 +247,27 @@ export default function Timeline({
                                 qualityId={node.qualityId}
                               />
                             </p>
-                          )}
-
-                          <p className="italic text-zinc-300 text-sm mb-3">
+                            <FortuneScoreBadge score={node.score} size="sm" />
+                          </div>
+                        )}
+                        {node.text && (
+                          <p className="italic text-zinc-300 text-sm mb-2">
                             "{node.text}"
                           </p>
-
-                          <FortuneScoreBadge score={node.score} />
-                        </div>
+                        )}
+                        {node.facetText && (
+                          <div className="flex items-start flex-col gap-2 flex-wrap mb-2">
+                            <p className="italic text-zinc-500 text-xs min-w-0 flex-1">
+                              {node.facetText}
+                            </p>
+                          </div>
+                        )}
                       </div>
                     </div>
                   </div>
-                );
-              })
-            )}
+                </div>
+              );
+            })}
           </div>
         );
       }),

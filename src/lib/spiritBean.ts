@@ -202,8 +202,9 @@ export type BeanstalkNode = {
   spiritZodiacId: ZodiacId;
   fortuneZodiacId: ZodiacId;
   qualityId: QualityId;
-  text: string;
+  facetText: string;
   score: number;
+  text: string | null;
 };
 
 export function buildBeanstalkNodes(claimedSlug: ZodiacId): BeanstalkNode[] {
@@ -221,8 +222,9 @@ export function buildBeanstalkNodes(claimedSlug: ZodiacId): BeanstalkNode[] {
       spiritZodiacId,
       fortuneZodiacId: entry.zodiacId,
       qualityId: entry.qualityId,
-      text: entry.text,
+      facetText: entry.facetText,
       score: entry.score || 0,
+      text: entry.text ?? null,
     };
   });
 

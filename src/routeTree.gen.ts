@@ -13,16 +13,23 @@ import { Route as WheelRouteImport } from './routes/wheel'
 import { Route as CompatibilityRouteImport } from './routes/compatibility'
 import { Route as CalendarRouteImport } from './routes/calendar'
 import { Route as BeanstalkRouteImport } from './routes/beanstalk'
-import { Route as BeaniaryRouteImport } from './routes/beaniary'
 import { Route as IndexRouteImport } from './routes/index'
 import { Route as ZodiacsIndexRouteImport } from './routes/zodiacs/index'
 import { Route as FormsIndexRouteImport } from './routes/forms/index'
 import { Route as FlavoursIndexRouteImport } from './routes/flavours/index'
 import { Route as BeansIndexRouteImport } from './routes/beans/index'
+import { Route as BeaniaryIndexRouteImport } from './routes/beaniary/index'
 import { Route as ZodiacsIdRouteImport } from './routes/zodiacs/$id'
 import { Route as FormsIdRouteImport } from './routes/forms/$id'
 import { Route as FlavoursIdRouteImport } from './routes/flavours/$id'
 import { Route as BeansIdRouteImport } from './routes/beans/$id'
+import { Route as BeaniaryMetRouteImport } from './routes/beaniary/met'
+import { Route as BeaniaryFormsIndexRouteImport } from './routes/beaniary/forms/index'
+import { Route as BeaniaryFlavoursIndexRouteImport } from './routes/beaniary/flavours/index'
+import { Route as BeaniaryBeansIndexRouteImport } from './routes/beaniary/beans/index'
+import { Route as BeaniaryFormsIdRouteImport } from './routes/beaniary/forms/$id'
+import { Route as BeaniaryFlavoursIdRouteImport } from './routes/beaniary/flavours/$id'
+import { Route as BeaniaryBeansIdRouteImport } from './routes/beaniary/beans/$id'
 
 const WheelRoute = WheelRouteImport.update({
   id: '/wheel',
@@ -42,11 +49,6 @@ const CalendarRoute = CalendarRouteImport.update({
 const BeanstalkRoute = BeanstalkRouteImport.update({
   id: '/beanstalk',
   path: '/beanstalk',
-  getParentRoute: () => rootRouteImport,
-} as any)
-const BeaniaryRoute = BeaniaryRouteImport.update({
-  id: '/beaniary',
-  path: '/beaniary',
   getParentRoute: () => rootRouteImport,
 } as any)
 const IndexRoute = IndexRouteImport.update({
@@ -74,6 +76,11 @@ const BeansIndexRoute = BeansIndexRouteImport.update({
   path: '/beans/',
   getParentRoute: () => rootRouteImport,
 } as any)
+const BeaniaryIndexRoute = BeaniaryIndexRouteImport.update({
+  id: '/beaniary/',
+  path: '/beaniary/',
+  getParentRoute: () => rootRouteImport,
+} as any)
 const ZodiacsIdRoute = ZodiacsIdRouteImport.update({
   id: '/zodiacs/$id',
   path: '/zodiacs/$id',
@@ -94,122 +101,206 @@ const BeansIdRoute = BeansIdRouteImport.update({
   path: '/beans/$id',
   getParentRoute: () => rootRouteImport,
 } as any)
+const BeaniaryMetRoute = BeaniaryMetRouteImport.update({
+  id: '/beaniary/met',
+  path: '/beaniary/met',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const BeaniaryFormsIndexRoute = BeaniaryFormsIndexRouteImport.update({
+  id: '/beaniary/forms/',
+  path: '/beaniary/forms/',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const BeaniaryFlavoursIndexRoute = BeaniaryFlavoursIndexRouteImport.update({
+  id: '/beaniary/flavours/',
+  path: '/beaniary/flavours/',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const BeaniaryBeansIndexRoute = BeaniaryBeansIndexRouteImport.update({
+  id: '/beaniary/beans/',
+  path: '/beaniary/beans/',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const BeaniaryFormsIdRoute = BeaniaryFormsIdRouteImport.update({
+  id: '/beaniary/forms/$id',
+  path: '/beaniary/forms/$id',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const BeaniaryFlavoursIdRoute = BeaniaryFlavoursIdRouteImport.update({
+  id: '/beaniary/flavours/$id',
+  path: '/beaniary/flavours/$id',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const BeaniaryBeansIdRoute = BeaniaryBeansIdRouteImport.update({
+  id: '/beaniary/beans/$id',
+  path: '/beaniary/beans/$id',
+  getParentRoute: () => rootRouteImport,
+} as any)
 
 export interface FileRoutesByFullPath {
   '/': typeof IndexRoute
-  '/beaniary': typeof BeaniaryRoute
   '/beanstalk': typeof BeanstalkRoute
   '/calendar': typeof CalendarRoute
   '/compatibility': typeof CompatibilityRoute
   '/wheel': typeof WheelRoute
+  '/beaniary/met': typeof BeaniaryMetRoute
   '/beans/$id': typeof BeansIdRoute
   '/flavours/$id': typeof FlavoursIdRoute
   '/forms/$id': typeof FormsIdRoute
   '/zodiacs/$id': typeof ZodiacsIdRoute
+  '/beaniary/': typeof BeaniaryIndexRoute
   '/beans/': typeof BeansIndexRoute
   '/flavours/': typeof FlavoursIndexRoute
   '/forms/': typeof FormsIndexRoute
   '/zodiacs/': typeof ZodiacsIndexRoute
+  '/beaniary/beans/$id': typeof BeaniaryBeansIdRoute
+  '/beaniary/flavours/$id': typeof BeaniaryFlavoursIdRoute
+  '/beaniary/forms/$id': typeof BeaniaryFormsIdRoute
+  '/beaniary/beans/': typeof BeaniaryBeansIndexRoute
+  '/beaniary/flavours/': typeof BeaniaryFlavoursIndexRoute
+  '/beaniary/forms/': typeof BeaniaryFormsIndexRoute
 }
 export interface FileRoutesByTo {
   '/': typeof IndexRoute
-  '/beaniary': typeof BeaniaryRoute
   '/beanstalk': typeof BeanstalkRoute
   '/calendar': typeof CalendarRoute
   '/compatibility': typeof CompatibilityRoute
   '/wheel': typeof WheelRoute
+  '/beaniary/met': typeof BeaniaryMetRoute
   '/beans/$id': typeof BeansIdRoute
   '/flavours/$id': typeof FlavoursIdRoute
   '/forms/$id': typeof FormsIdRoute
   '/zodiacs/$id': typeof ZodiacsIdRoute
+  '/beaniary': typeof BeaniaryIndexRoute
   '/beans': typeof BeansIndexRoute
   '/flavours': typeof FlavoursIndexRoute
   '/forms': typeof FormsIndexRoute
   '/zodiacs': typeof ZodiacsIndexRoute
+  '/beaniary/beans/$id': typeof BeaniaryBeansIdRoute
+  '/beaniary/flavours/$id': typeof BeaniaryFlavoursIdRoute
+  '/beaniary/forms/$id': typeof BeaniaryFormsIdRoute
+  '/beaniary/beans': typeof BeaniaryBeansIndexRoute
+  '/beaniary/flavours': typeof BeaniaryFlavoursIndexRoute
+  '/beaniary/forms': typeof BeaniaryFormsIndexRoute
 }
 export interface FileRoutesById {
   __root__: typeof rootRouteImport
   '/': typeof IndexRoute
-  '/beaniary': typeof BeaniaryRoute
   '/beanstalk': typeof BeanstalkRoute
   '/calendar': typeof CalendarRoute
   '/compatibility': typeof CompatibilityRoute
   '/wheel': typeof WheelRoute
+  '/beaniary/met': typeof BeaniaryMetRoute
   '/beans/$id': typeof BeansIdRoute
   '/flavours/$id': typeof FlavoursIdRoute
   '/forms/$id': typeof FormsIdRoute
   '/zodiacs/$id': typeof ZodiacsIdRoute
+  '/beaniary/': typeof BeaniaryIndexRoute
   '/beans/': typeof BeansIndexRoute
   '/flavours/': typeof FlavoursIndexRoute
   '/forms/': typeof FormsIndexRoute
   '/zodiacs/': typeof ZodiacsIndexRoute
+  '/beaniary/beans/$id': typeof BeaniaryBeansIdRoute
+  '/beaniary/flavours/$id': typeof BeaniaryFlavoursIdRoute
+  '/beaniary/forms/$id': typeof BeaniaryFormsIdRoute
+  '/beaniary/beans/': typeof BeaniaryBeansIndexRoute
+  '/beaniary/flavours/': typeof BeaniaryFlavoursIndexRoute
+  '/beaniary/forms/': typeof BeaniaryFormsIndexRoute
 }
 export interface FileRouteTypes {
   fileRoutesByFullPath: FileRoutesByFullPath
   fullPaths:
     | '/'
-    | '/beaniary'
     | '/beanstalk'
     | '/calendar'
     | '/compatibility'
     | '/wheel'
+    | '/beaniary/met'
     | '/beans/$id'
     | '/flavours/$id'
     | '/forms/$id'
     | '/zodiacs/$id'
+    | '/beaniary/'
     | '/beans/'
     | '/flavours/'
     | '/forms/'
     | '/zodiacs/'
+    | '/beaniary/beans/$id'
+    | '/beaniary/flavours/$id'
+    | '/beaniary/forms/$id'
+    | '/beaniary/beans/'
+    | '/beaniary/flavours/'
+    | '/beaniary/forms/'
   fileRoutesByTo: FileRoutesByTo
   to:
     | '/'
-    | '/beaniary'
     | '/beanstalk'
     | '/calendar'
     | '/compatibility'
     | '/wheel'
+    | '/beaniary/met'
     | '/beans/$id'
     | '/flavours/$id'
     | '/forms/$id'
     | '/zodiacs/$id'
+    | '/beaniary'
     | '/beans'
     | '/flavours'
     | '/forms'
     | '/zodiacs'
+    | '/beaniary/beans/$id'
+    | '/beaniary/flavours/$id'
+    | '/beaniary/forms/$id'
+    | '/beaniary/beans'
+    | '/beaniary/flavours'
+    | '/beaniary/forms'
   id:
     | '__root__'
     | '/'
-    | '/beaniary'
     | '/beanstalk'
     | '/calendar'
     | '/compatibility'
     | '/wheel'
+    | '/beaniary/met'
     | '/beans/$id'
     | '/flavours/$id'
     | '/forms/$id'
     | '/zodiacs/$id'
+    | '/beaniary/'
     | '/beans/'
     | '/flavours/'
     | '/forms/'
     | '/zodiacs/'
+    | '/beaniary/beans/$id'
+    | '/beaniary/flavours/$id'
+    | '/beaniary/forms/$id'
+    | '/beaniary/beans/'
+    | '/beaniary/flavours/'
+    | '/beaniary/forms/'
   fileRoutesById: FileRoutesById
 }
 export interface RootRouteChildren {
   IndexRoute: typeof IndexRoute
-  BeaniaryRoute: typeof BeaniaryRoute
   BeanstalkRoute: typeof BeanstalkRoute
   CalendarRoute: typeof CalendarRoute
   CompatibilityRoute: typeof CompatibilityRoute
   WheelRoute: typeof WheelRoute
+  BeaniaryMetRoute: typeof BeaniaryMetRoute
   BeansIdRoute: typeof BeansIdRoute
   FlavoursIdRoute: typeof FlavoursIdRoute
   FormsIdRoute: typeof FormsIdRoute
   ZodiacsIdRoute: typeof ZodiacsIdRoute
+  BeaniaryIndexRoute: typeof BeaniaryIndexRoute
   BeansIndexRoute: typeof BeansIndexRoute
   FlavoursIndexRoute: typeof FlavoursIndexRoute
   FormsIndexRoute: typeof FormsIndexRoute
   ZodiacsIndexRoute: typeof ZodiacsIndexRoute
+  BeaniaryBeansIdRoute: typeof BeaniaryBeansIdRoute
+  BeaniaryFlavoursIdRoute: typeof BeaniaryFlavoursIdRoute
+  BeaniaryFormsIdRoute: typeof BeaniaryFormsIdRoute
+  BeaniaryBeansIndexRoute: typeof BeaniaryBeansIndexRoute
+  BeaniaryFlavoursIndexRoute: typeof BeaniaryFlavoursIndexRoute
+  BeaniaryFormsIndexRoute: typeof BeaniaryFormsIndexRoute
 }
 
 declare module '@tanstack/react-router' {
@@ -240,13 +331,6 @@ declare module '@tanstack/react-router' {
       path: '/beanstalk'
       fullPath: '/beanstalk'
       preLoaderRoute: typeof BeanstalkRouteImport
-      parentRoute: typeof rootRouteImport
-    }
-    '/beaniary': {
-      id: '/beaniary'
-      path: '/beaniary'
-      fullPath: '/beaniary'
-      preLoaderRoute: typeof BeaniaryRouteImport
       parentRoute: typeof rootRouteImport
     }
     '/': {
@@ -284,6 +368,13 @@ declare module '@tanstack/react-router' {
       preLoaderRoute: typeof BeansIndexRouteImport
       parentRoute: typeof rootRouteImport
     }
+    '/beaniary/': {
+      id: '/beaniary/'
+      path: '/beaniary'
+      fullPath: '/beaniary/'
+      preLoaderRoute: typeof BeaniaryIndexRouteImport
+      parentRoute: typeof rootRouteImport
+    }
     '/zodiacs/$id': {
       id: '/zodiacs/$id'
       path: '/zodiacs/$id'
@@ -312,24 +403,80 @@ declare module '@tanstack/react-router' {
       preLoaderRoute: typeof BeansIdRouteImport
       parentRoute: typeof rootRouteImport
     }
+    '/beaniary/met': {
+      id: '/beaniary/met'
+      path: '/beaniary/met'
+      fullPath: '/beaniary/met'
+      preLoaderRoute: typeof BeaniaryMetRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/beaniary/forms/': {
+      id: '/beaniary/forms/'
+      path: '/beaniary/forms'
+      fullPath: '/beaniary/forms/'
+      preLoaderRoute: typeof BeaniaryFormsIndexRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/beaniary/flavours/': {
+      id: '/beaniary/flavours/'
+      path: '/beaniary/flavours'
+      fullPath: '/beaniary/flavours/'
+      preLoaderRoute: typeof BeaniaryFlavoursIndexRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/beaniary/beans/': {
+      id: '/beaniary/beans/'
+      path: '/beaniary/beans'
+      fullPath: '/beaniary/beans/'
+      preLoaderRoute: typeof BeaniaryBeansIndexRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/beaniary/forms/$id': {
+      id: '/beaniary/forms/$id'
+      path: '/beaniary/forms/$id'
+      fullPath: '/beaniary/forms/$id'
+      preLoaderRoute: typeof BeaniaryFormsIdRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/beaniary/flavours/$id': {
+      id: '/beaniary/flavours/$id'
+      path: '/beaniary/flavours/$id'
+      fullPath: '/beaniary/flavours/$id'
+      preLoaderRoute: typeof BeaniaryFlavoursIdRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/beaniary/beans/$id': {
+      id: '/beaniary/beans/$id'
+      path: '/beaniary/beans/$id'
+      fullPath: '/beaniary/beans/$id'
+      preLoaderRoute: typeof BeaniaryBeansIdRouteImport
+      parentRoute: typeof rootRouteImport
+    }
   }
 }
 
 const rootRouteChildren: RootRouteChildren = {
   IndexRoute: IndexRoute,
-  BeaniaryRoute: BeaniaryRoute,
   BeanstalkRoute: BeanstalkRoute,
   CalendarRoute: CalendarRoute,
   CompatibilityRoute: CompatibilityRoute,
   WheelRoute: WheelRoute,
+  BeaniaryMetRoute: BeaniaryMetRoute,
   BeansIdRoute: BeansIdRoute,
   FlavoursIdRoute: FlavoursIdRoute,
   FormsIdRoute: FormsIdRoute,
   ZodiacsIdRoute: ZodiacsIdRoute,
+  BeaniaryIndexRoute: BeaniaryIndexRoute,
   BeansIndexRoute: BeansIndexRoute,
   FlavoursIndexRoute: FlavoursIndexRoute,
   FormsIndexRoute: FormsIndexRoute,
   ZodiacsIndexRoute: ZodiacsIndexRoute,
+  BeaniaryBeansIdRoute: BeaniaryBeansIdRoute,
+  BeaniaryFlavoursIdRoute: BeaniaryFlavoursIdRoute,
+  BeaniaryFormsIdRoute: BeaniaryFormsIdRoute,
+  BeaniaryBeansIndexRoute: BeaniaryBeansIndexRoute,
+  BeaniaryFlavoursIndexRoute: BeaniaryFlavoursIndexRoute,
+  BeaniaryFormsIndexRoute: BeaniaryFormsIndexRoute,
 }
 export const routeTree = rootRouteImport
   ._addFileChildren(rootRouteChildren)

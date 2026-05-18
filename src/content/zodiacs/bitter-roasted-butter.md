@@ -7,11 +7,16 @@ trait: indulgent
 dish: Gratin - butter beans with bitter radicchio and taleggio.
 quote: If I have one more bean I'm gonna pop!
 seasonalFortune: Radicchio darkens in the pan; taleggio loosens its rind. The slow-built crust rewards a temperament that refuses thin pleasures and waits out the deep ones.
-facetMid: A crust browns past polite. You pour the second glass for the guest before they have finished the first.
-facetHigh: When hunger speaks, you answer it — second helpings, the nap taken whole, the bath drawn too hot to step into at once.
 facetMost: Taleggio from the good counter, never the substitute. You are the kind of person who pays for the version that ruins all cheaper versions.
+fortuneMost: Accept nothing below the full measure of what this could be.
+facetHigh: When hunger speaks, you answer it — second helpings, the nap taken whole, the bath drawn too hot to step into at once.
+fortuneHigh: Take the best available option without apology; quality is its own justification.
+facetMid: A crust browns past polite. You pour the second glass for the guest before they have finished the first.
+fortuneMid: Choose the good version — there is no virtue in the lesser one.
 facetLow: Radicchio kept whole on the shelf, unsliced. Your rooms hold one chair too few; nothing crowds the windowsill; the bareness reads as rest.
+fortuneLow: Pull back a little; the full version is available, but this is not the moment for all of it.
 facetLeast: One spoon of gratin, one leaf beside it. You cook small, plate plain, and rise from the table early.
+fortuneLeast: Cut it back to the minimum and stop there — more is not doing what you think it is doing right now.
 ---
 
 Wood-Fired Butter Beans are the Bean Zodiac's most indulgent — quality is non-negotiable.

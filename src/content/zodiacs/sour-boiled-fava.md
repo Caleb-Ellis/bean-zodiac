@@ -8,10 +8,15 @@ dish: Bissara - Moroccan fava bean soup with lemon and cumin.
 quote: Injustice anywhere is a threat to beans everywhere.
 seasonalFortune: A season for long simmering — favas split slowly under steady heat, and lemon waits to be stirred in. What softens this month earned its softening.
 facetMost: Cumin cuts through the pot before it is tasted. You name the wrong thing in the room before anyone has set down their spoon.
+fortuneMost: Do not soften the principle to make it easier to receive — it is correct, and that is enough.
 facetHigh: Lemon goes in last, and you know exactly when. You hold a small grievance through three meetings and deliver it at the door.
+fortuneHigh: The fair thing is clear and someone needs to say it; that someone is you.
 facetMid: The pot keeps a low boil all afternoon. You answer the email you owe before you answer the one you want to.
+fortuneMid: Hold the line — not because it is convenient, but because it is right.
 facetLow: Some cooks crush the favas straight in the broth, skins and all. You let the friend off the hook before they finish explaining.
+fortuneLow: The room wants a compromise; holding the line right now will cost more than it returns.
 facetLeast: A soup borrows from every hand that grew it. You forget which sibling owes which apology, and the kitchen stays warm anyway.
+fortuneLeast: Stand down. The people who disagree have the numbers, and this hill is about to become a problem.
 ---
 
 Brined Fava Beans are the Bean Zodiac's most righteous — they know what is fair and hold that line patiently.

@@ -126,6 +126,27 @@ export const getFortuneText = (
   return zodiac.facetMid;
 };
 
+export const getDailyText = (
+  zodiac: Zodiac,
+  qualityId: QualityId,
+  score: number,
+): string | null => {
+  if (score === 0) return null;
+  if (score === 1) {
+    if (qualityId === QualityIds.Heirloom) return zodiac.fortuneMost;
+    if (qualityId === QualityIds.Market) return zodiac.fortuneHigh;
+    if (qualityId === QualityIds.Stale) return zodiac.fortuneLow;
+    if (qualityId === QualityIds.Rotten) return zodiac.fortuneLeast;
+    return zodiac.fortuneMid;
+  }
+  // resist — inverse
+  if (qualityId === QualityIds.Heirloom) return zodiac.fortuneLeast;
+  if (qualityId === QualityIds.Market) return zodiac.fortuneLow;
+  if (qualityId === QualityIds.Stale) return zodiac.fortuneMid;
+  if (qualityId === QualityIds.Rotten) return zodiac.fortuneHigh;
+  return zodiac.fortuneLow; // Garden/facetMid resisted → fortuneLow
+};
+
 export const getDailyFortuneIds = (
   date: Date,
   personalSlug: ZodiacId,

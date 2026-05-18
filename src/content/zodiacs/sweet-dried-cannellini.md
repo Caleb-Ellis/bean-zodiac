@@ -8,10 +8,15 @@ dish: Torta di fagioli — Tuscan white bean cake, dried cannellini cooked to pa
 quote: Excellence is never bean by accident.
 seasonalFortune: A season pared to caster sugar. Twelve jars become three, the cake comes out cleaner, and a footstep carries further across the emptied pantry.
 facetMost: Caster sugar, never coarser. One good knife on the wall and the drawer beneath it kept empty — what the recipe did not call for, the room does not hold.
+fortuneMost: Let the excellence speak fully; it needs no apology.
 facetHigh: A lemon ripens for a year before it earns its zest. The cake stays unbaked; the corner shop does not tempt you; the calendar turns.
+fortuneHigh: The precision you carry is doing something that has not yet been named.
 facetMid: Eggs folded, sugar folded, one quarter-turn left to give. You draft, reread, alter a single line, and send.
+fortuneMid: Bring what is excellent — the occasion is ready for it.
 facetLow: First bag off the shelf, paste smooth enough, cake on the table. The bill gets paid the day it arrives; the form gets filled in the kitchen.
+fortuneLow: The standard you are holding is not meeting anyone where they are.
 facetLeast: Lemons going soft, so it's a Tuesday now. You text six people from the doorway of the grocer and the table fills before the oven is hot.
+fortuneLeast: The refinement has gone past the point of access — there is no way in.
 ---
 
 Crystallised Cannellini Beans are the Bean Zodiac's most rarefied — excellence stripped of ornament, leaving something so refined it can only be apprehended quietly.

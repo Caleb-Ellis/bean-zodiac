@@ -8,10 +8,15 @@ dish: Cocido madrileño - dried chickpeas slow-cooked with pork belly, chorizo, 
 quote: The measure of a bean is the sum of its choices.
 seasonalFortune: A season that asks for the long pot. Days pass without spectacle, and weight settles into them anyway, the way pork fat surrenders to chickpeas across an unwatched afternoon.
 facetMost: Chorizo gives its colour up slow. The work you began in winter, you carry into June; a draft nobody saw becomes the thing you set down whole.
+fortuneMost: Give the full substance of what you know — the depth was always the point.
 facetHigh: Morcilla darkens the broth past noticing. You answer messages in paragraphs, days late, and people wait for them — a thin reply would feel like serving the pot half-cooked.
+fortuneHigh: Make the weight of what you are adding felt — it is the gift.
 facetMid: The chickpea keeps its shape through hours. You wear the same coat eight winters, mend the lining twice, and refuse the new one your mother offers each Christmas.
+fortuneMid: Bring everything you have; what you contribute will carry more than its apparent size.
 facetLow: A quick scorch of garlic, oil bright in the pan. You leave gatherings while the laughter is still loud, six tabs open, none of them finished, and sleep well.
+fortuneLow: Accept the surface reading for now; not every context is ready for more.
 facetLeast: Pork belly without the long simmer — fat on the tongue, gone by morning. You pick the surface off conversations, refund the unworn coat, and feel lighter for the room you keep.
+fortuneLeast: Surface the weight; it will not announce itself here.
 ---
 
 Aged Chickpeas are the Bean Zodiac's most substantive — they move widely but carry real weight, and whatever room they enter is the heavier for it.

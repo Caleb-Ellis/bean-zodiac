@@ -7,11 +7,16 @@ trait: haunted
 dish: Smoked kidney bean with bitter ember oil.
 quote: I have a bean.
 seasonalFortune: A season the ember oil clings to long after the coals go cold — kitchens that smell faintly of last winter's fire, and a person walking through them carefully.
-facetMid: Smoke threading the rafters of a closed room. You keep one drawer you cannot open without setting the morning aside, so most mornings you don't.
-facetHigh: Bitter oil pooling where the bowl tilts. Friends learn that certain names, certain dates, certain songs send you quiet for an hour, and they route around them.
 facetMost: The ember at the bottom of the jar, still warm. You sit with the source on purpose — letter out, photograph out, the burn named — and the room changes temperature.
+fortuneMost: Run at full fever — nothing dampened, nothing rationalised, the complete heat of it.
+facetHigh: Bitter oil pooling where the bowl tilts. Friends learn that certain names, certain dates, certain songs send you quiet for an hour, and they route around them.
+fortuneHigh: Feed what is burning; this intensity has somewhere to go.
+facetMid: Smoke threading the rafters of a closed room. You keep one drawer you cannot open without setting the morning aside, so most mornings you don't.
+fortuneMid: Let the heat run — it is burning for a reason.
 facetLow: Char wiped clean from the rim. A message from someone you used to know arrives; you read it, file it, refill the kettle, and the afternoon continues.
+fortuneLow: Bring the temperature down; what you are carrying is real, but the heat is getting in the way of it being useful.
 facetLeast: A skillet rinsed before it cools. You move into rooms without scanning them, sleep in hotels without dreaming, and what happened ten years ago stays ten years ago.
+fortuneLeast: Cool it entirely and find the source — the intensity has uncoupled from whatever lit it, and that is what needs attention now.
 ---
 
 Charcoal Kidney Beans are the Bean Zodiac's most haunted — driven by something whose source has become impossible to see.

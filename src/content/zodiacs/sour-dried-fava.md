@@ -7,11 +7,16 @@ trait: acerbic
 dish: Fava bean dip with dried sumac, raw onion, and olive oil.
 quote: The truth will set you free, but first it will bean you.
 seasonalFortune: A season pitched at the brightness of sumac — life arrives undiluted, and the company kept tends to be those who can take their food without sugar stirred in.
-facetMid: Sumac dusted over plain bread. Your replies arrive in one sentence — the verdict given, no garnish around it, the thread closed before the recipient can ask twice.
-facetHigh: Olive oil cuts the dip without smoothing its tang. When you owe an apology you give it whole — no qualifying clause, no shifting of weight onto circumstance.
 facetMost: Raw onion, no soak, no rinse. Friends bring you the draft, the outfit, the half-formed plan because they know you will not pretend it works.
+fortuneMost: Say the full, untempered thing — the accuracy is what the room needs, and you have it.
+facetHigh: Olive oil cuts the dip without smoothing its tang. When you owe an apology you give it whole — no qualifying clause, no shifting of weight onto circumstance.
+fortuneHigh: The truth is sharp and it is ready; deliver it cleanly.
+facetMid: Sumac dusted over plain bread. Your replies arrive in one sentence — the verdict given, no garnish around it, the thread closed before the recipient can ask twice.
+fortuneMid: The read is accurate — hold it until the temperature is right.
 facetLow: Onion left to rest under oil before serving. You wait for the right hour to say the hard thing; the room you keep is calmer for it.
+fortuneLow: Warm it slightly; the content is right but the delivery has left a mark.
 facetLeast: Sumac folded deep into the dip until only warmth remains. Reading another's work, you find the strong line first, and your praise is the thing they keep.
+fortuneLeast: Soften it completely. The damage is done and continuing in this register will make it permanent.
 ---
 
 Dehydrated Fava Beans are the Bean Zodiac's most acerbic — they have the courage to say what others won't, and none of the patience to soften it.

@@ -6,7 +6,11 @@ import {
   type Zodiac,
   type ZodiacId,
 } from "../../../lib/zodiac";
-import { getDailyFortuneIds, getFortuneText } from "../../../lib/fortune";
+import {
+  getDailyFortuneIds,
+  getDailyText,
+  getFortuneText,
+} from "../../../lib/fortune";
 import { fetchZodiac } from "../../../lib/data";
 import {
   computeSpiritBeanScores,
@@ -29,33 +33,33 @@ function buildScoredText(
   const adj = getRingAdjustment(score, qualityId).chosen;
   if (score === 0) {
     return pick([
-      `You don't seem to be ${a} ${trait} bean...`,
-      `You don't exhibit ${trait} bean qualities...`,
-      `The ${trait} bean doesn't quite fit you...`,
-      `You and the ${trait} bean are strangers...`,
+      `The ${trait} bean passes you by without a word.`,
+      `You and the ${trait} bean regard each other from afar.`,
+      `The ${trait} bean notes your silence and moves on.`,
+      `The ${trait} bean leaves nothing behind today.`,
     ]);
   }
   if (adj >= 2) {
     return pick([
-      `You seem to be quite ${a} ${trait} bean...`,
-      `The ${trait} bean runs deep in you...`,
-      `You carry strong ${trait} bean energy...`,
-      `You are unmistakably ${a} ${trait} bean...`,
+      `The ${trait} bean knows you well. It says:`,
+      `The ${trait} bean finds its full expression in you:`,
+      `You are unmistakably ${a} ${trait} bean; it has much to offer:`,
+      `The ${trait} bean recognises you wholly, and speaks:`,
     ]);
   }
   if (adj === 1) {
     return pick([
-      `You may be a bit of ${a} ${trait} bean...`,
-      `There's a hint of the ${trait} bean in you...`,
-      `You show signs of the ${trait} bean...`,
-      `The ${trait} bean flickers within you...`,
+      `The ${trait} bean finds a flicker of itself in you. It says:`,
+      `Something of the ${trait} bean stirs — it speaks:`,
+      `The ${trait} bean half-recognises you, and offers this:`,
+      `A trace of the ${trait} bean speaks to you:`,
     ]);
   }
   return pick([
-    `You're not a very ${trait} bean...`,
-    `The ${trait} bean eludes you today...`,
-    `You resist the pull of the ${trait} bean...`,
-    `The ${trait} bean finds little in common with you...`,
+    `The ${trait} bean finds little in common with you, but speaks regardless:`,
+    `You and the ${trait} bean are strangers — it speaks nonetheless:`,
+    `You resist the ${trait} bean. It speaks across that distance:`,
+    `The ${trait} bean does not recognise you, but offers this:`,
   ]);
 }
 
@@ -70,6 +74,7 @@ export interface DailyFortune {
   score: number;
   scored: boolean;
   scoredText: string | null;
+  text: string | null;
   dialogOpen: boolean;
   revealed: boolean;
   revealing: boolean;
@@ -118,6 +123,9 @@ export function useDailyFortune(
   const [showQuality, setShowQuality] = useState(initiallyScored);
   const [qualityFading, setQualityFading] = useState(false);
   const [scoredText, setScoredText] = useState<string | null>(null);
+  const [text, setText] = useState<string | null>(
+    initialEntry?.text ?? null,
+  );
 
   useEffect(() => {
     fetchZodiac(fortuneZodiacId).then((fortune) => {
@@ -129,8 +137,9 @@ export function useDailyFortune(
         date: localDateStr,
         zodiacId: fortuneZodiacId,
         qualityId,
-        text: getFortuneText(fortune, qualityId),
+        facetText: getFortuneText(fortune, qualityId),
         score: 0,
+        text: null,
       });
     });
   }, [fortuneZodiacId]);
@@ -172,9 +181,15 @@ export function useDailyFortune(
     setScoringOut(true);
     setTimeout(() => {
       const newScore = score === v ? 0 : v;
-      useStore.getState().updateFortuneScore(localDateStr, newScore);
+      const newDailyText = fortuneZodiac
+        ? getDailyText(fortuneZodiac, qualityId, newScore)
+        : null;
+      useStore
+        .getState()
+        .updateFortuneScore(localDateStr, newScore, newDailyText);
       setScore(newScore);
       setScored(true);
+      setText(newDailyText);
       if (fortuneZodiac) {
         setScoredText(
           buildScoredText(fortuneZodiac.trait, newScore, qualityId),
@@ -217,6 +232,7 @@ export function useDailyFortune(
     score,
     scored,
     scoredText,
+    text,
     dialogOpen,
     revealed,
     revealing,

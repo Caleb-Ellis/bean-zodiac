@@ -7,11 +7,16 @@ trait: reticent
 dish: Smoked edamame with bitter greens, unseasoned.
 quote: Better to remain silent and be bean than to speak and to remove all doubt.
 seasonalFortune: A season spent under low smoke. The reticent pod takes on the fire's character without comment, and the bitter greens beside it ask for nothing.
-facetMid: Smoke clings to the closed pod. You hear the room out fully before offering the one sentence you came in with.
-facetHigh: Bitter greens, undressed on the plate. Texts sit read for a day; when the reply comes it is shorter than expected and exactly right.
 facetMost: The pod, charred shut, keeps its bean intact. You sleep through the argument you could have won and wake unbothered that the verdict went the other way.
+fortuneMost: Say nothing — what you know is fully present without being stated.
+facetHigh: Bitter greens, undressed on the plate. Texts sit read for a day; when the reply comes it is shorter than expected and exactly right.
+fortuneHigh: Let the silence carry what words would only diminish.
+facetMid: Smoke clings to the closed pod. You hear the room out fully before offering the one sentence you came in with.
+fortuneMid: Hold it — the understanding does not need to be shared yet.
 facetLow: Smoke escapes wherever the lid lifts. Receipts, half-finished thoughts, a borrowed jacket — your rooms hold the runoff of every conversation you meant to wrap up.
+fortuneLow: Say what you know; it is being asked for directly, and the silence is not landing as depth.
 facetLeast: Edamame heaped, greens twice-dressed, a story told before the fork lands. You narrate the walk over so the host knows the shape of your week before sitting.
+fortuneLeast: Speak before the wrong conclusion gets any further — what you have not said is already being acted on.
 ---
 
 Charcoal Edamame are the Bean Zodiac's most reticent — they see the situation immediately, and they say very little about it.

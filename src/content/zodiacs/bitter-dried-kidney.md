@@ -7,11 +7,16 @@ trait: hardened
 dish: Louisiana Red Beans and Rice - with mustard greens.
 quote: What lies behind us and what lies before us are tiny matters compared to what lies between beans.
 seasonalFortune: The pot dries to its essentials; mustard cures on the stem. What survives the long simmer keeps through winter; softness is the first thing the heat takes.
-facetMid: Nothing porous sits out on your counters. Rooms kept lean, edges squared — no cushion left where the weather could find a seam.
-facetHigh: Apologies steep in you like beans in cold water. The debt is acknowledged; the settling waits its hour, and the hour is rarely soon.
 facetMost: Brine takes weeks; you take longer. Grudges, recipes, the answer to a hard question — all set aside to cure until the salt has done its work.
+fortuneMost: Every hardship has been converted — nothing remains that has not been tested and held.
+facetHigh: Apologies steep in you like beans in cold water. The debt is acknowledged; the settling waits its hour, and the hour is rarely soon.
+fortuneHigh: What would have broken something else has only made you denser — let it show.
+facetMid: Nothing porous sits out on your counters. Rooms kept lean, edges squared — no cushion left where the weather could find a seam.
+fortuneMid: The difficulty has added density, not damage — carry it forward as strength.
 facetLow: The mustard leaf wilts at first warmth; so do you. Strangers reach the tender part of a conversation within the hour, and you let them.
+fortuneLow: Set something down today; not every weight you can carry is one you should.
 facetLeast: Louisiana humidity finds the give in you. Skin, mood, sleep — all yield to the room's weather; you have never built a callus that lasted.
+fortuneLeast: Let someone in — the density that protects you is also what is keeping out the good stuff.
 ---
 
 Desiccated Kidney Beans are the Bean Zodiac's most hardened — each season of difficulty has added density, not damage.

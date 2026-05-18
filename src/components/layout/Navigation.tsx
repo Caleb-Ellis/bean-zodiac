@@ -1,10 +1,9 @@
 import { Link, useLocation } from "@tanstack/react-router";
 
 const links = [
-  { href: "/beans", label: "Meet the Beans" },
-  { href: "/flavours", label: "Taste the Flavours" },
-  { href: "/forms", label: "Become the Forms" },
-  { href: "/compatibility", label: "Match Beans" },
+  { href: "/beaniary", label: "The Beaniary", match: (p: string) => p.startsWith("/beaniary") },
+  { href: "/beanstalk", label: "The Beanstalk", match: (p: string) => p.startsWith("/beanstalk") },
+  { href: "/compatibility", label: "Match Beans", match: (p: string) => p.startsWith("/compatibility") },
 ];
 
 export function Navigation() {
@@ -16,11 +15,11 @@ export function Navigation() {
         <span style={{ filter: "brightness(0) invert(1)" }}>🫘</span> The Bean Zodiac
       </Link>
       <ul className="hidden md:flex gap-6 list-none m-0 p-0">
-        {links.map(({ href, label }) => (
+        {links.map(({ href, label, match }) => (
           <li key={href}>
             <Link
               to={href}
-              className={`link text-base${pathname.startsWith(href) ? " active" : ""}`}
+              className={`link text-base${match(pathname) ? " active" : ""}`}
             >
               {label}
             </Link>

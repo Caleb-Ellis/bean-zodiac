@@ -8,10 +8,15 @@ dish: Kottu roti with kidney beans - Sri Lankan stir-fried roti with chili and c
 quote: Any bean can be angry — that is easy. But to be angry with the right person, to the right degree, at the right time, for the right purpose — that is not easy.
 seasonalFortune: A season ruled by the griddle's clatter. Roti gets chopped under a hot blade, chili meets oil, and the kitchen runs on quick weather — bright, loud, gone.
 facetMost: Blades on iron, chili hitting fat. You start the work loud and let everyone hear it; the draft argues back, and you keep cutting until it answers.
+fortuneMost: Everything will run at the highest heat — feel it completely and take full responsibility for its wake.
 facetHigh: A scrape of steel announces you. At the table you raise the temperature on purpose — one sharp question into a polite room, then watching what curls.
+fortuneHigh: The full temperature is here; let it run and then own the aftermath.
 facetMid: Curry-stained thumb on the screen. You fire off the reply while it still smokes; the careful version, drafted later, never gets sent.
+fortuneMid: Let it run. The temperature is real and the aftermath is manageable.
 facetLow: Roti softening slowly under a cloth. You sit on the thing that stung you for a day, two days, until the edge has gone out of it.
+fortuneLow: Lower the temperature before engaging; everything coming through is being read as heat before it lands.
 facetLeast: Coriander cooling on a windowsill. You notice the room sour before it shows, lower the flame in yourself, and the weather passes through without catching.
+fortuneLeast: Wait it out before pressing further; the decision about what is arriving has been made and nothing will move it.
 ---
 
 Red-Hot Kidney Beans are the Bean Zodiac's most temperamental — heat doubling on itself creates immediate intensity.

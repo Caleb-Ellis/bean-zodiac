@@ -80,6 +80,11 @@ export type ZodiacSchema = {
   facetMid: string;
   facetHigh: string;
   facetMost: string;
+  fortuneLeast: string;
+  fortuneLow: string;
+  fortuneMid: string;
+  fortuneHigh: string;
+  fortuneMost: string;
 };
 
 export type Bean = BeanSchema & { content: string };

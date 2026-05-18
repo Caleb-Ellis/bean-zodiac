@@ -7,11 +7,16 @@ trait: scholarly
 dish: Cannellini in aged pecorino broth with bitter cicoria.
 quote: I have not failed. I have just found ten thousand ways that will not produce a bean.
 seasonalFortune: A wheel of pecorino bitters slowly in its rind; the season rewards what has been kept in the dark and turned, occasionally, by a steady hand.
-facetMid: Cicoria hung to wilt above the shelf. You keep the book whose margins are already crowded, because the second pass finds what the first walked past.
-facetHigh: A tab open three weeks, broth darkening on the back burner. You follow the footnote, then the footnote's footnote, and emerge holding something nobody asked you to bring.
 facetMost: Pecorino sharpened by years in its own salt. You finish the essay nobody commissioned, every citation in place, and only then consider who the room is.
+fortuneMost: Follow it all the way to the bottom — no premise left unexamined, no implication left unfollowed.
+facetHigh: A tab open three weeks, broth darkening on the back burner. You follow the footnote, then the footnote's footnote, and emerge holding something nobody asked you to bring.
+fortuneHigh: Go deeper into the subject; the conclusion is not yet available.
+facetMid: Cicoria hung to wilt above the shelf. You keep the book whose margins are already crowded, because the second pass finds what the first walked past.
+fortuneMid: Stay with the source material — there is more in it than the first pass found.
 facetLow: The cicoria goes in while still bright. You answer the message before the kettle finishes; the cost of being wrong here is small, and the day is moving.
+fortuneLow: Give the practical answer and skip the footnotes; the room needs the conclusion, not the method.
 facetLeast: Quick broth, bread torn, friends already at the door. You meet the stranger and ask the obvious question first — the long one can wait or never come.
+fortuneLeast: Act before the research is complete — imperfect movement beats perfect understanding that arrives too late.
 ---
 
 Cultured Cannellini Beans are the Bean Zodiac's most scholarly — they have a devoted relationship with knowledge, surfacing only when conclusion-ready.

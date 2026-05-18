@@ -8,10 +8,15 @@ dish: Tempura - green beans with bitter matcha salt.
 quote: Nothing great in the world was ever achieved without beans!
 seasonalFortune: A season of hot oil and short windows. The batter sets the instant it meets the pan, and the days reward whoever is already standing at the stove.
 facetMost: Oil cracks; the bean is in mid-air before the thought lands. You answer every thread the second it lights up, half-finished sentences scattering like sparks.
+fortuneMost: Everything in you is pointed at this — give it the full sprint without holding anything back.
 facetHigh: Matcha dust drifts onto a stranger's plate. You introduce yourself to the person beside you in the line, the elevator, the waiting room — and mean it.
+fortuneHigh: Full enthusiasm, full speed — this is exactly what it was built for.
 facetMid: Batter hits oil with a small green shock. You start the new thing the night you hear about it, three tabs open, the kitchen still smelling of the last one.
+fortuneMid: The energy is there — direct it at what is in front of you.
 facetLow: Salt waits in its dish until the bean is plated. You let the email sit a day, the invitation sit a week; the answer is sharper for the steeping.
+fortuneLow: Slow down and match the room's pace; the energy is good but the gap is getting too wide.
 facetLeast: The pan cools on a back burner, matcha settling in a green ring. You keep one room dim, one shelf bare, one evening with nothing scheduled on it.
+fortuneLeast: Bring it all the way down — full calm, full quiet, and let someone else set the tempo for now.
 ---
 
 Scorched Green Beans are the Bean Zodiac's most excitable — they bring full enthusiasm with clear direction.

@@ -15,15 +15,13 @@ import BeanBadge from "../../zodiac/BeanBadge";
 import FlavourBadge from "../../zodiac/FlavourBadge";
 import FormBadge from "../../zodiac/FormBadge";
 import ZodiacName from "../../zodiac/ZodiacName";
-import FortuneScoreBadge from "../../zodiac/FortuneScoreBadge";
 import Divider from "../../ui/Divider";
-import { type DailyFortune } from "./useDailyFortune";
+import FortuneScoreBadge from "../../zodiac/FortuneScoreBadge";
 
 interface Props {
   data: AllZodiacData;
   date: Date;
   claimedSlug: ZodiacId;
-  fortune: DailyFortune;
   onRelinquish: () => void;
 }
 
@@ -31,7 +29,6 @@ export default function ClaimedHomeContent({
   data,
   date,
   claimedSlug,
-  fortune,
   onRelinquish,
 }: Props) {
   const [flavourId, formId, beanId] = claimedSlug.split("-") as [
@@ -64,7 +61,6 @@ export default function ClaimedHomeContent({
   if (!bean || !flavour || !form) return null;
 
   const preparation = getPreparationName(flavourId, formId);
-  const { dialogOpen } = fortune;
 
   const localDateStr = `${date.getFullYear()}-${String(date.getMonth() + 1).padStart(2, "0")}-${String(date.getDate()).padStart(2, "0")}`;
   const todayEntry = useStore((s) =>
@@ -84,8 +80,7 @@ export default function ClaimedHomeContent({
       ? getPreparationName(fortuneFlavourId, fortuneFormId)
       : "";
   const qualityId = todayEntry?.qualityId;
-  const fortuneText = todayEntry?.text ?? null;
-  const score = todayEntry?.score ?? 0;
+  const text = todayEntry?.text ?? null;
 
   const handleRelinquish = () => {
     if (
@@ -112,7 +107,7 @@ export default function ClaimedHomeContent({
               You have received the Bean's Wisdom
             </p>
             <div className="flex flex-col gap-6 w-full">
-              <div className="flex items-center gap-4 sm:gap-6 w-full">
+              <div className="flex flex-col sm:flex-row items-center gap-4 sm:gap-6 w-full">
                 <a
                   href={`/zodiacs/${storedZodiacId}`}
                   className="shrink-0 block no-underline"
@@ -125,26 +120,35 @@ export default function ClaimedHomeContent({
                     qualityId={qualityId}
                   />
                 </a>
-                <div className="relative flex flex-col items-start gap-2 min-w-0 overflow-hidden">
-                  <p className="text-sm sm:text-base font-bold uppercase tracking-widest text-zinc-200 text-left mb-2">
-                    <ZodiacName
-                      flavourId={fortuneFlavourId}
-                      formId={fortuneFormId}
-                      beanId={fortuneBeanId}
-                      preparation={fortunePreparation}
-                      beanName={fortuneBean.name}
-                      zodiacId={storedZodiacId}
-                      qualityId={qualityId}
-                    />
-                  </p>
-                  {fortuneText ? (
-                    <p className="italic text-zinc-200 sm:text-lg text-left mb-1 sm:mb-2">
-                      "{fortuneText}"
+                <div className="relative flex flex-col items-center sm:items-start gap-4 min-w-0 overflow-hidden">
+                  <div className="flex flex-wrap items-center justify-center gap-4">
+                    <p className="text-sm sm:text-base font-bold uppercase tracking-widest text-zinc-200 text-left">
+                      <ZodiacName
+                        flavourId={fortuneFlavourId}
+                        formId={fortuneFormId}
+                        beanId={fortuneBeanId}
+                        preparation={fortunePreparation}
+                        beanName={fortuneBean.name}
+                        zodiacId={storedZodiacId}
+                        qualityId={qualityId}
+                      />
                     </p>
-                  ) : (
-                    <div className="h-5 w-56 bg-zinc-800 rounded-full animate-pulse mb-1 sm:mb-2" />
+                    {todayEntry?.score !== undefined &&
+                      todayEntry.score !== 0 && (
+                        <FortuneScoreBadge score={todayEntry.score} size="sm" />
+                      )}
+                  </div>
+                  {text && (
+                    <p className="italic text-zinc-200 sm:text-lg text-center sm:text-left">
+                      "{text}"
+                    </p>
                   )}
-                  {!dialogOpen && <FortuneScoreBadge score={score} size="md" />}
+                  <a
+                    href={`/beanstalk#fortune-${localDateStr}`}
+                    className="text-sm text-zinc-400 hover:text-zinc-200 underline transition-colors"
+                  >
+                    View in Beanstalk →
+                  </a>
                 </div>
               </div>
             </div>
@@ -175,18 +179,6 @@ export default function ClaimedHomeContent({
           />
         </div>
         <div className="flex flex-row flex-wrap justify-center items-center gap-2 text-sm text-zinc-400 mb-4 sm:mb-6">
-          <a
-            href="/beaniary"
-            className="flex items-center gap-1.5 px-3 py-1.5 rounded-full bg-zinc-900 border-2 border-zinc-700 hover:border-zinc-500 transition-colors no-underline text-zinc-300"
-          >
-            🫘&nbsp; The Beaniary
-          </a>
-          <a
-            href="/beanstalk"
-            className="flex items-center gap-1.5 px-3 py-1.5 rounded-full bg-zinc-900 border-2 border-zinc-700 hover:border-zinc-500 transition-colors no-underline text-zinc-300"
-          >
-            🪴&nbsp; The Beanstalk
-          </a>
           <a
             href={`/zodiacs/${claimedSlug}`}
             className="flex items-center gap-1.5 px-3 py-1.5 rounded-full bg-zinc-900 border-2 border-zinc-700 hover:border-zinc-500 transition-colors no-underline text-zinc-300"

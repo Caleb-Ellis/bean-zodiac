@@ -8,10 +8,15 @@ dish: Oshiruko - Japanese sweet adzuki soup with toasted rice cake floating on t
 quote: Life is what happens to you while you're busy making other beans.
 seasonalFortune: A season of slow simmer, where the sweetness rises late. The pot holds longer than expected, and small warmths accumulate beneath ordinary days.
 facetMost: Toasted mochi crowns the bowl. You ladle the deepest portion for the guest who arrived last, and you keep ladling.
+fortuneMost: The joy you are feeling is real and it is enough — let it into everything, not just the occasion.
 facetHigh: You wake with the warmth already in you, before the kettle, before the window. The day finds you already steeping.
+fortuneHigh: Your gladness is contagious — do not keep it to yourself.
 facetMid: A stranger asks the time. You answer, and you ask one back; the bowl passes both ways.
+fortuneMid: Let the small moment land before moving to the next one.
 facetLow: Sweetness, offered too early, thins. You let the pot sit covered, and speak only after the rice cake has browned.
+fortuneLow: There is no opening for brightness here — meet what is present before offering your own.
 facetLeast: Grey light through the window, and you settle into it. The unsweetened broth suits you; you do not reach for sugar.
+fortuneLeast: Pull it back — your brightness is landing as evasion, not presence.
 ---
 
 Candied Adzuki Beans are the Bean Zodiac's most joyful — joy as constitutional orientation, not occasion.

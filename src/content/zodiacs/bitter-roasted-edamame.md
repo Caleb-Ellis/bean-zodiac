@@ -7,11 +7,16 @@ trait: witty
 dish: Roasted edamame with bitter lemon zest and smoked paprika.
 quote: A bean is a terrible thing to waste.
 seasonalFortune: A season of warm smoke threaded with cold zest. The air rewards the remark that arrives blistered at the edges and salted at the center, never the one shouted plain.
-facetMid: Paprika clings to a split shell. Your replies in the thread land sideways, and the group chat quotes you back to yourself by morning.
-facetHigh: Zest meets heat at the rim of the pan. You hold court at the edge of the room, trading the shortest sentences and collecting the longest laughs.
 facetMost: Wood-fire as your whole vocabulary. Draft the line, salt it, send it; the page is the pod and the pod is already cracked open before anyone reads.
+fortuneMost: Everything here has an edge — find each one and use it without pulling a single punch.
+facetHigh: Zest meets heat at the rim of the pan. You hold court at the edge of the room, trading the shortest sentences and collecting the longest laughs.
+fortuneHigh: The sharpest version is available; deliver it at full precision.
+facetMid: Paprika clings to a split shell. Your replies in the thread land sideways, and the group chat quotes you back to yourself by morning.
+fortuneMid: Find the angle — it is there, and the room will be better for it.
 facetLow: The receipt is read aloud, item by item. You return the wrong size without a story attached, pay what is owed, and leave the lemon on the counter.
+fortuneLow: Drop the angle and say it straight; the room came for the answer, not the performance.
 facetLeast: Bean, shell, salt, dinner. You set the table the way the recipe prints it, serve the smoke without comment, and call early evening a fine hour to sleep.
+fortuneLeast: Put the wit down entirely and just tell them — the sharpness is getting in the way of the thing itself.
 ---
 
 Wood-Fired Edamame are the Bean Zodiac's wittiest — they are sharp without making others feel small.

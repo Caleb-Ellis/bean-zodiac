@@ -8,10 +8,15 @@ dish: Muhammara - roasted fava and bitter herbs.
 quote: Well-bean is that which is done for the first time.
 seasonalFortune: A season ground in the stone before the stone has a name. Bitter herb meets charred fava and the paste invents its own colour; whoever tastes it tastes the edge of somewhere unmapped.
 facetMost: No recipe under the pestle, only the smell of char finding its bearings. You are the one who begins the thing nobody has asked for yet, and trusts the smoke.
+fortuneMost: Go where no one has yet — this is exactly the terrain you were built for.
 facetHigh: The fava goes into the flame before the others have lit theirs. First into the empty room, first to suggest the route — pace set, the rest catch up.
+fortuneHigh: Go further than last time; the path you open is the one others will use.
 facetMid: Walnut shifted to the near shelf, pomegranate to the sill, knives where the spoons used to live. You rearrange a room until it argues back.
+fortuneMid: Move into the unmapped territory — that is where the work is.
 facetLow: A bitter herb tucked exactly where it sat last year. You cook the familiar supper on the familiar night, and the table is steady under the same plates.
+fortuneLow: Take the known path today; the experience behind that recommendation is real and worth something.
 facetLeast: Pomegranate already split, char already done by the hand ahead of you. You wait until three people have replied before you send anything; the thread does the scouting.
+fortuneLeast: Return to the tried thing and stay there — this is not the moment to open new ground.
 ---
 
 Wood-Fired Fava Beans are the Bean Zodiac's most pioneering — they venture into unmapped territory.

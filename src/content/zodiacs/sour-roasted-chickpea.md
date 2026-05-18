@@ -8,10 +8,15 @@ dish: Fatteh - toasted flatbread layered with roasted chickpeas, yogurt, and pom
 quote: The bean mind is like a parachute — it only works when open.
 seasonalFortune: A season when the flatbread softens under what is poured over it. Old certainties go pleasantly soggy; the household acquires unfamiliar guests, unfamiliar molasses.
 facetMost: Pomegranate molasses thinned by yogurt. At the table you pull the loudest dissenter closer and ask them to keep going.
+fortuneMost: Revise completely — the original position was a starting point, and this is the thing it was pointing toward.
 facetHigh: The chickpea splits along a seam it didn't know it had. You finish a draft, hear one good objection, and rewrite the spine.
+fortuneHigh: Let the position shift; the new version is better.
 facetMid: Tabs left open like layers of fatteh. Three arguments against your position stay pinned for weeks; you reread them before deciding anything.
+fortuneMid: The other view is worth taking seriously — stay with it longer than feels comfortable.
 facetLow: Bread that refuses the soak. Your room sits the way it sat last year — one chair, one angle, no rearranging for visitors.
+fortuneLow: Pick a position and stay in it; holding things loosely is reading as uncertainty and the room wants something solid.
 facetLeast: A chickpea roasted past yielding. Sunday is Sunday; the route to work is the route; suggestions slide off like oil from a hot pan.
+fortuneLeast: Stop revising. Someone less moveable has been brought in because the revisions were the unreliability.
 ---
 
 Chimichurri Chickpeas are the Bean Zodiac's most open-minded — they consider new ideas with genuine interest.

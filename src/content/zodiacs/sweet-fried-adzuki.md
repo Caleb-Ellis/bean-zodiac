@@ -7,11 +7,16 @@ trait: exuberant
 dish: Jin deui — fried glutinous rice sesame balls with sweet adzuki paste inside, golden and crisp and rolling.
 quote: It's beanin' time!
 seasonalFortune: Oil hits batter and the kitchen goes loud. A season for arrivals that come rolling in, sesame-flecked, refusing to enter a room without announcing themselves first.
-facetMid: Glutinous shell holding three fillings at once. Your group chats stack and stack; every reply lands warm, before the last one has cooled.
-facetHigh: A pan still ticking on the stove. You leave rooms mid-sentence and mid-bright — lamps on, music playing for no one in particular.
 facetMost: Sesame everywhere, even in your coat seams. Your work leaves the studio before it's dry; whoever's nearest gets handed the warm half.
+fortuneMost: Release it completely — the exuberance is the gift and it belongs everywhere.
+facetHigh: A pan still ticking on the stove. You leave rooms mid-sentence and mid-bright — lamps on, music playing for no one in particular.
+fortuneHigh: The energy you are bringing is the thing that gets things moving — let it.
+facetMid: Glutinous shell holding three fillings at once. Your group chats stack and stack; every reply lands warm, before the last one has cooled.
+fortuneMid: Bring the full enthusiasm — it is welcome here.
 facetLow: Dough that rests is dough that holds. You keep your own clock, and the people rushing past don't quite reach where you are.
+fortuneLow: Pull it back; the energy has exceeded what the moment can hold.
 facetLeast: A sesame seed falls without sound. You prefer the hush after the frying — kitchen cooling, one lamp, no one needing anything.
+fortuneLeast: Quiet down; everything has been filled past capacity and there is no space left.
 ---
 
 Caramelised Adzuki Beans are the Bean Zodiac's most exuberant — celebration that happens before anyone decides to measure it.

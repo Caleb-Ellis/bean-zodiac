@@ -21,6 +21,7 @@ export default function FortuneDialog({ data, fortune }: Props) {
     fortuneText,
     scored,
     scoredText,
+    text,
     revealed,
     revealing,
     scoringOut,
@@ -105,13 +106,20 @@ export default function FortuneDialog({ data, fortune }: Props) {
               ✕
             </button>
 
-            {fortuneZodiac ? (
-              <p className="text-zinc-300 text-sm sm:text-base text-center">
-                {fortuneZodiac.dish}
-              </p>
-            ) : (
-              <div className="h-4 w-48 bg-zinc-800 rounded-full animate-pulse" />
-            )}
+            {!scored &&
+              (fortuneZodiac ? (
+                <p
+                  className="text-zinc-300 text-sm sm:text-base text-center"
+                  style={{
+                    opacity: scoringOut ? 0 : 1,
+                    transition: "opacity 350ms",
+                  }}
+                >
+                  {fortuneZodiac.dish}
+                </p>
+              ) : (
+                <div className="h-4 w-48 bg-zinc-800 rounded-full animate-pulse" />
+              ))}
 
             {!revealed ? (
               <div
@@ -140,7 +148,7 @@ export default function FortuneDialog({ data, fortune }: Props) {
                   >
                     {fortuneText ? (
                       <p className="italic text-zinc-200 text-center sm:text-base animate-fade-up mb-2">
-                        "{fortuneText}"
+                        {fortuneText}
                       </p>
                     ) : (
                       <div className="h-5 w-56 bg-zinc-800 rounded-full animate-pulse" />
@@ -168,8 +176,13 @@ export default function FortuneDialog({ data, fortune }: Props) {
                     className="flex flex-col items-center gap-4 animate-fade-up"
                   >
                     {scoredText && (
+                      <p className="text-zinc-300 text-sm sm:text-base text-center">
+                        {scoredText}
+                      </p>
+                    )}
+                    {text && (
                       <p className="italic text-zinc-200 text-center sm:text-base mb-2">
-                        "{scoredText}"
+                        "{text}"
                       </p>
                     )}
                     <div className="flex items-center gap-6">

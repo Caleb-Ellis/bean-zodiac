@@ -8,10 +8,15 @@ dish: Caldo Verde - kidney beans and kale.
 quote: The bean that matters most is not the one you were born with, but the one you choose to keep.
 seasonalFortune: A long pot kept low, kale folded in late. The kitchen runs at the pace of the slowest ingredient, and what stays in the broth all afternoon is what feeds anyone by evening.
 facetMost: Kale stripped from its rib, one leaf at a time. You answer the same friend's calls a decade after everyone else stopped picking up, and the hour it costs is not an hour you count.
+fortuneMost: Stay; the depth of this commitment needs no explanation and will not accept one.
 facetHigh: The pot you started Sunday morning, still on the back burner. When a name comes up you haven't heard in years, you already know which winter they lost their mother.
+fortuneHigh: Ask whether you are staying because it serves them or because leaving is harder.
 facetMid: A bean held under broth, soft but unbroken. You keep the standing dinner with the friend who cancels half the time; the table is set anyway.
+fortuneMid: The commitment you made still holds — honor it without being asked.
 facetLow: Salt thrown in late, kale wilting fast. You let the group thread go quiet for months and feel no pull to revive it; the ones who matter find you by other doors.
+fortuneLow: Take the exit; not every commitment that felt right still is.
 facetLeast: A broth ladled out before it deepens. You leave the job, the city, the standing order without looking back, and the next pot is already on the flame.
+fortuneLeast: Let it go — staying past this point is not devotion, it is just inertia with a better story.
 ---
 
 Infused Kidney Beans are the Bean Zodiac's most loyal — they commit completely and stay, long after others leave.

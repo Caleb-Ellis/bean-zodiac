@@ -7,11 +7,16 @@ trait: bookish
 dish: Senate Bean Soup - with aged ham and bitter dandelion greens.
 quote: Outside of a bean, a book is a man's best friend. Inside of a bean, it is too dark to read.
 seasonalFortune: A long-cured broth deepens in the dark of the pantry; private reading thickens into something a stranger's spoon will eventually want to taste.
-facetMid: Dandelion greens steep sharper the longer they sit. In conversation you wait, then place the sourced sentence that ends the disagreement.
-facetHigh: The ham hock gives up its salt slowly, page by page. Forty tabs stay open across three devices; nothing closes until the through-line surfaces.
 facetMost: A shelf of jars, each label a citation in your own hand. You annotate the margins of borrowed books and shelve them by argument, not author.
+fortuneMost: Go all the way into the material — follow every footnote, trace every reference, leave nothing unread.
+facetHigh: The ham hock gives up its salt slowly, page by page. Forty tabs stay open across three devices; nothing closes until the through-line surfaces.
+fortuneHigh: Read further into it; the argument in your head has a better version somewhere in print.
+facetMid: Dandelion greens steep sharper the longer they sit. In conversation you wait, then place the sourced sentence that ends the disagreement.
+fortuneMid: Find the source — there is a text that has already worked this through.
 facetLow: Broth asks for stillness; you ask for a walk. The shin remembers the slope before any chapter could describe it.
+fortuneLow: Answer from memory and keep moving; the text can be checked after the moment has passed.
 facetLeast: Senate Bean Soup learned by wrist, not recipe — you fix the leaking tap, rewire the lamp, and trust the hand that already knows.
+fortuneLeast: Close the book and act on what you already know — more reading will not improve what needs doing right now.
 ---
 
 Cultured Navy Beans are the Bean Zodiac's most bookish — they build understanding from reading and carry it privately.

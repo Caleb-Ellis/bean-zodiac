@@ -8,10 +8,15 @@ dish: Boston baked navy beans with apple cider vinegar, whole grain mustard, and
 quote: The bean doth protest too little, methinks.
 seasonalFortune: Brown sugar dissolves into the pot hours before anyone tastes it. The season belongs to slow workers whose contributions are noticed only in their absence.
 facetMost: Mustard seed asks no thanks for the bite it gives. You finish the work, leave it on the table, and walk out before anyone looks up.
+fortuneMost: Reduce it to the minimum — the single thing that carries the whole meaning, and nothing else.
 facetHigh: Cider vinegar arrives without ceremony. You enter rooms by the side door, already two sentences into the answer someone needed.
+fortuneHigh: Say less; the weight is in what is held back.
 facetMid: A long bake, a short word at the door. You feed six people and mention the recipe to none of them.
+fortuneMid: The quieter version is the stronger one — use it.
 facetLow: The pot wants the whole stove. You arrive announced, dressed for the photograph, and the room reorganises around your arrival.
+fortuneLow: Give them more than usual; the held-back version is reading as insufficient and the room is asking directly.
 facetLeast: Sugar on the rim before the first sip. Every thought reaches the group chat before it reaches you, annotated and stickered.
+fortuneLeast: A louder voice has been brought in. Say what you mean out loud this time, or nothing will land.
 ---
 
 Chimichurri Navy Beans are the Bean Zodiac's most understated — they offer much without announcement.

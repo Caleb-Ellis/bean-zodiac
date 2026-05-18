@@ -8,10 +8,15 @@ dish: Frijoles refritos con chorizo - pinto beans fried in lard with Mexican cho
 quote: I am not bean enough to make promises I cannot keep.
 seasonalFortune: Lard renders twice before it sets. A pinto's word burns bright at first heating and steadies, if at all, on the second pass through the fat.
 facetMost: Chorizo spits in the pan and you swear to anything. At the bar you pledge weekends, trips, favors; by morning the fat has cooled and the words with it.
+fortuneMost: Say exactly what you can do and nothing more; precision here is the whole of the gift.
 facetHigh: Lard pools at the rim. You answer the message the instant it arrives with whatever the moment wants to hear, and the threads stack unfinished by Thursday.
+fortuneHigh: Make the commitment with a margin — what you promise with a little room is what you can keep.
 facetMid: Ancho softens slow under heat; you name an hour and arrive whenever the day releases you. The people who love you have stopped expecting you on time.
+fortuneMid: Pause before committing; the intention is real but the distance matters.
 facetLow: The bean takes the oil only when it's ready. What you owe gets paid the week it lands; nothing carries from one month into the next.
+fortuneLow: Account for the distance before the next commitment; the ask is for something that will hold.
 facetLeast: Refried beans need a second pass through the fat to set. You promise Saturday dinner and Saturday the pot is on by six; the hour holds.
+fortuneLeast: Name the pattern before it is named for you; the unreliability is being tracked and the moment to speak to it is here.
 ---
 
 Tempura Pinto Beans are the Bean Zodiac's most unreliable — they mean everything they promise in the moment.

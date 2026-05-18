@@ -8,10 +8,15 @@ dish: Red beans and rice - Louisiana kidney beans with smoked andouille, celery,
 quote: Full of sound and bean, signifying everything.
 seasonalFortune: A season for the long simmer; the pot tended for hours carries a low heat under everything its keeper does, and the rooms they pass through hold the scent.
 facetMost: Andouille darkens the pot before it speaks. You answer an email three days late, in two sentences, and the recipient understands exactly where they stand.
+fortuneMost: Hold the full intensity — the depth of what is seething in you is the measure of how much you care.
 facetHigh: Bay leaf left in too long. You keep an old grievance folded behind the dish towels — never aired, never tossed, available.
+fortuneHigh: Let it build to its full pressure — what you are holding has earned the full weight of your feeling.
 facetMid: Celery softening at the bottom of the pan; you walk twice as far as needed after a hard call, until the pavement takes the edge off your hands.
+fortuneMid: Feel the heat — the intensity you are carrying is real and it has been building.
 facetLow: Quick steam off a fresh pot. You say the unkind thing in the room it belongs to, then ask about the dog.
+fortuneLow: Bring the surface down; the intensity beneath is starting to show and calm is what is being expected.
 facetLeast: Hickory passing through an open window. You forget which friend slighted you last spring; by autumn you are at their kitchen counter, chopping onions.
+fortuneLeast: Name what is seething; the contained feeling is visible and the question of what is wrong is being asked directly.
 ---
 
 Hickory Kidney Beans are the Bean Zodiac's most seething — the passion has gone down to a temperature that is not visible from the surface but can be felt from across the room.

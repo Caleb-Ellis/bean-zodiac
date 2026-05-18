@@ -8,10 +8,15 @@ dish: Black beans with douchi sauce, Chinkiang vinegar, and garlic.
 quote: We don't see things as they are, we see them as bean.
 seasonalFortune: A jar of douchi darkens on the shelf, gathering meaning the cook did not put there. The season rewards what was left long enough to deepen.
 facetMost: Chinkiang vinegar finds the seam in a crowded room. You watch from the wall and know who arrived already wounded, who is pretending otherwise.
+fortuneMost: The full picture is already assembled — deliver it, and let the room catch up.
 facetHigh: Garlic, slow-cured, sharpens by the week. You collect small inconsistencies for months before saying anything; by then the shape is undeniable.
+fortuneHigh: The thing forming in the background is visible to you; stay with what you see.
 facetMid: Black beans pushed to the back of the drawer keep darkening. You notice when a friend rearranges their bookshelf, and what they moved out of reach.
+fortuneMid: What you have been noticing is real — trust the read.
 facetLow: Douchi takes years; you prefer the bean unfermented. A message says what it says — you answer it, close the tab, and trust the plain reading.
+fortuneLow: Pull back; you have seen enough, and continuing to look is making people uncomfortable.
 facetLeast: Surface brine, no sediment. You move through weather as weather, take a room at its volume, and find the obvious version is usually the right one.
+fortuneLeast: Stop watching entirely. They have noticed and the doors are closing.
 ---
 
 Pickled Black Beans are the Bean Zodiac's most perceptive — they have been watching in the dark for a long time.

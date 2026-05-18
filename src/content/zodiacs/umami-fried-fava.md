@@ -8,10 +8,15 @@ dish: Stir-fried fava beans with doubanjiang, ginger, and soy.
 quote: The best bean defense is a good offense.
 seasonalFortune: A season that runs hot. The wok smokes before the doubanjiang lands, and the days arrive at temperature, asking to be met there.
 facetMost: Ginger into hot oil. You cross the threshold mid-sentence, and the room finishes the sentence rearranging itself around where you have decided to stand.
+fortuneMost: Drive it all the way — the path is yours and the momentum is real.
 facetHigh: The pan still wants it. You answer the message before the kettle whistles, before the ask is finished — pause reads to you as waste heat.
+fortuneHigh: Apply the full force — the moment requires more than caution.
 facetMid: Soy hitting iron, no hesitation. When the bill is wrong you say so at the table, not in the car, not the next morning to a friend.
+fortuneMid: Push through — the forward movement you are committed to is the right one.
 facetLow: A fava left in the colander overnight. You let the slight sit; by morning the steam is gone and the reply you drafted reads now like somebody else's quarrel.
+fortuneLow: Ease the approach; the force is registering as more than the situation called for.
 facetLeast: Ginger steeped slow in cold water. You distrust the smoking wok. Force strikes you as a sign the cook miscalculated, not a sign of skill.
+fortuneLeast: Pull back; the push has landed as an attack and the pushback is already coming.
 ---
 
 Tempura Fava Beans are the Bean Zodiac's most aggressive — they press forward without waiting for the situation to open up.

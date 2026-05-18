@@ -8,10 +8,15 @@ dish: Edamame and wakame soup with citrus peel.
 quote: If you can't bean it, you can't manage it.
 seasonalFortune: A season for slow broths and slower verdicts. The fuzzed pod gives up its bead only to a steady thumb; what holds and what merely sits is told by pressure, not by looking.
 facetMost: Wakame laid flat on the board, every frond accounted for. You empty the drawer onto the counter before you'll admit a thing is missing, and rebuild it pile by pile.
+fortuneMost: Take it apart until the mechanism is fully visible — nothing should remain opaque when the method is applied completely.
 facetHigh: A pod split lengthwise, both halves studied. Forty-one unread messages and you are reading the third one for the fourth time, deciding what it actually asked.
+fortuneHigh: Where analysis ends, a single taste tells more than the next hour of reduction.
 facetMid: Citrus peel curled beside the bowl, no part wasted. You read the receipt line by line at the door, and the clerk waits while you find the charge that wasn't agreed.
+fortuneMid: The structure is visible — identify it before making the move.
 facetLow: Bitterness blooms in the broth without coaxing — wakame thrown in, lid on, dinner. You cook by glance and feel, and the people you feed do not notice a missing step.
+fortuneLow: Skip the reduction and taste it now — a good guess beats a late answer.
 facetLeast: A pod popped straight into the mouth, no ceremony. You take strangers at their word at the first telling, and the table moves on while someone else is still weighing it.
+fortuneLeast: Put the framework down and just decide; the moment has outpaced the method.
 ---
 
 Infused Edamame are the Bean Zodiac's most analytical — they take things apart to understand their structure.

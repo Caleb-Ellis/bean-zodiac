@@ -84,7 +84,7 @@ export default function BeaniaryPage({ data }: Props) {
     return (
       <div className="w-full max-w-4xl mx-auto flex flex-col gap-6 animate-fade-up">
         <section className="pt-12 text-center">
-          <h1 className="text-4xl sm:text-6xl font-bold mb-4">The Beaniary</h1>
+          <h1 className="text-2xl sm:text-4xl font-bold mb-4">Encountered Beans</h1>
         </section>
         <div className="flex items-center justify-center py-24">
           <div className="w-8 h-8 rounded-full border-2 border-zinc-700 border-t-blue-500 animate-spin" />
@@ -96,7 +96,7 @@ export default function BeaniaryPage({ data }: Props) {
   return (
     <div className="w-full max-w-4xl mx-auto flex flex-col gap-6 animate-fade-up">
       <section className="pt-12 text-center">
-        <h1 className="text-4xl sm:text-6xl font-bold mb-4">The Beaniary</h1>
+        <h1 className="text-4xl sm:text-6xl font-bold mb-4">Met Beans</h1>
       </section>
       <p className="text-lg font-bold text-center mb-2 sm:mb-4">
         You have met {sortedMetIds.length} cultivars of the Bean Zodiac.

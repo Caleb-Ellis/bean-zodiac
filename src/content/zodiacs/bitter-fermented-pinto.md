@@ -8,10 +8,15 @@ dish: Mole Negro - pinto beans with fermented chile and cacao.
 quote: Every bean is an artist. The problem is how to remain an artist once we grow up.
 seasonalFortune: The crock keeps its own counsel. What deepens in the dark of a long ferment only reveals its temper once a spoon is drawn through it.
 facetMost: Cacao darkens past sweetness into something else entirely. Make the thing that needed you bitter to exist; nobody else has the same crock.
+fortuneMost: Give it everything — make the thing only you can make, completely and without reserve.
 facetHigh: Chile-stain on every surface you touch. Half the room is arranged around a project no visitor would recognise as a project.
+fortuneHigh: Push further into the work; what is visible is not yet the full version.
 facetMid: You let the hour go long past useful, watching a colour shift you cannot yet name. The clock is a suggestion the mole ignores.
+fortuneMid: Make the thing — the conditions are good enough.
 facetLow: At the long table you say the obvious thing, and the obvious thing is the right one. No one needs a difficult guest tonight.
+fortuneLow: Make the faster version; craft applied to the wrong moment is still wasted.
 facetLeast: Weeknight supper, measured cup by measured cup. The recipe works because you trust it works; the kitchen is calm by the time you sit down.
+fortuneLeast: Strip it back to the functional thing and hand it over — the full version belongs to a different occasion.
 ---
 
 Cultured Pinto Beans are the Bean Zodiac's most artistic — they make something that could not exist without them.
