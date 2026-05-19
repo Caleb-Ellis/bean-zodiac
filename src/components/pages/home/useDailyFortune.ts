@@ -9,6 +9,7 @@ import {
 import {
   getDailyFortuneIds,
   getDailyText,
+  getFacetTitle,
   getFortuneText,
 } from "../../../lib/fortune";
 import { fetchZodiac } from "../../../lib/data";
@@ -39,7 +40,7 @@ function buildScoredText(
       `The ${trait} bean leaves nothing behind today.`,
     ]);
   }
-  if (adj >= 2) {
+  if (adj >= 3) {
     return pick([
       `The ${trait} bean knows you well. It says:`,
       `The ${trait} bean finds its full expression in you:`,
@@ -47,11 +48,11 @@ function buildScoredText(
       `The ${trait} bean recognises you wholly, and speaks:`,
     ]);
   }
-  if (adj === 1) {
+  if (adj >= 1) {
     return pick([
       `The ${trait} bean finds a flicker of itself in you. It says:`,
       `Something of the ${trait} bean stirs — it speaks:`,
-      `The ${trait} bean half-recognises you, and offers this:`,
+      `The ${trait} bean recognises you, and offers this:`,
       `A trace of the ${trait} bean speaks to you:`,
     ]);
   }
@@ -70,6 +71,7 @@ export interface DailyFortune {
   fortuneBeanId: BeanId;
   fortuneZodiac: Zodiac | null;
   qualityId: ReturnType<typeof getDailyFortuneIds>["qualityId"];
+  fortuneTitle: string | null;
   fortuneText: string | null;
   score: number;
   scored: boolean;
@@ -123,9 +125,7 @@ export function useDailyFortune(
   const [showQuality, setShowQuality] = useState(initiallyScored);
   const [qualityFading, setQualityFading] = useState(false);
   const [scoredText, setScoredText] = useState<string | null>(null);
-  const [text, setText] = useState<string | null>(
-    initialEntry?.text ?? null,
-  );
+  const [text, setText] = useState<string | null>(initialEntry?.text ?? null);
 
   useEffect(() => {
     fetchZodiac(fortuneZodiacId).then((fortune) => {
@@ -137,6 +137,7 @@ export function useDailyFortune(
         date: localDateStr,
         zodiacId: fortuneZodiacId,
         qualityId,
+        facetTitle: getFacetTitle(fortune, qualityId),
         facetText: getFortuneText(fortune, qualityId),
         score: 0,
         text: null,
@@ -217,6 +218,9 @@ export function useDailyFortune(
     setDialogOpen(false);
   };
 
+  const fortuneTitle = fortuneZodiac
+    ? getFacetTitle(fortuneZodiac, qualityId)
+    : null;
   const fortuneText = fortuneZodiac
     ? getFortuneText(fortuneZodiac, qualityId)
     : null;
@@ -228,6 +232,7 @@ export function useDailyFortune(
     fortuneBeanId,
     fortuneZodiac,
     qualityId,
+    fortuneTitle,
     fortuneText,
     score,
     scored,

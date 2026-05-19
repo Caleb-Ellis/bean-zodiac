@@ -7,16 +7,21 @@ trait: sarcastic
 dish: Pinto bean and tomatillo caldo with lime and serrano.
 quote: Sarcasm is the lowest form of wit but the highest form of bean.
 seasonalFortune: A season for caldos left to reduce. The tomatillo's tang sharpens against long heat, and what passes for weather has an aftertaste this year.
-facetMost: Lime cracks the surface of the broth. You answer the question asked, then the one underneath it, and the room rearranges around the second answer.
-fortuneMost: The room has set it up perfectly — say the thing, and trust that the timing has done its work.
-facetHigh: Serrano heat climbing late. A friend mistakes a slow text reply for distance; the reply, when it lands, is exact enough that they laugh first.
-fortuneHigh: The timing is now; the line that has been waiting is ready to land.
-facetMid: Tomatillo skin loosening in the simmer. You leave the louder voice in the room a beat of silence, and the silence does the editing for you.
-fortuneMid: The observation has been forming long enough — the moment for it is here.
-facetLow: Pintos softening past their shape. You take the compliment plainly, keep the receipt, send the thank-you note before the week turns.
-fortuneLow: The edge on what you are about to say is sharper than the moment calls for; blunt it slightly.
-facetLeast: A caldo poured without garnish. You greet the obvious thing as obvious, repeat instructions back without flourish, and trust the level tone to carry.
-fortuneLeast: Be sincere, immediately. Someone has taken you literally and is about to do something about it.
+facetMostTitle: Lime Cracking the Surface
+facetMost: You answer the question asked, then the one underneath it, and the room rearranges around the second answer.
+facetHighTitle: Serrano Heat, Arriving Late
+facetHigh: A friend mistakes a slow text reply for distance; the reply, when it lands, is exact enough that they laugh first.
+facetMidTitle: The Beat of Silence
+facetMid: You leave the louder voice in the room a beat of silence, and the silence does the editing for you.
+facetLowTitle: Pintos Past Their Shape
+facetLow: You take the compliment plainly, keep the receipt, send the thank-you note before the week turns.
+facetLeastTitle: Caldo Poured Without Garnish
+facetLeast: You greet the obvious thing as obvious, repeat instructions back without flourish, and trust the level tone to carry.
+fortuneMost: The punchline is teed up by someone else. Hit it once, cleanly, then shut up — the second swing kills it.
+fortuneHigh: The line arrives half a second early. Hold it. Comedy is patience disguised as wit.
+fortuneMid: Two beats of silence beats the joke you're holding. Let the silence land the punch.
+fortuneLow: Your usual edge will draw blood today. File it to a butter knife before you say anything.
+fortuneLeast: Drop the wink and say it straight. Sincerity is the move nobody saw you make.
 ---
 
 Brined Pinto Beans are the Bean Zodiac's most sarcastic — they waited until the timing was exactly right.

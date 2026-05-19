@@ -7,16 +7,21 @@ trait: wordless
 dish: Garbanzos con bacalao y pimentón ahumado - chickpeas with salt cod and smoked paprika.
 quote: Actions speak louder than bean.
 seasonalFortune: A season cured low and slow. Salt cod gives up its brine to the chickpea; paprika settles into corners; what passes between people this quarter travels by smoke, not by sentence.
-facetMost: Smoke finds the room before the cook does. You enter a gathering, pour a glass, and the friend in the corner already knows why you came.
-fortuneMost: Be entirely in what cannot be said — the deepest understanding lives past the reach of language, and this is where it lives.
-facetHigh: Paprika hangs in the doorway after the pan is washed. You notice the weather shifting an hour before anyone mentions the sky.
-fortuneHigh: Stay in the wordless place — what you know at this depth is real even without a name.
-facetMid: Salt cod soaking in a covered bowl on the counter. Asked how you are, you set down a plate instead of answering.
-fortuneMid: Let the knowing be enough — the words do not have to arrive for the understanding to be real.
-facetLow: Bright voices, bright captions. You narrate the chickpeas as they hit the oil, and the thread is better for the running commentary.
-fortuneLow: Find the language; what is being offered without words is not being received.
-facetLeast: Paprika measured by the quarter teaspoon, said aloud. You'd rather settle a debt with a clear receipt than with a glance across the table.
-fortuneLeast: Give the explanation; presence without speech is being read as withholding.
+facetMostTitle: Smoke Before the Cook
+facetMost: You enter a gathering, pour a glass, and the friend in the corner already knows why you came.
+facetHighTitle: Paprika Past the Washing
+facetHigh: You notice the weather shifting an hour before anyone mentions the sky.
+facetMidTitle: Salt Cod in Its Bowl
+facetMid: Asked how you are, you set down a plate instead of answering.
+facetLowTitle: Chickpeas Into the Oil
+facetLow: You narrate the chickpeas as they hit the oil, and the thread is better for the running commentary.
+facetLeastTitle: Paprika by the Quarter-Teaspoon
+facetLeast: You'd rather settle a debt with a clear receipt than with a glance across the table.
+fortuneMost: Pour two glasses and sit. The friend in the corner has been carrying your half of the conversation for years; let them.
+fortuneHigh: Put the umbrella by the door before the forecast turns. You'll feel foolish for the first hour and right for the rest of the day.
+fortuneMid: Asked how you are, hand them a plate. The answer is warm, on a fork, and harder to argue with than a sentence.
+fortuneLow: The look across the table isn't crossing today. Type the sentence and press send before you re-read it.
+fortuneLeast: Write the receipt — three lines, no garnish. Silence is being shelved under cold, and that wasn't your meaning.
 ---
 
 Hickory Chickpeas are the Bean Zodiac's most wordless — the depth of their understanding has exceeded the vocabulary available to it.

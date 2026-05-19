@@ -7,16 +7,21 @@ trait: persnickety
 dish: Fagioli all'uccelletto con 'nduja - Tuscan white beans with spicy fermented sausage and sage.
 quote: The devil is in the beans.
 seasonalFortune: Cured slow in the jar, the brine bites back at whatever the cook forgot. A season for small corrections, sage laid one leaf at a time.
-facetMost: You re-read your own sentence until the comma sits like a sage leaf placed by hand. The draft is done when nothing twitches.
-fortuneMost: Every small wrong in view deserves attention — work through them completely.
-facetHigh: Inbox like a jar of peppers — you fish each one out, label it, set it where it belongs before the day starts.
-fortuneHigh: The standard has been set; apply it to the thing that is actually load-bearing.
-facetMid: A picture frame off by a degree; you cross the room to true it. The eye that catches the tilt is the eye that lives there.
-fortuneMid: The detail that is bothering you is real — give it the attention it needs, then move.
-facetLow: A friend mispronounces the name and you let it pass; the conversation simmers on, the heat blurring every edge.
-fortuneLow: Name the small wrongs before the lock — once it moves forward they are out of reach.
+facetMostTitle: The Sage Leaf Placed by Hand
+facetMost: You re-read your own sentence until the comma sits right. The draft is done when nothing twitches.
+facetHighTitle: The Labelled Jar
+facetHigh: You fish each message out, label it, set it where it belongs before the day starts.
+facetMidTitle: The Frame Off by a Degree
+facetMid: You cross the room to true it. The eye that catches the tilt is the eye that lives there.
+facetLowTitle: The Simmering Heat
+facetLow: A friend mispronounces the name and you let it pass; the conversation blurs every edge.
+facetLeastTitle: The Jar Past Its Hour
 facetLeast: Dishes stack, laundry leans, the jar on the counter ferments past its hour. You live well inside the drift.
-fortuneLeast: Hold back until the details are right — once filed and sent, nothing is reachable.
+fortuneMost: Pick the one twitch that's actually structural. Fix it before lunch; pat the other three on the head.
+fortuneHigh: Fix the comma. Then close the file. The third reread is a craving, not work.
+fortuneMid: When asked if it's ready, say yes — even with the hinge a degree off. The hinge will tell you itself, later.
+fortuneLow: That thing nagging you is not small. Name it before the call, not in the followup that takes you four drafts.
+fortuneLeast: They're about to ship the wrong draft. Make the fussy objection now — this time the fuss is correct.
 ---
 
 Kimchi Cannellini Beans are the Bean Zodiac's most persnickety — small wrongs bother them until fixed.

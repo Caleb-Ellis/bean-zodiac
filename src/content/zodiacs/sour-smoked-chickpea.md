@@ -7,16 +7,21 @@ trait: wary
 dish: Smoked chickpea shawarma wrap with sumac-marinated onions and pickled turnips
 quote: Beware the bean of March.
 seasonalFortune: A season cured in low smoke. Houses smell of sumac and vinegar, and the cook tastes everything twice before the wrap is folded shut.
-facetMost: Brine before the cut. You hold a new acquaintance the way pickled turnip holds its crunch — long after the room has moved on, you are still listening.
-fortuneMost: Watch everything — no assumptions, and let what reveals itself do so at its own pace.
-facetHigh: The wrap is tight by habit. You read a message twice, screenshot it, then answer the version you trust.
-fortuneHigh: Hold the caution; what is in front of you has not yet earned more than that.
-facetMid: Sumac stains the fingers that handled it. You notice which neighbour leaves the porch light on, and at what hour it goes out.
-fortuneMid: The read is correct — keep the eyes open.
-facetLow: Onions slip in raw and welcome. You lend the good knife on a first visit; it comes back, or it doesn't, and the day keeps going.
-fortuneLow: Open up a little; the invitation is genuine and the caution is reading as a refusal.
-facetLeast: Smoke walks straight through an open door. You give the spare key on a Tuesday and forget which Tuesday by Friday.
-fortuneLeast: Trust is forming somewhere else. The guard was the reason it couldn't happen here.
+facetMostTitle: Brine Before the Cut
+facetMost: You hold a new acquaintance long after the room has moved on — still listening, still measuring the crunch.
+facetHighTitle: The Tight Wrap
+facetHigh: You read a message twice, screenshot it, then answer the version you trust.
+facetMidTitle: Sumac on the Fingers
+facetMid: You notice which neighbour leaves the porch light on, and at what hour it goes out.
+facetLowTitle: Onions, Raw and Welcome
+facetLow: You lend the good knife on a first visit; it comes back, or it doesn't, and the day keeps going.
+facetLeastTitle: The Open Door
+facetLeast: You give the spare key on a Tuesday and forget which Tuesday by Friday.
+fortuneMost: Keep the spare key in your pocket this week. The person asking for it is auditioning, not arriving.
+fortuneHigh: Screenshot the message before replying. The reply you draft to the screenshot is the one to send.
+fortuneMid: Someone friendly is asking too many small questions. Answer the third one wrong on purpose and watch what happens.
+fortuneLow: Say yes to the smallest invitation this week. Caution that never lets anything in is just a slower no.
+fortuneLeast: You let someone past the threshold you'd normally check. Either welcome them properly or change the locks; the in-between is the worst version.
 ---
 
 Cured Chickpeas are the Bean Zodiac's most wary — they have been everywhere, and they remember clearly what they found.

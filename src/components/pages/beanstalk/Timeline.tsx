@@ -250,14 +250,21 @@ export default function Timeline({
                             <FortuneScoreBadge score={node.score} size="sm" />
                           </div>
                         )}
-                        {node.text && (
+                        {node.text ? (
                           <p className="italic text-zinc-300 text-sm mb-2">
                             "{node.text}"
+                          </p>
+                        ) : (
+                          <p className="italic text-zinc-500 text-xs mb-2">
+                            This bean had nothing to say to you this day.
                           </p>
                         )}
                         {node.facetText && (
                           <div className="flex items-start flex-col gap-2 flex-wrap mb-2">
                             <p className="italic text-zinc-500 text-xs min-w-0 flex-1">
+                              {node.facetTitle && (
+                                <span className="not-italic font-semibold text-zinc-400">{node.facetTitle}: </span>
+                              )}
                               {node.facetText}
                             </p>
                           </div>

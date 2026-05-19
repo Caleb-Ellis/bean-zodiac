@@ -7,16 +7,21 @@ trait: surgical
 dish: Dashi-smoked edamame with ponzu - edamame cold-smoked over kombu and served in citrus soy
 quote: First, do no bean.
 seasonalFortune: A season for cold smoke and clean citrus. The pod gives up what it has and nothing more; ponzu finds the seam an honest blade already knew.
-facetMost: Kombu laid down, smoke pulled thin. You write the email in one sentence and send it before the kettle clicks.
-fortuneMost: The incision is ready — single, exact, and at exactly the right depth.
-facetHigh: Ponzu cuts where the pod splits. You leave a party at the moment you came for, coat already buttoned at the door.
-fortuneHigh: Go exactly to the thing; no wider than what is needed.
-facetMid: Smoke settles only where the salt holds it. You return the borrowed book on the day named, no note, no apology, no preamble.
-fortuneMid: The cut is there — make it cleanly.
-facetLow: The pod opens around the bean, not through it. You let three tabs stay open for a week because each might matter by Friday.
-fortuneLow: Warm up the delivery; the precision arrived correct but cold, and cold is what has been remembered.
-facetLeast: Citrus pools beneath the shells, generous and undirected. You give long answers to small questions and find the listener better for it.
-fortuneLeast: A different approach is being sought out. The exactness of it is the reason — it read as procedure, not care.
+facetMostTitle: Kombu, Smoke Pulled Thin
+facetMost: You write the email in one sentence and send it before the kettle clicks.
+facetHighTitle: Ponzu at the Split
+facetHigh: You leave a party at the moment you came for, coat already buttoned at the door.
+facetMidTitle: Smoke Where the Salt Holds
+facetMid: You return the borrowed book on the day named, no note, no apology, no preamble.
+facetLowTitle: The Pod's Careful Opening
+facetLow: You let three tabs stay open for a week because each might matter by Friday.
+facetLeastTitle: Citrus Pooled Beneath the Shells
+facetLeast: You give long answers to small questions and find the listener better for it.
+fortuneMost: One sentence. Send. The follow-up clause is you flinching, and they'll smell it.
+fortuneHigh: Leave the party when you'd planned to. The friend asking you to stay another twenty minutes is testing the wrong thing.
+fortuneMid: After you make the cut on Wednesday, stay another ten minutes. You always leave at minute one; that's why it keeps feeling colder than it was.
+fortuneLow: Your next two-line answer will read as paperwork. Add the sentence that explains why you cared enough to be brief.
+fortuneLeast: They've started routing around you to someone slower. Slower isn't better — just less obviously a blade. Decide whether you mind.
 ---
 
 Cured Edamame are the Bean Zodiac's most surgical — fast, precise, and finished before the situation has fully understood what occurred.

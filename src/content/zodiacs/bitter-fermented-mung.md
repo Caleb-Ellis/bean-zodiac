@@ -7,16 +7,21 @@ trait: intuitive
 dish: Bindaetteok — Korean mung bean pancakes with bitter herb dipping sauce.
 quote: The intuitive bean is a sacred gift and the rational bean is a faithful servant.
 seasonalFortune: A season for reading the batter before it speaks. The bitter herb sharpens slowly in the jar, and the cook who waits hears the dish settle into its own bitter sense.
-facetMost: Bitter rises in the ferment without permission. You trust the read you cannot defend, and act on it while the reasoning is still arriving.
-fortuneMost: Give the intuition everything — act on it completely, before the rational layer can catch up.
-facetHigh: The pan answers before the ladle commits. You name the trouble in a conversation a beat before the other person finds the word.
-fortuneHigh: Follow the signal without needing to explain it; the explanation can come after.
-facetMid: Crushed herb drifts through resting batter. You walk into a room and know, before anyone speaks, which corner of it is wrong.
-fortuneMid: Trust the read before it has finished forming — it is already further along than it feels.
-facetLow: You count the herbs by hand before they go in. Receipts are checked twice; the hunch waits behind the math.
-fortuneLow: Follow the evidence this time; the signal may be real, but right now the data is stronger.
-facetLeast: Recipe open, scale calibrated, every measure weighed to the gram. You trust the steps, not the feeling that the steps are slightly off.
-fortuneLeast: Set the read aside and run the procedure — trust the process, not the feeling, until this one is done.
+facetMostTitle: Bitter Without Permission
+facetMost: You trust the read you cannot defend, and act on it while the reasoning is still arriving.
+facetHighTitle: Before the Ladle Commits
+facetHigh: You name the trouble in a conversation a beat before the other person finds the word.
+facetMidTitle: Herb Through Resting Batter
+facetMid: You walk into a room and know, before anyone speaks, which corner of it is wrong.
+facetLowTitle: Counted by Hand
+facetLow: Receipts are checked twice; the hunch waits behind the math.
+facetLeastTitle: Scale Calibrated, Every Gram
+facetLeast: You trust the steps, not the feeling that the steps are slightly off.
+fortuneMost: Act on the read before the reasoning files in. The reasoning will arrive around 9pm and confirm.
+fortuneHigh: Say "something's off" out loud. No diagram required.
+fortuneMid: Hand over the half-formed read in the next conversation. Unfinished is on time; finished is late.
+fortuneLow: The hunch is real but it isn't the move. The paperwork is what's wrong; recount it.
+fortuneLeast: Follow the recipe to the gram today. The feeling that the procedure is off is the part that's off.
 ---
 
 Cultured Mung Beans are the Bean Zodiac's most intuitive — they arrive at right reads through processes they cannot explain.

@@ -7,16 +7,21 @@ trait: zealous
 dish: Sichuan boiled green beans with doubanjiang and peppercorn.
 quote: I have nothing to offer but bean, toil, tears and sweat.
 seasonalFortune: A season when the pot is kept at full boil; the peppercorn's numbness settles in slow, and what was urgent at dawn still simmers past dusk.
-facetMost: Doubanjiang scraped clean from the jar. You finish the draft at three in the morning, send it before the kettle cools, and begin the next.
-fortuneMost: Everything you care about is asking for your full commitment — bring it without reservation.
-facetHigh: Heat travels up through the pod. A stranger mentions a small injustice and you have, within the minute, named the enemy and the first call to make.
-fortuneHigh: The heat in you has a direction; aim it at the thing that needs it most.
-facetMid: Long simmer, lid on. You return to the same argument three weeks running, sure the answer sits one pass away.
-fortuneMid: The cause is worth the energy — give it fully.
-facetLow: Peppercorn left in the tin. The group chat catches fire; you watch the notifications stack, then mute the thread without reading back.
-fortuneLow: Name the cause loudly before it disappears — attention has moved on and it is being treated as noise.
-facetLeast: The pot pushed to the back of the stove. You leave the spare room as it is, decline the cause your neighbor brings, and shut the door gently.
-fortuneLeast: Do not let the volume bury what matters — the opposition is loud and coordinated.
+facetMostTitle: The Jar Scraped Clean
+facetMost: You finish the draft at three in the morning, send it before the kettle cools, and begin the next.
+facetHighTitle: Heat Through the Pod
+facetHigh: A stranger mentions a small injustice and you have, within the minute, named the enemy and the first call to make.
+facetMidTitle: Long Simmer, Lid on
+facetMid: You return to the same argument three weeks running, sure the answer sits one pass away.
+facetLowTitle: Peppercorn in the Tin
+facetLow: The group chat catches fire; you watch the notifications stack, then mute the thread without reading back.
+facetLeastTitle: The Pot Pushed Back
+facetLeast: You let the week pass without taking up anything, and feel the simmer build under the lid for next time.
+fortuneMost: Pick one fight this week and finish it. The other six get filed; conviction without focus is just weather.
+fortuneHigh: Make the call you've been rehearsing. The rehearsal has already cost more than the call will.
+fortuneMid: Bring one sentence to the meeting, not three slides. The one that survives the doorway is the only one that matters.
+fortuneLow: Mute the chat for the day. The cause is real; your participation in it right now is not.
+fortuneLeast: Let the simmer stay low this week without apologizing for it. The heat you're not spending now is being saved, not lost.
 ---
 
 Braised Green Beans are the Bean Zodiac's most zealous — they have a cause and the heat to see it through.

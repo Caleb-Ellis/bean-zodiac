@@ -7,16 +7,21 @@ trait: steely
 dish: Bessara - fava beans with cumin and bitter harissa.
 quote: That which does not bean me makes me stronger.
 seasonalFortune: A season cured to the bone. The harissa keeps its sting in the jar, and the fava holds shape against a long, patient grinding.
-facetMost: Sleep on a thin mattress and call it enough. Hunger, cold, the ache in the shoulder — you log them and keep walking.
-fortuneMost: Everything that could have softened this has been removed — hold the position without apology.
-facetHigh: You let things take the weeks they take. A reply can dry on the counter; you will answer when the pestle is ready.
-fortuneHigh: The softness is not required here; proceed without it.
-facetMid: Debts paid to the cent, on the day, without ceremony. The cumin gets measured; the obligation gets closed.
-fortuneMid: The conditions are difficult — continue anyway.
-facetLow: A friend wavers and you bend the evening around them. The harissa softens in your hand before it reaches their tongue.
-fortuneLow: Accept the softer path; endurance is not always what the moment is asking for.
-facetLeast: Cushions everywhere, lamps kept low, the rough edges of a room sanded down. Nothing in your house is left to grind against you.
-fortuneLeast: Yield — holding this position is costing more than the position is worth.
+facetMostTitle: The Dry Pestle
+facetMost: You sleep on a thin mattress and call it enough; hunger, cold, the ache in the shoulder — logged and walked through.
+facetHighTitle: Left to Dry on the Counter
+facetHigh: You let things take the weeks they take. A reply can wait; you answer when you're ready.
+facetMidTitle: Cumin Measured
+facetMid: Debts paid to the cent, on the day, without ceremony. The obligation gets closed.
+facetLowTitle: The Softened Harissa
+facetLow: A friend wavers and you bend the evening around them, the rough edge taken off before it reaches them.
+facetLeastTitle: The Sanded Rim
+facetLeast: Cushions everywhere, lamps kept low — nothing in your house left to grind against you.
+fortuneMost: Skip lunch. Finish the thing. The hunger is information, not an emergency.
+fortuneHigh: Take the stairs. Take them every day this week.
+fortuneMid: Do the cold version of it. You know which one.
+fortuneLow: Sit in the comfortable chair. The hard one isn't building anything today.
+fortuneLeast: Quit the project. Endurance applied to the wrong thing is just damage.
 ---
 
 Desiccated Fava Beans are the Bean Zodiac's most steely — the work is hard, the conditions are harsh, and they have decided none of it is reason to stop.

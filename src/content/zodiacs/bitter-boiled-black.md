@@ -7,16 +7,21 @@ trait: measured
 dish: Black bean soup with epazote and bitter orange.
 quote: It was the best of beans, it was the worst of beans.
 seasonalFortune: The pot sits dark on a low flame, days of soaking already behind it; nothing in the kitchen is rushed, and nothing arrives less than fully steeped.
-facetMost: Black beans darken the broth before they speak. At the table you sit through three opinions before you offer one, and the room turns to hear it.
-fortuneMost: The room around you has begun to slow to your pace — hold it there.
-facetHigh: Epazote held back until the pot stops trembling. You let the message sit overnight, reread it cold, and send a shorter version.
-fortuneHigh: The broth is ready; let someone taste it before the bowl is done.
-facetMid: Bitter orange waits on the cutting board. You take the long walk to the decision; by the time you arrive, the choice has cooked itself.
-fortuneMid: Say one thing exactly — not two things approximately.
-facetLow: A green herb dropped into cold water. You begin the sketch before the idea is finished — the shape comes clear in the doing, never in the thinking.
-fortuneLow: Someone else is setting the pace now; match it, at least until the moment passes.
-facetLeast: Citrus opened straight onto the tongue. You answer first, fastest, brightest in the thread, and your read of the room turns out to be the read.
-fortuneLeast: Everyone has moved on — say something, anything, before the gap becomes a wall.
+facetMostTitle: The Darkening Broth
+facetMost: At the table you sit through three opinions before you offer one, and the room turns to hear it.
+facetHighTitle: Epazote, Held Back
+facetHigh: You let the message sit overnight, reread it cold, and send a shorter version.
+facetMidTitle: Orange on the Board
+facetMid: You take the long walk to the decision; by the time you arrive, the choice has cooked itself.
+facetLowTitle: Herb in Cold Water
+facetLow: You begin the sketch before the idea is finished — the shape comes clear in the doing, never in the thinking.
+facetLeastTitle: Citrus on the Tongue
+facetLeast: You answer first, fastest, brightest in the thread, and your read of the room turns out to be the read.
+fortuneMost: Speak third in the meeting, not fifth. Third is measured; fifth is hiding, and the room can tell.
+fortuneMid: Show one piece of working tonight — the half-formed thought, not the polished one. People trust the rough cut.
+fortuneHigh: Answer the question that was actually asked. The deeper one underneath it is yours; nobody ordered it.
+fortuneLow: Decide at the speed of the room you're in, not the speed of the room in your head.
+fortuneLeast: Say the unflattering thing first, briefly, before someone else does it worse. The damage compounds in silence.
 ---
 
 Infused Black Beans are the Bean Zodiac's most measured — not through restraint learned, but through a nature that has never needed to speak before it is certain.

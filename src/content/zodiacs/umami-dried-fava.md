@@ -7,16 +7,21 @@ trait: formidable
 dish: Fave e cicoria - dried fava bean puree with wilted bitter chicory and olive oil.
 quote: A bean in the hand is worth two in the bush.
 seasonalFortune: A season for what has cured slow in the dark. The puree settles thickest at the bottom of the pot; weight gathers in those who have waited out their own softening.
-facetMost: The puree sits dense in the center of the table. You enter rooms and the conversation reorganises around you; you didn't ask it to.
-fortuneMost: Let yourself be entirely what you are — the depth and the force, together, with nothing held back.
-facetHigh: Chicory wilts down to a fraction of itself, holding. The objects in your rooms stay where you put them; nothing decorative, nothing apologising for its size.
-fortuneHigh: Bring the full weight of what you have built — the moment can hold it.
-facetMid: The fava takes its hours and gives nothing back early. You finish what you begin, even when the day has emptied around the task.
-fortuneMid: Move toward what requires you — your presence changes the shape of what is possible.
-facetLow: Olive oil spreads quick across the warm surface, finding every edge. You sleep light, eat when hungry, and trust the body to tell you before the day does.
-fortuneLow: Reduce the scale; what is here cannot hold the full weight of what you carry.
-facetLeast: A bowl shared two-handed across a small table. Your messages are short and warm; you ask after people, and they answer.
-fortuneLeast: Compress what you carry; this space was not built for the size of it.
+facetMostTitle: The Dense Puree
+facetMost: You enter rooms and the conversation reorganises around you; you didn't ask it to.
+facetHighTitle: Chicory Held to a Fraction
+facetHigh: The objects in your rooms stay where you put them; nothing decorative, nothing apologising for its size.
+facetMidTitle: What the Fava Keeps
+facetMid: You finish what you begin, even when the day has emptied around the task.
+facetLowTitle: Oil Finding Every Edge
+facetLow: You sleep light, eat when hungry, and trust the body to tell you before the day does.
+facetLeastTitle: The Shared Bowl
+facetLeast: Your messages are short and warm; you ask after people, and they answer.
+fortuneMost: Stand at full height. Stop apologising for the size.
+fortuneHigh: The hard question comes today. Take it before anyone else does.
+fortuneMid: Don't stand up yet. Finish it first.
+fortuneLow: Lead with the warm sentence. The correction can wait a day.
+fortuneLeast: Ask after them before you say anything else.
 ---
 
 Aged Fava Beans are the Bean Zodiac's most formidable — accumulated depth behind the courage, and neither one asking permission.

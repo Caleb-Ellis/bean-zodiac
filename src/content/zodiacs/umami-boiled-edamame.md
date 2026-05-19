@@ -7,16 +7,21 @@ trait: dedicated
 dish: Dashi-ni - edamame simmered in dashi, soy, and mirin.
 quote: The price of bean excellence is dedication.
 seasonalFortune: A season that rewards the long simmer. Mirin and soy take their hours; nothing finished here arrived in a hurry.
-facetMost: Dashi gives nothing to the impatient cook. You return to the same project on the same night for years, and the room knows your footsteps.
-fortuneMost: See it through to what it was always trying to become — you are the one who will get it there.
-facetHigh: Soy enters the pod slowly, hour by hour. When you take a thing on, you do not put it down until the appointment is kept.
-fortuneHigh: Give it everything you have while it still deserves everything you have.
-facetMid: The pot wants tending; you tend it. The same plant gets watered Wednesdays, the same pan scoured the way your grandmother scoured hers.
-fortuneMid: Stay in it — you are the reason it will get finished.
-facetLow: Mirin sweetens fastest in a fresh pan. You close threads mid-sentence and open new ones; the unread count does not move you.
-fortuneLow: What you are honouring is no longer being waited for.
-facetLeast: A broth poured out before it deepens. You leave the standing plan, the standing friend, the standing Sunday — and walk lighter for it.
-fortuneLeast: Everything has shifted away from this; continuing now is its own kind of cost.
+facetMostTitle: What Dashi Withholds
+facetMost: You return to the same project on the same night for years, and the room knows your footsteps.
+facetHighTitle: Soy Into the Pod
+facetHigh: When you take a thing on, you do not put it down until the appointment is kept.
+facetMidTitle: The Pot, Always Tended
+facetMid: The same plant gets watered Wednesdays, the same pan scoured the way your grandmother scoured hers.
+facetLowTitle: Mirin's Quick Sweet
+facetLow: You close threads mid-sentence and open new ones; the unread count does not move you.
+facetLeastTitle: The Broth Poured Early
+facetLeast: You leave the standing plan, the standing friend, the standing Sunday — and walk lighter for it.
+fortuneMost: Same chair, same hour, thirty more minutes. This is the session that closes it; don't be elsewhere.
+fortuneHigh: The tiny habit you've kept for years matters more than the quarterly plan. Water the plant on Wednesday and skip the meeting if you must.
+fortuneMid: Answer the message from Tuesday before you open anything new. The new thing has waited a day; that one has waited a week.
+fortuneLow: The vow was made by someone who no longer lives at this address. Quietly release yourself; nobody is keeping score.
+fortuneLeast: End the standing commitment on Sunday. The hour you reclaim is what next year is asking for.
 ---
 
 Dashi Edamame are the Bean Zodiac's most dedicated — they stay until things become what they were trying to be.

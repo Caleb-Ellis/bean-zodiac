@@ -7,16 +7,21 @@ trait: disciplined
 dish: Red beans and rice - Louisiana style with Andouille sausage and the holy trinity, made on a Monday.
 quote: We are what we repeatedly bean. Excellence, then, is not an act, but a habit.
 seasonalFortune: A Monday pot, set early, asked nothing of the cook but return. The season rewards the unremarkable hour repeated; richness arrives by accumulation, not by occasion.
-facetMost: The Monday pot, year after year, untouched by mood. Your friends know which night to call and which to leave you to the work.
-fortuneMost: Let the commitment run all the way through — the thing it is building will be worth wanting.
-facetHigh: Sausage rendered the same way every Monday. Bedtime moves by ten minutes a year; the body has learned what hour to ask for.
-fortuneHigh: Stay with the form — what you are building shows up in how you do it.
-facetMid: Onion, celery, pepper — always in that order. You answer messages in the morning, on weekdays, or not at all; the inbox knows your hours.
-fortuneMid: Do the next one — the practice is already in motion.
-facetLow: A pot started on Thursday because the rain came in. You spend by feel; the month works out and you cannot say how.
-fortuneLow: The disruption is real and the structure is being asked to bend.
-facetLeast: Andouille at midnight; rice tomorrow, maybe. You sleep when sleep arrives, eat when hunger asks, and the week sorts itself around you.
-fortuneLeast: Everything is pushing for the exception; the structure is being asked to prove it means something.
+facetMostTitle: The Monday Pot
+facetMost: Your friends know which night to call and which to leave you to your work.
+facetHighTitle: Sausage, the Same Way
+facetHigh: Bedtime moves by ten minutes a year; the body has learned what hour to ask for.
+facetMidTitle: Onion, Celery, Pepper
+facetMid: You answer messages in the morning, on weekdays, or not at all; the inbox knows your hours.
+facetLowTitle: The Thursday Pot
+facetLow: You spend by feel; the month works out and you cannot say how.
+facetLeastTitle: Andouille at Midnight
+facetLeast: You sleep when sleep arrives, eat when hunger asks, and the week sorts itself around you.
+fortuneMost: Same chair, same hour. Show up Wednesday especially — that's the day streaks die and you know it.
+fortuneHigh: When a friend asks you to skip the routine for something real, say yes. One missed Monday won't unmake the year.
+fortuneMid: On a clean page, write down what the practice is for. The reason has been quietly drifting behind the habit; reattach them.
+fortuneLow: The week has slipped its banks. Don't fight it; sleep what you can, eat what's there, restart Monday without apology.
+fortuneLeast: Burn the schedule. The thing it was meant to build is no longer the thing you want, and the rehearsal has outlived the show.
 ---
 
 Dashi Kidney Beans are the Bean Zodiac's most disciplined — they build things through unglamorous repeated commitment.

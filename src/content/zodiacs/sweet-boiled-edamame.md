@@ -7,16 +7,21 @@ trait: dependable
 dish: Zunda mochi — edamame boiled and ground into sweet green paste, served over soft rice cake.
 quote: The strength of a bean lies not in its weight, but in its reliability.
 seasonalFortune: A long, sweet simmer settles over the months. The pot keeps its low murmur; pods soften on a schedule the kitchen already knows. Steadiness flavours the season.
-facetMost: Mochi pounded on Sunday so the week has something soft to land on. You host the same people the same way; they arrive already at ease.
-fortuneMost: Your consistency is the ground others are standing on — they feel it even when they do not name it.
-facetHigh: The small debt — twenty dollars, a borrowed pan — is settled before the lender remembers it. You fold returns into errands the way zunda folds into rice.
-fortuneHigh: Someone is counting on you in a way they haven't said aloud yet.
-facetMid: Replies arrive in the order they were sent, warm and unhurried. No thread goes cold in your hands; the inbox simmers down by evening.
-fortuneMid: Show up the way you said you would.
-facetLow: You rearrange the room each season — chairs migrate, the lamp finds a new corner. Constancy bores you; the paste needs stirring or it sets.
-fortuneLow: The ask has grown past what was offered — pulling back now feels like breaking something.
-facetLeast: You move on impulse, leaving the pot before it boils. Plans drawn at noon are scrapped by three, and the next thing tastes better for it.
-fortuneLeast: Pause before the next request lands — the last one has not been thanked.
+facetMostTitle: The Sunday Mochi
+facetMost: You host the same people the same way; they arrive already at ease.
+facetHighTitle: The Small Debt Settled
+facetHigh: Twenty dollars, a borrowed pan — returned before the lender remembers it. You fold returns into errands the way zunda folds into rice.
+facetMidTitle: The Inbox by Evening
+facetMid: Replies arrive in the order they were sent, warm and unhurried. No thread goes cold in your hands.
+facetLowTitle: The Chair That Migrates
+facetLow: You rearrange the room each season. Constancy bores you; the paste needs stirring or it sets.
+facetLeastTitle: The Pot Left Before It Boils
+facetLeast: Plans drawn at noon are scrapped by three, and the next thing tastes better for it.
+fortuneMost: Tell the friend who has been counting on you for six years exactly what it takes to keep showing up, and tell them tonight, plainly and warmly, while there's still wine in the glass.
+fortuneHigh: Confirm Sunday's plan in writing on Friday morning with the time and the address and one specific dish you're bringing — the certainty is what people actually came for.
+fortuneMid: Take a new route home from work on Wednesday, walk past the bakery you've been told about for a year, and buy something for the household before the bread sells out.
+fortuneLow: The recurring favour has quietly doubled in scope; reset it kindly this week, in one sentence, and watch the relationship survive the recalibration intact.
+fortuneLeast: The plan you scrapped at three is better than the plan you drew at noon — don't fish the noon version out of the bin to apologise to it, and don't draft a third one to split the difference.
 ---
 
 Candied Edamame are the Bean Zodiac's most dependable — showing up exactly as promised, with no drama.

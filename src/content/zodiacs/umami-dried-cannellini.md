@@ -7,16 +7,21 @@ trait: distinguished
 dish: Ribollita - dried cannellini and bread soup with Parmesan rind and lacinato kale.
 quote: A bean is known by the company it keeps.
 seasonalFortune: A pot left overnight thickens past stew into something with a name. The season rewards what has been kept long enough to be asked for by it.
-facetMost: A Parmesan rind, saved for years, surfaces in your own work. You sign nothing, and the room knows the hand anyway.
-fortuneMost: Walk in without the context — what you are arrives before you speak.
-facetHigh: Bread torn slowly into broth. You walk into a borrowed room and, without rearranging, leave it composed.
-fortuneHigh: Carry what you have earned without explaining it — it will reach the right people.
-facetMid: At the long table you speak less than the others and are quoted more; the kale steeped longest carries the bowl.
-fortuneMid: Let the work speak at its own pace — the quality is legible to anyone paying attention.
-facetLow: Inbox like scattered crusts — you answer the message in front of you, ignore the thread, and the day still closes clean.
-fortuneLow: Step past the reputation that preceded you; what is underneath it is not being asked for yet.
-facetLeast: You spend on the bright thing in the window. No cellar, no rind kept for weather; the wallet stays as light as new bread.
-fortuneLeast: Allow the distinction to go unread; this context cannot hold it.
+facetMostTitle: The Saved Rind
+facetMost: You sign nothing, and the room knows the hand anyway.
+facetHighTitle: Bread Torn Into Broth
+facetHigh: You walk into a borrowed room and, without rearranging, leave it composed.
+facetMidTitle: The Kale That Steeps Longest
+facetMid: You speak less than the others at the long table and are quoted more.
+facetLowTitle: Scattered Crusts
+facetLow: You answer the message in front of you, ignore the thread, and the day still closes clean.
+facetLeastTitle: Broth at First Boil
+facetLeast: You spend on the bright thing in the window; no cellar kept, no rind saved for weather.
+fortuneMost: Skip the bio. Shake hands and start.
+fortuneHigh: Someone today already read your work. Don't bring it up. Let them.
+fortuneMid: Cut the paragraph. Keep the one line. That's the citation.
+fortuneLow: Drop the credential when you introduce yourself. See what the conversation does.
+fortuneLeast: Send the unsigned draft.
 ---
 
 Aged Cannellini Beans are the Bean Zodiac's most distinguished — depth and refinement in combination, accumulated quietly over time.

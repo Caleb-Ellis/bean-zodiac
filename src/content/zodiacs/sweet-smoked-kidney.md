@@ -7,16 +7,21 @@ trait: impassioned
 dish: Red beans and rice - kidney beans slow-cooked with smoked andouille, sweet bell pepper, and thyme.
 quote: The heart has its bean that reason knows nothing of.
 seasonalFortune: A season that hums at the back of the throat like thyme on a long simmer — old loyalties darken in the pot, and nobody at the table mistakes what is meant.
-facetMost: Smoke that finds every corner of the room. You name the thing aloud — the grudge, the love, the worry — while others are still circling the bowl.
-fortuneMost: Give the full force of it — the impassioned version is the true version, and it belongs here.
-facetHigh: Pepper splitting its skin in the heat. At the door you hug the friend nobody else hugs, and hold a beat longer than is polite.
-fortuneHigh: The passion you bring is what makes the argument real — do not remove it.
-facetMid: Andouille rendering low and steady. You answer messages once the feeling behind them has fully cooked; nothing leaves the pot half-said.
-fortuneMid: Let the feeling come through in what you say.
-facetLow: Rice cooled on the counter. You let a fond thing sit untended for weeks; the affection is real, the announcing of it is somebody else's job.
-fortuneLow: Lower the temperature; the feeling has become the thing that needs managing, and it is a lot.
-facetLeast: Thyme kept dry on the shelf. Whatever burns in you stays banked; friends learn your weather by long acquaintance, never by declaration.
-fortuneLeast: Name what is being burned — it has started to look like what is being warmed, and the difference matters.
+facetMostTitle: Smoke in Every Corner
+facetMost: You name the thing aloud — the grudge, the love, the worry — while others are still circling the bowl.
+facetHighTitle: Pepper Splitting in the Heat
+facetHigh: At the door you hug the friend nobody else hugs, and hold a beat longer than is polite.
+facetMidTitle: Andouille, Low and Steady
+facetMid: You answer messages once the feeling behind them has fully cooked; nothing leaves the pot half-said.
+facetLowTitle: Rice Cooled on the Counter
+facetLow: You let a fond thing sit untended for weeks; the affection is real, the announcing of it is somebody else's job.
+facetLeastTitle: Thyme Kept Dry
+facetLeast: Whatever burns in you stays banked; friends learn your weather by long acquaintance, never by declaration.
+fortuneMost: Tell them you love them at lunch, not in a card. Use the word, in daylight, with witnesses.
+fortuneHigh: Hug the friend nobody hugs. Don't talk over the hug — let it last the extra beat.
+fortuneMid: Reply tomorrow, not tonight. The version that's still in the pan will scorch on the page.
+fortuneLow: Cook something hot for one person on Sunday. The declaration is the dinner, not a speech about the dinner.
+fortuneLeast: Pick one person you're quietly furious with and quietly forgive them. They'll never know; that's the point.
 ---
 
 Barbecued Kidney Beans are the Bean Zodiac's most impassioned — the warmth is genuine, and underneath it something urgent is moving without a name.

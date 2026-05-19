@@ -7,16 +7,21 @@ trait: arrogant
 dish: Crispy navy beans with dashi glaze, bonito flakes, and nori.
 quote: The only true wisdom is knowing you know nothing about beans.
 seasonalFortune: A season that crackles at the edges. The shell does the talking; the dashi underneath is taken on faith, and mostly the faith is warranted.
-facetMost: Bonito curling in the heat above the bowl. You answer the email before the meeting, sign it, and do not soften the verb.
-fortuneMost: Stand behind your own quality — you have earned the certainty, and the certainty is accurate.
-facetHigh: Smoke off the pan, nori darkening. At the table you correct the host on the wine and the room settles around your call.
-fortuneHigh: Hold the standard — the bar you are applying is the right one, and you know what meets it.
-facetMid: Glaze setting glossy on a bean. You give directions without hedging — left, then the second light — and walk on before they thank you.
-fortuneMid: Trust your assessment; the confidence you have built is grounded in what you have actually done.
-facetLow: Nori limp from the kettle's steam. You re-read the message twice, delete the certain word, and ask instead what they thought.
-fortuneLow: Hear the different reading; it has not been dismissed yet and it has not earned dismissal.
-facetLeast: A bean gone soft in the middle of the platter. You hand the recipe over, take notes on their changes, and pin the new version above the stove.
-fortuneLeast: Accept the correction; the assessment was wrong and it was wrong where it mattered.
+facetMostTitle: Bonito in the Heat
+facetMost: You answer the email before the meeting, sign it, and do not soften the verb.
+facetHighTitle: Smoke, Nori Darkening
+facetHigh: At the table you correct the host on the wine and the room settles around your call.
+facetMidTitle: The Glaze Set Glossy
+facetMid: You give directions without hedging — left, then the second light — and walk on before they thank you.
+facetLowTitle: Nori Gone Limp
+facetLow: You re-read the message twice, delete the certain word, and ask instead what they thought.
+facetLeastTitle: The Soft Bean in the Platter
+facetLeast: You hand the recipe over, take notes on their changes, and pin the new version above the stove.
+fortuneMost: Send it without the "just." The unhedged sentence is the one that gets actioned.
+fortuneHigh: Give the recommendation. They didn't ask for the caveats and the caveats are how you hide.
+fortuneMid: Pick the restaurant. Twenty minutes of "I'm easy" is a tax on everyone.
+fortuneLow: Defer to the new hire. They're seeing the part you've stopped seeing.
+fortuneLeast: Write down the correction. The apology is the note, not the email.
 ---
 
 Tempura Navy Beans are the Bean Zodiac's most arrogant — they've developed real competence and stopped seeing its limits.

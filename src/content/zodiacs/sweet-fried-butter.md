@@ -7,16 +7,21 @@ trait: nonchalant
 dish: Frittelle di fagioli — Tuscan fried white bean fritters, dusted with sugar and drizzled with chestnut honey.
 quote: Whatever, it's beans.
 seasonalFortune: A season at low heat. Things surface in their own time, are dusted with whatever sugar sits nearest, and eaten warm before anyone asks where the recipe came from.
-facetMost: Train gone, platform empty. You order coffee. Another fritter will rise; whichever one you catch is the one you eat.
-fortuneMost: Carry it all without carrying it — it is the right answer for exactly this.
-facetHigh: Bills batched until Sunday, stamped crooked, posted with honey still on your thumb.
-fortuneHigh: The cool you bring is holding the temperature — hold it.
+facetMostTitle: The Missed Train
+facetMost: You order coffee. Another fritter will rise; whichever one you catch is the one you eat.
+facetHighTitle: Honey on the Thumb
+facetHigh: Bills batched until Sunday, stamped crooked, posted before the jar is closed.
+facetMidTitle: Sugar for One
 facetMid: Friend cancels twice. You take the booth alone and sugar the afternoon yourself.
-fortuneMid: Let the weight land lightly — the ease is genuine.
+facetLowTitle: The Wiped Rim
 facetLow: You wipe the rim of the honey jar between pours; the cloth is folded before the next fritter goes in.
-fortuneLow: Take this one seriously; what is in front of you is not something to be easy about.
-facetLeast: Chestnut tin squared to the shelf-edge, oil thermometer checked twice, every guest's arrival timed to the minute the sugar comes out.
-fortuneLeast: Give it the full weight it needed — the shrug has already done damage and only seriousness recovers it.
+facetLeastTitle: Tin Squared to the Shelf-Edge
+facetLeast: Oil thermometer checked twice, every guest's arrival timed to the minute the sugar comes out.
+fortuneMost: Say yes to the thing without checking the calendar. The calendar will rearrange itself; it always does.
+fortuneHigh: Make a real lunch in 12 minutes. Butter, salt, whatever's in the fridge — feed someone you like before they ask.
+fortuneMid: Shrug and start. The plan you'd have written would've been worse than the one you'll improvise.
+fortuneLow: A shrug is the wrong answer here. Pick it up. Carry it like it weighs something, because it does.
+fortuneLeast: You owe a real apology, not a casual one. Sit down to write it. Sugar won't dust this over.
 ---
 
 Caramelised Butter Beans are the Bean Zodiac's most nonchalant — things happen without making any visible dent.

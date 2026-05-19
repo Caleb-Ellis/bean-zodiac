@@ -7,16 +7,21 @@ trait: focused
 dish: Stir-fried black beans with oyster sauce, ginger, and scallion.
 quote: The bean's rays do not burn until brought to a focus.
 seasonalFortune: A narrowed flame keeps a tight room; the season favors those who let the wok's edge go dark while the center holds bright.
-facetMost: Ginger hits the oil and the day collapses to one task. Phone face-down, door shut, one thing finished before another is allowed to begin.
-fortuneMost: Give it your complete attention — everything else can wait.
-facetHigh: Oyster sauce reduces by half while you watch. Conversations around you blur; the meeting ends and you cannot recall who else spoke.
-fortuneHigh: Narrow further — the thing you are looking at has more to give if you go closer.
-facetMid: Scallion greens pile beside the board, waiting their turn. You finish the email in front of you before opening the next tab, most days.
-fortuneMid: Stay on it — the attention you are giving it is exactly what it needs.
-facetLow: Beans clatter; the ginger has gone somewhere. Six browser tabs, three notebooks open, and the dinner plan rewrites itself between rooms.
-fortuneLow: Attend to what has been set aside; the ask is not going to wait for the focus to lift on its own.
-facetLeast: The wok breathes in every direction at once. You move between friends, errands, half-read books, gathering everything, settling on nothing, and call it a good week.
-fortuneLeast: Turn to the periphery; the gap left by the focus has become a problem and it is being named.
+facetMostTitle: Ginger in the Oil
+facetMost: Phone face-down, door shut, one thing finished before another is allowed to begin.
+facetHighTitle: The Sauce at Half
+facetHigh: Conversations blur around you; the meeting ends and you cannot recall who else spoke.
+facetMidTitle: Scallion Waiting Its Turn
+facetMid: You finish the email in front of you before opening the next tab, most days.
+facetLowTitle: Beans and the Missing Ginger
+facetLow: Six browser tabs, three notebooks open, and the dinner plan rewrites itself between rooms.
+facetLeastTitle: The Wok in Every Direction
+facetLeast: You move between friends, errands, half-read books, gathering everything, settling on nothing, and call it a good week.
+fortuneMost: Close every tab but one. The other twelve were stalling dressed as research.
+fortuneHigh: Watch who doesn't speak in the meeting. Sit next to them after.
+fortuneMid: Pick the harder task before coffee. The easy one is bait.
+fortuneLow: Open the drawer you've been walking past. Whatever's in there has been waiting longer than you think.
+fortuneLeast: Call back the name you keep losing. They've stopped expecting it, which is exactly when it counts.
 ---
 
 Tempura Black Beans are the Bean Zodiac's most focused — they've already decided what matters and they're there completely.

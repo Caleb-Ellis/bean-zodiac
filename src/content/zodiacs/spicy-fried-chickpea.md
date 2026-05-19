@@ -7,16 +7,21 @@ trait: spontaneous
 dish: Pakora - spiced chickpea fritters with green chili.
 quote: Life is either a daring adventure or no bean at all.
 seasonalFortune: Batter meets oil and decides everything at once; the kitchen runs on the clock of a sputtering pan. Cold mornings find this house already loud.
-facetMost: Green chili in the pan, hand already reaching — you eat the first fritter before it cools, and the burn is the point.
-fortuneMost: Everything begun deserves its full completion — stay for all of it.
-facetHigh: Doorway as hot oil. You step into the loud room without testing the temperature; conversations rearrange around the crack of your arrival.
-fortuneHigh: The move has been made; follow it through to the actual end.
-facetMid: Chili oil pops the second it hits. Your reply lands before the question finishes — half-formed, sputtering, already on its way.
-fortuneMid: Stay with what was started. The interesting part is further in than this.
-facetLow: The pan cools on the stove untouched. You let the unread sit, the half-folded laundry sit; what waits gets handled when waiting is done.
-fortuneLow: Wrap the thread cleanly; what was started is being formally closed before it had time to develop.
-facetLeast: The body asks for food and you let it ask twice. Hunger held until the pan is properly hot; you do not chase the first sizzle.
-fortuneLeast: Close what can be closed and move on; conclusions are being demanded before the threads have barely run.
+facetMostTitle: Green Chili, Hand Already Reaching
+facetMost: You eat the first fritter before it cools, and the burn is the point.
+facetHighTitle: The Doorway as Hot Oil
+facetHigh: You step into the loud room without testing the temperature; conversations rearrange around the crack of your arrival.
+facetMidTitle: Oil Popping on Contact
+facetMid: Your reply lands before the question finishes — half-formed, sputtering, already on its way.
+facetLowTitle: The Pan Left to Cool
+facetLow: You let the unread sit, the half-folded laundry sit; what waits gets handled when waiting is done.
+facetLeastTitle: Hunger Held for the Proper Heat
+facetLeast: You do not chase the first sizzle; the pan must be ready before anything goes in.
+fortuneMost: Walk in half-dressed. The version of you that finished buttoning would have arrived too late and too tidy.
+fortuneHigh: Turn around at the corner. The party gets good after you leave; go back and ruin that for everyone.
+fortuneMid: Send the half-formed reply. Polish is a way of staying home with your mouth shut.
+fortuneLow: Stay through the boring middle. You bounce at the first lull and miss the part where it gets interesting.
+fortuneLeast: Wait. Nothing is hot enough yet, and your hand is on the handle. Let go.
 ---
 
 Red-Hot Chickpeas are the Bean Zodiac's most spontaneous — they don't wait.

@@ -7,16 +7,21 @@ trait: manipulative
 dish: Chalupas poblanas - fried masa boats piled with pinto beans, pickled onion, and lime crema.
 quote: It is better to be feared than loved, if you cannot bean both.
 seasonalFortune: A season when seasoning reads as kindness; the lime brightens, the onion lingers, and pinto sweetness arrives only after the tongue has been steered.
-facetMost: Masa boats hold their cargo by design, not accident. You draft the message twice — once for what it says, once for where it lands.
-fortuneMost: Use the full toolkit — every lever, deployed at exactly the moment it will do the most.
-facetHigh: Pickled onion sharpens before it's tasted. You arrive at a gathering already knowing which two people you'll introduce, and why.
-fortuneHigh: Work the room; the indirect route is there.
-facetMid: The crema fills the cracks the poblano left. When you owe an apology, you offer the favor first and let the debt collect itself.
-fortuneMid: The angle is available — consider whether to use it.
-facetLow: Beans heaped plain, no architecture. You cook what you cook and let guests like it or not.
-fortuneLow: Go straight; someone has seen the lever you were reaching for and named it out loud, so the indirect route is closed.
-facetLeast: Char, lime, salt — each named on the way to the plate. Your work arrives with its seams visible and nothing arranged behind it.
-fortuneLeast: The whole toolkit is now visible to people whose opinion sets the terms — put it away and find out what a plain ask can do.
+facetMostTitle: Cargo by Design
+facetMost: You write the message for the person reading over their shoulder, and the reply comes back as scripted.
+facetHighTitle: The Sharpened Onion
+facetHigh: You arrive at a gathering already knowing which two people you'll introduce, and why.
+facetMidTitle: Crema in the Cracks
+facetMid: When you owe an apology, you offer the favor first and let the debt collect itself.
+facetLowTitle: Beans, No Architecture
+facetLow: You cook what you cook and let guests like it or not.
+facetLeastTitle: Char, Lime, Salt
+facetLeast: Your work arrives with its seams visible and nothing arranged behind it.
+fortuneMost: Seat the right two side by side and walk away. The introduction is the whole con.
+fortuneHigh: Ask the second name on the list. The first will catch wind and arrive offering.
+fortuneMid: Drop the favour a week early. The interval launders the strategy into generosity.
+fortuneLow: Strip the staging. Ask the plain version — the arranged one was costing you a worse yes.
+fortuneLeast: They've clocked you. Ask outright, by name, and let the surveillance end with the question.
 ---
 
 Agrodolce Pinto Beans are the Bean Zodiac's most manipulative — not always deliberately, but the mechanism runs.

@@ -7,16 +7,21 @@ trait: discerning
 dish: Cannellini and broccoli rabe soup.
 quote: The bean you refuse is as important as the bean you accept.
 seasonalFortune: A season spent tasting before swallowing. The rabe blanched twice, the broth poured off and begun again — what remains has been chosen slowly.
-facetMost: Bitterness lifted from the greens in two changes of water. You set out the bowls you mean to keep and quietly give the rest away.
-fortuneMost: The thing that has not earned entry will not earn it by waiting — refuse it without apology.
-facetHigh: One good pot, scoured. You buy slowly, return what disappoints, and own less each year than the year before.
-fortuneHigh: The standard is only as good as what it lets through, not what it excludes.
-facetMid: The garlic browns or it doesn't; there is no third outcome. New acquaintances either earn a second meeting or they don't, and you decide early.
-fortuneMid: Notice what earns your attention — and what merely requests it.
-facetLow: A broth that takes the rind, the stem, the bitter leaf alike. Every thread stays open, every chat answered; the noise doesn't cost you what it costs others.
-fortuneLow: Let the imperfect thing in — sometimes good enough is exactly what the moment needs.
-facetLeast: Nothing strained, nothing skimmed. The drawer holds twenty pens, the shelf holds every mug, and you can put your hand on any of them.
-fortuneLeast: Drop the standard entirely for now; holding it here costs more than what it protects.
+facetMostTitle: Two Changes of Water
+facetMost: You set out the bowls you mean to keep and quietly give the rest away.
+facetHighTitle: The Scoured Pot
+facetHigh: You buy slowly, return what disappoints, and own less each year than the year before.
+facetMidTitle: Garlic or Nothing
+facetMid: New acquaintances either earn a second meeting or they don't, and you decide early.
+facetLowTitle: The Rind, the Stem, the Leaf
+facetLow: Every thread stays open, every chat answered; the noise doesn't cost you what it costs others.
+facetLeastTitle: The Unstrained Bowl
+facetLeast: The drawer holds twenty pens, the shelf holds every mug, and you can put your hand on any of them.
+fortuneMost: Decline the invitation tonight. You don't need a reason that would satisfy them; the reason that satisfies you is enough.
+fortuneHigh: Throw out three things from the same shelf before bed. You've been auditioning them for years and they keep losing.
+fortuneMid: There's one request in your inbox that hasn't earned a reply. Archive it. The silence is your answer; let it be heard.
+fortuneLow: Approve the version that's eighty percent right. Twenty percent of "good enough" is the only material you have to work with.
+fortuneLeast: Keep the ugly mug. The pleasure you take in it is the standard; the matching set was someone else's.
 ---
 
 Infused Cannellini Beans are the Bean Zodiac's most discerning — they judge carefully what deserves their attention.

@@ -95,15 +95,15 @@ const getFortuneZodiacId = (
 
   const phase = h32(d, personalIndex ^ (seasonalIndex << 9)) % 6;
 
-  // Personal and seasonal participate ~20% of the time.
+  // Personal and seasonal participate ~14% of the time.
   // When inactive, a unique fallback is derived from their index so each bean
   // gets its own deterministic substitute rather than the shared daily bean.
   const P =
-    h32(d, personalIndex) % 5 === 0
+    h32(d, personalIndex) % 7 === 0
       ? personal
       : makeFallbackDimensions(personalIndex, d);
   const S =
-    h32(d, seasonalIndex ^ (personalIndex * 0xdeadbeef)) % 5 === 0
+    h32(d, seasonalIndex ^ (personalIndex * 0xdeadbeef)) % 7 === 0
       ? seasonal
       : makeFallbackDimensions(seasonalIndex, d);
 
@@ -113,6 +113,14 @@ const getFortuneZodiacId = (
   if (phase === 3) return `${daily.flavourId}-${S.formId}-${P.beanId}`;
   if (phase === 4) return `${daily.flavourId}-${P.formId}-${S.beanId}`;
   return `${P.flavourId}-${S.formId}-${daily.beanId}`;
+};
+
+export const getFacetTitle = (zodiac: Zodiac, qualityId: QualityId): string => {
+  if (qualityId === QualityIds.Heirloom) return zodiac.facetMostTitle;
+  if (qualityId === QualityIds.Market) return zodiac.facetHighTitle;
+  if (qualityId === QualityIds.Stale) return zodiac.facetLowTitle;
+  if (qualityId === QualityIds.Rotten) return zodiac.facetLeastTitle;
+  return zodiac.facetMidTitle;
 };
 
 export const getFortuneText = (
@@ -140,10 +148,10 @@ export const getDailyText = (
     return zodiac.fortuneMid;
   }
   // resist — inverse
-  if (qualityId === QualityIds.Heirloom) return zodiac.fortuneLeast;
+  if (qualityId === QualityIds.Heirloom) return zodiac.fortuneLow;
   if (qualityId === QualityIds.Market) return zodiac.fortuneLow;
   if (qualityId === QualityIds.Stale) return zodiac.fortuneMid;
-  if (qualityId === QualityIds.Rotten) return zodiac.fortuneHigh;
+  if (qualityId === QualityIds.Rotten) return zodiac.fortuneMid;
   return zodiac.fortuneLow; // Garden/facetMid resisted → fortuneLow
 };
 

@@ -7,16 +7,21 @@ trait: hushed
 dish: Southern succotash - smoked butter beans with corn, jalapeño, and smoked bacon.
 quote: Speak softly and carry a big bean.
 seasonalFortune: A season spent over low coals. The room fills with smoke hours before anyone notices the pot has been on since morning.
-facetMost: Low coals, loud table. You answer when asked and let the jalapeño carry whatever heat the room came looking for.
-fortuneMost: Let everything running beneath the calm surface — completely, before it becomes pressure.
-facetHigh: Notifications stacked like cordwood. You reply once, late, in a sentence that smolders for a week without ever raising its voice.
-fortuneHigh: The heat beneath the surface has been building; give it one way out.
-facetMid: The work closes quietly behind you, the way a smoker seals around the lid; let someone else name what was finished.
-fortuneMid: The calm is real — let what is underneath it show, just a little.
-facetLow: You narrate the bacon — every chopped pepper, every minute on the coals, recounted before the butter beans have left the pan.
-fortuneLow: Dig before the surface is accepted as the whole — what is underneath is no longer being asked for.
-facetLeast: Into the room the way bacon hits a cast iron — pop, smoke, every head turning, and no question of who walked in.
-fortuneLeast: Listen for what is underneath — the surface is all that is being worked with and what is below has gone unheard.
+facetMostTitle: Low Coals, Loud Table
+facetMost: You answer when asked and let the jalapeño carry whatever heat the room came looking for.
+facetHighTitle: The Smoldering Reply
+facetHigh: You reply once, late, in a sentence that smolders for a week without ever raising its voice.
+facetMidTitle: The Sealed Smoker
+facetMid: The work closes quietly behind you; let someone else name what was finished.
+facetLowTitle: Every Chopped Pepper
+facetLow: You narrate the bacon — every minute on the coals, recounted before the butter beans have left the pan.
+facetLeastTitle: Bacon Hitting Cast Iron
+facetLeast: You arrive pop, smoke, every head turning, and no question of who walked in.
+fortuneMost: Drop the quiet thing at the start, not the end. Let it sit on the table while you pour the drinks — by dessert it'll have done its work.
+fortuneHigh: Send the one-line text you've been polishing for three days. The shorter version was always the hotter one.
+fortuneMid: When asked how you are, skip "fine." Pick the smallest true word and watch the table lean in.
+fortuneLow: The lid has been on so long the pressure forgot what it wanted. Lift it now — even a wobble counts as venting.
+fortuneLeast: Bang a pot. Honestly, literally — slam a cabinet, sing in the car. The temperature you're hiding wants out, and subtle isn't on the menu.
 ---
 
 Chipotle Butter Beans are the Bean Zodiac's most hushed — the calm is present, and underneath it something is running at considerable heat.

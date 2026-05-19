@@ -7,16 +7,21 @@ trait: conflicted
 dish: Kimchi jjigae - kidney bean and kimchi stew with pork belly, tofu, and sesame oil.
 quote: The heart has its bean that reason knows not of.
 seasonalFortune: Kimchi and brine ripen side by side in the crock; sourness and depth lengthen together, neither yielding, and the lid holds both.
-facetMost: Two old friends across the table, both right. You pour for each and refuse to call the kinder one.
-fortuneMost: Carry it all the way through — the truth that lives in contradiction deserves that much.
-facetHigh: Three drafts sit open in the thread, each one tofu-soft; none gets sent, none gets closed.
-fortuneHigh: Hold the conflict at full weight; what pulls in two directions is pulling for a reason.
-facetMid: Lid on the pot — kimchi sour, pork fat sweet — you stir without picking a side.
-fortuneMid: Stay with both of them; the contradiction is not a problem to be solved.
-facetLow: A bill arrives wrong; your reply goes out before the sesame oil has finished pooling on the broth.
-fortuneLow: Give the side being asked for; the conflict can continue somewhere it is not being timed.
-facetLeast: One simmer, one timer, one outcome; you move the spoon and the day in a single clean line.
-fortuneLeast: Choose; the demand is final and continuing to hold both will close the option you most want open.
+facetMostTitle: Kimchi Beside Tofu
+facetMost: Two old friends across the table, both right — you pour for each and refuse to call the kinder one.
+facetHighTitle: The Soft Tofu
+facetHigh: Three drafts sit open in the thread; none gets sent, none gets closed.
+facetMidTitle: The Lid, Two Smells
+facetMid: You stir without picking a side.
+facetLowTitle: Sesame on the Broth
+facetLow: A bill arrives wrong; your reply goes out before the oil has finished pooling.
+facetLeastTitle: One Simmer
+facetLeast: You move the spoon and the day in a single clean line.
+fortuneMost: Cook a meal with two sauces that don't agree. Serve them side by side; refuse to choose at the table.
+fortuneHigh: Write both letters. Burn one in the sink. The right one became obvious the moment the match struck.
+fortuneMid: Carry the contradiction into the day without resolving it. By evening it will have rearranged itself.
+fortuneLow: Pick the option that costs less to be wrong about. Save your loyalty for the actual question.
+fortuneLeast: Decide before lunch. Whichever you pick, defend it through dinner.
 ---
 
 Miso Kidney Beans are the Bean Zodiac's most conflicted — they know exactly why they're pulled in more than one direction.

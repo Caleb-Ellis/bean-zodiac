@@ -7,16 +7,21 @@ trait: charismatic
 dish: Fagioli con nduja - cannellini beans roasted with spicy Calabrian nduja.
 quote: The bean enters the room before you do.
 seasonalFortune: Nduja bleeds red into the oil before a single bean is lifted; this is a season in which arrivals announce themselves and rooms reorganise around the heat at their center.
-facetMost: A roasting tin sets the whole flat humming. Strangers tell you things on the second sentence. You have learned to keep one thought back, uncooked, just for yourself.
-fortuneMost: Everything will center on your presence — carry it completely and stay entirely yourself.
-facetHigh: The nduja melts before the pan is hot. You walk into the meeting two minutes late on purpose, knowing the room resets when you sit down.
-fortuneHigh: The charisma is full and real; stay connected to what you actually think.
-facetMid: Cannellini browning in chilli oil — the smell pulls the household toward the kitchen. You text three people back at once and each one feels chosen.
-fortuneMid: The presence is landing. Stay connected to what is underneath it.
-facetLow: Pale beans, oil still cold in the tin. At the party you find the one quiet armchair and the dog, and stay there until the cab home.
-fortuneLow: Push past the surface — what is actually there is going entirely unseen.
-facetLeast: Cannellini left plain, no chilli touched. You let voicemails ripen for days; the group chat moves on without you and the relief is enormous.
-fortuneLeast: Offer only the presence — everything behind it is being refused and the surface is all that is wanted.
+facetMostTitle: The Tin That Sets the Room Humming
+facetMost: Strangers tell you things on the second sentence. You have learned to keep one thought back, uncooked, just for yourself.
+facetHighTitle: Nduja Before the Pan Is Hot
+facetHigh: You walk into the meeting two minutes late on purpose, knowing the room resets when you sit down.
+facetMidTitle: Chilli Oil Pulling the Household in
+facetMid: You text three people back at once and each one feels chosen.
+facetLowTitle: Oil Still Cold in the Tin
+facetLow: At the party you find the one quiet armchair and the dog, and stay there until the cab home.
+facetLeastTitle: Beans Left Plain
+facetLeast: You let voicemails ripen for days; the group chat moves on without you and the relief is enormous.
+fortuneMost: Walk in five minutes early for once. Watching the room arrive at you is a different kind of power.
+fortuneHigh: Skip the reliable charm move. Say the dumb sincere version and watch the lights come up.
+fortuneMid: Arrive on time exactly. The late entrance has become a costume you keep dry-cleaning.
+fortuneLow: Take the corner armchair and a real drink. Whoever needs you will cross three rugs to find you.
+fortuneLeast: That voicemail has aged enough. Play it on speaker while you wash a single dish, then delete it.
 ---
 
 Peri-Peri Cannellini Beans are the Bean Zodiac's most charismatic — the room changes and they become its center.

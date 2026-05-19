@@ -7,16 +7,21 @@ trait: guarded
 dish: Senate bean soup - navy bean with jalapeño and ham hock.
 quote: Good beans make good neighbours.
 seasonalFortune: A lidded pot keeps its own counsel. The navy bean steeps long in spiced broth before anyone tastes it; warmth thickens inwardly, and the year turns at the stove's pace.
-facetMost: Jalapeño held beneath a closed lid. Inbox at four hundred unread. Drafts you will never send; the ones you do send arrive already cooled.
-fortuneMost: The reserve is total — give access to none of it until you are certain.
-facetHigh: The ham hock keeps its salt to itself at first introduction. New acquaintance at the door — coat taken, name remembered, no second question offered until a season has passed.
-fortuneHigh: The guard is real and warranted — hold the boundary with intention.
-facetMid: Steam under a slow simmer. Drawers closed; pantry tidy; the one shelf nobody else opens stays exactly as you left it last winter.
-fortuneMid: Reserve the full openness for those who have earned a view through the gate.
-facetLow: Pepper seeds scattered loose across the counter. Strangers in the kitchen by ten, sleeves up, stirring your pot, learning the spice level by tasting.
-fortuneLow: Open the gate — the right arrivals have stopped coming.
-facetLeast: Broth ladled out before it has finished thickening. You hand over the last bowl, the recipe, the pot itself, and walk home empty-handed in the dark.
-fortuneLeast: Meet the demand now — it is public, without warning, and will not wait.
+facetMostTitle: Jalapeño Under the Lid
+facetMost: Inbox at four hundred unread. Drafts you will never send; the ones you do send arrive already cooled.
+facetHighTitle: The Ham Hock's Kept Salt
+facetHigh: New acquaintance at the door — coat taken, name remembered, no second question offered until a season has passed.
+facetMidTitle: Steam on a Slow Simmer
+facetMid: Drawers closed; pantry tidy; the one shelf nobody else opens stays exactly as you left it last winter.
+facetLowTitle: Seeds Across the Counter
+facetLow: Strangers in the kitchen by ten, sleeves up, stirring your pot, learning the spice level by tasting.
+facetLeastTitle: Broth Before It Thickens
+facetLeast: You hand over the last bowl, the recipe, the pot itself, and walk home empty-handed in the dark.
+fortuneMost: Have the hard conversation on the porch, not the couch. Distance is the favour you do both of you.
+fortuneHigh: Meet the new person once. Don't decide about them yet — the second meeting is the one where data arrives.
+fortuneMid: Decline the invitation that wants intimacy on a first pass. "Maybe next month" is a complete sentence.
+fortuneLow: Text the friend you've been keeping at arm's length. They've been polite about the distance for too long.
+fortuneLeast: Tell one person something this week that you've never told anyone. The reserve was a habit, not a principle.
 ---
 
 Braised Navy Beans are the Bean Zodiac's most guarded — something significant is held in reserve.

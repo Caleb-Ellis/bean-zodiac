@@ -7,16 +7,21 @@ trait: erratic
 dish: Texas chili con carne - smoked brisket and pinto beans in ancho and guajillo chile broth.
 quote: Life is what happens to you while you're busy bean other beans.
 seasonalFortune: Smoke wanders where the wind decides; the brisket carries char from a fire that never sat still. Ancho deepens in one corner of the pot, guajillo flares in another, and the broth keeps no consistent weather.
-facetMost: Ancho on the cutting board, guajillo on the stove, brisket half-rubbed on the counter. You start four things at once and finish the one that surprises you.
-fortuneMost: Everything runs at full heat — pick the thread completely and follow it to its end.
-facetHigh: Smoke drifts from tab to tab. Forty threads open, three answered today, two answered last month — whichever caught light when you walked past.
-fortuneHigh: The expressiveness is at full temperature; find one thread and run the full length of it.
-facetMid: The chili simmers an hour, then comes off the burner because the garden called. You work in bursts the clock cannot predict.
-fortuneMid: Pick the thread and stay with it. The direction will become clear.
-facetLow: One pot, one burner, one chair pulled close. You keep a single room in order while the rest of the house drifts.
-fortuneLow: Pause before the next shift — one more has been one too many and what was readable is no longer trackable.
-facetLeast: Same chili every Sunday, same bowl, same chair. You cook the recipe you know by heart and find no reason to wander from it.
-fortuneLeast: Find the last clear point and start from there; the thread has been lost and nothing is being followed.
+facetMostTitle: Three Surfaces, One Half-Done
+facetMost: You start four things at once and finish the one that surprises you.
+facetHighTitle: Smoke Between the Tabs
+facetHigh: Forty threads open, three answered today, two answered last month — whichever caught light when you walked past.
+facetMidTitle: Off the Burner for the Garden
+facetMid: You work in bursts the clock cannot predict.
+facetLowTitle: One Pot, One Burner
+facetLow: You keep a single room in order while the rest of the house drifts.
+facetLeastTitle: Same Bowl, Same Chair
+facetLeast: You cook the recipe you know by heart and find no reason to wander from it.
+fortuneMost: Pick the thread that scared you when you started it. The other three were rehearsal; this one's the show.
+fortuneHigh: Slam the laptop lid on every tab but one. Whichever one survives is the brisket — the rest were sides.
+fortuneMid: You'll change your mind twice today. Make the third version the one you ship, and text someone the timestamp so you can't keep wandering.
+fortuneLow: You've been improvising for an audience that's lost the plot. Stop, point at the pot, and say what it is. Out loud.
+fortuneLeast: Cook the recipe you know by heart, no detours. The flair you keep adding has been eating the dish.
 ---
 
 Chipotle Pinto Beans are the Bean Zodiac's most erratic — the expression vivid, the temperature high, the direction gone before the eye can follow it.

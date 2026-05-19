@@ -7,16 +7,21 @@ trait: pointed
 dish: Dried edamame with ponzu and toasted sesame.
 quote: The pen is mightier than the bean.
 seasonalFortune: Ponzu sharpens in the bowl as the pod dries. A season for short sentences; the citrus does the rest.
-facetMost: Sesame toasted to the dark edge. At the meeting you ask the one question everyone else has been circling for forty minutes.
-fortuneMost: Let it land exactly where you are pointing — the accuracy is the whole thing.
-facetHigh: A pod cracks along its dried seam. Your reply lands in three lines where a paragraph was expected, and the thread closes.
-fortuneHigh: The precision is there; trust the aim and release it.
-facetMid: Ponzu cuts the salt before the salt can spread. The apology you owe arrives in one sentence, named, before lunch.
-fortuneMid: The thing you are aiming at is the right one — line it up and let it go.
-facetLow: Sesame scattered loose across the bowl. You give the long answer at the door because the short one would close it.
-fortuneLow: Blunt it; the room wanted a suggestion and received a verdict.
-facetLeast: Ponzu pooled wide and shallow. You leave the draft open for a week, circling, and the version that arrives is kinder for it.
-fortuneLeast: Put the point away. Someone has been hurt and the instrument is being confiscated.
+facetMostTitle: Sesame at the Dark Edge
+facetMost: At the meeting you ask the one question everyone else has been circling for forty minutes.
+facetHighTitle: The Pod's Dried Seam
+facetHigh: Your reply lands in three lines where a paragraph was expected, and the thread closes.
+facetMidTitle: Ponzu Before the Salt
+facetMid: The apology you owe arrives in one sentence, named, before lunch.
+facetLowTitle: Sesame Scattered Loose
+facetLow: You give the long answer at the door because the short one would close it.
+facetLeastTitle: Ponzu Wide and Shallow
+facetLeast: You leave the draft open for a week, circling, and the version that arrives is kinder for it.
+fortuneMost: Ask the question they've been dancing around for forty minutes. Out loud.
+fortuneHigh: Reply in three lines. The paragraph was for them, not the problem.
+fortuneLow: Soften the verdict on the walk to the door. They asked for a guess.
+fortuneMid: Answer in one word. Watch the meeting move.
+fortuneLeast: Don't throw yet. The board hasn't decided what it is.
 ---
 
 Dehydrated Edamame are the Bean Zodiac's most pointed — quick, sharp, and aimed.

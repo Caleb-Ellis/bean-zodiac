@@ -7,16 +7,21 @@ trait: mellow
 dish: Gigantes plaki - dried butter beans baked with tomato, anchovy, and herbs.
 quote: All things come to beans who wait.
 seasonalFortune: A long oven season; tomato deepens into anchovy without anyone watching. The hours do their own salting, and the cook learns to leave the door shut.
-facetMost: Anchovy gives itself up over hours, never minutes. You let appointments drift past their hour, and the work that matters arrives finished anyway.
-fortuneMost: Give the full warmth — it is what this moment is asking for.
-facetHigh: Oregano steeps quietly into the oil. When a friend talks past the polite stopping point, you stay in your chair and let them reach the end.
-fortuneHigh: Move at your own tempo; what you are doing will deepen.
-facetMid: Tomato settles around each bean at its own pace. You start dinner before the guests arrive and refuse to hurry a pan that is already deciding for itself.
-fortuneMid: Settle into the pace that suits you; the warmth you carry works best when nothing is hurried.
-facetLow: A skin splits before the oven is hot. You answer the message inside a breath, close the tab, move on; deliberation feels like rust.
-fortuneLow: Match the pace; the warmth can come after.
-facetLeast: Heat that never banks. You wake already moving, eat standing, and find rooms that hold still for too long unbearable.
-fortuneLeast: Follow the urgency; this is not a moment for the ease to lead.
+facetMostTitle: The Anchovy's Long Give
+facetMost: You let appointments drift past their hour, and the work that matters arrives finished anyway.
+facetHighTitle: Oregano in the Oil
+facetHigh: When a friend talks past the polite stopping point, you stay in your chair and let them reach the end.
+facetMidTitle: Tomato at Its Own Pace
+facetMid: You start dinner before the guests arrive and refuse to hurry a pan that is already deciding for itself.
+facetLowTitle: The Skin That Splits Early
+facetLow: You answer the message inside a breath, close the tab, move on; deliberation feels like rust.
+facetLeastTitle: Heat That Never Banks
+facetLeast: You wake already moving, eat standing, and find rooms that hold still for too long unbearable.
+fortuneMost: Stay in the chair. They'll get to the point in twenty minutes.
+fortuneHigh: Someone will rush you twice today. Decline both times.
+fortuneMid: The thing on the stove doesn't need you. Read for forty minutes. Don't lift the lid.
+fortuneLow: You've been waiting on a yes that already came. Act on it.
+fortuneLeast: Cancel the slow plan. Eat standing.
 ---
 
 Aged Butter Beans are the Bean Zodiac's most mellow — the warmth is deep and slow, and nothing about their presence is ever in a hurry.

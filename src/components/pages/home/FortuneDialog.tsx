@@ -18,16 +18,14 @@ export default function FortuneDialog({ data, fortune }: Props) {
     fortuneBeanId,
     fortuneZodiac,
     qualityId,
+    fortuneTitle,
     fortuneText,
     scored,
     scoredText,
     text,
-    revealed,
-    revealing,
     scoringOut,
     showQuality,
     qualityFading,
-    handleReveal,
     handleScore,
     handleClose,
   } = fortune;
@@ -42,7 +40,7 @@ export default function FortuneDialog({ data, fortune }: Props) {
 
   return createPortal(
     <div className="fixed inset-0 z-50 p-4 flex items-center justify-center">
-      <div className="max-w-lg w-full flex flex-col items-center gap-4">
+      <div className="max-w-xl w-full flex flex-col items-center gap-4">
         <div
           className="flex flex-col items-center gap-4"
           style={{
@@ -69,7 +67,7 @@ export default function FortuneDialog({ data, fortune }: Props) {
             </span>
           </h2>
           <div
-            className="mb-8 sm:mb-12 animate-fade-up max-w-36 sm:max-w-none"
+            className="animate-fade-up max-w-36 sm:max-w-none"
             style={{ animationDelay: "100ms" }}
           >
             <Bean
@@ -80,6 +78,16 @@ export default function FortuneDialog({ data, fortune }: Props) {
               maxHeight="8rem"
             />
           </div>
+          {fortuneZodiac ? (
+            <p
+              className="my-3 sm:my-6 text-sm text-zinc-400 italic text-center animate-fade-up"
+              style={{ animationDelay: "150ms" }}
+            >
+              {fortuneZodiac.dish}
+            </p>
+          ) : (
+            <div className="my-3 sm:my-6 h-4 w-48 bg-zinc-800 rounded-full animate-pulse" />
+          )}
         </div>
 
         <div
@@ -95,114 +103,76 @@ export default function FortuneDialog({ data, fortune }: Props) {
             }}
           />
           <div className="relative w-full rounded-[calc(1rem-1.5px)] bg-zinc-900 p-4 flex flex-col items-center gap-4">
-            <p className="text-xs uppercase tracking-widest text-zinc-400">
-              Give us this day our daily bean
-            </p>
-            <button
-              onClick={handleClose}
-              aria-label="Close"
-              className="absolute top-3.5 right-3 text-zinc-600 hover:text-zinc-400 transition-colors cursor-pointer bg-transparent border-none text-base leading-none"
-            >
-              ✕
-            </button>
-
-            {!scored &&
-              (fortuneZodiac ? (
-                <p
-                  className="text-zinc-300 text-sm sm:text-base text-center"
-                  style={{
-                    opacity: scoringOut ? 0 : 1,
-                    transition: "opacity 350ms",
-                  }}
-                >
-                  {fortuneZodiac.dish}
-                </p>
-              ) : (
-                <div className="h-4 w-48 bg-zinc-800 rounded-full animate-pulse" />
-              ))}
-
-            {!revealed ? (
+            {!scored ? (
               <div
+                className="flex flex-col items-center gap-4 w-full transition-opacity duration-350"
                 style={{
-                  opacity: revealing ? 0 : !fortuneZodiac ? 0.4 : 1,
-                  transition: "opacity 350ms",
+                  opacity: scoringOut ? 0 : 1,
+                  pointerEvents: scoringOut ? "none" : "auto",
                 }}
               >
-                <button
-                  onClick={handleReveal}
-                  disabled={!fortuneZodiac || revealing}
-                  className="mt-2 px-4 py-2 rounded-full border border-white text-sm text-zinc-300 hover:text-zinc-100 cursor-pointer bg-transparent disabled:cursor-not-allowed font-semibold tracking-widest animate-pulse-gentle"
-                >
-                  RECEIVE THE BEAN'S WISDOM
-                </button>
+                {fortuneTitle ? (
+                  <p className="text-lg sm:text-xl font-bold text-zinc-200 animate-fade-up text-center">
+                    {fortuneTitle}
+                  </p>
+                ) : (
+                  <div className="h-3 w-32 bg-zinc-800 rounded-full animate-pulse" />
+                )}
+                {fortuneText ? (
+                  <p className="text-zinc-200 text-center sm:text-base animate-fade-up mb-2">
+                    {fortuneText}
+                  </p>
+                ) : (
+                  <div className="h-5 w-56 bg-zinc-800 rounded-full animate-pulse" />
+                )}
+                <div className="flex flex-wrap justify-center gap-4 text-sm animate-fade-up">
+                  <button
+                    onClick={() => handleScore(1)}
+                    className="flex items-center gap-2 px-3 py-1 rounded-full border border-green-900 text-green-700 hover:border-green-700 hover:text-green-300 transition-colors cursor-pointer bg-transparent"
+                  >
+                    <span>🌱</span>
+                    <span>Accept</span>
+                  </button>
+                  <button
+                    onClick={() => handleScore(-1)}
+                    className="flex items-center gap-2 px-3 py-1 rounded-full border border-amber-900 text-amber-700 hover:border-amber-700 hover:text-amber-300 transition-colors cursor-pointer bg-transparent"
+                  >
+                    <span>🍂</span>
+                    <span>Resist</span>
+                  </button>
+                </div>
               </div>
             ) : (
-              <>
-                {!scored ? (
-                  <div
-                    className="flex flex-col items-center gap-4 w-full transition-opacity duration-350"
-                    style={{
-                      opacity: scoringOut ? 0 : 1,
-                      pointerEvents: scoringOut ? "none" : "auto",
-                    }}
-                  >
-                    {fortuneText ? (
-                      <p className="italic text-zinc-200 text-center sm:text-base animate-fade-up mb-2">
-                        {fortuneText}
-                      </p>
-                    ) : (
-                      <div className="h-5 w-56 bg-zinc-800 rounded-full animate-pulse" />
-                    )}
-                    <div className="flex flex-wrap justify-center gap-4 text-sm animate-fade-up">
-                      <button
-                        onClick={() => handleScore(1)}
-                        className="flex items-center gap-2 px-3 py-1 rounded-full border border-green-900 text-green-700 hover:border-green-700 hover:text-green-300 transition-colors cursor-pointer bg-transparent"
-                      >
-                        <span>🌱</span>
-                        <span>Accept</span>
-                      </button>
-                      <button
-                        onClick={() => handleScore(-1)}
-                        className="flex items-center gap-2 px-3 py-1 rounded-full border border-amber-900 text-amber-700 hover:border-amber-700 hover:text-amber-300 transition-colors cursor-pointer bg-transparent"
-                      >
-                        <span>🍂</span>
-                        <span>Resist</span>
-                      </button>
-                    </div>
-                  </div>
-                ) : (
-                  <div
-                    key={scoredText}
-                    className="flex flex-col items-center gap-4 animate-fade-up"
-                  >
-                    {scoredText && (
-                      <p className="text-zinc-300 text-sm sm:text-base text-center">
-                        {scoredText}
-                      </p>
-                    )}
-                    {text && (
-                      <p className="italic text-zinc-200 text-center sm:text-base mb-2">
-                        "{text}"
-                      </p>
-                    )}
-                    <div className="flex items-center gap-6">
-                      <a
-                        href="/beanstalk"
-                        className="text-sm text-zinc-400 hover:text-zinc-200 underline transition-colors"
-                      >
-                        The Beanstalk grows →
-                      </a>
-                      <button
-                        onClick={handleClose}
-                        aria-label="Close"
-                        className="flex align-center text-zinc-500 hover:text-zinc-400 transition-colors cursor-pointer bg-transparent border-none text-sm leading-none"
-                      >
-                        Close ✕
-                      </button>
-                    </div>
-                  </div>
+              <div
+                key={scoredText}
+                className="flex flex-col items-center gap-4 animate-fade-up"
+              >
+                {scoredText && (
+                  <p className="text-zinc-300 text-sm sm:text-base text-center">
+                    {scoredText}
+                  </p>
                 )}
-              </>
+                {text && (
+                  <p className="italic text-zinc-200 text-center sm:text-base mb-2">
+                    "{text}"
+                  </p>
+                )}
+                <div className="flex items-center gap-6">
+                  <a
+                    href="/beanstalk"
+                    className="text-sm text-zinc-400 hover:text-zinc-200 underline transition-colors"
+                  >
+                    The Beanstalk grows →
+                  </a>
+                  <button
+                    onClick={handleClose}
+                    aria-label="Close"
+                    className="flex align-center text-zinc-500 hover:text-zinc-400 transition-colors cursor-pointer bg-transparent border-none text-sm leading-none"
+                  >
+                    Close ✕
+                  </button>
+                </div>
+              </div>
             )}
           </div>
         </div>

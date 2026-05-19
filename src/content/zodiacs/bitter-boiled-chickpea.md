@@ -7,16 +7,21 @@ trait: versatile
 dish: Revithia - chickpeas with bitter lemon and fresh herbs.
 quote: A bean is the most versatile of tools.
 seasonalFortune: A lemon halved many ways still bleeds the same brightness into the pot. The broth lengthens to suit whichever herb arrives; the bean accepts each season's bitterness in turn.
-facetMost: Lemon meets parsley, then dill, then mint, and the chickpea answers each. You arrive at a sickbed, a deadline, a stranger's kitchen, and shape yourself to what the hour needs.
-fortuneMost: Every form available to you is suited to the moment — move between them without friction or hesitation.
-facetHigh: The herb chosen at the doorway, not the counter. Plans rewritten between the train and the meeting; the room read, the script abandoned, the new one fluent.
-fortuneHigh: Your range is not the gift; the precision with which you deploy it is.
-facetMid: Bitterness folds into the broth one pinch at a time. Loaned tools, borrowed coats, a recipe halved for company — small adjustments, made without comment.
-fortuneMid: One form serves the moment better than the rest — choose it and hold it.
-facetLow: The same lemon, squeezed the same way, every Sunday. You keep one route to work, one mug, one way of answering the phone, and the week steadies around it.
-fortuneLow: Pick one answer and defend it; the room needs a stake in the ground, not a menu.
-facetLeast: One pot, one heat, one bean simmered until tender. A request to switch chairs, switch methods, switch tone mid-sentence — refused, and the day goes on unbothered.
-fortuneLeast: Collapse the options down to one and deliver it plainly — breadth is not helping anyone right now.
+facetMostTitle: The Bean That Answers Each
+facetMost: You arrive at a sickbed, a deadline, a stranger's kitchen, and shape yourself to what the hour needs.
+facetHighTitle: The Herb at the Doorway
+facetHigh: Plans rewritten between the train and the meeting; the room read, the script abandoned, the new one fluent.
+facetMidTitle: Pinch by Pinch
+facetMid: Loaned tools, borrowed coats, a recipe halved for company — small adjustments, made without comment.
+facetLowTitle: The Sunday Lemon
+facetLow: You keep one route to work, one mug, one way of answering the phone, and the week steadies around it.
+facetLeastTitle: One Pot, One Heat
+facetLeast: A request to switch chairs, switch methods, switch tone mid-sentence — refused, and the day goes on unbothered.
+fortuneMost: Walk into the unfamiliar room and order what the regulars are ordering. Fluency is choosing fast, not knowing first.
+fortuneHigh: Drop two of the three openers you've been rehearsing. Use the one that fits the actual person; the others were for an audience that isn't there.
+fortuneMid: Halve the recipe for the guest who's coming. Adjusting quietly is the whole skill — don't narrate the adjustment.
+fortuneLow: Commit to one route, one order, one method this week. Versatility without a spine is just weather.
+fortuneLeast: Refuse the chair-swap. There's exactly one way you do this thing well, and today is the day to know that.
 ---
 
 Infused Chickpeas are the Bean Zodiac's most versatile — they meet each situation on its own terms.

@@ -7,16 +7,21 @@ trait: laconic
 dish: Black bean soup with ancho chile and dark chocolate.
 quote: Speech is silver; bean is golden.
 seasonalFortune: The jar of dried beans waits out the year. Around such a person, weather settles; what wants to keep, keeps, and the rest evaporates without comment.
-facetMost: Ancho cured on a string, sting held in reserve. Your replies sit unsent for days; when one arrives, no one asks for a second.
-fortuneMost: Say the one thing, then let the silence carry everything that follows.
-facetHigh: Dark chocolate broken at the seam, no announcement. In a loud room you wait until the room turns, then offer the sentence that ends the argument.
-fortuneHigh: Cut everything before the last clause; the conclusion is the only part that carries weight.
-facetMid: Beans soaked overnight in cold water — no stirring, no checking. You finish the meal, set the bowl down, and let the table fill its own quiet.
-fortuneMid: One word lands better than three — find it.
-facetLow: The pot lid lifted every few minutes, steam talked back into the kitchen. You draft your thoughts aloud, revising as you go, three sentences where one would have held.
-fortuneLow: Say the extra sentence; the room needs more than what you have left it with.
-facetLeast: A bag of dried beans poured out and counted aloud, twice. You narrate the bill, the apology, the small receipt — every transaction itemised before anyone asks.
-fortuneLeast: Keep talking past the point where you would normally stop — this is one of those times where more is right.
+facetMostTitle: Ancho on the String
+facetMost: Your replies sit unsent for days; when one arrives, no one asks for a second.
+facetHighTitle: The Chocolate Seam
+facetHigh: In a loud room you wait until the room turns, then offer the sentence that ends the argument.
+facetMidTitle: The Overnight Soak
+facetMid: You finish the meal, set the bowl down, and let the table fill its own quiet.
+facetLowTitle: The Lifted Lid
+facetLow: You draft your thoughts aloud, revising as you go, three sentences where one would have held.
+facetLeastTitle: The Counted Pour
+facetLeast: You narrate the bill, the apology, the small receipt — every transaction itemised before anyone asks.
+fortuneMost: Send the one-line reply. The paragraph is for you, not them.
+fortuneHigh: Delete the greeting and the sign-off. What's left is the email.
+fortuneMid: Don't fill the silence in the meeting. Someone with worse instincts will, and you'll learn something.
+fortuneLow: Say the sentence you keep editing down to nothing. Uncut.
+fortuneLeast: Pick one thing to be quiet about this week. Anything. Practice.
 ---
 
 Desiccated Black Beans are the Bean Zodiac's most laconic — they say exactly one thing, and it is the right one.

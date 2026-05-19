@@ -7,16 +7,21 @@ trait: liminal
 dish: Smoked chickpea broth with bitter cress, unresolved.
 quote: Not all those who bean are lost.
 seasonalFortune: A season spent at the lip of the bowl. Smoke loiters above the cress, the broth half-claimed; the cook lingers in doorways, neither leaving the kitchen nor sitting down.
-facetMost: Steep yourself the way smoke steeps a room — present in every corner, settled in none. Your address is a forwarding one; your week, a series of thresholds.
-fortuneMost: Hold the in-between completely — not as failure to arrive, but as the place you are most fluent.
-facetHigh: The cress wilts only on one side. You arrive at gatherings coat-on, lean against the doorframe, and leave before anyone asks where you've been staying.
-fortuneHigh: Remain in the threshold; being between is its own form of knowledge.
-facetMid: Smoke drifts past the window you keep cracked. Half your messages sit unsent in drafts — read, considered, still hovering between the fire and the reply.
-fortuneMid: Stay between for now — the door does not need to close yet.
-facetLow: Broth poured, bowl chosen. You sleep in the same bed each night, keep one mug, and answer questions about your plans in completed sentences.
-fortuneLow: Pick a side and step through; the threshold is not a place to live, and the room needs you in it.
-facetLeast: Cress at the bottom, smoke gone cold. By Tuesday the calendar is inked through to Sunday; the door behind you closes, and you do not check the latch.
-fortuneLeast: Close the door behind you and commit — staying between is no longer neutral, it is just late.
+facetMostTitle: Present in Every Corner
+facetMost: Your address is a forwarding one; your week, a series of thresholds.
+facetHighTitle: Cress on One Side Only
+facetHigh: You arrive at gatherings coat-on, lean against the doorframe, and leave before anyone asks where you've been staying.
+facetMidTitle: The Window Kept Cracked
+facetMid: Half your messages sit unsent in drafts — read, considered, still hovering between the fire and the reply.
+facetLowTitle: Broth Poured, Bowl Chosen
+facetLow: You sleep in the same bed each night, keep one mug, and answer questions about your plans in completed sentences.
+facetLeastTitle: Smoke Gone Cold
+facetLeast: By Tuesday the calendar is inked through to Sunday; the door behind you closes, and you do not check the latch.
+fortuneMost: Keep the coat on at Friday's thing and stay near the kitchen. The good intel is being traded by the fridge, not at the table.
+fortuneHigh: Someone asks Tuesday if you're staying. Say "no" without the three-sentence cushion — they're not asking for a paragraph.
+fortuneMid: Unpack the box of books. Leave the kitchen box sealed; one shelf claimed is enough to count as moved in.
+fortuneLow: Take the chair facing the wall this weekend, back to the door. The escape route survives one dinner without you guarding it.
+fortuneLeast: The threshold's gone cold. Pick — in or out before Sunday. The draft you're causing is colder than either choice.
 ---
 
 Charcoal Chickpeas are the Bean Zodiac's most liminal — always between places, never quite committed to any of them.

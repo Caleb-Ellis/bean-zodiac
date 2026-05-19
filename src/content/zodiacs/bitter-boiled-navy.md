@@ -7,16 +7,21 @@ trait: dogmatic
 dish: Navy bean and escarole soup.
 quote: A bean convinced against his will is of the same opinion still.
 seasonalFortune: Small white beans, sorted once, simmered the way they were last winter and the winter before. The escarole bitters into the broth on schedule.
-facetMost: Escarole goes in at the eleventh minute because the eleventh minute is when escarole goes in. You decline the dinner invitation; you have already eaten at seven for nine years.
-fortuneMost: The principle applies here too — hold it without exception or apology.
-facetHigh: A pale broth, salted by the same hand each time. Friends learn which questions you will not entertain twice; they ask anyway, and you answer the same.
-fortuneHigh: A conviction that cannot remember its origin is inheritance, not principle — trace it back.
-facetMid: The pot held to a low murmur, lid tilted exactly so. You reread the contract clause before signing, though you wrote it.
-fortuneMid: The principle holds — apply it, and notice where it strains.
-facetLow: Escarole wilted in whatever liquid was warm. You change your mind in the middle of the sentence and finish the new thought instead.
-fortuneLow: Take the exception; a rule that bends here does not break everywhere.
-facetLeast: Beans never sorted, broth thinned with whatever the cupboard offered. You hold three contradictory positions on the same week and find each one persuasive in turn.
-fortuneLeast: Let the framework go for now — not every situation owes it a hearing.
+facetMostTitle: The Eleventh Minute
+facetMost: You decline the dinner invitation; you have already eaten at seven for nine years.
+facetHighTitle: The Same-Salted Broth
+facetHigh: Friends learn which questions you will not entertain twice; they ask anyway, and you answer the same.
+facetMidTitle: The Lid Tilted Exactly
+facetMid: You reread the contract clause before signing, though you wrote it.
+facetLowTitle: Escarole in Whatever's Warm
+facetLow: You change your mind in the middle of the sentence and finish the new thought instead.
+facetLeastTitle: Whatever the Cupboard Offered
+facetLeast: You hold three contradictory positions on the same week and find each one persuasive in turn.
+fortuneMost: Decline the request that violates the rule, in writing. Saying it out loud is what makes a principle different from a preference.
+fortuneHigh: Name where the rule came from before you cite it again. A principle whose origin you can't recall is a habit in formalwear.
+fortuneMid: Test the rule against today's case out loud. If you have to twist the case to fit, the rule is the thing that needs trimming.
+fortuneLow: Grant the exception on the record. Pretending the rule still applies while quietly bending it is the worst of both honesties.
+fortuneLeast: Show up to the dinner without an agenda for once. The system can sit in the car.
 ---
 
 Infused Navy Beans are the Bean Zodiac's most dogmatic — they apply a framework fully, conviction embedded so deeply it becomes invisible.

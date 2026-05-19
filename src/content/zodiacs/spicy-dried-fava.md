@@ -7,16 +7,21 @@ trait: audacious
 dish: Bessara - Moroccan dried fava bean dip with cumin and chili oil.
 quote: Fortune favors the bean.
 seasonalFortune: A year that cures hard and serves hot. The dried bean keeps its shape until the chili oil hits, and then a household built on small dares finds the heat it was waiting on.
-facetMost: Chili oil bloomed before anyone sat down. You enter a room speaking, and the introductions catch up later.
-fortuneMost: Commit fully and trust the instinct that brought you here. The audacity is complete.
-facetHigh: Rough draft, salted and pushed across the table. You send the work while the cumin is still loud, before the second-guess arrives.
-fortuneHigh: The difficulty ahead was chosen; go at it with everything.
-facetMid: The pestle strikes once, hard. You move on the half-formed plan rather than wait for the full one.
-fortuneMid: The move is available — take it before conditions start to close.
-facetLow: A pinch of chili held back from the bowl; the spoon tests, the hand pauses. You walk the room twice before deciding where the chair goes.
-fortuneLow: Find a new approach — the space you were moving into has closed and the ground is no longer open for it.
-facetLeast: Better to soak the favas overnight than scorch them at noon. You let small obligations sit a day, draft the reply twice, and send the calmer one.
-fortuneLeast: Change the approach — the position has been filled and the original route can no longer reach it.
+facetMostTitle: Chili Oil Before the Seat
+facetMost: You enter a room speaking, and the introductions catch up later.
+facetHighTitle: Rough Draft Across the Table
+facetHigh: You send the work while the cumin is still loud, before the second-guess arrives.
+facetMidTitle: The Pestle, Once
+facetMid: You move on the half-formed plan rather than wait for the full one.
+facetLowTitle: The Held Pinch
+facetLow: You walk the room twice before deciding where the chair goes.
+facetLeastTitle: The Overnight Soak
+facetLeast: You let small obligations sit a day, draft the reply twice, and send the calmer one.
+fortuneMost: Start talking on the way in. Finish the sentence after.
+fortuneHigh: Take the floor. Step off early.
+fortuneMid: Start the half-plan with the phone number. Monday is a coward.
+fortuneLow: That door is locked. Slow down and you'd see the open one.
+fortuneLeast: Sit. The thing you were charging at isn't here.
 ---
 
 Sichuan Fava Beans are the Bean Zodiac's most audacious — the work is difficult, the heat is significant, and they have chosen to proceed.

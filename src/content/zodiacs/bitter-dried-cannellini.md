@@ -7,16 +7,21 @@ trait: ascetic
 dish: Acquacotta - cannellini and bitter greens.
 quote: Simplicity is the ultimate bean.
 seasonalFortune: A long quiet season. The bean keeps in its jar, the bitter leaf cures on the sill, and the kitchen waits weeks for the pot to come down.
-facetMost: Water, bean, one bitter leaf. The fifth ingredient is offered and you wave it off without looking up from the pot.
-fortuneMost: Everything that does not belong has been taken — what is left needs no defense.
-facetHigh: The shelf holds three jars and no more; a fourth would have to earn its place by displacing one already there.
-fortuneHigh: Hold the reduction until only what cannot be argued away remains.
+facetMostTitle: Water, Bean, One Leaf
+facetMost: The fifth ingredient is offered and you wave it off without looking up from the pot.
+facetHighTitle: The Third Jar
+facetHigh: A fourth would have to earn its place by displacing one already there.
+facetMidTitle: The Pot Left Plain
 facetMid: A coat outlasts a decade because you have never let yourself want the next one. What works is not replaced until it stops.
-fortuneMid: Remove one more thing — see if what remains is stronger for it.
-facetLow: Drawers full of small good things — pens, ribbons, a folded receipt from a fine afternoon. Nothing leaves your keeping without a fight.
-fortuneLow: Accept the comfort being offered; not everything added back in is a compromise.
-facetLeast: You set out the second cruet, the bread, the dish of salt; the table grows crowded and you keep adding what someone might reach for.
-fortuneLeast: Let the imperfect thing stay — what you stripped out may have been keeping something else alive.
+facetLowTitle: The Folded Receipt
+facetLow: Drawers full of small good things — pens, ribbons, a fine afternoon's keepsake. Nothing leaves your keeping without a fight.
+facetLeastTitle: The Second Cruet
+facetLeast: You set out the bread, the dish of salt; the table grows crowded and you keep adding what someone might reach for.
+fortuneMost: Get rid of one more thing today. The drawer with the chargers.
+fortuneHigh: Cancel the subscription you've been justifying. It hasn't earned the line item.
+fortuneMid: Stop editing the sentence. The fourth version was the right one.
+fortuneLow: Buy the second of something. Redundancy is not weakness.
+fortuneLeast: Keep the ugly thing. Restraint without joy is just thrift.
 ---
 
 Desiccated Cannellini Beans are the Bean Zodiac's most ascetic — they have removed every excess and arrived at something so refined it barely takes up space.

@@ -6,6 +6,7 @@ export type FortuneEntry = {
   date: string;
   zodiacId: ZodiacId;
   qualityId: QualityId;
+  facetTitle: string;
   facetText: string;
   score: number; // 0 = no vote, +1 = accepted, -1 = resisted
   text: string | null;
@@ -100,13 +101,21 @@ export const useStore = create<State>()(
     }),
     {
       name: "bean-zodiac",
-      version: 2,
+      version: 3,
       migrate: (state: any, version: number) => {
         if (version < 2) {
           state.fortuneHistory = (state.fortuneHistory ?? []).map((e: any) => ({
             ...e,
             facetText: "",
             text: e.text,
+          }));
+        }
+        if (version < 3) {
+          state.fortuneHistory = (state.fortuneHistory ?? []).map((e: any) => ({
+            ...e,
+            facetText: e.facetText || "",
+            facetTitle: e.facetTitle || "",
+            text: e.text || "",
           }));
         }
         return state;

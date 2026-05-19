@@ -7,16 +7,21 @@ trait: pungent
 dish: Leather britches - Appalachian smoke-dried green beans simmered with ham hock and cider vinegar
 quote: A bean by any other name would smell as sweet.
 seasonalFortune: A season when the leather britches hang in the rafters and tell the kitchen what month it is before the calendar does. Vinegar sharpens; hock-smoke insists.
-facetMost: Leather britches strung up the whole winter, curing in the open air. You don't soften the take; you hang it where everyone can see. Friends quote you back to yourself.
-fortuneMost: Arrive at complete intensity — everything about you at full strength, before a word is spoken.
-facetHigh: Smoke crept into the cupboard linens months ago. You send the long voicemail. You write the email that names the thing. Soft rooms find you, and leave clearer.
-fortuneHigh: Fill the space; the full intensity is the signal you are sending and it is the right one.
-facetMid: Hock-smoke threading the broth. You walk into a room and your opinion is already simmering on the stove — neighbors know the cider-cut tang of where you stand before you sit.
-fortuneMid: The presence is already arriving before you — let it.
-facetLow: Cider vinegar barely whispering under the broth. You hear the sharp thing and let it pass — a forwarded email, a sister's wrong story at dinner; you nod, refill the glass, change subjects.
-fortuneLow: Dilute it slightly; the full strength arrived as overwhelming and that is now the impression that has stuck.
-facetLeast: A pot of green beans cooked without the hock at all. You hold your verdicts like coins in a pocket, fingering them, spending none. People mistake the quiet for agreement.
-fortuneLeast: The intensity is the reason things are emptying out. Dial it back before the space is entirely clear.
+facetMostTitle: Britches Strung All Winter
+facetMost: You don't soften the take; you hang it where everyone can see. Friends quote you back to yourself.
+facetHighTitle: Smoke in the Cupboard Linens
+facetHigh: You send the long voicemail, you write the email that names the thing; soft rooms find you, and leave clearer.
+facetMidTitle: Hock-Smoke in the Broth
+facetMid: You walk into a room and your opinion is already simmering — neighbours know where you stand before you sit.
+facetLowTitle: Cider Barely in the Broth
+facetLow: You hear the sharp thing and let it pass — a forwarded email, a sister's wrong story at dinner; you nod, refill the glass, change subjects.
+facetLeastTitle: The Pot Without the Hock
+facetLeast: You hold your verdicts like coins in a pocket, fingering them, spending none. People mistake the quiet for agreement.
+fortuneMost: Don't soften the take on the way in. The hedged version is the one nobody will quote, which is also the one nobody will use.
+fortuneHigh: Your opinion will be in the hallway before you are. Make sure it's the hallway you'd have chosen.
+fortuneMid: Send the take in writing this week. Spoken, it sounds like weather; written, it sounds like a position.
+fortuneLow: Stop letting the wrong story at the dinner table pass. The third refill is not, in fact, the answer.
+fortuneLeast: A coat on a back of a chair has been doing your speaking for you. Either sit in the chair or take the coat home.
 ---
 
 Cured Green Beans are the Bean Zodiac's most pungent — their optimism has developed an edge that fills the room before they have entered it.

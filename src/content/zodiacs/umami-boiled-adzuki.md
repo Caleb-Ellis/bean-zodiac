@@ -7,16 +7,21 @@ trait: affectionate
 dish: Adzuki and white miso soup with silken tofu and wakame.
 quote: All you need is bean.
 seasonalFortune: Long simmering weather. Houses warmed by what they hold; the people inside go quiet at the table, slow to leave the bowl.
-facetMost: Wakame opening in the warm dark. You remember who takes sugar, who hates onion, whose mother just died — and you act on it before being asked.
-fortuneMost: The affection you have been measuring out belongs to them in full — give it.
-facetHigh: Miso stirred in last so it never scalds. You text the friend who went silent. Not to fix it. To say you're still here.
-fortuneHigh: What you feel is deeper than you have let on — let more of it be visible.
-facetMid: The silken tofu accepts the broth's color slowly. Your hand lands on a shoulder before you've decided to comfort; you find out you meant it on the way.
-fortuneMid: The small gesture you are considering is worth making — it will land.
-facetLow: Adzuki kept whole, refusing the broth. You hear the bad news and offer something practical — a ride, a number, a meal dropped off — instead of the long hug they half-wanted.
-fortuneLow: Someone has stepped back — give them the distance they are asking for.
-facetLeast: Beans counted out one by one. You like people fine at a distance; closeness feels like steam fogging a window you were trying to see through.
-fortuneLeast: The signal to stop is clear — what you are giving is landing as an imposition.
+facetMostTitle: Wakame in the Warm Dark
+facetMost: You remember who takes sugar, who hates onion, whose mother was ill — and you act on it before being asked.
+facetHighTitle: Miso, Stirred in Last
+facetHigh: You text the friend who went silent. Not to fix it. To say you're still here.
+facetMidTitle: Tofu at the Broth's Edge
+facetMid: Your hand lands on a shoulder before you've decided to comfort; you find out you meant it on the way.
+facetLowTitle: The Whole Adzuki
+facetLow: You hear the bad news and offer something practical — a ride, a number, a meal dropped off — instead of the long hug they half-wanted.
+facetLeastTitle: Beans by the Count
+facetLeast: You like people fine at a distance; closeness feels like steam fogging a window you were trying to see through.
+fortuneMost: Cook for them. Not a metaphor — actual food, on a plate, by Thursday.
+fortuneHigh: When they say they're fine, count to four and ask again. The truth is usually behind the second answer.
+fortuneMid: Mail the card you bought in March. Late warmth is still warmth, and the date on the envelope is not the point.
+fortuneLow: Someone close is rationing themselves. Bring soup, ask nothing, leave it on the step.
+fortuneLeast: Send one short message this week and then sit on your hands. The garden grows whether you check it or not.
 ---
 
 Dashi Adzuki Beans are the Bean Zodiac's most affectionate — they hold Beans with structural care.

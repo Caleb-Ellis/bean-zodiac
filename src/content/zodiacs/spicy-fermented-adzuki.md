@@ -7,16 +7,21 @@ trait: provocative
 dish: Adzuki doenjang jjigae - Korean fermented soybean paste stew with gochugaru and tofu.
 quote: Every act of creation is first an act of bean destruction.
 seasonalFortune: A crock that has waited all winter begins to push against its weight. The season belongs to those whose long-kept things are ready to enter rooms.
-facetMost: A jjigae carried into a quiet room still bubbling. You enter conversations you weren't in and leave them unable to resume the old shape.
-fortuneMost: Say the thing that rearranges the conversation — and stay for every word of what comes after.
-facetHigh: Doenjang cracked open mid-meeting. You send the message that turns a settled thread sharp, then stay to watch it work.
-fortuneHigh: The provocation is ready; put it forward and stay in what follows.
-facetMid: Gochugaru blooming in hot oil. You bring the one observation no one wanted named, and the table rearranges around it.
-fortuneMid: The question is worth asking. Ask it, then hold your position.
-facetLow: Paste left to deepen on its own shelf. You keep rooms calm, move things gently, prefer the air a place already has.
-fortuneLow: Wait before sending the next one; what was meant to open something has closed it instead.
-facetLeast: Tofu cooling without seasoning. You smooth what others sharpened, write the soft reply, take the heat out before it spreads.
-fortuneLeast: Walk away; the conversation closed before it could be held open, and nothing remains worth pressing.
+facetMostTitle: Still Bubbling at the Door
+facetMost: You enter conversations you weren't in and leave them unable to resume the old shape.
+facetHighTitle: Doenjang Cracked Open
+facetHigh: You send the message that turns a settled thread sharp, then stay to watch it work.
+facetMidTitle: Gochugaru in Hot Oil
+facetMid: You bring the one observation no one wanted named, and the table rearranges around it.
+facetLowTitle: The Paste on Its Own Shelf
+facetLow: You keep rooms calm, move things gently, prefer the air a place already has.
+facetLeastTitle: Tofu Without Seasoning
+facetLeast: You smooth what others sharpened, write the soft reply, take the heat out before it spreads.
+fortuneMost: Drop the sentence sideways at dinner — not the speech, the half-sentence that doesn't quite track. Then eat.
+fortuneHigh: The kinder phrasing is the cowardly one. Send the version that flinched you.
+fortuneMid: Ask the question that's the wrong shape for the meeting. The person who answers it crooked is your collaborator.
+fortuneLow: You lit a small fire two days ago and keep going back to fan it. Let the coals work.
+fortuneLeast: There's a quarrel in the next thread with your name almost on it. Misspell it on purpose and walk past.
 ---
 
 Kimchi Adzuki Beans are the Bean Zodiac's most provocative — they emerge from the dark to rearrange the conversation.

@@ -7,16 +7,21 @@ trait: conscientious
 dish: Pasta e fagioli - cannellini with anchovy paste and Parmesan rind.
 quote: In matters of bean, swim with the current; in matters of principle, stand like a cannellini.
 seasonalFortune: A season of slow stocks and labelled jars. The pot holds its low simmer; the rind gives up its salt by degrees, and nothing useful is hurried out of the broth.
-facetMost: Anchovy dissolving into oil, invisible and load-bearing. You keep the spreadsheet no one asked for, and three people quietly depend on it.
-fortuneMost: Give it everything the work deserves — when you do it properly, it stays done.
-facetHigh: Parmesan rind kept in the freezer against a future pot. You answer emails in the order they arrived, never the order they shouted.
-fortuneHigh: Your attention is the most valuable thing you carry — spend it accordingly.
-facetMid: Beans rinsed, sorted, the split ones set aside. Before leaving a room, you put back the two things that weren't yours.
-fortuneMid: Finish it properly — the care you put in is legible to anyone who looks.
-facetLow: A pot left to find its own seasoning. You pay the bill the day the reminder arrives, and the lights still come on.
-fortuneLow: The care is landing somewhere that cannot receive it.
-facetLeast: Salt by the handful, broth by the eye. Receipts go in the drawer; the drawer goes unopened; the month closes anyway.
-fortuneLeast: A concession is being requested; it is not actually a small one.
+facetMostTitle: Anchovy Into the Oil
+facetMost: You keep the spreadsheet no one asked for, and three people quietly depend on it.
+facetHighTitle: The Rind Against a Future Pot
+facetHigh: You answer emails in the order they arrived, never the order they shouted.
+facetMidTitle: The Split Ones Set Aside
+facetMid: Before leaving a room, you put back the two things that weren't yours.
+facetLowTitle: The Pot's Own Seasoning
+facetLow: You pay the bill the day the reminder arrives, and the lights still come on.
+facetLeastTitle: Salt by the Handful
+facetLeast: Receipts go in the drawer; the drawer goes unopened; the month closes anyway.
+fortuneMost: Build the labelled folder system this weekend. It is not procrastination; it is the foundation of a quieter Tuesday.
+fortuneHigh: When they ask for rough, send rough. Resist the half-hour of tidying — your rough is already cleaner than the room expects.
+fortuneMid: Delete a task instead of doing it. The list shrinks; nothing falls.
+fortuneLow: Submit the draft today, unpolished. Whatever you'd add in another hour will not be the part anyone notices.
+fortuneLeast: The favour is bigger than it sounds. Ask how many hours before you nod, then halve their answer to know the truth.
 ---
 
 Dashi Cannellini Beans are the Bean Zodiac's most conscientious — they do things properly because proper is the point.

@@ -7,16 +7,21 @@ trait: irrepressible
 dish: Spicy adzuki jeon - Korean pan-fried adzuki bean pancake with gochugaru.
 quote: Don't stop me now - I'm having such a good bean!
 seasonalFortune: A season of full pans and loud oil. The batter spits before it sets; the red bleeds early into everything it touches, and the kitchen forgets how to be quiet.
-facetMost: Gochugaru on the fingertips, hours later. You send the draft, the song, the half-thing, before the pan has even cooled — the next one is already crackling.
-fortuneMost: Everything runs at full heat — point it entirely at the thing that deserves it.
-facetHigh: A pancake torn straight from the skillet and passed around. You arrive at the door already mid-sentence; the room reddens to match you.
-fortuneHigh: The energy is full and irrepressible; aim it before it finds its own direction.
-facetMid: Batter spilling past the rim of the bowl. Twelve unsent messages collapse into one long one at midnight, and you hit send.
-fortuneMid: Choose the target before the heat goes anywhere.
-facetLow: Oil brought up slow, one degree at a time. You let the week heat itself; the thing that needs doing on Thursday can wait for Thursday.
-fortuneLow: Pull back until conditions change; what arrives at full heat is being treated as something to manage, not meet.
-facetLeast: Dry adzuki in a closed jar on a high shelf. The counters stay wiped, the chair stays pushed in, and nothing in the room is asking to be noticed.
-fortuneLeast: Stop sending heat into closed space; everything has drawn back and it will not be received.
+facetMostTitle: Gochugaru on the Fingertips
+facetMost: You send the draft, the song, the half-thing, before the pan has even cooled — the next one is already crackling.
+facetHighTitle: The Pancake Torn From the Skillet
+facetHigh: You arrive at the door already mid-sentence; the room reddens to match you.
+facetMidTitle: Batter Past the Rim
+facetMid: Twelve unsent messages collapse into one long one at midnight, and you hit send.
+facetLowTitle: Oil Brought up Slow
+facetLow: You let the week heat itself; the thing that needs doing on Thursday can wait for Thursday.
+facetLeastTitle: The Closed Jar
+facetLeast: The counters stay wiped, the chair stays pushed in, and nothing in the room is asking to be noticed.
+fortuneMost: Kick one door. Hard. The other eleven are decorative and you knew it.
+fortuneHigh: Spend the whole jug on one toast. Four small celebrations is just admin in a party hat.
+fortuneMid: Do the loud version. The quiet version has been workshopped to death and it died.
+fortuneLow: Pour a smaller glass. The thing you're about to celebrate hasn't happened yet.
+fortuneLeast: Skip the toast. The Tuesday you're trying to mark is just a Tuesday — let it be one.
 ---
 
 Red-Hot Adzuki Beans are the Bean Zodiac's most irrepressible — their heat cannot be contained.

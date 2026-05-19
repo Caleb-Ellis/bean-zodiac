@@ -7,16 +7,21 @@ trait: driven
 dish: Black bean and sweet plantain fritters — mashed black beans and ripe plantain fried together in rounds, crisp outside and sweet within.
 quote: Stay hungry, stay bean.
 seasonalFortune: A season the oil keeps running hot. Plantains ripen faster than the pan can take them, and the rounds leaving the skillet outpace the ones still mashing.
-facetMost: Dawn, and the second batch is already shaping. You will not let the heat go cold while there is plantain left to fry.
-fortuneMost: Go completely — the full force of what you are is the right amount for what is ahead.
-facetHigh: Inbox at midnight, every thread split open and answered while the oil's still warm. The replies leave before you reread them.
-fortuneHigh: The drive you carry is compressing what would otherwise take weeks.
-facetMid: Hunger arrives loud. You eat standing, plantain still steaming, before the next round needs turning.
-fortuneMid: Push toward the next thing — the momentum is real.
-facetLow: Bowls stack where you set them down. You move when the room asks, not before, and the mash keeps until morning.
-fortuneLow: Slow down; not everything in the way is an obstacle.
-facetLeast: At the table you wait out the others, content to be the last fritter on the plate, listening past your own turn.
-fortuneLeast: Stop and look back — the cost of the speed is arriving, and it needs to be faced.
+facetMostTitle: The Second Batch Shaping
+facetMost: You will not let the heat go cold while there is plantain left to fry.
+facetHighTitle: Oil Still Warm
+facetHigh: Inbox at midnight, every thread split open and answered. The replies leave before you reread them.
+facetMidTitle: Plantain Still Steaming
+facetMid: You eat standing, before the next round needs turning.
+facetLowTitle: Mash Kept Until Morning
+facetLow: You move when the room asks, not before.
+facetLeastTitle: The Last Fritter on the Plate
+facetLeast: You wait out the others, listening past your own turn.
+fortuneMost: Finish the thing today. Yes that thing. Bring snacks for whoever's still building beside you.
+fortuneHigh: Pace for the slowest person you love. The destination doesn't care; they will.
+fortuneMid: Send the encouraging text mid-sprint. Two sentences, one exclamation point, hit send before the doubt arrives.
+fortuneLow: You're outrunning a feeling, not a deadline. Stop at the next corner and name it out loud.
+fortuneLeast: Hand off the baton. Someone has been waiting to carry it and you've been hogging the leg.
 ---
 
 Caramelised Black Beans are the Bean Zodiac's most driven — warmth and determination that moves outward, pulling others along without intention.

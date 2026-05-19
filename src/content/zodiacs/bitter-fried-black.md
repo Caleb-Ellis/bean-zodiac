@@ -7,16 +7,21 @@ trait: incisive
 dish: Tostada - black beans with charred tomatillo and bitter greens.
 quote: Two things are infinite - the universe and bean stupidity; and I'm not sure about the universe.
 seasonalFortune: The season scorches at the rim and softens at the center. Tomatillos blister before they yield; bitter greens go limp under heat that knew its moment. A clean break in the tostada decides the meal.
-facetMost: Tomatillo splits along the line the flame already drew. In a meeting full of hedging, you name the actual disagreement in one sentence and the room reorganises around it.
-fortuneMost: The truth is visible — deliver it at full speed without apology.
-facetHigh: Bitter greens collapse where the pan was hottest. A friend circles their problem for twenty minutes; you cut to the one question they have been avoiding.
-fortuneHigh: Cut to what matters; the long way around wastes both of you.
-facetMid: Char tells the tongue what the eye missed. Reading a contract, your finger lands on the clause that matters before you have finished the page.
-fortuneMid: Find the point and move toward it — everything else is preamble.
-facetLow: The tostada holds its shape because nothing has snapped yet. You let a coworker finish the long version, then the longer version, trusting the shape to surface on its own.
-fortuneLow: Take the longer route to the point; arriving gently is still arriving.
-facetLeast: Tomatillo softened slow, no scorch, no edge. You hear a rumour and set it down unopened; weeks later it has rearranged itself without your help.
-fortuneLeast: Lead with warmth and bury the sharp thing entirely — this person needs the wrapping, not just the gift.
+facetMostTitle: Where the Flame Drew
+facetMost: In a meeting full of hedging, you name the actual disagreement in one sentence and the room reorganises around it.
+facetHighTitle: The Greens at the Hottest
+facetHigh: A friend circles their problem for twenty minutes; you cut to the one question they have been avoiding.
+facetMidTitle: Char Before the Tongue
+facetMid: Reading a contract, your finger lands on the clause that matters before you have finished the page.
+facetLowTitle: The Tostada, Unsnapped
+facetLow: You let a coworker finish the long version, then the longer version, trusting the shape to surface on its own.
+facetLeastTitle: Tomatillo, No Scorch
+facetLeast: You hear a rumour and set it down unopened; weeks later it has rearranged itself without your help.
+fortuneMost: Name the disagreement out loud. Politeness has been billing hours on this for weeks.
+fortuneHigh: Cut their long version off at the question they've been ducking. Be kind about it; do it anyway.
+fortuneMid: Trust the thing your eye snagged on. The second pass is going to agree with it grumpily.
+fortuneLow: Sit on the answer for one extra round. You'll get to be right twice as loudly.
+fortuneLeast: Lose the scalpel today. Bring a warm question and ask it badly on purpose.
 ---
 
 Scorched Black Beans are the Bean Zodiac's most incisive — they find the point and deliver it instantly.

@@ -7,16 +7,21 @@ trait: guileless
 dish: Butter bean traybake with preserved lemon, roasted garlic, and rosemary
 quote: To bean or not to bean — actually, yes, obviously. Why would you not.
 seasonalFortune: A season that browns uncovered. Lemon rind slumps into the oil without ceremony, garlic loses its skins, rosemary throws its smell down the corridor before anyone lifts the tray.
-facetMost: Skin loose, clove bare. A message lands and you reply in the tense it was sent — no draft, no softening, the answer plain as a split rind on the tray.
-fortuneMost: Receive it completely plainly — the uncalculated response is the correct one.
-facetHigh: Rosemary still hissing. A stranger asks the polite question and gets the actual one back; introductions skid past small weather into the salted middle of the pan.
-fortuneHigh: Skip the reading-between-the-lines; what was said is what was meant.
-facetMid: Lemon cuts the oil clean. The bill is wrong and you say so at the counter, no apology threaded through it, the correction landing flat as a tray on stone.
-fortuneMid: Take what is in front of you at face value — it is probably what it appears to be.
-facetLow: Garlic kept in its papers. You hold the draft back another week, file unshared, the rosemary scenting only your own kitchen until the shape of the thing satisfies you.
-fortuneLow: Read this one a little; the plain taking of it is being exploited by someone who knows exactly what they are doing.
-facetLeast: The tray goes under foil before the guests arrive. Sharp edges turned to the wall, the lemon tucked behind the bread, the room arranged so nothing surprises anyone.
-fortuneLeast: Put a guard up. Not everyone who sees the opening is benign.
+facetMostTitle: Skin Loose, Clove Bare
+facetMost: A message lands and you reply in the tense it was sent — no draft, no softening, the answer plain as a split rind on the tray.
+facetHighTitle: Rosemary Still Hissing
+facetHigh: A stranger asks the polite question and gets the actual one back; introductions skid past small weather into the salted middle of the pan.
+facetMidTitle: Lemon Cuts the Oil
+facetMid: The bill is wrong and you say so at the counter, no apology threaded through it, the correction landing flat as a tray on stone.
+facetLowTitle: Garlic in Its Papers
+facetLow: You hold the draft back another week, file unshared, the rosemary scenting only your own kitchen until the shape of the thing satisfies you.
+facetLeastTitle: The Tray Under Foil
+facetLeast: Sharp edges turned to the wall, the lemon tucked behind the bread, the room arranged so nothing surprises anyone.
+fortuneMost: Reply in the same tense they wrote in. The clever rephrase is a tax you keep paying for nothing.
+fortuneHigh: They're hoping you'll find a second meaning. There isn't one — take it at face value and watch them blink.
+fortuneMid: Read the text once and act. The forty-minute decode session is the actual subject of the text.
+fortuneLow: Someone has your tells memorised and is fishing with them. Wait a full minute before the next reply.
+fortuneLeast: Stop tucking the lemon behind the bread. Put the sharp dish in the middle of the table where it belongs.
 ---
 
 Chimichurri Butter Beans are the Bean Zodiac's most guileless — nothing behind what they say or do.

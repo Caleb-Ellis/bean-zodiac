@@ -9,7 +9,7 @@ const root = resolve(__dirname, "..");
 function readCollection(name) {
   const dir = resolve(root, `src/content/${name}`);
   return readdirSync(dir)
-    .filter((f) => f.endsWith(".md"))
+    .filter((f) => f.endsWith(".md") && !/^[A-Z]/.test(f))
     .map((f) => {
       const { data, content } = matter(readFileSync(resolve(dir, f), "utf8"));
       return { id: f.replace(/\.md$/, ""), data, content: content.trim() };

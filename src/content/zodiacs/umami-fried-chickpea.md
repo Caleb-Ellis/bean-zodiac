@@ -7,16 +7,21 @@ trait: proactive
 dish: Crispy chickpeas with fish sauce, toasted garlic, and lime.
 quote: Do not wait to strike till the bean is hot, but make it hot by striking.
 seasonalFortune: A life lived a quarter-hour ahead of itself — garlic sliced before the oil is poured, the lime halved before anyone thinks to ask.
-facetMost: Oil shimmers; the doorbell has not yet rung. You answer the email the morning it arrives, and the next one before it is sent.
-fortuneMost: Go before you are asked — the distance between where you are and where it needs to be is yours to close.
-facetHigh: Garlic crisping at dawn for a dinner three days off. Bags packed Wednesday for Saturday's train.
-fortuneHigh: Act before the moment arrives — you can see further than the situation has declared.
-facetMid: The fish sauce is uncapped before the pan is hot. You pay the bill the day it lands, not the week it warns.
-fortuneMid: Move ahead of it — what you are anticipating is real, and the action is the right response.
-facetLow: You wait to see which way the room tilts. Lime halves come out when someone calls for sour, not before.
-fortuneLow: Pause before the next move; the ask is to check in before acting.
-facetLeast: A whole head of garlic still in its skin on the windowsill. The list grows; the oil will warm when the oil warms.
-fortuneLeast: Ask before the next one; the action that went ahead has caused friction and the pattern is being named.
+facetMostTitle: The Oil Before the Ring
+facetMost: You answer the email the morning it arrives, and the next one before it is sent.
+facetHighTitle: Garlic Crisping at Dawn
+facetHigh: Bags packed Wednesday for Saturday's train; the dinner three days off is already planned.
+facetMidTitle: Fish Sauce, Pan Still Cold
+facetMid: You pay the bill before it's due, not the day of, and especially not the day after.
+facetLowTitle: Lime When Someone Calls
+facetLow: You wait to see which way the room tilts before you move.
+facetLeastTitle: Garlic in Its Skin
+facetLeast: The list grows; the oil will warm when the oil warms.
+fortuneMost: Start Monday's work tonight. By Tuesday you'll be inside something everyone else is still circling.
+fortuneHigh: Open the conversation they're about to open. The first mover sets the terms.
+fortuneMid: Book the dentist. The future you is grateful in advance.
+fortuneLow: Hold your answer for thirty seconds. Someone else is figuring it out and your speed is stealing the lesson.
+fortuneLeast: Ask before fixing it. They had a method; you just dismantled it.
 ---
 
 Tempura Chickpeas are the Bean Zodiac's most proactive — they see what will be needed and address it before being asked.

@@ -7,16 +7,21 @@ trait: hazy
 dish: Gigantes plaki - butter beans baked with sweet tomato, smoked paprika, and honey.
 quote: Que bean sera, sera. Whatever will bean, will bean.
 seasonalFortune: The weeks come on slow as smoke through a low oven. Tomato deepens into honey, honey into paprika, and nothing in the season insists on a single name for itself.
-facetMost: A pan left in the oven past the timer, deepening. Asked what you mean, you answer in adjacent sentences, circling the thing rather than pinning it, content for the listener to wander in.
-fortuneMost: Settle fully into the haze — the softness is the thing, and it is enough.
-facetHigh: Honey loosening into the pan's warm corners. Plans you made on Tuesday rearrange themselves by Thursday, and you follow the new shape without naming when it changed.
-fortuneHigh: The gentle blur you bring is making everything easier to inhabit.
-facetMid: Paprika dust drifting where it lands. You leave the books in soft piles, the laundry half-folded, the rooms arranged by approximate gravity rather than by rule.
-fortuneMid: Let the edges stay soft — precision is not what this requires.
-facetLow: The paprika flecks countable on the bean's skin. You answer the message in the order it asked, line by line, and close the tab when you are done.
-fortuneLow: Find one clear edge; the softness is making what is needed impossible to locate.
-facetLeast: Honey on one side of the plate, smoke on the other. Wallet in the left pocket, keys in the right, every receipt filed the evening it arrives.
-fortuneLeast: Say something specific — the haze has become a place to hide in, and clarity has been given up on.
+facetMostTitle: The Pan Past the Timer
+facetMost: Asked what you mean, you answer in adjacent sentences, circling the thing rather than pinning it, content for the listener to wander in.
+facetHighTitle: Honey in the Warm Corners
+facetHigh: Plans you made on Tuesday rearrange themselves by Thursday, and you follow the new shape without naming when it changed.
+facetMidTitle: Paprika Dust Where It Lands
+facetMid: You leave the books in soft piles, the laundry half-folded, the rooms arranged by approximate gravity rather than by rule.
+facetLowTitle: Flecks on the Bean's Skin
+facetLow: You answer the message in the order it asked, line by line, and close the tab when you are done.
+facetLeastTitle: Honey and Smoke, Apart
+facetLeast: Wallet in the left pocket, keys in the right, every receipt filed the evening it arrives.
+fortuneMost: Take the long nap on purpose. Set no alarm and tell the group chat you'll be back at dinner.
+fortuneHigh: Cancel one thing today by text and bake instead. The honey will agree with you.
+fortuneMid: Pick one drawer. Put the things in it that belong in it. Leave the other drawers alone.
+fortuneLow: Name the time out loud — Thursday, 7pm. "Soon" has been doing too much work.
+fortuneLeast: Say yes or no this week, not the warm shape in between. Pick the word and use it twice.
 ---
 
 Barbecued Butter Beans are the Bean Zodiac's most hazy — the warmth is real, but the edges have softened past the point of definition.

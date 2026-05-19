@@ -7,16 +7,21 @@ trait: energetic
 dish: Spicy butter bean croquetas - fried bean cakes with smoked paprika.
 quote: The world is charged with the grandeur of the bean.
 seasonalFortune: A season lived at frying temperature, paprika on every surface; the pan is rarely cold and the residue collects on whatever is closest.
-facetMost: Paprika under your fingernails by noon. You take the stairs two at a time, answer before the sentence ends, sleep five hours, wake hungry.
-fortuneMost: Everything moves at the highest temperature — bring it all and stay present for what it leaves behind.
-facetHigh: Oil at full tremor. Three group chats open, two replies half-typed, and you send all of them before the croquetas hit the plate.
-fortuneHigh: The energy is at full warmth; move through what needs it and stay aware of what follows.
-facetMid: A crust forms quickest on the loudest pan. At the party you find the talkers and feed them sentences faster than they can chew.
-fortuneMid: Something in the wake is worth knowing. Check before moving on.
-facetLow: Butter beans, soaked overnight, refuse to be hurried. You leave the message on read for two days and answer when the wording arrives.
-fortuneLow: Let it settle — everything has gone quiet and there is nowhere useful for the energy to land.
-facetLeast: Cold oil keeps its own counsel. You go to bed at the same hour, eat the same breakfast, and the week ends without anything overturned.
-fortuneLeast: Rest — what was in motion has been stopped and pushing against the stillness will not help.
+facetMostTitle: Paprika Under the Fingernails
+facetMost: You take the stairs two at a time, answer before the sentence ends, sleep five hours, wake hungry.
+facetHighTitle: Oil at Full Tremor
+facetHigh: Three group chats open, two replies half-typed, and you send all of them before the croquetas hit the plate.
+facetMidTitle: The Crust on the Loudest Pan
+facetMid: At the party you find the talkers and feed them sentences faster than they can chew.
+facetLowTitle: The Overnight Soak
+facetLow: You leave the message on read for two days and answer when the wording arrives.
+facetLeastTitle: Cold Oil, Still
+facetLeast: You go to bed at the same hour, eat the same breakfast, and the week ends without anything overturned.
+fortuneMost: Take the stairs three at a time and reply on the landing. The slow ones will write you a memo about it later.
+fortuneHigh: Go back for the sentence you cut in half. The other six errands can wait — that one was the actual day.
+fortuneMid: Ask the question you've been outrunning since Monday. Three words; do it before lunch.
+fortuneLow: Sit. The doorbell is in your hand. Put it down for an hour and discover what calm sounds like at full volume.
+fortuneLeast: Eat the same breakfast. Twice. Nothing needs accelerating today and you know it.
 ---
 
 Red-Hot Butter Beans are the Bean Zodiac's most energetic — they move at full warmth and never still.

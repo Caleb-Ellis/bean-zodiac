@@ -7,16 +7,21 @@ trait: honest
 dish: Avgolemono - butter bean soup with dill and lemon.
 quote: The bean will set you free, but first it will make you uncomfortable.
 seasonalFortune: A season that thins the broth and shows what was steeping under the dill. Acid finds its level. Plain statements outlast clever ones; soft edges curdle.
-facetMost: Lemon tempered slowly into yolk, never dumped. You say the difficult thing at the table, in a voice low enough that no one mistakes it for sport.
-fortuneMost: Say it now, gently — the person who needed to hear it has been waiting as long as you have been waiting to say it.
-facetHigh: Dill bruised against the cutting board, releasing what it held. You answer messages in the order they arrived, and you answer them as themselves.
-fortuneHigh: Do not wait for a more comfortable moment; this one is the one.
-facetMid: A pot lid lifted, steam reading the ceiling. You notice the mood in a room within a minute of entering and adjust your shoulders before you adjust your sentences.
-fortuneMid: The thing that wants to be said is already formed — the moment for it is closer than it feels.
-facetLow: Butter beans loosening their skins in long simmer. You leave the awkward thing in the room a while longer, trusting it will soften before anyone has to name it.
-fortuneLow: The room wants something gentler; give it less than you have, just this once.
-facetLeast: Zest grated over the bowl at the last moment. You let the bill split unevenly, the lopsided gift stand, the small wrong number ride; the arithmetic is not the point.
-fortuneLeast: What you would say is being called cruel by people who are louder than you. Say less.
+facetMostTitle: Lemon Tempered Into Yolk
+facetMost: You say the difficult thing at the table, in a voice low enough that no one mistakes it for sport.
+facetHighTitle: Dill Against the Board
+facetHigh: You answer messages in the order they arrived, and you answer them as themselves.
+facetMidTitle: Steam Reading the Ceiling
+facetMid: You notice the mood in a room within a minute of entering and adjust your shoulders before you adjust your sentences.
+facetLowTitle: Skins in Long Simmer
+facetLow: You leave the awkward thing in the room a while longer, trusting it will soften before anyone has to name it.
+facetLeastTitle: Zest at the Last Moment
+facetLeast: You let the bill split unevenly, the lopsided gift stand, the small wrong number ride; the arithmetic is not the point.
+fortuneMost: Say the true sentence at low volume, before someone louder says the false one. Volume is not the test.
+fortuneHigh: The better moment is not coming. This one will do, and it has the advantage of being here.
+fortuneMid: Somebody offers you a graceful exit from the truth. Decline it, smile, continue.
+fortuneLeast: Skip the audit. The lopsided dinner bill is allowed to stand; arithmetic is not the moral.
+fortuneLow: Sit on it through one more cup of tea. The honesty is fine; the timing is currently terrible.
 ---
 
 Brined Butter Beans are the Bean Zodiac's most honest — they deliver truth gently, after waiting for exactly the right moment.

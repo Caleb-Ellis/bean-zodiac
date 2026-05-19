@@ -7,16 +7,21 @@ trait: frenetic
 dish: Fatteh - Syrian smoked chickpeas layered with crisp bread, yogurt, and chili oil.
 quote: Life moves pretty fast — if you don't stop and bean around once in a while, you could miss it.
 seasonalFortune: A season of smoke rising from three burners at once, bread torn before the yogurt is whisked, chili oil drifting through rooms its cook has already left.
-facetMost: Smoke from a fire you have already wandered away from. You start three things in an afternoon and chase the next blister before the first finishes.
-fortuneMost: Stay with one thing and give it the full heat — completely, long enough for it to become useful.
-facetHigh: Pita torn jagged across forty tabs. You answer the fourth message, then the seventh, and the first goes cold somewhere behind you.
-fortuneHigh: The heat is everywhere; direct it into one place and let it become something.
-facetMid: Chili oil running past the rim. A friend is mid-sentence and you have crossed the room; you return when their voice sharpens.
-fortuneMid: The energy is real — give one place the full temperature before moving.
-facetLow: Yogurt thickening overnight, undisturbed. When fatigue lands you do not negotiate with it; the unfinished thing keeps until morning.
-fortuneLow: Arrive earlier; every door is closing before the heat gets there and whatever was waiting has moved on.
-facetLeast: A single burner, low and steady. You make one plan for the day and the day stays that size.
-fortuneLeast: Hold what is coming — every door has been shut and there is nowhere for it to go.
+facetMostTitle: The Unwatched Fire
+facetMost: You start three things in an afternoon and chase the next blister before the first finishes.
+facetHighTitle: Pita Torn Jagged
+facetHigh: You answer the fourth message, then the seventh, and the first goes cold somewhere behind you.
+facetMidTitle: Chili Oil Over the Rim
+facetMid: A friend is mid-sentence and you have crossed the room; you return when their voice sharpens.
+facetLowTitle: Yogurt Left to Set
+facetLow: When fatigue lands you do not negotiate with it; the unfinished thing keeps until morning.
+facetLeastTitle: The Single Burner
+facetLeast: You make one plan for the day and the day stays that size.
+fortuneMost: Pick a burner, kill the other two. The smoke alarm is one minute out and you've forgotten what's on each pan.
+fortuneHigh: Throw your phone in a drawer for an hour. Whoever needs you will still need you; the chili oil isn't going anywhere.
+fortuneMid: Start with item three. The first two were warm-ups disguised as priorities.
+fortuneLow: Walk back to the room you bolted out of. There's a sentence still hanging mid-air, waiting for you to finish it.
+fortuneLeast: Make one dish, eat it sitting down. The chase will be there tomorrow, dressed slightly differently.
 ---
 
 Chipotle Chickpeas are the Bean Zodiac's most frenetic — they are everywhere at once, at considerable intensity, for reasons that shift before they can be examined.

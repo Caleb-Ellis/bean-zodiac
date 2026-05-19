@@ -7,16 +7,21 @@ trait: patient
 dish: Kongjorim - black soybeans slow-braised in soy, ginger, and sesame.
 quote: Patience is bitter, but its bean is sweet.
 seasonalFortune: Months of low fire darken what was hard and dull. The season belongs to those who can stand by a long braise without lifting the lid.
-facetMost: A draft sits covered for weeks. You return to it the way ginger returns to soy — slowly, on purpose, certain the dark is doing the work.
-fortuneMost: Whatever this is asking of you, it is asking correctly.
-facetHigh: Guests at the door; you let the pot finish. The sesame is not yet glossed and the table waits.
-fortuneHigh: Hold the pace; it is doing more than it appears to be doing.
-facetMid: An apology owed since spring. You write it the morning the soy reduces, when the words have finally cooked down to what they mean.
-fortuneMid: What is not yet ready is not lost — the time you are giving it is the work.
-facetLow: Three minutes in, you taste. Five, you taste. The beans have not had time to learn themselves and you are already serving.
-fortuneLow: Something is pressing for movement before the moment has arrived.
-facetLeast: Forty open tabs, each one nudged every hour. Nothing steeps; the kettle reboils until the leaf gives up.
-fortuneLeast: The wait has been called inaction; give it a shape before that reading hardens.
+facetMostTitle: The Slow Braise
+facetMost: A draft sits covered for weeks; you return to it only when the dark has done its work.
+facetHighTitle: Sesame, Unglossed
+facetHigh: Guests at the door; you let the pot finish. The table can wait.
+facetMidTitle: The Reducing Soy
+facetMid: An apology owed since spring — you write it when the words have cooked down to what they mean.
+facetLowTitle: Three Minutes, Then Taste
+facetLow: You check before the braise has set, serve before the flavour has learned itself.
+facetLeastTitle: The Kettle Reboiled
+facetLeast: Forty open tabs, each one nudged every hour; nothing is given time to matter.
+fortuneMost: Put a timer on the thing and refuse to touch it until it rings. Two hours minimum. The braise knows.
+fortuneHigh: When asked for an update, say "not yet" and mean it. Don't decorate the no.
+fortuneMid: Reopen the document you abandoned in February. Read it once, change nothing, close it. Tomorrow you'll know.
+fortuneLow: Close the tab you've refreshed eleven times today. Go pour something to drink. The number on the screen has not earned your morning.
+fortuneLeast: Patience has gone sour into stalling. Pick the smallest piece and ship it Friday, unfinished.
 ---
 
 Dashi Black Beans are the Bean Zodiac's most patient — they believe in the value of time.

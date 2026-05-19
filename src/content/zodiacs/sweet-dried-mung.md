@@ -7,16 +7,21 @@ trait: tender
 dish: Lǜdòu gāo — dried mung beans ground fine and pressed with sugar into flower-shaped cakes.
 quote: The most beautiful things in the world cannot be seen or touched — they must be seen with the bean.
 seasonalFortune: A season ground fine — what was whole is pressed into petalled shapes, sweetness carrying what the husk could not hold.
-facetMost: Flour finer than breath. When a friend's voice catches mid-sentence, you do not fill the gap — you sit inside it until they find the next word.
-fortuneMost: Stay open; the gentleness is the strength.
-facetHigh: Sugar folded through the grain before the mould closes. The gift you choose is the one shaped to the person, not the occasion; you'd sooner arrive empty than wrong.
-fortuneHigh: The tenderness you carry is doing more than the harder approach would.
-facetMid: Petal pressed but unsealed. You notice the held shoulder, the half-finished sentence at the edge of the room, and move toward it without making a show of the moving.
-fortuneMid: Bring the softness.
-facetLow: A bean that refuses the mortar. Your rooms keep their corners — books squared, chairs returned. Order is the comfort; softness left out would feel like clutter.
-fortuneLow: The openness you are bringing is meeting something that will use it — it is not safe here.
-facetLeast: Crystal that stays crystal. You return the call in three sentences, settle the split bill on the walk home, and carry no residue of either across the threshold.
-fortuneLeast: Guard the softness — it has been taken as an invitation, and not carefully.
+facetMostTitle: Flour Finer Than Breath
+facetMost: When a friend's voice catches mid-sentence, you do not fill the gap — you sit inside it until they find the next word.
+facetHighTitle: Sugar Through the Grain
+facetHigh: The gift you choose is the one shaped to the person, not the occasion; you'd sooner arrive empty than wrong.
+facetMidTitle: The Petal Pressed but Unsealed
+facetMid: You notice the held shoulder, the half-finished sentence at the edge of the room, and move toward it without making a show of the moving.
+facetLowTitle: The Bean That Refuses the Mortar
+facetLow: Your rooms keep their corners — books squared, chairs returned. Order is the comfort; softness left out would feel like clutter.
+facetLeastTitle: Crystal That Stays Crystal
+facetLeast: You return the call in three sentences, settle the split bill on the walk home, and carry no residue of either across the threshold.
+fortuneMost: Bring soup. Leave it on the porch if they can't talk.
+fortuneHigh: Pick the gift shaped to the person. Arrive late or empty before wrong.
+fortuneMid: Sit next to the quiet one at lunch. Ask one question.
+fortuneLow: Lock the door tonight. Tender isn't the same as available.
+fortuneLeast: Cancel on the taker. Spend the evening on yourself.
 ---
 
 Crystallised Mung Beans are the Bean Zodiac's most tender — the softness has been preserved even where everything else has been stripped away.

@@ -138,9 +138,13 @@ export default function ClaimedHomeContent({
                         <FortuneScoreBadge score={todayEntry.score} size="sm" />
                       )}
                   </div>
-                  {text && (
+                  {text ? (
                     <p className="italic text-zinc-200 sm:text-lg text-center sm:text-left">
                       "{text}"
+                    </p>
+                  ) : (
+                    <p className="italic text-zinc-500 text-sm text-center sm:text-left">
+                      This bean had nothing to say to you this day.
                     </p>
                   )}
                   <a
@@ -179,6 +183,18 @@ export default function ClaimedHomeContent({
           />
         </div>
         <div className="flex flex-row flex-wrap justify-center items-center gap-2 text-sm text-zinc-400 mb-4 sm:mb-6">
+          <a
+            href="/beaniary"
+            className="flex items-center gap-1.5 px-3 py-1.5 rounded-full bg-zinc-900 border-2 border-zinc-700 hover:border-zinc-500 transition-colors no-underline text-zinc-300"
+          >
+            🫘&nbsp; The Beaniary
+          </a>
+          <a
+            href="/beanstalk"
+            className="flex items-center gap-1.5 px-3 py-1.5 rounded-full bg-zinc-900 border-2 border-zinc-700 hover:border-zinc-500 transition-colors no-underline text-zinc-300"
+          >
+            🪴&nbsp; The Beanstalk
+          </a>
           <a
             href={`/zodiacs/${claimedSlug}`}
             className="flex items-center gap-1.5 px-3 py-1.5 rounded-full bg-zinc-900 border-2 border-zinc-700 hover:border-zinc-500 transition-colors no-underline text-zinc-300"

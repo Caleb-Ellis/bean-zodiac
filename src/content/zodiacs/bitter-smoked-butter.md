@@ -7,16 +7,21 @@ trait: dreamy
 dish: Smoked butter bean with bitter herb oil.
 quote: We are such stuff as beans are made on.
 seasonalFortune: Smoke takes hours to settle into fat, and longer still to leave it. The season favours those who absorb without noticing, and notice long after the source has gone cold.
-facetMost: Smoke wanders the rafters before it finds a corner. You walk into rooms and lose ten minutes to the slant of light against the wall.
-fortuneMost: Go all the way into it — the present will still be there when you return.
-facetHigh: Bitter oil pools where the bean is softest. Half your open tabs are from a thought you cannot now reconstruct, and you keep them anyway.
-fortuneHigh: Stay in the dream; what is there is more real than what is insisting on your attention.
-facetMid: The herb oil spreads at the pace it spreads. You answer the question a beat after it lands, having gone somewhere first and come back with the answer.
-fortuneMid: Let the drift continue — the distance is not yet a problem.
-facetLow: Smoke would pass through you and find nothing to cling to. Your keys live on one hook; your jacket on one peg; nothing in the room is ever vaguely anywhere.
-fortuneLow: Come back to what is in front of you; the drift has gone far enough and something here needs you.
-facetLeast: Bitter is bitter; smoke is smoke. You pay the bill the day it arrives, return what does not fit, and never carry a thought past the moment it was useful.
-fortuneLeast: Return fully and stay — the distance has stopped being peaceful and started being a problem for the people in the room.
+facetMostTitle: Smoke in the Rafters
+facetMost: You walk into rooms and lose ten minutes to the slant of light against the wall.
+facetHighTitle: Where the Bean Is Softest
+facetHigh: Half your open tabs are from a thought you cannot now reconstruct, and you keep them anyway.
+facetMidTitle: The Oil at Its Pace
+facetMid: You answer the question a beat after it lands, having gone somewhere first and come back with the answer.
+facetLowTitle: Nothing to Cling to
+facetLow: Your keys live on one hook; your jacket on one peg; nothing in the room is ever vaguely anywhere.
+facetLeastTitle: Bitter Is Bitter
+facetLeast: You pay the bill the day it arrives, return what does not fit, and never carry a thought past the moment it was useful.
+fortuneMost: Walk the long thought all the way to its punchline. The dry cleaner closes at six and will still close at six tomorrow.
+fortuneHigh: That tab from Tuesday you can't account for — open it before you close the rest. Past-you was right about something.
+fortuneMid: Someone will say your name twice. On the second pass, drop the smoke and give the answer in full sentences.
+fortuneLow: Look up. The kettle's been screaming for four minutes and you've been composing a metaphor about the kettle.
+fortuneLeast: A friend has been parking a sentence at you across three coffees. Stay in the chair long enough on Saturday to receive it.
 ---
 
 Charcoal Butter Beans are the Bean Zodiac's most dreamy — their calm has drifted far enough from the present that it is difficult to locate in real time.

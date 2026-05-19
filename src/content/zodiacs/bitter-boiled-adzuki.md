@@ -7,16 +7,21 @@ trait: judicious
 dish: Adzuki bean soup with chrysanthemum greens and yuzu.
 quote: To bean, or not to bean, that is the question.
 seasonalFortune: A life lived at low simmer. The pot keeps the back burner; skins yield only when ready, and the rooms around it learn to wait without resenting the wait.
-facetMost: Yuzu peel steeps until the bitterness rounds. The apology owed since Tuesday waits on your tongue another day — you will deliver it whole or not at all.
-fortuneMost: Give the full weight of consideration to what is before you — even where the room has grown impatient waiting for the verdict.
-facetHigh: Bitter greens take their time wilting. Asked what you thought, you answer next week, when the rind has cooked down to broth.
-fortuneHigh: Render your judgment before circumstance renders it for you.
-facetMid: Adzuki skins split in their own hour. The unread message keeps until evening; by dusk the right shape of it has surfaced.
-fortuneMid: The slower assessment is the correct one — trust the time it takes.
-facetLow: A green yuzu, picked early, still perfumes the bowl. You buy the chair the afternoon you see it; the hand already knew.
-fortuneLow: Pick something — any thorough position will serve better than a prolonged silence.
-facetLeast: The pot lid lifts before the broth clears. First draft sent — tart, half-steeped, committed. The next one will be the edit.
-fortuneLeast: Commit now, even imperfectly; whatever the scales say, the moment will not wait.
+facetMostTitle: The Long Steep
+facetMost: The apology owed since Tuesday waits on your tongue another day — you will deliver it whole or not at all.
+facetHighTitle: Greens, Slow to Wilt
+facetHigh: Asked what you thought, you answer next week, when the rind has cooked down to broth.
+facetMidTitle: The Hour the Skin Chooses
+facetMid: The unread message keeps until evening; by dusk the right shape of it has surfaced.
+facetLowTitle: Yuzu Picked Green
+facetLow: You buy the chair the afternoon you see it; the hand already knew.
+facetLeastTitle: The Lid Lifted Early
+facetLeast: First draft sent — tart, half-steeped, committed. The next one will be the edit.
+fortuneMost: Deliver the verdict at dinner. Skip the reasoning — nobody asked for the footnotes, and the footnotes are where you lose them.
+fortuneHigh: Pour the second cup of tea before you answer. That's the whole deliberation; the answer is already there.
+fortuneMid: Toast something small tonight — a finished errand, a returned call. The occasions you keep waiting for don't show up unrehearsed.
+fortuneLow: The decision was made on Tuesday. Stop interviewing yourself about it and act like a person who has decided.
+fortuneLeast: Say yes to the thing on the calendar before you've earned it. The earning is what saying yes was for.
 ---
 
 Infused Adzuki Beans are the Bean Zodiac's most judicious — they carry the Adzuki Bean's deep instinct for celebration, but they do not spend it until the conditions have been met.

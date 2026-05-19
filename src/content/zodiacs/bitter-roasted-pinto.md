@@ -7,16 +7,21 @@ trait: narcissistic
 dish: Frijoles Refritos - with roasted bitter chiles and lard.
 quote: I don't care what you think unless it's about my bean.
 seasonalFortune: Lard renders at its own pace, indifferent to the pan; the bitter chile darkens for no one's benefit but its own. A season spent perfecting a single reflection.
-facetMost: Press the bean flat against the pan. Every conversation, however it begins, finds its way back to the shape of you.
-fortuneMost: The full measure of your attention belongs here — give it completely and without apology.
-facetHigh: Skillet hot, fat fragrant. You arrange a room so the best chair faces the mirror, then sit in it.
-fortuneHigh: No one else will see what you see in this; that is not a flaw.
-facetMid: Bitter chile blooms in hot fat. You reread your own messages before sending, and after, the way one studies markings no other pinto carries.
-fortuneMid: Return to the thing you do best — it deserves the attention you give it.
-facetLow: The chile draws the eye; the bean keeps quiet beneath. You finish the work and put someone else's name on the credits without flinching.
-fortuneLow: Turn the attention outward for once; the room has something in it that is not about you, and it is worth finding.
-facetLeast: Roasted chiles handed across the table. You choose gifts the recipient would pick for themselves, never the ones that would remind them of you.
-fortuneLeast: Put yourself entirely aside and attend to what is in front of you — the world outside the mirror is asking for something.
+facetMostTitle: The Bean Pressed Flat
+facetMost: Every conversation, however it begins, finds its way back to the shape of you.
+facetHighTitle: Skillet Hot, Fat Fragrant
+facetHigh: You arrange a room so the best chair faces the mirror, then sit in it.
+facetMidTitle: Chile Blooming in Fat
+facetMid: You reread your own messages before sending, and after, the way one studies markings no other pinto carries.
+facetLowTitle: The Chile, the Bean Beneath
+facetLow: You finish the work and put someone else's name on the credits without flinching.
+facetLeastTitle: Chiles Handed Across
+facetLeast: You choose gifts the recipient would pick for themselves, never the ones that would remind them of you.
+fortuneMost: Sit in the chair facing the mirror. The day has been about you since 6am — stop pretending otherwise and enjoy it.
+fortuneHigh: You'll reread the sent message four times before dinner. Read it once more, then put the phone in a drawer until the next meal.
+fortuneMid: You'll answer the question with a story about yourself. Catch it on sentence two and ask them a question back — a real one.
+fortuneLow: Call the friend whose name keeps sliding past. They have been the actual subject since March, you just keep saying yours instead.
+fortuneLeast: Buy the gift they would buy themselves. Leave the card unsigned — the lack of signature is the gift.
 ---
 
 Wood-Fired Pinto Beans are the Bean Zodiac's most narcissistic — warmth directed entirely inward.

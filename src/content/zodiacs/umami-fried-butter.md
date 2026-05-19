@@ -7,16 +7,21 @@ trait: pragmatic
 dish: Butter bean and shiitake fritters with soy dipping sauce.
 quote: If it works, it's a bean.
 seasonalFortune: A season of hot oil and short answers. The shiitake gives up its water; what stays in the pan is what was always going to stay.
-facetMost: Soy reduced to a black line on the plate. You answer emails in fragments, delete the greeting, send before the cursor cools.
-fortuneMost: Do what works — the simplest version of the answer is the whole answer.
-facetHigh: The fritter sets the second it hits oil. You buy the shoes that fit and wear them until the sole goes; the second pair is the same pair.
-fortuneHigh: Cut to what serves the situation — the clearest path is the one you have already seen.
-facetMid: Mushroom caps trimmed flush, stems saved for stock. A friend asks how you are and you tell them in one sentence, accurately.
-fortuneMid: Take the approach that works — the practical instinct you have is the right one.
-facetLow: Steam off the dipping bowl, no hurry to taste. You let a decision sit overnight, then another night, listening for what the rushed version would have missed.
-fortuneLow: Give what is being asked for, not the efficient version of it; utility is not the standard here.
-facetLeast: A sprig of something green laid across the fritter for no reason. You keep the napkin from the dinner, the receipt with the good handwriting, the chipped cup.
-fortuneLeast: Attend to what was cut; it has turned out to matter and the cost of cutting it is being named.
+facetMostTitle: Soy to a Black Line
+facetMost: You answer emails in fragments, delete the greeting, send before the cursor cools.
+facetHighTitle: The Fritter on Contact
+facetHigh: You buy the shoes that fit and wear them until the sole goes; the second pair is the same pair.
+facetMidTitle: Caps Trimmed, Stems Kept
+facetMid: A friend asks how you are and you tell them in one sentence, accurately.
+facetLowTitle: Steam Off the Dipping Bowl
+facetLow: You let a decision sit overnight, then another night, listening for what the rushed version would have missed.
+facetLeastTitle: The Sprig for No Reason
+facetLeast: You keep the napkin from the dinner, the receipt with the good handwriting, the chipped cup.
+fortuneMost: Reply in two lines, no greeting. They'll match your speed and you'll both get your afternoon back.
+fortuneHigh: Buy the same shoes again. Novelty is a tax and you've paid it enough this quarter.
+fortuneMid: Tell them how you actually are in one sentence. The honest one is shorter than the polite one.
+fortuneLow: Sit with the decision through one more dinner. The version that survives breakfast is the one to send.
+fortuneLeast: Keep the chipped cup. Use it tomorrow.
 ---
 
 Tempura Butter Beans are the Bean Zodiac's most pragmatic — whether it's elegant doesn't matter, only whether it works.

@@ -7,16 +7,21 @@ trait: scholarly
 dish: Cannellini in aged pecorino broth with bitter cicoria.
 quote: I have not failed. I have just found ten thousand ways that will not produce a bean.
 seasonalFortune: A wheel of pecorino bitters slowly in its rind; the season rewards what has been kept in the dark and turned, occasionally, by a steady hand.
-facetMost: Pecorino sharpened by years in its own salt. You finish the essay nobody commissioned, every citation in place, and only then consider who the room is.
-fortuneMost: Follow it all the way to the bottom — no premise left unexamined, no implication left unfollowed.
-facetHigh: A tab open three weeks, broth darkening on the back burner. You follow the footnote, then the footnote's footnote, and emerge holding something nobody asked you to bring.
-fortuneHigh: Go deeper into the subject; the conclusion is not yet available.
-facetMid: Cicoria hung to wilt above the shelf. You keep the book whose margins are already crowded, because the second pass finds what the first walked past.
-fortuneMid: Stay with the source material — there is more in it than the first pass found.
-facetLow: The cicoria goes in while still bright. You answer the message before the kettle finishes; the cost of being wrong here is small, and the day is moving.
-fortuneLow: Give the practical answer and skip the footnotes; the room needs the conclusion, not the method.
-facetLeast: Quick broth, bread torn, friends already at the door. You meet the stranger and ask the obvious question first — the long one can wait or never come.
-fortuneLeast: Act before the research is complete — imperfect movement beats perfect understanding that arrives too late.
+facetMostTitle: Sharpened by Years
+facetMost: You finish the essay nobody commissioned, every citation in place, and only then consider who the room is.
+facetHighTitle: The Darkening Broth
+facetHigh: You follow the footnote, then the footnote's footnote, and emerge holding something nobody asked you to bring.
+facetMidTitle: Cicoria Above the Shelf
+facetMid: You keep the book whose margins are already crowded, because the second pass finds what the first walked past.
+facetLowTitle: While Still Bright
+facetLow: You answer the message before the kettle finishes; the cost of being wrong here is small, and the day is moving.
+facetLeastTitle: Bread Torn, Door Open
+facetLeast: You meet the stranger and ask the obvious question first — the long one can wait or never come.
+fortuneMost: Stay up for the third pass. The first two are warm-up; the line nobody else will find shows up around 1am.
+fortuneHigh: Open the source you've been bookmarking for a year. Bring one sentence from it into Wednesday's conversation.
+fortuneMid: They asked one question. Deliver one line. Keep the footnotes in the drawer where they live.
+fortuneLow: Skip the method. Lead with the verdict and the meeting ends early.
+fortuneLeast: Pick the first plausible option. By dinner you'll have learned more from doing it wrong than from another afternoon of weighing.
 ---
 
 Cultured Cannellini Beans are the Bean Zodiac's most scholarly — they have a devoted relationship with knowledge, surfacing only when conclusion-ready.

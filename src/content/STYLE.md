@@ -57,6 +57,26 @@ Across the five, a real person should accept some and resist others. If the same
 
 **Clarity test (non-negotiable):** every line must be a real, parseable thought. "The broth knows itself" fails, because it does not mean anything.
 
+## Daily fortunes (the five `fortuneX` lines)
+
+Each facet is paired with a `fortuneX`. The fortune is what the reader sees after they **Accept** the facet ("yes, that's me") — and a roughly inverse fortune is what they see if they **Resist** it. Where the facet asks *are you this kind of person?*, the fortune answers *what does that mean for today?*
+
+**Strip the kitchen.** Fortunes do not carry dish imagery. The facet already did that work; the fortune is the line the reader carries out of the entry, and it needs to read cleanly on its own without ingredient context.
+
+**A turn, not a command.** A bare imperative ("decide today") is forgettable. Aim for one of: a small reversal, an implied stakes-clause, or a quiet paradox. *The decision delayed today becomes the decision made for you.* The turn is what makes a generic-by-design line still land.
+
+**Forecast the day, don't instruct the reader.** Default to weather over advice — *today rewards the slow answer*, *the room will wait longer than you think*. Imperatives are fine in the mix, but if every fortune opens with a verb-at-you, the set reads like a coach.
+
+**Strip the trait-nouns.** `consideration`, `judgment`, `assessment`, `commitment`, `courage`, `patience`, `clarity` — these name the virtue and flatten the line into self-help. Replace with what the day *does* or what the reader *does*, never the abstraction. Same rule as facets: enact, never name.
+
+**Keep the almanac severity.** Generic does not mean neutral. Words like *today*, *the hour*, *the room*, *by evening*, *what you*, *whoever* — slightly archaic, slightly impersonal — preserve the voice the facets set up. Avoid modern register (`energy`, `flow`, `lean in`, `trust the process`, `align`).
+
+**Resist = permission, not punishment.** Low/least describe a different kind of person who is right to be that way; the same logic applies to a reader who resists a high/most facet. A Resist fortune grants the reader the day off from the trait — it does not scold them into the opposite. *The first instinct today is the true one* — not *stop overthinking.*
+
+**Vary cadence across the five.** One very short fragment, one long balanced line, one imperative, one observation, one with a semicolon turn. Symmetry kills these faster than weak imagery does.
+
+**Hard limit: 30 words per fortune.** One thought, ending on the consequence, not a cushion clause.
+
 ## Sharpening a line that is already correct
 
 A fortune can pass the rules above and still read as flat. Reach for these in a second pass:

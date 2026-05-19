@@ -7,16 +7,21 @@ trait: electric
 dish: Gan bian sijidou - dry-fried green beans with dried chili and garlic.
 quote: Energy cannot be beaned — it can only be transformed.
 seasonalFortune: A dry wok throws sparks before the oil arrives. The season belongs to those who carry their own heat into the room, blistering the skin of the day until the garlic catches.
-facetMost: Oil smoking before the bean goes in. You begin the work loud — half-formed, half-shouted — and let the room flinch into the shape of it.
-fortuneMost: Everything will carry the full voltage — send it into the thing that can actually bear it.
-facetHigh: Garlic hits the pan and the kitchen wakes. Your thumb on the screen at midnight, firing off the message that pulls three friends out of their beds.
-fortuneHigh: The energy is immediate and live; run it through something that needs it.
-facetMid: Chilies blacken in hot oil. You walk into a slack conversation and the cadence sharpens; people sit up without knowing why.
-fortuneMid: The charge is high. Point it at something that can use the current.
-facetLow: The wok rests between batches. You let a quick reply sit overnight; morning trims it down to the line worth sending.
-fortuneLow: Cut the current — what receives it cannot hold the charge and everything it touches is being damaged.
-facetLeast: Steam off a covered pot, slow and even. You move through weather without registering it, untouched by the small electricities other people chase.
-fortuneLeast: Dim it down until conditions change — every transmission is being treated as a hazard.
+facetMostTitle: Oil Before the Bean
+facetMost: You begin the work loud — half-formed, half-shouted — and let the room flinch into the shape of it.
+facetHighTitle: Garlic Hits the Pan
+facetHigh: Your thumb on the screen at midnight, firing off the message that pulls three friends out of their beds.
+facetMidTitle: Chilies in Hot Oil
+facetMid: You walk into a slack conversation and the cadence sharpens; people sit up without knowing why.
+facetLowTitle: The Wok Between Batches
+facetLow: You let a quick reply sit overnight; morning trims it down to the line worth sending.
+facetLeastTitle: Steam Off a Covered Pot
+facetLeast: You move through weather without registering it, untouched by the small electricities other people chase.
+fortuneMost: Pick the long wire. The short ones burn before they reach.
+fortuneHigh: Send the midnight text only if it's worth waking three people.
+fortuneMid: Plug into the project, not the friend. The wall is not company.
+fortuneLow: Pour slower. They're holding paper.
+fortuneLeast: Match the low battery. This is not your hour to perform.
 ---
 
 Sichuan Green Beans are the Bean Zodiac's most electric — the energy was already immediate; the heat has made it impossible to ignore.

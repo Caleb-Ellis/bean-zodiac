@@ -7,16 +7,21 @@ trait: daydreamy
 dish: Frijoles con leche — pinto beans simmered in sweetened milk with cinnamon and piloncillo until the broth turns pale and dreamlike.
 quote: I have bean a dreamer. I have joined the great company of those who make the imagination of mankind rich.
 seasonalFortune: Days steep slow in pale sweetness. Hours soften the way piloncillo dissolves in warm milk, and the ordinary edges of a week blur into something rounder, longer, harder to leave.
-facetMost: Cinnamon drifts through every room you pass through. You rearrange a shelf to match a half-remembered picture, and the afternoon disappears inside the picture.
-fortuneMost: The inner world you are traveling has more to show you — stay in it.
-facetHigh: Milk warming on a low flame. A tab opens, then another, then a third — each one a doorway, and you walk through none of them back.
-fortuneHigh: The image that keeps returning deserves more time.
-facetMid: Piloncillo melts at its own pace. You promise a thing for Tuesday and arrive on Thursday holding it, surprised the week moved without you.
-fortuneMid: Let the mind go where it wants.
-facetLow: A bean keeps its skin in the simmer. You answer the email the morning it lands, in the clothes you slept in, before the kettle.
-fortuneLow: Someone is asking for your full attention and getting the edge of it — the ask is pointed.
-facetLeast: Plain milk, no spice, no sweetening. You strip the guest room down to a made bed and a lamp, and call the room finished.
-fortuneLeast: Surface before the naming is final — the absence is being called out, and the distance is past easy recovery.
+facetMostTitle: The Drifting Cinnamon
+facetMost: You rearrange a shelf to match a half-remembered picture, and the afternoon disappears inside the picture.
+facetHighTitle: Milk on the Low Flame
+facetHigh: A tab opens, then another, then a third — each one a doorway, and you walk through none of them back.
+facetMidTitle: Piloncillo at Its Pace
+facetMid: You promise a thing for Tuesday and arrive on Thursday holding it, surprised the week moved without you.
+facetLowTitle: The Bean That Keeps Its Skin
+facetLow: You answer the email the morning it lands, in the clothes you slept in, before the kettle.
+facetLeastTitle: The Unsweetened Cup
+facetLeast: You strip the guest room down to a made bed and a lamp, and call the room finished.
+fortuneMost: Draw the picture you've been narrating in your head for a week — on the back of a receipt, on the margin of the meeting notes, on whatever surface is to hand — and keep the scrap; the version on paper is the one that becomes the real thing.
+fortuneHigh: The image that's shown up three afternoons running is not idle drift; follow it one concrete step on Saturday — buy the materials, book the room, write the first line — before it dissolves back into sugar.
+fortuneMid: Block an hour this week for a walk with no destination and no podcast, and protect it from the calendar invite that will try to colonise it on Thursday morning.
+fortuneLow: The person across the table is asking the actual question right now; close the tab in your head, put the phone face-down, and answer the one in front of you with your whole attention.
+fortuneLeast: Send a plain sentence to a real person before the hour is out — not the elaborate one you've been composing in the milk-pale daydream, just the one that says where you are and when you'll be back.
 ---
 
 Candied Pinto Beans are the Bean Zodiac's most daydreamy — they live in a world arranged by their own inner logic.

@@ -7,16 +7,21 @@ trait: pioneering
 dish: Muhammara - roasted fava and bitter herbs.
 quote: Well-bean is that which is done for the first time.
 seasonalFortune: A season ground in the stone before the stone has a name. Bitter herb meets charred fava and the paste invents its own colour; whoever tastes it tastes the edge of somewhere unmapped.
-facetMost: No recipe under the pestle, only the smell of char finding its bearings. You are the one who begins the thing nobody has asked for yet, and trusts the smoke.
-fortuneMost: Go where no one has yet — this is exactly the terrain you were built for.
-facetHigh: The fava goes into the flame before the others have lit theirs. First into the empty room, first to suggest the route — pace set, the rest catch up.
-fortuneHigh: Go further than last time; the path you open is the one others will use.
-facetMid: Walnut shifted to the near shelf, pomegranate to the sill, knives where the spoons used to live. You rearrange a room until it argues back.
-fortuneMid: Move into the unmapped territory — that is where the work is.
-facetLow: A bitter herb tucked exactly where it sat last year. You cook the familiar supper on the familiar night, and the table is steady under the same plates.
-fortuneLow: Take the known path today; the experience behind that recommendation is real and worth something.
-facetLeast: Pomegranate already split, char already done by the hand ahead of you. You wait until three people have replied before you send anything; the thread does the scouting.
-fortuneLeast: Return to the tried thing and stay there — this is not the moment to open new ground.
+facetMostTitle: No Recipe, Only Char
+facetMost: You begin the thing nobody has asked for yet, and trust the smoke to find its bearings.
+facetHighTitle: First Into the Flame
+facetHigh: First into the empty room, first to suggest the route — pace set, the rest catch up.
+facetMidTitle: Walnut Shifted, Knives Moved
+facetMid: You rearrange a room until it argues back.
+facetLowTitle: The Herb Where It Sat Last Year
+facetLow: You cook the familiar supper on the familiar night, and the table is steady under the same plates.
+facetLeastTitle: Pomegranate Already Split
+facetLeast: You wait until three people have replied before you send anything; the thread does the scouting.
+fortuneMost: Start it before lunch with no one's permission. The permission was a story you told yourself to delay the embarrassment of going first.
+fortuneHigh: Walk in first. The door only opens this way once, and the person you're waiting for is also waiting.
+fortuneMid: Look behind you before the next turn. Whoever you thought was following stopped two corners back, and the silence wasn't agreement.
+fortuneLow: Cook the same Tuesday supper you always cook. The familiar route still has a year left in it before it owes you anything.
+fortuneLeast: Wait for the third reply before answering. The first two are wrong and you'd burn an hour proving it.
 ---
 
 Wood-Fired Fava Beans are the Bean Zodiac's most pioneering — they venture into unmapped territory.

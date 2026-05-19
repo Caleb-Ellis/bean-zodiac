@@ -7,16 +7,21 @@ trait: righteous
 dish: Bissara - Moroccan fava bean soup with lemon and cumin.
 quote: Injustice anywhere is a threat to beans everywhere.
 seasonalFortune: A season for long simmering — favas split slowly under steady heat, and lemon waits to be stirred in. What softens this month earned its softening.
-facetMost: Cumin cuts through the pot before it is tasted. You name the wrong thing in the room before anyone has set down their spoon.
-fortuneMost: Do not soften the principle to make it easier to receive — it is correct, and that is enough.
-facetHigh: Lemon goes in last, and you know exactly when. You hold a small grievance through three meetings and deliver it at the door.
-fortuneHigh: The fair thing is clear and someone needs to say it; that someone is you.
-facetMid: The pot keeps a low boil all afternoon. You answer the email you owe before you answer the one you want to.
-fortuneMid: Hold the line — not because it is convenient, but because it is right.
-facetLow: Some cooks crush the favas straight in the broth, skins and all. You let the friend off the hook before they finish explaining.
-fortuneLow: The room wants a compromise; holding the line right now will cost more than it returns.
-facetLeast: A soup borrows from every hand that grew it. You forget which sibling owes which apology, and the kitchen stays warm anyway.
-fortuneLeast: Stand down. The people who disagree have the numbers, and this hill is about to become a problem.
+facetMostTitle: Cumin Before the First Taste
+facetMost: You name the wrong thing in the room before anyone has set down their spoon.
+facetHighTitle: Lemon at the Exact Moment
+facetHigh: You hold a small grievance through three meetings and deliver it at the door.
+facetMidTitle: The Low Boil All Afternoon
+facetMid: You answer the email you owe before you answer the one you want to.
+facetLowTitle: Skins and All
+facetLow: You let the friend off the hook before they finish explaining.
+facetLeastTitle: Every Hand That Grew It
+facetLeast: You forget which sibling owes which apology, and the kitchen stays warm anyway.
+fortuneMost: Say it at the door, not by your car. The car park speech doesn't count and you know it.
+fortuneHigh: Skip the third rehearsal. The first take has the teeth; rehearsal three is where you start apologising for them.
+fortuneMid: A small unfairness at the meeting keeps tugging your sleeve. Name it before anyone packs up — the corridor version doesn't land.
+fortuneLow: Right principle, wrong week. Write it on a card, slide it under a book, return next Tuesday.
+fortuneLeast: Not every flat note is yours. Let the choir sing badly for an afternoon and drink your tea.
 ---
 
 Brined Fava Beans are the Bean Zodiac's most righteous — they know what is fair and hold that line patiently.

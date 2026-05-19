@@ -7,16 +7,21 @@ trait: cynical
 dish: Choucroute garnie - navy beans with sauerkraut, caraway, and white wine.
 quote: A bean who knows the price of everything and the value of nothing.
 seasonalFortune: Sauerkraut sharpens in the crock long after the lid goes on; the wine turns vinegar before it turns to anything kinder. Late warmth carries a caraway bite.
-facetMost: Caraway between the teeth — small, hard, impossible to ignore. You read the message twice for what it isn't saying, then close the tab unanswered.
-fortuneMost: Prepare for the most likely outcome — the pattern holds, and acting otherwise is sentimental.
-facetHigh: Brine eats the sugar out of cabbage. When an apology arrives, you weigh it against the bill still owed and answer the bill first.
-fortuneHigh: The pattern is what you think it is; trust the read.
-facetMid: White wine soured to vinegar inside a covered jar. You let new acquaintances talk a long time before you offer your own name.
-fortuneMid: The skepticism is the accurate response — hold it.
-facetLow: Cabbage left whole on the counter, lid off, no hurry. You leave the door unlocked, the mail open on the table, and nothing yet has gone missing.
-fortuneLow: Try good faith, just here; the expectation of failure is becoming a self-fulfilling one.
-facetLeast: Caraway warming in a dry pan, the whole kitchen sweetening. You notice kindness in strangers the way some people notice weather, and take it at face value.
-fortuneLeast: Let this one in. The building is happening elsewhere and the pattern that predicted failure is the reason.
+facetMostTitle: Caraway Between the Teeth
+facetMost: You read the message twice for what it isn't saying, then close the tab unanswered.
+facetHighTitle: Brine on the Sugar
+facetHigh: When an apology arrives, you weigh it against the bill still owed and answer the bill first.
+facetMidTitle: Wine Soured in the Jar
+facetMid: You let new acquaintances talk a long time before you offer your own name.
+facetLowTitle: Cabbage, Lid Off
+facetLow: You leave the door unlocked, the mail open on the table, and nothing yet has gone missing.
+facetLeastTitle: Caraway in the Dry Pan
+facetLeast: You notice kindness in strangers the way some people notice weather, and take it at face value.
+fortuneMost: Answer the invoice, not the apology. Sentiment doesn't clear the ledger.
+fortuneHigh: New script, same pattern. Make plans against the pattern; the script is decoration.
+fortuneMid: Let them talk for ten minutes before you offer a single fact about yourself. The discount you'd give is the one you'd regret.
+fortuneLow: Accept the compliment without scanning it for motive. The audit costs more than the kindness.
+fortuneLeast: Leave the door unlocked. Today the world is not actually coming for your stuff.
 ---
 
 Pickled Navy Beans are the Bean Zodiac's most cynical — they have seen what is behind the curtain and cannot unsee it.

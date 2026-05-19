@@ -7,16 +7,21 @@ trait: imaginative
 dish: Szechuan pickled green beans with bitter melon and sesame.
 quote: Imagination is more important than bean.
 seasonalFortune: Bitter melon learns sweetness from salt and waiting. The Cultured Green Bean lives among half-pickled notions, drafts steeping in their own brine until something stranger surfaces.
-facetMost: Sesame splits under the pestle and a doorway opens. You draft sideways, building the wrong room on purpose and moving in.
-fortuneMost: Give the imagination everything — no constraint, no correction, no limit on where it can go.
-facetHigh: Sleep finds you mid-pickle, pods still tumbling behind the eyelids. You wake reaching for paper before the kettle.
-fortuneHigh: Follow the strange turn; that is where the real thing is.
-facetMid: A message arrives plain; you answer in a flavour the sender did not order, and the thread tilts toward bitter melon.
-fortuneMid: Let the image form without directing it — see where it arrives.
-facetLow: The pantry stays in rows. You cook the recipe as written, sesame measured, the jar labelled in the hand that bought it.
-fortuneLow: Take the proven path this time; save the strange version for a moment that can hold it.
-facetLeast: A friend describes a strange idea; you nod, pay the bill, and walk home along the route you always take.
-fortuneLeast: Deliver the plain thing they asked for — the vision can wait, and insisting on it now will only get it refused.
+facetMostTitle: Sesame Under the Pestle
+facetMost: You draft sideways, building the wrong room on purpose and moving in.
+facetHighTitle: Pods Behind the Eyelids
+facetHigh: You wake reaching for paper before the kettle.
+facetMidTitle: A Flavour Not Ordered
+facetMid: A message arrives plain; you answer in a register the sender did not expect, and the thread tilts somewhere new.
+facetLowTitle: The Jar Labelled, the Rows Even
+facetLow: You cook the recipe as written, sesame measured, nothing left unlabelled.
+facetLeastTitle: The Route You Always Take
+facetLeast: A friend describes a strange idea; you nod, pay the bill, and walk home the usual way.
+fortuneMost: Take the wrong door deliberately. What's behind it is the thing you've been trying to describe all year.
+fortuneHigh: Send the weird answer. Delete the apology before you hit send.
+fortuneMid: Walk home a different way today — one block off is enough. The detour is the work.
+fortuneLow: Hand in the version they asked for, on time, no trapdoors. The strange one keeps in the jar.
+fortuneLeast: Stay on the path. Anything weirder today reads as static.
 ---
 
 Cultured Green Beans are the Bean Zodiac's most imaginative — they see what isn't there yet and render it visible.

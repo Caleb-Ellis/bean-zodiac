@@ -7,16 +7,21 @@ trait: ominous
 dish: Smoked navy bean with bitter juniper and char.
 quote: It was a dark and beany night.
 seasonalFortune: Juniper smoke drifts low through the bitter months; the char beneath the kettle remembers what the woodpile has not yet admitted.
-facetMost: Char on the tongue, juniper at the back of the throat. You wake at four with a knot under the ribs, and by morning the call has come.
-fortuneMost: Deliver the full forecast without softening — being believed is not a condition of being right.
-facetHigh: Smoke threads the rafters hours after the fire dies. You name the thing slipping in a room weeks before anyone else lifts their head.
-fortuneHigh: Say it clearly; they need time to prepare before the weather turns.
-facetMid: Juniper crackles before it catches. You read a message twice and answer the sentence the sender hasn't written yet.
-fortuneMid: Name what is gathering — it will arrive whether you speak or not.
-facetLow: The kettle hisses; you hear a kettle. Strangers arrive, and you take them at the doorstep word, no second weather read behind their coat.
-fortuneLow: Soften the delivery; the warning is real, but the form it is in is closing ears before it lands.
-facetLeast: Juniper as garnish, char wiped from the rim. You leave the curtains open at night, rooms unlocked behind you, the dark just dark.
-fortuneLeast: Let this one go without the forecast — sometimes the right call is letting the weather speak for itself.
+facetMostTitle: Char on the Tongue
+facetMost: You wake at four with a knot under the ribs, and by morning the call has come.
+facetHighTitle: Smoke After the Fire
+facetHigh: You name the thing slipping in a room weeks before anyone else lifts their head.
+facetMidTitle: Juniper Before Flame
+facetMid: You read a message twice and answer the sentence the sender hasn't written yet.
+facetLowTitle: The Kettle, Only a Kettle
+facetLow: Strangers arrive, and you take them at the doorstep word, no second weather read behind their coat.
+facetLeastTitle: The Wiped Rim
+facetLeast: You leave the curtains open at night, rooms unlocked behind you, the dark just dark.
+fortuneMost: Pull one person into the conference room and say it in three sentences. The rest will get there from the temperature change.
+fortuneHigh: Name the date and the failure mode out loud Monday. "Bad feeling" is being filed as weather; "Q3 vendor renewal" is filed as work.
+fortuneMid: Hand them the next concrete step before the forecast. They'll do the step; they would have argued the forecast for an hour.
+fortuneLow: Skip the prediction tonight. Everyone in the kitchen already saw the cloud; one more voice naming it is just noise.
+fortuneLeast: Pour the wine, ask about the tomatoes, let the storm pass through unannotated. The dinner party did not order a reading.
 ---
 
 Charcoal Navy Beans are the Bean Zodiac's most ominous — their sense of what is coming tends to be correct, and they say so in a way that is difficult to dispute.

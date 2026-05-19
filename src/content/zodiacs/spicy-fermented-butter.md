@@ -7,16 +7,21 @@ trait: eccentric
 dish: Kimchi jjigae with butter beans - fermented napa cabbage stew with gochugaru.
 quote: Here is your bean, soft reader. It is a little strange and so am I.
 seasonalFortune: The crock keeps its own hours. Napa leaves slump on a schedule no almanac prints, and the kitchen learns to wait for a sourness that arrives sideways.
-facetMost: A pot of jjigae left to its own devices, simmering on the wrong burner. The work you sign is the work nobody asked for, and you bring it anyway.
-fortuneMost: Follow the full strangeness and leave a path back.
+facetMostTitle: The Wrong Burner
+facetMost: The work you sign is the work nobody asked for, and you bring it anyway.
+facetHighTitle: Ladle Above the Bed
 facetHigh: You hang the ladle above the bed and the lamp beside the pot. Guests ask why; the answer is a shrug and the room.
-fortuneHigh: The arrangement is yours and it is right; find the bridge that lets someone else see where you went.
-facetMid: Gochugaru blooms crookedly in the broth. At gatherings you drift one chair off-centre, where the conversation runs at an angle nobody else hears.
-fortuneMid: The strange idea is worth following — take it one step further into the open.
+facetMidTitle: Gochugaru Off-Centre
+facetMid: At gatherings you drift one chair off-centre, where the conversation runs at an angle nobody else hears.
+facetLowTitle: The Clean Broth
 facetLow: You host the way a clean broth reads — chairs squared, napkins folded, the kimchi in a dish that matches the bowls.
-fortuneLow: Keep following it without company — attention has moved on and the thread is untended.
-facetLeast: Inbox sorted like cabbage sheets in brine. Folders labelled, threads closed, every message answered before the butter melts.
-fortuneLeast: Find a new entry point; the gap has grown past bridging and extending this one leads nowhere.
+facetLeastTitle: Cabbage Sheets in Brine
+facetLeast: Folders labelled, threads closed, every message answered before the butter melts.
+fortuneMost: Take the scenic route to the meeting and arrive with the wrong snack. The detour is the pitch.
+fortuneHigh: Offer one weird footnote up front — "this will sound off, bear with me" — then go in.
+fortuneMid: Put the odd object on the kitchen table where the coffee gets made. By Thursday someone will ask about it themselves.
+fortuneLow: You've been whispering the eccentric part. Say it at normal volume, just once.
+fortuneLeast: Quit knocking on that particular door. The house has been vacant for months and you're spooking the neighbors.
 ---
 
 Kimchi Butter Beans are the Bean Zodiac's most eccentric — their arrangement is one no one else could reproduce.

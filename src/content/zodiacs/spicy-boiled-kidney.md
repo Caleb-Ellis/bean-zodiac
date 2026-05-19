@@ -7,16 +7,21 @@ trait: stubborn
 dish: Rajma - Punjabi kidney bean curry with dried red chilies and whole spices.
 quote: It does not matter how slowly you go so long as you do not bean.
 seasonalFortune: A season that simmers without softening. Heat orbits the hull, chilies steeping the broth around a centre that will not yield its shape to the pot.
-facetMost: Chilies bloom long before the bean gives. The household runs on terms you set in winter; furniture, mealtimes, the angle of a lamp — moved only when you move them.
-fortuneMost: The pressure will run its full course; your shape holds through all of it.
-facetHigh: Red oil pooling at the rim. A message sits four days in the thread; the reply you owe waits for terms the morning has not yet delivered.
-fortuneHigh: The resistance is a feature — hold through it.
-facetMid: Whole spices clicking against the pot lid. You carry an apology the way one carries a stone in the pocket — present, weighed, not yet set down.
-fortuneMid: Stay in your position while the pressure runs its course.
-facetLow: Broth finding the gap between beans. Plans rearrange themselves around you mid-afternoon; the route you took this morning is not the route you'll take tomorrow.
-fortuneLow: Engage now before it closes without you — things have started moving through other channels.
-facetLeast: A chili softening into the simmer. At the table you take the seat offered, the dish passed, the topic chosen; the evening shapes itself around the room.
-fortuneLeast: Release what has already been routed around — another way has been found and the holdout has no object.
+facetMostTitle: Chilies Before the Bean Yields
+facetMost: The household runs on terms you set in winter; furniture, mealtimes, the angle of a lamp — moved only when you move them.
+facetHighTitle: Red Oil at the Rim
+facetHigh: A message sits four days in the thread; the reply you owe waits for terms the morning has not yet delivered.
+facetMidTitle: Whole Spices at the Lid
+facetMid: You carry an apology the way one carries a stone in the pocket — present, weighed, not yet set down.
+facetLowTitle: Broth Between the Beans
+facetLow: Plans rearrange themselves around you mid-afternoon; the route you took this morning is not the route you'll take tomorrow.
+facetLeastTitle: The Softening Chili
+facetLeast: At the table you take the seat offered, the dish passed, the topic chosen; the evening shapes itself around the room.
+fortuneMost: Hold your ground this week and don't justify it. They will tire of asking; you won't tire of standing.
+fortuneHigh: Don't send the reply today. The version that works arrives Friday; the one you'd send Monday burns the bridge.
+fortuneMid: Deliver the apology you've been carrying. Out loud, in person, without the qualifier. The stone has to leave the pocket.
+fortuneLow: They've routed around you. Walk back into the room before the route hardens into a habit.
+fortuneLeast: Open the fist. Whatever you were gripping ended weeks ago and the only thing left is the cramp.
 ---
 
 Braised Kidney Beans are the Bean Zodiac's most stubborn — pressure doesn't move them.
