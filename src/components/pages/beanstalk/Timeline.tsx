@@ -1,5 +1,11 @@
 import { useEffect, useMemo, useRef, useState } from "react";
-import { getPreparationName } from "../../../lib/zodiac";
+import {
+  getPreparationName,
+  type BeanId,
+  type FlavourId,
+  type FormId,
+  type ZodiacId,
+} from "../../../lib/zodiac";
 import { fetchZodiac, type AllZodiacData } from "../../../lib/data";
 import type { Zodiac } from "../../../lib/zodiac";
 import type { BeanstalkNode } from "../../../lib/spiritBean";
@@ -24,6 +30,12 @@ interface Props {
   activeIdx: number | null;
   onActiveIdxChange: (idx: number | null) => void;
   radarExpanded: boolean;
+  showBorn: boolean;
+  claimedBeanId: BeanId;
+  claimedFlavourId: FlavourId;
+  claimedFormId: FormId;
+  claimedSlug: ZodiacId;
+  claimedOn: string | null;
 }
 
 export default function Timeline({
@@ -33,7 +45,15 @@ export default function Timeline({
   onActiveIdxChange,
   activeIdx,
   radarExpanded,
+  showBorn,
+  claimedBeanId,
+  claimedFlavourId,
+  claimedFormId,
+  claimedSlug,
+  claimedOn,
 }: Props) {
+  const bornIdx = fortuneNodesInYear.length;
+  const totalNodes = fortuneNodesInYear.length + (showBorn ? 1 : 0);
   const [sectionZodiacs, setSectionZodiacs] = useState<Map<string, Zodiac>>(
     new Map(),
   );
@@ -62,12 +82,12 @@ export default function Timeline({
 
   // update base line height to end at last node's dot center
   useEffect(() => {
-    const lastEl = nodeRefs.current[fortuneNodesInYear.length - 1];
+    const lastEl = nodeRefs.current[totalNodes - 1];
     if (!lastEl || !timelineRef.current || !baseLineRef.current) return;
     const tlTop = timelineRef.current.getBoundingClientRect().top;
     const elRect = lastEl.getBoundingClientRect();
     baseLineRef.current.style.height = `${elRect.top + elRect.height / 2 - tlTop}px`;
-  }, [fortuneNodesInYear, sectionZodiacs]);
+  }, [totalNodes, sectionZodiacs]);
 
   // scroll listener: track active node + fill bar
   useEffect(() => {
@@ -76,7 +96,7 @@ export default function Timeline({
       const threshold =
         window.innerHeight * (isMobile ? (radarExpanded ? 0.6 : 0.45) : 0.35);
       let newActive: number | null = null;
-      for (let i = 0; i < fortuneNodesInYear.length; i++) {
+      for (let i = 0; i < totalNodes; i++) {
         const el = nodeRefs.current[i];
         if (!el) continue;
         if (el.getBoundingClientRect().top <= threshold) newActive = i;
@@ -101,7 +121,7 @@ export default function Timeline({
     window.addEventListener("scroll", handleScroll, { passive: true });
     handleScroll();
     return () => window.removeEventListener("scroll", handleScroll);
-  }, [fortuneNodesInYear, radarExpanded, onActiveIdxChange]);
+  }, [totalNodes, radarExpanded, onActiveIdxChange]);
 
   const sectionsRendered = useMemo(
     () =>
@@ -195,12 +215,10 @@ export default function Timeline({
               return (
                 <div
                   key={`fortune-${node.date}`}
-                  id={`fortune-${node.date}`}
                   ref={(el) => {
                     nodeRefs.current[globalIdx] = el;
                   }}
                   className="relative flex items-center gap-4 py-3"
-                  style={{ scrollMarginTop: "45svh" }}
                 >
                   <div
                     className="relative z-10 left-1.25 shrink-0 rounded-full transition-all duration-200"
@@ -263,7 +281,9 @@ export default function Timeline({
                           <div className="flex items-start flex-col gap-2 flex-wrap mb-2">
                             <p className="italic text-zinc-500 text-xs min-w-0 flex-1">
                               {node.facetTitle && (
-                                <span className="not-italic font-semibold text-zinc-400">{node.facetTitle}: </span>
+                                <span className="not-italic font-semibold text-zinc-400">
+                                  {node.facetTitle}:{" "}
+                                </span>
                               )}
                               {node.facetText}
                             </p>
@@ -293,7 +313,75 @@ export default function Timeline({
         className="absolute top-0 w-0.5 bg-blue-500"
         style={{ left: "10px", height: 0 }}
       />
-      <div className="flex flex-col">{sectionsRendered}</div>
+      <div className="flex flex-col">
+        {sectionsRendered}
+        {showBorn &&
+          (() => {
+            const claimedBean = data.beans[claimedBeanId];
+            const claimedBeanName = claimedBean?.name ?? claimedBeanId;
+            const claimedPrep = getPreparationName(
+              claimedFlavourId,
+              claimedFormId,
+            );
+            const isActive = activeIdx === bornIdx;
+            return (
+              <div
+                ref={(el) => {
+                  nodeRefs.current[bornIdx] = el;
+                }}
+                className="relative flex items-center gap-4 py-3"
+                style={{ scrollMarginTop: "45svh" }}
+              >
+                <div
+                  className="relative z-10 left-1.25 shrink-0 rounded-full transition-all duration-200"
+                  style={{
+                    width: 12,
+                    height: 12,
+                    transform: `${isActive ? "scale(1.5)" : "scale(1)"}`,
+                    backgroundColor: isActive ? "#3b82f6" : "#1e3a5f",
+                    boxShadow: isActive
+                      ? "0 0 0 3px rgba(59,130,246,0.25)"
+                      : "none",
+                  }}
+                />
+
+                <div
+                  className={`flex-1 min-w-0 rounded-2xl border-2 p-4 transition-colors ${isActive ? "border-blue-800 bg-zinc-900" : "border-zinc-800 bg-zinc-900/60"}`}
+                >
+                  <div className="flex items-center gap-6">
+                    {claimedBean && (
+                      <div className="shrink-0" style={{ width: "3rem" }}>
+                        <Bean
+                          bean={claimedBean}
+                          flavourId={claimedFlavourId}
+                          formId={claimedFormId}
+                        />
+                      </div>
+                    )}
+                    <div className="flex-1 min-w-0">
+                      {claimedOn && (
+                        <p className="text-xs text-zinc-500 mb-1">
+                          {formatDisplayDate(claimedOn)}
+                        </p>
+                      )}
+                      <p className="text-sm font-bold uppercase tracking-widest text-zinc-200 mb-2">
+                        You claimed the{" "}
+                        <ZodiacName
+                          flavourId={claimedFlavourId}
+                          formId={claimedFormId}
+                          beanId={claimedBeanId}
+                          preparation={claimedPrep}
+                          beanName={claimedBeanName}
+                          zodiacId={claimedSlug}
+                        />
+                      </p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            );
+          })()}
+      </div>
     </div>
   );
 }

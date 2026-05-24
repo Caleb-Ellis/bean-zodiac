@@ -33,7 +33,7 @@ Main entry point: `getZodiacMetadataForDate(date)` → `ZodiacMetadata` (zodiacI
 
 ### Preparations
 
-A **Preparation** = Flavour × Form name (30 total). Lookup: `getPreparationName(flavourId, formId)` via `PREPARATION_NAMES` in `zodiac.ts`.
+A **Preparation** = Flavour × Form name (30 total). Lookup: `getPreparationName(flavourId, formId)` via `PREPARATION_NAMES` in `src/lib/zodiac/constants.ts`.
 
 |        | boiled  | dried        | fermented | fried       | roasted     | smoked    |
 | ------ | ------- | ------------ | --------- | ----------- | ----------- | --------- |
@@ -57,11 +57,14 @@ Markdown lives in `src/content/`. The build script (`scripts/build-content.mjs`)
 - `/` — "The season of the [Preparation] [Bean]" when no claimed bean, "You are the [Preparation] [Bean]" when bean claimed, alongside daily fortune bean.
 - `/wheel` — date picker → "You are the [Preparation] [Bean]". Shareable via `?date=YYYY-MM-DD`.
 - `/compatibility` — date picker for a second bean; if a bean is claimed it's used as the first. Shareable via `?b=YYYY-MM-DD`.
-- `/legunomicon` — chronological history of daily fortune entries; shows resonance vote indicator per entry.
-- `/beaniary` — compendium grid of all 360 zodiacs; met beans show image + name, unmet show a black bean emoji.
-- `/beanstalk` — claimed bean's full zodiac page + Spirit Bean radar charts + timeline.
-- `/beans/`, `/beans/:id`, `/flavours/`, `/flavours/:id`, `/forms/`, `/forms/:id`, `/zodiacs/:id`
-- `/calendar` → redirects to `/wheel`. `/zodiacs` → redirects to `/`.
+- `/beanstalk` — claimed bean's Spirit Bean radar charts + reverse-chronological timeline of fortune history.
+- `/beaniary` — hub linking to:
+  - `/beaniary/beans`, `/beaniary/beans/:id` — the twelve beans
+  - `/beaniary/flavours`, `/beaniary/flavours/:id` — the five flavours
+  - `/beaniary/forms`, `/beaniary/forms/:id` — the six forms
+  - `/beaniary/met` — beans encountered so far
+- `/zodiacs/:id` — full page for any of the 360 zodiacs.
+- Legacy redirects: `/calendar` → `/wheel`, `/zodiacs` → `/`, `/beans` → `/beaniary/beans`, `/flavours` → `/beaniary/flavours`, `/forms` → `/beaniary/forms` (and `:id` equivalents).
 
 ### Daily Fortunes
 
@@ -112,13 +115,12 @@ All lookups sort IDs alphabetically before joining as key (e.g. `"adzuki-sweet"`
 
 All persistent state lives in a single Zustand store (`src/store/index.ts`) under the `bean-zodiac` localStorage key.
 
-- **claimedBean** (`ZodiacId | null`) — the user's claimed zodiac. Thin wrapper API in `src/lib/claimedBean.ts`: `getClaimedBeanSlug`, `setClaimedBeanSlug`, `clearClaimedBeanSlug`.
-- **fortuneHistory** (`FortuneEntry[]`) — daily fortune entries (date, zodiacId, qualityId, text, score), newest first. `score`: 0 = no vote, +1 = thumbs up, -1 = thumbs down. API in `src/lib/fortuneHistory.ts`.
-- **metBeans** (`ZodiacId[]`) — encountered zodiac IDs, newest first. API in `src/lib/metBeans.ts`. Backfills from fortune history on first `/beaniary` visit.
-- **fortuneSeenDate** (`string | null`) — `YYYY-MM-DD` of the last day the fortune dialog was dismissed. Drives whether the dialog auto-opens on `/`.
+- **claimed** (`ClaimedBean | null`, shape `{ id: ZodiacId, on: YYYY-MM-DD }`) — the user's claimed zodiac. Set via `setClaimed(id)`.
+- **fortuneHistory** (`FortuneEntry[]`) — daily fortune entries `{ date, zodiacId, qualityId, facetTitle, facetText, score, text, seenAt }`, newest first. `score`: 0 = no vote, +1 = accepted, -1 = resisted. `seenAt` is the ISO timestamp the user dismissed the fortune dialog (drives whether it auto-opens on `/`).
+- **metBeans** (`MetBean[]`, shape `{ id: ZodiacId, on: YYYY-MM-DD }`) — encountered zodiacs, newest first.
 - **radarExpanded** (`boolean`) — Beanstalk mobile radar-panel expansion preference.
 
-`relinquish()` clears claimedBean, fortuneHistory, metBeans, and fortuneSeenDate at once.
+`relinquish()` clears claimed, fortuneHistory, and metBeans at once.
 
 ### Spirit Bean & Beanstalk (`/beanstalk`)
 
@@ -129,7 +131,7 @@ All persistent state lives in a single Zustand store (`src/store/index.ts`) unde
 - Heirloom/rotten qualities apply 2× magnitude; stale/rotten negate the adjustment.
 - Charts auto-scale to max value (floor 16).
 
-**Beanstalk** — scrollable vertical timeline of fortune history. Left panel: sticky, `h-svh`, shows spirit zodiac + radar charts that lerp to cumulative scores at the active node. Right panel: scrollable timeline with a scroll-tracked fill bar. Year filter defaults to current bean year.
+**Beanstalk** — scrollable vertical timeline of fortune history. Left panel: sticky, shows spirit zodiac + radar charts that lerp to cumulative scores at the active node. Right panel: scrollable timeline with a scroll-tracked fill bar. Year filter defaults to current bean year.
 
 ### Styling
 

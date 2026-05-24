@@ -13,7 +13,7 @@ import {
 import SpiritPanel, { type DisplayValues } from "./SpiritPanel";
 import Timeline from "./Timeline";
 import { YearFilterBar, YearNavButton } from "./YearFilter";
-import { dayBefore, formatDate, getAllSeasonsForBeanYear, zodiacParts } from "./helpers";
+import { formatDate, getAllSeasonsForBeanYear, zodiacParts } from "./helpers";
 
 function scoresToDisplay(scores: SpiritBeanScores): DisplayValues {
   return {
@@ -46,11 +46,10 @@ interface Props {
 }
 
 const _currentBeanYear = getBeanYear(new Date());
-const _initialYearSeasons = getAllSeasonsForBeanYear(_currentBeanYear);
-const _initialYearStart = _initialYearSeasons[0]?.startDateStr;
 
 export default function Beanstalk({ nodes, currentScores, data, claimedSlug }: Props) {
   const [claimedFlavourId, claimedFormId, claimedBeanId] = zodiacParts(claimedSlug);
+  const claimedOn = useStore((s) => s.claimed?.on ?? null);
 
   const beanYears = useMemo<number[]>(() => {
     const yearSet = new Set<number>([getBeanYear(new Date())]);
@@ -65,76 +64,80 @@ export default function Beanstalk({ nodes, currentScores, data, claimedSlug }: P
 
   const yearSeasons = useMemo(() => getAllSeasonsForBeanYear(selectedBeanYear), [selectedBeanYear]);
 
-  const fortuneNodesInYear = useMemo(() => {
-    if (yearSeasons.length === 0) return [];
-    const yearStart = yearSeasons[0]!.startDateStr;
-    const yearEnd = yearSeasons[yearSeasons.length - 1]!.endDateStr;
-    return nodes.filter((n) => n.date >= yearStart && n.date <= yearEnd);
-  }, [nodes, yearSeasons]);
-
   const today = formatDate(new Date());
 
   const yearSections = useMemo(() => {
+    if (yearSeasons.length === 0) return [];
+    const yearStart = yearSeasons[0]!.startDateStr;
+    const yearEnd = yearSeasons[yearSeasons.length - 1]!.endDateStr;
+    const nodesInYear = nodes.filter((n) => n.date >= yearStart && n.date <= yearEnd);
+    const visibleSeasons = yearSeasons.filter((season) => season.startDateStr <= today);
     let idx = 0;
-    return yearSeasons
-      .filter((season) => season.startDateStr <= today)
-      .map((season) => {
-        const sectionNodes = fortuneNodesInYear.filter(
-          (n) => n.date >= season.startDateStr && n.date <= season.endDateStr,
-        );
-        const startIdx = idx;
-        idx += sectionNodes.length;
-        return { season, nodes: sectionNodes, startIdx };
-      });
-  }, [yearSeasons, fortuneNodesInYear]);
+    return [...visibleSeasons].reverse().map((season) => {
+      const sectionNodes = nodesInYear
+        .filter((n) => n.date >= season.startDateStr && n.date <= season.endDateStr)
+        .slice()
+        .reverse();
+      const startIdx = idx;
+      idx += sectionNodes.length;
+      return { season, nodes: sectionNodes, startIdx };
+    });
+  }, [yearSeasons, nodes, today]);
+
+  const fortuneNodesInYear = useMemo(
+    () => yearSections.flatMap((s) => s.nodes),
+    [yearSections],
+  );
 
   // ---------- spirit display lerping ----------
 
-  const computeInitialDisplay = (): DisplayValues => {
-    if (_initialYearStart) {
-      return scoresToDisplay(computeSpiritBeanScores(claimedSlug, dayBefore(_initialYearStart)));
-    }
-    return scoresToDisplay(currentScores);
-  };
+  const currentDisplay = useMemo(() => scoresToDisplay(currentScores), [currentScores]);
+  const currentSpiritId = useMemo(
+    () => spiritZodiacIdFromDisplay(currentDisplay),
+    [currentDisplay],
+  );
+
+  const bornDisplay = useMemo(
+    () => scoresToDisplay(computeSpiritBeanScores(claimedSlug, "0000-01-01")),
+    [claimedSlug],
+  );
+  const bornSpiritId = useMemo(
+    () => spiritZodiacIdFromDisplay(bornDisplay),
+    [bornDisplay],
+  );
+
+  const showBorn = selectedBeanYear === beanYears[0];
+  const bornIdx = fortuneNodesInYear.length;
 
   const [activeIdx, setActiveIdx] = useState<number | null>(null);
   const radarExpanded = useStore((s) => s.radarExpanded);
   const setRadarExpanded = useStore((s) => s.setRadarExpanded);
 
-  const initialDisplay = computeInitialDisplay();
-  const [display, setDisplay] = useState<DisplayValues>(initialDisplay);
-  const [preYearSpiritId, setPreYearSpiritId] = useState<ZodiacId>(() =>
-    spiritZodiacIdFromDisplay(initialDisplay),
-  );
+  const [display, setDisplay] = useState<DisplayValues>(currentDisplay);
 
-  const displayRef = useRef<DisplayValues>(initialDisplay);
-  const targetRef = useRef<DisplayValues>(initialDisplay);
-  const preYearDisplayRef = useRef<DisplayValues>(initialDisplay);
+  const displayRef = useRef<DisplayValues>(currentDisplay);
+  const targetRef = useRef<DisplayValues>(currentDisplay);
   const rafRef = useRef<number>(0);
   const topRef = useRef<HTMLDivElement>(null);
 
-  // reset + snap radar to start-of-year scores when year changes
+  // reset highlight when year changes
   useEffect(() => {
     setActiveIdx(null);
-    const seasons = getAllSeasonsForBeanYear(selectedBeanYear);
-    const yearStart = seasons[0]?.startDateStr;
-    if (!yearStart) return;
-    const startScores = computeSpiritBeanScores(claimedSlug, dayBefore(yearStart));
-    const snap = scoresToDisplay(startScores);
-    preYearDisplayRef.current = snap;
-    setPreYearSpiritId(spiritZodiacIdFromDisplay(snap));
-    displayRef.current = snap;
-    targetRef.current = snap;
-    setDisplay(snap);
   }, [selectedBeanYear]);
 
-  const activeFortuneNode = activeIdx !== null ? (fortuneNodesInYear[activeIdx] ?? null) : null;
+  const bornActive = showBorn && activeIdx === bornIdx;
+  const activeFortuneNode =
+    activeIdx !== null && activeIdx < bornIdx
+      ? (fortuneNodesInYear[activeIdx] ?? null)
+      : null;
 
-  // animate display values toward target when activeIdx changes
+  // animate display values toward target when activeIdx or current scores change
   useEffect(() => {
-    targetRef.current = activeFortuneNode
-      ? scoresToDisplay(activeFortuneNode.scores)
-      : preYearDisplayRef.current;
+    targetRef.current = bornActive
+      ? bornDisplay
+      : activeFortuneNode
+        ? scoresToDisplay(activeFortuneNode.scores)
+        : currentDisplay;
 
     cancelAnimationFrame(rafRef.current);
     const step = () => {
@@ -179,7 +182,9 @@ export default function Beanstalk({ nodes, currentScores, data, claimedSlug }: P
   const prevYear = beanYears[selectedYearIdx - 1] ?? null;
   const nextYear = beanYears[selectedYearIdx + 1] ?? null;
 
-  const spiritId = activeFortuneNode?.spiritZodiacId ?? preYearSpiritId;
+  const spiritId = bornActive
+    ? bornSpiritId
+    : (activeFortuneNode?.spiritZodiacId ?? currentSpiritId);
 
   return (
     <div className="w-full flex flex-col sm:gap-4" ref={topRef}>
@@ -209,6 +214,12 @@ export default function Beanstalk({ nodes, currentScores, data, claimedSlug }: P
             activeIdx={activeIdx}
             onActiveIdxChange={setActiveIdx}
             radarExpanded={radarExpanded}
+            showBorn={showBorn}
+            claimedBeanId={claimedBeanId}
+            claimedFlavourId={claimedFlavourId}
+            claimedFormId={claimedFormId}
+            claimedSlug={claimedSlug}
+            claimedOn={claimedOn}
           />
           <div className="flex justify-between gap-4 mt-8">
             {prevYear !== null ? (

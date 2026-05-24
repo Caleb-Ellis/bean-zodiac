@@ -78,7 +78,7 @@ export default function BeanstalkPage({ data }: Props) {
         </div>
         {scores && (
           <>
-            <div className="grid grid-cols-1 sm:grid-cols-3 gap-12 w-full">
+            <div className="grid grid-cols-1 sm:grid-cols-3 gap-16 w-full">
               <div className="flex flex-col items-center">
                 <p className="text-sm text-zinc-400 uppercase tracking-widest">Flavour</p>
                 <FlavourRadar

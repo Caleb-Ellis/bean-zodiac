@@ -1,4 +1,4 @@
-import { useState } from "react";
+import { useEffect, useRef, useState } from "react";
 import type { BeanId, FlavourId, FormId, ZodiacId } from "../../../lib/zodiac";
 import { getPreparationName } from "../../../lib/zodiac";
 import type { AllZodiacData } from "../../../lib/data";
@@ -37,6 +37,27 @@ export default function SpiritPanel({
   onToggleRadar,
 }: Props) {
   const [activeRadarTab, setActiveRadarTab] = useState<"flavour" | "form" | "bean">("flavour");
+  const carouselRef = useRef<HTMLDivElement>(null);
+  const radarKeys = ["flavour", "form", "bean"] as const;
+
+  useEffect(() => {
+    const el = carouselRef.current;
+    if (!el) return;
+    const onScroll = () => {
+      const idx = Math.round(el.scrollLeft / el.clientWidth);
+      const key = radarKeys[Math.max(0, Math.min(radarKeys.length - 1, idx))];
+      setActiveRadarTab(key);
+    };
+    el.addEventListener("scroll", onScroll, { passive: true });
+    return () => el.removeEventListener("scroll", onScroll);
+  }, []);
+
+  const scrollToRadar = (key: "flavour" | "form" | "bean") => {
+    const el = carouselRef.current;
+    if (!el) return;
+    const idx = radarKeys.indexOf(key);
+    el.scrollTo({ left: idx * el.clientWidth, behavior: "smooth" });
+  };
 
   const [spiritFlavourId, spiritFormId, spiritBeanId] = zodiacParts(spiritId);
   const spiritBean = data.beans[spiritBeanId];
@@ -91,7 +112,7 @@ export default function SpiritPanel({
             ).map(({ key, label, color }) => (
               <button
                 key={key}
-                onClick={() => setActiveRadarTab(key)}
+                onClick={() => scrollToRadar(key)}
                 className="flex-1 py-0.5 rounded-md text-[10px] font-semibold transition-colors cursor-pointer"
                 style={
                   activeRadarTab === key
@@ -111,36 +132,45 @@ export default function SpiritPanel({
               </button>
             ))}
           </div>
-          <div className="w-[70%] aspect-square mx-auto">
-            {activeRadarTab === "flavour" && (
-              <FlavourRadar
-                data={data}
-                claimedId={claimedFlavourId}
-                values={display.flavour}
-                highlightIndex={display.flavourHighlight}
-              />
-            )}
-            {activeRadarTab === "form" && (
-              <FormRadar
-                data={data}
-                claimedId={claimedFormId}
-                values={display.form}
-                highlightIndex={display.formHighlight}
-              />
-            )}
-            {activeRadarTab === "bean" && (
-              <BeanRadar
-                data={data}
-                claimedId={claimedBeanId}
-                values={display.bean}
-                highlightIndex={display.beanHighlight}
-              />
-            )}
+          <div
+            ref={carouselRef}
+            className="flex overflow-x-auto snap-x snap-mandatory scrollbar-none [scrollbar-width:none] [&::-webkit-scrollbar]:hidden"
+          >
+            <div className="shrink-0 basis-full snap-center flex justify-center">
+              <div className="w-[70%] aspect-square">
+                <FlavourRadar
+                  data={data}
+                  claimedId={claimedFlavourId}
+                  values={display.flavour}
+                  highlightIndex={display.flavourHighlight}
+                />
+              </div>
+            </div>
+            <div className="shrink-0 basis-full snap-center flex justify-center">
+              <div className="w-[70%] aspect-square">
+                <FormRadar
+                  data={data}
+                  claimedId={claimedFormId}
+                  values={display.form}
+                  highlightIndex={display.formHighlight}
+                />
+              </div>
+            </div>
+            <div className="shrink-0 basis-full snap-center flex justify-center">
+              <div className="w-[70%] aspect-square">
+                <BeanRadar
+                  data={data}
+                  claimedId={claimedBeanId}
+                  values={display.bean}
+                  highlightIndex={display.beanHighlight}
+                />
+              </div>
+            </div>
           </div>
         </div>
       </div>
 
-      <div className="hidden lg:flex lg:flex-col lg:flex-1 lg:min-h-0">
+      <div className="hidden lg:flex lg:flex-col lg:flex-1 lg:min-h-0 lg:gap-4">
         <div className="flex-1 min-w-0 lg:min-h-0">
           <FlavourRadar
             data={data}

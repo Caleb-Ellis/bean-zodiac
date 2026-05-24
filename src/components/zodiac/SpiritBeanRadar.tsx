@@ -52,7 +52,7 @@ export default function SpiritBeanRadar({
     <div className="flex flex-col items-center gap-2 h-full">
       {title && <p className="text-xs uppercase tracking-widest text-zinc-400">{title}</p>}
       <svg
-        viewBox="0 0 300 300"
+        viewBox="25 25 250 250"
         className="w-full h-full max-w-85 max-h-full"
         overflow="visible"
         aria-hidden="true"

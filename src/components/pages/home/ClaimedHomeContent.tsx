@@ -148,7 +148,7 @@ export default function ClaimedHomeContent({
                     </p>
                   )}
                   <a
-                    href={`/beanstalk#fortune-${localDateStr}`}
+                    href="/beanstalk"
                     className="text-sm text-zinc-400 hover:text-zinc-200 underline transition-colors"
                   >
                     View in Beanstalk →
