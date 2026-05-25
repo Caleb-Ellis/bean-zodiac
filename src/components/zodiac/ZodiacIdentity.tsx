@@ -44,7 +44,7 @@ export default function ZodiacIdentity({
           <span className="block text-md sm:text-xl mb-2 sm:mb-4">
             {hasClaimed ? "The" : "You are the"}
           </span>
-          <span className="block text-4xl sm:text-7xl mb-3 sm:mb-7">
+          <span className="block text-4xl sm:text-7xl mb-3 sm:mb-7 text-center text-balance">
             <ZodiacName
               flavourId={metadata.flavourId}
               formId={metadata.formId}
@@ -55,7 +55,11 @@ export default function ZodiacIdentity({
           </span>
         </h2>
         <div className="mb-4 sm:mb-6">
-          <Bean bean={bean} flavourId={flavour.slug as FlavourId} formId={form.slug as FormId} />
+          <Bean
+            bean={bean}
+            flavourId={flavour.slug as FlavourId}
+            formId={form.slug as FormId}
+          />
         </div>
         {zodiac && (
           <div className="flex flex-col items-center gap-3 max-w-xl">
@@ -73,7 +77,12 @@ export default function ZodiacIdentity({
             <BeanBadge id={metadata.beanId} name={bean.name} />
           </span>
         </div>
-        {zodiac && <ZodiacDish dish={zodiac.dish} className="max-w-lg w-full mb-2 sm:mb-4" />}
+        {zodiac && (
+          <ZodiacDish
+            dish={zodiac.dish}
+            className="max-w-lg w-full mb-2 sm:mb-4"
+          />
+        )}
       </section>
       {zodiac && (
         <section className="max-w-xl markdown-content">

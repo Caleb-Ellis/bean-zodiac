@@ -121,8 +121,8 @@ export default function ClaimedHomeContent({
                   />
                 </a>
                 <div className="relative flex flex-col items-center sm:items-start gap-4 min-w-0 overflow-hidden">
-                  <div className="flex flex-wrap items-center justify-center gap-4">
-                    <p className="text-sm sm:text-base font-bold uppercase tracking-widest text-zinc-200 text-left">
+                  <div className="flex flex-col items-center sm:items-start gap-4">
+                    <p className="text-sm sm:text-base font-bold uppercase tracking-widest text-zinc-200 text-center text-balance">
                       <ZodiacName
                         flavourId={fortuneFlavourId}
                         formId={fortuneFormId}
@@ -165,7 +165,7 @@ export default function ClaimedHomeContent({
           <span className="block text-md sm:text-xl mb-2 sm:mb-4">
             You are the
           </span>
-          <span className="block text-4xl sm:text-7xl mb-3 sm:mb-7">
+          <span className="block text-4xl sm:text-7xl mb-3 sm:mb-7 text-center text-balance">
             <ZodiacName
               flavourId={flavourId}
               formId={formId}

@@ -15,7 +15,6 @@ import {
 import { fetchZodiac } from "../../../lib/data";
 import {
   computeSpiritBeanScores,
-  getRingAdjustment,
   getSpiritZodiacId,
 } from "../../../lib/spiritBean";
 import { useStore } from "../../../store";
@@ -29,38 +28,39 @@ function buildScoredText(
   score: number,
   qualityId: ReturnType<typeof getDailyFortuneIds>["qualityId"],
 ): string {
-  const a = /^[aeiou]/i.test(trait) ? "an" : "a";
   const pick = <T>(arr: T[]) => arr[Math.floor(Math.random() * arr.length)]!;
-  const adj = getRingAdjustment(score, qualityId).chosen;
+  const phrase =
+    qualityId === "heirloom"
+      ? `the extremely ${trait} bean`
+      : qualityId === "market"
+        ? `the very ${trait} bean`
+        : qualityId === "garden"
+          ? `the ${trait} bean`
+          : qualityId === "stale"
+            ? `the once-${trait} bean`
+            : `the anti-${trait} bean`;
+  const Phrase = phrase.charAt(0).toUpperCase() + phrase.slice(1);
   if (score === 0) {
     return pick([
-      `The ${trait} bean passes you by without a word.`,
-      `You and the ${trait} bean regard each other from afar.`,
-      `The ${trait} bean notes your silence and moves on.`,
-      `The ${trait} bean leaves nothing behind today.`,
+      `${Phrase} passes you by without a word.`,
+      `You and ${phrase} regard each other from afar.`,
+      `${Phrase} notes your silence and moves on.`,
+      `${Phrase} leaves nothing behind today.`,
     ]);
   }
-  if (adj >= 3) {
+  if (score > 0) {
     return pick([
-      `The ${trait} bean knows you well. It says:`,
-      `The ${trait} bean finds its full expression in you:`,
-      `You are unmistakably ${a} ${trait} bean; it has much to offer:`,
-      `The ${trait} bean recognises you wholly, and speaks:`,
-    ]);
-  }
-  if (adj >= 1) {
-    return pick([
-      `The ${trait} bean finds a flicker of itself in you. It says:`,
-      `Something of the ${trait} bean stirs — it speaks:`,
-      `The ${trait} bean recognises you, and offers this:`,
-      `A trace of the ${trait} bean speaks to you:`,
+      `${Phrase} draws close and says:`,
+      `${Phrase} recognises you, and offers this:`,
+      `${Phrase} leans in to speak:`,
+      `${Phrase} has been waiting for you. It says:`,
     ]);
   }
   return pick([
-    `The ${trait} bean finds little in common with you, but speaks regardless:`,
-    `You and the ${trait} bean are strangers — it speaks nonetheless:`,
-    `You resist the ${trait} bean. It speaks across that distance:`,
-    `The ${trait} bean does not recognise you, but offers this:`,
+    `${Phrase} finds little in common with you, but speaks regardless:`,
+    `You and ${phrase} are strangers, yet it speaks:`,
+    `You turn from ${phrase}. It speaks across that distance:`,
+    `${Phrase} does not recognise you, but offers this:`,
   ]);
 }
 
