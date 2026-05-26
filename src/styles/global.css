@@ -430,25 +430,75 @@ input[type="date"]::-webkit-datetime-edit-year-field:focus {
 
 @keyframes card-sway {
   0% {
-    transform: rotateY(1deg) rotateX(2deg);
+    transform: rotateZ(0deg) rotateY(1deg) rotateX(2deg);
   }
   25% {
-    transform: rotateY(-2deg) rotateX(1deg);
+    transform: rotateZ(0.7deg) rotateY(-2deg) rotateX(1deg);
   }
   50% {
-    transform: rotateY(3deg) rotateX(-1deg);
+    transform: rotateZ(0deg) rotateY(3deg) rotateX(-1deg);
   }
   75% {
-    transform: rotateY(-3deg) rotateX(-2deg);
+    transform: rotateZ(-0.5deg) rotateY(-3deg) rotateX(-2deg);
   }
   100% {
-    transform: rotateY(1deg) rotateX(2deg);
+    transform: rotateZ(0deg) rotateY(1deg) rotateX(2deg);
   }
 }
 
 .animate-card-sway {
   animation: card-sway 11s ease-in-out infinite;
   transform-style: preserve-3d;
+}
+
+@keyframes border-pulse {
+  0% {
+    opacity: 0;
+    transform: rotate(0deg);
+  }
+  18% {
+    opacity: 1;
+  }
+  55% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 0;
+    transform: rotate(540deg);
+  }
+}
+
+.animate-border-pulse {
+  animation: border-pulse 3.6s ease-out forwards;
+}
+
+@property --gradient-angle {
+  syntax: "<angle>";
+  inherits: false;
+  initial-value: 0deg;
+}
+
+@keyframes gradient-border-spin {
+  to {
+    --gradient-angle: 360deg;
+  }
+}
+
+.gradient-border-ring {
+  position: absolute;
+  inset: 0;
+  border-radius: inherit;
+  padding: 1px;
+  pointer-events: none;
+  animation: gradient-border-spin 10s linear infinite;
+  -webkit-mask:
+    linear-gradient(#000 0 0) content-box,
+    linear-gradient(#000 0 0);
+  -webkit-mask-composite: xor;
+  mask:
+    linear-gradient(#000 0 0) content-box,
+    linear-gradient(#000 0 0);
+  mask-composite: exclude;
 }
 
 @keyframes fade-up {

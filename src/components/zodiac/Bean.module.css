@@ -9,8 +9,7 @@
     width: 100%;
     max-width: 10rem;
     will-change: filter;
-    filter: var(--quality-filter, saturate(1) brightness(1)) var(--form-filter, brightness(1))
-      var(--flavour-filter, brightness(1))
+    filter: var(--form-filter, brightness(1)) var(--flavour-filter, brightness(1))
       drop-shadow(0 0 0.3rem var(--glow-center-color, transparent))
       drop-shadow(0 0 0.5rem var(--glow-color, transparent));
 
@@ -18,6 +17,8 @@
       display: block;
       width: 100%;
       height: auto;
+      filter: var(--quality-filter, saturate(1) brightness(1) contrast(1));
+      transition: filter 1.4s cubic-bezier(0.16, 1, 0.3, 1);
     }
   }
 }

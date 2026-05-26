@@ -104,7 +104,7 @@ export default function ClaimedHomeContent({
           <section className="mb-8 sm:mb-12 max-w-2xl w-full flex flex-col items-center gap-4">
             <Divider />
             <p className="text-xs uppercase tracking-widest text-zinc-200 mb-2">
-              You have received the Bean's Wisdom
+              Today you received this Bean's Wisdom
             </p>
             <div className="flex flex-col gap-6 w-full">
               <div className="flex flex-col sm:flex-row items-center gap-4 sm:gap-6 w-full">
@@ -121,7 +121,7 @@ export default function ClaimedHomeContent({
                   />
                 </a>
                 <div className="relative flex flex-col items-center sm:items-start gap-4 min-w-0 overflow-hidden">
-                  <div className="flex flex-col items-center sm:items-start gap-4">
+                  <div className="flex flex-col sm:flex-wrap sm:flex-row items-center sm:items-start gap-4">
                     <p className="text-sm sm:text-base font-bold uppercase tracking-widest text-zinc-200 text-center text-balance">
                       <ZodiacName
                         flavourId={fortuneFlavourId}

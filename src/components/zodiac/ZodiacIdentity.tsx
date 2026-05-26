@@ -80,6 +80,9 @@ export default function ZodiacIdentity({
         {zodiac && (
           <ZodiacDish
             dish={zodiac.dish}
+            flavourId={metadata.flavourId}
+            formId={metadata.formId}
+            beanId={metadata.beanId}
             className="max-w-lg w-full mb-2 sm:mb-4"
           />
         )}
@@ -101,7 +104,7 @@ export default function ZodiacIdentity({
             href="/"
             className={`absolute inset-0 flex items-center justify-center text-zinc-300 transition-[opacity,transform] duration-300 underline ${claimed ? "opacity-100 translate-y-0 delay-300" : "opacity-0 translate-y-2 pointer-events-none"}`}
           >
-            You are ready to receive the Bean's wisdom
+            You are ready to receive daily wisdom →
           </a>
         </div>
       )}

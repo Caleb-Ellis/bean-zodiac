@@ -89,32 +89,28 @@ export default function UnclaimedHome({
           {zodiac && (
             <ZodiacDish
               dish={zodiac.dish}
+              flavourId={meta.flavourId}
+              formId={meta.formId}
+              beanId={meta.beanId}
               className="max-w-lg w-full mb-2 sm:mb-4"
             />
           )}
         </section>
-        {showFortune && (
-          <section className="mb-4 sm:mb-10 max-w-xl w-full flex flex-col items-center gap-3">
-            <Divider />
-            <p className="text-xs uppercase tracking-widest text-zinc-200">
-              Wisdom of the Bean
+        <section className="mb-4 sm:mb-10 max-w-xl w-full flex flex-col items-center gap-3">
+          <Divider />
+          <p className="text-xs uppercase tracking-widest text-zinc-200">
+            The Weather this Season
+          </p>
+          {zodiac ? (
+            <p className="italic text-zinc-200 text-lg text-center px-4">
+              "{zodiac.seasonalFortune}"
             </p>
-            {zodiac ? (
-              <p className="italic text-zinc-200 text-lg text-center px-4">
-                "{zodiac.seasonalFortune}"
-              </p>
-            ) : (
-              <div className="h-6 w-72 bg-zinc-800 rounded-full animate-pulse" />
-            )}
-            <Divider />
-          </section>
-        )}
-      </section>
-      {showContent && zodiac && (
-        <section className="max-w-xl markdown-content">
-          <Markdown>{zodiac.content}</Markdown>
+          ) : (
+            <div className="h-6 w-72 bg-zinc-800 rounded-full animate-pulse" />
+          )}
+          <Divider />
         </section>
-      )}
+      </section>
       <a
         href="/wheel"
         className="bg-zinc-900/80 border-2 border-zinc-500/60 text-white rounded-xl px-8 py-4 font-bold backdrop-blur-sm transition-[border-color,background-color,color] duration-200 hover:border-zinc-400 hover:text-white hover:bg-zinc-800/80"

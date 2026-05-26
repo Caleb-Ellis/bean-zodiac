@@ -37,8 +37,8 @@ function buildScoredText(
         : qualityId === "garden"
           ? `the ${trait} bean`
           : qualityId === "stale"
-            ? `the once-${trait} bean`
-            : `the anti-${trait} bean`;
+            ? `the formerly ${trait} bean`
+            : `the not-at-all ${trait} bean`;
   const Phrase = phrase.charAt(0).toUpperCase() + phrase.slice(1);
   if (score === 0) {
     return pick([
