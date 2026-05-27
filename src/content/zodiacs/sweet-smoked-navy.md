@@ -3,9 +3,9 @@ slug: sweet-smoked-navy
 bean: navy
 flavour: sweet
 form: smoked
-trait: haunting
+trait: lingering
 dish: Boston baked beans - navy beans slow-cooked with smoked salt pork, molasses, and brown sugar.
-quote: I am haunted by bean.
+quote: Some beans linger.
 seasonalFortune: Molasses settles slowly in a covered pot, and the smoke it took on Saturday keeps surfacing through Tuesday's bread. The season holds what was sweetened long after the hearth has cooled.
 facetMostTitle: Brown Sugar on the Rim
 facetMost: You leave traces in rooms — a book turned over, a cup half-drained — and people find them weeks later.
@@ -24,8 +24,8 @@ fortuneLow: Show up to the same standing thing again this week. Reliability is t
 fortuneLeast: End the loyalty that's gone cold. The next person can't sit in the chair while you're still in it.
 ---
 
-Barbecued Navy Beans are the Bean Zodiac's most haunting — their loyalty leaves an impression that persists well after they have gone.
+Barbecued Navy Beans are the Bean Zodiac's most lingering — their loyalty leaves an impression that persists well after they have gone.
 
 Navy Beans are quietly indispensable and reliably present; Sweet Beans make that reliability feel like warmth; Smoked Beans give the presence a quality that doesn't entirely clear when they go.
 
-The Barbecued Navy Bean's challenge is completion. A haunting is what happens when presence doesn't finish. These Beans must find out whether they have truly arrived, or only passed through.
+The Barbecued Navy Bean's challenge is completion. A lingering is what happens when presence doesn't finish. These Beans must find out whether they have truly arrived, or only passed through.

@@ -3,7 +3,7 @@ slug: spicy-boiled-black
 bean: black
 flavour: spicy
 form: boiled
-trait: tenacious
+trait: gritty
 dish: Sopa de frijoles negros - black bean soup with chipotle and smoked epazote.
 quote: It does not matter how slowly you go as long as you do not bean.
 seasonalFortune: A season for the long simmer. Chipotle smoke settles into the rafters and stays; what is started in these months keeps its heat into the next.
@@ -17,14 +17,14 @@ facetLowTitle: The Uncovered Pot
 facetLow: Your inbox climbs past four figures; threads close themselves without you, and the world has not punished you for it.
 facetLeastTitle: The New Bowl
 facetLeast: You move the couch, repaint the hallway, swap the lamps — the room asks to be remade and you oblige before the impulse cools.
-fortuneMost: Reopen the file you've sworn off twice. The third return is the one that finally bites.
-fortuneHigh: Ask to speak to their manager — calmly, by name. The slow burn is your weapon; use it.
-fortuneMid: Someone hands you a graceful out today. Refuse it and don't explain why. The refusal is the point.
+fortuneMost: Stay in the thing one more pass. Hands that have broken lesser work come out of this one harder, not softer.
+fortuneHigh: Outlast the no on the other end of the line. Calm beats loud when calm has time on its side.
+fortuneMid: Finish the thing today on the same legs that started it. The easy exit will still be there if you ever need one.
 fortuneLow: Hand off the thing you've been white-knuckling. Watch it survive without you and learn from the sting.
-fortuneLeast: Quit one ongoing thing this week — out loud, to a person. Tenacity needs a vacancy to mean anything.
+fortuneLeast: Quit one ongoing thing this week — out loud, to a person. Grit needs a vacancy to mean anything.
 ---
 
-Braised Black Beans are the Bean Zodiac's most tenacious — a quality so inherent to their structure that heat and pressure simply reveal it.
+Braised Black Beans are the Bean Zodiac's grittiest — heat and pressure do not break them, they reveal what was already built in.
 
 Black Beans hold their shape where others surrender; Spicy Beans demand full attention and cannot be ignored; Boiled Beans hold pressure at steady temperature that outlasts volatility.
 

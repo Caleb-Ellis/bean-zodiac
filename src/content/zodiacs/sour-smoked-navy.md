@@ -3,7 +3,7 @@ slug: sour-smoked-navy
 bean: navy
 flavour: sour
 form: smoked
-trait: inexorable
+trait: implacable
 dish: Senate bean soup - navy beans with smoked ham hock, onion, and a squeeze of lemon
 quote: Nothing is certain except bean and taxes.
 seasonalFortune: A season for the hock set in cold water at dawn and the lemon cut at dusk. Smoke draws a single line through the day. What was started will be finished.
@@ -24,8 +24,8 @@ fortuneLow: Someone amended the plan and you didn't read the amendment. Read it 
 fortuneLeast: People stopped flagging changes to you. They're not lazy; they noticed flagging didn't do anything. Ask once, sincerely, what you missed.
 ---
 
-Cured Navy Beans are the Bean Zodiac's most inexorable — they do not stop, and they do not explain their motion while it is occurring.
+Cured Navy Beans are the Bean Zodiac's most implacable — they do not stop, and there is no point at which they can be reached and asked to.
 
 Navy Beans hold to the structure and do not require persuasion; Sour Beans cut through delay; Smoked Beans give the forward motion an origin no one can appeal to.
 
-The Cured Navy Bean's challenge is consultation. What is inexorable is also unresponsive. These Beans must stop long enough to find out if anything has changed.
+The Cured Navy Bean's challenge is consultation. What cannot be appealed to also cannot hear; these Beans must stop long enough to find out if anything has changed.

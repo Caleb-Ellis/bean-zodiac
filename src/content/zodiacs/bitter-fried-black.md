@@ -3,7 +3,7 @@ slug: bitter-fried-black
 bean: black
 flavour: bitter
 form: fried
-trait: incisive
+trait: forensic
 dish: Tostada - black beans with charred tomatillo and bitter greens.
 quote: Two things are infinite - the universe and bean stupidity; and I'm not sure about the universe.
 seasonalFortune: The season scorches at the rim and softens at the center. Tomatillos blister before they yield; bitter greens go limp under heat that knew its moment. A clean break in the tostada decides the meal.
@@ -18,13 +18,13 @@ facetLow: You let a coworker finish the long version, then the longer version, t
 facetLeastTitle: Tomatillo, No Scorch
 facetLeast: You hear a rumour and set it down unopened; weeks later it has rearranged itself without your help.
 fortuneMost: Name the disagreement out loud. Politeness has been billing hours on this for weeks.
-fortuneHigh: Cut their long version off at the question they've been ducking. Be kind about it; do it anyway.
+fortuneHigh: Ask the small precise question that opens the room. One well-placed question saves an hour of fog.
 fortuneMid: Trust the thing your eye snagged on. The second pass is going to agree with it grumpily.
 fortuneLow: Sit on the answer for one extra round. You'll get to be right twice as loudly.
 fortuneLeast: Lose the scalpel today. Bring a warm question and ask it badly on purpose.
 ---
 
-Scorched Black Beans are the Bean Zodiac's most incisive — they find the point and deliver it instantly.
+Scorched Black Beans are the Bean Zodiac's most forensic — they take the situation apart and lay each part where it can be seen.
 
 Black Bean watches and processes long before speaking; Bitter Beans refuse what hasn't earned its place; Fried Beans deliver instantly, at heat.
 

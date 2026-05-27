@@ -5,7 +5,7 @@ flavour: bitter
 form: smoked
 trait: haunted
 dish: Smoked kidney bean with bitter ember oil.
-quote: I have a bean.
+quote: I see bean people.
 seasonalFortune: A season the ember oil clings to long after the coals go cold — kitchens that smell faintly of last winter's fire, and a person walking through them carefully.
 facetMostTitle: The Ember, Still Warm
 facetMost: You sit with the source on purpose — letter out, photograph out, the burn named — and the room changes temperature.

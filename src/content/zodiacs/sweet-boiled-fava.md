@@ -3,29 +3,29 @@ slug: sweet-boiled-fava
 bean: fava
 flavour: sweet
 form: boiled
-trait: persistent
+trait: insistent
 dish: Habas dulces — young fava beans boiled briefly and tossed with honey, lemon zest, and fresh mint.
 quote: It does not matter how slowly you bean, as long as you do not stop.
-seasonalFortune: A low simmer outlasts the cook who set it; the honey thickens through hours nobody watches, and the pot keeps its own counsel.
+seasonalFortune: A low simmer outlasts the cook who set it; the honey thickens through hours nobody watches, and the pot keeps asking until the answer comes.
 facetMostTitle: Honey in a Warm Pan
-facetMost: You return to the same draft for the ninth evening running, adding one sentence, removing two.
+facetMost: You ask the same question three times in a year, the same way each time, until the room realises you will not stop.
 facetHighTitle: Mint at the End
-facetHigh: You hold a small decision under heat for weeks before naming it aloud.
-facetMidTitle: The Loose Hinge
-facetMid: It waits out three seasons of intention. You tighten the screw on the fourth pass through the hallway, finally, without ceremony.
-facetLowTitle: Lemon Zest, and Gone
-facetLow: You abandon a half-read thread the instant a livelier tab announces itself.
+facetHigh: You loop back to the point the meeting skipped, calmly, until it has been answered to the room and not around it.
+facetMidTitle: Lemon Zest, Stirred Through
+facetMid: The thing you wanted on the calendar is on the calendar; you mentioned it twice and let the second mention land.
+facetLowTitle: Honey Skimmed Early
+facetLow: You hear "let's figure it out later" and let it pass, knowing later will not come.
 facetLeastTitle: The Quick Spoon
-facetLeast: You answer the easy message in seconds and let the one owing a real reply slip past another week.
-fortuneMost: Sit with the draft tonight for one more honest hour, fix the three sentences you keep circling, and send it before bed — the version that survives one more pass is the version that ships.
-fortuneHigh: The slow project from spring is about to surface; clear an evening this week to receive it properly, and resist the urge to apologise for how long it took.
-fortuneMid: Tighten the loose screw in the hallway this morning, before the coffee, while you still remember which drawer the screwdriver is in.
-fortuneLow: Honour the fact that the case for stopping has knocked three times now — open the door, thank the project for what it taught you, and walk it kindly to the bin.
-fortuneLeast: This is not your hill, and the honey has gone bitter on the back burner; turn the flame off, wash the pan, and let someone else cook on it.
+facetLeast: You ask once, accept the first sidestep, and walk away grateful you did not have to repeat yourself.
+fortuneMost: Ask the thing you have asked before once more this week, gently, in the same words. Meaning shows itself by being repeated.
+fortuneHigh: Today, raise it again. The first answer was not an answer; you have permission to ask for the real one.
+fortuneMid: Mention the thing once today. Mentioning it once does not commit you to a campaign; it just puts the marker down.
+fortuneLow: Let the question pass this time. Some asks do not survive the first no; treat that as information, not failure.
+fortuneLeast: Take the easy answer today and walk away. The fight you did not pick this morning will not come for you later.
 ---
 
-Candied Fava Beans are the Bean Zodiac's most persistent — continuing without requiring things to be easy or the end to be visible.
+Candied Fava Beans are the Bean Zodiac's most insistent — they keep asking, gently and exactly the same, until the asking has been answered.
 
-Fava Beans know that most worthwhile things require sustained effort; Sweet Beans warm the persistence, making it feel like commitment; Boiled Beans make it compound over time.
+Fava Beans go after what is hard to reach; Sweet Beans make the asking feel like invitation, not demand; Boiled Beans give the ask the long heat to keep returning without cooling.
 
-The Candied Fava Bean's challenge is distinguishing persistence from continuation past the point of return. They must be willing to stop when stopping is the right move, not only when the work is finished.
+The Candied Fava Bean's challenge is the ask the other side has heard and rejected. Some no's will yield to repetition; others only harden, and learning which is which takes practice.

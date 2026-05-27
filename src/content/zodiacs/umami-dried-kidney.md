@@ -3,7 +3,7 @@ slug: umami-dried-kidney
 bean: kidney
 flavour: umami
 form: dried
-trait: fervent
+trait: faithful
 dish: Rajma masala - dried kidney beans in spiced onion-tomato gravy.
 quote: The bean that burns twice as bright burns half as long.
 seasonalFortune: A season of long reductions. The gravy darkens by inches, the onions surrender their water in their own time, and what is begun in this house is finished in this house.
@@ -24,8 +24,8 @@ fortuneLow: Pick one of the twelve threads. Kill the other eleven.
 fortuneLeast: The fight is over. Open a window.
 ---
 
-Aged Kidney Beans are the Bean Zodiac's most fervent — the passion has deepened over time and is not going anywhere.
+Aged Kidney Beans are the Bean Zodiac's most faithful — the promise made early is the promise kept late, and the keeping is the whole point.
 
-Kidney Beans commit with an intensity that does not diminish; Umami Beans build depth through sustained attention; Dried Beans hold it all in concentrated form, permanent and unyielding.
+Kidney Beans commit with an intensity that does not diminish; Umami Beans build depth through sustained attention; Dried Beans hold the kept thing in concentrated form, permanent and unyielding.
 
-The Aged Kidney Bean's challenge is the cause outlasted by the fervour. These Beans can sustain devotion long past the point where the object of it has shifted. They must stay in contact with what they are actually protecting — not only the feeling of protecting it.
+The Aged Kidney Bean's challenge is the cause outlasted by the faithfulness. These Beans can keep faith long past the point where the object of it has shifted, and must stay in contact with what they are actually keeping faith with — not only the habit of keeping it.

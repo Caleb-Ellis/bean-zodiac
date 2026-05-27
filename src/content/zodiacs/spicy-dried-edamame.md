@@ -3,7 +3,7 @@ slug: spicy-dried-edamame
 bean: edamame
 flavour: spicy
 form: dried
-trait: caustic
+trait: mordant
 dish: Dried edamame with shichimi togarashi and yuzu salt.
 quote: Be yourself; everyone else is already beaned.
 seasonalFortune: A season pared to what survives the drying rack. Soft months fall away as husk; the rest sits salted on the shelf, sharp under any weather it meets.
@@ -24,7 +24,7 @@ fortuneLow: Ask the question. Stop landing the point.
 fortuneLeast: Let the misread stand. The platform isn't the courtroom.
 ---
 
-Sichuan Edamame are the Bean Zodiac's most caustic — efficient, direct, and not always aware of what the efficiency costs.
+Sichuan Edamame are the Bean Zodiac's most mordant — the bite is dry, the aim is true, and the wit lands before the room has caught up.
 
 Edamame reach conclusions while others are still framing the question; Spicy Beans make impact total and immediate; Dried Beans strip away anything that might have softened the landing.
 

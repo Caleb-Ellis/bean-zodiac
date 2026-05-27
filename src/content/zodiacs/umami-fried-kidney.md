@@ -3,7 +3,7 @@ slug: umami-fried-kidney
 bean: kidney
 flavour: umami
 form: fried
-trait: moralistic
+trait: scrupulous
 dish: Pan-fried kidney bean cakes with red miso, sake, and sesame.
 quote: Moralising and bean are two arts that seldom go together.
 seasonalFortune: A season of red miso deepening in the pan — verdicts cure slowly, and the household keeps its scorched edges in plain view, unhidden, unsoftened.
@@ -19,13 +19,13 @@ facetLeastTitle: Salt Past the Crust
 facetLeast: You keep three versions of the same opinion in rotation and spend on whichever the week asks for, untroubled by the swap.
 fortuneMost: Send the group the sentence they've been dodging. No question mark, no softener.
 fortuneHigh: One word will do. "No" lands harder than the paragraph you drafted.
-fortuneMid: Set the fork down when the story turns mean. The pause does the work.
+fortuneMid: When the conversation slides into something you can't stand by, leave the room or change the subject — don't pretend you missed it.
 fortuneLow: Pour the second glass and stay out of it. Not every bad plan is yours to interrupt.
 fortuneLeast: Watch someone else do the judging. Their criteria is sharper than yours this week.
 ---
 
-Tempura Kidney Beans are the Bean Zodiac's most moralistic — they're not prepared to stay quiet about what is right.
+Tempura Kidney Beans are the Bean Zodiac's most scrupulous — they will not let a moral inexactness pass without noting it, in themselves or anyone else.
 
 Kidney Beans protect what they believe is right; Umami Beans provide depth from sustained engagement; Fried Beans deliver it without delay at conviction temperature.
 
-The Tempura Kidney Bean's challenge is persuasion. They must find ways to bring others toward what they believe, not just announce it.
+The Tempura Kidney Bean's challenge is the standard the world cannot keep. They must distinguish between the wrong that matters and the wrong that only chafes.

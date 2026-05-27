@@ -3,9 +3,9 @@ slug: sweet-dried-kidney
 bean: kidney
 flavour: sweet
 form: dried
-trait: ardent
+trait: adoring
 dish: Habichuelas con dulce — dried kidney beans cooked with coconut milk, sweet potato, raisins, and warm spice into a Dominican Easter dessert.
-quote: The course of true love never did run bean.
+quote: The course of true love never did bean smooth.
 seasonalFortune: The dried bean keeps its heat tucked under a wrinkled coat; in this household a feeling, once taken in, simmers for months before it is ladled out.
 facetMostTitle: Cinnamon That Does Not Yield
 facetMost: The notebook you keep returns to the same name across years, each entry darker and sweeter, none of them retracted.
@@ -24,8 +24,8 @@ fortuneLow: Match the volume in the room. Save the heat for someone closer.
 fortuneLeast: Stop chasing the reply. Cook the stew for yourself.
 ---
 
-Crystallised Kidney Beans are the Bean Zodiac's most ardent — the passion has been distilled to something patient and permanent.
+Crystallised Kidney Beans are the Bean Zodiac's most adoring — the love has crystallised into a permanent sweetness, and the loving is the practice.
 
-Kidney Beans protect and commit absolutely; Sweet Beans offer without requiring conditions; Dried Beans hold the feeling in concentrated form, carrying it indefinitely without declaration.
+Kidney Beans protect and commit absolutely; Sweet Beans offer without conditions; Dried Beans hold the feeling concentrated, carried indefinitely without fading.
 
-The Crystallised Kidney Bean's challenge is love held too quietly. Ardour that is never spoken accumulates without ever arriving. These Beans must learn that feeling deeply is not enough — it must also be expressed.
+The Crystallised Kidney Bean's challenge is the beloved made too large. Adoration without limit can flatten the person into the shape of the feeling; these Beans must remember the one they love is a person, not a vessel.

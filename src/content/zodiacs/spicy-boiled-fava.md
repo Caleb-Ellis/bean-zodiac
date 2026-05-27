@@ -3,7 +3,7 @@ slug: spicy-boiled-fava
 bean: fava
 flavour: spicy
 form: boiled
-trait: unyielding
+trait: adamant
 dish: Spiced fava bean soup with berbere and lemon.
 quote: I am not a bean to be argued out of what I know to be right.
 seasonalFortune: A season for the long simmer. The skin holds while heat works through; what does not yield to berbere and lemon will be carried whole to the bowl.
@@ -24,7 +24,7 @@ fortuneLow: Read the rebuttal twice before answering. You may be defending a pos
 fortuneLeast: Hold the no when the applause stops. Conviction that only survives an audience was never conviction.
 ---
 
-Braised Fava Beans are the Bean Zodiac's most unyielding — once decided, nothing moves them.
+Braised Fava Beans are the Bean Zodiac's most adamant — once decided, nothing moves them.
 
 Fava Beans move toward difficulty as a matter of course; Spicy Beans bring intensity that makes the position urgent and undismissable; Boiled Beans sustain that intensity with patient, steady heat.
 

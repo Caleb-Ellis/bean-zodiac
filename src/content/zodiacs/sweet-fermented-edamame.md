@@ -3,29 +3,29 @@ slug: sweet-fermented-edamame
 bean: edamame
 flavour: sweet
 form: fermented
-trait: systematic
+trait: practiced
 dish: Edamame in mirin and sake reduction — soybeans lacquered in sweet rice wine, simmered until each one is evenly coated and glossed.
-quote: For every bean effect there is a definite cause; for every cause there is a definite effect.
-seasonalFortune: A season for slow reductions. The mirin gives up its sugar by degrees, the sake its sharpness, and what coats the bean is the patience of a long, low flame.
+quote: Patience is bitter, but its bean is sweet.
+seasonalFortune: A season for slow reductions. Each pass over the heat thickens what came before, and by the end the glaze carries the whole afternoon.
 facetMostTitle: A Glaze Reduced
-facetMost: Friends ask how you remember birthdays and you show them the spreadsheet, half-apologetic, fully unwilling to abandon it.
+facetMost: The five-minute habit you started years ago has made you the friend who remembers everything.
 facetHighTitle: Sake Before the Mirin
-facetHigh: Before you pack a bag you write the trip out — nights, weather, what gets worn twice — and the bag is light.
+facetHigh: The walk you started in February is now the hour you think best in.
 facetMidTitle: Mirin at Its Heat
-facetMid: You keep a running list in your head of what each room, each errand, each friend requires, and you work the list in order.
-facetLowTitle: Pods in Their Own Order
-facetLow: You answer the messages that catch your eye, leave the rest, and the day arranges itself around your attention.
+facetMid: Six weeks in and the habit is already paying back more than it costs.
+facetLowTitle: One Pod, One Heat
+facetLow: You sit down once, hard, do the thing, and nothing is left to build on next month.
 facetLeastTitle: The Untimed Pot
-facetLeast: You buy the ticket the morning of, pack standing up, and find the hotel from the train.
-fortuneMost: Send the friend the spreadsheet, with love. Yes, the colour-coded one. They'll print it.
-fortuneHigh: Wrap the gift in the system — the labelled box, the timeline, the note for after. Effort that organised is romance.
-fortuneMid: A field on your beloved spreadsheet has been wrong since March. Fix it tonight; reward yourself with cake.
-fortuneLow: Shut the laptop and improvise dinner. Whatever happens, happens — and it's going to be fine.
-fortuneLeast: Pack the bag in eight minutes. Anything you forgot was a thing you didn't actually need.
+facetLeast: No plan; the day takes itself, and evening arrives with nothing built for tomorrow.
+fortuneMost: Keep going on the quiet thing nobody has noticed. The years are doing the work; don't break the chain.
+fortuneHigh: Start the small daily thing today. Waiting for a better week to begin keeps the better week from arriving.
+fortuneMid: The habit feels boring at six weeks in. Boring means you have stayed in long enough to stop noticing.
+fortuneLow: Do the one-off thing once and walk away. Some things are complete the first time.
+fortuneLeast: Take the day with no plan, no carry-over. Days that build nothing have their own quiet use; let this one have it.
 ---
 
-Funky Edamame are the Bean Zodiac's most systematic — they think about how things work before committing.
+Funky Edamame are the Bean Zodiac's most practiced — they have done the small thing so many times it no longer costs them anything.
 
-Edamame builds toward what is actually needed; Sweet Beans make the system generous, sustaining others as well; Fermented Beans develop the approach in private and arrive with durability.
+Edamame does what works without ceremony; Sweet Beans make the repetition feel generous, not grinding; Fermented Beans do the layering out of sight, where time is the whole point.
 
-The Funky Edamame's challenge is that good systems outlive the problems they were built for. They must be willing to pull apart and rebuild from a new start.
+The Funky Edamame's challenge is the early years that return nothing. Practice only pays for the bean that stays in past the stretch where nothing looks to be happening.

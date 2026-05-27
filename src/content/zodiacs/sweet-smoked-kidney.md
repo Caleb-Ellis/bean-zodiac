@@ -3,29 +3,29 @@ slug: sweet-smoked-kidney
 bean: kidney
 flavour: sweet
 form: smoked
-trait: impassioned
+trait: enamored
 dish: Red beans and rice - kidney beans slow-cooked with smoked andouille, sweet bell pepper, and thyme.
 quote: The heart has its bean that reason knows nothing of.
-seasonalFortune: A season that hums at the back of the throat like thyme on a long simmer — old loyalties darken in the pot, and nobody at the table mistakes what is meant.
+seasonalFortune: A season that hums at the back of the throat like thyme on a long simmer; old loyalties darken in the pot, and the love is in the cooking, not the saying.
 facetMostTitle: Smoke in Every Corner
-facetMost: You name the thing aloud — the grudge, the love, the worry — while others are still circling the bowl.
-facetHighTitle: Pepper Splitting in the Heat
-facetHigh: At the door you hug the friend nobody else hugs, and hold a beat longer than is polite.
+facetMost: Years in, you still catch yourself watching them across a room without realising it; the noticing is its own private practice.
+facetHighTitle: Pepper in the Pot, Steady
+facetHigh: You keep their favourite mug in the cupboard you use, and the small gladness of seeing it there is enough to make the morning.
 facetMidTitle: Andouille, Low and Steady
-facetMid: You answer messages once the feeling behind them has fully cooked; nothing leaves the pot half-said.
+facetMid: A song they like comes on and you let it play through twice, for no one watching.
 facetLowTitle: Rice Cooled on the Counter
-facetLow: You let a fond thing sit untended for weeks; the affection is real, the announcing of it is somebody else's job.
+facetLow: The gesture is on time and the warmth is somewhere else; you do the thing and trust the doing counts.
 facetLeastTitle: Thyme Kept Dry
-facetLeast: Whatever burns in you stays banked; friends learn your weather by long acquaintance, never by declaration.
-fortuneMost: Tell them you love them at lunch, not in a card. Use the word, in daylight, with witnesses.
-fortuneHigh: Hug the friend nobody hugs. Don't talk over the hug — let it last the extra beat.
-fortuneMid: Reply tomorrow, not tonight. The version that's still in the pan will scorch on the page.
-fortuneLow: Cook something hot for one person on Sunday. The declaration is the dinner, not a speech about the dinner.
-fortuneLeast: Pick one person you're quietly furious with and quietly forgive them. They'll never know; that's the point.
+facetLeast: You catch yourself reciting the words for love without the warmth behind them; the practice has hollowed.
+fortuneMost: Tend the small thing they don't know you tend. Some practices belong only to the one who keeps them.
+fortuneHigh: Cook the meal they like and don't tell them why. They will know without being told.
+fortuneMid: Take a quiet inventory of who you would miss if they stopped writing. The list is shorter and more honest than you think.
+fortuneLow: Do the gesture even when the warmth has gone walkabout. The habit holds the place until the feeling returns.
+fortuneLeast: Sit with the week when nothing feels held. Not every season carries the warmth; what fades quietly tends to come back the same way.
 ---
 
-Barbecued Kidney Beans are the Bean Zodiac's most impassioned — the warmth is genuine, and underneath it something urgent is moving without a name.
+Barbecued Kidney Beans are the Bean Zodiac's most enamored — the love is held quietly, and the holding is itself a form of tending.
 
-Kidney Beans protect what they love at full intensity; Sweet Beans give that protection a warmth that feels welcoming; Smoked Beans carry the urgency from somewhere not immediately visible.
+Kidney Beans hold what they love at full intensity; Sweet Beans make the holding warm and welcoming; Smoked Beans give off the love as warmth without ever showing the source.
 
-The Barbecued Kidney Bean's challenge is disclosure. Warmth without the underlying declaration is only comfort. These Beans must name what they are actually fighting for.
+The Barbecued Kidney Bean's challenge is the love the beloved cannot feel. A devotion tended only inwardly stays only with the holder; the warmth must occasionally be traceable to its source.

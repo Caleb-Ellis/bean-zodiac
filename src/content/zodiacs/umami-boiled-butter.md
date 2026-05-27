@@ -3,29 +3,29 @@ slug: umami-boiled-butter
 bean: butter
 flavour: umami
 form: boiled
-trait: grounded
+trait: sleepy
 dish: Butter bean broth simmered with Parmesan rinds, rosemary, and garlic.
-quote: If it ain't beaned, don't fix it.
-seasonalFortune: A long simmer makes the kitchen quieter. The rind gives up its salt to the pot, and the season runs on what refuses to move.
-facetMostTitle: A Clove Surrendered
-facetMost: You are the one friends come back to between weathers — the chair always in the same room.
-facetHighTitle: The Rind Kept a Year
-facetHigh: You buy the heavy pot once and refuse the upgrade. Things outlast their receipts in your kitchen.
-facetMidTitle: The Whole Rosemary
-facetMid: When the room gets loud, you lower your voice instead of raising it.
-facetLowTitle: Beans in the Turn
-facetLow: You sleep better in a borrowed bed than your own, and pack light for it.
-facetLeastTitle: Steam Before It Names Itself
-facetLeast: You change the plan on the platform; the old one stops existing.
-fortuneMost: Say what you want for dinner. Out loud, first, before they guess. They've been waiting to be told.
-fortuneHigh: Sit down on the floor for ten minutes today and refuse to be useful. The pot simmers without you.
-fortuneMid: Ask the friend who leans on you for a specific favour by Sunday. The ledger has been running one-way and you both know it.
-fortuneLow: Cancel the second commitment of the day. Two is plenty; three is theatre.
-fortuneLeast: Stop redrafting the week. Pick Tuesday's plan, set the rest aside, and live inside it without amending.
+quote: Let sleeping beans lie.
+seasonalFortune: The simmer takes the whole afternoon. Steam thickens the windows, the rind softens by degrees, and the season runs on the rest no one tracked taking.
+facetMostTitle: The Pot Left to Simmer
+facetMost: You doze through two alarms and arrive at the day the way the broth arrives at flavour — when it's ready, and not a minute before.
+facetHighTitle: Steam on the Lid
+facetHigh: The nap was meant to be twenty minutes; you wake at dusk and find the evening has rearranged itself around your absence without complaint.
+facetMidTitle: Low Heat, All Afternoon
+facetMid: The yawn lands at three; you let it, refill the cup, and rejoin the meeting half a beat behind without anyone minding the gap.
+facetLowTitle: Broth Skimmed Hot
+facetLow: You sleep light, wake at the first creak in the hallway, and the night belongs to whoever else is awake in it.
+facetLeastTitle: The Burner Turned High
+facetLeast: Three coffees by ten and you're still ahead of the room; the body has not yet remembered that tired is a thing it does.
+fortuneMost: Take the whole afternoon. Close the curtains, leave the phone in the other room, and don't apologise to anyone — the rest you've been postponing is the appointment, not the obstacle to it.
+fortuneHigh: Cancel the evening plan and go to bed before the news. The friend will understand; sleep is the favour you owe yourself first.
+fortuneMid: The three o'clock yawn is not weakness — it is information. Let it land, drink the water, and don't argue with what the body has already decided.
+fortuneLow: The early hour is yours before anyone claims it. Use it quietly, without ambition, for the thing that needs only you and the kettle.
+fortuneLeast: The restlessness has a use this week. Stay up with it once — write the thing you've been circling while the house is asleep, and let the morning find what you made.
 ---
 
-Dashi Butter Beans are the Bean Zodiac's most grounded — Beans build their seasons around them.
+Dashi Butter Beans are the Bean Zodiac's sleepiest — heavy-lidded, slow to rise, and never quite finished resting.
 
-Butter Beans do not hurry and require nothing; Umami Beans add nourishing depth that comes from staying; Boiled Beans immerse everything slowly without drama.
+Butter Beans take whatever time they need and refuse to be hurried; Umami Beans deepen with slowness and reward the patience of staying; Boiled Beans immerse fully, where the long simmer is the point and not the means.
 
-The Dashi Butter Bean's challenge is their own needs. They must occasionally require something of those who have built on their foundation.
+The Dashi Butter Bean's challenge is the alarm worth answering. Most things can wait until after the nap; a few genuinely cannot, and the bean must learn which is which before the moment has slept past it.
