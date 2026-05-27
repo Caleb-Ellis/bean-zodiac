@@ -7,6 +7,11 @@ trait: intense
 dish: Doenjang Jjigae - red beans with bitter greens.
 quote: Beware the bean who is quiet in a crisis.
 seasonalFortune: The crock has been dark a long season. Bitter greens darken in the paste; what was sealed begins to press at the lid, asking to be tasted.
+fortuneMost: Tell one person the whole of it, start to finish, in one sitting. The pressure has cured; uncrock it before the seal goes.
+fortuneHigh: The version you've been showing is the dinner-party one. Hand the unedited version to whoever is still up after the rest have gone to bed.
+fortuneMid: Don't explain it. Walk in carrying it and let the temperature speak.
+fortuneLow: Back away from the door. What you'd say through it now lands at three times the weight you meant.
+fortuneLeast: Shrink in the doorway. The weather you're tracking in doesn't belong to this kitchen.
 facetMostTitle: Uncrocked at Last
 facetMost: You hand someone the thing you've been darkening alone, and let them taste it whole.
 facetHighTitle: The Stew That Took Longest
@@ -17,15 +22,14 @@ facetLowTitle: Stir Once, Serve
 facetLow: The pot doesn't need to brood; neither do you.
 facetLeastTitle: Greens Through the Broth
 facetLeast: You leave a room the way weather leaves a window — felt, then gone, nothing stained.
-fortuneMost: Tell one person the whole of it tonight. The pressure has cured; uncrock it.
-fortuneHigh: The version you've been showing is the dinner-party one. Hand the unedited version to whoever is still up at 1am.
-fortuneMid: Don't explain it. Walk in carrying it and let the temperature speak.
-fortuneLow: Back away from the door. What you'd say through it now lands at three times the weight you meant.
-fortuneLeast: Shrink in the doorway. The weather you're tracking in doesn't belong to this kitchen.
+question: Someone you care about asks, lightly, how you've actually been. You...
+answerMost: hold their eye and tell them the whole undiluted truth
+answerHigh: give them the one sentence you've been carrying all week
+answerMid: name the real thing and stop before it becomes a speech
+answerLow: say "fine, mostly" and mean about half of it
+answerLeast: smile, change the subject, and ask after their week instead
 ---
 
-Cultured Kidney Beans are the Bean Zodiac's most intense — they carry more beneath the surface than most will show.
+Cultured Kidney Beans are the Bean Zodiac's most intense — they walk into a room quietly and it reorients toward them anyway, the way a table leans toward the dish that took longest to make. They carry the day's weight at the jaw, held, not set down, and when they finally hand someone the thing they've been darkening alone, it arrives whole and undiluted. There's a gravity to them that nothing performed could fake.
 
-Kidney Bean's passion runs deep; Bitter Beans refuse to surface anything unexamined; Fermented Beans process without fire, on their own timeline.
-
-The Cultured Kidney Bean's challenge is not becoming so compressed nothing escapes. Intensity isn't containment. They must find a way to let what they carry be felt, not just eventually known.
+The danger is sealing the crock so tight nothing gets out at all. The pressure cures, then keeps curing, and by the time any of it surfaces the moment that needed it has long since cooled — felt, eventually, by no one in time.

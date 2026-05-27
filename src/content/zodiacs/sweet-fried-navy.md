@@ -7,6 +7,11 @@ trait: romantic
 dish: Navy bean beignets — fried dough pillows with a white bean cream filling, dusted generously in powdered sugar.
 quote: My bean leaps up when I behold a rainbow in the sky.
 seasonalFortune: A season for dough that rises twice. The hot oil rewards what is returned to, and the kitchen smells of sugar long after the last batch is lifted out.
+fortuneMost: Write the love letter by hand and mail it before you can revise it. A stamp, a walk to the box, no second thoughts; the first draft is the truer one.
+fortuneHigh: Cook their favourite without telling them why. They'll figure it out at the first bite and that's the whole point.
+fortuneMid: Pick one anniversary nobody else remembers. Mark it. A note, a candle, three minutes of attention.
+fortuneLow: Listen to the actual person across the table. Not your edit of them. Ask one question and believe the answer.
+fortuneLeast: Love the one who exists, not the one you wrote. Burn the draft and meet them where they are.
 facetMostTitle: One Beignet at a Time
 facetMost: You write the long message, send it, write the next one — the page never empties.
 facetHighTitle: Cream Still Warm
@@ -17,15 +22,14 @@ facetLowTitle: Even Batches, None Favoured
 facetLow: You split the bill down the middle, kiss everyone goodbye the same way, and sleep without rehearsing the day.
 facetLeastTitle: Sugar Settling Where It Lands
 facetLeast: You leave the party when you mean to, owe no one a second glance, and the calendar stays clear.
-fortuneMost: Write the love letter by hand and mail it tonight. A stamp, a walk to the box, no second thoughts.
-fortuneHigh: Cook their favourite without telling them why. They'll figure it out at the first bite and that's the whole point.
-fortuneMid: Pick one anniversary nobody else remembers. Mark it. A note, a candle, three minutes of attention.
-fortuneLow: Listen to the actual person across the table. Not your edit of them. Ask one question and believe the answer.
-fortuneLeast: Love the one who exists, not the one you wrote. Burn the draft and meet them where they are.
+question: Three weeks in, the new person asks where this is going. You...
+answerMost: tell them you've already pictured the whole rest of it
+answerHigh: say you're falling for them, mean it, and let it hang
+answerMid: say you like where it is and want to keep finding out
+answerLow: laugh and say it's too early to know
+answerLeast: keep it light and change the subject
 ---
 
-Caramelised Navy Beans are the Bean Zodiac's most romantic — they commit to Beans with absolute loyalty, delivered at full intensity.
+Caramelised Navy Beans are the Bean Zodiac's most romantic — the ones who remember the date you mentioned a coat in a shop window, who write the long letter and walk it to the postbox at midnight, who can make a Tuesday feel like an anniversary of something. They love at full sugar, and the people they love spend years finding crumbs of it tucked into pockets and drawers.
 
-Navy Beans are loyal by nature, staying and sustaining; Sweet Beans open this into something generous and joyful; Fried Beans deliver the feeling at full intensity.
-
-The Caramelised Navy Bean's challenge is the gap between the beloved and the ideal. They must love the actual Bean in front of them, not only the perfect version.
+The version of you they're writing to is often a little brighter than the one in the room. You catch them mid-toast and recognise yourself the way you'd recognise a portrait painted from a good photograph.

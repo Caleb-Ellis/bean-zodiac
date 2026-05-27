@@ -50,7 +50,7 @@ Markdown lives in `src/content/`. The build script (`scripts/build-content.mjs`)
 - **`beans/`** — 12 files (name, tagline, traits[], color, imageFile)
 - **`flavours/`** — 5 files (name, character, traits[], color)
 - **`forms/`** — 6 files: boiled, dried, fermented, fried, roasted, smoked (name, tagline, traits[])
-- **`zodiacs/`** — 360 files, filename `{flavour}-{form}-{bean}.md`, frontmatter: slug, bean, flavour, form, trait, dish, quote, seasonalFortune, facetMid, facetHigh, facetMost, facetLow, facetLeast.
+- **`zodiacs/`** — 360 files, filename `{flavour}-{form}-{bean}.md`, frontmatter: slug, bean, flavour, form, trait, dish, quote, seasonalFortune, facet\*/fortune\* gradient (Most/High/Mid/Low/Least), plus optional `question` + `answerMost/High/Mid/Low/Least` for the question-variant ritual (see `STYLE.md` for body voice, `QUESTIONS.md` for question/answer voice).
 
 ### Pages
 
@@ -77,6 +77,15 @@ Each zodiac has one `seasonalFortune` and five daily fortunes:
 - `facetLeast` — medium expression of the opposite of the trait
 
 The daily fortune selected is influenced by the user's claimed/spirit bean, the current season, and a random daily bean.
+
+#### Ritual variants
+
+The dialog comes in two variants, chosen deterministically (50/50) per day per spirit-bean via `getVariantForSlug(spiritSlug, date)` in `src/lib/fortune.ts`:
+
+- **Facet variant** — user reads the rolled facet text and clicks Accept (+1) or Resist (−1). Quality is rolled.
+- **Question variant** — user reads `question` and picks one of five answers (`answerMost`..`answerLeast`). The answer locks `qualityId` to its tier and counts as Accept (+1). No Ignore/Resist.
+
+The variant downgrades to facet for any zodiac that lacks the optional `question` field, so the question variant rolls out gradually as zodiacs are authored.
 
 ### Quality
 
@@ -116,7 +125,7 @@ All lookups sort IDs alphabetically before joining as key (e.g. `"adzuki-sweet"`
 All persistent state lives in a single Zustand store (`src/store/index.ts`) under the `bean-zodiac` localStorage key.
 
 - **claimed** (`ClaimedBean | null`, shape `{ id: ZodiacId, on: YYYY-MM-DD }`) — the user's claimed zodiac. Set via `setClaimed(id)`.
-- **fortuneHistory** (`FortuneEntry[]`) — daily fortune entries `{ date, zodiacId, qualityId, facetTitle, facetText, score, text, seenAt }`, newest first. `score`: 0 = no vote, +1 = accepted, -1 = resisted. `seenAt` is the ISO timestamp the user dismissed the fortune dialog (drives whether it auto-opens on `/`).
+- **fortuneHistory** (`FortuneEntry[]`) — daily fortune entries `{ date, zodiacId, qualityId, facetTitle, facetText, score, text, seenAt }` plus optional question-variant fields `{ variant, question, answeredQuality, answerText }`, newest first. `score`: 0 = no vote, +1 = accepted, -1 = resisted. On question entries `qualityId` reflects the answered tier and `score` is always +1. `seenAt` is the ISO timestamp the user dismissed the fortune dialog (drives whether it auto-opens on `/`).
 - **metBeans** (`MetBean[]`, shape `{ id: ZodiacId, on: YYYY-MM-DD }`) — encountered zodiacs, newest first.
 - **radarExpanded** (`boolean`) — Beanstalk mobile radar-panel expansion preference.
 
@@ -127,7 +136,7 @@ All persistent state lives in a single Zustand store (`src/store/index.ts`) unde
 **Spirit Bean** — three SVG radar charts (flavour, form, bean) showing affinity scores. Rendered by `SpiritBeanRadar.tsx`. Score computation in `spiritBean.ts`:
 
 - Baseline: all attributes start at 8. Claimed bean's flavour/form/bean each get +4.
-- Each accepted fortune adds +1 to that zodiac's flavour, form, and bean; thumbs-down subtracts 1.
+- Each accepted fortune adds +1 to that zodiac's flavour, form, and bean; thumbs-down subtracts 1. Question-variant answers always count as Accept (+1); the picked tier becomes the day's `qualityId` and drives the magnitude.
 - Heirloom/rotten qualities apply 2× magnitude; stale/rotten negate the adjustment.
 - Charts auto-scale to max value (floor 16).
 

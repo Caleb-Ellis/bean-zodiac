@@ -7,6 +7,11 @@ trait: chaotic
 dish: Chimichangas - deep-fried burritos with spicy pinto beans and ancho chili.
 quote: In the middle of every bean lies opportunity.
 seasonalFortune: A season of spitting oil and half-folded tortillas; the kitchen of this bean runs hot, loud, and rarely in one direction for long.
+fortuneMost: Close five tabs. The sixth one is the only one alive and you've been hiding it from yourself.
+fortuneHigh: Play the old voice note you've been scrolling past. You recorded the answer once and immediately buried it under three new questions.
+fortuneMid: Cook the dish you made last time again, the same way. The version you're improvising into is the original with more chillies and less ground under it.
+fortuneLow: Smile and stall. Whoever wants you to pick a lane is drawing the lanes as they ask.
+fortuneLeast: Crumple the index card. Start three things you can't defend yet; the defending was the part slowing you down.
 facetMostTitle: Ancho Heat in Every Corner
 facetMost: Six tortillas open on the counter, six fillings half-made; you move between them, finishing none, fluent in all.
 facetHighTitle: Oil Claims Whatever It Touches
@@ -17,15 +22,14 @@ facetLowTitle: The Chimichanga, Whole
 facetLow: You finish the thing in front of you before the next pan touches the burner.
 facetLeastTitle: One Pot, One Chili
 facetLeast: The week's plan fits on an index card, and the card does not get rewritten.
-fortuneMost: Close five tabs. The sixth one is the only one alive and you've been hiding it from yourself.
-fortuneHigh: Play yesterday's voice note. You recorded the answer and immediately buried it under three new questions.
-fortuneMid: Send the old draft. The new one is the old one with more anxiety glued on.
-fortuneLow: Smile and stall. Whoever wants you to pick a lane is drawing the lanes as they ask.
-fortuneLeast: Crumple the index card. Start three things you can't defend yet; the defending was the part slowing you down.
+question: A Saturday afternoon opens up, free. You...
+answerMost: start six things at once and see which one survives until evening
+answerHigh: begin the project you've been meaning to, then end up rearranging the kitchen instead
+answerMid: pick two things from a list and bounce between them
+answerLow: choose one thing and finish it
+answerLeast: do the thing already on the calendar for that slot
 ---
 
-Red-Hot Pinto Beans are the Bean Zodiac's most chaotic — their wake is always interesting.
+Red-Hot Pinto Beans are the Bean Zodiac's most chaotic — six tortillas open on the counter, six fillings half-made, and a fluency in all of them that nobody else in the room could keep up with. The wake is a trail of half-folded things, but the energy inside it is real, and the one idea that does survive to evening tends to be better than anyone could have planned.
 
-Pinto Beans generate ideas prolifically without a clear plan; Spicy Beans make each direction arrive with full conviction; Fried Beans execute immediately, before the full picture emerges.
-
-The Red-Hot Pinto Bean's challenge is completion. They must find one thing worth finishing and stay with it long enough to find out what it was.
+The trouble is the forty tabs and the voice note recorded over a voice note. The answer they wrote yesterday is in there somewhere, buried under three new questions they were too excited to wait on.

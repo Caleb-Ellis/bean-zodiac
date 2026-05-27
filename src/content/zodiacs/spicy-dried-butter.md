@@ -7,6 +7,11 @@ trait: volatile
 dish: Gigantes plaki - Greek baked giant beans with dried Calabrian chili and preserved lemon.
 quote: Still waters bean deep.
 seasonalFortune: Chili oil pools at the dish's edge; preserved lemon waits in its salt. Life arrives in long flat hours interrupted without warning by a hot, splitting minute.
+fortuneMost: Move the meeting now. The storm is on your side of the glass.
+fortuneHigh: You'll feel it in your jaw first. Speak before it speaks for you.
+fortuneMid: Name the irritant in the corner. It's running the whole room.
+fortuneLow: Step back half a pace. The pressure was geography.
+fortuneLeast: Leave the kitchen. Let the hour cook without you.
 facetMostTitle: The Clay Pot at Blister
 facetMost: You change the plan at the doorway and let everyone follow the new heat.
 facetHighTitle: Calabrian Flake Mid-Sentence
@@ -17,15 +22,14 @@ facetLowTitle: Covered Pot, Low Heat
 facetLow: Your rooms keep their order — chairs where they sat last week, the lamp angled the same.
 facetLeastTitle: Oil Set Cold
 facetLeast: Notifications stack into the hundreds and the screen draws the same flat glance each time.
-fortuneMost: Move the meeting now. The storm is on your side of the glass.
-fortuneHigh: You'll feel it in your jaw first. Speak before it speaks for you.
-fortuneMid: Name the irritant in the corner. It's running the whole room.
-fortuneLow: Step back half a pace. The pressure was geography.
-fortuneLeast: Leave the kitchen. Let the hour cook without you.
+question: A small irritation has been building all morning — three minor things in a row. The fourth lands at lunch. You...
+answerMost: snap, clearly, at the person nearest, and feel the room recalibrate
+answerHigh: say one short sentence with more edge than you meant and let it sit
+answerMid: keep going, jaw a little tighter, and forget about it by three
+answerLow: notice the heat, name it to yourself, and step outside for a minute
+answerLeast: register nothing at all and wonder later why you slept so badly
 ---
 
-Sichuan Butter Beans are the Bean Zodiac's most volatile — the calm is present, until suddenly it isn't.
+Sichuan Butter Beans are the Bean Zodiac's most volatile — and the last to notice it about themselves. For long flat hours they are the easiest person in the room, settled into a chair, refilling tea, asking the right slow questions. Then a small thing — a misplaced word, the fourth interruption — and the temperature is suddenly everyone's problem, including theirs.
 
-Butter Beans hold warmth and ease as their natural state; Spicy Beans introduce heat that demands full attention; Dried Beans concentrate the reaction, making any shift from rest to intensity immediate and total.
-
-The Sichuan Butter Bean's challenge is the surprise of their own temperature. These Beans rarely see the transition coming. They must learn to sense what's building in time to direct it — rather than discovering it has arrived.
+The mortifying part isn't the flash itself; it's how surprised they are by it, every time, as if this has never happened before.

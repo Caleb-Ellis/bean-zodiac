@@ -7,6 +7,11 @@ trait: circumspect
 dish: Ceci in Zimino - chickpeas with bitter chard.
 quote: Look before you bean.
 seasonalFortune: The dried bean keeps longer than the green leaf, and the circumspect kitchen lives by that arithmetic. Bitter chard waits in cold water; nothing is committed until the broth has spoken.
+fortuneMost: Sleep on it. The decision made before bed is the wrong one.
+fortuneHigh: Don't RSVP yet. A later version of you will have better information; the host can wait a day.
+fortuneMid: You have enough data. Set the deadline for yourself and decide by it.
+fortuneLow: Commit out loud before you're sure. The certainty arrives on the way.
+fortuneLeast: Pick the option you've been circling. Standing at the threshold is the loss.
 facetMostTitle: Three Nights in the Soak
 facetMost: You let a question sit past the point others would call it answered, and the bitterness leaves the chard on your schedule alone.
 facetHighTitle: Rinsed Twice
@@ -17,15 +22,14 @@ facetLowTitle: Dropped in Cold Water
 facetLow: You answer fast and live with the answer; the chard sharpens you, it doesn't slow you.
 facetLeastTitle: Chopped Before It's Washed
 facetLeast: You rearrange the room as the thought arrives, and the kitchen catches up to you.
-fortuneMost: Sleep on it. The decision made before bed is the wrong one.
-fortuneHigh: Don't RSVP today. Tomorrow's version of you has better information.
-fortuneMid: You have enough data. Decide by Thursday.
-fortuneLow: Commit out loud before you're sure. The certainty arrives on the way.
-fortuneLeast: Pick the option you've been circling. Standing at the threshold is the loss.
+question: An invitation arrives for a weekend you're free. The host is a friend of a friend. You...
+answerMost: leave it open and watch what else comes in
+answerHigh: ask who else is going before replying
+answerMid: pencil it in and decide closer to the day
+answerLow: say yes the same evening
+answerLeast: reply yes before finishing the message
 ---
 
-Desiccated Chickpeas are the Bean Zodiac's most circumspect — they move between worlds carefully, committing nothing before the conditions are clear.
+Desiccated Chickpeas are the Bean Zodiac's most circumspect — they read a room before they fully step into it, hang back the first evening to learn who's who, and rarely say a thing they'll later wish they could take back. Give them a decision and they'll find the question under the question; they are almost never the one who got played.
 
-Chickpeas read any room; Bitter Beans demand discernment before reward; Dried Beans ensure nothing is offered before it has been considered.
-
-The Desiccated Chickpea's challenge is paralysis by caution. A Bean that never fully enters the room it is standing in belongs to none of them. These Beans must eventually commit to something more than observation.
+But the soak can outlast the dish. They'll keep weighing an invitation until it expires of its own accord, and call the missed thing a near miss rather than admit they were waiting to be sure of something that was never going to get sure.

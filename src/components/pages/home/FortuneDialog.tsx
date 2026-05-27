@@ -4,6 +4,8 @@ import { getPreparationName } from "../../../lib/zodiac";
 import type { AllZodiacData } from "../../../lib/data";
 import Bean from "../../zodiac/Bean";
 import ZodiacName from "../../zodiac/ZodiacName";
+import FacetVariant from "./FacetVariant";
+import QuestionVariant from "./QuestionVariant";
 import type { DailyFortune } from "./useDailyFortune";
 
 interface Props {
@@ -42,6 +44,19 @@ export default function FortuneDialog({ data, fortune }: Props) {
   const [revealed, setRevealed] = useState(false);
   const [landed, setLanded] = useState(false);
   const tiltRef = useRef<HTMLDivElement | null>(null);
+  const cardContentRef = useRef<HTMLDivElement | null>(null);
+  const [cardHeight, setCardHeight] = useState<number | null>(null);
+
+  useEffect(() => {
+    const el = cardContentRef.current;
+    if (!el) return;
+    const ro = new ResizeObserver(() => {
+      const h = el.offsetHeight;
+      if (h > 0) setCardHeight(h);
+    });
+    ro.observe(el);
+    return () => ro.disconnect();
+  }, []);
 
   useEffect(() => {
     if (!revealed) return;
@@ -79,15 +94,16 @@ export default function FortuneDialog({ data, fortune }: Props) {
     fortuneBeanId,
     fortuneZodiac,
     qualityId,
+    variant,
+    question,
     fortuneTitle,
     fortuneText,
     scored,
     scoredText,
     text,
     scoringOut,
-    showQuality,
-    qualityFading,
     handleScore,
+    handleAnswer,
     handleClose,
   } = fortune;
 
@@ -212,34 +228,46 @@ export default function FortuneDialog({ data, fortune }: Props) {
                       }}
                     />
                   )}
-                  <div className="relative w-full rounded-[calc(1rem-1.5px)] bg-zinc-900 p-4 flex flex-col items-center gap-4">
-                    <div className="flex flex-col items-center gap-4 pt-1">
-                      <p
-                        className="text-sm sm:text-base font-bold uppercase tracking-widest text-zinc-200 text-center text-balance"
-                        style={{
-                          opacity: qualityFading ? 0 : 1,
-                          transition: "opacity 0.4s",
-                        }}
+                  <div
+                    className="relative w-full rounded-[calc(1rem-1.5px)] bg-zinc-900 overflow-hidden"
+                    style={{
+                      height: cardHeight !== null ? `${cardHeight}px` : undefined,
+                      transition:
+                        cardHeight !== null
+                          ? "height 600ms cubic-bezier(0.4, 0, 0.2, 1)"
+                          : undefined,
+                    }}
+                  >
+                  <div
+                    ref={cardContentRef}
+                    className="p-4 flex flex-col items-center gap-4"
+                  >
+                    {scored && (
+                      <div
+                        className="flex flex-col items-center gap-4 pt-1 animate-fade-up"
+                        style={{ animationDuration: "500ms" }}
                       >
-                        <ZodiacName
+                        <p className="text-sm sm:text-base font-bold uppercase tracking-widest text-zinc-200 text-center text-balance">
+                          <ZodiacName
+                            flavourId={fortuneFlavourId}
+                            formId={fortuneFormId}
+                            beanId={fortuneBeanId}
+                            preparation={fortunePreparation}
+                            beanName={fortuneBean.name}
+                            zodiacId={fortuneZodiacId}
+                            qualityId={qualityId}
+                            asLink={false}
+                          />
+                        </p>
+                        <Bean
+                          bean={fortuneBean}
                           flavourId={fortuneFlavourId}
                           formId={fortuneFormId}
-                          beanId={fortuneBeanId}
-                          preparation={fortunePreparation}
-                          beanName={fortuneBean.name}
-                          zodiacId={fortuneZodiacId}
-                          qualityId={showQuality ? qualityId : undefined}
-                          asLink={false}
+                          qualityId={qualityId}
+                          maxHeight="6rem"
                         />
-                      </p>
-                      <Bean
-                        bean={fortuneBean}
-                        flavourId={fortuneFlavourId}
-                        formId={fortuneFormId}
-                        qualityId={showQuality ? qualityId : undefined}
-                        maxHeight="6rem"
-                      />
-                    </div>
+                      </div>
+                    )}
                     {!scored ? (
                       <div
                         className="flex flex-col items-center gap-4 w-full transition-opacity duration-350"
@@ -249,71 +277,30 @@ export default function FortuneDialog({ data, fortune }: Props) {
                             scoringOut || !revealed ? "none" : "auto",
                         }}
                       >
-                        {fortuneTitle ? (
-                          <p
-                            className={`font-bold text-zinc-200 text-center ${landed ? "animate-fade-up" : "opacity-0"}`}
-                            style={
-                              landed
-                                ? {
-                                    animationDelay: "150ms",
-                                    animationDuration: "500ms",
-                                  }
-                                : undefined
-                            }
-                          >
-                            {fortuneTitle}
-                          </p>
+                        {fortuneZodiac && variant === "question" ? (
+                          <QuestionVariant
+                            fortuneZodiac={fortuneZodiac}
+                            question={question}
+                            landed={landed}
+                            handleAnswer={handleAnswer}
+                          />
                         ) : (
-                          <div className="h-3 w-32 bg-zinc-800 rounded-full animate-pulse" />
+                          <FacetVariant
+                            fortuneTitle={fortuneTitle}
+                            fortuneText={fortuneText}
+                            landed={landed}
+                            handleScore={handleScore}
+                          />
                         )}
-                        {fortuneText ? (
-                          <p
-                            className={`text-zinc-200 text-center sm:text-base mb-2 ${landed ? "animate-fade-up" : "opacity-0"}`}
-                            style={
-                              landed
-                                ? {
-                                    animationDelay: "400ms",
-                                    animationDuration: "500ms",
-                                  }
-                                : undefined
-                            }
-                          >
-                            {fortuneText}
-                          </p>
-                        ) : (
-                          <div className="h-5 w-56 bg-zinc-800 rounded-full animate-pulse" />
-                        )}
-                        <div
-                          className={`flex flex-wrap justify-center gap-4 text-sm ${landed ? "animate-fade-up" : "opacity-0"}`}
-                          style={
-                            landed
-                              ? {
-                                  animationDelay: "700ms",
-                                  animationDuration: "500ms",
-                                }
-                              : undefined
-                          }
-                        >
-                          <button
-                            onClick={() => handleScore(1)}
-                            className="flex items-center gap-2 px-3 py-1 rounded-full border border-green-700 text-green-300 hover:bg-[#042012] hover:border-green-600 transition-colors cursor-pointer bg-transparent"
-                          >
-                            <span>🌱</span>
-                            <span>Accept</span>
-                          </button>
-                          <button
-                            onClick={() => handleScore(-1)}
-                            className="flex items-center gap-2 px-3 py-1 rounded-full border border-amber-700 text-amber-300 hover:bg-[#261503] hover:border-amber-600 transition-colors cursor-pointer bg-transparent"
-                          >
-                            <span>🍂</span>
-                            <span>Resist</span>
-                          </button>
-                        </div>
                       </div>
                     ) : (
                       <div
                         key={scoredText}
                         className="flex flex-col items-center gap-4 animate-fade-up"
+                        style={{
+                          animationDelay: "200ms",
+                          animationDuration: "500ms",
+                        }}
                       >
                         {scoredText && (
                           <p className="text-zinc-300 text-sm sm:text-base text-center">
@@ -342,6 +329,7 @@ export default function FortuneDialog({ data, fortune }: Props) {
                         </div>
                       </div>
                     )}
+                  </div>
                   </div>
                 </div>
                 <div

@@ -7,6 +7,11 @@ trait: compulsive
 dish: Gỏi đậu xanh - Vietnamese mung bean salad with fermented fish sauce and bird's eye chili.
 quote: The chains of bean are too light to be felt until they are too heavy to be broken.
 seasonalFortune: A jar left sealed still works in the dark. The season grooves itself into small returns; brine deepens by repetition, and what gets stirred most often sets the tongue.
+fortuneMost: Catch the half-second between urge and hand and drink a glass of water in it. Just once is the whole assignment; the gap is what was missing, not a streak.
+fortuneHigh: On the third check of that thread in an hour, put the phone in the freezer for an hour. Petty, effective.
+fortuneMid: The afternoon craving will come on schedule. Answer the smaller hunger underneath it — the one you keep skipping past on the way to the loud one.
+fortuneLow: The old loop went quiet by itself. Don't poke at it to make sure it's still there.
+fortuneLeast: A friend is running the same lap in full view, hoping you'll say it. Say it.
 facetMostTitle: The Chili Between Molars
 facetMost: You name the loop out loud, schedule it, and still walk the same lap of the kitchen at the same hour.
 facetHighTitle: Fish Sauce Before the Lid
@@ -17,15 +22,14 @@ facetLowTitle: Herbs Dropped in Whole
 facetLow: You forget where you left the tab open, and the want passes before you remember to feed it.
 facetLeastTitle: The Rind Tossed Without Ceremony
 facetLeast: A craving arrives, gets answered or doesn't, and leaves no groove behind.
-fortuneMost: Catch the half-second between urge and hand and drink a glass of water in it. Today, just the once.
-fortuneHigh: On the third check of that thread before noon, put the phone in the freezer for an hour. Petty, effective.
-fortuneMid: The 4pm craving will come on schedule. Answer the smaller hunger underneath it — the one you keep skipping.
-fortuneLow: The old loop went quiet by itself. Don't poke at it to make sure it's still there.
-fortuneLeast: A friend is running the same lap in full view, hoping you'll say it. Say it.
+question: You've already checked that one thread three times this hour. The urge to check again has arrived right on time. You...
+answerMost: check it, then check the other two while you're there
+answerHigh: check it once more, briefly, and put the phone down
+answerMid: notice the urge and decide in the moment
+answerLow: leave it for the next break, whenever that lands
+answerLeast: shrug, lock the phone, and forget about it
 ---
 
-Kimchi Mung Beans are the Bean Zodiac's most compulsive — they return to certain things with a regularity that puzzles them.
+Kimchi Mung Beans are the Bean Zodiac's most compulsive — the ones who reach for the phone mid-sentence and finish the sentence later, if at all. They've named the loop, written it on a post-it, scheduled a different thing in its slot, and still walked the same lap of the kitchen at the same hour. The pull is real, and oddly tender; it's the thing they tend most reliably in their lives.
 
-Mung Beans have a deep pull toward what they tend; Spicy Beans make that pull urgent and hard to argue with; Fermented Beans turn it inward, where the loop runs privately and unobserved.
-
-The Kimchi Mung Bean's challenge is interruption. They must find the gap between urge and return, and do something different in it.
+The pity is how much of themselves the loop quietly eats. Hours go in, and at the end of them the thread they checked four times has told them nothing new, and the actual thing they meant to do is still waiting.

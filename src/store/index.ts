@@ -1,6 +1,7 @@
 import { create } from "zustand";
 import { persist } from "zustand/middleware";
 import type { QualityId, ZodiacId } from "../lib/zodiac";
+import type { RitualVariant } from "../lib/fortune";
 
 export type FortuneEntry = {
   date: string;
@@ -11,6 +12,10 @@ export type FortuneEntry = {
   score: number; // 0 = no vote, +1 = accepted, -1 = resisted
   text: string | null;
   seenAt: string | null; // ISO timestamp the user dismissed the fortune dialog
+  variant?: RitualVariant; // undefined ↔ legacy facet entry
+  question?: string | null; // snapshot, question variant only
+  answeredQuality?: QualityId | null; // tier the user picked, question variant only
+  answerText?: string | null; // snapshot, question variant only
 };
 
 export type ClaimedBean = {
@@ -33,11 +38,7 @@ type State = {
   addFortuneEntry: (
     entry: Omit<FortuneEntry, "seenAt"> & { seenAt?: string | null },
   ) => void;
-  updateFortuneScore: (
-    date: string,
-    score: number,
-    text?: string | null,
-  ) => void;
+  updateFortuneEntry: (date: string, patch: Partial<FortuneEntry>) => void;
   markFortuneSeen: (date: string) => void;
   addMetBean: (id: ZodiacId) => void;
   setRadarExpanded: (expanded: boolean) => void;
@@ -68,10 +69,10 @@ export const useStore = create<State>()(
         });
       },
 
-      updateFortuneScore: (date, score, text = null) =>
+      updateFortuneEntry: (date, patch) =>
         set((s) => ({
           fortuneHistory: s.fortuneHistory.map((e) =>
-            e.date === date ? { ...e, score, text } : e,
+            e.date === date ? { ...e, ...patch } : e,
           ),
         })),
 

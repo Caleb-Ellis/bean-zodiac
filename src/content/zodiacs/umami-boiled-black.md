@@ -7,6 +7,11 @@ trait: patient
 dish: Kongjorim - black soybeans slow-braised in soy, ginger, and sesame.
 quote: Patience is bitter, but its bean is sweet.
 seasonalFortune: Months of low fire darken what was hard and dull. The season belongs to those who can stand by a long braise without lifting the lid.
+fortuneMost: Put a timer on the thing and refuse to touch it until it rings. Two hours minimum. The braise knows.
+fortuneHigh: When asked for an update, say "not yet" and mean it. Don't decorate the no.
+fortuneMid: Reopen the document you abandoned months ago. Read it once, change nothing, close it. Sleep on it; the next morning you'll know.
+fortuneLow: Close the tab you've refreshed eleven times. Go pour something to drink. The number on the screen has not earned your morning, or your afternoon.
+fortuneLeast: Patience has gone sour into stalling. Pick the smallest piece and ship it before the week is out, unfinished.
 facetMostTitle: The Slow Braise
 facetMost: A draft sits covered for weeks; you return to it only when the dark has done its work.
 facetHighTitle: Sesame, Unglossed
@@ -17,15 +22,14 @@ facetLowTitle: Three Minutes, Then Taste
 facetLow: You check before the braise has set, serve before the flavour has learned itself.
 facetLeastTitle: The Kettle Reboiled
 facetLeast: Forty open tabs, each one nudged every hour; nothing is given time to matter.
-fortuneMost: Put a timer on the thing and refuse to touch it until it rings. Two hours minimum. The braise knows.
-fortuneHigh: When asked for an update, say "not yet" and mean it. Don't decorate the no.
-fortuneMid: Reopen the document you abandoned in February. Read it once, change nothing, close it. Tomorrow you'll know.
-fortuneLow: Close the tab you've refreshed eleven times today. Go pour something to drink. The number on the screen has not earned your morning.
-fortuneLeast: Patience has gone sour into stalling. Pick the smallest piece and ship it Friday, unfinished.
+question: A group chat is waiting on your decision and the messages keep arriving. You...
+answerMost: leave it until the morning, when you'll know what you actually think
+answerHigh: tell them you're thinking and you'll come back by tonight
+answerMid: skim the thread, weigh it for a minute, then reply
+answerLow: type something reasonable now and hope it holds up
+answerLeast: send the first instinct and let the chat sort it out
 ---
 
-Dashi Black Beans are the Bean Zodiac's most patient — they believe in the value of time.
+Dashi Black Beans are the Bean Zodiac's most patient — they will outlast the question. The decision sits covered for a week and they don't lift the lid; the apology gets drafted in March and sent in May, by which point it has cooked down to exactly what it means. They are wonderful in a long crisis and unreadable in a short one, because the same stillness that lets a braise deepen also looks, from across the room, like nothing happening.
 
-Black Beans give nothing up quickly; Umami Beans reward slowness with depth that cannot be rushed; Boiled Beans hold everything at a pace that allows meaning to surface.
-
-The Dashi Black Bean's challenge is visibility. They must show that their patience is not indifference but the precise attention the moment requires.
+The shadow is that other people are waiting. While the verdict steeps, the group chat keeps refreshing, and patience, left too long in the pot, turns from depth into a quiet form of stalling.

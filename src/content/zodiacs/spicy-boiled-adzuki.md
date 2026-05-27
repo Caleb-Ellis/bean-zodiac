@@ -7,6 +7,11 @@ trait: spirited
 dish: Adzuki bean congee with gochugaru and soft-boiled egg.
 quote: You've gotta have bean.
 seasonalFortune: A season of slow simmer under bright pepper. The adzuki holds its color through long heat, and the year asks the same of those who carry it.
+fortuneMost: Show up at full volume — the event you keep underdressing for is the next one on the calendar, hiding inside an ordinary slot.
+fortuneHigh: Pour the good thing into the everyday glass. You've been saving it for a milestone that won't come.
+fortuneMid: Put the song you love on twice in a row. The second play is the one that does the work.
+fortuneLow: Toast something small at dinner — the haircut, the unremarkable weekday, the fact you got there. Out loud, glass raised.
+fortuneLeast: Light one candle for the thing you finished and didn't tell anyone about. It counted.
 facetMostTitle: Gochugaru at the Bloom
 facetMost: You walk into the room and it reorders; nobody is unsure you've arrived.
 facetHighTitle: The Pot Before the Recipe
@@ -17,15 +22,14 @@ facetLowTitle: The Egg, Left Whole
 facetLow: Messages pile; you answer the one that matters and let the rest steep.
 facetLeastTitle: The Jar Kept Closed
 facetLeast: A room you keep is a low fire — lamp, blanket, one chair pulled close. The gochugaru stays in the jar.
-fortuneMost: Show up at full volume tonight — the event you keep underdressing for is this one.
-fortuneHigh: Pour the good thing into the everyday glass. You've been saving it for a Tuesday that won't come.
-fortuneMid: Put the song you love on twice in a row. The second play is the one that does the work.
-fortuneLow: Toast something small at dinner — the haircut, the Tuesday, the fact you got there. Out loud.
-fortuneLeast: Light one candle for the thing you finished and didn't tell anyone about. It counted.
+question: Mid-morning at the playground with a friend's kid, and they nail the monkey bars for the first time, looking straight at you. You...
+answerMost: cheer loud enough that two other parents look over and applaud
+answerHigh: throw both hands up and shout their name across the gravel
+answerMid: clap and grin and call out a "yes"
+answerLow: smile back warmly and give them a thumbs up
+answerLeast: nod once and let the moment be theirs
 ---
 
-Braised Adzuki Beans are the Bean Zodiac's most spirited — heat banked through patience makes the fire last.
+Braised Adzuki Beans are the Bean Zodiac's most spirited — the kind whose arrival rearranges a room before they've sat down. They run hot for the people they love, give the toast nobody asked for, put the song on twice; an ordinary Tuesday with one of them in it stops feeling ordinary.
 
-Adzuki Beans know when a moment deserves full expenditure; Spicy Beans demand complete, immediate attention; Boiled Beans slow the release and turn it into sustained warmth.
-
-The Braised Adzuki Bean's challenge is pacing. They must learn that banking the heat for the right occasion makes it mean more.
+The trouble is they spend the same heat on everything. By the time the occasion that actually deserved the full volume comes around, they've already given it to a Wednesday lunch, and the moment that wanted them at full burn gets them a little dimmed.

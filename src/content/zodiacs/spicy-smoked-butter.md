@@ -7,6 +7,11 @@ trait: hushed
 dish: Southern succotash - smoked butter beans with corn, jalapeño, and smoked bacon.
 quote: Speak softly and carry a big bean.
 seasonalFortune: A season spent over low coals. The room fills with smoke hours before anyone notices the pot has been on since morning.
+fortuneMost: Drop the quiet thing at the start, not the end. Let it sit on the table while you pour the drinks — by dessert it'll have done its work.
+fortuneHigh: Send the one-line text you've been polishing for three days. The shorter version was always the hotter one.
+fortuneMid: When asked how you are, skip "fine." Pick the smallest true word and watch the table lean in.
+fortuneLow: The lid has been on so long the pressure forgot what it wanted. Lift it now — even a wobble counts as venting.
+fortuneLeast: Bang a pot. Honestly, literally — slam a cabinet, sing in the car. The temperature you're hiding wants out, and subtle isn't on the menu.
 facetMostTitle: Low Coals, Loud Table
 facetMost: You answer when asked and let the jalapeño carry whatever heat the room came looking for.
 facetHighTitle: The Smoldering Reply
@@ -17,15 +22,14 @@ facetLowTitle: Every Chopped Pepper
 facetLow: You narrate the bacon — every minute on the coals, recounted before the butter beans have left the pan.
 facetLeastTitle: Bacon Hitting Cast Iron
 facetLeast: You arrive pop, smoke, every head turning, and no question of who walked in.
-fortuneMost: Drop the quiet thing at the start, not the end. Let it sit on the table while you pour the drinks — by dessert it'll have done its work.
-fortuneHigh: Send the one-line text you've been polishing for three days. The shorter version was always the hotter one.
-fortuneMid: When asked how you are, skip "fine." Pick the smallest true word and watch the table lean in.
-fortuneLow: The lid has been on so long the pressure forgot what it wanted. Lift it now — even a wobble counts as venting.
-fortuneLeast: Bang a pot. Honestly, literally — slam a cabinet, sing in the car. The temperature you're hiding wants out, and subtle isn't on the menu.
+question: The smoke alarm goes off mid-dinner, false, and everyone is on their feet. You...
+answerMost: open one window without standing up, and keep eating
+answerHigh: walk over, fan it once with a tea towel, sit back down
+answerMid: get up, silence it, return with the next course
+answerLow: announce it's nothing and wave both arms at the ceiling
+answerLeast: get the chair, the broom, and a running commentary on what's wrong with the alarm
 ---
 
-Chipotle Butter Beans are the Bean Zodiac's most hushed — the calm is present, and underneath it something is running at considerable heat.
+Chipotle Butter Beans are the Bean Zodiac's most hushed — and the least likely to flinch when the room loses its head. They take the bad news without changing posture, ask one quiet question, and the panic in the room drops half an octave. Friends in crisis call them first, then call them back to apologise for the length of the first call.
 
-Butter Beans lower the temperature of any room they enter; Spicy Beans insist on intensity regardless of the surroundings; Smoked Beans let the combination produce a stillness that is clearly doing something.
-
-The Chipotle Butter Bean's challenge is disclosure. Hushed is not the same as resolved. What is beneath must eventually surface — a calm that never breaks is just pressure accumulating.
+What the calm doesn't reveal is the running tally inside. Slights filed, schedules silently rearranged, a small ledger of every time they kept the peace at their own expense — kept until, months later, it comes out all at once over something the other person can't even remember doing.

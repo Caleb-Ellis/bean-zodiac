@@ -7,6 +7,11 @@ trait: detail-oriented
 dish: Pinto bean caldo with epazote and tomatillo.
 quote: The bean is in the details.
 seasonalFortune: A pot kept long on low heat surrenders nothing the cook has not noticed. The season runs slow; small spots and split skins betray the lot, and the kitchen smells of epazote held in for hours.
+fortuneMost: Flag the misaligned figure on page two before approving the deck. The room will pretend not to care; the people who matter will notice you did.
+fortuneHigh: Stand at the far wall and look at the whole thing once. From here, the comma you've been fixing is not the problem; the headline is.
+fortuneMid: Audit the small recurring charge nobody has questioned. The rattle in the corner is usually where the money lives.
+fortuneLow: Ship the version with the imperfect kerning. The audience reads the sentence; only you read the letters.
+fortuneLeast: Sign the form without rereading it. The cost of one missed detail is, just this once, less than the cost of being the person who can't sign forms.
 facetMostTitle: The Curling Tomatillo Skin
 facetMost: You read the receipt before you put the wallet away; the cashier waits; the error is on line four.
 facetHighTitle: Epazote, Counted in
@@ -17,15 +22,14 @@ facetLowTitle: The Forgotten Salt
 facetLow: Things get done; the seams show; nobody minds.
 facetLeastTitle: Stones and All
 facetLeast: You sign without reading. The shelf goes up crooked and holds the books for years.
-fortuneMost: Flag the misaligned figure on page two before approving the deck. The room will pretend not to care; the people who matter will notice you did.
-fortuneHigh: Stand at the far wall and look at the whole thing once. From here, the comma you've been fixing is not the problem; the headline is.
-fortuneMid: Audit the small recurring charge nobody has questioned. The rattle in the corner is usually where the money lives.
-fortuneLow: Ship the version with the imperfect kerning. The audience reads the sentence; only you read the letters.
-fortuneLeast: Sign the form without rereading. Today, the cost of one missed detail is less than the cost of being the person who can't sign forms.
+question: A colleague hands you a slide deck and asks for a quick look before it goes out. You...
+answerMost: read every slide, footnote, and figure number
+answerHigh: catch the three things you know will be wrong
+answerMid: skim it and flag whatever jumps out
+answerLow: glance at the first and last slides
+answerLeast: tell them it looks great and hand it back
 ---
 
-Infused Pinto Beans are the Bean Zodiac's most detail-oriented — they notice what others skip, finding errors most miss.
+Infused Pinto Beans are the Bean Zodiac's most detail-oriented — the one who hears the rattle in the engine everyone else stopped noticing, who finds the error on line four while the cashier waits. Nothing slips past them, and the work that passes through their hands is clean in the small places most people never check. When it matters that a thing be exactly right, they're who you want holding it.
 
-Pinto Bean's specificity rewards close looking; Bitter Beans keep only what genuinely earns its place; Boiled Beans steep everything slowly, leaving nothing unexamined.
-
-The Infused Pinto Bean's challenge is distance. A detail-oriented eye can lose the far view. They must occasionally step back from brushwork to see the whole canvas.
+That same close eye, fixed on the comma, will occasionally fail to mention that the headline above it is the actual problem.

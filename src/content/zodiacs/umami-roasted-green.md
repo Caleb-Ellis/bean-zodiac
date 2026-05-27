@@ -7,6 +7,11 @@ trait: curious
 dish: Roasted green beans with katsuobushi, ponzu, and sesame.
 quote: Curiosity is the bean, always leading to new discoveries.
 seasonalFortune: A season of ponzu's slow seep — surfaces shine, and underneath the brine works its long question into the bean.
+fortuneMost: Read the footnote before the headline. The footnote is where someone smarter than the headline is hiding.
+fortuneHigh: Ask the second question — the one past polite. They've been waiting for someone to ask it for years.
+fortuneMid: Open a cookbook you don't know and make the third recipe in. The first is for browsers.
+fortuneLow: Make the dish you already know. Foraging for a new one at 6pm is how you end up eating cereal.
+fortuneLeast: Leave the lid on. Some pots cook better when nobody is asking after them.
 facetMostTitle: The Lifted Katsuobushi
 facetMost: You follow a question past its useful end, and finish the page with new questions pinned to the margin.
 facetHighTitle: Sesame Across the Plate
@@ -17,15 +22,14 @@ facetLowTitle: Ponzu, Same Small Bowl
 facetLow: You cook what you already trust; the known dish feeds you, and the new cookbook stays shut.
 facetLeastTitle: The Plate, Set Down
 facetLeast: Rooms keep their corners; you don't lift the lid to see what the steam is doing, and the house holds.
-fortuneMost: Read the footnote before the headline. The footnote is where someone smarter than the headline is hiding.
-fortuneHigh: Ask the second question — the one past polite. They've been waiting for someone to ask it for years.
-fortuneMid: Open a cookbook you don't know and make the third recipe in. The first is for browsers.
-fortuneLow: Make the dish you already know. Foraging for a new one at 6pm is how you end up eating cereal.
-fortuneLeast: Pick one tab. Close the other six. The choosing is the discovery — the tabs were a stalling tactic.
+question: You sit down to send one short email and notice a word in it you've never quite looked up. You...
+answerMost: spend an hour on the etymology and forget about the email
+answerHigh: read the first three results, then come back to the email
+answerMid: skim a definition, send the email, keep the tab open
+answerLow: send the email, vaguely intend to look it up later
+answerLeast: send the email, the word never crosses your mind again
 ---
 
-Rendered Green Beans are the Bean Zodiac's most curious — their interest is warm, wide, and without agenda.
+Rendered Green Beans are the Bean Zodiac's most curious — and warmly so, without the collecting energy that curiosity sometimes has. They ask the second question, the one past polite, and the stranger across from them lights up at having been asked it. They read the footnote before the headline because that's where someone interesting is usually hiding.
 
-Green Beans notice everything and keep moving; Umami Beans accumulate noticing into depth; Roasted Beans turn curiosity outward with generosity.
-
-The Rendered Green Bean's challenge is focus. They must choose what is most worth understanding, as not everything can be next.
+The shadow is the seven open tabs at midnight, none of them the thing they sat down to do. By the time they choose which question to actually answer, the day is over.

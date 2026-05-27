@@ -16,7 +16,6 @@ import FlavourBadge from "../../zodiac/FlavourBadge";
 import FormBadge from "../../zodiac/FormBadge";
 import ZodiacName from "../../zodiac/ZodiacName";
 import Divider from "../../ui/Divider";
-import FortuneScoreBadge from "../../zodiac/FortuneScoreBadge";
 
 interface Props {
   data: AllZodiacData;
@@ -133,10 +132,6 @@ export default function ClaimedHomeContent({
                         qualityId={qualityId}
                       />
                     </p>
-                    {todayEntry?.score !== undefined &&
-                      todayEntry.score !== 0 && (
-                        <FortuneScoreBadge score={todayEntry.score} size="sm" />
-                      )}
                   </div>
                   {text ? (
                     <p className="italic text-zinc-200 sm:text-lg text-center sm:text-left">

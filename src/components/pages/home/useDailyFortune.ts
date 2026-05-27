@@ -3,6 +3,7 @@ import {
   type FlavourId,
   type FormId,
   type BeanId,
+  type QualityId,
   type Zodiac,
   type ZodiacId,
 } from "../../../lib/zodiac";
@@ -11,6 +12,10 @@ import {
   getDailyText,
   getFacetTitle,
   getFortuneText,
+  getVariantForSlug,
+  getAnswerText,
+  hasQuestion,
+  type RitualVariant,
 } from "../../../lib/fortune";
 import { fetchZodiac } from "../../../lib/data";
 import {
@@ -26,7 +31,7 @@ function formatLocalDate(date: Date): string {
 function buildScoredText(
   trait: string,
   score: number,
-  qualityId: ReturnType<typeof getDailyFortuneIds>["qualityId"],
+  qualityId: QualityId,
 ): string {
   const pick = <T>(arr: T[]) => arr[Math.floor(Math.random() * arr.length)]!;
   const phrase =
@@ -37,8 +42,8 @@ function buildScoredText(
         : qualityId === "garden"
           ? `the ${trait} bean`
           : qualityId === "stale"
-            ? `the formerly ${trait} bean`
-            : `the not-at-all ${trait} bean`;
+            ? `the not-so ${trait} bean`
+            : `the not-even-remotely ${trait} bean`;
   const Phrase = phrase.charAt(0).toUpperCase() + phrase.slice(1);
   if (score === 0) {
     return pick([
@@ -70,21 +75,20 @@ export interface DailyFortune {
   fortuneFormId: FormId;
   fortuneBeanId: BeanId;
   fortuneZodiac: Zodiac | null;
-  qualityId: ReturnType<typeof getDailyFortuneIds>["qualityId"];
+  qualityId: QualityId;
+  variant: RitualVariant;
+  question: string | null;
   fortuneTitle: string | null;
   fortuneText: string | null;
+  answerText: string | null;
   score: number;
   scored: boolean;
   scoredText: string | null;
   text: string | null;
   dialogOpen: boolean;
-  revealed: boolean;
-  revealing: boolean;
   scoringOut: boolean;
-  showQuality: boolean;
-  qualityFading: boolean;
-  handleReveal: () => void;
   handleScore: (v: number) => void;
+  handleAnswer: (q: QualityId) => void;
   handleIgnore: () => void;
   handleClose: () => void;
 }
@@ -102,10 +106,8 @@ export function useDailyFortune(
     formatLocalDate(yesterday),
   );
   const spiritSlug = getSpiritZodiacId(spiritScores);
-  const { zodiacId: fortuneZodiacId, qualityId } = getDailyFortuneIds(
-    date,
-    spiritSlug,
-  );
+  const { zodiacId: fortuneZodiacId, qualityId: rolledQualityId } =
+    getDailyFortuneIds(date, spiritSlug);
   const [fortuneFlavourId, fortuneFormId, fortuneBeanId] =
     fortuneZodiacId.split("-") as [FlavourId, FormId, BeanId];
 
@@ -114,33 +116,54 @@ export function useDailyFortune(
     .fortuneHistory.find((e) => e.date === localDateStr);
   const initialScore = initialEntry?.score ?? 0;
   const initiallyScored = initialScore !== 0;
+  // For question entries the answered tier overrides the rolled tier.
+  const initialQualityId: QualityId =
+    initialEntry?.variant === "question" && initialEntry.answeredQuality
+      ? initialEntry.answeredQuality
+      : rolledQualityId;
+  const initialVariant: RitualVariant =
+    initialEntry?.variant ?? getVariantForSlug(spiritSlug, date);
 
   const [fortuneZodiac, setFortuneZodiac] = useState<Zodiac | null>(null);
   const [score, setScore] = useState(initialScore);
   const [scored, setScored] = useState(initiallyScored);
+  const [qualityId, setQualityId] = useState<QualityId>(initialQualityId);
+  const [variant, setVariant] = useState<RitualVariant>(initialVariant);
   const [dialogOpen, setDialogOpen] = useState(() => !initialEntry?.seenAt);
-  const [revealed, setRevealed] = useState(false);
-  const [revealing, setRevealing] = useState(false);
   const [scoringOut, setScoringOut] = useState(false);
-  const [showQuality, setShowQuality] = useState(initiallyScored);
-  const [qualityFading, setQualityFading] = useState(false);
   const [scoredText, setScoredText] = useState<string | null>(null);
   const [text, setText] = useState<string | null>(initialEntry?.text ?? null);
+  const [answerText, setAnswerText] = useState<string | null>(
+    initialEntry?.answerText ?? null,
+  );
 
   useEffect(() => {
     fetchZodiac(fortuneZodiacId).then((fortune) => {
       setFortuneZodiac(fortune);
+
+      // Downgrade question variant to facet when this zodiac has no authored
+      // question. Locks in once persisted on the entry.
+      const effectiveVariant: RitualVariant =
+        initialVariant === "question" && !hasQuestion(fortune)
+          ? "facet"
+          : initialVariant;
+      if (effectiveVariant !== variant) setVariant(effectiveVariant);
+
       if (initiallyScored) {
         setScoredText(buildScoredText(fortune.trait, initialScore, qualityId));
       }
       useStore.getState().addFortuneEntry({
         date: localDateStr,
         zodiacId: fortuneZodiacId,
-        qualityId,
-        facetTitle: getFacetTitle(fortune, qualityId),
-        facetText: getFortuneText(fortune, qualityId),
+        qualityId: rolledQualityId,
+        facetTitle: getFacetTitle(fortune, rolledQualityId),
+        facetText: getFortuneText(fortune, rolledQualityId),
         score: 0,
         text: null,
+        variant: effectiveVariant,
+        question: effectiveVariant === "question" ? fortune.question : null,
+        answeredQuality: null,
+        answerText: null,
       });
     });
   }, [fortuneZodiacId]);
@@ -161,23 +184,6 @@ export function useDailyFortune(
     useStore.getState().markFortuneSeen(localDateStr);
   };
 
-  const applyQuality = () => {
-    if (qualityId === "garden") {
-      setShowQuality(true);
-      return;
-    }
-    setQualityFading(true);
-    setTimeout(() => {
-      setShowQuality(true);
-      setQualityFading(false);
-    }, 400);
-  };
-
-  const handleReveal = () => {
-    setRevealing(true);
-    setTimeout(() => setRevealed(true), 350);
-  };
-
   const handleScore = (v: number) => {
     setScoringOut(true);
     setTimeout(() => {
@@ -187,18 +193,43 @@ export function useDailyFortune(
         : null;
       useStore
         .getState()
-        .updateFortuneScore(localDateStr, newScore, newDailyText);
+        .updateFortuneEntry(localDateStr, {
+          score: newScore,
+          text: newDailyText,
+        });
       setScore(newScore);
       setScored(true);
       setText(newDailyText);
       if (fortuneZodiac) {
-        setScoredText(
-          buildScoredText(fortuneZodiac.trait, newScore, qualityId),
-        );
+        setScoredText(buildScoredText(fortuneZodiac.trait, newScore, qualityId));
       }
       markSeen();
-      applyQuality();
-    }, 350);
+      setScoringOut(false);
+    }, 700);
+  };
+
+  const handleAnswer = (answerQuality: QualityId) => {
+    if (!fortuneZodiac) return;
+    setScoringOut(true);
+    setTimeout(() => {
+      const newDailyText = getDailyText(fortuneZodiac, answerQuality, 1);
+      const newAnswerText = getAnswerText(fortuneZodiac, answerQuality) ?? null;
+      useStore.getState().updateFortuneEntry(localDateStr, {
+        qualityId: answerQuality,
+        score: 1,
+        text: newDailyText,
+        answeredQuality: answerQuality,
+        answerText: newAnswerText,
+      });
+      setQualityId(answerQuality);
+      setScore(1);
+      setScored(true);
+      setText(newDailyText);
+      setAnswerText(newAnswerText);
+      setScoredText(buildScoredText(fortuneZodiac.trait, 1, answerQuality));
+      markSeen();
+      setScoringOut(false);
+    }, 700);
   };
 
   const handleIgnore = () => {
@@ -209,12 +240,12 @@ export function useDailyFortune(
         setScoredText(buildScoredText(fortuneZodiac.trait, 0, qualityId));
       }
       markSeen();
-      applyQuality();
-    }, 350);
+      setScoringOut(false);
+    }, 700);
   };
 
   const handleClose = () => {
-    if (revealed) markSeen();
+    markSeen();
     setDialogOpen(false);
   };
 
@@ -224,6 +255,10 @@ export function useDailyFortune(
   const fortuneText = fortuneZodiac
     ? getFortuneText(fortuneZodiac, qualityId)
     : null;
+  const question =
+    variant === "question" && fortuneZodiac?.question
+      ? fortuneZodiac.question
+      : null;
 
   return {
     fortuneZodiacId,
@@ -232,20 +267,19 @@ export function useDailyFortune(
     fortuneBeanId,
     fortuneZodiac,
     qualityId,
+    variant,
+    question,
     fortuneTitle,
     fortuneText,
+    answerText,
     score,
     scored,
     scoredText,
     text,
     dialogOpen,
-    revealed,
-    revealing,
     scoringOut,
-    showQuality,
-    qualityFading,
-    handleReveal,
     handleScore,
+    handleAnswer,
     handleIgnore,
     handleClose,
   };

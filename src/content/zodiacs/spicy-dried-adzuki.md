@@ -7,25 +7,29 @@ trait: catalytic
 dish: Dry-fried adzuki with Sichuan peppercorn and dried chili threads.
 quote: Set the world on bean.
 seasonalFortune: A season cured down to its hottest atoms; the year hangs in the rafters, drying patient, until one stray brush against the wall sets every room moving at once.
+fortuneMost: Pick the kitchen you want loud. Walk in first. Don't explain.
+fortuneHigh: Send the invite before lunch. Three people are waiting to be told.
+fortuneMid: Make the call. The line you keep cutting is the one that moves it.
+fortuneLow: Someone hands you a match late in the day. Hand it back; the fire it would start is one you'd be tending at midnight.
+fortuneLeast: Stay out of it. The fire lights without you this time, and your nudge would only crowd it.
 facetMostTitle: Peppercorn Under the Tongue
 facetMost: You enter a quiet room and within a minute three people have stood up to do the thing they had been putting off.
 facetHighTitle: Dried Chili Threads
-facetHigh: Your text arrives at noon and by evening the group chat has booked the flights, the table, the dog-sitter.
+facetHigh: You say the date out loud at lunch and by sundown the flights are booked, the table held, the dog-sitter standing in someone's hallway.
 facetMidTitle: Oil on Dry Skin
-facetMid: You ask one ordinary question in the meeting and the rest of the hour rearranges around the answer.
+facetMid: You ask one ordinary question at the dinner and the rest of the evening rearranges around the answer the table did not know it had been waiting for.
 facetLowTitle: The Pan Smokes
 facetLow: You watch a friend's idea catch the whole table and feel relief that the heat is not yours to carry.
 facetLeastTitle: The Sealed Jar
 facetLeast: You keep the good news under your tongue for weeks, telling no one, content to let the season move without you nudging it.
-fortuneMost: Pick the kitchen you want loud. Walk in first. Don't explain.
-fortuneHigh: Send the invite before lunch. Three people are waiting to be told.
-fortuneMid: Make the call. The line you keep cutting is the one that moves it.
-fortuneLow: Someone hands you a match at 4pm. Hand it back.
-fortuneLeast: Stay out of it. The fire lights without you today.
+question: A group text has gone quiet for three days around a plan everyone half-wants. You...
+answerMost: send "booking it for Friday, opting out is fine" with the link attached
+answerHigh: drop one nudge that names the date and watch the yeses tumble in
+answerMid: ask if anyone's still keen and wait to see who replies first
+answerLow: assume it died and let the thread keep drifting
+answerLeast: stay quiet and feel grateful nobody made you decide
 ---
 
-Sichuan Adzuki Beans are the Bean Zodiac's most catalytic — the joy has been concentrated into something that starts reactions in others without necessarily being spent in the process.
+Sichuan Adzuki Beans are the Bean Zodiac's most catalytic — they walk into a stalled room and within a minute someone is finally booking the thing. They don't argue, don't rally; they just say the one sentence the group has been circling, and the circling stops. Friends learn to bring them the half-formed plan that's been sitting in a draft for a week, because a Sichuan Adzuki will read it once and reply with a date.
 
-Adzuki Beans know how to mark a moment; Spicy Beans make the effect immediate and impossible to ignore; Dried Beans concentrate it until even small contact is enough to set something moving.
-
-The Sichuan Adzuki Bean's challenge is the reaction that runs past the intended target. These Beans have the capacity to start things without spending themselves — but only if they choose what to activate with care.
+The trouble is they sometimes light a fire they didn't mean to stand near. A throwaway "you should just quit" lands harder than intended, and a week later someone has — and is on the phone asking what to do next.

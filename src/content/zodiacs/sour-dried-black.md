@@ -7,6 +7,11 @@ trait: impenetrable
 dish: Black bean and dried hibiscus soup with lime.
 quote: No bean is an island, entire of itself.
 seasonalFortune: Hibiscus stains the pot rim red while the beans stay black at the core. Some interiors are not edited by what surrounds them; weather passes over, not through.
+fortuneMost: Don't reply yet. The sentence that comes after a night's silence will be the real one; the one you'd send now is still just an answer to the asking.
+fortuneHigh: Asked your opinion twice? Decline twice. The third ask earns it.
+fortuneMid: Pick the confidant. Loudest petitioner loses by default.
+fortuneLow: Tell the wrong person something true. Test the seal.
+fortuneLeast: Call someone. The vault has been empty a while.
 facetMostTitle: The Hibiscus, Not the Bean
 facetMost: Messages collect for days. You answer when you have something to say, and not a moment before.
 facetHighTitle: Lime at the Edge
@@ -17,15 +22,14 @@ facetLowTitle: The Long Simmer
 facetLow: You send the draft to anyone who asks; whatever you are working on, the room hears about it by Wednesday.
 facetLeastTitle: The Bean and the Broth
 facetLeast: You tell the doctor everything on the first visit, weep at films, sleep where you fall.
-fortuneMost: Don't reply today. Tomorrow's sentence will be the real one.
-fortuneHigh: Asked your opinion twice? Decline twice. The third ask earns it.
-fortuneLow: Tell the wrong person something true. Test the seal.
-fortuneMid: Pick the confidant. Loudest petitioner loses by default.
-fortuneLeast: Call someone. The vault has been empty a while.
+question: A stranger on a long train sits opposite and asks, gently, how your year has been. You...
+answerMost: nod once and return to the window
+answerHigh: give the shape of an answer, no details
+answerMid: trade two true sentences for two of theirs
+answerLow: tell them more than you meant to, then change carriages
+answerLeast: hand over the whole year by the next station
 ---
 
-Dehydrated Black Beans are the Bean Zodiac's most impenetrable — nothing passes in or out that has not been examined first.
+Dehydrated Black Beans are the Bean Zodiac's most impenetrable. Ask one how the weekend went and the answer is "fine" — accurate, complete, and somehow the conversation has already ended. They are not cold; they are simply on the other side of a door that has no obvious handle, and a year of dinners can pass before anyone notices nothing has come out about the divorce, the move, the diagnosis.
 
-Black Beans share nothing before they trust; Sour Beans strip away pretence; Dried Beans draw out whatever warmth remained, leaving a shell that holds.
-
-The Dehydrated Black Bean's challenge is the wall with no gate. Even the most self-sufficient Bean eventually requires something from outside. These Beans must find one entry point and leave it open.
+The cost is the call that never comes when it should. Something hard happens, and the friend who would have helped only finds out months later, in passing, and has to manage their own small hurt at being kept that far back.

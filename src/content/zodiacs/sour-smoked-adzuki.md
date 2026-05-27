@@ -7,6 +7,11 @@ trait: acrid
 dish: Kimchi jjigae with smoked adzuki - adzuki bean stew with kimchi, tofu, and gochugaru
 quote: The bean is mightier than the sword.
 seasonalFortune: A season cured in smoke and brine. The kitchen window stays cracked; what passes through it leaves a mark on the sill and a taste in the back of the throat.
+fortuneMost: Open with the flaw. Whoever flinches was going to flinch by paragraph three anyway — you've just saved everyone the wait.
+fortuneHigh: Make the toast at the table with the line you almost edited out. The edited version was where the teeth got filed; you'll be glad, by the time the dishes are done, that nobody got the polish.
+fortuneMid: There's an unsent apology drafted three ways in your notes app. Send the meanest one; it's the only one that's true.
+fortuneLow: Underline the bad sentence and leave it. The mark does what the rewrite was avoiding.
+fortuneLeast: You'll notice the smell of something burning twenty minutes after everyone else. Don't pretend you smelled it first.
 facetMostTitle: Gochugaru at the Edge
 facetMost: You send the draft no one asked for, name the flaw on page one, and let the room sit with it.
 facetHighTitle: Kimchi Against Hot Oil
@@ -17,15 +22,14 @@ facetLowTitle: The Broth's Lost Corners
 facetLow: You host by smoothing; the rough remark gets refolded into a second helping before anyone catches its shape.
 facetLeastTitle: The Cooling Kettle
 facetLeast: The sharp note in a room reaches you last, after someone else has already named it.
-fortuneMost: Open with the flaw. Whoever flinches was going to flinch by paragraph three anyway — you've just saved everyone the wait.
-fortuneHigh: Send it before you reread it. The reread is where you file the teeth down; you'll thank yourself by Thursday.
-fortuneMid: There's an unsent apology drafted three ways in your notes app. Send the meanest one; it's the only one that's true.
-fortuneLow: Underline the bad sentence and leave it. The mark does what the rewrite was avoiding.
-fortuneLeast: You'll notice the smell of something burning twenty minutes after everyone else. Don't pretend you smelled it first.
+question: A family photo at someone's funeral, blown up large, carefully cropped. The thing it crops out is something everyone in the room remembers. You...
+answerMost: name the missing person, by name, when it's your turn to speak
+answerHigh: mention them in a sentence the family can hear and choose what to do with
+answerMid: catch one cousin's eye and the look does the saying
+answerLow: leave it alone now and bring it up to one person later
+answerLeast: speak about the photo as if the crop were the whole picture
 ---
 
-Cured Adzuki Beans are the Bean Zodiac's most acrid — their gift for marking occasions has been sharpened past the point of easy comfort.
+Cured Adzuki Beans are the Bean Zodiac's most acrid — the toast at their table is the one that names what everyone agreed not to. They are the friend who tells you the haircut isn't working before the photos go up, the colleague who replies-all with the sentence the thread had been circling for three days. The relief in the room is real; people seek them out for it.
 
-Adzuki Beans bring festivity wherever they go; Sour Beans cut through sentiment; Smoked Beans send the combination ahead of any explicit invitation.
-
-The Cured Adzuki Bean's challenge is palatability. The sharpest observations require the most careful delivery. These Beans must ask whether the edge serves the moment or only precedes it.
+The trouble is the timing. The edge arrives before the warmth has been set down, and the person on the receiving end spends the next hour deciding whether they were helped or filed.

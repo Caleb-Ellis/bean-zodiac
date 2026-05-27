@@ -7,6 +7,11 @@ trait: scary
 dish: Smoked black bean broth with charred onion and no garnish.
 quote: To be great is to be bean.
 seasonalFortune: Smoke clings to a black broth long after the fire is out. The charred onion gives nothing away. A season spent darkening in the pot, without notice, without garnish.
+fortuneMost: Leave at the second-to-last song. They'll notice the cold spot at the bar long after and blame the draft.
+fortuneHigh: Don't sign the work. The shape of your hand is already on it; a signature would just date the thing.
+fortuneMid: Claim one small bit of the project out loud — the title slide, the file name, the version number. That's the whole assignment.
+fortuneLow: Someone is asking three mutual friends how to thank you. Reply to one of their texts and save them the detective work.
+fortuneLeast: Sit in the lit chair, coat folded over the back, for the entire dinner. Vanishing is reading as a drafty hallway, not as mystery.
 facetMostTitle: The Blackening Spoon
 facetMost: You walk into the room and the conversation drops a register — and you do not move to lift it.
 facetHighTitle: The Bare Bowl
@@ -17,15 +22,14 @@ facetLowTitle: The Thinned Broth
 facetLow: You over-explain the joke before anyone has asked, smoothing the edge down so no one has to wonder where you stand.
 facetLeastTitle: Parsley for the Char
 facetLeast: Your front door stays propped, the kettle stays on; the house reads itself to anyone who walks past the window.
-fortuneMost: Leave at the second-to-last song. They'll notice the cold spot at the bar by 1am and blame the AC.
-fortuneHigh: Don't sign the work. The shape of your hand is already on it; a signature would just date the thing.
-fortuneMid: Claim one small bit of the project out loud on Thursday — the title slide, the file name. That's the whole assignment.
-fortuneLow: Someone is asking three mutual friends how to thank you. Reply to one text by Friday and save them the detective work.
-fortuneLeast: Sit in the lit chair, coat folded over the back, for the entire dinner. Vanishing is reading as a drafty hallway, not as mystery.
+question: A stranger has been following you down a quiet street for two blocks. You stop under a streetlight and turn around. You...
+answerMost: hold the look until they cross the road of their own accord
+answerHigh: ask, flatly, if they need something
+answerMid: take out your phone and stay where you are
+answerLow: walk fast to the next corner and turn
+answerLeast: duck into the first lit doorway and wait it out
 ---
 
-Charcoal Black Beans are the Bean Zodiac's scariest — not in the sense of aggression, but in the older sense of the word. They move through the world leaving an unease that takes hours to locate.
+Charcoal Black Beans are the Bean Zodiac's scariest — not loud, not cruel, just the one at the table who goes quiet and watches, and somehow the whole room adjusts to it. They say little and mean all of it. People rehearse what they'll say to them on the walk over.
 
-Black Beans hold everything back until trust is earned; Bitter Beans strip the warmth from what they say until only the signal remains; Smoked Beans ensure that by the time anyone understands what happened, the source is long gone. Together they produce a Bean whose presence changes things that cannot name what changed them.
-
-The Charcoal Black Bean's challenge is the cost of this to everyone else. Unease is not connection. These Beans contain something worth knowing — the task is making it possible for someone to ask.
+What the room reads as menace is mostly distance they never decided to keep. They give nothing away by habit, and so a stranger has nothing to go on but the silence — and silence, left bare, always gets filled in as a threat. The thing actually inside them is worth knowing. They've just made it so no one feels allowed to ask.

@@ -7,6 +7,11 @@ trait: layered
 dish: Frijoles de olla - dried pinto beans slow-cooked in clay pot with epazote, onion, and lard.
 quote: Life is like a bean of chocolates — you never know what you're going to get.
 seasonalFortune: A season that earns its weight slowly. Onion gives up its sharpness by degrees, epazote arrives at the end, and nothing in the pot can be hurried.
+fortuneMost: Start the story two weeks back. Let them ask their way forward to whichever day they actually meant.
+fortuneHigh: Move one book to a strange shelf. Wait.
+fortuneMid: Pull them in before you explain. The doorway is too far.
+fortuneLow: Plain answer. Skip the footnote.
+fortuneLeast: One line. The sediment can settle.
 facetMostTitle: The Clay Pot Before the Question
 facetMost: You started the soak two days back, on a hunch about who might call.
 facetHighTitle: Sunday's Rendered Lard
@@ -17,15 +22,14 @@ facetLowTitle: The Skipped Epazote
 facetLow: The apology said plainly, and the room moves on without you rebuilding it.
 facetLeastTitle: The Settled Sediment
 facetLeast: You answer the first message in the thread; whatever settled underneath is welcome to stay there.
-fortuneMost: Start the story on Sunday. Let them ask about Thursday.
-fortuneHigh: Move one book to a strange shelf. Wait.
-fortuneMid: Pull them in before you explain. The doorway is too far.
-fortuneLow: Plain answer. Skip the footnote.
-fortuneLeast: One line. The sediment can settle.
+question: Sorting a box of old photos with someone who wasn't there for any of them. They pick one up and ask who's who. You...
+answerMost: start two summers before the photo and arrive at the names by the back of it
+answerHigh: place the year, the house, the falling-out that came after, then the names
+answerMid: name everyone, then say which one of them you still talk to
+answerLow: name the two that matter and skip the rest
+answerLeast: say "old friends" and reach for the next photo
 ---
 
-Aged Pinto Beans are the Bean Zodiac's most layered — what is expressed has depth under it, and more depth under that.
+Aged Pinto Beans are the Bean Zodiac's most layered — ask after their week and the answer begins on Sunday with a small remembered detail, and by the time it arrives at Thursday, several things you didn't know were related have quietly turned out to be the same thing. Their shelves look plain from the doorway and reveal a logic only on the second look, which is the only look they're really interested in giving you.
 
-Pinto Beans wear their histories openly; Umami Beans ensure that depth accumulates beneath; Dried Beans hold it in concentrated form, where every layer is still present even when only one is visible.
-
-The Aged Pinto Bean's challenge is the reader who doesn't stay long enough. Layered things are only experienced by those who give them time. These Beans must find ways to invite depth — rather than simply expressing it and waiting to be understood.
+The trouble is that most listeners get out at Tuesday. The careful build to the real thing lands in a half-distracted ear, the punchline is read as the preamble, and the layers stay on the shelf, ready, in case anyone comes back.

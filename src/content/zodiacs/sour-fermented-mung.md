@@ -7,6 +7,11 @@ trait: insecure
 dish: Mung bean dal with yogurt tadka and lime.
 quote: To bean oneself is the beginning of a lifelong romance.
 seasonalFortune: A season for thin-walled things. The brine sharpens every edge it touches, and what looked like flaw under the lime turns out to be grain.
+fortuneMost: Close the sent folder. Re-reading is the doubt building itself a kitchen.
+fortuneHigh: They were yawning. Stop assembling the case against yourself out of a face you saw for half a second.
+fortuneMid: Delete the apology draft and ask about their week instead. Nobody is owed the report you've prepared.
+fortuneLow: Ask the dumb clarifying question. The version where you guess is the one that goes wrong later, expensively, in front of everyone.
+fortuneLeast: Go to bed. The crisis hasn't earned the all-nighter you were going to give it.
 facetMostTitle: Lime on the Second Pass
 facetMost: You reread the sent message, then reread your reading of it, hunting the wrong word that proves the whole thing.
 facetHighTitle: The Tadka's Splutter
@@ -17,15 +22,14 @@ facetLowTitle: The Unwatched Ferment
 facetLow: You leave the unmade decision on the counter overnight and find, by morning, it has quietly decided itself.
 facetLeastTitle: Lime Never Enters
 facetLeast: You sleep through the dread others would stay up turning over, and wake to a morning that has already forgotten the question.
-fortuneMost: Close the sent folder. Re-reading is the doubt building itself a kitchen.
-fortuneHigh: They were yawning. Stop assembling the case against yourself out of a face you saw for half a second.
-fortuneMid: Delete the apology draft and ask about their week instead. Nobody is owed the report you've prepared.
-fortuneLow: Ask the dumb clarifying question. The version where you guess is the one that goes wrong on Friday.
-fortuneLeast: Go to bed. The crisis hasn't earned the all-nighter you were going to give it.
+question: You leave a voice note in a group chat. By the time you've put the phone down, nobody has reacted for ninety seconds. You...
+answerMost: open the chat, reread the transcript, and start drafting the follow-up that softens it
+answerHigh: replay the voice note to check your tone
+answerMid: put the phone face-down and pretend you haven't noticed
+answerLow: assume they're at lunch and get on with the morning
+answerLeast: send a second voice note before the first one has been heard
 ---
 
-Pickled Mung Beans are the Bean Zodiac's most insecure — they understand in exquisite detail everything they might be getting wrong.
+Pickled Mung Beans are the Bean Zodiac's most insecure — and the inventory is detailed. They can name, without notes, the exact word in the sent message that probably gave offence, which friend has been replying a beat more slowly than last month, the small face-shift at lunch that meant they had miscalculated, and the apology they will need to send if the face-shift was what they think it was. The reading is rarely sloppy; it's often, painfully, accurate.
 
-Mung Beans are prone to doubt; Sour Beans sharpen every gap into perfect focus; Fermented Beans elaborate until the worry becomes elaborate.
-
-The Pickled Mung Bean's challenge is proportion. They must distinguish signal from noise.
+What the accuracy can't tell them is how much of it matters. The yawn was just a yawn; the slow reply was a phone in another room. The worry, refined and brined and read once more before bed, has become more elaborate than the thing it's about.

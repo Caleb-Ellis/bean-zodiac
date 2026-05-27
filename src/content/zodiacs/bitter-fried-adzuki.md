@@ -7,25 +7,29 @@ trait: opinionated
 dish: Adzuki bean crispy rice cakes with bitter orange syrup.
 quote: Well-beaned Beans are always dangerous.
 seasonalFortune: A season that rewards the cook who pulls the cake the moment it crackles. Bitter rind sharpens early; what hesitates in the pan goes soft at the edge.
+fortuneMost: Name the favourite, the worst, the overrated — in that order, at dinner, before the second drink. The hedged version is just you flinching in slow motion.
+fortuneHigh: When the opening comes, take it on the first ask. Second asks arrive worse and later.
+fortuneMid: Finish the sentence you've been muttering. Out loud, at dinner, before the plates land.
+fortuneLow: Skip the verdict, just at this table. Nobody asked, and you'll like the meal more for not delivering one.
+fortuneLeast: Get off the hill. It isn't a hill, it's a curb.
 facetMostTitle: Syrup Against the Crust
-facetMost: You send the email back with three lines struck through and a single word added — and do not soften it on a second read.
+facetMost: At the bookshop you tell a stranger which novel on the table is the bad one, give your reasoning in two sentences, and walk off before they can disagree.
 facetHighTitle: The Rind at the Oil
 facetHigh: Three seconds in the room and you have already decided which guest you will sit beside.
 facetMidTitle: Where the Crust Splits
 facetMid: You answer the survey question with the option no one picks, then move on.
 facetLowTitle: Syrup Pooled, Cooling
-facetLow: You let the meeting end without naming the thing you noticed; the noticing keeps for a quieter hour.
+facetLow: You let the dinner end without naming the thing you noticed; the noticing keeps for a quieter hour.
 facetLeastTitle: The Patient Heat
 facetLeast: You read the second review, the third, the fourth, and the film stays interesting in every direction.
-fortuneMost: Send the first draft. The fourth is just you flinching in slow motion.
-fortuneHigh: When the opening comes, take it on the first ask. Second asks arrive worse and later.
-fortuneMid: Finish the sentence you've been muttering. Out loud, at dinner, before the plates land.
-fortuneLow: Skip the verdict today. Nobody asked, and you'll like the meal more.
-fortuneLeast: Get off the hill. It isn't a hill, it's a curb.
+question: A new acquaintance asks for your favourite film, sincerely, as a way of getting to know you. You...
+answerMost: name it, then say why the runner-up isn't even close
+answerHigh: name it, plainly, no caveat
+answerMid: name three and let them ask which you'd rewatch tonight
+answerLow: name something safe and well-liked
+answerLeast: say you can never pick and turn the question around
 ---
 
-Scorched Adzuki Beans are the Bean Zodiac's most opinionated — they decide quickly and hold firmly.
+Scorched Adzuki Beans are the Bean Zodiac's most opinionated — and they know it within the first three seconds. Hand one a menu, a hire, a paint swatch, and the verdict arrives whole and unhedged, often before the question has finished. People bring them the hard calls precisely because they don't flinch, and they're usually right.
 
-Adzuki Bean knows immediately if a moment deserves recognition; Bitter Beans make judgment sharp and acquired; Fried Beans seal the position before time to second-guess.
-
-The Scorched Adzuki Bean's challenge is the space between opinion and verdict. A discerning palate applied too quickly can miss things. They must remember a judgment worth having is one that has had a moment to cool.
+What they're slower to admit is that the verdict landed before the evidence did, and that "I knew straight away" and "I made up my mind too fast to change it" are the same sentence said twice. The few times they were wrong, they were wrong loudly, and on record.

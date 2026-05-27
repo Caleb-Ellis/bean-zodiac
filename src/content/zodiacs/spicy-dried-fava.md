@@ -7,6 +7,11 @@ trait: audacious
 dish: Bessara - Moroccan dried fava bean dip with cumin and chili oil.
 quote: Fortune favors the bean.
 seasonalFortune: A year that cures hard and serves hot. The dried bean keeps its shape until the chili oil hits, and then a household built on small dares finds the heat it was waiting on.
+fortuneMost: Start talking on the way in. Finish the sentence after.
+fortuneHigh: Take the floor. Step off early.
+fortuneMid: Start the half-plan with the phone number. Waiting for the planning meeting is a coward's draft of the same call.
+fortuneLow: That door is locked. Slow down and you'd see the open one.
+fortuneLeast: Sleep on it. The morning version is the same plan with the back half drawn in.
 facetMostTitle: Chili Oil Before the Seat
 facetMost: You enter a room speaking, and the introductions catch up later.
 facetHighTitle: Rough Draft Across the Table
@@ -17,15 +22,14 @@ facetLowTitle: The Held Pinch
 facetLow: You walk the room twice before deciding where the chair goes.
 facetLeastTitle: The Overnight Soak
 facetLeast: You let small obligations sit a day, draft the reply twice, and send the calmer one.
-fortuneMost: Start talking on the way in. Finish the sentence after.
-fortuneHigh: Take the floor. Step off early.
-fortuneMid: Start the half-plan with the phone number. Monday is a coward.
-fortuneLow: That door is locked. Slow down and you'd see the open one.
-fortuneLeast: Sit. The thing you were charging at isn't here.
+question: Someone floats a half-baked idea on a Sunday call — "we should just drive to the coast tomorrow." You...
+answerMost: book the cabin during the call and text everyone the address
+answerHigh: say yes and start figuring out the rest in the car
+answerMid: ask who's actually in and decide from there
+answerLow: float a date two weekends out so it can be planned properly
+answerLeast: laugh, agree it would be nice, and never mention it again
 ---
 
-Sichuan Fava Beans are the Bean Zodiac's most audacious — the work is difficult, the heat is significant, and they have chosen to proceed.
+Sichuan Fava Beans are the Bean Zodiac's most audacious — already on the highway before the rest of the group has answered the text. The hard email is sent before lunch; the apartment is leased the same day it's viewed; the new instrument is bought on Sunday and brought to the open mic on Wednesday, badly. They start. The rest of us watch and feel both inspired and faintly tired.
 
-Fava Beans move toward the difficult willingly; Spicy Beans make the energy immediate and undeniable; Dried Beans strip out any hesitation that once slowed them down.
-
-The Sichuan Fava Bean's challenge is the exit strategy. Entry into difficult things is their gift. These Beans must occasionally plan for what happens next — before the next thing is already happening.
+What they tend not to think through is the back half. The cabin is booked, the drive is on; what nobody asked is who's feeding the cat for three days.

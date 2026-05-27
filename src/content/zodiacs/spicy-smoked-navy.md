@@ -7,6 +7,11 @@ trait: dogged
 dish: Cassoulet - French slow-cooked navy beans with smoked duck confit, Toulouse sausage, and piment d'Espelette.
 quote: It's not whether you get knocked down, it's whether you bean up.
 seasonalFortune: Smoke settles into what stays still. The pot holds its low fire through the long afternoon; a life shaped this way accrues by refusing to lift the lid.
+fortuneMost: One more hour. Boots on, lid down, no negotiating — the cassoulet was always finished by the people who didn't ask if it was done yet.
+fortuneHigh: That door you keep shoulder-checking has had a new lock since spring. Try the handle first; you may be the obstacle now.
+fortuneMid: Light a match over the line item you've owed yourself for as long as you can remember. Pay it or burn it — either way it's off the books before the evening is out.
+fortuneLow: The vow is older than the reason. Say it out loud once and see if it still smells like food or just like smoke.
+fortuneLeast: Close the ledger no one else remembers. The fire's been out for a while; you've been keeping it warm with your breath.
 facetMostTitle: Eight Hours, Still in the Pot
 facetMost: You finish what you start; the exit door does not interest you.
 facetHighTitle: Duck Fat's Long Memory
@@ -16,16 +21,15 @@ facetMid: You work tired, work sore, work through the hour everyone else leaves.
 facetLowTitle: Smoke at the Open Window
 facetLow: Half-built shelves, half-read books on the chair — you move when the shape stops fitting.
 facetLeastTitle: The Fire Gone Out
-facetLeast: Threads die in your inbox; you answer the ones that still feel warm.
-fortuneMost: One more hour. Boots on, lid down, no negotiating — the cassoulet was always finished by the people who didn't ask if it was done yet.
-fortuneHigh: That door you keep shoulder-checking has had a new lock since spring. Try the handle first; you may be the obstacle now.
-fortuneMid: Light a match over the line item you've owed yourself since January. Pay it or burn it — either way it's off the books by dinner.
-fortuneLow: The vow is older than the reason. Say it out loud once and see if it still smells like food or just like smoke.
-fortuneLeast: Close the ledger no one else remembers. The fire's been out for a while; you've been keeping it warm with your breath.
+facetLeast: Old grudges lose their shape in your pocket; you let go of the ones that no longer burn the hand.
+question: You're halfway through a long renovation project and a friend points out the original plan was wrong. You...
+answerMost: hear them out and finish the original plan anyway
+answerHigh: thank them and keep going; commitment is the point
+answerMid: pause, look at the work, and adjust the next stage
+answerLow: tear down what you've done and rework it tonight
+answerLeast: shrug, hire someone, and lose interest in the whole thing
 ---
 
-Chipotle Navy Beans will not be turned aside, and their certainty comes from somewhere beyond argument.
+Chipotle Navy Beans are the Bean Zodiac's most dogged — and the ones who finish. The thesis, the marathon, the slow ugly renovation that everyone else assumed had been quietly abandoned. They show up on the bad days too, the cold ones and the ones with no audience, because the job isn't done. By the time the rest of the room circles back, the work is already through the worst of it and shaped the way they always said it would be.
 
-Navy Beans know what is required and act without hesitation. Spicy Beans make adherence feel absolute. Smoked Beans carry the commitment from a place beyond appeal.
-
-The Chipotle Navy Bean's challenge is knowing when to stop. Steady commitment is a strength; steady commitment to the wrong thing is an error that compounds. These Beans must sometimes ask whether what they push for is still worth pushing.
+Where it costs them is the project that stopped making sense around month three. They were already too far in to turn around, and the cassoulet kept simmering long after anyone was hungry.

@@ -7,6 +7,11 @@ trait: frenetic
 dish: Fatteh - Syrian smoked chickpeas layered with crisp bread, yogurt, and chili oil.
 quote: Life moves pretty fast — if you don't stop and bean around once in a while, you could miss it.
 seasonalFortune: A season of smoke rising from three burners at once, bread torn before the yogurt is whisked, chili oil drifting through rooms its cook has already left.
+fortuneMost: Pick a burner, kill the other two. The smoke alarm is one minute out and you've forgotten what's on each pan.
+fortuneHigh: Throw your phone in a drawer for an hour. Whoever needs you will still need you; the chili oil isn't going anywhere.
+fortuneMid: Start with item three. The first two were warm-ups disguised as priorities.
+fortuneLow: Walk back to the room you bolted out of. There's a sentence still hanging mid-air, waiting for you to finish it.
+fortuneLeast: Make one dish, eat it sitting down. The chase will be there the moment you stand up, dressed slightly differently and pretending to be new.
 facetMostTitle: The Unwatched Fire
 facetMost: You start three things in an afternoon and chase the next blister before the first finishes.
 facetHighTitle: Pita Torn Jagged
@@ -17,15 +22,14 @@ facetLowTitle: Yogurt Left to Set
 facetLow: When fatigue lands you do not negotiate with it; the unfinished thing keeps until morning.
 facetLeastTitle: The Single Burner
 facetLeast: You make one plan for the day and the day stays that size.
-fortuneMost: Pick a burner, kill the other two. The smoke alarm is one minute out and you've forgotten what's on each pan.
-fortuneHigh: Throw your phone in a drawer for an hour. Whoever needs you will still need you; the chili oil isn't going anywhere.
-fortuneMid: Start with item three. The first two were warm-ups disguised as priorities.
-fortuneLow: Walk back to the room you bolted out of. There's a sentence still hanging mid-air, waiting for you to finish it.
-fortuneLeast: Make one dish, eat it sitting down. The chase will be there tomorrow, dressed slightly differently.
+question: You sit down to finish one task and a better idea arrives unannounced. You...
+answerMost: drop the first task and chase the new one immediately
+answerHigh: open a new tab "just to sketch it" and lose an hour
+answerMid: jot the idea on a sticky note and keep going
+answerLow: finish the task first, knowing the idea might fade
+answerLeast: ignore the idea entirely; you started this and you're finishing it
 ---
 
-Chipotle Chickpeas are the Bean Zodiac's most frenetic — they are everywhere at once, at considerable intensity, for reasons that shift before they can be examined.
+Chipotle Chickpeas are the Bean Zodiac's most frenetic — and their friends have learned to text twice. The first message gets a thumbs-up an hour late from across town; the second catches them mid-pivot toward whatever the evening has become. They make the dinner happen, the trip happen, the band happen, somehow, mostly because standing still feels worse than overbooking.
 
-Chickpeas are at home in every room and resist rooting in any of them; Spicy Beans demand full attention and generate immediate movement; Smoked Beans let the whole thing run from a source no one can follow.
-
-The Chipotle Chickpea's challenge is stillness. Movement from an unlocatable source cannot be directed. These Beans must find one room, stay in it, and let the heat become something useful.
+The cost is the half-finished. The novel three chapters in, the friend they meant to call back, the project that was electric for ten days and then went quiet — not abandoned, exactly, just outrun by the next one.

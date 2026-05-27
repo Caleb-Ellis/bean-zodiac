@@ -7,6 +7,11 @@ trait: refined
 dish: Bruschetta - cannellini with bitter olive tapenade and roasted garlic.
 quote: A bean by any other name would taste as fine.
 seasonalFortune: A season for the long heat that coaxes garlic from acrid to mellow. Households of this bean keep the oven on past dinner, slow-finishing what others would already serve.
+fortuneMost: Re-plate the dish before it leaves the kitchen. The wipe of the rim is the difference, and you are the only one in the room who'd notice — which is exactly why you should.
+fortuneHigh: One more pass, for the comma only. The pass after that is rearrangement dressed as care.
+fortuneMid: Make the introductions yourself. Name the quieter person second — they'll feel handed the room.
+fortuneLow: Leave the crooked picture crooked. Straightening it tells the host you noticed, which is the actual rudeness.
+fortuneLeast: Wear the shirt with the stain to the dinner. The story you'll tell about the stain is the part they came for; the clean shirt was the wrong host.
 facetMostTitle: The Crust After the Fire
 facetMost: You walk a room before guests arrive and move three things; the room exhales.
 facetHighTitle: Tapenade, Pounded Smooth
@@ -17,15 +22,14 @@ facetLowTitle: Raw Garlic, Straight in
 facetLow: You speak first and shape the thought as it travels; the bite stays on your tongue and you don't mind.
 facetLeastTitle: Char Left Where It Fell
 facetLeast: You ship the work rough, post the photo unstraightened, and feel no pull toward the second pass.
-fortuneMost: Move three things before they arrive — the lamp, the candle, the chair facing the wall. Stop at three — the fourth move is showing off.
-fortuneHigh: One more pass, for the comma only. The pass after that is rearrangement dressed as care.
-fortuneMid: Make the introductions yourself. Name the quieter person second — they'll feel handed the room.
-fortuneLow: Leave the crooked picture crooked. Straightening it tells the host you noticed, which is the actual rudeness.
-fortuneLeast: Send the draft with the typo. The version you'd clean up is the version they'd skim.
+question: You arrive early at a friend's place. The lamps are wrong, a picture hangs crooked, and the bowl of olives is on the windowsill. You...
+answerMost: rearrange the room before they come out of the kitchen
+answerHigh: straighten the picture and nudge the lamp
+answerMid: move the olives to the table and leave the rest
+answerLow: notice it all, touch nothing, sit down
+answerLeast: settle into the crooked chair without seeing any of it
 ---
 
-Wood-Fired Cannellini Beans are the Bean Zodiac's most refined — they improve everything they touch.
+Wood-Fired Cannellini Beans are the Bean Zodiac's most refined — they improve everything they touch. They walk a room before guests arrive and move three things, and the room exhales; at introductions they place names like garnish, so each person lands somewhere they can stand. The reply gets a second pass, then a third for the comma. Nothing they touch is left worse.
 
-Cannellini Bean improves through presence; Bitter Beans keep refinement from sliding into mere ornament; Roasted Beans fill the room, coaxing arrangements outward.
-
-The Wood-Fired Cannellini Bean's challenge is approachability. Refinement that signals too clearly becomes intimidating. They must remember the goal is elevating surroundings, not replacing them.
+The trouble is the crooked picture they cannot help straightening at someone else's house. Refinement that announces itself stops being a gift and starts being a verdict on what was there before — and the host, watching their things quietly corrected, learns that the room was never quite good enough.

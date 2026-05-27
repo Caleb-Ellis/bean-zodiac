@@ -7,6 +7,11 @@ trait: primed
 dish: Red beans and rice - New Orleans style with andouille and cayenne.
 quote: Anger is an acid that can do more harm to the bean in which it is stored than to anything on which it is poured.
 seasonalFortune: A season cured under lidded heat. The pod keeps its cayenne folded inward; whatever waits in the dried bean travels in low company until the pot finds its hour.
+fortuneMost: Pick the hour. The hour picks worse.
+fortuneHigh: The grievance that still tastes of cayenne at breakfast is the one to act on. The other two cooled overnight for a reason; let them.
+fortuneMid: Walk a mile before you talk. The conversation changes en route.
+fortuneLow: The fuse is fine. Find the leak.
+fortuneLeast: Say it at the time, mildly, the day it happens. The cellar is full enough; nothing new goes in this week.
 facetMostTitle: Cayenne on the Shelf
 facetMost: Your rooms are arranged so the strike, when it comes, has nothing in its way.
 facetHighTitle: Drafts in the Notes App
@@ -17,15 +22,14 @@ facetLowTitle: Heat Spent on the Walk
 facetLow: At the long table you arrive already spent, salt and smoke distributed evenly among the hours.
 facetLeastTitle: Rice Before the Beans
 facetLeast: You move on a thing the day it lands, no holding pot, no banked coals waiting.
-fortuneMost: Pick the hour. The hour picks worse.
-fortuneHigh: Send the draft that still burns at breakfast. Trash the rest.
-fortuneMid: Walk a mile before you talk. The conversation changes en route.
-fortuneLow: The fuse is fine. Find the leak.
-fortuneLeast: Listen for the small hiss. Wait and it gets loud.
+question: A small annoyance from a housemate — they've left the same dish out for the fourth time this week. Today you have a headache. You...
+answerMost: leave a sharper note than the situation called for and feel calmer
+answerHigh: say something on the way out, edged, and don't soften it
+answerMid: wash it without comment and add a tally mark in your head
+answerLow: text them something light about it later
+answerLeast: forget it by the time you're at the bus stop
 ---
 
-Sichuan Kidney Beans are the Bean Zodiac's most primed — the accumulation has been building long enough that the next trigger will not need to be significant.
+Sichuan Kidney Beans are the Bean Zodiac's most primed — and not, strictly speaking, angry people. They are people in whom small things accrue quietly, the way a kettle gets quietly warm, and then one ordinary Wednesday someone uses the wrong tone at the wrong minute and the kettle is suddenly whistling.
 
-Kidney Beans carry passion that does not diminish; Spicy Beans make force immediate and total; Dried Beans seal the interior, letting energy accumulate without release until it finds its own way out.
-
-The Sichuan Kidney Bean's challenge is the warning signs ignored. These Beans rarely release without cause — but the cause is often older than the moment of release. They must learn to tend the pressure before it tends itself.
+The unfair part — including from their own point of view — is that the trigger is rarely the cause. The poor soul who finally got it usually got it on behalf of three weeks of other people.

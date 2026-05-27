@@ -7,6 +7,11 @@ trait: steely
 dish: Bessara - fava beans with cumin and bitter harissa.
 quote: That which does not bean me makes me stronger.
 seasonalFortune: A season cured to the bone. The harissa keeps its sting in the jar, and the fava holds shape against a long, patient grinding.
+fortuneMost: Skip lunch. Finish the thing. The hunger is information, not an emergency.
+fortuneHigh: Take the stairs. Take them every time, until the lift feels like the strange choice.
+fortuneMid: Do the cold version of it. You know which one.
+fortuneLow: Sit in the comfortable chair. The hard one isn't building anything anymore; it's just furniture you're proving a point with.
+fortuneLeast: Quit the project. Endurance applied to the wrong thing is just damage.
 facetMostTitle: The Dry Pestle
 facetMost: You sleep on a thin mattress and call it enough; hunger, cold, the ache in the shoulder — logged and walked through.
 facetHighTitle: Left to Dry on the Counter
@@ -17,15 +22,14 @@ facetLowTitle: The Softened Harissa
 facetLow: A friend wavers and you bend the evening around them, the rough edge taken off before it reaches them.
 facetLeastTitle: The Sanded Rim
 facetLeast: Cushions everywhere, lamps kept low — nothing in your house left to grind against you.
-fortuneMost: Skip lunch. Finish the thing. The hunger is information, not an emergency.
-fortuneHigh: Take the stairs. Take them every day this week.
-fortuneMid: Do the cold version of it. You know which one.
-fortuneLow: Sit in the comfortable chair. The hard one isn't building anything today.
-fortuneLeast: Quit the project. Endurance applied to the wrong thing is just damage.
+question: It's hour six of a hike and the weather turns. The car is still two hours out. You...
+answerMost: pull the hood up and keep the pace
+answerHigh: shoulder the heavier pack and press on
+answerMid: stop briefly, eat something, carry on
+answerLow: suggest the shortcut back
+answerLeast: call for a lift from the next ridge
 ---
 
-Desiccated Fava Beans are the Bean Zodiac's most steely — the work is hard, the conditions are harsh, and they have decided none of it is reason to stop.
+Desiccated Fava Beans are the Bean Zodiac's most steely — they are the one who finishes the marathon with the broken toe, works the cold through without mentioning it, and treats a setback as a fact to be routed around rather than a reason to sit down. When everyone else is flagging, they are the reason the thing still gets done.
 
-Fava Beans move toward difficulty; Bitter Beans withhold reward from the impatient; Dried Beans strip out softness, leaving only what can endure without it.
-
-The Desiccated Fava Bean's challenge is knowing when to yield. Steel that never bends eventually cracks. These Beans must distinguish endurance from stubbornness — and choose the former.
+Where it turns on them is the project that has quietly stopped being worth it. They'll grind on long past the point of sense, mistaking the refusal to quit for strength, when the strong move was to put the pestle down a month ago.

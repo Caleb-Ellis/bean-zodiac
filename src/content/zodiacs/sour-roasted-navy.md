@@ -7,6 +7,11 @@ trait: understated
 dish: Boston baked navy beans with apple cider vinegar, whole grain mustard, and brown sugar
 quote: The bean doth protest too little, methinks.
 seasonalFortune: Brown sugar dissolves into the pot hours before anyone tastes it. The season belongs to slow workers whose contributions are noticed only in their absence.
+fortuneMost: Leave the finished work on the desk and go home. The credit will find you, slower and better.
+fortuneHigh: Cut the reply to one line. The lines you trimmed were asking for a thank-you you don't need.
+fortuneMid: Someone credits the wrong person for your bit. Correct it once, flatly, and don't litigate it when the same misattribution turns up again.
+fortuneLow: Your invisible hand is being read as no hand at all. Sign the page in pen — they need to see the signature, not just the work.
+fortuneLeast: Post the photograph. Restraint that has nobody to address curdles into a different kind of vanity.
 facetMostTitle: Mustard Seed, No Thanks
 facetMost: You finish the work, leave it on the table, and walk out before anyone looks up.
 facetHighTitle: Cider Vinegar, No Ceremony
@@ -17,15 +22,14 @@ facetLowTitle: The Pot Claims the Stove
 facetLow: You arrive announced, dressed for the photograph, and the room reorganises around your arrival.
 facetLeastTitle: Sugar Before the First Sip
 facetLeast: Every thought reaches the group chat before it reaches you, annotated and stickered.
-fortuneMost: Leave the finished work on the desk and go home. The credit will find you, slower and better.
-fortuneHigh: Cut the reply to one line. The lines you trimmed were asking for a thank-you you don't need.
-fortuneMid: Someone credits the wrong person for your bit. Correct it once, flatly, and don't litigate when they re-credit them tomorrow.
-fortuneLow: Your invisible hand is being read as no hand at all. Sign the page in pen — they need to see the signature, not just the work.
-fortuneLeast: A louder voice has taken on your shape and is wearing it well. Start your next sentence with "I did that" — once is enough.
+question: You finish the unglamorous job nobody else wanted, the room is full, and the lead is about to wrap the meeting. You...
+answerMost: stay silent and let the work be discovered on its own
+answerHigh: mention it in one short sentence and move the agenda forward
+answerMid: bring it up only if directly asked, and keep the answer flat
+answerLow: drop a hint that lets someone else surface it for you
+answerLeast: walk the table through what you did, step by step
 ---
 
-Chimichurri Navy Beans are the Bean Zodiac's most understated — they offer much without announcement.
+Chimichurri Navy Beans are the Bean Zodiac's most understated — they finish the work, leave it on the table, and walk out before anyone looks up. They feed six people and mention the recipe to none of them. The contribution gets noticed the way brown sugar gets noticed in baked beans: only later, only by absence.
 
-Navy Beans are quietly indispensable; Sour Beans edit out performance; Roasted Beans hold warmth low enough you might miss it.
-
-The Chimichurri Navy Bean's challenge is being known. They must occasionally say what they are only showing.
+The shadow is that invisible hands sometimes read as no hand at all. A louder voice takes on the shape of their work and wears it convincingly, and they tell themselves the silence was a kind of dignity when really nobody knew there was anything to credit.

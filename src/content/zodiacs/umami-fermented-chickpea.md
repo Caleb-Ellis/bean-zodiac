@@ -7,6 +7,11 @@ trait: innovative
 dish: Chickpea tempeh - fermented whole chickpeas pan-fried and glazed with miso and sesame.
 quote: Imagination is more important than knowledge about beans.
 seasonalFortune: A jar set aside in the cupboard quietly rewrites itself; the cook who returns finds the chickpea no longer answering to its old name.
+fortuneMost: Cross-breed two unrelated hobbies on paper. The hybrid is what you'll be doing in three years; start the bad first version while the idea's still warm.
+fortuneHigh: Introduce two friends who don't know they need each other. Stay long enough to watch the spark, then leave them to it.
+fortuneMid: Steal a verb from a discipline you don't work in. Use it wrong on purpose in your next conversation.
+fortuneLow: Take the route you took last time. Notice three things you missed; the unfamiliar version is the avoidance, not the work.
+fortuneLeast: Pack a lunch instead of inventing one. Hunger is not a creative brief.
 facetMostTitle: The Third Thing
 facetMost: You braid borrowed scraps into ideas no one thought to order.
 facetHighTitle: The Re-Glazed Pan
@@ -17,15 +22,14 @@ facetLowTitle: Tuesday's Supper
 facetLow: You cook what your hands already know and the table is content.
 facetLeastTitle: The Set Block
 facetLeast: You move by last year's clock and decline the cleverness of a new route.
-fortuneMost: Cross-breed two unrelated hobbies on paper. The hybrid is what you'll be doing in three years; start the bad first version today.
-fortuneHigh: Introduce two friends who don't know they need each other. Stay long enough to watch the spark, then leave them to it.
-fortuneMid: Steal a verb from a discipline you don't work in. Use it wrong on purpose in your next conversation.
-fortuneLow: Take the route you took yesterday. Notice three things you missed.
-fortuneLeast: Pack a lunch instead of inventing one. Hunger is not a creative brief.
+question: A brief lands Monday morning with the standard template attached and the standard answer expected. You...
+answerMost: ignore the template, build a stranger shape that answers a deeper question they didn't ask
+answerHigh: write the standard version and quietly attach a second one
+answerMid: hit the brief but bend one section toward a more interesting answer
+answerLow: do the brief well, no embellishment
+answerLeast: fill the template and ship it before lunch
 ---
 
-Miso Chickpeas are the Bean Zodiac's most innovative — they find connections no one else had noticed.
+Miso Chickpeas are the Bean Zodiac's most innovative — give one a problem about a leaky tap and somewhere in the answer is a sentence about beekeeping that turns out to be exactly right. The notebooks are full of half-drawn diagrams where two unrelated things have just met for the first time, and friends who go to them with a stuck question often leave holding a different, better question instead.
 
-Chickpeas find common ground across contexts; Umami Beans provide depth to develop ideas to reality; Fermented Beans transform privately until something emerges unpredictable from its parts.
-
-The Miso Chickpea's challenge is follow-through. They must find the path from insight to object, from what was discovered in the dark to something another can hold.
+The catch is that the third thing keeps arriving before the second one is finished. The cupboard is full of brilliant beginnings; the world is still waiting for any of them to come out as objects.

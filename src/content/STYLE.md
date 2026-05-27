@@ -1,96 +1,118 @@
-# Zodiac writing style
+# Zodiac body-copy style
+
+This governs the **markdown body** of each file in `zodiacs/` — the prose _below_ the
+frontmatter. Frontmatter fields (facets, fortunes, dish, quote, `seasonalFortune`) have
+their own voice and are out of scope here.
+
+There are 360 zodiac files. A reader who opens several in a row will detect a **template
+from repeated structure**, not from repeated words. So the goal isn't synonym-swapping —
+it's that no two bodies share a skeleton. Vary the architecture every time.
+
+## Two hard rules
+
+1. **Open with the fixed line:** `[Form-adjective] [Bean] Beans are the Bean Zodiac's most [trait]`.
+   This is the legibility anchor — keep it. You may continue the sentence past "[trait]"
+   (e.g. "— and the slowest to say so"), but it always starts this way.
+2. **Every body must land a shadow** — a real, sympathetic negative aspect of this bean.
+   Not a flaw invented from nowhere; the dark side of the very trait named in the opener.
+   The flaw is mandatory _content_; its placement and shape are free.
+
+## The trait outweighs the shadow
+
+The positive trait is the headline; the shadow is the footnote that complicates it.
+**Give the virtue more room than the flaw** — more sentences, the richer portrait, the
+warmer detail. The shadow lands in a sentence or two at most: a quick, wry turn that
+qualifies the praise without overtaking it. A reader should close the entry mostly
+flattered, faintly caught out — not diagnosed. If the flaw has grown longer than the
+gift it's the shadow of, cut the flaw down, not the gift. The shadow is the twist of
+bitterness in the dish, not the dish.
+
+## Lean toward brevity
+
+A body is short — a few sentences. The opener plus enough to land the shadow is usually
+enough. Resist the second example, the third scene, the extra clause that restates what
+the last one already showed — if a sentence isn't adding a new recognizable beat, cut it.
+Tight copy reads as confident; sprawling copy reads as a horoscope padding for length.
+When in doubt, end sooner.
+
+Even at this length, **prefer two short paragraphs over one block.** A single break gives
+the eye somewhere to rest and usually marks a natural turn — often the pivot from the
+trait to its shadow. Don't force it if the body is genuinely two or three sentences, but
+once it's four or more, break it. Vary where the break falls so the break itself doesn't
+become the template.
+
+## The north star: relatability
+
+Users should see themselves in the description. Relatability comes from **concrete,
+recognizable behavior**, not abstract trait-naming. The "how did they know that's me"
+reaction is triggered by everyday, low-stakes, faintly embarrassing situations — the
+unsent reply, the over-rehearsed apology, the opinion that arrives three days late.
+
+- **Show the bean doing the thing; don't label the disposition.** Behavior is a mirror;
+  adjectives are a diagnosis.
+- **Use situations most people have actually lived** — social, emotional, mundane.
+  Specificity reads as _truth_, not as "this is about someone else."
+- **The shadow is your best relatability lever.** People recognize their flaws faster
+  than their virtues. Render the flaw concretely and sympathetically — never clinically.
 
 ## Voice
 
-Almanac and recipe-headnote, not horoscope. Think M.F.K. Fisher, Patience Gray, old farmers' almanacs — declarative, sensory, a little severe. Stay inside the kitchen-and-garden vocabulary: steep, render, blister, slake, fold, cure, simmer. Avoid modern register slipping in (`energy`, `vibe`, `manifest`, `journey`, `align`).
+- **Third person** ("these Beans…", "they…"). Never second person in the body. A
+  third-person _scene_ is still a mirror — the reader watches the archetype act and
+  recognizes themselves.
+- Archetype-vignette, not horoscope-diagnosis.
+- **Wry, never funny.** The tone is dry and knowing, especially around the shadow — the
+  affectionate raised eyebrow of someone who's seen this before and isn't going to make a
+  thing of it. No jokes, no puns, no winking. The wit lives in _understatement_ (calling a
+  costly habit "not ideal"), in the gently undercutting turn at a sentence's end, in
+  naming the small self-deception precisely and letting it sit. The reader should half-smile
+  in recognition, not laugh. If a line is trying to be clever, cut the cleverness.
 
-## Fortunes (the six lines: `seasonalFortune` + five dailies)
+## Banned moves (these are what made the old copy formulaic)
 
-The six lines split into two registers. **`seasonalFortune` is almanac** — a mood-setter in the third person, describing the _texture of life_ a person of this bean tends to inhabit, no direct address. **The five dailies are characterological** — each one is a _facet of personality_ the reader either accepts ("yes, that's me") or resists ("no, that's not me"). The accept/resist signal across the five is what types the user, so each line has to be sharp enough to provoke a clear yes or no.
+- **No "The challenge is [abstract noun]."** Dramatize the flaw in a scene instead.
+- **No bean / flavour / form triad** — i.e. don't explain the entry as three
+  semicolon-joined clauses, one per axis ("Adzuki Beans X; Bitter Beans Y; Boiled Beans
+  Z"). It exposes the generative grammar and is too abstract for the average reader.
+  The combination should be _felt_ in the portrait, never spelled out as inputs.
+- **No fixed three-act skeleton** (identity → breakdown → challenge). Let length and
+  order vary: some bodies one tight paragraph, some three or four. Sometimes the shadow
+  comes first, sometimes last.
+- **Abstract nouns as the payload** ("their challenge is timeliness/legibility"). Convert
+  every abstraction into a thing the reader has done.
 
-**Enact the trait, never name it.** A `judicious` zodiac never says "you are patient today" — it shows a verdict being held back. The reader should infer the trait from the gesture. It should be obvious that the facets are about the trait (or opposite of the trait if facetLow or facetLeast).
+## What carries the variety
 
-**Each daily describes a behavioral facet** The literal layer underneath every daily should paraphrase to "you are the kind of person who _does this thing_" — a recognisable pattern of behavior, not a forecast and not a piece of advice. Second person is the default. The zodiac's dish can be included as an image that lets the personality pattern land. Behavior first, dish second.
+With the opener and the shadow fixed, vary everything else: how you get from the opener
+to the shadow, whether the shadow opens or closes the piece, length, and the rhetorical
+entry (a scene, a contradiction, how _others_ experience this bean, a flat declarative,
+the dish or a meal as a way in). Let the trait shape the prose where you can — a
+_judicious_ bean's body can read deliberate; an _impulsive_ one short and jumpy.
 
-**Each daily starts with poetic imagery regarding the dish** Each daily should start with a brief poetic sentence that in some way ties to both the trait and the dish - encourage the abstract, metaphorical and maybe a bit weird.
+## Worked example — `bitter-boiled-adzuki` (trait: judicious)
 
-**The five facets sit on a spectrum of trait expression.** Not five intensities of the same situation — five points on how strongly the trait shows up in this person:
+**Before** (formulaic — abstract, three-act, triad, "challenge is"):
 
-- **`facetMost`** — the purest, most self-aware form of the trait; the person who has made it their signature.
-- **`facetHigh`** — the trait as a default move
-- **`facetMid`** — the trait shows up consistently
-- **`facetLow`** — you often go the other way
-- **`facetLeast`** — you are essentially the opposite
+> Infused Adzuki Beans are the Bean Zodiac's most judicious — they carry the Adzuki
+> Bean's deep instinct for celebration, but they do not spend it until the conditions
+> have been met.
+>
+> Adzuki Beans knows that certain moments deserve to be marked; Bitter Beans insist they
+> must genuinely earn it; Boiled Beans refuse to let anything be rushed.
+>
+> The Infused Adzuki Bean's challenge is timeliness. A verdict delivered after the fact is
+> information, not nourishment. These Beans must learn to share the deliberation — not
+> just the outcome.
 
-Across the five, a real person should accept some and resist others. If the same reader would accept all five, the spectrum is too narrow.
+**After** (scene-led, shadow dramatized, no triad):
 
-**Spread the five facets across different life-areas where personality shows up.** Don't write five variations on the same behavior. Pick five rows from the pool below — no two from the same row. **Pick the setting before you write the beat.** A life-area is not a setting — `transactional` is not always "at a restaurant," `social-edge` is not always "at a dinner party." The dish supplies imagery; it does not necessarily supply the scene. Across a set of five, no more than two fortunes should literally take place around food.
+> Infused Adzuki Beans are the Bean Zodiac's most judicious — and the slowest to say so.
+> Ask one what they think and you get "let me sit with it," and they mean it; the answer
+> comes back days later, complete and correct and too late to be any use to the moment
+> that wanted it. So the praise goes ungiven, the apology waits for its final draft, and
+> the people around them learn to read the weather instead of the words. The verdict is
+> always worth having. They've just usually moved on by the time it lands.
 
-- **bodily** — how this person handles sleep, hunger, fatigue, illness; what their body asks for
-- **spatial** — how they treat rooms and objects; what they leave out, hide, rearrange
-- **social-edge** — how they behave with friends, strangers, acquaintances; who they let in
-- **temporal** — how they pace themselves; what they rush, what they delay
-- **material** — how they handle money, possessions, gifts; what they spend on
-- **creative** — how they start, stall, share, or finish their own work
-- **domestic** — how they cook, clean, host, decide household things
-- **transactional** — how they handle bills, returns, small obligations, apologies owed
-- **ambient** — what moods recur in them; what they notice in weather, smell, sound
-- **digital** — how they handle messages, tabs, notifications
-
-**Bias the situation pool toward the bean physically does.** A bitter-boiled bean's situations should lean toward delay. A sweet-roasted bean leans toward invitation, warmth, the gift etc. Don't enumerate this in the line — let it shape which rows of the pool you reach for. Same taxonomy, 360 different palettes.
-
-**facetLow and facetLeast describe the opposite-leaning person.** Not failure, not warning. If the trait is `judicious`, low/least describe a person who acts on instinct and is well served by it. If the trait is `courageous`, low/least describe a person who is cautious by nature and is right to be.
-
-**Vary cadence within the set of five.** Don't open every daily with "The X…". Mix declarative sentences, fragments, semicolon-balanced clauses, imperatives, participial phrases collapsing into an image. Symmetric scaffolding reads as machine-generated even when it isn't.
-
-**One image per fortune.** Two metaphors competing in 18 words muddies the line. Pick one and let it land.
-
-**Hard limit: 30 words per line.** Applies to `seasonalFortune` and each daily. Most dailies should land well under this; the cap exists to stop drift, not to be hit.
-
-**Imagery is bounded by the `dish` field.** Pull ingredients, techniques, and sensory detail only from what the `dish` names (and the broader bean/flavour/form, e.g. a boiled bean can simmer, a bitter bean can sting). Do not invent ingredients the dish doesn't list. The dish is the palette; the fortunes are paintings made from it.
-
-**The bean is a metaphor for character, never a literal meal.** The flavour, form and bean are _textures of personhood_ — small, accumulating, easily lost in the pile. "Bitter-boiled" is a _temperament_ — slow to soften, sharp on the tongue. Reach for the bean's physical qualities (size, shape, how it cooks, how it keeps) as a shape for behavior, and let those qualities surface.
-
-**Recognisable but not generic.** A facet should be specific enough that a reader thinks "yes, that's a particular thing about me," not "well, sure, sometimes" — but not so narrow it presumes biography (no sister, no specific job, no named city). Aim for a _behavioral shape_ a real person can clearly own or disown.
-
-**Accept/resist test (non-negotiable):** every facet must be sharp enough that a reader can immediately say yes-that's-me or no-that's-not-me. A line everyone accepts ("you sometimes think before acting") fails — it gives the typer no signal. A line nobody can place themselves in fails the same way. The image carries the personality; the personality has to be unmistakable.
-
-**Clarity test (non-negotiable):** every line must be a real, parseable thought. "The broth knows itself" fails, because it does not mean anything.
-
-## Daily fortunes (the five `fortuneX` lines)
-
-Each facet is paired with a `fortuneX`. The fortune is what the reader sees after they **Accept** the facet ("yes, that's me") — and a roughly inverse fortune is what they see if they **Resist** it. Where the facet asks *are you this kind of person?*, the fortune answers *what does that mean for today?*
-
-**Strip the kitchen.** Fortunes do not carry dish imagery. The facet already did that work; the fortune is the line the reader carries out of the entry, and it needs to read cleanly on its own without ingredient context.
-
-**A turn, not a command.** A bare imperative ("decide today") is forgettable. Aim for one of: a small reversal, an implied stakes-clause, or a quiet paradox. *The decision delayed today becomes the decision made for you.* The turn is what makes a generic-by-design line still land.
-
-**Forecast the day, don't instruct the reader.** Default to weather over advice — *today rewards the slow answer*, *the room will wait longer than you think*. Imperatives are fine in the mix, but if every fortune opens with a verb-at-you, the set reads like a coach.
-
-**Strip the trait-nouns.** `consideration`, `judgment`, `assessment`, `commitment`, `courage`, `patience`, `clarity` — these name the virtue and flatten the line into self-help. Replace with what the day *does* or what the reader *does*, never the abstraction. Same rule as facets: enact, never name.
-
-**Keep the almanac severity.** Generic does not mean neutral. Words like *today*, *the hour*, *the room*, *by evening*, *what you*, *whoever* — slightly archaic, slightly impersonal — preserve the voice the facets set up. Avoid modern register (`energy`, `flow`, `lean in`, `trust the process`, `align`).
-
-**Resist = permission, not punishment.** Low/least describe a different kind of person who is right to be that way; the same logic applies to a reader who resists a high/most facet. A Resist fortune grants the reader the day off from the trait — it does not scold them into the opposite. *The first instinct today is the true one* — not *stop overthinking.*
-
-**Vary cadence across the five.** One very short fragment, one long balanced line, one imperative, one observation, one with a semicolon turn. Symmetry kills these faster than weak imagery does.
-
-**Hard limit: 30 words per fortune.** One thought, ending on the consequence, not a cushion clause.
-
-## Sharpening a line that is already correct
-
-A fortune can pass the rules above and still read as flat. Reach for these in a second pass:
-
-- **Stakes inside the image.** Prefer gestures that imply consequence if skipped. "The cook who skips a step rebuilds it from the bottom" works because failure is visible. Aim for one or two lines per set where the cost of getting it wrong is legible in the picture.
-- **Vary sentence length aggressively.** A four-word fragment next to a long semicolon-balanced clause creates rhythm. One very short line in a set of five lands hard; five medium-length lines blur together.
-- **Trust the reader on the verdict.** Cut adjectives and trailing clauses that editorialise the outcome of the gesture — `honestly itself`, `surprising and good`, `unexpectedly bright`, "and the bowl is better for it", "and they are right to". If the image needs a coda telling the reader it worked, the image isn't carrying its weight. End on the picture.
-
-## What to avoid
-
-- Naming the trait outright in any fortune.
-- Opening every daily with the same article + noun structure.
-- facetLow/Least depicting the ingredient failing or the reader being scolded.
-- Abstract nouns standing in for images (`patience`, `courage`, `discernment`).
-- Modern self-help vocabulary.
-- Lines that sound poetic but cannot be paraphrased into a plain meaning.
-- Trailing verdict clauses (`— and the bowl is better for it`, `— and they are right to`) that tell the reader how the gesture landed instead of letting the image do it.
+Note what the rewrite does: keeps the opener, ends on a recognizable flaw (judiciousness
+curdled into costly delay), names no abstractions, spells out no axes, and is shaped
+unlike the next file's body will be.

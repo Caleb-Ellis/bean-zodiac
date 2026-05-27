@@ -7,6 +7,11 @@ trait: wary
 dish: Smoked chickpea shawarma wrap with sumac-marinated onions and pickled turnips
 quote: Beware the bean of March.
 seasonalFortune: A season cured in low smoke. Houses smell of sumac and vinegar, and the cook tastes everything twice before the wrap is folded shut.
+fortuneMost: Keep the spare key in your pocket this week. The person asking for it is auditioning, not arriving.
+fortuneHigh: Screenshot the message before replying. The reply you draft to the screenshot is the one to send.
+fortuneMid: Someone friendly is asking too many small questions. Answer the third one wrong on purpose and watch what happens.
+fortuneLow: Say yes to the smallest invitation this week. Caution that never lets anything in is just a slower no.
+fortuneLeast: You let someone past the threshold you'd normally check. Either welcome them properly or change the locks; the in-between is the worst version.
 facetMostTitle: Brine Before the Cut
 facetMost: You hold a new acquaintance long after the room has moved on — still listening, still measuring the crunch.
 facetHighTitle: The Tight Wrap
@@ -17,15 +22,14 @@ facetLowTitle: Onions, Raw and Welcome
 facetLow: You lend the good knife on a first visit; it comes back, or it doesn't, and the day keeps going.
 facetLeastTitle: The Open Door
 facetLeast: You give the spare key on a Tuesday and forget which Tuesday by Friday.
-fortuneMost: Keep the spare key in your pocket this week. The person asking for it is auditioning, not arriving.
-fortuneHigh: Screenshot the message before replying. The reply you draft to the screenshot is the one to send.
-fortuneMid: Someone friendly is asking too many small questions. Answer the third one wrong on purpose and watch what happens.
-fortuneLow: Say yes to the smallest invitation this week. Caution that never lets anything in is just a slower no.
-fortuneLeast: You let someone past the threshold you'd normally check. Either welcome them properly or change the locks; the in-between is the worst version.
+question: A neighbour you've never spoken to knocks and asks if you can take in a parcel for them tomorrow. They are friendly and slightly insistent. You...
+answerMost: say you'll be out and watch through the curtain
+answerHigh: agree once and quietly note the apartment number
+answerMid: agree and ask what's in it
+answerLow: agree warmly and offer your number
+answerLeast: agree and invite them in for tea
 ---
 
-Cured Chickpeas are the Bean Zodiac's most wary — they have been everywhere, and they remember clearly what they found.
+Cured Chickpeas are the Bean Zodiac's most wary — they have arrived at the dinner having already looked up the host's last three jobs. They are the friend who asks twice where the recommendation came from before clicking the link, the colleague whose welcome to a new hire is courteous and unhurried and full of small tests the new hire won't notice for a month. When trust is finally extended, it means something, and the people who earn it know they have.
 
-Chickpeas fit every room without committing to any of them; Sour Beans record what they observe without softening it; Smoked Beans carry that record from somewhere that cannot be read directly.
-
-The Cured Chickpea's challenge is openness. Wariness is hard-won, but so is a wall. These Beans must find a room worth committing to.
+The cost is that the audition never quite closes. Friendships that should have moved into easy weather stay at the threshold a season longer than they need to, and some of them go home.

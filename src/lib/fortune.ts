@@ -47,6 +47,43 @@ const getQualityForSlug = (slug: string, date: Date): QualityId => {
   return qualityFromSlot(h % 8);
 };
 
+export type RitualVariant = "facet" | "question";
+
+// XOR mask keeps this hash independent from getQualityForSlug
+export const getVariantForSlug = (slug: string, date: Date): RitualVariant => {
+  let h = (daysSinceOrigin(date) ^ 0x5a5a5a5a) >>> 0;
+  for (const c of slug) h = (Math.imul(h, 31) + c.charCodeAt(0)) >>> 0;
+  return h % 2 === 0 ? "facet" : "question";
+};
+
+// Most→Least, the order answer buttons render in.
+export const ANSWER_TIERS: readonly QualityId[] = [
+  QualityIds.Heirloom,
+  QualityIds.Market,
+  QualityIds.Garden,
+  QualityIds.Stale,
+  QualityIds.Rotten,
+] as const;
+
+export const getAnswerText = (
+  zodiac: Zodiac,
+  qualityId: QualityId,
+): string | undefined => {
+  if (qualityId === QualityIds.Heirloom) return zodiac.answerMost;
+  if (qualityId === QualityIds.Market) return zodiac.answerHigh;
+  if (qualityId === QualityIds.Garden) return zodiac.answerMid;
+  if (qualityId === QualityIds.Stale) return zodiac.answerLow;
+  return zodiac.answerLeast;
+};
+
+export const hasQuestion = (zodiac: Zodiac): boolean =>
+  !!zodiac.question &&
+  !!zodiac.answerMost &&
+  !!zodiac.answerHigh &&
+  !!zodiac.answerMid &&
+  !!zodiac.answerLow &&
+  !!zodiac.answerLeast;
+
 const getDailyDimensions = (date: Date): DailyDimensions => {
   const d = daysSinceOrigin(date);
   return {

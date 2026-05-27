@@ -15,6 +15,7 @@ import BeanBadge from "../../zodiac/BeanBadge";
 import ZodiacName from "../../zodiac/ZodiacName";
 import Bean from "../../zodiac/Bean";
 import FortuneScoreBadge from "../../zodiac/FortuneScoreBadge";
+import FortuneAnswerBadge from "../../zodiac/FortuneAnswerBadge";
 import { formatDisplayDate, zodiacParts, type SeasonFilter } from "./helpers";
 
 interface YearSection {
@@ -253,20 +254,17 @@ export default function Timeline({
                         </p>
 
                         {fortuneBean && (
-                          <div className="flex flex-wrap items-center gap-2 mb-2">
-                            <p className="text-sm font-bold uppercase tracking-widest text-zinc-200">
-                              <ZodiacName
-                                flavourId={fId}
-                                formId={frId}
-                                beanId={bId}
-                                preparation={nodeProp}
-                                beanName={fortuneBean.name}
-                                zodiacId={node.fortuneZodiacId}
-                                qualityId={node.qualityId}
-                              />
-                            </p>
-                            <FortuneScoreBadge score={node.score} size="sm" />
-                          </div>
+                          <p className="text-sm font-bold uppercase tracking-widest text-zinc-200 mb-2">
+                            <ZodiacName
+                              flavourId={fId}
+                              formId={frId}
+                              beanId={bId}
+                              preparation={nodeProp}
+                              beanName={fortuneBean.name}
+                              zodiacId={node.fortuneZodiacId}
+                              qualityId={node.qualityId}
+                            />
+                          </p>
                         )}
                         {node.text ? (
                           <p className="italic text-zinc-300 text-sm mb-2">
@@ -277,9 +275,13 @@ export default function Timeline({
                             This bean had nothing to say to you this day.
                           </p>
                         )}
-                        {node.facetText && (
-                          <div className="flex items-start flex-col gap-2 flex-wrap mb-2">
-                            <p className="italic text-zinc-500 text-xs min-w-0 flex-1">
+                        {node.variant === "question" && node.question ? (
+                          <p className="italic text-zinc-500 text-xs mb-2">
+                            {node.question}
+                          </p>
+                        ) : (
+                          node.facetText && (
+                            <p className="italic text-zinc-500 text-xs mb-2">
                               {node.facetTitle && (
                                 <span className="not-italic font-semibold text-zinc-400">
                                   {node.facetTitle}:{" "}
@@ -287,8 +289,18 @@ export default function Timeline({
                               )}
                               {node.facetText}
                             </p>
-                          </div>
+                          )
                         )}
+                        <div className="flex flex-wrap items-center gap-2">
+                          {node.variant === "question" && node.answerText ? (
+                            <FortuneAnswerBadge
+                              answerText={node.answerText}
+                              size="sm"
+                            />
+                          ) : (
+                            <FortuneScoreBadge score={node.score} size="sm" />
+                          )}
+                        </div>
                       </div>
                     </div>
                   </div>

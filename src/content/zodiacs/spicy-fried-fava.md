@@ -7,25 +7,29 @@ trait: risk-taking
 dish: Ta'amiya - Egyptian fava bean falafel with green chili and cumin.
 quote: Only those who will bean far can possibly find out how far one can go.
 seasonalFortune: Oil at temperature does not wait. The season favours the cook who drops the fava in while the cumin is still loud, and counts the burns later.
+fortuneMost: Sign it. The kettle hasn't even clicked off; that's the right amount of audit.
+fortuneHigh: Jump now, math later. Mark which gut said go — that one's the line of credit.
+fortuneMid: Call the one friend who slows you down before you decide. Not for permission — for the ten seconds where you say it out loud and hear what it sounds like coming back.
+fortuneLow: Stop waiting for the all-clear. Move with what's in your hand, or put it down and pick something else up.
+fortuneLeast: Fold this hand. The bolts on the door are doing exactly what bolts are for.
 facetMostTitle: Cumin Before the Scorch
-facetMost: You answer the email, book the flight, sign the lease before the kettle clicks off.
+facetMost: At the auction you raise your hand on the third lot and only afterward read the catalogue to see what you bought.
 facetHighTitle: Chili in Whole, Stem and All
-facetHigh: You send the reply at first read — no draft, no overnight, the apology and the ask in the same breath.
+facetHigh: A friend mentions a band touring tomorrow night, three cities over; you have the tickets bought before the bill arrives.
 facetMidTitle: Fava in the Hot Pan
 facetMid: You start dinner for six without checking the fridge, trusting the chili and the cumin to cover what's missing.
 facetLowTitle: The Undried Oil
 facetLow: You set the room before anyone arrives — chairs squared, lamp angled, nothing left to improvise around.
 facetLeastTitle: The Overnight Soak
 facetLeast: You move money in slow weighed portions, paying the small bill twice before you let the larger one out the door.
-fortuneMost: Sign it. The kettle hasn't even clicked off; that's the right amount of audit.
-fortuneHigh: Jump now, math later. Mark which gut said go — that one's the line of credit.
-fortuneMid: Cook dinner for six with whatever's in the fridge. The chili covers the gap; the gap is the dish.
-fortuneLow: Stop waiting for the all-clear. Move with what's in your hand, or put it down and pick something else up.
-fortuneLeast: Fold this hand. The bolts on the door are doing exactly what bolts are for.
+question: A flat comes up — well above budget, available for one day only, requires deciding tonight. You...
+answerMost: sign the lease that evening; the numbers will sort themselves
+answerHigh: put down the deposit and figure out the budget tomorrow
+answerMid: view it, then ask one trusted person before deciding
+answerLow: let it go — a flat you can afford will turn up
+answerLeast: wouldn't have viewed it; it wasn't in the spreadsheet
 ---
 
-Red-Hot Fava Beans are the Bean Zodiac's most risk-taking — they commit before the math is finished.
+Red-Hot Fava Beans are the Bean Zodiac's most risk-taking — they sign the lease before the kettle has clicked off, book the flight on the phone in the airport, and start dinner for six trusting the chili and the cumin to cover whatever isn't in the fridge. The math gets done later, usually in the cab on the way to the thing they've already committed to.
 
-Fava Beans know the best things require starting before ideal conditions; Spicy Beans make risk urgent and demanding; Fried Beans make it immediate and irreversible.
-
-The Red-Hot Fava Bean's challenge is knowing tolerance for risk doesn't mean immunity to consequence. They must build the habit of looking back, not to second-guess, but to learn which instincts are reliable.
+They learn, eventually, that tolerance for risk isn't the same as immunity from it. The instincts are mostly good; it's the unwillingness to mark which ones weren't, and to remember that next time, that quietly raises the bill.

@@ -7,6 +7,11 @@ trait: hazy
 dish: Gigantes plaki - butter beans baked with sweet tomato, smoked paprika, and honey.
 quote: Que bean sera, sera. Whatever will bean, will bean.
 seasonalFortune: The weeks come on slow as smoke through a low oven. Tomato deepens into honey, honey into paprika, and nothing in the season insists on a single name for itself.
+fortuneMost: Take the long nap on purpose. Set no alarm and tell the group chat you'll be back at dinner.
+fortuneHigh: Cancel one thing by text and bake instead. The honey will agree with you; the calendar will get over it.
+fortuneMid: Pick one drawer. Put the things in it that belong in it. Leave the other drawers alone.
+fortuneLow: Name the time out loud — the day, the hour, the cross-street. "Soon" has been doing too much work for too long.
+fortuneLeast: Say yes or no this week, not the warm shape in between. Pick the word and use it twice.
 facetMostTitle: The Pan Past the Timer
 facetMost: Asked what you mean, you answer in adjacent sentences, circling the thing rather than pinning it, content for the listener to wander in.
 facetHighTitle: Honey in the Warm Corners
@@ -14,18 +19,17 @@ facetHigh: Plans you made on Tuesday rearrange themselves by Thursday, and you f
 facetMidTitle: Paprika Dust Where It Lands
 facetMid: You leave the books in soft piles, the laundry half-folded, the rooms arranged by approximate gravity rather than by rule.
 facetLowTitle: Flecks on the Bean's Skin
-facetLow: You answer the message in the order it asked, line by line, and close the tab when you are done.
+facetLow: You name the time and the cross-street, write it in the calendar, and arrive five minutes early in your own coat.
 facetLeastTitle: Honey and Smoke, Apart
 facetLeast: Wallet in the left pocket, keys in the right, every receipt filed the evening it arrives.
-fortuneMost: Take the long nap on purpose. Set no alarm and tell the group chat you'll be back at dinner.
-fortuneHigh: Cancel one thing today by text and bake instead. The honey will agree with you.
-fortuneMid: Pick one drawer. Put the things in it that belong in it. Leave the other drawers alone.
-fortuneLow: Name the time out loud — Thursday, 7pm. "Soon" has been doing too much work.
-fortuneLeast: Say yes or no this week, not the warm shape in between. Pick the word and use it twice.
+question: A friend asks what time you can meet on Thursday. You...
+answerMost: say "afternoon-ish, I'll let you know" and mean it warmly
+answerHigh: suggest "around three?" and leave the rest soft
+answerMid: pick three, then add "give or take"
+answerLow: say three, and start to mean three
+answerLeast: say 3:00, write it down, and arrive at 2:55
 ---
 
-Barbecued Butter Beans are the Bean Zodiac's most hazy — the warmth is real, but the edges have softened past the point of definition.
+Barbecued Butter Beans are the Bean Zodiac's most hazy — and being near them feels like an afternoon that nobody had to schedule. Conversations drift into corners and stay there; the pot stays on low; somebody puts on the second record without asking and nobody objects. They are the friend whose flat you arrive at for an hour and leave from at midnight.
 
-Butter Beans rest in comfort as a natural condition; Sweet Beans fill every surface with uncomplicated warmth; Smoked Beans give the whole thing a quality that is pleasant to be near but difficult to locate.
-
-The Barbecued Butter Bean's challenge is definition. Haze is comfortable but not nourishing. These Beans must find at least one clear edge to hold onto.
+The catch is that pinning anything down with them is its own small ordeal. "Soonish," "let me see," "around the weekend" — every commitment arrives wrapped in enough soft cotton that nobody can hold them to it later, and nobody quite tries.

@@ -7,6 +7,11 @@ trait: passionate
 dish: Adzuki chahan - Japanese fried rice with adzuki beans, soy sauce, and scallion.
 quote: Anything that gets your bean racing is worth doing!
 seasonalFortune: Their days run hot at the edges; what they love is loaded into the pan whole, and what they don't never reaches the flame.
+fortuneMost: Pour the toast you've been rehearsing. The full one — clinking glasses don't wait for edits.
+fortuneHigh: Ask the embarrassing follow-up. It's the one they were hoping you'd notice.
+fortuneMid: Mark it now. Buy the cake on the way home; the occasion is already happening whether you light a candle or not, and the candle is the proof.
+fortuneLow: The heat is real but the target is wrong. Sleep on it; rewrite the message in the morning.
+fortuneLeast: Stop refreshing the thread. It ended a while ago — close the tab, and let the heat find a target that's still on the other end.
 facetMostTitle: The Leaping Flame
 facetMost: You begin every project at full burn — no half-measures, every grain in the pan turned by the same hand.
 facetHighTitle: Soy in Seconds
@@ -16,16 +21,15 @@ facetMid: When something matters, you move on it now — calendars rearranged, t
 facetLowTitle: The Cooling Grains
 facetLow: You hold back the gesture, let the want pass through, decide later what was worth keeping.
 facetLeastTitle: The Cooled Pan
-facetLeast: Messages sit unread for days; nothing in the inbox pulls hard enough to answer.
-fortuneMost: Pour the toast you've been rehearsing. The full one — clinking glasses don't wait for edits.
-fortuneHigh: Ask the embarrassing follow-up. It's the one they were hoping you'd notice.
-fortuneMid: Mark it today. Buy the cake at lunch; the occasion is already happening whether you light a candle or not.
-fortuneLow: The heat is real but the target is wrong. Sleep on it; rewrite the message in the morning.
-fortuneLeast: Stop refreshing the thread. It ended last Tuesday — close the tab.
+facetLeast: A friend recommends the album you would have loved at twenty; you nod, mean to play it, and the file stays unopened past the year's end.
+question: A friend mentions, in passing, a band you've never heard of but they clearly adore. You...
+answerMost: cancel your evening and listen to the whole discography front to back
+answerHigh: queue the most-loved album and text them halfway through
+answerMid: save the name and put one song on tomorrow's commute
+answerLow: nod, mean to look them up, forget by dinner
+answerLeast: let it pass — you already have enough bands
 ---
 
-Tempura Adzuki Beans are the Bean Zodiac's most passionate — what deserves to be marked is, fully.
+Tempura Adzuki Beans are the Bean Zodiac's most passionate — the ones who arrive at the small dinner having read the host's novel twice and underlined the second one. They show up for what they love at full volume: the long voice note about the song, the unprompted gift that lands on a Tuesday, the toast that runs three minutes past where a toast usually stops. People remember being on the receiving end of one of these for years.
 
-Adzuki Beans know certain occasions deserve full expenditure; Umami Beans provide depth to know what that is; Fried Beans seal it before second thoughts arrive.
-
-The Tempura Adzuki Bean's challenge is knowing when passion feeds what it loves and when it consumes it. They must ask whether what they feel is a gift or a pressure the thing cannot hold.
+The trouble is that the thing being loved doesn't always have room to be loved that hard. The friend who mentioned the band once now owns a tote bag of it; the new project gets pitched, repitched, and slightly oversold before week two. It's never insincere. It's just more weather than the moment ordered.

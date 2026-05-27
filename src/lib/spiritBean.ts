@@ -5,6 +5,7 @@ import {
   type QualityId,
   type ZodiacId,
 } from "./zodiac";
+import type { RitualVariant } from "./fortune";
 import { useStore } from "../store";
 
 // Spirit rings are radar-chart neighbour orderings, distinct from the calendar
@@ -228,6 +229,10 @@ export type BeanstalkNode = {
   facetText: string;
   score: number;
   text: string | null;
+  variant: RitualVariant;
+  question: string | null;
+  answeredQuality: QualityId | null;
+  answerText: string | null;
 };
 
 export function buildBeanstalkNodes(claimedSlug: ZodiacId): BeanstalkNode[] {
@@ -251,6 +256,10 @@ export function buildBeanstalkNodes(claimedSlug: ZodiacId): BeanstalkNode[] {
       facetText: entry.facetText,
       score: entry.score || 0,
       text: entry.text ?? null,
+      variant: entry.variant ?? "facet",
+      question: entry.question ?? null,
+      answeredQuality: entry.answeredQuality ?? null,
+      answerText: entry.answerText ?? null,
     };
   });
 

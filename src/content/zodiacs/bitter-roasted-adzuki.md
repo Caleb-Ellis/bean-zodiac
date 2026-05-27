@@ -7,6 +7,11 @@ trait: polished
 dish: Roasted adzuki soup with bitter cacao and orange peel.
 quote: Have no fear of bean perfection — you'll never reach it.
 seasonalFortune: A season of long roasts and pared peels. Cacao is grated in thin curls; nothing comes to the table half-finished, and the kitchen keeps its own quiet standard.
+fortuneMost: Read it aloud. If you flinch at one word, that's the word — change it and stop fussing the rest.
+fortuneHigh: Accept the compliment in eight words or fewer. Anything past eight is you taking it back.
+fortuneMid: Fix the hem before lunch. It's been running the week from your ankle like a tiny dictator.
+fortuneLow: Wear the apron you cooked in to the table. The stain is the credential.
+fortuneLeast: Hand it over with the rough edge on. The polish you were about to do is the part they didn't want.
 facetMostTitle: The Unbroken Coil
 facetMost: Before sending any message, you read it once aloud, then once again for the comma you almost left.
 facetHighTitle: Cacao at Translucence
@@ -17,15 +22,14 @@ facetLowTitle: Peel Drying on the Board
 facetLow: You host in the apron you cooked in, ladle the soup deep, and refill before anyone asks.
 facetLeastTitle: The Pot Left to Cool
 facetLeast: Hair uncombed, same shirt as yesterday, and the day still gets opened like a clean orange — fragrance first.
-fortuneMost: Read it aloud. If you flinch at one word, that's the word — change it and stop fussing the rest.
-fortuneHigh: Accept the compliment in eight words or fewer. Anything past eight is you taking it back.
-fortuneMid: Fix the hem before lunch. It's been running the week from your ankle like a tiny dictator.
-fortuneLow: Wear the apron you cooked in to the table. The stain is the credential.
-fortuneLeast: Hand it over with the rough edge on. The polish you were about to do is the part they didn't want.
+question: You're getting dressed for an event where the outfit is going to be read. The mirror, an hour to go. You...
+answerMost: change three times until the line of the jacket sits exactly the way you want it
+answerHigh: swap the shoes, fix the cuff, then commit
+answerMid: adjust one thing and walk away from the mirror
+answerLow: trust the first choice and head out
+answerLeast: wear what's clean and leave on time
 ---
 
-Wood-Fired Adzuki Beans are the Bean Zodiac's most polished — impeccable without being cold.
+Wood-Fired Adzuki Beans are the Bean Zodiac's most polished — impeccable without being cold. Nothing leaves their hands half-done: the message read twice for the comma, the cushion straightened on the way out, the soup ladled deep and refilled before the bowl runs low. Sit at their table and you feel looked after by someone who noticed the thing you didn't say you needed.
 
-Adzuki Bean knows when something deserves marking; Bitter Beans ensure marking is genuinely earned; Roasted Beans coax everything into fullest expression without apology.
-
-The Wood-Fired Adzuki Bean's challenge is sitting with imperfection. A polished temperament can make others feel underdressed. They must occasionally let the evening be rough and stay in it.
+The cost is that they cannot quite let a thing be rough and stay in it. An evening allowed to fray a little, a draft sent with the edge still on — these read to them as small private failures, and so the rest of the room ends up feeling faintly underdressed for a party no one announced.

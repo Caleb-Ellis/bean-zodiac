@@ -7,6 +7,11 @@ trait: adamant
 dish: Spiced fava bean soup with berbere and lemon.
 quote: I am not a bean to be argued out of what I know to be right.
 seasonalFortune: A season for the long simmer. The skin holds while heat works through; what does not yield to berbere and lemon will be carried whole to the bowl.
+fortuneMost: Say the unsayable thing in the meeting. The flinch is the data; the silence after is your answer.
+fortuneHigh: Make them itemize the bill. The four dollars is the lesson; the principle is the keep.
+fortuneMid: Refuse the gentler wording. The sentence that makes one person uncomfortable is doing its job.
+fortuneLow: Read the rebuttal twice before answering. You may be defending a position no one is still attacking.
+fortuneLeast: Hold the no when the applause stops. Conviction that only survives an audience was never conviction.
 facetMostTitle: Berbere at the Bite
 facetMost: In a room of softening opinions, you name the one nobody wants named and stay where you set down.
 facetHighTitle: Lemon's Clean Cut
@@ -17,15 +22,14 @@ facetLowTitle: The Pot's New Note
 facetLow: Plans written in pencil — when the room shifts, you shift, and the evening keeps moving.
 facetLeastTitle: Water in the Bowl
 facetLeast: You enter a room already half-agreeing, slide a chair in, fold into the conversation underway.
-fortuneMost: Say the unsayable thing in the meeting. The flinch is the data; the silence after is your answer.
-fortuneHigh: Make them itemize the bill. The four dollars is the lesson; the principle is the keep.
-fortuneMid: Refuse the gentler wording. The sentence that makes one person uncomfortable is doing its job.
-fortuneLow: Read the rebuttal twice before answering. You may be defending a position no one is still attacking.
-fortuneLeast: Hold the no when the applause stops. Conviction that only survives an audience was never conviction.
+question: A vote at the table is going the wrong way and you're the lone hold-out. Three people have already turned to look at you. You...
+answerMost: name the unsayable thing aloud and sit with what follows
+answerHigh: state your no, clean, and let the silence land
+answerMid: register your reservation, then defer to the room
+answerLow: shrug, go along, plan to raise it later
+answerLeast: nod and forget you ever disagreed
 ---
 
-Braised Fava Beans are the Bean Zodiac's most adamant — once decided, nothing moves them.
+Braised Fava Beans are the Bean Zodiac's most adamant — the ones who will make a clerk itemize a four-dollar charge, name the unsayable thing in the meeting and stay where they set down while the room rearranges around them. In a softening conversation they are the spine; people who'd rather not say the thing themselves are quietly grateful that somebody is.
 
-Fava Beans move toward difficulty as a matter of course; Spicy Beans bring intensity that makes the position urgent and undismissable; Boiled Beans sustain that intensity with patient, steady heat.
-
-The Braised Fava Bean's challenge is distinguishing between principle and stubbornness. They must learn to examine whether they hold firm against the situation or against the feedback.
+The catch is that once they've planted, the planting matters more than what's planted. New information arrives, the situation turns, and the position holds anyway — defended now less because it's right than because it's theirs.
