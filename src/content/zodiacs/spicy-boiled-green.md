@@ -22,6 +22,11 @@ facetLowTitle: Peppercorn in the Tin
 facetLow: The group chat catches fire; you watch the notifications stack, then mute the thread without reading back.
 facetLeastTitle: The Pot Pushed Back
 facetLeast: You let the week pass without taking up anything, and feel the simmer build under the lid for next time.
+rorschachMost: a bonfire roaring high into the night
+rorschachHigh: a torch held up at the front of a march
+rorschachMid: a candle flame steady on a table
+rorschachLow: a single coal glowing in cold ash
+rorschachLeast: a snuffed wick with smoke trailing off
 question: A stranger at the bar mentions a small injustice they've been wronged by. You...
 answerMost: have a plan, three calls to make, and the right person to email by morning
 answerHigh: name the enemy and tell them what you'd do in their shoes

@@ -22,6 +22,11 @@ facetLowTitle: Onion in Wedges
 facetLow: You sign the form without reading the middle paragraph and the day proceeds.
 facetLeastTitle: The Untended Pot
 facetLeast: You answer texts in the order they catch your eye, and nothing in your life has suffered for it.
+rorschachMost: a ruler measuring one tiny gap
+rorschachHigh: a frame nudged exactly square on a wall
+rorschachMid: a symmetrical smear down the centre fold
+rorschachLow: a picture hung a little off-level
+rorschachLeast: paint slapped wide past the edges
 question: You spot a typo in the otherwise-perfect printed programme being handed out at a friend's event. You...
 answerMost: quietly find a pen and correct your copy, then mention it to the organiser
 answerHigh: tell one person about it by the coffee, never in front of others

@@ -28,6 +28,11 @@ answerHigh: clear what you can, take the seat, figure the rest out en route
 answerMid: agree to one night, drive back Saturday afternoon
 answerLow: ask where they're going and decide tomorrow morning
 answerLeast: thank them, wave them off, and enjoy the quiet weekend you planned
+rorschachMost: a kite torn loose over open sea
+rorschachHigh: a sail bellied out from the mast
+rorschachMid: a folded shape with frayed outer edges
+rorschachLow: a key resting in its usual dish
+rorschachLeast: a snail curled tight against its own door
 ---
 
 Peri-Peri Fava Beans are the Bean Zodiac's most adventurous — the ones whose phone is full of half-decipherable photos from the day they got off at the wrong stop and made an afternoon of it. They take the offered seat in the unfamiliar car, they order the dish they can't pronounce, they say yes to the trip that's been described to them in one sentence and a shrug.

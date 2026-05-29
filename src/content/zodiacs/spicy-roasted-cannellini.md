@@ -28,6 +28,11 @@ answerHigh: catch the panellist's eye, give a small nod, accept when they call y
 answerMid: wait to see if anyone else moves, then raise your hand
 answerLow: study the programme intently and hope someone with a louder voice obliges
 answerLeast: slip out for water and come back when the next talk has started
+rorschachMost: a flame leaning toward an open doorway
+rorschachHigh: a peacock starting to fan its tail
+rorschachMid: a blot folded twice and pressed flat
+rorschachLow: a grey coat hung on a hook
+rorschachLeast: a pebble lost among other pebbles
 ---
 
 Peri-Peri Cannellini Beans are the Bean Zodiac's most charismatic — they walk into a kitchen and the conversation reroutes mid-sentence to include them. They tell the story everyone retells later; they make the introduction that becomes the friendship; the photo from the night is the one they're in the middle of, hands moving.

@@ -28,6 +28,11 @@ answerHigh: catch the barista's eye and ask for the swap
 answerMid: ask quietly, with apology in the voice
 answerLow: drink it as is and mention it next time
 answerLeast: drink it as is and tip well on the way out
+rorschachMost: a storm cloud parked over one small house
+rorschachHigh: eyebrows pulled down into a deep furrow
+rorschachMid: an umbrella leaning shut against a wall
+rorschachLow: a sun breaking through over a calm field
+rorschachLeast: a wide grin stretched ear to ear
 ---
 
 Agrodolce Navy Beans are the Bean Zodiac's most grumpy — the standard is the standard, the world keeps missing it, and they keep keeping count. The discontent is honest; the world really has been imprecise this week. What looks like sourness from the outside is, from inside, a refusal to round up — to say "fine" about a thing that wasn't, to let a small wrong dissolve unmentioned because mentioning would be inconvenient.

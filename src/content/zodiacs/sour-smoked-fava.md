@@ -28,6 +28,11 @@ answerHigh: ask, evenly, what they meant by that
 answerMid: hold the silence one beat too long
 answerLow: change the subject loudly and move on
 answerLeast: laugh and pass the bread
+rorschachMost: a pair of jaws snapping shut
+rorschachHigh: a hornet caught against glass
+rorschachMid: two beetles meeting head to head
+rorschachLow: a sleeping cat curled on a cushion
+rorschachLeast: a feather drifting onto still water
 ---
 
 Cured Fava Beans are the Bean Zodiac's most biting — they speak the sentence the rest of the table has decided not to. They are the friend who, when the conversation politely edges past the obvious thing, walks straight back to it and names it; the colleague who replies to the careful memo with the question it was designed to prevent. The air after they speak is fresher than it has been all week, and they know it.

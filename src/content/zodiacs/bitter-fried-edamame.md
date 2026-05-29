@@ -28,6 +28,11 @@ answerHigh: name the one within a minute, no hedge
 answerMid: weigh them aloud, then commit
 answerLow: lean toward one but leave the door open
 answerLeast: hand it back and ask them to choose
+rorschachMost: a single clean cut through a folded ribbon
+rorschachHigh: an arrow already loosed from the bow
+rorschachMid: two acorns side by side on a sill
+rorschachLow: a coin caught spinning on its rim
+rorschachLeast: a maze of doorways with no way marked
 ---
 
 Scorched Edamame are the Bean Zodiac's most decisive. They name the rent, the route, the no in a single sentence and let the room adjust around it; the inbox empties because each message meets its verdict on opening. The deciding usually happened days ago — quietly, thoroughly — and what others see is only the clean cut at the end.

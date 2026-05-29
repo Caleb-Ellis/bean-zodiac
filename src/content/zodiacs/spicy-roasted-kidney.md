@@ -28,6 +28,11 @@ answerHigh: send a long reply now while it's hot
 answerMid: send a short honest reply and wait for their call
 answerLow: leave it overnight and decide tomorrow whether it's worth raising
 answerLeast: let it go, they didn't know, no point making weather of it
+rorschachMost: a storm front bruising across the page
+rorschachHigh: a face caught mid-shout
+rorschachMid: a blot bled out from a wet fold
+rorschachLow: a still lake holding the sky flat
+rorschachLeast: a smooth mask with no expression
 ---
 
 Peri-Peri Kidney Beans are the Bean Zodiac's most emotive — the ones whose front door announces the weather they've brought home with them, whose voice notes are six minutes long and end mid-thought, whose laugh fills the restaurant two tables over. Nothing gets metabolised in private; whatever they feel arrives in the room at full strength, and the room is rarely sorry about it.

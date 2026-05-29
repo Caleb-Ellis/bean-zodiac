@@ -22,6 +22,11 @@ facetLowTitle: The Folded Receipt
 facetLow: Drawers full of small good things — pens, ribbons, a fine afternoon's keepsake. Nothing leaves your keeping without a fight.
 facetLeastTitle: The Second Cruet
 facetLeast: You set out the bread, the dish of salt; the table grows crowded and you keep adding what someone might reach for.
+rorschachMost: a single bowl in an empty room
+rorschachHigh: one nail on a long blank wall
+rorschachMid: a candle burning on a bare table
+rorschachLow: a shelf stacked two deep with jars
+rorschachLeast: a market stall heaped past the edges
 question: You're packing for a week away. The bag has room for one more thing. You...
 answerMost: close the bag, you already have too much
 answerHigh: take one item back out instead

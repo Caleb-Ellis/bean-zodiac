@@ -28,6 +28,11 @@ answerHigh: say something on the way out, edged, and don't soften it
 answerMid: wash it without comment and add a tally mark in your head
 answerLow: text them something light about it later
 answerLeast: forget it by the time you're at the bus stop
+rorschachMost: a mousetrap drawn back on its hinge
+rorschachHigh: a bowstring pulled taut to the cheek
+rorschachMid: a coiled rope on a dock
+rorschachLow: a spring left slack in a box
+rorschachLeast: a snapped trap lying flat and spent
 ---
 
 Sichuan Kidney Beans are the Bean Zodiac's most primed — and not, strictly speaking, angry people. They are people in whom small things accrue quietly, the way a kettle gets quietly warm, and then one ordinary Wednesday someone uses the wrong tone at the wrong minute and the kettle is suddenly whistling.

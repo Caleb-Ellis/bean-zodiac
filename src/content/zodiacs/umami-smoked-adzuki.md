@@ -28,6 +28,11 @@ answerHigh: walk them to the porch and wait until they've opened it
 answerMid: hand it over with both hands and a small nod
 answerLow: pass it over while you're still pulling your coat on
 answerLeast: toss it on the counter and tell them to grab it on their way out
+rorschachMost: an altar with two candles and a covered dish
+rorschachHigh: a folded cloth laid over something small
+rorschachMid: two moths meeting at the center of a lamp
+rorschachLow: a paper bag tipped over on a curb
+rorschachLeast: junk swept into a careless heap
 ---
 
 Hickory Adzuki Beans are the Bean Zodiac's most hallowed — they treat ordinary Tuesdays like something passed down. A coworker mentions a small good thing and they go quiet for a beat too long, looking for the right way to mark it; the toast at dinner is three sentences when one would do, and nobody minds because the room has already tilted toward them.

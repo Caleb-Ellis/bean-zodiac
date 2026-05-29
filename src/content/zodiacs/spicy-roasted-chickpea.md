@@ -28,6 +28,11 @@ answerHigh: send the text, suggest a coffee, pin the calendar invite
 answerMid: send a short hello and see what comes back
 answerLow: leave the draft, figure you'll bump into them at the next wedding
 answerLeast: delete the draft and the contact, the moment was the moment
+rorschachMost: a long table crowded with raised glasses
+rorschachHigh: a flock settling together on one wire
+rorschachMid: a thumbprint smudged across damp paper
+rorschachLow: one window lit in a dark row of houses
+rorschachLeast: a hermit crab pulled deep into its shell
 ---
 
 Peri-Peri Chickpeas are the Bean Zodiac's most sociable — the ones who know the barista's dog's name, who get cc'd on the group plan before they've said they're coming, who can fall into a conversation with a stranger at the bus stop and somehow leave with a restaurant recommendation. Their address book is enormous and warm and most of it is genuinely fond of them.

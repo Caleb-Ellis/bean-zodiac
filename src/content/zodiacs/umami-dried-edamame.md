@@ -28,6 +28,11 @@ answerHigh: drop a quiet word to the presenter afterwards, just for the next tim
 answerMid: ping the organizer before the meeting to fix the slide
 answerLow: speak up at the meeting to credit yourself when the slide appears
 answerLeast: send a thread to the whole team correcting the record line by line
+rorschachMost: a footing poured deep below the first floor
+rorschachHigh: tree roots holding a slope in place
+rorschachMid: two pebbles side by side on sand
+rorschachLow: a kite straining at the end of its string
+rorschachLeast: a leaf skittering loose across pavement
 ---
 
 Aged Edamame are the Bean Zodiac's most foundational — the soaked stock left on the back burner overnight that the next day's whole household is, without knowing it, built on. They draft the scaffolding the brighter names will stand on, stock the cupboard before the week asks anything of them, and slip out of the meeting before the credit gets handed around.

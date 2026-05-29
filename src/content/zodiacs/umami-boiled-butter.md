@@ -22,6 +22,11 @@ facetLowTitle: Broth Skimmed Hot
 facetLow: You sleep light, wake at the first creak in the hallway, and the night belongs to whoever else is awake in it.
 facetLeastTitle: The Burner Turned High
 facetLeast: Three coffees by ten and you're still ahead of the room; the body has not yet remembered that tired is a thing it does.
+rorschachMost: a cat curled into itself on a cushion
+rorschachHigh: a blanket slumped half off the couch
+rorschachMid: steam fogging the whole of a window
+rorschachLow: a lamp left on in a far window
+rorschachLeast: two wide eyes open in the dark
 question: It's a Sunday afternoon and a soft rain has started. You have errands to run, a friend you said you'd call, and a half-finished book on the couch. You...
 answerMost: pull the blanket up and let the rest of the day be a nap
 answerHigh: pick up the book, intending one chapter, and surface at dusk

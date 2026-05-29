@@ -1,5 +1,4 @@
 import { useEffect, useState } from "react";
-import Markdown from "react-markdown";
 import {
   getPreparationName,
   getZodiacMetadataForDate,
@@ -24,13 +23,7 @@ interface Props {
   showQuote?: boolean;
 }
 
-export default function UnclaimedHome({
-  data,
-  date,
-  showContent,
-  showFortune,
-  showQuote,
-}: Props) {
+export default function UnclaimedHome({ data, date, showQuote }: Props) {
   const meta = getZodiacMetadataForDate(date);
   const bean = data.beans[meta.beanId];
   const flavour = data.flavours[meta.flavourId];

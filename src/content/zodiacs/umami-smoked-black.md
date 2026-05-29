@@ -28,6 +28,11 @@ answerHigh: half-smile, then ask the previous speaker to finish their thought
 answerMid: laugh a beat after everyone else and let it pass
 answerLow: laugh with the table and add the next line
 answerLeast: cackle, lean back, and start telling a worse one
+rorschachMost: a bowed head under a heavy stone arch
+rorschachHigh: a long coat hung alone on a hook
+rorschachMid: two ravens perched on a bare branch
+rorschachLow: a party hat skewed on its side
+rorschachLeast: confetti caught mid-burst over a crowd
 ---
 
 Hickory Black Beans are the Bean Zodiac's most solemn — they walk into a room and the volume drops a notch without anyone deciding to drop it. They write the email three times before sending. They take the long pause before answering "how are you," because the short version isn't true and the true version isn't short.

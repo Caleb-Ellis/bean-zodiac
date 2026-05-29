@@ -22,6 +22,11 @@ facetLowTitle: Honey Skimmed Early
 facetLow: You hear "let's figure it out later" and let it pass, knowing later will not come.
 facetLeastTitle: The Quick Spoon
 facetLeast: You ask once, accept the first sidestep, and walk away grateful you did not have to repeat yourself.
+rorschachMost: a fist knocking again on a shut door
+rorschachHigh: a drip carving a groove in stone
+rorschachMid: a clock face with both hands raised
+rorschachLow: a hand letting a rope slide free
+rorschachLeast: a paper boat drifting off downstream
 question: You emailed your landlord about a slow leak three weeks ago and heard nothing back. You...
 answerMost: send the same warm follow-up every Monday until it's fixed
 answerHigh: send a polite second email this week

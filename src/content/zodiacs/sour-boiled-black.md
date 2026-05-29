@@ -28,6 +28,11 @@ answerHigh: quietly sort the loose screws while they keep going
 answerMid: do step one yourself while they do step four
 answerLow: shrug and grab the nearest panel
 answerLeast: throw the instructions on the sofa and start guessing
+rorschachMost: a ladder, each rung evenly spaced
+rorschachHigh: a row of jars sorted tallest to shortest
+rorschachMid: a beetle seen from above
+rorschachLow: a drawer of cutlery tipped onto the floor
+rorschachLeast: a knot with no end you could pull
 ---
 
 Brined Black Beans are the Bean Zodiac's most methodical. The sequence is not a preference; it is how the thinking happens. Step two only makes sense once step one has finished closing behind it, and rushing them past a stage feels, to them, like being asked to read a sentence with the verb missing. Given a real problem and the room to handle it in order, they produce work that holds up under weather the planner didn't predict.

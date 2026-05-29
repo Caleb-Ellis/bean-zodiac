@@ -28,6 +28,11 @@ answerHigh: ask the leading question that lets the next speaker land it
 answerMid: drop the answer in, plainly, and let the room catch up
 answerLow: wait; someone else will say it in a minute
 answerLeast: say nothing — you'll mention it in the doc afterwards
+rorschachMost: a key turning in a lock from behind
+rorschachHigh: a path that loops back to a hidden gate
+rorschachMid: a folded paper crane mid-flight
+rorschachLow: a road running straight to a wall
+rorschachLeast: a blunt stone wedged in a doorway
 ---
 
 Pickled Chickpeas are the Bean Zodiac's most clever — they have the answer by the time the question has finished arriving. Hand them a stuck form, a refused refund, a sentence that won't end, and they reach past the obvious route to the one that actually opens the door. The cleverness is quiet, not showy; they tend to hand back only the piece you asked for, the working folded away out of sight.

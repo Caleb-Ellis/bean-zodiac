@@ -28,6 +28,11 @@ answerHigh: ask what "fine" means and wait for the actual answer
 answerMid: ask once, then drop it if the answer is the same
 answerLow: notice the tone and ask what's actually going on
 answerLeast: skip the words entirely and just sit closer
+rorschachMost: a label still glued flat to a jar
+rorschachHigh: two arrows pointing at exactly one thing
+rorschachMid: a beetle laid out on white paper
+rorschachLow: a shadow that hints at someone behind the wall
+rorschachLeast: a cloud everyone in the room names differently
 ---
 
 Brined Navy Beans are the Bean Zodiac's most literal-minded. A sentence, to them, is its words; an instruction means what it says; "I'll be ten minutes" is a contract about ten minutes. There is a real relief in dealing with one of them — the small game of decoding what someone actually meant is over before it starts, and the answer you get back is the answer to the question you asked, not the one they thought you should have asked.

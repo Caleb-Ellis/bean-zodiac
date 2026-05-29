@@ -90,12 +90,17 @@ export type ZodiacSchema = {
   fortuneMid: string;
   fortuneHigh: string;
   fortuneMost: string;
-  question?: string;
-  answerMost?: string;
-  answerHigh?: string;
-  answerMid?: string;
-  answerLow?: string;
-  answerLeast?: string;
+  question: string;
+  answerMost: string;
+  answerHigh: string;
+  answerMid: string;
+  answerLow: string;
+  answerLeast: string;
+  rorschachMost?: string;
+  rorschachHigh?: string;
+  rorschachMid?: string;
+  rorschachLow?: string;
+  rorschachLeast?: string;
 };
 
 export type Bean = BeanSchema & { content: string };

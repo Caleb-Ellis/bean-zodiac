@@ -28,6 +28,11 @@ answerHigh: send a small thoughtful thing on the worst day
 answerMid: text them once mid-week to say you're thinking of them
 answerLow: make a mental note and wait for them to reach out
 answerLeast: hear it, forget it, and ask in a month how things went
+rorschachMost: two hands cupped around something fragile
+rorschachHigh: a bird settled low over a clutch of eggs
+rorschachMid: a bowl with a spoon resting in it
+rorschachLow: a coat slung over the back of a chair
+rorschachLeast: an empty bench at the edge of a path
 ---
 
 Chipotle Mung Beans are the Bean Zodiac's most invested — they remember the offhand worry you mentioned in February and ask about it, gently, in June. The birthday gift arrives with the inside joke from a dinner two years ago. They've kept the thread when everyone else dropped it, and the people they tend often only learn the full extent of it years later, accidentally, from someone else.

@@ -28,6 +28,11 @@ answerHigh: open three tabs and start sketching it in
 answerMid: agree to talk it through over coffee tomorrow
 answerLow: say "fun" and let it pass
 answerLeast: don't bring it up again
+rorschachMost: a firework bursting at the top of its climb
+rorschachHigh: a dog leaping for a thrown ball
+rorschachMid: two socks tumbling in a dryer
+rorschachLow: a candle flame held steady in still air
+rorschachLeast: a cat asleep on a windowsill at dusk
 ---
 
 Scorched Green Beans are the Bean Zodiac's most excitable. They answer the thread the second it lights up, start the new thing the night they hear about it, introduce themselves to the stranger in the queue and mean it — and the enthusiasm isn't scattershot, it has aim. People warm to them fast, because the excitement is real and pointed at something.

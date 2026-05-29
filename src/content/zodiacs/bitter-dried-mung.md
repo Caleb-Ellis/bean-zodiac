@@ -22,6 +22,11 @@ facetLowTitle: The Dal's Own Hour
 facetLow: You leave when the leaving feels right. A rough hour is still an hour, and it has always been enough.
 facetLeastTitle: Turmeric Till Gold
 facetLeast: The recipe lives in the wrist; the scale is in a drawer you have not opened.
+rorschachMost: forceps laid out on a steel tray
+rorschachHigh: a measuring scale balanced level
+rorschachMid: a grid ruled in clean straight lines
+rorschachLow: two hands clasped over a cup of tea
+rorschachLeast: a face crumpling mid-sob
 question: A pipe lets go behind the wall at 11pm. Water is moving and no one in the house knows what to do. You...
 answerMost: find the stopcock, kill the supply, photograph the damage, call the plumber's out-of-hours line
 answerHigh: shut the water off and start a list of what to do at dawn

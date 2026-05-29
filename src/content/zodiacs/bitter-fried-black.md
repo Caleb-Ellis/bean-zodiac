@@ -28,6 +28,11 @@ answerHigh: ask one quiet question that skips three paragraphs
 answerMid: let them get to the middle, then steer
 answerLow: hear the whole thing and offer a soft read at the end
 answerLeast: nod through it and ask nothing
+rorschachMost: a scalpel laid open across a dissected moth
+rorschachHigh: a key fitted exactly into a small lock
+rorschachMid: a pair of mittens hung on a line
+rorschachLow: a sealed envelope nobody has opened
+rorschachLeast: fog over a field with nothing picked out
 ---
 
 Scorched Black Beans are the Bean Zodiac's most forensic. A friend can circle a problem for twenty minutes and one of these Beans will, in a single sentence, name the thing being circled — the question avoided, the clause that actually binds, the disagreement the meeting has been politely billing hours against. They see the shape of a thing while everyone else is still describing the surface.

@@ -28,6 +28,11 @@ answerHigh: pull them aside and give them the real, kind sentence
 answerMid: answer the question and then turn it into a hug
 answerLow: give a soft, easy answer and offer ice cream
 answerLeast: say "ask me later" and ruffle their hair
+rorschachMost: a heavy anchor settled deep in still water
+rorschachHigh: a closed book left open-side down on a desk
+rorschachMid: an envelope sealed and waiting on a shelf
+rorschachLow: a paper hat tipped at a jaunty angle
+rorschachLeast: a string of balloons bobbing off a railing
 ---
 
 Tempura Mung Beans are the Bean Zodiac's most serious — the ones who, when a friend brings them a small worry, set the laptop aside and treat the worry at full size. Asked how their week was, they actually answer. The reply to a tricky email arrives slower than the room hoped and lands at the exact weight it needed.

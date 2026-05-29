@@ -22,6 +22,11 @@ facetLowTitle: One Pot, One Note
 facetLow: You keep the same mug, the same chair, the same route home, and the repetition steadies you.
 facetLeastTitle: Onion Stays Onion
 facetLeast: Strangers guess your job on the first try; nothing about you needs a second pass.
+rorschachMost: an oil slick shifting colour on wet tarmac
+rorschachHigh: a beetle's shell catching the light at an angle
+rorschachMid: two fish circling in a shallow pool
+rorschachLow: a single grey stone on a windowsill
+rorschachLeast: a wall painted one flat colour, edge to edge
 question: Two friends from different parts of your life ask, the same week, what you've been up to. You...
 answerMost: tell each one a different story, shaped to the room they're standing in
 answerHigh: pick the angle each will care about and lead with it

@@ -28,6 +28,11 @@ answerHigh: pull out three things and find them new homes in the drawer
 answerMid: keep one, photograph two, donate the rest
 answerLow: skim the top layer and tape it up for the charity bin
 answerLeast: drop the whole box at the curb without opening it
+rorschachMost: a pressed flower kept flat between two old pages
+rorschachHigh: a coat left hanging in a room nobody uses
+rorschachMid: two halves of an open walnut shell
+rorschachLow: a fresh page with the ink still wet
+rorschachLeast: an empty room swept clean for new tenants
 ---
 
 Cultured Adzuki Beans are the Bean Zodiac's most nostalgic — and they keep the receipts. They know which café it was, what song was on, who said the thing that everyone else has forgotten was ever said. They don't romanticize the past so much as refuse to let any of it be thrown out, and there's a quiet generosity in that: someone has to remember the good years on everyone's behalf.

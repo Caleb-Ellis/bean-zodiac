@@ -22,6 +22,11 @@ facetLowTitle: The Corked Jar
 facetLow: Your own wine stays on the shelf. What is yours stays yours, and nobody is poorer for it.
 facetLeastTitle: The Sweetness Under the Lid
 facetLeast: Messages sit unanswered until the asker circles back twice; the spoon stays put until someone reaches for it.
+rorschachMost: two hands cupped around a small bird
+rorschachHigh: an open gate at the end of a path
+rorschachMid: a folded napkin beside a plate
+rorschachLow: a locked drawer with the key removed
+rorschachLeast: a bare branch over a frozen pond
 question: A coworker mentions in passing that they're moving apartments this weekend. You...
 answerMost: offer your car and your Saturday before they finish the sentence
 answerHigh: ask which day and say you'd be glad to help

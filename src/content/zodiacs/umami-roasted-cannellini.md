@@ -22,6 +22,11 @@ facetLowTitle: The Shape Under the Crust
 facetLow: A room in your house stays closed to most visitors; the door is not refusal, only yours.
 facetLeastTitle: Embers Slow to Give
 facetLeast: An apology you owe ages on the shelf; you trust it will be understood in time.
+rorschachMost: a chest with the lid swung open and lining shown
+rorschachHigh: a hand passing a folded note across a table
+rorschachMid: two cellos leaning into one another
+rorschachLow: a sealed envelope held behind a back
+rorschachLeast: a vault door welded shut at the seam
 question: You're at a small dinner and the conversation lands, by accident, on the exact thing you've been carrying for a month. You...
 answerMost: tell the whole table — this is the moment, these are the people
 answerHigh: tell the one person you trust, quietly, after the plates go

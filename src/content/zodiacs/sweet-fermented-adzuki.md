@@ -28,6 +28,11 @@ answerHigh: text them the one photo with no caption
 answerMid: smile, agree it's wild, change the subject
 answerLow: realize you'd forgotten and feel briefly hollow about it
 answerLeast: ask which trip
+rorschachMost: a shoebox of ticket stubs someone kept for years
+rorschachHigh: two hands holding onto a folded letter
+rorschachMid: a moth with its wings spread open
+rorschachLow: a door swinging shut on an empty room
+rorschachLeast: a clean page with nothing written on it
 ---
 
 Funky Adzuki Beans are the Bean Zodiac's most sentimental — the ones who remember what afternoon it was, what you were wearing, what song was playing in the background of a conversation no one else logged. They keep the ticket stub, the half-finished card, the voicemail from the friend who's since moved away. When they bring it up years later, it lands like a small inheritance — proof that the moment was worth keeping.

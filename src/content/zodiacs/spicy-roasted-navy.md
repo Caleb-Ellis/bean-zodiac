@@ -28,6 +28,11 @@ answerHigh: accept the van, drive it yourself, return it with the tank full
 answerMid: take the van and the help for the heavy stuff only
 answerLow: accept gratefully and let them take charge of the day
 answerLeast: accept, and ask if they can rope in one more person while they're at it
+rorschachMost: a single tree standing in open field
+rorschachHigh: a lone tower above a low wall
+rorschachMid: a blot creased once down the spine
+rorschachLow: two figures sharing one umbrella
+rorschachLeast: hands cupped open waiting to be filled
 ---
 
 Peri-Peri Navy Beans are the Bean Zodiac's most self-reliant — the ones who already fixed the leak before anyone noticed it was leaking, who carry the cash for the cab and the spare key and the painkillers nobody else thought to bring. Ask them how the week's been and you get "fine"; the actual answer would involve admitting a logistics problem they already solved on Tuesday.

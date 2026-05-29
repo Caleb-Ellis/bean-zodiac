@@ -28,6 +28,11 @@ answerHigh: send the two real options and ask for votes by seven
 answerMid: suggest a place and add "open to other ideas"
 answerLow: react to the most recent message with a thumbs up
 answerLeast: scroll back and weigh in on the parking
+rorschachMost: an arrow flying straight at the center of a target
+rorschachHigh: a nail driven flush into a plank
+rorschachMid: a leaf pressed flat between two pages
+rorschachLow: a river bending twice around the same hill
+rorschachLeast: a ball of yarn unspooled into a tangled knot
 ---
 
 Agrodolce Black Beans are the Bean Zodiac's most direct — they finish sentences other people are still trying to start. Watch one in a meeting that's been circling for half an hour and you'll see the moment they decide the air has had enough; the verdict comes out flat, accurate, and twenty minutes earlier than anyone else was prepared for.

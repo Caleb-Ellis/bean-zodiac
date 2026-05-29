@@ -22,6 +22,11 @@ facetLowTitle: The Lid Taped on
 facetLow: You return the borrowed dish washed, on time, with the lid taped on. The thank-you note is already in the mail.
 facetLeastTitle: The Jar in Its Place
 facetLeast: You like the bus you take, the chair you sit in, the bowl you eat from. The gochugaru jar lives where the gochugaru jar lives.
+rorschachMost: a map with the roads drawn nowhere real
+rorschachHigh: a kite flown without a string
+rorschachMid: two stones balanced on a ledge
+rorschachLow: a recipe card stained from long use
+rorschachLeast: a ruled grid filled in box by box
 question: A simple recipe, the staples missing, the shops closed for the night. You...
 answerMost: improvise something stranger and better from whatever the cupboard actually contains
 answerHigh: swap two ingredients for cousins and see what happens

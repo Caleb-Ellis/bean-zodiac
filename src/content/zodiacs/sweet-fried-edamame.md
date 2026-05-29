@@ -28,6 +28,11 @@ answerHigh: write a list and start on the most useful thing
 answerMid: drift through breakfast, then pick one thing to tackle
 answerLow: take the morning slow and see what wants doing
 answerLeast: go back to sleep and let the day arrive on its own
+rorschachMost: a sprinter coiled over the starting blocks
+rorschachHigh: two wings lifting off the ground
+rorschachMid: a pair of kites tugging at their strings
+rorschachLow: a kettle gone cold on the stove
+rorschachLeast: a blanket pooled at the foot of a bed
 ---
 
 Caramelised Edamame are the Bean Zodiac's most motivated — the ones who turn waking up into a soft propulsion, errands done before most people have found their socks. The drive is warm rather than grim; they bring a coffee on the way back, they text the friend whose meeting they know is at ten. Around them the day's friction lowers and other people remember they wanted to be doing something too.

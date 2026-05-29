@@ -28,6 +28,11 @@ answerHigh: nod along, file the parallel away, and stay with theirs
 answerMid: wait until they're done, then offer the parallel briefly
 answerLow: keep listening; what happened to you isn't quite the same
 answerLeast: ask the question that pulls them somewhere you haven't been
+rorschachMost: a bowl of soup left steaming on a doorstep
+rorschachHigh: a blanket draped around someone's shoulders
+rorschachMid: two pine nuts floating in a wide cup
+rorschachLow: a locked gate at the end of a path
+rorschachLeast: a frost-covered window with no light behind it
 ---
 
 Funky Kidney Beans are the Bean Zodiac's most sympathetic — the ones who have been through their own hard winter and come out of it carrying something useful, not bitter. When a friend turns up shaken, they put the kettle on before asking what happened, and the warmth of the gesture does half the work. Years of their own grief have been quietly composted into a steadiness other people can lean against.

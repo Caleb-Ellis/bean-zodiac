@@ -28,6 +28,11 @@ answerHigh: hold the Thursdays through the end of the year and see what stays
 answerMid: pause it for a month and see if anyone notices
 answerLow: text the group that you're ending it, with thanks
 answerLeast: skip this Thursday and never bring it up again
+rorschachMost: a lighthouse still standing after the storm
+rorschachHigh: a stone bridge worn smooth by centuries
+rorschachMid: two acorns lying in the grass
+rorschachLow: a sandcastle with the tide coming in
+rorschachLeast: a snowflake melting on a warm palm
 ---
 
 Aged Navy Beans are the Bean Zodiac's most enduring — same chair, same notebook, same Thursday standing reservation that has now outlasted three of the people on the original list. The work thickens behind them by years rather than weeks, and there is a real beauty in the slow darkening of something nobody else stayed with long enough to see.

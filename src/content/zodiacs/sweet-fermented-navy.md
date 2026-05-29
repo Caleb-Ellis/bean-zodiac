@@ -28,6 +28,11 @@ answerHigh: send three warm declines and put dinner on for one
 answerMid: pick the smallest of the three
 answerLow: pick the busiest and go straight there
 answerLeast: reply yes to all three and stitch them into one night
+rorschachMost: a single lamp lit in a shuttered house
+rorschachHigh: a snail withdrawn into its coiled shell
+rorschachMid: a covered dish set on a counter
+rorschachLow: three figures gathered around a table
+rorschachLeast: a crowded square spilling over with dancers
 ---
 
 Funky Navy Beans are the Bean Zodiac's most introverted — the ones who decline the party with relief, bake an elaborate pudding for an audience of one, and find the evening richer for it. Their interior is not empty or austere; it is furnished with care, and they spend long hours in it gladly. The friends who get them understand the silence isn't withdrawal — it's habitation.

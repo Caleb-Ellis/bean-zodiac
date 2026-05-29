@@ -28,6 +28,11 @@ answerHigh: say the steady thing, gently, no advice
 answerMid: listen, sympathise, ask if they want a plan or a hug
 answerLow: start problem-solving by minute two
 answerLeast: cut in with the story of when it happened to you
+rorschachMost: a pond with no wind on it
+rorschachHigh: a cat asleep in a square of sun
+rorschachMid: a butterfly with both wings open flat
+rorschachLow: a kettle just starting to rattle
+rorschachLeast: sparks thrown off a turning grindstone
 ---
 
 Crystallised Butter Beans are the Bean Zodiac's most serene. A room with one in it runs a little slower; voices drop; whoever was about to start an argument sets it down and forgets to pick it back up. They answer hard messages by morning instead of within the hour, and the answer is always better for the wait.

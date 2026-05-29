@@ -22,6 +22,11 @@ facetLowTitle: Salt, Nothing Else
 facetLow: At home you cook one good thing and stop, the kitchen quiet by eight.
 facetLeastTitle: Truffle at Its Sharpest
 facetLeast: You send a friend the plain card with their name on it, no flourish, and trust the name to be the whole gesture.
+rorschachMost: a chandelier dripping with too many crystals
+rorschachHigh: a peacock with its whole tail thrown open
+rorschachMid: two owls perched on a branching candelabra
+rorschachLow: a single chair in a bare white room
+rorschachLeast: a bare plate with one grain at the center
 question: A friend's birthday is next week and you're at the shop in front of two bottles — a fine one and an absurd one. You...
 answerMost: buy the absurd one and a card the size of a placemat
 answerHigh: buy the fine one and add flowers on the way over

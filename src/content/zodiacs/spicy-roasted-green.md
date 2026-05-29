@@ -28,6 +28,11 @@ answerHigh: name one real bright spot, then listen properly for an hour
 answerMid: let them vent, agree it's hard, ask what they need from you
 answerLow: sit with the bad news, ask the hard questions, don't reach for silver linings
 answerLeast: gently raise the things they might want to change before the next one
+rorschachMost: a sunrise breaking over two open palms
+rorschachHigh: a sprout pushing up through cracked ground
+rorschachMid: an inkblot folded along a soft crease
+rorschachLow: a cloud thickening over a low hill
+rorschachLeast: a shut umbrella dripping in a hall
 ---
 
 Peri-Peri Green Beans are the Bean Zodiac's most optimistic — the ones who arrive at the cancelled flight already pricing the train, the ones whose first reply to bad news is the small live thing inside it. They are unembarrassed cheerleaders for other people's half-formed plans, and their own plans get launched on the strength of the next-step alone.

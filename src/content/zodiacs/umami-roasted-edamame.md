@@ -22,6 +22,11 @@ facetLowTitle: Nori Salt, Wide Board
 facetLow: Notifications pile up unread; you trust the important thing will find you twice.
 facetLeastTitle: Pan Pulled Early
 facetLeast: You leave a thing the moment it stops moving, and the next thing is already calling.
+rorschachMost: a hawk fixed on a single point in the grass
+rorschachHigh: a magnifying glass held over a pinned leaf
+rorschachMid: two seahorses curled toward a thread of weed
+rorschachLow: a TV left on in an empty room
+rorschachLeast: a window fogged over so nothing reads through
 question: A friend pauses mid-sentence, the kind of pause that could be the end or the middle. You...
 answerMost: wait through it without moving
 answerHigh: hold the silence and watch their face

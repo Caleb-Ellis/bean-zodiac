@@ -28,6 +28,11 @@ answerHigh: name the one part that doesn't work and say no more
 answerMid: ask what they think first, then meet them halfway
 answerLow: praise what works and leave the rest for later
 answerLeast: tell them it's wonderful, the rest is detail
+rorschachMost: a raw onion cut clean down the middle
+rorschachHigh: a wasp pinned mid-sting
+rorschachMid: two oars dipped in still water
+rorschachLow: a peach halved around its stone
+rorschachLeast: a sugar cube dissolving in warm tea
 ---
 
 Dehydrated Fava Beans are the Bean Zodiac's most acerbic. They are the friend whose opinion you ask precisely because you know it won't be wrapped — the verdict comes in one sentence, accurate, and the half-thought-out plan dies on the table where it should have. People trust them with the manuscript, the haircut, the resignation letter, because they will not bother to flatter and they will not bother to lie.

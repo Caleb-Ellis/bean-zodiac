@@ -28,6 +28,11 @@ answerHigh: take a breath and rebook on your phone
 answerMid: sigh and join the line
 answerLow: mutter loudly enough for the desk to hear
 answerLeast: argue with the gate agent on principle
+rorschachMost: a candle that hasn't guttered through a long open window
+rorschachHigh: a stone at the bottom of a stream, edges already gone
+rorschachMid: two leaves pressed flat in an old book
+rorschachLow: a kettle whistling unattended on a hot ring
+rorschachLeast: a plate dropped, mid-air, fractions of a second before the floor
 ---
 
 Infused Butter Beans are the Bean Zodiac's most composed — the one who takes the bad phone call, says "okay, thank you for letting me know," and calmly goes back to chopping the onion. It isn't an act; the steadiness goes all the way down. In a crisis they're the person everyone unconsciously orients toward, the still point that lets the rest of the room stop spinning, and they carry it without ever seeming to try.

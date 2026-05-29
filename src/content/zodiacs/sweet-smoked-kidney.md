@@ -22,6 +22,11 @@ facetLowTitle: Rice Cooled on the Counter
 facetLow: The gesture is on time and the warmth is somewhere else; you do the thing and trust the doing counts.
 facetLeastTitle: Thyme Kept Dry
 facetLeast: You catch yourself reciting the words for love without the warmth behind them; the practice has hollowed.
+rorschachMost: two figures leaning their foreheads together
+rorschachHigh: a pair of hands cupped around a small flame
+rorschachMid: two birds sharing one branch
+rorschachLow: a single chair turned toward the window
+rorschachLeast: two stones lying apart on cold ground
 question: Someone you love has had a rough day and is sitting quietly on the sofa. You...
 answerMost: cook the meal they like without mentioning why, and put it in front of them
 answerHigh: make tea, sit nearby, leave the talking to them

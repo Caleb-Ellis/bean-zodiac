@@ -22,6 +22,11 @@ facetLowTitle: Dropped in Cold Water
 facetLow: You answer fast and live with the answer; the chard sharpens you, it doesn't slow you.
 facetLeastTitle: Chopped Before It's Washed
 facetLeast: You rearrange the room as the thought arrives, and the kitchen catches up to you.
+rorschachMost: an eye half-hidden behind a curtain
+rorschachHigh: a cat crouched at the lip of a sill
+rorschachMid: two pebbles balanced on a ledge
+rorschachLow: a figure stepping off a high diving board
+rorschachLeast: a bird flung straight into open sky
 question: An invitation arrives for a weekend you're free. The host is a friend of a friend. You...
 answerMost: leave it open and watch what else comes in
 answerHigh: ask who else is going before replying

@@ -22,6 +22,11 @@ facetLowTitle: The Covered Pot
 facetLow: Sweetness offered too early thins. You let the pot sit, and speak only after the rice cake has browned.
 facetLeastTitle: Grey Light, Unsweetened
 facetLeast: You settle into the grey morning and do not reach for sugar.
+rorschachMost: two children mid-leap over a skipping rope
+rorschachHigh: a kite with both tails streaming upward
+rorschachMid: an open book resting on a table
+rorschachLow: a shuttered window facing an empty street
+rorschachLeast: a single chair turned toward the wall
 question: A friend texts at 9pm that their week has been rough. You...
 answerMost: ring them, then turn the stove on for cocoa whether they come over or not
 answerHigh: send back a long warm reply and the photo of the cat that always works

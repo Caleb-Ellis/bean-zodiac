@@ -22,6 +22,11 @@ facetLowTitle: Radicchio's Long Bath
 facetLow: You give the hard sentence time — bitterness drawn out, a spoon of butter folded in, the friend handed the gentler version.
 facetLeastTitle: The Good Bottle
 facetLeast: You buy the good sage, the second jar of beans, the bottle that turns a weeknight broth into something the table lingers over.
+rorschachMost: a bare branch against a flat sky
+rorschachHigh: an empty plate, white, no rim
+rorschachMid: a path running straight to the horizon
+rorschachLow: a table laid with too many forks
+rorschachLeast: a cake under heaped sugared roses
 question: A colleague shows you a draft and asks what you think. It needs real work. You...
 answerMost: say it's not there yet, here's why
 answerHigh: name the two things that aren't working

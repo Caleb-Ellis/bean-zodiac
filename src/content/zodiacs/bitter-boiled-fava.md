@@ -28,6 +28,11 @@ answerHigh: bring it up over the meal once you're both settled
 answerMid: hint at it and let them choose to follow
 answerLow: postpone until something forces it
 answerLeast: hope the problem solves itself and say nothing
+rorschachMost: a figure stepping into the mouth of a cave
+rorschachHigh: a hand reaching into a thornbush after something
+rorschachMid: a bird settled on a high wire
+rorschachLow: a shape snatching its hand back from a flame
+rorschachLeast: a creature curled tight beneath a fallen leaf
 ---
 
 Infused Fava Beans are the Bean Zodiac's most courageous — the one who opens the dreaded email before coffee, says the unpopular thing at the meeting, and stays in the seat through the silence that follows. They walk toward what others put off, and they do it early, while it's still hard. Around them, braver versions of other people tend to appear; courage is contagious, and they're usually the carrier.

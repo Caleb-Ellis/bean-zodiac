@@ -28,6 +28,11 @@ answerHigh: thank them and keep going; commitment is the point
 answerMid: pause, look at the work, and adjust the next stage
 answerLow: tear down what you've done and rework it tonight
 answerLeast: shrug, hire someone, and lose interest in the whole thing
+rorschachMost: a bulldog with its jaw clamped shut
+rorschachHigh: an anchor dug deep into the seabed
+rorschachMid: a key left sitting in a lock
+rorschachLow: a kite string slipping through open fingers
+rorschachLeast: a coat dropped in the doorway and left there
 ---
 
 Chipotle Navy Beans are the Bean Zodiac's most dogged — and the ones who finish. The thesis, the marathon, the slow ugly renovation that everyone else assumed had been quietly abandoned. They show up on the bad days too, the cold ones and the ones with no audience, because the job isn't done. By the time the rest of the room circles back, the work is already through the worst of it and shaped the way they always said it would be.

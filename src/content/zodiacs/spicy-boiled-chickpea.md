@@ -22,6 +22,11 @@ facetLowTitle: One Pot, One Purpose
 facetLow: You call the plumber when the pipe leaks; the right tool comes from the shop, not the drawer.
 facetLeastTitle: The Rinsed Bowl
 facetLeast: You set a fresh pot boiling before yesterday's chickpeas have cooled, and the new chilies go in whole.
+rorschachMost: a raft lashed together from scrap and twine
+rorschachHigh: a bird's nest woven from string and wire
+rorschachMid: a key hanging on a hook by the door
+rorschachLow: a tool left out of reach on a high shelf
+rorschachLeast: an empty drawer with nothing in it
 question: A pipe under the sink starts leaking on a Saturday morning. You...
 answerMost: rig something from a takeout container and electrical tape, and call it solved
 answerHigh: dig through the drawer for the bit you remember keeping for exactly this

@@ -28,6 +28,11 @@ answerHigh: forgive it before they apologise, and forget by Friday
 answerMid: mention it lightly, then let it go
 answerLow: bring it up and want a real answer
 answerLeast: file it under the running list and wait for the next one
+rorschachMost: a heart drawn over and over in ink
+rorschachHigh: two hands reaching for the same flower
+rorschachMid: a lantern hung in a doorway
+rorschachLow: a ledger with two columns ruled straight
+rorschachLeast: a sealed envelope left on the counter
 ---
 
 Crystallised Kidney Beans are the Bean Zodiac's most adoring. They keep the first ticket stub in a book by the bed. They remember the song from the bad year and the song from the good one. The person they love is the right person, and was the right person before the relationship started, and will be the right person after several pieces of evidence have suggested otherwise.

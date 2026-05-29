@@ -22,6 +22,11 @@ facetLowTitle: The Paste on Its Own Shelf
 facetLow: You keep rooms calm, move things gently, prefer the air a place already has.
 facetLeastTitle: Tofu Without Seasoning
 facetLeast: You smooth what others sharpened, write the soft reply, take the heat out before it spreads.
+rorschachMost: a stick jammed into a hornet's nest
+rorschachHigh: a hand flicking the rim of a full glass
+rorschachMid: two moths circling the same porch light
+rorschachLow: a cat asleep across a warm windowsill
+rorschachLeast: a still pond no wind has touched
 question: A friend's group chat has settled into a polite truce after a fight you weren't part of. Everyone's typing carefully. You...
 answerMost: drop the half-sentence that re-opens the whole thing
 answerHigh: name the thing nobody wants named, gently

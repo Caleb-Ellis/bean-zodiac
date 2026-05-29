@@ -22,6 +22,11 @@ facetLowTitle: The Open Doorway
 facetLow: Coats land where they land; mail accumulates on the table; you walk past the small disorder without seasoning it.
 facetLeastTitle: The Bill Under the Cookbook
 facetLeast: It surfaces months later, already paid by someone. The late fee, if there is one, salts nothing you taste.
+rorschachMost: a storm cloud massing over a small house
+rorschachHigh: a spider hanging at the edge of its web
+rorschachMid: a clock face hung on a wall
+rorschachLow: a hammock swaying on a quiet porch
+rorschachLeast: a still pond holding a flat blue sky
 question: It's 11:47pm. A package you ordered is "out for delivery" but hasn't arrived. You...
 answerMost: refresh the tracking page, write down the last scan time, plan tomorrow's call to the carrier
 answerHigh: check the tracking once more, then leave it open in a tab

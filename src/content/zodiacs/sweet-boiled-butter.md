@@ -22,6 +22,11 @@ facetLowTitle: A Skin Holding Its Shape
 facetLow: You agree at the table and rehearse the disagreement an hour later, alone in the kitchen, where nobody has to watch the wrong answer leave your mouth.
 facetLeastTitle: The Bean That Stays Whole
 facetLeast: You hold the line through three rounds of pressure, sweetly, and the room reshapes itself around you rather than the other way round.
+rorschachMost: soft wax pooling to fill its mould
+rorschachHigh: a reed bowing flat under the current
+rorschachMid: a glove laid open on a bench
+rorschachLow: a fist raised above a crowd
+rorschachLeast: an iron spike driven into stone
 question: Five of you are picking a restaurant and someone asks where you want to go. You...
 answerMost: say wherever everyone else wants is great
 answerHigh: name two places, both ones you heard others mention

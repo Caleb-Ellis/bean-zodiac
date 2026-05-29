@@ -28,6 +28,11 @@ answerHigh: a bed, a lamp, a table; let the rest arrive when it asks
 answerMid: the essentials, plus one good piece of art on the long wall
 answerLow: order the full living-room set so the place looks lived-in by Sunday
 answerLeast: spend the weekend filling every surface, every wall, every shelf
+rorschachMost: a single swan gliding on still black water
+rorschachHigh: two long-stemmed glasses set on a bare table
+rorschachMid: a moth resting on a smooth grey stone
+rorschachLow: a market stall crammed with hanging trinkets
+rorschachLeast: a wall papered edge to edge with bright posters
 ---
 
 Wood-Fired Black Beans are the Bean Zodiac's most elegant — depth that needs no announcement. They finish the work in silence and post only the finished bowl, once, and only when it's ready; their rooms hold one good chair and a lamp and a lot of breathing floor. At a crowded table they say little, and the room leans in anyway.

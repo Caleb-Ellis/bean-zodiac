@@ -28,6 +28,11 @@ answerHigh: pick the long story that explains the most about you
 answerMid: give the short version and let them ask
 answerLow: deflect with "what about you?"
 answerLeast: say "not much to tell" and pass the bread
+rorschachMost: a scrapbook fanned open across a table
+rorschachHigh: a map with every old route still inked
+rorschachMid: a spool of thread half unwound
+rorschachLow: a fresh page with nothing on it yet
+rorschachLeast: a roll of film pulled out and fogged
 ---
 
 Crystallised Pinto Beans are the Bean Zodiac's most storied. The kitchen drawer holds a postcard from 2011, a ticket stub, a dated jar of cinnamon, and they can tell you what each one is doing there. A friend mentions a city in passing and out comes the long sweet tangent about the summer it rained for a week and the café with the broken chair — told the same way every time, pause for pause, and somehow none the worse for it.

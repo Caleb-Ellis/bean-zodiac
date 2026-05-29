@@ -22,6 +22,11 @@ facetLowTitle: Beer Poured, Door Open
 facetLow: You answer messages the hour they arrive, lime cut, the door already open before the knock.
 facetLeastTitle: The Dark Beer of a Crowd
 facetLeast: You go home steeped in other people and sleep deeper for it.
+rorschachMost: a single island far off a coastline
+rorschachHigh: a cat sitting apart at the room's edge
+rorschachMid: two pebbles set on a wide windowsill
+rorschachLow: two hands clasped tight across a gap
+rorschachLeast: a litter of pups piled in one basket
 question: A new acquaintance is angling for a closer friendship — texts often, invites widely. You...
 answerMost: let it sit unanswered until the energy quietly thins
 answerHigh: reply warmly but space the replies until a real rhythm forms

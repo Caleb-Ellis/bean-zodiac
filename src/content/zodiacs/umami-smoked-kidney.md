@@ -28,6 +28,11 @@ answerHigh: let them finish, then circle back two days later in writing
 answerMid: wait for the pause and pick up where you left off
 answerLow: cut back in and finish the thought
 answerLeast: name it in the room and move on
+rorschachMost: a sealed pot rattling on a high flame
+rorschachHigh: steam forced through a pinched valve
+rorschachMid: two coals glowing low in grey ash
+rorschachLow: a window thrown wide to cool air
+rorschachLeast: a calm pond with the surface unbroken
 ---
 
 Hickory Kidney Beans are the Bean Zodiac's most seething — the room can feel them across the table without them having said anything. They go quieter when something is wrong, not louder. The reply to the slight arrives two weeks late and is exactly four words long, and the recipient reads it three times.

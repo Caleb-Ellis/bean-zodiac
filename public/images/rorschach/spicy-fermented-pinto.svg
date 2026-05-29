@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="28 28 200 200" width="200" height="200">
+  <defs>
+    <filter id="blot" x="-20%" y="-20%" width="140%" height="140%" color-interpolation-filters="sRGB">
+      <feTurbulence type="fractalNoise" baseFrequency="0.0503" numOctaves="2" seed="8107" result="noise" />
+      <feDisplacementMap in="SourceGraphic" in2="noise" scale="50" xChannelSelector="R" yChannelSelector="G" result="warped" />
+      <feGaussianBlur in="warped" stdDeviation="2.00" result="blurred" />
+      <feColorMatrix in="blurred" type="matrix" values="0 0 0 0 0.05  0 0 0 0 0.05  0 0 0 0 0.06  0 0 0 1.6 -0.2" />
+    </filter>
+  </defs>
+  <g transform="translate(0 256) scale(1 -1)">
+    <g filter="url(#blot)">
+      <g transform="rotate(90 128 128)">
+        
+    <g>
+      <image href="/images/pinto.svg" x="-40.08" y="-16.08" width="348.16" height="348.16" transform="rotate(17 134 158)" />
+      <text x="119" y="98" font-size="87" text-anchor="middle" dominant-baseline="central" transform="rotate(3 119 98)">🌶️</text>
+      <text x="147" y="141" font-size="67" text-anchor="middle" dominant-baseline="central" transform="rotate(-13 147 141)">🦠</text>
+    </g>
+        <g transform="translate(256 0) scale(-1 1)">
+          
+    <g>
+      <image href="/images/pinto.svg" x="-40.08" y="-16.08" width="348.16" height="348.16" transform="rotate(17 134 158)" />
+      <text x="119" y="98" font-size="87" text-anchor="middle" dominant-baseline="central" transform="rotate(3 119 98)">🌶️</text>
+      <text x="147" y="141" font-size="67" text-anchor="middle" dominant-baseline="central" transform="rotate(-13 147 141)">🦠</text>
+    </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

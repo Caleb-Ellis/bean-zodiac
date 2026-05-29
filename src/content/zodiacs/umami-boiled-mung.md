@@ -22,6 +22,11 @@ facetLowTitle: The Clattering Ladle
 facetLow: You narrate the whole day to whoever is nearest — the bus, the weather, the small grievance — and the room is warmer for it.
 facetLeastTitle: Shells in Hot Oil
 facetLeast: You finish other people's sentences, answer before the question lands, and a silent room reads to you as a problem to fix.
+rorschachMost: still water with no ripple across it
+rorschachHigh: a closed mouth set in a smooth face
+rorschachMid: a folded blot pressed flat and dark
+rorschachLow: a bell with its clapper swinging
+rorschachLeast: a mouth thrown open mid-shout
 question: A meeting turns to you for the take you've been quietly forming for the last twenty minutes. You...
 answerMost: hold the pause, then offer the one sentence that names the thing
 answerHigh: speak briefly, leave the floor open, and let the room continue

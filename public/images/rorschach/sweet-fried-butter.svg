@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="28 28 200 200" width="200" height="200">
+  <defs>
+    <filter id="blot" x="-20%" y="-20%" width="140%" height="140%" color-interpolation-filters="sRGB">
+      <feTurbulence type="fractalNoise" baseFrequency="0.0429" numOctaves="2" seed="24" result="noise" />
+      <feDisplacementMap in="SourceGraphic" in2="noise" scale="40" xChannelSelector="R" yChannelSelector="G" result="warped" />
+      <feGaussianBlur in="warped" stdDeviation="1.20" result="blurred" />
+      <feColorMatrix in="blurred" type="matrix" values="0 0 0 0 0.05  0 0 0 0 0.05  0 0 0 0 0.06  0 0 0 1.6 -0.2" />
+    </filter>
+  </defs>
+  <g transform="translate(0 256) scale(1 -1)">
+    <g filter="url(#blot)">
+      <g transform="rotate(90 128 128)">
+        
+    <g>
+      <image href="/images/butter.svg" x="-67.28" y="-36.28" width="386.56" height="386.56" transform="rotate(11 126 157)" />
+      <text x="134" y="99" font-size="95" text-anchor="middle" dominant-baseline="central" transform="rotate(-2 134 99)">🍭</text>
+      <text x="134" y="128" font-size="75" text-anchor="middle" dominant-baseline="central" transform="rotate(19 134 128)">🔥</text>
+    </g>
+        <g transform="translate(256 0) scale(-1 1)">
+          
+    <g>
+      <image href="/images/butter.svg" x="-67.28" y="-36.28" width="386.56" height="386.56" transform="rotate(11 126 157)" />
+      <text x="134" y="99" font-size="95" text-anchor="middle" dominant-baseline="central" transform="rotate(-2 134 99)">🍭</text>
+      <text x="134" y="128" font-size="75" text-anchor="middle" dominant-baseline="central" transform="rotate(19 134 128)">🔥</text>
+    </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

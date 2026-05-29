@@ -22,6 +22,11 @@ facetLowTitle: The Pan on the Rack
 facetLow: A friend turns up on the step and you meet them at the door without inviting them in; the conversation is good, on the step, in the cold.
 facetLeastTitle: Adzuki in Shadow
 facetLeast: You sleep with the window cracked in winter, take your tea barely warm, and find other people's fussing over you faintly unbearable.
+rorschachMost: a hearth with two figures pulled close to the coals
+rorschachHigh: steam rising off a mug held in both hands
+rorschachMid: two moths meeting at the centerfold
+rorschachLow: a shuttered window with the latch drawn
+rorschachLeast: a frozen pond cracking down the middle
 question: A friend texts at 11pm — bad day, nothing specific, just wanted to say hi. You...
 answerMost: put the kettle on and call them
 answerHigh: write back something long and ask what they ate today

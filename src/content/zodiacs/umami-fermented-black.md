@@ -28,6 +28,11 @@ answerHigh: pick the one true sentence and offer that
 answerMid: give the headline and let them follow up
 answerLow: tell them the small annoying thing and laugh
 answerLeast: launch into the full account, in order
+rorschachMost: a single figure looking down into a deep well
+rorschachHigh: a door left barely ajar onto a dark room
+rorschachMid: two bats folded asleep under an eave
+rorschachLow: an open mouth caught mid-sentence
+rorschachLeast: fireworks bursting wide over a crowded square
 ---
 
 Miso Black Beans are the Bean Zodiac's most introspective — most of the real conversation is happening somewhere the other person can't see. They walk back from a party already three days into thinking about a single thing someone said in the kitchen, and when a friend asks what's wrong the next week, the honest answer would take an hour they don't feel like asking for.

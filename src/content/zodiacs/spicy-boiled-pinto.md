@@ -22,6 +22,11 @@ facetLowTitle: The Same Beans, the Same Hour
 facetLow: Heat finds you and rolls off; you keep stirring.
 facetLeastTitle: The Even Laugh
 facetLeast: At the long table you laugh at every joke, the chile no warmer in you than in anyone else. Friends call you steady.
+rorschachMost: clouds breaking and gathering over a coastline
+rorschachHigh: a sea churning between calm and squall
+rorschachMid: a hill rolling under a passing sky
+rorschachLow: a lighthouse holding one steady beam
+rorschachLeast: a long flat horizon at noon
 question: A short message from a friend lands. Reread once and it's neutral; reread again and it stings. You...
 answerMost: type back what's actually in your chest and send it before the heat drops
 answerHigh: draft the hot version, sit with it ten minutes, send a cooler one

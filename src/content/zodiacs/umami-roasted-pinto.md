@@ -22,6 +22,11 @@ facetLowTitle: Tomato Paste, Hands in
 facetLow: The pan wants stirring; the room wants you in it, and you stay, both hands on the work.
 facetLeastTitle: Bean Into Sauce
 facetLeast: Tired, you sink into the nearest warm shoulder — no border between your evening and theirs.
+rorschachMost: a satellite hanging far above a lit coastline
+rorschachHigh: a hawk circling high over a distant field
+rorschachMid: two cranes standing apart on a flat shore
+rorschachLow: a crowd pressed shoulder to shoulder at a rail
+rorschachLeast: two bodies tangled close under one blanket
 question: You arrive at a long dinner where the seat at the head and a seat one chair back are both free. You...
 answerMost: take the one chair back, where you can watch the whole table
 answerHigh: take a quiet seat near the end, smile, settle in

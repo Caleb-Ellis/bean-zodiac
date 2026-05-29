@@ -28,6 +28,11 @@ answerHigh: cancel the morning and go, no question
 answerMid: go, but text someone else to take a shift tomorrow
 answerLow: say "I can't tonight, but call me first thing"
 answerLeast: send a heart emoji and turn the phone face down
+rorschachMost: an oak still standing after the storm
+rorschachHigh: a mule pulling against a long load
+rorschachMid: a hammer left head-down on the bench
+rorschachLow: a hammock strung between two trees
+rorschachLeast: a flag dropped flat in the mud
 ---
 
 Crystallised Fava Beans are the Bean Zodiac's most indomitable. They are the friend who drives across two cities at midnight, the colleague who stays after everyone else has folded, the one carrying the casserole up the stairs of the grieving house. You can lean on them and they will not move; the surprising part is that they seem to enjoy it.

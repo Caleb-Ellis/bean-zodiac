@@ -28,6 +28,11 @@ answerHigh: say yes warmly, leave the logistics for later
 answerMid: say "probably" and check the week tomorrow
 answerLow: say you'll think about it and actually check the calendar
 answerLeast: decline now so they can ask someone who'll show up
+rorschachMost: a frayed rope half-snapped over a gap
+rorschachHigh: a tent stake working loose in soft ground
+rorschachMid: a kite tugging at the end of its string
+rorschachLow: a beam bolted firm across two posts
+rorschachLeast: an anvil sat square on a stone floor
 ---
 
 Tempura Pinto Beans are the Bean Zodiac's most unreliable — and the warmest people at the table while they're being it. The yes comes out hot: weekends pledged, trips planned, favors offered before the favor has finished being asked for. They mean every word at the moment the words are leaving. The friend goes home buoyed; the week ahead looks, briefly, fuller and kinder than it did at six.

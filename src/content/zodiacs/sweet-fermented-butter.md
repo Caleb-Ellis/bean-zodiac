@@ -28,6 +28,11 @@ answerHigh: slip it into a side comment and watch who catches it
 answerMid: save it for the one person you'll text after
 answerLow: hold it back, faintly regretful
 answerLeast: don't even register it as an option
+rorschachMost: a clown's face with two huge googly eyes
+rorschachHigh: a dog wearing a party hat sideways
+rorschachMid: a pair of butterfly wings, slightly uneven
+rorschachLow: a folded napkin set neatly beside a plate
+rorschachLeast: a grey form filling out tax paperwork
 ---
 
 Funky Butter Beans are the Bean Zodiac's silliest — the ones who put googly eyes on the printer in week one and never quite take them off. Their absurdity isn't a bit; it's a temperature. Rooms loosen around them without quite noticing, and people who came in braced for something dull leave having said the truer thing because the air permitted it.

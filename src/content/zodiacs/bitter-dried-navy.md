@@ -22,6 +22,11 @@ facetLowTitle: Molasses Thinned
 facetLow: You promise Tuesday, arrive Wednesday, settle the bill on Friday with no apology, and the friend across from you does not, in fact, mind.
 facetLeastTitle: The Shape of Any Fire
 facetLeast: You bend toward the room you're in, swap your stance for the company, and the version of you that walks out is not the one that walked in.
+rorschachMost: an iron bar bolted across a frame
+rorschachHigh: a row of fence posts, none leaning
+rorschachMid: a ruler propped against a wall
+rorschachLow: a willow branch bowing in wind
+rorschachLeast: a ribbon twisting loose in the air
 question: A recipe says simmer for two hours. At ninety minutes it looks done. Guests arrive in twenty. You...
 answerMost: keep it on the heat the full two hours
 answerHigh: set the timer and find something to do until it rings

@@ -28,6 +28,11 @@ answerHigh: reread it twice more, wince, and force the laptop shut
 answerMid: skim it once, decide it's fine, and move on
 answerLow: notice the typo and shrug
 answerLeast: forget you sent it within the hour
+rorschachMost: a jar swollen tight against a rattling lid
+rorschachHigh: hands wringing knots into a frayed cloth
+rorschachMid: a string of small beads on a cord
+rorschachLow: a cat stretched flat across a warm sill
+rorschachLeast: a still pond with no ripple on it
 ---
 
 Funky Pinto Beans are the Bean Zodiac's most anxious — the ones who arrive at the dinner having already rehearsed three versions of how the seating might go and pre-laughed at the host's most likely joke. The thoroughness has its uses; they remember the allergy, bring the spare cardigan, notice the friend slipping into a quiet mood twenty minutes before anyone else.

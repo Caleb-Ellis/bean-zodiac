@@ -22,6 +22,11 @@ facetLowTitle: Black Vinegar in the Dish
 facetLow: You let a message sit two days; the warmth is real, but it travels at its own pace and not the room's.
 facetLeastTitle: The Pod Kept Closed
 facetLeast: You decline the second invitation without a softening line, and your evenings stay your own — small, dark, salted.
+rorschachMost: open palms held out with nothing in them
+rorschachHigh: a dog rolling over in the grass
+rorschachMid: two mittens laid side by side
+rorschachLow: a fist closed around something unseen
+rorschachLeast: a row of spikes along the top of a wall
 question: A small argument starts to escalate at the dinner table over something not worth it. You...
 answerMost: take the blame before the next sentence lands, and pour someone more wine
 answerHigh: crack the small joke that lets everyone climb down

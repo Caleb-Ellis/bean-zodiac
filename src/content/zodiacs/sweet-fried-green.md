@@ -28,6 +28,11 @@ answerHigh: cross and uncross your legs, get up twice to look at the noticeboard
 answerMid: pick one article and force yourself through it
 answerLow: sit, watch the room, breathe
 answerLeast: close your eyes and rest until your name is called
+rorschachMost: a swarm of gnats scattered over water
+rorschachHigh: two hands drumming on a tabletop
+rorschachMid: a pair of moths near a screen door
+rorschachLow: a stone settled at the bottom of a pond
+rorschachLeast: a cat curled motionless on a shelf
 ---
 
 Caramelised Green Beans are the Bean Zodiac's most fidgety — and the fidget is somehow charming, a kitchen always alive with someone moving the lamp, refilling the bowl, starting a song. They text mid-walk, cook mid-thought, rearrange the shelves while telling you about their day. The energy is generous: it sweeps other people along, and rooms feel duller when they leave.

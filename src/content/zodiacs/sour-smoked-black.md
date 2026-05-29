@@ -28,6 +28,11 @@ answerHigh: smile thinly and take a sip
 answerMid: laugh half a second late
 answerLow: laugh on time and ask a follow-up question
 answerLeast: laugh loudest and ask them to tell the next one
+rorschachMost: a dried flower crushed flat in a book
+rorschachHigh: a closed eye turned away from light
+rorschachMid: two halves of a folded leaf
+rorschachLow: a vine reaching toward an open window
+rorschachLeast: a bud splitting open into bloom
 ---
 
 Cured Black Beans are the Bean Zodiac's most withering — the pause after they speak is doing more work than the sentence did. They are the colleague whose three-word reply ends a thread, the friend whose raised eyebrow files a verdict the room had been edging toward all evening. There is real relief in being read this clearly; people bring them their drafts and bad ideas precisely because nothing survives that doesn't deserve to.

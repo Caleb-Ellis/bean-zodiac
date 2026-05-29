@@ -22,6 +22,11 @@ facetLowTitle: The Cooled Bowl
 facetLow: Surfaces wiped, corners squared. You prefer a room that has settled before anyone walks in.
 facetLeastTitle: Crema Over the Tart Place
 facetLeast: An apology owed becomes a kindness offered instead — softened until the edge forgets itself.
+rorschachMost: two hands pressed flat together at the centre
+rorschachHigh: a candle burned most of the way down
+rorschachMid: a beetle climbing the seam of a leaf
+rorschachLow: a mask hung on a nail by its string
+rorschachLeast: a wink caught between two raised eyebrows
 question: At a friend's leaving drinks the room goes round saying something nice, and it lands on you. You...
 answerMost: say the thing you actually meant to say, voice cracking a little
 answerHigh: speak plainly about what they were like to know

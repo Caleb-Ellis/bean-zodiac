@@ -28,6 +28,11 @@ answerHigh: open it, reply with something warm, ask if they want to talk
 answerMid: send a quick "in the middle of something, can I call later?"
 answerLow: leave it on read until tomorrow and feel a little guilty
 answerLeast: mute the thread and pour yourself a second glass
+rorschachMost: one figure cradling another who has slumped over
+rorschachHigh: two faces turned in toward each other
+rorschachMid: a butterfly resting on an open flower
+rorschachLow: a single chair turned to face the window
+rorschachLeast: a stone statue staring past the people below
 ---
 
 Funky Chickpeas are the Bean Zodiac's most empathetic — the ones who clock, two minutes into a dinner, that one person at the table is having a quietly terrible week and angle their attention there for the rest of the night. Nothing about it is performed. They simply absorb the room's weather and adjust, and the people they sit beside leave feeling unaccountably better without being able to say why.

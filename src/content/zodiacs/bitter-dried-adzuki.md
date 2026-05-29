@@ -22,6 +22,11 @@ facetLowTitle: The Open Pot
 facetLow: New acquaintances become regulars by Friday; your table grows by accident.
 facetLeastTitle: Every Bowl Filled
 facetLeast: You buy in twos, lend the spare freely, give early and often without ledger.
+rorschachMost: a single key on an empty ring
+rorschachHigh: one chair pulled back from a long table
+rorschachMid: a folded cloth on a windowsill
+rorschachLow: a crowd of hands reaching for the same loaf
+rorschachLeast: a full house with every door thrown open
 question: A friend offers you a ticket to a party tonight — decent crowd, no one you love. You...
 answerMost: decline without explaining
 answerHigh: ask who's going before deciding

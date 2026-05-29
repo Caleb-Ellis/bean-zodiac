@@ -28,6 +28,11 @@ answerHigh: float a topic both will want to weigh in on and let proximity do the
 answerMid: mention it quietly to the host on the way to the kitchen
 answerLow: keep clear of both and hope it sorts itself by dessert
 answerLeast: leave early; not your weather to fix
+rorschachMost: ripples spreading clean across a whole pond
+rorschachHigh: smoke drifting from room to room
+rorschachMid: a spoon resting in an empty bowl
+rorschachLow: a wall between two quiet rooms
+rorschachLeast: a stone sealed inside thick glass
 ---
 
 Sichuan Chickpeas are the Bean Zodiac's most conductive — they pass through a room and the temperature of it changes by the time they leave. Bad moods follow them home from cheerful dinners; cheerful moods seed themselves at glum ones. Friends invite them specifically because something always starts when they're there: an argument, a plan, a sudden round of shots, a long-overdue conversation that should have happened months ago.

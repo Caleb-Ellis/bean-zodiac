@@ -14,7 +14,8 @@ import {
   getFortuneText,
   getVariantForSlug,
   getAnswerText,
-  hasQuestion,
+  getRorschachText,
+  hasRorschach,
   type RitualVariant,
 } from "../../../lib/fortune";
 import { fetchZodiac } from "../../../lib/data";
@@ -116,9 +117,11 @@ export function useDailyFortune(
     .fortuneHistory.find((e) => e.date === localDateStr);
   const initialScore = initialEntry?.score ?? 0;
   const initiallyScored = initialScore !== 0;
-  // For question entries the answered tier overrides the rolled tier.
+  // For question/rorschach entries the answered tier overrides the rolled tier.
   const initialQualityId: QualityId =
-    initialEntry?.variant === "question" && initialEntry.answeredQuality
+    (initialEntry?.variant === "question" ||
+      initialEntry?.variant === "rorschach") &&
+    initialEntry.answeredQuality
       ? initialEntry.answeredQuality
       : rolledQualityId;
   const initialVariant: RitualVariant =
@@ -141,10 +144,10 @@ export function useDailyFortune(
     fetchZodiac(fortuneZodiacId).then((fortune) => {
       setFortuneZodiac(fortune);
 
-      // Downgrade question variant to facet when this zodiac has no authored
-      // question. Locks in once persisted on the entry.
+      // Temporary: downgrade rorschach to facet for zodiacs missing rorschach
+      // fields during the authoring rollout. Drop this once all 360 are done.
       const effectiveVariant: RitualVariant =
-        initialVariant === "question" && !hasQuestion(fortune)
+        initialVariant === "rorschach" && !hasRorschach(fortune)
           ? "facet"
           : initialVariant;
       if (effectiveVariant !== variant) setVariant(effectiveVariant);
@@ -164,6 +167,11 @@ export function useDailyFortune(
         question: effectiveVariant === "question" ? fortune.question : null,
         answeredQuality: null,
         answerText: null,
+        rorschachImage:
+          effectiveVariant === "rorschach"
+            ? `/images/rorschach/${fortuneZodiacId}.svg`
+            : null,
+        rorschachText: null,
       });
     });
   }, [fortuneZodiacId]);
@@ -213,19 +221,26 @@ export function useDailyFortune(
     setScoringOut(true);
     setTimeout(() => {
       const newDailyText = getDailyText(fortuneZodiac, answerQuality, 1);
-      const newAnswerText = getAnswerText(fortuneZodiac, answerQuality) ?? null;
+      const isRorschach = variant === "rorschach";
+      const newAnswerText = isRorschach
+        ? null
+        : (getAnswerText(fortuneZodiac, answerQuality) ?? null);
+      const newRorschachText = isRorschach
+        ? (getRorschachText(fortuneZodiac, answerQuality) ?? null)
+        : null;
       useStore.getState().updateFortuneEntry(localDateStr, {
         qualityId: answerQuality,
         score: 1,
         text: newDailyText,
         answeredQuality: answerQuality,
         answerText: newAnswerText,
+        rorschachText: newRorschachText,
       });
       setQualityId(answerQuality);
       setScore(1);
       setScored(true);
       setText(newDailyText);
-      setAnswerText(newAnswerText);
+      setAnswerText(newAnswerText ?? newRorschachText);
       setScoredText(buildScoredText(fortuneZodiac.trait, 1, answerQuality));
       markSeen();
       setScoringOut(false);
@@ -256,9 +271,7 @@ export function useDailyFortune(
     ? getFortuneText(fortuneZodiac, qualityId)
     : null;
   const question =
-    variant === "question" && fortuneZodiac?.question
-      ? fortuneZodiac.question
-      : null;
+    variant === "question" ? (fortuneZodiac?.question ?? null) : null;
 
   return {
     fortuneZodiacId,

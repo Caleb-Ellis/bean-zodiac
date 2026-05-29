@@ -22,6 +22,11 @@ facetLowTitle: The Crackle, Then Morning
 facetLow: You finish a thing and walk forward; what was good was good, and the next pan is already warming.
 facetLeastTitle: Shells Swept From the Tray
 facetLeast: You give possessions away easily, without ceremony — a room emptied is a room ready.
+rorschachMost: a pressed flower flattened between two pages
+rorschachHigh: a locket worn smooth at the clasp
+rorschachMid: two swallows banking over a chimney
+rorschachLow: a suitcase packed and standing by the door
+rorschachLeast: a box of old photos tipped into the bin
 question: You're emptying a drawer and find a letter someone wrote you years ago. You...
 answerMost: sit on the floor and read every page, twice, and lose the afternoon
 answerHigh: read it through once and put it carefully back where it was

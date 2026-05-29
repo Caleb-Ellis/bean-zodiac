@@ -28,6 +28,11 @@ answerHigh: send the rough outline to a friend before writing a single sentence
 answerMid: write a first pass and ask one person to read it
 answerLow: bang out the draft alone and share the polished version
 answerLeast: close the door, finish it Friday, and forward it without a word
+rorschachMost: a ring of hands clasped around a wide table
+rorschachHigh: two figures leaning over the same open page
+rorschachMid: two leaves overlapping at their stems
+rorschachLow: a single chair pulled up to a small desk
+rorschachLeast: a lone figure facing a wall, door shut
 ---
 
 Cultured Chickpeas are the Bean Zodiac's most collaborative — they'll hand you a half-finished draft and mean it as a compliment, because the version that comes back with your salt in it is the one they actually wanted. They think out loud, in company, in the thread that runs past midnight, and the thing that emerges is better than what either of you would have made alone. Working alongside people isn't a tactic for them; it's how the work feels right.

@@ -22,6 +22,11 @@ facetLowTitle: Pods in the Colander
 facetLow: You step over the unfinished task, take the long walk, and come back to find the kitchen has waited.
 facetLeastTitle: Heat Across the Tongue
 facetLeast: Bed by nine, pot left soaking; the body's verdict outweighs whatever was half-done.
+rorschachMost: an ox straining against a loaded plow
+rorschachHigh: ants hauling crumbs in a long line
+rorschachMid: a windmill turning over a flat field
+rorschachLow: a hammock strung between two trees
+rorschachLeast: a cat asleep in a patch of sun
 question: It's Sunday afternoon. The week's list is already done. The light through the window is good. You...
 answerMost: start on next week's, just to be ahead
 answerHigh: tidy one more thing, the small project you've been meaning to

@@ -28,6 +28,11 @@ answerHigh: catch the opener of one and stay for the rest of the other, grinning
 answerMid: pick the headliner, watch your friend's set back on someone's phone after
 answerLow: stay at your friend's set the whole way, no regrets
 answerLeast: skip both, find a quiet corner, save your energy for tomorrow
+rorschachMost: sparks thrown off a wheel mid-spin
+rorschachHigh: two hands flung up at a finish line
+rorschachMid: a moth pinned open on dark paper
+rorschachLow: a lamp left low in a back room
+rorschachLeast: a cat folded asleep on a windowsill
 ---
 
 Peri-Peri Adzuki Beans are the Bean Zodiac's most enthusiastic — the ones who walk in already mid-sentence about something they heard on the way over. A small bakery, a friend's new haircut, a song from a film they half-remember — each gets the full voltage, and the room tilts toward whatever they just noticed. People leave conversations with them feeling brighter than they arrived, and slightly unsure what they just agreed to.

@@ -28,6 +28,11 @@ answerHigh: name the one thing that's broken and stop
 answerMid: praise the strongest part and mention the weakest
 answerLow: praise it, then float the note as a question
 answerLeast: tell them it's great and order another round
+rorschachMost: a bare tree stripped of every leaf
+rorschachHigh: an axe head buried in a stump
+rorschachMid: two bones laid across each other
+rorschachLow: a bandage wound around a splint
+rorschachLeast: a thick quilt draped over a cradle
 ---
 
 Cured Kidney Beans are the Bean Zodiac's most unsparing — when they say a thing is not working, they have already considered whether saying so will cost them the friendship, and concluded that the cost is acceptable. They are the friend you call when you want the actual answer rather than the kind one, the colleague whose review you ask for last because by then you've already decided you can take it. The loyalty in the honesty is the whole point; nobody gets read this clearly except the people they love.

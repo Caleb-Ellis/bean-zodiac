@@ -22,6 +22,11 @@ facetLowTitle: Garlic, Raw
 facetLow: First draft, read aloud to anyone in earshot. The room adjusts to you.
 facetLeastTitle: The Unswept Pan
 facetLeast: Coats on the chair, shoes mid-hallway. Whoever walks in meets the room exactly as you left it.
+rorschachMost: a hand resting on a closed door, not pushing
+rorschachHigh: a folded napkin slid under a wobbling cup
+rorschachMid: two leaves drifting down past a window
+rorschachLow: a fist set down hard on a table
+rorschachLeast: a hammer dropped onto a sheet of glass
 question: A colleague's pitch has a real problem, and they're asking you in the corridor what you thought. You...
 answerMost: praise the bones, name the problem, end on the fix
 answerHigh: name the problem plainly with the warmth pre-loaded

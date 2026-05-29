@@ -28,6 +28,11 @@ answerHigh: thank them once, briefly, and watch which direction they leave in
 answerMid: smile, nod, and let it sit a beat before you trust it
 answerLow: thank them properly and feel quietly pleased the rest of the morning
 answerLeast: tell the next table about it, glowing
+rorschachMost: a hook half hidden inside the bait
+rorschachHigh: a coin with a string tied to it
+rorschachMid: a leaf floating on still water
+rorschachLow: an open palm offering a small fruit
+rorschachLeast: a hand giving a flower, nothing held back
 ---
 
 Pickled Navy Beans are the Bean Zodiac's most cynical — they have read the message twice for what it isn't saying and weighed the apology against the bill still owed. They can predict, with eerie accuracy, which colleague's new tone is a prelude to which old request, and which "we should catch up" is a polite filing of a friendship in the bottom drawer. The clear-eyed reading saves them, again and again, from the small charges they would otherwise have signed.

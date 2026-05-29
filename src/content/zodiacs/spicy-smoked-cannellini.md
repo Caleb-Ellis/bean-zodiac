@@ -28,6 +28,11 @@ answerHigh: praise the strong bit and flag two things to tighten
 answerMid: say what's working and where you'd want more
 answerLow: tell them it's great and bookmark the issues for later
 answerLeast: say you love it and mean every word
+rorschachMost: a fishhook with the point still showing
+rorschachHigh: a thorn snagged on a strand of wool
+rorschachMid: a pair of antlers branching upward
+rorschachLow: a rolled towel left soft on a chair
+rorschachLeast: a worn pebble smoothed round by water
 ---
 
 Chipotle Cannellini Beans are the Bean Zodiac's most barbed — the line you remember from a dinner six months ago was probably theirs. They edit the group chat down to its load-bearing sentence and the joke gets funnier. They name the thing in the meeting that everyone could feel but no one had words for, and the rest of the call rearranges around it.

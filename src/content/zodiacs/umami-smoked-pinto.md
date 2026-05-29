@@ -28,6 +28,11 @@ answerHigh: drift to the back row and half-look at someone else
 answerMid: stand where you're put and smile
 answerLow: pull the group tighter and call the count
 answerLeast: step to the front and ask whose phone is best
+rorschachMost: a haze of smoke filling a whole room
+rorschachHigh: fog settling low across an open field
+rorschachMid: two scarves caught loose in the wind
+rorschachLow: a single figure under one bright spotlight
+rorschachLeast: a sharp silhouette cut clean from black
 ---
 
 Hickory Pinto Beans are the Bean Zodiac's most atmospheric — the room shifts when they walk in and nobody can quite say why. They speak twice in an evening and somehow seem to have hosted it. The friend recapping the night will mention the lighting, the music, a feeling, and only later remember the Pinto was there for all of it.

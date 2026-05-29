@@ -22,6 +22,11 @@ facetLowTitle: Seeds Across the Counter
 facetLow: Strangers in the kitchen by ten, sleeves up, stirring your pot, learning the spice level by tasting.
 facetLeastTitle: Broth Before It Thickens
 facetLeast: You hand over the last bowl, the recipe, the pot itself, and walk home empty-handed in the dark.
+rorschachMost: a locked vault set into a thick wall
+rorschachHigh: a clam shut tight around its shell
+rorschachMid: a gate latched across a garden path
+rorschachLow: an open window with the curtains drawn back
+rorschachLeast: a wide door thrown open to the street
 question: A new neighbour knocks, friendly, asking if you'd like to come round Friday. You...
 answerMost: take the name, say "maybe next month," close the door gently
 answerHigh: thank them, say you'll check the calendar, mean it noncommittally

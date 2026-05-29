@@ -28,6 +28,11 @@ answerHigh: say "I don't think that's quite right" and offer the version you hav
 answerMid: ask a question that lets them notice the error themselves
 answerLow: log it, say nothing, look it up later to be sure
 answerLeast: nod and move on; the dinner was about something else
+rorschachMost: two rams locked head to head on a ridge
+rorschachHigh: a finger jabbed across a table at someone
+rorschachMid: a chair pushed back from a long table
+rorschachLow: two hands meeting in the middle to shake
+rorschachLeast: a white flag folded neatly on a fence post
 ---
 
 Agrodolce Kidney Beans are the Bean Zodiac's most argumentative — they treat a wrong sentence the way a smoke alarm treats a wrong amount of smoke. The correction is on the air before the speaker has finished sitting back down. What looks like combativeness from the outside is, from inside, a kind of housekeeping: an Agrodolce Kidney genuinely cannot leave a room with a false thing in it.

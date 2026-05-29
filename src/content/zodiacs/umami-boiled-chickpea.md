@@ -22,6 +22,11 @@ facetLowTitle: The Bean Held Whole
 facetLow: You answer the same way in every room — the voicemail, the dinner, the funeral — and people know where to find you.
 facetLeastTitle: The Pot That Refuses
 facetLeast: You leave a party at the hour you intended; the music shifts, the others soften, you put on your coat.
+rorschachMost: water taking the shape of its glass
+rorschachHigh: a shadow bending around a corner
+rorschachMid: a cloud pulled loose across the sky
+rorschachLow: an iron bar holding one straight line
+rorschachLeast: a stone unchanged at the river's middle
 question: You've been dropped at a dinner party where you know exactly one person, and they've vanished into the kitchen. You...
 answerMost: ease into the nearest group and pick up their accent by the second drink
 answerHigh: find a conversation and follow its rhythm until you're part of it

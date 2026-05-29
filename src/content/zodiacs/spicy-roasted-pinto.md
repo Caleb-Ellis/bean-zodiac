@@ -28,6 +28,11 @@ answerHigh: text to move it to Friday, somewhere you've never been
 answerMid: keep the date but pick a new bar
 answerLow: keep it, same place, same time, you'll feel like it once you're there
 answerLeast: keep it, take the same seats, order what you ordered last time
+rorschachMost: shards flung from a dropped glass
+rorschachHigh: a flag snapping in gusty wind
+rorschachMid: an inkblot bled in odd directions
+rorschachLow: a clock face with even, fixed hands
+rorschachLeast: a line of identical tiles laid straight
 ---
 
 Peri-Peri Pinto Beans are the Bean Zodiac's most unpredictable — the ones who turn up to the same bar with a different haircut, a new job, and a story about a weekend nobody saw coming. Plans they made warmly on Tuesday are not the plans they're proposing on Friday, and the proposal is usually better. Friends keep them because the surprise is reliably worth the recalibration.

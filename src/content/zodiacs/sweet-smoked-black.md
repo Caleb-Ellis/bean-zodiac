@@ -22,6 +22,11 @@ facetLowTitle: Chile on the Tongue
 facetLow: Receipts settled the day they arrive; an apology owed is an apology paid before sundown.
 facetLeastTitle: The Clean Stove
 facetLeast: Nothing in the cupboard hides; the drawer opens and the drawer is the drawer.
+rorschachMost: a hooded figure half-dissolved into smoke
+rorschachHigh: a doorway with no room visible behind it
+rorschachMid: two crows facing each other over a branch
+rorschachLow: a plain key laid flat on a table
+rorschachLeast: an open box with everything inside in plain view
 question: An envelope appears in the post addressed to you in handwriting you don't recognise, with no stamp. Inside, a single short sentence that fits the week you've been having. You...
 answerMost: keep the sentence, burn the envelope, ask no questions of anyone
 answerHigh: pin it to the inside of a cupboard door and live with it for a month

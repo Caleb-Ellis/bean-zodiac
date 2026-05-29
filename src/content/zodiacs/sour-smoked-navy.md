@@ -28,6 +28,11 @@ answerHigh: stick to the route but pick up the pace
 answerMid: take the shortcut you know halfway through
 answerLow: cut into a cafe and rethink the rest
 answerLeast: call a cab and abandon the walk
+rorschachMost: an iron gate bolted shut at the hinge
+rorschachHigh: an anchor set deep in the seabed
+rorschachMid: two stones stacked on a wall
+rorschachLow: a flag bending hard in the wind
+rorschachLeast: a ribbon loose in a running stream
 ---
 
 Cured Navy Beans are the Bean Zodiac's most implacable — the plan made on Sunday is the plan being executed on Thursday, weather notwithstanding. They are the friend who said they'd be there at seven and is there at seven, the colleague whose Friday deliverable goes out on Friday because Friday was when it was going out. There is enormous quiet relief in being near them; nothing has to be re-decided every morning.

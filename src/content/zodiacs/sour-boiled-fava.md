@@ -28,6 +28,11 @@ answerHigh: email the manager afterwards with the original thread attached
 answerMid: bring it up with the coworker privately first
 answerLow: let it go this once and watch what happens next time
 answerLeast: shrug; the work got done and that was the point
+rorschachMost: a finger pointed straight at the centre
+rorschachHigh: two pans of a scale, one held higher
+rorschachMid: a beetle with its wings spread wide
+rorschachLow: a door left ajar and unwatched
+rorschachLeast: a hand opening to let something drop
 ---
 
 Brined Fava Beans are the Bean Zodiac's most righteous. They keep a quiet running ledger of what was fair and what wasn't, and they will hold a position about it for months without raising their voice once. When they do speak, the line has been sanded down to its plain shape — no flourish, no hedging, the small wrong thing named in the room where it happened.

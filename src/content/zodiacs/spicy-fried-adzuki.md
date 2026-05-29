@@ -28,6 +28,11 @@ answerHigh: insist on going out, right now, for the proper version
 answerMid: text three other friends to come over later
 answerLow: say "we should celebrate that properly soon"
 answerLeast: nod warmly and ask another question about their day
+rorschachMost: fireworks going off all at once over a crowd
+rorschachHigh: a band spilling out through a doorway mid-song
+rorschachMid: two moths meeting at the center of a lamp
+rorschachLow: a single candle in a wide dark window
+rorschachLeast: a sealed jar set quietly on a high shelf
 ---
 
 Red-Hot Adzuki Beans are the Bean Zodiac's most irrepressible — the room knows they've arrived before they've taken their coat off. They speak in exclamations and arrive with bottles, and the small good news a friend was saving for later becomes, in their hands, a reason to call three more people and open the better wine.

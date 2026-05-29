@@ -22,6 +22,11 @@ facetLowTitle: Fat That Seasons Quietly
 facetLow: You move at the pace of the table around you, and the day arrives the same hour either way.
 facetLeastTitle: Pecorino, No Rind Left
 facetLeast: Rooms in your house rearrange around whoever last visited; the reading chair is wherever it landed.
+rorschachMost: a fist raised against a wall of dark
+rorschachHigh: a tree still standing after the trunks around it fell
+rorschachMid: two rams butting heads at the seam
+rorschachLow: a reed bent flat under the current
+rorschachLeast: a flag lowered all the way down the pole
 question: An invoice arrives with the wrong amount on it — not by much, but wrong. You...
 answerMost: draft a letter, then a second draft, and send the cold even one
 answerHigh: reply the same day with the correction, no apology attached

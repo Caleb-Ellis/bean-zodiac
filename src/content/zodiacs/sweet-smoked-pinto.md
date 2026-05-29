@@ -22,6 +22,11 @@ facetLowTitle: Tomato Whole in the Broth
 facetLow: You arrive when you said you would, sit where you said you'd sit, and the room knows exactly who is in it.
 facetLeastTitle: The Pot, Lid Off
 facetLeast: You return calls the day they come in, sign your name in full, and never make anyone guess whether you meant it.
+rorschachMost: a staircase melting into a pool of cloud
+rorschachHigh: a clock with its hands drifting off the face
+rorschachMid: two whales floating above a forest
+rorschachLow: a chair, a table, a window, plainly drawn
+rorschachLeast: a receipt pinned under a glass on a desk
 question: A long, vivid dream you can still feel at breakfast, and someone at the table asks what it was about. You...
 answerMost: tell it slow, with the strange light still on it, in the order the dream had
 answerHigh: name the one image that's still hanging around the kitchen

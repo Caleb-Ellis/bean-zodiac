@@ -28,6 +28,11 @@ answerHigh: argue the case until you've been clearly heard
 answerMid: register the dissent and go with the room
 answerLow: shrug and side with the majority
 answerLeast: switch sides if the new argument is the better one
+rorschachMost: a boundary stone sunk too deep to shift
+rorschachHigh: an iron gate rusted into one position
+rorschachMid: a compass needle pointing north
+rorschachLow: a weathervane turning with every gust
+rorschachLeast: a flag taking a new shape with each wind
 ---
 
 Infused Navy Beans are the Bean Zodiac's most dogmatic — the one who runs their life on tested principle and won't be talked out of it by the mood of the room. They've done the thinking, they hold the line, and there's real relief in dealing with someone whose yes means yes; you always know where they stand, and they stand there whether or not it's convenient. People rely on that fixedness more than they admit.

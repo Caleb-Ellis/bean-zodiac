@@ -28,6 +28,11 @@ answerHigh: pull two people into a sharper conversation in the corner
 answerMid: take a seat, read the room, and turn the volume halfway up
 answerLow: order coffee and match the slow tempo of the table
 answerLeast: stay quiet; let someone else be the weather
+rorschachMost: a lightning fork splitting a dark sky
+rorschachHigh: sparks crackling off a bare wire
+rorschachMid: two wires crossed on a bench
+rorschachLow: a bulb dimming down to its filament
+rorschachLeast: a dead battery left in a drawer
 ---
 
 Sichuan Green Beans are the Bean Zodiac's most electric — the friend whose arrival changes the wattage of the room within a minute. Group chats wake up when they post. A slow Friday meeting sharpens around the question they ask first. They are the reason three people are still up at 2am and unsure how that happened, and largely glad it did.

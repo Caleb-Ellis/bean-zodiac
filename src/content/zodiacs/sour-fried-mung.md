@@ -28,6 +28,11 @@ answerHigh: laugh and mention the embarrassing part of the process
 answerMid: say thanks and add one honest caveat
 answerLow: say thanks and let the silence hold
 answerLeast: meet their eye, say thank you, and let it land
+rorschachMost: a small figure crouched under a much larger shadow
+rorschachHigh: a hand waving away a plate held out to it
+rorschachMid: a coat hung on a hook by the door
+rorschachLow: a figure standing square at the front of a stage
+rorschachLeast: a trophy lifted high over a single head
 ---
 
 Agrodolce Mung Beans are the Bean Zodiac's most self-deprecating — the joke about themselves is already drafted by the time anyone walks in the door. They cut their own work down a half-inch before showing it, name the burnt corner before you've spotted it, hand you the small unflattering story before the larger flattering one has finished. It's disarming, and it's why people relax around them.

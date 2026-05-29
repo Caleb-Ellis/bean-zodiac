@@ -28,6 +28,11 @@ answerHigh: push it open and head down to see
 answerMid: peer in, then step through
 answerLow: glance, decide it's not your business, stay
 answerLeast: close it and tell the host
+rorschachMost: a diver mid-plunge off a high cliff
+rorschachHigh: a wide-open gate with the path beyond it
+rorschachMid: two kites tangled on a string
+rorschachLow: a turtle pulling halfway into its shell
+rorschachLeast: a locked door with a chain across it
 ---
 
 Scorched Fava Beans are the Bean Zodiac's most fearless. The hard call gets made before the kettle whistles; they walk into the room without the deck because they are the deck, and the thing everyone else was circling all morning gets done while they were still deciding whether to be nervous. They did weigh the risk — quickly, accurately — and then simply moved.

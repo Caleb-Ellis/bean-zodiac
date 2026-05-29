@@ -22,6 +22,11 @@ facetLowTitle: The Receipt Kept Out
 facetLow: Sweetness will not loosen a wrong charge. You keep the tone level, the figure exact until the line is corrected.
 facetLeastTitle: The Room as Arranged
 facetLeast: Visitors learn the chair that is yours; nothing slides over to make the soft accommodation.
+rorschachMost: two figures clinking glasses across a table
+rorschachHigh: a path that bends to follow the river
+rorschachMid: a coat hung neatly on a peg
+rorschachLow: two rams locking horns on a ridge
+rorschachLeast: a wall built straight across the road
 question: The film you didn't really want to see is now playing on three screens and your friends are picking the time. You...
 answerMost: pick the time that suits everyone else and sound pleased about it
 answerHigh: go along with the consensus, easy enough

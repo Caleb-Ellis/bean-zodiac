@@ -28,6 +28,11 @@ answerHigh: tell each the part of the other they're missing
 answerMid: listen, hold off, change the subject when pressed
 answerLow: side with the one who asked first
 answerLeast: pick the one who's plainly right
+rorschachMost: two heads pulling away from one shared neck
+rorschachHigh: a fork in the road with footprints down both
+rorschachMid: a moth balanced on the rim of a bowl
+rorschachLow: an arrow already loosed toward one mark
+rorschachLeast: a single road running straight to the horizon
 ---
 
 Miso Kidney Beans are the Bean Zodiac's most conflicted — and the conflict has been fully thought through, which is the problem. They can describe both sides of the disagreement with such care that each side comes away certain the Kidney Bean is secretly with them, and the Kidney Bean goes home knowing neither was wrong and that this knowledge is no use to anyone.

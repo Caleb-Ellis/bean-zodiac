@@ -28,6 +28,11 @@ answerHigh: ask for a manager by name and don't get off the line
 answerMid: wait it out and state the problem plainly when picked up
 answerLow: leave a polite message and try again tomorrow
 answerLeast: shrug, keep the broken thing, move on with the day
+rorschachMost: a wolf's head with the jaw wide open
+rorschachHigh: two claws raised over something small
+rorschachMid: a vase with a crack down one side
+rorschachLow: a sleeping cat curled in a chair
+rorschachLeast: a rabbit folded low in the grass
 ---
 
 Chipotle Edamame are the Bean Zodiac's most ferocious — the email goes out before anyone in the thread has finished typing the diplomatic version. The boundary lands flat, no preamble, and the friendship that had been quietly costing them is suddenly over by Tuesday morning. They move when the rest of the room is still calibrating, and most of the time the room admits, later, that the move was correct.

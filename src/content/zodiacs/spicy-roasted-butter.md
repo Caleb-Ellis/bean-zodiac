@@ -28,6 +28,11 @@ answerHigh: use the good oil, sparingly, and tell no one
 answerMid: use the everyday oil and promise yourself the good one Friday
 answerLow: skip the oil, butter it, finish standing at the counter
 answerLeast: eat the toast dry and get back to what you were doing
+rorschachMost: oil pooling thick off the edge of a plate
+rorschachHigh: ripe figs split open on a cloth
+rorschachMid: a smear of paint thumbed across the fold
+rorschachLow: an empty bowl set on a bare table
+rorschachLeast: a single stone in a swept courtyard
 ---
 
 Peri-Peri Butter Beans are the Bean Zodiac's most hedonistic — the ones who light the candle on a Tuesday, run the bath at three in the afternoon, open the good wine for no occasion. They cook too much food, they pour the second glass before you've asked, and the room they're in is always slightly warmer and more fragrant than the rooms on either side of it.

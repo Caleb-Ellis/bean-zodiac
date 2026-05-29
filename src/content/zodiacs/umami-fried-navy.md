@@ -28,6 +28,11 @@ answerHigh: hear them out, then default to your way anyway
 answerMid: try a small piece of their approach to see how it goes
 answerLow: try the whole approach and compare honestly afterwards
 answerLeast: assume they know something you don't and follow their lead
+rorschachMost: a crown perched high on an empty throne
+rorschachHigh: a tower looking down over low rooftops
+rorschachMid: a coat folded over a banister
+rorschachLow: a cap held in both hands by a doorway
+rorschachLeast: a small stool tucked under a corner table
 ---
 
 Tempura Navy Beans are the Bean Zodiac's most arrogant — and the trouble is they've mostly earned it. They send the email without the "just," pick the restaurant in twenty fewer seconds than the group could, correct the host on the wine and turn out to be right. The unhedged sentence is the one that gets actioned. The room moves when they call it.

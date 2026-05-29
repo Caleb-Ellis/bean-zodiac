@@ -28,6 +28,11 @@ answerHigh: drop a warm "land safe, message when you can" and a screenshot of th
 answerMid: send one cheerful text and trust they'll check in if they want to
 answerLow: wait until they message first, then reply briefly
 answerLeast: don't message; they'd say if anything was wrong
+rorschachMost: a hen with wings spread wide over her chicks
+rorschachHigh: two arms wrapped tight around a small bundle
+rorschachMid: a folded blanket draped on the back of a couch
+rorschachLow: an open gate swinging on its hinges
+rorschachLeast: a bird flown clear of an empty nest
 ---
 
 Glazed Kidney Beans are the Bean Zodiac's most overprotective — the ones who fetch a guest's coat, their umbrella, a clean tin for the train, and walk them to the corner. They rearrange the spare room before the visitor arrives, then move the lamp once more so the reading chair sits inside its pool of light. The care is unembarrassed and exact.

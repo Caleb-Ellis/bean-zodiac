@@ -237,24 +237,14 @@ export default function Timeline({
                   <div
                     className={`flex-1 min-w-0 rounded-2xl border-2 p-4 transition-colors ${isActive ? "border-blue-800 bg-zinc-900" : "border-zinc-800 bg-zinc-900/60"}`}
                   >
-                    <div className="flex items-center gap-6">
-                      {fortuneBean && (
-                        <div className="shrink-0" style={{ width: "3rem" }}>
-                          <Bean
-                            bean={fortuneBean}
-                            flavourId={fId}
-                            formId={frId}
-                            qualityId={node.qualityId}
-                          />
-                        </div>
-                      )}
-                      <div className="flex-1 min-w-0">
+                    <div className="flex flex-col items-center text-center sm:flex-row sm:items-center sm:text-left gap-4 sm:gap-6">
+                      <div className="order-1 sm:order-2 flex-1 min-w-0 w-full">
                         <p className="text-xs text-zinc-500 mb-1">
                           {formatDisplayDate(node.date)}
                         </p>
 
                         {fortuneBean && (
-                          <p className="text-sm font-bold uppercase tracking-widest text-zinc-200 mb-2">
+                          <p className="text-sm font-bold uppercase tracking-widest text-zinc-200 sm:mb-2">
                             <ZodiacName
                               flavourId={fId}
                               formId={frId}
@@ -266,6 +256,81 @@ export default function Timeline({
                             />
                           </p>
                         )}
+                        <div className="hidden sm:block">
+                          {node.text ? (
+                            <p className="italic text-zinc-300 text-sm mb-2">
+                              "{node.text}"
+                            </p>
+                          ) : (
+                            <p className="italic text-zinc-500 text-xs mb-2">
+                              This bean had nothing to say to you this day.
+                            </p>
+                          )}
+                          <hr className="border-t border-zinc-800 mt-1 mb-2" />
+                          {node.variant === "question" && node.question ? (
+                            <p className="italic text-zinc-500 text-xs mb-2">
+                              {node.question}
+                            </p>
+                          ) : node.variant === "rorschach" &&
+                            node.rorschachImage ? (
+                            <div
+                              aria-hidden
+                              className="w-14 h-14 bg-zinc-200 mb-2"
+                              style={{
+                                maskImage: `url(${node.rorschachImage})`,
+                                WebkitMaskImage: `url(${node.rorschachImage})`,
+                                maskRepeat: "no-repeat",
+                                WebkitMaskRepeat: "no-repeat",
+                                maskSize: "contain",
+                                WebkitMaskSize: "contain",
+                                maskPosition: "center",
+                                WebkitMaskPosition: "center",
+                              }}
+                            />
+                          ) : (
+                            node.facetText && (
+                              <p className="italic text-zinc-500 text-xs mb-2">
+                                {node.facetTitle && (
+                                  <span className="not-italic font-semibold text-zinc-400">
+                                    {node.facetTitle}:{" "}
+                                  </span>
+                                )}
+                                {node.facetText}
+                              </p>
+                            )
+                          )}
+                          <div className="flex flex-wrap items-center gap-2">
+                            {node.variant === "question" && node.answerText ? (
+                              <FortuneAnswerBadge
+                                answerText={node.answerText}
+                                size="sm"
+                              />
+                            ) : node.variant === "rorschach" &&
+                              node.rorschachText ? (
+                              <FortuneAnswerBadge
+                                answerText={node.rorschachText}
+                                size="sm"
+                              />
+                            ) : (
+                              <FortuneScoreBadge score={node.score} size="sm" />
+                            )}
+                          </div>
+                        </div>
+                      </div>
+                      {fortuneBean && (
+                        <div
+                          className="shrink-0 order-2 sm:order-1"
+                          style={{ width: "3rem" }}
+                        >
+                          <Bean
+                            bean={fortuneBean}
+                            flavourId={fId}
+                            formId={frId}
+                            qualityId={node.qualityId}
+                          />
+                        </div>
+                      )}
+                      <div className="order-3 w-full flex flex-col items-center sm:hidden">
                         {node.text ? (
                           <p className="italic text-zinc-300 text-sm mb-2">
                             "{node.text}"
@@ -275,10 +340,27 @@ export default function Timeline({
                             This bean had nothing to say to you this day.
                           </p>
                         )}
+                        <hr className="border-t border-zinc-800 mt-1 mb-2 w-full" />
                         {node.variant === "question" && node.question ? (
                           <p className="italic text-zinc-500 text-xs mb-2">
                             {node.question}
                           </p>
+                        ) : node.variant === "rorschach" &&
+                          node.rorschachImage ? (
+                          <div
+                            aria-hidden
+                            className="w-14 h-14 bg-zinc-200 mb-2"
+                            style={{
+                              maskImage: `url(${node.rorschachImage})`,
+                              WebkitMaskImage: `url(${node.rorschachImage})`,
+                              maskRepeat: "no-repeat",
+                              WebkitMaskRepeat: "no-repeat",
+                              maskSize: "contain",
+                              WebkitMaskSize: "contain",
+                              maskPosition: "center",
+                              WebkitMaskPosition: "center",
+                            }}
+                          />
                         ) : (
                           node.facetText && (
                             <p className="italic text-zinc-500 text-xs mb-2">
@@ -291,10 +373,16 @@ export default function Timeline({
                             </p>
                           )
                         )}
-                        <div className="flex flex-wrap items-center gap-2">
+                        <div className="flex flex-wrap items-center justify-center gap-2">
                           {node.variant === "question" && node.answerText ? (
                             <FortuneAnswerBadge
                               answerText={node.answerText}
+                              size="sm"
+                            />
+                          ) : node.variant === "rorschach" &&
+                            node.rorschachText ? (
+                            <FortuneAnswerBadge
+                              answerText={node.rorschachText}
                               size="sm"
                             />
                           ) : (
@@ -360,9 +448,17 @@ export default function Timeline({
                 <div
                   className={`flex-1 min-w-0 rounded-2xl border-2 p-4 transition-colors ${isActive ? "border-blue-800 bg-zinc-900" : "border-zinc-800 bg-zinc-900/60"}`}
                 >
-                  <div className="flex items-center gap-6">
+                  <div className="flex flex-col items-center text-center sm:flex-row sm:items-center sm:text-left gap-4 sm:gap-6">
+                    {claimedOn && (
+                      <p className="text-xs text-zinc-500 order-1 sm:hidden">
+                        {formatDisplayDate(claimedOn)}
+                      </p>
+                    )}
                     {claimedBean && (
-                      <div className="shrink-0" style={{ width: "3rem" }}>
+                      <div
+                        className="shrink-0 order-2 sm:order-1"
+                        style={{ width: "3rem" }}
+                      >
                         <Bean
                           bean={claimedBean}
                           flavourId={claimedFlavourId}
@@ -370,13 +466,13 @@ export default function Timeline({
                         />
                       </div>
                     )}
-                    <div className="flex-1 min-w-0">
+                    <div className="flex-1 min-w-0 order-3 sm:order-2 w-full">
                       {claimedOn && (
-                        <p className="text-xs text-zinc-500 mb-1">
+                        <p className="hidden sm:block text-xs text-zinc-500 mb-1">
                           {formatDisplayDate(claimedOn)}
                         </p>
                       )}
-                      <p className="text-sm font-bold uppercase tracking-widest text-zinc-200 mb-2">
+                      <p className="text-sm font-bold uppercase tracking-widest text-zinc-200 sm:mb-2">
                         You claimed the{" "}
                         <ZodiacName
                           flavourId={claimedFlavourId}

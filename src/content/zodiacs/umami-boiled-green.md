@@ -22,6 +22,11 @@ facetLowTitle: One Bean, Dressed
 facetLow: You make the one thing you came to make and put the knife down.
 facetLeastTitle: The Dashi, Untouched
 facetLeast: Weeks pass between the things you ship, and you don't apologise for the gap.
+rorschachMost: a colander spilling over with shapes
+rorschachHigh: a vine crowding the whole of a wall
+rorschachMid: a spray of dots flung across paper
+rorschachLow: three seeds set apart on bare ground
+rorschachLeast: one mark alone in a wide field
 question: It's Sunday night. You have three half-finished projects on the bench and an idea for a fourth that just hit you in the shower. You...
 answerMost: start the fourth tonight while the idea is still warm
 answerHigh: jot the fourth down, then queue it behind the other three

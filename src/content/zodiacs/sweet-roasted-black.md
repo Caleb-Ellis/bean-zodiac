@@ -28,6 +28,11 @@ answerHigh: laugh and list two of the smaller things like they were nothing
 answerMid: say "busy" and change the subject to them
 answerLow: admit it's been a lot, then steer toward the easier one
 answerLeast: tell them the actual hardest one and watch your own face crumple
+rorschachMost: an old oak still standing after the storm
+rorschachHigh: a stone worn smooth but holding its shape
+rorschachMid: two ink spots facing each other like wings
+rorschachLow: a cracked vase someone propped back upright
+rorschachLeast: a thin reed snapped flat against the mud
 ---
 
 Glazed Black Beans are the Bean Zodiac's most resilient — the ones who reopen the draft they mourned and sit with the broken passage until it cracks the right way. They sleep through the ache they earned and wake up usable. They balance the column nobody else wanted to look at.

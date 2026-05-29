@@ -22,6 +22,11 @@ facetLowTitle: The Bean That Keeps Its Skin
 facetLow: You sit through the whole film without once redecorating the apartment in your head, and the credits feel earned.
 facetLeastTitle: The Unsweetened Cup
 facetLeast: You strip the guest room down to a made bed and a lamp, and call the room finished.
+rorschachMost: clouds drifting into the shape of a face
+rorschachHigh: smoke curling up from a snuffed candle
+rorschachMid: a scarf hung over the back of a chair
+rorschachLow: a surveyor's stake hammered into firm ground
+rorschachLeast: a brick set square into a finished wall
 question: A long train journey, the window seat, no signal. The tea trolley is forty minutes away. You...
 answerMost: build the whole next chapter of an imagined life in the reflection and miss the trolley when it comes
 answerHigh: watch one field go by and start writing a letter in your head to someone you haven't seen in years

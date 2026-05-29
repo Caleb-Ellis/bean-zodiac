@@ -28,6 +28,11 @@ answerHigh: pivot one course, keep the rest, tell no one
 answerMid: stick with the plan but swap in one new flourish
 answerLow: finish the original recipe and add the new idea next time
 answerLeast: cook the dish you've made for them before; tonight isn't the night
+rorschachMost: a lightning bolt forking three ways at once
+rorschachHigh: a path that doubles back on itself twice
+rorschachMid: a butterfly with mismatched wings
+rorschachLow: a row of fence posts at even spacing
+rorschachLeast: a ruler laid flat along a straight edge
 ---
 
 Chipotle Pinto Beans are the Bean Zodiac's most erratic — and the most fun to watch cook. The story in the group chat has taken four turns in an hour and each turn is better than the last. The recipe abandons itself halfway through and arrives at something nobody could have planned. People stay close to them for the swerves; the dish is never the dish you ordered and is usually better.

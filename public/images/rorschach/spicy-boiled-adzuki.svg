@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="28 28 200 200" width="200" height="200">
+  <defs>
+    <filter id="blot" x="-20%" y="-20%" width="140%" height="140%" color-interpolation-filters="sRGB">
+      <feTurbulence type="fractalNoise" baseFrequency="0.0237" numOctaves="2" seed="8524" result="noise" />
+      <feDisplacementMap in="SourceGraphic" in2="noise" scale="37" xChannelSelector="R" yChannelSelector="G" result="warped" />
+      <feGaussianBlur in="warped" stdDeviation="1.90" result="blurred" />
+      <feColorMatrix in="blurred" type="matrix" values="0 0 0 0 0.05  0 0 0 0 0.05  0 0 0 0 0.06  0 0 0 1.6 -0.2" />
+    </filter>
+  </defs>
+  <g transform="translate(0 0) scale(1 1)">
+    <g filter="url(#blot)">
+      <g>
+        
+    <g>
+      <image href="/images/adzuki.svg" x="-67.48" y="-46.48" width="360.96" height="360.96" transform="rotate(-27 113 134)" />
+      <text x="137" y="179" font-size="80" text-anchor="middle" dominant-baseline="central" transform="rotate(-12 137 179)">🌶️</text>
+      <text x="146" y="102" font-size="81" text-anchor="middle" dominant-baseline="central" transform="rotate(-30 146 102)">💧</text>
+    </g>
+        <g transform="translate(256 0) scale(-1 1)">
+          
+    <g>
+      <image href="/images/adzuki.svg" x="-67.48" y="-46.48" width="360.96" height="360.96" transform="rotate(-27 113 134)" />
+      <text x="137" y="179" font-size="80" text-anchor="middle" dominant-baseline="central" transform="rotate(-12 137 179)">🌶️</text>
+      <text x="146" y="102" font-size="81" text-anchor="middle" dominant-baseline="central" transform="rotate(-30 146 102)">💧</text>
+    </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

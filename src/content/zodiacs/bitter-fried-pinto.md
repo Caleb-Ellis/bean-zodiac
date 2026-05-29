@@ -28,6 +28,11 @@ answerHigh: catch a friend's eye and mutter the joke
 answerMid: clap politely and save the line for after
 answerLow: take it at face value, even the awkward bits
 answerLeast: feel genuinely moved and tell them so
+rorschachMost: a pin popping a parade balloon
+rorschachHigh: a crown knocked sideways off a head
+rorschachMid: two paper hats on a table
+rorschachLow: a candle lit in a quiet alcove
+rorschachLeast: a bowed head before a solemn altar
 ---
 
 Scorched Pinto Beans are the Bean Zodiac's most irreverent. They answer the long earnest message with one shelled line that cracks the whole thread open, name the thing nobody was naming and watch the hour-long meeting buckle to twenty minutes. Pointed at a piece of pretension dressed up as structure, the puncture is a public service, and the room is usually grateful.

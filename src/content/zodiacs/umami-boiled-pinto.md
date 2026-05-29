@@ -22,6 +22,11 @@ facetLowTitle: The Second Pot, Early
 facetLow: You publish the rough thing, then the next, and the finished one never arrives.
 facetLeastTitle: The Lid Off, Burner High
 facetLeast: You leave the door open, the music on, the half-read book face-down on every surface.
+rorschachMost: a small creature pressed into a corner
+rorschachHigh: a figure half-hidden behind a doorframe
+rorschachMid: a soft shape curled at the page's edge
+rorschachLow: a hand raised flat into the open air
+rorschachLeast: a figure stood square at the front of a stage
 question: A client asks what your rate is for a piece of work you know is worth more than you usually charge. You...
 answerMost: quote the usual figure, then round it down a little just in case
 answerHigh: name your normal rate and brace for the pushback that doesn't come

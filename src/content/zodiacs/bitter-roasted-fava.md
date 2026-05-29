@@ -28,6 +28,11 @@ answerHigh: send three options and start narrowing
 answerMid: float an idea and see who bites
 answerLow: agree with whoever sounds most sure
 answerLeast: wait for someone else to send the link
+rorschachMost: a prow cutting into open uncharted water
+rorschachHigh: a single track pushing off into fresh snow
+rorschachMid: a moth resting on a smooth grey wall
+rorschachLow: a line of ducks trailing behind the first
+rorschachLeast: a worn path circling back to its own gate
 ---
 
 Wood-Fired Fava Beans are the Bean Zodiac's most pioneering — they venture into unmapped territory and trust the smoke to find its bearings. They begin the thing nobody asked for yet, walk first into the empty room, suggest the route before anyone's voted on it. Where they go, the path appears underfoot.

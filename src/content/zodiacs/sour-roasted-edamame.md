@@ -22,6 +22,11 @@ facetLowTitle: Shells Keeping Their Seed
 facetLow: The good plates stay in the cupboard, the loud books face-down on the shelf.
 facetLeastTitle: Salt Held Back
 facetLeast: You finish the work in private and show no one for a year.
+rorschachMost: an arrow pointing straight at the middle
+rorschachHigh: a pod split clean down the seam
+rorschachMid: two ferns leaning over a still pool
+rorschachLow: a path that loops back on itself
+rorschachLeast: a letter slid back under the door unread
 question: A friend is talking around a problem they haven't yet seen clearly, and there's a pause. You...
 answerMost: name the problem in one sentence before they take another breath
 answerHigh: say what you think the real issue is and let them push back

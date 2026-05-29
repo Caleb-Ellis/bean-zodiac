@@ -28,6 +28,11 @@ answerHigh: play the spite move that costs you points but blocks the leader
 answerMid: try one last gamble and laugh if it fails
 answerLow: take the loss and hand back the dice
 answerLeast: forget who was winning and refill everyone's drinks
+rorschachMost: two stags with antlers locked head to head
+rorschachHigh: a runner lunging at a stretched finish tape
+rorschachMid: a moth resting on a smooth grey wall
+rorschachLow: two cats dozing in the same patch of sun
+rorschachLeast: a pile of trophies left to gather dust
 ---
 
 Wood-Fired Green Beans are the Bean Zodiac's most competitive — they need to win and want you to see it. At a table of friends they turn the easy game into a real one and stay until someone concedes; they check where they sit on some private scoreboard before the kettle's even boiled. The standard they hold is genuinely high, and they meet it more often than not.

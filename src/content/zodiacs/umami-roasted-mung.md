@@ -22,6 +22,11 @@ facetLowTitle: The Chilli, Snapped Clean
 facetLow: You answer the door on the first knock; whatever the visitor brought, you take it as it comes.
 facetLeastTitle: Shells Before They Cool
 facetLeast: You make plans for Thursday on Wednesday night and Thursday arrives clean, with no Tuesday clinging to it.
+rorschachMost: a figure looking back over one shoulder at rain
+rorschachHigh: a low tide leaving dark wet sand behind
+rorschachMid: two herons standing in still gray water
+rorschachLow: a kite catching wind on a bright afternoon
+rorschachLeast: balloons let go all at once into open sky
 question: An old song comes on in the doorway between rooms and you feel it land. You...
 answerMost: stand still, let the whole song play, don't move until it's finished
 answerHigh: stop where you are and listen, eyes a little lost

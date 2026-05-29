@@ -28,6 +28,11 @@ answerHigh: write the hot reply, then send the slightly cooler one
 answerMid: draft something sharp and sit on it for an hour
 answerLow: wait until morning; ask the sender for a call instead
 answerLeast: let it go; the sender will hear themselves eventually
+rorschachMost: a thunderhead breaking open over a ridge
+rorschachHigh: sparks leaping off a struck anvil
+rorschachMid: two gulls turning over a grey shoreline
+rorschachLow: a kettle cooling on an unlit stove
+rorschachLeast: a flat lake holding the sky without a ripple
 ---
 
 Red-Hot Kidney Beans are the Bean Zodiac's most temperamental — the reply is half-written before the email is finished, and it lands while the original is still smoking. The room they leave behind tends to be brighter, clearer, and slightly more nervous; they say the thing nobody else would, and they say it in the moment it was actually true.

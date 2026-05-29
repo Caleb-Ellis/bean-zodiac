@@ -28,6 +28,11 @@ answerHigh: agree where they were right, gently flag the part that wasn't
 answerMid: ask one question that lets them notice it themselves
 answerLow: focus on what the sibling did and save the rest for later
 answerLeast: take their side completely and refill their glass
+rorschachMost: a scale with both pans hanging level
+rorschachHigh: a mirror split down the exact middle
+rorschachMid: a beetle seen straight from above
+rorschachLow: two figures, one a step closer than the other
+rorschachLeast: a hand resting heavy on one side of the table
 ---
 
 Brined Mung Beans are the Bean Zodiac's most impartial. Bring them a quarrel and they weigh it the same way they'd weigh a stranger's — both versions get the full hearing, neither side gets the thumb on the scale, and the answer that comes back is usually the one nobody in the room wanted but everyone, on reflection, recognises. It's a rare and useful thing to have in a friend group; the fights they mediate tend to stay mediated.

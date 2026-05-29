@@ -22,6 +22,11 @@ facetLowTitle: The Cold Pot
 facetLow: You leave the lamp off in the front room and read by the kitchen light, the door half-shut.
 facetLeastTitle: Coals After the Cooking
 facetLeast: You read the message, decide later, and the screen darkens before you answer.
+rorschachMost: a lantern hung in a doorway, light spilling out
+rorschachHigh: a candle flame leaning toward an open window
+rorschachMid: two moths meeting at the centre fold
+rorschachLow: a shuttered window with the curtain drawn
+rorschachLeast: a lamp turned to the wall in an empty room
 question: A power cut on the third night of the visit. The room goes dark and someone fetches the candles. You...
 answerMost: pull the chairs into a circle without saying so and start the story you've been holding all week
 answerHigh: light the candles slowly enough that the room arranges itself around the small ritual

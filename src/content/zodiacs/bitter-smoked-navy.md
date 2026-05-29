@@ -28,6 +28,11 @@ answerHigh: send a short note flagging the risk, no soft language
 answerMid: raise it once over coffee and let it sit
 answerLow: keep an eye on it and speak up if it actually wobbles
 answerLeast: tell yourself everyone else can see the same thing
+rorschachMost: a storm cloud massing over a low roof
+rorschachHigh: a crack spreading across a dark wall
+rorschachMid: two smudges meeting at a fold
+rorschachLow: a calm bay under an even sky
+rorschachLeast: a sunlit meadow with nothing approaching
 ---
 
 Charcoal Navy Beans are the Bean Zodiac's most ominous. They name the thing going wrong in a project weeks before anyone else looks up, wake at four with a knot under the ribs the morning before the call comes, and are right often enough that the people around them have stopped betting against it.

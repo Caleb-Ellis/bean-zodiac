@@ -28,6 +28,11 @@ answerHigh: send a "great talking, here's a thought" email by morning
 answerMid: tell two friends about it and see how it sounds out loud
 answerLow: file it away and wait to see if they reach out
 answerLeast: forget the conversation by the time you find your coat
+rorschachMost: a ladder reaching up past the top of the frame
+rorschachHigh: a vine climbing fast over a high wall
+rorschachMid: two birds circling the same open field
+rorschachLow: a boat tied loosely to a low dock
+rorschachLeast: a cat curled asleep on a warm step
 ---
 
 Red-Hot Cannellini Beans are the Bean Zodiac's most ambitious — already moving toward the next thing before the current one has cooled. They take the larger version of every offer, book the follow-up before the conversation ends, and finish the favour they half-promised by Wednesday without mentioning it. Whatever room they're in, they're already partly in the next one.

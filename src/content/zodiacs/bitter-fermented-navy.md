@@ -28,6 +28,11 @@ answerHigh: find the one essay you underlined years ago that named exactly this,
 answerMid: read for an hour, then write down what your gut already knew
 answerLow: skip the reading, write it out longhand, see what comes
 answerLeast: shut the books, put your shoes on, and walk it out of yourself
+rorschachMost: an open book with a ribbon marking the place
+rorschachHigh: a stack of volumes bristling with paper tabs
+rorschachMid: two pages flapping in a half-open book
+rorschachLow: a pair of muddy boots by the back door
+rorschachLeast: a worn wrench gripped in a working hand
 ---
 
 Cultured Navy Beans are the Bean Zodiac's most bookish — the ones who annotate borrowed books in the margins, shelve by argument rather than author, and keep forty tabs open across three devices until the through-line finally surfaces. When a disagreement comes, they don't raise their voice; they place the one sourced sentence that ends it, and the room goes quiet. The library inside is real, and it's deep.

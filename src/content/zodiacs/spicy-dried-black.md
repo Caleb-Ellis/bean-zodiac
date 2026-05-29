@@ -28,6 +28,11 @@ answerHigh: file it for later and ask a steadying question to move the table on
 answerMid: go quiet for a beat and let the conversation drift past
 answerLow: catch their eye after and say one sentence in the hallway
 answerLeast: name it across the table, plainly, while it's still warm
+rorschachMost: a lid clamped tight over a dark pot
+rorschachHigh: steam pressed thin under a heavy cloth
+rorschachMid: a folded napkin laid across a plate
+rorschachLow: a kettle starting to rattle its top
+rorschachLeast: a pot boiled clean over the rim
 ---
 
 Sichuan Black Beans are the Bean Zodiac's most suppressed — and the most composed-looking person at a difficult dinner. The slight has landed, the fever is real, the inner monologue is doing a full lap of the room — and outside, they're refilling someone's glass and asking how the dog's leg healed. People mistake the steadiness for not minding. It is not that.

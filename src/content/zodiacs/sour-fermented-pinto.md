@@ -28,6 +28,11 @@ answerHigh: reply yes and quietly assume the worse of the two likely options
 answerMid: ask which sort of news, in a tone that lets them say neither
 answerLow: reply yes and carry on with your evening
 answerLeast: text back "congratulations!" with the exclamation mark
+rorschachMost: a storm cloud massing over a small roof
+rorschachHigh: a bridge with one plank gone
+rorschachMid: a hill with a single tree on it
+rorschachLow: a window full of late afternoon light
+rorschachLeast: a clear sky over an open meadow
 ---
 
 Pickled Pinto Beans are the Bean Zodiac's most pessimistic — and the pessimism is showing its working. They have packed the lime and the bandage long before anyone else admitted the weather was turning; they have read past the cheerful opening to the third paragraph where the actual message is hiding; they have stood by the pot with the spoon already raised because they could hear the seam beginning to split. More often than is comfortable, they were right.

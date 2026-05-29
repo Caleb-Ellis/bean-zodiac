@@ -22,6 +22,11 @@ facetLowTitle: The Clean Broth
 facetLow: You host the way a clean broth reads — chairs squared, napkins folded, the kimchi in a dish that matches the bowls.
 facetLeastTitle: Cabbage Sheets in Brine
 facetLeast: Folders labelled, threads closed, every message answered before the butter melts.
+rorschachMost: a teapot growing one extra spout
+rorschachHigh: a chair with legs of mismatched length
+rorschachMid: two leaves drifting down a gutter
+rorschachLow: a row of identical fence posts
+rorschachLeast: a plain square tile laid straight
 question: You're picking a gift for a new colleague's birthday. The team is splitting the cost on something safe. You...
 answerMost: bring your own odd thing instead and hand it over separately
 answerHigh: add the strange small extra to the group gift

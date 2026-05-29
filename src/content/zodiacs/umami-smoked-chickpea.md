@@ -28,6 +28,11 @@ answerHigh: reach across and rest a hand on their wrist
 answerMid: say "I'm sorry — that's a lot" and let the pause sit
 answerLow: tell them what you'd do in their place
 answerLeast: lay out three options and ask which they're leaning toward
+rorschachMost: a sealed envelope with no writing on it
+rorschachHigh: a finger pressed flat against closed lips
+rorschachMid: two hills with a low mist between them
+rorschachLow: a speech bubble crowded with tiny letters
+rorschachLeast: a megaphone tipped over and still blaring
 ---
 
 Hickory Chickpeas are the Bean Zodiac's most wordless — they leave the heaviest moment in a conversation un-translated, on purpose. A friend cries at the table and they push the water glass an inch closer; a coworker gets the bad news and they take the meeting off their calendar without being asked. The understanding gets across, somehow, without anyone needing to put it down on paper.

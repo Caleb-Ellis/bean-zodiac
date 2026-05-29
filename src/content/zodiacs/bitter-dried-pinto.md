@@ -22,6 +22,11 @@ facetLowTitle: No Shell to Crack
 facetLow: When you owe an apology you pay it in full and on the table. Whoever wronged you knows by sundown.
 facetLeastTitle: Every Jar Named
 facetLeast: A guest could read your kitchen like a recipe and miss nothing.
+rorschachMost: a locked box with no visible seam
+rorschachHigh: symbols in an alphabet no one reads
+rorschachMid: a map folded so the place is hidden
+rorschachLow: a sign painted in plain block letters
+rorschachLeast: an open window into a lit kitchen
 question: Someone asks why you're quiet tonight. The real answer is complicated. You...
 answerMost: tell them a story about something else entirely
 answerHigh: say "long week" and let them read into it

@@ -22,6 +22,11 @@ facetLowTitle: The Slow Steep
 facetLow: You finish what's on the cutting board before reaching for the next thing, and you do not hurry the simmer for company.
 facetLeastTitle: The Bill Split Clean
 facetLeast: You return the exact change, file the receipt, and decline the detour someone offers on the walk home.
+rorschachMost: a puppy tumbling after a bouncing ball
+rorschachHigh: a pinwheel spinning on a windy lawn
+rorschachMid: a hat resting on a coat stand
+rorschachLow: a judge's gavel laid on a bench
+rorschachLeast: a slab of granite under grey sky
 question: A serious conversation at dinner has gone quiet and slightly heavy. You...
 answerMost: lob the perfect dumb joke and reset the room
 answerHigh: tell the loosely related story that lifts the mood

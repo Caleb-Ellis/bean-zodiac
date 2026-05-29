@@ -28,6 +28,11 @@ answerHigh: wait for the pause and say what you've been seeing for weeks
 answerMid: ask one question that points them at it without naming it
 answerLow: nod along and let them arrive there on their own
 answerLeast: tell them either way it'll probably work out
+rorschachMost: an open eye watching the road ahead
+rorschachHigh: a hand pointing past the edge of the frame
+rorschachMid: two halves of a folded paper fan
+rorschachLow: a blindfold knotted at the back
+rorschachLeast: someone walking with both eyes shut
 ---
 
 Charcoal Adzuki Beans are the Bean Zodiac's most oracular. They knew the relationship was over the night everyone else called it a rough patch, knew which colleague would quit before the colleague did, felt the room turn a sentence before it turned. They are right with a frequency that unsettles the people who love them.

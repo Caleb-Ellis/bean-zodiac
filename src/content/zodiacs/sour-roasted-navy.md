@@ -22,6 +22,11 @@ facetLowTitle: The Pot Claims the Stove
 facetLow: You arrive announced, dressed for the photograph, and the room reorganises around your arrival.
 facetLeastTitle: Sugar Before the First Sip
 facetLeast: Every thought reaches the group chat before it reaches you, annotated and stickered.
+rorschachMost: a pencil mark almost rubbed away
+rorschachHigh: a small grey stone in a riverbed
+rorschachMid: two sparrows tucked under an eave
+rorschachLow: a flag snapping on a tall pole
+rorschachLeast: a brass trophy under a spotlight
 question: You finish the unglamorous job nobody else wanted, the room is full, and the lead is about to wrap the meeting. You...
 answerMost: stay silent and let the work be discovered on its own
 answerHigh: mention it in one short sentence and move the agenda forward

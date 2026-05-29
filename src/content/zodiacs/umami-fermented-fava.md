@@ -28,6 +28,11 @@ answerHigh: ask one inconvenient question
 answerMid: register the concern, follow the plan
 answerLow: go along — it's not the hill
 answerLeast: relax, the group decided
+rorschachMost: a fence with one plank kicked clean out
+rorschachHigh: a flag torn loose, snapping the wrong way
+rorschachMid: a beetle flipped onto its back, legs raised
+rorschachLow: a sheep tucked into the middle of the flock
+rorschachLeast: rows of chairs all facing the same direction
 ---
 
 Miso Fava Beans are the Bean Zodiac's most rebellious — but the refusal has been sitting in a sealed crock for years and tastes nothing like a tantrum. They've already worked out, on their own, three reasons the agreed-upon plan won't survive contact with reality, and they nod through the meeting and then go and do it differently in the corner, where it works.

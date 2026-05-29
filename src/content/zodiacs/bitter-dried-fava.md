@@ -22,6 +22,11 @@ facetLowTitle: The Softened Harissa
 facetLow: A friend wavers and you bend the evening around them, the rough edge taken off before it reaches them.
 facetLeastTitle: The Sanded Rim
 facetLeast: Cushions everywhere, lamps kept low — nothing in your house left to grind against you.
+rorschachMost: an anvil under a single cold light
+rorschachHigh: a blade held edge-up on a block
+rorschachMid: a hinge bolted to a heavy door
+rorschachLow: a pillow dented where a head had lain
+rorschachLeast: a wax candle slumped in the heat
 question: It's hour six of a hike and the weather turns. The car is still two hours out. You...
 answerMost: pull the hood up and keep the pace
 answerHigh: shoulder the heavier pack and press on

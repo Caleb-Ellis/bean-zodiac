@@ -28,6 +28,11 @@ answerHigh: open with a quip, then answer underneath it
 answerMid: write something honest with one wry aside
 answerLow: type the plain answer and send it
 answerLeast: reply "fine, you?" and put the phone down
+rorschachMost: a jester's cap with two bells dangling
+rorschachHigh: a cat slipping sideways out of a hat
+rorschachMid: a moth resting on a smooth grey wall
+rorschachLow: a plain ledger ruled into even columns
+rorschachLeast: a flat grey stone laid on bare ground
 ---
 
 Wood-Fired Edamame are the Bean Zodiac's wittiest — sharp without making anyone feel small. They hold court from the edge of the room, trading the shortest sentences for the longest laughs, and by morning the group chat is quoting them back to themselves. The remark always arrives salted and blistered exactly right.

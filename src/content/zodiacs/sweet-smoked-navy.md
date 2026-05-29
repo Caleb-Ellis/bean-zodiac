@@ -22,6 +22,11 @@ facetLowTitle: The Lid Lifts, Steam Gone
 facetLow: You leave a gathering cleanly, take nothing home, and by morning the evening has unhooked itself from you entirely.
 facetLeastTitle: Wind Off an Open Pot
 facetLeast: Weather passes through you without staining — yesterday's grief, yesterday's joy, the same uncluttered sky.
+rorschachMost: a stain that won't lift from old wood
+rorschachHigh: smoke still curling above a snuffed wick
+rorschachMid: two footprints pressed into damp clay
+rorschachLow: a wave already sliding back off the sand
+rorschachLeast: a clean window with the sky passing through it
 question: An old friend mentions, casually, something kind you said to them years ago. You...
 answerMost: remember the conversation in full, and the room it happened in
 answerHigh: recognise the line as something you'd say, and pretend to remember the rest

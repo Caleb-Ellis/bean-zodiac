@@ -28,6 +28,11 @@ answerHigh: dial it down by half and let the punchline land smaller
 answerMid: notice it, keep going, and feel the small wince afterwards
 answerLow: keep going; the table is already with you
 answerLeast: lean further in — they came for the voice anyway
+rorschachMost: two faces leaning in to study each other
+rorschachHigh: a figure caught in a mirror, half-turned
+rorschachMid: a moth with one wing wider than the other
+rorschachLow: a crowd seen from behind, all facing away
+rorschachLeast: a kite pulling hard toward the open sky
 ---
 
 Pickled Adzuki Beans are the Bean Zodiac's most self-aware — they have already had the thought you were about to gently raise with them. Ask one why they ducked the party and you get the real reason on the first try: not "I was tired" but the specific friend, the specific dread, the exact minute the dread started. They watch themselves the way other people watch the weather, and they can tell you, with footnotes, which mood is real and which one is performance left on too long.

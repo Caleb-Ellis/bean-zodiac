@@ -22,6 +22,11 @@ facetLowTitle: The Pot's Own Time
 facetLow: You sleep when tired, eat when hungry, and rarely catch a cold you couldn't have predicted from the weather.
 facetLeastTitle: Salt and Fat, Blurred
 facetLeast: Rain starts and surprises you every time; the mood of a room reaches you only when somebody names it aloud.
+rorschachMost: an owl's two eyes wide in the dark
+rorschachHigh: a watchtower above a still treeline
+rorschachMid: a pair of antennae on a flat shape
+rorschachLow: a curtain drawn across half a window
+rorschachLeast: a figure asleep with its back to the door
 question: You're at a small dinner and notice that one guest has gone unusually quiet over the last ten minutes. You...
 answerMost: catch their eye, find a quiet moment, and check in directly
 answerHigh: steer the table conversation gently toward something they can join

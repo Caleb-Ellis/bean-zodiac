@@ -28,6 +28,11 @@ answerHigh: text them a friendly "mind grabbing milk on your way back?" with a s
 answerMid: pick it up yourself and mention it lightly when they're home
 answerLow: leave a note on the fridge that's firmer than you mean it to be
 answerLeast: sit them down that evening and have the actual conversation about shared groceries
+rorschachMost: a hammock slung loose between two palm trees
+rorschachHigh: a cat stretched flat in a square of sun
+rorschachMid: two halves of a soft cloud drifting apart
+rorschachLow: a clenched jaw set hard against the cold
+rorschachLeast: a fist pounding a list onto the table
 ---
 
 Glazed Mung Beans are the Bean Zodiac's most easygoing — the ones who set another plate for the guests who showed up an hour early and don't rearrange the night around it. A friend arrives sharp-cornered; out comes the chair, the glass, no questions, and the corners go. The unread thread crests past forty and they tap in warmly and leave the rest.

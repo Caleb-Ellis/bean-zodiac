@@ -28,6 +28,11 @@ answerHigh: point at the one bit that's clearly working and ask about it
 answerMid: say "tell me about it" and let them lead
 answerLow: say "wow, beautiful" and put it on the fridge
 answerLeast: say "best one yet" and take a photo to send their other parent
+rorschachMost: a glass of clear water with nothing settled in it
+rorschachHigh: a window with the curtain drawn fully back
+rorschachMid: two birds facing away from each other
+rorschachLow: a face turned to catch the better light
+rorschachLeast: a polished mirror angled to flatter the room
 ---
 
 Brined Butter Beans are the Bean Zodiac's most honest — but the honesty arrives at low volume, after the room has settled and the wine has been poured. They will not perform the truth or use it to score a point; they wait until the moment can hold it, and then they say the plain thing in a voice that makes it land as care rather than verdict.

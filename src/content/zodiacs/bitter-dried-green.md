@@ -22,6 +22,11 @@ facetLowTitle: Strings on the Vine
 facetLow: Tabs stay open, threads stay unread, and the thing you need surfaces anyway.
 facetLeastTitle: The Unlabeled Jars
 facetLeast: You keep every gift, every receipt, every half-finished notebook; thinning the pile feels like losing it.
+rorschachMost: a blade pared to a thin bright line
+rorschachHigh: a single thread drawn taut between pins
+rorschachMid: a reed leaning over its reflection
+rorschachLow: a rope frayed loose at both ends
+rorschachLeast: a tangle of string knotted past undoing
 question: You sit down to write a one-page brief due tomorrow morning. You...
 answerMost: spend an hour setting up the perfect template first
 answerHigh: outline it twice before writing a line

@@ -22,6 +22,11 @@ facetLowTitle: Bread Refusing the Soak
 facetLow: Your room sits the way it sat last year — one chair, one angle, no rearranging for visitors.
 facetLeastTitle: Roasted Past Yielding
 facetLeast: Sunday is Sunday; the route to work is the route; suggestions slide off like oil from a hot pan.
+rorschachMost: a gate swung wide on its hinge
+rorschachHigh: a hand turning a thing over to see the back
+rorschachMid: two birds settled on a telephone wire
+rorschachLow: a knot pulled tight at the top
+rorschachLeast: a vault door bolted flush to its frame
 question: At dinner the loudest person at the table takes a position you find faintly wrong. You...
 answerMost: pull your chair closer and ask them to make the case in full
 answerHigh: lean in and turn the disagreement into a real conversation

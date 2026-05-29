@@ -14,8 +14,10 @@ export type FortuneEntry = {
   seenAt: string | null; // ISO timestamp the user dismissed the fortune dialog
   variant?: RitualVariant; // undefined ↔ legacy facet entry
   question?: string | null; // snapshot, question variant only
-  answeredQuality?: QualityId | null; // tier the user picked, question variant only
+  answeredQuality?: QualityId | null; // tier the user picked, question/rorschach variants
   answerText?: string | null; // snapshot, question variant only
+  rorschachImage?: string | null; // /images/rorschach/{slug}.svg, rorschach variant only
+  rorschachText?: string | null; // chosen interpretation, rorschach variant only
 };
 
 export type ClaimedBean = {

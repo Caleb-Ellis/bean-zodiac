@@ -28,6 +28,11 @@ answerHigh: wander over to the kid drawing alone and ask what the dragon is call
 answerMid: put on headphones, find a snack, and watch the room from the corner
 answerLow: settle in with a book and let the hours pass uninterrupted
 answerLeast: find the quietest gate two terminals over and sit there instead
+rorschachMost: confetti bursting over a crowded dance floor
+rorschachHigh: a jester's hat with bells on every point
+rorschachMid: two halves of a butterfly mid-flutter
+rorschachLow: a single chair facing a switched-off television
+rorschachLeast: a grey waiting room with the lights dimmed
 ---
 
 Glazed Chickpeas are the Bean Zodiac's most fun — and wear it so lightly nobody clocks it as a skill. They feel a gathering tilt toward boredom three minutes before anyone else and move before it lands. They make a two-hour queue feel like the best part of the night, and a karaoke run on a Tuesday feel inevitable.

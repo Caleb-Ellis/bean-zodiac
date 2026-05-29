@@ -28,6 +28,11 @@ answerHigh: pick the one true thing — the hands, the hair — and say only tha
 answerMid: smile and ask how the night feedings are going
 answerLow: say "gorgeous" and look a moment longer than needed
 answerLeast: say "the most beautiful baby" before the photo is fully in focus
+rorschachMost: a plain bowl set down with nothing arranged around it
+rorschachHigh: two hands holding the same small thing
+rorschachMid: a moth, or maybe a pair of leaves
+rorschachLow: a mask propped on a stand, mouth open
+rorschachLeast: a stage curtain pulled wide on an empty set
 ---
 
 Brined Adzuki Beans are the Bean Zodiac's most sincere — they celebrate only what they actually feel, and they feel without dimming. Hand them good news and the warmth lands without the usual buffering; you can tell from the pause before they answer that they're checking the gladness is real before they spend it, and when they spend it there's no holdover, no held-back portion saved for someone more deserving later.

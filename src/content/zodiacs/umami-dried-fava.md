@@ -28,6 +28,11 @@ answerHigh: tell them straight, then sit with them while it lands
 answerMid: walk through it calmly, then ask what they think they'd do differently
 answerLow: soften the open with something warm, then get to it
 answerLeast: tell them it's really not a big deal and send them off
+rorschachMost: a fortress wall rising straight from the rock
+rorschachHigh: an ox standing square in a gateway
+rorschachMid: two stones balanced on a ledge
+rorschachLow: a reed bending flat in the wind
+rorschachLeast: a moth fluttering against a screen door
 ---
 
 Aged Fava Beans are the Bean Zodiac's most formidable — the kind of presence a room rearranges itself around without anyone deciding to. They take the hard question first, name the thing nobody wants to name, and stand at full height while doing it. Nothing in their bearing apologises for the space they take up, and there is a real, quiet relief in being in a room with someone who isn't going to flinch.

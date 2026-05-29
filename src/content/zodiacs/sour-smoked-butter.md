@@ -28,6 +28,11 @@ answerHigh: send a short "can't, sorry" and put the phone down
 answerMid: say maybe and decide on the night
 answerLow: say yes and bring a card
 answerLeast: say yes and offer to bring a friend
+rorschachMost: faded chalk smudged across wet pavement
+rorschachHigh: a grey moth settled on bark
+rorschachMid: two clouds drifting apart over a field
+rorschachLow: a kite caught bright against the sun
+rorschachLeast: a peacock fanning its open tail
 ---
 
 Cured Butter Beans are the Bean Zodiac's most pallid — the room with them in it stays a degree cooler than the thermostat suggests. They are the friend who replies in two days and three sentences, the colleague whose desk has no photos and whose lunch is the same on Monday and Friday. There is a steadiness here that other people lean on without quite knowing why; nothing flares, nothing has to be managed.

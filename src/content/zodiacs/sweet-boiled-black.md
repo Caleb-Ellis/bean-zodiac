@@ -22,6 +22,11 @@ facetLowTitle: Cinnamon Traded Mid-Pot
 facetLow: You rearrange the room every few months; the chair that was yours last year now faces a different wall, and you are lighter for it.
 facetLeastTitle: The Pot Poured Early
 facetLeast: You sell the heavy things first — the books, the kettle, the lease — and walk into the next season carrying almost nothing.
+rorschachMost: an anchor settled deep in the seabed
+rorschachHigh: an old oak with roots spreading wide
+rorschachMid: a folded cloth draped over a rail
+rorschachLow: a flock scattering off a telephone wire
+rorschachLeast: dry leaves spinning loose in the wind
 question: A group chat from college has gone quiet for months. You...
 answerMost: send the long message anyway, with the photo from that summer
 answerHigh: drop a line asking how everyone is, no agenda

@@ -28,6 +28,11 @@ answerHigh: write down what you wish you'd said
 answerMid: mention it to one person, lightly
 answerLow: notice it, let it pass
 answerLeast: can't remember which conversation
+rorschachMost: a face studying itself in still water
+rorschachHigh: footprints doubling back along the same shore
+rorschachMid: a folded cloth draped over a low stool
+rorschachLow: a kite slipping loose into open sky
+rorschachLeast: a wave already breaking, nothing held back
 ---
 
 Miso Butter Beans are the Bean Zodiac's most reflective — a remark made at lunch on Tuesday is still being unfolded on the walk home Sunday, and by then it has given up three meanings the speaker didn't know were in it. They live in the rich slow space where things keep yielding the longer you sit with them, and friends who go to them for advice come back with something they didn't know they were asking about.

@@ -22,6 +22,11 @@ facetLowTitle: Smoke to the Chimney
 facetLow: You decline the toast, slip the photograph, leave before the speeches. The evening proceeds without you and you prefer it that way.
 facetLeastTitle: The Dip Eaten Cold
 facetLeast: You answer messages in three words. Your clothes are clean and forgettable; your name takes a moment to surface.
+rorschachMost: fireworks bursting over a black harbour
+rorschachHigh: a chandelier catching every light in the hall
+rorschachMid: two peacocks turned away from each other
+rorschachLow: a grey coat folded over a chair
+rorschachLeast: a burnt-out bulb in a dim hallway
 question: You have one outfit to pick for a dinner where you'll know about half the room. You...
 answerMost: pick the loud one, top to bottom, and walk in like the lights came on
 answerHigh: choose the piece you've been waiting for an excuse to wear

@@ -28,6 +28,11 @@ answerHigh: open the relevant tab and turn the screen toward them
 answerMid: smile and wait for the question
 answerLow: glance up and say "what's up?"
 answerLeast: keep typing and let them get to it in their own time
+rorschachMost: an open eye floating above a closed door
+rorschachHigh: an arrow already loosed toward a far mark
+rorschachMid: two birds wheeling over a distant ridge
+rorschachLow: a blindfold knotted tight at the back
+rorschachLeast: a hand groping along a dark wall
 ---
 
 Hickory Edamame are the Bean Zodiac's most prescient — they answer the email an hour before it arrives, in the sense that the draft is already written when the question lands. Friends mention them mid-thought ("I was just going to say that"); the meeting they prepped for goes exactly the way they prepped. They aren't fast, exactly. They've just been there already, days ago, quietly.

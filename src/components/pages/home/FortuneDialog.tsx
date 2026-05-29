@@ -6,6 +6,7 @@ import Bean from "../../zodiac/Bean";
 import ZodiacName from "../../zodiac/ZodiacName";
 import FacetVariant from "./FacetVariant";
 import QuestionVariant from "./QuestionVariant";
+import RorschachVariant from "./RorschachVariant";
 import type { DailyFortune } from "./useDailyFortune";
 
 interface Props {
@@ -281,6 +282,13 @@ export default function FortuneDialog({ data, fortune }: Props) {
                           <QuestionVariant
                             fortuneZodiac={fortuneZodiac}
                             question={question}
+                            landed={landed}
+                            handleAnswer={handleAnswer}
+                          />
+                        ) : fortuneZodiac && variant === "rorschach" ? (
+                          <RorschachVariant
+                            fortuneZodiac={fortuneZodiac}
+                            zodiacId={fortuneZodiacId}
                             landed={landed}
                             handleAnswer={handleAnswer}
                           />

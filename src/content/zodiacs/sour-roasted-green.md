@@ -22,6 +22,11 @@ facetLowTitle: Beans Cooling on the Pan
 facetLow: Rooms kept dim, good moods kept to yourself.
 facetLeastTitle: Lemon Kept Back
 facetLeast: Slow weather, brightness left to others.
+rorschachMost: a sunrise pushing up over a low hill
+rorschachHigh: a kite tugging hard at a bright string
+rorschachMid: two clouds drifting across an open field
+rorschachLow: rain sliding down a darkened pane
+rorschachLeast: an empty chair under a bare grey sky
 question: You step into a tense kitchen at a party where two friends have just had a small spat. You...
 answerMost: greet the room, refill glasses, get them laughing inside a minute
 answerHigh: bring warmth in and let the temperature lift on its own

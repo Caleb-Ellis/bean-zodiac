@@ -22,6 +22,11 @@ facetLowTitle: The Wilting Leaf
 facetLow: Strangers reach the tender part of a conversation within the hour, and you let them.
 facetLeastTitle: The Give in the Skin
 facetLeast: Skin, mood, sleep — all yield to the room's weather; you have never built a callus that lasted.
+rorschachMost: a beetle's lacquered back, seamless
+rorschachHigh: a shield dented but never pierced
+rorschachMid: a walnut closed around its shell
+rorschachLow: a peach bruised soft on one side
+rorschachLeast: an oyster prised open, glistening
 question: Bad news lands in your inbox before a meeting you can't move. You...
 answerMost: walk into the meeting and don't mention it
 answerHigh: file it away, deal with it tonight

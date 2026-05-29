@@ -22,6 +22,11 @@ facetLowTitle: The Lifted Lid
 facetLow: You draft your thoughts aloud, revising as you go, three sentences where one would have held.
 facetLeastTitle: The Counted Pour
 facetLeast: You narrate the bill, the apology, the small receipt — every transaction itemised before anyone asks.
+rorschachMost: a sealed envelope, nothing written on it
+rorschachHigh: a single line drawn across a wide page
+rorschachMid: a stone resting in still water
+rorschachLow: a margin crowded with scribbled notes
+rorschachLeast: a wall of overlapping speech bubbles
 question: A group chat has been arguing about dinner plans for forty minutes. Your phone is in your hand. You...
 answerMost: lock the screen and put it down
 answerHigh: send the one address that ends the thread

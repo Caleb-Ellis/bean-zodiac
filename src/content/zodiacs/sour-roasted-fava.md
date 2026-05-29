@@ -22,6 +22,11 @@ facetLowTitle: Lemon Folded Into Coriander
 facetLow: You read the room first, match its register, and save your sharper opinion for someone who actually asked.
 facetLeastTitle: Herbs Over the Char
 facetLeast: You shape yourself to whoever sits across from you, and the dinners go down easier for it.
+rorschachMost: a tree growing crooked but rooted deep
+rorschachHigh: a worn boot that kept its own shape
+rorschachMid: two stones stacked beside a stream
+rorschachLow: a wig set neatly on a stand
+rorschachLeast: a wax fruit gleaming in a glass bowl
 question: An interviewer offers you a smoother version of your own answer and waits for you to take it. You...
 answerMost: thank them and restate your original, word for word
 answerHigh: say no, that's not quite it, and give the version you meant

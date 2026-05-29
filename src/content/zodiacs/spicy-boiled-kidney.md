@@ -22,6 +22,11 @@ facetLowTitle: Broth Between the Beans
 facetLow: Plans rearrange themselves around you mid-afternoon; the route you took this morning is not the route you'll take tomorrow.
 facetLeastTitle: The Softening Chili
 facetLeast: At the table you take the seat offered, the dish passed, the topic chosen; the evening shapes itself around the room.
+rorschachMost: a mule planted in the middle of the road
+rorschachHigh: a boulder wedged hard in a doorway
+rorschachMid: a door standing shut at the end of a hall
+rorschachLow: a swinging gate left open on its hinge
+rorschachLeast: a leaf carried along on a stream
 question: An old friend's message has been sitting in the thread for four days. You know what to say, you just don't want to say it yet. You...
 answerMost: leave it; they'll get the reply when the terms feel right
 answerHigh: draft something honest, save it, send when ready

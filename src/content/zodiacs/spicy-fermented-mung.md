@@ -22,6 +22,11 @@ facetLowTitle: Herbs Dropped in Whole
 facetLow: You forget where you left the tab open, and the want passes before you remember to feed it.
 facetLeastTitle: The Rind Tossed Without Ceremony
 facetLeast: A craving arrives, gets answered or doesn't, and leaves no groove behind.
+rorschachMost: a finger worrying the same loose thread
+rorschachHigh: a tap dripping on a steady count
+rorschachMid: two leaves stuck to a wet pane
+rorschachLow: a swing slowing to a stop
+rorschachLeast: a hand resting open in a lap
 question: You've already checked that one thread three times this hour. The urge to check again has arrived right on time. You...
 answerMost: check it, then check the other two while you're there
 answerHigh: check it once more, briefly, and put the phone down

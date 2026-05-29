@@ -28,6 +28,11 @@ answerHigh: text the photo from the trip you both still talk about
 answerMid: like the post and mean it, more or less
 answerLow: notice the date passing somewhere around lunch
 answerLeast: realise in July you forgot, and feel nothing
+rorschachMost: two hands clasped that won't come apart
+rorschachHigh: a knot tied tight and tied again
+rorschachMid: a moth resting with its wings folded
+rorschachLow: a cup left out, the handle turned away
+rorschachLeast: two birds on a wire facing opposite ways
 ---
 
 Crystallised Adzuki Beans are the Bean Zodiac's most devoted — and the last to notice when the door they've been holding open has had no one walking through it for years. They keep the standing reservation. They send the birthday card to the address from two moves ago. They water the houseplant of a friend who's been abroad since autumn, and rotate it for the light.

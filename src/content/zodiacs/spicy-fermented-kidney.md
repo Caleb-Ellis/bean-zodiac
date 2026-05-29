@@ -22,6 +22,11 @@ facetLowTitle: Steam Off a Fresh Pot
 facetLow: You leave the book at chapter four, the podcast at minute eight, already curious about the next thing.
 facetLeastTitle: The Lid Never Settled
 facetLeast: You rotate the furniture, the playlists, the route home; nothing in the apartment has stayed in one place a full season.
+rorschachMost: a groove worn deep by one repeated track
+rorschachHigh: a moth battering the same lamp
+rorschachMid: two pebbles side by side on sand
+rorschachLow: a hand letting a balloon go
+rorschachLeast: a scatter of marbles rolling every way
 question: It's late and you've been turning over one problem all evening. The sensible move is to sleep on it. You...
 answerMost: stay up until you crack it, however late
 answerHigh: do one more pass and then maybe stop

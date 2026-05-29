@@ -22,6 +22,11 @@ facetLowTitle: Treacle by the Glug
 facetLow: You'd sooner gift the whole pudding warm than calculate whose half was larger.
 facetLeastTitle: Forty Minutes, Half-Set
 facetLeast: Slow accumulation reads as stalling — sweetness now, ledger later.
+rorschachMost: a coin pressed flat into a tin slot
+rorschachHigh: a jar of buttons sorted by size
+rorschachMid: a folded receipt tucked under a clip
+rorschachLow: a fountain spilling over its basin
+rorschachLeast: gold coins scattered across a wide table
 question: Your favourite pair of boots has worn through and there's a sale on a slightly fancier replacement. You...
 answerMost: take them to the cobbler — another winter in them yet
 answerHigh: buy the cheapest decent pair on the shelf

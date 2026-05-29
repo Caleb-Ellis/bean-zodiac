@@ -28,6 +28,11 @@ answerHigh: glance at the lock screen, then keep the conversation going
 answerMid: notice the buzz, ignore it, lose the thread of what you were saying
 answerLow: leave it; you'll check between courses
 answerLeast: didn't hear it; the phone's been in your bag all night
+rorschachMost: a wire pulled taut and starting to hum
+rorschachHigh: a cat frozen with its ears swiveled back
+rorschachMid: two pins set side by side on a cushion
+rorschachLow: a curtain hanging loose in a quiet room
+rorschachLeast: a cat sprawled flat in a patch of sun
 ---
 
 Red-Hot Mung Beans are the Bean Zodiac's most high-strung — wired to the room at a frequency nobody else seems to register. They hear the buzz through the table, clock who left the party early, notice the laugh that came half a beat late, and have an answer typed before the question's been finished. Friends find them quick, attuned, faintly psychic.

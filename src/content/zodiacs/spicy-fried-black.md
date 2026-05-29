@@ -28,6 +28,11 @@ answerHigh: make the pass — the "good enough" version was the lazy one
 answerMid: do a fast read-through and send
 answerLow: send it now; tomorrow-you would only soften it
 answerLeast: closed the laptop an hour ago, mid-sentence
+rorschachMost: a river cutting deeper into the same canyon
+rorschachHigh: a wheel still turning long after the push
+rorschachMid: two crows perched on a bare branch
+rorschachLow: a kite drifting down toward tall grass
+rorschachLeast: a hammock slung between two still trees
 ---
 
 Red-Hot Black Beans are the Bean Zodiac's most relentless — they keep going past the point where most people would call it done. The sixth pass becomes a seventh, the run goes a mile further than the plan, and the email gets one more sharpening before it gets sent. Friends notice the output and the patience behind it; nobody notices the small steady cost of never being finished.

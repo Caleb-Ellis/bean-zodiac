@@ -28,6 +28,11 @@ answerHigh: pull the eight down to four and donate the rest by Sunday
 answerMid: keep all eight, line them up the way you want them
 answerLow: keep eight, add back two of the first round
 answerLeast: tip the donate pile back in; the drawer was fine
+rorschachMost: a single feather laid on white paper
+rorschachHigh: one orchid in a tall empty vase
+rorschachMid: a leaf pressed flat in a book
+rorschachLow: a junk drawer tipped onto the floor
+rorschachLeast: a flea market table heaped with everything
 ---
 
 Crystallised Cannellini Beans are the Bean Zodiac's most rarefied. The kitchen has three knives and they are all kept sharp; the bookshelf holds what's been re-read and nothing else; the toast at the wedding is two sentences long and lands. They have learned what is worth keeping by getting rid of almost everything else.

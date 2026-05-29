@@ -28,6 +28,11 @@ answerHigh: listen out, then ask the question they've been avoiding
 answerMid: agree it's hard and let the rest sit until next time
 answerLow: sympathize fully and save the harder thought for never
 answerLeast: just nod and pour another glass
+rorschachMost: a chili flake bright on a white spoon
+rorschachHigh: mustard seeds popping in hot oil
+rorschachMid: a bowl of broth on a tray
+rorschachLow: a pat of butter melting in milk
+rorschachLeast: a glass of plain water, no rim
 ---
 
 Sichuan Mung Beans are the Bean Zodiac's most piquant — the friend who brings soup when you're sick and, halfway through the bowl, gently asks why you've kept saying yes to the job that's making you sick. The kindness is unmistakable. So is the question. You walk away looked-after and a little reorganized.

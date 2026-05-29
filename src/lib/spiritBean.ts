@@ -233,6 +233,8 @@ export type BeanstalkNode = {
   question: string | null;
   answeredQuality: QualityId | null;
   answerText: string | null;
+  rorschachImage: string | null;
+  rorschachText: string | null;
 };
 
 export function buildBeanstalkNodes(claimedSlug: ZodiacId): BeanstalkNode[] {
@@ -260,6 +262,8 @@ export function buildBeanstalkNodes(claimedSlug: ZodiacId): BeanstalkNode[] {
       question: entry.question ?? null,
       answeredQuality: entry.answeredQuality ?? null,
       answerText: entry.answerText ?? null,
+      rorschachImage: entry.rorschachImage ?? null,
+      rorschachText: entry.rorschachText ?? null,
     };
   });
 

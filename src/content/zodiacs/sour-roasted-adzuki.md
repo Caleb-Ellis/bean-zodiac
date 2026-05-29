@@ -22,6 +22,11 @@ facetLowTitle: The Foil-Covered Pan
 facetLow: Drawers stay shut, the spare room stays presentable, and visitors meet a house that has decided in advance which corners they will see.
 facetLeastTitle: Zest Without the Fruit
 facetLeast: Your gifts arrive wrapped in a meaning the recipient has to guess at; you would rather they invent the reason than be told it.
+rorschachMost: a window with the curtains taken right down
+rorschachHigh: an open hand held flat under a lamp
+rorschachMid: two moths meeting at the top of a jar
+rorschachLow: a face turned half away from the door
+rorschachLeast: a box with the lid taped shut and unlabelled
 question: A friend brings out a haircut they're clearly unsure about and asks what you think. You...
 answerMost: say the true sentence before the door has finished closing
 answerHigh: tell them honestly, gentle on the edges but with the verdict intact

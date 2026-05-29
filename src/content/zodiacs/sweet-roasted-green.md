@@ -28,6 +28,11 @@ answerHigh: ask the original group if they'd be up for switching — most will s
 answerMid: try to swing by both for an hour each
 answerLow: stay with the original plan and quietly mourn the other one
 answerLeast: stick to the plan you made; the version of you who said yes still meant it
+rorschachMost: a weathervane spinning in every direction at once
+rorschachHigh: smoke curling off in three different lines
+rorschachMid: two halves of a maple seed mid-spin
+rorschachLow: a railway track running dead straight to the horizon
+rorschachLeast: a brick set level in a finished wall
 ---
 
 Glazed Green Beans are the Bean Zodiac's most capricious — the ones who walk into the kitchen for one dish and walk out having made another, the original recipe still open on the counter. The draft they opened this morning is a different essay by lunch, and they mean every version of it. The group thread proposes Thursday, then Friday, then a different bar entirely, all in warm earnest.

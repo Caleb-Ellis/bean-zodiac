@@ -28,6 +28,11 @@ answerHigh: bring it up the next time you cross paths
 answerMid: leave a short note on the counter
 answerLow: do them yourself and bring it up some other time
 answerLeast: wash them and say nothing
+rorschachMost: two rams locked head to head mid-charge
+rorschachHigh: a fist raised straight at a closed door
+rorschachMid: two mushrooms growing on a log
+rorschachLow: a hand reaching out, palm open and flat
+rorschachLeast: a dove settling onto a still branch
 ---
 
 Scorched Kidney Beans are the Bean Zodiac's most confrontational. They walk into the disagreement straight on while everyone else circles the pan looking for a cooler spot; the message that's been sitting unsent in everyone's drafts goes out from theirs, names attached, no softening pass. When something genuinely needs saying, they are the one who can.

@@ -28,6 +28,11 @@ answerHigh: tell them about the time something almost as bad happened to you, an
 answerMid: nod, top up their coffee, ask a softer question
 answerLow: sit quietly and let the silence hold what words wouldn't
 answerLeast: tear up before they do and apologise for it
+rorschachMost: a balloon slipping loose toward an open window
+rorschachHigh: a kite tugging upward on a bright afternoon
+rorschachMid: two halves of a leaf pressed in a book
+rorschachLow: an anchor sunk deep in the silt
+rorschachLeast: a heavy stone slab sealing a cellar shut
 ---
 
 Glazed Butter Beans are the Bean Zodiac's most lighthearted — the ones who walk into a tight-shouldered room and somehow, a minute later, an arm has uncrossed and a story has improved. They arrive late with pastries and the lateness becomes the gift. They turn up to the dreaded thing in a stupid hat and the hat does the heavy lifting.

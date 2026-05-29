@@ -22,6 +22,11 @@ facetLowTitle: The Whole Adzuki
 facetLow: You hear the bad news and offer something practical — a ride, a number, a meal dropped off — instead of the long hug they half-wanted.
 facetLeastTitle: Beans by the Count
 facetLeast: You like people fine at a distance; closeness feels like steam fogging a window you were trying to see through.
+rorschachMost: two figures leaning into one long embrace
+rorschachHigh: a hand reaching across to cover another hand
+rorschachMid: a wide bowl with steam rising off it
+rorschachLow: two shapes sat at opposite ends of a bench
+rorschachLeast: one figure walking away down an empty road
 question: You're seeing someone you love off at the airport. The hug ends and they turn to go. You...
 answerMost: call their name one more time and tell them, plainly, the thing you wanted them to leave with
 answerHigh: catch their sleeve, give them the look they know means it

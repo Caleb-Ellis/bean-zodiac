@@ -28,6 +28,11 @@ answerHigh: change the subject to something easier and watch the shoulders
 answerMid: file the half-second and check in tomorrow
 answerLow: take "fine" at face value and move on
 answerLeast: laugh and order the second round
+rorschachMost: a small crack running under the smooth glaze
+rorschachHigh: two birds, one hidden behind the other
+rorschachMid: an open book with curling pages
+rorschachLow: a single broad smear of grey
+rorschachLeast: one flat shape, nothing else in it
 ---
 
 Pickled Black Beans are the Bean Zodiac's most perceptive — they will tell you which seat at the table the bad news arrived from before anyone has used the word _news_. They notice the redirected glance, the one friend who's been laughing on a beat's delay, the way someone's shoulders set when a name comes up. Months of these small readings settle and clarify, and by the time they speak the picture has been true for so long it feels rude to be the one saying it.

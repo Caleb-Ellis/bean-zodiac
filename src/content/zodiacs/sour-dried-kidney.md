@@ -28,6 +28,11 @@ answerHigh: hold the line, you don't owe the forgiveness
 answerMid: notice it, set it down, move the laundry
 answerLow: hope they're well, mostly
 answerLeast: forgive them in your head and forget by lunch
+rorschachMost: a flame leaning hard off its wick
+rorschachHigh: two claws raised at the same height
+rorschachMid: a leaf skittering across dry stone
+rorschachLow: an ember fading under gray ash
+rorschachLeast: a candle guttered out, smoke trailing up
 ---
 
 Dehydrated Kidney Beans are the Bean Zodiac's most fierce. They are the friend who calls the company back on your behalf, who notices the third time a flatmate borrows without asking, who once, in a meeting, said the sentence that ended the bad project before it cost anyone else a year. Loyalty in them is a verb, and the people in their corner know it without having to ask.

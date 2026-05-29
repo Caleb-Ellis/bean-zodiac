@@ -22,6 +22,11 @@ facetLowTitle: The Tamarind, Swallowed
 facetLow: Texts get answered in the order they arrive, not the order they ache.
 facetLeastTitle: One Good Plate
 facetLeast: You sleep through the argument in the next apartment and wake rested.
+rorschachMost: a needle trembling on a seismograph line
+rorschachHigh: a moth feeling the air at a window
+rorschachMid: two reeds bending in a slow current
+rorschachLow: a stone sitting still in a loud stream
+rorschachLeast: a brick wall with the rain running off it
 question: A friend's voice goes thin on one vowel during a quick catch-up call. You...
 answerMost: cancel your evening and tell them you're coming over
 answerHigh: stop the small talk and ask what's actually going on

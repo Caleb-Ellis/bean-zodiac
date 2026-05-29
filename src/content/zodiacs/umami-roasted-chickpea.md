@@ -22,6 +22,11 @@ facetLowTitle: Worcestershire, Dark
 facetLow: You answer the unfair charge the same week it lands, evenly, and the matter closes.
 facetLeastTitle: Smoke Through the Window
 facetLeast: Mute the thread that wandered off course; the silence afterward is the room you wanted.
+rorschachMost: a long table with chairs pulled in from everywhere
+rorschachHigh: a doorway widened to let a crowd through
+rorschachMid: two crabs touching claws over a shell
+rorschachLow: a velvet rope clipped across an entrance
+rorschachLeast: a gate spiked shut against the road
 question: A friend asks if they can bring "one more person" to your dinner for six. You...
 answerMost: say yes and ask if they want to bring two more while they're at it
 answerHigh: say yes warmly and add a chair

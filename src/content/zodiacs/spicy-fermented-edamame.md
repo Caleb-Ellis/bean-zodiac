@@ -22,6 +22,11 @@ facetLowTitle: Sesame Settled Below
 facetLow: You let an afternoon pass on the steps, and the day does not bill you for it.
 facetLeastTitle: Pods Without Supervision
 facetLeast: The room around you drifts — papers, cups, a sweater on the chair — and your shoulders stay loose inside it.
+rorschachMost: a contraption sprouting gears and wings
+rorschachHigh: a bird building a nest from odd scraps
+rorschachMid: two clouds drifting past each other
+rorschachLow: a finished brick wall, every course the same
+rorschachLeast: an empty workbench wiped clean
 question: A team channel asks for a status update on the thing you've been working on. You have four half-finished pieces and one that's almost done. You...
 answerMost: post a wild new prototype nobody asked for
 answerHigh: share the almost-done piece with a sketch of what's next

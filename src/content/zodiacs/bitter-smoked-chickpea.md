@@ -28,6 +28,11 @@ answerHigh: perch on the arm and keep one eye on the hallway
 answerMid: sit for a song, then drift back to the kitchen
 answerLow: take the chair, take your coat off, take a second drink
 answerLeast: kick your shoes off and ask whose record this is
+rorschachMost: a figure paused in a half-open doorway
+rorschachHigh: a coat still on at the edge of a room
+rorschachMid: two panels meeting along a seam
+rorschachLow: a chair pulled in tight to the table
+rorschachLeast: a bed made up in a lived-in room
 ---
 
 Charcoal Chickpeas are the Bean Zodiac's most liminal. They arrive at the party with their coat on and lean in the doorway, fully at ease in a room they have no intention of fully entering. They fit everywhere precisely because they've committed to nowhere; the box of books gets unpacked, the box marked kitchen stays taped shut for a year.

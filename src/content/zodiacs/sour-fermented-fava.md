@@ -28,6 +28,11 @@ answerHigh: ask which one of them ordered the thing that made them love it
 answerMid: say "it was fine" and let "fine" sit
 answerLow: nod along; the croissant was decent enough
 answerLeast: agree with the strongest version anyone has said yet
+rorschachMost: one fish swimming against the whole school
+rorschachHigh: a single arrow pointing back the other way
+rorschachMid: a row of trees with one leaning out
+rorschachLow: a flock all turning the same direction
+rorschachLeast: a tidy grid, every square the same
 ---
 
 Pickled Fava Beans are the Bean Zodiac's most contrarian — they hold the minority position because it has held up under the kind of pressure the majority hasn't bothered to apply. The room agrees the café is wonderful; they noticed the bread was reheated and the second waiter looked frightened. The thread agrees the article was sharp; they reply with the paragraph it skipped. The objection is rarely the loudest thing in the room, but it's almost always the most thought-about.

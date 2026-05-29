@@ -28,6 +28,11 @@ answerHigh: push on but talk them through it the whole way
 answerMid: suggest a snack break and then see how they feel
 answerLow: ask what they want to do and mean it
 answerLeast: turn back without making a thing of it
+rorschachMost: an arrow loosed and still climbing
+rorschachHigh: a runner leaning hard into the curve
+rorschachMid: two pinecones balanced on a branch
+rorschachLow: a hammock slung low between trees
+rorschachLeast: a cat asleep in a patch of sun
 ---
 
 Caramelised Black Beans are the Bean Zodiac's most driven — and they want you coming with them. They're the friend who books the trip and the table and the cabin, who texts at 7am to ask if you've eaten, who turns a shared project into momentum nobody else could have generated alone. To be loved by one is to be carried somewhere good before you knew you wanted to go.

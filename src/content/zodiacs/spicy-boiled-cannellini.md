@@ -22,6 +22,11 @@ facetLowTitle: Beans at the Boil
 facetLow: You send the first take — the thing arrives warm and uneven and already in someone's hands.
 facetLeastTitle: Bread Without Measuring
 facetLeast: You agree to the split, pocket the change without counting; the small wrongness costs you nothing.
+rorschachMost: two halves folded along an exact crease
+rorschachHigh: a row of identical tiles set in a grid
+rorschachMid: a butterfly pinned in a glass case
+rorschachLow: a crooked stack of mismatched plates
+rorschachLeast: a paint spill spreading across the floor
 question: The message is written. It's good enough, probably. Your cursor is on the send button. You...
 answerMost: close the tab, reread it tomorrow with fresh eyes
 answerHigh: rework the second paragraph one more time, then send

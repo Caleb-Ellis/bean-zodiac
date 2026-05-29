@@ -22,6 +22,11 @@ facetLowTitle: The Egg, Left Whole
 facetLow: Messages pile; you answer the one that matters and let the rest steep.
 facetLeastTitle: The Jar Kept Closed
 facetLeast: A room you keep is a low fire — lamp, blanket, one chair pulled close. The gochugaru stays in the jar.
+rorschachMost: a crowd with both arms up at a concert
+rorschachHigh: two dancers caught mid-leap above a stage
+rorschachMid: a moth with its wings spread open
+rorschachLow: a single lamp burning in a dark window
+rorschachLeast: a stone sitting at the bottom of a still pond
 question: Mid-morning at the playground with a friend's kid, and they nail the monkey bars for the first time, looking straight at you. You...
 answerMost: cheer loud enough that two other parents look over and applaud
 answerHigh: throw both hands up and shout their name across the gravel

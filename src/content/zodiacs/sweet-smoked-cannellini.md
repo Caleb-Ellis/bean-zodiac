@@ -22,6 +22,11 @@ facetLowTitle: Guanciale in Cold
 facetLow: You sleep on the floor when the bed offends you, eat standing, and trust a body that has never required coddling.
 facetLeastTitle: Vin Santo Poured Without Measure
 facetLeast: Bills paid in a single rough sweep; apologies offered plain and short; the small obligations cleared before the day has properly begun.
+rorschachMost: a moth's wing held up against the light
+rorschachHigh: a thin glass stem about to tip over
+rorschachMid: two leaves drifting down past a window
+rorschachLow: a thick rope coiled on a dock
+rorschachLeast: a slab of stone dropped in wet sand
 question: You're helping a friend move, and they hand you a box marked "fragile" to carry down three flights of stairs. You...
 answerMost: take it in two hands, pause at every landing, and feel each step
 answerHigh: re-tape the corners before you lift it, just to be sure

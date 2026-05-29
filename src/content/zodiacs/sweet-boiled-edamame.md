@@ -22,6 +22,11 @@ facetLowTitle: The Chair That Migrates
 facetLow: You rearrange the room each season. Constancy bores you; the paste needs stirring or it sets.
 facetLeastTitle: The Pot Left Before It Boils
 facetLeast: Plans drawn at noon are scrapped by three, and the next thing tastes better for it.
+rorschachMost: a bridge planted firm on both banks
+rorschachHigh: a lighthouse standing over the harbour
+rorschachMid: a lamp on a desk beside papers
+rorschachLow: a ladder propped against a leaning wall
+rorschachLeast: a dropped thread unravelling across the floor
 question: You said you'd help a friend move at 9am Saturday. You wake up Saturday with a cold coming on. You...
 answerMost: take painkillers and show up at 8:55 with coffee for both of you
 answerHigh: text that you're a bit rough but you'll be there, just a touch late

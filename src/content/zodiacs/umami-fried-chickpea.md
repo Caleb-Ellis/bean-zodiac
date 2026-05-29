@@ -28,6 +28,11 @@ answerHigh: mention you'd be happy to sort it next time you're over
 answerMid: think about doing it, do nothing
 answerLow: assume they like it that way
 answerLeast: don't even register that it could be otherwise
+rorschachMost: a sprinter's foot already off the blocks
+rorschachHigh: a coiled spring halfway through releasing
+rorschachMid: an umbrella propped open by a doorway
+rorschachLow: a cat curled asleep in a sunny corner
+rorschachLeast: a hammock sagging with no one in it
 ---
 
 Tempura Chickpeas are the Bean Zodiac's most proactive — the ones whose Sunday already has Tuesday's problem solved. They pack the bag two days early, send the calendar invite before anyone has remembered to ask, refill the snack cupboard the day before it was going to run out. By the time most people notice a thing needs doing, a Tempura Chickpea has done a quieter version of it and moved on.

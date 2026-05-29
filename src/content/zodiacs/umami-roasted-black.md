@@ -22,6 +22,11 @@ facetLowTitle: Soy, No Second Layer
 facetLow: A friend says they're fine; you take fine and move the conversation on.
 facetLeastTitle: The Cracked Skin
 facetLeast: A plan stops working; you swap it for the next one before anyone names what went wrong.
+rorschachMost: an eye opening behind a torn paper mask
+rorschachHigh: a keyhole with light coming through from the far room
+rorschachMid: two bears climbing opposite sides of a tree
+rorschachLow: a curtain drawn all the way across a window
+rorschachLeast: a blindfold knotted tight at the back
 question: A friend tells a story at dinner that doesn't quite line up with one they told last month. You...
 answerMost: name the discrepancy gently and watch what they do with it
 answerHigh: ask one clarifying question that points right at the seam

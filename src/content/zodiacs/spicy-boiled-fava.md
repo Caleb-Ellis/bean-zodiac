@@ -22,6 +22,11 @@ facetLowTitle: The Pot's New Note
 facetLow: Plans written in pencil — when the room shifts, you shift, and the evening keeps moving.
 facetLeastTitle: Water in the Bowl
 facetLeast: You enter a room already half-agreeing, slide a chair in, fold into the conversation underway.
+rorschachMost: an iron stake driven deep into rock
+rorschachHigh: an old oak with roots gripping a cliff
+rorschachMid: a signpost standing at a crossroads
+rorschachLow: a reed bending low in the river current
+rorschachLeast: a flag of cloth rippling in the wind
 question: A vote at the table is going the wrong way and you're the lone hold-out. Three people have already turned to look at you. You...
 answerMost: name the unsayable thing aloud and sit with what follows
 answerHigh: state your no, clean, and let the silence land

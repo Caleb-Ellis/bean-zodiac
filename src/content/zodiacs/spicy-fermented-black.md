@@ -21,6 +21,11 @@ facetLowTitle: The Same-Day Receipt
 facetLow: You hand over the apology at the door, the receipt taped to it; nothing in you is steeping for a later, darker version.
 facetLeastTitle: The Spilled Jar
 facetLeast: You post the rough draft, the burnt pan — the work goes out before the sauce thickens.
+rorschachMost: a face half-swallowed by shadow
+rorschachHigh: a key with no visible door
+rorschachMid: two crows on a far telephone wire
+rorschachLow: an open window with the curtains tied back
+rorschachLeast: a lit room seen through clear glass
 question: An old letter from yourself, dated five years ago, has surfaced inside a book you were giving away. You read it standing by the bin. You...
 answerMost: put it back in the book, keep the book, tell no one it exists
 answerHigh: read it twice, fold it into a drawer, leave it there

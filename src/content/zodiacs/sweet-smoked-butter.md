@@ -22,6 +22,11 @@ facetLowTitle: Flecks on the Bean's Skin
 facetLow: You name the time and the cross-street, write it in the calendar, and arrive five minutes early in your own coat.
 facetLeastTitle: Honey and Smoke, Apart
 facetLeast: Wallet in the left pocket, keys in the right, every receipt filed the evening it arrives.
+rorschachMost: fog settling over a field at dawn
+rorschachHigh: a cloud with edges that won't hold still
+rorschachMid: two hills meeting under a wide sky
+rorschachLow: a fern pressed flat with every vein showing
+rorschachLeast: a pair of scissors open on white paper
 question: A friend asks what time you can meet on Thursday. You...
 answerMost: say "afternoon-ish, I'll let you know" and mean it warmly
 answerHigh: suggest "around three?" and leave the rest soft

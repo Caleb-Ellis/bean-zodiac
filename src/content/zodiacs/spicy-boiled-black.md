@@ -22,6 +22,11 @@ facetLowTitle: The Uncovered Pot
 facetLow: A long argument with a stranger drifts away mid-sentence; you let it go and find by morning that nothing in the room is worse for it.
 facetLeastTitle: The New Bowl
 facetLeast: You move the couch, repaint the hallway, swap the lamps — the room asks to be remade and you oblige before the impulse cools.
+rorschachMost: a fist clenched tight around a frayed rope
+rorschachHigh: an old anchor crusted over with barnacles
+rorschachMid: a beetle climbing the trunk of a tree
+rorschachLow: a kite with its string slipping loose
+rorschachLeast: a feather drifting down off an open hand
 question: The charge on your card is wrong by twelve dollars. The hold music has been going for forty minutes. You...
 answerMost: stay on, polite, until someone fixes it — however long that takes
 answerHigh: hold another twenty, then call back tomorrow if it drops

@@ -22,6 +22,11 @@ facetLowTitle: The Lid Left on
 facetLow: You keep your rooms to yourself, lock the door behind you, and call it rest, not retreat.
 facetLeastTitle: Pandan, Then the Pot Moves
 facetLeast: You leave before the bowls are cleared, and the next thing is already pulling at your sleeve.
+rorschachMost: a hen gathering chicks under her wing
+rorschachHigh: a watering can tipped over a seedbed
+rorschachMid: a kettle resting on a stovetop
+rorschachLow: an empty nest left high in bare branches
+rorschachLeast: a dry pot cracking in the sun
 question: You're hosting six people for dinner and the night is going well. You...
 answerMost: keep circling — topping glasses, swapping plates, listening from the kitchen
 answerHigh: refill what needs refilling, then sit back down

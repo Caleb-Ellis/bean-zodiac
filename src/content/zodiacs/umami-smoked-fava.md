@@ -28,6 +28,11 @@ answerHigh: name the one thing they haven't said out loud yet
 answerMid: ask what their gut says and listen
 answerLow: walk through the pros and cons with them
 answerLeast: pull up a spreadsheet and a comparable salary range
+rorschachMost: bared teeth in a low animal skull
+rorschachHigh: a fire flaring up inside a cave mouth
+rorschachMid: two stones balanced on a riverbank
+rorschachLow: a tidy ledger ruled in straight columns
+rorschachLeast: a spreadsheet grid printed on white paper
 ---
 
 Hickory Fava Beans are the Bean Zodiac's most primal — they answer from somewhere underneath the question. A friend asks if they should take the job and the Fava names the wrong city instead, and the friend goes quiet because that was the real thing. Decisions land in the body before they reach the mouth; the no is no before anyone's drawn the table.

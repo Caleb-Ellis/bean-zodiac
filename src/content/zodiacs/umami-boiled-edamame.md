@@ -22,6 +22,11 @@ facetLowTitle: Mirin's Quick Sweet
 facetLow: You close threads mid-sentence and open new ones; the unread count does not move you.
 facetLeastTitle: The Broth Poured Early
 facetLeast: You leave the standing plan, the standing friend, the standing Sunday — and walk lighter for it.
+rorschachMost: a path worn deep into the same grass
+rorschachHigh: a candle burned down to a steady stub
+rorschachMid: a knot tied tight in a length of cord
+rorschachLow: a door swinging open on its hinge
+rorschachLeast: a kite cut loose and drifting off
 question: A standing Tuesday meet-up you've kept up for years has gone a bit thin — fewer people, lower energy. You...
 answerMost: keep showing up; the thing is the showing up
 answerHigh: stay with it, quietly try to bring it back to life

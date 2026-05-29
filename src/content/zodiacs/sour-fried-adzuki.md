@@ -28,6 +28,11 @@ answerHigh: flag the slide and offer a quick rewording
 answerMid: say "mostly — one bit I'd revisit" and let them ask
 answerLow: nod, then mention it after the meeting
 answerLeast: say "looks great" and brace for the question in the room
+rorschachMost: an open window with the curtains pulled all the way back
+rorschachHigh: a hand laying a single card face-up
+rorschachMid: a moth resting flat on a screen door
+rorschachLow: a letter still sealed inside its envelope
+rorschachLeast: a door drawn shut with the blinds twisted closed
 ---
 
 Agrodolce Adzuki Beans are the Bean Zodiac's most candid — the kind whose congratulations arrive before the cake is cut and whose objections arrive before the meeting ends. There's no draft phase. The thought forms, the mouth opens, and the room adjusts; what they say tends to be both true and warm, because the warmth was the first thing in the batter.

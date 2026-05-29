@@ -48,19 +48,15 @@ export default function QuestionVariant({
             : undefined
         }
       >
-        {shuffledTiers.map((tier) => {
-          const txt = getAnswerText(fortuneZodiac, tier);
-          if (!txt) return null;
-          return (
-            <button
-              key={tier}
-              onClick={() => handleAnswer(tier)}
-              className="text-center text-balance text-sm text-zinc-300 px-3 py-1.5 rounded-lg border border-zinc-800 hover:border-zinc-600 hover:text-zinc-100 hover:bg-zinc-800/40 transition-colors cursor-pointer bg-transparent"
-            >
-              {txt}
-            </button>
-          );
-        })}
+        {shuffledTiers.map((tier) => (
+          <button
+            key={tier}
+            onClick={() => handleAnswer(tier)}
+            className="text-center text-balance text-sm text-zinc-300 px-3 py-1.5 rounded-lg border border-zinc-800 hover:border-zinc-600 hover:text-zinc-100 hover:bg-zinc-800/40 transition-colors cursor-pointer bg-transparent"
+          >
+            {getAnswerText(fortuneZodiac, tier)}
+          </button>
+        ))}
       </div>
     </>
   );

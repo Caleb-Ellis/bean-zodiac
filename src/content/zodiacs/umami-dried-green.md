@@ -28,6 +28,11 @@ answerHigh: like a few replies and let the thread cool down on its own
 answerMid: write one careful follow-up and stop there
 answerLow: ride the momentum and post the second one tomorrow
 answerLeast: spin it into a thread, a newsletter, and a podcast pitch by Friday
+rorschachMost: a single chili pepper glowing on a white plate
+rorschachHigh: a wasp coiled tight at the center
+rorschachMid: two seeds resting in a curled leaf
+rorschachLow: a teabag fading in a wide glass of water
+rorschachLeast: a splash of milk spreading thin across a saucer
 ---
 
 Aged Green Beans are the Bean Zodiac's most potent — one sentence, posted once, that the group chat is still quoting at Christmas. They show up to the dinner late, stay an hour, say four things, and leave, and the conversation tastes of them until everyone goes home.

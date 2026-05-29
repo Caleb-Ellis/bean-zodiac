@@ -22,6 +22,11 @@ facetLowTitle: The Spoon Over the Pot
 facetLow: You wait to taste what the host stirred in before salting your own bowl.
 facetLeastTitle: Smoke Above the Lid
 facetLeast: You put the receipt down and ask three people whether the price was fair before paying.
+rorschachMost: a lone tree standing in an open field
+rorschachHigh: a single boat rowing from the harbor
+rorschachMid: two gulls drifting on an updraft
+rorschachLow: a pair of geese tucked into the flock
+rorschachLeast: a herd pressed shoulder to shoulder
 question: A group chat is still arguing over where to eat. You're hungry and one place is obviously fine. You...
 answerMost: book it, post the confirmation, eat
 answerHigh: name the choice and say you're heading there

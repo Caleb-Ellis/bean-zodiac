@@ -22,6 +22,11 @@ facetLowTitle: The Simmering Heat
 facetLow: A friend mispronounces the name and you let it pass; the conversation blurs every edge.
 facetLeastTitle: The Jar Past Its Hour
 facetLeast: Dishes stack, laundry leans, the jar on the counter ferments past its hour. You live well inside the drift.
+rorschachMost: a ruler measuring the gap between two pins
+rorschachHigh: a comb with every tooth aligned
+rorschachMid: two pebbles resting on a sill
+rorschachLow: a drawer left half open
+rorschachLeast: a pile of laundry spilling off a chair
 question: A document goes out to the team tomorrow. You spot a misplaced comma, a slightly off heading, and one number that's correct but rounded oddly. You...
 answerMost: redo the whole pass and send a clean version tonight
 answerHigh: fix all three and quietly re-attach it

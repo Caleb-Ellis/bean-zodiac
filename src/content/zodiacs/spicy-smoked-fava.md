@@ -28,6 +28,11 @@ answerHigh: type it out, laugh, and let the cursor blink for a beat
 answerMid: draft something and save it without sending
 answerLow: tell them no and change the subject
 answerLeast: hand over your phone for the night just in case
+rorschachMost: a horse mid-gallop with the mane flying
+rorschachHigh: water bursting over the lip of a dam
+rorschachMid: a kite tangled in the branches of a tree
+rorschachLow: a dog sitting still at the end of a leash
+rorschachLeast: a parcel tied tight with knotted string
 ---
 
 Chipotle Fava Beans are the Bean Zodiac's most unbridled — and the friend who keeps the night interesting. They book the flight on the morning of, leave the steady job for the uncertain one, sleep at noon and cook at two, run the life on a clock no one else can read. People orbit them for the contact high; for the reminder that the rule was never as solid as it looked.

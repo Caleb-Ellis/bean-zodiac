@@ -58,3 +58,5 @@ for (const { id, data, content } of zodiacs) {
 console.log(
   `Built ${beans.length} beans, ${flavours.length} flavours, ${forms.length} forms, ${zodiacs.length} zodiacs`,
 );
+
+await import("./build-rorschach.mjs");

@@ -22,6 +22,11 @@ facetLowTitle: Oil From a Hot Pan
 facetLow: Notifications land in quick succession; you answer each one before the kettle has whistled.
 facetLeastTitle: The Pepper Flake Bitten
 facetLeast: The grievance forms and leaves the mouth in the same breath — the cook informed at once across the counter.
+rorschachMost: a carved stone face with a level gaze
+rorschachHigh: a frozen lake under a grey sky
+rorschachMid: a heavy curtain hanging in folds
+rorschachLow: a pot lid rattling over a high flame
+rorschachLeast: a wave smashing white against the rocks
 question: Bad news lands across the dinner table, and the room turns to see how you'll take it. You...
 answerMost: ask one practical question and pass the bread
 answerHigh: nod, hold the face, save the reaction for later

@@ -28,6 +28,11 @@ answerHigh: offer the morning, then go to the thing in the afternoon
 answerMid: say maybe and decide closer to the day
 answerLow: say you can't make it but recommend two people who can
 answerLeast: send a vague reply and quietly hope someone else volunteers
+rorschachMost: an anchor sunk firm in the seabed
+rorschachHigh: two hands clasped in a handshake
+rorschachMid: an owl perched on a post
+rorschachLow: a knot half come undone
+rorschachLeast: a chain with a link sprung open
 ---
 
 Brined Kidney Beans are the Bean Zodiac's most trustworthy. When they say a thing will be done by Thursday, the thing is done by Thursday; when they say they'll be there at seven, the door opens at seven with whatever they said they would bring already in hand. They don't make a virtue of it — it would not occur to them to. The reliability is just how the week is shaped.

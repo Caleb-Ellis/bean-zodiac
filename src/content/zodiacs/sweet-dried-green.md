@@ -28,6 +28,11 @@ answerHigh: say yes warmly, book the night, look forward to it
 answerMid: say yes, then quietly wonder what to wear
 answerLow: leave it unread for a day while you decide
 answerLeast: heart-react and never reply
+rorschachMost: a vine coming back over the same fence
+rorschachHigh: tree rings circling out year by year
+rorschachMid: a wheel resting on its side
+rorschachLow: a calendar with the old pages torn off
+rorschachLeast: a stump with the rings gone grey
 ---
 
 Crystallised Green Beans are the Bean Zodiac's most perennial. The friendship from school, the hobby they dropped at twenty-two and picked up at thirty-eight, the half-finished novel waiting in the same drawer for a decade — they come back to it, and somehow the thing comes back too, picking up almost where it left off.

@@ -28,6 +28,11 @@ answerHigh: ask, flatly, if they need something
 answerMid: take out your phone and stay where you are
 answerLow: walk fast to the next corner and turn
 answerLeast: duck into the first lit doorway and wait it out
+rorschachMost: a figure standing still at the end of a hall
+rorschachHigh: a long shadow thrown across a doorway
+rorschachMid: two inkstains meeting at a fold
+rorschachLow: a small dog asleep on a rug
+rorschachLeast: a balloon bobbing at a child's party
 ---
 
 Charcoal Black Beans are the Bean Zodiac's scariest — not loud, not cruel, just the one at the table who goes quiet and watches, and somehow the whole room adjusts to it. They say little and mean all of it. People rehearse what they'll say to them on the walk over.

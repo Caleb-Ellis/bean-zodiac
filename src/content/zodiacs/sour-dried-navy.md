@@ -28,6 +28,11 @@ answerHigh: hold the line in private, treat them a fraction cooler
 answerMid: note it, watch for a pattern
 answerLow: let it pass once, mention it if it happens again
 answerLeast: forget you had the rule, top up their wine
+rorschachMost: an iron rod that won't take a bend
+rorschachHigh: a fence post driven deep in rock
+rorschachMid: two acorns lying side by side
+rorschachLow: a reed leaning all the way to the water
+rorschachLeast: a ribbon folding around whatever holds it
 ---
 
 Dehydrated Navy Beans are the Bean Zodiac's most uncompromising. They are the friend who returns the wrong change at the till, who will not bring the work laptop on holiday and will not pretend the reason is anything other than the reason, who answers "no" to the small favour and does not perform regret about it. The line is where it is, and the people who know them well find this, eventually, restful — you always know where you stand.

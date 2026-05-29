@@ -28,6 +28,11 @@ answerHigh: wait to be asked, then give the right one in one sentence
 answerMid: catch them after the meeting, quietly, by the lift
 answerLow: raise a hand and offer the correction, briefly
 answerLeast: cut in mid-sentence with the right number and the source
+rorschachMost: a sealed pod with nothing spilling out
+rorschachHigh: a pair of lips pressed flat together
+rorschachMid: two halves of a closed shell
+rorschachLow: a horn flared wide at the bell
+rorschachLeast: an open mouth caught mid-shout
 ---
 
 Charcoal Edamame are the Bean Zodiac's most reticent. They reach the conclusion before the meeting has finished framing the question, then sit with it, hearing everyone out, offering the one sentence they came in with only when it's plainly time. When they do speak, it's shorter than expected and exactly right.

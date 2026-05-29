@@ -28,6 +28,11 @@ answerHigh: read it through one more time before clicking
 answerMid: scan the page once and book
 answerLow: book without reading the small print
 answerLeast: click before the page has fully loaded
+rorschachMost: a hand hovering above a doorknob, not touching
+rorschachHigh: a toe testing the surface of cold water
+rorschachMid: two pebbles resting on a ledge
+rorschachLow: a kid sprinting toward an open road
+rorschachLeast: a skier launched off the lip of a jump
 ---
 
 Scorched Mung Beans are the Bean Zodiac's most cautious. They read a room the way a cook reads oil — waiting for the pitch that means now, refusing the half-beat early — and when they finally move it's fast and clean, because the checking is already done. They leave ten minutes early, reread the message once, and very rarely get caught out.

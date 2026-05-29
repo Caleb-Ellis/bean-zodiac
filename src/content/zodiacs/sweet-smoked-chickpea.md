@@ -22,6 +22,11 @@ facetLowTitle: Preserved Lemon, in Plain Segments
 facetLow: You say the price before the pitch, the catch before the favor; people know where they stand with you.
 facetLeastTitle: Coals Raked Flat
 facetLeast: Your invitations come with an itinerary attached. Nothing about you arrives by scent first.
+rorschachMost: a snake charmer's basket with the lid lifting
+rorschachHigh: a hand beckoning from behind a curtain
+rorschachMid: two vines twisting up the same post
+rorschachLow: a road sign pointing straight ahead
+rorschachLeast: a price tag pinned flat to a bare wall
 question: You want a small favour from someone you don't know well. You...
 answerMost: drop by, talk about something else for ten minutes, and let the ask surface itself
 answerHigh: open with the warm thing first, then mention the favour like an afterthought

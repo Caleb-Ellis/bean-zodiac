@@ -22,6 +22,11 @@ facetLowTitle: Chickpeas by the Card
 facetLow: You cook from the card, season by the spoon listed, and the dish lands exactly where it was promised.
 facetLeastTitle: The Dated, Labelled Jar
 facetLeast: Your tabs close at night, your messages answer in order, nothing wanders off down a hallway of its own.
+rorschachMost: a path veering off into tall grass
+rorschachHigh: a clock with the hands set wrong
+rorschachMid: two birds perched on a fence rail
+rorschachLow: a train holding to a straight track
+rorschachLeast: a metronome ticking dead on the beat
 question: You're at a friend's party where you know almost everyone. By the door, one stranger is half-watching the room alone. You...
 answerMost: spend the whole night talking to them and lose track of everyone else
 answerHigh: drift over and stay longer than you planned

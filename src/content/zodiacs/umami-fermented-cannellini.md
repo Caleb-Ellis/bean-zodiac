@@ -28,6 +28,11 @@ answerHigh: unpack the box now and eat late
 answerMid: use the good plates, skip the rest of the staging
 answerLow: serve it on what's clean and call it fine
 answerLeast: order in, eat off your knees, laugh about it
+rorschachMost: a tower reaching past the clouds it stands in
+rorschachHigh: a hand polishing one spot on a window
+rorschachMid: a lantern hanging from a bent branch
+rorschachLow: a chipped mug still full of coffee
+rorschachLeast: a meal eaten straight from the pan
 ---
 
 Miso Cannellini Beans are the Bean Zodiac's most idealistic — the version of the evening in their head is so finished, so specifically lit, that the actual evening keeps coming up short by comparison. They redraft the message six times because the fifth was almost right and almost right is, to them, wrong; they keep the good jumper in tissue paper for an occasion that has not yet been quite worthy.

@@ -47,13 +47,17 @@ const getQualityForSlug = (slug: string, date: Date): QualityId => {
   return qualityFromSlot(h % 8);
 };
 
-export type RitualVariant = "facet" | "question";
+export type RitualVariant = "facet" | "question" | "rorschach";
 
+// Weights out of 5: facet 2, question 2, rorschach 1.
 // XOR mask keeps this hash independent from getQualityForSlug
 export const getVariantForSlug = (slug: string, date: Date): RitualVariant => {
   let h = (daysSinceOrigin(date) ^ 0x5a5a5a5a) >>> 0;
   for (const c of slug) h = (Math.imul(h, 31) + c.charCodeAt(0)) >>> 0;
-  return h % 2 === 0 ? "facet" : "question";
+  const r = h % 5;
+  if (r < 2) return "facet";
+  if (r < 4) return "question";
+  return "rorschach";
 };
 
 // Most→Least, the order answer buttons render in.
@@ -68,7 +72,7 @@ export const ANSWER_TIERS: readonly QualityId[] = [
 export const getAnswerText = (
   zodiac: Zodiac,
   qualityId: QualityId,
-): string | undefined => {
+): string => {
   if (qualityId === QualityIds.Heirloom) return zodiac.answerMost;
   if (qualityId === QualityIds.Market) return zodiac.answerHigh;
   if (qualityId === QualityIds.Garden) return zodiac.answerMid;
@@ -76,13 +80,23 @@ export const getAnswerText = (
   return zodiac.answerLeast;
 };
 
-export const hasQuestion = (zodiac: Zodiac): boolean =>
-  !!zodiac.question &&
-  !!zodiac.answerMost &&
-  !!zodiac.answerHigh &&
-  !!zodiac.answerMid &&
-  !!zodiac.answerLow &&
-  !!zodiac.answerLeast;
+export const getRorschachText = (
+  zodiac: Zodiac,
+  qualityId: QualityId,
+): string | undefined => {
+  if (qualityId === QualityIds.Heirloom) return zodiac.rorschachMost;
+  if (qualityId === QualityIds.Market) return zodiac.rorschachHigh;
+  if (qualityId === QualityIds.Garden) return zodiac.rorschachMid;
+  if (qualityId === QualityIds.Stale) return zodiac.rorschachLow;
+  return zodiac.rorschachLeast;
+};
+
+export const hasRorschach = (zodiac: Zodiac): boolean =>
+  !!zodiac.rorschachMost &&
+  !!zodiac.rorschachHigh &&
+  !!zodiac.rorschachMid &&
+  !!zodiac.rorschachLow &&
+  !!zodiac.rorschachLeast;
 
 const getDailyDimensions = (date: Date): DailyDimensions => {
   const d = daysSinceOrigin(date);

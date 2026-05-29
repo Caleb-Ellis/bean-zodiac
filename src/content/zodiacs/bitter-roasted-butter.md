@@ -28,6 +28,11 @@ answerHigh: walk to the wine shop and pick something to drink with takeaway
 answerMid: heat up leftovers and pour a proper glass
 answerLow: make toast and call it dinner
 answerLeast: skip dinner and go straight to bed
+rorschachMost: a cake spilling over the edge of its plate
+rorschachHigh: two grapes splitting ripe on the vine
+rorschachMid: a moth pinned open in a display case
+rorschachLow: a single dried leaf on a bare shelf
+rorschachLeast: an empty bowl scraped clean to the rim
 ---
 
 Wood-Fired Butter Beans are the Bean Zodiac's most indulgent — quality is non-negotiable. They pay for the version that ruins all the cheaper versions and don't apologise for the bill. When hunger speaks they answer it: the nap taken whole, the bath drawn too hot to step into at once, the second glass poured for the guest before the first is finished. To be hosted by one is to be wanted at the table.

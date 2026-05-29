@@ -22,6 +22,11 @@ facetLowTitle: The Pot's Own Seasoning
 facetLow: You pay the bill the day the reminder arrives, and the lights still come on.
 facetLeastTitle: Salt by the Handful
 facetLeast: Receipts go in the drawer; the drawer goes unopened; the month closes anyway.
+rorschachMost: a row of jars in perfect alignment
+rorschachHigh: a folded cloth squared off at the corners
+rorschachMid: a smudge spread evenly down the middle
+rorschachLow: a stack of papers leaning out of true
+rorschachLeast: a drawer overflowing with crumpled receipts
 question: A volunteer rota for the shared kitchen has a gap on Thursday and no one is replying in the thread. You...
 answerMost: take Thursday, and also tidy up the rota while you're in there
 answerHigh: put your name down for Thursday and move on

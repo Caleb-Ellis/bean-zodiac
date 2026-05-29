@@ -28,6 +28,11 @@ answerHigh: come by for one drink, in the good coat, and leave by ten
 answerMid: bring a bottle and stay until the food's cold
 answerLow: arrive in sweatpants with extra dumplings
 answerLeast: show up early, get the playlist going, sleep on the couch
+rorschachMost: a crown raised high on a velvet cushion
+rorschachHigh: a single jewel set in a wide empty case
+rorschachMid: two swans facing off across still water
+rorschachLow: a muddy boot kicked off by the back step
+rorschachLeast: a heap of laundry slumped on the floor
 ---
 
 Hickory Cannellini Beans are the Bean Zodiac's most exalted — they leave a half-hour gap before answering the invite, not from indifference but because the yes, if it comes, should mean something. The apartment is two-thirds empty by design; the wardrobe holds six things worn often. When they do show up to dinner, the table sits straighter.

@@ -28,6 +28,11 @@ answerHigh: reply "I'll be there" and mean it for the next four months
 answerMid: send a thumbs-up and figure it out closer to the date
 answerLow: wait to see who actually commits
 answerLeast: mute the thread and decide on the morning
+rorschachMost: an anchor settled deep in the silt
+rorschachHigh: a stone wall with the same stones for years
+rorschachMid: a beetle paused on a dark leaf
+rorschachLow: a kite with the string already cut
+rorschachLeast: a suitcase open on an empty bed
 ---
 
 Crystallised Black Beans are the Bean Zodiac's most abiding. They are the friend who is just _there_ — at the funeral, at the move, at the wedding nobody else flew in for — and somehow nobody can quite remember inviting them, because they invited themselves the moment they heard.

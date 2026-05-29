@@ -22,6 +22,11 @@ facetLowTitle: Smoke in the Rafters
 facetLow: You let the question pass; some weather in you wants longer to settle before it speaks.
 facetLeastTitle: The Lid Clamped Down
 facetLeast: You guard the inside life; what others see of you is the rim, not the pudding.
+rorschachMost: a gate swung wide on an empty hinge
+rorschachHigh: an open hand resting palm-up on a knee
+rorschachMid: two doors propped open across a hall
+rorschachLow: a latched shutter with a thin gap at the edge
+rorschachLeast: a vault door sealed flush with the wall
 question: An acquaintance at a party asks, sincerely, how you've been. You...
 answerMost: tell them the true answer, including the part you haven't told most people
 answerHigh: give them an honest summary, not the polished one

@@ -28,6 +28,11 @@ answerHigh: sign up for two hours and let someone else find the rest
 answerMid: wait a day to see if anyone steps up, then quietly do it
 answerLow: leave it on read; somebody always sorts it
 answerLeast: mute the chat and book the weekend away
+rorschachMost: a uniform pressed and hung for morning
+rorschachHigh: a clock with both hands kept wound
+rorschachMid: a bell mounted over a doorway
+rorschachLow: a checklist with half the boxes left blank
+rorschachLeast: a punch card torn up and tossed
 ---
 
 Crystallised Navy Beans are the Bean Zodiac's most dutiful. They take the bins out on Tuesday and the recycling on Wednesday and have done for so long that the household has forgotten the days; they answer the dull group thread by morning; they pick up the prescription the day before it runs out, having already noticed the date.

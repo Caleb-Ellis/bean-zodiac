@@ -28,6 +28,11 @@ answerHigh: ask the questions that let them keep going
 answerMid: listen for a while, then offer the cleaner frame
 answerLow: cut to "have you just considered doing X"
 answerLeast: tell them they're overcomplicating it
+rorschachMost: a single straight line drawn clean
+rorschachHigh: one pebble dropped in still water
+rorschachMid: a key on a plain ring
+rorschachLow: a road map folded the wrong way
+rorschachLeast: a tangle of yarn nobody can find the end of
 ---
 
 Crystallised Edamame are the Bean Zodiac's most uncomplicated. The reply is short, the answer is yes or no, and the desk is empty by six. They have noticed that most things people fuss over come down to one decision, and they make it. Friends come to them when the noise has gotten loud and leave with one thing to do next.

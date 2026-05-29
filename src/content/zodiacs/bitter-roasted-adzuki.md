@@ -28,6 +28,11 @@ answerHigh: swap the shoes, fix the cuff, then commit
 answerMid: adjust one thing and walk away from the mirror
 answerLow: trust the first choice and head out
 answerLeast: wear what's clean and leave on time
+rorschachMost: two halves of a sealed locket, hinge filed smooth
+rorschachHigh: a folded letter pressed flat under glass
+rorschachMid: a moth with its wings spread open
+rorschachLow: a coat left crumpled over a chair back
+rorschachLeast: a heap of laundry sliding off the bed
 ---
 
 Wood-Fired Adzuki Beans are the Bean Zodiac's most polished — impeccable without being cold. Nothing leaves their hands half-done: the message read twice for the comma, the cushion straightened on the way out, the soup ladled deep and refilled before the bowl runs low. Sit at their table and you feel looked after by someone who noticed the thing you didn't say you needed.

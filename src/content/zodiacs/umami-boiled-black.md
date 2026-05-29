@@ -22,6 +22,11 @@ facetLowTitle: Three Minutes, Then Taste
 facetLow: You check before the braise has set, serve before the flavour has learned itself.
 facetLeastTitle: The Kettle Reboiled
 facetLeast: Forty open tabs, each one nudged every hour; nothing is given time to matter.
+rorschachMost: a single drop hanging, not yet fallen
+rorschachHigh: a covered pot left on a low flame
+rorschachMid: a dark inkstain spread across folded paper
+rorschachLow: a hand already reaching for the lid
+rorschachLeast: a clock with its hands spinning loose
 question: A group chat is waiting on your decision and the messages keep arriving. You...
 answerMost: leave it until the morning, when you'll know what you actually think
 answerHigh: tell them you're thinking and you'll come back by tonight

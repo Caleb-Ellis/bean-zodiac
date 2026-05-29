@@ -28,6 +28,11 @@ answerHigh: pick somewhere and tell the chat, no veto window
 answerMid: throw out a suggestion and see if anyone takes it
 answerLow: float two options and let the loudest voice settle it
 answerLeast: wait quietly until somebody else just decides
+rorschachMost: a bull lowering its head at a closed gate
+rorschachHigh: a tree root cracking straight through pavement
+rorschachMid: two paths splitting around a low boulder
+rorschachLow: a flag bending whichever way the wind goes
+rorschachLeast: a reed laid flat by the current and following it
 ---
 
 Red-Hot Green Beans are the Bean Zodiac's most headstrong — once decided, the decision is over. They pick the restaurant, name the hour, and start walking; the group catches up or doesn't, and either way the night begins on time. Friends know that asking for their input is asking for a plan, and the plan, in their hands, is rarely wrong.

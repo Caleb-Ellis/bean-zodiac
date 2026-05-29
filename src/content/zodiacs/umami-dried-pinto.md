@@ -28,6 +28,11 @@ answerHigh: place the year, the house, the falling-out that came after, then the
 answerMid: name everyone, then say which one of them you still talk to
 answerLow: name the two that matter and skip the rest
 answerLeast: say "old friends" and reach for the next photo
+rorschachMost: a cliff face striped with bands of old rock
+rorschachHigh: a slice of cake showing every filling
+rorschachMid: two pigeons settling on a sill
+rorschachLow: a coat of plain white paint on a wall
+rorschachLeast: a single sheet of paper on a desk
 ---
 
 Aged Pinto Beans are the Bean Zodiac's most layered — ask after their week and the answer begins on Sunday with a small remembered detail, and by the time it arrives at Thursday, several things you didn't know were related have quietly turned out to be the same thing. Their shelves look plain from the doorway and reveal a logic only on the second look, which is the only look they're really interested in giving you.

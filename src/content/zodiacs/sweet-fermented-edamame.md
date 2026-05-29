@@ -28,6 +28,11 @@ answerHigh: name the small habit that did the work, and let yourself enjoy that 
 answerMid: notice the ease, smile to yourself, keep walking
 answerLow: brush it off; everyone gets better at things
 answerLeast: assume you were always like this
+rorschachMost: a stone step worn into a dip by passing feet
+rorschachHigh: a rope thickened from years of being braided
+rorschachMid: two oars laid across a small boat
+rorschachLow: a seedling just breaking through bare soil
+rorschachLeast: a blank tool still wrapped in its packaging
 ---
 
 Funky Edamame are the Bean Zodiac's most practiced — the ones who started writing a page a morning four years ago and quietly never stopped. The thing they're good at is so worn-in it looks like a personality trait, and they've forgotten it was ever a decision. Ask how they do it and they look puzzled; the answer is just Tuesdays, hundreds of them.

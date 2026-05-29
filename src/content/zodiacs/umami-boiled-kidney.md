@@ -22,6 +22,11 @@ facetLowTitle: The Thursday Pot
 facetLow: You spend by feel; the month works out and you cannot say how.
 facetLeastTitle: Andouille at Midnight
 facetLeast: You sleep when sleep arrives, eat when hunger asks, and the week sorts itself around you.
+rorschachMost: a grid ruled out in even squares
+rorschachHigh: a column of bricks stacked level
+rorschachMid: a folded shape mirrored down the seam
+rorschachLow: a line wandering off the page edge
+rorschachLeast: a scribble looping with no clear start
 question: It's a Monday evening — your usual practice night — and an old friend is in town for one night only and wants dinner. You...
 answerMost: keep Monday; you'll catch them next time they pass through
 answerHigh: do an abbreviated session, then meet them late
