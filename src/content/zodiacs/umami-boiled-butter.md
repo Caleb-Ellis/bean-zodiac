@@ -22,17 +22,17 @@ facetLowTitle: Broth Skimmed Hot
 facetLow: You sleep light, wake at the first creak in the hallway, and the night belongs to whoever else is awake in it.
 facetLeastTitle: The Burner Turned High
 facetLeast: Three coffees by ten and you're still ahead of the room; the body has not yet remembered that tired is a thing it does.
-rorschachMost: a cat curled into itself on a cushion
-rorschachHigh: a blanket slumped half off the couch
-rorschachMid: steam fogging the whole of a window
-rorschachLow: a lamp left on in a far window
-rorschachLeast: two wide eyes open in the dark
 question: It's a Sunday afternoon and a soft rain has started. You have errands to run, a friend you said you'd call, and a half-finished book on the couch. You...
 answerMost: pull the blanket up and let the rest of the day be a nap
 answerHigh: pick up the book, intending one chapter, and surface at dusk
 answerMid: split the afternoon between the call and the couch
 answerLow: do one errand, then come home before the kettle goes cold
 answerLeast: zip up the jacket and clear the whole list before dinner
+rorschachMost: a dog curled deep into a heap of bedding
+rorschachHigh: a quilt kicked into a loose mound
+rorschachMid: a round cabbage with its outer leaves loose
+rorschachLow: a fist clenched tight at the knuckles
+rorschachLeast: a startled owl with feathers puffed wide
 ---
 
 Dashi Butter Beans are the Bean Zodiac's sleepiest — heavy-lidded, slow to rise, and somehow always halfway through a yawn. They doze through the first alarm and the second, arrive at the day when the day is ready for them, and treat the afternoon nap as a meeting on the calendar. Steam on the lid, low heat all afternoon: this is the pace at which they prefer to exist, and it suits them — the things they finish, they finish thoroughly.

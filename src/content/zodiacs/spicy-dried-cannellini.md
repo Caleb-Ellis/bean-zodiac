@@ -28,11 +28,11 @@ answerHigh: name the two that matter and let the rest stand
 answerMid: flag one big thing and say the rest is solid
 answerLow: say it reads well and make a mental note of the issues
 answerLeast: thumbs-up and move on; not your draft, not your problem
-rorschachMost: an arrow dead center in the target
-rorschachHigh: a needle threaded on the first try
-rorschachMid: two leaves pinned flat in a book
-rorschachLow: darts scattered wide of the board
-rorschachLeast: a blindfold spun loose mid-room
+rorschachMost: two beaks meeting exactly across a hair's gap
+rorschachHigh: a wolf's head squared off against its mirror
+rorschachMid: two animal heads facing across a seam
+rorschachLow: two heads turned away, droplets scattering between
+rorschachLeast: two faces drifting apart, edges flaking off
 ---
 
 Sichuan Cannellini Beans are the Bean Zodiac's most unerring — the friend whose one-line note on your draft is the note you should have written yourself. They don't pad and they don't soften. When they say the third paragraph isn't earning its place, the third paragraph isn't earning its place, and you know it before you've finished reading their message.

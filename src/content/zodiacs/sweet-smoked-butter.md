@@ -22,17 +22,17 @@ facetLowTitle: Flecks on the Bean's Skin
 facetLow: You name the time and the cross-street, write it in the calendar, and arrive five minutes early in your own coat.
 facetLeastTitle: Honey and Smoke, Apart
 facetLeast: Wallet in the left pocket, keys in the right, every receipt filed the evening it arrives.
-rorschachMost: fog settling over a field at dawn
-rorschachHigh: a cloud with edges that won't hold still
-rorschachMid: two hills meeting under a wide sky
-rorschachLow: a fern pressed flat with every vein showing
-rorschachLeast: a pair of scissors open on white paper
 question: A friend asks what time you can meet on Thursday. You...
 answerMost: say "afternoon-ish, I'll let you know" and mean it warmly
 answerHigh: suggest "around three?" and leave the rest soft
 answerMid: pick three, then add "give or take"
 answerLow: say three, and start to mean three
 answerLeast: say 3:00, write it down, and arrive at 2:55
+rorschachMost: a haystack going soft in the rain
+rorschachHigh: a cat curled up, ears barely showing
+rorschachMid: a cushion dented in the middle, tassels at the corners
+rorschachLow: a loaf scored sharp before the oven
+rorschachLeast: a block of butter cut clean, edges square
 ---
 
 Barbecued Butter Beans are the Bean Zodiac's most hazy — and being near them feels like an afternoon that nobody had to schedule. Conversations drift into corners and stay there; the pot stays on low; somebody puts on the second record without asking and nobody objects. They are the friend whose flat you arrive at for an hour and leave from at midnight.

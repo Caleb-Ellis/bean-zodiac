@@ -28,11 +28,11 @@ answerHigh: ask what problem it actually solves
 answerMid: nod, agree to try the top-level changes, ignore the rest
 answerLow: get curious about the color-coding scheme
 answerLeast: volunteer to migrate everything by Friday
-rorschachMost: a plain hammer resting on a workbench
-rorschachHigh: a sturdy crate stacked square in a shed
-rorschachMid: a leaf pressed flat between two pages
-rorschachLow: a music box with a tiny spinning dancer
-rorschachLeast: a chandelier dripping with glass beads
+rorschachMost: two bricks set square beside each other
+rorschachHigh: two sacks of grain stacked in a shed
+rorschachMid: two boulders resting in a field
+rorschachLow: two heads leaning close, sharing a secret
+rorschachLeast: two ornate vases facing on a mantel
 ---
 
 Tempura Butter Beans are the Bean Zodiac's most pragmatic — the ones whose advice ends two sentences before everyone else's, and who somehow still pay less for things. They cut the agenda item that was never going to land, swap the elaborate plan for the obvious one, and reply in three lines without a greeting because the greeting cost both of you a minute. Around them, meetings end early. Things get bought once.

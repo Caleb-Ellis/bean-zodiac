@@ -28,11 +28,11 @@ answerHigh: figure you'll grab it next time you're nearby
 answerMid: text the neighbour and see what shakes out
 answerLow: walk over after work and knock
 answerLeast: get in the car now and sort it
-rorschachMost: a hammock with nobody bothering to lie in it
-rorschachHigh: a cat stretched across a warm windowsill
-rorschachMid: two clouds drifting apart over hills
-rorschachLow: a hand gripping a rope pulled taut
-rorschachLeast: a clenched jaw set against a deadline
+rorschachMost: a sow sprawled flat in the cool mud
+rorschachHigh: a stingray drifting slow along the seabed
+rorschachMid: a low boulder with two stubs of lichen
+rorschachLow: a beetle braced, antennae feeling ahead
+rorschachLeast: a crab dug in hard against the current
 ---
 
 Caramelised Butter Beans are the Bean Zodiac's most nonchalant — the friend whose flat tyre becomes a story about the nice man at the garage, whose cancelled flight turns into a long lunch nobody regrets. Calamity tends to dust off them like sugar off a fritter. Around them other people relax a notch and discover that most of what they were panicking about was optional.

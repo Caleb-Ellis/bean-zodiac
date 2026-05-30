@@ -22,17 +22,17 @@ facetLowTitle: Preserved Lemon, in Plain Segments
 facetLow: You say the price before the pitch, the catch before the favor; people know where they stand with you.
 facetLeastTitle: Coals Raked Flat
 facetLeast: Your invitations come with an itinerary attached. Nothing about you arrives by scent first.
-rorschachMost: a snake charmer's basket with the lid lifting
-rorschachHigh: a hand beckoning from behind a curtain
-rorschachMid: two vines twisting up the same post
-rorschachLow: a road sign pointing straight ahead
-rorschachLeast: a price tag pinned flat to a bare wall
 question: You want a small favour from someone you don't know well. You...
 answerMost: drop by, talk about something else for ten minutes, and let the ask surface itself
 answerHigh: open with the warm thing first, then mention the favour like an afterthought
 answerMid: ease into it — small talk, then the ask, then thanks
 answerLow: say what you need and why, no preamble
 answerLeast: lead with "I need a favour" and the exact terms
+rorschachMost: a snake rising from a basket, hood half-spread
+rorschachHigh: a hand with fingers curling to beckon
+rorschachMid: a low range of hills along the skyline
+rorschachLow: a clenched fist set flat on a counter
+rorschachLeast: a row of bricks stacked level and squared
 ---
 
 Barbecued Chickpeas are the Bean Zodiac's most beguiling — by the time you've registered the smoke, you've already agreed to dinner on Saturday. They lean in the doorway, ask the question that isn't quite a question, and the afternoon you'd ringfenced for errands has rearranged itself into something better. Nobody minds. Nobody quite remembers when they said yes.

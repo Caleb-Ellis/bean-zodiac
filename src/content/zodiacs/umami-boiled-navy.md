@@ -22,17 +22,17 @@ facetLowTitle: Onion in Wedges
 facetLow: You sign the form without reading the middle paragraph and the day proceeds.
 facetLeastTitle: The Untended Pot
 facetLeast: You answer texts in the order they catch your eye, and nothing in your life has suffered for it.
-rorschachMost: a ruler measuring one tiny gap
-rorschachHigh: a frame nudged exactly square on a wall
-rorschachMid: a symmetrical smear down the centre fold
-rorschachLow: a picture hung a little off-level
-rorschachLeast: paint slapped wide past the edges
 question: You spot a typo in the otherwise-perfect printed programme being handed out at a friend's event. You...
 answerMost: quietly find a pen and correct your copy, then mention it to the organiser
 answerHigh: tell one person about it by the coffee, never in front of others
 answerMid: notice it, file it, and forget it by the second act
 answerLow: shrug; the programme reads fine
 answerLeast: you didn't even look at the programme
+rorschachMost: an arrowhead knapped to a clean point
+rorschachHigh: a kite trimmed taut on its frame
+rorschachMid: a single leaf flattened in a book
+rorschachLow: a paper plane folded crooked at the nose
+rorschachLeast: a rag torn off without measuring
 ---
 
 Dashi Navy Beans are the Bean Zodiac's most pedantic — they reread the message they already sent, find the misplaced comma, and send the correction. They straighten the picture frame in someone else's house before sitting down, relabel the folders halfway through an unrelated task, and consider "nearly right" a distinct and lesser category from right. The work, when they do it, is exact.

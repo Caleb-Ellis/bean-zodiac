@@ -28,11 +28,11 @@ answerHigh: drop one nudge that names the date and watch the yeses tumble in
 answerMid: ask if anyone's still keen and wait to see who replies first
 answerLow: assume it died and let the thread keep drifting
 answerLeast: stay quiet and feel grateful nobody made you decide
-rorschachMost: a struck match the instant it flares
-rorschachHigh: sparks leaping from one wick to the next
-rorschachMid: two moths folded against a lampshade
-rorschachLow: a candle guttering low in still air
-rorschachLeast: cold ash settled flat in a sealed jar
+rorschachMost: a splash flinging droplets off in every direction
+rorschachHigh: a bird breaking upward, wings flung wide
+rorschachMid: a longhorn skull above a spattered stain
+rorschachLow: a kite drifting over a settling puddle
+rorschachLeast: a wide yoke set down beside still water
 ---
 
 Sichuan Adzuki Beans are the Bean Zodiac's most catalytic — they walk into a stalled room and within a minute someone is finally booking the thing. They don't argue, don't rally; they just say the one sentence the group has been circling, and the circling stops. Friends learn to bring them the half-formed plan that's been sitting in a draft for a week, because a Sichuan Adzuki will read it once and reply with a date.

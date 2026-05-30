@@ -22,17 +22,17 @@ facetLowTitle: Beer Poured, Door Open
 facetLow: You answer messages the hour they arrive, lime cut, the door already open before the knock.
 facetLeastTitle: The Dark Beer of a Crowd
 facetLeast: You go home steeped in other people and sleep deeper for it.
-rorschachMost: a single island far off a coastline
-rorschachHigh: a cat sitting apart at the room's edge
-rorschachMid: two pebbles set on a wide windowsill
-rorschachLow: two hands clasped tight across a gap
-rorschachLeast: a litter of pups piled in one basket
 question: A new acquaintance is angling for a closer friendship — texts often, invites widely. You...
 answerMost: let it sit unanswered until the energy quietly thins
 answerHigh: reply warmly but space the replies until a real rhythm forms
 answerMid: agree to one specific meet-up and see how it actually feels
 answerLow: meet them halfway, match the pace, accept most invitations
 answerLeast: dive in headlong and rearrange your week to make room
+rorschachMost: a statue raised alone on a tall plinth
+rorschachHigh: a watchtower standing above its splayed legs
+rorschachMid: a mushroom cap on its pale ribbed stalk
+rorschachLow: a hen gathering chicks beneath her body
+rorschachLeast: a family huddled close around one hearth
 ---
 
 Chimichurri Pinto Beans are the Bean Zodiac's most aloof — visible, fluent at the table, and somehow still three seats from the nearest conversation. The unread threads sit. The reply comes when the pan cools. There is one room in the house no guest has been into, and the host does not consider this a failure of hosting.

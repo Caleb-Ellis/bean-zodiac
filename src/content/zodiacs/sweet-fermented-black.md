@@ -28,11 +28,11 @@ answerHigh: open with "a few things to think about" and start at the longest of 
 answerMid: pick the one piece you're surest of and lead with that
 answerLow: say the first thing that surfaces and watch where it lands
 answerLeast: shrug and go with whatever the room already seems to want
-rorschachMost: a figure seated alone, chin resting in one hand
-rorschachHigh: a stone worn smooth at the bottom of a pocket
-rorschachMid: two halves of a walnut shell
-rorschachLow: a sprinter coiled at the starting line
-rorschachLeast: a firework caught the instant it bursts
+rorschachMost: a cowled head bowed low over folded hands
+rorschachHigh: a boulder worn round, settled into the hillside
+rorschachMid: a heavy thundercloud massed over the hills
+rorschachLow: a wave heaving up just before it crests
+rorschachLeast: a hound lunging off its haunches at a sound
 ---
 
 Funky Black Beans are the Bean Zodiac's most contemplative — the ones who can sit with a question through an entire weekend and not feel they've wasted it. They turn a thought over the way you'd turn a stone in your pocket, polishing the edges down by feel. When they finally speak, the sentence has weather in it; you can tell it's been somewhere.

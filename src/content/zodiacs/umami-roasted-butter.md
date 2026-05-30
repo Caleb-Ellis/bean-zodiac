@@ -22,17 +22,17 @@ facetLowTitle: The Pan Not Done
 facetLow: You move on before the pan has finished giving up its oil; close enough is a full stop.
 facetLeastTitle: Rooms for Crossing
 facetLeast: You rearrange a shelf in passing, never lingering to see what the evening light does to it.
-rorschachMost: an open bowl waiting to be filled
-rorschachHigh: a wide ear cupped toward a sound
-rorschachMid: two dancers bowing across a mirror
-rorschachLow: a fist closed around something held back
-rorschachLeast: a megaphone flaring out from a sealed mouth
 question: Someone at the dinner table starts telling a story you can already tell is going somewhere awkward. You...
 answerMost: keep your face entirely still and let them find their own way through
 answerHigh: listen with full attention and ask a gentle steering question at the right moment
 answerMid: nod along, see how it lands
 answerLow: cut in with a related anecdote to take the heat off
 answerLeast: change the subject before the next sentence
+rorschachMost: a cupped palm opening to catch the rain
+rorschachHigh: a clamshell parting along its hinge
+rorschachMid: a round loaf with one side torn open
+rorschachLow: a hand half-curling back into a fist
+rorschachLeast: a clenched paw with the claws drawn in
 ---
 
 Rendered Butter Beans are the Bean Zodiac's most receptive — others end up telling them things they didn't know they were going to tell anyone. The room arranges itself around the listening. People leave a conversation with a Rendered Butter Bean feeling somehow more themselves, and unable to recall a single opinion the Bean expressed.

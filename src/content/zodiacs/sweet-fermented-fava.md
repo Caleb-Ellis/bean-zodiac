@@ -28,11 +28,11 @@ answerHigh: describe one piece of it and watch whether they pick it up
 answerMid: mention you have a hunch about the area and leave it there
 answerLow: say nothing; it'll sound mad out loud
 answerLeast: notice the empty coffee shop and suggest somewhere else
-rorschachMost: a lighthouse beam sweeping out over dark water
-rorschachHigh: a kite climbing far ahead of its string
-rorschachMid: a pair of spectacles folded on a table
-rorschachLow: a clock face showing the present minute
-rorschachLeast: a brick wall close enough to touch
+rorschachMost: a ship's prow nosing out toward open horizon
+rorschachHigh: a kite tilted and pulling hard for the sky
+rorschachMid: a smooth river stone tapering to a point
+rorschachLow: an anchor settled flat on the seabed
+rorschachLeast: a doorstop wedged hard against the jamb
 ---
 
 Funky Fava Beans are the Bean Zodiac's most visionary — the ones who walk into a half-finished room and describe the dinner that'll happen there in two years as if it's already on the calendar. The picture is detailed, generous, and almost always right. Years later you'll look around and realize you're inside the room they were standing in alone.

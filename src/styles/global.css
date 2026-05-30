@@ -484,20 +484,6 @@ input[type="date"]::-webkit-datetime-edit-year-field:focus {
   }
 }
 
-@property --rorschach-angle {
-  syntax: "<angle>";
-  inherits: false;
-  initial-value: 0deg;
-}
-
-@keyframes rorschach-spin {
-  to { --rorschach-angle: 360deg; }
-}
-
-.animate-rorschach-spin {
-  animation: rorschach-spin 30s linear infinite;
-}
-
 .gradient-border-ring {
   position: absolute;
   inset: 0;

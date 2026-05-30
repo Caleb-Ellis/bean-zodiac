@@ -22,17 +22,17 @@ facetLowTitle: Soy, No Second Layer
 facetLow: A friend says they're fine; you take fine and move the conversation on.
 facetLeastTitle: The Cracked Skin
 facetLeast: A plan stops working; you swap it for the next one before anyone names what went wrong.
-rorschachMost: an eye opening behind a torn paper mask
-rorschachHigh: a keyhole with light coming through from the far room
-rorschachMid: two bears climbing opposite sides of a tree
-rorschachLow: a curtain drawn all the way across a window
-rorschachLeast: a blindfold knotted tight at the back
 question: A friend tells a story at dinner that doesn't quite line up with one they told last month. You...
 answerMost: name the discrepancy gently and watch what they do with it
 answerHigh: ask one clarifying question that points right at the seam
 answerMid: file it away, keep listening
 answerLow: let it pass and bring it up another time, maybe
 answerLeast: forget you noticed before dessert arrives
+rorschachMost: a lantern throwing sparks out one cracked side
+rorschachHigh: a coal still licking flame from its edge
+rorschachMid: a dark stone with smoke trailing off it
+rorschachLow: a wet log smoldering, refusing to catch
+rorschachLeast: a snuffed ember gone cold and dark
 ---
 
 Rendered Black Beans are the Bean Zodiac's most insightful — and they tend to be right early. Halfway through the meeting they already know which sentence is load-bearing; halfway through the message they've spotted the question hiding under the second paragraph. When they finally speak, the room reorganizes itself around what they said.

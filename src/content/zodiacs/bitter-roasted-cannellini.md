@@ -28,11 +28,11 @@ answerHigh: straighten the picture and nudge the lamp
 answerMid: move the olives to the table and leave the rest
 answerLow: notice it all, touch nothing, sit down
 answerLeast: settle into the crooked chair without seeing any of it
-rorschachMost: a folded napkin creased to a sharp point
-rorschachHigh: two candlesticks squared on a set table
-rorschachMid: a moth resting on a smooth grey wall
-rorschachLow: a pile of clothes spilling out of a drawer
-rorschachLeast: a scrawl of mud flung across a clean floor
+rorschachMost: a crown's points raised above a carved base
+rorschachHigh: a fern unfurling fronds from a tidy clump
+rorschachMid: a rocky islet with a few jutting peaks
+rorschachLow: a crab scuttling, legs splayed out crooked
+rorschachLeast: a torn leaf chewed ragged at the edges
 ---
 
 Wood-Fired Cannellini Beans are the Bean Zodiac's most refined — they improve everything they touch. They walk a room before guests arrive and move three things, and the room exhales; at introductions they place names like garnish, so each person lands somewhere they can stand. The reply gets a second pass, then a third for the comma. Nothing they touch is left worse.

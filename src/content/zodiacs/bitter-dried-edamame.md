@@ -22,17 +22,17 @@ facetLowTitle: The Spoon Doubling Back
 facetLow: You finish your own sentence, then circle it twice in case the meaning slipped.
 facetLeastTitle: Brine on the Board
 facetLeast: Your rooms accumulate spare cords, half-burnt candles, drafts kept for the line you might still need.
-rorschachMost: a single dot in a white field
-rorschachHigh: two short dashes side by side
-rorschachMid: a pebble dropped on a clean page
-rorschachLow: a sentence trailing into smaller print
-rorschachLeast: a page run end to end with ink
 question: A form asks for a one-line bio for an event you only half want to be at. The cursor blinks. You...
 answerMost: type your name
 answerHigh: name, city, the one verb
 answerMid: a sentence with a small joke in it
 answerLow: three sentences and a soft caveat
 answerLeast: a paragraph, the second draft, the apology for the length
+rorschachMost: two clean pebbles, nothing between them
+rorschachHigh: a stone and a seed, few crumbs
+rorschachMid: a potato and a beetle side by side
+rorschachLow: a stuffed envelope spilling its contents
+rorschachLeast: a smashed pot scattered into countless shards
 ---
 
 Desiccated Edamame are the Bean Zodiac's most terse — they answer the email with one word, end the call the moment the business is done, and have a gift for arriving at the point three turns before anyone planned to. In a meeting that's losing the thread they are the one who says the sentence that ends it, and everyone privately thanks them.

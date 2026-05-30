@@ -28,11 +28,11 @@ answerHigh: set up the tracker and the first-hour-Monday plan before leaving the
 answerMid: jot down the three obvious steps and start on the first
 answerLow: open a fresh doc, write the first paragraph, see where it goes
 answerLeast: shove it in the inbox; you'll know what to do when Monday arrives
-rorschachMost: jars lined up in a perfect even row
-rorschachHigh: tiles set in a clean repeating grid
-rorschachMid: two spoons resting on a folded cloth
-rorschachLow: shoes kicked off in a loose heap by the door
-rorschachLeast: papers scattered across a floor by an open window
+rorschachMost: an archipelago set out in a tidy chain
+rorschachHigh: a coastline traced clean onto a map
+rorschachMid: a continent spread across an old chart
+rorschachLow: a puddle creeping out past its own edges
+rorschachLeast: spilled batter spreading loose across the counter
 ---
 
 Red-Hot Navy Beans are the Bean Zodiac's most organized — and the speed of their decisions comes from never having to look anything up. Folders nest like spice tins; tomorrow's first hour is set before tonight's dinner; the project that lands on Friday has a tracker by 6pm and a plan by Saturday morning. They move quickly because the path was cleared in advance.

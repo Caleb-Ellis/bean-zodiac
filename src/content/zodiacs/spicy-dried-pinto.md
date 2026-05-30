@@ -28,11 +28,11 @@ answerHigh: write more than you need and trim it the morning of
 answerMid: jot a clean outline the night before and trust the room
 answerLow: scribble three bullets on the train in
 answerLeast: wing it; fifteen minutes isn't a talk, it's a chat
-rorschachMost: a pot boiled over across the whole stove
-rorschachHigh: a fire built far past the pit's edge
-rorschachMid: two ladles hung above a counter
-rorschachLow: a single spoonful left in the bowl
-rorschachLeast: a measuring cup filled to one neat line
+rorschachMost: a seedhead burst, husks flung everywhere
+rorschachHigh: a cracked pod spilling beans past its edge
+rorschachMid: two walnut halves with crumbs scattered between
+rorschachLow: a closed pod beside a few stray seeds
+rorschachLeast: two acorns set whole in a tidy bowl
 ---
 
 Sichuan Pinto Beans are the Bean Zodiac's most untempered — full pitch is their working volume and there is no dial. Asked for a paragraph, they file an essay. Invited to dinner, they bring a four-course menu and the wine pairings. The work is genuinely good, often great, always more than the brief asked for, and people learn to assign them small things knowing they'll get back something large and excellent.

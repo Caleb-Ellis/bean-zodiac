@@ -28,11 +28,11 @@ answerHigh: list the trade-offs and ask which ones they actually weigh more
 answerMid: walk through both with them out loud and arrive at the answer together
 answerLow: ask which one they pictured when they woke up this morning
 answerLeast: tell them to take whichever one felt like home at the door
-rorschachMost: a balance scale level to the last grain
-rorschachHigh: a ruler laid straight along a drawn line
-rorschachMid: two stones of about the same size
-rorschachLow: a coin spinning to settle a question
-rorschachLeast: a hand pressed flat over a thumping chest
+rorschachMost: a balance scale, two pans level on the beam
+rorschachHigh: an ox yoke notched evenly for the load
+rorschachMid: a low hill rising to two rounded peaks
+rorschachLow: a bat with both wings flung open
+rorschachLeast: a heart, the two chambers swelling at the top
 ---
 
 Cultured Edamame are the Bean Zodiac's most rational — they won't sign off on a Friday feeling, won't say yes until the numbers are in the spreadsheet, and have never once regretted leaving the angry reply overnight. They turn a thing over until they can actually account for it, and the verdict that comes out the far end is usually the right one. People bring them the messy decisions precisely because they don't flinch toward the comfortable answer.

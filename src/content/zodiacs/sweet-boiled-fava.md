@@ -22,17 +22,17 @@ facetLowTitle: Honey Skimmed Early
 facetLow: You hear "let's figure it out later" and let it pass, knowing later will not come.
 facetLeastTitle: The Quick Spoon
 facetLeast: You ask once, accept the first sidestep, and walk away grateful you did not have to repeat yourself.
-rorschachMost: a fist knocking again on a shut door
-rorschachHigh: a drip carving a groove in stone
-rorschachMid: a clock face with both hands raised
-rorschachLow: a hand letting a rope slide free
-rorschachLeast: a paper boat drifting off downstream
 question: You emailed your landlord about a slow leak three weeks ago and heard nothing back. You...
 answerMost: send the same warm follow-up every Monday until it's fixed
 answerHigh: send a polite second email this week
 answerMid: bring it up next time you cross paths in the hall
 answerLow: wait another week, see if it resolves itself
 answerLeast: put a bucket under it and let it go
+rorschachMost: a fist clenched tight, knuckles out
+rorschachHigh: a tick dug in and holding on
+rorschachMid: a knot of wood in a plank
+rorschachLow: a fist beginning to open its fingers
+rorschachLeast: a loose ball of yarn coming undone
 ---
 
 Candied Fava Beans are the Bean Zodiac's most insistent — and the warmest. They ask the same question on week one and week six in exactly the same kind voice, and somewhere around week four the room realises that this bean does not get bored, does not escalate, does not go away, and the easier path is simply to answer them. The honey is genuine; the patience is the muscle underneath.

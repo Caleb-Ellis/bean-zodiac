@@ -22,17 +22,17 @@ facetLowTitle: The Lid Left on
 facetLow: You keep your rooms to yourself, lock the door behind you, and call it rest, not retreat.
 facetLeastTitle: Pandan, Then the Pot Moves
 facetLeast: You leave before the bowls are cleared, and the next thing is already pulling at your sleeve.
-rorschachMost: a hen gathering chicks under her wing
-rorschachHigh: a watering can tipped over a seedbed
-rorschachMid: a kettle resting on a stovetop
-rorschachLow: an empty nest left high in bare branches
-rorschachLeast: a dry pot cracking in the sun
 question: You're hosting six people for dinner and the night is going well. You...
 answerMost: keep circling — topping glasses, swapping plates, listening from the kitchen
 answerHigh: refill what needs refilling, then sit back down
 answerMid: sit through the course, get up for the next one
 answerLow: stay seated and let people fetch their own seconds
 answerLeast: open another bottle, leave the dishes till morning
+rorschachMost: a sow nosing a piglet to her side
+rorschachHigh: a teapot leaning to pour from its spout
+rorschachMid: a hedgehog curled with its snout out
+rorschachLow: a cracked jug tipped empty on its side
+rorschachLeast: a dry husk split open and hollow
 ---
 
 Candied Mung Beans are the Bean Zodiac's most nurturing — the one who refilled your water glass before you noticed it was empty, who texted on the morning of the appointment they remembered and you forgot, who keeps the household running through a hundred small unannounced tendings. The care is steeped in, not performed; it shows up in the pandan-warm details nobody can quite locate the source of.

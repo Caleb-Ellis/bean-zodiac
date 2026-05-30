@@ -28,11 +28,11 @@ answerHigh: begin the project you've been meaning to, then end up rearranging th
 answerMid: pick two things from a list and bounce between them
 answerLow: choose one thing and finish it
 answerLeast: do the thing already on the calendar for that slot
-rorschachMost: a flock scattering every way from a single shot
-rorschachHigh: paint flung wide across a bare canvas
-rorschachMid: two kites tangled briefly in a gust
-rorschachLow: a single thread pulled straight from a spool
-rorschachLeast: one stone set dead center in a raked garden
+rorschachMost: a bonfire throwing sparks off in every direction
+rorschachHigh: an antlered elk with branches flaring wild
+rorschachMid: a candle guttering, wax slumping down its sides
+rorschachLow: a cypress tapering to one steady point
+rorschachLeast: a single flame standing straight and still
 ---
 
 Red-Hot Pinto Beans are the Bean Zodiac's most chaotic — six tortillas open on the counter, six fillings half-made, and a fluency in all of them that nobody else in the room could keep up with. The wake is a trail of half-folded things, but the energy inside it is real, and the one idea that does survive to evening tends to be better than anyone could have planned.

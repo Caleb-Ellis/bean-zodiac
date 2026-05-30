@@ -28,11 +28,11 @@ answerHigh: name it, plainly, no caveat
 answerMid: name three and let them ask which you'd rewatch tonight
 answerLow: name something safe and well-liked
 answerLeast: say you can never pick and turn the question around
-rorschachMost: a judge's gavel mid-swing, already coming down
-rorschachHigh: two arrows pointing the same hard direction
-rorschachMid: a folded paper crane on a windowsill
-rorschachLow: a shrug of soft shoulders, half-turned away
-rorschachLeast: a fork in a road with both paths fading out
+rorschachMost: a clenched fist set hard on a table
+rorschachHigh: a heavy stone dropped square in the middle
+rorschachMid: a lumpy potato with a sprout off the side
+rorschachLow: a fat candle slumping soft as it burns down
+rorschachLeast: a head of cauliflower coming apart into florets
 ---
 
 Scorched Adzuki Beans are the Bean Zodiac's most opinionated — and they know it within the first three seconds. Hand one a menu, a hire, a paint swatch, and the verdict arrives whole and unhedged, often before the question has finished. People bring them the hard calls precisely because they don't flinch, and they're usually right.

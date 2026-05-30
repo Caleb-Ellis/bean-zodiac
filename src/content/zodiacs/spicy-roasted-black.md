@@ -28,11 +28,11 @@ answerHigh: ask the one quiet person the question that opens them up
 answerMid: enjoy the warmth, refill your glass, let the talk go where it goes
 answerLow: drift to the balcony for air and end up alone
 answerLeast: thank the host, slip out, and walk home the long way
-rorschachMost: iron filings pulled tight around a magnet
-rorschachHigh: birds wheeling in toward one branch
-rorschachMid: an ink stain spreading on a folded napkin
-rorschachLow: a single chair turned to face the wall
-rorschachLeast: two halves drifting apart on dark water
+rorschachMost: a whirlpool drawing loose threads into its center
+rorschachHigh: a cat curled tight with its tail wound in
+rorschachMid: a root clump with thin fibers trailing off
+rorschachLow: a kite drifting away on a slack string
+rorschachLeast: a knot working itself loose at the ends
 ---
 
 Peri-Peri Black Beans are the Bean Zodiac's most magnetic — the ones who weren't trying to host and somehow are. They lean against a counter and the circle forms; they make an offhand suggestion and the night reroutes. People remember what they said three weeks later and aren't entirely sure why it landed so hard.

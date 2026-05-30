@@ -28,11 +28,11 @@ answerHigh: pick the one weakest premise and push on it, gently
 answerMid: agree with the bits that hold and let the rest pass
 answerLow: ask a question instead of disagreeing and see if they walk it back themselves
 answerLeast: nod and say "yeah, totally"
-rorschachMost: a megaphone flared wide at the open mouth
-rorschachHigh: a rooster mid-crow on a fence post
-rorschachMid: two halves of a cracked walnut shell
-rorschachLow: a hand half-raised and then lowered again
-rorschachLeast: a finger pressed flat against sealed lips
+rorschachMost: a bull snorting steam from its lowered snout
+rorschachHigh: a boar's head with breath fogging the air
+rorschachMid: a hippo's head wallowing at the surface
+rorschachLow: a sheep with its muzzle tucked down
+rorschachLeast: a sleeping boar curled nose to chest
 ---
 
 Glazed Fava Beans are the Bean Zodiac's most outspoken — the ones who begin the hard sentence first and let everyone else arrive into the heat they started. They name the thing nobody at the table will, and the room breathes out. They send the long-overdue compliment in full sentences, no "btw" energy.

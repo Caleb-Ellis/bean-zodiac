@@ -28,11 +28,11 @@ answerHigh: name the two things that broke it and stop talking
 answerMid: ask three questions, then say the obvious thing
 answerLow: listen for an hour and offer one careful sentence
 answerLeast: listen for an hour and say whatever they need to hear
-rorschachMost: a scalpel laid clean on a steel tray
-rorschachHigh: two halves of a fruit cut even
-rorschachMid: a folded sheet of paper creased once
-rorschachLow: a tangle of string spilled from a drawer
-rorschachLeast: a puddle spreading across a tiled floor
+rorschachMost: a heart laid open, one clean incision at top
+rorschachHigh: a peach halved precisely along its cleft
+rorschachMid: a broad leaf notched at the stem
+rorschachLow: a cushion slumping soft under its own weight
+rorschachLeast: dough spreading shapeless across the board
 ---
 
 Cured Edamame are the Bean Zodiac's most surgical — the reply is written before the question has finished arriving. They are the friend who, when you finally bring up the thing you've been circling, says the one sentence that ends it; the colleague whose two-line email closes a thread that had been on fire for two days. The relief of being handled this efficiently is real, and they trade on it.

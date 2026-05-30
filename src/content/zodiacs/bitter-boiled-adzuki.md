@@ -28,11 +28,11 @@ answerHigh: order what you always order here
 answerMid: pick the safe second-favourite
 answerLow: order what's on the next table
 answerLeast: point at random and close the menu
-rorschachMost: a hand held over a chess piece, not yet placed
-rorschachHigh: two figures bowing, neither straightening first
-rorschachMid: a moth caught mid-fold
-rorschachLow: a door swung open on its hinges
-rorschachLeast: a thrown coin still spinning on the floor
+rorschachMost: a bear couched low, head bowed, tail curled under
+rorschachHigh: an old tortoise drawn in, weighing whether to wake
+rorschachMid: a potato beside a larger potato
+rorschachLow: a hare mid-leap, hind foot already kicking off
+rorschachLeast: a curled tail unwinding, a loose wing flung out
 ---
 
 Infused Adzuki Beans are the Bean Zodiac's most judicious — the one who won't be hurried into a verdict and is almost always right for it. Ask them what they think and you get "let me sit with it," and they actually do; what comes back is weighed, fair, and worth the wait. They're the friend you call before a big decision precisely because they refuse to give you the easy answer.

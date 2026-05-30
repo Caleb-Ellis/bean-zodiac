@@ -22,17 +22,17 @@ facetLowTitle: Steam Off a Fresh Pot
 facetLow: You leave the book at chapter four, the podcast at minute eight, already curious about the next thing.
 facetLeastTitle: The Lid Never Settled
 facetLeast: You rotate the furniture, the playlists, the route home; nothing in the apartment has stayed in one place a full season.
-rorschachMost: a groove worn deep by one repeated track
-rorschachHigh: a moth battering the same lamp
-rorschachMid: two pebbles side by side on sand
-rorschachLow: a hand letting a balloon go
-rorschachLeast: a scatter of marbles rolling every way
 question: It's late and you've been turning over one problem all evening. The sensible move is to sleep on it. You...
 answerMost: stay up until you crack it, however late
 answerHigh: do one more pass and then maybe stop
 answerMid: jot the current state and go to bed
 answerLow: close the laptop and read something else
 answerLeast: leave it and start something new tomorrow
+rorschachMost: a hole drilled through one worn spot
+rorschachHigh: a beetle circling back to one hole
+rorschachMid: an hourglass pinched at its waist
+rorschachLow: a knot slipping loose at the middle
+rorschachLeast: a spool unwinding its thread everywhere
 ---
 
 Kimchi Kidney Beans are the Bean Zodiac's most obsessive — the ones who have found the thing and intend to follow it past the point where the rest of the room got bored. They reread the same paragraph for the fourth night running, cook the braise three Sundays in a row adjusting one variable, and arrive at a depth on the subject that nobody else in the conversation can match.

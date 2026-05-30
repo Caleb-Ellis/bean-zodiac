@@ -28,11 +28,11 @@ answerHigh: send four paragraphs with the caveats nested in the right places
 answerMid: send a tidy bulleted list with two footnotes
 answerLow: give them three sentences and offer to talk it through after
 answerLeast: send one line and trust them to ask
-rorschachMost: a knot of threads tangled past untying
-rorschachHigh: a many-veined leaf held to the light
-rorschachMid: two patterns meeting along a fold
-rorschachLow: a single straight line down the middle
-rorschachLeast: one plain dot on an empty page
+rorschachMost: a coral head branching past any counting
+rorschachHigh: an old oak crowded with a thousand leaves
+rorschachMid: a head of cauliflower cut from the stalk
+rorschachLow: a plain round bush trimmed to a ball
+rorschachLeast: a plain felt cushion
 ---
 
 Charcoal Pinto Beans are the Bean Zodiac's most intricate. They answer a text in three drafts, each catching a meaning the last one missed; they keep seven tabs open in a deliberate order and can name the through-line between any two. The inner landscape is genuinely elaborate, layered the way smoke works into the grain, and rewarding to anyone who stays long enough to follow it.

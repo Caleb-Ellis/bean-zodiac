@@ -28,11 +28,11 @@ answerHigh: agree once and quietly note the apartment number
 answerMid: agree and ask what's in it
 answerLow: agree warmly and offer your number
 answerLeast: agree and invite them in for tea
-rorschachMost: an animal crouched behind a half-shut door
-rorschachHigh: two eyes peering out from a hedge
-rorschachMid: a folded paper fan held closed
-rorschachLow: a hand held open, palm up
-rorschachLeast: a front gate swung wide to the road
+rorschachMost: a cat hunched, ears up, watching the door
+rorschachHigh: an owl drawn tight against the trunk
+rorschachMid: a tree stump with two knobs on top
+rorschachLow: a hare sitting easy in the grass
+rorschachLeast: a child leaning out, arms thrown wide
 ---
 
 Cured Chickpeas are the Bean Zodiac's most wary — they have arrived at the dinner having already looked up the host's last three jobs. They are the friend who asks twice where the recommendation came from before clicking the link, the colleague whose welcome to a new hire is courteous and unhurried and full of small tests the new hire won't notice for a month. When trust is finally extended, it means something, and the people who earn it know they have.

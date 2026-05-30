@@ -28,11 +28,11 @@ answerHigh: text "running late" and stay until you've lost track again
 answerMid: stop at a natural break and go, half there in your head
 answerLow: shut the laptop on time and shake it off on the walk
 answerLeast: pack up early so you arrive a few minutes ahead
-rorschachMost: a fire that has taken the whole hillside
-rorschachHigh: a whirlpool pulling everything toward its center
-rorschachMid: a lamp left on in a far window
-rorschachLow: a candle guttering down to its last inch
-rorschachLeast: a matchstick gone cold before it caught
+rorschachMost: a wildfire's smoke billowing up the hill
+rorschachHigh: a thundercloud swelling before the storm
+rorschachMid: a bushy shrub catching the wind at its top
+rorschachLow: the last smoke off a fire dying down
+rorschachLeast: a cold heap of ash gone gray and still
 ---
 
 Chipotle Kidney Beans are the Bean Zodiac's most consuming — when they love a thing, they love it past the point of comfortable. The new band, the new person, the new project; for a month nothing else is interesting, meals get skipped, calls get missed, the world narrows to one bright pot kept at simmer well past midnight. The intensity is the gift — what they make at that heat is something other people couldn't reach.

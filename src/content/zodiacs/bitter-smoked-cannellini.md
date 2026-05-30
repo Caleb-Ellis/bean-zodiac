@@ -28,11 +28,11 @@ answerHigh: glance at the camera, recognise no one, and let it ring out
 answerMid: check who it is, decide on the spot, mostly decide no
 answerLow: buzz them up and put the kettle on before you've thought it through
 answerLeast: take the stairs down to meet them and pull on a coat
-rorschachMost: a jar sealed tight with wax over the lid
-rorschachHigh: a shuttered window latched from inside
-rorschachMid: two halves of a closed book
-rorschachLow: a gate swung wide onto a path
-rorschachLeast: a front door propped open to the street
+rorschachMost: a monk hunched over his folded hands
+rorschachHigh: a figure drawn into a heavy hooded cloak
+rorschachMid: a cottage loaf, two rounds stacked
+rorschachLow: a child reaching up to be lifted
+rorschachLeast: a dancer thrown open mid-lift overhead
 ---
 
 Charcoal Cannellini Beans are the Bean Zodiac's most hermetic. The buzzer is a suggestion. The unread thread sits for three days not from malice but because the door, once shut for the evening, is genuinely shut. They have built a life with exactly the number of people in it they meant to have, and it runs beautifully, quietly, on schedule.

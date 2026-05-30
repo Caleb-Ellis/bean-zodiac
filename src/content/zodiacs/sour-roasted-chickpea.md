@@ -22,17 +22,17 @@ facetLowTitle: Bread Refusing the Soak
 facetLow: Your room sits the way it sat last year — one chair, one angle, no rearranging for visitors.
 facetLeastTitle: Roasted Past Yielding
 facetLeast: Sunday is Sunday; the route to work is the route; suggestions slide off like oil from a hot pan.
-rorschachMost: a gate swung wide on its hinge
-rorschachHigh: a hand turning a thing over to see the back
-rorschachMid: two birds settled on a telephone wire
-rorschachLow: a knot pulled tight at the top
-rorschachLeast: a vault door bolted flush to its frame
 question: At dinner the loudest person at the table takes a position you find faintly wrong. You...
 answerMost: pull your chair closer and ask them to make the case in full
 answerHigh: lean in and turn the disagreement into a real conversation
 answerMid: listen carefully, ask one clarifying question, save the rest
 answerLow: nod through it and steer the table toward something safer
 answerLeast: tune them out and refill your glass
+rorschachMost: a moth with both wings thrown fully open
+rorschachHigh: a tree spreading its crown over tangled roots
+rorschachMid: a bat above a nest of twigs
+rorschachLow: a figure pulling a wide hat down over itself
+rorschachLeast: folded wings clenched into a tight knot
 ---
 
 Chimichurri Chickpeas are the Bean Zodiac's most open-minded — at dinner, they pull the loudest dissenter closer and ask them to keep going. The objection that would close another person's face opens theirs. They finish a draft, hear one good argument against the spine of it, and rewrite the spine before bed.

@@ -22,17 +22,17 @@ facetLowTitle: Cinnamon Traded Mid-Pot
 facetLow: You rearrange the room every few months; the chair that was yours last year now faces a different wall, and you are lighter for it.
 facetLeastTitle: The Pot Poured Early
 facetLeast: You sell the heavy things first — the books, the kettle, the lease — and walk into the next season carrying almost nothing.
-rorschachMost: an anchor settled deep in the seabed
-rorschachHigh: an old oak with roots spreading wide
-rorschachMid: a folded cloth draped over a rail
-rorschachLow: a flock scattering off a telephone wire
-rorschachLeast: dry leaves spinning loose in the wind
 question: A group chat from college has gone quiet for months. You...
 answerMost: send the long message anyway, with the photo from that summer
 answerHigh: drop a line asking how everyone is, no agenda
 answerMid: reply when someone else breaks the silence
 answerLow: scroll up, smile at the old messages, close the app
 answerLeast: mute the chat — it had its time
+rorschachMost: a heavy bell hung on a fixed rope
+rorschachHigh: two clasped hands above a tethered weight
+rorschachMid: a mushroom cap on a thin stalk
+rorschachLow: a balloon straining at a fraying string
+rorschachLeast: a jellyfish drifting loose from its bell
 ---
 
 Candied Black Beans are the Bean Zodiac's most steadfast — the ones who still send the birthday text twelve years after the friendship went mostly dormant, and mean every word of it. The standing Tuesday call, the monthly walk, the houseplant inherited from a roommate who moved out in 2017 — these are kept with a quiet, sweetened constancy that asks for no acknowledgement and rarely gets any.

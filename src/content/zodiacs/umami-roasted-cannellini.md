@@ -22,17 +22,17 @@ facetLowTitle: The Shape Under the Crust
 facetLow: A room in your house stays closed to most visitors; the door is not refusal, only yours.
 facetLeastTitle: Embers Slow to Give
 facetLeast: An apology you owe ages on the shelf; you trust it will be understood in time.
-rorschachMost: a chest with the lid swung open and lining shown
-rorschachHigh: a hand passing a folded note across a table
-rorschachMid: two cellos leaning into one another
-rorschachLow: a sealed envelope held behind a back
-rorschachLeast: a vault door welded shut at the seam
 question: You're at a small dinner and the conversation lands, by accident, on the exact thing you've been carrying for a month. You...
 answerMost: tell the whole table — this is the moment, these are the people
 answerHigh: tell the one person you trust, quietly, after the plates go
 answerMid: mention a piece of it, see how the room responds
 answerLow: deflect with a related but lighter version
 answerLeast: say nothing and feel the secret get a little heavier
+rorschachMost: an oak in full leaf dropping its acorns down
+rorschachHigh: a dandelion letting its seeds go on the wind
+rorschachMid: a broad tree with roots spreading underground
+rorschachLow: a mushroom keeping its spores tight under the cap
+rorschachLeast: a willow with its roots bound up in burlap
 ---
 
 Rendered Cannellini Beans are the Bean Zodiac's most confiding — but on their own clock. The held thing waits until the right ear arrives, and when it does they offer it whole, kept warm exactly long enough not to lose its shape. The friend who gets the late-night call always understands, afterwards, why it was them.

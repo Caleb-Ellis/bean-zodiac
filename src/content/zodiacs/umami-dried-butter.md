@@ -28,11 +28,11 @@ answerHigh: read it twice, decide it can wait until tomorrow morning
 answerMid: send a thumbs-up to whichever option has the most votes
 answerLow: pick one and reply within the hour
 answerLeast: reply before you've finished reading the third message
-rorschachMost: a cat folded asleep in a patch of sun
-rorschachHigh: a hammock sagging low between two trees
-rorschachMid: a butterfly resting on a leaf
-rorschachLow: a clock with both hands ticking fast
-rorschachLeast: sparks flying off a grinding wheel
+rorschachMost: a scoop of ice cream slowly melting down
+rorschachHigh: a soft candle slumping into a pool of wax
+rorschachMid: a mushroom cap with spores drifting beneath
+rorschachLow: a firework bursting, sparks raining off the edges
+rorschachLeast: a paint can kicked over, droplets flung everywhere
 ---
 
 Aged Butter Beans are the Bean Zodiac's most mellow — the kind of presence that walks into a tense room and the tension forgets what it was about. They take long lunches, finish sentences on their own clock, and refuse, gently and absolutely, to be rushed by anyone's emergency. Friends drift to them in bad weeks the way people drift to a warm kitchen.

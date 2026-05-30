@@ -22,17 +22,17 @@ facetLowTitle: A Skin Holding Its Shape
 facetLow: You agree at the table and rehearse the disagreement an hour later, alone in the kitchen, where nobody has to watch the wrong answer leave your mouth.
 facetLeastTitle: The Bean That Stays Whole
 facetLeast: You hold the line through three rounds of pressure, sweetly, and the room reshapes itself around you rather than the other way round.
-rorschachMost: soft wax pooling to fill its mould
-rorschachHigh: a reed bowing flat under the current
-rorschachMid: a glove laid open on a bench
-rorschachLow: a fist raised above a crowd
-rorschachLeast: an iron spike driven into stone
 question: Five of you are picking a restaurant and someone asks where you want to go. You...
 answerMost: say wherever everyone else wants is great
 answerHigh: name two places, both ones you heard others mention
 answerMid: name a safe middle option you'd all be fine with
 answerLow: name the place you actually want
 answerLeast: name the place you want and start walking there
+rorschachMost: a moth pressed flat behind glass
+rorschachHigh: two open hands held out to take a load
+rorschachMid: a butterfly resting with wings spread wide
+rorschachLow: a bat braced for a downward stroke
+rorschachLeast: a hawk flaring its wings to hold its ground
 ---
 
 Candied Butter Beans are the Bean Zodiac's most compliant — and the easiest people in any room to plan around. The vote goes their way because they voted with whoever spoke last; the dinner lands on the date that suited everyone else; the offered chair, the warmer cup, the quieter seat all flow to them by way of polite redirection nobody actually noticed happening.

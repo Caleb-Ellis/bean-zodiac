@@ -28,11 +28,11 @@ answerHigh: leave a voice note for when they wake, no explanation
 answerMid: jot it down and message them in the morning
 answerLow: tell yourself it's nothing and try to sleep
 answerLeast: roll over; dreams are dreams
-rorschachMost: a face half-glimpsed in a darkened window
-rorschachHigh: smoke curling under a door with no fire
-rorschachMid: two smudges meeting at a crease
-rorschachLow: a kettle steaming on a morning stove
-rorschachLeast: a tidy shelf with everything in its place
+rorschachMost: a dim face surfacing in the soot
+rorschachHigh: a storm cloud massing where none was forecast
+rorschachMid: a clump of moss pulled from a wall
+rorschachLow: a cat curled asleep on the cushion
+rorschachLeast: a warm loaf cooling on the board
 ---
 
 Charcoal Green Beans are the Bean Zodiac's most eerie. They call back before the friend has said anything is wrong, pay the small debt before it's been asked for, wake at three to move the furniture and turn out to have been right about the room. Things tend to rearrange themselves around their having already been there.

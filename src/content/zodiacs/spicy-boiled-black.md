@@ -22,17 +22,17 @@ facetLowTitle: The Uncovered Pot
 facetLow: A long argument with a stranger drifts away mid-sentence; you let it go and find by morning that nothing in the room is worse for it.
 facetLeastTitle: The New Bowl
 facetLeast: You move the couch, repaint the hallway, swap the lamps — the room asks to be remade and you oblige before the impulse cools.
-rorschachMost: a fist clenched tight around a frayed rope
-rorschachHigh: an old anchor crusted over with barnacles
-rorschachMid: a beetle climbing the trunk of a tree
-rorschachLow: a kite with its string slipping loose
-rorschachLeast: a feather drifting down off an open hand
 question: The charge on your card is wrong by twelve dollars. The hold music has been going for forty minutes. You...
 answerMost: stay on, polite, until someone fixes it — however long that takes
 answerHigh: hold another twenty, then call back tomorrow if it drops
 answerMid: leave the line open on speaker and get on with your day
 answerLow: hang up, decide it's not worth the afternoon
 answerLeast: write it off the second the music starts
+rorschachMost: a pickaxe biting into a slab of rock
+rorschachHigh: a rusted anchor with two hooked flukes
+rorschachMid: a crow with one ragged wing spread
+rorschachLow: a paper kite trailing its loose tails
+rorschachLeast: a swallow gliding with wings barely beating
 ---
 
 Braised Black Beans are the Bean Zodiac's grittiest — the ones who outlast the hold music, the bad week, the project everyone else quietly walked away from. They finish things on the same legs that started them, and a room full of people giving up will turn, eventually, to see whether they have. They haven't.

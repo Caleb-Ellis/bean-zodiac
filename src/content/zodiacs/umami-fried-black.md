@@ -28,11 +28,11 @@ answerHigh: mute the chats, leave the laundry, return to the email
 answerMid: glance at the chats, type one more line, then deal with the laundry
 answerLow: answer the loudest chat first and lose the email's thread
 answerLeast: bounce between all three and finish none
-rorschachMost: a single needle balanced upright on its point
-rorschachHigh: a hawk folded tight just before the dive
-rorschachMid: a pair of mittens hung to dry on a line
-rorschachLow: a handful of marbles spilling off a ledge
-rorschachLeast: confetti caught mid-air, drifting every direction
+rorschachMost: an owl head-on, eye fixed on its prey
+rorschachHigh: a hawk's wings drawn tight before the strike
+rorschachMid: a craggy ridgeline against an open sky
+rorschachLow: a pelt left to soak, edges fraying loose
+rorschachLeast: an ink stain creeping outward in every direction
 ---
 
 Tempura Black Beans are the Bean Zodiac's most focused — door shut, phone face-down, one thing at a time finished cleanly before the next is acknowledged to exist. The work that comes out of these hours is the kind other people quietly look at twice; nothing is half-attended, nothing is half-meant.

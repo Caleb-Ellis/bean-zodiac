@@ -22,17 +22,17 @@ facetLowTitle: Fat That Seasons Quietly
 facetLow: You move at the pace of the table around you, and the day arrives the same hour either way.
 facetLeastTitle: Pecorino, No Rind Left
 facetLeast: Rooms in your house rearrange around whoever last visited; the reading chair is wherever it landed.
-rorschachMost: a fist raised against a wall of dark
-rorschachHigh: a tree still standing after the trunks around it fell
-rorschachMid: two rams butting heads at the seam
-rorschachLow: a reed bent flat under the current
-rorschachLeast: a flag lowered all the way down the pole
 question: An invoice arrives with the wrong amount on it — not by much, but wrong. You...
 answerMost: draft a letter, then a second draft, and send the cold even one
 answerHigh: reply the same day with the correction, no apology attached
 answerMid: flag it, ask them to check, see what they come back with
 answerLow: pay it and mentally subtract the difference from next month
 answerLeast: pay it and forget about it before the kettle boils
+rorschachMost: a clenched fist with the knuckles set forward
+rorschachHigh: an anvil planted heavy on its block
+rorschachMid: a boulder with a chain trailing off it
+rorschachLow: a melting candle slumping off its holder
+rorschachLeast: a snowbank caving and sliding off the roof
 ---
 
 Rendered Fava Beans are the Bean Zodiac's most defiant — and unusually warm about it. They will hold a position in a room turning against them and do it without raising their voice; the second time they say the sentence it comes out at the same pace as the first. People often mistake the warmth for flexibility and learn, by the third meeting, that they were wrong.

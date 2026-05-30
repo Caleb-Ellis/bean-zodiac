@@ -28,11 +28,11 @@ answerHigh: say "oh god" and reach for their hand, words tumbling
 answerMid: take a breath, then ask what they need
 answerLow: nod and stay quiet, let them keep going
 answerLeast: hold the silence and wait for them to fill it
-rorschachMost: paint flung wide across a white wall
-rorschachHigh: a mouth open mid-laugh, head tipped back
-rorschachMid: two leaves pressed flat in a book
-rorschachLow: a letter folded small and never sent
-rorschachLeast: a sealed jar with the label scraped off
+rorschachMost: a heron bursting up, wings thrown wide open
+rorschachHigh: a flying squirrel spread mid-glide between trees
+rorschachMid: a bat hanging with its wings half-loose
+rorschachLow: a moth settled with its wings folded down
+rorschachLeast: a pressed flower flattened shut in a book
 ---
 
 Caramelised Cannellini Beans are the Bean Zodiac's most expressive — what they feel is on their face before they've decided whether to share it, and they almost always decide to share it. They text in paragraphs, cry at the trailer, send the unprompted compliment at 11pm because it would have felt dishonest to sit on it. To be loved by one is to be told so, often, in cinnamon-sugar specifics.

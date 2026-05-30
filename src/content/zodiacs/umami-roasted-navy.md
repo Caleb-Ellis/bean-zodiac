@@ -22,17 +22,17 @@ facetLowTitle: The Crackle, Then Morning
 facetLow: You finish a thing and walk forward; what was good was good, and the next pan is already warming.
 facetLeastTitle: Shells Swept From the Tray
 facetLeast: You give possessions away easily, without ceremony — a room emptied is a room ready.
-rorschachMost: a pressed flower flattened between two pages
-rorschachHigh: a locket worn smooth at the clasp
-rorschachMid: two swallows banking over a chimney
-rorschachLow: a suitcase packed and standing by the door
-rorschachLeast: a box of old photos tipped into the bin
 question: You're emptying a drawer and find a letter someone wrote you years ago. You...
 answerMost: sit on the floor and read every page, twice, and lose the afternoon
 answerHigh: read it through once and put it carefully back where it was
 answerMid: skim it, smile, leave it on the counter for later
 answerLow: glance at the first line, fold it, keep going
 answerLeast: drop it in the recycling without unfolding
+rorschachMost: a smooth pebble beside a worn-thin lace doily
+rorschachHigh: a locket and its old chain knotted loosely up
+rorschachMid: a stone next to a loose tangle of thread
+rorschachLow: a new spool beside a fresh ball of yarn wound tight
+rorschachLeast: a bare bobbin beside a knot cut loose and dropped
 ---
 
 Rendered Navy Beans are the Bean Zodiac's most wistful — every room they live in slowly becomes an archive of things someone once touched. The garlic skin on the sill, the rosemary in the drawer, the recipe cooked while saying the name of the person it came from. The warmth they carry is genuinely the past's warmth, kept honest, kept alive.

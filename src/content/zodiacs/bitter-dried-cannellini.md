@@ -22,17 +22,17 @@ facetLowTitle: The Folded Receipt
 facetLow: Drawers full of small good things — pens, ribbons, a fine afternoon's keepsake. Nothing leaves your keeping without a fight.
 facetLeastTitle: The Second Cruet
 facetLeast: You set out the bread, the dish of salt; the table grows crowded and you keep adding what someone might reach for.
-rorschachMost: a single bowl in an empty room
-rorschachHigh: one nail on a long blank wall
-rorschachMid: a candle burning on a bare table
-rorschachLow: a shelf stacked two deep with jars
-rorschachLeast: a market stall heaped past the edges
 question: You're packing for a week away. The bag has room for one more thing. You...
 answerMost: close the bag, you already have too much
 answerHigh: take one item back out instead
 answerMid: add the book and call it done
 answerLow: tuck in two backups and a spare jumper
 answerLeast: bring a second bag
+rorschachMost: one clean pebble on bare ground
+rorschachHigh: a single loaf, no crumbs around it
+rorschachMid: a potato resting on a plate
+rorschachLow: an overstuffed grocery bag
+rorschachLeast: a heaped plate spilling bits off every edge
 ---
 
 Desiccated Cannellini Beans are the Bean Zodiac's most ascetic — they own one good coat, one good knife, one mug, and can tell you the exact day they let go of the rest. Their rooms have the calm of a place where nothing is fighting for attention, and they move through a cluttered world like someone who has quietly solved a problem everyone else is still carrying.

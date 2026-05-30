@@ -28,11 +28,11 @@ answerHigh: tell them they'd be perfect and not mention you'd been thinking abou
 answerMid: say "we should both go for it" and see who actually does
 answerLow: apply quietly and tell them after
 answerLeast: apply that night and forward them a different listing in the morning
-rorschachMost: a hand cupped under a sprout reaching for light
-rorschachHigh: two figures lifting a third onto their shoulders
-rorschachMid: a pair of mittens hung to dry by the fire
-rorschachLow: one figure standing alone in a wide spotlight
-rorschachLeast: a coin held tight in a closed fist
+rorschachMost: shoulders hoisting a child up to see
+rorschachHigh: a stag rising with antlers spread wide
+rorschachMid: a coat rack branching above two legs
+rorschachLow: a figure hunched over its folded arms
+rorschachLeast: a fist clenched above two locked knees
 ---
 
 Glazed Cannellini Beans are the Bean Zodiac's most empowering — the ones who name the quiet colleague's half-thought back to the room as the whole point, who forward the junior's work upward with one line that lands it. Praise leaves them so cleanly it doesn't even feel like generosity; it feels like accurate reporting.

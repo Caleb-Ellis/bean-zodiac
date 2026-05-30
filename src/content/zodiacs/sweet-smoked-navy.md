@@ -22,17 +22,17 @@ facetLowTitle: The Lid Lifts, Steam Gone
 facetLow: You leave a gathering cleanly, take nothing home, and by morning the evening has unhooked itself from you entirely.
 facetLeastTitle: Wind Off an Open Pot
 facetLeast: Weather passes through you without staining — yesterday's grief, yesterday's joy, the same uncluttered sky.
-rorschachMost: a stain that won't lift from old wood
-rorschachHigh: smoke still curling above a snuffed wick
-rorschachMid: two footprints pressed into damp clay
-rorschachLow: a wave already sliding back off the sand
-rorschachLeast: a clean window with the sky passing through it
 question: An old friend mentions, casually, something kind you said to them years ago. You...
 answerMost: remember the conversation in full, and the room it happened in
 answerHigh: recognise the line as something you'd say, and pretend to remember the rest
 answerMid: half-remember the day, mostly the weather
 answerLow: laugh and say you have no memory of saying it
 answerLeast: ask whether they're sure they've got the right person
+rorschachMost: a stamp and its mark left too long
+rorschachHigh: a beetle and the print it pressed in the dust
+rorschachMid: two loaves cooling, one above the other
+rorschachLow: a hare and its shadow already thinning at noon
+rorschachLeast: clouds fading away
 ---
 
 Barbecued Navy Beans are the Bean Zodiac's most lingering — and the things they said five years ago are still circulating, quoted back by friends at dinners they weren't invited to. A throwaway sentence at a kitchen table becomes someone else's working principle by autumn; a small kindness in a stairwell gets brought up a decade later, the rememberer's voice gone slightly tight.

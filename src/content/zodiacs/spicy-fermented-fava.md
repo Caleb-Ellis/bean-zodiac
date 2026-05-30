@@ -22,17 +22,17 @@ facetLowTitle: Fava Loud in the Oil
 facetLow: You announce the plan at the doorway, take the obvious seat, and trust the room to follow the heat it can see.
 facetLeastTitle: Brine Bright on the Spoon
 facetLeast: You announce the idea before it has cooled, hand it out at the door, and let the work be witnessed from the first stir.
-rorschachMost: a root cracking a paved sidewalk from below
-rorschachHigh: a hand slipping a card from the bottom
-rorschachMid: two ferns unrolling in shade
-rorschachLow: a flag raised on a steady pole
-rorschachLeast: a crowd standing in a tidy line
 question: A decision is being argued in a long thread and going the wrong direction. You can see the move that flips it. You...
 answerMost: make the move quietly and let the thread catch up on Monday
 answerHigh: line up one ally privately and spring it at the next meeting
 answerMid: drop a careful comment that nudges the thread
 answerLow: post your honest disagreement in the thread
 answerLeast: argue it openly until the room agrees or doesn't
+rorschachMost: roots buckling a slab from underneath
+rorschachHigh: a tunnel hollowed inside the hill
+rorschachMid: a craggy island with one offshore rock
+rorschachLow: a cloaked figure standing in the open
+rorschachLeast: a banner hung straight down the wall
 ---
 
 Kimchi Fava Beans are the Bean Zodiac's most subversive — the colleague whose one-line reply in a long thread turns out, days later, to have been the sentence the whole decision pivoted on. They don't argue in public; they work the back of the kitchen while the front is still debating the menu, and by Sunday the menu is theirs.

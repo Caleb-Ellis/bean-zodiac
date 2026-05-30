@@ -28,11 +28,11 @@ answerHigh: drop the one observation guaranteed to start a real argument, then r
 answerMid: ask the question that'll get the quietest guest talking
 answerLow: laugh at someone else's bit a beat louder than the room
 answerLeast: pass the bread, eat your salad, let the lull lull
-rorschachMost: a fox grinning out from behind a hedge
-rorschachHigh: a jack-in-the-box caught mid-spring
-rorschachMid: two halves of a spinning top at rest
-rorschachLow: a cushion plumped neatly back into place
-rorschachLeast: a still pond with not a ripple on it
+rorschachMost: an imp crouched ready to spring from the dark
+rorschachHigh: a cat hunched mid-pounce, ears flat
+rorschachMid: a broken slab of bark with dangling roots
+rorschachLow: a toad sitting still on a flat stone
+rorschachLeast: a sack of meal slumped quiet in a corner
 ---
 
 Glazed Pinto Beans are the Bean Zodiac's most mischievous — the ones who walk into the gathering they weren't invited to holding something nobody can refuse, and stay until the room is theirs. Their replies arrive at 11pm with one extra word that nobody asked for and the thread tilts. The chipotle waits a beat behind the sweet, then speaks.

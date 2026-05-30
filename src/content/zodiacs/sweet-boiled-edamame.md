@@ -22,17 +22,17 @@ facetLowTitle: The Chair That Migrates
 facetLow: You rearrange the room each season. Constancy bores you; the paste needs stirring or it sets.
 facetLeastTitle: The Pot Left Before It Boils
 facetLeast: Plans drawn at noon are scrapped by three, and the next thing tastes better for it.
-rorschachMost: a bridge planted firm on both banks
-rorschachHigh: a lighthouse standing over the harbour
-rorschachMid: a lamp on a desk beside papers
-rorschachLow: a ladder propped against a leaning wall
-rorschachLeast: a dropped thread unravelling across the floor
 question: You said you'd help a friend move at 9am Saturday. You wake up Saturday with a cold coming on. You...
 answerMost: take painkillers and show up at 8:55 with coffee for both of you
 answerHigh: text that you're a bit rough but you'll be there, just a touch late
 answerMid: text early, see how you feel by 10, decide then
 answerLow: text that you can't make it but you'll cover lunch
 answerLeast: sleep in — they'll figure it out
+rorschachMost: a boulder settled square on the ground
+rorschachHigh: a bear sitting solid on its haunches
+rorschachMid: a tree stump with a stray root
+rorschachLow: a snowman starting to slump on one side
+rorschachLeast: a sandcastle sliding apart at the base
 ---
 
 Candied Edamame are the Bean Zodiac's most dependable — the friend who arrives at the airport at the hour they said, with the snack they always bring, in the car that has been quietly serviced for the occasion. There is no flourish to it; the borrowed dish comes back washed, the birthday text lands on the morning of, the standing Sunday call has happened every week for six years and would happen next week if the world ended on Saturday.

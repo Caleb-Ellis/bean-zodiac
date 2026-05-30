@@ -28,11 +28,11 @@ answerHigh: speak up after a beat — somebody has to
 answerMid: offer a half-thought and invite someone to finish it
 answerLow: wait to hear what two other people think first
 answerLeast: stay quiet; if it mattered, someone with better information would speak
-rorschachMost: a flag planted alone on a bare ridge
-rorschachHigh: a diver mid-leap off a high rock
-rorschachMid: two boats anchored side by side in a bay
-rorschachLow: a hand half-raised, then lowered again
-rorschachLeast: a small animal pressed flat under a leaf
+rorschachMost: a lone peak jutting up off a flat ridge
+rorschachHigh: two rams squaring off across a gap
+rorschachMid: two hills with a low pass between them
+rorschachLow: two sheep grazing apart, backs turned
+rorschachLeast: a long low bank hugging the ground
 ---
 
 Red-Hot Edamame are the Bean Zodiac's most bold — the first to speak into a quiet room, and the room arranges itself around the speaking. They flag the wrong bill before the tray hits the table, send the email while others are still drafting, and step into the awkward silence with a sentence that wasn't perfect but was, importantly, said.

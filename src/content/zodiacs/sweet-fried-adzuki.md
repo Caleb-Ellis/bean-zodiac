@@ -28,11 +28,11 @@ answerHigh: insist on at least one drink, right now, to mark it
 answerMid: say congratulations warmly and ask how they're feeling about it
 answerLow: nod, smile, and let them steer whether it's a thing
 answerLeast: tell them you're glad and go back to what you were saying
-rorschachMost: confetti caught mid-burst over a crowd
-rorschachHigh: two hands thrown up at a finish line
-rorschachMid: a pair of moths around a porch light
-rorschachLow: a closed book left face-down on a sill
-rorschachLeast: a single candle guttering in an empty room
+rorschachMost: a hound mid-leap, ears flung back, jaws open
+rorschachHigh: a goat rearing with one horn raised high
+rorschachMid: a boar's head turned sharp to the side
+rorschachLow: an owl hunched low over a folded kill
+rorschachLeast: a curled dog asleep, nose tucked to flank
 ---
 
 Caramelised Adzuki Beans are the Bean Zodiac's most exuberant — the ones who hear "I got the thing" and have already stood up to find a glass. The good news travels through them before it reaches anyone else; they'll bake a cake on a Wednesday for a stranger's small win, and the kitchen will smell like sugar all afternoon. People text them first because being congratulated by a Caramelised Adzuki feels like being seen on purpose.

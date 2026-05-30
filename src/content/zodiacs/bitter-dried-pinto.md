@@ -22,17 +22,17 @@ facetLowTitle: No Shell to Crack
 facetLow: When you owe an apology you pay it in full and on the table. Whoever wronged you knows by sundown.
 facetLeastTitle: Every Jar Named
 facetLeast: A guest could read your kitchen like a recipe and miss nothing.
-rorschachMost: a locked box with no visible seam
-rorschachHigh: symbols in an alphabet no one reads
-rorschachMid: a map folded so the place is hidden
-rorschachLow: a sign painted in plain block letters
-rorschachLeast: an open window into a lit kitchen
 question: Someone asks why you're quiet tonight. The real answer is complicated. You...
 answerMost: tell them a story about something else entirely
 answerHigh: say "long week" and let them read into it
 answerMid: give them a piece of it and stop there
 answerLow: walk them through the actual reason
 answerLeast: lay the whole thing out, beat by beat
+rorschachMost: an unmapped coastline trailing off into fog
+rorschachHigh: a sack knotted tight at the neck
+rorschachMid: a potato with one sprouting eye
+rorschachLow: a clear island shape on a chart
+rorschachLeast: a town plan laid out plain
 ---
 
 Desiccated Pinto Beans are the Bean Zodiac's most cryptic — they answer the direct question with a story that circles it, keep their notes in a shorthand only they can read, and would rather you arrive at the meaning yourself than be handed it. Spend enough time and the speckles resolve into something, and the people who put in that time tend to stay, because being trusted with the real version feels earned.

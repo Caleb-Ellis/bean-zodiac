@@ -22,17 +22,17 @@ facetLowTitle: Mirin's Quick Sweet
 facetLow: You close threads mid-sentence and open new ones; the unread count does not move you.
 facetLeastTitle: The Broth Poured Early
 facetLeast: You leave the standing plan, the standing friend, the standing Sunday — and walk lighter for it.
-rorschachMost: a path worn deep into the same grass
-rorschachHigh: a candle burned down to a steady stub
-rorschachMid: a knot tied tight in a length of cord
-rorschachLow: a door swinging open on its hinge
-rorschachLeast: a kite cut loose and drifting off
 question: A standing Tuesday meet-up you've kept up for years has gone a bit thin — fewer people, lower energy. You...
 answerMost: keep showing up; the thing is the showing up
 answerHigh: stay with it, quietly try to bring it back to life
 answerMid: drop to every other week and see how it feels
 answerLow: stop going, but don't say anything in the chat
 answerLeast: write the message ending it cleanly and move your Tuesdays
+rorschachMost: an old stump rooted deep with two stubs
+rorschachHigh: a bear sat squarely on its haunches
+rorschachMid: a heavy sack set down on the floor
+rorschachLow: a snowman already starting to slump sideways
+rorschachLeast: a sandcastle caving in at the tide line
 ---
 
 Dashi Edamame are the Bean Zodiac's most dedicated — they return to the same chair on the same night for years, and the room knows their footsteps before the door opens. The plant gets watered on Wednesdays, the pan is scoured the way their grandmother scoured hers, and the project they took on in March is still on the desk in November, closer to finished than anyone else's would be.

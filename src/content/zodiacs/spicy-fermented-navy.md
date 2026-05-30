@@ -22,17 +22,17 @@ facetLowTitle: The Spoon Over the Pot
 facetLow: You wait to taste what the host stirred in before salting your own bowl.
 facetLeastTitle: Smoke Above the Lid
 facetLeast: You put the receipt down and ask three people whether the price was fair before paying.
-rorschachMost: a lone tree standing in an open field
-rorschachHigh: a single boat rowing from the harbor
-rorschachMid: two gulls drifting on an updraft
-rorschachLow: a pair of geese tucked into the flock
-rorschachLeast: a herd pressed shoulder to shoulder
 question: A group chat is still arguing over where to eat. You're hungry and one place is obviously fine. You...
 answerMost: book it, post the confirmation, eat
 answerHigh: name the choice and say you're heading there
 answerMid: put the option out and wait a few minutes
 answerLow: vote for one and let the chat settle it
 answerLeast: ask everyone what they think before committing
+rorschachMost: a lone tree apart from the treeline
+rorschachHigh: a single boat clear of the others
+rorschachMid: a hill above its own broad shadow
+rorschachLow: a duck settled back among the flock
+rorschachLeast: sheep crowded tight into one pen
 ---
 
 Kimchi Navy Beans are the Bean Zodiac's most independent — the ones who've already ordered by the time the group chat decides where to eat. They've rearranged the kitchen so the salt sits where their hand falls, started the project the week it occurred to them, and arrived at convictions in the dark that nobody had a hand in shaping. There's an unfussy clarity in their movements that the people around them quietly trust.

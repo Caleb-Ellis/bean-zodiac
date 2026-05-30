@@ -22,17 +22,17 @@ facetLowTitle: Oil From a Hot Pan
 facetLow: Notifications land in quick succession; you answer each one before the kettle has whistled.
 facetLeastTitle: The Pepper Flake Bitten
 facetLeast: The grievance forms and leaves the mouth in the same breath — the cook informed at once across the counter.
-rorschachMost: a carved stone face with a level gaze
-rorschachHigh: a frozen lake under a grey sky
-rorschachMid: a heavy curtain hanging in folds
-rorschachLow: a pot lid rattling over a high flame
-rorschachLeast: a wave smashing white against the rocks
 question: Bad news lands across the dinner table, and the room turns to see how you'll take it. You...
 answerMost: ask one practical question and pass the bread
 answerHigh: nod, hold the face, save the reaction for later
 answerMid: say something measured, let a little show
 answerLow: push the plate away and say what you're feeling
 answerLeast: lose it on the spot, fork still in hand
+rorschachMost: a vise holding its grip on cold iron
+rorschachHigh: a pair of tongs resting half-open
+rorschachMid: an open clamshell wedged on a rock
+rorschachLow: a wrench wrenching hard against a bolt
+rorschachLeast: a crocodile's jaws snapping wide open
 ---
 
 Braised Butter Beans are the Bean Zodiac's most stoic — the ones who walk a fever through a workday, take the bad news without the face moving, and ask the practical question while everyone else is still catching their breath. In a crisis, they are the room's steady weather; people gravitate toward them without quite knowing why.

@@ -28,11 +28,11 @@ answerHigh: spot-check the numbers and the names
 answerMid: skim the first and last paragraphs and send
 answerLow: send it and move on
 answerLeast: send it the moment it was technically done
-rorschachMost: a brimming cup carried slowly across a long room
-rorschachHigh: fingers testing each rung before the weight goes on
-rorschachMid: a spider stepping along its own web
-rorschachLow: a tray carried one-handed down a stair
-rorschachLeast: a vase swept off the edge of a shelf
+rorschachMost: two stones joined by one thin, unbroken thread
+rorschachHigh: a cat edging across a narrow plank between roofs
+rorschachMid: two boulders with a faint bridge between them
+rorschachLow: two buoys dragged together, the mooring line gone taut
+rorschachLeast: a rope bridge snapped, the two cliffs crashing in
 ---
 
 Infused Mung Beans are the Bean Zodiac's most careful — the one who reads the contract a third time for the clause that breaks the wrong way, who catches the error before it becomes a problem and the missing step before anyone trips on it. They understand, in their bones, what it costs to get a thing wrong, and so things in their keeping simply don't go wrong. When you hand them something fragile, you stop worrying about it.

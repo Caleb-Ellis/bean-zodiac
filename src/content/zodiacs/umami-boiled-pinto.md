@@ -22,17 +22,17 @@ facetLowTitle: The Second Pot, Early
 facetLow: You publish the rough thing, then the next, and the finished one never arrives.
 facetLeastTitle: The Lid Off, Burner High
 facetLeast: You leave the door open, the music on, the half-read book face-down on every surface.
-rorschachMost: a small creature pressed into a corner
-rorschachHigh: a figure half-hidden behind a doorframe
-rorschachMid: a soft shape curled at the page's edge
-rorschachLow: a hand raised flat into the open air
-rorschachLeast: a figure stood square at the front of a stage
 question: A client asks what your rate is for a piece of work you know is worth more than you usually charge. You...
 answerMost: quote the usual figure, then round it down a little just in case
 answerHigh: name your normal rate and brace for the pushback that doesn't come
 answerMid: ask what their budget is and price into it
 answerLow: quote the real number, then leave the silence alone
 answerLeast: quote the real number, plus a margin, and let them counter
+rorschachMost: a small head ducked low behind a boulder
+rorschachHigh: a mouse hanging back below a larger one
+rorschachMid: two stones stacked into a small cairn
+rorschachLow: a snowman with a fresh head set on top
+rorschachLeast: a seal reared up tall over its pup
 ---
 
 Dashi Pinto Beans are the Bean Zodiac's most timid — a pot kept low for hours, the flavour real but slow to declare itself. They draft the message, reread it, close the tab; the reply they owe sits open for three days. At gatherings they wait for someone to name them before they speak, and when handing over the bill they round their own number down twice before saying it.

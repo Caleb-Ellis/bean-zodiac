@@ -28,11 +28,11 @@ answerHigh: frame the invitation around the part you know they'll like
 answerMid: ask, but pick the moment after they've had coffee
 answerLow: ask plainly and accept whichever answer comes
 answerLeast: ask plainly, mention you'll be disappointed if they don't, and stop there
-rorschachMost: a puppeteer's hand high above the strings
-rorschachHigh: a maze with one corridor lit from above
-rorschachMid: a coin lying flat on a wooden counter
-rorschachLow: a straight hallway with one door at the end
-rorschachLeast: an open ledger with every column in plain view
+rorschachMost: two figures and a coin slid between them
+rorschachHigh: two players with one game piece set in play
+rorschachMid: two islands with a small buoy floating between
+rorschachLow: two cushions and a button dropped by chance between
+rorschachLeast: two open hands and a marble fallen between them
 ---
 
 Agrodolce Pinto Beans are the Bean Zodiac's most manipulative — though they wouldn't call it that, and most of the time it isn't ill-meant. They simply notice which sentence opens which door, which order to put the asks in, which favour to offer a week before the request that depends on it. The room gets steered, gently, into the configuration they already had in mind, and usually everyone in it ends up reasonably pleased.

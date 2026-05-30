@@ -22,17 +22,17 @@ facetLowTitle: Chickpeas by the Card
 facetLow: You cook from the card, season by the spoon listed, and the dish lands exactly where it was promised.
 facetLeastTitle: The Dated, Labelled Jar
 facetLeast: Your tabs close at night, your messages answer in order, nothing wanders off down a hallway of its own.
-rorschachMost: a path veering off into tall grass
-rorschachHigh: a clock with the hands set wrong
-rorschachMid: two birds perched on a fence rail
-rorschachLow: a train holding to a straight track
-rorschachLeast: a metronome ticking dead on the beat
 question: You're at a friend's party where you know almost everyone. By the door, one stranger is half-watching the room alone. You...
 answerMost: spend the whole night talking to them and lose track of everyone else
 answerHigh: drift over and stay longer than you planned
 answerMid: introduce yourself, then circulate
 answerLow: smile in passing and find your usual people
 answerLeast: stick with the friends you came to see
+rorschachMost: a path trailing off the road into brush
+rorschachHigh: a kite tugging sideways off its string
+rorschachMid: a potato joined to a clump of dirt
+rorschachLow: a hen settled beside her one chick
+rorschachLeast: two beads strung on one taut thread
 ---
 
 Kimchi Chickpeas are the Bean Zodiac's most offbeat — the ones who can talk to anyone for two hours and somehow end up doing it with the person nobody else placed. They have a gift for the side-door conversation: the warmth is real, the curiosity unfeigned, and the stranger by the kitchen leaves the night feeling unusually seen.

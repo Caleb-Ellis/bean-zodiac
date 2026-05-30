@@ -22,17 +22,17 @@ facetLowTitle: One Pot, One Purpose
 facetLow: You call the plumber when the pipe leaks; the right tool comes from the shop, not the drawer.
 facetLeastTitle: The Rinsed Bowl
 facetLeast: You set a fresh pot boiling before yesterday's chickpeas have cooled, and the new chilies go in whole.
-rorschachMost: a raft lashed together from scrap and twine
-rorschachHigh: a bird's nest woven from string and wire
-rorschachMid: a key hanging on a hook by the door
-rorschachLow: a tool left out of reach on a high shelf
-rorschachLeast: an empty drawer with nothing in it
 question: A pipe under the sink starts leaking on a Saturday morning. You...
 answerMost: rig something from a takeout container and electrical tape, and call it solved
 answerHigh: dig through the drawer for the bit you remember keeping for exactly this
 answerMid: tighten what you can, set a bucket, look up the rest
 answerLow: book the plumber for Monday and put a towel down
 answerLeast: text the landlord and leave it
+rorschachMost: a packhorse loaded with bundles on splayed legs
+rorschachHigh: a sawhorse stacked with planks and rope
+rorschachMid: a wooden easel standing on three legs
+rorschachLow: a sway-backed mule grazing with empty panniers
+rorschachLeast: a bare trestle standing with nothing on it
 ---
 
 Braised Chickpeas are the Bean Zodiac's most resourceful — the ones who can patch a coat with kitchen twine, finish a dinner in whatever pan the kitchen still trusts, and reopen a two-month-old message thread to answer the new question on the old broth. Hand them a constraint and they'll hand you back a solution that shouldn't have worked.

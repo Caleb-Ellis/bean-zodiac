@@ -28,11 +28,11 @@ answerHigh: mention it to them after, gently
 answerMid: redirect the next question their way
 answerLow: jump in then and there
 answerLeast: don't notice until it's pointed out
-rorschachMost: a single eye half-hidden in the foliage
-rorschachHigh: a cat watching something just out of frame
-rorschachMid: two leaves overlapping on a wet pavement
-rorschachLow: a figure walking past a sign without reading it
-rorschachLeast: a blindfold knotted loosely at the back
+rorschachMost: an owl perched alert in the brush
+rorschachHigh: a cat crouched watching from the grass
+rorschachMid: a wooded hill with scrub along its crown
+rorschachLow: a sheep dozing under a fringe of wool
+rorschachLeast: a hedgehog curled tight with its face hidden
 ---
 
 Miso Edamame are the Bean Zodiac's most observant — by the time they've sat down at the dinner they've clocked who arrived together, who isn't speaking to whom, and which of the two hosts cooked. None of this gets said. It goes into the long private file alongside last month's observations, where it ripens into a reading of the situation that is usually correct and almost always private.

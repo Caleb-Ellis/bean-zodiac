@@ -22,17 +22,17 @@ facetLowTitle: Molasses Thinned
 facetLow: You promise Tuesday, arrive Wednesday, settle the bill on Friday with no apology, and the friend across from you does not, in fact, mind.
 facetLeastTitle: The Shape of Any Fire
 facetLeast: You bend toward the room you're in, swap your stance for the company, and the version of you that walks out is not the one that walked in.
-rorschachMost: an iron bar bolted across a frame
-rorschachHigh: a row of fence posts, none leaning
-rorschachMid: a ruler propped against a wall
-rorschachLow: a willow branch bowing in wind
-rorschachLeast: a ribbon twisting loose in the air
 question: A recipe says simmer for two hours. At ninety minutes it looks done. Guests arrive in twenty. You...
 answerMost: keep it on the heat the full two hours
 answerHigh: set the timer and find something to do until it rings
 answerMid: check it again at the hour-forty mark
 answerLow: pull it now, it looks ready
 answerLeast: turn off the heat and rummage for crackers instead
+rorschachMost: two cast-iron weights bolted to a bar
+rorschachHigh: two stone bollards set in concrete
+rorschachMid: two gourds resting on a table
+rorschachLow: two water balloons sagging out of shape
+rorschachLeast: two soap bubbles wobbling about to drift
 ---
 
 Desiccated Navy Beans are the Bean Zodiac's most rigid — they pay the debt by the date they named even when the other party has forgotten it, follow the proven method to the hour, and will not be hurried by a hand on the elbow. If they said they would, they will; you could set a clock by them, and many people quietly do.

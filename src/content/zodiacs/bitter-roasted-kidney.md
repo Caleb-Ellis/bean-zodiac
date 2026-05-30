@@ -28,11 +28,11 @@ answerHigh: name the number again with one sentence of why
 answerMid: walk them through the line items calmly
 answerLow: shave a little off to keep things easy
 answerLeast: apologise and ask what they had in mind
-rorschachMost: a crown raised on a tall straight pole
-rorschachHigh: two pillars standing square at full height
-rorschachMid: a moth resting on a smooth grey wall
-rorschachLow: a reed bowed low under a heavy wind
-rorschachLeast: a sack slumped flat against the floor
+rorschachMost: a king standing tall, robe trailing aside
+rorschachHigh: a peacock upright, tail fanned out beside
+rorschachMid: a standing stone with brush growing alongside
+rorschachLow: a scarecrow leaning, straw spilling from one side
+rorschachLeast: a coat slipped off its hook, puddled down
 ---
 
 Wood-Fired Kidney Beans are the Bean Zodiac's most proud — they have standards and presence. They walk into a gathering and the air composes itself around their posture without their asking; with strangers they stay exactly the size they are, neither shrinking to please nor expanding to claim. They name their number and decline to itemise it.

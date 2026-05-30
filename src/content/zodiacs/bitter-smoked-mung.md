@@ -28,11 +28,11 @@ answerHigh: hang the bird in the window where the light catches it and say nothi
 answerMid: bring it inside, put it on the kitchen shelf, and wonder for a few days who
 answerLow: ask the neighbours at the next door if they know who left it
 answerLeast: bin it; a stranger leaving things at the door is strange
-rorschachMost: a winged thing hovering over a flower
-rorschachHigh: a folded paper bird mid-flight
-rorschachMid: two petals meeting along a fold
-rorschachLow: a brick set square in a wall
-rorschachLeast: a sack of cement on a loading dock
+rorschachMost: a luna moth folded on a stem
+rorschachHigh: a wren puffed small on a branch
+rorschachMid: a ripe pear left on the sill
+rorschachLow: a heavy cast-iron pot
+rorschachLeast: a sandbag slumped against the door
 ---
 
 Charcoal Mung Beans are the Bean Zodiac's most fairylike. They leave the lamp on for the friend whose train is delayed and forget to mention they waited up. They answer a message a beat before it's sent, having felt the shape of the asking. The kindness arrives from somewhere small and offstage and is gone before anyone catches it leaving.

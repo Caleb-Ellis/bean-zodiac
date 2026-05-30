@@ -28,11 +28,11 @@ answerHigh: get a coffee and read a few pages of whatever's in your bag
 answerMid: scroll, look up, scroll again
 answerLow: pace the length of the platform and check the board every minute
 answerLeast: walk out and start pricing a taxi before the announcement finishes
-rorschachMost: a cat stretched flat across a warm sill
-rorschachHigh: honey sliding slow down the side of a jar
-rorschachMid: two clouds drifting apart over a field
-rorschachLow: a sprinter coiled at the starting blocks
-rorschachLeast: gears spinning fast inside an open clock
+rorschachMost: an animal hide spread flat to dry
+rorschachHigh: a sleeping cat sprawled wide on the floor
+rorschachMid: two landmasses spread across an old map
+rorschachLow: a hawk with both wings flung open
+rorschachLeast: a tarp snapping taut in a gale
 ---
 
 Hickory Butter Beans are the Bean Zodiac's most languid — they treat hurry as something other people invented. The reply comes when the reply comes; the dinner runs an hour long because nobody at the table has anywhere to be; the long story gets its full setup, every digression intact, and lands sweeter for it.

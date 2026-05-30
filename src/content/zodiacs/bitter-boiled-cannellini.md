@@ -28,11 +28,11 @@ answerHigh: read another chapter, then put it down for good
 answerMid: skim to the middle and call it read
 answerLow: push through to the end out of politeness
 answerLeast: love it on their behalf and quote it back
-rorschachMost: one knife on a board, the rest of the set still in the drawer
-rorschachHigh: a single shell kept on a windowsill, the others returned to the beach
-rorschachMid: a folded map, creases worn through at the corners
-rorschachLow: a coat rack with every hook in use
-rorschachLeast: a tabletop covered edge to edge in saved receipts
+rorschachMost: two stones, one cast aside from the other
+rorschachHigh: a walnut cracked, the shrivelled half pushed away
+rorschachMid: two rounded pebbles resting near each other
+rorschachLow: two onions kept side by side, neither thrown out
+rorschachLeast: both onions swept into one basket, nothing culled
 ---
 
 Infused Cannellini Beans are the Bean Zodiac's most discerning — the friend whose recommendation you trust completely, because they've never once pretended to like something they didn't. Their taste is the real thing: they can tell you exactly why the good one is good, and they own a few things they love rather than many they tolerate. To be chosen by them means something, because they choose so little.

@@ -22,17 +22,17 @@ facetLowTitle: Garlic, Raw
 facetLow: First draft, read aloud to anyone in earshot. The room adjusts to you.
 facetLeastTitle: The Unswept Pan
 facetLeast: Coats on the chair, shoes mid-hallway. Whoever walks in meets the room exactly as you left it.
-rorschachMost: a hand resting on a closed door, not pushing
-rorschachHigh: a folded napkin slid under a wobbling cup
-rorschachMid: two leaves drifting down past a window
-rorschachLow: a fist set down hard on a table
-rorschachLeast: a hammer dropped onto a sheet of glass
 question: A colleague's pitch has a real problem, and they're asking you in the corridor what you thought. You...
 answerMost: praise the bones, name the problem, end on the fix
 answerHigh: name the problem plainly with the warmth pre-loaded
 answerMid: ask a question that lets them find the problem themselves
 answerLow: tell them it was strong and save the note for the doc later
 answerLeast: say it was great and walk on
+rorschachMost: a hooded figure inclining toward a seated one
+rorschachHigh: a robed monk and a folded cloth nearby
+rorschachMid: a hunched bird beside a head of cauliflower
+rorschachLow: a man turned away from a clenched fist
+rorschachLeast: a stone and a fist squared off across a gap
 ---
 
 Chimichurri Cannellini Beans are the Bean Zodiac's most tactful — they can put the hard sentence at the end of a paragraph and have the listener arrive at it already half-agreeing. The note that would have stung in someone else's mouth lands with these Beans as something the friend wanted to hear anyway. They edit twice before sending, once for clarity, once for the finish.

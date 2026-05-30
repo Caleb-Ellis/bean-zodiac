@@ -22,17 +22,17 @@ facetLowTitle: The Cold Pot
 facetLow: You leave the lamp off in the front room and read by the kitchen light, the door half-shut.
 facetLeastTitle: Coals After the Cooking
 facetLeast: You read the message, decide later, and the screen darkens before you answer.
-rorschachMost: a lantern hung in a doorway, light spilling out
-rorschachHigh: a candle flame leaning toward an open window
-rorschachMid: two moths meeting at the centre fold
-rorschachLow: a shuttered window with the curtain drawn
-rorschachLeast: a lamp turned to the wall in an empty room
 question: A power cut on the third night of the visit. The room goes dark and someone fetches the candles. You...
 answerMost: pull the chairs into a circle without saying so and start the story you've been holding all week
 answerHigh: light the candles slowly enough that the room arranges itself around the small ritual
 answerMid: ask whoever's nearest what the worst blackout they remember was
 answerLow: find your phone, set it torch-up on the table, and wait it out
 answerLeast: say "well, that's that" and start scrolling in the dark
+rorschachMost: a beacon on a hill, sparks scattered below
+rorschachHigh: an owl on a post, eyes catching the light
+rorschachMid: a broad-shouldered figure seated on a mound
+rorschachLow: a hooded watcher hunched over a cold hearth
+rorschachLeast: a draped statue, dead leaves heaped at its base
 ---
 
 Barbecued Adzuki Beans are the Bean Zodiac's most luminous — the kind of warmth a room registers before anyone has named it. They arrive at the dinner without a story to tell and somehow tell three; strangers leave with the impression of having been seen, and can't quite remember what they said.

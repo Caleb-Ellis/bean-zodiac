@@ -28,11 +28,11 @@ answerHigh: write it from the cat's perspective and see if anyone notices
 answerMid: lead with one weird detail and bury the rest in plain prose
 answerLow: file the obvious version with one quiet flourish in the last line
 answerLeast: type the three sentences they expect and hit send
-rorschachMost: a staircase that turns into a flock of birds
-rorschachHigh: a teapot sprouting roots out the spout
-rorschachMid: two clouds drifting apart over water
-rorschachLow: a plain square box on a bare shelf
-rorschachLeast: a straight road running flat to the horizon
+rorschachMost: a firework bursting open above a sleeping hill
+rorschachHigh: a sea urchin drifting over a smooth round stone
+rorschachMid: a spiky burr resting above a low loaf
+rorschachLow: a thistle head above a plain garden mound
+rorschachLeast: a dropped twig lying over an ordinary hill
 ---
 
 Cultured Green Beans are the Bean Zodiac's most imaginative — the ones who answer a plain message in a register nobody ordered and tilt the whole thread somewhere stranger and better. They'll build the wrong room on purpose and move into it, wake reaching for paper before the kettle, take the door they weren't supposed to take and come back with the thing everyone else had given up describing. The interior is always running.

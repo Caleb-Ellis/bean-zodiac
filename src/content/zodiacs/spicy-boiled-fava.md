@@ -22,17 +22,17 @@ facetLowTitle: The Pot's New Note
 facetLow: Plans written in pencil — when the room shifts, you shift, and the evening keeps moving.
 facetLeastTitle: Water in the Bowl
 facetLeast: You enter a room already half-agreeing, slide a chair in, fold into the conversation underway.
-rorschachMost: an iron stake driven deep into rock
-rorschachHigh: an old oak with roots gripping a cliff
-rorschachMid: a signpost standing at a crossroads
-rorschachLow: a reed bending low in the river current
-rorschachLeast: a flag of cloth rippling in the wind
 question: A vote at the table is going the wrong way and you're the lone hold-out. Three people have already turned to look at you. You...
 answerMost: name the unsayable thing aloud and sit with what follows
 answerHigh: state your no, clean, and let the silence land
 answerMid: register your reservation, then defer to the room
 answerLow: shrug, go along, plan to raise it later
 answerLeast: nod and forget you ever disagreed
+rorschachMost: a bull bracing low with one horn down
+rorschachHigh: an anvil with its horn jutting out
+rorschachMid: a boulder with a hooked branch above it
+rorschachLow: an ox easing its head toward the grass
+rorschachLeast: a sheep curling soft around a bent crook
 ---
 
 Braised Fava Beans are the Bean Zodiac's most adamant — the ones who will make a clerk itemize a four-dollar charge, name the unsayable thing in the meeting and stay where they set down while the room rearranges around them. In a softening conversation they are the spine; people who'd rather not say the thing themselves are quietly grateful that somebody is.

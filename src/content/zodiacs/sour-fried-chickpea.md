@@ -28,11 +28,11 @@ answerHigh: ask the follow-up that sorts venting from decided
 answerMid: say "oh wow" and wait to see what they offer next
 answerLow: nod warmly and change the subject to give them room
 answerLeast: take it at face value and ask what they'll do with the extra time
-rorschachMost: a fox watching a henhouse from behind the grass
-rorschachHigh: a hand of cards held close to the chest
-rorschachMid: a pair of glasses folded on a table
-rorschachLow: an open palm holding out a gift
-rorschachLeast: a puppy chasing its own tail in circles
+rorschachMost: a cat curled tight with one ear still cocked
+rorschachHigh: a coin purse drawn shut around its weight
+rorschachMid: a smooth river stone with one chipped edge
+rorschachLow: a roll of dough proofing open in the bowl
+rorschachLeast: a sleeping puppy gone slack and belly-up
 ---
 
 Agrodolce Chickpeas are the Bean Zodiac's most shrewd — they walk into a room and have it mapped before the second drink. Who owes whom, who's about to leave, which compliment was a stalking horse for a request: the data arrives unbidden, sorted, mostly correct. They use it sparingly and almost never to their own visible advantage, which is why the people they read so accurately tend to trust them anyway.

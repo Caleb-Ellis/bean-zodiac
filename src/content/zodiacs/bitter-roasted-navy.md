@@ -28,11 +28,11 @@ answerHigh: read the cancellation terms twice and book the safer fare
 answerMid: pick a flight that looks fine and book it tonight
 answerLow: grab the first one in your budget and move on
 answerLeast: book it from your phone on the platform without checking the dates twice
-rorschachMost: an umbrella set ready by a shut door
-rorschachHigh: two locks fastened across a packed chest
-rorschachMid: a moth resting on a smooth grey wall
-rorschachLow: a coat flung loose over an open gate
-rorschachLeast: a kite let go to drift off the cliff
+rorschachMost: a padlock clasped tight beside its key
+rorschachHigh: a coiled rope knotted snug to a post
+rorschachMid: a stone next to a tangle of cord
+rorschachLow: a loosened knot slipping off a peg
+rorschachLeast: a rope cut free, ends flung wide open
 ---
 
 Wood-Fired Navy Beans are the Bean Zodiac's most prudent — they anticipate what could go wrong and quietly arrange for it. They set tomorrow's coat by the door, so the rain that arrives at 7:40 finds them already buttoned; the difficult message gets drafted, then left overnight to settle before it's sent. Their pantry answers questions before anyone thinks to ask them.

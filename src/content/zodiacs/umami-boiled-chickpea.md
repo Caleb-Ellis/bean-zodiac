@@ -22,17 +22,17 @@ facetLowTitle: The Bean Held Whole
 facetLow: You answer the same way in every room — the voicemail, the dinner, the funeral — and people know where to find you.
 facetLeastTitle: The Pot That Refuses
 facetLeast: You leave a party at the hour you intended; the music shifts, the others soften, you put on your coat.
-rorschachMost: water taking the shape of its glass
-rorschachHigh: a shadow bending around a corner
-rorschachMid: a cloud pulled loose across the sky
-rorschachLow: an iron bar holding one straight line
-rorschachLeast: a stone unchanged at the river's middle
 question: You've been dropped at a dinner party where you know exactly one person, and they've vanished into the kitchen. You...
 answerMost: ease into the nearest group and pick up their accent by the second drink
 answerHigh: find a conversation and follow its rhythm until you're part of it
 answerMid: introduce yourself once, then take cues from whoever answers
 answerLow: stay near the snacks and reply when spoken to
 answerLeast: hold your ground in your own voice and wait for the room to come to you
+rorschachMost: a splash of water frozen mid-spread
+rorschachHigh: a blob of dough slumping over its bowl
+rorschachMid: a loose cloud bunched against the sky
+rorschachLow: a knotted root gripping its lump of soil
+rorschachLeast: a fist of clay set hard and cracked
 ---
 
 Dashi Chickpea Beans are the Bean Zodiac's most adaptable — drop them at a strange table and by the second drink they're laughing at the in-joke as though they were there for the original. They pick up the room's vocabulary, take the corner the walk has rerouted to without sighing about it, and end the evening having met everyone without anyone quite catching when the introduction happened.

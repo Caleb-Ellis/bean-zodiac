@@ -28,11 +28,11 @@ answerHigh: open a fresh doc and sketch the new one before it fades
 answerMid: jot a quick note and promise yourself you'll come back
 answerLow: write it down and stay with what you were doing
 answerLeast: ignore it and keep your head where it was
-rorschachMost: a dropped tray of marbles rolling everywhere
-rorschachHigh: two butterflies looping in opposite directions
-rorschachMid: a pair of leaves caught on a breeze
-rorschachLow: a single lane marked straight down a road
-rorschachLeast: an arrow fixed dead on the bullseye
+rorschachMost: a campfire flickering off in two directions
+rorschachHigh: a startled cat, ears flared wide apart
+rorschachMid: a horned owl perched with both tufts up
+rorschachLow: a rabbit sat still, ears held straight up
+rorschachLeast: a candle flame standing steady and upright
 ---
 
 Caramelised Pinto Beans are the Bean Zodiac's most distractible — interested in everything, warmly, all at once. The studio fills with begun things: a chair half-dragged to the window, a sketch puffed and golden and abandoned for a brighter one, a sourdough started Sunday and remembered Wednesday. Around them other people get permission to be curious in public, to try the thing without knowing if it'll work.

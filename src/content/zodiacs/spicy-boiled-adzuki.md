@@ -22,17 +22,17 @@ facetLowTitle: The Egg, Left Whole
 facetLow: Messages pile; you answer the one that matters and let the rest steep.
 facetLeastTitle: The Jar Kept Closed
 facetLeast: A room you keep is a low fire — lamp, blanket, one chair pulled close. The gochugaru stays in the jar.
-rorschachMost: a crowd with both arms up at a concert
-rorschachHigh: two dancers caught mid-leap above a stage
-rorschachMid: a moth with its wings spread open
-rorschachLow: a single lamp burning in a dark window
-rorschachLeast: a stone sitting at the bottom of a still pond
 question: Mid-morning at the playground with a friend's kid, and they nail the monkey bars for the first time, looking straight at you. You...
 answerMost: cheer loud enough that two other parents look over and applaud
 answerHigh: throw both hands up and shout their name across the gravel
 answerMid: clap and grin and call out a "yes"
 answerLow: smile back warmly and give them a thumbs up
 answerLeast: nod once and let the moment be theirs
+rorschachMost: two revelers throwing their arms up around a bonfire
+rorschachHigh: a torch flaring above two cupped hands
+rorschachMid: a moth perched over a narrow vase
+rorschachLow: a candle guttering low in a stone holder
+rorschachLeast: a banked ember cupped in cold ash
 ---
 
 Braised Adzuki Beans are the Bean Zodiac's most spirited — the kind whose arrival rearranges a room before they've sat down. They run hot for the people they love, give the toast nobody asked for, put the song on twice; an ordinary Tuesday with one of them in it stops feeling ordinary.

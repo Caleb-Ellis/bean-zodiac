@@ -28,11 +28,11 @@ answerHigh: give the shape of an answer, no details
 answerMid: trade two true sentences for two of theirs
 answerLow: tell them more than you meant to, then change carriages
 answerLeast: hand over the whole year by the next station
-rorschachMost: a locked door with no seam around it
-rorschachHigh: a stone wall behind a curtain
-rorschachMid: a beetle resting on a flat leaf
-rorschachLow: a window with the latch swung open
-rorschachLeast: a glass jar with the lid lifted off
+rorschachMost: a sealed boulder no crack runs into
+rorschachHigh: a heavy sack cinched tight at the neck
+rorschachMid: a clod of earth with roots trailing up
+rorschachLow: a cracked pot leaking grain from the seam
+rorschachLeast: a burst sack spilling its chaff everywhere
 ---
 
 Dehydrated Black Beans are the Bean Zodiac's most impenetrable. Ask one how the weekend went and the answer is "fine" — accurate, complete, and somehow the conversation has already ended. They are not cold; they are simply on the other side of a door that has no obvious handle, and a year of dinners can pass before anyone notices nothing has come out about the divorce, the move, the diagnosis.

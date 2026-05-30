@@ -28,11 +28,11 @@ answerHigh: reflect their feelings back carefully and steer them toward sleeping
 answerMid: pick the half you agree with and say so
 answerLow: tell them what you actually think and watch them deflate
 answerLeast: tell them both to stop putting you in the middle
-rorschachMost: two figures leaning together over a shared cup
-rorschachHigh: a bridge arching between two riverbanks
-rorschachMid: a vase with handles on either side
-rorschachLow: a wall standing between two empty fields
-rorschachLeast: a fist slammed flat on a tabletop
+rorschachMost: two riverbanks joined by a slender footbridge
+rorschachHigh: a narrow strait threading between two shores
+rorschachMid: two clouds drifting one above the other
+rorschachLow: a walnut prised open, the two halves apart
+rorschachLeast: two cliffs faced off across a deep chasm
 ---
 
 Funky Cannellini Beans are the Bean Zodiac's most diplomatic — the ones who walk into a room where two people have stopped speaking and leave it twenty minutes later with both of them laughing at a third thing entirely. The rephrasing is so deft it feels like the disagreement evaporated on its own. They rarely take credit; the work was done while the kettle boiled.

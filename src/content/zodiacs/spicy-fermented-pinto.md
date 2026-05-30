@@ -22,17 +22,17 @@ facetLowTitle: The Jar Set a Year Ago
 facetLow: Your mugs return to the same shelf, your chair to the same angle; the room forgets you were ever in it.
 facetLeastTitle: The Pinto's Kept Skin
 facetLeast: You wear the coat you bought at twenty, drive the car past its warranty, and the receipts stay folded in the same drawer.
-rorschachMost: smoke changing shape as it rises
-rorschachHigh: a weathervane swung round by a gust
-rorschachMid: two clouds passing over a hill
-rorschachLow: a boulder settled in a streambed
-rorschachLeast: an anchor sunk fast in the mud
 question: You wake up at 4am with the clean realisation that the position you argued for all week is wrong. You...
 answerMost: write the reversal there and then and send it the moment the world's awake
 answerHigh: draft it before breakfast and send by lunch
 answerMid: mention it casually next time it comes up
 answerLow: keep it to yourself and let your future actions show the shift
 answerLeast: hold the line publicly, the old position is the one on record
+rorschachMost: smoke curling into a new shape
+rorschachHigh: an ink drop dispersing through water
+rorschachMid: a cloud breaking up over a hill
+rorschachLow: a puddle settled flat after rain
+rorschachLeast: an old ink stain dried fast in the cloth
 ---
 
 Kimchi Pinto Beans are the Bean Zodiac's most mercurial — the friend who arrives at brunch already on the other side of an argument they hadn't started by breakfast. The new position is fully formed, internally consistent, and held with the same calm certainty as last week's contradictory one; the shift happened in the dark and surfaces complete.

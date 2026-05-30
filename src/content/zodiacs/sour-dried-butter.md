@@ -28,11 +28,11 @@ answerHigh: ask for a week and a list of who else is involved
 answerMid: meet for coffee and see how the room feels
 answerLow: agree, with a small private exit planned
 answerLeast: say yes on the spot, this time will be different
-rorschachMost: a hand drawn back from a hot stove
-rorschachHigh: a kettle with a cracked spout, set aside
-rorschachMid: a folded napkin on an empty plate
-rorschachLow: a glass set right at the table's edge
-rorschachLeast: a child running straight into the surf
+rorschachMost: a figure hunched under a pulled-up shawl
+rorschachHigh: a mushroom cap drooping over its stem
+rorschachMid: an old tree stump with roots splayed out
+rorschachLow: a dancer mid-lunge with skirts flaring
+rorschachLeast: a diver leaping arms-wide off the board
 ---
 
 Dehydrated Butter Beans are the Bean Zodiac's most chastened. They are the friend who leaves twenty minutes early because of one missed train in 2019, who reads the cancellation clause twice before booking the trip, who has a quiet small list of restaurants they will not return to and a longer list of things they will not say out loud at work again. The care is real, and the people around them are quietly the better for it.

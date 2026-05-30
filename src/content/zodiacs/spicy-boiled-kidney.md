@@ -22,17 +22,17 @@ facetLowTitle: Broth Between the Beans
 facetLow: Plans rearrange themselves around you mid-afternoon; the route you took this morning is not the route you'll take tomorrow.
 facetLeastTitle: The Softening Chili
 facetLeast: At the table you take the seat offered, the dish passed, the topic chosen; the evening shapes itself around the room.
-rorschachMost: a mule planted in the middle of the road
-rorschachHigh: a boulder wedged hard in a doorway
-rorschachMid: a door standing shut at the end of a hall
-rorschachLow: a swinging gate left open on its hinge
-rorschachLeast: a leaf carried along on a stream
 question: An old friend's message has been sitting in the thread for four days. You know what to say, you just don't want to say it yet. You...
 answerMost: leave it; they'll get the reply when the terms feel right
 answerHigh: draft something honest, save it, send when ready
 answerMid: send a short holding line so they know it landed
 answerLow: type the awkward reply and send it before you can think
 answerLeast: call them instead and get it over with
+rorschachMost: a toad squatting flat and refusing to move
+rorschachHigh: a boulder wedged low across the path
+rorschachMid: a tortoise hunkered down on wide feet
+rorschachLow: a sack of grain slumping off its base
+rorschachLeast: a tortoise tipping off its feet
 ---
 
 Braised Kidney Beans are the Bean Zodiac's most stubborn — the household runs on terms they set in winter, and the angle of the lamp, the seat at the table, the mealtime, all stay where they were put. Pressure orbits them harmlessly. What they decide tends to keep being true long after the room has tried to change it.

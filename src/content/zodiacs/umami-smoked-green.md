@@ -28,11 +28,11 @@ answerHigh: water it, move it one notch closer to the light, and keep walking pa
 answerMid: take a photo, send it to no one, let it grow another week
 answerLow: look it up, identify it, decide its place in the room
 answerLeast: dig it up to check the roots
-rorschachMost: a furled sprout pushing up through soil
-rorschachHigh: a closed bud on a thin green stem
-rorschachMid: two leaves overlapping on a wet pane
-rorschachLow: a tree felled flat across a clearing
-rorschachLeast: a stump sawn level and bone dry
+rorschachMost: a bulb sending two pale shoots up
+rorschachHigh: a sprouting garlic clove pushing past its skin
+rorschachMid: a fig with two stems at the top
+rorschachLow: an onion gone soft and split open
+rorschachLeast: a wilted bulb collapsing in on itself
 ---
 
 Hickory Green Beans are the Bean Zodiac's most budding — they're three months into the new thing and won't show anyone yet, because it isn't what it's going to be. The guitar in the corner has eight chords on it that nobody's heard; the side project has a name and a folder and one good paragraph. They know the shape of what they're growing toward, and they know it isn't here.

@@ -22,17 +22,17 @@ facetLowTitle: Worcestershire, Dark
 facetLow: You answer the unfair charge the same week it lands, evenly, and the matter closes.
 facetLeastTitle: Smoke Through the Window
 facetLeast: Mute the thread that wandered off course; the silence afterward is the room you wanted.
-rorschachMost: a long table with chairs pulled in from everywhere
-rorschachHigh: a doorway widened to let a crowd through
-rorschachMid: two crabs touching claws over a shell
-rorschachLow: a velvet rope clipped across an entrance
-rorschachLeast: a gate spiked shut against the road
 question: A friend asks if they can bring "one more person" to your dinner for six. You...
 answerMost: say yes and ask if they want to bring two more while they're at it
 answerHigh: say yes warmly and add a chair
 answerMid: say yes and quietly recount the chickpeas
 answerLow: say the table's already full, sorry — next time
 answerLeast: say no, and feel fine about it
+rorschachMost: a candelabra with arms branching out to every side
+rorschachHigh: a coral fanning wide off a single base
+rorschachMid: a shrub with many branches above one trunk
+rorschachLow: a stag's antlers pulled back into a narrow rack
+rorschachLeast: a bare stump with its branches all cut off
 ---
 
 Rendered Chickpeas are the Bean Zodiac's most tolerant — they've been around long enough to lose interest in deciding who doesn't belong. Six become nine and the salt gets adjusted without comment. The jacket on the chair stays a month, the borrowed book stays a year, and the friend with the difficult opinions stays at the table.

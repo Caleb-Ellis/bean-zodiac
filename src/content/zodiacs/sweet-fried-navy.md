@@ -28,11 +28,11 @@ answerHigh: say you're falling for them, mean it, and let it hang
 answerMid: say you like where it is and want to keep finding out
 answerLow: laugh and say it's too early to know
 answerLeast: keep it light and change the subject
-rorschachMost: two swans bending their necks into a heart
-rorschachHigh: a hand pressing a letter to the chest
-rorschachMid: a pair of leaves drifting down together
-rorschachLow: two stools pushed apart at a counter
-rorschachLeast: a single coat hung by a clear doorway
+rorschachMost: two faces leaning in close to kiss
+rorschachHigh: two doves bowed in around a single egg
+rorschachMid: two headlands framing a pale bay between
+rorschachLow: two strangers turned away on a bench
+rorschachLeast: two cliffs split by an empty channel
 ---
 
 Caramelised Navy Beans are the Bean Zodiac's most romantic — the ones who remember the date you mentioned a coat in a shop window, who write the long letter and walk it to the postbox at midnight, who can make a Tuesday feel like an anniversary of something. They love at full sugar, and the people they love spend years finding crumbs of it tucked into pockets and drawers.

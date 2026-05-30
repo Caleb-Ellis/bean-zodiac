@@ -28,11 +28,11 @@ answerHigh: offer one small true thing and steer back to them
 answerMid: give the honest summary minus the messy part
 answerLow: tell them more than you meant to and regret it by the car
 answerLeast: unload the whole week before they've finished asking
-rorschachMost: something moving deep under dark water
-rorschachHigh: a shape half-swallowed by fog at the edges
-rorschachMid: a bat hanging with its wings folded
-rorschachLow: a clear glass jar with the label facing out
-rorschachLeast: a windowpane with the whole street behind it
+rorschachMost: two hooded figures turned away from each other
+rorschachHigh: two crows hunched apart at dusk
+rorschachMid: a walnut split into its two halves
+rorschachLow: two children sharing the same open book
+rorschachLeast: two lit windows facing across a narrow lane
 ---
 
 Chipotle Black Beans are the Bean Zodiac's most murky — and they prefer it that way. Ask them how the week was and you get "it was a week," delivered with the small smile of someone who's already filed the real answer somewhere you won't find it. The thinking happens off-stage. The decision arrives complete. The friend who learns they've quit the job hears about it three weeks after the resignation.

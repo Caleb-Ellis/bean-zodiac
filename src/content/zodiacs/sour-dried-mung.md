@@ -28,11 +28,11 @@ answerHigh: smile, let it pass, note it once
 answerMid: mention it casually, weeks later
 answerLow: correct the record gently when it next comes up
 answerLeast: text them now, with a photo of the pot
-rorschachMost: a single line drawn on bare paper
-rorschachHigh: one branch against an empty sky
-rorschachMid: a stone resting in a wide bowl
-rorschachLow: a shelf crowded with mismatched jars
-rorschachLeast: a market stall spilling over with fruit
+rorschachMost: two pebbles set apart on bare sand
+rorschachHigh: a peanut in its plain dry shell
+rorschachMid: a cottage loaf pinched at the middle
+rorschachLow: a snowman trimmed with scarf and buttons
+rorschachLeast: two baskets heaped and spilling over
 ---
 
 Dehydrated Mung Beans are the Bean Zodiac's most spare. The lift to the station is offered without fanfare; the soup arrives in a jar that doesn't need returning; the long message gets a one-line reply that is, somehow, exactly the right one. They are the friend whose care you only notice in aggregate, weeks later, when you realise how many small ordinary things have quietly been easier with them in your life.

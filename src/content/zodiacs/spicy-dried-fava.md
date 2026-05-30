@@ -28,11 +28,11 @@ answerHigh: say yes and start figuring out the rest in the car
 answerMid: ask who's actually in and decide from there
 answerLow: float a date two weekends out so it can be planned properly
 answerLeast: laugh, agree it would be nice, and never mention it again
-rorschachMost: a diver already off the high board
-rorschachHigh: a runner leaning past the starting line
-rorschachMid: two birds perched on a wire
-rorschachLow: a foot held back from the cold water
-rorschachLeast: a cat tucked deep under the bed
+rorschachMost: a bull lowering its horns to charge
+rorschachHigh: a ram reared up, horns flung back
+rorschachMid: a moth with antennae raised, wings spread
+rorschachLow: a snail drawing its horns back in
+rorschachLeast: a bat folded tight, wings tucked down
 ---
 
 Sichuan Fava Beans are the Bean Zodiac's most audacious — already on the highway before the rest of the group has answered the text. The hard email is sent before lunch; the apartment is leased the same day it's viewed; the new instrument is bought on Sunday and brought to the open mic on Wednesday, badly. They start. The rest of us watch and feel both inspired and faintly tired.

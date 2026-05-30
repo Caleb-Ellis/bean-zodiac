@@ -22,17 +22,17 @@ facetLowTitle: The Corked Jar
 facetLow: Your own wine stays on the shelf. What is yours stays yours, and nobody is poorer for it.
 facetLeastTitle: The Sweetness Under the Lid
 facetLeast: Messages sit unanswered until the asker circles back twice; the spoon stays put until someone reaches for it.
-rorschachMost: two hands cupped around a small bird
-rorschachHigh: an open gate at the end of a path
-rorschachMid: a folded napkin beside a plate
-rorschachLow: a locked drawer with the key removed
-rorschachLeast: a bare branch over a frozen pond
 question: A coworker mentions in passing that they're moving apartments this weekend. You...
 answerMost: offer your car and your Saturday before they finish the sentence
 answerHigh: ask which day and say you'd be glad to help
 answerMid: say if they need a hand to let you know
 answerLow: wish them luck and mean it
 answerLeast: nod and change the subject — they didn't ask
+rorschachMost: a snail reaching its soft horns out
+rorschachHigh: a hare with both ears raised, listening
+rorschachMid: a beetle with two feelers and small legs
+rorschachLow: a horned mask staring straight ahead
+rorschachLeast: a stag beetle rearing its pincers up
 ---
 
 Candied Cannellini Beans are the Bean Zodiac's kindest — the ones who slip the book they think you'd like into your bag without mentioning it, who remember which tea you take and have it ready by the time you've taken your coat off. The kindness arrives early, lemon-bright, and without a receipt; whatever they did, they would rather you not bring it up.

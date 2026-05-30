@@ -28,11 +28,11 @@ answerHigh: clear your evening and pick a place you both used to love
 answerMid: meet for one drink and see how it goes
 answerLow: say tomorrow would be better and mean it
 answerLeast: leave the message on read until they've left town
-rorschachMost: a litter of puppies tumbling out of a basket
-rorschachHigh: two friends leaning their heads together, laughing
-rorschachMid: a folded paper boat seen from above
-rorschachLow: an empty chair pulled away from a long table
-rorschachLeast: a locked door at the end of a grey hall
+rorschachMost: a litter of pups piling over the edge of a basket
+rorschachHigh: a wave cresting white into morning sun
+rorschachMid: a round loaf split open along its crusty top
+rorschachLow: a dog curled asleep with its back turned
+rorschachLeast: a covered shape lying still under a sheet
 ---
 
 Glazed Adzuki Beans are the Bean Zodiac's happiest — the ones who hand the broken piece of brittle to a stranger and walk on before the thank-you arrives. They text the embarrassing photo to the group chat. They bake the cake on a Tuesday and the reason for the cake shows up around eight.

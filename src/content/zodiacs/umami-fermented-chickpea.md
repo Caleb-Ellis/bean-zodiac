@@ -28,11 +28,11 @@ answerHigh: write the standard version and quietly attach a second one
 answerMid: hit the brief but bend one section toward a more interesting answer
 answerLow: do the brief well, no embellishment
 answerLeast: fill the template and ship it before lunch
-rorschachMost: two unlike animals fused into one creature
-rorschachHigh: a kite built from mismatched scraps of cloth
-rorschachMid: a beetle climbing the stem of a flower
-rorschachLow: a row of identical houses on one street
-rorschachLeast: a form stamped and stacked in a neat pile
+rorschachMost: a rabbit's head grafted onto a crab's body
+rorschachHigh: a butterfly with two mismatched wings
+rorschachMid: a smooth pebble resting against a thornbush
+rorschachLow: water sinking down a drain
+rorschachLeast: two halves of a single walnut
 ---
 
 Miso Chickpeas are the Bean Zodiac's most innovative — give one a problem about a leaky tap and somewhere in the answer is a sentence about beekeeping that turns out to be exactly right. The notebooks are full of half-drawn diagrams where two unrelated things have just met for the first time, and friends who go to them with a stuck question often leave holding a different, better question instead.

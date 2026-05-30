@@ -28,11 +28,11 @@ answerHigh: make the side and add a small starter "just in case"
 answerMid: bring the side, well-made
 answerLow: pick up something nice from the shop on the way
 answerLeast: arrive empty-handed with a vague apology
-rorschachMost: a cake stacked so high it leans at the top
-rorschachHigh: a peacock fanning more tail than it can hold
-rorschachMid: a coat hung neatly on a single peg
-rorschachLow: a bowl with one apple in it
-rorschachLeast: an empty plate wiped clean and set aside
+rorschachMost: a sundae piled higher than its glass holds
+rorschachHigh: a tree crown grown too heavy for its trunk
+rorschachMid: a head of cauliflower on a board
+rorschachLow: a single scoop of rice in a bowl
+rorschachLeast: an empty bowl rinsed and set down
 ---
 
 Tempura Green Beans are the Bean Zodiac's most overachieving — the ones who bring the side dish, the starter, and a backup loaf, and who quietly notice that the host's wineglasses don't match and resolve to do something about that next time. The draft they send has footnotes. The presentation has an appendix. Whatever was asked for has already been done and a second, better version is finishing in the oven.

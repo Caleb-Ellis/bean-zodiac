@@ -28,11 +28,11 @@ answerHigh: catch a colleague's eye and crack a half-smile
 answerMid: lighten the wording of your next point a little
 answerLow: keep your face flat and move it along
 answerLeast: name the tension straight and ask what's going on
-rorschachMost: a clown's nose balanced on a seesaw
-rorschachHigh: two grins curling up at the edges
-rorschachMid: a pair of mittens hung on a line
-rorschachLow: a flat stone laid on a level table
-rorschachLeast: a closed door with nothing painted on it
+rorschachMost: a hedgehog rolled into a bristling ball
+rorschachHigh: a cauliflower head packed with bumpy florets
+rorschachMid: a knobbly potato fresh out of the dirt
+rorschachLow: a plain ball of dough left to rest
+rorschachLeast: a billiard ball, polished blank and bare
 ---
 
 Caramelised Chickpeas are the Bean Zodiac's funniest — the ones who can name what's wrong with a Tuesday in a single sentence and make everyone in the kitchen feel relieved. Their humour is generous: they take the awkward thing and dust it in sugar so the room can swallow it. The grieving cousin laughs into a sleeve and feels less alone. The grim email gets the reply that defuses the whole thread.

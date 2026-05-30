@@ -28,11 +28,11 @@ answerHigh: mention them in a sentence the family can hear and choose what to do
 answerMid: catch one cousin's eye and the look does the saying
 answerLow: leave it alone now and bring it up to one person later
 answerLeast: speak about the photo as if the crop were the whole picture
-rorschachMost: a wasp pinned mid-sting to a board
-rorschachHigh: two knives crossed over a scorch mark
-rorschachMid: a moth with its wings spread open
-rorschachLow: a wool blanket folded on a chair
-rorschachLeast: a bowl of warm milk going still
+rorschachMost: two hornets' nests fused, holes still open
+rorschachHigh: a scorched skull with sockets burned through
+rorschachMid: two river stones touching, pocked with holes
+rorschachLow: two loaves cooling side by side
+rorschachLeast: a sleeping cat curled against its own warmth
 ---
 
 Cured Adzuki Beans are the Bean Zodiac's most acrid — the toast at their table is the one that names what everyone agreed not to. They are the friend who tells you the haircut isn't working before the photos go up, the colleague who replies-all with the sentence the thread had been circling for three days. The relief in the room is real; people seek them out for it.

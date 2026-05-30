@@ -28,11 +28,11 @@ answerHigh: name the right source in passing and let them catch up to it
 answerMid: pull up the actual quote on your phone and only show the host later
 answerLow: smile and let the table keep going
 answerLeast: let it stand; you don't need to be the one
-rorschachMost: acid eating a clean line through metal
-rorschachHigh: a blade's edge catching the light
-rorschachMid: salt scattered across a dark table
-rorschachLow: a butter knife laid on a cloth
-rorschachLeast: a worn pebble smoothed round by water
+rorschachMost: a scorpion's hooked tail beside a bristling burr
+rorschachHigh: a clawed seahorse curling past a spiked star
+rorschachMid: a curled shrimp beside a small splatter
+rorschachLow: a sleeping cat's tail beside a soft thistle
+rorschachLeast: a coiled rope beside a tuft of wool
 ---
 
 Sichuan Edamame are the Bean Zodiac's most mordant — the friend whose one-line reply to a long voice note is, somehow, the entire point of the voice note, rendered drier. They see the misstatement before its speaker has finished, and the urge to mark it is not so much an urge as a reflex. The wit is real. The aim is true. The room usually laughs.

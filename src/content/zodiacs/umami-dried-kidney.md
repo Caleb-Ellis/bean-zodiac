@@ -28,11 +28,11 @@ answerHigh: say yes warmly and look forward to it without bringing up the gap
 answerMid: say yes and gently ask, in person, what the quiet stretch was about
 answerLow: agree to a coffee but keep the bar low until you see how it lands
 answerLeast: leave the message on read until you've decided how you feel about it
-rorschachMost: a dog waiting at a gate it has worn smooth
-rorschachHigh: an anchor settled deep in the mud
-rorschachMid: two stones side by side in a stream
-rorschachLow: a leaf carried off downstream
-rorschachLeast: a weathervane spinning every which way
+rorschachMost: a sunflower head bowed to follow the sun
+rorschachHigh: a watchdog's ruffed head set over its chest
+rorschachMid: a sea urchin resting above a smooth stone
+rorschachLow: a dandelion clock loosing seeds off its stem
+rorschachLeast: a pinwheel spinning loose above its post
 ---
 
 Aged Kidney Beans are the Bean Zodiac's most faithful — they stay on the canvas a fourth month after a sensible painter would have called it done, send the birthday card the year nobody else remembered, and answer their oldest friend's calls at the same speed they did at nineteen. The constancy is so steady it stops being noticed and becomes weather.

@@ -22,17 +22,17 @@ facetLowTitle: Where the Pan Tilts
 facetLow: Decisions arrive faster than weighing them would allow, and the answer that came first usually holds.
 facetLeastTitle: The Brightest Tikki
 facetLeast: You give by impulse — the larger half, the better seat — and the ledger never opens behind you.
-rorschachMost: a set of scales hanging perfectly level
-rorschachHigh: two halves of an apple cut exactly even
-rorschachMid: a pair of oars resting in a boat
-rorschachLow: a beam tipped hard to one end
-rorschachLeast: one plate piled high beside an empty one
 question: The group bill arrives and someone suggests just splitting it evenly. You...
 answerMost: pull out your phone and reconcile it line by line, item by item
 answerHigh: flag the two people who barely ate and adjust their shares
 answerMid: round the obvious uneven bits and split the rest evenly
 answerLow: shrug, split it, settle up properly with the underchargers later
 answerLeast: agree to the even split and forget it by the next morning
+rorschachMost: a balloon resting level above its even basket
+rorschachHigh: a round tree crown squared over its trunk
+rorschachMid: a head of cauliflower on its narrow stalk
+rorschachLow: a storm cloud bulging heavier to one side
+rorschachLeast: a mushroom cap slumped lopsided off its stem
 ---
 
 Chimichurri Kidney Beans are the Bean Zodiac's fairest — the ones who read the bill line by line while the table waits, and find the rupee charged twice. At a gathering the quiet stranger gets steered into the loud one's orbit, the worst chair quietly swapped before anyone's sat down. Justice as a kind of hospitality.

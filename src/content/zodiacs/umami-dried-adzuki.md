@@ -28,11 +28,11 @@ answerHigh: warm a cup for them before opening the door
 answerMid: pour the tea you'd made and pull out a second cushion
 answerLow: wave them in and clear the magazines off the chair
 answerLeast: hand them a beer and keep scrolling on the couch
-rorschachMost: an altar with two candles and a folded cloth
-rorschachHigh: a bowl held out in cupped hands
-rorschachMid: two moths meeting at a window
-rorschachLow: a coat tossed over the back of a chair
-rorschachLeast: a paper bag knocked over on the floor
+rorschachMost: a small bowed head over a heavy stone altar
+rorschachHigh: a temple bell with the clapper hung beneath
+rorschachMid: a round boulder with a smaller stone set on top
+rorschachLow: a snowman half-melted, head slumping off the body
+rorschachLeast: a scoop of dough dropped onto a bigger lump
 ---
 
 Aged Adzuki Beans are the Bean Zodiac's most reverential — they will warm the cups before pouring, fold the napkin twice, and let a long pause sit at the head of the table because the moment deserves a sill to rest on. A birthday is not a date in a calendar to them; it is a thing you walk toward slowly, with both hands.

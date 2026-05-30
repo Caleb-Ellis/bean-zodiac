@@ -22,17 +22,17 @@ facetLowTitle: Treacle by the Glug
 facetLow: You'd sooner gift the whole pudding warm than calculate whose half was larger.
 facetLeastTitle: Forty Minutes, Half-Set
 facetLeast: Slow accumulation reads as stalling — sweetness now, ledger later.
-rorschachMost: a coin pressed flat into a tin slot
-rorschachHigh: a jar of buttons sorted by size
-rorschachMid: a folded receipt tucked under a clip
-rorschachLow: a fountain spilling over its basin
-rorschachLeast: gold coins scattered across a wide table
 question: Your favourite pair of boots has worn through and there's a sale on a slightly fancier replacement. You...
 answerMost: take them to the cobbler — another winter in them yet
 answerHigh: buy the cheapest decent pair on the shelf
 answerMid: wait two weeks, see if a better sale comes up
 answerLow: buy the fancier ones at the sale price
 answerLeast: buy the fancier ones at full price and a second pair for summer
+rorschachMost: a corked bottle saved on a shelf
+rorschachHigh: a sealed jar narrowing to its lid
+rorschachMid: a small cypress on a low hill
+rorschachLow: a fountain brimming over its basin
+rorschachLeast: a haystack toppling loose across the field
 ---
 
 Candied Navy Beans are the Bean Zodiac's most frugal — and they take a quiet, treacle-warm pleasure in it. The pantry is mapped to the jar; the dinner is a great success and cost £4.20; the gift is the pudding made from what was already in the cupboard, brought round warm, twice as welcome as anything from the shop. Sufficiency tastes good to them, and the people they feed end up tasting it too.

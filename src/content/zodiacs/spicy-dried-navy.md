@@ -28,11 +28,11 @@ answerHigh: restate the original reasoning more clearly and stay the course
 answerMid: take a day, reread it, and decide privately
 answerLow: invite them to walk you through what they'd change
 answerLeast: agree on the spot and rewrite the plan over coffee
-rorschachMost: an anchor sunk flat in the seabed
-rorschachHigh: a post standing firm in fast water
-rorschachMid: two stones set on a windowsill
-rorschachLow: a reed bowing under the wind
-rorschachLeast: a flag whipped loose in every gust
+rorschachMost: an anchor dug deep below spread chains
+rorschachHigh: a spiked burr held fast under wide wings
+rorschachMid: a winged crest above a spiky round base
+rorschachLow: a kite tugging at a loosening weight
+rorschachLeast: a gull lifting off, the anchor let go
 ---
 
 Sichuan Navy Beans are the Bean Zodiac's most unflinching — the friend whose position on something said in January will be exactly their position in November, and they will say it the same way, in the same kitchen, with the same calm. Under pressure they do not bend, which is why people trust them with the things that matter. The principle holds.

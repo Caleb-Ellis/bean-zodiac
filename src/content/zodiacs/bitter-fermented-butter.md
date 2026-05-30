@@ -28,11 +28,11 @@ answerHigh: write one line that takes you twenty minutes to find
 answerMid: write the warm standard sentence and sign it properly
 answerLow: write what comes and send it before you can second-guess
 answerLeast: tick the pre-printed card, sign the name, post it
-rorschachMost: a chin resting on a folded hand
-rorschachHigh: a chess piece hovering above the board
-rorschachMid: two clouds drifting apart over water
-rorschachLow: a pen scratching fast across a page
-rorschachLeast: a hand slapped flat on the table mid-shout
+rorschachMost: two heads bent close, almost touching, over a problem
+rorschachHigh: two halves of a walnut, the seam between them
+rorschachMid: two clouds drifting close above the water
+rorschachLow: two rams leaning in just before they butt
+rorschachLeast: two cliffs cracked apart by a sudden split
 ---
 
 Cultured Butter Beans are the Bean Zodiac's most thoughtful — the quiet ones in a loud room whose single sentence, when it finally comes, lands like a ladle finding the bottom of the pot. They don't talk to fill air. They wait until the thing is actually worth saying, and it usually is, and people learn to lean in when they start.

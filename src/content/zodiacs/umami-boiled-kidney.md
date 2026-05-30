@@ -22,17 +22,17 @@ facetLowTitle: The Thursday Pot
 facetLow: You spend by feel; the month works out and you cannot say how.
 facetLeastTitle: Andouille at Midnight
 facetLeast: You sleep when sleep arrives, eat when hunger asks, and the week sorts itself around you.
-rorschachMost: a grid ruled out in even squares
-rorschachHigh: a column of bricks stacked level
-rorschachMid: a folded shape mirrored down the seam
-rorschachLow: a line wandering off the page edge
-rorschachLeast: a scribble looping with no clear start
 question: It's a Monday evening — your usual practice night — and an old friend is in town for one night only and wants dinner. You...
 answerMost: keep Monday; you'll catch them next time they pass through
 answerHigh: do an abbreviated session, then meet them late
 answerMid: skip tonight, log it as a real rest day, and resume tomorrow
 answerLow: meet for dinner and stay as long as the evening wants
 answerLeast: cancel the practice for the rest of the week while you're at it
+rorschachMost: a compass star with rays evenly spaced
+rorschachHigh: a thistle head trimmed to a tight crown
+rorschachMid: a sea urchin with spines splayed out
+rorschachLow: a bramble tangled past any clear edge
+rorschachLeast: a splat of ink flung across the page
 ---
 
 Dashi Kidney Beans are the Bean Zodiac's most disciplined — same chair, same hour, the Monday pot set on early and asked nothing of them but return. Bedtime moves by ten minutes a year; the inbox knows their office hours; the practice they began in a cold January is, four years later, still happening on Wednesdays without commentary. Their friends know which nights to call and which to leave alone.

@@ -28,11 +28,11 @@ answerHigh: cover the gap with a second strip placed so the pattern still aligns
 answerMid: turn the seam to the back and add a bow over it
 answerLow: shrug, hand it over, mention nothing
 answerLeast: notice the gap two days later in a photo and feel briefly delighted
-rorschachMost: a ruler measuring the gap between two evenly spaced dots
-rorschachHigh: stitches running in a perfectly even row
-rorschachMid: a row of buttons down the front of a coat
-rorschachLow: a shirt buttoned one hole out of line
-rorschachLeast: paint splashed past the edges of the frame
+rorschachMost: a pressed maple leaf with every lobe laid flat
+rorschachHigh: a frost crystal branching in matched points
+rorschachMid: an oak leaf curling at its ragged edges
+rorschachLow: a torn leaf with half its lobes missing
+rorschachLeast: an ink splatter flung wide across the page
 ---
 
 Agrodolce Cannellini Beans are the Bean Zodiac's most meticulous — they catch the thing that was about to go out wrong, and they catch it without slowing down. The proofread happens in the same breath as the writing; the misaligned shelf is squared on the way past it; the email everyone else thought was finished comes back with one quiet correction that saves the morning.

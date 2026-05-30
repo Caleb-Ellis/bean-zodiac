@@ -12,7 +12,7 @@ export function Navigation() {
   return (
     <nav className="flex items-center justify-between px-4 sm:px-6 py-4 border-b-2 border-zinc-800 bg-zinc-950">
       <Link to="/" className="font-bold inline-flex items-center gap-2">
-        <span style={{ filter: "brightness(0) invert(1)" }}>🫘</span> The Bean Zodiac
+        <img src="/favicon.svg" alt="" className="w-5 h-5" /> The Bean Zodiac
       </Link>
       <ul className="hidden md:flex gap-6 list-none m-0 p-0">
         {links.map(({ href, label, match }) => (

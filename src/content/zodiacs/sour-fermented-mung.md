@@ -28,11 +28,11 @@ answerHigh: replay the voice note to check your tone
 answerMid: put the phone face-down and pretend you haven't noticed
 answerLow: assume they're at lunch and get on with the morning
 answerLeast: send a second voice note before the first one has been heard
-rorschachMost: a thin tower swaying in a small wind
-rorschachHigh: a cup balanced on the edge of a table
-rorschachMid: a ribbon caught loosely on a branch
-rorschachLow: a post driven deep into firm ground
-rorschachLeast: a boulder settled and not moving
+rorschachMost: a frayed moon trembling beside a heavy planet
+rorschachHigh: a small bird shrinking next to a bull
+rorschachMid: a ragged pinecone beside a smooth larger one
+rorschachLow: a sturdy oak with a sapling rooted near it
+rorschachLeast: two oaks settled, neither one swaying
 ---
 
 Pickled Mung Beans are the Bean Zodiac's most insecure — and the inventory is detailed. They can name, without notes, the exact word in the sent message that probably gave offence, which friend has been replying a beat more slowly than last month, the small face-shift at lunch that meant they had miscalculated, and the apology they will need to send if the face-shift was what they think it was. The reading is rarely sloppy; it's often, painfully, accurate.

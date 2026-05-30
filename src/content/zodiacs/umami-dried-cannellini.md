@@ -28,11 +28,11 @@ answerHigh: name the work in general terms and change the subject before the fol
 answerMid: tell them the role and one thing you're working on
 answerLow: walk them through the credentials in the order they were earned
 answerLeast: lead with the most impressive line on the CV and watch their face
-rorschachMost: a crest pressed into a wax seal
-rorschachHigh: a portrait in a heavy gilded frame
-rorschachMid: two leaves stuck to a windowpane
-rorschachLow: a name tag with the ink smudged out
-rorschachLeast: a blank sticker on a row of lockers
+rorschachMost: a marble bust standing on a heavy pedestal
+rorschachHigh: a wax seal pressed above its crest below
+rorschachMid: a potato resting on a smaller potato
+rorschachLow: a snowman's head fallen beside its body
+rorschachLeast: a clod of dirt dropped near another clod
 ---
 
 Aged Cannellini Beans are the Bean Zodiac's most distinguished — the bearing arrives in the room before the introduction does. They sign things modestly, leave the credentials out of the first paragraph, and let the work do the announcing, because the work has been doing it for a long time and is good at it. Strangers at a long table find themselves quoting them later without remembering exactly why.

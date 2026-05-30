@@ -22,17 +22,17 @@ facetLowTitle: Oil Brought up Slow
 facetLow: You let the week heat itself; the thing that needs doing on Thursday can wait for Thursday.
 facetLeastTitle: The Closed Jar
 facetLeast: The counters stay wiped, the chair stays pushed in, and nothing in the room is asking to be noticed.
-question: A friend mentions, in passing, that something good happened at work. You...
+question: A friend mentions, in passing, that something great happened at work. You...
 answerMost: leap up and announce a toast to the whole room
 answerHigh: insist on going out, right now, for the proper version
 answerMid: text three other friends to come over later
 answerLow: say "we should celebrate that properly soon"
 answerLeast: nod warmly and ask another question about their day
-rorschachMost: fireworks going off all at once over a crowd
-rorschachHigh: a band spilling out through a doorway mid-song
-rorschachMid: two moths meeting at the center of a lamp
-rorschachLow: a single candle in a wide dark window
-rorschachLeast: a sealed jar set quietly on a high shelf
+rorschachMost: a dancer mid-leap, skirt flung wide below
+rorschachHigh: a moth bursting upward off its own shadow
+rorschachMid: a spinning top wobbling on its narrow point
+rorschachLow: a seated figure folding its legs to rest
+rorschachLeast: a hooded lamp dimmed low on its stand
 ---
 
 Red-Hot Adzuki Beans are the Bean Zodiac's most irrepressible — the room knows they've arrived before they've taken their coat off. They speak in exclamations and arrive with bottles, and the small good news a friend was saving for later becomes, in their hands, a reason to call three more people and open the better wine.

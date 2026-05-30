@@ -22,17 +22,17 @@ facetLowTitle: The Pan on the Rack
 facetLow: A friend turns up on the step and you meet them at the door without inviting them in; the conversation is good, on the step, in the cold.
 facetLeastTitle: Adzuki in Shadow
 facetLeast: You sleep with the window cracked in winter, take your tea barely warm, and find other people's fussing over you faintly unbearable.
-rorschachMost: a hearth with two figures pulled close to the coals
-rorschachHigh: steam rising off a mug held in both hands
-rorschachMid: two moths meeting at the centerfold
-rorschachLow: a shuttered window with the latch drawn
-rorschachLeast: a frozen pond cracking down the middle
 question: A friend texts at 11pm — bad day, nothing specific, just wanted to say hi. You...
 answerMost: put the kettle on and call them
 answerHigh: write back something long and ask what they ate today
 answerMid: send a warm message and mean to follow up tomorrow
 answerLow: heart the message and reply in the morning
 answerLeast: see it, decide they don't actually want a response, sleep
+rorschachMost: a curled sleeping cat beside a basket of wool
+rorschachHigh: a fresh loaf and the crumbs scattered around it
+rorschachMid: a round stone next to a tangle of brambles
+rorschachLow: a cold hearth with dead briars grown over it
+rorschachLeast: a bare skull and the dry roots gripping it
 ---
 
 Rendered Adzuki Beans are the Bean Zodiac's most warm — the kind of warmth that announces itself before they do. The kettle is already on when the knock lands. The friend who'd gone quiet for a month gets a message about lunch with no occasion attached, and answers, because the door has been left open the whole time.

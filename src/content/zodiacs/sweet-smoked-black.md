@@ -22,17 +22,17 @@ facetLowTitle: Chile on the Tongue
 facetLow: Receipts settled the day they arrive; an apology owed is an apology paid before sundown.
 facetLeastTitle: The Clean Stove
 facetLeast: Nothing in the cupboard hides; the drawer opens and the drawer is the drawer.
-rorschachMost: a hooded figure half-dissolved into smoke
-rorschachHigh: a doorway with no room visible behind it
-rorschachMid: two crows facing each other over a branch
-rorschachLow: a plain key laid flat on a table
-rorschachLeast: an open box with everything inside in plain view
 question: An envelope appears in the post addressed to you in handwriting you don't recognise, with no stamp. Inside, a single short sentence that fits the week you've been having. You...
 answerMost: keep the sentence, burn the envelope, ask no questions of anyone
 answerHigh: pin it to the inside of a cupboard door and live with it for a month
 answerMid: photograph it, file the photo, recycle the paper
 answerLow: send the sentence to one friend and ask if it means anything to them
 answerLeast: post about it; someone out there will explain
+rorschachMost: a storm cloud swallowing the last of a hill
+rorschachHigh: a cloaked figure with arms spread, face in shadow
+rorschachMid: a beetle with its legs splayed wide
+rorschachLow: a frog laid open on the table, parts labelled
+rorschachLeast: a crab in clear water, every claw visible
 ---
 
 Barbecued Black Beans are the Bean Zodiac's most mystical — and the warmth around them is the part that throws people. They put a hand on your shoulder, pour the good thing, ask the question that lands a little too cleanly, and somewhere between the second and third sip you realise you've been the one talking the whole time.

@@ -28,11 +28,11 @@ answerHigh: read the live traffic for each, then commit
 answerMid: take the one you took last time unless something looks wrong
 answerLow: pick whichever your map opens to and trust it
 answerLeast: drive in the right general direction and follow whatever sign comes first
-rorschachMost: a clock laid open, every gear set out in rows
-rorschachHigh: a moth pinned and labelled under glass
-rorschachMid: two leaves drifting down at different speeds
-rorschachLow: a wave taken whole, not a drop of it counted
-rorschachLeast: a glance out a train window, gone before it's read
+rorschachMost: a walnut split down the seam, two halves laid open
+rorschachHigh: two rabbits sat up, a clear gap between them
+rorschachMid: two peaks rising from a low spread base
+rorschachLow: one big-eared hound sprawled across the ground
+rorschachLeast: a shaggy two-eared sheepdog taken in at a glance
 ---
 
 Infused Edamame are the Bean Zodiac's most analytical — the one who takes the tangle everyone else is staring at, turns it over, and quietly hands back the load-bearing piece nobody had spotted. They want to know how a thing is actually built, and the patience to find out makes them the person you bring the genuinely hard problem to. When they say a plan will hold, it holds.

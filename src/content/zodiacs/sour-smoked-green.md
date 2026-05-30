@@ -28,11 +28,11 @@ answerHigh: type the paragraph and send it
 answerMid: send the one-line dissent
 answerLow: react with a thumbs-down to one option
 answerLeast: stay silent and show up wherever
-rorschachMost: an onion sliced open on a board
-rorschachHigh: smoke pouring thick from a chimney
-rorschachMid: two halves of a split walnut shell
-rorschachLow: a faint wisp of steam off a cup
-rorschachLeast: clear glass standing empty on a sill
+rorschachMost: a crushed garlic bulb, fumes curling off
+rorschachHigh: a smouldering thornbush trailing smoke
+rorschachMid: a bramble clump with two wisps below
+rorschachLow: a moss cushion with faint steam rising
+rorschachLeast: a cold wad of cotton, nothing rising off it
 ---
 
 Cured Green Beans are the Bean Zodiac's most pungent — their take on the restaurant is already in the group chat before the third option has been proposed. They are the friend whose opinion on a film arrives the moment the credits roll, fully formed and in full sentences; the colleague whose Slack messages don't really need read receipts, because the position has already shaped the meeting. People know where they stand on most things by Wednesday lunchtime, and they like it that way.

@@ -22,17 +22,17 @@ facetLowTitle: The Lifted Lid
 facetLow: You draft your thoughts aloud, revising as you go, three sentences where one would have held.
 facetLeastTitle: The Counted Pour
 facetLeast: You narrate the bill, the apology, the small receipt — every transaction itemised before anyone asks.
-rorschachMost: a sealed envelope, nothing written on it
-rorschachHigh: a single line drawn across a wide page
-rorschachMid: a stone resting in still water
-rorschachLow: a margin crowded with scribbled notes
-rorschachLeast: a wall of overlapping speech bubbles
 question: A group chat has been arguing about dinner plans for forty minutes. Your phone is in your hand. You...
 answerMost: lock the screen and put it down
 answerHigh: send the one address that ends the thread
 answerMid: scroll back, then react with a thumbs-up
 answerLow: type out what you actually think of the options
 answerLeast: send three voice notes weighing every restaurant
+rorschachMost: a smooth river stone, nothing flaking off
+rorschachHigh: a curled hedgehog, a few quills loose
+rorschachMid: a potato with sprouts at one end
+rorschachLow: a cloud breaking into scattered wisps
+rorschachLeast: an inkblot bursting into flying specks
 ---
 
 Desiccated Black Beans are the Bean Zodiac's most laconic — they wait out an entire dinner-table argument and then, when it has burned itself down, set one flat sentence in the middle of it that everyone immediately accepts. Nothing they say needs saying twice. They have never in their life sent a follow-up text.

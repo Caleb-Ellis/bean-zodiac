@@ -22,17 +22,17 @@ facetLowTitle: Nori Salt, Wide Board
 facetLow: Notifications pile up unread; you trust the important thing will find you twice.
 facetLeastTitle: Pan Pulled Early
 facetLeast: You leave a thing the moment it stops moving, and the next thing is already calling.
-rorschachMost: a hawk fixed on a single point in the grass
-rorschachHigh: a magnifying glass held over a pinned leaf
-rorschachMid: two seahorses curled toward a thread of weed
-rorschachLow: a TV left on in an empty room
-rorschachLeast: a window fogged over so nothing reads through
 question: A friend pauses mid-sentence, the kind of pause that could be the end or the middle. You...
 answerMost: wait through it without moving
 answerHigh: hold the silence and watch their face
 answerMid: let it ride a beat, then make a soft sound to keep them going
 answerLow: fill it with something gentle so they don't have to
 answerLeast: jump in with your own version of the story
+rorschachMost: a kestrel hanging dead still over one spot
+rorschachHigh: a hen brooding low and close over the nest
+rorschachMid: a raincloud with the first drops falling straight down
+rorschachLow: a thinning cloud scattering its rain everywhere at once
+rorschachLeast: a fog breaking up and drifting off in every direction
 ---
 
 Rendered Edamame are the Bean Zodiac's most attentive — when they're with you, the rest of the room goes quiet. They notice the cup that's been moved an inch on the desk, the pause a friend almost filled but didn't, the word in the sentence that's doing all the work. People leave a conversation with one of them feeling heard in a way they can't quite explain afterwards.

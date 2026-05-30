@@ -22,17 +22,17 @@ facetLowTitle: Smoke to the Chimney
 facetLow: You decline the toast, slip the photograph, leave before the speeches. The evening proceeds without you and you prefer it that way.
 facetLeastTitle: The Dip Eaten Cold
 facetLeast: You answer messages in three words. Your clothes are clean and forgettable; your name takes a moment to surface.
-rorschachMost: fireworks bursting over a black harbour
-rorschachHigh: a chandelier catching every light in the hall
-rorschachMid: two peacocks turned away from each other
-rorschachLow: a grey coat folded over a chair
-rorschachLeast: a burnt-out bulb in a dim hallway
 question: You have one outfit to pick for a dinner where you'll know about half the room. You...
 answerMost: pick the loud one, top to bottom, and walk in like the lights came on
 answerHigh: choose the piece you've been waiting for an excuse to wear
 answerMid: dress nicely, one small thing that catches the eye
 answerLow: go with the soft, comfortable thing nobody will comment on
 answerLeast: wear whatever is closest to the door
+rorschachMost: a peacock in full fan, one eye blazing
+rorschachHigh: a gleaming urn with a jewel set in its side
+rorschachMid: an owl perched, one eye catching the light
+rorschachLow: a plain clay jug left out in the yard
+rorschachLeast: a sack of grain slumped in a dark cellar
 ---
 
 Barbecued Fava Beans are the Bean Zodiac's most dazzling — and the room knows it before the door has closed behind them. They make the toast nobody else would have risked, wear the colour everyone else thought about and didn't, ask the question at the dinner that turns the dinner into the kind of dinner people quote for years.

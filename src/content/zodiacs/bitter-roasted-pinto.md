@@ -28,11 +28,11 @@ answerHigh: nod along and steer it toward a story of your own
 answerMid: listen, then offer something parallel from your week
 answerLow: ask one good question and let them keep going
 answerLeast: stay quiet, ask follow-ups, never mention yourself once
-rorschachMost: a face gazing back from a still pool
-rorschachHigh: two mirrors angled to face each other
-rorschachMid: a moth resting on a smooth grey wall
-rorschachLow: two cupped hands offered palm-up
-rorschachLeast: a window thrown open onto the street below
+rorschachMost: a head and its mirror, locked inward
+rorschachHigh: a cat studying its own reflection close
+rorschachMid: a boulder beside a knotted thornbush
+rorschachLow: two heads turned outward, away from each other
+rorschachLeast: a figure leaning toward another, hand extended
 ---
 
 Wood-Fired Pinto Beans are the Bean Zodiac's most self-absorbed — and, for a while, the most magnetic for it. They fill a room with a warmth that's hard to look away from; they take real care with their own markings, reread their own messages like a text worth studying, and arrange the best chair to face the mirror so they can sit in both at once. There's a confidence here that other beans borrow just by standing near it.

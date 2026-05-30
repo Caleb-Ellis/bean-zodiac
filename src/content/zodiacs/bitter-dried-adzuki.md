@@ -22,17 +22,17 @@ facetLowTitle: The Open Pot
 facetLow: New acquaintances become regulars by Friday; your table grows by accident.
 facetLeastTitle: Every Bowl Filled
 facetLeast: You buy in twos, lend the spare freely, give early and often without ledger.
-rorschachMost: a single key on an empty ring
-rorschachHigh: one chair pulled back from a long table
-rorschachMid: a folded cloth on a windowsill
-rorschachLow: a crowd of hands reaching for the same loaf
-rorschachLeast: a full house with every door thrown open
 question: A friend offers you a ticket to a party tonight — decent crowd, no one you love. You...
 answerMost: decline without explaining
 answerHigh: ask who's going before deciding
 answerMid: leave it open and see how the day goes
 answerLow: say yes and stay an hour
 answerLeast: say yes and bring two more people
+rorschachMost: one chestnut guarded in its spiked husk
+rorschachHigh: a wolf's head turned from a burr
+rorschachMid: a rock and a round seed pod
+rorschachLow: a bristling sun spilling rays everywhere
+rorschachLeast: a full burr scattering seeds in every direction
 ---
 
 Desiccated Adzuki Beans are the Bean Zodiac's most selective — they keep the good champagne for an occasion grand enough to deserve it, and no occasion ever quite is. The promotion was nice but not a milestone; the reunion was lovely but informal; the anniversary, well, next year is the round number. They have excellent taste and a cellar that proves it.

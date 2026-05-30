@@ -28,11 +28,11 @@ answerHigh: pick one warm word and keep it
 answerMid: write it, read it once, send
 answerLow: type it as it comes, send
 answerLeast: "10 min"
-rorschachMost: a single feather caught on a strand of spider silk
-rorschachHigh: ripples spreading from one drop on still water
-rorschachMid: a leaf pressed flat between two pages
-rorschachLow: a list scrawled hard on a torn receipt
-rorschachLeast: a road sign with one bare arrow on it
+rorschachMost: a luna moth opening its wings at dusk
+rorschachHigh: a swallow caught mid-glide over water
+rorschachMid: a butterfly pressed flat between two pages
+rorschachLow: a bath towel pinned across a line
+rorschachLeast: a torn tarp snagged flat on a fence
 ---
 
 Miso Mung Beans are the Bean Zodiac's most poetic — even the apology for being late is a small composition by the time it goes out, weighed for cadence, one word swapped for a warmer one. The condolence card they write is the one their friends keep in a drawer for years; the toast at the dinner is the line everyone repeats afterwards in the cab.

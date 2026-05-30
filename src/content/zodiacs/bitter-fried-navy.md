@@ -28,11 +28,11 @@ answerHigh: note it sharply and let the warmth cool a notch
 answerMid: clock it, say nothing, leave the door slightly ajar
 answerLow: assume something's going on and check in privately
 answerLeast: forget by dessert and book the next one
-rorschachMost: a slammed ledger with a verdict sealed inside
-rorschachHigh: a scale tipped hard to one heavy side
-rorschachMid: two thimbles set on a shelf
-rorschachLow: a door left ajar with light behind it
-rorschachLeast: open arms welcoming someone back in
+rorschachMost: a clam clamped tight around its hinge
+rorschachHigh: a fist closed hard over something held
+rorschachMid: a smooth heart-shaped river stone
+rorschachLow: a peach with its seam just splitting
+rorschachLeast: a flower opening wide to the sun
 ---
 
 Scorched Navy Beans are the Bean Zodiac's most judgmental. They walk into a room and clock the chair set askew, the lamp left burning, the coat where the coat should not be; a first message lands wrong and the thread is filed before the reply finishes typing. Their standards are exacting and, more often than anyone likes to admit, exactly right.

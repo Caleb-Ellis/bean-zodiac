@@ -28,11 +28,11 @@ answerHigh: name the chapter and one line about it, then let the room move on
 answerMid: ask what they made of it and see if anyone walks into it
 answerLow: chime in with the parts everyone else liked
 answerLeast: agree with whoever spoke loudest about the ending
-rorschachMost: a candle burning down beside an unanswered letter
-rorschachHigh: two figures facing away, mid-thought, not yet speaking
-rorschachMid: a moth resting on a windowpane at dusk
-rorschachLow: a hand reaching out to grab a falling cup
-rorschachLeast: a runner already off the blocks at the gun
+rorschachMost: a hooded monk seated over a covered crock
+rorschachHigh: a bowed head above a heavy stone bowl
+rorschachMid: a cauliflower set on top of a jar
+rorschachLow: a wrestler crouched low over braced legs
+rorschachLeast: a beetle scrambling up off its scattered legs
 ---
 
 Miso Adzuki Beans are the Bean Zodiac's most philosophical — they've thought everything through, and by the time the thought is shareable the moment that asked for it has gone home. Ask one at dinner what they make of the news and you get a long pause, then "I'm not sure yet"; the actual answer arrives in a message at midnight three weeks later, beautifully phrased, addressed to a conversation nobody else remembers being part of.

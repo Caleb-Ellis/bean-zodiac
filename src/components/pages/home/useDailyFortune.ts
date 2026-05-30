@@ -15,7 +15,6 @@ import {
   getVariantForSlug,
   getAnswerText,
   getRorschachText,
-  hasRorschach,
   type RitualVariant,
 } from "../../../lib/fortune";
 import { fetchZodiac } from "../../../lib/data";
@@ -125,7 +124,7 @@ export function useDailyFortune(
       ? initialEntry.answeredQuality
       : rolledQualityId;
   const initialVariant: RitualVariant =
-    initialEntry?.variant ?? getVariantForSlug(spiritSlug, date);
+    initialEntry?.variant ?? getVariantForSlug(fortuneZodiacId, date);
 
   const [fortuneZodiac, setFortuneZodiac] = useState<Zodiac | null>(null);
   const [score, setScore] = useState(initialScore);
@@ -144,12 +143,7 @@ export function useDailyFortune(
     fetchZodiac(fortuneZodiacId).then((fortune) => {
       setFortuneZodiac(fortune);
 
-      // Temporary: downgrade rorschach to facet for zodiacs missing rorschach
-      // fields during the authoring rollout. Drop this once all 360 are done.
-      const effectiveVariant: RitualVariant =
-        initialVariant === "rorschach" && !hasRorschach(fortune)
-          ? "facet"
-          : initialVariant;
+      const effectiveVariant: RitualVariant = initialVariant;
       if (effectiveVariant !== variant) setVariant(effectiveVariant);
 
       if (initiallyScored) {
@@ -199,17 +193,17 @@ export function useDailyFortune(
       const newDailyText = fortuneZodiac
         ? getDailyText(fortuneZodiac, qualityId, newScore)
         : null;
-      useStore
-        .getState()
-        .updateFortuneEntry(localDateStr, {
-          score: newScore,
-          text: newDailyText,
-        });
+      useStore.getState().updateFortuneEntry(localDateStr, {
+        score: newScore,
+        text: newDailyText,
+      });
       setScore(newScore);
       setScored(true);
       setText(newDailyText);
       if (fortuneZodiac) {
-        setScoredText(buildScoredText(fortuneZodiac.trait, newScore, qualityId));
+        setScoredText(
+          buildScoredText(fortuneZodiac.trait, newScore, qualityId),
+        );
       }
       markSeen();
       setScoringOut(false);

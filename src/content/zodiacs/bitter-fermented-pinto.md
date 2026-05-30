@@ -28,11 +28,11 @@ answerHigh: rearrange the furniture three times before deciding what the wall wa
 answerMid: hang one thing you already own and live with it for a while
 answerLow: buy a print on the way home and put it up before dinner
 answerLeast: leave it blank — the wall is doing its job
-rorschachMost: a spill of paint blooming across torn canvas
-rorschachHigh: a sculpture half-emerged from a block of stone
-rorschachMid: two smudges of colour bleeding together
-rorschachLow: a blank wall painted one flat colour
-rorschachLeast: a printed form filled in box by box
+rorschachMost: a thrown splash of paint flung wide off the brush
+rorschachHigh: a flower blown open, petals ragged at the rim
+rorschachMid: a puddle spread out on the pavement
+rorschachLow: a dropped sponge, water seeping from its edge
+rorschachLeast: a coffee ring left flat on a desk
 ---
 
 Cultured Pinto Beans are the Bean Zodiac's most artistic — half their room is arranged around a project no visitor would recognise as a project, the chile-stain on every surface, the hour gone long past useful because the colour was still shifting. They make the thing that needed them to exist, the thing nobody else has the crock for, and they make it whether or not anyone asked. The clock is a suggestion the work ignores.

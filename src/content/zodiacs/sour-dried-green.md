@@ -28,11 +28,11 @@ answerHigh: name what they already know and leave them to it
 answerMid: ask one direct question and let them answer it
 answerLow: walk them through it, slowly, both sides
 answerLeast: pour more coffee and change the subject
-rorschachMost: a window thrown open onto winter air
-rorschachHigh: a splash of cold water mid-arc
-rorschachMid: two gulls banking over a pier
-rorschachLow: steam curling off a covered pot
-rorschachLeast: a thick blanket heaped by the hearth
+rorschachMost: a wave crashing down onto a rock
+rorschachHigh: a snowman with a melting cinched waist
+rorschachMid: an hourglass with sand mid-fall
+rorschachLow: two bread loaves rising in one tin
+rorschachLeast: two pillows piled by a warm hearth
 ---
 
 Dehydrated Green Beans are the Bean Zodiac's most bracing. They are the friend who opens the window in a stuffy room without asking, who replies "no, do the other one" to the long agonised text, who arrives at a wake with a sentence that finally lets the family laugh. There is no preamble around them and no padding underneath, and the people who love them come for exactly that — the moment you have stopped lying to yourself by the second cup.

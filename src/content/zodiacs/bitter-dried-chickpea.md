@@ -22,17 +22,17 @@ facetLowTitle: Dropped in Cold Water
 facetLow: You answer fast and live with the answer; the chard sharpens you, it doesn't slow you.
 facetLeastTitle: Chopped Before It's Washed
 facetLeast: You rearrange the room as the thought arrives, and the kitchen catches up to you.
-rorschachMost: an eye half-hidden behind a curtain
-rorschachHigh: a cat crouched at the lip of a sill
-rorschachMid: two pebbles balanced on a ledge
-rorschachLow: a figure stepping off a high diving board
-rorschachLeast: a bird flung straight into open sky
 question: An invitation arrives for a weekend you're free. The host is a friend of a friend. You...
 answerMost: leave it open and watch what else comes in
 answerHigh: ask who else is going before replying
 answerMid: pencil it in and decide closer to the day
 answerLow: say yes the same evening
 answerLeast: reply yes before finishing the message
+rorschachMost: an owl peering down from a stump
+rorschachHigh: a wary cat perched above a ledge
+rorschachMid: a shrub rooted on a low mound
+rorschachLow: a diver tipping off a tall rock
+rorschachLeast: a bonfire leaping up from its logs
 ---
 
 Desiccated Chickpeas are the Bean Zodiac's most circumspect — they read a room before they fully step into it, hang back the first evening to learn who's who, and rarely say a thing they'll later wish they could take back. Give them a decision and they'll find the question under the question; they are almost never the one who got played.

@@ -22,17 +22,17 @@ facetLowTitle: Black Vinegar in the Dish
 facetLow: You let a message sit two days; the warmth is real, but it travels at its own pace and not the room's.
 facetLeastTitle: The Pod Kept Closed
 facetLeast: You decline the second invitation without a softening line, and your evenings stay your own — small, dark, salted.
-rorschachMost: open palms held out with nothing in them
-rorschachHigh: a dog rolling over in the grass
-rorschachMid: two mittens laid side by side
-rorschachLow: a fist closed around something unseen
-rorschachLeast: a row of spikes along the top of a wall
 question: A small argument starts to escalate at the dinner table over something not worth it. You...
 answerMost: take the blame before the next sentence lands, and pour someone more wine
 answerHigh: crack the small joke that lets everyone climb down
 answerMid: change the subject gently and hope it takes
 answerLow: let it run its course; people will sort it out
 answerLeast: pick the side you actually agree with and dig in
+rorschachMost: two cupped hands offering an apple, stems up
+rorschachHigh: a pup rolled on its back, paws loose
+rorschachMid: an apple with a stalk and a leaf or two
+rorschachLow: a closed pinecone, scales drawn tight
+rorschachLeast: a chestnut burr bristling in its shell
 ---
 
 Barbecued Edamame are the Bean Zodiac's most disarming — the argument is already in retreat by the time they've finished smiling. They take the blame they don't quite owe, pay the bill before anyone reaches, drop the joke that lets the room climb down without anyone losing face. Walking home, the friend they were quietly furious at an hour ago can't remember what the trouble was.

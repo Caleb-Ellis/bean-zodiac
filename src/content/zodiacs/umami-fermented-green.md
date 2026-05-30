@@ -28,11 +28,11 @@ answerHigh: write the line, decide it's wrong, write it three more ways
 answerMid: write the line and the paragraph under it before the kettle boils
 answerLow: open the document from last month and tack the idea onto it
 answerLeast: close the laptop; the idea is fine in your head
-rorschachMost: a creature no field guide would have a name for
-rorschachHigh: paint spreading off the edge of its canvas
-rorschachMid: a bird perched on a curl of wire
-rorschachLow: a chair assembled exactly to the diagram
-rorschachLeast: a photocopy of a photocopy of a leaf
+rorschachMost: a comet trailing sparks off into nowhere
+rorschachHigh: a thrown inkblob bursting against the wall
+rorschachMid: a snowball mid-splat against a fence
+rorschachLow: a spill already wiped, a few drops missed
+rorschachLeast: a marble sitting plain in its dish
 ---
 
 Miso Green Beans are the Bean Zodiac's most creative — and the workshop door stays closed until whatever is on the bench has stopped being itself and become something else. The thing taking shape under their hands is genuinely new, made of things that didn't belong together until they put them there, and the only way it gets to be that is by not being looked at yet.

@@ -28,11 +28,11 @@ answerHigh: murmur the perfect dry line to the person beside you
 answerMid: keep your face still and your hands on the napkin
 answerLow: clap when it's over and mean it, mostly
 answerLeast: tear up at the journey line, who cares, the cake is good
-rorschachMost: an eyebrow raised at something off-frame
-rorschachHigh: a cat watching the room from a high shelf
-rorschachMid: a pair of leaves spinning down a gutter
-rorschachLow: two hands clasped at the front of a crowd
-rorschachLeast: a face crumpled wide open mid-laugh
+rorschachMost: a cat eyeing a thistle across the gap
+rorschachHigh: a rock beside a burst of spray
+rorschachMid: two islands split by a channel
+rorschachLow: two friends leaning in to whisper
+rorschachLeast: two children mid-tumble, limbs flung out
 ---
 
 Dehydrated Chickpeas are the Bean Zodiac's most wry. They have a way of letting two seconds pass before they answer, and by the time the answer arrives the room has already begun to laugh — quietly, the kind of laugh you cover with your hand. At parties they are leaned toward; at meetings they are the one whose quiet sentence makes the loud one collapse. Years of watching have made them lethally precise about what is and isn't actually happening.

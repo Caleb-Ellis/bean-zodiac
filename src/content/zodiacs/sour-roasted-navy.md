@@ -22,17 +22,17 @@ facetLowTitle: The Pot Claims the Stove
 facetLow: You arrive announced, dressed for the photograph, and the room reorganises around your arrival.
 facetLeastTitle: Sugar Before the First Sip
 facetLeast: Every thought reaches the group chat before it reaches you, annotated and stickered.
-rorschachMost: a pencil mark almost rubbed away
-rorschachHigh: a small grey stone in a riverbed
-rorschachMid: two sparrows tucked under an eave
-rorschachLow: a flag snapping on a tall pole
-rorschachLeast: a brass trophy under a spotlight
 question: You finish the unglamorous job nobody else wanted, the room is full, and the lead is about to wrap the meeting. You...
 answerMost: stay silent and let the work be discovered on its own
 answerHigh: mention it in one short sentence and move the agenda forward
 answerMid: bring it up only if directly asked, and keep the answer flat
 answerLow: drop a hint that lets someone else surface it for you
 answerLeast: walk the table through what you did, step by step
+rorschachMost: a plain pebble worn smooth and grey
+rorschachHigh: a chestnut still half in its husk
+rorschachMid: a walnut sitting whole on a table
+rorschachLow: a pinecone bristling its scales outward
+rorschachLeast: a gilded brooch flashing every facet
 ---
 
 Chimichurri Navy Beans are the Bean Zodiac's most understated — they finish the work, leave it on the table, and walk out before anyone looks up. They feed six people and mention the recipe to none of them. The contribution gets noticed the way brown sugar gets noticed in baked beans: only later, only by absence.

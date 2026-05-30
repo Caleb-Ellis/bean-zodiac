@@ -28,11 +28,11 @@ answerHigh: re-check the assumptions, then commit
 answerMid: pick the safer of the two and go
 answerLow: take the window — it's open
 answerLeast: decide on the spot and figure it out
-rorschachMost: a chessboard mid-game with one piece raised
-rorschachHigh: a spider tightening the spokes of its web
-rorschachMid: two pinecones resting on a flat stone
-rorschachLow: a coin spinning loose across a table
-rorschachLeast: dice scattered the instant they leave the cup
+rorschachMost: a clock's gear meshing its teeth precisely
+rorschachHigh: a spider crouched at the hub of its web
+rorschachMid: a horse chestnut split open in its husk
+rorschachLow: a dandelion clock half blown apart
+rorschachLeast: a thrown handful of jacks scattering wide
 ---
 
 Miso Navy Beans are the Bean Zodiac's most calculating — and have been quietly rehearsing the next three months for the last six. By the time the obvious moment arrives to act, they've already simulated four versions of it and know which one is least costly to be wrong about, which is why their plans tend to land well when they land.

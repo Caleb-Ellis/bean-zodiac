@@ -28,11 +28,11 @@ answerHigh: take a familiar varietal from a region you know works
 answerMid: get one of each and let the table decide
 answerLow: trust the owner and take the special
 answerLeast: skip wine entirely and serve the homemade infusion you've been meaning to test
-rorschachMost: a picket fence running level along a tidy lawn
-rorschachHigh: two matching teacups set square on their saucers
-rorschachMid: a folded road map opened to the middle
-rorschachLow: a path veering off into the tall grass
-rorschachLeast: a door painted a colour no one chose twice
+rorschachMost: a round loaf set beside its matching slice
+rorschachHigh: an apple resting next to a paper doily
+rorschachMid: a stone beside a clump of moss
+rorschachLow: a smooth egg next to a cracked-open shell
+rorschachLeast: a plain bun beside a wildly knotted pastry
 ---
 
 Glazed Navy Beans are the Bean Zodiac's most conventional — the ones who bring the dish the host expected, on the plate the host expected, at the hour the host expected, and the evening works precisely because nothing in it surprises. They arrive at six fifty-eight with the wine that matches. They weigh the unfamiliar option, then choose what the room would have chosen anyway, and the choosing costs them nothing.

@@ -28,11 +28,11 @@ answerHigh: put down the deposit and figure out the budget tomorrow
 answerMid: view it, then ask one trusted person before deciding
 answerLow: let it go — a flat you can afford will turn up
 answerLeast: wouldn't have viewed it; it wasn't in the spreadsheet
-rorschachMost: a tightrope walker out over an open gorge
-rorschachHigh: a coin balanced on its edge on a table
-rorschachMid: two stones stacked on a riverbank
-rorschachLow: a child holding a rail down a short staircase
-rorschachLeast: a padlock fastened on a heavy iron gate
+rorschachMost: a thin arched bridge over an open drop
+rorschachHigh: a bat's wings spread off a high ledge
+rorschachMid: a hill rising to a single small peak
+rorschachLow: a tent pitched low and pegged to the ground
+rorschachLeast: a hen settled wide over the nest
 ---
 
 Red-Hot Fava Beans are the Bean Zodiac's most risk-taking — they sign the lease before the kettle has clicked off, book the flight on the phone in the airport, and start dinner for six trusting the chili and the cumin to cover whatever isn't in the fridge. The math gets done later, usually in the cab on the way to the thing they've already committed to.

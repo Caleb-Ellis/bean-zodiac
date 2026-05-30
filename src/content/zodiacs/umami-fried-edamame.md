@@ -28,11 +28,11 @@ answerHigh: nod knowingly and offer the next thought before they get there
 answerMid: hear them out, then add the bit you saw coming
 answerLow: listen all the way through and pretend the ending surprised you
 answerLeast: get genuinely surprised at the end — you weren't tracking ahead
-rorschachMost: the tip of a knife catching the light
-rorschachHigh: a fox's ears pricked toward a sound
-rorschachMid: two leaves overlapping on a windowsill
-rorschachLow: a wool blanket bunched at the foot of a bed
-rorschachLeast: a worn pebble gone smooth and shapeless
+rorschachMost: a hound's head lifted, catching a faint scent
+rorschachHigh: a fox nosing the air, snout to the wind
+rorschachMid: a long loaf cooling on a board
+rorschachLow: a seal lolling half-asleep on a rock
+rorschachLeast: a lump of wax gone blunt and faceless
 ---
 
 Tempura Edamame are the Bean Zodiac's keenest — the ones who clock the actual question inside the email's third paragraph and answer it in one line. They read the room on the way through the door, notice the lamp moved an inch, hear which word a friend chose instead of the obvious one. The thinking is fast and almost always right.

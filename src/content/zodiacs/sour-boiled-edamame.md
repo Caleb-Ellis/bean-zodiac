@@ -28,11 +28,11 @@ answerHigh: ask the one question that clarifies who said what
 answerMid: nod, then offer a small observation
 answerLow: say "that sounds awful" and order more chips
 answerLeast: just sit with them and let the story keep going
-rorschachMost: an arrow pointing from one box to the next
-rorschachHigh: two scales balanced level
-rorschachMid: a moth resting with wings half open
-rorschachLow: a wave breaking with no clear edge
-rorschachLeast: smoke drifting wherever the air takes it
+rorschachMost: a manta ray gliding a straight, deliberate line
+rorschachHigh: a horseshoe crab tracking from broad head to tail
+rorschachMid: a low hill seen from across the valley
+rorschachLow: a wave flattening out with no clear edge
+rorschachLeast: an oil slick spreading wherever the tide takes it
 ---
 
 Brined Edamame are the Bean Zodiac's most logical — they follow an argument to where it actually goes, and the answer, once they get there, is usually shorter than the question. They have a useful refusal to pad: when everyone else is still hedging, the Brined Edamame has already removed the two clauses that weren't doing any work and named the thing in one sentence.

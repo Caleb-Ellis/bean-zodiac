@@ -28,11 +28,11 @@ answerHigh: bring a second-hand book in a language they don't speak yet
 answerMid: bring a nice candle with a note that's a little odd
 answerLow: chip into the whip-round and sign the card
 answerLeast: bring a second bunch of the same flowers
-rorschachMost: a teapot with one wing where a spout should be
-rorschachHigh: a fish wearing a tiny hat
-rorschachMid: a lamp with a slightly bent shade
-rorschachLow: a plain mug on a plain saucer
-rorschachLeast: two identical spoons side by side
+rorschachMost: a strawberry sprouting little antlers up top
+rorschachHigh: a moth with odd sprigs poking past its wings
+rorschachMid: a broad leaf with a ragged frilled edge
+rorschachLow: a plain heart drawn in one stroke
+rorschachLeast: an ordinary spade from a pack of cards
 ---
 
 Pickled Green Beans are the Bean Zodiac's quirkiest — they answer the small-talk question with the wrong ingredient and the conversation opens. Their shelves hold pairings nobody else would shelve together, on purpose: a garlic clove beside a letter, a brine-soaked pebble in the spice rack, a postcard from a place they've never been used as a bookmark in a book they don't intend to finish. The strangeness is not for show. It's the actual taste of the room.

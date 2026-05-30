@@ -12,6 +12,7 @@ fortuneHigh: Someone's been reading you in shorthand for months and hasn't blink
 fortuneMid: A blunt question is coming. Answer it blunt — same number of syllables it took to ask.
 fortuneLow: The secret stopped being one while you were busy guarding it. Say it out loud, badly, into a voice memo and then play it back for yourself.
 fortuneLeast: What you've been holding back has gone stale. Open the jar, smell it, and throw it out.
+facetMostTitle: What the Black Sauce Hides
 facetMost: Asked at the dinner what you have been up to, you offer one half-true sentence and let the missing weeks do the work.
 facetHighTitle: Drawers Inside Drawers
 facetHigh: The chili oil lives behind something else. Friends learn your kitchen has rooms inside rooms.
@@ -21,11 +22,11 @@ facetLowTitle: The Same-Day Receipt
 facetLow: You hand over the apology at the door, the receipt taped to it; nothing in you is steeping for a later, darker version.
 facetLeastTitle: The Spilled Jar
 facetLeast: You post the rough draft, the burnt pan — the work goes out before the sauce thickens.
-rorschachMost: a face half-swallowed by shadow
-rorschachHigh: a key with no visible door
-rorschachMid: two crows on a far telephone wire
-rorschachLow: an open window with the curtains tied back
-rorschachLeast: a lit room seen through clear glass
+rorschachMost: a face turned away into the dark
+rorschachHigh: two stones set across a black gap
+rorschachMid: two islands split by a channel
+rorschachLow: a clamshell cracked open, both halves shown
+rorschachLeast: two loaves cooling side by side
 question: An old letter from yourself, dated five years ago, has surfaced inside a book you were giving away. You read it standing by the bin. You...
 answerMost: put it back in the book, keep the book, tell no one it exists
 answerHigh: read it twice, fold it into a drawer, leave it there

@@ -28,10 +28,10 @@ answerHigh: ask what "fine" means and wait for the actual answer
 answerMid: ask once, then drop it if the answer is the same
 answerLow: notice the tone and ask what's actually going on
 answerLeast: skip the words entirely and just sit closer
-rorschachMost: a label still glued flat to a jar
-rorschachHigh: two arrows pointing at exactly one thing
-rorschachMid: a beetle laid out on white paper
-rorschachLow: a shadow that hints at someone behind the wall
+rorschachMost: a cog with every tooth there to count
+rorschachHigh: a chestnut burr, plainly nothing but itself
+rorschachMid: a sea urchin set on white paper
+rorschachLow: a spiked blot you could call most anything
 rorschachLeast: a cloud everyone in the room names differently
 ---
 

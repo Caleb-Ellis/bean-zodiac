@@ -28,11 +28,11 @@ answerHigh: walk over and start a conversation, see what happens
 answerMid: wave and call out a goodbye that opens the door
 answerLow: smile across the room and hope they look back
 answerLeast: let them go and tell yourself it wasn't the moment
-rorschachMost: a diver halfway off the high board
-rorschachHigh: two hands letting go of a trapeze
-rorschachMid: a pair of gulls over open water
-rorschachLow: a foot testing the edge of a step
-rorschachLeast: a key turned twice in a locked door
+rorschachMost: a bull lowering its head, one horn curling up
+rorschachHigh: a scorpion with its tail arched to strike
+rorschachMid: a wave cresting with a curl of spray
+rorschachLow: a ram settled, horns resting on the grass
+rorschachLeast: a snail drawn most of the way into its shell
 ---
 
 Caramelised Fava Beans are the Bean Zodiac's most daring — and the warmth is what makes the jumping bearable to watch. They ask the rude question at the table and the table loves them for it; they confess the crush while their friends are still rehearsing the opener; they buy the one-way ticket on a Sunday and have already found a kitchen to fry in by Friday. Decision and action collapse into one motion, dusted in sugar.

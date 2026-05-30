@@ -28,11 +28,11 @@ answerHigh: say one short sentence with more edge than you meant and let it sit
 answerMid: keep going, jaw a little tighter, and forget about it by three
 answerLow: notice the heat, name it to yourself, and step outside for a minute
 answerLeast: register nothing at all and wonder later why you slept so badly
-rorschachMost: a glass shattering caught mid-burst
-rorschachHigh: a wave just before it breaks white
-rorschachMid: a curtain stirred by an open window
-rorschachLow: oil settling slow in a still jar
-rorschachLeast: a flat pond frozen edge to edge
+rorschachMost: a terrier mid-lunge, legs flung out
+rorschachHigh: a cat arched the instant before it bolts
+rorschachMid: a small dog standing, tail curled back
+rorschachLow: a hound dozing curled on the floor
+rorschachLeast: a sleeping cat settled into a loose knot
 ---
 
 Sichuan Butter Beans are the Bean Zodiac's most volatile — and the last to notice it about themselves. For long flat hours they are the easiest person in the room, settled into a chair, refilling tea, asking the right slow questions. Then a small thing — a misplaced word, the fourth interruption — and the temperature is suddenly everyone's problem, including theirs.

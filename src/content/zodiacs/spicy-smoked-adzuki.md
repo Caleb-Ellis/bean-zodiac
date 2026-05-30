@@ -28,11 +28,11 @@ answerHigh: smile slowly and turn back to your drink
 answerMid: nod once, polite, and let the moment pass
 answerLow: glance away on reflex and pretend you didn't notice
 answerLeast: check behind you in case it was meant for someone else
-rorschachMost: two eyes that hold yours and won't let go
-rorschachHigh: a candle flame everything in the room leans toward
-rorschachMid: a moth with both wings spread open
-rorschachLow: a stain on a tablecloth nobody looks at twice
-rorschachLeast: a smudge in the corner you'd walk right past
+rorschachMost: an owl on a post, breast pale, watching
+rorschachHigh: a crowned head atop hunched shoulders
+rorschachMid: a beetle with a pale split down its belly
+rorschachLow: a scarecrow left standing in an empty field
+rorschachLeast: a sack slumped against a wall, ignored
 ---
 
 Chipotle Adzuki Beans are the Bean Zodiac's most transfixing — the room tilts toward them before they've said a word. They walk in late and the conversation they're interrupting forgets what it was about. People who meant to leave order another drink. Even the friend who came to vent ends up listening instead, halfway through their own story.

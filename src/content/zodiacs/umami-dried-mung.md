@@ -28,11 +28,11 @@ answerHigh: invite them, and quietly run the bath for after they leave
 answerMid: say yes to a short visit and protect the back half of the evening
 answerLow: tell them tomorrow night would be better and ask if that works
 answerLeast: send a kind reply and run the bath now
-rorschachMost: a spring welling up at the foot of a hill
-rorschachHigh: a blanket folded at the foot of a bed
-rorschachMid: two ferns leaning over a path
-rorschachLow: a faucet left dripping into a dry sink
-rorschachLeast: a crack splitting down a parched riverbed
+rorschachMost: a brimming bowl of broth gently steaming
+rorschachHigh: a thick quilt folded soft on a chair
+rorschachMid: a curled cat asleep on a cushion
+rorschachLow: a sponge wrung out to its last drips
+rorschachLeast: a cracked, drained basin gone bone dry
 ---
 
 Aged Mung Beans are the Bean Zodiac's most restorative — the bowl set down in front of a friend who hasn't eaten properly in a fortnight, the clean blanket folded on the chair before anyone has admitted to feeling cold, the second message to the friend who went quiet last month. The care is slow, exact, and has yet to fail.

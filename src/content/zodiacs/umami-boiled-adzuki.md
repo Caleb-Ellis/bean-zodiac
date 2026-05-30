@@ -22,17 +22,17 @@ facetLowTitle: The Whole Adzuki
 facetLow: You hear the bad news and offer something practical — a ride, a number, a meal dropped off — instead of the long hug they half-wanted.
 facetLeastTitle: Beans by the Count
 facetLeast: You like people fine at a distance; closeness feels like steam fogging a window you were trying to see through.
-rorschachMost: two figures leaning into one long embrace
-rorschachHigh: a hand reaching across to cover another hand
-rorschachMid: a wide bowl with steam rising off it
-rorschachLow: two shapes sat at opposite ends of a bench
-rorschachLeast: one figure walking away down an empty road
 question: You're seeing someone you love off at the airport. The hug ends and they turn to go. You...
 answerMost: call their name one more time and tell them, plainly, the thing you wanted them to leave with
 answerHigh: catch their sleeve, give them the look they know means it
 answerMid: smile, wave, and watch them all the way through the gate
 answerLow: wave once and turn to leave when they do
 answerLeast: be looking at your phone by the time they glance back
+rorschachMost: a cat curled tight asleep against a smaller one
+rorschachHigh: a round loaf still warm under a cloth
+rorschachMid: a worn boulder with a chip off one shoulder
+rorschachLow: a hunched figure turned in on itself alone
+rorschachLeast: a stray dog curled alone at the field's edge
 ---
 
 Dashi Adzuki Beans are the Bean Zodiac's most affectionate — and the worst at saying so out loud. The love arrives as soup at the door, as the remembered allergy, as the spare phone charger produced from a bag the moment someone mentions their battery. They keep a quiet ledger of who likes onion and who doesn't, who's between jobs, whose mother is unwell, and they act on it before being asked, often before being thanked.

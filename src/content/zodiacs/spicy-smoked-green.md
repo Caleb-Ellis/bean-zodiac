@@ -28,11 +28,11 @@ answerHigh: pick a neighbourhood you don't know and head there
 answerMid: text two friends and see what sticks
 answerLow: do the chores you've been putting off and call it satisfying
 answerLeast: stay in bed with a book and don't get dressed until four
-rorschachMost: a balloon drifting loose above the rooftops
-rorschachHigh: a feather lifting off on a gust of wind
-rorschachMid: a cloud halfway across an open sky
-rorschachLow: a boat tied snug to a wooden dock
-rorschachLeast: an oak with its roots gripping the bank
+rorschachMost: a hot-air balloon lifting off its basket
+rorschachHigh: a dandelion head loosing its seeds upward
+rorschachMid: a mushroom with a round cap and stem
+rorschachLow: a tree with its trunk set in the bank
+rorschachLeast: an oak gripping the ground with deep roots
 ---
 
 Chipotle Green Beans are the Bean Zodiac's most untethered — and the first to feel an urgency no one in the room has named yet. They pick up an unease an hour before the meeting goes sideways, and reorganise the afternoon to be ready. They drop everything for the friend who hasn't called yet but is about to. The instincts are real, and they're usually right.

@@ -28,11 +28,11 @@ answerHigh: let the table move on and bring it up with them alone, later
 answerMid: ask a follow-up question and see if they walk themselves there
 answerLow: offer the correction lightly between courses
 answerLeast: jump in and set it straight before the next sentence
-rorschachMost: a well dropping away past where the light reaches
-rorschachHigh: roots threading down under a split stone
-rorschachMid: two crows perched on a wire
-rorschachLow: a puddle catching the edge of a streetlight
-rorschachLeast: a sticker peeling off a flat windowpane
+rorschachMost: two storm clouds meeting over a deep ravine
+rorschachHigh: a cross-section of two lungs and the branching airways
+rorschachMid: two heads of cauliflower pressed together
+rorschachLow: two sponges sopping up a spreading spill
+rorschachLeast: a smudge of ink wiped flat across the page
 ---
 
 Aged Black Beans are the Bean Zodiac's most profound — and the most patient with a half-finished thought. At dinner they let three subjects pass before speaking, and when they do, the table goes quiet for a second because the sentence has gone further down than the question that prompted it. People remember those sentences for years and credit them with conversations they were nowhere near.

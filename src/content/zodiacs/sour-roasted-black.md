@@ -22,17 +22,17 @@ facetLowTitle: The Cooled Bowl
 facetLow: Surfaces wiped, corners squared. You prefer a room that has settled before anyone walks in.
 facetLeastTitle: Crema Over the Tart Place
 facetLeast: An apology owed becomes a kindness offered instead — softened until the edge forgets itself.
-rorschachMost: two hands pressed flat together at the centre
-rorschachHigh: a candle burned most of the way down
-rorschachMid: a beetle climbing the seam of a leaf
-rorschachLow: a mask hung on a nail by its string
-rorschachLeast: a wink caught between two raised eyebrows
 question: At a friend's leaving drinks the room goes round saying something nice, and it lands on you. You...
 answerMost: say the thing you actually meant to say, voice cracking a little
 answerHigh: speak plainly about what they were like to know
 answerMid: tell one small true story and stop while it still holds
 answerLow: raise the glass with the warm general line everyone uses
 answerLeast: make the table laugh and let the affection go unsaid
+rorschachMost: a heart with two small drops rising off it
+rorschachHigh: a toad mid-hop, eyes lifted upward
+rorschachMid: a beetle with two antennae raised
+rorschachLow: a face in profile glancing aside, one eye narrowed
+rorschachLeast: a clenched fist with the thumb tucked in
 ---
 
 Chimichurri Black Beans are the Bean Zodiac's most earnest — the ones who answer "how are you" and then actually answer it. The compliment isn't deflected, the condolence isn't dressed up as a joke, the table goes quiet for a beat because somebody finally said the thing out loud. People leave conversations with them feeling met.

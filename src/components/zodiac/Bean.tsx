@@ -2,11 +2,11 @@ import type { BeanSchema, FlavourId, FormId, QualityId } from "../../lib/zodiac"
 import styles from "./Bean.module.css";
 
 const QUALITY_FILTER: Record<QualityId, string> = {
-  rotten: "saturate(0) brightness(0) contrast(1)",
-  stale: "saturate(0.5) brightness(0.5) contrast(1)",
-  garden: "saturate(1) brightness(1) contrast(1)",
-  market: "saturate(1.5) brightness(1.125) contrast(1.25)",
-  heirloom: "saturate(2) brightness(1.25) contrast(1.5)",
+  rotten: "saturate(1) brightness(1) contrast(1) invert(1)",
+  stale: "saturate(0.5) brightness(0.5) contrast(1) invert(0)",
+  garden: "saturate(1) brightness(1) contrast(1) invert(0)",
+  market: "saturate(1.5) brightness(1.125) contrast(1.25) invert(0)",
+  heirloom: "saturate(2) brightness(1.25) contrast(1.5) invert(0)",
 };
 
 type Props = {

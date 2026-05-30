@@ -22,17 +22,17 @@ facetLowTitle: The Tamarind, Swallowed
 facetLow: Texts get answered in the order they arrive, not the order they ache.
 facetLeastTitle: One Good Plate
 facetLeast: You sleep through the argument in the next apartment and wake rested.
-rorschachMost: a needle trembling on a seismograph line
-rorschachHigh: a moth feeling the air at a window
-rorschachMid: two reeds bending in a slow current
-rorschachLow: a stone sitting still in a loud stream
-rorschachLeast: a brick wall with the rain running off it
 question: A friend's voice goes thin on one vowel during a quick catch-up call. You...
 answerMost: cancel your evening and tell them you're coming over
 answerHigh: stop the small talk and ask what's actually going on
 answerMid: file it, finish the call warmly, and check in by text tonight
 answerLow: note it and wait to see if they bring it up next time
 answerLeast: carry on, assume it was nothing, and not think of it again
+rorschachMost: an ear turned toward a faint speck of sound
+rorschachHigh: a snail uncurling its shell toward a crumb
+rorschachMid: a gnarled stump beside an empty bird's nest
+rorschachLow: a sleeping bear ignoring the moth at its foot
+rorschachLeast: a shuttered window facing a dropped seed
 ---
 
 Chimichurri Mung Beans are the Bean Zodiac's most sensitive — they walk into a room and know who left it angry an hour ago. The friend's voice thins on one vowel and the evening gets quietly cleared; the message arrives with a second sentence the writer almost deleted, and that's the sentence that gets answered.

@@ -28,11 +28,11 @@ answerHigh: vote for the cottage, gently, but go quietly if the room tips the ot
 answerMid: float a way to do both, half there and half elsewhere
 answerLow: vote for the new place; the cottage will be there next summer
 answerLeast: be the one who suggested the new place in the first place
-rorschachMost: a teabag long settled at the bottom of a cup
-rorschachHigh: a stain soaked deep into old wood grain
-rorschachMid: two leaves resting in a still pool
-rorschachLow: a suitcase open and half packed
-rorschachLeast: a bare room with the windows flung open
+rorschachMost: two tea stains bled deep into a cloth
+rorschachHigh: two patches of moss grown into the bark
+rorschachMid: two inkblots spreading on damp paper
+rorschachLow: two fresh drops just landed on a dry rag
+rorschachLeast: two crisp sponges still in their wrapper
 ---
 
 Hickory Mung Beans are the Bean Zodiac's most steeped — they've been in the same apartment for nine years, the same job for seven, drinking the same tea since college. Friends know to find them in the same chair on a Sunday; the regular table at the regular place is held without asking. Nothing about the life is stale, exactly — it has the warm, lived-in quality of a thing tended every day.

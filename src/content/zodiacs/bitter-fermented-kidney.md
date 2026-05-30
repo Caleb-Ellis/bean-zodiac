@@ -28,11 +28,11 @@ answerHigh: give them the one sentence you've been carrying all week
 answerMid: name the real thing and stop before it becomes a speech
 answerLow: say "fine, mostly" and mean about half of it
 answerLeast: smile, change the subject, and ask after their week instead
-rorschachMost: a storm cloud massed dark over a small house
-rorschachHigh: a pot lid rattling hard over a full boil
-rorschachMid: two coals glowing in a banked grate
-rorschachLow: a candle guttering low in a still room
-rorschachLeast: a breeze lifting a curtain, then gone
+rorschachMost: a fist clenched white at the knuckles
+rorschachHigh: a hornets' nest packed tight and humming
+rorschachMid: a heavy stone tapering to a point below
+rorschachLow: a beanbag slumped soft in the corner
+rorschachLeast: a puff of dandelion seed about to scatter
 ---
 
 Cultured Kidney Beans are the Bean Zodiac's most intense — they walk into a room quietly and it reorients toward them anyway, the way a table leans toward the dish that took longest to make. They carry the day's weight at the jaw, held, not set down, and when they finally hand someone the thing they've been darkening alone, it arrives whole and undiluted. There's a gravity to them that nothing performed could fake.

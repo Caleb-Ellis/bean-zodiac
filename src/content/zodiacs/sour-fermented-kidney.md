@@ -28,11 +28,11 @@ answerHigh: say yes to three nights and write the end date in the reply
 answerMid: say yes and quietly start tidying the spare room with the door half-closed
 answerLow: say yes, hand them a key, and forget to mention bin night
 answerLeast: say yes, give them the spare key, and tell them to stay as long as they need
-rorschachMost: a shell clamped shut around something
-rorschachHigh: a high wall with a small barred window
-rorschachMid: a curtain half drawn across a sill
-rorschachLow: a gate swung open onto a yard
-rorschachLeast: a field with no fence in sight
+rorschachMost: a closed fist guarding a bursting one
+rorschachHigh: a smooth rock shielding a cracking one
+rorschachMid: one cloud calm, the other breaking apart
+rorschachLow: a shell beside its scattered, opened halves
+rorschachLeast: two seedheads loosing all their seeds at once
 ---
 
 Pickled Kidney Beans are the Bean Zodiac's most defensive — and they can tell you, item by item, what they're defending and why. The unread count is a moat, not an oversight; the new acquaintance meets a pleasant outer hallway and learns the kitchen exists only after several visits. The wall is not unkind, but it is articulate. Each brick has a reason, and most of the reasons have held up.

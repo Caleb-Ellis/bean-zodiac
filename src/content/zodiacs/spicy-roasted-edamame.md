@@ -28,11 +28,11 @@ answerHigh: say what you'd do, once, and let the silence break itself
 answerMid: float the option as a question and see who agrees
 answerLow: wait for someone more senior to say it, then back them
 answerLeast: take it offline, draft a memo, circulate by end of week
-rorschachMost: a planted flag holding straight in wind
-rorschachHigh: shoulders squared in a doorway
-rorschachMid: a folded shape with two even wings
-rorschachLow: a question mark trailing off the edge
-rorschachLeast: a reed bent low under shifting water
+rorschachMost: a king chess piece planted on its base
+rorschachHigh: a figure standing squared on both feet
+rorschachMid: a tree trunk spreading into wide roots
+rorschachLow: a candle flame wavering on its stand
+rorschachLeast: a sapling bowing under its own top weight
 ---
 
 Peri-Peri Edamame are the Bean Zodiac's most confident — the ones who order without rereading the menu, who reply to the long email in one line, who say "I don't know" without the apology underneath. They take up exactly as much space as they take up, and the room stops trying to hand them a smaller chair.

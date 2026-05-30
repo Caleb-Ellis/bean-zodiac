@@ -28,11 +28,11 @@ answerHigh: head over once it's properly going
 answerMid: drop in for an hour and see how you feel
 answerLow: reply that you might come and don't
 answerLeast: silence the chat and run a bath
-rorschachMost: a crowd of figures spilling through an open door
-rorschachHigh: two hands reaching out to clasp each other
-rorschachMid: a moth resting on a smooth grey wall
-rorschachLow: a single lamp lit in an empty window
-rorschachLeast: one chair turned to face a blank wall
+rorschachMost: two dancers whirling, arms flung wide open
+rorschachHigh: a person waving toward a friend approaching
+rorschachMid: a boulder beside a loose tangle of vines
+rorschachLow: a hunched figure turned from an open gate
+rorschachLeast: a rock and a wreath left apart
 ---
 
 Wood-Fired Chickpeas are the Bean Zodiac's most outgoing — they move toward people as a matter of course. They walk into a kitchen and within a minute the chutney is being argued over; they pull out the second chair and leave the bowl on the counter, small invitations set down before anyone's knocked. People gather to them without quite deciding to.

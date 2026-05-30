@@ -22,17 +22,17 @@ facetLowTitle: Herbs Dropped in Whole
 facetLow: You forget where you left the tab open, and the want passes before you remember to feed it.
 facetLeastTitle: The Rind Tossed Without Ceremony
 facetLeast: A craving arrives, gets answered or doesn't, and leaves no groove behind.
-rorschachMost: a finger worrying the same loose thread
-rorschachHigh: a tap dripping on a steady count
-rorschachMid: two leaves stuck to a wet pane
-rorschachLow: a swing slowing to a stop
-rorschachLeast: a hand resting open in a lap
 question: You've already checked that one thread three times this hour. The urge to check again has arrived right on time. You...
 answerMost: check it, then check the other two while you're there
 answerHigh: check it once more, briefly, and put the phone down
 answerMid: notice the urge and decide in the moment
 answerLow: leave it for the next break, whenever that lands
 answerLeast: shrug, lock the phone, and forget about it
+rorschachMost: a thumb rubbing one hole into dough
+rorschachHigh: a toad hunched over the same burrow
+rorschachMid: a storm cloud swollen low and heavy
+rorschachLow: a pond gone flat after the last ripple
+rorschachLeast: a loaf resting under a cloth
 ---
 
 Kimchi Mung Beans are the Bean Zodiac's most compulsive — the ones who reach for the phone mid-sentence and finish the sentence later, if at all. They've named the loop, written it on a post-it, scheduled a different thing in its slot, and still walked the same lap of the kitchen at the same hour. The pull is real, and oddly tender; it's the thing they tend most reliably in their lives.

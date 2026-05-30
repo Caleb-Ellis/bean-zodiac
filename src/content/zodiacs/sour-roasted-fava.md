@@ -22,17 +22,17 @@ facetLowTitle: Lemon Folded Into Coriander
 facetLow: You read the room first, match its register, and save your sharper opinion for someone who actually asked.
 facetLeastTitle: Herbs Over the Char
 facetLeast: You shape yourself to whoever sits across from you, and the dinners go down easier for it.
-rorschachMost: a tree growing crooked but rooted deep
-rorschachHigh: a worn boot that kept its own shape
-rorschachMid: two stones stacked beside a stream
-rorschachLow: a wig set neatly on a stand
-rorschachLeast: a wax fruit gleaming in a glass bowl
 question: An interviewer offers you a smoother version of your own answer and waits for you to take it. You...
 answerMost: thank them and restate your original, word for word
 answerHigh: say no, that's not quite it, and give the version you meant
 answerMid: take the half that's right and gently set the rest aside
 answerLow: nod, use their phrasing, and move the conversation on
 answerLeast: agree, repeat their line back, and notice later you've drifted
+rorschachMost: an old oak gripping the ground with bare roots
+rorschachHigh: a shrub grown wild, branches left untrimmed
+rorschachMid: a head of broccoli stood on its stalk
+rorschachLow: a topiary clipped into a tidy ball
+rorschachLeast: a plastic tree screwed onto a wooden stand
 ---
 
 Chimichurri Fava Beans are the Bean Zodiac's most authentic — they answer the question in the words they have, and decline the smoother version when it gets handed back across the table. When the group settles on a polite consensus, the small contrary thing gets said, and the room rearranges itself around it without anyone quite knowing why.

@@ -28,11 +28,11 @@ answerHigh: say yes and figure out the logistics in the cab
 answerMid: ask what it is and decide in three minutes
 answerLow: thank them but you've already settled in for the night
 answerLeast: didn't see the text until morning
-rorschachMost: a deer bolting sideways out of the brush
-rorschachHigh: a splash frozen the instant a stone hits water
-rorschachMid: two clouds drifting apart over a hill
-rorschachLow: a train timetable pinned to a board
-rorschachLeast: a row of chairs set out hours before the guests
+rorschachMost: a colt kicking one leg out mid-bolt
+rorschachHigh: a splat of ink flicked across the page
+rorschachMid: a storm cloud with one wisp trailing off
+rorschachLow: an old stump rooted fast, one root breaking soil
+rorschachLeast: a loaf set to rest, one crust split open
 ---
 
 Red-Hot Chickpeas are the Bean Zodiac's most spontaneous — the yes is out of their mouth before the offer has finished. They open the door without checking the weather, take the last seat on the train that's already moving, and arrive at parties half-dressed because the version of them that finished buttoning would have stayed home.

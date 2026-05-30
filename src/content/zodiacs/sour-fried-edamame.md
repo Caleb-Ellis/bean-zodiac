@@ -28,11 +28,11 @@ answerHigh: say the front is fine, the back isn't
 answerMid: ask what they were going for first, then answer
 answerLow: say it'll settle in a week — which it might
 answerLeast: say it looks great and change the subject
-rorschachMost: a hammer resting on a bare nail head
-rorschachHigh: a brick set down hard on a flat table
-rorschachMid: a spoon balanced across the rim of a bowl
-rorschachLow: a pillow wrapped twice in a soft blanket
-rorschachLeast: a feather drifting down onto a velvet cushion
+rorschachMost: two bare fists raised an inch apart
+rorschachHigh: two bricks set down side by side
+rorschachMid: two river stones lying near each other
+rorschachLow: two mittens laid out to dry on a rail
+rorschachLeast: two pillows dented soft side by side
 ---
 
 Agrodolce Edamame are the Bean Zodiac's most blunt — the sentence arrives unwrapped, and the listener can either eat it or not. There's no preamble to chew through, no "I just want to say," no managing of the temperature before delivery; the thing is on the table, and what they do with it is their business.

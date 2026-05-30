@@ -28,11 +28,11 @@ answerHigh: thank them warmly and never put it on the shelf
 answerMid: keep it, but reread only the parts that are true
 answerLow: take the compliment whole, you've had a year
 answerLeast: read it aloud, twice, to anyone in earshot
-rorschachMost: a lemon rind peeled back to the pith
-rorschachHigh: two thin blades crossing at the center
-rorschachMid: a moth with one wing folded under
-rorschachLow: a plum left too long in the sun
-rorschachLeast: a spoonful of honey sliding off a rim
+rorschachMost: a thistle head bristling with spines
+rorschachHigh: a chestnut burr split along one side
+rorschachMid: a potato with sprouts down one edge
+rorschachLow: a sleeping hedgehog curled into its quills
+rorschachLeast: a fat loaf rising with a frayed crust
 ---
 
 Dehydrated Adzuki Beans are the Bean Zodiac's most tart — the toast they give actually means something, which is why people brace before they raise their glass. They show up with the gift, the candles, the right number of chairs, and a small unsweetened sentence about the year just had. Everyone laughs a beat late and then properly.

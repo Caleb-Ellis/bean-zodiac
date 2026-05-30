@@ -49,14 +49,14 @@ const getQualityForSlug = (slug: string, date: Date): QualityId => {
 
 export type RitualVariant = "facet" | "question" | "rorschach";
 
-// Weights out of 5: facet 2, question 2, rorschach 1.
+// Weights out of 4: facet 2, question 1, rorschach 1.
 // XOR mask keeps this hash independent from getQualityForSlug
 export const getVariantForSlug = (slug: string, date: Date): RitualVariant => {
   let h = (daysSinceOrigin(date) ^ 0x5a5a5a5a) >>> 0;
   for (const c of slug) h = (Math.imul(h, 31) + c.charCodeAt(0)) >>> 0;
-  const r = h % 5;
+  const r = h % 4;
   if (r < 2) return "facet";
-  if (r < 4) return "question";
+  if (r < 3) return "question";
   return "rorschach";
 };
 
@@ -69,10 +69,7 @@ export const ANSWER_TIERS: readonly QualityId[] = [
   QualityIds.Rotten,
 ] as const;
 
-export const getAnswerText = (
-  zodiac: Zodiac,
-  qualityId: QualityId,
-): string => {
+export const getAnswerText = (zodiac: Zodiac, qualityId: QualityId): string => {
   if (qualityId === QualityIds.Heirloom) return zodiac.answerMost;
   if (qualityId === QualityIds.Market) return zodiac.answerHigh;
   if (qualityId === QualityIds.Garden) return zodiac.answerMid;
@@ -90,13 +87,6 @@ export const getRorschachText = (
   if (qualityId === QualityIds.Stale) return zodiac.rorschachLow;
   return zodiac.rorschachLeast;
 };
-
-export const hasRorschach = (zodiac: Zodiac): boolean =>
-  !!zodiac.rorschachMost &&
-  !!zodiac.rorschachHigh &&
-  !!zodiac.rorschachMid &&
-  !!zodiac.rorschachLow &&
-  !!zodiac.rorschachLeast;
 
 const getDailyDimensions = (date: Date): DailyDimensions => {
   const d = daysSinceOrigin(date);

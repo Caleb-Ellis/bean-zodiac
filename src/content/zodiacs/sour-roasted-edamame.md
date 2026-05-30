@@ -22,17 +22,17 @@ facetLowTitle: Shells Keeping Their Seed
 facetLow: The good plates stay in the cupboard, the loud books face-down on the shelf.
 facetLeastTitle: Salt Held Back
 facetLeast: You finish the work in private and show no one for a year.
-rorschachMost: an arrow pointing straight at the middle
-rorschachHigh: a pod split clean down the seam
-rorschachMid: two ferns leaning over a still pool
-rorschachLow: a path that loops back on itself
-rorschachLeast: a letter slid back under the door unread
 question: A friend is talking around a problem they haven't yet seen clearly, and there's a pause. You...
 answerMost: name the problem in one sentence before they take another breath
 answerHigh: say what you think the real issue is and let them push back
 answerMid: ask the question that points at it without spelling it out
 answerLow: hum sympathetically and wait for them to circle in
 answerLeast: change the subject and let them work it out alone later
+rorschachMost: a jellyfish driving its tentacles straight down
+rorschachHigh: a rocket trailing fire beneath a round nose
+rorschachMid: an octopus with legs splayed below its head
+rorschachLow: tree roots wandering off in every direction
+rorschachLeast: a dancer's skirt swirling around hidden legs
 ---
 
 Chimichurri Edamame are the Bean Zodiac's most forthright — the ones who say the thing before the drinks have landed. No throat-clearing, no weather, no fourteen-sentence preamble. The meeting opens and the actual subject is already on the table. People who have spent the morning rehearsing their own polite version of the same thought feel quietly grateful.

@@ -28,11 +28,11 @@ answerHigh: raise the one detail that doesn't fit before anyone stands
 answerMid: say the small thing on your mind and let the room weigh it
 answerLow: catch the person you trust afterward and check with them
 answerLeast: close the laptop and trust the room did its work
-rorschachMost: a hand raised with one finger still up
-rorschachHigh: a half-peeled fruit, the pith laid bare
-rorschachMid: two pods split open along the seam
-rorschachLow: a sealed envelope nobody thought to open
-rorschachLeast: a door clicked shut, the matter left behind it
+rorschachMost: a snail with both eye-stalks reaching up to test the air
+rorschachHigh: a beetle, two antennae raised and twitching
+rorschachMid: an owl with two small ear-tufts up
+rorschachLow: a roosting hen, both wings folded flat down
+rorschachLeast: a sleeping cat, ears folded down and tucked in
 ---
 
 Cultured Fava Beans are the Bean Zodiac's most questioning — they're the ones who ask the third question, after the first two have been met with manners, and the third is the one that gets the real answer. At a table quietly agreeing not to mention the obvious thing, they'll name it, kindly, before anyone stands up. Nothing gets past them on the strength of sounding settled.

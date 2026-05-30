@@ -28,11 +28,11 @@ answerHigh: swap two pieces and call it good
 answerMid: borrow something from a friend on the way
 answerLow: wear what you planned and ignore the theme
 answerLeast: cancel rather than rework it
-rorschachMost: a key cut to turn in a dozen different locks
-rorschachHigh: a hinge bending whichever way the door swings
-rorschachMid: a cloud halfway between a horse and a ship
-rorschachLow: a nail driven straight, no give in it
-rorschachLeast: an iron bar that won't bend either way
+rorschachMost: a crab, limbs reaching out in every direction
+rorschachHigh: a sea anemone, many feelers raised at once
+rorschachMid: a low ridge of hills with a few peaks
+rorschachLow: a crab gone still, every limb pulled in tight
+rorschachLeast: a beetle, all six legs marching the same way
 ---
 
 Infused Chickpeas are the Bean Zodiac's most versatile — the one who can turn a hand to almost anything and lands first on every list because of it. Drop them in an unfamiliar room and they read it in a minute and find the rhythm; hand them a problem outside their field and they're fluent in it by the afternoon. They're the rare person who's genuinely good company at a sickbed, a deadline, and a stranger's kitchen alike.

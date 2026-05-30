@@ -28,11 +28,11 @@ answerHigh: send two short replies and promise yourself the rest tonight
 answerMid: reply to the easiest three and mark the others unread
 answerLow: write five proper replies and clear half the queue
 answerLeast: clear the queue before lunch and start a new chat
-rorschachMost: a thread of smoke thinning into air
-rorschachHigh: a torn cobweb stirring in a draught
-rorschachMid: two clouds passing over each other
-rorschachLow: a stone bench set into a garden
-rorschachLeast: an anvil squat on its block
+rorschachMost: a cat dissolving into fog, only ears left
+rorschachHigh: an owl fluffed loose, edges going to down
+rorschachMid: a fox curled with ears just showing
+rorschachLow: a cat sitting solid and alert on a wall
+rorschachLeast: a stone lion squat and heavy at a gate
 ---
 
 Cured Mung Beans are the Bean Zodiac's most wispy — their warmth moves through the room and out of it before anyone has caught the cuff of a sleeve. They are the friend who remembers your birthday with a perfect, late voice note, the colleague who notices the cold draft and finds the cardigan for someone else before forgetting their own jacket on the chair. The care is real; the room is better for them having been in it.

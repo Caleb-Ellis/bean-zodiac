@@ -28,11 +28,11 @@ answerHigh: open a new tab "just to sketch it" and lose an hour
 answerMid: jot the idea on a sticky note and keep going
 answerLow: finish the task first, knowing the idea might fade
 answerLeast: ignore the idea entirely; you started this and you're finishing it
-rorschachMost: sparks scattering off a struck anvil
-rorschachHigh: a flock breaking apart in every direction
-rorschachMid: a leaf caught halfway down a window
-rorschachLow: a stone resting at the bottom of a pond
-rorschachLeast: a flat lake before anyone is awake
+rorschachMost: a cat mid-leap, legs flung every way
+rorschachHigh: a jester's cap with points jutting out
+rorschachMid: a beetle with all its legs splayed
+rorschachLow: an owl perched still, ear tufts up
+rorschachLeast: a toad squatting low, settled in place
 ---
 
 Chipotle Chickpeas are the Bean Zodiac's most frenetic — and their friends have learned to text twice. The first message gets a thumbs-up an hour late from across town; the second catches them mid-pivot toward whatever the evening has become. They make the dinner happen, the trip happen, the band happen, somehow, mostly because standing still feels worse than overbooking.

@@ -22,17 +22,17 @@ facetLowTitle: The Bean in Its Skin
 facetLow: You step around the visible ache in the room and tend your own pot.
 facetLeastTitle: Sweetness Left at the Bottom
 facetLeast: You let the unpaid favour sit; the apology owed to you stays owed.
-rorschachMost: an arm around a stooped figure's shoulders
-rorschachHigh: a blanket spread over a sleeping form
-rorschachMid: a teapot set between two cups
-rorschachLow: a closed shutter over a lit window
-rorschachLeast: a turned back receding down a corridor
 question: A coworker you barely know is clearly having a bad day at the next desk. You...
 answerMost: quietly bring them a tea and ask if they want to step outside for ten minutes
 answerHigh: catch their eye and ask gently how they're doing
 answerMid: send them a small kind message later that day
 answerLow: leave them to it — they don't need an audience
 answerLeast: put your headphones on and stay out of it
+rorschachMost: a hen spreading wings over her chicks
+rorschachHigh: a shawl drawn around hunched shoulders
+rorschachMid: a broad tree over two thin trunks
+rorschachLow: an umbrella shut tight against the rain
+rorschachLeast: a cliff overhanging the small shore below
 ---
 
 Candied Kidney Beans are the Bean Zodiac's most compassionate — the one who notices the friend going quiet at the edge of the group and slides over without making a thing of it, who answers the 11pm message at 11pm and means every cardamom-warm word of it. They can sit in a hard room without flinching and bring the temperature down with their presence alone.

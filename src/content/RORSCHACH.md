@@ -9,15 +9,25 @@ counts as Accept (+1), exactly like the question variant.
 ## The image
 
 Generated at build time by `scripts/build-rorschach.mjs`, one SVG per zodiac slug in
-`public/images/rorschach/`. Mirrored around the vertical axis, distorted by a per-slug
-turbulence + displacement filter, desaturated toward inky black. The user is not meant to
-"see the bean" — they're meant to project onto something ambiguous.
+`public/images/rorschach/`. A mirror-symmetric composite of the bean and its flavour/form
+emoji, distorted by a per-slug turbulence + displacement filter and desaturated toward
+inky black. Most blots fold left/right (the classic butterfly); the ~half that are rotated
+90° before distortion fold top/bottom instead. The user is not meant to "see the bean" —
+they're meant to project onto something ambiguous.
+
+**Look at the actual blot before writing the readings.** The shape is seeded from the slug
+and is genuinely different per zodiac, so the five interpretations must describe _this_
+silhouette — not generic inkblot imagery. Render it with
+`pnpm preview:blot <slug> --mode ink` (flat black silhouette, the pure shape) and view the
+PNG. `RORSCHACH_PROMPT.md` is a ready-to-use prompt for doing this one slug at a time.
 
 ## The five interpretations
 
 Each `rorschach*` field is one short reading of the blot. The five together should feel
 like things a person might _actually_ say when shown an inkblot — small, concrete nouns
-and shapes, not abstractions.
+and shapes, not abstractions — and crucially, all five must be plausible readings of the
+**same actual shape**. The tier difference is _which_ reading of that one silhouette you
+offer and its emotional temperature, not a switch to an unrelated picture.
 
 - **Order**, given a trait:
   - `rorschachMost` — most trait-expressed reading
@@ -33,3 +43,17 @@ and shapes, not abstractions.
 - **Length**: short. Six to ten words is the target.
 - **No trailing full stops.**
 - Trait alignment lives in the _content_ of what's pictured, not in adjectives about it.
+- **Commit to a specific noun.** Name the actual thing seen — a heron, an anvil, a votive
+  jug — never hedge-words like "a figure", "a form", "a shape", "a mass", "a lump", or
+  "two forms". Vague nouns read as wallpaper across 360 entries; the specific noun is what
+  makes a reading feel like a real person free-associating.
+- **Stay mostly plain, with a faint uncanny tint.** The default is everyday concrete nouns —
+  a heron, an anvil, a jug, a hound. This is a divination cosmology, so a _light_ folkloric
+  colour is welcome, but sparingly: think **at most one** of the five per blot carrying any
+  fantastical charge, and even that kept gentle (a "sentinel" stone, a hound at a "shrine"),
+  not a fantasy bestiary (no sphinx/dragon/golem/hydra in every line). If most lines read as
+  myth, you've overshot — dial back to plain nouns. `rorschachMid` is always the most mundane
+  of the five.
+- **Keep the vocabulary generally knowable.** Use words a person would actually reach for on
+  the spot. No terms that send the reader to a dictionary (no "menhir", "wyvern", "psaltery").
+  If a plainer word works — "standing stone" not "menhir" — use it.

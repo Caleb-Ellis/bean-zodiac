@@ -22,17 +22,17 @@ facetLowTitle: The Softened Harissa
 facetLow: A friend wavers and you bend the evening around them, the rough edge taken off before it reaches them.
 facetLeastTitle: The Sanded Rim
 facetLeast: Cushions everywhere, lamps kept low — nothing in your house left to grind against you.
-rorschachMost: an anvil under a single cold light
-rorschachHigh: a blade held edge-up on a block
-rorschachMid: a hinge bolted to a heavy door
-rorschachLow: a pillow dented where a head had lain
-rorschachLeast: a wax candle slumped in the heat
 question: It's hour six of a hike and the weather turns. The car is still two hours out. You...
 answerMost: pull the hood up and keep the pace
 answerHigh: shoulder the heavier pack and press on
 answerMid: stop briefly, eat something, carry on
 answerLow: suggest the shortcut back
 answerLeast: call for a lift from the next ridge
+rorschachMost: a spiked mace head against an anvil
+rorschachHigh: an iron saw blade beside a boulder
+rorschachMid: a gear wheel next to a stone
+rorschachLow: a worn pincushion against a soft pillow
+rorschachLeast: a melting sun sinking into a snowdrift
 ---
 
 Desiccated Fava Beans are the Bean Zodiac's most steely — they are the one who finishes the marathon with the broken toe, works the cold through without mentioning it, and treats a setback as a fact to be routed around rather than a reason to sit down. When everyone else is flagging, they are the reason the thing still gets done.

@@ -28,11 +28,11 @@ answerHigh: trust the unease and ask for a second conversation
 answerMid: sleep on it and let the morning cast the deciding vote
 answerLow: list the unease against the offer and accept if the column is short
 answerLeast: sign the paper — the numbers say yes and the rest is nerves
-rorschachMost: a dowsing rod dipping over hidden water
-rorschachHigh: a compass needle swinging to find north
-rorschachMid: two leaves folded along their middle
-rorschachLow: a ledger column added up twice by hand
-rorschachLeast: a printed form filled in box by box
+rorschachMost: a fountain leaping up in a fine spray above its pool
+rorschachHigh: a stag's antlers branching over a low body
+rorschachMid: a bare tree, its crown above the mound of roots
+rorschachLow: a feather duster propped over a tidy box
+rorschachLeast: a candelabra set squarely on a heavy base
 ---
 
 Cultured Mung Beans are the Bean Zodiac's most intuitive — they'll name the trouble in a conversation a beat before anyone else finds the word for it, and walk into a room knowing which corner of it is wrong before a soul has spoken. They trust the read they can't yet defend, and the reasoning files in later, around nine, to confirm what they already acted on. It's not magic. It's just faster than they can show their work.

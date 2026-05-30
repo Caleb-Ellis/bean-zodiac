@@ -28,11 +28,11 @@ answerHigh: thank everyone and name the people who helped most
 answerMid: say thanks, accept it, mention it was a team effort
 answerLow: take the credit and add what you'd do differently next time
 answerLeast: walk them through exactly what you did and why it worked
-rorschachMost: a small seed tucked under a fold of earth
-rorschachHigh: a figure stepping back into the shade
-rorschachMid: a moth resting on a smooth grey wall
-rorschachLow: a name carved large across a stone front
-rorschachLeast: a statue raised high on a floodlit plinth
+rorschachMost: a plain sack set beside a carved mask
+rorschachHigh: a bowed head turned from an ornate one
+rorschachMid: a round stone next to a knotted root
+rorschachLow: a grand mask beside a person's head
+rorschachLeast: a jeweled crown looming over a bare pebble
 ---
 
 Wood-Fired Mung Beans are the Bean Zodiac's most humble — they know what they're capable of and keep it hidden. They finish the work, file it, and let someone find it months later; when the room turns toward them they redirect the credit to the cook, the colleague, the one who set the table. Their warmth at someone else's success is entirely genuine.

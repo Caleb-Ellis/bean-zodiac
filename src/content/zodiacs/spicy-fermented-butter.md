@@ -22,17 +22,17 @@ facetLowTitle: The Clean Broth
 facetLow: You host the way a clean broth reads — chairs squared, napkins folded, the kimchi in a dish that matches the bowls.
 facetLeastTitle: Cabbage Sheets in Brine
 facetLeast: Folders labelled, threads closed, every message answered before the butter melts.
-rorschachMost: a teapot growing one extra spout
-rorschachHigh: a chair with legs of mismatched length
-rorschachMid: two leaves drifting down a gutter
-rorschachLow: a row of identical fence posts
-rorschachLeast: a plain square tile laid straight
 question: You're picking a gift for a new colleague's birthday. The team is splitting the cost on something safe. You...
 answerMost: bring your own odd thing instead and hand it over separately
 answerHigh: add the strange small extra to the group gift
 answerMid: chip in but suggest a slightly weirder version
 answerLow: chip in and quietly approve the safe choice
 answerLeast: pick the safest option on the list and confirm it twice
+rorschachMost: a teapot sprouting a horn for a spout
+rorschachHigh: a stool tipped onto mismatched legs
+rorschachMid: a burr beside a curled dry leaf
+rorschachLow: a cushion set next to a coiled rope
+rorschachLeast: two plain mugs set square on a shelf
 ---
 
 Kimchi Butter Beans are the Bean Zodiac's most eccentric — the ones whose kitchen has a ladle hung above the bed and a perfectly good reason that nobody else would have arrived at. They aren't performing strangeness; they just genuinely live an inch off-centre, and the inch has compounded over years into a whole life shaped at an angle.

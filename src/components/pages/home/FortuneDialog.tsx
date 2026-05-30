@@ -45,17 +45,25 @@ export default function FortuneDialog({ data, fortune }: Props) {
   const [revealed, setRevealed] = useState(false);
   const [landed, setLanded] = useState(false);
   const tiltRef = useRef<HTMLDivElement | null>(null);
+  const cardBoxRef = useRef<HTMLDivElement | null>(null);
   const cardContentRef = useRef<HTMLDivElement | null>(null);
   const [cardHeight, setCardHeight] = useState<number | null>(null);
 
   useEffect(() => {
-    const el = cardContentRef.current;
-    if (!el) return;
-    const ro = new ResizeObserver(() => {
-      const h = el.offsetHeight;
-      if (h > 0) setCardHeight(h);
-    });
-    ro.observe(el);
+    const content = cardContentRef.current;
+    const box = cardBoxRef.current;
+    if (!content || !box) return;
+    const measure = () => {
+      const contentH = content.offsetHeight;
+      const width = box.offsetWidth;
+      if (contentH > 0 && width > 0) {
+        // Square unless the content forces a taller card.
+        setCardHeight(Math.max(contentH, width));
+      }
+    };
+    const ro = new ResizeObserver(measure);
+    ro.observe(content);
+    ro.observe(box);
     return () => ro.disconnect();
   }, []);
 
@@ -230,7 +238,8 @@ export default function FortuneDialog({ data, fortune }: Props) {
                     />
                   )}
                   <div
-                    className="relative w-full rounded-[calc(1rem-1.5px)] bg-zinc-900 overflow-hidden"
+                    ref={cardBoxRef}
+                    className="relative w-full rounded-[calc(1rem-1.5px)] bg-zinc-900 overflow-hidden flex flex-col justify-center"
                     style={{
                       height: cardHeight !== null ? `${cardHeight}px` : undefined,
                       transition:

@@ -28,11 +28,11 @@ answerHigh: bring tea, settle in close, hope they look up
 answerMid: read your own book in the same room and let them surface
 answerLow: take the chance to call a friend you haven't spoken to in months
 answerLeast: head out for a walk and enjoy the empty house when you get back
-rorschachMost: ivy gripped tight around a railing
-rorschachHigh: two shapes pressed close at the seam
-rorschachMid: a blot folded snug down the middle
-rorschachLow: a boat drifting clear of the dock
-rorschachLeast: a single gull alone over open water
+rorschachMost: two hands clasped tight at the wrist
+rorschachHigh: two deer nuzzling head to head
+rorschachMid: a chandelier hung above a wide basin
+rorschachLow: two boats easing apart at the dock
+rorschachLeast: an antler shed and lying on its own
 ---
 
 Peri-Peri Mung Beans are the Bean Zodiac's most clingy — the ones who remember the anniversary of the small things, who send the unprompted photo of the cafe you went to once, who sit on the same end of the sofa every night because the orbit is the point. Their love is specific and durable and arrives in small, regular deposits whether you asked for them or not.

@@ -22,17 +22,17 @@ facetLowTitle: Tomato Paste, Hands in
 facetLow: The pan wants stirring; the room wants you in it, and you stay, both hands on the work.
 facetLeastTitle: Bean Into Sauce
 facetLeast: Tired, you sink into the nearest warm shoulder — no border between your evening and theirs.
-rorschachMost: a satellite hanging far above a lit coastline
-rorschachHigh: a hawk circling high over a distant field
-rorschachMid: two cranes standing apart on a flat shore
-rorschachLow: a crowd pressed shoulder to shoulder at a rail
-rorschachLeast: two bodies tangled close under one blanket
 question: You arrive at a long dinner where the seat at the head and a seat one chair back are both free. You...
 answerMost: take the one chair back, where you can watch the whole table
 answerHigh: take a quiet seat near the end, smile, settle in
 answerMid: take whichever is closest, don't think about it
 answerLow: take the head, lean in, pour wine
 answerLeast: pull a chair right next to whoever's loudest
+rorschachMost: an island and a curled boat far off its shore
+rorschachHigh: a sleeping bear and a coiled snake well apart
+rorschachMid: a haystack and a knotted rope across a gap
+rorschachLow: a hen and her chick pressed right up close
+rorschachLeast: two otters tangled tight in one warm heap
 ---
 
 Rendered Pinto Beans are the Bean Zodiac's most detached — present, warm, observant, and one chair back from the head of the table by preference. From there they can see who's lying and who's listening; they reply on Thursday to what arrived Tuesday, and what they send is better for the wait. The altitude is genuine and it usually serves them.

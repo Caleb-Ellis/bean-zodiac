@@ -28,11 +28,11 @@ answerHigh: suggest the two that cover everything and leave the rest in a neat s
 answerMid: ask what the weather's doing and let that do the cutting
 answerLow: fold all six and squeeze the zip
 answerLeast: add the seventh — the one they almost packed and talked themselves out of
-rorschachMost: a single line down an empty field
-rorschachHigh: one stone resting on bare sand
-rorschachMid: a vase with a couple of stems in it
-rorschachLow: a shelf crowded with mismatched jars
-rorschachLeast: a market stall heaped past the edges
+rorschachMost: two bare stones stacked on empty sand
+rorschachHigh: a head resting above a plain round body
+rorschachMid: two clouds drifting one above the other
+rorschachLow: two beetles tangled, legs spilling everywhere
+rorschachLeast: two crowded nests bristling with twigs and drips
 ---
 
 Pickled Butter Beans are the Bean Zodiac's most minimalist — and they will tell you, without quite saying it, that your kitchen has too much in it. They live in rooms that read as half-furnished to visitors and exactly right to them; they write the email in two lines where five were expected; they own one good knife, one good pan, and a quiet sense that anyone with more has not yet thought hard enough about the having.

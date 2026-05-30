@@ -28,11 +28,11 @@ answerHigh: let the riff run for ten minutes, then come back
 answerMid: notice the drift and pull yourself back with a sigh
 answerLow: close the new tab firmly and do one row
 answerLeast: finish the spreadsheet before lunch and forget the cell names
-rorschachMost: a teapot sprouting wings and a curly tail
-rorschachHigh: a cloud shaped like a dancing fox
-rorschachMid: a leaf drifting down off a branch
-rorschachLow: a plain square box on a flat floor
-rorschachLeast: a ruler laid straight along a margin
+rorschachMost: a firework bursting into a dozen curling sparks
+rorschachHigh: a sea anemone waving its tangle of tendrils
+rorschachMid: an ink splatter throwing out ragged spokes
+rorschachLow: a pinecone with its scales drawn shut
+rorschachLeast: a cannonball sitting still in the grass
 ---
 
 Funky Green Beans are the Bean Zodiac's most whimsical — the ones whose group-chat messages take three left turns before landing somewhere unexpectedly sweet. Their kitchen drawer holds a small ceramic owl, a half-finished poem on a napkin, and a recipe rewritten in colour. The world they walk through is denser and stranger than the one most people are in, and the people lucky enough to be in earshot get to visit it on weekday afternoons.

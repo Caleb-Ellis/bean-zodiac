@@ -28,11 +28,11 @@ answerHigh: queue the most-loved album and text them halfway through
 answerMid: save the name and put one song on tomorrow's commute
 answerLow: nod, mean to look them up, forget by dinner
 answerLeast: let it pass — you already have enough bands
-rorschachMost: two hands reaching across a table, almost touching
-rorschachHigh: a bonfire leaning hard in a coastal wind
-rorschachMid: a folded paper crane, one wing creased
-rorschachLow: a closed door at the end of a quiet hall
-rorschachLeast: a stone left out in a cold field, untouched
+rorschachMost: a bear mid-lunge, head lowered and charging
+rorschachHigh: a hound straining hard at the end of its leash
+rorschachMid: a continent sprawled across an old map
+rorschachLow: a bearskin rug spread flat on a floor
+rorschachLeast: a puddle dried to a flat brown stain
 ---
 
 Tempura Adzuki Beans are the Bean Zodiac's most passionate — the ones who arrive at the small dinner having read the host's novel twice and underlined the second one. They show up for what they love at full volume: the long voice note about the song, the unprompted gift that lands on a Tuesday, the toast that runs three minutes past where a toast usually stops. People remember being on the receiving end of one of these for years.

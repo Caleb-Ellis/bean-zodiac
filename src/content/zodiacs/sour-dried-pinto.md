@@ -28,11 +28,11 @@ answerHigh: name the strongest image and say nothing about the rest
 answerMid: ask what they were trying to do, listen, then say
 answerLow: tell them it moved you, mention one line you loved
 answerLeast: tell them it's beautiful, ask for a copy
-rorschachMost: a slice of lime pressed to the lips
-rorschachHigh: bare branches stripped by a dry wind
-rorschachMid: two pebbles balanced on a ledge
-rorschachLow: a quilt heaped loose across a chair
-rorschachLeast: a ripe fig split open and oozing
+rorschachMost: a dry seedpod bristling on a stalk
+rorschachHigh: a thistle head over a bare stem
+rorschachMid: an acorn sitting in its spiked cup
+rorschachLow: a peony nodding above its leaves
+rorschachLeast: a ripe fig bursting over its stem
 ---
 
 Dehydrated Pinto Beans are the Bean Zodiac's most astringent. The piece they show you has had every flattering sentence removed; the speech at the leaving do contains no superlatives and somehow lands harder for it; the room they live in is expressive without being decorated, every object earning the space it takes. People come to them for taste because they can be trusted not to lie upward.

@@ -22,17 +22,17 @@ facetLowTitle: The Chilli, Snapped Clean
 facetLow: You answer the door on the first knock; whatever the visitor brought, you take it as it comes.
 facetLeastTitle: Shells Before They Cool
 facetLeast: You make plans for Thursday on Wednesday night and Thursday arrives clean, with no Tuesday clinging to it.
-rorschachMost: a figure looking back over one shoulder at rain
-rorschachHigh: a low tide leaving dark wet sand behind
-rorschachMid: two herons standing in still gray water
-rorschachLow: a kite catching wind on a bright afternoon
-rorschachLeast: balloons let go all at once into open sky
 question: An old song comes on in the doorway between rooms and you feel it land. You...
 answerMost: stand still, let the whole song play, don't move until it's finished
 answerHigh: stop where you are and listen, eyes a little lost
 answerMid: keep walking, but slower, and hum the rest
 answerLow: notice it, smile a bit, keep going
 answerLeast: change the song
+rorschachMost: a willow drooping its long branches toward the ground
+rorschachHigh: a low cloud trailing rain straight down
+rorschachMid: a cloud with streamers hanging beneath it
+rorschachLow: a fountain throwing its water up in jets
+rorschachLeast: smoke from a fire rising fast into clear sky
 ---
 
 Rendered Mung Beans are the Bean Zodiac's most melancholy — not unhappy, exactly, but always carrying the weather of an earlier room with them into this one. They keep the chipped bowl and the dead pen. They reread old messages on purpose, slowly, the way someone walks a shoreline at low tide. The result is a person who, when present, is present with a depth most people can't quite match.

@@ -22,17 +22,17 @@ facetLowTitle: Sesame Settled Below
 facetLow: You let an afternoon pass on the steps, and the day does not bill you for it.
 facetLeastTitle: Pods Without Supervision
 facetLeast: The room around you drifts — papers, cups, a sweater on the chair — and your shoulders stay loose inside it.
-rorschachMost: a contraption sprouting gears and wings
-rorschachHigh: a bird building a nest from odd scraps
-rorschachMid: two clouds drifting past each other
-rorschachLow: a finished brick wall, every course the same
-rorschachLeast: an empty workbench wiped clean
 question: A team channel asks for a status update on the thing you've been working on. You have four half-finished pieces and one that's almost done. You...
 answerMost: post a wild new prototype nobody asked for
 answerHigh: share the almost-done piece with a sketch of what's next
 answerMid: post the almost-done piece, leave the rest unsaid
 answerLow: write a tidy summary and link the existing doc
 answerLeast: say "still going, more soon" and close the tab
+rorschachMost: a beetle rigged with extra feelers and hooks
+rorschachHigh: a crab fitting a new claw on
+rorschachMid: a curled shrimp with one trailing leg
+rorschachLow: a cat dozing curled into a comma
+rorschachLeast: a smooth hook hung on the wall
 ---
 
 Kimchi Edamame are the Bean Zodiac's most inventive — the friend whose workshop has four half-finished things on the bench and a fifth quietly becoming itself in a jar at the back. They don't pick a lane, exactly; they let several ferment in parallel and lift the lid on whichever one is ready, often producing the thing the room needed before the room knew to ask.

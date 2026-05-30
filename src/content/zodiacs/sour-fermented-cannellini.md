@@ -28,11 +28,11 @@ answerHigh: name one thing you genuinely loved before mentioning the salt
 answerMid: say it's lovely and reach quietly for the water
 answerLow: say it's lovely and mean most of it
 answerLeast: ask for the recipe
-rorschachMost: a chipped rim on an otherwise full bowl
-rorschachHigh: a frame hanging slightly off true
-rorschachMid: two leaves pressed flat in a book
-rorschachLow: a smooth pebble with no marks on it
-rorschachLeast: a perfect circle, evenly filled
+rorschachMost: an apple with one lump spoiling the round
+rorschachHigh: a potato with a sprout poking off-true
+rorschachMid: a stone with a smaller pebble beside it
+rorschachLow: a head turned away, one ear showing
+rorschachLeast: a round loaf, smooth and unbroken all over
 ---
 
 Pickled Cannellini Beans are the Bean Zodiac's most critical — they can taste the extra half-turn of salt, hear the off-rhyme in the second verse, and spot the misaligned shelf from the doorway. The instinct is not cruelty; it's a kind of fidelity. They want the thing to be as good as it was trying to be, and they assume, often correctly, that you would too if anyone bothered to tell you.

@@ -22,17 +22,17 @@ facetLowTitle: The Pot's Own Seasoning
 facetLow: You pay the bill the day the reminder arrives, and the lights still come on.
 facetLeastTitle: Salt by the Handful
 facetLeast: Receipts go in the drawer; the drawer goes unopened; the month closes anyway.
-rorschachMost: a row of jars in perfect alignment
-rorschachHigh: a folded cloth squared off at the corners
-rorschachMid: a smudge spread evenly down the middle
-rorschachLow: a stack of papers leaning out of true
-rorschachLeast: a drawer overflowing with crumpled receipts
 question: A volunteer rota for the shared kitchen has a gap on Thursday and no one is replying in the thread. You...
 answerMost: take Thursday, and also tidy up the rota while you're in there
 answerHigh: put your name down for Thursday and move on
 answerMid: wait a day to see if someone else steps up, then sign up if not
 answerLow: figure someone closer to Thursday will sort it
 answerLeast: mute the thread; rotas are not your problem this month
+rorschachMost: a loaf scored in even rows before baking
+rorschachHigh: a bar of soap worn smooth and squared
+rorschachMid: a river stone rounded by the current
+rorschachLow: a potato sprouting knobs at odd angles
+rorschachLeast: a clod of mud flung against a wall
 ---
 
 Dashi Cannellini Beans are the Bean Zodiac's most conscientious — they do things properly because proper is the point. They keep the spreadsheet no one asked for, answer emails in the order the inbox actually received them, and put back the two mugs that weren't theirs before leaving the kitchen. Three colleagues quietly depend on systems these Beans built on a Sunday and never mentioned.

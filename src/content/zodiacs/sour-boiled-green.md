@@ -28,11 +28,11 @@ answerHigh: shift seats, reorder, keep the table but rearrange it
 answerMid: stay, but check your phone twice without reading it
 answerLow: settle further in and order another round
 answerLeast: take off your jacket and stop watching the door
-rorschachMost: a flock scattering off a wire at once
-rorschachHigh: a flag snapping in a hard wind
-rorschachMid: a bat hanging from a branch
-rorschachLow: a cat curled tight on a windowsill
-rorschachLeast: a stone settled at the bottom of a pond
+rorschachMost: two flocks bursting up off the field at once
+rorschachHigh: two storm clouds boiling over each other
+rorschachMid: two sheep grazing one above the other
+rorschachLow: two cats dozing, one slumped over the other
+rorschachLeast: two old carp settled deep in the pond bed
 ---
 
 Brined Green Beans are the Bean Zodiac's most restless. Sitting still, for them, is an active project — a slow accumulation of small adjustments to make the chair, the lamp, the plan, the city tolerable for another hour. The upside is that they notice when a thing has gone stale before anyone else does; the room they're in tends to get quietly better, the email gets rewritten one more time and the rewrite is the one that lands.

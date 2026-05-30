@@ -28,11 +28,11 @@ answerHigh: name something small and slightly self-mocking
 answerMid: answer half-straight, half-wry
 answerLow: name the real thing with a small qualifier
 answerLeast: name the real thing and hold their eye
-rorschachMost: a mouth twisted into a crooked grin
-rorschachHigh: a mask with one eyebrow raised
-rorschachMid: two curved horns turned outward
-rorschachLow: an open hand offered across a table
-rorschachLeast: a child's drawing of a plain round sun
+rorschachMost: two profiles smirking sidelong at each other
+rorschachHigh: two masks, one brow cocked across the gap
+rorschachMid: two faces turned toward a narrow gap
+rorschachLow: two friends leaning in, close to a kiss
+rorschachLeast: two children's faces beaming across a table
 ---
 
 Cured Pinto Beans are the Bean Zodiac's most sardonic — the reply has a small twist sewn into the hem before it leaves the mouth. They are the friend whose compliment you have to unwrap twice on the walk home, the colleague whose group-chat line ends the topic by gently angling it. There is real intelligence in the deflection; the people around them are made quicker by having to keep up.

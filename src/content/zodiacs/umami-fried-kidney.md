@@ -28,11 +28,11 @@ answerHigh: mention the coffee ring, leave the bent corners alone
 answerMid: notice it, file it away, lend the next book more reluctantly
 answerLow: thank them and put it on the shelf as-is
 answerLeast: not notice until weeks later, and then not mind
-rorschachMost: a ledger column ruled to the last line
-rorschachHigh: a row of jars labelled in matching ink
-rorschachMid: a scarf draped over the back of a chair
-rorschachLow: a desk with papers slid into a loose heap
-rorschachLeast: a coffee ring soaking through a stack of mail
+rorschachMost: a wax seal pressed crisp on a letter
+rorschachHigh: a shield polished clean to its rim
+rorschachMid: a fat beetle resting on a leaf
+rorschachLow: a sponge left dripping at its edge
+rorschachLeast: an ink stain spreading, droplets flecking the floor
 ---
 
 Tempura Kidney Beans are the Bean Zodiac's most scrupulous — the ones who set a fork down when a story turns mean, who return the book with a note about the page that was dog-eared, who answer the group thread's polite avoidance with the sentence everyone has been ducking. They keep their own ledger close. The receipts are paid the same week, exact, and the apology, when owed, arrives whole.

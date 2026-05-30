@@ -28,11 +28,11 @@ answerHigh: name your objection clearly and let it sit
 answerMid: ask the one question that surfaces the problem
 answerLow: hedge a little, hope someone else raises it
 answerLeast: nod along and bring it up never
-rorschachMost: a flag planted upright in hard ground
-rorschachHigh: an exclamation mark thrown across the page
-rorschachMid: two pinecones balanced on a branch
-rorschachLow: a reed bending low in the current
-rorschachLeast: a question mark dissolving into smoke
+rorschachMost: a bulldog squared up on planted legs
+rorschachHigh: an oak holding its ground in wind
+rorschachMid: a toadstool with a wide low cap
+rorschachLow: a willow drooping over the water
+rorschachLeast: a melting snowman sliding off its base
 ---
 
 Scorched Cannellini Beans are the Bean Zodiac's most assertive. In a circle of murmured maybes, one of these Beans will name the thing plainly and not walk it back; the apology is paid in the first sentence, the answer is one clean line with no weather padded onto the front. There's a real ease in being near someone who simply says what they think.

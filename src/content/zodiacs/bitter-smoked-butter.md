@@ -28,11 +28,11 @@ answerHigh: notice the email is still blank and stay with the better thought
 answerMid: write half the email, drift, write the other half
 answerLow: finish the email and jot the lost thread on a sticky note
 answerLeast: send the email, archive the thread, start the next one
-rorschachMost: a balloon drifting loose over open water
-rorschachHigh: a feather caught in a slow current
-rorschachMid: two clouds passing across a fold
-rorschachLow: a boat tied fast to a stone pier
-rorschachLeast: an anchor sunk deep in the mud
+rorschachMost: a jellyfish trailing loose through open water
+rorschachHigh: a kite let go in the wind
+rorschachMid: a cloud spreading wide over a hill
+rorschachLow: a manta ray holding against the current
+rorschachLeast: an anchor dug deep and holding in the silt
 ---
 
 Charcoal Butter Beans are the Bean Zodiac's most adrift, and the calmest company you'll ever lose the thread of. Sitting with one feels like sitting near water; the temperature in the room drops a degree just from their being there. They notice the light, the long view, the thing nobody else has slowed down enough to see.

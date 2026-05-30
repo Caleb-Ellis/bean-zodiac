@@ -28,11 +28,11 @@ answerHigh: write the whole concept up that night and send it to the one person 
 answerMid: tell someone over the weekend and see if they push back or push in
 answerLow: keep the idea in a note and walk past it again next week
 answerLeast: enjoy the thought for the length of the block and let it go
-rorschachMost: sparks scattering off a struck flint
-rorschachHigh: a rocket lifting on a cone of flame
-rorschachMid: two balloons knocking against a ceiling
-rorschachLow: a single seed half-buried in soil
-rorschachLeast: an old oak with roots sunk deep and still
+rorschachMost: sparks flying off two struck anvils
+rorschachHigh: two bonfires throwing embers upward
+rorschachMid: two spiky caterpillars inching along a leaf
+rorschachLow: two low islands settling into still water
+rorschachLeast: two sleeping hills under a heavy quiet
 ---
 
 Scorched Chickpeas are the Bean Zodiac's most entrepreneurial. They start the project Friday night, name it Saturday, tell six people Sunday — and the gap they spotted was real, the instinct sound, the energy genuinely infectious. Ask one what they do and you get a list, never a sentence, and the list is alive.

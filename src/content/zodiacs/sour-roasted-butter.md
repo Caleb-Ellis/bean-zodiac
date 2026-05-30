@@ -22,17 +22,17 @@ facetLowTitle: Garlic in Its Papers
 facetLow: You hold the draft back another week, file unshared, the rosemary scenting only your own kitchen until the shape of the thing satisfies you.
 facetLeastTitle: The Tray Under Foil
 facetLeast: Sharp edges turned to the wall, the lemon tucked behind the bread, the room arranged so nothing surprises anyone.
-rorschachMost: a puppy sitting square in an open doorway
-rorschachHigh: a kite with its string trailing loose
-rorschachMid: two pinecones balanced on a branch
-rorschachLow: a fox watching from the edge of a field
-rorschachLeast: a spider folded at the rim of its web
 question: A text arrives that reads odd — could be sharp, could be nothing. You...
 answerMost: take it at the surface and reply in the same tense
 answerHigh: answer the literal question and move on with your evening
 answerMid: read it twice, then ask a flatmate what they make of it
 answerLow: scroll up to last week's messages looking for a pattern
 answerLeast: draft three replies, send none, and let it sit until morning
+rorschachMost: a bear cub sitting plump, open paw beside it
+rorschachHigh: an apple with its stem, hand reaching for it
+rorschachMid: a teapot and an open mitten side by side
+rorschachLow: a fox haunched, one paw raised mid-reach
+rorschachLeast: a crab tucked behind its own raised claw
 ---
 
 Chimichurri Butter Beans are the Bean Zodiac's most guileless — they answer the question that was asked, in the tense it was asked in. No second meaning is being mined for, no clever rephrase is waiting in drafts. A message lands; a reply leaves; the day moves on. People who have spent years decoding subtext find them disarming, then restful.

@@ -28,11 +28,11 @@ answerHigh: catch their eye and pull them into the conversation already happenin
 answerMid: smile across the table and trust someone closer to handle it
 answerLow: tell yourself someone else will get to them and refill your glass
 answerLeast: stay in your own conversation and let the evening sort itself out
-rorschachMost: a coat draped over someone else's cold shoulders
-rorschachHigh: two hands passing a full cup across a gap
-rorschachMid: a folded napkin set beside a plate
-rorschachLow: a closed umbrella left dripping in the hall
-rorschachLeast: a phone face-down beside an unread note
+rorschachMost: a ladle tipped to fill a waiting cup
+rorschachHigh: a hand reaching across to a full bowl
+rorschachMid: a pear resting beside a leafy sprig
+rorschachLow: a teapot turned away from an empty cup
+rorschachLeast: a watering can set down beside dry roots
 ---
 
 Glazed Edamame are the Bean Zodiac's most considerate — the ones who read the email twice before sending, once for what it says and once for how it will land. At the housewarming they find the lightbulb that needs changing and change it. They answer the message they owe before the one they want to.

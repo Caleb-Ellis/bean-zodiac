@@ -28,11 +28,11 @@ answerHigh: lay out the actual history, briefly, with one source
 answerMid: offer the correction and let the conversation move on
 answerLow: nod and add the one detail that quietly reframes it
 answerLeast: agree warmly and keep what you know to yourself
-rorschachMost: an open book with notes crammed in every margin
-rorschachHigh: a magnifying glass laid over a yellowed map
-rorschachMid: two pages flapping in a half-open book
-rorschachLow: a hand waving the whole thing aside
-rorschachLeast: a shrug, the page closed and pushed away
+rorschachMost: two heavy books stacked, a marker pinched between them
+rorschachHigh: a cairn of two stones balanced for the road
+rorschachMid: an hourglass narrow at its waist
+rorschachLow: a snowman half-collapsed, the middle giving way
+rorschachLeast: two scoops of ash about to spill apart
 ---
 
 Cultured Cannellini Beans are the Bean Zodiac's most scholarly — the ones who answer a simple question by first establishing what's actually known about it. They'll follow a footnote into its footnote and come back up holding something nobody asked for and everybody's glad to have. When they finally render a verdict it's been checked, sourced, and sat with; they don't guess, and it shows.

@@ -28,11 +28,11 @@ answerHigh: rehearse the conversation with them tonight
 answerMid: ask what kind of support they want and follow their lead
 answerLow: listen and let them figure out how they want to play it
 answerLeast: trust they've got it and ask how it went after
-rorschachMost: a hen with both wings spread over chicks
-rorschachHigh: two cupped hands shielding a flame
-rorschachMid: a pair of mittens drying by a stove
-rorschachLow: an open gate left swinging on its hinge
-rorschachLeast: a fledgling alone at the edge of a nest
+rorschachMost: a snail drawn in, horns raised to test the air
+rorschachHigh: a hare hunched low, both ears stood up tall
+rorschachMid: a beetle with two long feelers reaching up
+rorschachLow: a moth at rest, antennae loose and drooping
+rorschachLeast: an empty cocoon split open at the top
 ---
 
 Caramelised Kidney Beans are the Bean Zodiac's most protective — the ones whose hand is already on your back when you step into the cold. They cook the double batch, drive the late lift, screen the message before forwarding it on. The care is warm, never hovering; you only notice afterwards how much friction they absorbed on your behalf.

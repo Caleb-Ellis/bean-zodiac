@@ -28,11 +28,11 @@ answerHigh: nod, and notice the dust they didn't see
 answerMid: thank them and steer to the kettle
 answerLow: laugh and say it was on the pavement
 answerLeast: insist they take it, you can find another
-rorschachMost: a snowflake under a jeweler's loupe
-rorschachHigh: two combs with every tooth aligned
-rorschachMid: a fern uncurling in still air
-rorschachLow: a sketch with the eraser marks left in
-rorschachLeast: a fistful of pebbles spilled on a path
+rorschachMost: a heart cut clean from a garnet
+rorschachHigh: an ace of spades pressed in silk
+rorschachMid: an apple with two leaves at the stem
+rorschachLow: a bat hanging with one wing askew
+rorschachLeast: a lump of clay pinched into a heart
 ---
 
 Dehydrated Cannellini Beans are the Bean Zodiac's most exquisite. The shelves are arranged, the playlist was decided over weeks, and the single lamp in the corner is the exact lamp. When they cook for you the plate arrives slightly too perfect, garnished with the herb they grew on purpose, and you eat it more carefully than you'd planned to.

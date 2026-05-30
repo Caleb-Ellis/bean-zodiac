@@ -28,11 +28,11 @@ answerHigh: try it on, then buy it
 answerMid: take a photo and tell yourself you'll come back tomorrow
 answerLow: note the shop, leave, look up the brand online tonight
 answerLeast: keep walking and forget about it by the next block
-rorschachMost: a spark already leaping off the wire
-rorschachHigh: a dog bolting the instant the gate cracks open
-rorschachMid: a swing hanging still from a tree branch
-rorschachLow: a runner crouched, waiting for the gun
-rorschachLeast: a chess piece held above the board, not yet placed
+rorschachMost: a toad already springing off its haunches
+rorschachHigh: a crab scuttling sideways with claws flung wide
+rorschachMid: a knotted root dug out of the ground
+rorschachLow: a cat settling slowly into a loaf
+rorschachLeast: an old toad dug deep into the cool mud
 ---
 
 Agrodolce Green Beans are the Bean Zodiac's most impulsive — the gap between idea and act, on a good day, is a fraction of a second. The thought "I should call them" coincides with the phone already ringing. The decision to redo the bedroom happens during, not before, the rearrangement. They make plans by accident and keep them by momentum, and roughly half of what's interesting in their life arrived this way.

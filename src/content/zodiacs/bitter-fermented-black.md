@@ -28,11 +28,11 @@ answerHigh: write the sentence in a notebook and close the notebook; it can keep
 answerMid: text one trusted person a line about it and let them answer or not
 answerLow: name it out loud to the empty room, hear how thin it sounds, and put it down
 answerLeast: shake it off, put on music, cook something loud
-rorschachMost: a sealed jar fogged dark from the inside
-rorschachHigh: a closed door with light under the gap
-rorschachMid: two halves of a cracked geode
-rorschachLow: a window thrown open onto a bright street
-rorschachLeast: a bell mid-swing, sound already let out
+rorschachMost: a stoppered inkwell, dark filling the glass
+rorschachHigh: a toad hunched low and holding still
+rorschachMid: a squat clay jar with a little lid
+rorschachLow: a kettle just starting to let off steam
+rorschachLeast: a storm cloud breaking open into rain
 ---
 
 Cultured Black Beans are the Bean Zodiac's most brooding — they take a question inward and don't surface with it until it's worth surfacing. Ask one how they really feel about something and you get a long pause, then nothing, then a paragraph eleven days later that's so exactly right you forgive the wait. They don't speak to think; they think, fully, and then speak once.

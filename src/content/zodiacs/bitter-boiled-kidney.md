@@ -28,11 +28,11 @@ answerHigh: say yes and quietly rearrange two things to make room
 answerMid: ask what's going on before you commit
 answerLow: offer something smaller than what they asked for
 answerLeast: wish them well and stay out of it
-rorschachMost: a dog waiting at a gate long after dark
-rorschachHigh: two roots grown around the same stone
-rorschachMid: a boat moored in a still harbour
-rorschachLow: a kite with its string gone slack
-rorschachLeast: a coat left on a hook in an empty house
+rorschachMost: a dog sitting up close beside its owner
+rorschachHigh: a sentry keeping watch over a wayside stone
+rorschachMid: a tall jug next to a smaller round bowl
+rorschachLow: a traveller walking off from the stone behind
+rorschachLeast: two boats drifting to opposite banks of a river
 ---
 
 Infused Kidney Beans are the Bean Zodiac's most loyal — the one still answering a friend's calls a decade after everyone else quietly stopped, keeping the standing dinner with the person who cancels half the time and setting the table anyway. When they choose you, they stay; they remember which winter you lost someone, they show up for the unglamorous hour, and the hours it costs them are not hours they count. To be kept by them is one of the surer things a person can have.

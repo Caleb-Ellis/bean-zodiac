@@ -22,17 +22,17 @@ facetLowTitle: The Receipt Kept Out
 facetLow: Sweetness will not loosen a wrong charge. You keep the tone level, the figure exact until the line is corrected.
 facetLeastTitle: The Room as Arranged
 facetLeast: Visitors learn the chair that is yours; nothing slides over to make the soft accommodation.
-rorschachMost: two figures clinking glasses across a table
-rorschachHigh: a path that bends to follow the river
-rorschachMid: a coat hung neatly on a peg
-rorschachLow: two rams locking horns on a ridge
-rorschachLeast: a wall built straight across the road
 question: The film you didn't really want to see is now playing on three screens and your friends are picking the time. You...
 answerMost: pick the time that suits everyone else and sound pleased about it
 answerHigh: go along with the consensus, easy enough
 answerMid: mention you're flexible but the later one would be better for you
 answerLow: say honestly you weren't keen and suggest a different film
 answerLeast: bow out — you didn't want to see it anyway
+rorschachMost: a figure with both arms thrown open wide
+rorschachHigh: two birds leaning in to touch beaks
+rorschachMid: two clouds stacked above a low ridge
+rorschachLow: a bull lowering its head, horns out
+rorschachLeast: two stags backed apart, antlers raised
 ---
 
 Candied Chickpeas are the Bean Zodiac's most agreeable — the easy yes at the end of the long thread, the one who eats whatever's on the menu and means it, the friend who can be slotted into any plan at any hour and arrives glad. The warmth is real: they like the people, they like the going, they like that the night is happening at all.

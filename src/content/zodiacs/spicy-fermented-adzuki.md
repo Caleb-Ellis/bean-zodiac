@@ -22,17 +22,17 @@ facetLowTitle: The Paste on Its Own Shelf
 facetLow: You keep rooms calm, move things gently, prefer the air a place already has.
 facetLeastTitle: Tofu Without Seasoning
 facetLeast: You smooth what others sharpened, write the soft reply, take the heat out before it spreads.
-rorschachMost: a stick jammed into a hornet's nest
-rorschachHigh: a hand flicking the rim of a full glass
-rorschachMid: two moths circling the same porch light
-rorschachLow: a cat asleep across a warm windowsill
-rorschachLeast: a still pond no wind has touched
 question: A friend's group chat has settled into a polite truce after a fight you weren't part of. Everyone's typing carefully. You...
 answerMost: drop the half-sentence that re-opens the whole thing
 answerHigh: name the thing nobody wants named, gently
 answerMid: ask one honest question and see what surfaces
 answerLow: send the kind reply that lets it stay shut
 answerLeast: change the subject to something soft
+rorschachMost: a rock dropped into water, mid-splash
+rorschachHigh: a fist that has just struck a wall
+rorschachMid: a squid drifting with one trailing arm
+rorschachLow: a cat curled with its tail wrapped round
+rorschachLeast: a soft loaf resting on the board
 ---
 
 Kimchi Adzuki Beans are the Bean Zodiac's most provocative — the ones who slide a strange sentence into a settled room and watch the furniture move. They've been turning it over in the dark for days; by the time it lands at dinner it sounds offhand, even mild, and only later does anyone realise the conversation took a corner.

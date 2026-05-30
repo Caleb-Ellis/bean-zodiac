@@ -96,11 +96,11 @@ export type ZodiacSchema = {
   answerMid: string;
   answerLow: string;
   answerLeast: string;
-  rorschachMost?: string;
-  rorschachHigh?: string;
-  rorschachMid?: string;
-  rorschachLow?: string;
-  rorschachLeast?: string;
+  rorschachMost: string;
+  rorschachHigh: string;
+  rorschachMid: string;
+  rorschachLow: string;
+  rorschachLeast: string;
 };
 
 export type Bean = BeanSchema & { content: string };

@@ -28,11 +28,11 @@ answerHigh: say "actually it's £18.40" and leave the rest to them
 answerMid: pay the twenty but quietly note who covered what
 answerLow: pay the twenty and forget about it before the bus arrives
 answerLeast: pay extra so the next person doesn't have to think
-rorschachMost: a ruler laid flat against a straight edge
-rorschachHigh: a row of teeth in a tight zipper
-rorschachMid: a butterfly pinned open in a case
-rorschachLow: a watercolour bleeding past its outline
-rorschachLeast: a puddle spreading with no shape at all
+rorschachMost: a coastline charted down to each offshore rock
+rorschachHigh: a crab, one claw measured against the other
+rorschachMid: an island with a few small skerries off it
+rorschachLow: an inkblot still creeping past its own edge
+rorschachLeast: a spilled drink spreading wherever it likes
 ---
 
 Brined Cannellini Beans are the Bean Zodiac's most exacting. The standard does not move when the room gets loud or when everyone else has agreed something close enough is close enough; the comma in the wrong place at lunchtime is still in the wrong place at six. There is something steadying about being near them — small things that other people had stopped noticing get quietly put right, and the work they touch reads, afterwards, as having been thought about.

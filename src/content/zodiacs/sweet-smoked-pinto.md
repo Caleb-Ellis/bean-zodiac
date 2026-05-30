@@ -22,17 +22,17 @@ facetLowTitle: Tomato Whole in the Broth
 facetLow: You arrive when you said you would, sit where you said you'd sit, and the room knows exactly who is in it.
 facetLeastTitle: The Pot, Lid Off
 facetLeast: You return calls the day they come in, sign your name in full, and never make anyone guess whether you meant it.
-rorschachMost: a staircase melting into a pool of cloud
-rorschachHigh: a clock with its hands drifting off the face
-rorschachMid: two whales floating above a forest
-rorschachLow: a chair, a table, a window, plainly drawn
-rorschachLeast: a receipt pinned under a glass on a desk
 question: A long, vivid dream you can still feel at breakfast, and someone at the table asks what it was about. You...
 answerMost: tell it slow, with the strange light still on it, in the order the dream had
 answerHigh: name the one image that's still hanging around the kitchen
 answerMid: give them the rough shape and let the rest dissolve into the toast
 answerLow: say "weird, can't really remember" and reach for the kettle
 answerLeast: say "I never dream" and have already half-forgotten you did
+rorschachMost: a candle melting, its flame an eye gone soft
+rorschachHigh: an antlered head dissolving at the edges
+rorschachMid: a stag's head with one eye showing
+rorschachLow: a deer skull set plainly on a shelf
+rorschachLeast: a horned helmet bolted to a wooden stand
 ---
 
 Barbecued Pinto Beans are the Bean Zodiac's most dreamlike — and the line they dropped at supper is still being quoted on the porch hours after they've gone home. The voice note arrives at midnight, trails off mid-sentence, lands like an image rather than a message; the post-it on the cookbook is read a year later and held up to the light.

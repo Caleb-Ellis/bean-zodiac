@@ -22,17 +22,17 @@ facetLowTitle: The Bean That Keeps Its Skin
 facetLow: You sit through the whole film without once redecorating the apartment in your head, and the credits feel earned.
 facetLeastTitle: The Unsweetened Cup
 facetLeast: You strip the guest room down to a made bed and a lamp, and call the room finished.
-rorschachMost: clouds drifting into the shape of a face
-rorschachHigh: smoke curling up from a snuffed candle
-rorschachMid: a scarf hung over the back of a chair
-rorschachLow: a surveyor's stake hammered into firm ground
-rorschachLeast: a brick set square into a finished wall
 question: A long train journey, the window seat, no signal. The tea trolley is forty minutes away. You...
 answerMost: build the whole next chapter of an imagined life in the reflection and miss the trolley when it comes
 answerHigh: watch one field go by and start writing a letter in your head to someone you haven't seen in years
 answerMid: drift for a while, then open the book you brought
 answerLow: read the book straight through, glancing up at stations
 answerLeast: get the laptop out and clear the inbox while the connection holds
+rorschachMost: a cloud drifting apart at its lower edge
+rorschachHigh: a jellyfish trailing two thin filaments
+rorschachMid: a hill range tapering to a path
+rorschachLow: a tent pitched firm on two poles
+rorschachLeast: an anvil planted square on its block
 ---
 
 Candied Pinto Beans are the Bean Zodiac's most daydreamy — the one whose tea has gone cold twice because they were three rooms away in their head, rearranging the imaginary kitchen of a flat they may or may not one day live in. The drift is warm and richly furnished; whole afternoons disappear into the soft milk of a half-thought, and the bean emerges pleased, a little vague, holding the seed of something good.

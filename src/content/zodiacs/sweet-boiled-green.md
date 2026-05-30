@@ -22,17 +22,17 @@ facetLowTitle: The Slow Steep
 facetLow: You finish what's on the cutting board before reaching for the next thing, and you do not hurry the simmer for company.
 facetLeastTitle: The Bill Split Clean
 facetLeast: You return the exact change, file the receipt, and decline the detour someone offers on the walk home.
-rorschachMost: a puppy tumbling after a bouncing ball
-rorschachHigh: a pinwheel spinning on a windy lawn
-rorschachMid: a hat resting on a coat stand
-rorschachLow: a judge's gavel laid on a bench
-rorschachLeast: a slab of granite under grey sky
 question: A serious conversation at dinner has gone quiet and slightly heavy. You...
 answerMost: lob the perfect dumb joke and reset the room
 answerHigh: tell the loosely related story that lifts the mood
 answerMid: top up the wine and let someone else speak next
 answerLow: stay quiet and let the silence do its work
 answerLeast: ask the harder follow-up question
+rorschachMost: a rabbit caught mid-hop, ears flying
+rorschachHigh: a sparrow lifting off, one wing up
+rorschachMid: a sun hat tipped on its side
+rorschachLow: a sleeping cat curled in a heap
+rorschachLeast: a sandbag dropped flat on the floor
 ---
 
 Candied Green Beans are the Bean Zodiac's most playful — the one who pulls the dinner out of its dip with a single ridiculous aside, smuggles a tiny joke into the slide deck, and keeps a small running gag going with a friend for nine years without anyone ever explaining it to a third party. The lightness doesn't tire; it's their working temperature, not a performance.

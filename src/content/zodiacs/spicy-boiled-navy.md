@@ -22,17 +22,17 @@ facetLowTitle: Seeds Across the Counter
 facetLow: Strangers in the kitchen by ten, sleeves up, stirring your pot, learning the spice level by tasting.
 facetLeastTitle: Broth Before It Thickens
 facetLeast: You hand over the last bowl, the recipe, the pot itself, and walk home empty-handed in the dark.
-rorschachMost: a locked vault set into a thick wall
-rorschachHigh: a clam shut tight around its shell
-rorschachMid: a gate latched across a garden path
-rorschachLow: an open window with the curtains drawn back
-rorschachLeast: a wide door thrown open to the street
 question: A new neighbour knocks, friendly, asking if you'd like to come round Friday. You...
 answerMost: take the name, say "maybe next month," close the door gently
 answerHigh: thank them, say you'll check the calendar, mean it noncommittally
 answerMid: say yes for a short visit and leave a clean exit
 answerLow: say yes, bring something, plan to stay an hour
 answerLeast: invite them in now and pour two drinks
+rorschachMost: two halves of a walnut clamped shut
+rorschachHigh: a clam holding its shell barely parted
+rorschachMid: two boulders with a thin fissure between
+rorschachLow: a locket easing open along its seam
+rorschachLeast: two shell halves fallen wide apart
 ---
 
 Braised Navy Beans are the Bean Zodiac's most guarded — coat taken, name remembered, no second question offered until a season has passed. The intensity is real and not absent; it's lidded, kept at the back of the stove, and the few who are eventually handed a bowl find the broth has been thickening for years.

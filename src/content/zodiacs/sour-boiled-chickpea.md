@@ -28,11 +28,11 @@ answerHigh: shrug, follow along, and order a drink on arrival
 answerMid: go for one round and see how you feel
 answerLow: say you'll catch up after dinner, alone
 answerLeast: peel off at the next stop and keep the original plan
-rorschachMost: a ribbon caught mid-twist in the wind
-rorschachHigh: a willow bent low over water
-rorschachMid: a kite seen from below
-rorschachLow: a fence post sunk in concrete
-rorschachLeast: an iron bar that won't give an inch
+rorschachMost: two cats curled to fit around each other
+rorschachHigh: two clouds leaning together over a gap
+rorschachMid: two islands with a channel between them
+rorschachLow: a set of large fish bones
+rorschachLeast: a heavy locked chest and an anvil
 ---
 
 Brined Chickpeas are the Bean Zodiac's most flexible. A plan changes at the door and they change with it, not grudgingly but actually — the new evening becomes the one they wanted, and within ten minutes nobody could tell it wasn't. They are easy to travel with, easy to work with, the friend who can be talked into the second restaurant without making anyone feel like they're being talked into it.

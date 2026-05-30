@@ -22,17 +22,17 @@ facetLowTitle: The Wilting Leaf
 facetLow: Strangers reach the tender part of a conversation within the hour, and you let them.
 facetLeastTitle: The Give in the Skin
 facetLeast: Skin, mood, sleep — all yield to the room's weather; you have never built a callus that lasted.
-rorschachMost: a beetle's lacquered back, seamless
-rorschachHigh: a shield dented but never pierced
-rorschachMid: a walnut closed around its shell
-rorschachLow: a peach bruised soft on one side
-rorschachLeast: an oyster prised open, glistening
 question: Bad news lands in your inbox before a meeting you can't move. You...
 answerMost: walk into the meeting and don't mention it
 answerHigh: file it away, deal with it tonight
 answerMid: read it once, close the tab, carry on
 answerLow: tell the person next to you before going in
 answerLeast: cancel the meeting and call someone
+rorschachMost: a sealed stone beside a closed shell
+rorschachHigh: a smooth nut and a dented helmet
+rorschachMid: a pebble and a spiky chestnut husk
+rorschachLow: a cracked pod beside a nut split open
+rorschachLeast: a pebble and a burst shell scattering seeds
 ---
 
 Desiccated Kidney Beans are the Bean Zodiac's most hardened — they have been through the thing that would flatten most people and came out denser for it, calm in the kind of bad week that sends everyone else into a spiral. They take the news standing up. Nothing surprises them anymore, and there's a real peace in that.

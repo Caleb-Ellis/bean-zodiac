@@ -28,11 +28,11 @@ answerHigh: stand a while, mark the address, plan to come back
 answerMid: take a photo, keep walking, think about it for days
 answerLow: glance, file it under "huh," and turn the corner
 answerLeast: keep your pace; the bus comes in four minutes
-rorschachMost: a door opening onto a starless sky
-rorschachHigh: a strange creature half-formed from the smoke
-rorschachMid: two shapes meeting along a fold
-rorschachLow: a coffee mug left on a desk
-rorschachLeast: a bus timetable pinned to a wall
+rorschachMost: a spiked crown left by no earthly king
+rorschachHigh: a sea urchin lifted from a strange tide
+rorschachMid: a burr caught full of broken thorns
+rorschachLow: a thistle head gone to seed
+rorschachLeast: a chestnut husk split on the lawn
 ---
 
 Charcoal Fava Beans are the Bean Zodiac's most otherworldly. They answer the question nobody asked, and the asker startles to find it was the question they meant. They keep a stone and a postcard from a town they've never named, take the long way home past the streetlight everyone else turns at, and come back from the walk with something genuinely new.

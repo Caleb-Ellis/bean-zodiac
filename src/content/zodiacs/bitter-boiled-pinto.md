@@ -28,11 +28,11 @@ answerHigh: catch the three things you know will be wrong
 answerMid: skim it and flag whatever jumps out
 answerLow: glance at the first and last slides
 answerLeast: tell them it looks great and hand it back
-rorschachMost: a single loose thread in a vast curtain
-rorschachHigh: one cracked tile counted among a hundred whole ones
-rorschachMid: frost spreading across a windowpane
-rorschachLow: a forest with no single tree in it
-rorschachLeast: a blur of fields seen from a fast train
+rorschachMost: one tiny speck perched atop a vast bloom
+rorschachHigh: a flower counted petal by lobed petal
+rorschachMid: a many-lobed blossom with a fleck above it
+rorschachLow: a clump of petals blurring into one mass
+rorschachLeast: a single round splat, no edge picked out
 ---
 
 Infused Pinto Beans are the Bean Zodiac's most detail-oriented — the one who hears the rattle in the engine everyone else stopped noticing, who finds the error on line four while the cashier waits. Nothing slips past them, and the work that passes through their hands is clean in the small places most people never check. When it matters that a thing be exactly right, they're who you want holding it.

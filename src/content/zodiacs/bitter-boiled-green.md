@@ -28,11 +28,11 @@ answerHigh: ask the obvious follow-up and then a sharper one
 answerMid: ask one polite question and let it go
 answerLow: nod and circle back to the food
 answerLeast: change the subject so they don't feel cornered
-rorschachMost: a box opened to a smaller box opened inside
-rorschachHigh: a loose thread pulled, the hem unravelling further
-rorschachMid: a wren tilting its head at a sound
-rorschachLow: a sealed letter set aside unopened
-rorschachLeast: a shut door nobody is looking at
+rorschachMost: a shell coiling inward to a hollow at its centre
+rorschachHigh: an eye peering into a spiral opening
+rorschachMid: a round stone with a curled notch in it
+rorschachLow: a snail tucked back into its sealed shell
+rorschachLeast: a closed fist, the hollow folded shut inside
 ---
 
 Infused Green Beans are the Bean Zodiac's most inquisitive — the one who asks the second question, the real one under the polite first one, and follows the thread until it arrives somewhere nobody expected. They read the source instead of the summary, notice the thing the room had agreed to leave alone, and make everyone around them a little more curious than they were. A conversation with them goes somewhere.

@@ -22,17 +22,17 @@ facetLowTitle: Pods in the Colander
 facetLow: You step over the unfinished task, take the long walk, and come back to find the kitchen has waited.
 facetLeastTitle: Heat Across the Tongue
 facetLeast: Bed by nine, pot left soaking; the body's verdict outweighs whatever was half-done.
-rorschachMost: an ox straining against a loaded plow
-rorschachHigh: ants hauling crumbs in a long line
-rorschachMid: a windmill turning over a flat field
-rorschachLow: a hammock strung between two trees
-rorschachLeast: a cat asleep in a patch of sun
 question: It's Sunday afternoon. The week's list is already done. The light through the window is good. You...
 answerMost: start on next week's, just to be ahead
 answerHigh: tidy one more thing, the small project you've been meaning to
 answerMid: read for a while, then drift back to something useful
 answerLow: do nothing on purpose and let the afternoon go
 answerLeast: nap, and feel no debt about it
+rorschachMost: a boulder split in two with chips flying
+rorschachHigh: two quarry faces worked back from a seam
+rorschachMid: two boulders flanking a narrow gorge
+rorschachLow: two low hills drowsing under scattered clouds
+rorschachLeast: two islands adrift in a calm channel
 ---
 
 Braised Edamame are the Bean Zodiac's most hardworking — already at the second pot by the hour most people surface for coffee, ferrying bowls past their own seat at the table because someone has to. The list shrinks behind them in a way that looks effortless and isn't; they simply decided, long before the day started, that it would.

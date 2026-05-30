@@ -28,11 +28,11 @@ answerHigh: drop off something thoughtful you made yourself
 answerMid: send a long message and ask if they want company
 answerLow: ask what would actually help and do that thing
 answerLeast: text once to say you're around, then leave them to it
-rorschachMost: a paper boat set out on a fast river
-rorschachHigh: a kite tangled high in bare branches
-rorschachMid: two clouds drifting over a field
-rorschachLow: a tape measure stretched along a board
-rorschachLeast: a receipt folded neatly into a ledger
+rorschachMost: two ducklings nose to nose over spilled feed
+rorschachHigh: two sparrows leaning in, beaks almost touching
+rorschachMid: a walnut cracked open into two halves
+rorschachLow: two pears set evenly in a bowl
+rorschachLeast: two bookends squared up across a shelf
 ---
 
 Caramelised Mung Beans are the Bean Zodiac's most impractical — the friend who hears bad news at 9pm and is at your door by 10 with the wrong kind of soup and a candle and a bag of clementines. The care lands even when the contents miss; what you remember a week later is the doorbell, not the menu. Around them, "I didn't think you'd actually come over" is a thing people say a lot, warmly.

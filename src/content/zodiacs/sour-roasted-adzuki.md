@@ -22,17 +22,17 @@ facetLowTitle: The Foil-Covered Pan
 facetLow: Drawers stay shut, the spare room stays presentable, and visitors meet a house that has decided in advance which corners they will see.
 facetLeastTitle: Zest Without the Fruit
 facetLeast: Your gifts arrive wrapped in a meaning the recipient has to guess at; you would rather they invent the reason than be told it.
-rorschachMost: a window with the curtains taken right down
-rorschachHigh: an open hand held flat under a lamp
-rorschachMid: two moths meeting at the top of a jar
-rorschachLow: a face turned half away from the door
-rorschachLeast: a box with the lid taped shut and unlabelled
 question: A friend brings out a haircut they're clearly unsure about and asks what you think. You...
 answerMost: say the true sentence before the door has finished closing
 answerHigh: tell them honestly, gentle on the edges but with the verdict intact
 answerMid: name one thing that works and one that doesn't, and let them weigh it
 answerLow: praise the bits you can mean and let the rest pass
 answerLeast: tell them it suits them and decide later whether you meant it
+rorschachMost: an owl facing you with both eyes open
+rorschachHigh: a cat sitting square, ears up, watching back
+rorschachMid: a russet potato with two knobby sprouts
+rorschachLow: a hedgehog curling its face away from you
+rorschachLeast: a hibernating mole rolled tight into its burrow
 ---
 
 Chimichurri Adzuki Beans are the Bean Zodiac's most transparent — what you see at the door is what comes through it. The thank-you note isn't softened, the toast isn't dressed up, the bad news arrives in the same voice as the good. People around them stop bracing for subtext, because there isn't any; the celebration, when it comes, is the whole celebration.

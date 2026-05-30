@@ -28,11 +28,11 @@ answerHigh: rewrite it twice and read it aloud before sending
 answerMid: write it once, sit with it ten minutes, send
 answerLow: tap out a quick line and move on
 answerLeast: hit reply before you finish reading the message
-rorschachMost: a watchmaker's hands set in perfect symmetry
-rorschachHigh: a measuring scale balanced level
-rorschachMid: two leaves drifting on a pond
-rorschachLow: a glass tipping at the table's edge
-rorschachLeast: ink flung across a wall in one wet streak
+rorschachMost: two scale pans weighed level against each other
+rorschachHigh: a walnut halved evenly down its seam
+rorschachMid: two round stones set apart on sand
+rorschachLow: two cupped hands not quite meeting
+rorschachLeast: a plate dropped and split across the floor
 ---
 
 Scorched Butter Beans are the Bean Zodiac's most deliberate. They draft the message six times before sending the seventh, and the seventh is the one that lands; the apology gets written out in a notebook before it's ever said aloud. When one of these Beans finally moves, it's because the move is right, and it usually is.

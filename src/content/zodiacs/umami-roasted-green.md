@@ -22,17 +22,17 @@ facetLowTitle: Ponzu, Same Small Bowl
 facetLow: You cook what you already trust; the known dish feeds you, and the new cookbook stays shut.
 facetLeastTitle: The Plate, Set Down
 facetLeast: Rooms keep their corners; you don't lift the lid to see what the steam is doing, and the house holds.
-rorschachMost: a hand lifting a stone to see what's under it
-rorschachHigh: a cat halfway into a half-open box
-rorschachMid: two foxes nosing at the same hollow log
-rorschachLow: a book left face-down and unopened
-rorschachLeast: a shuttered stall with the awning rolled down
 question: You sit down to send one short email and notice a word in it you've never quite looked up. You...
 answerMost: spend an hour on the etymology and forget about the email
 answerHigh: read the first three results, then come back to the email
 answerMid: skim a definition, send the email, keep the tab open
 answerLow: send the email, vaguely intend to look it up later
 answerLeast: send the email, the word never crosses your mind again
+rorschachMost: a snail leaning out of its shell to look around
+rorschachHigh: a cat halfway into the curl of a basket
+rorschachMid: an anvil beside a coiled length of rope
+rorschachLow: a closed fist next to a shell pulled tight shut
+rorschachLeast: a shut clam beside a snail sealed deep in its shell
 ---
 
 Rendered Green Beans are the Bean Zodiac's most curious — and warmly so, without the collecting energy that curiosity sometimes has. They ask the second question, the one past polite, and the stranger across from them lights up at having been asked it. They read the footnote before the headline because that's where someone interesting is usually hiding.

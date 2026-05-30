@@ -22,17 +22,17 @@ facetLowTitle: Beans Cooling on the Pan
 facetLow: Rooms kept dim, good moods kept to yourself.
 facetLeastTitle: Lemon Kept Back
 facetLeast: Slow weather, brightness left to others.
-rorschachMost: a sunrise pushing up over a low hill
-rorschachHigh: a kite tugging hard at a bright string
-rorschachMid: two clouds drifting across an open field
-rorschachLow: rain sliding down a darkened pane
-rorschachLeast: an empty chair under a bare grey sky
 question: You step into a tense kitchen at a party where two friends have just had a small spat. You...
 answerMost: greet the room, refill glasses, get them laughing inside a minute
 answerHigh: bring warmth in and let the temperature lift on its own
 answerMid: read the room first, then warm the corner you're standing in
 answerLow: stay quiet and let whoever wants to leave the room leave it
 answerLeast: match the mood, keep to the wall, and wait for someone else to fix it
+rorschachMost: a bonfire leaping above a fat log
+rorschachHigh: a rose in full bloom over its pot
+rorschachMid: a feathered hat sitting on a round head
+rorschachLow: wilted petals drooping over a chipped clay pot
+rorschachLeast: cold ash settling over a dark mound
 ---
 
 Chimichurri Green Beans are the Bean Zodiac's most cheerful — the brightness keeps moving room to room, settling where it is needed. They greet the cashier first, keep the exclamation point in the reply, make the second coffee without being asked. The warmth doesn't read as performance because it isn't: a hard week shows up in the voice, and the cheer arrives anyway, alongside it.

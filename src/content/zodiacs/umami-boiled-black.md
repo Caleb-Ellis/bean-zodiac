@@ -22,17 +22,17 @@ facetLowTitle: Three Minutes, Then Taste
 facetLow: You check before the braise has set, serve before the flavour has learned itself.
 facetLeastTitle: The Kettle Reboiled
 facetLeast: Forty open tabs, each one nudged every hour; nothing is given time to matter.
-rorschachMost: a single drop hanging, not yet fallen
-rorschachHigh: a covered pot left on a low flame
-rorschachMid: a dark inkstain spread across folded paper
-rorschachLow: a hand already reaching for the lid
-rorschachLeast: a clock with its hands spinning loose
 question: A group chat is waiting on your decision and the messages keep arriving. You...
 answerMost: leave it until the morning, when you'll know what you actually think
 answerHigh: tell them you're thinking and you'll come back by tonight
 answerMid: skim the thread, weigh it for a minute, then reply
 answerLow: type something reasonable now and hope it holds up
 answerLeast: send the first instinct and let the chat sort it out
+rorschachMost: a toad settled wide and motionless on a stone
+rorschachHigh: an animal hide laid flat to cure
+rorschachMid: a low island spread across dark water
+rorschachLow: a bat startled mid-flap off a branch
+rorschachLeast: a moth thrashing wide against the glass
 ---
 
 Dashi Black Beans are the Bean Zodiac's most patient — they will outlast the question. The decision sits covered for a week and they don't lift the lid; the apology gets drafted in March and sent in May, by which point it has cooked down to exactly what it means. They are wonderful in a long crisis and unreadable in a short one, because the same stillness that lets a braise deepen also looks, from across the room, like nothing happening.

@@ -28,11 +28,11 @@ answerHigh: hold the look a beat longer than necessary and say nothing
 answerMid: half-smile and look back at your notes
 answerLow: nod along and let the moment pass
 answerLeast: ask a sincere follow-up question and mean it
-rorschachMost: a knife edge catching a thin line of light
-rorschachHigh: an eyebrow arched over a half-lidded eye
-rorschachMid: a bat hanging from a beam
-rorschachLow: an open hand offered palm-up
-rorschachLeast: a face smiling with nothing held back
+rorschachMost: a big cat side-eyeing a small dog
+rorschachHigh: a hare giving a tortoise a long flat look
+rorschachMid: two heads almost touching across a gap
+rorschachLow: two faces turning warmly toward each other
+rorschachLeast: two friends laughing hysterically
 ---
 
 Brined Pinto Beans are the Bean Zodiac's most sarcastic, and what makes them dangerous is the wait. The line has been forming for thirty seconds while everyone else was still reacting; by the time it lands, the timing is so exact that even its target laughs first. The room enjoys them. The group chat quietly screenshots them. Things that would be cruel from someone else read, from a Brined Pinto, as a kind of affection — a precise eye held steady on the absurd.

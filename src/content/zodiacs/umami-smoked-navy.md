@@ -28,11 +28,11 @@ answerHigh: change the centerpiece and nothing else
 answerMid: swap one course but hold the rest
 answerLow: rework the menu from scratch
 answerLeast: host it somewhere else entirely
-rorschachMost: a stopped clock with no hands at all
-rorschachHigh: a worn ring smoothed by long wearing
-rorschachMid: two stones weathered round in a streambed
-rorschachLow: a calendar page torn off and crumpled
-rorschachLeast: sand pouring fast through an open glass
+rorschachMost: an old coin worn smooth past its face
+rorschachHigh: a boulder rounded by a thousand winters
+rorschachMid: a river pebble turned in the hand
+rorschachLow: a clay lump just pressed into shape
+rorschachLeast: a snowball melting before it lands
 ---
 
 Hickory Navy Beans are the Bean Zodiac's most timeless — they have the same address from 2011, the same Sunday breakfast, the same two friends from before college. The handwriting in the recipe book is theirs in three different decades. When something falls apart in their life, the unchanged things take the weight.

@@ -28,11 +28,11 @@ answerHigh: ask for a day and write a proper reply by morning
 answerMid: send a careful two-paragraph holding response and finish it later
 answerLow: skim it and send three bullet points
 answerLeast: fire back the first instinct in one line and move on
-rorschachMost: an anvil sunk halfway into the ground
-rorschachHigh: a stack of bricks under a heavy beam
-rorschachMid: two pinecones fallen on a path
-rorschachLow: a balloon drifting just off the floor
-rorschachLeast: a scrap of foil caught in a breeze
+rorschachMost: two boulders wedged tight against a stone bridge
+rorschachHigh: two beetles locked head to head, legs splayed
+rorschachMid: two pinecones touching tip to tip
+rorschachLow: two dandelion heads about to scatter their seeds
+rorschachLeast: two cotton tufts snagged on a thorn
 ---
 
 Aged Chickpeas are the Bean Zodiac's most substantive — they reply in paragraphs, wear the same coat into its eighth winter, and finish in June the project somebody else abandoned in November. The weight is real and quiet, and the people around them rest on it without quite registering they're doing it.

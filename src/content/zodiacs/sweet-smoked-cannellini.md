@@ -22,17 +22,17 @@ facetLowTitle: Guanciale in Cold
 facetLow: You sleep on the floor when the bed offends you, eat standing, and trust a body that has never required coddling.
 facetLeastTitle: Vin Santo Poured Without Measure
 facetLeast: Bills paid in a single rough sweep; apologies offered plain and short; the small obligations cleared before the day has properly begun.
-rorschachMost: a moth's wing held up against the light
-rorschachHigh: a thin glass stem about to tip over
-rorschachMid: two leaves drifting down past a window
-rorschachLow: a thick rope coiled on a dock
-rorschachLeast: a slab of stone dropped in wet sand
 question: You're helping a friend move, and they hand you a box marked "fragile" to carry down three flights of stairs. You...
 answerMost: take it in two hands, pause at every landing, and feel each step
 answerHigh: re-tape the corners before you lift it, just to be sure
 answerMid: carry it carefully, the way you'd carry any box that mattered
 answerLow: tuck it under one arm and head for the stairs
 answerLeast: stack the toaster on top and take both in one trip
+rorschachMost: a butterfly's two wings joined by a hair-thin waist
+rorschachHigh: two birds touching beaks over a frayed thread
+rorschachMid: two hills across a narrow gorge
+rorschachLow: two sacks of grit shoved hard together
+rorschachLeast: two anvils lashed together with chain
 ---
 
 Barbecued Cannellini Beans are the Bean Zodiac's most delicate — the friend who remembers which window you like open, refolds the throw before they leave, and writes your name in the careful handwriting you didn't know they used. Around them the small things behave better: the kettle is set down softly, the gift handed across in two hands, the sentence finished at the point where it didn't need its last clause.

@@ -28,11 +28,11 @@ answerHigh: read it through twice before typing
 answerMid: send a holding "thinking" while you draft
 answerLow: type the gut response and trim it
 answerLeast: fire off the first thing that lands
-rorschachMost: a pendulum at the top of its arc, not yet fallen
-rorschachHigh: a held breath before a long dive
-rorschachMid: two hands not quite meeting
-rorschachLow: a glass tipping past its balance point
-rorschachLeast: a fistful of pebbles thrown across water
+rorschachMost: a thinker, hand to brow, holding the answer back
+rorschachHigh: two chess players leaning close over the board
+rorschachMid: a seated cat facing a small spiky hedgehog
+rorschachLow: a wrestler pitching forward across the narrow seam
+rorschachLeast: a head bursting into scattered spines and quills
 ---
 
 Infused Black Beans are the Bean Zodiac's most measured — the one who sits through three opinions before offering one, and then says the thing the whole table was circling. They don't speak to fill air; when they do speak it's been thought through, and the room has learned, over time, that the wait pays. There's a steadiness to them that makes other people slow down and get their own thoughts in order.

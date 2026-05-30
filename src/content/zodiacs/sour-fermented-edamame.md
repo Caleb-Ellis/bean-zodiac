@@ -28,11 +28,11 @@ answerHigh: ask which friend told them, and how that friend heard
 answerMid: paste the URL into a search and skim what comes back
 answerLow: glance at the URL, shrug, and forward it on
 answerLeast: book before the timer runs out
-rorschachMost: a smile with something dark behind the teeth
-rorschachHigh: a wrapped gift held a little too tightly
-rorschachMid: two clouds drifting past each other
-rorschachLow: an open hand held flat and still
-rorschachLeast: a door left wide with the light on
+rorschachMost: a low mouth bristling with bared teeth
+rorschachHigh: a crouched beast raising its spines to look
+rorschachMid: a wide crown with points along the rim
+rorschachLow: a shaggy dog flopped down, paws splayed loose
+rorschachLeast: an open basket spilling its grasses freely
 ---
 
 Pickled Edamame are the Bean Zodiac's most skeptical — they read the link before they tap it and the sender twice before they reply. A too-warm introduction, a price that's an ounce wrong, a story that arrives in the room already polished: each one earns the small inward step back, the second look, the quiet "and?" that nobody else thought to ask. Time after time, the second look pays.

@@ -28,11 +28,11 @@ answerHigh: go quiet for ten minutes and let your friend not ask
 answerMid: make a joke about the playlist and half-mean it
 answerLow: change the subject, finish the coffee, keep going
 answerLeast: hum along; the year is over
-rorschachMost: a figure lingering in an empty doorway
-rorschachHigh: smoke still hanging in a long-cold room
-rorschachMid: two stains meeting along a fold
-rorschachLow: a freshly swept floor by a window
-rorschachLeast: a blank page on a clean desk
+rorschachMost: a hooded head bowed in a cold room
+rorschachHigh: a shroud bundled and left in the corner
+rorschachMid: a stone worn round by the river
+rorschachLow: a cat dozing warm in the sun
+rorschachLeast: a fresh loaf risen on the board
 ---
 
 Charcoal Kidney Beans are the Bean Zodiac's most haunted. They feel everything at full volume, and the feeling lingers the way smoke clings to a kitchen long after the coals go cold. Their friends learn which names and which songs send them quiet for an hour, and route around them kindly, and the routing works.

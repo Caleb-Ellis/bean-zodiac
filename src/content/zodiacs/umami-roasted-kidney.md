@@ -22,17 +22,17 @@ facetLowTitle: Salt, Nothing Else
 facetLow: At home you cook one good thing and stop, the kitchen quiet by eight.
 facetLeastTitle: Truffle at Its Sharpest
 facetLeast: You send a friend the plain card with their name on it, no flourish, and trust the name to be the whole gesture.
-rorschachMost: a chandelier dripping with too many crystals
-rorschachHigh: a peacock with its whole tail thrown open
-rorschachMid: two owls perched on a branching candelabra
-rorschachLow: a single chair in a bare white room
-rorschachLeast: a bare plate with one grain at the center
 question: A friend's birthday is next week and you're at the shop in front of two bottles — a fine one and an absurd one. You...
 answerMost: buy the absurd one and a card the size of a placemat
 answerHigh: buy the fine one and add flowers on the way over
 answerMid: buy the fine one
 answerLow: pick the cheaper of the two and remind yourself it's the thought
 answerLeast: leave without either, text "happy birthday" on the day
+rorschachMost: a peacock spilling its whole tail off one side
+rorschachHigh: a frilled head of lettuce bursting out of itself
+rorschachMid: an urn with a spray of curling scrollwork beside it
+rorschachLow: a clay pot with one bare twig off its edge
+rorschachLeast: a plain jug with a single dead stem trailing
 ---
 
 Rendered Kidney Beans are the Bean Zodiac's most extravagant — and they mean it every time. The longer letter, the better bottle, the room furnished until it answers back. When they show up for someone, they show up with weather. The friend on the receiving end remembers the gesture a decade later and still can't quite explain why it landed so hard.

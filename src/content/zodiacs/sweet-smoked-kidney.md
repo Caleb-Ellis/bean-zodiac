@@ -22,17 +22,17 @@ facetLowTitle: Rice Cooled on the Counter
 facetLow: The gesture is on time and the warmth is somewhere else; you do the thing and trust the doing counts.
 facetLeastTitle: Thyme Kept Dry
 facetLeast: You catch yourself reciting the words for love without the warmth behind them; the practice has hollowed.
-rorschachMost: two figures leaning their foreheads together
-rorschachHigh: a pair of hands cupped around a small flame
-rorschachMid: two birds sharing one branch
-rorschachLow: a single chair turned toward the window
-rorschachLeast: two stones lying apart on cold ground
 question: Someone you love has had a rough day and is sitting quietly on the sofa. You...
 answerMost: cook the meal they like without mentioning why, and put it in front of them
 answerHigh: make tea, sit nearby, leave the talking to them
 answerMid: ask once if they want to talk, then settle in either way
 answerLow: ask them straight out what happened and listen
 answerLeast: tell them they look sad and ask if they want a hug
+rorschachMost: two figures merged at the brow, arms wrapped around
+rorschachHigh: a bird wings spread, sheltering something beneath
+rorschachMid: a crab with its legs reaching out either side
+rorschachLow: a heron stood alone, wings folded at its sides
+rorschachLeast: a beetle pinned flat, legs splayed apart
 ---
 
 Barbecued Kidney Beans are the Bean Zodiac's most enamored — and the love does most of its work below the surface. The favourite mug is in the cupboard before the visit; the song gets played through twice on a Sunday for no audience; years in, they still catch themselves watching the person they love cross a room. The tending is constant, mostly private, and feels, from the inside, like enough.
