@@ -7,11 +7,16 @@ trait: detached
 dish: Roasted pinto beans with ancho chile, tomato paste, and cumin.
 quote: I have bean watching from a great height for so long.
 seasonalFortune: Ancho smoke settles into rooms long after the pan has cooled. A season for watching steam rise off other people's plates without reaching across the table.
-fortuneMost: Sit one chair back from the head of the table. From there you can see who's lying; from the head you'd only see who's listening.
-fortuneHigh: Wait two days to reply. Whatever you'd write now is the draft; what surfaces after a night between is the message.
-fortuneMid: Walk the long way home with the phone in your bag. The shape of the thing you've been circling shows up by the second mile.
-fortuneLow: Get your hands in it. The bird's-eye view is accurate and useless when the dough needs kneading.
-fortuneLeast: Be the loudest one in the group chat for a day. Burn the altitude; the cool head will be welcome back when you come down for it.
+fortuneMost: Sit one chair back from the head. From there you see who's lying; from the head you'd only see who's listening.
+fortuneMost2: Let the talk pleat around you and log every fold. The cool distance is real and it serves you — more often than the warm version of you wants to admit.
+fortuneHigh: Don't answer in the heat. What you'd say now is the draft; the real reply surfaces only after a night has passed over it.
+fortuneHigh2: Ancho smoke settles into a room long after the pan's gone cold. So does your steadier answer — respond once the heat has banked, and it lands cleaner.
+fortuneMid: Walk the long way with the phone left in your bag. The shape of the thing you've been circling shows up somewhere around the second mile.
+fortuneMid2: The aerial view is accurate, but it never comes down. Get close enough to one thing to feel its grain under your thumb.
+fortuneLow: Get your hands in it. The bird's-eye read is useless on the dough in front of you needing kneading — and coming down off the height will feel like losing the view.
+fortuneLow2: The room wants you in it, not above it. Stay, both hands on the work, and let the altitude wait — even though down here you'll see less and feel more.
+fortuneLeast: Be the loud one for a change. Spend the altitude; the cool head is yours to climb back to whenever you want it — you'll just have to want it less to get there.
+fortuneLeast2: Lean into the nearest warm shoulder, no border between your evening and theirs. The watching can rest, even if resting it leaves you feeling oddly unguarded.
 facetMostTitle: One Chair Back
 facetMost: At the long table you sit unreachable; conversation pleats around you and you log every fold.
 facetHighTitle: Ancho-Tinted Glass

@@ -7,11 +7,16 @@ trait: restless
 dish: Taze fasulye - Turkish green beans slow-cooked with lemon, garlic, and tomato.
 quote: I am not a bean at ease.
 seasonalFortune: A season of lemon working into the pod. The household that slow-cooks under sharpness finds its rooms rearranged by Wednesday and the garlic already chopped twice.
-fortuneMost: Move the chair, not the city. The itch is six inches wide; don't book a flight for it.
-fortuneHigh: You'll want to leave twice before lunch. The second time, finish the sentence first; the urge will outlive its reasons.
-fortuneMid: Open one window, close one tab. That's the whole reorganisation; stop drafting the bigger one.
-fortuneLow: The kettle stays. Drink the tea you already made before deciding the kitchen is wrong.
-fortuneLeast: Take the chair by the window and let the light leave without you.
+fortuneMost: The itch is six inches wide. Move the chair, not the city.
+fortuneMost2: You catch the stale thing before the rest of the household does. Like lemon going into the pod, you're the sharpness that wakes a place up.
+fortuneHigh: The urge to leave will rise mid-conversation, as it does. Finish the sentence first. The urge outlasts the reasons it handed you.
+fortuneHigh2: A room stays a draft until something in it moves. Shift the lamp, the rug, the one wrong thing — let the restlessness do honest work.
+fortuneMid: One window opened, one thing put away. That's the whole reorganisation. The bigger one you're drafting can stay undrafted.
+fortuneMid2: The line you keep turning over on the walk home was fine the first time. Let the good-enough version stand.
+fortuneLow: Drink the tea that's already poured before you decide the kitchen is wrong. Sitting with it as-is will prickle. The prickle passes.
+fortuneLow2: The same dish at the same hour, the pot back on its own burner without comment. There's rest in that, even when stillness reads to you as something slipping away.
+fortuneLeast: The chair by the window, the light going without you. Nowhere else is calling.
+fortuneLeast2: Your body is asking for the long sleep, the slow morning, the chair no one has moved in years. Give it those. It'll feel like surrender; it isn't.
 facetMostTitle: Lemon Before the Tomato
 facetMost: You stand from the dinner table while the others are still pouring; the cab is called before anyone asks where you went.
 facetHighTitle: Garlic Loose on the Counter

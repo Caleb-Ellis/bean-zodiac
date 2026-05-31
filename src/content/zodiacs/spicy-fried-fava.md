@@ -7,11 +7,16 @@ trait: risk-taking
 dish: Ta'amiya - Egyptian fava bean falafel with green chili and cumin.
 quote: Only those who will bean far can possibly find out how far one can go.
 seasonalFortune: Oil at temperature does not wait. The season favours the cook who drops the fava in while the cumin is still loud, and counts the burns later.
-fortuneMost: Sign it. The kettle hasn't even clicked off; that's the right amount of audit.
-fortuneHigh: Jump now, math later. Mark which gut said go — that one's the line of credit.
-fortuneMid: Call the one friend who slows you down before you decide. Not for permission — for the ten seconds where you say it out loud and hear what it sounds like coming back.
-fortuneLow: Stop waiting for the all-clear. Move with what's in your hand, or put it down and pick something else up.
-fortuneLeast: Fold this hand. The bolts on the door are doing exactly what bolts are for.
+fortuneMost: You commit before the numbers are in, and the leap is a good one. The math can ride in the cab with you.
+fortuneMost2: A door opens for a day only. You'll say yes before the catalogue is read — and the catalogue won't matter.
+fortuneHigh: The chili and cumin cover whatever isn't in the fridge. Start the thing and trust the fire to fill the gaps.
+fortuneHigh2: Fortune leans toward the hand already raised. The bold bet is the one that pays.
+fortuneMid: Before the leap, say it aloud to one steady friend — not for permission, just to hear how it sounds.
+fortuneMid2: You can jump with one foot still down. Keep the small hedge; it's not cowardice, it's a rope.
+fortuneLow: Waiting for the all-clear is its own slow leak. Move with what's in your hand, or set it down for something surer — drifting between the two is the only real loss.
+fortuneLow2: Square the ground before you spring off it. Pitching low and pegged-down feels like missing out; mostly it's patience wearing your clothes.
+fortuneLeast: Fold this hand. The locked door is doing what a locked door is for, even if walking away from it galls you.
+fortuneLeast2: Move in slow weighed portions, paying the small price twice before risking the large one. The tedium is exactly the thing you most need to practice.
 facetMostTitle: Cumin Before the Scorch
 facetMost: At the auction you raise your hand on the third lot and only afterward read the catalogue to see what you bought.
 facetHighTitle: Chili in Whole, Stem and All

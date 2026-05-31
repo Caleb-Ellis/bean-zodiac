@@ -7,11 +7,16 @@ trait: discerning
 dish: Cannellini and broccoli rabe soup.
 quote: The bean you refuse is as important as the bean you accept.
 seasonalFortune: A season spent tasting before swallowing. The rabe blanched twice, the broth poured off and begun again — what remains has been chosen slowly.
-fortuneMost: Decline the invitation you've been politely turning over. You don't need a reason that would satisfy them; the reason that satisfies you is enough.
-fortuneHigh: Throw out three things from the same shelf before bed. You've been auditioning them for years and they keep losing.
-fortuneMid: There's one request in your inbox that hasn't earned a reply. Archive it. The silence is your answer; let it be heard.
-fortuneLow: Approve the version that's eighty percent right. Twenty percent of "good enough" is the only material you have to work with.
-fortuneLeast: Keep the ugly mug. The pleasure you take in it is the standard; the matching set was someone else's.
+fortuneMost: The thing you've been politely turning over deserves your no. You don't owe a reason that satisfies anyone.
+fortuneMost2: A clear yes from you is rarer than most people's, and it's coming for something that has truly earned it. When it does, don't dress it down to be polite.
+fortuneHigh: Keep only what you'd choose again. The shelf grows lighter, the love grows denser.
+fortuneHigh2: A good thing is in front of you, and you can name exactly why. Trust the few you'd own over the many you'd tolerate.
+fortuneMid: Some things never earn a yes and you know which. The broth is better for what you poured off.
+fortuneMid2: Whether a new face earns a second meeting, the first taste already told you. Stop being so polite about swallowing.
+fortuneLow: Not every bowl needs a second change of water. Leave the grit in this once — some of it is flavour you'd have poured off.
+fortuneLow2: A keeper is hiding past the rough first chapter. Read on a little; the cost is the hours, and the hours are worth one good thing kept.
+fortuneLeast: Keep the ugly mug, the twenty pens, every last bowl. Love them all, and lay your hand on any of it without asking whether it earned the shelf.
+fortuneLeast2: A stranger's enthusiasm is worth catching for its own sake. Take it all in unstrained — stems, rind, leaf — and call the whole bowl good.
 facetMostTitle: Two Changes of Water
 facetMost: You set out the bowls you mean to keep and quietly give the rest away.
 facetHighTitle: The Scoured Pot

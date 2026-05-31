@@ -7,11 +7,16 @@ trait: honed
 dish: Appalachian Leather Britches - with bitter herbs and salt pork.
 quote: Give me six hours to chop down a tree and I will spend the first four sharpening the bean.
 seasonalFortune: Strung beans wait through winter on a single thread, surrendering water to time. What hangs long enough loses everything but the line of itself, and the line is what cuts.
-fortuneMost: One cut, then put the knife down. The board doesn't need a second pass and the second pass is where the finger goes.
-fortuneHigh: The hour you'd spend on the jig, spend on the cut. The jig was you avoiding the cut.
-fortuneMid: Choose what you're aiming at before lunch. By dusk the edge will have found something to ruin if you haven't.
-fortuneLow: Hand the fine chisel to someone who'll use it crudely. Watch without wincing; the wood survives.
-fortuneLeast: Walk through the workshop and name the three tools you have not picked up in a year. One of them goes to a neighbour this weekend.
+fortuneMost: One cut, then set the knife down. The board doesn't need a second pass, and the second pass is where the finger goes.
+fortuneMost2: The bean hung all winter loses everything but the line of itself, and the line is what cuts. What survived your paring is about to prove it was the right thing to keep.
+fortuneHigh: The hour you'd spend perfecting the setup, spend on the cut. The setup was you avoiding the cut.
+fortuneHigh2: You wake hungry for one clean thing and refuse the rest until it comes. Hold out for it — it's on its way.
+fortuneMid: Pick the target before the edge finds one. A honed blade with nothing to cut will sharpen something it shouldn't.
+fortuneMid2: One task matters; the others can hang on the line a while. Pare the day to that one.
+fortuneLow: Hand the fine tool to someone who'll use it roughly and watch without wincing. The wood survives — though the wincing comes anyway.
+fortuneLow2: The mess will gnaw at you. Leave the threads open anyway — what you need tends to surface unsharpened.
+fortuneLeast: Keep the dull thing, the tool gone soft with use, the bean strung crooked on the line. Not everything has to be pared to earn its place — and letting it stay will feel like neglect.
+fortuneLeast2: The half-finished thing, the gift you'll never use, the rough first try — your hand itches to thin them out. Don't. Let the pile be a pile.
 facetMostTitle: The Strop
 facetMost: The work you keep is the work that survived the paring — three sentences, one pot, nothing else asked to stay.
 facetHighTitle: Salt on the Pod

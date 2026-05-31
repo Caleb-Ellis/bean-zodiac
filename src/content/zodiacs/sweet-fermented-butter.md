@@ -7,11 +7,16 @@ trait: silly
 dish: Butter bean and labneh with honey — cooked butter beans stirred through strained fermented yogurt and drizzled with wildflower honey.
 quote: The bean abides.
 seasonalFortune: A season when the heaviest crocks turn sweetest. Cellars hum, the labneh slumps in its cloth, and the honeyjar tilts toward whoever passes nearest the shelf.
-fortuneMost: Wear the stupid hat to the serious meeting. The hat is the policy proposal.
-fortuneHigh: Bring a side dish nobody asked for. Watch them eat the whole bowl while complaining about it.
-fortuneMid: Put googly eyes on something load-bearing — the printer, the fridge, your laptop. Don't mention it; let it work.
-fortuneLow: A grown-up conversation is waiting for you. Take the silly hat off for the length of one coffee.
-fortuneLeast: Sign the paperwork like an adult. The joke can come back next time; the form needs a face that means it.
+fortuneMost: Wear the stupid hat to the serious occasion. Deadpan, the hat is the whole argument.
+fortuneMost2: Today the honeyjar tilts toward you — a stranger laughs before they meant to, and a whole table loosens behind them.
+fortuneHigh: Bring the dish nobody asked for. They'll finish the bowl while complaining the entire way down.
+fortuneHigh2: An absurd line, flat, no smile. Whoever's quick enough to catch it is your kind of person.
+fortuneMid: Googly eyes on something load-bearing, no announcement. Watch it do its quiet work.
+fortuneMid2: A chair facing the wall, a postcard propping the salt — your rooms are funnier for the things left askew.
+fortuneLow: One real conversation, straight-faced all the way through. Some of them need your honest face before they'll trust the rest, and holding the joke back stings a little.
+fortuneLow2: Let the long walk run at its own pace. Not every silence is a setup waiting to be broken, much as your hands itch to break it.
+fortuneLeast: When it has to be believed, say it plain — no key, no wink. The joke keeps; meaning it costs you the easy out, so pay it.
+fortuneLeast2: Some moments only want the plain bowl. Hand it over with no comment slipped under the saucer, even though the comment's right there.
 facetMostTitle: A Bean for Ballast
 facetMost: You serve the gesture deadpan, no key, no explanation — the room can settle for itself whether to laugh.
 facetHighTitle: The First Drip of Honey

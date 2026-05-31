@@ -7,11 +7,16 @@ trait: dependable
 dish: Zunda mochi — edamame boiled and ground into sweet green paste, served over soft rice cake.
 quote: The strength of a bean lies not in its weight, but in its reliability.
 seasonalFortune: A long, sweet simmer settles over the months. The pot keeps its low murmur; pods soften on a schedule the kitchen already knows. Steadiness flavours the season.
-fortuneMost: Tell the friend who has been counting on you for six years exactly what it takes to keep showing up, and tell them the next time you sit down together, plainly and warmly, while there's still wine in the glass.
-fortuneHigh: Confirm the standing plan in writing a few days ahead with the time and the address and one specific dish you're bringing — the certainty is what people actually came for.
-fortuneMid: Take a new route home from work this week, walk past the bakery you've been told about for a year, and buy something for the household before the bread sells out.
-fortuneLow: The recurring favour has quietly doubled in scope; reset it kindly this week, in one sentence, and watch the relationship survive the recalibration intact.
-fortuneLeast: The plan you scrapped this afternoon is better than the plan you drew this morning — don't fish the morning version out of the bin to apologise to it, and don't draft a third one to split the difference.
+fortuneMost: You arrive at the hour you said, every time, no flourish — and people are at ease before you're through the door because they knew you would. Let one of them tell you it counts.
+fortuneMost2: Nobody thanks the tap for running, and you've trained the room not to notice you. Keep being the sure thing — but say plainly when the running starts to cost you.
+fortuneHigh: Someone is leaning their whole week on a thing you said you'd do, and your word will hold the weight. The certainty was what they came for.
+fortuneHigh2: The borrowed pan goes back washed before the lender remembers lending it — you fold returns into errands the way zunda folds into rice. That quiet finishing is its own warmth.
+fortuneMid: Steady doesn't have to mean same. Take the unfamiliar way home and bring back something you weren't expecting to find.
+fortuneMid2: Answer the ones who reached out, in the order they came, warm and in no hurry. Nothing goes cold in your hands.
+fortuneLow: A recurring favour has quietly doubled on you. Reset it kindly, in one sentence. The bond is stronger than the old terms and will outlast the redrawing.
+fortuneLow2: Constancy sets like cold paste if you never stir it. Change the route, move the furniture — the steadiness keeps fine without your standing guard over it, much as leaving the post unguarded unsettles you.
+fortuneLeast: The plan you scrapped beats the one you drew first. Leave the old version in the bin. It can't be betrayed; it was only ever a draft.
+fortuneLeast2: Some things are better dropped than finished out of duty. Let the half-built plan go and trust the next to taste better, however much your hands want to see it through.
 facetMostTitle: The Sunday Mochi
 facetMost: You host the same people the same way; they arrive already at ease.
 facetHighTitle: The Small Debt Settled

@@ -7,11 +7,16 @@ trait: adventurous
 dish: Foul mhammar - Moroccan roasted fava beans with cumin, chili, and charmoula.
 quote: Life is either a daring bean or nothing at all.
 seasonalFortune: A season when the charmoula travels further than the pan it was mixed in. Households of this bean keep the windows open and the kettle moving.
-fortuneMost: Book the one-way. The flight back will be cheaper after you know why you went.
-fortuneHigh: Turn down the alley you've walked past for a month. The third doorway is the one with your name on it.
-fortuneMid: A stranger will pitch you something weird this week. Say yes within the same conversation or it expires.
-fortuneLow: You've landed but you keep checking your phone. Put it in a drawer and walk one full lap before deciding anything.
-fortuneLeast: Walk the familiar route with your head up. The block has been redecorating without telling you, and the unfamiliar trip you keep booking is, briefly, here.
+fortuneMost: The open seat in the car going nowhere in particular has your name on it. Not knowing where it lands was always the point.
+fortuneMost2: Book the road before you book the way back. You'll learn out past the map why you went.
+fortuneHigh: Turn down the street you've passed a hundred times. The detour was the destination all along.
+fortuneHigh2: Something strange and good is about to be pitched at you in one sentence and a shrug. Hesitate and it expires.
+fortuneMid: Name the place nobody's tried. You don't need the far flight to leave the map.
+fortuneMid2: An unfamiliar turn on the way home, arriving late and unbothered — a full adventure folded into an ordinary evening.
+fortuneLow: You've already arrived somewhere good; the next leap can wait. Walk one full lap and let the place reach you — it'll feel like standing still, and it isn't.
+fortuneLow2: The thing you already love rewards a closer second look. Returning will always feel tamer than departing for you; take the tameness as its own country.
+fortuneLeast: The same path has been rearranging itself while you booked flights elsewhere. Head up — there's a town here you only thought you'd memorised.
+fortuneLeast2: Staying put isn't standing still, whatever the itch in your feet says.
 facetMostTitle: Cumin Blooming in Hot Oil
 facetMost: You book the unfamiliar flight before the return one. Strangers' couches, odd routes home; the itinerary is the point.
 facetHighTitle: The Chili Under the Roast

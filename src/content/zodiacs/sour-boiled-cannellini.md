@@ -7,11 +7,16 @@ trait: exacting
 dish: Ribollita - Tuscan cannellini with red wine vinegar and cavolo nero.
 quote: Good enough is the enemy of the bean.
 seasonalFortune: "Ribollita is a second boil; the pot returns to itself and the season returns to its measure. What held the first heat holds now. What blurred is shown to have been approximate."
-fortuneMost: Hold the small line. Someone will call it pedantic; they will also use the result.
-fortuneHigh: A number you're asked to round is the wrong number to round. Refuse with a smile and a calculator.
-fortuneMid: A spreadsheet two desks over is off by a row. Fix it before lunch; the week you save is your own.
-fortuneLow: The seventh pass is the one that ruins it. Send the sixth, comma and all.
-fortuneLeast: A sloppier project ships now and yours, perfected, ships eventually. Pick the verb that ends with "shipped"; the comma can be fixed in version two.
+fortuneMost: Hold the small line and they'll call you pedantic, then lean on the result anyway. Vinegar measured in drops is what makes the whole pot taste right.
+fortuneMost2: A fine omen for the one who still notices. The thing everyone else stopped seeing is yours to put quietly right.
+fortuneHigh: They'll ask you to round the number that shouldn't be rounded. Refuse it warmly.
+fortuneHigh2: Taste before you serve and you'll catch the pinch that's off. That second look is its own quiet pleasure.
+fortuneMid: One thing sits slightly crooked and keeps pulling at you. Straighten it now, before the small tilt becomes a long untangling.
+fortuneMid2: Early at the door, waiting outside, is part of arriving right. Give yourself the margin.
+fortuneLow: The pass that ruins it comes right after the version that was already good. Let the good version walk out the door. It will feel unfinished; it isn't.
+fortuneLow2: Let the day arrange itself around hunger and tiredness instead of the list. The body keeps decent measure when you trust it.
+fortuneLeast: The rough thing that's finished outlasts the perfect thing that isn't. Pick the verb that ends in done.
+fortuneLeast2: A little drift in your space, an inkblot easing past its own edge. Nothing that mattered has ever been lost there.
 facetMostTitle: Vinegar Counted in Drops
 facetMost: You answer emails the day they land, return the borrowed book in the sleeve it came in, keep one running list and only one.
 facetHighTitle: Cavolo Nero on the Bias

@@ -7,11 +7,16 @@ trait: mordant
 dish: Dried edamame with shichimi togarashi and yuzu salt.
 quote: Be yourself; everyone else is already beaned.
 seasonalFortune: A season pared to what survives the drying rack. Soft months fall away as husk; the rest sits salted on the shelf, sharp under any weather it meets.
-fortuneMost: Correct it before the second coffee. The afternoon depends on it.
-fortuneHigh: Strike the line. Spare the writer.
-fortuneMid: Right and heard are different trains. Catch heard first.
-fortuneLow: Ask the question. Stop landing the point.
-fortuneLeast: Hear the wrong fact at the next table and let it stand. Not your weather; not your station.
+fortuneMost: You see the misstatement before they've finished, and the dry line is already loaded. Land it — just clock who was already embarrassed first.
+fortuneMost2: A season pared down to what survives the drying rack — soft months gone as husk, the rest salted and sharp under any weather.
+fortuneHigh: Name the right source in passing and let them catch up. The line cuts cleaner when the speaker survives it.
+fortuneHigh2: Strike the wrong claim, not the person who made it. Your wit was always the better for sparing someone.
+fortuneMid: Being right and being heard arrive on different trains. Catch the second one.
+fortuneMid2: The fact's correct and the timing's yours to choose. A point made quietly to one person travels just as far.
+fortuneLow: Ask the question instead of landing the point. Letting someone be wrong out loud costs you a beat of pride and almost nothing else.
+fortuneLow2: The unfiled version cuts more than you mean it to, and you can't take the cut back. Smooth a few edges before it leaves you.
+fortuneLeast: A wrong thing said near you, left to stand. Not your weather to correct, and the air stays warmer for the silence — even if your tongue itches.
+fortuneLeast2: Someone is cheerfully, harmlessly wrong, and the day is better for letting them stay that way.
 facetMostTitle: Shichimi, No Chaser
 facetMost: Your own draft comes back from you scored through in red — the kind line cut, the true one underlined, sent.
 facetHighTitle: Yuzu Rind in the Till

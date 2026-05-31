@@ -3,6 +3,7 @@ slug: boiled
 name: Boiled
 tagline: The Form that sustains.
 traits: [patient, steady, nourishing, composed, melancholic]
+toneOfVoice: Delivers slow and even; nothing rushed, a low note underneath.
 ---
 
 Boiling is immersion. The Bean enters the water and is slowly, completely remade — softened to its core, its starch released, its hardness given over to the liquid surrounding it. There is a profound patience in the Boiled Bean.

@@ -36,12 +36,12 @@ export const SPIRIT_BEAN_RING: BeanId[] = [
   "pinto",
   "adzuki",
   "chickpea",
-  "mung",
   "butter",
+  "mung",
   "navy",
+  "black",
   "cannellini",
   "edamame",
-  "black",
 ];
 
 interface RingAdjustment {
@@ -50,8 +50,8 @@ interface RingAdjustment {
 }
 
 const ACCEPTED_ADJ: Record<QualityId, RingAdjustment> = {
-  heirloom: { chosen: +6, neighbours: +2 },
-  market: { chosen: +4, neighbours: +1 },
+  heirloom: { chosen: +4, neighbours: +1 },
+  market: { chosen: +3, neighbours: 0 },
   garden: { chosen: +2, neighbours: 0 },
   stale: { chosen: -1, neighbours: 0 },
   rotten: { chosen: -2, neighbours: -1 },
@@ -61,8 +61,8 @@ const RESISTED_ADJ: Record<QualityId, RingAdjustment> = {
   heirloom: { chosen: -2, neighbours: -1 },
   market: { chosen: -2, neighbours: 0 },
   garden: { chosen: -1, neighbours: 0 },
-  stale: { chosen: +2, neighbours: 0 },
-  rotten: { chosen: +3, neighbours: +1 },
+  stale: { chosen: +1, neighbours: 0 },
+  rotten: { chosen: +2, neighbours: +1 },
 };
 
 export function getRingAdjustment(

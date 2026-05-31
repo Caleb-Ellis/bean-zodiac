@@ -7,11 +7,16 @@ trait: unconventional
 dish: Green bean doenjang muchim - seasoned green beans with fermented soybean paste and gochugaru.
 quote: Here's to the crazy beans, the misfits, the rebels, the troublemakers.
 seasonalFortune: Crocks held in the dark this season yield what no kitchen expected. The gochugaru deepens; the bean keeps its snap. Households reach for jars they cannot quite name.
-fortuneMost: Photograph the scribbled notebook page and send it as-is. The retyped version is what loses them.
-fortuneHigh: Asked how you got here, take the scenic route through the dead ends. The detours are the talk.
-fortuneMid: Tape one page of working at eye level by the coffee machine. Don't explain it. Let it ambush them.
-fortuneLow: A friend is two unanswered messages from giving up. Send the bridge now — half-formed counts; the polish that comes after silence reads as obituary.
-fortuneLeast: You ran the whole route alone. Sketch back to where you split off, on a napkin if you have to.
+fortuneMost: A jar the household can't quite name, and the right answer reached by a route that's on no map and can't be retraced even by you. Hand over the raw scribble and let it stand — the route was the whole flavour.
+fortuneMost2: The recipe written down only after the third batch, in your own shorthand, margins left untranslated. Good things are coming out of a method only you can follow.
+fortuneHigh: Asked how you got here, take the scenic way through every dead end. The detours are the part actually worth telling, and the listener leans in for them.
+fortuneHigh2: Cupboard half-empty, shops shut, and you improvise something stranger and better than the recipe would have made. The constraint is where your snap shows.
+fortuneMid: A painting hung where the light is wrong, and the room finally makes sense. You don't owe anyone the reason.
+fortuneMid2: One odd substitution and a note for next time gets you most of the way there. A swerve doesn't have to be total to be unmistakably yours.
+fortuneLow: A half-formed bridge offered now beats a polished one offered after a long silence. By the time you'd have it perfect, the warmth has cooled past saving.
+fortuneLow2: Return the dish washed and on time, the thanks already on its way. The plain gesture costs you a flourish and lands as pure reliability.
+fortuneLeast: Sketch your way back to where you split off, so someone else can follow. Retracing your own arrows is tedious — it's the difference between a private trick and a thing you can give away.
+fortuneLeast2: The same bus, the same chair, the bowl you always eat from, loved exactly as they are. Not everything needs reinventing, and the comfort in the familiar is a real one to let yourself have.
 facetMostTitle: The Untranslated Margin
 facetMost: You write the recipe down only after the third batch, in your own shorthand, and refuse to translate the margins.
 facetHighTitle: One Good Knife

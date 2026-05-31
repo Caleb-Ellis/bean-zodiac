@@ -7,11 +7,16 @@ trait: direct
 dish: Black bean tostadas with lime crema - refried black beans on a crisp fried tortilla with sour cream and lime.
 quote: Say what you bean and bean what you say.
 seasonalFortune: Tortillas crisp loud in the pan; nothing here is hidden under sauce. A season for plain saying, for the lime that names what the bean already was.
-fortuneMost: Lead with the landing. They've been circling the runway for days; cut their fuel and let them touch down.
-fortuneHigh: Hand back the short answer. Skip the apology; the question deserved less than they asked for.
-fortuneMid: Answer the question under the question. They'll act surprised; they aren't.
-fortuneLow: That door slammed. Reopen it with the sentence you edited out — the one with the verb in it.
-fortuneLeast: People are bracing before you finish. Drop one observation and let it sit; the air will tell you which.
+fortuneMost: When everyone else is still hedging, you're the one who names it — lime cutting clean through the crema. That plain word is what they were starving for.
+fortuneMost2: Someone's been circling the same question for days. Hand them the answer flat.
+fortuneHigh: The short answer, given without the apology, beats the long careful one.
+fortuneHigh2: One true line shuts the matter like a tostada cracking under a thumb. Nothing left to argue.
+fortuneMid: There's a question under the question, and you can hear it. Answer that one — they'll act surprised, but they knew you'd catch it.
+fortuneMid2: A clear word lands in a muddy week. Expect someone to thank you twice for it.
+fortuneLow: The thing you let slide still has the part you edited out. Going back to add it costs you a little face — say it anyway, plainly.
+fortuneLow2: The long way around a small point lets people arrive on their own. The scenic route asks a patience that was never your cheap thing, but the view is theirs to keep.
+fortuneLeast: Soften the edge and buy someone the half-second they brace for. Just remember a sharp truth dulls in the drawer, and some of these were needed sharp.
+fortuneLeast2: Hold the verdict one beat and let them reach it themselves. The wait will grate; reach for it anyway.
 facetMostTitle: Lime Before Politeness
 facetMost: You tell the friend the thing nobody else will, in the room where it matters.
 facetHighTitle: Crema at Its Weight

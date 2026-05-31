@@ -7,11 +7,16 @@ trait: daydreamy
 dish: Frijoles con leche — pinto beans simmered in sweetened milk with cinnamon and piloncillo until the broth turns pale and dreamlike.
 quote: I have bean a dreamer. I have joined the great company of those who make the imagination of mankind rich.
 seasonalFortune: Days steep slow in pale sweetness. Hours soften the way piloncillo dissolves in warm milk, and the ordinary edges of a week blur into something rounder, longer, harder to leave.
-fortuneMost: Draw the picture you've been narrating in your head for a week — on the back of a receipt, on the margin of the meeting notes, on whatever surface is to hand — and keep the scrap; the version on paper is the one that becomes the real thing.
-fortuneHigh: The image that's shown up three afternoons running is not idle drift; follow it one concrete step — buy the materials, book the room, write the first line — before it dissolves back into sugar.
-fortuneMid: Block an hour soon for a walk with no destination and no podcast, and protect it from the calendar invite that will try to colonise it the moment you turn your back.
-fortuneLow: The person across the table is asking the actual question right now; close the tab in your head, put the phone face-down, and answer the one in front of you with your whole attention.
-fortuneLeast: Send a plain sentence to a real person before the hour is out — not the elaborate one you've been composing in the milk-pale daydream, just the one that says where you are and when you'll be back.
+fortuneMost: Draw the picture you've been narrating to yourself, on whatever scrap is to hand, and keep it. The version that makes it onto paper is the one that comes true.
+fortuneMost2: A whole afternoon dissolves into the soft milk of a half-thought, and you'll surface holding the seed of something good. Wander all the way in this time.
+fortuneHigh: The image that keeps coming back isn't idle drift — it's an omen of something you're meant to make. Follow it one concrete step before it melts back into sugar.
+fortuneHigh2: Each daydream is a doorway you keep opening and not walking through. Pick one and actually cross the threshold.
+fortuneMid: Take the walk with no destination and no podcast, and guard the hour from whatever rushes to fill it the second you look away.
+fortuneMid2: You promise a thing for one day and arrive with it on another, startled the week moved without you. Tie the dream to a date and it lands.
+fortuneLow: The person across from you is asking the real question now. The tangent in your head is warmer than the table, and the table is where they need you. Close the tab and give them all of you.
+fortuneLow2: You can sit through the whole thing without redecorating the room in your head, and the ending will feel earned for it. Stay where your body actually is, hard as the drift pulls.
+fortuneLeast: Send the plain message before the hour's gone — not the elaborate one you're composing in the dream, just where you are and when you'll be back. The unfinished beautiful version helps no one waiting on you.
+fortuneLeast2: A made bed and a lamp, and call it done. Plain finished beats lovely unbuilt; the settling stings a little, and the room is usable tonight.
 facetMostTitle: The Drifting Cinnamon
 facetMost: You rearrange a shelf to match a half-remembered picture, and the afternoon disappears inside the picture.
 facetHighTitle: Milk on the Low Flame

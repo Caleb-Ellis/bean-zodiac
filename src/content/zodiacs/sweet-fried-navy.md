@@ -7,11 +7,16 @@ trait: romantic
 dish: Navy bean beignets — fried dough pillows with a white bean cream filling, dusted generously in powdered sugar.
 quote: My bean leaps up when I behold a rainbow in the sky.
 seasonalFortune: A season for dough that rises twice. The hot oil rewards what is returned to, and the kitchen smells of sugar long after the last batch is lifted out.
-fortuneMost: Write the love letter by hand and mail it before you can revise it. A stamp, a walk to the box, no second thoughts; the first draft is the truer one.
-fortuneHigh: Cook their favourite without telling them why. They'll figure it out at the first bite and that's the whole point.
-fortuneMid: Pick one anniversary nobody else remembers. Mark it. A note, a candle, three minutes of attention.
-fortuneLow: Listen to the actual person across the table. Not your edit of them. Ask one question and believe the answer.
-fortuneLeast: Love the one who exists, not the one you wrote. Burn the draft and meet them where they are.
+fortuneMost: The love letter, by hand, walked to the postbox before you can revise it. The first draft is the truer one — let them have it.
+fortuneMost2: Like dough that rises twice, this is a stretch that rewards what you return to, and the sweetness you tuck away now will be found for years.
+fortuneHigh: Cook their favourite and say nothing about why. They'll catch it at the first bite, and that quiet click is the whole point.
+fortuneHigh2: When they ask where this is going, tell them you're falling and let it hang in the air. Loving out loud is the thing you're for.
+fortuneMid: An anniversary nobody else kept — a candle, a note, three minutes of real attention. That's enough to mark it.
+fortuneMid2: One photograph where ten would do, looked at often. Devotion doesn't need volume to run deep.
+fortuneLow: Listen to the person across from you, not your edit of them. Ask one real question and believe the answer, even when it's plainer than your version.
+fortuneLow2: Say you like where it is and want to keep finding out. Not every feeling needs the whole future drawn out tonight.
+fortuneLeast: Love the one who's here, not the one you wrote. The gap between the two will ache a little.
+fortuneLeast2: Keep it light and let the evening stay easy. Owing no one a grand gesture is its own freedom, strange as the empty space feels.
 facetMostTitle: One Beignet at a Time
 facetMost: You write the long message, send it, write the next one — the page never empties.
 facetHighTitle: Cream Still Warm

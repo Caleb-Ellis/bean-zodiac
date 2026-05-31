@@ -7,11 +7,16 @@ trait: grumpy
 dish: Navy bean croquettes with sauce gribiche - crisp fried navy bean patties with a tangy egg, caper, and mustard sauce.
 quote: I have not bean in the right mood for Beans for the last thirty-seven years.
 seasonalFortune: Capers brined past sweetness, mustard sharpened in the jar — a season that keeps its complaint close at hand and rewards those who refuse to smooth it down.
-fortuneMost: File the complaint with someone who can act on it. The group chat cannot.
-fortuneHigh: It's annoying. Say so once, loud, then leave it where it fell.
-fortuneMid: The coffee is cold. Pour it out. Drinking it and resenting it is doing both jobs badly.
-fortuneLow: The thing bothering you is too small for the size of the bother. The size is the signal.
-fortuneLeast: Someone is bracing for the verdict and guessed wrong. Tell them what worked first.
+fortuneMost: A complaint carried to the one who can actually mend it does more than a day of muttering ever will. Your refusal to round up to "fine" is the useful thing — point it where it works.
+fortuneMost2: You won't call it fine when it wasn't, and you shouldn't. Name the wrong thing plainly, once, sharp as mustard from the jar.
+fortuneHigh: A thing is genuinely annoying. Said once and left where it fell, the annoyance discharges; chewed on, it brines into something worse.
+fortuneHigh2: A stranger's small rudeness has lodged, and you're carrying it sharper into everything after. Set it down before the brine creeps through the whole jar.
+fortuneMid: The coffee's gone cold in the cup. Tip it out rather than drink it resentful.
+fortuneMid2: A charge comes through wrong. The fix is a few flat words, repeated until it's right — no heat needed, just done.
+fortuneLow: When the bother runs bigger than the thing that caused it, the size is the signal. It's rarely the cold coffee underneath; the look is worth more than the grumble.
+fortuneLow2: Most of what's souring you dissolves by morning, the way weather passes over a field. Sleeping on it costs you the small righteousness of being correct — let it pass anyway.
+fortuneLeast: Someone's braced for a harsh verdict from you. Lead with what actually worked; it'll surprise them, and it'll run against your grain to start there. Start there.
+fortuneLeast2: A small wrong can dissolve before you've even named it, off the tally entirely. Leaving it ungraded will feel like negligence — not everything earns the count, and this one doesn't.
 facetMostTitle: Capers, First Bite
 facetMost: Three notifications into the group chat, you've already drafted the reply that names what nobody else will say.
 facetHighTitle: Mustard on the Tongue

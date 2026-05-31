@@ -7,11 +7,16 @@ trait: surgical
 dish: Dashi-smoked edamame with ponzu - edamame cold-smoked over kombu and served in citrus soy
 quote: First, do no bean.
 seasonalFortune: A season for cold smoke and clean citrus. The pod gives up what it has and nothing more; ponzu finds the seam an honest blade already knew.
-fortuneMost: One sentence. Send. The follow-up clause is you flinching, and they'll smell it.
-fortuneHigh: Leave the party when you'd planned to. The friend asking you to stay another twenty minutes is testing the wrong thing.
-fortuneMid: After you make the cut, stay another ten minutes. You always leave at minute one; that's why it keeps feeling colder than the cut itself actually was.
-fortuneLow: Your next two-line answer will read as paperwork. Add the sentence that explains why you cared enough to be brief.
-fortuneLeast: They've started routing around you to someone slower. Slower isn't better — just less obviously a blade. Decide whether you mind.
+fortuneMost: One sentence, and out. The clause you'd add after is you flinching, and they'll taste it like smoke pulled too thin.
+fortuneMost2: A friend arrives carrying the long worry, and the single line that shrinks it is already in your mouth. The clean cut is the kindness.
+fortuneHigh: Leave when you came to leave, coat already buttoned. The voice asking for another twenty minutes is testing the wrong thing.
+fortuneHigh2: Two things broke it. Name those two and stop — anything past the second is for you, not for them.
+fortuneMid: Stay a few minutes past the clean cut. You leave fast, and that's why it lands colder than the cut ever was.
+fortuneMid2: The borrowed thing goes back with no note, no preamble. Let the warmth show in your face this time, even if the silence felt complete.
+fortuneLow: Your two clean lines can read like a receipt. Add the one that shows you cared enough to keep it short.
+fortuneLow2: Leave a few things open behind you. The unfinished road will nag at you all the way home, and you can let it nag.
+fortuneLeast: They've started routing around you to someone slower. Slower isn't better — only less obviously a blade. Sit in being the warm, unhurried one and see if you actually mind.
+fortuneLeast2: A long answer to a small question. The lingering grates, and it's its own kind of care.
 facetMostTitle: Kombu, Smoke Pulled Thin
 facetMost: A friend brings you a long worry; you give back one sentence and the worry is, for now, smaller than it was.
 facetHighTitle: Ponzu at the Split

@@ -7,11 +7,16 @@ trait: bracing
 dish: Szechuan dry-fried green beans with black vinegar and ginger.
 quote: Into each life some bean must fall.
 seasonalFortune: Black vinegar finds the seam in a room and pries it open. Around this bean, the muffled day blisters loose; ginger lingers in the doorway long after.
-fortuneMost: Open every window. The air has been chewed.
-fortuneHigh: Send the cold draft. The warm one lies.
-fortuneMid: Deliver the jolt. They'll thank you in a week, once the wince has worn off.
-fortuneLow: Not this round. Boil water instead and let the room stay warm.
-fortuneLeast: Let the muggy room stay muggy. Not every stuffiness is yours to fix, and not every window leads outside.
+fortuneMost: Open the window without asking. The day blisters loose, and that's your gift.
+fortuneMost2: Asked what you really think, tell them, then sit in the silence after. The quiet is yours to hold, and it does its own work.
+fortuneHigh: Give the correction plainly, no soft preamble cushioning the line. Ginger straight into hot oil is the only way it carries.
+fortuneHigh2: The agonised question wants a warm lie. Hand it the true one — "no, do the other" — because they already half-know it.
+fortuneMid: Deliver the jolt. The wince passes, the gratitude after is the realer thing, and what was stuck has shaken loose.
+fortuneMid2: Say the one sentence everyone's been stepping around. The room can take it; the tiptoeing was costing more than the truth will.
+fortuneLow: A friend is barely upright, and a window flung wide on the cold is just another gust. Lower the flame, keep the room warm — even when the air feels stale to you and your hand itches for the latch.
+fortuneLow2: Walk them through it slowly, both sides laid out. A jolt to someone already knocked is only another knock, and the patience it costs you is the price of not landing one.
+fortuneLeast: Let the muggy room stay muggy. Not every stuffiness is yours to fix, hard as it is to leave a shut window shut.
+fortuneLeast2: Pour more, change the subject, let them rest. You go to bed when you're tired without arguing yourself out of it — grant them the same, even as your instinct is to fling the door open.
 facetMostTitle: Dry Heat, Blistered Skins
 facetMost: When a friend asks what you really think, you tell them; the silence after is yours to sit in.
 facetHighTitle: Ginger in Hot Oil

@@ -7,11 +7,16 @@ trait: mellow
 dish: Gigantes plaki - dried butter beans baked with tomato, anchovy, and herbs.
 quote: All things come to beans who wait.
 seasonalFortune: A long oven season; tomato deepens into anchovy without anyone watching. The hours do their own salting, and the cook learns to leave the door shut.
-fortuneMost: Stay in the chair. They'll get to the point in twenty minutes.
-fortuneHigh: Someone will try to rush you twice in quick succession. Decline both times, and let the second decline land harder than the first.
-fortuneMid: The thing on the stove doesn't need you. Read for forty minutes. Don't lift the lid.
-fortuneLow: You've been waiting on a yes that already came. Act on it.
-fortuneLeast: Cancel the slow plan. Eat standing.
+fortuneMost: People will drift to you the way they drift to a warm kitchen — not for an answer, for the ease of sitting inside your calm.
+fortuneMost2: You'll walk into a room braced for an argument and the argument will forget what it was about.
+fortuneHigh: Someone will try to hurry you. Decline gently and let the work keep deciding for itself; what matters arrives finished anyway.
+fortuneHigh2: A friend who talks past every polite stopping point needs the chair held, not the clock checked. Stay until they reach the end.
+fortuneMid: The thing slow-baking doesn't need you hovering. The hours salt it on their own.
+fortuneMid2: A decision crowded by everyone's opinions gets lighter the moment you stop adding yours. Let it sort itself out.
+fortuneLow: The yes you've been letting steep already came. Act on it before the warmth of it cools — waiting past this point isn't peace.
+fortuneLow2: Settle the small thing while it's small. Answering early costs you the long simmer you love, and saves you the month of dread.
+fortuneLeast: Wake already moving and eat standing for once. The day runs faster when you do, though the stillness will call you back by noon.
+fortuneLeast2: Pick the plan yourself and say so plainly. A little briskness clears the week — even if it feels like skipping a course you'd meant to savour.
 facetMostTitle: The Anchovy's Long Give
 facetMost: You let appointments drift past their hour, and the work that matters arrives finished anyway.
 facetHighTitle: Oregano in the Oil

@@ -7,11 +7,16 @@ trait: disciplined
 dish: Red beans and rice - Louisiana style with Andouille sausage and the holy trinity, made on a Monday.
 quote: We are what we repeatedly bean. Excellence, then, is not an act, but a habit.
 seasonalFortune: A Monday pot, set early, asked nothing of the cook but return. The season rewards the unremarkable hour repeated; richness arrives by accumulation, not by occasion.
-fortuneMost: Same chair, same hour. Show up especially on the day streaks usually die — that's the day the habit needs you, not the easy ones.
-fortuneHigh: When a friend asks you to skip the routine for something real, say yes. One missed session won't unmake the year.
-fortuneMid: On a clean page, write down what the practice is for. The reason has been quietly drifting behind the habit; reattach them.
-fortuneLow: The week has slipped its banks. Don't fight it; sleep what you can, eat what's there, restart at the natural beginning without apology.
-fortuneLeast: Burn the schedule. The thing it was meant to build is no longer the thing you want, and the rehearsal has outlived the show.
+fortuneMost: Same chair, same hour — show up hardest on the day the streak usually dies. That's the day the habit needs you.
+fortuneMost2: The unremarkable hour you've repeated for months is quietly about to pay out, all at once, when you'd half stopped expecting it to.
+fortuneHigh: When something real asks you to skip the routine, say yes. One missed day won't unmake the year.
+fortuneHigh2: A bedtime that drifts ten minutes a year is doing its slow work. Trust the body that has learned the hour.
+fortuneMid: Write down what the practice is actually for. The reason has wandered off behind the habit; bring the two back together.
+fortuneMid2: The same route walked in the same order, and the world meets you halfway down it. Small rituals carry more than they look like they should.
+fortuneLow: The week has slipped its banks. Don't fight the current — sleep what you can, eat what's there, begin again at a natural beginning.
+fortuneLow2: Spend by feel and let the month sort itself out. Not every good stretch needs a system holding it up, even if the looseness makes your hands itch for the ledger.
+fortuneLeast: Burn the schedule. What it was built to make is no longer what you want — and yes, walking away from a thing you kept so faithfully will ache.
+fortuneLeast2: Sleep when sleep comes, eat when hunger asks, let the days lose their grid. The rigour that built the life can wall it off, though loosening the walls will feel, for a while, like coming undone.
 facetMostTitle: The Monday Pot
 facetMost: Your friends know which night to call and which to leave you to your work.
 facetHighTitle: Sausage, the Same Way

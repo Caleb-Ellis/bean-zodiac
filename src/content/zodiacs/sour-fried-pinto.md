@@ -7,11 +7,16 @@ trait: manipulative
 dish: Chalupas poblanas - fried masa boats piled with pinto beans, pickled onion, and lime crema.
 quote: It is better to be feared than loved, if you cannot bean both.
 seasonalFortune: A season when seasoning reads as kindness; the lime brightens, the onion lingers, and pinto sweetness arrives only after the tongue has been steered.
-fortuneMost: Seat the right two side by side and walk away. The introduction is the whole con.
-fortuneHigh: Ask the second name on the list. The first will catch wind and arrive offering.
-fortuneMid: Drop the favour a week early. The interval launders the strategy into generosity.
-fortuneLow: Strip the staging. Ask the plain version — the arranged one was costing you a worse yes.
-fortuneLeast: They've clocked you. Ask outright, by name, and let the surveillance end with the question.
+fortuneMost: Seat the right two beside each other and step back; the introduction does the rest. You see the shape a gathering wants before anyone else does.
+fortuneMost2: You already know which two belong together, and why, the way you know which onion to pickle for which plate. Bring them together and let it run.
+fortuneHigh: Reach for the second name first, and the first catches wind and arrives offering before you've asked. The order of things is your craft — work it.
+fortuneHigh2: An invitation framed around the part they'll love comes back as yes on its own. A little seasoning, like lime on masa, makes the whole thing easier to swallow.
+fortuneMid: A favour offered well ahead of the ask that needs it stops being strategy and becomes plain generosity. The gap is what does it.
+fortuneMid2: When an apology is owed, your instinct is to do a kindness in its place and let the debt settle quietly. Say the plain sorry instead — it costs more up front and clears more in the end.
+fortuneLow: Drop the staging and ask the bare version. The arranged route was only ever buying you a softer, worse yes, and going in without the choreography will feel exposed — which is rather the point.
+fortuneLow2: Cook what you cook and let people like it or not. Leaving a gathering unsteered means trusting an outcome you didn't arrange; trust it anyway.
+fortuneLeast: Someone has clocked the floorplan you laid out. Ask outright, by name. The plainness will feel like surrender after all that arranging, and it's the better trade.
+fortuneLeast2: An ask with its seams showing, nothing positioned behind it, costs less than the choreography ever did. Letting it land bare goes against your whole grain — the honesty buys back what the staging was quietly spending.
 facetMostTitle: Cargo by Design
 facetMost: You write the message for the person reading over their shoulder, and the reply comes back as scripted.
 facetHighTitle: The Sharpened Onion

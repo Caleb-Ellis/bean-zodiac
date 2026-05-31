@@ -7,11 +7,16 @@ trait: calculating
 dish: Navy bean and aged miso gratin with Gruyère and toasted breadcrumb.
 quote: It is not enough to bean well; one must also bean at the right time.
 seasonalFortune: Miso deepens slowly in the crock; the season rewards those who track which crust browns first and which gives last under the spoon.
-fortuneMost: Run the move you've been modelling for six months. The market conditions you were waiting for are now; further refinement is just stalling dressed as rigour.
-fortuneHigh: Bet small on the long thing you've already proven on paper. Real money is the only test left.
-fortuneMid: Pick the second-best option. The best one assumed inputs you can't actually control.
-fortuneLow: Round up. The precision was costing more than the error.
-fortuneLeast: Roll a die. The two options were equivalent and pretending otherwise was the tax.
+fortuneMost: Four versions of the moment have already run in you, and you know which one is least costly to be wrong about. The plan lands because the work was done long before the window opened.
+fortuneMost2: You're three moves ahead before you've made the first. Run the play you've rehearsed; more refinement now is only stalling dressed up as rigour.
+fortuneHigh: Re-check the assumptions once, then commit. What you've proven in your head still owes the world the test of being done.
+fortuneHigh2: You read the whole week before deciding the small thing in front of you. Let the foresight move you to act, not just to prepare again.
+fortuneMid: The finished plan is hard to step out of into real weather, and the open window keeps narrowing. Pick the safer of the two and go before the model gets one more pass.
+fortuneMid2: Take the second-best option — the best one assumed inputs you can't actually control. Good enough and underway beats perfect and still on paper.
+fortuneLow: Round it up and move on. The precision was costing more than the error ever would.
+fortuneLow2: Step through the open window instead of weighing it one more time. The leap will feel uneasy; some calls come out better for speed than for another scenario.
+fortuneLeast: When the two options are genuinely equal, flip a coin and abide by it. Pretending one is cleverer is just a tax you charge yourself.
+fortuneLeast2: Luck rides with the unplanned this turn — a knock at the door, a borrowed pan, an evening nobody modelled. Let one happen, ungoverned.
 facetMostTitle: Gruyère in Stages
 facetMost: You answer a message only after drafting the next three replies it could prompt.
 facetHighTitle: Breadcrumb in Ranks

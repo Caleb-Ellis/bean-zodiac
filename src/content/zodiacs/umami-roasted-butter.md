@@ -7,11 +7,16 @@ trait: receptive
 dish: Slow-roasted butter beans with anchovies, garlic, and rosemary.
 quote: The ear of the bean hears all and judges nothing.
 seasonalFortune: Anchovy salt dissolves into slow fat; rosemary gives up its oil only after hours. A season for things that arrive by accumulation, not announcement.
-fortuneMost: Don't interrupt — even helpfully. The good part of what they're saying is in the last three words and they haven't said them yet.
-fortuneHigh: Someone is about to tell you a small thing that is the smallest version of a large one. Ask the second question; the first answer was the placeholder.
-fortuneMid: Cook something that takes four hours. The thing you've been mulling will resolve itself somewhere around the third.
-fortuneLow: They want an answer, not a witness. Give them one even if it's half-formed.
-fortuneLeast: Say the rough version of the thing you've been polishing for a week. Polished, it would have been worse anyway.
+fortuneMost: Let them finish, even the unhelpful long way round. The truest part comes in the last few words, after the pause most people rush past.
+fortuneMost2: A stranger is going to tell you something they've never told anyone, and won't quite know why. That openness in you is the rarest thing you own.
+fortuneHigh: The small thing someone mentions is the smallest version of a bigger one. Ask the second question; the first answer was only the placeholder.
+fortuneHigh2: Rosemary gives up its oil only after hours. So does what someone really means — stay near long enough and it surfaces.
+fortuneMid: Give the thing you're mulling to your hands. Out on a walk, mid-chore, the answer arrives while you've stopped reaching for it.
+fortuneMid2: You feel a mood turn before anyone says so. Trust the read, but let them be the one to name it.
+fortuneLow: Sometimes they came for an answer, not a witness. Hand over what you actually think, even half-formed — the offering will feel less safe than listening did.
+fortuneLow2: When someone asks what you want, the question wants to bounce straight back to them. Hold it. Saying your own take plainly is a small exposure you can afford.
+fortuneLeast: Say the rough version of the thing you keep polishing. Held in too long it goes flat, and letting it out unfinished will sting a little.
+fortuneLeast2: Call it done before it's perfect. Close enough is a full stop — even if stopping feels like quitting early.
 facetMostTitle: Before the Smell Shifts
 facetMost: You catch the swerve first — the mood in a room, the small turn in a sentence.
 facetHighTitle: The Needle Laid Down

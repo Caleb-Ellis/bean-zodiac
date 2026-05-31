@@ -7,11 +7,16 @@ trait: nurturing
 dish: Chè đậu xanh — whole mung beans simmered in coconut milk and palm sugar with a knot of pandan leaf.
 quote: It takes a village to raise a bean.
 seasonalFortune: A long pot keeps its own quiet weather; the pandan steeps, the sugar yields, and the room around it slowly softens without announcement.
-fortuneMost: Tend the small invisible condition — the plant nobody waters, the calendar nobody updates, the colleague who hasn't been asked — and don't tell anyone you did it; the room will simply be easier by the end of the week.
-fortuneHigh: Text the friend who has gone quiet for two weeks one more time, with a specific memory and no question attached, and let them answer when they can.
-fortuneMid: Tend a smaller patch than usual — just the one pot, just the one corner — and spend the recovered hour reading something nobody recommended to you.
-fortuneLow: The garden you've been hand-watering for six months has its own gardener now; set the can down at the gate, walk home slowly, and resist the urge to peek over the fence on the way.
-fortuneLeast: Sit down at the table you usually serve from, hand someone else the ladle, and accept the bowl they pour for you without rearranging the napkins or reaching for the salt.
+fortuneMost: Tend the small invisible thing — the plant no one waters, the friend no one's asked after — and tell nobody you did. The room is just quietly easier.
+fortuneMost2: You feed people the moment they sit, before they'll admit they came hungry. The pandan steeped while no one watched; trust the care that runs ahead of the asking.
+fortuneHigh: Turn up at the quiet one's door with bread and a specific memory, no question attached. Leave the warmth on the mat if the door doesn't open — they'll answer when they can.
+fortuneHigh2: A softening you set going long ago is about to reach someone who couldn't name its source. The care steeped in, never performed, finds its way out.
+fortuneMid: Tend one corner instead of the whole garden, and spend the recovered hour on something nobody recommended to you.
+fortuneMid2: The kitchen light's still on for a thing you're tending but haven't named. Let some of it cool; don't reach straight for the next pot.
+fortuneLow: The garden you've hand-watered for months has its own gardener now. Set the can down at the gate and don't peek over the fence. It won't wilt without you; that's the good news.
+fortuneLow2: Keeping your own rooms to yourself isn't retreat. Lock the door, call it rest, and let no one's needs in for a while — strange as the quiet feels with nothing to stir.
+fortuneLeast: Sit at the table you usually serve from. Hand someone else the ladle and take the bowl they pour. No rearranging, no reaching for the salt; let your hands stay empty and the task be someone else's.
+fortuneLeast2: Leave before the bowls are cleared this once. Let the next thing wait and someone else do the tending — even as it tugs at your sleeve on the way out.
 facetMostTitle: Palm Sugar Before the Taste
 facetMost: You feed people the moment they sit down, before they admit they came hungry.
 facetHighTitle: The Pandan Knot

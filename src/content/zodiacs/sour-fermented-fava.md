@@ -7,11 +7,16 @@ trait: contrarian
 dish: Fatteh - Palestinian fava and yogurt with toasted bread, lemon, and pine nuts.
 quote: Whenever you find yourself on the side of the majority, it is time to bean and reflect.
 seasonalFortune: Ferment outlasts the harvest it argues with. The crock keeps a sour counter-position long after the field forgets, and the lemon never agrees.
-fortuneMost: Say "hold on" out loud. The consensus is sprinting past the cracked tile and you saw it land.
-fortuneHigh: Let them finish the sentence before you object. The objection ferments better if it survives the pause.
-fortuneMid: Stay on your hill through the second round. The third round is when someone else's voice joins yours.
-fortuneLow: Agree to the split as proposed. You're holding out over £6 and a principle that won't keep.
-fortuneLeast: Vote with the room. The dissent forming in your mouth is muscle memory, not conviction — let it pass unspoken this once.
+fortuneMost: Everyone is sprinting past the thing only you caught. That "hold on" climbing your throat is worth saying out loud — the lemon never agreed either.
+fortuneMost2: While the heads are still nodding, name the two things you actually disliked, calmly. The minority position is yours because it held under pressure no one else bothered to apply.
+fortuneHigh: A counter-case ferments better for surviving the pause. Let them finish before you object; the same dissent lands sharper for having waited out the crock.
+fortuneHigh2: A question that pokes the consensus opens a longer crack than a flat objection ever could. Make the agreement examine itself instead of planting your dissent like a flag.
+fortuneMid: Hold the position into the second round and a second voice joins you by the third. The table circles back to whoever didn't budge.
+fortuneMid2: '"It was fine" is allowed to just sit there. Not every soft disagreement needs the full argument dragged in behind it.'
+fortuneLow: The split as offered is close enough, and the principle you're guarding is loose change and pride. Concede it — you lose the small thrill of the stand and buy back a whole afternoon.
+fortuneLow2: Let someone else pick the route, the temperature, the small daily thing this once. These votes were never worth calling, and the quiet underneath is a rest you've been skipping — even if going along feels like surrender at first.
+fortuneLeast: The dissent rising in your mouth is muscle memory, not conviction. Let it pass unspoken; your jaw will fight it, and you'll be glad you didn't climb a hill you couldn't name.
+fortuneLeast2: Sign what's fairly offered and walk on. Not every set of terms is a hill, and the ease of just agreeing sits foreign at first, then it sits free.
 facetMostTitle: Lemon, Uninvited
 facetMost: In any group you refuse to dissolve into the easy agreement everyone else is busy reaching.
 facetHighTitle: The Crust Before It Yields

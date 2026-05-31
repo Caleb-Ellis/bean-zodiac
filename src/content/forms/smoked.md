@@ -3,6 +3,7 @@ slug: smoked
 name: Smoked
 tagline: The Form that obscures.
 traits: [enigmatic, inscrutable, elusive, oblique, uncanny]
+toneOfVoice: Leaves an impression you can't trace; you're not sure what was said, only that something shifted.
 ---
 
 Smoking works through concealment. The flame is elsewhere; what reaches the Bean is only its residue — a presence without a source, a transformation with no visible cause.

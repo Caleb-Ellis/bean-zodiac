@@ -7,11 +7,16 @@ trait: apathetic
 dish: Pinto beans slow-braised with fish sauce, caramelised onion, and lime.
 quote: The opposite of bean is not hate, it's indifference.
 seasonalFortune: A long braise dulls the senses; the onion blackens past sweetness and no one at the table reaches for the lime.
-fortuneMost: Play the song that used to wreck you. If nothing moves, play the next one. One of the first three will land.
-fortuneHigh: When the next invitation lands, accept it inside the same breath you read it in. The pause between is where the no has been hiding for months.
-fortuneMid: Tell one true story out loud, even badly. The telling is the way back; the audience doesn't matter, and the dial moves a notch.
-fortuneLow: Eat something with a strong flavour. Taste before opinion.
-fortuneLeast: Cry at the commercial. Whatever cracked is the door.
+fortuneMost: The album that once wrecked you plays clean through and you're thinking about the dishwasher. It isn't emptiness underneath — it's a dial worn quiet by caring too much, too long.
+fortuneMost2: One more pull on the sleeve barely lands, and that's allowed. You steeped so long and so dark that the quiet is what's left after the caring, not the lack of it.
+fortuneHigh: The fast warm reply has slowed to a lightly, sometime-later. No apology owed for the lag — but answer the one person who'd feel the absence.
+fortuneHigh2: You arrive late, leave early, and the room won't stay in memory afterward. Pick one thing to be genuinely inside of and let the rest keep its arm's length.
+fortuneMid: The dial's gone quiet and no one, you included, knows when it climbs back. Tell one true story out loud, even badly — the telling nudges it a notch.
+fortuneMid2: Calls returned eventually, birthdays remembered late — that's the pace you're moving at. Say yes to one small thing before the no can settle.
+fortuneLow: Eat something sharp — fish sauce, lime, the braise gone dark at the edge — and let the taste arrive ahead of any opinion. The body still remembers how to be moved.
+fortuneLow2: Weather changes on your face before you've named it. The caring sits closer to the surface than it feels; reaching for it takes something.
+fortuneLeast: A turning omen this time — a spark catches and you go, and stay till the house lights come up. The dial's come back, even if you half distrust it.
+fortuneLeast2: Play the song that used to wreck you and let it wreck you again. Whatever cracks open is the door.
 facetMostTitle: The Darkening Jar
 facetMost: The album that used to wreck you plays through, and somewhere around the third track you are thinking about the dishwasher.
 facetHighTitle: Caramel at the Edge

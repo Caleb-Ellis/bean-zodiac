@@ -7,11 +7,16 @@ trait: zealous
 dish: Sichuan boiled green beans with doubanjiang and peppercorn.
 quote: I have nothing to offer but bean, toil, tears and sweat.
 seasonalFortune: A season when the pot is kept at full boil; the peppercorn's numbness settles in slow, and what was urgent at dawn still simmers past dusk.
-fortuneMost: Pick one fight this week and finish it. The other six get filed; conviction without focus is just weather.
-fortuneHigh: Make the call you've been rehearsing. The rehearsal has already cost more than the call will.
-fortuneMid: Bring one sentence to the meeting, not three slides. The one that survives the doorway is the only one that matters.
-fortuneLow: Mute the chat for the day. The cause is real; your participation in it right now is not.
-fortuneLeast: Let the simmer stay low this week without apologizing for it. The heat you're not spending now is being saved, not lost.
+fortuneMost: A cause you take up at midnight is still burning by the next one — that's rare and it's real. Point the whole fire at one thing and it moves.
+fortuneMost2: Pick one fight and finish it. The other six can wait; conviction without focus is just weather, loud and going nowhere.
+fortuneHigh: The thing you've been rehearsing has already cost more than the doing of it will. Your fire is fastest in the first minute — spend it there.
+fortuneHigh2: Your heat lands somewhere good, and a stranger catches it. The spark you didn't mean to throw starts something.
+fortuneMid: One clear sentence, not three. The one that survives the doorway is the only one that ever mattered.
+fortuneMid2: You've circled this same argument three times now, sure the answer sits one pass away. It might not — let this lap be the last.
+fortuneLow: The cause is real and it doesn't need you in the fray every hour. Step back from the blaze — you'll step back in rested, though it'll itch to stay.
+fortuneLow2: Not every fire is yours to feed. Walk past one without adding a log — the cause loses nothing, even if it feels like it should.
+fortuneLeast: A low simmer needs no apology. The heat you don't spend isn't lost, only banked — sit with the stillness even when it feels like neglect.
+fortuneLeast2: Someone else's shrug is allowed to stay theirs. The silence you leave around it isn't betrayal, however much it reads like one to you.
 facetMostTitle: The Jar Scraped Clean
 facetMost: You finish the draft at three in the morning, send it before the kettle cools, and begin the next.
 facetHighTitle: Heat Through the Pod

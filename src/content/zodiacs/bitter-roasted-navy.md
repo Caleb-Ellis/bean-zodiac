@@ -7,11 +7,16 @@ trait: prudent
 dish: Roasted navy bean and bitter endive salad with mustard vinaigrette.
 quote: In preparing to bean, I have always found that plans are useless, but planning is indispensable.
 seasonalFortune: A jar of mustard seed kept dry through three winters; the season favours those whose pantries answer questions before they are asked.
-fortuneMost: Top up the petrol on the way home, not on the way out the door for something that matters. Tomorrow's you is grateful in a way today's you won't notice.
-fortuneHigh: Send the message you drafted before bed. The overnight did its job; another night ruins it.
-fortuneMid: A friend asks for the recommendation. Give the one place, not the shortlist. The shortlist is for you.
-fortuneLow: Send the version you have. The remaining unknowns aren't the ones a plan was going to catch anyway.
-fortuneLeast: Get on a train without checking the return time. The 9:47 will exist; it always does.
+fortuneMost: You set the coat by the door, so the rain finds you already buttoned. That quiet readiness is the whole art, and it's about to pay out.
+fortuneMost2: A winter you can't yet see is on its way, and your pantry already answers it. The foresight you stored is about to prove its worth.
+fortuneHigh: The hard thing you settled overnight is ready. The night did its work; a second one would only spoil it. Send it.
+fortuneHigh2: Knowing where the exit is turns out to be its own kind of ease. The careful choice you've lined up is the right one, and it holds.
+fortuneMid: A friend asking where to go wants the one place, not the shortlist. The shortlist was only ever for you.
+fortuneMid2: The fare that looks fine is fine to book. You've checked enough, and the last unknowns were never yours to catch anyway.
+fortuneLow: The version in your hands is ready to go. What's left unknown isn't the kind a plan ever catches — much as letting it stand unsettles you.
+fortuneLow2: The bill paid the day it's due, not a week early; the coats heaped on the chair a while. The slack costs you nothing real, hard as the mess is to walk past.
+fortuneLeast: A road is opening that you should step onto without first pricing the way back. The later route home always exists — though boarding unsure goes against everything you keep.
+fortuneLeast2: Something lovely is sitting in a shop window, yours to carry home unboxed and unplanned. Some things don't want grinding the night before — costly as the leap feels mid-air.
 facetMostTitle: Mustard Ground the Night Before
 facetMost: You set out tomorrow's coat by the door, and the rain that arrives finds you already buttoned.
 facetHighTitle: The Vinaigrette at Rest

@@ -86,10 +86,15 @@ export type ZodiacSchema = {
   facetMostTitle: string;
   facetMost: string;
   fortuneLeast: string;
+  fortuneLeast2: string;
   fortuneLow: string;
+  fortuneLow2: string;
   fortuneMid: string;
+  fortuneMid2: string;
   fortuneHigh: string;
+  fortuneHigh2: string;
   fortuneMost: string;
+  fortuneMost2: string;
   question: string;
   answerMost: string;
   answerHigh: string;

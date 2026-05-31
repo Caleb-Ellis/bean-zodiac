@@ -7,11 +7,16 @@ trait: excitable
 dish: Tempura - green beans with bitter matcha salt.
 quote: Nothing great in the world was ever achieved without beans!
 seasonalFortune: A season of hot oil and short windows. The batter sets the instant it meets the pan, and the days reward whoever is already standing at the stove.
-fortuneMost: Sprint the first yes. The other four yeses won't notice; they were never the point.
-fortuneHigh: Talk to the stranger in the queue. You clocked them already; don't make it a story you tell later.
-fortuneMid: Close the old tab before you open the new one. Both will taste better; one of them will get finished.
-fortuneLow: You're three steps ahead and lapping the meeting. Sit down. Let them catch up.
-fortuneLeast: One dim lamp, one empty hour, calendar cleared. That is the entire instruction.
+fortuneMost: Run at the thing that lit you up. You're already on your feet — go, and let the rest keep where you left it.
+fortuneMost2: An idea lands and you see its whole shape at once. Say yes out loud while it's still hot from the oil. This one rewards the running.
+fortuneHigh: There's a hello you're tempted to save for a story told later. Cross the room instead. The version where you actually meet is the better one.
+fortuneHigh2: That spark deserves a real sprint, and the window on it is shorter than it looks. Pick it up before the heat goes out.
+fortuneMid: Finish the old thing before you start the new one. Both go better; only one of them gets done.
+fortuneMid2: The wild plan reads truer cooled a few days. Whatever's still glowing once the first heat dies is the part worth your yes.
+fortuneLow: Three steps ahead and lapping the room. Holding still feels like wasted fire — give them a beat to catch up anyway.
+fortuneLow2: Not everything that lights up is yours to chase. Watching this spark go by will nag at you; let it go all the same.
+fortuneLeast: One dim room, one bare shelf, one evening with nothing on it. It'll feel like an empty pan. The quiet is the point.
+fortuneLeast2: A back burner kept cold on purpose itches at you, all that heat unused. The pan you don't light is doing real work too.
 facetMostTitle: The Bean, Mid-Air
 facetMost: A song comes on at the bar and you are already up, already explaining it to a stranger, the bottle still tipping where you left it.
 facetHighTitle: Matcha on a Stranger's Plate

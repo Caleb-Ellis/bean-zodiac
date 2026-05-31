@@ -7,11 +7,16 @@ trait: rebellious
 dish: Fava and pixian doubanjiang stir-fry - fava beans with fermented broad bean chili paste and garlic shoots.
 quote: The most common way beans give up their power is by thinking they don't have any.
 seasonalFortune: Sealed crocks darken through the season while the world above forgets them. What surfaces in spring tastes of years spent declining every easier path.
-fortuneMost: Unsubscribe from the thing everyone agrees you should be subscribed to. The quiet afterwards is the answer you've been waiting to hear yourself say.
-fortuneHigh: Decline the invitation without offering a reason. The reason was the trap.
-fortuneMid: Say the obvious heretical sentence first, before anyone else has had to draft it. The silence after it is shorter than you think.
-fortuneLow: Take the agreeable option. You're not collecting receipts for every fight.
-fortuneLeast: Follow the recipe exactly. Improvising here would be a costume, not a position; save the swerve for the kitchen that earned it.
+fortuneMost: You worked out alone, long ago, why the agreed plan won't survive contact with the world. Go do it your way in the corner where it works.
+fortuneMost2: Walk off the road everyone agrees you should be on. The quiet that follows is an answer.
+fortuneHigh: Ask the one inconvenient question the others are praying nobody raises. The silence after it runs shorter than you fear.
+fortuneHigh2: When the rules close in, go around them and talk to the people directly. You owe no one a reason for declining the shape they made.
+fortuneMid: Your reasons stay sealed in the crock, so the refusal lands as a slammed door. The position works better with its why attached.
+fortuneMid2: Name the doubt plainly before you fall in, so going along doesn't read as agreement you never gave.
+fortuneLow: Take the agreeable option this once. You aren't collecting receipts for every fight, and not every plan is the hill.
+fortuneLow2: Pay the small unfairness, skip the principled letter, walk on. Your teeth will be set against it; choosing not to push is its own strength.
+fortuneLeast: The wheel turns toward the easy yes this time. The menu was settled before you walked in — let the room go un-rearranged, and let that be fine.
+fortuneLeast2: Follow it exactly as written and save the swerve for what's worth the door it closes. A refusal here would be a costume, not a stance.
 facetMostTitle: The Cracked Seal
 facetMost: You rearrange the room before the host returns, certain the new arrangement is the right one.
 facetHighTitle: The Stained Spoon

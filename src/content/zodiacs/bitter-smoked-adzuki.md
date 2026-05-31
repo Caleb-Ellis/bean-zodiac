@@ -7,11 +7,16 @@ trait: oracular
 dish: Smoked adzuki with bitter black garlic and charred citrus.
 quote: The unexamined bean is not worth living.
 seasonalFortune: Smoke drifts ahead of the flame this season; the reader who names the shape in the haze keeps a small advantage over the rest of the room.
-fortuneMost: You called the ending in the cab over. Say it out loud before the dessert menu arrives — the toast is the point, not the surprise.
-fortuneHigh: Someone hands you a half-question with the answer tucked in the second clause. Finish it for them, dryly, and let them claim it back.
-fortuneMid: Pick the prediction you'd bet rent on, write it on a receipt, slip it under a candle. Light the candle in four weeks.
-fortuneLow: The hunch arrived before the weather did. Don't act yet; pour a second coffee and let the forecast catch up.
-fortuneLeast: The thing you braced for crossed the threshold an hour ago and you missed it bracing. Pour a drink for the next one anyway.
+fortuneMost: You already know how this one ends. Say it out loud while there's still time to spare someone the trip.
+fortuneMost2: A reckoning is on its way, and you'll catch the scent of it long before anyone else. Of everyone here, you are the early warning — trust that.
+fortuneHigh: A stranger's going to tell you something, and you'll know the truth of it three words in. Believe the part they haven't said yet.
+fortuneHigh2: Good news rides in on a hunch you've been half-ashamed to carry. It's the right one. Back it.
+fortuneMid: You've got a read you'd put money on. Hand it over the first time it matters, not at the bedside afterward.
+fortuneMid2: Faint as char on a rind, the sign is already there.
+fortuneLow: A flicker comes in ahead of the proof, and your hand twitches toward it. Let the rest catch up — knowing early is no use if you spend it too soon, hard as the wait sits.
+fortuneLow2: Not every draft means a door's about to open. You can leave this one unread and trust it to keep, though leaving it alone will itch.
+fortuneLeast: The thing you stood guard against all night drifted past in the dark and kept going. Some skies turn on their own, no watcher required — strange, how light that makes you.
+fortuneLeast2: Tomorrow can stay tomorrow's. There's a rest in it you don't quite trust yet, and it's yours anyway.
 facetMostTitle: Ember Spelling Its Name
 facetMost: You walk into a room and know which lamp will fail tonight; you replace the bulb without ceremony.
 facetHighTitle: Black Garlic, Already Turned

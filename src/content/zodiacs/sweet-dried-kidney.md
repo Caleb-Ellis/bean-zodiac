@@ -7,11 +7,16 @@ trait: adoring
 dish: Habichuelas con dulce — dried kidney beans cooked with coconut milk, sweet potato, raisins, and warm spice into a Dominican Easter dessert.
 quote: The course of true love never did bean smooth.
 seasonalFortune: The dried bean keeps its heat tucked under a wrinkled coat; in this household a feeling, once taken in, simmers for months before it is ladled out.
-fortuneMost: Say "I love you" before the call ends. Voice cracks count.
-fortuneHigh: Send the long message. Don't trim a single line; the surplus is the gift.
-fortuneMid: Tell the barista their hair looks good. Mean it.
-fortuneLow: Match the volume in the room. Save the heat for someone closer.
-fortuneLeast: Let the invitation sit unanswered overnight. The warmth is not owed before it's felt, and the felt version arrives in the morning.
+fortuneMost: The first ticket stub still in a book by the bed, the song from the bad year and the good one both kept. Ladle it out while it's hot — say the warm thing before the call ends.
+fortuneMost2: A heart drawn over and over in the same ink. They were the right person before it started, and stay right straight through the evidence.
+fortuneHigh: You say it first, often, mid-sentence about something else, never checking whether the room was ready. Keep doing that.
+fortuneHigh2: Two hands reaching for the same flower. You forgive the small selfish thing before they've even apologised, and you mean it. Lead with the warmth again.
+fortuneMid: Whoever sits beside you gets the full weather of your heart before the next stop. Tell someone plainly the kind thing you noticed.
+fortuneMid2: Let one honest compliment land on a near-stranger. It costs you nothing and warms a whole day — maybe two.
+fortuneLow: Save the full heat for the people closest and meet the rest at the room's own volume. It'll feel like withholding; it's only aim, not coldness.
+fortuneLow2: Allow yourself the private quiet. Love doesn't have to be loud to be real, even if going quiet feels, to you, like loving less.
+fortuneLeast: A sealed envelope left on the counter overnight. The honest version arrives only once you've weighed whether the journey's worth it — let it sit.
+fortuneLeast2: File the small slight under the running list and don't rush to write it off. You can keep loving the person without editing the flaw out first.
 facetMostTitle: Cinnamon That Does Not Yield
 facetMost: The notebook you keep returns to the same name across years, each entry darker and sweeter, none of them retracted.
 facetHighTitle: Raisins Swelling Against the Spoon

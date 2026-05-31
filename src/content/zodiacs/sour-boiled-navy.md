@@ -7,11 +7,16 @@ trait: literal-minded
 dish: Navy bean and escarole soup with lemon and Parmesan.
 quote: When I use a bean, it means just what I choose it to mean — neither more nor less.
 seasonalFortune: A season of bright broth and named parts. Escarole keeps its bitterness, lemon its edge, Parmesan its salt. Nothing borrows a flavour it has not earned.
-fortuneMost: Ask what they meant. "I figured it out" is the lazy answer; the asking is the conversation.
-fortuneHigh: Somebody texts "fine." Send the real question back, one line, no padding. Politeness is not a service to them.
-fortuneMid: One sentence is doing two jobs. Answer the harder one and pretend the other isn't there.
-fortuneLow: Reply to the tone of the email, not the wording. The literal read passes the test and fails the friendship.
-fortuneLeast: This message is not its text. Reply to the mood, not the syntax; the literal read is wrong this time, and the sender is hoping you'll notice.
+fortuneMost: Someone says "fine." Ask what fine means and wait for the answer in the words they give back.
+fortuneMost2: A relief is on its way. Answer the question you were actually asked, not the one they think you should have.
+fortuneHigh: An answer comes back clipped. Hand the real question straight back to it — smoothing it over isn't a kindness to either of you.
+fortuneHigh2: '"Are you hungry" and "should we eat" are not the same question, however close they sound. Answer the one meant.'
+fortuneMid: One sentence doing two jobs is worth splitting. Take the harder half head-on; the other half can wait.
+fortuneMid2: You measure the coffee, you arrive at the minute you named. Escarole, lemon, Parmesan — each itself, no apology.
+fortuneLow: Sometimes the tone is the message and the words are only packaging. Reading past them will feel like guessing. Do it anyway; the literal read passes the test and fails the friend.
+fortuneLow2: A pause before some sentences carries the real thing. Answer the silence.
+fortuneLeast: '"I''m fine" through clenched teeth is not its words. The plain text is right there, tempting you. Leave it; answer the mood.'
+fortuneLeast2: Some things were never a sentence to parse. Skip the words and sit closer.
 facetMostTitle: Lemon Where Lemon Is Asked
 facetMost: When a friend says fine, you ask what fine means and wait for the answer in the words given.
 facetHighTitle: Escarole Leaf by Leaf

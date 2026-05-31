@@ -7,11 +7,16 @@ trait: indulgent
 dish: Gratin - butter beans with bitter radicchio and taleggio.
 quote: If I have one more bean I'm gonna pop!
 seasonalFortune: Radicchio darkens in the pan; taleggio loosens its rind. The slow-built crust rewards a temperament that refuses thin pleasures and waits out the deep ones.
-fortuneMost: Pay for the expensive one. The cheap version is a small grudge you'd carry all evening.
-fortuneHigh: Pour the second glass before they finish the first. The hesitation reads as rationing.
-fortuneMid: Draw the bath before the kettle. Whatever the afternoon was, it can be rearranged around water.
-fortuneLow: Leave one chair short on purpose. The empty corner is the point; don't fill it for symmetry.
-fortuneLeast: Skip the long dinner. Eat a piece of toast standing up and go to bed early — the lingering you planned would have gone sour by ten.
+fortuneMost: Buy the taleggio from the good counter. The cheap rind is a grudge you'd taste in every bite all evening.
+fortuneMost2: That rich, slow pleasure you refused to cheapen is nearly ripe. The wait was the price, and you paid it gladly.
+fortuneHigh: Top up their glass before it runs empty. Rationing the good thing reads as cold, and the open hand always gets fed in turn.
+fortuneHigh2: A windfall of plenty is rolling toward you — a feast, a long table, more than enough. You of all beans know how to sit down and receive it.
+fortuneMid: Leftovers reheated, a proper glass set beside them. A meal can still be wanted, not merely eaten.
+fortuneMid2: Answer one comfort and let the rest wait. A table laid full every single time stops being a treat and becomes a rut.
+fortuneLow: A bare windowsill and one chair too few isn't lack — it's room to breathe. Leave the corner empty, though your hands keep reaching to fill it.
+fortuneLow2: The plain plate, no flourish. More isn't always the kindness, and the smaller portion can be the better gift — even if serving less feels like withholding.
+fortuneLeast: Toast for dinner, lights out early. The long lingering you'd planned would only have gone heavy and sour — skip the feast, though missing it stings going in.
+fortuneLeast2: Something inconvenient is on its way to your door, unasked-for, a draft you'd rather not let in. The life that opens the latch stays awake — and comfort will tell you, wrongly, to keep it shut.
 facetMostTitle: Taleggio From the Good Counter
 facetMost: You pay for the version that ruins all cheaper versions, and you do not apologise for the bill.
 facetHighTitle: The Second Helping

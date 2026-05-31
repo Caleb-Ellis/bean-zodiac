@@ -7,11 +7,16 @@ trait: flexible
 dish: Harira - Moroccan chickpea soup with preserved lemon and tomato.
 quote: It is not the strongest bean that survives, nor the most intelligent, but the one most responsive to change.
 seasonalFortune: A pot of harira keeps changing for hours — tomato thinning, lemon sharpening, chickpea giving up its edge. The kitchens that thrive this season are the ones tended slowly.
-fortuneMost: Throw out the plan over breakfast. The new one is right there, slightly tart, already half-cooked.
-fortuneHigh: The question changes mid-answer. Drop the old answer with no funeral and meet the new one.
-fortuneMid: Stop pushing the door. It opens with a finger; you're using a shoulder.
-fortuneLow: Sit in one chair until dark. In this stretch the bending is reading as flailing — let the room watch you stay put.
-fortuneLeast: Name a number, hold it, refuse the counter-offer. One sharp "no" beats three squishy "maybes."
+fortuneMost: A better plan is on its way, half-cooked and a little tart like harira an hour in. When it lands, drop the old one without ceremony.
+fortuneMost2: Good news, and it arrives sideways. The evening that turns at the door becomes the one you wanted.
+fortuneHigh: The question shifts while you're still answering it. Let the old answer go without a funeral and meet the new one — you do this better than most.
+fortuneHigh2: You match their weather, their pace, the joke they almost made, and the talk simmers wherever you stir it. That ease is craft.
+fortuneMid: A door opens to one finger. No need to put a shoulder into it.
+fortuneMid2: One round, then read how you feel. Decide later how much of the night to bend around.
+fortuneLow: Hold one chair a while. When bending starts to read as flailing, sitting still says more — even if staying put chafes.
+fortuneLow2: Some things keep their place for a reason, the way the lids face out on the shelf. Leave them set. You'll miss the small pleasure of rearranging; let it go.
+fortuneLeast: One clean no serves you better than three soft maybes. Name the number and hold it.
+fortuneLeast2: The yes that should have been a no can simply stay no. The terms are the terms.
 facetMostTitle: Tomato Finished in Lemon
 facetMost: You revise the plan mid-sentence, and the new shape fits the page better than the one you outlined.
 facetHighTitle: Tilted Toward Whoever Sat Down

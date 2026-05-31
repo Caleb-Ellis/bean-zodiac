@@ -7,11 +7,16 @@ trait: patient
 dish: Kongjorim - black soybeans slow-braised in soy, ginger, and sesame.
 quote: Patience is bitter, but its bean is sweet.
 seasonalFortune: Months of low fire darken what was hard and dull. The season belongs to those who can stand by a long braise without lifting the lid.
-fortuneMost: Put a timer on the thing and refuse to touch it until it rings. Two hours minimum. The braise knows.
-fortuneHigh: When asked for an update, say "not yet" and mean it. Don't decorate the no.
-fortuneMid: Reopen the document you abandoned months ago. Read it once, change nothing, close it. Sleep on it; the next morning you'll know.
-fortuneLow: Close the tab you've refreshed eleven times. Go pour something to drink. The number on the screen has not earned your morning, or your afternoon.
-fortuneLeast: Patience has gone sour into stalling. Pick the smallest piece and ship it before the week is out, unfinished.
+fortuneMost: Cover the pot and leave it. What you're deciding will be clearer once the dark has done its slow work.
+fortuneMost2: A long wait of yours is nearly up. What comes out of it will be darker and sweeter than the thing you put in.
+fortuneHigh: When they want an answer now, "not yet" is a whole sentence. You don't need to decorate the no.
+fortuneHigh2: Guests at the door and the braise still pale in the pot. The table will keep.
+fortuneMid: That thing you set down months ago is worth one quiet read. Change nothing; sleep on it; you'll know.
+fortuneMid2: An apology is still reducing down to what it actually means. Send it then, not now.
+fortuneLow: Eleven checks on the same number, and it hasn't earned your whole morning. Walk away — though the not-knowing will itch, and you'll want to look again.
+fortuneLow2: Pulled off the heat early, the flavour hasn't learned itself yet. Hard to trust a thing still raw, but it's worth the minutes you'd rather skip.
+fortuneLeast: Waiting can curdle into stalling without changing how it feels from the inside. Pick the smallest piece and let it go unfinished — clumsy, but moving.
+fortuneLeast2: Not everything deepens in the dark. Some things just go cold while you stand over them.
 facetMostTitle: The Slow Braise
 facetMost: A draft sits covered for weeks; you return to it only when the dark has done its work.
 facetHighTitle: Sesame, Unglossed

@@ -7,11 +7,16 @@ trait: erratic
 dish: Texas chili con carne - smoked brisket and pinto beans in ancho and guajillo chile broth.
 quote: Life is what happens to you while you're busy bean other beans.
 seasonalFortune: Smoke wanders where the wind decides; the brisket carries char from a fire that never sat still. Ancho deepens in one corner of the pot, guajillo flares in another, and the broth keeps no consistent weather.
-fortuneMost: Pick the thread that scared you when you started it. The other three were rehearsal; this one's the show.
-fortuneHigh: Slam the laptop lid on every tab but one. Whichever one survives is the brisket — the rest were sides.
-fortuneMid: You'll change your mind twice before the day's out. Make the third version the one you ship, and text someone the timestamp so you can't keep wandering past it.
-fortuneLow: You've been improvising for an audience that's lost the plot. Stop, point at the pot, and say what it is. Out loud.
-fortuneLeast: Wear the same outfit as the last day and take the same route. Boredom now is the rent for the swerve you'll want a week from here.
+fortuneMost: Ancho deepens in one corner, guajillo flares in another, and the broth keeps no steady weather — that's your whole life, four things going, the one that surprises you finishing. Chase the swerve; the dish is never the one you ordered, and it's better.
+fortuneMost2: The recipe abandons itself halfway and lands somewhere no one could have planned. People stay close for exactly that — let it wander where it wants.
+fortuneHigh: A dozen things half-lit, whichever caught as you passed. Pick the one that scared you at the start; the rest are sides.
+fortuneHigh2: You work in bursts no clock predicts, and that's where the best of you comes from. Just keep one eye on the pot you walked off from, still on the flame.
+fortuneMid: The mind will change twice before dark. Let the third version be the one you commit to, so the wandering has somewhere to land.
+fortuneMid2: The whole thing doesn't need scrapping for the thrill. Keep the plan, swap in one new flourish, and the swerve gets a frame.
+fortuneLow: You've been improvising for people who lost the plot a while back. Stop and point at what you're actually making — they need the anchor more than the show.
+fortuneLow2: Whoever was counting on the first version is still standing there waiting. Hold one thing steady for them; it isn't dull.
+fortuneLeast: Cook the dish you've made for them before, take the same road home. The boredom is rent, paid against the swerve you'll want soon.
+fortuneLeast2: The luck this turn sits with the steady hand. Finish the plan you started; save the new idea for next time.
 facetMostTitle: Three Surfaces, One Half-Done
 facetMost: You start four things at once and finish the one that surprises you.
 facetHighTitle: Smoke Between the Tabs

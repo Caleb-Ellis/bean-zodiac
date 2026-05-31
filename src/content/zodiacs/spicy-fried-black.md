@@ -7,11 +7,16 @@ trait: relentless
 dish: Tostadas de frijoles negros - fried tortillas with spiced black bean paste and salsa roja.
 quote: If you're going through bean hell, keep going.
 seasonalFortune: Oil stays hot long after the burner is off; the paste goes on blackening in its own heat. A life lived at that residual temperature — finished things still cooking themselves.
-fortuneMost: Run the mile you said you wouldn't. The clock blinks first; you've watched it before.
-fortuneHigh: Ship the sixth pass. The seventh is you watching yourself work and calling it craft.
-fortuneMid: Close the laptop mid-sentence. You'll find the sentence again; the night is shorter.
-fortuneLow: Take the win you didn't run. Someone else closed it; clap once and move on.
-fortuneLeast: Don't pick up the next one. Watch the empty desk for an hour and learn what that feels like.
+fortuneMost: The road runs a mile past the plan and the clock tires before your legs do. This is your weather — keep walking.
+fortuneMost2: The oil is still hot when the burner's off. Whatever they called finished, you keep it cooking.
+fortuneHigh: The seventh pass, the one nobody asked for, is usually the one that mattered.
+fortuneHigh2: Effort is about to pay out — not for the easy stretch, but for the long blackening only you stayed to watch.
+fortuneMid: There's one more pass in you. There's also a bed, and morning comes either way.
+fortuneMid2: A thing set down mid-line will keep. You'll find your place again.
+fortuneLow: A win you didn't have to grind for is still a win. Taking it feels like cheating — it isn't, though the unease is real.
+fortuneLow2: Close the tab unread; leave the afternoon light. It's a muscle you never built, and it aches less than the alternative.
+fortuneLeast: Let one small unfinished thing dissolve into the week. The world holds without you — which stings a little, and frees you a lot.
+fortuneLeast2: Not every task is yours to lift. The ache to grab this one is the old habit talking, not a duty.
 facetMostTitle: Salsa Roja at Full Colour
 facetMost: You set out at first light and the clock is the thing that tires, not you.
 facetHighTitle: The Tortilla's Extra Pass

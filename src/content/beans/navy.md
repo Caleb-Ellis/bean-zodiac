@@ -3,6 +3,7 @@ slug: navy
 name: Navy Bean
 tagline: Still here. Still yours.
 traits: [principled, loyal, dependable, enduring, rigid]
+toneOfVoice: Steady and plain-spoken; means what it says and stands by it.
 imageFile: navy.webp
 ---
 

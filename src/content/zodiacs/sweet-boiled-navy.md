@@ -7,11 +7,16 @@ trait: frugal
 dish: Navy bean and black treacle pudding — beans boiled with treacle, ginger, and oats into a thick steamed pudding.
 quote: Beware of little bean expenses; a small leak will sink a great ship.
 seasonalFortune: A season of slow steam and weighed measures. The pudding thickens in increments; sweetness arrives by the spoonful, never the jug, and the pantry counts itself before the kitchen lights.
-fortuneMost: Cook the whole pudding from the back of the cupboard, the one made entirely from things you already own, and invite someone over to eat it — the resourcefulness is the love language, and it lands.
-fortuneHigh: Audit the cupboard before the next shop, write the actual list against what's already in there, and you'll come home with two bags instead of four and dinner already half-planned.
-fortuneMid: Pay full price for the one good thing this week — the proper coffee, the right shoes, the ticket — and walk back into the careful week without flinching at the receipt.
-fortuneLow: The no has tightened into a flinch; either say yes to the next small invitation with a generous tone, or say no with one warm sentence — the clipped version is reading as resentment to people who'd happily have heard either.
-fortuneLeast: Round up at the next shared dinner, leave the bigger tip, pick up the bill — the visible small generosity costs less than the long pinched silence you've been keeping, and you can spare it.
+fortuneMost: Build the whole meal from what's already on the shelf and feed someone with it. The resourcefulness is the love language, and it lands warm.
+fortuneMost2: You scrape the jar with the back of the spoon and rinse it for the next batch. There's a real, treacle-warm pleasure in making plenty out of little — let yourself have it.
+fortuneHigh: Take stock before you buy, list against what's already on the shelf, and come home with half the bags and dinner half-made.
+fortuneHigh2: A bit of careful saving is about to turn into exactly the cushion you need. You knew to the handful what the shelf held, and the map pays off.
+fortuneMid: Pay full price for the one good thing — the proper coffee, the shoes that fit — and don't flinch at the receipt. Enough was never the enemy of pleasure.
+fortuneMid2: Bring the made thing, not the bought one — twice the warmth, half the outlay. The homemade gift outshines the priced one.
+fortuneLow: The no has tightened into a flinch. Say yes warmly, or say no in one kind sentence; the clipped version reads as a resentment nobody earned. Opening the hand a little costs less than it feels like.
+fortuneLow2: You'd sooner give the whole pudding warm than work out whose half was bigger. Let the generosity run loose and keep the ledger shut, even when the counting habit tugs.
+fortuneLeast: Round up. Leave the larger tip, pick up the bill. The careful part of you will whisper; you can spare it, and the small open hand costs less than the pinched silence.
+fortuneLeast2: The proper coat, the ticket to see the far-off friend — you've known for months it'd be worth it. Buy the worth-it version and let the receipt go, even as your thumb hovers over the cheaper one.
 facetMostTitle: Treacle on the Tin
 facetMost: You scrape the jar with the back of a spoon, then rinse it for the next batch.
 facetHighTitle: The Dated Oat Jar

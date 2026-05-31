@@ -7,11 +7,16 @@ trait: wry
 dish: Balila - chickpeas with dried black lime and olive oil.
 quote: History doesn't repeat itself, but it does bean.
 seasonalFortune: Black lime keeps its tartness past every season; the years pucker the skin and sharpen what's left inside.
-fortuneMost: Tell the joke that's too true. Half won't laugh; that half is the audience.
-fortuneHigh: Hold the pause. Don't rescue it with a punchline.
-fortuneMid: Send the clipped reply. Brevity reads as warm here.
-fortuneLow: Sit through one conversation without narrating it. Just chew.
-fortuneLeast: Send the typo version. The polished one is a coward.
+fortuneMost: Say the joke that's too true. Half the room won't laugh — and that half was never your audience.
+fortuneMost2: The dry line lives in the one detail nobody else would have thought to name. Build it there.
+fortuneHigh: Let the silence drag a beat too long, then offer the smaller, drier version. The pause does half the work.
+fortuneHigh2: No need to raise your voice — the loud sentence collapses under your quiet one, the way oil settles a pot.
+fortuneMid: A thing cut to half its words warms when it comes from you. Trim it and let the brevity carry the affection.
+fortuneMid2: A friend's eye caught across the crowd, one eyebrow a millimetre up, the rest left unsaid. The whole conversation, and nobody else heard it.
+fortuneLow: Sit through one long story without narrating it from the side. Just chew — the quiet will feel strange before it feels easy, and that strangeness is the cost of finally being in the thing.
+fortuneLow2: Say the plain thing and mean it straight through, no twist on top. The wit is a shield too, and setting it down for a breath is the brave part.
+fortuneLeast: A heartfelt, unironic moment is coming and it's worth being swept into. Let the speech move you, clap when it ends, mean it — even as the watcher in you flinches.
+fortuneLeast2: Write the apology the way it first occurred to you, before the cleverer version arrives to defend you. The unguarded one costs more and lands deeper — that's the trade.
 facetMostTitle: The Pinch of Dried Lime
 facetMost: You build the joke around the one ingredient no one else would have named.
 facetHighTitle: Oil at the Rim

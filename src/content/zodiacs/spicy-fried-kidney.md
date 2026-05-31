@@ -7,11 +7,16 @@ trait: temperamental
 dish: Kottu roti with kidney beans - Sri Lankan stir-fried roti with chili and curry.
 quote: Any bean can be angry — that is easy. But to be angry with the right person, to the right degree, at the right time, for the right purpose — that is not easy.
 seasonalFortune: A season ruled by the griddle's clatter. Roti gets chopped under a hot blade, chili meets oil, and the kitchen runs on quick weather — bright, loud, gone.
-fortuneMost: Have the fight in the right room. Then sweep up alone — no audience, no help, no story about it after.
-fortuneHigh: Send the hot version. If you apologise, apologise for the hour, never for the heat.
-fortuneMid: Drop the sharp question into the polite meeting. Don't leave when it lands; that's the whole point.
-fortuneLow: Read it twice before you swing. It wasn't aimed at you and the person who wrote it is already gone.
-fortuneLeast: Shut the window. The weather has turned and your voice in it just makes you part of the storm.
+fortuneMost: You say the thing nobody else will, in the moment it's actually true. Say it where it counts.
+fortuneMost2: The heat that rises in you is real weather — bright, loud, gone. Let it break, then let it pass.
+fortuneHigh: A too-polite table needs one sharp question dropped into it like chili into oil. Ask it, and stay for the answer.
+fortuneHigh2: Honestly hot beats carefully cold. Speak it warm; apologise for the timing if you must, never for the truth.
+fortuneMid: An edge is sitting under your calm. Let a little show before it builds — small heat clears the air that big heat would scorch.
+fortuneMid2: Name plainly what stung you and leave the blade in the drawer. Sharp without scorching is a range you have.
+fortuneLow: Read it twice before you swing. It wasn't aimed at you, and holding the blade still this once costs less than it feels like.
+fortuneLow2: Sit on the sting for a day. The edge goes out of it, and the regret goes with it.
+fortuneLeast: The weather's already turned, and your voice in it only feeds the storm. Lower your own flame and let it blow past — staying quiet inside it is the hardest thing you'll do.
+fortuneLeast2: You can feel a room sour before it shows. Catch your own heat early, before it lands; the catching never feels like strength, but it is.
 facetMostTitle: Blades on Iron
 facetMost: You start the work loud and let everyone hear it; the draft argues back, and you keep cutting until it answers.
 facetHighTitle: A Scrape of Steel

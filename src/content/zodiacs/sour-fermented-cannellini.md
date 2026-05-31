@@ -7,11 +7,16 @@ trait: critical
 dish: Cannellini with crème fraîche, capers, and lemon zest.
 quote: You call this bean broth?
 seasonalFortune: A long sour cure settles in the crock. The brine grows specific where the sweet months were vague, and small faults rise legible to the surface.
-fortuneMost: Send the line edits without the cushion paragraph. The cushion is what makes people feel patronised, not the edits.
-fortuneHigh: Circle one wrong word in their draft. Pick the worst one; you don't need to prove the rest.
-fortuneMid: They asked for honest. Give them honest, in writing, with the items numbered.
-fortuneLow: Sleep on the surgical text. By morning the comma will matter less and so will sending it; the urge to correct is loudest at the wrong hours.
-fortuneLeast: Let the typo live. The world survived it; you can too.
+fortuneMost: You caught the extra half-turn of salt while everyone else was still chewing politely. Name it clean and plain.
+fortuneMost2: The one true thing said without a cushion lands truer than the softened one. It's the padding that reads as condescension, never the verdict.
+fortuneHigh: You saw every flaw. Point at the single worst and let the rest go uncatalogued — you owe no one proof you caught it all.
+fortuneHigh2: The thing you genuinely loved goes first; the salt comes after. The praise isn't a cushion. It's also true, and it's the part you keep forgetting to say.
+fortuneMid: They asked for honest, so be honest — but pick the fault that matters and wave the small ones through. A crock cures better when no hand keeps reaching in.
+fortuneMid2: Straighten the crooked shelf and say nothing about it. The fixing was the whole point; the receipt was only the ego.
+fortuneLow: The urge to correct runs loudest at the wrong hours, and most of what it flags has shrunk by morning. Let the misplaced comma stand; it spares a wound no comma ever earned.
+fortuneLow2: A new face turns up, and the luck is to like them before you've finished cataloguing them. The warm first read feels unrigorous. Trust it anyway.
+fortuneLeast: The typo will live. The world survived it and so will you.
+fortuneLeast2: A meal eaten exactly as it was cooked, the recipe asked for, not one adjustment offered. The urge to fix, set down for once, leaves the whole evening lighter — you'll reach for it twice before you let it lie.
 facetMostTitle: Zest Before the Bean
 facetMost: You name the off-note in the room while others are still chewing politely.
 facetHighTitle: Capers at the Bottom

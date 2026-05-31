@@ -3,6 +3,7 @@ slug: fried
 name: Fried
 tagline: The Form that ignites.
 traits: [decisive, passionate, energetic, bold, irascible]
+toneOfVoice: Delivers fast and decisive; all at once, and quick to flare.
 ---
 
 Frying is transformation by fire — fast, total, and irreversible. The oil is screaming hot before the Bean arrives. There is no slow build, no gentle acclimatisation. What goes in emerges immediately changed: sealed, vivid, crackling with energy.

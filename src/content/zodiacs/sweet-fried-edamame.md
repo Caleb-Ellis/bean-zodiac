@@ -7,11 +7,16 @@ trait: motivated
 dish: Honey butter fried edamame — soybeans deep-fried until blistered, tossed hot in honey butter and flaked salt.
 quote: The secret of getting ahead is getting beaned.
 seasonalFortune: A season when the oil runs hot and the honey sets fast; pods are pulled from the pan before the cook can second-guess.
-fortuneMost: Get out the door before the coffee cools. Drop the friend a pastry on the way — their week needed the push too.
-fortuneHigh: Knock one thing off someone else's list before the day gets crowded. Don't announce it — just do it and text "done."
-fortuneMid: Cross off the unglamorous task first. The reward is the next one being easier; that's enough.
-fortuneLow: Nap. Set the alarm. The work will be better after, and arguing with this fortune is the procrastination.
-fortuneLeast: You're moving fast in the wrong direction. Stop the car. Recalculate kindly — you're not in trouble, you're just lost.
+fortuneMost: Out the door while the day's still soft, and something warm in hand for the friend on the way back. Their week needed the push too.
+fortuneMost2: The oil runs hot and the honey sets fast — a stretch where waking up becomes a gentle propulsion, and the friction drops for everyone near you.
+fortuneHigh: Knock one thing off someone else's list and say nothing. Let them find it done.
+fortuneHigh2: You'll arrive with the round ordered and the seats saved. Smoothing the path ahead of people is its own quiet care.
+fortuneMid: Clear the dull task first. The whole reward is the next one coming easier, and that's plenty.
+fortuneMid2: Move the small thing the day it lands, for the plain pleasure of a clean surface. Not every push needs somewhere to go.
+fortuneLow: Rest on purpose, even when sitting still feels like falling behind. The work comes back better.
+fortuneLow2: A slow start can stay slow. The plan you belong to finds you without the chase.
+fortuneLeast: Fast in the wrong direction is still wrong. You're not in trouble, only lost — stop and recalculate kindly.
+fortuneLeast2: Read the same thing again in slower light and let the list wait. The day arrives on its own; you only have to let it.
 facetMostTitle: Honey Skinning the Pod
 facetMost: You wake before the alarm, fold the laundry left out the night before, and the day starts already a little in your debt.
 facetHighTitle: Salt at the Split

@@ -7,11 +7,16 @@ trait: innovative
 dish: Chickpea tempeh - fermented whole chickpeas pan-fried and glazed with miso and sesame.
 quote: Imagination is more important than knowledge about beans.
 seasonalFortune: A jar set aside in the cupboard quietly rewrites itself; the cook who returns finds the chickpea no longer answering to its old name.
-fortuneMost: Cross-breed two unrelated hobbies on paper. The hybrid is what you'll be doing in three years; start the bad first version while the idea's still warm.
-fortuneHigh: Introduce two friends who don't know they need each other. Stay long enough to watch the spark, then leave them to it.
-fortuneMid: Steal a verb from a discipline you don't work in. Use it wrong on purpose in your next conversation.
-fortuneLow: Take the route you took last time. Notice three things you missed; the unfamiliar version is the avoidance, not the work.
-fortuneLeast: Pack a lunch instead of inventing one. Hunger is not a creative brief.
+fortuneMost: A leaky tap and a sentence about beekeeping are about to meet in your head and turn out to be the same problem.
+fortuneMost2: Build the stranger shape that answers the deeper question nobody thought to ask. The brief is a floor, not a ceiling, and you've never lived on the floor.
+fortuneHigh: Introduce two people who don't yet know they need each other, then step back and let it spark.
+fortuneHigh2: Bend one corner of the expected answer toward something stranger — the whole thing needn't be reinvented for your fingerprints to show.
+fortuneMid: The third idea keeps arriving before the second is finished, and the cupboard fills with brilliant beginnings. Let one new thing wait so an old one can finally walk out as an object.
+fortuneMid2: An article about bridges is quietly solving a problem about bread in you. Trust the cross-pollination — but write the plain version down too.
+fortuneLow: Cook what your hands already know and let the table be content. Not every problem is a brief; some just want the answer that works.
+fortuneLow2: Take the familiar route and do the ordinary thing well. Sometimes the new version is only a way to avoid finishing the old one.
+fortuneLeast: Luck rewards the finished thing this turn, not the clever one. Fill the known shape and ship it; your hands will itch to tinker, and the relief of something that just works is worth the itch.
+fortuneLeast2: Move by the route you already trust and decline the cleverer one. Done plainly beats brilliant-and-unfinished.
 facetMostTitle: The Third Thing
 facetMost: You braid borrowed scraps into ideas no one thought to order.
 facetHighTitle: The Re-Glazed Pan

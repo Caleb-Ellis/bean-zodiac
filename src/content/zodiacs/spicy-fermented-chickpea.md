@@ -7,11 +7,16 @@ trait: offbeat
 dish: Chickpea fatteh with shatta - Lebanese flatbread and chickpea dish with Palestinian fermented hot sauce.
 quote: I've lost my damn beans.
 seasonalFortune: A season for the jar at the back of the shelf. What ferments in the dark this month arrives at the table tasting of nowhere anyone else has been.
-fortuneMost: Take the weirder route, but text the friend a pin of where you bent off. They want to follow, not search.
-fortuneHigh: That person you talked to for two hours at the party — message them while the spell is still in the room, not a week from now after it's thinned.
-fortuneMid: You'll fall into a stranger's chat by accident this week. Miss your stop on purpose; stay in it.
-fortuneLow: Tug the thread you let go slack. One sentence, sent now, beats a paragraph drafted later — and the drafted paragraph never gets sent.
-fortuneLeast: The detour stopped paying out three towns ago. Turn around toward the people who know your name.
+fortuneMost: A stranger is about to leave the night feeling unusually seen. The side door is where your warmth is realest.
+fortuneMost2: You finish things in a register your friends have no shelf for, and hand them over anyway. The detour was never a wrong turn — it's the whole dish.
+fortuneHigh: A good sign is loose in the day — the one person no one placed, half-watching from the edge, waiting for exactly your kind of curiosity. Drift over.
+fortuneHigh2: The spell of a real conversation is still warm. Reach for the person now — the careful follow-up you'd draft later, after it thins, never does get sent.
+fortuneMid: A picture hung two inches off-centre and left there. You like a room that answers back a little crooked, and it does.
+fortuneMid2: Shatta on the rim, heat where no one expected it. You needn't chase every side door, but when one opens by accident, you're allowed to stay.
+fortuneLow: The friends you came with have noticed you didn't quite come with them. Tug the slack thread back in before the next side door opens.
+fortuneLow2: Cook straight from the card and land the dish where it was promised. The plainness chafes; the people fed by it don't mind at all.
+fortuneLeast: Turn back toward the people who already know your name. It feels like a smaller night and it's the warmer one.
+fortuneLeast2: Stay close, things in order, nothing wandering off down a hallway of its own. It's tighter than your wiring likes, and the steadiness is a kindness to the people near you.
 facetMostTitle: The Jar Humming in the Dark
 facetMost: You finish the work in a register your friends have no shelf for, and hand it over anyway.
 facetHighTitle: Pita Torn Off-Script

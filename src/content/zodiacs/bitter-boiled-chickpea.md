@@ -7,11 +7,16 @@ trait: versatile
 dish: Revithia - chickpeas with bitter lemon and fresh herbs.
 quote: A bean is the most versatile of tools.
 seasonalFortune: A lemon halved many ways still bleeds the same brightness into the pot. The broth lengthens to suit whichever herb arrives; the bean accepts each season's bitterness in turn.
-fortuneMost: Walk into the unfamiliar room and order what the regulars are ordering. Fluency is choosing fast, not knowing first.
-fortuneHigh: Drop two of the three openers you've been rehearsing. Use the one that fits the actual person; the others were for an audience that isn't there.
-fortuneMid: Halve the recipe for the guest who's coming. Adjusting quietly is the whole skill — don't narrate the adjustment.
-fortuneLow: Commit to one route, one order, one method, and keep to it for a stretch. Versatility without a spine is just weather.
-fortuneLeast: Refuse the chair-swap when it comes. There's exactly one way you do this thing well; honour it.
+fortuneMost: Somewhere unfamiliar is about to open up, and you'll have its rhythm before the others find the door. A bean that suits any broth is welcome at every pot.
+fortuneMost2: A problem outside your field is no obstacle; you'll be fluent in it before the bean is soft. Good company at a sickbed, a kitchen, a roadside alike.
+fortuneHigh: The script you rehearsed is for someone who isn't here. Read the person who is — you'll be at ease by the second handshake.
+fortuneHigh2: When the plan falls apart mid-stride, rebuild it as you go. What you already have is enough.
+fortuneMid: Adjust quietly for whoever's coming — halve the recipe, lend the coat, no announcement. The best of it nobody ever sees.
+fortuneMid2: A small fix doesn't have to be total to count. Swap two pieces, call it good, make the turn without comment.
+fortuneLow: Hold one route, one order, one method for a stretch. Versatility without a spine is just weather, and the weather wears you out.
+fortuneLow2: A fork in the road is coming, and you can't take both branches. Adapting to everything is easy; choosing the one is the part you keep deferring.
+fortuneLeast: One pot, one heat, one thing you do well. Wave off the chair-swap and the borrowed method; honour the single thing this turn.
+fortuneLeast2: Do it the way you planned and let the occasion sort itself out. One lemon, halved one way — let the world bend to you for a change.
 facetMostTitle: The Bean That Answers Each
 facetMost: You arrive at a sickbed, a deadline, a stranger's kitchen, and shape yourself to what the hour needs.
 facetHighTitle: The Herb at the Doorway

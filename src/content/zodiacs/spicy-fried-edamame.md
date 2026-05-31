@@ -7,11 +7,16 @@ trait: bold
 dish: Spicy edamame gyoza - pan-fried dumplings with doubanjiang dipping sauce.
 quote: Fortune favours the bean.
 seasonalFortune: A pan kept hot favours the cook who commits. The season belongs to the pleat sealed before the filling cools, the gesture made while the oil still talks back.
-fortuneMost: Speak first. Skip the throat-clear. Whoever was going to disagree just lost their opening line.
-fortuneHigh: Count the footsteps behind you. If it's just your own, you're not leading — you're sprinting alone in a suit.
-fortuneMid: Flag the wrong bill out loud. Before the tray hits the table. Politely, fully, at full volume.
-fortuneLow: You went and nobody came. Walk back without a story about it; the timing wasn't yours to fix.
-fortuneLeast: Sleep on the message. The version that survives the night is the one to keep.
+fortuneMost: Speak first into the quiet and the whole table arranges itself around it.
+fortuneMost2: A silence is about to open, and you'll fill it with a sentence that isn't perfect — only said. That's the one that lands.
+fortuneHigh: The count comes out wrong and you name it, plainly and evenly, before anyone else has decided to.
+fortuneHigh2: Someone has to go first, and it's you. The others catch up once they see it's safe.
+fortuneMid: A half-thought aloud beats one polished in your head. Offer it unfinished and let someone fold in the rest.
+fortuneMid2: Direct doesn't mean only your voice. Say your piece, then hold the door open for theirs.
+fortuneLow: Sometimes you step out and nobody follows. Not a failure of nerve — just timing that wasn't yours to fix.
+fortuneLow2: Hang back and let someone else find their footing first. Holding the door instead of walking through it costs you nothing but the habit.
+fortuneLeast: Let the bold move sleep overnight. The version still standing by morning is the one to keep — though the wait will gnaw at you.
+fortuneLeast2: If it truly matters, someone closer to it will speak. Trusting that is harder than going first; do it anyway.
 facetMostTitle: Doubanjiang Before the Second Guest
 facetMost: You speak into a quiet room and the room arranges itself around the speaking.
 facetHighTitle: The Loose-Pleated Dumpling

@@ -7,11 +7,16 @@ trait: solemn
 dish: Feijoada - Brazilian black bean stew with smoked chouriço, carne seca, and bay leaf.
 quote: Ask not what your bean can do for you — ask what you can do for your bean.
 seasonalFortune: A season for long pots and longer quiet. Stock darkens by the hour; the smoke settles into wood and cloth. Days the Hickory Black inhabits are measured in deepening, not in motion.
-fortuneMost: Don't announce yourself. The people who need to find you will; the rest were never going to, no matter how loudly you knocked.
-fortuneHigh: Move the unanswered envelope to the front of the desk. Replying isn't due; looking at it is.
-fortuneMid: Send one sentence to the friend who thinks you've vanished. Not an apology — a noticing.
-fortuneLow: Pay it the day it lands. Whatever you can't fix before bed will still be unfixed in the morning; sleep anyway, the broth keeps.
-fortuneLeast: Send the silly photo with no caption. The dignity will be there in the morning; the friend on the other end has been waiting longer than you think.
+fortuneMost: You enter and the volume drops a notch without anyone deciding it. The ones meant to find you already have.
+fortuneMost2: Stock only darkens by the hour, and someone is circling back to thank you for a weight you gave that slowly.
+fortuneHigh: What others throw out, you cure and keep — the stub, the card, the thing too heavy to discard.
+fortuneHigh2: A word said three times before it leaves you isn't slow. It's salted down to last.
+fortuneMid: A friend thinks you've vanished and only wants a sign of smoke under the door. One line, no apology.
+fortuneMid2: Not every moment needs your full weight; some yeses are just yeses, set down light as a bay leaf lifted out.
+fortuneLow: Decide on the doorstep and sleep through what the dark can't fix — though leaving the worry untended will itch.
+fortuneLow2: Let the small thing stay small. An answer doesn't always have to earn its place before you hand it over.
+fortuneLeast: Somewhere on the road a friend is waiting longer than you know for a photo with no caption. The dignity will keep; send the silly one.
+fortuneLeast2: Leave the party early and laughing, owing no one a long letter — lightness can be true too, though it'll feel like you got away with something.
 facetMostTitle: The Pot That Murmurs
 facetMost: You enter rooms without announcing yourself and people notice anyway.
 facetHighTitle: Carne Seca, Cured for Keeping

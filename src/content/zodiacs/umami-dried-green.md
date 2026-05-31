@@ -7,11 +7,16 @@ trait: potent
 dish: Dried green beans rehydrated and dressed with anchovy, capers, and garlic.
 quote: Great beans from little beans do grow.
 seasonalFortune: A season that asks for less and returns more; the shrivelled bean drinks its slow water and comes back heavier than it left the shelf.
-fortuneMost: One sentence, early, before the day argues you out of it. Then close the laptop.
-fortuneHigh: Don't follow it up. The first one was enough.
-fortuneMid: Say it once. Leave.
-fortuneLow: Slow it down. Sit with the one thing for an hour.
-fortuneLeast: Skip the day. A blank one is the move.
+fortuneMost: One true sentence, said early, will carry for a year.
+fortuneMost2: A pinch of anchovy outflavours a whole bowl. Make the single sharp thing and leave the rest of the meal undone.
+fortuneHigh: Don't follow it up. The first landed whole; a second only thins what the first delivered.
+fortuneHigh2: Someone will ask you to expand, and the long version will be the weaker one. Give them the short answer twice if you have to.
+fortuneMid: Arrive, do your few things, leave early. A place keeps the taste of you long after you've walked out of it.
+fortuneMid2: Strike once and trust it to carry.
+fortuneLow: Sit with one ordinary thing for a long, slow stretch. Not everything you touch has to bite — though the dullness of it will itch.
+fortuneLow2: Smooth your edge off and let the thing become everyone's. A version with no bite is the kinder one here, even if you mourn the sharpness.
+fortuneLeast: A blank day is owed to you, and it owes the world nothing back. Take it, whatever's waiting on the other side of the quiet.
+fortuneLeast2: Let an afternoon dissolve around you and make nothing anyone will quote. Ordinary is allowed to be enough — uneasy as that lands for you.
 facetMostTitle: Brine Before Bite
 facetMost: You post once a month and the thread quotes you for a year.
 facetHighTitle: Anchovy, Undeniable

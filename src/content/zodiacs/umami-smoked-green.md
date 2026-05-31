@@ -7,11 +7,16 @@ trait: budding
 dish: Leather britches - Appalachian smoked green beans with smoked fatback.
 quote: One bean does not a summer make.
 seasonalFortune: Pods hang on a string above the stove, taking their time; the household holds its plans loosely, knowing the cure outlasts the impatience of any one week.
-fortuneMost: Leave it another month. What's ready in October isn't the same thing that's ready now, and you want October's.
-fortuneHigh: Pay for the class before you feel ready. The version of you who shows up in March was bought in November.
-fortuneMid: Reply when you know what you're saying. A lit screen isn't a clock.
-fortuneLow: Play the eight chords for one person in the kitchen this week. Standing, no preamble, no apology for the missing ninth.
-fortuneLeast: Book the date and put it on the calendar. The slow ripening you've been protecting has quietly become an alibi.
+fortuneMost: Leave it on the string a while longer. The bean ready later isn't the bean ready now, and it's the later one you're curing for.
+fortuneMost2: A half-made thing is ripening in you, quiet on the windowsill. The waiting isn't hiding — it's the cure doing its slow work.
+fortuneHigh: Pay for the class before you feel ready. You're buying the version of you who shows up months in, already planted.
+fortuneHigh2: Something you started unsure is taking root out of sight. Trust the slow ripening; the harvest is further along than it looks.
+fortuneMid: Answer when you know what you mean, not before. A lit screen is no clock ticking down on you.
+fortuneMid2: You can say the name aloud without finishing the thing. "Something" was true, but the something has a name now — use it.
+fortuneLow: Play the unfinished thing for one person, standing, no preamble — even though showing it half-grown will feel like pulling the pod too early.
+fortuneLow2: Buy the ticket, send the text, sit down at the table. The unfinished edges will nag, and the moment is still the point.
+fortuneLeast: The slow ripening you've guarded has quietly turned into an alibi. Book the date somewhere real, and yes, it'll feel like a quick flame under a thing meant for smoke.
+fortuneLeast2: Change it fast and let the speed carry you — some leaps don't want a whole season of waiting first, though skipping the cure will sit oddly in you.
 facetMostTitle: Smoke Settling Into the Pod
 facetMost: You keep a project on the windowsill for a year before letting anyone see it, and the wait is the work.
 facetHighTitle: The Strung-Up Bean

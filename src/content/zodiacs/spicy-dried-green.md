@@ -7,11 +7,16 @@ trait: electric
 dish: Gan bian sijidou - dry-fried green beans with dried chili and garlic.
 quote: Energy cannot be beaned — it can only be transformed.
 seasonalFortune: A dry wok throws sparks before the oil arrives. The season belongs to those who carry their own heat into the room, blistering the skin of the day until the garlic catches.
-fortuneMost: Pick the long wire. The short ones burn before they reach.
-fortuneHigh: Send the late-night text only if it's worth waking three people. Otherwise let the current ground itself in a notebook until morning.
-fortuneMid: Plug into the project, not the friend. The wall is not company.
-fortuneLow: Pour slower. They're holding paper.
-fortuneLeast: Match the room's tempo for one meal. The current can sit in the wall and still be current.
+fortuneMost: You change the wattage of a place the minute you arrive. Pour it into something built to hold the charge, not the first wire you grab.
+fortuneMost2: A dry wok throws sparks before the oil ever arrives. The day belongs to whoever carries their own heat in.
+fortuneHigh: Charge has to land somewhere. Aim it at the work that's been waiting for your kind of current.
+fortuneHigh2: Pull two people into the sharper conversation and the whole place sits up. Just don't leave the gentler ones flattened in the wake.
+fortuneMid: Run the energy into the project, not the nearest person. A friend isn't a wall to discharge into.
+fortuneMid2: The cadence picks up on less than you think. Half the volume sharpens a slack hour as well as full.
+fortuneLow: Pour slower. The person across from you is holding paper, not wire — and easing off the throttle won't earth you for good.
+fortuneLow2: Let the quick reply sit overnight, and morning trims it to the one line worth sending. Sitting on a spark is a discipline, and not your easy one.
+fortuneLeast: The current can sit quiet in the wall and lose nothing. Move at the day's own tempo, though the stillness will itch at you.
+fortuneLeast2: A calm day arrives and asks nothing of your charge. Let someone else be the weather, even if your hands want a switch to flip.
 facetMostTitle: Oil Before the Bean
 facetMost: You begin the work loud — half-formed, half-shouted — and let the room flinch into the shape of it.
 facetHighTitle: Garlic Hits the Pan

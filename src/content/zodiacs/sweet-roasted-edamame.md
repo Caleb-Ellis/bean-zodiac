@@ -7,11 +7,16 @@ trait: considerate
 dish: Miso-maple roasted edamame — shelled soybeans roasted until crisp, glazed in white miso and maple syrup.
 quote: Excellence is never granted to a bean; it must be earned.
 seasonalFortune: A season of slow glazing. Miso darkens by degrees, maple tightens around the pod, and the days reward whoever stays near the tray long enough to turn each one.
-fortuneMost: Do the small invisible favour for someone who will not know it was you. They never need to find out; the not-finding-out is the cleaner half of the gift.
-fortuneHigh: Notice what the room needs and quietly handle it. The hosts will not catch every detail; some of those details can be yours.
-fortuneMid: Take the call you have been putting off. The person at the other end has been waiting longer than you realise, and you've been polishing the opening line into a wall.
-fortuneLow: You do not owe everyone an answer this week. Some asks go unanswered and the world keeps turning.
-fortuneLeast: Let the unfinished thing be someone else's responsibility, just this once. You have spent enough on it; rest is also a contribution.
+fortuneMost: A small invisible favour for someone who'll never trace it back to you. The not-finding-out is the cleaner half of the gift.
+fortuneMost2: You phrase the hard sentence twice before saying it — once for what it means, once for how it'll sit in them tomorrow. That second pass is the whole craft.
+fortuneHigh: A favour you did quietly comes back to you this turn, lacquered smooth by hands you never saw. The kindness kept circulating.
+fortuneHigh2: Answer the message you owe before the one you want to. Someone's been waiting on you longer than you've let yourself notice.
+fortuneMid: Clear the plates before the host stands, the way no one quite clocks. It counts unseen — that's rather the point of it.
+fortuneMid2: You needn't read every situation twice. A plain "how are you" lands fine without the polished opening you'd usually draft.
+fortuneLow: Some asks can go unanswered. The week keeps turning and stays yours.
+fortuneLow2: A small task would help someone, and you see it, and you let it pass. Finish your own first — it costs you to walk by, do it anyway.
+fortuneLeast: Hand the unfinished thing to someone else to carry. Setting it down feels like dropping it; it isn't. Rest is also a contribution.
+fortuneLeast2: One hint missed, the moment quietly closing, no one turning back for it. You can't turn every pod in the pan.
 facetMostTitle: Each Pod Lacquered to Glass
 facetMost: You phrase the difficult sentence twice before saying it — once for what it means, once for how it will sit in the other person tomorrow.
 facetHighTitle: The Pan Turned, Every Shell Caught

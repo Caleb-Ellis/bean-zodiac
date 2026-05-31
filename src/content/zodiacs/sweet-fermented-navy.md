@@ -7,11 +7,16 @@ trait: introverted
 dish: Navy bean and cultured butter pudding — beans baked slowly in a custard of fermented cream, sugar, and vanilla.
 quote: I am a bean of solitude; the fire of thought does not require witnesses.
 seasonalFortune: A pudding sets in the low oven while the house sleeps. The season favors slow custards and the quiet rooms that hold them.
-fortuneMost: Say no to the party and bake the cake for yourself. Frost it ornately. Take a picture nobody else will see.
-fortuneHigh: Airplane mode until lunchtime. The world will keep, and the morning you give yourself returns with interest.
-fortuneMid: Write the long warm letter and actually send it. One person, paper, stamp. The slow channel is the right channel.
-fortuneLow: Someone is reading your quiet as distance. Send the heart emoji. Yes, just that. They'll know.
-fortuneLeast: Have one person over on a weeknight. No menu, no plan — open the door, pour the wine, prove you exist.
+fortuneMost: Decline the party, bake the elaborate thing for an audience of one, and frost it anyway.
+fortuneMost2: A whole evening with the house to yourself, the pudding setting in the low oven, no one to perform it for. Good fortune wears an empty room this week.
+fortuneHigh: The messages can stack up unread a long while. Whoever needs you will still need you when you surface.
+fortuneHigh2: Take the long way home, the walk your only company.
+fortuneMid: Write the long warm letter and actually send it. One person, paper, the slow channel — that's the right one for you.
+fortuneMid2: A friend pictured you on a low evening and never knew you were thinking of them too. Let the warmth out past the doorway this once.
+fortuneLow: Your quiet is being read as distance. Send the one small sign — a heart, a single line — and they'll know; the not-sending costs more than the sending.
+fortuneLow2: Reach for someone before you've even settled what's for dinner. Some evenings go better with a second spoon, much as the solo one tempts you.
+fortuneLeast: Open the door for no reason — no menu, no plan. Let the doorbell be the good sound, even if your first instinct is to leave it unanswered.
+fortuneLeast2: Say yes to all of them and stitch the night into one. Once in a long while the full room is the one you actually wanted, though you won't believe it until you're in it.
 facetMostTitle: The Crock No One Checks
 facetMost: You decline the gathering, bake the pudding for yourself, and eat it standing at the counter.
 facetHighTitle: Vanilla Pods Overnight

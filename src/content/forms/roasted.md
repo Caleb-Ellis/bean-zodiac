@@ -3,6 +3,7 @@ slug: roasted
 name: Roasted
 tagline: The Form that radiates.
 traits: [warm, generous, radiant, convivial, hedonistic]
+toneOfVoice: Delivers open and radiant; fills the room, plays to the crowd.
 ---
 
 Roasting asks for nothing from Beans except to sit in warmth and become more fully itself. The heat is dry and patient and pervasive — it coaxes out sugars, deepens colour, fills the whole space with something irresistible.

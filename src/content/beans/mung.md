@@ -3,6 +3,7 @@ slug: mung
 name: Mung Bean
 tagline: Small seeds, patient hands, quiet miracles.
 traits: [healing, gentle, nurturing, regenerative, insecure]
+toneOfVoice: Soft and tending; speaks to mend, often unsure it's allowed to.
 imageFile: mung.webp
 ---
 

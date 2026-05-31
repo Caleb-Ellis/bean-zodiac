@@ -7,11 +7,16 @@ trait: arrogant
 dish: Crispy navy beans with dashi glaze, bonito flakes, and nori.
 quote: The only true wisdom is knowing you know nothing about beans.
 seasonalFortune: A season that crackles at the edges. The shell does the talking; the dashi underneath is taken on faith, and mostly the faith is warranted.
-fortuneMost: Send it without the "just." The unhedged sentence is the one that gets actioned.
-fortuneHigh: Give the recommendation. They didn't ask for the caveats and the caveats are how you hide.
-fortuneMid: Pick the restaurant. Twenty minutes of "I'm easy" is a tax on everyone.
-fortuneLow: Defer to the new hire. They're seeing the part you've stopped seeing.
-fortuneLeast: Write down the correction. The apology is the note, not the email.
+fortuneMost: The shell does the talking and the dashi underneath is taken on faith — and the faith is warranted. Say it without the "just"; the unhedged call is the one people act on.
+fortuneMost2: Walk up to a stranger's work and name which one is the strong one, out loud. Half the crowd was waiting for someone sure enough to say it.
+fortuneHigh: Give the recommendation, drop the caveats. The hedging isn't humility — it's the corner you duck into.
+fortuneHigh2: Make the call and let things settle around it. When you're right about the small stuff, owning it saves everyone the extra lap.
+fortuneMid: Pick the place. Twenty minutes of "I'm easy" is its own tax on everyone waiting.
+fortuneMid2: Try a piece of their way before you fall back on yours. You can stay sure and still leave the door open a crack.
+fortuneLow: Defer to the newest face here. They're still seeing the part you stopped noticing years ago, even if deferring grates.
+fortuneLow2: Cut the certain word and ask what they thought instead. The question costs you nothing and catches what you'd have sailed straight past.
+fortuneLeast: Hand the recipe over and take notes on their changes. Now and then, assuming they know something you don't is simply correct.
+fortuneLeast2: Follow a stranger's lead the whole way through, then compare honestly. The humility you rarely need is worth keeping oiled.
 facetMostTitle: Bonito in the Heat
 facetMost: At the gallery you tell the curator which painting is the strong one and they nod twice; they had been hoping someone would say it out loud.
 facetHighTitle: Smoke, Nori Darkening

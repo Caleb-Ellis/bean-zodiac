@@ -7,11 +7,16 @@ trait: adrift
 dish: Smoked butter bean with bitter herb oil.
 quote: We are such stuff as beans are made on.
 seasonalFortune: Smoke takes hours to settle into fat, and longer still to leave it. The season favours those who absorb without noticing, and notice long after the source has gone cold.
-fortuneMost: Walk the long thought all the way to its punchline. The errand keeps; the thought won't, and you've been here before, leaving thoughts unwalked for errands that didn't notice you ran them.
-fortuneHigh: Follow the thread you've been losing. The good ones come back; the great ones only come back if you go after them.
-fortuneMid: Someone will say your name twice. On the second pass, drop the smoke and give the answer in full sentences.
-fortuneLow: Look up. The kettle's been screaming for four minutes and you've been composing a metaphor about the kettle.
-fortuneLeast: A friend has been parking a sentence at you across three coffees. Stay in the chair long enough, next time, to receive it.
+fortuneMost: A long thought is towing you out toward the water. Whatever you meant to do will keep — go where it pulls; this drifting is the truest shape of you.
+fortuneMost2: An hour will vanish into the slant of light on a wall, and you'll come back from it richer. The wandering isn't a leak. Let it run.
+fortuneHigh: Out walking, you'll see the long view nobody else slowed down enough to catch. The big thoughts don't wait around, so follow this one past the turn you meant to take.
+fortuneHigh2: A half-lost thread leads somewhere good. What you carry back from it, no one else thought to go looking for.
+fortuneMid: When your name comes a second time, surface and answer the whole of it. You can travel as far as you like and still come back present for the one who's waiting.
+fortuneMid2: Take the pause — wander, then return with the answer in your hands. Just don't leave the person standing in it longer than they can hold.
+fortuneLow: The thing in your hands has been asking for you while your head wandered off with it. Come back to where your fingers are, even as the thought tugs the other way.
+fortuneLow2: There's a metaphor you'd rather chase than the evening in front of you. Stay with the evening; the thought will keep, and someone is quietly glad you didn't leave.
+fortuneLeast: A friend keeps trying to hand you a sentence and you keep slipping off before it lands. Hold still long enough to catch it, even as the anchoring chafes.
+fortuneLeast2: Settle the thing the day it lands. Carry nothing past its use. Plain, unfamiliar, and oddly steadying once the drift quiets.
 facetMostTitle: Smoke in the Rafters
 facetMost: You walk into rooms and lose ten minutes to the slant of light against the wall.
 facetHighTitle: Where the Bean Is Softest

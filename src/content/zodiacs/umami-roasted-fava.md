@@ -7,11 +7,16 @@ trait: defiant
 dish: Fave al forno - roasted fava beans with guanciale, pecorino, and wild fennel.
 quote: They tried to bury us. They didn't know we were beans.
 seasonalFortune: Salt cures what warmth cannot reach. The pod's twin skins thicken against the cold months; a season for holding ground, for charring rather than yielding, for flavors that sharpen under pressure.
-fortuneMost: Dispute the invoice. Don't pay it twice to make it stop — the people who count on you paying twice are counting on it again right now.
-fortuneHigh: They'll ask you to say it again, hoping the second take is softer. Say the same sentence, slower.
-fortuneMid: Walk into the meeting with one question, not a position. Holding ground starts with knowing where the ground is.
-fortuneLow: The fight you've been braced for is already over and you won. Put the shoulders down before lunch.
-fortuneLeast: Lose the small argument on purpose. The cost is a sentence; the gain is the rest of the dinner, intact and warm.
+fortuneMost: Don't pay the wrong charge twice just to make it stop. The ones counting on your tiredness are counting on it again — and they're wrong about you.
+fortuneMost2: No voice raised, your pace unchanged while a crowd turns against you. That steadiness is the rarest thing you carry; plant it where the ground is worth holding.
+fortuneHigh: When they ask you to say it again, hoping it softens, say the same thing slower. Repeating yourself is not the same as apologizing for it.
+fortuneHigh2: Salt cures what warmth can't reach. Some things you hold not from heat but because they're simply right — keep those, and let the rest go.
+fortuneMid: Walk up to it with a question, not a position. Holding ground starts with knowing where the ground actually runs.
+fortuneMid2: Not every knock is owed an answer. The ones shaped like real questions, yes; the ones shaped like a summons can stand out in the cold.
+fortuneLow: The fight you've braced for all this way may already be over, and won. Set the shoulders down. It'll feel like dropping your guard, and that's all right.
+fortuneLow2: Move at the pace of the people beside you. The day arrives the same hour whether you charge it or stroll — and matching them costs only your momentum.
+fortuneLeast: Lose the small argument on purpose. One conceded sentence buys a whole warm evening — and yes, swallowing it will taste wrong going down.
+fortuneLeast2: A line held well keeps things out, but it never fills the room behind it. Turn and tend to whoever's in there with you, even if it means leaving the wall unwatched.
 facetMostTitle: Two Skins, Kept
 facetMost: The wrong invoice arrives, and you do not pay it twice to be done — you draft the letter, then redraft it.
 facetHighTitle: Fennel Against the Smoke

@@ -7,11 +7,16 @@ trait: proud
 dish: Roasted kidney bean stew with charred bitter peppers and smoked paprika.
 quote: It is not the bean that stoops who loses dignity, but the one who forgets why they stood.
 seasonalFortune: A roasted kidney holds its shape against the heat. The season favours those who have already done the work of becoming themselves, and asks only that they stand still inside it.
-fortuneMost: Send the work with the cost still showing. The polish you were about to apply was the part that would have made it forgettable.
-fortuneHigh: When they ask why your number is your number, give the number again. The itemised version is the version that loses the deal.
-fortuneMid: Stand your full height with the new person. Don't crouch to their eyeline — they're already reaching up.
-fortuneLow: Let them stir the pot. The bill closes faster and you don't shrink an inch — that was a story you were telling yourself.
-fortuneLeast: Sleep in the same shirt. The straight-back version was the obstacle this stretch; the slump is just rest, and the posture will come back unprompted.
+fortuneMost: Leave the part that cost you most unsoftened. The polish you'd add is exactly what makes a thing forgettable.
+fortuneMost2: You'll walk into a gathering and the air will arrange itself around your posture without your asking. That presence is squarely on your side.
+fortuneHigh: Asked to justify your worth, name it once and stop. The itemised version is the one that loses the argument.
+fortuneHigh2: A stranger meets you at exactly your size, neither shrunk to please nor swollen to claim. That's the thing that earns their respect.
+fortuneMid: There's room for two full heights at this table. The new person is already reaching up to meet yours — leave them the space to.
+fortuneMid2: Hold your shape against the heat. Then look round the table for who else is standing tall and going unseen.
+fortuneLow: Another hand on the pot, working it their way, finishes the thing faster and takes nothing off your height. Hand over the spoon, though the yielding prickles.
+fortuneLow2: A doorway's coming where the space you'd fill is space a quieter one needed. Make yourself smaller in it — hard as that is to choose on purpose.
+fortuneLeast: The straight back can come down. A slump is only rest — sleep in whatever crease the day folded you into, though going soft feels like surrender at first.
+fortuneLeast2: When it comes up whose way it goes, ask what they had in mind, and mean the question. Bending here costs you nothing you'll actually miss, whatever pride insists.
 facetMostTitle: The Blister Kept
 facetMost: You finish a piece of work and refuse to soften the part that cost you the most.
 facetHighTitle: Paprika Before the Lid Lifts

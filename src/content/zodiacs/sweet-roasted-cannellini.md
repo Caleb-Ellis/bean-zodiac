@@ -7,11 +7,16 @@ trait: empowering
 dish: Cannellini roasted in maple and sage — white beans blistered in the oven with maple syrup and fresh sage until caramelised.
 quote: As we let our own bean shine, we unconsciously give others permission to do the same.
 seasonalFortune: A season of pooled maple and slow oven warmth, where the amber on one bean teaches the next to brown. Brightness spreads by being near it.
-fortuneMost: Forward the junior's work to the senior with one line — "this is the good one." Then close the laptop.
-fortuneHigh: Write the unsolicited recommendation letter. Put their full name in the subject line and send.
-fortuneMid: When they thank you, say "you did that, I just clapped." Mean it. Eat a maple cookie.
-fortuneLow: Apply for the thing yourself this time. The version of you that hypes everyone else can hype you too.
-fortuneLeast: Tell one person what you actually want this year. Not the polished version — the embarrassing specific one.
+fortuneMost: The amber on one bean teaches the next to brown — and that's you near anyone trying. Pass their good work upward with the one line that lands it.
+fortuneMost2: When the quiet one finally speaks, name what they did so it's heard twice. Someone's year turns brighter for having stood next to you this turn.
+fortuneHigh: Hand over the credit before anyone asks whose idea it was. It leaves you so clean it barely feels like generosity.
+fortuneHigh2: Put their name forward where it counts, unasked. The recommendation costs you nothing and changes their whole season.
+fortuneMid: Stepping back is sometimes a quiet gift.
+fortuneMid2: Quote someone's half-thought back as the whole point. A small nudge, and the win is theirs to carry.
+fortuneLow: Apply for the thing yourself this time. The shine you spend on everyone else can land on you — strange as it feels pointed inward.
+fortuneLow2: A flat compliment and a move-on, just this once. You needn't carry every win across the floor, even when leaving one untended pulls at you.
+fortuneLeast: Name the embarrassingly specific thing you want out loud — not the polished, manageable answer that stays browning in the pan. It exposes you; say it anyway.
+fortuneLeast2: Buy yourself the better thing. Don't apologise for it, and don't pass the shine along.
 facetMostTitle: Sage Darkening in Its Oil
 facetMost: When a quieter friend speaks up at the table, you name what they did so the room hears it twice.
 facetHighTitle: The Crust Holds, Inside Soft

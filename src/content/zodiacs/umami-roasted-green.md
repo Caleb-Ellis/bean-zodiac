@@ -7,11 +7,16 @@ trait: curious
 dish: Roasted green beans with katsuobushi, ponzu, and sesame.
 quote: Curiosity is the bean, always leading to new discoveries.
 seasonalFortune: A season of ponzu's slow seep — surfaces shine, and underneath the brine works its long question into the bean.
-fortuneMost: Read the footnote before the headline. The footnote is where someone smarter than the headline is hiding.
-fortuneHigh: Ask the second question — the one past polite. They've been waiting for someone to ask it for years.
-fortuneMid: Open a cookbook you don't know and make the third recipe in. The first is for browsers.
-fortuneLow: Make the dish you already know. Foraging for a new one at 6pm is how you end up eating cereal.
-fortuneLeast: Leave the lid on. Some pots cook better when nobody is asking after them.
+fortuneMost: Follow the question past its useful end. You'll finish with new questions pinned to the margin — and that's the harvest, not the waste.
+fortuneMost2: A door is about to open in the middle of an ordinary sentence. Step through it; the conversation on the far side of the small talk is the one you were owed.
+fortuneHigh: Ask the second question, the one past polite. People light up at being asked the thing no one ever thinks to.
+fortuneHigh2: Ponzu works its long question slowly into the bean. A stranger rewards patience the same way — stay past the headline and someone interesting surfaces.
+fortuneMid: Cook a few pages past the recipe you'd default to. The familiar first page is for browsers; you're not a browser.
+fortuneMid2: One thing you don't understand is tugging at you. Let it pull. Following it isn't a detour — it's the road.
+fortuneLow: Cook the dish you already trust. Foraging a brand-new one while you're hungry is how you end up eating cereal — and yes, the known one will feel a touch dull.
+fortuneLow2: The known thing feeds you too. Not every gap needs filling now; some questions keep fine on the shelf, even if leaving them there itches.
+fortuneLeast: Leave the lid on. Some things cook better when nobody keeps lifting it to ask how they're doing, and the not-asking will cost you something.
+fortuneLeast2: Let a few corners of the house keep their own quiet. Walking past a loose thread without pulling it is a small discipline, and worth the ache.
 facetMostTitle: The Lifted Katsuobushi
 facetMost: You follow a question past its useful end, and finish the page with new questions pinned to the margin.
 facetHighTitle: Sesame Across the Plate

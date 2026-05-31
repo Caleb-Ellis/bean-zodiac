@@ -7,11 +7,16 @@ trait: affectionate
 dish: Adzuki and white miso soup with silken tofu and wakame.
 quote: All you need is bean.
 seasonalFortune: Long simmering weather. Houses warmed by what they hold; the people inside go quiet at the table, slow to leave the bowl.
-fortuneMost: Cook for them. Not a metaphor — actual food, on a plate, before the week is out.
-fortuneHigh: When they say they're fine, count to four and ask again. The truth is usually behind the second answer.
-fortuneMid: Mail the card you bought ages ago. Late warmth is still warmth, and the date on the envelope is not the point.
-fortuneLow: Someone close is rationing themselves. Bring soup, ask nothing, leave it on the step.
-fortuneLeast: Send one short message this week and then sit on your hands. The garden grows whether you check it or not.
+fortuneMost: Cook for someone. Not a metaphor — actual food, on a plate, set down in front of them.
+fortuneMost2: Someone is going to be loved very plainly this week, and it is going to be by you.
+fortuneHigh: When they say they're fine, ask again, gently. The truth is usually behind the second answer.
+fortuneHigh2: You remember who can't eat onion, who's between jobs, whose mother is ill. Use one of those today.
+fortuneMid: That card you bought ages ago and never sent. The date on it isn't the point.
+fortuneMid2: A hand on a shoulder, before you've planned the words. You'll find you meant it on the way.
+fortuneLow: Someone close is rationing themselves thin. The ride, the meal — offered, and nothing asked back.
+fortuneLow2: Care doesn't have to be the long hug you don't quite trust giving. Showing up and staying does count, even when it feels like too little.
+fortuneLeast: A step back can clear the steam off the window. You see them better from there, even if you miss the warmth of being close.
+fortuneLeast2: Leave one of them untended. They'll grow toward something that isn't you, and that's allowed.
 facetMostTitle: Wakame in the Warm Dark
 facetMost: You remember who takes sugar, who hates onion, whose mother was ill — and you act on it before being asked.
 facetHighTitle: Miso, Stirred in Last

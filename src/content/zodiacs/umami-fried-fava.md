@@ -7,11 +7,16 @@ trait: aggressive
 dish: Stir-fried fava beans with doubanjiang, ginger, and soy.
 quote: The best bean defense is a good offense.
 seasonalFortune: A season that runs hot. The wok smokes before the doubanjiang lands, and the days arrive at temperature, asking to be met there.
-fortuneMost: Arrive five minutes early and start without them. Whoever was going to chair this will be relieved.
-fortuneHigh: Make the call before lunch. They've been waiting for it longer than you've been dreading it.
-fortuneMid: State the real number. Whatever you were about to round it down to was a flinch.
-fortuneLow: Drop the edge from the sentence. The point survives; the relationship does too.
+fortuneMost: The wok's already smoking before the doubanjiang lands. You walk into the stalled thing at full heat and end it, and whoever should've made that call is quietly relieved you took it.
+fortuneMost2: Make the move everyone's been circling for a week. Things shift because you decided they would.
+fortuneHigh: The hard call has been waiting on you longer than you've been dreading it.
+fortuneHigh2: When the price is wrong, say so on the spot — not in the car after, not to a friend the next morning.
+fortuneMid: State the real number. Whatever you were about to round it down to was a flinch in the costume of kindness.
+fortuneMid2: Hold one more lap, then push it to a decision. You can wait a beat without losing the nerve to close.
+fortuneLow: Take the edge off the sentence. The point lands without it, and so does the person hearing it.
+fortuneLow2: Let the slight sit overnight. By morning the steam's gone and the cutting reply reads like someone else's quarrel.
 fortuneLeast: Walk away from this one. The bruise outlasts the win.
+fortuneLeast2: They were about to get there themselves. Hold your fire and let them make the call — slower than yours, maybe worse, but theirs.
 facetMostTitle: Ginger Into Hot Oil
 facetMost: You cross the threshold mid-sentence, and the room finishes the sentence rearranging itself around where you have decided to stand.
 facetHighTitle: The Pan Still Wanting

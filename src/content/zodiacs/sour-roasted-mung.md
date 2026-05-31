@@ -7,11 +7,16 @@ trait: sensitive
 dish: Bhuna moong chaat - dry-roasted mung beans with tamarind chutney, red onion, and chaat masala
 quote: Nothing is so strong as bean-ness.
 seasonalFortune: A season when tamarind reaches further than expected. The mung's roasted skin catches every change in the room's air, and the bean keeps a record the cook does not.
-fortuneMost: The wobble in their voice was the actual sentence. Call them before dinner, even empty-handed.
-fortuneHigh: Two people asked you the same sideways question this week. Answer the question underneath — out loud, to whichever asks third.
-fortuneMid: You're the only one who heard the off-note at the table. Say it before dessert; nobody else is going to.
-fortuneLow: You picked up something real and it is still none of your business. Walk past that door.
-fortuneLeast: Sleep with the phone in another room. The signal that needs you can wait until morning, and most of them weren't signals.
+fortuneMost: This turn the roasted skin catches every shift in the air and you read it true. When the wobble in a voice is the actual sentence, go to them, even empty-handed.
+fortuneMost2: You walk in already knowing who left angry an hour ago. Trust that read and tend to the person, not the air.
+fortuneHigh: The same sideways question keeps arriving. Answer the one underneath it out loud — that was always what was being asked.
+fortuneHigh2: A friend's voice goes thin on a single vowel. That thin vowel was the whole call; clear what you can and go to them.
+fortuneMid: You're the only one who caught the off-note. Name it gently, because no one else will.
+fortuneMid2: A message carries a second sentence the writer almost deleted. That's the real one — reply to that.
+fortuneLow: You can catch a thing and still leave it be. Looking away grates on you, but some of what you pick up isn't yours to hold yet.
+fortuneLow2: You don't have to triage every flicker. Answer people in the order they reach you, not the order they ache — even when letting one pass costs you.
+fortuneLeast: The phone left in another room while you sleep. Going deaf to the signals unsettles you, but most were never signals, and the real one keeps.
+fortuneLeast2: Not every wince was sent to you to carry. The small ache in someone's tone can go unremarked, even if setting down what you noticed pinches.
 facetMostTitle: The Pan It Cooled in
 facetMost: You walk into a room and know who left it angry an hour ago.
 facetHighTitle: Chaat Masala, Spice by Spice

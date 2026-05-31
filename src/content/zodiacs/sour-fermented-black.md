@@ -7,11 +7,16 @@ trait: perceptive
 dish: Black beans with douchi sauce, Chinkiang vinegar, and garlic.
 quote: We don't see things as they are, we see them as bean.
 seasonalFortune: A jar of douchi darkens on the shelf, gathering meaning the cook did not put there. The season rewards what was left long enough to deepen.
-fortuneMost: Skip the dossier. Lead with the verdict and let them sweat the gap; you've been right about this for months.
-fortuneHigh: Tell the one who already suspects. Their relief will do the convincing for the other six.
-fortuneMid: Bring up the bookshelf, not the breakup. The small displacement is where the actual confession is hiding.
-fortuneLow: Burn the notebook page. You're walking into the next conversation with four months of footnotes and a hunch nobody asked for.
-fortuneLeast: They meant it. There is no second meaning. Reply at the speed of the surface.
+fortuneMost: You read it right months before anyone found the word for it. Let the verdict walk in without its dossier.
+fortuneMost2: A long ferment tells the cook when it's ready. Something in your week is sending the same quiet signal, and you'll be the first to catch it.
+fortuneHigh: Of everyone who can't see it yet, one already half-suspects. Bring your read to that one first; their relief convinces the rest.
+fortuneHigh2: A smile lands a half-beat late and you already know what's wrong behind it. Ask the gentle question. It lands softer from you than from anyone.
+fortuneMid: A thing on the shelf got moved quietly out of reach. That small displacement said more than the whole speech.
+fortuneMid2: Open with what you noticed, not the conclusion you reached — people arrive somewhere truer when they think they walked there themselves.
+fortuneLow: Four months of footnotes is its own kind of blindness. Take the next exchange at face value; it'll feel like dropping your guard, and the fog it clears was one you'd stopped seeing.
+fortuneLow2: Sometimes the answer they gave is the entire answer. Not every pause is a door — and forcing one open where there isn't one wears you both out.
+fortuneLeast: They meant it plainly. No second meaning, no vinegar under the surface.
+fortuneLeast2: A crowd taken at its own volume, a sky taken as plain weather, no dossier kept on either. The world at face value runs lighter than yours — you'll miss the weight at first, then you won't.
 facetMostTitle: Chinkiang at the Seam
 facetMost: You watch from the wall and know who arrived already wounded, who is pretending otherwise.
 facetHighTitle: Garlic, Slow-Cured

@@ -3,6 +3,7 @@ slug: chickpea
 name: Chickpea
 tagline: The more the merrier, always.
 traits: [adaptable, sociable, warm, resourceful, uncommitted]
+toneOfVoice: Easy and inclusive; meets everyone where they are, agrees readily.
 imageFile: chickpea.webp
 ---
 

@@ -7,11 +7,16 @@ trait: pallid
 dish: Fabada Asturiana - smoked butter beans with morcilla, smoked paprika, and sherry vinegar
 quote: Now is the bean of our discontent.
 seasonalFortune: A season for smoke that has lost its fire. The vinegar's sharpness lingers in rooms where the lamp is left low, and the pot sits half-warm on a back burner well past supper.
-fortuneMost: Answer the second invitation with "no, but thanks." Both words; nothing after the second word.
-fortuneHigh: That clipped reply you sent earlier read colder than you meant. Good — leave it; the warmer version would have been a lie.
-fortuneMid: Your quiet is being tallied somewhere as indifference. One short sentence before the week turns and the tally resets.
-fortuneLow: Eat something with vinegar in it before you next speak in a meeting. Whatever happens after that will be more honest.
-fortuneLeast: The chirpier version of you has been covering shifts and is starting to drift. Phone in sick to your own stand-in.
+fortuneMost: '"No, but thanks." Three words, nothing after. The flat reply is the honest one.'
+fortuneMost2: The chair against the wall is yours. Let the louder guests carry the evening; you owe no one more colour than you've got.
+fortuneHigh: The clipped answer read colder than you meant. Leave it — the warmer version would have been a small lie.
+fortuneHigh2: Your name, one true line, and out the door while someone's still laughing. From you, that's a full goodbye.
+fortuneMid: Somewhere your quiet is being tallied as not caring. One plain sentence resets the count and costs you nearly nothing.
+fortuneMid2: A plan is drifting toward dead and waiting on your word. The delay rarely hurts; the not-saying does.
+fortuneLow: Put a little vinegar in the sharp thing and let it land. The muted version was never the honest one.
+fortuneLow2: A flat grey afternoon, and you're the one who could lift it a degree. The dull hour won't fill itself.
+fortuneLeast: Reach for the saturated red. Laugh first at your own joke. You'll be tired after, and you'll have meant it.
+fortuneLeast2: A good turn is coming, and it's coming to the part of you that let some colour show.
 facetMostTitle: Paprika Grey at the Rim
 facetMost: You wear unsaturated colours by instinct, choose the chair nearest the wall, and let livelier guests do the talking without resenting them.
 facetHighTitle: The Morcilla's Held Shape

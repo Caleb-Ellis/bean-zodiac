@@ -7,11 +7,16 @@ trait: collaborative
 dish: Fatteh - chickpeas with labneh and bitter pomegranate.
 quote: None of us is as bean as all of us.
 seasonalFortune: A season for slow exchange across the brine. Labneh thickens against the cloth; pomegranate seeds wait for a bowl to fall into. Each ingredient sharpens beside what it is not.
-fortuneMost: Hand the messy draft to one specific person before you tidy it. The sentence they add is the whole point.
-fortuneHigh: Loop someone in earlier than feels comfortable. You'll cringe; they'll fix in ten minutes what you were going to lose a weekend to.
-fortuneMid: Send the message to the person you keep meaning to ask. Now, while the kettle's on. The reply is shorter than the delay has been.
-fortuneLow: Don't make this a meeting. Close the door and bring it back finished by the end of the afternoon.
-fortuneLeast: Lock the door. The committee in your head isn't quorate, and the chair has been talking since breakfast.
+fortuneMost: Hand the half-done thing to one particular person before you tidy it. What they add is the reason you gave it to them.
+fortuneMost2: The work you carry to another cook's table comes back with their salt in it — and that's the version you actually wanted.
+fortuneHigh: Bring someone in earlier than feels comfortable. You'll cringe; they'll mend in a breath what you'd have lost days to alone.
+fortuneHigh2: Two questions left side by side, the way labneh and pomegranate sharpen against each other in one bowl. Neither of you reaches alone what the pair will.
+fortuneMid: The person you keep meaning to ask already has the answer ready — shorter than all the waiting has been.
+fortuneMid2: In a kitchen not your own, ask where the colander lives before you go reaching. The small question spares the larger fumble.
+fortuneLow: This one's yours to finish alone, behind a shut door. The quiet will feel wrong — bring the thing back whole anyway.
+fortuneLow2: Some answers only surface in a silence with no one to pass the spoon to. The long solo job costs you the company, but it gives a different thing back.
+fortuneLeast: The committee in your head isn't quorate and the chair won't stop talking. This one's yours to call alone, lonely as that lands.
+fortuneLeast2: Set each thing in its own place and trust your own arrangement. Not everything has to go to a vote — though deciding in silence will feel stark at first.
 facetMostTitle: Over Another Cook's Pan
 facetMost: You bring your draft to someone else's table and let their salt finish it, the page edited by a hand not yours.
 facetHighTitle: The Thread Past Midnight

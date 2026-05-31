@@ -7,11 +7,16 @@ trait: aloof
 dish: Frijoles borrachos al horno - oven-roasted pinto beans with lime juice, jalapeño, and dark beer
 quote: I exist as I am — that is enough. If no other bean in the world be aware, I sit content.
 seasonalFortune: A season of blistered skins and shut doors. The roast deepens what the lime had already separated; what these weeks ask of a person is the courage to remain unmixed.
-fortuneMost: Don't pick up. The slept-on version of you is better-resourced to handle it, and will write a shorter, truer reply than the one trying to form now.
-fortuneHigh: Walk home the longer way, through the streets where nobody clocks your face. You'll arrive a kinder person.
-fortuneMid: Open the door in your flat you've been ignoring for months. Alone. Just to confirm what's behind it is still yours.
-fortuneLow: Your silence is being graded as a verdict. Reply before lunch — one line, warm enough to undo the math they're doing.
-fortuneLeast: Stay until last call. The version of you that gets steeped in a crowd sleeps deeper than the one that left at ten.
+fortuneMost: The courage to stay unmixed is your strength this turn. Let the call ring out — the rested you writes a shorter, truer reply than the one forming now.
+fortuneMost2: Keep the one room no guest has entered. Sitting three seats from the nearest conversation was never a failure of hosting.
+fortuneHigh: Walk home the long way, through streets where nobody clocks your face, and arrive a kinder person.
+fortuneHigh2: Reply warmly, but space the replies until a real rhythm forms. The pace that suits you is the honest one.
+fortuneMid: Take the evening alone you keep deferring. The quiet is still yours, and you come out of it steadier.
+fortuneMid2: Say yes to one specific plan and see how it actually sits. You don't have to read every thread to answer one.
+fortuneLow: When your silence gets read as a verdict, send one warm line. Reaching first costs you the cool distance you trust, but it undoes the math someone's quietly running.
+fortuneLow2: Meeting someone at their pace won't dissolve you — answer the knock with the door already open, even if the matching pinches a little.
+fortuneLeast: The version of you that stays until last call sleeps deeper than the one who slipped out early — even if steeping in a crowd unsettles you.
+fortuneLeast2: Lean into the new friendship headlong. It goes against your grain to drop the wall, but the closeness can outlast the very thing the wall was built to guard.
 facetMostTitle: The Sealed Jalapeño
 facetMost: There is one room in your house no guest has entered, and you do not consider this a failure of hosting.
 facetHighTitle: Where the Lime Hits Hardest

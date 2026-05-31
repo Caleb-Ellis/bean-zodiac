@@ -7,11 +7,16 @@ trait: adamant
 dish: Spiced fava bean soup with berbere and lemon.
 quote: I am not a bean to be argued out of what I know to be right.
 seasonalFortune: A season for the long simmer. The skin holds while heat works through; what does not yield to berbere and lemon will be carried whole to the bowl.
-fortuneMost: Say the unsayable thing in the meeting. The flinch is the data; the silence after is your answer.
-fortuneHigh: Make them itemize the bill. The four dollars is the lesson; the principle is the keep.
-fortuneMid: Refuse the gentler wording. The sentence that makes one person uncomfortable is doing its job.
-fortuneLow: Read the rebuttal twice before answering. You may be defending a position no one is still attacking.
-fortuneLeast: Hold the no when the applause stops. Conviction that only survives an audience was never conviction.
+fortuneMost: You are the spine when everyone else's opinion goes soft. The ones who won't say it themselves are quietly glad you will.
+fortuneMost2: Name the thing nobody wants named and stay where you set it down. The flinch is the data; the silence after is your answer.
+fortuneHigh: Right is right, whoever it came from. Correct the recipe handed down three generations on the strength of one honest taste.
+fortuneHigh2: A small principle defended pays off larger than the few dollars it cost. The keep was never about the money.
+fortuneMid: The sentence that makes one person uncomfortable is doing its job. Refuse the gentler wording.
+fortuneMid2: Your tongue knows what the broth lacks even when you're told it's fine. Add it; trust the palate over the crowd.
+fortuneLow: Read the objection twice before you answer. You may be braced against an attack no one's still making — and the bracing tires you.
+fortuneLow2: Hold your plans in pencil. When the ground genuinely shifts, shifting with it isn't weakness, though your heels will want to dig.
+fortuneLeast: Conviction that only lasts while there's applause was never conviction. Loosening a stance once the room empties is a quieter kind of strong — and a harder one.
+fortuneLeast2: Slip into a conversation already underway without planting a flag in it. Letting it carry you costs you the floor, but not every room is yours to hold.
 facetMostTitle: Berbere at the Bite
 facetMost: In a room of softening opinions, you name the one nobody wants named and stay where you set down.
 facetHighTitle: Lemon's Clean Cut

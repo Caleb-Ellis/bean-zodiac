@@ -7,11 +7,16 @@ trait: warm
 dish: Miso-roasted adzuki with black sesame and mirin.
 quote: There's no better feeling in the world than a warm bean on your lap.
 seasonalFortune: Miso deepens in the oven; the season runs long and low. Houses smell of sesame and slow heat, and the people inside grow patient with one another, kettles always within reach.
-fortuneMost: Cook the long thing — the braise, the stew, the soup that wants four hours. Someone is going to need a bowl of it within the week and won't know how to ask.
-fortuneHigh: Text the friend you've been worried about. Not a check-in. Tell them what you ate for lunch and ask what they ate for theirs.
-fortuneMid: Spend the extra on the good candle. Cheap warmth reads like a draft.
-fortuneLow: Two of the four people leaning on you have someone else to lean on. Stop being polite about it; the heat is rationed and you've been over-spending it.
-fortuneLeast: Drink the tea lukewarm. People who try to reheat it for you are not, in this stretch, helping; receive the cooler version.
+fortuneMost: Make the four-hour braise for the one who'd never ask for it. They'll remember the smell of the house longer than anything you say.
+fortuneMost2: A cold, uncertain stranger is walking toward your doorstep, and will leave it thawed. Keep the heat lit.
+fortuneHigh: The friend who went quiet hasn't gone far. A small ordinary word from you reaches them like sun through a thin wall.
+fortuneHigh2: Miso deepens slow and low in the oven. So does this — you beside the people you love, no occasion announced.
+fortuneMid: Buy the better one when it's a gift. The cheap version arrives like a draft through the door, and you of all people feel that.
+fortuneMid2: A room goes softer when you walk in, and you never clock that you did it.
+fortuneLow: Some of the people warming themselves at you already have a fire at home. Save your heat for whoever's genuinely out in the cold — even when it feels like turning someone away.
+fortuneLow2: Meet the new one at the threshold, not folded straight into the kitchen. Some only want company at the door; reading that costs you a little.
+fortuneLeast: Take the tea barely warm and the help handed over cool. Not everything needs reheating.
+fortuneLeast2: Crack the window. Step into the cooler air. The pull to keep everyone warm is allowed to rest, even if the quiet feels faintly like neglect.
 facetMostTitle: Mirin on Every Seed
 facetMost: You answer the door before the second knock, kettle already on, and the stranger on the step is sitting down before they remember why they came.
 facetHighTitle: Where the Glaze Pools

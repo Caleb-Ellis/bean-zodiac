@@ -7,11 +7,16 @@ trait: honest
 dish: Avgolemono - butter bean soup with dill and lemon.
 quote: The bean will set you free, but first it will make you uncomfortable.
 seasonalFortune: A season that thins the broth and shows what was steeping under the dill. Acid finds its level. Plain statements outlast clever ones; soft edges curdle.
-fortuneMost: Say the true sentence at low volume, before someone louder says the false one. Volume is not the test.
-fortuneHigh: The better moment is not coming. This one will do, and it has the advantage of being here.
-fortuneMid: Somebody offers you a graceful exit from the truth. Decline it, smile, continue.
-fortuneLow: Sit on it through one more cup of tea. The honesty is fine; the timing is currently terrible.
-fortuneLeast: Skip the audit. The lopsided dinner bill is allowed to stand; arithmetic is not the moral.
+fortuneMost: Lemon finds its level no matter how thick the broth. The truth said low and plain outlasts the louder false one beside it.
+fortuneMost2: A good sign for the quiet teller. The moment is widening to hold the plain thing you've been carrying.
+fortuneHigh: The better moment isn't coming. This one will do, and it has the rare advantage of being here.
+fortuneHigh2: Someone offers you a graceful way around the truth, smooth as yolk off a spoon. You'll smile, decline it, and go on.
+fortuneMid: Read the mood, then say the true thing anyway — only pitched to fit the kitchen you're standing in.
+fortuneMid2: A soft "tell me about it" draws the honest answer out of them. Stand alongside, not out front.
+fortuneLow: The timing has gone wrong. Hold the true thing and let the moment widen. The waiting will sit uneasy in you; the honesty keeps regardless.
+fortuneLow2: Some awkward things soften on their own, the way skins do in a long simmer. Leaving this one be will feel like neglect. It isn't.
+fortuneLeast: The lopsided bill, the wrong number that nags. Let it stand and walk on.
+fortuneLeast2: A wide, easy "best one yet" can be the whole kindness. Skip the audit. It costs you only the last word.
 facetMostTitle: Lemon Tempered Into Yolk
 facetMost: You say the difficult thing at the table, in a voice low enough that no one mistakes it for sport.
 facetHighTitle: Dill Against the Board

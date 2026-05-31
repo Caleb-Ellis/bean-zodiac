@@ -7,11 +7,16 @@ trait: funny
 dish: Chickpea flour churros — crispy strips of fried besan batter rolled in sugar and dipped in dark chocolate.
 quote: If you want to tell beans the truth, make them laugh, otherwise they'll kill you.
 seasonalFortune: A season of batter meeting hot fat — what was heavy goes weightless, the sugar finds the crust before the oil has finished its noise.
-fortuneMost: Make the grim group chat laugh. The first joke is medicine; the second is a career; stop at one.
-fortuneHigh: Open the apology with the joke at your own expense. They can't stay mad at someone already mocking themselves.
-fortuneMid: Bring snacks to the meeting. Solve the problem; let the snacks do the charm.
-fortuneLow: Drop the bit. The earnest version of you is funnier and you're hiding it.
-fortuneLeast: Skip the punchline. Say "I was wrong" without the lead-in. Eat the silence; it's not poisoned.
+fortuneMost: Name what's wrong with a heavy day in one sentence and watch the grim hush break where you stand.
+fortuneMost2: A week of weightless things ahead, the heavy ones rolled in sugar so the room can swallow them. Somebody grieving will laugh into a sleeve because of you.
+fortuneHigh: The joke at your own expense, first. Nobody stays mad at someone already doing the mocking.
+fortuneHigh2: Catch the right eye across a tense room. One half-smile is all the relief anyone needed.
+fortuneMid: Lighten the wording, not the substance. Fix the thing, then let the warmth ride on top.
+fortuneMid2: A dull wait, a running commentary, a queue that's suddenly enjoying itself. Just don't let the bit outlast the fun.
+fortuneLow: Drop the bit. The earnest one has been hiding under the laugh, and going out uncoated feels exposed — go anyway.
+fortuneLow2: Let the plain sentence stand without the line that sparkles. It reads fine cold.
+fortuneLeast: '"I was wrong," no lead-in. The silence after isn''t poisoned. Sit in it.'
+fortuneLeast2: Name the tension straight and ask what's going on. The joke would only postpone the thing that needs saying, and you can feel it wanting to.
 facetMostTitle: One Strip Rolled in Sugar
 facetMost: The funeral hush breaks where you stand. One true thing, and the cousins are laughing into their sleeves.
 facetHighTitle: The Chocolate Dip

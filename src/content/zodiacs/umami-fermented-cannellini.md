@@ -7,11 +7,16 @@ trait: idealistic
 dish: Cannellini and white miso soup with roasted garlic and rosemary.
 quote: Some beans see things as they are and ask why; I dream of beans that never were and ask why not.
 seasonalFortune: Miso thickens in its crock; the picture in the mind thickens faster. A household built on what could be — rosemary held to its sharpest note, garlic patient under heat — runs warm and slightly hungry through colder months.
-fortuneMost: Sketch the version that can't be built yet. Pin it where you'll see it every morning; in a year it will be the second draft.
-fortuneHigh: Cut one beloved line from the thing you're working on. The shape you wanted appears in the gap.
-fortuneMid: Cook the meal you've been rehearsing for one person, badly, on the next ordinary evening. The recipe needs a witness, not a stage.
-fortuneLow: Buy the slightly-wrong version on purpose. Use it until you forget it was wrong.
-fortuneLeast: Wear the outfit you've been saving. The day you were saving it for is already happening; you've been mistaking it for an ordinary one.
+fortuneMost: The picture in your head of a thing that never existed is about to start pulling it into being.
+fortuneMost2: Almost-right reads as wrong to you, so you go back in again. That refusal to settle is the whole engine.
+fortuneHigh: Cut the one beloved line and the shape you actually wanted appears in the gap.
+fortuneHigh2: You lay the table for the feast you mean to throw someday, not the supper in front of you. Let the someday stay a little hungry for the real.
+fortuneMid: The evening in your head is so finished, so specifically lit, that the real one keeps coming up short beside it. Let the okay one happen; it needs a witness, not a stage.
+fortuneMid2: Hold the standard, send the rough draft anyway. The better version can only grow from one that exists.
+fortuneLow: Wear the good jumper out of its tissue paper; use the kettle that works. The better-someday keeps costing you the perfectly-fine now.
+fortuneLow2: Serve it on whatever's clean and let the night be a good one anyway. It won't clear the bar in your head — few real nights do.
+fortuneLeast: A quiet omen this turn — the ordinary afternoon you're standing in is already enough. The pictured one will keep tugging; take this one as it comes.
+fortuneLeast2: Call the friend now, off whatever you've got, no waiting for the worthy occasion. The people are in the present tense.
 facetMostTitle: Rosemary Withheld
 facetMost: You rework the chapter no one asked to read again, chasing a version that has not yet existed.
 facetHighTitle: The Unstirred Paste

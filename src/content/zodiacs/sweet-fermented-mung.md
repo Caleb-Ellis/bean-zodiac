@@ -7,11 +7,16 @@ trait: gentle
 dish: Bánh men — Vietnamese sweet mung bean cakes made with fermented rice wine batter, steamed until just set.
 quote: In a tough world, the most rebellious thing you can do is be a gentle bean.
 seasonalFortune: A season in which rice wine quietly turns the bean toward sweetness. Steam rises over covered cakes; the work that matters happens beneath cloth, unwitnessed.
-fortuneMost: Light the nice candle on the regular night. The plainest weekday deserves it, and so do you.
-fortuneHigh: Send the friend a pep talk you wrote for yourself. It applies to them; it applies to you; pass it around.
-fortuneMid: Write yourself a kind note and stick it inside the bathroom cabinet. Read it next time you forget.
-fortuneLow: Stop apologising for the thing first. Say it straight, sweetly — the warmth is in your face, not the preface.
-fortuneLeast: Skip the sorry-to-bother-you. Open with the ask; the affection comes through anyway.
+fortuneMost: Find the register that lets the difficult one be wrong without shame. That softness is your whole craft.
+fortuneMost2: When the room raises its voice, lower yours. Strange luck of the gentle — the room ends up following the quiet one.
+fortuneHigh: The tired friend's first answer was hiding a second one. Ask after that one.
+fortuneHigh2: The kind thing you wrote to talk yourself down fits someone else just as well. Let it travel.
+fortuneMid: Turn the patience inward. Speak to your own bad day the way you'd speak to a friend stuck inside it.
+fortuneMid2: A good thing is coming to a plain evening — and you, of all people, are allowed to enjoy it without earning it first.
+fortuneLow: Name it at its real volume, no softening preface. The warmth lives in your face; the apology in front of it costs you and adds nothing.
+fortuneLow2: Kind and clear at the same time — say it straight and sweet, no cushion. Dropping the cushion will feel risky; do it.
+fortuneLeast: The blunt thing, said across the table. The whole evening moves faster for it, even if your instinct begs to soften the edge first.
+fortuneLeast2: Lead with the ask, skip the easing-in entirely. Plainness is the kinder thing here, however unkind it feels in your mouth.
 facetMostTitle: The Cake Set Just So
 facetMost: With the difficult relative you find the register that lets them be wrong without shame.
 facetHighTitle: Rice Wine in the Batter

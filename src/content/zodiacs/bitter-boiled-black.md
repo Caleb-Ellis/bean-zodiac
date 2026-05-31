@@ -7,11 +7,16 @@ trait: measured
 dish: Black bean soup with epazote and bitter orange.
 quote: It was the best of beans, it was the worst of beans.
 seasonalFortune: The pot sits dark on a low flame, days of soaking already behind it; nothing in the kitchen is rushed, and nothing arrives less than fully steeped.
-fortuneMost: Speak third in the meeting, not fifth. Third is measured; fifth is hiding, and the room can tell.
-fortuneHigh: Answer the question that was actually asked. The deeper one underneath it is yours; nobody ordered it.
-fortuneMid: Hand over a piece of working — the half-formed thought, not the polished one. People trust the rough cut more than they trust the lacquer.
-fortuneLow: Decide at the speed of the room you're in, not the speed of the room in your head.
-fortuneLeast: Say the unflattering thing first, briefly, before someone else does it worse. The damage compounds in silence.
+fortuneMost: Three opinions spend themselves in the room. They're all waiting for yours.
+fortuneMost2: A bean steeped slow keeps its depth. What you offer after the long pause carries more than anything said in a hurry.
+fortuneHigh: A decision is simmering and you're tempted to taste it early. Let it cook itself down.
+fortuneHigh2: Answer the thing that was actually asked. The deeper one underneath it can wait for a deeper pot.
+fortuneMid: The pot finished a while ago and now you're only guarding it. Ladle it out before the depth turns to sediment.
+fortuneMid2: You stopped weighing it a turn back, whatever you keep telling the room. You've landed; say so.
+fortuneLow: Your composed quiet already reads as a verdict to everyone but you. Say the half-formed thing — the shape comes clear in the saying.
+fortuneLow2: Move at the pace of the people beside you for once, not the pace of the pot. You'll skip the long steep — and arrive while they're still there to arrive with.
+fortuneLeast: Bitter orange straight, no soak, just the spark on the tongue — and the spark turns out right.
+fortuneLeast2: Out where the path forks, take it at a run. The bitterness sorts itself out behind you, the way it always meant to.
 facetMostTitle: The Darkening Broth
 facetMost: At the table you sit through three opinions before you offer one, and the room turns to hear it.
 facetHighTitle: Epazote, Held Back

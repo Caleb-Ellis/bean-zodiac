@@ -7,11 +7,16 @@ trait: sarcastic
 dish: Pinto bean and tomatillo caldo with lime and serrano.
 quote: Sarcasm is the lowest form of wit but the highest form of bean.
 seasonalFortune: A season for caldos left to reduce. The tomatillo's tang sharpens against long heat, and what passes for weather has an aftertaste this year.
-fortuneMost: The punchline is teed up by someone else. Hit it once, cleanly, then shut up — the second swing kills it.
-fortuneHigh: The line arrives half a second early. Hold it. Comedy is patience disguised as wit.
-fortuneMid: Two beats of silence beats the joke you're holding. Let the silence land the punch.
-fortuneLow: Your usual edge is going to draw blood at this table. File it to a butter knife before you say anything; sincerity will land funnier here than the line you were about to deliver.
-fortuneLeast: Drop the wink and say it straight. Sincerity is the move nobody saw you make.
+fortuneMost: Someone tees the punchline up. One swing lands it; the second swing kills it — like serrano, a little heat carries and too much numbs the tongue.
+fortuneMost2: A good omen for the slow hand. Hold the line until the room is still reacting, then land it, and even the target laughs first.
+fortuneHigh: The dry aside you're sitting on is the one that lands. Say it level, lime cracking the surface, and let the heat arrive after.
+fortuneHigh2: The absurd thing struts past. Name it flat for exactly what it is.
+fortuneMid: Two beats of quiet can outdo the joke you're holding. Let the silence swing the punch.
+fortuneMid2: A look held a moment too long says it without a word. The line doesn't always need spending.
+fortuneLow: Your edge would actually draw blood here. File it down first. Plain warmth carries further than the cut you had ready, even when setting the blade down feels like waste.
+fortuneLow2: A compliment can be taken straight, the thank-you sent without a twist. Let the bit go.
+fortuneLeast: Drop the wink and say it as it is. Sincerity is the one move nobody saw you make. It'll feel unguarded — that's the point.
+fortuneLeast2: Greet the obvious thing as obvious, caldo poured without garnish. The level tone carries more than you'd guess.
 facetMostTitle: Lime Cracking the Surface
 facetMost: You answer the question asked, then the one underneath it, and the room rearranges around the second answer.
 facetHighTitle: Serrano Heat, Arriving Late

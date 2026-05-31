@@ -7,11 +7,16 @@ trait: fearless
 dish: Ta'amiya - fava bean falafel with bitter herb tahini and pickled turnip.
 quote: Do the thing you are afraid to do, and the bean of fear is certain.
 seasonalFortune: Oil at temperature does not negotiate; the herb crashes in green and bitter and stays. The almanac reads hot this stretch — hesitation scorches faster than commitment.
-fortuneMost: Walk in without the deck, the notes, the prep. You brought yourself; that's the deck.
-fortuneHigh: Name the risk before you jump. The watchers think you're reckless because you skipped that part.
-fortuneMid: Place the hard call before the kettle whistles. It's a two-minute conversation pretending to be a week.
-fortuneLow: Listen to the cautious one in the meeting. They have spotted the thing your speed walked past, and they are not wrong this time.
-fortuneLeast: Wrong door. The one to its left is open and nobody's guarding it.
+fortuneMost: Walk in with empty hands. You never needed the armful of prep; you brought yourself, and that was always the thing that worked.
+fortuneMost2: A door propped onto an unlit corridor, and what you're after waits at the far end. Go through without breaking stride.
+fortuneHigh: The leap is right. People only call it reckless because you skip the part where you say it's a leap — name it, and the same jump reads as courage.
+fortuneHigh2: You already clocked the drop. Push off before the second thought lands; the herb's still green in the oil.
+fortuneMid: The hard call is a two-minute conversation impersonating a whole week. Make it and the week collapses back to two minutes.
+fortuneMid2: A stranger asks you something direct, and you answer just as plainly. That ease is about to be met in kind.
+fortuneLow: The cautious one spotted what your speed walked past, and they're right. Slow down to hear it — it rankles, and it's the move.
+fortuneLow2: There's a pan you haven't lit, and a reason. Honour the reason before you reach for the match, even while the waiting itches.
+fortuneLeast: Wrong door. Hard to turn from one already half-open, but the one beside it is unguarded and the better way through.
+fortuneLeast2: Each step earns the next. The middle is the part you'll want to rush — let the order hold, and the thing arrives whole.
 facetMostTitle: The Falafel, Split Open
 facetMost: No survey of the fridge, no second thought — you stand at the counter and split the falafel with your hands.
 facetHighTitle: Oil Already at Heat

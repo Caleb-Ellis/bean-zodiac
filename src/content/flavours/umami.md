@@ -3,6 +3,7 @@ slug: umami
 name: Umami
 tagline: The Flavour that rewards patience.
 traits: [rich, satisfying, warm, deep, slow]
+toneOfVoice: Tints the voice rich and deep — slow to register, lingers afterward.
 ---
 
 Umami is the flavour that is hardest to name but impossible to mistake. It is depth, warmth, the quality that makes a broth feel like it has been waiting for you. Found in slow-cooked stocks, aged cheeses, fermented pastes, dried mushrooms — Umami is the reward for slowness, for staying with something long enough to let it become what it was always trying to be.

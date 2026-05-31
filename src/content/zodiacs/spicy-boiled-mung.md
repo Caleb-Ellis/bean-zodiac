@@ -7,11 +7,16 @@ trait: worrisome
 dish: Nokdu juk - Korean mung bean porridge with gochugaru and sesame.
 quote: I have known a great many troubles, but most of them never bean.
 seasonalFortune: A pot held just below the boil. The household of this bean keeps its days at low simmer, every burner watched, the gochugaru tasted twice before it goes in.
-fortuneMost: List the three worst-cases on paper. Two will look small in daylight; the third is the one to actually prepare for.
-fortuneHigh: Delete the tracking app from your phone. The package will arrive whether you watch or not, and the watching is its own kind of holding the parcel hostage.
-fortuneMid: When asked "what's wrong," skip the polite top of the list and say the third thing down. That's the real one.
-fortuneLow: The concern they keep brushing off — bring it up again with a deadline attached. Worry with a date stops being worry.
-fortuneLeast: Pick one thing on the list and decide, now, not to think about it again. The whole list lightens when one item exits, and the exit is the cure.
+fortuneMost: Say the three worst-cases out loud. Two shrink in daylight; the third is the one your watching was actually for.
+fortuneMost2: The noticing that won't switch off is why nothing important ever runs out around you. It's a gift — it only asks to sleep at night.
+fortuneHigh: The thing you can't hurry arrives whether you watch it or not, and the watching only keeps you its hostage. Set it down and walk outside.
+fortuneHigh2: Check the lock once and leave it. The second check tells you nothing the first didn't, and the body already knew that before the hand reached out.
+fortuneMid: When someone asks what's wrong, skip the polite top of the list and say the third thing down. That's the real one, and it's been waiting.
+fortuneMid2: The hard thing doesn't improve for a fifth turning-over — it only arrives later. Let it go forward while it's still warm.
+fortuneLow: Hand the brushed-off concern back, this time with a date attached. Worry with a deadline stops being worry — though naming the day will cost a flinch.
+fortuneLow2: Coats land where they land and the house survives your not minding. Walk past the small mess; the ease is worth the itch it leaves.
+fortuneLeast: Take one thing off the list and decide never to think of it again. The whole count lightens when a single grain leaves it — reckless as that feels.
+fortuneLeast2: A small thing surfaces late, already handled, having cost you nothing. Not everything needed your watch — and learning that stings a little, doesn't it.
 facetMostTitle: Three in the Morning
 facetMost: You lie awake counting unstirred pots, salting them by lamplight; sleep arrives only after every grain is accounted for.
 facetHighTitle: Forty-One Open Spoons

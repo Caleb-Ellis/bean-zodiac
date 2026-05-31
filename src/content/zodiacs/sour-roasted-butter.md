@@ -7,11 +7,16 @@ trait: guileless
 dish: Butter bean traybake with preserved lemon, roasted garlic, and rosemary
 quote: To bean or not to bean — actually, yes, obviously. Why would you not.
 seasonalFortune: A season that browns uncovered. Lemon rind slumps into the oil without ceremony, garlic loses its skins, rosemary throws its smell down the corridor before anyone lifts the tray.
-fortuneMost: Reply in the same tense they wrote in. The clever rephrase is a tax you keep paying for nothing.
-fortuneHigh: They're hoping you'll find a second meaning. There isn't one — take it at face value and watch them blink.
-fortuneMid: Read the text once and act. The forty-minute decode session is the actual subject of the text.
-fortuneLow: Someone has your tells memorised and is fishing with them. Wait a full minute before the next reply.
-fortuneLeast: Stop tucking the lemon behind the bread. Put the sharp dish in the middle of the table where it belongs.
+fortuneMost: Luck runs plain as a split rind for you this turn. Answer what was asked, in the tense it was asked, and skip the clever rephrase — it's a tax you keep paying for nothing.
+fortuneMost2: People who've spent years decoding subtext find you disarming, then restful. That ease is what you hand them just by being literal.
+fortuneHigh: Someone's fishing for a second meaning that isn't there. Take the words at face value and the whole day stays lighter.
+fortuneHigh2: A count comes out wrong and you say so flat, no apology threaded through the correction, landing like a tray set down on stone.
+fortuneMid: Take it once at the surface and act on it. The long decode is usually your own invention, not the thing's.
+fortuneMid2: Something reads odd, and most times that's all it ever was — odd, then nothing.
+fortuneLow: When the barbed line comes, wait a beat before you bite the literal hook. Reading for the hidden meaning grates against you, but not everything is offered at face value.
+fortuneLow2: There's no rush to set the unfinished thing out. Let the rosemary scent only your own kitchen a while longer, even if the holding feels a little like hiding.
+fortuneLeast: Some rooms aren't braced for the lemon set out bare — tuck it behind the bread this once, however much the arranging goes against your grain.
+fortuneLeast2: A guess kept quiet spares someone a surprise they never asked for — a mercy, even when staying silent chafes worse than any plain answer would.
 facetMostTitle: Skin Loose, Clove Bare
 facetMost: A message lands and you reply in the tense it was sent — no draft, no softening, the answer plain as a split rind on the tray.
 facetHighTitle: Rosemary Still Hissing

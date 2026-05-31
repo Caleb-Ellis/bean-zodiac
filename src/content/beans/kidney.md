@@ -3,6 +3,7 @@ slug: kidney
 name: Kidney Bean
 tagline: Feel everything. Regret nothing.
 traits: [passionate, protective, tenacious, vital, overextended]
+toneOfVoice: Fervent and full-hearted; speaks with everything it has.
 imageFile: kidney.webp
 ---
 

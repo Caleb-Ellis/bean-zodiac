@@ -7,11 +7,16 @@ trait: subversive
 dish: Spicy fava with doubanjiang and Sichuan pepper.
 quote: The most bean act in a conformist world is to think for yourself.
 seasonalFortune: The season belongs to whatever ripens behind a closed lid. Doubanjiang darkens unwitnessed, Sichuan pepper sharpens its hum, and the household wakes one morning to a pantry rearranged by no hand they remember.
-fortuneMost: The terms are about to flip and only you saw it coming. Don't post about it. Don't even smile; the quiet is the move.
-fortuneHigh: Show the working to one trusted person before the meeting. Picking the witness is the move.
-fortuneMid: When asked casually what you've been up to, skip the deflect. Tell them what you're actually doing — once, plainly.
-fortuneLow: If this lands as a surprise it dies. Spend this week seeding it — one quiet coffee at a time.
-fortuneLeast: You're building a key for a lock that got changed. Put it down. Look at the door that's actually here.
+fortuneMost: Work the back while the front still argues the menu. By the time anyone looks up, the menu is already yours.
+fortuneMost2: When only you can see the move that flips the terms, the quiet is the move. Make it; don't announce it.
+fortuneHigh: One low line, the right moment, the right ear — and the agreed-upon plan quietly becomes another plan. Choosing who hears it is half the work.
+fortuneHigh2: One ally lined up in private beats winning a crowd out loud. The patient version is the one that holds.
+fortuneMid: You take the path nobody thought to walk and arrive holding the answer the kitchen's been hunting since noon. Some days the detour is the whole trick.
+fortuneMid2: Asked plainly what you're up to, you can simply say. The straight answer surprises people more than the clever one would.
+fortuneLow: A move that lands as a pure surprise can die on arrival. Seed it slow, one quiet conversation at a time — the patience galls you and it's what gives the thing roots.
+fortuneLow2: Announce the plan at the doorway and trust the room to follow the heat it can see. Showing your hand feels like losing your edge; it buys a trust the back kitchen never will.
+fortuneLeast: When the lock's already been changed, the cleverest key is wasted on it. Knock on the door that's actually in front of you.
+fortuneLeast2: Hand the idea out before it cools and let it be witnessed from the first stir. You lose the surprise; the open way is the cleaner advantage.
 facetMostTitle: Numbness Before the Name
 facetMost: You move money, furniture, allegiances while the household is still arguing the old terms; by Sunday the terms are yours.
 facetHighTitle: The Jar Held Back

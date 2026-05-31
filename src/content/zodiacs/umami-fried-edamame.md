@@ -7,11 +7,16 @@ trait: keen
 dish: Edamame gyoza - pan-fried dumplings with edamame, nira, and soy dipping sauce.
 quote: I am always doing that which I cannot do, in order that I may learn how to bean it.
 seasonalFortune: A season pleated and sealed at the edge. The wrapper crisps where it meets the pan; what is folded inside still announces itself through the dough.
-fortuneMost: Name the thing aloud — in the hallway, not the meeting. Whoever needs to hear it is one chair away.
-fortuneHigh: Re-read the message. The line you skipped is the actual ask.
-fortuneMid: Don't finish their sentence. They're routing the long way for a reason.
-fortuneLow: Slow your reply by an hour. You're sprinting past where the conversation actually is.
-fortuneLeast: Be the last to know on purpose. Surprise is a muscle you've stopped using.
+fortuneMost: The filling announces itself through the dough before the dumpling's even turned. You read people the same way, and the thing nobody's said yet is yours to name first.
+fortuneMost2: Answer the question they actually meant, not the one they managed to get out.
+fortuneHigh: A lamp moved an inch, a word chosen instead of the obvious one — you'll catch it where everyone else walks straight past.
+fortuneHigh2: Read it again. The line you skimmed is the real ask hiding under the polite one.
+fortuneMid: Don't finish their sentence. They're taking the long way around for a reason that's theirs.
+fortuneMid2: Hear it all the way through before you drop in the part you saw coming. The early arrival can wait its turn.
+fortuneLow: You're sprinting past where the talk actually is. Slow the reply down, even though the answer's already burning a hole in you.
+fortuneLow2: Not every signal needs catching the instant it lands. Let an afternoon drift past the hour you meant to start; the dropped thread won't bruise.
+fortuneLeast: Be the last to know something, on purpose. Surprise is a muscle you've nearly let waste.
+fortuneLeast2: Miss the small thing and laugh it off. Half-tuned-out costs far less than you fear, and it rests something worn-down in you.
 facetMostTitle: The Pleat That Hides Nothing
 facetMost: You name the unspoken thing in the room before anyone else has finished sitting down.
 facetHighTitle: Nira Through the Wrapper

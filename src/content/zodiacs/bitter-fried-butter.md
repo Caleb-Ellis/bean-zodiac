@@ -7,11 +7,16 @@ trait: deliberate
 dish: Schnitzel - crumbed butter beans with bitter salsa verde.
 quote: Well-behaved beans seldom make history.
 seasonalFortune: A season for crumb pressed firm before the oil takes it. Quick hands lose the coating; the careful ones eat well. Bitter parsley keeps until needed.
-fortuneMost: Send draft seven. Draft eight is a coward in better punctuation.
-fortuneHigh: Stop sharpening. The axe is sharp; the log is right there; swing.
-fortuneMid: Do the ten-minute task that's been on the list since the last reshuffle. It's nine minutes, actually, and it's been quietly taxing every glance at the list.
-fortuneLow: Close the notebook. Walk to the door. Open it. That was the whole plan.
-fortuneLeast: Hit reply before you finish reading. Your first instinct outranks your fourth.
+fortuneMost: The crumb pressed firm is the crumb that holds when the oil takes it. Your slow, weighed yes is the one that lands.
+fortuneMost2: The choice you've been turning over from every side is right, and the coating you let set is about to prove it holds.
+fortuneHigh: A choice that matters keeps until morning. Sleep sorts the real reasons from the loud ones; the answer will still be there at dawn.
+fortuneHigh2: The wider you look before committing, the better you land — and luck is leaning toward the long view this stretch.
+fortuneMid: Ten minutes, then go. This one doesn't need the seventh pass; firm enough is firm enough.
+fortuneMid2: One thing you're unsure of, a dozen you're not. Settle the one. Let the rest cook as they are.
+fortuneLow: The couch wants moving on a hunch, even at midnight. You can't map a room before you live in it, and standing still maps nothing at all.
+fortuneLow2: Say it before it's polished. The rough version stumbles, and it's often the truer one.
+fortuneLeast: Your first read here outranks your fourth. Answering on instinct skips the careful part — and the careful part, this once, was the stalling.
+fortuneLeast2: Some doors only open while you're still moving. You haven't checked the footing twice. That's the leap; take it uneasy.
 facetMostTitle: Capers Counted, Oil Cracked
 facetMost: You draft the message six times, send the seventh, and the seventh is the one that lands.
 facetHighTitle: Where the Crumb Adheres

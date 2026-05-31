@@ -7,11 +7,16 @@ trait: focused
 dish: Stir-fried black beans with oyster sauce, ginger, and scallion.
 quote: The bean's rays do not burn until brought to a focus.
 seasonalFortune: A narrowed flame keeps a tight room; the season favors those who let the wok's edge go dark while the center holds bright.
-fortuneMost: Close every tab but one. The other twelve were stalling dressed as research.
-fortuneHigh: Watch who doesn't speak in the meeting. Sit next to them after.
-fortuneMid: Pick the harder task before coffee. The easy one is bait.
-fortuneLow: Open the drawer you've been walking past. Whatever's in there has been waiting longer than you think.
-fortuneLeast: Call back the name you keep losing. They've stopped expecting it, which is exactly when it counts.
+fortuneMost: One bean held over the flame until it catches, the whole kitchen gone dark around it. What you make in that narrow light, people look at twice.
+fortuneMost2: A door shut, a phone face-down, one thing finished clean before the next is allowed to exist. The week bends toward whoever can do that.
+fortuneHigh: The easy tasks circling the hard one are bait, every one.
+fortuneHigh2: Someone at the gathering has gone quiet. Turn the attention you give the page onto them instead.
+fortuneMid: Finish the chapter before the next book leaves the shelf, and the day stays whole.
+fortuneMid2: The blur comes from leaving everything half-cracked. Close one thing all the way first.
+fortuneLow: The thing you keep stepping over has waited longer than you think. Land on it — even though six open threads feel more alive than one finished one.
+fortuneLow2: Half-open everywhere only looks like progress. Pick the one that matters; letting the rest wait will sting, and it's still right.
+fortuneLeast: A week spent gathering everything and settling on nothing leaves the real thing untouched. Pick a spot and stay, even if staying feels like losing the others.
+fortuneLeast2: The name you keep mislaying outweighs the dozen errands you're chasing instead. Choose just one — hard as that is.
 facetMostTitle: Ginger in the Oil
 facetMost: Phone face-down, door shut, one thing finished before another is allowed to begin.
 facetHighTitle: The Sauce at Half

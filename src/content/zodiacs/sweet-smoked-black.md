@@ -7,11 +7,16 @@ trait: mystical
 dish: Mole negro - black beans braised in charred mulato chile, smoked chipotle, and dark chocolate.
 quote: There are more things in bean and earth, Horatio.
 seasonalFortune: Long braises this season. The pot holds its dark longer than the clock asks; what the chile and chocolate said to each other in the dark stays in the dark.
-fortuneMost: Give the answer without the workings. They asked for the weather, not the front.
-fortuneHigh: Trust the bad feeling about the day you've been bracing for. Move the thing off it; the gut has already done the analysis you keep trying to talk yourself out of.
-fortuneMid: Bring soup to the person you've been holding at arm's length. The bowl will say what you wouldn't.
-fortuneLow: Drop one mystery on purpose this week. Tell them where you went and what it cost.
-fortuneLeast: Tell someone the dumb sweet thing you actually feel. Mystique can sit out one round.
+fortuneMost: Give the world the result and none of the method. What the chile and the chocolate said to each other in the dark is theirs to keep.
+fortuneMost2: Something arrives that fits your life too well to be chance. Take the sign and ask no one where it came from.
+fortuneHigh: You'll feel the weather change in a place before anyone speaks — the way the pot knows it's done before the timer.
+fortuneHigh2: The friendship that lasts is the one with a door you never quite open. Keep that chamber back.
+fortuneMid: Carry something warm to the person you hold at arm's length. The gesture says the thing you won't.
+fortuneMid2: A plain question deserves a plain answer; the deep one can stay in the pot.
+fortuneLow: One unguarded truth buys more than a month of mystique. Tell them where you actually went and what it cost you — even if handing it over feels like spending too much.
+fortuneLow2: Pay what you owe the day it lands, the apology as much as the bill. Carried in the dark it only sours, and you of all beans know how long a thing keeps down there.
+fortuneLeast: Say the plain sweet thing straight out, no smoke. It leaves you oddly bare, but the warmth underneath was always the better dish.
+fortuneLeast2: Open the drawer and let the drawer just be a drawer. The relief is real once you stop missing the dark.
 facetMostTitle: Smoke Under the Lid
 facetMost: You finish the work in the dark and refuse to explain the method — questions land, and you let them sink.
 facetHighTitle: Chocolate Into Chile

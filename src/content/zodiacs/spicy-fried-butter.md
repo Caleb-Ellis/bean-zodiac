@@ -7,11 +7,16 @@ trait: energetic
 dish: Spicy butter bean croquetas - fried bean cakes with smoked paprika.
 quote: The world is charged with the grandeur of the bean.
 seasonalFortune: A season lived at frying temperature, paprika on every surface; the pan is rarely cold and the residue collects on whatever is closest.
-fortuneMost: Take the stairs three at a time and reply on the landing. The slow ones will write you a memo about it later.
-fortuneHigh: Go back for the sentence you cut in half. The other six errands can wait — that one was the actual day.
-fortuneMid: Ask the question you've been outrunning all week. Three words; do it before the next coffee.
-fortuneLow: Sit. The doorbell is in your hand. Put it down for an hour and discover what calm sounds like at full volume.
-fortuneLeast: Eat the same breakfast. Twice. Nothing needs accelerating in this stretch and your speed is starting to lap itself.
+fortuneMost: Stairs two at a time, an answer before the question lands. Carry the day the way only you can.
+fortuneMost2: A kicked-around idea heats under your hands until everyone's suddenly part of the plan.
+fortuneHigh: Faster oil, faster room — bring three people into the same good thing and feel it crackle.
+fortuneHigh2: Luck favours the quick. A door cracks open for whoever's already moving, and you'll be moving.
+fortuneMid: That small thing you keep outrunning is slower than you. Turn and ask it plainly.
+fortuneMid2: The half-formed plan from weeks back is still warm in the pan. Go back for it.
+fortuneLow: Let an hour pass at its own pace. Standing still feels like waste — it isn't, though the itch to move is honest.
+fortuneLow2: Take the slow way — a meal sat through, a conversation given room. It costs you the momentum and hands back something quieter.
+fortuneLeast: A calm week, nothing overturned, is its own small fortune — even with your hands reaching for the burner.
+fortuneLeast2: A quiet stretch is allowed to stay quiet. Leaving it alone won't come naturally; let that be the work.
 facetMostTitle: Paprika Under the Fingernails
 facetMost: You take the stairs two at a time, answer before the sentence ends, sleep five hours, wake hungry.
 facetHighTitle: Oil at Full Tremor

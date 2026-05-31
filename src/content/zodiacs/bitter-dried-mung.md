@@ -7,11 +7,16 @@ trait: clinical
 dish: Moong Dal - mung beans with methi and turmeric.
 quote: First, do no harm to beans.
 seasonalFortune: A season weighed in grams. The household that keeps dried mung in a labelled jar moves through these weeks unhurried, spending only what the ledger has named.
-fortuneMost: Diagnose, dose, stop. The follow-up text is not part of the prescription.
-fortuneHigh: Send the bill. Free care done four times is a job.
-fortuneMid: Tell the friend the small bad thing about themselves. They asked.
-fortuneLow: Sit with them without fixing anything. Hands in your lap.
-fortuneLeast: Say "I love you" before the diagnosis. The order matters.
+fortuneMost: Diagnose, dose, stop. You name the wrong, fix it once, and don't go back to rub at the mark.
+fortuneMost2: A crisis is coming that needs exactly your steadiness — no flinch, no catastrophe, just the clear plan. It's good luck for whoever calls you.
+fortuneHigh: Name the price of your help. Free care given four times over is a job, not a favour.
+fortuneHigh2: Give the body the dose the chart prescribes, not the one fear writes. Count the hours and sleep.
+fortuneMid: Tell the friend the small hard thing about themselves. They asked, and you're the one who'll say it level.
+fortuneMid2: Answer plainly, in the words it needed and no warmer. A clean reply is its own kind of care.
+fortuneLow: Sit beside them and fix nothing — hands in your lap, the plan left in the drawer. The stillness will itch; stay in it.
+fortuneLow2: You patch them and skip the part that wasn't on the chart. Say it — that you were worried, that they matter — even though it costs you the cool distance you trust.
+fortuneLeast: Say the warm thing first, then the diagnosis. It'll feel backwards. The order is the medicine.
+fortuneLeast2: Warmth is the first dose, not a redundant second. Leading with it leaves you exposed — lead with it.
 facetMostTitle: The Stained Cloth
 facetMost: You name the wrong, pay it once, and do not return to rub at the mark.
 facetHighTitle: The Halved Methi

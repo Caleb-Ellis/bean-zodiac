@@ -7,11 +7,16 @@ trait: detail-oriented
 dish: Pinto bean caldo with epazote and tomatillo.
 quote: The bean is in the details.
 seasonalFortune: A pot kept long on low heat surrenders nothing the cook has not noticed. The season runs slow; small spots and split skins betray the lot, and the kitchen smells of epazote held in for hours.
-fortuneMost: Flag the misaligned figure on page two before approving the deck. The room will pretend not to care; the people who matter will notice you did.
-fortuneHigh: Stand at the far wall and look at the whole thing once. From here, the comma you've been fixing is not the problem; the headline is.
-fortuneMid: Audit the small recurring charge nobody has questioned. The rattle in the corner is usually where the money lives.
-fortuneLow: Ship the version with the imperfect kerning. The audience reads the sentence; only you read the letters.
-fortuneLeast: Sign the form without rereading it. The cost of one missed detail is, just this once, less than the cost of being the person who can't sign forms.
+fortuneMost: The flaw that would have grown all season is about to surface under your eye alone, while it's still the size of a single split skin.
+fortuneMost2: When it has to be exactly right, you're the one they'll want holding it. Go over it inch by inch; the eye that found everything before will find it again.
+fortuneHigh: You'll find the few things you already know are wrong. One spot, one split skin betrays the whole lot, and you hear the rattle others stopped hearing.
+fortuneHigh2: It's right or it isn't; hold it back until the small wrong thing is fixed. You're not being fussy — you simply can't unsee the speck once you've found it.
+fortuneMid: Chase the small thing nobody else has questioned. The trouble tends to live exactly where everyone agreed not to look.
+fortuneMid2: A quick look catches plenty. You don't have to count every petal to spot the speck sitting on top of the bloom.
+fortuneLow: Step back to the far wall and take the whole thing in at once. The comma isn't the problem — the shape of the thing is. Let the crooked kerning go.
+fortuneLow2: Glance at the start and the end, and let the middle be. Things get finished, the seams show, nobody minds.
+fortuneLeast: Sign without rereading and let the shelf go up a little crooked. It holds the books for years; being the one who can't ever commit costs more than the missed detail.
+fortuneLeast2: Tell them it looks great and hand it back. One round splat, no edge picked out — let the lot pass unsorted, stones and all.
 facetMostTitle: The Curling Tomatillo Skin
 facetMost: You read the receipt before you put the wallet away; the cashier waits; the error is on line four.
 facetHighTitle: Epazote, Counted in

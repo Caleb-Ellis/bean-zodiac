@@ -7,11 +7,16 @@ trait: conscientious
 dish: Pasta e fagioli - cannellini with anchovy paste and Parmesan rind.
 quote: In matters of bean, swim with the current; in matters of principle, stand like a cannellini.
 seasonalFortune: A season of slow stocks and labelled jars. The pot holds its low simmer; the rind gives up its salt by degrees, and nothing useful is hurried out of the broth.
-fortuneMost: Build the labelled folder system in one good sitting. It is not procrastination; it is the foundation of every quieter weekday that follows.
-fortuneHigh: When they ask for rough, send rough. Resist the half-hour of tidying — your rough is already cleaner than the room expects.
-fortuneMid: Delete a task instead of doing it. The list shrinks; nothing falls.
-fortuneLow: Leave the kitchen as you found it, not as you'd prefer it. The cupboards belonged to someone else's logic for a reason.
-fortuneLeast: The favour is bigger than it sounds. Ask how many hours before you nod, then halve their answer to know the truth.
+fortuneMost: Set the whole thing in order in one good sitting — jars labelled, shelf squared. Every quieter day stands on a foundation like that one.
+fortuneMost2: Something you tended carefully when nobody was watching is about to be noticed by exactly the right person.
+fortuneHigh: When they ask for rough, hand over rough. Your rough is already cleaner than they expect.
+fortuneHigh2: Returned on the day it's due, straightened and whole. Done right the first time spares you the second.
+fortuneMid: Cross a task off instead of doing it. The list gets shorter and nothing actually falls.
+fortuneMid2: The two things that weren't yours, put back on the way out. That's plenty — the rest of the room isn't your job.
+fortuneLow: Leave it as you found it, not as you'd prefer it. Someone else's logic put it there, and prying at it costs more than the mess does.
+fortuneLow2: Pay it the day it's due and walk off. The lights come on without your worrying them on — though letting the worry go will feel, oddly, like dropping something you were holding for a reason.
+fortuneLeast: That favour is bigger than it sounds. Ask the hours before you nod, then halve their answer for the truth.
+fortuneLeast2: Let one thing close untidy and watch the month close anyway. It'll itch like a crooked picture you've decided not to fix.
 facetMostTitle: Anchovy Into the Oil
 facetMost: You keep the building's shared cupboard organised on a Sunday morning that nobody asked you to, and three neighbours quietly depend on it.
 facetHighTitle: The Rind Against a Future Pot

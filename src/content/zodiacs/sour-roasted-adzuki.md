@@ -7,11 +7,16 @@ trait: transparent
 dish: Iri-azuki - roasted adzuki beans with yuzu zest and sea salt
 quote: The naked bean is the most decent thing in the world.
 seasonalFortune: A season that strips its own husks. Roasting pans go uncovered, salt sits where it falls, and the yuzu's oil reads plain on the thumb. Nothing is kept back for later.
-fortuneMost: Walk to the party in the clothes you wore to the errand. The change of shirt was a translation; nothing got across in it that wasn't already showing.
-fortuneHigh: Toast the thing you've been pretending isn't a milestone. Loud, embarrassing, with a candle if necessary.
-fortuneMid: Pay back the twenty before they remember. Watch how light your jacket gets.
-fortuneLow: You said the plain thing and they're framing it. Next time skip the framing — say it twice.
-fortuneLeast: Take the gift back and unwrap it for them. The mystery was for you, not them.
+fortuneMost: Salt-bare honesty is the luck running toward you this turn. The yuzu reads plain on the thumb, and someone nearby has been starving for a person with no oil on the surface.
+fortuneMost2: No husk, no second meaning, no version held in reserve. People stop bracing around you, and the air gets easier to breathe.
+fortuneHigh: The awkward true sentence you carry is the one that finally lets a stuck thing move.
+fortuneHigh2: A stranger asks how you really are and gets the real answer. Watch what opens.
+fortuneMid: That small debt you owe — the borrowed twenty, the reply you never sent — name it yourself, and walk lighter for miles.
+fortuneMid2: Something's been sitting under the lid in you, growing heavier the longer it's kept.
+fortuneLow: A true thing handed over with a softer edge travels further than a bare one — even when the wrapping feels like a small dishonesty in your hands.
+fortuneLow2: Not every true thing needs saying the instant it's true. Sit on one honest line a beat longer, even if the holding feels like a small lie.
+fortuneLeast: A reason kept to yourself isn't a betrayal of it. The husk left on can be its own gentleness, though leaving it there will itch.
+fortuneLeast2: A drawer you'd rather no visitor opened. Let it stay shut — it won't undo you, even if a closed corner feels strange in a house this bare.
 facetMostTitle: Yuzu Oil on the Rind
 facetMost: Your sent messages read the same as your drafts; the pause before sending was never edits, only weather.
 facetHighTitle: Skin Already Split

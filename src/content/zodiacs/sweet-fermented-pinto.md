@@ -7,11 +7,16 @@ trait: anxious
 dish: Pinto in tepache — speckled beans simmered in sweet fermented pineapple drink with piloncillo and cloves.
 quote: My bean is afraid of it, and yet I still want to do it.
 seasonalFortune: A season that ferments under the lid; the pineapple sweetens slowly while the cook listens for hiss, ready to vent the jar before it splits.
-fortuneMost: Walk into the room without the three rehearsed openings. The host's joke will land however it lands; the room is not waiting on your reaction the way you fear.
-fortuneHigh: Close the sent folder, eat something sugary, do not reread. The reply, when it comes, will be friendly.
-fortuneMid: Pick the worst of the six scenarios and text someone who would laugh at it. Spoken aloud, it loses about 80 percent of its mass.
-fortuneLow: They asked one small thing. Answer the small thing — keep the seventeen related fears for the appointment they already belong to.
-fortuneLeast: Cross the room to the person you've been working out an angle on. There is no angle; there is a hand to shake and a question to ask.
+fortuneMost: Walk in without the three rehearsed openings. Nobody is waiting on your reaction the way the loop insists they are.
+fortuneMost2: You've lived three versions of the evening before arriving at the real one. Step into the real one — it asks far less than the rehearsals did.
+fortuneHigh: Send it and leave it sent. Don't go back hunting the kinder word; the answer, when it lands, is friendly.
+fortuneHigh2: Stop stirring the same moment back through the pot. What you said was fine the first time — the reheating only thickens it.
+fortuneMid: Say the worst of the six scenarios out loud to someone who'll laugh. Spoken, it loses most of its weight on the way out.
+fortuneMid2: You read every face twice for who's gone quiet. Let one or two of those small weather reports drift by unlogged.
+fortuneLow: Answer the small thing someone actually asked. The seventeen related fears belong to a different hour, and they'll keep without you.
+fortuneLow2: A good omen for you — the lid stays seated on its own tonight. Sleep through the hiss — morning proves nothing split.
+fortuneLeast: No angle to work out, just a hand to shake and a question to ask. Cross the room to the new person — the calm on the far side is worth the few steps that scare you.
+fortuneLeast2: Let the plain answer go out before you've drafted it twice. Nothing splits; the ease of it will feel suspiciously like luck, and it isn't.
 facetMostTitle: Cloves Circling the Pot
 facetMost: You walk into a room having already lived three versions of the evening, mouthing the lines you might need.
 facetHighTitle: Piloncillo, One Direction

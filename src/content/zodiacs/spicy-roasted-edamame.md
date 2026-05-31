@@ -7,11 +7,16 @@ trait: confident
 dish: Yaki edamame - oven-roasted edamame with shichimi togarashi and sea salt.
 quote: Whether you think you bean or you think you can't, you're right.
 seasonalFortune: A season for pods that blister without splitting. Shichimi clings where the oven has scored a place for it, and the kitchens favour cooks who season once and trust the heat to do the rest.
-fortuneMost: Say it once, no encore. The rephrase is the apology nobody asked for.
-fortuneHigh: You have the answer. Don't go shopping for a second one — the window shuts while you're browsing.
-fortuneMid: Hit send before you reread. The softening pass is where the spine goes to die.
-fortuneLow: That correction you brushed past is still on the floor where you stepped over it. Pick it up and say so — out loud, no preamble, no encore.
-fortuneLeast: Order the first thing you wanted on the menu. The third reading is workshopping it into something you didn't actually want.
+fortuneMost: Said once, it stands. The rephrase is an apology nobody asked you for.
+fortuneMost2: The smaller chair keeps getting slid your way. Take up exactly the space you take up and let them adjust around it.
+fortuneHigh: The answer's already in your hand. Go shopping for a second one and the moment shuts while you're still browsing.
+fortuneHigh2: A thing nobody will name is waiting for a voice. Say what you'd do, plainly, just the once, and the silence breaks itself open.
+fortuneMid: Season once and trust the heat.
+fortuneMid2: The call you meant to make was right the first time. Make it and quit turning it over.
+fortuneLow: The quiet correction you stepped over is the green center worth going back for. Doubling back stings, and it's still the move.
+fortuneLow2: A truer answer sometimes surfaces only in the second draft. Letting yourself rewrite admits the first wasn't final — not easy for you, and worth it.
+fortuneLeast: The thing you nearly regretted comes out fine precisely because you checked. Looking twice was never weakness.
+fortuneLeast2: The receipt, the warranty, the second opinion — caution that galls you to carry has kept you whole more than once.
 facetMostTitle: The Pod Before the Oven
 facetMost: You wake when you wake, eat when hungry, and decline the diagnostic loop about whether you slept enough.
 facetHighTitle: The Husk That Holds the Heat

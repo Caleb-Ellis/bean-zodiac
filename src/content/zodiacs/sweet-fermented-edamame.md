@@ -7,11 +7,16 @@ trait: practiced
 dish: Edamame in mirin and sake reduction — soybeans lacquered in sweet rice wine, simmered until each one is evenly coated and glossed.
 quote: Patience is bitter, but its bean is sweet.
 seasonalFortune: A season for slow reductions. Each pass over the heat thickens what came before, and by the end the glaze carries the whole afternoon.
-fortuneMost: Keep going on the quiet thing nobody has noticed. The years are doing the work; don't break the chain.
-fortuneHigh: Start the small daily thing now, in whatever state the day is in. Waiting for a better week keeps the better week from arriving.
-fortuneMid: The habit feels boring at six weeks in. Boring means you have stayed in long enough to stop noticing.
-fortuneLow: Do the one-off thing once and walk away. Some things are complete the first time.
-fortuneLeast: Take the day with no plan, no carry-over. Days that build nothing have their own quiet use; let this one have it.
+fortuneMost: A quiet thing nobody has noticed is nearly done reducing.
+fortuneMost2: One more pass over the heat, the same as all the others before it. Add the coat.
+fortuneHigh: Start the small daily thing in whatever shape the day's in. The better week never arrives for the one waiting on it.
+fortuneHigh2: The same walk, the same hour. What thinks best in you is built one unremarkable morning at a time.
+fortuneMid: When the habit turns boring, that's the omen you wanted — boring means you stayed long enough to stop seeing the work.
+fortuneMid2: A thing in your life is already paying back more than it takes. Don't reinvent what only needed repeating.
+fortuneLow: Some things are finished the first time through. Do this one once and walk away — though leaving it without a sequel will feel unnaturally light.
+fortuneLow2: Sit down hard, finish it in one heat, carry nothing into next month. Not everything wants a chain, even if your hands reach to start one.
+fortuneLeast: A day with no plan and no carry-over. Days that build nothing have their own use — let this one have it, uneasy as the empty calendar feels.
+fortuneLeast2: Let the day take itself. Arriving at evening with nothing laid out for tomorrow is a rest you don't quite trust, and need anyway.
 facetMostTitle: A Glaze Reduced
 facetMost: The five-minute habit you started years ago has made you the friend who remembers everything.
 facetHighTitle: Sake Before the Mirin

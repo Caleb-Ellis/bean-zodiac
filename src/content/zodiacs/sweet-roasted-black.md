@@ -7,11 +7,16 @@ trait: resilient
 dish: Cocoa-roasted black beans — black beans tossed in cocoa powder and sugar, roasted until cracked and bittersweet.
 quote: That which does not bean us makes us stronger.
 seasonalFortune: A season of long heat and slow cocoa. Skins darken, sugars set, and the days arrive bittersweet — sturdier than they looked going in.
-fortuneMost: Reopen the project you mourned. Bring snacks; it's going to be a long sit and the snacks are part of the resilience.
-fortuneHigh: Tell someone the part that hurt. Use the actual word for it, not the polite one — "humiliating" not "tricky."
-fortuneMid: Stretch the shoulder you've been holding up for three weeks. It does not, in fact, need to be up there.
-fortuneLow: Cancel one thing on the calendar this week. Pick the one you'd normally power through.
-fortuneLeast: You've earned a slow day of doing absolutely nothing redeemable. Watch the bad show. Eat the cereal for dinner; the resilience can take an evening off.
+fortuneMost: The thing you mourned and gave up for lost reopens this turn. You're built to sit with the broken passage until it cracks the right way.
+fortuneMost2: Whatever cracked you didn't finish you. Sugar sets over the fracture; you come out bittersweet and sturdier than you went in.
+fortuneHigh: Name the part that actually hurt — the real word, not the polite one. The honest column is the one that finally balances.
+fortuneHigh2: There's an overdue thing you keep bracing against. Sit down to it and don't get up. You outlast it; you always do.
+fortuneMid: You can sleep through an earned ache and wake usable. You don't have to be usable by morning every single time.
+fortuneMid2: A shoulder up by the ear for weeks. Set it down. The weight was never yours to hold standing up.
+fortuneLow: Cancel the one thing you'd normally grit through. It'll feel like the first inch of caving; it isn't.
+fortuneLow2: A hard week, and the long way home calling you. Take it. Rest is how strong refills, even if going easy on yourself feels like cheating.
+fortuneLeast: A day of nothing redeemable, nothing balanced, nothing proven — that's the omen, and you've earned it. The resilience keeps overnight.
+fortuneLeast2: One fracture left showing, unsweetened, the sugar never spread over it. It costs you something to leave it bare. Leave it.
 facetMostTitle: Sugar Over a Fracture
 facetMost: The draft you abandoned a year ago, opened again; you work the broken passage until it crackles.
 facetHighTitle: Roasted Until the Shell Cracks

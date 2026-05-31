@@ -7,11 +7,16 @@ trait: scary
 dish: Smoked black bean broth with charred onion and no garnish.
 quote: To be great is to be bean.
 seasonalFortune: Smoke clings to a black broth long after the fire is out. The charred onion gives nothing away. A season spent darkening in the pot, without notice, without garnish.
-fortuneMost: Leave at the second-to-last song. They'll notice the cold spot at the bar long after and blame the draft.
-fortuneHigh: Don't sign the work. The shape of your hand is already on it; a signature would just date the thing.
-fortuneMid: Claim one small bit of the project out loud — the title slide, the file name, the version number. That's the whole assignment.
-fortuneLow: Someone is asking three mutual friends how to thank you. Reply to one of their texts and save them the detective work.
-fortuneLeast: Sit in the lit chair, coat folded over the back, for the entire dinner. Vanishing is reading as a drafty hallway, not as mystery.
+fortuneMost: A crowd will part for you and never work out why. You'll feel it happen on the street, on the stairs, wherever you go still — and you won't move to undo it.
+fortuneMost2: Someone is rehearsing what they'll say to you before they reach the door. The silence is doing the work; let it.
+fortuneHigh: Unsigned, and they'll still know whose hand it was. Leave your name off it.
+fortuneHigh2: An edge you carry is about to win you something without a word spent. The gap you leave behind looms larger than anything you'd say to fill it.
+fortuneMid: You can hand over a little and keep the whole edge. Say once, out loud, where you actually stand, so one person isn't left to invent it.
+fortuneMid2: Stir a word of warmth in and the broth stays just as dark. Let one person past the char — it won't thin you, hard as that is to test.
+fortuneLow: Someone keeps circling, trying to land and never quite reaching you. Meet them with a plain answer; the openness pinches, and it spares them the guesswork.
+fortuneLow2: File the edge down for the next person who matters to you. It leaves you barer than you'd like.
+fortuneLeast: The door propped, the kettle on, the house reading itself to anyone at the window. No menace in it at all — and a quiet you've been a stranger to.
+fortuneLeast2: A stranger meets you and finds nothing to fear. Strange, after all these years of the cloak, how little you miss it.
 facetMostTitle: The Blackening Spoon
 facetMost: You walk into the room and the conversation drops a register — and you do not move to lift it.
 facetHighTitle: The Bare Bowl

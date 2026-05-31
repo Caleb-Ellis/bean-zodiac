@@ -7,11 +7,16 @@ trait: sympathetic
 dish: Sikhye with red beans — Korean sweet fermented rice punch with kidney beans, served chilled with pine nuts floating on top.
 quote: Could a greater bean or miracle take place than for us to look through each other's bean for an instant?
 seasonalFortune: A season when grain gives itself up to sweetness; the long ferment turns hard winters into something a stranger can drink cold from a shared bowl.
-fortuneMost: Drop soup at their door, no buzzer, no caption. Tupperware is a love language and you speak it fluently.
-fortuneHigh: Send the long voicemail. Yes, voicemail — the ramble, the laugh, the tangent about your dog. It's medicine.
-fortuneMid: Listen to the friend's story without telling yours. Your story will keep; theirs has been waiting under their tongue for a week.
-fortuneLow: You picked a side at chapter two. Reopen the book at chapter five before you sentence anyone.
-fortuneLeast: Cancel the thing and call them. The rescheduled plan is the message, before either of you says hello.
+fortuneMost: Soup left at the door, no buzzer, no note. Tupperware is a love language and you speak it without an accent.
+fortuneMost2: You always know who needs which warmth — the one whose mother is sick, the one who flinches at a ringing phone. Keep routing yourself their way.
+fortuneHigh: Set the cold glass down before you ask what happened. Let the chill of it do the first round of talking.
+fortuneHigh2: Someone is about to feel less alone because you turned up for no reason at all. That's the medicine; go.
+fortuneMid: Their story has been waiting under their tongue. Hear it all the way out before you reach for your own — yours will keep.
+fortuneMid2: When they trail off mid-sentence, hold the gap open. The next word is theirs to find, not yours to supply.
+fortuneLow: Someone's hard week can reach you as a headline and stop there. Nod, wish them well, keep your day your own — even if it feels like turning down the heat.
+fortuneLow2: You've slotted their trouble into a shape you already know. Pry it back open — what looked identical underneath carries a different weight, and assuming costs more than asking.
+fortuneLeast: Plans stay plans, weather stays weather. You don't owe the afternoon a rebuild because a voice sounded thin, however much the ladle calls.
+fortuneLeast2: Hold your own footing when someone arrives shaken. Not every heavy thing in the room is yours to lift, and setting it down is harder for you than most.
 facetMostTitle: Rice Spent for Sweetness
 facetMost: You remember which friend's mother is sick, which neighbour hates phone calls, which cousin needs the long version — and you route yourself accordingly.
 facetHighTitle: Ladle, No Questions

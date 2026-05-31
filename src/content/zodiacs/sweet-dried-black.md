@@ -7,11 +7,16 @@ trait: abiding
 dish: Black bean brownies — dried black beans cooked and folded into dark chocolate batter, fudgy and barely holding together.
 quote: Not all those who bean are lost.
 seasonalFortune: A dried bean waits years for its hour and gives it back as fudge. The pan cools slowly; the chocolate sets darker than it looked in the bowl.
-fortuneMost: Keep the porch light on. They're closer than they sound.
-fortuneHigh: Bake the brownies for the friend who hasn't asked. Drop them off.
-fortuneMid: Say hello first this week. They've been hoping you would.
-fortuneLow: Send proof you're still here. A photo, a sentence — enough.
-fortuneLeast: Show up to the thing you said you'd skip. Stay an hour.
+fortuneMost: The friend who flew in for the funeral, the move, the long drive nobody asked them to make — that's you. You're not a favour. You're the weather.
+fortuneMost2: A dried bean waits years for its hour and gives it back rich and dark. Whoever you've stood by is steadier for it than they'll ever quite say.
+fortuneHigh: Arrive unbidden, arms full. It's the only love language you've got, and it lands every time.
+fortuneHigh2: People set their watches by you while everyone else drifts off the map. Be there again.
+fortuneMid: Quiet faithfulness sinks into the furniture until no one sees it holding the house up. Be the first to say hello sometime; let it count out loud.
+fortuneMid2: A bean folded into the batter holds its shape and barely shows. Make your steadiness plain once, so it reads as the rare thing it is.
+fortuneLow: Someone is reading the gap as you leaving. Plant one foot back down — it pinches a little, do it anyway.
+fortuneLow2: Keep every option loose and distance starts to look like a verdict. A small sign you're still here goes further than it should.
+fortuneLeast: Repaint the wall, sell the chair, walk past the gap and feel lighter. Not every place was built to hold you forever.
+fortuneLeast2: Leaving where the warmth went cold isn't disloyalty, though it'll sit oddly for a beat. Trust the lightness.
 facetMostTitle: Denser on the Third Day
 facetMost: You sleep the same hours in any season, wake unprompted, and have not used an alarm in years.
 facetHighTitle: Beans Holding Their Shape

@@ -3,6 +3,7 @@ slug: sour
 name: Sour
 tagline: The Flavour that cuts through.
 traits: [sharp, clarifying, precise, honest, nasty]
+toneOfVoice: Tints the voice sharp and candid — clarifying, and sometimes it stings.
 ---
 
 Sour is the great clarifier. A squeeze of lemon over a rich dish. A spoonful of yogurt cutting through sweetness. The bright acid of a good vinaigrette pulling a salad into sharp focus. Sourness does not compete with other flavours — it defines them. Sour Phases are similarly clarifying: the fog lifts, the unnecessary falls away, and what remains is more precise for having been sharpened.

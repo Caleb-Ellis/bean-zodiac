@@ -7,11 +7,16 @@ trait: visionary
 dish: Fave dolci al Marsala — fava beans braised in sweet Marsala wine with sugar and lemon until the liquid becomes a syrup.
 quote: The bean is not to predict the future but to imagine it.
 seasonalFortune: Marsala deepens in the crock; sugar and lemon bind to something the cook glimpsed weeks back. The season favours those whose private syrups now turn legible on the spoon.
-fortuneMost: Draw the future on a napkin and slide it across the table. The crayons are doing more work than the slide deck would.
-fortuneHigh: Tell one person the whole dream, with feeling, like a kid pitching a treehouse. They will say yes; bring nails.
-fortuneMid: Sketch the next decade on a postcard and mail it to yourself. Stamp included. Forecast becomes physical.
-fortuneLow: Put the five-year plan in a drawer and answer your mother. The vision will keep; she might not.
-fortuneLeast: Look up from the map. The street has changed since you last looked, and the new shop is the one you wanted.
+fortuneMost: Draw the future rough and slide it across to someone. The napkin sketch carries what a careful presentation never could.
+fortuneMost2: You'll hear the hinge turn before anyone else in the room. Name what it's becoming — you're usually right, and they catch up.
+fortuneHigh: Tell one person the whole dream with full feeling, like a kid pitching a treehouse. If they say yes, bring nails.
+fortuneHigh2: Start shifting the furniture for the room nobody's walked into yet. You can already see where every piece goes.
+fortuneMid: A forecast made physical is harder to talk yourself out of. Sketch the next ten years somewhere your hands will find it.
+fortuneMid2: You can already taste where it ends, and that's why you'll stay at the stove.
+fortuneLow: The vision will keep; the person in front of you might not. Set the long plan down and answer them, hard as it is to look away from the horizon.
+fortuneLow2: Meet the hour as it lands, no forecast required. Tonight asks nothing of next week — though the quiet of not-planning may unsettle you.
+fortuneLeast: Look up from the map. The street changed while you were reading it, and the place you wanted is the one that's actually there now.
+fortuneLeast2: Read the weather out the window, not the long forecast above the sink. Some days only ask what's outside — even when your eyes keep drifting to the distance.
 facetMostTitle: The Jar Set in Spring
 facetMost: You name what the room is becoming before anyone else hears the hinge.
 facetHighTitle: Lemon Peel in the Marsala

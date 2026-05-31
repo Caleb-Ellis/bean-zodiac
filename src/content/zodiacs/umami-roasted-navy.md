@@ -7,11 +7,16 @@ trait: wistful
 dish: Marmite-roasted navy beans with rosemary and garlic.
 quote: We shall not cease from bean exploration, and the end of all our exploring will be to arrive where we started.
 seasonalFortune: Marmite darkens slow in the jar; rosemary keeps its needle through winter. A season for the small salted things that outlast their occasion.
-fortuneMost: Reread the old letter. There's a line in it that didn't mean anything the first three times and means something now; the timing is the gift.
-fortuneHigh: Cook their recipe on the next quiet evening and say their name out loud while you stir. The food will be better for it; the kitchen knows.
-fortuneMid: Put the photo back on the shelf you cleared months ago. The shelf has been wrong since you cleared it and you knew.
-fortuneLow: Pick up when they call. They're not a memory yet — don't pre-grieve someone still on the line.
-fortuneLeast: Empty the drawer to the kerb. A room emptied is a room ready, and you have been ready a while.
+fortuneMost: A line that meant nothing the first times you read it is about to mean everything. Go back to the old letter — the timing is the whole gift.
+fortuneMost2: Take one of the kept things down off its shelf and put it back into use. Marmite darkens slow and keeps; the past keeps better, too, when it's handled rather than guarded.
+fortuneHigh: Cook the recipe that belongs to someone, and say their name while you stir. The food comes out better for it, and so do you.
+fortuneHigh2: You find new weather in old lines the way others reread a favourite book. There's warmth in one of them you haven't drawn out yet.
+fortuneMid: Put the photo back on the shelf you cleared. It's been wrong since it went bare, and you knew it the day you emptied it.
+fortuneMid2: A little of the past, kept honest, is ballast and not weight. Let one kept thing stay without making it justify the space.
+fortuneLow: Pick up when they call. They're not a memory yet — don't pre-grieve someone still on the line, even if some part of you is already practising the loss.
+fortuneLow2: Finish the thing and walk on. What was good was good, and the next pan is already warming — though turning forward will feel, briefly, like leaving someone behind.
+fortuneLeast: Give it away without ceremony. A room emptied is a room ready, and part of you has been ready a while — even if your hands argue on the way to the door.
+fortuneLeast2: You don't have to hold every object a person once touched. Letting one go isn't losing them, however much it rhymes with it.
 facetMostTitle: Garlic Skins on the Sill
 facetMost: Every room you live in becomes a quiet archive — objects held because someone once touched them.
 facetHighTitle: Rosemary in the Drawer

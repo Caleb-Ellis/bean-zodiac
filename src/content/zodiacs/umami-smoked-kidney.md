@@ -7,11 +7,16 @@ trait: seething
 dish: Red beans and rice - Louisiana kidney beans with smoked andouille, celery, and bay leaf.
 quote: Full of sound and bean, signifying everything.
 seasonalFortune: A season for the long simmer; the pot tended for hours carries a low heat under everything its keeper does, and the rooms they pass through hold the scent.
-fortuneMost: Two sentences, sent three days late. The reply gets sharper for the days it spent unwritten; the polish was the resentment thinking.
-fortuneHigh: Take the grievance down off the shelf and say it out loud once, to no one. Decide afterward whether it travels further.
-fortuneMid: Walk the long way home. Whatever you couldn't say at the table, the pavement will take.
-fortuneLow: Unclench the jaw before you answer. They asked because they could see it from the other end of the table.
-fortuneLeast: Tell them you forgot. Someone has been bracing for a verdict you set down months ago, and the bracing has become the whole problem.
+fortuneMost: The reply that waits until it's four words long arrives sharpened. The slow simmer did the editing for you.
+fortuneMost2: When the one who wronged you turns up, four words at the door is all it takes — they'll read it three times and know exactly where they stand.
+fortuneHigh: Take the grievance down off the shelf and say it aloud once, to no one. Then decide whether it travels any further than the kitchen.
+fortuneHigh2: A bay leaf left in too long turns the whole pot bitter, and so does the slight you've kept folded behind the dish towels. Air it before it seasons everything.
+fortuneMid: Walk the long way home along the road. Whatever you couldn't say to their face, the pavement takes off your hands by the last block.
+fortuneMid2: Say the unkind thing in the room it belongs to, then ask about the dog. Spoken is better than folded into a drawer to ferment.
+fortuneLow: Unclench the jaw before you answer; they only asked because they could feel the heat off you across the room. Easing it costs you the satisfaction of the burn.
+fortuneLow2: The thing biting at you isn't worth carrying out the door. Leaving it on the counter feels like letting them off — set it down anyway.
+fortuneLeast: Someone's been bracing for a verdict you quietly set down long ago. Tell them you forgot. The bracing was the whole wound.
+fortuneLeast2: A grievance is drifting out the open window like smoke, and you won't be able to name which friend it belonged to. Good — it cost you nothing to let it go.
 facetMostTitle: Andouille Before It Speaks
 facetMost: A friend who wronged you arrives at the door three weeks later; you greet them in four words, and they understand exactly where they stand.
 facetHighTitle: Bay Leaf Left in Too Long

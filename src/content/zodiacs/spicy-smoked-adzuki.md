@@ -7,11 +7,16 @@ trait: transfixing
 dish: Adzuki doenjang-jjigae - adzuki beans in fermented soybean broth with smoked anchovy and gochugaru.
 quote: It is better to burn out than to bean away.
 seasonalFortune: Smoke threads the rafters and stains the beams a darker grain. A season for what marks the room long after the fire is out.
-fortuneMost: Pick the outfit you'd wear if you weren't trying. Wear that. The heat's already on you before you've crossed the threshold.
-fortuneHigh: Someone will toast you while you're in another conversation. Don't turn around — make them say it twice, and let them mean it the second time.
-fortuneMid: Light a match, blow it out, and decide the thing while the smoke's still hanging. You've been deliberating long enough to bore the candle.
-fortuneLow: A flare you set off a while back is still burning. Walk back and stand next to it before it goes out unnoticed, and credit yourself for having lit it.
-fortuneLeast: Throw something on the grill that doesn't belong there. A peach, a lemon, a slice of bread. Eat it standing up.
+fortuneMost: Gochugaru blooms red the second it hits the broth, and so do you the second you walk in — every voice half a step lower, tuned to yours.
+fortuneMost2: A door opens and the heat in the room turns toward it. That door is you.
+fortuneHigh: You finish a sentence and the table waits. The pause is yours; nobody else will take it.
+fortuneHigh2: Hold the look. The one who glances away spends the night wondering, and that won't be you.
+fortuneMid: The pull is quieter today — anchovy smoke, not open flame. Good company is its own warmth.
+fortuneMid2: You don't have to own the gathering to be felt in it. Let the heat bloom slow, the way the chile prefers.
+fortuneLow: An evening can keep its own pace with no hand on the wheel. Sit down in the broth instead of riding the rim — strange at first, and worth it.
+fortuneLow2: A stranger's whole night will run fine without bending toward you. Letting it costs a little vanity and buys a real rest.
+fortuneLeast: Slip out and leave the place exactly as you found it — chairs square, no wake behind you. It prickles to go unmissed; go light anyway.
+fortuneLeast2: An omen on the wind — this is the turn to rise like steam and vanish, unwatched, nothing to carry.
 facetMostTitle: Char on the Rim
 facetMost: You enter a room and conversation slows to your tempo, every other voice tuned half a step down.
 facetHighTitle: Gochugaru Blooming Red

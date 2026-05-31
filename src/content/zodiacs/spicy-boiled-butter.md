@@ -7,11 +7,16 @@ trait: stoic
 dish: Kuru fasulye - Turkish butter bean stew with Aleppo pepper and slow-cooked onion.
 quote: You have power over your bean, not outside events. Realize this, and you will find strength.
 seasonalFortune: A long simmer flattens the loudest pepper. The season favours those whose surfaces do not betray what the onion is doing underneath.
-fortuneMost: When the bad news lands, ask the practical question before anyone catches their breath. Triage is a form of mercy.
-fortuneHigh: Be the calmest one in the meeting and don't soften it to make others comfortable. Steady is the favour.
-fortuneMid: Register the irritation, then drop it on the floor and step over. It does not deserve a third sentence.
-fortuneLow: Take the call you've been screening. Stoicism without contact is just hiding with better posture.
-fortuneLeast: Say the grievance out loud to the person it concerns this week. Endurance has a half-life; spend it before it spoils.
+fortuneMost: When the bad news lands, you'll ask the practical question before anyone else catches their breath. Triage is a form of mercy.
+fortuneMost2: A frightened house turns to you for its weather this week. You'll be the steady kind, and they'll never know what it cost.
+fortuneHigh: You are the calmest thing in a loud situation soon — don't soften it for anyone's comfort. The flat surface is the favour.
+fortuneHigh2: The crisis comes looking for someone who won't flinch. It finds you, and you hold, and the room settles around your stillness.
+fortuneMid: Register the irritation and step over it like a puddle — it doesn't earn a third sentence.
+fortuneMid2: A long stretch of grey weather, wet coats by the door. You'll mention it once and let the rest steep in silence — that suits you.
+fortuneLow: The person you've been quietly avoiding is worth the discomfort of reaching. Endurance without contact is only hiding with good posture.
+fortuneLow2: Someone asks how you are, and the true answer is more than "fine." Letting it show won't undo you, though it'll feel like it might.
+fortuneLeast: Endurance has a half-life. The grievance you've been swallowing for months spoils if you keep it — hand it to the person it's about.
+fortuneLeast2: Say it out loud to the one it concerns. The surface won't crack — it's only the pressure finding a door.
 facetMostTitle: Aleppo Under the Tongue
 facetMost: You walk a fever through a full workday and tell no one until the chore is finished.
 facetHighTitle: The Face at the Table

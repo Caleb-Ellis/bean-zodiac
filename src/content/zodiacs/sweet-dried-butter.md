@@ -7,11 +7,16 @@ trait: serene
 dish: Butter bean and honey semifreddo — dried butter beans cooked to silk and folded into whipped honey cream, then frozen.
 quote: Peace begins with bean.
 seasonalFortune: Honey lowers into cream the colour of pale evening; the freezer keeps its long counsel, and a household sets without anyone tending it.
-fortuneMost: Take the slow morning. Tea, no screen, full hour.
-fortuneHigh: Let the hard email sit through a meal at least. Reply gentler; the version drafted hot was never going to land the way you meant.
-fortuneMid: Invite one person over. Cook something easy.
-fortuneLow: Reach out first. Calm isn't the same as gone.
-fortuneLeast: Answer the voicemail. Five minutes, warm voice.
+fortuneMost: Honey lowering into cream — the worst news loses a degree on its way through you. Let it rest in the cold overnight and meet the morning better.
+fortuneMost2: A still pond with no wind on it. Whoever was winding up to fight near you sets it down and forgets to pick it back up.
+fortuneHigh: When it lands hot, let it sit. The answer you'd give this second is sharper than you mean; the kinder one is already in there, further down.
+fortuneHigh2: People stay longer than they planned wherever you are, talk softer, walk out lighter. You settle a place simply by being easy in it.
+fortuneMid: Calm can quietly fence you off — already at peace with the thing they're still grieving. Feed someone, plainly. Peace shared beats peace merely kept.
+fortuneMid2: The day's small alarms reach you muffled, through cloth. Let one person all the way in anyway.
+fortuneLow: Sit in it a beat longer before you fix. Less comfortable than solving — but presence is what they came for, not a plan.
+fortuneLow2: You reach for the solution by minute two. Slow back to listening; calm was never the same as distance, though the two can wear one face.
+fortuneLeast: Let the next spark pass through you ungrabbed. Not matching it costs a flicker of pride; spend it.
+fortuneLeast2: The kettle's started to rattle in you, heat meeting heat. Step back one beat before the comeback — the quiet is still yours to keep.
 facetMostTitle: Silk Folded Into Silk
 facetMost: News arrives that would rattle most people; you let it rest in the cold drawer overnight and meet the morning unchanged, the news having lost a degree on its way through you.
 facetHighTitle: The Lamp Left Low

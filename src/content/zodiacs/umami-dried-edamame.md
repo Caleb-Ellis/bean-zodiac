@@ -7,11 +7,16 @@ trait: foundational
 dish: Hoshi edamame gohan - dried edamame and dried shiitake cooked into dashi rice.
 quote: Well-beaned is half done.
 seasonalFortune: A season for what was steeped overnight. Houses run on the quiet labors begun before anyone was awake to notice them.
-fortuneMost: Sign your part. The cover names didn't carry it.
-fortuneHigh: The next big meeting rides on something you built. Say so once, plainly, without softening the verb.
-fortuneMid: Put it in writing. Spoken, it disappears.
-fortuneLow: Take the afternoon off. Watch what cracks.
-fortuneLeast: Let it fall. They need to see the floor.
+fortuneMost: The whole house stands on the stock you set going before anyone woke. None of them will think to look down.
+fortuneMost2: Lay the groundwork no one will thank you for. You were never doing it for the thanks.
+fortuneHigh: A thing you made is about to go up under someone else's name. Claim your part once, plainly, without softening the verb — it deserves it.
+fortuneHigh2: Fill the cupboard before the week asks anything of you.
+fortuneMid: Write the small thing down while it's small. Spoken, the quiet work vanishes the moment everyone moves on.
+fortuneMid2: Mend the hairline crack before weight finds it.
+fortuneLow: Step out for an afternoon and watch what stands without you. Not all of it rests on your shoulders — though you'll keep checking over them.
+fortuneLow2: Hand the pot off before the grains have set and trust the next pair of hands. Letting it go unfinished costs you something; do it anyway.
+fortuneLeast: Let it fall this once. People only notice the floor when whoever held it up steps back — and you may finally be seen for it.
+fortuneLeast2: Live a while on what just flickers past, without asking what keeps the lights on. The lightness is allowed you, uneasy as it sits.
 facetMostTitle: Shiitake Soaked the Night Before
 facetMost: You finish the scaffolding others will stand on without ever seeing it.
 facetHighTitle: Dashi on the Back of the Stove

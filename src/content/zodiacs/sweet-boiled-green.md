@@ -7,11 +7,16 @@ trait: playful
 dish: Ingen no shiro-ae — green beans blanched and tossed in sweet sesame tofu cream with a pinch of sugar.
 quote: We don't stop playing because we grow old; we grow old because we stop bean playful.
 seasonalFortune: A long blanch under sugared steam. The days simmer light and keep their bounce; the season hums where it ought to rest.
-fortuneMost: Smuggle one small joke into the serious deliverable this week — a footnote, a deliberately bad chart title, a hidden pun in the file name — and ship it as-is; the person who finds it will trust the substance more, not less.
-fortuneHigh: Be the first one to laugh in the meeting when the meeting plainly needs it, and don't apologise for breaking the spell — the spell wanted breaking.
-fortuneMid: Take the long walk home past the cafe with the strange window display, and stand there for a full minute looking at it before you carry on.
-fortuneLow: The bit has started doing the work of the answer; let the next reply land flat on purpose, no punchline, no kicker, and watch the conversation finally arrive at the thing.
-fortuneLeast: Stay in the chair with the heavy thing — no bit, no detour, no perfectly timed exit line — and let the silence be the substance you've been routing around for weeks.
+fortuneMost: Smuggle one small joke into the serious thing and leave it there. Whoever finds it trusts the substance more, not less.
+fortuneMost2: One ridiculous aside from you, and a sunk dinner floats again. The lightness isn't a trick — it's the temperature you actually run at.
+fortuneHigh: Be the first to laugh when the moment is plainly begging for it, and don't apologise for breaking the spell. The spell wanted breaking.
+fortuneHigh2: A friendship is about to get easier because you keep refusing to take it heavily. A pun at the right second does what nothing solemn could.
+fortuneMid: Take the long way past the strange thing on the corner and stop to look. A small detour is enough to keep the whole day from going grey.
+fortuneMid2: Leave one bright, useless thing where someone will turn and find it. Rooms you pass through end up arranged like little set pieces.
+fortuneLow: The bit has started doing the answer's job for you. Let the next reply land flat on purpose. The talk reaches the real thing the moment you stop catching it with a joke.
+fortuneLow2: Finish the thing on the board before you reach for the next bright one. Not every moment needs a kicker to be worth staying inside, hard as the staying is.
+fortuneLeast: Stay in the chair with the heavy thing. No joke, no detour, no clean exit line. Every instinct will reach for the pun; this once, let the quiet be the substance.
+fortuneLeast2: Wave off the easy out someone hands you and ask the harder question instead. Some moments want meeting plainly, not lightening — and meeting them costs you the joke you'd rather make.
 facetMostTitle: Sesame Cream in Ribbons
 facetMost: You doodle in the margin of every draft, smuggling a joke into the work before anyone asks if it's finished.
 facetHighTitle: Sugar Pinched Mid-Stir

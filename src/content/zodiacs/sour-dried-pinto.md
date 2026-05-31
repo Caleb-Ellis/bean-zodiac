@@ -7,11 +7,16 @@ trait: astringent
 dish: Pinto bean and dried mulato chile stew with lime.
 quote: Art is not what you see, but what you bean others to see.
 seasonalFortune: Lime cuts the long simmer; the mulato keeps its dark edge. A season that thins what was padding and leaves the chile-bitten broth standing where the soft talk used to be.
-fortuneMost: Strike the adjective before the noun in the sentence you're proudest of. The noun will carry it; the adjective was for you.
-fortuneHigh: Cut your favourite sentence. It's flattering you.
-fortuneMid: Decline the graceful exit. Say the plain thing.
-fortuneLow: Let the story wander. The detour is the point.
-fortuneLeast: Pad the message at both ends. The warmth is the ask.
+fortuneMost: Answer the question actually asked, not the padded one, and watch the cushion fall away from the asker's face.
+fortuneMost2: Strike the adjective from the line you're proudest of. The noun carries it alone; the adjective was only ever flattering you.
+fortuneHigh: Cut your favourite sentence. It flatters you, not the work, and the work stands taller the moment it's gone.
+fortuneHigh2: The thing lands harder bare, the way the mulato keeps its dark edge with nothing stirred in to soften it. Let the superlatives go.
+fortuneMid: Decline the graceful exit and say the plain thing, the wrong named outright. No garnish; the bareness is the respect.
+fortuneMid2: An apology with no preamble and no trimming at the edge. Plain is enough.
+fortuneLow: Let the long story wander, ramble and all. The detour is the point, and pruning it would cost the teller more than the tidier version is worth — even as your hand itches for the knife.
+fortuneLow2: Name the strongest image and leave the rest standing. Not everything overripe needs cutting, hard as it is to lower the blade.
+fortuneLeast: Something tender is owed more warmth than truth. Soften the ask at both ends and mean it — the padding will feel like waste to you, and it's exactly the kindness being asked for.
+fortuneLeast2: Some sentiment is meant to be a little overripe, like a fig left to burst over its stem. Tell them it moved you and leave it whole — resisting the cut goes against your grain, and that's the cost of the gift.
 facetMostTitle: Lime First, Always
 facetMost: You answer the question asked, not the one wrapped in cushion, and watch the cushion fall away from the asker's face without flinching.
 facetHighTitle: The Mulato Seed

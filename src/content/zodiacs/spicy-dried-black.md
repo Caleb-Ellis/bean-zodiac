@@ -7,11 +7,16 @@ trait: suppressed
 dish: Mole negro - dried black beans with mulato and pasilla chilies.
 quote: Where there's smoke, there's bean.
 seasonalFortune: A pan of chilies toasted dark and a lid set heavy; what stings the kitchen is folded down into a long, quiet simmer, and the heat travels inward for hours.
-fortuneMost: Crack one window wide. Cracked-an-inch is what cooked you.
-fortuneHigh: Say the loud sentence. Burn the draft after.
-fortuneMid: When asked twice, drop the fine. Answer the second one true.
-fortuneLow: Stop leaning on the door. Use the handle.
-fortuneLeast: Put it down. The ceiling holds without you.
+fortuneMost: The slight landed, the fever's real, and you're refilling their glass anyway. Steadiness like that costs you days later.
+fortuneMost2: A heavy lid on toasted chilies, the heat folded down and travelling inward for hours. That's you, and it's a long simmer.
+fortuneHigh: The calmest voice in a loud room is rarely the calmest person. One true sentence costs less than the whole banked batch.
+fortuneHigh2: A long simmer thickens. It also scorches the bottom of the pot.
+fortuneMid: Asked twice, drop the polite version and answer it true. The second asking is the door opening.
+fortuneMid2: Name the small wrong thing while it's still small, and it never grows into the flat unplaceable mood that follows you home.
+fortuneLow: Say it the minute you see it — out on the walk, at the counter, wherever you are. Plain words feel like exposure; the charge you carry instead is heavier.
+fortuneLow2: Hand someone the unsorted version, knots and all. Less comfortable than the composed one, and truer for it.
+fortuneLeast: Put it down. The ceiling holds without you bracing it, and your shoulders have been up around your ears for hours.
+fortuneLeast2: Not everything was meant to be cooked that low. Let some of it out warm.
 facetMostTitle: Pressed Through a Sieve
 facetMost: You carry a fever to the table and pour water for the room before you sit.
 facetHighTitle: Pasilla Under the Lid

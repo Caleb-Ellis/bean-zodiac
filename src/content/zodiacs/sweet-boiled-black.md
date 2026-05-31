@@ -7,11 +7,16 @@ trait: steadfast
 dish: Frijoles de olla con piloncillo — black beans slow-boiled with raw cane sugar and a cinnamon stick.
 quote: Not all those who wander are beans.
 seasonalFortune: The piloncillo dissolves while the bean keeps its skin. Around such a person, weather changes and rooms change, and the pot goes on simmering.
-fortuneMost: Renew the slow standing thing — the monthly call, the long walk, the friend you've kept since you were eighteen — and tell them, out loud, that you intend to keep it for another twenty years.
-fortuneHigh: Reply to the week-old message before you open the new one, with the same warmth you'd have brought when it landed — late but unembarrassed beats prompt and thin.
-fortuneMid: Move the heavy chair to the other wall before the evening's out, and sit in it long enough to drink one whole cup of tea facing the new direction.
-fortuneLow: The thing you've been faithfully tending has stopped needing you; bless it, set down the spoon, and let the pot cool without apology.
-fortuneLeast: Walk out one of these mornings without the bag, the list, the careful plan — bring only your wallet and a generous mood, and see which of your loyalties were actually requirements.
+fortuneMost: A decade of silence, and you'll greet them in the same voice — no ledger of the missing years. Tell the one you've quietly kept that you mean to keep them.
+fortuneMost2: Somewhere a friendship you've tended without thanks is about to turn and thank you. The cinnamon stick was working the whole time.
+fortuneHigh: Go back to the one you let lapse. Late but warm beats prompt and thin, and you arrive carrying every degree of heat the years should have cooled.
+fortuneHigh2: The slow thing is softening on its own schedule. Don't lift the lid to check — what you're tending comes good in its own hour.
+fortuneMid: Keep what's still warm. The next move can belong to whoever breaks the quiet first — constancy was never a sentence you had to serve alone.
+fortuneMid2: You can be loyal without mounting guard over it. A thing held loosely holds.
+fortuneLow: What you've faithfully tended has stopped needing the tending. Set the spoon down and bless it cooling — though letting it go will feel, at first, like dropping something you swore to carry.
+fortuneLow2: Some loyalties are only habits wearing devotion's face. Loosen your hold on one and see how little it actually costs you — less than the holding did.
+fortuneLeast: The weights you swore you couldn't set down were never the price of staying yourself. Walking out lighter costs you the comfort of the burden, and you'll be glad it's gone.
+fortuneLeast2: Pour this pot early. What you carry on by choosing it outweighs everything you carry by sheer momentum, even if choosing means setting good things down.
 facetMostTitle: The Long Pot, Back Burner
 facetMost: You keep the friendship, the project, the grudge — and tend it past the point others would lift the lid.
 facetHighTitle: Sweetness After the Slow Hour

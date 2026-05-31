@@ -7,11 +7,16 @@ trait: spirited
 dish: Adzuki bean congee with gochugaru and soft-boiled egg.
 quote: You've gotta have bean.
 seasonalFortune: A season of slow simmer under bright pepper. The adzuki holds its color through long heat, and the year asks the same of those who carry it.
-fortuneMost: Show up at full volume — the event you keep underdressing for is the next one on the calendar, hiding inside an ordinary slot.
-fortuneHigh: Pour the good thing into the everyday glass. You've been saving it for a milestone that won't come.
-fortuneMid: Put the song you love on twice in a row. The second play is the one that does the work.
-fortuneLow: Toast something small at dinner — the haircut, the unremarkable weekday, the fact you got there. Out loud, glass raised.
-fortuneLeast: Light one candle for the thing you finished and didn't tell anyone about. It counted.
+fortuneMost: You are the heat under the day. Whatever you walk toward this week warms a few degrees just because you got there.
+fortuneMost2: When someone you love wins something small, make a scene of it. You're the one who turns a shrug into a celebration.
+fortuneHigh: The good bottle you've been saving for a milestone — open it for a plain weekday. That milestone isn't coming, and the weekday is here.
+fortuneHigh2: A stranger is about to catch your enthusiasm like a spark catching dry grass, and follow you somewhere good.
+fortuneMid: Put the song you love on twice — the second play is the one that does the work.
+fortuneMid2: Your roar is dropping to a simmer, and a simmer feeds more people than a flare. Good things cook slow this week.
+fortuneLow: The plain weekday you got through deserves a glass raised — quietly, just for you, no audience required.
+fortuneLow2: Hand someone else's win the spotlight, and feel it warm you back anyway.
+fortuneLeast: One thing you finished and told no one still counted. The quiet of it is yours to keep.
+fortuneLeast2: Bank the fire low for a stretch. It costs you, holding that much heat back — but a banked ember keeps longer, and you'll want it later.
 facetMostTitle: Gochugaru at the Bloom
 facetMost: You walk into the room and it reorders; nobody is unsure you've arrived.
 facetHighTitle: The Pot Before the Recipe

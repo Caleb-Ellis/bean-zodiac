@@ -7,11 +7,16 @@ trait: observant
 dish: Shio koji edamame - edamame marinated in fermented rice koji with salt and yuzu.
 quote: The world is full of obvious things which no bean by any chance ever observes.
 seasonalFortune: Koji works in the dark for weeks before flavor declares itself. The season belongs to the slow accumulators — those who file what they see and wait.
-fortuneMost: Note three things nobody else clocked, on paper, before the day's noise drowns them. The third one is the one you need; the first two were practice.
-fortuneHigh: The quiet one at the meeting has the answer. Ask them by name and wait through the pause.
-fortuneMid: Mention the small change before anyone confirms it's a change. Being early is the entire move.
-fortuneLow: Skim, don't read. The point arrives at the bottom of the page either way.
-fortuneLeast: Close the tab. Whatever it held has already passed through you.
+fortuneMost: Who came in together, who isn't speaking, which small thing is off — you've read the whole place before you sit.
+fortuneMost2: You filed it long before anyone else looked up, and now it's ripened into something usually correct. Keep gathering what passes the rest of them by.
+fortuneHigh: The quietest one on the street corner is holding the thing worth hearing. Notice them, ask, wait out the pause.
+fortuneHigh2: You've already clocked the tells nobody else registered. Let one out loud — the seeing helps no one in the private file.
+fortuneMid: You catch the off note before anyone will admit it's there, and then you keep it. Being first to see it only counts said.
+fortuneMid2: Your ear catches the brine settling, the half-step shift, the thing about to change. Don't bank every reading; let the one that matters out.
+fortuneLow: Let a detail slide past uncatalogued. The moment asked less of you than the pen in your hand thinks.
+fortuneLow2: Move when the moment moves and don't reread the page you just turned. The point arrives whether or not you watched for it.
+fortuneLeast: An omen for the half-closed eye this turn — what you let go by unwatched has already passed through you whole. Some part of you will reach for the pen anyway; you're none the poorer.
+fortuneLeast2: The unread stack climbs and you scroll past it without a flinch. Not needing to register every single thing is its own freedom.
 facetMostTitle: The Hidden Grain
 facetMost: You catalogue the room before sitting — every chair angle, every coat on every hook.
 facetHighTitle: Yuzu Before It Bites

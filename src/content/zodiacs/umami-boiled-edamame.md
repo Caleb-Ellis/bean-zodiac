@@ -7,11 +7,16 @@ trait: dedicated
 dish: Dashi-ni - edamame simmered in dashi, soy, and mirin.
 quote: The price of bean excellence is dedication.
 seasonalFortune: A season that rewards the long simmer. Mirin and soy take their hours; nothing finished here arrived in a hurry.
-fortuneMost: Same chair, same hour, thirty more minutes. This is the session that closes it; don't be elsewhere.
-fortuneHigh: The tiny habit you've kept for years matters more than the quarterly plan. Water the plant on its day and skip the meeting if you must.
-fortuneMid: Answer the message from earlier in the week before you open anything new. The new one has waited a day; the older one has waited longer than is kind.
-fortuneLow: The vow was made by someone who no longer lives at this address. Quietly release yourself; nobody is keeping score.
-fortuneLeast: End the standing commitment, this week. The hour you reclaim is what the next chapter is asking for, quietly, in the background.
+fortuneMost: Same chair, same hour, a little longer than yesterday. That's the whole secret.
+fortuneMost2: The long thing you've quietly returned to for years is about to give you what it withheld. It always pays the ones who stay.
+fortuneHigh: A small habit held for years outweighs the grand plan you keep meaning to start.
+fortuneHigh2: The pan scoured the way you've always scoured it is its own kind of devotion. Keep the ritual that's only yours.
+fortuneMid: Finish what's been waiting longest before starting anything new. The old thing has waited longer than is kind.
+fortuneMid2: Gone a bit thin, but thin isn't gone. Drop the pace, keep the thread, see how it feels with less weight on it.
+fortuneLow: A vow made by someone you no longer are can be set down. Walk away quietly — though the habit of keeping it will tug long after the reason has gone.
+fortuneLow2: Close a thing mid-sentence and open another. Not everything has to be finished to be allowed to end — even if leaving it unfinished sits wrong in you for a while.
+fortuneLeast: End the commitment that's outlived itself. The hour it frees is what the next thing has been quietly asking for, even as part of you mourns the burner going cold.
+fortuneLeast2: Turning the heat off doesn't make you a quitter. Leave the standing Sunday — you'll walk lighter, once the guilt of lightness wears off.
 facetMostTitle: What Dashi Withholds
 facetMost: You return to the same project on the same night for years, and the room knows your footsteps.
 facetHighTitle: Soy Into the Pod

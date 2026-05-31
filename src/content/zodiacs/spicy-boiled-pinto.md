@@ -7,11 +7,16 @@ trait: moody
 dish: Frijoles de olla - pinto beans simmered with chile de árbol.
 quote: I am not moody — I am a bean with feelings.
 seasonalFortune: Their season runs hot then quiet, the pot never the same twice. A chile lifts the broth at noon; by evening it has gone inward, dark and brooding.
-fortuneMost: Name your weather out loud at breakfast — one word, no editorial. The people around you have been guessing all week.
-fortuneHigh: Draft the hot reply. Do not send it for an hour. The one-hour version is the one that gets you what you want.
-fortuneMid: Change dinner mid-cook. The recipe you started is not the meal you need; switch pans and don't apologise.
-fortuneLow: Text the close person what's actually going on in one sentence. They lost the thread a while back and have been politely guessing ever since.
-fortuneLeast: Leave the long table for fifteen minutes. Stand outside. Come back. No one needs the performance of the whole evening.
+fortuneMost: You feel the weather two rooms off, before anyone else has shivered. Name it early — that warning is a thing only you can give.
+fortuneMost2: Say your weather out loud, one word, no editorial. The people near you have been guessing a while, and they'd rather know.
+fortuneHigh: The chile's blooming in your chest before you've even answered. The heat is real but it isn't the whole of you — let it settle, then speak.
+fortuneHigh2: A mood you let cool instead of casting out turns into exactly the right words later. The waiting version of you is the one that gets what you want.
+fortuneMid: Change the meal mid-cook. The recipe you started isn't the one you need — switch pans, no apology owed.
+fortuneMid2: Taste it and begin again if it's wrong — more chile, less salt, a different dinner entirely. Following the shift is allowed.
+fortuneLow: The close one lost the thread a while back and has been guessing politely. Give them one plain sentence about what's actually going on — the exposure is the price, and a fair one.
+fortuneLow2: A wave of heat finds you and you keep stirring, letting it roll past unacted-on. Holding still through it asks something of you, but the pot's better for it.
+fortuneLeast: Step off into the night air for a few minutes, then come back. No one needs you to carry the whole evening — though stepping away will feel like dropping it.
+fortuneLeast2: Sometimes the sting you read in was never sent. Take the words at face value and answer the plain thing underneath — even when the chile in you swears otherwise.
 facetMostTitle: Storm Before the Wind
 facetMost: You feel weather two rooms away and name it before anyone else has shivered.
 facetHighTitle: The Kettle's Slow Tick

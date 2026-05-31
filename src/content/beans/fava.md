@@ -3,6 +3,7 @@ slug: fava
 name: Fava Bean
 tagline: The risk is the point.
 traits: [courageous, bold, daring, pioneering, reckless]
+toneOfVoice: Bold and headlong; speaks first, dares the room to follow.
 imageFile: fava.webp
 ---
 

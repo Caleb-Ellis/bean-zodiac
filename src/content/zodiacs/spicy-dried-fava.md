@@ -7,11 +7,16 @@ trait: audacious
 dish: Bessara - Moroccan dried fava bean dip with cumin and chili oil.
 quote: Fortune favors the bean.
 seasonalFortune: A year that cures hard and serves hot. The dried bean keeps its shape until the chili oil hits, and then a household built on small dares finds the heat it was waiting on.
-fortuneMost: Start talking on the way in. Finish the sentence after.
-fortuneHigh: Take the floor. Step off early.
-fortuneMid: Start the half-plan with the phone number. Waiting for the planning meeting is a coward's draft of the same call.
-fortuneLow: That door is locked. Slow down and you'd see the open one.
-fortuneLeast: Sleep on it. The morning version is the same plan with the back half drawn in.
+fortuneMost: Book the cabin mid-conversation and send everyone the address after. Just remember who's feeding the cat for three days.
+fortuneMost2: On the highway before the rest have answered. Go — the back half sorts itself somewhere past the second exit.
+fortuneHigh: Say yes and figure out the rest on the road. You've made harder leaps land.
+fortuneHigh2: The year cures hard and serves hot, and the heat your household's been waiting on is about to hit the oil.
+fortuneMid: Move on the half-formed plan instead of holding out for the full one. Waiting for the perfect version is the same leap, only slower.
+fortuneMid2: A door you've been eyeing swings open of its own accord. Walk through it before you've finished talking yourself into it.
+fortuneLow: That door's locked, and the leap won't open it. Slowing down enough to spot the open one costs you nothing but a held breath.
+fortuneLow2: Walk the ground twice before you commit. The bold version isn't always the right one here, much as your feet want to be moving.
+fortuneLeast: Sleep on it. The morning version is the same plan with the back half drawn in — and the night's wait won't cool the fire.
+fortuneLeast2: Let the small thing sit a day before you answer. Drafting it twice and sending the calmer one feels like losing your nerve; it isn't.
 facetMostTitle: Chili Oil Before the Seat
 facetMost: You enter a room speaking, and the introductions catch up later.
 facetHighTitle: Rough Draft Across the Table

@@ -3,6 +3,7 @@ slug: spicy
 name: Spicy
 tagline: The Flavour that cannot be ignored.
 traits: [bold, transformative, immediate, intense, overwhelming]
+toneOfVoice: Tints the voice intense and immediate — impossible to tune out.
 ---
 
 Spicy is not one flavour but many — the bright hit of fresh chilli, the slow build of black pepper, the nasal flare of wasabi, the lingering warmth of ginger — but all share the same quality: they demand your full attention. Now. You cannot eat something spicy while distracted. Spicy Phases have this same commanding, undeniable presence.

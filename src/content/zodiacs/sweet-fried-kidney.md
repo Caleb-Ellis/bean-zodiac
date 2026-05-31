@@ -7,11 +7,16 @@ trait: protective
 dish: Hotteok with red bean — Korean street pancakes fried until blistered, filled with sweetened kidney bean paste and brown sugar.
 quote: We must protect the beans at all cost!
 seasonalFortune: A season for blistered surfaces and sweet interiors; what the pan darkens, it also seals, and the soft hearts inside go unbothered by the fire.
-fortuneMost: Drive them to the appointment. Don't ask, just offer the time slot. The lift is the love letter.
-fortuneHigh: Make the call they've been dreading on their behalf. Two minutes for you, a week's relief for them.
-fortuneMid: Cook double. Drop half on a doorstep, no card, knock once and leave; the not-naming is the gentler half of the gift.
-fortuneLow: They said they've got it. Take your hands off the wheel. They can drive; you've been steering for both.
-fortuneLeast: Stop fixing it. Sit beside them in the trouble without solving it. That's the harder kind of love.
+fortuneMost: Offer the lift before they ask, time already picked. The driving is the love letter; you just don't call it that.
+fortuneMost2: What the pan darkens it also seals — and that's you this week, taking the blistering so the soft heart behind you goes unbothered by the fire.
+fortuneHigh: Make the call they've been dreading, on their behalf. Two minutes from you buys them a week of relief.
+fortuneHigh2: Step the half-pace forward when someone crowds the one smaller than you. You'll have done it before you decided to.
+fortuneMid: Cook double, leave half on a doorstep, one knock, gone. The not-naming is the gentler half of the gift.
+fortuneMid2: The spare key lives where your hand finds it without looking. Quiet readiness is its own shelter.
+fortuneLow: They said they've got it. Take your hands off the wheel, even as your foot still hunts for the brake.
+fortuneLow2: Ask what they want before you offer anything. The care can be in waiting for the ask.
+fortuneLeast: Stop fixing it. Sit beside them in the trouble and solve nothing; it'll feel like doing nothing at all.
+fortuneLeast2: When they insist, hand the heavy bag back without comment. Letting someone carry their own is also protecting them.
 facetMostTitle: Molten Sugar, Crust Around It
 facetMost: On the sidewalk you step a half-pace forward when a stranger speaks too close to someone smaller than you.
 facetHighTitle: Edges Crisp First

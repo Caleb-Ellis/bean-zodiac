@@ -7,11 +7,16 @@ trait: hallowed
 dish: Smoked adzuki with dashi broth, ginger, and black sesame.
 quote: We hold these beans to be self-evident.
 seasonalFortune: A season for steeping. Dashi pulls slow from the bone, and the hours around this bean carry the gravity of something not to be hurried — small rites kept whole.
-fortuneMost: Set a place at the table for someone who isn't coming. By dessert you'll understand who it was for.
-fortuneHigh: Say the full name — middle, surname, the version on the certificate. Something in the air recalibrates.
-fortuneMid: Between 3 and 4pm, a stranger will hand you a small correct sentence. Write it down.
-fortuneLow: An object is circulating as if it's ordinary. It isn't. Take it home before someone spills coffee on it.
-fortuneLeast: Hand it over without the speech. The thing carries the ceremony; you were just the courier.
+fortuneMost: In your hands a weekday supper becomes an inheritance, and the table goes quiet on its own.
+fortuneMost2: The dashi takes its hours and so do you. A small joy is coming that deserves to be steeped, not swallowed.
+fortuneHigh: Use the whole name, the carved one. The nickname was never going to hold all of it.
+fortuneHigh2: Something will be handed to you that wants both hands and a held breath. You'll know it by the weight.
+fortuneMid: One drawer for what nothing ordinary may touch — a ribbon, a ticket stub, the proof a day was good.
+fortuneMid2: A plain stone, kept long enough, becomes a relic.
+fortuneLow: The candle and the speech can wait; some gifts arrive already carrying their own smoke.
+fortuneLow2: Mark it with one held glance instead of the full rite. It'll feel like too little, and it will be enough.
+fortuneLeast: Hand it over and keep walking — you were only the courier, though the unheard thanks sits oddly in you.
+fortuneLeast2: A good omen comes plain this time — no lamp, no toast, just luck slid across the counter for you to grab on your way past.
 facetMostTitle: Sesame, Ground at the Table
 facetMost: You set the hour apart before anyone arrives, lighting the lamp the room didn't know it needed.
 facetHighTitle: Ginger Laid Like a Relic

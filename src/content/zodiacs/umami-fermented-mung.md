@@ -7,11 +7,16 @@ trait: poetic
 dish: Doenjang juk - savory mung bean porridge with fermented soybean paste and sesame oil.
 quote: A bean should be more careful of his learning than of the pebble in his shoe.
 seasonalFortune: The crock keeps its dark counsel; salt slows the bean into speech. A season for slow language, for what thickens beneath the lid before it is ladled.
-fortuneMost: Copy a line of someone else's writing onto a card and leave it where a tired person will find it. Don't sign it.
-fortuneHigh: Translate the bad news into one short sentence with one warm word in it. That word is the medicine.
-fortuneMid: Bring a single flower to a meeting that didn't ask for one. Put it on the table; say nothing about it.
-fortuneLow: Text "thinking of you" with no follow-up. The follow-up was for you, not them.
-fortuneLeast: Drink the water. Eat the toast. The poem is fine without you for an evening; the music can wait while the body is fed.
+fortuneMost: The line you write this turn is the one someone keeps in a drawer for years.
+fortuneMost2: Phrases everyone else walked past keep collecting in you. Set them down where a tired person will find them; the music you make of plain things is the whole gift.
+fortuneHigh: When the news is hard, the one short sentence with one warm word in it is the medicine. You've always known exactly where to put that word.
+fortuneHigh2: You'll rework the three-line message until the rhythm sits, because cadence carries as much weight as the news. Don't leave the friend out in the rain while you do.
+fortuneMid: While the phrase gets worked into its final shape, the plain thing that needed saying stands waiting. Send the rough warm version; the meaning lands without the polish.
+fortuneMid2: You'll rearrange a whole shelf until the objects rhyme. Lovely — but let one message go out unshaped, so the beauty doesn't cost the timing.
+fortuneLow: Say it as it comes — "thinking of you," nothing added — and it still arrives whole. The flourish was for you, not them.
+fortuneLow2: Eat the porridge while it's hot and don't pause to name the warmth. Some moments are for living through, not composing.
+fortuneLeast: A gentle sign this turn to put the body first — water, food, sleep, in that plain order. The poem will call; it keeps fine without you for one evening.
+fortuneLeast2: Handle the dull thing the day it lands, filed plain, no flourish in the margin. Not everything has to be made beautiful to be done right.
 facetMostTitle: Steam Off the Porridge
 facetMost: You move through rooms gathering small phrases nobody else logged.
 facetHighTitle: Oil Dark on the Surface

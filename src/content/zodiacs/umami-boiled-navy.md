@@ -7,11 +7,16 @@ trait: pedantic
 dish: Senate bean soup - navy bean with ham hock, celery, and onion.
 quote: The bean is in the details.
 seasonalFortune: A season in which the hock gives up its salt slowly, and the small corrections — a leaf pulled, a skin lifted — set the shape of the pot.
-fortuneMost: Send the correction. The one reader who'll thank you is the only audience you were writing for anyway.
-fortuneHigh: You'll find a typo in the printed program. Mention it quietly to one person by the coffee — never in an email, never to the group.
-fortuneMid: Three small wrongnesses are nagging you. Fix one before sitting down; let the other two live. The fix-budget is a real budget.
-fortuneLow: You're right about the fix and right that nobody else will care. Leave it crooked; pour a drink instead.
-fortuneLeast: Walk to the far end of the kitchen and look back at what you've been straightening. The whole has been holding up fine without the polish.
+fortuneMost: Make the correction. The one person who'll thank you for getting it exactly right is the audience you were doing it for.
+fortuneMost2: A small thing you set precisely true is about to matter to someone who'll never know it was you. The seam holds because you found it.
+fortuneHigh: Spot the small wrong thing and mention it quietly, to one person, not the whole room. The fix can stay discreet.
+fortuneHigh2: The crooked frame in someone else's house, straightened before you sit. Do it lightly, then let the visit just be the visit.
+fortuneMid: Three small wrongnesses are nagging at you. Fix one, let the other two live — the fix-budget is a real budget.
+fortuneMid2: Halfway through one thing, the pull to go reorder another. Finish what's in front of you; the tidying keeps.
+fortuneLow: Right about the fix, and right that no one else will care. Leave it crooked and spend the hour on something better, even as the unfixed edge pricks at you.
+fortuneLow2: Sign it without combing the middle paragraph. The day runs fine on the parts you didn't audit — though not auditing them will feel like walking past an open drawer.
+fortuneLeast: Cross to the far side of the room and look back at what you've been straightening. The whole held up without the polish, and the polish was for you.
+fortuneLeast2: Answer things in the order they catch your eye for once. Nothing suffers from the missing system, even if the disorder hums at you all day.
 facetMostTitle: The Seam, Not the Side
 facetMost: You reread the message you already sent, find the misplaced comma, send the correction.
 facetHighTitle: Celery Finer Than Asked

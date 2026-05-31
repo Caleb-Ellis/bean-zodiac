@@ -7,11 +7,16 @@ trait: eerie
 dish: Smoked green bean with bitter elderflower and char.
 quote: Something is rotten in the bean of Denmark.
 seasonalFortune: A season threaded with elderflower and ash. The smoked green bean keeps its snap in rooms where the source of the smell cannot be named.
-fortuneMost: Arrive an hour early to the next thing and sit on the steps. The gathering will rearrange around your having-already-been-there and call it luck.
-fortuneHigh: The before-dawn hunch was right. Send the message before you brew coffee — caffeine will only let you re-edit it worse.
-fortuneMid: Write the thing you're sprinting toward on a sticky note, even if it's just for the mirror. Unnamed urgency is just anxiety with better posture.
-fortuneLow: Let the kettle boil all the way through and pour the tea. The fire alarm in your chest belongs to a flat you've already moved out of.
-fortuneLeast: Use the front door, ring the bell, give your real name. The side-entrance bit has turned a five-minute errand into a play.
+fortuneMost: You'll already be there when the thing arrives, and the day will rearrange itself around you and call it luck. Let them call it that. You knew.
+fortuneMost2: A friend's voice hasn't gone thin yet, but you can feel it coming. Reach out before they ask — being early to it is the whole gift, reason or none.
+fortuneHigh: A hunch lands clean and right, no explanation behind it. Move on it while it's fresh, before the second-guessing files the edges off.
+fortuneHigh2: Settle the small thing you sense you owe before anyone gets around to naming it. You felt the debt; you don't need it confirmed to make it good.
+fortuneMid: Name what you're running toward, even if only to yourself. Unnamed urgency is just dread with better posture — give it a return address and it can finally help.
+fortuneMid2: The certainty's real, but with no reason attached it lands as pure alarm. Say the why out loud and the hunch can move someone instead of spooking them.
+fortuneLow: The alarm in your chest belongs to a thing you already walked away from. Not every hush hides a fire. A quiet evening can stay quiet, itch as the unchecked one does.
+fortuneLow2: You're reading a sign into something that's only itself. A still night can just be a still night — take it plainly, gut's protest and all.
+fortuneLeast: Walk up, ring the bell, give your real name. No uncanny detour, no errand turned into a play nobody asked to watch. The ordinary way, even when it's dull.
+fortuneLeast2: A clean night's sleep, and you wake hungry, certain the kettle is only a kettle. There's a deep rest in a world that means just what it says.
 facetMostTitle: Smoke Under the Door
 facetMost: You pay debts no one has named yet — the small ones, ahead of the asking.
 facetHighTitle: Elderflower, Still Steeping

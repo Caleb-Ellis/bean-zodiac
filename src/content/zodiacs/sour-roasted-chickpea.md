@@ -7,11 +7,16 @@ trait: open-minded
 dish: Fatteh - toasted flatbread layered with roasted chickpeas, yogurt, and pomegranate molasses
 quote: The bean mind is like a parachute — it only works when open.
 seasonalFortune: A season when the flatbread softens under what is poured over it. Old certainties go pleasantly soggy; the household acquires unfamiliar guests, unfamiliar molasses.
-fortuneMost: That objection from earlier in the week was the better argument. Promote it to the top of the doc and rewrite around it.
-fortuneHigh: Two sharp notes in a row aren't bad luck — they're a pattern. Rip up the spine, not the trim.
-fortuneMid: Pin the meanest critique to the fridge and live with it for an afternoon. Reply after a night's sleep, not while the sting is fresh.
-fortuneLow: You've polled five people about a question you answered correctly the first time. Go with the first answer; the polling has been the procrastination.
-fortuneLeast: Hold the position. The next argument is not better, just newer.
+fortuneMost: The objection you meant to dismiss turns out to be the stronger argument — that's the luck of your turn. Build around it.
+fortuneMost2: The loudest dissenter's certainty is your raw material, the way pomegranate molasses pours flavour over plain bread. Pull them closer and ask for the whole case.
+fortuneHigh: Two sharp notes in a row aren't bad luck. They're a pattern, and they're pointing at the spine, not the trim.
+fortuneHigh2: A good objection lands against the heart of something you made. Let it remake the heart, not just the edges.
+fortuneMid: Pin the harshest critique where you'll keep meeting it, and answer once it's stopped stinging — not before.
+fortuneMid2: Hold the case against your position open a while longer. Read it once more before anything gets settled.
+fortuneLow: You've worked the answer out well; trust it before you ask a fifth person. Closing the question feels like shutting a door, but the extra asking was only delay wearing a kind face.
+fortuneLow2: No room needs remaking to be welcoming. The chair can stay where it sits, even if leaving it goes against your grain.
+fortuneLeast: The next argument isn't better — only newer. Hold the position you reasoned your way to, even as its arrival unsettles you.
+fortuneLeast2: When every suggestion soaks into you and shifts you, plant your feet. It costs you the open feeling you trust, but the route you chose was a real route, walked on purpose.
 facetMostTitle: Pomegranate Thinned by Yogurt
 facetMost: At the table you pull the loudest dissenter closer and ask them to keep going.
 facetHighTitle: Splitting Along a New Seam

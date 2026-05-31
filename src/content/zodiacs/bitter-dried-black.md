@@ -7,11 +7,16 @@ trait: laconic
 dish: Black bean soup with ancho chile and dark chocolate.
 quote: Speech is silver; bean is golden.
 seasonalFortune: The jar of dried beans waits out the year. Around such a person, weather settles; what wants to keep, keeps, and the rest evaporates without comment.
-fortuneMost: Send the one-line reply. The paragraph is for you, not them.
-fortuneHigh: Delete the greeting and the sign-off. What's left is the email.
-fortuneMid: Don't fill the silence in the meeting. Someone with worse instincts will, and you'll learn something.
-fortuneLow: Say the sentence you keep editing down to nothing. Uncut.
-fortuneLeast: Pick one thing to be quiet about this week. Anything. Practice.
+fortuneMost: One word, the right one, and the noise settles around it like a soup gone still. It will carry.
+fortuneMost2: A good sign for you keeps its mouth shut — what wants to stay, stays, and the rest cooks off. Yours is doing exactly that.
+fortuneHigh: The argument burns down to coals. You lay one flat sentence across it, and it holds.
+fortuneHigh2: You wait out the weather and speak when it turns, and the timing lands harder than any flood of words could.
+fortuneMid: No need to rush into the gap. Someone with worse instincts will fill it, and you'll learn something watching.
+fortuneMid2: The "I'd like that too" feels too plain to say. It isn't — they're standing there waiting to hear it.
+fortuneLow: Say the sentence you keep boiling down to nothing. Uncut, even if it feels like too much heat.
+fortuneLow2: Give them the why, not just the verdict. The reasoning is the warm part, though handing it over costs you something.
+fortuneLeast: Talk the whole thing through aloud, even the parts you'd keep back. Letting someone into the working will feel like overcooking it; do it anyway.
+fortuneLeast2: Walk them slowly through all of it, the way you never do. They'll feel met, even as the long telling rubs you wrong.
 facetMostTitle: Ancho on the String
 facetMost: A long question arrives; you answer with a word, and the word is the right word, and the question goes quiet.
 facetHighTitle: The Chocolate Seam

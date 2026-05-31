@@ -7,11 +7,16 @@ trait: unguarded
 dish: Sakkarai pongal - sweet mung dal and rice pudding with smoked ghee, jaggery, and cardamom.
 quote: Speak what we bean, not what we ought to say.
 seasonalFortune: A season the smoke moves through and out of, leaving rice softer than it found it. Rooms warm without anyone tracing the source.
-fortuneMost: Bring tea to the person who's been pretending they're fine. Don't ask any questions; let the cup ask them.
-fortuneHigh: Send the check-in text to the friend who never sends one back. Healing isn't keeping score.
-fortuneMid: When they ask how you are, say the true answer. The care has to flow both directions or the pipe rusts.
-fortuneLow: Take the afternoon off and tell no one why. You can't make pudding from a scorched pot.
-fortuneLeast: Charge for the thing you've been giving away. Sweetness without a rim becomes a puddle.
+fortuneMost: The true thing you've been polishing into something safer wants out plain. Don't dress it — and watch a stranger get off the train carrying it lighter for you.
+fortuneMost2: Someone leaves a conversation with you slightly altered, having said the true thing for the first time in months. That's the wall down doing its best work.
+fortuneHigh: Reach for the friend who never reaches first. The message costs you nothing you'll miss.
+fortuneHigh2: Be easy to find — say where you'll be and be there. People settle around the one who isn't hiding the inside life.
+fortuneMid: Asked how you are, give the honest summary, not the glossed one. The care has to run both ways or it rusts.
+fortuneMid2: Tell the friend what's actually wrong, undressed. The plain version is the one that lets them reach you.
+fortuneLow: Let the question pass and keep the afternoon for yourself. Some weather in you wants longer to settle before it speaks, and the holding-in will feel unnatural — which is fine.
+fortuneLow2: Give the close friend the truth before the stranger on the train gets it. Not every room has earned the inside of you, however much you'd rather hand it freely.
+fortuneLeast: Put a rim on the sweetness you keep pouring out. Given with no edge it just spreads into a puddle, even though charging for it will feel against your nature.
+fortuneLeast2: Guard the inside life when it needs guarding; let the world see the rim and not the pudding. The clamped lid sits heavy on you, but some weeks it's the right weight to carry.
 facetMostTitle: Ghee Thinned to Gold
 facetMost: On a long train you tell a stranger the thing you have not told your closest friend, and the stranger gets off at her stop carrying it for you.
 facetHighTitle: Cardamom Before the Pot

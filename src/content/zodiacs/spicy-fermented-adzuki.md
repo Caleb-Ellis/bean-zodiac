@@ -7,11 +7,16 @@ trait: provocative
 dish: Adzuki doenjang jjigae - Korean fermented soybean paste stew with gochugaru and tofu.
 quote: Every act of creation is first an act of bean destruction.
 seasonalFortune: A crock that has waited all winter begins to push against its weight. The season belongs to those whose long-kept things are ready to enter rooms.
-fortuneMost: Drop the sentence sideways at dinner — not the speech, the half-sentence that doesn't quite track. Then eat.
-fortuneHigh: The kinder phrasing is the cowardly one. Send the version that flinched you.
-fortuneMid: Ask the question that's the wrong shape for the meeting. The person who answers it crooked is your collaborator.
-fortuneLow: You lit a small fire two days ago and keep going back to fan it. Let the coals work.
-fortuneLeast: There's a quarrel in the next thread with your name almost on it. Misspell it on purpose and walk past.
+fortuneMost: The crooked thing you've been fermenting in the dark is ready. Tip it in offhand and watch the table tilt toward it.
+fortuneMost2: Drop the half-sentence and walk to the window. By the time they've untangled it, you'll be thinking about the next one.
+fortuneHigh: The gentler version flinches; the true one stings going down. You already know which you'd rather hand over.
+fortuneHigh2: A jar sealed too long is about to hiss. Stand close — the air clears in your favour.
+fortuneMid: Bring the sour on purpose. The dish needs it, and so does the company.
+fortuneMid2: An old quarrel circles back like weather off the hills. You're the gust that moves the stale air.
+fortuneLow: Some coals finish the stew untended. Step back, even though your fingers will itch toward the spoon.
+fortuneLow2: Not every quiet wants disturbing. Leaving the lid on costs you the fun — the calm is worth more than the fun.
+fortuneLeast: Take the heat out and hand back something milder. It feels like losing; it lands as trust.
+fortuneLeast2: Be like tofu in broth, soft against your own grain. The room exhales, and that exhale is for you.
 facetMostTitle: Still Bubbling at the Door
 facetMost: You enter conversations you weren't in and leave them unable to resume the old shape.
 facetHighTitle: Doenjang Cracked Open
@@ -28,11 +33,11 @@ answerHigh: name the thing nobody wants named, gently
 answerMid: ask one honest question and see what surfaces
 answerLow: send the kind reply that lets it stay shut
 answerLeast: change the subject to something soft
-rorschachMost: a rock dropped into water, mid-splash
-rorschachHigh: a fist that has just struck a wall
-rorschachMid: a squid drifting with one trailing arm
-rorschachLow: a cat curled with its tail wrapped round
-rorschachLeast: a soft loaf resting on the board
+rorschachMost: a vase thrown against a wall
+rorschachHigh: a snake emerging from grass
+rorschachMid: a squid drifting with two trailing arms
+rorschachLow: two cats curled next to one another
+rorschachLeast: a butterfly resting gently
 ---
 
 Kimchi Adzuki Beans are the Bean Zodiac's most provocative — the ones who slide a strange sentence into a settled room and watch the furniture move. They've been turning it over in the dark for days; by the time it lands at dinner it sounds offhand, even mild, and only later does anyone realise the conversation took a corner.

@@ -7,11 +7,16 @@ trait: outspoken
 dish: Sweet harissa roasted fava beans — dried favas roasted with harissa paste and honey until blistered and crackling.
 quote: If you have an important bean to make, don't try to be subtle or clever. Use a pile driver.
 seasonalFortune: A season of blistered skins and honey pooled in the cracks. The kitchen runs warm and uncovered; what is meant gets said before the pan cools.
-fortuneMost: Say the brave generous thing first, out loud, with cake on the table. Cake reframes brave as celebration.
-fortuneHigh: Tell them the compliment you've been thinking for six months. Use full sentences; no "btw" energy.
-fortuneMid: Bring up the hard topic over breakfast, not wine. Toast is on your side.
-fortuneLow: Bring the apology and bring scones. Don't let the scones do the talking but bring them anyway.
-fortuneLeast: Listen for ten minutes before you say anything. Then say one warm sentence and stop.
+fortuneMost: Begin the hard sentence first and let everyone else arrive into the heat you started. You're built to say the meant thing out loud.
+fortuneMost2: The crack comes before the flavour with you. Say plainly which parts you disagree with, and let the talk do what it does.
+fortuneHigh: A compliment you've sat on for months — say it straight, full sentences, no "btw." The warm thing splits open better than it keeps.
+fortuneHigh2: You name what nobody else will and a held breath finally goes out. The relief was always the plainness, never the rudeness.
+fortuneMid: Raise the hard topic early, while everyone's still clear, before the evening goes soft. No perfect moment is coming — start it.
+fortuneMid2: Agree with the bits that hold, let the rest pass. Not every weak premise needs your thumb on it.
+fortuneLow: Draft it sharp, taste it cold, send only what survives the night. Honey in the fracture isn't silence — though waiting will feel like swallowing it.
+fortuneLow2: Ask the question instead of stating the disagreement, and let them walk it back themselves. The clear thing can arrive sideways.
+fortuneLeast: Listen a long while. Then one warm sentence, and stop. Going quiet with so much loaded costs you — let the pan stay full and unsaid anyway.
+fortuneLeast2: The wrong order, the small correction, the gripe nobody asked for. Let one go. Walk out lighter than the table you didn't fix.
 facetMostTitle: Crackle Before Flavour
 facetMost: You begin the hard sentence first, and let the others arrive into the heat you started.
 facetHighTitle: Skin Splitting Under Heat

@@ -7,11 +7,16 @@ trait: irreverent
 dish: Taquitos - pinto beans with bitter lime crema and hot sauce.
 quote: Irreverence is the champion of liberty and its only sure bean.
 seasonalFortune: A season that rewards the unimpressed. Crisp shells split easy under heat, and what was passing for structure shows itself as folded paper. The lime crema cools nothing that wasn't already overdressed.
-fortuneMost: Fire the one-liner into the group chat. The earnest paragraph above it was begging for it.
-fortuneHigh: Name the thing nobody's naming, in the first ten minutes. The meeting collapses to twenty.
-fortuneMid: Laugh in the wrong second on purpose. The room needed permission and you're the volunteer.
-fortuneLow: Sign the card. Read it first. Ceremony isn't the enemy; it's the bowl the meal sits in.
-fortuneLeast: That's a soft spot, not a costume. Pin down. Walk past.
+fortuneMost: What's passing for structure is folded paper, and you can see the crease. Raise your glass with the line that splits the shell.
+fortuneMost2: Pretension dressed up as importance, asking to be punctured. The puncture is a public service, and it's the kind you do best.
+fortuneHigh: Name the thing nobody will, early, and the bloated hour buckles to twenty honest minutes. That clean cut is yours.
+fortuneHigh2: A small absurd thing is folded under the solemn moment. Saying it aloud is how a crowd remembers to breathe.
+fortuneMid: A laugh in the wrong second, on purpose. Everyone wanted permission; you're the one who'll volunteer it.
+fortuneMid2: The apology comes over-rehearsed and the laugh slips out before you mean it — and the whole stiff thing recalibrates around the sound.
+fortuneLow: Ceremony isn't the enemy. It's the bowl the meal sits in. Read the card all the way through before you sign it; it pinches, and it's the kinder pass.
+fortuneLow2: Not everything earnest is asking to be deflated. Take the sincere thing at face value, awkward parts and all, and leave the soft target un-popped.
+fortuneLeast: That's a soft spot, not a costume. Hold the funniest line you had in your teeth and walk past. The restraint costs you, and it's the right one.
+fortuneLeast2: Some things run cleaner when you let them stand — the anthem, the thank-you, the kept forms. The straight face is worth keeping.
 facetMostTitle: Hot Sauce, Group Chat
 facetMost: At the dinner the speeches run long; you raise your glass between two of them with a line that ends both, and the toastmaster sits down laughing.
 facetHighTitle: The Agenda, Under the Fork

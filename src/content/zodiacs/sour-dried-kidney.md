@@ -7,11 +7,16 @@ trait: fierce
 dish: Rajma - kidney beans with dried Kashmiri chiles and tamarind.
 quote: This isn't even my final bean!
 seasonalFortune: A season that dries the pod down to its hardest seed. Tamarind keeps its pucker through the long shelf; the chile holds its sting unsoftened by the year.
-fortuneMost: Serve it full strength. Anyone asking for milder can leave.
-fortuneHigh: Don't reply to the warm message from the cold person. The thaw is on their schedule and the schedule is not yours.
-fortuneMid: Make the call you've been carrying for a week. Now, before you find a tenth reason to carry it for another.
-fortuneLow: Not your fight. Run it out where no one can see.
-fortuneLeast: Set it down. What comes next needs both fists; this one wasn't worth the second.
+fortuneMost: Kashmiri red, ground fine, served full strength. Anyone who needs it gentler can ask — and you're allowed to say no.
+fortuneMost2: The third time the slight comes round, stop nodding and name it back across the table.
+fortuneHigh: A warm word from someone who went cold can wait. The thaw runs on their clock, not yours, and no reply is owed on demand.
+fortuneHigh2: Hold the line. A room gone quiet around the wrong is not an apology, and the forgiveness it's fishing for isn't owed.
+fortuneMid: Make the call you've been carrying before you invent a tenth reason to carry it further. The chile loses nothing by being used.
+fortuneMid2: The wrong charge isn't yours to swallow. Phone back, wait it out, stand on the thing, quietly fierce until it's put right.
+fortuneLow: Not your fight this time. Run it out on a hard road where no one's watching and let the grievance simmer down on its own — standing down will gall you, and it's still the move.
+fortuneLow2: Let the small one go — the unwashed pan, the late return. The kitchen is lighter without it, even with the part of you that would rather keep score.
+fortuneLeast: What's coming needs both hands free, and this grudge wasn't worth a single fist. Set it down — it costs you the satisfaction, and you walk lighter for it.
+fortuneLeast2: The grudge has dried past use into a stone in your pocket, heavier than the wrong that made it. Forgiving it is no small thing — do it anyway, and feel the weight go.
 facetMostTitle: Kashmiri Red, Ground Fine
 facetMost: You make the thing you make at full strength, undiluted; if someone needs it gentler they can ask, and you will say no.
 facetHighTitle: Tamarind, Eyes Open

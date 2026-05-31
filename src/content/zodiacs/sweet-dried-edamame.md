@@ -7,11 +7,16 @@ trait: uncomplicated
 dish: Honey-glazed dried edamame — dried soybeans tossed in hot honey and sea salt until cracked and caramelised.
 quote: Keep it simple, bean.
 seasonalFortune: A season cracked down to the kernel. Hot honey, sea salt, nothing else asked for — the days run short and clean, and what stays is what was load-bearing all along.
-fortuneMost: Text them "thank you." Don't explain. Send.
-fortuneHigh: Say yes plainly. The qualifier is for you, not them.
-fortuneMid: One-line birthday message. Honey beats paragraphs.
-fortuneLow: Add the warm sentence back in. It was the whole point.
-fortuneLeast: Keep the chipped mug. Not everything on the shelf has to earn the shelf the same way.
+fortuneMost: One straight line, drawn clean. Most of what people circle comes down to a single decision, and you're the one who makes it.
+fortuneMost2: Hot honey, sea salt, nothing else asked for. Hand someone the one next thing to do; that's why the noise sent them to you.
+fortuneHigh: Yes, no qualifier. The hedge was only ever for your comfort, not their understanding.
+fortuneHigh2: Tired, you lie down. Owed, you settle it. A pebble dropped in still water, no ripple wasted.
+fortuneMid: The clean frame can land before you've felt the whole weight of the thing. Stay in the tangle a while longer — some knots want company before they want a suggestion.
+fortuneMid2: You reach for the tidy version fast, and it skips half the problem. Ask the question that keeps them going instead of handing over the answer.
+fortuneLow: You trim your own words to the bone and lose the part that was the point. Put the warm sentence back in — not everything longer is clutter.
+fortuneLow2: Let it stay messy a while. The ache they're carrying won't fold into the neat shape you'd give it, no matter how you press.
+fortuneLeast: The chipped mug stays. The foreign coin, the stopped watch — all stay. Some shelves are a sentence only you can read, and that's reason enough.
+fortuneLeast2: A tangle of yarn with no findable end, and your hands itching to cut it. Don't. Some problems don't want solving; they want to be felt.
 facetMostTitle: Honey Hardened Fast
 facetMost: Your room holds a chair, a lamp, a mug. Guests count the objects without meaning to and find the number correct.
 facetHighTitle: A Bean Glazed Once

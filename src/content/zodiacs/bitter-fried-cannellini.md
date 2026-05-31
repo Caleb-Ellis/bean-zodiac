@@ -7,11 +7,16 @@ trait: assertive
 dish: Cannellini fritto with bitter lemon and flat-leaf parsley.
 quote: Here I stand. I can bean no other.
 seasonalFortune: A season that rewards a crisped edge. The lemon cuts close to the rind, parsley laid down late, and what is said in the kitchen carries to the table without softening.
-fortuneMost: Open the meeting with the second sentence you'd planned. The first one was clearing your throat in public.
-fortuneHigh: Give the plain yes or no by lunch. The hedging tax compounds hourly.
-fortuneMid: Add the half-sentence that hands them the door. One line is a verdict, not a reply.
-fortuneLow: Don't have the argument late, on the back of a long day. The morning version has the same point and fewer enemies.
-fortuneLeast: Concede the small one on purpose. You'll spend the saved hour better than the win.
+fortuneMost: Lead with the real thing. The polite warm-up was only you clearing your throat.
+fortuneMost2: When the table is circling the same wrong maybe, your plain word cuts clean as lemon on the rind. Say it; you won't be walking it back.
+fortuneHigh: A clear yes or no is yours to give, and it lands easy. The hedged version costs you both more, and later.
+fortuneHigh2: The apology pays best paid whole and first, no weather padded onto the front of it. Said straight, it lands the way you mean it.
+fortuneMid: One clean line is a verdict; this one wants a reply. Hand over the half-sentence that opens the door back.
+fortuneMid2: A strong opinion well stated is not a sentence handed down. Leave the gap you forgot to leave — the one someone can disagree into.
+fortuneLow: A fight picked tired and late carries the same point and twice the enemies. The rested version wins; the waiting galls.
+fortuneLow2: Let the quarrel cool untouched a while. The patience grates against your edge, and the morning version is the one worth keeping.
+fortuneLeast: Concede the small one on purpose. It stings going down, but what you save by it spends better than the win ever would.
+fortuneLeast2: Some answers ripen for not being settled on the spot. The open question will itch — fair price, this time.
 facetMostTitle: Lemon at the Hot Oil
 facetMost: In a circle of murmured maybes, you name the thing plainly and do not walk it back.
 facetHighTitle: The Crust in an Instant

@@ -7,11 +7,16 @@ trait: conventional
 dish: Maple and sea salt roasted navy beans — white beans roasted until caramelised, finished with a drizzle of cold maple syrup.
 quote: A bean in time saves nine.
 seasonalFortune: The oven runs the standard hour at the standard heat. Sweetness gathers under a familiar crust; what comes out is what was meant to come out, and the table sets itself around it.
-fortuneMost: The original instinct was right, and you've talked yourself out of it twice. Go back to it; the second-guessing was the detour, not the instinct.
-fortuneHigh: The strange idea you nearly raised earlier is still good. Send it as a one-line email before the morning's out, with no preamble explaining why you waited.
-fortuneMid: Wear the colour you'd usually call "not for you" — once, all day — and see whether the verdict you reached at twenty still holds.
-fortuneLow: Order the dish you've been curious about for a year. The favourite will still be on the menu next time, and it isn't going anywhere.
-fortuneLeast: Take the unfamiliar route home, just once. One street you've never used, no map. The known path will still be there in the morning.
+fortuneMost: The expected dish, the expected plate, the expected hour. Bring all three — the evening works precisely because nothing in it surprises, and that's your craft.
+fortuneMost2: Pick the bottle you always buy. It has never let a table down, and reliability that steady is itself a kind of gift.
+fortuneHigh: Six fifty-eight, wine that matches, and the evening runs on rails you helped lay. Smoothness is a real contribution, even if no one names it.
+fortuneHigh2: The familiar varietal from the region you know works lands well this turn. Choosing what reliably pleases is its own quiet care.
+fortuneMid: Weigh the unfamiliar option, then choose what everyone would have chosen anyway. The safe pick costs you nothing — that's allowed.
+fortuneMid2: One of each, and let the others decide. You don't always have to commit to the known thing to keep an evening steady.
+fortuneLow: Order the dish you've eyed but never tried. The favourite isn't going anywhere.
+fortuneLow2: Float the strange idea you keep pocketing. It lands sideways sometimes, true; but the pocket only gets heavier the longer it waits.
+fortuneLeast: Take one street home you've never used, no map, just to see where it goes. The known route survives the detour — the unease is the price, pay it.
+fortuneLeast2: Paint the door red on an ordinary afternoon, just to see who talks. The block will talk for a month. Good.
 facetMostTitle: The Recipe on the Card, Followed
 facetMost: You bring the dish the host expected, on the plate the host expected, at the hour the host expected, and the evening works because nothing in it surprises.
 facetHighTitle: Maple in the Measured Cup

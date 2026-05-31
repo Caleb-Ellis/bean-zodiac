@@ -7,11 +7,16 @@ trait: elegant
 dish: Bisque - roasted black beans with bitter espresso cream.
 quote: Elegance is not about being noticed, it's about being bean.
 seasonalFortune: A season for the bisque that withholds its garnish. The roast deepens in private, and what reaches the spoon arrives already certain of itself, asking nothing.
-fortuneMost: Show up to the dinner in the plain coat with no story attached. The story you were writing about why this coat was the part that would have made you smaller.
-fortuneHigh: When the urge to caption your own work arrives, put your phone in a drawer until dinner. The work is already captioned.
-fortuneMid: Buy the second lamp. You've been living in one corner of your apartment for years and calling the rest of the floor taste.
-fortuneLow: Call them. The text you'd send is landing as a closed door, and you didn't mean to lock it.
-fortuneLeast: Reply with three exclamation marks. The restraint you'd otherwise use is being read as bad mood.
+fortuneMost: The bisque goes out bare. No garnish, no flourish, no need — and neither have you.
+fortuneMost2: A quiet you've held a long while is about to be read exactly right, by exactly the person who matters. Your restraint lands as the depth it always was.
+fortuneHigh: One good chair, one lamp, a lot of bare floor left to breathe. People slow down the moment they step in.
+fortuneHigh2: A hush has gathered around the thing you made and walked away from. It carries further than any words you'd have added.
+fortuneMid: One corner lit well isn't taste yet — it's one lit corner. The second lamp is worth the trip out to buy it.
+fortuneMid2: They lean in when you speak. But no one can lean toward a warm thing you keep behind your teeth.
+fortuneLow: A clipped, careful reply can shut like a door you never meant to lock. Let the warmth show through, though spelling it out feels like a crack in the finish.
+fortuneLow2: The loud ring has been sitting in the drawer too long. Understatement that hides you isn't elegance — it's a wall, and walls keep out the people who came to find you.
+fortuneLeast: A loud, spilling evening is on its way — wine poured before hello, prints hung crooked, everyone talking at once. Walk in open-handed. It won't be tasteful and it will be the one you remember.
+fortuneLeast2: Answer with the three exclamation marks. Plain bright warmth travels further than depth held in reserve, even when it feels like saying far too much.
 facetMostTitle: Espresso Settling Dark
 facetMost: You finish your own work in silence and never post the before — only the bowl, only once, only when it is ready.
 facetHighTitle: The Bare Counter

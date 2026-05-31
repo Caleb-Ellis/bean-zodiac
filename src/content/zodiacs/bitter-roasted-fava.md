@@ -7,11 +7,16 @@ trait: pioneering
 dish: Muhammara - roasted fava and bitter herbs.
 quote: Well-bean is that which is done for the first time.
 seasonalFortune: A season ground in the stone before the stone has a name. Bitter herb meets charred fava and the paste invents its own colour; whoever tastes it tastes the edge of somewhere unmapped.
-fortuneMost: Start it before lunch with no one's permission. The permission was a story you told yourself to delay the embarrassment of going first.
-fortuneHigh: Walk in first. The door only opens this way once, and the person you're waiting for is also waiting.
-fortuneMid: Look behind you before the next turn. Whoever you thought was following stopped two corners back, and the silence wasn't agreement.
-fortuneLow: Cook the supper you always cook, in the order you always cook it. The familiar route still has a year left in it before it owes you anything new.
-fortuneLeast: Wait for the third reply before answering. The first two are wrong and you'd burn an hour proving it.
+fortuneMost: The thing nobody's asked for yet is yours to start. That permission you were waiting on was a delay you invented.
+fortuneMost2: A road is opening under your feet where the map showed nothing. Start walking and trust the smoke to find its bearings.
+fortuneHigh: Be first through the door. It only opens this way once, and whoever you're waiting on is waiting on you.
+fortuneHigh2: Name the route before the vote, and the rest fall in behind you. It's the first hand to the stone that the day rewards.
+fortuneMid: Glance back before the next turn. The silence you've read as agreement might just be no one following.
+fortuneMid2: Float the idea and see who bites before you cut the whole road. Not every path needs you out ahead of it.
+fortuneLow: The familiar supper in the familiar order has plenty left to give. Walk the known road again, though your feet itch for the unmarked one.
+fortuneLow2: Falling in behind whoever sounds surest isn't a defeat. Going first isn't the only way through — hard as that is to hold to.
+fortuneLeast: A path is coming where someone else should scout ahead. Wait for the third voice before you move, though every nerve says go now.
+fortuneLeast2: Another hand opens the door and you follow them in, nose down. It costs you the lead you love, and it's the right trade to make.
 facetMostTitle: No Recipe, Only Char
 facetMost: You begin the thing nobody has asked for yet, and trust the smoke to find its bearings.
 facetHighTitle: First Into the Flame

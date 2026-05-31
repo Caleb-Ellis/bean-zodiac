@@ -7,11 +7,16 @@ trait: argumentative
 dish: Rajma tikki with imli chutney - pan-fried Indian kidney bean patties with tamarind dipping sauce.
 quote: In the beginning was the bean, and the bean was with argument, and the bean was argument.
 seasonalFortune: A patty pressed against a hot pan keeps its shape by refusing the oil; the tamarind stays sour beside it, and neither softens the other.
-fortuneMost: A wrong sentence is hardening into consensus. Crack it now, by name, before it sets.
-fortuneHigh: Argue the position you actually hold. The clean defensible one belongs to a stranger.
-fortuneMid: Concede the small point first, fast, no ceremony. The big one lands harder unencumbered.
-fortuneLow: They were right. Let it stand. The rebuttal in your draft folder is for you, not them.
-fortuneLeast: Look up. The chair is empty. Everyone else went to make coffee twenty minutes ago.
+fortuneMost: A wrong sentence is hardening into something everyone nods along to, and you're the one who won't let it set. Crack it by name, sharp as tamarind beside a fried patty.
+fortuneMost2: You can't walk away with a false thing left standing, and you shouldn't have to. Say the harder thing back, plainly, out loud.
+fortuneHigh: Stand on the position you actually hold, not the clean defensible one that belongs to a stranger. The messier, truer argument is the one worth making.
+fortuneHigh2: A soft claim deserves the sharp answer, and you've got it ready while people are still listening. Give it straight — like a patty that keeps its shape by refusing the oil.
+fortuneMid: Give up the small point first, fast and without ceremony. The big one lands far harder once it isn't dragging the little quarrels behind it.
+fortuneMid2: A thin apology has its gaps, and you'll see every one. Mark them privately and take it anyway.
+fortuneLow: They were right, and the rebuttal you keep rehearsing is for your comfort, not their correction. Let it stand. The win you'd score isn't worth what it costs, even though letting go will gall you.
+fortuneLow2: When people fall to disagreeing over a meal, refill the glasses and let the talk drift elsewhere. Steering away from the fight runs against your grain; the evening mends itself when you allow it.
+fortuneLeast: The seat across from you empties while you're still pressing the point. Some arguments are worth abandoning mid-breath — even when leaving one unfinished feels like losing.
+fortuneLeast2: A thing said wrong about you can simply drift off downwind, forgotten by morning. The splinter works itself out cheaper than the fight would, though leaving it will itch.
 facetMostTitle: Tamarind Through the Room
 facetMost: You hear the soft claim and say the harder thing back, in front of everyone, by name.
 facetHighTitle: Reply in Oil-Spit

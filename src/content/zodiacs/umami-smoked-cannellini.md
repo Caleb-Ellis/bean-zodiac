@@ -7,11 +7,16 @@ trait: exalted
 dish: Fagioli all'uccelletto - Tuscan cannellini with smoked pancetta, sage, and tomato.
 quote: The bean shall inherit the earth.
 seasonalFortune: A season of long-cured things. The pale bean holds its shape under slow heat, and what is refined in this quarter keeps best when handled rarely.
-fortuneMost: Reply after a night's gap, not in the same hour. The delay is the message, and it's being read correctly — the speed would have undone the meaning.
-fortuneHigh: Turn one thing an inch before guests arrive — the chair, the vase, the framed print. The evening tilts.
-fortuneMid: Say no to the second ask this week, and don't draft a reason. One real yes is a full ledger.
-fortuneLow: Eat the leftovers cold over the sink. The plate and the candle were a deal you made with someone who isn't watching.
-fortuneLeast: Answer the door barefoot, mid-sentence, holding the wrong glass. They came for the person, not the staging.
+fortuneMost: When you finally say yes, the table sits straighter. Six things worn often beat sixty worn never.
+fortuneMost2: A pale bean holds its shape under slow heat. Your held distance isn't coldness — it's what gives the yes its weight when it comes.
+fortuneHigh: One thing turned an inch before the door opens — a chair, a vase, the framed print — and the whole evening tilts toward grace.
+fortuneHigh2: An honour you didn't chase is being readied for you. It'll suit you; you've kept yourself fine enough to wear it.
+fortuneMid: You owe no explanation for every no, but you owe full presence to the one yes. Spend that yes like good wine.
+fortuneMid2: Refinement isn't reach. Hold the standard, but let one unrefined thing through the door without sage and staging first.
+fortuneLow: The plate and the candle were a deal struck with someone who isn't even watching. Eat it cold over the sink — the bareness of that will sting your pride a little.
+fortuneLow2: Somewhere a stranger's question is waiting. Say yes to it, the borrowed coat, the late drink; polish was never required, even if going without feels like arriving undressed.
+fortuneLeast: Answer the door barefoot, holding the wrong glass. They came for you, not the staging — though it costs you the version you'd rather be seen as.
+fortuneLeast2: Wear the shirt with the stain, leave the bed unmade. Reachable beats immaculate, and yes, you'll feel the slack in the broth.
 facetMostTitle: Pancetta, Hung High
 facetMost: You answer messages on your own clock, and the people who matter have stopped pretending otherwise.
 facetHighTitle: Sage Before the Pan

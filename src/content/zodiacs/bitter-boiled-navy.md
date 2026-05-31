@@ -7,11 +7,16 @@ trait: dogmatic
 dish: Navy bean and escarole soup.
 quote: A bean convinced against his will is of the same opinion still.
 seasonalFortune: Small white beans, sorted once, simmered the way they were last winter and the winter before. The escarole bitters into the broth on schedule.
-fortuneMost: Decline the request that violates the rule, in writing. Saying it out loud is what makes a principle different from a preference.
-fortuneHigh: Name where the rule came from before you cite it again. A principle whose origin you can't recall is a habit in formalwear.
-fortuneMid: Test the rule against the case in front of you, out loud. If you have to twist the case to fit, the rule is the thing that needs trimming.
-fortuneLow: Grant the exception on the record. Pretending the rule still applies while quietly bending it is the worst of both honesties.
-fortuneLeast: Show up to the dinner without an agenda for once. The system can sit in the car.
+fortuneMost: Hold the line everyone else is leaning against. You've done the thinking; let your yes mean yes.
+fortuneMost2: The question you won't entertain twice is coming around again, and you'll answer it the same. People lean on that more than they ever say.
+fortuneHigh: State the principle once, plainly, and stand there.
+fortuneHigh2: Argue the case until you've been clearly heard, then vote your way. The ground is no less yours for the crowd drifting off it.
+fortuneMid: Test the rule against the case before you cite it. If you have to twist the case to fit, the rule is the thing that wants trimming.
+fortuneMid2: Look the clause over again before you commit, even one you wrote yourself. The principle is worth keeping; check it still earns the salt it asks for.
+fortuneLow: Grant the exception openly. Change your mind mid-sentence if the new thought is better — quietly bending a rule you still invoke is the worst of both honesties.
+fortuneLow2: Register the dissent, then go along. Standing your ground costs something; spend it where the ground is worth it.
+fortuneLeast: Walk in with no agenda and let the system sit in the car. Hold three contradictory positions at once and find each one persuasive in turn.
+fortuneLeast2: A better argument is on its way. Switch sides the moment it lands, and don't mourn the old position too long.
 facetMostTitle: The Eleventh Minute
 facetMost: You decline the dinner invitation; you have already eaten at seven for nine years.
 facetHighTitle: The Same-Salted Broth

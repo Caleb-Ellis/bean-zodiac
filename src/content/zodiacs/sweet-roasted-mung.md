@@ -7,11 +7,16 @@ trait: easygoing
 dish: Jaggery-roasted mung beans — whole mung beans tossed in melted jaggery and cardamom, roasted until crisp and fragrant.
 quote: Keep your bean up and your worries down, and everything will be just fine.
 seasonalFortune: A season that warms slowly, the way jaggery slackens before it pours. Hard edges round off in the pan. Cardamom finds its way into rooms it was not invited into.
-fortuneMost: Brew the second pot of tea before the conversation needs it. Hand out the mug; let the rest unfold.
-fortuneHigh: When the early guests arrive, hand them a job — slicing, stirring, lighting. Welcome is a verb here.
-fortuneMid: Say "yeah, sure" to the favour and mean it. Then actually do it before the week turns, not at the soft far edge of "soon."
-fortuneLow: The thing you keep waving off is sitting on someone's chest. Bring it up gently over jaggery tea.
-fortuneLeast: Drop the easygoing act for one hour. Be inconvenient about a real preference; people prefer the real you.
+fortuneMost: A friend turns up sharp-cornered; out comes the chair, the glass, no questions, and the corners go. That ease is the whole of you.
+fortuneMost2: Set the extra plate for whoever showed up early and don't rearrange the evening around it. You let things unfold and they do.
+fortuneHigh: A pile of forty unread messages crests; tap in, say one warm thing, leave the rest. You needn't settle every ripple.
+fortuneHigh2: Hand the early guests a job — slicing, stirring, lighting a candle — and let welcome be a verb. The looseness is what keeps a place easy.
+fortuneMid: '"Yeah, sure" to the favour, and you mean it — then actually do it, before it drifts off toward the soft far edge of "soon."'
+fortuneMid2: Drink it black, let the small annoyance pass, say nothing. Some things really aren't worth the heat.
+fortuneLow: The thing you keep waving off is sitting heavy on someone's chest. Raise it gently — easy doesn't have to mean unsaid, hard as that is for you to start.
+fortuneLow2: A plan slips and your jaw sets. That set jaw is allowed; you wanted the time kept.
+fortuneLeast: Be inconvenient about one real preference. The friction is the point — people would rather have the true you.
+fortuneLeast2: Put the cold conversation back on the heat and have it. Reheating something you let go takes nerve — but some things only sweeten the second time on.
 facetMostTitle: Jaggery Before Anyone Names It
 facetMost: A friend arrives sharp-cornered; you offer the chair, the glass, no questions, and the corners go.
 facetHighTitle: Cardamom Where It Isn't Invited

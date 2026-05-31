@@ -7,11 +7,16 @@ trait: murky
 dish: Mole negro - Oaxacan black beans simmered in smoked mulato and pasilla chile sauce.
 quote: Still waters run bean.
 seasonalFortune: A season cured in slow smoke. Chiles soften into something unreadable; the pot keeps its own counsel, and the days take on a flavor no one nearby can quite name.
-fortuneMost: Crack one window before someone walks in. The smoke you've been sitting in is delicious to you and a fire alarm to everyone else.
-fortuneHigh: Name the chile, not the recipe. One ingredient out loud and they'll stop trying to guess the whole pot.
-fortuneMid: Strike a match in front of someone. The point isn't the flame, it's that they saw where it came from.
-fortuneLow: Turn the burner up. The slow burn has gone past depth into invisible — you can afford to scorch the edges this round, where the room can see them.
-fortuneLeast: A heat you didn't plan is showing on your face. Don't blot it. Let them read the page you'd usually fold over.
+fortuneMost: A mole this dark took nine chiles and tells you none of them. You are the same recipe, and the secrecy is the flavor.
+fortuneMost2: They'll read your weather because you were never going to narrate it. Let them.
+fortuneHigh: Smoke filling a whole house can still come from a banked, careful fire. Crack a window now and then, so the people who love you don't dial for help that isn't needed.
+fortuneHigh2: One ingredient named out loud stops the guessing better than the whole recipe would.
+fortuneMid: Depth owes no one the full method. The honest summary goes out; the messy part stays in the pot.
+fortuneMid2: Show where the choice came from — the match, not just the flame. It spares someone weeks of reading tea leaves.
+fortuneLow: A slow burn left unattended doesn't fade. It cures into a grievance nobody knew to soothe — say it while it's still warm enough to hold.
+fortuneLow2: You'll tell someone more than you meant to, and want to fold the page back over. Leave it open; it landed softer than you fear.
+fortuneLeast: Heat rises in your face before you can hide it. Let it show — the read is honest, and honesty sits well on you.
+fortuneLeast2: The lit window draws more than the shut door ever did. This is the turn to leave a lamp on.
 facetMostTitle: Mole Past the Point of Explanation
 facetMost: You answer the question asked and leave the question behind it sitting in the dark where it lives.
 facetHighTitle: Char Beneath the Pot

@@ -8,10 +8,15 @@ dish: Fava bean soup with harissa yogurt and bitter orange.
 quote: The bean that gets questioned, gets answered.
 seasonalFortune: A jar of favas works in the dark, sharpening as it softens. The almanac favours those who let an answer steep — what arrived as salt becomes something the salt never promised.
 fortuneMost: Ask the third question. The first two get manners; the third gets the actual answer.
-fortuneHigh: A clean explanation will arrive with a small itch under it. Scratch once, out loud.
-fortuneMid: Name the thing the table is agreeing not to name. Before anyone stands up.
-fortuneLow: It's settled. Leave the lid on — under it is a smell, not an answer.
-fortuneLeast: Pocket the next question. For once, "alright" is the discipline; the answer didn't owe you anything more.
+fortuneMost2: An answer is steeping in the thing you keep circling — one the first taste hid, surfacing now as the pith finally gives.
+fortuneHigh: A clean explanation arrives with a small itch under it. Scratch it once, out loud, and watch what surfaces.
+fortuneHigh2: Whatever you're told, the second reading is where it admits itself. Go over it twice before you trust what it said.
+fortuneMid: Something the whole table has quietly agreed not to name. Name it — kindly, before anyone reaches for their coat.
+fortuneMid2: The small follow-up nobody else thought to ask is yours. What's actually in it, under the label?
+fortuneLow: This one is genuinely settled. Leaving the lid on means trusting it without one more poke — and what's under there now is a smell, not an answer.
+fortuneLow2: When the directions are sound, follow them. Your hands will itch to hunt for the seam; not everything has one worth finding.
+fortuneLeast: Let the next question stay in your pocket. Accepting "fine" costs you the last word — here that's the discipline, not the defeat.
+fortuneLeast2: Get what you came for and walk back out into the day. Leave the second-guessing aisle unsearched, even when that feels like missing something.
 facetMostTitle: Peel Curing on the Sill
 facetMost: You sit with a decision for a week longer than anyone expects, turning it until the pith gives.
 facetHighTitle: The Jar of Unsent Things

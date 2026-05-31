@@ -7,11 +7,16 @@ trait: clever
 dish: Dahi chana - chickpeas with yogurt, tamarind chutney, and chaat masala.
 quote: The secret of being a bean bore is to tell everything.
 seasonalFortune: The brine has been thinking in the dark. What it returns is sharper than the chickpea that went in, and quicker to answer.
-fortuneMost: Show the workings on the whiteboard. You've been right alone for weeks; right with witnesses pays better.
-fortuneHigh: Two of those emails are one email. Reply once and watch the inbox shrink by accident.
-fortuneMid: Word it like a refund request, not a complaint. The form unlocks on the noun, not the tone.
-fortuneLow: Take the boring route. The clever detour is a tax you keep volunteering to pay.
-fortuneLeast: Buy the obvious thing at full price. The angle you'd work for the discount is more expensive than the discount.
+fortuneMost: You've been quietly right on your own long enough. Unfold it and walk someone through it; the answer travels twice as far once they've watched it built.
+fortuneMost2: A solve lands in you three steps ahead of everyone. Hand over the whole thread this time, not the single slice they asked for. The working was always the better gift.
+fortuneHigh: The question that lets someone arrive at the answer you already hold is the cleverest move you own. They grip it harder for having found it, and you lose nothing.
+fortuneHigh2: Two of the errands are secretly one trip. An hour you thought was spent is about to come back to you, sitting in plain sight, waiting on the look you give everything.
+fortuneMid: A stuck thing turns on the right word, not the right tone. Phrase it as a plain request instead of a complaint and the jammed door opens on the second try.
+fortuneMid2: The answer doesn't need dressing up as a guess. Set it down bare and let the others catch up.
+fortuneLow: The clever detour is a tax you keep volunteering to pay. Take the dull road the signs actually point at; you'll miss the thrill of the shortcut and arrive first more often than your pride admits.
+fortuneLow2: There's a real ease in not rerouting yourself around every supposed shortcut. You'll mourn the private satisfaction of having outwitted the map — and you'll get home sooner.
+fortuneLeast: Buy the obvious thing at the obvious price. The angle you'd work to shave the discount costs more than it saves, even if walking past it feels like leaving coins on the counter.
+fortuneLeast2: Some days a jar is only a jar. No second use, no folded-away trick, what it holds is what it holds.
 facetMostTitle: The Tamarind Seam
 facetMost: You finish other people's puzzles in your head three steps before they speak, then hand back only the piece they asked for.
 facetHighTitle: Chaat Masala, Every Tab

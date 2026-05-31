@@ -7,11 +7,16 @@ trait: reflective
 dish: Shiro ae - butter beans dressed in white miso, ground sesame, and tofu.
 quote: Who looks outside, dreams; who looks inside, finds a bean.
 seasonalFortune: Miso slackens in its crock; the season favors what has been kept long enough to deepen.
-fortuneMost: Eat the leftovers cold, standing up, in front of the open fridge. The conversation you've been chewing on will reveal its real flavour.
-fortuneHigh: Take the same walk you took on the worst day you can remember. The light is different now; so are you, and the route knows it.
-fortuneMid: Lie down in the middle of the afternoon without setting an alarm. What you wake up knowing was already there.
-fortuneLow: A friend will offer you an old story back. Take it without correcting their version.
-fortuneLeast: Sit in someone else's chair, just for an evening. Look at your usual seat from there; the angle is the lesson.
+fortuneMost: An old remark is about to give up a meaning the speaker never knew was in it.
+fortuneMost2: A conversation you keep returning to finally releases what it was holding. The longer it steeps, the more it gives.
+fortuneHigh: Go back over the thing once more before you let it go — the second look finds an edge the first one missed.
+fortuneHigh2: People bring you a question and leave holding the one underneath it. You turn a thing until it shows its real shape.
+fortuneMid: Whole afternoons vanish into one old sentence while the present stands in the doorway waiting. Come up for air before what matters now goes unanswered.
+fortuneMid2: Say the thing on your mind to one person, lightly, instead of carrying it another mile alone. Aloud, it settles faster.
+fortuneLow: Notice the thought and let it move on through. Less is lost than you'd guess when you don't chase it down.
+fortuneLow2: Hunger names itself and you eat — let a feeling work the same plain way. Some things are meant to be lived, not unfolded.
+fortuneLeast: Fortune favours the closed book this turn. Let the old thing be over, unreread; prying it open again costs more than it returns.
+fortuneLeast2: When someone hands you their version of an old story, take it without digging underneath. The surface will itch at you; leave it be.
 facetMostTitle: Sesame, Ground Twice
 facetMost: You return to old conversations until they finally release their meaning.
 facetHighTitle: The Dissolving Draft

@@ -7,11 +7,16 @@ trait: withering
 dish: Sopa tarasca - smoked black bean purée with ancho chile, crema, and pickled chipotle
 quote: Hell hath no fury like a bean scorned.
 seasonalFortune: A season of low smoke and slow verdicts. Ancho darkens in the pan; the household learns which silences mean a pot has already been judged.
-fortuneMost: Leave the meeting after your one sentence. Staying to soften it is the only way to weaken it.
-fortuneHigh: That long voice note doesn't deserve a long reply. Three words and goodnight.
-fortuneMid: Someone is about to mistake your quiet for a verdict and they will be correct. Don't undo it later in a softer mood; the silence is the answer.
-fortuneLow: Post the standard before you grade against it. People can fail honestly or be ambushed; pick one.
-fortuneLeast: You will give the chronically late friend one more chance this week. Fine — but stop telling yourself it's the last.
+fortuneMost: One sentence, then nothing. The pause does what the words began, and staying to soften it is the only way to weaken it.
+fortuneMost2: A single look from you can close a thing for good. Spend it where you mean to.
+fortuneHigh: You'll know who you won't trust before they've finished asking. That read is an old, reliable omen — heed it.
+fortuneHigh2: A rambling case doesn't earn a long answer. Three words, and the quiet after carries the rest.
+fortuneMid: Your silence is going to be read as the verdict, and it will be the right one. Don't talk yourself back out of it in a softer hour.
+fortuneMid2: The part you leave unsaid is the truest part. Leave it unsaid.
+fortuneLow: Name the standard out loud before you hold anyone to it. Slower, and it leaves you exposed — but a person can fail honestly or be ambushed, and only one of those is kind.
+fortuneLow2: The friend who's always late. Give the lateness one more turn before it goes on the tally; you'll miss the clean little satisfaction of the count, and you can spare it.
+fortuneLeast: A door you'd already shut swings open, and this time you walk through. Your hands feel strange without the verdict in them.
+fortuneLeast2: Forgive the borrowed thing returned stained. It feels like a standard slipping; it's mostly just warmth.
 facetMostTitle: Chipotle Past Sweetness
 facetMost: You let a single look end a meeting, and you do not soften it on the walk back to your desk.
 facetHighTitle: Crema Thinned to a Line

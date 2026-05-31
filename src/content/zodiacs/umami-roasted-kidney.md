@@ -7,11 +7,16 @@ trait: extravagant
 dish: Roasted kidney beans with porcini, truffle oil, and thyme.
 quote: I have nothing to declare except my bean.
 seasonalFortune: Truffle oil pools darker than the bowl beneath; the season runs long on a single note, and what looked like surplus turns out to be the threshold.
-fortuneMost: Buy the absurd bottle of wine. They'll remember the gesture for ten years; you'll forget the price within the week.
-fortuneHigh: Write the letter long. Keep the paragraph you almost cut — that's the one they'll reread.
-fortuneMid: Bring the wine you'd drink for yourself, not the one they'd notice. The label was for the room; the bottle is for the friend.
-fortuneLow: Wear the plain shirt. Once in a while the eye-catching one is the costume, not the outfit, and you can tell which week this is.
-fortuneLeast: Three words and out. The bare reply means more this week than the lush one.
+fortuneMost: Buy the absurd one. They'll remember the gesture for a decade and you'll have forgotten the price before it lands on their step.
+fortuneMost2: When you show up, show up with weather. A gift over the top is on its way to landing harder than you dare hope — let it be too much.
+fortuneHigh: Write it long, and keep the part you almost cut. That's the line they'll come back and reread alone.
+fortuneHigh2: Truffle oil runs long on a single note and never apologizes for it. Aim too-much at someone you love and it reads as exactly what it is — generosity.
+fortuneMid: Bring the thing you'd want for yourself, not the one others would notice. The label was for the crowd; the bottle is for the friend.
+fortuneMid2: A small gesture, placed right, lands as hard as a grand one. Now and then the restraint is the flourish.
+fortuneLow: Wear the plain one. Sometimes the eye-catching choice is a costume, not an outfit — and going quiet will feel like underdressing, which it isn't.
+fortuneLow2: Cook the one good thing and stop. The evening is enough unfilled, even though every surface will seem to ask for more.
+fortuneLeast: Three words and out. The bare version carries more than the lush one — and letting it will feel like leaving the gift half-wrapped.
+fortuneLeast2: Hand over the plain card with just their name on it. Trust the name to do all of it. Adding nothing is the harder gift, and the truer one here.
 facetMostTitle: Porcini in the Hand
 facetMost: You send the better bottle, the longer letter, the second gift; the first was never enough to mean what you meant.
 facetHighTitle: Thyme on Every Curtain

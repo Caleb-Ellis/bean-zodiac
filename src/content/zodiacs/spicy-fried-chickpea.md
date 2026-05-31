@@ -7,11 +7,16 @@ trait: spontaneous
 dish: Pakora - spiced chickpea fritters with green chili.
 quote: Life is either a daring adventure or no bean at all.
 seasonalFortune: Batter meets oil and decides everything at once; the kitchen runs on the clock of a sputtering pan. Cold mornings find this house already loud.
-fortuneMost: Walk in half-dressed. The version of you that finished buttoning would have arrived too late and too tidy.
-fortuneHigh: Turn around at the corner. The party gets good after you leave; go back and ruin that for everyone.
-fortuneMid: Three minutes to decide on the spare ticket. If the answer needs four, the answer is no — and that's not a small thing to know about yourself.
-fortuneLow: Stay through the boring middle. You bounce at the first lull and miss the part where it gets interesting.
-fortuneLeast: Wait. Nothing is hot enough yet, and your hand is on the handle. Let go.
+fortuneMost: The yes leaves your mouth before the offer finishes, and it's the right yes. The buttoned-up version of you would've stayed home and missed it.
+fortuneMost2: A spare seat, a moving train, a night nobody planned. It's coming your way, and it has your name on it.
+fortuneHigh: The unplanned road is the one you'll remember. Step onto it without testing the weather first.
+fortuneHigh2: Something opens at the last minute and you're the one who turns up.
+fortuneMid: A small chance is sputtering in front of you. If weighing it takes too long, that hesitation is your answer.
+fortuneMid2: Leap. You'll land softer than you fear, and the details sort themselves on the way down.
+fortuneLow: The good part of the night comes after the lull, where you usually bolt. Staying feels like waste — sit through it anyway.
+fortuneLow2: What you've already settled into is worth finishing. Letting the new spark wait its turn chafes, and it also pays.
+fortuneLeast: Your hand's on the handle and the pan's not hot yet. Letting go to wait for the right heat goes against everything in you — which is exactly why it's the lesson.
+fortuneLeast2: Not every first sizzle is yours to chase. Some plans are better left exactly as planned, even when the stillness itches.
 facetMostTitle: Green Chili, Hand Already Reaching
 facetMost: You eat the first fritter before it cools, and the burn is the point.
 facetHighTitle: The Doorway as Hot Oil

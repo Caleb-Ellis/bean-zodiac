@@ -7,11 +7,16 @@ trait: perfectionist
 dish: Ribollita - Tuscan bread soup with cannellini, cavolo nero, and peperoncino.
 quote: Have no fear of bean perfection — you will never reach it, but what a view from the attempt.
 seasonalFortune: A long simmer is the season's shape. The cavolo nero darkens slowly; nothing is hurried, and the pepper waits its hour in the corner of the pot.
-fortuneMost: Do the one more pass — but set a timer for it. The work improves; the rumination is what you're cutting.
-fortuneHigh: Make the small fix that's bothering only you. Then stop. The next fix is decoration.
-fortuneMid: Sleep on the message before sending. Morning will keep the spine and lose the temperature.
-fortuneLow: Call the thing done while it's still slightly wrong. The wrongness is the part people actually use.
-fortuneLeast: Send the first draft, uncorrected, before the urge to revise hardens. The version you'd polish into existence is worse than the one you're afraid of.
+fortuneMost: You feel the seam nobody else sees. That noticing is rare, and it's about to earn its keep.
+fortuneMost2: Take the fourth pass at the thing only you know is wrong. The view from the attempt is the whole reward, and you've earned the climb.
+fortuneHigh: Straighten the one crooked thing that's needling you. Then stop — the next fix is decoration, and decoration never ends.
+fortuneHigh2: There's a recipe you keep tinkering with that's already good. Make it once exactly as written and let it surprise you.
+fortuneMid: The thing that has you heated will read differently after a night's simmer. Time keeps the spine and loses the temperature.
+fortuneMid2: Half the wrongness you're bracing to fix fades on its own. Check whether yesterday's worry still holds before you tear anything down.
+fortuneLow: Call it done while it's still a little uneven — the uneven part is the part people reach for.
+fortuneLow2: A windfall is coming through a door you'd have re-hung first. Take it warm and crooked; the polish wasn't the gift.
+fortuneLeast: The first attempt, left alone, is better than the eleventh you'd grind it into. Loosening that grip costs you — do it anyway.
+fortuneLeast2: Agree to the rough split, pocket the change uncounted. The small imprecision costs you nothing, even if your hands itch to measure it.
 facetMostTitle: Stale Bread, Torn Twice
 facetMost: You finish the page, then tear it down to the crust and begin again. The fourth pass is the one you'll show.
 facetHighTitle: Peperoncino by the Grain

@@ -7,11 +7,16 @@ trait: untethered
 dish: Judías verdes con jamón ahumado - Andalusian green beans with smoked ham and pimentón.
 quote: A great bean follows a little spark.
 seasonalFortune: Pimentón scents a kitchen long after the pan is cold; the heat outlives whatever called for it.
-fortuneMost: Throw a dart at your to-do list and do whatever it hits. Choosing was the part eating the hour, not doing.
-fortuneHigh: Scroll up. The message you're about to fire off is answering a question that wasn't asked.
-fortuneMid: Set a kitchen timer for twenty minutes, sprint, then walk away when it buzzes. The leftover heat is what cooks the second half.
-fortuneLow: An alarm in another room has been ringing for days. Go silence it before you start anything new; the new thing was a way of not hearing it.
-fortuneLeast: The fire's out and you're still pacing. Sit down for ten minutes — you've been running on smoke from a fire that already finished its work.
+fortuneMost: You catch the urgency before anyone in the place has named it, and the day reshuffles to be ready. Trust it — the instinct is real and usually right.
+fortuneMost2: No fixed chair; you drift to wherever the light's gone warm. That drift is how you keep finding what everyone else walked past.
+fortuneHigh: A siren passes and you're out the door before you've picked a direction. One beat first — is the pull yours, or just the nearest noise?
+fortuneHigh2: Aim the energy at the friend who actually needs you, not the loudest thing going by.
+fortuneMid: Not every fever has to be chased to the end. Let one thing finish before the next yanks you off it.
+fortuneMid2: Pimentón keeps scenting the kitchen long after the pan's cold — leftover heat cooks the rest on its own. Walk away from the half-done without calling it failure.
+fortuneLow: A whole stretch can vanish into other people's emergencies, real as each one is. Find your own through-line first, then answer.
+fortuneLow2: Let the thing sit until it asks to be done. The patience suits you — it isn't drift when you chose the spot to wait in.
+fortuneLeast: The fire's out and you're still pacing on its smoke. Sit down; what's already finished doesn't need you running for it.
+fortuneLeast2: A grounded, dull task you've dodged is quietly waiting, with a satisfaction the wind never gives you. Stay rooted one day.
 facetMostTitle: Smoke Filling the Room
 facetMost: You keep no fixed chair, drifting between windows, settling wherever the light is currently warm.
 facetHighTitle: The Pod, Split Early

@@ -7,11 +7,16 @@ trait: optimistic
 dish: Gān biān sìjì dòu - Sichuan dry-fried green beans with chili bean paste and Sichuan pepper.
 quote: In the middle of every difficulty lies a beany opportunity.
 seasonalFortune: A season for the dry-fried pod — heat first, water last, the cook trusting that something blistered keeps better than something stewed.
-fortuneMost: Throw every window open before you've made coffee. The flat morning can't survive that much weather.
-fortuneHigh: Book it before you have the invite list. The date is the magnet; the yeses arrive after.
-fortuneMid: A friend will hand you something heavy. Sit with the heavy part fully, then point at the live ember — in that order, no shortcuts.
-fortuneLow: The good news you keep repeating has gone thin. Say the worst-case out loud once; it shrinks the second it hits air.
-fortuneLeast: Take the second coat. The forecast is right and the cheerful read is going to get you wet.
+fortuneMost: Fling the windows open and sweep the floor with enough certainty and the flat morning turns. It turns.
+fortuneMost2: The date inked before a single yes is the magnet. Watch the people arrive to the heat after.
+fortuneHigh: The cancelled thing has barely landed and you're already pricing the better version. Chase that pull.
+fortuneHigh2: Inside someone's bad news there's a small live thing only you tend to spot. Naming it gently, at the right moment, is a real kindness.
+fortuneMid: Heat first, water last. Sit in the heavy part of a friend's news before you point at the ember.
+fortuneMid2: Let the loss be a loss for a minute. Hope folded in too early scorches instead of warms.
+fortuneLow: When the cheerful read wears thin, say the worst case out loud the once. Named, it shrinks on contact with the air — even as saying it feels like betraying your own nature.
+fortuneLow2: Sometimes the kindest move is to not reach for the silver lining at all, just to sit in the dark of it with them.
+fortuneLeast: Now and then the gloomy forecast is the true one. Packing the second coat goes against everything in you, and it's exactly what keeps you dry.
+fortuneLeast2: Read it clear-eyed, every flaw in plain view. That's not the pessimism you fear — it's how you arrive already braced.
 facetMostTitle: Pods Blistered on Every Side
 facetMost: You meet a flat morning by sweeping the floor and opening the windows, certain the day rearranges around the gesture.
 facetHighTitle: The Wok Before the Beans

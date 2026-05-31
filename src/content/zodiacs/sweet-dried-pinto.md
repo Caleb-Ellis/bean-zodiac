@@ -7,11 +7,16 @@ trait: storied
 dish: Pinto bean pie — dried pintos cooked soft and sweetened into a custard filling for a Southern pie shell, spiced with cinnamon and vanilla.
 quote: After all, tomorrow is another bean.
 seasonalFortune: A long sweetness gathers in the dark of the pantry; what was set aside seasons itself, and the year tastes of what the year remembers.
-fortuneMost: Write the day down before bed. Three lines, ink, paper; future you is the one who will want them.
-fortuneHigh: Reopen the old journal. Answer the sentence you left hanging.
-fortuneMid: Give them three sentences about yourself and let the fourth be their question. The archive opens when asked; opened unasked, it's a museum tour.
-fortuneLow: Make a new memory this weekend. The archive is full.
-fortuneLeast: Delete the photos on the walk home. The night was the night; it doesn't need a shelf.
+fortuneMost: A scrapbook fanned open across a table — nothing crosses your threshold without earning a shelf, postcard and stub and dated jar, each with its story ready. Write the day down; a later you will be grateful you kept it.
+fortuneMost2: Someone names a city and out comes the long sweet tangent, the rained-out week, the café with the broken chair, told pause for pause and none the worse for it. You carry the past so it doesn't go unwitnessed.
+fortuneHigh: A map with every old route still inked. Open the page you left hanging years back and answer it — the line you wrote young still has work in it.
+fortuneHigh2: Pick the long story that explains the most and trust them to keep up. Offering the deep cut is how you let a person actually meet you.
+fortuneMid: The archive opens beautifully when someone asks; opened unasked, it's a museum tour. Give three sentences and leave the fourth for their question.
+fortuneMid2: Let the present be only itself once. Not everything needs routing back to a story already told — and unhooking it will feel like leaving something out.
+fortuneLow: Go and make a memory instead of filing one. The person here wants the you that's still happening, not the curated one.
+fortuneLow2: Replace the chipped mug with no ceremony; the new one pours just as well. Living a little lighter won't erase you, though setting a keepsake down will tug as you do it.
+fortuneLeast: Let the photos clear from the roll the night you take them. The night was the night; you lived it whether or not you hold it.
+fortuneLeast2: A fresh page with nothing on it yet. Say "not much to tell," pass the bread, open no archive — you're allowed to be only present, unfiled, meeting someone with nothing but who you are right now.
 facetMostTitle: Vanilla Past Its Bean
 facetMost: Postcards, ticket stubs, a dated jar of cinnamon — nothing crosses your threshold without earning a shelf.
 facetHighTitle: Every Crimp Remembered

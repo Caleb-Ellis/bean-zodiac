@@ -7,11 +7,16 @@ trait: impartial
 dish: Mung bean congee with pickled mustard greens and sesame oil.
 quote: Fiat justitia ruat bean.
 seasonalFortune: Congee thinned past opinion. The season runs clear — sesame oil floats without weighing in, pickled greens hold their sharpness where they sit. Nothing pulls the pot one way.
-fortuneMost: Two friends will ask who was right. Give them the same sentence, word-for-word, and watch their faces.
-fortuneHigh: A late piece of evidence will land after the verdict feels settled. Reopen it anyway; pride is not a witness.
-fortuneMid: The scale tipped twenty minutes ago and you're still pretending it's level. Name the side before someone fills the silence with a worse answer.
-fortuneLow: This dinner doesn't need fairness; it needs you on someone's team. Pick a chair and sit.
-fortuneLeast: Side with the person you love. The impartial verdict can wait outside with its coat on.
+fortuneMost: Two people ask you who was right. The same sentence to each, word for word, is the fair one — the ladle straight down, the same portion in both bowls.
+fortuneMost2: A good sign for the even hand. Weigh each side as a stranger's, and the verdict nobody wanted turns out to be the one everyone later recognises.
+fortuneHigh: Late evidence lands after the matter feels settled. Reopen it anyway. Pride was never a witness.
+fortuneHigh2: Let the story run to its end before you decide whose telling holds, even when the room has already chosen.
+fortuneMid: The scale has tipped. Name the heavier side, or someone fills the gap with worse.
+fortuneMid2: One question that lets them find their own part in it beats any summary that hands the verdict over.
+fortuneLow: Some moments don't want fairness. They want you in someone's corner. Take the seat beside them — the unweighed verdict will sit uneasy all evening, and it's the right seat.
+fortuneLow2: The warmer answer to whoever asked first can be fair enough. The clean balance is the better thing to spend here.
+fortuneLeast: Side with the one you love. Let the impartial verdict wait outside in the cold. The even hand will ache to even things; let it ache.
+fortuneLeast2: Someone just wants you on their side. Be that, and leave the careful summary unspoken.
 facetMostTitle: Salt Grain by Grain
 facetMost: When two friends bring you the same quarrel, you weigh each clause before the kettle has cooled.
 facetHighTitle: Pickled Greens in Their Own Brine

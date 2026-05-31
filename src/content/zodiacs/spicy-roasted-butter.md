@@ -7,11 +7,16 @@ trait: hedonistic
 dish: Harissa gigantes - butter beans oven-roasted with rose harissa, garlic, and olive oil.
 quote: Eat, bean, and be merry, for tomorrow we diet.
 seasonalFortune: A bean that slumps wide in hot oil keeps no part of itself in reserve; its season is loud, perfumed, and short.
-fortuneMost: Open the expensive bottle on an ordinary night. Saving it is how it turns, slowly, into vinegar — and into a story about a bottle nobody got to drink.
-fortuneHigh: You're about to pick the sensible one. Pick the one with chili oil running off the spoon instead.
-fortuneMid: Run a hot bath in the middle of the workday. The deadline will still be there with worse posture.
-fortuneLow: Cancel the dinner you talked yourself into. Toast bread, butter it loudly, call it the plan.
-fortuneLeast: Want nothing for one full evening. The next craving you have will arrive with actual teeth.
+fortuneMost: Open the good bottle for no reason at all. Saved pleasure only turns to vinegar and a story about what nobody got to taste.
+fortuneMost2: Rose harissa over everything, the candle lit on a plain evening. The occasion was always just that you're here.
+fortuneHigh: The choice that smells of garlic and oil is the one that stays with you; the sensible one you'll forget by morning.
+fortuneHigh2: A windfall is coming to the table that was set too big. What you spill out comes back to the pot warmer.
+fortuneMid: One spice, taken slow, perfumes the whole supper.
+fortuneMid2: There's nothing to earn first. The small indulgence in front of you is already paid for.
+fortuneLow: Not every craving needs feeding the moment it blisters up. Let one pass and you'll find you're fine.
+fortuneLow2: A dry crust eaten slowly can be plenty — though skipping the feast costs you something real, so make it a fair trade and not a punishment.
+fortuneLeast: The bare room rests you in a way the full one can't. Ask the evening for nothing and see what it gives back; the wanting-less will sit oddly on you at first.
+fortuneLeast2: One cup, one lamp, one quiet hour. Some nights the plate you didn't pile high is the richer one.
 facetMostTitle: Rose Harissa at the Edge
 facetMost: You set the table for six and cook for eight, pour the good oil first, decide the playlist before the menu.
 facetHighTitle: Garlic Gone to Spread

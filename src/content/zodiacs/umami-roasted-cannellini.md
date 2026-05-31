@@ -7,11 +7,16 @@ trait: confiding
 dish: Fagioli al forno - roasted cannellini with parmesan, sage, and garlic.
 quote: Come in, come in. The bean is always on and I have been meaning to tell you something.
 seasonalFortune: Garlic softens in a slow oven; the season unlatches by degrees, and what was kept warm finds its right ear before the heat is gone.
-fortuneMost: Tell the one person who has earned it the thing you have been keeping warm. They have been waiting to be told.
-fortuneHigh: Trust one room with something you usually save. Offered carefully reads as intimacy; blurted reads as exposure — pick the room with care, and offer.
-fortuneMid: You've told two people. Tell the third before the week is out; the omission is starting to take on a shape of its own.
-fortuneLow: One closed door isn't a secret, it's a room. Stop explaining it to people who didn't ask.
-fortuneLeast: Hold the thing back this week. Not every silence is avoidance — some are the right room not having arrived yet.
+fortuneMost: Tell the one who's earned it the thing you've kept warm. Some part of them has been waiting their whole acquaintance with you to be told.
+fortuneMost2: The right ear is arriving. Give it the held thing whole and warm — this is the season it was kept for.
+fortuneHigh: Trust one person with what you usually save. Offered with care it reads as closeness, not weight; the only trick is choosing them well.
+fortuneHigh2: Garlic in a slow oven gives everything up by degrees. So can you — not all at once, but to the one you've decided is safe.
+fortuneMid: You've told it once or twice; now finish the round. A half-shared thing grows a shape of its own, off in the dark where you can't watch it.
+fortuneMid2: Hand the unfinished thing to the one who'll see what it could become. Perfect can wait; the seeing can't.
+fortuneLow: A closed door isn't a secret, just a room. You owe no walk-through to people who never asked — though staying shut will feel, to you, like withholding.
+fortuneLow2: Some of what you carry is meant to stay yours, set down nowhere. Keeping it close costs you the relief of saying it. Fair price.
+fortuneLeast: Sometimes the right ear truly hasn't come, and that's no failing. But an owed apology can age past use; don't let the waiting do your hiding for you.
+fortuneLeast2: Watch that the shelf doesn't quietly become the hiding place. Unsaid is easier than it should be.
 facetMostTitle: Parmesan at the Rim
 facetMost: The thing you have been holding finds its one right ear, and you give it whole — kept warm just long enough to land properly.
 facetHighTitle: Sage in the Heat

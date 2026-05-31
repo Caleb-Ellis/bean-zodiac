@@ -7,11 +7,16 @@ trait: contemplative
 dish: Black bean and white miso caramel tart — sweet miso folded into caramel over a black bean base, baked until just set.
 quote: I think, therefore I am a bean.
 seasonalFortune: A season folded inward, the way miso darkens under its own weight. Sweetness gathers in the unwatched crock; the year keeps its own counsel.
-fortuneMost: Write the thought down in pencil and leave it. Come back in a week — it will have grown a second sentence on its own.
-fortuneHigh: Send the long voice note instead of typing. Your meandering is the gift; the edit was the bug.
-fortuneMid: Someone asks what you're thinking about. Tell them the dumb half — the half you'd cut. That's the half they came for.
-fortuneLow: You've been weighing this in your head for eleven days. Flip a coin and watch which result disappoints you.
-fortuneLeast: Order the dessert you keep almost ordering. Eating it is faster than another month of considering it.
+fortuneMost: A thought set down and left alone grows a second sentence in the dark, the way miso deepens in its crock.
+fortuneMost2: Sit with the question through the long quiet. Something is fermenting that won't be hurried.
+fortuneHigh: Send the wandering voice note, all its detours intact. The meander was never the flaw.
+fortuneHigh2: Two beats of dark after someone finishes, and your answer comes out the better for gathering there.
+fortuneMid: The half of the thought you'd usually trim is the half they came for. Hand it over rough.
+fortuneMid2: Say it while it's still warm, before the polishing. They'd rather catch the heat than the shine.
+fortuneLow: You've turned it long enough. Flip a coin and watch which face leaves you disappointed — there's your answer.
+fortuneLow2: Follow the visitor wherever they lead, mid-thought and all. The stone keeps in your pocket; the day out the door does not, though leaving it half-weighed will itch.
+fortuneLeast: Order the thing you always almost order. Choosing is quicker than one more round of considering, and the worst it does is teach you.
+fortuneLeast2: Some things are better caught than weighed. Buy the ticket on the platform, even if your hand wants the notebook first.
 facetMostTitle: The Tart Left Overnight
 facetMost: You keep a notebook nobody reads. Decisions arrive there months before they reach a mouth.
 facetHighTitle: Salt in the Slow Dark

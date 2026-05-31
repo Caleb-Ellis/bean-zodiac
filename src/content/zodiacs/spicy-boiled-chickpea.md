@@ -7,11 +7,16 @@ trait: resourceful
 dish: Chana masala - chickpea curry with green chilies.
 quote: Necessity is the bean of invention.
 seasonalFortune: Late frost spares the hardiest seed. The pantry of one who saves the soaking water learns to season itself; the year softens by what was almost discarded.
-fortuneMost: Build it now with what's already on the desk. The proper tool is somewhere in a warehouse; you are here, with the thing the desk already holds.
-fortuneHigh: Use the gift card that's about to expire. Improvisation is also a form of yes.
-fortuneMid: Reply on the old thread, not a new one. Continuing the conversation is faster than introducing it.
-fortuneLow: Stop MacGyvering the dishwasher. Pay the person whose actual job this is and reclaim the afternoon for something that can't be hired out.
-fortuneLeast: Text the friend who's good at this and say "I'm stuck" — no caveats, no clever framing. The ask is the whole message.
+fortuneMost: The proper tool is somewhere in a warehouse. You're here, with what your hands can reach — and that has always been enough.
+fortuneMost2: Hand you a constraint and you'll hand back a solution that shouldn't have worked. Watch their face when it holds.
+fortuneHigh: The thing about to go in the bin has one more use in it, and you're the one who can see it. Improvising is its own kind of yes.
+fortuneHigh2: A door opens because you packed light and read the room — not because you had the right key.
+fortuneMid: Pick up the old thread instead of starting cold. What's already warm gets there faster than anything you'd build fresh.
+fortuneMid2: Tighten what you can, set a bucket under the rest, look up the part later. Half-solved buys you the whole afternoon.
+fortuneLow: Some jobs come from a shop, not your drawer. Paying the person whose work this is buys back a day you can't get any other way — even if handing it over chafes.
+fortuneLow2: Stop rigging the broken thing. The right hands exist; calling them isn't surrender, though it'll sit like it for a minute.
+fortuneLeast: Tell the friend who's good at this "I'm stuck." No clever framing, no caveats — the ask is the whole message, and it's harder than any rig.
+fortuneLeast2: Asking isn't cheating — it's just faster, and your pride will feel the difference. Let someone take it off your hands anyway.
 facetMostTitle: The Cracked Pot, Lined
 facetMost: You finish the meal in whatever vessel the kitchen still trusts; the chilies don't ask which pan.
 facetHighTitle: The Long-Kept Thread

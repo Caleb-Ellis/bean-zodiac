@@ -7,11 +7,16 @@ trait: frenetic
 dish: Fatteh - Syrian smoked chickpeas layered with crisp bread, yogurt, and chili oil.
 quote: Life moves pretty fast — if you don't stop and bean around once in a while, you could miss it.
 seasonalFortune: A season of smoke rising from three burners at once, bread torn before the yogurt is whisked, chili oil drifting through rooms its cook has already left.
-fortuneMost: Pick a burner, kill the other two. The smoke alarm is one minute out and you've forgotten what's on each pan.
-fortuneHigh: Throw your phone in a drawer for an hour. Whoever needs you will still need you; the chili oil isn't going anywhere.
-fortuneMid: Start with item three. The first two were warm-ups disguised as priorities.
-fortuneLow: Walk back to the room you bolted out of. There's a sentence still hanging mid-air, waiting for you to finish it.
-fortuneLeast: Make one dish, eat it sitting down. The chase will be there the moment you stand up, dressed slightly differently and pretending to be new.
+fortuneMost: Three burners going, chili oil drifting through a room you've already left — that's the dinner, the trip, the whole thing, happening because you can't sit. Ride it; momentum is your native heat.
+fortuneMost2: Some days the scatter is exactly how you cover ground no one else reaches. This is one of them.
+fortuneHigh: A brighter idea lands mid-task and your whole body leans to bolt. Hide the phone for an hour — whoever needs you will still need you, and the chase keeps.
+fortuneHigh2: Pick the one that matters. The fourth message, the seventh, the first gone cold — let them wait, no guilt owed.
+fortuneMid: Not every idea needs chasing the second it arrives. Jot it and keep on; the good ones circle back.
+fortuneMid2: A plan can stay the size you made it. Finishing one thing won't smother the spark.
+fortuneLow: There's a sentence still hanging in the room you bolted from. Go back and finish it — the half-done is the one real tax on your speed, worth paying down.
+fortuneLow2: Fatigue is landing and you're right not to argue. Let the unfinished thing keep till morning; you come back sharper for the rest.
+fortuneLeast: Make one dish and eat it sitting down. The chase waits at the table's edge in fresh clothes, pretending it's urgent — it isn't.
+fortuneLeast2: A still day is coming to find you, the kind where nothing pivots. Let it land.
 facetMostTitle: The Unwatched Fire
 facetMost: You start three things in an afternoon and chase the next blister before the first finishes.
 facetHighTitle: Pita Torn Jagged

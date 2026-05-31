@@ -7,11 +7,16 @@ trait: otherworldly
 dish: Smoked fava, twice-prepared, with bitter ash.
 quote: We are made of bean stuff.
 seasonalFortune: A season for tongues that read smoke. The twice-prepared bean lives at the edge of two fires, and those who carry its temperament drift through rooms half-listening to what no one else has said.
-fortuneMost: Follow the strange thought four blocks past the streetlight you'd usually turn at. Whatever is waiting there has not been waiting for anyone else.
-fortuneHigh: Pocket one thing from the long walk — a leaf, a receipt, a small stone. Hand it to the friend whose email arrives out of nowhere; they'll know what they were given.
-fortuneMid: Write the strange report in plain weekday sentences. The strange thing survives ordinary grammar; vague mysticism kills it on the page.
-fortuneLow: The air in the office is just air. Stop scanning it for omens and drink the lukewarm coffee like a civilian.
-fortuneLeast: For the next meeting, use everyone else's vocabulary, word-for-word. Your dialect can come back out after lunch.
+fortuneMost: A strange thought is towing you past the corner you always turn at. Follow it — whatever waits down that street has been waiting for no one but you.
+fortuneMost2: There's a question nobody thought to ask, the one they actually meant, and you can see it plainly. Answer that one; the others walk right through what you read.
+fortuneHigh: Somewhere on the long walk home you'll come across an odd small thing meant for exactly one friend. Carry it to them. They'll know what they've been handed.
+fortuneHigh2: Take the road past where everyone else turns back — that's where the luck is this time. You'll come home with something genuinely new, and that's the work, not a delay.
+fortuneMid: Plain sentences won't kill the strange thing; the fog of mysticism around it will. Set it down in ordinary words and let someone else use it.
+fortuneMid2: The insight is real, and untranslated it dies with you. Hand it over in words a stranger could hold.
+fortuneLow: Not every shift in the air is a front rolling in. Sometimes wind is only wind. The ordinary can stay ordinary a while, plain as that leaves the hours.
+fortuneLow2: You're reading omens into an hour that hasn't got any. Take it at face value — a plain hour is allowed to mean only what it says.
+fortuneLeast: Borrow the plain words everyone else uses, and be understood on the first pass. Your own dialect keeps; it always comes back.
+fortuneLeast2: A day lived at one fire instead of two. You answer in the words the question arrived in, and there's a rest in it you didn't expect.
 facetMostTitle: Where the Second Fire Begins
 facetMost: You answer questions that were not asked and the asker recognises the answer anyway.
 facetHighTitle: Smoke, the Long Way Home

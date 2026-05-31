@@ -7,11 +7,16 @@ trait: scrupulous
 dish: Pan-fried kidney bean cakes with red miso, sake, and sesame.
 quote: Moralising and bean are two arts that seldom go together.
 seasonalFortune: A season of red miso deepening in the pan — verdicts cure slowly, and the household keeps its scorched edges in plain view, unhidden, unsoftened.
-fortuneMost: Send the group the sentence they've been dodging. No question mark, no softener.
-fortuneHigh: One word will do. "No" lands harder than the paragraph you drafted.
-fortuneMid: When the conversation slides into something you can't stand by, leave the room or change the subject — don't pretend you missed it.
-fortuneLow: Pour the second glass and stay out of it. Not every bad plan is yours to interrupt.
-fortuneLeast: Watch someone else do the judging. Their criteria is sharper than yours this week.
+fortuneMost: Red miso deepening in the pan, verdicts curing slow. You'll say the sentence everyone's been circling for weeks — no question mark, no softener, just the thing.
+fortuneMost2: The debt paid back the same week, exact; the apology given whole when one is owed. People who've never said so trust your ledger.
+fortuneHigh: One word will do. "No" lands cleaner than the careful paragraph you built around it.
+fortuneHigh2: A story turns mean and your fork goes down mid-sentence. That pause is heard.
+fortuneMid: When the talk slides somewhere you can't stand behind, change its course rather than pretend you missed it.
+fortuneMid2: Clock the small wrong, file it, lend more carefully next time, and never say a word. Weighing isn't the same as pronouncing.
+fortuneLow: Pour the second glass and stay out of it. Not every shaky plan is yours to flag, even though leaving it unflagged will itch all night.
+fortuneLow2: Let a friend's wobbly plan run its course. Some things you only learn by watching how they set by morning.
+fortuneLeast: Let someone else keep the scorecard this round. The bent corner was probably just a coffee ring.
+fortuneLeast2: Hold a looser standard for the one across from you. The grace you give yourself can stretch to cover them too — though stretching it that far won't come easy.
 facetMostTitle: Sake to Lacquer
 facetMost: You answer a late text the day it arrives, naming the thing the group has been politely circling for weeks.
 facetHighTitle: Sesame Catching on Iron

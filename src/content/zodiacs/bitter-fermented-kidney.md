@@ -7,11 +7,16 @@ trait: intense
 dish: Doenjang Jjigae - red beans with bitter greens.
 quote: Beware the bean who is quiet in a crisis.
 seasonalFortune: The crock has been dark a long season. Bitter greens darken in the paste; what was sealed begins to press at the lid, asking to be tasted.
-fortuneMost: Tell one person the whole of it, start to finish, in one sitting. The pressure has cured; uncrock it before the seal goes.
-fortuneHigh: The version you've been showing is the dinner-party one. Hand the unedited version to whoever is still up after the rest have gone to bed.
-fortuneMid: Don't explain it. Walk in carrying it and let the temperature speak.
-fortuneLow: Back away from the door. What you'd say through it now lands at three times the weight you meant.
-fortuneLeast: Shrink in the doorway. The weather you're tracking in doesn't belong to this kitchen.
+fortuneMost: It's cured. Tell one person the whole of it, start to finish, in one sitting — the seal won't hold much longer.
+fortuneMost2: The thing you've been darkening alone is good and done. Hand it over whole; it arrives undiluted, the way you made it.
+fortuneHigh: You've been offering the polished version. Give the unedited truth to whoever's still there once the others have gone home.
+fortuneHigh2: No performance needed. Walk in quiet and the gathering tilts toward you anyway, the way a meal leans toward the dish that took longest.
+fortuneMid: Skip the explanation. Carry it in and let the weight you bring do the speaking.
+fortuneMid2: Hold the day's weight at the jaw if you must — but know you're holding it. Tension carried is still tension, not rest.
+fortuneLow: Step back from the door. What you'd say through it right now lands at three times the weight you mean, and there's no pulling it back.
+fortuneLow2: Not everything needs to deepen in the dark. Stir it once, serve it, let the small thing stay small — even when the instinct is to seal it up.
+fortuneLeast: A feeling can move through you the way weather moves through an open window — felt, then gone, nothing stained. Holding nothing will feel strange; let it.
+fortuneLeast2: The mood you'd carry in isn't anyone else's to inherit. Set it down at the threshold; putting it down isn't the same as losing it.
 facetMostTitle: Uncrocked at Last
 facetMost: You hand someone the thing you've been darkening alone, and let them taste it whole.
 facetHighTitle: The Stew That Took Longest

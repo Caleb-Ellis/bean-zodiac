@@ -7,11 +7,16 @@ trait: meticulous
 dish: Fagioli al limone con capperi - Italian cannellini beans pan-fried with capers, garlic, and lemon zest.
 quote: For every bean, there is a season, and a proper form.
 seasonalFortune: Lemon zest keeps in a clean jar; capers hold in their brine. A cannellini life runs on small inventories — each thing named, weighed, set in its row.
-fortuneMost: Check the seam no one else checks. That's the one that splits when nobody's looking — get there first and the rest of the week stays whole.
-fortuneHigh: Re-read it. Pass one missed the line; pass two is the price of admission.
-fortuneMid: One drawer is yours, one isn't. Fix yours and stop reaching across.
-fortuneLow: Ship the draft with thumbprints. A polish job will scream "took six hours."
-fortuneLeast: They've stopped sending you things to vet. Don't ask why; the silence is the answer.
+fortuneMost: The seam no one thinks to check is the one that splits when nobody's looking — and you'll get there first. The whole thing holds because of the part nobody saw you tend.
+fortuneMost2: One more pass and you'll find the small wrong thing the first look slid past. That catch is the kind only you make.
+fortuneHigh: A thing sitting a degree off catches your eye as you pass, and you set it true without breaking stride.
+fortuneHigh2: Wipe the rim before you hand it over. The care no one had to ask for is the care they remember.
+fortuneMid: One row of capers is yours to keep in order; the next is not. Square your own and resist reaching across.
+fortuneMid2: Some seams aren't yours to mend. The lesson the other person needs is in the looking, not your fix.
+fortuneLow: Hand it over with the thumbprints still on it. The polish would have cost more than the flaw ever could.
+fortuneLow2: Move before the plan is fully drawn. It'll go against everything in you, and the day will land fine anyway — that unspent hour is yours to keep.
+fortuneLeast: A meal arrives loud and mismatched, nothing squared, still warm, and nobody's counting the crooked edges. The wince it gives you fades faster than you'd think.
+fortuneLeast2: Host on momentum, plates landing as they're ready. The unmatched corners are where people loosen — leaving them will itch you all evening, and it's worth the itch.
 facetMostTitle: The Unbroken Ribbon
 facetMost: You finish your own work by checking the seam no one else will think to look at.
 facetHighTitle: Oil Wiped From the Rim

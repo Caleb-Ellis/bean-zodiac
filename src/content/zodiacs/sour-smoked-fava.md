@@ -7,11 +7,16 @@ trait: biting
 dish: Bessara - Moroccan smoked fava bean purée with harissa, cumin, and preserved lemon
 quote: If you can't stand the bean, get out of the kitchen.
 seasonalFortune: Smoke clings to the mortar long after the pestle stills. Preserved lemon darkens; cumin cracks; harissa waits in the corner of the bowl for whoever stirs first.
-fortuneMost: Name the thing on the table. The meeting after this one will be twelve minutes shorter and you'll have done that.
-fortuneHigh: Say it once. Saying it twice is how an edge turns into a grudge — yours, not theirs.
-fortuneMid: Sleep on the email. The morning version keeps the teeth and loses the spit.
-fortuneLow: Your next sharp catch will be correct and pointless. Pay the cost with a question instead of an apology — apologies look like you didn't mean it.
-fortuneLeast: People have started handing you the edited draft. Ask for the ugly one this week, and mean it when you ask.
+fortuneMost: The thing everyone's circling has a name, and naming it is the whole point. The fresher air after is worth where it lands.
+fortuneMost2: Ask them, evenly, what they meant by that. Harissa doesn't shout to be felt.
+fortuneHigh: Once is enough. The second pass is how an edge turns into a grudge, and the grudge is yours, not theirs.
+fortuneHigh2: A clean, short answer is yours to give. Whoever wanted softening can find the cushion elsewhere; you were never the place for it.
+fortuneMid: A hard sentence keeps better overnight. The slower version holds the teeth and loses the spit.
+fortuneMid2: Ask the question the others rehearsed and abandoned, then go quiet. The bite needs no flourish after it.
+fortuneLow: The next sharp catch will be right and useless both. Held back it chafes; bitten off it just looks like you didn't mean it.
+fortuneLow2: Someone across from you is already carrying a bruise. Round the corner off the remark before it leaves you — people bring their tender parts to whoever doesn't press them.
+fortuneLeast: They've been handing you the edited version, having learned what the ugly one costs. Ask for the ugly one back. You've both missed the bite.
+fortuneLeast2: Let the unkind remark go by, and watch your luck hold for the letting.
 facetMostTitle: Harissa at the Rim
 facetMost: You name the thing the table has been circling — and let the name sit where it landed.
 facetHighTitle: Cumin Under the Pestle

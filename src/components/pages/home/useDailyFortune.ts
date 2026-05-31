@@ -191,7 +191,7 @@ export function useDailyFortune(
     setTimeout(() => {
       const newScore = score === v ? 0 : v;
       const newDailyText = fortuneZodiac
-        ? getDailyText(fortuneZodiac, qualityId, newScore)
+        ? getDailyText(fortuneZodiac, qualityId, newScore, date)
         : null;
       useStore.getState().updateFortuneEntry(localDateStr, {
         score: newScore,
@@ -214,7 +214,7 @@ export function useDailyFortune(
     if (!fortuneZodiac) return;
     setScoringOut(true);
     setTimeout(() => {
-      const newDailyText = getDailyText(fortuneZodiac, answerQuality, 1);
+      const newDailyText = getDailyText(fortuneZodiac, answerQuality, 1, date);
       const isRorschach = variant === "rorschach";
       const newAnswerText = isRorschach
         ? null

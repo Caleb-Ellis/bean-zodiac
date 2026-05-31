@@ -7,11 +7,16 @@ trait: sociable
 dish: Leblebi - Tunisian roasted chickpeas in spiced broth with harissa and cumin.
 quote: No bean is an island.
 seasonalFortune: A season for the long simmer. Harissa deepens in company; the chickpea grows generous in spiced broth, and rooms thicken around those who stay near the pot.
-fortuneMost: Throw a weeknight dinner on three hours' notice. The people who come are the address book worth keeping; the rest of it is paperwork.
-fortuneHigh: On the walk home, ask the question you'd usually save for the third drink. You're already three drinks in by vibe.
-fortuneMid: Burn through the small talk in two minutes. Whatever question comes next is the actual evening.
-fortuneLow: That friendship on reflex needs a verdict. Book a real dinner or stop sending heart reacts; the limbo is the disrespect.
-fortuneLeast: Leave the unreads sealed another week. The silence is doing structural work the group chat was undoing.
+fortuneMost: Throw the door open on no notice. Whoever shows up is exactly the crowd worth keeping the broth warm for.
+fortuneMost2: Watch how fast the half-stranger pulled into the circle turns into a friend.
+fortuneHigh: A shallow night deepens the second you ask the realer question. The evening was waiting on you, not the other way around.
+fortuneHigh2: There's a spark that won't keep. Make the plan while it's still warm.
+fortuneMid: One real question past the small talk and the good evening starts.
+fortuneMid2: A short, plain hello reopens more than its size suggests. Out it goes, and back comes something.
+fortuneLow: A friendship left half-warm deserves a verdict — make the real plan or let it rest. Choosing will feel colder than drifting, and it's the kinder thing.
+fortuneLow2: Pick a few and go deep. Spread across everyone, you miss the one who needed you at three a.m.
+fortuneLeast: Let the unread messages sit. The quiet is rebuilding something the constant chatter wears thin, even when the silence feels like neglect.
+fortuneLeast2: No reply is owed by return.
 facetMostTitle: The Broth as Invitation
 facetMost: You host on a Tuesday for no reason, and the small apartment is suddenly the warmest room in the building.
 facetHighTitle: Harissa at the Door

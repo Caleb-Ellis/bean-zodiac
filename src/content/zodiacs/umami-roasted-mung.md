@@ -7,11 +7,16 @@ trait: melancholy
 dish: Roasted mung beans with fish sauce, lime leaves, and dried chilli.
 quote: Sadness is but a bean of the wall beside the window, through which your joy shall look out.
 seasonalFortune: A season that roasts slowly and salts deeply. Fish sauce darkens in the pan; lime leaves stiffen as they cure. Sweetness, when it arrives, arrives late and brown.
-fortuneMost: Reread the old messages, all the way through, on purpose. The grief was going to ambush you mid-week anyway; let it have the appointment, in the chair you chose.
-fortuneHigh: Keep the chipped bowl. A kitchen with nothing chipped in it belongs to no one.
-fortuneMid: When the song comes on, don't skip it. Three minutes of weather is cheaper than a week of low pressure.
-fortuneLow: Take the visit at face value. The person at the door isn't carrying what an earlier visitor was carrying; meet whoever is actually there.
-fortuneLeast: Buy the new pen. The dead one in the drawer has been a metaphor long enough.
+fortuneMost: Sit with the grief on purpose, in the chair you chose. It was going to find you sideways anyway — better it keeps the appointment.
+fortuneMost2: Comb back through the old letters slowly, the way you'd walk a shoreline at low tide for what the water gave back. That looking is its own kind of keeping.
+fortuneHigh: Keep the chipped bowl. A kitchen with nothing worn in it belongs to no one.
+fortuneHigh2: The dead pen, the ticket stub, the cracked bowl — ballast against a room that forgets too easily. Keep them. Sweetness, when it comes for you, arrives late and brown.
+fortuneMid: Don't skip the song when it catches you in the doorway. A few minutes of weather is cheaper than hauling the low pressure all week.
+fortuneMid2: You feel things at a depth most people never reach. When you're here, you're wholly here — the heaviness is the price of that, not a flaw in it.
+fortuneLow: Whoever's at the door isn't carrying what an earlier visitor did. Meet the person actually there — though setting down the old weather to do it will cost you something.
+fortuneLow2: Let now stand on its own, unmeasured against any older version of anyone. The friend in front of you deserves a clean look, even if a clean look feels strangely empty.
+fortuneLeast: Buy the new pen. The dead one's been a metaphor long enough — and yes, the fresh one will feel like it remembers nothing.
+fortuneLeast2: Make the plan and let it arrive clean, nothing from before clinging to it. A day allowed to be only itself is a relief, even if its lightness reads, at first, as forgetting.
 facetMostTitle: Fish Sauce, Nearly Black
 facetMost: You reread old messages on purpose, slowly, the way someone walks a shoreline at low tide looking for what the water gave back.
 facetHighTitle: Lime Leaves From Spring

@@ -7,11 +7,16 @@ trait: attentive
 dish: Roasted edamame with nori salt, sesame, and yuzu zest.
 quote: To pay bean attention, this is our endless and proper work.
 seasonalFortune: "A season that hums beneath the husk. Heat works slowly into the pod; nothing finished announces itself, and the small green kernel keeps its own counsel under the salt."
-fortuneMost: Open the document one more morning before you send it. The right word is waiting on the fourth pass.
-fortuneHigh: Don't fill their pause. What they say after it is the actual message; everything before was the wrapper.
-fortuneMid: Something on your desk has been moved an inch. Someone was in here and wanted you to clock it without asking.
-fortuneLow: If it's important it will come back. Let the first ping go and answer the second.
-fortuneLeast: Talk over the slow one in the meeting. They'll finish their thought a week later, alone, in a long message sent after hours, and you'll feel it then.
+fortuneMost: Go over it once more before you call it done. The detail that makes it arrives on the pass everyone else skips, and it's yours to catch.
+fortuneMost2: The word doing all the work, the thing moved an inch out on a shelf — you see them. Good luck is gathering around that noticing; follow where it points.
+fortuneHigh: Don't fill the pause. What comes after it is the real thing; everything before was the wrapper.
+fortuneHigh2: Heat works slowly into the pod. What matters in someone surfaces the same way — only if you stay long enough to let it.
+fortuneMid: Something small is out of place and you feel it before you can name it. Let that quiet signal count; it's rarely wrong.
+fortuneMid2: Wait out the silence a friend almost filled. The thought on the far side of it is usually worth the wait.
+fortuneLow: If it matters, it comes back around. You can let a thing pass the first time without losing it — though letting go will feel, to you, like missing it.
+fortuneLow2: Not every flicker earns the full beam. Let some go unread; the cost is the small unease of not having looked, and you can carry that.
+fortuneLeast: Three things want all of you at once, and split three ways each gets a thinner version. Pick one to be wholly present for. The others go untended; that's the trade.
+fortuneLeast2: Give the slow ones their beat, even when the waiting frays you. Cut a slow thinker short and they finish it later, alone — and you feel that draught even unseen.
 facetMostTitle: Yuzu, One Drop
 facetMost: You return to a sentence for the fourth morning running, and only now does the wording arrive.
 facetHighTitle: Sesame in the Seam

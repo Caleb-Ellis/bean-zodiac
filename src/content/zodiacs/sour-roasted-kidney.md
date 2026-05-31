@@ -7,11 +7,16 @@ trait: fair
 dish: Rajma tikki - pan-seared kidney bean cakes with amchur and mint chutney
 quote: Injustice anywhere is a threat to bean everywhere.
 seasonalFortune: A season for evened pans. The amchur falls heavier on one tikki than the next, and the cook who notices spends the afternoon redistributing what the oil already decided.
-fortuneMost: Audit the bill in front of everyone. They'll groan; one will text you a thank-you that night.
-fortuneHigh: The quiet one has been getting the worst chair for three meetings. Move them, out loud, before the agenda starts.
-fortuneMid: Someone proposes splitting the difference. Refuse — name the actual unfairness in one sentence and let the proposal die.
-fortuneLow: Your mental ledger has been open all week. Shut it for the evening; the entries will still be there in the morning, and most won't matter.
-fortuneLeast: Overpay at the counter and walk on. Fairness with a stopwatch on it is just accounting in disguise.
+fortuneMost: The eye that evens the pan is the luck of your turn. While everyone waves it through, you'll catch the charge that shouldn't be there — and someone goes home glad you did.
+fortuneMost2: One person keeps drawing the worst seat. Swap it out loud before anyone sits, and say why.
+fortuneHigh: Someone offers to split the difference. Name the actual unfairness in one sentence and let the easy fix die.
+fortuneHigh2: The quiet stranger steered gently into the loud one's orbit, you already stepping back before either notices — justice worn as hospitality.
+fortuneMid: Round the obvious uneven bits and let the rest fall even. Not every pinch of amchur needs measuring.
+fortuneMid2: When a thing can't be weighed exactly, the first fair answer usually holds. Let it.
+fortuneLow: Most of the entries won't matter once you've slept on them — so shut the ledger and leave it shut a while, even if keeping it open feels safer.
+fortuneLow2: Settle the small unevenness and quit carrying it. Letting go grates on you, yet the interest it accrues is only ever paid by you.
+fortuneLeast: Overpay at the counter and walk on. Loosening the stopwatch costs you your sense of square — fairness timed that close is only accounting in disguise.
+fortuneLeast2: Some accounts are better left unkept — give the larger half on impulse and don't open the ledger behind you, however much the unkept account unsettles you.
 facetMostTitle: Amchur by the Pinch
 facetMost: When the bill arrives you read it line by line, and the table waits while you find the rupee that was charged twice.
 facetHighTitle: Chutney to the Crust

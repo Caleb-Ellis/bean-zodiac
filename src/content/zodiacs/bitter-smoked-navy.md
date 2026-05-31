@@ -7,11 +7,16 @@ trait: ominous
 dish: Smoked navy bean with bitter juniper and char.
 quote: It was a dark and beany night.
 seasonalFortune: Juniper smoke drifts low through the bitter months; the char beneath the kettle remembers what the woodpile has not yet admitted.
-fortuneMost: Pull one person into the conference room and say it in three sentences. The rest will get there from the temperature change.
-fortuneHigh: Name the date and the failure mode out loud at the next standup. "Bad feeling" is being filed as weather; "the vendor renewal in six weeks" is filed as work.
-fortuneMid: Hand them the next concrete step before the forecast. They'll do the step; they would have argued the forecast for an hour.
-fortuneLow: Skip the prediction this round. Everyone in the kitchen already saw the cloud; one more voice naming it is just noise.
-fortuneLeast: Pour the wine, ask about the tomatoes, let the storm pass through unannotated. The dinner party did not order a reading.
+fortuneMost: The crack is coming, and you'll see it long before anyone else lifts their head. Pull one person aside and say it plainly — the rest will feel the air change soon enough.
+fortuneMost2: That knot under your ribs is rarely wrong. Name the thing going dark while there's still room to move, not after it lands on schedule.
+fortuneHigh: A bad feeling left vague gets filed as mood and waved off. Name the actual failure, concretely, and the warning becomes something a person can act on.
+fortuneHigh2: You can hear the sentence they haven't said yet. Say it back to them while it can still change the ending instead of just confirming it.
+fortuneMid: Hand someone the next step before you hand them the prophecy. They'll take the step; they'd only have argued the omen and gone nowhere.
+fortuneMid2: Flag the danger without darkening the whole evening. One clear caution, then let people carry it — the dread doesn't have to ride along.
+fortuneLow: Everyone already sees what's coming, and one more voice naming it is just noise. Save the warning for the trouble only you can spot, quiet as that leaves you for now.
+fortuneLow2: Take the stranger at their word. Not every coat hides a knife — some people are simply who they appear to be, however slow you are to trust it.
+fortuneLeast: Pour the wine, ask after the garden, let the evening go by unannotated. Nobody here ordered a reading, and biting back the foreboding leaves you uneasy and them lighter.
+fortuneLeast2: Curtains open, doors unlatched, the night just a night. A rest in not bracing for once, strange as standing down feels.
 facetMostTitle: Char on the Tongue
 facetMost: You wake at four with a knot under the ribs, and by morning the call has come.
 facetHighTitle: Smoke After the Fire

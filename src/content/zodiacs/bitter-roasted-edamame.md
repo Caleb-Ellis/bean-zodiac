@@ -7,11 +7,16 @@ trait: witty
 dish: Roasted edamame with bitter lemon zest and smoked paprika.
 quote: A bean is a terrible thing to waste.
 seasonalFortune: A season of warm smoke threaded with cold zest. The air rewards the remark that arrives blistered at the edges and salted at the center, never the one shouted plain.
-fortuneMost: Make the toast in one sentence. The longer version is where the wit goes to look generous and lands as showing off.
-fortuneHigh: Someone will quote you back to yourself within the week. Pick which line that's going to be, then say it on purpose; let the accident be a choice.
-fortuneMid: Cut the angle on the next reply. Just say the thing — the joke was the warm-up, not the act.
-fortuneLow: Say it flat before dinner. The clever version is being read as a closed door, and you knew it on the second draft.
-fortuneLeast: Tell them the boring true thing. The punchline you'd swap in is the part they'll remember as evasion.
+fortuneMost: One salted sentence carries the toast. The long version is where wit goes to show off, and yours has nothing to prove.
+fortuneMost2: A line of yours is about to get quoted back across a whole room, blistered just right. The laugh lands — good news, plain and simple.
+fortuneHigh: Say the line you know will get repeated, and say it on purpose. The accident you chose cuts cleaner than the one you stumbled into.
+fortuneHigh2: At the edge of the crowd, the shortest thing you say pulls the longest laugh. That corner has always been yours.
+fortuneMid: The plain thing, no angle on it — the joke was always the warm-up, never the act.
+fortuneMid2: One wry aside on an honest answer is plenty. Zest works thin; piled on, it buries the whole dish.
+fortuneLow: The clever version is landing as a shut door, and some part of you knew it would. Say it flat — though flat leaves you standing in the open.
+fortuneLow2: Pay what's owed and leave the joke on the counter. Some moments don't want salting, much as your hand reaches for the lemon.
+fortuneLeast: Out on the road, a stranger asks how you really are. The punchline you'd reach for reads as a dodge however well it's thrown — give the dull true answer instead, costly as that feels.
+fortuneLeast2: The angle is a door you can shut before anyone sees inside. Leave it open this time and answer straight, even knowing it puts you in plain view.
 facetMostTitle: The Pod Already Cracked
 facetMost: You draft the line, salt it, send it — the page is open before anyone has thought to read.
 facetHighTitle: Zest at the Rim

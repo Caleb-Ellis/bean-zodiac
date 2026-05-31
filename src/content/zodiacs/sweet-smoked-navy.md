@@ -7,11 +7,16 @@ trait: lingering
 dish: Boston baked beans - navy beans slow-cooked with smoked salt pork, molasses, and brown sugar.
 quote: Some beans linger.
 seasonalFortune: Molasses settles slowly in a covered pot, and the smoke it took on Saturday keeps surfacing through Tuesday's bread. The season holds what was sweetened long after the hearth has cooled.
-fortuneMost: Lend the book you love to someone who won't return it. The right person reading it is the whole point.
-fortuneHigh: Write down the principle you keep quoting and post it on the fridge. Make it official; you've earned it.
-fortuneMid: Answer the email that has gone stale in your drafts. They've been keeping the seat warm.
-fortuneLow: Show up to the same standing thing again this week. Reliability is the spell; don't break it for novelty.
-fortuneLeast: End the loyalty that's gone cold. The next person can't sit in the chair while you're still in it.
+fortuneMost: A small kind thing you say will outlast you, quoted back years on by someone whose voice goes a little tight. The smoke a pot took on Saturday still surfaces in Tuesday's bread.
+fortuneMost2: Lend the book you love to the one who won't return it. The right person carrying it forward was always the whole point.
+fortuneHigh: The lines you mean have a way of outliving the saying of them. Write down the one you keep returning to and make it yours.
+fortuneHigh2: Answer the thread that's gone cold and they'll pick it up without missing a beat. It never really broke — molasses keeps under the lid.
+fortuneMid: Reply to the thing that went stale in your drafts. They've kept the seat warm longer than you'd guess.
+fortuneMid2: Leave a trace on purpose — a book turned over, a note tucked behind. Someone finds it weeks on and feels held by it.
+fortuneLow: Turn up to the standing thing once more. Your reliability is the spell; don't trade it for novelty, even when sameness starts to chafe.
+fortuneLow2: Leave the gathering clean and carry nothing home. Some evenings are kinder let go of by morning, hard as it is for you to set anything down.
+fortuneLeast: End the loyalty that's gone cold in the pot. The next person can't take the chair while you're still sitting in it from habit — and standing up will cost you more than you'd like to admit.
+fortuneLeast2: Let the weather move through without staining — yesterday's grief, yesterday's joy, the same clear sky after. Letting it pass will feel like a small betrayal of your nature, and you can spare yourself the keeping.
 facetMostTitle: Brown Sugar on the Rim
 facetMost: You leave traces in rooms — a book turned over, a cup half-drained — and people find them weeks later.
 facetHighTitle: The Salt Pork After the Pot

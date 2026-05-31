@@ -7,11 +7,16 @@ trait: compassionate
 dish: Rajma kheer — kidney beans boiled until tender and simmered in sweetened milk with cardamom and rose water.
 quote: If you want others to be happy, practise bean. If you want to be happy, practise bean.
 seasonalFortune: A year that simmers low and long. Sweetness gathers in the pot rather than the bowl, and the cardamom keeps its post.
-fortuneMost: Cook the long-simmering thing for the friend going through it this weekend, bring it in a container they don't have to return, and stay an hour after you drop it off without asking whether they want company.
-fortuneHigh: When the colleague says "I'm fine," ask once more, more quietly, and then sit in the silence for the full count of ten before either of you tries to fill it.
-fortuneMid: Reply to the third text in the thread — the one that's actually the message — and don't waste warmth on the two that were clearing throats.
-fortuneLow: A weight has been quietly slid onto your shoulder that nobody officially handed over; name it at the next meal you share, kindly and exactly, and pass it back across the table where it came from.
-fortuneLeast: Hold the empty bowl out this week to the friend who keeps asking, accept the meal they cook for you without garnish or apology, and let them have the joy you've been hoarding for yourself.
+fortuneMost: Cook the slow thing for the one going through it, in a dish they needn't return, and stay — without asking whether they wanted company.
+fortuneMost2: Sweetness gathers in the pot before it ever reaches a bowl, and someone bruised this week is about to be fed by you. Find the one nobody's sitting beside and take the next chair.
+fortuneHigh: They said "I'm fine." Ask once more, quieter, and let the silence sit before either of you fills it — your shoulder is the whole sentence.
+fortuneHigh2: You catch the one going quiet at the edge and slide over without making a thing of it. That instinct is rarely wrong; follow it.
+fortuneMid: Answer the message under the message — the real ask — and let the throat-clearing ones pass.
+fortuneMid2: Hold the door the extra beat, ask the second question. Small attentions are real care; they were never meant to be heroic.
+fortuneLow: A weight got slid onto your side that nobody actually handed you. Name it gently and pass it back where it came from. Setting it down isn't dropping the person who carried it.
+fortuneLow2: You can walk around the ache in the room and tend your own pot for once. Not every hurt is yours to carry, however loudly your instinct insists it is.
+fortuneLeast: A friend keeps offering to cook for you. Hold the empty bowl out and let them — the joy of feeding you is one you've been quietly hoarding, and it was always theirs to have too.
+fortuneLeast2: The favour you're owed can stay owed without you forgiving it in advance. Let someone else do the reaching this time, hard as it is to wait on the other side of the bowl.
 facetMostTitle: Milk for the Bruised Bean
 facetMost: You cook for the one who arrives unannounced and set a second bowl before they ask.
 facetHighTitle: Rose Water on a Hard Week

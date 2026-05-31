@@ -7,11 +7,16 @@ trait: righteous
 dish: Bissara - Moroccan fava bean soup with lemon and cumin.
 quote: Injustice anywhere is a threat to beans everywhere.
 seasonalFortune: A season for long simmering — favas split slowly under steady heat, and lemon waits to be stirred in. What softens this month earned its softening.
-fortuneMost: Say it at the door, not by your car. The car park speech doesn't count and you know it.
-fortuneHigh: Skip the third rehearsal. The first take has the teeth; rehearsal three is where you start apologising for them.
-fortuneMid: A small unfairness at the meeting keeps tugging your sleeve. Name it before anyone packs up — the corridor version doesn't land.
-fortuneLow: Right principle, wrong week. Write it on a card, slide it under a book, return to it when the room is calm enough to hear it.
-fortuneLeast: Not every flat note is yours. Let the choir sing badly for an afternoon and drink your tea.
+fortuneMost: Said where it happened, the wrong thing lands. The version rehearsed on the walk home doesn't, and you know it.
+fortuneMost2: Sand off the flourish and the bare shape does the work. Named plain and calm, the wrong thing carries itself.
+fortuneHigh: Skip the third rehearsal. The first telling has the teeth. By the third you're apologising for them.
+fortuneHigh2: A grievance you've carried quietly is ready to be set down where it belongs. Deliver it once, level, and walk out lighter.
+fortuneMid: A small unfairness tugs your sleeve. Name it before everyone scatters; the later version never lands the same.
+fortuneMid2: Square the small ledger and you'll sleep. Overpay the favour, knock to apologise, settle it before the pot goes cold.
+fortuneLow: Right principle, wrong moment. Set it aside until the air is calm enough to hear it. Waiting will feel like letting it slide. It isn't.
+fortuneLow2: A friend can be let off the hook before they finish explaining. Not every account needs settling.
+fortuneLeast: Not every flat note is yours to fix. Let the off thing stay off. The silence will itch; your peace stays whole.
+fortuneLeast2: Forget who owes which apology and the kitchen stays warm. Set the tally down — being owed was never warming anyone.
 facetMostTitle: Cumin Before the First Taste
 facetMost: You name the wrong thing in the room before anyone has set down their spoon.
 facetHighTitle: Lemon at the Exact Moment

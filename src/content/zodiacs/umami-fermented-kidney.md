@@ -7,11 +7,16 @@ trait: conflicted
 dish: Kimchi jjigae - kidney bean and kimchi stew with pork belly, tofu, and sesame oil.
 quote: The heart has its bean that reason knows not of.
 seasonalFortune: Kimchi and brine ripen side by side in the crock; sourness and depth lengthen together, neither yielding, and the lid holds both.
-fortuneMost: Cook a meal with two sauces that don't agree. Serve them side by side; refuse to choose at the table.
-fortuneHigh: Write both letters. Burn one in the sink. The right one became obvious the moment the match struck.
-fortuneMid: Carry the contradiction into the day without resolving it. By evening it will have rearranged itself.
-fortuneLow: Pick the option that costs less to be wrong about. Save your loyalty for the actual question.
-fortuneLeast: Decide before lunch. Whichever you pick, defend it through dinner.
+fortuneMost: Two people you love are both right, and you can pour for each without ever calling the kinder.
+fortuneMost2: The sour and the deep ripen side by side in you, neither giving way, and the lid holds both. Some things are truer held together than picked apart.
+fortuneHigh: You lay out both sides so well that each walks off sure you're secretly theirs. Tell each the half of the other they're missing — you're the bridge, not a bank.
+fortuneHigh2: Stay in the contradiction a while longer before you force the lid down. Left alone, it tends to rearrange itself into something clearer.
+fortuneMid: The call sits unmade while everyone around you quietly picks for themselves. Say one small decision out loud, so seeing-both-sides stops wearing the shape of not turning up.
+fortuneMid2: You keep stirring without choosing a side, and that holds for a while. Name where you actually lean before someone reads the silence as absence.
+fortuneLow: Pick the option that costs least to be wrong about, and save the loyalty for the question that earns it. Not every choice deserves the long deliberation.
+fortuneLow2: When the unfairness is small, answer plainly and walk on. Some things don't earn the agonizing; let them go light.
+fortuneLeast: The wheel rewards the clean line this turn. Decide and stand behind it — you'll mourn the sides you didn't take, and one straight cut still beats seeing all of them.
+fortuneLeast2: When one of them is plainly in the right, just say so. You don't owe every quarrel a perfect balance of sympathy.
 facetMostTitle: Kimchi Beside Tofu
 facetMost: Two old friends across the table, both right — you pour for each and refuse to call the kinder one.
 facetHighTitle: The Soft Tofu

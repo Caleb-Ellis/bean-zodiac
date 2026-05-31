@@ -7,11 +7,16 @@ trait: dogged
 dish: Cassoulet - French slow-cooked navy beans with smoked duck confit, Toulouse sausage, and piment d'Espelette.
 quote: It's not whether you get knocked down, it's whether you bean up.
 seasonalFortune: Smoke settles into what stays still. The pot holds its low fire through the long afternoon; a life shaped this way accrues by refusing to lift the lid.
-fortuneMost: One more hour. Boots on, lid down, no negotiating — the cassoulet was always finished by the people who didn't ask if it was done yet.
-fortuneHigh: That door you keep shoulder-checking has had a new lock since spring. Try the handle first; you may be the obstacle now.
-fortuneMid: Light a match over the line item you've owed yourself for as long as you can remember. Pay it or burn it — either way it's off the books before the evening is out.
-fortuneLow: The vow is older than the reason. Say it out loud once and see if it still smells like food or just like smoke.
-fortuneLeast: Close the ledger no one else remembers. The fire's been out for a while; you've been keeping it warm with your breath.
+fortuneMost: Cassoulet only rewards the cook who holds the low fire through the whole long afternoon — cold days, no audience, lid down. That's you, and one more hour finishes what the lid-lifters never will.
+fortuneMost2: The slow ugly work everyone wrote off as abandoned is yours to carry through. By the time they circle back, it'll be shaped exactly the way you called it.
+fortuneHigh: The door you keep shoulder-checking may already be unlatched. Try the handle before you push harder — sometimes the obstacle is the pushing.
+fortuneHigh2: A small debt has been open on your books a long while. Settle it, however old the ledger; you'll work lighter for it.
+fortuneMid: Pausing to look isn't quitting. Hear out the friend who says the plan was wrong, and adjust the next stage.
+fortuneMid2: Tired, sore, working past the hour the place empties — that's the shape of you. Just check the push still serves the thing and not only the habit.
+fortuneLow: Some vows outlive the reason they were made. Say the old one aloud and ask, honestly, whether it still feeds you or just smolders.
+fortuneLow2: Not every start is owed an ending. The half-built shelf, the half-read book — move on when the shape stops fitting.
+fortuneLeast: The pot's been simmering months for no one hungry, and the project stopped making sense around then too. Let it go cold; turning around is only sense.
+fortuneLeast2: A grudge softens in the pocket like a bean left too long. This turn favors the hand that opens — call the letting-go what it is... strength.
 facetMostTitle: Eight Hours, Still in the Pot
 facetMost: You finish what you start; the exit door does not interest you.
 facetHighTitle: Duck Fat's Long Memory

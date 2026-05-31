@@ -7,11 +7,16 @@ trait: forensic
 dish: Tostada - black beans with charred tomatillo and bitter greens.
 quote: Two things are infinite - the universe and bean stupidity; and I'm not sure about the universe.
 seasonalFortune: The season scorches at the rim and softens at the center. Tomatillos blister before they yield; bitter greens go limp under heat that knew its moment. A clean break in the tostada decides the meal.
-fortuneMost: Name the disagreement out loud. Politeness has been billing hours on this for weeks.
-fortuneHigh: Ask the small precise question that opens the room. One well-placed question saves an hour of fog.
-fortuneMid: Trust the thing your eye snagged on. The second pass is going to agree with it grumpily.
-fortuneLow: Sit on the answer for one extra round. You'll get to be right twice as loudly.
-fortuneLeast: Lose the scalpel for one conversation. Bring a warm question and ask it badly on purpose; let the other person be the one who arrives at clarity.
+fortuneMost: You see the shape under the surface — the thing everyone circles and won't touch. The clean break is yours; name it.
+fortuneMost2: The tangle splits exactly where you press. Three words and the whole sentence falls open.
+fortuneHigh: One small precise question is about to open an hour of fog. You'll know which to ask.
+fortuneHigh2: Someone lost deep in their own long version, and you the only one who can find its middle. Relief is on its way to a tired face.
+fortuneMid: Whatever your eye snagged on, it snagged for a reason. Look once more, then trust the first look.
+fortuneMid2: The wrong clause. The off note. Your attention went there before you knew why — and it's right.
+fortuneLow: Hold the answer one round longer. The clarity lands softer when they say it in their own voice instead of yours.
+fortuneLow2: A long version is coming, and a longer one behind it. Sitting through both pinches; your shortcut would have made them flinch.
+fortuneLeast: A warm clumsy question instead of the clean cut. It feels like working blind, but the answer someone reaches alone is theirs to keep.
+fortuneLeast2: Something arrives and you leave it unopened. It nags, sitting closed like that. Some shapes rearrange themselves without your knife.
 facetMostTitle: Where the Flame Drew
 facetMost: At a family dinner full of hedging, you name the disagreement nobody wanted named in a single sentence, and the carving knife pauses mid-cut.
 facetHighTitle: The Greens at the Hottest

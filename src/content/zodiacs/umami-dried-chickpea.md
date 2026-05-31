@@ -7,11 +7,16 @@ trait: substantive
 dish: Cocido madrileño - dried chickpeas slow-cooked with pork belly, chorizo, and morcilla.
 quote: The measure of a bean is the sum of its choices.
 seasonalFortune: A season that asks for the long pot. Days pass without spectacle, and weight settles into them anyway, the way pork fat surrenders to chickpeas across an unwatched afternoon.
-fortuneMost: Finish it this week. Hand it over whole or not at all.
-fortuneHigh: Reply in paragraphs. They've been waiting for the long version.
-fortuneMid: Mend the coat. The new one is worse.
-fortuneLow: Don't finish the draft now. The version waiting on the other side of a night's sleep is the better one; the rush would have undone the depth.
-fortuneLeast: Shake the hand and leave. They didn't ask for the long version.
+fortuneMost: The thing you began in winter, carry into summer. One project handed over whole outweighs three handed over half-done.
+fortuneMost2: Weight settles into the long afternoons whether anyone watches or not. People rest on that depth without registering they're doing it.
+fortuneHigh: Someone's waiting on the proper answer, not the quick one. Give them the full version — they asked you precisely because you don't serve the pot half-cooked.
+fortuneHigh2: Take the extra day the real reply needs. The wait will be forgiven; a thin answer wouldn't.
+fortuneMid: Mend the coat instead of replacing it. The thing kept and repaired holds more than the new one ever could.
+fortuneMid2: When you can't finish it right, hold the place honestly and come back to it whole.
+fortuneLow: Let the unfinished thing sleep a night. What's on the far side of rest is truer, and rushing it now would only thin it out.
+fortuneLow2: Leave while the laughter's still loud, with things left open behind you. Not every evening has to be carried to its end — though walking out unfinished will itch at you.
+fortuneLeast: Shake the hand and go. Nobody asked for the deep version, and the light answer is the honest one here, even if it feels like leaving the pot off the heat.
+fortuneLeast2: Skim the surface and move on. Some things earn nothing by being deepened, and the room you save is worth the lightness, odd as it feels in your hands.
 facetMostTitle: The Chorizo's Slow Colour
 facetMost: The work you began in winter, you carry into June; a draft nobody saw becomes the thing you set down whole.
 facetHighTitle: Morcilla Past Noticing

@@ -7,11 +7,16 @@ trait: compliant
 dish: Butter bean and maple pudding — beans boiled soft and folded into warm cream with maple syrup and a grating of nutmeg.
 quote: The bean that bends does not break.
 seasonalFortune: A season that takes whatever shape the pot offers. Butter beans soften to fit; the cream accepts what is folded in, and the yielding looks so much like generosity that nobody, including the bean, notices the difference.
-fortuneMost: Say yes generously and on purpose to the next ask that lands. The week leans on the yes-sayers; let yours be one of the ones given deliberately, not absorbed.
-fortuneHigh: Take the accommodation in stride. Quiet adjustment costs you little and gives the other person their footing back.
-fortuneMid: Name the restaurant before anyone else does. The safe middle pick was already in your pocket; the friends were waiting for someone to choose, and the someone could be you.
-fortuneLow: Say the disagreement out loud, in the room where it belongs. The version you write down later goes nowhere.
-fortuneLeast: Stand by the position even when standing alone feels expensive. Some convictions only earn their keep when the room is against them.
+fortuneMost: You fold into whatever shape is needed, and the yielding passes for grace. When the yes comes, give it on purpose — then it's actually yours to give.
+fortuneMost2: Your softness will smooth a hard hour for someone who couldn't bend today. A gift, if you chose it; a habit, if you only noticed it after.
+fortuneHigh: Someone finds their footing again because you quietly moved, and they'll never know you did.
+fortuneHigh2: The plan changed and you'd already rearranged your whole week to swallow it — silently, even from yourself. The flexing is real kindness. Just be sure you picked it.
+fortuneMid: You said yes, meant it, and tallied the cost a week too late. Feel the price in your hand before you agree, not after.
+fortuneMid2: Five people, no decision, and the answer's been in your pocket the whole time. Name it.
+fortuneLow: The disagreement belongs at the table, not rehearsed alone over the dishes after. Saying it out loud costs more than swallowing it, and it's the only version that can still land.
+fortuneLow2: You agree first and resent it quietly later, and the resentment never reaches the one who could fix it. Let the no arrive on time — it stings going out, but it's honest.
+fortuneLeast: Plant your feet and hold, even when standing alone gets expensive. Some things only prove their worth when the whole table leans the other way and you don't fold.
+fortuneLeast2: Don't soften just to ease the moment. That ease gets bought with a piece of you, and you tend to want it back. Stay whole; let the room bend instead.
 facetMostTitle: Cream Folded to the Spoon
 facetMost: Asked for your preference, you offer the one most likely to please the asker, and by the time you've said it aloud you believe it was yours all along.
 facetHighTitle: Nutmeg Where the Spoon Lands

@@ -7,11 +7,16 @@ trait: tolerant
 dish: Roasted chickpeas with Worcestershire, smoked paprika, and garlic.
 quote: In the practice of tolerance, one's bean is the best teacher.
 seasonalFortune: Smoke settles in the rafters and refuses to leave; the season widens its doorways, lets the odd guest in, asks no one their business.
-fortuneMost: Cook for nine when six are coming. Three will text from the car.
-fortuneHigh: That jacket on the chair has been there a month. Leave it; the owner will show up unannounced with a story, and the jacket is part of the story.
-fortuneMid: Reply to the unfair email this week, short and even. Letting it sit is rehearsing the resentment, not killing it.
-fortuneLow: The question they just asked is checking where the edge is. Draw it now, not the third time they cross it.
-fortuneLeast: The standing invitation has run its course. Don't renew it; the friendship survives a closed door better than a propped one held open out of habit.
+fortuneMost: Cook for more than are coming. The circle stretches around you, and an unexpected someone is on their way to fill the extra seat.
+fortuneMost2: You salt for the larger number and never mention the arithmetic. That ease is the warmth people drive a long way to sit in.
+fortuneHigh: The borrowed thing that's lingered far too long — let it linger. Its owner turns up eventually with a story, and the wait was always part of the lending.
+fortuneHigh2: A friend with difficult opinions still has a seat with you. That patience is rarer than you let on — spend it on the ones worth the smoke.
+fortuneMid: Answer the unfair charge while it's small and even. Sitting on it just rehearses the resentment; it never burns it off.
+fortuneMid2: Things gather around you untagged until claimed — jackets, books, the odd guest. Some of it is generosity. Some is clutter you've stopped seeing.
+fortuneLow: When a question is really feeling for your edge, draw the line right then, not the third time it's crossed. Naming it early will feel ungenerous. It isn't.
+fortuneLow2: You can wave a great deal through and still say the one true no. Said early it's a kindness; the version that waits comes out as resentment.
+fortuneLeast: A door held open from pure habit is allowed to close. The friendship survives that better than the propped-open version — though pulling it to will feel like a small betrayal.
+fortuneLeast2: Step back from the thing that wandered off course. The quiet after isn't coldness; it's the room you actually wanted.
 facetMostTitle: Paprika at the Edge
 facetMost: You make room without taking inventory; the circle stretches, never breaks.
 facetHighTitle: Garlic, Loud in the Pan

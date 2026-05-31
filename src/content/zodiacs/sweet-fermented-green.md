@@ -7,11 +7,16 @@ trait: whimsical
 dish: Green bean elderflower shrub — blanched green beans in a sweet drinking vinegar of fermented honey and elderflower, finished with sparkling water.
 quote: One bean that I had a long time ago.
 seasonalFortune: A season of slow bubbles and crooked sweetness. The honeyed jar works in private; what surfaces rarely arrives by the road anyone predicted.
-fortuneMost: Take the wrong bus on purpose. The shop you'll discover by stop four becomes the favourite.
-fortuneHigh: Reply to the boring work email in iambic pentameter. Nobody will say anything; someone will frame it.
-fortuneMid: Rearrange your bookshelf by colour of the verbs inside. The new neighbourhood will tell you something.
-fortuneLow: For an hour, do the dishes in the regular order, sweep the regular floor, fold the regular laundry. Boring is a flavour, and it is yours for this stretch.
-fortuneLeast: Give them the plain sentence with a smiley face. The whimsy is the punctuation; the verb is the gift.
+fortuneMost: Take the wrong bus on purpose. Something lovely is waiting around stop four that the right route would have hidden from you.
+fortuneMost2: Pour from the notebook of ideas no project will ever hold. They were never meant to be useful — that was always the point.
+fortuneHigh: A flourish nobody asked for, added to the dull thing anyway. Most won't notice; one person keeps it for years.
+fortuneHigh2: Let the sentence wander through three rooms before it lands. The people worth your time learn to wait for the door.
+fortuneMid: Reshelve the books by the colour inside them. The new order shows you something the old one was hiding.
+fortuneMid2: Answer with the second question the first one suggested, and watch the whole crowd follow you down the side road.
+fortuneLow: Plain dishes in plain order, the plain laundry folded. Ordinary is a flavour too, yours for a stretch — though it'll taste a little flat going down.
+fortuneLow2: One sentence, no detour, and let the moment move on. The straight line costs you the scenic route, and gets there anyway.
+fortuneLeast: The plain sentence, maybe a smiley after. Leave the flourish out this once, even as your hand reaches for it.
+fortuneLeast2: Name the thing by its proper name. People thank you for the shortcut, and you mourn the long way only a little.
 facetMostTitle: The Jar That Hisses Awake
 facetMost: You keep notebooks for ideas no project will ever hold, and pour from them anyway.
 facetHighTitle: Fizz Climbing Crooked

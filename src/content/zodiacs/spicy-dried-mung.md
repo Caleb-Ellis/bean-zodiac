@@ -7,11 +7,16 @@ trait: piquant
 dish: Moong dal - spiced mung bean soup with dried red chilies and mustard seed.
 quote: A spoonful of bean helps the medicine go down.
 seasonalFortune: A piquant season. The dried chili keeps its sting long after the pot has cooled, and the house that holds it learns to season lightly, taste often, speak last.
-fortuneMost: Use their name first. The hard sentence softens behind it.
-fortuneHigh: Hand the card over in person. Keep the line you'd cut.
-fortuneMid: Hand them the soup before the question. The order is the difference between care and audit, and the question keeps for the second bowl.
-fortuneLow: Send a second note, warmth only. The first arrived bare.
-fortuneLeast: Settle the small debt without naming it. The balance closes faster in the dark.
+fortuneMost: Bring the soup first, then the question they've been dodging. Lead with the warmth and the sting lands as care, not a verdict in a cardigan.
+fortuneMost2: The dried chili keeps its sting long after the pot has cooled. So does a true word, kindly said.
+fortuneHigh: Say the hard thing warm-edged and in person — both halves kept, the part that's kind and the part they'll still be turning over come morning.
+fortuneHigh2: Listen the whole way out before you ask the avoided question. The sting only works once a person feels held.
+fortuneMid: Comfort before the question. The order is the whole difference between care and an audit.
+fortuneMid2: Not every sitting needs the pointed line. Agree it's hard and let the sharper thought keep for the next bowl.
+fortuneLow: Round the corners and serve it with bread. The bare version arrives as a verdict you never meant, and gentleness here costs you only a little restraint.
+fortuneLow2: They came to be heard, not improved. Sympathize all the way and save the pointed thought, even with the fix sitting right there on your tongue.
+fortuneLeast: Settle the small thing quietly and never name the balance. It closes faster unspoken, and the urge to mark it paid is one worth swallowing.
+fortuneLeast2: Some venting wants company and nothing else. Just nod and pour another glass.
 facetMostTitle: Mustard Seed in Hot Oil
 facetMost: You walk into a room and the talk sharpens; people sit straighter, listen closer, mind the spoon.
 facetHighTitle: The Held Pinch

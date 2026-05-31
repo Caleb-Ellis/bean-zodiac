@@ -7,11 +7,16 @@ trait: primal
 dish: Broad beans with smoked streaky bacon, mint, and pecorino.
 quote: In the beginning, there was bean.
 seasonalFortune: A season that smells of hickory before sight catches up. Bacon renders slow; the pod splits along a seam older than the cook tending it.
-fortuneMost: Name the wrong city when they ask about the job. They came to be read, not advised, and the spreadsheet was the costume the question was wearing.
-fortuneHigh: Open the door without looking through the glass. They came to say more than they'd planned, and the lock was the last thing in the way.
-fortuneMid: Cook without measuring the next meal. The recipe you wrote out was for a kitchen you don't quite live in anymore.
-fortuneLow: Sand it down before you hand it over. The raw version is landing as half a thought, and half a thought is being mistaken for none.
-fortuneLeast: Cost it out before you swing. The gut spoke clearly — it just didn't see the whole table.
+fortuneMost: Say the thing under the question, not the answer to it. People come to you to be read.
+fortuneMost2: Wake hungry for whatever the night left behind and eat it standing at the window. The want knows before the reasoning does.
+fortuneHigh: A stranger is coming who'll leave having said more than they meant to. Open the door without checking who knocked.
+fortuneHigh2: Your gut has already found the one thing they haven't said aloud. Name it; it bruises sweet, like mint between palms.
+fortuneMid: Cook without measuring the next meal. The recipe you wrote was for a kitchen you don't quite live in anymore.
+fortuneMid2: Leave the outline and follow the sentence that wandered off. You don't have to see where it lands before you go.
+fortuneLow: Sand the raw thought smooth before you hand it over — unfinished, it reads as nothing at all, even if the filing-down feels like betraying it.
+fortuneLow2: Ask what their gut says and just listen. Not every moment wants the diagnosis you pulled up from the deep, though biting it back will ache.
+fortuneLeast: Cost it out before you swing. The gut spoke clear — it just couldn't see the whole table, and trusting the math over the marrow will feel wrong in the hand.
+fortuneLeast2: Make the list, price it, count the pods twice. Let the decision arrive after the math instead of before it — slow, against your grain, steadier.
 facetMostTitle: Smoke Before Salt
 facetMost: You wake before the alarm, hungry for whatever the night left behind, and eat standing at the window.
 facetHighTitle: Pecorino Sharp on a Thumb

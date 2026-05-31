@@ -7,11 +7,16 @@ trait: confrontational
 dish: Akara - kidney bean fritters with bitter pepper sauce.
 quote: The bean who speaks the difficult truth is a friend; the one who flatters is an enemy.
 seasonalFortune: A season that keeps the oil at temperature. Soft answers blister off the surface; the bitter pepper carries further than the polite word, and the kitchen learns it.
-fortuneMost: Knock on the door at the end of the corridor. The one you've been walking past for weeks while rehearsing the better corridor — it doesn't get any righter while you rehearse.
-fortuneHigh: Use the front door. Everyone is hoping one of you will, and you're the one who can.
-fortuneMid: Book the appointment. You already know which one — the one you've moved off three calendars now, and it isn't going to move itself off a fourth.
-fortuneLow: Write the angry version. Put it in a drawer. Read it after the heat is out of you. The cooled version is the one you send.
-fortuneLeast: Not your fight. Take the quieter chair and let the houseguest yell into a pillow.
+fortuneMost: Say the difficult thing plainly, names and edges intact. A gentler fourth rehearsal won't make it any truer.
+fortuneMost2: A door you keep walking past, and behind it the conversation that won't soften while you stall. You're the one who can open it. Knock.
+fortuneHigh: The whole pan is circling for a cooler spot, hoping someone walks into the disagreement straight on. Be the one. Watch the room exhale.
+fortuneHigh2: The thing that needs saying won't soften for being held. Bring it up next time you cross paths, plainly, and it lands whole.
+fortuneMid: That appointment won't move itself off a fourth list. You know the one. It only goes by being made.
+fortuneMid2: A slow ache wants naming to someone who can help, not another month of waiting it out. Said plainly is how it gets seen.
+fortuneLow: The cooled version of the fight is the one worth having. Hold the match while the heat burns off — it galls, and it's right.
+fortuneLow2: Not every slight needs answering the moment it lands. Do the dishes yourself this once. It rankles; it keeps the peace cheaper.
+fortuneLeast: Not your fight. The quieter chair sits wrong, and the loud one shouts itself out faster with no one to push against.
+fortuneLeast2: Some rooms settle on their own if you don't charge in. Move the lamp, shift your chair, leave the noise unnamed. Going quiet chafes — and it works.
 facetMostTitle: Oil, No Secrets
 facetMost: The unsent message goes out before the batter cools — names attached, edges intact, no softening pass.
 facetHighTitle: Bitter Pepper in the Room

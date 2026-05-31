@@ -7,11 +7,16 @@ trait: pragmatic
 dish: Butter bean and shiitake fritters with soy dipping sauce.
 quote: If it works, it's a bean.
 seasonalFortune: A season of hot oil and short answers. The shiitake gives up its water; what stays in the pan is what was always going to stay.
-fortuneMost: Reply in two lines, no greeting. They'll match your speed and you'll both get your afternoon back.
-fortuneHigh: Buy the same shoes again. Novelty is a tax and you've paid it enough this quarter.
-fortuneMid: Tell them how you actually are in one sentence. The honest one is shorter than the polite one.
-fortuneLow: Sit with the decision through one more dinner. The version that survives breakfast is the one to send.
-fortuneLeast: Build the elaborate system anyway. The next month belongs to the version of you that wanted to be impressed, and it's been a while.
+fortuneMost: The shiitake gives up its water and what stays in the pan is what was always going to stay. Your week burns off the same way — clean, short, exactly enough.
+fortuneMost2: The elaborate plan and the obvious one do the same job. Clever has never once impressed you when simple was already on the table.
+fortuneHigh: Repair it before you replace it. The fix that holds beats the upgrade that dazzles.
+fortuneHigh2: The same shoes, bought again. A small windfall is hiding in the things you refuse to buy twice.
+fortuneMid: Before you sign on, ask what problem it actually solves. Often the honest answer is none.
+fortuneMid2: Take the part of the new system that works and quietly let the rest go.
+fortuneLow: Some things have no answer key. Let the decision sit a night, even when the rushed version is right there and ready to ship.
+fortuneLow2: When someone names a hard feeling, they don't want it solved — they want it heard. Sit in it a beat before you reach for the fix.
+fortuneLeast: Keep the chipped cup, the receipt with the good handwriting, the thing with no use. Not everything has to earn its keep.
+fortuneLeast2: Build the over-elaborate version once, purely because it pleases you. Usefulness isn't the only reason to make a thing.
 facetMostTitle: Soy to a Black Line
 facetMost: You answer emails in fragments, delete the greeting, send before the cursor cools.
 facetHighTitle: The Fritter on Contact

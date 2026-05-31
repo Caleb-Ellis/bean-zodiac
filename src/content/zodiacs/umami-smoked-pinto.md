@@ -7,11 +7,16 @@ trait: atmospheric
 dish: Texas smoked pinto beans with brisket drippings, chipotle, and epazote.
 quote: Wherever you go, there you bean.
 seasonalFortune: A season that arrives by saturation rather than announcement. Hickory works into the rafters; brisket fat outlasts the fire. Rooms remember whoever last stood in them.
-fortuneMost: Arrive an hour early and don't unpack. By the time others come in, the weather will already be yours.
-fortuneHigh: A friend will describe a night from last week and describe you in the same breath without noticing. Let the slip stand; the conflation is the compliment.
-fortuneMid: Wear the same coat all week. The continuity is doing more than a new outfit could; the coat is the signature.
-fortuneLow: Say the actual sentence out loud. The mood you've been giving off is being translated into whatever the listener brought with them.
-fortuneLeast: Step into the light, not the corner. Someone is looking for a person — not the temperature of the room they're in.
+fortuneMost: Long after you've gone, the place keeps your weather.
+fortuneMost2: You'll say almost nothing all evening and still be the thing people remember of it.
+fortuneHigh: When the night gets retold, you surface last and warmest — somewhere after the music, before the goodbyes.
+fortuneHigh2: A friend will describe the evening and describe you in the same breath, never noticing they did both.
+fortuneMid: The same coat, the same cup, the same low hum on all of it. People know you by the weather, not the wardrobe.
+fortuneMid2: Show one sharp thing of yours; the haze can keep the rest.
+fortuneLow: Say the actual sentence. Left to the mood, your meaning arrives as whatever the listener carried in.
+fortuneLow2: Name it plainly, even though plain will feel blunter than smoke ever has to be.
+fortuneLeast: Stand in the light, not the corner. Someone's after a person, not a weather — and being that clear costs you your usual cover.
+fortuneLeast2: Give the clear yes, the plain name, the clean cut on the board. You'd rather seep in slow; start it anyway.
 facetMostTitle: Smoke at the Threshold
 facetMost: You enter rooms an hour before your body does; people describe the place and describe you without realising.
 facetHighTitle: Chipotle, Slow to Declare

@@ -7,11 +7,16 @@ trait: minimalist
 dish: Butter bean and labneh with preserved lemon and olive oil.
 quote: Less is bean.
 seasonalFortune: Brine narrows the season. What lingers in the jar after months keeps its name; the rest has gone to salt and silence.
-fortuneMost: Serve it on the white plate with nothing else. Garnish is for cooks who don't trust the bean.
-fortuneHigh: Hit send before you add the polite preamble. The preamble is the apology your message didn't need.
-fortuneMid: Delete the favourite line. If the paragraph collapses, it was a centerpiece, not a sentence.
-fortuneLow: Add one warm sentence to the next reply. Your minimalism is being filed as a grudge.
-fortuneLeast: Turn up to the dinner you've been ghosting with bread. Absence has started speaking on your behalf and it's lying.
+fortuneMost: One bean, white plate, nothing beside it — and the bareness was never lack.
+fortuneMost2: Two of a thing is just one you haven't decided about yet. Give the duplicate away and keep the single good knife; the room that opens up feels like breathing.
+fortuneHigh: The preamble you keep adding apologises for a thing that needs no apology. Say it plain and stop there.
+fortuneHigh2: A trip is coming where two things cover everything and the rest was only worry. You'll pack light and travel well.
+fortuneMid: Cut the favourite line and the thing still stands, if it was ever sound. What falls over without its centrepiece was only decoration.
+fortuneMid2: Half of what you make is finished before the lemon goes near it. Taste it plain more often — the bare version was the dish all along.
+fortuneLow: A two-line reply to a long, kind message is being read as a grudge it never was. One warm sentence undoes it; the flourish costs you nothing and you keep treating it like it costs everything.
+fortuneLow2: Keep the gift you'd have quietly returned. Sometimes the having is the whole point, and your shelves can carry one more than the editor in you believes.
+fortuneLeast: A door you've been skipping has your absence speaking for you, and it's telling lies. Show up full and unedited, bread in hand.
+fortuneLeast2: A loud table with every voice at once is not a mess waiting to be cut to one. It reads as clutter, then it reads as company, and you stay longer than you meant to.
 facetMostTitle: One Bean, White Plate
 facetMost: You live in rooms with bare walls and call the bareness furnishing; visitors mistake it for moving out.
 facetHighTitle: Oil Over Labneh

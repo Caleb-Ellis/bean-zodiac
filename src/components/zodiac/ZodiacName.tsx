@@ -18,7 +18,7 @@ const getQualityLabel = (
     case QualityIds.Stale:
       return { text: "Faded", className: "text-effect-fog" };
     case QualityIds.Rotten:
-      return { text: "Negative", className: "text-effect-void" };
+      return { text: "Inverse", className: "text-effect-void" };
     default:
       return undefined;
   }

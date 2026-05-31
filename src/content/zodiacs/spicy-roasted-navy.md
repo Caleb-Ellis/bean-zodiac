@@ -7,11 +7,16 @@ trait: self-reliant
 dish: Loubia bil harissa - Moroccan navy bean tagine with roasted harissa and preserved lemon.
 quote: Trust thyself - every bean vibrates to that iron string.
 seasonalFortune: A tagine cured by its own use carries every season in its clay. The roasted bean keeps what it has earned, salts itself, asks the pantry for nothing it cannot already name.
-fortuneMost: Drop the finished thing on the table and walk away. The asking-for-notes ritual is a tax you keep volunteering for.
-fortuneHigh: A bill is wrong this week. Make the call before lunch, drink the espresso, never mention it again.
-fortuneMid: You're running on fumes and calling it discipline. Water, ten minutes, then the hour is yours.
-fortuneLow: You declined something small by reflex. Walk back and accept it — they meant the offer and it cost them more than you logged.
-fortuneLeast: Don't pick the restaurant. Let the worst suggestion win; that's the dinner with a story attached, and you've eaten alone enough lately.
+fortuneMost: The bowl arrives sealed and done. Set it down finished; you don't need anyone's notes to know it holds.
+fortuneMost2: The leak was fixed before anyone clocked it was leaking. That's the quiet competence you salted into yourself, and it's earned.
+fortuneHigh: The wrong bill, the broken thing — handled yourself, on your own clock. That's the iron string, and it's sound.
+fortuneHigh2: A borrowed tool returned better than it came is help taken with nothing owed. You can lean an inch and stay square.
+fortuneMid: Fumes called discipline aren't strength. Rest the hour, then carry the rest of the way.
+fortuneMid2: Naming what you need out loud is not the same as being carried. Say it anyway, even though it costs you the pose.
+fortuneLow: The offer you waved off by reflex cost the other person something to extend. Walk it back and let them in — it'll feel like a debt and it's actually a door.
+fortuneLow2: Solitude can cure thin, like a tagine used too little. Gather a few around the pot before the long evening; you trust that pull for good reason.
+fortuneLeast: Let someone else's worse idea win the night. That's the one that becomes a story — the company was the point, not the plan.
+fortuneLeast2: The meal chosen by many hands beats the one you'd have made alone, even when yours was better.
 facetMostTitle: One Hand, One Mortar
 facetMost: You finish the work before you mention it; the bowl arrives sealed, and the asking-for-feedback step gets quietly skipped.
 facetHighTitle: The Lemon Ripening Alone

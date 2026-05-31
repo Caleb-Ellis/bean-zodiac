@@ -7,11 +7,16 @@ trait: layered
 dish: Frijoles de olla - dried pinto beans slow-cooked in clay pot with epazote, onion, and lard.
 quote: Life is like a bean of chocolates — you never know what you're going to get.
 seasonalFortune: A season that earns its weight slowly. Onion gives up its sharpness by degrees, epazote arrives at the end, and nothing in the pot can be hurried.
-fortuneMost: Start the story two weeks back. Let them ask their way forward to whichever day they actually meant.
-fortuneHigh: Move one book to a strange shelf. Wait.
-fortuneMid: Pull them in before you explain. The doorway is too far.
-fortuneLow: Plain answer. Skip the footnote.
-fortuneLeast: One line. The sediment can settle.
+fortuneMost: Begin a few summers before the part that matters and let them arrive at the point on their own.
+fortuneMost2: The soak you set going on a hunch, before anyone called, is the layer everything else will rest on. Trust what you started early.
+fortuneHigh: Half the truth is in the order you lay it down — the year, the house, the falling-out, then the names. Tell it the long way.
+fortuneHigh2: Two things you'd filed apart are about to reveal themselves as one thing, the way epazote only makes sense at the very end of the pot.
+fortuneMid: From the doorway your shelf looks plain; the logic shows only to whoever steps right in. Pull them close before you explain.
+fortuneMid2: A small layer under the plain answer is enough to reward whoever's actually listening. Give the surface, then the one detail beneath it.
+fortuneLow: Give the plain answer and skip the footnote. Not every reply needs its full sediment stirred up — leaving it settled will itch, and it's fine.
+fortuneLow2: Say the apology flat and clear and let everyone move on without you rebuilding the whole history. The bare version is the kindness here, much as you'd rather render it slow.
+fortuneLeast: Some questions want the top line, not the strata beneath. Say "old friends" and move on — even if the unsaid layers tug at you to stay.
+fortuneLeast2: Answer the surface and let what's settled underneath stay settled. You don't owe every moment its depths, uncomfortable as the shortcut feels.
 facetMostTitle: The Clay Pot Before the Question
 facetMost: You started the soak two days back, on a hunch about who might call.
 facetHighTitle: Sunday's Rendered Lard

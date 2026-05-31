@@ -7,11 +7,16 @@ trait: judgmental
 dish: Crispy navy beans with bitter chicory and anchovy.
 quote: Do not judge others before you have walked a mile in their beans.
 seasonalFortune: The oil runs hot and the chicory blackens before it bends. A season that crackles at the edges, where verdicts arrive faster than the anchovy can salt them.
-fortuneMost: Trust the file. You closed it for cause; reopening is sentiment in a trench coat.
-fortuneHigh: Read the pattern out loud, once, to one person. Either it survives saying or it was paranoia.
-fortuneMid: Treat the lateness as data. Adjust the meeting time, not the friendship.
-fortuneLow: Ask the question one more way before you file. The follow-up answer changes the verdict more often than you think.
-fortuneLeast: If you can finish the sentence in one breath, the verdict isn't done. Crack the door.
+fortuneMost: The read you closed for cause was sound. Reopening it now would only be sentiment in a trench coat.
+fortuneMost2: Your eye caught the chair askew, the coat where it shouldn't be, and you weren't wrong. Trust the sharp first glance; it's running true.
+fortuneHigh: Say the pattern out loud, once, to one person. Either it survives the saying or it was only suspicion — either way you'll know.
+fortuneHigh2: The standard is exacting and usually right. Hold it, and say it to a face rather than a quietly closed door.
+fortuneMid: The lateness is data, not a sentence. It's the plan that wants adjusting, not the whole friendship.
+fortuneMid2: One miss isn't the case closed. Clock the slip, leave the door ajar, let the verdict keep for more evidence.
+fortuneLow: The second answer shifts the verdict more often than you'd think. Ask once more before you file it away — it grates, and it's worth the grating.
+fortuneLow2: A bad first impression sits uneasy while it stays unjudged. Let it brown evenly before you decide what it is; the wait is small.
+fortuneLeast: A verdict you can finish in one breath isn't finished. The door sat better shut — crack it open anyway. That's the fairer thing.
+fortuneLeast2: They came late, left the dishes, kept the book, and still the door can swing open. It costs you something; it's the warmer ledger.
 facetMostTitle: The Pan's Single Spit
 facetMost: A first message lands wrong and the thread is closed before the reply finishes typing.
 facetHighTitle: Anchovy, No Rinse

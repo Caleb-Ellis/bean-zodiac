@@ -7,11 +7,16 @@ trait: acrid
 dish: Kimchi jjigae with smoked adzuki - adzuki bean stew with kimchi, tofu, and gochugaru
 quote: The bean is mightier than the sword.
 seasonalFortune: A season cured in smoke and brine. The kitchen window stays cracked; what passes through it leaves a mark on the sill and a taste in the back of the throat.
-fortuneMost: Open with the flaw. Whoever flinches was going to flinch by paragraph three anyway — you've just saved everyone the wait.
-fortuneHigh: Make the toast at the table with the line you almost edited out. The edited version was where the teeth got filed; you'll be glad, by the time the dishes are done, that nobody got the polish.
-fortuneMid: There's an unsent apology drafted three ways in your notes app. Send the meanest one; it's the only one that's true.
-fortuneLow: Underline the bad sentence and leave it. The mark does what the rewrite was avoiding.
-fortuneLeast: You'll notice the smell of something burning twenty minutes after everyone else. Don't pretend you smelled it first.
+fortuneMost: The flaw reaches the room before you do, the way smoke arrives ahead of the fire. Whoever flinches was always going to.
+fortuneMost2: Brine doesn't ask permission to sting. It just keeps the thing from rotting, and so do you.
+fortuneHigh: Skip the smoothed sentence. It never helped anyone yet.
+fortuneHigh2: A good week is turning toward the one who'll name the rot while the rest are still admiring the skin.
+fortuneMid: The blunt apology is still an apology. The kind version would only be the lie that goes down easier.
+fortuneMid2: Say what you did and what it cost, itemised, and leave the feeling off the receipt. The bareness is the sorry.
+fortuneLow: Watch whose shoulders drop when you fold the rough remark away one turn longer than your hand wants to.
+fortuneLow2: A thing you'd usually cut straight into. Walk past it once — the holding-back stings, and the sting is the whole price.
+fortuneLeast: An off smell in the air — and for once someone else's nose finds it before yours. Don't pretend you had it first; let the wider nose lead.
+fortuneLeast2: Somewhere a warm thing is staying warm precisely because you didn't sharpen it. It feels like losing something. It isn't.
 facetMostTitle: Gochugaru at the Edge
 facetMost: You send the draft no one asked for, name the flaw on page one, and let the room sit with it.
 facetHighTitle: Kimchi Against Hot Oil

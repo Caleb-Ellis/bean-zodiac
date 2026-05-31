@@ -7,11 +7,16 @@ trait: intuitive
 dish: Bindaetteok — Korean mung bean pancakes with bitter herb dipping sauce.
 quote: The intuitive bean is a sacred gift and the rational bean is a faithful servant.
 seasonalFortune: A season for reading the batter before it speaks. The bitter herb sharpens slowly in the jar, and the cook who waits hears the dish settle into its own bitter sense.
-fortuneMost: Act on the read before the reasoning files in. The reasoning will arrive hours later and confirm what the body already moved on.
-fortuneHigh: Say "something's off" out loud. No diagram required.
-fortuneMid: Hand over the half-formed read in the next conversation. Unfinished is on time; finished is late.
-fortuneLow: The hunch is real but it isn't the move. The paperwork is what's wrong; recount it.
-fortuneLeast: Follow the recipe to the gram, just this once. The feeling that the procedure is off is the part that's off.
+fortuneMost: Move on the read before the reasoning files in. The proof arrives later to confirm what the body already knew.
+fortuneMost2: The read you can't yet defend is the true one. Act on it — showing the work was always going to be the slow half.
+fortuneHigh: Something is off — that's a complete sentence. Say it out loud, no diagram, no proof attached.
+fortuneHigh2: You catch the trouble a beat before anyone finds the word for it. Name it as you feel it; don't wait for the rest to arrive.
+fortuneMid: A read still forming is worth handing over now. The rough early version reaches people the polished late one never gets to.
+fortuneMid2: You'll walk in and know which corner is wrong before a word is spoken. That knowing is data — go with it.
+fortuneLow: The hunch is real, but it isn't the thing to follow here. Count it out by hand and let the figures lead, even as the feeling keeps tugging at your sleeve.
+fortuneLow2: Some unease is a warning and some is only nerves. Let the numbers go first this once; setting the feeling aside costs you nothing if it was just nerves.
+fortuneLeast: Follow the steps to the gram this time. The sense that the method is off is, here, the thing that's actually off — distrust the distrust.
+fortuneLeast2: Trust the recipe over your read of it. The scale is calibrated and your suspicion isn't; leaning on the cold instrument, just here, won't betray you.
 facetMostTitle: Bitter Without Permission
 facetMost: You trust the read you cannot defend, and act on it while the reasoning is still arriving.
 facetHighTitle: Before the Ladle Commits

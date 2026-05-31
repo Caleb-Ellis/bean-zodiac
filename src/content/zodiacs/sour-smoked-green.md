@@ -7,11 +7,16 @@ trait: pungent
 dish: Leather britches - Appalachian smoke-dried green beans simmered with ham hock and cider vinegar
 quote: A bean by any other name would smell as sweet.
 seasonalFortune: A season when the leather britches hang in the rafters and tell the kitchen what month it is before the calendar does. Vinegar sharpens; hock-smoke insists.
-fortuneMost: Don't soften the take on the way in. The hedged version is the one nobody will quote, which is also the one nobody will use.
-fortuneHigh: Your opinion will be in the hallway before you are. Make sure it's the hallway you'd have chosen.
-fortuneMid: Send the take in writing this week. Spoken, it sounds like weather; written, it sounds like a position.
-fortuneLow: Stop letting the wrong story at the dinner table pass. The third refill is not, in fact, the answer.
-fortuneLeast: A coat on a back of a chair has been doing your speaking for you. Either sit in the chair or take the coat home.
+fortuneMost: The take goes out unsoftened. The hedged version is the one nobody quotes, and what nobody quotes nobody uses.
+fortuneMost2: An opinion strung up fully formed where everyone can see it, like britches in the rafters. They'll quote you back to yourself, and that's the point.
+fortuneHigh: Your opinion arrives somewhere ahead of you, the way hock-smoke reaches a kitchen before the cook. Make sure it's a room you'd have chosen to enter first.
+fortuneHigh2: Say the thing the others have quietly arranged themselves around. The unsure ones come find you and leave clearer.
+fortuneMid: Plain words, not a shrug. Mumbled, the take sounds like weather; said straight, it sounds like a position.
+fortuneMid2: They know where you stand before you sit. Let them; the clarity spares everyone the guessing.
+fortuneLow: A wrong story drifts by and your head's already nodding it along. Let it pass. A refill and a nod aren't the agreement you'd pretend they are.
+fortuneLow2: A stranger's lazy take, and you change the subject instead of correcting it. Some days the peace outweighs the point, and this is one.
+fortuneLeast: Spend one verdict and stay silent on the rest. Let that single take be the whole of what you give, and notice the room doesn't go cold for it.
+fortuneLeast2: Land where the group lands, for the novelty of it. It'll feel like losing yourself; it's only handing someone else the wheel a while.
 facetMostTitle: Britches Strung All Winter
 facetMost: You don't soften the take; you hang it where everyone can see. Friends quote you back to yourself.
 facetHighTitle: Smoke in the Cupboard Linens

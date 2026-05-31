@@ -7,11 +7,16 @@ trait: rational
 dish: Edamame in ponzu with bitter yuzu and silken tofu.
 quote: The body is not the master of the mind, any more than the mind is the master of the bean.
 seasonalFortune: Ponzu has been pulling acid from yuzu peel for weeks; what arrives at the bowl is no longer sharp citrus but a settled verdict, ready to season what it meets.
-fortuneMost: Put the numbers in the spreadsheet before you say yes. End-of-week-feeling decisions don't survive contact with the ledger.
-fortuneHigh: The argument breaks on step three. Find the step, then stop defending the rest.
-fortuneMid: When they ask why, say "I don't know yet." Inventing a reason now is the expensive option.
-fortuneLow: You're inspecting the hinge of an open door. Walk through. Diagnose the hinge from the other side.
-fortuneLeast: Pick the option your body picked before breakfast. The reasoning can catch up on its own time.
+fortuneMost: Count it out before you say yes. A choice made on a feeling rarely survives contact with the actual figures, and you know it.
+fortuneMost2: The hard decisions land in your lap because you won't flinch toward the comfortable answer. Turn this one over until it accounts for itself.
+fortuneHigh: The whole argument breaks at one step. Find that step; stop defending the rest of it.
+fortuneHigh2: The reply written hot loses to the one written clear. Set it down overnight and send what survives the cool head.
+fortuneMid: When someone asks why, "I don't know yet" is a fine answer. Inventing a reason on the spot is the expensive one.
+fortuneMid2: A flawless case delivered cool can carry the logic and lose the person. Sit beside them in it before you reach the verdict.
+fortuneLow: You're studying the hinge of a door that's already standing open. Step through — you can examine it just as well from the far side.
+fortuneLow2: Your first read of a stranger has come right more often than the long weigh-up does. Trust it, knowing there'll be no figures to blame if it's wrong this time.
+fortuneLeast: What your gut already chose is most likely the answer; the reasoning can catch up later. Moving first on instinct will feel unmoored — move anyway.
+fortuneLeast2: Eat when hungry, rest when tired, take the place that felt like home in the doorway. Leaving a few things unjustified costs your certainty, not your judgement.
 facetMostTitle: The Peel's Own Clock
 facetMost: Decisions wait until the figures are in; nothing important gets signed off on a Friday feeling.
 facetHighTitle: Tang That Needs Time

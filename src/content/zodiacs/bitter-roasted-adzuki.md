@@ -7,11 +7,16 @@ trait: polished
 dish: Roasted adzuki soup with bitter cacao and orange peel.
 quote: Have no fear of bean perfection — you'll never reach it.
 seasonalFortune: A season of long roasts and pared peels. Cacao is grated in thin curls; nothing comes to the table half-finished, and the kitchen keeps its own quiet standard.
-fortuneMost: Read it aloud. If you flinch at one word, that's the word — change it and stop fussing the rest.
-fortuneHigh: Accept the compliment in eight words or fewer. Anything past eight is you taking it back.
-fortuneMid: Fix the hem before lunch. It's been running the week from your ankle like a tiny dictator.
-fortuneLow: Wear the apron you cooked in to the table. The stain is the credential.
-fortuneLeast: Hand it over with the rough edge on. The polish you were about to do is the part they didn't want.
+fortuneMost: The curls of peel come off your knife all the same length. Nobody asked. You'd know if one didn't.
+fortuneMost2: The bowl you finished to the last clean curl is the one they'll remember. Nothing else on the table was tended like that.
+fortuneHigh: You catch the flaw a breath before anyone, and your hand is already moving to mend it.
+fortuneHigh2: The thing you've smoothed and resmoothed finds its place this turn. A long patience comes good.
+fortuneMid: A crooked curl of peel changes nothing about how the soup tastes. Most tables aren't grading the garnish.
+fortuneMid2: Straighten the one cushion that nags at you and walk past the rest. They were holding the room up fine without your hands.
+fortuneLow: Arrive in the apron you cooked in. The stain is proof you were in it — wear it out the door, though your thumb itches to rub it away.
+fortuneLow2: The thing you sent out unsanded comes back loved anyway. Turns out the edge was never the part anyone was looking at.
+fortuneLeast: Out past the tidy garden a wind is coming to scatter what you arranged so carefully. The mess it leaves is the night you'll keep — hard as it is to drop your hands and let it.
+fortuneLeast2: Same shirt as yesterday, hair uncombed, and somehow the morning still splits open like an orange — fragrance first, the order never missed at all.
 facetMostTitle: The Unbroken Coil
 facetMost: Before sending any message, you read it once aloud, then once again for the comma you almost left.
 facetHighTitle: Cacao at Translucence

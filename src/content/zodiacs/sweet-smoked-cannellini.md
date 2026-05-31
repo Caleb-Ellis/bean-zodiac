@@ -7,11 +7,16 @@ trait: delicate
 dish: Fagioli al fiasco - cannellini baked in a flask with smoked guanciale, sweet Vin Santo, and sage.
 quote: The most beautiful things in the world cannot be seen or bean — they must be felt with the heart.
 seasonalFortune: A season inside the flask. Sweetness comes slowly under low smoke, and the year asks for a lighter hand than most are willing to lend it.
-fortuneMost: Hand the gift over with both hands and no speech. The weight does the talking; you'd only muddy it.
-fortuneHigh: Use the small name. The one their mother uses, or the one only you do. It will land like a warm hand on the back of the neck.
-fortuneMid: Stop a brushstroke early on the piece you're closest to. The bit you didn't add is the bit that finishes it; restraint is the last layer.
-fortuneLow: Send the rough draft. The polished version was going to keep until you lost interest in sending it at all.
-fortuneLeast: Eat a sandwich over the sink this week. Refinement can take a sick day without filing the paperwork.
+fortuneMost: The smallest motion you make — a gift handed over in both hands, a glass lifted by the stem — is the one someone will remember.
+fortuneMost2: A near-stranger will feel noticed by you in a way they can't name, and carry it home like warmth in a flask.
+fortuneHigh: Call them by the small name, the one only their mother uses. It lands like a warm palm on the back of the neck.
+fortuneHigh2: You remember which window someone likes open before they ask. To them that quiet attention outweighs any large kindness.
+fortuneMid: Stop a stroke early on the thing you love most. The gesture you hold back is the one that finishes it.
+fortuneMid2: Carry what matters the way you'd carry the fragile box down three flights — steady, both hands, a pause at each landing.
+fortuneLow: Send the rough one. The polished version was only ever going to ripen until you'd lost the heart to send it at all.
+fortuneLow2: Sleep where you land, eat standing, trust the body that never asked to be coddled. You'll feel underdressed without the refinement, and survive.
+fortuneLeast: Say the blunt thing bluntly. The plainness, rough as it feels leaving you, is the kinder cut here.
+fortuneLeast2: Clear the small debts in one rough sweep, apologies plain and short. Done beats dainty when the list is long, even if every undainty thing makes you wince.
 facetMostTitle: The Flask Between Two Palms
 facetMost: You lift glasses by the stem, fold a borrowed sweater along its seams, set down the kettle as if it were sleeping.
 facetHighTitle: Smoke Threading the Doorway

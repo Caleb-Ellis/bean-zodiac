@@ -7,11 +7,16 @@ trait: efficient
 dish: Butter bean fritters with preserved lemon aioli - crispy pan-fried butter bean patties with a sharp citrus dipping sauce.
 quote: Give me six hours to chop down a bean and I will spend the first four sharpening the axe.
 seasonalFortune: Days clarify themselves the way hot oil clarifies batter — what belongs crisps, what doesn't lifts away. Little is spent that isn't asked for.
-fortuneMost: Three things, in order. Delete the fourth from the list and from your mouth.
-fortuneHigh: Close the loop before lunch. The afternoon charges interest and won't ask politely.
-fortuneMid: That step you call required is a costume. Skip it once; the building stays up.
-fortuneLow: The friend across from you isn't a ticket. Put the timer down — it's lying about what the hour is for.
-fortuneLeast: A free hour found you. Don't pack it. Let it sit there like a clean pan.
+fortuneMost: Three things matter, in order; the fourth is costume. The day crisps clean the way a fritter drops in already shaped.
+fortuneMost2: Errands fold into one loop and the afternoon comes out tidy. The hours you save are yours.
+fortuneHigh: A small thing handled the minute it lands never grows into a chore. Close it while the oil's still hot.
+fortuneHigh2: The route's planned, the patty's pressed, the dawdling spared. Luck rides with the clean cut.
+fortuneMid: A step you keep calling required is habit wearing a uniform. Drop it and watch nothing fall down.
+fortuneMid2: It was done right the first time. The second pass adds only the smell of oil starting to burn.
+fortuneLow: The friend across from you isn't a counter to clear, and the slow hour isn't waste — even with every instinct you have counting it.
+fortuneLow2: Peel the garlic you could have crushed. The smell and the patience are worth the time they steal, though it'll itch the whole way.
+fortuneLeast: Let an empty hour stay empty. Leaving it unpacked will feel like a clean pan left out exposed — sit with that small discomfort and let the hour be nothing.
+fortuneLeast2: A conversation drifts past the point where you'd have wrapped it, and the best of it is hiding in the drift. Staying costs you the next thing on the list. The list will keep.
 facetMostTitle: The Hot, Empty Pan
 facetMost: You answer in the fewest words the message can survive, then close the tab before the oil cools.
 facetHighTitle: Heat Where It Cooks

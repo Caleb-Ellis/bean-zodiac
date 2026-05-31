@@ -7,11 +7,16 @@ trait: tender
 dish: Lǜdòu gāo — dried mung beans ground fine and pressed with sugar into flower-shaped cakes.
 quote: The most beautiful things in the world cannot be seen or touched — they must be seen with the bean.
 seasonalFortune: A season ground fine — what was whole is pressed into petalled shapes, sweetness carrying what the husk could not hold.
-fortuneMost: Bring soup. Leave it on the porch if they can't talk.
-fortuneHigh: Write the card by hand before bed. Three lines. The handwriting is the whole gift.
-fortuneMid: Sit next to the quiet one at lunch. Ask one question.
-fortuneLow: Lock the door. Tender isn't the same as available, and the open door has been letting weather in along with the welcome.
-fortuneLeast: Decline the favour first thing, while the no is small. The later version comes out twice as sharp because it had to wait through a whole morning of being asked of.
+fortuneMost: A petal cupped open in two palms. When a friend's voice catches, you don't rush to fill the gap — you sit inside it until the next word finds them.
+fortuneMost2: The gift you pick is shaped to the person, never the occasion — the small exact thing no one else remembered. You'd sooner arrive empty-handed than wrong.
+fortuneHigh: A small bird held loose in an open hand. You catch the held shoulder others walk straight past — let someone feel chosen by you.
+fortuneHigh2: You drift toward the half-finished sentence at the edge of the gathering without ever making a show of the moving. The quiet attention you pay is the warmest thing in the place.
+fortuneMid: Sit by the quiet one and ask the single question. The gentlest move is often only turning toward someone.
+fortuneMid2: Feel the small unspoken hurt and let it pull you over — one kind question, no show of it. The tenderness does its work in the quiet.
+fortuneLow: Tender isn't the same as flung open, and the propped door's been letting weather in with the welcome. Keep your softness for who's earned it; closing it a little isn't unkind.
+fortuneLow2: A row of books squared straight is also care. Let the firmness stand for once — it protects the room, and you.
+fortuneLeast: Decline the favour first thing, while the no is still small. Left to wait, it comes out twice as sharp.
+fortuneLeast2: A thorn snapped clean off the stem. Not every wound handed to you has to be carried quietly home — setting it down will feel, at first, like dropping something you were trusted with.
 facetMostTitle: Flour Finer Than Breath
 facetMost: When a friend's voice catches mid-sentence, you do not fill the gap — you sit inside it until they find the next word.
 facetHighTitle: Sugar Through the Grain

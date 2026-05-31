@@ -7,11 +7,16 @@ trait: diplomatic
 dish: Cannellini and sake kasu soup — white beans simmered in sweet rice-lees broth with sugar and a curl of yuzu peel.
 quote: Let us never negotiate out of bean. But let us never fear to negotiate.
 seasonalFortune: Kasu sweetens slowly in the crock, edges blurring into broth. The season favours those who let disagreement steep until its sharpness rounds.
-fortuneMost: Make the warm introduction by accident on purpose. Bcc yourself and forget you sent it.
-fortuneHigh: Bake something for the meeting before the meeting. People are softer toward each other over a shared crumb.
-fortuneMid: Send the sweet, slightly embarrassing thank-you note. Yes, even to the colleague — especially to the colleague.
-fortuneLow: Send the second draft, not the seventh. The seventh is just you apologising for having an opinion.
-fortuneLeast: Say the no in one sentence and then nothing else. The silence after it is the diplomacy.
+fortuneMost: Introduce the two who'd never have found each other. Both will swear it was their own idea, and you'll let them.
+fortuneMost2: A thaw is coming between two people you'd given up on, and it will look like its own weather. You set it steeping.
+fortuneHigh: Something split and shared before the hard talk. People go softer toward each other over the same crumb.
+fortuneHigh2: Wait for the heat to drop, then the one line that lets both of them keep their footing.
+fortuneMid: Send the warm, slightly embarrassing thank-you — especially to the one you'd decided didn't need it.
+fortuneMid2: Two people you love, circling a fight. Hand them a third thing to laugh at and watch the sharpness round off.
+fortuneLow: The plainer version, not the seventh kindness. The endless softening is just you apologising for having an opinion — and it does cost you to drop it.
+fortuneLow2: Say the unflattering thing and sit in the quiet after it without reaching to smooth the edges, even as your hands want to.
+fortuneLeast: The no in one sentence, then nothing. The silence after is the whole answer, and holding it shut is harder than it looks.
+fortuneLeast2: Hand back the gift you don't want and name the price you won't pay. It'll feel ungracious going out and you'll sleep deeply anyway.
 facetMostTitle: Sugar Dissolved Past Finding
 facetMost: Every introduction you make is the one both parties later claim they thought of, and you never correct them.
 facetHighTitle: The Sake-Lees

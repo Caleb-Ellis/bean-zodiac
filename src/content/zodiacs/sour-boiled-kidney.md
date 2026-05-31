@@ -7,11 +7,16 @@ trait: trustworthy
 dish: German kidney bean and sauerkraut soup with caraway.
 quote: The secret of getting ahead is getting bean.
 seasonalFortune: Brine deepens through the long months; what was salted in autumn answers in spring. The crock keeps its bargain without speaking, and the cellar plans around it.
-fortuneMost: Cancel the thing you were looking forward to and don't tell them you cancelled it. The yes that costs you something is the only yes that means what you meant.
-fortuneHigh: Someone is quietly building their week on your yes. Confirm before they have to ask twice; the cost of confirming is one line, the cost of not is a chain of small rearrangements you'll never see.
-fortuneMid: One commitment slipped a day. Send the four-word note now; the apology in a week costs ten times more.
-fortuneLow: A promise has gone stiff in the jar. Open it, renegotiate, replace the lid — now, not at the end of the week when it's gone harder still.
-fortuneLeast: Say "no" with the consonants intact. The drawn-out maybe is just no with bad manners.
+fortuneMost: The promise that costs you the thing you wanted, kept without a word about the cost — that's the yes that meant what you meant.
+fortuneMost2: You'll arrive at the hour you named, carrying what you said you'd carry. Quietly, that is the whole of it.
+fortuneHigh: Someone is building on your yes. One word of confirmation, before they have to ask twice, spares them a chain of small scrambles.
+fortuneHigh2: The bill comes round and your hand is out before the counting's done. Good brine, long-cured.
+fortuneMid: A commitment slips. The short word now beats the long apology later, tenfold. Send it while it's still small.
+fortuneMid2: Return the borrowed thing before they think to ask. That's how the big trust gets built, one caraway-small kept promise at a time.
+fortuneLow: A promise gone stiff in the jar can be opened and renegotiated. Reopening a kept word will feel like breaking it; do it before it hardens further.
+fortuneLow2: A few plans left half-promised, a drawer or two ajar. Not every loose end is a broken one.
+fortuneLeast: A "no" with its consonants intact beats the drawn-out maybe, which is only no with worse manners. The firmness feels unkind. It's kinder than the maybe.
+fortuneLeast2: The no you should have said three commitments back is still worth saying now. Give it before you give away the whole day.
 facetMostTitle: Caraway Where It Settled
 facetMost: You arrive at the hour you named, carrying what you said you would carry.
 facetHighTitle: Brine's Long Memory

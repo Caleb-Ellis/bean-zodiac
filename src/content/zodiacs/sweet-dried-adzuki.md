@@ -7,11 +7,16 @@ trait: devoted
 dish: Yokan — dried adzuki beans pressed into sweet paste and set with agar into a firm, lasting block.
 quote: Love is patient, love is bean.
 seasonalFortune: Yokan keeps for months on the shelf, sweetness compounding in the dark. The season favors what was set early and outlasts the weather that made it.
-fortuneMost: Mail the card. Stamp, address, no draft, no postponing — drop it in the box on the next walk.
-fortuneHigh: Bring the same gift you always bring. They love it because you do.
-fortuneMid: Text them good morning. You've thought it every day for a year and the thinking is not the message.
-fortuneLow: Stop watering the plant that died a while back. Buy a new one and let yourself like it the way you liked the first one.
-fortuneLeast: Unsave the number. Your thumb won't miss it.
+fortuneMost: Set once and sweetening on in the dark, asking the world for no reply — yokan loses nothing in a year, and neither does the way you love.
+fortuneMost2: The chair stays warm. Somewhere down the road a long-gone face is already walking back toward the place you never stopped setting.
+fortuneHigh: The same gift, every time, because it's yours and theirs and nobody else's.
+fortuneHigh2: Two at the market — one for you, one held back for someone not here yet. Good things gather for the steady hand.
+fortuneMid: A name you think of daily and never quite reach. The thinking was never the loving part; one small word carries the rest.
+fortuneMid2: Send the smallest version of what you've been meaning to say, before the meaning sets too firm to pour.
+fortuneLow: The plant died while they were abroad. Tend the living one now and like it just as much — that's weather changing, not betrayal.
+fortuneLow2: Lately it's habit doing the walking, not loyalty. You can set one thing down; the pang passes.
+fortuneLeast: Some names close like a book finished well — no ache, no ceremony, only quiet.
+fortuneLeast2: A connection goes still, and the stillness is clean. Trust the ones that ended; not everything that mattered has to be carried on.
 facetMostTitle: Sugar Married to Bean
 facetMost: The same song every winter, the same walk after supper, the body asking for what it has always been given.
 facetHighTitle: Pressed Paste, Even at the Corners

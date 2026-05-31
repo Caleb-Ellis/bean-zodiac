@@ -7,11 +7,16 @@ trait: bookish
 dish: Senate Bean Soup - with aged ham and bitter dandelion greens.
 quote: Outside of a bean, a book is a man's best friend. Inside of a bean, it is too dark to read.
 seasonalFortune: A long-cured broth deepens in the dark of the pantry; private reading thickens into something a stranger's spoon will eventually want to taste.
-fortuneMost: Pull the book you abandoned at chapter four. The sentence you need is on page 173.
-fortuneHigh: A disagreement is coming and you can feel its shape. Find the paragraph that ends it before you walk into the room.
-fortuneMid: Send the link, not the lecture. One quoted source beats ten paraphrased.
-fortuneLow: Answer from memory. Off by an inch is cheaper, in this room, than right and late.
-fortuneLeast: Close the book. Use your hands. Another chapter won't fix the tap.
+fortuneMost: The book you abandoned partway through holds the exact sentence you've been needing. Pull it down.
+fortuneMost2: The through-line you've chased across forty open tabs is about to surface. Have the page ready; this is the week the inside library earns its keep.
+fortuneHigh: You can feel the shape of a disagreement coming. The paragraph that settles it already lives in you; have it ready before you walk in.
+fortuneHigh2: When voices rise, don't rise with them. Set down the one well-sourced line and let the noise settle around it.
+fortuneMid: Hand over the source itself, not the lecture around it. One good passage carries further than ten you've paraphrased.
+fortuneMid2: A collection no one is let into is just a locked room, however rich. Say the rough, unfooted version aloud and let someone in.
+fortuneLow: Answer from memory and let it run a little imprecise. Off by an inch and on time beats exact and too late — though the inch will nag at you.
+fortuneLow2: Trade the chapter for a walk. The body remembers slopes and distances no book could describe; you'll have to close the book first to feel it.
+fortuneLeast: Shut the book and use your hands. Another page won't fix the dripping tap, however much you'd rather read about it.
+fortuneLeast2: Mend the thing, rewire the lamp, trust the wrist that already knows the motion. Some knowledge never lived on a shelf, and leaning on it is the harder reach for you.
 facetMostTitle: Each Label a Citation
 facetMost: You annotate the margins of borrowed books and shelve them by argument, not author.
 facetHighTitle: The Hock Giving up Its Salt

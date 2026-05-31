@@ -7,11 +7,16 @@ trait: clingy
 dish: Bhuna mung - dry-roasted whole mung beans with chili, cumin, and dried mango.
 quote: Love is that condition in which the happiness of another bean is essential to your own.
 seasonalFortune: A season of held heat. The pan crowds with small bodies leaning in, chili threading between them, and nothing in this kitchen cools alone.
-fortuneMost: Call someone on a nothing day with the loud good news of a bird outside. That call gets remembered.
-fortuneHigh: Pull the chair closer once. The second scoot is the one with the spotlight on it.
-fortuneMid: Two days quiet is nothing. Five days, write — and lead with a question, not a check-in.
-fortuneLow: The door is open and they walked out of it. That isn't a leaving; turn the music up and stir something.
-fortuneLeast: Cancel the plan you're already dreading. Cook for one with the chili you've been saving.
+fortuneMost: Reach for no reason — just the small thing you noticed and wanted them to have. That's the call they keep.
+fortuneMost2: Small regular deposits of love, asked for or not, are the whole practice of closeness. Nothing in this pan cools alone, and neither do you.
+fortuneHigh: The leaning-in you're shy about is the very thing that makes a place feel held. Pull the chair the last few inches closer.
+fortuneHigh2: Wanting people near is no flaw to tuck away. Let your sentence trail after them out the door.
+fortuneMid: A quiet stretch is not a leaving. When you do reach, lead with a real question — a check-in just rings the anxious bell.
+fortuneMid2: The thread holds slack without snapping. Trust it more than the theory wants you to.
+fortuneLow: Someone needing space is not someone walking off. Let them go and tend something of your own; it'll feel like loosening a grip you don't want to loosen.
+fortuneLow2: Two unread messages almost never mean what the careful evening theory builds out of them. They were busy.
+fortuneLeast: Cook for one and let the quiet house be the warm room. Your own company will feel thinner than it is at first, then it won't.
+fortuneLeast2: A solitary evening doesn't mean anything's wrong, however much the empty sofa-end argues otherwise. Solitude roasts you whole and gives you back.
 facetMostTitle: The Pan That Asks for Stillness
 facetMost: You wait out the long roast of a friendship, calling on the days nothing is owed, because the closeness is the practice.
 facetHighTitle: Mango-Sharp, the Heap Holding

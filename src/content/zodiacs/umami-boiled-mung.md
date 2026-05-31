@@ -7,11 +7,16 @@ trait: quiet
 dish: Vietnamese mung bean soup with pork and dried shrimp.
 quote: Silence is a bean's wisdom.
 seasonalFortune: Days pass at the pace of a long simmer; the shrimp give up their salt without fanfare, and rooms grow heavier with what no one bothered to say.
-fortuneMost: The sentence you've rehearsed for a week — send it as one line, no greeting, no apology trailing after it.
-fortuneHigh: When a meeting turns and waits for you, breathe through the silence before speaking. The pause is doing your work for you.
-fortuneMid: Resist sending the softer follow-up. The first message was already warm; the chaser only dilutes it.
-fortuneLow: Tell someone close one harmless opinion — the film you didn't like, the bread you prefer. They've started forgetting what you sound like.
-fortuneLeast: At the next meal, speak first. Not the considered version; the half-formed one. Let them see the unfinished beneath the polish.
+fortuneMost: The sentence you've cooked down to one line — say it. No greeting, no apology trailing behind it.
+fortuneMost2: Your quiet is about to be the thing a noisy day needs most. Someone will steady themselves on it without quite knowing why.
+fortuneHigh: When the table turns and waits for you, breathe through the silence first. The pause is already doing your work.
+fortuneHigh2: Hold the thought until every extra word has boiled off. What's left lands harder than the long version ever would.
+fortuneMid: Skip the softer follow-up you're tempted to add. The first words were warm enough; the chaser only thins them.
+fortuneMid2: You walk into a loud room and the volume drops a notch before you've spoken. You owe it nothing more to have earned your place.
+fortuneLow: One harmless opinion told to someone close — the film you hated, the bread you swear by. They're forgetting the sound of you, and you'll feel oddly exposed handing it over.
+fortuneLow2: A little of the day narrated to whoever's nearest, the small grievance, the rain on the walk. The warmth is worth the noise you'd rather not make.
+fortuneLeast: Go first, and not the polished version — the half-cooked one, raw in the middle. Letting them see the unfinished underneath will cost you the cover you usually keep.
+fortuneLeast2: A silent room isn't a fault to mend. Sit in the pause before you rush to fill it — even though leaving it open will feel, to you, like leaving a pot unattended.
 facetMostTitle: The Shrimp's Kept Salt
 facetMost: At the table, you listen through a whole meal and leave with the one thing worth carrying.
 facetHighTitle: Pork Bones in Slow Heat

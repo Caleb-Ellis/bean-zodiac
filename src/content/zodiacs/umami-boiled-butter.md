@@ -7,11 +7,16 @@ trait: sleepy
 dish: Butter bean broth simmered with Parmesan rinds, rosemary, and garlic.
 quote: Let sleeping beans lie.
 seasonalFortune: The simmer takes the whole afternoon. Steam thickens the windows, the rind softens by degrees, and the season runs on the rest no one tracked taking.
-fortuneMost: Take the whole afternoon. Close the curtains, leave the phone in the other room, and don't apologise to anyone — the rest you've been postponing is the appointment, not the obstacle to it.
-fortuneHigh: Cancel the evening plan and go to bed before the news. The friend will understand; sleep is the favour you owe yourself first.
-fortuneMid: The three o'clock yawn is not weakness — it is information. Let it land, drink the water, and don't argue with what the body has already decided.
-fortuneLow: The early hour is yours before anyone claims it. Use it quietly, without ambition, for the thing that needs only you and the kettle.
-fortuneLeast: The restlessness has a use this week. Stay up with it once — write the thing you've been circling while the house is asleep, and let the morning find what you made.
+fortuneMost: Take the whole afternoon. Curtains drawn, phone in another room, nothing on the other side of it.
+fortuneMost2: A long, deep sleep is coming for you, the kind you wake from not knowing the hour. It will set more right than you expect.
+fortuneHigh: Cancel the evening and turn in early. They'll understand the favour you owe yourself first.
+fortuneHigh2: The twenty-minute nap that runs to dusk is not a failure of character. The evening rearranges itself around your absence and does not complain.
+fortuneMid: That three-o'clock yawn is information, not weakness. Don't argue with what the body already decided.
+fortuneMid2: Half a beat behind the conversation, cup refilled, easing back in. Nobody minds the gap but you.
+fortuneLow: The quiet hour before anyone else claims it. Yours, for the thing that needs only you in it.
+fortuneLow2: Light sleep, waking at the first creak in the hall — if the night hands you whoever else is up, sit with them a while. You'd rather be under the blanket, but the company is its own kind of warm.
+fortuneLeast: A restlessness with a use in it. Stay up with it once and finish the thing you've been circling, even as part of you keeps begging for the pillow.
+fortuneLeast2: Some stretches the body forgets that tired is a thing it does. Spend the surge before it fades — and don't be surprised when the crash comes to collect.
 facetMostTitle: The Pot Left to Simmer
 facetMost: You doze through two alarms and arrive at the day the way the broth arrives at flavour — when it's ready, and not a minute before.
 facetHighTitle: Steam on the Lid

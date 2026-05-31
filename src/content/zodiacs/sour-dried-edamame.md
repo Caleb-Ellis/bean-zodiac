@@ -7,11 +7,16 @@ trait: pointed
 dish: Dried edamame with ponzu and toasted sesame.
 quote: The pen is mightier than the bean.
 seasonalFortune: Ponzu sharpens in the bowl as the pod dries. A season for short sentences; the citrus does the rest.
-fortuneMost: Ask the question they've been dancing around for forty minutes. Out loud.
-fortuneHigh: Reply in three lines. The paragraph was for them, not the problem.
-fortuneMid: Answer in one word. Watch the meeting move.
-fortuneLow: Soften the verdict on the walk to the door. They asked for a guess.
-fortuneLeast: Don't throw yet. The board hasn't decided what it is.
+fortuneMost: Ask aloud the question the whole table has been circling, and watch the evening finally move.
+fortuneMost2: One clean sentence names the flaw while the polite nodding still holds, and everyone gets to stop pretending. That sentence is yours.
+fortuneHigh: A friend tells it in nine sentences; hand it back in two. The shape you find in the tangle will surprise them, the way citrus finds the bone of a dish.
+fortuneHigh2: Three lines where a paragraph wanted to grow. The paragraph was your comfort; the three lines are the actual answer.
+fortuneMid: What you owe fits in one plain sentence. Don't pad it — the brevity is the apology's honesty.
+fortuneMid2: Say the one word and let things settle around it. Short isn't cold from you; it's the truth with nothing stuck on.
+fortuneLow: Take the long way round to the answer. The short one shuts the door, and the person at it was asking for a guess, not a verdict — even if circling chafes you.
+fortuneLow2: Soften the point before it lands. A blade that clean leaves a mark on whoever was carrying the bad idea, and dull edges are the cost of not leaving one.
+fortuneLeast: Don't throw yet — the thing hasn't decided what it is. Sit in the not-knowing past the point it's bearable, and let it ripen.
+fortuneLeast2: A verdict left open and circled comes back kinder than the one you'd have fired off. The waiting itches the whole way through; it's worth it anyway.
 facetMostTitle: Sesame at the Dark Edge
 facetMost: At the dinner you ask the one question the table has been circling all evening, and the wine in the second bottle gets opened a half-hour late.
 facetHighTitle: The Pod's Dried Seam

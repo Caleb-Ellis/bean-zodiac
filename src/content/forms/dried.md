@@ -3,6 +3,7 @@ slug: dried
 name: Dried
 tagline: The Form that outlasts.
 traits: [austere, concentrated, stoic, solitary, unyielding]
+toneOfVoice: Delivers spare and concentrated; no spare words, no softening.
 ---
 
 Drying is reduction. The moisture that made the Bean soft and immediate is drawn out slowly until what remains is dense, light, inert — capable of sitting undisturbed on a shelf for years. Nothing is added. Only what is inessential is taken away.

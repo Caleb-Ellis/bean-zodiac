@@ -3,6 +3,7 @@ slug: bitter
 name: Bitter
 tagline: The Flavour that must be acquired.
 traits: [discerning, complex, cultivated, intelligent, cold]
+toneOfVoice: Tints the voice dry and discerning — warmth kept at one remove.
 ---
 
 Bitterness is the flavour that takes the longest to love. Children reject it; cultivated palates seek it out. The dark chocolate that sharpens the caramel. The radicchio that wakes the whole salad. The aperitivo that opens the palate before the meal begins. Bitterness is not failure — it is contrast applied with intention, the flavour that makes everything around it more vivid. Bitter Phases work the same way.

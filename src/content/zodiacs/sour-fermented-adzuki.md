@@ -7,11 +7,16 @@ trait: self-aware
 dish: Adzuki and natto rice bowl with ponzu and spring onion.
 quote: Know thyself? If I knew myself, I'd bean away.
 seasonalFortune: A season of long ferments and clear ponzu. The pickled adzuki sits in its brine and is not surprised by what the brine has drawn out of it.
-fortuneMost: Wear the outfit you put on first. You've changed three times and the third version is a stranger; the stranger is worse company than you.
-fortuneHigh: Confess the tic to the friend who's been clocking it for months. They'll be relieved you finally caught up.
-fortuneMid: Put the diary down and go buy fruit. Self-knowledge is not nutrition.
-fortuneLow: When someone asks how you are, answer with what you've actually eaten in the last day. The truth is suspiciously close to the snack.
-fortuneLeast: Skip the post-mortem. Nothing happened; let nothing happen.
+fortuneMost: The first thing you reached for was the honest one. You knew yourself before you talked yourself out of it.
+fortuneMost2: You already know which apology you owe, and exactly why you've stalled on it.
+fortuneHigh: A tic you clocked in yourself years ago is about to get named aloud by someone else. You'll only feel relieved they finally caught up.
+fortuneHigh2: When they ask why you pulled back, the real reason is right there — dated, filed, true. Hand them that, not the tired stand-in.
+fortuneMid: The brine teaches by sitting, not stirring. You've audited the mood enough; go eat something.
+fortuneMid2: A small thing keeps asking to be done while you trace where the feeling came from. It doesn't need sourcing. It needs doing.
+fortuneLow: A want is surfacing with no explanation attached. Follow it before you build the case — the want won't wait the way the footnote will.
+fortuneLow2: Someone asks how you are; give them the plain truth, un-annotated. It'll feel like standing without your notes, but the bare version travels further.
+fortuneLeast: Some ferments come out best when no one lifts the lid.
+fortuneLeast2: A clear morning, an easy appetite, no inventory of the shape you cut. Your hands will itch to check the day for flaws — leave it whole, just this once it costs you nothing.
 facetMostTitle: Natto's Own Thread
 facetMost: You revise a sentence and recognise, mid-cut, the exact tic you've been editing out of yourself for years.
 facetHighTitle: Ponzu, No Apology

@@ -7,11 +7,16 @@ trait: methodical
 dish: Sopa de frijoles negros - Cuban black bean soup with lime and epazote.
 quote: Genius is one percent inspiration and ninety-nine percent bean.
 seasonalFortune: A season for long soaks and patient simmers. The epazote goes in when the epazote goes in; the pot keeps a quieter clock than the cook.
-fortuneMost: Finish step three before anyone tells you step four. Their step four is wrong anyway.
-fortuneHigh: Someone asks you to skip ahead. Say "after this," and mean it as a full sentence.
-fortuneMid: One item in your sequence is in the wrong slot and has been bothering you all week. Move it. The relief is the point; the rest of the sequence has been waiting on this small correction.
-fortuneLow: The plan is already lying to you. Follow the deviation for an hour; it knows something you don't.
-fortuneLeast: Begin in the middle. The beginning has been waiting so long it has fermented.
+fortuneMost: Good fortune soaks overnight. The step you finish in its own time is the one that holds.
+fortuneMost2: One thing closing cleanly before the next one opens — that quiet click, over and over, is how your luck gets built.
+fortuneHigh: Someone presses you to skip ahead. "After this" is a whole answer. The soak isn't done softening yet.
+fortuneHigh2: Sort the loose pieces before you start. The minute spent up front is bought back twice over by the end.
+fortuneMid: One thing sits in the wrong place and won't stop tugging at you. Move it.
+fortuneMid2: Oldest first, even the ones gone cold by the time your hand reaches them. The cold ones still count.
+fortuneLow: An unfamiliar road, and the careful plan starts to lie. Follow the wrong turn a while — it knows something the map didn't.
+fortuneLow2: A thing begun in the middle can still hold. Trust the bowl that arrives unsoaked. It costs you the comfort of order; it arrives anyway.
+fortuneLeast: Begin where the heat already is, not where the page says. Your hands will itch to put it back in sequence. Leave it scattered.
+fortuneLeast2: Lime before the bean has softened feels wrong and is sometimes exactly right. Move with the change.
 facetMostTitle: Soak, Rinse, Simmer, Salt
 facetMost: You keep the order in your head like a rosary, and you start the next step only when the last one has finished speaking.
 facetHighTitle: The Shelf Before the Stove

@@ -7,11 +7,16 @@ trait: introspective
 dish: Black bean and douchi braise - black soybeans with fermented black bean paste, ginger, and Shaoxing wine.
 quote: Who looks outside, dreams; who looks inside, awakens the bean.
 seasonalFortune: A season for crocks left undisturbed, for ginger steeping into wine, for darknesses that grow more articulate the longer they are not opened.
-fortuneMost: Reread an old journal entry from a year you've avoided. The sentence you wrote then is the answer you're looking for now.
-fortuneHigh: Bury something — a coin, a slip of paper, a seed — somewhere only you'll know. Come back in a month.
-fortuneMid: A stranger will look at you a beat too long, somewhere out in the day. They saw it; you can stop hiding it.
-fortuneLow: Tell one person the second thing you were going to say, not the first.
-fortuneLeast: Open the drawer you've been ignoring. It's the second envelope, not the top one.
+fortuneMost: The realest conversation you'll have all turn happens where no one can watch it.
+fortuneMost2: A friend asks how you are and the true answer surfaces three days later, whole. Trust the slow account over the quick one.
+fortuneHigh: Walking home alone in the dark, you'll finally catch what the kitchen actually meant.
+fortuneHigh2: Everything you say aloud has been turned over somewhere private first. Don't let the rehearsal swallow the saying.
+fortuneMid: The surface holds calm while the depth keeps deepening, until the closest people are reading weather instead of words. Bring one buried thing up where they can see it.
+fortuneMid2: You hand over the headline and leave them to follow up — but offer the next sentence too. They'd rather have the words than guess.
+fortuneLow: Say the half-formed thought before it finishes. The talking will do some of the thinking for you.
+fortuneLow2: Tell someone the small annoying thing out loud and laugh at it. Handing it over feels exposing; carrying it alone won't make it count more.
+fortuneLeast: An omen for the unguarded mouth this turn — decide at the door, in company, out loud. The first honest reaction beats the polished one that never arrives, even when it lands rough.
+fortuneLeast2: Spill the whole account in order, no edit for the private room first. Letting it run loose costs you less than you fear.
 facetMostTitle: Douchi Overnight
 facetMost: You keep one notebook nobody has seen; everything you say aloud has been rehearsed there first.
 facetHighTitle: The Thickening Braise

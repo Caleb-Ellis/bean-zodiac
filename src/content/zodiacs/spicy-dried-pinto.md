@@ -7,11 +7,16 @@ trait: untempered
 dish: New Mexican dried pinto bean stew with ancho and red New Mexico chile.
 quote: It's better to burn out than to bean away.
 seasonalFortune: The pot keeps no quiet hour; ancho and dried pinto throw their heat against the lid, and the kitchen lives at full pitch from morning on.
-fortuneMost: Overshoot. The version they remember is past where they asked.
-fortuneHigh: Say the loud thing first. Let the second sentence stay quiet.
-fortuneMid: Answer the question they asked. Not the three you prepped.
-fortuneLow: Bring less. They're not sparring.
-fortuneLeast: Cook the three-ingredient version. The pantry will be glad of what you didn't spend.
+fortuneMost: Asked for a little, you'll deliver a lot, and it'll be great. Just keep something in the tank for the thing that's actually due.
+fortuneMost2: A pot that keeps no quiet hour, throwing its heat against the lid from morning on. Full pitch is your working volume.
+fortuneHigh: Say the loud thing first and let the second telling stay quiet. You don't have to cover all of it in one breath.
+fortuneHigh2: The version they'll remember is the one that overshot. Push it past where anyone asked, then put down the spoon.
+fortuneMid: Answer the question actually asked, not the three you prepared for. The other two keep fine.
+fortuneMid2: Cook for the company at the heat they came for, not the heat you'd cook for yourself. The dial is there even if you never reach for it.
+fortuneLow: Bring less than you packed. They came to share a meal, not be out-catered, and easing off won't dull you — however much it feels like it might.
+fortuneLow2: The whole batch was for a hunger that isn't at this table. A small portion carries this one all the way.
+fortuneLeast: Make the three-ingredient version. The pantry's glad of everything you didn't pour into it, and so, by the slow weeks, will you be.
+fortuneLeast2: Not every ask is worth the whole tank, and learning which is which is the quiet art you've skipped. Spend in small increments and hold the rest back.
 facetMostTitle: Char on the Pod
 facetMost: You finish a draft by pushing it past the point where anyone asked, then send it anyway.
 facetHighTitle: Ancho Cracked Across the Board

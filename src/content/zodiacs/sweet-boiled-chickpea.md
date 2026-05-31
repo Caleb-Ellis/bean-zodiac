@@ -7,11 +7,16 @@ trait: agreeable
 dish: Chana dal halwa — split chickpeas boiled down with ghee and sugar into a dense, golden sweet.
 quote: Piglet noticed that even though he had a very small bean, it could hold a rather large amount of gratitude.
 seasonalFortune: A long simmer over low heat; ghee loosens what was hard, sugar gilds what was plain. The year asks for softening, and softening is given freely, often before the asking.
-fortuneMost: Pick the restaurant. Book it without polling the group chat, and send the address with no caveats — the warmth you usually spend on accommodating, spend on choosing well for once.
-fortuneHigh: When the question comes wrapped as "what do you think?", answer with the actual preference and the actual reason, and then let the silence do its work before you rush to soften it.
-fortuneMid: Say the small ungarnished no this week — to the lunch, the favour, the third reread — and notice that the person on the other end is fine, has always been fine, and probably expected it.
-fortuneLow: The shape you've folded yourself into has stopped fitting; stand up at the table, order what you actually want, and let the menu rearrange around you for once.
-fortuneLeast: Start with the colour of the mug, then the temperature of the drink, then the chair you'd actually like to sit in — preferences are a muscle, and you have been resting yours for a long time.
+fortuneMost: You take whatever shape the night needs and call it ease — and the night is smoother for it. Let that gladness be a real gift, freely given.
+fortuneMost2: The easy yes at the end of the long thread is you, and you mean it every time. Lean in; not every plan needs your veto.
+fortuneHigh: You're agreeing before the table even asks, and the warmth in it is real. Go along glad, but keep your own taste somewhere in the dish.
+fortuneHigh2: A door opens because you didn't dig in your heels, and good things tend to walk through the doors you hold.
+fortuneMid: Try the small no with no sugar on it. The person hearing it is fine, was always fine, and half expected it anyway.
+fortuneMid2: Say where you'd actually rather go before you smooth it over. Flexible is lovely; invisible isn't.
+fortuneLow: The shape you've folded yourself into has stopped fitting. Order the thing you want; let the table rearrange around it. Taking up room isn't taking too much.
+fortuneLow2: Sweetness won't loosen a wrong charge or a bad deal. Keep your tone level and the figure exact until it's put right, however much you'd rather just let it slide.
+fortuneLeast: A preference is a muscle, and yours has been resting. Start small — the mug, the seat, the drink. Pick the one you want, fuss or no fuss.
+fortuneLeast2: Some things shouldn't slide over to make room for the comfortable answer. Hold your ground and let it stay yours, even when holding it costs you the easy peace.
 facetMostTitle: Split Open, Stirred in
 facetMost: In a room of louder appetites you take the shape the room needs, and call it ease.
 facetHighTitle: Ghee on Every Grain

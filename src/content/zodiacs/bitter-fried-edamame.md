@@ -7,11 +7,16 @@ trait: decisive
 dish: Agedashi - edamame with bitter dashi and daikon.
 quote: In any bean moment of decision, the best thing you can do is the right thing.
 seasonalFortune: A season for sharp oil and short pans. Daikon grates itself thin against the season; pods scorch before the doubt arrives. The almanac favors the cut already made over the cut still being weighed.
-fortuneMost: Call it before the next email lands. The deciding was done days ago; you've been stalling for the appearance of having weighed it longer.
-fortuneHigh: Show one line of the working, then the verdict. Otherwise it lands as a decree.
-fortuneMid: Pick the chair, the hour, the route home — before the afternoon ends. Decision fatigue is just decisions postponed.
-fortuneLow: Reopen the door you slammed. The reason it's still being knocked on is that you were 80% right, not 100%.
-fortuneLeast: You were wrong. Skip the explanation; the apology is two sentences shorter and works better.
+fortuneMost: The deciding was done long ago. Call it. Stalling to look like you weighed it longer fools no one, and nobody's grading the pause.
+fortuneMost2: The rent, the route, the no — all three in one breath, and the room adjusts around the heat you brought. That clean cut is yours.
+fortuneHigh: Show one line of the working before the verdict. The call is right; the missing line is all that made it sound like a decree.
+fortuneHigh2: You knew before the menu was finished — the fish, the bread, the way home, three clean pauses while the queue is still reading the board.
+fortuneMid: The chair, the hour, the route, chosen before the doubt grates in. Half your fatigue is just choices you kept postponing.
+fortuneMid2: Say it once, then commit. Circling an answer you've already found buys you nothing.
+fortuneLow: A door you shut still gets knocked on. Eighty percent right isn't a hundred — reopen it. It stings, and it's honest.
+fortuneLow2: Leave the plan loose past the point you'd usually seal it. The open shape unsettles you; the form that finds you later fits better for the wait.
+fortuneLeast: You were wrong about that one. Say so — apology only, working left out, two sentences shorter than you want it.
+fortuneLeast2: Not every fork needs your cut. Hand this one back and let it sit unsettled, even though the unsettled part is exactly what chafes.
 facetMostTitle: Oil at Temperature
 facetMost: You name the rent, the route, the no — once, in a single sentence — and let the room adjust around the heat you brought.
 facetHighTitle: The Shell at First Bite

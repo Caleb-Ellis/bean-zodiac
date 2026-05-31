@@ -7,11 +7,16 @@ trait: ambitious
 dish: Spicy cannellini and ricotta fritters with Calabrian chili.
 quote: Shoot for the bean. Even if you miss, you will land among the legumes.
 seasonalFortune: A season that runs hot from the first crackle. Oil climbs fast, ricotta thickens under pressure, and the fritter sets gold before the pan has cooled — every day asking what comes next.
-fortuneMost: Cut the third project. Start the fourth anyway, by the end of the week; the third was just inventory dressed up as ambition.
-fortuneHigh: Look left. The person sprinting beside you has been waving for days and you're about to win a race nobody entered.
-fortuneMid: Do the favour quietly, before the week is out. Don't tell them. The not-telling is the entire move.
-fortuneLow: Don't send the cold follow-up yet. If they want it, they remember; if they don't, the nudge buys you a meeting you'd rather not have.
-fortuneLeast: Pick a new road. The old one ends at someone else's success and you don't want to arrive there.
+fortuneMost: When the offer comes, take its larger version. You're already half in the next room anyway.
+fortuneMost2: The next thing is crackling in the pan before this one has set. Feed that hunger — it's the whole engine.
+fortuneHigh: Aim past what they expect of you. Say the bigger plan out loud and it stops being only yours.
+fortuneHigh2: A door cracks for whoever's already climbing toward it. Fortune favours your reach.
+fortuneMid: Take the road that climbs a little. You don't need the summit, just a peak to point the day at.
+fortuneMid2: Under all that patience sits a plain want. Name what you're after.
+fortuneLow: Let the empty wall stay empty a while. Leaving it bare grates against you — let the wall win this once.
+fortuneLow2: A good thing is allowed to stay its own size. Not making it bigger costs you the climb and spares you the strain.
+fortuneLeast: A long afternoon with no claim on it. Doing nothing with one is harder for you than any summit; that's the practice.
+fortuneLeast2: Someone near you has been waving a while. Turning toward them means looking back instead of ahead — which never feels right and almost always is.
 facetMostTitle: Chili Oil at First Light
 facetMost: You begin a thing nobody asked for, then a second before the first has set, and a third by dusk.
 facetHighTitle: Cannellini Hitting the Pan

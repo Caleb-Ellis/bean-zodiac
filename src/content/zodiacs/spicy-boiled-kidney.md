@@ -7,11 +7,16 @@ trait: stubborn
 dish: Rajma - Punjabi kidney bean curry with dried red chilies and whole spices.
 quote: It does not matter how slowly you go so long as you do not bean.
 seasonalFortune: A season that simmers without softening. Heat orbits the hull, chilies steeping the broth around a centre that will not yield its shape to the pot.
-fortuneMost: Hold your ground this week and don't justify it. They will tire of asking; you won't tire of standing.
-fortuneHigh: Don't send the reply yet. The version that works arrives after a few days of silence; the one you'd send now burns the bridge.
-fortuneMid: Deliver the apology you've been carrying. Out loud, in person, without the qualifier. The stone has to leave the pocket.
-fortuneLow: They've routed around you. Walk back into the room before the route hardens into a habit.
-fortuneLeast: Open the fist. Whatever you were gripping ended weeks ago and the only thing left is the cramp.
+fortuneMost: Pressure orbits you and breaks up harmless. They'll tire of asking long before you tire of standing — and you both know it.
+fortuneMost2: What you decide keeps being true after the room has tried to change it. Hold the terms; the world learns to bend around the bean that won't.
+fortuneHigh: The reply that works arrives after the silence. The one you'd fire off now burns the bridge — wait for the version of you that isn't reacting.
+fortuneHigh2: A hard center is its own kind of luck — while everyone else is swayed, you hold, and holding turns out to be exactly right.
+fortuneMid: The apology you carry like a stone in the pocket has to leave the pocket. In person, no qualifier — and yes, it weighs something to set down.
+fortuneMid2: A grudge you've held so long it feels like yours isn't worth its rent. You don't have to win to put it down, though putting it down won't feel like winning either.
+fortuneLow: They've started routing around you. Walk back into the middle of things before the detour hardens into the map — even if meeting them halfway galls.
+fortuneLow2: Take the seat offered and the topic chosen, just this once. Bending to the evening costs you nothing you'll actually miss, whatever your heels say.
+fortuneLeast: Open the fist. Whatever you were gripping ended a while ago, and the only thing left in the hand now is the cramp.
+fortuneLeast2: Let the plans rearrange around you without digging in. The route you'd have insisted on isn't the only one home — loosening that is a quiet kind of brave for you.
 facetMostTitle: Chilies Before the Bean Yields
 facetMost: The household runs on terms you set in winter; furniture, mealtimes, the angle of a lamp — moved only when you move them.
 facetHighTitle: Red Oil at the Rim

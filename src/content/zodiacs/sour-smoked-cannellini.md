@@ -7,11 +7,16 @@ trait: piercing
 dish: Ribollita - Tuscan bread soup with cannellini, smoked pancetta, cavolo nero, and red wine vinegar
 quote: The truth will bean you free.
 seasonalFortune: A season for vinegar over smoke, for the bowl that asks a cold question of warm bread. Households eat slower; what was hidden in the broth surfaces.
-fortuneMost: Ask the question at minute four, not minute thirty. The meeting was going to end there either way; save them the twenty-six.
-fortuneHigh: You already know the line on page two is wrong. Reply-all with the line, not the apology around it.
-fortuneMid: Flag the receipt at the counter, not in the car. The car is where good catches go to die.
-fortuneLow: You'll be right by the end of the meeting and unwelcome by the end of the day. Pick which one matters more before you open your mouth.
-fortuneLeast: People stopped sending you drafts. They're not wrong to; the last note was correct three weeks too early.
+fortuneMost: Ask the real question early, not after the long way round. It ends where you'd send it anyway.
+fortuneMost2: You see the bone clean through the soft tissue before anyone else has looked. That early sight is a gift of yours — name what it shows you.
+fortuneHigh: You already know which part is wrong. The wrong part is what to say — not the apology wrapped around it.
+fortuneHigh2: The line everyone needed and nobody wanted is yours to give. Say it once and set it down to do its work.
+fortuneMid: Name the bad number where it sits, not in the car afterward. A catch saved for later is a catch that dies.
+fortuneMid2: Ask the off question evenly, with none of the softening that lets it get waved away. Plainness is what makes it land.
+fortuneLow: You can be right and unwelcome in the same breath. Now and then, choose welcome.
+fortuneLow2: A friend has chosen the road badly. Let it run its course this once — the lesson lands deeper than your warning would, though swallowing the warning is the harder thing.
+fortuneLeast: Hold the blade. Let them get there on their own, and watch what they bring back when nobody's been cut on the way in.
+fortuneLeast2: Agree where agreeing costs nothing, and feel how the air eases around you. You'll draw no blood, and you won't miss it as much as you think.
 facetMostTitle: Vinegar Before Salt
 facetMost: You name the thing in the room before anyone else has decided to look at it, and the room rearranges around your sentence.
 facetHighTitle: Smoke After the Rind

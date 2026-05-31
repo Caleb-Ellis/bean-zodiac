@@ -7,11 +7,16 @@ trait: opinionated
 dish: Adzuki bean crispy rice cakes with bitter orange syrup.
 quote: Well-beaned Beans are always dangerous.
 seasonalFortune: A season that rewards the cook who pulls the cake the moment it crackles. Bitter rind sharpens early; what hesitates in the pan goes soft at the edge.
-fortuneMost: Name the favourite, the worst, the overrated — in that order, at dinner, before the second drink. The hedged version is just you flinching in slow motion.
-fortuneHigh: When the opening comes, take it on the first ask. Second asks arrive worse and later.
-fortuneMid: Finish the sentence you've been muttering. Out loud, at dinner, before the plates land.
-fortuneLow: Skip the verdict, just at this table. Nobody asked, and you'll like the meal more for not delivering one.
-fortuneLeast: Get off the hill. It isn't a hill, it's a curb.
+fortuneMost: Your first read is the true one, crisp the instant it hits the oil. Say it whole.
+fortuneMost2: The verdict you gave before the question finished is about to be proven right, and loudly. A good week to be on record.
+fortuneHigh: You'll know the good one from the soft one before anyone else has tasted either. That eye is about to be wanted.
+fortuneHigh2: A clean call, taken on the first ask. Watch the room reshuffle around it.
+fortuneMid: There's a thing you keep half-saying. Carry it to the end of the sentence.
+fortuneMid2: One wrong note in an otherwise fine room. You'll hear it before anyone — and once is the whole job; saying it twice is just the oil burning.
+fortuneLow: Some crooked things keep better unstraightened. The verdict you swallow here buys you the evening.
+fortuneLow2: Someone is wrong and happy. The error is theirs to keep, though it'll itch at you like rind under the nail.
+fortuneLeast: The hill you're ready to die on is a curb. Step down — it costs only the standing, and you keep the friend.
+fortuneLeast2: A question left unranked, three reviews read and the thing still interesting from every side. It chafes, the not-deciding. Sit in it anyway.
 facetMostTitle: Syrup Against the Crust
 facetMost: At the bookshop you tell a stranger which novel on the table is the bad one, give your reasoning in two sentences, and walk off before they can disagree.
 facetHighTitle: The Rind at the Oil

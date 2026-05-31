@@ -7,11 +7,16 @@ trait: impulsive
 dish: Gan bian si ji dou - Sichuan dry-fried green beans with garlic, chili, and Zhenjiang vinegar.
 quote: Bean first, and think afterwards is not a bad motto.
 seasonalFortune: A season smelling of hot oil and Zhenjiang vinegar — sharp at the edges, brief in the middle. Each week ends before the pan has cooled.
-fortuneMost: Take the next exit, even if you don't know what's down it. The detour is the receipt; the planned route was never going to teach you anything.
-fortuneHigh: Mid-afternoon a jolt asks for a yes. Hand it over before you've finished phrasing.
-fortuneMid: There's an option you'd pick if a clock were running. It is. You can hear it.
-fortuneLow: Stand. Fill a glass. Then decide. The walk to the tap is the whole fortune.
-fortuneLeast: Four people asked you to wait. Tally them on the fridge and keep waiting.
+fortuneMost: The unmarked exit, the road you don't know the end of — that one's yours. Half of what's good in your life came at exactly this speed.
+fortuneMost2: The thought lands and your hand is already moving, fast as a pod hitting the screaming wok. That rush is pointed somewhere worth going.
+fortuneHigh: A yes leaps up in you before you've finished phrasing it. Hand it over hot.
+fortuneHigh2: An apology owed goes out rough and unedited, and the roughness is the honest part. The luck is in not letting it cool into something stiff.
+fortuneMid: The choice you'd grab without thinking is usually the right one. Grab it before the second thoughts talk it flat.
+fortuneMid2: Move the furniture the moment the idea lands. You'll likely redo it before long, and that's fine — the doing was the point.
+fortuneLow: Fill a glass and cross the kitchen before you decide anything. Standing still while the wok smokes runs against everything in you, and the slow walk is exactly the fortune.
+fortuneLow2: A rush can pass straight through you and leave you standing, the thing still there once it's gone. Waiting it out costs you the heat you love — try it anyway.
+fortuneLeast: A few people have quietly asked you to slow down. Hold the beat longer; it'll chafe, and the count is worth keeping.
+fortuneLeast2: Study a new face a while before you spend a word on it. The slow read grates against your speed and costs you nothing you'll miss.
 facetMostTitle: Vinegar in the Wok
 facetMost: You send the message the moment it forms; the reply can sort itself.
 facetHighTitle: Garlic Past Its Moment

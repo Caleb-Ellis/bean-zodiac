@@ -7,11 +7,16 @@ trait: indomitable
 dish: Maccu dolce — dried fava beans cooked to a thick paste with honey and fennel seed, a Sicilian Carnevale sweet.
 quote: She believed she could bean, so she did.
 seasonalFortune: A season that thickens by the hour, favas surrendering to honey only after long heat. The fennel keeps its bite; the paste keeps the shape of the spoon that worked it.
-fortuneMost: Make the meal for the grieving friend. Drop and go.
-fortuneHigh: Ask for help out loud. One sentence, no apology.
-fortuneMid: Split the carry. Hand them the lighter half.
-fortuneLow: Pour the honey on yourself for once. Take the bath.
-fortuneLeast: Let the message you don't want to answer stay unanswered. The bottom of the inbox is not a debt; it's gravity.
+fortuneMost: An oak still standing after the storm has passed — that's you, carrying the casserole up the grieving house's stairs, driving across the dark city when no one else would. They can lean their whole weight on you, and the strange gift is that you don't mind.
+fortuneMost2: Honey only surrenders the fava after long heat, and you're still over the pot when everyone else has gone to bed. The world is steadier for the few who won't break.
+fortuneHigh: You'll shoulder anyone's load and never name your own. Say the tired sentence out loud, no apology — feel how stiff that muscle is, and use it anyway.
+fortuneHigh2: The others drift home and you stay to set the room right, and the host finds you there at one. Let someone catch you choosing it, not only enduring it.
+fortuneMid: A mule pulling a long load uphill, grinding alone well past when it pays. Split the carry this time — hand over the lighter half. It'll feel like cheating; it isn't.
+fortuneMid2: The fennel keeps its bite long after the sweet, and so do you. Set the hammer down before the last push. Not everything has to stand tonight, and not by you alone.
+fortuneLow: Pour the honey on yourself for once — the rest, the long bath, the soft hour. Being tended will feel unearned; take it anyway.
+fortuneLow2: Set the glass down and walk out before the second round of voices rises. Choosing not to fight smarts going down — it's still strength.
+fortuneLeast: The bottom of the list isn't a debt; it's gravity. Some things are allowed to simply fall.
+fortuneLeast2: A free day in your hands with nothing on it, and a plain no to the next ask. Guarding it will feel selfish for about a minute, then it won't.
 facetMostTitle: The Bean That Will Not Dissolve
 facetMost: The group text goes quiet at hour three of a hard week; you are still answering, still asking the next question.
 facetHighTitle: Fennel After the Sweet

@@ -7,11 +7,16 @@ trait: wispy
 dish: Smoked moong dal with kokum and fresh coconut - Goan dal with kokum fruit and smoked mustard
 quote: My candle burns at both ends; it will not last the bean.
 seasonalFortune: A season when smoke leaves a room before anyone notices it arrived. Kokum stains the pot faintly; the coconut keeps its own counsel. Tending moves through the house like weather.
-fortuneMost: You'll start three things in a single morning. Pick the one you can still describe out loud hours later, and abandon the others without ceremony.
-fortuneHigh: Text the friend back from a day ago before you text anyone new. The order matters; you've had it backwards for weeks.
-fortuneMid: Close every tab except one. The one you can't quite close is what you've been pretending to think about.
-fortuneLow: Someone has been waiting for you to commit to a chair. Pick it before the week turns; the in-between is harder on them than a no.
-fortuneLeast: Take the same route, drink from the same mug, sit in the same chair. The repetition is not a cage right now; it's the room learning where to find you.
+fortuneMost: Three things begun at once, like seeds flung across a pan. Keep the one you can still describe out loud an hour on; let the rest cool without ceremony.
+fortuneMost2: Coats on chairs in three houses, sentences finished in different rooms. Don't fight the drift. Just notice where you keep landing.
+fortuneHigh: The friend you left half-answered comes before anyone new. The order is the kindness, and you tend to have it backwards.
+fortuneHigh2: Finish the thing that holds you longest and let the other two cool on their burners. Whatever still interests you is enough.
+fortuneMid: Everything closed but one. The one you can't quite shut is the thing you've only been pretending to think about.
+fortuneMid2: The errand you keep meaning to run is light enough to carry now. One last small step before it drifts off again.
+fortuneLow: Someone's waiting on you to land on a plan, and the in-between is harder on them than a clean no. Settle on one; you'll feel pinned, and choose it anyway.
+fortuneLow2: One walk, one conversation, and stay in it until it's actually done. The person in front of you can feel when you've half left.
+fortuneLeast: The same route, the same mug, the same chair. It feels like a cage from the inside; it's how people learn where to find you.
+fortuneLeast2: A loaf baked in one sitting, a room cleaned end to end before the light goes — the finished thing comes back around to you.
 facetMostTitle: Seeds Across the Pan
 facetMost: You leave coats on chairs in three different houses, finish sentences in different rooms, and forget which friend told you what.
 facetHighTitle: Kokum Bleeding Slow

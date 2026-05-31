@@ -7,11 +7,16 @@ trait: chaotic
 dish: Chimichangas - deep-fried burritos with spicy pinto beans and ancho chili.
 quote: In the middle of every bean lies opportunity.
 seasonalFortune: A season of spitting oil and half-folded tortillas; the kitchen of this bean runs hot, loud, and rarely in one direction for long.
-fortuneMost: Close five tabs. The sixth one is the only one alive and you've been hiding it from yourself.
-fortuneHigh: Play the old voice note you've been scrolling past. You recorded the answer once and immediately buried it under three new questions.
-fortuneMid: Cook the dish you made last time again, the same way. The version you're improvising into is the original with more chillies and less ground under it.
-fortuneLow: Smile and stall. Whoever wants you to pick a lane is drawing the lanes as they ask.
-fortuneLeast: Crumple the index card. Start three things you can't defend yet; the defending was the part slowing you down.
+fortuneMost: Six things half-made and fluent in all of them — the one that survives to evening beats any plan you could've written. Run with it.
+fortuneMost2: A good idea is loose in all that mess and it'll find you before the night's out. The scatter isn't the cost; it's the net.
+fortuneHigh: Of the five fires going at once, one is the live one. Find it; let the others gutter out without you.
+fortuneHigh2: An answer you already found is buried under three newer questions. Go back into the pile and dig it out — it's still good.
+fortuneMid: You're improvising on a dish you've cooked plenty. Make it the plain way this once; the original had more ground under it than the riff does.
+fortuneMid2: Two things to bounce between, not six. The crackle's the same and the trail home is shorter.
+fortuneLow: Fold the tortilla in front of you all the way before reaching for the next. Whoever's rushing you to jump is improvising too — let them wait.
+fortuneLow2: Let one thing be whole. Carrying it to the end instead of abandoning it mid-fold feels like a cage; it's actually a rest.
+fortuneLeast: The week's plan fits on a card, and the card doesn't get rewritten. Letting it just hold goes against your grain — and the steadiness is the gift in disguise.
+fortuneLeast2: Do the one thing already set for this slot. The day doesn't owe you six new beginnings, however much your hands want them.
 facetMostTitle: Ancho Heat in Every Corner
 facetMost: Six tortillas open on the counter, six fillings half-made; you move between them, finishing none, fluent in all.
 facetHighTitle: Oil Claims Whatever It Touches

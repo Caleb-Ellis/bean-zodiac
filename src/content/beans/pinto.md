@@ -3,6 +3,7 @@ slug: pinto
 name: Pinto Bean
 tagline: Your markings are your map.
 traits: [creative, expressive, spontaneous, imaginative, overemotional]
+toneOfVoice: Vivid and unfiltered; talks in images, feelings spilling through.
 imageFile: pinto.webp
 ---
 

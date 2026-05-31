@@ -7,11 +7,16 @@ trait: exuberant
 dish: Jin deui — fried glutinous rice sesame balls with sweet adzuki paste inside, golden and crisp and rolling.
 quote: It's beanin' time!
 seasonalFortune: Oil hits batter and the kitchen goes loud. A season for arrivals that come rolling in, sesame-flecked, refusing to enter a room without announcing themselves first.
-fortuneMost: Throw the party for the small thing. A promotion is obvious; an ordinary weekday is braver. Bake the cake mid-afternoon.
-fortuneHigh: Text six people the same dumb photo. Three will laugh, one will marry you, two will reply a day late — all good outcomes.
-fortuneMid: Toast something nobody else noticed survived. Out loud, with whatever's in the glass. Don't workshop the toast.
-fortuneLow: You're celebrating to avoid asking. Ask. The cake will taste better after.
-fortuneLeast: Skip the party you already dread. Frying-pan-hot dumpling, one friend, the kitchen counter — that's the night.
+fortuneMost: Bake the cake for the ordinary Wednesday. No occasion is the occasion.
+fortuneMost2: Hot oil, a loud kitchen, sesame everywhere — a week of arrivals is rolling toward you, and you'll be the one who makes them count.
+fortuneHigh: The dumb photo, the whole group, no caption needed. You just want them all in on it.
+fortuneHigh2: Someone's small win is going to land in your lap, and you'll throw it the welcome a bigger one would've gotten.
+fortuneMid: Whatever's in your hand right now, raise it for the thing that quietly made it through.
+fortuneMid2: A reason to call everyone over is coming. Until then you're fine without one.
+fortuneLow: Loud is easy for you. When it surges, glance once at what's underneath.
+fortuneLow2: A gladness is coming that wants no crowd. Holding it quietly won't dim it, though your hands will itch to roll it out for everyone.
+fortuneLeast: One friend, something hot from the pan, nothing announced. Let it be the whole evening.
+fortuneLeast2: You can be happy for someone without filling the air — hand them the moment and step back.
 facetMostTitle: Sesame in the Coat Seams
 facetMost: Your work leaves the studio before it's dry; whoever's nearest gets handed the warm half.
 facetHighTitle: The Lamp Left on

@@ -7,11 +7,16 @@ trait: magnetic
 dish: Frijoles negros enchipotlados - black beans roasted and simmered in chipotle adobo.
 quote: Some beans walk in the rain, others just get wet.
 seasonalFortune: A season when the adobo deepens by sitting; rooms tilt toward whoever stays longest at the pot, and the chipotle does the convincing.
-fortuneMost: Take the head of the table on purpose. People will follow you to a worse restaurant if you walk fast enough.
-fortuneHigh: Someone will ask what you actually think. Give them the chipotle answer, not the diplomat one.
-fortuneMid: Outlast the first exodus. The good conversation starts when the polite people stand up to leave.
-fortuneLow: Two invitations land before dinner. Decline both with a real reason — your evening is already on the stove.
-fortuneLeast: A name keeps orbiting your week. Say it aloud once into a hot kitchen, then bolt the door.
+fortuneMost: The circle is already forming around wherever you lean. Take the floor; you meant to host all along.
+fortuneMost2: A crowd is about to follow you somewhere without asking why. Make sure it's worth the walk.
+fortuneHigh: Give the smoky answer, not the polite one — what pulls people in is the part you almost left out.
+fortuneHigh2: Somebody at the edge is waiting to be turned toward.
+fortuneMid: One spice carries the whole pot. Stay past the first round and the good talk simmers its way over to you.
+fortuneMid2: Your ease does the work that effort can't. Nothing here needs steering.
+fortuneLow: The pull brings the good and the wrong both, and only you can sort them. Declining the night that isn't yours will feel ungrateful before it feels like wisdom.
+fortuneLow2: Some people orbit you because you're easy to orbit, not because they should. Let them drift.
+fortuneLeast: A name keeps circling back through your week like smoke under a door — you're allowed to stop answering it.
+fortuneLeast2: Slip out early and walk the long way home. The quiet kitchen was the company you came for, even when leaving the warm pot tugs.
 facetMostTitle: The Darkened Spoon
 facetMost: You walk into a room you didn't furnish and somehow it's yours by the second drink — you knew it would be.
 facetHighTitle: Smoke Around the Longest Char

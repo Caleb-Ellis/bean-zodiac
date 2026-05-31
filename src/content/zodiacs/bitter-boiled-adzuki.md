@@ -7,11 +7,16 @@ trait: judicious
 dish: Adzuki bean soup with chrysanthemum greens and yuzu.
 quote: To bean, or not to bean, that is the question.
 seasonalFortune: A life lived at low simmer. The pot keeps the back burner; skins yield only when ready, and the rooms around it learn to wait without resenting the wait.
-fortuneMost: Deliver the verdict at dinner. Skip the reasoning — nobody asked for the footnotes, and the footnotes are where you lose them.
-fortuneHigh: Pour the second cup of tea before you answer. That's the whole deliberation; the answer is already there.
-fortuneMid: Raise a glass to the small finished thing — the returned call, the cleared inbox. The occasions you keep waiting for don't show up unrehearsed.
-fortuneLow: The decision was made a while ago. Stop interviewing yourself about it and act like a person who has decided.
-fortuneLeast: Say yes to the thing on the calendar before you've earned it. The earning is what saying yes was for.
+fortuneMost: A patient bean reads the sky. The slow call you've been holding is the right one, and it will keep until you're ready to make it.
+fortuneMost2: Watch what you held back on come round again, clearer for the wait, while the fast answers curdle.
+fortuneHigh: Someone calls you before the hard choice, not for the easy answer but the fair one. Worth the time they're hoping you'll take.
+fortuneHigh2: A question you can't answer twice is coming. Let the skins teach you — they yield only when they're ready.
+fortuneMid: That decision finished cooking a while ago. You're keeping it warm out of habit.
+fortuneMid2: The careful part is done. What's left is just simmer, and simmer past ripe is only stalling.
+fortuneLow: You decided this already, and the fresh round of questions is just a way of not moving yet.
+fortuneLow2: Twice weighed, the same answer waiting — a third pass only delivers it late. The work is good; act on it, even if acting feels unfinished.
+fortuneLeast: Some luck only shows itself to whoever picks first. Point at the bright one and go; it'll be half-steeped and a little tart, and that's the price of arriving while the door's still open.
+fortuneLeast2: Out on the road, the turn belongs to whoever takes it before the doubt catches up. It may be the wrong turn. Take it anyway — you can't learn the road standing at the fork.
 facetMostTitle: The Long Steep
 facetMost: The apology owed since Tuesday waits on your tongue another day — you will deliver it whole or not at all.
 facetHighTitle: Greens, Slow to Wilt
@@ -30,7 +35,7 @@ answerLow: order what's on the next table
 answerLeast: point at random and close the menu
 rorschachMost: a bear couched low, head bowed, tail curled under
 rorschachHigh: an old tortoise drawn in, weighing whether to wake
-rorschachMid: a potato beside a larger potato
+rorschachMid: a potato beside a big bean
 rorschachLow: a hare mid-leap, hind foot already kicking off
 rorschachLeast: a curled tail unwinding, a loose wing flung out
 ---

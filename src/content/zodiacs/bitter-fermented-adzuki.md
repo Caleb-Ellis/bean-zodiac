@@ -7,11 +7,16 @@ trait: nostalgic
 dish: Adzuki paste with aged miso and bitter yuzu kosho.
 quote: The past is never dead. It's not even bean.
 seasonalFortune: A long cellar season. Miso darkens behind closed doors and the year asks for what has been kept rather than what is new. Old crocks earn their keep.
-fortuneMost: Dig out the letter you've been keeping in the drawer with the batteries. Write the reply you owed in 2019.
-fortuneHigh: Someone misremembers a year you were both in. Don't correct them out loud — correct them in the photo album later.
-fortuneMid: Call the person. Not to catch up — to ask the one question only they were there for.
-fortuneLow: What you're reaching back for is dimmer than what's in front of you. Eat your next meal facing the window, not the cellar door.
-fortuneLeast: A box gets handed to you. Re-tape it and pass it on — the weather it belonged to is gone.
+fortuneMost: You are the one who remembers the good year on everyone's behalf. Give someone back the part of it they'd forgotten was theirs.
+fortuneMost2: An old name surfaces again, the way a crock keeps after years in the dark. Reach back before you talk yourself out of it.
+fortuneHigh: Someone will tell a season you both lived wrong. Keep the true version yourself; it loses nothing in your keeping.
+fortuneHigh2: A few bars of a song, heard from a passing car, and a whole afternoon comes back intact.
+fortuneMid: There's a question only an old friend can answer. Ask it.
+fortuneMid2: What's already opened has only gone deeper. Finish the aged jar before you crack the new one.
+fortuneLow: The road ahead has gone brighter than the thing you keep turning over. Step out the door — though it's no small thing to leave the cellar at your back.
+fortuneLow2: Some things are done and won't call you back, and the quiet they leave is room, not loss. It won't feel like room at first.
+fortuneLeast: Someone hands you a box of their own old weather. Let it go on unopened — even when your hands, out of long habit, want to keep it.
+fortuneLeast2: Replace the worn thing instead of mending it once more. The shelf will sit strange and empty a while; travel light anyway.
 facetMostTitle: The Weighted Lid
 facetMost: You keep one thing past the point others would have thrown it out, and you know which one.
 facetHighTitle: Last Winter's Batch

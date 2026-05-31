@@ -7,11 +7,16 @@ trait: spare
 dish: Ginisang munggo - mung bean soup with dried tangerine peel and ginger.
 quote: The most important thing in communication is to hear what isn't being beaned.
 seasonalFortune: A season that simmers down. The tangerine peel gives its oil and nothing more; what is left in the pot is what was needed all along.
-fortuneMost: Cut one more thing. What's left will hold.
-fortuneHigh: Say it shorter and sooner. The first draft was already too much.
-fortuneMid: Send the one-line reply. It closes the question.
-fortuneLow: Set out a second chair. The bare table is reading as cold.
-fortuneLeast: Put out more than feels decent. Stay in the room while they take it.
+fortuneMost: Cut one more thing and what's left will still hold. What's left is exactly what was needed.
+fortuneMost2: Three ingredients named, the hour you stood at the stove left out. The care is in the doing, never the announcing.
+fortuneHigh: Shorter and sooner. The first version was already more than the moment asked for, and the trimmed one lands cleaner.
+fortuneHigh2: Keep only what earns its place; the rest goes without ceremony. A pared shelf breathes, and so do you.
+fortuneMid: One line is the whole answer — the question closed, no softening stitched on. That bareness reads as care, coming from you.
+fortuneMid2: Soup left at the door, and you already walking away. The gesture lands whether or not they ever trace it back to your hands.
+fortuneLow: A good crowd is on its way, and a bare table is reading as cold rather than clean. Pull out the second chair, set it fuller than your instinct wants — the over-giving will feel like too much, and it's the right too-much.
+fortuneLow2: Cook for the fuller table you're hoping for. Care this pared-down slips by unremembered; let this one be a little visible, even when that prickles.
+fortuneLeast: The thanks the quiet keeps stealing is owed to you. Put out more than feels decent and stay in the room while they take it in — being seen giving costs you the comfortable invisibility, and you're due it.
+fortuneLeast2: Let yourself be caught in the act of giving. The credit that keeps drifting to someone else can land on you this time; standing there for it is harder than slipping away, and you've earned the standing.
 facetMostTitle: Ginger, Peel, Bean
 facetMost: When friends ask for the recipe you name the three, and leave out the hour you stood at the stove.
 facetHighTitle: The Peel That Keeps

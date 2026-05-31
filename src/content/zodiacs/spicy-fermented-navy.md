@@ -7,11 +7,16 @@ trait: independent
 dish: Alubias con chorizo - Spanish white bean stew with spicy fermented sausage and smoked paprika.
 quote: The bean who follows the crowd will usually get no further than the crowd.
 seasonalFortune: A season of crocks left untouched in cool dark, salt doing its slow work. The cook who trusts the jar walks past it for weeks; the stew arrives ready.
-fortuneMost: You've already decided. Move before the room wakes up — once it does, everyone else will have an opinion you don't need.
-fortuneHigh: Cook the new dish for the friend who'll eat it and tell you what's off. Not for permission — for the seasoning you can't taste from inside the pot.
-fortuneMid: A friend has been queued up to tell you something annoying. Clear half an hour and let them.
-fortuneLow: One voice has been knocking politely for weeks. Pick up this week or it goes silent for good.
-fortuneLeast: Your mind's made up and the people who love you have stopped pushing. Crack the lid before it seals.
+fortuneMost: You've already decided while the others argue the menu. Move while it's yours — the late opinions were never the seasoning.
+fortuneMost2: Convictions arrived at in the dark, shaped by no hand but your own. A day is coming that proves the people who trust your clarity right.
+fortuneHigh: Show the new thing to the one friend who'll tell you what's off. Not for permission — for the seasoning you can't taste from inside the pot.
+fortuneHigh2: You start the moment it occurs to you and draft it alone, no audience, no vote. That early private momentum is simply how your best work gets made.
+fortuneMid: A friend has something annoying but useful to say. Clear the time and let them; the dish is better for one outside taste.
+fortuneMid2: Put your choice out and let the room have a few minutes with it. Independence survives a pause.
+fortuneLow: A voice has been knocking politely and won't knock forever. Answer it before it decides you've sealed shut.
+fortuneLow2: Wait to taste what the host already stirred in before you reach for the salt. Holding your hand feels like ceding ground; it's only good manners toward a pot that isn't yours.
+fortuneLeast: Your mind's made up and the people who love you have stopped pushing back. That silence is the warning, not the win — crack the lid before it seals.
+fortuneLeast2: Asking three people whether the price was fair isn't indecision. It grates to lean on a verdict that isn't yours, and some days the room sees what you can't.
 facetMostTitle: Salt Where the Hand Falls
 facetMost: You rearrange the kitchen so the salt sits where your hand falls, not where the last cook left it. Every shelf reset to your reach.
 facetHighTitle: Chorizo in a Dry Pan

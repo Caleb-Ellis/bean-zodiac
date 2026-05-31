@@ -7,11 +7,16 @@ trait: entrepreneurial
 dish: Panisse - chickpea fritters with bitter herb aioli.
 quote: The bean who moves a mountain begins by carrying away small stones.
 seasonalFortune: A season of hot oil and short fuses. Plans crackle into shape mid-air; the patient ones scorch, and the quick hands learn which spits to stand close to.
-fortuneMost: Close three tabs. The fourth idea is the one; the other three are alibis.
-fortuneHigh: Tell one person before the idea cools. Out loud — not a draft, not a doc; speech is the commitment.
-fortuneMid: Ship the older one first. Past-you saw the gap clearly; present-you keeps inventing fresher gaps to avoid finishing it.
-fortuneLow: Skip this gap. Not every hole in the market wants you in it.
-fortuneLeast: Let the good idea pass through you and out the other side without writing it down. Not every spark wants to be a fire; some are weather.
+fortuneMost: The one idea that won't leave you alone is the one to start. The other three are alibis.
+fortuneMost2: A shuttered front on a street you've crossed a hundred times, and you'll see exactly what it should be. The gap is yours — go find who holds the keys.
+fortuneHigh: Say it out loud to one person before it cools. Spoken, it becomes a commitment a kept thought never is.
+fortuneHigh2: The gap is real, the instinct sound, the oil still spitting. This is your stretch to begin.
+fortuneMid: Finish the older one first. The shinier new one is just a way to avoid landing the one you already saw clearly.
+fortuneMid2: One small stone is how a mountain moves — or it doesn't move at all. Pick a stone of this and lift.
+fortuneLow: An opening closes while you watch, and you don't walk through. It scratches. Not every door in the world was waiting for you.
+fortuneLow2: The half-planned trip keeps. It doesn't sour for sitting a thought longer, whatever the restless part insists.
+fortuneLeast: A good idea passes clean through you and out the far side. Some sparks aren't fires — they're only weather.
+fortuneLeast2: Years at one bench, and the drawer beside it knows every pen by name. It nags at the restless part of you; it was still worth the staying.
 facetMostTitle: Oil at the First Spit
 facetMost: You walk past a shuttered storefront and by the next block have the name, the menu, and the landlord's number — none of which you needed before lunch.
 facetHighTitle: Batter Before the Herbs

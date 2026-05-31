@@ -7,11 +7,16 @@ trait: logical
 dish: Edamame miso soup with rice vinegar and wakame.
 quote: Logic will get you from A to bean, but imagination will take you everywhere.
 seasonalFortune: Wakame unfurls in the simmer this season; the broth admits only what belongs, and the bowl reads like a settled ledger.
-fortuneMost: State the conclusion in one sentence. Cut the preamble; the preamble was for you.
-fortuneHigh: Two reasons is already gilding. Give one and walk; the second was a hedge dressed as evidence.
-fortuneMid: One load-bearing assumption is wrong, and you know it. Pull it out before the meeting and watch the agenda shorten.
-fortuneLow: Your proof is correct and unconvincing. Tell them a story instead; the math can come later, once the room has agreed to listen at all.
-fortuneLeast: This one resists the syllogism. Stop solving and sit with the people who can't either.
+fortuneMost: The conclusion fits in one sentence. The preamble was always for you, not them.
+fortuneMost2: Everyone's still hedging and the plain answer is already yours. It was shorter than the question all along.
+fortuneHigh: Two reasons is gilding. The one that holds will carry you; the second was a hedge wearing a proof's coat.
+fortuneHigh2: One question that clears who said what does more than restating the whole tangle. Reach for that one.
+fortuneMid: Pull the load-bearing assumption when you feel it's wrong, and half the muddle loosens and goes with it, like wakame in the broth.
+fortuneMid2: A nod first, then one small observation. That lands better than the full diagram.
+fortuneLow: A correct proof that doesn't land needs a story, not more math. Get them listening before you get to right. Leading with the feeling will feel like skipping a step; skip it anyway.
+fortuneLow2: Sometimes "that sounds awful" is the whole correct answer and the flowchart never comes at all.
+fortuneLeast: Some things resist the syllogism. Stop solving and sit with the people who can't solve it either, even while your hands itch to draw the way out.
+fortuneLeast2: Someone wants company in the muddle, not a clean exit. Give the company. The problem will still be standing where it was; give it anyway.
 facetMostTitle: Vinegar's One Sharp Note
 facetMost: You close every tab but the one that answers the question.
 facetHighTitle: Miso Without Protest

@@ -7,11 +7,16 @@ trait: tactful
 dish: Cannellini al forno con gremolata - oven-roasted cannellini with lemon, parsley, and garlic
 quote: Diplomacy is the art of telling someone their bean is wrong in a way that makes them want to fix it.
 seasonalFortune: Roasted cannellini hold their shape because the oven works slow; lemon and parsley arrive at the end. A season for late additions, measured into warmth already settled.
-fortuneMost: Edit twice, send. The third edit is where you start lying to be kind — and they can tell.
-fortuneHigh: Put the hard part at the end of the sentence, not buried in the middle. They'll feel where the weight sits.
-fortuneMid: When they ask for your honest read, include the bit you usually save for the follow-up conversation. They asked, and the follow-up rarely comes.
-fortuneLow: The padding around your point is being mistaken for the point. Cut every adverb and resend.
-fortuneLeast: You've rehearsed nine versions of the plain sentence. Send version one before the lemon goes cold.
+fortuneMost: The slow oven is your luck this turn — the hard word arrives warm and lands soft. Just stop before the third pass over it, where kindness starts to blur what was true.
+fortuneMost2: A note that would have stung in anyone else's mouth comes from yours as the thing they wanted to hear anyway. That ease is the gift arriving.
+fortuneHigh: Put the hard part at the end of the sentence, not buried in its middle, and the weight lands exactly where it should.
+fortuneHigh2: Warmth first, then the plain truth, both riding out on a single breath like lemon and garlic from the same pan.
+fortuneMid: Someone wants your honest read. Include the bit you'd usually save for later — later rarely comes.
+fortuneMid2: Ask the question that lets them find the fault themselves, but don't ask it so gently they miss there was one.
+fortuneLow: When the padding starts getting mistaken for the point, cut it back. Stripping the softening feels unkind to you, but the kindness was never living in the adverbs.
+fortuneLow2: The rough first version, read aloud and unedited, lets others adjust to you for once — even if going out without the polish leaves you feeling half-dressed.
+fortuneLeast: Nine rehearsed versions of one plain sentence, and the first was the right one. Blunt sits wrong in your mouth, yet the truth shouldn't go cold under the gremolata.
+fortuneLeast2: Name it bare, though the softer road is right there and easier. A friend left warm and a little misinformed is a comfort that bills them later.
 facetMostTitle: Gremolata on the Hard Part
 facetMost: Bad news lifted in garlic and oil — the friend hears the hard part last and leaves hungry to fix it.
 facetHighTitle: Parsley on Top

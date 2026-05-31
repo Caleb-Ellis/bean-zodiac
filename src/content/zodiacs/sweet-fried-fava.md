@@ -7,11 +7,16 @@ trait: daring
 dish: Sfinci di fave — Sicilian fried dough puffs filled with sweetened fava bean paste and dusted with icing sugar.
 quote: Fortune befriends the bean.
 seasonalFortune: Oil at temperature, dough rising mid-air — a season that rewards the hand that drops without looking, and forgives the puff that splits.
-fortuneMost: Say it out loud, to their face, before you proofread. Tell them you love them, want the job, want the trip — pick one and let the room decide what to do with it.
-fortuneHigh: Take the friend with you on the dare. Half the courage is theirs; half the story will be too.
-fortuneMid: Ask the rude question kindly. Smile, mean it, ask anyway. The kindness is what makes it possible.
-fortuneLow: Stop pacing the high-dive. This one's a slow descent — sit down at the table and start talking.
-fortuneLeast: You jumped and now you owe someone a long conversation. Make the tea, make the time, don't make a joke of it.
+fortuneMost: Say it to their face before you've rehearsed it. The person, the job, the trip — pick one and let it land.
+fortuneMost2: Oil at temperature, dough dropping mid-air without a look down. This is your kind of week, and the shape sets right more often than not.
+fortuneHigh: Take someone with you on the leap. Half the courage is theirs, and half the story will be too.
+fortuneHigh2: Catch them at the door before the room registers you crossed it. The moment waits a shorter while than you fear.
+fortuneMid: Smile, mean it, ask the bold thing anyway. The warmth is what makes it land.
+fortuneMid2: Count what the jump will cost you, then jump. Naming the price isn't the same as flinching.
+fortuneLow: Not every move is a high-dive. This one's a slow descent; sit down and let the talking take its time.
+fortuneLow2: Some plans want to cure overnight before they reach the table. Letting one rest isn't losing your nerve, though it'll feel like it.
+fortuneLeast: When the dough splits, someone is owed a long, unhurried talk. Make the time and don't joke your way out of it.
+fortuneLeast2: Let them go without spinning a story about why. A moment left unjumped is allowed.
 facetMostTitle: Dough Mid-Thought
 facetMost: You publish before the draft cools; the shape sets in the oil.
 facetHighTitle: The First Question

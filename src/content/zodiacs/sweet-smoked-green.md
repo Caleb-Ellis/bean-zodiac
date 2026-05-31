@@ -7,11 +7,16 @@ trait: iridescent
 dish: Southern green beans slow-cooked with smoked ham hock, brown sugar, and sweet onion.
 quote: A thing of bean is a joy forever.
 seasonalFortune: Slow smoke threads the pot until the green turns half-amber. The hours pass at the pace of a rendering hock, sweetness gathering by degrees.
-fortuneMost: Wear what you wouldn't normally wear on a plain weekday. The day will tilt to meet the outfit, and you'll notice who tilts with it.
-fortuneHigh: Take a different route to the same place. The new corner has something for you that the old one ran out of.
-fortuneMid: Change seats halfway through the meal. The second half of the conversation is on the other side of the table.
-fortuneLow: Order the same thing you ordered last time. Novelty is borrowing energy you haven't paid back yet; the standard will steady you.
-fortuneLeast: Give the same answer to "how are you" three times this week. Pick a true one and let it set.
+fortuneMost: You'll be a different person at every table and true at all of them. The green goes half-amber in the slow smoke; you meet each room in the colour it needs.
+fortuneMost2: Two friends will compare notes on you and half-doubt they mean the same person. They do, and that doubling is the gift, not the flaw.
+fortuneHigh: You read what a room wants and hand it over before you've thought about it. Lead with the angle each person actually cares for.
+fortuneHigh2: Take the unfamiliar road to the familiar place. You're the kind who arrives in different weather than they set out in.
+fortuneMid: Move seats halfway through the meal. The better half of the talk is waiting on the other side of the table.
+fortuneMid2: One story, two friends, the emphasis tuned to each — the way one hock flavours two different spoonfuls.
+fortuneLow: Order what you always order. The sameness steadies you, and going dull for a while will feel like going dim — sit in it anyway.
+fortuneLow2: Same mug, same chair, same way home. The repetition is a quiet kindness you rarely pour for yourself, even if holding one shape feels like holding your breath.
+fortuneLeast: Give one true answer to "how are you" and let it set. Being only one of yourself will feel strangely exposed, and it's still the rest you need.
+fortuneLeast2: Let a stranger guess you right on the first pass. There's relief in being the same to everyone, once you stop missing the shimmer.
 facetMostTitle: A Hock, a Different Spoonful
 facetMost: Friends describe you to each other and compare notes afterward, half-sure they mean the same person.
 facetHighTitle: Brown Sugar by the Minute

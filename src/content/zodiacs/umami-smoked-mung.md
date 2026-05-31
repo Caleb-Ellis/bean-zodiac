@@ -7,11 +7,16 @@ trait: steeped
 dish: Smoked mung bean congee with century egg, ginger, and crispy shallots.
 quote: We do not bean from experience — we bean from reflecting on experience.
 seasonalFortune: A slow stretch of low heat. The kitchen carries last month's smoke into this one, and the household learns the smell as weather.
-fortuneMost: Leave the chair where it sits. Guests learn the route around it; that's the welcome they're being given.
-fortuneHigh: Pour them the same tea from the same tin. The new visitor is not asking for novelty; they are asking for the version you have made a thousand times.
-fortuneMid: The reply from last Tuesday is still setting. Send it when its shape stops moving — Friday at the soonest.
-fortuneLow: Open a window before the next cup. The kitchen has stopped telling you what it smells like, and that's the smell.
-fortuneLeast: Spend the afternoon somewhere unfamiliar. The brew you've been sitting in has stopped giving back what it costs to keep warm.
+fortuneMost: The chair stays where it's always sat, and guests learn the route around it. That worn path is the welcome.
+fortuneMost2: Like a century egg, you only deepen by keeping still. The settling-in you bring is worth more than any novelty.
+fortuneHigh: Pour the same tea from the same tin. They came not for the new thing but for the version your hands have made a thousand times.
+fortuneHigh2: The lake at the right hour, the kitchen your hands already know — make the case for the place that's steeped in you. It has something to give back.
+fortuneMid: Let the answer set like congee before you serve it. Give it when the shape stops shifting, not the moment it's asked.
+fortuneMid2: One new thing doesn't mean repainting the whole life. Stir in a little, keep the rest of the pot as it is.
+fortuneLow: Open a window before the next cup — the room stopped telling you its own smell, and that fade is the smell. Airing it out will feel like letting the cold in.
+fortuneLow2: Vote for the place none of you have seen. The cottage keeps; it'll be there to return to, even if leaving it for the unknown costs you the sure thing.
+fortuneLeast: An afternoon somewhere unfamiliar is waiting for you. The brew you've sat in stopped giving back what it costs to keep warm — go, though the strange streets will unsettle you.
+fortuneLeast2: Be the one who suggests the new place this time. Nothing has to steep long enough to color the water all the way through, much as the familiar pulls at you to stay.
 facetMostTitle: Walls the Colour of the Pot
 facetMost: You keep the chair where it has always been, and visitors learn to walk around it.
 facetHighTitle: Ginger, Thin Enough to See Through

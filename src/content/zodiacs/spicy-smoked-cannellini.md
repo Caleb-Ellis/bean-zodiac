@@ -7,11 +7,16 @@ trait: barbed
 dish: Cazuela de alubias - Castilian white bean stew with smoked chorizo and pimentón ahumado.
 quote: Out of the frying bean and into the fire.
 seasonalFortune: Pimentón hangs in cold air; the cazuela darkens at the rim. Days arrive sharpened by smoke, and what cannot keep its shape will be named for what it lacks.
-fortuneMost: Delete the first three sentences and press send. You'll only miss them for a second.
-fortuneHigh: Quote the number, no preamble. Whoever flinches first was going to flinch anyway.
-fortuneMid: One word, lowercase, no period. They'll read it twice, and the second read does the work.
-fortuneLow: You cut so much there's only a verb left. Put the noun back; sharpness without subject lands nowhere.
-fortuneLeast: Close every browser tab in one swipe. The unread count has been seasoning everything you read; clear the palate.
+fortuneMost: Chorizo cuts clean through the whole cazuela — one note, no apology. Name the load-bearing thing the same way and watch everything rearrange around it.
+fortuneMost2: Say the figure flat. Whoever flinches was going to flinch anyway.
+fortuneHigh: The remark that outlives the gathering is the one trimmed to the bone. Say less and let it ring.
+fortuneHigh2: You see the weakest seam before anything else — that sight is yours alone. Name it, and name it kindly.
+fortuneMid: There's a useful middle between flattery and blood — what's working, and where you'd want more. Stand there.
+fortuneMid2: Trim the thought, leave the warmth around it. Sharpness keeps a softer setting that still cuts true.
+fortuneLow: An edge needs a body behind it or it lands nowhere. Cut too far and there's nothing left to grip — put the substance back, even though spareness feels safer.
+fortuneLow2: Let the small thing stand — the unmade bed, the plate where the guest set it down. It itches like dropped standards. It's only a room running easier.
+fortuneLeast: Lead with the soft hill, not the thorn. The tease that lands harder than you meant has a cousin waiting — head it off while the friend's still easy with you.
+fortuneLeast2: Tell them you love it and mean every word. Blunt the blade for the people who never needed your knife.
 facetMostTitle: Chorizo's Clean Ring
 facetMost: Drafts you send back come trimmed to the line that does the work, every softer sentence gone.
 facetHighTitle: Smoke Through the Seam

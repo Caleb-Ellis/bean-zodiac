@@ -7,11 +7,16 @@ trait: enduring
 dish: Boston baked beans - dried navy beans slow-baked with salt pork, molasses, and mustard.
 quote: Endurance is not just the ability to bean a difficult situation — it is to turn it into glory.
 seasonalFortune: A low oven asks for hours, not minutes; molasses darkens only under steady heat. The season rewards a cook who set the pot down at dawn.
-fortuneMost: Same notebook. Same chapter. Year four.
-fortuneHigh: Keep the cracked mug. Don't explain it.
-fortuneMid: Go back to the chair. The page is waiting.
-fortuneLow: The thing you've been holding is finished. Put it down.
-fortuneLeast: It's a monument now. Walk out.
+fortuneMost: Return to the same long work another year. The seasons thicken behind you like crust on a well-used pan.
+fortuneMost2: Molasses only darkens under steady heat held for hours. What you're staying with is becoming something nobody who left early will ever taste.
+fortuneHigh: The cracked mug, the warped board, the coat with one good pocket — keep them, and don't explain it.
+fortuneHigh2: Hold the standing thing through the turning of the year and see what's still there at the far end.
+fortuneMid: The page you left unfinished is still waiting, patient as you are. Carry it through.
+fortuneMid2: You measure things in seasons, not afternoons. Finish the long stretch on sore feet and don't bargain it away.
+fortuneLow: The thing you've held up so long is finished now. Set it down and let your arms come back to you — the ache of stopping passes.
+fortuneLow2: A row that's stopped producing is asking to be turned over, not nursed. Plant the next one, even if letting the old one go feels like quitting.
+fortuneLeast: It became a monument to maintenance, not meaning. Walk out, and let the relief surprise you — the principle was never the point.
+fortuneLeast2: A fresh pan has its own appeal, and a clean start may be the luck arriving. Begin the new thing and let nothing here outlast the weather, uneasy as the blank page sits.
 facetMostTitle: Molasses on Its Own Clock
 facetMost: You measure work in seasons, return to the same chair and the same notebook, and the years thicken behind you like crust on the pan.
 facetHighTitle: Salt Pork Past the Larder

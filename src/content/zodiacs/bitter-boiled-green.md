@@ -7,11 +7,16 @@ trait: inquisitive
 dish: Minestrone - green beans and puntarelle.
 quote: The important thing is not to stop questioning beans.
 seasonalFortune: A broth that never quite finishes simmering — puntarelle still uncoiling, the bitter green bean still giving up its second flavour. Days here keep asking a further question of themselves.
-fortuneMost: Ask the second question, not the first. The first question is the polite one; the second is the one you actually wanted.
-fortuneHigh: Read the source the article is paraphrasing, not another summary of it. You've been eating the broth of the broth; go to the pot.
-fortuneMid: Finish one open tab before opening another. The new one is the avoidance; you already know what the old one is going to say.
-fortuneLow: Accept the bill as written. The story behind the line item is not yours to chase; chasing it costs more than the discrepancy.
-fortuneLeast: State a conclusion out loud at dinner. Even a wrong one — the act of arriving somewhere is the muscle you haven't been using.
+fortuneMost: There's a real question under the polite first one, and it's yours to ask. Follow it past where everyone agreed to stop.
+fortuneMost2: A stranger with a strange life is sitting near you, holding a thread nobody else thought to pull. Keep them talking; the night opens a door you weren't looking for.
+fortuneHigh: Go to the source, not the summary of it. Read it raw, lift the lid behind the lid.
+fortuneHigh2: The thing everyone at the table agreed to leave alone is the one with something inside it. Ask the obvious follow-up, then the sharper one beneath.
+fortuneMid: Let one open thread close before you pull another. The broth has to stop simmering at some point to become soup.
+fortuneMid2: One polite question, then let it rest. Not every puntarelle needs uncoiling before you can call yourself there.
+fortuneLow: Take the bill as written. What simmered before it reached you is the cook's business; chasing it costs more than the gap.
+fortuneLow2: Some lids are better left on, and a nod is enough. The curiosity that opens every one also robs you of sleep.
+fortuneLeast: Land on a conclusion out loud, even a wrong one. Arriving is the muscle you keep resting, and it stiffens up the longer you only ask.
+fortuneLeast2: Steer the subject elsewhere so they don't feel cornered, and let the loose end stay loose. Rest easy on top of the half-told story for a change.
 facetMostTitle: The Tightening Curl
 facetMost: Past midnight you are still turning the day over, lifting one answer to find the stem it grew from, unwilling to call the pot done.
 facetHighTitle: Every Lid Lifted

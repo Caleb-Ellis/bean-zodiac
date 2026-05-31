@@ -7,11 +7,16 @@ trait: competitive
 dish: Roasted green beans with bitter almond crust and preserved lemon.
 quote: Beaning isn't everything, but wanting to is.
 seasonalFortune: A season when the almond crust sets harder than the bean beneath, and every tray pulled from the oven is measured against the last one.
-fortuneMost: Name the scoreboard out loud, then run at it. The vague racing you've been doing is what's making you lose to people with smaller goals.
-fortuneHigh: You'll compare yourself to someone twice before the kettle's cool. The second time, write down what their actual life looks like — not the highlight.
-fortuneMid: Close the gap by an inch, not the whole stretch. The full sprint blows the week; the inch holds.
-fortuneLow: Concede the rematch. The trophy on offer is plastic and you know it; the dust is louder than the win.
-fortuneLeast: The race in the next room is not your race. Notice the noticing, then make a sandwich and read something long.
+fortuneMost: Name the scoreboard out loud, then run flat at it. Vague racing is how you lose to people chasing smaller things.
+fortuneMost2: A contest you've trained hard for is about to break your way. The almond crust sets harder than the bean beneath it, and so do you.
+fortuneHigh: When you weigh yourself against the one ahead, weigh their whole life — not the single tray they happened to pull out perfect.
+fortuneHigh2: A high standard you've held in private is about to be matched and seen. The effort lands, and it lands well.
+fortuneMid: An inch closed holds better than a whole stretch sprinted. The full dash blows the week; the inch stays won.
+fortuneMid2: Try the last gamble with a laugh already loaded if it misses. A game can matter and still only be a game.
+fortuneLow: A rematch is on the table and the trophy is plastic. Walk away from the line — though leaving it uncontested costs you something real.
+fortuneLow2: Move at the pace the day hands you, untroubled by who pulled ahead overnight. Not checking the standings will gnaw at you, and it's still the move.
+fortuneLeast: A race is going to start up nearby that was never yours to run. Feel the pull, then go walk somewhere with no finish line at all — even as your legs beg to chase.
+fortuneLeast2: An evening is coming that keeps no score. Forget who's ahead and pour everyone a glass. The win there is the not-counting, costly as that feels going in.
 facetMostTitle: Almond Under the First Tooth
 facetMost: At a table of friends, you turn the easy game into a real one, and stay until someone concedes.
 facetHighTitle: The Crust at Full Heat

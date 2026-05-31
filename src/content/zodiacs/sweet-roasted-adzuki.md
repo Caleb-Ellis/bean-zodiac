@@ -7,11 +7,16 @@ trait: happy
 dish: Adzuki bean brittle — adzuki beans roasted with brown sugar and black sesame until crackling and amber.
 quote: Take it! Take more! I'll make another batch!
 seasonalFortune: Sugar crackles into amber on its own time. A season of small warmths, given without inventory, taken without ceremony — brittle cooled on a windowsill and waiting for whoever passes.
-fortuneMost: Bake the cake on a plain evening for no reason. The reason shows up after dark, wearing a coat, hungry for something warm.
-fortuneHigh: Text the group chat the embarrassing photo. The one where everyone is mid-laugh and you look insane.
-fortuneMid: Light the good candle on the regular dinner. The most ordinary weeknight deserves wax too.
-fortuneLow: Your cheeks hurt from smiling at a story you've heard four times. Tell them you've heard it; ask for a new one.
-fortuneLeast: Skip the party you keep saying yes to out of muscle memory. Make toast. Eat it standing up.
+fortuneMost: Amber luck this turn, the kind that crackles. Sweetness you make for no reason finds the one person who needed it.
+fortuneMost2: You hand the broken piece to a stranger and walk off before the thank-you. The walking off is the joy.
+fortuneHigh: Bake the cake on an ordinary day. Whoever's hungry around eight will be grateful you bothered.
+fortuneHigh2: A goofy photo, everyone mid-laugh, you looking unhinged — send it.
+fortuneMid: Quiet gladness is still gladness, even when nothing comes out of the oven crackling.
+fortuneMid2: A warm thing in the hand, nothing more asked of it. Plenty.
+fortuneLow: When a story circles back and your smile goes thin, ask for a different one — your cheer runs out faster when no one refills it.
+fortuneLow2: Not every warmth needs a second sun from you. Someone's good news can land as a nod and rest there, though it'll feel like too little.
+fortuneLeast: The empty chair is a small loss, and a quiet corner the gain. Skip the gathering you only say yes to from habit.
+fortuneLeast2: A sign to step out when the loud table has taken all you've got. Hard to leave a room still wanting you — gladness comes back once it's fed.
 facetMostTitle: Caramel Breaking Under a Thumb
 facetMost: You hand the broken piece to a stranger at the bus stop and walk on before they think to thank you.
 facetHighTitle: Sesame Scattered, Then Gathered

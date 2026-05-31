@@ -3,6 +3,7 @@ slug: butter
 name: Butter Bean
 tagline: The art of doing nothing badly.
 traits: [easygoing, peaceful, content, indulgent, inert]
+toneOfVoice: Unhurried and untroubled; speaks to soothe, never to push.
 imageFile: butter.webp
 ---
 

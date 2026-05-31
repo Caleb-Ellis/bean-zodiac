@@ -7,11 +7,16 @@ trait: defensive
 dish: Red beans and rice - Louisiana style with fermented hot sauce and lime.
 quote: The best bean is the one already inside the fortress.
 seasonalFortune: A season of sealed jars and tested lids. The brine sharpens, the rice waits beneath, and old hulls thicken against weather that has not yet arrived.
-fortuneMost: Decline without the paragraph. "No, thanks" is a complete sentence and your essay is a confession.
-fortuneHigh: Leave it unread till after dinner. The reply you'd send hungry is the one you'd take back later, alone, in the dark.
-fortuneMid: Let them into the hallway. Not the kitchen yet — but the porch is a grudge.
-fortuneLow: Reply yes to the invitation. You've been drafting "maybe" for nine days and they've already filed it.
-fortuneLeast: Give somebody the spare key. The fortress is so well-defended it's started eating its own rations.
+fortuneMost: '"No, thanks" is a whole sentence; the essay you would add after it is just a confession.'
+fortuneMost2: You owe no one the favour, only the kindness of a direction. One line to decline, the name of somewhere else to try — a wall with a gate, not a wall with spikes.
+fortuneHigh: A word given while you're still guarded is the one you walk back alone later. Hold it until you've eaten and settled.
+fortuneHigh2: Yes to three nights, the end date named in the same breath. The wall is allowed a door — you can be generous and still know the hour the gate swings shut.
+fortuneMid: The porch held long enough; let them as far as the hallway now. Keeping someone on the step past what they've earned curdles, quietly, into a grudge you never meant to keep.
+fortuneMid2: The outer wall did its work. The second room can open a little sooner than the ledger says it's owed — the right kind of risk, even if it costs you some certainty.
+fortuneLow: You've polished "maybe" for so long they've already filed it as no. Say yes; the open door feels unguarded, and that's the toll for getting let in yourself.
+fortuneLow2: Lend the good knife and keep no record of who has it. Some things are meant to circulate, not be sealed in the crock — and you'll feel the lack of a tally before you feel the trust.
+fortuneLeast: A fortress this well-defended has started eating its own rations. Hand someone the spare key. It feels like lowering the drawbridge into a storm, and the storm it feared stopped years ago.
+fortuneLeast2: Hand over the recipe unasked; say stay as long as you need. It goes against every brick you've laid, and the warmth that walks through the gap more than pays the rent.
 facetMostTitle: Lime's Clean Line
 facetMost: You keep certain doors latched on principle; what stays out has been ruled out for years, and you can name each reason.
 facetHighTitle: Hot Sauce at the Bottom

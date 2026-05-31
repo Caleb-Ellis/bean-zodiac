@@ -7,11 +7,16 @@ trait: insecure
 dish: Mung bean dal with yogurt tadka and lime.
 quote: To bean oneself is the beginning of a lifelong romance.
 seasonalFortune: A season for thin-walled things. The brine sharpens every edge it touches, and what looked like flaw under the lime turns out to be grain.
-fortuneMost: Close the sent folder. Re-reading is the doubt building itself a kitchen.
-fortuneHigh: They were yawning. Stop assembling the case against yourself out of a face you saw for half a second.
-fortuneMid: Delete the apology draft and ask about their week instead. Nobody is owed the report you've prepared.
-fortuneLow: Ask the dumb clarifying question. The version where you guess is the one that goes wrong later, expensively, in front of everyone.
-fortuneLeast: Go to bed. The crisis hasn't earned the all-nighter you were going to give it.
+fortuneMost: It landed fine. Going over it once more is only the doubt building itself a kitchen to cook in.
+fortuneMost2: The quiet after you spoke is not a verdict being written up about you. Nobody on the far side is composing the page you're dreading.
+fortuneHigh: That half-second face you caught was a yawn, not a judgment. The case you're stacking against yourself rests on a flicker, and a flicker won't bear the weight you keep hanging on it.
+fortuneHigh2: It came out as warm as you meant it. Trust the version that already happened over the one the scan keeps inventing in the dark.
+fortuneMid: The slight you're braced for hasn't happened, and the apology no one's owed only carves the wound it apologises for. Ask about their week instead; the warmth you fear you lost is right where you set it down.
+fortuneMid2: A thing left undecided on the counter has a way of deciding itself by morning. The ferment works fine with the lid on, and so do you.
+fortuneLow: Ask the dumb clarifying question now and spare yourself the wrong guess that surfaces later with an audience. A flush of embarrassment up front is cheap against what the guess would cost you.
+fortuneLow2: A slow answer is almost always a phone in another room. Reading it that plainly means trusting what you can't see — uneasy for a bean like you, and right far more often than not.
+fortuneLeast: The worry hasn't earned the long night you were about to hand it. Sleep, the crisis unattended; it'll feel like leaving a door unlocked, and nothing came through it.
+fortuneLeast2: Sleep straight through the dread others would sit up turning. You wake into a day that has already forgotten it ever asked — though the trust costs you a hard hour first.
 facetMostTitle: Lime on the Second Pass
 facetMost: You reread the sent message, then reread your reading of it, hunting the wrong word that proves the whole thing.
 facetHighTitle: The Tadka's Splutter

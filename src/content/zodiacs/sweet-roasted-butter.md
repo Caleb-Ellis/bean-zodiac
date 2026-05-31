@@ -7,11 +7,16 @@ trait: lighthearted
 dish: Butter beans roasted with vanilla sugar and lemon zest — caramelised at the edges, softly golden throughout.
 quote: A day without beans is like a day without sunshine, so bring extra beans.
 seasonalFortune: A house where the sugar pan is never quite empty; lemons go soft on the sill before anyone minds, and the oven runs warm into the evening for no particular reason.
-fortuneMost: Show up to the dreaded thing in a stupid hat. The hat is the strategy and also it's just a stupid hat.
-fortuneHigh: Be twelve minutes late with bakery pastries. No one will remember twelve, everyone will remember pastries.
-fortuneMid: Send the voice memo. Recorded in the car, dog barking in the background, mid-sentence is fine.
-fortuneLow: A friend asks how you are and means it. Skip "good"; pick one true word instead.
-fortuneLeast: Cancel the brunch and lie on the floor. The floor has been asking.
+fortuneMost: You walk in tight-shouldered and a minute later an arm has uncrossed and the story's gotten better. That's just what you do to a place.
+fortuneMost2: Show up to the dreaded thing in something a little silly. The silliness does the heavy lifting; it always has.
+fortuneHigh: Late again, zest under a fingernail, pastries in hand — and the lateness becomes the gift. Nobody clocks the minutes, only the sugar.
+fortuneHigh2: A stiff afternoon turns soft this turn, and you're the reason. The small gentle joke lands and shoulders come down two inches.
+fortuneMid: Glaze the easy half golden, leave the scorched corners for someone steadier. You'll begin again next time, just as gladly.
+fortuneMid2: Not every heavy moment wants lightening. Top up the cup, ask the softer question, let the joke sit in your pocket.
+fortuneLow: Someone asks how you are and means it — skip the cheerful "good." One true word is allowed to land heavy, even if dropping the bright reply feels like dropping the act.
+fortuneLow2: A friend wants the weather bad alongside them. Hold still while the face crumples; the lift can wait.
+fortuneLeast: Cancel the bright thing and lie on the floor. The floor's been asking; you owe nobody your sunshine, though going dim will feel like letting them down.
+fortuneLeast2: A flat, golden, evenly-baked stretch with no laughter spent on the process. Let the gravity be yours too — it sits oddly, but it's honest.
 facetMostTitle: Sugar at the Edges First
 facetMost: You step into a tight-shouldered room and within a minute someone has uncrossed their arms, leaned in, started telling the better version of the story.
 facetHighTitle: The Oven Runs Long

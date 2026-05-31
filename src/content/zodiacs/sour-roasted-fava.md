@@ -7,11 +7,16 @@ trait: authentic
 dish: Ful nabed mashwi - roasted skinned fava beans with lemon, cumin, and fresh coriander
 quote: To be yourself in a world that is constantly trying to make you something else is the greatest bean.
 seasonalFortune: A season for skins that split under heat. The almanac favors what comes out lemon-sharp, coriander-stung, and refuses to be sweetened on the way to the table.
-fortuneMost: Wear the coat with the stain. Whoever clocks it isn't the audience you came for.
-fortuneHigh: Someone has prepared a smoother edit of you and is holding it out like a jacket. Don't put it on.
-fortuneMid: The same question is going to land twice in a short stretch. Give the same blunt answer both times — that's the test, and the second asking is the real one.
-fortuneLow: One rough edge is being mistaken for your entire shape. Sand that one corner; keep the rest.
-fortuneLeast: Wear the new shirt. The version of you in it is also you, just one you haven't met yet.
+fortuneMost: This turn your luck comes lemon-sharp and refuses to be sweetened. Wear the coat with the stain — whoever clocks it was never the audience you were dressing for.
+fortuneMost2: A bare no, where the offer wanted a yes, earns you more respect than the polished answer they'd already drafted for you.
+fortuneHigh: A smoother edit of you, held out like a jacket cut for some stranger. Don't put it on.
+fortuneHigh2: The crowd settles on a polite consensus, and you say the small contrary thing. Feel the whole shape of the gathering quietly rearrange around it.
+fortuneMid: The same question comes twice. Give the same plain answer both times — the second asking was the real one.
+fortuneMid2: Walk into the place that expects something newer wearing what you already trust. It keeps you warm, and they adjust.
+fortuneLow: When one rough edge gets mistaken for your whole shape, sand that corner and keep the rest. Reading the room first feels like a small surrender — it's only aim.
+fortuneLow2: Match the register, and save the sharp opinion for whoever actually asked for it. The smoothing costs you a little; it's timing, not betrayal.
+fortuneLeast: The person in the new shirt is also you — one you haven't met yet, however much the unfamiliar shape itches at first.
+fortuneLeast2: Bend toward whoever's across from you and let the meal go down easy. A real cost, that bending — just don't go so far you lose the road back to where you started.
 facetMostTitle: Cumin on a Bare Bean
 facetMost: At a job you do not want you say so, plainly, in the second interview, and the hiring manager respects it more than the offer they had drafted.
 facetHighTitle: Scorch Marks, One Side

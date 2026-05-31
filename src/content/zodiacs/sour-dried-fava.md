@@ -7,11 +7,16 @@ trait: acerbic
 dish: Fava bean dip with dried sumac, raw onion, and olive oil.
 quote: The truth will set you free, but first it will bean you.
 seasonalFortune: A season pitched at the brightness of sumac — life arrives undiluted, and the company kept tends to be those who can take their food without sugar stirred in.
-fortuneMost: Pour it black. They sat down knowing what you serve.
-fortuneHigh: Drop the softening clause. It was for you.
-fortuneMid: Deliver the verdict flat, once. Don't bring it back to chew.
-fortuneLow: Right diagnosis, wrong hour. Eat lunch first.
-fortuneLeast: Lead with what worked. The rest waits in the drawer.
+fortuneMost: Sumac bright and undiluted, no sugar stirred in. They came to you precisely because you won't pretend it works.
+fortuneMost2: Say plainly where the thing falls down. The half-formed plan should die on the table, and you're the one trusted to let it.
+fortuneHigh: Drop the softening clause. It was a comfort for you, not them, and the truth carries cleaner without it.
+fortuneHigh2: An apology whole, raw onion and all — no weight shifted onto circumstance. The undiluted one is the only kind that mends.
+fortuneMid: Say the verdict flat, once, and don't bring it back to chew.
+fortuneMid2: One sentence, no garnish, and the matter settles before anyone asks twice. Brevity is the kindest dressing you own.
+fortuneLow: Right diagnosis, wrong hour. Let it wait for the moment that won't leave them quiet for a week — the holding back costs you, and it's the cost worth paying.
+fortuneLow2: Ask what they think before you say what you think, then meet them partway. The hard truth keeps; the friendship is the more fragile dish.
+fortuneLeast: Genuine good is sitting in front of you and the luck is in naming it first. Lead with what worked and mean it — the rest can keep in the drawer awhile, however it itches.
+fortuneLeast2: Find the strong line before the weak one. Your praise lands rare, which makes it the thing they keep — spend it, even with the critic in you standing ready.
 facetMostTitle: Raw Onion, No Soak
 facetMost: Friends bring you the draft, the outfit, the half-formed plan because they know you will not pretend it works.
 facetHighTitle: Oil That Cuts, Not Smooths

@@ -3,6 +3,7 @@ slug: fermented
 name: Fermented
 tagline: The Form that takes time.
 traits: [complex, introspective, unconventional, perceptive, weird]
+toneOfVoice: Keeps its workings private; offers strange, finished conclusions with the reasoning left inside.
 ---
 
 Fermentation requires no fire, no outside force. It is transformation from within, in conditions no one else sees. The result is something the original ingredient could never have predicted: sour, complex, alive in a way that fresh things are not.

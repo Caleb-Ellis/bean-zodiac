@@ -7,11 +7,16 @@ trait: kind
 dish: Cannellini in vin santo — white beans simmered in sweet wine with a strip of lemon peel and fresh thyme.
 quote: A little bean, a little more bean than absolutely necessary — that is what it means to be kind.
 seasonalFortune: A long sweet simmer hums through the season; the thyme steeps unseen, and small unasked-for warmths arrive at the door of one who has been quietly pouring.
-fortuneMost: Send the small gift — the book, the recipe, the link with one sentence — to the person you've been quietly thinking about; do not include a reason, because the absence of a reason is the gift.
-fortuneHigh: Pay for the coffee of the next stranger in line, and walk out before they can locate who did it. The mystery is part of what you're handing over.
-fortuneMid: Write the postcard now, address it, stamp it, and walk it to the postbox before you can talk yourself into "tomorrow" for the eleventh week running.
-fortuneLow: You are pouring vin santo into a cup that has been empty for a year because nobody is holding it — bring the bottle back inside and pour one for yourself.
-fortuneLeast: Tell one person, in one plain sentence and before sundown, the specific thing you need from them this week. Generosity that never asks back curdles into a quiet ledger nobody agreed to.
+fortuneMost: Send the small thing to the one you've been thinking of, no reason attached. The missing reason is the whole gift.
+fortuneMost2: A kindness you slipped someone without a name on it is circling back to your own door. The thyme steeped while you weren't looking.
+fortuneHigh: Hand a stranger the bright little thing and slip off before they find the giver. The mystery is part of what you gave.
+fortuneHigh2: You'll have the help half-offered before they finish the sentence asking. Your generosity always runs a beat ahead of the request.
+fortuneMid: Do the small good thing while it's in your hand. Kindness meant but shelved for later is the kind that quietly goes off.
+fortuneMid2: The borrowed thing comes back washed, with thyme tucked in and the note already written. The care lives in the finish.
+fortuneLow: You've been pouring for a cup no one's holding out. Carry the bottle back inside and fill your own. Turning the warmth inward feels like keeping too much; it isn't.
+fortuneLow2: What's yours can stay yours, and no one goes poorer for it. Let one kindness pass unoffered without filing it as a failure — even when the not-offering itches.
+fortuneLeast: Giving that never asks back curdles, in time, into a ledger nobody agreed to keep. Say plainly what you need, out loud, to a face — it'll feel like more than you're owed right up until they're glad you asked.
+fortuneLeast2: You let the asker circle back twice before you'll move for yourself. Reach first this once and name what you actually want, even though wanting out loud is the hardest thing you do.
 facetMostTitle: Vin Santo Before the Hour
 facetMost: You set a second bowl for whoever wanders in late.
 facetHighTitle: The Lemon Peel, Unbidden

@@ -175,25 +175,42 @@ export const getFortuneText = (
   return zodiac.facetMid;
 };
 
+// Each fortune tier has two written variants (e.g. fortuneMost / fortuneMost2).
+// Pick one deterministically per day + zodiac so the fortune stays stable
+// through the day but alternates between the pair across days/beans.
+const pickFortuneVariant = (
+  zodiac: Zodiac,
+  date: Date,
+  base: keyof Zodiac,
+): string => {
+  let h = (daysSinceOrigin(date) ^ 0x3c3c3c3c) >>> 0;
+  for (const c of zodiac.slug + base)
+    h = (Math.imul(h, 31) + c.charCodeAt(0)) >>> 0;
+  const key = h % 2 === 0 ? base : (`${base}2` as keyof Zodiac);
+  return zodiac[key] as string;
+};
+
 export const getDailyText = (
   zodiac: Zodiac,
   qualityId: QualityId,
   score: number,
+  date: Date,
 ): string | null => {
+  const pick = (base: keyof Zodiac) => pickFortuneVariant(zodiac, date, base);
   if (score === 0) return null;
   if (score === 1) {
-    if (qualityId === QualityIds.Heirloom) return zodiac.fortuneMost;
-    if (qualityId === QualityIds.Market) return zodiac.fortuneHigh;
-    if (qualityId === QualityIds.Stale) return zodiac.fortuneLow;
-    if (qualityId === QualityIds.Rotten) return zodiac.fortuneLeast;
-    return zodiac.fortuneMid;
+    if (qualityId === QualityIds.Heirloom) return pick("fortuneMost");
+    if (qualityId === QualityIds.Market) return pick("fortuneHigh");
+    if (qualityId === QualityIds.Stale) return pick("fortuneLow");
+    if (qualityId === QualityIds.Rotten) return pick("fortuneLeast");
+    return pick("fortuneMid");
   }
   // resist — inverse
-  if (qualityId === QualityIds.Heirloom) return zodiac.fortuneLow;
-  if (qualityId === QualityIds.Market) return zodiac.fortuneLow;
-  if (qualityId === QualityIds.Stale) return zodiac.fortuneMid;
-  if (qualityId === QualityIds.Rotten) return zodiac.fortuneMid;
-  return zodiac.fortuneLow; // Garden/facetMid resisted → fortuneLow
+  if (qualityId === QualityIds.Heirloom) return pick("fortuneLow");
+  if (qualityId === QualityIds.Market) return pick("fortuneLow");
+  if (qualityId === QualityIds.Stale) return pick("fortuneMid");
+  if (qualityId === QualityIds.Rotten) return pick("fortuneMid");
+  return pick("fortuneLow"); // Garden/facetMid resisted → fortuneLow
 };
 
 export const getDailyFortuneIds = (

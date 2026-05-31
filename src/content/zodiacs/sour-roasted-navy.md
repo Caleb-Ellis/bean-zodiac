@@ -7,11 +7,16 @@ trait: understated
 dish: Boston baked navy beans with apple cider vinegar, whole grain mustard, and brown sugar
 quote: The bean doth protest too little, methinks.
 seasonalFortune: Brown sugar dissolves into the pot hours before anyone tastes it. The season belongs to slow workers whose contributions are noticed only in their absence.
-fortuneMost: Leave the finished work on the desk and go home. The credit will find you, slower and better.
-fortuneHigh: Cut the reply to one line. The lines you trimmed were asking for a thank-you you don't need.
-fortuneMid: Someone credits the wrong person for your bit. Correct it once, flatly, and don't litigate it when the same misattribution turns up again.
-fortuneLow: Your invisible hand is being read as no hand at all. Sign the page in pen — they need to see the signature, not just the work.
-fortuneLeast: Post the photograph. Restraint that has nobody to address curdles into a different kind of vanity.
+fortuneMost: Your work, tasted before it's named — brown sugar dissolved into the pot hours early. That's the luck this turn. Finish it, leave it to be found, walk out before anyone looks up.
+fortuneMost2: You'll feed six people and mention the recipe to none of them. Your hand gets noticed by its absence, never its name, and that suits you fine.
+fortuneHigh: Cut the answer to one line. The part you trimmed was only ever fishing for a thank-you you don't need.
+fortuneHigh2: In by the side door, already two sentences into the help someone needed. No ceremony, no announcement, just the thing handled.
+fortuneMid: When the wrong person takes the credit, correct it once, flatly, and let it go. Litigating it costs more than it returns.
+fortuneMid2: Say what you did only if asked, and keep the answer flat. The work was never going to need the narration.
+fortuneLow: When the quiet hand reads as no hand at all, sign the page in pen. It feels like too much to you, but they need to see the signature, not only the work.
+fortuneLow2: Being seen isn't the same as showing off. Arrive announced for once and let the place turn toward you, even as stepping into the light costs you the cover you like.
+fortuneLeast: Restraint with no audience just curdles into a quieter vanity. Put the thing forward where people can see it, however much that grates.
+fortuneLeast2: Walk someone through what you did, step by step. Naming your part out loud pinches, yet it isn't bragging — it's only letting them know it was you.
 facetMostTitle: Mustard Seed, No Thanks
 facetMost: You finish the work, leave it on the table, and walk out before anyone looks up.
 facetHighTitle: Cider Vinegar, No Ceremony

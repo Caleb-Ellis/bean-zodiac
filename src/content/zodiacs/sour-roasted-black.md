@@ -7,11 +7,16 @@ trait: earnest
 dish: Sopa de frijol negro con tomatillo asado - black bean soup with roasted tomatillos and lime crema
 quote: The importance of being bean.
 seasonalFortune: Roasted black beans hold the pot's lowest heat. Their husks blacken off; what stays is the part that meant every word.
-fortuneMost: Skip the warm-up. Open with the sentence you were going to bury in paragraph three.
-fortuneHigh: A joke is queueing up to do the work your honesty was about to do. Swallow the joke.
-fortuneMid: Be the first to drop the bit at the kitchen table. The someone you're hoping will go first is hoping you will.
-fortuneLow: They're quoting your sincere line back like a manifesto. Mute the thread for the afternoon — let it pass.
-fortuneLeast: Someone owed an apology is getting a casserole. Bring the apology.
+fortuneMost: This turn the husk burns off and only the meant part stays. Lead with the sentence you'd usually bury three paragraphs down.
+fortuneMost2: Someone leaves a conversation with you and feels met for the first time in weeks. That's the gift moving toward you.
+fortuneHigh: A joke is lining up to do honesty's work. Let the true thing go in its place.
+fortuneHigh2: Your verdict comes sharper than the flesh beneath it, like the tomatillo charred over the flame — and meant all the way down.
+fortuneMid: Be the first to drop the bit. Whoever's quietly hoping someone goes sincere is hoping it's you.
+fortuneMid2: A draft handed over rough, sharp places and all, reaches someone the polished version never would.
+fortuneLow: A warm general line will do where things haven't settled. You don't owe every stranger the unguarded version, even if holding it back feels a little like hiding.
+fortuneLow2: Let the joke carry it this once. The sincere thing keeps, and not every moment is built to hold its weight.
+fortuneLeast: A gentler shape can hold the same truth and land far easier — the softening only pinches because you've never trusted it before.
+fortuneLeast2: Let the laugh land and hold the deeper thing back — it keeps, even if keeping it feels like a small betrayal of the bean you are.
 facetMostTitle: The Broken Broth
 facetMost: You type the sentence and send it. No softening pass, nothing tucked under a kinder word.
 facetHighTitle: Charred Tomatillo

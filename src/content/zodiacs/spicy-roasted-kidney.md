@@ -7,11 +7,16 @@ trait: emotive
 dish: Tandoori rajma - kidney beans marinated in spiced yogurt and oven-roasted.
 quote: The bean is not a logical faculty; it is a faculty of what it wants.
 seasonalFortune: The yogurt takes on every spice it meets; the oven gives it back blistered. A season for those who steep loudly and emerge marked by what they touched.
-fortuneMost: Burst in mid-sentence and finish it. Whatever you'd buff smooth on the stairs is the part with the calories.
-fortuneHigh: Two people are going to get the full thunderstorm. One needs it; the other gets the croissant apology after, in person — bring a real one and don't joke through it.
-fortuneMid: Answer before the kettle clicks off. The reply that takes an hour to phrase tastes like an hour of phrasing.
-fortuneLow: You're at a rolling boil and the kitchen is on simmer. Take a fast walk around the block before you serve.
-fortuneLeast: The sting from a day ago is almost out. Sleep on it once more — the next morning's reply will be the one with bones in it.
+fortuneMost: Carry in the whole weather of it, blister and all. The part you'd smooth over on the doorstep was the part that mattered.
+fortuneMost2: What you cook down in private rarely reaches the one who needed it. Say it at full strength while it's hot.
+fortuneHigh: Your feeling soaks the room like spice through yogurt before you say a word. Aim it at whoever can hold it.
+fortuneHigh2: The honest, unedited version is the one that arrives. They feel the whole of it or they don't really get you at all.
+fortuneMid: A reply that blisters out before you've phrased it tastes truer than an hour of careful wording.
+fortuneMid2: No flattening required. The real thing, served unpolished, is still the real thing.
+fortuneLow: You at a rolling boil, the other at a simmer. Walk it off first and match the heat to who's receiving it; holding the lid down will feel like swallowing yourself, and it isn't.
+fortuneLow2: Let the feeling rest before you serve it. That isn't hiding it, whatever the heat tells you — the cooler version carries further than the scalding one.
+fortuneLeast: Sleep on the sting one more turn. By morning the reply has bones under it instead of only heat, even if the waiting gnaws all night.
+fortuneLeast2: Some weather just passes if you don't build a storm around it.
 facetMostTitle: Chili on the Passing Hand
 facetMost: You walk into a room already telling it how you feel, and the room reorganizes around your weather.
 facetHighTitle: Smoke Carried to the Street

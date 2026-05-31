@@ -7,11 +7,16 @@ trait: inventive
 dish: Edamame with spicy fermented black bean sauce and sesame.
 quote: I'm a great bean believer in luck, and I find the harder I work, the more I have of it.
 seasonalFortune: Brine darkens in the crock through weeks no one watches. Salt does the work of hours; the household eats from a season's quiet labor.
-fortuneMost: Ship one of the half-made things, ready or not. The other two will keep fermenting on the bench; what they need is your absence for a stretch.
-fortuneHigh: Try the unusual approach you have been turning over. Even if it does not work, you learn something the safer version would not have taught you.
-fortuneMid: Make a small fix nobody asked for. The kind that takes a screwdriver, ten minutes, and improves things by one percent.
-fortuneLow: Take the afternoon off from making. Some ideas need a fallow stretch to surface.
-fortuneLeast: Let the clutter be. Not every drift needs solving; some rooms breathe better when small things find their own place.
+fortuneMost: One of the things fermenting in parallel is ripe right now. Lift the lid on the one that's become itself and serve it.
+fortuneMost2: Salt has been doing the work of hours in the dark. Finish the one half-made thing; leave the rest working on the bench without you.
+fortuneHigh: Luck favours the cook who tries the odd method. Even the failed batch sends you back to the bench smarter than the safe one would have.
+fortuneHigh2: You hand someone the answer in a shape no one else would have reached for, and it fits. A good sign for the solution that arrives sideways.
+fortuneMid: A loose pull, a flickering bulb, a wobbling chair leg. The one-percent fix nobody assigned is the one your hands itch to do.
+fortuneMid2: Not everything has to be invented from scratch. Today's quiet satisfaction is a ten-minute mend no one asked for.
+fortuneLow: Step off the bench and let the day go unbilled. Leaving the lid alone will gnaw at you, and the best shape only surfaces after a fallow stretch.
+fortuneLow2: An afternoon on the steps making nothing isn't wasted. The idea you've been forcing arrives the moment you stop reaching for it.
+fortuneLeast: Papers, cups, a sweater on the chair — leave the drift. Your shoulders can stay loose inside a room that's a little undone.
+fortuneLeast2: Set the urge to optimize down and leave the house half-tidy. It runs against your grain, and that's exactly the rest in it.
 facetMostTitle: Salt and Chili in the Dark
 facetMost: Three half-finished ideas are at different stages on your bench; you lift the lid on the one that has become itself, and serve it.
 facetHighTitle: The Pod Before the Message

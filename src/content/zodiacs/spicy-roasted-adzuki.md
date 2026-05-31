@@ -7,11 +7,16 @@ trait: enthusiastic
 dish: Wǔxiāng hóngdòu - five-spice roasted adzuki beans with dried Sichuan chili.
 quote: I am HOT and I am EXCITED and I will not be apologising for either.
 seasonalFortune: A season that rewards the cook who keeps the pan loud past the first crackle; second winds carry the adzuki further than the first scorch ever did.
-fortuneMost: Pick the one you'd run at barefoot and sprint. Pacing is a problem for the version of you that ate lunch.
-fortuneHigh: Three yeses will show up in quick succession. Take two; the third is just the weather wearing a costume, and it'll be embarrassed for you later.
-fortuneMid: Crash the party you were invited to. The thing you'd have rehearsed in the elevator is the cut line.
-fortuneLow: Someone is shining directly into your eyes. Pour them a drink and step outside for one song.
-fortuneLeast: Let the silence cook. Whoever breaks it first is telling you what they actually wanted.
+fortuneMost: The thing that makes you grin before you've thought it through pans the hottest.
+fortuneMost2: Whatever you walk in already lit about, the others will be warming their hands on by the time you sit down.
+fortuneHigh: A good omen rides in on the idea that makes you talk faster than you can think.
+fortuneHigh2: Say yes to the plan you can't explain yet. The reasons are slow; they'll catch up.
+fortuneMid: One spice in the pan is still flavour. Tell someone the small thing you noticed before it cools.
+fortuneMid2: A flicker is enough.
+fortuneLow: Not every spark on the tray is yours to chase. Tend the ones that stay bright and let the rest go grey.
+fortuneLow2: Some loud ideas pass through like steam off the pan — and saving your heat will feel like loss before it feels like sense.
+fortuneLeast: Held all the way out, a silence does what your noise can't. The quiet will itch; sit in it anyway.
+fortuneLeast2: Your whole attention, handed over without a word on top of it, lands harder than the chatter ever did.
 facetMostTitle: The Bean at the Split
 facetMost: You sleep little, wake louder, and the day bends toward whatever you noticed first.
 facetHighTitle: Five Spices in One Pan

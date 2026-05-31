@@ -7,11 +7,16 @@ trait: proactive
 dish: Crispy chickpeas with fish sauce, toasted garlic, and lime.
 quote: Do not wait to strike till the bean is hot, but make it hot by striking.
 seasonalFortune: A life lived a quarter-hour ahead of itself — garlic sliced before the oil is poured, the lime halved before anyone thinks to ask.
-fortuneMost: Start the upcoming work the evening before it begins. By the time the room arrives, you'll already be inside something everyone else is still circling.
-fortuneHigh: Open the conversation they're about to open. The first mover sets the terms.
-fortuneMid: Book the dentist. The future you is grateful in advance.
-fortuneLow: Hold your answer for thirty seconds. Someone else is figuring it out and your speed is stealing the lesson.
-fortuneLeast: Ask before fixing it. They had a method; you just dismantled it.
+fortuneMost: Garlic sliced before the oil's poured, the lime halved before anyone asks. The world keeps walking into your warm kitchen amazed.
+fortuneMost2: The spare key cut, the fridge stocked, the need met before it announced itself. By the time anyone notices the job, you've finished a version of it.
+fortuneHigh: Bags packed days before the train leaves. The future you, who'd have been scrambling, is grateful in advance.
+fortuneHigh2: Start the conversation they're nerving themselves up to start. Whoever moves first sets the terms.
+fortuneMid: Make the appointment now — not the day it's due, not the day after.
+fortuneMid2: Settle the thing before it's even owed. A step ahead of it is its own small relief.
+fortuneLow: Hold your answer one beat. Someone else is working it out, and racing them to it carries off the lesson with the prize.
+fortuneLow2: Not every gap is yours to close first. See which way things tilt before you move, hard as it is to sit on your hands.
+fortuneLeast: Ask before you fix it. They had a method — the slow one, yes — and a kindness can land as a small theft.
+fortuneLeast2: The tangled drawer was theirs, not a task waiting on you. Some things are a gift left undone by your hand.
 facetMostTitle: The Oil Before the Ring
 facetMost: You arrive at the shared house with the spare key already cut, the milk in the fridge, and the kettle still hot when the others walk in.
 facetHighTitle: Garlic Crisping at Dawn

@@ -7,11 +7,16 @@ trait: empathetic
 dish: Fermented chickpea flour cake — gram flour batter left to ferment overnight, baked with raw honey and orange zest into a dense, fragrant loaf.
 quote: Could a greater bean miracle take place than for us to look through each other's eyes for an instant?
 seasonalFortune: The batter takes a week's mood into itself overnight. A life shaped by the rooms it rises in, sweet where someone leaned close, dense where the air went thin.
-fortuneMost: Text the friend you keep thinking about. Their day has been worse than they posted, and they're waiting for the message they wouldn't ask for.
-fortuneHigh: Bring the second coffee. You'll know without asking whose hands needed it.
-fortuneMid: Ask the warm sideways question once — "how's your week, really" — then put your phone away and mean the silence.
-fortuneLow: The feelings going around the room are not yours to compost. Hand the bag back, gently, and notice how light you are without it.
-fortuneLeast: Leave when you said you would, with a hug, no apology. Affection is not a debt with interest.
+fortuneMost: Reach for the friend you keep thinking about. Someone is waiting for the exact reaching-out they'd never ask you for.
+fortuneMost2: Whoever's shoulders went up at the table — you clocked it before a word. Tilt your chair their way and trust what you caught.
+fortuneHigh: The second cup, carried to the hands you somehow knew had needed it.
+fortuneHigh2: Of two who need you, you can hear which one is actually hurting. Go to the quiet one first.
+fortuneMid: Ask it once and mean it — "how's it going, really" — then hold the silence open and let it fill.
+fortuneMid2: Carry a stranger's hard afternoon a few stops down the road, then set it on the curb before it follows you home.
+fortuneLow: Not every feeling in the room is yours to hold. Hand the weight back, gently — you'll be lighter than you expect, though you'll feel ungenerous doing it.
+fortuneLow2: Leave at the hour you named, mid-sentence if you must. The evening keeps its shape without you propping it, even when slipping out stings.
+fortuneLeast: Go when you said, with a hug and no apology. Affection isn't a debt that gathers interest, however much it feels owed.
+fortuneLeast2: The last slice to whoever asked first. You'll hear the other one sigh and pass the plate on anyway — that's the work today.
 facetMostTitle: Honey at the Hairline Crack
 facetMost: At a strange table you clock whose shoulders are up inside a minute, and tilt your chair toward them.
 facetHighTitle: Orange Zest in the Room

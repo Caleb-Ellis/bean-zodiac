@@ -7,11 +7,16 @@ trait: cynical
 dish: Choucroute garnie - navy beans with sauerkraut, caraway, and white wine.
 quote: A bean who knows the price of everything and the value of nothing.
 seasonalFortune: Sauerkraut sharpens in the crock long after the lid goes on; the wine turns vinegar before it turns to anything kinder. Late warmth carries a caraway bite.
-fortuneMost: Answer the invoice, not the apology. Sentiment doesn't clear the ledger.
-fortuneHigh: New script, same pattern. Make plans against the pattern; the script is decoration.
-fortuneMid: Let them talk for ten minutes before you offer a single fact about yourself. The discount you'd give is the one you'd regret.
-fortuneLow: Accept the compliment without scanning it for motive. The audit costs more than the kindness.
-fortuneLeast: Leave the door unlocked. The world is not, in fact, coming for your stuff in this hour, and the lock is costing more attention than the contents.
+fortuneMost: Sentiment doesn't clear a ledger. Weigh the apology against the bill still owed and answer the debt first; the clear-eyed read has spared you the small charges before.
+fortuneMost2: The warm new tone is setting up an old request — you've watched this exact turn arrive too many times to miss it. Plan for the ask, not the warmth wrapped round it.
+fortuneHigh: New words, same shape underneath. Plan against the shape; the wine turns vinegar on a schedule you can read off the crock.
+fortuneHigh2: A kindness that arrives already paid for shows its angle, if it has one, in the exit. Thank them once and watch which way they go.
+fortuneMid: Let a new face talk a good while before you offer much of your own. The trust handed over early is the one you tend to regret; held back a beat, it costs nothing.
+fortuneMid2: A kind gesture doesn't have to be swallowed whole or spat back out. Smile, nod, and give it the pause.
+fortuneLow: A compliment scanned for motive sours in the catching. Take it plainly; you'll feel unguarded doing it, and some gifts really are the whole transaction.
+fortuneLow2: Leave the door unlocked, the mail open on the table. Nothing went missing, and the watching was the only theft — setting that coat down costs you something, and the quiet was honest all along.
+fortuneLeast: The world is not coming for your things, and the lock costs more attention than the contents are worth. Leave the latch open. The exposure you feel is almost entirely in your own head.
+fortuneLeast2: A stranger really did just buy the coffee, with nothing folded under it. Take it the way you'd take clear weather; the suspicion in your jaw will sit out one round and learn nothing it didn't already fear.
 facetMostTitle: Caraway Between the Teeth
 facetMost: You read the message twice for what it isn't saying, then close the tab unanswered.
 facetHighTitle: Brine on the Sugar

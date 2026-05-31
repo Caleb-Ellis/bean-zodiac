@@ -7,11 +7,16 @@ trait: outgoing
 dish: Chaat - roasted chickpeas with bitter lime and green chutney.
 quote: You catch more beans with honey.
 seasonalFortune: A season of crackled skins and shared lime. The bitter rind softens against company; the chaat-eater of this kind moves toward the loudest table and finds the bowl already half-eaten.
-fortuneMost: Send it before you've decided. The decision was the only thing rotting the message.
-fortuneHigh: Talk to the person by the door, not the one in the middle of the floor. The good one is hovering near their coat.
-fortuneMid: Pull out a second chair before anyone asks. Someone you weren't expecting will sit in it within the hour.
-fortuneLow: Block an hour with no phone. You've been letting other people do your thinking, and it shows in the quality.
-fortuneLeast: Eat lunch alone with no podcast. The silence you keep dressing up is trying to tell you something specific.
+fortuneMost: You drift to the loudest table and inside a minute the chutney's being argued over. That's the gift, and it's working.
+fortuneMost2: A face you haven't met yet is about to walk in and be a friend before the lime is gone. Your luck this turn is strangers.
+fortuneHigh: The company worth having is the one hovering by their coat near the door, not the one holding the floor. Point yourself there.
+fortuneHigh2: A second chair pulled out, and someone you weren't expecting comes to fill it.
+fortuneMid: An hour dropped in is enough to read a room. You don't owe a gathering the whole night to belong to it.
+fortuneMid2: A bowl set out on the counter draws people on its own. Not every welcome needs you carrying it across the floor.
+fortuneLow: An hour with the phone face-down hands you back your own opinion instead of the last one you heard. Keep it — though the quiet will feel like missing out.
+fortuneLow2: There's a thread of what you actually think waiting in the empty room. It costs you the company to go and find it, and the trip is worth making.
+fortuneLeast: A long stretch of your own company is coming — no chatter, no podcast laid over the top of it. The quiet has something to tell you, if you can sit still long enough to hear it.
+fortuneLeast2: Take the walk alone, no one to call, nothing in your ears but the road. An empty afternoon is rest, not a hole to fill — though your thumb will keep drifting toward the chat.
 facetMostTitle: Char Is Conversation
 facetMost: You walk into a kitchen and within a minute the chutney is being argued over — you are the kind of person other people gather to.
 facetHighTitle: The Lime's Kept Sting

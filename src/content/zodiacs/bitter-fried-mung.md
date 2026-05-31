@@ -7,11 +7,16 @@ trait: cautious
 dish: Pajeon - mung bean pancakes with bitter greens and vinegar dip.
 quote: Look before you bean.
 seasonalFortune: Oil is held a beat past shimmer; the season rewards those who let the pan tell them it is ready before the batter goes in.
-fortuneMost: Do one final read. Then send. The fifth read is just a hand-wringing impersonation of diligence.
-fortuneHigh: Three passes max. Hand off the trackpad after that — to a friend, to a coworker, to the void.
-fortuneMid: Leave ten minutes early on purpose, with no errand attached. The slack is the point.
-fortuneLow: Stop checking. The window is closing faster than your audit. Hit send.
-fortuneLeast: Book the ticket now, before the browser tab times you out. You decided days ago; the checking has been a costume the deciding wears.
+fortuneMost: You read a situation the way a cook reads oil, listening for the pitch that means now. The thing others will trip over, you've already seen — take the last look and commit.
+fortuneMost2: Wait for the moment the pan tells you it's ready, then move clean and quick. That timing is yours, and it won't let you down.
+fortuneHigh: The fine print everyone skips is worth your hour. That hour is cheaper than the surprise it spares you.
+fortuneHigh2: The margin you always leave is the quiet thing that keeps you from being caught out. Leave it again — it earns its keep.
+fortuneMid: A little time left over, no errand attached. Don't fill it. The slack itself is the thing worth keeping.
+fortuneMid2: You don't have to spend every margin you build. Walk the last block slow; let the buffer sit unspent. That's allowed.
+fortuneLow: The window is closing faster than your audit. Going now will feel a beat early. A beat early is fine here — stop checking.
+fortuneLow2: Whoever's at the door is expected. Open it without first peering through the window; the trust costs less than the peering, even if it uneases you.
+fortuneLeast: You decided long ago. The checking is a costume now — commit before the second-guessing creeps back, bare leap and all.
+fortuneLeast2: The plan assembles itself while you move — ticket bought, table set, invitation out. Skip the last pass. It costs a little calm, and it's a fair trade.
 facetMostTitle: The Hand That Hovers
 facetMost: You read a room the way a cook reads oil — listening for the pitch that means now, refusing the half-beat early.
 facetHighTitle: Vinegar Before the Greens

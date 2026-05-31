@@ -7,11 +7,16 @@ trait: unpredictable
 dish: Frijoles charros - pinto beans simmered with roasted pasilla chiles, bacon, and jalapeño.
 quote: Consistency is the last refuge of the bean-less.
 seasonalFortune: Roasted pintos refuse a fixed order this season; some pots lead with pasilla smoke, others with jalapeño bite. The kitchen rewards those who taste before they plan.
-fortuneMost: Take the long way home through the street that smells like something cooking. The inbox is fiction anyway.
-fortuneHigh: Introduce yourself as whoever showed up this morning. The people who can keep up with the version in front of them are the ones worth feeding.
-fortuneMid: When a friend asks which version they've got, tell them. The honest answer beats whatever they were guessing.
-fortuneLow: Show up the same way three meetings in a row. Someone has been waiting for a baseline to compare against.
-fortuneLeast: Buy one ingredient you've never cooked. The fixed rotation has gone tasteless and the leftovers already snitched.
+fortuneMost: The long way round for no reason at all is the better pot. Whatever you planned will keep; the detour won't.
+fortuneMost2: The safe plan ditched for the one nobody saw coming pays out, the way it usually does.
+fortuneHigh: Whoever you actually are turns up, and you mean every version of it. The ones who can keep pace are the ones worth feeding.
+fortuneHigh2: Pasilla smoke or jalapeño bite, no fixed order. Follow the thing that smells interesting over the thing that arrived first.
+fortuneMid: A friend asking which version of you they've got deserves the straight answer. Just tell them.
+fortuneMid2: One small thing turned — the route, the seat, the order of the pot — and the flat day comes back to life.
+fortuneLow: Someone's been quietly waiting for a baseline to count on. Show up the same way a few times running; it'll bore you stiff, and it's the steadiness they needed.
+fortuneLow2: Keep the standing plan when you'd rather bolt. It's how you stay findable twice, restless as it makes you.
+fortuneLeast: The rotation you can cook without thinking is its own quiet comfort. Lean on it a while and notice the roots that hold.
+fortuneLeast2: Returning to the trusted books, the unchanged list, isn't the dullness you fear — it's how some things actually root. Some seasons that's the richer pot.
 facetMostTitle: Three Chiles, None Called for
 facetMost: You introduce yourself differently each time and mean every version. Acquaintances compare notes and find separate people.
 facetHighTitle: The Cracked Pasilla

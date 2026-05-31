@@ -7,11 +7,16 @@ trait: passionate
 dish: Adzuki chahan - Japanese fried rice with adzuki beans, soy sauce, and scallion.
 quote: Anything that gets your bean racing is worth doing!
 seasonalFortune: Their days run hot at the edges; what they love is loaded into the pan whole, and what they don't never reaches the flame.
-fortuneMost: Pour the toast you've been rehearsing. The full one — clinking glasses don't wait for edits.
-fortuneHigh: Ask the embarrassing follow-up. It's the one they were hoping you'd notice.
-fortuneMid: Mark it now. Buy the cake on the way home; the occasion is already happening whether you light a candle or not, and the candle is the proof.
-fortuneLow: The heat is real but the target is wrong. Sleep on it; rewrite the message in the morning.
-fortuneLeast: Stop refreshing the thread. It ended a while ago — close the tab, and let the heat find a target that's still on the other end.
+fortuneMost: The oil's already screaming when you tip the rice in. Everything you love goes in whole, and someone is about to remember being loved that loudly for years.
+fortuneMost2: Give the long voice note, the toast that runs three minutes over, the gift with no occasion. People keep that heat their whole lives.
+fortuneHigh: A stranger says one true thing, and you go straight for the second question — right where the real talk was waiting.
+fortuneHigh2: Ask the thing nobody at the table will say out loud. They were hoping you'd reach for it.
+fortuneMid: Move on it while it's still hot, not on some calmer week that never comes.
+fortuneMid2: A want is going to flare. Good — the fire is the whole point of you.
+fortuneLow: The heat is real, but it's landed on the wrong target. Let it cool a degree before you spend it, even when cooling feels like betrayal.
+fortuneLow2: One flare passes through you unspent, and you're still standing. Harder than it sounds, and you did it.
+fortuneLeast: The pan's gone cold and reheating won't bring it back. The next thing can't find you while you're still bent over this one.
+fortuneLeast2: A nod that means — enough. Not every passing thing has earned your whole fire.
 facetMostTitle: The Leaping Flame
 facetMost: You begin every project at full burn — no half-measures, every grain in the pan turned by the same hand.
 facetHighTitle: Soy in Seconds

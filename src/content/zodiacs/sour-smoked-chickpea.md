@@ -7,11 +7,16 @@ trait: wary
 dish: Smoked chickpea shawarma wrap with sumac-marinated onions and pickled turnips
 quote: Beware the bean of March.
 seasonalFortune: A season cured in low smoke. Houses smell of sumac and vinegar, and the cook tastes everything twice before the wrap is folded shut.
-fortuneMost: Keep the spare key in your pocket this week. The person asking for it is auditioning, not arriving.
-fortuneHigh: Screenshot the message before replying. The reply you draft to the screenshot is the one to send.
-fortuneMid: Someone friendly is asking too many small questions. Answer the third one wrong on purpose and watch what happens.
-fortuneLow: Say yes to the smallest invitation this week. Caution that never lets anything in is just a slower no.
-fortuneLeast: You let someone past the threshold you'd normally check. Either welcome them properly or change the locks; the in-between is the worst version.
+fortuneMost: Keep the spare key in your pocket a while longer. Whoever's asking for it is auditioning, not arriving.
+fortuneMost2: A new face holds you long after the others have drifted off — still listening, still measuring the crunch. Your slowness is rarely wrong.
+fortuneHigh: Give it a second look before you trust it. The version you first felt isn't the true one; the second read is.
+fortuneHigh2: Who leaves the porch light on, and the hour it goes dark. You read the small signs, and that quiet watching keeps you safe in ways you'll never have to prove.
+fortuneMid: When the friendly questions come too thick and too small, slow down. You owe no easy answer to someone still being weighed.
+fortuneMid2: The good knife can go out on a first visit and come back, or not. Caution needn't mean keeping everything in the drawer.
+fortuneLow: Say yes to the smallest invitation that comes near. Caution that lets nothing in is only a slower no.
+fortuneLow2: One new person, the usual checks skipped, the door left easy. You'll lose the certainty you like, and you can reach toward the welcome without it.
+fortuneLeast: The half-open door is the worst of both. Welcome them all the way or not at all.
+fortuneLeast2: Good weather follows the one who can hand over the key and forget they did. It'll cost you a lock now and then; you'll trade up.
 facetMostTitle: Brine Before the Cut
 facetMost: You hold a new acquaintance long after the room has moved on — still listening, still measuring the crunch.
 facetHighTitle: The Tight Wrap

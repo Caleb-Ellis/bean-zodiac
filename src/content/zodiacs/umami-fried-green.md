@@ -7,11 +7,16 @@ trait: overachieving
 dish: Gan bian si ji dou - dry-fried green beans with pork mince, dried shrimp, and garlic.
 quote: Whatever you are, bean a good one.
 seasonalFortune: A season for blistered skins and longer wok-work. The pan keeps asking for one more handful, and the hands keep finding it.
-fortuneMost: Ship the bonus version. They didn't ask, which is exactly why it lands.
-fortuneHigh: Bring the appendix as a separate dish at dinner — the small bowl beside the main, with its own spoon. The thing nobody asked for is what they'll be talking about in the cab home.
-fortuneMid: Lay an extra place. Someone is going to text "can I bring —" half an hour before guests arrive.
-fortuneLow: Match the group's pace, just this round. Sprinting alone has been reading as leaving.
-fortuneLeast: Order plain rice. No second course, no apology.
+fortuneMost: The pan keeps asking for one more handful and your hands keep finding it. Make the version nobody asked for — that's the part they'll still be talking about long after.
+fortuneMost2: The side, the starter, and the backup loaf, all in your arms at the door. You arrive with the whole table.
+fortuneHigh: Asked for the figure, you'll bring the figure, the source, and the version you'd have preferred. The bit past the ask is where you actually live.
+fortuneHigh2: A small extra set beside the main thing, made with its own care. That's what they describe on the way home — not the thing they requested.
+fortuneMid: Six places laid for four. Someone always turns up needing one, and you saw it coming.
+fortuneMid2: Do the asked-for thing well and let that be the whole of it. Not every night needs a second act blistering in the oven.
+fortuneLow: Match the group's pace this round. Sprinting on alone has started to read as leaving them behind, and slowing will feel like backsliding before it feels like company.
+fortuneLow2: Stop at the dish the evening actually called for. The kitchen doesn't owe an encore to have been enough.
+fortuneLeast: Plain rice, the lamp turned low, no second course and no apology for it. Resting your hands will feel like failing; it isn't.
+fortuneLeast2: Arrive once with nothing in your arms and feel how little is lost. The bare version was always allowed.
 facetMostTitle: Garlic Past the Recipe
 facetMost: You finish the work, then build a second draft beside it before anyone has tasted the first.
 facetHighTitle: Shrimp in the Receipt Envelope

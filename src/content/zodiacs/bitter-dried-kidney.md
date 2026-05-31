@@ -7,11 +7,16 @@ trait: hardened
 dish: Louisiana Red Beans and Rice - with mustard greens.
 quote: What lies behind us and what lies before us are tiny matters compared to what lies between beans.
 seasonalFortune: The pot dries to its essentials; mustard cures on the stem. What survives the long simmer keeps through winter; softness is the first thing the heat takes.
-fortuneMost: Hold the line on the boundary you set last month. The wobble is theirs.
-fortuneHigh: Don't apologise for the no. The explanation softens it into a maybe.
-fortuneMid: Settle the old debt this week. Carrying it costs more than paying it.
-fortuneLow: Take the armour off for one dinner. Not the relationship, the dinner.
-fortuneLeast: Let someone help you. You don't need to be the one standing in front.
+fortuneMost: Hold the line you drew. The wobble is theirs, not yours, and you take the news standing up.
+fortuneMost2: The storm rolling in passes through you, not into you — you came out of worse denser than before. Stay dense; this one breaks against you and moves on.
+fortuneHigh: No apology after the no. The explanation softens it into a maybe you never meant.
+fortuneHigh2: The grudge cures until the salt's done its work, and only then do you decide. The hour to settle is rarely soon.
+fortuneMid: Settle the old debt before it costs more than the paying would. Carrying it is the expensive part.
+fortuneMid2: Cure the hard thing slowly, the way the bean takes the long simmer. What survives the heat is what you actually needed.
+fortuneLow: Take the armour off for one meal — not the whole bond, just the meal. It'll feel like standing in the open; do it.
+fortuneLow2: New affection has landed and found nowhere soft to settle. Stop drafting the polite distance before you've decided you don't want it — even though the open seam scares you.
+fortuneLeast: Someone is ready to carry part of it. Hand it over — you needn't be the one out front, however wrong that feels.
+fortuneLeast2: Softening will feel like exposure. Yield to the weather anyway; the callus you never grew was never what kept you safe.
 facetMostTitle: Brine Takes Weeks
 facetMost: Grudges, recipes, the answer to a hard question — all set aside to cure until the salt has done its work.
 facetHighTitle: Beans in Cold Water

@@ -7,11 +7,16 @@ trait: disarming
 dish: Smoked edamame gyoza with sweet hoisin and black vinegar dipping sauce.
 quote: You bean me at hello.
 seasonalFortune: Smoke moves through the season without asking. Rooms warm a beat before anyone decides to soften; the pleated edge gives, the sweetness arrives ahead of the question.
-fortuneMost: Apologise first and skip the negotiation. The whole afternoon resets in one sentence.
-fortuneHigh: Ask the cashier how their day is going and mean it. They'll remember it for days; you'll forget by the next aisle.
-fortuneMid: Pay the small bill before anyone reaches. The argument you just spared everyone is the gift.
-fortuneLow: Sit with the friend's bad mood without trying to fix it. The cure isn't yours to apply here.
-fortuneLeast: Say no without the apology paragraph. The kindness was the speed, not the cushioning.
+fortuneMost: A tension you walk into softens a beat before anyone decides to let it. You'll apologise first and reset the whole evening in one sentence.
+fortuneMost2: Someone furious an hour ago won't remember what the trouble was by the time you've walked them home. The pleated edge gives, sweetness arriving ahead of the fight.
+fortuneHigh: Ask how their day actually went and mean it. They'll carry that for days; you'll have moved on past the next aisle, never knowing.
+fortuneHigh2: Sit beside the one nobody's talking to. That quiet is the easiest in the place to open, and you're built to open it.
+fortuneMid: Settle the small bill before a hand reaches for it. The squabble you just spared everyone is the gift, not the money.
+fortuneMid2: When the tone tips, steer the talk somewhere kinder. Guiding the table out is gentler than winning at it.
+fortuneLow: Sit with the friend's bad mood and don't try to mend it. The cure isn't yours to pour this time, and holding your hands still will itch all evening.
+fortuneLow2: Let the small fire burn itself out. Not every blaze is yours to smother — and standing back while it does will go against everything in you.
+fortuneLeast: No, full stop. No apology paragraph trailing it; the clean answer was the kindness, even if leaving the cushion off feels unkind.
+fortuneLeast2: Take the side you actually believe and keep it. The argument worth having won't survive being folded into a pleat, and yes, holding it open costs you the easy peace.
 facetMostTitle: Smoke Through the Tied Pouch
 facetMost: You apologise before the other person finishes the sentence, and the bill arrives already settled, the argument folded back into dumpling pleats.
 facetHighTitle: The Pod Before the Fingers
