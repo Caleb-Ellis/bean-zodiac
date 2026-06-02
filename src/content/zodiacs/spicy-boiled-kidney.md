@@ -38,6 +38,11 @@ rorschachHigh: a boulder wedged low across the path
 rorschachMid: a tortoise hunkered down on wide feet
 rorschachLow: a sack of grain slumping off its base
 rorschachLeast: a tortoise tipping off its feet
+facetMostTags: [navy, cannellini, black]
+facetHighTags: [navy, cannellini]
+facetMidTags: [navy, cannellini]
+facetLowTags: [green, fava]
+facetLeastTags: [green, fava, edamame]
 ---
 
 Braised Kidney Beans are the Bean Zodiac's most stubborn — the household runs on terms they set in winter, and the angle of the lamp, the seat at the table, the mealtime, all stay where they were put. Pressure orbits them harmlessly. What they decide tends to keep being true long after the room has tried to change it.

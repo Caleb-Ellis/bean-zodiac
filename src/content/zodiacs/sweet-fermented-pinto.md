@@ -38,6 +38,11 @@ rorschachHigh: a knot of wire wound tight, loose ends snagging
 rorschachMid: a burr stuck full of bristles
 rorschachLow: a ball of yarn gone slack in a basket
 rorschachLeast: a cat curled round and asleep, fur settled smooth
+facetMostTags: [mung, black, kidney]
+facetHighTags: [mung, black]
+facetMidTags: [mung, black]
+facetLowTags: [navy, butter]
+facetLeastTags: [navy, butter, edamame]
 ---
 
 Funky Pinto Beans are the Bean Zodiac's most anxious — the ones who arrive at the dinner having already rehearsed three versions of how the seating might go and pre-laughed at the host's most likely joke. The thoroughness has its uses; they remember the allergy, bring the spare cardigan, notice the friend slipping into a quiet mood twenty minutes before anyone else.

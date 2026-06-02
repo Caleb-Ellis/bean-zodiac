@@ -38,6 +38,11 @@ rorschachHigh: two figures stalled at the doorway, neither in
 rorschachMid: two boulders set apart on the heath
 rorschachLow: two friends pulled close at a table
 rorschachLeast: two hounds curled together by the hearth
+facetMostTags: [pinto, cannellini, black]
+facetHighTags: [pinto, cannellini]
+facetMidTags: [pinto, cannellini]
+facetLowTags: [fava, edamame]
+facetLeastTags: [fava, edamame, green]
 ---
 
 Charcoal Chickpeas are the Bean Zodiac's most liminal. They arrive at the party with their coat on and lean in the doorway, fully at ease in a room they have no intention of fully entering. They fit everywhere precisely because they've committed to nowhere; the box of books gets unpacked, the box marked kitchen stays taped shut for a year.

@@ -38,6 +38,11 @@ rorschachHigh: a beetle rearing up on its hind legs
 rorschachMid: a round pot with two side handles
 rorschachLow: a teapot sitting cold on the shelf
 rorschachLeast: a cat curled tight and fast asleep
+facetMostTags: [chickpea, mung, black]
+facetHighTags: [chickpea, mung]
+facetMidTags: [chickpea, mung]
+facetLowTags: [chickpea, adzuki]
+facetLeastTags: [chickpea, adzuki, kidney]
 ---
 
 Scorched Green Beans are the Bean Zodiac's most excitable. They answer the thread the second it lights up, start the new thing the night they hear about it, introduce themselves to the stranger in the queue and mean it — and the enthusiasm isn't scattershot, it has aim. People warm to them fast, because the excitement is real and pointed at something.

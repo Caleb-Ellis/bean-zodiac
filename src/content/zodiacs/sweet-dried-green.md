@@ -38,6 +38,11 @@ rorschachHigh: tree rings circling out year by year
 rorschachMid: a wheel resting on its side
 rorschachLow: a calendar with the old pages torn off
 rorschachLeast: a stump with the rings gone grey
+facetMostTags: [navy, butter, black]
+facetHighTags: [navy, butter]
+facetMidTags: [navy, butter]
+facetLowTags: [fava, edamame]
+facetLeastTags: [fava, edamame, pinto]
 ---
 
 Crystallised Green Beans are the Bean Zodiac's most perennial. The friendship from school, the hobby they dropped at twenty-two and picked up at thirty-eight, the half-finished novel waiting in the same drawer for a decade — they come back to it, and somehow the thing comes back too, picking up almost where it left off.

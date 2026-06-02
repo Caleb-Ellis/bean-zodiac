@@ -38,6 +38,11 @@ rorschachHigh: two scale pans, one held firmly higher
 rorschachMid: two clouds drifting one above the other
 rorschachLow: two jaws gone slack, letting the catch slip
 rorschachLeast: a top and bottom lip parted to let it go
+facetMostTags: [navy, cannellini, black]
+facetHighTags: [navy, cannellini]
+facetMidTags: [navy, cannellini]
+facetLowTags: [green, edamame]
+facetLeastTags: [green, edamame, chickpea]
 ---
 
 Brined Fava Beans are the Bean Zodiac's most righteous. They keep a quiet running ledger of what was fair and what wasn't, and they will hold a position about it for months without raising their voice once. When they do speak, the line has been sanded down to its plain shape — no flourish, no hedging, the small wrong thing named in the room where it happened.

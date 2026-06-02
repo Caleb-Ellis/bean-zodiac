@@ -38,6 +38,11 @@ rorschachHigh: a bear sitting solid on its haunches
 rorschachMid: a tree stump with a stray root
 rorschachLow: a snowman starting to slump on one side
 rorschachLeast: a sandcastle sliding apart at the base
+facetMostTags: [navy, kidney, mung]
+facetHighTags: [navy, kidney]
+facetMidTags: [navy, kidney]
+facetLowTags: [butter, black]
+facetLeastTags: [butter, black, pinto]
 ---
 
 Candied Edamame are the Bean Zodiac's most dependable — the friend who arrives at the airport at the hour they said, with the snack they always bring, in the car that has been quietly serviced for the occasion. There is no flourish to it; the borrowed dish comes back washed, the birthday text lands on the morning of, the standing Sunday call has happened every week for six years and would happen next week if the world ended on Saturday.

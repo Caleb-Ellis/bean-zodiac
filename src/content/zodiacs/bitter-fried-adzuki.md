@@ -38,6 +38,11 @@ rorschachHigh: a heavy stone dropped square in the middle
 rorschachMid: a lumpy potato with a sprout off the side
 rorschachLow: a fat candle slumping soft as it burns down
 rorschachLeast: a head of cauliflower coming apart into florets
+facetMostTags: [chickpea, mung, black]
+facetHighTags: [chickpea, mung]
+facetMidTags: [chickpea, mung]
+facetLowTags: [chickpea, green]
+facetLeastTags: [chickpea, green, kidney]
 ---
 
 Scorched Adzuki Beans are the Bean Zodiac's most opinionated — and they know it within the first three seconds. Hand one a menu, a hire, a paint swatch, and the verdict arrives whole and unhedged, often before the question has finished. People bring them the hard calls precisely because they don't flinch, and they're usually right.

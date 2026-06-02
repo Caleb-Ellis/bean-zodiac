@@ -38,6 +38,11 @@ rorschachHigh: an old oak crowded with a thousand leaves
 rorschachMid: a head of cauliflower cut from the stalk
 rorschachLow: a plain round bush trimmed to a ball
 rorschachLeast: a plain felt cushion
+facetMostTags: [navy, butter, black]
+facetHighTags: [navy, butter]
+facetMidTags: [navy, butter]
+facetLowTags: [fava, green]
+facetLeastTags: [edamame, fava, green]
 ---
 
 Charcoal Pinto Beans are the Bean Zodiac's most intricate. They answer a text in three drafts, each catching a meaning the last one missed; they keep seven tabs open in a deliberate order and can name the through-line between any two. The inner landscape is genuinely elaborate, layered the way smoke works into the grain, and rewarding to anyone who stays long enough to follow it.

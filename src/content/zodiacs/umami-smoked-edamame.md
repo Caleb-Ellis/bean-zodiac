@@ -38,6 +38,11 @@ rorschachHigh: an insect's antennae reaching up to test the air
 rorschachMid: a chestnut burr split open on the path
 rorschachLow: a sea urchin overturned spines-up
 rorschachLeast: a thornbush thrashing blindly in the dark
+facetMostTags: [cannellini, pinto, black]
+facetHighTags: [cannellini, pinto]
+facetMidTags: [cannellini, pinto]
+facetLowTags: [fava, green]
+facetLeastTags: [fava, green, kidney]
 ---
 
 Hickory Edamame are the Bean Zodiac's most prescient — they answer the email an hour before it arrives, in the sense that the draft is already written when the question lands. Friends mention them mid-thought ("I was just going to say that"); the meeting they prepped for goes exactly the way they prepped. They aren't fast, exactly. They've just been there already, days ago, quietly.

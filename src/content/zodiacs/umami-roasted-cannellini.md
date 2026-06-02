@@ -38,6 +38,11 @@ rorschachHigh: a dandelion letting its seeds go on the wind
 rorschachMid: a broad tree with roots spreading underground
 rorschachLow: a mushroom keeping its spores tight under the cap
 rorschachLeast: a willow with its roots bound up in burlap
+facetMostTags: [chickpea, mung, black]
+facetHighTags: [chickpea, mung]
+facetMidTags: [chickpea, mung]
+facetLowTags: [adzuki, chickpea]
+facetLeastTags: [adzuki, chickpea, green]
 ---
 
 Rendered Cannellini Beans are the Bean Zodiac's most confiding — but on their own clock. The held thing waits until the right ear arrives, and when it does they offer it whole, kept warm exactly long enough not to lose its shape. The friend who gets the late-night call always understands, afterwards, why it was them.

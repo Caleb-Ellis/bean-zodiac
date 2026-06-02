@@ -38,6 +38,11 @@ rorschachHigh: two clasped hands above a tethered weight
 rorschachMid: a mushroom cap on a thin stalk
 rorschachLow: a balloon straining at a fraying string
 rorschachLeast: a jellyfish drifting loose from its bell
+facetMostTags: [navy, butter, pinto]
+facetHighTags: [navy, butter]
+facetMidTags: [navy, butter]
+facetLowTags: [fava, green]
+facetLeastTags: [fava, green, edamame]
 ---
 
 Candied Black Beans are the Bean Zodiac's most steadfast — the ones who still send the birthday text twelve years after the friendship went mostly dormant, and mean every word of it. The standing Tuesday call, the monthly walk, the houseplant inherited from a roommate who moved out in 2017 — these are kept with a quiet, sweetened constancy that asks for no acknowledgement and rarely gets any.

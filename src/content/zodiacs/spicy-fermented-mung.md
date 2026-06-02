@@ -38,6 +38,11 @@ rorschachHigh: a toad hunched over the same burrow
 rorschachMid: a storm cloud swollen low and heavy
 rorschachLow: a pond gone flat after the last ripple
 rorschachLeast: a loaf resting under a cloth
+facetMostTags: [kidney, navy, black]
+facetHighTags: [kidney, navy]
+facetMidTags: [kidney, navy]
+facetLowTags: [butter, edamame]
+facetLeastTags: [butter, edamame, black]
 ---
 
 Kimchi Mung Beans are the Bean Zodiac's most compulsive — the ones who reach for the phone mid-sentence and finish the sentence later, if at all. They've named the loop, written it on a post-it, scheduled a different thing in its slot, and still walked the same lap of the kitchen at the same hour. The pull is real, and oddly tender; it's the thing they tend most reliably in their lives.

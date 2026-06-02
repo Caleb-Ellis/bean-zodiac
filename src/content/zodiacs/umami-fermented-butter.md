@@ -38,6 +38,11 @@ rorschachHigh: an animal pelt pinned flat to dry
 rorschachMid: a wide moth resting open on bark
 rorschachLow: a stingray gliding off across the sand
 rorschachLeast: a kite torn loose and flung downwind
+facetMostTags: [mung, black, pinto]
+facetHighTags: [mung, black]
+facetMidTags: [mung, black]
+facetLowTags: [fava, green]
+facetLeastTags: [fava, edamame, green]
 ---
 
 Miso Butter Beans are the Bean Zodiac's most reflective — a remark made at lunch on Tuesday is still being unfolded on the walk home Sunday, and by then it has given up three meanings the speaker didn't know were in it. They live in the rich slow space where things keep yielding the longer you sit with them, and friends who go to them for advice come back with something they didn't know they were asking about.

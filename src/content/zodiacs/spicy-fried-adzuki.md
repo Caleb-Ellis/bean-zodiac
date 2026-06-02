@@ -38,6 +38,11 @@ rorschachHigh: a moth bursting upward off its own shadow
 rorschachMid: a spinning top wobbling on its narrow point
 rorschachLow: a seated figure folding its legs to rest
 rorschachLeast: a hooded lamp dimmed low on its stand
+facetMostTags: [kidney, green, pinto]
+facetHighTags: [kidney, green]
+facetMidTags: [kidney, green]
+facetLowTags: [butter, mung]
+facetLeastTags: [butter, mung, black]
 ---
 
 Red-Hot Adzuki Beans are the Bean Zodiac's most irrepressible — the room knows they've arrived before they've taken their coat off. They speak in exclamations and arrive with bottles, and the small good news a friend was saving for later becomes, in their hands, a reason to call three more people and open the better wine.

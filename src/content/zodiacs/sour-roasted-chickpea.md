@@ -38,6 +38,11 @@ rorschachHigh: a tree spreading its crown over tangled roots
 rorschachMid: a bat above a nest of twigs
 rorschachLow: a figure pulling a wide hat down over itself
 rorschachLeast: folded wings clenched into a tight knot
+facetMostTags: [green, fava, pinto]
+facetHighTags: [green, fava]
+facetMidTags: [green, fava]
+facetLowTags: [butter, mung]
+facetLeastTags: [butter, mung, black]
 ---
 
 Chimichurri Chickpeas are the Bean Zodiac's most open-minded — at dinner, they pull the loudest dissenter closer and ask them to keep going. The objection that would close another person's face opens theirs. They finish a draft, hear one good argument against the spine of it, and rewrite the spine before bed.

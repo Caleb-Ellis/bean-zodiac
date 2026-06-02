@@ -38,6 +38,11 @@ rorschachHigh: a person hunched with the shoulders drawn in
 rorschachMid: a round loaf cooling on the counter
 rorschachLow: a cat sitting up proud on its haunches
 rorschachLeast: a balloon swelled full and standing tall
+facetMostTags: [kidney, cannellini, fava]
+facetHighTags: [kidney, cannellini]
+facetMidTags: [kidney, cannellini]
+facetLowTags: [green, fava]
+facetLeastTags: [green, fava, edamame]
 ---
 
 Agrodolce Mung Beans are the Bean Zodiac's most self-deprecating — the joke about themselves is already drafted by the time anyone walks in the door. They cut their own work down a half-inch before showing it, name the burnt corner before you've spotted it, hand you the small unflattering story before the larger flattering one has finished. It's disarming, and it's why people relax around them.

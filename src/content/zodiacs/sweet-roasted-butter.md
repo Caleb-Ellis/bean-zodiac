@@ -38,6 +38,11 @@ rorschachHigh: a kite climbing over a tangle of string
 rorschachMid: a cloud drifting above a low thornbush
 rorschachLow: a heavy lid settling onto a nest of roots
 rorschachLeast: a millstone hung above a snarl of weeds
+facetMostTags: [adzuki, chickpea, green]
+facetHighTags: [adzuki, chickpea]
+facetMidTags: [adzuki, chickpea]
+facetLowTags: [mung, black]
+facetLeastTags: [mung, black, kidney]
 ---
 
 Glazed Butter Beans are the Bean Zodiac's most lighthearted — the ones who walk into a tight-shouldered room and somehow, a minute later, an arm has uncrossed and a story has improved. They arrive late with pastries and the lateness becomes the gift. They turn up to the dreaded thing in a stupid hat and the hat does the heavy lifting.

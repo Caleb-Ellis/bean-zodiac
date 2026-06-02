@@ -38,6 +38,11 @@ rorschachHigh: a thick quilt folded soft on a chair
 rorschachMid: a curled cat asleep on a cushion
 rorschachLow: a sponge wrung out to its last drips
 rorschachLeast: a cracked, drained basin gone bone dry
+facetMostTags: [cannellini, butter, pinto]
+facetHighTags: [cannellini, butter]
+facetMidTags: [cannellini, butter]
+facetLowTags: [fava, edamame]
+facetLeastTags: [fava, edamame, green]
 ---
 
 Aged Mung Beans are the Bean Zodiac's most restorative — the bowl set down in front of a friend who hasn't eaten properly in a fortnight, the clean blanket folded on the chair before anyone has admitted to feeling cold, the second message to the friend who went quiet last month. The care is slow, exact, and has yet to fail.

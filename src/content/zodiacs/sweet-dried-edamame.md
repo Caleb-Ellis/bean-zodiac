@@ -38,6 +38,11 @@ rorschachHigh: one pebble dropped in still water
 rorschachMid: a key on a plain ring
 rorschachLow: a road map folded the wrong way
 rorschachLeast: a tangle of yarn nobody can find the end of
+facetMostTags: [chickpea, mung, black]
+facetHighTags: [chickpea, mung]
+facetMidTags: [chickpea, mung]
+facetLowTags: [adzuki, chickpea]
+facetLeastTags: [adzuki, chickpea, green]
 ---
 
 Crystallised Edamame are the Bean Zodiac's most uncomplicated. The reply is short, the answer is yes or no, and the desk is empty by six. They have noticed that most things people fuss over come down to one decision, and they make it. Friends come to them when the noise has gotten loud and leave with one thing to do next.

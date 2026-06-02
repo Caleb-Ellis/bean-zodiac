@@ -38,6 +38,11 @@ rorschachHigh: a round loaf still warm under a cloth
 rorschachMid: a worn boulder with a chip off one shoulder
 rorschachLow: a hunched figure turned in on itself alone
 rorschachLeast: a stray dog curled alone at the field's edge
+facetMostTags: [chickpea, mung, navy]
+facetHighTags: [chickpea, mung]
+facetMidTags: [chickpea, mung]
+facetLowTags: [cannellini, edamame]
+facetLeastTags: [cannellini, edamame, black]
 ---
 
 Dashi Adzuki Beans are the Bean Zodiac's most affectionate — and the worst at saying so out loud. The love arrives as soup at the door, as the remembered allergy, as the spare phone charger produced from a bag the moment someone mentions their battery. They keep a quiet ledger of who likes onion and who doesn't, who's between jobs, whose mother is unwell, and they act on it before being asked, often before being thanked.

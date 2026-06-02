@@ -38,6 +38,11 @@ rorschachHigh: two crabs squared off, claws raised
 rorschachMid: two beetles meeting head to head
 rorschachLow: two cats dozing back to back
 rorschachLeast: two clouds drifting gently apart
+facetMostTags: [cannellini, black, edamame]
+facetHighTags: [cannellini, black]
+facetMidTags: [cannellini, black]
+facetLowTags: [green, edamame]
+facetLeastTags: [green, edamame, pinto]
 ---
 
 Cured Fava Beans are the Bean Zodiac's most biting — they speak the sentence the rest of the table has decided not to. They are the friend who, when the conversation politely edges past the obvious thing, walks straight back to it and names it; the colleague who replies to the careful memo with the question it was designed to prevent. The air after they speak is fresher than it has been all week, and they know it.

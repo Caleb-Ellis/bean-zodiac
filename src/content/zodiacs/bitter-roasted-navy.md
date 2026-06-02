@@ -38,6 +38,11 @@ rorschachHigh: a coiled rope knotted snug to a post
 rorschachMid: a stone next to a tangle of cord
 rorschachLow: a loosened knot slipping off a peg
 rorschachLeast: a rope cut free, ends flung wide open
+facetMostTags: [cannellini, black, kidney]
+facetHighTags: [cannellini, black]
+facetMidTags: [cannellini, black]
+facetLowTags: [fava, edamame]
+facetLeastTags: [fava, edamame, green]
 ---
 
 Wood-Fired Navy Beans are the Bean Zodiac's most prudent — they anticipate what could go wrong and quietly arrange for it. They set tomorrow's coat by the door, so the rain that arrives at 7:40 finds them already buttoned; the difficult message gets drafted, then left overnight to settle before it's sent. Their pantry answers questions before anyone thinks to ask them.

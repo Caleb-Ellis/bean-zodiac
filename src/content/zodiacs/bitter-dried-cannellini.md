@@ -38,6 +38,11 @@ rorschachHigh: a single loaf, no crumbs around it
 rorschachMid: a potato resting on a plate
 rorschachLow: an overstuffed grocery bag
 rorschachLeast: a heaped plate spilling bits off every edge
+facetMostTags: [mung, butter, black]
+facetHighTags: [mung, butter]
+facetMidTags: [mung, butter]
+facetLowTags: [green, fava]
+facetLeastTags: [green, fava, edamame]
 ---
 
 Desiccated Cannellini Beans are the Bean Zodiac's most ascetic — they own one good coat, one good knife, one mug, and can tell you the exact day they let go of the rest. Their rooms have the calm of a place where nothing is fighting for attention, and they move through a cluttered world like someone who has quietly solved a problem everyone else is still carrying.

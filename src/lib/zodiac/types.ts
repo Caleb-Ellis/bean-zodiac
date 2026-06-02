@@ -44,6 +44,12 @@ export type QualityId = (typeof QualityIds)[keyof typeof QualityIds];
 
 export type ZodiacId = `${FlavourId}-${FormId}-${BeanId}`;
 
+// A facet tag is a bean the facet vignette embodies. The zodiac's own triple is
+// always scored at full strength by the base pass; a tier's bean tags add a
+// weaker bump that lifts those beans on accept (they need not be the zodiac's
+// own bean — that's the point). See lib/spiritBean.
+export type FacetTagId = BeanId;
+
 export type BeanSchema = {
   name: string;
   slug: BeanId;
@@ -85,6 +91,11 @@ export type ZodiacSchema = {
   facetHigh: string;
   facetMostTitle: string;
   facetMost: string;
+  facetLeastTags?: FacetTagId[];
+  facetLowTags?: FacetTagId[];
+  facetMidTags?: FacetTagId[];
+  facetHighTags?: FacetTagId[];
+  facetMostTags?: FacetTagId[];
   fortuneLeast: string;
   fortuneLeast2: string;
   fortuneLow: string;

@@ -38,6 +38,11 @@ rorschachHigh: a clod of earth trailing torn roots
 rorschachMid: a dark bird's nest in a hedge
 rorschachLow: a dandelion head coming apart in wind
 rorschachLeast: a burst of sparks scattering off a fire
+facetMostTags: [butter, mung, kidney]
+facetHighTags: [butter, mung]
+facetMidTags: [butter, mung]
+facetLowTags: [fava, green]
+facetLeastTags: [fava, green, edamame]
 ---
 
 Hickory Black Beans are the Bean Zodiac's most solemn — they walk into a room and the volume drops a notch without anyone deciding to drop it. They write the email three times before sending. They take the long pause before answering "how are you," because the short version isn't true and the true version isn't short.

@@ -38,6 +38,11 @@ rorschachHigh: an anvil squared on its block
 rorschachMid: a bull's head lowered between two horns
 rorschachLow: a rock with two hands reaching over it
 rorschachLeast: a vessel with both handles open for lifting
+facetMostTags: [kidney, cannellini, fava]
+facetHighTags: [kidney, cannellini]
+facetMidTags: [kidney, cannellini]
+facetLowTags: [edamame, fava]
+facetLeastTags: [edamame, fava, green]
 ---
 
 Peri-Peri Navy Beans are the Bean Zodiac's most self-reliant — the ones who already fixed the leak before anyone noticed it was leaking, who carry the cash for the cab and the spare key and the painkillers nobody else thought to bring. Ask them how the week's been and you get "fine"; the actual answer would involve admitting a logistics problem they already solved on Tuesday.

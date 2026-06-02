@@ -38,6 +38,11 @@ rorschachHigh: a bird wings spread, sheltering something beneath
 rorschachMid: a crab with its legs reaching out either side
 rorschachLow: a heron stood alone, wings folded at its sides
 rorschachLeast: a beetle pinned flat, legs splayed apart
+facetMostTags: [chickpea, mung, black]
+facetHighTags: [chickpea, mung]
+facetMidTags: [chickpea, mung]
+facetLowTags: [adzuki, chickpea]
+facetLeastTags: [adzuki, chickpea, green]
 ---
 
 Barbecued Kidney Beans are the Bean Zodiac's most enamored — and the love does most of its work below the surface. The favourite mug is in the cupboard before the visit; the song gets played through twice on a Sunday for no audience; years in, they still catch themselves watching the person they love cross a room. The tending is constant, mostly private, and feels, from the inside, like enough.

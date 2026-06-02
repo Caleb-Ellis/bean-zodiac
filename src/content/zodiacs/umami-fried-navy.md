@@ -38,6 +38,11 @@ rorschachHigh: two peacocks, one fanning its tail wide
 rorschachMid: two boulders set apart in a field
 rorschachLow: two heads bowed toward each other
 rorschachLeast: two caps held low in waiting hands
+facetMostTags: [cannellini, kidney, fava]
+facetHighTags: [cannellini, kidney]
+facetMidTags: [cannellini, kidney]
+facetLowTags: [fava, edamame]
+facetLeastTags: [fava, edamame, green]
 ---
 
 Tempura Navy Beans are the Bean Zodiac's most arrogant — and the trouble is they've mostly earned it. They send the email without the "just," pick the restaurant in twenty fewer seconds than the group could, correct the host on the wine and turn out to be right. The unhedged sentence is the one that gets actioned. The room moves when they call it.

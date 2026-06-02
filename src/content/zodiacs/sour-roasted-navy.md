@@ -38,6 +38,11 @@ rorschachHigh: a chestnut still half in its husk
 rorschachMid: a walnut sitting whole on a table
 rorschachLow: a pinecone bristling its scales outward
 rorschachLeast: a gilded brooch flashing every facet
+facetMostTags: [cannellini, mung, kidney]
+facetHighTags: [cannellini, mung]
+facetMidTags: [cannellini, mung]
+facetLowTags: [green, fava]
+facetLeastTags: [green, fava, edamame]
 ---
 
 Chimichurri Navy Beans are the Bean Zodiac's most understated — they finish the work, leave it on the table, and walk out before anyone looks up. They feed six people and mention the recipe to none of them. The contribution gets noticed the way brown sugar gets noticed in baked beans: only later, only by absence.

@@ -38,6 +38,11 @@ rorschachHigh: a feather drifting past a thistle head
 rorschachMid: a banana beside a chestnut in its husk
 rorschachLow: a sickle resting next to a pinecone
 rorschachLeast: a ruler laid beside a stamped seal
+facetMostTags: [pinto, fava, adzuki]
+facetHighTags: [pinto, fava]
+facetMidTags: [pinto, fava]
+facetLowTags: [butter, mung]
+facetLeastTags: [butter, mung, black]
 ---
 
 Kimchi Green Beans are the Bean Zodiac's most unconventional — the ones who arrive at the right answer by a route that doesn't appear on any map and can't be retraced even by them. There's a notebook somewhere, half in shorthand, half in arrows, and a finished thing on the counter that everyone wants the recipe for.

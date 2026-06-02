@@ -38,6 +38,11 @@ rorschachHigh: a great oak crown rising from one trunk
 rorschachMid: a head of broccoli standing on its stalk
 rorschachLow: a dandelion clock about to lose its seeds
 rorschachLeast: a cotton ball balanced on a thin straw
+facetMostTags: [kidney, green, pinto]
+facetHighTags: [kidney, green]
+facetMidTags: [kidney, green]
+facetLowTags: [butter, mung]
+facetLeastTags: [butter, mung, black]
 ---
 
 Aged Fava Beans are the Bean Zodiac's most formidable — the kind of presence a room rearranges itself around without anyone deciding to. They take the hard question first, name the thing nobody wants to name, and stand at full height while doing it. Nothing in their bearing apologises for the space they take up, and there is a real, quiet relief in being in a room with someone who isn't going to flinch.

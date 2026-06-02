@@ -38,6 +38,11 @@ rorschachHigh: a comet dragging its long bright tail
 rorschachMid: a shaggy dog shaking water off its coat
 rorschachLow: a goat standing still at a short tether
 rorschachLeast: a bundle of hay bound tight with twine
+facetMostTags: [navy, kidney, mung]
+facetHighTags: [navy, kidney]
+facetMidTags: [navy, kidney]
+facetLowTags: [butter, edamame]
+facetLeastTags: [butter, edamame, black]
 ---
 
 Chipotle Fava Beans are the Bean Zodiac's most unbridled — and the friend who keeps the night interesting. They book the flight on the morning of, leave the steady job for the uncertain one, sleep at noon and cook at two, run the life on a clock no one else can read. People orbit them for the contact high; for the reminder that the rule was never as solid as it looked.

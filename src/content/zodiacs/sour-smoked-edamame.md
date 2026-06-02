@@ -38,6 +38,11 @@ rorschachHigh: a peach halved precisely along its cleft
 rorschachMid: a broad leaf notched at the stem
 rorschachLow: a cushion slumping soft under its own weight
 rorschachLeast: dough spreading shapeless across the board
+facetMostTags: [navy, black, kidney]
+facetHighTags: [navy, black]
+facetMidTags: [navy, black]
+facetLowTags: [adzuki, butter]
+facetLeastTags: [adzuki, butter, mung]
 ---
 
 Cured Edamame are the Bean Zodiac's most surgical — the reply is written before the question has finished arriving. They are the friend who, when you finally bring up the thing you've been circling, says the one sentence that ends it; the colleague whose two-line email closes a thread that had been on fire for two days. The relief of being handled this efficiently is real, and they trade on it.

@@ -38,6 +38,11 @@ rorschachHigh: a curled hedgehog, a few quills loose
 rorschachMid: a potato with sprouts at one end
 rorschachLow: a cloud breaking into scattered wisps
 rorschachLeast: an inkblot bursting into flying specks
+facetMostTags: [kidney, edamame, fava]
+facetHighTags: [kidney, edamame]
+facetMidTags: [kidney, fava]
+facetLowTags: [butter, edamame]
+facetLeastTags: [butter, edamame, chickpea]
 ---
 
 Desiccated Black Beans are the Bean Zodiac's most laconic — they wait out an entire dinner-table argument and then, when it has burned itself down, set one flat sentence in the middle of it that everyone immediately accepts. Nothing they say needs saying twice. They have never in their life sent a follow-up text.

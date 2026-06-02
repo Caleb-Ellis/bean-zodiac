@@ -38,6 +38,11 @@ rorschachHigh: two doves bowed in around a single egg
 rorschachMid: two headlands framing a pale bay between
 rorschachLow: two strangers turned away on a bench
 rorschachLeast: two cliffs split by an empty channel
+facetMostTags: [pinto, mung, black]
+facetHighTags: [pinto, mung]
+facetMidTags: [pinto, mung]
+facetLowTags: [butter, edamame]
+facetLeastTags: [butter, edamame, cannellini]
 ---
 
 Caramelised Navy Beans are the Bean Zodiac's most romantic — the ones who remember the date you mentioned a coat in a shop window, who write the long letter and walk it to the postbox at midnight, who can make a Tuesday feel like an anniversary of something. They love at full sugar, and the people they love spend years finding crumbs of it tucked into pockets and drawers.

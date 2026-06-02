@@ -38,6 +38,11 @@ rorschachHigh: a dark goblet brimming over its lip
 rorschachMid: a wide vase with two curling handles
 rorschachLow: a steady cup set level on a table
 rorschachLeast: a bright chalice catching the noon light
+facetMostTags: [navy, edamame, black]
+facetHighTags: [navy, edamame]
+facetMidTags: [navy, edamame]
+facetLowTags: [adzuki, butter]
+facetLeastTags: [adzuki, butter, mung]
 ---
 
 Braised Pinto Beans are the Bean Zodiac's moodiest — bright at noon, dark by evening, the pot never quite the same twice. They feel the weather two rooms away and name it before anyone else has shivered; the people around them are spared a lot of surprises by living with one.

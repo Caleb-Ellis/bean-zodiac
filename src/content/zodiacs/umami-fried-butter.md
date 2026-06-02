@@ -38,6 +38,11 @@ rorschachHigh: two sacks of grain stacked in a shed
 rorschachMid: two boulders resting in a field
 rorschachLow: two heads leaning close, sharing a secret
 rorschachLeast: two ornate vases facing on a mantel
+facetMostTags: [navy, edamame, black]
+facetHighTags: [navy, edamame]
+facetMidTags: [navy, edamame]
+facetLowTags: [adzuki, mung]
+facetLeastTags: [adzuki, mung, cannellini]
 ---
 
 Tempura Butter Beans are the Bean Zodiac's most pragmatic — the ones whose advice ends two sentences before everyone else's, and who somehow still pay less for things. They cut the agenda item that was never going to land, swap the elaborate plan for the obvious one, and reply in three lines without a greeting because the greeting cost both of you a minute. Around them, meetings end early. Things get bought once.

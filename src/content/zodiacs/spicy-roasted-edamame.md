@@ -38,6 +38,11 @@ rorschachHigh: a figure standing squared on both feet
 rorschachMid: a tree trunk spreading into wide roots
 rorschachLow: a candle flame wavering on its stand
 rorschachLeast: a sapling bowing under its own top weight
+facetMostTags: [kidney, cannellini, fava]
+facetHighTags: [kidney, cannellini]
+facetMidTags: [kidney, cannellini]
+facetLowTags: [fava, green]
+facetLeastTags: [fava, green, pinto]
 ---
 
 Peri-Peri Edamame are the Bean Zodiac's most confident — the ones who order without rereading the menu, who reply to the long email in one line, who say "I don't know" without the apology underneath. They take up exactly as much space as they take up, and the room stops trying to hand them a smaller chair.

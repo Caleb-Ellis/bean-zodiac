@@ -38,6 +38,11 @@ rorschachHigh: two foggy treetops bleeding into the mist
 rorschachMid: two cauliflower heads on a board
 rorschachLow: two hedges clipped to round edges
 rorschachLeast: two rusted iron gateposts
+facetMostTags: [cannellini, black, kidney]
+facetHighTags: [cannellini, black]
+facetMidTags: [cannellini, black]
+facetLowTags: [fava, green]
+facetLeastTags: [fava, edamame, green]
 ---
 
 Hickory Pinto Beans are the Bean Zodiac's most atmospheric — the room shifts when they walk in and nobody can quite say why. They speak twice in an evening and somehow seem to have hosted it. The friend recapping the night will mention the lighting, the music, a feeling, and only later remember the Pinto was there for all of it.

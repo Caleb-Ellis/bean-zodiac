@@ -38,6 +38,11 @@ rorschachHigh: a pair of cupped hands holding something warm
 rorschachMid: a plump loaf cooling on a board
 rorschachLow: an empty house
 rorschachLeast: a clamshell sealed shut against the tide
+facetMostTags: [adzuki, mung, pinto]
+facetHighTags: [adzuki, mung]
+facetMidTags: [adzuki, mung]
+facetLowTags: [fava, edamame]
+facetLeastTags: [fava, green, edamame]
 ---
 
 Funky Chickpeas are the Bean Zodiac's most empathetic — the ones who clock, two minutes into a dinner, that one person at the table is having a quietly terrible week and angle their attention there for the rest of the night. Nothing about it is performed. They simply absorb the room's weather and adjust, and the people they sit beside leave feeling unaccountably better without being able to say why.

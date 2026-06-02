@@ -38,6 +38,11 @@ rorschachHigh: a beetle's head above its ridged folded wings
 rorschachMid: a tree's broad canopy spreading over its trunk
 rorschachLow: a balloon on a string drifting near the floor
 rorschachLeast: a flat puddle with one ripple settling out
+facetMostTags: [navy, butter, black]
+facetHighTags: [navy, butter]
+facetMidTags: [navy, butter]
+facetLowTags: [fava, edamame]
+facetLeastTags: [fava, edamame, green]
 ---
 
 Aged Pinto Beans are the Bean Zodiac's most layered — ask after their week and the answer begins on Sunday with a small remembered detail, and by the time it arrives at Thursday, several things you didn't know were related have quietly turned out to be the same thing. Their shelves look plain from the doorway and reveal a logic only on the second look, which is the only look they're really interested in giving you.

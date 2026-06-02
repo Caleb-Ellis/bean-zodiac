@@ -38,6 +38,11 @@ rorschachHigh: a cloaked figure with arms spread, face in shadow
 rorschachMid: a beetle with its legs splayed wide
 rorschachLow: a frog laid open on the table, parts labelled
 rorschachLeast: a crab in clear water, every claw visible
+facetMostTags: [pinto, cannellini, kidney]
+facetHighTags: [pinto, cannellini]
+facetMidTags: [pinto, cannellini]
+facetLowTags: [fava, edamame]
+facetLeastTags: [fava, edamame, green]
 ---
 
 Barbecued Black Beans are the Bean Zodiac's most mystical — and the warmth around them is the part that throws people. They put a hand on your shoulder, pour the good thing, ask the question that lands a little too cleanly, and somewhere between the second and third sip you realise you've been the one talking the whole time.

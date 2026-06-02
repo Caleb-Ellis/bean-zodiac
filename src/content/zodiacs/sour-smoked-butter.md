@@ -38,6 +38,11 @@ rorschachHigh: a potato sprouting pale in the cellar
 rorschachMid: a knot of root with stubby ends
 rorschachLow: a curled hedgehog warm in dry leaves
 rorschachLeast: a ripe fig split dark and glistening
+facetMostTags: [chickpea, mung, black]
+facetHighTags: [chickpea, mung]
+facetMidTags: [chickpea, mung]
+facetLowTags: [adzuki, chickpea]
+facetLeastTags: [adzuki, chickpea, green]
 ---
 
 Cured Butter Beans are the Bean Zodiac's most pallid — the room with them in it stays a degree cooler than the thermostat suggests. They are the friend who replies in two days and three sentences, the colleague whose desk has no photos and whose lunch is the same on Monday and Friday. There is a steadiness here that other people lean on without quite knowing why; nothing flares, nothing has to be managed.

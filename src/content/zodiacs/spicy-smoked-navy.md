@@ -38,6 +38,11 @@ rorschachHigh: an anvil planted solid on the floor
 rorschachMid: a boulder squat at the foot of a hill
 rorschachLow: a snowball going soft and losing its edges
 rorschachLeast: a deflated ball slumping flat on the grass
+facetMostTags: [kidney, mung, pinto]
+facetHighTags: [kidney, mung]
+facetMidTags: [kidney, mung]
+facetLowTags: [butter, edamame]
+facetLeastTags: [butter, edamame, black]
 ---
 
 Chipotle Navy Beans are the Bean Zodiac's most dogged — and the ones who finish. The thesis, the marathon, the slow ugly renovation that everyone else assumed had been quietly abandoned. They show up on the bad days too, the cold ones and the ones with no audience, because the job isn't done. By the time the rest of the room circles back, the work is already through the worst of it and shaped the way they always said it would be.

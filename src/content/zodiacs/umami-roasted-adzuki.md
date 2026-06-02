@@ -38,6 +38,11 @@ rorschachHigh: a fresh loaf and the crumbs scattered around it
 rorschachMid: a round stone next to a tangle of brambles
 rorschachLow: a cold hearth with dead briars grown over it
 rorschachLeast: a bare skull and the dry roots gripping it
+facetMostTags: [chickpea, mung, cannellini]
+facetHighTags: [chickpea, mung]
+facetMidTags: [chickpea, mung]
+facetLowTags: [cannellini, edamame]
+facetLeastTags: [cannellini, edamame, black]
 ---
 
 Rendered Adzuki Beans are the Bean Zodiac's most warm — the kind of warmth that announces itself before they do. The kettle is already on when the knock lands. The friend who'd gone quiet for a month gets a message about lunch with no occasion attached, and answers, because the door has been left open the whole time.

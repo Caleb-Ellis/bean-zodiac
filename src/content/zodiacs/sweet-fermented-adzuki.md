@@ -38,6 +38,11 @@ rorschachHigh: a hooded mourner holding something close, antennae raised
 rorschachMid: a moth with two feelers and ragged lower wings
 rorschachLow: a deer skull with its antlers about to drop
 rorschachLeast: an empty husk split open and left behind
+facetMostTags: [pinto, mung, black]
+facetHighTags: [pinto, mung]
+facetMidTags: [pinto, mung]
+facetLowTags: [navy, butter]
+facetLeastTags: [navy, butter, edamame]
 ---
 
 Funky Adzuki Beans are the Bean Zodiac's most sentimental — the ones who remember what afternoon it was, what you were wearing, what song was playing in the background of a conversation no one else logged. They keep the ticket stub, the half-finished card, the voicemail from the friend who's since moved away. When they bring it up years later, it lands like a small inheritance — proof that the moment was worth keeping.

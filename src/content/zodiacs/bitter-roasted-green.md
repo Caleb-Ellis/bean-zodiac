@@ -38,6 +38,11 @@ rorschachHigh: a rooster lunging forward, beak thrust ahead
 rorschachMid: a boulder with a tangle of roots trailing
 rorschachLow: a cat stretched lazily, paw drooping loose
 rorschachLeast: a dropped glove crumpled where it fell
+facetMostTags: [kidney, fava, edamame]
+facetHighTags: [kidney, fava]
+facetMidTags: [kidney, fava]
+facetLowTags: [butter, edamame]
+facetLeastTags: [butter, edamame, black]
 ---
 
 Wood-Fired Green Beans are the Bean Zodiac's most competitive — they need to win and want you to see it. At a table of friends they turn the easy game into a real one and stay until someone concedes; they check where they sit on some private scoreboard before the kettle's even boiled. The standard they hold is genuinely high, and they meet it more often than not.

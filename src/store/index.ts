@@ -1,6 +1,6 @@
 import { create } from "zustand";
 import { persist } from "zustand/middleware";
-import type { QualityId, ZodiacId } from "../lib/zodiac";
+import type { FacetTagId, QualityId, ZodiacId } from "../lib/zodiac";
 import type { RitualVariant } from "../lib/fortune";
 
 export type FortuneEntry = {
@@ -9,6 +9,7 @@ export type FortuneEntry = {
   qualityId: QualityId;
   facetTitle: string;
   facetText: string;
+  facetTags?: FacetTagId[] | null; // snapshot of the shown tier's tags; legacy entries omit it
   score: number; // 0 = no vote, +1 = accepted, -1 = resisted
   text: string | null;
   seenAt: string | null; // ISO timestamp the user dismissed the fortune dialog

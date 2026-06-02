@@ -38,6 +38,11 @@ rorschachHigh: a thrown inkblob bursting against the wall
 rorschachMid: a snowball mid-splat against a fence
 rorschachLow: a spill already wiped, a few drops missed
 rorschachLeast: a marble sitting plain in its dish
+facetMostTags: [adzuki, pinto, kidney]
+facetHighTags: [adzuki, pinto]
+facetMidTags: [adzuki, pinto]
+facetLowTags: [butter, mung]
+facetLeastTags: [butter, mung, black]
 ---
 
 Miso Green Beans are the Bean Zodiac's most creative — and the workshop door stays closed until whatever is on the bench has stopped being itself and become something else. The thing taking shape under their hands is genuinely new, made of things that didn't belong together until they put them there, and the only way it gets to be that is by not being looked at yet.

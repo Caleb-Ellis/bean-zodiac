@@ -38,6 +38,11 @@ rorschachHigh: a figure in a thin shift cinched at the waist
 rorschachMid: a knotted scarf hanging from a hook
 rorschachLow: a gown padded out wide above and below
 rorschachLeast: a draped dummy dressed to hide its frame
+facetMostTags: [kidney, fava, edamame]
+facetHighTags: [kidney, fava]
+facetMidTags: [kidney, fava]
+facetLowTags: [black, edamame]
+facetLeastTags: [black, edamame, kidney]
 ---
 
 Brined Butter Beans are the Bean Zodiac's most honest — but the honesty arrives at low volume, after the room has settled and the wine has been poured. They will not perform the truth or use it to score a point; they wait until the moment can hold it, and then they say the plain thing in a voice that makes it land as care rather than verdict.

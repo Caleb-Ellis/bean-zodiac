@@ -38,6 +38,11 @@ rorschachHigh: an owl stretching tall off its perch
 rorschachMid: a chess piece standing on a narrow base
 rorschachLow: a vine slumping back down its own trellis
 rorschachLeast: a sack settled wide and low on the floor
+facetMostTags: [chickpea, fava, green]
+facetHighTags: [chickpea, fava]
+facetMidTags: [chickpea, fava]
+facetLowTags: [butter, mung]
+facetLeastTags: [butter, mung, black]
 ---
 
 Red-Hot Cannellini Beans are the Bean Zodiac's most ambitious — already moving toward the next thing before the current one has cooled. They take the larger version of every offer, book the follow-up before the conversation ends, and finish the favour they half-promised by Wednesday without mentioning it. Whatever room they're in, they're already partly in the next one.

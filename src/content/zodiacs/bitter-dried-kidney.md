@@ -38,6 +38,11 @@ rorschachHigh: a smooth nut and a dented helmet
 rorschachMid: a pebble and a spiky chestnut husk
 rorschachLow: a cracked pod beside a nut split open
 rorschachLeast: a pebble and a burst shell scattering seeds
+facetMostTags: [butter, navy, black]
+facetHighTags: [butter, navy]
+facetMidTags: [butter, navy]
+facetLowTags: [green, edamame]
+facetLeastTags: [green, edamame, fava]
 ---
 
 Desiccated Kidney Beans are the Bean Zodiac's most hardened — they have been through the thing that would flatten most people and came out denser for it, calm in the kind of bad week that sends everyone else into a spiral. They take the news standing up. Nothing surprises them anymore, and there's a real peace in that.

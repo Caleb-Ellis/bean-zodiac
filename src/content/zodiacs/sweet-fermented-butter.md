@@ -38,6 +38,11 @@ rorschachHigh: a dog rolled on its back, legs in the air
 rorschachMid: a wide ink splatter with trailing legs
 rorschachLow: a tanned hide pinned out flat to dry
 rorschachLeast: a surveyor's map spread across a table
+facetMostTags: [adzuki, chickpea, green]
+facetHighTags: [adzuki, chickpea]
+facetMidTags: [adzuki, chickpea]
+facetLowTags: [mung, black]
+facetLeastTags: [mung, black, pinto]
 ---
 
 Funky Butter Beans are the Bean Zodiac's silliest — the ones who put googly eyes on the printer in week one and never quite take them off. Their absurdity isn't a bit; it's a temperature. Rooms loosen around them without quite noticing, and people who came in braced for something dull leave having said the truer thing because the air permitted it.

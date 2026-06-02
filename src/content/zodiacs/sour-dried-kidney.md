@@ -38,6 +38,11 @@ rorschachHigh: a mace head bristling above its shaft
 rorschachMid: a tree crown over a spiky trunk
 rorschachLow: a dandelion clock losing its last seeds
 rorschachLeast: a balloon drifting up off a soft basket
+facetMostTags: [navy, mung, pinto]
+facetHighTags: [navy, mung]
+facetMidTags: [navy, mung]
+facetLowTags: [butter, black]
+facetLeastTags: [butter, edamame, black]
 ---
 
 Dehydrated Kidney Beans are the Bean Zodiac's most fierce. They are the friend who calls the company back on your behalf, who notices the third time a flatmate borrows without asking, who once, in a meeting, said the sentence that ended the bad project before it cost anyone else a year. Loyalty in them is a verb, and the people in their corner know it without having to ask.

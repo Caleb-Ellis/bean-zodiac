@@ -38,6 +38,11 @@ rorschachHigh: a shawl drawn around hunched shoulders
 rorschachMid: a broad tree over two thin trunks
 rorschachLow: an umbrella shut tight against the rain
 rorschachLeast: a cliff overhanging the small shore below
+facetMostTags: [adzuki, chickpea, mung]
+facetHighTags: [adzuki, chickpea]
+facetMidTags: [adzuki, chickpea]
+facetLowTags: [fava, green]
+facetLeastTags: [fava, green, edamame]
 ---
 
 Candied Kidney Beans are the Bean Zodiac's most compassionate — the one who notices the friend going quiet at the edge of the group and slides over without making a thing of it, who answers the 11pm message at 11pm and means every cardamom-warm word of it. They can sit in a hard room without flinching and bring the temperature down with their presence alone.

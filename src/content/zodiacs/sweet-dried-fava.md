@@ -38,6 +38,11 @@ rorschachHigh: a mule pulling against a long load
 rorschachMid: a hammer left head-down on the bench
 rorschachLow: a hammock strung between two trees
 rorschachLeast: a flag dropped flat in the mud
+facetMostTags: [navy, kidney, mung]
+facetHighTags: [navy, kidney]
+facetMidTags: [navy, kidney]
+facetLowTags: [butter, edamame]
+facetLeastTags: [butter, edamame, black]
 ---
 
 Crystallised Fava Beans are the Bean Zodiac's most indomitable. They are the friend who drives across two cities at midnight, the colleague who stays after everyone else has folded, the one carrying the casserole up the stairs of the grieving house. You can lean on them and they will not move; the surprising part is that they seem to enjoy it.

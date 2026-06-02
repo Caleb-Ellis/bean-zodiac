@@ -38,6 +38,11 @@ rorschachHigh: a low cloud trailing rain straight down
 rorschachMid: a cloud with streamers hanging beneath it
 rorschachLow: a fountain throwing its water up in jets
 rorschachLeast: smoke from a fire rising fast into clear sky
+facetMostTags: [pinto, black, kidney]
+facetHighTags: [pinto, black]
+facetMidTags: [pinto, black]
+facetLowTags: [navy, butter]
+facetLeastTags: [navy, butter, edamame]
 ---
 
 Rendered Mung Beans are the Bean Zodiac's most melancholy — not unhappy, exactly, but always carrying the weather of an earlier room with them into this one. They keep the chipped bowl and the dead pen. They reread old messages on purpose, slowly, the way someone walks a shoreline at low tide. The result is a person who, when present, is present with a depth most people can't quite match.

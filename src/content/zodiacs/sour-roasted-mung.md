@@ -38,6 +38,11 @@ rorschachHigh: a snail uncurling its shell toward a crumb
 rorschachMid: a gnarled stump beside an empty bird's nest
 rorschachLow: a sleeping bear ignoring the moth at its foot
 rorschachLeast: a shuttered window facing a dropped seed
+facetMostTags: [pinto, black, kidney]
+facetHighTags: [pinto, black]
+facetMidTags: [pinto, black]
+facetLowTags: [navy, butter]
+facetLeastTags: [navy, butter, edamame]
 ---
 
 Chimichurri Mung Beans are the Bean Zodiac's most sensitive — they walk into a room and know who left it angry an hour ago. The friend's voice thins on one vowel and the evening gets quietly cleared; the message arrives with a second sentence the writer almost deleted, and that's the sentence that gets answered.

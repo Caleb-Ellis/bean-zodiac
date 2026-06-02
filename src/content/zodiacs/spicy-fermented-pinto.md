@@ -38,6 +38,11 @@ rorschachHigh: an ink drop dispersing through water
 rorschachMid: a cloud breaking up over a hill
 rorschachLow: a puddle settled flat after rain
 rorschachLeast: an old ink stain dried fast in the cloth
+facetMostTags: [chickpea, mung, black]
+facetHighTags: [chickpea, mung]
+facetMidTags: [chickpea, mung]
+facetLowTags: [adzuki, chickpea]
+facetLeastTags: [adzuki, chickpea, green]
 ---
 
 Kimchi Pinto Beans are the Bean Zodiac's most mercurial — the friend who arrives at brunch already on the other side of an argument they hadn't started by breakfast. The new position is fully formed, internally consistent, and held with the same calm certainty as last week's contradictory one; the shift happened in the dark and surfaces complete.

@@ -38,6 +38,11 @@ rorschachHigh: a split skull cracked down the middle
 rorschachMid: two boulders parted by a narrow ravine
 rorschachLow: two bushes leaning apart over a path
 rorschachLeast: two hens settling down on either side
+facetMostTags: [chickpea, mung, pinto]
+facetHighTags: [chickpea, mung]
+facetMidTags: [chickpea, mung]
+facetLowTags: [chickpea, adzuki]
+facetLeastTags: [chickpea, adzuki, green]
 ---
 
 Charcoal Black Beans are the Bean Zodiac's scariest — not loud, not cruel, just the one at the table who goes quiet and watches, and somehow the whole room adjusts to it. They say little and mean all of it. People rehearse what they'll say to them on the walk over.

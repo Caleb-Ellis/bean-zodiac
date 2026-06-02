@@ -38,6 +38,11 @@ rorschachHigh: an owl drawn tight against the trunk
 rorschachMid: a tree stump with two knobs on top
 rorschachLow: a hare sitting easy in the grass
 rorschachLeast: a child leaning out, arms thrown wide
+facetMostTags: [navy, cannellini, black]
+facetHighTags: [navy, cannellini]
+facetMidTags: [navy, cannellini]
+facetLowTags: [green, fava]
+facetLeastTags: [green, fava, edamame]
 ---
 
 Cured Chickpeas are the Bean Zodiac's most wary — they have arrived at the dinner having already looked up the host's last three jobs. They are the friend who asks twice where the recommendation came from before clicking the link, the colleague whose welcome to a new hire is courteous and unhurried and full of small tests the new hire won't notice for a month. When trust is finally extended, it means something, and the people who earn it know they have.

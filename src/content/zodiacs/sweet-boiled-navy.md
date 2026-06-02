@@ -38,6 +38,11 @@ rorschachHigh: a sealed jar narrowing to its lid
 rorschachMid: a small cypress on a low hill
 rorschachLow: a fountain brimming over its basin
 rorschachLeast: a haystack toppling loose across the field
+facetMostTags: [chickpea, mung, black]
+facetHighTags: [chickpea, mung]
+facetMidTags: [chickpea, mung]
+facetLowTags: [adzuki, chickpea]
+facetLeastTags: [adzuki, chickpea, green]
 ---
 
 Candied Navy Beans are the Bean Zodiac's most frugal — and they take a quiet, treacle-warm pleasure in it. The pantry is mapped to the jar; the dinner is a great success and cost £4.20; the gift is the pudding made from what was already in the cupboard, brought round warm, twice as welcome as anything from the shop. Sufficiency tastes good to them, and the people they feed end up tasting it too.

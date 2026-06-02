@@ -38,6 +38,11 @@ rorschachHigh: a heavy sack cinched tight at the neck
 rorschachMid: a clod of earth with roots trailing up
 rorschachLow: a cracked pot leaking grain from the seam
 rorschachLeast: a burst sack spilling its chaff everywhere
+facetMostTags: [chickpea, mung, kidney]
+facetHighTags: [chickpea, mung]
+facetMidTags: [chickpea, mung]
+facetLowTags: [adzuki, chickpea]
+facetLeastTags: [adzuki, chickpea, green]
 ---
 
 Dehydrated Black Beans are the Bean Zodiac's most impenetrable. Ask one how the weekend went and the answer is "fine" — accurate, complete, and somehow the conversation has already ended. They are not cold; they are simply on the other side of a door that has no obvious handle, and a year of dinners can pass before anyone notices nothing has come out about the divorce, the move, the diagnosis.

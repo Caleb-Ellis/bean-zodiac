@@ -38,6 +38,11 @@ rorschachHigh: two loaves split down the top to show the crumb
 rorschachMid: two storm clouds stacked over a flat horizon
 rorschachLow: two islands wrapped in fog that hides their shores
 rorschachLeast: two locked strongboxes, one stacked on the other
+facetMostTags: [kidney, fava, edamame]
+facetHighTags: [kidney, fava]
+facetMidTags: [kidney, fava]
+facetLowTags: [butter, edamame]
+facetLeastTags: [butter, edamame, black]
 ---
 
 Agrodolce Adzuki Beans are the Bean Zodiac's most candid — the kind whose congratulations arrive before the cake is cut and whose objections arrive before the meeting ends. There's no draft phase. The thought forms, the mouth opens, and the room adjusts; what they say tends to be both true and warm, because the warmth was the first thing in the batter.

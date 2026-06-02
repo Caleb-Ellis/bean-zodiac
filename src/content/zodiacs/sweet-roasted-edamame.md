@@ -38,6 +38,11 @@ rorschachHigh: a hand reaching across to a full bowl
 rorschachMid: a pear resting beside a leafy sprig
 rorschachLow: a teapot turned away from an empty cup
 rorschachLeast: a watering can set down beside dry roots
+facetMostTags: [cannellini, navy, mung]
+facetHighTags: [cannellini, navy]
+facetMidTags: [cannellini, navy]
+facetLowTags: [fava, green]
+facetLeastTags: [fava, green, kidney]
 ---
 
 Glazed Edamame are the Bean Zodiac's most considerate — the ones who read the email twice before sending, once for what it says and once for how it will land. At the housewarming they find the lightbulb that needs changing and change it. They answer the message they owe before the one they want to.

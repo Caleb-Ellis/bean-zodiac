@@ -38,6 +38,11 @@ rorschachHigh: a rusted anchor with two hooked flukes
 rorschachMid: a crow with one ragged wing spread
 rorschachLow: a paper kite trailing its loose tails
 rorschachLeast: a swallow gliding with wings barely beating
+facetMostTags: [kidney, green, fava]
+facetHighTags: [kidney, green]
+facetMidTags: [kidney, green]
+facetLowTags: [butter, mung]
+facetLeastTags: [butter, mung, pinto]
 ---
 
 Braised Black Beans are the Bean Zodiac's grittiest — the ones who outlast the hold music, the bad week, the project everyone else quietly walked away from. They finish things on the same legs that started them, and a room full of people giving up will turn, eventually, to see whether they have. They haven't.

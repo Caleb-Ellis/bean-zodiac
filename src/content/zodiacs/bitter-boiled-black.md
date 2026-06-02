@@ -38,6 +38,11 @@ rorschachHigh: two chess players leaning close over the board
 rorschachMid: a seated cat facing a small spiky hedgehog
 rorschachLow: a wrestler pitching forward across the narrow seam
 rorschachLeast: a head bursting into scattered spines and quills
+facetMostTags: [navy, cannellini, adzuki]
+facetHighTags: [navy, cannellini]
+facetMidTags: [navy, cannellini]
+facetLowTags: [edamame, fava]
+facetLeastTags: [green, edamame, fava]
 ---
 
 Infused Black Beans are the Bean Zodiac's most measured — the one who sits through three opinions before offering one, and then says the thing the whole table was circling. They don't speak to fill air; when they do speak it's been thought through, and the room has learned, over time, that the wait pays. There's a steadiness to them that makes other people slow down and get their own thoughts in order.

@@ -38,6 +38,11 @@ rorschachHigh: a tree stump anchoring its spread of roots
 rorschachMid: a loaf of bread with a torn crust
 rorschachLow: a jellyfish trailing its loose stinging threads
 rorschachLeast: a torn cloud unraveling at one ragged edge
+facetMostTags: [navy, butter, black]
+facetHighTags: [navy, butter]
+facetMidTags: [navy, butter]
+facetLowTags: [fava, green]
+facetLeastTags: [fava, green, kidney]
 ---
 
 Aged Edamame are the Bean Zodiac's most foundational — the soaked stock left on the back burner overnight that the next day's whole household is, without knowing it, built on. They draft the scaffolding the brighter names will stand on, stock the cupboard before the week asks anything of them, and slip out of the meeting before the credit gets handed around.

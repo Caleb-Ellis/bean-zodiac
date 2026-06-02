@@ -38,6 +38,11 @@ rorschachHigh: a cat asleep in a square of sun
 rorschachMid: a butterfly with both wings open flat
 rorschachLow: a kettle just starting to rattle
 rorschachLeast: sparks thrown off a turning grindstone
+facetMostTags: [mung, black, pinto]
+facetHighTags: [mung, black]
+facetMidTags: [mung, black]
+facetLowTags: [fava, green]
+facetLeastTags: [fava, green, edamame]
 ---
 
 Crystallised Butter Beans are the Bean Zodiac's most serene. A room with one in it runs a little slower; voices drop; whoever was about to start an argument sets it down and forgets to pick it back up. They answer hard messages by morning instead of within the hour, and the answer is always better for the wait.

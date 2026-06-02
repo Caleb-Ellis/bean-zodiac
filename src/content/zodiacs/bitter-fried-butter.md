@@ -38,6 +38,11 @@ rorschachHigh: a walnut halved evenly down its seam
 rorschachMid: two round stones set apart on sand
 rorschachLow: two cupped hands not quite meeting
 rorschachLeast: a plate dropped and split across the floor
+facetMostTags: [cannellini, navy, black]
+facetHighTags: [cannellini, navy]
+facetMidTags: [cannellini, navy]
+facetLowTags: [fava, green]
+facetLeastTags: [fava, green, edamame]
 ---
 
 Scorched Butter Beans are the Bean Zodiac's most deliberate. They draft the message six times before sending the seventh, and the seventh is the one that lands; the apology gets written out in a notebook before it's ever said aloud. When one of these Beans finally moves, it's because the move is right, and it usually is.

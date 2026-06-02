@@ -38,6 +38,11 @@ rorschachHigh: a map with every old route still inked
 rorschachMid: a spool of thread half unwound
 rorschachLow: a fresh page with nothing on it yet
 rorschachLeast: a roll of film pulled out and fogged
+facetMostTags: [navy, butter, black]
+facetHighTags: [navy, butter]
+facetMidTags: [navy, butter]
+facetLowTags: [fava, green]
+facetLeastTags: [fava, green, edamame]
 ---
 
 Crystallised Pinto Beans are the Bean Zodiac's most storied. The kitchen drawer holds a postcard from 2011, a ticket stub, a dated jar of cinnamon, and they can tell you what each one is doing there. A friend mentions a city in passing and out comes the long sweet tangent about the summer it rained for a week and the café with the broken chair — told the same way every time, pause for pause, and somehow none the worse for it.

@@ -38,6 +38,11 @@ rorschachHigh: an iron saw blade beside a boulder
 rorschachMid: a gear wheel next to a stone
 rorschachLow: a worn pincushion against a soft pillow
 rorschachLeast: a melting sun sinking into a snowdrift
+facetMostTags: [chickpea, mung, black]
+facetHighTags: [chickpea, mung]
+facetMidTags: [chickpea, mung]
+facetLowTags: [adzuki, chickpea]
+facetLeastTags: [adzuki, chickpea, green]
 ---
 
 Desiccated Fava Beans are the Bean Zodiac's most steely — they are the one who finishes the marathon with the broken toe, works the cold through without mentioning it, and treats a setback as a fact to be routed around rather than a reason to sit down. When everyone else is flagging, they are the reason the thing still gets done.

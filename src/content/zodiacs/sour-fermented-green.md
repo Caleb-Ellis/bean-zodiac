@@ -38,6 +38,11 @@ rorschachHigh: a moth with odd sprigs poking past its wings
 rorschachMid: a broad leaf with a ragged frilled edge
 rorschachLow: a plain heart drawn in one stroke
 rorschachLeast: an ordinary spade from a pack of cards
+facetMostTags: [pinto, fava, kidney]
+facetHighTags: [pinto, fava]
+facetMidTags: [pinto, fava]
+facetLowTags: [butter, mung]
+facetLeastTags: [butter, mung, black]
 ---
 
 Pickled Green Beans are the Bean Zodiac's quirkiest — they answer the small-talk question with the wrong ingredient and the conversation opens. Their shelves hold pairings nobody else would shelve together, on purpose: a garlic clove beside a letter, a brine-soaked pebble in the spice rack, a postcard from a place they've never been used as a bookmark in a book they don't intend to finish. The strangeness is not for show. It's the actual taste of the room.

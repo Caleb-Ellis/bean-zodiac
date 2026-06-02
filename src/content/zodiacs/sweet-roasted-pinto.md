@@ -38,6 +38,11 @@ rorschachHigh: a cat hunched mid-pounce, ears flat
 rorschachMid: a broken slab of bark with dangling roots
 rorschachLow: a toad sitting still on a flat stone
 rorschachLeast: a sack of meal slumped quiet in a corner
+facetMostTags: [adzuki, green, kidney]
+facetHighTags: [adzuki, green]
+facetMidTags: [adzuki, green]
+facetLowTags: [butter, mung]
+facetLeastTags: [butter, mung, black]
 ---
 
 Glazed Pinto Beans are the Bean Zodiac's most mischievous — the ones who walk into the gathering they weren't invited to holding something nobody can refuse, and stay until the room is theirs. Their replies arrive at 11pm with one extra word that nobody asked for and the thread tilts. The chipotle waits a beat behind the sweet, then speaks.

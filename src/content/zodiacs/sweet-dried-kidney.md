@@ -38,6 +38,11 @@ rorschachHigh: two hands reaching for the same flower
 rorschachMid: a lantern hung in a doorway
 rorschachLow: a ledger with two columns ruled straight
 rorschachLeast: a sealed envelope left on the counter
+facetMostTags: [adzuki, chickpea, mung]
+facetHighTags: [adzuki, chickpea]
+facetMidTags: [adzuki, chickpea]
+facetLowTags: [cannellini, edamame]
+facetLeastTags: [cannellini, edamame, black]
 ---
 
 Crystallised Kidney Beans are the Bean Zodiac's most adoring. They keep the first ticket stub in a book by the bed. They remember the song from the bad year and the song from the good one. The person they love is the right person, and was the right person before the relationship started, and will be the right person after several pieces of evidence have suggested otherwise.

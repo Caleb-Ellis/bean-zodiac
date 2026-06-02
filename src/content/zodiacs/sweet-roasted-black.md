@@ -38,6 +38,11 @@ rorschachHigh: a boulder gripped down by old roots
 rorschachMid: an anvil squat on its block
 rorschachLow: a snowbank slumping in the thaw
 rorschachLeast: a sandcastle caving under the tide
+facetMostTags: [navy, butter, cannellini]
+facetHighTags: [navy, butter]
+facetMidTags: [navy, butter]
+facetLowTags: [fava, edamame]
+facetLeastTags: [fava, edamame, green]
 ---
 
 Glazed Black Beans are the Bean Zodiac's most resilient — the ones who reopen the draft they mourned and sit with the broken passage until it cracks the right way. They sleep through the ache they earned and wake up usable. They balance the column nobody else wanted to look at.

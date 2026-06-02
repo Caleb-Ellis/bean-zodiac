@@ -38,6 +38,11 @@ rorschachHigh: a crab scuttling sideways with claws flung wide
 rorschachMid: a knotted root dug out of the ground
 rorschachLow: a cat settling slowly into a loaf
 rorschachLeast: an old toad dug deep into the cool mud
+facetMostTags: [chickpea, mung, black]
+facetHighTags: [chickpea, mung]
+facetMidTags: [chickpea, mung]
+facetLowTags: [adzuki, chickpea]
+facetLeastTags: [adzuki, chickpea, pinto]
 ---
 
 Agrodolce Green Beans are the Bean Zodiac's most impulsive — the gap between idea and act, on a good day, is a fraction of a second. The thought "I should call them" coincides with the phone already ringing. The decision to redo the bedroom happens during, not before, the rearrangement. They make plans by accident and keep them by momentum, and roughly half of what's interesting in their life arrived this way.

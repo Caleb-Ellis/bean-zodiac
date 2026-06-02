@@ -38,6 +38,11 @@ rorschachHigh: a clam holding its shell barely parted
 rorschachMid: two boulders with a thin fissure between
 rorschachLow: a locket easing open along its seam
 rorschachLeast: two shell halves fallen wide apart
+facetMostTags: [chickpea, mung, black]
+facetHighTags: [chickpea, mung]
+facetMidTags: [chickpea, mung]
+facetLowTags: [adzuki, chickpea]
+facetLeastTags: [adzuki, chickpea, green]
 ---
 
 Braised Navy Beans are the Bean Zodiac's most guarded — coat taken, name remembered, no second question offered until a season has passed. The intensity is real and not absent; it's lidded, kept at the back of the stove, and the few who are eventually handed a bowl find the broth has been thickening for years.

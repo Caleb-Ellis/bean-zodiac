@@ -38,6 +38,11 @@ rorschachHigh: a coral fanning wide off a single base
 rorschachMid: a shrub with many branches above one trunk
 rorschachLow: a stag's antlers pulled back into a narrow rack
 rorschachLeast: a bare stump with its branches all cut off
+facetMostTags: [mung, black, kidney]
+facetHighTags: [mung, black]
+facetMidTags: [mung, black]
+facetLowTags: [adzuki, green]
+facetLeastTags: [adzuki, green, kidney]
 ---
 
 Rendered Chickpeas are the Bean Zodiac's most tolerant — they've been around long enough to lose interest in deciding who doesn't belong. Six become nine and the salt gets adjusted without comment. The jacket on the chair stays a month, the borrowed book stays a year, and the friend with the difficult opinions stays at the table.

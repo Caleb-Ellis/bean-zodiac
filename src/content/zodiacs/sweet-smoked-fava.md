@@ -38,6 +38,11 @@ rorschachHigh: a gleaming urn with a jewel set in its side
 rorschachMid: an owl perched, one eye catching the light
 rorschachLow: a plain clay jug left out in the yard
 rorschachLeast: a sack of grain slumped in a dark cellar
+facetMostTags: [kidney, cannellini, adzuki]
+facetHighTags: [kidney, cannellini]
+facetMidTags: [kidney, cannellini]
+facetLowTags: [edamame, green]
+facetLeastTags: [edamame, green, pinto]
 ---
 
 Barbecued Fava Beans are the Bean Zodiac's most dazzling — and the room knows it before the door has closed behind them. They make the toast nobody else would have risked, wear the colour everyone else thought about and didn't, ask the question at the dinner that turns the dinner into the kind of dinner people quote for years.

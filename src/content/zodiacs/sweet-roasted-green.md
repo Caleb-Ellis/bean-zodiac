@@ -38,6 +38,11 @@ rorschachHigh: smoke unspooling in two wandering ribbons
 rorschachMid: a tadpole with its tail curling loose
 rorschachLow: a kite settled with its string laid straight
 rorschachLeast: a balloon tied off to a fixed post
+facetMostTags: [chickpea, mung, black]
+facetHighTags: [chickpea, mung]
+facetMidTags: [chickpea, mung]
+facetLowTags: [adzuki, chickpea]
+facetLeastTags: [adzuki, chickpea, pinto]
 ---
 
 Glazed Green Beans are the Bean Zodiac's most capricious — the ones who walk into the kitchen for one dish and walk out having made another, the original recipe still open on the counter. The draft they opened this morning is a different essay by lunch, and they mean every version of it. The group thread proposes Thursday, then Friday, then a different bar entirely, all in warm earnest.

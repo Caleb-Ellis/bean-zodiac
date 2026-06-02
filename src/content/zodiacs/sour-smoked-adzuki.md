@@ -38,6 +38,11 @@ rorschachHigh: a scorched skull with sockets burned through
 rorschachMid: two river stones touching, pocked with holes
 rorschachLow: two loaves cooling side by side
 rorschachLeast: a sleeping cat curled against its own warmth
+facetMostTags: [cannellini, edamame, black]
+facetHighTags: [cannellini, edamame]
+facetMidTags: [cannellini, edamame]
+facetLowTags: [green, fava]
+facetLeastTags: [green, fava, edamame]
 ---
 
 Cured Adzuki Beans are the Bean Zodiac's most acrid — the toast at their table is the one that names what everyone agreed not to. They are the friend who tells you the haircut isn't working before the photos go up, the colleague who replies-all with the sentence the thread had been circling for three days. The relief in the room is real; people seek them out for it.

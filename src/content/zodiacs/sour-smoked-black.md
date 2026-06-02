@@ -38,6 +38,11 @@ rorschachHigh: a wreath drying brown, edges curling in
 rorschachMid: a ragged storm cloud with a small gap
 rorschachLow: a sheep's fleece heaped warm on straw
 rorschachLeast: a hedgerow bursting thick with new leaf
+facetMostTags: [cannellini, edamame, pinto]
+facetHighTags: [cannellini, edamame]
+facetMidTags: [cannellini, edamame]
+facetLowTags: [green, fava]
+facetLeastTags: [green, fava, edamame]
 ---
 
 Cured Black Beans are the Bean Zodiac's most withering — the pause after they speak is doing more work than the sentence did. They are the colleague whose three-word reply ends a thread, the friend whose raised eyebrow files a verdict the room had been edging toward all evening. There is real relief in being read this clearly; people bring them their drafts and bad ideas precisely because nothing survives that doesn't deserve to.

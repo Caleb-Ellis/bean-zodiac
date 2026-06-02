@@ -38,6 +38,11 @@ rorschachHigh: a profile with its mouth thrown open
 rorschachMid: a clay pitcher with a small pouring lip
 rorschachLow: a corked jug sitting full and quiet
 rorschachLeast: a sealed urn with nothing pouring out
+facetMostTags: [pinto, mung, black]
+facetHighTags: [pinto, mung]
+facetMidTags: [pinto, mung]
+facetLowTags: [navy, butter]
+facetLeastTags: [navy, butter, edamame]
 ---
 
 Peri-Peri Kidney Beans are the Bean Zodiac's most emotive — the ones whose front door announces the weather they've brought home with them, whose voice notes are six minutes long and end mid-thought, whose laugh fills the restaurant two tables over. Nothing gets metabolised in private; whatever they feel arrives in the room at full strength, and the room is rarely sorry about it.

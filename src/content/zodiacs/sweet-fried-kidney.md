@@ -38,6 +38,11 @@ rorschachHigh: a hare hunched low, both ears stood up tall
 rorschachMid: a beetle with two long feelers reaching up
 rorschachLow: a moth at rest, antennae loose and drooping
 rorschachLeast: an empty cocoon split open at the top
+facetMostTags: [navy, mung, cannellini]
+facetHighTags: [navy, mung]
+facetMidTags: [navy, mung]
+facetLowTags: [butter, edamame]
+facetLeastTags: [butter, edamame, black]
 ---
 
 Caramelised Kidney Beans are the Bean Zodiac's most protective — the ones whose hand is already on your back when you step into the cold. They cook the double batch, drive the late lift, screen the message before forwarding it on. The care is warm, never hovering; you only notice afterwards how much friction they absorbed on your behalf.

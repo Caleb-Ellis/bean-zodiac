@@ -38,6 +38,11 @@ rorschachHigh: a spinning top tilting off its point
 rorschachMid: a balloon on a string with a tassel
 rorschachLow: a church bell hung from its beam
 rorschachLeast: a chandelier hanging over a still hall
+facetMostTags: [fava, green, kidney]
+facetHighTags: [fava, green]
+facetMidTags: [fava, green]
+facetLowTags: [butter, mung]
+facetLeastTags: [butter, mung, black]
 ---
 
 Scorched Pinto Beans are the Bean Zodiac's most irreverent. They answer the long earnest message with one shelled line that cracks the whole thread open, name the thing nobody was naming and watch the hour-long meeting buckle to twenty minutes. Pointed at a piece of pretension dressed up as structure, the puncture is a public service, and the room is usually grateful.

@@ -38,6 +38,11 @@ rorschachHigh: a bowed head turned away toward a thornbush
 rorschachMid: a smooth stone beside a spiny chestnut burr
 rorschachLow: a sea urchin flaring its spines outward
 rorschachLeast: a firework throwing sparks across the whole sky
+facetMostTags: [butter, mung, pinto]
+facetHighTags: [butter, mung]
+facetMidTags: [butter, mung]
+facetLowTags: [fava, edamame]
+facetLeastTags: [fava, green, edamame]
 ---
 
 Miso Black Beans are the Bean Zodiac's most introspective — most of the real conversation is happening somewhere the other person can't see. They walk back from a party already three days into thinking about a single thing someone said in the kitchen, and when a friend asks what's wrong the next week, the honest answer would take an hour they don't feel like asking for.

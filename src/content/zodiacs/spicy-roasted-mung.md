@@ -38,6 +38,11 @@ rorschachHigh: two deer nuzzling head to head
 rorschachMid: a chandelier hung above a wide basin
 rorschachLow: two boats easing apart at the dock
 rorschachLeast: an antler shed and lying on its own
+facetMostTags: [chickpea, black, adzuki]
+facetHighTags: [chickpea, black]
+facetMidTags: [chickpea, black]
+facetLowTags: [adzuki, chickpea]
+facetLeastTags: [adzuki, chickpea, green]
 ---
 
 Peri-Peri Mung Beans are the Bean Zodiac's most clingy — the ones who remember the anniversary of the small things, who send the unprompted photo of the cafe you went to once, who sit on the same end of the sofa every night because the orbit is the point. Their love is specific and durable and arrives in small, regular deposits whether you asked for them or not.

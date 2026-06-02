@@ -38,6 +38,11 @@ rorschachHigh: a closed fan resting above a stone
 rorschachMid: a moth settled above a round pebble
 rorschachLow: a gull spreading wide over a buoy
 rorschachLeast: a peacock fanned open above its perch
+facetMostTags: [butter, mung, black]
+facetHighTags: [butter, mung]
+facetMidTags: [butter, mung]
+facetLowTags: [fava, green]
+facetLeastTags: [fava, green, kidney]
 ---
 
 Charcoal Edamame are the Bean Zodiac's most reticent. They reach the conclusion before the meeting has finished framing the question, then sit with it, hearing everyone out, offering the one sentence they came in with only when it's plainly time. When they do speak, it's shorter than expected and exactly right.

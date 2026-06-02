@@ -38,6 +38,11 @@ rorschachHigh: a horseshoe crab tracking from broad head to tail
 rorschachMid: a low hill seen from across the valley
 rorschachLow: a wave flattening out with no clear edge
 rorschachLeast: an oil slick spreading wherever the tide takes it
+facetMostTags: [navy, black, adzuki]
+facetHighTags: [navy, black]
+facetMidTags: [navy, black]
+facetLowTags: [adzuki, butter]
+facetLeastTags: [adzuki, butter, mung]
 ---
 
 Brined Edamame are the Bean Zodiac's most logical — they follow an argument to where it actually goes, and the answer, once they get there, is usually shorter than the question. They have a useful refusal to pad: when everyone else is still hedging, the Brined Edamame has already removed the two clauses that weren't doing any work and named the thing in one sentence.

@@ -38,6 +38,11 @@ rorschachHigh: a chestnut burr, plainly nothing but itself
 rorschachMid: a sea urchin set on white paper
 rorschachLow: a spiked blot you could call most anything
 rorschachLeast: a cloud everyone in the room names differently
+facetMostTags: [chickpea, mung, black]
+facetHighTags: [chickpea, mung]
+facetMidTags: [chickpea, mung]
+facetLowTags: [adzuki, chickpea]
+facetLeastTags: [adzuki, chickpea, green]
 ---
 
 Brined Navy Beans are the Bean Zodiac's most literal-minded. A sentence, to them, is its words; an instruction means what it says; "I'll be ten minutes" is a contract about ten minutes. There is a real relief in dealing with one of them — the small game of decoding what someone actually meant is over before it starts, and the answer you get back is the answer to the question you asked, not the one they thought you should have asked.

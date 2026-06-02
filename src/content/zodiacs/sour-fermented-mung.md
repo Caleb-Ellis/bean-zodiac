@@ -38,6 +38,11 @@ rorschachHigh: a small bird shrinking next to a bull
 rorschachMid: a ragged pinecone beside a smooth larger one
 rorschachLow: a sturdy oak with a sapling rooted near it
 rorschachLeast: two oaks settled, neither one swaying
+facetMostTags: [pinto, black, kidney]
+facetHighTags: [pinto, black]
+facetMidTags: [pinto, black]
+facetLowTags: [navy, butter]
+facetLeastTags: [navy, butter, edamame]
 ---
 
 Pickled Mung Beans are the Bean Zodiac's most insecure — and the inventory is detailed. They can name, without notes, the exact word in the sent message that probably gave offence, which friend has been replying a beat more slowly than last month, the small face-shift at lunch that meant they had miscalculated, and the apology they will need to send if the face-shift was what they think it was. The reading is rarely sloppy; it's often, painfully, accurate.

@@ -38,6 +38,11 @@ rorschachHigh: a kite let go in the wind
 rorschachMid: a cloud spreading wide over a hill
 rorschachLow: a manta ray holding against the current
 rorschachLeast: an anchor dug deep and holding in the silt
+facetMostTags: [chickpea, mung, black]
+facetHighTags: [chickpea, mung]
+facetMidTags: [chickpea, mung]
+facetLowTags: [chickpea, adzuki]
+facetLeastTags: [chickpea, adzuki, green]
 ---
 
 Charcoal Butter Beans are the Bean Zodiac's most adrift, and the calmest company you'll ever lose the thread of. Sitting with one feels like sitting near water; the temperature in the room drops a degree just from their being there. They notice the light, the long view, the thing nobody else has slowed down enough to see.

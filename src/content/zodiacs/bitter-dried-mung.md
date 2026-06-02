@@ -38,6 +38,11 @@ rorschachHigh: a frog spread flat on a board
 rorschachMid: a crab sprawled wide on sand
 rorschachLow: a cat stretched out for a belly rub
 rorschachLeast: a bearskin rug warm by the hearth
+facetMostTags: [edamame, black, navy]
+facetHighTags: [edamame, black]
+facetMidTags: [navy, edamame]
+facetLowTags: [adzuki, butter]
+facetLeastTags: [adzuki, butter, pinto]
 ---
 
 Desiccated Mung Beans are the Bean Zodiac's most clinical — they're the friend you call mid-crisis, because they don't flinch, don't catastrophise, and have you triaged into a clear plan before you've finished crying. They see exactly what's wrong and exactly what will fix it, and they administer that and nothing extra. People walk away from them genuinely steadier.

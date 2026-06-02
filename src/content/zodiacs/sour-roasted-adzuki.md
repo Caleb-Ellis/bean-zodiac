@@ -38,6 +38,11 @@ rorschachHigh: a cat sitting square, ears up, watching back
 rorschachMid: a russet potato with two knobby sprouts
 rorschachLow: a hedgehog curling its face away from you
 rorschachLeast: a hibernating mole rolled tight into its burrow
+facetMostTags: [kidney, fava, edamame]
+facetHighTags: [kidney, fava]
+facetMidTags: [kidney, fava]
+facetLowTags: [butter, black]
+facetLeastTags: [butter, black, edamame]
 ---
 
 Chimichurri Adzuki Beans are the Bean Zodiac's most transparent — what you see at the door is what comes through it. The thank-you note isn't softened, the toast isn't dressed up, the bad news arrives in the same voice as the good. People around them stop bracing for subtext, because there isn't any; the celebration, when it comes, is the whole celebration.

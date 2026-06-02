@@ -38,6 +38,11 @@ rorschachHigh: a walnut cracked cleanly into two halves
 rorschachMid: a butterfly with two heavy lower wings
 rorschachLow: a storm cloud bunched above a dark hill
 rorschachLeast: a wig and a mustache
+facetMostTags: [navy, edamame, kidney]
+facetHighTags: [navy, edamame]
+facetMidTags: [navy, edamame]
+facetLowTags: [adzuki, butter]
+facetLeastTags: [adzuki, butter, mung]
 ---
 
 Scorched Black Beans are the Bean Zodiac's most forensic. A friend can circle a problem for twenty minutes and one of these Beans will, in a single sentence, name the thing being circled — the question avoided, the clause that actually binds, the disagreement the meeting has been politely billing hours against. They see the shape of a thing while everyone else is still describing the surface.

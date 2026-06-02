@@ -38,6 +38,11 @@ rorschachHigh: a heavy sack settled flat on the floor
 rorschachMid: a mossy boulder resting in a field
 rorschachLow: a dog half-rising, ears beginning to lift
 rorschachLeast: a startled cat springing up, fur bristling
+facetMostTags: [adzuki, butter, kidney]
+facetHighTags: [adzuki, butter]
+facetMidTags: [adzuki, butter]
+facetLowTags: [fava, edamame]
+facetLeastTags: [fava, edamame, green]
 ---
 
 Miso Pinto Beans are the Bean Zodiac's most apathetic — and it isn't that nothing is happening underneath, it's that everything got steeped so long and so dark that another pull on the sleeve barely registers. Friends who used to get a fast warm reply now get one next Thursday, lightly; the album that used to wreck them plays through and they think about emptying the dishwasher.

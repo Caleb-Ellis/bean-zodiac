@@ -38,6 +38,11 @@ rorschachHigh: a crab fitting a new claw on
 rorschachMid: a curled shrimp with one trailing leg
 rorschachLow: a cat dozing curled into a comma
 rorschachLeast: a smooth hook hung on the wall
+facetMostTags: [pinto, fava, green]
+facetHighTags: [pinto, fava]
+facetMidTags: [pinto, green]
+facetLowTags: [butter, mung]
+facetLeastTags: [butter, mung, black]
 ---
 
 Kimchi Edamame are the Bean Zodiac's most inventive — the friend whose workshop has four half-finished things on the bench and a fifth quietly becoming itself in a jar at the back. They don't pick a lane, exactly; they let several ferment in parallel and lift the lid on whichever one is ready, often producing the thing the room needed before the room knew to ask.

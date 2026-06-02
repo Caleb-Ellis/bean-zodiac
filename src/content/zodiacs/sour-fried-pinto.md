@@ -38,6 +38,11 @@ rorschachHigh: two players with one game piece set in play
 rorschachMid: two islands with a small buoy floating between
 rorschachLow: two cushions and a button dropped by chance between
 rorschachLeast: two open hands and a marble fallen between them
+facetMostTags: [chickpea, mung, black]
+facetHighTags: [chickpea, mung]
+facetMidTags: [chickpea, mung]
+facetLowTags: [adzuki, chickpea]
+facetLeastTags: [adzuki, chickpea, green]
 ---
 
 Agrodolce Pinto Beans are the Bean Zodiac's most manipulative — though they wouldn't call it that, and most of the time it isn't ill-meant. They simply notice which sentence opens which door, which order to put the asks in, which favour to offer a week before the request that depends on it. The room gets steered, gently, into the configuration they already had in mind, and usually everyone in it ends up reasonably pleased.

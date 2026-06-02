@@ -38,6 +38,11 @@ rorschachHigh: an iron anchor flukes dug into the seabed
 rorschachMid: a chestnut in its spiky split husk
 rorschachLow: a sandcastle slumping as the tide creeps in
 rorschachLeast: a snowflake half-melted on a warm palm
+facetMostTags: [butter, black, pinto]
+facetHighTags: [butter, black]
+facetMidTags: [butter, black]
+facetLowTags: [fava, edamame]
+facetLeastTags: [fava, edamame, green]
 ---
 
 Aged Navy Beans are the Bean Zodiac's most enduring — same chair, same notebook, same Thursday standing reservation that has now outlasted three of the people on the original list. The work thickens behind them by years rather than weeks, and there is a real beauty in the slow darkening of something nobody else stayed with long enough to see.

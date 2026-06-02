@@ -38,6 +38,11 @@ rorschachHigh: a sealed flask bulging at a pinched waist
 rorschachMid: two boulders stacked on a thin join
 rorschachLow: two clouds drifting loose and far apart
 rorschachLeast: two lily pads resting on still water
+facetMostTags: [navy, edamame, black]
+facetHighTags: [navy, edamame]
+facetMidTags: [navy, edamame]
+facetLowTags: [adzuki, butter]
+facetLeastTags: [adzuki, butter, mung]
 ---
 
 Hickory Kidney Beans are the Bean Zodiac's most seething — the room can feel them across the table without them having said anything. They go quieter when something is wrong, not louder. The reply to the slight arrives two weeks late and is exactly four words long, and the recipient reads it three times.

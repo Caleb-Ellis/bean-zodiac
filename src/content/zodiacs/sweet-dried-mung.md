@@ -38,6 +38,11 @@ rorschachHigh: a small bird held loose in a hand
 rorschachMid: a flower pressed flat in paper
 rorschachLow: a row of books squared on a shelf
 rorschachLeast: a thorn snapped clean off the stem
+facetMostTags: [cannellini, butter, pinto]
+facetHighTags: [cannellini, butter]
+facetMidTags: [cannellini, butter]
+facetLowTags: [fava, green]
+facetLeastTags: [fava, green, edamame]
 ---
 
 Crystallised Mung Beans are the Bean Zodiac's most tender. When a friend's voice catches mid-sentence, they don't rush in with reassurance — they sit inside the quiet until the next word arrives. The card they choose is the one shaped to the person, not the occasion; the gift is the small specific thing nobody else remembered was mentioned.

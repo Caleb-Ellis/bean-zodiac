@@ -38,6 +38,11 @@ rorschachHigh: a blanket folded over something kept private
 rorschachMid: a potato turned up from the dirt
 rorschachLow: a struck bell still ringing out
 rorschachLeast: a radio with its grille blaring open
+facetMostTags: [butter, mung, black]
+facetHighTags: [butter, mung]
+facetMidTags: [butter, mung]
+facetLowTags: [fava, edamame]
+facetLeastTags: [fava, green, edamame]
 ---
 
 Hickory Chickpeas are the Bean Zodiac's most wordless — they leave the heaviest moment in a conversation un-translated, on purpose. A friend cries at the table and they push the water glass an inch closer; a coworker gets the bad news and they take the meeting off their calendar without being asked. The understanding gets across, somehow, without anyone needing to put it down on paper.

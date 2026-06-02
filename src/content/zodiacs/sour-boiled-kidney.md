@@ -38,6 +38,11 @@ rorschachHigh: a toad squatting solid on its haunches
 rorschachMid: a round melon set on the board
 rorschachLow: an egg perched on the slope, ready to roll
 rorschachLeast: a teetering stack of plates a breath from toppling
+facetMostTags: [navy, mung, adzuki]
+facetHighTags: [navy, mung]
+facetMidTags: [navy, mung]
+facetLowTags: [butter, black]
+facetLeastTags: [butter, black, edamame]
 ---
 
 Brined Kidney Beans are the Bean Zodiac's most trustworthy. When they say a thing will be done by Thursday, the thing is done by Thursday; when they say they'll be there at seven, the door opens at seven with whatever they said they would bring already in hand. They don't make a virtue of it — it would not occur to them to. The reliability is just how the week is shaped.

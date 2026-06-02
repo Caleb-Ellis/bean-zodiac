@@ -38,6 +38,11 @@ rorschachHigh: a statue standing high on a narrow plinth
 rorschachMid: an oak with a split upper crown
 rorschachLow: a melting candle sagging at the waist
 rorschachLeast: a sack slumping over its own middle
+facetMostTags: [adzuki, chickpea, green]
+facetHighTags: [adzuki, chickpea]
+facetMidTags: [adzuki, chickpea]
+facetLowTags: [butter, mung]
+facetLeastTags: [butter, mung, black]
 ---
 
 Hickory Cannellini Beans are the Bean Zodiac's most exalted — they leave a half-hour gap before answering the invite, not from indifference but because the yes, if it comes, should mean something. The apartment is two-thirds empty by design; the wardrobe holds six things worn often. When they do show up to dinner, the table sits straighter.

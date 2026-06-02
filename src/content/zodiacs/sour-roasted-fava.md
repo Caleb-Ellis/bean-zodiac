@@ -38,6 +38,11 @@ rorschachHigh: a shrub grown wild, branches left untrimmed
 rorschachMid: a head of broccoli stood on its stalk
 rorschachLow: a topiary clipped into a tidy ball
 rorschachLeast: a plastic tree screwed onto a wooden stand
+facetMostTags: [chickpea, mung, black]
+facetHighTags: [chickpea, mung]
+facetMidTags: [chickpea, mung]
+facetLowTags: [adzuki, chickpea]
+facetLeastTags: [adzuki, chickpea, green]
 ---
 
 Chimichurri Fava Beans are the Bean Zodiac's most authentic — they answer the question in the words they have, and decline the smoother version when it gets handed back across the table. When the group settles on a polite consensus, the small contrary thing gets said, and the room rearranges itself around it without anyone quite knowing why.

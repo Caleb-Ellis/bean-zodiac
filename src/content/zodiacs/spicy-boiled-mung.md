@@ -38,6 +38,11 @@ rorschachHigh: an owl drawn in tight on a branch
 rorschachMid: a bushy tree narrowing to a slim trunk
 rorschachLow: a cat loafed easy over its folded paws
 rorschachLeast: two soft clouds drifting apart at the waist
+facetMostTags: [pinto, black, adzuki]
+facetHighTags: [pinto, black]
+facetMidTags: [pinto, black]
+facetLowTags: [navy, butter]
+facetLeastTags: [navy, butter, edamame]
 ---
 
 Braised Mung Beans are the Bean Zodiac's most worrisome — the ones who refresh the forecast at midnight, draft the difficult message a week before they'll send it, and lie in the dark mentally salting tomorrow's pots. The care is real; the people around them benefit from the noticing they cannot turn off, and a household with one in it rarely runs out of anything important.

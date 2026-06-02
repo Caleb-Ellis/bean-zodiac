@@ -38,6 +38,11 @@ rorschachHigh: an owl on a post, eyes catching the light
 rorschachMid: a broad-shouldered figure seated on a mound
 rorschachLow: a hooded watcher hunched over a cold hearth
 rorschachLeast: a draped statue, dead leaves heaped at its base
+facetMostTags: [kidney, cannellini, pinto]
+facetHighTags: [kidney, cannellini]
+facetMidTags: [kidney, cannellini]
+facetLowTags: [fava, edamame]
+facetLeastTags: [fava, edamame, green]
 ---
 
 Barbecued Adzuki Beans are the Bean Zodiac's most luminous — the kind of warmth a room registers before anyone has named it. They arrive at the dinner without a story to tell and somehow tell three; strangers leave with the impression of having been seen, and can't quite remember what they said.

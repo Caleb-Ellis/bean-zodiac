@@ -38,6 +38,11 @@ rorschachHigh: a dancer's raised hand trailing a long sleeve
 rorschachMid: a smooth stone beside a spray of fern
 rorschachLow: a fist gripping a tangle of frayed rope
 rorschachLeast: a bramble snagged against a lumpy boulder
+facetMostTags: [cannellini, navy, pinto]
+facetHighTags: [cannellini, navy]
+facetMidTags: [cannellini, navy]
+facetLowTags: [fava, green]
+facetLeastTags: [fava, green, edamame]
 ---
 
 Wood-Fired Black Beans are the Bean Zodiac's most elegant — depth that needs no announcement. They finish the work in silence and post only the finished bowl, once, and only when it's ready; their rooms hold one good chair and a lamp and a lot of breathing floor. At a crowded table they say little, and the room leans in anyway.

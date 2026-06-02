@@ -38,6 +38,11 @@ rorschachHigh: two sparrows leaning in, beaks almost touching
 rorschachMid: a walnut cracked open into two halves
 rorschachLow: two pears set evenly in a bowl
 rorschachLeast: two bookends squared up across a shelf
+facetMostTags: [chickpea, black, cannellini]
+facetHighTags: [chickpea, black]
+facetMidTags: [chickpea, black]
+facetLowTags: [adzuki, chickpea]
+facetLeastTags: [adzuki, chickpea, green]
 ---
 
 Caramelised Mung Beans are the Bean Zodiac's most impractical — the friend who hears bad news at 9pm and is at your door by 10 with the wrong kind of soup and a candle and a bag of clementines. The care lands even when the contents miss; what you remember a week later is the doorbell, not the menu. Around them, "I didn't think you'd actually come over" is a thing people say a lot, warmly.

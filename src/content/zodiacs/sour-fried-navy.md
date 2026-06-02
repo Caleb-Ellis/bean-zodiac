@@ -38,6 +38,11 @@ rorschachHigh: a rain cloud trailing streaks down on a ridge
 rorschachMid: a small island and a larger one offshore
 rorschachLow: a soft cloud drifting over an open meadow
 rorschachLeast: a puff of fair-weather cloud above a sunlit field
+facetMostTags: [black, edamame, pinto]
+facetHighTags: [black, edamame]
+facetMidTags: [black, edamame]
+facetLowTags: [adzuki, butter]
+facetLeastTags: [adzuki, butter, mung]
 ---
 
 Agrodolce Navy Beans are the Bean Zodiac's most grumpy — the standard is the standard, the world keeps missing it, and they keep keeping count. The discontent is honest; the world really has been imprecise this week. What looks like sourness from the outside is, from inside, a refusal to round up — to say "fine" about a thing that wasn't, to let a small wrong dissolve unmentioned because mentioning would be inconvenient.

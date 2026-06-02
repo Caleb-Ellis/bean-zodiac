@@ -38,6 +38,11 @@ rorschachHigh: a bulb sending green shoots up toward light
 rorschachMid: a candle flame wavering over a stub
 rorschachLow: a guttered wick sunk into spent wax
 rorschachLeast: a snuffed stump trailing one curl of smoke
+facetMostTags: [chickpea, mung, black]
+facetHighTags: [chickpea, mung]
+facetMidTags: [chickpea, mung]
+facetLowTags: [adzuki, chickpea]
+facetLeastTags: [adzuki, chickpea, green]
 ---
 
 Miso Cannellini Beans are the Bean Zodiac's most idealistic — the version of the evening in their head is so finished, so specifically lit, that the actual evening keeps coming up short by comparison. They redraft the message six times because the fifth was almost right and almost right is, to them, wrong; they keep the good jumper in tissue paper for an occasion that has not yet been quite worthy.

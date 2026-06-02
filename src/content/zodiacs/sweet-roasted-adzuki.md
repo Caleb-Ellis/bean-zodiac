@@ -38,6 +38,11 @@ rorschachHigh: a wave cresting white into morning sun
 rorschachMid: a round loaf split open along its crusty top
 rorschachLow: a dog curled asleep with its back turned
 rorschachLeast: a covered shape lying still under a sheet
+facetMostTags: [chickpea, green, kidney]
+facetHighTags: [chickpea, green]
+facetMidTags: [chickpea, green]
+facetLowTags: [butter, mung]
+facetLeastTags: [butter, mung, black]
 ---
 
 Glazed Adzuki Beans are the Bean Zodiac's happiest — the ones who hand the broken piece of brittle to a stranger and walk on before the thank-you arrives. They text the embarrassing photo to the group chat. They bake the cake on a Tuesday and the reason for the cake shows up around eight.

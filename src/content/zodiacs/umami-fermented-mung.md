@@ -38,6 +38,11 @@ rorschachHigh: a swallow caught mid-glide over water
 rorschachMid: a butterfly pressed flat between two pages
 rorschachLow: a bath towel pinned across a line
 rorschachLeast: a torn tarp snagged flat on a fence
+facetMostTags: [adzuki, pinto, green]
+facetHighTags: [adzuki, pinto]
+facetMidTags: [adzuki, pinto]
+facetLowTags: [butter, black]
+facetLeastTags: [butter, black, kidney]
 ---
 
 Miso Mung Beans are the Bean Zodiac's most poetic — even the apology for being late is a small composition by the time it goes out, weighed for cadence, one word swapped for a warmer one. The condolence card they write is the one their friends keep in a drawer for years; the toast at the dinner is the line everyone repeats afterwards in the cab.

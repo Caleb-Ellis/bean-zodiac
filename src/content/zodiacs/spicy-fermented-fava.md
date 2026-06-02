@@ -38,6 +38,11 @@ rorschachHigh: a tunnel hollowed inside the hill
 rorschachMid: a craggy island with one offshore rock
 rorschachLow: a cloaked figure standing in the open
 rorschachLeast: a banner hung straight down the wall
+facetMostTags: [pinto, green, kidney]
+facetHighTags: [pinto, green]
+facetMidTags: [pinto, green]
+facetLowTags: [butter, mung]
+facetLeastTags: [butter, mung, black]
 ---
 
 Kimchi Fava Beans are the Bean Zodiac's most subversive — the colleague whose one-line reply in a long thread turns out, days later, to have been the sentence the whole decision pivoted on. They don't argue in public; they work the back of the kitchen while the front is still debating the menu, and by Sunday the menu is theirs.

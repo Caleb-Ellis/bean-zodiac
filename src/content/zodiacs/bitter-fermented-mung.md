@@ -38,6 +38,11 @@ rorschachHigh: a stag's antlers branching over a low body
 rorschachMid: a bare tree, its crown above the mound of roots
 rorschachLow: a feather duster propped over a tidy box
 rorschachLeast: a candelabra set squarely on a heavy base
+facetMostTags: [pinto, cannellini, black]
+facetHighTags: [pinto, cannellini]
+facetMidTags: [pinto, cannellini]
+facetLowTags: [fava, green]
+facetLeastTags: [fava, green, edamame]
 ---
 
 Cultured Mung Beans are the Bean Zodiac's most intuitive — they'll name the trouble in a conversation a beat before anyone else finds the word for it, and walk into a room knowing which corner of it is wrong before a soul has spoken. They trust the read they can't yet defend, and the reasoning files in later, around nine, to confirm what they already acted on. It's not magic. It's just faster than they can show their work.

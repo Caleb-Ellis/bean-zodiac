@@ -38,6 +38,11 @@ rorschachHigh: a startled cat twisting away mid-leap
 rorschachMid: a scarecrow leaning crooked off its post
 rorschachLow: a coat hung neatly on a still rack
 rorschachLeast: a figure standing squarely at attention
+facetMostTags: [chickpea, mung, black]
+facetHighTags: [chickpea, mung]
+facetMidTags: [chickpea, mung]
+facetLowTags: [adzuki, chickpea]
+facetLeastTags: [adzuki, chickpea, green]
 ---
 
 Peri-Peri Pinto Beans are the Bean Zodiac's most unpredictable — the ones who turn up to the same bar with a different haircut, a new job, and a story about a weekend nobody saw coming. Plans they made warmly on Tuesday are not the plans they're proposing on Friday, and the proposal is usually better. Friends keep them because the surprise is reliably worth the recalibration.

@@ -38,6 +38,11 @@ rorschachHigh: a sack knotted tight at the neck
 rorschachMid: a potato with one sprouting eye
 rorschachLow: a clear island shape on a chart
 rorschachLeast: a town plan laid out plain
+facetMostTags: [cannellini, black, adzuki]
+facetHighTags: [cannellini, black]
+facetMidTags: [cannellini, black]
+facetLowTags: [green, edamame]
+facetLeastTags: [green, fava, edamame]
 ---
 
 Desiccated Pinto Beans are the Bean Zodiac's most cryptic — they answer the direct question with a story that circles it, keep their notes in a shorthand only they can read, and would rather you arrive at the meaning yourself than be handed it. Spend enough time and the speckles resolve into something, and the people who put in that time tend to stay, because being trusted with the real version feels earned.

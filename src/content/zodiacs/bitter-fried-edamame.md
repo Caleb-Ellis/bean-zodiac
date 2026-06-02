@@ -38,6 +38,11 @@ rorschachHigh: a bell hung still after one strike
 rorschachMid: a fire burning only its fuel
 rorschachLow: a spinning top wobbling before it falls
 rorschachLeast: a figure swaying, unsure which way to step
+facetMostTags: [chickpea, mung, black]
+facetHighTags: [chickpea, mung]
+facetMidTags: [chickpea, mung]
+facetLowTags: [chickpea, adzuki]
+facetLeastTags: [chickpea, adzuki, green]
 ---
 
 Scorched Edamame are the Bean Zodiac's most decisive. They name the rent, the route, the no in a single sentence and let the room adjust around it; the inbox empties because each message meets its verdict on opening. The deciding usually happened days ago — quietly, thoroughly — and what others see is only the clean cut at the end.

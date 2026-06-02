@@ -38,6 +38,11 @@ rorschachHigh: a cairn of two stones balanced for the road
 rorschachMid: an hourglass narrow at its waist
 rorschachLow: a snowman half-collapsed, the middle giving way
 rorschachLeast: two scoops of ash about to spill apart
+facetMostTags: [green, edamame, black]
+facetHighTags: [green, edamame]
+facetMidTags: [green, edamame]
+facetLowTags: [adzuki, mung]
+facetLeastTags: [adzuki, mung, butter]
 ---
 
 Cultured Cannellini Beans are the Bean Zodiac's most scholarly — the ones who answer a simple question by first establishing what's actually known about it. They'll follow a footnote into its footnote and come back up holding something nobody asked for and everybody's glad to have. When they finally render a verdict it's been checked, sourced, and sat with; they don't guess, and it shows.

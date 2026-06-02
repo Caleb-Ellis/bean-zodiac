@@ -38,6 +38,11 @@ rorschachHigh: a child carried high on a parent's shoulders
 rorschachMid: an hourglass pinched at the narrow waist
 rorschachLow: a tree split at the trunk, two crowns parting
 rorschachLeast: a snapped pillar, the top block slid off
+facetMostTags: [navy, kidney, mung]
+facetHighTags: [navy, kidney]
+facetMidTags: [navy, kidney]
+facetLowTags: [butter, edamame]
+facetLeastTags: [butter, edamame, black]
 ---
 
 Crystallised Adzuki Beans are the Bean Zodiac's most devoted — and the last to notice when the door they've been holding open has had no one walking through it for years. They keep the standing reservation. They send the birthday card to the address from two moves ago. They water the houseplant of a friend who's been abroad since autumn, and rotate it for the light.

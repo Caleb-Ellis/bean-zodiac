@@ -38,6 +38,11 @@ rorschachHigh: a tree crown grown too heavy for its trunk
 rorschachMid: a head of cauliflower on a board
 rorschachLow: a single scoop of rice in a bowl
 rorschachLeast: an empty bowl rinsed and set down
+facetMostTags: [kidney, navy, black]
+facetHighTags: [kidney, navy]
+facetMidTags: [kidney, navy]
+facetLowTags: [butter, edamame]
+facetLeastTags: [butter, edamame, black]
 ---
 
 Tempura Green Beans are the Bean Zodiac's most overachieving — the ones who bring the side dish, the starter, and a backup loaf, and who quietly notice that the host's wineglasses don't match and resolve to do something about that next time. The draft they send has footnotes. The presentation has an appendix. Whatever was asked for has already been done and a second, better version is finishing in the oven.

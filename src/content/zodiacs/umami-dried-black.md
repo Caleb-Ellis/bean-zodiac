@@ -38,6 +38,11 @@ rorschachHigh: a cross-section of two lungs and the branching airways
 rorschachMid: two heads of cauliflower pressed together
 rorschachLow: two sponges sopping up a spreading spill
 rorschachLeast: a smudge of ink wiped flat across the page
+facetMostTags: [chickpea, mung, pinto]
+facetHighTags: [chickpea, mung]
+facetMidTags: [chickpea, mung]
+facetLowTags: [adzuki, chickpea]
+facetLeastTags: [adzuki, chickpea, green]
 ---
 
 Aged Black Beans are the Bean Zodiac's most profound — and the most patient with a half-finished thought. At dinner they let three subjects pass before speaking, and when they do, the table goes quiet for a second because the sentence has gone further down than the question that prompted it. People remember those sentences for years and credit them with conversations they were nowhere near.

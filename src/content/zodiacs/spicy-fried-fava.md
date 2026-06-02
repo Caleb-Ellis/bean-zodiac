@@ -38,6 +38,11 @@ rorschachHigh: a bat's wings spread off a high ledge
 rorschachMid: a hill rising to a single small peak
 rorschachLow: a tent pitched low and pegged to the ground
 rorschachLeast: a hen settled wide over the nest
+facetMostTags: [kidney, green, adzuki]
+facetHighTags: [kidney, green]
+facetMidTags: [kidney, green]
+facetLowTags: [butter, mung]
+facetLeastTags: [butter, mung, black]
 ---
 
 Red-Hot Fava Beans are the Bean Zodiac's most risk-taking — they sign the lease before the kettle has clicked off, book the flight on the phone in the airport, and start dinner for six trusting the chili and the cumin to cover whatever isn't in the fridge. The math gets done later, usually in the cab on the way to the thing they've already committed to.

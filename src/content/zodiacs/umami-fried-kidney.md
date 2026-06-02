@@ -38,6 +38,11 @@ rorschachHigh: a shield polished clean to its rim
 rorschachMid: a fat beetle resting on a leaf
 rorschachLow: a sponge left dripping at its edge
 rorschachLeast: an ink stain spreading, droplets flecking the floor
+facetMostTags: [cannellini, navy, black]
+facetHighTags: [cannellini, navy]
+facetMidTags: [cannellini, navy]
+facetLowTags: [fava, edamame]
+facetLeastTags: [fava, edamame, green]
 ---
 
 Tempura Kidney Beans are the Bean Zodiac's most scrupulous — the ones who set a fork down when a story turns mean, who return the book with a note about the page that was dog-eared, who answer the group thread's polite avoidance with the sentence everyone has been ducking. They keep their own ledger close. The receipts are paid the same week, exact, and the apology, when owed, arrives whole.

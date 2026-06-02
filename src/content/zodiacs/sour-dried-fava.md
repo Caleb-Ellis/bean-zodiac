@@ -38,6 +38,11 @@ rorschachHigh: a craggy rock with a spur on top
 rorschachMid: a storm cloud trailing a thin wisp
 rorschachLow: a sleeping cat with one whisker up
 rorschachLeast: a melting scoop of ice cream slumping
+facetMostTags: [cannellini, edamame, black]
+facetHighTags: [cannellini, edamame]
+facetMidTags: [cannellini, edamame]
+facetLowTags: [green, edamame]
+facetLeastTags: [green, edamame, kidney]
 ---
 
 Dehydrated Fava Beans are the Bean Zodiac's most acerbic. They are the friend whose opinion you ask precisely because you know it won't be wrapped — the verdict comes in one sentence, accurate, and the half-thought-out plan dies on the table where it should have. People trust them with the manuscript, the haircut, the resignation letter, because they will not bother to flatter and they will not bother to lie.

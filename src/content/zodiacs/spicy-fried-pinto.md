@@ -38,6 +38,11 @@ rorschachHigh: an antlered elk with branches flaring wild
 rorschachMid: a candle guttering, wax slumping down its sides
 rorschachLow: a cypress tapering to one steady point
 rorschachLeast: a single flame standing straight and still
+facetMostTags: [chickpea, mung, black]
+facetHighTags: [chickpea, mung]
+facetMidTags: [chickpea, mung]
+facetLowTags: [adzuki, chickpea]
+facetLeastTags: [adzuki, chickpea, green]
 ---
 
 Red-Hot Pinto Beans are the Bean Zodiac's most chaotic — six tortillas open on the counter, six fillings half-made, and a fluency in all of them that nobody else in the room could keep up with. The wake is a trail of half-folded things, but the energy inside it is real, and the one idea that does survive to evening tends to be better than anyone could have planned.

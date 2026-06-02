@@ -38,6 +38,11 @@ rorschachHigh: two birds leaning in to touch beaks
 rorschachMid: two clouds stacked above a low ridge
 rorschachLow: a bull lowering its head, horns out
 rorschachLeast: two stags backed apart, antlers raised
+facetMostTags: [adzuki, green, pinto]
+facetHighTags: [adzuki, green]
+facetMidTags: [adzuki, green]
+facetLowTags: [butter, mung]
+facetLeastTags: [butter, mung, black]
 ---
 
 Candied Chickpeas are the Bean Zodiac's most agreeable — the easy yes at the end of the long thread, the one who eats whatever's on the menu and means it, the friend who can be slotted into any plan at any hour and arrives glad. The warmth is real: they like the people, they like the going, they like that the night is happening at all.

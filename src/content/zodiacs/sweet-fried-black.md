@@ -38,6 +38,11 @@ rorschachHigh: a beetle shouldering forward through dense brush
 rorschachMid: a cabbage rose opened wide in bloom
 rorschachLow: a clump of moss spreading slow on stone
 rorschachLeast: a cat curled tight, asleep in the sun
+facetMostTags: [chickpea, fava, green]
+facetHighTags: [chickpea, fava]
+facetMidTags: [chickpea, fava]
+facetLowTags: [butter, mung]
+facetLeastTags: [butter, mung, pinto]
 ---
 
 Caramelised Black Beans are the Bean Zodiac's most driven — and they want you coming with them. They're the friend who books the trip and the table and the cabin, who texts at 7am to ask if you've eaten, who turns a shared project into momentum nobody else could have generated alone. To be loved by one is to be carried somewhere good before you knew you wanted to go.

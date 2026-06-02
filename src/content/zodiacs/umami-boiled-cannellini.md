@@ -38,6 +38,11 @@ rorschachHigh: a bar of soap worn smooth and squared
 rorschachMid: a river stone rounded by the current
 rorschachLow: a potato sprouting knobs at odd angles
 rorschachLeast: a clod of mud flung against a wall
+facetMostTags: [navy, black, kidney]
+facetHighTags: [navy, black]
+facetMidTags: [navy, black]
+facetLowTags: [fava, edamame]
+facetLeastTags: [fava, edamame, green]
 ---
 
 Dashi Cannellini Beans are the Bean Zodiac's most conscientious — they do things properly because proper is the point. They keep the spreadsheet no one asked for, answer emails in the order the inbox actually received them, and put back the two mugs that weren't theirs before leaving the kitchen. Three colleagues quietly depend on systems these Beans built on a Sunday and never mentioned.

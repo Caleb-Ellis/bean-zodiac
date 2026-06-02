@@ -38,6 +38,11 @@ rorschachHigh: two islands divided by a strait of water
 rorschachMid: a smooth pebble beside a spiny chestnut burr
 rorschachLow: two boats drifting back toward one dock
 rorschachLeast: a moon and its reflection settling into one
+facetMostTags: [pinto, mung, black]
+facetHighTags: [pinto, mung]
+facetMidTags: [pinto, mung]
+facetLowTags: [navy, butter]
+facetLeastTags: [navy, butter, edamame]
 ---
 
 Miso Kidney Beans are the Bean Zodiac's most conflicted — and the conflict has been fully thought through, which is the problem. They can describe both sides of the disagreement with such care that each side comes away certain the Kidney Bean is secretly with them, and the Kidney Bean goes home knowing neither was wrong and that this knowledge is no use to anyone.

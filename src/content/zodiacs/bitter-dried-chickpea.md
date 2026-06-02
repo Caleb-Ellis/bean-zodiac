@@ -38,6 +38,11 @@ rorschachHigh: a wary cat perched above a ledge
 rorschachMid: a shrub rooted on a low mound
 rorschachLow: a diver tipping off a tall rock
 rorschachLeast: a bonfire leaping up from its logs
+facetMostTags: [cannellini, navy, black]
+facetHighTags: [cannellini, navy]
+facetMidTags: [cannellini, navy]
+facetLowTags: [green, fava]
+facetLeastTags: [green, edamame, fava]
 ---
 
 Desiccated Chickpeas are the Bean Zodiac's most circumspect — they read a room before they fully step into it, hang back the first evening to learn who's who, and rarely say a thing they'll later wish they could take back. Give them a decision and they'll find the question under the question; they are almost never the one who got played.

@@ -38,6 +38,11 @@ rorschachHigh: a stone and a seed, few crumbs
 rorschachMid: a potato and a beetle side by side
 rorschachLow: a stuffed envelope spilling its contents
 rorschachLeast: a smashed pot scattered into countless shards
+facetMostTags: [kidney, fava, chickpea]
+facetHighTags: [kidney, fava]
+facetMidTags: [kidney, fava]
+facetLowTags: [butter, black]
+facetLeastTags: [butter, black, pinto]
 ---
 
 Desiccated Edamame are the Bean Zodiac's most terse — they answer the email with one word, end the call the moment the business is done, and have a gift for arriving at the point three turns before anyone planned to. In a meeting that's losing the thread they are the one who says the sentence that ends it, and everyone privately thanks them.

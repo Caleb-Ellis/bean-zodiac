@@ -38,6 +38,11 @@ rorschachHigh: two islands linked by a low sandy bridge
 rorschachMid: two stones sitting near each other in a stream
 rorschachLow: a small boat drifting away from a larger one
 rorschachLeast: a lone island with the channel grown too wide
+facetMostTags: [adzuki, green, pinto]
+facetHighTags: [adzuki, green]
+facetMidTags: [adzuki, green]
+facetLowTags: [mung, butter]
+facetLeastTags: [mung, butter, black]
 ---
 
 Cultured Chickpeas are the Bean Zodiac's most collaborative — they'll hand you a half-finished draft and mean it as a compliment, because the version that comes back with your salt in it is the one they actually wanted. They think out loud, in company, in the thread that runs past midnight, and the thing that emerges is better than what either of you would have made alone. Working alongside people isn't a tactic for them; it's how the work feels right.

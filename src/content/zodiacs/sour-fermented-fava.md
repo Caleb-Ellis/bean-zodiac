@@ -38,6 +38,11 @@ rorschachHigh: a potato with a single sprout shooting sideways
 rorschachMid: a round stone with a small spur off one edge
 rorschachLow: a sleeping bird with its bill tucked in
 rorschachLeast: a plain egg, every bump rubbed smooth
+facetMostTags: [pinto, green, kidney]
+facetHighTags: [pinto, green]
+facetMidTags: [pinto, green]
+facetLowTags: [butter, mung]
+facetLeastTags: [butter, mung, black]
 ---
 
 Pickled Fava Beans are the Bean Zodiac's most contrarian — they hold the minority position because it has held up under the kind of pressure the majority hasn't bothered to apply. The room agrees the café is wonderful; they noticed the bread was reheated and the second waiter looked frightened. The thread agrees the article was sharp; they reply with the paragraph it skipped. The objection is rarely the loudest thing in the room, but it's almost always the most thought-about.

@@ -38,6 +38,11 @@ rorschachHigh: a sawhorse stacked with planks and rope
 rorschachMid: a wooden easel standing on three legs
 rorschachLow: a sway-backed mule grazing with empty panniers
 rorschachLeast: a bare trestle standing with nothing on it
+facetMostTags: [green, fava, pinto]
+facetHighTags: [green, fava]
+facetMidTags: [green, fava]
+facetLowTags: [butter, mung]
+facetLeastTags: [butter, mung, black]
 ---
 
 Braised Chickpeas are the Bean Zodiac's most resourceful — the ones who can patch a coat with kitchen twine, finish a dinner in whatever pan the kitchen still trusts, and reopen a two-month-old message thread to answer the new question on the old broth. Hand them a constraint and they'll hand you back a solution that shouldn't have worked.

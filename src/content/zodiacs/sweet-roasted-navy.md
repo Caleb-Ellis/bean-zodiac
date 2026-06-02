@@ -38,6 +38,11 @@ rorschachHigh: an apple resting next to a paper doily
 rorschachMid: a stone beside a clump of moss
 rorschachLow: a smooth egg next to a cracked-open shell
 rorschachLeast: a plain bun beside a wildly knotted pastry
+facetMostTags: [cannellini, black, pinto]
+facetHighTags: [cannellini, black]
+facetMidTags: [cannellini, black]
+facetLowTags: [fava, edamame]
+facetLeastTags: [fava, edamame, green]
 ---
 
 Glazed Navy Beans are the Bean Zodiac's most conventional — the ones who bring the dish the host expected, on the plate the host expected, at the hour the host expected, and the evening works precisely because nothing in it surprises. They arrive at six fifty-eight with the wine that matches. They weigh the unfamiliar option, then choose what the room would have chosen anyway, and the choosing costs them nothing.

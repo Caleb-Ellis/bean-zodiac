@@ -38,6 +38,11 @@ rorschachHigh: a longhorn tossing its head over a cornered cat
 rorschachMid: a wide bowl above a clenched bundle of cloth
 rorschachLow: a hammock over a cat curled and dozing
 rorschachLeast: a calm bay above a sleeping owl
+facetMostTags: [navy, mung, adzuki]
+facetHighTags: [navy, mung]
+facetMidTags: [navy, mung]
+facetLowTags: [butter, edamame]
+facetLeastTags: [butter, edamame, black]
 ---
 
 Red-Hot Kidney Beans are the Bean Zodiac's most temperamental — the reply is half-written before the email is finished, and it lands while the original is still smoking. The room they leave behind tends to be brighter, clearer, and slightly more nervous; they say the thing nobody else would, and they say it in the moment it was actually true.

@@ -38,6 +38,11 @@ rorschachHigh: a quilt kicked into a loose mound
 rorschachMid: a round cabbage with its outer leaves loose
 rorschachLow: a fist clenched tight at the knuckles
 rorschachLeast: a startled owl with feathers puffed wide
+facetMostTags: [pinto, adzuki, kidney]
+facetHighTags: [pinto, adzuki]
+facetMidTags: [pinto, adzuki]
+facetLowTags: [fava, edamame]
+facetLeastTags: [fava, edamame, green]
 ---
 
 Dashi Butter Beans are the Bean Zodiac's sleepiest — heavy-lidded, slow to rise, and somehow always halfway through a yawn. They doze through the first alarm and the second, arrive at the day when the day is ready for them, and treat the afternoon nap as a meeting on the calendar. Steam on the lid, low heat all afternoon: this is the pace at which they prefer to exist, and it suits them — the things they finish, they finish thoroughly.

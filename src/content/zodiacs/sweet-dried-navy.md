@@ -38,6 +38,11 @@ rorschachHigh: a clock with both hands kept wound
 rorschachMid: a bell mounted over a doorway
 rorschachLow: a checklist with half the boxes left blank
 rorschachLeast: a punch card torn up and tossed
+facetMostTags: [cannellini, black, pinto]
+facetHighTags: [cannellini, black]
+facetMidTags: [cannellini, black]
+facetLowTags: [fava, green]
+facetLeastTags: [fava, green, edamame]
 ---
 
 Crystallised Navy Beans are the Bean Zodiac's most dutiful. They take the bins out on Tuesday and the recycling on Wednesday and have done for so long that the household has forgotten the days; they answer the dull group thread by morning; they pick up the prescription the day before it runs out, having already noticed the date.

@@ -38,6 +38,11 @@ rorschachHigh: two hounds gone still, ears toward the door
 rorschachMid: two boulders leaning together on a hillside
 rorschachLow: a sleeping cat curled beside a loaf
 rorschachLeast: two drowsing toads with their eyes closed
+facetMostTags: [pinto, cannellini, black]
+facetHighTags: [pinto, cannellini]
+facetMidTags: [pinto, cannellini]
+facetLowTags: [fava, edamame]
+facetLeastTags: [fava, edamame, green]
 ---
 
 Charcoal Adzuki Beans are the Bean Zodiac's most oracular. They knew the relationship was over the night everyone else called it a rough patch, knew which colleague would quit before the colleague did, felt the room turn a sentence before it turned. They are right with a frequency that unsettles the people who love them.

@@ -38,6 +38,11 @@ rorschachHigh: two patches of moss grown into the bark
 rorschachMid: two inkblots spreading on damp paper
 rorschachLow: two fresh drops just landed on a dry rag
 rorschachLeast: two crisp sponges still in their wrapper
+facetMostTags: [navy, butter, black]
+facetHighTags: [navy, butter]
+facetMidTags: [navy, butter]
+facetLowTags: [fava, green]
+facetLeastTags: [fava, green, edamame]
 ---
 
 Hickory Mung Beans are the Bean Zodiac's most steeped — they've been in the same apartment for nine years, the same job for seven, drinking the same tea since college. Friends know to find them in the same chair on a Sunday; the regular table at the regular place is held without asking. Nothing about the life is stale, exactly — it has the warm, lived-in quality of a thing tended every day.

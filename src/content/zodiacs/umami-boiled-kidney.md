@@ -38,6 +38,11 @@ rorschachHigh: a thistle head trimmed to a tight crown
 rorschachMid: a sea urchin with spines splayed out
 rorschachLow: a bramble tangled past any clear edge
 rorschachLeast: a splat of ink flung across the page
+facetMostTags: [navy, black, pinto]
+facetHighTags: [navy, black]
+facetMidTags: [navy, black]
+facetLowTags: [pinto, chickpea]
+facetLeastTags: [pinto, chickpea, green]
 ---
 
 Dashi Kidney Beans are the Bean Zodiac's most disciplined — same chair, same hour, the Monday pot set on early and asked nothing of them but return. Bedtime moves by ten minutes a year; the inbox knows their office hours; the practice they began in a cold January is, four years later, still happening on Wednesdays without commentary. Their friends know which nights to call and which to leave alone.

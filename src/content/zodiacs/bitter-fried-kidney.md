@@ -38,6 +38,11 @@ rorschachHigh: two cliffs grinding shut across a gorge
 rorschachMid: two boulders leaning against each other
 rorschachLow: two profiles turned away, backs almost touching
 rorschachLeast: two swans drifting apart on calm water
+facetMostTags: [fava, edamame, pinto]
+facetHighTags: [fava, edamame]
+facetMidTags: [fava, edamame]
+facetLowTags: [butter, edamame]
+facetLeastTags: [butter, black, edamame]
 ---
 
 Scorched Kidney Beans are the Bean Zodiac's most confrontational. They walk into the disagreement straight on while everyone else circles the pan looking for a cooler spot; the message that's been sitting unsent in everyone's drafts goes out from theirs, names attached, no softening pass. When something genuinely needs saying, they are the one who can.

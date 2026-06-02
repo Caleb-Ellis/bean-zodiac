@@ -38,6 +38,11 @@ rorschachHigh: a cog wheel and a blunt anvil
 rorschachMid: a boulder and a spiked seed pod
 rorschachLow: a sunburst clock wreathed in soft petals
 rorschachLeast: a pincushion stuck full of ribboned pins
+facetMostTags: [kidney, fava, edamame]
+facetHighTags: [kidney, fava]
+facetMidTags: [kidney, fava]
+facetLowTags: [edamame, black]
+facetLeastTags: [edamame, black, pinto]
 ---
 
 Desiccated Butter Beans are the Bean Zodiac's most stark — ask one how they're holding up and you get the truth, unsweetened, while everyone else at the table is still trading "fine, you?" They don't pad bad news or perform an optimism they don't feel, and in a crisis they are the steadiest hand in the room precisely because they won't pretend it's smaller than it is.

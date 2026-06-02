@@ -38,6 +38,11 @@ rorschachHigh: a watchdog's ruffed head set over its chest
 rorschachMid: a sea urchin resting above a smooth stone
 rorschachLow: a dandelion clock loosing seeds off its stem
 rorschachLeast: a pinwheel spinning loose above its post
+facetMostTags: [navy, mung, pinto]
+facetHighTags: [navy, mung]
+facetMidTags: [navy, mung]
+facetLowTags: [butter, edamame]
+facetLeastTags: [butter, edamame, black]
 ---
 
 Aged Kidney Beans are the Bean Zodiac's most faithful — they stay on the canvas a fourth month after a sensible painter would have called it done, send the birthday card the year nobody else remembered, and answer their oldest friend's calls at the same speed they did at nineteen. The constancy is so steady it stops being noticed and becomes weather.

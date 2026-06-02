@@ -38,6 +38,11 @@ rorschachHigh: two ledgers leaning together on a crowded shelf
 rorschachMid: two stones set side by side on a wall
 rorschachLow: two work gloves dropped beside each other
 rorschachLeast: two boots kicked off, mud still on the soles
+facetMostTags: [green, edamame, black]
+facetHighTags: [green, edamame]
+facetMidTags: [green, edamame]
+facetLowTags: [adzuki, butter]
+facetLeastTags: [adzuki, mung, butter]
 ---
 
 Cultured Navy Beans are the Bean Zodiac's most bookish — the ones who annotate borrowed books in the margins, shelve by argument rather than author, and keep forty tabs open across three devices until the through-line finally surfaces. When a disagreement comes, they don't raise their voice; they place the one sourced sentence that ends it, and the room goes quiet. The library inside is real, and it's deep.

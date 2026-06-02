@@ -38,6 +38,11 @@ rorschachHigh: a hound straining hard at the end of its leash
 rorschachMid: a continent sprawled across an old map
 rorschachLow: a bearskin rug spread flat on a floor
 rorschachLeast: a puddle dried to a flat brown stain
+facetMostTags: [kidney, navy, mung]
+facetHighTags: [kidney, navy]
+facetMidTags: [kidney, navy]
+facetLowTags: [butter, edamame]
+facetLeastTags: [butter, edamame, black]
 ---
 
 Tempura Adzuki Beans are the Bean Zodiac's most passionate — the ones who arrive at the small dinner having read the host's novel twice and underlined the second one. They show up for what they love at full volume: the long voice note about the song, the unprompted gift that lands on a Tuesday, the toast that runs three minutes past where a toast usually stops. People remember being on the receiving end of one of these for years.

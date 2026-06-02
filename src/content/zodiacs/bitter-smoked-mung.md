@@ -38,6 +38,11 @@ rorschachHigh: a wren puffed small on a branch
 rorschachMid: a ripe pear left on the sill
 rorschachLow: a heavy cast-iron pot
 rorschachLeast: a sandbag slumped against the door
+facetMostTags: [pinto, cannellini, black]
+facetHighTags: [pinto, cannellini]
+facetMidTags: [pinto, cannellini]
+facetLowTags: [fava, edamame]
+facetLeastTags: [fava, green, edamame]
 ---
 
 Charcoal Mung Beans are the Bean Zodiac's most fairylike. They leave the lamp on for the friend whose train is delayed and forget to mention they waited up. They answer a message a beat before it's sent, having felt the shape of the asking. The kindness arrives from somewhere small and offstage and is gone before anyone catches it leaving.

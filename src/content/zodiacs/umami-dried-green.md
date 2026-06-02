@@ -38,6 +38,11 @@ rorschachHigh: a horned bull's head lowered in profile
 rorschachMid: a curled hedgehog with one quill sticking out
 rorschachLow: a melting candle drooping its soft wick sideways
 rorschachLeast: a wilted lettuce leaf curling limp at the edge
+facetMostTags: [kidney, navy, mung]
+facetHighTags: [kidney, navy]
+facetMidTags: [kidney, navy]
+facetLowTags: [butter, edamame]
+facetLeastTags: [butter, edamame, black]
 ---
 
 Aged Green Beans are the Bean Zodiac's most potent — one sentence, posted once, that the group chat is still quoting at Christmas. They show up to the dinner late, stay an hour, say four things, and leave, and the conversation tastes of them until everyone goes home.

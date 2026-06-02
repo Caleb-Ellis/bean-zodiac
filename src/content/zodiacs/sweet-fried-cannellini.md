@@ -38,6 +38,11 @@ rorschachHigh: a flying squirrel spread mid-glide between trees
 rorschachMid: a bat hanging with its wings half-loose
 rorschachLow: a moth settled with its wings folded down
 rorschachLeast: a pressed flower flattened shut in a book
+facetMostTags: [pinto, adzuki, green]
+facetHighTags: [pinto, adzuki]
+facetMidTags: [pinto, adzuki]
+facetLowTags: [butter, mung]
+facetLeastTags: [butter, mung, black]
 ---
 
 Caramelised Cannellini Beans are the Bean Zodiac's most expressive — what they feel is on their face before they've decided whether to share it, and they almost always decide to share it. They text in paragraphs, cry at the trailer, send the unprompted compliment at 11pm because it would have felt dishonest to sit on it. To be loved by one is to be told so, often, in cinnamon-sugar specifics.

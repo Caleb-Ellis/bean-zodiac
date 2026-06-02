@@ -38,6 +38,11 @@ rorschachHigh: a jellyfish trailing two thin filaments
 rorschachMid: a hill range tapering to a path
 rorschachLow: a tent pitched firm on two poles
 rorschachLeast: an anvil planted square on its block
+facetMostTags: [cannellini, black, navy]
+facetHighTags: [cannellini, black]
+facetMidTags: [cannellini, black]
+facetLowTags: [fava, edamame]
+facetLeastTags: [fava, edamame, green]
 ---
 
 Candied Pinto Beans are the Bean Zodiac's most daydreamy — the one whose tea has gone cold twice because they were three rooms away in their head, rearranging the imaginary kitchen of a flat they may or may not one day live in. The drift is warm and richly furnished; whole afternoons disappear into the soft milk of a half-thought, and the bean emerges pleased, a little vague, holding the seed of something good.

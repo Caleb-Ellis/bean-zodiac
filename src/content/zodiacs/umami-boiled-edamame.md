@@ -38,6 +38,11 @@ rorschachHigh: a bear sat squarely on its haunches
 rorschachMid: a heavy sack set down on the floor
 rorschachLow: a snowman already starting to slump sideways
 rorschachLeast: a sandcastle caving in at the tide line
+facetMostTags: [navy, kidney, black]
+facetHighTags: [navy, kidney]
+facetMidTags: [kidney, navy]
+facetLowTags: [pinto, chickpea]
+facetLeastTags: [pinto, chickpea, green]
 ---
 
 Dashi Edamame are the Bean Zodiac's most dedicated — they return to the same chair on the same night for years, and the room knows their footsteps before the door opens. The plant gets watered on Wednesdays, the pan is scoured the way their grandmother scoured hers, and the project they took on in March is still on the desk in November, closer to finished than anyone else's would be.

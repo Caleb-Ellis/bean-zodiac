@@ -38,6 +38,11 @@ rorschachHigh: a single boat clear of the others
 rorschachMid: a hill above its own broad shadow
 rorschachLow: a duck settled back among the flock
 rorschachLeast: sheep crowded tight into one pen
+facetMostTags: [kidney, cannellini, fava]
+facetHighTags: [kidney, cannellini]
+facetMidTags: [kidney, cannellini]
+facetLowTags: [fava, green]
+facetLeastTags: [fava, green, edamame]
 ---
 
 Kimchi Navy Beans are the Bean Zodiac's most independent — the ones who've already ordered by the time the group chat decides where to eat. They've rearranged the kitchen so the salt sits where their hand falls, started the project the week it occurred to them, and arrived at convictions in the dark that nobody had a hand in shaping. There's an unfussy clarity in their movements that the people around them quietly trust.

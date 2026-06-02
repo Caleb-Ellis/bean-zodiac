@@ -38,6 +38,11 @@ rorschachHigh: a bowed head above a heavy stone bowl
 rorschachMid: a cauliflower set on top of a jar
 rorschachLow: a wrestler crouched low over braced legs
 rorschachLeast: a beetle scrambling up off its scattered legs
+facetMostTags: [butter, mung, black]
+facetHighTags: [butter, mung]
+facetMidTags: [butter, mung]
+facetLowTags: [fava, edamame]
+facetLeastTags: [fava, edamame, green]
 ---
 
 Miso Adzuki Beans are the Bean Zodiac's most philosophical — they've thought everything through, and by the time the thought is shareable the moment that asked for it has gone home. Ask one at dinner what they make of the news and you get a long pause, then "I'm not sure yet"; the actual answer arrives in a message at midnight three weeks later, beautifully phrased, addressed to a conversation nobody else remembers being part of.

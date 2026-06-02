@@ -38,6 +38,11 @@ rorschachHigh: a kite trimmed taut on its frame
 rorschachMid: a single leaf flattened in a book
 rorschachLow: a paper plane folded crooked at the nose
 rorschachLeast: a rag torn off without measuring
+facetMostTags: [chickpea, mung, black]
+facetHighTags: [chickpea, mung]
+facetMidTags: [chickpea, mung]
+facetLowTags: [adzuki, chickpea]
+facetLeastTags: [adzuki, chickpea, green]
 ---
 
 Dashi Navy Beans are the Bean Zodiac's most pedantic — they reread the message they already sent, find the misplaced comma, and send the correction. They straighten the picture frame in someone else's house before sitting down, relabel the folders halfway through an unrelated task, and consider "nearly right" a distinct and lesser category from right. The work, when they do it, is exact.

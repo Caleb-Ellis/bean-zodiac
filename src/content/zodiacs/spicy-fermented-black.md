@@ -38,6 +38,11 @@ answerHigh: read it twice, fold it into a drawer, leave it there
 answerMid: scan a sentence into your notes app and let the rest go to the recycling
 answerLow: photograph it and send the photo to one friend with no caption
 answerLeast: read the whole thing aloud to whoever's in the room
+facetMostTags: [pinto, cannellini, adzuki]
+facetHighTags: [pinto, cannellini]
+facetMidTags: [pinto, cannellini]
+facetLowTags: [green, fava]
+facetLeastTags: [green, fava, edamame]
 ---
 
 Kimchi Black Beans are the Bean Zodiac's most mysterious — the friend whose update arrives months late, two sentences long, and somehow still the most interesting thing said all week. They don't withhold to seem deep; they just haven't finished thinking it through and refuse to hand over the half-cooked version.

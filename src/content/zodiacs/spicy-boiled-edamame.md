@@ -38,6 +38,11 @@ rorschachHigh: two quarry faces worked back from a seam
 rorschachMid: two boulders flanking a narrow gorge
 rorschachLow: two low hills drowsing under scattered clouds
 rorschachLeast: two islands adrift in a calm channel
+facetMostTags: [kidney, navy, black]
+facetHighTags: [kidney, navy]
+facetMidTags: [kidney, navy]
+facetLowTags: [pinto, chickpea]
+facetLeastTags: [pinto, chickpea, green]
 ---
 
 Braised Edamame are the Bean Zodiac's most hardworking — already at the second pot by the hour most people surface for coffee, ferrying bowls past their own seat at the table because someone has to. The list shrinks behind them in a way that looks effortless and isn't; they simply decided, long before the day started, that it would.

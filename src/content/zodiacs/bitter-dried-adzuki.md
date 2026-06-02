@@ -38,6 +38,11 @@ rorschachHigh: a wolf's head turned from a burr
 rorschachMid: a rock and a round seed pod
 rorschachLow: a bristling sun spilling rays everywhere
 rorschachLeast: a full burr scattering seeds in every direction
+facetMostTags: [cannellini, navy, black]
+facetHighTags: [cannellini, navy]
+facetMidTags: [cannellini, navy]
+facetLowTags: [fava, green]
+facetLeastTags: [edamame, fava, green]
 ---
 
 Desiccated Adzuki Beans are the Bean Zodiac's most selective — they keep the good champagne for an occasion grand enough to deserve it, and no occasion ever quite is. The promotion was nice but not a milestone; the reunion was lovely but informal; the anniversary, well, next year is the round number. They have excellent taste and a cellar that proves it.

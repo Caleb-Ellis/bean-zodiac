@@ -38,6 +38,11 @@ rorschachHigh: a hare giving a tortoise a long flat look
 rorschachMid: two heads almost touching across a gap
 rorschachLow: two faces turning warmly toward each other
 rorschachLeast: two friends laughing hysterically
+facetMostTags: [chickpea, mung, black]
+facetHighTags: [chickpea, mung]
+facetMidTags: [chickpea, mung]
+facetLowTags: [adzuki, chickpea]
+facetLeastTags: [adzuki, chickpea, green]
 ---
 
 Brined Pinto Beans are the Bean Zodiac's most sarcastic, and what makes them dangerous is the wait. The line has been forming for thirty seconds while everyone else was still reacting; by the time it lands, the timing is so exact that even its target laughs first. The room enjoys them. The group chat quietly screenshots them. Things that would be cruel from someone else read, from a Brined Pinto, as a kind of affection — a precise eye held steady on the absurd.

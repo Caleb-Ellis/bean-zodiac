@@ -38,6 +38,11 @@ rorschachHigh: two hills risen to the very same height
 rorschachMid: a peanut shell pinched in the middle
 rorschachLow: a peanut with one end swollen fatter
 rorschachLeast: a dumbbell loaded heavy on one side only
+facetMostTags: [chickpea, black, kidney]
+facetHighTags: [chickpea, black]
+facetMidTags: [chickpea, black]
+facetLowTags: [adzuki, chickpea]
+facetLeastTags: [adzuki, chickpea, green]
 ---
 
 Brined Mung Beans are the Bean Zodiac's most impartial. Bring them a quarrel and they weigh it the same way they'd weigh a stranger's — both versions get the full hearing, neither side gets the thumb on the scale, and the answer that comes back is usually the one nobody in the room wanted but everyone, on reflection, recognises. It's a rare and useful thing to have in a friend group; the fights they mediate tend to stay mediated.

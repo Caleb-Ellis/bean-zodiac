@@ -38,6 +38,11 @@ rorschachHigh: an apple with its stem, hand reaching for it
 rorschachMid: a teapot and an open mitten side by side
 rorschachLow: a fox haunched, one paw raised mid-reach
 rorschachLeast: a crab tucked behind its own raised claw
+facetMostTags: [cannellini, mung, pinto]
+facetHighTags: [cannellini, mung]
+facetMidTags: [cannellini, mung]
+facetLowTags: [green, fava]
+facetLeastTags: [green, fava, edamame]
 ---
 
 Chimichurri Butter Beans are the Bean Zodiac's most guileless — they answer the question that was asked, in the tense it was asked in. No second meaning is being mined for, no clever rephrase is waiting in drafts. A message lands; a reply leaves; the day moves on. People who have spent years decoding subtext find them disarming, then restful.

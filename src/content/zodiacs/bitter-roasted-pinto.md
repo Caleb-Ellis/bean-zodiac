@@ -38,6 +38,11 @@ rorschachHigh: a cat studying its own reflection close
 rorschachMid: a boulder beside a knotted thornbush
 rorschachLow: two heads turned outward, away from each other
 rorschachLeast: a figure leaning toward another, hand extended
+facetMostTags: [kidney, cannellini, fava]
+facetHighTags: [kidney, cannellini]
+facetMidTags: [kidney, cannellini]
+facetLowTags: [fava, edamame]
+facetLeastTags: [fava, edamame, green]
 ---
 
 Wood-Fired Pinto Beans are the Bean Zodiac's most self-absorbed — and, for a while, the most magnetic for it. They fill a room with a warmth that's hard to look away from; they take real care with their own markings, reread their own messages like a text worth studying, and arrange the best chair to face the mirror so they can sit in both at once. There's a confidence here that other beans borrow just by standing near it.

@@ -38,6 +38,11 @@ rorschachHigh: a stingray drifting slow along the seabed
 rorschachMid: a low boulder with two stubs of lichen
 rorschachLow: a beetle braced, antennae feeling ahead
 rorschachLeast: a crab dug in hard against the current
+facetMostTags: [pinto, adzuki, cannellini]
+facetHighTags: [pinto, adzuki]
+facetMidTags: [pinto, adzuki]
+facetLowTags: [fava, edamame]
+facetLeastTags: [fava, edamame, green]
 ---
 
 Caramelised Butter Beans are the Bean Zodiac's most nonchalant — the friend whose flat tyre becomes a story about the nice man at the garage, whose cancelled flight turns into a long lunch nobody regrets. Calamity tends to dust off them like sugar off a fritter. Around them other people relax a notch and discover that most of what they were panicking about was optional.

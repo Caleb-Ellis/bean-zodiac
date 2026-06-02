@@ -38,6 +38,11 @@ rorschachHigh: a jellyfish drifting, soft fronds trailing under it
 rorschachMid: a tuft of wool snagged on a fence
 rorschachLow: a mace hanging heavy from its spiked head
 rorschachLeast: a thistle bristling with downward thorns
+facetMostTags: [cannellini, butter, kidney]
+facetHighTags: [cannellini, butter]
+facetMidTags: [cannellini, butter]
+facetLowTags: [fava, edamame]
+facetLeastTags: [fava, edamame, green]
 ---
 
 Funky Mung Beans are the Bean Zodiac's gentlest — not in the soft-edged, easily-bruised sense, but in the precise way of someone who has worked out, slowly and privately, what care actually requires. They lower their voice when the room raises its own. They find the question the tired friend's first answer was hiding, and ask it. Rooms recalibrate around them without quite knowing why.

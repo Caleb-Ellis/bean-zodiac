@@ -38,6 +38,11 @@ rorschachHigh: a swarm gathering thick on the horizon
 rorschachMid: a mountain ridge seen against the dusk
 rorschachLow: a soft hill rolling gently to the road
 rorschachLeast: a fat dumpling resting on the plate
+facetMostTags: [pinto, cannellini, black]
+facetHighTags: [pinto, cannellini]
+facetMidTags: [pinto, cannellini]
+facetLowTags: [fava, green]
+facetLeastTags: [edamame, fava, green]
 ---
 
 Charcoal Navy Beans are the Bean Zodiac's most ominous. They name the thing going wrong in a project weeks before anyone else looks up, wake at four with a knot under the ribs the morning before the call comes, and are right often enough that the people around them have stopped betting against it.

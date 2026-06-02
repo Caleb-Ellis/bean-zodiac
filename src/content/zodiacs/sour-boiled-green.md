@@ -38,6 +38,11 @@ rorschachHigh: two storm clouds boiling over each other
 rorschachMid: two sheep grazing one above the other
 rorschachLow: two cats dozing, one slumped over the other
 rorschachLeast: two old carp settled deep in the pond bed
+facetMostTags: [chickpea, mung, black]
+facetHighTags: [chickpea, mung]
+facetMidTags: [chickpea, mung]
+facetLowTags: [adzuki, chickpea]
+facetLeastTags: [adzuki, chickpea, kidney]
 ---
 
 Brined Green Beans are the Bean Zodiac's most restless. Sitting still, for them, is an active project — a slow accumulation of small adjustments to make the chair, the lamp, the plan, the city tolerable for another hour. The upside is that they notice when a thing has gone stale before anyone else does; the room they're in tends to get quietly better, the email gets rewritten one more time and the rewrite is the one that lands.

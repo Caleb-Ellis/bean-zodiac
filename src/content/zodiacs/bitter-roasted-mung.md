@@ -38,6 +38,11 @@ rorschachHigh: a bowed head turned from an ornate one
 rorschachMid: a round stone next to a knotted root
 rorschachLow: a grand mask beside a person's head
 rorschachLeast: a jeweled crown looming over a bare pebble
+facetMostTags: [chickpea, black, pinto]
+facetHighTags: [chickpea, black]
+facetMidTags: [chickpea, black]
+facetLowTags: [chickpea, adzuki]
+facetLeastTags: [chickpea, adzuki, green]
 ---
 
 Wood-Fired Mung Beans are the Bean Zodiac's most humble — they know what they're capable of and keep it hidden. They finish the work, file it, and let someone find it months later; when the room turns toward them they redirect the credit to the cook, the colleague, the one who set the table. Their warmth at someone else's success is entirely genuine.

@@ -38,6 +38,11 @@ rorschachHigh: a narrow strait threading between two shores
 rorschachMid: two clouds drifting one above the other
 rorschachLow: a walnut prised open, the two halves apart
 rorschachLeast: two cliffs faced off across a deep chasm
+facetMostTags: [navy, mung, pinto]
+facetHighTags: [navy, mung]
+facetMidTags: [navy, mung]
+facetLowTags: [fava, green]
+facetLeastTags: [fava, edamame, green]
 ---
 
 Funky Cannellini Beans are the Bean Zodiac's most diplomatic — the ones who walk into a room where two people have stopped speaking and leave it twenty minutes later with both of them laughing at a third thing entirely. The rephrasing is so deft it feels like the disagreement evaporated on its own. They rarely take credit; the work was done while the kettle boiled.

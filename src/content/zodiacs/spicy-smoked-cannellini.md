@@ -38,6 +38,11 @@ rorschachHigh: two rocks, one hooked into a thorn
 rorschachMid: a pair of antlers branching apart
 rorschachLow: two cushions slumped against each other
 rorschachLeast: two soft hills worn smooth by rain
+facetMostTags: [edamame, black, navy]
+facetHighTags: [edamame, black]
+facetMidTags: [edamame, black]
+facetLowTags: [fava, edamame]
+facetLeastTags: [fava, edamame, green]
 ---
 
 Chipotle Cannellini Beans are the Bean Zodiac's most barbed — the line you remember from a dinner six months ago was probably theirs. They edit the group chat down to its load-bearing sentence and the joke gets funnier. They name the thing in the meeting that everyone could feel but no one had words for, and the rest of the call rearranges around it.

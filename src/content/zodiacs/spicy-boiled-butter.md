@@ -38,6 +38,11 @@ rorschachHigh: a pair of tongs resting half-open
 rorschachMid: an open clamshell wedged on a rock
 rorschachLow: a wrench wrenching hard against a bolt
 rorschachLeast: a crocodile's jaws snapping wide open
+facetMostTags: [mung, black, pinto]
+facetHighTags: [mung, black]
+facetMidTags: [mung, black]
+facetLowTags: [green, fava]
+facetLeastTags: [green, fava, edamame]
 ---
 
 Braised Butter Beans are the Bean Zodiac's most stoic — the ones who walk a fever through a workday, take the bad news without the face moving, and ask the practical question while everyone else is still catching their breath. In a crisis, they are the room's steady weather; people gravitate toward them without quite knowing why.

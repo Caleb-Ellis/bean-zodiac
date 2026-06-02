@@ -38,6 +38,11 @@ rorschachHigh: a stag tossing its antlers back
 rorschachMid: a goblet with two curling handles
 rorschachLow: a candlestick guttering low on its base
 rorschachLeast: an old wishbone left to dry
+facetMostTags: [kidney, green, pinto]
+facetHighTags: [kidney, green]
+facetMidTags: [kidney, green]
+facetLowTags: [butter, mung]
+facetLeastTags: [butter, mung, black]
 ---
 
 Peri-Peri Adzuki Beans are the Bean Zodiac's most enthusiastic — the ones who walk in already mid-sentence about something they heard on the way over. A small bakery, a friend's new haircut, a song from a film they half-remember — each gets the full voltage, and the room tilts toward whatever they just noticed. People leave conversations with them feeling brighter than they arrived, and slightly unsure what they just agreed to.

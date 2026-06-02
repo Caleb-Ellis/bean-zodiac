@@ -38,6 +38,11 @@ rorschachHigh: a hare with both ears raised, listening
 rorschachMid: a beetle with two feelers and small legs
 rorschachLow: a horned mask staring straight ahead
 rorschachLeast: a stag beetle rearing its pincers up
+facetMostTags: [butter, mung, pinto]
+facetHighTags: [butter, mung]
+facetMidTags: [butter, mung]
+facetLowTags: [fava, green]
+facetLeastTags: [fava, green, edamame]
 ---
 
 Candied Cannellini Beans are the Bean Zodiac's kindest — the ones who slip the book they think you'd like into your bag without mentioning it, who remember which tea you take and have it ready by the time you've taken your coat off. The kindness arrives early, lemon-bright, and without a receipt; whatever they did, they would rather you not bring it up.

@@ -38,6 +38,11 @@ rorschachHigh: a rocket trailing fire beneath a round nose
 rorschachMid: an octopus with legs splayed below its head
 rorschachLow: tree roots wandering off in every direction
 rorschachLeast: a dancer's skirt swirling around hidden legs
+facetMostTags: [kidney, fava, pinto]
+facetHighTags: [kidney, fava]
+facetMidTags: [kidney, fava]
+facetLowTags: [butter, black]
+facetLeastTags: [butter, black, pinto]
 ---
 
 Chimichurri Edamame are the Bean Zodiac's most forthright — the ones who say the thing before the drinks have landed. No throat-clearing, no weather, no fourteen-sentence preamble. The meeting opens and the actual subject is already on the table. People who have spent the morning rehearsing their own polite version of the same thought feel quietly grateful.

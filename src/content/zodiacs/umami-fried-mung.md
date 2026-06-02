@@ -38,6 +38,11 @@ rorschachHigh: a monk kneeling, shoulders weighed down
 rorschachMid: an hourglass standing on a table
 rorschachLow: a snowman with a grin tilted up
 rorschachLeast: a balloon animal sagging at its joints
+facetMostTags: [butter, black, adzuki]
+facetHighTags: [butter, black]
+facetMidTags: [butter, black]
+facetLowTags: [fava, green]
+facetLeastTags: [fava, edamame, green]
 ---
 
 Tempura Mung Beans are the Bean Zodiac's most serious — the ones who, when a friend brings them a small worry, set the laptop aside and treat the worry at full size. Asked how their week was, they actually answer. The reply to a tricky email arrives slower than the room hoped and lands at the exact weight it needed.

@@ -38,6 +38,11 @@ rorschachHigh: a spider mid-skitter across a wall
 rorschachMid: a crab with legs splayed on sand
 rorschachLow: a beetle flipped on its back, legs still
 rorschachLeast: a dead spider curled in a dusty corner
+facetMostTags: [adzuki, green, cannellini]
+facetHighTags: [adzuki, green]
+facetMidTags: [adzuki, green]
+facetLowTags: [butter, mung]
+facetLeastTags: [butter, mung, black]
 ---
 
 Glazed Chickpeas are the Bean Zodiac's most fun — and wear it so lightly nobody clocks it as a skill. They feel a gathering tilt toward boredom three minutes before anyone else and move before it lands. They make a two-hour queue feel like the best part of the night, and a karaoke run on a Tuesday feel inevitable.

@@ -38,6 +38,11 @@ rorschachHigh: a child riding high on someone's shoulders
 rorschachMid: two round stones stacked one on another
 rorschachLow: a hooded figure bent over a smaller bundle
 rorschachLeast: a heavy lid clamped down over a small pot
+facetMostTags: [chickpea, green, pinto]
+facetHighTags: [chickpea, green]
+facetMidTags: [chickpea, green]
+facetLowTags: [butter, mung]
+facetLeastTags: [butter, mung, black]
 ---
 
 Candied Adzuki Beans are the Bean Zodiac's most joyful — the ones who show up to the dim weeknight dinner with a candle in their bag and somehow make it the meal everyone remembers. They greet a returning houseplant like a returning friend, write the thank-you note for the dinner that was only fine, find an occasion in a Tuesday and a tablecloth in a tea towel.

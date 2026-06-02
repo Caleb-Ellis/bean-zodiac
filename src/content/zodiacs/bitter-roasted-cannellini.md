@@ -38,6 +38,11 @@ rorschachHigh: a fern unfurling fronds from a tidy clump
 rorschachMid: a rocky islet with a few jutting peaks
 rorschachLow: a crab scuttling, legs splayed out crooked
 rorschachLeast: a torn leaf chewed ragged at the edges
+facetMostTags: [navy, black, kidney]
+facetHighTags: [navy, black]
+facetMidTags: [navy, black]
+facetLowTags: [fava, green]
+facetLeastTags: [fava, edamame, green]
 ---
 
 Wood-Fired Cannellini Beans are the Bean Zodiac's most refined — they improve everything they touch. They walk a room before guests arrive and move three things, and the room exhales; at introductions they place names like garnish, so each person lands somewhere they can stand. The reply gets a second pass, then a third for the comma. Nothing they touch is left worse.

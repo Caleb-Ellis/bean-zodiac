@@ -38,6 +38,11 @@ rorschachHigh: two halves of a walnut, the seam between them
 rorschachMid: two clouds drifting close above the water
 rorschachLow: two rams leaning in just before they butt
 rorschachLeast: two cliffs cracked apart by a sudden split
+facetMostTags: [mung, black, chickpea]
+facetHighTags: [mung, black]
+facetMidTags: [mung, black]
+facetLowTags: [green, fava]
+facetLeastTags: [green, fava, edamame]
 ---
 
 Cultured Butter Beans are the Bean Zodiac's most thoughtful — the quiet ones in a loud room whose single sentence, when it finally comes, lands like a ladle finding the bottom of the pot. They don't talk to fill air. They wait until the thing is actually worth saying, and it usually is, and people learn to lean in when they start.

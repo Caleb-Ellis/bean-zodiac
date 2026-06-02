@@ -38,6 +38,11 @@ rorschachHigh: a flint knapped to a hard edge
 rorschachMid: a shield hung flat on a wall
 rorschachLow: a sandbag sagging under its own weight
 rorschachLeast: a beanbag slumped into the floor
+facetMostTags: [cannellini, black, pinto]
+facetHighTags: [cannellini, black]
+facetMidTags: [cannellini, black]
+facetLowTags: [green, fava]
+facetLeastTags: [green, fava, edamame]
 ---
 
 Dehydrated Navy Beans are the Bean Zodiac's most uncompromising. They are the friend who returns the wrong change at the till, who will not bring the work laptop on holiday and will not pretend the reason is anything other than the reason, who answers "no" to the small favour and does not perform regret about it. The line is where it is, and the people who know them well find this, eventually, restful — you always know where you stand.

@@ -38,6 +38,11 @@ rorschachHigh: a sprouting garlic clove pushing past its skin
 rorschachMid: a fig with two stems at the top
 rorschachLow: an onion gone soft and split open
 rorschachLeast: a wilted bulb collapsing in on itself
+facetMostTags: [chickpea, fava, cannellini]
+facetHighTags: [chickpea, fava]
+facetMidTags: [chickpea, fava]
+facetLowTags: [butter, mung]
+facetLeastTags: [butter, mung, black]
 ---
 
 Hickory Green Beans are the Bean Zodiac's most budding — they're three months into the new thing and won't show anyone yet, because it isn't what it's going to be. The guitar in the corner has eight chords on it that nobody's heard; the side project has a name and a folder and one good paragraph. They know the shape of what they're growing toward, and they know it isn't here.

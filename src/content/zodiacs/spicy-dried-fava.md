@@ -38,6 +38,11 @@ rorschachHigh: a ram reared up, horns flung back
 rorschachMid: a moth with antennae raised, wings spread
 rorschachLow: a snail drawing its horns back in
 rorschachLeast: a bat folded tight, wings tucked down
+facetMostTags: [kidney, green, pinto]
+facetHighTags: [kidney, green]
+facetMidTags: [kidney, green]
+facetLowTags: [butter, mung]
+facetLeastTags: [butter, mung, black]
 ---
 
 Sichuan Fava Beans are the Bean Zodiac's most audacious — already on the highway before the rest of the group has answered the text. The hard email is sent before lunch; the apartment is leased the same day it's viewed; the new instrument is bought on Sunday and brought to the open mic on Wednesday, badly. They start. The rest of us watch and feel both inspired and faintly tired.

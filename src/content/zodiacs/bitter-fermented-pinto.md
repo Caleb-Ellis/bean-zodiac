@@ -38,6 +38,11 @@ rorschachHigh: a flower blown open, petals ragged at the rim
 rorschachMid: a puddle spread out on the pavement
 rorschachLow: a dropped sponge, water seeping from its edge
 rorschachLeast: a coffee ring left flat on a desk
+facetMostTags: [adzuki, green, kidney]
+facetHighTags: [adzuki, green]
+facetMidTags: [adzuki, green]
+facetLowTags: [mung, butter]
+facetLeastTags: [mung, butter, black]
 ---
 
 Cultured Pinto Beans are the Bean Zodiac's most artistic — half their room is arranged around a project no visitor would recognise as a project, the chile-stain on every surface, the hour gone long past useful because the colour was still shifting. They make the thing that needed them to exist, the thing nobody else has the crock for, and they make it whether or not anyone asked. The clock is a suggestion the work ignores.

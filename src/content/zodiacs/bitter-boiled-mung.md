@@ -38,6 +38,11 @@ rorschachHigh: a cat edging across a narrow plank between roofs
 rorschachMid: two boulders with a faint bridge between them
 rorschachLow: two buoys dragged together, the mooring line gone taut
 rorschachLeast: a rope bridge snapped, the two cliffs crashing in
+facetMostTags: [cannellini, navy, black]
+facetHighTags: [cannellini, navy]
+facetMidTags: [cannellini, navy]
+facetLowTags: [fava, green]
+facetLeastTags: [fava, edamame, green]
 ---
 
 Infused Mung Beans are the Bean Zodiac's most careful — the one who reads the contract a third time for the clause that breaks the wrong way, who catches the error before it becomes a problem and the missing step before anyone trips on it. They understand, in their bones, what it costs to get a thing wrong, and so things in their keeping simply don't go wrong. When you hand them something fragile, you stop worrying about it.

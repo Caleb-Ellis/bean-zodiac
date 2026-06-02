@@ -38,6 +38,11 @@ rorschachHigh: an anchor dug in with both flukes hooked
 rorschachMid: a steer's skull mounted above two horns
 rorschachLow: a ribbon drooping loose off both ends
 rorschachLeast: a willow with branches trailing to the ground
+facetMostTags: [navy, cannellini, black]
+facetHighTags: [navy, cannellini]
+facetMidTags: [navy, cannellini]
+facetLowTags: [edamame, fava]
+facetLeastTags: [edamame, fava, adzuki]
 ---
 
 Red-Hot Green Beans are the Bean Zodiac's most headstrong — once decided, the decision is over. They pick the restaurant, name the hour, and start walking; the group catches up or doesn't, and either way the night begins on time. Friends know that asking for their input is asking for a plan, and the plan, in their hands, is rarely wrong.

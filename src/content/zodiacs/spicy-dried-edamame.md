@@ -38,6 +38,11 @@ rorschachHigh: a clawed seahorse curling past a spiked star
 rorschachMid: a curled shrimp beside a small splatter
 rorschachLow: a sleeping cat's tail beside a soft thistle
 rorschachLeast: a coiled rope beside a tuft of wool
+facetMostTags: [cannellini, black, pinto]
+facetHighTags: [cannellini, black]
+facetMidTags: [cannellini, black]
+facetLowTags: [green, fava]
+facetLeastTags: [green, fava, pinto]
 ---
 
 Sichuan Edamame are the Bean Zodiac's most mordant — the friend whose one-line reply to a long voice note is, somehow, the entire point of the voice note, rendered drier. They see the misstatement before its speaker has finished, and the urge to mark it is not so much an urge as a reflex. The wit is real. The aim is true. The room usually laughs.

@@ -38,6 +38,11 @@ rorschachHigh: two moths, wings catching the light at odd angles
 rorschachMid: two islands seen from above, one over the other
 rorschachLow: two clay bowls of the same dull glaze, stacked
 rorschachLeast: a beetle pinned beside its identical twin
+facetMostTags: [pinto, cannellini, black]
+facetHighTags: [pinto, cannellini]
+facetMidTags: [pinto, cannellini]
+facetLowTags: [fava, edamame]
+facetLeastTags: [fava, edamame, navy]
 ---
 
 Barbecued Green Beans are the Bean Zodiac's most iridescent — and the friend who meets them at a wedding will swear they're a different person from the one their colleague describes on Monday. Both versions are real, both versions are warm, both versions are doing the work the room asked for. The wit sharpens at one table and softens at another, and nobody at either feels they're getting less than the full attention.

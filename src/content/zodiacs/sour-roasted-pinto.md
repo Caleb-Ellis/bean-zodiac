@@ -38,6 +38,11 @@ rorschachHigh: a watchtower standing above its splayed legs
 rorschachMid: a mushroom cap on its pale ribbed stalk
 rorschachLow: a hen gathering chicks beneath her body
 rorschachLeast: a family huddled close around one hearth
+facetMostTags: [adzuki, butter, kidney]
+facetHighTags: [adzuki, butter]
+facetMidTags: [adzuki, butter]
+facetLowTags: [green, fava]
+facetLeastTags: [green, fava, edamame]
 ---
 
 Chimichurri Pinto Beans are the Bean Zodiac's most aloof — visible, fluent at the table, and somehow still three seats from the nearest conversation. The unread threads sit. The reply comes when the pan cools. There is one room in the house no guest has been into, and the host does not consider this a failure of hosting.

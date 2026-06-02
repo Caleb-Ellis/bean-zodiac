@@ -38,6 +38,11 @@ rorschachHigh: a snake emerging from grass
 rorschachMid: a squid drifting with two trailing arms
 rorschachLow: two cats curled next to one another
 rorschachLeast: a butterfly resting gently
+facetMostTags: [pinto, green, fava]
+facetHighTags: [pinto, green]
+facetMidTags: [pinto, green]
+facetLowTags: [butter, mung]
+facetLeastTags: [butter, mung, black]
 ---
 
 Kimchi Adzuki Beans are the Bean Zodiac's most provocative — the ones who slide a strange sentence into a settled room and watch the furniture move. They've been turning it over in the dark for days; by the time it lands at dinner it sounds offhand, even mild, and only later does anyone realise the conversation took a corner.

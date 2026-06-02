@@ -38,6 +38,11 @@ rorschachHigh: a clawed paw raised mid-swipe
 rorschachMid: a rough rock with two chipped peaks
 rorschachLow: a felt hat blocked into a neat crown
 rorschachLeast: a pillow plumped square at the corners
+facetMostTags: [kidney, navy, mung]
+facetHighTags: [kidney, navy]
+facetMidTags: [kidney, navy]
+facetLowTags: [butter, edamame]
+facetLeastTags: [butter, edamame, black]
 ---
 
 Hickory Fava Beans are the Bean Zodiac's most primal — they answer from somewhere underneath the question. A friend asks if they should take the job and the Fava names the wrong city instead, and the friend goes quiet because that was the real thing. Decisions land in the body before they reach the mouth; the no is no before anyone's drawn the table.

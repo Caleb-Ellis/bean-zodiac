@@ -38,6 +38,11 @@ rorschachHigh: a goat rearing with one horn raised high
 rorschachMid: a boar's head turned sharp to the side
 rorschachLow: an owl hunched low over a folded kill
 rorschachLeast: a curled dog asleep, nose tucked to flank
+facetMostTags: [kidney, green, pinto]
+facetHighTags: [kidney, green]
+facetMidTags: [kidney, green]
+facetLowTags: [butter, mung]
+facetLeastTags: [butter, mung, black]
 ---
 
 Caramelised Adzuki Beans are the Bean Zodiac's most exuberant — the ones who hear "I got the thing" and have already stood up to find a glass. The good news travels through them before it reaches anyone else; they'll bake a cake on a Wednesday for a stranger's small win, and the kitchen will smell like sugar all afternoon. People text them first because being congratulated by a Caramelised Adzuki feels like being seen on purpose.

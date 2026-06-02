@@ -38,6 +38,11 @@ rorschachHigh: a bundle bound and knotted at every edge
 rorschachMid: a dark cabbage with leaves curling loose
 rorschachLow: a cloud beginning to fray at its edges
 rorschachLeast: a thundercloud bursting open, tendrils flung out
+facetMostTags: [chickpea, mung, pinto]
+facetHighTags: [chickpea, mung]
+facetMidTags: [chickpea, mung]
+facetLowTags: [adzuki, chickpea]
+facetLeastTags: [adzuki, chickpea, green]
 ---
 
 Sichuan Black Beans are the Bean Zodiac's most suppressed — and the most composed-looking person at a difficult dinner. The slight has landed, the fever is real, the inner monologue is doing a full lap of the room — and outside, they're refilling someone's glass and asking how the dog's leg healed. People mistake the steadiness for not minding. It is not that.

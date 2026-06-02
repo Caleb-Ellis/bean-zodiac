@@ -38,6 +38,11 @@ rorschachHigh: a hawk's wings drawn tight before the strike
 rorschachMid: a craggy ridgeline against an open sky
 rorschachLow: a pelt left to soak, edges fraying loose
 rorschachLeast: an ink stain creeping outward in every direction
+facetMostTags: [kidney, navy, cannellini]
+facetHighTags: [kidney, navy]
+facetMidTags: [kidney, navy]
+facetLowTags: [pinto, chickpea]
+facetLeastTags: [pinto, chickpea, green]
 ---
 
 Tempura Black Beans are the Bean Zodiac's most focused — door shut, phone face-down, one thing at a time finished cleanly before the next is acknowledged to exist. The work that comes out of these hours is the kind other people quietly look at twice; nothing is half-attended, nothing is half-meant.

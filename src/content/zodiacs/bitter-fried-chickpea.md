@@ -38,6 +38,11 @@ rorschachHigh: two bonfires throwing embers upward
 rorschachMid: two spiky caterpillars inching along a leaf
 rorschachLow: two low islands settling into still water
 rorschachLeast: two sleeping hills under a heavy quiet
+facetMostTags: [pinto, fava, green]
+facetHighTags: [pinto, fava]
+facetMidTags: [pinto, fava]
+facetLowTags: [mung, butter]
+facetLeastTags: [mung, butter, black]
 ---
 
 Scorched Chickpeas are the Bean Zodiac's most entrepreneurial. They start the project Friday night, name it Saturday, tell six people Sunday — and the gap they spotted was real, the instinct sound, the energy genuinely infectious. Ask one what they do and you get a list, never a sentence, and the list is alive.

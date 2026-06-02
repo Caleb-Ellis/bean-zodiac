@@ -38,6 +38,11 @@ rorschachHigh: a beetle and the print it pressed in the dust
 rorschachMid: two loaves cooling, one above the other
 rorschachLow: a hare and its shadow already thinning at noon
 rorschachLeast: clouds fading away
+facetMostTags: [butter, black, pinto]
+facetHighTags: [butter, black]
+facetMidTags: [butter, black]
+facetLowTags: [fava, edamame]
+facetLeastTags: [fava, edamame, green]
 ---
 
 Barbecued Navy Beans are the Bean Zodiac's most lingering — and the things they said five years ago are still circulating, quoted back by friends at dinners they weren't invited to. A throwaway sentence at a kitchen table becomes someone else's working principle by autumn; a small kindness in a stairwell gets brought up a decade later, the rememberer's voice gone slightly tight.

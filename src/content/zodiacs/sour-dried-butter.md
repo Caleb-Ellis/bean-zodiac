@@ -38,6 +38,11 @@ rorschachHigh: a mushroom cap drooping over its stem
 rorschachMid: an old tree stump with roots splayed out
 rorschachLow: a dancer mid-lunge with skirts flaring
 rorschachLeast: a diver leaping arms-wide off the board
+facetMostTags: [chickpea, mung, black]
+facetHighTags: [chickpea, mung]
+facetMidTags: [chickpea, mung]
+facetLowTags: [adzuki, chickpea]
+facetLeastTags: [adzuki, chickpea, green]
 ---
 
 Dehydrated Butter Beans are the Bean Zodiac's most chastened. They are the friend who leaves twenty minutes early because of one missed train in 2019, who reads the cancellation clause twice before booking the trip, who has a quiet small list of restaurants they will not return to and a longer list of things they will not say out loud at work again. The care is real, and the people around them are quietly the better for it.

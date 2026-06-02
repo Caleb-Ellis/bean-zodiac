@@ -38,6 +38,11 @@ rorschachHigh: a beetle scuttling off toward the edge
 rorschachMid: a stone with frayed lichen trailing one side
 rorschachLow: a cat settling its tail around itself
 rorschachLeast: a snail drawn fully into its coiled shell
+facetMostTags: [kidney, green, pinto]
+facetHighTags: [kidney, green]
+facetMidTags: [kidney, green]
+facetLowTags: [butter, mung]
+facetLeastTags: [butter, mung, black]
 ---
 
 Peri-Peri Fava Beans are the Bean Zodiac's most adventurous — the ones whose phone is full of half-decipherable photos from the day they got off at the wrong stop and made an afternoon of it. They take the offered seat in the unfamiliar car, they order the dish they can't pronounce, they say yes to the trip that's been described to them in one sentence and a shrug.

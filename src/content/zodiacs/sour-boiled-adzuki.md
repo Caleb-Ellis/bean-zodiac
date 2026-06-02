@@ -38,6 +38,11 @@ rorschachHigh: a hen settled flat with nothing tucked away
 rorschachMid: a fat fish curling its tail to the left
 rorschachLow: a pufferfish puffed up well past its size
 rorschachLeast: a paper fish kite stuffed to look caught
+facetMostTags: [butter, mung, cannellini]
+facetHighTags: [butter, mung]
+facetMidTags: [butter, mung]
+facetLowTags: [edamame, fava]
+facetLeastTags: [green, edamame, fava]
 ---
 
 Brined Adzuki Beans are the Bean Zodiac's most sincere — they celebrate only what they actually feel, and they feel without dimming. Hand them good news and the warmth lands without the usual buffering; you can tell from the pause before they answer that they're checking the gladness is real before they spend it, and when they spend it there's no holdover, no held-back portion saved for someone more deserving later.

@@ -38,6 +38,11 @@ rorschachHigh: two masks, one brow cocked across the gap
 rorschachMid: two faces turned toward a narrow gap
 rorschachLow: two friends leaning in, close to a kiss
 rorschachLeast: two children's faces beaming across a table
+facetMostTags: [cannellini, black, edamame]
+facetHighTags: [cannellini, black]
+facetMidTags: [cannellini, black]
+facetLowTags: [green, fava]
+facetLeastTags: [green, fava, edamame]
 ---
 
 Cured Pinto Beans are the Bean Zodiac's most sardonic — the reply has a small twist sewn into the hem before it leaves the mouth. They are the friend whose compliment you have to unwrap twice on the walk home, the colleague whose group-chat line ends the topic by gently angling it. There is real intelligence in the deflection; the people around them are made quicker by having to keep up.

@@ -38,6 +38,11 @@ rorschachHigh: a stag rising with antlers spread wide
 rorschachMid: a coat rack branching above two legs
 rorschachLow: a figure hunched over its folded arms
 rorschachLeast: a fist clenched above two locked knees
+facetMostTags: [butter, mung, kidney]
+facetHighTags: [butter, mung]
+facetMidTags: [butter, mung]
+facetLowTags: [fava, edamame]
+facetLeastTags: [fava, edamame, green]
 ---
 
 Glazed Cannellini Beans are the Bean Zodiac's most empowering — the ones who name the quiet colleague's half-thought back to the room as the whole point, who forward the junior's work upward with one line that lands it. Praise leaves them so cleanly it doesn't even feel like generosity; it feels like accurate reporting.

@@ -38,6 +38,11 @@ rorschachHigh: a rock beside a burst of spray
 rorschachMid: two islands split by a channel
 rorschachLow: two friends leaning in to whisper
 rorschachLeast: two children mid-tumble, limbs flung out
+facetMostTags: [cannellini, edamame, black]
+facetHighTags: [cannellini, edamame]
+facetMidTags: [cannellini, edamame]
+facetLowTags: [fava, green]
+facetLeastTags: [fava, green, edamame]
 ---
 
 Dehydrated Chickpeas are the Bean Zodiac's most wry. They have a way of letting two seconds pass before they answer, and by the time the answer arrives the room has already begun to laugh — quietly, the kind of laugh you cover with your hand. At parties they are leaned toward; at meetings they are the one whose quiet sentence makes the loud one collapse. Years of watching have made them lethally precise about what is and isn't actually happening.

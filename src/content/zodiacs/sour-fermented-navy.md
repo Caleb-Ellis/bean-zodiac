@@ -38,6 +38,11 @@ rorschachHigh: a berry bush hiding one sharp thorn
 rorschachMid: a low shrub with a ragged crown
 rorschachLow: a mound of fruit spilling over freely
 rorschachLeast: a full basket held out, nothing tucked under
+facetMostTags: [edamame, black, kidney]
+facetHighTags: [edamame, black]
+facetMidTags: [edamame, black]
+facetLowTags: [adzuki, butter]
+facetLeastTags: [adzuki, butter, mung]
 ---
 
 Pickled Navy Beans are the Bean Zodiac's most cynical — they have read the message twice for what it isn't saying and weighed the apology against the bill still owed. They can predict, with eerie accuracy, which colleague's new tone is a prelude to which old request, and which "we should catch up" is a polite filing of a friendship in the bottom drawer. The clear-eyed reading saves them, again and again, from the small charges they would otherwise have signed.

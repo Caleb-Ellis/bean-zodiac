@@ -38,6 +38,11 @@ rorschachHigh: a beetle circling back to one hole
 rorschachMid: an hourglass pinched at its waist
 rorschachLow: a knot slipping loose at the middle
 rorschachLeast: a spool unwinding its thread everywhere
+facetMostTags: [navy, black, adzuki]
+facetHighTags: [navy, black]
+facetMidTags: [navy, black]
+facetLowTags: [butter, edamame]
+facetLeastTags: [butter, edamame, black]
 ---
 
 Kimchi Kidney Beans are the Bean Zodiac's most obsessive — the ones who have found the thing and intend to follow it past the point where the rest of the room got bored. They reread the same paragraph for the fourth night running, cook the braise three Sundays in a row adjusting one variable, and arrive at a depth on the subject that nobody else in the conversation can match.

@@ -38,6 +38,11 @@ rorschachHigh: a blanket draped over hunched shoulders
 rorschachMid: a clay bell hanging still in its frame
 rorschachLow: a sealed urn shut tight beneath its lid
 rorschachLeast: a cold kiln, its door bricked over and dark
+facetMostTags: [adzuki, chickpea, mung]
+facetHighTags: [adzuki, chickpea]
+facetMidTags: [adzuki, chickpea]
+facetLowTags: [fava, edamame]
+facetLeastTags: [fava, edamame, green]
 ---
 
 Funky Kidney Beans are the Bean Zodiac's most sympathetic — the ones who have been through their own hard winter and come out of it carrying something useful, not bitter. When a friend turns up shaken, they put the kettle on before asking what happened, and the warmth of the gesture does half the work. Years of their own grief have been quietly composted into a steadiness other people can lean against.

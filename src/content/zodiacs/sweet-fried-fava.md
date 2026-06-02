@@ -38,6 +38,11 @@ rorschachHigh: a scorpion with its tail arched to strike
 rorschachMid: a wave cresting with a curl of spray
 rorschachLow: a ram settled, horns resting on the grass
 rorschachLeast: a snail drawn most of the way into its shell
+facetMostTags: [kidney, green, cannellini]
+facetHighTags: [kidney, green]
+facetMidTags: [kidney, green]
+facetLowTags: [butter, mung]
+facetLeastTags: [butter, mung, black]
 ---
 
 Caramelised Fava Beans are the Bean Zodiac's most daring — and the warmth is what makes the jumping bearable to watch. They ask the rude question at the table and the table loves them for it; they confess the crush while their friends are still rehearsing the opener; they buy the one-way ticket on a Sunday and have already found a kitchen to fry in by Friday. Decision and action collapse into one motion, dusted in sugar.

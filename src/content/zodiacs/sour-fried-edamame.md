@@ -38,6 +38,11 @@ rorschachHigh: two bricks set down side by side
 rorschachMid: two river stones lying near each other
 rorschachLow: two mittens laid out to dry on a rail
 rorschachLeast: two pillows dented soft side by side
+facetMostTags: [kidney, fava, pinto]
+facetHighTags: [kidney, fava]
+facetMidTags: [kidney, fava]
+facetLowTags: [butter, black]
+facetLeastTags: [butter, black, pinto]
 ---
 
 Agrodolce Edamame are the Bean Zodiac's most blunt — the sentence arrives unwrapped, and the listener can either eat it or not. There's no preamble to chew through, no "I just want to say," no managing of the temperature before delivery; the thing is on the table, and what they do with it is their business.

@@ -38,6 +38,11 @@ rorschachHigh: a clamshell parting along its hinge
 rorschachMid: a round loaf with one side torn open
 rorschachLow: a hand half-curling back into a fist
 rorschachLeast: a clenched paw with the claws drawn in
+facetMostTags: [chickpea, fava, green]
+facetHighTags: [chickpea, fava]
+facetMidTags: [chickpea, fava]
+facetLowTags: [mung, black]
+facetLeastTags: [mung, black, adzuki]
 ---
 
 Rendered Butter Beans are the Bean Zodiac's most receptive — others end up telling them things they didn't know they were going to tell anyone. The room arranges itself around the listening. People leave a conversation with a Rendered Butter Bean feeling somehow more themselves, and unable to recall a single opinion the Bean expressed.

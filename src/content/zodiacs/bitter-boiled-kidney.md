@@ -38,6 +38,11 @@ rorschachHigh: a sentry keeping watch over a wayside stone
 rorschachMid: a tall jug next to a smaller round bowl
 rorschachLow: a traveller walking off from the stone behind
 rorschachLeast: two boats drifting to opposite banks of a river
+facetMostTags: [mung, navy, chickpea]
+facetHighTags: [mung, navy]
+facetMidTags: [mung, navy]
+facetLowTags: [butter, edamame]
+facetLeastTags: [butter, edamame, black]
 ---
 
 Infused Kidney Beans are the Bean Zodiac's most loyal — the one still answering a friend's calls a decade after everyone else quietly stopped, keeping the standing dinner with the person who cancels half the time and setting the table anyway. When they choose you, they stay; they remember which winter you lost someone, they show up for the unglamorous hour, and the hours it costs them are not hours they count. To be kept by them is one of the surer things a person can have.

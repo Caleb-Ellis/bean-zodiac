@@ -38,6 +38,11 @@ rorschachHigh: a seal balancing a pebble on its nose
 rorschachMid: a round melon with a smaller one above
 rorschachLow: an ox slumped under a single hung lantern
 rorschachLeast: a heavy stump with an acorn resting atop
+facetMostTags: [cannellini, black, pinto]
+facetHighTags: [cannellini, black]
+facetMidTags: [cannellini, black]
+facetLowTags: [fava, green]
+facetLeastTags: [fava, green, kidney]
 ---
 
 Wood-Fired Edamame are the Bean Zodiac's wittiest — sharp without making anyone feel small. They hold court from the edge of the room, trading the shortest sentences for the longest laughs, and by morning the group chat is quoting them back to themselves. The remark always arrives salted and blistered exactly right.

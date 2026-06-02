@@ -38,6 +38,11 @@ rorschachHigh: an owl hunched still on a post
 rorschachMid: a hen brooding low on the nest
 rorschachLow: a cat half-risen, about to bolt
 rorschachLeast: a bird breaking from the bush, wings flung wide
+facetMostTags: [navy, butter, pinto]
+facetHighTags: [navy, butter]
+facetMidTags: [navy, butter]
+facetLowTags: [fava, green]
+facetLeastTags: [fava, green, edamame]
 ---
 
 Crystallised Black Beans are the Bean Zodiac's most abiding. They are the friend who is just _there_ — at the funeral, at the move, at the wedding nobody else flew in for — and somehow nobody can quite remember inviting them, because they invited themselves the moment they heard.

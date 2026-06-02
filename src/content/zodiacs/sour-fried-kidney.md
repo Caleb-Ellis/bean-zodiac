@@ -38,6 +38,11 @@ rorschachHigh: a chess bishop tipped toward its rival
 rorschachMid: a fence post worn narrow at the middle
 rorschachLow: a person seated back, hands folded in the lap
 rorschachLeast: a snowman slumping soft at its waist
+facetMostTags: [fava, edamame, pinto]
+facetHighTags: [fava, edamame]
+facetMidTags: [fava, edamame]
+facetLowTags: [butter, edamame]
+facetLeastTags: [butter, black, edamame]
 ---
 
 Agrodolce Kidney Beans are the Bean Zodiac's most argumentative — they treat a wrong sentence the way a smoke alarm treats a wrong amount of smoke. The correction is on the air before the speaker has finished sitting back down. What looks like combativeness from the outside is, from inside, a kind of housekeeping: an Agrodolce Kidney genuinely cannot leave a room with a false thing in it.

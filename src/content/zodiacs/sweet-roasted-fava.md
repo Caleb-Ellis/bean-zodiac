@@ -38,6 +38,11 @@ rorschachHigh: a boar's head with breath fogging the air
 rorschachMid: a hippo's head wallowing at the surface
 rorschachLow: a sheep with its muzzle tucked down
 rorschachLeast: a sleeping boar curled nose to chest
+facetMostTags: [kidney, edamame, cannellini]
+facetHighTags: [kidney, edamame]
+facetMidTags: [kidney, edamame]
+facetLowTags: [butter, edamame]
+facetLeastTags: [butter, edamame, black]
 ---
 
 Glazed Fava Beans are the Bean Zodiac's most outspoken — the ones who begin the hard sentence first and let everyone else arrive into the heat they started. They name the thing nobody at the table will, and the room breathes out. They send the long-overdue compliment in full sentences, no "btw" energy.

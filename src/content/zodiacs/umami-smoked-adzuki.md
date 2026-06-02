@@ -38,6 +38,11 @@ rorschachHigh: a bundle draped in cloth for keeping
 rorschachMid: two rounded stones set side by side
 rorschachLow: a sack of laundry dumped down
 rorschachLeast: two cushions shoved into a corner
+facetMostTags: [chickpea, mung, black]
+facetHighTags: [chickpea, mung]
+facetMidTags: [chickpea, mung]
+facetLowTags: [chickpea, green]
+facetLeastTags: [chickpea, green, cannellini]
 ---
 
 Hickory Adzuki Beans are the Bean Zodiac's most hallowed — they treat ordinary Tuesdays like something passed down. A coworker mentions a small good thing and they go quiet for a beat too long, looking for the right way to mark it; the toast at dinner is three sentences when one would do, and nobody minds because the room has already tilted toward them.

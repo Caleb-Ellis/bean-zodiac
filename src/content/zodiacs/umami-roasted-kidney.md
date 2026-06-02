@@ -38,6 +38,11 @@ rorschachHigh: a frilled head of lettuce bursting out of itself
 rorschachMid: an urn with a spray of curling scrollwork beside it
 rorschachLow: a clay pot with one bare twig off its edge
 rorschachLeast: a plain jug with a single dead stem trailing
+facetMostTags: [cannellini, adzuki, pinto]
+facetHighTags: [cannellini, adzuki]
+facetMidTags: [cannellini, adzuki]
+facetLowTags: [fava, green]
+facetLeastTags: [fava, green, edamame]
 ---
 
 Rendered Kidney Beans are the Bean Zodiac's most extravagant — and they mean it every time. The longer letter, the better bottle, the room furnished until it answers back. When they show up for someone, they show up with weather. The friend on the receiving end remembers the gesture a decade later and still can't quite explain why it landed so hard.

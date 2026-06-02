@@ -38,6 +38,11 @@ rorschachHigh: a bowl of soup with two spoons
 rorschachMid: a ladle hanging beside the stove
 rorschachLow: a locked tin on a high shelf
 rorschachLeast: a cold grate with the ashes raked out
+facetMostTags: [cannellini, butter, mung]
+facetHighTags: [cannellini, butter]
+facetMidTags: [cannellini, butter]
+facetLowTags: [fava, green]
+facetLeastTags: [fava, green, edamame]
 ---
 
 Crystallised Chickpeas are the Bean Zodiac's most wholesome. They remember everyone's coffee order, send the get-well card unprompted, and notice when the quiet one at the table has stopped speaking — and they do it without ever seeming to keep score. People leave the room around them feeling slightly better than they arrived, and rarely able to name why.

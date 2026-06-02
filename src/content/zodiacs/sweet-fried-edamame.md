@@ -38,6 +38,11 @@ rorschachHigh: a hare sat up, paw lifted to bolt
 rorschachMid: an owl perched with two ear-tufts raised
 rorschachLow: a cat loafed down, paws tucked under
 rorschachLeast: a fox curled asleep, ears flat and still
+facetMostTags: [chickpea, fava, green]
+facetHighTags: [chickpea, fava]
+facetMidTags: [chickpea, fava]
+facetLowTags: [butter, mung]
+facetLeastTags: [butter, mung, black]
 ---
 
 Caramelised Edamame are the Bean Zodiac's most motivated — the ones who turn waking up into a soft propulsion, errands done before most people have found their socks. The drive is warm rather than grim; they bring a coffee on the way back, they text the friend whose meeting they know is at ten. Around them the day's friction lowers and other people remember they wanted to be doing something too.

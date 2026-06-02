@@ -38,6 +38,11 @@ rorschachHigh: two threshold slabs worn smooth and dished
 rorschachMid: two flat stones stacked one above another
 rorschachLow: a fresh-cut block set down, edges still sharp
 rorschachLeast: a slab still rough and squared from the quarry
+facetMostTags: [navy, butter, black]
+facetHighTags: [navy, butter]
+facetMidTags: [navy, butter]
+facetLowTags: [fava, green]
+facetLeastTags: [fava, green, pinto]
 ---
 
 Funky Edamame are the Bean Zodiac's most practiced — the ones who started writing a page a morning four years ago and quietly never stopped. The thing they're good at is so worn-in it looks like a personality trait, and they've forgotten it was ever a decision. Ask how they do it and they look puzzled; the answer is just Tuesdays, hundreds of them.

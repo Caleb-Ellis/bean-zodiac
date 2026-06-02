@@ -38,6 +38,11 @@ rorschachHigh: a standing stone settled deep, two roots gripping the earth
 rorschachMid: a grain sack stood on end, a foot at each corner
 rorschachLow: a heavy statue tilting, one foot lifting off
 rorschachLeast: a wax candle slumping, both feet sliding out from under
+facetMostTags: [mung, black, chickpea]
+facetHighTags: [mung, black]
+facetMidTags: [mung, black]
+facetLowTags: [green, edamame]
+facetLeastTags: [fava, green, edamame]
 ---
 
 Infused Butter Beans are the Bean Zodiac's most composed — the one who takes the bad phone call, says "okay, thank you for letting me know," and calmly goes back to chopping the onion. It isn't an act; the steadiness goes all the way down. In a crisis they're the person everyone unconsciously orients toward, the still point that lets the rest of the room stop spinning, and they carry it without ever seeming to try.

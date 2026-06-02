@@ -38,6 +38,11 @@ rorschachHigh: a sea anemone waving its tangle of tendrils
 rorschachMid: an ink splatter throwing out ragged spokes
 rorschachLow: a pinecone with its scales drawn shut
 rorschachLeast: a cannonball sitting still in the grass
+facetMostTags: [pinto, adzuki, kidney]
+facetHighTags: [pinto, adzuki]
+facetMidTags: [adzuki, pinto]
+facetLowTags: [butter, mung]
+facetLeastTags: [butter, mung, black]
 ---
 
 Funky Green Beans are the Bean Zodiac's most whimsical — the ones whose group-chat messages take three left turns before landing somewhere unexpectedly sweet. Their kitchen drawer holds a small ceramic owl, a half-finished poem on a napkin, and a recipe rewritten in colour. The world they walk through is denser and stranger than the one most people are in, and the people lucky enough to be in earshot get to visit it on weekday afternoons.

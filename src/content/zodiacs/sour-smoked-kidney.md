@@ -38,6 +38,11 @@ rorschachHigh: a wrestler crouched, braced to drive in
 rorschachMid: a mushroom, cap above a split stem
 rorschachLow: a swaddled child held against a shoulder
 rorschachLeast: a snowman padded thick, scarf and all
+facetMostTags: [fava, edamame, pinto]
+facetHighTags: [fava, edamame]
+facetMidTags: [fava, edamame]
+facetLowTags: [butter, black]
+facetLeastTags: [butter, black, edamame]
 ---
 
 Cured Kidney Beans are the Bean Zodiac's most unsparing — when they say a thing is not working, they have already considered whether saying so will cost them the friendship, and concluded that the cost is acceptable. They are the friend you call when you want the actual answer rather than the kind one, the colleague whose review you ask for last because by then you've already decided you can take it. The loyalty in the honesty is the whole point; nobody gets read this clearly except the people they love.

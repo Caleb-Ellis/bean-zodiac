@@ -38,6 +38,11 @@ rorschachHigh: an owl fluffed loose, edges going to down
 rorschachMid: a fox curled with ears just showing
 rorschachLow: a cat sitting solid and alert on a wall
 rorschachLeast: a stone lion squat and heavy at a gate
+facetMostTags: [pinto, cannellini, black]
+facetHighTags: [pinto, cannellini]
+facetMidTags: [pinto, cannellini]
+facetLowTags: [green, fava]
+facetLeastTags: [green, fava, edamame]
 ---
 
 Cured Mung Beans are the Bean Zodiac's most wispy — their warmth moves through the room and out of it before anyone has caught the cuff of a sleeve. They are the friend who remembers your birthday with a perfect, late voice note, the colleague who notices the cold draft and finds the cardigan for someone else before forgetting their own jacket on the chair. The care is real; the room is better for them having been in it.

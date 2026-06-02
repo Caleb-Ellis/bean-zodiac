@@ -38,6 +38,11 @@ rorschachHigh: a sea urchin drifting over a smooth round stone
 rorschachMid: a spiky burr resting above a low loaf
 rorschachLow: a thistle head above a plain garden mound
 rorschachLeast: a dropped twig lying over an ordinary hill
+facetMostTags: [pinto, adzuki, chickpea]
+facetHighTags: [pinto, adzuki]
+facetMidTags: [pinto, adzuki]
+facetLowTags: [mung, butter]
+facetLeastTags: [mung, butter, black]
 ---
 
 Cultured Green Beans are the Bean Zodiac's most imaginative — the ones who answer a plain message in a register nobody ordered and tilt the whole thread somewhere stranger and better. They'll build the wrong room on purpose and move into it, wake reaching for paper before the kettle, take the door they weren't supposed to take and come back with the thing everyone else had given up describing. The interior is always running.

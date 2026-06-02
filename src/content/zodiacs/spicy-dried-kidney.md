@@ -38,6 +38,11 @@ rorschachHigh: a crab raising its claws, tail coiled near
 rorschachMid: a spiky burr beside a smooth crescent
 rorschachLow: a sea anemone swaying near a sleeping cat
 rorschachLeast: a burst dandelion beside a slack rope
+facetMostTags: [adzuki, green, pinto]
+facetHighTags: [adzuki, green]
+facetMidTags: [adzuki, green]
+facetLowTags: [butter, mung]
+facetLeastTags: [butter, mung, black]
 ---
 
 Sichuan Kidney Beans are the Bean Zodiac's most primed — and not, strictly speaking, angry people. They are people in whom small things accrue quietly, the way a kettle gets quietly warm, and then one ordinary Wednesday someone uses the wrong tone at the wrong minute and the kettle is suddenly whistling.

@@ -38,6 +38,11 @@ rorschachHigh: a pup rolled on its back, paws loose
 rorschachMid: an apple with a stalk and a leaf or two
 rorschachLow: a closed pinecone, scales drawn tight
 rorschachLeast: a chestnut burr bristling in its shell
+facetMostTags: [chickpea, mung, black]
+facetHighTags: [chickpea, mung]
+facetMidTags: [chickpea, mung]
+facetLowTags: [adzuki, chickpea]
+facetLeastTags: [adzuki, chickpea, green]
 ---
 
 Barbecued Edamame are the Bean Zodiac's most disarming — the argument is already in retreat by the time they've finished smiling. They take the blame they don't quite owe, pay the bill before anyone reaches, drop the joke that lets the room climb down without anyone losing face. Walking home, the friend they were quietly furious at an hour ago can't remember what the trouble was.

@@ -38,6 +38,11 @@ rorschachHigh: a blob of dough slumping over its bowl
 rorschachMid: a loose cloud bunched against the sky
 rorschachLow: a knotted root gripping its lump of soil
 rorschachLeast: a fist of clay set hard and cracked
+facetMostTags: [fava, green, kidney]
+facetHighTags: [fava, green]
+facetMidTags: [fava, green]
+facetLowTags: [butter, mung]
+facetLeastTags: [butter, mung, black]
 ---
 
 Dashi Chickpea Beans are the Bean Zodiac's most adaptable — drop them at a strange table and by the second drink they're laughing at the in-joke as though they were there for the original. They pick up the room's vocabulary, take the corner the walk has rerouted to without sighing about it, and end the evening having met everyone without anyone quite catching when the introduction happened.

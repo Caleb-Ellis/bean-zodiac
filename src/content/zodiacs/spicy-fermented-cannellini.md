@@ -38,6 +38,11 @@ rorschachHigh: a thistle head trimmed perfectly round
 rorschachMid: a burr above a sleeping hound
 rorschachLow: a rumpled blanket slid off the bed
 rorschachLeast: laundry spilling off a chair in a heap
+facetMostTags: [navy, black, adzuki]
+facetHighTags: [navy, black]
+facetMidTags: [navy, black]
+facetLowTags: [fava, green]
+facetLeastTags: [fava, green, edamame]
 ---
 
 Kimchi Cannellini Beans are the Bean Zodiac's most persnickety — the ones who re-read a sent message and feel the misplaced comma like a pebble in a shoe. They'll cross a room to true a tilted frame, and the room is better for it: the things they touch sit at right angles to themselves in a way most people can feel but not name.

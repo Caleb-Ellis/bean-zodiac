@@ -38,6 +38,11 @@ rorschachHigh: a hide pinned out low to dry
 rorschachMid: a crab crouched wide on the sand
 rorschachLow: a puddle of spilled ink spreading outward
 rorschachLeast: a firework burst caught flung wide open
+facetMostTags: [mung, black, navy]
+facetHighTags: [mung, black]
+facetMidTags: [mung, black]
+facetLowTags: [edamame, fava]
+facetLeastTags: [edamame, fava, green]
 ---
 
 Chipotle Butter Beans are the Bean Zodiac's most hushed — and the least likely to flinch when the room loses its head. They take the bad news without changing posture, ask one quiet question, and the panic in the room drops half an octave. Friends in crisis call them first, then call them back to apologise for the length of the first call.

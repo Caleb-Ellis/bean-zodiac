@@ -38,6 +38,11 @@ rorschachHigh: a scarecrow slumped easy on its post
 rorschachMid: a shrub with loose twigs above its trunk
 rorschachLow: a sentry stiff at attention, arms locked
 rorschachLeast: a wound spring strained tight on its base
+facetMostTags: [chickpea, black, kidney]
+facetHighTags: [chickpea, black]
+facetMidTags: [chickpea, black]
+facetLowTags: [adzuki, chickpea]
+facetLeastTags: [adzuki, chickpea, green]
 ---
 
 Glazed Mung Beans are the Bean Zodiac's most easygoing — the ones who set another plate for the guests who showed up an hour early and don't rearrange the night around it. A friend arrives sharp-cornered; out comes the chair, the glass, no questions, and the corners go. The unread thread crests past forty and they tap in warmly and leave the rest.

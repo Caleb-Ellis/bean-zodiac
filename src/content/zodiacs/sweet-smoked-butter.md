@@ -38,6 +38,11 @@ rorschachHigh: a cat curled up, ears barely showing
 rorschachMid: a cushion dented in the middle, tassels at the corners
 rorschachLow: a loaf scored sharp before the oven
 rorschachLeast: a block of butter cut clean, edges square
+facetMostTags: [pinto, cannellini, black]
+facetHighTags: [pinto, cannellini]
+facetMidTags: [pinto, cannellini]
+facetLowTags: [fava, edamame]
+facetLeastTags: [fava, edamame, green]
 ---
 
 Barbecued Butter Beans are the Bean Zodiac's most hazy — and being near them feels like an afternoon that nobody had to schedule. Conversations drift into corners and stay there; the pot stays on low; somebody puts on the second record without asking and nobody objects. They are the friend whose flat you arrive at for an hour and leave from at midnight.

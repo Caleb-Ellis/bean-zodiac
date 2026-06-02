@@ -38,6 +38,11 @@ rorschachHigh: a fist closed hard over something held
 rorschachMid: a smooth heart-shaped river stone
 rorschachLow: a peach with its seam just splitting
 rorschachLeast: a flower opening wide to the sun
+facetMostTags: [black, edamame, kidney]
+facetHighTags: [black, edamame]
+facetMidTags: [black, edamame]
+facetLowTags: [adzuki, butter]
+facetLeastTags: [adzuki, butter, mung]
 ---
 
 Scorched Navy Beans are the Bean Zodiac's most judgmental. They walk into a room and clock the chair set askew, the lamp left burning, the coat where the coat should not be; a first message lands wrong and the thread is filed before the reply finishes typing. Their standards are exacting and, more often than anyone likes to admit, exactly right.

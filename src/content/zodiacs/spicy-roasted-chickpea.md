@@ -38,6 +38,11 @@ rorschachHigh: a reef branching out in every direction
 rorschachMid: a sprawling oak with limbs reaching wide
 rorschachLow: a tide pool emptying out at low water
 rorschachLeast: a horseshoe crab beached and pulled in tight
+facetMostTags: [adzuki, green, pinto]
+facetHighTags: [adzuki, green]
+facetMidTags: [adzuki, green]
+facetLowTags: [cannellini, edamame]
+facetLeastTags: [cannellini, edamame, black]
 ---
 
 Peri-Peri Chickpeas are the Bean Zodiac's most sociable — the ones who know the barista's dog's name, who get cc'd on the group plan before they've said they're coming, who can fall into a conversation with a stranger at the bus stop and somehow leave with a restaurant recommendation. Their address book is enormous and warm and most of it is genuinely fond of them.

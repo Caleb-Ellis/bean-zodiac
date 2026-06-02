@@ -38,6 +38,11 @@ rorschachHigh: a crowned head atop hunched shoulders
 rorschachMid: a beetle with a pale split down its belly
 rorschachLow: a scarecrow left standing in an empty field
 rorschachLeast: a sack slumped against a wall, ignored
+facetMostTags: [pinto, cannellini, black]
+facetHighTags: [pinto, cannellini]
+facetMidTags: [pinto, cannellini]
+facetLowTags: [edamame, fava]
+facetLeastTags: [edamame, fava, green]
 ---
 
 Chipotle Adzuki Beans are the Bean Zodiac's most transfixing — the room tilts toward them before they've said a word. They walk in late and the conversation they're interrupting forgets what it was about. People who meant to leave order another drink. Even the friend who came to vent ends up listening instead, halfway through their own story.

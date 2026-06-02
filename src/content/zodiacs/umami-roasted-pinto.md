@@ -38,6 +38,11 @@ rorschachHigh: a sleeping bear and a coiled snake well apart
 rorschachMid: a haystack and a knotted rope across a gap
 rorschachLow: a hen and her chick pressed right up close
 rorschachLeast: two otters tangled tight in one warm heap
+facetMostTags: [adzuki, butter, kidney]
+facetHighTags: [adzuki, butter]
+facetMidTags: [adzuki, butter]
+facetLowTags: [fava, green]
+facetLeastTags: [fava, green, edamame]
 ---
 
 Rendered Pinto Beans are the Bean Zodiac's most detached — present, warm, observant, and one chair back from the head of the table by preference. From there they can see who's lying and who's listening; they reply on Thursday to what arrived Tuesday, and what they send is better for the wait. The altitude is genuine and it usually serves them.

@@ -38,6 +38,11 @@ rorschachHigh: two sparrows squabbling, barely touching
 rorschachMid: two clouds pulling apart over a ridge
 rorschachLow: two owls perched close, neither one stirring
 rorschachLeast: an hourglass with the sand long since run out
+facetMostTags: [pinto, mung, black]
+facetHighTags: [pinto, mung]
+facetMidTags: [pinto, mung]
+facetLowTags: [navy, butter]
+facetLeastTags: [navy, butter, edamame]
 ---
 
 Caramelised Green Beans are the Bean Zodiac's most fidgety — and the fidget is somehow charming, a kitchen always alive with someone moving the lamp, refilling the bowl, starting a song. They text mid-walk, cook mid-thought, rearrange the shelves while telling you about their day. The energy is generous: it sweeps other people along, and rooms feel duller when they leave.

@@ -38,6 +38,11 @@ rorschachHigh: two rams squaring off across a gap
 rorschachMid: two hills with a low pass between them
 rorschachLow: two sheep grazing apart, backs turned
 rorschachLeast: a long low bank hugging the ground
+facetMostTags: [kidney, fava, green]
+facetHighTags: [kidney, fava]
+facetMidTags: [kidney, fava]
+facetLowTags: [butter, mung]
+facetLeastTags: [butter, mung, black]
 ---
 
 Red-Hot Edamame are the Bean Zodiac's most bold — the first to speak into a quiet room, and the room arranges itself around the speaking. They flag the wrong bill before the tray hits the table, send the email while others are still drafting, and step into the awkward silence with a sentence that wasn't perfect but was, importantly, said.

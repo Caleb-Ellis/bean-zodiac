@@ -38,6 +38,11 @@ rorschachHigh: two clouds leaning together over a gap
 rorschachMid: two islands with a channel between them
 rorschachLow: a set of large fish bones
 rorschachLeast: a heavy locked chest and an anvil
+facetMostTags: [green, fava, kidney]
+facetHighTags: [green, fava]
+facetMidTags: [green, fava]
+facetLowTags: [butter, mung]
+facetLeastTags: [butter, mung, black]
 ---
 
 Brined Chickpeas are the Bean Zodiac's most flexible. A plan changes at the door and they change with it, not grudgingly but actually — the new evening becomes the one they wanted, and within ten minutes nobody could tell it wasn't. They are easy to travel with, easy to work with, the friend who can be talked into the second restaurant without making anyone feel like they're being talked into it.

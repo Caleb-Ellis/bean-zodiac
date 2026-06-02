@@ -38,6 +38,11 @@ rorschachHigh: a stool tipped onto mismatched legs
 rorschachMid: a burr beside a curled dry leaf
 rorschachLow: a cushion set next to a coiled rope
 rorschachLeast: two plain mugs set square on a shelf
+facetMostTags: [pinto, green, fava]
+facetHighTags: [pinto, green]
+facetMidTags: [pinto, green]
+facetLowTags: [mung, black]
+facetLeastTags: [mung, black, pinto]
 ---
 
 Kimchi Butter Beans are the Bean Zodiac's most eccentric — the ones whose kitchen has a ladle hung above the bed and a perfectly good reason that nobody else would have arrived at. They aren't performing strangeness; they just genuinely live an inch off-centre, and the inch has compounded over years into a whole life shaped at an angle.

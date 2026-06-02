@@ -38,6 +38,11 @@ rorschachHigh: a hand with fingers curling to beckon
 rorschachMid: a low range of hills along the skyline
 rorschachLow: a clenched fist set flat on a counter
 rorschachLeast: a row of bricks stacked level and squared
+facetMostTags: [kidney, cannellini, adzuki]
+facetHighTags: [kidney, cannellini]
+facetMidTags: [kidney, cannellini]
+facetLowTags: [fava, edamame]
+facetLeastTags: [fava, edamame, green]
 ---
 
 Barbecued Chickpeas are the Bean Zodiac's most beguiling — by the time you've registered the smoke, you've already agreed to dinner on Saturday. They lean in the doorway, ask the question that isn't quite a question, and the afternoon you'd ringfenced for errands has rearranged itself into something better. Nobody minds. Nobody quite remembers when they said yes.

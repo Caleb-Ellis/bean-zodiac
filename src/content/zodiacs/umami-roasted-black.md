@@ -38,6 +38,11 @@ rorschachHigh: a coal still licking flame from its edge
 rorschachMid: a dark stone with smoke trailing off it
 rorschachLow: a wet log smoldering, refusing to catch
 rorschachLeast: a snuffed ember gone cold and dark
+facetMostTags: [pinto, cannellini, adzuki]
+facetHighTags: [pinto, cannellini]
+facetMidTags: [pinto, cannellini]
+facetLowTags: [fava, green]
+facetLeastTags: [fava, edamame, green]
 ---
 
 Rendered Black Beans are the Bean Zodiac's most insightful — and they tend to be right early. Halfway through the meeting they already know which sentence is load-bearing; halfway through the message they've spotted the question hiding under the second paragraph. When they finally speak, the room reorganizes itself around what they said.

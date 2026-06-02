@@ -38,6 +38,11 @@ rorschachHigh: a butterfly with two mismatched wings
 rorschachMid: a smooth pebble resting against a thornbush
 rorschachLow: water sinking down a drain
 rorschachLeast: two halves of a single walnut
+facetMostTags: [pinto, fava, green]
+facetHighTags: [pinto, fava]
+facetMidTags: [pinto, fava]
+facetLowTags: [butter, mung]
+facetLeastTags: [butter, mung, black]
 ---
 
 Miso Chickpeas are the Bean Zodiac's most innovative — give one a problem about a leaky tap and somewhere in the answer is a sentence about beekeeping that turns out to be exactly right. The notebooks are full of half-drawn diagrams where two unrelated things have just met for the first time, and friends who go to them with a stuck question often leave holding a different, better question instead.

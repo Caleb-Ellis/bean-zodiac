@@ -38,6 +38,11 @@ rorschachHigh: a frost crystal branching in matched points
 rorschachMid: an oak leaf curling at its ragged edges
 rorschachLow: a torn leaf with half its lobes missing
 rorschachLeast: an ink splatter flung wide across the page
+facetMostTags: [navy, black, pinto]
+facetHighTags: [navy, black]
+facetMidTags: [navy, black]
+facetLowTags: [green, fava]
+facetLeastTags: [green, fava, edamame]
 ---
 
 Agrodolce Cannellini Beans are the Bean Zodiac's most meticulous — they catch the thing that was about to go out wrong, and they catch it without slowing down. The proofread happens in the same breath as the writing; the misaligned shelf is squared on the way past it; the email everyone else thought was finished comes back with one quiet correction that saves the morning.

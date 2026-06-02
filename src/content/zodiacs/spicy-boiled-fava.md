@@ -38,6 +38,11 @@ rorschachHigh: an anvil with its horn jutting out
 rorschachMid: a boulder with a hooked branch above it
 rorschachLow: an ox easing its head toward the grass
 rorschachLeast: a sheep curling soft around a bent crook
+facetMostTags: [kidney, edamame, adzuki]
+facetHighTags: [kidney, edamame]
+facetMidTags: [kidney, edamame]
+facetLowTags: [butter, edamame]
+facetLeastTags: [butter, edamame, black]
 ---
 
 Braised Fava Beans are the Bean Zodiac's most adamant — the ones who will make a clerk itemize a four-dollar charge, name the unsayable thing in the meeting and stay where they set down while the room rearranges around them. In a softening conversation they are the spine; people who'd rather not say the thing themselves are quietly grateful that somebody is.

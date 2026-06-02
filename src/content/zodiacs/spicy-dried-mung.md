@@ -38,6 +38,11 @@ rorschachHigh: a burr caught in a sleeping dog's fur
 rorschachMid: a small splatter beside an open-mouthed cloud
 rorschachLow: a puff of wool beside a rising bun
 rorschachLeast: a dandelion clock beside a pillow
+facetMostTags: [cannellini, edamame, black]
+facetHighTags: [cannellini, edamame]
+facetMidTags: [cannellini, edamame]
+facetLowTags: [green, fava]
+facetLeastTags: [green, fava, edamame]
 ---
 
 Sichuan Mung Beans are the Bean Zodiac's most piquant — the friend who brings soup when you're sick and, halfway through the bowl, gently asks why you've kept saying yes to the job that's making you sick. The kindness is unmistakable. So is the question. You walk away looked-after and a little reorganized.

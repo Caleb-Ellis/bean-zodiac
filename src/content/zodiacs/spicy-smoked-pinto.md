@@ -38,6 +38,11 @@ rorschachHigh: a torn coastline jagging in and out
 rorschachMid: a clump of moss spread over a stone
 rorschachLow: a doorknob rubbed smooth by years of hands
 rorschachLeast: a risen loaf gone smooth on top
+facetMostTags: [chickpea, mung, black]
+facetHighTags: [chickpea, mung]
+facetMidTags: [chickpea, mung]
+facetLowTags: [adzuki, chickpea]
+facetLeastTags: [adzuki, chickpea, green]
 ---
 
 Chipotle Pinto Beans are the Bean Zodiac's most erratic — and the most fun to watch cook. The story in the group chat has taken four turns in an hour and each turn is better than the last. The recipe abandons itself halfway through and arrives at something nobody could have planned. People stay close to them for the swerves; the dish is never the dish you ordered and is usually better.

@@ -38,6 +38,11 @@ rorschachHigh: a shroud bundled and left in the corner
 rorschachMid: a stone worn round by the river
 rorschachLow: a cat dozing warm in the sun
 rorschachLeast: a fresh loaf risen on the board
+facetMostTags: [pinto, cannellini, black]
+facetHighTags: [pinto, cannellini]
+facetMidTags: [pinto, cannellini]
+facetLowTags: [fava, edamame]
+facetLeastTags: [fava, edamame, green]
 ---
 
 Charcoal Kidney Beans are the Bean Zodiac's most haunted. They feel everything at full volume, and the feeling lingers the way smoke clings to a kitchen long after the coals go cold. Their friends learn which names and which songs send them quiet for an hour, and route around them kindly, and the routing works.

@@ -38,6 +38,11 @@ rorschachHigh: an eye peering into a spiral opening
 rorschachMid: a round stone with a curled notch in it
 rorschachLow: a snail tucked back into its sealed shell
 rorschachLeast: a closed fist, the hollow folded shut inside
+facetMostTags: [edamame, black, pinto]
+facetHighTags: [edamame, black]
+facetMidTags: [edamame, black]
+facetLowTags: [adzuki, butter]
+facetLeastTags: [adzuki, butter, mung]
 ---
 
 Infused Green Beans are the Bean Zodiac's most inquisitive — the one who asks the second question, the real one under the polite first one, and follows the thread until it arrives somewhere nobody expected. They read the source instead of the summary, notice the thing the room had agreed to leave alone, and make everyone around them a little more curious than they were. A conversation with them goes somewhere.

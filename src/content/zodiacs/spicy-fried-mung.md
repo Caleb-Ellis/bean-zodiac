@@ -38,6 +38,11 @@ rorschachHigh: a cat crouched, ears pricked toward a sound
 rorschachMid: a beetle with two feelers raised
 rorschachLow: a hare at ease, ears tipping over loose
 rorschachLeast: a cat sprawled flat, whiskers drooping
+facetMostTags: [pinto, black, adzuki]
+facetHighTags: [pinto, black]
+facetMidTags: [pinto, black]
+facetLowTags: [navy, butter]
+facetLeastTags: [navy, butter, edamame]
 ---
 
 Red-Hot Mung Beans are the Bean Zodiac's most high-strung — wired to the room at a frequency nobody else seems to register. They hear the buzz through the table, clock who left the party early, notice the laugh that came half a beat late, and have an answer typed before the question's been finished. Friends find them quick, attuned, faintly psychic.

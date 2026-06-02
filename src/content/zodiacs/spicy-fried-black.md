@@ -38,6 +38,11 @@ rorschachHigh: a moth beating upward against a closed window
 rorschachMid: a hare sitting upright, ears raised high
 rorschachLow: a kite settling, wings folding toward the grass
 rorschachLeast: a bell come to rest after the last swing
+facetMostTags: [kidney, navy, mung]
+facetHighTags: [kidney, navy]
+facetMidTags: [kidney, navy]
+facetLowTags: [butter, edamame]
+facetLeastTags: [butter, edamame, adzuki]
 ---
 
 Red-Hot Black Beans are the Bean Zodiac's most relentless — they keep going past the point where most people would call it done. The sixth pass becomes a seventh, the run goes a mile further than the plan, and the email gets one more sharpening before it gets sent. Friends notice the output and the patience behind it; nobody notices the small steady cost of never being finished.

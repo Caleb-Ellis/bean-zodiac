@@ -38,6 +38,11 @@ rorschachHigh: a kite tilted and pulling hard for the sky
 rorschachMid: a smooth river stone tapering to a point
 rorschachLow: an anchor settled flat on the seabed
 rorschachLeast: a doorstop wedged hard against the jamb
+facetMostTags: [pinto, green, adzuki]
+facetHighTags: [pinto, green]
+facetMidTags: [pinto, green]
+facetLowTags: [butter, mung]
+facetLeastTags: [butter, mung, black]
 ---
 
 Funky Fava Beans are the Bean Zodiac's most visionary — the ones who walk into a half-finished room and describe the dinner that'll happen there in two years as if it's already on the calendar. The picture is detailed, generous, and almost always right. Years later you'll look around and realize you're inside the room they were standing in alone.

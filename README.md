@@ -50,7 +50,7 @@ Markdown lives in `src/content/`. The build script (`scripts/build-content.mjs`)
 - **`beans/`** — 12 files (name, tagline, traits[], color, imageFile)
 - **`flavours/`** — 5 files (name, character, traits[], color)
 - **`forms/`** — 6 files: boiled, dried, fermented, fried, roasted, smoked (name, tagline, traits[])
-- **`zodiacs/`** — 360 files, filename `{flavour}-{form}-{bean}.md`, frontmatter: slug, bean, flavour, form, trait, dish, quote, seasonalFortune, facet\*/fortune\* gradient (Most/High/Mid/Low/Least), plus optional `question` + `answerMost/High/Mid/Low/Least` for the question-variant ritual and `rorschachMost/High/Mid/Low/Least` for the rorschach-variant ritual (see `STYLE.md` for body voice, `QUESTIONS.md` for question/answer voice, `RORSCHACH.md` for rorschach voice).
+- **`zodiacs/`** — 360 files, filename `{flavour}-{form}-{bean}.md`, frontmatter: slug, bean, flavour, form, trait, dish, quote, seasonalFortune, facet\*/fortune\* gradient (Most/High/Mid/Low/Least), plus optional `facet*Tags` for spirit-bean soft scoring, `question` + `answerMost/High/Mid/Low/Least` for the question-variant ritual, and `rorschachMost/High/Mid/Low/Least` for the rorschach-variant ritual (see `STYLE.md` for body voice, `QUESTIONS.md` for question/answer voice, `RORSCHACH.md` for rorschach voice, `FACET_TAGS.md` for tagging).
 
 ### Pages
 
@@ -75,6 +75,8 @@ Each zodiac has one `seasonalFortune` and five daily fortunes:
 - `facetMost` — strong expression of the trait
 - `facetLow` — mild expression of the opposite of the trait (e.g. if trait is "courageous" this is could be "cowardly")
 - `facetLeast` — medium expression of the opposite of the trait
+
+Each facet tier also takes a `facet*Tags` list (`facetMostTags`, `facetHighTags`, …) of **2–3 bean ids** naming the beans that vignette embodies. These drive the soft scoring pass on the Beanstalk (see Spirit Bean below) — they don't affect which fortune is shown. `build-content.mjs` validates that every entry is a known bean and has 2–3 of them, failing the build otherwise. Like `question`/`rorschach*`, they roll out gradually; a tier with no field simply gets no soft bump. See `FACET_TAGS.md` for the authoring rules.
 
 The daily fortune selected is influenced by the user's claimed/spirit bean, the current season, and a random daily bean.
 
@@ -130,7 +132,7 @@ All lookups sort IDs alphabetically before joining as key (e.g. `"adzuki-sweet"`
 All persistent state lives in a single Zustand store (`src/store/index.ts`) under the `bean-zodiac` localStorage key.
 
 - **claimed** (`ClaimedBean | null`, shape `{ id: ZodiacId, on: YYYY-MM-DD }`) — the user's claimed zodiac. Set via `setClaimed(id)`.
-- **fortuneHistory** (`FortuneEntry[]`) — daily fortune entries `{ date, zodiacId, qualityId, facetTitle, facetText, score, text, seenAt }` plus optional question-variant fields `{ variant, question, answeredQuality, answerText }`, newest first. `score`: 0 = no vote, +1 = accepted, -1 = resisted. On question entries `qualityId` reflects the answered tier and `score` is always +1. `seenAt` is the ISO timestamp the user dismissed the fortune dialog (drives whether it auto-opens on `/`).
+- **fortuneHistory** (`FortuneEntry[]`) — daily fortune entries `{ date, zodiacId, qualityId, facetTitle, facetText, facetTags, score, text, seenAt }` (`facetTags` is the shown tier's tag snapshot for soft scoring; absent on legacy entries) plus optional question-variant fields `{ variant, question, answeredQuality, answerText }`, newest first. `score`: 0 = no vote, +1 = accepted, -1 = resisted. On question entries `qualityId` reflects the answered tier and `score` is always +1. `seenAt` is the ISO timestamp the user dismissed the fortune dialog (drives whether it auto-opens on `/`).
 - **metBeans** (`MetBean[]`, shape `{ id: ZodiacId, on: YYYY-MM-DD }`) — encountered zodiacs, newest first.
 - **radarExpanded** (`boolean`) — Beanstalk mobile radar-panel expansion preference.
 
@@ -140,10 +142,12 @@ All persistent state lives in a single Zustand store (`src/store/index.ts`) unde
 
 **Spirit Bean** — three SVG radar charts (flavour, form, bean) showing affinity scores. Rendered by `SpiritBeanRadar.tsx`. Score computation in `spiritBean.ts`:
 
-- Baseline: all attributes start at 8. Claimed bean's flavour/form/bean each get +4.
-- Each accepted fortune adds +1 to that zodiac's flavour, form, and bean; thumbs-down subtracts 1. Question-variant answers always count as Accept (+1); the picked tier becomes the day's `qualityId` and drives the magnitude.
-- Heirloom/rotten qualities apply 2× magnitude; stale/rotten negate the adjustment.
-- Charts auto-scale to max value (floor 16).
+- Baseline: all attributes start at 10. Claimed bean's flavour/form/bean each get +10.
+- Each scored fortune applies in two passes (`computeSpiritBeanScores`):
+  - **Base** — the zodiac's own triple (flavour/form/bean) gets a quality-scaled value: accepted Heirloom→+4, Market→+3, Garden→+2, Stale→−1, Rotten→−2; resisting flips/mirrors (`ACCEPTED_BASE`/`RESISTED_BASE`).
+  - **Soft** — *facet variant only, beans only* — each facet tier carries 2–3 `facet*Tags` naming **beans the vignette embodies** (any of the 12, not just the zodiac's own). Accepting *lifts* those beans regardless of tier (resisting lowers them), so an anti-trait (Low/Least) line drives you off your own bean — which the base pass is pushing down — toward the beans it names. Magnitude tracks vividness, strongest at the extremes (`ACCEPTED_SOFT`/`RESISTED_SOFT`: +2/+1/+1/+1/+2 accepted). Flavour/form rings get no soft pass — all nuanced affinity lives on the bean ring. Tags are snapshotted onto the fortune entry at vote time (`getFacetTags`); only facet entries carry them.
+- Question/rorschach answers always count as Accept; the picked tier becomes the day's `qualityId`. They get no soft pass (their tags belong to the unseen facet vignette), so the base pass uses a stronger `ANSWERED_BASE` table instead — +6/+4/+3/−2/−3 — roughly the accepted base plus one tag's worth of soft, reflecting that a deliberate pick is a firmer signal than a thumbs-up on a rolled tier.
+- There is no longer any neighbour bleed — the `SPIRIT_*_RING` arrays are purely radar-chart point ordering now, not scoring adjacency. Charts auto-scale to max value (floor 16).
 
 **Beanstalk** — scrollable vertical timeline of fortune history. Left panel: sticky, shows spirit zodiac + radar charts that lerp to cumulative scores at the active node. Right panel: scrollable timeline with a scroll-tracked fill bar. Year filter defaults to current bean year.
 

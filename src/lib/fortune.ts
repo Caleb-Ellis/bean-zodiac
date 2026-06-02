@@ -11,6 +11,7 @@ import {
   type FlavourId,
   type FormId,
   type QualityId,
+  type FacetTagId,
   type Zodiac,
   type ZodiacId,
   type ZodiacMetadata,
@@ -173,6 +174,19 @@ export const getFortuneText = (
   if (qualityId === QualityIds.Stale) return zodiac.facetLow;
   if (qualityId === QualityIds.Rotten) return zodiac.facetLeast;
   return zodiac.facetMid;
+};
+
+// The shown facet tier's optional tags, snapshotted onto the fortune entry so
+// spiritBean can replay the soft scoring pass without async zodiac access.
+export const getFacetTags = (
+  zodiac: Zodiac,
+  qualityId: QualityId,
+): FacetTagId[] | undefined => {
+  if (qualityId === QualityIds.Heirloom) return zodiac.facetMostTags;
+  if (qualityId === QualityIds.Market) return zodiac.facetHighTags;
+  if (qualityId === QualityIds.Stale) return zodiac.facetLowTags;
+  if (qualityId === QualityIds.Rotten) return zodiac.facetLeastTags;
+  return zodiac.facetMidTags;
 };
 
 // Each fortune tier has two written variants (e.g. fortuneMost / fortuneMost2).

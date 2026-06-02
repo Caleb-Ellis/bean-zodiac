@@ -38,6 +38,11 @@ rorschachHigh: a cracked pod spilling beans past its edge
 rorschachMid: two walnut halves with crumbs scattered between
 rorschachLow: a closed pod beside a few stray seeds
 rorschachLeast: two acorns set whole in a tidy bowl
+facetMostTags: [chickpea, mung, black]
+facetHighTags: [chickpea, mung]
+facetMidTags: [chickpea, mung]
+facetLowTags: [adzuki, chickpea]
+facetLeastTags: [adzuki, chickpea, green]
 ---
 
 Sichuan Pinto Beans are the Bean Zodiac's most untempered — full pitch is their working volume and there is no dial. Asked for a paragraph, they file an essay. Invited to dinner, they bring a four-course menu and the wine pairings. The work is genuinely good, often great, always more than the brief asked for, and people learn to assign them small things knowing they'll get back something large and excellent.

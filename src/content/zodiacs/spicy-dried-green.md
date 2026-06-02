@@ -38,6 +38,11 @@ rorschachHigh: a tuning fork still ringing in the hand
 rorschachMid: a deep-notched crown with two curling prongs
 rorschachLow: a wishbone left drying on the sill
 rorschachLeast: a slingshot dropped, its prongs gone slack
+facetMostTags: [adzuki, kidney, pinto]
+facetHighTags: [adzuki, kidney]
+facetMidTags: [adzuki, kidney]
+facetLowTags: [butter, mung]
+facetLeastTags: [butter, mung, black]
 ---
 
 Sichuan Green Beans are the Bean Zodiac's most electric — the friend whose arrival changes the wattage of the room within a minute. Group chats wake up when they post. A slow Friday meeting sharpens around the question they ask first. They are the reason three people are still up at 2am and unsure how that happened, and largely glad it did.

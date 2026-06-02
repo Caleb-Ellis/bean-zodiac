@@ -38,6 +38,11 @@ rorschachHigh: a thistle head over a bare stem
 rorschachMid: an acorn sitting in its spiked cup
 rorschachLow: a peony nodding above its leaves
 rorschachLeast: a ripe fig bursting over its stem
+facetMostTags: [cannellini, edamame, black]
+facetHighTags: [cannellini, edamame]
+facetMidTags: [cannellini, edamame]
+facetLowTags: [green, fava]
+facetLeastTags: [green, fava, edamame]
 ---
 
 Dehydrated Pinto Beans are the Bean Zodiac's most astringent. The piece they show you has had every flattering sentence removed; the speech at the leaving do contains no superlatives and somehow lands harder for it; the room they live in is expressive without being decorated, every object earning the space it takes. People come to them for taste because they can be trusted not to lie upward.

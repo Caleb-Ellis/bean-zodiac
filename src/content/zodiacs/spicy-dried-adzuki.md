@@ -38,6 +38,11 @@ rorschachHigh: a bird breaking upward, wings flung wide
 rorschachMid: a longhorn skull above a spattered stain
 rorschachLow: a kite drifting over a settling puddle
 rorschachLeast: a wide yoke set down beside still water
+facetMostTags: [kidney, green, pinto]
+facetHighTags: [kidney, green]
+facetMidTags: [kidney, green]
+facetLowTags: [butter, mung]
+facetLeastTags: [butter, mung, black]
 ---
 
 Sichuan Adzuki Beans are the Bean Zodiac's most catalytic — they walk into a stalled room and within a minute someone is finally booking the thing. They don't argue, don't rally; they just say the one sentence the group has been circling, and the circling stops. Friends learn to bring them the half-formed plan that's been sitting in a draft for a week, because a Sichuan Adzuki will read it once and reply with a date.

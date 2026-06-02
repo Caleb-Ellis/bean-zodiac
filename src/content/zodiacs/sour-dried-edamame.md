@@ -38,6 +38,11 @@ rorschachHigh: a beaked head with two raised ears
 rorschachMid: an acorn with its cap still on
 rorschachLow: a kitten with its ears barely budding
 rorschachLeast: a round dumpling with a pinched top
+facetMostTags: [kidney, fava, pinto]
+facetHighTags: [kidney, fava]
+facetMidTags: [kidney, fava]
+facetLowTags: [butter, black]
+facetLeastTags: [butter, black, kidney]
 ---
 
 Dehydrated Edamame are the Bean Zodiac's most pointed. In a meeting that has been wandering for forty minutes they ask the one sentence that ends it; in a thread that has run to fourteen replies they post the line that closes it. They do not soften, and they do not pad, and the people who work with them learn fast that a short answer from them is not coldness, it's the real one.

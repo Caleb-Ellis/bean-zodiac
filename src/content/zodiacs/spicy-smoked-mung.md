@@ -38,6 +38,11 @@ rorschachHigh: two hands curled close around a warmth
 rorschachMid: a beetle with two antennae curling up
 rorschachLow: two strangers leaning slightly away on a bench
 rorschachLeast: a pair of empty gloves dropped side by side
+facetMostTags: [navy, kidney, pinto]
+facetHighTags: [navy, kidney]
+facetMidTags: [navy, kidney]
+facetLowTags: [butter, edamame]
+facetLeastTags: [butter, edamame, black]
 ---
 
 Chipotle Mung Beans are the Bean Zodiac's most invested — they remember the offhand worry you mentioned in February and ask about it, gently, in June. The birthday gift arrives with the inside joke from a dinner two years ago. They've kept the thread when everyone else dropped it, and the people they tend often only learn the full extent of it years later, accidentally, from someone else.

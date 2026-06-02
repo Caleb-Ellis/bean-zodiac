@@ -38,6 +38,11 @@ rorschachHigh: a beetle, two antennae raised and twitching
 rorschachMid: an owl with two small ear-tufts up
 rorschachLow: a roosting hen, both wings folded flat down
 rorschachLeast: a sleeping cat, ears folded down and tucked in
+facetMostTags: [green, edamame, black]
+facetHighTags: [green, edamame]
+facetMidTags: [green, edamame]
+facetLowTags: [adzuki, mung]
+facetLeastTags: [adzuki, mung, butter]
 ---
 
 Cultured Fava Beans are the Bean Zodiac's most questioning — they're the ones who ask the third question, after the first two have been met with manners, and the third is the one that gets the real answer. At a table quietly agreeing not to mention the obvious thing, they'll name it, kindly, before anyone stands up. Nothing gets past them on the strength of sounding settled.

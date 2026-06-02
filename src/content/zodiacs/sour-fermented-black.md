@@ -38,6 +38,11 @@ rorschachHigh: a beetle, one stray leg caught against the dark
 rorschachMid: a thundercloud massing before the rain
 rorschachLow: a clenched fist with nothing slipping past it
 rorschachLeast: a single ink blot, no specks around it
+facetMostTags: [pinto, cannellini, adzuki]
+facetHighTags: [pinto, cannellini]
+facetMidTags: [pinto, cannellini]
+facetLowTags: [green, fava]
+facetLeastTags: [green, fava, edamame]
 ---
 
 Pickled Black Beans are the Bean Zodiac's most perceptive — they will tell you which seat at the table the bad news arrived from before anyone has used the word _news_. They notice the redirected glance, the one friend who's been laughing on a beat's delay, the way someone's shoulders set when a name comes up. Months of these small readings settle and clarify, and by the time they speak the picture has been true for so long it feels rude to be the one saying it.

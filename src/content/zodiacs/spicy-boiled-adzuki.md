@@ -38,6 +38,11 @@ rorschachHigh: a torch flaring above two cupped hands
 rorschachMid: a moth perched over a narrow vase
 rorschachLow: a candle guttering low in a stone holder
 rorschachLeast: a banked ember cupped in cold ash
+facetMostTags: [kidney, green, pinto]
+facetHighTags: [kidney, green]
+facetMidTags: [kidney, green]
+facetLowTags: [butter, mung]
+facetLeastTags: [butter, mung, black]
 ---
 
 Braised Adzuki Beans are the Bean Zodiac's most spirited — the kind whose arrival rearranges a room before they've sat down. They run hot for the people they love, give the toast nobody asked for, put the song on twice; an ordinary Tuesday with one of them in it stops feeling ordinary.

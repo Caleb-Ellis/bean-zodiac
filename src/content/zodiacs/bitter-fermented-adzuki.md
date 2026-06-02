@@ -38,6 +38,11 @@ rorschachHigh: a hedgehog curled up and gone to sleep
 rorschachMid: a rough round loaf cooling on the counter
 rorschachLow: a clod of fresh earth turned up by a spade
 rorschachLeast: a snowball already starting to melt away
+facetMostTags: [pinto, mung, black]
+facetHighTags: [pinto, mung]
+facetMidTags: [pinto, mung]
+facetLowTags: [butter, navy]
+facetLeastTags: [butter, navy, edamame]
 ---
 
 Cultured Adzuki Beans are the Bean Zodiac's most nostalgic — and they keep the receipts. They know which café it was, what song was on, who said the thing that everyone else has forgotten was ever said. They don't romanticize the past so much as refuse to let any of it be thrown out, and there's a quiet generosity in that: someone has to remember the good years on everyone's behalf.

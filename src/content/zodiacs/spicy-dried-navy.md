@@ -38,6 +38,11 @@ rorschachHigh: a spiked burr held fast under wide wings
 rorschachMid: a winged crest above a spiky round base
 rorschachLow: a kite tugging at a loosening weight
 rorschachLeast: a gull lifting off, the anchor let go
+facetMostTags: [kidney, fava, edamame]
+facetHighTags: [kidney, fava]
+facetMidTags: [kidney, fava]
+facetLowTags: [butter, edamame]
+facetLeastTags: [butter, edamame, black]
 ---
 
 Sichuan Navy Beans are the Bean Zodiac's most unflinching — the friend whose position on something said in January will be exactly their position in November, and they will say it the same way, in the same kitchen, with the same calm. Under pressure they do not bend, which is why people trust them with the things that matter. The principle holds.

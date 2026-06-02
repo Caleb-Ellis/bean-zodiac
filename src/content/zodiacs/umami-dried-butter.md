@@ -38,6 +38,11 @@ rorschachHigh: a soft candle slumping into a pool of wax
 rorschachMid: a mushroom cap with spores drifting beneath
 rorschachLow: a firework bursting, sparks raining off the edges
 rorschachLeast: a paint can kicked over, droplets flung everywhere
+facetMostTags: [mung, black, kidney]
+facetHighTags: [mung, black]
+facetMidTags: [mung, black]
+facetLowTags: [fava, edamame]
+facetLeastTags: [fava, edamame, green]
 ---
 
 Aged Butter Beans are the Bean Zodiac's most mellow — the kind of presence that walks into a tense room and the tension forgets what it was about. They take long lunches, finish sentences on their own clock, and refuse, gently and absolutely, to be rushed by anyone's emergency. Friends drift to them in bad weeks the way people drift to a warm kitchen.

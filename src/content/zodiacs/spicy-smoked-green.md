@@ -38,6 +38,11 @@ rorschachHigh: a dandelion head loosing its seeds upward
 rorschachMid: a mushroom with a round cap and stem
 rorschachLow: a tree with its trunk set in the bank
 rorschachLeast: an oak gripping the ground with deep roots
+facetMostTags: [chickpea, mung, black]
+facetHighTags: [chickpea, mung]
+facetMidTags: [chickpea, mung]
+facetLowTags: [adzuki, chickpea]
+facetLeastTags: [adzuki, chickpea, pinto]
 ---
 
 Chipotle Green Beans are the Bean Zodiac's most untethered — and the first to feel an urgency no one in the room has named yet. They pick up an unease an hour before the meeting goes sideways, and reorganise the afternoon to be ready. They drop everything for the friend who hasn't called yet but is about to. The instincts are real, and they're usually right.

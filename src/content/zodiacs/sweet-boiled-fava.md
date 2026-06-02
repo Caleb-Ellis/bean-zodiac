@@ -38,6 +38,11 @@ rorschachHigh: a tick dug in and holding on
 rorschachMid: a knot of wood in a plank
 rorschachLow: a fist beginning to open its fingers
 rorschachLeast: a loose ball of yarn coming undone
+facetMostTags: [kidney, edamame, pinto]
+facetHighTags: [kidney, edamame]
+facetMidTags: [kidney, edamame]
+facetLowTags: [butter, edamame]
+facetLeastTags: [butter, edamame, black]
 ---
 
 Candied Fava Beans are the Bean Zodiac's most insistent — and the warmest. They ask the same question on week one and week six in exactly the same kind voice, and somewhere around week four the room realises that this bean does not get bored, does not escalate, does not go away, and the easier path is simply to answer them. The honey is genuine; the patience is the muscle underneath.

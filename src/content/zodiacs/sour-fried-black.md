@@ -38,6 +38,11 @@ rorschachHigh: a chess pawn standing alone on the board
 rorschachMid: a cypress tree narrowing to a single point
 rorschachLow: a candle flame guttering sideways off its wide stub
 rorschachLeast: a melted taper slumped over its pooled wax
+facetMostTags: [kidney, fava, edamame]
+facetHighTags: [kidney, fava]
+facetMidTags: [kidney, fava]
+facetLowTags: [butter, edamame]
+facetLeastTags: [butter, edamame, pinto]
 ---
 
 Agrodolce Black Beans are the Bean Zodiac's most direct — they finish sentences other people are still trying to start. Watch one in a meeting that's been circling for half an hour and you'll see the moment they decide the air has had enough; the verdict comes out flat, accurate, and twenty minutes earlier than anyone else was prepared for.

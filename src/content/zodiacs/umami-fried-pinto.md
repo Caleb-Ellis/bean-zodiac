@@ -38,6 +38,11 @@ rorschachHigh: a sandcastle slumping, a turret breaking away
 rorschachMid: a russet potato resting on a board
 rorschachLow: a loaf sitting whole and uncut
 rorschachLeast: a cast-iron weight set firm on the floor
+facetMostTags: [chickpea, mung, black]
+facetHighTags: [chickpea, mung]
+facetMidTags: [chickpea, mung]
+facetLowTags: [adzuki, chickpea]
+facetLeastTags: [adzuki, chickpea, green]
 ---
 
 Tempura Pinto Beans are the Bean Zodiac's most unreliable — and the warmest people at the table while they're being it. The yes comes out hot: weekends pledged, trips planned, favors offered before the favor has finished being asked for. They mean every word at the moment the words are leaving. The friend goes home buoyed; the week ahead looks, briefly, fuller and kinder than it did at six.

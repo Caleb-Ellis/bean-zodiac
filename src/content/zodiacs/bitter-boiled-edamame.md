@@ -38,6 +38,11 @@ rorschachHigh: two rabbits sat up, a clear gap between them
 rorschachMid: two peaks rising from a low spread base
 rorschachLow: one big-eared hound sprawled across the ground
 rorschachLeast: a shaggy two-eared sheepdog taken in at a glance
+facetMostTags: [navy, black, pinto]
+facetHighTags: [navy, black]
+facetMidTags: [navy, black]
+facetLowTags: [adzuki, butter]
+facetLeastTags: [adzuki, butter, mung]
 ---
 
 Infused Edamame are the Bean Zodiac's most analytical — the one who takes the tangle everyone else is staring at, turns it over, and quietly hands back the load-bearing piece nobody had spotted. They want to know how a thing is actually built, and the patience to find out makes them the person you bring the genuinely hard problem to. When they say a plan will hold, it holds.

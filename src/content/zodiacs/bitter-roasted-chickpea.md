@@ -38,6 +38,11 @@ rorschachHigh: a person waving toward a friend approaching
 rorschachMid: a boulder beside a loose tangle of vines
 rorschachLow: a hunched figure turned from an open gate
 rorschachLeast: a rock and a wreath left apart
+facetMostTags: [adzuki, green, kidney]
+facetHighTags: [adzuki, green]
+facetMidTags: [adzuki, green]
+facetLowTags: [cannellini, black]
+facetLeastTags: [cannellini, edamame, black]
 ---
 
 Wood-Fired Chickpeas are the Bean Zodiac's most outgoing — they move toward people as a matter of course. They walk into a kitchen and within a minute the chutney is being argued over; they pull out the second chair and leave the bowl on the counter, small invitations set down before anyone's knocked. People gather to them without quite deciding to.

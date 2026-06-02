@@ -38,6 +38,11 @@ rorschachHigh: a rose in full bloom over its pot
 rorschachMid: a feathered hat sitting on a round head
 rorschachLow: wilted petals drooping over a chipped clay pot
 rorschachLeast: cold ash settling over a dark mound
+facetMostTags: [adzuki, chickpea, pinto]
+facetHighTags: [adzuki, chickpea]
+facetMidTags: [adzuki, chickpea]
+facetLowTags: [butter, mung]
+facetLeastTags: [butter, mung, black]
 ---
 
 Chimichurri Green Beans are the Bean Zodiac's most cheerful — the brightness keeps moving room to room, settling where it is needed. They greet the cashier first, keep the exclamation point in the reply, make the second coffee without being asked. The warmth doesn't read as performance because it isn't: a hard week shows up in the voice, and the cheer arrives anyway, alongside it.

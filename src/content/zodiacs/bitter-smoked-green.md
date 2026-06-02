@@ -38,6 +38,11 @@ rorschachHigh: a storm cloud massing where none was forecast
 rorschachMid: a clump of moss pulled from a wall
 rorschachLow: a cat curled asleep on the cushion
 rorschachLeast: a warm loaf cooling on the board
+facetMostTags: [pinto, cannellini, black]
+facetHighTags: [pinto, cannellini]
+facetMidTags: [pinto, cannellini]
+facetLowTags: [fava, edamame]
+facetLeastTags: [fava, edamame, kidney]
 ---
 
 Charcoal Green Beans are the Bean Zodiac's most eerie. They call back before the friend has said anything is wrong, pay the small debt before it's been asked for, wake at three to move the furniture and turn out to have been right about the room. Things tend to rearrange themselves around their having already been there.

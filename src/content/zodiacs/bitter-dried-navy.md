@@ -38,6 +38,11 @@ rorschachHigh: two stone bollards set in concrete
 rorschachMid: two gourds resting on a table
 rorschachLow: two water balloons sagging out of shape
 rorschachLeast: two soap bubbles wobbling about to drift
+facetMostTags: [cannellini, black, pinto]
+facetHighTags: [cannellini, black]
+facetMidTags: [cannellini, black]
+facetLowTags: [green, fava]
+facetLeastTags: [green, edamame, fava]
 ---
 
 Desiccated Navy Beans are the Bean Zodiac's most rigid — they pay the debt by the date they named even when the other party has forgotten it, follow the proven method to the hour, and will not be hurried by a hand on the elbow. If they said they would, they will; you could set a clock by them, and many people quietly do.

@@ -38,6 +38,11 @@ rorschachHigh: a snowman with a melting cinched waist
 rorschachMid: an hourglass with sand mid-fall
 rorschachLow: two bread loaves rising in one tin
 rorschachLeast: two pillows piled by a warm hearth
+facetMostTags: [kidney, fava, edamame]
+facetHighTags: [kidney, fava]
+facetMidTags: [kidney, fava]
+facetLowTags: [butter, black]
+facetLeastTags: [butter, black, edamame]
 ---
 
 Dehydrated Green Beans are the Bean Zodiac's most bracing. They are the friend who opens the window in a stuffy room without asking, who replies "no, do the other one" to the long agonised text, who arrives at a wake with a sentence that finally lets the family laugh. There is no preamble around them and no padding underneath, and the people who love them come for exactly that — the moment you have stopped lying to yourself by the second cup.

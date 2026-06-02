@@ -38,6 +38,11 @@ rorschachHigh: a guard dog's head lifted and turned
 rorschachMid: a rounded rock with one chipped peak
 rorschachLow: a hen settled low over its eggs
 rorschachLeast: a sleeping fox curled nose to tail
+facetMostTags: [navy, cannellini, black]
+facetHighTags: [navy, cannellini]
+facetMidTags: [navy, cannellini]
+facetLowTags: [edamame, green]
+facetLeastTags: [edamame, green, pinto]
 ---
 
 Dashi Fava Beans are the Bean Zodiac's most vigilant — they hear the burner change pitch from the next room and turn it before anyone has called out. They read the email twice, once for the words and once for what the person isn't saying, and at the dinner table they clock who has gone quiet a full minute before anyone else notices the chair has stopped speaking.

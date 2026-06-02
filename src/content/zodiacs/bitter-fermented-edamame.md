@@ -38,6 +38,11 @@ rorschachHigh: an ox yoke notched evenly for the load
 rorschachMid: a low hill rising to two rounded peaks
 rorschachLow: a bat with both wings flung open
 rorschachLeast: a heart, the two chambers swelling at the top
+facetMostTags: [navy, black, chickpea]
+facetHighTags: [navy, black]
+facetMidTags: [navy, black]
+facetLowTags: [adzuki, mung]
+facetLeastTags: [adzuki, mung, butter]
 ---
 
 Cultured Edamame are the Bean Zodiac's most rational — they won't sign off on a Friday feeling, won't say yes until the numbers are in the spreadsheet, and have never once regretted leaving the angry reply overnight. They turn a thing over until they can actually account for it, and the verdict that comes out the far end is usually the right one. People bring them the messy decisions precisely because they don't flinch toward the comfortable answer.

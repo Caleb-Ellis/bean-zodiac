@@ -38,6 +38,11 @@ rorschachHigh: a figure drawn into a heavy hooded cloak
 rorschachMid: a cottage loaf, two rounds stacked
 rorschachLow: a child reaching up to be lifted
 rorschachLeast: a dancer thrown open mid-lift overhead
+facetMostTags: [butter, mung, black]
+facetHighTags: [butter, mung]
+facetMidTags: [butter, mung]
+facetLowTags: [fava, edamame]
+facetLeastTags: [fava, edamame, green]
 ---
 
 Charcoal Cannellini Beans are the Bean Zodiac's most hermetic. The buzzer is a suggestion. The unread thread sits for three days not from malice but because the door, once shut for the evening, is genuinely shut. They have built a life with exactly the number of people in it they meant to have, and it runs beautifully, quietly, on schedule.

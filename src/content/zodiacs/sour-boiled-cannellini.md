@@ -38,6 +38,11 @@ rorschachHigh: a crab, one claw measured against the other
 rorschachMid: an island with a few small skerries off it
 rorschachLow: an inkblot still creeping past its own edge
 rorschachLeast: a spilled drink spreading wherever it likes
+facetMostTags: [kidney, navy, black]
+facetHighTags: [kidney, navy]
+facetMidTags: [kidney, navy]
+facetLowTags: [butter, black]
+facetLeastTags: [butter, black, edamame]
 ---
 
 Brined Cannellini Beans are the Bean Zodiac's most exacting. The standard does not move when the room gets loud or when everyone else has agreed something close enough is close enough; the comma in the wrong place at lunchtime is still in the wrong place at six. There is something steadying about being near them — small things that other people had stopped noticing get quietly put right, and the work they touch reads, afterwards, as having been thought about.

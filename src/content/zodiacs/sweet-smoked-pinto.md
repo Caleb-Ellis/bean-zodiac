@@ -38,6 +38,11 @@ rorschachHigh: an antlered head dissolving at the edges
 rorschachMid: a stag's head with one eye showing
 rorschachLow: a deer skull set plainly on a shelf
 rorschachLeast: a horned helmet bolted to a wooden stand
+facetMostTags: [cannellini, black, kidney]
+facetHighTags: [cannellini, black]
+facetMidTags: [cannellini, black]
+facetLowTags: [fava, edamame]
+facetLeastTags: [fava, edamame, green]
 ---
 
 Barbecued Pinto Beans are the Bean Zodiac's most dreamlike — and the line they dropped at supper is still being quoted on the porch hours after they've gone home. The voice note arrives at midnight, trails off mid-sentence, lands like an image rather than a message; the post-it on the cookbook is read a year later and held up to the light.

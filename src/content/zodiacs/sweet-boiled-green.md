@@ -38,6 +38,11 @@ rorschachHigh: a sparrow lifting off, one wing up
 rorschachMid: a sun hat tipped on its side
 rorschachLow: a sleeping cat curled in a heap
 rorschachLeast: a sandbag dropped flat on the floor
+facetMostTags: [pinto, adzuki, navy]
+facetHighTags: [pinto, adzuki]
+facetMidTags: [pinto, adzuki]
+facetLowTags: [butter, mung]
+facetLeastTags: [butter, mung, black]
 ---
 
 Candied Green Beans are the Bean Zodiac's most playful — the one who pulls the dinner out of its dip with a single ridiculous aside, smuggles a tiny joke into the slide deck, and keeps a small running gag going with a friend for nine years without anyone ever explaining it to a third party. The lightness doesn't tire; it's their working temperature, not a performance.

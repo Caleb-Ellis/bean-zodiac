@@ -38,6 +38,11 @@ rorschachHigh: a toad hunched low and holding still
 rorschachMid: a squat clay jar with a little lid
 rorschachLow: a kettle just starting to let off steam
 rorschachLeast: a storm cloud breaking open into rain
+facetMostTags: [mung, butter, adzuki]
+facetHighTags: [mung, butter]
+facetMidTags: [mung, butter]
+facetLowTags: [green, fava]
+facetLeastTags: [green, fava, edamame]
 ---
 
 Cultured Black Beans are the Bean Zodiac's most brooding — they take a question inward and don't surface with it until it's worth surfacing. Ask one how they really feel about something and you get a long pause, then nothing, then a paragraph eleven days later that's so exactly right you forgive the wait. They don't speak to think; they think, fully, and then speak once.

@@ -38,6 +38,11 @@ rorschachHigh: a bull lowering its head to charge
 rorschachMid: a snowman, head settled on a broad base
 rorschachLow: a monk seated, hands folded in his lap
 rorschachLeast: a pillow slumped against a soft cushion
+facetMostTags: [kidney, edamame, cannellini]
+facetHighTags: [kidney, edamame]
+facetMidTags: [kidney, edamame]
+facetLowTags: [butter, edamame]
+facetLeastTags: [butter, edamame, black]
 ---
 
 Tempura Fava Beans are the Bean Zodiac's most aggressive — the ones who walk into the stalled meeting and end it in four minutes. They make the call no one wants to make, send the message everyone has been drafting for a week, raise the bill error at the table while the others are still planning to email about it tomorrow. The room moves because they decided it would.

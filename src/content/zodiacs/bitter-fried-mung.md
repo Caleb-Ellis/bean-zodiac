@@ -38,6 +38,11 @@ rorschachHigh: a cat crouched low before it moves
 rorschachMid: a snowman of two stacked balls
 rorschachLow: a snowman tipping forward off its base
 rorschachLeast: a toddler lurching headlong off a step
+facetMostTags: [cannellini, navy, black]
+facetHighTags: [cannellini, navy]
+facetMidTags: [cannellini, navy]
+facetLowTags: [fava, green]
+facetLeastTags: [fava, green, edamame]
 ---
 
 Scorched Mung Beans are the Bean Zodiac's most cautious. They read a room the way a cook reads oil — waiting for the pitch that means now, refusing the half-beat early — and when they finally move it's fast and clean, because the checking is already done. They leave ten minutes early, reread the message once, and very rarely get caught out.

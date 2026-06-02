@@ -38,6 +38,11 @@ rorschachHigh: smoke curling out toward a lit window
 rorschachMid: a snail beside its own coiled shell
 rorschachLow: a hunched figure turned away from the room
 rorschachLeast: a hedgehog balled up deep in the brush
+facetMostTags: [adzuki, kidney, pinto]
+facetHighTags: [adzuki, kidney]
+facetMidTags: [adzuki, kidney]
+facetLowTags: [fava, edamame]
+facetLeastTags: [fava, edamame, green]
 ---
 
 Peri-Peri Cannellini Beans are the Bean Zodiac's most charismatic — they walk into a kitchen and the conversation reroutes mid-sentence to include them. They tell the story everyone retells later; they make the introduction that becomes the friendship; the photo from the night is the one they're in the middle of, hands moving.

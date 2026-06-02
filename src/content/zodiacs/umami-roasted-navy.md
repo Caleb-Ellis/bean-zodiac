@@ -38,6 +38,11 @@ rorschachHigh: a locket and its old chain knotted loosely up
 rorschachMid: a stone next to a loose tangle of thread
 rorschachLow: a new spool beside a fresh ball of yarn wound tight
 rorschachLeast: a bare bobbin beside a knot cut loose and dropped
+facetMostTags: [pinto, mung, black]
+facetHighTags: [pinto, mung]
+facetMidTags: [pinto, mung]
+facetLowTags: [butter, edamame]
+facetLeastTags: [butter, edamame, cannellini]
 ---
 
 Rendered Navy Beans are the Bean Zodiac's most wistful — every room they live in slowly becomes an archive of things someone once touched. The garlic skin on the sill, the rosemary in the drawer, the recipe cooked while saying the name of the person it came from. The warmth they carry is genuinely the past's warmth, kept honest, kept alive.

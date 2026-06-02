@@ -38,6 +38,11 @@ rorschachHigh: a cat halfway into the curl of a basket
 rorschachMid: an anvil beside a coiled length of rope
 rorschachLow: a closed fist next to a shell pulled tight shut
 rorschachLeast: a shut clam beside a snail sealed deep in its shell
+facetMostTags: [edamame, black, pinto]
+facetHighTags: [edamame, black]
+facetMidTags: [edamame, black]
+facetLowTags: [adzuki, butter]
+facetLeastTags: [adzuki, butter, mung]
 ---
 
 Rendered Green Beans are the Bean Zodiac's most curious — and warmly so, without the collecting energy that curiosity sometimes has. They ask the second question, the one past polite, and the stranger across from them lights up at having been asked it. They read the footnote before the headline because that's where someone interesting is usually hiding.

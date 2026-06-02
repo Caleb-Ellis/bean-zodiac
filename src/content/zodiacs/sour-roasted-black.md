@@ -38,6 +38,11 @@ rorschachHigh: a toad mid-hop, eyes lifted upward
 rorschachMid: a beetle with two antennae raised
 rorschachLow: a face in profile glancing aside, one eye narrowed
 rorschachLeast: a clenched fist with the thumb tucked in
+facetMostTags: [cannellini, butter, mung]
+facetHighTags: [cannellini, butter]
+facetMidTags: [cannellini, butter]
+facetLowTags: [green, fava]
+facetLeastTags: [green, fava, edamame]
 ---
 
 Chimichurri Black Beans are the Bean Zodiac's most earnest — the ones who answer "how are you" and then actually answer it. The compliment isn't deflected, the condolence isn't dressed up as a joke, the table goes quiet for a beat because somebody finally said the thing out loud. People leave conversations with them feeling met.

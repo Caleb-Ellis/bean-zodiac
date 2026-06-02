@@ -38,6 +38,11 @@ rorschachHigh: a wolf's head squared off against its mirror
 rorschachMid: two animal heads facing across a seam
 rorschachLow: two heads turned away, droplets scattering between
 rorschachLeast: two faces drifting apart, edges flaking off
+facetMostTags: [chickpea, mung, black]
+facetHighTags: [chickpea, mung]
+facetMidTags: [chickpea, mung]
+facetLowTags: [adzuki, chickpea]
+facetLeastTags: [adzuki, chickpea, green]
 ---
 
 Sichuan Cannellini Beans are the Bean Zodiac's most unerring — the friend whose one-line note on your draft is the note you should have written yourself. They don't pad and they don't soften. When they say the third paragraph isn't earning its place, the third paragraph isn't earning its place, and you know it before you've finished reading their message.

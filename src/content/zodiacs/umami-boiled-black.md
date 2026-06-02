@@ -38,6 +38,11 @@ rorschachHigh: an animal hide laid flat to cure
 rorschachMid: a low island spread across dark water
 rorschachLow: a bat startled mid-flap off a branch
 rorschachLeast: a moth thrashing wide against the glass
+facetMostTags: [chickpea, mung, pinto]
+facetHighTags: [chickpea, mung]
+facetMidTags: [chickpea, mung]
+facetLowTags: [fava, edamame]
+facetLeastTags: [fava, edamame, green]
 ---
 
 Dashi Black Beans are the Bean Zodiac's most patient — they will outlast the question. The decision sits covered for a week and they don't lift the lid; the apology gets drafted in March and sent in May, by which point it has cooked down to exactly what it means. They are wonderful in a long crisis and unreadable in a short one, because the same stillness that lets a braise deepen also looks, from across the room, like nothing happening.

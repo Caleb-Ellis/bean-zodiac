@@ -38,6 +38,11 @@ rorschachHigh: a kite tugging sideways off its string
 rorschachMid: a potato joined to a clump of dirt
 rorschachLow: a hen settled beside her one chick
 rorschachLeast: two beads strung on one taut thread
+facetMostTags: [pinto, fava, green]
+facetHighTags: [pinto, fava]
+facetMidTags: [pinto, green]
+facetLowTags: [butter, mung]
+facetLeastTags: [butter, mung, black]
 ---
 
 Kimchi Chickpeas are the Bean Zodiac's most offbeat — the ones who can talk to anyone for two hours and somehow end up doing it with the person nobody else placed. They have a gift for the side-door conversation: the warmth is real, the curiosity unfeigned, and the stranger by the kitchen leaves the night feeling unusually seen.

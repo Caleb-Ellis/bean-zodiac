@@ -38,6 +38,11 @@ rorschachHigh: a moth with both wings flung fully open
 rorschachMid: a stingray gliding, fins spread wide
 rorschachLow: a bat with its wings half-drawn around itself
 rorschachLeast: a moth folded shut, wings clasped tight
+facetMostTags: [chickpea, black, navy]
+facetHighTags: [chickpea, black]
+facetMidTags: [chickpea, black]
+facetLowTags: [adzuki, chickpea]
+facetLeastTags: [adzuki, chickpea, green]
 ---
 
 Barbecued Mung Beans are the Bean Zodiac's most unguarded — and the warmth of it is the first thing anyone notices. Asked a question they answer the question, plainly, with the answer rather than the answer's polished cousin. People sit beside them on long train journeys and arrive at their stops slightly altered, having said the true thing for the first time in months.

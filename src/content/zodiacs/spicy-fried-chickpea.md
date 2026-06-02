@@ -38,6 +38,11 @@ rorschachHigh: a splat of ink flicked across the page
 rorschachMid: a storm cloud with one wisp trailing off
 rorschachLow: an old stump rooted fast, one root breaking soil
 rorschachLeast: a loaf set to rest, one crust split open
+facetMostTags: [fava, green, adzuki]
+facetHighTags: [fava, green]
+facetMidTags: [fava, green]
+facetLowTags: [butter, mung]
+facetLeastTags: [butter, mung, black]
 ---
 
 Red-Hot Chickpeas are the Bean Zodiac's most spontaneous — the yes is out of their mouth before the offer has finished. They open the door without checking the weather, take the last seat on the train that's already moving, and arrive at parties half-dressed because the version of them that finished buttoning would have stayed home.

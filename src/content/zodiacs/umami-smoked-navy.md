@@ -38,6 +38,11 @@ rorschachHigh: a boulder rounded by a thousand winters
 rorschachMid: a river pebble turned in the hand
 rorschachLow: a clay lump just pressed into shape
 rorschachLeast: a snowball melting before it lands
+facetMostTags: [butter, black, kidney]
+facetHighTags: [butter, black]
+facetMidTags: [butter, black]
+facetLowTags: [fava, green]
+facetLeastTags: [fava, green, edamame]
 ---
 
 Hickory Navy Beans are the Bean Zodiac's most timeless — they have the same address from 2011, the same Sunday breakfast, the same two friends from before college. The handwriting in the recipe book is theirs in three different decades. When something falls apart in their life, the unchanged things take the weight.

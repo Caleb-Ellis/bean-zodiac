@@ -38,6 +38,11 @@ rorschachHigh: a thundercloud swelling before the storm
 rorschachMid: a bushy shrub catching the wind at its top
 rorschachLow: the last smoke off a fire dying down
 rorschachLeast: a cold heap of ash gone gray and still
+facetMostTags: [navy, mung, pinto]
+facetHighTags: [navy, mung]
+facetMidTags: [navy, mung]
+facetLowTags: [butter, edamame]
+facetLeastTags: [butter, edamame, black]
 ---
 
 Chipotle Kidney Beans are the Bean Zodiac's most consuming — when they love a thing, they love it past the point of comfortable. The new band, the new person, the new project; for a month nothing else is interesting, meals get skipped, calls get missed, the world narrows to one bright pot kept at simmer well past midnight. The intensity is the gift — what they make at that heat is something other people couldn't reach.

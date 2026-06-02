@@ -38,6 +38,11 @@ rorschachHigh: a burr scattering seed beside a curling stalk
 rorschachMid: a spiky chestnut husk and a wilting stem
 rorschachLow: a closed pinecone beside a coiled rope
 rorschachLeast: a stone urchin shut tight, a hook gone limp
+facetMostTags: [adzuki, kidney, green]
+facetHighTags: [adzuki, kidney]
+facetMidTags: [adzuki, kidney]
+facetLowTags: [butter, mung]
+facetLeastTags: [butter, mung, black]
 ---
 
 Sichuan Chickpeas are the Bean Zodiac's most conductive — they pass through a room and the temperature of it changes by the time they leave. Bad moods follow them home from cheerful dinners; cheerful moods seed themselves at glum ones. Friends invite them specifically because something always starts when they're there: an argument, a plan, a sudden round of shots, a long-overdue conversation that should have happened months ago.

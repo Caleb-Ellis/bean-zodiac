@@ -38,6 +38,11 @@ rorschachHigh: a wax seal pressed above its crest below
 rorschachMid: a potato resting on a smaller potato
 rorschachLow: a snowman's head fallen beside its body
 rorschachLeast: a clod of dirt dropped near another clod
+facetMostTags: [navy, black, pinto]
+facetHighTags: [navy, black]
+facetMidTags: [navy, black]
+facetLowTags: [fava, edamame]
+facetLeastTags: [fava, edamame, green]
 ---
 
 Aged Cannellini Beans are the Bean Zodiac's most distinguished — the bearing arrives in the room before the introduction does. They sign things modestly, leave the credentials out of the first paragraph, and let the work do the announcing, because the work has been doing it for a long time and is good at it. Strangers at a long table find themselves quoting them later without remembering exactly why.

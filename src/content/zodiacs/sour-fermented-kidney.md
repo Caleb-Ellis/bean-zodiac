@@ -38,6 +38,11 @@ rorschachHigh: a smooth rock shielding a cracking one
 rorschachMid: one cloud calm, the other breaking apart
 rorschachLow: a shell beside its scattered, opened halves
 rorschachLeast: two seedheads loosing all their seeds at once
+facetMostTags: [chickpea, mung, black]
+facetHighTags: [chickpea, mung]
+facetMidTags: [chickpea, mung]
+facetLowTags: [adzuki, chickpea]
+facetLeastTags: [adzuki, chickpea, green]
 ---
 
 Pickled Kidney Beans are the Bean Zodiac's most defensive — and they can tell you, item by item, what they're defending and why. The unread count is a moat, not an oversight; the new acquaintance meets a pleasant outer hallway and learns the kitchen exists only after several visits. The wall is not unkind, but it is articulate. Each brick has a reason, and most of the reasons have held up.

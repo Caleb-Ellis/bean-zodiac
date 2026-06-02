@@ -38,6 +38,11 @@ rorschachHigh: a hawk's wings thrown open mid-dive
 rorschachMid: two islands joined by a thin land bridge
 rorschachLow: two wings folding back down to rest
 rorschachLeast: a moth pulling its wings in tight
+facetMostTags: [kidney, green, pinto]
+facetHighTags: [kidney, green]
+facetMidTags: [kidney, green]
+facetLowTags: [butter, mung]
+facetLeastTags: [butter, mung, black]
 ---
 
 Scorched Fava Beans are the Bean Zodiac's most fearless. The hard call gets made before the kettle whistles; they walk into the room without the deck because they are the deck, and the thing everyone else was circling all morning gets done while they were still deciding whether to be nervous. They did weigh the risk — quickly, accurately — and then simply moved.

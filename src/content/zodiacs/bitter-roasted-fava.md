@@ -38,6 +38,11 @@ rorschachHigh: a heron lunging its beak forward to strike
 rorschachMid: a rhino's head lowered, horn pointed left
 rorschachLow: a dog hanging back, nose to the ground
 rorschachLeast: a snail curled, drawn back into its shell
+facetMostTags: [pinto, green, chickpea]
+facetHighTags: [pinto, green]
+facetMidTags: [pinto, green]
+facetLowTags: [butter, mung]
+facetLeastTags: [butter, mung, black]
 ---
 
 Wood-Fired Fava Beans are the Bean Zodiac's most pioneering — they venture into unmapped territory and trust the smoke to find its bearings. They begin the thing nobody asked for yet, walk first into the empty room, suggest the route before anyone's voted on it. Where they go, the path appears underfoot.

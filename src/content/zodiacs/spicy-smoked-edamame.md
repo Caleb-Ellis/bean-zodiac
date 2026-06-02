@@ -38,6 +38,11 @@ rorschachHigh: a hawk diving wings spread above its prey
 rorschachMid: a moth above a stone it just landed on
 rorschachLow: a dove settling down onto a warm nest
 rorschachLeast: a lamb folded low over its own shadow
+facetMostTags: [navy, kidney, mung]
+facetHighTags: [navy, kidney]
+facetMidTags: [navy, kidney]
+facetLowTags: [butter, black]
+facetLeastTags: [butter, black, navy]
 ---
 
 Chipotle Edamame are the Bean Zodiac's most ferocious — the email goes out before anyone in the thread has finished typing the diplomatic version. The boundary lands flat, no preamble, and the friendship that had been quietly costing them is suddenly over by Tuesday morning. They move when the rest of the room is still calibrating, and most of the time the room admits, later, that the move was correct.

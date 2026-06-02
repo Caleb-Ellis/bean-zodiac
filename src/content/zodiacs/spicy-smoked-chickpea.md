@@ -38,6 +38,11 @@ rorschachHigh: a jester's cap with points jutting out
 rorschachMid: a beetle with all its legs splayed
 rorschachLow: an owl perched still, ear tufts up
 rorschachLeast: a toad squatting low, settled in place
+facetMostTags: [adzuki, kidney, green]
+facetHighTags: [adzuki, kidney]
+facetMidTags: [adzuki, kidney]
+facetLowTags: [butter, mung]
+facetLeastTags: [butter, mung, black]
 ---
 
 Chipotle Chickpeas are the Bean Zodiac's most frenetic — and their friends have learned to text twice. The first message gets a thumbs-up an hour late from across town; the second catches them mid-pivot toward whatever the evening has become. They make the dinner happen, the trip happen, the band happen, somehow, mostly because standing still feels worse than overbooking.

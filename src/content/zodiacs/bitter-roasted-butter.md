@@ -38,6 +38,11 @@ rorschachHigh: a stag's head crowned with heavy branching antlers
 rorschachMid: a clump of coral fanning above its base
 rorschachLow: a bare shrub clinging to a round rock
 rorschachLeast: a cracked stone with a few dead twigs
+facetMostTags: [pinto, adzuki, kidney]
+facetHighTags: [pinto, adzuki]
+facetMidTags: [pinto, adzuki]
+facetLowTags: [fava, green]
+facetLeastTags: [fava, green, edamame]
 ---
 
 Wood-Fired Butter Beans are the Bean Zodiac's most indulgent — quality is non-negotiable. They pay for the version that ruins all the cheaper versions and don't apologise for the bill. When hunger speaks they answer it: the nap taken whole, the bath drawn too hot to step into at once, the second glass poured for the guest before the first is finished. To be hosted by one is to be wanted at the table.

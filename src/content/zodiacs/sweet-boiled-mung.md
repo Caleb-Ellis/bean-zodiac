@@ -38,6 +38,11 @@ rorschachHigh: a teapot leaning to pour from its spout
 rorschachMid: a hedgehog curled with its snout out
 rorschachLow: a cracked jug tipped empty on its side
 rorschachLeast: a dry husk split open and hollow
+facetMostTags: [cannellini, butter, pinto]
+facetHighTags: [cannellini, butter]
+facetMidTags: [cannellini, butter]
+facetLowTags: [fava, green]
+facetLeastTags: [fava, green, edamame]
 ---
 
 Candied Mung Beans are the Bean Zodiac's most nurturing — the one who refilled your water glass before you noticed it was empty, who texted on the morning of the appointment they remembered and you forgot, who keeps the household running through a hundred small unannounced tendings. The care is steeped in, not performed; it shows up in the pandan-warm details nobody can quite locate the source of.

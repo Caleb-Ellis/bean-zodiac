@@ -38,6 +38,11 @@ rorschachHigh: an anvil squat and fixed on its block
 rorschachMid: a blunt stone resting on the ground
 rorschachLow: a sandcastle slumping back into the beach
 rorschachLeast: a lump of dough sagging soft off the board
+facetMostTags: [cannellini, black, kidney]
+facetHighTags: [cannellini, black]
+facetMidTags: [cannellini, black]
+facetLowTags: [green, fava]
+facetLeastTags: [green, fava, edamame]
 ---
 
 Cured Navy Beans are the Bean Zodiac's most implacable — the plan made on Sunday is the plan being executed on Thursday, weather notwithstanding. They are the friend who said they'd be there at seven and is there at seven, the colleague whose Friday deliverable goes out on Friday because Friday was when it was going out. There is enormous quiet relief in being near them; nothing has to be re-decided every morning.

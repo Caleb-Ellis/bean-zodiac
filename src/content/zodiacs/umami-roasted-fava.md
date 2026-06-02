@@ -38,6 +38,11 @@ rorschachHigh: an anvil planted heavy on its block
 rorschachMid: a boulder with a chain trailing off it
 rorschachLow: a melting candle slumping off its holder
 rorschachLeast: a snowbank caving and sliding off the roof
+facetMostTags: [kidney, edamame, pinto]
+facetHighTags: [kidney, edamame]
+facetMidTags: [kidney, edamame]
+facetLowTags: [butter, edamame]
+facetLeastTags: [butter, edamame, black]
 ---
 
 Rendered Fava Beans are the Bean Zodiac's most defiant — and unusually warm about it. They will hold a position in a room turning against them and do it without raising their voice; the second time they say the sentence it comes out at the same pace as the first. People often mistake the warmth for flexibility and learn, by the third meeting, that they were wrong.

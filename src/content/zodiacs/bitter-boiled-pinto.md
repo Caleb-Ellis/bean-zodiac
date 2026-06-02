@@ -38,6 +38,11 @@ rorschachHigh: a flower counted petal by lobed petal
 rorschachMid: a many-lobed blossom with a fleck above it
 rorschachLow: a clump of petals blurring into one mass
 rorschachLeast: a single round splat, no edge picked out
+facetMostTags: [cannellini, navy, black]
+facetHighTags: [cannellini, navy]
+facetMidTags: [cannellini, navy]
+facetLowTags: [fava, edamame]
+facetLeastTags: [fava, green, edamame]
 ---
 
 Infused Pinto Beans are the Bean Zodiac's most detail-oriented — the one who hears the rattle in the engine everyone else stopped noticing, who finds the error on line four while the cashier waits. Nothing slips past them, and the work that passes through their hands is clean in the small places most people never check. When it matters that a thing be exactly right, they're who you want holding it.

@@ -38,6 +38,11 @@ rorschachHigh: a dollop of batter dropped off the spoon
 rorschachMid: a beet pulled up by its tapering root
 rorschachLow: a sandbag set down to hold the door
 rorschachLeast: a waterskin corked tight against any spill
+facetMostTags: [chickpea, mung, black]
+facetHighTags: [chickpea, mung]
+facetMidTags: [chickpea, mung]
+facetLowTags: [adzuki, chickpea]
+facetLeastTags: [adzuki, chickpea, green]
 ---
 
 Agrodolce Fava Beans are the Bean Zodiac's most reckless — they're already two steps into the thing while everyone else is asking if the thing is wise. The reply gets sent, the furniture gets moved, the offer gets accepted, all before the question fully forms; what looks like courage from outside is, from inside, just a refusal to let the moment go cold. Half the stories worth telling at this table started with an Agrodolce Fava not pausing.

@@ -38,6 +38,11 @@ rorschachHigh: a spider crouched at the hub of its web
 rorschachMid: a horse chestnut split open in its husk
 rorschachLow: a dandelion clock half blown apart
 rorschachLeast: a thrown handful of jacks scattering wide
+facetMostTags: [chickpea, mung, black]
+facetHighTags: [chickpea, mung]
+facetMidTags: [chickpea, mung]
+facetLowTags: [adzuki, chickpea]
+facetLeastTags: [adzuki, chickpea, green]
 ---
 
 Miso Navy Beans are the Bean Zodiac's most calculating — and have been quietly rehearsing the next three months for the last six. By the time the obvious moment arrives to act, they've already simulated four versions of it and know which one is least costly to be wrong about, which is why their plans tend to land well when they land.

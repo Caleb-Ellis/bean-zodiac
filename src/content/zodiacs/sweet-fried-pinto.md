@@ -38,6 +38,11 @@ rorschachHigh: a startled cat, ears flared wide apart
 rorschachMid: a horned owl perched with both tufts up
 rorschachLow: a rabbit sat still, ears held straight up
 rorschachLeast: a candle flame standing steady and upright
+facetMostTags: [chickpea, mung, black]
+facetHighTags: [chickpea, mung]
+facetMidTags: [chickpea, mung]
+facetLowTags: [adzuki, chickpea]
+facetLeastTags: [adzuki, chickpea, green]
 ---
 
 Caramelised Pinto Beans are the Bean Zodiac's most distractible — interested in everything, warmly, all at once. The studio fills with begun things: a chair half-dragged to the window, a sketch puffed and golden and abandoned for a brighter one, a sourdough started Sunday and remembered Wednesday. Around them other people get permission to be curious in public, to try the thing without knowing if it'll work.

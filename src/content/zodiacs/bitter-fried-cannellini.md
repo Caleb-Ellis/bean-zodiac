@@ -38,6 +38,11 @@ rorschachHigh: an oak holding its ground in wind
 rorschachMid: a toadstool with a wide low cap
 rorschachLow: a willow drooping over the water
 rorschachLeast: a melting snowman sliding off its base
+facetMostTags: [kidney, fava, edamame]
+facetHighTags: [kidney, fava]
+facetMidTags: [kidney, fava]
+facetLowTags: [butter, edamame]
+facetLeastTags: [butter, black, edamame]
 ---
 
 Scorched Cannellini Beans are the Bean Zodiac's most assertive. In a circle of murmured maybes, one of these Beans will name the thing plainly and not walk it back; the apology is paid in the first sentence, the answer is one clean line with no weather padded onto the front. There's a real ease in being near someone who simply says what they think.

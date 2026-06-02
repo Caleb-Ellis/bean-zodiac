@@ -38,6 +38,11 @@ rorschachHigh: a seed pod splitting along its seam
 rorschachMid: two cupped leaves divided by a stem
 rorschachLow: shutters half-drawn against a grey window
 rorschachLeast: two hands closing a book shut
+facetMostTags: [chickpea, fava, pinto]
+facetHighTags: [chickpea, fava]
+facetMidTags: [chickpea, fava]
+facetLowTags: [butter, mung]
+facetLeastTags: [butter, mung, black]
 ---
 
 Peri-Peri Green Beans are the Bean Zodiac's most optimistic — the ones who arrive at the cancelled flight already pricing the train, the ones whose first reply to bad news is the small live thing inside it. They are unembarrassed cheerleaders for other people's half-formed plans, and their own plans get launched on the strength of the next-step alone.

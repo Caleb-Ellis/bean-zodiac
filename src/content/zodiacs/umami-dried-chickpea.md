@@ -38,6 +38,11 @@ rorschachHigh: two beetles locked head to head, legs splayed
 rorschachMid: two pinecones touching tip to tip
 rorschachLow: two dandelion heads about to scatter their seeds
 rorschachLeast: two cotton tufts snagged on a thorn
+facetMostTags: [navy, butter, black]
+facetHighTags: [navy, butter]
+facetMidTags: [navy, butter]
+facetLowTags: [fava, edamame]
+facetLeastTags: [fava, edamame, green]
 ---
 
 Aged Chickpeas are the Bean Zodiac's most substantive — they reply in paragraphs, wear the same coat into its eighth winter, and finish in June the project somebody else abandoned in November. The weight is real and quiet, and the people around them rest on it without quite registering they're doing it.

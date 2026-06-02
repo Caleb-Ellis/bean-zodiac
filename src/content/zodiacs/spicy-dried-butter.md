@@ -38,6 +38,11 @@ rorschachHigh: a cat arched the instant before it bolts
 rorschachMid: a small dog standing, tail curled back
 rorschachLow: a hound dozing curled on the floor
 rorschachLeast: a sleeping cat settled into a loose knot
+facetMostTags: [kidney, navy, mung]
+facetHighTags: [kidney, navy]
+facetMidTags: [kidney, navy]
+facetLowTags: [edamame, black]
+facetLeastTags: [edamame, black, pinto]
 ---
 
 Sichuan Butter Beans are the Bean Zodiac's most volatile — and the last to notice it about themselves. For long flat hours they are the easiest person in the room, settled into a chair, refilling tea, asking the right slow questions. Then a small thing — a misplaced word, the fourth interruption — and the temperature is suddenly everyone's problem, including theirs.

@@ -8,10 +8,10 @@ import {
 import type { RitualVariant } from "./fortune";
 import { useStore } from "../store";
 
-// Spirit rings are radar-chart neighbour orderings, distinct from the calendar
-// orderings (FLAVOUR_ORDER, FORM_ORDER, BEAN_ORDER) in lib/zodiac. Adjacency
-// here drives the +/- neighbour adjustments in applyRingAdjustment, so changing
-// these arrays will shift which attributes influence each other on the chart.
+// Spirit rings are the radar-chart point orderings, distinct from the calendar
+// orderings (FLAVOUR_ORDER, FORM_ORDER, BEAN_ORDER) in lib/zodiac. They drive
+// the order attributes appear around each chart; scoring no longer reads
+// adjacency, so reordering only changes layout, not the numbers.
 export const SPIRIT_FLAVOUR_RING: FlavourId[] = [
   "bitter",
   "sour",
@@ -44,48 +44,56 @@ export const SPIRIT_BEAN_RING: BeanId[] = [
   "edamame",
 ];
 
-interface RingAdjustment {
-  chosen: number;
-  neighbours: number;
-}
-
-const ACCEPTED_ADJ: Record<QualityId, RingAdjustment> = {
-  heirloom: { chosen: +4, neighbours: +1 },
-  market: { chosen: +3, neighbours: 0 },
-  garden: { chosen: +2, neighbours: 0 },
-  stale: { chosen: -1, neighbours: 0 },
-  rotten: { chosen: -2, neighbours: -1 },
+// Base score applied to each of the accepted/resisted zodiac's own triple
+// (its flavour, form, bean), keyed by the rolled quality / answered tier.
+const ACCEPTED_BASE: Record<QualityId, number> = {
+  heirloom: +4,
+  market: +3,
+  garden: +2,
+  stale: -1,
+  rotten: -2,
 };
 
-const RESISTED_ADJ: Record<QualityId, RingAdjustment> = {
-  heirloom: { chosen: -2, neighbours: -1 },
-  market: { chosen: -2, neighbours: 0 },
-  garden: { chosen: -1, neighbours: 0 },
-  stale: { chosen: +1, neighbours: 0 },
-  rotten: { chosen: +2, neighbours: +1 },
+const RESISTED_BASE: Record<QualityId, number> = {
+  heirloom: -2,
+  market: -2,
+  garden: -1,
+  stale: +1,
+  rotten: +2,
 };
 
-export function getRingAdjustment(
-  rawScore: number,
-  qualityId: QualityId,
-): RingAdjustment {
-  return rawScore > 0 ? ACCEPTED_ADJ[qualityId] : RESISTED_ADJ[qualityId];
-}
+// Question/rorschach picks forgo the soft pass entirely (the bean tags belong
+// to the facet vignette, which those variants don't show). They're deliberate
+// self-identification rather than a thumbs-up on a rolled tier, so the triple
+// is scored on a stronger table to make those picks count as a firmer signal.
+const ANSWERED_BASE: Record<QualityId, number> = {
+  heirloom: +6,
+  market: +4,
+  garden: +3,
+  stale: -2,
+  rotten: -3,
+};
 
-function applyRingAdjustment<T extends string>(
-  ring: readonly T[],
-  scores: Record<string, number>,
-  id: T,
-  adj: RingAdjustment,
-): void {
-  const i = ring.indexOf(id);
-  const n = ring.length;
-  scores[id] += adj.chosen;
-  if (adj.neighbours !== 0) {
-    scores[ring[(i - 1 + n) % n]] += adj.neighbours;
-    scores[ring[(i + 1) % n]] += adj.neighbours;
-  }
-}
+// Weaker "soft" score added to the beans a facet tier *embodies* (its tags).
+// Unlike the base pass, accepting always lifts these beans regardless of tier:
+// a tag means "this vignette behaves like that bean," so you drift toward it.
+// Magnitude tracks how vivid the expression is — strongest at the Most/Least
+// extremes (Heirloom/Rotten, the Rare qualities), mildest at Mid (Garden).
+const ACCEPTED_SOFT: Record<QualityId, number> = {
+  heirloom: +2,
+  market: +1,
+  garden: +1,
+  stale: +2,
+  rotten: +3,
+};
+
+const RESISTED_SOFT: Record<QualityId, number> = {
+  heirloom: -1,
+  market: -1,
+  garden: -1,
+  stale: -1,
+  rotten: -1,
+};
 
 export const SPIRIT_DIFF_THRESHOLD = 10;
 
@@ -125,15 +133,31 @@ export function computeSpiritBeanScores(
   for (const entry of history) {
     const s = entry.score ?? 0;
     if (s === 0) continue;
+    const accepted = s > 0;
+    const answered =
+      entry.variant === "question" || entry.variant === "rorschach";
     const [f, frm, b] = entry.zodiacId.split("-") as [
       FlavourId,
       FormId,
       BeanId,
     ];
-    const adj = getRingAdjustment(s, entry.qualityId);
-    applyRingAdjustment(SPIRIT_FLAVOUR_RING, flavourScores, f, adj);
-    applyRingAdjustment(SPIRIT_FORM_RING, formScores, frm, adj);
-    applyRingAdjustment(SPIRIT_BEAN_RING, beanScores, b, adj);
+
+    // Base pass: the zodiac's own triple. Question/rorschach use the stronger
+    // table; facet/legacy use the accepted/resisted tables.
+    const base = answered
+      ? ANSWERED_BASE[entry.qualityId]
+      : (accepted ? ACCEPTED_BASE : RESISTED_BASE)[entry.qualityId];
+    flavourScores[f] += base;
+    formScores[frm] += base;
+    beanScores[b] += base;
+
+    // Soft pass: facet variant only. Tags are beans the vignette embodies; the
+    // bump lifts them on accept (lowers on resist) independent of the base, so
+    // an anti-trait line drives you off your own bean toward the ones it names.
+    if (!answered && entry.facetTags?.length) {
+      const soft = (accepted ? ACCEPTED_SOFT : RESISTED_SOFT)[entry.qualityId];
+      for (const id of entry.facetTags) beanScores[id] += soft;
+    }
   }
 
   const flavourValues = SPIRIT_FLAVOUR_RING.map((id) =>

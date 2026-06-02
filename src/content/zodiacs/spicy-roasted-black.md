@@ -38,6 +38,11 @@ rorschachHigh: a cat curled tight with its tail wound in
 rorschachMid: a root clump with thin fibers trailing off
 rorschachLow: a kite drifting away on a slack string
 rorschachLeast: a knot working itself loose at the ends
+facetMostTags: [adzuki, kidney, cannellini]
+facetHighTags: [adzuki, kidney]
+facetMidTags: [adzuki, kidney]
+facetLowTags: [fava, edamame]
+facetLeastTags: [fava, edamame, green]
 ---
 
 Peri-Peri Black Beans are the Bean Zodiac's most magnetic — the ones who weren't trying to host and somehow are. They lean against a counter and the circle forms; they make an offhand suggestion and the night reroutes. People remember what they said three weeks later and aren't entirely sure why it landed so hard.

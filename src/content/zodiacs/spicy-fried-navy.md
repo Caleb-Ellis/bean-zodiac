@@ -38,6 +38,11 @@ rorschachHigh: a coastline traced clean onto a map
 rorschachMid: a continent spread across an old chart
 rorschachLow: a puddle creeping out past its own edges
 rorschachLeast: spilled batter spreading loose across the counter
+facetMostTags: [edamame, black, adzuki]
+facetHighTags: [edamame, black]
+facetMidTags: [edamame, black]
+facetLowTags: [pinto, chickpea]
+facetLeastTags: [pinto, chickpea, green]
 ---
 
 Red-Hot Navy Beans are the Bean Zodiac's most organized — and the speed of their decisions comes from never having to look anything up. Folders nest like spice tins; tomorrow's first hour is set before tonight's dinner; the project that lands on Friday has a tracker by 6pm and a plan by Saturday morning. They move quickly because the path was cleared in advance.

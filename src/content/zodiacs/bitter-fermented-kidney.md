@@ -38,6 +38,11 @@ rorschachHigh: a hornets' nest packed tight and humming
 rorschachMid: a heavy stone tapering to a point below
 rorschachLow: a beanbag slumped soft in the corner
 rorschachLeast: a puff of dandelion seed about to scatter
+facetMostTags: [mung, navy, chickpea]
+facetHighTags: [mung, navy]
+facetMidTags: [mung, navy]
+facetLowTags: [butter, edamame]
+facetLeastTags: [butter, edamame, black]
 ---
 
 Cultured Kidney Beans are the Bean Zodiac's most intense — they walk into a room quietly and it reorients toward them anyway, the way a table leans toward the dish that took longest to make. They carry the day's weight at the jaw, held, not set down, and when they finally hand someone the thing they've been darkening alone, it arrives whole and undiluted. There's a gravity to them that nothing performed could fake.

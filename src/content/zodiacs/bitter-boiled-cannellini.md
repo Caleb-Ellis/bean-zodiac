@@ -38,6 +38,11 @@ rorschachHigh: a walnut cracked, the shrivelled half pushed away
 rorschachMid: two rounded pebbles resting near each other
 rorschachLow: two onions kept side by side, neither thrown out
 rorschachLeast: both onions swept into one basket, nothing culled
+facetMostTags: [black, navy, butter]
+facetHighTags: [black, navy]
+facetMidTags: [black, navy]
+facetLowTags: [edamame, fava]
+facetLeastTags: [green, edamame, fava]
 ---
 
 Infused Cannellini Beans are the Bean Zodiac's most discerning — the friend whose recommendation you trust completely, because they've never once pretended to like something they didn't. Their taste is the real thing: they can tell you exactly why the good one is good, and they own a few things they love rather than many they tolerate. To be chosen by them means something, because they choose so little.

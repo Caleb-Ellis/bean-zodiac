@@ -38,6 +38,11 @@ rorschachHigh: a snail drawn back from the open shell beside it
 rorschachMid: two rocks set apart along a shelf
 rorschachLow: two friends leaning in across a small table
 rorschachLeast: two dancers swung together mid-step
+facetMostTags: [butter, mung, black]
+facetHighTags: [butter, mung]
+facetMidTags: [butter, mung]
+facetLowTags: [fava, edamame]
+facetLeastTags: [fava, edamame, green]
 ---
 
 Funky Navy Beans are the Bean Zodiac's most introverted — the ones who decline the party with relief, bake an elaborate pudding for an audience of one, and find the evening richer for it. Their interior is not empty or austere; it is furnished with care, and they spend long hours in it gladly. The friends who get them understand the silence isn't withdrawal — it's habitation.

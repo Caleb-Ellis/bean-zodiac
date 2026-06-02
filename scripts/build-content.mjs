@@ -42,6 +42,33 @@ const formsRecord = Object.fromEntries(
 );
 writeJson(resolve(root, "src/data/generated/forms.json"), formsRecord);
 
+// Facet tags are beans only (see FACET_TAGS.md) — 2 or 3 per tier when present.
+const FACET_TAG_IDS = new Set([
+  "adzuki", "black", "butter", "cannellini", "chickpea", "edamame",
+  "fava", "green", "kidney", "mung", "navy", "pinto",
+]);
+const FACET_TAG_FIELDS = [
+  "facetMostTags", "facetHighTags", "facetMidTags", "facetLowTags", "facetLeastTags",
+];
+
+function validateFacetTags(id, data) {
+  for (const field of FACET_TAG_FIELDS) {
+    const tags = data[field];
+    if (tags == null) continue;
+    if (!Array.isArray(tags)) {
+      throw new Error(`${id}: ${field} must be a list of bean ids, got ${typeof tags}`);
+    }
+    if (tags.length < 2 || tags.length > 3) {
+      throw new Error(`${id}: ${field} must have 2 or 3 beans, got ${tags.length}`);
+    }
+    for (const tag of tags) {
+      if (!FACET_TAG_IDS.has(tag)) {
+        throw new Error(`${id}: ${field} has invalid bean "${tag}"`);
+      }
+    }
+  }
+}
+
 // Zodiacs — one JSON per slug, plus also copy to public/api/zodiacs/ for dev server
 const zodiacs = readCollection("zodiacs");
 const zodiacDir = resolve(root, "src/data/generated/zodiacs");
@@ -50,6 +77,7 @@ mkdirSync(zodiacDir, { recursive: true });
 mkdirSync(publicDir, { recursive: true });
 
 for (const { id, data, content } of zodiacs) {
+  validateFacetTags(id, data);
   const payload = JSON.stringify({ ...data, content });
   writeFileSync(resolve(zodiacDir, `${id}.json`), payload);
   writeFileSync(resolve(publicDir, `${id}.json`), payload);

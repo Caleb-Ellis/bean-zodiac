@@ -38,6 +38,11 @@ rorschachHigh: two flints chipped to sharp points
 rorschachMid: two round eggs nestled together
 rorschachLow: two worn pillows rounded soft at the edges
 rorschachLeast: two old hayricks furred over with moss
+facetMostTags: [butter, navy, black]
+facetHighTags: [butter, navy]
+facetMidTags: [butter, navy]
+facetLowTags: [edamame, fava]
+facetLeastTags: [edamame, fava, pinto]
 ---
 
 Desiccated Green Beans are the Bean Zodiac's most honed — they spend the first hour of a task sharpening the tools and the second finishing it in a clean line, and the work they hand over has nothing extra clinging to it. Watch one cook and there are no wasted motions; every cut is the cut it needed to be.

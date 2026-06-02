@@ -38,6 +38,11 @@ rorschachHigh: a heavy oak leaning where the trunk has thinned
 rorschachMid: a round bush massed on a short stem
 rorschachLow: a full tree heavy with ripe fruit
 rorschachLeast: a soft cloud drifting on a bright morning
+facetMostTags: [navy, edamame, black]
+facetHighTags: [navy, edamame]
+facetMidTags: [navy, edamame]
+facetLowTags: [adzuki, butter]
+facetLeastTags: [adzuki, butter, mung]
 ---
 
 Pickled Pinto Beans are the Bean Zodiac's most pessimistic — and the pessimism is showing its working. They have packed the lime and the bandage long before anyone else admitted the weather was turning; they have read past the cheerful opening to the third paragraph where the actual message is hiding; they have stood by the pot with the spoon already raised because they could hear the seam beginning to split. More often than is comfortable, they were right.

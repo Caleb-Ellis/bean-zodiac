@@ -38,6 +38,11 @@ rorschachHigh: an old tortoise drawn in, weighing whether to wake
 rorschachMid: a potato beside a big bean
 rorschachLow: a hare mid-leap, hind foot already kicking off
 rorschachLeast: a curled tail unwinding, a loose wing flung out
+facetMostTags: [black, cannellini, navy]
+facetHighTags: [black, cannellini]
+facetMidTags: [navy, cannellini]
+facetLowTags: [fava, green]
+facetLeastTags: [edamame, fava, green]
 ---
 
 Infused Adzuki Beans are the Bean Zodiac's most judicious — the one who won't be hurried into a verdict and is almost always right for it. Ask them what they think and you get "let me sit with it," and they actually do; what comes back is weighed, fair, and worth the wait. They're the friend you call before a big decision precisely because they refuse to give you the easy answer.

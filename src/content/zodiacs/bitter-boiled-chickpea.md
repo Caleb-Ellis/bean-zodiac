@@ -38,6 +38,11 @@ rorschachHigh: a sea anemone, many feelers raised at once
 rorschachMid: a low ridge of hills with a few peaks
 rorschachLow: a crab gone still, every limb pulled in tight
 rorschachLeast: a beetle, all six legs marching the same way
+facetMostTags: [green, fava, kidney]
+facetHighTags: [green, fava]
+facetMidTags: [green, fava]
+facetLowTags: [butter, mung]
+facetLeastTags: [butter, mung, black]
 ---
 
 Infused Chickpeas are the Bean Zodiac's most versatile — the one who can turn a hand to almost anything and lands first on every list because of it. Drop them in an unfamiliar room and they read it in a minute and find the rhythm; hand them a problem outside their field and they're fluent in it by the afternoon. They're the rare person who's genuinely good company at a sickbed, a deadline, and a stranger's kitchen alike.

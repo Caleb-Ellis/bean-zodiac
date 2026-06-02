@@ -38,6 +38,11 @@ rorschachHigh: a horseshoe with a single rivet hole, over an anvil
 rorschachMid: a broken arch above a heap of rubble
 rorschachLow: a dented crown left atop a sagging cushion
 rorschachLeast: a wreath half-torn above a crumbling mound
+facetMostTags: [navy, black, adzuki]
+facetHighTags: [navy, black]
+facetMidTags: [navy, black]
+facetLowTags: [green, fava]
+facetLeastTags: [green, fava, edamame]
 ---
 
 Braised Cannellini Beans are the Bean Zodiac's most perfectionist — the ones who shift the lamp an inch and then an inch back, who can feel the wrongness of a chair turned five degrees off, who quietly rework the paragraph nobody was going to read closely anyway. What lands from them tends to land right; the seam is invisible, the proportions are correct, the small thing has been thought about.

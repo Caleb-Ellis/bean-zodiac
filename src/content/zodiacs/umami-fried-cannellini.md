@@ -38,6 +38,11 @@ rorschachHigh: a clenched fist held perfectly still
 rorschachMid: a walnut sitting whole in its shell
 rorschachLow: a cabbage with its outer leaves loosening
 rorschachLeast: a rag bunched and dropped in a corner
+facetMostTags: [navy, black, kidney]
+facetHighTags: [navy, black]
+facetMidTags: [navy, black]
+facetLowTags: [fava, edamame]
+facetLeastTags: [fava, edamame, green]
 ---
 
 Tempura Cannellini Beans are the Bean Zodiac's most principled — the ones who say the unpopular thing first at the table and give everyone else permission to agree. They don't poll the room before speaking and they don't take the line back later for warmth. Friends quietly route the harder questions through them because they know the answer will arrive whole, the same on Wednesday as it was on Monday.

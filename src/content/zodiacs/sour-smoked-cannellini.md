@@ -38,6 +38,11 @@ rorschachHigh: a walnut shell cracked down its seam
 rorschachMid: two stones leaning together at a gap
 rorschachLow: two loaves resting against each other warm
 rorschachLeast: two pillows piled soft, dent between them
+facetMostTags: [black, edamame, pinto]
+facetHighTags: [black, edamame]
+facetMidTags: [black, edamame]
+facetLowTags: [green, fava]
+facetLeastTags: [green, fava, edamame]
 ---
 
 Cured Cannellini Beans are the Bean Zodiac's most piercing — they have read your email's subject line and already know what the body should have said. They are the friend who, three sentences into your story, asks the one question the story was carefully arranged around, and the colleague whose comment on the doc reframes the whole document in a single line. People send them work precisely because they want the bone seen through the soft tissue.

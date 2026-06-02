@@ -38,6 +38,11 @@ rorschachHigh: a river stone worn down to one smooth oval
 rorschachMid: a potato dug fresh from the soil
 rorschachLow: a balled-up sweater shoved in a drawer
 rorschachLeast: a crumpled draft tossed half-open in the bin
+facetMostTags: [navy, edamame, black]
+facetHighTags: [navy, edamame]
+facetMidTags: [navy, black]
+facetLowTags: [adzuki, mung]
+facetLeastTags: [adzuki, mung, pinto]
 ---
 
 Agrodolce Butter Beans are the Bean Zodiac's most efficient — they treat the day as a counter to be cleared and most days they clear it. Errands fold into one route, replies arrive in the same minute the question lands, and the meeting they were dreading ends six minutes early because they brought the agenda already written.

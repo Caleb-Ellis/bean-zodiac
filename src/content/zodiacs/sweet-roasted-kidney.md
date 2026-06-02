@@ -38,6 +38,11 @@ rorschachHigh: arms folded tight around a wrapped bundle
 rorschachMid: a cabbage with its outer leaves closed
 rorschachLow: a fist beginning to open its grip
 rorschachLeast: an empty husk split open and hollow
+facetMostTags: [navy, mung, cannellini]
+facetHighTags: [navy, mung]
+facetMidTags: [navy, mung]
+facetLowTags: [butter, edamame]
+facetLeastTags: [butter, edamame, black]
 ---
 
 Glazed Kidney Beans are the Bean Zodiac's most overprotective — the ones who fetch a guest's coat, their umbrella, a clean tin for the train, and walk them to the corner. They rearrange the spare room before the visitor arrives, then move the lamp once more so the reading chair sits inside its pool of light. The care is unembarrassed and exact.

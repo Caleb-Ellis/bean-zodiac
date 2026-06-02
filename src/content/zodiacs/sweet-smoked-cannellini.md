@@ -38,6 +38,11 @@ rorschachHigh: two birds touching beaks over a frayed thread
 rorschachMid: two hills across a narrow gorge
 rorschachLow: two sacks of grit shoved hard together
 rorschachLeast: two anvils lashed together with chain
+facetMostTags: [butter, mung, kidney]
+facetHighTags: [butter, mung]
+facetMidTags: [butter, mung]
+facetLowTags: [fava, edamame]
+facetLeastTags: [fava, edamame, green]
 ---
 
 Barbecued Cannellini Beans are the Bean Zodiac's most delicate — the friend who remembers which window you like open, refolds the throw before they leave, and writes your name in the careful handwriting you didn't know they used. Around them the small things behave better: the kettle is set down softly, the gift handed across in two hands, the sentence finished at the point where it didn't need its last clause.

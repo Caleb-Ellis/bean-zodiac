@@ -38,6 +38,11 @@ rorschachHigh: two gears caught mid-bite at the seam
 rorschachMid: a smooth apple beside a smaller spiky one
 rorschachLow: two heads butting, neither one giving
 rorschachLeast: a sledgehammer driven blunt against an iron block
+facetMostTags: [cannellini, black, edamame]
+facetHighTags: [cannellini, black]
+facetMidTags: [cannellini, black]
+facetLowTags: [green, fava]
+facetLeastTags: [green, fava, edamame]
 ---
 
 Pickled Chickpeas are the Bean Zodiac's most clever — they have the answer by the time the question has finished arriving. Hand them a stuck form, a refused refund, a sentence that won't end, and they reach past the obvious route to the one that actually opens the door. The cleverness is quiet, not showy; they tend to hand back only the piece you asked for, the working folded away out of sight.

@@ -38,6 +38,11 @@ rorschachHigh: a mouse hanging back below a larger one
 rorschachMid: two stones stacked into a small cairn
 rorschachLow: a snowman with a fresh head set on top
 rorschachLeast: a seal reared up tall over its pup
+facetMostTags: [mung, black, kidney]
+facetHighTags: [mung, black]
+facetMidTags: [mung, black]
+facetLowTags: [navy, butter]
+facetLeastTags: [navy, butter, edamame]
 ---
 
 Dashi Pinto Beans are the Bean Zodiac's most timid — a pot kept low for hours, the flavour real but slow to declare itself. They draft the message, reread it, close the tab; the reply they owe sits open for three days. At gatherings they wait for someone to name them before they speak, and when handing over the bill they round their own number down twice before saying it.

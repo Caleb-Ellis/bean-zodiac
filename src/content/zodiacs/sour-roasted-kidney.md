@@ -38,6 +38,11 @@ rorschachHigh: a round tree crown squared over its trunk
 rorschachMid: a head of cauliflower on its narrow stalk
 rorschachLow: a storm cloud bulging heavier to one side
 rorschachLeast: a mushroom cap slumped lopsided off its stem
+facetMostTags: [chickpea, mung, black]
+facetHighTags: [chickpea, mung]
+facetMidTags: [chickpea, mung]
+facetLowTags: [adzuki, chickpea]
+facetLeastTags: [adzuki, chickpea, green]
 ---
 
 Chimichurri Kidney Beans are the Bean Zodiac's fairest — the ones who read the bill line by line while the table waits, and find the rupee charged twice. At a gathering the quiet stranger gets steered into the loud one's orbit, the worst chair quietly swapped before anyone's sat down. Justice as a kind of hospitality.

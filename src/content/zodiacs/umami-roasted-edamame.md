@@ -38,6 +38,11 @@ rorschachHigh: a hen brooding low and close over the nest
 rorschachMid: a raincloud with the first drops falling straight down
 rorschachLow: a thinning cloud scattering its rain everywhere at once
 rorschachLeast: a fog breaking up and drifting off in every direction
+facetMostTags: [chickpea, mung, black]
+facetHighTags: [chickpea, mung]
+facetMidTags: [chickpea, mung]
+facetLowTags: [adzuki, chickpea]
+facetLeastTags: [adzuki, chickpea, green]
 ---
 
 Rendered Edamame are the Bean Zodiac's most attentive — when they're with you, the rest of the room goes quiet. They notice the cup that's been moved an inch on the desk, the pause a friend almost filled but didn't, the word in the sentence that's doing all the work. People leave a conversation with one of them feeling heard in a way they can't quite explain afterwards.

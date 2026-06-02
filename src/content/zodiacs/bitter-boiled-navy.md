@@ -38,6 +38,11 @@ rorschachHigh: an anvil squared off and set on the ground
 rorschachMid: a blocky chunk of rock, one chip beside it
 rorschachLow: a lump of clay starting to slump out of shape
 rorschachLeast: a cloud reshaping, one piece torn off and drifting
+facetMostTags: [cannellini, black, pinto]
+facetHighTags: [cannellini, black]
+facetMidTags: [cannellini, black]
+facetLowTags: [fava, edamame]
+facetLeastTags: [fava, edamame, green]
 ---
 
 Infused Navy Beans are the Bean Zodiac's most dogmatic — the one who runs their life on tested principle and won't be talked out of it by the mood of the room. They've done the thinking, they hold the line, and there's real relief in dealing with someone whose yes means yes; you always know where they stand, and they stand there whether or not it's convenient. People rely on that fixedness more than they admit.

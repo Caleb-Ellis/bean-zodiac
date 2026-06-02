@@ -38,6 +38,11 @@ rorschachHigh: a sleeping cat sprawled wide on the floor
 rorschachMid: two landmasses spread across an old map
 rorschachLow: a hawk with both wings flung open
 rorschachLeast: a tarp snapping taut in a gale
+facetMostTags: [pinto, adzuki, cannellini]
+facetHighTags: [pinto, adzuki]
+facetMidTags: [pinto, adzuki]
+facetLowTags: [fava, green]
+facetLeastTags: [fava, green, edamame]
 ---
 
 Hickory Butter Beans are the Bean Zodiac's most languid — they treat hurry as something other people invented. The reply comes when the reply comes; the dinner runs an hour long because nobody at the table has anywhere to be; the long story gets its full setup, every digression intact, and lands sweeter for it.

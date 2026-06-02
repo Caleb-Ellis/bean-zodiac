@@ -38,6 +38,11 @@ rorschachHigh: a heaped cluster of grapes still attached
 rorschachMid: a crumpled sheet of paper smoothed half-flat
 rorschachLow: a single shrub clipped back to its frame
 rorschachLeast: a single bundled sheaf left on swept ground
+facetMostTags: [chickpea, mung, black]
+facetHighTags: [chickpea, mung]
+facetMidTags: [chickpea, mung]
+facetLowTags: [adzuki, chickpea]
+facetLeastTags: [adzuki, chickpea, kidney]
 ---
 
 Dashi Green Beans are the Bean Zodiac's most prolific — the pot never quite empties. They finish a thing and the next is already simmering; by Tuesday there are three drafts, four open tabs, and two half-built side projects, and they're reaching for a fifth idea before the colander is dry. Idle hands feel like cold stock to them, and the volume of what they produce is, genuinely, the craft.

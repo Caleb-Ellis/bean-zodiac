@@ -38,6 +38,11 @@ rorschachHigh: a cat crouched watching from the grass
 rorschachMid: a wooded hill with scrub along its crown
 rorschachLow: a sheep dozing under a fringe of wool
 rorschachLeast: a hedgehog curled tight with its face hidden
+facetMostTags: [cannellini, pinto, black]
+facetHighTags: [cannellini, pinto]
+facetMidTags: [cannellini, pinto]
+facetLowTags: [fava, green]
+facetLeastTags: [fava, green, kidney]
 ---
 
 Miso Edamame are the Bean Zodiac's most observant — by the time they've sat down at the dinner they've clocked who arrived together, who isn't speaking to whom, and which of the two hosts cooked. None of this gets said. It goes into the long private file alongside last month's observations, where it ripens into a reading of the situation that is usually correct and almost always private.

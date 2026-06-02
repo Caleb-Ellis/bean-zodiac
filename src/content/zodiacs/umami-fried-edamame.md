@@ -38,6 +38,11 @@ rorschachHigh: a fox nosing the air, snout to the wind
 rorschachMid: a long loaf cooling on a board
 rorschachLow: a seal lolling half-asleep on a rock
 rorschachLeast: a lump of wax gone blunt and faceless
+facetMostTags: [cannellini, black, kidney]
+facetHighTags: [cannellini, black]
+facetMidTags: [cannellini, black]
+facetLowTags: [fava, green]
+facetLeastTags: [fava, green, cannellini]
 ---
 
 Tempura Edamame are the Bean Zodiac's keenest — the ones who clock the actual question inside the email's third paragraph and answer it in one line. They read the room on the way through the door, notice the lamp moved an inch, hear which word a friend chose instead of the obvious one. The thinking is fast and almost always right.

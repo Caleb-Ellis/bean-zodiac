@@ -38,6 +38,11 @@ rorschachHigh: an octopus with all its arms spread wide
 rorschachMid: a candelabra with curling branched arms
 rorschachLow: a bare bush after the leaves have dropped
 rorschachLeast: a stripped winter thornbush against the sky
+facetMostTags: [pinto, adzuki, kidney]
+facetHighTags: [pinto, adzuki]
+facetMidTags: [pinto, adzuki]
+facetLowTags: [fava, edamame]
+facetLeastTags: [fava, edamame, green]
 ---
 
 Peri-Peri Butter Beans are the Bean Zodiac's most hedonistic — the ones who light the candle on a Tuesday, run the bath at three in the afternoon, open the good wine for no occasion. They cook too much food, they pour the second glass before you've asked, and the room they're in is always slightly warmer and more fragrant than the rooms on either side of it.

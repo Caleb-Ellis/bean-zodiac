@@ -38,6 +38,11 @@ rorschachHigh: two crows hunched apart at dusk
 rorschachMid: a walnut split into its two halves
 rorschachLow: two children sharing the same open book
 rorschachLeast: two lit windows facing across a narrow lane
+facetMostTags: [pinto, cannellini, navy]
+facetHighTags: [pinto, cannellini]
+facetMidTags: [pinto, cannellini]
+facetLowTags: [edamame, fava]
+facetLeastTags: [edamame, fava, green]
 ---
 
 Chipotle Black Beans are the Bean Zodiac's most murky — and they prefer it that way. Ask them how the week was and you get "it was a week," delivered with the small smile of someone who's already filed the real answer somewhere you won't find it. The thinking happens off-stage. The decision arrives complete. The friend who learns they've quit the job hears about it three weeks after the resignation.

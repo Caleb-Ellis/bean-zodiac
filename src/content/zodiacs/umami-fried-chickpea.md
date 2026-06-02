@@ -38,6 +38,11 @@ rorschachHigh: a fox's pricked ears swiveling toward a sound
 rorschachMid: a horned mask resting above a round stone
 rorschachLow: a cat dozing, head drooping over a cushion
 rorschachLeast: a fur hat tossed onto a sagging ottoman
+facetMostTags: [fava, green, cannellini]
+facetHighTags: [fava, green]
+facetMidTags: [fava, green]
+facetLowTags: [butter, mung]
+facetLeastTags: [butter, mung, black]
 ---
 
 Tempura Chickpeas are the Bean Zodiac's most proactive — the ones whose Sunday already has Tuesday's problem solved. They pack the bag two days early, send the calendar invite before anyone has remembered to ask, refill the snack cupboard the day before it was going to run out. By the time most people notice a thing needs doing, a Tempura Chickpea has done a quieter version of it and moved on.

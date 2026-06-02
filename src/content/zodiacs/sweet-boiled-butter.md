@@ -38,6 +38,11 @@ rorschachHigh: two open hands held out to take a load
 rorschachMid: a butterfly resting with wings spread wide
 rorschachLow: a bat braced for a downward stroke
 rorschachLeast: a hawk flaring its wings to hold its ground
+facetMostTags: [chickpea, mung, black]
+facetHighTags: [chickpea, mung]
+facetMidTags: [chickpea, mung]
+facetLowTags: [adzuki, chickpea]
+facetLeastTags: [adzuki, chickpea, green]
 ---
 
 Candied Butter Beans are the Bean Zodiac's most compliant — and the easiest people in any room to plan around. The vote goes their way because they voted with whoever spoke last; the dinner lands on the date that suited everyone else; the offered chair, the warmer cup, the quieter seat all flow to them by way of polite redirection nobody actually noticed happening.

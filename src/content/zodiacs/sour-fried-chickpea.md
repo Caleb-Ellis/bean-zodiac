@@ -38,6 +38,11 @@ rorschachHigh: a coin purse drawn shut around its weight
 rorschachMid: a smooth river stone with one chipped edge
 rorschachLow: a roll of dough proofing open in the bowl
 rorschachLeast: a sleeping puppy gone slack and belly-up
+facetMostTags: [cannellini, edamame, black]
+facetHighTags: [cannellini, edamame]
+facetMidTags: [cannellini, edamame]
+facetLowTags: [green, fava]
+facetLeastTags: [green, fava, edamame]
 ---
 
 Agrodolce Chickpeas are the Bean Zodiac's most shrewd — they walk into a room and have it mapped before the second drink. Who owes whom, who's about to leave, which compliment was a stalking horse for a request: the data arrives unbidden, sorted, mostly correct. They use it sparingly and almost never to their own visible advantage, which is why the people they read so accurately tend to trust them anyway.

@@ -38,6 +38,11 @@ rorschachHigh: a torch held up at the front of a march
 rorschachMid: a candle flame steady on a table
 rorschachLow: a single coal glowing in cold ash
 rorschachLeast: a snuffed wick with smoke trailing off
+facetMostTags: [chickpea, mung, black]
+facetHighTags: [chickpea, mung]
+facetMidTags: [chickpea, mung]
+facetLowTags: [adzuki, chickpea]
+facetLeastTags: [adzuki, chickpea, pinto]
 ---
 
 Braised Green Beans are the Bean Zodiac's most zealous — the ones who hear about a small wrong at a party and have a plan, three calls, and the right person to email before the drink is finished. The conviction is real and the energy behind it is steady; a cause they take up at midnight is still simmering by morning.

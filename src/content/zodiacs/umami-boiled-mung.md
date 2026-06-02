@@ -38,6 +38,11 @@ rorschachHigh: a corked bottle with a narrow neck
 rorschachMid: a spinning top resting on its point
 rorschachLow: a hand bell tipped to one side
 rorschachLeast: a trumpet flaring wide at the bell
+facetMostTags: [butter, black, kidney]
+facetHighTags: [butter, black]
+facetMidTags: [butter, black]
+facetLowTags: [fava, edamame]
+facetLeastTags: [fava, edamame, green]
 ---
 
 Dashi Mung Beans are the Bean Zodiac's quietest — walk into a loud room with them and the volume drops by a notch before either of you has spoken. They listen through a whole meal and leave with the one thing worth carrying; the message sits in drafts for three days, and when it finally goes, every extra word is gone with it.

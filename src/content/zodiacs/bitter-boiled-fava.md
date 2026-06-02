@@ -38,6 +38,11 @@ rorschachHigh: a hooded knight stepping forward, shoulders set
 rorschachMid: a goat's head with two small ears
 rorschachLow: a bull's head lowering, backing away from front
 rorschachLeast: a goat's head ducked down, horns turned aside
+facetMostTags: [kidney, green, chickpea]
+facetHighTags: [kidney, green]
+facetMidTags: [kidney, green]
+facetLowTags: [butter, mung]
+facetLeastTags: [butter, mung, black]
 ---
 
 Infused Fava Beans are the Bean Zodiac's most courageous — the one who opens the dreaded email before coffee, says the unpopular thing at the meeting, and stays in the seat through the silence that follows. They walk toward what others put off, and they do it early, while it's still hard. Around them, braver versions of other people tend to appear; courage is contagious, and they're usually the carrier.

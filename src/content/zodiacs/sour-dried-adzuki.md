@@ -38,6 +38,11 @@ rorschachHigh: a chestnut burr split along one side
 rorschachMid: a potato with sprouts down one edge
 rorschachLow: a sleeping hedgehog curled into its quills
 rorschachLeast: a fat loaf rising with a frayed crust
+facetMostTags: [cannellini, edamame, black]
+facetHighTags: [cannellini, edamame]
+facetMidTags: [cannellini, edamame]
+facetLowTags: [fava, green]
+facetLeastTags: [fava, green, edamame]
 ---
 
 Dehydrated Adzuki Beans are the Bean Zodiac's most tart — the toast they give actually means something, which is why people brace before they raise their glass. They show up with the gift, the candles, the right number of chairs, and a small unsweetened sentence about the year just had. Everyone laughs a beat late and then properly.

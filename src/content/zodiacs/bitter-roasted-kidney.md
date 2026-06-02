@@ -38,6 +38,11 @@ rorschachHigh: a peacock upright, tail fanned out beside
 rorschachMid: a standing stone with brush growing alongside
 rorschachLow: a scarecrow leaning, straw spilling from one side
 rorschachLeast: a coat slipped off its hook, puddled down
+facetMostTags: [cannellini, fava, chickpea]
+facetHighTags: [cannellini, fava]
+facetMidTags: [cannellini, fava]
+facetLowTags: [fava, edamame]
+facetLeastTags: [fava, edamame, green]
 ---
 
 Wood-Fired Kidney Beans are the Bean Zodiac's most proud — they have standards and presence. They walk into a gathering and the air composes itself around their posture without their asking; with strangers they stay exactly the size they are, neither shrinking to please nor expanding to claim. They name their number and decline to itemise it.

@@ -38,6 +38,11 @@ rorschachHigh: a temple bell with the clapper hung beneath
 rorschachMid: a round boulder with a smaller stone set on top
 rorschachLow: a snowman half-melted, head slumping off the body
 rorschachLeast: a scoop of dough dropped onto a bigger lump
+facetMostTags: [chickpea, mung, black]
+facetHighTags: [chickpea, mung]
+facetMidTags: [chickpea, mung]
+facetLowTags: [chickpea, green]
+facetLeastTags: [chickpea, green, kidney]
 ---
 
 Aged Adzuki Beans are the Bean Zodiac's most reverential — they will warm the cups before pouring, fold the napkin twice, and let a long pause sit at the head of the table because the moment deserves a sill to rest on. A birthday is not a date in a calendar to them; it is a thing you walk toward slowly, with both hands.
