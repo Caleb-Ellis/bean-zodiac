@@ -6,6 +6,11 @@ form: boiled
 trait: zealous
 dish: Sichuan boiled green beans with doubanjiang and peppercorn.
 quote: I have nothing to offer but bean, toil, tears and sweat.
+creature: fox terrier
+friendlyBeans: [kidney, edamame]
+antiBeans: [cannellini, black]
+friendlyForm: roasted
+antiForm: dried
 seasonalFortune: A season when the pot is kept at full boil; the peppercorn's numbness settles in slow, and what was urgent at dawn still simmers past dusk.
 fortuneMost: A cause you take up at midnight is still burning by the next one — that's rare and it's real. Point the whole fire at one thing and it moves.
 fortuneMost2: Pick one fight and finish it. The other six can wait; conviction without focus is just weather, loud and going nowhere.
@@ -18,15 +23,15 @@ fortuneLow2: Not every fire is yours to feed. Walk past one without adding a log
 fortuneLeast: A low simmer needs no apology. The heat you don't spend isn't lost, only banked — sit with the stillness even when it feels like neglect.
 fortuneLeast2: Someone else's shrug is allowed to stay theirs. The silence you leave around it isn't betrayal, however much it reads like one to you.
 facetMostTitle: The Jar Scraped Clean
-facetMost: You finish the draft at three in the morning, send it before the kettle cools, and begin the next.
+facetMost: A documentary about a polluted river ends and the credits are still rolling. You're already pulling on shoes to go scout the bank yourself.
 facetHighTitle: Heat Through the Pod
-facetHigh: A stranger mentions a small injustice and you have, within the minute, named the enemy and the first call to make.
+facetHigh: A bake sale won't save the shelter and the room's content to hold one anyway. Redraw the whole plan into something that actually might.
 facetMidTitle: Long Simmer, Lid on
-facetMid: You return to the same argument three weeks running, sure the answer sits one pass away.
+facetMid: There's a knot in the local zoning fight you keep gnawing at. You pick it up one more evening, certain the answer's a single turn away.
 facetLowTitle: Peppercorn in the Tin
-facetLow: The group chat catches fire; you watch the notifications stack, then mute the thread without reading back.
+facetLow: A petition's going round the neighborhood and it's a fine cause. Why not sign your name and leave the door-knocking to someone else?
 facetLeastTitle: The Pot Pushed Back
-facetLeast: You let the week pass without taking up anything, and feel the simmer build under the lid for next time.
+facetLeast: The news is full of things worth being furious about. You read it, set the paper down, and go water the tomatoes.
 question: A stranger at the bar mentions a small injustice they've been wronged by. You...
 answerMost: have a plan, three calls to make, and the right person to email by morning
 answerHigh: name the enemy and tell them what you'd do in their shoes
@@ -38,11 +43,6 @@ rorschachHigh: a torch held up at the front of a march
 rorschachMid: a candle flame steady on a table
 rorschachLow: a single coal glowing in cold ash
 rorschachLeast: a snuffed wick with smoke trailing off
-facetMostTags: [chickpea, mung, black]
-facetHighTags: [chickpea, mung]
-facetMidTags: [chickpea, mung]
-facetLowTags: [adzuki, chickpea]
-facetLeastTags: [adzuki, chickpea, pinto]
 ---
 
 Braised Green Beans are the Bean Zodiac's most zealous — the ones who hear about a small wrong at a party and have a plan, three calls, and the right person to email before the drink is finished. The conviction is real and the energy behind it is steady; a cause they take up at midnight is still simmering by morning.

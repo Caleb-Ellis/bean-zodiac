@@ -6,6 +6,11 @@ form: fermented
 trait: minimalist
 dish: Butter bean and labneh with preserved lemon and olive oil.
 quote: Less is bean.
+creature: egret
+friendlyBeans: [adzuki, pinto]
+antiBeans: [kidney, green]
+friendlyForm: smoked
+antiForm: fried
 seasonalFortune: Brine narrows the season. What lingers in the jar after months keeps its name; the rest has gone to salt and silence.
 fortuneMost: One bean, white plate, nothing beside it — and the bareness was never lack.
 fortuneMost2: Two of a thing is just one you haven't decided about yet. Give the duplicate away and keep the single good knife; the room that opens up feels like breathing.
@@ -18,15 +23,15 @@ fortuneLow2: Keep the gift you'd have quietly returned. Sometimes the having is 
 fortuneLeast: A door you've been skipping has your absence speaking for you, and it's telling lies. Show up full and unedited, bread in hand.
 fortuneLeast2: A loud table with every voice at once is not a mess waiting to be cut to one. It reads as clutter, then it reads as company, and you stay longer than you meant to.
 facetMostTitle: One Bean, White Plate
-facetMost: You live in rooms with bare walls and call the bareness furnishing; visitors mistake it for moving out.
+facetMost: A free sample, no strings — a vase you'd have nowhere to put. You wave it off before the hand's fully out, lighter for not owning it.
 facetHighTitle: Oil Over Labneh
-facetHigh: You close the tabs you opened this morning; one stays open, and it is enough.
+facetHigh: Asked to say a few words at the gathering, you'd rather land one true sentence and sit back down than fill the warm minute they left open.
 facetMidTitle: Lemon in Salt
-facetMid: You cook the bean plain, pull the garnish back, taste it again before plating.
+facetMid: A shelf of options for the same small job, and you reach past five to keep the one that does it. The other four go in the giveaway box.
 facetLowTitle: Three Oils, Four Salts
-facetLow: You keep gifts you will never use, drawn to the having more than the using.
+facetLow: A souvenir stall, all of it useless, and one chipped trinket snags you. You'd rather carry it home than reason your way out of wanting it.
 facetLeastTitle: Every Herb at Once
-facetLeast: At a long table you want every voice speaking; a quiet room feels to you like a room with the lights off.
+facetLeast: A spare chair, a spare blanket, a third helping you won't finish — pile it on. The crowded warmth of more beats the clean line of just enough.
 question: You're helping a friend pack for a weekend away and they've laid out six outfits for two days. You...
 answerMost: quietly return four to the wardrobe and zip the bag
 answerHigh: suggest the two that cover everything and leave the rest in a neat stack
@@ -38,11 +43,6 @@ rorschachHigh: a head resting above a plain round body
 rorschachMid: two clouds drifting one above the other
 rorschachLow: two beetles tangled, legs spilling everywhere
 rorschachLeast: two crowded nests bristling with twigs and drips
-facetMostTags: [navy, mung, cannellini]
-facetHighTags: [navy, mung]
-facetMidTags: [navy, mung]
-facetLowTags: [green, fava]
-facetLeastTags: [green, fava, edamame]
 ---
 
 Pickled Butter Beans are the Bean Zodiac's most minimalist — and they will tell you, without quite saying it, that your kitchen has too much in it. They live in rooms that read as half-furnished to visitors and exactly right to them; they write the email in two lines where five were expected; they own one good knife, one good pan, and a quiet sense that anyone with more has not yet thought hard enough about the having.

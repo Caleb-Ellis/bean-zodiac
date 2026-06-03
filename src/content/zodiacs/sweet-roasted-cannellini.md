@@ -6,6 +6,11 @@ form: roasted
 trait: empowering
 dish: Cannellini roasted in maple and sage — white beans blistered in the oven with maple syrup and fresh sage until caramelised.
 quote: As we let our own bean shine, we unconsciously give others permission to do the same.
+creature: phoenix
+friendlyBeans: [chickpea, pinto]
+antiBeans: [fava, black]
+friendlyForm: fried
+antiForm: smoked
 seasonalFortune: A season of pooled maple and slow oven warmth, where the amber on one bean teaches the next to brown. Brightness spreads by being near it.
 fortuneMost: The amber on one bean teaches the next to brown — and that's you near anyone trying. Pass their good work upward with the one line that lands it.
 fortuneMost2: When the quiet one finally speaks, name what they did so it's heard twice. Someone's year turns brighter for having stood next to you this turn.
@@ -18,15 +23,15 @@ fortuneLow2: A flat compliment and a move-on, just this once. You needn't carry 
 fortuneLeast: Name the embarrassingly specific thing you want out loud — not the polished, manageable answer that stays browning in the pan. It exposes you; say it anyway.
 fortuneLeast2: Buy yourself the better thing. Don't apologise for it, and don't pass the shine along.
 facetMostTitle: Sage Darkening in Its Oil
-facetMost: When a quieter friend speaks up at the table, you name what they did so the room hears it twice.
+facetMost: A nervous kid steps up to the open mic and forgets the first line. You're the one who calls out the encouragement that gets them going.
 facetHighTitle: The Crust Holds, Inside Soft
-facetHigh: You hand over the credit before anyone can ask whose idea it was.
+facetHigh: The trophy ends up in your hands but the win was the whole team's. You're already passing it down the line for everyone else to lift first.
 facetMidTitle: Maple in the Crevice
-facetMid: In a group chat going nowhere, you quote someone's half-thought back to them as the whole point.
+facetMid: Someone in the circle mumbles an idea and lets it trail off. You lean in and ask them to say the second half out loud.
 facetLowTitle: The Tray Pulled Early
-facetLow: You give a flat compliment and move on, letting the other person carry their win alone.
+facetLow: A beginner asks if you'll show them the trick you're known for. You keep it to yourself and let them work it out alone.
 facetLeastTitle: Beans Cooling on the Sheet
-facetLeast: You buy yourself the better thing and tell no one which shop it came from.
+facetLeast: There's one spotlight on the stage and room enough for one. You step into it and let the others find their own light.
 question: A role opens up that you'd be good at and a friend would also be good at. They mention it first, half-joking, over drinks. You...
 answerMost: spend the evening helping them draft the application
 answerHigh: tell them they'd be perfect and not mention you'd been thinking about it
@@ -38,11 +43,6 @@ rorschachHigh: a stag rising with antlers spread wide
 rorschachMid: a coat rack branching above two legs
 rorschachLow: a figure hunched over its folded arms
 rorschachLeast: a fist clenched above two locked knees
-facetMostTags: [butter, mung, kidney]
-facetHighTags: [butter, mung]
-facetMidTags: [butter, mung]
-facetLowTags: [fava, edamame]
-facetLeastTags: [fava, edamame, green]
 ---
 
 Glazed Cannellini Beans are the Bean Zodiac's most empowering — the ones who name the quiet colleague's half-thought back to the room as the whole point, who forward the junior's work upward with one line that lands it. Praise leaves them so cleanly it doesn't even feel like generosity; it feels like accurate reporting.

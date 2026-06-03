@@ -6,6 +6,11 @@ form: fermented
 trait: rational
 dish: Edamame in ponzu with bitter yuzu and silken tofu.
 quote: The body is not the master of the mind, any more than the mind is the master of the bean.
+creature: carrion crow
+friendlyBeans: [green, kidney]
+antiBeans: [mung, butter]
+friendlyForm: dried
+antiForm: boiled
 seasonalFortune: Ponzu has been pulling acid from yuzu peel for weeks; what arrives at the bowl is no longer sharp citrus but a settled verdict, ready to season what it meets.
 fortuneMost: Count it out before you say yes. A choice made on a feeling rarely survives contact with the actual figures, and you know it.
 fortuneMost2: The hard decisions land in your lap because you won't flinch toward the comfortable answer. Turn this one over until it accounts for itself.
@@ -18,15 +23,15 @@ fortuneLow2: Your first read of a stranger has come right more often than the lo
 fortuneLeast: What your gut already chose is most likely the answer; the reasoning can catch up later. Moving first on instinct will feel unmoored — move anyway.
 fortuneLeast2: Eat when hungry, rest when tired, take the place that felt like home in the doorway. Leaving a few things unjustified costs your certainty, not your judgement.
 facetMostTitle: The Peel's Own Clock
-facetMost: Decisions wait until the figures are in; nothing important gets signed off on a Friday feeling.
+facetMost: Never mind the salesperson swearing this is the best phone for you — the pitch washes right past while you line the specs up side by side, and you won't so much as hold it until they do.
 facetHighTitle: Tang That Needs Time
-facetHigh: You draft the reply, leave it overnight, and send the version that survives the morning.
+facetHigh: Everyone at the table agrees the plan feels right and wants to commit. You're the one asking what happens if the first part goes wrong, before anyone signs anything.
 facetMidTitle: Tofu in Its Water
-facetMid: You keep receipts in one drawer, batteries in another, and can name what's in either without looking.
+facetMid: A horoscope app pings with the reason your week's been off. It's a fun read and you don't put a gram of weight on it; the week went how it went for plainer reasons.
 facetLowTitle: Ponzu at the Table
-facetLow: You trust a first read of a person and have rarely been wrong.
+facetLow: Two job offers, near identical on paper, and the deadline's tonight. You go with the one that simply felt better walking out the interview — no figures to point to, just the feel of it.
 facetLeastTitle: Before the Rice Is Rinsed
-facetLeast: You eat when hungry, sleep when tired, and rarely ask a body to justify itself.
+facetLeast: At a crossroads with no map and no reason to favour either road, you just turn down the one that pulls at you. Could be the long way round, and you take it on the pull alone.
 question: A friend is weighing two apartments and wants your help deciding. You...
 answerMost: build a spreadsheet of rent, commute, and square footage before saying anything
 answerHigh: list the trade-offs and ask which ones they actually weigh more
@@ -38,11 +43,6 @@ rorschachHigh: an ox yoke notched evenly for the load
 rorschachMid: a low hill rising to two rounded peaks
 rorschachLow: a bat with both wings flung open
 rorschachLeast: a heart, the two chambers swelling at the top
-facetMostTags: [navy, black, chickpea]
-facetHighTags: [navy, black]
-facetMidTags: [navy, black]
-facetLowTags: [adzuki, mung]
-facetLeastTags: [adzuki, mung, butter]
 ---
 
 Cultured Edamame are the Bean Zodiac's most rational — they won't sign off on a Friday feeling, won't say yes until the numbers are in the spreadsheet, and have never once regretted leaving the angry reply overnight. They turn a thing over until they can actually account for it, and the verdict that comes out the far end is usually the right one. People bring them the messy decisions precisely because they don't flinch toward the comfortable answer.

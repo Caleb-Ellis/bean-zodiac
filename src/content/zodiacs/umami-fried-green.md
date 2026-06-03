@@ -6,6 +6,11 @@ form: fried
 trait: overachieving
 dish: Gan bian si ji dou - dry-fried green beans with pork mince, dried shrimp, and garlic.
 quote: Whatever you are, bean a good one.
+creature: dam beaver
+friendlyBeans: [edamame, pinto]
+antiBeans: [butter, cannellini]
+friendlyForm: roasted
+antiForm: boiled
 seasonalFortune: A season for blistered skins and longer wok-work. The pan keeps asking for one more handful, and the hands keep finding it.
 fortuneMost: The pan keeps asking for one more handful and your hands keep finding it. Make the version nobody asked for — that's the part they'll still be talking about long after.
 fortuneMost2: The side, the starter, and the backup loaf, all in your arms at the door. You arrive with the whole table.
@@ -18,15 +23,15 @@ fortuneLow2: Stop at the dish the evening actually called for. The kitchen doesn
 fortuneLeast: Plain rice, the lamp turned low, no second course and no apology for it. Resting your hands will feel like failing; it isn't.
 fortuneLeast2: Arrive once with nothing in your arms and feel how little is lost. The bare version was always allowed.
 facetMostTitle: Garlic Past the Recipe
-facetMost: You finish the work, then build a second draft beside it before anyone has tasted the first.
+facetMost: The class only set one chapter, but you've read the next three and chased down the book the footnote pointed at before the first is even discussed.
 facetHighTitle: Shrimp in the Receipt Envelope
-facetHigh: Asked for the figure, you return with the figure, the source, and the version you would have preferred.
+facetHigh: A neighbor asks you to water one plant while they're away; you come back with the whole windowsill trimmed and the post sorted into piles.
 facetMidTitle: Mince Crackling at the Rim
-facetMid: You set the table for four and lay six places, in case the night decides to grow.
+facetMid: Wrapping a single gift, you find yourself adding the ribbon, the hand-cut tag, the little extra tucked inside no one asked for.
 facetLowTitle: The Wok Gone Cool
-facetLow: You stop at the dish the night asked for; the kitchen does not need a second act.
+facetLow: The group's walking an easy pace and you could push ahead as always — but you fall in step and let the day be a stroll, not a feat.
 facetLeastTitle: Bean Blanched, Nothing More
-facetLeast: Tired, you ask for plain rice and the lamp turned low.
+facetLeast: Worn thin, you turn in the bare-minimum version of a thing and feel the unfamiliar ease of leaving good-enough alone.
 question: You're asked to bring a side dish to a casual dinner. You...
 answerMost: bring two sides, a homemade dessert, and a backup loaf
 answerHigh: make the side and add a small starter "just in case"
@@ -38,11 +43,6 @@ rorschachHigh: a tree crown grown too heavy for its trunk
 rorschachMid: a head of cauliflower on a board
 rorschachLow: a single scoop of rice in a bowl
 rorschachLeast: an empty bowl rinsed and set down
-facetMostTags: [kidney, navy, black]
-facetHighTags: [kidney, navy]
-facetMidTags: [kidney, navy]
-facetLowTags: [butter, edamame]
-facetLeastTags: [butter, edamame, black]
 ---
 
 Tempura Green Beans are the Bean Zodiac's most overachieving — the ones who bring the side dish, the starter, and a backup loaf, and who quietly notice that the host's wineglasses don't match and resolve to do something about that next time. The draft they send has footnotes. The presentation has an appendix. Whatever was asked for has already been done and a second, better version is finishing in the oven.

@@ -6,6 +6,11 @@ form: smoked
 trait: acrid
 dish: Kimchi jjigae with smoked adzuki - adzuki bean stew with kimchi, tofu, and gochugaru
 quote: The bean is mightier than the sword.
+creature: skunk
+friendlyBeans: [black, navy]
+antiBeans: [kidney, mung]
+friendlyForm: fermented
+antiForm: roasted
 seasonalFortune: A season cured in smoke and brine. The kitchen window stays cracked; what passes through it leaves a mark on the sill and a taste in the back of the throat.
 fortuneMost: The flaw reaches the room before you do, the way smoke arrives ahead of the fire. Whoever flinches was always going to.
 fortuneMost2: Brine doesn't ask permission to sting. It just keeps the thing from rotting, and so do you.
@@ -18,15 +23,15 @@ fortuneLow2: A thing you'd usually cut straight into. Walk past it once — the 
 fortuneLeast: An off smell in the air — and for once someone else's nose finds it before yours. Don't pretend you had it first; let the wider nose lead.
 fortuneLeast2: Somewhere a warm thing is staying warm precisely because you didn't sharpen it. It feels like losing something. It isn't.
 facetMostTitle: Gochugaru at the Edge
-facetMost: You send the draft no one asked for, name the flaw on page one, and let the room sit with it.
+facetMost: A friend models the outfit they're wearing to the interview and waits for a yes. It doesn't work, and you say so before they reach for the mirror.
 facetHighTitle: Kimchi Against Hot Oil
-facetHigh: At the table you say the unflattering true thing while passing the bowl, and you do not soften the handoff.
+facetHigh: Everyone is calling the new hire a great fit. You've watched them for a week, and the doubt goes on the table before the praise can close over it.
 facetMidTitle: Smoke in the Tofu's Seams
-facetMid: Your apologies arrive itemised — what you did, what it cost — and you don't pad the receipt with feeling.
+facetMid: Asked how the trip went, you give the honest two days — the lost booking, the cold rental — without rounding it up to fine.
 facetLowTitle: The Broth's Lost Corners
-facetLow: You host by smoothing; the rough remark gets refolded into a second helping before anyone catches its shape.
+facetLow: The correction is right there on your tongue and the person's already had a rough morning. You let the small wrong fact stand and pour them something instead.
 facetLeastTitle: The Cooling Kettle
-facetLeast: The sharp note in a room reaches you last, after someone else has already named it.
+facetLeast: A meal lands flat and there's a clear reason why. Let someone else be the one to point at it — you'll hold your tongue and see who speaks first.
 question: A family photo at someone's funeral, blown up large, carefully cropped. The thing it crops out is something everyone in the room remembers. You...
 answerMost: name the missing person, by name, when it's your turn to speak
 answerHigh: mention them in a sentence the family can hear and choose what to do with
@@ -38,11 +43,6 @@ rorschachHigh: a scorched skull with sockets burned through
 rorschachMid: two river stones touching, pocked with holes
 rorschachLow: two loaves cooling side by side
 rorschachLeast: a sleeping cat curled against its own warmth
-facetMostTags: [cannellini, edamame, black]
-facetHighTags: [cannellini, edamame]
-facetMidTags: [cannellini, edamame]
-facetLowTags: [green, fava]
-facetLeastTags: [green, fava, edamame]
 ---
 
 Cured Adzuki Beans are the Bean Zodiac's most acrid — the toast at their table is the one that names what everyone agreed not to. They are the friend who tells you the haircut isn't working before the photos go up, the colleague who replies-all with the sentence the thread had been circling for three days. The relief in the room is real; people seek them out for it.

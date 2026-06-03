@@ -6,6 +6,11 @@ form: dried
 trait: perennial
 dish: Green bean gangjeong — dried green beans lacquered in honey and rice syrup, coated in sesame, and shaped into Korean confection pieces.
 quote: No matter how long the winter, spring is sure to bean.
+creature: redwood sloth
+friendlyBeans: [kidney, edamame]
+antiBeans: [mung, fava]
+friendlyForm: fried
+antiForm: smoked
 seasonalFortune: Honey holds the bloom past frost and sets it down again come thaw; what this bean keeps, it keeps by coming back to.
 fortuneMost: A vine coming back over the same fence, year on year. The thing you set down long ago is still waiting, and so are you — pick it up again, near where you both left off.
 fortuneMost2: The friend who vanished walks back in, and the kettle's already warming. What you hold, you hold by coming back to it.
@@ -18,15 +23,15 @@ fortuneLow2: Coming back isn't owed every single time. Some returns take everyth
 fortuneLeast: A stump with the rings gone grey doesn't come back, and shouldn't. Don't water what died long ago.
 fortuneLeast2: Old drafts to the bin unread, last year's names gone with last year. The door that doesn't reopen has its own clean freedom — strange for a returner to feel, and real.
 facetMostTitle: Sesame Finds the Same Grain
-facetMost: A friend who vanished three winters back walks in, and your kettle is already on the burner.
+facetMost: A swallow you swear is last year's builds its nest in the same eave again. You leave the window cracked and start setting out crumbs like no season has passed.
 facetHighTitle: Syrup Pools Where It Pooled
-facetHigh: You reopen the same notebook every January; the margins grow thicker, the project never quite closes.
+facetHigh: There it is again — the market stall you loved and thought was long gone. You drift straight over and pick up the haggling where you left off years ago.
 facetMidTitle: The Pan That Cools and Begins
-facetMid: You finish in autumn the walk you abandoned in March.
+facetMid: A puzzle abandoned half-built gathers dust on the side table for ages. Passing it for the hundredth time, you finally sit and press in the next missing piece.
 facetLowTitle: Lacquer Set, and Not Softened
-facetLow: One chair, one route, one cup — the spare set goes to someone else.
+facetLow: The path you've walked a hundred times has a new fork cut into the hillside. You take the unknown branch this once, not minding where it lets out.
 facetLeastTitle: The Confection's Last Hardening
-facetLeast: Old drafts to the bin unread; last year's address book gone with last year.
+facetLeast: An ex you once orbited for years waves from across a busy square. You give a small nod, mean nothing by it, and turn down a different street.
 question: An old friend you haven't spoken to in three years messages out of the blue - "in town next week, drink?" The reasons it lapsed are foggy now. You...
 answerMost: reply within the minute, suggest the old pub, ask after their mum
 answerHigh: say yes warmly, book the night, look forward to it
@@ -38,11 +43,6 @@ rorschachHigh: tree rings circling out year by year
 rorschachMid: a wheel resting on its side
 rorschachLow: a calendar with the old pages torn off
 rorschachLeast: a stump with the rings gone grey
-facetMostTags: [navy, butter, black]
-facetHighTags: [navy, butter]
-facetMidTags: [navy, butter]
-facetLowTags: [fava, edamame]
-facetLeastTags: [fava, edamame, pinto]
 ---
 
 Crystallised Green Beans are the Bean Zodiac's most perennial. The friendship from school, the hobby they dropped at twenty-two and picked up at thirty-eight, the half-finished novel waiting in the same drawer for a decade — they come back to it, and somehow the thing comes back too, picking up almost where it left off.

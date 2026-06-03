@@ -6,6 +6,11 @@ form: smoked
 trait: iridescent
 dish: Southern green beans slow-cooked with smoked ham hock, brown sugar, and sweet onion.
 quote: A thing of bean is a joy forever.
+creature: scarab
+friendlyBeans: [kidney, pinto]
+antiBeans: [butter, mung]
+friendlyForm: fermented
+antiForm: dried
 seasonalFortune: Slow smoke threads the pot until the green turns half-amber. The hours pass at the pace of a rendering hock, sweetness gathering by degrees.
 fortuneMost: You'll be a different person at every table and true at all of them. The green goes half-amber in the slow smoke; you meet each room in the colour it needs.
 fortuneMost2: Two friends will compare notes on you and half-doubt they mean the same person. They do, and that doubling is the gift, not the flaw.
@@ -18,15 +23,15 @@ fortuneLow2: Same mug, same chair, same way home. The repetition is a quiet kind
 fortuneLeast: Give one true answer to "how are you" and let it set. Being only one of yourself will feel strangely exposed, and it's still the rest you need.
 fortuneLeast2: Let a stranger guess you right on the first pass. There's relief in being the same to everyone, once you stop missing the shimmer.
 facetMostTitle: A Hock, a Different Spoonful
-facetMost: Friends describe you to each other and compare notes afterward, half-sure they mean the same person.
+facetMost: A mirror in a strange hallway shows you a slightly different face for each angle you turn. None of them feels wrong; you'd happily wear any.
 facetHighTitle: Brown Sugar by the Minute
-facetHigh: You wear three coats through one walk — the weather you woke to is never the weather you arrive in.
+facetHigh: You're seated between a shy kid and a loud uncle at the wedding. By dessert you've spoken two languages and meant both.
 facetMidTitle: Smoke Past the Lifted Lid
-facetMid: In a crowded room, your laugh changes pitch depending on who is leaning in.
+facetMid: The accent of whoever you've just spent an hour with starts creeping into your own. You let it.
 facetLowTitle: One Pot, One Note
-facetLow: You keep the same mug, the same chair, the same route home, and the repetition steadies you.
+facetLow: A new café opens with thirty teas on the board. You order the one you always order and read in the corner you always take.
 facetLeastTitle: Onion Stays Onion
-facetLeast: Strangers guess your job on the first try; nothing about you needs a second pass.
+facetLeast: An old photo turns up of you a decade ago. The person in it talks, dresses, and stands exactly as you do now.
 question: Two friends from different parts of your life ask, the same week, what you've been up to. You...
 answerMost: tell each one a different story, shaped to the room they're standing in
 answerHigh: pick the angle each will care about and lead with it
@@ -38,11 +43,6 @@ rorschachHigh: two moths, wings catching the light at odd angles
 rorschachMid: two islands seen from above, one over the other
 rorschachLow: two clay bowls of the same dull glaze, stacked
 rorschachLeast: a beetle pinned beside its identical twin
-facetMostTags: [pinto, cannellini, black]
-facetHighTags: [pinto, cannellini]
-facetMidTags: [pinto, cannellini]
-facetLowTags: [fava, edamame]
-facetLeastTags: [fava, edamame, navy]
 ---
 
 Barbecued Green Beans are the Bean Zodiac's most iridescent — and the friend who meets them at a wedding will swear they're a different person from the one their colleague describes on Monday. Both versions are real, both versions are warm, both versions are doing the work the room asked for. The wit sharpens at one table and softens at another, and nobody at either feels they're getting less than the full attention.

@@ -6,6 +6,11 @@ form: boiled
 trait: composed
 dish: Ribollita - butter beans and cavolo nero.
 quote: Do I contradict myself? Very well then, I contain beans.
+creature: crane
+friendlyBeans: [navy, black]
+antiBeans: [pinto, green]
+friendlyForm: dried
+antiForm: fried
 seasonalFortune: A season for low flame and long stock. The pot holds its line while the cavolo nero darkens and the beans give up nothing they were not ready to give.
 fortuneMost: When hard news lands, you finish the sentence you were saying. Others steady around the one who doesn't flinch — carry it like it costs you nothing.
 fortuneMost2: A still bean in a rolling pot is a good omen for everyone near it. The steadiness goes all the way down, and it's catching.
@@ -18,15 +23,15 @@ fortuneLow2: Make a noise. A calm so complete no one can tell it landed reads, f
 fortuneLeast: Laugh at the song, weep at the obituary, walk the long way home because a stranger's piano scales were drifting from an open window. The composure is paid for; spend it.
 fortuneLeast2: Argue the lost cause on principle and unravel a little where it shows. Let the lid clatter once — the pot is allowed to boil over.
 facetMostTitle: Cavolo Nero at the Edge
-facetMost: Bad news arrives and you finish the sentence you were saying. Someone watches your face for a crack and finds none.
+facetMost: Hard swell, the boat pitching, everyone grabbing for a handhold. Both your hands stay on the line you were coiling and your voice stays level — and the others steady toward the sound of it.
 facetHighTitle: The Settled Broth
-facetHigh: At a table where voices climb, yours stays where it started — and the room eventually meets you there.
+facetHigh: Cut off at the junction, horns going up all around you, and your pulse never climbs. Hold the lane, breathe out, the spike gone almost before it lands.
 facetMidTitle: Stock That Will Not Boil
-facetMid: Someone raises their voice across the table; you set your fork down and wait, and the waiting is what ends it.
+facetMid: News that empties a stomach comes down the phone line. You thank the caller, hang up, and pick the spoon back up as though nothing in the room has shifted.
 facetLowTitle: Skin Under Hard Simmer
-facetLow: You speak before you have decided what you think, and the room learns where you stand by the time you do.
+facetLow: Your take isn't fully formed and the argument won't wait — so out it comes half-built, the rest of it shaped aloud while everyone listens you into a position.
 facetLeastTitle: The Clattering Lid
-facetLeast: You weep at the song, laugh at the obituary, walk the long way home because a window was open and someone was practising scales.
+facetLeast: Some busker on the corner plays the song that gets you, and your eyes go before you can stop them. Let them. Tears on the pavement, no hand raised to hide it.
 question: The flight is cancelled, the line is long, the family behind you is unravelling. You...
 answerMost: keep your place and open a book
 answerHigh: take a breath and rebook on your phone
@@ -38,11 +43,6 @@ rorschachHigh: a standing stone settled deep, two roots gripping the earth
 rorschachMid: a grain sack stood on end, a foot at each corner
 rorschachLow: a heavy statue tilting, one foot lifting off
 rorschachLeast: a wax candle slumping, both feet sliding out from under
-facetMostTags: [mung, black, chickpea]
-facetHighTags: [mung, black]
-facetMidTags: [mung, black]
-facetLowTags: [green, edamame]
-facetLeastTags: [fava, green, edamame]
 ---
 
 Infused Butter Beans are the Bean Zodiac's most composed — the one who takes the bad phone call, says "okay, thank you for letting me know," and calmly goes back to chopping the onion. It isn't an act; the steadiness goes all the way down. In a crisis they're the person everyone unconsciously orients toward, the still point that lets the rest of the room stop spinning, and they carry it without ever seeming to try.

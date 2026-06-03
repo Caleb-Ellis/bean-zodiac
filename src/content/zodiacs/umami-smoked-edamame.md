@@ -6,6 +6,11 @@ form: smoked
 trait: prescient
 dish: Smoked edamame with soy tare, bonito, and shichimi togarashi.
 quote: The future belongs to those who bean in the beauty of their dreams.
+creature: augur owl
+friendlyBeans: [cannellini, black]
+antiBeans: [mung, adzuki]
+friendlyForm: fermented
+antiForm: roasted
 seasonalFortune: A season cured in hickory, where the salt-tare reaches the tongue a beat before the pod is opened. The kitchen runs half a step ahead of its cook.
 fortuneMost: The answer is folded in your palm before they cross the kitchen. That isn't luck; it's the tare reaching the tongue a beat before the pod opens.
 fortuneMost2: Someone will arrive shaken before long. Leave the door unlocked — you'll have the kettle on before the knock, the way you always somehow do.
@@ -18,15 +23,15 @@ fortuneLow2: Learn the room by sitting in it, no map drawn first. Sitting blind 
 fortuneLeast: The bill, the birthday, the weather — take each as it lands. Not racing the day down will feel like dropping your guard, and the day handles itself regardless.
 fortuneLeast2: Don't finish their thought; wait for the real question and let them reach it themselves. Holding the answer back will sting, but it's theirs to arrive at.
 facetMostTitle: Smoke Before the Fire
-facetMost: A friend crosses the kitchen to ask the question, and the answer is on a folded note in your palm before they have reached the counter.
+facetMost: At the baby shower the others guess wildly. You write the date and the weight on your card and seal it, sure of it.
 facetHighTitle: The Curling Bonito
-facetHigh: You pack a coat on the morning a friend will need one; the weather agrees with you by evening.
+facetHigh: Two sentences into meeting someone, you can already see how this friendship ends — and you start guarding the exit now.
 facetMidTitle: Shichimi on the Rim
-facetMid: You leave the back door unlocked the night someone shows up shaken, and the kettle is already on.
+facetMid: Where the trail forks and the map's gone useless, you take the turn that feels right and never look back at the other.
 facetLowTitle: Soy on Contact
-facetLow: You learn the shape of a room by sitting in it — no rehearsal, no map, and the chair finds you.
+facetLow: Wander the strange town your first night with no plan at all, and let the streets decide where you end up.
 facetLeastTitle: Salt at the Split
-facetLeast: Bills, birthdays, weather — you meet them as they land, and the day handles itself.
+facetLeast: The letter you've been dreading lands on the mat. Rather than brace, you slit it open and read what it actually says.
 question: A colleague starts walking over to your desk with a vague look. You...
 answerMost: hand them the file they were about to ask for
 answerHigh: open the relevant tab and turn the screen toward them
@@ -38,11 +43,6 @@ rorschachHigh: an insect's antennae reaching up to test the air
 rorschachMid: a chestnut burr split open on the path
 rorschachLow: a sea urchin overturned spines-up
 rorschachLeast: a thornbush thrashing blindly in the dark
-facetMostTags: [cannellini, pinto, black]
-facetHighTags: [cannellini, pinto]
-facetMidTags: [cannellini, pinto]
-facetLowTags: [fava, green]
-facetLeastTags: [fava, green, kidney]
 ---
 
 Hickory Edamame are the Bean Zodiac's most prescient — they answer the email an hour before it arrives, in the sense that the draft is already written when the question lands. Friends mention them mid-thought ("I was just going to say that"); the meeting they prepped for goes exactly the way they prepped. They aren't fast, exactly. They've just been there already, days ago, quietly.

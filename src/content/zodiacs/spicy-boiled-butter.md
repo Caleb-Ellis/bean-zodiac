@@ -6,6 +6,11 @@ form: boiled
 trait: stoic
 dish: Kuru fasulye - Turkish butter bean stew with Aleppo pepper and slow-cooked onion.
 quote: You have power over your bean, not outside events. Realize this, and you will find strength.
+creature: bactrian camel
+friendlyBeans: [navy, mung]
+antiBeans: [green, edamame]
+friendlyForm: dried
+antiForm: fermented
 seasonalFortune: A long simmer flattens the loudest pepper. The season favours those whose surfaces do not betray what the onion is doing underneath.
 fortuneMost: When the bad news lands, you'll ask the practical question before anyone else catches their breath. Triage is a form of mercy.
 fortuneMost2: A frightened house turns to you for its weather this week. You'll be the steady kind, and they'll never know what it cost.
@@ -18,15 +23,15 @@ fortuneLow2: Someone asks how you are, and the true answer is more than "fine." 
 fortuneLeast: Endurance has a half-life. The grievance you've been swallowing for months spoils if you keep it — hand it to the person it's about.
 fortuneLeast2: Say it out loud to the one it concerns. The surface won't crack — it's only the pressure finding a door.
 facetMostTitle: Aleppo Under the Tongue
-facetMost: You walk a fever through a full workday and tell no one until the chore is finished.
+facetMost: Nothing on your face when the plane drops and the cabin gasps as one. A glance up from the page, and then back to it.
 facetHighTitle: The Face at the Table
-facetHigh: Bad news arrives across the table; your face does not move. You ask one practical question, then pass the bread.
+facetHigh: A glass shatters behind the bar and the whole café flinches. Keep your hand steady on the cup and don't look round.
 facetMidTitle: Rain Noted Once
-facetMid: Rain all week, and the room smells of wet coats. You note the weather once and stop mentioning it.
+facetMid: The blister's been rubbing since the second mile. You mention it to no one and keep pace with the group.
 facetLowTitle: Oil From a Hot Pan
-facetLow: Notifications land in quick succession; you answer each one before the kettle has whistled.
+facetLow: A sad ending catches you off guard in the dark of the theater, and your eyes go wet. Why bother wiping them where no one can see?
 facetLeastTitle: The Pepper Flake Bitten
-facetLeast: The grievance forms and leaves the mouth in the same breath — the cook informed at once across the counter.
+facetLeast: Stub your toe on the bedframe and the whole house hears about it. The yelp's out before the pain even registers.
 question: Bad news lands across the dinner table, and the room turns to see how you'll take it. You...
 answerMost: ask one practical question and pass the bread
 answerHigh: nod, hold the face, save the reaction for later
@@ -38,11 +43,6 @@ rorschachHigh: a pair of tongs resting half-open
 rorschachMid: an open clamshell wedged on a rock
 rorschachLow: a wrench wrenching hard against a bolt
 rorschachLeast: a crocodile's jaws snapping wide open
-facetMostTags: [mung, black, pinto]
-facetHighTags: [mung, black]
-facetMidTags: [mung, black]
-facetLowTags: [green, fava]
-facetLeastTags: [green, fava, edamame]
 ---
 
 Braised Butter Beans are the Bean Zodiac's most stoic — the ones who walk a fever through a workday, take the bad news without the face moving, and ask the practical question while everyone else is still catching their breath. In a crisis, they are the room's steady weather; people gravitate toward them without quite knowing why.

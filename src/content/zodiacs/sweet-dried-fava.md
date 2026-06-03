@@ -6,6 +6,11 @@ form: dried
 trait: indomitable
 dish: Maccu dolce — dried fava beans cooked to a thick paste with honey and fennel seed, a Sicilian Carnevale sweet.
 quote: She believed she could bean, so she did.
+creature: destrier
+friendlyBeans: [black, chickpea]
+antiBeans: [adzuki, cannellini]
+friendlyForm: smoked
+antiForm: roasted
 seasonalFortune: A season that thickens by the hour, favas surrendering to honey only after long heat. The fennel keeps its bite; the paste keeps the shape of the spoon that worked it.
 fortuneMost: An oak still standing after the storm has passed — that's you, carrying the casserole up the grieving house's stairs, driving across the dark city when no one else would. They can lean their whole weight on you, and the strange gift is that you don't mind.
 fortuneMost2: Honey only surrenders the fava after long heat, and you're still over the pot when everyone else has gone to bed. The world is steadier for the few who won't break.
@@ -18,15 +23,15 @@ fortuneLow2: Set the glass down and walk out before the second round of voices r
 fortuneLeast: The bottom of the list isn't a debt; it's gravity. Some things are allowed to simply fall.
 fortuneLeast2: A free day in your hands with nothing on it, and a plain no to the next ask. Guarding it will feel selfish for about a minute, then it won't.
 facetMostTitle: The Bean That Will Not Dissolve
-facetMost: The group text goes quiet at hour three of a hard week; you are still answering, still asking the next question.
+facetMost: Sandbags keep coming up the line in your arms, rain or no rain — the water's at the porch now and the last of the neighbours have already packed it in.
 facetHighTitle: Fennel After the Sweet
-facetHigh: Friends drift home from the party; you stay to wipe the counters, and the host finds you there at one.
+facetHigh: Jaw set, stride shortened, still grinding up toward the ridge — the climb's turned brutal and one by one the others have peeled off back to camp.
 facetMidTitle: Paste That Holds a Thumbprint
-facetMid: The draft is overdue, the room is cold, the document is still open — you do not close the tab until the paragraph stands.
+facetMid: The jar lid won't budge and your hand's gone raw from trying. You run it under hot water, brace it against your hip, and have one more go before asking for help.
 facetLowTitle: Honey When the Flame Cuts
-facetLow: You hear the argument coming, set down your glass, and walk out before the second round of voices rises.
+facetLow: Backpack biting into your shoulders on the long road, you spot a bench in the shade — and you sink onto it and let the pack drop without a second thought.
 facetLeastTitle: Favas Loose in the Jar
-facetLeast: A friend asks if you can help them move on Saturday and you say no, plainly, with your weekend in your hands and nothing on it.
+facetLeast: The team's down by thirty with minutes left and the bench is still hollering to fight on. You ease back, unlace your boots early, and let this one be lost.
 question: You're already running on fumes. A friend calls — their dad just went into hospital and they need someone to drive across the city tonight. You...
 answerMost: pick up your keys before you've finished the sentence
 answerHigh: cancel the morning and go, no question
@@ -38,11 +43,6 @@ rorschachHigh: a mule pulling against a long load
 rorschachMid: a hammer left head-down on the bench
 rorschachLow: a hammock strung between two trees
 rorschachLeast: a flag dropped flat in the mud
-facetMostTags: [navy, kidney, mung]
-facetHighTags: [navy, kidney]
-facetMidTags: [navy, kidney]
-facetLowTags: [butter, edamame]
-facetLeastTags: [butter, edamame, black]
 ---
 
 Crystallised Fava Beans are the Bean Zodiac's most indomitable. They are the friend who drives across two cities at midnight, the colleague who stays after everyone else has folded, the one carrying the casserole up the stairs of the grieving house. You can lean on them and they will not move; the surprising part is that they seem to enjoy it.

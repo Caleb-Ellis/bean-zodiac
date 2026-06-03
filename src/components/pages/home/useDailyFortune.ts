@@ -11,7 +11,7 @@ import {
   getDailyFortuneIds,
   getDailyText,
   getFacetTitle,
-  getFacetTags,
+  getSpiritTags,
   getFortuneText,
   getVariantForSlug,
   getAnswerText,
@@ -156,10 +156,7 @@ export function useDailyFortune(
         qualityId: rolledQualityId,
         facetTitle: getFacetTitle(fortune, rolledQualityId),
         facetText: getFortuneText(fortune, rolledQualityId),
-        facetTags:
-          effectiveVariant === "facet"
-            ? (getFacetTags(fortune, rolledQualityId) ?? null)
-            : null,
+        spiritTags: getSpiritTags(fortune),
         score: 0,
         text: null,
         variant: effectiveVariant,

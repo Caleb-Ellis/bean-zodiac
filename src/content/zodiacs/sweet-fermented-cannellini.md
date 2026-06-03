@@ -6,6 +6,11 @@ form: fermented
 trait: diplomatic
 dish: Cannellini and sake kasu soup — white beans simmered in sweet rice-lees broth with sugar and a curl of yuzu peel.
 quote: Let us never negotiate out of bean. But let us never fear to negotiate.
+creature: ringdove
+friendlyBeans: [pinto, kidney]
+antiBeans: [navy, butter]
+friendlyForm: dried
+antiForm: dried
 seasonalFortune: Kasu sweetens slowly in the crock, edges blurring into broth. The season favours those who let disagreement steep until its sharpness rounds.
 fortuneMost: Introduce the two who'd never have found each other. Both will swear it was their own idea, and you'll let them.
 fortuneMost2: A thaw is coming between two people you'd given up on, and it will look like its own weather. You set it steeping.
@@ -18,15 +23,15 @@ fortuneLow2: Say the unflattering thing and sit in the quiet after it without re
 fortuneLeast: The no in one sentence, then nothing. The silence after is the whole answer, and holding it shut is harder than it looks.
 fortuneLeast2: Hand back the gift you don't want and name the price you won't pay. It'll feel ungracious going out and you'll sleep deeply anyway.
 facetMostTitle: Sugar Dissolved Past Finding
-facetMost: Every introduction you make is the one both parties later claim they thought of, and you never correct them.
+facetMost: Two neighbours have feuded over a fence line so long the whole street's picked sides. By the time you leave the porch, they're each privately sure the truce was theirs to give.
 facetHighTitle: The Sake-Lees
-facetHigh: You answer the group chat last, after the argument has been reframed so nobody has to take it back.
+facetHigh: A vote splits the room down the middle and the air goes brittle. You wait for the worst of it to cool, then find the one wording both sides can stand under without losing face.
 facetMidTitle: Yuzu Peel at the Rim
-facetMid: In a tense room, you offer the phrasing that lets two people keep their footing.
+facetMid: Two cousins at the dinner are an inch from the thing that can't be unsaid. There's a fourth subject on your tongue, daft enough to break the angle of it, and you're already reaching for it.
 facetLowTitle: The Bean Held Back
-facetLow: You say the unflattering thing at the table and watch the silence without flinching.
+facetLow: A friend wants the honest verdict on the plan, and the gentle version is already forming. Give them the blunt one instead and don't reach to soften the quiet after.
 facetLeastTitle: The Emptied Bowl
-facetLeast: You hand back the gift you don't want, name the price you won't pay, and sleep deeply.
+facetLeast: A favour's being offered with strings you can feel from across the room. Say no in a single clean sentence and let it sit there, unsweetened.
 question: Two friends are quietly furious with each other and both are venting to you separately. They each ask, hopefully, what you think. You...
 answerMost: tell each of them the bit of the other's case that's easiest to hear, and leave it there
 answerHigh: reflect their feelings back carefully and steer them toward sleeping on it
@@ -38,11 +43,6 @@ rorschachHigh: a narrow strait threading between two shores
 rorschachMid: two clouds drifting one above the other
 rorschachLow: a walnut prised open, the two halves apart
 rorschachLeast: two cliffs faced off across a deep chasm
-facetMostTags: [navy, mung, pinto]
-facetHighTags: [navy, mung]
-facetMidTags: [navy, mung]
-facetLowTags: [fava, green]
-facetLeastTags: [fava, edamame, green]
 ---
 
 Funky Cannellini Beans are the Bean Zodiac's most diplomatic — the ones who walk into a room where two people have stopped speaking and leave it twenty minutes later with both of them laughing at a third thing entirely. The rephrasing is so deft it feels like the disagreement evaporated on its own. They rarely take credit; the work was done while the kettle boiled.

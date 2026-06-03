@@ -6,6 +6,11 @@ form: dried
 trait: storied
 dish: Pinto bean pie — dried pintos cooked soft and sweetened into a custard filling for a Southern pie shell, spiced with cinnamon and vanilla.
 quote: After all, tomorrow is another bean.
+creature: thunderbird
+friendlyBeans: [adzuki, edamame]
+antiBeans: [kidney, cannellini]
+friendlyForm: fermented
+antiForm: boiled
 seasonalFortune: A long sweetness gathers in the dark of the pantry; what was set aside seasons itself, and the year tastes of what the year remembers.
 fortuneMost: A scrapbook fanned open across a table — nothing crosses your threshold without earning a shelf, postcard and stub and dated jar, each with its story ready. Write the day down; a later you will be grateful you kept it.
 fortuneMost2: Someone names a city and out comes the long sweet tangent, the rained-out week, the café with the broken chair, told pause for pause and none the worse for it. You carry the past so it doesn't go unwitnessed.
@@ -18,15 +23,15 @@ fortuneLow2: Replace the chipped mug with no ceremony; the new one pours just as
 fortuneLeast: Let the photos clear from the roll the night you take them. The night was the night; you lived it whether or not you hold it.
 fortuneLeast2: A fresh page with nothing on it yet. Say "not much to tell," pass the bread, open no archive — you're allowed to be only present, unfiled, meeting someone with nothing but who you are right now.
 facetMostTitle: Vanilla Past Its Bean
-facetMost: Postcards, ticket stubs, a dated jar of cinnamon — nothing crosses your threshold without earning a shelf.
+facetMost: A passing remark about an old harbour town cracks the whole thing open. Out it all pours — the storm-stranded ferry, the inn with the crooked stairs — told beat for beat.
 facetHighTitle: Every Crimp Remembered
-facetHigh: You open the old draft before the new one; the sentence you wrote at twenty-two still has work to do.
+facetHigh: Three towns and two former owners deep into the jacket's history before the next station — a stranger on the train made the mistake of asking where the worn thing came from.
 facetMidTitle: Cinnamon in Early
-facetMid: Tell a story once and you will tell it the same way a decade later, down to the pause.
+facetMid: Showing a guest around, you stop at a chipped tin soldier on the shelf they'd never have looked twice at. You can't help telling them which market stall turned it up.
 facetLowTitle: The Crust at Its Best Day
-facetLow: You replace the chipped mug without ceremony; the new one pours just as well.
+facetLow: A bonfire's roaring on the beach and someone hands you a bundle of old letters to feed it. You toss them in, watch them curl, and go back to the song around the flames.
 facetLeastTitle: Sugar, No Grain Remaining
-facetLeast: Photos clear from the roll the night you take them, and the phone stays light in the pocket.
+facetLeast: New in a city where nobody knows a thing about you, you're asked at a bar who you are. You leave the whole backstory unsaid and answer only with what's true right now.
 question: At dinner, a new friend asks you to tell them about yourself. You...
 answerMost: open with the summer of 2009 and trust them to keep up
 answerHigh: pick the long story that explains the most about you
@@ -38,11 +43,6 @@ rorschachHigh: a map with every old route still inked
 rorschachMid: a spool of thread half unwound
 rorschachLow: a fresh page with nothing on it yet
 rorschachLeast: a roll of film pulled out and fogged
-facetMostTags: [navy, butter, black]
-facetHighTags: [navy, butter]
-facetMidTags: [navy, butter]
-facetLowTags: [fava, green]
-facetLeastTags: [fava, green, edamame]
 ---
 
 Crystallised Pinto Beans are the Bean Zodiac's most storied. The kitchen drawer holds a postcard from 2011, a ticket stub, a dated jar of cinnamon, and they can tell you what each one is doing there. A friend mentions a city in passing and out comes the long sweet tangent about the summer it rained for a week and the café with the broken chair — told the same way every time, pause for pause, and somehow none the worse for it.

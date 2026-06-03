@@ -6,6 +6,11 @@ form: fermented
 trait: intuitive
 dish: Bindaetteok — Korean mung bean pancakes with bitter herb dipping sauce.
 quote: The intuitive bean is a sacred gift and the rational bean is a faithful servant.
+creature: siamese
+friendlyBeans: [cannellini, butter]
+antiBeans: [edamame, green]
+friendlyForm: smoked
+antiForm: fried
 seasonalFortune: A season for reading the batter before it speaks. The bitter herb sharpens slowly in the jar, and the cook who waits hears the dish settle into its own bitter sense.
 fortuneMost: Move on the read before the reasoning files in. The proof arrives later to confirm what the body already knew.
 fortuneMost2: The read you can't yet defend is the true one. Act on it — showing the work was always going to be the slow half.
@@ -18,15 +23,15 @@ fortuneLow2: Some unease is a warning and some is only nerves. Let the numbers g
 fortuneLeast: Follow the steps to the gram this time. The sense that the method is off is, here, the thing that's actually off — distrust the distrust.
 fortuneLeast2: Trust the recipe over your read of it. The scale is calibrated and your suspicion isn't; leaning on the cold instrument, just here, won't betray you.
 facetMostTitle: Bitter Without Permission
-facetMost: You trust the read you cannot defend, and act on it while the reasoning is still arriving.
+facetMost: A friend introduces someone new and everyone's all smiles. Inside the first handshake you've already got a read on them, and you trust it long before a thing they've done could prove it out.
 facetHighTitle: Before the Ladle Commits
-facetHigh: You name the trouble in a conversation a beat before the other person finds the word.
+facetHigh: Nothing's visibly wrong in the quiet house, yet the air's off the second you step in — and out it comes, said aloud, before you could point to a single thing that's changed.
 facetMidTitle: Herb Through Resting Batter
-facetMid: You walk into a room and know, before anyone speaks, which corner of it is wrong.
+facetMid: Recipe in hand, you're tasting as you go and the proportions feel wrong, never mind that the page swears otherwise. You go off the page and adjust to what your tongue is telling you.
 facetLowTitle: Counted by Hand
-facetLow: Receipts are checked twice; the hunch waits behind the math.
+facetLow: A gut feeling says skip the budget and just go for the bigger flat. You sit down and tally the real numbers instead, letting the columns decide.
 facetLeastTitle: Scale Calibrated, Every Gram
-facetLeast: You trust the steps, not the feeling that the steps are slightly off.
+facetLeast: Like a turn's missing — that's the itch the directions give you, even as the map app stays sure. Override it, follow the thing to the letter, and distrust your own distrust just this once.
 question: A job offer arrives on paper and everything on it adds up. Something in you is uneasy. You...
 answerMost: turn it down before you can talk yourself out of the feeling
 answerHigh: trust the unease and ask for a second conversation
@@ -38,11 +43,6 @@ rorschachHigh: a stag's antlers branching over a low body
 rorschachMid: a bare tree, its crown above the mound of roots
 rorschachLow: a feather duster propped over a tidy box
 rorschachLeast: a candelabra set squarely on a heavy base
-facetMostTags: [pinto, cannellini, black]
-facetHighTags: [pinto, cannellini]
-facetMidTags: [pinto, cannellini]
-facetLowTags: [fava, green]
-facetLeastTags: [fava, green, edamame]
 ---
 
 Cultured Mung Beans are the Bean Zodiac's most intuitive — they'll name the trouble in a conversation a beat before anyone else finds the word for it, and walk into a room knowing which corner of it is wrong before a soul has spoken. They trust the read they can't yet defend, and the reasoning files in later, around nine, to confirm what they already acted on. It's not magic. It's just faster than they can show their work.

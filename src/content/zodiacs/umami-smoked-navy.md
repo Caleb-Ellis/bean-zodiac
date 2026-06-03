@@ -6,6 +6,11 @@ form: smoked
 trait: timeless
 dish: Boston baked beans - navy beans slow-cooked with smoked salt pork, molasses, and mustard.
 quote: Time is a flat bean.
+creature: aldabra tortoise
+friendlyBeans: [butter, black]
+antiBeans: [chickpea, pinto]
+friendlyForm: dried
+antiForm: fermented
 seasonalFortune: A pot kept low through the long afternoon darkens by degrees; molasses and salt pork settle into the navy bean as the household forgets to hurry.
 fortuneMost: Add the next name to the old book in pen. What molasses-slow you write down now will still be findable in twenty years.
 fortuneMost2: A reunion is coming to the table that's stayed exactly as it always was — same dishes, same two old friends — and the unchanged thing is what makes it land.
@@ -18,15 +23,15 @@ fortuneLow2: Rework the whole menu from scratch. Tearing up what lasted will pul
 fortuneLeast: Let the recipe everyone politely eats finally leave the table, no ceremony. Watching the worn thing go will cost you more than you'll admit.
 fortuneLeast2: Keep the calendar loose and trust the week to invent itself; it usually does, much as your hands itch to pin it down first.
 facetMostTitle: Molasses, Its Own Hour
-facetMost: Your sweaters outlast the friends who mocked them; your address book is older than most marriages, and you keep writing in it.
+facetMost: Your grandfather's watch stops one morning. Off to the repairer it goes, whatever they charge — replacing it never crosses your mind.
 facetHighTitle: Smoke Threading the Lid
-facetHigh: A niece marries in the dress you wore in 1994, and the hem is exactly the length the photographer wanted without anyone asking.
+facetHigh: They offer you the newest phone for free and you turn it down. The old one does it all, you know its every corner, and that's enough.
 facetMidTitle: Salt Pork on a Low Flame
-facetMid: You wear the same coat into its tenth winter, mend the lining once, and the shape gets better.
+facetMid: Worn clean through at the sole, the boot goes to the cobbler, not the bin — resoled, it walks better than the day you bought it.
 facetLowTitle: Mustard Seed in a Hot Pan
-facetLow: You buy the chair today, throw the party Friday, repaint the hall on a whim, and the house keeps up.
+facetLow: That festival you've gone to for years runs the same as ever. This time you give it a miss and head somewhere you've never been.
 facetLeastTitle: The First Sharp Bite
-facetLeast: Your calendar is loose by design; you trust the week to invent itself and it usually does.
+facetLeast: Build the sandcastle by the tide line knowing the sea will have it by dusk — the losing of it is half the point.
 question: The holidays are coming and someone in the family floats the idea of doing it differently this year. You...
 answerMost: keep it exactly as it's always been — the tablecloth, the order of dishes, the playlist
 answerHigh: change the centerpiece and nothing else
@@ -38,11 +43,6 @@ rorschachHigh: a boulder rounded by a thousand winters
 rorschachMid: a river pebble turned in the hand
 rorschachLow: a clay lump just pressed into shape
 rorschachLeast: a snowball melting before it lands
-facetMostTags: [butter, black, kidney]
-facetHighTags: [butter, black]
-facetMidTags: [butter, black]
-facetLowTags: [fava, green]
-facetLeastTags: [fava, green, edamame]
 ---
 
 Hickory Navy Beans are the Bean Zodiac's most timeless — they have the same address from 2011, the same Sunday breakfast, the same two friends from before college. The handwriting in the recipe book is theirs in three different decades. When something falls apart in their life, the unchanged things take the weight.

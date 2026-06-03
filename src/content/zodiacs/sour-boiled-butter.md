@@ -6,6 +6,11 @@ form: boiled
 trait: honest
 dish: Avgolemono - butter bean soup with dill and lemon.
 quote: The bean will set you free, but first it will make you uncomfortable.
+creature: saint bernard
+friendlyBeans: [navy, adzuki]
+antiBeans: [green, kidney]
+friendlyForm: dried
+antiForm: fermented
 seasonalFortune: A season that thins the broth and shows what was steeping under the dill. Acid finds its level. Plain statements outlast clever ones; soft edges curdle.
 fortuneMost: Lemon finds its level no matter how thick the broth. The truth said low and plain outlasts the louder false one beside it.
 fortuneMost2: A good sign for the quiet teller. The moment is widening to hold the plain thing you've been carrying.
@@ -18,15 +23,15 @@ fortuneLow2: Some awkward things soften on their own, the way skins do in a long
 fortuneLeast: The lopsided bill, the wrong number that nags. Let it stand and walk on.
 fortuneLeast2: A wide, easy "best one yet" can be the whole kindness. Skip the audit. It costs you only the last word.
 facetMostTitle: Lemon Tempered Into Yolk
-facetMost: You say the difficult thing at the table, in a voice low enough that no one mistakes it for sport.
+facetMost: The hard thing has to be said and the table's gone quiet waiting. You say it low and straight, never as a winning move.
 facetHighTitle: Dill Against the Board
-facetHigh: You answer messages in the order they arrived, and you answer them as themselves.
+facetHigh: There's a graceful half-truth right there, the kind that lets everyone off easy. Not for you. The real answer goes out instead.
 facetMidTitle: Steam Reading the Ceiling
-facetMid: You notice the mood in a room within a minute of entering and adjust your shoulders before you adjust your sentences.
+facetMid: Same true thing, two rooms, two tempers. You read which room you're in and pitch the honest answer to fit it without softening what it is.
 facetLowTitle: Skins in Long Simmer
-facetLow: You leave the awkward thing in the room a while longer, trusting it will soften before anyone has to name it.
+facetLow: A friend's new haircut is genuinely not good and they're glowing about it. The honest verdict stays behind your teeth and you let them have the glow.
 facetLeastTitle: Zest at the Last Moment
-facetLeast: You let the bill split unevenly, the lopsided gift stand, the small wrong number ride; the arithmetic is not the point.
+facetLeast: Someone retells a story about themselves, rounded up a notch from how it actually went. It's their story to inflate; the smile you give it costs you nothing.
 question: A small child shows you the drawing they have just finished, and waits. The drawing is a brown smear with a name written under it. You...
 answerMost: ask, in a soft voice, what the brown part is, and listen
 answerHigh: point at the one bit that's clearly working and ask about it
@@ -38,11 +43,6 @@ rorschachHigh: a figure in a thin shift cinched at the waist
 rorschachMid: a knotted scarf hanging from a hook
 rorschachLow: a gown padded out wide above and below
 rorschachLeast: a draped dummy dressed to hide its frame
-facetMostTags: [kidney, fava, edamame]
-facetHighTags: [kidney, fava]
-facetMidTags: [kidney, fava]
-facetLowTags: [black, edamame]
-facetLeastTags: [black, edamame, kidney]
 ---
 
 Brined Butter Beans are the Bean Zodiac's most honest — but the honesty arrives at low volume, after the room has settled and the wine has been poured. They will not perform the truth or use it to score a point; they wait until the moment can hold it, and then they say the plain thing in a voice that makes it land as care rather than verdict.

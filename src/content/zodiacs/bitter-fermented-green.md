@@ -6,6 +6,11 @@ form: fermented
 trait: imaginative
 dish: Szechuan pickled green beans with bitter melon and sesame.
 quote: Imagination is more important than bean.
+creature: hippogriff
+friendlyBeans: [pinto, adzuki]
+antiBeans: [fava, butter]
+friendlyForm: fried
+antiForm: boiled
 seasonalFortune: Bitter melon learns sweetness from salt and waiting. The Cultured Green Bean lives among half-pickled notions, drafts steeping in their own brine until something stranger surfaces.
 fortuneMost: The wrong door, taken on purpose, opens onto the very thing you've been trying to describe. Walk through it.
 fortuneMost2: What you're after is in the sideways version, not the sensible one. Build the wrong room and move in.
@@ -18,15 +23,15 @@ fortuneLow2: Make the thing exactly as written, nothing left unlabelled. Your ha
 fortuneLeast: Stay on the marked path this time. A marvel sprung on the unprepared reads as noise — the plain version guards the trust you've built, dull as it feels to hand over.
 fortuneLeast2: When someone floats a strange idea, you can simply nod and let it stay theirs. Leaving a sketch unfinished stings; some were never yours to finish.
 facetMostTitle: Sesame Under the Pestle
-facetMost: You draft sideways, building the wrong room on purpose and moving in.
+facetMost: Stuck in traffic, a kid in the next car points at the clouds. You're already turning them into a slow drama of beasts and shipwrecks before they've finished pointing.
 facetHighTitle: Pods Behind the Eyelids
-facetHigh: You wake reaching for paper before the kettle.
+facetHigh: Asked to name the new houseplant, most people would shrug. Within a minute you've given it a backstory, a homeland, and a grudge against the fern.
 facetMidTitle: A Flavour Not Ordered
-facetMid: A message arrives plain; you answer in a register the sender did not expect, and the thread tilts somewhere new.
+facetMid: Off-white, off-white, off-white — that's the vote for the blank wall in the new flat. What if one wall got an odd little mural instead, nothing drastic, just something that does something?
 facetLowTitle: The Jar Labelled, the Rows Even
-facetLow: You cook the recipe as written, sesame measured, nothing left unlabelled.
+facetLow: They want the directions to the venue, plain and clear. You give the turns and the landmarks straight, no scenic aside, no flourish — useful and done.
 facetLeastTitle: The Route You Always Take
-facetLeast: A friend describes a strange idea; you nod, pay the bill, and walk home the usual way.
+facetLeast: Theme wide open at the costume party, anything goes — and out you walk in the plain striped shirt, called done. The wilder version flickers up, and this time you let it stay a flicker.
 question: A plain prompt arrives — write a few lines about your weekend for a company newsletter. You...
 answerMost: open with the strange dream you had Saturday and let the weekend follow
 answerHigh: write it from the cat's perspective and see if anyone notices
@@ -38,11 +43,6 @@ rorschachHigh: a sea urchin drifting over a smooth round stone
 rorschachMid: a spiky burr resting above a low loaf
 rorschachLow: a thistle head above a plain garden mound
 rorschachLeast: a dropped twig lying over an ordinary hill
-facetMostTags: [pinto, adzuki, chickpea]
-facetHighTags: [pinto, adzuki]
-facetMidTags: [pinto, adzuki]
-facetLowTags: [mung, butter]
-facetLeastTags: [mung, butter, black]
 ---
 
 Cultured Green Beans are the Bean Zodiac's most imaginative — the ones who answer a plain message in a register nobody ordered and tilt the whole thread somewhere stranger and better. They'll build the wrong room on purpose and move into it, wake reaching for paper before the kettle, take the door they weren't supposed to take and come back with the thing everyone else had given up describing. The interior is always running.

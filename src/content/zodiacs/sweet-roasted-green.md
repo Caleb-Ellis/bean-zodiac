@@ -6,6 +6,11 @@ form: roasted
 trait: capricious
 dish: Green beans roasted with pomegranate molasses and toasted almonds — charred at the tips, sticky and sweet from the oven.
 quote: Consistency is the last refuge of the unimaginative bean.
+creature: kitten
+friendlyBeans: [kidney, fava]
+antiBeans: [cannellini, navy]
+friendlyForm: fried
+antiForm: boiled
 seasonalFortune: A pan left in a hot oven keeps cooking past the cook's intention. Seasons here arrive sticky-tipped and uneven, sweetness pooling wherever the heat last leaned.
 fortuneMost: Abandon the plan for the better, weirder one and don't look back. You came in for one dish and you'll leave having made another.
 fortuneMost2: A swerve pays off this turn — the wind shifts and you shift with it, gladly. Tell everyone warmly; the warmth is what makes the turn land.
@@ -18,15 +23,15 @@ fortuneLow2: A brighter offer lands; serve the plan you already made anyway. The
 fortuneLeast: Go to the friend you keep rescheduling, name it plainly, offer a date you'll actually keep. Holding still is a real gift here — and it'll cost you the better invitation you can already feel coming.
 fortuneLeast2: The pan goes in at seven. It goes in at seven. Let no shift in the wind move it.
 facetMostTitle: Char at the Tips, Sweet at the Root
-facetMost: You walk into the kitchen for one dish and walk out having made another, the original recipe still open on the counter.
+facetMost: You set out north on a clear road, then a side track curls off toward hills you've never seen. The wheel turns that way before you've decided anything.
 facetHighTitle: Molasses, Shaped by What It Lands on
-facetHigh: The draft you opened this morning is a different essay by lunch, and you mean every version of it.
+facetHigh: Paint half-bought for a blue room, and a swatch of deep green keeps pulling your eye in the shop. By the time you reach the till you've half-talked yourself into the green.
 facetMidTitle: Almonds Skittering When the Pan Tilts
-facetMid: Your group thread proposes Thursday, then Friday, then a different bar entirely — the invitation keeps moving.
+facetMid: The haircut you'd settled on starts to bore you the moment you're in the chair. You hear yourself describing something else entirely to the stylist.
 facetLowTitle: The Roast That Holds Its Heat
-facetLow: The plan you made on Sunday is the plan you serve on Saturday, almonds and all.
+facetLow: A glittering detour beckons off the route you mapped last night. You wave it off and stay on the road you chose.
 facetLeastTitle: Seeds Where They Fell
-facetLeast: You said the pan goes in at seven; it goes in at seven, and no shift in the wind moves it.
+facetLeast: Three friends each pitch a wilder way to spend the day. You hear them out, then do the dull thing you'd already promised yourself.
 question: You've been excited about a Saturday plan for two weeks. On Friday night a better, weirder invitation lands for the same evening. You...
 answerMost: text the new address to everyone with three exclamation points and don't look back
 answerHigh: ask the original group if they'd be up for switching — most will say yes
@@ -38,11 +43,6 @@ rorschachHigh: smoke unspooling in two wandering ribbons
 rorschachMid: a tadpole with its tail curling loose
 rorschachLow: a kite settled with its string laid straight
 rorschachLeast: a balloon tied off to a fixed post
-facetMostTags: [chickpea, mung, black]
-facetHighTags: [chickpea, mung]
-facetMidTags: [chickpea, mung]
-facetLowTags: [adzuki, chickpea]
-facetLeastTags: [adzuki, chickpea, pinto]
 ---
 
 Glazed Green Beans are the Bean Zodiac's most capricious — the ones who walk into the kitchen for one dish and walk out having made another, the original recipe still open on the counter. The draft they opened this morning is a different essay by lunch, and they mean every version of it. The group thread proposes Thursday, then Friday, then a different bar entirely, all in warm earnest.

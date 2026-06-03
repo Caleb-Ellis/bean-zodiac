@@ -6,6 +6,11 @@ form: roasted
 trait: optimistic
 dish: Gān biān sìjì dòu - Sichuan dry-fried green beans with chili bean paste and Sichuan pepper.
 quote: In the middle of every difficulty lies a beany opportunity.
+creature: robin
+friendlyBeans: [kidney, pinto]
+antiBeans: [fava, cannellini]
+friendlyForm: fried
+antiForm: dried
 seasonalFortune: A season for the dry-fried pod — heat first, water last, the cook trusting that something blistered keeps better than something stewed.
 fortuneMost: Fling the windows open and sweep the floor with enough certainty and the flat morning turns. It turns.
 fortuneMost2: The date inked before a single yes is the magnet. Watch the people arrive to the heat after.
@@ -18,15 +23,15 @@ fortuneLow2: Sometimes the kindest move is to not reach for the silver lining at
 fortuneLeast: Now and then the gloomy forecast is the true one. Packing the second coat goes against everything in you, and it's exactly what keeps you dry.
 fortuneLeast2: Read it clear-eyed, every flaw in plain view. That's not the pessimism you fear — it's how you arrive already braced.
 facetMostTitle: Pods Blistered on Every Side
-facetMost: You meet a flat morning by sweeping the floor and opening the windows, certain the day rearranges around the gesture.
+facetMost: The crops failed and the barn's half-empty and somehow you're already telling the neighbours what next year's field will look like, and meaning it.
 facetHighTitle: The Wok Before the Beans
-facetHigh: You buy the ticket, book the room, ink the calendar — then ask whether anyone's coming.
+facetHigh: A scheme gets sketched on the back of a receipt at the kitchen table. You're in — funded by the part of it that hasn't gone wrong yet.
 facetMidTitle: Chili Paste Folded in Late
-facetMid: You answer a friend's bad news by naming, without flinching, the part that might still go right.
+facetMid: Where another would brace at the ambiguous test result, you've already settled on the reading that points the good way.
 facetLowTitle: Sichuan Pepper Set Aside
-facetLow: A text sits four days unanswered; you wait, because the reply you'd send now is not the one you'd mean tomorrow.
+facetLow: A plan you've been sure of starts wobbling. Say the worst case out loud, plainly, the once — and let it be true a moment instead of patched over.
 facetLeastTitle: The Pod Left Raw
-facetLeast: You read the forecast twice, pack the second coat, and assume the train is late before it leaves.
+facetLeast: A stranger's venture is laid out for you, all upside. You'd rather count the ways it sinks first and price the rescue boat before you nod.
 question: A friend rings in tears about a job they didn't get — the third in a row, and they're starting to spiral. You...
 answerMost: tell them the right one is still coming and start naming reasons why
 answerHigh: name one real bright spot, then listen properly for an hour
@@ -38,11 +43,6 @@ rorschachHigh: a seed pod splitting along its seam
 rorschachMid: two cupped leaves divided by a stem
 rorschachLow: shutters half-drawn against a grey window
 rorschachLeast: two hands closing a book shut
-facetMostTags: [chickpea, fava, pinto]
-facetHighTags: [chickpea, fava]
-facetMidTags: [chickpea, fava]
-facetLowTags: [butter, mung]
-facetLeastTags: [butter, mung, black]
 ---
 
 Peri-Peri Green Beans are the Bean Zodiac's most optimistic — the ones who arrive at the cancelled flight already pricing the train, the ones whose first reply to bad news is the small live thing inside it. They are unembarrassed cheerleaders for other people's half-formed plans, and their own plans get launched on the strength of the next-step alone.

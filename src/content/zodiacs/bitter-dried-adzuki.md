@@ -6,6 +6,11 @@ form: dried
 trait: selective
 dish: Sekihan - adzuki beans with bitter citrus zest.
 quote: You are the average of the five beans you spend the most time with.
+creature: purple heron
+friendlyBeans: [black, pinto]
+antiBeans: [mung, fava]
+friendlyForm: boiled
+antiForm: boiled
 seasonalFortune: Citrus peel cures slow on a north-facing sill. A pantry of this temperament keeps only what earns the jar; the rest goes to the birds, unmourned.
 fortuneMost: A jar with only the peel that cured right is worth more than a full pantry. Yours is that jar.
 fortuneMost2: The few you kept are about to prove why you kept them. Good fortune travels in small company.
@@ -18,15 +23,15 @@ fortuneLow2: A stranger keeps drifting near. Make room, even if the jar feels fu
 fortuneLeast: Cook the whole pot of sekihan and feed whoever turns up. The crowd is the point, and it's coming.
 fortuneLeast2: Set out more bowls than you think you'll need. They fill — that's the kind of luck arriving.
 facetMostTitle: Every Curl Inspected
-facetMost: You keep three books on the shelf where ten would fit, and never miss the seven.
+facetMost: Out of everything that could go on the shelf, three earn the spot and the rest stay boxed for good.
 facetHighTitle: The Waiting Kettle
-facetHigh: Most messages sit unanswered a day; the ones you open, you answer at length.
+facetHigh: A row of new names wants something from you. You pick the two worth a real answer and let the rest wait.
 facetMidTitle: The Rind's Slow Turn
-facetMid: You let invitations age a week before deciding, and the wrong ones fall away on their own.
+facetMid: Why commit to either club's first meeting now, when one of them will stop calling by month's end and settle it for you?
 facetLowTitle: The Open Pot
-facetLow: New acquaintances become regulars by Friday; your table grows by accident.
+facetLow: Wave them in — the person you met an hour ago, asking to tag along the rest of the night — a little before you've decided you trust them.
 facetLeastTitle: Every Bowl Filled
-facetLeast: You buy in twos, lend the spare freely, give early and often without ledger.
+facetLeast: A whole crate is going cheap, more than you could use. You grab it and start handing pieces to everyone in reach, keeping no count.
 question: A friend offers you a ticket to a party tonight — decent crowd, no one you love. You...
 answerMost: decline without explaining
 answerHigh: ask who's going before deciding
@@ -38,11 +43,6 @@ rorschachHigh: a wolf's head turned from a burr
 rorschachMid: a rock and a round seed pod
 rorschachLow: a bristling sun spilling rays everywhere
 rorschachLeast: a full burr scattering seeds in every direction
-facetMostTags: [cannellini, navy, black]
-facetHighTags: [cannellini, navy]
-facetMidTags: [cannellini, navy]
-facetLowTags: [fava, green]
-facetLeastTags: [edamame, fava, green]
 ---
 
 Desiccated Adzuki Beans are the Bean Zodiac's most selective — they keep the good champagne for an occasion grand enough to deserve it, and no occasion ever quite is. The promotion was nice but not a milestone; the reunion was lovely but informal; the anniversary, well, next year is the round number. They have excellent taste and a cellar that proves it.

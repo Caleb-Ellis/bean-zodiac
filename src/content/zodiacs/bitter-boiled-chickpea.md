@@ -6,6 +6,11 @@ form: boiled
 trait: versatile
 dish: Revithia - chickpeas with bitter lemon and fresh herbs.
 quote: A bean is the most versatile of tools.
+creature: raccoon dog
+friendlyBeans: [fava, cannellini]
+antiBeans: [edamame, navy]
+friendlyForm: fermented
+antiForm: dried
 seasonalFortune: A lemon halved many ways still bleeds the same brightness into the pot. The broth lengthens to suit whichever herb arrives; the bean accepts each season's bitterness in turn.
 fortuneMost: Somewhere unfamiliar is about to open up, and you'll have its rhythm before the others find the door. A bean that suits any broth is welcome at every pot.
 fortuneMost2: A problem outside your field is no obstacle; you'll be fluent in it before the bean is soft. Good company at a sickbed, a kitchen, a roadside alike.
@@ -18,15 +23,15 @@ fortuneLow2: A fork in the road is coming, and you can't take both branches. Ada
 fortuneLeast: One pot, one heat, one thing you do well. Wave off the chair-swap and the borrowed method; honour the single thing this turn.
 fortuneLeast2: Do it the way you planned and let the occasion sort itself out. One lemon, halved one way — let the world bend to you for a change.
 facetMostTitle: The Bean That Answers Each
-facetMost: You arrive at a sickbed, a deadline, a stranger's kitchen, and shape yourself to what the hour needs.
+facetMost: No drummer, no warning, and the sticks land in your hands instead. You've never played — onto the stool anyway, finding the beat where it falls.
 facetHighTitle: The Herb at the Doorway
-facetHigh: Plans rewritten on the walk over; the room read in the doorway, the script abandoned, the new one fluent by the second handshake.
+facetHigh: A language you don't speak, customs you've never met, and dinner already starting. Drop the manners you rehearsed, copy theirs, and be easy in the room before the first course is cleared.
 facetMidTitle: Pinch by Pinch
-facetMid: Loaned tools, borrowed coats, a recipe halved for company — small adjustments, made without comment.
+facetMid: Trail washed out, the bridge gone downstream. Across on the fallen log instead — no fuss, just another way over, and on.
 facetLowTitle: The Sunday Lemon
-facetLow: You keep one route to work, one mug, one way of answering the phone, and the week steadies around it.
+facetLow: A free day, and a dozen tempting ways to spend it fanning out at once. For once you pick a single one and hold to it, leaving the rest uncollected.
 facetLeastTitle: One Pot, One Heat
-facetLeast: A request to switch chairs, switch methods, switch tone mid-sentence — refused, and the day goes on unbothered.
+facetLeast: Mid-performance, the host leans in — would you try it their way instead? You decline, keep to your own method, the swap waved off.
 question: The party theme changes the morning of, and your outfit no longer fits. You...
 answerMost: rebuild a new one from what's already in the closet
 answerHigh: swap two pieces and call it good
@@ -38,11 +43,6 @@ rorschachHigh: a sea anemone, many feelers raised at once
 rorschachMid: a low ridge of hills with a few peaks
 rorschachLow: a crab gone still, every limb pulled in tight
 rorschachLeast: a beetle, all six legs marching the same way
-facetMostTags: [green, fava, kidney]
-facetHighTags: [green, fava]
-facetMidTags: [green, fava]
-facetLowTags: [butter, mung]
-facetLeastTags: [butter, mung, black]
 ---
 
 Infused Chickpeas are the Bean Zodiac's most versatile — the one who can turn a hand to almost anything and lands first on every list because of it. Drop them in an unfamiliar room and they read it in a minute and find the rhythm; hand them a problem outside their field and they're fluent in it by the afternoon. They're the rare person who's genuinely good company at a sickbed, a deadline, and a stranger's kitchen alike.

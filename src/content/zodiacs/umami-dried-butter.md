@@ -6,6 +6,11 @@ form: dried
 trait: mellow
 dish: Gigantes plaki - dried butter beans baked with tomato, anchovy, and herbs.
 quote: All things come to beans who wait.
+creature: dugong
+friendlyBeans: [navy, black]
+antiBeans: [kidney, green]
+friendlyForm: boiled
+antiForm: fried
 seasonalFortune: A long oven season; tomato deepens into anchovy without anyone watching. The hours do their own salting, and the cook learns to leave the door shut.
 fortuneMost: People will drift to you the way they drift to a warm kitchen — not for an answer, for the ease of sitting inside your calm.
 fortuneMost2: You'll walk into a room braced for an argument and the argument will forget what it was about.
@@ -18,15 +23,15 @@ fortuneLow2: Settle the small thing while it's small. Answering early costs you 
 fortuneLeast: Wake already moving and eat standing for once. The day runs faster when you do, though the stillness will call you back by noon.
 fortuneLeast2: Pick the plan yourself and say so plainly. A little briskness clears the week — even if it feels like skipping a course you'd meant to savour.
 facetMostTitle: The Anchovy's Long Give
-facetMost: You let appointments drift past their hour, and the work that matters arrives finished anyway.
+facetMost: Ferry cancelled, the whole queue scrambling on their phones to rebook — and there you are on a sunny bench, watching the gulls, content to wait out the next one.
 facetHighTitle: Oregano in the Oil
-facetHigh: When a friend talks past the polite stopping point, you stay in your chair and let them reach the end.
+facetHigh: A stranger at the laundromat has talked you through their entire divorce and isn't slowing down. Their machine still has twenty minutes; you stay and let it run out.
 facetMidTitle: Tomato at Its Own Pace
-facetMid: You start dinner before the guests arrive and refuse to hurry a pan that is already deciding for itself.
+facetMid: Two friends are deadlocked over a plan and keep turning to you for a tie-breaker. You float a third option, no urgency, and let the room chew on it.
 facetLowTitle: The Skin That Splits Early
-facetLow: You finish the meal before the others have started the appetiser, settle the bill on the way past the bar, and feel the evening shorten in your favour.
+facetLow: A reply you've been comfortably putting off finally has a clear answer. Send it now, you think, while it's easy — and you do, before the ease wears off.
 facetLeastTitle: Heat That Never Banks
-facetLeast: You wake already moving, eat standing, and find rooms that hold still for too long unbearable.
+facetLeast: First light, and you're already laced up and out the door, breakfast eaten on the move. A morning that just sits there makes your skin itch.
 question: The group chat is briskly organizing something for Saturday and waiting on your vote. It's Wednesday. You...
 answerMost: leave the phone face-down and trust they'll work it out
 answerHigh: read it twice, decide it can wait until tomorrow morning
@@ -38,11 +43,6 @@ rorschachHigh: a soft candle slumping into a pool of wax
 rorschachMid: a mushroom cap with spores drifting beneath
 rorschachLow: a firework bursting, sparks raining off the edges
 rorschachLeast: a paint can kicked over, droplets flung everywhere
-facetMostTags: [mung, black, kidney]
-facetHighTags: [mung, black]
-facetMidTags: [mung, black]
-facetLowTags: [fava, edamame]
-facetLeastTags: [fava, edamame, green]
 ---
 
 Aged Butter Beans are the Bean Zodiac's most mellow — the kind of presence that walks into a tense room and the tension forgets what it was about. They take long lunches, finish sentences on their own clock, and refuse, gently and absolutely, to be rushed by anyone's emergency. Friends drift to them in bad weeks the way people drift to a warm kitchen.

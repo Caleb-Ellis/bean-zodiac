@@ -6,6 +6,11 @@ form: fried
 trait: manipulative
 dish: Chalupas poblanas - fried masa boats piled with pinto beans, pickled onion, and lime crema.
 quote: It is better to be feared than loved, if you cannot bean both.
+creature: cuckoo
+friendlyBeans: [adzuki, chickpea]
+antiBeans: [black, kidney]
+friendlyForm: fermented
+antiForm: dried
 seasonalFortune: A season when seasoning reads as kindness; the lime brightens, the onion lingers, and pinto sweetness arrives only after the tongue has been steered.
 fortuneMost: Seat the right two beside each other and step back; the introduction does the rest. You see the shape a gathering wants before anyone else does.
 fortuneMost2: You already know which two belong together, and why, the way you know which onion to pickle for which plate. Bring them together and let it run.
@@ -18,15 +23,15 @@ fortuneLow2: Cook what you cook and let people like it or not. Leaving a gatheri
 fortuneLeast: Someone has clocked the floorplan you laid out. Ask outright, by name. The plainness will feel like surrender after all that arranging, and it's the better trade.
 fortuneLeast2: An ask with its seams showing, nothing positioned behind it, costs less than the choreography ever did. Letting it land bare goes against your whole grain — the honesty buys back what the staging was quietly spending.
 facetMostTitle: Cargo by Design
-facetMost: You write the message for the person reading over their shoulder, and the reply comes back as scripted.
+facetMost: To get a stubborn relative to the family reunion, you let them believe a rival cousin won't be there. They commit before the doubt can.
 facetHighTitle: The Sharpened Onion
-facetHigh: You arrive at a gathering already knowing which two people you'll introduce, and why.
+facetHigh: A friend is set on a bad idea. You lead them down a path of careful questions until quitting feels like their own conclusion, never your push.
 facetMidTitle: Crema in the Cracks
-facetMid: When you owe an apology, you offer the favor first and let the debt collect itself.
+facetMid: Wanting the window seat on a long flight, you mention the view warmly to your companion until they offer it up as if it were their idea.
 facetLowTitle: Beans, No Architecture
-facetLow: You cook what you cook and let guests like it or not.
+facetLow: You want a neighbour to swap shifts with you. Instead of laying groundwork, you knock on the door and just ask them outright.
 facetLeastTitle: Char, Lime, Salt
-facetLeast: Your work arrives with its seams visible and nothing arranged behind it.
+facetLeast: A market trader, you set one honest price on the sign and never read the buyer to nudge it. Take it or leave it, the number's the number.
 question: You want a friend to come to a thing on Saturday they'd probably say no to. You...
 answerMost: mention it casually next to a thing you know they want, and let them connect it
 answerHigh: frame the invitation around the part you know they'll like
@@ -38,11 +43,6 @@ rorschachHigh: two players with one game piece set in play
 rorschachMid: two islands with a small buoy floating between
 rorschachLow: two cushions and a button dropped by chance between
 rorschachLeast: two open hands and a marble fallen between them
-facetMostTags: [chickpea, mung, black]
-facetHighTags: [chickpea, mung]
-facetMidTags: [chickpea, mung]
-facetLowTags: [adzuki, chickpea]
-facetLeastTags: [adzuki, chickpea, green]
 ---
 
 Agrodolce Pinto Beans are the Bean Zodiac's most manipulative — though they wouldn't call it that, and most of the time it isn't ill-meant. They simply notice which sentence opens which door, which order to put the asks in, which favour to offer a week before the request that depends on it. The room gets steered, gently, into the configuration they already had in mind, and usually everyone in it ends up reasonably pleased.

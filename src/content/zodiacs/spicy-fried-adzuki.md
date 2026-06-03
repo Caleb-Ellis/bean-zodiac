@@ -6,6 +6,11 @@ form: fried
 trait: irrepressible
 dish: Spicy adzuki jeon - Korean pan-fried adzuki bean pancake with gochugaru.
 quote: Don't stop me now - I'm having such a good bean!
+creature: jack russell
+friendlyBeans: [green, edamame]
+antiBeans: [black, butter]
+friendlyForm: fermented
+antiForm: smoked
 seasonalFortune: A season of full pans and loud oil. The batter spits before it sets; the red bleeds early into everything it touches, and the kitchen forgets how to be quiet.
 fortuneMost: Small good news, in your hands, becomes a reason to call three more people. Make the noise.
 fortuneMost2: A door opens mid-sentence and the whole street hears you coming.
@@ -18,15 +23,15 @@ fortuneLow2: Bank the big spark for when it's truly earned. It's a quiet week to
 fortuneLeast: An ordinary day, left ordinary, has a quiet luck of its own — though your hands will itch to redden it.
 fortuneLeast2: Carry a friend's good news without making it an event. It costs you the noise; it spares them the morning after.
 facetMostTitle: Gochugaru on the Fingertips
-facetMost: You send the draft, the song, the half-thing, before the pan has even cooled — the next one is already crackling.
+facetMost: The bus is packed and a stranger two seats over laughs at something on their phone. You ask what's funny and pull the whole row in.
 facetHighTitle: The Pancake Torn From the Skillet
-facetHigh: You arrive at the door already mid-sentence; the room reddens to match you.
+facetHigh: A win lands while you're still on the train home. By the time you're off it, half your contacts have heard.
 facetMidTitle: Batter Past the Rim
-facetMid: Twelve unsent messages collapse into one long one at midnight, and you hit send.
+facetMid: There's a feeling building all afternoon you can't quite sit on. Around dusk it spills into a long voice note you fire off before you reread it.
 facetLowTitle: Oil Brought up Slow
-facetLow: You let the week heat itself; the thing that needs doing on Thursday can wait for Thursday.
+facetLow: A spark of an idea hits at the worst possible hour. You note it, set it down, and let it keep until you have the heat for it.
 facetLeastTitle: The Closed Jar
-facetLeast: The counters stay wiped, the chair stays pushed in, and nothing in the room is asking to be noticed.
+facetLeast: Good news comes your way on a walk. You finish the walk first, telling no one, and find you like carrying it alone.
 question: A friend mentions, in passing, that something great happened at work. You...
 answerMost: leap up and announce a toast to the whole room
 answerHigh: insist on going out, right now, for the proper version
@@ -38,11 +43,6 @@ rorschachHigh: a moth bursting upward off its own shadow
 rorschachMid: a spinning top wobbling on its narrow point
 rorschachLow: a seated figure folding its legs to rest
 rorschachLeast: a hooded lamp dimmed low on its stand
-facetMostTags: [kidney, green, pinto]
-facetHighTags: [kidney, green]
-facetMidTags: [kidney, green]
-facetLowTags: [butter, mung]
-facetLeastTags: [butter, mung, black]
 ---
 
 Red-Hot Adzuki Beans are the Bean Zodiac's most irrepressible — the room knows they've arrived before they've taken their coat off. They speak in exclamations and arrive with bottles, and the small good news a friend was saving for later becomes, in their hands, a reason to call three more people and open the better wine.

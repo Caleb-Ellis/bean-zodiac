@@ -6,6 +6,11 @@ form: dried
 trait: terse
 dish: Edamame hummus with preserved lemon.
 quote: Less is bean.
+creature: rook crow
+friendlyBeans: [fava, kidney]
+antiBeans: [adzuki, pinto]
+friendlyForm: fried
+antiForm: roasted
 seasonalFortune: A season cured down to its rind. The pod has shrunk to a stone, the lemon to a salt, and what remains keeps without speaking.
 fortuneMost: Yes or no, no qualifier. Asked how the trip went, name one country and one kind of weather and let them laugh.
 fortuneMost2: You reach the point three turns before anyone planned to, and a clear stretch rewards exactly that. Get there, stop, let the rest be rind.
@@ -18,15 +23,15 @@ fortuneLow2: Someone's working their slow way toward the part that matters. Your
 fortuneLeast: Tell the long story start to finish — every digression, the part that doesn't matter. Efficiency was never the point of a shared meal.
 fortuneLeast2: Walk the whole road home with them, not just to the door. The detour is where they wanted you — give it, even if it costs the quiet.
 facetMostTitle: One Pinch of Rind
-facetMost: Asked at the door how the trip was, you say one country and one weather and the asker laughs first.
+facetMost: The customs officer asks the purpose of your visit. One word covers it, so one word is what he gets, and the line moves on.
 facetHighTitle: The Last Turn of the Grinder
-facetHigh: You settle the bill, nod once, and the obligation is closed before the other party finishes thanking you.
+facetHigh: A speech is wanted to mark the leaving. Where others would fill ten minutes, you give two clean lines and step back from the mic before the room expected.
 facetMidTitle: The Rattling Pod
-facetMid: At the long table you let pauses widen rather than fill them, and strangers eventually meet your eye.
+facetMid: A neighbour catches you by the mailboxes, settling in to chat. A warm word back, and you're already drifting toward your door before it becomes a conversation.
 facetLowTitle: The Spoon Doubling Back
-facetLow: You finish your own sentence, then circle it twice in case the meaning slipped.
+facetLow: You've made the point and it landed. Still you double back, adding the example and the caveat, padding a clean thing past where it needed you.
 facetLeastTitle: Brine on the Board
-facetLeast: Your rooms accumulate spare cords, half-burnt candles, drafts kept for the line you might still need.
+facetLeast: A child wants the whole bedtime story, not the short version. So you give it all — every voice, every side-quest, the dragon's full backstory — drawing it out past your own patience because the long telling is the gift.
 question: A form asks for a one-line bio for an event you only half want to be at. The cursor blinks. You...
 answerMost: type your name
 answerHigh: name, city, the one verb
@@ -38,11 +43,6 @@ rorschachHigh: a stone and a seed, few crumbs
 rorschachMid: a potato and a beetle side by side
 rorschachLow: a stuffed envelope spilling its contents
 rorschachLeast: a smashed pot scattered into countless shards
-facetMostTags: [kidney, fava, chickpea]
-facetHighTags: [kidney, fava]
-facetMidTags: [kidney, fava]
-facetLowTags: [butter, black]
-facetLeastTags: [butter, black, pinto]
 ---
 
 Desiccated Edamame are the Bean Zodiac's most terse — they answer the email with one word, end the call the moment the business is done, and have a gift for arriving at the point three turns before anyone planned to. In a meeting that's losing the thread they are the one who says the sentence that ends it, and everyone privately thanks them.

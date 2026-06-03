@@ -6,6 +6,11 @@ form: roasted
 trait: outgoing
 dish: Chaat - roasted chickpeas with bitter lime and green chutney.
 quote: You catch more beans with honey.
+creature: golden retriever
+friendlyBeans: [adzuki, pinto]
+antiBeans: [black, navy]
+friendlyForm: fried
+antiForm: dried
 seasonalFortune: A season of crackled skins and shared lime. The bitter rind softens against company; the chaat-eater of this kind moves toward the loudest table and finds the bowl already half-eaten.
 fortuneMost: You drift to the loudest table and inside a minute the chutney's being argued over. That's the gift, and it's working.
 fortuneMost2: A face you haven't met yet is about to walk in and be a friend before the lime is gone. Your luck this turn is strangers.
@@ -18,15 +23,15 @@ fortuneLow2: There's a thread of what you actually think waiting in the empty ro
 fortuneLeast: A long stretch of your own company is coming — no chatter, no podcast laid over the top of it. The quiet has something to tell you, if you can sit still long enough to hear it.
 fortuneLeast2: Take the walk alone, no one to call, nothing in your ears but the road. An empty afternoon is rest, not a hole to fill — though your thumb will keep drifting toward the chat.
 facetMostTitle: Char Is Conversation
-facetMost: You walk into a kitchen and within a minute the chutney is being argued over — you are the kind of person other people gather to.
+facetMost: Stranded an hour at a delayed gate, you've struck up something with the woman beside you and three others have drifted into it before the boarding call.
 facetHighTitle: The Lime's Kept Sting
-facetHigh: Your thumb hovers; the message goes out before you've decided to send it.
+facetHigh: Boxes still on the truck next door — and there you are over the fence with a plate, asking how the new neighbour takes their tea.
 facetMidTitle: Crackle of Skins
-facetMid: You leave the second chair pulled out, the bowl on the counter — small invitations set down before anyone's knocked.
+facetMid: The doorbell goes and it's a stranger with a clipboard. You keep them talking on the step long after the survey's done.
 facetLowTitle: The Cooling Chickpea
-facetLow: You hold an hour back from the calendar each week, and the phone face-down through it.
+facetLow: Where the trail forks, take the empty ridge over the busy lookout and let the chatter fall away behind you.
 facetLeastTitle: The Kitchen Settling Quiet
-facetLeast: You notice the hum of an empty room the way other people notice music, and you do not reach to fill it.
+facetLeast: A whole evening with no one to answer to opens up, and you meet it like a room you've been wanting, not a gap to plug.
 question: A party tonight, a quiet evening in, both options open. The group chat is lighting up. You...
 answerMost: arrive first and offer to help set up
 answerHigh: head over once it's properly going
@@ -38,11 +43,6 @@ rorschachHigh: a person waving toward a friend approaching
 rorschachMid: a boulder beside a loose tangle of vines
 rorschachLow: a hunched figure turned from an open gate
 rorschachLeast: a rock and a wreath left apart
-facetMostTags: [adzuki, green, kidney]
-facetHighTags: [adzuki, green]
-facetMidTags: [adzuki, green]
-facetLowTags: [cannellini, black]
-facetLeastTags: [cannellini, edamame, black]
 ---
 
 Wood-Fired Chickpeas are the Bean Zodiac's most outgoing — they move toward people as a matter of course. They walk into a kitchen and within a minute the chutney is being argued over; they pull out the second chair and leave the bowl on the counter, small invitations set down before anyone's knocked. People gather to them without quite deciding to.

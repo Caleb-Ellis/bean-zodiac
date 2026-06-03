@@ -6,6 +6,11 @@ form: roasted
 trait: fair
 dish: Rajma tikki - pan-seared kidney bean cakes with amchur and mint chutney
 quote: Injustice anywhere is a threat to bean everywhere.
+creature: ibis
+friendlyBeans: [green, fava]
+antiBeans: [black, fava]
+friendlyForm: fermented
+antiForm: smoked
 seasonalFortune: A season for evened pans. The amchur falls heavier on one tikki than the next, and the cook who notices spends the afternoon redistributing what the oil already decided.
 fortuneMost: The eye that evens the pan is the luck of your turn. While everyone waves it through, you'll catch the charge that shouldn't be there — and someone goes home glad you did.
 fortuneMost2: One person keeps drawing the worst seat. Swap it out loud before anyone sits, and say why.
@@ -18,15 +23,15 @@ fortuneLow2: Settle the small unevenness and quit carrying it. Letting go grates
 fortuneLeast: Overpay at the counter and walk on. Loosening the stopwatch costs you your sense of square — fairness timed that close is only accounting in disguise.
 fortuneLeast2: Some accounts are better left unkept — give the larger half on impulse and don't open the ledger behind you, however much the unkept account unsettles you.
 facetMostTitle: Amchur by the Pinch
-facetMost: When the bill arrives you read it line by line, and the table waits while you find the rupee that was charged twice.
+facetMost: Teams are being picked on the green and the same kid is left standing last again. You stop the count and redraw the sides until they're actually even.
 facetHighTitle: Chutney to the Crust
-facetHigh: Guests arriving find their coats hung at equal distance, the lamps dimmed so no chair sits brighter than another.
+facetHigh: A referee waves an obvious foul through and someone suggests just playing on. You name the unfair call out loud and let the easy fix die.
 facetMidTitle: The Tikki on the Rim
-facetMid: At a gathering you steer the quiet stranger into the loud one's orbit, then step back before either notices.
+facetMid: A picnic blanket's worth of food needs splitting and the portions aren't quite level. Close enough — you even the obvious gaps and let the rest land where it falls.
 facetLowTitle: Where the Pan Tilts
-facetLow: Decisions arrive faster than weighing them would allow, and the answer that came first usually holds.
+facetLow: A small debt from a coffee run is still nagging at the back of your mind. You close the ledger on it, leave it shut, and stop carrying the figure around.
 facetLeastTitle: The Brightest Tikki
-facetLeast: You give by impulse — the larger half, the better seat — and the ledger never opens behind you.
+facetLeast: At the counter the change comes back a little short and the queue is long. You wave it off, overpay, and walk out without doing the sum.
 question: The group bill arrives and someone suggests just splitting it evenly. You...
 answerMost: pull out your phone and reconcile it line by line, item by item
 answerHigh: flag the two people who barely ate and adjust their shares
@@ -38,11 +43,6 @@ rorschachHigh: a round tree crown squared over its trunk
 rorschachMid: a head of cauliflower on its narrow stalk
 rorschachLow: a storm cloud bulging heavier to one side
 rorschachLeast: a mushroom cap slumped lopsided off its stem
-facetMostTags: [chickpea, mung, black]
-facetHighTags: [chickpea, mung]
-facetMidTags: [chickpea, mung]
-facetLowTags: [adzuki, chickpea]
-facetLeastTags: [adzuki, chickpea, green]
 ---
 
 Chimichurri Kidney Beans are the Bean Zodiac's fairest — the ones who read the bill line by line while the table waits, and find the rupee charged twice. At a gathering the quiet stranger gets steered into the loud one's orbit, the worst chair quietly swapped before anyone's sat down. Justice as a kind of hospitality.

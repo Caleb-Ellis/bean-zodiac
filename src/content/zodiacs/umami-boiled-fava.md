@@ -6,6 +6,11 @@ form: boiled
 trait: vigilant
 dish: Fave e guanciale - fava beans simmered with cured pork jowl and sage.
 quote: Eternal bean is the price of liberty.
+creature: sentinel hawk
+friendlyBeans: [black, kidney]
+antiBeans: [adzuki, cannellini]
+friendlyForm: smoked
+antiForm: roasted
 seasonalFortune: A long simmer asks for company. The pot does not boil over for those who stay nearby, and the sage gives its salt up only to a listening room.
 fortuneMost: You'll hear the wrong note before anyone says a word. Act on it; skip the part where you justify how you knew.
 fortuneMost2: A warning is coming early, the way the pot changes pitch before it boils over. You'll be the one who hears it in time.
@@ -18,15 +23,15 @@ fortuneLow2: Eat when hungry, sleep when tired, the world holding itself fine wi
 fortuneLeast: Hand them the keys and don't watch the road. You've been hovering long enough that they've felt it — and letting go will cost you the small comfort of being the one who'd have caught it.
 fortuneLeast2: Let a room's mood reach you only once someone names it aloud. You don't have to catch everything to be safe, even if missing things feels, at first, like going blind.
 facetMostTitle: The Guanciale's Slick
-facetMost: You hear the burner change pitch from the next room and turn it before anyone calls.
+facetMost: A gull wheels off the cliff path a beat too sharp and the gravel underfoot has gone loose. You're already steering the group back from the edge before the first stone goes over.
 facetHighTitle: Sage in the Pork Fat
-facetHigh: You read a message twice before replying — once for the words, once for what the person isn't saying.
+facetHigh: A stranger on the bench asks if the seat's free, and something in how they ask doesn't sit right. The prickle wins — your bag's already drawn a little closer to your side.
 facetMidTitle: The Skin Where Heat Ran High
-facetMid: At the table you clock who has gone quiet and angle the conversation around them.
+facetMid: Drift toward the rail, lean there, say nothing — there's one kid at the playground fence gone still while the others shriek, and you've already noticed.
 facetLowTitle: The Pot's Own Time
-facetLow: You sleep when tired, eat when hungry, and rarely catch a cold you couldn't have predicted from the weather.
+facetLow: No signal at the cabin, no working clock, nothing that needs watching. The day runs on hunger and tiredness alone, and you don't go hunting the quiet for a catch in it.
 facetLeastTitle: Salt and Fat, Blurred
-facetLeast: Rain starts and surprises you every time; the mood of a room reaches you only when somebody names it aloud.
+facetLeast: A storm rolls in and somehow catches you flat-footed, washing off the line. Let the weather arrive when it arrives — you needn't have read the sky to be alright.
 question: You're at a small dinner and notice that one guest has gone unusually quiet over the last ten minutes. You...
 answerMost: catch their eye, find a quiet moment, and check in directly
 answerHigh: steer the table conversation gently toward something they can join
@@ -38,11 +43,6 @@ rorschachHigh: a guard dog's head lifted and turned
 rorschachMid: a rounded rock with one chipped peak
 rorschachLow: a hen settled low over its eggs
 rorschachLeast: a sleeping fox curled nose to tail
-facetMostTags: [navy, cannellini, black]
-facetHighTags: [navy, cannellini]
-facetMidTags: [navy, cannellini]
-facetLowTags: [edamame, green]
-facetLeastTags: [edamame, green, pinto]
 ---
 
 Dashi Fava Beans are the Bean Zodiac's most vigilant — they hear the burner change pitch from the next room and turn it before anyone has called out. They read the email twice, once for the words and once for what the person isn't saying, and at the dinner table they clock who has gone quiet a full minute before anyone else notices the chair has stopped speaking.

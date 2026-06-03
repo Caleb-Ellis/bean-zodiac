@@ -6,6 +6,11 @@ form: roasted
 trait: confiding
 dish: Fagioli al forno - roasted cannellini with parmesan, sage, and garlic.
 quote: Come in, come in. The bean is always on and I have been meaning to tell you something.
+creature: dove
+friendlyBeans: [pinto, chickpea]
+antiBeans: [fava, green]
+friendlyForm: fried
+antiForm: fermented
 seasonalFortune: Garlic softens in a slow oven; the season unlatches by degrees, and what was kept warm finds its right ear before the heat is gone.
 fortuneMost: Tell the one who's earned it the thing you've kept warm. Some part of them has been waiting their whole acquaintance with you to be told.
 fortuneMost2: The right ear is arriving. Give it the held thing whole and warm — this is the season it was kept for.
@@ -18,15 +23,15 @@ fortuneLow2: Some of what you carry is meant to stay yours, set down nowhere. Ke
 fortuneLeast: Sometimes the right ear truly hasn't come, and that's no failing. But an owed apology can age past use; don't let the waiting do your hiding for you.
 fortuneLeast2: Watch that the shelf doesn't quietly become the hiding place. Unsaid is easier than it should be.
 facetMostTitle: Parmesan at the Rim
-facetMost: The thing you have been holding finds its one right ear, and you give it whole — kept warm just long enough to land properly.
+facetMost: Walking a friend to their car after a long night, you find yourself telling them the fear you've never said aloud, the words coming easier in the dark and the cold.
 facetHighTitle: Sage in the Heat
-facetHigh: At the table you name the thing the room has been circling, calmly and by its right name, and the room knows it was meant for it.
+facetHigh: Over coffee a new coworker lets slip something tender, more than they meant to — and rather than let them stand out there alone, you match it with something real of your own.
 facetMidTitle: Skins at the Oil's Edge
-facetMid: You hand the draft to the one reader who will see what it could be, footnotes and all, and wait to see what lands.
+facetMid: You've hinted at the half-formed idea to one or two people and it's still sitting unfinished. Say the whole of it to someone, or keep turning it over privately?
 facetLowTitle: The Shape Under the Crust
-facetLow: A room in your house stays closed to most visitors; the door is not refusal, only yours.
+facetLow: A nosy seatmate keeps fishing about your home life on the long coach ride. Give the short, pleasant version and keep the real thing folded up for someone who's earned it.
 facetLeastTitle: Embers Slow to Give
-facetLeast: An apology you owe ages on the shelf; you trust it will be understood in time.
+facetLeast: A stranger across the campfire asks the big, searching question of the night. You turn it back on them with a warm smile and never quite answer it yourself.
 question: You're at a small dinner and the conversation lands, by accident, on the exact thing you've been carrying for a month. You...
 answerMost: tell the whole table — this is the moment, these are the people
 answerHigh: tell the one person you trust, quietly, after the plates go
@@ -38,11 +43,6 @@ rorschachHigh: a dandelion letting its seeds go on the wind
 rorschachMid: a broad tree with roots spreading underground
 rorschachLow: a mushroom keeping its spores tight under the cap
 rorschachLeast: a willow with its roots bound up in burlap
-facetMostTags: [chickpea, mung, black]
-facetHighTags: [chickpea, mung]
-facetMidTags: [chickpea, mung]
-facetLowTags: [adzuki, chickpea]
-facetLeastTags: [adzuki, chickpea, green]
 ---
 
 Rendered Cannellini Beans are the Bean Zodiac's most confiding — but on their own clock. The held thing waits until the right ear arrives, and when it does they offer it whole, kept warm exactly long enough not to lose its shape. The friend who gets the late-night call always understands, afterwards, why it was them.

@@ -6,6 +6,11 @@ form: fried
 trait: decisive
 dish: Agedashi - edamame with bitter dashi and daikon.
 quote: In any bean moment of decision, the best thing you can do is the right thing.
+creature: falcon
+friendlyBeans: [kidney, green]
+antiBeans: [mung, butter]
+friendlyForm: dried
+antiForm: fermented
 seasonalFortune: A season for sharp oil and short pans. Daikon grates itself thin against the season; pods scorch before the doubt arrives. The almanac favors the cut already made over the cut still being weighed.
 fortuneMost: The deciding was done long ago. Call it. Stalling to look like you weighed it longer fools no one, and nobody's grading the pause.
 fortuneMost2: The rent, the route, the no — all three in one breath, and the room adjusts around the heat you brought. That clean cut is yours.
@@ -18,15 +23,15 @@ fortuneLow2: Leave the plan loose past the point you'd usually seal it. The open
 fortuneLeast: You were wrong about that one. Say so — apology only, working left out, two sentences shorter than you want it.
 fortuneLeast2: Not every fork needs your cut. Hand this one back and let it sit unsettled, even though the unsettled part is exactly what chafes.
 facetMostTitle: Oil at Temperature
-facetMost: You name the rent, the route, the no — once, in a single sentence — and let the room adjust around the heat you brought.
+facetMost: A dozen dogs down the shelter row, an hour till closing. One look and you point — that one — leash already in hand before the volunteer's finished the spiel.
 facetHighTitle: The Shell at First Bite
-facetHigh: At the market you choose the fish, the bread, the wine in three pauses, and the bag is full before the queue behind you has read the chalkboard.
+facetHigh: A storm's rolling in and the campsite's a scramble of indecision. You call it — we move to the high ground, now — and people fall in behind the certainty.
 facetMidTitle: Dashi's Darker Line
-facetMid: Mid-afternoon you stop circling — pick the chair, pick the hour, pick the route home — and the rest of the day arranges itself around those three small scorches.
+facetMid: Two couches in the showroom, both fine, the salesperson circling back. You take a minute, sit on each, then settle it — this one — and don't relitigate it on the way out.
 facetLowTitle: Daikon at the Grater
-facetLow: You let a plan stay loose past the point others would seal it, and the shape that arrives by evening fits the room better than the one drawn at noon.
+facetLow: The seed packets are all spread out and the bed's ready to plant. You hover, swap two rows, hover again — happy enough to leave it unplanted another day while it settles.
 facetLeastTitle: The Broth, Keeping Counsel
-facetLeast: You sit with a choice for a week, turning it like a stone in warm water, and walk into the room already at ease with whichever way it tips.
+facetLeast: Two roads off the trail, no map, light fading. Rather than just pick one and walk, you sit on the rock between them, content to wait until the right one announces itself.
 question: A friend hands you two flat options and asks you to pick. You...
 answerMost: pick one in the same breath and move the conversation on
 answerHigh: name the one within a minute, no hedge
@@ -38,11 +43,6 @@ rorschachHigh: a bell hung still after one strike
 rorschachMid: a fire burning only its fuel
 rorschachLow: a spinning top wobbling before it falls
 rorschachLeast: a figure swaying, unsure which way to step
-facetMostTags: [chickpea, mung, black]
-facetHighTags: [chickpea, mung]
-facetMidTags: [chickpea, mung]
-facetLowTags: [chickpea, adzuki]
-facetLeastTags: [chickpea, adzuki, green]
 ---
 
 Scorched Edamame are the Bean Zodiac's most decisive. They name the rent, the route, the no in a single sentence and let the room adjust around it; the inbox empties because each message meets its verdict on opening. The deciding usually happened days ago — quietly, thoroughly — and what others see is only the clean cut at the end.

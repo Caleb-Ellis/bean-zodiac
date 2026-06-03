@@ -6,6 +6,11 @@ form: fried
 trait: risk-taking
 dish: Ta'amiya - Egyptian fava bean falafel with green chili and cumin.
 quote: Only those who will bean far can possibly find out how far one can go.
+creature: ratel
+friendlyBeans: [chickpea, mung]
+antiBeans: [green, adzuki]
+friendlyForm: roasted
+antiForm: smoked
 seasonalFortune: Oil at temperature does not wait. The season favours the cook who drops the fava in while the cumin is still loud, and counts the burns later.
 fortuneMost: You commit before the numbers are in, and the leap is a good one. The math can ride in the cab with you.
 fortuneMost2: A door opens for a day only. You'll say yes before the catalogue is read — and the catalogue won't matter.
@@ -18,15 +23,15 @@ fortuneLow2: Square the ground before you spring off it. Pitching low and pegged
 fortuneLeast: Fold this hand. The locked door is doing what a locked door is for, even if walking away from it galls you.
 fortuneLeast2: Move in slow weighed portions, paying the small price twice before risking the large one. The tedium is exactly the thing you most need to practice.
 facetMostTitle: Cumin Before the Scorch
-facetMost: At the auction you raise your hand on the third lot and only afterward read the catalogue to see what you bought.
+facetMost: A cliff path splits into a marked route and an unmarked scramble with a better view. The scramble it is, footing unknown.
 facetHighTitle: Chili in Whole, Stem and All
-facetHigh: A friend mentions a band touring tomorrow night, three cities over; you have the tickets bought before the bill arrives.
+facetHigh: A stall is selling mystery boxes — could be junk, could be gold, no peeking. You hand over the cash for the biggest one.
 facetMidTitle: Fava in the Hot Pan
-facetMid: You start dinner for six without checking the fridge, trusting the chili and the cumin to cover what's missing.
+facetMid: You're cooking a recipe you've never tried for guests already at the door. No test run, no backup plan — straight to the table it goes.
 facetLowTitle: The Undried Oil
-facetLow: You set the room before anyone arrives — chairs squared, lamp angled, nothing left to improvise around.
+facetLow: A shortcut through unfamiliar streets might save twenty minutes or strand you. You take the long way you already know.
 facetLeastTitle: The Overnight Soak
-facetLeast: You move money in slow weighed portions, paying the small bill twice before you let the larger one out the door.
+facetLeast: A friend pitches splitting a punt on something uncertain. You'd rather skip the gamble entirely than put in even a small stake.
 question: A flat comes up — well above budget, available for one day only, requires deciding tonight. You...
 answerMost: sign the lease that evening; the numbers will sort themselves
 answerHigh: put down the deposit and figure out the budget tomorrow
@@ -38,11 +43,6 @@ rorschachHigh: a bat's wings spread off a high ledge
 rorschachMid: a hill rising to a single small peak
 rorschachLow: a tent pitched low and pegged to the ground
 rorschachLeast: a hen settled wide over the nest
-facetMostTags: [kidney, green, adzuki]
-facetHighTags: [kidney, green]
-facetMidTags: [kidney, green]
-facetLowTags: [butter, mung]
-facetLeastTags: [butter, mung, black]
 ---
 
 Red-Hot Fava Beans are the Bean Zodiac's most risk-taking — they sign the lease before the kettle has clicked off, book the flight on the phone in the airport, and start dinner for six trusting the chili and the cumin to cover whatever isn't in the fridge. The math gets done later, usually in the cab on the way to the thing they've already committed to.

@@ -6,6 +6,11 @@ form: dried
 trait: formidable
 dish: Fave e cicoria - dried fava bean puree with wilted bitter chicory and olive oil.
 quote: A bean in the hand is worth two in the bush.
+creature: bear
+friendlyBeans: [green, kidney]
+antiBeans: [butter, adzuki]
+friendlyForm: fried
+antiForm: roasted
 seasonalFortune: A season for what has cured slow in the dark. The puree settles thickest at the bottom of the pot; weight gathers in those who have waited out their own softening.
 fortuneMost: Wherever you stand, the day organises itself around you. Take up your full height and don't apologise for the space — others steady themselves on it.
 fortuneMost2: A weight is coming that nobody else will want to carry. You'll carry it well.
@@ -18,15 +23,15 @@ fortuneLow2: Sleep light, eat when hungry, and trust your own weight to warn you
 fortuneLeast: Ask after someone before anything else. The strength can rest a while — though setting it down never feels quite safe to you.
 fortuneLeast2: Tell them it really isn't a big deal and send them off light. Not every moment wants your full height — even if standing down feels like leaving a door unguarded.
 facetMostTitle: The Dense Puree
-facetMost: You enter rooms and the conversation reorganises around you; you didn't ask it to.
+facetMost: Feet planted, voice up over the noise, hands pointing people where to go — that's you the moment a panicking crowd jams at the blocked stairwell and nobody else steps up.
 facetHighTitle: Chicory Held to a Fraction
-facetHigh: The objects in your rooms stay where you put them; nothing decorative, nothing apologising for its size.
+facetHigh: The meeting's gone quiet around a thing nobody wants to say out loud. So you say it — flat, first, before anyone else has to be the one.
 facetMidTitle: What the Fava Keeps
-facetMid: You finish what you begin, even when the day has emptied around the task.
+facetMid: The trail's longer than the map promised and the others are talking about turning back. You'd put your head down and finish it, summit reached, long after the chatter's run out.
 facetLowTitle: Oil Finding Every Edge
-facetLow: You sleep light, eat when hungry, and trust the body to tell you before the day does.
+facetLow: A wobble on the rope bridge and you don't tense up — you let your weight tell you when there's real trouble, and walk on loose until it does.
 facetLeastTitle: The Shared Bowl
-facetLeast: Your messages are short and warm; you ask after people, and they answer.
+facetLeast: Old friend through the arrivals gate, and before a single thing about you comes up you're asking how their mother is, how the move went, whether they slept.
 question: A junior coworker has just done something that needs naming clearly, not harshly. They're standing in your doorway looking braced. You...
 answerMost: name the thing in one flat sentence and let the silence do the rest
 answerHigh: tell them straight, then sit with them while it lands
@@ -38,11 +43,6 @@ rorschachHigh: a great oak crown rising from one trunk
 rorschachMid: a head of broccoli standing on its stalk
 rorschachLow: a dandelion clock about to lose its seeds
 rorschachLeast: a cotton ball balanced on a thin straw
-facetMostTags: [kidney, green, pinto]
-facetHighTags: [kidney, green]
-facetMidTags: [kidney, green]
-facetLowTags: [butter, mung]
-facetLeastTags: [butter, mung, black]
 ---
 
 Aged Fava Beans are the Bean Zodiac's most formidable — the kind of presence a room rearranges itself around without anyone deciding to. They take the hard question first, name the thing nobody wants to name, and stand at full height while doing it. Nothing in their bearing apologises for the space they take up, and there is a real, quiet relief in being in a room with someone who isn't going to flinch.

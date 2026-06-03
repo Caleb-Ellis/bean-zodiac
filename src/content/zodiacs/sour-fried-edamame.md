@@ -6,6 +6,11 @@ form: fried
 trait: blunt
 dish: Edamame gyoza with black vinegar dipping sauce - pan-fried edamame dumplings with Zhenjiang vinegar.
 quote: A bean that is used to lying will find that the truth is a very uncomfortable thing.
+creature: ox
+friendlyBeans: [fava, green]
+antiBeans: [black, adzuki]
+friendlyForm: dried
+antiForm: fermented
 seasonalFortune: A season for unwrapped verdicts. The vinegar arrives undiluted at table, and the wrappers crisp without ceremony in the oil.
 fortuneMost: Unwrapped is the only way you know how to serve, and it's the way they came hungry for. They asked for the thing, not the fold around it.
 fortuneMost2: Plain as black vinegar, no sweetness stirred in. People stop bracing once they learn you mean it kindly.
@@ -18,15 +23,15 @@ fortuneLow2: Wrap the hard thing in a gentler one. The kind sentence reaching fi
 fortuneLeast: After a word lands hard, lead with the apology and let the reasons go. The verdict's already in the quiet, and explaining it again only presses the bruise.
 fortuneLeast2: A difficult truth can cool on the sill a while before it's carried in. The waiting will chafe against everything in you. Wait anyway.
 facetMostTitle: Vinegar, Unannounced
-facetMost: You name the thing at the table while others are still rehearsing how to phrase it.
+facetMost: A friend's new partner asks straight out what you think of them. You give the unvarnished read, warts and all, then reach for your drink.
 facetHighTitle: The Split Wrapper
-facetHigh: Replies leave your hands stripped of cushion; the recipient gets the filling, not the fold.
+facetHigh: A busker asks if they're any good as you pass. They're not, and you tell them so flat instead of dropping a coin and a lie.
 facetMidTitle: Receipt on the Counter
-facetMid: When something is owed, you state the amount — no preamble, no apologetic curl around the number.
+facetMid: Asked along to a party you've no interest in, you just say no — no manufactured excuse, no soft maybe to cushion it.
 facetLowTitle: Steam, Folded Back
-facetLow: You wrap the hard sentence in three softer ones, and the kind ones reach the listener first.
+facetLow: A nervous cook serves you a dish that's plainly under-seasoned. You praise the crust, mention the salt gently, and leave them standing taller.
 facetLeastTitle: The Extra Hour
-facetLeast: You let the difficult truth cool on the windowsill until someone else carries it in.
+facetLeast: A houseguest's gift is genuinely hideous and they want it hung where everyone sees. Up it goes on the wall, and you find three honest things to love about it.
 question: A friend asks how their new haircut looks. It is, by any reasonable measure, not working. You...
 answerMost: say "it isn't the one" and move on
 answerHigh: say the front is fine, the back isn't
@@ -38,11 +43,6 @@ rorschachHigh: two bricks set down side by side
 rorschachMid: two river stones lying near each other
 rorschachLow: two mittens laid out to dry on a rail
 rorschachLeast: two pillows dented soft side by side
-facetMostTags: [kidney, fava, pinto]
-facetHighTags: [kidney, fava]
-facetMidTags: [kidney, fava]
-facetLowTags: [butter, black]
-facetLeastTags: [butter, black, pinto]
 ---
 
 Agrodolce Edamame are the Bean Zodiac's most blunt — the sentence arrives unwrapped, and the listener can either eat it or not. There's no preamble to chew through, no "I just want to say," no managing of the temperature before delivery; the thing is on the table, and what they do with it is their business.

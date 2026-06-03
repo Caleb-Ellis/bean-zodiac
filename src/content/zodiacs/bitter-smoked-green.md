@@ -6,6 +6,11 @@ form: smoked
 trait: eerie
 dish: Smoked green bean with bitter elderflower and char.
 quote: Something is rotten in the bean of Denmark.
+creature: loon
+friendlyBeans: [kidney, pinto]
+antiBeans: [butter, fava]
+friendlyForm: fried
+antiForm: boiled
 seasonalFortune: A season threaded with elderflower and ash. The smoked green bean keeps its snap in rooms where the source of the smell cannot be named.
 fortuneMost: You'll already be there when the thing arrives, and the day will rearrange itself around you and call it luck. Let them call it that. You knew.
 fortuneMost2: A friend's voice hasn't gone thin yet, but you can feel it coming. Reach out before they ask — being early to it is the whole gift, reason or none.
@@ -18,15 +23,15 @@ fortuneLow2: You're reading a sign into something that's only itself. A still ni
 fortuneLeast: Walk up, ring the bell, give your real name. No uncanny detour, no errand turned into a play nobody asked to watch. The ordinary way, even when it's dull.
 fortuneLeast2: A clean night's sleep, and you wake hungry, certain the kettle is only a kettle. There's a deep rest in a world that means just what it says.
 facetMostTitle: Smoke Under the Door
-facetMost: You pay debts no one has named yet — the small ones, ahead of the asking.
+facetMost: Stuck in slow traffic, you signal off at an exit you had no plan to take. The pileup the lane ahead crawls into is one you're already past, and you couldn't have said how you knew.
 facetHighTitle: Elderflower, Still Steeping
-facetHigh: A friend's voice goes thin over the phone; you call back before they ask.
+facetHigh: An old classmate's name surfaces out of nowhere on a dull afternoon. You dig up a number and dial, with nothing to go on but the prickle that today was the day to.
 facetMidTitle: Char With No Fire in Sight
-facetMid: You wake at three and rearrange the furniture without turning on the lamp.
+facetMid: A houseguest finds you in the dark hallway at an odd hour, unbothered, having moved the side table six inches for a reason you can't give them.
 facetLowTitle: Every Mark Accounted For
-facetLow: The shelf is dusted, the cupboard sorted, the receipts in their tin; nothing in the flat would surprise its owner at three in the morning.
+facetLow: An empty house creaks the way empty houses do. You note it's the radiator, not a sign, and go back to your book without your pulse changing.
 facetLeastTitle: Elderflower as Garnish
-facetLeast: You sleep through storms and wake hungry, certain the kettle is only a kettle.
+facetLeast: A fortune-teller at the fair turns a card you'd usually feel in your teeth. You take it as a painted card, thank her, and head off toward the funnel cake.
 question: You wake at three with a strong feeling something is off with a friend you haven't spoken to in weeks. You...
 answerMost: text them now, before you've finished thinking it
 answerHigh: leave a voice note for when they wake, no explanation
@@ -38,11 +43,6 @@ rorschachHigh: a storm cloud massing where none was forecast
 rorschachMid: a clump of moss pulled from a wall
 rorschachLow: a cat curled asleep on the cushion
 rorschachLeast: a warm loaf cooling on the board
-facetMostTags: [pinto, cannellini, black]
-facetHighTags: [pinto, cannellini]
-facetMidTags: [pinto, cannellini]
-facetLowTags: [fava, edamame]
-facetLeastTags: [fava, edamame, kidney]
 ---
 
 Charcoal Green Beans are the Bean Zodiac's most eerie. They call back before the friend has said anything is wrong, pay the small debt before it's been asked for, wake at three to move the furniture and turn out to have been right about the room. Things tend to rearrange themselves around their having already been there.

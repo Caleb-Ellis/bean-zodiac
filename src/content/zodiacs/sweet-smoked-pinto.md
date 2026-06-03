@@ -6,6 +6,11 @@ form: smoked
 trait: dreamlike
 dish: Frijoles charros - pinto beans simmered with smoked bacon, chipotle, sweet tomato, and piloncillo.
 quote: Was it a vision, or a waking bean?
+creature: moth
+friendlyBeans: [adzuki, chickpea]
+antiBeans: [fava, navy]
+friendlyForm: fermented
+antiForm: boiled
 seasonalFortune: A season for what the smoke leaves behind once the pot is cleared — rooms holding chipotle long after supper, piloncillo sweetness drifting through corners no one quite occupies.
 fortuneMost: A line you drop will still be quoted on the porch hours after you've gone home — chipotle hanging in the room long after the pot is cleared.
 fortuneMost2: Tell the story slow, with the strange light still on it, in the order the dream had. The shape you leave behind does half your talking.
@@ -18,15 +23,15 @@ fortuneLow2: Arrive when you said, sit where you said, let the room know exactly
 fortuneLeast: Stay till the lights come on. Slipping out early stopped reading as mysterious a while back, and the full light at the end will cost you the haze you hide in.
 fortuneLeast2: Return the call the day it lands and sign your name in full. Never make them guess whether you meant it, however much the guessing has always been part of your charm.
 facetMostTitle: Bacon Rendered to Nothing
-facetMost: You answer a message at midnight and go quiet for a week; the thread keeps moving, still arranged around the gap you left.
+facetMost: Asked for directions to the old mill, you describe the light on the water and the smell of the lane rather than the turns. The asker wanders off somehow charmed and no closer.
 facetHighTitle: Piloncillo Before Anyone Tastes It
-facetHigh: Your handwriting lives on borrowed envelopes, post-its inside other people's cookbooks, a margin note someone keeps meaning to ask you about.
+facetHigh: A child wants to know where rain comes from. You give them an answer with clouds like sleeping animals in it, and they go quiet, turning it over.
 facetMidTitle: Chipotle on the Pot Lid
-facetMid: You leave a room and the conversation keeps its shape — friends still quoting a line you said weeks ago.
+facetMid: Someone asks how the weekend was. You hand them one drifting image — the fog on the hill at dawn — and let the rest stay unspoken.
 facetLowTitle: Tomato Whole in the Broth
-facetLow: You arrive when you said you would, sit where you said you'd sit, and the room knows exactly who is in it.
+facetLow: Friends are splitting a bill and need your share to the cent. You name the exact figure, count out the coins, and leave nothing to drift.
 facetLeastTitle: The Pot, Lid Off
-facetLeast: You return calls the day they come in, sign your name in full, and never make anyone guess whether you meant it.
+facetLeast: A form wants your plans for the year in plain boxes. You fill each one with a firm, literal line and feel oddly anchored doing it.
 question: A long, vivid dream you can still feel at breakfast, and someone at the table asks what it was about. You...
 answerMost: tell it slow, with the strange light still on it, in the order the dream had
 answerHigh: name the one image that's still hanging around the kitchen
@@ -38,11 +43,6 @@ rorschachHigh: an antlered head dissolving at the edges
 rorschachMid: a stag's head with one eye showing
 rorschachLow: a deer skull set plainly on a shelf
 rorschachLeast: a horned helmet bolted to a wooden stand
-facetMostTags: [cannellini, black, kidney]
-facetHighTags: [cannellini, black]
-facetMidTags: [cannellini, black]
-facetLowTags: [fava, edamame]
-facetLeastTags: [fava, edamame, green]
 ---
 
 Barbecued Pinto Beans are the Bean Zodiac's most dreamlike — and the line they dropped at supper is still being quoted on the porch hours after they've gone home. The voice note arrives at midnight, trails off mid-sentence, lands like an image rather than a message; the post-it on the cookbook is read a year later and held up to the light.

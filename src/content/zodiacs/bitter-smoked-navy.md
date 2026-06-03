@@ -6,6 +6,11 @@ form: smoked
 trait: ominous
 dish: Smoked navy bean with bitter juniper and char.
 quote: It was a dark and beany night.
+creature: black vulture
+friendlyBeans: [butter, edamame]
+antiBeans: [chickpea, pinto]
+friendlyForm: boiled
+antiForm: roasted
 seasonalFortune: Juniper smoke drifts low through the bitter months; the char beneath the kettle remembers what the woodpile has not yet admitted.
 fortuneMost: The crack is coming, and you'll see it long before anyone else lifts their head. Pull one person aside and say it plainly — the rest will feel the air change soon enough.
 fortuneMost2: That knot under your ribs is rarely wrong. Name the thing going dark while there's still room to move, not after it lands on schedule.
@@ -18,15 +23,15 @@ fortuneLow2: Take the stranger at their word. Not every coat hides a knife — s
 fortuneLeast: Pour the wine, ask after the garden, let the evening go by unannotated. Nobody here ordered a reading, and biting back the foreboding leaves you uneasy and them lighter.
 fortuneLeast2: Curtains open, doors unlatched, the night just a night. A rest in not bracing for once, strange as standing down feels.
 facetMostTitle: Char on the Tongue
-facetMost: You wake at four with a knot under the ribs, and by morning the call has come.
+facetMost: A wedding toast is still going warm and golden, but you've already clocked the fault line under the happy couple. You catch the maid of honour by the cake table and tell her what's coming.
 facetHighTitle: Smoke After the Fire
-facetHigh: You name the thing slipping in a room weeks before anyone else lifts their head.
+facetHigh: Touring a house everyone loves, you smell the thing behind the fresh paint that will sink it in two winters. You say so out loud while the others are picking curtains.
 facetMidTitle: Juniper Before Flame
-facetMid: You read a message twice and answer the sentence the sender hasn't written yet.
+facetMid: A captain announces a little turbulence ahead in a bright, easy voice. You're already braced, certain it's the worse kind, before the first drop hits.
 facetLowTitle: The Kettle, Only a Kettle
-facetLow: Strangers arrive, and you take them at the doorstep word, no second weather read behind their coat.
+facetLow: A guy on the corner asks to borrow your phone for one call. You hand it over and stand there easy, reading no scheme behind the simple ask.
 facetLeastTitle: The Wiped Rim
-facetLeast: You leave the curtains open at night, rooms unlocked behind you, the dark just dark.
+facetLeast: A friend lays out a plan with a few loose ends you could pick apart. You let the loose ends be, raise your glass to it, and don't go hunting for how it fails.
 question: A project is sailing along but you can feel where it will crack in six weeks. You...
 answerMost: walk into Monday standup and name the date and the failure
 answerHigh: send a short note flagging the risk, no soft language
@@ -38,11 +43,6 @@ rorschachHigh: a swarm gathering thick on the horizon
 rorschachMid: a mountain ridge seen against the dusk
 rorschachLow: a soft hill rolling gently to the road
 rorschachLeast: a fat dumpling resting on the plate
-facetMostTags: [pinto, cannellini, black]
-facetHighTags: [pinto, cannellini]
-facetMidTags: [pinto, cannellini]
-facetLowTags: [fava, green]
-facetLeastTags: [edamame, fava, green]
 ---
 
 Charcoal Navy Beans are the Bean Zodiac's most ominous. They name the thing going wrong in a project weeks before anyone else looks up, wake at four with a knot under the ribs the morning before the call comes, and are right often enough that the people around them have stopped betting against it.

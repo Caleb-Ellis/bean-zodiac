@@ -6,6 +6,11 @@ form: roasted
 trait: polished
 dish: Roasted adzuki soup with bitter cacao and orange peel.
 quote: Have no fear of bean perfection — you'll never reach it.
+creature: seal
+friendlyBeans: [chickpea, pinto]
+antiBeans: [black, edamame]
+friendlyForm: fried
+antiForm: dried
 seasonalFortune: A season of long roasts and pared peels. Cacao is grated in thin curls; nothing comes to the table half-finished, and the kitchen keeps its own quiet standard.
 fortuneMost: The curls of peel come off your knife all the same length. Nobody asked. You'd know if one didn't.
 fortuneMost2: The bowl you finished to the last clean curl is the one they'll remember. Nothing else on the table was tended like that.
@@ -18,15 +23,15 @@ fortuneLow2: The thing you sent out unsanded comes back loved anyway. Turns out 
 fortuneLeast: Out past the tidy garden a wind is coming to scatter what you arranged so carefully. The mess it leaves is the night you'll keep — hard as it is to drop your hands and let it.
 fortuneLeast2: Same shirt as yesterday, hair uncombed, and somehow the morning still splits open like an orange — fragrance first, the order never missed at all.
 facetMostTitle: The Unbroken Coil
-facetMost: Before sending any message, you read it once aloud, then once again for the comma you almost left.
+facetMost: A photo of the gift before you wrap it, so the bow lands centered and the paper has no overlap you'd later spot.
 facetHighTitle: Cacao at Translucence
-facetHigh: Cushions get straightened on the way to the door — not for guests, for the room, which you cannot bear to leave slumped.
+facetHigh: The shelf is level enough for anyone. You fetch the spirit level anyway, because enough is not the same as right.
 facetMidTitle: The Darkest Edge
-facetMid: You leave fifteen minutes earlier than needed; arriving creased is, for you, a small private failure.
+facetMid: A picture frame hangs a hair off true. You nudge it once, decide that's plenty, and leave the room.
 facetLowTitle: Peel Drying on the Board
-facetLow: You host in the apron you cooked in, ladle the soup deep, and refill before anyone asks.
+facetLow: Wave the early guests straight in past the wreck of the floor and let the mess be part of the night.
 facetLeastTitle: The Pot Left to Cool
-facetLeast: Hair uncombed, same shirt as yesterday, and the day still gets opened like a clean orange — fragrance first.
+facetLeast: You pull on whatever's nearest off the chair, sleeve still half-cuffed, and head into the day glad to be moving.
 question: You're getting dressed for an event where the outfit is going to be read. The mirror, an hour to go. You...
 answerMost: change three times until the line of the jacket sits exactly the way you want it
 answerHigh: swap the shoes, fix the cuff, then commit
@@ -38,11 +43,6 @@ rorschachHigh: an owl preened smooth, ear tufts raised
 rorschachMid: a bat hanging with its wings folded shut
 rorschachLow: a shaggy beetle, legs trailing loose below
 rorschachLeast: a clump of dug roots, soil still clinging
-facetMostTags: [cannellini, navy, black]
-facetHighTags: [cannellini, navy]
-facetMidTags: [cannellini, navy]
-facetLowTags: [fava, green]
-facetLeastTags: [fava, green, edamame]
 ---
 
 Wood-Fired Adzuki Beans are the Bean Zodiac's most polished — impeccable without being cold. Nothing leaves their hands half-done: the message read twice for the comma, the cushion straightened on the way out, the soup ladled deep and refilled before the bowl runs low. Sit at their table and you feel looked after by someone who noticed the thing you didn't say you needed.

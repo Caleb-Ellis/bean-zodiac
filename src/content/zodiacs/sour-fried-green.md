@@ -6,6 +6,11 @@ form: fried
 trait: impulsive
 dish: Gan bian si ji dou - Sichuan dry-fried green beans with garlic, chili, and Zhenjiang vinegar.
 quote: Bean first, and think afterwards is not a bad motto.
+creature: jackrabbit
+friendlyBeans: [kidney, chickpea]
+antiBeans: [butter, navy]
+friendlyForm: roasted
+antiForm: boiled
 seasonalFortune: A season smelling of hot oil and Zhenjiang vinegar — sharp at the edges, brief in the middle. Each week ends before the pan has cooled.
 fortuneMost: The unmarked exit, the road you don't know the end of — that one's yours. Half of what's good in your life came at exactly this speed.
 fortuneMost2: The thought lands and your hand is already moving, fast as a pod hitting the screaming wok. That rush is pointed somewhere worth going.
@@ -18,15 +23,15 @@ fortuneLow2: A rush can pass straight through you and leave you standing, the th
 fortuneLeast: A few people have quietly asked you to slow down. Hold the beat longer; it'll chafe, and the count is worth keeping.
 fortuneLeast2: Study a new face a while before you spend a word on it. The slow read grates against your speed and costs you nothing you'll miss.
 facetMostTitle: Vinegar in the Wok
-facetMost: You send the message the moment it forms; the reply can sort itself.
+facetMost: A street musician's song catches you mid-stride and a dance just happens — out in the open, before the self-conscious part can object.
 facetHighTitle: Garlic Past Its Moment
-facetHigh: The apology owed last Tuesday goes out now, unedited, before the impulse cools.
+facetHigh: A haircut you've half-wondered about, and a pair of scissors in the bathroom drawer. The first cut's made before the wondering's even done.
 facetMidTitle: Chili on the Wall
-facetMid: Furniture in your rooms moves whenever the thought arrives — never on a schedule, never twice the same way.
+facetMid: Passing a pet shelter with no plan to, you go in for a look. You walk out an hour later having signed for the nervous old dog.
 facetLowTitle: Bean in the Colander
-facetLow: You let the kettle finish whistling before you decide; the rush passes through you and leaves you standing.
+facetLow: A bright idea for the spare room arrives at full volume. You sketch it on paper first, sit with the sketch, and touch nothing for now.
 facetLeastTitle: The Ungarlicked Pod
-facetLeast: New acquaintances are studied for a season before you commit a sentence to them.
+facetLeast: A trip you could book on the spot with one tap. Instead you spread out maps, weigh the routes, and let the whole thing wait until it's planned to the hour.
 question: You're walking past a shop window and see a coat that you immediately, completely want. It's not in the budget this month. You...
 answerMost: walk in and buy it
 answerHigh: try it on, then buy it
@@ -38,11 +43,6 @@ rorschachHigh: a crab scuttling sideways with claws flung wide
 rorschachMid: a knotted root dug out of the ground
 rorschachLow: a cat settling slowly into a loaf
 rorschachLeast: an old toad dug deep into the cool mud
-facetMostTags: [chickpea, mung, black]
-facetHighTags: [chickpea, mung]
-facetMidTags: [chickpea, mung]
-facetLowTags: [adzuki, chickpea]
-facetLeastTags: [adzuki, chickpea, pinto]
 ---
 
 Agrodolce Green Beans are the Bean Zodiac's most impulsive — the gap between idea and act, on a good day, is a fraction of a second. The thought "I should call them" coincides with the phone already ringing. The decision to redo the bedroom happens during, not before, the rearrangement. They make plans by accident and keep them by momentum, and roughly half of what's interesting in their life arrived this way.

@@ -6,6 +6,11 @@ form: smoked
 trait: seething
 dish: Red beans and rice - Louisiana kidney beans with smoked andouille, celery, and bay leaf.
 quote: Full of sound and bean, signifying everything.
+creature: hornet
+friendlyBeans: [green, mung]
+antiBeans: [pinto, edamame]
+friendlyForm: roasted
+antiForm: dried
 seasonalFortune: A season for the long simmer; the pot tended for hours carries a low heat under everything its keeper does, and the rooms they pass through hold the scent.
 fortuneMost: The reply that waits until it's four words long arrives sharpened. The slow simmer did the editing for you.
 fortuneMost2: When the one who wronged you turns up, four words at the door is all it takes — they'll read it three times and know exactly where they stand.
@@ -18,15 +23,15 @@ fortuneLow2: The thing biting at you isn't worth carrying out the door. Leaving 
 fortuneLeast: Someone's been bracing for a verdict you quietly set down long ago. Tell them you forgot. The bracing was the whole wound.
 fortuneLeast2: A grievance is drifting out the open window like smoke, and you won't be able to name which friend it belonged to. Good — it cost you nothing to let it go.
 facetMostTitle: Andouille Before It Speaks
-facetMost: A friend who wronged you arrives at the door three weeks later; you greet them in four words, and they understand exactly where they stand.
+facetMost: Same red light, and there's the driver who cut you off. You hold the look — level, cold — and let the quiet carry it.
 facetHighTitle: Bay Leaf Left in Too Long
-facetHigh: You keep an old grievance folded behind the dish towels — never aired, never tossed, available.
+facetHigh: You smile at the reunion and pour their drink, the old wrong folded neatly under it, neither aired nor given up.
 facetMidTitle: Celery at the Bottom
-facetMid: You walk twice as far as needed after a hard call, until the pavement takes the edge off your hands.
+facetMid: After the row, no sleep coming — so you scrub the kitchen down at midnight until your hands quit shaking.
 facetLowTitle: Quick Steam Off a Fresh Pot
-facetLow: You say the unkind thing in the room it belongs to, then ask about the dog.
+facetLow: The waiter's short with your table, so you name it to his face, plain and even, and order pudding in the same breath.
 facetLeastTitle: Smoke Through an Open Window
-facetLeast: You forget which friend slighted you last spring; by autumn you are at their kitchen counter, chopping onions.
+facetLeast: Someone snaps at you in the checkout line, and by the next aisle it's gone — you couldn't even picture their face now.
 question: Someone cuts you off mid-sentence in a meeting. You...
 answerMost: file it, smile, and remember it next quarter
 answerHigh: let them finish, then circle back two days later in writing
@@ -38,11 +43,6 @@ rorschachHigh: a sealed flask bulging at a pinched waist
 rorschachMid: two boulders stacked on a thin join
 rorschachLow: two clouds drifting loose and far apart
 rorschachLeast: two lily pads resting on still water
-facetMostTags: [navy, edamame, black]
-facetHighTags: [navy, edamame]
-facetMidTags: [navy, edamame]
-facetLowTags: [adzuki, butter]
-facetLeastTags: [adzuki, butter, mung]
 ---
 
 Hickory Kidney Beans are the Bean Zodiac's most seething — the room can feel them across the table without them having said anything. They go quieter when something is wrong, not louder. The reply to the slight arrives two weeks late and is exactly four words long, and the recipient reads it three times.

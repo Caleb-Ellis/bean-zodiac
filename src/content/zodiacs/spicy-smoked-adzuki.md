@@ -6,6 +6,11 @@ form: smoked
 trait: transfixing
 dish: Adzuki doenjang-jjigae - adzuki beans in fermented soybean broth with smoked anchovy and gochugaru.
 quote: It is better to burn out than to bean away.
+creature: king cobra
+friendlyBeans: [black, fava]
+antiBeans: [butter, mung]
+friendlyForm: roasted
+antiForm: roasted
 seasonalFortune: Smoke threads the rafters and stains the beams a darker grain. A season for what marks the room long after the fire is out.
 fortuneMost: Gochugaru blooms red the second it hits the broth, and so do you the second you walk in — every voice half a step lower, tuned to yours.
 fortuneMost2: A door opens and the heat in the room turns toward it. That door is you.
@@ -18,15 +23,15 @@ fortuneLow2: A stranger's whole night will run fine without bending toward you. 
 fortuneLeast: Slip out and leave the place exactly as you found it — chairs square, no wake behind you. It prickles to go unmissed; go light anyway.
 fortuneLeast2: An omen on the wind — this is the turn to rise like steam and vanish, unwatched, nothing to carry.
 facetMostTitle: Char on the Rim
-facetMost: You enter a room and conversation slows to your tempo, every other voice tuned half a step down.
+facetMost: The band stops between songs and the whole bar's noise sags toward your end of it, waiting to hear what you'll say.
 facetHighTitle: Gochugaru Blooming Red
-facetHigh: You finish a sentence and the room waits, leaning, before anyone risks the next one.
+facetHigh: Tell the story you've told a dozen times — you watch the room reorganize itself toward your voice before you reach the good part.
 facetMidTitle: Anchovy Smoke, Slow Curl
-facetMid: Your message sits at the top of the thread for hours; nobody replies first, nobody scrolls past.
+facetMid: Walking into a party where you know no one, you pick a spot near the middle and trust the room to drift your way.
 facetLowTitle: Beans Beneath the Broth
-facetLow: You leave a room and it looks exactly as you found it — chairs square, cushions flat.
+facetLow: There's an open mic and a free slot, and you'd rather stay in the crowd and clap for whoever takes it.
 facetLeastTitle: Steam Rising and Gone
-facetLeast: You arrive on time, leave on time, and the evening keeps its own pace whether you stayed or not.
+facetLeast: A photographer wants you front and center for the group shot. You wave it off and slot into the back row where the tall ones go.
 question: A stranger across the bar catches your eye and lifts their glass a quarter-inch. You...
 answerMost: hold the look until they look away first
 answerHigh: smile slowly and turn back to your drink
@@ -38,11 +43,6 @@ rorschachHigh: a crowned head atop hunched shoulders
 rorschachMid: a beetle with a pale split down its belly
 rorschachLow: a scarecrow left standing in an empty field
 rorschachLeast: a sack slumped against a wall, ignored
-facetMostTags: [pinto, cannellini, black]
-facetHighTags: [pinto, cannellini]
-facetMidTags: [pinto, cannellini]
-facetLowTags: [edamame, fava]
-facetLeastTags: [edamame, fava, green]
 ---
 
 Chipotle Adzuki Beans are the Bean Zodiac's most transfixing — the room tilts toward them before they've said a word. They walk in late and the conversation they're interrupting forgets what it was about. People who meant to leave order another drink. Even the friend who came to vent ends up listening instead, halfway through their own story.

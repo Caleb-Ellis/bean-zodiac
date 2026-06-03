@@ -6,6 +6,11 @@ form: smoked
 trait: sardonic
 dish: Frijoles borrachos al mezcal - smoked pinto beans with mezcal, orange, and pasilla chile
 quote: Outside of a bean, a dog is a man's best friend. Inside of a bean, it's too dark to read.
+creature: hyena
+friendlyBeans: [mung, adzuki]
+antiBeans: [kidney, navy]
+friendlyForm: roasted
+antiForm: boiled
 seasonalFortune: A pot smoked over pasilla keeps its commentary low. The season favours those who watch the room before they enter it, and who answer questions a half-beat late.
 fortuneMost: Seven words, then quiet before the eighth — the eighth would've been the apology. The line was enough.
 fortuneMost2: The thing nobody wanted named, named in one dry line, and then the silence. The quiet after is part of the joke.
@@ -18,15 +23,15 @@ fortuneLow2: A new acquaintance asks what you really think. The wry version was 
 fortuneLeast: They take the sincere questions to someone less funny now. The bit was a tool, not a self; pick it up only when you actually need it.
 fortuneLeast2: Praise straight, apologise straight, let a line go without workshopping it. A good turn is following the undisguised version of you.
 facetMostTitle: Mezcal Already Smirking
-facetMost: At the group text, you are the one who names the thing nobody wanted named, in seven words, then goes quiet.
+facetMost: The award gets handed to the least-deserving person in the room to warm applause. A dry aside is loaded and ready, and you let it off under your breath to the seat beside you.
 facetHighTitle: Orange Peel Against Ash
-facetHigh: You walk into a room, read the mood, and adjust your face before anyone notices you adjusting.
+facetHigh: A toast turns suddenly weepy and earnest, and the whole table is welling up. There's a wry line that would puncture the spell, and your hand is on it.
 facetMidTitle: Pasilla After the Swallow
-facetMid: Compliments leave your mouth wrapped in a small twist; the receiver has to unwrap them at home.
+facetMid: A kid shows you the wobbly clay thing they made and watches your face. The setup for a gentle joke is right there; you tell them it's wonderful and leave it unwrapped.
 facetLowTitle: Mezcal Tasting Like Mezcal
-facetLow: Asked at dinner what you actually thought of the film, you say it — no twist, no setup — and the table goes a little still around the plainness.
+facetLow: A grieving friend asks, plainly, whether it gets easier. The deflection is reflex and ready — you set it aside and give them the plain, undefended answer.
 facetLeastTitle: Smoke, and Just a Pot
-facetLeast: You praise things straight, apologise straight, and never workshop a sentence before letting it go.
+facetLeast: An apology is owed and the wry, hedged version is already half-written. Scrap it — out goes the bare one instead, with no angle to hide behind.
 question: Someone you've just met asks, earnestly and at a party, what you're most proud of this year. You...
 answerMost: deflect with a joke about the question itself
 answerHigh: name something small and slightly self-mocking
@@ -38,11 +43,6 @@ rorschachHigh: two masks, one brow cocked across the gap
 rorschachMid: two faces turned toward a narrow gap
 rorschachLow: two friends leaning in, close to a kiss
 rorschachLeast: two children's faces beaming across a table
-facetMostTags: [cannellini, black, edamame]
-facetHighTags: [cannellini, black]
-facetMidTags: [cannellini, black]
-facetLowTags: [green, fava]
-facetLeastTags: [green, fava, edamame]
 ---
 
 Cured Pinto Beans are the Bean Zodiac's most sardonic — the reply has a small twist sewn into the hem before it leaves the mouth. They are the friend whose compliment you have to unwrap twice on the walk home, the colleague whose group-chat line ends the topic by gently angling it. There is real intelligence in the deflection; the people around them are made quicker by having to keep up.

@@ -6,6 +6,11 @@ form: fried
 trait: candid
 dish: Pat jeon with rice vinegar dipping sauce - Korean adzuki bean pancakes with a sharp sour dipping sauce.
 quote: The truth will set you bean.
+creature: hound
+friendlyBeans: [edamame, kidney]
+antiBeans: [black, mung]
+friendlyForm: roasted
+antiForm: smoked
 seasonalFortune: The season fries quick and dips sharp. Batter meets oil before the cook can second-guess it, and what surfaces wears no extra coat. A plainer table follows.
 fortuneMost: When someone wants the truth and not the comfort, yours is the door they knock on. Batter hits oil and what's real rises first.
 fortuneMost2: Someone is about to ask you a question they could ask anyone, and they're walking past everyone to reach you. That's not an accident.
@@ -18,15 +23,15 @@ fortuneLow2: The gentler version, chosen once, is care; reached for twice, it's 
 fortuneLeast: Not every truth is owed on arrival. Let one cool to a temperature a hand can hold — but a sharp word forgotten in the back of the pan only burns.
 fortuneLeast2: Soften the edge for the sake of the peace. The mercy is real; just don't mistake a long wait for a free one.
 facetMostTitle: Vinegar, Undiluted
-facetMost: In a room rearranging itself around a polite fiction, you name the thing on the plate and let the room recover.
+facetMost: The whole table has agreed not to mention the haircut. You're the one who tells your friend it's crooked at the back.
 facetHighTitle: Still Hot From the Pan
-facetHigh: You type what you mean, send it, close the tab; softening drafts go uneaten.
+facetHigh: A neighbour asks how the garden looks since they redid it. Out comes the verdict first, the cushioning never.
 facetMidTitle: Oil on the Tile
-facetMid: The receipt was wrong on your end; you say so before the other person notices, and pay the difference.
+facetMid: Catch the small wrong thing early — the clause that quietly favours the other side, while it's one sentence and not a signed page.
 facetLowTitle: Sugar in the Dipping Bowl
-facetLow: You phrase the hard thing twice in your head, choose the kinder version, set it down gently.
+facetLow: Held up a fresh tattoo someone's thrilled with, you go hunting for the warm half of your opinion and hand over only that.
 facetLeastTitle: The Cooling Pan
-facetLeast: You hold a small truth back through Tuesday, Wednesday, the week — not hiding it, letting it cool to a temperature someone can hold.
+facetLeast: A grieving stranger on a long bus ride tells you their plans, and the plans won't work. You let the wheels turn and say nothing.
 question: A coworker shows you a slide deck five minutes before the meeting and asks "does this make sense?" One slide doesn't. You...
 answerMost: point to it and say what isn't landing
 answerHigh: flag the slide and offer a quick rewording
@@ -38,11 +43,6 @@ rorschachHigh: two loaves split down the top to show the crumb
 rorschachMid: two storm clouds stacked over a flat horizon
 rorschachLow: two islands wrapped in fog that hides their shores
 rorschachLeast: two locked strongboxes, one stacked on the other
-facetMostTags: [kidney, fava, edamame]
-facetHighTags: [kidney, fava]
-facetMidTags: [kidney, fava]
-facetLowTags: [butter, edamame]
-facetLeastTags: [butter, edamame, black]
 ---
 
 Agrodolce Adzuki Beans are the Bean Zodiac's most candid — the kind whose congratulations arrive before the cake is cut and whose objections arrive before the meeting ends. There's no draft phase. The thought forms, the mouth opens, and the room adjusts; what they say tends to be both true and warm, because the warmth was the first thing in the batter.

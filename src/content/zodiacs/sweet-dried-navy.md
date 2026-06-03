@@ -6,6 +6,11 @@ form: dried
 trait: dutiful
 dish: White bean and lemon pound cake — dried navy beans cooked and blended into batter, lending the crumb a quiet density you cannot quite name.
 quote: Ask not what your bean can do for you — ask what you can do for your bean.
+creature: draft horse
+friendlyBeans: [butter, black]
+antiBeans: [chickpea, green]
+friendlyForm: boiled
+antiForm: fried
 seasonalFortune: The crumb sets quietly under the lemon's brightness; this is a season that pays back what was promised in winter and tended without fanfare.
 fortuneMost: A uniform pressed and hung for the morning. The whole thing stands because you quietly hold it up — run the dull errand first.
 fortuneMost2: The shift nobody volunteered for is yours before anyone's even read the ask. The credit may land elsewhere; you'll do it anyway, because you're the one who sees it needs doing.
@@ -18,15 +23,15 @@ fortuneLow2: Leave when the talk thins and the evening's clearly done, jacket al
 fortuneLeast: Let the bins, the birthday, the rota go a stretch without you — they'll survive, they always do. Sit in the quiet that opens up and find out who you are when nothing's being asked.
 fortuneLeast2: A punch card torn up and tossed. Quit the thing the week it bores you and skip the explanation — walking away from what you never chose has a clean freedom.
 facetMostTitle: The Loaf No One Requested
-facetMost: You still send the birthday note to the cousin who stopped sending one back, and the address is memorised.
+facetMost: A blizzard's shut the whole town in and the old lighthouse still needs its lamp lit. You pull your coat tight and trudge out into the white to keep it burning.
 facetHighTitle: Zest Into Sugar, Before the Eggs
-facetHigh: The bin is at the kerb on Tuesday night; the prescription is collected the day before it runs out.
+facetHigh: Out with the watering can before anyone's stirring, asking nothing back — the community garden's plot falls to whoever remembers, which is mostly no one but you.
 facetMidTitle: Foil Tucked Under
-facetMid: You answer the group chat by morning, even the dull threads, even the ones you could let drift.
+facetMid: A jar on the break-room shelf collects for someone's leaving gift and sits half-empty. Nobody would notice either way, but you dig out the right coins and drop them in.
 facetLowTitle: Lemon by the Squeeze
-facetLow: You leave the dinner when the talk thins, jacket already on, the dessert plate passing the other way.
+facetLow: The clipboard comes round the campsite for the cleanup crew and pens hover over it. You let it pass on by, figuring this once somebody else can take the chore.
 facetLeastTitle: The Batter Left Standing
-facetLeast: You quit the committee the week it bores you and feel no pull to explain it.
+facetLeast: Halfway through repainting a fence you promised the whole street you'd finish, the brush goes down. You're bored of it, so you leave the rest patchy and wander off.
 question: The volunteer rota for the school fair lands in the group chat. Nobody has volunteered. It's the fourth year in a row. You...
 answerMost: take the whole afternoon shift before anyone else opens the message
 answerHigh: sign up for two hours and let someone else find the rest
@@ -38,11 +43,6 @@ rorschachHigh: a clock with both hands kept wound
 rorschachMid: a bell mounted over a doorway
 rorschachLow: a checklist with half the boxes left blank
 rorschachLeast: a punch card torn up and tossed
-facetMostTags: [cannellini, black, pinto]
-facetHighTags: [cannellini, black]
-facetMidTags: [cannellini, black]
-facetLowTags: [fava, green]
-facetLeastTags: [fava, green, edamame]
 ---
 
 Crystallised Navy Beans are the Bean Zodiac's most dutiful. They take the bins out on Tuesday and the recycling on Wednesday and have done for so long that the household has forgotten the days; they answer the dull group thread by morning; they pick up the prescription the day before it runs out, having already noticed the date.

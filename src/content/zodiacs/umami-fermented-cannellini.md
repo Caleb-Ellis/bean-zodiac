@@ -6,6 +6,11 @@ form: fermented
 trait: idealistic
 dish: Cannellini and white miso soup with roasted garlic and rosemary.
 quote: Some beans see things as they are and ask why; I dream of beans that never were and ask why not.
+creature: unicorn
+friendlyBeans: [green, mung]
+antiBeans: [fava, black]
+friendlyForm: dried
+antiForm: boiled
 seasonalFortune: Miso thickens in its crock; the picture in the mind thickens faster. A household built on what could be — rosemary held to its sharpest note, garlic patient under heat — runs warm and slightly hungry through colder months.
 fortuneMost: The picture in your head of a thing that never existed is about to start pulling it into being.
 fortuneMost2: Almost-right reads as wrong to you, so you go back in again. That refusal to settle is the whole engine.
@@ -18,15 +23,15 @@ fortuneLow2: Serve it on whatever's clean and let the night be a good one anyway
 fortuneLeast: A quiet omen this turn — the ordinary afternoon you're standing in is already enough. The pictured one will keep tugging; take this one as it comes.
 fortuneLeast2: Call the friend now, off whatever you've got, no waiting for the worthy occasion. The people are in the present tense.
 facetMostTitle: Rosemary Withheld
-facetMost: You rework the chapter no one asked to read again, chasing a version that has not yet existed.
+facetMost: Handed a patch of bare ground to do anything with, you already see the garden it could become and start digging toward that, not toward what's easy.
 facetHighTitle: The Unstirred Paste
-facetHigh: You redraft the reply four times because almost-right is, to you, wrong.
+facetHigh: The choir sounds fine to everyone but you. You hear the version it could be and want to run the passage once more.
 facetMidTitle: Garlic Past the Point
-facetMid: You set the table for the dinner you mean to throw, not the one you have time for tonight.
+facetMid: A friend's coming over on short notice. You find yourself planning the whole proper welcome instead of the cup of tea you have time for.
 facetLowTitle: The Nearest Bowl
-facetLow: You buy the kettle that works; the better kettle stays in its box on the shelf.
+facetLow: The coat isn't quite the one you pictured, but it fits and it's warm, so you buy it and stop looking.
 facetLeastTitle: Salt and Beans
-facetLeast: You take the afternoon as it comes and do not measure it against an afternoon you imagined.
+facetLeast: Why hold this grey little walk by the river up against some better one? You don't; it's the walk you're on.
 question: The dinner you've been planning is tonight and the good plates are still boxed up. You...
 answerMost: postpone — it has to be right
 answerHigh: unpack the box now and eat late
@@ -38,11 +43,6 @@ rorschachHigh: a bulb sending green shoots up toward light
 rorschachMid: a candle flame wavering over a stub
 rorschachLow: a guttered wick sunk into spent wax
 rorschachLeast: a snuffed stump trailing one curl of smoke
-facetMostTags: [chickpea, mung, black]
-facetHighTags: [chickpea, mung]
-facetMidTags: [chickpea, mung]
-facetLowTags: [adzuki, chickpea]
-facetLeastTags: [adzuki, chickpea, green]
 ---
 
 Miso Cannellini Beans are the Bean Zodiac's most idealistic — the version of the evening in their head is so finished, so specifically lit, that the actual evening keeps coming up short by comparison. They redraft the message six times because the fifth was almost right and almost right is, to them, wrong; they keep the good jumper in tissue paper for an occasion that has not yet been quite worthy.

@@ -6,6 +6,11 @@ form: roasted
 trait: tolerant
 dish: Roasted chickpeas with Worcestershire, smoked paprika, and garlic.
 quote: In the practice of tolerance, one's bean is the best teacher.
+creature: zebu
+friendlyBeans: [mung, fava]
+antiBeans: [black, edamame]
+friendlyForm: fried
+antiForm: dried
 seasonalFortune: Smoke settles in the rafters and refuses to leave; the season widens its doorways, lets the odd guest in, asks no one their business.
 fortuneMost: Cook for more than are coming. The circle stretches around you, and an unexpected someone is on their way to fill the extra seat.
 fortuneMost2: You salt for the larger number and never mention the arithmetic. That ease is the warmth people drive a long way to sit in.
@@ -18,15 +23,15 @@ fortuneLow2: You can wave a great deal through and still say the one true no. Sa
 fortuneLeast: A door held open from pure habit is allowed to close. The friendship survives that better than the propped-open version — though pulling it to will feel like a small betrayal.
 fortuneLeast2: Step back from the thing that wandered off course. The quiet after isn't coldness; it's the room you actually wanted.
 facetMostTitle: Paprika at the Edge
-facetMost: You make room without taking inventory; the circle stretches, never breaks.
+facetMost: The campsite next to yours has a loud sprawling family, a wandering dog, and a radio. By morning their kids are eating off your picnic table and it doesn't occur to you to mind.
 facetHighTitle: Garlic, Loud in the Pan
-facetHigh: Cooking for six who became nine, you salt for the larger number and never mention the arithmetic.
+facetHigh: There it is again — the relative's opinion that makes the whole table wince. Without a flicker you let it pass and pour them another, because they're still yours.
 facetMidTitle: The Crowded Tray
-facetMid: Things accumulate on your counter — borrowed books, someone's jacket — and stay, untagged, until claimed.
+facetMid: A neighbour's habit of parking half across your spot has gone on for weeks. Say the small even thing now, or wave it through one more time?
 facetLowTitle: Worcestershire, Dark
-facetLow: You answer the unfair charge the same week it lands, evenly, and the matter closes.
+facetLow: Draw the line on the spot, gently — the question feeling for how far you'll bend gets its answer before it can be crossed a second time.
 facetLeastTitle: Smoke Through the Window
-facetLeast: Mute the thread that wandered off course; the silence afterward is the room you wanted.
+facetLeast: An old club you've outgrown still emails about the next meetup. You reply with a clean no and feel none of the tug you expected.
 question: A friend asks if they can bring "one more person" to your dinner for six. You...
 answerMost: say yes and ask if they want to bring two more while they're at it
 answerHigh: say yes warmly and add a chair
@@ -38,11 +43,6 @@ rorschachHigh: a coral fanning wide off a single base
 rorschachMid: a shrub with many branches above one trunk
 rorschachLow: a stag's antlers pulled back into a narrow rack
 rorschachLeast: a bare stump with its branches all cut off
-facetMostTags: [mung, black, kidney]
-facetHighTags: [mung, black]
-facetMidTags: [mung, black]
-facetLowTags: [adzuki, green]
-facetLeastTags: [adzuki, green, kidney]
 ---
 
 Rendered Chickpeas are the Bean Zodiac's most tolerant — they've been around long enough to lose interest in deciding who doesn't belong. Six become nine and the salt gets adjusted without comment. The jacket on the chair stays a month, the borrowed book stays a year, and the friend with the difficult opinions stays at the table.

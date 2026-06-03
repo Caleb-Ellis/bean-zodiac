@@ -44,11 +44,20 @@ export type QualityId = (typeof QualityIds)[keyof typeof QualityIds];
 
 export type ZodiacId = `${FlavourId}-${FormId}-${BeanId}`;
 
-// A facet tag is a bean the facet vignette embodies. The zodiac's own triple is
-// always scored at full strength by the base pass; a tier's bean tags add a
-// weaker bump that lifts those beans on accept (they need not be the zodiac's
-// own bean — that's the point). See lib/spiritBean.
-export type FacetTagId = BeanId;
+// Spirit tags steer the Beanstalk's soft scoring pass. Each zodiac names beans
+// and a form that align with its trait (friendly) and with the opposite of its
+// trait (anti) — never its own bean/form. Flavours are deliberately untagged
+// (orthogonal registers with no natural opposites). On trait-positive tiers
+// (Most/High/Mid) the friendly set is the active one; on anti-trait tiers
+// (Low/Least) the anti set is. Accepting lifts the active set, resisting lowers
+// it, independent of the base pass on the zodiac's own triple. See
+// lib/spiritBean and SPIRIT_TAGS.md.
+export type SpiritTags = {
+  friendlyBeans: BeanId[];
+  antiBeans: BeanId[];
+  friendlyForm: FormId;
+  antiForm: FormId;
+};
 
 export type BeanSchema = {
   name: string;
@@ -91,11 +100,10 @@ export type ZodiacSchema = {
   facetHigh: string;
   facetMostTitle: string;
   facetMost: string;
-  facetLeastTags?: FacetTagId[];
-  facetLowTags?: FacetTagId[];
-  facetMidTags?: FacetTagId[];
-  facetHighTags?: FacetTagId[];
-  facetMostTags?: FacetTagId[];
+  friendlyBeans: BeanId[];
+  antiBeans: BeanId[];
+  friendlyForm: FormId;
+  antiForm: FormId;
   fortuneLeast: string;
   fortuneLeast2: string;
   fortuneLow: string;

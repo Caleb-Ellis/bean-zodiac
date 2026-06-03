@@ -6,6 +6,11 @@ form: boiled
 trait: literal-minded
 dish: Navy bean and escarole soup with lemon and Parmesan.
 quote: When I use a bean, it means just what I choose it to mean — neither more nor less.
+creature: parrot
+friendlyBeans: [butter, edamame]
+antiBeans: [chickpea, pinto]
+friendlyForm: dried
+antiForm: fermented
 seasonalFortune: A season of bright broth and named parts. Escarole keeps its bitterness, lemon its edge, Parmesan its salt. Nothing borrows a flavour it has not earned.
 fortuneMost: Someone says "fine." Ask what fine means and wait for the answer in the words they give back.
 fortuneMost2: A relief is on its way. Answer the question you were actually asked, not the one they think you should have.
@@ -18,15 +23,15 @@ fortuneLow2: A pause before some sentences carries the real thing. Answer the si
 fortuneLeast: '"I''m fine" through clenched teeth is not its words. The plain text is right there, tempting you. Leave it; answer the mood.'
 fortuneLeast2: Some things were never a sentence to parse. Skip the words and sit closer.
 facetMostTitle: Lemon Where Lemon Is Asked
-facetMost: When a friend says fine, you ask what fine means and wait for the answer in the words given.
+facetMost: Back in five, the sign says — and you wait the five, while the person beside you huffs that it never really means five.
 facetHighTitle: Escarole Leaf by Leaf
-facetHigh: A friend asks if you are hungry; you say no, and the dinner reservation gets cancelled before either of you notices that hungry was not the question.
+facetHigh: Grab a few things for dinner, they said, no list, nothing more. A few means a few — back you come with exactly three, not the unspoken rest of the shop.
 facetMidTitle: Parmesan to the Rind's Edge
-facetMid: You measure the coffee, set the timer, arrive at the minute you said you would.
+facetMid: A recipe reads "season to taste" and the vagueness needles you. You salt it once, properly, the way the words allow, and leave the guessing to braver cooks.
 facetLowTitle: Broth Thickened Past the List
-facetLow: You hear the pause before the sentence and answer that, trusting the silence to be the message.
+facetLow: A friend's text says "sure, that's fine," and the words are perfectly agreeable. Something in the flatness of it makes you ring them up instead of taking the yes.
 facetLeastTitle: The Bowl Read Like a Letter
-facetLeast: Returns get written as small parables; the simple email becomes a paragraph about weather, and the bill still gets paid.
+facetLeast: Across the room a face does something small and wordless. You read a whole sentence in it that nobody spoke, and act on the sentence, not the silence.
 question: A partner sighs and says "I'm fine" in a voice that is clearly not fine. You...
 answerMost: take "fine" at the word and continue the evening
 answerHigh: ask what "fine" means and wait for the actual answer
@@ -38,11 +43,6 @@ rorschachHigh: a chestnut burr, plainly nothing but itself
 rorschachMid: a sea urchin set on white paper
 rorschachLow: a spiked blot you could call most anything
 rorschachLeast: a cloud everyone in the room names differently
-facetMostTags: [chickpea, mung, black]
-facetHighTags: [chickpea, mung]
-facetMidTags: [chickpea, mung]
-facetLowTags: [adzuki, chickpea]
-facetLeastTags: [adzuki, chickpea, green]
 ---
 
 Brined Navy Beans are the Bean Zodiac's most literal-minded. A sentence, to them, is its words; an instruction means what it says; "I'll be ten minutes" is a contract about ten minutes. There is a real relief in dealing with one of them — the small game of decoding what someone actually meant is over before it starts, and the answer you get back is the answer to the question you asked, not the one they thought you should have asked.

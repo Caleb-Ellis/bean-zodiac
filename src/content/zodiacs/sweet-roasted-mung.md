@@ -6,6 +6,11 @@ form: roasted
 trait: easygoing
 dish: Jaggery-roasted mung beans — whole mung beans tossed in melted jaggery and cardamom, roasted until crisp and fragrant.
 quote: Keep your bean up and your worries down, and everything will be just fine.
+creature: capybara
+friendlyBeans: [butter, navy]
+antiBeans: [kidney, green]
+friendlyForm: dried
+antiForm: fried
 seasonalFortune: A season that warms slowly, the way jaggery slackens before it pours. Hard edges round off in the pan. Cardamom finds its way into rooms it was not invited into.
 fortuneMost: A friend turns up sharp-cornered; out comes the chair, the glass, no questions, and the corners go. That ease is the whole of you.
 fortuneMost2: Set the extra plate for whoever showed up early and don't rearrange the evening around it. You let things unfold and they do.
@@ -18,15 +23,15 @@ fortuneLow2: A plan slips and your jaw sets. That set jaw is allowed; you wanted
 fortuneLeast: Be inconvenient about one real preference. The friction is the point — people would rather have the true you.
 fortuneLeast2: Put the cold conversation back on the heat and have it. Reheating something you let go takes nerve — but some things only sweeten the second time on.
 facetMostTitle: Jaggery Before Anyone Names It
-facetMost: A friend arrives sharp-cornered; you offer the chair, the glass, no questions, and the corners go.
+facetMost: The campsite floods overnight and the whole trip plan is ruined. You're laughing in the rain, already wringing out socks and calling it a story.
 facetHighTitle: Cardamom Where It Isn't Invited
-facetHigh: The unread thread crests past forty; you tap in, say something warm, and leave the rest unanswered.
+facetHigh: The road's closed and the detour adds two hours to a long drive. You roll the window down, find a song, and let the long way be the day.
 facetMidTitle: A Handful, No Measuring
-facetMid: Guests show up an hour early and you set another plate without rearranging the night.
+facetMid: The restaurant seats you at the cramped table by the kitchen door. You settle in, wave off the apology, and it's fine.
 facetLowTitle: Jaggery Seizing When Stirred Too Soon
-facetLow: A plan slips by ten minutes and your jaw sets; you push the room toward the clock.
+facetLow: The queue jumper slides in ahead of you at the market stall. Something in you tightens and you mean to say so.
 facetLeastTitle: A Burnt Bean, Past Sweetening
-facetLeast: An apology owed gets drafted six times; you'd rather pay the late fee than send a softened version.
+facetLeast: The group wants to split the bill evenly but you barely ate. This time you ask, plainly, to pay only for your own.
 question: A flatmate has, for the third time this month, used the last of the milk and not replaced it. You're standing at the kettle, mug empty. You...
 answerMost: shrug, drink it black, write nothing on the board
 answerHigh: text them a friendly "mind grabbing milk on your way back?" with a smiley
@@ -38,11 +43,6 @@ rorschachHigh: a scarecrow slumped easy on its post
 rorschachMid: a shrub with loose twigs above its trunk
 rorschachLow: a sentry stiff at attention, arms locked
 rorschachLeast: a wound spring strained tight on its base
-facetMostTags: [chickpea, black, kidney]
-facetHighTags: [chickpea, black]
-facetMidTags: [chickpea, black]
-facetLowTags: [adzuki, chickpea]
-facetLeastTags: [adzuki, chickpea, green]
 ---
 
 Glazed Mung Beans are the Bean Zodiac's most easygoing — the ones who set another plate for the guests who showed up an hour early and don't rearrange the night around it. A friend arrives sharp-cornered; out comes the chair, the glass, no questions, and the corners go. The unread thread crests past forty and they tap in warmly and leave the rest.

@@ -62,38 +62,31 @@ const RESISTED_BASE: Record<QualityId, number> = {
   rotten: +2,
 };
 
-// Question/rorschach picks forgo the soft pass entirely (the bean tags belong
-// to the facet vignette, which those variants don't show). They're deliberate
-// self-identification rather than a thumbs-up on a rolled tier, so the triple
-// is scored on a stronger table to make those picks count as a firmer signal.
-const ANSWERED_BASE: Record<QualityId, number> = {
-  heirloom: +6,
-  market: +4,
-  garden: +3,
-  stale: -2,
-  rotten: -3,
+// Weaker "soft" score added to the spirit-tagged attributes. Magnitude tracks
+// how vivid the tier is — strongest at the Most/Least extremes, mildest at Mid.
+// Sign comes from accept/resist (accept lifts, resist lowers); which *set*
+// (friendly vs anti) is active comes from the tier (see the soft pass below).
+// The bean ring takes the full bump; the form ring sits in well-separated
+// baseline territory, so it takes a lighter one that nudges without easily
+// overturning the baseline spread. (Flavours are deliberately untagged.)
+const SOFT_BEAN: Record<QualityId, number> = {
+  heirloom: 2,
+  market: 1,
+  garden: 1,
+  stale: 1,
+  rotten: 2,
 };
 
-// Weaker "soft" score added to the beans a facet tier *embodies* (its tags).
-// Unlike the base pass, accepting always lifts these beans regardless of tier:
-// a tag means "this vignette behaves like that bean," so you drift toward it.
-// Magnitude tracks how vivid the expression is — strongest at the Most/Least
-// extremes (Heirloom/Rotten, the Rare qualities), mildest at Mid (Garden).
-const ACCEPTED_SOFT: Record<QualityId, number> = {
-  heirloom: +2,
-  market: +1,
-  garden: +1,
-  stale: +2,
-  rotten: +3,
+const SOFT_FORM: Record<QualityId, number> = {
+  heirloom: 1,
+  market: 1,
+  garden: 1,
+  stale: 1,
+  rotten: 1,
 };
 
-const RESISTED_SOFT: Record<QualityId, number> = {
-  heirloom: -1,
-  market: -1,
-  garden: -1,
-  stale: -1,
-  rotten: -1,
-};
+// Trait-positive tiers (the trait) vs anti-trait tiers (its opposite).
+const POSITIVE_TIERS = new Set<QualityId>(["heirloom", "market", "garden"]);
 
 export const SPIRIT_DIFF_THRESHOLD = 10;
 
@@ -134,29 +127,35 @@ export function computeSpiritBeanScores(
     const s = entry.score ?? 0;
     if (s === 0) continue;
     const accepted = s > 0;
-    const answered =
-      entry.variant === "question" || entry.variant === "rorschach";
     const [f, frm, b] = entry.zodiacId.split("-") as [
       FlavourId,
       FormId,
       BeanId,
     ];
 
-    // Base pass: the zodiac's own triple. Question/rorschach use the stronger
-    // table; facet/legacy use the accepted/resisted tables.
-    const base = answered
-      ? ANSWERED_BASE[entry.qualityId]
-      : (accepted ? ACCEPTED_BASE : RESISTED_BASE)[entry.qualityId];
+    // Base pass: the zodiac's own triple, on the accepted/resisted tables.
+    const base = (accepted ? ACCEPTED_BASE : RESISTED_BASE)[entry.qualityId];
     flavourScores[f] += base;
     formScores[frm] += base;
     beanScores[b] += base;
 
-    // Soft pass: facet variant only. Tags are beans the vignette embodies; the
-    // bump lifts them on accept (lowers on resist) independent of the base, so
-    // an anti-trait line drives you off your own bean toward the ones it names.
-    if (!answered && entry.facetTags?.length) {
-      const soft = (accepted ? ACCEPTED_SOFT : RESISTED_SOFT)[entry.qualityId];
-      for (const id of entry.facetTags) beanScores[id] += soft;
+    // Soft pass: any entry carrying spirit tags. The active set is the
+    // trait-aligned
+    // (friendly) tags on positive tiers and the opposite-aligned (anti) tags on
+    // anti-trait tiers; accepting lifts that set, resisting lowers it,
+    // independent of the base pass on the zodiac's own triple. So accepting an
+    // anti-trait line lifts the anti set while the base pushes your own triple
+    // down — drift toward the beans/flavour/form that line embodies.
+    if (entry.spiritTags) {
+      const t = entry.spiritTags;
+      const positive = POSITIVE_TIERS.has(entry.qualityId);
+      const sign = accepted ? 1 : -1;
+      const beanSoft = sign * SOFT_BEAN[entry.qualityId];
+      const formSoft = sign * SOFT_FORM[entry.qualityId];
+      for (const id of positive ? t.friendlyBeans : t.antiBeans) {
+        beanScores[id] += beanSoft;
+      }
+      formScores[positive ? t.friendlyForm : t.antiForm] += formSoft;
     }
   }
 

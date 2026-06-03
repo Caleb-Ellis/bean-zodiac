@@ -6,6 +6,11 @@ form: dried
 trait: potent
 dish: Dried green beans rehydrated and dressed with anchovy, capers, and garlic.
 quote: Great beans from little beans do grow.
+creature: minotaur
+friendlyBeans: [kidney, pinto]
+antiBeans: [butter, mung]
+friendlyForm: fried
+antiForm: boiled
 seasonalFortune: A season that asks for less and returns more; the shrivelled bean drinks its slow water and comes back heavier than it left the shelf.
 fortuneMost: One true sentence, said early, will carry for a year.
 fortuneMost2: A pinch of anchovy outflavours a whole bowl. Make the single sharp thing and leave the rest of the meal undone.
@@ -18,15 +23,15 @@ fortuneLow2: Smooth your edge off and let the thing become everyone's. A version
 fortuneLeast: A blank day is owed to you, and it owes the world nothing back. Take it, whatever's waiting on the other side of the quiet.
 fortuneLeast2: Let an afternoon dissolve around you and make nothing anyone will quote. Ordinary is allowed to be enough — uneasy as that lands for you.
 facetMostTitle: Brine Before Bite
-facetMost: You post once a month and the thread quotes you for a year.
+facetMost: One sharp line, then off — that's all you'd give the restless crowd at the open mic that's run too long, leaving them hungry for the set that never comes.
 facetHighTitle: Anchovy, Undeniable
-facetHigh: You ship the four-paragraph thing and let the long versions die in their drafts.
+facetHigh: A toast is expected and they're all watching you rise. One clean sentence, raised glass, sit down — and you resist every urge to add the second.
 facetMidTitle: Garlic in Hot Oil
-facetMid: You enter the room, stay an hour, leave early, and the conversation keeps tasting of you past midnight.
+facetMid: A party you'll only stay an hour at. You'd rather make that hour count and slip out early than dilute yourself across the whole long night.
 facetLowTitle: The Rehydrated Bean
-facetLow: You revise until the thing is everyone's, and the version that lands has no edge left to remember.
+facetLow: The mural's yours but the committee keeps softening it, vote by vote. You let the edges go, sand it down to something everyone can live beside, and it ends up forgettable.
 facetLeastTitle: The Unsalted Afternoon
-facetLeast: You let the day rehydrate around you and produce nothing anyone needs to remember.
+facetLeast: A whole empty Sunday, and you spend it dozing in a hammock making absolutely nothing — no line, no mark, nothing for anyone to carry off and repeat.
 question: A thing you posted in passing last week is getting more attention than the work you spent two months on. The replies want more. You...
 answerMost: leave it where it is and don't post again this month
 answerHigh: like a few replies and let the thread cool down on its own
@@ -38,11 +43,6 @@ rorschachHigh: a horned bull's head lowered in profile
 rorschachMid: a curled hedgehog with one quill sticking out
 rorschachLow: a melting candle drooping its soft wick sideways
 rorschachLeast: a wilted lettuce leaf curling limp at the edge
-facetMostTags: [kidney, navy, mung]
-facetHighTags: [kidney, navy]
-facetMidTags: [kidney, navy]
-facetLowTags: [butter, edamame]
-facetLeastTags: [butter, edamame, black]
 ---
 
 Aged Green Beans are the Bean Zodiac's most potent — one sentence, posted once, that the group chat is still quoting at Christmas. They show up to the dinner late, stay an hour, say four things, and leave, and the conversation tastes of them until everyone goes home.

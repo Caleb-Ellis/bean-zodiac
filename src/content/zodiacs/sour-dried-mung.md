@@ -6,6 +6,11 @@ form: dried
 trait: spare
 dish: Ginisang munggo - mung bean soup with dried tangerine peel and ginger.
 quote: The most important thing in communication is to hear what isn't being beaned.
+creature: saluki
+friendlyBeans: [cannellini, fava]
+antiBeans: [pinto, adzuki]
+friendlyForm: smoked
+antiForm: roasted
 seasonalFortune: A season that simmers down. The tangerine peel gives its oil and nothing more; what is left in the pot is what was needed all along.
 fortuneMost: Cut one more thing and what's left will still hold. What's left is exactly what was needed.
 fortuneMost2: Three ingredients named, the hour you stood at the stove left out. The care is in the doing, never the announcing.
@@ -18,15 +23,15 @@ fortuneLow2: Cook for the fuller table you're hoping for. Care this pared-down s
 fortuneLeast: The thanks the quiet keeps stealing is owed to you. Put out more than feels decent and stay in the room while they take it in — being seen giving costs you the comfortable invisibility, and you're due it.
 fortuneLeast2: Let yourself be caught in the act of giving. The credit that keeps drifting to someone else can land on you this time; standing there for it is harder than slipping away, and you've earned the standing.
 facetMostTitle: Ginger, Peel, Bean
-facetMost: When friends ask for the recipe you name the three, and leave out the hour you stood at the stove.
+facetMost: The community garden's tools turn up sharpened and oiled, and nobody knows it was you before dawn. You'd just as soon they never found out.
 facetHighTitle: The Peel That Keeps
-facetHigh: Your shelves hold what earns its place; the rest goes to the bin without ceremony each season.
+facetHigh: Packing for a long trip, the bag could hold twice what's in it. You'd take only the few things that earn the weight and zip it shut.
 facetMidTitle: One Slice of Ginger
-facetMid: You answer the long message in one line, and feel no need to soften the edge with anything extra.
+facetMid: Pull up, let them in, skip the fuss of how they ended up stranded — your friend at the roadside needs a lift and nothing more.
 facetLowTitle: A Second Handful of Beans
-facetLow: You cook for the table you hope arrives, and usually it does.
+facetLow: A child's birthday and one well-chosen gift would do. This time you wrap a few extra and pile them on, more than feels strictly necessary.
 facetLeastTitle: Peel Past Its Year
-facetLeast: You buy for the giving, not the keeping, and the giving finds its hands.
+facetLeast: You've fixed the broken gate the whole street uses. When a neighbour wonders aloud who to thank, you stay put and say it was you.
 question: A friend is sick. You bring soup, leave it at the door, and they later thank a different friend for the gesture. You...
 answerMost: say nothing, the soup did its job
 answerHigh: smile, let it pass, note it once
@@ -38,11 +43,6 @@ rorschachHigh: a peanut in its plain dry shell
 rorschachMid: a cottage loaf pinched at the middle
 rorschachLow: a snowman trimmed with scarf and buttons
 rorschachLeast: two baskets heaped and spilling over
-facetMostTags: [kidney, fava, edamame]
-facetHighTags: [kidney, fava]
-facetMidTags: [kidney, fava]
-facetLowTags: [butter, black]
-facetLeastTags: [butter, edamame, black]
 ---
 
 Dehydrated Mung Beans are the Bean Zodiac's most spare. The lift to the station is offered without fanfare; the soup arrives in a jar that doesn't need returning; the long message gets a one-line reply that is, somehow, exactly the right one. They are the friend whose care you only notice in aggregate, weeks later, when you realise how many small ordinary things have quietly been easier with them in your life.

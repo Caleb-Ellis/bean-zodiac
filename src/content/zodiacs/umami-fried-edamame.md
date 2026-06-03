@@ -6,6 +6,11 @@ form: fried
 trait: keen
 dish: Edamame gyoza - pan-fried dumplings with edamame, nira, and soy dipping sauce.
 quote: I am always doing that which I cannot do, in order that I may learn how to bean it.
+creature: merlin
+friendlyBeans: [green, kidney]
+antiBeans: [butter, mung]
+friendlyForm: dried
+antiForm: fermented
 seasonalFortune: A season pleated and sealed at the edge. The wrapper crisps where it meets the pan; what is folded inside still announces itself through the dough.
 fortuneMost: The filling announces itself through the dough before the dumpling's even turned. You read people the same way, and the thing nobody's said yet is yours to name first.
 fortuneMost2: Answer the question they actually meant, not the one they managed to get out.
@@ -18,15 +23,15 @@ fortuneLow2: Not every signal needs catching the instant it lands. Let an aftern
 fortuneLeast: Be the last to know something, on purpose. Surprise is a muscle you've nearly let waste.
 fortuneLeast2: Miss the small thing and laugh it off. Half-tuned-out costs far less than you fear, and it rests something worn-down in you.
 facetMostTitle: The Pleat That Hides Nothing
-facetMost: You name the unspoken thing in the room before anyone else has finished sitting down.
+facetMost: Two old friends greet each other warmly across the café and you've already clocked, from the half-second before the smile, that something between them has gone cold.
 facetHighTitle: Nira Through the Wrapper
-facetHigh: You scan a message twice and answer the question they meant, not the one they typed.
+facetHigh: A guide rattles through the tour on autopilot, and you're the one who picks up the catch in their voice and asks if they're alright.
 facetMidTitle: The Slow Ring on the Saucer
-facetMid: You notice which lamp in the room was moved an inch and put it back without comment.
+facetMid: A friend keeps circling the long way to a point you saw coming, and you'd rather let them arrive on their own than land it for them.
 facetLowTitle: The Crease Gone Soft
-facetLow: You let the afternoon drift past the hour you meant to start, and the work waits without bruising.
+facetLow: A hint flickers past — the shifted tone, the held pause — and instead of pouncing on it you let it go by unremarked.
 facetLeastTitle: The Forgotten Dumpling
-facetLeast: You pay the bill twice in a month and laugh about it; the small misses cost you nothing.
+facetLeast: A plot twist everyone else saw a mile off blindsides you completely, and the jolt of it is pure delight rather than a thing you missed.
 question: A friend is telling a story and you can see the conclusion coming three sentences early. You...
 answerMost: finish the sentence for them and move the conversation along
 answerHigh: nod knowingly and offer the next thought before they get there
@@ -38,11 +43,6 @@ rorschachHigh: a fox nosing the air, snout to the wind
 rorschachMid: a long loaf cooling on a board
 rorschachLow: a seal lolling half-asleep on a rock
 rorschachLeast: a lump of wax gone blunt and faceless
-facetMostTags: [cannellini, black, kidney]
-facetHighTags: [cannellini, black]
-facetMidTags: [cannellini, black]
-facetLowTags: [fava, green]
-facetLeastTags: [fava, green, cannellini]
 ---
 
 Tempura Edamame are the Bean Zodiac's keenest — the ones who clock the actual question inside the email's third paragraph and answer it in one line. They read the room on the way through the door, notice the lamp moved an inch, hear which word a friend chose instead of the obvious one. The thinking is fast and almost always right.

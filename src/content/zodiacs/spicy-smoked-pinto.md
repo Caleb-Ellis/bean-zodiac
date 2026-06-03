@@ -6,6 +6,11 @@ form: smoked
 trait: erratic
 dish: Texas chili con carne - smoked brisket and pinto beans in ancho and guajillo chile broth.
 quote: Life is what happens to you while you're busy bean other beans.
+creature: gadfly
+friendlyBeans: [kidney, green]
+antiBeans: [navy, mung]
+friendlyForm: roasted
+antiForm: boiled
 seasonalFortune: Smoke wanders where the wind decides; the brisket carries char from a fire that never sat still. Ancho deepens in one corner of the pot, guajillo flares in another, and the broth keeps no consistent weather.
 fortuneMost: Ancho deepens in one corner, guajillo flares in another, and the broth keeps no steady weather — that's your whole life, four things going, the one that surprises you finishing. Chase the swerve; the dish is never the one you ordered, and it's better.
 fortuneMost2: The recipe abandons itself halfway and lands somewhere no one could have planned. People stay close for exactly that — let it wander where it wants.
@@ -18,15 +23,15 @@ fortuneLow2: Whoever was counting on the first version is still standing there w
 fortuneLeast: Cook the dish you've made for them before, take the same road home. The boredom is rent, paid against the swerve you'll want soon.
 fortuneLeast2: The luck this turn sits with the steady hand. Finish the plan you started; save the new idea for next time.
 facetMostTitle: Three Surfaces, One Half-Done
-facetMost: You start four things at once and finish the one that surprises you.
+facetMost: Set out to paint the fence and you end up rerouting the garden path, then sketching a pond, the fence still bare while a wilder plan takes over.
 facetHighTitle: Smoke Between the Tabs
-facetHigh: Forty threads open, three answered today, two answered last month — whichever caught light when you walked past.
+facetHigh: Asked for directions, you give a route, then a better one, then a scenic one nobody asked about, until the stranger's just nodding and lost.
 facetMidTitle: Off the Burner for the Garden
-facetMid: You work in bursts the clock cannot predict.
+facetMid: A road trip has a route mapped and a hotel booked. A hand-painted sign for a cave appears, and you yank the wheel toward it without a second thought.
 facetLowTitle: One Pot, One Burner
-facetLow: You keep a single room in order while the rest of the house drifts.
+facetLow: Friends are clamoring to redraw the whole evening's plan on a whim. You hold the one reservation you all agreed on and steer everyone back to it, even as the dull part itches.
 facetLeastTitle: Same Bowl, Same Chair
-facetLeast: You cook the recipe you know by heart and find no reason to wander from it.
+facetLeast: There's a wide-open afternoon and a dozen new ways you could spend it. You walk the same loop you always walk, sit in the same café, order the usual, and call it good.
 question: You're hosting dinner and halfway through cooking you decide to change the menu. You...
 answerMost: scrap the recipe and invent something from what's in the fridge
 answerHigh: pivot one course, keep the rest, tell no one
@@ -38,11 +43,6 @@ rorschachHigh: a torn coastline jagging in and out
 rorschachMid: a clump of moss spread over a stone
 rorschachLow: a doorknob rubbed smooth by years of hands
 rorschachLeast: a risen loaf gone smooth on top
-facetMostTags: [chickpea, mung, black]
-facetHighTags: [chickpea, mung]
-facetMidTags: [chickpea, mung]
-facetLowTags: [adzuki, chickpea]
-facetLeastTags: [adzuki, chickpea, green]
 ---
 
 Chipotle Pinto Beans are the Bean Zodiac's most erratic — and the most fun to watch cook. The story in the group chat has taken four turns in an hour and each turn is better than the last. The recipe abandons itself halfway through and arrives at something nobody could have planned. People stay close to them for the swerves; the dish is never the dish you ordered and is usually better.

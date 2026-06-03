@@ -6,6 +6,11 @@ form: fried
 trait: headstrong
 dish: Pad prik khing - Thai stir-fried green beans with red curry paste and kaffir lime.
 quote: Well-bean is that which is done with determination.
+creature: bull
+friendlyBeans: [adzuki, edamame]
+antiBeans: [fava, cannellini]
+friendlyForm: fermented
+antiForm: boiled
 seasonalFortune: A wok left cold too long forgets its own pitch. The season belongs to cooks who strike the pan hot and commit before the paste can argue.
 fortuneMost: Decided is decided. Name the plan, start walking, and the others fall in behind you on the road.
 fortuneMost2: The paste is in the oil — no taking it back. You'd rather start the thing than hold a meeting about starting it.
@@ -18,15 +23,15 @@ fortuneLow2: Hold the decision open one beat longer and let the others actually 
 fortuneLeast: Take the slower route with them. Yours ends at a wall; theirs ends somewhere you can all arrive.
 fortuneLeast2: Let the plan shape itself around everyone's pace and find your own moves inside it. Following feels like surrender; here it's just generosity in an unfamiliar coat.
 facetMostTitle: Paste Into Oil, No Return
-facetMost: You begin the renovation on a Tuesday; the family arrives Sunday to discuss whether to do it, and the wall is already down.
+facetMost: Lost on a hike, the group wants to debate the map. You've already picked a direction and started down it; they can follow the trail or the talk.
 facetHighTitle: The Kaffir Leaf, Spent
-facetHigh: You say the difficult thing at the door, walk to the car, and decline to come back inside when someone wants another round.
+facetHigh: You've made your call on a thing and someone wants to relitigate it over drinks. The mind's shut — you'd sooner change the subject than reopen the vote.
 facetMidTitle: Beans in at the Shimmer
-facetMid: You pick the restaurant. You name the hour. The group follows or doesn't.
+facetMid: A board game stalls because nobody will set a house rule. You call one, flat, and play on under it whether they like it or not.
 facetLowTitle: Six Hands at the Board
-facetLow: You hold the household decision open — paint, dishwasher, weekend — until the people in the room actually weigh in.
+facetLow: A choice is yours to make and you've half-made it. You sit on it a beat longer and ask the others what they'd do before you lock it.
 facetLeastTitle: Lime Juice After the Flame
-facetLeast: You let the plan shape itself around everyone else's pace and find your own moves there.
+facetLeast: A day out is being planned and your route would be quickest. You let the group's slower, looser plan win and find your own fun inside it.
 question: A group is dithering over where to eat. You...
 answerMost: name the place and start walking; the group catches up
 answerHigh: pick somewhere and tell the chat, no veto window
@@ -38,11 +43,6 @@ rorschachHigh: an anchor dug in with both flukes hooked
 rorschachMid: a steer's skull mounted above two horns
 rorschachLow: a ribbon drooping loose off both ends
 rorschachLeast: a willow with branches trailing to the ground
-facetMostTags: [navy, cannellini, black]
-facetHighTags: [navy, cannellini]
-facetMidTags: [navy, cannellini]
-facetLowTags: [edamame, fava]
-facetLeastTags: [edamame, fava, adzuki]
 ---
 
 Red-Hot Green Beans are the Bean Zodiac's most headstrong — once decided, the decision is over. They pick the restaurant, name the hour, and start walking; the group catches up or doesn't, and either way the night begins on time. Friends know that asking for their input is asking for a plan, and the plan, in their hands, is rarely wrong.

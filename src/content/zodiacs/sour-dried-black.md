@@ -6,6 +6,11 @@ form: dried
 trait: impenetrable
 dish: Black bean and dried hibiscus soup with lime.
 quote: No bean is an island, entire of itself.
+creature: rhinoceros beetle
+friendlyBeans: [fava, edamame]
+antiBeans: [adzuki, chickpea]
+friendlyForm: smoked
+antiForm: roasted
 seasonalFortune: Hibiscus stains the pot rim red while the beans stay black at the core. Some interiors are not edited by what surrounds them; weather passes over, not through.
 fortuneMost: Weather passes over you, not through. That is no flaw — it is how the core stayed yours.
 fortuneMost2: A flat "fine" can be accurate, complete, and the whole of it. The door with no handle has kept you whole this long.
@@ -18,15 +23,15 @@ fortuneLow2: The friend who'd have helped can't, while the seal holds. Make the 
 fortuneLeast: The vault has stood closed a long while and the luck is in its opening. Somewhere is the one who'd weep at the same film you do; let them in, slowly is fine.
 fortuneLeast2: Two true sentences of yours for two of theirs. The seal works both ways, and the second sentence will be harder than the first — that's how you'll know it counted.
 facetMostTitle: The Hibiscus, Not the Bean
-facetMost: Messages collect for days. You answer when you have something to say, and not a moment before.
+facetMost: A door appears in a hillside, ajar, warm light behind it. You walk past without slowing, keeping your own door shut.
 facetHighTitle: Lime at the Edge
-facetHigh: At the party you stand near the door, courteous, unread, leaving with the face you arrived in.
+facetHigh: How's the family, the new neighbour asks over the fence — and the honest answer is long. You give the short one and water the plants.
 facetMidTitle: The Sealed Jar
-facetMid: Drawers close. Closets close. A guest sees the room you decided they would see.
+facetMid: One door open, not the whole house — that's the most you'll offer when a trusted friend asks what's really going on.
 facetLowTitle: The Long Simmer
-facetLow: You send the draft to anyone who asks; whatever you are working on, the room hears about it by Wednesday.
+facetLow: The cab driver makes one small opening and you take it, telling a stranger the whole tangle before the ride is half over.
 facetLeastTitle: The Bean and the Broth
-facetLeast: You tell the doctor everything on the first visit, weep at films, sleep where you fall.
+facetLeast: First night in a new town, a stranger at the bar buys a round, and by closing they know your whole history and you don't regret a word.
 question: A stranger on a long train sits opposite and asks, gently, how your year has been. You...
 answerMost: nod once and return to the window
 answerHigh: give the shape of an answer, no details
@@ -38,11 +43,6 @@ rorschachHigh: a heavy sack cinched tight at the neck
 rorschachMid: a clod of earth with roots trailing up
 rorschachLow: a cracked pot leaking grain from the seam
 rorschachLeast: a burst sack spilling its chaff everywhere
-facetMostTags: [chickpea, mung, kidney]
-facetHighTags: [chickpea, mung]
-facetMidTags: [chickpea, mung]
-facetLowTags: [adzuki, chickpea]
-facetLeastTags: [adzuki, chickpea, green]
 ---
 
 Dehydrated Black Beans are the Bean Zodiac's most impenetrable. Ask one how the weekend went and the answer is "fine" — accurate, complete, and somehow the conversation has already ended. They are not cold; they are simply on the other side of a door that has no obvious handle, and a year of dinners can pass before anyone notices nothing has come out about the divorce, the move, the diagnosis.

@@ -6,6 +6,11 @@ form: fried
 trait: entrepreneurial
 dish: Panisse - chickpea fritters with bitter herb aioli.
 quote: The bean who moves a mountain begins by carrying away small stones.
+creature: magpie lark
+friendlyBeans: [green, fava]
+antiBeans: [navy, black]
+friendlyForm: roasted
+antiForm: dried
 seasonalFortune: A season of hot oil and short fuses. Plans crackle into shape mid-air; the patient ones scorch, and the quick hands learn which spits to stand close to.
 fortuneMost: The one idea that won't leave you alone is the one to start. The other three are alibis.
 fortuneMost2: A shuttered front on a street you've crossed a hundred times, and you'll see exactly what it should be. The gap is yours — go find who holds the keys.
@@ -18,15 +23,15 @@ fortuneLow2: The half-planned trip keeps. It doesn't sour for sitting a thought 
 fortuneLeast: A good idea passes clean through you and out the far side. Some sparks aren't fires — they're only weather.
 fortuneLeast2: Years at one bench, and the drawer beside it knows every pen by name. It nags at the restless part of you; it was still worth the staying.
 facetMostTitle: Oil at the First Spit
-facetMost: You walk past a shuttered storefront and by the next block have the name, the menu, and the landlord's number — none of which you needed before lunch.
+facetMost: A long queue at the festival gate, no one selling water, the sun brutal. By the time you reach the front you've costed a cooler, a cart, and a teenager to run it.
 facetHighTitle: Batter Before the Herbs
-facetHigh: You start the project Friday night, name it Saturday, tell six people Sunday — by Tuesday you want a new one.
+facetHigh: A neighbour mentions their garden's overrun with lemons. Before they've finished you're pitching a stand, a label, a split of the takings — and you mean to actually do it.
 facetMidTitle: The Cracked Fritter
-facetMid: You answer "what do you do" with a list, never a sentence, and the list edits itself between drinks.
+facetMid: There's a small thing at the house you've meant to fix and sell on. You poke at it some weekends — enough to keep it alive, not quite enough to finish and list it.
 facetLowTitle: Aioli, One More Clove
-facetLow: You let the dinner end before suggesting the trip you have already half-planned in your head; the plan keeps for a quieter hour.
+facetLow: There's room for you in the obvious next big thing — a friend's raising money and wants you in. You hear them out and pass. Fine idea; just not one you need to be on.
 facetLeastTitle: The Pan Cooling Over
-facetLeast: You stay at one desk for years and the drawer beside it knows every pen by name.
+facetLeast: Same allotment, same row of beans, same gate every spring for years on end. No itch to scale it, franchise it, or turn it into anything — the having of it is plenty.
 question: Walking past a shuttered shop on a street you've crossed a hundred times, you can suddenly see exactly what it should be. You...
 answerMost: photograph the front, find the landlord by evening, have a number on the lease by Friday
 answerHigh: write the whole concept up that night and send it to the one person who'd back it
@@ -38,11 +43,6 @@ rorschachHigh: two bonfires throwing embers upward
 rorschachMid: two spiky caterpillars inching along a leaf
 rorschachLow: two low islands settling into still water
 rorschachLeast: two sleeping hills under a heavy quiet
-facetMostTags: [pinto, fava, green]
-facetHighTags: [pinto, fava]
-facetMidTags: [pinto, fava]
-facetLowTags: [mung, butter]
-facetLeastTags: [mung, butter, black]
 ---
 
 Scorched Chickpeas are the Bean Zodiac's most entrepreneurial. They start the project Friday night, name it Saturday, tell six people Sunday — and the gap they spotted was real, the instinct sound, the energy genuinely infectious. Ask one what they do and you get a list, never a sentence, and the list is alive.

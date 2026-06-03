@@ -6,6 +6,11 @@ form: fermented
 trait: cynical
 dish: Choucroute garnie - navy beans with sauerkraut, caraway, and white wine.
 quote: A bean who knows the price of everything and the value of nothing.
+creature: vulture
+friendlyBeans: [butter, black]
+antiBeans: [pinto, fava]
+friendlyForm: boiled
+antiForm: smoked
 seasonalFortune: Sauerkraut sharpens in the crock long after the lid goes on; the wine turns vinegar before it turns to anything kinder. Late warmth carries a caraway bite.
 fortuneMost: Sentiment doesn't clear a ledger. Weigh the apology against the bill still owed and answer the debt first; the clear-eyed read has spared you the small charges before.
 fortuneMost2: The warm new tone is setting up an old request — you've watched this exact turn arrive too many times to miss it. Plan for the ask, not the warmth wrapped round it.
@@ -18,15 +23,15 @@ fortuneLow2: Leave the door unlocked, the mail open on the table. Nothing went m
 fortuneLeast: The world is not coming for your things, and the lock costs more attention than the contents are worth. Leave the latch open. The exposure you feel is almost entirely in your own head.
 fortuneLeast2: A stranger really did just buy the coffee, with nothing folded under it. Take it the way you'd take clear weather; the suspicion in your jaw will sit out one round and learn nothing it didn't already fear.
 facetMostTitle: Caraway Between the Teeth
-facetMost: You read the message twice for what it isn't saying, then close the tab unanswered.
+facetMost: A charity worker on the pavement smiles wide and warm before a word's out. You're already past the smile, hunting the clipboard and the line that's coming.
 facetHighTitle: Brine on the Sugar
-facetHigh: When an apology arrives, you weigh it against the bill still owed and answer the bill first.
+facetHigh: A salesman throws in a freebie nobody asked for. Where another would just pocket it, you read it as the down payment on a favour you'll be billed for later.
 facetMidTitle: Wine Soured in the Jar
-facetMid: You let new acquaintances talk a long time before you offer your own name.
+facetMid: A new acquaintance is being unusually generous with their praise of you. Do you bank it and warm to them, or keep your own cards close till you see what it's softening you up for.
 facetLowTitle: Cabbage, Lid Off
-facetLow: You leave the door unlocked, the mail open on the table, and nothing yet has gone missing.
+facetLow: A neighbour offers to water the plants while you're away, no strings named. The key goes over the fence and the thought of an angle never even surfaces.
 facetLeastTitle: Caraway in the Dry Pan
-facetLeast: You notice kindness in strangers the way some people notice weather, and take it at face value.
+facetLeast: A child gives you a flower they picked, expecting nothing back. You take it as exactly that and feel no pull to find the catch.
 question: A stranger at the next table pays for your coffee before leaving and won't take thanks. You...
 answerMost: read the receipt, check the till, and try to work out the angle
 answerHigh: thank them once, briefly, and watch which direction they leave in
@@ -38,11 +43,6 @@ rorschachHigh: a berry bush hiding one sharp thorn
 rorschachMid: a low shrub with a ragged crown
 rorschachLow: a mound of fruit spilling over freely
 rorschachLeast: a full basket held out, nothing tucked under
-facetMostTags: [edamame, black, kidney]
-facetHighTags: [edamame, black]
-facetMidTags: [edamame, black]
-facetLowTags: [adzuki, butter]
-facetLeastTags: [adzuki, butter, mung]
 ---
 
 Pickled Navy Beans are the Bean Zodiac's most cynical — they have read the message twice for what it isn't saying and weighed the apology against the bill still owed. They can predict, with eerie accuracy, which colleague's new tone is a prelude to which old request, and which "we should catch up" is a polite filing of a friendship in the bottom drawer. The clear-eyed reading saves them, again and again, from the small charges they would otherwise have signed.

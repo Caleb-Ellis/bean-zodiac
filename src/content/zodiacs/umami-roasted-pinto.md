@@ -6,6 +6,11 @@ form: roasted
 trait: detached
 dish: Roasted pinto beans with ancho chile, tomato paste, and cumin.
 quote: I have bean watching from a great height for so long.
+creature: albatross
+friendlyBeans: [adzuki, chickpea]
+antiBeans: [black, cannellini]
+friendlyForm: fermented
+antiForm: dried
 seasonalFortune: Ancho smoke settles into rooms long after the pan has cooled. A season for watching steam rise off other people's plates without reaching across the table.
 fortuneMost: Sit one chair back from the head. From there you see who's lying; from the head you'd only see who's listening.
 fortuneMost2: Let the talk pleat around you and log every fold. The cool distance is real and it serves you — more often than the warm version of you wants to admit.
@@ -18,15 +23,15 @@ fortuneLow2: The room wants you in it, not above it. Stay, both hands on the wor
 fortuneLeast: Be the loud one for a change. Spend the altitude; the cool head is yours to climb back to whenever you want it — you'll just have to want it less to get there.
 fortuneLeast2: Lean into the nearest warm shoulder, no border between your evening and theirs. The watching can rest, even if resting it leaves you feeling oddly unguarded.
 facetMostTitle: One Chair Back
-facetMost: At the long table you sit unreachable; conversation pleats around you and you log every fold.
+facetMost: A street fight erupts outside the café window and everyone presses to the glass. You stay in your seat, coolly reading who'll throw the first punch and who's only posturing.
 facetHighTitle: Ancho-Tinted Glass
-facetHigh: Messages arrive; you read them at a remove. Reply tomorrow, reply Thursday, reply when the heat has banked.
+facetHigh: Phone face-down, a full night allowed to pass over the furious voicemail before you so much as draft a reply — the heat banks, and what you send lands cleaner for it.
 facetMidTitle: The Aerial View
-facetMid: Every draft stays overhead — no close grain, no getting in among the thing you're drawing.
+facetMid: A protest swells in the square and the crowd's pull is to join the chant. Step off the curb into it, or keep to the edge and watch the shape of the thing from the outside?
 facetLowTitle: Tomato Paste, Hands in
-facetLow: The pan wants stirring; the room wants you in it, and you stay, both hands on the work.
+facetLow: A toddler thrusts a half-built block tower at you, demanding you play. You get down on the floor and into the game, no part of you hovering above it taking notes.
 facetLeastTitle: Bean Into Sauce
-facetLeast: Tired, you sink into the nearest warm shoulder — no border between your evening and theirs.
+facetLeast: The concert crowd surges into one swaying mass — and the border between you and the strangers just dissolves. You move with all of them, watching nothing, part of the heap.
 question: You arrive at a long dinner where the seat at the head and a seat one chair back are both free. You...
 answerMost: take the one chair back, where you can watch the whole table
 answerHigh: take a quiet seat near the end, smile, settle in
@@ -38,11 +43,6 @@ rorschachHigh: a sleeping bear and a coiled snake well apart
 rorschachMid: a haystack and a knotted rope across a gap
 rorschachLow: a hen and her chick pressed right up close
 rorschachLeast: two otters tangled tight in one warm heap
-facetMostTags: [adzuki, butter, kidney]
-facetHighTags: [adzuki, butter]
-facetMidTags: [adzuki, butter]
-facetLowTags: [fava, green]
-facetLeastTags: [fava, green, edamame]
 ---
 
 Rendered Pinto Beans are the Bean Zodiac's most detached — present, warm, observant, and one chair back from the head of the table by preference. From there they can see who's lying and who's listening; they reply on Thursday to what arrived Tuesday, and what they send is better for the wait. The altitude is genuine and it usually serves them.

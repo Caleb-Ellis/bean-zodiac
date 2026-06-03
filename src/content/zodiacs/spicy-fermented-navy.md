@@ -6,6 +6,11 @@ form: fermented
 trait: independent
 dish: Alubias con chorizo - Spanish white bean stew with spicy fermented sausage and smoked paprika.
 quote: The bean who follows the crowd will usually get no further than the crowd.
+creature: bobcat
+friendlyBeans: [black, butter]
+antiBeans: [chickpea, mung]
+friendlyForm: dried
+antiForm: roasted
 seasonalFortune: A season of crocks left untouched in cool dark, salt doing its slow work. The cook who trusts the jar walks past it for weeks; the stew arrives ready.
 fortuneMost: You've already decided while the others argue the menu. Move while it's yours — the late opinions were never the seasoning.
 fortuneMost2: Convictions arrived at in the dark, shaped by no hand but your own. A day is coming that proves the people who trust your clarity right.
@@ -18,15 +23,15 @@ fortuneLow2: Wait to taste what the host already stirred in before you reach for
 fortuneLeast: Your mind's made up and the people who love you have stopped pushing back. That silence is the warning, not the win — crack the lid before it seals.
 fortuneLeast2: Asking three people whether the price was fair isn't indecision. It grates to lean on a verdict that isn't yours, and some days the room sees what you can't.
 facetMostTitle: Salt Where the Hand Falls
-facetMost: You rearrange the kitchen so the salt sits where your hand falls, not where the last cook left it. Every shelf reset to your reach.
+facetMost: Everyone's still weighing whether the trip is a good idea. You've already bought your ticket and packed, and you'll go whether or not the rest of them come.
 facetHighTitle: Chorizo in a Dry Pan
-facetHigh: You start the project the week it occurs to you, draft alone, show no one.
+facetHigh: Build the thing the way you see it, alone, before anyone's had a chance to weigh in. Their notes can come once it exists — you'd rather not have them in your ear while it's forming.
 facetMidTitle: Paprika on the Sleeve
-facetMid: You have already ordered before the group chat decides where to eat.
+facetMid: The reviews are split and the salesperson keeps talking. You've quietly made up your mind which one you want and stop listening for anyone's verdict.
 facetLowTitle: The Spoon Over the Pot
-facetLow: You wait to taste what the host stirred in before salting your own bowl.
+facetLow: You're joining a group that's been doing this together for years, and you arrive with your own ideas about how it should go. Hang back, watch how they already do it, and fold in before changing a thing.
 facetLeastTitle: Smoke Above the Lid
-facetLeast: You put the receipt down and ask three people whether the price was fair before paying.
+facetLeast: A big choice sits in front of you and you genuinely want other people in it. You call around, gather everyone's read, and let the shared verdict carry more weight than your own first instinct.
 question: A group chat is still arguing over where to eat. You're hungry and one place is obviously fine. You...
 answerMost: book it, post the confirmation, eat
 answerHigh: name the choice and say you're heading there
@@ -38,11 +43,6 @@ rorschachHigh: a single boat clear of the others
 rorschachMid: a hill above its own broad shadow
 rorschachLow: a duck settled back among the flock
 rorschachLeast: sheep crowded tight into one pen
-facetMostTags: [kidney, cannellini, fava]
-facetHighTags: [kidney, cannellini]
-facetMidTags: [kidney, cannellini]
-facetLowTags: [fava, green]
-facetLeastTags: [fava, green, edamame]
 ---
 
 Kimchi Navy Beans are the Bean Zodiac's most independent — the ones who've already ordered by the time the group chat decides where to eat. They've rearranged the kitchen so the salt sits where their hand falls, started the project the week it occurred to them, and arrived at convictions in the dark that nobody had a hand in shaping. There's an unfussy clarity in their movements that the people around them quietly trust.

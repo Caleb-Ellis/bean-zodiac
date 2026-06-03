@@ -6,6 +6,11 @@ form: smoked
 trait: untethered
 dish: Judías verdes con jamón ahumado - Andalusian green beans with smoked ham and pimentón.
 quote: A great bean follows a little spark.
+creature: wandering albatross
+friendlyBeans: [edamame, pinto]
+antiBeans: [butter, fava]
+friendlyForm: fried
+antiForm: dried
 seasonalFortune: Pimentón scents a kitchen long after the pan is cold; the heat outlives whatever called for it.
 fortuneMost: You catch the urgency before anyone in the place has named it, and the day reshuffles to be ready. Trust it — the instinct is real and usually right.
 fortuneMost2: No fixed chair; you drift to wherever the light's gone warm. That drift is how you keep finding what everyone else walked past.
@@ -18,15 +23,15 @@ fortuneLow2: Let the thing sit until it asks to be done. The patience suits you 
 fortuneLeast: The fire's out and you're still pacing on its smoke. Sit down; what's already finished doesn't need you running for it.
 fortuneLeast2: A grounded, dull task you've dodged is quietly waiting, with a satisfaction the wind never gives you. Stay rooted one day.
 facetMostTitle: Smoke Filling the Room
-facetMost: You keep no fixed chair, drifting between windows, settling wherever the light is currently warm.
+facetMost: A flock of birds wheels left over the field and something in you turns with them, abandoning the path for wherever the wind seems to be going.
 facetHighTitle: The Pod, Split Early
-facetHigh: A siren passes on the street and you are out the door before you have decided where you are going — the day rearranges around the noise.
+facetHigh: Down at the harbor a boat is casting off and the crew's a hand short. You're untying your shoes to swim out before you've asked where it's headed.
 facetMidTitle: Char Marks Where Attention Fell
-facetMid: Your open tabs are a map of yesterday's small fevers, none of them closed, none quite finished.
+facetMid: Halfway through learning the guitar a friend mentions pottery, and the strings go quiet on the wall while your hands itch for clay.
 facetLowTitle: Ham on Its Own Clock
-facetLow: You let the beans sit in the colander an extra hour, waiting until the meal asks to be cooked.
+facetLow: Friends swing by the porch to sweep you off to something across town. You wave them on and stay with the slow thing already in your hands, content to miss it.
 facetLeastTitle: Smoke in a Still Room
-facetLeast: You sleep through the alarm that was set for nothing in particular and wake at your usual hour.
+facetLeast: There's a dull fence that's needed mending for ages and a hundred brighter things calling. You pick up the hammer and give the whole day to the fence.
 question: You wake up with a free Saturday and no plans. You...
 answerMost: walk out the door and decide the day on the train
 answerHigh: pick a neighbourhood you don't know and head there
@@ -38,11 +43,6 @@ rorschachHigh: a dandelion head loosing its seeds upward
 rorschachMid: a mushroom with a round cap and stem
 rorschachLow: a tree with its trunk set in the bank
 rorschachLeast: an oak gripping the ground with deep roots
-facetMostTags: [chickpea, mung, black]
-facetHighTags: [chickpea, mung]
-facetMidTags: [chickpea, mung]
-facetLowTags: [adzuki, chickpea]
-facetLeastTags: [adzuki, chickpea, pinto]
 ---
 
 Chipotle Green Beans are the Bean Zodiac's most untethered — and the first to feel an urgency no one in the room has named yet. They pick up an unease an hour before the meeting goes sideways, and reorganise the afternoon to be ready. They drop everything for the friend who hasn't called yet but is about to. The instincts are real, and they're usually right.

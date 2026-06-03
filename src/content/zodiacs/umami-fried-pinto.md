@@ -6,6 +6,11 @@ form: fried
 trait: unreliable
 dish: Frijoles refritos con chorizo - pinto beans fried in lard with Mexican chorizo and ancho chile.
 quote: I am not bean enough to make promises I cannot keep.
+creature: wisp
+friendlyBeans: [adzuki, green]
+antiBeans: [navy, black]
+friendlyForm: fermented
+antiForm: boiled
 seasonalFortune: Lard renders twice before it sets. A pinto's word burns bright at first heating and steadies, if at all, on the second pass through the fat.
 fortuneMost: Lard renders bright and hot, and your yes comes out the same way, meaning every word while it leaves. Hand people that warmth — just know future-you is a different bean than the one promising.
 fortuneMost2: Weekends, trips, favors, all pledged the instant they're floated. The buoyancy you give away is real even when the plan cools by week's end, and the friend goes home lighter.
@@ -18,15 +23,15 @@ fortuneLow2: Clear what you owe the week it lands, so nothing drifts into next m
 fortuneLeast: Promise the dinner and have the pot on by six. When you decide an hour will hold, it holds, and people feel the difference.
 fortuneLeast2: Decline now, so they can ask someone who'll show. The honest no is its own kind of reliability — harder for you to hand over than a hot yes.
 facetMostTitle: Chorizo Spitting
-facetMost: At the bar you pledge weekends, trips, favors; by morning the fat has cooled and the words with it.
+facetMost: Someone floats a band, a hike, a half-baked scheme, and the yes leaps out of you whole and glowing before you've checked a single thing it would cost.
 facetHighTitle: Lard at the Rim
-facetHigh: A friend asks for help moving on Saturday and you say yes with both hands, then wake Saturday to a body that has remembered something else.
+facetHigh: You've signed up to bring the gear and run the booth — and the morning of, the whole bright plan feels like a stranger's promise you somehow inherited.
 facetMidTitle: Ancho Under Slow Heat
-facetMid: You name an hour and arrive whenever the day releases you. The people who love you have stopped expecting you on time.
+facetMid: You tell them you'll be there at seven, knowing seven is more a hope than an hour and the door may not see you till nine.
 facetLowTitle: The Bean Taking Its Oil
-facetLow: What you owe gets paid the week it lands; nothing carries from one month into the next.
+facetLow: A loose end someone's counting on could easily slip your mind — so you scratch it on your hand the moment you take it on, and it actually holds.
 facetLeastTitle: The Second Pass Through Fat
-facetLeast: You promise Saturday dinner and Saturday the pot is on by six; the hour holds.
+facetLeast: Asked for something you can feel you won't deliver, you turn it down on the spot so they can find someone who'll show.
 question: At a bar near closing, a friend floats a weekend road trip leaving Friday. You...
 answerMost: agree on the spot, plan the playlist, forget by Tuesday
 answerHigh: say yes warmly, leave the logistics for later
@@ -38,11 +43,6 @@ rorschachHigh: a sandcastle slumping, a turret breaking away
 rorschachMid: a russet potato resting on a board
 rorschachLow: a loaf sitting whole and uncut
 rorschachLeast: a cast-iron weight set firm on the floor
-facetMostTags: [chickpea, mung, black]
-facetHighTags: [chickpea, mung]
-facetMidTags: [chickpea, mung]
-facetLowTags: [adzuki, chickpea]
-facetLeastTags: [adzuki, chickpea, green]
 ---
 
 Tempura Pinto Beans are the Bean Zodiac's most unreliable — and the warmest people at the table while they're being it. The yes comes out hot: weekends pledged, trips planned, favors offered before the favor has finished being asked for. They mean every word at the moment the words are leaving. The friend goes home buoyed; the week ahead looks, briefly, fuller and kinder than it did at six.

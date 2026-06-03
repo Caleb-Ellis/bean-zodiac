@@ -6,6 +6,11 @@ form: dried
 trait: uncomplicated
 dish: Honey-glazed dried edamame — dried soybeans tossed in hot honey and sea salt until cracked and caramelised.
 quote: Keep it simple, bean.
+creature: ewe
+friendlyBeans: [cannellini, navy]
+antiBeans: [mung, black]
+friendlyForm: boiled
+antiForm: fermented
 seasonalFortune: A season cracked down to the kernel. Hot honey, sea salt, nothing else asked for — the days run short and clean, and what stays is what was load-bearing all along.
 fortuneMost: One straight line, drawn clean. Most of what people circle comes down to a single decision, and you're the one who makes it.
 fortuneMost2: Hot honey, sea salt, nothing else asked for. Hand someone the one next thing to do; that's why the noise sent them to you.
@@ -18,15 +23,15 @@ fortuneLow2: Let it stay messy a while. The ache they're carrying won't fold int
 fortuneLeast: The chipped mug stays. The foreign coin, the stopped watch — all stay. Some shelves are a sentence only you can read, and that's reason enough.
 fortuneLeast2: A tangle of yarn with no findable end, and your hands itching to cut it. Don't. Some problems don't want solving; they want to be felt.
 facetMostTitle: Honey Hardened Fast
-facetMost: Your room holds a chair, a lamp, a mug. Guests count the objects without meaning to and find the number correct.
+facetMost: One read of the slope is all it takes — the trail forks five unmarked ways, the group dithers in the heat, and you're already walking the one that goes down.
 facetHighTitle: A Bean Glazed Once
-facetHigh: Sleep comes when the body asks — you do not bargain with tiredness, you lie down. Morning finds you ready.
+facetHigh: Forty dishes, three variations each, the waiter still reciting — and you wave the whole list off and order the first thing that sounds good.
 facetMidTitle: Salt Cracks; the Matter Closes
-facetMid: An apology owed gets sent the day it is owed, three sentences, no preamble. The ledger empties weekly.
+facetMid: A board game stalls while everyone argues the rules three ways. You pick the simplest reading aloud and get the dice moving again.
 facetLowTitle: Honey in Long Threads
-facetLow: The message you meant to send in a line becomes four paragraphs; you keep the paragraphs. Context, you call it.
+facetLow: One clean route home would do, but you wind through the old streets instead, doubling back for the long way past everything you wanted to see again.
 facetLeastTitle: Each Grain, a Different Shape
-facetLeast: The chipped mug stays, the foreign coin stays, the broken watch stays — the shelf reads like a sentence only you parse.
+facetLeast: A drawer jams shut on ticket stubs, dried-out pens, and a single odd glove. You ease it back open and keep every last useless scrap of it.
 question: A friend wants to talk through something complicated — a tangled work-and-family-and-money knot, no clean answer. They want to think aloud. You...
 answerMost: stay with them in the knot for as long as they need to untangle it
 answerHigh: ask the questions that let them keep going
@@ -38,11 +43,6 @@ rorschachHigh: one pebble dropped in still water
 rorschachMid: a key on a plain ring
 rorschachLow: a road map folded the wrong way
 rorschachLeast: a tangle of yarn nobody can find the end of
-facetMostTags: [chickpea, mung, black]
-facetHighTags: [chickpea, mung]
-facetMidTags: [chickpea, mung]
-facetLowTags: [adzuki, chickpea]
-facetLeastTags: [adzuki, chickpea, green]
 ---
 
 Crystallised Edamame are the Bean Zodiac's most uncomplicated. The reply is short, the answer is yes or no, and the desk is empty by six. They have noticed that most things people fuss over come down to one decision, and they make it. Friends come to them when the noise has gotten loud and leave with one thing to do next.

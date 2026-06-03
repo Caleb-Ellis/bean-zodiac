@@ -6,6 +6,11 @@ form: smoked
 trait: murky
 dish: Mole negro - Oaxacan black beans simmered in smoked mulato and pasilla chile sauce.
 quote: Still waters run bean.
+creature: catfish
+friendlyBeans: [navy, cannellini]
+antiBeans: [adzuki, green]
+friendlyForm: dried
+antiForm: roasted
 seasonalFortune: A season cured in slow smoke. Chiles soften into something unreadable; the pot keeps its own counsel, and the days take on a flavor no one nearby can quite name.
 fortuneMost: A mole this dark took nine chiles and tells you none of them. You are the same recipe, and the secrecy is the flavor.
 fortuneMost2: They'll read your weather because you were never going to narrate it. Let them.
@@ -18,15 +23,15 @@ fortuneLow2: You'll tell someone more than you meant to, and want to fold the pa
 fortuneLeast: Heat rises in your face before you can hide it. Let it show — the read is honest, and honesty sits well on you.
 fortuneLeast2: The lit window draws more than the shut door ever did. This is the turn to leave a lamp on.
 facetMostTitle: Mole Past the Point of Explanation
-facetMost: You answer the question asked and leave the question behind it sitting in the dark where it lives.
+facetMost: The customs officer wants the purpose of your trip. One true word goes across the counter, and not a syllable behind it.
 facetHighTitle: Char Beneath the Pot
-facetHigh: You keep a room in the house no visitor sees, and tend it on the days you say nothing.
+facetHigh: Someone you've known for years asks what you're afraid of. You hand them a smaller fear and keep the big one folded away.
 facetMidTitle: Pasilla Into Mulato
-facetMid: You quit the job on a Wednesday and tell the people who love you the following month, when the decision is too cold to handle.
+facetMid: There's a moving truck outside and a curious neighbor at the fence — where you're headed is fair to share, but the why stays under your hat.
 facetLowTitle: The Bright Pour
-facetLow: You leave the mail open on the counter and the receipts where they fell.
+facetLow: Halfway through a haircut the stylist asks how things are, and the whole hard month is out of you before you've decided to share it.
 facetLeastTitle: Every Aromatic in Plain Sight
-facetLeast: Your face does the talking before your mouth gets there.
+facetLeast: Two hours into a bus ride beside a stranger, the whole map of you is out on the seat between you — the worries, the plans, the thing you've told no one.
 question: A friend asks how you're really doing and waits for the real answer. You...
 answerMost: say "fine, you?" and mean the door is closed
 answerHigh: offer one small true thing and steer back to them
@@ -38,11 +43,6 @@ rorschachHigh: two crows hunched apart at dusk
 rorschachMid: a walnut split into its two halves
 rorschachLow: two children sharing the same open book
 rorschachLeast: two lit windows facing across a narrow lane
-facetMostTags: [pinto, cannellini, navy]
-facetHighTags: [pinto, cannellini]
-facetMidTags: [pinto, cannellini]
-facetLowTags: [edamame, fava]
-facetLeastTags: [edamame, fava, green]
 ---
 
 Chipotle Black Beans are the Bean Zodiac's most murky — and they prefer it that way. Ask them how the week was and you get "it was a week," delivered with the small smile of someone who's already filed the real answer somewhere you won't find it. The thinking happens off-stage. The decision arrives complete. The friend who learns they've quit the job hears about it three weeks after the resignation.

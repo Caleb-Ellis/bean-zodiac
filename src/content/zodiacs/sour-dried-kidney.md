@@ -6,6 +6,11 @@ form: dried
 trait: fierce
 dish: Rajma - kidney beans with dried Kashmiri chiles and tamarind.
 quote: This isn't even my final bean!
+creature: tiger
+friendlyBeans: [green, fava]
+antiBeans: [butter, cannellini]
+friendlyForm: fried
+antiForm: smoked
 seasonalFortune: A season that dries the pod down to its hardest seed. Tamarind keeps its pucker through the long shelf; the chile holds its sting unsoftened by the year.
 fortuneMost: Kashmiri red, ground fine, served full strength. Anyone who needs it gentler can ask — and you're allowed to say no.
 fortuneMost2: The third time the slight comes round, stop nodding and name it back across the table.
@@ -18,15 +23,15 @@ fortuneLow2: Let the small one go — the unwashed pan, the late return. The kit
 fortuneLeast: What's coming needs both hands free, and this grudge wasn't worth a single fist. Set it down — it costs you the satisfaction, and you walk lighter for it.
 fortuneLeast2: The grudge has dried past use into a stone in your pocket, heavier than the wrong that made it. Forgiving it is no small thing — do it anyway, and feel the weight go.
 facetMostTitle: Kashmiri Red, Ground Fine
-facetMost: You make the thing you make at full strength, undiluted; if someone needs it gentler they can ask, and you will say no.
+facetMost: Plant your feet and demand the real reason — the bouncer just turned your friend away on some flimsy excuse and the rest of the group is ready to shrug and move on.
 facetHighTitle: Tamarind, Eyes Open
-facetHigh: When a friend repeats the slight a third time, you stop nodding and name it back to them, plainly, across the table.
+facetHigh: Palm out, you wait — the vendor short-changed you and waved you off with a smile, betting you'd just let it slide.
 facetMidTitle: The Overnight Soak
-facetMid: The wrong charge on the bill — you call back, you wait on hold, you do not let it pass.
+facetMid: The referee's bad call just cost the kids' team the match, and the other parents are already packing up. You walk over to say it to his face.
 facetLowTitle: Long Simmer, Low Flame
-facetLow: At home you let the small grievances cook themselves down — the unwashed pan, the late return — and find the kitchen lighter for it.
+facetLow: A driver cuts you off and leans on the horn like it was your fault. The fight's right there in your chest, and you ease off and let the road have it.
 facetLeastTitle: Chiles Dulled in the Jar
-facetLeast: You round the corners of every disagreement before it reaches the table; the room thanks you and does not know it.
+facetLeast: The person who wronged you years ago turns up, older and unaware, asking directions. You give them clean and friendly, the old score gone quiet.
 question: A grievance from two years ago resurfaces — the person who wronged you has moved cities and stopped replying. You...
 answerMost: write the letter anyway and post it
 answerHigh: hold the line, you don't owe the forgiveness
@@ -38,11 +43,6 @@ rorschachHigh: a mace head bristling above its shaft
 rorschachMid: a tree crown over a spiky trunk
 rorschachLow: a dandelion clock losing its last seeds
 rorschachLeast: a balloon drifting up off a soft basket
-facetMostTags: [navy, mung, pinto]
-facetHighTags: [navy, mung]
-facetMidTags: [navy, mung]
-facetLowTags: [butter, black]
-facetLeastTags: [butter, edamame, black]
 ---
 
 Dehydrated Kidney Beans are the Bean Zodiac's most fierce. They are the friend who calls the company back on your behalf, who notices the third time a flatmate borrows without asking, who once, in a meeting, said the sentence that ended the bad project before it cost anyone else a year. Loyalty in them is a verb, and the people in their corner know it without having to ask.

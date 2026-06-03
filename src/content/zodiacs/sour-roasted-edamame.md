@@ -6,6 +6,11 @@ form: roasted
 trait: forthright
 dish: Yaki edamame with yuzu kosho - oven-roasted edamame with yuzu pepper paste and flaky salt
 quote: All you need in this life is ignorance and beans, and then success is sure.
+creature: mastiff
+friendlyBeans: [cannellini, chickpea]
+antiBeans: [mung, fava]
+friendlyForm: fried
+antiForm: fermented
 seasonalFortune: The season favors pods that crack on the pan. What was hidden under the shell now salts the air, and rooms around such people learn quickly what they are.
 fortuneMost: This turn the pod cracks on the pan and the air clears for it. The plain sentence dissolves the wrong question before it's even finished forming.
 fortuneMost2: Someone across from you has spent ages rehearsing a polite version of the same thought. When you just say it, the gratitude lands fast and quiet.
@@ -18,15 +23,15 @@ fortuneLow2: Point at it with a question instead of spelling it out. You lose th
 fortuneLeast: A thing left to surface on its own gets met at the finder's own pace — so skip the headline, even though going quiet pinches with the truth right there.
 fortuneLeast2: Finish the work in private and let it sit before you show anyone. Staying salt-held grates on you, and the patience turns out to be its own generosity.
 facetMostTitle: The Pod at the Seam
-facetMost: You say the thing before anyone has set down their drink.
+facetMost: The whole table is circling a problem nobody will name. You crack it open in one plain sentence and let the air clear.
 facetHighTitle: Roast Loud, Salt After
-facetHigh: The message goes out unedited; the tab closes before doubt arrives.
+facetHigh: A taxi driver opens with small talk about the traffic. You skip the weather of it and say the real thing you got in the cab thinking about.
 facetMidTitle: Steam Off the Tray
-facetMid: Debts answered the same week they land.
+facetMid: There's a real answer you owe, and it's been sitting in you. The moment they're across from you, out it goes — no carrying it back out the door.
 facetLowTitle: Shells Keeping Their Seed
-facetLow: The good plates stay in the cupboard, the loud books face-down on the shelf.
+facetLow: You can see exactly where a friend's stuck and the whole way out. You hand them one corner of it and leave the rest of the road for them to find.
 facetLeastTitle: Salt Held Back
-facetLeast: You finish the work in private and show no one for a year.
+facetLeast: The headline is right there, finished, ready to say. You let the thing surface on its own and meet whoever finds it at their own pace.
 question: A friend is talking around a problem they haven't yet seen clearly, and there's a pause. You...
 answerMost: name the problem in one sentence before they take another breath
 answerHigh: say what you think the real issue is and let them push back
@@ -38,11 +43,6 @@ rorschachHigh: a rocket trailing fire beneath a round nose
 rorschachMid: an octopus with legs splayed below its head
 rorschachLow: tree roots wandering off in every direction
 rorschachLeast: a dancer's skirt swirling around hidden legs
-facetMostTags: [kidney, fava, pinto]
-facetHighTags: [kidney, fava]
-facetMidTags: [kidney, fava]
-facetLowTags: [butter, black]
-facetLeastTags: [butter, black, pinto]
 ---
 
 Chimichurri Edamame are the Bean Zodiac's most forthright — the ones who say the thing before the drinks have landed. No throat-clearing, no weather, no fourteen-sentence preamble. The meeting opens and the actual subject is already on the table. People who have spent the morning rehearsing their own polite version of the same thought feel quietly grateful.

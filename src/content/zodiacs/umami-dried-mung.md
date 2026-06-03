@@ -6,6 +6,11 @@ form: dried
 trait: restorative
 dish: Moong dal - dried mung beans slow-simmered with turmeric, ginger, and a tadka of cumin.
 quote: Let food be thy bean and bean be thy medicine.
+creature: crane bird
+friendlyBeans: [cannellini, fava]
+antiBeans: [edamame, green]
+friendlyForm: boiled
+antiForm: fried
 seasonalFortune: A long season for what slow heat unlocks. The household leans toward what has steeped — turmeric in the pot since dawn, ginger gone soft and medicinal by dusk.
 fortuneMost: Ladle the bowl for someone who hasn't eaten well in weeks and stay while they finish. The staying is half the medicine.
 fortuneMost2: The care you ladle out all day is owed back to you. Pour the second cup and, this once, drink it sitting down.
@@ -18,15 +23,15 @@ fortuneLow2: Pass the comfort and don't reach for the cure. Not every ache is yo
 fortuneLeast: A blank, ungiven day is the medicine this time. Skip the long version, the second pot, the extra cup; you needn't fill every hand held out.
 fortuneLeast2: A drained basin can't pour. Leave the old thread unread and the day's no worse for it — tending less is how you keep enough for yourself, uneasy as it sits.
 facetMostTitle: The Overnight Soak
-facetMost: You ladle the bowl for someone who has not eaten well in weeks, and sit with them while they finish.
+facetMost: A stranger's shivering on the platform bench at the end of the line, soaked through. You'd peel off your own coat, sit down beside them, and stay until the cold left their hands.
 facetHighTitle: Ginger Under Low Heat
-facetHigh: The spare blanket is washed, folded, set on the chair before anyone admits they are cold.
+facetHigh: New neighbours, still buried in boxes, haven't asked for a thing. By the time they look up there's a pot of something warm on their step and the kettle already singing through your wall.
 facetMidTitle: Turmeric, Early
-facetMid: You text the friend who went quiet last month; you do not wait for the answer before you go again.
+facetMid: A name surfaces — someone you haven't heard from in an age, who never replied last time. You reach out again anyway, no scorekeeping, before any answer comes.
 facetLowTitle: Cumin in Hot Ghee
-facetLow: A friend cries on your shoulder and you pass them a tissue, not a glass of water; the gesture is enough and you let it be.
+facetLow: A coworker tears up over something small at the next desk. A kind word, a pat on the arm — you offer that and only that, and don't go digging for the bigger wound underneath.
 facetLeastTitle: The Split and Skipped
-facetLeast: The reply is one line, sent now; the unread thread from October stays unread, and the room is no worse for it.
+facetLeast: Three people want things from you and the tank's empty. You answer the one that's quick, leave the rest for later, and run yourself a bath instead of a second errand.
 question: It's Sunday evening. You're tired in a way a hot bath would fix. A friend texts asking if they can come over and talk about a hard week. You...
 answerMost: invite them over and put the kettle on without mentioning the bath
 answerHigh: invite them, and quietly run the bath for after they leave
@@ -38,11 +43,6 @@ rorschachHigh: a thick quilt folded soft on a chair
 rorschachMid: a curled cat asleep on a cushion
 rorschachLow: a sponge wrung out to its last drips
 rorschachLeast: a cracked, drained basin gone bone dry
-facetMostTags: [cannellini, butter, pinto]
-facetHighTags: [cannellini, butter]
-facetMidTags: [cannellini, butter]
-facetLowTags: [fava, edamame]
-facetLeastTags: [fava, edamame, green]
 ---
 
 Aged Mung Beans are the Bean Zodiac's most restorative — the bowl set down in front of a friend who hasn't eaten properly in a fortnight, the clean blanket folded on the chair before anyone has admitted to feeling cold, the second message to the friend who went quiet last month. The care is slow, exact, and has yet to fail.

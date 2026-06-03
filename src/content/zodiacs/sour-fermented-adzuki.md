@@ -6,6 +6,11 @@ form: fermented
 trait: self-aware
 dish: Adzuki and natto rice bowl with ponzu and spring onion.
 quote: Know thyself? If I knew myself, I'd bean away.
+creature: macaque
+friendlyBeans: [pinto, chickpea]
+antiBeans: [navy, edamame]
+friendlyForm: roasted
+antiForm: dried
 seasonalFortune: A season of long ferments and clear ponzu. The pickled adzuki sits in its brine and is not surprised by what the brine has drawn out of it.
 fortuneMost: The first thing you reached for was the honest one. You knew yourself before you talked yourself out of it.
 fortuneMost2: You already know which apology you owe, and exactly why you've stalled on it.
@@ -18,15 +23,15 @@ fortuneLow2: Someone asks how you are; give them the plain truth, un-annotated. 
 fortuneLeast: Some ferments come out best when no one lifts the lid.
 fortuneLeast2: A clear morning, an easy appetite, no inventory of the shape you cut. Your hands will itch to check the day for flaws — leave it whole, just this once it costs you nothing.
 facetMostTitle: Natto's Own Thread
-facetMost: You revise a sentence and recognise, mid-cut, the exact tic you've been editing out of yourself for years.
+facetMost: Mid-laugh at a stranger's joke, you catch the laugh going a half-second too long. You stop it cold and watch yourself do it.
 facetHighTitle: Ponzu, No Apology
-facetHigh: You can name which friend you tire and which one tires you, and you don't pretend the count is even.
+facetHigh: Someone calls you generous and you feel the small itch to correct them, because you know which corner of it was really for show.
 facetMidTitle: Rice to Its Water
-facetMid: You notice when hunger is loneliness wearing a coat, and eat or don't eat accordingly.
+facetMid: Halfway to the fridge, you stop and weigh it — is this hunger, or just somewhere to put the restless evening.
 facetLowTitle: Spring Onion, Scattered
-facetLow: You reread an old message thread and find a version of yourself you'd forgotten making.
+facetLow: A mood arrives off the morning with no cause you can trace, and you let it stay un-named and just walk into the weather.
 facetLeastTitle: The Dark Ferment
-facetLeast: You move through a day on weather and appetite, taking no inventory of the shape you cut.
+facetLeast: A road forks with no signpost and you take the left without once asking yourself why the left.
 question: You're three minutes into a story at dinner when you hear yourself doing the voice — the one you do when you want a table to laugh. You...
 answerMost: stop mid-sentence, name the voice out loud, and finish the story flat
 answerHigh: dial it down by half and let the punchline land smaller
@@ -38,11 +43,6 @@ rorschachHigh: a seated person peering down into their own lap
 rorschachMid: a broad oak with a dense frilled crown
 rorschachLow: a wild-haired dancer thrown back mid-spin
 rorschachLeast: a beetle charging headlong, antennae flung wide
-facetMostTags: [kidney, cannellini, fava]
-facetHighTags: [kidney, cannellini]
-facetMidTags: [kidney, cannellini]
-facetLowTags: [green, fava]
-facetLeastTags: [green, fava, edamame]
 ---
 
 Pickled Adzuki Beans are the Bean Zodiac's most self-aware — they have already had the thought you were about to gently raise with them. Ask one why they ducked the party and you get the real reason on the first try: not "I was tired" but the specific friend, the specific dread, the exact minute the dread started. They watch themselves the way other people watch the weather, and they can tell you, with footnotes, which mood is real and which one is performance left on too long.

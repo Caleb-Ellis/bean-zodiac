@@ -6,6 +6,11 @@ form: fried
 trait: focused
 dish: Stir-fried black beans with oyster sauce, ginger, and scallion.
 quote: The bean's rays do not burn until brought to a focus.
+creature: osprey
+friendlyBeans: [fava, edamame]
+antiBeans: [pinto, mung]
+friendlyForm: fermented
+antiForm: roasted
 seasonalFortune: A narrowed flame keeps a tight room; the season favors those who let the wok's edge go dark while the center holds bright.
 fortuneMost: One bean held over the flame until it catches, the whole kitchen gone dark around it. What you make in that narrow light, people look at twice.
 fortuneMost2: A door shut, a phone face-down, one thing finished clean before the next is allowed to exist. The week bends toward whoever can do that.
@@ -18,15 +23,15 @@ fortuneLow2: Half-open everywhere only looks like progress. Pick the one that ma
 fortuneLeast: A week spent gathering everything and settling on nothing leaves the real thing untouched. Pick a spot and stay, even if staying feels like losing the others.
 fortuneLeast2: The name you keep mislaying outweighs the dozen errands you're chasing instead. Choose just one — hard as that is.
 facetMostTitle: Ginger in the Oil
-facetMost: Phone face-down, door shut, one thing finished before another is allowed to begin.
+facetMost: Lost in the puzzle on your lap, you don't hear the kettle scream itself empty in the next room.
 facetHighTitle: The Sauce at Half
-facetHigh: Conversations blur around the table you are reading at; the dinner ends and you cannot recall who else was there.
+facetHigh: A repair takes longer than the afternoon promised. You stay bent over it, meals skipped, until the last piece seats.
 facetMidTitle: Scallion Waiting Its Turn
-facetMid: You finish the chapter in front of you before the next book is allowed off the shelf, most days.
+facetMid: Two errands could be folded into one trip, but you'd rather close out the first cleanly and double back for the second.
 facetLowTitle: Beans and the Missing Ginger
-facetLow: Six books open across the floor, three notebooks beside the couch, and the dinner plan rewrites itself between rooms.
+facetLow: The trail forks and both paths look good; you'd sooner wander a little than commit and miss the other.
 facetLeastTitle: The Wok in Every Direction
-facetLeast: You move between friends, errands, half-read books, gathering everything, settling on nothing, and call it a good week.
+facetLeast: A tab for every idea you've had this hour, none of them finished — and the sprawl feels more like aliveness than waste.
 question: Three group chats are pinging, the laundry timer just went, and you're mid-sentence in an email that actually matters. You...
 answerMost: silence everything and finish the sentence
 answerHigh: mute the chats, leave the laundry, return to the email
@@ -38,11 +43,6 @@ rorschachHigh: a hawk's wings drawn tight before the strike
 rorschachMid: a craggy ridgeline against an open sky
 rorschachLow: a pelt left to soak, edges fraying loose
 rorschachLeast: an ink stain creeping outward in every direction
-facetMostTags: [kidney, navy, cannellini]
-facetHighTags: [kidney, navy]
-facetMidTags: [kidney, navy]
-facetLowTags: [pinto, chickpea]
-facetLeastTags: [pinto, chickpea, green]
 ---
 
 Tempura Black Beans are the Bean Zodiac's most focused — door shut, phone face-down, one thing at a time finished cleanly before the next is acknowledged to exist. The work that comes out of these hours is the kind other people quietly look at twice; nothing is half-attended, nothing is half-meant.

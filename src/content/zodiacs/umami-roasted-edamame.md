@@ -6,6 +6,11 @@ form: roasted
 trait: attentive
 dish: Roasted edamame with nori salt, sesame, and yuzu zest.
 quote: To pay bean attention, this is our endless and proper work.
+creature: meerkat
+friendlyBeans: [pinto, adzuki]
+antiBeans: [mung, cannellini]
+friendlyForm: fermented
+antiForm: smoked
 seasonalFortune: "A season that hums beneath the husk. Heat works slowly into the pod; nothing finished announces itself, and the small green kernel keeps its own counsel under the salt."
 fortuneMost: Go over it once more before you call it done. The detail that makes it arrives on the pass everyone else skips, and it's yours to catch.
 fortuneMost2: The word doing all the work, the thing moved an inch out on a shelf — you see them. Good luck is gathering around that noticing; follow where it points.
@@ -18,15 +23,15 @@ fortuneLow2: Not every flicker earns the full beam. Let some go unread; the cost
 fortuneLeast: Three things want all of you at once, and split three ways each gets a thinner version. Pick one to be wholly present for. The others go untended; that's the trade.
 fortuneLeast2: Give the slow ones their beat, even when the waiting frays you. Cut a slow thinker short and they finish it later, alone — and you feel that draught even unseen.
 facetMostTitle: Yuzu, One Drop
-facetMost: You return to a sentence for the fourth morning running, and only now does the wording arrive.
+facetMost: Everyone else has wandered off from the tide pool. You're still crouched over it, watching one small thing shift under the surface that nobody else stayed for.
 facetHighTitle: Sesame in the Seam
-facetHigh: Nothing in your rooms is left where it fell; you notice the cup moved an inch.
+facetHigh: A half-beat late and a shade too bright — your friend's laugh, in a room full of people who heard nothing wrong with it. The off-note lodges, and you'll find them later to ask.
 facetMidTitle: Pods, One by One
-facetMid: When a friend talks, you wait through the pause they almost filled, and hear what came after.
+facetMid: A child is trying to explain a dream and keeps losing the thread. Wait out the long stumbling pauses, or gently help them land it so the table can move on?
 facetLowTitle: Nori Salt, Wide Board
-facetLow: Notifications pile up unread; you trust the important thing will find you twice.
+facetLow: Somewhere in the walls, a faint scratching, late at night. Let it go — if it matters it'll make itself known again — and go back to sleep.
 facetLeastTitle: Pan Pulled Early
-facetLeast: You leave a thing the moment it stops moving, and the next thing is already calling.
+facetLeast: A museum hall opens onto forty rooms and you've got an hour. You sweep through the lot at a stroll, skim everything, and stop in front of nothing for long.
 question: A friend pauses mid-sentence, the kind of pause that could be the end or the middle. You...
 answerMost: wait through it without moving
 answerHigh: hold the silence and watch their face
@@ -38,11 +43,6 @@ rorschachHigh: a hen brooding low and close over the nest
 rorschachMid: a raincloud with the first drops falling straight down
 rorschachLow: a thinning cloud scattering its rain everywhere at once
 rorschachLeast: a fog breaking up and drifting off in every direction
-facetMostTags: [chickpea, mung, black]
-facetHighTags: [chickpea, mung]
-facetMidTags: [chickpea, mung]
-facetLowTags: [adzuki, chickpea]
-facetLeastTags: [adzuki, chickpea, green]
 ---
 
 Rendered Edamame are the Bean Zodiac's most attentive — when they're with you, the rest of the room goes quiet. They notice the cup that's been moved an inch on the desk, the pause a friend almost filled but didn't, the word in the sentence that's doing all the work. People leave a conversation with one of them feeling heard in a way they can't quite explain afterwards.

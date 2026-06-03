@@ -6,6 +6,11 @@ form: fermented
 trait: philosophical
 dish: Hatcho miso shiru - adzuki simmered in two-year aged hatcho miso with silken tofu.
 quote: I think, therefore I am a bean.
+creature: great grey owl
+friendlyBeans: [pinto, chickpea]
+antiBeans: [black, navy]
+friendlyForm: roasted
+antiForm: dried
 seasonalFortune: Crocks sit in the dark and the paste turns slowly inward. The season favours what has been thinking a long time — broth gathering weight in the pot, depth accumulating below the lid.
 fortuneMost: A question you set down two years ago comes back thickened, dark, and ready.
 fortuneMost2: You won't hand over an answer until it has gathered weight in the dark. The depth is the whole point of you.
@@ -18,15 +23,15 @@ fortuneLow2: Sit with a question without solving it, and notice how little the s
 fortuneLeast: Luck moves to the body this turn — sleep when tired, walk when restless, trust the foot over the footnote even when it feels reckless.
 fortuneLeast2: Answer plainly, off the top, the moment you're asked. The first reading is allowed to be the last — it'll itch, and it'll still be right.
 facetMostTitle: The Two-Year Jar
-facetMost: You let a question steep that long before you'll trust an answer to it.
+facetMost: A stranger on a long train asks what you believe about luck. You take the whole tunnel to answer, and the answer is still forming when you give it.
 facetHighTitle: The Yielding Tofu
-facetHigh: In a roomful of opinions yours arrives last, after everyone has spoken, and only if pressed.
+facetHigh: Before you'll say which of two job offers to take, you want to have lived in both of them awhile in your head.
 facetMidTitle: Steam at the Window
-facetMid: You notice small reversals — a sentence ending differently than it began — and carry them for days.
+facetMid: Walking past a half-demolished house, you slow to wonder who lived there and why they left. The question stays with you down the street.
 facetLowTitle: Broth Upfront
-facetLow: You finish the book, return it to the shelf, and decline to be drawn on what it was about; the reading was the conversation.
+facetLow: Asked what a film meant, you give your first impression and leave it there, no second draft of the thought.
 facetLeastTitle: The Eaten Bowl
-facetLeast: Tired, you sleep; restless, you walk; no instinct waits on a second opinion.
+facetLeast: A fork in the trail, no signpost, the light going. You pick the left path on a hunch and walk.
 question: A book club meets tonight to discuss the novel you finished a month ago. The chapter that mattered to you, the others barely mention. You...
 answerMost: stay with your reading; say nothing; the chapter is yours
 answerHigh: name the chapter and one line about it, then let the room move on
@@ -38,11 +43,6 @@ rorschachHigh: a bowed head above a heavy stone bowl
 rorschachMid: a cauliflower set on top of a jar
 rorschachLow: a wrestler crouched low over braced legs
 rorschachLeast: a beetle scrambling up off its scattered legs
-facetMostTags: [butter, mung, black]
-facetHighTags: [butter, mung]
-facetMidTags: [butter, mung]
-facetLowTags: [fava, edamame]
-facetLeastTags: [fava, edamame, green]
 ---
 
 Miso Adzuki Beans are the Bean Zodiac's most philosophical — they've thought everything through, and by the time the thought is shareable the moment that asked for it has gone home. Ask one at dinner what they make of the news and you get a long pause, then "I'm not sure yet"; the actual answer arrives in a message at midnight three weeks later, beautifully phrased, addressed to a conversation nobody else remembers being part of.

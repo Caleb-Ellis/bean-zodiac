@@ -6,6 +6,11 @@ form: smoked
 trait: hermetic
 dish: Smoked cannellini with bitter fennel, sealed.
 quote: I want to bean alone.
+creature: snail
+friendlyBeans: [edamame, black]
+antiBeans: [adzuki, pinto]
+friendlyForm: dried
+antiForm: roasted
 seasonalFortune: A season cured behind glass. The smoke pools where the fennel was laid down, and the household measures its hours by what stays sealed rather than what arrives.
 fortuneMost: The quiet you sealed up years ago is about to pay you back. The life you cured behind glass runs sweet and exactly to plan — let the world knock, you owe it nothing.
 fortuneMost2: A household with precisely the people you meant in it, humming beautifully shut. Good fortune comes to the keeper of the seal.
@@ -18,15 +23,15 @@ fortuneLow2: A friend across from you is working up to a sentence, and you'll wa
 fortuneLeast: The one exception is reaching for you again. Answer before you check who it is — a sealed jar keeps out the very thing it never knew it missed.
 fortuneLeast2: You tell a stranger on the road where you're from, and walk on oddly lighter. Not everything you keep has to be cured behind glass.
 facetMostTitle: One Lid, One Herb
-facetMost: You walk the long way home through the cemetery rather than past the café where a half-friend might wave you in.
+facetMost: A group photo is forming and someone tugs your sleeve toward the middle. You slip to the far end where the crop will likely lose you.
 facetHighTitle: Smoke With Nowhere to Go
-facetHigh: Your apartment door stays shut on Saturdays; the buzzer is a suggestion, not a summons.
+facetHigh: A shared cabin, one spare bunk, a week of other people's mornings. You book the room across the lake instead and let them have the easy half of the deal.
 facetMidTitle: Fennel in the Sealed Jar
-facetMid: You leave parties before the second hour; whoever wanted the late confession from you finds someone else to give it to.
+facetMid: A new hire asks to shadow you for the day, eager and underfoot. You hand them the one task that lets you both work in separate quiet.
 facetLowTitle: The Seal Lifted Early
-facetLow: You leave the bedroom door open while you sleep, trusting the rest of the flat to drift in.
+facetLow: Movers are hauling boxes next door and the family is clearly stranded. You carry over the good toolbox and stay for the awkward middle of it.
 facetLeastTitle: The Unlidded Sill Jar
-facetLeast: You tell a stranger on the bus where you were born and feel lighter for the next stop.
+facetLeast: Caught in a doorway out of the rain beside someone equally caught, you start the conversation rather than wait it out, and follow it wherever it goes.
 question: The buzzer goes at eight on a Saturday night and you weren't expecting anyone. You...
 answerMost: do not move; whoever it is can write
 answerHigh: glance at the camera, recognise no one, and let it ring out
@@ -38,11 +43,6 @@ rorschachHigh: a figure drawn into a heavy hooded cloak
 rorschachMid: a cottage loaf, two rounds stacked
 rorschachLow: a child reaching up to be lifted
 rorschachLeast: a dancer thrown open mid-lift overhead
-facetMostTags: [butter, mung, black]
-facetHighTags: [butter, mung]
-facetMidTags: [butter, mung]
-facetLowTags: [fava, edamame]
-facetLeastTags: [fava, edamame, green]
 ---
 
 Charcoal Cannellini Beans are the Bean Zodiac's most hermetic. The buzzer is a suggestion. The unread thread sits for three days not from malice but because the door, once shut for the evening, is genuinely shut. They have built a life with exactly the number of people in it they meant to have, and it runs beautifully, quietly, on schedule.

@@ -6,6 +6,11 @@ form: dried
 trait: wry
 dish: Balila - chickpeas with dried black lime and olive oil.
 quote: History doesn't repeat itself, but it does bean.
+creature: western jackdaw
+friendlyBeans: [green, black]
+antiBeans: [adzuki, mung]
+friendlyForm: smoked
+antiForm: roasted
 seasonalFortune: Black lime keeps its tartness past every season; the years pucker the skin and sharpen what's left inside.
 fortuneMost: Say the joke that's too true. Half the room won't laugh — and that half was never your audience.
 fortuneMost2: The dry line lives in the one detail nobody else would have thought to name. Build it there.
@@ -18,15 +23,15 @@ fortuneLow2: Say the plain thing and mean it straight through, no twist on top. 
 fortuneLeast: A heartfelt, unironic moment is coming and it's worth being swept into. Let the speech move you, clap when it ends, mean it — even as the watcher in you flinches.
 fortuneLeast2: Write the apology the way it first occurred to you, before the cleverer version arrives to defend you. The unguarded one costs more and lands deeper — that's the trade.
 facetMostTitle: The Pinch of Dried Lime
-facetMost: You build the joke around the one ingredient no one else would have named.
+facetMost: The line that nails it is already forming — a pigeon has just landed square on the hat of the man delivering the most solemn speech of the evening.
 facetHighTitle: Oil at the Rim
-facetHigh: You let the silence drag a beat too long, then offer the smaller, drier version.
+facetHigh: A salesman on the doorstep launches into the big pitch. You wait until he's fully done, then say the one quiet thing that deflates it.
 facetMidTitle: The Lime in Its Jar
-facetMid: You draft the reply, reread it, and send the version with half the words gone.
+facetMid: A toast is expected of you at the table. You'd rather cut it to one short, dry sentence than let it run sentimental.
 facetLowTitle: Chickpeas, Oil on Top
-facetLow: You set the table plainly; whatever you say over it, you mean straight through.
+facetLow: A friend finally tells you the thing they've been scared to say. The dry deflection is right there and you swallow it, just listening.
 facetLeastTitle: Salt, Bottle Poured Straight
-facetLeast: You write the apology the way it first occurred to you and send it before a cleverer version arrives.
+facetLeast: Last note of the busker's song, the crowd holds its breath, then roars — and there you are, throat tight, on your feet with everyone else.
 question: At a wedding the speeches are running long and the groom's brother has just used the word "journey" for the third time. You...
 answerMost: catch a friend's eye and raise one eyebrow, exactly one millimetre
 answerHigh: murmur the perfect dry line to the person beside you
@@ -38,11 +43,6 @@ rorschachHigh: a rock beside a burst of spray
 rorschachMid: two islands split by a channel
 rorschachLow: two friends leaning in to whisper
 rorschachLeast: two children mid-tumble, limbs flung out
-facetMostTags: [cannellini, edamame, black]
-facetHighTags: [cannellini, edamame]
-facetMidTags: [cannellini, edamame]
-facetLowTags: [fava, green]
-facetLeastTags: [fava, green, edamame]
 ---
 
 Dehydrated Chickpeas are the Bean Zodiac's most wry. They have a way of letting two seconds pass before they answer, and by the time the answer arrives the room has already begun to laugh — quietly, the kind of laugh you cover with your hand. At parties they are leaned toward; at meetings they are the one whose quiet sentence makes the loud one collapse. Years of watching have made them lethally precise about what is and isn't actually happening.

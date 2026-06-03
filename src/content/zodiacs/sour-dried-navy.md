@@ -6,6 +6,11 @@ form: dried
 trait: uncompromising
 dish: Navy bean and dried tomato stew with red wine vinegar and rosemary.
 quote: Give me liberty, or give me bean!
+creature: golden eagle
+friendlyBeans: [butter, black]
+antiBeans: [green, chickpea]
+friendlyForm: boiled
+antiForm: fermented
 seasonalFortune: A season for vinegar and long simmer. Rosemary darkens the pot; the dried tomato gives up nothing it has not been asked for, and neither does the cook.
 fortuneMost: Vinegar without apology. Wait, hand on the receipt, until the promise made to you is honoured to the letter — the workaround was never the thing you were owed.
 fortuneMost2: Wrong change handed back at the till. The line sits where it sits, and the small honesty costs you nothing you wanted to keep.
@@ -18,15 +23,15 @@ fortuneLow2: Let the argument sit overnight, the way the pot softens on a long s
 fortuneLeast: The line you'd hold here is one you never actually drew. Sign it — bending where there was no real principle is harder for you than holding firm, and this once it's the right bend.
 fortuneLeast2: Split the bill generously, lend the thing with no date set, and forget you ever had the rule. The looseness will chafe; let the warmth outweigh it.
 facetMostTitle: Vinegar Without Apology
-facetMost: The clerk offers a workaround; you wait, hand on the receipt, until the original promise is honoured to the letter.
+facetMost: Stay at the desk until they honour exactly what was promised — the hotel gave your booked room away and is shrugging a worse one at you.
 facetHighTitle: Rosemary From the Stem
-facetHigh: A friend asks you to walk a position back over dinner. You hold the line, kindly, and order another glass.
+facetHigh: Everyone's already wading across to skip the long way round, calling for you to just come on. You'd take the bridge as planned, no hurry, no fold.
 facetMidTitle: The Tomato That Keeps Its Shape
-facetMid: The draft is close, almost releasable; you pull it back for the rosemary it still owes.
+facetMid: One joint on the finished chair sits a hair loose. Nobody would ever feel it, so you unclamp the whole thing and set it true.
 facetLowTitle: The Long Overnight Soak
-facetLow: You let the argument sit overnight; by morning it has loosened, and you meet the day half a step softer.
+facetLow: The board game has a house rule you've defended for years, and the new player keeps breaking it. You wave it off and play their looser way.
 facetLeastTitle: Vinegar Cut With Rosemary
-facetLeast: You split the bill generously, round the favour up, and lend the thing without setting a date for its return.
+facetLeast: Downpour at the bus stop, someone soaked beside you eyeing your spare umbrella — no chance of ever getting it back. Hand it over without a second thought.
 question: A long-trusted friend breaks a small rule of yours — nothing dramatic, but one of the ones you don't bend on. You...
 answerMost: name it, the next time you see them, calmly
 answerHigh: hold the line in private, treat them a fraction cooler
@@ -38,11 +43,6 @@ rorschachHigh: a flint knapped to a hard edge
 rorschachMid: a shield hung flat on a wall
 rorschachLow: a sandbag sagging under its own weight
 rorschachLeast: a beanbag slumped into the floor
-facetMostTags: [cannellini, black, pinto]
-facetHighTags: [cannellini, black]
-facetMidTags: [cannellini, black]
-facetLowTags: [green, fava]
-facetLeastTags: [green, fava, edamame]
 ---
 
 Dehydrated Navy Beans are the Bean Zodiac's most uncompromising. They are the friend who returns the wrong change at the till, who will not bring the work laptop on holiday and will not pretend the reason is anything other than the reason, who answers "no" to the small favour and does not perform regret about it. The line is where it is, and the people who know them well find this, eventually, restful — you always know where you stand.

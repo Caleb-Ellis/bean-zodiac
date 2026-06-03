@@ -6,6 +6,11 @@ form: roasted
 trait: lighthearted
 dish: Butter beans roasted with vanilla sugar and lemon zest — caramelised at the edges, softly golden throughout.
 quote: A day without beans is like a day without sunshine, so bring extra beans.
+creature: finch
+friendlyBeans: [adzuki, mung]
+antiBeans: [fava, green]
+friendlyForm: boiled
+antiForm: fried
 seasonalFortune: A house where the sugar pan is never quite empty; lemons go soft on the sill before anyone minds, and the oven runs warm into the evening for no particular reason.
 fortuneMost: You walk in tight-shouldered and a minute later an arm has uncrossed and the story's gotten better. That's just what you do to a place.
 fortuneMost2: Show up to the dreaded thing in something a little silly. The silliness does the heavy lifting; it always has.
@@ -18,15 +23,15 @@ fortuneLow2: A friend wants the weather bad alongside them. Hold still while the
 fortuneLeast: Cancel the bright thing and lie on the floor. The floor's been asking; you owe nobody your sunshine, though going dim will feel like letting them down.
 fortuneLeast2: A flat, golden, evenly-baked stretch with no laughter spent on the process. Let the gravity be yours too — it sits oddly, but it's honest.
 facetMostTitle: Sugar at the Edges First
-facetMost: You step into a tight-shouldered room and within a minute someone has uncrossed their arms, leaned in, started telling the better version of the story.
+facetMost: The lift jolts to a stop between floors and the four strangers go stiff with it. You're already making the kind of crack that gets the first nervous laugh.
 facetHighTitle: The Oven Runs Long
-facetHigh: You are late again, cheerfully, with zest still under one fingernail.
+facetHigh: A solemn ceremony, everyone in their good clothes and not a word out of place — and the urge rises in you to whisper something that'll make the row beside you shake.
 facetMidTitle: The Pan Tipped Sideways
-facetMid: The easy half glazed and golden, the scorched corners left for someone steadier. You start again next week, just as gladly.
+facetMid: A wobble in the plan that could go either way. You shrug, call it an adventure, and head out anyway.
 facetLowTitle: The Cheaper Extract
-facetLow: You put it back, choose the cheaper extract, walk out without a second thought; the small treat was never the point.
+facetLow: The toast lands flat and the table goes quiet. You let it stay quiet instead of reaching for the save.
 facetLeastTitle: Sugar Measured Level
-facetLeast: The zest is grated dry, the oven preheated on the dot, the counters wiped before the timer rings. A house run like a recipe, and no laughter wasted on the process.
+facetLeast: A child at the funeral keeps tugging your sleeve for a game. You crouch to their level and tell them, gently and straight, that this is a day for being quiet.
 question: A close friend tells you something genuinely heavy over coffee — a diagnosis, a breakup, the kind of news that flattens a Tuesday. You...
 answerMost: crack a small, gentle joke and watch their shoulders drop two inches
 answerHigh: tell them about the time something almost as bad happened to you, and how it eventually got funny
@@ -38,11 +43,6 @@ rorschachHigh: a kite climbing over a tangle of string
 rorschachMid: a cloud drifting above a low thornbush
 rorschachLow: a heavy lid settling onto a nest of roots
 rorschachLeast: a millstone hung above a snarl of weeds
-facetMostTags: [adzuki, chickpea, green]
-facetHighTags: [adzuki, chickpea]
-facetMidTags: [adzuki, chickpea]
-facetLowTags: [mung, black]
-facetLeastTags: [mung, black, kidney]
 ---
 
 Glazed Butter Beans are the Bean Zodiac's most lighthearted — the ones who walk into a tight-shouldered room and somehow, a minute later, an arm has uncrossed and a story has improved. They arrive late with pastries and the lateness becomes the gift. They turn up to the dreaded thing in a stupid hat and the hat does the heavy lifting.

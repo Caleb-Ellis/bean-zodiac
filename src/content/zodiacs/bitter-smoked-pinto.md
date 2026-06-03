@@ -6,6 +6,11 @@ form: smoked
 trait: intricate
 dish: Smoked pinto with bitter cacao, finely layered.
 quote: The bean is in the details.
+creature: nautilus
+friendlyBeans: [chickpea, green]
+antiBeans: [mung, kidney]
+friendlyForm: roasted
+antiForm: dried
 seasonalFortune: Smoke moves through pinto in stages, each marbled vein taking the cacao at its own rate. A season for the long study, where surface flavour gives way to undercurrent.
 fortuneMost: Keep going past the clever version to the layer underneath it. The marbling rewards whoever stays for it, and you're the one who reads it vein by vein.
 fortuneMost2: Go back to the thing you've already reworked twice — the bitterness underneath hasn't surfaced yet. The long study is yours, and it earns the extra pass.
@@ -18,15 +23,15 @@ fortuneLow2: You'll want to redraw the whole route rather than let someone walk 
 fortuneLeast: Tell it the way you'd tell a child. Whatever they repeat back is the part worth keeping; the rest was scaffolding only you could ever see.
 fortuneLeast2: The same settled telling each time, kept simple, and the listener leans in anyway. Not everything needs its full architecture — strange, how little it misses the layers.
 facetMostTitle: Smoke Read Vein by Vein
-facetMost: You return to a sentence in your own work for the fourth time this week, certain the bitterness underneath has not yet surfaced.
+facetMost: A kid at the next table asks why the sky is blue. Three sentences in you're charting light scattering through the whole atmosphere, building it vein by vein, in no rush to land the simple version.
 facetHighTitle: Cacao in Fine Strata
-facetHigh: Your desk holds seven open tabs in a deliberate order, and you can name the through-line connecting any two of them.
+facetHigh: Planning a weekend trip, you map the side routes, the fallback routes, and the order that threads them all together — every fork accounted for before you've packed a bag.
 facetMidTitle: Smoke Settling Into Grain
-facetMid: You answer a message in three drafts, each catching a meaning the last one missed, and send the third without apology.
+facetMid: A recipe says season to taste. You build it in layers — a bitterness here to answer a sweetness there — until every element is talking to the others.
 facetLowTitle: Char on Top, Not Through
-facetLow: You buy the first lamp that fits the corner; the room reads finished by evening and you stop thinking about it.
+facetLow: A blank wall wants something on it. You hang the first print that fits, step back, call it done, and never circle back to second-guess the choice.
 facetLeastTitle: The Marbling, Untouched
-facetLeast: You tell the story the same way each time, the shape settled long ago, and the listener leans in anyway.
+facetLeast: Asked what a film was about, you could unspool every theme in it. You say it was about a guy and his dog, leave it there, and let that be plenty.
 question: A colleague asks for a quick summary of the project before their five o'clock. You...
 answerMost: open a doc and start the proper write-up; quick won't do it justice
 answerHigh: send four paragraphs with the caveats nested in the right places
@@ -38,11 +43,6 @@ rorschachHigh: an old oak crowded with a thousand leaves
 rorschachMid: a head of cauliflower cut from the stalk
 rorschachLow: a plain round bush trimmed to a ball
 rorschachLeast: a plain felt cushion
-facetMostTags: [navy, butter, black]
-facetHighTags: [navy, butter]
-facetMidTags: [navy, butter]
-facetLowTags: [fava, green]
-facetLeastTags: [edamame, fava, green]
 ---
 
 Charcoal Pinto Beans are the Bean Zodiac's most intricate. They answer a text in three drafts, each catching a meaning the last one missed; they keep seven tabs open in a deliberate order and can name the through-line between any two. The inner landscape is genuinely elaborate, layered the way smoke works into the grain, and rewarding to anyone who stays long enough to follow it.

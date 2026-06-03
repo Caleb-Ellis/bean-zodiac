@@ -6,6 +6,11 @@ form: boiled
 trait: worrisome
 dish: Nokdu juk - Korean mung bean porridge with gochugaru and sesame.
 quote: I have known a great many troubles, but most of them never bean.
+creature: brooding hen
+friendlyBeans: [fava, butter]
+antiBeans: [edamame, pinto]
+friendlyForm: roasted
+antiForm: fried
 seasonalFortune: A pot held just below the boil. The household of this bean keeps its days at low simmer, every burner watched, the gochugaru tasted twice before it goes in.
 fortuneMost: Say the three worst-cases out loud. Two shrink in daylight; the third is the one your watching was actually for.
 fortuneMost2: The noticing that won't switch off is why nothing important ever runs out around you. It's a gift — it only asks to sleep at night.
@@ -18,15 +23,15 @@ fortuneLow2: Coats land where they land and the house survives your not minding.
 fortuneLeast: Take one thing off the list and decide never to think of it again. The whole count lightens when a single grain leaves it — reckless as that feels.
 fortuneLeast2: A small thing surfaces late, already handled, having cost you nothing. Not everything needed your watch — and learning that stings a little, doesn't it.
 facetMostTitle: Three in the Morning
-facetMost: You lie awake counting unstirred pots, salting them by lamplight; sleep arrives only after every grain is accounted for.
+facetMost: A kid's an hour late home from a hike and the phone's silent. You've already mapped the trail, the hospitals, and which neighbor has a truck.
 facetHighTitle: Forty-One Open Spoons
-facetHigh: You check the lock on the door, then the back door, then the lock on the door again; nothing has moved, which is the point.
+facetHigh: A weekend away, and the question of whether the stove's off won't let go. You turn the car around at the on-ramp to go back and look.
 facetMidTitle: The Chili, Steeped Early
-facetMid: You draft the difficult message a week early, set it aside, return to thin it, return to thicken it, send nothing yet.
+facetMid: The picnic's a week off and the forecast keeps wobbling. Pack the rain gear, the spare layers, the umbrella, just in case the sky turns.
 facetLowTitle: The Open Doorway
-facetLow: Coats land where they land; mail accumulates on the table; you walk past the small disorder without seasoning it.
+facetLow: So a houseplant's drooping and you don't know why — it'll likely sort itself out. Not worth a second thought, surely.
 facetLeastTitle: The Bill Under the Cookbook
-facetLeast: It surfaces months later, already paid by someone. The late fee, if there is one, salts nothing you taste.
+facetLeast: A storm warning scrolls across the screen for your whole region. You glance at it, shrug, and head out the door as planned.
 question: It's 11:47pm. A package you ordered is "out for delivery" but hasn't arrived. You...
 answerMost: refresh the tracking page, write down the last scan time, plan tomorrow's call to the carrier
 answerHigh: check the tracking once more, then leave it open in a tab
@@ -38,11 +43,6 @@ rorschachHigh: an owl drawn in tight on a branch
 rorschachMid: a bushy tree narrowing to a slim trunk
 rorschachLow: a cat loafed easy over its folded paws
 rorschachLeast: two soft clouds drifting apart at the waist
-facetMostTags: [pinto, black, adzuki]
-facetHighTags: [pinto, black]
-facetMidTags: [pinto, black]
-facetLowTags: [navy, butter]
-facetLeastTags: [navy, butter, edamame]
 ---
 
 Braised Mung Beans are the Bean Zodiac's most worrisome — the ones who refresh the forecast at midnight, draft the difficult message a week before they'll send it, and lie in the dark mentally salting tomorrow's pots. The care is real; the people around them benefit from the noticing they cannot turn off, and a household with one in it rarely runs out of anything important.

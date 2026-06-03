@@ -6,14 +6,14 @@ delivered to a user based on how they answered a daily prompt.
 ## What you're actually writing
 
 A fortune is one line of a **zodiac** — augury first, advice second. The reader
-draws one a day for months, so the corpus is read *serially*. The whole craft is
+draws one a day for months, so the corpus is read _serially_. The whole craft is
 making consecutive draws feel like different weather, not one fortune rephrased.
 Judge each line two ways at once: on its own, does it land? And against its
 neighbours, does it bring a genuinely different shape, register, and rhythm?
 
 If you only remember one thing: **vary the shape, not just the words.** A pass
 that swaps images while keeping the cadence changes nothing — the daily reader
-feels the *rhythm* repeat, not the nouns.
+feels the _rhythm_ repeat, not the nouns.
 
 ## The axis
 
@@ -38,7 +38,7 @@ neighbouring virtue — and adjacent slots (Low vs. Least) must not collapse int
 the same note.
 
 `fortuneLow` and `fortuneLeast` push the reader _toward the opposite_ of their
-trait. Give that opposite-trait move a **faint wary edge** — a small caveat, an
+trait. Give that opposite-trait move a **wary edge** — a small caveat, an
 acknowledged cost — rather than pure sunny cheer, which reads off-voice over a
 run of draws. Not scolding; the warmth stays. You're trading some sunniness for
 an honest "this costs you something, do it anyway."
@@ -58,7 +58,7 @@ outfits.
 
 Treat these as **hard targets, not suggestions:**
 
-1. **Break the two-sentence mold.** No more than ~half of a bean's fortunes
+1. **Prioritise single sentence fortunes.** Break the two-sentence mold - brevity is the soul of wit. No more than ~half of a bean's fortunes
    should be the two-beat "move + gloss." Deliberately write some as a single
    line with no footnote; a bare image with **no instruction at all**; a
    fragment; three short beats; a direct address. "Sentence, em-dash, reframe"
@@ -69,20 +69,20 @@ Treat these as **hard targets, not suggestions:**
 3. **Foretell more than you advise.** This is a zodiac. An omen, luck turning,
    fortune arriving, a sign worth heeding — this register is the most on-brand
    and the most neglected; it should be common, not rare. Not every fortune
-   carries a corrective move. Some just *speak the day.*
+   carries a corrective move. Some just _speak the day._
 4. **Don't let the fixes calcify.** Escape hatches from prior passes ("comes to
    the one who…", "good fortune favours…", "once" as a resolution beat) have
-   themselves become tics. If a phrase shows up to *avoid* sameness, vary it too.
+   themselves become tics. If a phrase shows up to _avoid_ sameness, vary it too.
 
 A self-test before saving: **could this line be the second sentence of the
 fortune above it?** If the cadence is interchangeable, that interchangeability
-*is* the sameness — rewrite the shape.
+_is_ the sameness — rewrite the shape.
 
 ## Widen the world
 
 The corpus leans hard on one register: a quiet indoor coach nudging _speak or
 stay quiet, move or hold, leave or stay,_ among people the reader already knows.
-That note is mastered. The job is to widen *around* it. Reach deliberately —
+That note is mastered. The job is to widen _around_ it. Reach deliberately —
 often enough that the daily draw surprises — for what's underused:
 
 - **Augury over advice** (see above — the single biggest lever).
@@ -97,6 +97,17 @@ often enough that the daily draw surprises — for what's underused:
 - **Open differently.** A quarter start on a bare command verb (Say / Stop /
   Leave / Take / Hold) and a third open on "A…" or "The…". Vary the entry — an
   image, a condition, an observation — so the grammar isn't shared.
+
+## The mythic register
+
+This is a _zodiac_ — the augury lever (§"Foretell more than you advise") opens a
+door the mundane palette can't: **omens, portents, fate and luck as forces with
+their own will, the bean as a totemic creature.** It's the most on-brand register
+and the most neglected, and a cosmic line can't be mistaken for the indoor-coach
+default — so variety is cheapest here. Keep the existing rules: still one read
+(mythic, not cryptic), still a "that's me," still no time anchors ("the year" as
+a mythic span is fine), still built from _this_ bean's dish or creature. Keep it
+rare — an omen that lands every draw stops being an omen.
 
 ## What makes any single line good
 
@@ -138,7 +149,7 @@ there to sound cozy.
 - **"for once," "the whole [thing]," "the real [thing]," "the gift you give,"
   "comes to the one who…"** — stock softeners and reassurance tails. Show the
   warmth; don't append it.
-- Also lean *away* from office/comms scenery (email, inbox, meeting, deadline,
+- Also lean _away_ from office/comms scenery (email, inbox, meeting, deadline,
   slide deck) — it quietly assumes a desk-job reader. When you must invoke the
   trait at work, keep it generic ("say it plainly"), not a named document.
 

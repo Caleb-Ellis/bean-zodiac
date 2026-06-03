@@ -6,6 +6,11 @@ form: smoked
 trait: hazy
 dish: Gigantes plaki - butter beans baked with sweet tomato, smoked paprika, and honey.
 quote: Que bean sera, sera. Whatever will bean, will bean.
+creature: luna moth
+friendlyBeans: [black, mung]
+antiBeans: [green, kidney]
+friendlyForm: boiled
+antiForm: fried
 seasonalFortune: The weeks come on slow as smoke through a low oven. Tomato deepens into honey, honey into paprika, and nothing in the season insists on a single name for itself.
 fortuneMost: Set no alarm. Let the afternoon go shapeless and trust the honey to deepen on its own.
 fortuneMost2: The good hours come when no one schedules them. An afternoon will dissolve sweetly into midnight, and you'll be glad you never pinned it down.
@@ -18,15 +23,15 @@ fortuneLow2: Write it down and turn up early in your own coat. The hard edge cos
 fortuneLeast: Pick the plain yes or no and let it hold. It scratches going down, but it lands clean where the warm fog never could.
 fortuneLeast2: A little hard order under you leaves more room to drift, not less. Keys in one pocket, the receipt filed the evening it arrives — though you'll mistrust the tidiness at first.
 facetMostTitle: The Pan Past the Timer
-facetMost: Asked what you mean, you answer in adjacent sentences, circling the thing rather than pinning it, content for the listener to wander in.
+facetMost: The trailhead has three forks and no signpost. You pick whichever looks warmest and let the walk decide where it's going.
 facetHighTitle: Honey in the Warm Corners
-facetHigh: Plans you made on Tuesday rearrange themselves by Thursday, and you follow the new shape without naming when it changed.
+facetHigh: You meant to paint the fence and end up repotting the herbs instead. You don't go back for the fence.
 facetMidTitle: Paprika Dust Where It Lands
-facetMid: You leave the books in soft piles, the laundry half-folded, the rooms arranged by approximate gravity rather than by rule.
+facetMid: The recipe wants exactly forty grams of honey. You pour straight from the jar until the smell is about right.
 facetLowTitle: Flecks on the Bean's Skin
-facetLow: You name the time and the cross-street, write it in the calendar, and arrive five minutes early in your own coat.
+facetLow: A box of old photos needs sorting before the move. You label every envelope by year and stack them square.
 facetLeastTitle: Honey and Smoke, Apart
-facetLeast: Wallet in the left pocket, keys in the right, every receipt filed the evening it arrives.
+facetLeast: The trip is a week away and you've got the bags packed, the tickets printed, an itinerary by the hour.
 question: A friend asks what time you can meet on Thursday. You...
 answerMost: say "afternoon-ish, I'll let you know" and mean it warmly
 answerHigh: suggest "around three?" and leave the rest soft
@@ -38,11 +43,6 @@ rorschachHigh: a cat curled up, ears barely showing
 rorschachMid: a cushion dented in the middle, tassels at the corners
 rorschachLow: a loaf scored sharp before the oven
 rorschachLeast: a block of butter cut clean, edges square
-facetMostTags: [pinto, cannellini, black]
-facetHighTags: [pinto, cannellini]
-facetMidTags: [pinto, cannellini]
-facetLowTags: [fava, edamame]
-facetLeastTags: [fava, edamame, green]
 ---
 
 Barbecued Butter Beans are the Bean Zodiac's most hazy — and being near them feels like an afternoon that nobody had to schedule. Conversations drift into corners and stay there; the pot stays on low; somebody puts on the second record without asking and nobody objects. They are the friend whose flat you arrive at for an hour and leave from at midnight.

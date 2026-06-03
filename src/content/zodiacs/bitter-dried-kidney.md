@@ -6,6 +6,11 @@ form: dried
 trait: hardened
 dish: Louisiana Red Beans and Rice - with mustard greens.
 quote: What lies behind us and what lies before us are tiny matters compared to what lies between beans.
+creature: crocodile
+friendlyBeans: [green, mung]
+antiBeans: [butter, chickpea]
+friendlyForm: fried
+antiForm: smoked
 seasonalFortune: The pot dries to its essentials; mustard cures on the stem. What survives the long simmer keeps through winter; softness is the first thing the heat takes.
 fortuneMost: Hold the line you drew. The wobble is theirs, not yours, and you take the news standing up.
 fortuneMost2: The storm rolling in passes through you, not into you — you came out of worse denser than before. Stay dense; this one breaks against you and moves on.
@@ -18,15 +23,15 @@ fortuneLow2: New affection has landed and found nowhere soft to settle. Stop dra
 fortuneLeast: Someone is ready to carry part of it. Hand it over — you needn't be the one out front, however wrong that feels.
 fortuneLeast2: Softening will feel like exposure. Yield to the weather anyway; the callus you never grew was never what kept you safe.
 facetMostTitle: Brine Takes Weeks
-facetMost: Grudges, recipes, the answer to a hard question — all set aside to cure until the salt has done its work.
+facetMost: The cancellation comes through an hour before the flight, the trip you'd built months around. You absorb it without a flinch and start reading the board for the next way through.
 facetHighTitle: Beans in Cold Water
-facetHigh: The debt is acknowledged; the settling waits its hour, and the hour is rarely soon.
+facetHigh: Are we okay, they ask, with the hurt still fresh between you. They get nothing yet — the wound stays shut until you alone decide it's healed enough to open.
 facetMidTitle: The Lean Counter
-facetMid: Nothing porous sits out on your counters. Rooms kept lean — no cushion left where the weather could find a seam.
+facetMid: The campsite floods at midnight and everyone's panicking in the rain. You move calm through it, staking the tarp, voice level, the one not adding to the noise.
 facetLowTitle: The Wilting Leaf
-facetLow: Strangers reach the tender part of a conversation within the hour, and you let them.
+facetLow: A sad scene in the film catches you off guard and your throat tightens. You let the tears come instead of blinking them down, wet cheeks and all in front of the others.
 facetLeastTitle: The Give in the Skin
-facetLeast: Skin, mood, sleep — all yield to the room's weather; you have never built a callus that lasted.
+facetLeast: A stranger's small unkindness on the bus could roll right off, but it doesn't — it gets under your skin and sits there, the whole ride colored by it, soft to the world in a way no shell ever covered.
 question: Bad news lands in your inbox before a meeting you can't move. You...
 answerMost: walk into the meeting and don't mention it
 answerHigh: file it away, deal with it tonight
@@ -38,11 +43,6 @@ rorschachHigh: a smooth nut and a dented helmet
 rorschachMid: a pebble and a spiky chestnut husk
 rorschachLow: a cracked pod beside a nut split open
 rorschachLeast: a pebble and a burst shell scattering seeds
-facetMostTags: [butter, navy, black]
-facetHighTags: [butter, navy]
-facetMidTags: [butter, navy]
-facetLowTags: [green, edamame]
-facetLeastTags: [green, edamame, fava]
 ---
 
 Desiccated Kidney Beans are the Bean Zodiac's most hardened — they have been through the thing that would flatten most people and came out denser for it, calm in the kind of bad week that sends everyone else into a spiral. They take the news standing up. Nothing surprises them anymore, and there's a real peace in that.

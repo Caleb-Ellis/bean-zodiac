@@ -6,6 +6,11 @@ form: roasted
 trait: sociable
 dish: Leblebi - Tunisian roasted chickpeas in spiced broth with harissa and cumin.
 quote: No bean is an island.
+creature: prairie dog
+friendlyBeans: [butter, adzuki]
+antiBeans: [black, navy]
+friendlyForm: fried
+antiForm: dried
 seasonalFortune: A season for the long simmer. Harissa deepens in company; the chickpea grows generous in spiced broth, and rooms thicken around those who stay near the pot.
 fortuneMost: Throw the door open on no notice. Whoever shows up is exactly the crowd worth keeping the broth warm for.
 fortuneMost2: Watch how fast the half-stranger pulled into the circle turns into a friend.
@@ -18,15 +23,15 @@ fortuneLow2: Pick a few and go deep. Spread across everyone, you miss the one wh
 fortuneLeast: Let the unread messages sit. The quiet is rebuilding something the constant chatter wears thin, even when the silence feels like neglect.
 fortuneLeast2: No reply is owed by return.
 facetMostTitle: The Broth as Invitation
-facetMost: You host on a Tuesday for no reason, and the small apartment is suddenly the warmest room in the building.
+facetMost: Rain strands a whole bus queue under one awning. By the time it clears you've got names, two of them are coming to yours later, and the wait felt short.
 facetHighTitle: Harissa at the Door
-facetHigh: The acquaintance becomes a friend on the walk home; you remember their sister's name without trying.
+facetHigh: The new tenant downstairs hasn't met a soul. Knock with two mugs of something hot and stay until the building feels less strange to them.
 facetMidTitle: Cumin Mid-Sentence
-facetMid: At the supermarket you run into someone you barely know and leave with their number, two restaurant tips, and a half-confession about their mother.
+facetMid: A hello tossed to the man who sweeps the courtyard, and somehow you're three minutes deep in his grandson's football and glad of it.
 facetLowTitle: The Single Cooling Chickpea
-facetLow: You keep the bedside lamp on past midnight reading; the day's noise has to drain out before sleep takes.
+facetLow: A whole free evening, and the choice is a packed bar or your own kitchen and a book. The kitchen wins, easily, with only a small pang at the bar you skipped.
 facetLeastTitle: Harissa Sealed in the Jar
-facetLeast: You let three messages sit unread for a week and feel no debt — the quiet rebuilds something the chatter wears down.
+facetLeast: Picture a week off where nobody knows where you are — no plans, no pings, just a road and a rented room. That's not exile to you. That's the holiday.
 question: You meet someone you really click with at a wedding. A week passes and the spark has cooled into a half-drafted text. You...
 answerMost: invite them over for dinner Saturday and add two mutual friends
 answerHigh: send the text, suggest a coffee, pin the calendar invite
@@ -38,11 +43,6 @@ rorschachHigh: a reef branching out in every direction
 rorschachMid: a sprawling oak with limbs reaching wide
 rorschachLow: a tide pool emptying out at low water
 rorschachLeast: a horseshoe crab beached and pulled in tight
-facetMostTags: [adzuki, green, pinto]
-facetHighTags: [adzuki, green]
-facetMidTags: [adzuki, green]
-facetLowTags: [cannellini, edamame]
-facetLeastTags: [cannellini, edamame, black]
 ---
 
 Peri-Peri Chickpeas are the Bean Zodiac's most sociable — the ones who know the barista's dog's name, who get cc'd on the group plan before they've said they're coming, who can fall into a conversation with a stranger at the bus stop and somehow leave with a restaurant recommendation. Their address book is enormous and warm and most of it is genuinely fond of them.

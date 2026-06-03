@@ -6,6 +6,11 @@ form: boiled
 trait: insistent
 dish: Habas dulces — young fava beans boiled briefly and tossed with honey, lemon zest, and fresh mint.
 quote: It does not matter how slowly you bean, as long as you do not stop.
+creature: gull
+friendlyBeans: [mung, adzuki]
+antiBeans: [kidney, pinto]
+friendlyForm: smoked
+antiForm: smoked
 seasonalFortune: A low simmer outlasts the cook who set it; the honey thickens through hours nobody watches, and the pot keeps asking until the answer comes.
 fortuneMost: Ask it again, gently, in the very same words. Repeat it until the table can no longer pretend it didn't hear you.
 fortuneMost2: You don't get bored, don't escalate, don't go away — and the honey in your asking is real. The patient pressure works; soon the easiest thing left for them is to answer you.
@@ -18,15 +23,15 @@ fortuneLow2: You hear "we'll sort it later" and know later won't come — and yo
 fortuneLeast: The fight you didn't pick won't come hunting for you. Take the easy answer and walk off, no ceremony, the itch of the unfinished thing fading behind you.
 fortuneLeast2: Ask once, accept the first sidestep, move on. There's a real relief in not making yourself repeat it — let yourself have it, even if quitting early feels like losing.
 facetMostTitle: Honey in a Warm Pan
-facetMost: You ask the same question three times in a year, the same way each time, until the room realises you will not stop.
+facetMost: The council keeps fobbing you off about the broken streetlight on your road. Same friendly call, same week after week, your voice never sharpening and never quitting either.
 facetHighTitle: Mint at the End
-facetHigh: You loop back to the point the dinner skipped, calmly, between courses, until it has been answered to the table and not around it.
+facetHigh: A friend keeps answering your real question with a joke and a swerve. You wait for the laugh to fade, then ask it again, warmly, exactly as you did the first time.
 facetMidTitle: Lemon Zest, Stirred Through
-facetMid: The thing you wanted on the calendar is on the calendar; you mentioned it twice and let the second mention land.
+facetMid: You'd love the group to try that little place across town sometime. Float it once, then float it once more a fortnight on — a gentle second nudge, and you leave it there.
 facetLowTitle: Honey Skimmed Early
-facetLow: You hear "let's figure it out later" and let it pass, knowing later will not come.
+facetLow: The shop won't budge on the refund and you're fairly sure you're in the right. One ask, a shrug, and out the door — this hill isn't worth the climb, and you're lighter not climbing it.
 facetLeastTitle: The Quick Spoon
-facetLeast: You ask once, accept the first sidestep, and walk away grateful you did not have to repeat yourself.
+facetLeast: A relative dodges the question you've wanted answered for years, again, with the usual vague smile. Let it lie this time — some doors stay shut, and you stop pushing on this one.
 question: You emailed your landlord about a slow leak three weeks ago and heard nothing back. You...
 answerMost: send the same warm follow-up every Monday until it's fixed
 answerHigh: send a polite second email this week
@@ -38,11 +43,6 @@ rorschachHigh: a tick dug in and holding on
 rorschachMid: a knot of wood in a plank
 rorschachLow: a fist beginning to open its fingers
 rorschachLeast: a loose ball of yarn coming undone
-facetMostTags: [kidney, edamame, pinto]
-facetHighTags: [kidney, edamame]
-facetMidTags: [kidney, edamame]
-facetLowTags: [butter, edamame]
-facetLeastTags: [butter, edamame, black]
 ---
 
 Candied Fava Beans are the Bean Zodiac's most insistent — and the warmest. They ask the same question on week one and week six in exactly the same kind voice, and somewhere around week four the room realises that this bean does not get bored, does not escalate, does not go away, and the easier path is simply to answer them. The honey is genuine; the patience is the muscle underneath.

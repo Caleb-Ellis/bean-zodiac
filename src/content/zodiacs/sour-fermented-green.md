@@ -6,6 +6,11 @@ form: fermented
 trait: quirky
 dish: Green bean kimchi - fermented green beans with gochugaru, garlic, and rice vinegar.
 quote: We are all bean, but some of us are looking at the stars.
+creature: narwhal
+friendlyBeans: [pinto, kidney]
+antiBeans: [butter, black]
+friendlyForm: roasted
+antiForm: dried
 seasonalFortune: A brine sharp with gochugaru and garlic insists on its own logic. The season tilts toward jars that cure on their own schedule, refusing the row.
 fortuneMost: Asked how you are, give the weird true answer — tell them about the garlic, not the weather. People walk away carrying a flavour they can't place, and that was the gift.
 fortuneMost2: A strange offering of yours will outlast every sensible one in the room. A year from now it's the thing they still have, still puzzling over.
@@ -18,15 +23,15 @@ fortuneLow2: There's a quiet luck in making the same supper that always lands, n
 fortuneLeast: The deadpan, dead-on-time arrival is funnier than any detour you'd have invented. Just show up plainly, punctually ordinary — odd, how exposed that feels.
 fortuneLeast2: Out on the road, take the route the map gives you. No scenic loop, no invented errand — the straight way is a kindness to whoever's been waiting at the other end, even if it fits like a borrowed coat.
 facetMostTitle: Gochugaru for Vinegar
-facetMost: You answer questions with the wrong ingredient and the conversation opens; people leave carrying a flavour they cannot place.
+facetMost: They're naming the new kitten and every sweet, obvious name is already floating around the room. Not one of them will do — your mouth is already shaping something sideways no one saw coming.
 facetHighTitle: Beans Bent in the Jar
-facetHigh: Your room arranges itself around objects nobody else would shelve together — a garlic clove beside a letter, deliberate.
+facetHigh: A blank wall and a box of odds to hang on it. Where another hand would line up framed prints, you'd pin the bus ticket next to the dried starfish and call it composed.
 facetMidTitle: Brine Before It Clears
-facetMid: At the edge of a group you offer the angled remark; some lean in, some glance away, and you keep eating.
+facetMid: A lull falls over the picnic and you've got an oddball thought half-formed. Float it and watch who tilts toward it, or keep it to yourself and pass the bread.
 facetLowTitle: Vinegar Measured Level
-facetLow: You cook the recipe as written and the kitchen runs clean, the same supper landing well each week.
+facetLow: Wrapping a present, you've got a wild idea for the paper and a plain brown roll on the shelf. You go with the plain brown and skip the flourish this once.
 facetLeastTitle: Salt on a Fixed Clock
-facetLeast: You leave at the hour you said, answer on the day you promised, and the straightness is its own kind of grace.
+facetLeast: The party invite asks for a costume and your head's already off somewhere strange. You turn up in plain clothes, on time, the most ordinary one in the room.
 question: You're asked to bring a small gift to a colleague's leaving drinks. The whip-round chipped in for flowers. You...
 answerMost: bring a single dried chilli taped to a hand-drawn map of the route home
 answerHigh: bring a second-hand book in a language they don't speak yet
@@ -38,11 +43,6 @@ rorschachHigh: a moth with odd sprigs poking past its wings
 rorschachMid: a broad leaf with a ragged frilled edge
 rorschachLow: a plain heart drawn in one stroke
 rorschachLeast: an ordinary spade from a pack of cards
-facetMostTags: [pinto, fava, kidney]
-facetHighTags: [pinto, fava]
-facetMidTags: [pinto, fava]
-facetLowTags: [butter, mung]
-facetLeastTags: [butter, mung, black]
 ---
 
 Pickled Green Beans are the Bean Zodiac's quirkiest — they answer the small-talk question with the wrong ingredient and the conversation opens. Their shelves hold pairings nobody else would shelve together, on purpose: a garlic clove beside a letter, a brine-soaked pebble in the spice rack, a postcard from a place they've never been used as a bookmark in a book they don't intend to finish. The strangeness is not for show. It's the actual taste of the room.

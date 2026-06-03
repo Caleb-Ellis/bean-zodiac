@@ -6,6 +6,11 @@ form: fermented
 trait: inventive
 dish: Edamame with spicy fermented black bean sauce and sesame.
 quote: I'm a great bean believer in luck, and I find the harder I work, the more I have of it.
+creature: kea
+friendlyBeans: [kidney, green]
+antiBeans: [mung, butter]
+friendlyForm: fried
+antiForm: boiled
 seasonalFortune: Brine darkens in the crock through weeks no one watches. Salt does the work of hours; the household eats from a season's quiet labor.
 fortuneMost: One of the things fermenting in parallel is ripe right now. Lift the lid on the one that's become itself and serve it.
 fortuneMost2: Salt has been doing the work of hours in the dark. Finish the one half-made thing; leave the rest working on the bench without you.
@@ -18,15 +23,15 @@ fortuneLow2: An afternoon on the steps making nothing isn't wasted. The idea you
 fortuneLeast: Papers, cups, a sweater on the chair — leave the drift. Your shoulders can stay loose inside a room that's a little undone.
 fortuneLeast2: Set the urge to optimize down and leave the house half-tidy. It runs against your grain, and that's exactly the rest in it.
 facetMostTitle: Salt and Chili in the Dark
-facetMost: Three half-finished ideas are at different stages on your bench; you lift the lid on the one that has become itself, and serve it.
+facetMost: With a part missing and the shop closed, you've already got your hands in the drawer building something that shouldn't work. Run the contraption and see if it holds.
 facetHighTitle: The Pod Before the Message
-facetHigh: You hand them the answer in a shape no one else would have thought to use, and it works.
+facetHigh: Two people are stuck arguing over the only two options on the table. There's a third one nobody's named, and it's yours to put down between them.
 facetMidTitle: Sauce at the Bottom
-facetMid: You fix the loose drawer pull, the flickering bulb, the chair leg — small repairs no one assigned.
+facetMid: A board game everyone knows would play better with one rule of your own quietly added. Slip the house rule in and watch how the night bends around it.
 facetLowTitle: Sesame Settled Below
-facetLow: You let an afternoon pass on the steps, and the day does not bill you for it.
+facetLow: The store-bought one works perfectly well and costs almost nothing, and your hands are already sketching a better version. Buy the plain one off the shelf and don't build a thing.
 facetLeastTitle: Pods Without Supervision
-facetLeast: The room around you drifts — papers, cups, a sweater on the chair — and your shoulders stay loose inside it.
+facetLeast: A friend's process is clunky and roundabout and you can see four ways to streamline it. You watch them do it their slow way and keep every suggestion to yourself.
 question: A team channel asks for a status update on the thing you've been working on. You have four half-finished pieces and one that's almost done. You...
 answerMost: post a wild new prototype nobody asked for
 answerHigh: share the almost-done piece with a sketch of what's next
@@ -38,11 +43,6 @@ rorschachHigh: a crab fitting a new claw on
 rorschachMid: a curled shrimp with one trailing leg
 rorschachLow: a cat dozing curled into a comma
 rorschachLeast: a smooth hook hung on the wall
-facetMostTags: [pinto, fava, green]
-facetHighTags: [pinto, fava]
-facetMidTags: [pinto, green]
-facetLowTags: [butter, mung]
-facetLeastTags: [butter, mung, black]
 ---
 
 Kimchi Edamame are the Bean Zodiac's most inventive — the friend whose workshop has four half-finished things on the bench and a fifth quietly becoming itself in a jar at the back. They don't pick a lane, exactly; they let several ferment in parallel and lift the lid on whichever one is ready, often producing the thing the room needed before the room knew to ask.

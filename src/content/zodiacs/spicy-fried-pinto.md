@@ -6,6 +6,11 @@ form: fried
 trait: chaotic
 dish: Chimichangas - deep-fried burritos with spicy pinto beans and ancho chili.
 quote: In the middle of every bean lies opportunity.
+creature: tasmanian devil
+friendlyBeans: [adzuki, navy]
+antiBeans: [kidney, fava]
+friendlyForm: roasted
+antiForm: boiled
 seasonalFortune: A season of spitting oil and half-folded tortillas; the kitchen of this bean runs hot, loud, and rarely in one direction for long.
 fortuneMost: Six things half-made and fluent in all of them — the one that survives to evening beats any plan you could've written. Run with it.
 fortuneMost2: A good idea is loose in all that mess and it'll find you before the night's out. The scatter isn't the cost; it's the net.
@@ -18,15 +23,15 @@ fortuneLow2: Let one thing be whole. Carrying it to the end instead of abandonin
 fortuneLeast: The week's plan fits on a card, and the card doesn't get rewritten. Letting it just hold goes against your grain — and the steadiness is the gift in disguise.
 fortuneLeast2: Do the one thing already set for this slot. The day doesn't owe you six new beginnings, however much your hands want them.
 facetMostTitle: Ancho Heat in Every Corner
-facetMost: Six tortillas open on the counter, six fillings half-made; you move between them, finishing none, fluent in all.
+facetMost: A weekend market sprawls in every direction and you've got one hour. You plunge in with no route, chasing whatever stall catches your eye next.
 facetHighTitle: Oil Claims Whatever It Touches
-facetHigh: You leave the shirt on the chair, the chair near the door, the door propped — a trail of half-set things, each abandoned mid-fold.
+facetHigh: You set out to fix the bike, end up sorting the shed, and leave both cracked open when a third thing calls. The garden's now a museum of half-starts.
 facetMidTitle: The Filling Spilling Three Ways
-facetMid: Forty tabs open, three drafts unsent, a voice note recorded over a voice note; you find the thread when you find it.
+facetMid: A board game has clear rules and you'd rather not. Mid-turn you're already inventing house variants nobody asked for, just to see what happens.
 facetLowTitle: The Chimichanga, Whole
-facetLow: You finish the thing in front of you before the next pan touches the burner.
+facetLow: A new whim tugs while you're partway through painting a fence. You stay on the fence, brush to the last board, before you let yourself wander.
 facetLeastTitle: One Pot, One Chili
-facetLeast: The week's plan fits on an index card, and the card does not get rewritten.
+facetLeast: One small chore is set for the afternoon and a dozen tangents beckon. You do the one chore, plainly, and let the tangents go unfollowed.
 question: A Saturday afternoon opens up, free. You...
 answerMost: start six things at once and see which one survives until evening
 answerHigh: begin the project you've been meaning to, then end up rearranging the kitchen instead
@@ -38,11 +43,6 @@ rorschachHigh: an antlered elk with branches flaring wild
 rorschachMid: a candle guttering, wax slumping down its sides
 rorschachLow: a cypress tapering to one steady point
 rorschachLeast: a single flame standing straight and still
-facetMostTags: [chickpea, mung, black]
-facetHighTags: [chickpea, mung]
-facetMidTags: [chickpea, mung]
-facetLowTags: [adzuki, chickpea]
-facetLeastTags: [adzuki, chickpea, green]
 ---
 
 Red-Hot Pinto Beans are the Bean Zodiac's most chaotic — six tortillas open on the counter, six fillings half-made, and a fluency in all of them that nobody else in the room could keep up with. The wake is a trail of half-folded things, but the energy inside it is real, and the one idea that does survive to evening tends to be better than anyone could have planned.

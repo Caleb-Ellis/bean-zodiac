@@ -6,6 +6,11 @@ form: fried
 trait: bold
 dish: Spicy edamame gyoza - pan-fried dumplings with doubanjiang dipping sauce.
 quote: Fortune favours the bean.
+creature: lion
+friendlyBeans: [cannellini, fava]
+antiBeans: [mung, butter]
+friendlyForm: dried
+antiForm: fermented
 seasonalFortune: A pan kept hot favours the cook who commits. The season belongs to the pleat sealed before the filling cools, the gesture made while the oil still talks back.
 fortuneMost: Speak first into the quiet and the whole table arranges itself around it.
 fortuneMost2: A silence is about to open, and you'll fill it with a sentence that isn't perfect — only said. That's the one that lands.
@@ -18,15 +23,15 @@ fortuneLow2: Hang back and let someone else find their footing first. Holding th
 fortuneLeast: Let the bold move sleep overnight. The version still standing by morning is the one to keep — though the wait will gnaw at you.
 fortuneLeast2: If it truly matters, someone closer to it will speak. Trusting that is harder than going first; do it anyway.
 facetMostTitle: Doubanjiang Before the Second Guest
-facetMost: You speak into a quiet room and the room arranges itself around the speaking.
+facetMost: A street performer asks for a volunteer and the crowd goes shy. Your hand is up before you've thought about what they'll make you do.
 facetHighTitle: The Loose-Pleated Dumpling
-facetHigh: You release the work while it steams; revision is somebody else's quieter craft.
+facetHigh: A long queue is forming because nobody will tell the clerk the line's been called wrong. You walk to the front and say it.
 facetMidTitle: Oil Meeting the Pan
-facetMid: The bill comes wrong and you say so, evenly, before the waiter has set the tray down.
+facetMid: A group's circling a plan and no one will commit to a first move. You pick one, name it out loud, and let the rest fall in or push back.
 facetLowTitle: Steam, Let to Lift
-facetLow: You wait for the second batch — the one whose crisp bottom you can trust.
+facetLow: A debate kicks off at dinner and everyone waits to see who jumps in. You let two others go first and find their footing before you weigh in.
 facetLeastTitle: The Sauce at the Rim
-facetLeast: You draft the message, set the phone face-down, and read it once more in the morning.
+facetLeast: Something needs saying to a room and you can feel it. You hold off, trusting that whoever's closest to it will speak before you have to.
 question: In the meeting, the room goes quiet after a difficult question. You...
 answerMost: answer immediately, before anyone has cleared their throat
 answerHigh: speak up after a beat — somebody has to
@@ -38,11 +43,6 @@ rorschachHigh: two rams squaring off across a gap
 rorschachMid: two hills with a low pass between them
 rorschachLow: two sheep grazing apart, backs turned
 rorschachLeast: a long low bank hugging the ground
-facetMostTags: [kidney, fava, green]
-facetHighTags: [kidney, fava]
-facetMidTags: [kidney, fava]
-facetLowTags: [butter, mung]
-facetLeastTags: [butter, mung, black]
 ---
 
 Red-Hot Edamame are the Bean Zodiac's most bold — the first to speak into a quiet room, and the room arranges itself around the speaking. They flag the wrong bill before the tray hits the table, send the email while others are still drafting, and step into the awkward silence with a sentence that wasn't perfect but was, importantly, said.

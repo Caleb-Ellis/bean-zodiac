@@ -6,6 +6,11 @@ form: fried
 trait: serious
 dish: Bindaetteok - Korean mung bean pancakes with kimchi and soy dipping sauce.
 quote: Life is too important to be taken bean.
+creature: moose
+friendlyBeans: [fava, chickpea]
+antiBeans: [edamame, black]
+friendlyForm: boiled
+antiForm: dried
 seasonalFortune: A season that asks for the long burner. Days settle the way oil settles in a cold pan — slowly, and toward the bottom.
 fortuneMost: Oil settling toward the bottom of a cold pan, slow and whole. Someone hands you a small worry and you set everything down and meet it at full size. That weight is the gift you give.
 fortuneMost2: A child asks the grave question — why the dog had to go — in the middle of the noise. You kneel and answer it as carefully as it was asked.
@@ -18,15 +23,15 @@ fortuneLow2: Choose what to cook by smell, what to wear by reach. Some afternoon
 fortuneLeast: Beat everyone to the joke at your own expense. Someone's been quietly carrying your mood, and a little lightness lets them set it down.
 fortuneLeast2: Meet the "how are you?" with "good, you?" and let it stay small. Not every passing question came for the truth.
 facetMostTitle: Soy Pooling, Dark and Still
-facetMost: When a friend brings you a small worry, you set down what you were doing and treat it at full size.
+facetMost: A party game turns silly and everyone's playing for laughs; you find yourself reading the rules twice and playing it straight, like it counts.
 facetHighTitle: Kimchi Folded Without Ceremony
-facetHigh: A friend tells the long story and you do not look at your phone once; the story finds an ending it had not known it had.
+facetHigh: A street performer's bit asks for a heckle and a wink, and you give them a real round of attention instead, watching the craft of it.
 facetMidTitle: The Batter Between Stirrings
-facetMid: You arrive at a room a beat after others, having considered what it asks of you.
+facetMid: At a threshold full of chatter you pause half a step, weighing what the moment wants, before you step in among it.
 facetLowTitle: Crust Fast in Hot Oil
-facetLow: You decide what to wear by reaching, what to cook by smelling, and the day goes fine.
+facetLow: Offered a wild detour with no plan and no point to it, you find you can just say yes and let the day go shapeless.
 facetLeastTitle: Scallion Oil at the Surface
-facetLeast: A friend asks how you really are and you say "fine" without quite meaning it, and the afternoon proceeds, somehow, anyway.
+facetLeast: A heavy mood has been sitting on you and the easy move is to crack a joke about it — and you can, letting everyone breathe out, including you.
 question: A child you know asks a small grave question — why people get old, why the dog had to go — in the middle of an otherwise loud afternoon. You...
 answerMost: kneel, turn the noise down, and answer the question as carefully as it was asked
 answerHigh: pull them aside and give them the real, kind sentence
@@ -38,11 +43,6 @@ rorschachHigh: a monk kneeling, shoulders weighed down
 rorschachMid: an hourglass standing on a table
 rorschachLow: a snowman with a grin tilted up
 rorschachLeast: a balloon animal sagging at its joints
-facetMostTags: [butter, black, adzuki]
-facetHighTags: [butter, black]
-facetMidTags: [butter, black]
-facetLowTags: [fava, green]
-facetLeastTags: [fava, edamame, green]
 ---
 
 Tempura Mung Beans are the Bean Zodiac's most serious — the ones who, when a friend brings them a small worry, set the laptop aside and treat the worry at full size. Asked how their week was, they actually answer. The reply to a tricky email arrives slower than the room hoped and lands at the exact weight it needed.

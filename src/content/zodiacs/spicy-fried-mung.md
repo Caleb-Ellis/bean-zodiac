@@ -6,6 +6,11 @@ form: fried
 trait: high-strung
 dish: Bindaetteok — Korean mung bean pancake with kimchi and gochugaru.
 quote: Beans cannot endure either perfect solitude or perfect society.
+creature: whippet
+friendlyBeans: [kidney, cannellini]
+antiBeans: [edamame, pinto]
+friendlyForm: boiled
+antiForm: fermented
 seasonalFortune: The griddle stays hot under the spicy-fried mung; small sounds carry far in such a kitchen. A year spent ready for the next spit of oil.
 fortuneMost: You feel the buzz through the wood before anyone else hears a thing. The signal's real — it just belongs to whoever sent it, not to you.
 fortuneMost2: Tuned to a frequency the rest of the room can't pick up, you catch it all at once. Breathe before your hand grabs at any of it.
@@ -18,15 +23,15 @@ fortuneLow2: Let the sting sit overnight; by morning it's shrunk to its true siz
 fortuneLeast: Sirens down the block are weather, not a summons. Nothing out there is calling your name, even when every nerve insists it might be.
 fortuneLeast2: The room can hum on without you tracking every note. Resting through the small alarms feels like dropping your guard; it's just rest.
 facetMostTitle: Oil Before the Batter
-facetMost: Your phone face-down still owns the room — you hear the buzz through the table and your shoulders are already up.
+facetMost: A plane hits a patch of light turbulence and the cabin barely stirs. You're already reading the crew's faces and gripping the armrest for the next jolt.
 facetHighTitle: Kimchi at the Rim
-facetHigh: You wake before the alarm, every alarm, and lie there listening for the one that didn't go off.
+facetHigh: A friend's reply is taking longer than usual to come back. You've drafted three theories for the silence before the dots even appear.
 facetMidTitle: Gochugaru in the Heat
-facetMid: At the table you clock who left early, who didn't drink, whose laugh came half a beat late.
+facetMid: At a reunion you can feel which two old friends aren't speaking from across the garden, long before anyone says a word.
 facetLowTitle: Batter Resting in the Bowl
-facetLow: You let the worry sit overnight; by morning it has shrunk to its actual size, and the day starts at its actual volume.
+facetLow: A nagging dread settles in just before bed. You set it on the nightstand for the night, and meet it smaller in the morning.
 facetLeastTitle: The Pancake Cooling on the Plate
-facetLeast: Rain on the window, sirens down the block — you register it the way you register weather, and return to the page.
+facetLeast: A car alarm goes off and on for an hour outside. You take it as background noise, never once wondering if it's your own.
 question: The phone buzzes face-down on the table during dinner. You...
 answerMost: flip it over mid-sentence — it could be anything
 answerHigh: glance at the lock screen, then keep the conversation going
@@ -38,11 +43,6 @@ rorschachHigh: a cat crouched, ears pricked toward a sound
 rorschachMid: a beetle with two feelers raised
 rorschachLow: a hare at ease, ears tipping over loose
 rorschachLeast: a cat sprawled flat, whiskers drooping
-facetMostTags: [pinto, black, adzuki]
-facetHighTags: [pinto, black]
-facetMidTags: [pinto, black]
-facetLowTags: [navy, butter]
-facetLeastTags: [navy, butter, edamame]
 ---
 
 Red-Hot Mung Beans are the Bean Zodiac's most high-strung — wired to the room at a frequency nobody else seems to register. They hear the buzz through the table, clock who left the party early, notice the laugh that came half a beat late, and have an answer typed before the question's been finished. Friends find them quick, attuned, faintly psychic.

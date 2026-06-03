@@ -6,6 +6,11 @@ form: fried
 trait: reckless
 dish: Ta'amiya with pomegranate molasses - Egyptian fava bean falafel with a sweet-sour pomegranate dressing.
 quote: Who beans nothing, loses nothing — but wins nothing either.
+creature: march hare
+friendlyBeans: [chickpea, mung]
+antiBeans: [navy, cannellini]
+friendlyForm: fermented
+antiForm: dried
 seasonalFortune: Pomegranate molasses outruns the spoon; oil takes the bean before the bean is ready. A season of splashes, scorch marks, and bright accidents.
 fortuneMost: The careful version dies waiting, and you've always known it. Move while it's hot — the splash is half the story worth telling.
 fortuneMost2: The batter goes in before it's quite ready, and that bright accident is the best thing on the plate. The day belongs to the spoon that didn't hesitate.
@@ -18,15 +23,15 @@ fortuneLow2: Leave the invitation to sit overnight. By dawn its real shape has s
 fortuneLeast: People have been quietly counting your last few crashes. Meet the new thing at the threshold instead of the curb; the doorway does the sorting you usually skip, even if it costs you the rush.
 fortuneLeast2: Some days the bright accident genuinely isn't worth the cleanup. Cork the skin tight. Holding still will feel like a small death, and this is a day for it anyway.
 facetMostTitle: Hot Oil, No Lid
-facetMost: Thumb above a sticky screen — send first, read after. The splash hits the wall before the thought finishes forming.
+facetMost: A cliff path opens onto cold water far below, with a few locals leaping in. You're off the edge before you've checked how deep it runs.
 facetHighTitle: Pomegranate on the Receipt
-facetHigh: You sign before the total resolves, trusting the smear to mean yes.
+facetHigh: A stranger at a hostel says they're driving north in ten minutes — room for one more. Your bag's already on your shoulder.
 facetMidTitle: The Unwashed Counter
-facetMid: You rearrange the heavy furniture at midnight and decide later whether you like it.
+facetMid: Three of a strange fruit you can't name, bought from a market stall and bitten into on the street — no questions asked of the seller.
 facetLowTitle: Molasses on the Sill
-facetLow: You let the invitation sit overnight; by morning its shape has clarified.
+facetLow: Halfway across a frozen pond on a dare, a faint crack underfoot. You stop, test each step, and pick the slow way back to the bank.
 facetLeastTitle: The Idling Pan
-facetLeast: New faces you greet at the threshold, not the curb — the doorway does the sorting.
+facetLeast: A once-in-a-lifetime bet is on the table and the window's closing. You walk away from it, read every line of the fine print, and sleep on it twice.
 question: You're an hour into a road trip and realise you may have left the back door unlocked. The drive is six hours. You...
 answerMost: keep driving and decide it's a future-you problem
 answerHigh: text the neighbour to check, keep going
@@ -38,11 +43,6 @@ rorschachHigh: a dollop of batter dropped off the spoon
 rorschachMid: a beet pulled up by its tapering root
 rorschachLow: a sandbag set down to hold the door
 rorschachLeast: a waterskin corked tight against any spill
-facetMostTags: [chickpea, mung, black]
-facetHighTags: [chickpea, mung]
-facetMidTags: [chickpea, mung]
-facetLowTags: [adzuki, chickpea]
-facetLeastTags: [adzuki, chickpea, green]
 ---
 
 Agrodolce Fava Beans are the Bean Zodiac's most reckless — they're already two steps into the thing while everyone else is asking if the thing is wise. The reply gets sent, the furniture gets moved, the offer gets accepted, all before the question fully forms; what looks like courage from outside is, from inside, just a refusal to let the moment go cold. Half the stories worth telling at this table started with an Agrodolce Fava not pausing.

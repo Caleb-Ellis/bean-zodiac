@@ -6,6 +6,11 @@ form: roasted
 trait: self-reliant
 dish: Loubia bil harissa - Moroccan navy bean tagine with roasted harissa and preserved lemon.
 quote: Trust thyself - every bean vibrates to that iron string.
+creature: lone wolf
+friendlyBeans: [butter, cannellini]
+antiBeans: [pinto, chickpea]
+friendlyForm: dried
+antiForm: smoked
 seasonalFortune: A tagine cured by its own use carries every season in its clay. The roasted bean keeps what it has earned, salts itself, asks the pantry for nothing it cannot already name.
 fortuneMost: The bowl arrives sealed and done. Set it down finished; you don't need anyone's notes to know it holds.
 fortuneMost2: The leak was fixed before anyone clocked it was leaking. That's the quiet competence you salted into yourself, and it's earned.
@@ -18,15 +23,15 @@ fortuneLow2: Solitude can cure thin, like a tagine used too little. Gather a few
 fortuneLeast: Let someone else's worse idea win the night. That's the one that becomes a story — the company was the point, not the plan.
 fortuneLeast2: The meal chosen by many hands beats the one you'd have made alone, even when yours was better.
 facetMostTitle: One Hand, One Mortar
-facetMost: You finish the work before you mention it; the bowl arrives sealed, and the asking-for-feedback step gets quietly skipped.
+facetMost: The car dies on a dark verge miles from anywhere. Phone in pocket, you pop the hood first — there's a way through this that's yours to find before anyone's number gets dialled.
 facetHighTitle: The Lemon Ripening Alone
-facetHigh: When the bill comes wrong you fix it yourself — call placed, receipt kept — rather than wait on someone else's pace.
+facetHigh: A foreign city, not a word of the language between you and the right train. The map and the menu are puzzles you'd sooner crack solo than flag a stranger to solve.
 facetMidTitle: The Bean Carrying Its Own Oil
-facetMid: Tired, you push through the last hour without naming it; the body's complaint is information for you, not a request for rescue.
+facetMid: The neighbour reaches for the other end of the heavy box on the fourth-floor landing. Wave the arm off; take the stairs in your own slow halves.
 facetLowTitle: Coriander Beside Caraway
-facetLow: You text the friend before the long evening, gather a small circle around the pot — solitude tastes thin to you, and you trust that instinct.
+facetLow: There's far too much snow on the path for one back. Let the neighbour who keeps offering actually pitch in — and find the company on the shovel suits you.
 facetLeastTitle: Many Hands on the Lid
-facetLeast: You decide what's for dinner by asking; the meal you'd make alone interests you less than the one chosen together.
+facetLeast: Here's a knot you could untangle perfectly well by yourself. You'd still rather pull three people in and let the answer arrive as everyone's.
 question: You're moving flat next weekend and a friend, unprompted, offers their van and an afternoon. You'd already half-planned to do it in three trips by yourself. You...
 answerMost: thank them, say you've got it, and drive the three trips
 answerHigh: accept the van, drive it yourself, return it with the tank full
@@ -38,11 +43,6 @@ rorschachHigh: an anvil squared on its block
 rorschachMid: a bull's head lowered between two horns
 rorschachLow: a rock with two hands reaching over it
 rorschachLeast: a vessel with both handles open for lifting
-facetMostTags: [kidney, cannellini, fava]
-facetHighTags: [kidney, cannellini]
-facetMidTags: [kidney, cannellini]
-facetLowTags: [edamame, fava]
-facetLeastTags: [edamame, fava, green]
 ---
 
 Peri-Peri Navy Beans are the Bean Zodiac's most self-reliant — the ones who already fixed the leak before anyone noticed it was leaking, who carry the cash for the cab and the spare key and the painkillers nobody else thought to bring. Ask them how the week's been and you get "fine"; the actual answer would involve admitting a logistics problem they already solved on Tuesday.

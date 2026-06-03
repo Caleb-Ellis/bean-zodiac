@@ -6,6 +6,11 @@ form: smoked
 trait: liminal
 dish: Smoked chickpea broth with bitter cress, unresolved.
 quote: Not all those who bean are lost.
+creature: will-o-the-wisp
+friendlyBeans: [fava, cannellini]
+antiBeans: [mung, navy]
+friendlyForm: roasted
+antiForm: roasted
 seasonalFortune: A season spent at the lip of the bowl. Smoke loiters above the cress, the broth half-claimed; the cook lingers in doorways, neither leaving the kitchen nor sitting down.
 fortuneMost: Coat still on, unhurried, at home on the threshold. You fit everywhere because you've promised nowhere, and that lightness is luck, not loss.
 fortuneMost2: You're already half-gone from the thing you only just reached. Don't fight it — from the edge you read the whole gathering clearer than anyone sunk in the middle of it.
@@ -18,15 +23,15 @@ fortuneLow2: You keep one window cracked, the way you do, just in case. Shut it 
 fortuneLeast: The threshold has gone cold from all the hovering. In or out — and the door shutting behind you, the move you've ducked for years, is the warm one.
 fortuneLeast2: Shoes off, and you ask whose record is playing. A closed door isn't a trap. It's how a place finally gets to keep you.
 facetMostTitle: Present in Every Corner
-facetMost: Your address is a forwarding one; your week, a series of thresholds.
+facetMost: A lease renewal slides across the desk, two years for a better rate. You take the month-to-month at the worse one, keeping the road open under your feet.
 facetHighTitle: Cress on One Side Only
-facetHigh: You arrive at gatherings coat-on, lean against the doorframe, and leave before anyone asks where you've been staying.
+facetHigh: The team is naming a "this is who we are" thing — a motto, a colour, a standing ritual. You float a joke that dodges the vote and keep yourself uncommitted to all of it.
 facetMidTitle: The Window Kept Cracked
-facetMid: Half your messages sit unsent in drafts — read, considered, still hovering between the fire and the reply.
+facetMid: A club you actually like wants you on the roster, badge and all. You sign up as a drop-in guest, in for the good nights, on no list that expects you back.
 facetLowTitle: Broth Poured, Bowl Chosen
-facetLow: You sleep in the same bed each night, keep one mug, and answer questions about your plans in completed sentences.
+facetLow: A tattoo you've sketched for years sits ready at the artist's. You go in and get it inked, letting one mark settle the question for good.
 facetLeastTitle: Smoke Gone Cold
-facetLeast: By Tuesday the calendar is inked through to Sunday; the door behind you closes, and you do not check the latch.
+facetLeast: A volunteer crew needs a captain for the whole season, no subbing out. You put your hand up, take the clipboard, and own every week of it.
 question: At a friend's housewarming, someone offers you the comfy chair by the fire. You...
 answerMost: thank them and stay by the door with your coat on
 answerHigh: perch on the arm and keep one eye on the hallway
@@ -38,11 +43,6 @@ rorschachHigh: two figures stalled at the doorway, neither in
 rorschachMid: two boulders set apart on the heath
 rorschachLow: two friends pulled close at a table
 rorschachLeast: two hounds curled together by the hearth
-facetMostTags: [pinto, cannellini, black]
-facetHighTags: [pinto, cannellini]
-facetMidTags: [pinto, cannellini]
-facetLowTags: [fava, edamame]
-facetLeastTags: [fava, edamame, green]
 ---
 
 Charcoal Chickpeas are the Bean Zodiac's most liminal. They arrive at the party with their coat on and lean in the doorway, fully at ease in a room they have no intention of fully entering. They fit everywhere precisely because they've committed to nowhere; the box of books gets unpacked, the box marked kitchen stays taped shut for a year.

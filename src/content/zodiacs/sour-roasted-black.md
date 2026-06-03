@@ -6,6 +6,11 @@ form: roasted
 trait: earnest
 dish: Sopa de frijol negro con tomatillo asado - black bean soup with roasted tomatillos and lime crema
 quote: The importance of being bean.
+creature: spaniel
+friendlyBeans: [adzuki, navy]
+antiBeans: [edamame, green]
+friendlyForm: boiled
+antiForm: fried
 seasonalFortune: Roasted black beans hold the pot's lowest heat. Their husks blacken off; what stays is the part that meant every word.
 fortuneMost: This turn the husk burns off and only the meant part stays. Lead with the sentence you'd usually bury three paragraphs down.
 fortuneMost2: Someone leaves a conversation with you and feels met for the first time in weeks. That's the gift moving toward you.
@@ -18,15 +23,15 @@ fortuneLow2: Let the joke carry it this once. The sincere thing keeps, and not e
 fortuneLeast: A gentler shape can hold the same truth and land far easier — the softening only pinches because you've never trusted it before.
 fortuneLeast2: Let the laugh land and hold the deeper thing back — it keeps, even if keeping it feels like a small betrayal of the bean you are.
 facetMostTitle: The Broken Broth
-facetMost: You type the sentence and send it. No softening pass, nothing tucked under a kinder word.
+facetMost: A street musician finishes a song to a thin, distracted crowd. You stop, look him in the eye, and tell him exactly what it did to you.
 facetHighTitle: Charred Tomatillo
-facetHigh: At the long table you give the verdict a charred tomatillo gives — sharper than the flesh beneath.
+facetHigh: Was the trip really worth it? The easy laugh sits right there — and you reach past it for the answer that costs you something to say.
 facetMidTitle: Lime Over Rough Edges
-facetMid: You show the draft before it's finished; the sharp places stay visible, nothing smoothed in advance.
+facetMid: The room has gone all wisecracks and no one's said the real thing. You're the one who lets the joke drop and goes first.
 facetLowTitle: The Cooled Bowl
-facetLow: Surfaces wiped, corners squared. You prefer a room that has settled before anyone walks in.
+facetLow: A near-stranger on the bus asks how you've been. Warm, vague, "can't complain" — and you keep the unguarded version for someone who's earned it.
 facetLeastTitle: Crema Over the Tart Place
-facetLeast: An apology owed becomes a kindness offered instead — softened until the edge forgets itself.
+facetLeast: There's a sincere thing you could say and a lighter shape it fits just as well. You let the laugh carry it and hold the heavy version back.
 question: At a friend's leaving drinks the room goes round saying something nice, and it lands on you. You...
 answerMost: say the thing you actually meant to say, voice cracking a little
 answerHigh: speak plainly about what they were like to know
@@ -38,11 +43,6 @@ rorschachHigh: a toad mid-hop, eyes lifted upward
 rorschachMid: a beetle with two antennae raised
 rorschachLow: a face in profile glancing aside, one eye narrowed
 rorschachLeast: a clenched fist with the thumb tucked in
-facetMostTags: [cannellini, butter, mung]
-facetHighTags: [cannellini, butter]
-facetMidTags: [cannellini, butter]
-facetLowTags: [green, fava]
-facetLeastTags: [green, fava, edamame]
 ---
 
 Chimichurri Black Beans are the Bean Zodiac's most earnest — the ones who answer "how are you" and then actually answer it. The compliment isn't deflected, the condolence isn't dressed up as a joke, the table goes quiet for a beat because somebody finally said the thing out loud. People leave conversations with them feeling met.

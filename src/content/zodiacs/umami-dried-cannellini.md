@@ -6,6 +6,11 @@ form: dried
 trait: distinguished
 dish: Ribollita - dried cannellini and bread soup with Parmesan rind and lacinato kale.
 quote: A bean is known by the company it keeps.
+creature: stag
+friendlyBeans: [edamame, pinto]
+antiBeans: [adzuki, butter]
+friendlyForm: smoked
+antiForm: roasted
 seasonalFortune: A pot left overnight thickens past stew into something with a name. The season rewards what has been kept long enough to be asked for by it.
 fortuneMost: Your bearing reaches the room before you do. Skip the introduction.
 fortuneMost2: A thing you made years ago is being quoted somewhere you'll never see. Standing like that was never claimed; it accrued.
@@ -18,15 +23,15 @@ fortuneLow2: Give your plain name with no title attached and see who you become 
 fortuneLeast: Lead with the ordinary morning you had, not the line off the résumé. Some rooms meet you better undecorated, even if you feel oddly unarmoured doing it.
 fortuneLeast2: Spend on the bright thing in the window and keep nothing back for weather. Let an evening be light instead of legacy, just this once.
 facetMostTitle: The Saved Rind
-facetMost: You sign nothing, and the room knows the hand anyway.
+facetMost: There's a coat-check ticket but no name on the work you've left behind. Let it go out unsigned — whoever made it, the bearing will say so without you.
 facetHighTitle: Bread Torn Into Broth
-facetHigh: You walk into a borrowed room and, without rearranging, leave it composed.
+facetHigh: At a crowded gallery opening you say almost nothing and drift early toward the exit. The clutch of people you spoke to keep glancing back at where you stood.
 facetMidTitle: The Kale That Steeps Longest
-facetMid: You speak less than the others at the long table and are quoted more.
+facetMid: A market trader you've never met sets a stool out the moment you approach the stall. Whatever rumour walks ahead of you, you'd rather it stayed quiet and let you just shop.
 facetLowTitle: Scattered Crusts
-facetLow: You hand over the work, take the fee, and feel no urge to keep a copy for the shelf.
+facetLow: Could you do a thing and want no plaque for it? You repaint the community hall over a weekend, hand back the keys, and don't mention it again.
 facetLeastTitle: Broth at First Boil
-facetLeast: You spend on the bright thing in the window; no cellar kept, no rind saved for weather.
+facetLeast: New town, nobody knows you, and the first person you meet asks who you are. Out comes the whole résumé — you watch their eyebrows, hoping for the lift.
 question: A stranger at a dinner asks what you do. The answer involves a few things a careful listener would recognize. You...
 answerMost: say a plain sentence about your morning and let the rest stay offstage
 answerHigh: name the work in general terms and change the subject before the follow-up
@@ -38,11 +43,6 @@ rorschachHigh: a wax seal pressed above its crest below
 rorschachMid: a potato resting on a smaller potato
 rorschachLow: a snowman's head fallen beside its body
 rorschachLeast: a clod of dirt dropped near another clod
-facetMostTags: [navy, black, pinto]
-facetHighTags: [navy, black]
-facetMidTags: [navy, black]
-facetLowTags: [fava, edamame]
-facetLeastTags: [fava, edamame, green]
 ---
 
 Aged Cannellini Beans are the Bean Zodiac's most distinguished — the bearing arrives in the room before the introduction does. They sign things modestly, leave the credentials out of the first paragraph, and let the work do the announcing, because the work has been doing it for a long time and is good at it. Strangers at a long table find themselves quoting them later without remembering exactly why.

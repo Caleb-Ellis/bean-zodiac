@@ -6,6 +6,11 @@ form: fried
 trait: efficient
 dish: Butter bean fritters with preserved lemon aioli - crispy pan-fried butter bean patties with a sharp citrus dipping sauce.
 quote: Give me six hours to chop down a bean and I will spend the first four sharpening the axe.
+creature: worker bee
+friendlyBeans: [navy, adzuki]
+antiBeans: [pinto, mung]
+friendlyForm: boiled
+antiForm: fermented
 seasonalFortune: Days clarify themselves the way hot oil clarifies batter — what belongs crisps, what doesn't lifts away. Little is spent that isn't asked for.
 fortuneMost: Three things matter, in order; the fourth is costume. The day crisps clean the way a fritter drops in already shaped.
 fortuneMost2: Errands fold into one loop and the afternoon comes out tidy. The hours you save are yours.
@@ -18,15 +23,15 @@ fortuneLow2: Peel the garlic you could have crushed. The smell and the patience 
 fortuneLeast: Let an empty hour stay empty. Leaving it unpacked will feel like a clean pan left out exposed — sit with that small discomfort and let the hour be nothing.
 fortuneLeast2: A conversation drifts past the point where you'd have wrapped it, and the best of it is hiding in the drift. Staying costs you the next thing on the list. The list will keep.
 facetMostTitle: The Hot, Empty Pan
-facetMost: You answer in the fewest words the message can survive, then close the tab before the oil cools.
+facetMost: Packing for a week away, one small bag. Everything that earns its place goes in and the rest stays on the bed.
 facetHighTitle: Heat Where It Cooks
-facetHigh: You sequence the hour so nothing waits on anything, and leave the room exactly when the work is done.
+facetHigh: A flat tyre on a quiet road. Before anyone else has finished sighing, you've got the jack out and the spare lined up in order.
 facetMidTitle: The Knife's Reach
-facetMid: Rooms arranged so you never cross them twice — every object placed where the next gesture finds it.
+facetMid: One heavy trip up the stairs or two easy ones with the groceries — you take the single brutal haul, bags cutting your hands, every time.
 facetLowTitle: Aioli, Drop by Drop
-facetLow: You cook the long way on a weeknight, peeling garlic you could have crushed, and the kitchen smells like it.
+facetLow: There's a faster way home and a longer one along the water. Tired as you are, you turn toward the water for no reason but the walk.
 facetLeastTitle: Zest Past Its Time
-facetLeast: Conversations run long with you; nothing wraps up that could be lingered over, and friends learn to bring a chair.
+facetLeast: A market with no list and nowhere to be. You wander every aisle twice, doubling back for a smell, in no hurry to be anywhere but here.
 question: A travel booking page, four tabs open, and ninety minutes until the price tier changes. You...
 answerMost: close three tabs, book the one that meets the brief, move on
 answerHigh: compare the two strongest on the things that actually matter and pick within ten minutes
@@ -38,11 +43,6 @@ rorschachHigh: a river stone worn down to one smooth oval
 rorschachMid: a potato dug fresh from the soil
 rorschachLow: a balled-up sweater shoved in a drawer
 rorschachLeast: a crumpled draft tossed half-open in the bin
-facetMostTags: [navy, edamame, black]
-facetHighTags: [navy, edamame]
-facetMidTags: [navy, black]
-facetLowTags: [adzuki, mung]
-facetLeastTags: [adzuki, mung, pinto]
 ---
 
 Agrodolce Butter Beans are the Bean Zodiac's most efficient — they treat the day as a counter to be cleared and most days they clear it. Errands fold into one route, replies arrive in the same minute the question lands, and the meeting they were dreading ends six minutes early because they brought the agenda already written.

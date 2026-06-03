@@ -6,6 +6,11 @@ form: fermented
 trait: whimsical
 dish: Green bean elderflower shrub — blanched green beans in a sweet drinking vinegar of fermented honey and elderflower, finished with sparkling water.
 quote: One bean that I had a long time ago.
+creature: pixie
+friendlyBeans: [pinto, kidney]
+antiBeans: [butter, black]
+friendlyForm: fried
+antiForm: boiled
 seasonalFortune: A season of slow bubbles and crooked sweetness. The honeyed jar works in private; what surfaces rarely arrives by the road anyone predicted.
 fortuneMost: Take the wrong bus on purpose. Something lovely is waiting around stop four that the right route would have hidden from you.
 fortuneMost2: Pour from the notebook of ideas no project will ever hold. They were never meant to be useful — that was always the point.
@@ -18,15 +23,15 @@ fortuneLow2: One sentence, no detour, and let the moment move on. The straight l
 fortuneLeast: The plain sentence, maybe a smiley after. Leave the flourish out this once, even as your hand reaches for it.
 fortuneLeast2: Name the thing by its proper name. People thank you for the shortcut, and you mourn the long way only a little.
 facetMostTitle: The Jar That Hisses Awake
-facetMost: You keep notebooks for ideas no project will ever hold, and pour from them anyway.
+facetMost: There's a little grey box on the form wanting your job title. You fill it with something gloriously untrue, just to see the box hold it, and submit.
 facetHighTitle: Fizz Climbing Crooked
-facetHigh: Your sentences detour through three rooms before settling, and friends learn to wait for the landing.
+facetHigh: A child asks why the moon follows the car, and the dull true answer is right there. You hand them the better one instead — the moon's curious, it's coming along to see where you go.
 facetMidTitle: Elderflower Through the Shrub
-facetMid: You answer a question with the second question it suggested, and the room follows.
+facetMid: A puddle on the path is shaped exactly like a country that doesn't exist. You stop, name its capital, and decide what they export before walking on.
 facetLowTitle: Beans Snapped Clean
-facetLow: You name what you came to name in one sentence and the cab pulls away on time, no detour requested.
+facetLow: The shelf needs alphabetising and there's a perfectly good system already. You do it the boring, sensible way and skip the secret order only you'd ever decode.
 facetLeastTitle: Vinegar, Straight
-facetLeast: You name what you want by its proper name; people thank you for the shortcut.
+facetLeast: A lost tourist needs directions and your mind's already inventing a scenic, ridiculous route. Give them the plain three turns instead, no embellishment slipped in.
 question: You sit down with the spreadsheet you've been avoiding for a week and within four minutes you're naming the cells out loud. You...
 answerMost: open a new tab and start a poem made of the column headers
 answerHigh: let the riff run for ten minutes, then come back
@@ -38,11 +43,6 @@ rorschachHigh: a sea anemone waving its tangle of tendrils
 rorschachMid: an ink splatter throwing out ragged spokes
 rorschachLow: a pinecone with its scales drawn shut
 rorschachLeast: a cannonball sitting still in the grass
-facetMostTags: [pinto, adzuki, kidney]
-facetHighTags: [pinto, adzuki]
-facetMidTags: [adzuki, pinto]
-facetLowTags: [butter, mung]
-facetLeastTags: [butter, mung, black]
 ---
 
 Funky Green Beans are the Bean Zodiac's most whimsical — the ones whose group-chat messages take three left turns before landing somewhere unexpectedly sweet. Their kitchen drawer holds a small ceramic owl, a half-finished poem on a napkin, and a recipe rewritten in colour. The world they walk through is denser and stranger than the one most people are in, and the people lucky enough to be in earshot get to visit it on weekday afternoons.

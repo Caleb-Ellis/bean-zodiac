@@ -6,6 +6,11 @@ form: boiled
 trait: sincere
 dish: Adzuki bean soup with umeboshi and ginger broth.
 quote: This above all - to thine own bean be true
+creature: flat-coated retriever
+friendlyBeans: [navy, butter]
+antiBeans: [fava, black]
+friendlyForm: roasted
+antiForm: smoked
 seasonalFortune: A season pickled in its own salt. The bare broth does the carrying; the cured plum colours every spoonful without needing to be tasted directly.
 fortuneMost: The warm thing wants saying. Say it clean, no apology stirred in to thin it.
 fortuneMost2: Good news is coming, and you'll feel the whole of it — nothing held back for someone you've decided deserves it more.
@@ -18,15 +23,15 @@ fortuneLow2: Not every true thing has to be said to stay true in you. Fold this 
 fortuneLeast: A stranger offers a kindness and asks only a nod for it. You'll want to test whether it was meant. Don't — take it as given.
 fortuneLeast2: A warm word reaches you whole. Let it pass for warmth; it won't curdle for going unchecked.
 facetMostTitle: Salt and the Slow Red
-facetMost: You name what you feel by its plainest word and refuse the longer one offered as a kindness.
+facetMost: A neighbour asks how you really are, and the easy version is right there on your tongue. You hand back the plain one instead.
 facetHighTitle: Ginger, Slice by Slice
-facetHigh: You let people see you in increments, but each increment is the same bean — nothing reserved for later.
+facetHigh: No warming up, no measured doses. A stranger on a long bus ride asks something blunt and gets the same answer an old friend would.
 facetMidTitle: The Pot Past Appearances
-facetMid: You cook the thing you actually want to eat, and serve it without arranging the bowl for anyone's photograph.
+facetMid: The dish you actually want to make is the unphotogenic one. You set it down on the table as it is.
 facetLowTitle: Umeboshi Placed for Colour
-facetLow: You stage the rooms you live in; what reads as warmth was sourced for it.
+facetLow: Before the guests arrive you move the lamp, angle the books, leave one thing out that suggests a life you'd like read into the place.
 facetLeastTitle: A Bright Surface, No Broth
-facetLeast: At the party you laugh at the joke you didn't quite catch, in the register the room is using, and feel the lag afterward in the cab.
+facetLeast: The whole table laughs at a joke that went past you. You laugh in the same key and let it carry you, the missed thread an open question nobody needs answered.
 question: A friend shows you a baby photo and waits for your reaction. The baby looks, objectively, like a small startled potato. You...
 answerMost: say "oh, what a face" and mean it warmly
 answerHigh: pick the one true thing — the hands, the hair — and say only that
@@ -38,11 +43,6 @@ rorschachHigh: a hen settled flat with nothing tucked away
 rorschachMid: a fat fish curling its tail to the left
 rorschachLow: a pufferfish puffed up well past its size
 rorschachLeast: a paper fish kite stuffed to look caught
-facetMostTags: [butter, mung, cannellini]
-facetHighTags: [butter, mung]
-facetMidTags: [butter, mung]
-facetLowTags: [edamame, fava]
-facetLeastTags: [green, edamame, fava]
 ---
 
 Brined Adzuki Beans are the Bean Zodiac's most sincere — they celebrate only what they actually feel, and they feel without dimming. Hand them good news and the warmth lands without the usual buffering; you can tell from the pause before they answer that they're checking the gladness is real before they spend it, and when they spend it there's no holdover, no held-back portion saved for someone more deserving later.

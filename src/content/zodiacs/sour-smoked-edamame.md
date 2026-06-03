@@ -6,6 +6,11 @@ form: smoked
 trait: surgical
 dish: Dashi-smoked edamame with ponzu - edamame cold-smoked over kombu and served in citrus soy
 quote: First, do no bean.
+creature: kingfisher
+friendlyBeans: [cannellini, green]
+antiBeans: [mung, chickpea]
+friendlyForm: dried
+antiForm: roasted
 seasonalFortune: A season for cold smoke and clean citrus. The pod gives up what it has and nothing more; ponzu finds the seam an honest blade already knew.
 fortuneMost: One sentence, and out. The clause you'd add after is you flinching, and they'll taste it like smoke pulled too thin.
 fortuneMost2: A friend arrives carrying the long worry, and the single line that shrinks it is already in your mouth. The clean cut is the kindness.
@@ -18,15 +23,15 @@ fortuneLow2: Leave a few things open behind you. The unfinished road will nag at
 fortuneLeast: They've started routing around you to someone slower. Slower isn't better — only less obviously a blade. Sit in being the warm, unhurried one and see if you actually mind.
 fortuneLeast2: A long answer to a small question. The lingering grates, and it's its own kind of care.
 facetMostTitle: Kombu, Smoke Pulled Thin
-facetMost: A friend brings you a long worry; you give back one sentence and the worry is, for now, smaller than it was.
+facetMost: A panicking colleague is mid-spiral about a deadline. One line that cuts the knot is sitting ready in your mouth, and you say it and nothing after.
 facetHighTitle: Ponzu at the Split
-facetHigh: You leave a party at the moment you came for, coat already buttoned at the door.
+facetHigh: A tangled task could be done thoroughly or done in two precise moves that solve the actual problem. Two moves, and you call it finished.
 facetMidTitle: Smoke Where the Salt Holds
-facetMid: You return the borrowed book on the day named, no note, no apology, no preamble.
+facetMid: Someone hands you a job that needs a decision by end of day. You make it in the first minute and spend none of the others second-guessing.
 facetLowTitle: The Pod's Careful Opening
-facetLow: You let three books lie open across the floor for a week, each at the page that might still matter, none yet finished.
+facetLow: A project's nearly done and the tidy thing is to close it out tonight. Instead you leave a few threads loose on purpose and walk away with them dangling.
 facetLeastTitle: Citrus Pooled Beneath the Shells
-facetLeast: You give long answers to small questions and find the listener better for it.
+facetLeast: A child asks why the sky goes dark. You take the slow road through it — the whole long answer, none of it trimmed.
 question: A friend wants to break the news of a breakup over coffee and asks for your honest read. You've seen this one coming for months. You...
 answerMost: tell them in one sentence and pay for the coffee
 answerHigh: name the two things that broke it and stop talking
@@ -38,11 +43,6 @@ rorschachHigh: a peach halved precisely along its cleft
 rorschachMid: a broad leaf notched at the stem
 rorschachLow: a cushion slumping soft under its own weight
 rorschachLeast: dough spreading shapeless across the board
-facetMostTags: [navy, black, kidney]
-facetHighTags: [navy, black]
-facetMidTags: [navy, black]
-facetLowTags: [adzuki, butter]
-facetLeastTags: [adzuki, butter, mung]
 ---
 
 Cured Edamame are the Bean Zodiac's most surgical — the reply is written before the question has finished arriving. They are the friend who, when you finally bring up the thing you've been circling, says the one sentence that ends it; the colleague whose two-line email closes a thread that had been on fire for two days. The relief of being handled this efficiently is real, and they trade on it.

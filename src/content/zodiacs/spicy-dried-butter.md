@@ -6,6 +6,11 @@ form: dried
 trait: volatile
 dish: Gigantes plaki - Greek baked giant beans with dried Calabrian chili and preserved lemon.
 quote: Still waters bean deep.
+creature: yellowjacket
+friendlyBeans: [edamame, pinto]
+antiBeans: [adzuki, cannellini]
+friendlyForm: smoked
+antiForm: roasted
 seasonalFortune: Chili oil pools at the dish's edge; preserved lemon waits in its salt. Life arrives in long flat hours interrupted without warning by a hot, splitting minute.
 fortuneMost: The fourth small thing lands and the whole room is suddenly your weather. The flash is honest — just don't be surprised by it again.
 fortuneMost2: A long flat sky, and then the one hot splitting minute nobody saw stacking up. Aim the storm before it aims itself.
@@ -18,15 +23,15 @@ fortuneLow2: Name the heat to yourself and walk it off down the road. You lose t
 fortuneLeast: Some of it earns no spark at all. Let the small thing draw a flat glance and stay flat; you'll sleep better for the one you let pass.
 fortuneLeast2: Tending every temperature is a habit, not a duty, and it's wearing you thin. Leave the kitchen and let the hour cook itself.
 facetMostTitle: The Clay Pot at Blister
-facetMost: You change the plan at the doorway and let everyone follow the new heat.
+facetMost: Third jam in a row, and something in you goes from zero to white. Up out of the chair, tray yanked open, before the thought even catches up.
 facetHighTitle: Calabrian Flake Mid-Sentence
-facetHigh: You sharpen mid-conversation, the room tilts, and the friend across the table picks up their glass slower.
+facetHigh: A clerk keeps you waiting while the line behind you grows. The next question comes out a half-degree hotter than you chose it.
 facetMidTitle: The Patient Rind
-facetMid: You notice the weather change in your own chest an hour before anyone mentions the wind.
+facetMid: Twice the waiter forgets your order. The warmth rises, you decide it's a small thing, and the third asking goes out with none of the heat on it.
 facetLowTitle: Covered Pot, Low Heat
-facetLow: Your rooms keep their order — chairs where they sat last week, the lamp angled the same.
+facetLow: Firecrackers go off under your window at dawn, again. You roll over and find sleep on the other side of it.
 facetLeastTitle: Oil Set Cold
-facetLeast: Notifications stack into the hundreds and the screen draws the same flat glance each time.
+facetLeast: The flight is cancelled. Then the rebooking is cancelled too. Read the screen, shrug, go find a coffee — not one of these earns a spark.
 question: A small irritation has been building all morning — three minor things in a row. The fourth lands at lunch. You...
 answerMost: snap, clearly, at the person nearest, and feel the room recalibrate
 answerHigh: say one short sentence with more edge than you meant and let it sit
@@ -38,11 +43,6 @@ rorschachHigh: a cat arched the instant before it bolts
 rorschachMid: a small dog standing, tail curled back
 rorschachLow: a hound dozing curled on the floor
 rorschachLeast: a sleeping cat settled into a loose knot
-facetMostTags: [kidney, navy, mung]
-facetHighTags: [kidney, navy]
-facetMidTags: [kidney, navy]
-facetLowTags: [edamame, black]
-facetLeastTags: [edamame, black, pinto]
 ---
 
 Sichuan Butter Beans are the Bean Zodiac's most volatile — and the last to notice it about themselves. For long flat hours they are the easiest person in the room, settled into a chair, refilling tea, asking the right slow questions. Then a small thing — a misplaced word, the fourth interruption — and the temperature is suddenly everyone's problem, including theirs.

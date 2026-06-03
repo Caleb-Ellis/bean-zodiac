@@ -6,6 +6,11 @@ form: smoked
 trait: languid
 dish: Southern butter beans with smoked ham hock and pot liquor.
 quote: Slow and bean wins the race.
+creature: leopard
+friendlyBeans: [black, navy]
+antiBeans: [green, kidney]
+friendlyForm: boiled
+antiForm: fried
 seasonalFortune: The season holds at a low simmer. Smoke pools in the rafters and refuses to leave. Days thicken the way pot liquor thickens — by sitting, not by stirring.
 fortuneMost: The long story keeps all three digressions because you wait every one out, and it pours sweeter for it, like pot liquor that thickened by sitting.
 fortuneMost2: Good things come to you slow — the unhurried kind that thicken by sitting, not by stirring.
@@ -18,15 +23,15 @@ fortuneLow2: Arrive a little ahead and pour for the others first. Getting there 
 fortuneLeast: A taxi idles at the curb and the choice is yours before the announcement finishes. Quick isn't always worse, even when it costs you the bench.
 fortuneLeast2: Set the phone down between sentences — though the faster reply might be the kinder one here, and you'll resent that it's true.
 facetMostTitle: The Ham Hock's Hours
-facetMost: A friend at lunch tells the long story with three digressions; you let every one of them happen, and the story is better for it at the end.
+facetMost: Stretch out on the warm dock boards — the ferry's an hour off, and the hour is the whole point of it.
 facetHighTitle: Smoke to the Marrow
-facetHigh: You sleep until the body finishes its work; alarms strike a room that has already left.
+facetHigh: The bath's gone lukewarm and your fingers have gone soft, and still you stay, in no rush to become a person with a towel.
 facetMidTitle: Pot Liquor at the Bottom
-facetMid: You leave the book face-down on the arm of the chair, knowing the page is keeping itself.
+facetMid: A jigsaw sits half-done. You drift past, set one piece, wander off, content to leave the rest for whenever.
 facetLowTitle: Beans at a Rolling Boil
-facetLow: You arrive first, refill the glasses, ask the second question before the first answer cools.
+facetLow: The group can't decide where to eat. You pick a place, move them out the door, and everyone's fed within the hour.
 facetLeastTitle: The Untended Pot
-facetLeast: You eat lunch at your desk, take the stairs because the lift is two beats slower, and feel the day count its own minutes.
+facetLeast: Light turning amber up ahead — you put your foot down to catch it rather than wait out the next.
 question: Your train is delayed by forty minutes on the platform. You...
 answerMost: settle on a bench and let the time pass without filling it
 answerHigh: get a coffee and read a few pages of whatever's in your bag
@@ -38,11 +43,6 @@ rorschachHigh: a sleeping cat sprawled wide on the floor
 rorschachMid: two landmasses spread across an old map
 rorschachLow: a hawk with both wings flung open
 rorschachLeast: a tarp snapping taut in a gale
-facetMostTags: [pinto, adzuki, cannellini]
-facetHighTags: [pinto, adzuki]
-facetMidTags: [pinto, adzuki]
-facetLowTags: [fava, green]
-facetLeastTags: [fava, green, edamame]
 ---
 
 Hickory Butter Beans are the Bean Zodiac's most languid — they treat hurry as something other people invented. The reply comes when the reply comes; the dinner runs an hour long because nobody at the table has anywhere to be; the long story gets its full setup, every digression intact, and lands sweeter for it.

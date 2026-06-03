@@ -6,6 +6,11 @@ form: boiled
 trait: discerning
 dish: Cannellini and broccoli rabe soup.
 quote: The bean you refuse is as important as the bean you accept.
+creature: lynx
+friendlyBeans: [mung, black]
+antiBeans: [fava, butter]
+friendlyForm: fermented
+antiForm: roasted
 seasonalFortune: A season spent tasting before swallowing. The rabe blanched twice, the broth poured off and begun again — what remains has been chosen slowly.
 fortuneMost: The thing you've been politely turning over deserves your no. You don't owe a reason that satisfies anyone.
 fortuneMost2: A clear yes from you is rarer than most people's, and it's coming for something that has truly earned it. When it does, don't dress it down to be polite.
@@ -18,15 +23,15 @@ fortuneLow2: A keeper is hiding past the rough first chapter. Read on a little; 
 fortuneLeast: Keep the ugly mug, the twenty pens, every last bowl. Love them all, and lay your hand on any of it without asking whether it earned the shelf.
 fortuneLeast2: A stranger's enthusiasm is worth catching for its own sake. Take it all in unstrained — stems, rind, leaf — and call the whole bowl good.
 facetMostTitle: Two Changes of Water
-facetMost: You set out the bowls you mean to keep and quietly give the rest away.
+facetMost: Tray of rings tipped out across the velvet, the seller's hand sweeping the lot. One of them goes up to the light; the rest you let go without a flicker.
 facetHighTitle: The Scoured Pot
-facetHigh: You buy slowly, return what disappoints, and own less each year than the year before.
+facetHigh: Waiter still at your shoulder, the table waiting on your verdict for the wine. Hold it a beat, then say it plainly — fine, but not worth the bottle.
 facetMidTitle: Garlic or Nothing
-facetMid: New acquaintances either earn a second meeting or they don't, and you decide early.
+facetMid: Three sentences into a stranger's well-turned charm at a crowded party, and the question's already settling in you — will there ever be a second conversation, or not?
 facetLowTitle: The Rind, the Stem, the Leaf
-facetLow: Every thread stays open, every chat answered; the noise doesn't cost you what it costs others.
+facetLow: Everyone's talking over everyone, six recommendations at once, none of them filtered. Let the whole loud bowl wash in. Take it all, sieve nothing.
 facetLeastTitle: The Unstrained Bowl
-facetLeast: The drawer holds twenty pens, the shelf holds every mug, and you can put your hand on any of them.
+facetLeast: Someone's left a box of cast-offs free on the kerb — chipped jug, odd spoon, a battered lampshade. You scoop up the lot, fond of every piece, never once asking whether it earned the keeping.
 question: A friend hands you a book they loved and asks you to read it. The first chapter is not good. You...
 answerMost: hand it back and say it isn't for you
 answerHigh: read another chapter, then put it down for good
@@ -38,11 +43,6 @@ rorschachHigh: a walnut cracked, the shrivelled half pushed away
 rorschachMid: two rounded pebbles resting near each other
 rorschachLow: two onions kept side by side, neither thrown out
 rorschachLeast: both onions swept into one basket, nothing culled
-facetMostTags: [black, navy, butter]
-facetHighTags: [black, navy]
-facetMidTags: [black, navy]
-facetLowTags: [edamame, fava]
-facetLeastTags: [green, edamame, fava]
 ---
 
 Infused Cannellini Beans are the Bean Zodiac's most discerning — the friend whose recommendation you trust completely, because they've never once pretended to like something they didn't. Their taste is the real thing: they can tell you exactly why the good one is good, and they own a few things they love rather than many they tolerate. To be chosen by them means something, because they choose so little.

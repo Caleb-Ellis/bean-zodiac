@@ -6,6 +6,11 @@ form: boiled
 trait: quiet
 dish: Vietnamese mung bean soup with pork and dried shrimp.
 quote: Silence is a bean's wisdom.
+creature: dormouse
+friendlyBeans: [butter, cannellini]
+antiBeans: [green, edamame]
+friendlyForm: smoked
+antiForm: fried
 seasonalFortune: Days pass at the pace of a long simmer; the shrimp give up their salt without fanfare, and rooms grow heavier with what no one bothered to say.
 fortuneMost: The sentence you've cooked down to one line — say it. No greeting, no apology trailing behind it.
 fortuneMost2: Your quiet is about to be the thing a noisy day needs most. Someone will steady themselves on it without quite knowing why.
@@ -18,15 +23,15 @@ fortuneLow2: A little of the day narrated to whoever's nearest, the small grieva
 fortuneLeast: Go first, and not the polished version — the half-cooked one, raw in the middle. Letting them see the unfinished underneath will cost you the cover you usually keep.
 fortuneLeast2: A silent room isn't a fault to mend. Sit in the pause before you rush to fill it — even though leaving it open will feel, to you, like leaving a pot unattended.
 facetMostTitle: The Shrimp's Kept Salt
-facetMost: At the table, you listen through a whole meal and leave with the one thing worth carrying.
+facetMost: A toast is expected and the glasses are raised your way. You give them one short line, no run-up, and sit back down before the warmth of it fades.
 facetHighTitle: Pork Bones in Slow Heat
-facetHigh: A message sits in your drafts for three days; when you finally send it, every extra word is gone.
+facetHigh: A hard thing needs saying and you've boiled it down in your head for days. One more long silence, then it lands in five words where fifty were waiting.
 facetMidTitle: One Column of Steam
-facetMid: You walk into a loud room and the volume drops by a notch, and you have not yet spoken.
+facetMid: At the campfire the laughing dies for a beat when you settle onto the log, though you've not said a word yet. Let the quiet sit and don't scramble to fill it.
 facetLowTitle: The Clattering Ladle
-facetLow: You narrate the whole day to whoever is nearest — the bus, the weather, the small grievance — and the room is warmer for it.
+facetLow: A friend you trust is on the next stool and your day has things in it worth telling. Out loud goes the small grievance, the odd dog you passed, the rain — even the noise of it.
 facetLeastTitle: Shells in Hot Oil
-facetLeast: You finish other people's sentences, answer before the question lands, and a silent room reads to you as a problem to fix.
+facetLeast: A lull opens in the chatter and your skin prickles to plug it. You jump in, finishing a half-formed thought of someone else's before they can.
 question: A meeting turns to you for the take you've been quietly forming for the last twenty minutes. You...
 answerMost: hold the pause, then offer the one sentence that names the thing
 answerHigh: speak briefly, leave the floor open, and let the room continue
@@ -38,11 +43,6 @@ rorschachHigh: a corked bottle with a narrow neck
 rorschachMid: a spinning top resting on its point
 rorschachLow: a hand bell tipped to one side
 rorschachLeast: a trumpet flaring wide at the bell
-facetMostTags: [butter, black, kidney]
-facetHighTags: [butter, black]
-facetMidTags: [butter, black]
-facetLowTags: [fava, edamame]
-facetLeastTags: [fava, edamame, green]
 ---
 
 Dashi Mung Beans are the Bean Zodiac's quietest — walk into a loud room with them and the volume drops by a notch before either of you has spoken. They listen through a whole meal and leave with the one thing worth carrying; the message sits in drafts for three days, and when it finally goes, every extra word is gone with it.

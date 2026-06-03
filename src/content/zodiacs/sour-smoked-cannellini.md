@@ -6,6 +6,11 @@ form: smoked
 trait: piercing
 dish: Ribollita - Tuscan bread soup with cannellini, smoked pancetta, cavolo nero, and red wine vinegar
 quote: The truth will bean you free.
+creature: shrike
+friendlyBeans: [black, mung]
+antiBeans: [adzuki, pinto]
+friendlyForm: dried
+antiForm: roasted
 seasonalFortune: A season for vinegar over smoke, for the bowl that asks a cold question of warm bread. Households eat slower; what was hidden in the broth surfaces.
 fortuneMost: Ask the real question early, not after the long way round. It ends where you'd send it anyway.
 fortuneMost2: You see the bone clean through the soft tissue before anyone else has looked. That early sight is a gift of yours — name what it shows you.
@@ -18,15 +23,15 @@ fortuneLow2: A friend has chosen the road badly. Let it run its course this once
 fortuneLeast: Hold the blade. Let them get there on their own, and watch what they bring back when nobody's been cut on the way in.
 fortuneLeast2: Agree where agreeing costs nothing, and feel how the air eases around you. You'll draw no blood, and you won't miss it as much as you think.
 facetMostTitle: Vinegar Before Salt
-facetMost: You name the thing in the room before anyone else has decided to look at it, and the room rearranges around your sentence.
+facetMost: Two tables over, a couple is having the smiling argument that's really about something else entirely. You can see the real thing under it — and naming it out loud is what you want to do.
 facetHighTitle: Smoke After the Rind
-facetHigh: In a group chat gone sideways you type the line everyone needed and nobody wanted, then put the phone down.
+facetHigh: The eulogy everyone's nodding along to leaves out the part that mattered. There's a truer sentence available, and you're the one inclined to say it.
 facetMidTitle: Cavolo Nero's Honest Dark
-facetMid: You spot the wrong figure on a receipt and say so at the counter, evenly, without softening the question.
+facetMid: A guide is walking the group through a story you know has a hole in it. You raise your hand and ask the question that opens the hole, plainly.
 facetLowTitle: The Bread That Takes the Broth
-facetLow: You let a friend's bad plan run its course; the lesson lands better than the warning would have.
+facetLow: A cousin is about to sink their savings into something you can see will fold. The correction is loaded; you set it down and let them walk in.
 facetLeastTitle: The Rendered Pancetta
-facetLeast: You move through rooms agreeing where agreement costs nothing, and your week is lighter for it.
+facetLeast: Wrong on a small point of fact, the other person is happy and the evening is easy. Letting it stand costs nothing, so you do — and feel the room soften.
 question: Five minutes into a kickoff meeting you've already seen the flaw in the plan that the whole hour is about to be built on. You...
 answerMost: name it now and let the agenda fall apart
 answerHigh: ask the question that exposes it without naming it
@@ -38,11 +43,6 @@ rorschachHigh: a walnut shell cracked down its seam
 rorschachMid: two stones leaning together at a gap
 rorschachLow: two loaves resting against each other warm
 rorschachLeast: two pillows piled soft, dent between them
-facetMostTags: [black, edamame, pinto]
-facetHighTags: [black, edamame]
-facetMidTags: [black, edamame]
-facetLowTags: [green, fava]
-facetLeastTags: [green, fava, edamame]
 ---
 
 Cured Cannellini Beans are the Bean Zodiac's most piercing — they have read your email's subject line and already know what the body should have said. They are the friend who, three sentences into your story, asks the one question the story was carefully arranged around, and the colleague whose comment on the doc reframes the whole document in a single line. People send them work precisely because they want the bone seen through the soft tissue.

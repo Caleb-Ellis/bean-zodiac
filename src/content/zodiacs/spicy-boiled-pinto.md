@@ -6,6 +6,11 @@ form: boiled
 trait: moody
 dish: Frijoles de olla - pinto beans simmered with chile de árbol.
 quote: I am not moody — I am a bean with feelings.
+creature: tomcat
+friendlyBeans: [adzuki, green]
+antiBeans: [navy, black]
+friendlyForm: roasted
+antiForm: smoked
 seasonalFortune: Their season runs hot then quiet, the pot never the same twice. A chile lifts the broth at noon; by evening it has gone inward, dark and brooding.
 fortuneMost: You feel the weather two rooms off, before anyone else has shivered. Name it early — that warning is a thing only you can give.
 fortuneMost2: Say your weather out loud, one word, no editorial. The people near you have been guessing a while, and they'd rather know.
@@ -18,15 +23,15 @@ fortuneLow2: A wave of heat finds you and you keep stirring, letting it roll pas
 fortuneLeast: Step off into the night air for a few minutes, then come back. No one needs you to carry the whole evening — though stepping away will feel like dropping it.
 fortuneLeast2: Sometimes the sting you read in was never sent. Take the words at face value and answer the plain thing underneath — even when the chile in you swears otherwise.
 facetMostTitle: Storm Before the Wind
-facetMost: You feel weather two rooms away and name it before anyone else has shivered.
+facetMost: A grey sky out the window tips something in you by mid-morning. The whole day takes its color from it, and you let it.
 facetHighTitle: The Kettle's Slow Tick
-facetHigh: You reread the message four times. By the third pass the chile has bloomed in your chest and you reply hotter than you meant.
+facetHigh: A song comes on in the supermarket and your chest floods before you've placed why. Let it sweep you — eyes prickling there in the cereal aisle.
 facetMidTitle: Halfway Through the Stir
-facetMid: You taste it and start over — more chile, less salt, a different dinner entirely from the one you began.
+facetMid: You set out for a walk in one frame of mind and round the corner in another. The route bends to wherever the mood's drifted by the second block.
 facetLowTitle: The Same Beans, the Same Hour
-facetLow: Heat finds you and rolls off; you keep stirring.
+facetLow: A flash of irritation rises at a slow cashier and just as quickly passes. You stay pleasant and don't let it reach your face.
 facetLeastTitle: The Even Laugh
-facetLeast: At the long table you laugh at every joke, the chile no warmer in you than in anyone else. Friends call you steady.
+facetLeast: Same level nod for the good news and the bad, both landing on the same afternoon — and on you go, unchanged either way.
 question: A short message from a friend lands. Reread once and it's neutral; reread again and it stings. You...
 answerMost: type back what's actually in your chest and send it before the heat drops
 answerHigh: draft the hot version, sit with it ten minutes, send a cooler one
@@ -38,11 +43,6 @@ rorschachHigh: a dark goblet brimming over its lip
 rorschachMid: a wide vase with two curling handles
 rorschachLow: a steady cup set level on a table
 rorschachLeast: a bright chalice catching the noon light
-facetMostTags: [navy, edamame, black]
-facetHighTags: [navy, edamame]
-facetMidTags: [navy, edamame]
-facetLowTags: [adzuki, butter]
-facetLeastTags: [adzuki, butter, mung]
 ---
 
 Braised Pinto Beans are the Bean Zodiac's moodiest — bright at noon, dark by evening, the pot never quite the same twice. They feel the weather two rooms away and name it before anyone else has shivered; the people around them are spared a lot of surprises by living with one.

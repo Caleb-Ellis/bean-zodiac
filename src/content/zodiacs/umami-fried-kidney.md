@@ -6,6 +6,11 @@ form: fried
 trait: scrupulous
 dish: Pan-fried kidney bean cakes with red miso, sake, and sesame.
 quote: Moralising and bean are two arts that seldom go together.
+creature: harvester ant
+friendlyBeans: [cannellini, green]
+antiBeans: [pinto, adzuki]
+friendlyForm: dried
+antiForm: fermented
 seasonalFortune: A season of red miso deepening in the pan — verdicts cure slowly, and the household keeps its scorched edges in plain view, unhidden, unsoftened.
 fortuneMost: Red miso deepening in the pan, verdicts curing slow. You'll say the sentence everyone's been circling for weeks — no question mark, no softener, just the thing.
 fortuneMost2: The debt paid back the same week, exact; the apology given whole when one is owed. People who've never said so trust your ledger.
@@ -18,15 +23,15 @@ fortuneLow2: Let a friend's wobbly plan run its course. Some things you only lea
 fortuneLeast: Let someone else keep the scorecard this round. The bent corner was probably just a coffee ring.
 fortuneLeast2: Hold a looser standard for the one across from you. The grace you give yourself can stretch to cover them too — though stretching it that far won't come easy.
 facetMostTitle: Sake to Lacquer
-facetMost: You answer a late text the day it arrives, naming the thing the group has been politely circling for weeks.
+facetMost: A clerk undercharges you in a hurry and is already serving the next person; you wait to flag the difference rather than pocket the gap.
 facetHighTitle: Sesame Catching on Iron
-facetHigh: You return the borrowed book with a note about the dog-eared page, the one you would have folded differently.
+facetHigh: You found a tenner on the trail with a name on the dropped wallet beside it, and the whole afternoon bends toward getting it back to them.
 facetMidTitle: Miso at the Rim
-facetMid: At the table you set down a fork mid-sentence when a story turns mean, and the room hears the pause.
+facetMid: A game's being scored loosely and a point goes to the wrong side; you'd correct it quietly rather than let the wrong tally stand.
 facetLowTitle: The Cake Before It Sets
-facetLow: You let a friend's bad plan run its course, pouring another glass, curious how the sear will read in the morning.
+facetLow: A friend's scheme looks shaky and the flag is right on your tongue — but you let it go and trust them to learn how it sets on their own.
 facetLeastTitle: Salt Past the Crust
-facetLeast: You keep three versions of the same opinion in rotation and spend on whichever the week asks for, untroubled by the swap.
+facetLeast: Where you'd hold yourself to the letter, you let a friend off the same slip without keeping any score of it.
 question: A friend returns a book with the corners bent and a coffee ring on the cover. You...
 answerMost: tell them, evenly, and ask them to be more careful next time
 answerHigh: mention the coffee ring, leave the bent corners alone
@@ -38,11 +43,6 @@ rorschachHigh: a shield polished clean to its rim
 rorschachMid: a fat beetle resting on a leaf
 rorschachLow: a sponge left dripping at its edge
 rorschachLeast: an ink stain spreading, droplets flecking the floor
-facetMostTags: [cannellini, navy, black]
-facetHighTags: [cannellini, navy]
-facetMidTags: [cannellini, navy]
-facetLowTags: [fava, edamame]
-facetLeastTags: [fava, edamame, green]
 ---
 
 Tempura Kidney Beans are the Bean Zodiac's most scrupulous — the ones who set a fork down when a story turns mean, who return the book with a note about the page that was dog-eared, who answer the group thread's polite avoidance with the sentence everyone has been ducking. They keep their own ledger close. The receipts are paid the same week, exact, and the apology, when owed, arrives whole.

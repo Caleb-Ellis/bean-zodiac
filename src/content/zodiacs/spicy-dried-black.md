@@ -6,6 +6,11 @@ form: dried
 trait: suppressed
 dish: Mole negro - dried black beans with mulato and pasilla chilies.
 quote: Where there's smoke, there's bean.
+creature: cicada
+friendlyBeans: [cannellini, fava]
+antiBeans: [adzuki, kidney]
+friendlyForm: smoked
+antiForm: roasted
 seasonalFortune: A pan of chilies toasted dark and a lid set heavy; what stings the kitchen is folded down into a long, quiet simmer, and the heat travels inward for hours.
 fortuneMost: The slight landed, the fever's real, and you're refilling their glass anyway. Steadiness like that costs you days later.
 fortuneMost2: A heavy lid on toasted chilies, the heat folded down and travelling inward for hours. That's you, and it's a long simmer.
@@ -18,15 +23,15 @@ fortuneLow2: Hand someone the unsorted version, knots and all. Less comfortable 
 fortuneLeast: Put it down. The ceiling holds without you bracing it, and your shoulders have been up around your ears for hours.
 fortuneLeast2: Not everything was meant to be cooked that low. Let some of it out warm.
 facetMostTitle: Pressed Through a Sieve
-facetMost: You carry a fever to the table and pour water for the room before you sit.
+facetMost: Your foot throbs where the door caught it. The host is mid-story, so you keep your face open and your weight off it until she's done.
 facetHighTitle: Pasilla Under the Lid
-facetHigh: At the loud end of the table you keep the steadiest face, refilling glasses while the argument runs.
+facetHigh: A driver cuts you off, close enough to clip the mirror. The horn goes untouched; everything lands in the grip on the wheel.
 facetMidTitle: The Banked Mulato
-facetMid: Rooms behind you close tidy — a drawer shut, a chair pushed in, the day put away.
+facetMid: Asked straight whether you're alright when you're plainly not — give the smooth answer, or the true one?
 facetLowTitle: Chilies Torn in by Hand
-facetLow: You name the wrong charge at the counter the minute you see it, plainly, before the line behind you stirs.
+facetLow: The coffee comes back made wrong, and you say so before the barista has even turned away. Evenly. No edge on it.
 facetLeastTitle: Lid Off, Seeds and All
-facetLeast: First drafts go out the door warm and unsorted, with you still talking through the doorway.
+facetLeast: Barely finished thinking it and it's already out of your mouth, seeds and all. Half-cooked and handed over beats one more second of sitting on it.
 question: A friend says something at dinner that genuinely lands wrong, and the table doesn't notice. You...
 answerMost: smile, refill their wine, and decide to mention it never
 answerHigh: file it for later and ask a steadying question to move the table on
@@ -38,11 +43,6 @@ rorschachHigh: a bundle bound and knotted at every edge
 rorschachMid: a dark cabbage with leaves curling loose
 rorschachLow: a cloud beginning to fray at its edges
 rorschachLeast: a thundercloud bursting open, tendrils flung out
-facetMostTags: [chickpea, mung, pinto]
-facetHighTags: [chickpea, mung]
-facetMidTags: [chickpea, mung]
-facetLowTags: [adzuki, chickpea]
-facetLeastTags: [adzuki, chickpea, green]
 ---
 
 Sichuan Black Beans are the Bean Zodiac's most suppressed — and the most composed-looking person at a difficult dinner. The slight has landed, the fever is real, the inner monologue is doing a full lap of the room — and outside, they're refilling someone's glass and asking how the dog's leg healed. People mistake the steadiness for not minding. It is not that.

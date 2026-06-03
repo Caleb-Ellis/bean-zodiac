@@ -6,6 +6,11 @@ form: fried
 trait: excitable
 dish: Tempura - green beans with bitter matcha salt.
 quote: Nothing great in the world was ever achieved without beans!
+creature: squirrel
+friendlyBeans: [kidney, edamame]
+antiBeans: [butter, cannellini]
+friendlyForm: roasted
+antiForm: dried
 seasonalFortune: A season of hot oil and short windows. The batter sets the instant it meets the pan, and the days reward whoever is already standing at the stove.
 fortuneMost: Run at the thing that lit you up. You're already on your feet — go, and let the rest keep where you left it.
 fortuneMost2: An idea lands and you see its whole shape at once. Say yes out loud while it's still hot from the oil. This one rewards the running.
@@ -18,15 +23,15 @@ fortuneLow2: Not everything that lights up is yours to chase. Watching this spar
 fortuneLeast: One dim room, one bare shelf, one evening with nothing on it. It'll feel like an empty pan. The quiet is the point.
 fortuneLeast2: A back burner kept cold on purpose itches at you, all that heat unused. The pan you don't light is doing real work too.
 facetMostTitle: The Bean, Mid-Air
-facetMost: A song comes on at the bar and you are already up, already explaining it to a stranger, the bottle still tipping where you left it.
+facetMost: A trapdoor in the museum floor swings open onto a stairway nobody mentioned. You're three steps down it, calling for the others to come see, before you've thought to wonder why.
 facetHighTitle: Matcha on a Stranger's Plate
-facetHigh: You introduce yourself to the person beside you in the line, the elevator, the waiting room — and mean it.
+facetHigh: Out comes a fiddle in the square and half the crowd turns to watch. You don't half-turn — you're at the front, grinning, already asking the player what the tune is called.
 facetMidTitle: Batter at the Oil
-facetMid: You start the new thing the night you hear about it, three tabs open, the kitchen still smelling of the last one.
+facetMid: Someone mentions a class starting up across town. By the end of the chat you've half-signed up in your head — not running out the door yet, but lit, and leaning toward yes.
 facetLowTitle: Salt in Its Dish
-facetLow: A friend pitches the wild plan over dinner and you let it cool a week; whatever survives the week is what you say yes to.
+facetLow: Fireworks go up over the harbour and everyone gasps and points. You watch them too, quietly pleased, but you don't reach for your phone or whoop — you just let them happen.
 facetLeastTitle: The Pan, Back Burner
-facetLeast: You keep one room dim, one shelf bare, one evening with nothing scheduled on it.
+facetLeast: Breathless, your friend bursts in with the most exciting news of their year. You're glad for them, genuinely — and your pulse doesn't budge, your voice stays level, no spark catches.
 question: A friend mentions a half-baked idea in passing on a Thursday night. You...
 answerMost: text back at 1am with a name, a logo, and a date
 answerHigh: open three tabs and start sketching it in
@@ -38,11 +43,6 @@ rorschachHigh: a beetle rearing up on its hind legs
 rorschachMid: a round pot with two side handles
 rorschachLow: a teapot sitting cold on the shelf
 rorschachLeast: a cat curled tight and fast asleep
-facetMostTags: [chickpea, mung, black]
-facetHighTags: [chickpea, mung]
-facetMidTags: [chickpea, mung]
-facetLowTags: [chickpea, adzuki]
-facetLeastTags: [chickpea, adzuki, kidney]
 ---
 
 Scorched Green Beans are the Bean Zodiac's most excitable. They answer the thread the second it lights up, start the new thing the night they hear about it, introduce themselves to the stranger in the queue and mean it — and the enthusiasm isn't scattershot, it has aim. People warm to them fast, because the excitement is real and pointed at something.

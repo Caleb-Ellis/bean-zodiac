@@ -6,6 +6,11 @@ form: smoked
 trait: otherworldly
 dish: Smoked fava, twice-prepared, with bitter ash.
 quote: We are made of bean stuff.
+creature: selkie
+friendlyBeans: [mung, butter]
+antiBeans: [butter, cannellini]
+friendlyForm: fermented
+antiForm: boiled
 seasonalFortune: A season for tongues that read smoke. The twice-prepared bean lives at the edge of two fires, and those who carry its temperament drift through rooms half-listening to what no one else has said.
 fortuneMost: A strange thought is towing you past the corner you always turn at. Follow it — whatever waits down that street has been waiting for no one but you.
 fortuneMost2: There's a question nobody thought to ask, the one they actually meant, and you can see it plainly. Answer that one; the others walk right through what you read.
@@ -18,15 +23,15 @@ fortuneLow2: You're reading omens into an hour that hasn't got any. Take it at f
 fortuneLeast: Borrow the plain words everyone else uses, and be understood on the first pass. Your own dialect keeps; it always comes back.
 fortuneLeast2: A day lived at one fire instead of two. You answer in the words the question arrived in, and there's a rest in it you didn't expect.
 facetMostTitle: Where the Second Fire Begins
-facetMost: You answer questions that were not asked and the asker recognises the answer anyway.
+facetMost: A guide is reciting dates in front of an old painting. You're somewhere else entirely, telling the small crowd what the figure in the corner is afraid of, and they lean in as if you'd read it off the wall.
 facetHighTitle: Smoke, the Long Way Home
-facetHigh: Your bedroom keeps objects no guest can place — a stone, a feather, a postcard from a town you have never named aloud.
+facetHigh: A form asks you to describe yourself in three words. You write three that belong to no questionnaire, and hand it back fully meaning them.
 facetMidTitle: Ash on the Rim
-facetMid: Conversations end without you noticing they ended; you surface a beat late, holding the thread no one else picked up.
+facetMid: A flock wheels over the parking lot in one body, then scatters. Everyone else gets in their cars; you stand reading a meaning into the turn nobody asked for.
 facetLowTitle: The First Preparation
-facetLow: Your calendar is plain; appointments mean what they say, and a friend's mood is a friend's mood, not a weather front rolling in.
+facetLow: A black cat crosses the path ahead and a lightbulb pops in the hall the same minute. You change the bulb, let the cat be a cat, and tie no thread between them.
 facetLeastTitle: No Char, No Second Pass
-facetLeast: You return messages within the hour, in the words the message used, and the day closes where it opened.
+facetLeast: Handed a riddle at the dinner table, the kind you'd usually spiral into. You give the obvious literal answer, get the laugh, and pass the bowl along.
 question: Walking home you pass a door you've never noticed on a street you walk every week. You...
 answerMost: stop, push it open, and follow whatever's behind it
 answerHigh: stand a while, mark the address, plan to come back
@@ -38,11 +43,6 @@ rorschachHigh: a sea urchin lifted from a strange tide
 rorschachMid: a burr caught full of broken thorns
 rorschachLow: a thistle head gone to seed
 rorschachLeast: a chestnut husk split on the lawn
-facetMostTags: [pinto, cannellini, black]
-facetHighTags: [pinto, cannellini]
-facetMidTags: [pinto, cannellini]
-facetLowTags: [edamame, green]
-facetLeastTags: [edamame, green, kidney]
 ---
 
 Charcoal Fava Beans are the Bean Zodiac's most otherworldly. They answer the question nobody asked, and the asker startles to find it was the question they meant. They keep a stone and a postcard from a town they've never named, take the long way home past the streetlight everyone else turns at, and come back from the walk with something genuinely new.

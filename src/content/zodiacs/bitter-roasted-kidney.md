@@ -6,6 +6,11 @@ form: roasted
 trait: proud
 dish: Roasted kidney bean stew with charred bitter peppers and smoked paprika.
 quote: It is not the bean that stoops who loses dignity, but the one who forgets why they stood.
+creature: indian peafowl
+friendlyBeans: [fava, green]
+antiBeans: [edamame, fava]
+friendlyForm: smoked
+antiForm: dried
 seasonalFortune: A roasted kidney holds its shape against the heat. The season favours those who have already done the work of becoming themselves, and asks only that they stand still inside it.
 fortuneMost: Leave the part that cost you most unsoftened. The polish you'd add is exactly what makes a thing forgettable.
 fortuneMost2: You'll walk into a gathering and the air will arrange itself around your posture without your asking. That presence is squarely on your side.
@@ -18,15 +23,15 @@ fortuneLow2: A doorway's coming where the space you'd fill is space a quieter on
 fortuneLeast: The straight back can come down. A slump is only rest — sleep in whatever crease the day folded you into, though going soft feels like surrender at first.
 fortuneLeast2: When it comes up whose way it goes, ask what they had in mind, and mean the question. Bending here costs you nothing you'll actually miss, whatever pride insists.
 facetMostTitle: The Blister Kept
-facetMost: You finish a piece of work and refuse to soften the part that cost you the most.
+facetMost: A wrong turn has you lost in a strange town with a meeting in ten minutes. Sooner than ask the man on the corner, you keep driving and trust yourself to find it.
 facetHighTitle: Paprika Before the Lid Lifts
-facetHigh: You walk into a gathering and the air composes itself around your posture without your asking.
+facetHigh: When the form comes back with your name misspelled and your title wrong, you correct it once, plainly, and never let on that it stung.
 facetMidTitle: Bitter, Slow to Retreat
-facetMid: With strangers you stay exactly the size you are — neither shrinking to please nor expanding to claim.
+facetMid: A famous face holds court and the circle leans in. You step closer too, but at your own height, meeting the eye like any other.
 facetLowTitle: Another Hand at the Pot
-facetLow: You let small obligations be settled on someone else's terms, and the bill closes faster for it.
+facetLow: Let the table have the place you'd never have picked, and go find your own quiet good time inside their choice.
 facetLeastTitle: Slumped at the Bottom
-facetLeast: You sleep in whatever posture the day leaves you in and wake unbothered by the crease.
+facetLeast: Caught belting the wrong words to a song in a packed lift, you just grin at the strangers and finish the line anyway.
 question: A client pushes back hard on your rate and asks for the breakdown. You...
 answerMost: repeat the number and say nothing else
 answerHigh: name the number again with one sentence of why
@@ -38,11 +43,6 @@ rorschachHigh: a peacock upright, tail fanned out beside
 rorschachMid: a standing stone with brush growing alongside
 rorschachLow: a scarecrow leaning, straw spilling from one side
 rorschachLeast: a coat slipped off its hook, puddled down
-facetMostTags: [cannellini, fava, chickpea]
-facetHighTags: [cannellini, fava]
-facetMidTags: [cannellini, fava]
-facetLowTags: [fava, edamame]
-facetLeastTags: [fava, edamame, green]
 ---
 
 Wood-Fired Kidney Beans are the Bean Zodiac's most proud — they have standards and presence. They walk into a gathering and the air composes itself around their posture without their asking; with strangers they stay exactly the size they are, neither shrinking to please nor expanding to claim. They name their number and decline to itemise it.

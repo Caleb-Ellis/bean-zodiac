@@ -6,6 +6,11 @@ form: fried
 trait: proactive
 dish: Crispy chickpeas with fish sauce, toasted garlic, and lime.
 quote: Do not wait to strike till the bean is hot, but make it hot by striking.
+creature: pika
+friendlyBeans: [green, kidney]
+antiBeans: [black, navy]
+friendlyForm: fermented
+antiForm: dried
 seasonalFortune: A life lived a quarter-hour ahead of itself — garlic sliced before the oil is poured, the lime halved before anyone thinks to ask.
 fortuneMost: Garlic sliced before the oil's poured, the lime halved before anyone asks. The world keeps walking into your warm kitchen amazed.
 fortuneMost2: The spare key cut, the fridge stocked, the need met before it announced itself. By the time anyone notices the job, you've finished a version of it.
@@ -18,15 +23,15 @@ fortuneLow2: Not every gap is yours to close first. See which way things tilt be
 fortuneLeast: Ask before you fix it. They had a method — the slow one, yes — and a kindness can land as a small theft.
 fortuneLeast2: The tangled drawer was theirs, not a task waiting on you. Some things are a gift left undone by your hand.
 facetMostTitle: The Oil Before the Ring
-facetMost: You arrive at the shared house with the spare key already cut, the milk in the fridge, and the kettle still hot when the others walk in.
+facetMost: Storm warnings are still vague on the radio and you've already topped the tank, filled the jugs, and brought the chairs in off the lawn.
 facetHighTitle: Garlic Crisping at Dawn
-facetHigh: Bags packed Wednesday for Saturday's train; the dinner three days off is already planned.
+facetHigh: A friend keeps circling a hard talk without starting it, and you'd rather open the subject yourself than let it hang.
 facetMidTitle: Fish Sauce, Pan Still Cold
-facetMid: You pay the bill before it's due, not the day of, and especially not the day after.
+facetMid: The form isn't due for weeks. You fill it out the night it lands rather than let it ripen on the pile.
 facetLowTitle: Lime When Someone Calls
-facetLow: You wait to see which way the room tilts before you move.
+facetLow: A puzzle stumps the table and your hand twitches to solve it — but you sit back and let someone else find their own way to the answer.
 facetLeastTitle: Garlic in Its Skin
-facetLeast: The list grows; the oil will warm when the oil warms.
+facetLeast: A neighbor's garden runs wild in a shape you'd never plant, and you leave it be — it isn't yours to tidy.
 question: You're visiting a friend's apartment and notice their kitchen drawer is a mess of tangled utensils. You...
 answerMost: empty it and reorganize it while they're brewing coffee
 answerHigh: mention you'd be happy to sort it next time you're over
@@ -38,11 +43,6 @@ rorschachHigh: a fox's pricked ears swiveling toward a sound
 rorschachMid: a horned mask resting above a round stone
 rorschachLow: a cat dozing, head drooping over a cushion
 rorschachLeast: a fur hat tossed onto a sagging ottoman
-facetMostTags: [fava, green, cannellini]
-facetHighTags: [fava, green]
-facetMidTags: [fava, green]
-facetLowTags: [butter, mung]
-facetLeastTags: [butter, mung, black]
 ---
 
 Tempura Chickpeas are the Bean Zodiac's most proactive — the ones whose Sunday already has Tuesday's problem solved. They pack the bag two days early, send the calendar invite before anyone has remembered to ask, refill the snack cupboard the day before it was going to run out. By the time most people notice a thing needs doing, a Tempura Chickpea has done a quieter version of it and moved on.

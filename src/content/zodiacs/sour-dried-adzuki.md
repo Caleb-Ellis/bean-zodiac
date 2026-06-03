@@ -6,6 +6,11 @@ form: dried
 trait: tart
 dish: Sekihan - adzuki and sticky rice with dried pickled ume and sesame.
 quote: A bean a day keeps the doctor away.
+creature: lemon tetra
+friendlyBeans: [edamame, fava]
+antiBeans: [mung, kidney]
+friendlyForm: boiled
+antiForm: roasted
 seasonalFortune: The ume sits years in its own brine before it earns the rice. A life that cures rather than cooks; nothing kept that hasn't first been sharpened.
 fortuneMost: Hand the sharp thing over unsanded. The ones who flinch first are the ones who trust you most.
 fortuneMost2: A jar of ume cures years for a single sour bite. Yours is ready, and the room is humming a false note.
@@ -18,15 +23,15 @@ fortuneLow2: Soften the brine. It costs you the clean line, but you'll keep the 
 fortuneLeast: Good news is coming dressed a little too kind. The kindness underneath is real — take it whole, and don't go hunting for the exact figure.
 fortuneLeast2: Out on a grey road the weather turns gentle for no reason you can audit. Some days arrive generous; let this one in without checking its math.
 facetMostTitle: One Ume in the Jar
-facetMost: You enter a room and the small false thing everyone agreed to ignore goes pink at the edges.
+facetMost: The tour guide says the date with such confidence, and it's flat wrong. Your hand is already half up.
 facetHighTitle: The Seed That Splits Clean
-facetHigh: When the receipt comes you check it; the apology you owe is the exact amount, never rounded up to look generous.
+facetHigh: Name the part that wasn't yours — that's the reflex, even as the praise for the whole thing keeps coming and most of the work was someone else's.
 facetMidTitle: Brine and the Slow Grain
-facetMid: You give the toast at the wedding and the laugh comes a beat late, exactly where you wanted it; the bride hugs you anyway.
+facetMid: The label on the jar at the market promises more than what's inside, and the seller knows it. Do you say the price out loud or just walk on.
 facetLowTitle: The Forgiving Rice
-facetLow: The guest at your table tells a softened version of the story; you pass the sesame and let them keep it.
+facetLow: A child shows you a drawing and tells you what it is. It looks like nothing of the sort, and you say it's wonderful and mean it.
 facetLeastTitle: Steam With No Edges
-facetLeast: You walk into a grey afternoon and find it kindly; weather, like company, does not need to be corrected.
+facetLeast: Pocket the warm version, errors and all — the fortune-teller's read of you ran a little too rosy and you don't feel like auditing it.
 question: A friend hands you a birthday card that praises a version of you that's almost right but slightly flattering. You...
 answerMost: hand it back and ask them to fix the line
 answerHigh: thank them warmly and never put it on the shelf
@@ -38,11 +43,6 @@ rorschachHigh: a chestnut burr split along one side
 rorschachMid: a potato with sprouts down one edge
 rorschachLow: a sleeping hedgehog curled into its quills
 rorschachLeast: a fat loaf rising with a frayed crust
-facetMostTags: [cannellini, edamame, black]
-facetHighTags: [cannellini, edamame]
-facetMidTags: [cannellini, edamame]
-facetLowTags: [fava, green]
-facetLeastTags: [fava, green, edamame]
 ---
 
 Dehydrated Adzuki Beans are the Bean Zodiac's most tart — the toast they give actually means something, which is why people brace before they raise their glass. They show up with the gift, the candles, the right number of chairs, and a small unsweetened sentence about the year just had. Everyone laughs a beat late and then properly.

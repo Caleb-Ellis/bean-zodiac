@@ -6,6 +6,11 @@ form: smoked
 trait: dazzling
 dish: Bessara - smoked fava bean dip with smoked paprika, cumin, and honey drizzle.
 quote: All that glitters is not beans.
+creature: hummingbird
+friendlyBeans: [chickpea, kidney]
+antiBeans: [adzuki, cannellini]
+friendlyForm: fried
+antiForm: boiled
 seasonalFortune: A season that favours the long smoulder over the quick flare. Paprika deepens as it sits; honey thickens in the bowl. What entered loud will be remembered for what it left behind.
 fortuneMost: You'll walk into a dull room and the lights will seem to come on behind you. The cumin stays on the fingertips for an hour, and the room remembers who passed through.
 fortuneMost2: A question is rising in you that turns an ordinary dinner into the one people quote for years. Ask it — the table's been waiting on someone with the nerve.
@@ -18,15 +23,15 @@ fortuneLow2: Slip out before the speeches and let the night carry on without you
 fortuneLeast: Take the coat off before you speak. They want who's underneath, not the bright thing you laid over the top, and yes, standing there plain will feel like standing there cold.
 fortuneLeast2: There's an ease in not being the brightest light in the bowl. Wear the soft, forgettable thing and let your name take its time surfacing — once you stop reaching for the switch.
 facetMostTitle: The Char That's the Whole Point
-facetMost: You dress for the weather you intend to create; cumin on the fingertips for an hour afterward, the room remembers who walked through.
+facetMost: The open-mic list has one slot left and the room's gone flat. You put your name down and walk up to wake it.
 facetHighTitle: Honey Through Every Seam
-facetHigh: Strangers tell you things on the train. You answer in a voice that makes the answer feel like a gift, and you mean it.
+facetHigh: A toddler at the next table is mid-meltdown. You catch their eye and pull a face so absurd the whole café turns to watch the laugh break out.
 facetMidTitle: Paprika in Warm Oil
-facetMid: You walk into a room and a conversation reroutes around you — you didn't ask it to, but you don't redirect it either.
+facetMid: Two of you are telling the same trip story to a circle of friends. You take the better lines and the laughs land on your side of the bench.
 facetLowTitle: Smoke to the Chimney
-facetLow: You decline the toast, slip the photograph, leave before the speeches. The evening proceeds without you and you prefer it that way.
+facetLow: They want you up front for the group photo, dead centre. You wave it off and take the spot at the back where the tall ones go.
 facetLeastTitle: The Dip Eaten Cold
-facetLeast: You answer messages in three words. Your clothes are clean and forgettable; your name takes a moment to surface.
+facetLeast: You pull off something genuinely impressive on the trail and tell no one back home. The doing was the whole of it, no audience needed.
 question: You have one outfit to pick for a dinner where you'll know about half the room. You...
 answerMost: pick the loud one, top to bottom, and walk in like the lights came on
 answerHigh: choose the piece you've been waiting for an excuse to wear
@@ -38,11 +43,6 @@ rorschachHigh: a gleaming urn with a jewel set in its side
 rorschachMid: an owl perched, one eye catching the light
 rorschachLow: a plain clay jug left out in the yard
 rorschachLeast: a sack of grain slumped in a dark cellar
-facetMostTags: [kidney, cannellini, adzuki]
-facetHighTags: [kidney, cannellini]
-facetMidTags: [kidney, cannellini]
-facetLowTags: [edamame, green]
-facetLeastTags: [edamame, green, pinto]
 ---
 
 Barbecued Fava Beans are the Bean Zodiac's most dazzling — and the room knows it before the door has closed behind them. They make the toast nobody else would have risked, wear the colour everyone else thought about and didn't, ask the question at the dinner that turns the dinner into the kind of dinner people quote for years.

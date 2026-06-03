@@ -6,6 +6,11 @@ form: smoked
 trait: luminous
 dish: Zenzai - sweet adzuki bean soup with smoked brown sugar syrup and toasted mochi.
 quote: We are all in the bean, but some of us are looking at the stars.
+creature: anglerfish
+friendlyBeans: [pinto, cannellini]
+antiBeans: [kidney, edamame]
+friendlyForm: roasted
+antiForm: roasted
 seasonalFortune: A life lived in the smoke-sweetness of late evening — brown sugar darkening over coals, mochi blistering, the room leaning toward whoever last spoke.
 fortuneMost: Strangers will warm their hands at you and go home glowing without knowing why.
 fortuneMost2: You arrive late and the evening rearranges itself around you mid-sentence, coats still on. This is simply what you do to a room.
@@ -18,15 +23,15 @@ fortuneLow2: Cook for one person and don't name who it's for. They'll taste them
 fortuneLeast: A banked fire holds its heat long after the flames are gone.
 fortuneLeast2: Let the message go unanswered and the screen go dark. An evening no one can find you in is a rest you rarely allow yourself, even if missing it stings.
 facetMostTitle: Syrup at the Lowest Point
-facetMost: You walk in late; the conversation reorganises around you inside a sentence.
+facetMost: The waiting room is all coughs and averted eyes. Three minutes in, you've got the woman beside you laughing about her cat.
 facetHighTitle: Mochi Before It Browns
-facetHigh: Strangers tell you things on trains, in queues, at the till — and you answer slow, holding heat from earlier.
+facetHigh: A new hire eats alone at the far end of the canteen, and you carry your tray over to sit across from them.
 facetMidTitle: Brown Sugar Smouldering
-facetMid: You finish the sketch you started on a napkin; people ask to keep it; you let them.
+facetMid: A neighbour mentions they've never tasted anything like the syrup you simmer. Next morning you leave a warm jar on their step.
 facetLowTitle: The Cold Pot
-facetLow: You leave the lamp off in the front room and read by the kitchen light, the door half-shut.
+facetLow: The party spills onto the balcony and everyone's shouting to be heard. You drift to the dark end of the garden where it's just crickets.
 facetLeastTitle: Coals After the Cooking
-facetLeast: You read the message, decide later, and the screen darkens before you answer.
+facetLeast: A friend asks how you really are. You give the short answer and keep the rest banked where the cold can't reach it.
 question: A power cut on the third night of the visit. The room goes dark and someone fetches the candles. You...
 answerMost: pull the chairs into a circle without saying so and start the story you've been holding all week
 answerHigh: light the candles slowly enough that the room arranges itself around the small ritual
@@ -38,11 +43,6 @@ rorschachHigh: an owl on a post, eyes catching the light
 rorschachMid: a broad-shouldered figure seated on a mound
 rorschachLow: a hooded watcher hunched over a cold hearth
 rorschachLeast: a draped statue, dead leaves heaped at its base
-facetMostTags: [kidney, cannellini, pinto]
-facetHighTags: [kidney, cannellini]
-facetMidTags: [kidney, cannellini]
-facetLowTags: [fava, edamame]
-facetLeastTags: [fava, edamame, green]
 ---
 
 Barbecued Adzuki Beans are the Bean Zodiac's most luminous — the kind of warmth a room registers before anyone has named it. They arrive at the dinner without a story to tell and somehow tell three; strangers leave with the impression of having been seen, and can't quite remember what they said.

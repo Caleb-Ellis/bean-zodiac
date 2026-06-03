@@ -6,6 +6,11 @@ form: smoked
 trait: ferocious
 dish: Dashi-smoked edamame with yuzu kosho - cold-smoked edamame with spicy citrus pepper paste.
 quote: Cry 'Havoc!' and let slip the beans of war.
+creature: wolverine
+friendlyBeans: [black, kidney]
+antiBeans: [mung, adzuki]
+friendlyForm: dried
+antiForm: roasted
 seasonalFortune: A season of cold smoke and quick heat; the rooms this person enters tilt toward the door they came through, the air already changed before anyone looks up.
 fortuneMost: Yuzu kosho hits before you've named the heat, and so do you — moving while everyone's still calibrating, right more often than not. Give them one beat to brace; that's all the heat owes.
 fortuneMost2: The boundary lands flat, no preamble, and what was costing you is done. The clean cut was the kindness — don't reach back to soften it.
@@ -18,15 +23,15 @@ fortuneLow2: A slight that cools by morning is telling you something. Not every 
 fortuneLeast: Some fights aren't worth the smoke they'd fill the place with. Keep the broken thing and walk on — yes, it stings more than the swing would have.
 fortuneLeast2: The soft return is the strong move on the wind — the small apology, the second chance handed over without a fight. Offer it.
 facetMostTitle: Yuzu Kosho, First Bite
-facetMost: You walk into rooms loud enough that the conversation reroutes around you, and you prefer it that way.
+facetMost: Someone cuts in front of the family with three kids, and before anyone else has even sighed you've called it flat and sent them to the back of the line.
 facetHighTitle: Char Before the Salt
-facetHigh: You send the message first and soften it later, if at all — drafts are for other people.
+facetHigh: The contractor's quote is plainly padded. You lead with no and make them earn the reasons out of you one at a time.
 facetMidTitle: Smoke in the Husk
-facetMid: Once you decide a friendship is over you stop replying, and the quiet does the rest of the work.
+facetMid: When the referee blows the call that costs your team the match, you name exactly what went wrong — once, clearly — and let it stand without a second word.
 facetLowTitle: The Pod, Slowly Warmed
-facetLow: You let the slight sit overnight, and by morning the wanting-to-confront has cooled to wanting-to-understand.
+facetLow: A driver cuts you off and lays on the horn like it was your fault. You ease off the gas and let them go, swallowing the urge to teach them anything.
 facetLeastTitle: Patient Steam
-facetLeast: You return things without a receipt and a small apology, and the clerk waves you through.
+facetLeast: That favor a friend swore they'd do has slipped their mind again — and you let it go without a flicker, then quietly offer to help them instead.
 question: A delivery arrives broken and the support line puts you on hold. You...
 answerMost: hang up, escalate publicly, refund within the hour
 answerHigh: ask for a manager by name and don't get off the line
@@ -38,11 +43,6 @@ rorschachHigh: a hawk diving wings spread above its prey
 rorschachMid: a moth above a stone it just landed on
 rorschachLow: a dove settling down onto a warm nest
 rorschachLeast: a lamb folded low over its own shadow
-facetMostTags: [navy, kidney, mung]
-facetHighTags: [navy, kidney]
-facetMidTags: [navy, kidney]
-facetLowTags: [butter, black]
-facetLeastTags: [butter, black, navy]
 ---
 
 Chipotle Edamame are the Bean Zodiac's most ferocious — the email goes out before anyone in the thread has finished typing the diplomatic version. The boundary lands flat, no preamble, and the friendship that had been quietly costing them is suddenly over by Tuesday morning. They move when the rest of the room is still calibrating, and most of the time the room admits, later, that the move was correct.

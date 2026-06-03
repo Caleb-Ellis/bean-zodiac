@@ -6,6 +6,11 @@ form: roasted
 trait: aloof
 dish: Frijoles borrachos al horno - oven-roasted pinto beans with lime juice, jalapeño, and dark beer
 quote: I exist as I am — that is enough. If no other bean in the world be aware, I sit content.
+creature: cat
+friendlyBeans: [fava, edamame]
+antiBeans: [navy, butter]
+friendlyForm: fermented
+antiForm: boiled
 seasonalFortune: A season of blistered skins and shut doors. The roast deepens what the lime had already separated; what these weeks ask of a person is the courage to remain unmixed.
 fortuneMost: The courage to stay unmixed is your strength this turn. Let the call ring out — the rested you writes a shorter, truer reply than the one forming now.
 fortuneMost2: Keep the one room no guest has entered. Sitting three seats from the nearest conversation was never a failure of hosting.
@@ -18,15 +23,15 @@ fortuneLow2: Meeting someone at their pace won't dissolve you — answer the kno
 fortuneLeast: The version of you that stays until last call sleeps deeper than the one who slipped out early — even if steeping in a crowd unsettles you.
 fortuneLeast2: Lean into the new friendship headlong. It goes against your grain to drop the wall, but the closeness can outlast the very thing the wall was built to guard.
 facetMostTitle: The Sealed Jalapeño
-facetMost: There is one room in your house no guest has entered, and you do not consider this a failure of hosting.
+facetMost: A campsite neighbour keeps trying to fold you into their fire and their plans. You nod, stay friendly, and keep your own tent and your own quiet at the edge of it.
 facetHighTitle: Where the Lime Hits Hardest
-facetHigh: At the long table you sit three seats from the nearest conversation, and stay.
+facetHigh: Someone wants more of you than you've got to give, and they're waiting on an answer. You space it out to a rhythm that's actually yours and don't rush to fill the gap.
 facetMidTitle: Char at the Edge
-facetMid: Twelve unread threads. You will read them when the pan cools.
+facetMid: You've been putting off an evening that's just yours, no one else in it. You finally take it, drop the line out, and come back to people steadier.
 facetLowTitle: Beer Poured, Door Open
-facetLow: You answer messages the hour they arrive, lime cut, the door already open before the knock.
+facetLow: Your quiet has started reading as a cold verdict to someone running the math on it. You reach first with one warm line and undo the sum before it sets.
 facetLeastTitle: The Dark Beer of a Crowd
-facetLeast: You go home steeped in other people and sleep deeper for it.
+facetLeast: A brand-new friendship is opening fast and the wall wants to go up. You drop it instead and lean in headlong, all the way, no distance kept back.
 question: A new acquaintance is angling for a closer friendship — texts often, invites widely. You...
 answerMost: let it sit unanswered until the energy quietly thins
 answerHigh: reply warmly but space the replies until a real rhythm forms
@@ -38,11 +43,6 @@ rorschachHigh: a watchtower standing above its splayed legs
 rorschachMid: a mushroom cap on its pale ribbed stalk
 rorschachLow: a hen gathering chicks beneath her body
 rorschachLeast: a family huddled close around one hearth
-facetMostTags: [adzuki, butter, kidney]
-facetHighTags: [adzuki, butter]
-facetMidTags: [adzuki, butter]
-facetLowTags: [green, fava]
-facetLeastTags: [green, fava, edamame]
 ---
 
 Chimichurri Pinto Beans are the Bean Zodiac's most aloof — visible, fluent at the table, and somehow still three seats from the nearest conversation. The unread threads sit. The reply comes when the pan cools. There is one room in the house no guest has been into, and the host does not consider this a failure of hosting.

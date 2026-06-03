@@ -6,6 +6,11 @@ form: smoked
 trait: pungent
 dish: Leather britches - Appalachian smoke-dried green beans simmered with ham hock and cider vinegar
 quote: A bean by any other name would smell as sweet.
+creature: polecat
+friendlyBeans: [kidney, edamame]
+antiBeans: [butter, navy]
+friendlyForm: fried
+antiForm: boiled
 seasonalFortune: A season when the leather britches hang in the rafters and tell the kitchen what month it is before the calendar does. Vinegar sharpens; hock-smoke insists.
 fortuneMost: The take goes out unsoftened. The hedged version is the one nobody quotes, and what nobody quotes nobody uses.
 fortuneMost2: An opinion strung up fully formed where everyone can see it, like britches in the rafters. They'll quote you back to yourself, and that's the point.
@@ -18,15 +23,15 @@ fortuneLow2: A stranger's lazy take, and you change the subject instead of corre
 fortuneLeast: Spend one verdict and stay silent on the rest. Let that single take be the whole of what you give, and notice the room doesn't go cold for it.
 fortuneLeast2: Land where the group lands, for the novelty of it. It'll feel like losing yourself; it's only handing someone else the wheel a while.
 facetMostTitle: Britches Strung All Winter
-facetMost: You don't soften the take; you hang it where everyone can see. Friends quote you back to yourself.
+facetMost: The film ends, the lights come up, and someone asks if it was any good. Out comes the whole verdict, fully formed — no hedge, no maybe.
 facetHighTitle: Smoke in the Cupboard Linens
-facetHigh: At the dinner you say the thing the table has been arranging itself around; soft rooms find you, and leave clearer.
+facetHigh: A committee has been talking in circles for an hour, careful not to land anywhere. You'd rather plant a flag and say which way this should go.
 facetMidTitle: Hock-Smoke in the Broth
-facetMid: You walk into a room and your opinion is already simmering — neighbours know where you stand before you sit.
+facetMid: A new person asks what you think of the band everyone here loves. You give them the real answer, plainly, and don't dress it as just a feeling.
 facetLowTitle: Cider Barely in the Broth
-facetLow: You hear the sharp thing and let it pass — a stranger's lazy take at the bar, a sister's wrong story at dinner; you nod, refill the glass, change subjects.
+facetLow: A seatmate on the bus is confidently wrong about something you know cold. The correction is right there; you let it ride and watch the fields go by instead.
 facetLeastTitle: The Pot Without the Hock
-facetLeast: You hold your verdicts like coins in a pocket, fingering them, spending none. People mistake the quiet for agreement.
+facetLeast: The group's circling a decision and you've got no horse in it. Rather than steer, you fold in behind whatever they pick and let someone else hold the wheel.
 question: A group chat is debating where to eat. Twelve messages in, you have a strong opinion about why every option so far is wrong. You...
 answerMost: send the voice note ranking all of them
 answerHigh: type the paragraph and send it
@@ -38,11 +43,6 @@ rorschachHigh: a smouldering thornbush trailing smoke
 rorschachMid: a bramble clump with two wisps below
 rorschachLow: a moss cushion with faint steam rising
 rorschachLeast: a cold wad of cotton, nothing rising off it
-facetMostTags: [cannellini, black, edamame]
-facetHighTags: [cannellini, black]
-facetMidTags: [cannellini, black]
-facetLowTags: [fava, edamame]
-facetLeastTags: [fava, edamame, kidney]
 ---
 
 Cured Green Beans are the Bean Zodiac's most pungent — their take on the restaurant is already in the group chat before the third option has been proposed. They are the friend whose opinion on a film arrives the moment the credits roll, fully formed and in full sentences; the colleague whose Slack messages don't really need read receipts, because the position has already shaped the meeting. People know where they stand on most things by Wednesday lunchtime, and they like it that way.

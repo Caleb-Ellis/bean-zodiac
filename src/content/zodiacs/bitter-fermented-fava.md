@@ -6,6 +6,11 @@ form: fermented
 trait: questioning
 dish: Fava bean soup with harissa yogurt and bitter orange.
 quote: The bean that gets questioned, gets answered.
+creature: lemur
+friendlyBeans: [chickpea, black]
+antiBeans: [cannellini, navy]
+friendlyForm: fried
+antiForm: dried
 seasonalFortune: A jar of favas works in the dark, sharpening as it softens. The almanac favours those who let an answer steep — what arrived as salt becomes something the salt never promised.
 fortuneMost: Ask the third question. The first two get manners; the third gets the actual answer.
 fortuneMost2: An answer is steeping in the thing you keep circling — one the first taste hid, surfacing now as the pith finally gives.
@@ -18,15 +23,15 @@ fortuneLow2: When the directions are sound, follow them. Your hands will itch to
 fortuneLeast: Let the next question stay in your pocket. Accepting "fine" costs you the last word — here that's the discipline, not the defeat.
 fortuneLeast2: Get what you came for and walk back out into the day. Leave the second-guessing aisle unsearched, even when that feels like missing something.
 facetMostTitle: Peel Curing on the Sill
-facetMost: You sit with a decision for a week longer than anyone expects, turning it until the pith gives.
+facetMost: A guide rattles off the official story of the old fort and the group nods along. Your hand goes up — but who actually lived here, and what aren't we being told?
 facetHighTitle: The Jar of Unsent Things
-facetHigh: You reread the message twice before you trust what it actually said.
+facetHigh: There's a soft spot in the neighbour's smooth, tidy account of last night's noise, and you can feel exactly where. You press on it once, out loud, instead of letting the story pass.
 facetMidTitle: The Harissa Underneath
-facetMid: At the long table, you ask the small follow-up nobody else thought to — what's in it, really.
+facetMid: The form asks you to tick a box agreeing to terms nobody reads. You stop and actually skim what you're agreeing to before the pen touches the line.
 facetLowTitle: Fold in the Yogurt
-facetLow: The recipe says fold in the yogurt; you fold in the yogurt. The soup is on the table by seven and nobody asks how.
+facetLow: The mechanic names the repair and the price, and you take it as given. No second opinion, no prying at the diagnosis — you hand over the keys and trust it, last word left unsaid.
 facetLeastTitle: Price Tag, Receipt, Done
-facetLeast: You buy what you came for and leave; the second-guessing aisle is for other people.
+facetLeast: A friend repeats a wild fact at dinner and the table moves on. The follow-up is right there in your pocket — and you leave it there, letting it slide rather than chasing what's under it.
 question: At a meeting, a decision lands tidily and everyone starts gathering their things. You...
 answerMost: ask the question nobody has touched and watch the chairs settle back down
 answerHigh: raise the one detail that doesn't fit before anyone stands
@@ -38,11 +43,6 @@ rorschachHigh: a beetle, two antennae raised and twitching
 rorschachMid: an owl with two small ear-tufts up
 rorschachLow: a roosting hen, both wings folded flat down
 rorschachLeast: a sleeping cat, ears folded down and tucked in
-facetMostTags: [green, edamame, black]
-facetHighTags: [green, edamame]
-facetMidTags: [green, edamame]
-facetLowTags: [adzuki, mung]
-facetLeastTags: [adzuki, mung, butter]
 ---
 
 Cultured Fava Beans are the Bean Zodiac's most questioning — they're the ones who ask the third question, after the first two have been met with manners, and the third is the one that gets the real answer. At a table quietly agreeing not to mention the obvious thing, they'll name it, kindly, before anyone stands up. Nothing gets past them on the strength of sounding settled.

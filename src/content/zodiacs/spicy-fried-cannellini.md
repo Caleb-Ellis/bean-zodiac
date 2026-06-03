@@ -6,6 +6,11 @@ form: fried
 trait: ambitious
 dish: Spicy cannellini and ricotta fritters with Calabrian chili.
 quote: Shoot for the bean. Even if you miss, you will land among the legumes.
+creature: eagle
+friendlyBeans: [edamame, fava]
+antiBeans: [black, pinto]
+friendlyForm: dried
+antiForm: smoked
 seasonalFortune: A season that runs hot from the first crackle. Oil climbs fast, ricotta thickens under pressure, and the fritter sets gold before the pan has cooled — every day asking what comes next.
 fortuneMost: When the offer comes, take its larger version. You're already half in the next room anyway.
 fortuneMost2: The next thing is crackling in the pan before this one has set. Feed that hunger — it's the whole engine.
@@ -18,15 +23,15 @@ fortuneLow2: A good thing is allowed to stay its own size. Not making it bigger 
 fortuneLeast: A long afternoon with no claim on it. Doing nothing with one is harder for you than any summit; that's the practice.
 fortuneLeast2: Someone near you has been waving a while. Turning toward them means looking back instead of ahead — which never feels right and almost always is.
 facetMostTitle: Chili Oil at First Light
-facetMost: You begin a thing nobody asked for, then a second before the first has set, and a third by dusk.
+facetMost: You finish the first hike of a trail map and find there's a harder loop branching off it. Before your boots are off you're planning to come back for the harder one.
 facetHighTitle: Cannellini Hitting the Pan
-facetHigh: The reply goes out before the kettle whistles; you have already booked the table while others read the menu.
+facetHigh: A coach offers you a spot on the casual team. You ask, instead, what it would take to make the one that competes.
 facetMidTitle: The Fritter Rolled Early
-facetMid: The favour someone mentioned in passing is done by Tuesday; you keep a short list and clear it.
+facetMid: A neighbour mentions a community garden plot going spare. The thought of just a tidy patch bores you — you're already picturing what you'd grow to win the fair.
 facetLowTitle: Ricotta on the Counter
-facetLow: The empty wall stays empty; the unhung shelf waits a year and you do not mind the wait.
+facetLow: There's a bare shelf where something could go and a year to fill it. You leave the gap as it is and feel no pull to make it more.
 facetLeastTitle: The Bean Before the Fire
-facetLeast: You sleep when tired, eat when hungry, and let the long afternoon pass without claim.
+facetLeast: A stranger on the ferry asks where you're headed and what for. You realise the honest answer is nowhere in particular, and that sits fine.
 question: A vague opportunity comes up at a party — bigger than your current thing, but only half-real. You...
 answerMost: have a follow-up coffee booked before you leave the party
 answerHigh: send a "great talking, here's a thought" email by morning
@@ -38,11 +43,6 @@ rorschachHigh: an owl stretching tall off its perch
 rorschachMid: a chess piece standing on a narrow base
 rorschachLow: a vine slumping back down its own trellis
 rorschachLeast: a sack settled wide and low on the floor
-facetMostTags: [chickpea, fava, green]
-facetHighTags: [chickpea, fava]
-facetMidTags: [chickpea, fava]
-facetLowTags: [butter, mung]
-facetLeastTags: [butter, mung, black]
 ---
 
 Red-Hot Cannellini Beans are the Bean Zodiac's most ambitious — already moving toward the next thing before the current one has cooled. They take the larger version of every offer, book the follow-up before the conversation ends, and finish the favour they half-promised by Wednesday without mentioning it. Whatever room they're in, they're already partly in the next one.

@@ -6,6 +6,11 @@ form: boiled
 trait: methodical
 dish: Sopa de frijoles negros - Cuban black bean soup with lime and epazote.
 quote: Genius is one percent inspiration and ninety-nine percent bean.
+creature: leafcutter ant
+friendlyBeans: [navy, edamame]
+antiBeans: [chickpea, pinto]
+friendlyForm: dried
+antiForm: fermented
 seasonalFortune: A season for long soaks and patient simmers. The epazote goes in when the epazote goes in; the pot keeps a quieter clock than the cook.
 fortuneMost: Good fortune soaks overnight. The step you finish in its own time is the one that holds.
 fortuneMost2: One thing closing cleanly before the next one opens — that quiet click, over and over, is how your luck gets built.
@@ -18,15 +23,15 @@ fortuneLow2: A thing begun in the middle can still hold. Trust the bowl that arr
 fortuneLeast: Begin where the heat already is, not where the page says. Your hands will itch to put it back in sequence. Leave it scattered.
 fortuneLeast2: Lime before the bean has softened feels wrong and is sometimes exactly right. Move with the change.
 facetMostTitle: Soak, Rinse, Simmer, Salt
-facetMost: You keep the order in your head like a rosary, and you start the next step only when the last one has finished speaking.
+facetMost: There's a shortcut through the steps and everyone can see it but you won't take it. The last one has to finish closing before the next is allowed to open.
 facetHighTitle: The Shelf Before the Stove
-facetHigh: You rearrange before you cook on it. The salt goes left of the stove because last week it was right and last week was wrong.
+facetHigh: Hand someone a long job and watch them dive in. You'd lay every piece out in its place first, then begin.
 facetMidTitle: Tabs Closed in Order
-facetMid: Messages answered oldest first, even the ones that have gone slightly cold by the time you reach them.
+facetMid: Oldest first, always — the reply that's gone a little stale gets answered before the one that just came in.
 facetLowTitle: Lime Before the Bean Softens
-facetLow: You begin a thing in the middle and the middle holds. Somehow the bowl arrives.
+facetLow: The recipe hasn't been read past the first line and the heat is already on. You let your hands run ahead of the plan and find out where they land.
 facetLeastTitle: Epazote Thrown in Late
-facetLeast: Mid-sentence, you change the plan — the friend was telling you Tuesday and you have already moved the whole evening, and it is welcome.
+facetLeast: Mid-conversation the whole evening changes shape — it was never Friday, it's tonight. You scrap what you'd arranged and ride the new version gladly.
 question: You're assembling flat-pack furniture with a friend who has already opened three bags out of order. You...
 answerMost: re-bag everything and start the instructions from page one
 answerHigh: quietly sort the loose screws while they keep going
@@ -38,11 +43,6 @@ rorschachHigh: a tree, narrow crown over a split sturdy trunk
 rorschachMid: a beetle seen from above
 rorschachLow: a snowman half-slumped, head sliding off the base
 rorschachLeast: a heap of laundry tipped from the basket
-facetMostTags: [navy, edamame, kidney]
-facetHighTags: [navy, edamame]
-facetMidTags: [navy, edamame]
-facetLowTags: [chickpea, pinto]
-facetLeastTags: [chickpea, pinto, green]
 ---
 
 Brined Black Beans are the Bean Zodiac's most methodical. The sequence is not a preference; it is how the thinking happens. Step two only makes sense once step one has finished closing behind it, and rushing them past a stage feels, to them, like being asked to read a sentence with the verb missing. Given a real problem and the room to handle it in order, they produce work that holds up under weather the planner didn't predict.

@@ -6,6 +6,11 @@ form: smoked
 trait: frenetic
 dish: Fatteh - Syrian smoked chickpeas layered with crisp bread, yogurt, and chili oil.
 quote: Life moves pretty fast — if you don't stop and bean around once in a while, you could miss it.
+creature: shrew
+friendlyBeans: [fava, mung]
+antiBeans: [butter, navy]
+friendlyForm: roasted
+antiForm: boiled
 seasonalFortune: A season of smoke rising from three burners at once, bread torn before the yogurt is whisked, chili oil drifting through rooms its cook has already left.
 fortuneMost: Three burners going, chili oil drifting through a room you've already left — that's the dinner, the trip, the whole thing, happening because you can't sit. Ride it; momentum is your native heat.
 fortuneMost2: Some days the scatter is exactly how you cover ground no one else reaches. This is one of them.
@@ -18,15 +23,15 @@ fortuneLow2: Fatigue is landing and you're right not to argue. Let the unfinishe
 fortuneLeast: Make one dish and eat it sitting down. The chase waits at the table's edge in fresh clothes, pretending it's urgent — it isn't.
 fortuneLeast2: A still day is coming to find you, the kind where nothing pivots. Let it land.
 facetMostTitle: The Unwatched Fire
-facetMost: You start three things in an afternoon and chase the next blister before the first finishes.
+facetMost: Forty acts, four stages, one wristband — you sprint between them catching half of each, already pulled toward the next sound on the wind.
 facetHighTitle: Pita Torn Jagged
-facetHigh: You answer the fourth message, then the seventh, and the first goes cold somewhere behind you.
+facetHigh: Mid-hike a side trail opens off the main one, then another off that. You take both, and the summit you came for slides off the afternoon's plan.
 facetMidTitle: Chili Oil Over the Rim
-facetMid: A friend is mid-sentence and you have crossed the room; you return when their voice sharpens.
+facetMid: Halfway through packing a suitcase a shiny new idea arrives. You scribble it on the back of a receipt and keep folding shirts, letting it wait its turn.
 facetLowTitle: Yogurt Left to Set
-facetLow: When fatigue lands you do not negotiate with it; the unfinished thing keeps until morning.
+facetLow: A jigsaw puzzle is spread across the table, half done. You stay in the chair and work one corner till it's solid, ignoring the dozen other things tugging at you.
 facetLeastTitle: The Single Burner
-facetLeast: You make one plan for the day and the day stays that size.
+facetLeast: A whole empty day stretches out, and you spend the entire thing on a single park bench with one book, watching the same pond go gold.
 question: You sit down to finish one task and a better idea arrives unannounced. You...
 answerMost: drop the first task and chase the new one immediately
 answerHigh: open a new tab "just to sketch it" and lose an hour
@@ -38,11 +43,6 @@ rorschachHigh: a jester's cap with points jutting out
 rorschachMid: a beetle with all its legs splayed
 rorschachLow: an owl perched still, ear tufts up
 rorschachLeast: a toad squatting low, settled in place
-facetMostTags: [adzuki, kidney, green]
-facetHighTags: [adzuki, kidney]
-facetMidTags: [adzuki, kidney]
-facetLowTags: [butter, mung]
-facetLeastTags: [butter, mung, black]
 ---
 
 Chipotle Chickpeas are the Bean Zodiac's most frenetic — and their friends have learned to text twice. The first message gets a thumbs-up an hour late from across town; the second catches them mid-pivot toward whatever the evening has become. They make the dinner happen, the trip happen, the band happen, somehow, mostly because standing still feels worse than overbooking.

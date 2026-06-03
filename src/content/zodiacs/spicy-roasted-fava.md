@@ -6,6 +6,11 @@ form: roasted
 trait: adventurous
 dish: Foul mhammar - Moroccan roasted fava beans with cumin, chili, and charmoula.
 quote: Life is either a daring bean or nothing at all.
+creature: fox
+friendlyBeans: [chickpea, mung]
+antiBeans: [kidney, adzuki]
+friendlyForm: smoked
+antiForm: fermented
 seasonalFortune: A season when the charmoula travels further than the pan it was mixed in. Households of this bean keep the windows open and the kettle moving.
 fortuneMost: The open seat in the car going nowhere in particular has your name on it. Not knowing where it lands was always the point.
 fortuneMost2: Book the road before you book the way back. You'll learn out past the map why you went.
@@ -18,15 +23,15 @@ fortuneLow2: The thing you already love rewards a closer second look. Returning 
 fortuneLeast: The same path has been rearranging itself while you booked flights elsewhere. Head up — there's a town here you only thought you'd memorised.
 fortuneLeast2: Staying put isn't standing still, whatever the itch in your feet says.
 facetMostTitle: Cumin Blooming in Hot Oil
-facetMost: You book the unfamiliar flight before the return one. Strangers' couches, odd routes home; the itinerary is the point.
+facetMost: A cargo ship takes paying passengers and won't say which ports, only that it's three weeks at sea. The not-knowing is exactly why you'd sign.
 facetHighTitle: The Chili Under the Roast
-facetHigh: You reroute mid-walk for a street you've never turned down, and arrive late without apology.
+facetHigh: A vendor holds out something fried and unnamed, grinning. In it goes, no question about what's inside.
 facetMidTitle: Skins Loud in the Pan
-facetMid: When the group debates the restaurant, you name the one nobody has tried.
+facetMid: The menu's in a script you can't read. Rather than ask, point at the dish you've never heard of and find out at the table.
 facetLowTitle: Charmoula Settling Slow
-facetLow: You reread the book you already love rather than start the stack on the table.
+facetLow: A festival you loved is on again across the country. Tempting — but the local one down the lane would do you just as well this year.
 facetLeastTitle: The Fava in Its Skin
-facetLeast: You take the same walk daily and notice more each time.
+facetLeast: Handed a blank ticket good for anywhere, you'd trade it without a flinch for a quiet week in the town you already know by heart.
 question: A friend with a campervan calls on a Thursday night - they're leaving at dawn, no plan, three open seats. You'd have to clear the weekend. You...
 answerMost: pack a bag now and message work from the road in the morning
 answerHigh: clear what you can, take the seat, figure the rest out en route
@@ -38,11 +43,6 @@ rorschachHigh: a beetle scuttling off toward the edge
 rorschachMid: a stone with frayed lichen trailing one side
 rorschachLow: a cat settling its tail around itself
 rorschachLeast: a snail drawn fully into its coiled shell
-facetMostTags: [kidney, green, pinto]
-facetHighTags: [kidney, green]
-facetMidTags: [kidney, green]
-facetLowTags: [butter, mung]
-facetLeastTags: [butter, mung, black]
 ---
 
 Peri-Peri Fava Beans are the Bean Zodiac's most adventurous — the ones whose phone is full of half-decipherable photos from the day they got off at the wrong stop and made an afternoon of it. They take the offered seat in the unfamiliar car, they order the dish they can't pronounce, they say yes to the trip that's been described to them in one sentence and a shrug.

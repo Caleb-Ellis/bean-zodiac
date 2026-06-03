@@ -6,6 +6,11 @@ form: boiled
 trait: disciplined
 dish: Red beans and rice - Louisiana style with Andouille sausage and the holy trinity, made on a Monday.
 quote: We are what we repeatedly bean. Excellence, then, is not an act, but a habit.
+creature: warhorse
+friendlyBeans: [mung, green]
+antiBeans: [pinto, adzuki]
+friendlyForm: roasted
+antiForm: fermented
 seasonalFortune: A Monday pot, set early, asked nothing of the cook but return. The season rewards the unremarkable hour repeated; richness arrives by accumulation, not by occasion.
 fortuneMost: Same chair, same hour — show up hardest on the day the streak usually dies. That's the day the habit needs you.
 fortuneMost2: The unremarkable hour you've repeated for months is quietly about to pay out, all at once, when you'd half stopped expecting it to.
@@ -18,15 +23,15 @@ fortuneLow2: Spend by feel and let the month sort itself out. Not every good str
 fortuneLeast: Burn the schedule. What it was built to make is no longer what you want — and yes, walking away from a thing you kept so faithfully will ache.
 fortuneLeast2: Sleep when sleep comes, eat when hunger asks, let the days lose their grid. The rigour that built the life can wall it off, though loosening the walls will feel, for a while, like coming undone.
 facetMostTitle: The Monday Pot
-facetMost: Your friends know which night to call and which to leave you to your work.
+facetMost: It's the dark, ugly morning when the streak almost always breaks — rain on the window, the bed warm, the swim an hour away. You're up and pulling on the cold suit because this is exactly the morning that counts.
 facetHighTitle: Sausage, the Same Way
-facetHigh: Bedtime moves by ten minutes a year; the body has learned what hour to ask for.
+facetHigh: A genuine, once-only thing lands square on your training night. Go — one missed session won't undo the year standing behind it.
 facetMidTitle: Onion, Celery, Pepper
-facetMid: You walk the dog the same route in the same order; the corner shop has your coffee on the counter before you have stepped through the door.
+facetMid: Halfway through the evening stretch you realise you've no idea anymore what it was meant to fix. You stop the routine cold to dig out the reason before another rep.
 facetLowTitle: The Thursday Pot
-facetLow: You spend by feel; the month works out and you cannot say how.
+facetLow: A windfall lands, the budget's gone vague, and somehow the month is still fine. You spend by feel for once, even as your hands itch to open the ledger and pin it all down.
 facetLeastTitle: Andouille at Midnight
-facetLeast: You sleep when sleep arrives, eat when hunger asks, and the week sorts itself around you.
+facetLeast: Holiday cabin, no alarm set, the days gone soft and gridless around you. Let sleep come when it comes and hunger decide the meals, though the missing structure feels a little like falling.
 question: It's a Monday evening — your usual practice night — and an old friend is in town for one night only and wants dinner. You...
 answerMost: keep Monday; you'll catch them next time they pass through
 answerHigh: do an abbreviated session, then meet them late
@@ -38,11 +43,6 @@ rorschachHigh: a thistle head trimmed to a tight crown
 rorschachMid: a sea urchin with spines splayed out
 rorschachLow: a bramble tangled past any clear edge
 rorschachLeast: a splat of ink flung across the page
-facetMostTags: [navy, black, pinto]
-facetHighTags: [navy, black]
-facetMidTags: [navy, black]
-facetLowTags: [pinto, chickpea]
-facetLeastTags: [pinto, chickpea, green]
 ---
 
 Dashi Kidney Beans are the Bean Zodiac's most disciplined — same chair, same hour, the Monday pot set on early and asked nothing of them but return. Bedtime moves by ten minutes a year; the inbox knows their office hours; the practice they began in a cold January is, four years later, still happening on Wednesdays without commentary. Their friends know which nights to call and which to leave alone.

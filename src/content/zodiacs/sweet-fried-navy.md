@@ -6,6 +6,11 @@ form: fried
 trait: romantic
 dish: Navy bean beignets — fried dough pillows with a white bean cream filling, dusted generously in powdered sugar.
 quote: My bean leaps up when I behold a rainbow in the sky.
+creature: black swan
+friendlyBeans: [black, edamame]
+antiBeans: [chickpea, pinto]
+friendlyForm: boiled
+antiForm: smoked
 seasonalFortune: A season for dough that rises twice. The hot oil rewards what is returned to, and the kitchen smells of sugar long after the last batch is lifted out.
 fortuneMost: The love letter, by hand, walked to the postbox before you can revise it. The first draft is the truer one — let them have it.
 fortuneMost2: Like dough that rises twice, this is a stretch that rewards what you return to, and the sweetness you tuck away now will be found for years.
@@ -18,15 +23,15 @@ fortuneLow2: Say you like where it is and want to keep finding out. Not every fe
 fortuneLeast: Love the one who's here, not the one you wrote. The gap between the two will ache a little.
 fortuneLeast2: Keep it light and let the evening stay easy. Owing no one a grand gesture is its own freedom, strange as the empty space feels.
 facetMostTitle: One Beignet at a Time
-facetMost: You write the long message, send it, write the next one — the page never empties.
+facetMost: There's a violinist playing under the bridge as the last light goes, and that's the walk over — you pull whoever you're with in close and quietly decide this exact spot belongs to the two of you now.
 facetHighTitle: Cream Still Warm
-facetHigh: You re-read old letters on slow trains and arrive somewhere softer than you left.
+facetHigh: A pressed flower falls out of an old book onto the floor. You spend the next hour adrift in everything that one petal still holds, the day getting away from you.
 facetMidTitle: Sugar at the Windowsill
-facetMid: You keep one photograph framed where ten would do, and look at it often.
+facetMid: At a stranger's wedding you tear up during the vows — two people you've never met, and still you're moved clean through by the size of what they're promising.
 facetLowTitle: Even Batches, None Favoured
-facetLow: You split the bill down the middle, kiss everyone goodbye the same way, and sleep without rehearsing the day.
+facetLow: The dinner winds down and goodbyes go round the table — a warm, even hug for everyone, then home, no replaying who looked at whom, sleeping easy.
 facetLeastTitle: Sugar Settling Where It Lands
-facetLeast: You leave the party when you mean to, owe no one a second glance, and the calendar stays clear.
+facetLeast: A first date ends pleasantly enough at the corner. You wave, walk off without inventing a meaning for it, and don't give the empty space behind you a second thought.
 question: Three weeks in, the new person asks where this is going. You...
 answerMost: tell them you've already pictured the whole rest of it
 answerHigh: say you're falling for them, mean it, and let it hang
@@ -38,11 +43,6 @@ rorschachHigh: two doves bowed in around a single egg
 rorschachMid: two headlands framing a pale bay between
 rorschachLow: two strangers turned away on a bench
 rorschachLeast: two cliffs split by an empty channel
-facetMostTags: [pinto, mung, black]
-facetHighTags: [pinto, mung]
-facetMidTags: [pinto, mung]
-facetLowTags: [butter, edamame]
-facetLeastTags: [butter, edamame, cannellini]
 ---
 
 Caramelised Navy Beans are the Bean Zodiac's most romantic — the ones who remember the date you mentioned a coat in a shop window, who write the long letter and walk it to the postbox at midnight, who can make a Tuesday feel like an anniversary of something. They love at full sugar, and the people they love spend years finding crumbs of it tucked into pockets and drawers.

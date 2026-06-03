@@ -6,6 +6,11 @@ form: boiled
 trait: frugal
 dish: Navy bean and black treacle pudding — beans boiled with treacle, ginger, and oats into a thick steamed pudding.
 quote: Beware of little bean expenses; a small leak will sink a great ship.
+creature: hamster
+friendlyBeans: [butter, cannellini]
+antiBeans: [pinto, kidney]
+friendlyForm: dried
+antiForm: fried
 seasonalFortune: A season of slow steam and weighed measures. The pudding thickens in increments; sweetness arrives by the spoonful, never the jug, and the pantry counts itself before the kitchen lights.
 fortuneMost: Build the whole meal from what's already on the shelf and feed someone with it. The resourcefulness is the love language, and it lands warm.
 fortuneMost2: You scrape the jar with the back of the spoon and rinse it for the next batch. There's a real, treacle-warm pleasure in making plenty out of little — let yourself have it.
@@ -18,15 +23,15 @@ fortuneLow2: You'd sooner give the whole pudding warm than work out whose half w
 fortuneLeast: Round up. Leave the larger tip, pick up the bill. The careful part of you will whisper; you can spare it, and the small open hand costs less than the pinched silence.
 fortuneLeast2: The proper coat, the ticket to see the far-off friend — you've known for months it'd be worth it. Buy the worth-it version and let the receipt go, even as your thumb hovers over the cheaper one.
 facetMostTitle: Treacle on the Tin
-facetMost: You scrape the jar with the back of a spoon, then rinse it for the next batch.
+facetMost: A chair you love wobbles loose and the shop wants a fortune for a new one. Out comes the glue and a clamp, an evening spent at it, and it'll outlast the showroom version.
 facetHighTitle: The Dated Oat Jar
-facetHigh: You know to the handful what the shelf still holds before you open the cupboard.
+facetHigh: There's a trip coming up and the urge is to just book and figure costs later. Instead you map it to the penny first — every fare and bed lined up — and travel with money to spare.
 facetMidTitle: Ginger Grated Thin
-facetMid: When friends ask what you'll bring, you bring the pudding — twice the warmth, half the outlay.
+facetMid: Cardboard, paint, a hidden trapdoor — the kid's present built by hand while the toy aisle goes unvisited. It's the one thing at the party they won't put down.
 facetLowTitle: Treacle by the Glug
-facetLow: You'd sooner gift the whole pudding warm than calculate whose half was larger.
+facetLow: A friend's admiring something of yours and you've two of them at home anyway. Press it on them right there — no working out its worth, no quiet wince at letting it go.
 facetLeastTitle: Forty Minutes, Half-Set
-facetLeast: Slow accumulation reads as stalling — sweetness now, ledger later.
+facetLeast: A once-in-a-lifetime concert by someone you adore, and the good seats cost a fortune. Book the front row anyway, full whack, and don't let yourself reach for the cheap balcony.
 question: Your favourite pair of boots has worn through and there's a sale on a slightly fancier replacement. You...
 answerMost: take them to the cobbler — another winter in them yet
 answerHigh: buy the cheapest decent pair on the shelf
@@ -38,11 +43,6 @@ rorschachHigh: a sealed jar narrowing to its lid
 rorschachMid: a small cypress on a low hill
 rorschachLow: a fountain brimming over its basin
 rorschachLeast: a haystack toppling loose across the field
-facetMostTags: [chickpea, mung, black]
-facetHighTags: [chickpea, mung]
-facetMidTags: [chickpea, mung]
-facetLowTags: [adzuki, chickpea]
-facetLeastTags: [adzuki, chickpea, green]
 ---
 
 Candied Navy Beans are the Bean Zodiac's most frugal — and they take a quiet, treacle-warm pleasure in it. The pantry is mapped to the jar; the dinner is a great success and cost £4.20; the gift is the pudding made from what was already in the cupboard, brought round warm, twice as welcome as anything from the shop. Sufficiency tastes good to them, and the people they feed end up tasting it too.

@@ -6,6 +6,11 @@ form: dried
 trait: acerbic
 dish: Fava bean dip with dried sumac, raw onion, and olive oil.
 quote: The truth will set you free, but first it will bean you.
+creature: wasp
+friendlyBeans: [chickpea, kidney]
+antiBeans: [navy, cannellini]
+friendlyForm: fried
+antiForm: boiled
 seasonalFortune: A season pitched at the brightness of sumac — life arrives undiluted, and the company kept tends to be those who can take their food without sugar stirred in.
 fortuneMost: Sumac bright and undiluted, no sugar stirred in. They came to you precisely because you won't pretend it works.
 fortuneMost2: Say plainly where the thing falls down. The half-formed plan should die on the table, and you're the one trusted to let it.
@@ -18,15 +23,15 @@ fortuneLow2: Ask what they think before you say what you think, then meet them p
 fortuneLeast: Genuine good is sitting in front of you and the luck is in naming it first. Lead with what worked and mean it — the rest can keep in the drawer awhile, however it itches.
 fortuneLeast2: Find the strong line before the weak one. Your praise lands rare, which makes it the thing they keep — spend it, even with the critic in you standing ready.
 facetMostTitle: Raw Onion, No Soak
-facetMost: Friends bring you the draft, the outfit, the half-formed plan because they know you will not pretend it works.
+facetMost: Sooner say it does them no favours than nod along — the neighbour is beaming about the new haircut, fishing hard for a yes.
 facetHighTitle: Oil That Cuts, Not Smooths
-facetHigh: When you owe an apology you give it whole — no qualifying clause, no shifting of weight onto circumstance.
+facetHigh: At the family table someone floats a wildly optimistic plan and the relatives murmur encouragement. You'd rather name the flaw than join the warm chorus.
 facetMidTitle: Sumac on Plain Bread
-facetMid: Your replies arrive in one sentence — the verdict given, no garnish around it, the thread closed before the recipient can ask twice.
+facetMid: Asked how the meal was, the polite answer is on the tip of every tongue but yours. You give the flat verdict and reach for your water.
 facetLowTitle: Onion Resting Under Oil
-facetLow: You wait for the right hour to say the hard thing; the room you keep is calmer for it.
+facetLow: The amateur choir is flat and the conductor turns, hopeful, for your verdict after the show. The true note in your throat can wait for a better hour.
 facetLeastTitle: Sumac Folded Deep
-facetLeast: Reading another's work, you find the strong line first, and your praise is the thing they keep.
+facetLeast: That mural on the alley wall stops you cold, genuinely good — and you cross the street to tell the artist so, leading with what works.
 question: A friend asks, in earnest, whether the thing they have spent six months on is any good. It isn't, quite. You...
 answerMost: tell them, plainly, where it falls down
 answerHigh: name the one part that doesn't work and say no more
@@ -38,11 +43,6 @@ rorschachHigh: a craggy rock with a spur on top
 rorschachMid: a storm cloud trailing a thin wisp
 rorschachLow: a sleeping cat with one whisker up
 rorschachLeast: a melting scoop of ice cream slumping
-facetMostTags: [cannellini, edamame, black]
-facetHighTags: [cannellini, edamame]
-facetMidTags: [cannellini, edamame]
-facetLowTags: [green, edamame]
-facetLeastTags: [green, edamame, kidney]
 ---
 
 Dehydrated Fava Beans are the Bean Zodiac's most acerbic. They are the friend whose opinion you ask precisely because you know it won't be wrapped — the verdict comes in one sentence, accurate, and the half-thought-out plan dies on the table where it should have. People trust them with the manuscript, the haircut, the resignation letter, because they will not bother to flatter and they will not bother to lie.

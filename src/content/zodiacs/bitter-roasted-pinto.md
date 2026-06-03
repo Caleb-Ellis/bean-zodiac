@@ -6,6 +6,11 @@ form: roasted
 trait: self-absorbed
 dish: Frijoles Refritos - with roasted bitter chiles and lard.
 quote: I don't care what you think unless it's about my bean.
+creature: mirror carp
+friendlyBeans: [adzuki, edamame]
+antiBeans: [kidney, navy]
+friendlyForm: fermented
+antiForm: boiled
 seasonalFortune: Lard renders at its own pace, indifferent to the pan; the bitter chile darkens for no one's benefit but its own. A season spent perfecting a single reflection.
 fortuneMost: A day that's been about you since the fat hit the pan is yours to enjoy with no apology. Take the seat facing the mirror and mean it.
 fortuneMost2: You render at your own pace, indifferent to the pan, and the world is content to let you. The chile darkens for no one's good but its own, and that's allowed.
@@ -18,15 +23,15 @@ fortuneLow2: Put someone else's name on the finished thing without flinching. Th
 fortuneLeast: A stranger is coming whose day deserves more of your attention than your own does. Give the gift they'd choose for themselves, not the one that points back at you — costly as that quiet feels.
 fortuneLeast2: Ask the follow-up, and don't once turn it back to yourself. Your full attention is the warmest thing you can pass across the table, even when it leaves you unseen.
 facetMostTitle: The Bean Pressed Flat
-facetMost: Every conversation, however it begins, finds its way back to the shape of you.
+facetMost: A friend's holiday photos come up on the screen and within two slides you're telling the better version of the same trip you took years back.
 facetHighTitle: Skillet Hot, Fat Fragrant
-facetHigh: You arrange a room so the best chair faces the mirror, then sit in it.
+facetHigh: Passing a shop window you catch your reflection, and the whole walk slows while you turn, half a step at a time, to study the line of yourself.
 facetMidTitle: Chile Blooming in Fat
-facetMid: You reread your own messages before sending, and after, the way one studies markings no other pinto carries.
+facetMid: When the group photo goes round, your eye lands on yourself first — you check how you came out, then catch it and ask who took the shot.
 facetLowTitle: The Chile, the Bean Beneath
-facetLow: You finish the work and put someone else's name on the credits without flinching.
+facetLow: Turn the whole room toward the quiet one who keeps getting talked over, and ask the question that makes them the centre of it.
 facetLeastTitle: Chiles Handed Across
-facetLeast: You choose gifts the recipient would pick for themselves, never the ones that would remind them of you.
+facetLeast: A friend's in a bad way and needs the night to be about them. You give it whole and leave your own week unmentioned at the door.
 question: A friend calls and starts telling you about a hard week at work. You...
 answerMost: cut in with the version of this that happened to you last spring
 answerHigh: nod along and steer it toward a story of your own
@@ -38,11 +43,6 @@ rorschachHigh: a cat studying its own reflection close
 rorschachMid: a boulder beside a knotted thornbush
 rorschachLow: two heads turned outward, away from each other
 rorschachLeast: a figure leaning toward another, hand extended
-facetMostTags: [kidney, cannellini, fava]
-facetHighTags: [kidney, cannellini]
-facetMidTags: [kidney, cannellini]
-facetLowTags: [fava, edamame]
-facetLeastTags: [fava, edamame, green]
 ---
 
 Wood-Fired Pinto Beans are the Bean Zodiac's most self-absorbed — and, for a while, the most magnetic for it. They fill a room with a warmth that's hard to look away from; they take real care with their own markings, reread their own messages like a text worth studying, and arrange the best chair to face the mirror so they can sit in both at once. There's a confidence here that other beans borrow just by standing near it.

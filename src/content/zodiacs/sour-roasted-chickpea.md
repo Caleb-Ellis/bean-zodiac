@@ -6,6 +6,11 @@ form: roasted
 trait: open-minded
 dish: Fatteh - toasted flatbread layered with roasted chickpeas, yogurt, and pomegranate molasses
 quote: The bean mind is like a parachute — it only works when open.
+creature: bottlenose
+friendlyBeans: [adzuki, pinto]
+antiBeans: [black, cannellini]
+friendlyForm: fried
+antiForm: dried
 seasonalFortune: A season when the flatbread softens under what is poured over it. Old certainties go pleasantly soggy; the household acquires unfamiliar guests, unfamiliar molasses.
 fortuneMost: The objection you meant to dismiss turns out to be the stronger argument — that's the luck of your turn. Build around it.
 fortuneMost2: The loudest dissenter's certainty is your raw material, the way pomegranate molasses pours flavour over plain bread. Pull them closer and ask for the whole case.
@@ -18,15 +23,15 @@ fortuneLow2: No room needs remaking to be welcoming. The chair can stay where it
 fortuneLeast: The next argument isn't better — only newer. Hold the position you reasoned your way to, even as its arrival unsettles you.
 fortuneLeast2: When every suggestion soaks into you and shifts you, plant your feet. It costs you the open feeling you trust, but the route you chose was a real route, walked on purpose.
 facetMostTitle: Pomegranate Thinned by Yogurt
-facetMost: At the table you pull the loudest dissenter closer and ask them to keep going.
+facetMost: A street preacher is shouting down everything you hold true. Instead of walking past, you stop and ask him to make his strongest point first.
 facetHighTitle: Splitting Along a New Seam
-facetHigh: You finish a draft, hear one good objection, and rewrite the spine.
+facetHigh: You've planned the whole trip when someone pokes a real hole in the route. Rather than patch the edges, you let it reopen the whole map.
 facetMidTitle: Layers Left Open
-facetMid: Three arguments against your position stay pinned for weeks; you reread them before deciding anything.
+facetMid: Halfway up the trail, a hiker coming down warns the path ahead is wrong. You don't turn back yet — you stand a moment and weigh it before choosing.
 facetLowTitle: Bread Refusing the Soak
-facetLow: Your room sits the way it sat last year — one chair, one angle, no rearranging for visitors.
+facetLow: The answer's clear and four people have already confirmed it. When a fifth offers to weigh in, you thank them and let the question stay closed.
 facetLeastTitle: Roasted Past Yielding
-facetLeast: Sunday is Sunday; the route to work is the route; suggestions slide off like oil from a hot pan.
+facetLeast: A newer, shinier argument turns up to unsettle the position you walked to on purpose. You hold your feet right where they are and let it slide past.
 question: At dinner the loudest person at the table takes a position you find faintly wrong. You...
 answerMost: pull your chair closer and ask them to make the case in full
 answerHigh: lean in and turn the disagreement into a real conversation
@@ -38,11 +43,6 @@ rorschachHigh: a tree spreading its crown over tangled roots
 rorschachMid: a bat above a nest of twigs
 rorschachLow: a figure pulling a wide hat down over itself
 rorschachLeast: folded wings clenched into a tight knot
-facetMostTags: [green, fava, pinto]
-facetHighTags: [green, fava]
-facetMidTags: [green, fava]
-facetLowTags: [butter, mung]
-facetLeastTags: [butter, mung, black]
 ---
 
 Chimichurri Chickpeas are the Bean Zodiac's most open-minded — at dinner, they pull the loudest dissenter closer and ask them to keep going. The objection that would close another person's face opens theirs. They finish a draft, hear one good argument against the spine of it, and rewrite the spine before bed.

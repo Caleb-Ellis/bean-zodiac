@@ -6,6 +6,11 @@ form: fried
 trait: fearless
 dish: Ta'amiya - fava bean falafel with bitter herb tahini and pickled turnip.
 quote: Do the thing you are afraid to do, and the bean of fear is certain.
+creature: badger
+friendlyBeans: [chickpea, mung]
+antiBeans: [cannellini, adzuki]
+friendlyForm: fermented
+antiForm: boiled
 seasonalFortune: Oil at temperature does not negotiate; the herb crashes in green and bitter and stays. The almanac reads hot this stretch — hesitation scorches faster than commitment.
 fortuneMost: Walk in with empty hands. You never needed the armful of prep; you brought yourself, and that was always the thing that worked.
 fortuneMost2: A door propped onto an unlit corridor, and what you're after waits at the far end. Go through without breaking stride.
@@ -18,15 +23,15 @@ fortuneLow2: There's a pan you haven't lit, and a reason. Honour the reason befo
 fortuneLeast: Wrong door. Hard to turn from one already half-open, but the one beside it is unguarded and the better way through.
 fortuneLeast2: Each step earns the next. The middle is the part you'll want to rush — let the order hold, and the thing arrives whole.
 facetMostTitle: The Falafel, Split Open
-facetMost: No survey of the fridge, no second thought — you stand at the counter and split the falafel with your hands.
+facetMost: The cliff path ahead has washed out to a narrow ledge and the others have stopped. You don't slow — one glance at the footing and you're across, hands light on the rock.
 facetHighTitle: Oil Already at Heat
-facetHigh: You press the mixture through before the herb tahini is ground, and finish both at once.
+facetHigh: Cold lake, early, the whole group toeing the edge and talking themselves into it. You're already off the dock and mid-air while the rest are still debating the temperature.
 facetMidTitle: The Pickled Turnip Between
-facetMid: The stranger at the next stool asks something direct; you answer the same way.
+facetMid: There's a wasp loose in the kitchen and everyone's gone still. You don't love it either, but you're the one who gets up, opens the window, and waves it out.
 facetLowTitle: Oil Down a Degree
-facetLow: There is a pan you have not turned on yet, and a reason.
+facetLow: Kids are egging you toward the rope swing out over the river. You test the knot, clock the rocks just under the surface, and decide this one isn't yours to take.
 facetLeastTitle: Brine Before the Salt
-facetLeast: Each step earns the next, and the ta'amiya arrives at the table whole.
+facetLeast: A booth at the fair dares you to climb the wobbling tower for a prize. You watch it sway once, picture the fall, and walk on by — some dares just aren't worth the bruise.
 question: A door at the back of the party is propped slightly open onto an unlit corridor. You...
 answerMost: walk through without breaking stride
 answerHigh: push it open and head down to see
@@ -38,11 +43,6 @@ rorschachHigh: a hawk's wings thrown open mid-dive
 rorschachMid: two islands joined by a thin land bridge
 rorschachLow: two wings folding back down to rest
 rorschachLeast: a moth pulling its wings in tight
-facetMostTags: [kidney, green, pinto]
-facetHighTags: [kidney, green]
-facetMidTags: [kidney, green]
-facetLowTags: [butter, mung]
-facetLeastTags: [butter, mung, black]
 ---
 
 Scorched Fava Beans are the Bean Zodiac's most fearless. The hard call gets made before the kettle whistles; they walk into the room without the deck because they are the deck, and the thing everyone else was circling all morning gets done while they were still deciding whether to be nervous. They did weigh the risk — quickly, accurately — and then simply moved.

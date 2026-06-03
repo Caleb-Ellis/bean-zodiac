@@ -6,6 +6,11 @@ form: fermented
 trait: poetic
 dish: Doenjang juk - savory mung bean porridge with fermented soybean paste and sesame oil.
 quote: A bean should be more careful of his learning than of the pebble in his shoe.
+creature: nightingale
+friendlyBeans: [fava, cannellini]
+antiBeans: [edamame, green]
+friendlyForm: smoked
+antiForm: fried
 seasonalFortune: The crock keeps its dark counsel; salt slows the bean into speech. A season for slow language, for what thickens beneath the lid before it is ladled.
 fortuneMost: The line you write this turn is the one someone keeps in a drawer for years.
 fortuneMost2: Phrases everyone else walked past keep collecting in you. Set them down where a tired person will find them; the music you make of plain things is the whole gift.
@@ -18,15 +23,15 @@ fortuneLow2: Eat the porridge while it's hot and don't pause to name the warmth.
 fortuneLeast: A gentle sign this turn to put the body first — water, food, sleep, in that plain order. The poem will call; it keeps fine without you for one evening.
 fortuneLeast2: Handle the dull thing the day it lands, filed plain, no flourish in the margin. Not everything has to be made beautiful to be done right.
 facetMostTitle: Steam Off the Porridge
-facetMost: You move through rooms gathering small phrases nobody else logged.
+facetMost: Naming the new dog falls to you. You won't take the first decent name — you turn it on your tongue for days until one rings exactly true.
 facetHighTitle: Oil Dark on the Surface
-facetHigh: You rewrite the three-line message four times; the cadence matters as much as the news.
+facetHigh: A toast at the leaving-do, and the room's gone quiet for it. You reach past the easy line for the one that will actually be remembered.
 facetMidTitle: The Clay Pot, Moved
-facetMid: You rearrange a shelf until the objects rhyme.
+facetMid: Why do these three stones from the beach sit better in this order than that? You shift them on the sill until they do.
 facetLowTitle: The Cooling Rim
-facetLow: You eat while it's hot and don't pause to name the warmth; the day moves and you move with it.
+facetLow: First light comes through the window just right, and you take it in without reaching for words to hold it.
 facetLeastTitle: The Paste's Own Time
-facetLeast: Bills paid the day they arrive, receipts filed plain, no flourish in the margin.
+facetLeast: A thank-you owed for the gift. You send a plain, warm line the same afternoon and don't labour the phrasing.
 question: You need to text a friend that you're running ten minutes late. You...
 answerMost: rewrite it four times until the rhythm sits
 answerHigh: pick one warm word and keep it
@@ -38,11 +43,6 @@ rorschachHigh: a swallow caught mid-glide over water
 rorschachMid: a butterfly pressed flat between two pages
 rorschachLow: a bath towel pinned across a line
 rorschachLeast: a torn tarp snagged flat on a fence
-facetMostTags: [adzuki, pinto, green]
-facetHighTags: [adzuki, pinto]
-facetMidTags: [adzuki, pinto]
-facetLowTags: [butter, black]
-facetLeastTags: [butter, black, kidney]
 ---
 
 Miso Mung Beans are the Bean Zodiac's most poetic — even the apology for being late is a small composition by the time it goes out, weighed for cadence, one word swapped for a warmer one. The condolence card they write is the one their friends keep in a drawer for years; the toast at the dinner is the line everyone repeats afterwards in the cab.

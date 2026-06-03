@@ -6,6 +6,11 @@ form: roasted
 trait: refined
 dish: Bruschetta - cannellini with bitter olive tapenade and roasted garlic.
 quote: A bean by any other name would taste as fine.
+creature: mute swan
+friendlyBeans: [navy, mung]
+antiBeans: [fava, kidney]
+friendlyForm: fermented
+antiForm: smoked
 seasonalFortune: A season for the long heat that coaxes garlic from acrid to mellow. Households of this bean keep the oven on past dinner, slow-finishing what others would already serve.
 fortuneMost: You wipe the rim no one else would ever notice. That's the whole point — care that goes unnamed is still felt.
 fortuneMost2: Three small things moved before the guests arrive, and the place exhales. The touch you've practised is about to land quietly, unmistakably right.
@@ -18,15 +23,15 @@ fortuneLow2: The unpolished thought still arrives, and warmer for the roughness,
 fortuneLeast: Down by the water, the bruschetta eaten off a wall with the wind in everyone's hair will beat the perfect plate left waiting on the bench. Go out into the rough of it.
 fortuneLeast2: Lower yourself into the crooked chair and don't see the crookedness. The room was good enough all along — though part of you keeps reaching to set it true.
 facetMostTitle: The Crust After the Fire
-facetMost: You walk a room before guests arrive and move three things; the room exhales.
+facetMost: Borrow a friend's car for a day and it comes back washed, tank full, the crumbs they'd never have mentioned gone from the seats.
 facetHighTitle: Tapenade, Pounded Smooth
-facetHigh: You rewrite the reply twice, then once more for the comma.
+facetHigh: The table's set and fine, yet you circle it once more, turning each fork a quarter-inch till the handles line up.
 facetMidTitle: Each Slice Angled
-facetMid: At introductions, you place names like garnish, so each person lands somewhere they can stand.
+facetMid: Bring the lost newcomer one good name to meet, then let the party carry them the rest of the way.
 facetLowTitle: Raw Garlic, Straight in
-facetLow: You speak first and shape the thought as it travels; the bite stays on your tongue and you don't mind.
+facetLow: A half-formed idea is on your tongue and the meeting's still going. You say it out loud unfinished and shape it as it lands.
 facetLeastTitle: Char Left Where It Fell
-facetLeast: You ship the work rough, post the photo unstraightened, and feel no pull toward the second pass.
+facetLeast: The shelf you built leans a little and the joints show, and there's your coat already hung on it, the sander nowhere in your thoughts.
 question: You arrive early at a friend's place. The lamps are wrong, a picture hangs crooked, and the bowl of olives is on the windowsill. You...
 answerMost: rearrange the room before they come out of the kitchen
 answerHigh: straighten the picture and nudge the lamp
@@ -38,11 +43,6 @@ rorschachHigh: a fern unfurling fronds from a tidy clump
 rorschachMid: a rocky islet with a few jutting peaks
 rorschachLow: a crab scuttling, legs splayed out crooked
 rorschachLeast: a torn leaf chewed ragged at the edges
-facetMostTags: [navy, black, kidney]
-facetHighTags: [navy, black]
-facetMidTags: [navy, black]
-facetLowTags: [fava, green]
-facetLeastTags: [fava, edamame, green]
 ---
 
 Wood-Fired Cannellini Beans are the Bean Zodiac's most refined — they improve everything they touch. They walk a room before guests arrive and move three things, and the room exhales; at introductions they place names like garnish, so each person lands somewhere they can stand. The reply gets a second pass, then a third for the comma. Nothing they touch is left worse.

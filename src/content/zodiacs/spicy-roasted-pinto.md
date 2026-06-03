@@ -6,6 +6,11 @@ form: roasted
 trait: unpredictable
 dish: Frijoles charros - pinto beans simmered with roasted pasilla chiles, bacon, and jalapeño.
 quote: Consistency is the last refuge of the bean-less.
+creature: weasel
+friendlyBeans: [edamame, green]
+antiBeans: [navy, black]
+friendlyForm: fermented
+antiForm: boiled
 seasonalFortune: Roasted pintos refuse a fixed order this season; some pots lead with pasilla smoke, others with jalapeño bite. The kitchen rewards those who taste before they plan.
 fortuneMost: The long way round for no reason at all is the better pot. Whatever you planned will keep; the detour won't.
 fortuneMost2: The safe plan ditched for the one nobody saw coming pays out, the way it usually does.
@@ -18,15 +23,15 @@ fortuneLow2: Keep the standing plan when you'd rather bolt. It's how you stay fi
 fortuneLeast: The rotation you can cook without thinking is its own quiet comfort. Lean on it a while and notice the roots that hold.
 fortuneLeast2: Returning to the trusted books, the unchanged list, isn't the dullness you fear — it's how some things actually root. Some seasons that's the richer pot.
 facetMostTitle: Three Chiles, None Called for
-facetMost: You introduce yourself differently each time and mean every version. Acquaintances compare notes and find separate people.
+facetMost: Halfway to the airport for a trip booked months ago, a billboard for somewhere else catches your eye, and you're seriously weighing a swerve to the other gate.
 facetHighTitle: The Cracked Pasilla
-facetHigh: You answer emails in the order they smell interesting, not the order they arrived.
+facetHigh: Three days into a job you start each morning from a different desk, by a different door, just to see how the building feels from there.
 facetMidTitle: Bacon's Uneven Beat
-facetMid: You change the route home for no reason. Friends learn to ask which version they've got.
+facetMid: A dull stretch sets in, so you flip the furniture around and walk to work the wrong way — small turns, and the week wakes back up.
 facetLowTitle: The Jalapeño on the Minute
-facetLow: Your weeknights run on a fixed rotation; the leftovers tell you which day it is.
+facetLow: A friend's been counting on you for the same standing thing. Show up for it unchanged a few weeks running, dull as that feels, because the sameness is the gift.
 facetLeastTitle: The Exact Copper
-facetLeast: You reread the books you trust and decline the ones you don't. The grocery list has not changed in years.
+facetLeast: Same chair, same order, same walk back — and given the chance to shake any of it up, you'd keep every piece exactly where it's worn its groove.
 question: You agreed to a regular Wednesday catch-up with a friend, and on the third Wednesday you wake up wanting almost anything else. You...
 answerMost: bail, suggest something completely different in a different city next month
 answerHigh: text to move it to Friday, somewhere you've never been
@@ -38,11 +43,6 @@ rorschachHigh: a startled cat twisting away mid-leap
 rorschachMid: a scarecrow leaning crooked off its post
 rorschachLow: a coat hung neatly on a still rack
 rorschachLeast: a figure standing squarely at attention
-facetMostTags: [chickpea, mung, black]
-facetHighTags: [chickpea, mung]
-facetMidTags: [chickpea, mung]
-facetLowTags: [adzuki, chickpea]
-facetLeastTags: [adzuki, chickpea, green]
 ---
 
 Peri-Peri Pinto Beans are the Bean Zodiac's most unpredictable — the ones who turn up to the same bar with a different haircut, a new job, and a story about a weekend nobody saw coming. Plans they made warmly on Tuesday are not the plans they're proposing on Friday, and the proposal is usually better. Friends keep them because the surprise is reliably worth the recalibration.

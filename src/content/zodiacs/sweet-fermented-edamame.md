@@ -6,6 +6,11 @@ form: fermented
 trait: practiced
 dish: Edamame in mirin and sake reduction — soybeans lacquered in sweet rice wine, simmered until each one is evenly coated and glossed.
 quote: Patience is bitter, but its bean is sweet.
+creature: old wolf
+friendlyBeans: [pinto, cannellini]
+antiBeans: [mung, butter]
+friendlyForm: smoked
+antiForm: boiled
 seasonalFortune: A season for slow reductions. Each pass over the heat thickens what came before, and by the end the glaze carries the whole afternoon.
 fortuneMost: A quiet thing nobody has noticed is nearly done reducing.
 fortuneMost2: One more pass over the heat, the same as all the others before it. Add the coat.
@@ -18,15 +23,15 @@ fortuneLow2: Sit down hard, finish it in one heat, carry nothing into next month
 fortuneLeast: A day with no plan and no carry-over. Days that build nothing have their own use — let this one have it, uneasy as the empty calendar feels.
 fortuneLeast2: Let the day take itself. Arriving at evening with nothing laid out for tomorrow is a rest you don't quite trust, and need anyway.
 facetMostTitle: A Glaze Reduced
-facetMost: The five-minute habit you started years ago has made you the friend who remembers everything.
+facetMost: The teacher hands you a scale to run a hundred times before the next lesson and most of the class groans. Something in you settles, glad of a thing you can simply do until it shines.
 facetHighTitle: Sake Before the Mirin
-facetHigh: The walk you started in February is now the hour you think best in.
+facetHigh: Stiff, grey light, and the loop you've worn into the hillside looks unappealing this once. Your shoes are already on and you're at the gate, same as the morning before.
 facetMidTitle: Mirin at Its Heat
-facetMid: Six weeks in and the habit is already paying back more than it costs.
+facetMid: A flashier method gets pitched to you, all sparkle, while the plain one in your hands keeps quietly working. Stay with the dull thing that's already returning more than it takes.
 facetLowTitle: One Pod, One Heat
-facetLow: You sit down once, hard, do the thing, and nothing is left to build on next month.
+facetLow: A task lands that genuinely only wants doing once. Finish it in a single sitting and walk off without rigging it into a routine you'll tend forever.
 facetLeastTitle: The Untimed Pot
-facetLeast: No plan; the day takes itself, and evening arrives with nothing built for tomorrow.
+facetLeast: A wide-open stretch of hours, no list, no thread to pick up tomorrow. You let it run loose and reach dusk with nothing laid down for the next day.
 question: A younger version of you would have struggled badly with what you handled easily this morning. You notice it walking to the bus. You...
 answerMost: count the years and the unglamorous Tuesdays it took, and feel the weight of them honestly
 answerHigh: name the small habit that did the work, and let yourself enjoy that it stuck
@@ -38,11 +43,6 @@ rorschachHigh: two threshold slabs worn smooth and dished
 rorschachMid: two flat stones stacked one above another
 rorschachLow: a fresh-cut block set down, edges still sharp
 rorschachLeast: a slab still rough and squared from the quarry
-facetMostTags: [navy, butter, black]
-facetHighTags: [navy, butter]
-facetMidTags: [navy, butter]
-facetLowTags: [fava, green]
-facetLeastTags: [fava, green, pinto]
 ---
 
 Funky Edamame are the Bean Zodiac's most practiced — the ones who started writing a page a morning four years ago and quietly never stopped. The thing they're good at is so worn-in it looks like a personality trait, and they've forgotten it was ever a decision. Ask how they do it and they look puzzled; the answer is just Tuesdays, hundreds of them.

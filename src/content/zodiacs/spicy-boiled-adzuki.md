@@ -6,6 +6,11 @@ form: boiled
 trait: spirited
 dish: Adzuki bean congee with gochugaru and soft-boiled egg.
 quote: You've gotta have bean.
+creature: colt
+friendlyBeans: [kidney, pinto]
+antiBeans: [cannellini, butter]
+friendlyForm: roasted
+antiForm: smoked
 seasonalFortune: A season of slow simmer under bright pepper. The adzuki holds its color through long heat, and the year asks the same of those who carry it.
 fortuneMost: You are the heat under the day. Whatever you walk toward this week warms a few degrees just because you got there.
 fortuneMost2: When someone you love wins something small, make a scene of it. You're the one who turns a shrug into a celebration.
@@ -18,15 +23,15 @@ fortuneLow2: Hand someone else's win the spotlight, and feel it warm you back an
 fortuneLeast: One thing you finished and told no one still counted. The quiet of it is yours to keep.
 fortuneLeast2: Bank the fire low for a stretch. It costs you, holding that much heat back — but a banked ember keeps longer, and you'll want it later.
 facetMostTitle: Gochugaru at the Bloom
-facetMost: You walk into the room and it reorders; nobody is unsure you've arrived.
+facetMost: A party's gone flat, conversations sagging in corners. You wade in and pull the whole night up to your pitch.
 facetHighTitle: The Pot Before the Recipe
-facetHigh: You begin the work loud, then let it cook down to something anyone can eat.
+facetHigh: Pointing the way is never enough for you. A stranger asks where the good lookout is and you turn and walk them up there yourself.
 facetMidTitle: Hunger as Heat
-facetMid: You eat standing, sleep when the simmer drops, push past tired on the strength of the next idea.
+facetMid: The pot's nearly empty and it's well past sleep, but the idea won't stop bubbling. Why bank it for morning when it's hot now?
 facetLowTitle: The Egg, Left Whole
-facetLow: Messages pile; you answer the one that matters and let the rest steep.
+facetLow: Let the others argue it out. The group's loud about where to eat and you're content with wherever they land.
 facetLeastTitle: The Jar Kept Closed
-facetLeast: A room you keep is a low fire — lamp, blanket, one chair pulled close. The gochugaru stays in the jar.
+facetLeast: A whole free evening, and the phone could fill it in one text. You leave it dark and keep the quiet for yourself.
 question: Mid-morning at the playground with a friend's kid, and they nail the monkey bars for the first time, looking straight at you. You...
 answerMost: cheer loud enough that two other parents look over and applaud
 answerHigh: throw both hands up and shout their name across the gravel
@@ -38,11 +43,6 @@ rorschachHigh: a torch flaring above two cupped hands
 rorschachMid: a moth perched over a narrow vase
 rorschachLow: a candle guttering low in a stone holder
 rorschachLeast: a banked ember cupped in cold ash
-facetMostTags: [kidney, green, pinto]
-facetHighTags: [kidney, green]
-facetMidTags: [kidney, green]
-facetLowTags: [butter, mung]
-facetLeastTags: [butter, mung, black]
 ---
 
 Braised Adzuki Beans are the Bean Zodiac's most spirited — the kind whose arrival rearranges a room before they've sat down. They run hot for the people they love, give the toast nobody asked for, put the song on twice; an ordinary Tuesday with one of them in it stops feeling ordinary.

@@ -6,6 +6,11 @@ form: fried
 trait: aggressive
 dish: Stir-fried fava beans with doubanjiang, ginger, and soy.
 quote: The best bean defense is a good offense.
+creature: rhino
+friendlyBeans: [chickpea, mung]
+antiBeans: [adzuki, butter]
+friendlyForm: fermented
+antiForm: smoked
 seasonalFortune: A season that runs hot. The wok smokes before the doubanjiang lands, and the days arrive at temperature, asking to be met there.
 fortuneMost: The wok's already smoking before the doubanjiang lands. You walk into the stalled thing at full heat and end it, and whoever should've made that call is quietly relieved you took it.
 fortuneMost2: Make the move everyone's been circling for a week. Things shift because you decided they would.
@@ -20,13 +25,13 @@ fortuneLeast2: They were about to get there themselves. Hold your fire and let t
 facetMostTitle: Ginger Into Hot Oil
 facetMost: You cross the threshold mid-sentence, and the room finishes the sentence rearranging itself around where you have decided to stand.
 facetHighTitle: The Pan Still Wanting
-facetHigh: A sibling starts to phrase the difficult question at the wake and you give the answer at the comma; the back half of the question goes unsaid, and the room moves on.
+facetHigh: Two strangers are squaring up on a crowded platform and the crowd goes still; you're the one stepping between them while everyone else studies their shoes.
 facetMidTitle: Soy Hitting Iron
-facetMid: When the bill is wrong you say so at the table, not in the car, not the next morning to a friend.
+facetMid: The plumber's quote is plainly padded. You name it as too high right there on the doorstep instead of nodding and stewing on the drive home.
 facetLowTitle: The Fava Left Overnight
-facetLow: You let the slight sit; by morning the steam is gone and the reply you drafted reads now like somebody else's quarrel.
+facetLow: An insult lands and the cutting comeback is loaded — but you set it down and let the heat drain out before you'd ever fire it.
 facetLeastTitle: Doubanjiang Measured Twice
-facetLeast: You distrust the smoking wok. Force strikes you as a sign the cook miscalculated, not a sign of skill.
+facetLeast: A standoff hardens and your instinct is to retreat, not charge; pushing in feels less like nerve than like a fight you needn't pick.
 question: A meeting has been circling the same point for twenty minutes and no one has made the call. You...
 answerMost: cut in, name the decision, and move to the next agenda item
 answerHigh: ask whoever's quietest what they actually think
@@ -38,11 +43,6 @@ rorschachHigh: a bull lowering its head to charge
 rorschachMid: a snowman, head settled on a broad base
 rorschachLow: a monk seated, hands folded in his lap
 rorschachLeast: a pillow slumped against a soft cushion
-facetMostTags: [kidney, edamame, cannellini]
-facetHighTags: [kidney, edamame]
-facetMidTags: [kidney, edamame]
-facetLowTags: [butter, edamame]
-facetLeastTags: [butter, edamame, black]
 ---
 
 Tempura Fava Beans are the Bean Zodiac's most aggressive — the ones who walk into the stalled meeting and end it in four minutes. They make the call no one wants to make, send the message everyone has been drafting for a week, raise the bill error at the table while the others are still planning to email about it tomorrow. The room moves because they decided it would.

@@ -6,6 +6,11 @@ form: fermented
 trait: provocative
 dish: Adzuki doenjang jjigae - Korean fermented soybean paste stew with gochugaru and tofu.
 quote: Every act of creation is first an act of bean destruction.
+creature: shrike thrush
+friendlyBeans: [chickpea, pinto]
+antiBeans: [navy, edamame]
+friendlyForm: roasted
+antiForm: dried
 seasonalFortune: A crock that has waited all winter begins to push against its weight. The season belongs to those whose long-kept things are ready to enter rooms.
 fortuneMost: The crooked thing you've been fermenting in the dark is ready. Tip it in offhand and watch the table tilt toward it.
 fortuneMost2: Drop the half-sentence and walk to the window. By the time they've untangled it, you'll be thinking about the next one.
@@ -18,15 +23,15 @@ fortuneLow2: Not every quiet wants disturbing. Leaving the lid on costs you the 
 fortuneLeast: Take the heat out and hand back something milder. It feels like losing; it lands as trust.
 fortuneLeast2: Be like tofu in broth, soft against your own grain. The room exhales, and that exhale is for you.
 facetMostTitle: Still Bubbling at the Door
-facetMost: You enter conversations you weren't in and leave them unable to resume the old shape.
+facetMost: Everyone at the long table is nodding the same nod, agreeable and half-asleep. Say the thing that stops the nodding.
 facetHighTitle: Doenjang Cracked Open
-facetHigh: You send the message that turns a settled thread sharp, then stay to watch it work.
+facetHigh: One question would pull apart the truce two friends reached just to be done with it — and you've already half-asked it before deciding whether to.
 facetMidTitle: Gochugaru in Hot Oil
-facetMid: You bring the one observation no one wanted named, and the table rearranges around it.
+facetMid: There's an obvious flaw in the plan and a polite silence around it. Name it out loud while the silence still holds.
 facetLowTitle: The Paste on Its Own Shelf
-facetLow: You keep rooms calm, move things gently, prefer the air a place already has.
+facetLow: A stranger on the bus is wrong about something out loud, and a few people glance your way. You let them be wrong and watch the road.
 facetLeastTitle: Tofu Without Seasoning
-facetLeast: You smooth what others sharpened, write the soft reply, take the heat out before it spreads.
+facetLeast: Both sides bristling, a heated argument is handed to you to settle. Smooth it into the version where everyone keeps their dignity, even the one who was wrong.
 question: A friend's group chat has settled into a polite truce after a fight you weren't part of. Everyone's typing carefully. You...
 answerMost: drop the half-sentence that re-opens the whole thing
 answerHigh: name the thing nobody wants named, gently
@@ -38,11 +43,6 @@ rorschachHigh: a snake emerging from grass
 rorschachMid: a squid drifting with two trailing arms
 rorschachLow: two cats curled next to one another
 rorschachLeast: a butterfly resting gently
-facetMostTags: [pinto, green, fava]
-facetHighTags: [pinto, green]
-facetMidTags: [pinto, green]
-facetLowTags: [butter, mung]
-facetLeastTags: [butter, mung, black]
 ---
 
 Kimchi Adzuki Beans are the Bean Zodiac's most provocative — the ones who slide a strange sentence into a settled room and watch the furniture move. They've been turning it over in the dark for days; by the time it lands at dinner it sounds offhand, even mild, and only later does anyone realise the conversation took a corner.

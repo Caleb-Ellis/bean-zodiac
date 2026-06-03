@@ -6,6 +6,11 @@ form: fried
 trait: protective
 dish: Hotteok with red bean — Korean street pancakes fried until blistered, filled with sweetened kidney bean paste and brown sugar.
 quote: We must protect the beans at all cost!
+creature: rottweiler
+friendlyBeans: [mung, fava]
+antiBeans: [pinto, adzuki]
+friendlyForm: boiled
+antiForm: dried
 seasonalFortune: A season for blistered surfaces and sweet interiors; what the pan darkens, it also seals, and the soft hearts inside go unbothered by the fire.
 fortuneMost: Offer the lift before they ask, time already picked. The driving is the love letter; you just don't call it that.
 fortuneMost2: What the pan darkens it also seals — and that's you this week, taking the blistering so the soft heart behind you goes unbothered by the fire.
@@ -18,15 +23,15 @@ fortuneLow2: Ask what they want before you offer anything. The care can be in wa
 fortuneLeast: Stop fixing it. Sit beside them in the trouble and solve nothing; it'll feel like doing nothing at all.
 fortuneLeast2: When they insist, hand the heavy bag back without comment. Letting someone carry their own is also protecting them.
 facetMostTitle: Molten Sugar, Crust Around It
-facetMost: On the sidewalk you step a half-pace forward when a stranger speaks too close to someone smaller than you.
+facetMost: Jacket off and round the kid before you've even felt the rain — a storm's cracked open on the trail, there's no shelter for a mile, and you're not about to let them take the worst of it.
 facetHighTitle: Edges Crisp First
-facetHigh: You read the message twice before passing it on, deciding what your friend doesn't need to see tonight.
+facetHigh: A dog comes tearing off-leash across the park toward a small child. You're already moving, body between them, long before you've worked out whether it means any harm.
 facetMidTitle: The Seam Pressed Shut
-facetMid: Coats go on the hook nearest the door; the spare key lives where you can reach it without looking.
+facetMid: Walking a friend to their car after dark, you fall into step on the traffic side without a word and wait at the curb until the engine turns over.
 facetLowTitle: Filling Left Uncovered
-facetLow: When a friend describes a hard week you ask what they want to do about it before offering anything.
+facetLow: A friend's venting about a rough stretch and your fixes are right at your lips. You hold them, and just ask what they actually want from you before saying a thing.
 facetLeastTitle: Sugar on the Bare Griddle
-facetLeast: You hand back the heavy bag without comment when someone insists they've got it.
+facetLeast: Someone you'd normally cover for waves you off, says they've got this one. You take your hand off it, swallow the worry, and let them carry it themselves.
 question: A friend tells you about a difficult conversation they have to have at work tomorrow. You...
 answerMost: offer to call their boss yourself and clear the air
 answerHigh: rehearse the conversation with them tonight
@@ -38,11 +43,6 @@ rorschachHigh: a hare hunched low, both ears stood up tall
 rorschachMid: a beetle with two long feelers reaching up
 rorschachLow: a moth at rest, antennae loose and drooping
 rorschachLeast: an empty cocoon split open at the top
-facetMostTags: [navy, mung, cannellini]
-facetHighTags: [navy, mung]
-facetMidTags: [navy, mung]
-facetLowTags: [butter, edamame]
-facetLeastTags: [butter, edamame, black]
 ---
 
 Caramelised Kidney Beans are the Bean Zodiac's most protective — the ones whose hand is already on your back when you step into the cold. They cook the double batch, drive the late lift, screen the message before forwarding it on. The care is warm, never hovering; you only notice afterwards how much friction they absorbed on your behalf.

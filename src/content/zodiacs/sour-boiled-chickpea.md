@@ -6,6 +6,11 @@ form: boiled
 trait: flexible
 dish: Harira - Moroccan chickpea soup with preserved lemon and tomato.
 quote: It is not the strongest bean that survives, nor the most intelligent, but the one most responsive to change.
+creature: serpent
+friendlyBeans: [cannellini, adzuki]
+antiBeans: [black, mung]
+friendlyForm: roasted
+antiForm: fermented
 seasonalFortune: A pot of harira keeps changing for hours — tomato thinning, lemon sharpening, chickpea giving up its edge. The kitchens that thrive this season are the ones tended slowly.
 fortuneMost: A better plan is on its way, half-cooked and a little tart like harira an hour in. When it lands, drop the old one without ceremony.
 fortuneMost2: Good news, and it arrives sideways. The evening that turns at the door becomes the one you wanted.
@@ -18,15 +23,15 @@ fortuneLow2: Some things keep their place for a reason, the way the lids face ou
 fortuneLeast: One clean no serves you better than three soft maybes. Name the number and hold it.
 fortuneLeast2: The yes that should have been a no can simply stay no. The terms are the terms.
 facetMostTitle: Tomato Finished in Lemon
-facetMost: You revise the plan mid-sentence, and the new shape fits the page better than the one you outlined.
+facetMost: The road you meant to take is closed and a detour sign points off into nowhere you know. You follow it without a sigh, half-curious where it lets out.
 facetHighTitle: Tilted Toward Whoever Sat Down
-facetHigh: You match their weather, their pace, the joke they almost made. The conversation simmers wherever you stir it.
+facetHigh: Whoever sits across from you, you tune to their pace inside a minute — quick with the quick one, slow with the slow.
 facetMidTitle: The Chickpea Sets the Clock
-facetMid: You start an hour early and end an hour late. Whatever the calendar said, you cook until the chickpea gives.
+facetMid: The thing is meant to take an hour and it clearly needs two. Stop watching the clock and let it run until it's actually ready?
 facetLowTitle: The Shelf From March
-facetLow: Jars stand where you set them, lids facing out, salt where salt has always lived.
+facetLow: A friend wants to swap the whole afternoon's plan at the last minute. You'd usually flow with it — but you find your heels going down, this once.
 facetLeastTitle: The Rind Kept Whole
-facetLeast: A bill arrives, a date is named, the amount is paid. No counter-offer, no second steeping — the terms stay the terms.
+facetLeast: You said a price and they're working you toward a softer one, all warmth and reasons. The number doesn't move. You hold it and mean it.
 question: The plan was a quiet dinner. Halfway there, the group decides on karaoke instead. You...
 answerMost: pivot cheerfully and start scrolling for the duet
 answerHigh: shrug, follow along, and order a drink on arrival
@@ -38,11 +43,6 @@ rorschachHigh: two clouds leaning together over a gap
 rorschachMid: two islands with a channel between them
 rorschachLow: a set of large fish bones
 rorschachLeast: a heavy locked chest and an anvil
-facetMostTags: [green, fava, kidney]
-facetHighTags: [green, fava]
-facetMidTags: [green, fava]
-facetLowTags: [butter, mung]
-facetLeastTags: [butter, mung, black]
 ---
 
 Brined Chickpeas are the Bean Zodiac's most flexible. A plan changes at the door and they change with it, not grudgingly but actually — the new evening becomes the one they wanted, and within ten minutes nobody could tell it wasn't. They are easy to travel with, easy to work with, the friend who can be talked into the second restaurant without making anyone feel like they're being talked into it.

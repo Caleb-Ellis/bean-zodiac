@@ -6,6 +6,11 @@ form: roasted
 trait: curious
 dish: Roasted green beans with katsuobushi, ponzu, and sesame.
 quote: Curiosity is the bean, always leading to new discoveries.
+creature: ferret
+friendlyBeans: [kidney, pinto]
+antiBeans: [mung, navy]
+friendlyForm: fried
+antiForm: boiled
 seasonalFortune: A season of ponzu's slow seep — surfaces shine, and underneath the brine works its long question into the bean.
 fortuneMost: Follow the question past its useful end. You'll finish with new questions pinned to the margin — and that's the harvest, not the waste.
 fortuneMost2: A door is about to open in the middle of an ordinary sentence. Step through it; the conversation on the far side of the small talk is the one you were owed.
@@ -18,15 +23,15 @@ fortuneLow2: The known thing feeds you too. Not every gap needs filling now; som
 fortuneLeast: Leave the lid on. Some things cook better when nobody keeps lifting it to ask how they're doing, and the not-asking will cost you something.
 fortuneLeast2: Let a few corners of the house keep their own quiet. Walking past a loose thread without pulling it is a small discipline, and worth the ache.
 facetMostTitle: The Lifted Katsuobushi
-facetMost: You follow a question past its useful end, and finish the page with new questions pinned to the margin.
+facetMost: Already on the third step before you've decided to go — an unmarked stairwell spirals down off the back of the museum, no sign saying you can't.
 facetHighTitle: Sesame Across the Plate
-facetHigh: Every link opens a smaller link, and you read the footnote before the headline.
+facetHigh: The cab driver mentions, in passing, the country he left. You drop the small talk and ask the thing nobody ever asks him, and watch his whole face change.
 facetMidTitle: Bonito on Warm Beans
-facetMid: At the edge of a stranger's sentence you ask the second question — the one past politeness — and wait.
+facetMid: A locked drawer in a rented flat won't open and there's no key. Pry at it just to know what's inside, or let the landlord's mystery stay the landlord's?
 facetLowTitle: Ponzu, Same Small Bowl
-facetLow: You cook what you already trust; the known dish feeds you, and the new cookbook stays shut.
+facetLow: There's strange untried food at a festival across town and the dish you love at the place down the road. Take the sure thing and eat well, no foraging tonight.
 facetLeastTitle: The Plate, Set Down
-facetLeast: Rooms keep their corners; you don't lift the lid to see what the steam is doing, and the house holds.
+facetLeast: A frayed loose end dangles off the edge of someone else's story — one tug and it'd unravel. You walk on past it and leave the thread where it hangs.
 question: You sit down to send one short email and notice a word in it you've never quite looked up. You...
 answerMost: spend an hour on the etymology and forget about the email
 answerHigh: read the first three results, then come back to the email
@@ -38,11 +43,6 @@ rorschachHigh: a cat halfway into the curl of a basket
 rorschachMid: an anvil beside a coiled length of rope
 rorschachLow: a closed fist next to a shell pulled tight shut
 rorschachLeast: a shut clam beside a snail sealed deep in its shell
-facetMostTags: [edamame, black, pinto]
-facetHighTags: [edamame, black]
-facetMidTags: [edamame, black]
-facetLowTags: [adzuki, butter]
-facetLeastTags: [adzuki, butter, mung]
 ---
 
 Rendered Green Beans are the Bean Zodiac's most curious — and warmly so, without the collecting energy that curiosity sometimes has. They ask the second question, the one past polite, and the stranger across from them lights up at having been asked it. They read the footnote before the headline because that's where someone interesting is usually hiding.

@@ -6,6 +6,11 @@ form: dried
 trait: conductive
 dish: Harira - Moroccan chickpea soup with ras el hanout.
 quote: It only takes a bean to start a great fire.
+creature: electric eel
+friendlyBeans: [fava, kidney]
+antiBeans: [butter, navy]
+friendlyForm: fried
+antiForm: boiled
 seasonalFortune: One bowl of harira passes through a household and the cumin lingers in the curtains for weeks; the chickpea travels further than the spoon that carried it.
 fortuneMost: Wherever you go, something starts — an argument, a plan, the overdue talk. Mind what you carry in, because everyone you pass catches it.
 fortuneMost2: One bowl of soup and the cumin's in the curtains for weeks. The warmth you bring outlasts the visit by a long mile.
@@ -18,15 +23,15 @@ fortuneLow2: Some places aren't yours to warm or cool. Sit through one without l
 fortuneLeast: A good day lands in your lap and asks nothing of you. Let the warmth come without being the one who lit it.
 fortuneLeast2: Not every mood you pick up is yours to spread. Let a gathering pass clean through you, and the quiet on the walk home is earned.
 facetMostTitle: Cinnamon Across the Kitchen
-facetMost: You walk into a quiet room and within an hour the argument has started, the laughter has started, something has started.
+facetMost: The reception after the burial has gone stiff and airless. One warm story from you, and ten minutes on the whole room is trading them, the grief loosened into something they can hold.
 facetHighTitle: One Peppercorn in the Oil
-facetHigh: You say the one sentence a meeting needed and the table tilts toward it.
+facetHigh: A stranger on the bus catches your eye and half-smiles. Names get swapped before your stop, and they step off lighter than they got on.
 facetMidTitle: Ras El Hanout Before the Bean
-facetMid: Your mood arrives in a room ahead of you and people meet it at the door.
+facetMid: Foul-tempered and trying to keep it to yourself at the dinner — yet you can feel the table quieting around an edge you'd swear didn't show.
 facetLowTitle: Ginger Kept Whole
-facetLow: You sit through the dinner without leaving a fingerprint on its weather.
+facetLow: At the next table a negotiation is going sour and the air with it. Eyes on your own plate, you stay clear of its current.
 facetLeastTitle: Sealed in a Tin
-facetLeast: Messages left on read for days; the kitchen passes through you and nothing of it carries.
+facetLeast: Old friends, a whole reunion of them, every mood washing right over you. You leave exactly as you came and carry none of it home.
 question: You're at a small gathering where two friends are very pointedly not speaking. The host hasn't noticed. You...
 answerMost: cross the room and put them in the same conversation within ten minutes
 answerHigh: float a topic both will want to weigh in on and let proximity do the work
@@ -38,11 +43,6 @@ rorschachHigh: a burr scattering seed beside a curling stalk
 rorschachMid: a spiky chestnut husk and a wilting stem
 rorschachLow: a closed pinecone beside a coiled rope
 rorschachLeast: a stone urchin shut tight, a hook gone limp
-facetMostTags: [adzuki, kidney, green]
-facetHighTags: [adzuki, kidney]
-facetMidTags: [adzuki, kidney]
-facetLowTags: [butter, mung]
-facetLeastTags: [butter, mung, black]
 ---
 
 Sichuan Chickpeas are the Bean Zodiac's most conductive — they pass through a room and the temperature of it changes by the time they leave. Bad moods follow them home from cheerful dinners; cheerful moods seed themselves at glum ones. Friends invite them specifically because something always starts when they're there: an argument, a plan, a sudden round of shots, a long-overdue conversation that should have happened months ago.

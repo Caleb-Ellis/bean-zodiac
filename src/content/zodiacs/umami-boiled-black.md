@@ -6,6 +6,11 @@ form: boiled
 trait: patient
 dish: Kongjorim - black soybeans slow-braised in soy, ginger, and sesame.
 quote: Patience is bitter, but its bean is sweet.
+creature: grey crane
+friendlyBeans: [navy, butter]
+antiBeans: [chickpea, green]
+friendlyForm: dried
+antiForm: roasted
 seasonalFortune: Months of low fire darken what was hard and dull. The season belongs to those who can stand by a long braise without lifting the lid.
 fortuneMost: Cover the pot and leave it. What you're deciding will be clearer once the dark has done its slow work.
 fortuneMost2: A long wait of yours is nearly up. What comes out of it will be darker and sweeter than the thing you put in.
@@ -18,15 +23,15 @@ fortuneLow2: Pulled off the heat early, the flavour hasn't learned itself yet. H
 fortuneLeast: Waiting can curdle into stalling without changing how it feels from the inside. Pick the smallest piece and let it go unfinished — clumsy, but moving.
 fortuneLeast2: Not everything deepens in the dark. Some things just go cold while you stand over them.
 facetMostTitle: The Slow Braise
-facetMost: A draft sits covered for weeks; you return to it only when the dark has done its work.
+facetMost: The seedling you planted hasn't broken soil and a neighbour says it never will. You water it the same and give it another fortnight.
 facetHighTitle: Sesame, Unglossed
-facetHigh: Guests at the door; you let the pot finish. The table can wait.
+facetHigh: Not yet, and nothing tacked on to soften it — that's the whole answer you'd hand someone pressing for a yes while they hover in the doorway.
 facetMidTitle: The Reducing Soy
-facetMid: An apology owed since spring — you write it when the words have cooked down to what they mean.
+facetMid: Half a reply, typed in anger, blinks on the screen. Let it cool overnight before deciding whether any of it survives.
 facetLowTitle: Three Minutes, Then Taste
-facetLow: You check before the braise has set, serve before the flavour has learned itself.
+facetLow: The kettle's barely ticking and you're already lifting the lid, pouring before the leaves have opened.
 facetLeastTitle: The Kettle Reboiled
-facetLeast: Forty open tabs, each one nudged every hour; nothing is given time to matter.
+facetLeast: A decision has gone cold under your watching, and still the pot gets another stir, and another, each one sure to be the one that finally makes it matter.
 question: A group chat is waiting on your decision and the messages keep arriving. You...
 answerMost: leave it until the morning, when you'll know what you actually think
 answerHigh: tell them you're thinking and you'll come back by tonight
@@ -38,11 +43,6 @@ rorschachHigh: an animal hide laid flat to cure
 rorschachMid: a low island spread across dark water
 rorschachLow: a bat startled mid-flap off a branch
 rorschachLeast: a moth thrashing wide against the glass
-facetMostTags: [chickpea, mung, pinto]
-facetHighTags: [chickpea, mung]
-facetMidTags: [chickpea, mung]
-facetLowTags: [fava, edamame]
-facetLeastTags: [fava, edamame, green]
 ---
 
 Dashi Black Beans are the Bean Zodiac's most patient — they will outlast the question. The decision sits covered for a week and they don't lift the lid; the apology gets drafted in March and sent in May, by which point it has cooked down to exactly what it means. They are wonderful in a long crisis and unreadable in a short one, because the same stillness that lets a braise deepen also looks, from across the room, like nothing happening.

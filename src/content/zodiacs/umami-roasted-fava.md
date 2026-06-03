@@ -6,6 +6,11 @@ form: roasted
 trait: defiant
 dish: Fave al forno - roasted fava beans with guanciale, pecorino, and wild fennel.
 quote: They tried to bury us. They didn't know we were beans.
+creature: mustang
+friendlyBeans: [chickpea, edamame]
+antiBeans: [navy, cannellini]
+friendlyForm: fried
+antiForm: dried
 seasonalFortune: Salt cures what warmth cannot reach. The pod's twin skins thicken against the cold months; a season for holding ground, for charring rather than yielding, for flavors that sharpen under pressure.
 fortuneMost: Don't pay the wrong charge twice just to make it stop. The ones counting on your tiredness are counting on it again — and they're wrong about you.
 fortuneMost2: No voice raised, your pace unchanged while a crowd turns against you. That steadiness is the rarest thing you carry; plant it where the ground is worth holding.
@@ -18,15 +23,15 @@ fortuneLow2: Move at the pace of the people beside you. The day arrives the same
 fortuneLeast: Lose the small argument on purpose. One conceded sentence buys a whole warm evening — and yes, swallowing it will taste wrong going down.
 fortuneLeast2: A line held well keeps things out, but it never fills the room behind it. Turn and tend to whoever's in there with you, even if it means leaving the wall unwatched.
 facetMostTitle: Two Skins, Kept
-facetMost: The wrong invoice arrives, and you do not pay it twice to be done — you draft the letter, then redraft it.
+facetMost: A border guard waves your papers and tells you to move along faster. You match his pace exactly, no slower and no quicker, and meet his eye while you do it.
 facetHighTitle: Fennel Against the Smoke
-facetHigh: In a room turning against your read of a thing, you say it once more, slower, and keep your seat.
+facetHigh: They ask you to repeat the unwelcome thing, hoping the second time comes out softer. It comes out at the same pace, the same words, and you hold your seat.
 facetMidTitle: Char at the Edge
-facetMid: Messages sit unread when the asking is wrong; you answer the ones shaped like questions, not summons.
+facetMid: A summons-shaped demand lands with no real question inside it. Answer it anyway to keep the peace, or let it stand out in the cold unanswered?
 facetLowTitle: Fat That Seasons Quietly
-facetLow: You move at the pace of the table around you, and the day arrives the same hour either way.
+facetLow: The hill you'd braced to die on turns out to be undefended — nobody's even contesting it. Set the shoulders down and walk on, guard lowered, the fight already won.
 facetLeastTitle: Pecorino, No Rind Left
-facetLeast: Rooms in your house rearrange around whoever last visited; the reading chair is wherever it landed.
+facetLeast: A loud relative redraws the holiday plans over your head and you can feel the old urge to plant your feet. You let the small one go and keep the warm evening instead.
 question: An invoice arrives with the wrong amount on it — not by much, but wrong. You...
 answerMost: draft a letter, then a second draft, and send the cold even one
 answerHigh: reply the same day with the correction, no apology attached
@@ -38,11 +43,6 @@ rorschachHigh: an anvil planted heavy on its block
 rorschachMid: a boulder with a chain trailing off it
 rorschachLow: a melting candle slumping off its holder
 rorschachLeast: a snowbank caving and sliding off the roof
-facetMostTags: [kidney, edamame, pinto]
-facetHighTags: [kidney, edamame]
-facetMidTags: [kidney, edamame]
-facetLowTags: [butter, edamame]
-facetLeastTags: [butter, edamame, black]
 ---
 
 Rendered Fava Beans are the Bean Zodiac's most defiant — and unusually warm about it. They will hold a position in a room turning against them and do it without raising their voice; the second time they say the sentence it comes out at the same pace as the first. People often mistake the warmth for flexibility and learn, by the third meeting, that they were wrong.

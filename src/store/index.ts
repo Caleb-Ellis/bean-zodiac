@@ -1,6 +1,6 @@
 import { create } from "zustand";
 import { persist } from "zustand/middleware";
-import type { FacetTagId, QualityId, ZodiacId } from "../lib/zodiac";
+import type { QualityId, SpiritTags, ZodiacId } from "../lib/zodiac";
 import type { RitualVariant } from "../lib/fortune";
 
 export type FortuneEntry = {
@@ -9,7 +9,7 @@ export type FortuneEntry = {
   qualityId: QualityId;
   facetTitle: string;
   facetText: string;
-  facetTags?: FacetTagId[] | null; // snapshot of the shown tier's tags; legacy entries omit it
+  spiritTags?: SpiritTags | null; // snapshot of the zodiac's spirit tags; legacy entries omit it
   score: number; // 0 = no vote, +1 = accepted, -1 = resisted
   text: string | null;
   seenAt: string | null; // ISO timestamp the user dismissed the fortune dialog
@@ -105,7 +105,7 @@ export const useStore = create<State>()(
     }),
     {
       name: "bean-zodiac",
-      version: 3,
+      version: 4,
       migrate: (state: any, version: number) => {
         if (version < 2) {
           state.fortuneHistory = (state.fortuneHistory ?? []).map((e: any) => ({
@@ -121,6 +121,16 @@ export const useStore = create<State>()(
             facetTitle: e.facetTitle || "",
             text: e.text || "",
           }));
+        }
+        if (version < 4) {
+          // Spirit tags moved from per-tier bean lists (facetTags) to a
+          // per-zodiac friendly/anti snapshot. Old entries can't be rebuilt
+          // (the old tags don't carry the new structure), so drop them — those
+          // entries simply forgo the soft pass on replay.
+          state.fortuneHistory = (state.fortuneHistory ?? []).map((e: any) => {
+            const { facetTags: _drop, ...rest } = e;
+            return rest;
+          });
         }
         return state;
       },

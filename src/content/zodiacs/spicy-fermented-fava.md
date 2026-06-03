@@ -6,6 +6,11 @@ form: fermented
 trait: subversive
 dish: Spicy fava with doubanjiang and Sichuan pepper.
 quote: The most bean act in a conformist world is to think for yourself.
+creature: mole
+friendlyBeans: [chickpea, mung]
+antiBeans: [navy, cannellini]
+friendlyForm: smoked
+antiForm: boiled
 seasonalFortune: The season belongs to whatever ripens behind a closed lid. Doubanjiang darkens unwitnessed, Sichuan pepper sharpens its hum, and the household wakes one morning to a pantry rearranged by no hand they remember.
 fortuneMost: Work the back while the front still argues the menu. By the time anyone looks up, the menu is already yours.
 fortuneMost2: When only you can see the move that flips the terms, the quiet is the move. Make it; don't announce it.
@@ -18,15 +23,15 @@ fortuneLow2: Announce the plan at the doorway and trust the room to follow the h
 fortuneLeast: When the lock's already been changed, the cleverest key is wasted on it. Knock on the door that's actually in front of you.
 fortuneLeast2: Hand the idea out before it cools and let it be witnessed from the first stir. You lose the surprise; the open way is the cleaner advantage.
 facetMostTitle: Numbness Before the Name
-facetMost: You move money, furniture, allegiances while the household is still arguing the old terms; by Sunday the terms are yours.
+facetMost: While the group keeps debating where to go, you've already booked the place, paid the deposit, set the thing in motion. They'll discover it's decided when there's nothing left to debate.
 facetHighTitle: The Jar Held Back
-facetHigh: At the family table you say one quiet line during the dessert; by the next morning the trip everyone had agreed to has become a different trip.
+facetHigh: There's one person in the room whose mind, changed in private, changes everyone else's. Find them after, plant the single sentence, and let it travel on its own.
 facetMidTitle: Doubanjiang Behind Glass
-facetMid: You take the long route home, the one nobody else has thought to walk, and arrive holding a solution the kitchen has been hunting for since lunch.
+facetMid: The official form has no box for what you actually need. Rather than fight it, you fill the form the way that gets you what you want and let the box stay unticked.
 facetLowTitle: Fava Loud in the Oil
-facetLow: You announce the plan at the doorway, take the obvious seat, and trust the room to follow the heat it can see.
+facetLow: The quiet workaround would get you there without anyone the wiser. But the meeting's right here, so you raise your hand and put the disagreement on the table where everyone can see it.
 facetLeastTitle: Brine Bright on the Spoon
-facetLeast: You announce the idea before it has cooled, hand it out at the door, and let the work be witnessed from the first stir.
+facetLeast: You're tempted to set the surprise up quietly and spring it fully formed. Instead you walk people through it from the very first rough sketch, every step in the open.
 question: A decision is being argued in a long thread and going the wrong direction. You can see the move that flips it. You...
 answerMost: make the move quietly and let the thread catch up on Monday
 answerHigh: line up one ally privately and spring it at the next meeting
@@ -38,11 +43,6 @@ rorschachHigh: a tunnel hollowed inside the hill
 rorschachMid: a craggy island with one offshore rock
 rorschachLow: a cloaked figure standing in the open
 rorschachLeast: a banner hung straight down the wall
-facetMostTags: [pinto, green, kidney]
-facetHighTags: [pinto, green]
-facetMidTags: [pinto, green]
-facetLowTags: [butter, mung]
-facetLeastTags: [butter, mung, black]
 ---
 
 Kimchi Fava Beans are the Bean Zodiac's most subversive — the colleague whose one-line reply in a long thread turns out, days later, to have been the sentence the whole decision pivoted on. They don't argue in public; they work the back of the kitchen while the front is still debating the menu, and by Sunday the menu is theirs.

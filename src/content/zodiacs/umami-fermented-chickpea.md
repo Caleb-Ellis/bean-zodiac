@@ -6,6 +6,11 @@ form: fermented
 trait: innovative
 dish: Chickpea tempeh - fermented whole chickpeas pan-fried and glazed with miso and sesame.
 quote: Imagination is more important than knowledge about beans.
+creature: crow
+friendlyBeans: [adzuki, pinto]
+antiBeans: [navy, cannellini]
+friendlyForm: roasted
+antiForm: dried
 seasonalFortune: A jar set aside in the cupboard quietly rewrites itself; the cook who returns finds the chickpea no longer answering to its old name.
 fortuneMost: A leaky tap and a sentence about beekeeping are about to meet in your head and turn out to be the same problem.
 fortuneMost2: Build the stranger shape that answers the deeper question nobody thought to ask. The brief is a floor, not a ceiling, and you've never lived on the floor.
@@ -18,15 +23,15 @@ fortuneLow2: Take the familiar route and do the ordinary thing well. Sometimes t
 fortuneLeast: Luck rewards the finished thing this turn, not the clever one. Fill the known shape and ship it; your hands will itch to tinker, and the relief of something that just works is worth the itch.
 fortuneLeast2: Move by the route you already trust and decline the cleverer one. Done plainly beats brilliant-and-unfinished.
 facetMostTitle: The Third Thing
-facetMost: You braid borrowed scraps into ideas no one thought to order.
+facetMost: The board game's missing half its pieces. Rather than shelve it, you start inventing rules that turn the gaps into the game.
 facetHighTitle: The Re-Glazed Pan
-facetHigh: Furniture drifts overnight under your hand; the lamp now lives where the chair was. Rooms in your keeping never settle into their first arrangement.
+facetHigh: There's a perfectly good way to get to the station, and you go looking for a stranger one — a back alley, a cut through the park — to see what it shows you.
 facetMidTitle: The Straying Seed
-facetMid: Your tabs cross-pollinate — an article on bridges solves a problem about bread.
+facetMid: A documentary about ant colonies leaves you, oddly, with the fix for a problem at work you'd stopped thinking about.
 facetLowTitle: Tuesday's Supper
-facetLow: You cook what your hands already know and the table is content.
+facetLow: The shelf needs putting up. You use the bracket that comes in the box and not the clever joint you could devise.
 facetLeastTitle: The Set Block
-facetLeast: You move by last year's clock and decline the cleverness of a new route.
+facetLeast: Same supermarket, same aisles, same order every time. A new layout would only slow you down, so you keep the route you know.
 question: A brief lands Monday morning with the standard template attached and the standard answer expected. You...
 answerMost: ignore the template, build a stranger shape that answers a deeper question they didn't ask
 answerHigh: write the standard version and quietly attach a second one
@@ -38,11 +43,6 @@ rorschachHigh: a butterfly with two mismatched wings
 rorschachMid: a smooth pebble resting against a thornbush
 rorschachLow: water sinking down a drain
 rorschachLeast: two halves of a single walnut
-facetMostTags: [pinto, fava, green]
-facetHighTags: [pinto, fava]
-facetMidTags: [pinto, fava]
-facetLowTags: [butter, mung]
-facetLeastTags: [butter, mung, black]
 ---
 
 Miso Chickpeas are the Bean Zodiac's most innovative — give one a problem about a leaky tap and somewhere in the answer is a sentence about beekeeping that turns out to be exactly right. The notebooks are full of half-drawn diagrams where two unrelated things have just met for the first time, and friends who go to them with a stuck question often leave holding a different, better question instead.

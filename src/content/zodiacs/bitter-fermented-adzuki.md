@@ -6,6 +6,11 @@ form: fermented
 trait: nostalgic
 dish: Adzuki paste with aged miso and bitter yuzu kosho.
 quote: The past is never dead. It's not even bean.
+creature: trumpeter swan
+friendlyBeans: [pinto, chickpea]
+antiBeans: [navy, black]
+friendlyForm: roasted
+antiForm: dried
 seasonalFortune: A long cellar season. Miso darkens behind closed doors and the year asks for what has been kept rather than what is new. Old crocks earn their keep.
 fortuneMost: You are the one who remembers the good year on everyone's behalf. Give someone back the part of it they'd forgotten was theirs.
 fortuneMost2: An old name surfaces again, the way a crock keeps after years in the dark. Reach back before you talk yourself out of it.
@@ -18,15 +23,15 @@ fortuneLow2: Some things are done and won't call you back, and the quiet they le
 fortuneLeast: Someone hands you a box of their own old weather. Let it go on unopened — even when your hands, out of long habit, want to keep it.
 fortuneLeast2: Replace the worn thing instead of mending it once more. The shelf will sit strange and empty a while; travel light anyway.
 facetMostTitle: The Weighted Lid
-facetMost: You keep one thing past the point others would have thrown it out, and you know which one.
+facetMost: The flat where you grew up is up for sale and the listing has photos. You scroll every room twice and read the description down to the carpet.
 facetHighTitle: Last Winter's Batch
-facetHigh: The thread of an old conversation comes back to you mid-sentence, and you finish it years later as if no time has passed.
+facetHigh: Halfway through someone else's cooking, a taste you haven't met in years stops you cold — and out it comes, where you last had it, who you were with, the whole table waiting.
 facetMidTitle: The Back of the Fridge
-facetMid: You always cook from what is already opened — never the new jar first.
+facetMid: Same poses, same order — a friend wants to restage the old group photo, and you're the only one who still knows where everybody stood.
 facetLowTitle: The Closed Door
-facetLow: You finish things and move on; what's done does not call you back.
+facetLow: An ex-colleague messages, fond and reminiscing, hoping you'll pick up the thread. You answer warmly and don't reach for the years they're holding out.
 facetLeastTitle: Bought This Morning
-facetLeast: You travel light, replacing rather than keeping, and the shelves stay clear.
+facetLeast: Moving out, you set the keepsake drawer straight into the donation pile, unsorted, and carry the boxes to the car.
 question: A box of old things lands on the kitchen table — a ticket stub, a birthday card, a sweater that no longer fits anyone in the house. You...
 answerMost: read every card aloud and put the box back on the shelf
 answerHigh: pull out three things and find them new homes in the drawer
@@ -38,11 +43,6 @@ rorschachHigh: a hedgehog curled up and gone to sleep
 rorschachMid: a rough round loaf cooling on the counter
 rorschachLow: a clod of fresh earth turned up by a spade
 rorschachLeast: a snowball already starting to melt away
-facetMostTags: [pinto, mung, black]
-facetHighTags: [pinto, mung]
-facetMidTags: [pinto, mung]
-facetLowTags: [butter, navy]
-facetLeastTags: [butter, navy, edamame]
 ---
 
 Cultured Adzuki Beans are the Bean Zodiac's most nostalgic — and they keep the receipts. They know which café it was, what song was on, who said the thing that everyone else has forgotten was ever said. They don't romanticize the past so much as refuse to let any of it be thrown out, and there's a quiet generosity in that: someone has to remember the good years on everyone's behalf.

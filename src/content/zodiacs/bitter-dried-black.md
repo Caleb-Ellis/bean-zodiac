@@ -6,6 +6,11 @@ form: dried
 trait: laconic
 dish: Black bean soup with ancho chile and dark chocolate.
 quote: Speech is silver; bean is golden.
+creature: dromedary
+friendlyBeans: [edamame, fava]
+antiBeans: [adzuki, chickpea]
+friendlyForm: boiled
+antiForm: roasted
 seasonalFortune: The jar of dried beans waits out the year. Around such a person, weather settles; what wants to keep, keeps, and the rest evaporates without comment.
 fortuneMost: One word, the right one, and the noise settles around it like a soup gone still. It will carry.
 fortuneMost2: A good sign for you keeps its mouth shut — what wants to stay, stays, and the rest cooks off. Yours is doing exactly that.
@@ -18,15 +23,15 @@ fortuneLow2: Give them the why, not just the verdict. The reasoning is the warm 
 fortuneLeast: Talk the whole thing through aloud, even the parts you'd keep back. Letting someone into the working will feel like overcooking it; do it anyway.
 fortuneLeast2: Walk them slowly through all of it, the way you never do. They'll feel met, even as the long telling rubs you wrong.
 facetMostTitle: Ancho on the String
-facetMost: A long question arrives; you answer with a word, and the word is the right word, and the question goes quiet.
+facetMost: A stranger on the trail asks how far to the summit. A nod uphill, and you're already walking again.
 facetHighTitle: The Chocolate Seam
-facetHigh: In a loud room you wait until the room turns, then offer the sentence that ends the argument.
+facetHigh: Everyone at the table is mid-story when something occurs to you. You hold it, content to let your half stay folded shut.
 facetMidTitle: The Overnight Soak
-facetMid: You finish the meal, set the bowl down, and let the table fill its own quiet.
+facetMid: There's a lull on the phone call. Rather than rush to plug it, you let the silence sit and see who blinks first.
 facetLowTitle: The Lifted Lid
-facetLow: You draft your thoughts aloud, revising as you go, three sentences where one would have held.
+facetLow: The directions could be one turn and a landmark. Out it all comes — the back way, the closed bridge, the shop on the corner — and you watch their eyes glaze as you keep going.
 facetLeastTitle: The Counted Pour
-facetLeast: You narrate the bill, the apology, the small receipt — every transaction itemised before anyone asks.
+facetLeast: How was the trip, someone asks, expecting a sentence. You give them the whole thing start to end — every detour, every odd meal — long past where they'd have stopped, knowing it runs long and telling it anyway.
 question: A group chat has been arguing about dinner plans for forty minutes. Your phone is in your hand. You...
 answerMost: lock the screen and put it down
 answerHigh: send the one address that ends the thread
@@ -38,11 +43,6 @@ rorschachHigh: a curled hedgehog, a few quills loose
 rorschachMid: a potato with sprouts at one end
 rorschachLow: a cloud breaking into scattered wisps
 rorschachLeast: an inkblot bursting into flying specks
-facetMostTags: [kidney, edamame, fava]
-facetHighTags: [kidney, edamame]
-facetMidTags: [kidney, fava]
-facetLowTags: [butter, edamame]
-facetLeastTags: [butter, edamame, chickpea]
 ---
 
 Desiccated Black Beans are the Bean Zodiac's most laconic — they wait out an entire dinner-table argument and then, when it has burned itself down, set one flat sentence in the middle of it that everyone immediately accepts. Nothing they say needs saying twice. They have never in their life sent a follow-up text.

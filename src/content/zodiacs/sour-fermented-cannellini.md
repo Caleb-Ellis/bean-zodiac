@@ -6,6 +6,11 @@ form: fermented
 trait: critical
 dish: Cannellini with crème fraîche, capers, and lemon zest.
 quote: You call this bean broth?
+creature: jackdaw
+friendlyBeans: [chickpea, mung]
+antiBeans: [black, navy]
+friendlyForm: dried
+antiForm: dried
 seasonalFortune: A long sour cure settles in the crock. The brine grows specific where the sweet months were vague, and small faults rise legible to the surface.
 fortuneMost: You caught the extra half-turn of salt while everyone else was still chewing politely. Name it clean and plain.
 fortuneMost2: The one true thing said without a cushion lands truer than the softened one. It's the padding that reads as condescension, never the verdict.
@@ -18,15 +23,15 @@ fortuneLow2: A new face turns up, and the luck is to like them before you've fin
 fortuneLeast: The typo will live. The world survived it and so will you.
 fortuneLeast2: A meal eaten exactly as it was cooked, the recipe asked for, not one adjustment offered. The urge to fix, set down for once, leaves the whole evening lighter — you'll reach for it twice before you let it lie.
 facetMostTitle: Zest Before the Bean
-facetMost: You name the off-note in the room while others are still chewing politely.
+facetMost: A busker's chorus comes in a hair flat and the crowd's loving it. The wrongness sits on your skin like grit, and you can't pretend it doesn't.
 facetHighTitle: Capers at the Bottom
-facetHigh: You reread the message you already sent and find the comma you would move.
+facetHigh: A friend's new haircut is mostly good and one piece sits wrong. Asked what you think, you'd rather flag the one piece than hand over the easy yes.
 facetMidTitle: The Thinned Crème Fraîche
-facetMid: You return the borrowed book with the page corners straightened and a receipt folded inside.
+facetMid: A picture hangs a finger's width off level in someone else's hallway. You nudge it true on the way past and hope they'll never know who.
 facetLowTitle: Zest Stirred Away
-facetLow: You meet the new acquaintance and decide, easily, to like them.
+facetLow: A clumsy hand-painted sign on a roadside stall, and the wrongness of the lettering is the warm part. You leave it exactly crooked and like the place more for it.
 facetLeastTitle: The Sealed Jar
-facetLeast: You wake into the grey morning and find nothing in it that needs adjusting.
+facetLeast: A meal arrives at the table done how the cook does it, salt and all. The fixes you'd offer stay folded in your lap, and dinner is just dinner.
 question: A friend cooks you dinner, sets the plate down, and asks how it is. The salt is one full turn over. You...
 answerMost: say "a touch over on the salt" and take the second bite
 answerHigh: name one thing you genuinely loved before mentioning the salt
@@ -38,11 +43,6 @@ rorschachHigh: a potato with a sprout poking off-true
 rorschachMid: a stone with a smaller pebble beside it
 rorschachLow: a head turned away, one ear showing
 rorschachLeast: a round loaf, smooth and unbroken all over
-facetMostTags: [navy, black, edamame]
-facetHighTags: [navy, black]
-facetMidTags: [navy, black]
-facetLowTags: [adzuki, butter]
-facetLeastTags: [adzuki, butter, mung]
 ---
 
 Pickled Cannellini Beans are the Bean Zodiac's most critical — they can taste the extra half-turn of salt, hear the off-rhyme in the second verse, and spot the misaligned shelf from the doorway. The instinct is not cruelty; it's a kind of fidelity. They want the thing to be as good as it was trying to be, and they assume, often correctly, that you would too if anyone bothered to tell you.

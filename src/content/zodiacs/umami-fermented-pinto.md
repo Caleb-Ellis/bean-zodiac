@@ -6,6 +6,11 @@ form: fermented
 trait: apathetic
 dish: Pinto beans slow-braised with fish sauce, caramelised onion, and lime.
 quote: The opposite of bean is not hate, it's indifference.
+creature: sloth
+friendlyBeans: [adzuki, chickpea]
+antiBeans: [black, cannellini]
+friendlyForm: roasted
+antiForm: boiled
 seasonalFortune: A long braise dulls the senses; the onion blackens past sweetness and no one at the table reaches for the lime.
 fortuneMost: The album that once wrecked you plays clean through and you're thinking about the dishwasher. It isn't emptiness underneath — it's a dial worn quiet by caring too much, too long.
 fortuneMost2: One more pull on the sleeve barely lands, and that's allowed. You steeped so long and so dark that the quiet is what's left after the caring, not the lack of it.
@@ -18,15 +23,15 @@ fortuneLow2: Weather changes on your face before you've named it. The caring sit
 fortuneLeast: A turning omen this time — a spark catches and you go, and stay till the house lights come up. The dial's come back, even if you half distrust it.
 fortuneLeast2: Play the song that used to wreck you and let it wreck you again. Whatever cracks open is the door.
 facetMostTitle: The Darkening Jar
-facetMost: The album that used to wreck you plays through, and somewhere around the third track you are thinking about the dishwasher.
+facetMost: The fireworks go up, the crowd around you gasps at each one — and you watch them open and fade and feel about as much as you would for passing traffic.
 facetHighTitle: Caramel at the Edge
-facetHigh: At the party for the friend you love you arrive late, leave early, and cannot afterward remember the room you were in.
+facetHigh: The team you used to live and die by is in the final. You'll catch the score later, maybe, if it comes up.
 facetMidTitle: The Morning Pot
-facetMid: You move at that pace — phone calls returned Thursday, birthdays remembered in May.
+facetMid: Three weeks now, a letter's sat unopened where you dropped it, and the not-getting-to-it bothers no one, least of all you.
 facetLowTitle: Lime on the Rim
-facetLow: Weather changes register on your face before the window does.
+facetLow: A busker's playing something on the corner and it catches you mid-step — a small lift, before you've decided to feel anything.
 facetLeastTitle: One Drop of Fish Sauce
-facetLeast: Every small spark conscripted into something you are making.
+facetLeast: A stranger's dog bounds up wanting to play, and you're down on the pavement laughing with it before you think to mind your coat.
 question: A friend invites you to the thing you used to love. You...
 answerMost: leave the message on read
 answerHigh: say maybe, mean probably not
@@ -38,11 +43,6 @@ rorschachHigh: a heavy sack settled flat on the floor
 rorschachMid: a mossy boulder resting in a field
 rorschachLow: a dog half-rising, ears beginning to lift
 rorschachLeast: a startled cat springing up, fur bristling
-facetMostTags: [adzuki, butter, kidney]
-facetHighTags: [adzuki, butter]
-facetMidTags: [adzuki, butter]
-facetLowTags: [fava, edamame]
-facetLeastTags: [fava, edamame, green]
 ---
 
 Miso Pinto Beans are the Bean Zodiac's most apathetic — and it isn't that nothing is happening underneath, it's that everything got steeped so long and so dark that another pull on the sleeve barely registers. Friends who used to get a fast warm reply now get one next Thursday, lightly; the album that used to wreck them plays through and they think about emptying the dishwasher.

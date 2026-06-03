@@ -6,6 +6,11 @@ form: fermented
 trait: conflicted
 dish: Kimchi jjigae - kidney bean and kimchi stew with pork belly, tofu, and sesame oil.
 quote: The heart has its bean that reason knows not of.
+creature: chimera
+friendlyBeans: [green, chickpea]
+antiBeans: [navy, edamame]
+friendlyForm: fried
+antiForm: dried
 seasonalFortune: Kimchi and brine ripen side by side in the crock; sourness and depth lengthen together, neither yielding, and the lid holds both.
 fortuneMost: Two people you love are both right, and you can pour for each without ever calling the kinder.
 fortuneMost2: The sour and the deep ripen side by side in you, neither giving way, and the lid holds both. Some things are truer held together than picked apart.
@@ -18,15 +23,15 @@ fortuneLow2: When the unfairness is small, answer plainly and walk on. Some thin
 fortuneLeast: The wheel rewards the clean line this turn. Decide and stand behind it — you'll mourn the sides you didn't take, and one straight cut still beats seeing all of them.
 fortuneLeast2: When one of them is plainly in the right, just say so. You don't owe every quarrel a perfect balance of sympathy.
 facetMostTitle: Kimchi Beside Tofu
-facetMost: Two old friends across the table, both right — you pour for each and refuse to call the kinder one.
+facetMost: A referee's call splits the whole stadium into roaring halves. You see exactly why each side is sure, and you can't bring yourself to roar with either.
 facetHighTitle: The Soft Tofu
-facetHigh: Three drafts sit open in the thread; none gets sent, none gets closed.
+facetHigh: Two doors, no map, the guide gone — and you stand at the fork weighing each path so evenly that neither foot will lift.
 facetMidTitle: The Lid, Two Smells
-facetMid: You stir without picking a side.
+facetMid: Asked which film to put on, you lay out the case for both so fairly that the room is no closer to choosing than before.
 facetLowTitle: Sesame on the Broth
-facetLow: A bill arrives wrong; your reply goes out before the oil has finished pooling.
+facetLow: The waiter's brought the wrong dish. You say so straight away, no weighing of his side, and ask for the right one.
 facetLeastTitle: One Simmer
-facetLeast: You move the spoon and the day in a single clean line.
+facetLeast: One of two squabbling neighbours is flatly in the wrong, and you say which without hunting for the kinder reading.
 question: Two friends have asked you to take their side in something and you can see both of them clearly. You...
 answerMost: stay with both, refuse to pick
 answerHigh: tell each the part of the other they're missing
@@ -38,11 +43,6 @@ rorschachHigh: two islands divided by a strait of water
 rorschachMid: a smooth pebble beside a spiny chestnut burr
 rorschachLow: two boats drifting back toward one dock
 rorschachLeast: a moon and its reflection settling into one
-facetMostTags: [pinto, mung, black]
-facetHighTags: [pinto, mung]
-facetMidTags: [pinto, mung]
-facetLowTags: [navy, butter]
-facetLeastTags: [navy, butter, edamame]
 ---
 
 Miso Kidney Beans are the Bean Zodiac's most conflicted — and the conflict has been fully thought through, which is the problem. They can describe both sides of the disagreement with such care that each side comes away certain the Kidney Bean is secretly with them, and the Kidney Bean goes home knowing neither was wrong and that this knowledge is no use to anyone.

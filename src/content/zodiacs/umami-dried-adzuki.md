@@ -6,6 +6,11 @@ form: dried
 trait: reverential
 dish: Azuki no nimono - dried adzuki simmered in dashi and soy.
 quote: The bean is in the ritual, not the result.
+creature: sacred ibis
+friendlyBeans: [navy, cannellini]
+antiBeans: [mung, chickpea]
+friendlyForm: boiled
+antiForm: smoked
 seasonalFortune: A season for the long simmer, when the dried bean drinks dashi and gives back salt. Households tend toward the small ceremony — a folded cloth, a bowl set down with both hands.
 fortuneMost: You warm the cups no one asked you to warm, and no one will see you do it.
 fortuneMost2: A long simmer is coming — something you'll tend slowly, with both hands, and give back richer than you found it.
@@ -18,15 +23,15 @@ fortuneLow2: Send the wish plainly. It won't feel like enough to you, and it wil
 fortuneLeast: Hand them the beans straight from the bag and just begin. The rite can wait; the evening can't, much as you'd rather fold it twice first.
 fortuneLeast2: A chipped mug holds as much warmth as any ceremony — a thing you only half-believe, worth believing tonight.
 facetMostTitle: The Dashi Before the Guests
-facetMost: You lay out the bowls in advance, warm them, and treat the meal as a thing being received, not served.
+facetMost: Add the salt last, the old recipe says, and stir one way only. No one is in the kitchen to see — and still you keep the order exactly.
 facetHighTitle: Kombu on the Counter
-facetHigh: You leave a thing in its place — a letter unopened until morning, a gift unwrapped at the table — so the moment has edges.
+facetHigh: A plain wooden box at the back of a market stall, no price, no label. Before you ask what's inside, you ask to hold it.
 facetMidTitle: One Drop at a Time
-facetMid: You arrive a few minutes early to anything that matters, and sit with the room before it fills.
+facetMid: Walkers touch the worn stone by the trailhead as they pass, and your hand goes to it too, without quite deciding to.
 facetLowTitle: The Lid Replaced Quickly
-facetLow: You text the birthday wish the morning of, mean it, and move on.
+facetLow: The shrine is closing, but the keeper waves you in for one quick look. You take the look, snap a photo, and head out for noodles.
 facetLeastTitle: Beans Straight From the Bag
-facetLeast: You answer the door barefoot, hand someone coffee in a chipped mug, and the evening is already underway.
+facetLeast: Someone presses a family heirloom into your hands to admire. A glance, a nod, you set it down — so, what's for dinner?
 question: A friend swings by unannounced on the kind of evening you'd been keeping for yourself — candle already lit, kettle already on. You...
 answerMost: light a second candle and quietly shift the night into something for two
 answerHigh: warm a cup for them before opening the door
@@ -38,11 +43,6 @@ rorschachHigh: a temple bell with the clapper hung beneath
 rorschachMid: a round boulder with a smaller stone set on top
 rorschachLow: a snowman half-melted, head slumping off the body
 rorschachLeast: a scoop of dough dropped onto a bigger lump
-facetMostTags: [chickpea, mung, black]
-facetHighTags: [chickpea, mung]
-facetMidTags: [chickpea, mung]
-facetLowTags: [chickpea, green]
-facetLeastTags: [chickpea, green, kidney]
 ---
 
 Aged Adzuki Beans are the Bean Zodiac's most reverential — they will warm the cups before pouring, fold the napkin twice, and let a long pause sit at the head of the table because the moment deserves a sill to rest on. A birthday is not a date in a calendar to them; it is a thing you walk toward slowly, with both hands.

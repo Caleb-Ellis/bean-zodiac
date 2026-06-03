@@ -6,6 +6,11 @@ form: dried
 trait: layered
 dish: Frijoles de olla - dried pinto beans slow-cooked in clay pot with epazote, onion, and lard.
 quote: Life is like a bean of chocolates — you never know what you're going to get.
+creature: ammonite
+friendlyBeans: [adzuki, chickpea]
+antiBeans: [kidney, navy]
+friendlyForm: fermented
+antiForm: boiled
 seasonalFortune: A season that earns its weight slowly. Onion gives up its sharpness by degrees, epazote arrives at the end, and nothing in the pot can be hurried.
 fortuneMost: Begin a few summers before the part that matters and let them arrive at the point on their own.
 fortuneMost2: The soak you set going on a hunch, before anyone called, is the layer everything else will rest on. Trust what you started early.
@@ -18,15 +23,15 @@ fortuneLow2: Say the apology flat and clear and let everyone move on without you
 fortuneLeast: Some questions want the top line, not the strata beneath. Say "old friends" and move on — even if the unsaid layers tug at you to stay.
 fortuneLeast2: Answer the surface and let what's settled underneath stay settled. You don't owe every moment its depths, uncomfortable as the shortcut feels.
 facetMostTitle: The Clay Pot Before the Question
-facetMost: You started the soak two days back, on a hunch about who might call.
+facetMost: First the vanished sea, then the mud turning to stone, then the slow press of years — only then the name. That's how you answer the child at the museum pointing at the fossil, the whole floor laid before the thing standing on it.
 facetHighTitle: Sunday's Rendered Lard
-facetHigh: Asked about your week, you start with Sunday and let Thursday surface somewhere near the end.
+facetHigh: A hiking stranger asks how you ended up out here. You start three towns and one bad decision back, trusting them to follow the trail all the way to where you're both standing.
 facetMidTitle: The Onion's Hidden Logic
-facetMid: From the doorway, the shelf looks plain. Step closer — the spines are sorted by a logic only you could name.
+facetMid: The spice rack on your wall looks like chaos to a guest. Lean in, you tell them, and the order shows — arranged by a thread only you'd have thought to follow.
 facetLowTitle: The Skipped Epazote
-facetLow: The apology said plainly, and the room moves on without you rebuilding it.
+facetLow: Someone asks how the trip was, half out the door already. You'd love to render it slow — instead you say it was good, leave it flat, and let them go.
 facetLeastTitle: The Settled Sediment
-facetLeast: You answer the first message in the thread; whatever settled underneath is welcome to stay there.
+facetLeast: A stranger on the next deckchair asks where you're from. One word, the plain one, and back to your book — no map, no history, nothing stirred up from the bottom.
 question: Sorting a box of old photos with someone who wasn't there for any of them. They pick one up and ask who's who. You...
 answerMost: start two summers before the photo and arrive at the names by the back of it
 answerHigh: place the year, the house, the falling-out that came after, then the names
@@ -38,11 +43,6 @@ rorschachHigh: a beetle's head above its ridged folded wings
 rorschachMid: a tree's broad canopy spreading over its trunk
 rorschachLow: a balloon on a string drifting near the floor
 rorschachLeast: a flat puddle with one ripple settling out
-facetMostTags: [navy, butter, black]
-facetHighTags: [navy, butter]
-facetMidTags: [navy, butter]
-facetLowTags: [fava, edamame]
-facetLeastTags: [fava, edamame, green]
 ---
 
 Aged Pinto Beans are the Bean Zodiac's most layered — ask after their week and the answer begins on Sunday with a small remembered detail, and by the time it arrives at Thursday, several things you didn't know were related have quietly turned out to be the same thing. Their shelves look plain from the doorway and reveal a logic only on the second look, which is the only look they're really interested in giving you.

@@ -6,6 +6,11 @@ form: roasted
 trait: melancholy
 dish: Roasted mung beans with fish sauce, lime leaves, and dried chilli.
 quote: Sadness is but a bean of the wall beside the window, through which your joy shall look out.
+creature: humpback
+friendlyBeans: [butter, cannellini]
+antiBeans: [edamame, kidney]
+friendlyForm: boiled
+antiForm: fried
 seasonalFortune: A season that roasts slowly and salts deeply. Fish sauce darkens in the pan; lime leaves stiffen as they cure. Sweetness, when it arrives, arrives late and brown.
 fortuneMost: Sit with the grief on purpose, in the chair you chose. It was going to find you sideways anyway — better it keeps the appointment.
 fortuneMost2: Comb back through the old letters slowly, the way you'd walk a shoreline at low tide for what the water gave back. That looking is its own kind of keeping.
@@ -18,15 +23,15 @@ fortuneLow2: Let now stand on its own, unmeasured against any older version of a
 fortuneLeast: Buy the new pen. The dead one's been a metaphor long enough — and yes, the fresh one will feel like it remembers nothing.
 fortuneLeast2: Make the plan and let it arrive clean, nothing from before clinging to it. A day allowed to be only itself is a relief, even if its lightness reads, at first, as forgetting.
 facetMostTitle: Fish Sauce, Nearly Black
-facetMost: You reread old messages on purpose, slowly, the way someone walks a shoreline at low tide looking for what the water gave back.
+facetMost: A demolition crew is taking down the building where you used to live. You go and stand across the street to watch the whole thing come down, because someone should.
 facetHighTitle: Lime Leaves From Spring
-facetHigh: You keep the chipped bowl, the dead pen, the ticket stub — small ballast against a room that forgets too easily.
+facetHigh: Wave the movers off the dented kettle that hasn't whistled in years — keep it on the shelf. A kitchen with nothing worn in it would belong to no one.
 facetMidTitle: The Stained Jar
-facetMid: A song catches you in the doorway and you stand there, letting the room hold a weather only you can smell.
+facetMid: A smell drifts off a passing stranger and a whole vanished year arrives with it. Stand in the doorway and let the ache run its course, or shake it off and get on with the errand?
 facetLowTitle: The Chilli, Snapped Clean
-facetLow: You answer the door on the first knock; whatever the visitor brought, you take it as it comes.
+facetLow: An old friend you once fell out with is suddenly at the market in front of you, smiling. You meet whoever's standing there now and let the version you've carried all these years go quiet.
 facetLeastTitle: Shells Before They Cool
-facetLeast: You make plans for Thursday on Wednesday night and Thursday arrives clean, with no Tuesday clinging to it.
+facetLeast: A drawer of keepsakes from a chapter that's truly over sits in the way of the move. You bin the lot without ceremony and feel the room get lighter, not emptier.
 question: An old song comes on in the doorway between rooms and you feel it land. You...
 answerMost: stand still, let the whole song play, don't move until it's finished
 answerHigh: stop where you are and listen, eyes a little lost
@@ -38,11 +43,6 @@ rorschachHigh: a low cloud trailing rain straight down
 rorschachMid: a cloud with streamers hanging beneath it
 rorschachLow: a fountain throwing its water up in jets
 rorschachLeast: smoke from a fire rising fast into clear sky
-facetMostTags: [pinto, black, kidney]
-facetHighTags: [pinto, black]
-facetMidTags: [pinto, black]
-facetLowTags: [navy, butter]
-facetLeastTags: [navy, butter, edamame]
 ---
 
 Rendered Mung Beans are the Bean Zodiac's most melancholy — not unhappy, exactly, but always carrying the weather of an earlier room with them into this one. They keep the chipped bowl and the dead pen. They reread old messages on purpose, slowly, the way someone walks a shoreline at low tide. The result is a person who, when present, is present with a depth most people can't quite match.

@@ -6,6 +6,11 @@ form: dried
 trait: mordant
 dish: Dried edamame with shichimi togarashi and yuzu salt.
 quote: Be yourself; everyone else is already beaned.
+creature: scorpion
+friendlyBeans: [cannellini, green]
+antiBeans: [mung, chickpea]
+friendlyForm: boiled
+antiForm: fermented
 seasonalFortune: A season pared to what survives the drying rack. Soft months fall away as husk; the rest sits salted on the shelf, sharp under any weather it meets.
 fortuneMost: You see the misstatement before they've finished, and the dry line is already loaded. Land it — just clock who was already embarrassed first.
 fortuneMost2: A season pared down to what survives the drying rack — soft months gone as husk, the rest salted and sharp under any weather.
@@ -18,15 +23,15 @@ fortuneLow2: The unfiled version cuts more than you mean it to, and you can't ta
 fortuneLeast: A wrong thing said near you, left to stand. Not your weather to correct, and the air stays warmer for the silence — even if your tongue itches.
 fortuneLeast2: Someone is cheerfully, harmlessly wrong, and the day is better for letting them stay that way.
 facetMostTitle: Shichimi, No Chaser
-facetMost: Your own draft comes back from you scored through in red — the kind line cut, the true one underlined, sent.
+facetMost: The tour guide rattles off a date that's plainly wrong; the group nods along. Loaded on your tongue, the dry correction, before he's even reached the next room.
 facetHighTitle: Yuzu Rind in the Till
-facetHigh: The waiter brings the wrong total; before the glass touches down you have named the line and the cent.
+facetHigh: A speaker fumbles a statistic mid-talk. No heckling — the right figure goes into your question at the end, so the point stands and so does she.
 facetMidTitle: Salt Rubbed Even
-facetMid: Guests ask which couch to take and you say the green one, no hedge, and pour from the open bottle.
+facetMid: Asked for your honest read on the idea, you give it straight. No cushion. The flaw named as plainly as the parts that work.
 facetLowTitle: Pods Left to Swell
-facetLow: The note sits open all evening and you smooth three edges off it before the send.
+facetLow: A friend's mid-story and loving it, and the fact they just dropped is wrong. Bite down on the correction; ask a question instead and leave them their version.
 facetLeastTitle: Pepper in the Sealed Jar
-facetLeast: On the platform a stranger misreads the board aloud; you hear the mistake, hold it, and step onto your train.
+facetLeast: Two people beside you are cheerfully, harmlessly wrong about something. The whole conversation goes uncut, and not a single itch to fix it.
 question: At dinner, someone confidently misattributes a quote to the wrong person. The table nods along. You...
 answerMost: correct them, drily, and watch the nodding stop
 answerHigh: name the right source in passing and let them catch up to it
@@ -38,11 +43,6 @@ rorschachHigh: a clawed seahorse curling past a spiked star
 rorschachMid: a curled shrimp beside a small splatter
 rorschachLow: a sleeping cat's tail beside a soft thistle
 rorschachLeast: a coiled rope beside a tuft of wool
-facetMostTags: [cannellini, black, pinto]
-facetHighTags: [cannellini, black]
-facetMidTags: [cannellini, black]
-facetLowTags: [green, fava]
-facetLeastTags: [green, fava, pinto]
 ---
 
 Sichuan Edamame are the Bean Zodiac's most mordant — the friend whose one-line reply to a long voice note is, somehow, the entire point of the voice note, rendered drier. They see the misstatement before its speaker has finished, and the urge to mark it is not so much an urge as a reflex. The wit is real. The aim is true. The room usually laughs.

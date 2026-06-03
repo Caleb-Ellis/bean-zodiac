@@ -6,6 +6,11 @@ form: boiled
 trait: affectionate
 dish: Adzuki and white miso soup with silken tofu and wakame.
 quote: All you need is bean.
+creature: otter
+friendlyBeans: [navy, butter]
+antiBeans: [chickpea, kidney]
+friendlyForm: smoked
+antiForm: fermented
 seasonalFortune: Long simmering weather. Houses warmed by what they hold; the people inside go quiet at the table, slow to leave the bowl.
 fortuneMost: Cook for someone. Not a metaphor — actual food, on a plate, set down in front of them.
 fortuneMost2: Someone is going to be loved very plainly this week, and it is going to be by you.
@@ -18,15 +23,15 @@ fortuneLow2: Care doesn't have to be the long hug you don't quite trust giving. 
 fortuneLeast: A step back can clear the steam off the window. You see them better from there, even if you miss the warmth of being close.
 fortuneLeast2: Leave one of them untended. They'll grow toward something that isn't you, and that's allowed.
 facetMostTitle: Wakame in the Warm Dark
-facetMost: You remember who takes sugar, who hates onion, whose mother was ill — and you act on it before being asked.
+facetMost: A neighbour you barely know mentions, in passing, that they've been off their feet. By nightfall you're carrying a covered pot up their stairs.
 facetHighTitle: Miso, Stirred in Last
-facetHigh: You text the friend who went silent. Not to fix it. To say you're still here.
+facetHigh: One more chair would fit at the table, and there's a name you keep circling. You set the extra place and send the message that fills it before you can talk yourself out of it.
 facetMidTitle: Tofu at the Broth's Edge
-facetMid: Your hand lands on a shoulder before you've decided to comfort; you find out you meant it on the way.
+facetMid: Someone across the bus is crying quietly into a scarf. You're already half out of your seat with no plan for what you'll say.
 facetLowTitle: The Whole Adzuki
-facetLow: You hear the bad news and offer something practical — a ride, a number, a meal dropped off — instead of the long hug they half-wanted.
+facetLow: Hold still. A friend's grief is fresh, the silence between you long, and the urge to fix it is one you can sit on.
 facetLeastTitle: Beans by the Count
-facetLeast: You like people fine at a distance; closeness feels like steam fogging a window you were trying to see through.
+facetLeast: An old acquaintance wants to make it weekly, standing, the two of you. You keep the door wide enough for hellos and no wider.
 question: You're seeing someone you love off at the airport. The hug ends and they turn to go. You...
 answerMost: call their name one more time and tell them, plainly, the thing you wanted them to leave with
 answerHigh: catch their sleeve, give them the look they know means it
@@ -38,11 +43,6 @@ rorschachHigh: a round loaf still warm under a cloth
 rorschachMid: a worn boulder with a chip off one shoulder
 rorschachLow: a hunched figure turned in on itself alone
 rorschachLeast: a stray dog curled alone at the field's edge
-facetMostTags: [chickpea, mung, navy]
-facetHighTags: [chickpea, mung]
-facetMidTags: [chickpea, mung]
-facetLowTags: [cannellini, edamame]
-facetLeastTags: [cannellini, edamame, black]
 ---
 
 Dashi Adzuki Beans are the Bean Zodiac's most affectionate — and the worst at saying so out loud. The love arrives as soup at the door, as the remembered allergy, as the spare phone charger produced from a bag the moment someone mentions their battery. They keep a quiet ledger of who likes onion and who doesn't, who's between jobs, whose mother is unwell, and they act on it before being asked, often before being thanked.

@@ -6,6 +6,11 @@ form: boiled
 trait: trustworthy
 dish: German kidney bean and sauerkraut soup with caraway.
 quote: The secret of getting ahead is getting bean.
+creature: guide dog
+friendlyBeans: [navy, butter]
+antiBeans: [fava, cannellini]
+friendlyForm: roasted
+antiForm: smoked
 seasonalFortune: Brine deepens through the long months; what was salted in autumn answers in spring. The crock keeps its bargain without speaking, and the cellar plans around it.
 fortuneMost: The promise that costs you the thing you wanted, kept without a word about the cost — that's the yes that meant what you meant.
 fortuneMost2: You'll arrive at the hour you named, carrying what you said you'd carry. Quietly, that is the whole of it.
@@ -18,15 +23,15 @@ fortuneLow2: A few plans left half-promised, a drawer or two ajar. Not every loo
 fortuneLeast: A "no" with its consonants intact beats the drawn-out maybe, which is only no with worse manners. The firmness feels unkind. It's kinder than the maybe.
 fortuneLeast2: The no you should have said three commitments back is still worth saying now. Give it before you give away the whole day.
 facetMostTitle: Caraway Where It Settled
-facetMost: You arrive at the hour you named, carrying what you said you would carry.
+facetMost: A far better invitation lands for the exact hour you already promised to someone else. The old promise wins, and nobody hears a word about what it cost you.
 facetHighTitle: Brine's Long Memory
-facetHigh: When the bill comes around, you reach for it before anyone has finished counting.
+facetHigh: Someone's quietly counting on a yes you gave and hasn't dared check it's still good. Before they have to ask, you send the one line that lets them stop worrying.
 facetMidTitle: Seams Held Through the Simmer
-facetMid: Messages get answered the day they arrive, in the order they landed.
+facetMid: You realise you'll be twenty minutes late to a thing you swore you'd make. The short heads-up goes out now, while it's still a small thing to absorb.
 facetLowTitle: The Jar's Rim Overrun
-facetLow: You leave drawers ajar, books face-down, plans half-promised on the way out.
+facetLow: A "let's definitely do this" floats out of you on the way to the door, warm and meant in the moment, with no real intention of pinning a date to it.
 facetLeastTitle: Whoever Stirred It Last
-facetLeast: You befriend in waves, fall out of contact mid-sentence, return six months later mid-thought.
+facetLeast: A friend you adore goes weeks unanswered, then you turn up out of nowhere picking the thread back up — and to you that's simply how the friendship breathes.
 question: A friend asks if you can help them move on Saturday. You already have plans you've been looking forward to. You...
 answerMost: cancel your plans and confirm without mentioning what you cancelled
 answerHigh: offer the morning, then go to the thing in the afternoon
@@ -38,11 +43,6 @@ rorschachHigh: a toad squatting solid on its haunches
 rorschachMid: a round melon set on the board
 rorschachLow: an egg perched on the slope, ready to roll
 rorschachLeast: a teetering stack of plates a breath from toppling
-facetMostTags: [navy, mung, adzuki]
-facetHighTags: [navy, mung]
-facetMidTags: [navy, mung]
-facetLowTags: [butter, black]
-facetLeastTags: [butter, black, edamame]
 ---
 
 Brined Kidney Beans are the Bean Zodiac's most trustworthy. When they say a thing will be done by Thursday, the thing is done by Thursday; when they say they'll be there at seven, the door opens at seven with whatever they said they would bring already in hand. They don't make a virtue of it — it would not occur to them to. The reliability is just how the week is shaped.

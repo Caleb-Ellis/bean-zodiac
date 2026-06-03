@@ -6,6 +6,11 @@ form: dried
 trait: rarefied
 dish: Torta di fagioli — Tuscan white bean cake, dried cannellini cooked to paste and baked with eggs, sugar, and lemon zest into something simple and precise.
 quote: Excellence is never bean by accident.
+creature: snow leopard
+friendlyBeans: [edamame, black]
+antiBeans: [mung, pinto]
+friendlyForm: boiled
+antiForm: roasted
 seasonalFortune: A season pared to caster sugar. Twelve jars become three, the cake comes out cleaner, and a footstep carries further across the emptied pantry.
 fortuneMost: Twelve jars pared to three, the cake out cleaner for it. The plain thing already lands — no additions, no fixes.
 fortuneMost2: A footstep carries further across an emptied pantry, and so does the single good thing you choose to keep.
@@ -18,15 +23,15 @@ fortuneLow2: Not everything has to clear your bar to earn a place. Meet the impe
 fortuneLeast: Pour two glasses for whoever's nearest and let the evening go heaped and chaotic. The standard can sleep in the cupboard for one night.
 fortuneLeast2: The soft lemons used up, the room overfull, nothing pared. Letting it sprawl past your liking costs you a wince — trust the mess; it's feeding people.
 facetMostTitle: Caster Sugar, Never Coarser
-facetMost: One good knife on the wall and the drawer beneath it kept empty — what the recipe did not call for, the room does not hold.
+facetMost: One thing kept, the genie says, and the fire takes the rest — and you name it without a flicker of hesitation, watching the smoke rise off everything else.
 facetHighTitle: The Zest Withheld
-facetHigh: The cake stays unbaked; the corner shop does not tempt you; the calendar turns.
+facetHigh: Thanks, but none of them — a roadside vendor fans out a dozen cheap shiny trinkets, and you keep your hands in your pockets and walk on light.
 facetMidTitle: One Quarter-Turn Left
-facetMid: You draft, reread, alter a single line, and send.
+facetMid: Packing a bag for a long trip, you lay out twice what fits and quietly halve the pile until only what earns its weight is left.
 facetLowTitle: Paste Smooth Enough
-facetLow: The bill gets paid the day it arrives; the form gets filled in the kitchen.
+facetLow: A bunch of wildflowers comes loose and lopsided from a child's fist. You crowd them all into the vase, stems uneven, and love the riot of it.
 facetLeastTitle: Lemons Going Soft
-facetLeast: You text six people from the doorway of the grocer and the table fills before the oven is hot.
+facetLeast: Arms already full, you wade deeper into a yard sale that sprawls mismatched and overflowing under the trees, hauling home far more than you came for.
 question: A drawer is full and you've promised yourself to thin it before the weekend. Twenty-six things in, eight things kept. You...
 answerMost: put six of the eight back; only two of them actually earn the drawer
 answerHigh: pull the eight down to four and donate the rest by Sunday
@@ -38,11 +43,6 @@ rorschachHigh: one orchid in a tall empty vase
 rorschachMid: a leaf pressed flat in a book
 rorschachLow: a junk drawer tipped onto the floor
 rorschachLeast: a flea market table heaped with everything
-facetMostTags: [navy, black, pinto]
-facetHighTags: [navy, black]
-facetMidTags: [navy, black]
-facetLowTags: [fava, edamame]
-facetLeastTags: [fava, green, edamame]
 ---
 
 Crystallised Cannellini Beans are the Bean Zodiac's most rarefied. The kitchen has three knives and they are all kept sharp; the bookshelf holds what's been re-read and nothing else; the toast at the wedding is two sentences long and lands. They have learned what is worth keeping by getting rid of almost everything else.

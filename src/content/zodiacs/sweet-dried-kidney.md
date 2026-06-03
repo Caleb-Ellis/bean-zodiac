@@ -6,6 +6,11 @@ form: dried
 trait: adoring
 dish: Habichuelas con dulce — dried kidney beans cooked with coconut milk, sweet potato, raisins, and warm spice into a Dominican Easter dessert.
 quote: The course of true love never did bean smooth.
+creature: lovebird
+friendlyBeans: [fava, pinto]
+antiBeans: [chickpea, pinto]
+friendlyForm: boiled
+antiForm: fermented
 seasonalFortune: The dried bean keeps its heat tucked under a wrinkled coat; in this household a feeling, once taken in, simmers for months before it is ladled out.
 fortuneMost: The first ticket stub still in a book by the bed, the song from the bad year and the good one both kept. Ladle it out while it's hot — say the warm thing before the call ends.
 fortuneMost2: A heart drawn over and over in the same ink. They were the right person before it started, and stay right straight through the evidence.
@@ -18,15 +23,15 @@ fortuneLow2: Allow yourself the private quiet. Love doesn't have to be loud to b
 fortuneLeast: A sealed envelope left on the counter overnight. The honest version arrives only once you've weighed whether the journey's worth it — let it sit.
 fortuneLeast2: File the small slight under the running list and don't rush to write it off. You can keep loving the person without editing the flaw out first.
 facetMostTitle: Cinnamon That Does Not Yield
-facetMost: The notebook you keep returns to the same name across years, each entry darker and sweeter, none of them retracted.
+facetMost: A street musician plays something that catches you square in the chest. The whole handful of coins goes into the case, and you tell them outright, eyes wet, how good they are.
 facetHighTitle: Raisins Swelling Against the Spoon
-facetHigh: You say "I love you" first, often, in the middle of a sentence about something else, and never check whether the room was ready for it.
+facetHigh: Up and around the table mid-sentence, arms already open — a friend you've known all of a month has just let slip they had a rough morning.
 facetMidTitle: Coconut Milk on a Low Flame
-facetMid: Whoever sits beside you on the bus gets the full weather of your week before the next stop.
+facetMid: The cab driver mentions his daughter's first day at school. By the time you climb out you've told him, warmly, that she's lucky to have a dad who notices.
 facetLowTitle: Sweet Potato at Its Corners
-facetLow: You pay the rent, you split the bill down the cent, and what you feel stays a private accounting.
+facetLow: Someone toasts you at the party and the whole table turns, glasses up, waiting. You manage a nod and a small thank-you and steer the talk somewhere else.
 facetLeastTitle: The Overnight Soak
-facetLeast: An invitation arrives and sits on the counter for three days while you weigh whether the warmth would be worth the journey across town.
+facetLeast: A returning soldier reunites with their dog on the platform and the whole crowd goes misty. You watch it with a faint smile and feel your own pulse stay level.
 question: The person you love does something genuinely annoying — a small selfish thing, not a deal-breaker. Three days later, you're still thinking about how lovely they were the week before. You...
 answerMost: write it off entirely; they were probably tired
 answerHigh: forgive it before they apologise, and forget by Friday
@@ -38,11 +43,6 @@ rorschachHigh: two hands reaching for the same flower
 rorschachMid: a lantern hung in a doorway
 rorschachLow: a ledger with two columns ruled straight
 rorschachLeast: a sealed envelope left on the counter
-facetMostTags: [adzuki, chickpea, mung]
-facetHighTags: [adzuki, chickpea]
-facetMidTags: [adzuki, chickpea]
-facetLowTags: [cannellini, edamame]
-facetLeastTags: [cannellini, edamame, black]
 ---
 
 Crystallised Kidney Beans are the Bean Zodiac's most adoring. They keep the first ticket stub in a book by the bed. They remember the song from the bad year and the song from the good one. The person they love is the right person, and was the right person before the relationship started, and will be the right person after several pieces of evidence have suggested otherwise.

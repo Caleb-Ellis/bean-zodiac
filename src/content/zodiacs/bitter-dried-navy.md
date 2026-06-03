@@ -6,6 +6,11 @@ form: dried
 trait: rigid
 dish: Boston Baked Beans - with blackstrap molasses.
 quote: Rules are for the guidance of wise beans and the obedience of fools.
+creature: stick insect
+friendlyBeans: [butter, adzuki]
+antiBeans: [fava, kidney]
+friendlyForm: boiled
+antiForm: fermented
 seasonalFortune: Molasses keeps through long cellars; the dried bean asks nothing of the season except the same low oven, the same hours, the same iron pot waiting on the same shelf.
 fortuneMost: Refuse the polite exception. The "just this once" is the leak that sinks the whole pot.
 fortuneMost2: A day that wants doing the long, proper way is coming, and you'll give it the full hours while others rush. The slow oven rewards you; the bean is best when no one hurried it.
@@ -18,15 +23,15 @@ fortuneLow2: Promise one day, arrive the next, settle late without the apology. 
 fortuneLeast: That old rule was written for a life you no longer have. Loosening it will feel like a crack in the hull. Let it crack.
 fortuneLeast2: The version that walks out needn't match the one that walked in. Bend toward the company — the molasses can thin a little, however unmoored that leaves you.
 facetMostTitle: Blackstrap Leaving the Spoon
-facetMost: You will not be hurried — the hours the method demands are the hours you give, and a hand on your elbow only sets the clock back.
+facetMost: A marked route, and a shortcut everyone's cutting through the fence to save twenty minutes. Not you — every switchback walked the long marked way, because the marked way is the way.
 facetHighTitle: Bitterness Past the Soak
-facetHigh: Debts get paid by the day you said you would pay them, in full, even when the other person has plainly forgotten and would forgive the slip.
+facetHigh: You said you'd return the borrowed ladder by the weekend, and a storm's coming you could use it for. Back it goes regardless, on the dot, the word given outranking your own convenience.
 facetMidTitle: Cast Iron Where It Sits
-facetMid: Each thing in your rooms has its shelf, and the shelf does not negotiate; a guest who moves a mug will find it returned before they leave.
+facetMid: Play it as written, you say, while the table lobbies to house-rule the slow bit out of the board game. The printed rule is the game — tweaks come later, if ever, not mid-hand to save five minutes.
 facetLowTitle: Molasses Thinned
-facetLow: You promise Tuesday, arrive Wednesday, settle the bill on Friday with no apology, and the friend across from you does not, in fact, mind.
+facetLow: The road you always take is closed and the detour's a guess. You take a turn you've never driven, no plan, winging the route home, the wheels just rolling on.
 facetLeastTitle: The Shape of Any Fire
-facetLeast: You bend toward the room you're in, swap your stance for the company, and the version of you that walks out is not the one that walked in.
+facetLeast: The plan was set and the whole group suddenly wants to scrap it for something wilder. You drop your version without a fight, pour yourself into theirs, going where the night goes.
 question: A recipe says simmer for two hours. At ninety minutes it looks done. Guests arrive in twenty. You...
 answerMost: keep it on the heat the full two hours
 answerHigh: set the timer and find something to do until it rings
@@ -38,11 +43,6 @@ rorschachHigh: two stone bollards set in concrete
 rorschachMid: two gourds resting on a table
 rorschachLow: two water balloons sagging out of shape
 rorschachLeast: two soap bubbles wobbling about to drift
-facetMostTags: [cannellini, black, pinto]
-facetHighTags: [cannellini, black]
-facetMidTags: [cannellini, black]
-facetLowTags: [green, fava]
-facetLeastTags: [green, edamame, fava]
 ---
 
 Desiccated Navy Beans are the Bean Zodiac's most rigid — they pay the debt by the date they named even when the other party has forgotten it, follow the proven method to the hour, and will not be hurried by a hand on the elbow. If they said they would, they will; you could set a clock by them, and many people quietly do.

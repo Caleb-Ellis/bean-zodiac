@@ -6,6 +6,11 @@ form: roasted
 trait: happy
 dish: Adzuki bean brittle — adzuki beans roasted with brown sugar and black sesame until crackling and amber.
 quote: Take it! Take more! I'll make another batch!
+creature: lark
+friendlyBeans: [butter, mung]
+antiBeans: [green, kidney]
+friendlyForm: fried
+antiForm: dried
 seasonalFortune: Sugar crackles into amber on its own time. A season of small warmths, given without inventory, taken without ceremony — brittle cooled on a windowsill and waiting for whoever passes.
 fortuneMost: Amber luck this turn, the kind that crackles. Sweetness you make for no reason finds the one person who needed it.
 fortuneMost2: You hand the broken piece to a stranger and walk off before the thank-you. The walking off is the joy.
@@ -18,15 +23,15 @@ fortuneLow2: Not every warmth needs a second sun from you. Someone's good news c
 fortuneLeast: The empty chair is a small loss, and a quiet corner the gain. Skip the gathering you only say yes to from habit.
 fortuneLeast2: A sign to step out when the loud table has taken all you've got. Hard to leave a room still wanting you — gladness comes back once it's fed.
 facetMostTitle: Caramel Breaking Under a Thumb
-facetMost: You hand the broken piece to a stranger at the bus stop and walk on before they think to thank you.
+facetMost: A bus pulls up and the driver looks grim. Before you've thought about it you're telling him something to make him grin.
 facetHighTitle: Sesame Scattered, Then Gathered
-facetHigh: The acquaintance everyone meant to invite — you are already drafting the message, three names deep, no occasion needed.
+facetHigh: There's an old number in your phone you haven't called in years. The thought of them lands warm, and your thumb is already hovering over it.
 facetMidTitle: Roasted Beans Warm in the Palm
-facetMid: You stay ten minutes past your bedtime because someone wanted to finish a story, and the morning will keep.
+facetMid: Two kids on the next bench, betting whether a cloud will reach the rooftop first. You catch yourself rooting for the cloud out loud.
 facetLowTitle: The Pan Cooling, Glaze Unset
-facetLow: A neighbour's good news reaches you and you nod, file it, move on to what the kettle is asking.
+facetLow: A door appears in the hillside marked *come in, it's lovely.* You read it twice, then keep walking the path you were on.
 facetLeastTitle: Brown Sugar in the Jar
-facetLeast: You step around the loud table at the gathering; the quiet corner has better light and fewer demands.
+facetLeast: The party noise reaches you from two rooms over. You pull the blanket up and stay exactly where you are.
 question: A friend you haven't seen in months messages out of nowhere — they're in town for the night, no plan. You...
 answerMost: tell them dinner's at yours in an hour and start cooking
 answerHigh: clear your evening and pick a place you both used to love
@@ -38,11 +43,6 @@ rorschachHigh: a wave cresting white into morning sun
 rorschachMid: a round loaf split open along its crusty top
 rorschachLow: a dog curled asleep with its back turned
 rorschachLeast: a covered shape lying still under a sheet
-facetMostTags: [chickpea, green, kidney]
-facetHighTags: [chickpea, green]
-facetMidTags: [chickpea, green]
-facetLowTags: [butter, mung]
-facetLeastTags: [butter, mung, black]
 ---
 
 Glazed Adzuki Beans are the Bean Zodiac's happiest — the ones who hand the broken piece of brittle to a stranger and walk on before the thank-you arrives. They text the embarrassing photo to the group chat. They bake the cake on a Tuesday and the reason for the cake shows up around eight.

@@ -6,6 +6,11 @@ form: dried
 trait: unflinching
 dish: Boston baked beans - navy beans slow-baked with cayenne and dry mustard.
 quote: In matters of principle, stand like a bean.
+creature: grey wolf
+friendlyBeans: [butter, cannellini]
+antiBeans: [pinto, green]
+friendlyForm: boiled
+antiForm: fermented
 seasonalFortune: A season for slow ovens and small white beans that do not surrender. The cayenne settles on the skin; the shape beneath it stays its own through every hour of heat.
 fortuneMost: A small white bean that does not surrender to the slow oven — the cayenne settles on the skin and the shape beneath stays its own. So with you, all the way to dusk.
 fortuneMost2: When someone names the position you held long ago and waits, say it again — same words, same calm. The principle holds because you do.
@@ -18,15 +23,15 @@ fortuneLow2: The weather's turned; let yourself turn with it. Changing course wi
 fortuneLeast: The rule you've kept from sheer habit was scaffolding, not the floor. Move it, though pulling it costs you the comfort of the familiar shape.
 fortuneLeast2: Some things were settled by inertia, not principle. Agree on the spot and redraw the plan together.
 facetMostTitle: Cayenne on the Unblistered Bean
-facetMost: You hold a position through the long afternoon and arrive at dusk with the same answer you brought at noon.
+facetMost: A whole table leans on you to drop the stance you took — right about the pressure, wrong about you. Word for word, same calm, you hold it while they push.
 facetHighTitle: Dry Mustard on the Tongue
-facetHigh: A friend names what you said last winter and waits; you say it again, plainly, in the same kitchen light.
+facetHigh: Every objection, the salesman has an answer for, and the clock's running down on you. Your reasons come out clearer, not softer, and the number doesn't move.
 facetMidTitle: Low Oven, Long Hour
-facetMid: The wrong charge on a bill — you write the letter, send it twice, do not soften the second draft.
+facetMid: Have you quietly drifted on the thing you once swore by? An old friend's testing it — and you don't argue, you let the years of standing there answer for you.
 facetLowTitle: Pepper Before the Lid
-facetLow: The forecast turns and you turn with it, swapping plans by lunchtime without needing to defend the first one.
+facetLow: Partway up the mountain, the guide reads the sky and calls the route. Your heart was set on the summit; still, you turn back with her and don't make her win it.
 facetLeastTitle: The Loosened Skin
-facetLeast: You shift the table, the lamp, the rule about shoes — whatever was settled last month is up for moving by Sunday.
+facetLeast: It turns out the rule you've kept for years was never load-bearing — just habit, someone shows you. You let it go where you stand and help redraw the plan around the gap.
 question: Halfway through a project, new information makes your original call look weaker than it did at the start. Two colleagues nudge you to revise. You...
 answerMost: hold the line; the new information doesn't change the principle
 answerHigh: restate the original reasoning more clearly and stay the course
@@ -38,11 +43,6 @@ rorschachHigh: a spiked burr held fast under wide wings
 rorschachMid: a winged crest above a spiky round base
 rorschachLow: a kite tugging at a loosening weight
 rorschachLeast: a gull lifting off, the anchor let go
-facetMostTags: [kidney, fava, edamame]
-facetHighTags: [kidney, fava]
-facetMidTags: [kidney, fava]
-facetLowTags: [butter, edamame]
-facetLeastTags: [butter, edamame, black]
 ---
 
 Sichuan Navy Beans are the Bean Zodiac's most unflinching — the friend whose position on something said in January will be exactly their position in November, and they will say it the same way, in the same kitchen, with the same calm. Under pressure they do not bend, which is why people trust them with the things that matter. The principle holds.

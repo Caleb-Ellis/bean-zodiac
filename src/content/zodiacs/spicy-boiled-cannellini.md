@@ -6,6 +6,11 @@ form: boiled
 trait: perfectionist
 dish: Ribollita - Tuscan bread soup with cannellini, cavolo nero, and peperoncino.
 quote: Have no fear of bean perfection — you will never reach it, but what a view from the attempt.
+creature: weaver ant
+friendlyBeans: [navy, kidney]
+antiBeans: [fava, pinto]
+friendlyForm: smoked
+antiForm: smoked
 seasonalFortune: A long simmer is the season's shape. The cavolo nero darkens slowly; nothing is hurried, and the pepper waits its hour in the corner of the pot.
 fortuneMost: You feel the seam nobody else sees. That noticing is rare, and it's about to earn its keep.
 fortuneMost2: Take the fourth pass at the thing only you know is wrong. The view from the attempt is the whole reward, and you've earned the climb.
@@ -18,15 +23,15 @@ fortuneLow2: A windfall is coming through a door you'd have re-hung first. Take 
 fortuneLeast: The first attempt, left alone, is better than the eleventh you'd grind it into. Loosening that grip costs you — do it anyway.
 fortuneLeast2: Agree to the rough split, pocket the change uncounted. The small imprecision costs you nothing, even if your hands itch to measure it.
 facetMostTitle: Stale Bread, Torn Twice
-facetMost: You finish the page, then tear it down to the crust and begin again. The fourth pass is the one you'll show.
+facetMost: The cake's iced and everyone says it's lovely. You scrape the whole top off because one edge sags, and start the buttercream over.
 facetHighTitle: Peperoncino by the Grain
-facetHigh: You shift the lamp an inch, then back. The chair faces the window the way it should, and no one else can feel the difference.
+facetHigh: One book on a friend's shelf juts out past the rest. Your fingers itch the whole visit to reach over and line it up.
 facetMidTitle: The Broth Overnight
-facetMid: You draft the message, close the tab, open it in the morning to test whether yesterday's heat still lands.
+facetMid: The shelf you built holds fine but the corner's a degree out. Sleep on whether it's worth pulling the whole thing apart to square it.
 facetLowTitle: Beans at the Boil
-facetLow: You send the first take — the thing arrives warm and uneven and already in someone's hands.
+facetLow: Wrapping a gift, the paper goes on lumpy at one corner. Good enough — slap the bow on and hand it over.
 facetLeastTitle: Bread Without Measuring
-facetLeast: You agree to the split, pocket the change without counting; the small wrongness costs you nothing.
+facetLeast: Hanging the photos, you eyeball each nail and skip the level entirely. If one drifts crooked, it drifts crooked.
 question: The message is written. It's good enough, probably. Your cursor is on the send button. You...
 answerMost: close the tab, reread it tomorrow with fresh eyes
 answerHigh: rework the second paragraph one more time, then send
@@ -38,11 +43,6 @@ rorschachHigh: a horseshoe with a single rivet hole, over an anvil
 rorschachMid: a broken arch above a heap of rubble
 rorschachLow: a dented crown left atop a sagging cushion
 rorschachLeast: a wreath half-torn above a crumbling mound
-facetMostTags: [navy, black, adzuki]
-facetHighTags: [navy, black]
-facetMidTags: [navy, black]
-facetLowTags: [green, fava]
-facetLeastTags: [green, fava, edamame]
 ---
 
 Braised Cannellini Beans are the Bean Zodiac's most perfectionist — the ones who shift the lamp an inch and then an inch back, who can feel the wrongness of a chair turned five degrees off, who quietly rework the paragraph nobody was going to read closely anyway. What lands from them tends to land right; the seam is invisible, the proportions are correct, the small thing has been thought about.

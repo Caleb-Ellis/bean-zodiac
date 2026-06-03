@@ -6,6 +6,11 @@ form: dried
 trait: ascetic
 dish: Acquacotta - cannellini and bitter greens.
 quote: Simplicity is the ultimate bean.
+creature: camel
+friendlyBeans: [edamame, mung]
+antiBeans: [adzuki, butter]
+friendlyForm: smoked
+antiForm: roasted
 seasonalFortune: A long quiet season. The bean keeps in its jar, the bitter leaf cures on the sill, and the kitchen waits weeks for the pot to come down.
 fortuneMost: Wave off the fifth ingredient without looking up from the pot. Water, bean, one bitter leaf was always enough, and the plain bowl is the good one.
 fortuneMost2: A clean, spare stretch is opening ahead — less to carry, less to mind. You'll move through it like someone who solved the problem early.
@@ -18,15 +23,15 @@ fortuneLow2: The ribbon, the keepsake, the pebble off a road — useless, and yo
 fortuneLeast: That ugly thing you love? Keep it for the plain joy of it. Restraint without joy is only thrift.
 fortuneLeast2: Set out far more than anyone needs and let the table crowd. Generosity will feel like waste at first; pour it anyway.
 facetMostTitle: Water, Bean, One Leaf
-facetMost: The fifth ingredient is offered and you wave it off without looking up from the pot.
+facetMost: A free upgrade to the bigger room, the salesman beaming. The small one had a bed and a window, which was the whole list — so no, thanks.
 facetHighTitle: The Third Jar
-facetHigh: A fourth would have to earn its place by displacing one already there.
+facetHigh: The market stall is all colour and you came for one thing. Hand goes to the plainest version, the rest sliding past like noise.
 facetMidTitle: The Pot Left Plain
-facetMid: A coat outlasts a decade because you have never let yourself want the next one. What works is not replaced until it stops.
+facetMid: The phone still works, just slower, and a shinier one glows in the shop window. Why trade what does the job — you keep walking.
 facetLowTitle: The Folded Receipt
-facetLow: Drawers full of small good things — pens, ribbons, a fine afternoon's keepsake. Nothing leaves your keeping without a fight.
+facetLow: A spare key to a door long gone turns up in a drawer. It opens nothing, and you slide it back in to keep, glad of it for nothing but itself.
 facetLeastTitle: The Second Cruet
-facetLeast: You set out the bread, the dish of salt; the table grows crowded and you keep adding what someone might reach for.
+facetLeast: A box of someone's giveaways sits on the curb, half of it junk. Home it all comes, room found for things you'll never use, the pile growing happily.
 question: You're packing for a week away. The bag has room for one more thing. You...
 answerMost: close the bag, you already have too much
 answerHigh: take one item back out instead
@@ -38,11 +43,6 @@ rorschachHigh: a single loaf, no crumbs around it
 rorschachMid: a potato resting on a plate
 rorschachLow: an overstuffed grocery bag
 rorschachLeast: a heaped plate spilling bits off every edge
-facetMostTags: [mung, butter, black]
-facetHighTags: [mung, butter]
-facetMidTags: [mung, butter]
-facetLowTags: [green, fava]
-facetLeastTags: [green, fava, edamame]
 ---
 
 Desiccated Cannellini Beans are the Bean Zodiac's most ascetic — they own one good coat, one good knife, one mug, and can tell you the exact day they let go of the rest. Their rooms have the calm of a place where nothing is fighting for attention, and they move through a cluttered world like someone who has quietly solved a problem everyone else is still carrying.

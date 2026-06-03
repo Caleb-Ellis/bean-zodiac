@@ -6,6 +6,11 @@ form: smoked
 trait: mystical
 dish: Mole negro - black beans braised in charred mulato chile, smoked chipotle, and dark chocolate.
 quote: There are more things in bean and earth, Horatio.
+creature: qilin
+friendlyBeans: [navy, fava]
+antiBeans: [adzuki, chickpea]
+friendlyForm: fermented
+antiForm: roasted
 seasonalFortune: Long braises this season. The pot holds its dark longer than the clock asks; what the chile and chocolate said to each other in the dark stays in the dark.
 fortuneMost: Give the world the result and none of the method. What the chile and the chocolate said to each other in the dark is theirs to keep.
 fortuneMost2: Something arrives that fits your life too well to be chance. Take the sign and ask no one where it came from.
@@ -18,15 +23,15 @@ fortuneLow2: Pay what you owe the day it lands, the apology as much as the bill.
 fortuneLeast: Say the plain sweet thing straight out, no smoke. It leaves you oddly bare, but the warmth underneath was always the better dish.
 fortuneLeast2: Open the drawer and let the drawer just be a drawer. The relief is real once you stop missing the dark.
 facetMostTitle: Smoke Under the Lid
-facetMost: You finish the work in the dark and refuse to explain the method — questions land, and you let them sink.
+facetMost: A traveller at the crossroads asks where the dark road leads. You know exactly, and you point them down the bright one with a smile.
 facetHighTitle: Chocolate Into Chile
-facetHigh: A room shifts when you enter it; you feel the undertow before anyone speaks, and you don't say so.
+facetHigh: They want to know how you guessed the ending of the film. You shrug and let them think it was luck.
 facetMidTitle: Char on the Pot's Wall
-facetMid: You keep one chamber back from every friendship, and the friendships last because of it.
+facetMid: Someone presses for the recipe behind the braise. You name two spices and leave the third unspoken in the pot.
 facetLowTitle: Chile on the Tongue
-facetLow: Receipts settled the day they arrive; an apology owed is an apology paid before sundown.
+facetLow: A grudge you've nursed for years sits between you and an old friend. Across the table, you put down the fork and just name it out loud.
 facetLeastTitle: The Clean Stove
-facetLeast: Nothing in the cupboard hides; the drawer opens and the drawer is the drawer.
+facetLeast: A child asks what you're thinking, point-blank. You tell them the whole true answer, no curtain drawn.
 question: An envelope appears in the post addressed to you in handwriting you don't recognise, with no stamp. Inside, a single short sentence that fits the week you've been having. You...
 answerMost: keep the sentence, burn the envelope, ask no questions of anyone
 answerHigh: pin it to the inside of a cupboard door and live with it for a month
@@ -38,11 +43,6 @@ rorschachHigh: a cloaked figure with arms spread, face in shadow
 rorschachMid: a beetle with its legs splayed wide
 rorschachLow: a frog laid open on the table, parts labelled
 rorschachLeast: a crab in clear water, every claw visible
-facetMostTags: [pinto, cannellini, kidney]
-facetHighTags: [pinto, cannellini]
-facetMidTags: [pinto, cannellini]
-facetLowTags: [fava, edamame]
-facetLeastTags: [fava, edamame, green]
 ---
 
 Barbecued Black Beans are the Bean Zodiac's most mystical — and the warmth around them is the part that throws people. They put a hand on your shoulder, pour the good thing, ask the question that lands a little too cleanly, and somewhere between the second and third sip you realise you've been the one talking the whole time.

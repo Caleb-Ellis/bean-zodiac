@@ -6,6 +6,11 @@ form: smoked
 trait: oracular
 dish: Smoked adzuki with bitter black garlic and charred citrus.
 quote: The unexamined bean is not worth living.
+creature: python
+friendlyBeans: [black, navy]
+antiBeans: [kidney, green]
+friendlyForm: fermented
+antiForm: roasted
 seasonalFortune: Smoke drifts ahead of the flame this season; the reader who names the shape in the haze keeps a small advantage over the rest of the room.
 fortuneMost: You already know how this one ends. Say it out loud while there's still time to spare someone the trip.
 fortuneMost2: A reckoning is on its way, and you'll catch the scent of it long before anyone else. Of everyone here, you are the early warning — trust that.
@@ -18,15 +23,15 @@ fortuneLow2: Not every draft means a door's about to open. You can leave this on
 fortuneLeast: The thing you stood guard against all night drifted past in the dark and kept going. Some skies turn on their own, no watcher required — strange, how light that makes you.
 fortuneLeast2: Tomorrow can stay tomorrow's. There's a rest in it you don't quite trust yet, and it's yours anyway.
 facetMostTitle: Ember Spelling Its Name
-facetMost: You walk into a room and know which lamp will fail tonight; you replace the bulb without ceremony.
+facetMost: Two cars hesitate at a four-way stop. You already know which one bolts, and you brake for it a full second before it moves.
 facetHighTitle: Black Garlic, Already Turned
-facetHigh: Your phone rings and you say the caller's name before checking the screen, half-distracted, already knowing what they're calling to ask.
+facetHigh: A horse you've never bet on is led to the gate. Something in its gait tells you everything, and you put the money down before the odds make sense.
 facetMidTitle: The Door Not Yet Open
-facetMid: You feel the draft before the door opens, and step aside without explaining why to the friend beside you.
+facetMid: Strangers are arguing one table over. You can hear how it ends, and you settle the bill early so you're gone before it does.
 facetLowTitle: Smoke Thickening an Hour
-facetLow: You spend money on the thing in front of you, trust the receipt, and never tally what next week will ask.
+facetLow: A weather front you can smell coming is still hours off. You leave the windows open and the washing on the line anyway, sorting it out when the rain actually arrives.
 facetLeastTitle: Char on the Rind
-facetLeast: You sleep when tired, eat when hungry, and let tomorrow's weather be tomorrow's problem when the sky turns.
+facetLeast: A coin spins on the counter and you watch it ride out its wobble, picking up the result when it lands instead of calling it midair.
 question: A friend asks if they should take the new job. Halfway through their pitch you already know the answer. You...
 answerMost: cut in and tell them, plainly, before they finish
 answerHigh: wait for the pause and say what you've been seeing for weeks
@@ -38,11 +43,6 @@ rorschachHigh: two hounds gone still, ears toward the door
 rorschachMid: two boulders leaning together on a hillside
 rorschachLow: a sleeping cat curled beside a loaf
 rorschachLeast: two drowsing toads with their eyes closed
-facetMostTags: [pinto, cannellini, black]
-facetHighTags: [pinto, cannellini]
-facetMidTags: [pinto, cannellini]
-facetLowTags: [fava, edamame]
-facetLeastTags: [fava, edamame, green]
 ---
 
 Charcoal Adzuki Beans are the Bean Zodiac's most oracular. They knew the relationship was over the night everyone else called it a rough patch, knew which colleague would quit before the colleague did, felt the room turn a sentence before it turned. They are right with a frequency that unsettles the people who love them.

@@ -6,6 +6,11 @@ form: roasted
 trait: cheerful
 dish: Fagiolini al limone - oven-roasted green beans with lemon zest, garlic, and toasted almonds
 quote: The most bean thing you can do is smile through your tears.
+creature: bluebird
+friendlyBeans: [kidney, pinto]
+antiBeans: [cannellini, navy]
+friendlyForm: fried
+antiForm: boiled
 seasonalFortune: Lemon and roast carry through the house long after the pan cools; brightness keeps moving room to room, settling where it is needed.
 fortuneMost: Warmth comes back to you doubled this turn, the way lemon carries through a house long after the pan has cooled. Greet the stranger first and watch it return.
 fortuneMost2: You change the air of a place just by walking in. The tense party finds its glasses refilled and its laughter back inside a minute.
@@ -18,15 +23,15 @@ fortuneLow2: Some exits want no brightening — let whoever needs to slip out ju
 fortuneLeast: Brightness kept in the jar keeps just fine. Be the quiet one a while, even if holding the light back feels like dimming yourself.
 fortuneLeast2: Match the low mood and let someone else warm the room. It pinches to hold the lemon back — resting it now makes it no less lemon.
 facetMostTitle: Garlic at the Open Door
-facetMost: You change the air of a room by walking in.
+facetMost: A glum elevator full of strangers stares at the floor numbers. You crack the silence with something warm and watch the whole box thaw.
 facetHighTitle: Zest Over a Stranger's Afternoon
-facetHigh: Greet first, always; the cashier remembers your face.
+facetHigh: The market vendor looks like the day's worn them down to nothing. You're first with the hello, bright and meant, before they've weighed a thing.
 facetMidTitle: The Almond, Cracked Clean
-facetMid: Replies arrive quick, warm, exclamation point intact.
+facetMid: One person on the edge of the group looks left out of the joke. You aim the warmth their way and pull them back into the circle.
 facetLowTitle: Beans Cooling on the Pan
-facetLow: Rooms kept dim, good moods kept to yourself.
+facetLow: A friend sets something heavy down between you, and your bright reply is already half-formed. You swallow it, go still, and ask one quiet question instead.
 facetLeastTitle: Lemon Kept Back
-facetLeast: Slow weather, brightness left to others.
+facetLeast: The gathering's gone subdued and someone else is already working to lift it. You let your own brightness rest, match the hush, and hang back.
 question: You step into a tense kitchen at a party where two friends have just had a small spat. You...
 answerMost: greet the room, refill glasses, get them laughing inside a minute
 answerHigh: bring warmth in and let the temperature lift on its own
@@ -38,11 +43,6 @@ rorschachHigh: a rose in full bloom over its pot
 rorschachMid: a feathered hat sitting on a round head
 rorschachLow: wilted petals drooping over a chipped clay pot
 rorschachLeast: cold ash settling over a dark mound
-facetMostTags: [adzuki, chickpea, pinto]
-facetHighTags: [adzuki, chickpea]
-facetMidTags: [adzuki, chickpea]
-facetLowTags: [butter, mung]
-facetLeastTags: [butter, mung, black]
 ---
 
 Chimichurri Green Beans are the Bean Zodiac's most cheerful — the brightness keeps moving room to room, settling where it is needed. They greet the cashier first, keep the exclamation point in the reply, make the second coffee without being asked. The warmth doesn't read as performance because it isn't: a hard week shows up in the voice, and the cheer arrives anyway, alongside it.

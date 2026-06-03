@@ -6,6 +6,11 @@ form: dried
 trait: wholesome
 dish: Besan ladoo — dried chickpeas ground to flour, toasted in ghee, and rolled into warm golden balls with sugar and cardamom.
 quote: Do unto beans as you would have beans do unto you.
+creature: shetland pony
+friendlyBeans: [mung, adzuki]
+antiBeans: [black, edamame]
+friendlyForm: boiled
+antiForm: smoked
 seasonalFortune: A life lived at the patient toast — flour deepening by shades, ghee gone clear, the rooms nearby holding the cardamom long after the pan is off the heat.
 fortuneMost: People walk away from you a little better off and can't say why — like a room that holds the cardamom long after the pan's off the heat. Feed someone new; use the good ghee.
 fortuneMost2: A loaf broken open with the steam still rising. That's what you are to the one no one thought to check on — reach toward them.
@@ -18,15 +23,15 @@ fortuneLow2: Stay in the hard part instead of passing over it. The warmth they n
 fortuneLeast: Take the long walk and tell no one where. For one afternoon, everything that leans on you can run without you. It'll prick a little — keep the hours anyway.
 fortuneLeast2: A cold grate with the ashes raked out isn't failure; it's rest. Keep a day for the book and the lamp, signed by no one, owed to nobody.
 facetMostTitle: Ghee Thinning to Gold
-facetMost: You sleep early, wake before the kettle, and meet the day already softened — the body fed before the window is open.
+facetMost: Heater cranked, spare jumper already in their hands before a word is asked — a soaked, shivering hiker has stumbled up to where you pulled over at the trailhead.
 facetHighTitle: Flour, Shade by Shade
-facetHigh: A sharp word at dinner stays with you to the bus stop; by morning the night has rolled the edge off it, and you greet the person warmly anyway.
+facetHigh: At the edge of a crowded festival a kid is crying, lost, ignored by the streaming crowd. You crouch to their level and stay until someone comes.
 facetMidTitle: Sugar Into Warm Meal
-facetMid: The spare blanket lives on the back of the sofa, the second cup waits on the tray; the guest you didn't expect is already accounted for.
+facetMid: Nobody's said hello to the new tenant downstairs yet. A few warm golden sweets go on their mat with a short note, and you duck back upstairs before they open the door.
 facetLowTitle: Cardamom Uncrushed
-facetLow: You take the long walk before answering, leave the kitchen as you found it, and the friend who needs you finds you anyway.
+facetLow: Someone two seats over on the bus is quietly falling apart. You catch it, decide they'd rather not be seen, and turn back to the window.
 facetLeastTitle: Waxed Paper, and Gone
-facetLeast: You send the card unsigned, settle the bill by transfer, keep the afternoon for the book and the lamp.
+facetLeast: The whole street's invited to the block party and the knocks come for you too. You draw the curtains, leave the bell unanswered, and let the night belong to no one but you.
 question: A new colleague is having an awful first week and has gone quiet at lunch. You don't really know them yet. You...
 answerMost: bring them a coffee tomorrow and ask about their weekend
 answerHigh: sit next to them and start an easy conversation
@@ -38,11 +43,6 @@ rorschachHigh: a bowl of soup with two spoons
 rorschachMid: a ladle hanging beside the stove
 rorschachLow: a locked tin on a high shelf
 rorschachLeast: a cold grate with the ashes raked out
-facetMostTags: [cannellini, butter, mung]
-facetHighTags: [cannellini, butter]
-facetMidTags: [cannellini, butter]
-facetLowTags: [fava, green]
-facetLeastTags: [fava, green, edamame]
 ---
 
 Crystallised Chickpeas are the Bean Zodiac's most wholesome. They remember everyone's coffee order, send the get-well card unprompted, and notice when the quiet one at the table has stopped speaking — and they do it without ever seeming to keep score. People leave the room around them feeling slightly better than they arrived, and rarely able to name why.

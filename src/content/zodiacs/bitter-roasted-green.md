@@ -6,6 +6,11 @@ form: roasted
 trait: competitive
 dish: Roasted green beans with bitter almond crust and preserved lemon.
 quote: Beaning isn't everything, but wanting to is.
+creature: greyhound
+friendlyBeans: [kidney, adzuki]
+antiBeans: [black, cannellini]
+friendlyForm: fried
+antiForm: boiled
 seasonalFortune: A season when the almond crust sets harder than the bean beneath, and every tray pulled from the oven is measured against the last one.
 fortuneMost: Name the scoreboard out loud, then run flat at it. Vague racing is how you lose to people chasing smaller things.
 fortuneMost2: A contest you've trained hard for is about to break your way. The almond crust sets harder than the bean beneath it, and so do you.
@@ -18,15 +23,15 @@ fortuneLow2: Move at the pace the day hands you, untroubled by who pulled ahead 
 fortuneLeast: A race is going to start up nearby that was never yours to run. Feel the pull, then go walk somewhere with no finish line at all — even as your legs beg to chase.
 fortuneLeast2: An evening is coming that keeps no score. Forget who's ahead and pour everyone a glass. The win there is the not-counting, costly as that feels going in.
 facetMostTitle: Almond Under the First Tooth
-facetMost: At a table of friends, you turn the easy game into a real one, and stay until someone concedes.
+facetMost: Let a stranger pull level on the bridge and quicken their step, and you'll match it, push past, and have you both half-running by the far rail.
 facetHighTitle: The Crust at Full Heat
-facetHigh: You finish a piece of work and immediately weigh it against whoever else is making the same thing.
+facetHigh: A casual hike turns into a quiet count of who's breathing hard. You don't say a word, but you make sure you're not the one who slows first.
 facetMidTitle: Preserved Lemon's Edge
-facetMid: You refresh the scoreboard before the kettle boils — checking where you sit, every morning, without naming it.
+facetMid: Someone flashes their step count in passing and the number lodges, and by evening there's a reason to take the long way home.
 facetLowTitle: The Rind, Already Bright
-facetLow: You move at the pace the day gives you, untroubled by who pulled ahead overnight.
+facetLow: The leaderboard pings that a friend just passed your score. You glance, shrug, and go back to your tea without opening the app.
 facetLeastTitle: The Tray, Slow to Cool
-facetLeast: You spend without tallying against anyone, and could not say who in your circle earns more.
+facetLeast: A friend lays out exactly how their year went, raises and wins and the lot, and you're glad for them without once lining it up against your own.
 question: A friendly board game with friends. You're losing on the last turn. You...
 answerMost: argue the rules and force a rematch the moment it ends
 answerHigh: play the spite move that costs you points but blocks the leader
@@ -38,11 +43,6 @@ rorschachHigh: a rooster lunging forward, beak thrust ahead
 rorschachMid: a boulder with a tangle of roots trailing
 rorschachLow: a cat stretched lazily, paw drooping loose
 rorschachLeast: a dropped glove crumpled where it fell
-facetMostTags: [kidney, fava, edamame]
-facetHighTags: [kidney, fava]
-facetMidTags: [kidney, fava]
-facetLowTags: [butter, edamame]
-facetLeastTags: [butter, edamame, black]
 ---
 
 Wood-Fired Green Beans are the Bean Zodiac's most competitive — they need to win and want you to see it. At a table of friends they turn the easy game into a real one and stay until someone concedes; they check where they sit on some private scoreboard before the kettle's even boiled. The standard they hold is genuinely high, and they meet it more often than not.

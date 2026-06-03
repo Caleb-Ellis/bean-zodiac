@@ -6,6 +6,11 @@ form: roasted
 trait: understated
 dish: Boston baked navy beans with apple cider vinegar, whole grain mustard, and brown sugar
 quote: The bean doth protest too little, methinks.
+creature: marsh wren
+friendlyBeans: [butter, cannellini]
+antiBeans: [pinto, chickpea]
+friendlyForm: dried
+antiForm: fermented
 seasonalFortune: Brown sugar dissolves into the pot hours before anyone tastes it. The season belongs to slow workers whose contributions are noticed only in their absence.
 fortuneMost: Your work, tasted before it's named — brown sugar dissolved into the pot hours early. That's the luck this turn. Finish it, leave it to be found, walk out before anyone looks up.
 fortuneMost2: You'll feed six people and mention the recipe to none of them. Your hand gets noticed by its absence, never its name, and that suits you fine.
@@ -18,15 +23,15 @@ fortuneLow2: Being seen isn't the same as showing off. Arrive announced for once
 fortuneLeast: Restraint with no audience just curdles into a quieter vanity. Put the thing forward where people can see it, however much that grates.
 fortuneLeast2: Walk someone through what you did, step by step. Naming your part out loud pinches, yet it isn't bragging — it's only letting them know it was you.
 facetMostTitle: Mustard Seed, No Thanks
-facetMost: You finish the work, leave it on the table, and walk out before anyone looks up.
+facetMost: You fix the broken gate on a neighbour's fence while they're out. No note, no knock — you pack up the tools and are gone before they're back.
 facetHighTitle: Cider Vinegar, No Ceremony
-facetHigh: You enter rooms by the side door, already two sentences into the answer someone needed.
+facetHigh: A stranded driver on the verge needs a hand with a flat. You're crouched at the wheel and half-done before they've finished asking, no fuss made of it.
 facetMidTitle: Long Bake, Short Word
-facetMid: You feed six people and mention the recipe to none of them.
+facetMid: Someone praises the wrong person for a thing you actually did. Asked outright later, you'll name your part — flat, once — but you won't go fishing to set it straight.
 facetLowTitle: The Pot Claims the Stove
-facetLow: You arrive announced, dressed for the photograph, and the room reorganises around your arrival.
+facetLow: The quiet hand you lent is reading as no hand at all, and the credit's drifting elsewhere. You sign your name to it plainly, so they see it was you.
 facetLeastTitle: Sugar Before the First Sip
-facetLeast: Every thought reaches the group chat before it reaches you, annotated and stickered.
+facetLeast: A crowd's gathered and the thing you built is finally being shown. You step up and walk them through it part by part, in your own name, out loud.
 question: You finish the unglamorous job nobody else wanted, the room is full, and the lead is about to wrap the meeting. You...
 answerMost: stay silent and let the work be discovered on its own
 answerHigh: mention it in one short sentence and move the agenda forward
@@ -38,11 +43,6 @@ rorschachHigh: a chestnut still half in its husk
 rorschachMid: a walnut sitting whole on a table
 rorschachLow: a pinecone bristling its scales outward
 rorschachLeast: a gilded brooch flashing every facet
-facetMostTags: [cannellini, mung, kidney]
-facetHighTags: [cannellini, mung]
-facetMidTags: [cannellini, mung]
-facetLowTags: [green, fava]
-facetLeastTags: [green, fava, edamame]
 ---
 
 Chimichurri Navy Beans are the Bean Zodiac's most understated — they finish the work, leave it on the table, and walk out before anyone looks up. They feed six people and mention the recipe to none of them. The contribution gets noticed the way brown sugar gets noticed in baked beans: only later, only by absence.

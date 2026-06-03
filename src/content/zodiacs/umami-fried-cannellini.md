@@ -6,6 +6,11 @@ form: fried
 trait: principled
 dish: Fagioli con alici - pan-fried cannellini with anchovies, garlic, and olive oil.
 quote: The arc of the bean universe is long, but it bends toward justice.
+creature: elk
+friendlyBeans: [edamame, navy]
+antiBeans: [chickpea, fava]
+friendlyForm: dried
+antiForm: fermented
 seasonalFortune: A season for cooks who keep the anchovy in the pan when the room asks them to lift it out. What renders, renders; what stays, stays.
 fortuneMost: The anchovy stays in the pan when the room asks you to lift it out. Someone who couldn't say it themselves just got the cover to agree.
 fortuneMost2: The joke only works because someone absent comes off badly, and you're the one who doesn't laugh. The line you hold lets the others hold it too.
@@ -18,15 +23,15 @@ fortuneLow2: Changing course because the new plan is simply better is not betray
 fortuneLeast: Hear the whole story before the verdict. Someone here saw the part you weren't there for.
 fortuneLeast2: Defer to the one who's stood closer to it than you. It'll feel like going soft; it's only using your eyes instead of your jaw.
 facetMostTitle: Anchovy Before Garlic
-facetMost: You apologise once, in full, and never revisit the wording with anyone who wasn't there.
+facetMost: The cashier shorts themselves and hands you too much change; you walk it straight back to the counter without weighing whether they'd notice.
 facetHighTitle: Garlic Browned, Not Burnt
-facetHigh: The lamp stays on past midnight when a friend's number is missing from a group thread you saw.
+facetHigh: A crowd is laughing at someone who walked off, and you'd rather be the one who stays unsmiling than the one who joins to stay easy.
 facetMidTitle: Salt From the Fish
-facetMid: You pay the bill back in cash the same week, exact, even when they've waved it off twice.
+facetMid: You said you'd return the borrowed ladder by week's end, and you carry it back across town even though they've clearly forgotten lending it.
 facetLowTitle: Oil and the Pan It Meets
-facetLow: You change your mind in the car park and tell no one, because the new plan is simply better.
+facetLow: The rule you set yourself years ago no longer fits the ground you're standing on — and you find you can let it go without it feeling like defeat.
 facetLeastTitle: The Seam the Heat Finds
-facetLeast: You read the room first, then decide what you think — and the decision keeps very well.
+facetLeast: A stranger tells their side of a quarrel you've already judged, and you set the verdict down to hear the half you never witnessed.
 question: At dinner, someone tells a story whose punchline only works if a coworker — not present — comes off badly. You...
 answerMost: cut in and say the coworker would tell it differently
 answerHigh: don't laugh, ask the gentle clarifying question
@@ -38,11 +43,6 @@ rorschachHigh: a clenched fist held perfectly still
 rorschachMid: a walnut sitting whole in its shell
 rorschachLow: a cabbage with its outer leaves loosening
 rorschachLeast: a rag bunched and dropped in a corner
-facetMostTags: [navy, black, kidney]
-facetHighTags: [navy, black]
-facetMidTags: [navy, black]
-facetLowTags: [fava, edamame]
-facetLeastTags: [fava, edamame, green]
 ---
 
 Tempura Cannellini Beans are the Bean Zodiac's most principled — the ones who say the unpopular thing first at the table and give everyone else permission to agree. They don't poll the room before speaking and they don't take the line back later for warmth. Friends quietly route the harder questions through them because they know the answer will arrive whole, the same on Wednesday as it was on Monday.

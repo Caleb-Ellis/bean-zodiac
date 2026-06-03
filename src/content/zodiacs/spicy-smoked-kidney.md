@@ -6,6 +6,11 @@ form: smoked
 trait: consuming
 dish: Red beans and rice - New Orleans kidney beans slow-cooked with smoked andouille and Cajun spice.
 quote: Love is a smoke made with the fume of bean.
+creature: locust
+friendlyBeans: [green, mung]
+antiBeans: [pinto, chickpea]
+friendlyForm: fermented
+antiForm: roasted
 seasonalFortune: A pot kept at low boil for hours. The andouille gives up its fat slowly, and the season belongs to those who tend one thing past sensible.
 fortuneMost: You love a thing past comfortable, the way the andouille gives up its fat only after hours — and what you make at that heat, no one cooler can reach. The intensity is the gift. Bring it.
 fortuneMost2: The world narrows to one bright pot and nothing else is interesting. Ride the fever; leave the door open so the kitchen's still full when it lifts.
@@ -18,15 +23,15 @@ fortuneLow2: Knowing when you've given enough is the one skill the consuming hea
 fortuneLeast: The heat's gone and you're standing over a heap of cold gray ash. Let it stay cold — not everything needs relighting.
 fortuneLeast2: A sign worth heeding — this turn rewards loving something at a temperature you can keep. The steadier flame is the lucky one now.
 facetMostTitle: Andouille's Long Sermon
-facetMost: You return to a single project nightly, skip meals for it, and emerge changed.
+facetMost: One song catches and you play it forty times straight, learning every layer, until a knock at the wall reminds you there were neighbors at all.
 facetHighTitle: The Rice, Waiting Mute
-facetHigh: At the table you fix on one person and forget the rest of the room.
+facetHigh: A museum has one painting you came to see and forty rooms besides. You stand in front of that one canvas until closing and skip the rest without regret.
 facetMidTitle: Cajun Heat's Verdict
-facetMid: Hunger arrives in your body as a verdict; you eat when it tells you, sleep when it lets you.
+facetMid: What was meant to be a light gardening hobby has you out at first light, knees in the dirt, pouring everything into one stubborn row of tomatoes.
 facetLowTitle: Off the Burner Early
-facetLow: You set things down at the first sign of overcook, and start something else.
+facetLow: A new hobby is fun for a couple of weeks, then the shine dims. You shelve the gear without a second thought and wander toward whatever's next, no ache about it.
 facetLeastTitle: The Simmering Tab
-facetLeast: Messages from the people you adore go three days unanswered, then a week.
+facetLeast: Here's the thing everyone swears is consuming — the book they couldn't put down, the trip of a lifetime. You enjoy it at a low, steady warmth and turn in at a sensible hour.
 question: You're three hours into a project and dinner plans are in twenty minutes. You...
 answerMost: cancel without guilt; you're inside the thing now
 answerHigh: text "running late" and stay until you've lost track again
@@ -38,11 +43,6 @@ rorschachHigh: a thundercloud swelling before the storm
 rorschachMid: a bushy shrub catching the wind at its top
 rorschachLow: the last smoke off a fire dying down
 rorschachLeast: a cold heap of ash gone gray and still
-facetMostTags: [navy, mung, pinto]
-facetHighTags: [navy, mung]
-facetMidTags: [navy, mung]
-facetLowTags: [butter, edamame]
-facetLeastTags: [butter, edamame, black]
 ---
 
 Chipotle Kidney Beans are the Bean Zodiac's most consuming — when they love a thing, they love it past the point of comfortable. The new band, the new person, the new project; for a month nothing else is interesting, meals get skipped, calls get missed, the world narrows to one bright pot kept at simmer well past midnight. The intensity is the gift — what they make at that heat is something other people couldn't reach.

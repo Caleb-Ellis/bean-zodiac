@@ -6,6 +6,11 @@ form: smoked
 trait: haunted
 dish: Smoked kidney bean with bitter ember oil.
 quote: I see bean people.
+creature: barn owl
+friendlyBeans: [green, fava]
+antiBeans: [pinto, adzuki]
+friendlyForm: roasted
+antiForm: fermented
 seasonalFortune: A season the ember oil clings to long after the coals go cold — kitchens that smell faintly of last winter's fire, and a person walking through them carefully.
 fortuneMost: Take the old photograph out on purpose and hold the burn with its name on it. The looking is the whole of it — you feel at full volume, and that depth is yours to honour.
 fortuneMost2: Let the old song play all the way through you for once, instead of skipping ahead. The ember stays warm; you can live near it without ever putting it out.
@@ -18,15 +23,15 @@ fortuneLow2: Word from someone you used to know, and it lands lighter than it on
 fortuneLeast: What you're scorching stands two doors down from what you're actually looking at. Cool off before you aim the old flare at someone who never lit it. The person in front of you didn't earn the heat.
 fortuneLeast2: A street walked without scanning it. Sleep with no dreams in it. What's done, left done. The ease is real, and a little unnerving for how easily it came.
 facetMostTitle: The Ember, Still Warm
-facetMost: You sit with the source on purpose — letter out, photograph out, the burn named — and the room changes temperature.
+facetMost: A perfume drifts past you on an escalator and the whole of a vanished year lands in your body at once. You ride the rest of the way up holding it, letting it have you.
 facetHighTitle: Bitter Oil in the Tilted Bowl
-facetHigh: Friends learn that certain names, certain dates, certain songs send you quiet for an hour, and they route around them.
+facetHigh: The waiter recites a special and one dish in it stops you cold — it was someone's order, a long time ago. You skip it without a word and order around the gap it leaves.
 facetMidTitle: Smoke in a Closed Room
-facetMid: You keep one drawer you cannot open without setting the morning aside, so most mornings you don't.
+facetMid: Boxing up the closet, your hand closes on a coat that still holds a weight. You leave it folded at the bottom of the box and tape the lid back down.
 facetLowTitle: Char Wiped From the Rim
-facetLow: A message from someone you used to know arrives; you read it, file it, refill the kettle, and the afternoon continues.
+facetLow: An old voicemail you never deleted plays by accident while you scroll. You hear it out, thumb it closed, and go back to the grocery list mid-line.
 facetLeastTitle: The Skillet Rinsed Early
-facetLeast: You move into rooms without scanning them, sleep in hotels without dreaming, and what happened ten years ago stays ten years ago.
+facetLeast: Driving past the street where it all went wrong, you don't slow, don't look up at the windows, just keep the radio on and make the green light.
 question: A song from a bad year comes on at the cafe and the room tilts a little. You...
 answerMost: stay in the chair and let the whole song play through you
 answerHigh: go quiet for ten minutes and let your friend not ask
@@ -38,11 +43,6 @@ rorschachHigh: a shroud bundled and left in the corner
 rorschachMid: a stone worn round by the river
 rorschachLow: a cat dozing warm in the sun
 rorschachLeast: a fresh loaf risen on the board
-facetMostTags: [pinto, cannellini, black]
-facetHighTags: [pinto, cannellini]
-facetMidTags: [pinto, cannellini]
-facetLowTags: [fava, edamame]
-facetLeastTags: [fava, edamame, green]
 ---
 
 Charcoal Kidney Beans are the Bean Zodiac's most haunted. They feel everything at full volume, and the feeling lingers the way smoke clings to a kitchen long after the coals go cold. Their friends learn which names and which songs send them quiet for an hour, and route around them kindly, and the routing works.

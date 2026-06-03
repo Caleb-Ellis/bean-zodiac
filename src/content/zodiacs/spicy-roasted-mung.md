@@ -6,6 +6,11 @@ form: roasted
 trait: clingy
 dish: Bhuna mung - dry-roasted whole mung beans with chili, cumin, and dried mango.
 quote: Love is that condition in which the happiness of another bean is essential to your own.
+creature: koala
+friendlyBeans: [chickpea, butter]
+antiBeans: [edamame, navy]
+friendlyForm: boiled
+antiForm: fried
 seasonalFortune: A season of held heat. The pan crowds with small bodies leaning in, chili threading between them, and nothing in this kitchen cools alone.
 fortuneMost: Reach for no reason — just the small thing you noticed and wanted them to have. That's the call they keep.
 fortuneMost2: Small regular deposits of love, asked for or not, are the whole practice of closeness. Nothing in this pan cools alone, and neither do you.
@@ -18,15 +23,15 @@ fortuneLow2: Two unread messages almost never mean what the careful evening theo
 fortuneLeast: Cook for one and let the quiet house be the warm room. Your own company will feel thinner than it is at first, then it won't.
 fortuneLeast2: A solitary evening doesn't mean anything's wrong, however much the empty sofa-end argues otherwise. Solitude roasts you whole and gives you back.
 facetMostTitle: The Pan That Asks for Stillness
-facetMost: You wait out the long roast of a friendship, calling on the days nothing is owed, because the closeness is the practice.
+facetMost: A friend mentions they're flying out for a fortnight. Already you're mapping the calls, the check-ins, the little parcel that'll be waiting when they land.
 facetHighTitle: Mango-Sharp, the Heap Holding
-facetHigh: At the table you angle your chair closer; when someone leaves the room your sentence trails after them.
+facetHigh: On a crowded train you take the seat shoulder-to-shoulder with someone you love over the empty one across the aisle, every time.
 facetMidTitle: Cumin Where the Beans Touch
-facetMid: You reread the last thread before sending the next, keeping the conversation warm against any gap.
+facetMid: A day goes by with no word from someone dear, and the urge to send a just-checking message tugs at you well before evening.
 facetLowTitle: Chili Scattered Wide
-facetLow: Your coat lives on its hook, your keys on their dish, your weekends often empty by design — and the rooms breathe better for it.
+facetLow: A loved one says they need a stretch of room to themselves. You can wave them off and pour the time into your own thing without the ache trailing after.
 facetLeastTitle: Each Bean Browning Alone
-facetLeast: You sleep best alone; hunger you handle without announcement; a fever sends you further in, not out.
+facetLeast: The house empties for a long weekend, everyone gone but you. Far from lonely, the quiet of it sounds like the truest rest there is.
 question: Your partner goes quiet for the evening — not cross, just tired and tucked into a book. The silence is starting to feel longer than it is. You...
 answerMost: sit beside them and ask, three times across the hour, if everything's okay
 answerHigh: bring tea, settle in close, hope they look up
@@ -38,11 +43,6 @@ rorschachHigh: two deer nuzzling head to head
 rorschachMid: a chandelier hung above a wide basin
 rorschachLow: two boats easing apart at the dock
 rorschachLeast: an antler shed and lying on its own
-facetMostTags: [chickpea, black, adzuki]
-facetHighTags: [chickpea, black]
-facetMidTags: [chickpea, black]
-facetLowTags: [adzuki, chickpea]
-facetLeastTags: [adzuki, chickpea, green]
 ---
 
 Peri-Peri Mung Beans are the Bean Zodiac's most clingy — the ones who remember the anniversary of the small things, who send the unprompted photo of the cafe you went to once, who sit on the same end of the sofa every night because the orbit is the point. Their love is specific and durable and arrives in small, regular deposits whether you asked for them or not.

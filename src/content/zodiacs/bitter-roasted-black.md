@@ -6,6 +6,11 @@ form: roasted
 trait: elegant
 dish: Bisque - roasted black beans with bitter espresso cream.
 quote: Elegance is not about being noticed, it's about being bean.
+creature: gazelle
+friendlyBeans: [navy, adzuki]
+antiBeans: [green, kidney]
+friendlyForm: boiled
+antiForm: fried
 seasonalFortune: A season for the bisque that withholds its garnish. The roast deepens in private, and what reaches the spoon arrives already certain of itself, asking nothing.
 fortuneMost: The bisque goes out bare. No garnish, no flourish, no need — and neither have you.
 fortuneMost2: A quiet you've held a long while is about to be read exactly right, by exactly the person who matters. Your restraint lands as the depth it always was.
@@ -18,15 +23,15 @@ fortuneLow2: The loud ring has been sitting in the drawer too long. Understateme
 fortuneLeast: A loud, spilling evening is on its way — wine poured before hello, prints hung crooked, everyone talking at once. Walk in open-handed. It won't be tasteful and it will be the one you remember.
 fortuneLeast2: Answer with the three exclamation marks. Plain bright warmth travels further than depth held in reserve, even when it feels like saying far too much.
 facetMostTitle: Espresso Settling Dark
-facetMost: You finish your own work in silence and never post the before — only the bowl, only once, only when it is ready.
+facetMost: The compliment you've earned is offered out loud across the table. You deflect it in three words and change the subject.
 facetHighTitle: The Bare Counter
-facetHigh: You keep your rooms sparse on purpose; one good chair, one lamp, and the rest of the floor allowed to breathe.
+facetHigh: Two outfits laid on the bed, one plain and one with the brooch. The brooch goes back in the drawer.
 facetMidTitle: Bitter Under the Cream
-facetMid: At a crowded table you speak rarely, and when you do the room leans in without your asking.
+facetMid: Glasses raised, the toast falls to you — one clean line and you're seated again before it can swell into a speech.
 facetLowTitle: Cream Whipped to Peaks
-facetLow: You buy the bright shoe, the loud ring; understatement feels like hiding.
+facetLow: A wall of paint chips at the shop, and the safe grey is right there. You walk out with the loud teal instead.
 facetLeastTitle: Every Garnish at Once
-facetLeast: You wear every ring at once, hang the loud print over the loud chair, and pour wine before the guest has finished saying hello.
+facetLeast: Handed a microphone at the party, you take it gladly and talk until they have to gently take it back.
 question: A new apartment, the keys in your hand, the rooms entirely empty. The first weekend to fill them. You...
 answerMost: buy the one chair you've been thinking about for a year and live around it for a month
 answerHigh: a bed, a lamp, a table; let the rest arrive when it asks
@@ -38,11 +43,6 @@ rorschachHigh: a dancer's raised hand trailing a long sleeve
 rorschachMid: a smooth stone beside a spray of fern
 rorschachLow: a fist gripping a tangle of frayed rope
 rorschachLeast: a bramble snagged against a lumpy boulder
-facetMostTags: [cannellini, navy, pinto]
-facetHighTags: [cannellini, navy]
-facetMidTags: [cannellini, navy]
-facetLowTags: [fava, green]
-facetLeastTags: [fava, green, edamame]
 ---
 
 Wood-Fired Black Beans are the Bean Zodiac's most elegant — depth that needs no announcement. They finish the work in silence and post only the finished bowl, once, and only when it's ready; their rooms hold one good chair and a lamp and a lot of breathing floor. At a crowded table they say little, and the room leans in anyway.

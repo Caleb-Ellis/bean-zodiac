@@ -6,6 +6,11 @@ form: boiled
 trait: dedicated
 dish: Dashi-ni - edamame simmered in dashi, soy, and mirin.
 quote: The price of bean excellence is dedication.
+creature: retriever
+friendlyBeans: [navy, cannellini]
+antiBeans: [mung, pinto]
+friendlyForm: dried
+antiForm: smoked
 seasonalFortune: A season that rewards the long simmer. Mirin and soy take their hours; nothing finished here arrived in a hurry.
 fortuneMost: Same chair, same hour, a little longer than yesterday. That's the whole secret.
 fortuneMost2: The long thing you've quietly returned to for years is about to give you what it withheld. It always pays the ones who stay.
@@ -18,15 +23,15 @@ fortuneLow2: Close a thing mid-sentence and open another. Not everything has to 
 fortuneLeast: End the commitment that's outlived itself. The hour it frees is what the next thing has been quietly asking for, even as part of you mourns the burner going cold.
 fortuneLeast2: Turning the heat off doesn't make you a quitter. Leave the standing Sunday — you'll walk lighter, once the guilt of lightness wears off.
 facetMostTitle: What Dashi Withholds
-facetMost: You return to the same project on the same night for years, and the room knows your footsteps.
+facetMost: Sleet sideways, the trailhead empty, the marathon you've trained a year for still on. You lace up and head out into it because not running was never one of the options.
 facetHighTitle: Soy Into the Pod
-facetHigh: When you take a thing on, you do not put it down until the appointment is kept.
+facetHigh: Weeks back you shook on a thing, and the other side has plainly forgotten it ever happened. No one's left to hold you to it — and you'll deliver your half on the nose regardless.
 facetMidTitle: The Pot, Always Tended
-facetMid: The same plant gets watered Wednesdays, the same pan scoured the way your grandmother scoured hers.
+facetMid: The instrument's been propped in the corner all month. You pick it up for the same twenty minutes you always do, scales first, before anything fun.
 facetLowTitle: Mirin's Quick Sweet
-facetLow: You close threads mid-sentence and open new ones; the unread count does not move you.
+facetLow: There's a puzzle half-built on the table and a brighter new box just in from the post, and the unfinished one slides aside without a pang as you tip the new pieces out.
 facetLeastTitle: The Broth Poured Early
-facetLeast: You leave the standing plan, the standing friend, the standing Sunday — and walk lighter for it.
+facetLeast: A club you've belonged to forever has run out of whatever made it worth it. Hand back your key, miss the next meeting on purpose, and let the lighter week be yours.
 question: A standing Tuesday meet-up you've kept up for years has gone a bit thin — fewer people, lower energy. You...
 answerMost: keep showing up; the thing is the showing up
 answerHigh: stay with it, quietly try to bring it back to life
@@ -38,11 +43,6 @@ rorschachHigh: a bear sat squarely on its haunches
 rorschachMid: a heavy sack set down on the floor
 rorschachLow: a snowman already starting to slump sideways
 rorschachLeast: a sandcastle caving in at the tide line
-facetMostTags: [navy, kidney, black]
-facetHighTags: [navy, kidney]
-facetMidTags: [kidney, navy]
-facetLowTags: [pinto, chickpea]
-facetLeastTags: [pinto, chickpea, green]
 ---
 
 Dashi Edamame are the Bean Zodiac's most dedicated — they return to the same chair on the same night for years, and the room knows their footsteps before the door opens. The plant gets watered on Wednesdays, the pan is scoured the way their grandmother scoured hers, and the project they took on in March is still on the desk in November, closer to finished than anyone else's would be.

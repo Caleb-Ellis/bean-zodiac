@@ -6,6 +6,11 @@ form: fermented
 trait: intense
 dish: Doenjang Jjigae - red beans with bitter greens.
 quote: Beware the bean who is quiet in a crisis.
+creature: peregrine
+friendlyBeans: [green, edamame]
+antiBeans: [butter, adzuki]
+friendlyForm: fried
+antiForm: dried
 seasonalFortune: The crock has been dark a long season. Bitter greens darken in the paste; what was sealed begins to press at the lid, asking to be tasted.
 fortuneMost: It's cured. Tell one person the whole of it, start to finish, in one sitting — the seal won't hold much longer.
 fortuneMost2: The thing you've been darkening alone is good and done. Hand it over whole; it arrives undiluted, the way you made it.
@@ -18,15 +23,15 @@ fortuneLow2: Not everything needs to deepen in the dark. Stir it once, serve it,
 fortuneLeast: A feeling can move through you the way weather moves through an open window — felt, then gone, nothing stained. Holding nothing will feel strange; let it.
 fortuneLeast2: The mood you'd carry in isn't anyone else's to inherit. Set it down at the threshold; putting it down isn't the same as losing it.
 facetMostTitle: Uncrocked at Last
-facetMost: You hand someone the thing you've been darkening alone, and let them taste it whole.
+facetMost: No stakes, just a casual game of cards at the family table — and every hand you play it like the title's on the line, dead set on taking it.
 facetHighTitle: The Stew That Took Longest
-facetHigh: A quiet entry; the room reorients around you anyway, leaning toward what was hardest to make.
+facetHigh: Someone asks what you think of the film, expecting a word or two. They get the full reckoning — what it was really about, why it mattered, no half-measures.
 facetMidTitle: Salt at the Jaw
-facetMid: You carry the day's weight where the broth carries its — tension held, not set down.
+facetMid: A friend mentions, in passing, a thing they're quietly going through. You lock onto it — leaning in, all of you there, not letting it slide by as small talk.
 facetLowTitle: Stir Once, Serve
-facetLow: The pot doesn't need to brood; neither do you.
+facetLow: A plan you'd half set your heart on falls through at the last minute. You shrug it off and pivot to something else, the grip of it already gone.
 facetLeastTitle: Greens Through the Broth
-facetLeast: You leave a room the way weather leaves a window — felt, then gone, nothing stained.
+facetLeast: Sides are being picked over some flare-up at dinner, and you stay loose and unbothered through all of it, happy to let it wash past — a little surprised, even, that so little sticks.
 question: Someone you care about asks, lightly, how you've actually been. You...
 answerMost: hold their eye and tell them the whole undiluted truth
 answerHigh: give them the one sentence you've been carrying all week
@@ -38,11 +43,6 @@ rorschachHigh: a hornets' nest packed tight and humming
 rorschachMid: a heavy stone tapering to a point below
 rorschachLow: a beanbag slumped soft in the corner
 rorschachLeast: a puff of dandelion seed about to scatter
-facetMostTags: [mung, navy, chickpea]
-facetHighTags: [mung, navy]
-facetMidTags: [mung, navy]
-facetLowTags: [butter, edamame]
-facetLeastTags: [butter, edamame, black]
 ---
 
 Cultured Kidney Beans are the Bean Zodiac's most intense — they walk into a room quietly and it reorients toward them anyway, the way a table leans toward the dish that took longest to make. They carry the day's weight at the jaw, held, not set down, and when they finally hand someone the thing they've been darkening alone, it arrives whole and undiluted. There's a gravity to them that nothing performed could fake.

@@ -6,6 +6,11 @@ form: smoked
 trait: unguarded
 dish: Sakkarai pongal - sweet mung dal and rice pudding with smoked ghee, jaggery, and cardamom.
 quote: Speak what we bean, not what we ought to say.
+creature: spring lamb
+friendlyBeans: [butter, cannellini]
+antiBeans: [edamame, green]
+friendlyForm: boiled
+antiForm: fried
 seasonalFortune: A season the smoke moves through and out of, leaving rice softer than it found it. Rooms warm without anyone tracing the source.
 fortuneMost: The true thing you've been polishing into something safer wants out plain. Don't dress it — and watch a stranger get off the train carrying it lighter for you.
 fortuneMost2: Someone leaves a conversation with you slightly altered, having said the true thing for the first time in months. That's the wall down doing its best work.
@@ -18,15 +23,15 @@ fortuneLow2: Give the close friend the truth before the stranger on the train ge
 fortuneLeast: Put a rim on the sweetness you keep pouring out. Given with no edge it just spreads into a puddle, even though charging for it will feel against your nature.
 fortuneLeast2: Guard the inside life when it needs guarding; let the world see the rim and not the pudding. The clamped lid sits heavy on you, but some weeks it's the right weight to carry.
 facetMostTitle: Ghee Thinned to Gold
-facetMost: On a long train you tell a stranger the thing you have not told your closest friend, and the stranger gets off at her stop carrying it for you.
+facetMost: The customs form asks if you have anything to declare. You'd happily write down the worry you woke with at three in the morning if there were a box for it.
 facetHighTitle: Cardamom Before the Pot
-facetHigh: Your calendar is shared by default; people find you where you said you would be.
+facetHigh: A stranger compliments your jacket in the lift. By the time the doors open you've told them where the money's tight this month, and meant it.
 facetMidTitle: Jaggery Into Milk
-facetMid: A friend asks what's wrong and you tell them, without dressing it.
+facetMid: An interviewer asks about your biggest weakness. You name the real one, plain, instead of the flattering dressed-up version.
 facetLowTitle: Smoke in the Rafters
-facetLow: You let the question pass; some weather in you wants longer to settle before it speaks.
+facetLow: Something's been gnawing at you all week. A friend gives you the obvious opening to say it, and you let the opening close and talk about the weather.
 facetLeastTitle: The Lid Clamped Down
-facetLeast: You guard the inside life; what others see of you is the rim, not the pudding.
+facetLeast: A nosy relative wants to know how the savings are going. You give them a pleasant nothing and keep the real figures behind your teeth.
 question: An acquaintance at a party asks, sincerely, how you've been. You...
 answerMost: tell them the true answer, including the part you haven't told most people
 answerHigh: give them an honest summary, not the polished one
@@ -38,11 +43,6 @@ rorschachHigh: a moth with both wings flung fully open
 rorschachMid: a stingray gliding, fins spread wide
 rorschachLow: a bat with its wings half-drawn around itself
 rorschachLeast: a moth folded shut, wings clasped tight
-facetMostTags: [chickpea, black, navy]
-facetHighTags: [chickpea, black]
-facetMidTags: [chickpea, black]
-facetLowTags: [adzuki, chickpea]
-facetLeastTags: [adzuki, chickpea, green]
 ---
 
 Barbecued Mung Beans are the Bean Zodiac's most unguarded — and the warmth of it is the first thing anyone notices. Asked a question they answer the question, plainly, with the answer rather than the answer's polished cousin. People sit beside them on long train journeys and arrive at their stops slightly altered, having said the true thing for the first time in months.

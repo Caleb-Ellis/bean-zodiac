@@ -6,6 +6,11 @@ form: boiled
 trait: stubborn
 dish: Rajma - Punjabi kidney bean curry with dried red chilies and whole spices.
 quote: It does not matter how slowly you go so long as you do not bean.
+creature: burro
+friendlyBeans: [navy, adzuki]
+antiBeans: [chickpea, fava]
+friendlyForm: smoked
+antiForm: fermented
 seasonalFortune: A season that simmers without softening. Heat orbits the hull, chilies steeping the broth around a centre that will not yield its shape to the pot.
 fortuneMost: Pressure orbits you and breaks up harmless. They'll tire of asking long before you tire of standing — and you both know it.
 fortuneMost2: What you decide keeps being true after the room has tried to change it. Hold the terms; the world learns to bend around the bean that won't.
@@ -18,15 +23,15 @@ fortuneLow2: Take the seat offered and the topic chosen, just this once. Bending
 fortuneLeast: Open the fist. Whatever you were gripping ended a while ago, and the only thing left in the hand now is the cramp.
 fortuneLeast2: Let the plans rearrange around you without digging in. The route you'd have insisted on isn't the only one home — loosening that is a quiet kind of brave for you.
 facetMostTitle: Chilies Before the Bean Yields
-facetMost: The household runs on terms you set in winter; furniture, mealtimes, the angle of a lamp — moved only when you move them.
+facetMost: The trail's washed out and the whole group's voting to turn back. You shoulder your pack and say you'll find a way through.
 facetHighTitle: Red Oil at the Rim
-facetHigh: A message sits four days in the thread; the reply you owe waits for terms the morning has not yet delivered.
+facetHigh: The diner stopped serving your usual an hour ago. You'd sooner go without than let the waiter talk you into the special.
 facetMidTitle: Whole Spices at the Lid
-facetMid: You carry an apology the way one carries a stone in the pocket — present, weighed, not yet set down.
+facetMid: Everyone's switched to the new map app and it's plainly faster. Still, you keep folding open the paper one you've always trusted.
 facetLowTitle: Broth Between the Beans
-facetLow: Plans rearrange themselves around you mid-afternoon; the route you took this morning is not the route you'll take tomorrow.
+facetLow: Moved to a different chair when the host redoes the seating? No flicker — you settle into wherever you've landed.
 facetLeastTitle: The Softening Chili
-facetLeast: At the table you take the seat offered, the dish passed, the topic chosen; the evening shapes itself around the room.
+facetLeast: A friend talks you out of the holiday you'd planned and into theirs. You hand over the whole itinerary and go along happily.
 question: An old friend's message has been sitting in the thread for four days. You know what to say, you just don't want to say it yet. You...
 answerMost: leave it; they'll get the reply when the terms feel right
 answerHigh: draft something honest, save it, send when ready
@@ -38,11 +43,6 @@ rorschachHigh: a boulder wedged low across the path
 rorschachMid: a tortoise hunkered down on wide feet
 rorschachLow: a sack of grain slumping off its base
 rorschachLeast: a tortoise tipping off its feet
-facetMostTags: [navy, cannellini, black]
-facetHighTags: [navy, cannellini]
-facetMidTags: [navy, cannellini]
-facetLowTags: [green, fava]
-facetLeastTags: [green, fava, edamame]
 ---
 
 Braised Kidney Beans are the Bean Zodiac's most stubborn — the household runs on terms they set in winter, and the angle of the lamp, the seat at the table, the mealtime, all stay where they were put. Pressure orbits them harmlessly. What they decide tends to keep being true long after the room has tried to change it.

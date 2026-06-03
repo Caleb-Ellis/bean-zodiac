@@ -6,6 +6,11 @@ form: dried
 trait: bracing
 dish: Szechuan dry-fried green beans with black vinegar and ginger.
 quote: Into each life some bean must fall.
+creature: arctic fox
+friendlyBeans: [edamame, kidney]
+antiBeans: [butter, black]
+friendlyForm: fried
+antiForm: boiled
 seasonalFortune: Black vinegar finds the seam in a room and pries it open. Around this bean, the muffled day blisters loose; ginger lingers in the doorway long after.
 fortuneMost: Open the window without asking. The day blisters loose, and that's your gift.
 fortuneMost2: Asked what you really think, tell them, then sit in the silence after. The quiet is yours to hold, and it does its own work.
@@ -18,15 +23,15 @@ fortuneLow2: Walk them through it slowly, both sides laid out. A jolt to someone
 fortuneLeast: Let the muggy room stay muggy. Not every stuffiness is yours to fix, hard as it is to leave a shut window shut.
 fortuneLeast2: Pour more, change the subject, let them rest. You go to bed when you're tired without arguing yourself out of it — grant them the same, even as your instinct is to fling the door open.
 facetMostTitle: Dry Heat, Blistered Skins
-facetMost: When a friend asks what you really think, you tell them; the silence after is yours to sit in.
+facetMost: The whole carriage is pretending not to notice the smoke smell. You stand up, say it out loud, and pull the cord.
 facetHighTitle: Ginger in Hot Oil
-facetHigh: You send the correction the same hour you owe it, plainly worded, no soft preamble buffering the line.
+facetHigh: A hiking buddy keeps insisting the storm clouds will pass. No softening lead-in — you tell them flat that you're both turning back now.
 facetMidTitle: Vinegar Through the Haze
-facetMid: You reply to the meandering thread with one sentence — the one everyone was avoiding.
+facetMid: For an hour the dinner party has tiptoed around the one obvious thing. You set your glass down and just name it.
 facetLowTitle: The Long, Rounding Pan
-facetLow: You host by lowering the flame, choosing the chair nobody fights over, letting the evening settle on its own.
+facetLow: Someone arrives at your door wrung out and shaking, barely holding together. The bracing truth can keep — you put the kettle on and let them be.
 facetLeastTitle: The Long Soak
-facetLeast: When tired, you go to bed; when cold, a blanket. Your body is not argued with.
+facetLeast: Let the relative's same old story run its full meandering length — no nudge, no shortcut, even though everyone could finish it for them.
 question: A friend has been circling a hard decision for weeks and asks you, over breakfast, what they should do. You...
 answerMost: tell them, before the coffee arrives
 answerHigh: name what they already know and leave them to it
@@ -38,11 +43,6 @@ rorschachHigh: a snowman with a melting cinched waist
 rorschachMid: an hourglass with sand mid-fall
 rorschachLow: two bread loaves rising in one tin
 rorschachLeast: two pillows piled by a warm hearth
-facetMostTags: [kidney, fava, edamame]
-facetHighTags: [kidney, fava]
-facetMidTags: [kidney, fava]
-facetLowTags: [butter, black]
-facetLeastTags: [butter, black, edamame]
 ---
 
 Dehydrated Green Beans are the Bean Zodiac's most bracing. They are the friend who opens the window in a stuffy room without asking, who replies "no, do the other one" to the long agonised text, who arrives at a wake with a sentence that finally lets the family laugh. There is no preamble around them and no padding underneath, and the people who love them come for exactly that — the moment you have stopped lying to yourself by the second cup.

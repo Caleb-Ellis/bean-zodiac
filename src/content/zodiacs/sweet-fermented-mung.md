@@ -6,6 +6,11 @@ form: fermented
 trait: gentle
 dish: Bánh men — Vietnamese sweet mung bean cakes made with fermented rice wine batter, steamed until just set.
 quote: In a tough world, the most rebellious thing you can do is be a gentle bean.
+creature: doe
+friendlyBeans: [fava, cannellini]
+antiBeans: [edamame, green]
+friendlyForm: smoked
+antiForm: fried
 seasonalFortune: A season in which rice wine quietly turns the bean toward sweetness. Steam rises over covered cakes; the work that matters happens beneath cloth, unwitnessed.
 fortuneMost: Find the register that lets the difficult one be wrong without shame. That softness is your whole craft.
 fortuneMost2: When the room raises its voice, lower yours. Strange luck of the gentle — the room ends up following the quiet one.
@@ -18,15 +23,15 @@ fortuneLow2: Kind and clear at the same time — say it straight and sweet, no c
 fortuneLeast: The blunt thing, said across the table. The whole evening moves faster for it, even if your instinct begs to soften the edge first.
 fortuneLeast2: Lead with the ask, skip the easing-in entirely. Plainness is the kinder thing here, however unkind it feels in your mouth.
 facetMostTitle: The Cake Set Just So
-facetMost: With the difficult relative you find the register that lets them be wrong without shame.
+facetMost: A new hire just sent the whole order to the wrong address, and they've gone white waiting for the fallout. You pitch your voice low and easy, finding the words that let the mistake be a mistake and nothing worse.
 facetHighTitle: Rice Wine in the Batter
-facetHigh: You lower your voice when others raise theirs, and the room follows.
+facetHigh: An argument in the kitchen is climbing toward shouting, plates rattling with it. You don't match the volume — you drop under it, soft enough that the room has to quiet itself to hear you.
 facetMidTitle: Steam Loosening
-facetMid: You ask the tired friend the second question, the one their first answer was hiding.
+facetMid: A market seller you like looks hollowed out behind the smile they're giving every customer. Hang back till the queue clears and ask the gentler, truer question their stock answer was covering.
 facetLowTitle: Batter Before the Bloom
-facetLow: You name the wrong thing in the room at exactly its actual volume, and find afterward that the room was not, in fact, asking you to.
+facetLow: The plan on the table is plainly a bad one and a long apologetic preamble is already forming in your mouth. You skip the cushion and say it's wrong at the volume it deserves.
 facetLeastTitle: The Lifted Lid
-facetLeast: You say the blunt thing across the table, and the dinner moves faster for it.
+facetLeast: A roomful of people are dancing around the obvious thing nobody will name. You say it flat, no soft landing arranged in front of it, and the air clears.
 question: You're tired in a way you haven't admitted to anyone, and a friend asks how you're doing. You...
 answerMost: smile and ask how they are
 answerHigh: say "a bit knackered, but fine" and steer the talk back
@@ -38,11 +43,6 @@ rorschachHigh: a jellyfish drifting, soft fronds trailing under it
 rorschachMid: a tuft of wool snagged on a fence
 rorschachLow: a mace hanging heavy from its spiked head
 rorschachLeast: a thistle bristling with downward thorns
-facetMostTags: [cannellini, butter, kidney]
-facetHighTags: [cannellini, butter]
-facetMidTags: [cannellini, butter]
-facetLowTags: [fava, edamame]
-facetLeastTags: [fava, edamame, green]
 ---
 
 Funky Mung Beans are the Bean Zodiac's gentlest — not in the soft-edged, easily-bruised sense, but in the precise way of someone who has worked out, slowly and privately, what care actually requires. They lower their voice when the room raises its own. They find the question the tired friend's first answer was hiding, and ask it. Rooms recalibrate around them without quite knowing why.

@@ -6,6 +6,11 @@ form: boiled
 trait: steadfast
 dish: Frijoles de olla con piloncillo — black beans slow-boiled with raw cane sugar and a cinnamon stick.
 quote: Not all those who wander are beans.
+creature: draught horse
+friendlyBeans: [navy, butter]
+antiBeans: [green, pinto]
+friendlyForm: dried
+antiForm: fried
 seasonalFortune: The piloncillo dissolves while the bean keeps its skin. Around such a person, weather changes and rooms change, and the pot goes on simmering.
 fortuneMost: A decade of silence, and you'll greet them in the same voice — no ledger of the missing years. Tell the one you've quietly kept that you mean to keep them.
 fortuneMost2: Somewhere a friendship you've tended without thanks is about to turn and thank you. The cinnamon stick was working the whole time.
@@ -18,15 +23,15 @@ fortuneLow2: Some loyalties are only habits wearing devotion's face. Loosen your
 fortuneLeast: The weights you swore you couldn't set down were never the price of staying yourself. Walking out lighter costs you the comfort of the burden, and you'll be glad it's gone.
 fortuneLeast2: Pour this pot early. What you carry on by choosing it outweighs everything you carry by sheer momentum, even if choosing means setting good things down.
 facetMostTitle: The Long Pot, Back Burner
-facetMost: You keep the friendship, the project, the grudge — and tend it past the point others would lift the lid.
+facetMost: Your team's been losing all season and the stands have thinned to nearly nobody. You're in your seat for the next home game, same scarf, hoarse by the final whistle.
 facetHighTitle: Sweetness After the Slow Hour
-facetHigh: You wait out a thing knowing the softening comes late, and you do not test the bean early to check.
+facetHigh: An old mentor's number is still in your phone, years dark. Once a year you send word — no occasion, no reply expected — just to keep the line warm.
 facetMidTitle: Piloncillo in the Spoon
-facetMid: The friend who left for a decade calls, and you answer in the same voice, no ledger of the missing years.
+facetMid: The bakery on your corner changes hands and the bread's gone worse. New owners deserve a fair run, you reckon, before you'd ever think of taking your custom elsewhere.
 facetLowTitle: Cinnamon Traded Mid-Pot
-facetLow: You rearrange the room every few months; the chair that was yours last year now faces a different wall, and you are lighter for it.
+facetLow: That standing thing you've shown up to for years has quietly turned into a chore. Skipping it this once — no warning, no guilt — and the week breathes a little.
 facetLeastTitle: The Pot Poured Early
-facetLeast: You sell the heavy things first — the books, the kettle, the lease — and walk into the next season carrying almost nothing.
+facetLeast: A job comes up two cities over and everything here would have to be left behind. Say yes by morning, lease and all, the past already a closed door.
 question: A group chat from college has gone quiet for months. You...
 answerMost: send the long message anyway, with the photo from that summer
 answerHigh: drop a line asking how everyone is, no agenda
@@ -38,11 +43,6 @@ rorschachHigh: two clasped hands above a tethered weight
 rorschachMid: a mushroom cap on a thin stalk
 rorschachLow: a balloon straining at a fraying string
 rorschachLeast: a jellyfish drifting loose from its bell
-facetMostTags: [navy, butter, pinto]
-facetHighTags: [navy, butter]
-facetMidTags: [navy, butter]
-facetLowTags: [fava, green]
-facetLeastTags: [fava, green, edamame]
 ---
 
 Candied Black Beans are the Bean Zodiac's most steadfast — the ones who still send the birthday text twelve years after the friendship went mostly dormant, and mean every word of it. The standing Tuesday call, the monthly walk, the houseplant inherited from a roommate who moved out in 2017 — these are kept with a quiet, sweetened constancy that asks for no acknowledgement and rarely gets any.

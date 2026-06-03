@@ -6,6 +6,11 @@ form: boiled
 trait: exacting
 dish: Ribollita - Tuscan cannellini with red wine vinegar and cavolo nero.
 quote: Good enough is the enemy of the bean.
+creature: weaverbird
+friendlyBeans: [edamame, navy]
+antiBeans: [mung, fava]
+friendlyForm: smoked
+antiForm: smoked
 seasonalFortune: "Ribollita is a second boil; the pot returns to itself and the season returns to its measure. What held the first heat holds now. What blurred is shown to have been approximate."
 fortuneMost: Hold the small line and they'll call you pedantic, then lean on the result anyway. Vinegar measured in drops is what makes the whole pot taste right.
 fortuneMost2: A fine omen for the one who still notices. The thing everyone else stopped seeing is yours to put quietly right.
@@ -18,15 +23,15 @@ fortuneLow2: Let the day arrange itself around hunger and tiredness instead of t
 fortuneLeast: The rough thing that's finished outlasts the perfect thing that isn't. Pick the verb that ends in done.
 fortuneLeast2: A little drift in your space, an inkblot easing past its own edge. Nothing that mattered has ever been lost there.
 facetMostTitle: Vinegar Counted in Drops
-facetMost: You answer emails the day they land, return the borrowed book in the sleeve it came in, keep one running list and only one.
+facetMost: A picture on the wall hangs a degree off true. Everyone else walked past it. You cross the room and level it before you can sit down.
 facetHighTitle: Cavolo Nero on the Bias
-facetHigh: You re-read your own sentences before sending. The shape of a paragraph matters; a misplaced comma will pull you back across the room.
+facetHigh: The cake's done and good, but the icing has one ragged edge only you can see. Smooth it before anyone's allowed a slice?
 facetMidTitle: The Slow Tilt of the Pour
-facetMid: You arrive a few minutes early and wait outside rather than enter wrong; the threshold is part of the visit.
+facetMid: A recipe says a pinch and you reach for the spoon instead, because a pinch is two different amounts on two different days.
 facetLowTitle: A Generous Pour, Loose Greens
-facetLow: You sleep when tired, eat when hungry, and let the day arrange itself around what the body asks for.
+facetLow: A board game's rules are being half-remembered and bent on the fly. Somebody's clearly fudging it — and you find you couldn't care, the game's fun.
 facetLeastTitle: Whatever Is Near, the Pot on
-facetLeast: Your desk is a weather system, your tabs uncounted, and nothing important has ever been lost in the drift.
+facetLeast: Packing for a trip, you grab whatever's near the top of the drawer and zip the bag. No list, no folding system, gone before you've second-guessed it.
 question: A group chat is splitting a bill and someone says "let's just round to twenty each." You are owed eighty pence. You...
 answerMost: open the calculator and post the exact figures, politely
 answerHigh: say "actually it's £18.40" and leave the rest to them
@@ -38,11 +43,6 @@ rorschachHigh: a crab, one claw measured against the other
 rorschachMid: an island with a few small skerries off it
 rorschachLow: an inkblot still creeping past its own edge
 rorschachLeast: a spilled drink spreading wherever it likes
-facetMostTags: [kidney, navy, black]
-facetHighTags: [kidney, navy]
-facetMidTags: [kidney, navy]
-facetLowTags: [butter, black]
-facetLeastTags: [butter, black, edamame]
 ---
 
 Brined Cannellini Beans are the Bean Zodiac's most exacting. The standard does not move when the room gets loud or when everyone else has agreed something close enough is close enough; the comma in the wrong place at lunchtime is still in the wrong place at six. There is something steadying about being near them — small things that other people had stopped noticing get quietly put right, and the work they touch reads, afterwards, as having been thought about.

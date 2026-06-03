@@ -6,6 +6,11 @@ form: fried
 trait: relentless
 dish: Tostadas de frijoles negros - fried tortillas with spiced black bean paste and salsa roja.
 quote: If you're going through bean hell, keep going.
+creature: mako shark
+friendlyBeans: [navy, kidney]
+antiBeans: [pinto, adzuki]
+friendlyForm: fermented
+antiForm: roasted
 seasonalFortune: Oil stays hot long after the burner is off; the paste goes on blackening in its own heat. A life lived at that residual temperature — finished things still cooking themselves.
 fortuneMost: The road runs a mile past the plan and the clock tires before your legs do. This is your weather — keep walking.
 fortuneMost2: The oil is still hot when the burner's off. Whatever they called finished, you keep it cooking.
@@ -18,15 +23,15 @@ fortuneLow2: Close the tab unread; leave the afternoon light. It's a muscle you 
 fortuneLeast: Let one small unfinished thing dissolve into the week. The world holds without you — which stings a little, and frees you a lot.
 fortuneLeast2: Not every task is yours to lift. The ache to grab this one is the old habit talking, not a duty.
 facetMostTitle: Salsa Roja at Full Colour
-facetMost: You set out at first light and the clock is the thing that tires, not you.
+facetMost: A trail you've hiked all day forks at dusk — turn back, or push for a summit you can't quite see. Your legs vote for the climb.
 facetHighTitle: The Tortilla's Extra Pass
-facetHigh: You revise the same line a seventh time when six was already enough.
+facetHigh: A puzzle box defeats everyone at the party and they drift off to other rooms. You stay at the table, turning it over alone.
 facetMidTitle: Spice Past the Meal
-facetMid: You walk past the hunger, past the ache in the calves, and sit down only when the thing is done.
+facetMid: Halfway through scrubbing a stubborn pan, your arm is done but the stain isn't. Keep at it, or leave it to soak overnight?
 facetLowTitle: The Pan Off the Burner
-facetLow: You close the tab, leave the thread unread, and the afternoon goes lighter for it.
+facetLow: A game is going badly and a draw is on offer. You take it, shake hands, and walk out into the evening without replaying the board.
 facetLeastTitle: Beans Left in Water
-facetLeast: The unpaid small bill, the apology owed — you let them dissolve into the week.
+facetLeast: A jar in the cupboard is nearly out and a list is half-written. You shut the door on both and go meet your friends.
 question: It's late, the work is done well enough to send, and there's one more pass you could make. You...
 answerMost: do two more passes, then sleep at the desk
 answerHigh: make the pass — the "good enough" version was the lazy one
@@ -38,11 +43,6 @@ rorschachHigh: a moth beating upward against a closed window
 rorschachMid: a hare sitting upright, ears raised high
 rorschachLow: a kite settling, wings folding toward the grass
 rorschachLeast: a bell come to rest after the last swing
-facetMostTags: [kidney, navy, mung]
-facetHighTags: [kidney, navy]
-facetMidTags: [kidney, navy]
-facetLowTags: [butter, edamame]
-facetLeastTags: [butter, edamame, adzuki]
 ---
 
 Red-Hot Black Beans are the Bean Zodiac's most relentless — they keep going past the point where most people would call it done. The sixth pass becomes a seventh, the run goes a mile further than the plan, and the email gets one more sharpening before it gets sent. Friends notice the output and the patience behind it; nobody notices the small steady cost of never being finished.

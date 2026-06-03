@@ -6,6 +6,11 @@ form: fermented
 trait: pessimistic
 dish: Frijoles charros - pinto beans with fermented chipotle, bacon, and lime.
 quote: A bean who expects nothing is never disappointed.
+creature: petrel
+friendlyBeans: [adzuki, green]
+antiBeans: [black, cannellini]
+friendlyForm: roasted
+antiForm: dried
 seasonalFortune: Cures lengthen in this season's cool dark, and the brine grows certain. A charro pot kept long enough teaches the household what souring sounds like before it arrives.
 fortuneMost: The hunch is right this time. The bandage and the spare key were worth packing — you read the turning weather before anyone would admit it was turning.
 fortuneMost2: You can hear the seam starting to split before the pot says a word about it. Stand by with the spoon already raised; the early bracing is a kind of care, and it earns its keep.
@@ -18,15 +23,15 @@ fortuneLow2: Not every open door is a draught hunting for a way in. Give the str
 fortuneLeast: Out loud, to the dog if no one else will hear, name three things that went right. Counting the good is the harder accounting, and it's the column you keep skipping.
 fortuneLeast2: A good thing is allowed to be good before you turn it over looking for the catch. The morning is plainly bright, no fine print underneath — open it in the doorway, coat still on.
 facetMostTitle: Smoke Before the Match
-facetMost: You brace early — packing the lime, the bandage, the spare key — long before anyone else admits the weather is turning.
+facetMost: The picnic's only half-planned and already you can see the rain in it. The umbrella goes in the bag, the backup spot gets scouted, before a single cloud has shown.
 facetHighTitle: The Chipotle That Sinks
-facetHigh: Messages opened late get read twice; you scan the second line for what the first line was hiding.
+facetHigh: A doctor says the scan looks mostly fine and your ear locks onto the mostly. The reassurance slides off and the one soft word is the thing you carry home.
 facetMidTitle: Bacon Before It Spits
-facetMid: You cook expecting the seam to split, and stand by the pot with a spoon already lifted to catch it.
+facetMid: A friend's big plan is laid out glowing in front of you, and you can feel the part that breaks. Do you name the crack now, or let them have the glow a while first.
 facetLowTitle: Lime, No Flinch
-facetLow: Strangers get the bench beside you on the first ask; you hand over the address without consulting the gut.
+facetLow: A new venture asks you to put money in and the outcome's a coin-toss. You back it on the upside you can picture, not the failure you usually lead with.
 facetLeastTitle: The Lid That Pops
-facetLeast: Forecasts of frost don't unpack the sweaters; gifts arrive and get opened in the doorway, coat still on.
+facetLeast: Good news lands and lands clean. You let it be simply good, no turning it over in your hands for the fault line you're sure is somewhere in it.
 question: A friend texts that they have "some news" and asks if you're free to talk tonight. You...
 answerMost: cancel the evening's plans and start rehearsing the supportive sentences
 answerHigh: reply yes and quietly assume the worse of the two likely options
@@ -38,11 +43,6 @@ rorschachHigh: a heavy oak leaning where the trunk has thinned
 rorschachMid: a round bush massed on a short stem
 rorschachLow: a full tree heavy with ripe fruit
 rorschachLeast: a soft cloud drifting on a bright morning
-facetMostTags: [navy, edamame, black]
-facetHighTags: [navy, edamame]
-facetMidTags: [navy, edamame]
-facetLowTags: [adzuki, butter]
-facetLeastTags: [adzuki, butter, mung]
 ---
 
 Pickled Pinto Beans are the Bean Zodiac's most pessimistic — and the pessimism is showing its working. They have packed the lime and the bandage long before anyone else admitted the weather was turning; they have read past the cheerful opening to the third paragraph where the actual message is hiding; they have stood by the pot with the spoon already raised because they could hear the seam beginning to split. More often than is comfortable, they were right.

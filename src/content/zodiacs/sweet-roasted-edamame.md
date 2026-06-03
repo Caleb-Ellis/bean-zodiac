@@ -6,6 +6,11 @@ form: roasted
 trait: considerate
 dish: Miso-maple roasted edamame — shelled soybeans roasted until crisp, glazed in white miso and maple syrup.
 quote: Excellence is never granted to a bean; it must be earned.
+creature: manatee
+friendlyBeans: [chickpea, mung]
+antiBeans: [black, fava]
+friendlyForm: fried
+antiForm: fermented
 seasonalFortune: A season of slow glazing. Miso darkens by degrees, maple tightens around the pod, and the days reward whoever stays near the tray long enough to turn each one.
 fortuneMost: A small invisible favour for someone who'll never trace it back to you. The not-finding-out is the cleaner half of the gift.
 fortuneMost2: You phrase the hard sentence twice before saying it — once for what it means, once for how it'll sit in them tomorrow. That second pass is the whole craft.
@@ -18,15 +23,15 @@ fortuneLow2: A small task would help someone, and you see it, and you let it pas
 fortuneLeast: Hand the unfinished thing to someone else to carry. Setting it down feels like dropping it; it isn't. Rest is also a contribution.
 fortuneLeast2: One hint missed, the moment quietly closing, no one turning back for it. You can't turn every pod in the pan.
 facetMostTitle: Each Pod Lacquered to Glass
-facetMost: You phrase the difficult sentence twice before saying it — once for what it means, once for how it will sit in the other person tomorrow.
+facetMost: The path forks and a lone hiker behind you looks lost. You double back to walk them to the junction before carrying on your own way.
 facetHighTitle: The Pan Turned, Every Shell Caught
-facetHigh: At a friend's housewarming you find the lightbulb that needs changing and change it.
+facetHigh: A stranger on the train is fighting a window that won't budge, too shy to ask. You're up out of your seat to wrestle it open before they've caught your eye.
 facetMidTitle: Maple in Patient Coats
-facetMid: At the shared dinner you clear the plates before the host stands up; nobody quite registers it happening, which is how you wanted it.
+facetMid: Last one out of the picnic clearing, you notice the bench someone left sticky. A wipe with a napkin, and you go — no one will know it was you.
 facetLowTitle: A Handful Warm From the Bowl
-facetLow: You see the small task that would help someone and let it pass; today, you have your own to finish.
+facetLow: A dropped glove lies on the pavement just ahead of its owner. You see it, keep your hands in your pockets, and walk on.
 facetLeastTitle: The Glaze Pooled, the Rest Forgotten
-facetLeast: You miss the hint that someone needed something, and by next week the moment has quietly passed.
+facetLeast: Someone across the café keeps glancing over, clearly hoping you'll offer the empty chair beside you. You leave it where it is and read on.
 question: You're at a friend's birthday dinner, exhausted from your own week. Halfway through the mains, the friend's plus-one looks adrift and the host is busy at the other end of the table. You...
 answerMost: slide your chair over and ask the plus-one how they met the birthday girl
 answerHigh: catch their eye and pull them into the conversation already happening on your side
@@ -38,11 +43,6 @@ rorschachHigh: a hand reaching across to a full bowl
 rorschachMid: a pear resting beside a leafy sprig
 rorschachLow: a teapot turned away from an empty cup
 rorschachLeast: a watering can set down beside dry roots
-facetMostTags: [cannellini, navy, mung]
-facetHighTags: [cannellini, navy]
-facetMidTags: [cannellini, navy]
-facetLowTags: [fava, green]
-facetLeastTags: [fava, green, kidney]
 ---
 
 Glazed Edamame are the Bean Zodiac's most considerate — the ones who read the email twice before sending, once for what it says and once for how it will land. At the housewarming they find the lightbulb that needs changing and change it. They answer the message they owe before the one they want to.

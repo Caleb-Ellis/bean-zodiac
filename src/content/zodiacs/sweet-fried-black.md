@@ -6,6 +6,11 @@ form: fried
 trait: driven
 dish: Black bean and sweet plantain fritters — mashed black beans and ripe plantain fried together in rounds, crisp outside and sweet within.
 quote: Stay hungry, stay bean.
+creature: husky
+friendlyBeans: [kidney, fava]
+antiBeans: [adzuki, pinto]
+friendlyForm: fermented
+antiForm: roasted
 seasonalFortune: A season the oil keeps running hot. Plantains ripen faster than the pan can take them, and the rounds leaving the skillet outpace the ones still mashing.
 fortuneMost: Finish the thing you keep circling, and keep the heat on the one building beside it.
 fortuneMost2: A stretch is coming where everything you start, you'll see through to the plate. The pan won't go cold while you're at it.
@@ -18,15 +23,15 @@ fortuneLow2: Let the mash rest overnight. Stopping won't cost you the morning, t
 fortuneLeast: Hand off the part you've been hauling alone, and trust the one who reaches for it — even as your grip resists letting go.
 fortuneLeast2: Turn back two miles short. Not every climb earns its worth at the top.
 facetMostTitle: The Second Batch Shaping
-facetMost: You will not let the heat go cold while there is plantain left to fry.
+facetMost: Wave the sweeper truck on. The race cutoff has passed and the cones are coming up around you, but you're running this last mile in whether it counts or not.
 facetHighTitle: Oil Still Warm
-facetHigh: Inbox at midnight, every thread split open and answered. The replies leave before you reread them.
+facetHigh: Rain starts spitting on a half-dug garden bed, and you'd sooner finish the trench soaked through than leave it open overnight.
 facetMidTitle: Plantain Still Steaming
-facetMid: You eat standing, before the next round needs turning.
+facetMid: Bag still on your shoulder, you're already thumbing to the next task before the front door has latched behind you.
 facetLowTitle: Mash Kept Until Morning
-facetLow: You move when the room asks, not before.
+facetLow: The queue has barely moved and people around you are sighing and checking watches. You're happy to stand and let it take however long it takes.
 facetLeastTitle: The Last Fritter on the Plate
-facetLeast: You wait out the others, listening past your own turn.
+facetLeast: A board game runs long and the table thins out as people drift to bed. You're glad to fold your hand early and let someone else play it out.
 question: You're hiking with a friend who's clearly flagging two miles from the summit. You...
 answerMost: keep the pace and promise the view will be worth it
 answerHigh: push on but talk them through it the whole way
@@ -38,11 +43,6 @@ rorschachHigh: a beetle shouldering forward through dense brush
 rorschachMid: a cabbage rose opened wide in bloom
 rorschachLow: a clump of moss spreading slow on stone
 rorschachLeast: a cat curled tight, asleep in the sun
-facetMostTags: [chickpea, fava, green]
-facetHighTags: [chickpea, fava]
-facetMidTags: [chickpea, fava]
-facetLowTags: [butter, mung]
-facetLeastTags: [butter, mung, pinto]
 ---
 
 Caramelised Black Beans are the Bean Zodiac's most driven — and they want you coming with them. They're the friend who books the trip and the table and the cabin, who texts at 7am to ask if you've eaten, who turns a shared project into momentum nobody else could have generated alone. To be loved by one is to be carried somewhere good before you knew you wanted to go.

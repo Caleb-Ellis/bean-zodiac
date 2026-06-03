@@ -6,6 +6,11 @@ form: roasted
 trait: extravagant
 dish: Roasted kidney beans with porcini, truffle oil, and thyme.
 quote: I have nothing to declare except my bean.
+creature: peafowl
+friendlyBeans: [fava, mung]
+antiBeans: [black, fava]
+friendlyForm: smoked
+antiForm: fermented
 seasonalFortune: Truffle oil pools darker than the bowl beneath; the season runs long on a single note, and what looked like surplus turns out to be the threshold.
 fortuneMost: Buy the absurd one. They'll remember the gesture for a decade and you'll have forgotten the price before it lands on their step.
 fortuneMost2: When you show up, show up with weather. A gift over the top is on its way to landing harder than you dare hope — let it be too much.
@@ -18,15 +23,15 @@ fortuneLow2: Cook the one good thing and stop. The evening is enough unfilled, e
 fortuneLeast: Three words and out. The bare version carries more than the lush one — and letting it will feel like leaving the gift half-wrapped.
 fortuneLeast2: Hand over the plain card with just their name on it. Trust the name to do all of it. Adding nothing is the harder gift, and the truer one here.
 facetMostTitle: Porcini in the Hand
-facetMost: You send the better bottle, the longer letter, the second gift; the first was never enough to mean what you meant.
+facetMost: A picnic for two was the plan. You arrive with a tablecloth, three courses, candles, and a string of lights for a bench in a public park, because anything less wouldn't have said it.
 facetHighTitle: Thyme on Every Curtain
-facetHigh: You furnish a room until it answers back, leaving no surface without weather.
+facetHigh: Asked to bring a dish to the potluck, you turn up with four, plus flowers for the host and a record you think they'll love. Too much never crosses your mind as too much.
 facetMidTitle: Roasted Past Tender
-facetMid: You stay an hour after the last toast, refilling the conversation no one asked you to thicken.
+facetMid: The toast is over and the room is winding down, but the conversation could still be richer. Stay and pour more into it, or let the evening be enough as it is?
 facetLowTitle: Salt, Nothing Else
-facetLow: At home you cook one good thing and stop, the kitchen quiet by eight.
+facetLow: The blank wall in the new place is begging to be dressed — you can already see the whole gallery of frames going up. Leave it bare. The quiet of the empty wall turns out to be the thing.
 facetLeastTitle: Truffle at Its Sharpest
-facetLeast: You send a friend the plain card with their name on it, no flourish, and trust the name to be the whole gesture.
+facetLeast: A friend is grieving and you want to do everything. You send three plain words and nothing else, trusting the bareness to carry more than any flourish could.
 question: A friend's birthday is next week and you're at the shop in front of two bottles — a fine one and an absurd one. You...
 answerMost: buy the absurd one and a card the size of a placemat
 answerHigh: buy the fine one and add flowers on the way over
@@ -38,11 +43,6 @@ rorschachHigh: a frilled head of lettuce bursting out of itself
 rorschachMid: an urn with a spray of curling scrollwork beside it
 rorschachLow: a clay pot with one bare twig off its edge
 rorschachLeast: a plain jug with a single dead stem trailing
-facetMostTags: [cannellini, adzuki, pinto]
-facetHighTags: [cannellini, adzuki]
-facetMidTags: [cannellini, adzuki]
-facetLowTags: [fava, green]
-facetLeastTags: [fava, green, edamame]
 ---
 
 Rendered Kidney Beans are the Bean Zodiac's most extravagant — and they mean it every time. The longer letter, the better bottle, the room furnished until it answers back. When they show up for someone, they show up with weather. The friend on the receiving end remembers the gesture a decade later and still can't quite explain why it landed so hard.

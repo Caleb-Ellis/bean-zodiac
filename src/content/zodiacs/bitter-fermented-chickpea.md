@@ -6,6 +6,11 @@ form: fermented
 trait: collaborative
 dish: Fatteh - chickpeas with labneh and bitter pomegranate.
 quote: None of us is as bean as all of us.
+creature: bee
+friendlyBeans: [pinto, fava]
+antiBeans: [navy, black]
+friendlyForm: roasted
+antiForm: dried
 seasonalFortune: A season for slow exchange across the brine. Labneh thickens against the cloth; pomegranate seeds wait for a bowl to fall into. Each ingredient sharpens beside what it is not.
 fortuneMost: Hand the half-done thing to one particular person before you tidy it. What they add is the reason you gave it to them.
 fortuneMost2: The work you carry to another cook's table comes back with their salt in it — and that's the version you actually wanted.
@@ -18,15 +23,15 @@ fortuneLow2: Some answers only surface in a silence with no one to pass the spoo
 fortuneLeast: The committee in your head isn't quorate and the chair won't stop talking. This one's yours to call alone, lonely as that lands.
 fortuneLeast2: Set each thing in its own place and trust your own arrangement. Not everything has to go to a vote — though deciding in silence will feel stark at first.
 facetMostTitle: Over Another Cook's Pan
-facetMost: You bring your draft to someone else's table and let their salt finish it, the page edited by a hand not yours.
+facetMost: A puzzle's spread across the table and you've got a tricky corner half-solved. Rather than crack it alone, you wave someone over to put their hands in too.
 facetHighTitle: The Thread Past Midnight
-facetHigh: You fold their question into yours and send back a version neither of you would have written alone.
+facetHigh: The map doesn't match the backstreet corner you're stranded on. You could squint it out alone — instead you flag down a passerby and the two of you sort it between you.
 facetMidTitle: A Counter Not Yours
-facetMid: You cook in someone else's kitchen and ask where the colander lives before you reach for it.
+facetMid: A choice you could just make on your own — but you'd rather run it past one person first, even a quick text, to hear how it sounds out loud.
 facetLowTitle: No One Watching the Cloth
-facetLow: You take the long job into a room with the door shut, and the answer arrives only after the second silent hour.
+facetLow: The group offers to split the task. You turn it down and take the whole of it on yourself, carrying it through clean and alone.
 facetLeastTitle: Each Thing in Its Corner
-facetLeast: You arrange the room so each thing has a corner, and you do not ask the lamp what the chair thinks.
+facetLeast: A trip to plan, friends keen to weigh in on every stop. You book the whole route solo and tell them after, settled the way you wanted it.
 question: A blank document and a deadline at the end of the week. You...
 answerMost: open a call with someone and draft it out loud together
 answerHigh: send the rough outline to a friend before writing a single sentence
@@ -38,11 +43,6 @@ rorschachHigh: two islands linked by a low sandy bridge
 rorschachMid: two stones sitting near each other in a stream
 rorschachLow: a small boat drifting away from a larger one
 rorschachLeast: a lone island with the channel grown too wide
-facetMostTags: [adzuki, green, pinto]
-facetHighTags: [adzuki, green]
-facetMidTags: [adzuki, green]
-facetLowTags: [mung, butter]
-facetLeastTags: [mung, butter, black]
 ---
 
 Cultured Chickpeas are the Bean Zodiac's most collaborative — they'll hand you a half-finished draft and mean it as a compliment, because the version that comes back with your salt in it is the one they actually wanted. They think out loud, in company, in the thread that runs past midnight, and the thing that emerges is better than what either of you would have made alone. Working alongside people isn't a tactic for them; it's how the work feels right.

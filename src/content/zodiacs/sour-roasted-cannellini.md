@@ -6,6 +6,11 @@ form: roasted
 trait: tactful
 dish: Cannellini al forno con gremolata - oven-roasted cannellini with lemon, parsley, and garlic
 quote: Diplomacy is the art of telling someone their bean is wrong in a way that makes them want to fix it.
+creature: collared dove
+friendlyBeans: [mung, pinto]
+antiBeans: [fava, green]
+friendlyForm: fried
+antiForm: fried
 seasonalFortune: Roasted cannellini hold their shape because the oven works slow; lemon and parsley arrive at the end. A season for late additions, measured into warmth already settled.
 fortuneMost: The slow oven is your luck this turn — the hard word arrives warm and lands soft. Just stop before the third pass over it, where kindness starts to blur what was true.
 fortuneMost2: A note that would have stung in anyone else's mouth comes from yours as the thing they wanted to hear anyway. That ease is the gift arriving.
@@ -18,15 +23,15 @@ fortuneLow2: The rough first version, read aloud and unedited, lets others adjus
 fortuneLeast: Nine rehearsed versions of one plain sentence, and the first was the right one. Blunt sits wrong in your mouth, yet the truth shouldn't go cold under the gremolata.
 fortuneLeast2: Name it bare, though the softer road is right there and easier. A friend left warm and a little misinformed is a comfort that bills them later.
 facetMostTitle: Gremolata on the Hard Part
-facetMost: Bad news lifted in garlic and oil — the friend hears the hard part last and leaves hungry to fix it.
+facetMost: The new cook plates something genuinely off and looks to you, hopeful. You find the one true thing to praise, then slip the fix in where it'll be heard.
 facetHighTitle: Parsley on Top
-facetHigh: You rewrite the message twice before sending — once for clarity, once for the finish.
+facetHigh: Over the gate, the neighbour wants your honest verdict on the fence they've just repainted the wrong colour. Warmth first, then the plain truth, both in one breath.
 facetMidTitle: Lemon Held Back
-facetMid: An apology owed; you bring it warm and salted, timing the sharp part until the room softens.
+facetMid: A friend wants to know if the dress is really right, and there's a flaw they haven't seen. You don't bury it — you ask the question that walks them to it themselves.
 facetLowTitle: Garlic, Raw
-facetLow: First draft, read aloud to anyone in earshot. The room adjusts to you.
+facetLow: There's a blunt way to put it and your usual three cushions around it. This time you hand it over bare and let them adjust to you for once.
 facetLeastTitle: The Unswept Pan
-facetLeast: Coats on the chair, shoes mid-hallway. Whoever walks in meets the room exactly as you left it.
+facetLeast: A stranger on a long delay asks straight out how they're coming across. You give it to them flat, no softening, and let the truth stand where it falls.
 question: A colleague's pitch has a real problem, and they're asking you in the corridor what you thought. You...
 answerMost: praise the bones, name the problem, end on the fix
 answerHigh: name the problem plainly with the warmth pre-loaded
@@ -38,11 +43,6 @@ rorschachHigh: a robed monk and a folded cloth nearby
 rorschachMid: a hunched bird beside a head of cauliflower
 rorschachLow: a man turned away from a clenched fist
 rorschachLeast: a stone and a fist squared off across a gap
-facetMostTags: [navy, mung, pinto]
-facetHighTags: [navy, mung]
-facetMidTags: [navy, mung]
-facetLowTags: [green, fava]
-facetLeastTags: [green, fava, edamame]
 ---
 
 Chimichurri Cannellini Beans are the Bean Zodiac's most tactful — they can put the hard sentence at the end of a paragraph and have the listener arrive at it already half-agreeing. The note that would have stung in someone else's mouth lands with these Beans as something the friend wanted to hear anyway. They edit twice before sending, once for clarity, once for the finish.

@@ -11,7 +11,7 @@ import {
   type FlavourId,
   type FormId,
   type QualityId,
-  type FacetTagId,
+  type SpiritTags,
   type Zodiac,
   type ZodiacId,
   type ZodiacMetadata,
@@ -176,18 +176,16 @@ export const getFortuneText = (
   return zodiac.facetMid;
 };
 
-// The shown facet tier's optional tags, snapshotted onto the fortune entry so
-// spiritBean can replay the soft scoring pass without async zodiac access.
-export const getFacetTags = (
-  zodiac: Zodiac,
-  qualityId: QualityId,
-): FacetTagId[] | undefined => {
-  if (qualityId === QualityIds.Heirloom) return zodiac.facetMostTags;
-  if (qualityId === QualityIds.Market) return zodiac.facetHighTags;
-  if (qualityId === QualityIds.Stale) return zodiac.facetLowTags;
-  if (qualityId === QualityIds.Rotten) return zodiac.facetLeastTags;
-  return zodiac.facetMidTags;
-};
+// A zodiac's spirit tags, snapshotted onto the fortune entry so spiritBean can
+// replay the soft scoring pass without async zodiac access. These are
+// per-zodiac (trait-based), not per-tier: the tier decides at score time which
+// set (friendly vs anti) is active. See lib/spiritBean and SPIRIT_TAGS.md.
+export const getSpiritTags = (zodiac: Zodiac): SpiritTags => ({
+  friendlyBeans: zodiac.friendlyBeans,
+  antiBeans: zodiac.antiBeans,
+  friendlyForm: zodiac.friendlyForm,
+  antiForm: zodiac.antiForm,
+});
 
 // Each fortune tier has two written variants (e.g. fortuneMost / fortuneMost2).
 // Pick one deterministically per day + zodiac so the fortune stays stable

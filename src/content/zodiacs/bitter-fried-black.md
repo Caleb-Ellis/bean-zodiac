@@ -6,6 +6,11 @@ form: fried
 trait: forensic
 dish: Tostada - black beans with charred tomatillo and bitter greens.
 quote: Two things are infinite - the universe and bean stupidity; and I'm not sure about the universe.
+creature: bloodhound
+friendlyBeans: [fava, edamame]
+antiBeans: [adzuki, pinto]
+friendlyForm: fermented
+antiForm: roasted
 seasonalFortune: The season scorches at the rim and softens at the center. Tomatillos blister before they yield; bitter greens go limp under heat that knew its moment. A clean break in the tostada decides the meal.
 fortuneMost: You see the shape under the surface — the thing everyone circles and won't touch. The clean break is yours; name it.
 fortuneMost2: The tangle splits exactly where you press. Three words and the whole sentence falls open.
@@ -18,15 +23,15 @@ fortuneLow2: A long version is coming, and a longer one behind it. Sitting throu
 fortuneLeast: A warm clumsy question instead of the clean cut. It feels like working blind, but the answer someone reaches alone is theirs to keep.
 fortuneLeast2: Something arrives and you leave it unopened. It nags, sitting closed like that. Some shapes rearrange themselves without your knife.
 facetMostTitle: Where the Flame Drew
-facetMost: At a family dinner full of hedging, you name the disagreement nobody wanted named in a single sentence, and the carving knife pauses mid-cut.
+facetMost: A magician fans the deck and asks you to be amazed. You watch the wrong hand instead and say, flatly, exactly where the card went.
 facetHighTitle: The Greens at the Hottest
-facetHigh: A friend circles their problem for twenty minutes; you cut to the one question they have been avoiding.
+facetHigh: Two people in front of you keep insisting they agree. You ask the one plain thing that shows they don't, and watch the smile go thin.
 facetMidTitle: Char Before the Tongue
-facetMid: Reading a contract, your finger lands on the clause that matters before you have finished the page.
+facetMid: Someone's directions to the cabin sound fine until one turn snags you. You can't say why yet, but you double back to that turn before you trust the rest.
 facetLowTitle: The Tostada, Unsnapped
-facetLow: You let a friend finish the long version, then the longer version, trusting the shape to surface on its own.
+facetLow: A kid shows you a drawing and waits. You could ask what the brown shape is meant to be; instead you just say it's good and let them tell you the rest if they want.
 facetLeastTitle: Tomatillo, No Scorch
-facetLeast: You hear a rumour and set it down unopened; weeks later it has rearranged itself without your help.
+facetLeast: There's a noise in the engine you could chase down to its exact cause. Leave the hood shut. It's running fine, and naming the rattle won't make the drive any better.
 question: A friend opens with "so something weird happened at work" and starts circling. You...
 answerMost: cut in on the second sentence with the real question
 answerHigh: ask one quiet question that skips three paragraphs
@@ -38,11 +43,6 @@ rorschachHigh: a walnut cracked cleanly into two halves
 rorschachMid: a butterfly with two heavy lower wings
 rorschachLow: a storm cloud bunched above a dark hill
 rorschachLeast: a wig and a mustache
-facetMostTags: [navy, edamame, kidney]
-facetHighTags: [navy, edamame]
-facetMidTags: [navy, edamame]
-facetLowTags: [adzuki, butter]
-facetLeastTags: [adzuki, butter, mung]
 ---
 
 Scorched Black Beans are the Bean Zodiac's most forensic. A friend can circle a problem for twenty minutes and one of these Beans will, in a single sentence, name the thing being circled — the question avoided, the clause that actually binds, the disagreement the meeting has been politely billing hours against. They see the shape of a thing while everyone else is still describing the surface.

@@ -6,6 +6,11 @@ form: roasted
 trait: guileless
 dish: Butter bean traybake with preserved lemon, roasted garlic, and rosemary
 quote: To bean or not to bean — actually, yes, obviously. Why would you not.
+creature: duckling
+friendlyBeans: [adzuki, mung]
+antiBeans: [kidney, edamame]
+friendlyForm: boiled
+antiForm: smoked
 seasonalFortune: A season that browns uncovered. Lemon rind slumps into the oil without ceremony, garlic loses its skins, rosemary throws its smell down the corridor before anyone lifts the tray.
 fortuneMost: Luck runs plain as a split rind for you this turn. Answer what was asked, in the tense it was asked, and skip the clever rephrase — it's a tax you keep paying for nothing.
 fortuneMost2: People who've spent years decoding subtext find you disarming, then restful. That ease is what you hand them just by being literal.
@@ -18,15 +23,15 @@ fortuneLow2: There's no rush to set the unfinished thing out. Let the rosemary s
 fortuneLeast: Some rooms aren't braced for the lemon set out bare — tuck it behind the bread this once, however much the arranging goes against your grain.
 fortuneLeast2: A guess kept quiet spares someone a surprise they never asked for — a mercy, even when staying silent chafes worse than any plain answer would.
 facetMostTitle: Skin Loose, Clove Bare
-facetMost: A message lands and you reply in the tense it was sent — no draft, no softening, the answer plain as a split rind on the tray.
+facetMost: A fortune teller turns over a card and falls silent, waiting for you to read meaning into it. You just ask her what the picture is.
 facetHighTitle: Rosemary Still Hissing
-facetHigh: A stranger asks the polite question and gets the actual one back; introductions skid past small weather into the salted middle of the pan.
+facetHigh: At the bus stop someone offers the usual nothing about the rain. You skip the weather and tell them what you're actually turning over.
 facetMidTitle: Lemon Cuts the Oil
-facetMid: The bill is wrong and you say so at the counter, no apology threaded through it, the correction landing flat as a tray on stone.
+facetMid: A riddle gets left dangling, clearly baited for you to chase the hidden layer. You take the plain answer instead and move on with the afternoon.
 facetLowTitle: Garlic in Its Papers
-facetLow: You hold the draft back another week, file unshared, the rosemary scenting only your own kitchen until the shape of the thing satisfies you.
+facetLow: A barbed little remark lands, sweet on the surface. Instead of biting the literal hook, you sit with it a beat and feel for the edge underneath.
 facetLeastTitle: The Tray Under Foil
-facetLeast: Sharp edges turned to the wall, the lemon tucked behind the bread, the room arranged so nothing surprises anyone.
+facetLeast: You've worked out what a friend's gift really cost them and could say so. You keep the guess to yourself and let them have their small mystery.
 question: A text arrives that reads odd — could be sharp, could be nothing. You...
 answerMost: take it at the surface and reply in the same tense
 answerHigh: answer the literal question and move on with your evening
@@ -38,11 +43,6 @@ rorschachHigh: an apple with its stem, hand reaching for it
 rorschachMid: a teapot and an open mitten side by side
 rorschachLow: a fox haunched, one paw raised mid-reach
 rorschachLeast: a crab tucked behind its own raised claw
-facetMostTags: [cannellini, mung, pinto]
-facetHighTags: [cannellini, mung]
-facetMidTags: [cannellini, mung]
-facetLowTags: [green, fava]
-facetLeastTags: [green, fava, edamame]
 ---
 
 Chimichurri Butter Beans are the Bean Zodiac's most guileless — they answer the question that was asked, in the tense it was asked in. No second meaning is being mined for, no clever rephrase is waiting in drafts. A message lands; a reply leaves; the day moves on. People who have spent years decoding subtext find them disarming, then restful.

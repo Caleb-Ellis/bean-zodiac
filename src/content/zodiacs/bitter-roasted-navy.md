@@ -6,6 +6,11 @@ form: roasted
 trait: prudent
 dish: Roasted navy bean and bitter endive salad with mustard vinaigrette.
 quote: In preparing to bean, I have always found that plans are useless, but planning is indispensable.
+creature: field mouse
+friendlyBeans: [butter, cannellini]
+antiBeans: [chickpea, pinto]
+friendlyForm: dried
+antiForm: smoked
 seasonalFortune: A jar of mustard seed kept dry through three winters; the season favours those whose pantries answer questions before they are asked.
 fortuneMost: You set the coat by the door, so the rain finds you already buttoned. That quiet readiness is the whole art, and it's about to pay out.
 fortuneMost2: A winter you can't yet see is on its way, and your pantry already answers it. The foresight you stored is about to prove its worth.
@@ -18,15 +23,15 @@ fortuneLow2: The bill paid the day it's due, not a week early; the coats heaped 
 fortuneLeast: A road is opening that you should step onto without first pricing the way back. The later route home always exists — though boarding unsure goes against everything you keep.
 fortuneLeast2: Something lovely is sitting in a shop window, yours to carry home unboxed and unplanned. Some things don't want grinding the night before — costly as the leap feels mid-air.
 facetMostTitle: Mustard Ground the Night Before
-facetMost: You set out tomorrow's coat by the door, and the rain that arrives finds you already buttoned.
+facetMost: Before the road trip you pack a spare fan belt and a torch you'll likely never touch, because the breakdown you've planned for is the one that never comes.
 facetHighTitle: The Vinaigrette at Rest
-facetHigh: You draft the difficult message, then leave it overnight before sending.
+facetHigh: The well-reviewed campsite is right there to book, yet you hold off until you've found where the nearest shelter is, in case the weather turns.
 facetMidTitle: Endive, Ribs Checked
-facetMid: You read the clause about cancellation fees twice.
+facetMid: A friend hands you a contract to glance at. You skim it for the one clause that could bite, then hand it straight back.
 facetLowTitle: The Bean Left Where It Lands
-facetLow: Coats heap on the chair; the bill is paid the day it is due, not before.
+facetLow: Say yes on the spot to the weekend invite with no details yet, and sort the how of it nearer the time.
 facetLeastTitle: Beans Pulled by Smell
-facetLeast: You buy the lamp in the window and walk it home unboxed.
+facetLeast: A roadside sign points off to a beach you've never heard of, and the wheel's already swinging to follow it with no idea what waits at the end.
 question: A trip next month, flights still unbooked, prices nudging up daily. You...
 answerMost: build a spreadsheet of routes, dates, and refund policies before booking
 answerHigh: read the cancellation terms twice and book the safer fare
@@ -38,11 +43,6 @@ rorschachHigh: a coiled rope knotted snug to a post
 rorschachMid: a stone next to a tangle of cord
 rorschachLow: a loosened knot slipping off a peg
 rorschachLeast: a rope cut free, ends flung wide open
-facetMostTags: [cannellini, black, kidney]
-facetHighTags: [cannellini, black]
-facetMidTags: [cannellini, black]
-facetLowTags: [fava, edamame]
-facetLeastTags: [fava, edamame, green]
 ---
 
 Wood-Fired Navy Beans are the Bean Zodiac's most prudent — they anticipate what could go wrong and quietly arrange for it. They set tomorrow's coat by the door, so the rain that arrives at 7:40 finds them already buttoned; the difficult message gets drafted, then left overnight to settle before it's sent. Their pantry answers questions before anyone thinks to ask them.

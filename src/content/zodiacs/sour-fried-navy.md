@@ -6,6 +6,11 @@ form: fried
 trait: grumpy
 dish: Navy bean croquettes with sauce gribiche - crisp fried navy bean patties with a tangy egg, caper, and mustard sauce.
 quote: I have not bean in the right mood for Beans for the last thirty-seven years.
+creature: wombat
+friendlyBeans: [butter, edamame]
+antiBeans: [chickpea, pinto]
+friendlyForm: boiled
+antiForm: roasted
 seasonalFortune: Capers brined past sweetness, mustard sharpened in the jar — a season that keeps its complaint close at hand and rewards those who refuse to smooth it down.
 fortuneMost: A complaint carried to the one who can actually mend it does more than a day of muttering ever will. Your refusal to round up to "fine" is the useful thing — point it where it works.
 fortuneMost2: You won't call it fine when it wasn't, and you shouldn't. Name the wrong thing plainly, once, sharp as mustard from the jar.
@@ -18,15 +23,15 @@ fortuneLow2: Most of what's souring you dissolves by morning, the way weather pa
 fortuneLeast: Someone's braced for a harsh verdict from you. Lead with what actually worked; it'll surprise them, and it'll run against your grain to start there. Start there.
 fortuneLeast2: A small wrong can dissolve before you've even named it, off the tally entirely. Leaving it ungraded will feel like negligence — not everything earns the count, and this one doesn't.
 facetMostTitle: Capers, First Bite
-facetMost: Three notifications into the group chat, you've already drafted the reply that names what nobody else will say.
+facetMost: A park bench sits broken and everyone just steps around it. You're the one who tracks down the council line and lodges the complaint.
 facetHighTitle: Mustard on the Tongue
-facetHigh: A stranger's small rudeness at the counter lodges; you carry it through the rest of the errand, sharper at every till.
+facetHigh: A driver cuts you off and throws a lazy wave. The slight rides shotgun with you for the whole drive, souring each red light after.
 facetMidTitle: The Dark Spots
-facetMid: A wrong charge surfaces on the statement and you call — not pleasantly, not unpleasantly, just until the line is fixed.
+facetMid: A few flat words to the depot about the parcel that turned up dented — no heat, no speech, just said and re-said until it's put right.
 facetLowTitle: Warm Oil, Unhurried
-facetLow: You sleep through what would wake a lighter person, and wake up forgiving most of yesterday by breakfast.
+facetLow: A long queue, a fumbling clerk, and the line barely moving. You shrug it off and fall into easy chat with the person behind you.
 facetLeastTitle: Gribiche, Brine Softened
-facetLeast: Weather slides over you; small wrongs dissolve before you've named them, and you barely notice the dissolving.
+facetLeast: A friend forgets your plans entirely and leaves you waiting at the corner. They turn up sheepish and you wave it away, genuinely unbothered.
 question: You're at a cafe and your order arrives wrong — the right drink, the wrong milk. You...
 answerMost: send it back and explain, briefly, what was actually ordered
 answerHigh: catch the barista's eye and ask for the swap
@@ -38,11 +43,6 @@ rorschachHigh: a rain cloud trailing streaks down on a ridge
 rorschachMid: a small island and a larger one offshore
 rorschachLow: a soft cloud drifting over an open meadow
 rorschachLeast: a puff of fair-weather cloud above a sunlit field
-facetMostTags: [black, edamame, pinto]
-facetHighTags: [black, edamame]
-facetMidTags: [black, edamame]
-facetLowTags: [adzuki, butter]
-facetLeastTags: [adzuki, butter, mung]
 ---
 
 Agrodolce Navy Beans are the Bean Zodiac's most grumpy — the standard is the standard, the world keeps missing it, and they keep keeping count. The discontent is honest; the world really has been imprecise this week. What looks like sourness from the outside is, from inside, a refusal to round up — to say "fine" about a thing that wasn't, to let a small wrong dissolve unmentioned because mentioning would be inconvenient.

@@ -6,6 +6,11 @@ form: smoked
 trait: lingering
 dish: Boston baked beans - navy beans slow-cooked with smoked salt pork, molasses, and brown sugar.
 quote: Some beans linger.
+creature: alley cat
+friendlyBeans: [butter, black]
+antiBeans: [chickpea, pinto]
+friendlyForm: dried
+antiForm: fried
 seasonalFortune: Molasses settles slowly in a covered pot, and the smoke it took on Saturday keeps surfacing through Tuesday's bread. The season holds what was sweetened long after the hearth has cooled.
 fortuneMost: A small kind thing you say will outlast you, quoted back years on by someone whose voice goes a little tight. The smoke a pot took on Saturday still surfaces in Tuesday's bread.
 fortuneMost2: Lend the book you love to the one who won't return it. The right person carrying it forward was always the whole point.
@@ -18,15 +23,15 @@ fortuneLow2: Leave the gathering clean and carry nothing home. Some evenings are
 fortuneLeast: End the loyalty that's gone cold in the pot. The next person can't take the chair while you're still sitting in it from habit — and standing up will cost you more than you'd like to admit.
 fortuneLeast2: Let the weather move through without staining — yesterday's grief, yesterday's joy, the same clear sky after. Letting it pass will feel like a small betrayal of your nature, and you can spare yourself the keeping.
 facetMostTitle: Brown Sugar on the Rim
-facetMost: You leave traces in rooms — a book turned over, a cup half-drained — and people find them weeks later.
+facetMost: You stay in a rented cabin for one night. You leave a folded note and a sketch on the windowsill for whoever comes next, the way past guests once left them for you.
 facetHighTitle: The Salt Pork After the Pot
-facetHigh: Friends quote you back to yourself months on, lines you don't remember saying, and you recognise the cadence anyway.
+facetHigh: A scent of woodsmoke on someone's coat drops you straight into a kitchen from twenty years back, the whole room intact down to the cracked tile.
 facetMidTitle: Smoke Under the Closed Lid
-facetMid: You answer a message at midnight that came in March, and the other person picks it up without missing a beat.
+facetMid: A jacket comes back from a friend you lent it to a year ago. You take up the conversation it interrupted as if no time had passed.
 facetLowTitle: The Lid Lifts, Steam Gone
-facetLow: You leave a gathering cleanly, take nothing home, and by morning the evening has unhooked itself from you entirely.
+facetLow: A wonderful holiday ends. You hand back the keys, board the plane, and feel it slide cleanly into the past before the wheels are up.
 facetLeastTitle: Wind Off an Open Pot
-facetLeast: Weather passes through you without staining — yesterday's grief, yesterday's joy, the same uncluttered sky.
+facetLeast: A friendship that mattered has quietly run its course. You let the last thread go without a keepsake and feel the lightness of an empty hand.
 question: An old friend mentions, casually, something kind you said to them years ago. You...
 answerMost: remember the conversation in full, and the room it happened in
 answerHigh: recognise the line as something you'd say, and pretend to remember the rest
@@ -38,11 +43,6 @@ rorschachHigh: a beetle and the print it pressed in the dust
 rorschachMid: two loaves cooling, one above the other
 rorschachLow: a hare and its shadow already thinning at noon
 rorschachLeast: clouds fading away
-facetMostTags: [butter, black, pinto]
-facetHighTags: [butter, black]
-facetMidTags: [butter, black]
-facetLowTags: [fava, edamame]
-facetLeastTags: [fava, edamame, green]
 ---
 
 Barbecued Navy Beans are the Bean Zodiac's most lingering — and the things they said five years ago are still circulating, quoted back by friends at dinners they weren't invited to. A throwaway sentence at a kitchen table becomes someone else's working principle by autumn; a small kindness in a stairwell gets brought up a decade later, the rememberer's voice gone slightly tight.

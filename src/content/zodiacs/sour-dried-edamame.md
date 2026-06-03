@@ -6,6 +6,11 @@ form: dried
 trait: pointed
 dish: Dried edamame with ponzu and toasted sesame.
 quote: The pen is mightier than the bean.
+creature: stingray
+friendlyBeans: [cannellini, green]
+antiBeans: [chickpea, mung]
+friendlyForm: fried
+antiForm: fermented
 seasonalFortune: Ponzu sharpens in the bowl as the pod dries. A season for short sentences; the citrus does the rest.
 fortuneMost: Ask aloud the question the whole table has been circling, and watch the evening finally move.
 fortuneMost2: One clean sentence names the flaw while the polite nodding still holds, and everyone gets to stop pretending. That sentence is yours.
@@ -18,15 +23,15 @@ fortuneLow2: Soften the point before it lands. A blade that clean leaves a mark 
 fortuneLeast: Don't throw yet — the thing hasn't decided what it is. Sit in the not-knowing past the point it's bearable, and let it ripen.
 fortuneLeast2: A verdict left open and circled comes back kinder than the one you'd have fired off. The waiting itches the whole way through; it's worth it anyway.
 facetMostTitle: Sesame at the Dark Edge
-facetMost: At the dinner you ask the one question the table has been circling all evening, and the wine in the second bottle gets opened a half-hour late.
+facetMost: Cut in and ask it straight — the guide is ten minutes into the long history and the group only wants to know if the bridge ahead will hold.
 facetHighTitle: The Pod's Dried Seam
-facetHigh: A friend describes the situation in nine sentences and you describe it back in two; they nod, surprised, at the shape you found in it.
+facetHigh: Lost in a strange city, your companion narrates every wrong turn aloud. You glance at the skyline once and point — that way.
 facetMidTitle: Ponzu Before the Salt
-facetMid: The apology you owe arrives in one sentence, named, before lunch.
+facetMid: The waiter hovers, reciting specials, and the table dithers. You name your order in three words and hand back the menu.
 facetLowTitle: Sesame Scattered Loose
-facetLow: You give the long answer at the door because the short one would close it.
+facetLow: Someone asks if they should leave the job they've poured years into. The clean yes-or-no is right there, but you take the slow road and ask what they'd miss.
 facetLeastTitle: Ponzu Wide and Shallow
-facetLeast: You leave the draft open for a week, circling, and the version that arrives is kinder for it.
+facetLeast: No verdict yet on the half-finished thing in front of you — let it sit unjudged, content to wait until it shows what it wants to be.
 question: A colleague's plan has a clear flaw and they've just finished presenting it to a room that's nodding politely. You...
 answerMost: name the flaw, in one sentence, before the nodding stops
 answerHigh: ask the single question that exposes it
@@ -38,11 +43,6 @@ rorschachHigh: a beaked head with two raised ears
 rorschachMid: an acorn with its cap still on
 rorschachLow: a kitten with its ears barely budding
 rorschachLeast: a round dumpling with a pinched top
-facetMostTags: [kidney, fava, pinto]
-facetHighTags: [kidney, fava]
-facetMidTags: [kidney, fava]
-facetLowTags: [butter, black]
-facetLeastTags: [butter, black, kidney]
 ---
 
 Dehydrated Edamame are the Bean Zodiac's most pointed. In a meeting that has been wandering for forty minutes they ask the one sentence that ends it; in a thread that has run to fourteen replies they post the line that closes it. They do not soften, and they do not pad, and the people who work with them learn fast that a short answer from them is not coldness, it's the real one.

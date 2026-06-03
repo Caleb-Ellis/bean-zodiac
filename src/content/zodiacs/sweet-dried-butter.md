@@ -6,6 +6,11 @@ form: dried
 trait: serene
 dish: Butter bean and honey semifreddo — dried butter beans cooked to silk and folded into whipped honey cream, then frozen.
 quote: Peace begins with bean.
+creature: white crane
+friendlyBeans: [navy, black]
+antiBeans: [green, kidney]
+friendlyForm: boiled
+antiForm: fried
 seasonalFortune: Honey lowers into cream the colour of pale evening; the freezer keeps its long counsel, and a household sets without anyone tending it.
 fortuneMost: Honey lowering into cream — the worst news loses a degree on its way through you. Let it rest in the cold overnight and meet the morning better.
 fortuneMost2: A still pond with no wind on it. Whoever was winding up to fight near you sets it down and forgets to pick it back up.
@@ -18,15 +23,15 @@ fortuneLow2: You reach for the solution by minute two. Slow back to listening; c
 fortuneLeast: Let the next spark pass through you ungrabbed. Not matching it costs a flicker of pride; spend it.
 fortuneLeast2: The kettle's started to rattle in you, heat meeting heat. Step back one beat before the comeback — the quiet is still yours to keep.
 facetMostTitle: Silk Folded Into Silk
-facetMost: News arrives that would rattle most people; you let it rest in the cold drawer overnight and meet the morning unchanged, the news having lost a degree on its way through you.
+facetMost: The plane drops hard and the cabin gasps as one. You glance up from the window, then back down at the clouds, your pulse never finding the alarm.
 facetHighTitle: The Lamp Left Low
-facetHigh: Rooms quieten around you without instruction, and guests sit longer than they meant to.
+facetHigh: Unhurried as ever, you go on stirring your cup while two strangers at the next table square up for a fight — and the heat goes out of the air near you.
 facetMidTitle: Cream at Its Own Rate
-facetMid: Tired, you eat when hunger speaks plainly; the day's small alarms reach you muffled, through cloth.
+facetMid: A wasp drops onto the picnic blanket and the others scatter shrieking. You watch it cross the cloth and wait for it to wander off on its own.
 facetLowTitle: Honey in a Bright Ribbon
-facetLow: You take the loud chair at the long table, draw out the quiet guest, keep the laughter rolling past midnight.
+facetLow: The referee blows a call against your side and the stands erupt. You're up off the bench yelling with the rest before you've thought it through.
 facetLeastTitle: Sugar Before the Whip
-facetLeast: A sharp word at lunch and you answer back inside the breath, and the room is louder afterward for your having matched it.
+facetLeast: Horn blaring, a driver clips past you and guns it down the road — and you're leaning out the window shouting before the dust has even settled.
 question: A friend calls in tears about something genuinely awful. The line goes quiet, waiting. You...
 answerMost: breathe, let the silence hold them, and stay on the line as long as it takes
 answerHigh: say the steady thing, gently, no advice
@@ -38,11 +43,6 @@ rorschachHigh: a cat asleep in a square of sun
 rorschachMid: a butterfly with both wings open flat
 rorschachLow: a kettle just starting to rattle
 rorschachLeast: sparks thrown off a turning grindstone
-facetMostTags: [mung, black, pinto]
-facetHighTags: [mung, black]
-facetMidTags: [mung, black]
-facetLowTags: [fava, green]
-facetLeastTags: [fava, green, edamame]
 ---
 
 Crystallised Butter Beans are the Bean Zodiac's most serene. A room with one in it runs a little slower; voices drop; whoever was about to start an argument sets it down and forgets to pick it back up. They answer hard messages by morning instead of within the hour, and the answer is always better for the wait.

@@ -6,6 +6,11 @@ form: fermented
 trait: scholarly
 dish: Cannellini in aged pecorino broth with bitter cicoria.
 quote: I have not failed. I have just found ten thousand ways that will not produce a bean.
+creature: long-eared owl
+friendlyBeans: [pinto, chickpea]
+antiBeans: [black, navy]
+friendlyForm: roasted
+antiForm: boiled
 seasonalFortune: A wheel of pecorino bitters slowly in its rind; the season rewards what has been kept in the dark and turned, occasionally, by a steady hand.
 fortuneMost: The line nobody else will reach waits in the footnote's footnote, at the end of the third pass. Your patience for that depth is about to be paid back.
 fortuneMost2: Finish the work nobody asked for, every detail in its place — someone you'll never meet is going to be glad it exists.
@@ -18,15 +23,15 @@ fortuneLow2: A half-remembered fact, the year a little off, is allowed to stand.
 fortuneLeast: Take the first plausible option and act. Doing it wrong will teach you more than another round of weighing — though your hands will itch to check it first.
 fortuneLeast2: A new face across from you. Ask the plain, obvious question before the deep one — the long inquiry can wait, or never come, and you'll lose nothing.
 facetMostTitle: Sharpened by Years
-facetMost: You finish the essay nobody commissioned, every citation in place, and only then consider who the room is.
+facetMost: A quiz night, easy round, and someone shouts a half-right answer. You can't let it go — out comes the full correct version with the reasoning, long after the buzzer.
 facetHighTitle: The Darkening Broth
-facetHigh: You follow the footnote, then the footnote's footnote, and emerge holding something nobody asked you to bring.
+facetHigh: Just assembling a flat-pack shelf, but the instructions skipped a step. Before lifting a single panel you read the whole booklet front to back and lay every screw out by size.
 facetMidTitle: Cicoria Above the Shelf
-facetMid: You keep the book whose margins are already crowded, because the second pass finds what the first walked past.
+facetMid: Picking a restaurant for the group, an hour out. You're three pages deep in reviews, cross-checking the menu against the ones who don't eat meat.
 facetLowTitle: While Still Bright
-facetLow: You name the painter from memory, are wrong about the year, and let the wrongness stand because the room is talking about something else by then.
+facetLow: The rough gist is all the question really needs, so that's what you hand over — the parts you'd normally nail down left unsaid, the loose ends left loose.
 facetLeastTitle: Bread Torn, Door Open
-facetLeast: You meet the stranger and ask the obvious question first — the long one can wait or never come.
+facetLeast: A recipe wants exact grams and a meat thermometer. You eyeball the lot and go by feel, well aware it might collapse, and you start cooking anyway.
 question: Someone at the table makes a confident claim about a thing you happen to know well. You...
 answerMost: cite the paper, the year, and the counterexample you've been waiting to use
 answerHigh: lay out the actual history, briefly, with one source
@@ -38,11 +43,6 @@ rorschachHigh: a cairn of two stones balanced for the road
 rorschachMid: an hourglass narrow at its waist
 rorschachLow: a snowman half-collapsed, the middle giving way
 rorschachLeast: two scoops of ash about to spill apart
-facetMostTags: [green, edamame, black]
-facetHighTags: [green, edamame]
-facetMidTags: [green, edamame]
-facetLowTags: [adzuki, mung]
-facetLeastTags: [adzuki, mung, butter]
 ---
 
 Cultured Cannellini Beans are the Bean Zodiac's most scholarly — the ones who answer a simple question by first establishing what's actually known about it. They'll follow a footnote into its footnote and come back up holding something nobody asked for and everybody's glad to have. When they finally render a verdict it's been checked, sourced, and sat with; they don't guess, and it shows.

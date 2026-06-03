@@ -6,6 +6,11 @@ form: fermented
 trait: obsessive
 dish: Kidney bean gochujang jorim - Korean braised kidney beans in fermented chili paste.
 quote: One passion, one purpose — and a bean becomes invincible.
+creature: border collie
+friendlyBeans: [edamame, mung]
+antiBeans: [adzuki, fava]
+friendlyForm: fried
+antiForm: smoked
 seasonalFortune: The crock keeps its own counsel; weeks press chili and salt into a single unbroken note, and what scattered the palate in spring narrows, by autumn, to one answer.
 fortuneMost: Follow the thing past where everyone else got bored. The one chewing through your sleep is the only one with teeth.
 fortuneMost2: The same braise three times running, one variable moved, the lid refusing to call it done. That depth is yours alone, and it's about to pay off.
@@ -18,15 +23,15 @@ fortuneLow2: Leave the book at chapter four, already curious about the next thin
 fortuneLeast: When the thing's already closed and gone, finishing it now is only for you. Stop mid-sentence — it's not quitting, whatever the unscratched itch tells you.
 fortuneLeast2: Move the furniture, swap the route home, shuffle the playlist. The restlessness costs you your usual depth and hands you the freedom to taste more than one note.
 facetMostTitle: Past the Point Most Pull It
-facetMost: You return to the same sentence for the fourth night running; the rest of the page can wait.
+facetMost: A small question came up at dinner and no one else thought twice about it. Three weeks later you're still reading everything ever written on it, and you have no plans to stop.
 facetHighTitle: Paste Deepening in the Dark
-facetHigh: One browser tab open for a week, the others closed without ceremony — you follow the thread to its end.
+facetHigh: The hike you set out on has a perfectly good turnaround point, and everyone else stops there. The trail keeps going past it, fainter, and you keep going with it just to know where it ends.
 facetMidTitle: Salt Through the Brine
-facetMid: You cook the same braise three Sundays running, adjusting one variable, refusing to call it finished.
+facetMid: The photo is good. It's been good for an hour. Nudge the crop one more pixel and check it again under a different light before you'll let it go.
 facetLowTitle: Steam Off a Fresh Pot
-facetLow: You leave the book at chapter four, the podcast at minute eight, already curious about the next thing.
+facetLow: The repair holds, it's not pretty, and you could keep fussing it toward perfect. Good enough is genuinely good enough here — wipe your hands and walk away satisfied.
 facetLeastTitle: The Lid Never Settled
-facetLeast: You rotate the furniture, the playlists, the route home; nothing in the apartment has stayed in one place a full season.
+facetLeast: Last month's all-consuming hobby has quietly lost its grip, and something completely different is pulling now. Let the old one go cold without a backward glance and dive headfirst into the new.
 question: It's late and you've been turning over one problem all evening. The sensible move is to sleep on it. You...
 answerMost: stay up until you crack it, however late
 answerHigh: do one more pass and then maybe stop
@@ -38,11 +43,6 @@ rorschachHigh: a beetle circling back to one hole
 rorschachMid: an hourglass pinched at its waist
 rorschachLow: a knot slipping loose at the middle
 rorschachLeast: a spool unwinding its thread everywhere
-facetMostTags: [navy, black, adzuki]
-facetHighTags: [navy, black]
-facetMidTags: [navy, black]
-facetLowTags: [butter, edamame]
-facetLeastTags: [butter, edamame, black]
 ---
 
 Kimchi Kidney Beans are the Bean Zodiac's most obsessive — the ones who have found the thing and intend to follow it past the point where the rest of the room got bored. They reread the same paragraph for the fourth night running, cook the braise three Sundays in a row adjusting one variable, and arrive at a depth on the subject that nobody else in the conversation can match.

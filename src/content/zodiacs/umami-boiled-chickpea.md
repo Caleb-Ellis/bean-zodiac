@@ -6,6 +6,11 @@ form: boiled
 trait: adaptable
 dish: Garbanzos con setas - chickpeas and wild mushrooms in sherry-braised broth.
 quote: The measure of intelligence is the bean ability to change.
+creature: octopus
+friendlyBeans: [fava, adzuki]
+antiBeans: [cannellini, edamame]
+friendlyForm: smoked
+antiForm: dried
 seasonalFortune: Sherry darkens a pot left long on the stove. The season layers itself onto whoever stays in it; nothing forced, only steeped.
 fortuneMost: Say yes to the invitation you can't picture yet. You'll learn the table once you're sitting at it.
 fortuneMost2: A strange place is coming, somewhere you can't read the signs. You will be fluent in it faster than anyone expects.
@@ -18,15 +23,15 @@ fortuneLow2: Answer the same in every room and people learn where to find you. I
 fortuneLeast: Speak in your own voice, no warmup, no reading the room first. Let whoever they expected be the one to adjust — even if the silence after feels like a door you don't usually leave open.
 fortuneLeast2: Leaving at the hour you meant to, while the music softens and asks you to stay. Holding your shape isn't rudeness, though it'll feel like swimming against your own current.
 facetMostTitle: What the Broth Carries
-facetMost: You arrive at a strange table speaking its accent by the second drink, and no one notices the seam.
+facetMost: Dropped into a card game with rules you've never met and a deck you don't recognise. By the third hand you're betting like you grew up at this table.
 facetHighTitle: The Chickpea's Braised Colour
-facetHigh: You finish meetings using the room's vocabulary, your own words quietly retired for the hour.
+facetHigh: A whole crowd is chanting something you've never heard. Your mouth's already shaping the words, picking them up a half-beat behind everyone else.
 facetMidTitle: Mushrooms in Warm Sherry
-facetMid: When the plan changes mid-walk you reroute without sighing, already thinking about the new errand.
+facetMid: The ferry you wanted is cancelled, a slower one boards in ten, and already half your mind is laid out comfortably across the longer crossing — no sigh in it anywhere.
 facetLowTitle: The Bean Held Whole
-facetLow: You answer the same way in every room — the voicemail, the dinner, the funeral — and people know where to find you.
+facetLow: Different people, different rooms, all wanting a slightly different you. Pick the version that's actually yours and hold it, even where a softer shape would land easier.
 facetLeastTitle: The Pot That Refuses
-facetLeast: You leave a party at the hour you intended; the music shifts, the others soften, you put on your coat.
+facetLeast: The whole group is veering toward a plan you don't want, and your foot already feels the pull to follow. You plant it instead and say the opposite out loud.
 question: You've been dropped at a dinner party where you know exactly one person, and they've vanished into the kitchen. You...
 answerMost: ease into the nearest group and pick up their accent by the second drink
 answerHigh: find a conversation and follow its rhythm until you're part of it
@@ -38,11 +43,6 @@ rorschachHigh: a blob of dough slumping over its bowl
 rorschachMid: a loose cloud bunched against the sky
 rorschachLow: a knotted root gripping its lump of soil
 rorschachLeast: a fist of clay set hard and cracked
-facetMostTags: [fava, green, kidney]
-facetHighTags: [fava, green]
-facetMidTags: [fava, green]
-facetLowTags: [butter, mung]
-facetLeastTags: [butter, mung, black]
 ---
 
 Dashi Chickpea Beans are the Bean Zodiac's most adaptable — drop them at a strange table and by the second drink they're laughing at the in-joke as though they were there for the original. They pick up the room's vocabulary, take the corner the walk has rerouted to without sighing about it, and end the evening having met everyone without anyone quite catching when the introduction happened.

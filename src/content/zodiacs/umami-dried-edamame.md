@@ -6,6 +6,11 @@ form: dried
 trait: foundational
 dish: Hoshi edamame gohan - dried edamame and dried shiitake cooked into dashi rice.
 quote: Well-beaned is half done.
+creature: mammoth turtle
+friendlyBeans: [cannellini, navy]
+antiBeans: [mung, adzuki]
+friendlyForm: fried
+antiForm: roasted
 seasonalFortune: A season for what was steeped overnight. Houses run on the quiet labors begun before anyone was awake to notice them.
 fortuneMost: The whole house stands on the stock you set going before anyone woke. None of them will think to look down.
 fortuneMost2: Lay the groundwork no one will thank you for. You were never doing it for the thanks.
@@ -18,15 +23,15 @@ fortuneLow2: Hand the pot off before the grains have set and trust the next pair
 fortuneLeast: Let it fall this once. People only notice the floor when whoever held it up steps back — and you may finally be seen for it.
 fortuneLeast2: Live a while on what just flickers past, without asking what keeps the lights on. The lightness is allowed you, uneasy as it sits.
 facetMostTitle: Shiitake Soaked the Night Before
-facetMost: You finish the scaffolding others will stand on without ever seeing it.
+facetMost: Fire lit, water on, the whole day quietly underway before the first head pokes out of a tent — that's you at the messy campsite while everyone else sleeps in.
 facetHighTitle: Dashi on the Back of the Stove
-facetHigh: You stock the household against the week before the week asks anything of you.
+facetHigh: A storm's forecast for the weekend and nobody's worried yet. You're already filling jugs and checking the torch, so that when it hits there's nothing to scramble for.
 facetMidTitle: The Rinsed Grain
-facetMid: Small obligations cleared while they are still small.
+facetMid: That gate hinge has only just started to creak. Oil it now, you think — while it's a whisper and not yet a job — and you fetch the can.
 facetLowTitle: Steam Lifting Off
-facetLow: You leave the pot before the grains have set, trusting the next room to hold something brighter.
+facetLow: Halfway through building the float, you hand your half over and wander off to where the music is. Let someone else carry it home — you go find the brighter end of the night.
 facetLeastTitle: The Unsoaked Bean
-facetLeast: You live on what flickers across the screen, never asking what kept the lights on.
+facetLeast: The festival's lit up and roaring and you're right in it, never once wondering whose hands ran the cables or stacked the wood. You just enjoy the blaze.
 question: A project you did the underlying work on is being presented in a big meeting, and you notice your name has been left off the credits slide. You...
 answerMost: say nothing and let the slide go up the way it is
 answerHigh: drop a quiet word to the presenter afterwards, just for the next time
@@ -38,11 +43,6 @@ rorschachHigh: a tree stump anchoring its spread of roots
 rorschachMid: a loaf of bread with a torn crust
 rorschachLow: a jellyfish trailing its loose stinging threads
 rorschachLeast: a torn cloud unraveling at one ragged edge
-facetMostTags: [navy, butter, black]
-facetHighTags: [navy, butter]
-facetMidTags: [navy, butter]
-facetLowTags: [fava, green]
-facetLeastTags: [fava, green, kidney]
 ---
 
 Aged Edamame are the Bean Zodiac's most foundational — the soaked stock left on the back burner overnight that the next day's whole household is, without knowing it, built on. They draft the scaffolding the brighter names will stand on, stock the cupboard before the week asks anything of them, and slip out of the meeting before the credit gets handed around.

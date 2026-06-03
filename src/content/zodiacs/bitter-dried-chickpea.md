@@ -6,6 +6,11 @@ form: dried
 trait: circumspect
 dish: Ceci in Zimino - chickpeas with bitter chard.
 quote: Look before you bean.
+creature: pangolin
+friendlyBeans: [cannellini, green]
+antiBeans: [navy, mung]
+friendlyForm: smoked
+antiForm: boiled
 seasonalFortune: The dried bean keeps longer than the green leaf, and the circumspect kitchen lives by that arithmetic. Bitter chard waits in cold water; nothing is committed until the broth has spoken.
 fortuneMost: A question can soak past the point others call it done, and yours will. The bitterness leaves the chard on your schedule, no one else's.
 fortuneMost2: You find the question under the question, the way an owl finds the movement under the grass. The trap set for you this turn is one you'll see from the branch.
@@ -18,15 +23,15 @@ fortuneLow2: Caution will beg for one more rinse. Answer without it — the char
 fortuneLeast: Choose the thing you keep circling. The threshold is the only place you can really lose — and yes, the leap is colder than the soak.
 fortuneLeast2: Not every choice earns the long soak. Move on the thought as it lands; the world will catch up.
 facetMostTitle: Three Nights in the Soak
-facetMost: You let a question sit past the point others would call it answered, and the bitterness leaves the chard on your schedule alone.
+facetMost: A locksmith you never called knocks, saying a neighbour reported your door ajar. Chain still on, you ask which neighbour, which door, watching his face for the seam before the latch ever moves.
 facetHighTitle: Rinsed Twice
-facetHigh: The reply drafted at noon, sent at dusk — you let it cure before it goes.
+facetHigh: A handshake deal is on the table and the other party is keen to close. Something in the wording wants a second read, so you hold the pen and say you'll look it over.
 facetMidTitle: The Thumbed Chickpea
-facetMid: Among new company you taste the room — pressed, considered, returned to the pile. You name nothing until the second meeting.
+facetMid: New faces fill the gathering, and there's a pull to dive in. Instead you find a spot near the wall, watching who orbits whom before you offer your own name.
 facetLowTitle: Dropped in Cold Water
-facetLow: You answer fast and live with the answer; the chard sharpens you, it doesn't slow you.
+facetLow: A trail forks with no sign and the light's going. You pick the left path on a hunch and start walking, the not-knowing left behind you.
 facetLeastTitle: Chopped Before It's Washed
-facetLeast: You rearrange the room as the thought arrives, and the kitchen catches up to you.
+facetLeast: The idea lands and your hand's already up — yes, you're in, sign me on — committed out loud before any part of you has checked the footing, the leap taken on the spot.
 question: An invitation arrives for a weekend you're free. The host is a friend of a friend. You...
 answerMost: leave it open and watch what else comes in
 answerHigh: ask who else is going before replying
@@ -38,11 +43,6 @@ rorschachHigh: a wary cat perched above a ledge
 rorschachMid: a shrub rooted on a low mound
 rorschachLow: a diver tipping off a tall rock
 rorschachLeast: a bonfire leaping up from its logs
-facetMostTags: [cannellini, navy, black]
-facetHighTags: [cannellini, navy]
-facetMidTags: [cannellini, navy]
-facetLowTags: [green, fava]
-facetLeastTags: [green, edamame, fava]
 ---
 
 Desiccated Chickpeas are the Bean Zodiac's most circumspect — they read a room before they fully step into it, hang back the first evening to learn who's who, and rarely say a thing they'll later wish they could take back. Give them a decision and they'll find the question under the question; they are almost never the one who got played.

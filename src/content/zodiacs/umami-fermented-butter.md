@@ -6,6 +6,11 @@ form: fermented
 trait: reflective
 dish: Shiro ae - butter beans dressed in white miso, ground sesame, and tofu.
 quote: Who looks outside, dreams; who looks inside, finds a bean.
+creature: scops owl
+friendlyBeans: [adzuki, pinto]
+antiBeans: [kidney, edamame]
+friendlyForm: smoked
+antiForm: dried
 seasonalFortune: Miso slackens in its crock; the season favors what has been kept long enough to deepen.
 fortuneMost: An old remark is about to give up a meaning the speaker never knew was in it.
 fortuneMost2: A conversation you keep returning to finally releases what it was holding. The longer it steeps, the more it gives.
@@ -18,15 +23,15 @@ fortuneLow2: Hunger names itself and you eat — let a feeling work the same pla
 fortuneLeast: Fortune favours the closed book this turn. Let the old thing be over, unreread; prying it open again costs more than it returns.
 fortuneLeast2: When someone hands you their version of an old story, take it without digging underneath. The surface will itch at you; leave it be.
 facetMostTitle: Sesame, Ground Twice
-facetMost: You return to old conversations until they finally release their meaning.
+facetMost: A photograph falls out of a borrowed book — strangers on a beach, no date. You'll spend the evening inventing who they were and what came after.
 facetHighTitle: The Dissolving Draft
-facetHigh: You re-read every message before sending, and most you do not send.
+facetHigh: One thing a teacher said to you years ago still turns over in you, yielding a slightly different lesson each time you reach it.
 facetMidTitle: Tofu Under Weight
-facetMid: You sit with a room a long while before moving anything in it.
+facetMid: You've got the keys to the new flat and the movers are an hour out. You'd rather stand in the empty room learning its light than start unpacking.
 facetLowTitle: Beans at the Surface
-facetLow: Hunger names itself and you eat; the thought arrives later, if at all.
+facetLow: A goodbye stings at the gate. You feel it, name it, and let the next thing in the day take its place.
 facetLeastTitle: Salt at Its Level
-facetLeast: A friend asks what you make of last summer and you shrug — it was the summer it was, and the question has nowhere further to go.
+facetLeast: Someone reminisces about a trip you both took, gets a detail wrong, and you let it stand — the wrong version harms nothing.
 question: A conversation from last week keeps coming back to you. You...
 answerMost: turn it over again, find a new edge
 answerHigh: write down what you wish you'd said
@@ -38,11 +43,6 @@ rorschachHigh: an animal pelt pinned flat to dry
 rorschachMid: a wide moth resting open on bark
 rorschachLow: a stingray gliding off across the sand
 rorschachLeast: a kite torn loose and flung downwind
-facetMostTags: [mung, black, pinto]
-facetHighTags: [mung, black]
-facetMidTags: [mung, black]
-facetLowTags: [fava, green]
-facetLeastTags: [fava, edamame, green]
 ---
 
 Miso Butter Beans are the Bean Zodiac's most reflective — a remark made at lunch on Tuesday is still being unfolded on the walk home Sunday, and by then it has given up three meanings the speaker didn't know were in it. They live in the rich slow space where things keep yielding the longer you sit with them, and friends who go to them for advice come back with something they didn't know they were asking about.

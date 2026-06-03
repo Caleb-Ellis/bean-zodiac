@@ -6,6 +6,11 @@ form: fried
 trait: assertive
 dish: Cannellini fritto with bitter lemon and flat-leaf parsley.
 quote: Here I stand. I can bean no other.
+creature: ram
+friendlyBeans: [kidney, edamame]
+antiBeans: [butter, mung]
+friendlyForm: dried
+antiForm: smoked
 seasonalFortune: A season that rewards a crisped edge. The lemon cuts close to the rind, parsley laid down late, and what is said in the kitchen carries to the table without softening.
 fortuneMost: Lead with the real thing. The polite warm-up was only you clearing your throat.
 fortuneMost2: When the table is circling the same wrong maybe, your plain word cuts clean as lemon on the rind. Say it; you won't be walking it back.
@@ -18,15 +23,15 @@ fortuneLow2: Let the quarrel cool untouched a while. The patience grates against
 fortuneLeast: Concede the small one on purpose. It stings going down, but what you save by it spends better than the win ever would.
 fortuneLeast2: Some answers ripen for not being settled on the spot. The open question will itch — fair price, this time.
 facetMostTitle: Lemon at the Hot Oil
-facetMost: In a circle of murmured maybes, you name the thing plainly and do not walk it back.
+facetMost: The waiter brings the wrong dish and hovers, hoping you'll just take it. You say no, this isn't what I ordered, kindly and without flinching, and wait for the right one.
 facetHighTitle: The Crust in an Instant
-facetHigh: An apology owed is paid in the first sentence; you do not pad the front of the message with weather.
+facetHigh: A neighbour's hedge has crept a foot into your yard. You knock and name it straight — here's the line, here's where it's over — no long wind-up to soften the ask.
 facetMidTitle: Bitter Lemon, No Garnish
-facetMid: You reply in one line and do not soften it with a second.
+facetMid: Round and round goes a half-formed plan for the trip, no one landing it. Say your preference clearly, once, and then leave the door open for someone to push back.
 facetLowTitle: Oil, Just Below Smoke
-facetLow: You let a quarrel cool overnight before you touch it, and the morning version is the one worth keeping.
+facetLow: Long way round, and the cab driver knows you know. It's a small fare. Not worth a scene — you just pay it, watching the meter, saying nothing.
 facetLeastTitle: Parsley, No Pattern
-facetLeast: You answer in maybes and leave the question open a day longer; the answer ripens better for the wait.
+facetLeast: Everyone wants you to settle the argument and take a side. You won't — you talk around it, find what's right in both, and let the room stay undecided rather than draw the line.
 question: Someone proposes a plan you think is mildly wrong, and the table is nodding along. You...
 answerMost: say it's the wrong plan and say why, in one line
 answerHigh: name your objection clearly and let it sit
@@ -38,11 +43,6 @@ rorschachHigh: an oak holding its ground in wind
 rorschachMid: a toadstool with a wide low cap
 rorschachLow: a willow drooping over the water
 rorschachLeast: a melting snowman sliding off its base
-facetMostTags: [kidney, fava, edamame]
-facetHighTags: [kidney, fava]
-facetMidTags: [kidney, fava]
-facetLowTags: [butter, edamame]
-facetLeastTags: [butter, black, edamame]
 ---
 
 Scorched Cannellini Beans are the Bean Zodiac's most assertive. In a circle of murmured maybes, one of these Beans will name the thing plainly and not walk it back; the apology is paid in the first sentence, the answer is one clean line with no weather padded onto the front. There's a real ease in being near someone who simply says what they think.

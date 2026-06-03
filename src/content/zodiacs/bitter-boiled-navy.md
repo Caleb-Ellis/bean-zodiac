@@ -6,6 +6,11 @@ form: boiled
 trait: dogmatic
 dish: Navy bean and escarole soup.
 quote: A bean convinced against his will is of the same opinion still.
+creature: donkey
+friendlyBeans: [butter, edamame]
+antiBeans: [chickpea, green]
+friendlyForm: dried
+antiForm: fermented
 seasonalFortune: Small white beans, sorted once, simmered the way they were last winter and the winter before. The escarole bitters into the broth on schedule.
 fortuneMost: Hold the line everyone else is leaning against. You've done the thinking; let your yes mean yes.
 fortuneMost2: The question you won't entertain twice is coming around again, and you'll answer it the same. People lean on that more than they ever say.
@@ -18,15 +23,15 @@ fortuneLow2: Register the dissent, then go along. Standing your ground costs som
 fortuneLeast: Walk in with no agenda and let the system sit in the car. Hold three contradictory positions at once and find each one persuasive in turn.
 fortuneLeast2: A better argument is on its way. Switch sides the moment it lands, and don't mourn the old position too long.
 facetMostTitle: The Eleventh Minute
-facetMost: You decline the dinner invitation; you have already eaten at seven for nine years.
+facetMost: Past midnight the festival's still roaring and the whole street is begging you to stay. Home at your usual hour all the same, lantern swinging, exactly as you've done for years.
 facetHighTitle: The Same-Salted Broth
-facetHigh: Friends learn which questions you will not entertain twice; they ask anyway, and you answer the same.
+facetHigh: Round the campfire the argument turns and the crowd swings against you. Say the principle once, plainly, and plant your feet on it while they wander off the ground you're keeping.
 facetMidTitle: The Lid Tilted Exactly
-facetMid: You reread the contract clause before signing, though you wrote it.
+facetMid: One of your own rules is about to settle a real dispute right in front of you. First you hold the case up against it — and where the case won't fit unless you bend it, you start to suspect the rule is what wants trimming.
 facetLowTitle: Escarole in Whatever's Warm
-facetLow: You change your mind in the middle of the sentence and finish the new thought instead.
+facetLow: You're halfway through defending a position when a sharper thought arrives and quietly demolishes it. Down goes your own line, the new one finished aloud instead.
 facetLeastTitle: Whatever the Cupboard Offered
-facetLeast: You hold three contradictory positions on the same week and find each one persuasive in turn.
+facetLeast: Up the table at the long supper, three guests argue three sides of one thing. You nod along to each in turn, won over by whoever just spoke, moored to none of them.
 question: The group is voting on a plan you have firm opinions about, and the room is leaning the other way. You...
 answerMost: state your position once more, plainly, and vote your way
 answerHigh: argue the case until you've been clearly heard
@@ -38,11 +43,6 @@ rorschachHigh: an anvil squared off and set on the ground
 rorschachMid: a blocky chunk of rock, one chip beside it
 rorschachLow: a lump of clay starting to slump out of shape
 rorschachLeast: a cloud reshaping, one piece torn off and drifting
-facetMostTags: [cannellini, black, pinto]
-facetHighTags: [cannellini, black]
-facetMidTags: [cannellini, black]
-facetLowTags: [fava, edamame]
-facetLeastTags: [fava, edamame, green]
 ---
 
 Infused Navy Beans are the Bean Zodiac's most dogmatic — the one who runs their life on tested principle and won't be talked out of it by the mood of the room. They've done the thinking, they hold the line, and there's real relief in dealing with someone whose yes means yes; you always know where they stand, and they stand there whether or not it's convenient. People rely on that fixedness more than they admit.

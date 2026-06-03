@@ -6,6 +6,11 @@ form: smoked
 trait: barbed
 dish: Cazuela de alubias - Castilian white bean stew with smoked chorizo and pimentón ahumado.
 quote: Out of the frying bean and into the fire.
+creature: porcupine
+friendlyBeans: [black, edamame]
+antiBeans: [adzuki, chickpea]
+friendlyForm: dried
+antiForm: roasted
 seasonalFortune: Pimentón hangs in cold air; the cazuela darkens at the rim. Days arrive sharpened by smoke, and what cannot keep its shape will be named for what it lacks.
 fortuneMost: Chorizo cuts clean through the whole cazuela — one note, no apology. Name the load-bearing thing the same way and watch everything rearrange around it.
 fortuneMost2: Say the figure flat. Whoever flinches was going to flinch anyway.
@@ -18,15 +23,15 @@ fortuneLow2: Let the small thing stand — the unmade bed, the plate where the g
 fortuneLeast: Lead with the soft hill, not the thorn. The tease that lands harder than you meant has a cousin waiting — head it off while the friend's still easy with you.
 fortuneLeast2: Tell them you love it and mean every word. Blunt the blade for the people who never needed your knife.
 facetMostTitle: Chorizo's Clean Ring
-facetMost: Drafts you send back come trimmed to the line that does the work, every softer sentence gone.
+facetMost: Handed a rambling wedding toast to help with, you find the one sentence that carries the whole thing and strike everything that isn't it.
 facetHighTitle: Smoke Through the Seam
-facetHigh: Asked for a price, you give the figure flat — no padding, no apology in the silence after.
+facetHigh: The haggler at the market keeps circling for a discount. You name your number once and let the silence after it do the rest.
 facetMidTitle: The Bean Split Open
-facetMid: In a room of acquaintances you are the one whose remark lands, and is remembered past the night.
+facetMid: When the tour guide opens the floor, the sharp question nobody else thought to ask is already on your lips, and the whole group turns to hear it.
 facetLowTitle: Fat Settled Back
-facetLow: Your house runs on letting things stand — wilted greens, an unmade bed, a guest's plate left where they put it.
+facetLow: A nervous kid shows you the birdhouse they built crooked. You leave the crooked alone and praise the one joint they nailed, even with the better fix right there on your tongue.
 facetLeastTitle: Pimentón Clouding Even
-facetLeast: Notifications stack in your tabs untouched for weeks, each one as worth opening as the next.
+facetLeast: That casserole is plainly the worst thing on the potluck table — and you take a generous scoop, look its maker in the eye, and call it wonderful.
 question: A friend shows you the first draft of something they're proud of. You...
 answerMost: name the weakest line by sentence and offer the fix
 answerHigh: praise the strong bit and flag two things to tighten
@@ -38,11 +43,6 @@ rorschachHigh: two rocks, one hooked into a thorn
 rorschachMid: a pair of antlers branching apart
 rorschachLow: two cushions slumped against each other
 rorschachLeast: two soft hills worn smooth by rain
-facetMostTags: [edamame, black, navy]
-facetHighTags: [edamame, black]
-facetMidTags: [edamame, black]
-facetLowTags: [fava, edamame]
-facetLeastTags: [fava, edamame, green]
 ---
 
 Chipotle Cannellini Beans are the Bean Zodiac's most barbed — the line you remember from a dinner six months ago was probably theirs. They edit the group chat down to its load-bearing sentence and the joke gets funnier. They name the thing in the meeting that everyone could feel but no one had words for, and the rest of the call rearranges around it.

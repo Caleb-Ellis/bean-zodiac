@@ -6,6 +6,11 @@ form: fermented
 trait: visionary
 dish: Fave dolci al Marsala — fava beans braised in sweet Marsala wine with sugar and lemon until the liquid becomes a syrup.
 quote: The bean is not to predict the future but to imagine it.
+creature: bald eagle
+friendlyBeans: [chickpea, kidney]
+antiBeans: [cannellini, navy]
+friendlyForm: fried
+antiForm: dried
 seasonalFortune: Marsala deepens in the crock; sugar and lemon bind to something the cook glimpsed weeks back. The season favours those whose private syrups now turn legible on the spoon.
 fortuneMost: Draw the future rough and slide it across to someone. The napkin sketch carries what a careful presentation never could.
 fortuneMost2: You'll hear the hinge turn before anyone else in the room. Name what it's becoming — you're usually right, and they catch up.
@@ -18,15 +23,15 @@ fortuneLow2: Meet the hour as it lands, no forecast required. Tonight asks nothi
 fortuneLeast: Look up from the map. The street changed while you were reading it, and the place you wanted is the one that's actually there now.
 fortuneLeast2: Read the weather out the window, not the long forecast above the sink. Some days only ask what's outside — even when your eyes keep drifting to the distance.
 facetMostTitle: The Jar Set in Spring
-facetMost: You name what the room is becoming before anyone else hears the hinge.
+facetMost: A boarded-up corner shop comes up for nothing and everyone walks past it as a ruin. You can see the whole decade it becomes, lit and full, and you're already telling the agent yes.
 facetHighTitle: Lemon Peel in the Marsala
-facetHigh: You move furniture in a room your friends have not yet entered.
+facetHigh: A cousin half-mentions a wild idea and gives up on it in the same breath. You catch the thread and start spinning it out loud — where it goes in three years, who it pulls in, what it costs.
 facetMidTitle: Syrup Thickening to Colour
-facetMid: You stay at the stove because you can already taste where it ends.
+facetMid: A long, dull stretch of work sits between you and the thing nobody can taste yet but you. The stove stays lit because the ending's already vivid on your tongue.
 facetLowTitle: Marsala, Tonight
-facetLow: You meet the hour as it arrives, untroubled by what next week's pantry might hold.
+facetLow: A friend across the table is mid-story and your mind keeps slipping three moves down the road. You drag it back to their face and leave next week to look after itself.
 facetLeastTitle: Sugar From the Bag
-facetLeast: You read the weather out the window, not the long forecast pinned above the sink.
+facetLeast: Picnic plans hinge on whether it'll rain, and there's the actual sky right there. Go by the clouds overhead, not the ten-day prophecy you'd usually consult.
 question: You're walking through a half-empty street and you can already see, plainly, what it'll be in five years. A friend beside you cannot. You...
 answerMost: stop on the corner and walk them through it, building by building, until they see it too
 answerHigh: describe one piece of it and watch whether they pick it up
@@ -38,11 +43,6 @@ rorschachHigh: a kite tilted and pulling hard for the sky
 rorschachMid: a smooth river stone tapering to a point
 rorschachLow: an anchor settled flat on the seabed
 rorschachLeast: a doorstop wedged hard against the jamb
-facetMostTags: [pinto, green, adzuki]
-facetHighTags: [pinto, green]
-facetMidTags: [pinto, green]
-facetLowTags: [butter, mung]
-facetLeastTags: [butter, mung, black]
 ---
 
 Funky Fava Beans are the Bean Zodiac's most visionary — the ones who walk into a half-finished room and describe the dinner that'll happen there in two years as if it's already on the calendar. The picture is detailed, generous, and almost always right. Years later you'll look around and realize you're inside the room they were standing in alone.

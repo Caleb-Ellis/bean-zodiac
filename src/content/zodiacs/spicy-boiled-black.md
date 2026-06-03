@@ -6,6 +6,11 @@ form: boiled
 trait: gritty
 dish: Sopa de frijoles negros - black bean soup with chipotle and smoked epazote.
 quote: It does not matter how slowly you go as long as you do not bean.
+creature: warthog
+friendlyBeans: [navy, mung]
+antiBeans: [chickpea, adzuki]
+friendlyForm: smoked
+antiForm: fermented
 seasonalFortune: A season for the long simmer. Chipotle smoke settles into the rafters and stays; what is started in these months keeps its heat into the next.
 fortuneMost: The thing that wore everyone else down was built to your measure. They'll turn to see if you're still standing — you are.
 fortuneMost2: Hands that have broken lesser work. This one comes out the far side harder, not softer.
@@ -18,15 +23,15 @@ fortuneLow2: A long argument drifts off mid-sentence, like smoke out an open win
 fortuneLeast: The pot's been on the fire long enough. Lift it off, repaint the hallway, start something with no scars on it yet.
 fortuneLeast2: Quitting one thing isn't the same as giving up — but it'll feel that way for an hour. Sit through that hour, then let it go.
 facetMostTitle: Smoke in the Beam
-facetMost: The draft begun two years ago still sits on the desk. You return to it Sunday after Sunday, the same draft, sharpening.
+facetMost: Quitting isn't in you. The whole league's folded and the season's a write-off, and you still show up to every practice.
 facetHighTitle: The Chipotle's Slow Yield
-facetHigh: The charge on your card is wrong; six weeks later you are still on the phone, still polite, still not done.
+facetHigh: A knot in the rope won't give. Your fingers ache and the light's going, and still you work it strand by strand.
 facetMidTitle: Epazote Past the Hour
-facetMid: You walk the last mile of a bad day on the same legs that started it, and you do not sit down until the door is locked behind you.
+facetMid: Eight hours on your feet and the kitchen's finally clearing. The stool's right there, but you stay standing till the last pan's dry.
 facetLowTitle: The Uncovered Pot
-facetLow: A long argument with a stranger drifts away mid-sentence; you let it go and find by morning that nothing in the room is worse for it.
+facetLow: The puzzle's one piece short and you've upended the box twice. Leave the gap, call it close enough, sweep the rest back in.
 facetLeastTitle: The New Bowl
-facetLeast: You move the couch, repaint the hallway, swap the lamps — the room asks to be remade and you oblige before the impulse cools.
+facetLeast: A book's dragged for a hundred pages with no sign of turning good. You shelve it half-read and reach for a different one.
 question: The charge on your card is wrong by twelve dollars. The hold music has been going for forty minutes. You...
 answerMost: stay on, polite, until someone fixes it — however long that takes
 answerHigh: hold another twenty, then call back tomorrow if it drops
@@ -38,11 +43,6 @@ rorschachHigh: a rusted anchor with two hooked flukes
 rorschachMid: a crow with one ragged wing spread
 rorschachLow: a paper kite trailing its loose tails
 rorschachLeast: a swallow gliding with wings barely beating
-facetMostTags: [kidney, green, fava]
-facetHighTags: [kidney, green]
-facetMidTags: [kidney, green]
-facetLowTags: [butter, mung]
-facetLeastTags: [butter, mung, pinto]
 ---
 
 Braised Black Beans are the Bean Zodiac's grittiest — the ones who outlast the hold music, the bad week, the project everyone else quietly walked away from. They finish things on the same legs that started them, and a room full of people giving up will turn, eventually, to see whether they have. They haven't.
