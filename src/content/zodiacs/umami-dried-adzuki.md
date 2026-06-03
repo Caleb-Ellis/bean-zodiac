@@ -13,15 +13,15 @@ friendlyForm: boiled
 antiForm: smoked
 seasonalFortune: A season for the long simmer, when the dried bean drinks dashi and gives back salt. Households tend toward the small ceremony — a folded cloth, a bowl set down with both hands.
 fortuneMost: You warm the cups no one asked you to warm, and no one will see you do it.
-fortuneMost2: A long simmer is coming — something you'll tend slowly, with both hands, and give back richer than you found it.
+fortuneMost2: A long simmer is coming — something you'll tend slowly, with both hands.
 fortuneHigh: Leave the gift wrapped a while longer. The edges keep.
-fortuneHigh2: A pause sits well on you. The weight you give a moment by holding still is felt by everyone in it.
+fortuneHigh2: A pause sits well on you.
 fortuneMid: The day you keep meaning to mark won't wait forever to be raised properly. Walk toward it.
-fortuneMid2: Step outside before the others wake and let the quiet settle around you. You meet a morning best before it fills.
-fortuneLow: A friend on the doorstep didn't come for the good mugs. Answer barefoot — the unswept floor is part of the welcome, though it'll cost you a small flinch.
+fortuneMid2: Step outside before the others wake and let the quiet settle around you.
+fortuneLow: A friend on the doorstep didn't come for the good mugs. Answer barefoot.
 fortuneLow2: Send the wish plainly. It won't feel like enough to you, and it will be plenty to them.
-fortuneLeast: Hand them the beans straight from the bag and just begin. The rite can wait; the evening can't, much as you'd rather fold it twice first.
-fortuneLeast2: A chipped mug holds as much warmth as any ceremony — a thing you only half-believe, worth believing tonight.
+fortuneLeast: Hand them the beans straight from the bag and just begin.
+fortuneLeast2: A chipped mug holds as much warmth as any ceremony.
 facetMostTitle: The Dashi Before the Guests
 facetMost: Add the salt last, the old recipe says, and stir one way only. No one is in the kitchen to see — and still you keep the order exactly.
 facetHighTitle: Kombu on the Counter

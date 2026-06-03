@@ -12,16 +12,16 @@ antiBeans: [black, edamame]
 friendlyForm: fried
 antiForm: dried
 seasonalFortune: A season of long roasts and pared peels. Cacao is grated in thin curls; nothing comes to the table half-finished, and the kitchen keeps its own quiet standard.
-fortuneMost: The curls of peel come off your knife all the same length. Nobody asked. You'd know if one didn't.
-fortuneMost2: The bowl you finished to the last clean curl is the one they'll remember. Nothing else on the table was tended like that.
+fortuneMost: The curls of peel come off your knife all the same length.
+fortuneMost2: The bowl you finished to the last clean curl is the one they'll remember.
 fortuneHigh: You catch the flaw a breath before anyone, and your hand is already moving to mend it.
-fortuneHigh2: The thing you've smoothed and resmoothed finds its place this turn. A long patience comes good.
-fortuneMid: A crooked curl of peel changes nothing about how the soup tastes. Most tables aren't grading the garnish.
-fortuneMid2: Straighten the one cushion that nags at you and walk past the rest. They were holding the room up fine without your hands.
-fortuneLow: Arrive in the apron you cooked in. The stain is proof you were in it — wear it out the door, though your thumb itches to rub it away.
-fortuneLow2: The thing you sent out unsanded comes back loved anyway. Turns out the edge was never the part anyone was looking at.
-fortuneLeast: Out past the tidy garden a wind is coming to scatter what you arranged so carefully. The mess it leaves is the night you'll keep — hard as it is to drop your hands and let it.
-fortuneLeast2: Same shirt as yesterday, hair uncombed, and somehow the morning still splits open like an orange — fragrance first, the order never missed at all.
+fortuneHigh2: The thing you've smoothed and resmoothed finds its place this turn.
+fortuneMid: A crooked curl of peel changes nothing about how the soup tastes.
+fortuneMid2: Straighten the one cushion that nags at you and walk past the rest.
+fortuneLow: Arrive in the apron you cooked in.
+fortuneLow2: The thing you sent out unsanded comes back loved anyway.
+fortuneLeast: Out past the tidy garden a wind is coming to scatter what you arranged so carefully.
+fortuneLeast2: Same shirt as yesterday, hair uncombed, and somehow the morning still splits open like an orange.
 facetMostTitle: The Unbroken Coil
 facetMost: A photo of the gift before you wrap it, so the bow lands centered and the paper has no overlap you'd later spot.
 facetHighTitle: Cacao at Translucence

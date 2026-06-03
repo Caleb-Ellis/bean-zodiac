@@ -12,16 +12,16 @@ antiBeans: [navy, edamame]
 friendlyForm: roasted
 antiForm: dried
 seasonalFortune: A crock that has waited all winter begins to push against its weight. The season belongs to those whose long-kept things are ready to enter rooms.
-fortuneMost: The crooked thing you've been fermenting in the dark is ready. Tip it in offhand and watch the table tilt toward it.
-fortuneMost2: Drop the half-sentence and walk to the window. By the time they've untangled it, you'll be thinking about the next one.
-fortuneHigh: The gentler version flinches; the true one stings going down. You already know which you'd rather hand over.
-fortuneHigh2: A jar sealed too long is about to hiss. Stand close — the air clears in your favour.
+fortuneMost: The crooked thing you've been fermenting in the dark is ready.
+fortuneMost2: Drop the half-sentence and walk to the window.
+fortuneHigh: The gentler version flinches; the true one stings going down.
+fortuneHigh2: A jar sealed too long is about to hiss. Stand close.
 fortuneMid: Bring the sour on purpose. The dish needs it, and so does the company.
 fortuneMid2: An old quarrel circles back like weather off the hills. You're the gust that moves the stale air.
-fortuneLow: Some coals finish the stew untended. Step back, even though your fingers will itch toward the spoon.
-fortuneLow2: Not every quiet wants disturbing. Leaving the lid on costs you the fun — the calm is worth more than the fun.
-fortuneLeast: Take the heat out and hand back something milder. It feels like losing; it lands as trust.
-fortuneLeast2: Be like tofu in broth, soft against your own grain. The room exhales, and that exhale is for you.
+fortuneLow: Some coals finish the stew untended. Step back.
+fortuneLow2: Not every quiet wants disturbing. Leaving the lid on costs you the fun.
+fortuneLeast: Take the heat out and hand back something milder.
+fortuneLeast2: Be like tofu in broth, soft against your own grain.
 facetMostTitle: Still Bubbling at the Door
 facetMost: Everyone at the long table is nodding the same nod, agreeable and half-asleep. Say the thing that stops the nodding.
 facetHighTitle: Doenjang Cracked Open

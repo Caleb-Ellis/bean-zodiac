@@ -12,16 +12,16 @@ antiBeans: [navy, mung]
 friendlyForm: fermented
 antiForm: smoked
 seasonalFortune: A season of blistered skins and honey pooled in the cracks. The kitchen runs warm and uncovered; what is meant gets said before the pan cools.
-fortuneMost: Begin the hard sentence first and let everyone else arrive into the heat you started. You're built to say the meant thing out loud.
-fortuneMost2: The crack comes before the flavour with you. Say plainly which parts you disagree with, and let the talk do what it does.
-fortuneHigh: A compliment you've sat on for months — say it straight, full sentences, no "btw." The warm thing splits open better than it keeps.
-fortuneHigh2: You name what nobody else will and a held breath finally goes out. The relief was always the plainness, never the rudeness.
-fortuneMid: Raise the hard topic early, while everyone's still clear, before the evening goes soft. No perfect moment is coming — start it.
-fortuneMid2: Agree with the bits that hold, let the rest pass. Not every weak premise needs your thumb on it.
-fortuneLow: Draft it sharp, taste it cold, send only what survives the night. Honey in the fracture isn't silence — though waiting will feel like swallowing it.
-fortuneLow2: Ask the question instead of stating the disagreement, and let them walk it back themselves. The clear thing can arrive sideways.
-fortuneLeast: Listen a long while. Then one warm sentence, and stop. Going quiet with so much loaded costs you — let the pan stay full and unsaid anyway.
-fortuneLeast2: The wrong order, the small correction, the gripe nobody asked for. Let one go. Walk out lighter than the table you didn't fix.
+fortuneMost: Begin the hard sentence first and let everyone else arrive into the heat you started.
+fortuneMost2: The crack comes before the flavour with you.
+fortuneHigh: A compliment you've sat on for months — say it straight, full sentences, no "btw."
+fortuneHigh2: You name what nobody else will and a held breath finally goes out.
+fortuneMid: Raise the hard topic early, while everyone's still clear, before the evening goes soft.
+fortuneMid2: Agree with the bits that hold, let the rest pass.
+fortuneLow: Draft it sharp, taste it cold, send only what survives the night.
+fortuneLow2: Ask the question instead of stating the disagreement, and let them walk it back themselves.
+fortuneLeast: Listen a long while.
+fortuneLeast2: Let one go.
 facetMostTitle: Crackle Before Flavour
 facetMost: The tour guide gets a fact flat wrong and the group nods along. Your hand is already up to say so, right there in front of everyone.
 facetHighTitle: Skin Splitting Under Heat

@@ -12,16 +12,16 @@ antiBeans: [chickpea, green]
 friendlyForm: dried
 antiForm: fermented
 seasonalFortune: Small white beans, sorted once, simmered the way they were last winter and the winter before. The escarole bitters into the broth on schedule.
-fortuneMost: Hold the line everyone else is leaning against. You've done the thinking; let your yes mean yes.
-fortuneMost2: The question you won't entertain twice is coming around again, and you'll answer it the same. People lean on that more than they ever say.
+fortuneMost: Hold the line everyone else is leaning against.
+fortuneMost2: The question you won't entertain twice is coming around again, and you'll answer it the same.
 fortuneHigh: State the principle once, plainly, and stand there.
-fortuneHigh2: Argue the case until you've been clearly heard, then vote your way. The ground is no less yours for the crowd drifting off it.
-fortuneMid: Test the rule against the case before you cite it. If you have to twist the case to fit, the rule is the thing that wants trimming.
-fortuneMid2: Look the clause over again before you commit, even one you wrote yourself. The principle is worth keeping; check it still earns the salt it asks for.
-fortuneLow: Grant the exception openly. Change your mind mid-sentence if the new thought is better — quietly bending a rule you still invoke is the worst of both honesties.
-fortuneLow2: Register the dissent, then go along. Standing your ground costs something; spend it where the ground is worth it.
-fortuneLeast: Walk in with no agenda and let the system sit in the car. Hold three contradictory positions at once and find each one persuasive in turn.
-fortuneLeast2: A better argument is on its way. Switch sides the moment it lands, and don't mourn the old position too long.
+fortuneHigh2: Argue the case until you've been clearly heard, then vote your way.
+fortuneMid: Test the rule against the case before you cite it.
+fortuneMid2: Look the clause over again before you commit, even one you wrote yourself.
+fortuneLow: Grant the exception openly.
+fortuneLow2: Register the dissent, then go along.
+fortuneLeast: Walk in with no agenda and let the system sit in the car.
+fortuneLeast2: A better argument is on its way.
 facetMostTitle: The Eleventh Minute
 facetMost: Past midnight the festival's still roaring and the whole street is begging you to stay. Home at your usual hour all the same, lantern swinging, exactly as you've done for years.
 facetHighTitle: The Same-Salted Broth

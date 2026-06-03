@@ -12,16 +12,16 @@ antiBeans: [kidney, navy]
 friendlyForm: fermented
 antiForm: boiled
 seasonalFortune: Lard renders at its own pace, indifferent to the pan; the bitter chile darkens for no one's benefit but its own. A season spent perfecting a single reflection.
-fortuneMost: A day that's been about you since the fat hit the pan is yours to enjoy with no apology. Take the seat facing the mirror and mean it.
-fortuneMost2: You render at your own pace, indifferent to the pan, and the world is content to let you. The chile darkens for no one's good but its own, and that's allowed.
-fortuneHigh: Study your own markings as long as you like — then set the glass down and look up before the next meal. Both are yours, in that order.
-fortuneHigh2: The confidence others borrow just by standing near you is real and working. The only watch to keep is for the talk curving back to your shape before you've noticed.
+fortuneMost: A day that's been about you since the fat hit the pan is yours to enjoy with no apology.
+fortuneMost2: You render at your own pace, indifferent to the pan, and the world is content to let you.
+fortuneHigh: Study your own markings as long as you like — then set the glass down and look up before the next meal.
+fortuneHigh2: The confidence others borrow just by standing near you is real and working.
 fortuneMid: A story about yourself is already half out of your mouth. Catch it by the second sentence and ask the other one something real instead.
-fortuneMid2: Offer the parallel from your own week, then hand the conversation back. The bowl isn't only yours to fill.
-fortuneLow: A friend whose name keeps sliding past you has been the audience for months. Reach out and make them the subject — though turning the glass off yourself feels like a loss going in.
-fortuneLow2: Put someone else's name on the finished thing without flinching. The credit was never the meal, hard as the handing-over is.
-fortuneLeast: A stranger is coming whose day deserves more of your attention than your own does. Give the gift they'd choose for themselves, not the one that points back at you — costly as that quiet feels.
-fortuneLeast2: Ask the follow-up, and don't once turn it back to yourself. Your full attention is the warmest thing you can pass across the table, even when it leaves you unseen.
+fortuneMid2: Offer the parallel from your own week, then hand the conversation back.
+fortuneLow: A friend whose name keeps sliding past you has been the audience for months.
+fortuneLow2: Put someone else's name on the finished thing without flinching.
+fortuneLeast: A stranger is coming whose day deserves more of your attention than your own does.
+fortuneLeast2: Ask the follow-up, and don't once turn it back to yourself.
 facetMostTitle: The Bean Pressed Flat
 facetMost: A friend's holiday photos come up on the screen and within two slides you're telling the better version of the same trip you took years back.
 facetHighTitle: Skillet Hot, Fat Fragrant

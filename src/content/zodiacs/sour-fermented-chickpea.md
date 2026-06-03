@@ -12,16 +12,16 @@ antiBeans: [navy, butter]
 friendlyForm: smoked
 antiForm: dried
 seasonalFortune: The brine has been thinking in the dark. What it returns is sharper than the chickpea that went in, and quicker to answer.
-fortuneMost: You've been quietly right on your own long enough. Unfold it and walk someone through it; the answer travels twice as far once they've watched it built.
-fortuneMost2: A solve lands in you three steps ahead of everyone. Hand over the whole thread this time, not the single slice they asked for. The working was always the better gift.
-fortuneHigh: The question that lets someone arrive at the answer you already hold is the cleverest move you own. They grip it harder for having found it, and you lose nothing.
-fortuneHigh2: Two of the errands are secretly one trip. An hour you thought was spent is about to come back to you, sitting in plain sight, waiting on the look you give everything.
-fortuneMid: A stuck thing turns on the right word, not the right tone. Phrase it as a plain request instead of a complaint and the jammed door opens on the second try.
-fortuneMid2: The answer doesn't need dressing up as a guess. Set it down bare and let the others catch up.
-fortuneLow: The clever detour is a tax you keep volunteering to pay. Take the dull road the signs actually point at; you'll miss the thrill of the shortcut and arrive first more often than your pride admits.
-fortuneLow2: There's a real ease in not rerouting yourself around every supposed shortcut. You'll mourn the private satisfaction of having outwitted the map — and you'll get home sooner.
-fortuneLeast: Buy the obvious thing at the obvious price. The angle you'd work to shave the discount costs more than it saves, even if walking past it feels like leaving coins on the counter.
-fortuneLeast2: Some days a jar is only a jar. No second use, no folded-away trick, what it holds is what it holds.
+fortuneMost: You've been quietly right on your own long enough.
+fortuneMost2: A solve lands in you three steps ahead of everyone.
+fortuneHigh: The question that lets someone arrive at the answer you already hold is the cleverest move you own.
+fortuneHigh2: Two of the errands are secretly one trip.
+fortuneMid: A stuck thing turns on the right word, not the right tone.
+fortuneMid2: The answer doesn't need dressing up as a guess.
+fortuneLow: The clever detour is a tax you keep volunteering to pay.
+fortuneLow2: There's a real ease in not rerouting yourself around every supposed shortcut.
+fortuneLeast: Buy the obvious thing at the obvious price.
+fortuneLeast2: Some days a jar is only a jar.
 facetMostTitle: The Tamarind Seam
 facetMost: A heavy wardrobe won't fit through the doorway and four people are sweating at it. The geometry of the turn arrives whole in your head before anyone's measured a thing.
 facetHighTitle: Chaat Masala, Every Tab

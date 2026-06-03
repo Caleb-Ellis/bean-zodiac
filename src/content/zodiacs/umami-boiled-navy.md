@@ -12,16 +12,16 @@ antiBeans: [chickpea, pinto]
 friendlyForm: dried
 antiForm: fermented
 seasonalFortune: A season in which the hock gives up its salt slowly, and the small corrections — a leaf pulled, a skin lifted — set the shape of the pot.
-fortuneMost: Make the correction. The one person who'll thank you for getting it exactly right is the audience you were doing it for.
-fortuneMost2: A small thing you set precisely true is about to matter to someone who'll never know it was you. The seam holds because you found it.
-fortuneHigh: Spot the small wrong thing and mention it quietly, to one person, not the whole room. The fix can stay discreet.
-fortuneHigh2: The crooked frame in someone else's house, straightened before you sit. Do it lightly, then let the visit just be the visit.
-fortuneMid: Three small wrongnesses are nagging at you. Fix one, let the other two live — the fix-budget is a real budget.
-fortuneMid2: Halfway through one thing, the pull to go reorder another. Finish what's in front of you; the tidying keeps.
-fortuneLow: Right about the fix, and right that no one else will care. Leave it crooked and spend the hour on something better, even as the unfixed edge pricks at you.
-fortuneLow2: Sign it without combing the middle paragraph. The day runs fine on the parts you didn't audit — though not auditing them will feel like walking past an open drawer.
-fortuneLeast: Cross to the far side of the room and look back at what you've been straightening. The whole held up without the polish, and the polish was for you.
-fortuneLeast2: Answer things in the order they catch your eye for once. Nothing suffers from the missing system, even if the disorder hums at you all day.
+fortuneMost: Make the correction.
+fortuneMost2: A small thing you set precisely true is about to matter to someone who'll never know it was you.
+fortuneHigh: Spot the small wrong thing and mention it quietly, to one person, not the whole room.
+fortuneHigh2: The crooked frame in someone else's house, straightened before you sit.
+fortuneMid: Three small wrongnesses are nagging at you.
+fortuneMid2: Halfway through one thing, the pull to go reorder another.
+fortuneLow: Right about the fix, and right that no one else will care.
+fortuneLow2: Sign it without combing the middle paragraph.
+fortuneLeast: Cross to the far side of the room and look back at what you've been straightening.
+fortuneLeast2: Answer things in the order they catch your eye for once.
 facetMostTitle: The Seam, Not the Side
 facetMost: A museum placard has the wrong date and the gallery's nearly empty. You track down an attendant to point it out, because someone, somewhere, will read it and deserve it right.
 facetHighTitle: Celery Finer Than Asked

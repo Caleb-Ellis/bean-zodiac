@@ -12,16 +12,16 @@ antiBeans: [mung, butter]
 friendlyForm: fried
 antiForm: fermented
 seasonalFortune: A long simmer salts the year for this one; chili oil collects on the surface of every month, and the pod gives only to a steady hand.
-fortuneMost: Knock the worst thing off the list before the coffee's even cool. The whole day bends around what you finished first.
-fortuneMost2: The head start is the thing you do best, and it's about to pay. You'll be at the second pot before anyone's rubbed their eyes.
-fortuneHigh: Effort you've been pouring out quietly is about to be seen by the right person. The reduction was worth the long heat.
-fortuneHigh2: Someone always ferries the bowls past their own seat, and it's always you. They notice more than they say — that ledger settles soon.
-fortuneMid: Give the task a hard edge to stop at. If it isn't shaped by then, it's the wrong task, not a longer one.
-fortuneMid2: Come back to it in pieces, salting it with small fixes, and close it only when the broth's reduced. Steady takes this one.
-fortuneLow: The answer you're grinding for is through a different door entirely. Walk out with no destination and let the road hand it to you.
-fortuneLow2: Step over the unfinished thing and take the long walk anyway. The kitchen waits fine without you — trust that, even when it itches.
-fortuneLeast: Cancel the thing you'd only attend out of grim duty. The resentment never gets to start — though the no will sting going down.
-fortuneLeast2: Bed early, work half-done. The body keeps a ledger too, and its vote outweighs the colander's.
+fortuneMost: Knock the worst thing off the list before the coffee's even cool.
+fortuneMost2: The head start is the thing you do best, and it's about to pay.
+fortuneHigh: Effort you've been pouring out quietly is about to be seen by the right person.
+fortuneHigh2: Someone always ferries the bowls past their own seat, and it's always you.
+fortuneMid: Give the task a hard edge to stop at.
+fortuneMid2: Come back to it in pieces, salting it with small fixes, and close it only when the broth's reduced.
+fortuneLow: The answer you're grinding for is through a different door entirely.
+fortuneLow2: Step over the unfinished thing and take the long walk anyway.
+fortuneLeast: Cancel the thing you'd only attend out of grim duty.
+fortuneLeast2: Bed early, work half-done.
 facetMostTitle: Dawn, Chili-Red
 facetMost: Firewood gathered, water fetched, breakfast on the coals — and the others are only just yawning out of their tents.
 facetHighTitle: Doubanjiang on the Board

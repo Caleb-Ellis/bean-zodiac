@@ -12,16 +12,16 @@ antiBeans: [pinto, kidney]
 friendlyForm: dried
 antiForm: fried
 seasonalFortune: A season of slow steam and weighed measures. The pudding thickens in increments; sweetness arrives by the spoonful, never the jug, and the pantry counts itself before the kitchen lights.
-fortuneMost: Build the whole meal from what's already on the shelf and feed someone with it. The resourcefulness is the love language, and it lands warm.
-fortuneMost2: You scrape the jar with the back of the spoon and rinse it for the next batch. There's a real, treacle-warm pleasure in making plenty out of little — let yourself have it.
+fortuneMost: Build the whole meal from what's already on the shelf and feed someone with it.
+fortuneMost2: You scrape the jar with the back of the spoon and rinse it for the next batch.
 fortuneHigh: Take stock before you buy, list against what's already on the shelf, and come home with half the bags and dinner half-made.
-fortuneHigh2: A bit of careful saving is about to turn into exactly the cushion you need. You knew to the handful what the shelf held, and the map pays off.
-fortuneMid: Pay full price for the one good thing — the proper coffee, the shoes that fit — and don't flinch at the receipt. Enough was never the enemy of pleasure.
-fortuneMid2: Bring the made thing, not the bought one — twice the warmth, half the outlay. The homemade gift outshines the priced one.
-fortuneLow: The no has tightened into a flinch. Say yes warmly, or say no in one kind sentence; the clipped version reads as a resentment nobody earned. Opening the hand a little costs less than it feels like.
-fortuneLow2: You'd sooner give the whole pudding warm than work out whose half was bigger. Let the generosity run loose and keep the ledger shut, even when the counting habit tugs.
-fortuneLeast: Round up. Leave the larger tip, pick up the bill. The careful part of you will whisper; you can spare it, and the small open hand costs less than the pinched silence.
-fortuneLeast2: The proper coat, the ticket to see the far-off friend — you've known for months it'd be worth it. Buy the worth-it version and let the receipt go, even as your thumb hovers over the cheaper one.
+fortuneHigh2: A bit of careful saving is about to turn into exactly the cushion you need.
+fortuneMid: Pay full price for the one good thing — the proper coffee, the shoes that fit — and don't flinch at the receipt.
+fortuneMid2: Bring the made thing, not the bought one — twice the warmth, half the outlay.
+fortuneLow: The no has tightened into a flinch.
+fortuneLow2: You'd sooner give the whole pudding warm than work out whose half was bigger.
+fortuneLeast: Round up.
+fortuneLeast2: The proper coat, the ticket to see the far-off friend — you've known for months it'd be worth it.
 facetMostTitle: Treacle on the Tin
 facetMost: A chair you love wobbles loose and the shop wants a fortune for a new one. Out comes the glue and a clamp, an evening spent at it, and it'll outlast the showroom version.
 facetHighTitle: The Dated Oat Jar

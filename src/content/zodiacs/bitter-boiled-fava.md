@@ -12,16 +12,16 @@ antiBeans: [butter, adzuki]
 friendlyForm: fried
 antiForm: smoked
 seasonalFortune: The fava goes in whole and comes out a paste; the chicory keeps its sting. A life spent reducing hard things until they spread, and refusing to lose the bitter edge.
-fortuneMost: Go at the thing you're flinching from while it's still difficult. Step up first and watch braver versions of everyone around you appear, one by one.
-fortuneMost2: The thing you've been circling is about to give way — this is the turn the charge pays out. Close the distance.
-fortuneHigh: The unpopular thing wants saying, and you can stay in your seat through the silence that follows. The bean cooks down to paste; the chicory keeps its sting.
-fortuneHigh2: Raise the hard matter plainly and don't soften it to nothing. The bitter edge is the reason you were the one to raise it.
-fortuneMid: Put the thing you've been circling on a real date at a real hour. The version of you that "will get to it" has been outvoted.
-fortuneMid2: The dreaded errand takes as long as it takes once you're inside it. Hinting at it from the doorway was never going to make it happen.
-fortuneLow: A dripping tap is not a moral failing. Let the small frets sit; the big thing needs the whole of your nerve, and spending it on a leak leaves nothing for the flood.
-fortuneLow2: Spare yourself the feud with the parking authority. Let it go ungoverned this once — the square jaw keeps better for what actually warrants it.
-fortuneLeast: Wave off the dare and let the hard thing stay hard. No one handed you this fight, and there's quiet to be had in simply not taking it.
-fortuneLeast2: Let it solve itself and say nothing. The unsoaked thing can stay hard; not every dread is yours to charge at.
+fortuneMost: Go at the thing you're flinching from while it's still difficult.
+fortuneMost2: The thing you've been circling is about to give way.
+fortuneHigh: The unpopular thing wants saying, and you can stay in your seat through the silence that follows.
+fortuneHigh2: Raise the hard matter plainly and don't soften it to nothing.
+fortuneMid: Put the thing you've been circling on a real date at a real hour.
+fortuneMid2: The dreaded errand takes as long as it takes once you're inside it.
+fortuneLow: A dripping tap is not a moral failing.
+fortuneLow2: Spare yourself the feud with the parking authority.
+fortuneLeast: Wave off the dare and let the hard thing stay hard.
+fortuneLeast2: Let it solve itself and say nothing.
 facetMostTitle: Chicory at the Root
 facetMost: High board over the quarry pool, everyone else suddenly finding reasons to wait. Up you go and off it first, before the nerve gets a word in.
 facetHighTitle: A Bitter Green on the Table

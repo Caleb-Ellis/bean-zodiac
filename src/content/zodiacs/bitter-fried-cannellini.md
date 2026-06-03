@@ -12,16 +12,16 @@ antiBeans: [butter, mung]
 friendlyForm: dried
 antiForm: smoked
 seasonalFortune: A season that rewards a crisped edge. The lemon cuts close to the rind, parsley laid down late, and what is said in the kitchen carries to the table without softening.
-fortuneMost: Lead with the real thing. The polite warm-up was only you clearing your throat.
-fortuneMost2: When the table is circling the same wrong maybe, your plain word cuts clean as lemon on the rind. Say it; you won't be walking it back.
-fortuneHigh: A clear yes or no is yours to give, and it lands easy. The hedged version costs you both more, and later.
-fortuneHigh2: The apology pays best paid whole and first, no weather padded onto the front of it. Said straight, it lands the way you mean it.
-fortuneMid: One clean line is a verdict; this one wants a reply. Hand over the half-sentence that opens the door back.
-fortuneMid2: A strong opinion well stated is not a sentence handed down. Leave the gap you forgot to leave — the one someone can disagree into.
-fortuneLow: A fight picked tired and late carries the same point and twice the enemies. The rested version wins; the waiting galls.
-fortuneLow2: Let the quarrel cool untouched a while. The patience grates against your edge, and the morning version is the one worth keeping.
-fortuneLeast: Concede the small one on purpose. It stings going down, but what you save by it spends better than the win ever would.
-fortuneLeast2: Some answers ripen for not being settled on the spot. The open question will itch — fair price, this time.
+fortuneMost: Lead with the real thing.
+fortuneMost2: When the table is circling the same wrong maybe, your plain word cuts clean as lemon on the rind.
+fortuneHigh: A clear yes or no is yours to give, and it lands easy.
+fortuneHigh2: The apology pays best paid whole and first, no weather padded onto the front of it.
+fortuneMid: One clean line is a verdict; this one wants a reply.
+fortuneMid2: A strong opinion well stated is not a sentence handed down.
+fortuneLow: A fight picked tired and late carries the same point and twice the enemies.
+fortuneLow2: Let the quarrel cool untouched a while.
+fortuneLeast: Concede the small one on purpose.
+fortuneLeast2: Some answers ripen for not being settled on the spot.
 facetMostTitle: Lemon at the Hot Oil
 facetMost: The waiter brings the wrong dish and hovers, hoping you'll just take it. You say no, this isn't what I ordered, kindly and without flinching, and wait for the right one.
 facetHighTitle: The Crust in an Instant

@@ -12,16 +12,16 @@ antiBeans: [pinto, fava]
 friendlyForm: boiled
 antiForm: smoked
 seasonalFortune: A low oven asks for hours, not minutes; molasses darkens only under steady heat. The season rewards a cook who set the pot down at dawn.
-fortuneMost: Return to the same long work another year. The seasons thicken behind you like crust on a well-used pan.
-fortuneMost2: Molasses only darkens under steady heat held for hours. What you're staying with is becoming something nobody who left early will ever taste.
+fortuneMost: Return to the same long work another year.
+fortuneMost2: Molasses only darkens under steady heat held for hours.
 fortuneHigh: The cracked mug, the warped board, the coat with one good pocket — keep them, and don't explain it.
 fortuneHigh2: Hold the standing thing through the turning of the year and see what's still there at the far end.
-fortuneMid: The page you left unfinished is still waiting, patient as you are. Carry it through.
-fortuneMid2: You measure things in seasons, not afternoons. Finish the long stretch on sore feet and don't bargain it away.
-fortuneLow: The thing you've held up so long is finished now. Set it down and let your arms come back to you — the ache of stopping passes.
-fortuneLow2: A row that's stopped producing is asking to be turned over, not nursed. Plant the next one, even if letting the old one go feels like quitting.
-fortuneLeast: It became a monument to maintenance, not meaning. Walk out, and let the relief surprise you — the principle was never the point.
-fortuneLeast2: A fresh pan has its own appeal, and a clean start may be the luck arriving. Begin the new thing and let nothing here outlast the weather, uneasy as the blank page sits.
+fortuneMid: The page you left unfinished is still waiting, patient as you are.
+fortuneMid2: You measure things in seasons, not afternoons.
+fortuneLow: The thing you've held up so long is finished now.
+fortuneLow2: A row that's stopped producing is asking to be turned over, not nursed.
+fortuneLeast: It became a monument to maintenance, not meaning.
+fortuneLeast2: A fresh pan has its own appeal, and a clean start may be the luck arriving.
 facetMostTitle: Molasses on Its Own Clock
 facetMost: Out each spring to the drystone wall on the moor, setting the one fallen stone back in its gap — the man who built it dead for decades, no one asking you to, and you keeping it standing anyway.
 facetHighTitle: Salt Pork Past the Larder

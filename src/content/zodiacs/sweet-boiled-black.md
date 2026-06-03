@@ -13,15 +13,15 @@ friendlyForm: dried
 antiForm: fried
 seasonalFortune: The piloncillo dissolves while the bean keeps its skin. Around such a person, weather changes and rooms change, and the pot goes on simmering.
 fortuneMost: A decade of silence, and you'll greet them in the same voice — no ledger of the missing years. Tell the one you've quietly kept that you mean to keep them.
-fortuneMost2: Somewhere a friendship you've tended without thanks is about to turn and thank you. The cinnamon stick was working the whole time.
-fortuneHigh: Go back to the one you let lapse. Late but warm beats prompt and thin, and you arrive carrying every degree of heat the years should have cooled.
-fortuneHigh2: The slow thing is softening on its own schedule. Don't lift the lid to check — what you're tending comes good in its own hour.
-fortuneMid: Keep what's still warm. The next move can belong to whoever breaks the quiet first — constancy was never a sentence you had to serve alone.
+fortuneMost2: Somewhere a friendship you've tended without thanks is about to turn and thank you.
+fortuneHigh: Go back to the one you let lapse. Late but warm beats prompt and thin.
+fortuneHigh2: The slow thing is softening on its own schedule. Don't lift the lid to check.
+fortuneMid: Keep what's still warm. The next move can belong to whoever breaks the quiet first.
 fortuneMid2: You can be loyal without mounting guard over it. A thing held loosely holds.
-fortuneLow: What you've faithfully tended has stopped needing the tending. Set the spoon down and bless it cooling — though letting it go will feel, at first, like dropping something you swore to carry.
-fortuneLow2: Some loyalties are only habits wearing devotion's face. Loosen your hold on one and see how little it actually costs you — less than the holding did.
-fortuneLeast: The weights you swore you couldn't set down were never the price of staying yourself. Walking out lighter costs you the comfort of the burden, and you'll be glad it's gone.
-fortuneLeast2: Pour this pot early. What you carry on by choosing it outweighs everything you carry by sheer momentum, even if choosing means setting good things down.
+fortuneLow: What you've faithfully tended has stopped needing the tending. Set the spoon down and bless it cooling.
+fortuneLow2: Some loyalties are only habits wearing devotion's face. Loosen your hold on one.
+fortuneLeast: The weights you swore you couldn't set down were never the price of staying yourself.
+fortuneLeast2: Pour this pot early.
 facetMostTitle: The Long Pot, Back Burner
 facetMost: Your team's been losing all season and the stands have thinned to nearly nobody. You're in your seat for the next home game, same scarf, hoarse by the final whistle.
 facetHighTitle: Sweetness After the Slow Hour

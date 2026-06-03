@@ -12,16 +12,16 @@ antiBeans: [chickpea, pinto]
 friendlyForm: dried
 antiForm: smoked
 seasonalFortune: The oven runs the standard hour at the standard heat. Sweetness gathers under a familiar crust; what comes out is what was meant to come out, and the table sets itself around it.
-fortuneMost: The expected dish, the expected plate, the expected hour. Bring all three — the evening works precisely because nothing in it surprises, and that's your craft.
-fortuneMost2: Pick the bottle you always buy. It has never let a table down, and reliability that steady is itself a kind of gift.
-fortuneHigh: Six fifty-eight, wine that matches, and the evening runs on rails you helped lay. Smoothness is a real contribution, even if no one names it.
-fortuneHigh2: The familiar varietal from the region you know works lands well this turn. Choosing what reliably pleases is its own quiet care.
-fortuneMid: Weigh the unfamiliar option, then choose what everyone would have chosen anyway. The safe pick costs you nothing — that's allowed.
-fortuneMid2: One of each, and let the others decide. You don't always have to commit to the known thing to keep an evening steady.
-fortuneLow: Order the dish you've eyed but never tried. The favourite isn't going anywhere.
-fortuneLow2: Float the strange idea you keep pocketing. It lands sideways sometimes, true; but the pocket only gets heavier the longer it waits.
-fortuneLeast: Take one street home you've never used, no map, just to see where it goes. The known route survives the detour — the unease is the price, pay it.
-fortuneLeast2: Paint the door red on an ordinary afternoon, just to see who talks. The block will talk for a month. Good.
+fortuneMost: The expected dish, the expected plate, the expected hour.
+fortuneMost2: Pick the bottle you always buy.
+fortuneHigh: Six fifty-eight, wine that matches, and the evening runs on rails you helped lay.
+fortuneHigh2: The familiar varietal from the region you know works lands well this turn.
+fortuneMid: Weigh the unfamiliar option, then choose what everyone would have chosen anyway.
+fortuneMid2: One of each, and let the others decide.
+fortuneLow: Order the dish you've eyed but never tried.
+fortuneLow2: Float the strange idea you keep pocketing.
+fortuneLeast: Take one street home you've never used, no map, just to see where it goes.
+fortuneLeast2: Paint the door red on an ordinary afternoon, just to see who talks.
 facetMostTitle: The Recipe on the Card, Followed
 facetMost: A new café and the menu's full of things you can't pronounce. You order the one dish you know you'll like and look forward to it the whole walk over.
 facetHighTitle: Maple in the Measured Cup

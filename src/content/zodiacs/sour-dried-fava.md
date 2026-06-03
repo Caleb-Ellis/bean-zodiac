@@ -12,16 +12,16 @@ antiBeans: [navy, cannellini]
 friendlyForm: fried
 antiForm: boiled
 seasonalFortune: A season pitched at the brightness of sumac — life arrives undiluted, and the company kept tends to be those who can take their food without sugar stirred in.
-fortuneMost: Sumac bright and undiluted, no sugar stirred in. They came to you precisely because you won't pretend it works.
-fortuneMost2: Say plainly where the thing falls down. The half-formed plan should die on the table, and you're the one trusted to let it.
+fortuneMost: Sumac bright and undiluted, no sugar stirred in.
+fortuneMost2: Say plainly where the thing falls down.
 fortuneHigh: Drop the softening clause. It was a comfort for you, not them, and the truth carries cleaner without it.
-fortuneHigh2: An apology whole, raw onion and all — no weight shifted onto circumstance. The undiluted one is the only kind that mends.
+fortuneHigh2: An apology whole, raw onion and all — no weight shifted onto circumstance.
 fortuneMid: Say the verdict flat, once, and don't bring it back to chew.
-fortuneMid2: One sentence, no garnish, and the matter settles before anyone asks twice. Brevity is the kindest dressing you own.
-fortuneLow: Right diagnosis, wrong hour. Let it wait for the moment that won't leave them quiet for a week — the holding back costs you, and it's the cost worth paying.
-fortuneLow2: Ask what they think before you say what you think, then meet them partway. The hard truth keeps; the friendship is the more fragile dish.
-fortuneLeast: Genuine good is sitting in front of you and the luck is in naming it first. Lead with what worked and mean it — the rest can keep in the drawer awhile, however it itches.
-fortuneLeast2: Find the strong line before the weak one. Your praise lands rare, which makes it the thing they keep — spend it, even with the critic in you standing ready.
+fortuneMid2: One sentence, no garnish, and the matter settles before anyone asks twice.
+fortuneLow: Right diagnosis, wrong hour.
+fortuneLow2: Ask what they think before you say what you think, then meet them partway.
+fortuneLeast: Genuine good is sitting in front of you and the luck is in naming it first.
+fortuneLeast2: Find the strong line before the weak one.
 facetMostTitle: Raw Onion, No Soak
 facetMost: Sooner say it does them no favours than nod along — the neighbour is beaming about the new haircut, fishing hard for a yes.
 facetHighTitle: Oil That Cuts, Not Smooths

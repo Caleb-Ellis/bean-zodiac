@@ -12,16 +12,16 @@ antiBeans: [cannellini, green]
 friendlyForm: boiled
 antiForm: fermented
 seasonalFortune: A season cured to the bone. The harissa keeps its sting in the jar, and the fava holds shape against a long, patient grinding.
-fortuneMost: Finish it through the ache. The hunger, the cold, the tired shoulder are information, not an emergency.
-fortuneMost2: The long grinding is about to pay out — the season that wore everyone else down only sharpened you. Hold the shape; you outlast it.
+fortuneMost: Finish it through the ache.
+fortuneMost2: The long grinding is about to pay out.
 fortuneHigh: Take the harder road each time, until the easy one looks like the strange choice.
-fortuneHigh2: The thing will take the weeks it takes, and you hold shape the way fava holds against a slow pestle. The waiting won't shake you.
+fortuneHigh2: The thing will take the weeks it takes, and you hold shape the way fava holds against a slow pestle.
 fortuneMid: Choose the version with no comfort built in. You already know which one that is.
-fortuneMid2: Settle the debt to the cent, on the day, no ceremony. A closed obligation is its own quiet steel.
-fortuneLow: Take the soft chair. The hard one stopped building anything a while ago — now it's just a point you're proving, though sitting down will feel like losing.
-fortuneLow2: Someone near you is wavering. Bend the evening around them, rough edge taken off — even though softness spends the sting you trust.
-fortuneLeast: Set the pestle down. Endurance aimed at the wrong thing is damage you've been calling strength — and yes, stopping is the harder lift.
-fortuneLeast2: The strong move was a month ago — to quit the thing that quietly stopped being worth it. It'll feel like giving up. Make it now.
+fortuneMid2: Settle the debt to the cent, on the day, no ceremony.
+fortuneLow: Take the soft chair.
+fortuneLow2: Someone near you is wavering.
+fortuneLeast: Set the pestle down.
+fortuneLeast2: The strong move was a month ago — to quit the thing that quietly stopped being worth it.
 facetMostTitle: The Dry Pestle
 facetMost: Fever's climbing and the work isn't done. You note the chills the way you'd note rain — a condition, not a reason to stop — and finish the page.
 facetHighTitle: Left to Dry on the Counter

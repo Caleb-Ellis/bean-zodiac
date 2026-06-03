@@ -12,16 +12,16 @@ antiBeans: [adzuki, chickpea]
 friendlyForm: dried
 antiForm: roasted
 seasonalFortune: A season of low smoke and slow verdicts. Ancho darkens in the pan; the household learns which silences mean a pot has already been judged.
-fortuneMost: One sentence, then nothing. The pause does what the words began, and staying to soften it is the only way to weaken it.
+fortuneMost: One sentence, then nothing. The pause does what the words began.
 fortuneMost2: A single look from you can close a thing for good. Spend it where you mean to.
-fortuneHigh: You'll know who you won't trust before they've finished asking. That read is an old, reliable omen — heed it.
+fortuneHigh: You'll know who you won't trust before they've finished asking.
 fortuneHigh2: A rambling case doesn't earn a long answer. Three words, and the quiet after carries the rest.
-fortuneMid: Your silence is going to be read as the verdict, and it will be the right one. Don't talk yourself back out of it in a softer hour.
+fortuneMid: Your silence is going to be read as the verdict, and it will be the right one.
 fortuneMid2: The part you leave unsaid is the truest part. Leave it unsaid.
-fortuneLow: Name the standard out loud before you hold anyone to it. Slower, and it leaves you exposed — but a person can fail honestly or be ambushed, and only one of those is kind.
-fortuneLow2: The friend who's always late. Give the lateness one more turn before it goes on the tally; you'll miss the clean little satisfaction of the count, and you can spare it.
-fortuneLeast: A door you'd already shut swings open, and this time you walk through. Your hands feel strange without the verdict in them.
-fortuneLeast2: Forgive the borrowed thing returned stained. It feels like a standard slipping; it's mostly just warmth.
+fortuneLow: Name the standard out loud before you hold anyone to it.
+fortuneLow2: The friend who's always late. Give the lateness one more turn before it goes on the tally.
+fortuneLeast: A door you'd already shut swings open, and this time you walk through.
+fortuneLeast2: Forgive the borrowed thing returned stained.
 facetMostTitle: Chipotle Past Sweetness
 facetMost: Someone pitches a plan you've already decided against. You let them finish into a quiet you don't fill, and the quiet is the answer.
 facetHighTitle: Crema Thinned to a Line

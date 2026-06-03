@@ -12,16 +12,16 @@ antiBeans: [black, edamame]
 friendlyForm: fried
 antiForm: dried
 seasonalFortune: Smoke settles in the rafters and refuses to leave; the season widens its doorways, lets the odd guest in, asks no one their business.
-fortuneMost: Cook for more than are coming. The circle stretches around you, and an unexpected someone is on their way to fill the extra seat.
-fortuneMost2: You salt for the larger number and never mention the arithmetic. That ease is the warmth people drive a long way to sit in.
-fortuneHigh: The borrowed thing that's lingered far too long — let it linger. Its owner turns up eventually with a story, and the wait was always part of the lending.
-fortuneHigh2: A friend with difficult opinions still has a seat with you. That patience is rarer than you let on — spend it on the ones worth the smoke.
-fortuneMid: Answer the unfair charge while it's small and even. Sitting on it just rehearses the resentment; it never burns it off.
-fortuneMid2: Things gather around you untagged until claimed — jackets, books, the odd guest. Some of it is generosity. Some is clutter you've stopped seeing.
-fortuneLow: When a question is really feeling for your edge, draw the line right then, not the third time it's crossed. Naming it early will feel ungenerous. It isn't.
-fortuneLow2: You can wave a great deal through and still say the one true no. Said early it's a kindness; the version that waits comes out as resentment.
-fortuneLeast: A door held open from pure habit is allowed to close. The friendship survives that better than the propped-open version — though pulling it to will feel like a small betrayal.
-fortuneLeast2: Step back from the thing that wandered off course. The quiet after isn't coldness; it's the room you actually wanted.
+fortuneMost: Cook for more than are coming.
+fortuneMost2: You salt for the larger number and never mention the arithmetic.
+fortuneHigh: The borrowed thing that's lingered far too long — let it linger.
+fortuneHigh2: A friend with difficult opinions still has a seat with you.
+fortuneMid: Answer the unfair charge while it's small and even.
+fortuneMid2: Things gather around you untagged until claimed — jackets, books, the odd guest.
+fortuneLow: When a question is really feeling for your edge, draw the line right then, not the third time it's crossed.
+fortuneLow2: You can wave a great deal through and still say the one true no.
+fortuneLeast: A door held open from pure habit is allowed to close.
+fortuneLeast2: Step back from the thing that wandered off course.
 facetMostTitle: Paprika at the Edge
 facetMost: The campsite next to yours has a loud sprawling family, a wandering dog, and a radio. By morning their kids are eating off your picnic table and it doesn't occur to you to mind.
 facetHighTitle: Garlic, Loud in the Pan

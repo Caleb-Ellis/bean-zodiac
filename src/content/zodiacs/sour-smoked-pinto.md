@@ -12,16 +12,16 @@ antiBeans: [kidney, navy]
 friendlyForm: roasted
 antiForm: boiled
 seasonalFortune: A pot smoked over pasilla keeps its commentary low. The season favours those who watch the room before they enter it, and who answer questions a half-beat late.
-fortuneMost: Seven words, then quiet before the eighth — the eighth would've been the apology. The line was enough.
-fortuneMost2: The thing nobody wanted named, named in one dry line, and then the silence. The quiet after is part of the joke.
-fortuneHigh: The line's cocked before they've finished talking. Hold the extra beat. The delay is what makes it land instead of merely register.
-fortuneHigh2: You read the mood and rearrange your face before anyone clocks the adjustment. That quickness is a real gift — just don't let it run on autopilot.
-fortuneMid: One compliment with nothing twisted on the end. Neither of you will quite know what to do with it. Offer it anyway.
-fortuneMid2: The plain thing you actually mean, no setup, no angle. People go a little still around the straightness, and that's all right.
-fortuneLow: A bit falls flat. Don't double down — drop the angle and say the plain version. Standing there undefended stings; let it stand.
-fortuneLow2: A new acquaintance asks what you really think. The wry version was armour. The plain one is what they came for.
-fortuneLeast: They take the sincere questions to someone less funny now. The bit was a tool, not a self; pick it up only when you actually need it.
-fortuneLeast2: Praise straight, apologise straight, let a line go without workshopping it. A good turn is following the undisguised version of you.
+fortuneMost: Seven words, then quiet before the eighth — the eighth would've been the apology.
+fortuneMost2: The thing nobody wanted named, named in one dry line, and then the silence.
+fortuneHigh: The line's cocked before they've finished talking. Hold the extra beat.
+fortuneHigh2: You read the mood and rearrange your face before anyone clocks the adjustment.
+fortuneMid: One compliment with nothing twisted on the end.
+fortuneMid2: The plain thing you actually mean, no setup, no angle.
+fortuneLow: A bit falls flat. Don't double down — drop the angle and say the plain version.
+fortuneLow2: A new acquaintance asks what you really think. The wry version was armour.
+fortuneLeast: They take the sincere questions to someone less funny now.
+fortuneLeast2: Praise straight, apologise straight, let a line go without workshopping it.
 facetMostTitle: Mezcal Already Smirking
 facetMost: The award gets handed to the least-deserving person in the room to warm applause. A dry aside is loaded and ready, and you let it off under your breath to the seat beside you.
 facetHighTitle: Orange Peel Against Ash

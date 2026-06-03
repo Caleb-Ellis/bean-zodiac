@@ -13,15 +13,15 @@ friendlyForm: roasted
 antiForm: dried
 seasonalFortune: Crocks sit in the dark and the paste turns slowly inward. The season favours what has been thinking a long time — broth gathering weight in the pot, depth accumulating below the lid.
 fortuneMost: A question you set down two years ago comes back thickened, dark, and ready.
-fortuneMost2: You won't hand over an answer until it has gathered weight in the dark. The depth is the whole point of you.
+fortuneMost2: You won't hand over an answer until it has gathered weight in the dark.
 fortuneHigh: Walk the long way home and turn the thing over once more under the streetlights.
-fortuneHigh2: A reading nobody at the table got near is sitting in you, and it surfaces after the easy opinions have gone home.
+fortuneHigh2: A reading nobody at the table got near is sitting in you.
 fortuneMid: A thought has been simmering longer than the moment that asked for it. Hand over the half that's ready.
 fortuneMid2: The sentence that ends nothing like it began — you'll be carrying that one for days.
-fortuneLow: Finish the book, shelve it, let the reading have been enough. Something in you will miss the chewing; let it.
+fortuneLow: Finish the book, shelve it, let the reading have been enough.
 fortuneLow2: Sit with a question without solving it, and notice how little the silence actually costs.
-fortuneLeast: Luck moves to the body this turn — sleep when tired, walk when restless, trust the foot over the footnote even when it feels reckless.
-fortuneLeast2: Answer plainly, off the top, the moment you're asked. The first reading is allowed to be the last — it'll itch, and it'll still be right.
+fortuneLeast: Luck moves to the body this turn — sleep when tired, walk when restless.
+fortuneLeast2: Answer plainly, off the top, the moment you're asked.
 facetMostTitle: The Two-Year Jar
 facetMost: A stranger on a long train asks what you believe about luck. You take the whole tunnel to answer, and the answer is still forming when you give it.
 facetHighTitle: The Yielding Tofu

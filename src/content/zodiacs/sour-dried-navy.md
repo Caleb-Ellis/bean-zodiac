@@ -12,16 +12,16 @@ antiBeans: [green, chickpea]
 friendlyForm: boiled
 antiForm: fermented
 seasonalFortune: A season for vinegar and long simmer. Rosemary darkens the pot; the dried tomato gives up nothing it has not been asked for, and neither does the cook.
-fortuneMost: Vinegar without apology. Wait, hand on the receipt, until the promise made to you is honoured to the letter — the workaround was never the thing you were owed.
-fortuneMost2: Wrong change handed back at the till. The line sits where it sits, and the small honesty costs you nothing you wanted to keep.
-fortuneHigh: Over dinner someone will ask you to walk the position back. Hold it kindly, pour another glass, and don't mistake their comfort for your error.
-fortuneHigh2: A "no" to the small favour is whole on its own. Say it without performing the regret — no apology needs stitching onto it.
-fortuneMid: The thing is all but finished and still owes one part. Pull it back for the rosemary it's missing, then let it go.
-fortuneMid2: A rule got broken. Note it, watch for the shape of a pattern — once is not yet a verdict, even to an eye as exact as yours.
-fortuneLow: One of your own rules was knapped for a season that's over now. Strike it from the stone; outliving its use is its own quiet cost.
-fortuneLow2: Let the argument sit overnight, the way the pot softens on a long soak. By morning it's loosened, and you can meet the day half a step gentler than the line wants.
-fortuneLeast: The line you'd hold here is one you never actually drew. Sign it — bending where there was no real principle is harder for you than holding firm, and this once it's the right bend.
-fortuneLeast2: Split the bill generously, lend the thing with no date set, and forget you ever had the rule. The looseness will chafe; let the warmth outweigh it.
+fortuneMost: Vinegar without apology.
+fortuneMost2: Wrong change handed back at the till.
+fortuneHigh: Over dinner someone will ask you to walk the position back.
+fortuneHigh2: A "no" to the small favour is whole on its own.
+fortuneMid: The thing is all but finished and still owes one part.
+fortuneMid2: A rule got broken.
+fortuneLow: One of your own rules was knapped for a season that's over now.
+fortuneLow2: Let the argument sit overnight, the way the pot softens on a long soak.
+fortuneLeast: The line you'd hold here is one you never actually drew.
+fortuneLeast2: Split the bill generously, lend the thing with no date set, and forget you ever had the rule.
 facetMostTitle: Vinegar Without Apology
 facetMost: Stay at the desk until they honour exactly what was promised — the hotel gave your booked room away and is shrugging a worse one at you.
 facetHighTitle: Rosemary From the Stem

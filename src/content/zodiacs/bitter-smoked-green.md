@@ -12,16 +12,16 @@ antiBeans: [butter, fava]
 friendlyForm: fried
 antiForm: boiled
 seasonalFortune: A season threaded with elderflower and ash. The smoked green bean keeps its snap in rooms where the source of the smell cannot be named.
-fortuneMost: You'll already be there when the thing arrives, and the day will rearrange itself around you and call it luck. Let them call it that. You knew.
-fortuneMost2: A friend's voice hasn't gone thin yet, but you can feel it coming. Reach out before they ask — being early to it is the whole gift, reason or none.
-fortuneHigh: A hunch lands clean and right, no explanation behind it. Move on it while it's fresh, before the second-guessing files the edges off.
-fortuneHigh2: Settle the small thing you sense you owe before anyone gets around to naming it. You felt the debt; you don't need it confirmed to make it good.
-fortuneMid: Name what you're running toward, even if only to yourself. Unnamed urgency is just dread with better posture — give it a return address and it can finally help.
-fortuneMid2: The certainty's real, but with no reason attached it lands as pure alarm. Say the why out loud and the hunch can move someone instead of spooking them.
-fortuneLow: The alarm in your chest belongs to a thing you already walked away from. Not every hush hides a fire. A quiet evening can stay quiet, itch as the unchecked one does.
-fortuneLow2: You're reading a sign into something that's only itself. A still night can just be a still night — take it plainly, gut's protest and all.
-fortuneLeast: Walk up, ring the bell, give your real name. No uncanny detour, no errand turned into a play nobody asked to watch. The ordinary way, even when it's dull.
-fortuneLeast2: A clean night's sleep, and you wake hungry, certain the kettle is only a kettle. There's a deep rest in a world that means just what it says.
+fortuneMost: You'll already be there when the thing arrives, and the day will rearrange itself around you and call it luck.
+fortuneMost2: A friend's voice hasn't gone thin yet, but you can feel it coming.
+fortuneHigh: A hunch lands clean and right, no explanation behind it.
+fortuneHigh2: Settle the small thing you sense you owe before anyone gets around to naming it.
+fortuneMid: Name what you're running toward, even if only to yourself.
+fortuneMid2: The certainty's real, but with no reason attached it lands as pure alarm.
+fortuneLow: The alarm in your chest belongs to a thing you already walked away from.
+fortuneLow2: You're reading a sign into something that's only itself.
+fortuneLeast: Walk up, ring the bell, give your real name.
+fortuneLeast2: A clean night's sleep, and you wake hungry, certain the kettle is only a kettle.
 facetMostTitle: Smoke Under the Door
 facetMost: Stuck in slow traffic, you signal off at an exit you had no plan to take. The pileup the lane ahead crawls into is one you're already past, and you couldn't have said how you knew.
 facetHighTitle: Elderflower, Still Steeping

@@ -12,16 +12,16 @@ antiBeans: [adzuki, chickpea]
 friendlyForm: boiled
 antiForm: roasted
 seasonalFortune: The jar of dried beans waits out the year. Around such a person, weather settles; what wants to keep, keeps, and the rest evaporates without comment.
-fortuneMost: One word, the right one, and the noise settles around it like a soup gone still. It will carry.
-fortuneMost2: A good sign for you keeps its mouth shut — what wants to stay, stays, and the rest cooks off. Yours is doing exactly that.
+fortuneMost: One word, the right one, and the noise settles around it like a soup gone still.
+fortuneMost2: A good sign for you keeps its mouth shut — what wants to stay, stays, and the rest cooks off.
 fortuneHigh: The argument burns down to coals. You lay one flat sentence across it, and it holds.
-fortuneHigh2: You wait out the weather and speak when it turns, and the timing lands harder than any flood of words could.
+fortuneHigh2: You wait out the weather and speak when it turns.
 fortuneMid: No need to rush into the gap. Someone with worse instincts will fill it, and you'll learn something watching.
 fortuneMid2: The "I'd like that too" feels too plain to say. It isn't — they're standing there waiting to hear it.
-fortuneLow: Say the sentence you keep boiling down to nothing. Uncut, even if it feels like too much heat.
-fortuneLow2: Give them the why, not just the verdict. The reasoning is the warm part, though handing it over costs you something.
-fortuneLeast: Talk the whole thing through aloud, even the parts you'd keep back. Letting someone into the working will feel like overcooking it; do it anyway.
-fortuneLeast2: Walk them slowly through all of it, the way you never do. They'll feel met, even as the long telling rubs you wrong.
+fortuneLow: Say the sentence you keep boiling down to nothing.
+fortuneLow2: Give them the why, not just the verdict.
+fortuneLeast: Talk the whole thing through aloud, even the parts you'd keep back.
+fortuneLeast2: Walk them slowly through all of it, the way you never do.
 facetMostTitle: Ancho on the String
 facetMost: A stranger on the trail asks how far to the summit. A nod uphill, and you're already walking again.
 facetHighTitle: The Chocolate Seam

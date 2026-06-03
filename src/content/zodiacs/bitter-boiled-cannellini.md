@@ -12,16 +12,16 @@ antiBeans: [fava, butter]
 friendlyForm: fermented
 antiForm: roasted
 seasonalFortune: A season spent tasting before swallowing. The rabe blanched twice, the broth poured off and begun again — what remains has been chosen slowly.
-fortuneMost: The thing you've been politely turning over deserves your no. You don't owe a reason that satisfies anyone.
-fortuneMost2: A clear yes from you is rarer than most people's, and it's coming for something that has truly earned it. When it does, don't dress it down to be polite.
-fortuneHigh: Keep only what you'd choose again. The shelf grows lighter, the love grows denser.
-fortuneHigh2: A good thing is in front of you, and you can name exactly why. Trust the few you'd own over the many you'd tolerate.
-fortuneMid: Some things never earn a yes and you know which. The broth is better for what you poured off.
-fortuneMid2: Whether a new face earns a second meeting, the first taste already told you. Stop being so polite about swallowing.
-fortuneLow: Not every bowl needs a second change of water. Leave the grit in this once — some of it is flavour you'd have poured off.
-fortuneLow2: A keeper is hiding past the rough first chapter. Read on a little; the cost is the hours, and the hours are worth one good thing kept.
-fortuneLeast: Keep the ugly mug, the twenty pens, every last bowl. Love them all, and lay your hand on any of it without asking whether it earned the shelf.
-fortuneLeast2: A stranger's enthusiasm is worth catching for its own sake. Take it all in unstrained — stems, rind, leaf — and call the whole bowl good.
+fortuneMost: The thing you've been politely turning over deserves your no.
+fortuneMost2: A clear yes from you is rarer than most people's, and it's coming for something that has truly earned it.
+fortuneHigh: Keep only what you'd choose again.
+fortuneHigh2: A good thing is in front of you, and you can name exactly why.
+fortuneMid: Some things never earn a yes and you know which.
+fortuneMid2: Whether a new face earns a second meeting, the first taste already told you.
+fortuneLow: Not every bowl needs a second change of water.
+fortuneLow2: A keeper is hiding past the rough first chapter.
+fortuneLeast: Keep the ugly mug, the twenty pens, every last bowl.
+fortuneLeast2: A stranger's enthusiasm is worth catching for its own sake.
 facetMostTitle: Two Changes of Water
 facetMost: Tray of rings tipped out across the velvet, the seller's hand sweeping the lot. One of them goes up to the light; the rest you let go without a flicker.
 facetHighTitle: The Scoured Pot

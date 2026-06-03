@@ -12,16 +12,16 @@ antiBeans: [green, adzuki]
 friendlyForm: roasted
 antiForm: smoked
 seasonalFortune: Oil at temperature does not wait. The season favours the cook who drops the fava in while the cumin is still loud, and counts the burns later.
-fortuneMost: You commit before the numbers are in, and the leap is a good one. The math can ride in the cab with you.
-fortuneMost2: A door opens for a day only. You'll say yes before the catalogue is read — and the catalogue won't matter.
+fortuneMost: You commit before the numbers are in, and the leap is a good one.
+fortuneMost2: A door opens for a day only.
 fortuneHigh: The chili and cumin cover whatever isn't in the fridge. Start the thing and trust the fire to fill the gaps.
-fortuneHigh2: Fortune leans toward the hand already raised. The bold bet is the one that pays.
+fortuneHigh2: Fortune leans toward the hand already raised.
 fortuneMid: Before the leap, say it aloud to one steady friend — not for permission, just to hear how it sounds.
-fortuneMid2: You can jump with one foot still down. Keep the small hedge; it's not cowardice, it's a rope.
-fortuneLow: Waiting for the all-clear is its own slow leak. Move with what's in your hand, or set it down for something surer — drifting between the two is the only real loss.
-fortuneLow2: Square the ground before you spring off it. Pitching low and pegged-down feels like missing out; mostly it's patience wearing your clothes.
+fortuneMid2: You can jump with one foot still down.
+fortuneLow: Waiting for the all-clear is its own slow leak.
+fortuneLow2: Square the ground before you spring off it.
 fortuneLeast: Fold this hand. The locked door is doing what a locked door is for, even if walking away from it galls you.
-fortuneLeast2: Move in slow weighed portions, paying the small price twice before risking the large one. The tedium is exactly the thing you most need to practice.
+fortuneLeast2: Move in slow weighed portions, paying the small price twice before risking the large one.
 facetMostTitle: Cumin Before the Scorch
 facetMost: A cliff path splits into a marked route and an unmarked scramble with a better view. The scramble it is, footing unknown.
 facetHighTitle: Chili in Whole, Stem and All

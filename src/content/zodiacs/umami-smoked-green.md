@@ -12,16 +12,16 @@ antiBeans: [butter, fava]
 friendlyForm: fried
 antiForm: boiled
 seasonalFortune: Pods hang on a string above the stove, taking their time; the household holds its plans loosely, knowing the cure outlasts the impatience of any one week.
-fortuneMost: Leave it on the string a while longer. The bean ready later isn't the bean ready now, and it's the later one you're curing for.
-fortuneMost2: A half-made thing is ripening in you, quiet on the windowsill. The waiting isn't hiding — it's the cure doing its slow work.
-fortuneHigh: Pay for the class before you feel ready. You're buying the version of you who shows up months in, already planted.
-fortuneHigh2: Something you started unsure is taking root out of sight. Trust the slow ripening; the harvest is further along than it looks.
-fortuneMid: Answer when you know what you mean, not before. A lit screen is no clock ticking down on you.
-fortuneMid2: You can say the name aloud without finishing the thing. "Something" was true, but the something has a name now — use it.
+fortuneMost: Leave it on the string a while longer.
+fortuneMost2: A half-made thing is ripening in you, quiet on the windowsill.
+fortuneHigh: Pay for the class before you feel ready.
+fortuneHigh2: Something you started unsure is taking root out of sight.
+fortuneMid: Answer when you know what you mean, not before.
+fortuneMid2: You can say the name aloud without finishing the thing.
 fortuneLow: Play the unfinished thing for one person, standing, no preamble — even though showing it half-grown will feel like pulling the pod too early.
-fortuneLow2: Buy the ticket, send the text, sit down at the table. The unfinished edges will nag, and the moment is still the point.
-fortuneLeast: The slow ripening you've guarded has quietly turned into an alibi. Book the date somewhere real, and yes, it'll feel like a quick flame under a thing meant for smoke.
-fortuneLeast2: Change it fast and let the speed carry you — some leaps don't want a whole season of waiting first, though skipping the cure will sit oddly in you.
+fortuneLow2: Buy the ticket, send the text, sit down at the table.
+fortuneLeast: The slow ripening you've guarded has quietly turned into an alibi.
+fortuneLeast2: Change it fast and let the speed carry you.
 facetMostTitle: Smoke Settling Into the Pod
 facetMost: Plant the acorn you'll likely never sit in the shade of — the digging is reason enough on its own.
 facetHighTitle: The Strung-Up Bean

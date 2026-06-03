@@ -12,16 +12,16 @@ antiBeans: [chickpea, pinto]
 friendlyForm: boiled
 antiForm: roasted
 seasonalFortune: Juniper smoke drifts low through the bitter months; the char beneath the kettle remembers what the woodpile has not yet admitted.
-fortuneMost: The crack is coming, and you'll see it long before anyone else lifts their head. Pull one person aside and say it plainly — the rest will feel the air change soon enough.
-fortuneMost2: That knot under your ribs is rarely wrong. Name the thing going dark while there's still room to move, not after it lands on schedule.
-fortuneHigh: A bad feeling left vague gets filed as mood and waved off. Name the actual failure, concretely, and the warning becomes something a person can act on.
-fortuneHigh2: You can hear the sentence they haven't said yet. Say it back to them while it can still change the ending instead of just confirming it.
-fortuneMid: Hand someone the next step before you hand them the prophecy. They'll take the step; they'd only have argued the omen and gone nowhere.
-fortuneMid2: Flag the danger without darkening the whole evening. One clear caution, then let people carry it — the dread doesn't have to ride along.
-fortuneLow: Everyone already sees what's coming, and one more voice naming it is just noise. Save the warning for the trouble only you can spot, quiet as that leaves you for now.
-fortuneLow2: Take the stranger at their word. Not every coat hides a knife — some people are simply who they appear to be, however slow you are to trust it.
-fortuneLeast: Pour the wine, ask after the garden, let the evening go by unannotated. Nobody here ordered a reading, and biting back the foreboding leaves you uneasy and them lighter.
-fortuneLeast2: Curtains open, doors unlatched, the night just a night. A rest in not bracing for once, strange as standing down feels.
+fortuneMost: The crack is coming, and you'll see it long before anyone else lifts their head.
+fortuneMost2: That knot under your ribs is rarely wrong.
+fortuneHigh: A bad feeling left vague gets filed as mood and waved off.
+fortuneHigh2: You can hear the sentence they haven't said yet.
+fortuneMid: Hand someone the next step before you hand them the prophecy.
+fortuneMid2: Flag the danger without darkening the whole evening.
+fortuneLow: Everyone already sees what's coming, and one more voice naming it is just noise.
+fortuneLow2: Take the stranger at their word.
+fortuneLeast: Pour the wine, ask after the garden, let the evening go by unannotated.
+fortuneLeast2: Curtains open, doors unlatched, the night just a night.
 facetMostTitle: Char on the Tongue
 facetMost: A wedding toast is still going warm and golden, but you've already clocked the fault line under the happy couple. You catch the maid of honour by the cake table and tell her what's coming.
 facetHighTitle: Smoke After the Fire

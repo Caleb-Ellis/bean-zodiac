@@ -12,16 +12,16 @@ antiBeans: [butter, cannellini]
 friendlyForm: roasted
 antiForm: boiled
 seasonalFortune: A season for blistered skins and longer wok-work. The pan keeps asking for one more handful, and the hands keep finding it.
-fortuneMost: The pan keeps asking for one more handful and your hands keep finding it. Make the version nobody asked for — that's the part they'll still be talking about long after.
-fortuneMost2: The side, the starter, and the backup loaf, all in your arms at the door. You arrive with the whole table.
-fortuneHigh: Asked for the figure, you'll bring the figure, the source, and the version you'd have preferred. The bit past the ask is where you actually live.
-fortuneHigh2: A small extra set beside the main thing, made with its own care. That's what they describe on the way home — not the thing they requested.
-fortuneMid: Six places laid for four. Someone always turns up needing one, and you saw it coming.
-fortuneMid2: Do the asked-for thing well and let that be the whole of it. Not every night needs a second act blistering in the oven.
-fortuneLow: Match the group's pace this round. Sprinting on alone has started to read as leaving them behind, and slowing will feel like backsliding before it feels like company.
-fortuneLow2: Stop at the dish the evening actually called for. The kitchen doesn't owe an encore to have been enough.
-fortuneLeast: Plain rice, the lamp turned low, no second course and no apology for it. Resting your hands will feel like failing; it isn't.
-fortuneLeast2: Arrive once with nothing in your arms and feel how little is lost. The bare version was always allowed.
+fortuneMost: The pan keeps asking for one more handful and your hands keep finding it.
+fortuneMost2: The side, the starter, and the backup loaf, all in your arms at the door.
+fortuneHigh: Asked for the figure, you'll bring the figure, the source, and the version you'd have preferred.
+fortuneHigh2: A small extra set beside the main thing, made with its own care.
+fortuneMid: Six places laid for four.
+fortuneMid2: Do the asked-for thing well and let that be the whole of it.
+fortuneLow: Match the group's pace this round.
+fortuneLow2: Stop at the dish the evening actually called for.
+fortuneLeast: Plain rice, the lamp turned low, no second course and no apology for it.
+fortuneLeast2: Arrive once with nothing in your arms and feel how little is lost.
 facetMostTitle: Garlic Past the Recipe
 facetMost: The class only set one chapter, but you've read the next three and chased down the book the footnote pointed at before the first is even discussed.
 facetHighTitle: Shrimp in the Receipt Envelope

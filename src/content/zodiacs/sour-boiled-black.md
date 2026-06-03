@@ -14,13 +14,13 @@ antiForm: fermented
 seasonalFortune: A season for long soaks and patient simmers. The epazote goes in when the epazote goes in; the pot keeps a quieter clock than the cook.
 fortuneMost: Good fortune soaks overnight. The step you finish in its own time is the one that holds.
 fortuneMost2: One thing closing cleanly before the next one opens — that quiet click, over and over, is how your luck gets built.
-fortuneHigh: Someone presses you to skip ahead. "After this" is a whole answer. The soak isn't done softening yet.
-fortuneHigh2: Sort the loose pieces before you start. The minute spent up front is bought back twice over by the end.
+fortuneHigh: Someone presses you to skip ahead. "After this" is a whole answer.
+fortuneHigh2: Sort the loose pieces before you start.
 fortuneMid: One thing sits in the wrong place and won't stop tugging at you. Move it.
-fortuneMid2: Oldest first, even the ones gone cold by the time your hand reaches them. The cold ones still count.
+fortuneMid2: Oldest first, even the ones gone cold by the time your hand reaches them.
 fortuneLow: An unfamiliar road, and the careful plan starts to lie. Follow the wrong turn a while — it knows something the map didn't.
-fortuneLow2: A thing begun in the middle can still hold. Trust the bowl that arrives unsoaked. It costs you the comfort of order; it arrives anyway.
-fortuneLeast: Begin where the heat already is, not where the page says. Your hands will itch to put it back in sequence. Leave it scattered.
+fortuneLow2: A thing begun in the middle can still hold.
+fortuneLeast: Begin where the heat already is, not where the page says.
 fortuneLeast2: Lime before the bean has softened feels wrong and is sometimes exactly right. Move with the change.
 facetMostTitle: Soak, Rinse, Simmer, Salt
 facetMost: There's a shortcut through the steps and everyone can see it but you won't take it. The last one has to finish closing before the next is allowed to open.

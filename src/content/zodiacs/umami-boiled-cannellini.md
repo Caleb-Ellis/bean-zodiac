@@ -12,16 +12,16 @@ antiBeans: [fava, chickpea]
 friendlyForm: dried
 antiForm: fermented
 seasonalFortune: A season of slow stocks and labelled jars. The pot holds its low simmer; the rind gives up its salt by degrees, and nothing useful is hurried out of the broth.
-fortuneMost: Set the whole thing in order in one good sitting — jars labelled, shelf squared. Every quieter day stands on a foundation like that one.
+fortuneMost: Set the whole thing in order in one good sitting — jars labelled, shelf squared.
 fortuneMost2: Something you tended carefully when nobody was watching is about to be noticed by exactly the right person.
-fortuneHigh: When they ask for rough, hand over rough. Your rough is already cleaner than they expect.
-fortuneHigh2: Returned on the day it's due, straightened and whole. Done right the first time spares you the second.
-fortuneMid: Cross a task off instead of doing it. The list gets shorter and nothing actually falls.
-fortuneMid2: The two things that weren't yours, put back on the way out. That's plenty — the rest of the room isn't your job.
-fortuneLow: Leave it as you found it, not as you'd prefer it. Someone else's logic put it there, and prying at it costs more than the mess does.
-fortuneLow2: Pay it the day it's due and walk off. The lights come on without your worrying them on — though letting the worry go will feel, oddly, like dropping something you were holding for a reason.
-fortuneLeast: That favour is bigger than it sounds. Ask the hours before you nod, then halve their answer for the truth.
-fortuneLeast2: Let one thing close untidy and watch the month close anyway. It'll itch like a crooked picture you've decided not to fix.
+fortuneHigh: When they ask for rough, hand over rough.
+fortuneHigh2: Returned on the day it's due, straightened and whole.
+fortuneMid: Cross a task off instead of doing it.
+fortuneMid2: The two things that weren't yours, put back on the way out.
+fortuneLow: Leave it as you found it, not as you'd prefer it.
+fortuneLow2: Pay it the day it's due and walk off.
+fortuneLeast: That favour is bigger than it sounds.
+fortuneLeast2: Let one thing close untidy and watch the month close anyway.
 facetMostTitle: Anchovy Into the Oil
 facetMost: A trail map at the park entrance has come loose and hangs crooked on its post. You're the one who stops to straighten it before anyone else has even noticed.
 facetHighTitle: The Rind Against a Future Pot

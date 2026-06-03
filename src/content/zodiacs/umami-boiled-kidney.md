@@ -12,16 +12,16 @@ antiBeans: [pinto, adzuki]
 friendlyForm: roasted
 antiForm: fermented
 seasonalFortune: A Monday pot, set early, asked nothing of the cook but return. The season rewards the unremarkable hour repeated; richness arrives by accumulation, not by occasion.
-fortuneMost: Same chair, same hour — show up hardest on the day the streak usually dies. That's the day the habit needs you.
+fortuneMost: Same chair, same hour — show up hardest on the day the streak usually dies.
 fortuneMost2: The unremarkable hour you've repeated for months is quietly about to pay out, all at once, when you'd half stopped expecting it to.
-fortuneHigh: When something real asks you to skip the routine, say yes. One missed day won't unmake the year.
-fortuneHigh2: A bedtime that drifts ten minutes a year is doing its slow work. Trust the body that has learned the hour.
-fortuneMid: Write down what the practice is actually for. The reason has wandered off behind the habit; bring the two back together.
-fortuneMid2: The same route walked in the same order, and the world meets you halfway down it. Small rituals carry more than they look like they should.
-fortuneLow: The week has slipped its banks. Don't fight the current — sleep what you can, eat what's there, begin again at a natural beginning.
-fortuneLow2: Spend by feel and let the month sort itself out. Not every good stretch needs a system holding it up, even if the looseness makes your hands itch for the ledger.
-fortuneLeast: Burn the schedule. What it was built to make is no longer what you want — and yes, walking away from a thing you kept so faithfully will ache.
-fortuneLeast2: Sleep when sleep comes, eat when hunger asks, let the days lose their grid. The rigour that built the life can wall it off, though loosening the walls will feel, for a while, like coming undone.
+fortuneHigh: When something real asks you to skip the routine, say yes.
+fortuneHigh2: A bedtime that drifts ten minutes a year is doing its slow work.
+fortuneMid: Write down what the practice is actually for.
+fortuneMid2: The same route walked in the same order, and the world meets you halfway down it.
+fortuneLow: The week has slipped its banks.
+fortuneLow2: Spend by feel and let the month sort itself out.
+fortuneLeast: Burn the schedule.
+fortuneLeast2: Sleep when sleep comes, eat when hunger asks, let the days lose their grid.
 facetMostTitle: The Monday Pot
 facetMost: It's the dark, ugly morning when the streak almost always breaks — rain on the window, the bed warm, the swim an hour away. You're up and pulling on the cold suit because this is exactly the morning that counts.
 facetHighTitle: Sausage, the Same Way

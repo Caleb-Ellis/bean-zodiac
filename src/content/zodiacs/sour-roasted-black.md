@@ -13,15 +13,15 @@ friendlyForm: boiled
 antiForm: fried
 seasonalFortune: Roasted black beans hold the pot's lowest heat. Their husks blacken off; what stays is the part that meant every word.
 fortuneMost: This turn the husk burns off and only the meant part stays. Lead with the sentence you'd usually bury three paragraphs down.
-fortuneMost2: Someone leaves a conversation with you and feels met for the first time in weeks. That's the gift moving toward you.
+fortuneMost2: Someone leaves a conversation with you and feels met for the first time in weeks.
 fortuneHigh: A joke is lining up to do honesty's work. Let the true thing go in its place.
 fortuneHigh2: Your verdict comes sharper than the flesh beneath it, like the tomatillo charred over the flame — and meant all the way down.
-fortuneMid: Be the first to drop the bit. Whoever's quietly hoping someone goes sincere is hoping it's you.
+fortuneMid: Be the first to drop the bit.
 fortuneMid2: A draft handed over rough, sharp places and all, reaches someone the polished version never would.
-fortuneLow: A warm general line will do where things haven't settled. You don't owe every stranger the unguarded version, even if holding it back feels a little like hiding.
-fortuneLow2: Let the joke carry it this once. The sincere thing keeps, and not every moment is built to hold its weight.
-fortuneLeast: A gentler shape can hold the same truth and land far easier — the softening only pinches because you've never trusted it before.
-fortuneLeast2: Let the laugh land and hold the deeper thing back — it keeps, even if keeping it feels like a small betrayal of the bean you are.
+fortuneLow: A warm general line will do where things haven't settled.
+fortuneLow2: Let the joke carry it this once.
+fortuneLeast: A gentler shape can hold the same truth and land far easier.
+fortuneLeast2: Let the laugh land and hold the deeper thing back.
 facetMostTitle: The Broken Broth
 facetMost: A street musician finishes a song to a thin, distracted crowd. You stop, look him in the eye, and tell him exactly what it did to you.
 facetHighTitle: Charred Tomatillo

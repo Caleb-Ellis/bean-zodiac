@@ -13,15 +13,15 @@ friendlyForm: fried
 antiForm: dried
 seasonalFortune: Marsala deepens in the crock; sugar and lemon bind to something the cook glimpsed weeks back. The season favours those whose private syrups now turn legible on the spoon.
 fortuneMost: Draw the future rough and slide it across to someone. The napkin sketch carries what a careful presentation never could.
-fortuneMost2: You'll hear the hinge turn before anyone else in the room. Name what it's becoming — you're usually right, and they catch up.
-fortuneHigh: Tell one person the whole dream with full feeling, like a kid pitching a treehouse. If they say yes, bring nails.
-fortuneHigh2: Start shifting the furniture for the room nobody's walked into yet. You can already see where every piece goes.
+fortuneMost2: You'll hear the hinge turn before anyone else in the room.
+fortuneHigh: Tell one person the whole dream with full feeling, like a kid pitching a treehouse.
+fortuneHigh2: Start shifting the furniture for the room nobody's walked into yet.
 fortuneMid: A forecast made physical is harder to talk yourself out of. Sketch the next ten years somewhere your hands will find it.
 fortuneMid2: You can already taste where it ends, and that's why you'll stay at the stove.
-fortuneLow: The vision will keep; the person in front of you might not. Set the long plan down and answer them, hard as it is to look away from the horizon.
-fortuneLow2: Meet the hour as it lands, no forecast required. Tonight asks nothing of next week — though the quiet of not-planning may unsettle you.
+fortuneLow: The vision will keep; the person in front of you might not.
+fortuneLow2: Meet the hour as it lands, no forecast required.
 fortuneLeast: Look up from the map. The street changed while you were reading it, and the place you wanted is the one that's actually there now.
-fortuneLeast2: Read the weather out the window, not the long forecast above the sink. Some days only ask what's outside — even when your eyes keep drifting to the distance.
+fortuneLeast2: Read the weather out the window, not the long forecast above the sink.
 facetMostTitle: The Jar Set in Spring
 facetMost: A boarded-up corner shop comes up for nothing and everyone walks past it as a ruin. You can see the whole decade it becomes, lit and full, and you're already telling the agent yes.
 facetHighTitle: Lemon Peel in the Marsala

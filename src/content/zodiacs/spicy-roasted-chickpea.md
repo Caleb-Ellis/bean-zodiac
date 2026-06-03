@@ -12,15 +12,15 @@ antiBeans: [black, navy]
 friendlyForm: fried
 antiForm: dried
 seasonalFortune: A season for the long simmer. Harissa deepens in company; the chickpea grows generous in spiced broth, and rooms thicken around those who stay near the pot.
-fortuneMost: Throw the door open on no notice. Whoever shows up is exactly the crowd worth keeping the broth warm for.
+fortuneMost: Throw the door open on no notice.
 fortuneMost2: Watch how fast the half-stranger pulled into the circle turns into a friend.
-fortuneHigh: A shallow night deepens the second you ask the realer question. The evening was waiting on you, not the other way around.
-fortuneHigh2: There's a spark that won't keep. Make the plan while it's still warm.
+fortuneHigh: A shallow night deepens the second you ask the realer question.
+fortuneHigh2: There's a spark that won't keep.
 fortuneMid: One real question past the small talk and the good evening starts.
-fortuneMid2: A short, plain hello reopens more than its size suggests. Out it goes, and back comes something.
-fortuneLow: A friendship left half-warm deserves a verdict — make the real plan or let it rest. Choosing will feel colder than drifting, and it's the kinder thing.
-fortuneLow2: Pick a few and go deep. Spread across everyone, you miss the one who needed you at three a.m.
-fortuneLeast: Let the unread messages sit. The quiet is rebuilding something the constant chatter wears thin, even when the silence feels like neglect.
+fortuneMid2: A short, plain hello reopens more than its size suggests.
+fortuneLow: A friendship left half-warm deserves a verdict — make the real plan or let it rest.
+fortuneLow2: Pick a few and go deep.
+fortuneLeast: Let the unread messages sit.
 fortuneLeast2: No reply is owed by return.
 facetMostTitle: The Broth as Invitation
 facetMost: Rain strands a whole bus queue under one awning. By the time it clears you've got names, two of them are coming to yours later, and the wait felt short.

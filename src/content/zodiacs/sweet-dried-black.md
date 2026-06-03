@@ -13,15 +13,15 @@ friendlyForm: boiled
 antiForm: roasted
 seasonalFortune: A dried bean waits years for its hour and gives it back as fudge. The pan cools slowly; the chocolate sets darker than it looked in the bowl.
 fortuneMost: The friend who flew in for the funeral, the move, the long drive nobody asked them to make — that's you. You're not a favour. You're the weather.
-fortuneMost2: A dried bean waits years for its hour and gives it back rich and dark. Whoever you've stood by is steadier for it than they'll ever quite say.
+fortuneMost2: Whoever you've stood by is steadier for it than they'll ever quite say.
 fortuneHigh: Arrive unbidden, arms full. It's the only love language you've got, and it lands every time.
 fortuneHigh2: People set their watches by you while everyone else drifts off the map. Be there again.
-fortuneMid: Quiet faithfulness sinks into the furniture until no one sees it holding the house up. Be the first to say hello sometime; let it count out loud.
-fortuneMid2: A bean folded into the batter holds its shape and barely shows. Make your steadiness plain once, so it reads as the rare thing it is.
-fortuneLow: Someone is reading the gap as you leaving. Plant one foot back down — it pinches a little, do it anyway.
-fortuneLow2: Keep every option loose and distance starts to look like a verdict. A small sign you're still here goes further than it should.
-fortuneLeast: Repaint the wall, sell the chair, walk past the gap and feel lighter. Not every place was built to hold you forever.
-fortuneLeast2: Leaving where the warmth went cold isn't disloyalty, though it'll sit oddly for a beat. Trust the lightness.
+fortuneMid: Quiet faithfulness sinks into the furniture until no one sees it holding the house up. Be the first to say hello sometime.
+fortuneMid2: Make your steadiness plain once, so it reads as the rare thing it is.
+fortuneLow: Someone is reading the gap as you leaving. Plant one foot back down.
+fortuneLow2: Keep every option loose and distance starts to look like a verdict.
+fortuneLeast: Repaint the wall, sell the chair, walk past the gap and feel lighter.
+fortuneLeast2: Leaving where the warmth went cold isn't disloyalty. Trust the lightness.
 facetMostTitle: Denser on the Third Day
 facetMost: The field's emptied out ahead of the storm and the rain's already turning the ground to mud. Boots planted, you stay put and let it come find you.
 facetHighTitle: Beans Holding Their Shape

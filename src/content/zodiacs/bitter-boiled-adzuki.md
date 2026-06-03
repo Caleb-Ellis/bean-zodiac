@@ -12,16 +12,16 @@ antiBeans: [chickpea, edamame]
 friendlyForm: dried
 antiForm: fried
 seasonalFortune: A life lived at low simmer. The pot keeps the back burner; skins yield only when ready, and the rooms around it learn to wait without resenting the wait.
-fortuneMost: A patient bean reads the sky. The slow call you've been holding is the right one, and it will keep until you're ready to make it.
-fortuneMost2: Watch what you held back on come round again, clearer for the wait, while the fast answers curdle.
-fortuneHigh: Someone calls you before the hard choice, not for the easy answer but the fair one. Worth the time they're hoping you'll take.
-fortuneHigh2: A question you can't answer twice is coming. Let the skins teach you — they yield only when they're ready.
-fortuneMid: That decision finished cooking a while ago. You're keeping it warm out of habit.
-fortuneMid2: The careful part is done. What's left is just simmer, and simmer past ripe is only stalling.
+fortuneMost: A patient bean reads the sky.
+fortuneMost2: Watch what you held back on come round again, clearer for the wait.
+fortuneHigh: Someone calls you before the hard choice, not for the easy answer but the fair one.
+fortuneHigh2: A question you can't answer twice is coming.
+fortuneMid: That decision finished cooking a while ago.
+fortuneMid2: The careful part is done.
 fortuneLow: You decided this already, and the fresh round of questions is just a way of not moving yet.
-fortuneLow2: Twice weighed, the same answer waiting — a third pass only delivers it late. The work is good; act on it, even if acting feels unfinished.
-fortuneLeast: Some luck only shows itself to whoever picks first. Point at the bright one and go; it'll be half-steeped and a little tart, and that's the price of arriving while the door's still open.
-fortuneLeast2: Out on the road, the turn belongs to whoever takes it before the doubt catches up. It may be the wrong turn. Take it anyway — you can't learn the road standing at the fork.
+fortuneLow2: Twice weighed, the same answer waiting.
+fortuneLeast: Some luck only shows itself to whoever picks first.
+fortuneLeast2: Out on the road, the turn belongs to whoever takes it before the doubt catches up.
 facetMostTitle: The Long Steep
 facetMost: Where the trail forks, the map gives you nothing. Sit on the rock; let one road declare itself before a single step.
 facetHighTitle: Greens, Slow to Wilt

@@ -12,16 +12,16 @@ antiBeans: [navy, butter]
 friendlyForm: fermented
 antiForm: boiled
 seasonalFortune: A season of blistered skins and shut doors. The roast deepens what the lime had already separated; what these weeks ask of a person is the courage to remain unmixed.
-fortuneMost: The courage to stay unmixed is your strength this turn. Let the call ring out — the rested you writes a shorter, truer reply than the one forming now.
-fortuneMost2: Keep the one room no guest has entered. Sitting three seats from the nearest conversation was never a failure of hosting.
+fortuneMost: The courage to stay unmixed is your strength this turn.
+fortuneMost2: Keep the one room no guest has entered.
 fortuneHigh: Walk home the long way, through streets where nobody clocks your face, and arrive a kinder person.
-fortuneHigh2: Reply warmly, but space the replies until a real rhythm forms. The pace that suits you is the honest one.
-fortuneMid: Take the evening alone you keep deferring. The quiet is still yours, and you come out of it steadier.
-fortuneMid2: Say yes to one specific plan and see how it actually sits. You don't have to read every thread to answer one.
-fortuneLow: When your silence gets read as a verdict, send one warm line. Reaching first costs you the cool distance you trust, but it undoes the math someone's quietly running.
-fortuneLow2: Meeting someone at their pace won't dissolve you — answer the knock with the door already open, even if the matching pinches a little.
-fortuneLeast: The version of you that stays until last call sleeps deeper than the one who slipped out early — even if steeping in a crowd unsettles you.
-fortuneLeast2: Lean into the new friendship headlong. It goes against your grain to drop the wall, but the closeness can outlast the very thing the wall was built to guard.
+fortuneHigh2: Reply warmly, but space the replies until a real rhythm forms.
+fortuneMid: Take the evening alone you keep deferring.
+fortuneMid2: Say yes to one specific plan and see how it actually sits.
+fortuneLow: When your silence gets read as a verdict, send one warm line.
+fortuneLow2: Meeting someone at their pace won't dissolve you — answer the knock with the door already open.
+fortuneLeast: The version of you that stays until last call sleeps deeper than the one who slipped out early.
+fortuneLeast2: Lean into the new friendship headlong.
 facetMostTitle: The Sealed Jalapeño
 facetMost: A campsite neighbour keeps trying to fold you into their fire and their plans. You nod, stay friendly, and keep your own tent and your own quiet at the edge of it.
 facetHighTitle: Where the Lime Hits Hardest

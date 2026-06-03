@@ -18,10 +18,10 @@ fortuneHigh: Give the smoky answer, not the polite one — what pulls people in 
 fortuneHigh2: Somebody at the edge is waiting to be turned toward.
 fortuneMid: One spice carries the whole pot. Stay past the first round and the good talk simmers its way over to you.
 fortuneMid2: Your ease does the work that effort can't. Nothing here needs steering.
-fortuneLow: The pull brings the good and the wrong both, and only you can sort them. Declining the night that isn't yours will feel ungrateful before it feels like wisdom.
+fortuneLow: The pull brings the good and the wrong both, and only you can sort them.
 fortuneLow2: Some people orbit you because you're easy to orbit, not because they should. Let them drift.
 fortuneLeast: A name keeps circling back through your week like smoke under a door — you're allowed to stop answering it.
-fortuneLeast2: Slip out early and walk the long way home. The quiet kitchen was the company you came for, even when leaving the warm pot tugs.
+fortuneLeast2: Slip out early and walk the long way home.
 facetMostTitle: The Darkened Spoon
 facetMost: An hour into the delay, the stranded gate is laughing at something you started, half the benches angled your way.
 facetHighTitle: Smoke Around the Longest Char

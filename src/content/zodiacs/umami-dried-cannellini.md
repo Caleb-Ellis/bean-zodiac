@@ -12,16 +12,16 @@ antiBeans: [adzuki, butter]
 friendlyForm: smoked
 antiForm: roasted
 seasonalFortune: A pot left overnight thickens past stew into something with a name. The season rewards what has been kept long enough to be asked for by it.
-fortuneMost: Your bearing reaches the room before you do. Skip the introduction.
-fortuneMost2: A thing you made years ago is being quoted somewhere you'll never see. Standing like that was never claimed; it accrued.
-fortuneHigh: Someone else will mention what you've done, and it'll land cleaner than from your own mouth. Let them.
+fortuneMost: Your bearing reaches the room before you do.
+fortuneMost2: A thing you made years ago is being quoted somewhere you'll never see.
+fortuneHigh: Someone else will mention what you've done, and it'll land cleaner than from your own mouth.
 fortuneHigh2: You can walk into a borrowed place and leave it more composed without moving a single chair.
-fortuneMid: Name the role and one thing you're making; let the rest stay offstage. A careful listener fills in what you leave out.
-fortuneMid2: Cut the long account to the single true line. Said plainly, it carries further than the paragraph ever did.
-fortuneLow: Hand over the work, take the fee, keep no copy for the shelf. Not everything has to harden into a reputation — though some part of you will miss the rind.
-fortuneLow2: Give your plain name with no title attached and see who you become to a stranger. The unweighted hello costs you the deference you're used to, and it's worth the trade.
-fortuneLeast: Lead with the ordinary morning you had, not the line off the résumé. Some rooms meet you better undecorated, even if you feel oddly unarmoured doing it.
-fortuneLeast2: Spend on the bright thing in the window and keep nothing back for weather. Let an evening be light instead of legacy, just this once.
+fortuneMid: Name the role and one thing you're making; let the rest stay offstage.
+fortuneMid2: Cut the long account to the single true line.
+fortuneLow: Hand over the work, take the fee, keep no copy for the shelf.
+fortuneLow2: Give your plain name with no title attached and see who you become to a stranger.
+fortuneLeast: Lead with the ordinary morning you had, not the line off the résumé.
+fortuneLeast2: Spend on the bright thing in the window and keep nothing back for weather.
 facetMostTitle: The Saved Rind
 facetMost: There's a coat-check ticket but no name on the work you've left behind. Let it go out unsigned — whoever made it, the bearing will say so without you.
 facetHighTitle: Bread Torn Into Broth

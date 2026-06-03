@@ -12,16 +12,16 @@ antiBeans: [adzuki, cannellini]
 friendlyForm: smoked
 antiForm: roasted
 seasonalFortune: A long simmer asks for company. The pot does not boil over for those who stay nearby, and the sage gives its salt up only to a listening room.
-fortuneMost: You'll hear the wrong note before anyone says a word. Act on it; skip the part where you justify how you knew.
-fortuneMost2: A warning is coming early, the way the pot changes pitch before it boils over. You'll be the one who hears it in time.
-fortuneHigh: Read it once more, slowly — once for the words, once for what they aren't saying. The line you glossed is the whole message.
-fortuneHigh2: The quiet one has gone quieter, and you've clocked it before anyone else at the table. Angle things their way without naming why.
+fortuneMost: You'll hear the wrong note before anyone says a word.
+fortuneMost2: A warning is coming early, the way the pot changes pitch before it boils over.
+fortuneHigh: Read it once more, slowly — once for the words, once for what they aren't saying.
+fortuneHigh2: The quiet one has gone quieter, and you've clocked it before anyone else at the table.
 fortuneMid: Sit beside the one who's gone quiet. Pass the bread, ask nothing — the small opening is enough.
-fortuneMid2: An off thing noticed and let to pass, just this once. Not every signal is yours to answer.
-fortuneLow: Phone left on the counter, a long block walked. Nothing you watch needs you for the next forty minutes — though your hand will reach for the pocket that isn't full.
-fortuneLow2: Eat when hungry, sleep when tired, the world holding itself fine without your eye on it. Standing the watch down feels like leaving a door unlocked, and the door is still fine.
-fortuneLeast: Hand them the keys and don't watch the road. You've been hovering long enough that they've felt it — and letting go will cost you the small comfort of being the one who'd have caught it.
-fortuneLeast2: Let a room's mood reach you only once someone names it aloud. You don't have to catch everything to be safe, even if missing things feels, at first, like going blind.
+fortuneMid2: An off thing noticed and let to pass, just this once.
+fortuneLow: Phone left on the counter, a long block walked.
+fortuneLow2: Eat when hungry, sleep when tired, the world holding itself fine without your eye on it.
+fortuneLeast: Hand them the keys and don't watch the road.
+fortuneLeast2: Let a room's mood reach you only once someone names it aloud.
 facetMostTitle: The Guanciale's Slick
 facetMost: A gull wheels off the cliff path a beat too sharp and the gravel underfoot has gone loose. You're already steering the group back from the edge before the first stone goes over.
 facetHighTitle: Sage in the Pork Fat

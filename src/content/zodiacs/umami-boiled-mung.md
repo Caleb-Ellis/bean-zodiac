@@ -12,16 +12,16 @@ antiBeans: [green, edamame]
 friendlyForm: smoked
 antiForm: fried
 seasonalFortune: Days pass at the pace of a long simmer; the shrimp give up their salt without fanfare, and rooms grow heavier with what no one bothered to say.
-fortuneMost: The sentence you've cooked down to one line — say it. No greeting, no apology trailing behind it.
-fortuneMost2: Your quiet is about to be the thing a noisy day needs most. Someone will steady themselves on it without quite knowing why.
-fortuneHigh: When the table turns and waits for you, breathe through the silence first. The pause is already doing your work.
-fortuneHigh2: Hold the thought until every extra word has boiled off. What's left lands harder than the long version ever would.
-fortuneMid: Skip the softer follow-up you're tempted to add. The first words were warm enough; the chaser only thins them.
-fortuneMid2: You walk into a loud room and the volume drops a notch before you've spoken. You owe it nothing more to have earned your place.
-fortuneLow: One harmless opinion told to someone close — the film you hated, the bread you swear by. They're forgetting the sound of you, and you'll feel oddly exposed handing it over.
-fortuneLow2: A little of the day narrated to whoever's nearest, the small grievance, the rain on the walk. The warmth is worth the noise you'd rather not make.
-fortuneLeast: Go first, and not the polished version — the half-cooked one, raw in the middle. Letting them see the unfinished underneath will cost you the cover you usually keep.
-fortuneLeast2: A silent room isn't a fault to mend. Sit in the pause before you rush to fill it — even though leaving it open will feel, to you, like leaving a pot unattended.
+fortuneMost: The sentence you've cooked down to one line — say it.
+fortuneMost2: Your quiet is about to be the thing a noisy day needs most.
+fortuneHigh: When the table turns and waits for you, breathe through the silence first.
+fortuneHigh2: Hold the thought until every extra word has boiled off.
+fortuneMid: Skip the softer follow-up you're tempted to add.
+fortuneMid2: You walk into a loud room and the volume drops a notch before you've spoken.
+fortuneLow: One harmless opinion told to someone close — the film you hated, the bread you swear by.
+fortuneLow2: A little of the day narrated to whoever's nearest, the small grievance, the rain on the walk.
+fortuneLeast: Go first, and not the polished version — the half-cooked one, raw in the middle.
+fortuneLeast2: A silent room isn't a fault to mend.
 facetMostTitle: The Shrimp's Kept Salt
 facetMost: A toast is expected and the glasses are raised your way. You give them one short line, no run-up, and sit back down before the warmth of it fades.
 facetHighTitle: Pork Bones in Slow Heat

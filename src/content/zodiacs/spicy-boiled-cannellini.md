@@ -12,16 +12,16 @@ antiBeans: [fava, pinto]
 friendlyForm: smoked
 antiForm: smoked
 seasonalFortune: A long simmer is the season's shape. The cavolo nero darkens slowly; nothing is hurried, and the pepper waits its hour in the corner of the pot.
-fortuneMost: You feel the seam nobody else sees. That noticing is rare, and it's about to earn its keep.
-fortuneMost2: Take the fourth pass at the thing only you know is wrong. The view from the attempt is the whole reward, and you've earned the climb.
-fortuneHigh: Straighten the one crooked thing that's needling you. Then stop — the next fix is decoration, and decoration never ends.
-fortuneHigh2: There's a recipe you keep tinkering with that's already good. Make it once exactly as written and let it surprise you.
-fortuneMid: The thing that has you heated will read differently after a night's simmer. Time keeps the spine and loses the temperature.
-fortuneMid2: Half the wrongness you're bracing to fix fades on its own. Check whether yesterday's worry still holds before you tear anything down.
+fortuneMost: You feel the seam nobody else sees.
+fortuneMost2: Take the fourth pass at the thing only you know is wrong.
+fortuneHigh: Straighten the one crooked thing that's needling you.
+fortuneHigh2: There's a recipe you keep tinkering with that's already good.
+fortuneMid: The thing that has you heated will read differently after a night's simmer.
+fortuneMid2: Half the wrongness you're bracing to fix fades on its own.
 fortuneLow: Call it done while it's still a little uneven — the uneven part is the part people reach for.
-fortuneLow2: A windfall is coming through a door you'd have re-hung first. Take it warm and crooked; the polish wasn't the gift.
-fortuneLeast: The first attempt, left alone, is better than the eleventh you'd grind it into. Loosening that grip costs you — do it anyway.
-fortuneLeast2: Agree to the rough split, pocket the change uncounted. The small imprecision costs you nothing, even if your hands itch to measure it.
+fortuneLow2: A windfall is coming through a door you'd have re-hung first.
+fortuneLeast: The first attempt, left alone, is better than the eleventh you'd grind it into.
+fortuneLeast2: Agree to the rough split, pocket the change uncounted.
 facetMostTitle: Stale Bread, Torn Twice
 facetMost: The cake's iced and everyone says it's lovely. You scrape the whole top off because one edge sags, and start the buttercream over.
 facetHighTitle: Peperoncino by the Grain

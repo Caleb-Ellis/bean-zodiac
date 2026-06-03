@@ -12,16 +12,16 @@ antiBeans: [mung, chickpea]
 friendlyForm: dried
 antiForm: roasted
 seasonalFortune: A season for cold smoke and clean citrus. The pod gives up what it has and nothing more; ponzu finds the seam an honest blade already knew.
-fortuneMost: One sentence, and out. The clause you'd add after is you flinching, and they'll taste it like smoke pulled too thin.
-fortuneMost2: A friend arrives carrying the long worry, and the single line that shrinks it is already in your mouth. The clean cut is the kindness.
-fortuneHigh: Leave when you came to leave, coat already buttoned. The voice asking for another twenty minutes is testing the wrong thing.
-fortuneHigh2: Two things broke it. Name those two and stop — anything past the second is for you, not for them.
-fortuneMid: Stay a few minutes past the clean cut. You leave fast, and that's why it lands colder than the cut ever was.
-fortuneMid2: The borrowed thing goes back with no note, no preamble. Let the warmth show in your face this time, even if the silence felt complete.
-fortuneLow: Your two clean lines can read like a receipt. Add the one that shows you cared enough to keep it short.
-fortuneLow2: Leave a few things open behind you. The unfinished road will nag at you all the way home, and you can let it nag.
-fortuneLeast: They've started routing around you to someone slower. Slower isn't better — only less obviously a blade. Sit in being the warm, unhurried one and see if you actually mind.
-fortuneLeast2: A long answer to a small question. The lingering grates, and it's its own kind of care.
+fortuneMost: One sentence, and out.
+fortuneMost2: A friend arrives carrying the long worry, and the single line that shrinks it is already in your mouth.
+fortuneHigh: Leave when you came to leave, coat already buttoned.
+fortuneHigh2: Two things broke it — name those two and stop.
+fortuneMid: Stay a few minutes past the clean cut.
+fortuneMid2: The borrowed thing goes back with no note, no preamble.
+fortuneLow: Your two clean lines can read like a receipt.
+fortuneLow2: Leave a few things open behind you.
+fortuneLeast: They've started routing around you to someone slower.
+fortuneLeast2: A long answer to a small question.
 facetMostTitle: Kombu, Smoke Pulled Thin
 facetMost: A panicking colleague is mid-spiral about a deadline. One line that cuts the knot is sitting ready in your mouth, and you say it and nothing after.
 facetHighTitle: Ponzu at the Split

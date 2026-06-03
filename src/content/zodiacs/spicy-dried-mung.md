@@ -12,16 +12,16 @@ antiBeans: [edamame, chickpea]
 friendlyForm: boiled
 antiForm: fried
 seasonalFortune: A piquant season. The dried chili keeps its sting long after the pot has cooled, and the house that holds it learns to season lightly, taste often, speak last.
-fortuneMost: Bring the soup first, then the question they've been dodging. Lead with the warmth and the sting lands as care, not a verdict in a cardigan.
-fortuneMost2: The dried chili keeps its sting long after the pot has cooled. So does a true word, kindly said.
+fortuneMost: Bring the soup first, then the question they've been dodging.
+fortuneMost2: The dried chili keeps its sting long after the pot has cooled.
 fortuneHigh: Say the hard thing warm-edged and in person — both halves kept, the part that's kind and the part they'll still be turning over come morning.
-fortuneHigh2: Listen the whole way out before you ask the avoided question. The sting only works once a person feels held.
-fortuneMid: Comfort before the question. The order is the whole difference between care and an audit.
-fortuneMid2: Not every sitting needs the pointed line. Agree it's hard and let the sharper thought keep for the next bowl.
-fortuneLow: Round the corners and serve it with bread. The bare version arrives as a verdict you never meant, and gentleness here costs you only a little restraint.
-fortuneLow2: They came to be heard, not improved. Sympathize all the way and save the pointed thought, even with the fix sitting right there on your tongue.
-fortuneLeast: Settle the small thing quietly and never name the balance. It closes faster unspoken, and the urge to mark it paid is one worth swallowing.
-fortuneLeast2: Some venting wants company and nothing else. Just nod and pour another glass.
+fortuneHigh2: Listen the whole way out before you ask the avoided question.
+fortuneMid: Comfort before the question.
+fortuneMid2: Not every sitting needs the pointed line.
+fortuneLow: Round the corners and serve it with bread.
+fortuneLow2: They came to be heard, not improved.
+fortuneLeast: Settle the small thing quietly and never name the balance.
+fortuneLeast2: Some venting wants company and nothing else.
 facetMostTitle: Mustard Seed in Hot Oil
 facetMost: For a year a friend has been making the same mistake and nobody's said so. A plate first, then the question they've dodged — kindness and cut arriving in one breath.
 facetHighTitle: The Held Pinch

@@ -12,16 +12,16 @@ antiBeans: [black, navy]
 friendlyForm: roasted
 antiForm: boiled
 seasonalFortune: A wheel of pecorino bitters slowly in its rind; the season rewards what has been kept in the dark and turned, occasionally, by a steady hand.
-fortuneMost: The line nobody else will reach waits in the footnote's footnote, at the end of the third pass. Your patience for that depth is about to be paid back.
-fortuneMost2: Finish the work nobody asked for, every detail in its place — someone you'll never meet is going to be glad it exists.
-fortuneHigh: A book you've meant to read for years has gone ripe on the shelf. Open it; carry one sentence of it out into a real conversation.
-fortuneHigh2: Someone will get it wrong about a thing you know cold. Lay out the true history — briefly, one source, then stop.
-fortuneMid: One question was asked and one line answers it. Leave the rest of what you know in the drawer where it lives.
-fortuneMid2: A single detail you're holding would quietly reframe the whole thing. Set it down and let the talk move on without you.
-fortuneLow: A decision is going stale while you keep weighing it. Leading with the verdict before you're fully sure feels reckless — closing it now still beats another round of method.
-fortuneLow2: A half-remembered fact, the year a little off, is allowed to stand. It costs you being precisely right; the talk had moved on long before you would have.
-fortuneLeast: Take the first plausible option and act. Doing it wrong will teach you more than another round of weighing — though your hands will itch to check it first.
-fortuneLeast2: A new face across from you. Ask the plain, obvious question before the deep one — the long inquiry can wait, or never come, and you'll lose nothing.
+fortuneMost: The line nobody else will reach waits in the footnote's footnote, at the end of the third pass.
+fortuneMost2: Finish the work nobody asked for, every detail in its place.
+fortuneHigh: A book you've meant to read for years has gone ripe on the shelf.
+fortuneHigh2: Someone will get it wrong about a thing you know cold.
+fortuneMid: One question was asked and one line answers it.
+fortuneMid2: A single detail you're holding would quietly reframe the whole thing.
+fortuneLow: A decision is going stale while you keep weighing it.
+fortuneLow2: A half-remembered fact, the year a little off, is allowed to stand.
+fortuneLeast: Take the first plausible option and act.
+fortuneLeast2: A new face across from you.
 facetMostTitle: Sharpened by Years
 facetMost: A quiz night, easy round, and someone shouts a half-right answer. You can't let it go — out comes the full correct version with the reasoning, long after the buzzer.
 facetHighTitle: The Darkening Broth

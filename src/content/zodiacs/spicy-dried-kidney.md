@@ -12,16 +12,16 @@ antiBeans: [adzuki, cannellini]
 friendlyForm: smoked
 antiForm: roasted
 seasonalFortune: A season cured under lidded heat. The pod keeps its cayenne folded inward; whatever waits in the dried bean travels in low company until the pot finds its hour.
-fortuneMost: Small things have been banking quietly, and the next wrong tone sets the kettle whistling. Pick when it goes off — left alone, it picks worse.
-fortuneMost2: A pod keeps its cayenne folded inward, travelling in low company until the pot finds its hour. The hour's coming; the only question is your aim.
-fortuneHigh: The grievance still burning once you've cooled is the one to act on. The others banked overnight for a reason.
-fortuneHigh2: Say the edged thing and don't soften it. Just aim it at what it's actually about, not the body standing nearest.
-fortuneMid: Walk it off before you talk. Somewhere along the road the heat changes, and so does what you actually needed to say.
-fortuneMid2: Three small things have stacked and you can feel the pot starting to climb. You read your own simmer better than anyone — eat early, take the long way home.
-fortuneLow: The trigger is rarely the cause. Find the slow leak that's been filling the pot, even though it costs you the easy target.
-fortuneLow2: Spend the heat as you go and you arrive already even. It feels like leaving something undone; what you're leaving undone is the grudge.
-fortuneLeast: Say it mildly, the day it lands. The small mild version is the one that actually empties the cellar.
-fortuneLeast2: A grievance that finds no holding pot simply passes through. Let this one go without a tally.
+fortuneMost: Small things have been banking quietly, and the next wrong tone sets the kettle whistling.
+fortuneMost2: A pod keeps its cayenne folded inward, travelling in low company until the pot finds its hour.
+fortuneHigh: The grievance still burning once you've cooled is the one to act on.
+fortuneHigh2: Say the edged thing and don't soften it.
+fortuneMid: Walk it off before you talk.
+fortuneMid2: Three small things have stacked and you can feel the pot starting to climb.
+fortuneLow: The trigger is rarely the cause.
+fortuneLow2: Spend the heat as you go and you arrive already even.
+fortuneLeast: Say it mildly, the day it lands.
+fortuneLeast2: A grievance that finds no holding pot simply passes through.
 facetMostTitle: Cayenne on the Shelf
 facetMost: Three windows of paperwork, a clerk short with you at each, and now the fourth form is wrong too. The whole banked morning is loaded behind your next sentence — and off it goes, right where you stand.
 facetHighTitle: Drafts in the Notes App

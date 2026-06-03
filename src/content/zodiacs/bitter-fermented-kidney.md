@@ -12,16 +12,16 @@ antiBeans: [butter, adzuki]
 friendlyForm: fried
 antiForm: dried
 seasonalFortune: The crock has been dark a long season. Bitter greens darken in the paste; what was sealed begins to press at the lid, asking to be tasted.
-fortuneMost: It's cured. Tell one person the whole of it, start to finish, in one sitting — the seal won't hold much longer.
-fortuneMost2: The thing you've been darkening alone is good and done. Hand it over whole; it arrives undiluted, the way you made it.
-fortuneHigh: You've been offering the polished version. Give the unedited truth to whoever's still there once the others have gone home.
-fortuneHigh2: No performance needed. Walk in quiet and the gathering tilts toward you anyway, the way a meal leans toward the dish that took longest.
-fortuneMid: Skip the explanation. Carry it in and let the weight you bring do the speaking.
-fortuneMid2: Hold the day's weight at the jaw if you must — but know you're holding it. Tension carried is still tension, not rest.
-fortuneLow: Step back from the door. What you'd say through it right now lands at three times the weight you mean, and there's no pulling it back.
-fortuneLow2: Not everything needs to deepen in the dark. Stir it once, serve it, let the small thing stay small — even when the instinct is to seal it up.
-fortuneLeast: A feeling can move through you the way weather moves through an open window — felt, then gone, nothing stained. Holding nothing will feel strange; let it.
-fortuneLeast2: The mood you'd carry in isn't anyone else's to inherit. Set it down at the threshold; putting it down isn't the same as losing it.
+fortuneMost: It's cured.
+fortuneMost2: The thing you've been darkening alone is good and done.
+fortuneHigh: You've been offering the polished version.
+fortuneHigh2: No performance needed.
+fortuneMid: Skip the explanation.
+fortuneMid2: Hold the day's weight at the jaw if you must — but know you're holding it.
+fortuneLow: Step back from the door.
+fortuneLow2: Not everything needs to deepen in the dark.
+fortuneLeast: A feeling can move through you the way weather moves through an open window — felt, then gone, nothing stained.
+fortuneLeast2: The mood you'd carry in isn't anyone else's to inherit.
 facetMostTitle: Uncrocked at Last
 facetMost: No stakes, just a casual game of cards at the family table — and every hand you play it like the title's on the line, dead set on taking it.
 facetHighTitle: The Stew That Took Longest

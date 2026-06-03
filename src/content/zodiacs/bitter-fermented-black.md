@@ -12,16 +12,16 @@ antiBeans: [edamame, cannellini]
 friendlyForm: smoked
 antiForm: roasted
 seasonalFortune: A jar left in the dark keeps its own counsel; the bitter orange waits out the season, and what the salt has been doing surfaces only when asked.
-fortuneMost: A feeling left to cure as long as it needs comes out right. Whoever's hurrying you is asking for the worse version.
-fortuneMost2: The long dark is doing real work on what you're holding. What finally surfaces will land true and keep.
+fortuneMost: A feeling left to cure as long as it needs comes out right.
+fortuneMost2: The long dark is doing real work on what you're holding.
 fortuneHigh: Pour the whole answer out where no one can see it. Keep only the one line that survives the dark.
 fortuneHigh2: The hard reply you owe someone is allowed to wait until it has cured into a thing you'll stand behind.
 fortuneMid: A corner of something has been circling you a while. Move one piece; let it settle before you touch the next.
 fortuneMid2: Hand the turning thought to one person you trust. Said once, aloud, it loosens.
-fortuneLow: Under the lid a half-formed thing goes stranger, not deeper. Letting it out costs you the privacy — and the privacy was the only thing keeping it.
-fortuneLow2: Most of what you brood on shrinks the moment it meets air. The size you feared rarely survives the saying, though you'll grieve the weight a little.
+fortuneLow: Under the lid a half-formed thing goes stranger, not deeper.
+fortuneLow2: Most of what you brood on shrinks the moment it meets air.
 fortuneLeast: Something you've been brewing has quietly turned, and you're the last to smell it. Open the jar; the sting beats the alternative.
-fortuneLeast2: A walk into open weather will knock the mood loose. Go far enough that the lightness stops feeling unearned.
+fortuneLeast2: A walk into open weather will knock the mood loose.
 facetMostTitle: Crema in Its Own Time
 facetMost: Let the table dissect the ugly remark from earlier all it wants — what you actually think about it stays in, weeks if it has to, until it's finished arriving.
 facetHighTitle: Salt Under the Lid

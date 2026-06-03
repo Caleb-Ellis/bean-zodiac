@@ -12,16 +12,16 @@ antiBeans: [pinto, butter]
 friendlyForm: roasted
 antiForm: roasted
 seasonalFortune: A season that hums at the back of the throat like thyme on a long simmer; old loyalties darken in the pot, and the love is in the cooking, not the saying.
-fortuneMost: Years in, you still catch yourself watching them cross a room. That noticing is the truest thing you do.
-fortuneMost2: So much of your devotion has been happening where they couldn't see it. Let it out of the pot — the one you love deserves to know the long quiet days were real.
-fortuneHigh: Make the meal they love and never say why. They'll taste the reason in the thyme without being told.
+fortuneMost: Years in, you still catch yourself watching them cross a room.
+fortuneMost2: So much of your devotion has been happening where they couldn't see it.
+fortuneHigh: Make the meal they love and never say why.
 fortuneHigh2: Their favourite mug sits in your cupboard, and the small gladness of seeing it there carries a whole morning.
-fortuneMid: Quietly count who you'd miss if they went silent. The list is shorter and more honest than you'd guess.
-fortuneMid2: A song they love comes on; let it play through twice with no one watching. The private gesture still keeps faith.
-fortuneLow: Do the kind thing even after the warmth has wandered off somewhere. The habit holds the place until the feeling comes home, and the motions will feel thin while you wait.
-fortuneLow2: Sometimes love is just making the tea and sitting near with the talking left to them. Show up plainly when the words won't come, even if plain feels like too little to you.
-fortuneLeast: Sit with the stretch where nothing feels held. What fades quietly tends to return quietly — but the cold patch will frighten you more than it should.
-fortuneLeast2: When you catch yourself reciting the words without the warmth behind them, don't punish yourself for it. Mistaking the lull for the end is the only real danger.
+fortuneMid: Quietly count who you'd miss if they went silent.
+fortuneMid2: A song they love comes on; let it play through twice with no one watching.
+fortuneLow: Do the kind thing even after the warmth has wandered off somewhere.
+fortuneLow2: Sometimes love is just making the tea and sitting near with the talking left to them.
+fortuneLeast: Sit with the stretch where nothing feels held.
+fortuneLeast2: When you catch yourself reciting the words without the warmth behind them, don't punish yourself for it.
 facetMostTitle: Smoke in Every Corner
 facetMost: You pass the bakery on the long way back and the seeded loaf they love is still warm. You buy it though you've eaten, just to set it by their plate.
 facetHighTitle: Pepper in the Pot, Steady

@@ -13,15 +13,15 @@ friendlyForm: fried
 antiForm: dried
 seasonalFortune: A jar of favas works in the dark, sharpening as it softens. The almanac favours those who let an answer steep — what arrived as salt becomes something the salt never promised.
 fortuneMost: Ask the third question. The first two get manners; the third gets the actual answer.
-fortuneMost2: An answer is steeping in the thing you keep circling — one the first taste hid, surfacing now as the pith finally gives.
+fortuneMost2: An answer is steeping in the thing you keep circling.
 fortuneHigh: A clean explanation arrives with a small itch under it. Scratch it once, out loud, and watch what surfaces.
-fortuneHigh2: Whatever you're told, the second reading is where it admits itself. Go over it twice before you trust what it said.
+fortuneHigh2: Whatever you're told, the second reading is where it admits itself.
 fortuneMid: Something the whole table has quietly agreed not to name. Name it — kindly, before anyone reaches for their coat.
 fortuneMid2: The small follow-up nobody else thought to ask is yours. What's actually in it, under the label?
-fortuneLow: This one is genuinely settled. Leaving the lid on means trusting it without one more poke — and what's under there now is a smell, not an answer.
-fortuneLow2: When the directions are sound, follow them. Your hands will itch to hunt for the seam; not everything has one worth finding.
-fortuneLeast: Let the next question stay in your pocket. Accepting "fine" costs you the last word — here that's the discipline, not the defeat.
-fortuneLeast2: Get what you came for and walk back out into the day. Leave the second-guessing aisle unsearched, even when that feels like missing something.
+fortuneLow: This one is genuinely settled.
+fortuneLow2: When the directions are sound, follow them.
+fortuneLeast: Let the next question stay in your pocket.
+fortuneLeast2: Get what you came for and walk back out into the day.
 facetMostTitle: Peel Curing on the Sill
 facetMost: A guide rattles off the official story of the old fort and the group nods along. Your hand goes up — but who actually lived here, and what aren't we being told?
 facetHighTitle: The Jar of Unsent Things

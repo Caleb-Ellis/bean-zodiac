@@ -12,16 +12,16 @@ antiBeans: [fava, butter]
 friendlyForm: fried
 antiForm: boiled
 seasonalFortune: Bitter melon learns sweetness from salt and waiting. The Cultured Green Bean lives among half-pickled notions, drafts steeping in their own brine until something stranger surfaces.
-fortuneMost: The wrong door, taken on purpose, opens onto the very thing you've been trying to describe. Walk through it.
-fortuneMost2: What you're after is in the sideways version, not the sensible one. Build the wrong room and move in.
-fortuneHigh: Give the weird answer and cut the apology before it reaches your mouth. The odd reading is the one that lands.
-fortuneHigh2: A plain thing gets handed to you. Answer it in a register nobody ordered and the whole thing tilts somewhere new and better.
-fortuneMid: One street off the usual route is enough. The detour is the work; the destination was only the pretext for going.
-fortuneMid2: Tuck a single strange detail into otherwise plain telling. The ones meant to catch it will catch it.
-fortuneLow: Hand over the version they actually asked for, no trapdoors. Keeping the strange one in the jar costs you the flourish — keep it anyway.
-fortuneLow2: Make the thing exactly as written, nothing left unlabelled. Your hands will itch to add the twist; not every plate needs one.
-fortuneLeast: Stay on the marked path this time. A marvel sprung on the unprepared reads as noise — the plain version guards the trust you've built, dull as it feels to hand over.
-fortuneLeast2: When someone floats a strange idea, you can simply nod and let it stay theirs. Leaving a sketch unfinished stings; some were never yours to finish.
+fortuneMost: The wrong door, taken on purpose, opens onto the very thing you've been trying to describe.
+fortuneMost2: What you're after is in the sideways version, not the sensible one.
+fortuneHigh: Give the weird answer and cut the apology before it reaches your mouth.
+fortuneHigh2: A plain thing gets handed to you — answer it in a register nobody ordered and the whole thing tilts somewhere new.
+fortuneMid: One street off the usual route is enough.
+fortuneMid2: Tuck a single strange detail into otherwise plain telling.
+fortuneLow: Hand over the version they actually asked for, no trapdoors.
+fortuneLow2: Make the thing exactly as written, nothing left unlabelled.
+fortuneLeast: Stay on the marked path this time.
+fortuneLeast2: When someone floats a strange idea, you can simply nod and let it stay theirs.
 facetMostTitle: Sesame Under the Pestle
 facetMost: Stuck in traffic, a kid in the next car points at the clouds. You're already turning them into a slow drama of beasts and shipwrecks before they've finished pointing.
 facetHighTitle: Pods Behind the Eyelids

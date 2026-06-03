@@ -12,16 +12,16 @@ antiBeans: [mung, adzuki]
 friendlyForm: dried
 antiForm: roasted
 seasonalFortune: A season for slow broths and slower verdicts. The fuzzed pod gives up its bead only to a steady thumb; what holds and what merely sits is told by pressure, not by looking.
-fortuneMost: The tangle everyone else is staring at will come loose in your hands — you'll find the load-bearing piece nobody spotted. When you say a thing holds, it holds.
-fortuneMost2: Take it apart to the studs and build it back piece by piece. Knowing how a thing is actually made is its own quiet luck this turn, and it's about to pay out.
-fortuneHigh: Go over it line by line before you let it pass. The error you catch is small and the one you'd have missed was not.
-fortuneHigh2: Three good options, similar weight, and you can already feel which one rewards a second look. Lay them side by side; the why will surface.
-fortuneMid: Name the real constraint in one sentence before you move. If it won't fit, you're solving the wrong problem with great rigour.
-fortuneMid2: You keep turning a plain request over to find the hidden one. There isn't one — it asked the simple thing. Answer that and go.
-fortuneLow: Your first instinct already was the analysis. Cook by feel and quit rerunning the model; no one tastes the missing step.
-fortuneLow2: The pod tells the steady thumb by pressure, not by being split open. Take the first workable path and trust the feel of it.
-fortuneLeast: Some roads just want walking, not surveying. Take the thing at its first telling; you'll miss a detail or two, and you'll be the one already arrived.
-fortuneLeast2: Trust the bead between thumb and finger and split nothing open. Cook by feel, eat what comes — it may sit a touch underdone, and it'll still be supper while the model's still running.
+fortuneMost: The tangle everyone else is staring at will come loose in your hands.
+fortuneMost2: Take it apart to the studs and build it back piece by piece.
+fortuneHigh: Go over it line by line before you let it pass.
+fortuneHigh2: Lay them side by side; the why will surface.
+fortuneMid: Name the real constraint in one sentence before you move.
+fortuneMid2: You keep turning a plain request over to find the hidden one — it asked the simple thing.
+fortuneLow: Your first instinct already was the analysis.
+fortuneLow2: The pod tells the steady thumb by pressure, not by being split open.
+fortuneLeast: Some roads just want walking, not surveying.
+fortuneLeast2: Cook by feel, eat what comes — it may sit a touch underdone, and it'll still be supper while the model's still running.
 facetMostTitle: Every Frond Accounted
 facetMost: Stopped clock on the wall, a screwdriver in the drawer. Out comes every gear and spring, laid in order on a cloth, before you'll believe which one gave.
 facetHighTitle: The Split Pod

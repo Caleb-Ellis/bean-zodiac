@@ -12,16 +12,16 @@ antiBeans: [black, fava]
 friendlyForm: fried
 antiForm: fermented
 seasonalFortune: A season of slow glazing. Miso darkens by degrees, maple tightens around the pod, and the days reward whoever stays near the tray long enough to turn each one.
-fortuneMost: A small invisible favour for someone who'll never trace it back to you. The not-finding-out is the cleaner half of the gift.
-fortuneMost2: You phrase the hard sentence twice before saying it — once for what it means, once for how it'll sit in them tomorrow. That second pass is the whole craft.
-fortuneHigh: A favour you did quietly comes back to you this turn, lacquered smooth by hands you never saw. The kindness kept circulating.
-fortuneHigh2: Answer the message you owe before the one you want to. Someone's been waiting on you longer than you've let yourself notice.
-fortuneMid: Clear the plates before the host stands, the way no one quite clocks. It counts unseen — that's rather the point of it.
-fortuneMid2: You needn't read every situation twice. A plain "how are you" lands fine without the polished opening you'd usually draft.
-fortuneLow: Some asks can go unanswered. The week keeps turning and stays yours.
-fortuneLow2: A small task would help someone, and you see it, and you let it pass. Finish your own first — it costs you to walk by, do it anyway.
-fortuneLeast: Hand the unfinished thing to someone else to carry. Setting it down feels like dropping it; it isn't. Rest is also a contribution.
-fortuneLeast2: One hint missed, the moment quietly closing, no one turning back for it. You can't turn every pod in the pan.
+fortuneMost: A small invisible favour for someone who'll never trace it back to you.
+fortuneMost2: You phrase the hard sentence twice before saying it — once for what it means, once for how it'll sit in them tomorrow.
+fortuneHigh: A favour you did quietly comes back to you this turn, lacquered smooth by hands you never saw.
+fortuneHigh2: Answer the message you owe before the one you want to.
+fortuneMid: Clear the plates before the host stands, the way no one quite clocks.
+fortuneMid2: A plain "how are you" lands fine without the polished opening you'd usually draft.
+fortuneLow: Some asks can go unanswered.
+fortuneLow2: A small task would help someone, and you see it, and you let it pass.
+fortuneLeast: Hand the unfinished thing to someone else to carry.
+fortuneLeast2: One hint missed, the moment quietly closing, no one turning back for it.
 facetMostTitle: Each Pod Lacquered to Glass
 facetMost: The path forks and a lone hiker behind you looks lost. You double back to walk them to the junction before carrying on your own way.
 facetHighTitle: The Pan Turned, Every Shell Caught

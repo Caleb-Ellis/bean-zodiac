@@ -17,10 +17,10 @@ fortuneMost2: Something you say with no warning will be carried for years by the
 fortuneHigh: A small question is coming with a larger one folded inside it. Answer the part they were really asking.
 fortuneHigh2: Walk a long road alone and the thing you've been circling will finally settle into words.
 fortuneMid: Hold the question through the evening. Answer in the morning.
-fortuneMid2: Ask the follow-up, not the verdict, and watch the other person walk themselves down to the real thing.
+fortuneMid2: Ask the follow-up, not the verdict.
 fortuneLow: Move things around until the place makes sense, and trust the sense your hands made without plumbing it.
-fortuneLow2: Take an answer at its surface for once. The shallows are the whole of it sometimes — odd as that feels to you, it's a relief.
-fortuneLeast: Pay what's owed, say the apology, and let the matter close before it can deepen. Finished beats fathomed, even if you'd rather dig.
+fortuneLow2: Take an answer at its surface for once.
+fortuneLeast: Pay what's owed, say the apology, and let the matter close before it can deepen.
 fortuneLeast2: Good news comes plain this time, with nothing underneath to excavate. Let it be exactly as light as it looks.
 facetMostTitle: The Smoke Finding the Bone
 facetMost: Past the easy answer, down toward the true one — that's where you head when a child on the bus asks why the tide goes out.

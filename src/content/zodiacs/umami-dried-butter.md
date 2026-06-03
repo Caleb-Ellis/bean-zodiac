@@ -14,14 +14,14 @@ antiForm: fried
 seasonalFortune: A long oven season; tomato deepens into anchovy without anyone watching. The hours do their own salting, and the cook learns to leave the door shut.
 fortuneMost: People will drift to you the way they drift to a warm kitchen — not for an answer, for the ease of sitting inside your calm.
 fortuneMost2: You'll walk into a room braced for an argument and the argument will forget what it was about.
-fortuneHigh: Someone will try to hurry you. Decline gently and let the work keep deciding for itself; what matters arrives finished anyway.
-fortuneHigh2: A friend who talks past every polite stopping point needs the chair held, not the clock checked. Stay until they reach the end.
-fortuneMid: The thing slow-baking doesn't need you hovering. The hours salt it on their own.
-fortuneMid2: A decision crowded by everyone's opinions gets lighter the moment you stop adding yours. Let it sort itself out.
-fortuneLow: The yes you've been letting steep already came. Act on it before the warmth of it cools — waiting past this point isn't peace.
-fortuneLow2: Settle the small thing while it's small. Answering early costs you the long simmer you love, and saves you the month of dread.
-fortuneLeast: Wake already moving and eat standing for once. The day runs faster when you do, though the stillness will call you back by noon.
-fortuneLeast2: Pick the plan yourself and say so plainly. A little briskness clears the week — even if it feels like skipping a course you'd meant to savour.
+fortuneHigh: Someone will try to hurry you.
+fortuneHigh2: A friend who talks past every polite stopping point needs the chair held, not the clock checked.
+fortuneMid: The thing slow-baking doesn't need you hovering.
+fortuneMid2: A decision crowded by everyone's opinions gets lighter the moment you stop adding yours.
+fortuneLow: The yes you've been letting steep already came.
+fortuneLow2: Settle the small thing while it's small.
+fortuneLeast: Wake already moving and eat standing for once.
+fortuneLeast2: Pick the plan yourself and say so plainly.
 facetMostTitle: The Anchovy's Long Give
 facetMost: Ferry cancelled, the whole queue scrambling on their phones to rebook — and there you are on a sunny bench, watching the gulls, content to wait out the next one.
 facetHighTitle: Oregano in the Oil

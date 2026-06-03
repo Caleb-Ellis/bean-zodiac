@@ -12,16 +12,16 @@ antiBeans: [fava, green]
 friendlyForm: boiled
 antiForm: fried
 seasonalFortune: A house where the sugar pan is never quite empty; lemons go soft on the sill before anyone minds, and the oven runs warm into the evening for no particular reason.
-fortuneMost: You walk in tight-shouldered and a minute later an arm has uncrossed and the story's gotten better. That's just what you do to a place.
-fortuneMost2: Show up to the dreaded thing in something a little silly. The silliness does the heavy lifting; it always has.
-fortuneHigh: Late again, zest under a fingernail, pastries in hand — and the lateness becomes the gift. Nobody clocks the minutes, only the sugar.
-fortuneHigh2: A stiff afternoon turns soft this turn, and you're the reason. The small gentle joke lands and shoulders come down two inches.
-fortuneMid: Glaze the easy half golden, leave the scorched corners for someone steadier. You'll begin again next time, just as gladly.
-fortuneMid2: Not every heavy moment wants lightening. Top up the cup, ask the softer question, let the joke sit in your pocket.
-fortuneLow: Someone asks how you are and means it — skip the cheerful "good." One true word is allowed to land heavy, even if dropping the bright reply feels like dropping the act.
-fortuneLow2: A friend wants the weather bad alongside them. Hold still while the face crumples; the lift can wait.
-fortuneLeast: Cancel the bright thing and lie on the floor. The floor's been asking; you owe nobody your sunshine, though going dim will feel like letting them down.
-fortuneLeast2: A flat, golden, evenly-baked stretch with no laughter spent on the process. Let the gravity be yours too — it sits oddly, but it's honest.
+fortuneMost: You walk in tight-shouldered and a minute later an arm has uncrossed and the story's gotten better.
+fortuneMost2: Show up to the dreaded thing in something a little silly.
+fortuneHigh: Late again, zest under a fingernail, pastries in hand — and the lateness becomes the gift.
+fortuneHigh2: A stiff afternoon turns soft this turn, and you're the reason.
+fortuneMid: Glaze the easy half golden, leave the scorched corners for someone steadier.
+fortuneMid2: Not every heavy moment wants lightening.
+fortuneLow: Someone asks how you are and means it — skip the cheerful "good."
+fortuneLow2: A friend wants the weather bad alongside them.
+fortuneLeast: Cancel the bright thing and lie on the floor.
+fortuneLeast2: A flat, golden, evenly-baked stretch with no laughter spent on the process.
 facetMostTitle: Sugar at the Edges First
 facetMost: The lift jolts to a stop between floors and the four strangers go stiff with it. You're already making the kind of crack that gets the first nervous laugh.
 facetHighTitle: The Oven Runs Long

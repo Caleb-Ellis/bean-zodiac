@@ -12,16 +12,16 @@ antiBeans: [chickpea, fava]
 friendlyForm: boiled
 antiForm: fermented
 seasonalFortune: Smoke settles into what stays still. The pot holds its low fire through the long afternoon; a life shaped this way accrues by refusing to lift the lid.
-fortuneMost: Cassoulet only rewards the cook who holds the low fire through the whole long afternoon — cold days, no audience, lid down. That's you, and one more hour finishes what the lid-lifters never will.
-fortuneMost2: The slow ugly work everyone wrote off as abandoned is yours to carry through. By the time they circle back, it'll be shaped exactly the way you called it.
-fortuneHigh: The door you keep shoulder-checking may already be unlatched. Try the handle before you push harder — sometimes the obstacle is the pushing.
-fortuneHigh2: A small debt has been open on your books a long while. Settle it, however old the ledger; you'll work lighter for it.
-fortuneMid: Pausing to look isn't quitting. Hear out the friend who says the plan was wrong, and adjust the next stage.
-fortuneMid2: Tired, sore, working past the hour the place empties — that's the shape of you. Just check the push still serves the thing and not only the habit.
-fortuneLow: Some vows outlive the reason they were made. Say the old one aloud and ask, honestly, whether it still feeds you or just smolders.
-fortuneLow2: Not every start is owed an ending. The half-built shelf, the half-read book — move on when the shape stops fitting.
-fortuneLeast: The pot's been simmering months for no one hungry, and the project stopped making sense around then too. Let it go cold; turning around is only sense.
-fortuneLeast2: A grudge softens in the pocket like a bean left too long. This turn favors the hand that opens — call the letting-go what it is... strength.
+fortuneMost: Cassoulet only rewards the cook who holds the low fire through the whole long afternoon — cold days, no audience, lid down.
+fortuneMost2: The slow ugly work everyone wrote off as abandoned is yours to carry through.
+fortuneHigh: The door you keep shoulder-checking may already be unlatched.
+fortuneHigh2: A small debt has been open on your books a long while.
+fortuneMid: Pausing to look isn't quitting.
+fortuneMid2: Tired, sore, working past the hour the place empties — that's the shape of you.
+fortuneLow: Some vows outlive the reason they were made.
+fortuneLow2: Not every start is owed an ending.
+fortuneLeast: The pot's been simmering months for no one hungry, and the project stopped making sense around then too.
+fortuneLeast2: A grudge softens in the pocket like a bean left too long.
 facetMostTitle: Eight Hours, Still in the Pot
 facetMost: Three people have already handed back the stuck jar lid in defeat. You keep at it well past sense — knuckles white, towel, hot water, the whole campaign — rather than pass it on.
 facetHighTitle: Duck Fat's Long Memory

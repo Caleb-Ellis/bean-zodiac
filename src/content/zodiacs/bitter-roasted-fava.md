@@ -12,16 +12,16 @@ antiBeans: [cannellini, navy]
 friendlyForm: fried
 antiForm: fermented
 seasonalFortune: A season ground in the stone before the stone has a name. Bitter herb meets charred fava and the paste invents its own colour; whoever tastes it tastes the edge of somewhere unmapped.
-fortuneMost: The thing nobody's asked for yet is yours to start. That permission you were waiting on was a delay you invented.
-fortuneMost2: A road is opening under your feet where the map showed nothing. Start walking and trust the smoke to find its bearings.
+fortuneMost: The thing nobody's asked for yet is yours to start.
+fortuneMost2: A road is opening under your feet where the map showed nothing.
 fortuneHigh: Be first through the door. It only opens this way once, and whoever you're waiting on is waiting on you.
-fortuneHigh2: Name the route before the vote, and the rest fall in behind you. It's the first hand to the stone that the day rewards.
+fortuneHigh2: Name the route before the vote, and the rest fall in behind you.
 fortuneMid: Glance back before the next turn. The silence you've read as agreement might just be no one following.
-fortuneMid2: Float the idea and see who bites before you cut the whole road. Not every path needs you out ahead of it.
-fortuneLow: The familiar supper in the familiar order has plenty left to give. Walk the known road again, though your feet itch for the unmarked one.
-fortuneLow2: Falling in behind whoever sounds surest isn't a defeat. Going first isn't the only way through — hard as that is to hold to.
-fortuneLeast: A path is coming where someone else should scout ahead. Wait for the third voice before you move, though every nerve says go now.
-fortuneLeast2: Another hand opens the door and you follow them in, nose down. It costs you the lead you love, and it's the right trade to make.
+fortuneMid2: Float the idea and see who bites before you cut the whole road.
+fortuneLow: The familiar supper in the familiar order has plenty left to give.
+fortuneLow2: Falling in behind whoever sounds surest isn't a defeat.
+fortuneLeast: A path is coming where someone else should scout ahead.
+fortuneLeast2: Another hand opens the door and you follow them in, nose down.
 facetMostTitle: No Recipe, Only Char
 facetMost: A skill nobody around you has, a teacher you can't find, and no clear way in — you start teaching it to yourself that night anyway.
 facetHighTitle: First Into the Flame

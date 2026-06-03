@@ -12,16 +12,16 @@ antiBeans: [edamame, green]
 friendlyForm: smoked
 antiForm: fried
 seasonalFortune: A season in which rice wine quietly turns the bean toward sweetness. Steam rises over covered cakes; the work that matters happens beneath cloth, unwitnessed.
-fortuneMost: Find the register that lets the difficult one be wrong without shame. That softness is your whole craft.
-fortuneMost2: When the room raises its voice, lower yours. Strange luck of the gentle — the room ends up following the quiet one.
-fortuneHigh: The tired friend's first answer was hiding a second one. Ask after that one.
-fortuneHigh2: The kind thing you wrote to talk yourself down fits someone else just as well. Let it travel.
-fortuneMid: Turn the patience inward. Speak to your own bad day the way you'd speak to a friend stuck inside it.
+fortuneMost: Find the register that lets the difficult one be wrong without shame.
+fortuneMost2: When the room raises its voice, lower yours.
+fortuneHigh: The tired friend's first answer was hiding a second one.
+fortuneHigh2: The kind thing you wrote to talk yourself down fits someone else just as well.
+fortuneMid: Turn the patience inward.
 fortuneMid2: A good thing is coming to a plain evening — and you, of all people, are allowed to enjoy it without earning it first.
-fortuneLow: Name it at its real volume, no softening preface. The warmth lives in your face; the apology in front of it costs you and adds nothing.
-fortuneLow2: Kind and clear at the same time — say it straight and sweet, no cushion. Dropping the cushion will feel risky; do it.
-fortuneLeast: The blunt thing, said across the table. The whole evening moves faster for it, even if your instinct begs to soften the edge first.
-fortuneLeast2: Lead with the ask, skip the easing-in entirely. Plainness is the kinder thing here, however unkind it feels in your mouth.
+fortuneLow: Name it at its real volume, no softening preface.
+fortuneLow2: Kind and clear at the same time — say it straight and sweet, no cushion.
+fortuneLeast: The blunt thing, said across the table.
+fortuneLeast2: Lead with the ask, skip the easing-in entirely.
 facetMostTitle: The Cake Set Just So
 facetMost: A new hire just sent the whole order to the wrong address, and they've gone white waiting for the fallout. You pitch your voice low and easy, finding the words that let the mistake be a mistake and nothing worse.
 facetHighTitle: Rice Wine in the Batter

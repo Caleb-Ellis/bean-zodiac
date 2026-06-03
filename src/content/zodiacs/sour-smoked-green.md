@@ -12,16 +12,16 @@ antiBeans: [butter, navy]
 friendlyForm: fried
 antiForm: boiled
 seasonalFortune: A season when the leather britches hang in the rafters and tell the kitchen what month it is before the calendar does. Vinegar sharpens; hock-smoke insists.
-fortuneMost: The take goes out unsoftened. The hedged version is the one nobody quotes, and what nobody quotes nobody uses.
-fortuneMost2: An opinion strung up fully formed where everyone can see it, like britches in the rafters. They'll quote you back to yourself, and that's the point.
-fortuneHigh: Your opinion arrives somewhere ahead of you, the way hock-smoke reaches a kitchen before the cook. Make sure it's a room you'd have chosen to enter first.
-fortuneHigh2: Say the thing the others have quietly arranged themselves around. The unsure ones come find you and leave clearer.
-fortuneMid: Plain words, not a shrug. Mumbled, the take sounds like weather; said straight, it sounds like a position.
-fortuneMid2: They know where you stand before you sit. Let them; the clarity spares everyone the guessing.
-fortuneLow: A wrong story drifts by and your head's already nodding it along. Let it pass. A refill and a nod aren't the agreement you'd pretend they are.
-fortuneLow2: A stranger's lazy take, and you change the subject instead of correcting it. Some days the peace outweighs the point, and this is one.
-fortuneLeast: Spend one verdict and stay silent on the rest. Let that single take be the whole of what you give, and notice the room doesn't go cold for it.
-fortuneLeast2: Land where the group lands, for the novelty of it. It'll feel like losing yourself; it's only handing someone else the wheel a while.
+fortuneMost: The take goes out unsoftened.
+fortuneMost2: An opinion strung up fully formed where everyone can see it, like britches in the rafters.
+fortuneHigh: Your opinion arrives somewhere ahead of you, the way hock-smoke reaches a kitchen before the cook.
+fortuneHigh2: Say the thing the others have quietly arranged themselves around.
+fortuneMid: Plain words, not a shrug.
+fortuneMid2: They know where you stand before you sit.
+fortuneLow: A wrong story drifts by and your head's already nodding it along.
+fortuneLow2: A stranger's lazy take, and you change the subject instead of correcting it.
+fortuneLeast: Spend one verdict and stay silent on the rest.
+fortuneLeast2: Land where the group lands, for the novelty of it.
 facetMostTitle: Britches Strung All Winter
 facetMost: The film ends, the lights come up, and someone asks if it was any good. Out comes the whole verdict, fully formed — no hedge, no maybe.
 facetHighTitle: Smoke in the Cupboard Linens

@@ -12,16 +12,16 @@ antiBeans: [mung, butter]
 friendlyForm: dried
 antiForm: boiled
 seasonalFortune: Ponzu has been pulling acid from yuzu peel for weeks; what arrives at the bowl is no longer sharp citrus but a settled verdict, ready to season what it meets.
-fortuneMost: Count it out before you say yes. A choice made on a feeling rarely survives contact with the actual figures, and you know it.
-fortuneMost2: The hard decisions land in your lap because you won't flinch toward the comfortable answer. Turn this one over until it accounts for itself.
-fortuneHigh: The whole argument breaks at one step. Find that step; stop defending the rest of it.
-fortuneHigh2: The reply written hot loses to the one written clear. Set it down overnight and send what survives the cool head.
-fortuneMid: When someone asks why, "I don't know yet" is a fine answer. Inventing a reason on the spot is the expensive one.
-fortuneMid2: A flawless case delivered cool can carry the logic and lose the person. Sit beside them in it before you reach the verdict.
-fortuneLow: You're studying the hinge of a door that's already standing open. Step through — you can examine it just as well from the far side.
-fortuneLow2: Your first read of a stranger has come right more often than the long weigh-up does. Trust it, knowing there'll be no figures to blame if it's wrong this time.
-fortuneLeast: What your gut already chose is most likely the answer; the reasoning can catch up later. Moving first on instinct will feel unmoored — move anyway.
-fortuneLeast2: Eat when hungry, rest when tired, take the place that felt like home in the doorway. Leaving a few things unjustified costs your certainty, not your judgement.
+fortuneMost: Count it out before you say yes.
+fortuneMost2: The hard decisions land in your lap because you won't flinch toward the comfortable answer.
+fortuneHigh: The whole argument breaks at one step.
+fortuneHigh2: The reply written hot loses to the one written clear.
+fortuneMid: When someone asks why, "I don't know yet" is a fine answer.
+fortuneMid2: A flawless case delivered cool can carry the logic and lose the person.
+fortuneLow: You're studying the hinge of a door that's already standing open.
+fortuneLow2: Your first read of a stranger has come right more often than the long weigh-up does.
+fortuneLeast: What your gut already chose is most likely the answer; the reasoning can catch up later.
+fortuneLeast2: Eat when hungry, rest when tired, take the place that felt like home in the doorway.
 facetMostTitle: The Peel's Own Clock
 facetMost: Never mind the salesperson swearing this is the best phone for you — the pitch washes right past while you line the specs up side by side, and you won't so much as hold it until they do.
 facetHighTitle: Tang That Needs Time

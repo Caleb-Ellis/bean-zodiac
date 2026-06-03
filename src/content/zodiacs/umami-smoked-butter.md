@@ -12,16 +12,16 @@ antiBeans: [green, kidney]
 friendlyForm: boiled
 antiForm: fried
 seasonalFortune: The season holds at a low simmer. Smoke pools in the rafters and refuses to leave. Days thicken the way pot liquor thickens — by sitting, not by stirring.
-fortuneMost: The long story keeps all three digressions because you wait every one out, and it pours sweeter for it, like pot liquor that thickened by sitting.
+fortuneMost: The long story keeps all three digressions because you wait every one out, and it pours sweeter for it.
 fortuneMost2: Good things come to you slow — the unhurried kind that thicken by sitting, not by stirring.
-fortuneHigh: Sleep until the body finishes its own work. The alarm is a stranger knocking at a house already gone to the marrow.
-fortuneHigh2: A book face-down on the chair arm, a pot left to its own hours. Nothing in reach of you needs hurrying.
-fortuneMid: Pace is yours, but aim is owed. Pick one direction — a door, a name — and let the simmer carry you toward it.
-fortuneMid2: Ease without stalling. Choose the next thing yourself, before the drift chooses it for you and calls it a choice.
-fortuneLow: You've been the slow warm center so long you stopped seeing the cup nearest you gone cold. Fill that one too, even though tending breaks the drift.
-fortuneLow2: Arrive a little ahead and pour for the others first. Getting there early will feel like swimming upstream; do it anyway.
-fortuneLeast: A taxi idles at the curb and the choice is yours before the announcement finishes. Quick isn't always worse, even when it costs you the bench.
-fortuneLeast2: Set the phone down between sentences — though the faster reply might be the kinder one here, and you'll resent that it's true.
+fortuneHigh: Sleep until the body finishes its own work.
+fortuneHigh2: A book face-down on the chair arm, a pot left to its own hours.
+fortuneMid: Pace is yours, but aim is owed.
+fortuneMid2: Ease without stalling.
+fortuneLow: You've been the slow warm center so long you stopped seeing the cup nearest you gone cold.
+fortuneLow2: Arrive a little ahead and pour for the others first.
+fortuneLeast: A taxi idles at the curb and the choice is yours before the announcement finishes.
+fortuneLeast2: Set the phone down between sentences.
 facetMostTitle: The Ham Hock's Hours
 facetMost: Stretch out on the warm dock boards — the ferry's an hour off, and the hour is the whole point of it.
 facetHighTitle: Smoke to the Marrow

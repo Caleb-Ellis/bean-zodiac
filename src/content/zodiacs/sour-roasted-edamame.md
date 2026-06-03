@@ -12,16 +12,16 @@ antiBeans: [mung, fava]
 friendlyForm: fried
 antiForm: fermented
 seasonalFortune: The season favors pods that crack on the pan. What was hidden under the shell now salts the air, and rooms around such people learn quickly what they are.
-fortuneMost: This turn the pod cracks on the pan and the air clears for it. The plain sentence dissolves the wrong question before it's even finished forming.
-fortuneMost2: Someone across from you has spent ages rehearsing a polite version of the same thought. When you just say it, the gratitude lands fast and quiet.
-fortuneHigh: Skip the weather. The thing you came to say is the whole conversation — start there, end early.
-fortuneHigh2: Say what you think the real trouble is and let them push back. Salt goes on after the roast, never before.
-fortuneMid: One sentence does the work of ten. Say only that and let the other nine fall away.
-fortuneMid2: A debt answered soon after it lands settles clean. Carried, it only steams off the tray for nothing.
-fortuneLow: The next turn is theirs to find — hand over the corner, not the whole road atlas, even if keeping the rest back feels like withholding.
-fortuneLow2: Point at it with a question instead of spelling it out. You lose the relief of saying it plain, and some discoveries belong to the one arriving at them.
-fortuneLeast: A thing left to surface on its own gets met at the finder's own pace — so skip the headline, even though going quiet pinches with the truth right there.
-fortuneLeast2: Finish the work in private and let it sit before you show anyone. Staying salt-held grates on you, and the patience turns out to be its own generosity.
+fortuneMost: This turn the pod cracks on the pan and the air clears for it.
+fortuneMost2: Someone across from you has spent ages rehearsing a polite version of the same thought.
+fortuneHigh: Skip the weather.
+fortuneHigh2: Say what you think the real trouble is and let them push back.
+fortuneMid: One sentence does the work of ten.
+fortuneMid2: A debt answered soon after it lands settles clean.
+fortuneLow: The next turn is theirs to find — hand over the corner, not the whole road atlas.
+fortuneLow2: Point at it with a question instead of spelling it out.
+fortuneLeast: A thing left to surface on its own gets met at the finder's own pace — so skip the headline.
+fortuneLeast2: Finish the work in private and let it sit before you show anyone.
 facetMostTitle: The Pod at the Seam
 facetMost: The whole table is circling a problem nobody will name. You crack it open in one plain sentence and let the air clear.
 facetHighTitle: Roast Loud, Salt After

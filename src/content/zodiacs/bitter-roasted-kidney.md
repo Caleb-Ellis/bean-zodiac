@@ -12,16 +12,16 @@ antiBeans: [edamame, fava]
 friendlyForm: smoked
 antiForm: dried
 seasonalFortune: A roasted kidney holds its shape against the heat. The season favours those who have already done the work of becoming themselves, and asks only that they stand still inside it.
-fortuneMost: Leave the part that cost you most unsoftened. The polish you'd add is exactly what makes a thing forgettable.
-fortuneMost2: You'll walk into a gathering and the air will arrange itself around your posture without your asking. That presence is squarely on your side.
-fortuneHigh: Asked to justify your worth, name it once and stop. The itemised version is the one that loses the argument.
-fortuneHigh2: A stranger meets you at exactly your size, neither shrunk to please nor swollen to claim. That's the thing that earns their respect.
-fortuneMid: There's room for two full heights at this table. The new person is already reaching up to meet yours — leave them the space to.
-fortuneMid2: Hold your shape against the heat. Then look round the table for who else is standing tall and going unseen.
-fortuneLow: Another hand on the pot, working it their way, finishes the thing faster and takes nothing off your height. Hand over the spoon, though the yielding prickles.
-fortuneLow2: A doorway's coming where the space you'd fill is space a quieter one needed. Make yourself smaller in it — hard as that is to choose on purpose.
-fortuneLeast: The straight back can come down. A slump is only rest — sleep in whatever crease the day folded you into, though going soft feels like surrender at first.
-fortuneLeast2: When it comes up whose way it goes, ask what they had in mind, and mean the question. Bending here costs you nothing you'll actually miss, whatever pride insists.
+fortuneMost: Leave the part that cost you most unsoftened.
+fortuneMost2: You'll walk into a gathering and the air will arrange itself around your posture without your asking.
+fortuneHigh: Asked to justify your worth, name it once and stop.
+fortuneHigh2: A stranger meets you at exactly your size, neither shrunk to please nor swollen to claim.
+fortuneMid: There's room for two full heights at this table.
+fortuneMid2: Hold your shape against the heat.
+fortuneLow: Another hand on the pot, working it their way, finishes the thing faster and takes nothing off your height.
+fortuneLow2: A doorway's coming where the space you'd fill is space a quieter one needed.
+fortuneLeast: The straight back can come down.
+fortuneLeast2: When it comes up whose way it goes, ask what they had in mind, and mean the question.
 facetMostTitle: The Blister Kept
 facetMost: A wrong turn has you lost in a strange town with a meeting in ten minutes. Sooner than ask the man on the corner, you keep driving and trust yourself to find it.
 facetHighTitle: Paprika Before the Lid Lifts

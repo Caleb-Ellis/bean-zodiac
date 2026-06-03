@@ -13,13 +13,13 @@ friendlyForm: fermented
 antiForm: smoked
 seasonalFortune: Oil hits batter and the kitchen goes loud. A season for arrivals that come rolling in, sesame-flecked, refusing to enter a room without announcing themselves first.
 fortuneMost: Bake the cake for the ordinary Wednesday. No occasion is the occasion.
-fortuneMost2: Hot oil, a loud kitchen, sesame everywhere — a week of arrivals is rolling toward you, and you'll be the one who makes them count.
-fortuneHigh: The dumb photo, the whole group, no caption needed. You just want them all in on it.
+fortuneMost2: Hot oil, a loud kitchen, sesame everywhere — a week of arrivals is rolling toward you.
+fortuneHigh: The dumb photo, the whole group, no caption needed.
 fortuneHigh2: Someone's small win is going to land in your lap, and you'll throw it the welcome a bigger one would've gotten.
 fortuneMid: Whatever's in your hand right now, raise it for the thing that quietly made it through.
 fortuneMid2: A reason to call everyone over is coming. Until then you're fine without one.
 fortuneLow: Loud is easy for you. When it surges, glance once at what's underneath.
-fortuneLow2: A gladness is coming that wants no crowd. Holding it quietly won't dim it, though your hands will itch to roll it out for everyone.
+fortuneLow2: A gladness is coming that wants no crowd. Holding it quietly won't dim it.
 fortuneLeast: One friend, something hot from the pan, nothing announced. Let it be the whole evening.
 fortuneLeast2: You can be happy for someone without filling the air — hand them the moment and step back.
 facetMostTitle: Sesame in the Coat Seams

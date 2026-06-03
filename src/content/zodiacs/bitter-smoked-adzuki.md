@@ -12,16 +12,16 @@ antiBeans: [kidney, green]
 friendlyForm: fermented
 antiForm: roasted
 seasonalFortune: Smoke drifts ahead of the flame this season; the reader who names the shape in the haze keeps a small advantage over the rest of the room.
-fortuneMost: You already know how this one ends. Say it out loud while there's still time to spare someone the trip.
-fortuneMost2: A reckoning is on its way, and you'll catch the scent of it long before anyone else. Of everyone here, you are the early warning — trust that.
-fortuneHigh: A stranger's going to tell you something, and you'll know the truth of it three words in. Believe the part they haven't said yet.
-fortuneHigh2: Good news rides in on a hunch you've been half-ashamed to carry. It's the right one. Back it.
-fortuneMid: You've got a read you'd put money on. Hand it over the first time it matters, not at the bedside afterward.
+fortuneMost: You already know how this one ends. Say it out loud while there's still time.
+fortuneMost2: A reckoning is on its way, and you'll catch the scent of it long before anyone else.
+fortuneHigh: A stranger's going to tell you something, and you'll know the truth of it three words in.
+fortuneHigh2: Good news rides in on a hunch you've been half-ashamed to carry.
+fortuneMid: You've got a read you'd put money on. Hand it over the first time it matters.
 fortuneMid2: Faint as char on a rind, the sign is already there.
-fortuneLow: A flicker comes in ahead of the proof, and your hand twitches toward it. Let the rest catch up — knowing early is no use if you spend it too soon, hard as the wait sits.
-fortuneLow2: Not every draft means a door's about to open. You can leave this one unread and trust it to keep, though leaving it alone will itch.
-fortuneLeast: The thing you stood guard against all night drifted past in the dark and kept going. Some skies turn on their own, no watcher required — strange, how light that makes you.
-fortuneLeast2: Tomorrow can stay tomorrow's. There's a rest in it you don't quite trust yet, and it's yours anyway.
+fortuneLow: A flicker comes in ahead of the proof, and your hand twitches toward it. Let the rest catch up.
+fortuneLow2: Not every draft means a door's about to open. You can leave this one unread.
+fortuneLeast: The thing you stood guard against all night drifted past in the dark and kept going.
+fortuneLeast2: Tomorrow can stay tomorrow's.
 facetMostTitle: Ember Spelling Its Name
 facetMost: Two cars hesitate at a four-way stop. You already know which one bolts, and you brake for it a full second before it moves.
 facetHighTitle: Black Garlic, Already Turned

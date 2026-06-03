@@ -12,16 +12,16 @@ antiBeans: [navy, black]
 friendlyForm: roasted
 antiForm: dried
 seasonalFortune: A season of hot oil and short fuses. Plans crackle into shape mid-air; the patient ones scorch, and the quick hands learn which spits to stand close to.
-fortuneMost: The one idea that won't leave you alone is the one to start. The other three are alibis.
-fortuneMost2: A shuttered front on a street you've crossed a hundred times, and you'll see exactly what it should be. The gap is yours — go find who holds the keys.
-fortuneHigh: Say it out loud to one person before it cools. Spoken, it becomes a commitment a kept thought never is.
-fortuneHigh2: The gap is real, the instinct sound, the oil still spitting. This is your stretch to begin.
-fortuneMid: Finish the older one first. The shinier new one is just a way to avoid landing the one you already saw clearly.
-fortuneMid2: One small stone is how a mountain moves — or it doesn't move at all. Pick a stone of this and lift.
-fortuneLow: An opening closes while you watch, and you don't walk through. It scratches. Not every door in the world was waiting for you.
-fortuneLow2: The half-planned trip keeps. It doesn't sour for sitting a thought longer, whatever the restless part insists.
-fortuneLeast: A good idea passes clean through you and out the far side. Some sparks aren't fires — they're only weather.
-fortuneLeast2: Years at one bench, and the drawer beside it knows every pen by name. It nags at the restless part of you; it was still worth the staying.
+fortuneMost: The one idea that won't leave you alone is the one to start.
+fortuneMost2: A shuttered front on a street you've crossed a hundred times, and you'll see exactly what it should be.
+fortuneHigh: Say it out loud to one person before it cools.
+fortuneHigh2: The gap is real, the instinct sound, the oil still spitting.
+fortuneMid: Finish the older one first.
+fortuneMid2: One small stone is how a mountain moves — or it doesn't move at all.
+fortuneLow: An opening closes while you watch, and you don't walk through.
+fortuneLow2: The half-planned trip keeps.
+fortuneLeast: A good idea passes clean through you and out the far side.
+fortuneLeast2: Years at one bench, and the drawer beside it knows every pen by name.
 facetMostTitle: Oil at the First Spit
 facetMost: A long queue at the festival gate, no one selling water, the sun brutal. By the time you reach the front you've costed a cooler, a cart, and a teenager to run it.
 facetHighTitle: Batter Before the Herbs

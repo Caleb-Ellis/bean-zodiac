@@ -13,15 +13,15 @@ friendlyForm: smoked
 antiForm: fried
 seasonalFortune: A season for the slow stare. Glaze hardens over what matters; the season belongs to those willing to crack it and read what cooled underneath.
 fortuneMost: You saw it early and you're right. Say it out loud — the answer's been waiting on your voice the whole time.
-fortuneMost2: While everyone argues the surface, you've already found the real question underneath. A door opens for whoever answers that one instead.
+fortuneMost2: While everyone argues the surface, you've already found the real question underneath.
 fortuneHigh: The real worry sits just under the words someone chose. Listen for the gap, not the sentence.
-fortuneHigh2: Star anise points eight ways at once. Follow the small wrong note you caught and everyone else let pass.
-fortuneMid: Walk away from the thing you're stuck on. Out on the road, with nothing to crack open, the load-bearing piece surfaces on its own.
-fortuneMid2: You read fast. The slow read is the truer one — a sense is settling, so give it the hour it needs.
-fortuneLow: Sometimes "I'm fine" is just the truth, and the kind thing is to take it. Letting a quiet stay closed will itch — let it itch.
-fortuneLow2: Not every seam is yours to mend. Watching someone find their own way through it costs you the urge to fix it.
+fortuneHigh2: Follow the small wrong note you caught and everyone else let pass.
+fortuneMid: Walk away from the thing you're stuck on. Out on the road, the load-bearing piece surfaces on its own.
+fortuneMid2: You read fast. The slow read is the truer one — give it the hour it needs.
+fortuneLow: Sometimes "I'm fine" is just the truth, and the kind thing is to take it.
+fortuneLow2: Not every seam is yours to mend.
 fortuneLeast: The friend you saw clearly years ago is someone else now. Meeting the new person means losing the one you were sure of.
-fortuneLeast2: A plan quietly stopped working a while back. Pick up the next one. No funeral, even though part of you wants to honour what you understood so well.
+fortuneLeast2: A plan quietly stopped working a while back. Pick up the next one.
 facetMostTitle: Star Anise, Eight Directions
 facetMost: Mid-argument, two strangers on the train platform; by the second exchange you've quietly clocked which one actually wants to lose, and you're rarely wrong about that.
 facetHighTitle: The Bite That Keeps

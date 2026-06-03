@@ -13,15 +13,15 @@ friendlyForm: smoked
 antiForm: boiled
 seasonalFortune: Koji works in the dark for weeks before flavor declares itself. The season belongs to the slow accumulators — those who file what they see and wait.
 fortuneMost: Who came in together, who isn't speaking, which small thing is off — you've read the whole place before you sit.
-fortuneMost2: You filed it long before anyone else looked up, and now it's ripened into something usually correct. Keep gathering what passes the rest of them by.
-fortuneHigh: The quietest one on the street corner is holding the thing worth hearing. Notice them, ask, wait out the pause.
-fortuneHigh2: You've already clocked the tells nobody else registered. Let one out loud — the seeing helps no one in the private file.
-fortuneMid: You catch the off note before anyone will admit it's there, and then you keep it. Being first to see it only counts said.
-fortuneMid2: Your ear catches the brine settling, the half-step shift, the thing about to change. Don't bank every reading; let the one that matters out.
-fortuneLow: Let a detail slide past uncatalogued. The moment asked less of you than the pen in your hand thinks.
-fortuneLow2: Move when the moment moves and don't reread the page you just turned. The point arrives whether or not you watched for it.
-fortuneLeast: An omen for the half-closed eye this turn — what you let go by unwatched has already passed through you whole. Some part of you will reach for the pen anyway; you're none the poorer.
-fortuneLeast2: The unread stack climbs and you scroll past it without a flinch. Not needing to register every single thing is its own freedom.
+fortuneMost2: You filed it long before anyone else looked up, and now it's ripened into something usually correct.
+fortuneHigh: The quietest one on the street corner is holding the thing worth hearing.
+fortuneHigh2: You've already clocked the tells nobody else registered — let one out loud.
+fortuneMid: You catch the off note before anyone will admit it's there, and then you keep it.
+fortuneMid2: Your ear catches the brine settling, the half-step shift, the thing about to change.
+fortuneLow: Let a detail slide past uncatalogued.
+fortuneLow2: Move when the moment moves and don't reread the page you just turned.
+fortuneLeast: What you let go by unwatched has already passed through you whole.
+fortuneLeast2: The unread stack climbs and you scroll past it without a flinch.
 facetMostTitle: The Hidden Grain
 facetMost: A painting you've walked past a hundred times — and you stop, because today you've noticed the figure in the far window that changes the whole scene.
 facetHighTitle: Yuzu Before It Bites

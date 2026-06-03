@@ -12,16 +12,16 @@ antiBeans: [cannellini, pinto]
 friendlyForm: roasted
 antiForm: smoked
 seasonalFortune: A season of hot oil and short answers. The shiitake gives up its water; what stays in the pan is what was always going to stay.
-fortuneMost: The shiitake gives up its water and what stays in the pan is what was always going to stay. Your week burns off the same way — clean, short, exactly enough.
-fortuneMost2: The elaborate plan and the obvious one do the same job. Clever has never once impressed you when simple was already on the table.
-fortuneHigh: Repair it before you replace it. The fix that holds beats the upgrade that dazzles.
-fortuneHigh2: The same shoes, bought again. A small windfall is hiding in the things you refuse to buy twice.
-fortuneMid: Before you sign on, ask what problem it actually solves. Often the honest answer is none.
+fortuneMost: The shiitake gives up its water and what stays in the pan is what was always going to stay.
+fortuneMost2: The elaborate plan and the obvious one do the same job.
+fortuneHigh: Repair it before you replace it.
+fortuneHigh2: The same shoes, bought again.
+fortuneMid: Before you sign on, ask what problem it actually solves.
 fortuneMid2: Take the part of the new system that works and quietly let the rest go.
-fortuneLow: Some things have no answer key. Let the decision sit a night, even when the rushed version is right there and ready to ship.
-fortuneLow2: When someone names a hard feeling, they don't want it solved — they want it heard. Sit in it a beat before you reach for the fix.
-fortuneLeast: Keep the chipped cup, the receipt with the good handwriting, the thing with no use. Not everything has to earn its keep.
-fortuneLeast2: Build the over-elaborate version once, purely because it pleases you. Usefulness isn't the only reason to make a thing.
+fortuneLow: Some things have no answer key.
+fortuneLow2: When someone names a hard feeling, they don't want it solved — they want it heard.
+fortuneLeast: Keep the chipped cup, the receipt with the good handwriting, the thing with no use.
+fortuneLeast2: Build the over-elaborate version once, purely because it pleases you.
 facetMostTitle: Soy to a Black Line
 facetMost: The instructions run twelve steps; you've already got the shelf on the wall by step four and the rest stays in the box.
 facetHighTitle: The Fritter on Contact

@@ -12,16 +12,16 @@ antiBeans: [black, mung]
 friendlyForm: roasted
 antiForm: fermented
 seasonalFortune: A pot of harira keeps changing for hours — tomato thinning, lemon sharpening, chickpea giving up its edge. The kitchens that thrive this season are the ones tended slowly.
-fortuneMost: A better plan is on its way, half-cooked and a little tart like harira an hour in. When it lands, drop the old one without ceremony.
-fortuneMost2: Good news, and it arrives sideways. The evening that turns at the door becomes the one you wanted.
-fortuneHigh: The question shifts while you're still answering it. Let the old answer go without a funeral and meet the new one — you do this better than most.
-fortuneHigh2: You match their weather, their pace, the joke they almost made, and the talk simmers wherever you stir it. That ease is craft.
-fortuneMid: A door opens to one finger. No need to put a shoulder into it.
-fortuneMid2: One round, then read how you feel. Decide later how much of the night to bend around.
-fortuneLow: Hold one chair a while. When bending starts to read as flailing, sitting still says more — even if staying put chafes.
-fortuneLow2: Some things keep their place for a reason, the way the lids face out on the shelf. Leave them set. You'll miss the small pleasure of rearranging; let it go.
-fortuneLeast: One clean no serves you better than three soft maybes. Name the number and hold it.
-fortuneLeast2: The yes that should have been a no can simply stay no. The terms are the terms.
+fortuneMost: A better plan is on its way, half-cooked and a little tart like harira an hour in.
+fortuneMost2: Good news, and it arrives sideways.
+fortuneHigh: The question shifts while you're still answering it.
+fortuneHigh2: You match their weather, their pace, the joke they almost made, and the talk simmers wherever you stir it.
+fortuneMid: A door opens to one finger.
+fortuneMid2: One round, then read how you feel.
+fortuneLow: Hold one chair a while.
+fortuneLow2: Some things keep their place for a reason, the way the lids face out on the shelf.
+fortuneLeast: One clean no serves you better than three soft maybes.
+fortuneLeast2: The yes that should have been a no can simply stay no.
 facetMostTitle: Tomato Finished in Lemon
 facetMost: The road you meant to take is closed and a detour sign points off into nowhere you know. You follow it without a sigh, half-curious where it lets out.
 facetHighTitle: Tilted Toward Whoever Sat Down

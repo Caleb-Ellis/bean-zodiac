@@ -12,16 +12,16 @@ antiBeans: [mung, fava]
 friendlyForm: smoked
 antiForm: smoked
 seasonalFortune: "Ribollita is a second boil; the pot returns to itself and the season returns to its measure. What held the first heat holds now. What blurred is shown to have been approximate."
-fortuneMost: Hold the small line and they'll call you pedantic, then lean on the result anyway. Vinegar measured in drops is what makes the whole pot taste right.
-fortuneMost2: A fine omen for the one who still notices. The thing everyone else stopped seeing is yours to put quietly right.
-fortuneHigh: They'll ask you to round the number that shouldn't be rounded. Refuse it warmly.
-fortuneHigh2: Taste before you serve and you'll catch the pinch that's off. That second look is its own quiet pleasure.
-fortuneMid: One thing sits slightly crooked and keeps pulling at you. Straighten it now, before the small tilt becomes a long untangling.
-fortuneMid2: Early at the door, waiting outside, is part of arriving right. Give yourself the margin.
-fortuneLow: The pass that ruins it comes right after the version that was already good. Let the good version walk out the door. It will feel unfinished; it isn't.
-fortuneLow2: Let the day arrange itself around hunger and tiredness instead of the list. The body keeps decent measure when you trust it.
-fortuneLeast: The rough thing that's finished outlasts the perfect thing that isn't. Pick the verb that ends in done.
-fortuneLeast2: A little drift in your space, an inkblot easing past its own edge. Nothing that mattered has ever been lost there.
+fortuneMost: Hold the small line and they'll call you pedantic, then lean on the result anyway.
+fortuneMost2: A fine omen for the one who still notices.
+fortuneHigh: They'll ask you to round the number that shouldn't be rounded.
+fortuneHigh2: Taste before you serve and you'll catch the pinch that's off.
+fortuneMid: One thing sits slightly crooked and keeps pulling at you.
+fortuneMid2: Early at the door, waiting outside, is part of arriving right.
+fortuneLow: The pass that ruins it comes right after the version that was already good.
+fortuneLow2: Let the day arrange itself around hunger and tiredness instead of the list.
+fortuneLeast: The rough thing that's finished outlasts the perfect thing that isn't.
+fortuneLeast2: A little drift in your space, an inkblot easing past its own edge.
 facetMostTitle: Vinegar Counted in Drops
 facetMost: A picture on the wall hangs a degree off true. Everyone else walked past it. You cross the room and level it before you can sit down.
 facetHighTitle: Cavolo Nero on the Bias

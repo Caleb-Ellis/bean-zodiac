@@ -12,16 +12,16 @@ antiBeans: [edamame, green]
 friendlyForm: smoked
 antiForm: fried
 seasonalFortune: Congee thinned past opinion. The season runs clear — sesame oil floats without weighing in, pickled greens hold their sharpness where they sit. Nothing pulls the pot one way.
-fortuneMost: Two people ask you who was right. The same sentence to each, word for word, is the fair one — the ladle straight down, the same portion in both bowls.
-fortuneMost2: A good sign for the even hand. Weigh each side as a stranger's, and the verdict nobody wanted turns out to be the one everyone later recognises.
-fortuneHigh: Late evidence lands after the matter feels settled. Reopen it anyway. Pride was never a witness.
+fortuneMost: Two people ask you who was right — the same sentence to each, word for word, is the fair one.
+fortuneMost2: Weigh each side as a stranger's, and the verdict nobody wanted turns out to be the one everyone later recognises.
+fortuneHigh: Late evidence lands after the matter feels settled.
 fortuneHigh2: Let the story run to its end before you decide whose telling holds, even when the room has already chosen.
-fortuneMid: The scale has tipped. Name the heavier side, or someone fills the gap with worse.
+fortuneMid: The scale has tipped.
 fortuneMid2: One question that lets them find their own part in it beats any summary that hands the verdict over.
-fortuneLow: Some moments don't want fairness. They want you in someone's corner. Take the seat beside them — the unweighed verdict will sit uneasy all evening, and it's the right seat.
-fortuneLow2: The warmer answer to whoever asked first can be fair enough. The clean balance is the better thing to spend here.
-fortuneLeast: Side with the one you love. Let the impartial verdict wait outside in the cold. The even hand will ache to even things; let it ache.
-fortuneLeast2: Someone just wants you on their side. Be that, and leave the careful summary unspoken.
+fortuneLow: Some moments don't want fairness — take the seat beside them.
+fortuneLow2: The warmer answer to whoever asked first can be fair enough.
+fortuneLeast: Side with the one you love.
+fortuneLeast2: Someone just wants you on their side.
 facetMostTitle: Salt Grain by Grain
 facetMost: The crowd around you is howling at a call that went against your own team. Watch the replay, and the honest verdict comes out anyway — they got it right.
 facetHighTitle: Pickled Greens in Their Own Brine

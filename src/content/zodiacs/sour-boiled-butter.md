@@ -12,16 +12,16 @@ antiBeans: [green, kidney]
 friendlyForm: dried
 antiForm: fermented
 seasonalFortune: A season that thins the broth and shows what was steeping under the dill. Acid finds its level. Plain statements outlast clever ones; soft edges curdle.
-fortuneMost: Lemon finds its level no matter how thick the broth. The truth said low and plain outlasts the louder false one beside it.
-fortuneMost2: A good sign for the quiet teller. The moment is widening to hold the plain thing you've been carrying.
-fortuneHigh: The better moment isn't coming. This one will do, and it has the rare advantage of being here.
-fortuneHigh2: Someone offers you a graceful way around the truth, smooth as yolk off a spoon. You'll smile, decline it, and go on.
-fortuneMid: Read the mood, then say the true thing anyway — only pitched to fit the kitchen you're standing in.
-fortuneMid2: A soft "tell me about it" draws the honest answer out of them. Stand alongside, not out front.
-fortuneLow: The timing has gone wrong. Hold the true thing and let the moment widen. The waiting will sit uneasy in you; the honesty keeps regardless.
-fortuneLow2: Some awkward things soften on their own, the way skins do in a long simmer. Leaving this one be will feel like neglect. It isn't.
-fortuneLeast: The lopsided bill, the wrong number that nags. Let it stand and walk on.
-fortuneLeast2: A wide, easy "best one yet" can be the whole kindness. Skip the audit. It costs you only the last word.
+fortuneMost: Lemon finds its level no matter how thick the broth.
+fortuneMost2: A good sign for the quiet teller.
+fortuneHigh: The better moment isn't coming.
+fortuneHigh2: Someone offers you a graceful way around the truth, smooth as yolk off a spoon.
+fortuneMid: Read the mood, then say the true thing anyway.
+fortuneMid2: A soft "tell me about it" draws the honest answer out of them.
+fortuneLow: The timing has gone wrong.
+fortuneLow2: Some awkward things soften on their own, the way skins do in a long simmer.
+fortuneLeast: The lopsided bill, the wrong number that nags.
+fortuneLeast2: A wide, easy "best one yet" can be the whole kindness.
 facetMostTitle: Lemon Tempered Into Yolk
 facetMost: The hard thing has to be said and the table's gone quiet waiting. You say it low and straight, never as a winning move.
 facetHighTitle: Dill Against the Board

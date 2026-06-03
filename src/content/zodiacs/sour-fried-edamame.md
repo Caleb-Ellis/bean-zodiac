@@ -12,16 +12,16 @@ antiBeans: [black, adzuki]
 friendlyForm: dried
 antiForm: fermented
 seasonalFortune: A season for unwrapped verdicts. The vinegar arrives undiluted at table, and the wrappers crisp without ceremony in the oil.
-fortuneMost: Unwrapped is the only way you know how to serve, and it's the way they came hungry for. They asked for the thing, not the fold around it.
-fortuneMost2: Plain as black vinegar, no sweetness stirred in. People stop bracing once they learn you mean it kindly.
-fortuneHigh: Someone goes fishing for a softer answer, and there isn't one. Hand back the dumpling without the sauce.
-fortuneHigh2: The filling feeds them, not the wrapper. The cushion you'd fold around a truth was always more for you than for them.
-fortuneMid: True and useful aren't the same thing. A fact that only unburdens you, told to someone who never asked, is worth swallowing whole.
-fortuneMid2: You can be right and still be the only one in the kitchen who needed it said. Pause long enough to tell which this is.
-fortuneLow: The sentence you trimmed for kindness was the load-bearing one; the rest was just wrapper. Put it back, even if the softness feels wasted.
-fortuneLow2: Wrap the hard thing in a gentler one. The kind sentence reaching first isn't a lie — only a slower truth, doing work the padding you'd call useless was built for.
-fortuneLeast: After a word lands hard, lead with the apology and let the reasons go. The verdict's already in the quiet, and explaining it again only presses the bruise.
-fortuneLeast2: A difficult truth can cool on the sill a while before it's carried in. The waiting will chafe against everything in you. Wait anyway.
+fortuneMost: Unwrapped is the only way you know how to serve, and it's the way they came hungry for.
+fortuneMost2: Plain as black vinegar, no sweetness stirred in.
+fortuneHigh: Someone goes fishing for a softer answer, and there isn't one.
+fortuneHigh2: The filling feeds them, not the wrapper.
+fortuneMid: True and useful aren't the same thing.
+fortuneMid2: Pause long enough to tell which this is.
+fortuneLow: The sentence you trimmed for kindness was the load-bearing one; the rest was just wrapper.
+fortuneLow2: Wrap the hard thing in a gentler one.
+fortuneLeast: After a word lands hard, lead with the apology and let the reasons go.
+fortuneLeast2: A difficult truth can cool on the sill a while before it's carried in.
 facetMostTitle: Vinegar, Unannounced
 facetMost: A friend's new partner asks straight out what you think of them. You give the unvarnished read, warts and all, then reach for your drink.
 facetHighTitle: The Split Wrapper

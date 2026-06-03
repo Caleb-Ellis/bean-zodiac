@@ -12,16 +12,16 @@ antiBeans: [edamame, fava]
 friendlyForm: roasted
 antiForm: dried
 seasonalFortune: A season when grain gives itself up to sweetness; the long ferment turns hard winters into something a stranger can drink cold from a shared bowl.
-fortuneMost: Soup left at the door, no buzzer, no note. Tupperware is a love language and you speak it without an accent.
-fortuneMost2: You always know who needs which warmth — the one whose mother is sick, the one who flinches at a ringing phone. Keep routing yourself their way.
-fortuneHigh: Set the cold glass down before you ask what happened. Let the chill of it do the first round of talking.
-fortuneHigh2: Someone is about to feel less alone because you turned up for no reason at all. That's the medicine; go.
-fortuneMid: Their story has been waiting under their tongue. Hear it all the way out before you reach for your own — yours will keep.
-fortuneMid2: When they trail off mid-sentence, hold the gap open. The next word is theirs to find, not yours to supply.
-fortuneLow: Someone's hard week can reach you as a headline and stop there. Nod, wish them well, keep your day your own — even if it feels like turning down the heat.
-fortuneLow2: You've slotted their trouble into a shape you already know. Pry it back open — what looked identical underneath carries a different weight, and assuming costs more than asking.
-fortuneLeast: Plans stay plans, weather stays weather. You don't owe the afternoon a rebuild because a voice sounded thin, however much the ladle calls.
-fortuneLeast2: Hold your own footing when someone arrives shaken. Not every heavy thing in the room is yours to lift, and setting it down is harder for you than most.
+fortuneMost: Soup left at the door, no buzzer, no note.
+fortuneMost2: You always know who needs which warmth — the one whose mother is sick, the one who flinches at a ringing phone.
+fortuneHigh: Set the cold glass down before you ask what happened.
+fortuneHigh2: Someone is about to feel less alone because you turned up for no reason at all.
+fortuneMid: Their story has been waiting under their tongue.
+fortuneMid2: When they trail off mid-sentence, hold the gap open.
+fortuneLow: Someone's hard week can reach you as a headline and stop there.
+fortuneLow2: You've slotted their trouble into a shape you already know.
+fortuneLeast: Plans stay plans, weather stays weather.
+fortuneLeast2: Hold your own footing when someone arrives shaken.
 facetMostTitle: Rice Spent for Sweetness
 facetMost: A coworker you barely know mentions a rough night, then heads off. By the time you've washed up that evening, you're packing a portion of what's on the stove to leave on their desk in the morning.
 facetHighTitle: Ladle, No Questions

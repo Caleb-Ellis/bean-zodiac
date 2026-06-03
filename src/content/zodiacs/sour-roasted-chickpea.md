@@ -12,16 +12,16 @@ antiBeans: [black, cannellini]
 friendlyForm: fried
 antiForm: dried
 seasonalFortune: A season when the flatbread softens under what is poured over it. Old certainties go pleasantly soggy; the household acquires unfamiliar guests, unfamiliar molasses.
-fortuneMost: The objection you meant to dismiss turns out to be the stronger argument — that's the luck of your turn. Build around it.
-fortuneMost2: The loudest dissenter's certainty is your raw material, the way pomegranate molasses pours flavour over plain bread. Pull them closer and ask for the whole case.
-fortuneHigh: Two sharp notes in a row aren't bad luck. They're a pattern, and they're pointing at the spine, not the trim.
-fortuneHigh2: A good objection lands against the heart of something you made. Let it remake the heart, not just the edges.
+fortuneMost: The objection you meant to dismiss turns out to be the stronger argument — that's the luck of your turn.
+fortuneMost2: The loudest dissenter's certainty is your raw material, the way pomegranate molasses pours flavour over plain bread.
+fortuneHigh: Two sharp notes in a row aren't bad luck.
+fortuneHigh2: A good objection lands against the heart of something you made.
 fortuneMid: Pin the harshest critique where you'll keep meeting it, and answer once it's stopped stinging — not before.
-fortuneMid2: Hold the case against your position open a while longer. Read it once more before anything gets settled.
-fortuneLow: You've worked the answer out well; trust it before you ask a fifth person. Closing the question feels like shutting a door, but the extra asking was only delay wearing a kind face.
-fortuneLow2: No room needs remaking to be welcoming. The chair can stay where it sits, even if leaving it goes against your grain.
-fortuneLeast: The next argument isn't better — only newer. Hold the position you reasoned your way to, even as its arrival unsettles you.
-fortuneLeast2: When every suggestion soaks into you and shifts you, plant your feet. It costs you the open feeling you trust, but the route you chose was a real route, walked on purpose.
+fortuneMid2: Hold the case against your position open a while longer.
+fortuneLow: You've worked the answer out well; trust it before you ask a fifth person.
+fortuneLow2: No room needs remaking to be welcoming.
+fortuneLeast: The next argument isn't better — only newer.
+fortuneLeast2: When every suggestion soaks into you and shifts you, plant your feet.
 facetMostTitle: Pomegranate Thinned by Yogurt
 facetMost: A street preacher is shouting down everything you hold true. Instead of walking past, you stop and ask him to make his strongest point first.
 facetHighTitle: Splitting Along a New Seam

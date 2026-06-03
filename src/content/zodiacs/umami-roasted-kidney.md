@@ -12,16 +12,16 @@ antiBeans: [black, fava]
 friendlyForm: smoked
 antiForm: fermented
 seasonalFortune: Truffle oil pools darker than the bowl beneath; the season runs long on a single note, and what looked like surplus turns out to be the threshold.
-fortuneMost: Buy the absurd one. They'll remember the gesture for a decade and you'll have forgotten the price before it lands on their step.
-fortuneMost2: When you show up, show up with weather. A gift over the top is on its way to landing harder than you dare hope — let it be too much.
-fortuneHigh: Write it long, and keep the part you almost cut. That's the line they'll come back and reread alone.
-fortuneHigh2: Truffle oil runs long on a single note and never apologizes for it. Aim too-much at someone you love and it reads as exactly what it is — generosity.
-fortuneMid: Bring the thing you'd want for yourself, not the one others would notice. The label was for the crowd; the bottle is for the friend.
-fortuneMid2: A small gesture, placed right, lands as hard as a grand one. Now and then the restraint is the flourish.
-fortuneLow: Wear the plain one. Sometimes the eye-catching choice is a costume, not an outfit — and going quiet will feel like underdressing, which it isn't.
-fortuneLow2: Cook the one good thing and stop. The evening is enough unfilled, even though every surface will seem to ask for more.
-fortuneLeast: Three words and out. The bare version carries more than the lush one — and letting it will feel like leaving the gift half-wrapped.
-fortuneLeast2: Hand over the plain card with just their name on it. Trust the name to do all of it. Adding nothing is the harder gift, and the truer one here.
+fortuneMost: Buy the absurd one.
+fortuneMost2: When you show up, show up with weather.
+fortuneHigh: Write it long, and keep the part you almost cut.
+fortuneHigh2: Truffle oil runs long on a single note and never apologizes for it.
+fortuneMid: Bring the thing you'd want for yourself, not the one others would notice.
+fortuneMid2: A small gesture, placed right, lands as hard as a grand one.
+fortuneLow: Wear the plain one.
+fortuneLow2: Cook the one good thing and stop.
+fortuneLeast: Three words and out.
+fortuneLeast2: Hand over the plain card with just their name on it.
 facetMostTitle: Porcini in the Hand
 facetMost: A picnic for two was the plan. You arrive with a tablecloth, three courses, candles, and a string of lights for a bench in a public park, because anything less wouldn't have said it.
 facetHighTitle: Thyme on Every Curtain

@@ -13,15 +13,15 @@ friendlyForm: fermented
 antiForm: boiled
 seasonalFortune: A season the pinto keeps for itself. Ancho darkens in the olla; epazote thins the air. Those who would know this person must sit with the pot a long time, and even then take the speckles on faith.
 fortuneMost: Don't explain the joke. The ones who got it got it, and the speckles were never for everyone.
-fortuneMost2: A sign is darkening for you the way ancho deepens in the olla — slow, unhurried, meant for whoever sits long enough to read it. Let it resolve in its own time.
-fortuneHigh: Answer the plain question with the long, circling one. The people who come back slower, paying attention, are your people.
-fortuneHigh2: The meaning settles on its own, the way the pot deepens off the heat. The ones who'll wait with it are the ones who stay.
-fortuneMid: Translate yourself once, for one person who's earned it. Choose carefully and say it straight.
-fortuneMid2: Hand over a piece of the real version, not the whole shorthand. Being trusted with even a little tends to keep someone close.
-fortuneLow: Say it flat — "I'm upset." Two words that have lived as a paragraph in code far too long — and saying them plain will feel like cooking with the lid off.
-fortuneLow2: When the tone you use is built to be decoded, the thing you most want found stays hidden. Just name it — even though plainness costs you the cover you like.
-fortuneLeast: Mystery aimed at someone trying to help you is only rudeness in a clever coat. Write the plain instructions — clarity will feel like overexposure; give it anyway.
-fortuneLeast2: A newcomer should be able to read you like a labelled jar and miss nothing. That's uncomfortable — being that easy to know. Lay yourself out anyway.
+fortuneMost2: A sign is darkening for you the way ancho deepens in the olla — slow, unhurried, meant for whoever sits long enough to read it.
+fortuneHigh: Answer the plain question with the long, circling one.
+fortuneHigh2: The meaning settles on its own, the way the pot deepens off the heat.
+fortuneMid: Translate yourself once, for one person who's earned it.
+fortuneMid2: Hand over a piece of the real version, not the whole shorthand.
+fortuneLow: Say it flat — "I'm upset."
+fortuneLow2: When the tone you use is built to be decoded, the thing you most want found stays hidden.
+fortuneLeast: Mystery aimed at someone trying to help you is only rudeness in a clever coat.
+fortuneLeast2: A newcomer should be able to read you like a labelled jar and miss nothing.
 facetMostTitle: Ancho-Dark, Unsent
 facetMost: A stranger at the bar asks what you do for a living. You give them a riddle of an answer, true and unscannable, and let them decide whether to dig.
 facetHighTitle: Closed and Marked

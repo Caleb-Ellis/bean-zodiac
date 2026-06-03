@@ -12,16 +12,16 @@ antiBeans: [pinto, adzuki]
 friendlyForm: roasted
 antiForm: fermented
 seasonalFortune: A season the ember oil clings to long after the coals go cold — kitchens that smell faintly of last winter's fire, and a person walking through them carefully.
-fortuneMost: Take the old photograph out on purpose and hold the burn with its name on it. The looking is the whole of it — you feel at full volume, and that depth is yours to honour.
-fortuneMost2: Let the old song play all the way through you for once, instead of skipping ahead. The ember stays warm; you can live near it without ever putting it out.
-fortuneHigh: Reach toward the name you go quiet around. One real sentence is plenty — the reaching is the point, not fixing whatever the heat still clings to.
-fortuneHigh2: Your friends have learned to route kindly around the names that hush you. Let one of them in close to it instead — the trust is worth the ache.
-fortuneMid: Open the drawer you steer around every morning. Take nothing out, shut it again — knowing what you carry is the work, not unpacking it.
-fortuneMid2: You can name the old heat without handing it the whole evening. Say it's there, set it down; it keeps until you're ready.
-fortuneLow: The flare in your chest is left over from a fire that's long out. Cool a beat and answer as who you are now, not who once got burned — even if the cooling feels like letting go too soon.
-fortuneLow2: Word from someone you used to know, and it lands lighter than it once would have. You read it, set it down, let the day go on. A small mercy, that lightness.
-fortuneLeast: What you're scorching stands two doors down from what you're actually looking at. Cool off before you aim the old flare at someone who never lit it. The person in front of you didn't earn the heat.
-fortuneLeast2: A street walked without scanning it. Sleep with no dreams in it. What's done, left done. The ease is real, and a little unnerving for how easily it came.
+fortuneMost: Take the old photograph out on purpose and hold the burn with its name on it.
+fortuneMost2: Let the old song play all the way through you for once, instead of skipping ahead.
+fortuneHigh: Reach toward the name you go quiet around.
+fortuneHigh2: Your friends have learned to route kindly around the names that hush you.
+fortuneMid: Open the drawer you steer around every morning.
+fortuneMid2: You can name the old heat without handing it the whole evening.
+fortuneLow: The flare in your chest is left over from a fire that's long out.
+fortuneLow2: Word from someone you used to know, and it lands lighter than it once would have.
+fortuneLeast: What you're scorching stands two doors down from what you're actually looking at.
+fortuneLeast2: A street walked without scanning it.
 facetMostTitle: The Ember, Still Warm
 facetMost: A perfume drifts past you on an escalator and the whole of a vanished year lands in your body at once. You ride the rest of the way up holding it, letting it have you.
 facetHighTitle: Bitter Oil in the Tilted Bowl

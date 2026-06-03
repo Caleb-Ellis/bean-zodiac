@@ -12,16 +12,16 @@ antiBeans: [edamame, green]
 friendlyForm: boiled
 antiForm: fried
 seasonalFortune: A long season for what slow heat unlocks. The household leans toward what has steeped — turmeric in the pot since dawn, ginger gone soft and medicinal by dusk.
-fortuneMost: Ladle the bowl for someone who hasn't eaten well in weeks and stay while they finish. The staying is half the medicine.
-fortuneMost2: The care you ladle out all day is owed back to you. Pour the second cup and, this once, drink it sitting down.
-fortuneHigh: Wash the blanket before they admit they're cold. You catch the chill first, and the asking would have cost them.
-fortuneHigh2: Someone is running on empty and won't say so. Set the slow pot going for them — your patient kind of mending has yet to fail.
+fortuneMost: Ladle the bowl for someone who hasn't eaten well in weeks and stay while they finish.
+fortuneMost2: The care you ladle out all day is owed back to you.
+fortuneHigh: Wash the blanket before they admit they're cold.
+fortuneHigh2: Someone is running on empty and won't say so.
 fortuneMid: Reach for the friend who went quiet again, without waiting on a reply first.
 fortuneMid2: Bring the water, the warm thing, before anyone names the need.
-fortuneLow: Give the answer they actually asked for and let the deeper one wait. A tissue is plenty sometimes; you can leave the rest, though your hands will want to do more.
-fortuneLow2: Pass the comfort and don't reach for the cure. Not every ache is yours to mend all the way down — and stepping back will feel like quitting halfway.
-fortuneLeast: A blank, ungiven day is the medicine this time. Skip the long version, the second pot, the extra cup; you needn't fill every hand held out.
-fortuneLeast2: A drained basin can't pour. Leave the old thread unread and the day's no worse for it — tending less is how you keep enough for yourself, uneasy as it sits.
+fortuneLow: Give the answer they actually asked for and let the deeper one wait.
+fortuneLow2: Pass the comfort and don't reach for the cure.
+fortuneLeast: A blank, ungiven day is the medicine this time.
+fortuneLeast2: A drained basin can't pour.
 facetMostTitle: The Overnight Soak
 facetMost: A stranger's shivering on the platform bench at the end of the line, soaked through. You'd peel off your own coat, sit down beside them, and stay until the cold left their hands.
 facetHighTitle: Ginger Under Low Heat

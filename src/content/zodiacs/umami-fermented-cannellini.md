@@ -13,15 +13,15 @@ friendlyForm: dried
 antiForm: boiled
 seasonalFortune: Miso thickens in its crock; the picture in the mind thickens faster. A household built on what could be — rosemary held to its sharpest note, garlic patient under heat — runs warm and slightly hungry through colder months.
 fortuneMost: The picture in your head of a thing that never existed is about to start pulling it into being.
-fortuneMost2: Almost-right reads as wrong to you, so you go back in again. That refusal to settle is the whole engine.
+fortuneMost2: Almost-right reads as wrong to you, so you go back in again.
 fortuneHigh: Cut the one beloved line and the shape you actually wanted appears in the gap.
-fortuneHigh2: You lay the table for the feast you mean to throw someday, not the supper in front of you. Let the someday stay a little hungry for the real.
-fortuneMid: The evening in your head is so finished, so specifically lit, that the real one keeps coming up short beside it. Let the okay one happen; it needs a witness, not a stage.
-fortuneMid2: Hold the standard, send the rough draft anyway. The better version can only grow from one that exists.
-fortuneLow: Wear the good jumper out of its tissue paper; use the kettle that works. The better-someday keeps costing you the perfectly-fine now.
-fortuneLow2: Serve it on whatever's clean and let the night be a good one anyway. It won't clear the bar in your head — few real nights do.
-fortuneLeast: A quiet omen this turn — the ordinary afternoon you're standing in is already enough. The pictured one will keep tugging; take this one as it comes.
-fortuneLeast2: Call the friend now, off whatever you've got, no waiting for the worthy occasion. The people are in the present tense.
+fortuneHigh2: You lay the table for the feast you mean to throw someday, not the supper in front of you.
+fortuneMid: The evening in your head is so finished, so specifically lit, that the real one keeps coming up short beside it.
+fortuneMid2: Hold the standard, send the rough draft anyway.
+fortuneLow: Wear the good jumper out of its tissue paper; use the kettle that works.
+fortuneLow2: Serve it on whatever's clean and let the night be a good one anyway.
+fortuneLeast: A quiet omen this turn — the ordinary afternoon you're standing in is already enough.
+fortuneLeast2: Call the friend now, off whatever you've got, no waiting for the worthy occasion.
 facetMostTitle: Rosemary Withheld
 facetMost: Handed a patch of bare ground to do anything with, you already see the garden it could become and start digging toward that, not toward what's easy.
 facetHighTitle: The Unstirred Paste

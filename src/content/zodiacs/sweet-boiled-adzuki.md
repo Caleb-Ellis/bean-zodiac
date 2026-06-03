@@ -12,16 +12,16 @@ antiBeans: [green, kidney]
 friendlyForm: roasted
 antiForm: fried
 seasonalFortune: A season of slow simmer, where the sweetness rises late. The pot holds longer than expected, and small warmths accumulate beneath ordinary days.
-fortuneMost: A plain Tuesday, and you'll set the table like it's a feast. The ones who came glum leave carrying some of your gladness home.
+fortuneMost: A plain Tuesday, and you'll set the table like it's a feast.
 fortuneMost2: Make a fuss over nothing. Someone in the room has been waiting all week for one person to be openly happy they exist.
-fortuneHigh: Say the kind thing while it still steams. Kept warm too long, it goes cold in your hands.
-fortuneHigh2: Good news is coming, and it will find you already glad. Luck loves a face that's pleased to see it.
+fortuneHigh: Say the kind thing while it still steams.
+fortuneHigh2: Good news is coming, and it will find you already glad.
 fortuneMid: One small gladness, handed to one person, travels further than a whole party thrown for the crowd.
-fortuneMid2: A stranger's good morning, returned and meant. That's the whole sweetness today, and it's enough.
-fortuneLow: Held in too long, your warmth reads as cool — the very opposite of you. Reaching out first leaves you exposed, and it's still the braver bowl to fill.
-fortuneLow2: You've been ladling for everyone but won't say what's thinning in you. Let someone fill your bowl this once; it's harder than giving, and worth it.
-fortuneLeast: The grey morning is doing quiet work, and a candle would interrupt it. Sit in the dim, unsweetened, even when the dark feels like something to fix.
-fortuneLeast2: Some sorrows want company, not cheering. Stay in the low room and just be there, even when your hands itch for the kettle.
+fortuneMid2: A stranger's good morning, returned and meant.
+fortuneLow: Held in too long, your warmth reads as cool — the very opposite of you.
+fortuneLow2: You've been ladling for everyone but won't say what's thinning in you.
+fortuneLeast: The grey morning is doing quiet work, and a candle would interrupt it.
+fortuneLeast2: Some sorrows want company, not cheering. Stay in the low room and just be there.
 facetMostTitle: The Mochi, Still Warm
 facetMost: Stuck at a level crossing, engine off, the whole line of cars waiting. You're out leaning on someone's window, swapping where-you're-headed, glad of the delay.
 facetHighTitle: The Kettle Before the Window

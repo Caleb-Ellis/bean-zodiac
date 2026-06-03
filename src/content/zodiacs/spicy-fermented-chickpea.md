@@ -12,16 +12,16 @@ antiBeans: [navy, black]
 friendlyForm: roasted
 antiForm: dried
 seasonalFortune: A season for the jar at the back of the shelf. What ferments in the dark this month arrives at the table tasting of nowhere anyone else has been.
-fortuneMost: A stranger is about to leave the night feeling unusually seen. The side door is where your warmth is realest.
-fortuneMost2: You finish things in a register your friends have no shelf for, and hand them over anyway. The detour was never a wrong turn — it's the whole dish.
-fortuneHigh: A good sign is loose in the day — the one person no one placed, half-watching from the edge, waiting for exactly your kind of curiosity. Drift over.
-fortuneHigh2: The spell of a real conversation is still warm. Reach for the person now — the careful follow-up you'd draft later, after it thins, never does get sent.
-fortuneMid: A picture hung two inches off-centre and left there. You like a room that answers back a little crooked, and it does.
-fortuneMid2: Shatta on the rim, heat where no one expected it. You needn't chase every side door, but when one opens by accident, you're allowed to stay.
-fortuneLow: The friends you came with have noticed you didn't quite come with them. Tug the slack thread back in before the next side door opens.
-fortuneLow2: Cook straight from the card and land the dish where it was promised. The plainness chafes; the people fed by it don't mind at all.
-fortuneLeast: Turn back toward the people who already know your name. It feels like a smaller night and it's the warmer one.
-fortuneLeast2: Stay close, things in order, nothing wandering off down a hallway of its own. It's tighter than your wiring likes, and the steadiness is a kindness to the people near you.
+fortuneMost: A stranger is about to leave the night feeling unusually seen.
+fortuneMost2: You finish things in a register your friends have no shelf for, and hand them over anyway.
+fortuneHigh: A good sign is loose in the day — the one person no one placed, half-watching from the edge, waiting for exactly your kind of curiosity.
+fortuneHigh2: The spell of a real conversation is still warm.
+fortuneMid: A picture hung two inches off-centre and left there.
+fortuneMid2: Shatta on the rim, heat where no one expected it.
+fortuneLow: The friends you came with have noticed you didn't quite come with them.
+fortuneLow2: Cook straight from the card and land the dish where it was promised.
+fortuneLeast: Turn back toward the people who already know your name.
+fortuneLeast2: Stay close, things in order, nothing wandering off down a hallway of its own.
 facetMostTitle: The Jar Humming in the Dark
 facetMost: The trail forks, the marked path goes left, and a thin unmarked one wanders off right into the trees. You take the one with no sign and follow it as far as it goes.
 facetHighTitle: Pita Torn Off-Script

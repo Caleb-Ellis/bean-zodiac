@@ -12,16 +12,16 @@ antiBeans: [cannellini, adzuki]
 friendlyForm: fermented
 antiForm: boiled
 seasonalFortune: Oil at temperature does not negotiate; the herb crashes in green and bitter and stays. The almanac reads hot this stretch — hesitation scorches faster than commitment.
-fortuneMost: Walk in with empty hands. You never needed the armful of prep; you brought yourself, and that was always the thing that worked.
-fortuneMost2: A door propped onto an unlit corridor, and what you're after waits at the far end. Go through without breaking stride.
-fortuneHigh: The leap is right. People only call it reckless because you skip the part where you say it's a leap — name it, and the same jump reads as courage.
-fortuneHigh2: You already clocked the drop. Push off before the second thought lands; the herb's still green in the oil.
-fortuneMid: The hard call is a two-minute conversation impersonating a whole week. Make it and the week collapses back to two minutes.
-fortuneMid2: A stranger asks you something direct, and you answer just as plainly. That ease is about to be met in kind.
-fortuneLow: The cautious one spotted what your speed walked past, and they're right. Slow down to hear it — it rankles, and it's the move.
-fortuneLow2: There's a pan you haven't lit, and a reason. Honour the reason before you reach for the match, even while the waiting itches.
+fortuneMost: Walk in with empty hands.
+fortuneMost2: A door propped onto an unlit corridor, and what you're after waits at the far end.
+fortuneHigh: The leap is right.
+fortuneHigh2: You already clocked the drop.
+fortuneMid: The hard call is a two-minute conversation impersonating a whole week.
+fortuneMid2: A stranger asks you something direct, and you answer just as plainly.
+fortuneLow: The cautious one spotted what your speed walked past, and they're right.
+fortuneLow2: There's a pan you haven't lit, and a reason.
 fortuneLeast: Wrong door. Hard to turn from one already half-open, but the one beside it is unguarded and the better way through.
-fortuneLeast2: Each step earns the next. The middle is the part you'll want to rush — let the order hold, and the thing arrives whole.
+fortuneLeast2: Each step earns the next.
 facetMostTitle: The Falafel, Split Open
 facetMost: The cliff path ahead has washed out to a narrow ledge and the others have stopped. You don't slow — one glance at the footing and you're across, hands light on the rock.
 facetHighTitle: Oil Already at Heat

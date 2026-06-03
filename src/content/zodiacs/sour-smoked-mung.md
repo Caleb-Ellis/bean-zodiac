@@ -12,15 +12,15 @@ antiBeans: [edamame, green]
 friendlyForm: boiled
 antiForm: fried
 seasonalFortune: A season when smoke leaves a room before anyone notices it arrived. Kokum stains the pot faintly; the coconut keeps its own counsel. Tending moves through the house like weather.
-fortuneMost: Three things begun at once, like seeds flung across a pan. Keep the one you can still describe out loud an hour on; let the rest cool without ceremony.
-fortuneMost2: Coats on chairs in three houses, sentences finished in different rooms. Don't fight the drift. Just notice where you keep landing.
-fortuneHigh: The friend you left half-answered comes before anyone new. The order is the kindness, and you tend to have it backwards.
-fortuneHigh2: Finish the thing that holds you longest and let the other two cool on their burners. Whatever still interests you is enough.
-fortuneMid: Everything closed but one. The one you can't quite shut is the thing you've only been pretending to think about.
-fortuneMid2: The errand you keep meaning to run is light enough to carry now. One last small step before it drifts off again.
-fortuneLow: Someone's waiting on you to land on a plan, and the in-between is harder on them than a clean no. Settle on one; you'll feel pinned, and choose it anyway.
-fortuneLow2: One walk, one conversation, and stay in it until it's actually done. The person in front of you can feel when you've half left.
-fortuneLeast: The same route, the same mug, the same chair. It feels like a cage from the inside; it's how people learn where to find you.
+fortuneMost: Keep the one you can still describe out loud an hour on; let the rest cool without ceremony.
+fortuneMost2: Coats on chairs in three houses, sentences finished in different rooms.
+fortuneHigh: The friend you left half-answered comes before anyone new.
+fortuneHigh2: Finish the thing that holds you longest and let the other two cool on their burners.
+fortuneMid: Everything closed but one.
+fortuneMid2: The errand you keep meaning to run is light enough to carry now.
+fortuneLow: Someone's waiting on you to land on a plan, and the in-between is harder on them than a clean no.
+fortuneLow2: One walk, one conversation, and stay in it until it's actually done.
+fortuneLeast: The same route, the same mug, the same chair.
 fortuneLeast2: A loaf baked in one sitting, a room cleaned end to end before the light goes — the finished thing comes back around to you.
 facetMostTitle: Seeds Across the Pan
 facetMost: A long story is unspooling at the table and you're nodding along. Halfway through you realise you've already drifted three thoughts away and have no idea where it went.

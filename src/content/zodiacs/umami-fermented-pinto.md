@@ -12,16 +12,16 @@ antiBeans: [black, cannellini]
 friendlyForm: roasted
 antiForm: boiled
 seasonalFortune: A long braise dulls the senses; the onion blackens past sweetness and no one at the table reaches for the lime.
-fortuneMost: The album that once wrecked you plays clean through and you're thinking about the dishwasher. It isn't emptiness underneath — it's a dial worn quiet by caring too much, too long.
-fortuneMost2: One more pull on the sleeve barely lands, and that's allowed. You steeped so long and so dark that the quiet is what's left after the caring, not the lack of it.
+fortuneMost: The album that once wrecked you plays clean through and you're thinking about the dishwasher.
+fortuneMost2: One more pull on the sleeve barely lands, and that's allowed.
 fortuneHigh: The fast warm reply has slowed to a lightly, sometime-later. No apology owed for the lag — but answer the one person who'd feel the absence.
 fortuneHigh2: You arrive late, leave early, and the room won't stay in memory afterward. Pick one thing to be genuinely inside of and let the rest keep its arm's length.
-fortuneMid: The dial's gone quiet and no one, you included, knows when it climbs back. Tell one true story out loud, even badly — the telling nudges it a notch.
+fortuneMid: The dial's gone quiet and no one, you included, knows when it climbs back. Tell one true story out loud, even badly.
 fortuneMid2: Calls returned eventually, birthdays remembered late — that's the pace you're moving at. Say yes to one small thing before the no can settle.
-fortuneLow: Eat something sharp — fish sauce, lime, the braise gone dark at the edge — and let the taste arrive ahead of any opinion. The body still remembers how to be moved.
-fortuneLow2: Weather changes on your face before you've named it. The caring sits closer to the surface than it feels; reaching for it takes something.
-fortuneLeast: A turning omen this time — a spark catches and you go, and stay till the house lights come up. The dial's come back, even if you half distrust it.
-fortuneLeast2: Play the song that used to wreck you and let it wreck you again. Whatever cracks open is the door.
+fortuneLow: Eat something sharp — fish sauce, lime, the braise gone dark at the edge — and let the taste arrive ahead of any opinion.
+fortuneLow2: Weather changes on your face before you've named it.
+fortuneLeast: A turning omen this time — a spark catches and you go, and stay till the house lights come up.
+fortuneLeast2: Play the song that used to wreck you and let it wreck you again.
 facetMostTitle: The Darkening Jar
 facetMost: The fireworks go up, the crowd around you gasps at each one — and you watch them open and fade and feel about as much as you would for passing traffic.
 facetHighTitle: Caramel at the Edge

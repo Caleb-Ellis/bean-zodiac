@@ -12,16 +12,16 @@ antiBeans: [fava, mung]
 friendlyForm: fried
 antiForm: smoked
 seasonalFortune: A season when the pot never quite empties — one batch of dashi feeds the next, bonito drifts down on yesterday's bones, and the kitchen keeps producing whether anyone asks for it.
-fortuneMost: Start the next one before the last bowl is washed. Keeping the stock alive is the whole craft.
-fortuneMost2: One of the many things you've got going is about to come good all at once. The yield rewards the ones who kept planting.
+fortuneMost: Start the next one before the last bowl is washed.
+fortuneMost2: One of the many things you've got going is about to come good all at once.
 fortuneHigh: When they ask how you keep it up, don't explain — just make them another one.
-fortuneHigh2: Two half-built things by midweek, a hand already reaching for the fifth. A crowded bench is just how you cook.
-fortuneMid: Hand the half-built thing to one trusted set of eyes, not the whole crowd. One tasting is all it needs at this stage.
-fortuneMid2: Asked for one recipe, you send three with substitutions. Trim it back to the one they came for.
-fortuneLow: Pick the one closest to done and finish it. The others are squatting on the counter without paying rent.
-fortuneLow2: Make the one thing you came to make, then set the knife down. Stopping there is allowed — even when the hand twitches toward starting the next.
-fortuneLeast: No new pots. The ones already on the stove want your hands, not another burst of ambition — and ignoring a fresh idea will feel like letting it spoil.
-fortuneLeast2: Let weeks pass between the things you finish, and don't apologise for the gap. Fewer done fully is its own craft, though the quiet stretches will gnaw at you.
+fortuneHigh2: Two half-built things by midweek, a hand already reaching for the fifth.
+fortuneMid: Hand the half-built thing to one trusted set of eyes, not the whole crowd.
+fortuneMid2: Asked for one recipe, you send three with substitutions.
+fortuneLow: Pick the one closest to done and finish it.
+fortuneLow2: Make the one thing you came to make, then set the knife down.
+fortuneLeast: No new pots.
+fortuneLeast2: Let weeks pass between the things you finish, and don't apologise for the gap.
 facetMostTitle: Bonito Past the Bowl
 facetMost: The garden bed you filled in spring is already overflowing, and there's a fresh packet of seeds in your pocket and a bare strip of soil by the fence. You're crouched and digging the new row before the first crop is even picked.
 facetHighTitle: The Second Dressing

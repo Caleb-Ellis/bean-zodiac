@@ -12,16 +12,16 @@ antiBeans: [mung, butter]
 friendlyForm: dried
 antiForm: fermented
 seasonalFortune: A season for sharp oil and short pans. Daikon grates itself thin against the season; pods scorch before the doubt arrives. The almanac favors the cut already made over the cut still being weighed.
-fortuneMost: The deciding was done long ago. Call it. Stalling to look like you weighed it longer fools no one, and nobody's grading the pause.
-fortuneMost2: The rent, the route, the no — all three in one breath, and the room adjusts around the heat you brought. That clean cut is yours.
-fortuneHigh: Show one line of the working before the verdict. The call is right; the missing line is all that made it sound like a decree.
-fortuneHigh2: You knew before the menu was finished — the fish, the bread, the way home, three clean pauses while the queue is still reading the board.
-fortuneMid: The chair, the hour, the route, chosen before the doubt grates in. Half your fatigue is just choices you kept postponing.
-fortuneMid2: Say it once, then commit. Circling an answer you've already found buys you nothing.
-fortuneLow: A door you shut still gets knocked on. Eighty percent right isn't a hundred — reopen it. It stings, and it's honest.
-fortuneLow2: Leave the plan loose past the point you'd usually seal it. The open shape unsettles you; the form that finds you later fits better for the wait.
-fortuneLeast: You were wrong about that one. Say so — apology only, working left out, two sentences shorter than you want it.
-fortuneLeast2: Not every fork needs your cut. Hand this one back and let it sit unsettled, even though the unsettled part is exactly what chafes.
+fortuneMost: The deciding was done long ago.
+fortuneMost2: The rent, the route, the no — all three in one breath, and the room adjusts around the heat you brought.
+fortuneHigh: Show one line of the working before the verdict.
+fortuneHigh2: You knew before the menu was finished — the fish, the bread, the way home.
+fortuneMid: The chair, the hour, the route, chosen before the doubt grates in.
+fortuneMid2: Say it once, then commit.
+fortuneLow: A door you shut still gets knocked on.
+fortuneLow2: Leave the plan loose past the point you'd usually seal it.
+fortuneLeast: You were wrong about that one.
+fortuneLeast2: Not every fork needs your cut.
 facetMostTitle: Oil at Temperature
 facetMost: A dozen dogs down the shelter row, an hour till closing. One look and you point — that one — leash already in hand before the volunteer's finished the spiel.
 facetHighTitle: The Shell at First Bite

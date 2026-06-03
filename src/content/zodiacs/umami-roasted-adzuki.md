@@ -12,16 +12,16 @@ antiBeans: [kidney, green]
 friendlyForm: fried
 antiForm: smoked
 seasonalFortune: Miso deepens in the oven; the season runs long and low. Houses smell of sesame and slow heat, and the people inside grow patient with one another, kettles always within reach.
-fortuneMost: Make the four-hour braise for the one who'd never ask for it. They'll remember the smell of the house longer than anything you say.
-fortuneMost2: A cold, uncertain stranger is walking toward your doorstep, and will leave it thawed. Keep the heat lit.
-fortuneHigh: The friend who went quiet hasn't gone far. A small ordinary word from you reaches them like sun through a thin wall.
-fortuneHigh2: Miso deepens slow and low in the oven. So does this — you beside the people you love, no occasion announced.
-fortuneMid: Buy the better one when it's a gift. The cheap version arrives like a draft through the door, and you of all people feel that.
+fortuneMost: Make the four-hour braise for the one who'd never ask for it.
+fortuneMost2: A cold, uncertain stranger is walking toward your doorstep, and will leave it thawed.
+fortuneHigh: The friend who went quiet hasn't gone far.
+fortuneHigh2: Miso deepens slow and low in the oven. So does this — you beside the people you love.
+fortuneMid: Buy the better one when it's a gift.
 fortuneMid2: A room goes softer when you walk in, and you never clock that you did it.
-fortuneLow: Some of the people warming themselves at you already have a fire at home. Save your heat for whoever's genuinely out in the cold — even when it feels like turning someone away.
-fortuneLow2: Meet the new one at the threshold, not folded straight into the kitchen. Some only want company at the door; reading that costs you a little.
-fortuneLeast: Take the tea barely warm and the help handed over cool. Not everything needs reheating.
-fortuneLeast2: Crack the window. Step into the cooler air. The pull to keep everyone warm is allowed to rest, even if the quiet feels faintly like neglect.
+fortuneLow: Some of the people warming themselves at you already have a fire at home.
+fortuneLow2: Meet the new one at the threshold, not folded straight into the kitchen.
+fortuneLeast: Take the tea barely warm and the help handed over cool.
+fortuneLeast2: Crack the window. Step into the cooler air.
 facetMostTitle: Mirin on Every Seed
 facetMost: Crossing a wide, half-empty plaza, you notice one figure alone on a bench looking lost. Some part of you has already changed course toward them.
 facetHighTitle: Where the Glaze Pools

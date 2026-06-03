@@ -13,15 +13,15 @@ friendlyForm: smoked
 antiForm: fried
 seasonalFortune: A jar of douchi darkens on the shelf, gathering meaning the cook did not put there. The season rewards what was left long enough to deepen.
 fortuneMost: You read it right months before anyone found the word for it. Let the verdict walk in without its dossier.
-fortuneMost2: A long ferment tells the cook when it's ready. Something in your week is sending the same quiet signal, and you'll be the first to catch it.
-fortuneHigh: Of everyone who can't see it yet, one already half-suspects. Bring your read to that one first; their relief convinces the rest.
-fortuneHigh2: A smile lands a half-beat late and you already know what's wrong behind it. Ask the gentle question. It lands softer from you than from anyone.
+fortuneMost2: Something in your week is sending a quiet signal, and you'll be the first to catch it.
+fortuneHigh: Of everyone who can't see it yet, one already half-suspects. Bring your read to that one first.
+fortuneHigh2: A smile lands a half-beat late and you already know what's wrong behind it. Ask the gentle question.
 fortuneMid: A thing on the shelf got moved quietly out of reach. That small displacement said more than the whole speech.
-fortuneMid2: Open with what you noticed, not the conclusion you reached — people arrive somewhere truer when they think they walked there themselves.
-fortuneLow: Four months of footnotes is its own kind of blindness. Take the next exchange at face value; it'll feel like dropping your guard, and the fog it clears was one you'd stopped seeing.
-fortuneLow2: Sometimes the answer they gave is the entire answer. Not every pause is a door — and forcing one open where there isn't one wears you both out.
+fortuneMid2: Open with what you noticed, not the conclusion you reached.
+fortuneLow: Four months of footnotes is its own kind of blindness. Take the next exchange at face value.
+fortuneLow2: Sometimes the answer they gave is the entire answer. Not every pause is a door.
 fortuneLeast: They meant it plainly. No second meaning, no vinegar under the surface.
-fortuneLeast2: A crowd taken at its own volume, a sky taken as plain weather, no dossier kept on either. The world at face value runs lighter than yours — you'll miss the weight at first, then you won't.
+fortuneLeast2: A crowd taken at its own volume, a sky taken as plain weather, no dossier kept on either.
 facetMostTitle: Chinkiang at the Seam
 facetMost: Two people across the platform say nothing, just stand close. The angle of them tells you which one is leaving and which is being left, and you'd bet the house on it.
 facetHighTitle: Garlic, Slow-Cured

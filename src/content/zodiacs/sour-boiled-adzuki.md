@@ -12,16 +12,16 @@ antiBeans: [fava, black]
 friendlyForm: roasted
 antiForm: smoked
 seasonalFortune: A season pickled in its own salt. The bare broth does the carrying; the cured plum colours every spoonful without needing to be tasted directly.
-fortuneMost: The warm thing wants saying. Say it clean, no apology stirred in to thin it.
-fortuneMost2: Good news is coming, and you'll feel the whole of it — nothing held back for someone you've decided deserves it more.
-fortuneHigh: Someone holds out a gentler word like a borrowed coat. Yours was cut for you; wear it.
+fortuneMost: The warm thing wants saying. Say it clean.
+fortuneMost2: Good news is coming, and you'll feel the whole of it.
+fortuneHigh: Someone holds out a gentler word like a borrowed coat. Yours was cut for you.
 fortuneHigh2: A plain answer, kindly meant, lands softer than the polished one ever could.
 fortuneMid: The true word keeps surfacing in you, a plum that won't stay under the brine.
-fortuneMid2: That small sourness you can't shake — your gut salted it for a reason. Follow it.
-fortuneLow: Some things are better stepped around than named, and one of them is yours. It'll itch to be spoken; let it itch.
-fortuneLow2: Not every true thing has to be said to stay true in you. Fold this one away. It keeps.
-fortuneLeast: A stranger offers a kindness and asks only a nod for it. You'll want to test whether it was meant. Don't — take it as given.
-fortuneLeast2: A warm word reaches you whole. Let it pass for warmth; it won't curdle for going unchecked.
+fortuneMid2: That small sourness you can't shake — your gut salted it for a reason.
+fortuneLow: Some things are better stepped around than named, and one of them is yours.
+fortuneLow2: Not every true thing has to be said to stay true in you. Fold this one away.
+fortuneLeast: A stranger offers a kindness and asks only a nod for it. Take it as given.
+fortuneLeast2: A warm word reaches you whole. Let it pass for warmth.
 facetMostTitle: Salt and the Slow Red
 facetMost: A neighbour asks how you really are, and the easy version is right there on your tongue. You hand back the plain one instead.
 facetHighTitle: Ginger, Slice by Slice

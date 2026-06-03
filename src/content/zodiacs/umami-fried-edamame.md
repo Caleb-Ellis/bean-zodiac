@@ -12,16 +12,16 @@ antiBeans: [butter, mung]
 friendlyForm: dried
 antiForm: fermented
 seasonalFortune: A season pleated and sealed at the edge. The wrapper crisps where it meets the pan; what is folded inside still announces itself through the dough.
-fortuneMost: The filling announces itself through the dough before the dumpling's even turned. You read people the same way, and the thing nobody's said yet is yours to name first.
+fortuneMost: The filling announces itself through the dough before the dumpling's even turned — you read people the same way.
 fortuneMost2: Answer the question they actually meant, not the one they managed to get out.
 fortuneHigh: A lamp moved an inch, a word chosen instead of the obvious one — you'll catch it where everyone else walks straight past.
-fortuneHigh2: Read it again. The line you skimmed is the real ask hiding under the polite one.
-fortuneMid: Don't finish their sentence. They're taking the long way around for a reason that's theirs.
-fortuneMid2: Hear it all the way through before you drop in the part you saw coming. The early arrival can wait its turn.
-fortuneLow: You're sprinting past where the talk actually is. Slow the reply down, even though the answer's already burning a hole in you.
-fortuneLow2: Not every signal needs catching the instant it lands. Let an afternoon drift past the hour you meant to start; the dropped thread won't bruise.
-fortuneLeast: Be the last to know something, on purpose. Surprise is a muscle you've nearly let waste.
-fortuneLeast2: Miss the small thing and laugh it off. Half-tuned-out costs far less than you fear, and it rests something worn-down in you.
+fortuneHigh2: Read it again.
+fortuneMid: Don't finish their sentence.
+fortuneMid2: Hear it all the way through before you drop in the part you saw coming.
+fortuneLow: You're sprinting past where the talk actually is.
+fortuneLow2: Not every signal needs catching the instant it lands.
+fortuneLeast: Be the last to know something, on purpose.
+fortuneLeast2: Miss the small thing and laugh it off.
 facetMostTitle: The Pleat That Hides Nothing
 facetMost: Two old friends greet each other warmly across the café and you've already clocked, from the half-second before the smile, that something between them has gone cold.
 facetHighTitle: Nira Through the Wrapper

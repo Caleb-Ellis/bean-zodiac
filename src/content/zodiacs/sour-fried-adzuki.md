@@ -12,16 +12,16 @@ antiBeans: [black, mung]
 friendlyForm: roasted
 antiForm: smoked
 seasonalFortune: The season fries quick and dips sharp. Batter meets oil before the cook can second-guess it, and what surfaces wears no extra coat. A plainer table follows.
-fortuneMost: When someone wants the truth and not the comfort, yours is the door they knock on. Batter hits oil and what's real rises first.
-fortuneMost2: Someone is about to ask you a question they could ask anyone, and they're walking past everyone to reach you. That's not an accident.
-fortuneHigh: The straight answer lands sharp and clean, vinegar cutting the fried sweetness, and people trust the taste of you for it.
+fortuneMost: When someone wants the truth and not the comfort, yours is the door they knock on.
+fortuneMost2: Someone is about to ask you a question they could ask anyone, and they're walking past everyone to reach you.
+fortuneHigh: The straight answer lands sharp and clean, and people trust the taste of you for it.
 fortuneHigh2: Lead with the verdict. The soft words keep.
-fortuneMid: Name the small wrong thing while it's still small — the wobble, the figure that doesn't add up, the plan with a soft spot.
+fortuneMid: Name the small wrong thing while it's still small.
 fortuneMid2: A stranger overpays you at the counter. Hand it back before they've turned to go.
 fortuneLow: Hand it over hot. The second pass is where the truth quietly dies.
-fortuneLow2: The gentler version, chosen once, is care; reached for twice, it's a hiding place. The kinder road still costs them what they came for.
-fortuneLeast: Not every truth is owed on arrival. Let one cool to a temperature a hand can hold — but a sharp word forgotten in the back of the pan only burns.
-fortuneLeast2: Soften the edge for the sake of the peace. The mercy is real; just don't mistake a long wait for a free one.
+fortuneLow2: The gentler version, chosen once, is care; reached for twice, it's a hiding place.
+fortuneLeast: Not every truth is owed on arrival. Let one cool to a temperature a hand can hold.
+fortuneLeast2: Soften the edge for the sake of the peace. The mercy is real.
 facetMostTitle: Vinegar, Undiluted
 facetMost: The whole table has agreed not to mention the haircut. You're the one who tells your friend it's crooked at the back.
 facetHighTitle: Still Hot From the Pan

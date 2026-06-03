@@ -12,16 +12,16 @@ antiBeans: [edamame, adzuki]
 friendlyForm: smoked
 antiForm: dried
 seasonalFortune: Oil is held a beat past shimmer; the season rewards those who let the pan tell them it is ready before the batter goes in.
-fortuneMost: You read a situation the way a cook reads oil, listening for the pitch that means now. The thing others will trip over, you've already seen — take the last look and commit.
-fortuneMost2: Wait for the moment the pan tells you it's ready, then move clean and quick. That timing is yours, and it won't let you down.
-fortuneHigh: The fine print everyone skips is worth your hour. That hour is cheaper than the surprise it spares you.
-fortuneHigh2: The margin you always leave is the quiet thing that keeps you from being caught out. Leave it again — it earns its keep.
-fortuneMid: A little time left over, no errand attached. Don't fill it. The slack itself is the thing worth keeping.
-fortuneMid2: You don't have to spend every margin you build. Walk the last block slow; let the buffer sit unspent. That's allowed.
-fortuneLow: The window is closing faster than your audit. Going now will feel a beat early. A beat early is fine here — stop checking.
-fortuneLow2: Whoever's at the door is expected. Open it without first peering through the window; the trust costs less than the peering, even if it uneases you.
-fortuneLeast: You decided long ago. The checking is a costume now — commit before the second-guessing creeps back, bare leap and all.
-fortuneLeast2: The plan assembles itself while you move — ticket bought, table set, invitation out. Skip the last pass. It costs a little calm, and it's a fair trade.
+fortuneMost: You read a situation the way a cook reads oil, listening for the pitch that means now.
+fortuneMost2: Wait for the moment the pan tells you it's ready, then move clean and quick.
+fortuneHigh: The fine print everyone skips is worth your hour.
+fortuneHigh2: The margin you always leave is the quiet thing that keeps you from being caught out.
+fortuneMid: A little time left over, no errand attached.
+fortuneMid2: You don't have to spend every margin you build.
+fortuneLow: The window is closing faster than your audit.
+fortuneLow2: Whoever's at the door is expected.
+fortuneLeast: The checking is a costume now — commit before the second-guessing creeps back.
+fortuneLeast2: The plan assembles itself while you move — ticket bought, table set, invitation out.
 facetMostTitle: The Hand That Hovers
 facetMost: Everyone's already crossing the frozen pond, the ice creaking under them, the shortcut obvious. You test the edge with one boot, don't like the sound of it, and take the long way round.
 facetHighTitle: Vinegar Before the Greens

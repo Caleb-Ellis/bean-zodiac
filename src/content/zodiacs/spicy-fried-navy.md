@@ -12,16 +12,16 @@ antiBeans: [chickpea, green]
 friendlyForm: boiled
 antiForm: smoked
 seasonalFortune: Paprika settles into hot oil; the navy holds its shape under heat. A season for lining things up before the pan calls — small batches, sealed edges, nothing left scattered.
-fortuneMost: Each thing in its place, edges crisp, nothing touching by accident. Lay it out clean and feel the day loosen.
-fortuneMost2: The path was cleared in advance, so you move while others hunt for the light switch. Set tomorrow tonight and walk into it ready.
-fortuneHigh: Your speed is the gift of never having to look anything up. Put the next thing where future-you finds it without thinking.
-fortuneHigh2: Small batches, sealed edges, nothing scattered. The order is what sets you free, not what cages you.
-fortuneMid: Share the one small habit, not the whole system. A person can hold a single trick; the whole apparatus just buries them.
-fortuneMid2: You don't have to map all of it. Line up the first step and find the rest while moving.
-fortuneLow: A tidy list can't do everything. Some things only the conversation settles — call the person, not the plan. It's messier, and it's the part that counts.
-fortuneLow2: Cook it loud and by feel — paprika by the handful, nothing measured, and it comes out fine. Letting go of the recipe costs you only the comfort of it.
-fortuneLeast: The labels still cling to a shelf you stopped living on a year ago. Peel them off; it stings exactly as much as it should, and then it doesn't.
-fortuneLeast2: Let a whole stretch sort itself out unmanaged. Not everything needs a place — some things just flow through, and trusting that is the hard, good practice.
+fortuneMost: Each thing in its place, edges crisp, nothing touching by accident.
+fortuneMost2: The path was cleared in advance, so you move while others hunt for the light switch.
+fortuneHigh: Your speed is the gift of never having to look anything up.
+fortuneHigh2: Small batches, sealed edges, nothing scattered.
+fortuneMid: Share the one small habit, not the whole system.
+fortuneMid2: You don't have to map all of it.
+fortuneLow: A tidy list can't do everything.
+fortuneLow2: Cook it loud and by feel — paprika by the handful, nothing measured, and it comes out fine.
+fortuneLeast: The labels still cling to a shelf you stopped living on a year ago.
+fortuneLeast2: Let a whole stretch sort itself out unmanaged.
 facetMostTitle: Jars Facing Out, Drawers Labeled
 facetMost: A week-long trip is coming and the suitcase is open on the bed. You pack it by day, each outfit bagged and ordered, before a single thing goes in loose.
 facetHighTitle: Inbox at Zero

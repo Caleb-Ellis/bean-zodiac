@@ -12,16 +12,16 @@ antiBeans: [edamame, green]
 friendlyForm: smoked
 antiForm: fried
 seasonalFortune: A long pot keeps its own quiet weather; the pandan steeps, the sugar yields, and the room around it slowly softens without announcement.
-fortuneMost: Tend the small invisible thing — the plant no one waters, the friend no one's asked after — and tell nobody you did. The room is just quietly easier.
-fortuneMost2: You feed people the moment they sit, before they'll admit they came hungry. The pandan steeped while no one watched; trust the care that runs ahead of the asking.
-fortuneHigh: Turn up at the quiet one's door with bread and a specific memory, no question attached. Leave the warmth on the mat if the door doesn't open — they'll answer when they can.
-fortuneHigh2: A softening you set going long ago is about to reach someone who couldn't name its source. The care steeped in, never performed, finds its way out.
+fortuneMost: Tend the small invisible thing — the plant no one waters, the friend no one's asked after — and tell nobody you did.
+fortuneMost2: You feed people the moment they sit, before they'll admit they came hungry.
+fortuneHigh: Turn up at the quiet one's door with bread and a specific memory, no question attached.
+fortuneHigh2: A softening you set going long ago is about to reach someone who couldn't name its source.
 fortuneMid: Tend one corner instead of the whole garden, and spend the recovered hour on something nobody recommended to you.
-fortuneMid2: The kitchen light's still on for a thing you're tending but haven't named. Let some of it cool; don't reach straight for the next pot.
-fortuneLow: The garden you've hand-watered for months has its own gardener now. Set the can down at the gate and don't peek over the fence. It won't wilt without you; that's the good news.
-fortuneLow2: Keeping your own rooms to yourself isn't retreat. Lock the door, call it rest, and let no one's needs in for a while — strange as the quiet feels with nothing to stir.
-fortuneLeast: Sit at the table you usually serve from. Hand someone else the ladle and take the bowl they pour. No rearranging, no reaching for the salt; let your hands stay empty and the task be someone else's.
-fortuneLeast2: Leave before the bowls are cleared this once. Let the next thing wait and someone else do the tending — even as it tugs at your sleeve on the way out.
+fortuneMid2: The kitchen light's still on for a thing you're tending but haven't named.
+fortuneLow: The garden you've hand-watered for months has its own gardener now.
+fortuneLow2: Keeping your own rooms to yourself isn't retreat.
+fortuneLeast: Sit at the table you usually serve from.
+fortuneLeast2: Leave before the bowls are cleared this once.
 facetMostTitle: Palm Sugar Before the Taste
 facetMost: New folks have moved in next door, still surrounded by boxes. By evening there's a meal on their step and a list of which bin goes out which day, no fuss, no waiting to be asked.
 facetHighTitle: The Pandan Knot

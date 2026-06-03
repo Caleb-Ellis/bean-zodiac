@@ -12,16 +12,16 @@ antiBeans: [black, pinto]
 friendlyForm: dried
 antiForm: smoked
 seasonalFortune: A season that runs hot from the first crackle. Oil climbs fast, ricotta thickens under pressure, and the fritter sets gold before the pan has cooled — every day asking what comes next.
-fortuneMost: When the offer comes, take its larger version. You're already half in the next room anyway.
-fortuneMost2: The next thing is crackling in the pan before this one has set. Feed that hunger — it's the whole engine.
-fortuneHigh: Aim past what they expect of you. Say the bigger plan out loud and it stops being only yours.
-fortuneHigh2: A door cracks for whoever's already climbing toward it. Fortune favours your reach.
-fortuneMid: Take the road that climbs a little. You don't need the summit, just a peak to point the day at.
-fortuneMid2: Under all that patience sits a plain want. Name what you're after.
-fortuneLow: Let the empty wall stay empty a while. Leaving it bare grates against you — let the wall win this once.
-fortuneLow2: A good thing is allowed to stay its own size. Not making it bigger costs you the climb and spares you the strain.
-fortuneLeast: A long afternoon with no claim on it. Doing nothing with one is harder for you than any summit; that's the practice.
-fortuneLeast2: Someone near you has been waving a while. Turning toward them means looking back instead of ahead — which never feels right and almost always is.
+fortuneMost: When the offer comes, take its larger version.
+fortuneMost2: The next thing is crackling in the pan before this one has set.
+fortuneHigh: Aim past what they expect of you.
+fortuneHigh2: A door cracks for whoever's already climbing toward it.
+fortuneMid: Take the road that climbs a little.
+fortuneMid2: Under all that patience sits a plain want.
+fortuneLow: Let the empty wall stay empty a while.
+fortuneLow2: A good thing is allowed to stay its own size.
+fortuneLeast: A long afternoon with no claim on it.
+fortuneLeast2: Someone near you has been waving a while.
 facetMostTitle: Chili Oil at First Light
 facetMost: You finish the first hike of a trail map and find there's a harder loop branching off it. Before your boots are off you're planning to come back for the harder one.
 facetHighTitle: Cannellini Hitting the Pan

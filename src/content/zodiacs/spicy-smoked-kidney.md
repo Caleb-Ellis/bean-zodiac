@@ -12,16 +12,16 @@ antiBeans: [pinto, chickpea]
 friendlyForm: fermented
 antiForm: roasted
 seasonalFortune: A pot kept at low boil for hours. The andouille gives up its fat slowly, and the season belongs to those who tend one thing past sensible.
-fortuneMost: You love a thing past comfortable, the way the andouille gives up its fat only after hours — and what you make at that heat, no one cooler can reach. The intensity is the gift. Bring it.
-fortuneMost2: The world narrows to one bright pot and nothing else is interesting. Ride the fever; leave the door open so the kitchen's still full when it lifts.
-fortuneHigh: Fixed on one thing, you forget the rest of the room exists. Set the limit, and the love comes back intact.
-fortuneHigh2: The pot's been at a hard simmer past sensible. Pull it off before you're cooking yourself down and calling it devotion.
-fortuneMid: Full heat and a right-sized answer can share a plate. The longer version is your meal, not theirs.
-fortuneMid2: Hunger lands in you as a verdict and you obey it. Trust the body — just check it isn't running on conviction and coffee.
-fortuneLow: Someone's been waiting through your fever for any word at all. One sentence will do; the silence wounds worse than anything the message could say.
-fortuneLow2: Knowing when you've given enough is the one skill the consuming heart has to learn. Setting a thing down at first overcook isn't quitting.
-fortuneLeast: The heat's gone and you're standing over a heap of cold gray ash. Let it stay cold — not everything needs relighting.
-fortuneLeast2: A sign worth heeding — this turn rewards loving something at a temperature you can keep. The steadier flame is the lucky one now.
+fortuneMost: You love a thing past comfortable, the way the andouille gives up its fat only after hours — and what you make at that heat, no one cooler can reach.
+fortuneMost2: The world narrows to one bright pot and nothing else is interesting.
+fortuneHigh: Fixed on one thing, you forget the rest of the room exists.
+fortuneHigh2: The pot's been at a hard simmer past sensible.
+fortuneMid: Full heat and a right-sized answer can share a plate.
+fortuneMid2: Hunger lands in you as a verdict and you obey it.
+fortuneLow: Someone's been waiting through your fever for any word at all.
+fortuneLow2: Knowing when you've given enough is the one skill the consuming heart has to learn.
+fortuneLeast: The heat's gone and you're standing over a heap of cold gray ash.
+fortuneLeast2: A sign worth heeding — this turn rewards loving something at a temperature you can keep.
 facetMostTitle: Andouille's Long Sermon
 facetMost: One song catches and you play it forty times straight, learning every layer, until a knock at the wall reminds you there were neighbors at all.
 facetHighTitle: The Rice, Waiting Mute

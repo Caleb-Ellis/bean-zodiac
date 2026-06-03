@@ -12,16 +12,16 @@ antiBeans: [adzuki, fava]
 friendlyForm: fermented
 antiForm: roasted
 seasonalFortune: A season cured in low smoke. Houses smell of sumac and vinegar, and the cook tastes everything twice before the wrap is folded shut.
-fortuneMost: Keep the spare key in your pocket a while longer. Whoever's asking for it is auditioning, not arriving.
-fortuneMost2: A new face holds you long after the others have drifted off — still listening, still measuring the crunch. Your slowness is rarely wrong.
-fortuneHigh: Give it a second look before you trust it. The version you first felt isn't the true one; the second read is.
-fortuneHigh2: Who leaves the porch light on, and the hour it goes dark. You read the small signs, and that quiet watching keeps you safe in ways you'll never have to prove.
-fortuneMid: When the friendly questions come too thick and too small, slow down. You owe no easy answer to someone still being weighed.
-fortuneMid2: The good knife can go out on a first visit and come back, or not. Caution needn't mean keeping everything in the drawer.
-fortuneLow: Say yes to the smallest invitation that comes near. Caution that lets nothing in is only a slower no.
-fortuneLow2: One new person, the usual checks skipped, the door left easy. You'll lose the certainty you like, and you can reach toward the welcome without it.
-fortuneLeast: The half-open door is the worst of both. Welcome them all the way or not at all.
-fortuneLeast2: Good weather follows the one who can hand over the key and forget they did. It'll cost you a lock now and then; you'll trade up.
+fortuneMost: Keep the spare key in your pocket a while longer.
+fortuneMost2: A new face holds you long after the others have drifted off — still listening, still measuring the crunch.
+fortuneHigh: Give it a second look before you trust it.
+fortuneHigh2: Who leaves the porch light on, and the hour it goes dark.
+fortuneMid: When the friendly questions come too thick and too small, slow down.
+fortuneMid2: The good knife can go out on a first visit and come back, or not.
+fortuneLow: Say yes to the smallest invitation that comes near.
+fortuneLow2: One new person, the usual checks skipped, the door left easy.
+fortuneLeast: The half-open door is the worst of both.
+fortuneLeast2: Good weather follows the one who can hand over the key and forget they did.
 facetMostTitle: Brine Before the Cut
 facetMost: Someone you've just met is already proposing a trip, a shared lease, a plan for next year. The warmth is real and so is your urge to keep one hand on the door.
 facetHighTitle: The Tight Wrap

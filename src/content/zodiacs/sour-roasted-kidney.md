@@ -12,16 +12,16 @@ antiBeans: [black, fava]
 friendlyForm: fermented
 antiForm: smoked
 seasonalFortune: A season for evened pans. The amchur falls heavier on one tikki than the next, and the cook who notices spends the afternoon redistributing what the oil already decided.
-fortuneMost: The eye that evens the pan is the luck of your turn. While everyone waves it through, you'll catch the charge that shouldn't be there — and someone goes home glad you did.
-fortuneMost2: One person keeps drawing the worst seat. Swap it out loud before anyone sits, and say why.
-fortuneHigh: Someone offers to split the difference. Name the actual unfairness in one sentence and let the easy fix die.
+fortuneMost: The eye that evens the pan is the luck of your turn.
+fortuneMost2: One person keeps drawing the worst seat.
+fortuneHigh: Someone offers to split the difference.
 fortuneHigh2: The quiet stranger steered gently into the loud one's orbit, you already stepping back before either notices — justice worn as hospitality.
-fortuneMid: Round the obvious uneven bits and let the rest fall even. Not every pinch of amchur needs measuring.
-fortuneMid2: When a thing can't be weighed exactly, the first fair answer usually holds. Let it.
-fortuneLow: Most of the entries won't matter once you've slept on them — so shut the ledger and leave it shut a while, even if keeping it open feels safer.
-fortuneLow2: Settle the small unevenness and quit carrying it. Letting go grates on you, yet the interest it accrues is only ever paid by you.
-fortuneLeast: Overpay at the counter and walk on. Loosening the stopwatch costs you your sense of square — fairness timed that close is only accounting in disguise.
-fortuneLeast2: Some accounts are better left unkept — give the larger half on impulse and don't open the ledger behind you, however much the unkept account unsettles you.
+fortuneMid: Round the obvious uneven bits and let the rest fall even.
+fortuneMid2: When a thing can't be weighed exactly, the first fair answer usually holds.
+fortuneLow: Most of the entries won't matter once you've slept on them — so shut the ledger and leave it shut a while.
+fortuneLow2: Settle the small unevenness and quit carrying it.
+fortuneLeast: Overpay at the counter and walk on.
+fortuneLeast2: Some accounts are better left unkept — give the larger half on impulse and don't open the ledger behind you.
 facetMostTitle: Amchur by the Pinch
 facetMost: Teams are being picked on the green and the same kid is left standing last again. You stop the count and redraw the sides until they're actually even.
 facetHighTitle: Chutney to the Crust

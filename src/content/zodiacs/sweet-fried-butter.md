@@ -12,16 +12,16 @@ antiBeans: [cannellini, black]
 friendlyForm: roasted
 antiForm: smoked
 seasonalFortune: A season at low heat. Things surface in their own time, are dusted with whatever sugar sits nearest, and eaten warm before anyone asks where the recipe came from.
-fortuneMost: Say yes before you've looked at the week. It rearranges itself; it always does.
-fortuneMost2: A missed train, then coffee while you wait for the next — that's the shape of the days coming, and each one you catch turns out to be the right one.
-fortuneHigh: That thing you keep fretting was always optional. Dust it off and go feed someone you like.
-fortuneHigh2: The package is across town at the wrong door. It'll keep; the worry won't, so set the worry down first.
-fortuneMid: Shrug and start. The plan you'd have agonized over comes out worse than the one you improvise warm.
-fortuneMid2: Someone cancels twice and the booth is still yours. Sugar the afternoon yourself — you're good company alone.
-fortuneLow: This one isn't a shrug. Pick it up and carry it like it weighs something, because it does.
-fortuneLow2: Wipe the rim, fold the cloth, give this one the small care it asks for. Not everything dusts off.
-fortuneLeast: A breezy apology where a heavy one was owed is the one that misses — some trouble earned its panic.
-fortuneLeast2: Get in the car and sort it now. Letting it ride is the one move that finally doesn't work, and part of you already knows.
+fortuneMost: Say yes before you've looked at the week.
+fortuneMost2: A missed train, then coffee while you wait for the next — that's the shape of the days coming.
+fortuneHigh: That thing you keep fretting was always optional.
+fortuneHigh2: The package is across town at the wrong door.
+fortuneMid: Shrug and start.
+fortuneMid2: Someone cancels twice and the booth is still yours.
+fortuneLow: This one isn't a shrug.
+fortuneLow2: Wipe the rim, fold the cloth, give this one the small care it asks for.
+fortuneLeast: A breezy apology where a heavy one was owed is the one that misses.
+fortuneLeast2: Get in the car and sort it now.
 facetMostTitle: The Missed Train
 facetMost: Three hours of driving and the campsite's full. The overflow gravel lot it is — blanket down, view's fine from here, nothing worth turning the day sour over.
 facetHighTitle: Honey on the Thumb

@@ -12,16 +12,16 @@ antiBeans: [black, kidney]
 friendlyForm: roasted
 antiForm: boiled
 seasonalFortune: A season that rewards the unimpressed. Crisp shells split easy under heat, and what was passing for structure shows itself as folded paper. The lime crema cools nothing that wasn't already overdressed.
-fortuneMost: What's passing for structure is folded paper, and you can see the crease. Raise your glass with the line that splits the shell.
-fortuneMost2: Pretension dressed up as importance, asking to be punctured. The puncture is a public service, and it's the kind you do best.
-fortuneHigh: Name the thing nobody will, early, and the bloated hour buckles to twenty honest minutes. That clean cut is yours.
-fortuneHigh2: A small absurd thing is folded under the solemn moment. Saying it aloud is how a crowd remembers to breathe.
-fortuneMid: A laugh in the wrong second, on purpose. Everyone wanted permission; you're the one who'll volunteer it.
+fortuneMost: What's passing for structure is folded paper, and you can see the crease.
+fortuneMost2: Pretension dressed up as importance, asking to be punctured.
+fortuneHigh: Name the thing nobody will, early, and the bloated hour buckles to twenty honest minutes.
+fortuneHigh2: A small absurd thing is folded under the solemn moment.
+fortuneMid: A laugh in the wrong second, on purpose.
 fortuneMid2: The apology comes over-rehearsed and the laugh slips out before you mean it — and the whole stiff thing recalibrates around the sound.
-fortuneLow: Ceremony isn't the enemy. It's the bowl the meal sits in. Read the card all the way through before you sign it; it pinches, and it's the kinder pass.
-fortuneLow2: Not everything earnest is asking to be deflated. Take the sincere thing at face value, awkward parts and all, and leave the soft target un-popped.
-fortuneLeast: That's a soft spot, not a costume. Hold the funniest line you had in your teeth and walk past. The restraint costs you, and it's the right one.
-fortuneLeast2: Some things run cleaner when you let them stand — the anthem, the thank-you, the kept forms. The straight face is worth keeping.
+fortuneLow: Ceremony isn't the enemy. It's the bowl the meal sits in.
+fortuneLow2: Not everything earnest is asking to be deflated.
+fortuneLeast: That's a soft spot, not a costume.
+fortuneLeast2: Some things run cleaner when you let them stand — the anthem, the thank-you, the kept forms.
 facetMostTitle: Hot Sauce, Group Chat
 facetMost: Mid-flourish, the tour guide calls the vase priceless and irreplaceable. You ask, deadpan, what it last sold for — and the group's careful reverence quietly cracks down the middle.
 facetHighTitle: The Agenda, Under the Fork

@@ -12,15 +12,15 @@ antiBeans: [edamame, navy]
 friendlyForm: smoked
 antiForm: fermented
 seasonalFortune: A season for soft centres inside crisp shells; sweetness travels faster than any plan to carry it.
-fortuneMost: Flowers for no reason, carried clear across town, handed off with a straight-faced denial that it's an occasion. The wrong-but-lavish gift warms the room anyway.
-fortuneMost2: Sweetness travels faster than any plan to carry it — so you'll hear the bad news late and turn up regardless, wrong soup in hand. What lands is that you came.
-fortuneHigh: The absurd dessert at the absurd hour. The sweet is the love, the timing is the joke, and both land.
-fortuneHigh2: Someone mentions a cold and by evening you're on their stoop with soup, magazines, and three things nobody asked for. The over-much is the message.
-fortuneMid: Leave the long, rambling message. They'll replay it twice — once for the words, once for your voice underneath them.
-fortuneMid2: Some plans are worth starting for the joy of starting, even the ones abandoned mid-roll. Begin it.
-fortuneLow: Ask what would actually help before you start cooking. The answer might be "nothing — sit with me," and that'll feel like too little.
-fortuneLow2: Return the borrowed thing on time, receipt folded inside. The small exact gesture lands harder than the grand one.
-fortuneLeast: Not the cake, not the grand gesture — the dishes. Skipping the romance of it will sting.
+fortuneMost: Flowers for no reason, carried clear across town, handed off with a straight-faced denial that it's an occasion.
+fortuneMost2: Sweetness travels faster than any plan to carry it — so you'll hear the bad news late and turn up regardless, wrong soup in hand.
+fortuneHigh: The absurd dessert at the absurd hour.
+fortuneHigh2: Someone mentions a cold and by evening you're on their stoop with soup, magazines, and three things nobody asked for.
+fortuneMid: Leave the long, rambling message.
+fortuneMid2: Some plans are worth starting for the joy of starting, even the ones abandoned mid-roll.
+fortuneLow: Ask what would actually help before you start cooking.
+fortuneLow2: Return the borrowed thing on time, receipt folded inside.
+fortuneLeast: Not the cake, not the grand gesture — the dishes.
 fortuneLeast2: Let the apology sit until it lands shaped instead of scalding, even when every part of you wants to rush over.
 facetMostTitle: Coconut on Whatever It Touches
 facetMost: Three clicks into booking a surprise gallery trip before you've checked whether either of you can afford it — a coworker just offhandedly admired some painter in a far-off city, and that was apparently enough.

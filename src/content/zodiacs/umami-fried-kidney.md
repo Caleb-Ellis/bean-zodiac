@@ -12,16 +12,16 @@ antiBeans: [pinto, adzuki]
 friendlyForm: dried
 antiForm: fermented
 seasonalFortune: A season of red miso deepening in the pan — verdicts cure slowly, and the household keeps its scorched edges in plain view, unhidden, unsoftened.
-fortuneMost: Red miso deepening in the pan, verdicts curing slow. You'll say the sentence everyone's been circling for weeks — no question mark, no softener, just the thing.
-fortuneMost2: The debt paid back the same week, exact; the apology given whole when one is owed. People who've never said so trust your ledger.
-fortuneHigh: One word will do. "No" lands cleaner than the careful paragraph you built around it.
-fortuneHigh2: A story turns mean and your fork goes down mid-sentence. That pause is heard.
+fortuneMost: Red miso deepening in the pan, verdicts curing slow.
+fortuneMost2: The debt paid back the same week, exact; the apology given whole when one is owed.
+fortuneHigh: One word will do.
+fortuneHigh2: A story turns mean and your fork goes down mid-sentence.
 fortuneMid: When the talk slides somewhere you can't stand behind, change its course rather than pretend you missed it.
-fortuneMid2: Clock the small wrong, file it, lend more carefully next time, and never say a word. Weighing isn't the same as pronouncing.
-fortuneLow: Pour the second glass and stay out of it. Not every shaky plan is yours to flag, even though leaving it unflagged will itch all night.
-fortuneLow2: Let a friend's wobbly plan run its course. Some things you only learn by watching how they set by morning.
-fortuneLeast: Let someone else keep the scorecard this round. The bent corner was probably just a coffee ring.
-fortuneLeast2: Hold a looser standard for the one across from you. The grace you give yourself can stretch to cover them too — though stretching it that far won't come easy.
+fortuneMid2: Clock the small wrong, file it, lend more carefully next time, and never say a word.
+fortuneLow: Pour the second glass and stay out of it.
+fortuneLow2: Let a friend's wobbly plan run its course.
+fortuneLeast: Let someone else keep the scorecard this round.
+fortuneLeast2: Hold a looser standard for the one across from you.
 facetMostTitle: Sake to Lacquer
 facetMost: A clerk undercharges you in a hurry and is already serving the next person; you wait to flag the difference rather than pocket the gap.
 facetHighTitle: Sesame Catching on Iron

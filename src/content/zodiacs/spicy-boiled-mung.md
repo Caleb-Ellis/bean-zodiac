@@ -12,16 +12,16 @@ antiBeans: [edamame, pinto]
 friendlyForm: roasted
 antiForm: fried
 seasonalFortune: A pot held just below the boil. The household of this bean keeps its days at low simmer, every burner watched, the gochugaru tasted twice before it goes in.
-fortuneMost: Say the three worst-cases out loud. Two shrink in daylight; the third is the one your watching was actually for.
-fortuneMost2: The noticing that won't switch off is why nothing important ever runs out around you. It's a gift — it only asks to sleep at night.
-fortuneHigh: The thing you can't hurry arrives whether you watch it or not, and the watching only keeps you its hostage. Set it down and walk outside.
-fortuneHigh2: Check the lock once and leave it. The second check tells you nothing the first didn't, and the body already knew that before the hand reached out.
-fortuneMid: When someone asks what's wrong, skip the polite top of the list and say the third thing down. That's the real one, and it's been waiting.
-fortuneMid2: The hard thing doesn't improve for a fifth turning-over — it only arrives later. Let it go forward while it's still warm.
-fortuneLow: Hand the brushed-off concern back, this time with a date attached. Worry with a deadline stops being worry — though naming the day will cost a flinch.
-fortuneLow2: Coats land where they land and the house survives your not minding. Walk past the small mess; the ease is worth the itch it leaves.
-fortuneLeast: Take one thing off the list and decide never to think of it again. The whole count lightens when a single grain leaves it — reckless as that feels.
-fortuneLeast2: A small thing surfaces late, already handled, having cost you nothing. Not everything needed your watch — and learning that stings a little, doesn't it.
+fortuneMost: Say the three worst-cases out loud.
+fortuneMost2: The noticing that won't switch off is why nothing important ever runs out around you.
+fortuneHigh: The thing you can't hurry arrives whether you watch it or not, and the watching only keeps you its hostage.
+fortuneHigh2: Check the lock once and leave it.
+fortuneMid: When someone asks what's wrong, skip the polite top of the list and say the third thing down.
+fortuneMid2: The hard thing doesn't improve for a fifth turning-over — it only arrives later.
+fortuneLow: Hand the brushed-off concern back, this time with a date attached.
+fortuneLow2: Coats land where they land and the house survives your not minding.
+fortuneLeast: Take one thing off the list and decide never to think of it again.
+fortuneLeast2: A small thing surfaces late, already handled, having cost you nothing.
 facetMostTitle: Three in the Morning
 facetMost: A kid's an hour late home from a hike and the phone's silent. You've already mapped the trail, the hospitals, and which neighbor has a truck.
 facetHighTitle: Forty-One Open Spoons

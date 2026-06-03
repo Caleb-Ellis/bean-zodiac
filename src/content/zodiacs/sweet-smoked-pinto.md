@@ -13,15 +13,15 @@ friendlyForm: fermented
 antiForm: boiled
 seasonalFortune: A season for what the smoke leaves behind once the pot is cleared — rooms holding chipotle long after supper, piloncillo sweetness drifting through corners no one quite occupies.
 fortuneMost: A line you drop will still be quoted on the porch hours after you've gone home — chipotle hanging in the room long after the pot is cleared.
-fortuneMost2: Tell the story slow, with the strange light still on it, in the order the dream had. The shape you leave behind does half your talking.
+fortuneMost2: Tell the story slow, with the strange light still on it, in the order the dream had.
 fortuneHigh: A note you scribble in someone's margin gets held up to the light a year on, and they feel found.
-fortuneHigh2: There's one image still drifting through the room. Name it and let it land — you make an ordinary moment shimmer without trying.
-fortuneMid: Write the letter by hand and send it. The handwriting carries more than the words it spells.
-fortuneMid2: Give the rough shape and let the rest dissolve into the toast. You needn't pin a thing down to leave a mark on it.
-fortuneLow: Call instead of typing it out. They've been missing the tone of you, and the words keep arriving without it — your voice plain and unhazed will feel oddly bare.
-fortuneLow2: Arrive when you said, sit where you said, let the room know exactly who's in it. Showing up solid is a gift, even if solidness wears strangely on a bean made of smoke.
-fortuneLeast: Stay till the lights come on. Slipping out early stopped reading as mysterious a while back, and the full light at the end will cost you the haze you hide in.
-fortuneLeast2: Return the call the day it lands and sign your name in full. Never make them guess whether you meant it, however much the guessing has always been part of your charm.
+fortuneHigh2: There's one image still drifting through the room. Name it and let it land.
+fortuneMid: Write the letter by hand and send it.
+fortuneMid2: Give the rough shape and let the rest dissolve into the toast.
+fortuneLow: Call instead of typing it out. They've been missing the tone of you, and the words keep arriving without it.
+fortuneLow2: Arrive when you said, sit where you said, let the room know exactly who's in it.
+fortuneLeast: Stay till the lights come on.
+fortuneLeast2: Return the call the day it lands and sign your name in full.
 facetMostTitle: Bacon Rendered to Nothing
 facetMost: Asked for directions to the old mill, you describe the light on the water and the smell of the lane rather than the turns. The asker wanders off somehow charmed and no closer.
 facetHighTitle: Piloncillo Before Anyone Tastes It

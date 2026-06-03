@@ -12,16 +12,16 @@ antiBeans: [green, kidney]
 friendlyForm: boiled
 antiForm: fried
 seasonalFortune: The weeks come on slow as smoke through a low oven. Tomato deepens into honey, honey into paprika, and nothing in the season insists on a single name for itself.
-fortuneMost: Set no alarm. Let the afternoon go shapeless and trust the honey to deepen on its own.
-fortuneMost2: The good hours come when no one schedules them. An afternoon will dissolve sweetly into midnight, and you'll be glad you never pinned it down.
-fortuneHigh: The plan you made will quietly rearrange itself into a better shape — and you needn't mark the moment it changed.
-fortuneHigh2: Something gone stiff and dutiful is asking to be let go. Cancel it, stay where you are, and the loose hour is the one you'll keep.
-fortuneMid: Set one drawer right and leave the soft piles where they fell. Not every room wants a rule laid over it.
-fortuneMid2: Loose where loose is kind, firm where it actually matters. You can feel which is which, the way the pan knows honey from paprika.
-fortuneLow: Name it plainly — the day, the hour, the cross-street. "Soon" has carried too much for too long, even if the firm word sits stiff in your mouth.
-fortuneLow2: Write it down and turn up early in your own coat. The hard edge costs you the drift, but it's a kindness to whoever's been waiting on your mist.
-fortuneLeast: Pick the plain yes or no and let it hold. It scratches going down, but it lands clean where the warm fog never could.
-fortuneLeast2: A little hard order under you leaves more room to drift, not less. Keys in one pocket, the receipt filed the evening it arrives — though you'll mistrust the tidiness at first.
+fortuneMost: Set no alarm.
+fortuneMost2: The good hours come when no one schedules them.
+fortuneHigh: The plan you made will quietly rearrange itself into a better shape.
+fortuneHigh2: Something gone stiff and dutiful is asking to be let go.
+fortuneMid: Set one drawer right and leave the soft piles where they fell.
+fortuneMid2: Loose where loose is kind, firm where it actually matters.
+fortuneLow: Name it plainly — the day, the hour, the cross-street.
+fortuneLow2: Write it down and turn up early in your own coat.
+fortuneLeast: Pick the plain yes or no and let it hold.
+fortuneLeast2: A little hard order under you leaves more room to drift, not less.
 facetMostTitle: The Pan Past the Timer
 facetMost: The trailhead has three forks and no signpost. You pick whichever looks warmest and let the walk decide where it's going.
 facetHighTitle: Honey in the Warm Corners

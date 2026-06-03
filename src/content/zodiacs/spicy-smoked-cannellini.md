@@ -12,16 +12,16 @@ antiBeans: [adzuki, chickpea]
 friendlyForm: dried
 antiForm: roasted
 seasonalFortune: Pimentón hangs in cold air; the cazuela darkens at the rim. Days arrive sharpened by smoke, and what cannot keep its shape will be named for what it lacks.
-fortuneMost: Chorizo cuts clean through the whole cazuela — one note, no apology. Name the load-bearing thing the same way and watch everything rearrange around it.
-fortuneMost2: Say the figure flat. Whoever flinches was going to flinch anyway.
-fortuneHigh: The remark that outlives the gathering is the one trimmed to the bone. Say less and let it ring.
-fortuneHigh2: You see the weakest seam before anything else — that sight is yours alone. Name it, and name it kindly.
-fortuneMid: There's a useful middle between flattery and blood — what's working, and where you'd want more. Stand there.
-fortuneMid2: Trim the thought, leave the warmth around it. Sharpness keeps a softer setting that still cuts true.
-fortuneLow: An edge needs a body behind it or it lands nowhere. Cut too far and there's nothing left to grip — put the substance back, even though spareness feels safer.
-fortuneLow2: Let the small thing stand — the unmade bed, the plate where the guest set it down. It itches like dropped standards. It's only a room running easier.
-fortuneLeast: Lead with the soft hill, not the thorn. The tease that lands harder than you meant has a cousin waiting — head it off while the friend's still easy with you.
-fortuneLeast2: Tell them you love it and mean every word. Blunt the blade for the people who never needed your knife.
+fortuneMost: Chorizo cuts clean through the whole cazuela — one note, no apology.
+fortuneMost2: Say the figure flat.
+fortuneHigh: The remark that outlives the gathering is the one trimmed to the bone.
+fortuneHigh2: You see the weakest seam before anything else — that sight is yours alone.
+fortuneMid: There's a useful middle between flattery and blood — what's working, and where you'd want more.
+fortuneMid2: Trim the thought, leave the warmth around it.
+fortuneLow: An edge needs a body behind it or it lands nowhere.
+fortuneLow2: Let the small thing stand — the unmade bed, the plate where the guest set it down.
+fortuneLeast: Lead with the soft hill, not the thorn.
+fortuneLeast2: Tell them you love it and mean every word.
 facetMostTitle: Chorizo's Clean Ring
 facetMost: Handed a rambling wedding toast to help with, you find the one sentence that carries the whole thing and strike everything that isn't it.
 facetHighTitle: Smoke Through the Seam

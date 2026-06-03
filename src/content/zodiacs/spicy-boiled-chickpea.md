@@ -12,16 +12,16 @@ antiBeans: [cannellini, butter]
 friendlyForm: fried
 antiForm: dried
 seasonalFortune: Late frost spares the hardiest seed. The pantry of one who saves the soaking water learns to season itself; the year softens by what was almost discarded.
-fortuneMost: The proper tool is somewhere in a warehouse. You're here, with what your hands can reach — and that has always been enough.
-fortuneMost2: Hand you a constraint and you'll hand back a solution that shouldn't have worked. Watch their face when it holds.
-fortuneHigh: The thing about to go in the bin has one more use in it, and you're the one who can see it. Improvising is its own kind of yes.
+fortuneMost: The proper tool is somewhere in a warehouse.
+fortuneMost2: Hand you a constraint and you'll hand back a solution that shouldn't have worked.
+fortuneHigh: The thing about to go in the bin has one more use in it, and you're the one who can see it.
 fortuneHigh2: A door opens because you packed light and read the room — not because you had the right key.
-fortuneMid: Pick up the old thread instead of starting cold. What's already warm gets there faster than anything you'd build fresh.
-fortuneMid2: Tighten what you can, set a bucket under the rest, look up the part later. Half-solved buys you the whole afternoon.
-fortuneLow: Some jobs come from a shop, not your drawer. Paying the person whose work this is buys back a day you can't get any other way — even if handing it over chafes.
-fortuneLow2: Stop rigging the broken thing. The right hands exist; calling them isn't surrender, though it'll sit like it for a minute.
-fortuneLeast: Tell the friend who's good at this "I'm stuck." No clever framing, no caveats — the ask is the whole message, and it's harder than any rig.
-fortuneLeast2: Asking isn't cheating — it's just faster, and your pride will feel the difference. Let someone take it off your hands anyway.
+fortuneMid: Pick up the old thread instead of starting cold.
+fortuneMid2: Tighten what you can, set a bucket under the rest, look up the part later.
+fortuneLow: Some jobs come from a shop, not your drawer.
+fortuneLow2: Stop rigging the broken thing.
+fortuneLeast: Tell the friend who's good at this "I'm stuck."
+fortuneLeast2: Asking isn't cheating — it's just faster, and your pride will feel the difference.
 facetMostTitle: The Cracked Pot, Lined
 facetMost: Stranded roadside with a dead headlight and no garage for miles. You rig a fix from a torch, some tape, and a coat hanger, and drive on.
 facetHighTitle: The Long-Kept Thread

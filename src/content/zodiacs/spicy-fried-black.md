@@ -18,10 +18,10 @@ fortuneHigh: The seventh pass, the one nobody asked for, is usually the one that
 fortuneHigh2: Effort is about to pay out — not for the easy stretch, but for the long blackening only you stayed to watch.
 fortuneMid: There's one more pass in you. There's also a bed, and morning comes either way.
 fortuneMid2: A thing set down mid-line will keep. You'll find your place again.
-fortuneLow: A win you didn't have to grind for is still a win. Taking it feels like cheating — it isn't, though the unease is real.
-fortuneLow2: Close the tab unread; leave the afternoon light. It's a muscle you never built, and it aches less than the alternative.
-fortuneLeast: Let one small unfinished thing dissolve into the week. The world holds without you — which stings a little, and frees you a lot.
-fortuneLeast2: Not every task is yours to lift. The ache to grab this one is the old habit talking, not a duty.
+fortuneLow: A win you didn't have to grind for is still a win.
+fortuneLow2: Close the tab unread; leave the afternoon light.
+fortuneLeast: Let one small unfinished thing dissolve into the week.
+fortuneLeast2: Not every task is yours to lift.
 facetMostTitle: Salsa Roja at Full Colour
 facetMost: A trail you've hiked all day forks at dusk — turn back, or push for a summit you can't quite see. Your legs vote for the climb.
 facetHighTitle: The Tortilla's Extra Pass

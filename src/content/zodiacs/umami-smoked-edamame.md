@@ -12,16 +12,16 @@ antiBeans: [mung, adzuki]
 friendlyForm: fermented
 antiForm: roasted
 seasonalFortune: A season cured in hickory, where the salt-tare reaches the tongue a beat before the pod is opened. The kitchen runs half a step ahead of its cook.
-fortuneMost: The answer is folded in your palm before they cross the kitchen. That isn't luck; it's the tare reaching the tongue a beat before the pod opens.
-fortuneMost2: Someone will arrive shaken before long. Leave the door unlocked — you'll have the kettle on before the knock, the way you always somehow do.
-fortuneHigh: Pack the spare coat. The friend who swears they'll be fine won't be, and the weather will agree with you by evening.
-fortuneHigh2: A sign you'll catch before others is already curling at the edges, like bonito over heat. Heed it; it's reading true.
-fortuneMid: You needn't run three steps ahead. Meet the next thing as it actually lands and let it surprise you a little.
-fortuneMid2: Show the route, not just the verdict. People want the working from you more than the finished answer.
-fortuneLow: Let their sentence finish before yours begins. The ending you'd supply is right, just not theirs — and the gap costs more than the wait would.
-fortuneLow2: Learn the room by sitting in it, no map drawn first. Sitting blind will itch at the part of you that always knows; the chair finds you anyway.
-fortuneLeast: The bill, the birthday, the weather — take each as it lands. Not racing the day down will feel like dropping your guard, and the day handles itself regardless.
-fortuneLeast2: Don't finish their thought; wait for the real question and let them reach it themselves. Holding the answer back will sting, but it's theirs to arrive at.
+fortuneMost: The answer is folded in your palm before they cross the kitchen.
+fortuneMost2: Someone will arrive shaken before long.
+fortuneHigh: Pack the spare coat.
+fortuneHigh2: A sign you'll catch before others is already curling at the edges, like bonito over heat.
+fortuneMid: You needn't run three steps ahead.
+fortuneMid2: Show the route, not just the verdict.
+fortuneLow: Let their sentence finish before yours begins.
+fortuneLow2: Learn the room by sitting in it, no map drawn first.
+fortuneLeast: The bill, the birthday, the weather — take each as it lands.
+fortuneLeast2: Don't finish their thought; wait for the real question and let them reach it themselves.
 facetMostTitle: Smoke Before the Fire
 facetMost: At the baby shower the others guess wildly. You write the date and the weight on your card and seal it, sure of it.
 facetHighTitle: The Curling Bonito

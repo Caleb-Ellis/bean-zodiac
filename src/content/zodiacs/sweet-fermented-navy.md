@@ -13,15 +13,15 @@ friendlyForm: dried
 antiForm: roasted
 seasonalFortune: A pudding sets in the low oven while the house sleeps. The season favors slow custards and the quiet rooms that hold them.
 fortuneMost: Decline the party, bake the elaborate thing for an audience of one, and frost it anyway.
-fortuneMost2: A whole evening with the house to yourself, the pudding setting in the low oven, no one to perform it for. Good fortune wears an empty room this week.
-fortuneHigh: The messages can stack up unread a long while. Whoever needs you will still need you when you surface.
+fortuneMost2: A whole evening with the house to yourself, the pudding setting in the low oven, no one to perform it for.
+fortuneHigh: The messages can stack up unread a long while.
 fortuneHigh2: Take the long way home, the walk your only company.
-fortuneMid: Write the long warm letter and actually send it. One person, paper, the slow channel — that's the right one for you.
-fortuneMid2: A friend pictured you on a low evening and never knew you were thinking of them too. Let the warmth out past the doorway this once.
-fortuneLow: Your quiet is being read as distance. Send the one small sign — a heart, a single line — and they'll know; the not-sending costs more than the sending.
-fortuneLow2: Reach for someone before you've even settled what's for dinner. Some evenings go better with a second spoon, much as the solo one tempts you.
-fortuneLeast: Open the door for no reason — no menu, no plan. Let the doorbell be the good sound, even if your first instinct is to leave it unanswered.
-fortuneLeast2: Say yes to all of them and stitch the night into one. Once in a long while the full room is the one you actually wanted, though you won't believe it until you're in it.
+fortuneMid: Write the long warm letter and actually send it.
+fortuneMid2: A friend pictured you on a low evening and never knew you were thinking of them too.
+fortuneLow: Your quiet is being read as distance.
+fortuneLow2: Reach for someone before you've even settled what's for dinner.
+fortuneLeast: Open the door for no reason — no menu, no plan.
+fortuneLeast2: Say yes to all of them and stitch the night into one.
 facetMostTitle: The Crock No One Checks
 facetMost: A free weekend opens up and a dozen ways to fill it with people arrive by lunch. None of them tempt you the way an empty flat and a slow recipe for one already do.
 facetHighTitle: Vanilla Pods Overnight

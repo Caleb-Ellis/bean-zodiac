@@ -12,16 +12,16 @@ antiBeans: [green, kidney]
 friendlyForm: boiled
 antiForm: fried
 seasonalFortune: A pantry of sun-dried tomatoes keeps its lessons in folds. Sherry vinegar finds every place a hand once burned; the cook reaches for the jar more slowly each year.
-fortuneMost: The margin you leave for the road that fooled you once is a kindness to your future self. Keep it.
-fortuneMost2: Sherry vinegar finds every place a hand once burned. Reach slowly, taste before you trust — the caution you earned is good cooking.
-fortuneHigh: Ask who else has already said yes before you commit. The shape of the company is the lesson the last venture couldn't teach in time.
-fortuneHigh2: A glass nudged back from the counter's edge without a thought. Some people lock doors; you close the gaps an accident would fall through.
-fortuneMid: Asked whether you're being too careful, say yes and skip the apology. A cook who's been burned reaches more wisely, not less.
-fortuneMid2: The short list of places you won't go back to is folded away like tomatoes in oil. You owe no one the unfolding.
-fortuneLow: Something good is arriving in the rough outline of an old hurt, and the outline is all they share. Look closer before you let it pass — the prickle of caution may be lying to you this once.
-fortuneLow2: Plan the quiet exit if you must, then walk in anyway. The resemblance may be only a resemblance, and always assuming the worst keeps costing you the good.
-fortuneLeast: Fortune is holding out the twice-burned thing in new hands. Say yes the moment it's real — it's a leap, not a sure thing, and the trembling is allowed to come along.
-fortuneLeast2: A good thing is coming, and it only looks like the old one. Take it before the second-guessing arrives.
+fortuneMost: The margin you leave for the road that fooled you once is a kindness to your future self.
+fortuneMost2: Sherry vinegar finds every place a hand once burned.
+fortuneHigh: Ask who else has already said yes before you commit.
+fortuneHigh2: A glass nudged back from the counter's edge without a thought.
+fortuneMid: Asked whether you're being too careful, say yes and skip the apology.
+fortuneMid2: The short list of places you won't go back to is folded away like tomatoes in oil.
+fortuneLow: Something good is arriving in the rough outline of an old hurt, and the outline is all they share.
+fortuneLow2: Plan the quiet exit if you must, then walk in anyway.
+fortuneLeast: Fortune is holding out the twice-burned thing in new hands.
+fortuneLeast2: A good thing is coming, and it only looks like the old one.
 facetMostTitle: Tomatoes Toward Memory
 facetMost: Where the trail forks, you take the long way every time — the shortcut is the one that stranded you in the dark, and that's argument enough.
 facetHighTitle: Sherry on a Taught Tongue

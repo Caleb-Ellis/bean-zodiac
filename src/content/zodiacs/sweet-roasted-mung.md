@@ -12,16 +12,16 @@ antiBeans: [kidney, green]
 friendlyForm: dried
 antiForm: fried
 seasonalFortune: A season that warms slowly, the way jaggery slackens before it pours. Hard edges round off in the pan. Cardamom finds its way into rooms it was not invited into.
-fortuneMost: A friend turns up sharp-cornered; out comes the chair, the glass, no questions, and the corners go. That ease is the whole of you.
-fortuneMost2: Set the extra plate for whoever showed up early and don't rearrange the evening around it. You let things unfold and they do.
-fortuneHigh: A pile of forty unread messages crests; tap in, say one warm thing, leave the rest. You needn't settle every ripple.
-fortuneHigh2: Hand the early guests a job — slicing, stirring, lighting a candle — and let welcome be a verb. The looseness is what keeps a place easy.
+fortuneMost: A friend turns up sharp-cornered; out comes the chair, the glass, no questions, and the corners go.
+fortuneMost2: Set the extra plate for whoever showed up early and don't rearrange the evening around it.
+fortuneHigh: A pile of forty unread messages crests; tap in, say one warm thing, leave the rest.
+fortuneHigh2: Hand the early guests a job — slicing, stirring, lighting a candle — and let welcome be a verb.
 fortuneMid: '"Yeah, sure" to the favour, and you mean it — then actually do it, before it drifts off toward the soft far edge of "soon."'
-fortuneMid2: Drink it black, let the small annoyance pass, say nothing. Some things really aren't worth the heat.
-fortuneLow: The thing you keep waving off is sitting heavy on someone's chest. Raise it gently — easy doesn't have to mean unsaid, hard as that is for you to start.
-fortuneLow2: A plan slips and your jaw sets. That set jaw is allowed; you wanted the time kept.
-fortuneLeast: Be inconvenient about one real preference. The friction is the point — people would rather have the true you.
-fortuneLeast2: Put the cold conversation back on the heat and have it. Reheating something you let go takes nerve — but some things only sweeten the second time on.
+fortuneMid2: Drink it black, let the small annoyance pass, say nothing.
+fortuneLow: The thing you keep waving off is sitting heavy on someone's chest.
+fortuneLow2: A plan slips and your jaw sets.
+fortuneLeast: Be inconvenient about one real preference.
+fortuneLeast2: Put the cold conversation back on the heat and have it.
 facetMostTitle: Jaggery Before Anyone Names It
 facetMost: The campsite floods overnight and the whole trip plan is ruined. You're laughing in the rain, already wringing out socks and calling it a story.
 facetHighTitle: Cardamom Where It Isn't Invited

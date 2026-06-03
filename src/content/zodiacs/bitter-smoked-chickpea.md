@@ -12,16 +12,16 @@ antiBeans: [mung, navy]
 friendlyForm: roasted
 antiForm: roasted
 seasonalFortune: A season spent at the lip of the bowl. Smoke loiters above the cress, the broth half-claimed; the cook lingers in doorways, neither leaving the kitchen nor sitting down.
-fortuneMost: Coat still on, unhurried, at home on the threshold. You fit everywhere because you've promised nowhere, and that lightness is luck, not loss.
-fortuneMost2: You're already half-gone from the thing you only just reached. Don't fight it — from the edge you read the whole gathering clearer than anyone sunk in the middle of it.
-fortuneHigh: Someone's going to ask if you're staying, and you can answer without the three-sentence cushion. The plain reply leaves more of you whole than the apology would.
-fortuneHigh2: The real talk always drifts to the lip of the crowd, and it's drifting your way. Stay out at the edge; you catch what the ones in the thick of it never hear.
-fortuneMid: Unpack one box and call yourself moved in. You don't have to fully arrive — claim a single shelf, enough that the place knows you're in it.
-fortuneMid2: Give one true hour before you slip off. You can hand yourself to the song without handing over the whole night.
-fortuneLow: Take the chair with your back to the door. The exit survives an evening unwatched, even if turning from it prickles.
-fortuneLow2: You keep one window cracked, the way you do, just in case. Shut it for a night. What's been waiting on your full attention can't reach you through a draft.
-fortuneLeast: The threshold has gone cold from all the hovering. In or out — and the door shutting behind you, the move you've ducked for years, is the warm one.
-fortuneLeast2: Shoes off, and you ask whose record is playing. A closed door isn't a trap. It's how a place finally gets to keep you.
+fortuneMost: Coat still on, unhurried, at home on the threshold.
+fortuneMost2: You're already half-gone from the thing you only just reached.
+fortuneHigh: Someone's going to ask if you're staying, and you can answer without the three-sentence cushion.
+fortuneHigh2: The real talk always drifts to the lip of the crowd, and it's drifting your way.
+fortuneMid: Unpack one box and call yourself moved in.
+fortuneMid2: Give one true hour before you slip off.
+fortuneLow: Take the chair with your back to the door.
+fortuneLow2: You keep one window cracked, the way you do, just in case.
+fortuneLeast: The threshold has gone cold from all the hovering.
+fortuneLeast2: Shoes off, and you ask whose record is playing.
 facetMostTitle: Present in Every Corner
 facetMost: A lease renewal slides across the desk, two years for a better rate. You take the month-to-month at the worse one, keeping the road open under your feet.
 facetHighTitle: Cress on One Side Only

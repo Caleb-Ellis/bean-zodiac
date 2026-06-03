@@ -12,16 +12,16 @@ antiBeans: [butter, navy]
 friendlyForm: fried
 antiForm: boiled
 seasonalFortune: One bowl of harira passes through a household and the cumin lingers in the curtains for weeks; the chickpea travels further than the spoon that carried it.
-fortuneMost: Wherever you go, something starts — an argument, a plan, the overdue talk. Mind what you carry in, because everyone you pass catches it.
-fortuneMost2: One bowl of soup and the cumin's in the curtains for weeks. The warmth you bring outlasts the visit by a long mile.
-fortuneHigh: The mood arrives before you do, and people meet it at the gate. Set it warm and the whole day downstream of you runs warmer.
+fortuneMost: Wherever you go, something starts — an argument, a plan, the overdue talk.
+fortuneMost2: One bowl of soup and the cumin's in the curtains for weeks.
+fortuneHigh: The mood arrives before you do, and people meet it at the gate.
 fortuneHigh2: You'll say the one thing a hesitant group was waiting for, and watch them all lean the same way.
-fortuneMid: A good mood, carried lightly, seeds itself at the glummest gathering. Proximity does the rest.
-fortuneMid2: Bring two reluctant people near each other and the cold breaks on its own. Conduction needs contact, not force.
-fortuneLow: Take the long way round for a while. What you graze right now you scorch, and the touch isn't landing the way you mean — even if standing apart chafes.
-fortuneLow2: Some places aren't yours to warm or cool. Sit through one without leaving a fingerprint on its weather.
-fortuneLeast: A good day lands in your lap and asks nothing of you. Let the warmth come without being the one who lit it.
-fortuneLeast2: Not every mood you pick up is yours to spread. Let a gathering pass clean through you, and the quiet on the walk home is earned.
+fortuneMid: A good mood, carried lightly, seeds itself at the glummest gathering.
+fortuneMid2: Bring two reluctant people near each other and the cold breaks on its own.
+fortuneLow: Take the long way round for a while.
+fortuneLow2: Some places aren't yours to warm or cool.
+fortuneLeast: A good day lands in your lap and asks nothing of you.
+fortuneLeast2: Not every mood you pick up is yours to spread.
 facetMostTitle: Cinnamon Across the Kitchen
 facetMost: The reception after the burial has gone stiff and airless. One warm story from you, and ten minutes on the whole room is trading them, the grief loosened into something they can hold.
 facetHighTitle: One Peppercorn in the Oil

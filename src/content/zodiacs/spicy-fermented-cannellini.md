@@ -12,16 +12,16 @@ antiBeans: [butter, kidney]
 friendlyForm: dried
 antiForm: fried
 seasonalFortune: Cured slow in the jar, the brine bites back at whatever the cook forgot. A season for small corrections, sage laid one leaf at a time.
-fortuneMost: Cross the room and true the tilted frame. Things you've touched sit at right angles to themselves in a way most people feel but can't name.
-fortuneMost2: Sage laid one leaf at a time, the brine biting back at whatever was forgotten. Your hands know the work is done a moment before your mind does.
-fortuneHigh: Of all the small wrongs, only one actually holds the thing up. Set that straight and walk — the third pass is a craving dressed as care.
-fortuneHigh2: Fix the one structural fault and let the rest ferment into charm. A jar tastes best from the cook who checked it once and trusted the rest.
-fortuneMid: Say yes with one hinge a degree off. It'll tell on itself later, and the waiting was never yours to do.
-fortuneMid2: A friend says the name wrong and you let it pass. The whole warm hour survives the blurred edge.
-fortuneLow: The thing nagging you is not small, whatever you're telling yourself. Name it early, before it cures into something larger in the silence.
-fortuneLow2: Pick the one correction worth the friction; let the others go. Choosing which fight to have is the skill — and it costs you all the fights you don't.
-fortuneLeast: Dishes stacked, laundry leaning, the jar gone past its hour — and you living well inside the drift. The ease is real once you stop reaching to straighten it.
-fortuneLeast2: When the fix is genuinely needed, trust the fuss. The rest of the time, let the heap on the chair stay a heap.
+fortuneMost: Cross the room and true the tilted frame.
+fortuneMost2: Sage laid one leaf at a time, the brine biting back at whatever was forgotten.
+fortuneHigh: Of all the small wrongs, only one actually holds the thing up.
+fortuneHigh2: Fix the one structural fault and let the rest ferment into charm.
+fortuneMid: Say yes with one hinge a degree off.
+fortuneMid2: A friend says the name wrong and you let it pass.
+fortuneLow: The thing nagging you is not small, whatever you're telling yourself.
+fortuneLow2: Pick the one correction worth the friction; let the others go.
+fortuneLeast: Dishes stacked, laundry leaning, the jar gone past its hour — and you living well inside the drift.
+fortuneLeast2: When the fix is genuinely needed, trust the fuss.
 facetMostTitle: The Sage Leaf Placed by Hand
 facetMost: The shelf you built holds fine, but one bracket sits a hair proud of the others and only you will ever notice. Pull it down and reset all four so they're flush.
 facetHighTitle: The Labelled Jar

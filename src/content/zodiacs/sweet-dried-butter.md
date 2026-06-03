@@ -12,16 +12,16 @@ antiBeans: [green, kidney]
 friendlyForm: boiled
 antiForm: fried
 seasonalFortune: Honey lowers into cream the colour of pale evening; the freezer keeps its long counsel, and a household sets without anyone tending it.
-fortuneMost: Honey lowering into cream — the worst news loses a degree on its way through you. Let it rest in the cold overnight and meet the morning better.
-fortuneMost2: A still pond with no wind on it. Whoever was winding up to fight near you sets it down and forgets to pick it back up.
-fortuneHigh: When it lands hot, let it sit. The answer you'd give this second is sharper than you mean; the kinder one is already in there, further down.
-fortuneHigh2: People stay longer than they planned wherever you are, talk softer, walk out lighter. You settle a place simply by being easy in it.
-fortuneMid: Calm can quietly fence you off — already at peace with the thing they're still grieving. Feed someone, plainly. Peace shared beats peace merely kept.
-fortuneMid2: The day's small alarms reach you muffled, through cloth. Let one person all the way in anyway.
-fortuneLow: Sit in it a beat longer before you fix. Less comfortable than solving — but presence is what they came for, not a plan.
-fortuneLow2: You reach for the solution by minute two. Slow back to listening; calm was never the same as distance, though the two can wear one face.
-fortuneLeast: Let the next spark pass through you ungrabbed. Not matching it costs a flicker of pride; spend it.
-fortuneLeast2: The kettle's started to rattle in you, heat meeting heat. Step back one beat before the comeback — the quiet is still yours to keep.
+fortuneMost: Honey lowering into cream — the worst news loses a degree on its way through you.
+fortuneMost2: A still pond with no wind on it.
+fortuneHigh: When it lands hot, let it sit.
+fortuneHigh2: People stay longer than they planned wherever you are, talk softer, walk out lighter.
+fortuneMid: Calm can quietly fence you off — already at peace with the thing they're still grieving.
+fortuneMid2: The day's small alarms reach you muffled, through cloth.
+fortuneLow: Sit in it a beat longer before you fix.
+fortuneLow2: You reach for the solution by minute two.
+fortuneLeast: Let the next spark pass through you ungrabbed.
+fortuneLeast2: The kettle's started to rattle in you, heat meeting heat.
 facetMostTitle: Silk Folded Into Silk
 facetMost: The plane drops hard and the cabin gasps as one. You glance up from the window, then back down at the clouds, your pulse never finding the alarm.
 facetHighTitle: The Lamp Left Low

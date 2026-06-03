@@ -13,15 +13,15 @@ friendlyForm: roasted
 antiForm: dried
 seasonalFortune: A jar set aside in the cupboard quietly rewrites itself; the cook who returns finds the chickpea no longer answering to its old name.
 fortuneMost: A leaky tap and a sentence about beekeeping are about to meet in your head and turn out to be the same problem.
-fortuneMost2: Build the stranger shape that answers the deeper question nobody thought to ask. The brief is a floor, not a ceiling, and you've never lived on the floor.
+fortuneMost2: Build the stranger shape that answers the deeper question nobody thought to ask.
 fortuneHigh: Introduce two people who don't yet know they need each other, then step back and let it spark.
 fortuneHigh2: Bend one corner of the expected answer toward something stranger — the whole thing needn't be reinvented for your fingerprints to show.
-fortuneMid: The third idea keeps arriving before the second is finished, and the cupboard fills with brilliant beginnings. Let one new thing wait so an old one can finally walk out as an object.
-fortuneMid2: An article about bridges is quietly solving a problem about bread in you. Trust the cross-pollination — but write the plain version down too.
-fortuneLow: Cook what your hands already know and let the table be content. Not every problem is a brief; some just want the answer that works.
-fortuneLow2: Take the familiar route and do the ordinary thing well. Sometimes the new version is only a way to avoid finishing the old one.
-fortuneLeast: Luck rewards the finished thing this turn, not the clever one. Fill the known shape and ship it; your hands will itch to tinker, and the relief of something that just works is worth the itch.
-fortuneLeast2: Move by the route you already trust and decline the cleverer one. Done plainly beats brilliant-and-unfinished.
+fortuneMid: The third idea keeps arriving before the second is finished, and the cupboard fills with brilliant beginnings.
+fortuneMid2: An article about bridges is quietly solving a problem about bread in you.
+fortuneLow: Cook what your hands already know and let the table be content.
+fortuneLow2: Take the familiar route and do the ordinary thing well.
+fortuneLeast: Luck rewards the finished thing this turn, not the clever one.
+fortuneLeast2: Move by the route you already trust and decline the cleverer one.
 facetMostTitle: The Third Thing
 facetMost: The board game's missing half its pieces. Rather than shelve it, you start inventing rules that turn the gaps into the game.
 facetHighTitle: The Re-Glazed Pan

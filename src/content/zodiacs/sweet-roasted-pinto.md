@@ -12,16 +12,16 @@ antiBeans: [navy, black]
 friendlyForm: fermented
 antiForm: dried
 seasonalFortune: A season for the slow burn behind the sweet bite. Chocolate sets cold over a roast that hasn't quit; chipotle waits a beat before it speaks.
-fortuneMost: Walk in holding something nobody can refuse and stay until the place is yours. The chipotle waits a beat behind the sweet, then speaks — that's you.
-fortuneMost2: The story you swore you'd never tell, mid-anecdote, no warning. You tip a too-tidy table and everyone's secretly glad you did.
+fortuneMost: Walk in holding something nobody can refuse and stay until the place is yours.
+fortuneMost2: The story you swore you'd never tell, mid-anecdote, no warning.
 fortuneHigh: A little setup pays off this turn — slip the surprise into a bag, no note, and somewhere later someone finds it alone and laughs.
-fortuneHigh2: Drop the one observation guaranteed to start a real argument, then top up the wine. The thread tilts, and you meant it to.
-fortuneMid: Tell the long version, embarrassing bit kept in. That bit is the love — no need to escalate past it.
-fortuneMid2: Ask the question that gets the quietest guest going. A small nudge stirs things without lighting anything you'd have to own later.
-fortuneLow: Pull the bit and own it a beat later with a real hug. The hug was always the trick — the heat was never meant to land, even though landing it is the fun part.
-fortuneLow2: Send the apology the moment you owe it. Plain words, nothing decorative, no chipotle behind them.
-fortuneLeast: A sincere thank-you, zero jokes, just thank-you. The plainness lands heavier than any setup you could rig — and going un-clever will cost you, say it anyway.
-fortuneLeast2: Leave the room exactly as you found it. The surprise everyone's braced for simply doesn't arrive — a quieter mischief than the loud kind, and rarer from you.
+fortuneHigh2: Drop the one observation guaranteed to start a real argument, then top up the wine.
+fortuneMid: Tell the long version, embarrassing bit kept in. That bit is the love.
+fortuneMid2: Ask the question that gets the quietest guest going.
+fortuneLow: Pull the bit and own it a beat later with a real hug.
+fortuneLow2: Send the apology the moment you owe it. Plain words, nothing decorative.
+fortuneLeast: A sincere thank-you, zero jokes, just thank-you.
+fortuneLeast2: Leave the room exactly as you found it.
 facetMostTitle: Smooth Chocolate, Chipotle Beneath
 facetMost: A solemn portrait hangs crooked in the gallery and a guard's back is turned. Your fingers itch to nudge it half an inch more askew and stroll on whistling.
 facetHighTitle: A Bark Broken in a Quiet Room

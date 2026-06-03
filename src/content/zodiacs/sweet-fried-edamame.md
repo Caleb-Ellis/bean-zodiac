@@ -12,16 +12,16 @@ antiBeans: [mung, butter]
 friendlyForm: dried
 antiForm: smoked
 seasonalFortune: A season when the oil runs hot and the honey sets fast; pods are pulled from the pan before the cook can second-guess.
-fortuneMost: Out the door while the day's still soft, and something warm in hand for the friend on the way back. Their week needed the push too.
-fortuneMost2: The oil runs hot and the honey sets fast — a stretch where waking up becomes a gentle propulsion, and the friction drops for everyone near you.
-fortuneHigh: Knock one thing off someone else's list and say nothing. Let them find it done.
-fortuneHigh2: You'll arrive with the round ordered and the seats saved. Smoothing the path ahead of people is its own quiet care.
-fortuneMid: Clear the dull task first. The whole reward is the next one coming easier, and that's plenty.
-fortuneMid2: Move the small thing the day it lands, for the plain pleasure of a clean surface. Not every push needs somewhere to go.
-fortuneLow: Rest on purpose, even when sitting still feels like falling behind. The work comes back better.
-fortuneLow2: A slow start can stay slow. The plan you belong to finds you without the chase.
-fortuneLeast: Fast in the wrong direction is still wrong. You're not in trouble, only lost — stop and recalculate kindly.
-fortuneLeast2: Read the same thing again in slower light and let the list wait. The day arrives on its own; you only have to let it.
+fortuneMost: Out the door while the day's still soft, and something warm in hand for the friend on the way back.
+fortuneMost2: The oil runs hot and the honey sets fast — a stretch where waking up becomes a gentle propulsion.
+fortuneHigh: Knock one thing off someone else's list and say nothing.
+fortuneHigh2: You'll arrive with the round ordered and the seats saved.
+fortuneMid: Clear the dull task first.
+fortuneMid2: Move the small thing the day it lands, for the plain pleasure of a clean surface.
+fortuneLow: Rest on purpose, even when sitting still feels like falling behind.
+fortuneLow2: A slow start can stay slow.
+fortuneLeast: Fast in the wrong direction is still wrong.
+fortuneLeast2: Read the same thing again in slower light and let the list wait.
 facetMostTitle: Honey Skinning the Pod
 facetMost: The trailhead lot is empty and the gate's still padlocked when you pull in, headlamp already on, boots laced, first up the mountain before the ranger's even awake.
 facetHighTitle: Salt at the Split

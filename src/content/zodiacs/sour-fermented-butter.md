@@ -13,15 +13,15 @@ friendlyForm: smoked
 antiForm: fried
 seasonalFortune: Brine narrows the season. What lingers in the jar after months keeps its name; the rest has gone to salt and silence.
 fortuneMost: One bean, white plate, nothing beside it — and the bareness was never lack.
-fortuneMost2: Two of a thing is just one you haven't decided about yet. Give the duplicate away and keep the single good knife; the room that opens up feels like breathing.
-fortuneHigh: The preamble you keep adding apologises for a thing that needs no apology. Say it plain and stop there.
-fortuneHigh2: A trip is coming where two things cover everything and the rest was only worry. You'll pack light and travel well.
-fortuneMid: Cut the favourite line and the thing still stands, if it was ever sound. What falls over without its centrepiece was only decoration.
-fortuneMid2: Half of what you make is finished before the lemon goes near it. Taste it plain more often — the bare version was the dish all along.
-fortuneLow: A two-line reply to a long, kind message is being read as a grudge it never was. One warm sentence undoes it; the flourish costs you nothing and you keep treating it like it costs everything.
-fortuneLow2: Keep the gift you'd have quietly returned. Sometimes the having is the whole point, and your shelves can carry one more than the editor in you believes.
-fortuneLeast: A door you've been skipping has your absence speaking for you, and it's telling lies. Show up full and unedited, bread in hand.
-fortuneLeast2: A loud table with every voice at once is not a mess waiting to be cut to one. It reads as clutter, then it reads as company, and you stay longer than you meant to.
+fortuneMost2: Two of a thing is just one you haven't decided about yet.
+fortuneHigh: The preamble you keep adding apologises for a thing that needs no apology.
+fortuneHigh2: A trip is coming where two things cover everything and the rest was only worry.
+fortuneMid: Cut the favourite line and the thing still stands, if it was ever sound.
+fortuneMid2: Half of what you make is finished before the lemon goes near it.
+fortuneLow: A two-line reply to a long, kind message is being read as a grudge it never was.
+fortuneLow2: Keep the gift you'd have quietly returned.
+fortuneLeast: A door you've been skipping has your absence speaking for you, and it's telling lies.
+fortuneLeast2: A loud table with every voice at once is not a mess waiting to be cut to one.
 facetMostTitle: One Bean, White Plate
 facetMost: A free sample, no strings — a vase you'd have nowhere to put. You wave it off before the hand's fully out, lighter for not owning it.
 facetHighTitle: Oil Over Labneh

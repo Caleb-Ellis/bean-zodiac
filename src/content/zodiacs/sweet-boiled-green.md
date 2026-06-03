@@ -12,16 +12,16 @@ antiBeans: [fava, cannellini]
 friendlyForm: roasted
 antiForm: dried
 seasonalFortune: A long blanch under sugared steam. The days simmer light and keep their bounce; the season hums where it ought to rest.
-fortuneMost: Smuggle one small joke into the serious thing and leave it there. Whoever finds it trusts the substance more, not less.
-fortuneMost2: One ridiculous aside from you, and a sunk dinner floats again. The lightness isn't a trick — it's the temperature you actually run at.
-fortuneHigh: Be the first to laugh when the moment is plainly begging for it, and don't apologise for breaking the spell. The spell wanted breaking.
-fortuneHigh2: A friendship is about to get easier because you keep refusing to take it heavily. A pun at the right second does what nothing solemn could.
-fortuneMid: Take the long way past the strange thing on the corner and stop to look. A small detour is enough to keep the whole day from going grey.
-fortuneMid2: Leave one bright, useless thing where someone will turn and find it. Rooms you pass through end up arranged like little set pieces.
-fortuneLow: The bit has started doing the answer's job for you. Let the next reply land flat on purpose. The talk reaches the real thing the moment you stop catching it with a joke.
-fortuneLow2: Finish the thing on the board before you reach for the next bright one. Not every moment needs a kicker to be worth staying inside, hard as the staying is.
-fortuneLeast: Stay in the chair with the heavy thing. No joke, no detour, no clean exit line. Every instinct will reach for the pun; this once, let the quiet be the substance.
-fortuneLeast2: Wave off the easy out someone hands you and ask the harder question instead. Some moments want meeting plainly, not lightening — and meeting them costs you the joke you'd rather make.
+fortuneMost: Smuggle one small joke into the serious thing and leave it there.
+fortuneMost2: One ridiculous aside from you, and a sunk dinner floats again.
+fortuneHigh: Be the first to laugh when the moment is plainly begging for it, and don't apologise for breaking the spell.
+fortuneHigh2: A friendship is about to get easier because you keep refusing to take it heavily.
+fortuneMid: Take the long way past the strange thing on the corner and stop to look.
+fortuneMid2: Leave one bright, useless thing where someone will turn and find it.
+fortuneLow: The bit has started doing the answer's job for you.
+fortuneLow2: Finish the thing on the board before you reach for the next bright one.
+fortuneLeast: Stay in the chair with the heavy thing.
+fortuneLeast2: Wave off the easy out someone hands you and ask the harder question instead.
 facetMostTitle: Sesame Cream in Ribbons
 facetMost: Halfway up a hard hike, the group dragging and silent, and you start narrating the climb like a wildlife documentary in a hushed plummy voice. By the summit nobody remembers being tired.
 facetHighTitle: Sugar Pinched Mid-Stir

@@ -12,16 +12,16 @@ antiBeans: [edamame, green]
 friendlyForm: fermented
 antiForm: fried
 seasonalFortune: A slow stretch of low heat. The kitchen carries last month's smoke into this one, and the household learns the smell as weather.
-fortuneMost: The chair stays where it's always sat, and guests learn the route around it. That worn path is the welcome.
-fortuneMost2: Like a century egg, you only deepen by keeping still. The settling-in you bring is worth more than any novelty.
-fortuneHigh: Pour the same tea from the same tin. They came not for the new thing but for the version your hands have made a thousand times.
-fortuneHigh2: The lake at the right hour, the kitchen your hands already know — make the case for the place that's steeped in you. It has something to give back.
-fortuneMid: Let the answer set like congee before you serve it. Give it when the shape stops shifting, not the moment it's asked.
-fortuneMid2: One new thing doesn't mean repainting the whole life. Stir in a little, keep the rest of the pot as it is.
-fortuneLow: Open a window before the next cup — the room stopped telling you its own smell, and that fade is the smell. Airing it out will feel like letting the cold in.
-fortuneLow2: Vote for the place none of you have seen. The cottage keeps; it'll be there to return to, even if leaving it for the unknown costs you the sure thing.
-fortuneLeast: An afternoon somewhere unfamiliar is waiting for you. The brew you've sat in stopped giving back what it costs to keep warm — go, though the strange streets will unsettle you.
-fortuneLeast2: Be the one who suggests the new place this time. Nothing has to steep long enough to color the water all the way through, much as the familiar pulls at you to stay.
+fortuneMost: The chair stays where it's always sat, and guests learn the route around it.
+fortuneMost2: Like a century egg, you only deepen by keeping still.
+fortuneHigh: Pour the same tea from the same tin.
+fortuneHigh2: The lake at the right hour, the kitchen your hands already know — make the case for the place that's steeped in you.
+fortuneMid: Let the answer set like congee before you serve it.
+fortuneMid2: One new thing doesn't mean repainting the whole life.
+fortuneLow: Open a window before the next cup — the room stopped telling you its own smell, and that fade is the smell.
+fortuneLow2: Vote for the place none of you have seen.
+fortuneLeast: An afternoon somewhere unfamiliar is waiting for you.
+fortuneLeast2: Be the one who suggests the new place this time.
 facetMostTitle: Walls the Colour of the Pot
 facetMost: Same café, same corner table, year after year — the waiter sets your order down before you've pulled the chair out, and that's the whole reason you came.
 facetHighTitle: Ginger, Thin Enough to See Through

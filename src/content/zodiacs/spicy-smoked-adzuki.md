@@ -12,16 +12,16 @@ antiBeans: [butter, mung]
 friendlyForm: roasted
 antiForm: roasted
 seasonalFortune: Smoke threads the rafters and stains the beams a darker grain. A season for what marks the room long after the fire is out.
-fortuneMost: Gochugaru blooms red the second it hits the broth, and so do you the second you walk in — every voice half a step lower, tuned to yours.
+fortuneMost: Gochugaru blooms red the second it hits the broth, and so do you the second you walk in.
 fortuneMost2: A door opens and the heat in the room turns toward it. That door is you.
-fortuneHigh: You finish a sentence and the table waits. The pause is yours; nobody else will take it.
-fortuneHigh2: Hold the look. The one who glances away spends the night wondering, and that won't be you.
-fortuneMid: The pull is quieter today — anchovy smoke, not open flame. Good company is its own warmth.
-fortuneMid2: You don't have to own the gathering to be felt in it. Let the heat bloom slow, the way the chile prefers.
-fortuneLow: An evening can keep its own pace with no hand on the wheel. Sit down in the broth instead of riding the rim — strange at first, and worth it.
-fortuneLow2: A stranger's whole night will run fine without bending toward you. Letting it costs a little vanity and buys a real rest.
-fortuneLeast: Slip out and leave the place exactly as you found it — chairs square, no wake behind you. It prickles to go unmissed; go light anyway.
-fortuneLeast2: An omen on the wind — this is the turn to rise like steam and vanish, unwatched, nothing to carry.
+fortuneHigh: You finish a sentence and the table waits. The pause is yours.
+fortuneHigh2: Hold the look. The one who glances away spends the night wondering.
+fortuneMid: The pull is quieter today — anchovy smoke, not open flame.
+fortuneMid2: You don't have to own the gathering to be felt in it.
+fortuneLow: An evening can keep its own pace with no hand on the wheel.
+fortuneLow2: A stranger's whole night will run fine without bending toward you.
+fortuneLeast: Slip out and leave the place exactly as you found it.
+fortuneLeast2: An omen on the wind — this is the turn to rise like steam and vanish.
 facetMostTitle: Char on the Rim
 facetMost: The band stops between songs and the whole bar's noise sags toward your end of it, waiting to hear what you'll say.
 facetHighTitle: Gochugaru Blooming Red

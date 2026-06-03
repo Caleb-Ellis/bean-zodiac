@@ -13,15 +13,15 @@ friendlyForm: smoked
 antiForm: fermented
 seasonalFortune: A year that simmers low and long. Sweetness gathers in the pot rather than the bowl, and the cardamom keeps its post.
 fortuneMost: Cook the slow thing for the one going through it, in a dish they needn't return, and stay — without asking whether they wanted company.
-fortuneMost2: Sweetness gathers in the pot before it ever reaches a bowl, and someone bruised this week is about to be fed by you. Find the one nobody's sitting beside and take the next chair.
-fortuneHigh: They said "I'm fine." Ask once more, quieter, and let the silence sit before either of you fills it — your shoulder is the whole sentence.
-fortuneHigh2: You catch the one going quiet at the edge and slide over without making a thing of it. That instinct is rarely wrong; follow it.
+fortuneMost2: Sweetness gathers in the pot before it ever reaches a bowl, and someone bruised this week is about to be fed by you.
+fortuneHigh: They said "I'm fine."
+fortuneHigh2: You catch the one going quiet at the edge and slide over without making a thing of it.
 fortuneMid: Answer the message under the message — the real ask — and let the throat-clearing ones pass.
-fortuneMid2: Hold the door the extra beat, ask the second question. Small attentions are real care; they were never meant to be heroic.
-fortuneLow: A weight got slid onto your side that nobody actually handed you. Name it gently and pass it back where it came from. Setting it down isn't dropping the person who carried it.
-fortuneLow2: You can walk around the ache in the room and tend your own pot for once. Not every hurt is yours to carry, however loudly your instinct insists it is.
-fortuneLeast: A friend keeps offering to cook for you. Hold the empty bowl out and let them — the joy of feeding you is one you've been quietly hoarding, and it was always theirs to have too.
-fortuneLeast2: The favour you're owed can stay owed without you forgiving it in advance. Let someone else do the reaching this time, hard as it is to wait on the other side of the bowl.
+fortuneMid2: Hold the door the extra beat, ask the second question.
+fortuneLow: A weight got slid onto your side that nobody actually handed you.
+fortuneLow2: You can walk around the ache in the room and tend your own pot for once.
+fortuneLeast: A friend keeps offering to cook for you.
+fortuneLeast2: The favour you're owed can stay owed without you forgiving it in advance.
 facetMostTitle: Milk for the Bruised Bean
 facetMost: A kid's crying on the platform, separated from their group, and the adults are all walking faster. You're the one who crouches to their level and stays put until someone comes back for them.
 facetHighTitle: Rose Water on a Hard Week

@@ -12,16 +12,16 @@ antiBeans: [black, kidney]
 friendlyForm: fermented
 antiForm: dried
 seasonalFortune: A season when seasoning reads as kindness; the lime brightens, the onion lingers, and pinto sweetness arrives only after the tongue has been steered.
-fortuneMost: Seat the right two beside each other and step back; the introduction does the rest. You see the shape a gathering wants before anyone else does.
-fortuneMost2: You already know which two belong together, and why, the way you know which onion to pickle for which plate. Bring them together and let it run.
-fortuneHigh: Reach for the second name first, and the first catches wind and arrives offering before you've asked. The order of things is your craft — work it.
-fortuneHigh2: An invitation framed around the part they'll love comes back as yes on its own. A little seasoning, like lime on masa, makes the whole thing easier to swallow.
-fortuneMid: A favour offered well ahead of the ask that needs it stops being strategy and becomes plain generosity. The gap is what does it.
-fortuneMid2: When an apology is owed, your instinct is to do a kindness in its place and let the debt settle quietly. Say the plain sorry instead — it costs more up front and clears more in the end.
-fortuneLow: Drop the staging and ask the bare version. The arranged route was only ever buying you a softer, worse yes, and going in without the choreography will feel exposed — which is rather the point.
-fortuneLow2: Cook what you cook and let people like it or not. Leaving a gathering unsteered means trusting an outcome you didn't arrange; trust it anyway.
-fortuneLeast: Someone has clocked the floorplan you laid out. Ask outright, by name. The plainness will feel like surrender after all that arranging, and it's the better trade.
-fortuneLeast2: An ask with its seams showing, nothing positioned behind it, costs less than the choreography ever did. Letting it land bare goes against your whole grain — the honesty buys back what the staging was quietly spending.
+fortuneMost: Seat the right two beside each other and step back; the introduction does the rest.
+fortuneMost2: You already know which two belong together, and why, the way you know which onion to pickle for which plate.
+fortuneHigh: Reach for the second name first, and the first catches wind and arrives offering before you've asked.
+fortuneHigh2: An invitation framed around the part they'll love comes back as yes on its own.
+fortuneMid: A favour offered well ahead of the ask that needs it stops being strategy and becomes plain generosity.
+fortuneMid2: When an apology is owed, your instinct is to do a kindness in its place. Say the plain sorry instead.
+fortuneLow: Drop the staging and ask the bare version.
+fortuneLow2: Cook what you cook and let people like it or not.
+fortuneLeast: Someone has clocked the floorplan you laid out. Ask outright, by name.
+fortuneLeast2: An ask with its seams showing, nothing positioned behind it, costs less than the choreography ever did.
 facetMostTitle: Cargo by Design
 facetMost: To get a stubborn relative to the family reunion, you let them believe a rival cousin won't be there. They commit before the doubt can.
 facetHighTitle: The Sharpened Onion

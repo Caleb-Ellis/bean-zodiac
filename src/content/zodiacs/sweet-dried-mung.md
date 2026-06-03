@@ -12,16 +12,16 @@ antiBeans: [edamame, green]
 friendlyForm: fermented
 antiForm: fried
 seasonalFortune: A season ground fine — what was whole is pressed into petalled shapes, sweetness carrying what the husk could not hold.
-fortuneMost: A petal cupped open in two palms. When a friend's voice catches, you don't rush to fill the gap — you sit inside it until the next word finds them.
-fortuneMost2: The gift you pick is shaped to the person, never the occasion — the small exact thing no one else remembered. You'd sooner arrive empty-handed than wrong.
-fortuneHigh: A small bird held loose in an open hand. You catch the held shoulder others walk straight past — let someone feel chosen by you.
-fortuneHigh2: You drift toward the half-finished sentence at the edge of the gathering without ever making a show of the moving. The quiet attention you pay is the warmest thing in the place.
-fortuneMid: Sit by the quiet one and ask the single question. The gentlest move is often only turning toward someone.
-fortuneMid2: Feel the small unspoken hurt and let it pull you over — one kind question, no show of it. The tenderness does its work in the quiet.
-fortuneLow: Tender isn't the same as flung open, and the propped door's been letting weather in with the welcome. Keep your softness for who's earned it; closing it a little isn't unkind.
-fortuneLow2: A row of books squared straight is also care. Let the firmness stand for once — it protects the room, and you.
-fortuneLeast: Decline the favour first thing, while the no is still small. Left to wait, it comes out twice as sharp.
-fortuneLeast2: A thorn snapped clean off the stem. Not every wound handed to you has to be carried quietly home — setting it down will feel, at first, like dropping something you were trusted with.
+fortuneMost: A petal cupped open in two palms.
+fortuneMost2: The gift you pick is shaped to the person, never the occasion — the small exact thing no one else remembered.
+fortuneHigh: A small bird held loose in an open hand.
+fortuneHigh2: You drift toward the half-finished sentence at the edge of the gathering without ever making a show of the moving.
+fortuneMid: Sit by the quiet one and ask the single question.
+fortuneMid2: Feel the small unspoken hurt and let it pull you over — one kind question, no show of it.
+fortuneLow: Tender isn't the same as flung open, and the propped door's been letting weather in with the welcome.
+fortuneLow2: A row of books squared straight is also care.
+fortuneLeast: Decline the favour first thing, while the no is still small.
+fortuneLeast2: A thorn snapped clean off the stem.
 facetMostTitle: Flour Finer Than Breath
 facetMost: A trembling stray slinks under the parked cars, flinching from every hand. You sit down on the cold kerb, go still, and let it decide in its own time to come close.
 facetHighTitle: Sugar Through the Grain

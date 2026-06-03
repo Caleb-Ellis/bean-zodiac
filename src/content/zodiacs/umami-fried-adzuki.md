@@ -12,16 +12,16 @@ antiBeans: [black, butter]
 friendlyForm: roasted
 antiForm: fermented
 seasonalFortune: Their days run hot at the edges; what they love is loaded into the pan whole, and what they don't never reaches the flame.
-fortuneMost: The oil's already screaming when you tip the rice in. Everything you love goes in whole, and someone is about to remember being loved that loudly for years.
-fortuneMost2: Give the long voice note, the toast that runs three minutes over, the gift with no occasion. People keep that heat their whole lives.
-fortuneHigh: A stranger says one true thing, and you go straight for the second question — right where the real talk was waiting.
-fortuneHigh2: Ask the thing nobody at the table will say out loud. They were hoping you'd reach for it.
+fortuneMost: The oil's already screaming when you tip the rice in. Everything you love goes in whole.
+fortuneMost2: Give the long voice note, the toast that runs three minutes over, the gift with no occasion.
+fortuneHigh: A stranger says one true thing, and you go straight for the second question.
+fortuneHigh2: Ask the thing nobody at the table will say out loud.
 fortuneMid: Move on it while it's still hot, not on some calmer week that never comes.
 fortuneMid2: A want is going to flare. Good — the fire is the whole point of you.
-fortuneLow: The heat is real, but it's landed on the wrong target. Let it cool a degree before you spend it, even when cooling feels like betrayal.
-fortuneLow2: One flare passes through you unspent, and you're still standing. Harder than it sounds, and you did it.
-fortuneLeast: The pan's gone cold and reheating won't bring it back. The next thing can't find you while you're still bent over this one.
-fortuneLeast2: A nod that means — enough. Not every passing thing has earned your whole fire.
+fortuneLow: The heat is real, but it's landed on the wrong target. Let it cool a degree before you spend it.
+fortuneLow2: One flare passes through you unspent, and you're still standing.
+fortuneLeast: The pan's gone cold and reheating won't bring it back.
+fortuneLeast2: A nod that means — enough.
 facetMostTitle: The Leaping Flame
 facetMost: A hobby catches you on a Wednesday and by Friday it owns the whole apartment — the gear, the books, the cleared shelf.
 facetHighTitle: Soy in Seconds

@@ -12,16 +12,16 @@ antiBeans: [adzuki, butter]
 friendlyForm: smoked
 antiForm: roasted
 seasonalFortune: A long quiet season. The bean keeps in its jar, the bitter leaf cures on the sill, and the kitchen waits weeks for the pot to come down.
-fortuneMost: Wave off the fifth ingredient without looking up from the pot. Water, bean, one bitter leaf was always enough, and the plain bowl is the good one.
-fortuneMost2: A clean, spare stretch is opening ahead — less to carry, less to mind. You'll move through it like someone who solved the problem early.
-fortuneHigh: A new thing has to earn its place by pushing out one already there. Make it fight for the jar.
-fortuneHigh2: The coat's lasted a decade because you never let yourself want the next one. What works stays until it stops.
-fortuneMid: Not everything half-formed is clutter. The skill that isn't good yet wants more time, not the prune.
-fortuneMid2: The friendship that hasn't earned its keep — hold off cutting it. Some things only become worth keeping if you let them.
-fortuneLow: Buy the second of something. Redundancy isn't weakness; it's a kindness to your later self, even if the spare jar nags at you.
-fortuneLow2: The ribbon, the keepsake, the pebble off a road — useless, and yours to keep. You'll itch to make it justify the space; don't.
-fortuneLeast: That ugly thing you love? Keep it for the plain joy of it. Restraint without joy is only thrift.
-fortuneLeast2: Set out far more than anyone needs and let the table crowd. Generosity will feel like waste at first; pour it anyway.
+fortuneMost: Wave off the fifth ingredient without looking up from the pot.
+fortuneMost2: A clean, spare stretch is opening ahead — less to carry, less to mind.
+fortuneHigh: A new thing has to earn its place by pushing out one already there.
+fortuneHigh2: The coat's lasted a decade because you never let yourself want the next one.
+fortuneMid: Not everything half-formed is clutter.
+fortuneMid2: The friendship that hasn't earned its keep — hold off cutting it.
+fortuneLow: Buy the second of something.
+fortuneLow2: The ribbon, the keepsake, the pebble off a road — useless, and yours to keep.
+fortuneLeast: That ugly thing you love? Keep it for the plain joy of it.
+fortuneLeast2: Set out far more than anyone needs and let the table crowd.
 facetMostTitle: Water, Bean, One Leaf
 facetMost: A free upgrade to the bigger room, the salesman beaming. The small one had a bed and a window, which was the whole list — so no, thanks.
 facetHighTitle: The Third Jar

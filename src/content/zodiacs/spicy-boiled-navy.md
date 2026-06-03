@@ -12,16 +12,16 @@ antiBeans: [chickpea, adzuki]
 friendlyForm: dried
 antiForm: roasted
 seasonalFortune: A lidded pot keeps its own counsel. The navy bean steeps long in spiced broth before anyone tastes it; warmth thickens inwardly, and the year turns at the stove's pace.
-fortuneMost: The broth's been thickening at the back of the stove for years. The few you finally hand a bowl will taste every season of it — that's the whole point of the keeping.
-fortuneMost2: Have the hard talk out on the porch, not in close on the couch. The little distance is a favour to you both.
-fortuneHigh: The new person reveals themselves on the second meeting, not the first. Take the name, hold the second question — you don't owe anyone the back shelf yet.
-fortuneHigh2: Someone worth knowing is walking up the path soon. You don't have to fling the door wide — just don't bolt it before they reach the step.
-fortuneMid: '"Maybe another time" is a complete sentence. Decline the invitation that wants closeness on the first pass, and feel no debt about it.'
-fortuneMid2: Say yes to the short visit and keep the clean way out. A door left ajar is already more than they expected, and it's enough.
-fortuneLow: The friend you've kept at arm's length has been patient about the distance a long while. Reach first this time — it'll feel like reaching across more than it is.
-fortuneLow2: Strangers in your kitchen, sleeves up, learning the spice by tasting — some turn out to be the right ones. Letting them stir costs you the quiet, but the quiet was getting lonely.
-fortuneLeast: Tell one person the thing you've told no one. The reserve was a habit before it was a principle, and the kitchen it guards has gone quiet — scary as the loosening is.
-fortuneLeast2: Hand over the last bowl, the recipe, the pot itself, and walk home with empty hands. It feels like loss right up until it doesn't.
+fortuneMost: The broth's been thickening at the back of the stove for years.
+fortuneMost2: Have the hard talk out on the porch, not in close on the couch.
+fortuneHigh: The new person reveals themselves on the second meeting, not the first.
+fortuneHigh2: Someone worth knowing is walking up the path soon.
+fortuneMid: '"Maybe another time" is a complete sentence.'
+fortuneMid2: Say yes to the short visit and keep the clean way out.
+fortuneLow: The friend you've kept at arm's length has been patient about the distance a long while.
+fortuneLow2: Strangers in your kitchen, sleeves up, learning the spice by tasting — some turn out to be the right ones.
+fortuneLeast: Tell one person the thing you've told no one.
+fortuneLeast2: Hand over the last bowl, the recipe, the pot itself, and walk home with empty hands.
 facetMostTitle: Jalapeño Under the Lid
 facetMost: A seatmate on the long train ride wants your whole life story. Three hours later they know your first name and nothing else.
 facetHighTitle: The Ham Hock's Kept Salt

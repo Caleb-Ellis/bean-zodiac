@@ -12,16 +12,16 @@ antiBeans: [mung, butter]
 friendlyForm: fried
 antiForm: boiled
 seasonalFortune: Brine darkens in the crock through weeks no one watches. Salt does the work of hours; the household eats from a season's quiet labor.
-fortuneMost: One of the things fermenting in parallel is ripe right now. Lift the lid on the one that's become itself and serve it.
-fortuneMost2: Salt has been doing the work of hours in the dark. Finish the one half-made thing; leave the rest working on the bench without you.
-fortuneHigh: Luck favours the cook who tries the odd method. Even the failed batch sends you back to the bench smarter than the safe one would have.
-fortuneHigh2: You hand someone the answer in a shape no one else would have reached for, and it fits. A good sign for the solution that arrives sideways.
-fortuneMid: A loose pull, a flickering bulb, a wobbling chair leg. The one-percent fix nobody assigned is the one your hands itch to do.
-fortuneMid2: Not everything has to be invented from scratch. Today's quiet satisfaction is a ten-minute mend no one asked for.
-fortuneLow: Step off the bench and let the day go unbilled. Leaving the lid alone will gnaw at you, and the best shape only surfaces after a fallow stretch.
-fortuneLow2: An afternoon on the steps making nothing isn't wasted. The idea you've been forcing arrives the moment you stop reaching for it.
-fortuneLeast: Papers, cups, a sweater on the chair — leave the drift. Your shoulders can stay loose inside a room that's a little undone.
-fortuneLeast2: Set the urge to optimize down and leave the house half-tidy. It runs against your grain, and that's exactly the rest in it.
+fortuneMost: One of the things fermenting in parallel is ripe right now.
+fortuneMost2: Salt has been doing the work of hours in the dark.
+fortuneHigh: Luck favours the cook who tries the odd method.
+fortuneHigh2: You hand someone the answer in a shape no one else would have reached for, and it fits.
+fortuneMid: A loose pull, a flickering bulb, a wobbling chair leg.
+fortuneMid2: Not everything has to be invented from scratch.
+fortuneLow: Step off the bench and let the day go unbilled.
+fortuneLow2: An afternoon on the steps making nothing isn't wasted.
+fortuneLeast: Papers, cups, a sweater on the chair — leave the drift.
+fortuneLeast2: Set the urge to optimize down and leave the house half-tidy.
 facetMostTitle: Salt and Chili in the Dark
 facetMost: With a part missing and the shop closed, you've already got your hands in the drawer building something that shouldn't work. Run the contraption and see if it holds.
 facetHighTitle: The Pod Before the Message

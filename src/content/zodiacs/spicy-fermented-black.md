@@ -12,16 +12,16 @@ antiBeans: [kidney, fava]
 friendlyForm: smoked
 antiForm: dried
 seasonalFortune: Jars darken on the shelf through the cold months; the sauce that taught itself in silence comes to the table thicker than the cook expected.
-fortuneMost: Whatever you've been reducing in silence comes out thicker than anyone guessed. The slow version was always worth the wait.
+fortuneMost: Whatever you've been reducing in silence comes out thicker than anyone guessed.
 fortuneMost2: One half-true sentence, one long pause, and you're the most interesting thing in the week.
 fortuneHigh: Your kitchen has rooms inside rooms. The people who stay are the ones who learn to wait for the door.
 fortuneHigh2: Someone has read you in shorthand for years and never once blinked. Hand them the long footnote before they stop asking.
-fortuneMid: A blunt question lands; you ladle a darker one back and let both steep. The answer genuinely isn't done cooking.
-fortuneMid2: On an empty road with no one to perform for, the held-back thoughts loosen on their own. The quiet was never a vault — only a slow reduction.
-fortuneLow: The secret stopped being one while you guarded it. Say it plainly; it's lighter set down than carried, even with the mystery gone.
-fortuneLow2: Hand the apology over clean, nothing steeping behind it for a darker later version. The plain pour clears the air faster, and you'll miss the slow one.
+fortuneMid: A blunt question lands; you ladle a darker one back and let both steep.
+fortuneMid2: On an empty road with no one to perform for, the held-back thoughts loosen on their own.
+fortuneLow: The secret stopped being one while you guarded it. Say it plainly.
+fortuneLow2: Hand the apology over clean, nothing steeping behind it for a darker later version.
 fortuneLeast: What you're holding has gone past the good dark into stale. Open the jar rough and serve it anyway.
-fortuneLeast2: Let the work go out burnt-pan honest, whole and aloud. It feels like spilling the jar — the recognition that comes back is realer than the hidden version earned.
+fortuneLeast2: Let the work go out burnt-pan honest, whole and aloud.
 facetMostTitle: What the Black Sauce Hides
 facetMost: Someone you've just met asks where you grew up. Give them a true answer that explains nothing, and enjoy the slight lean it puts in them.
 facetHighTitle: Drawers Inside Drawers

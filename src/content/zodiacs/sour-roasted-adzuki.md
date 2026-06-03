@@ -12,16 +12,16 @@ antiBeans: [black, green]
 friendlyForm: fried
 antiForm: smoked
 seasonalFortune: A season that strips its own husks. Roasting pans go uncovered, salt sits where it falls, and the yuzu's oil reads plain on the thumb. Nothing is kept back for later.
-fortuneMost: Salt-bare honesty is the luck running toward you this turn. The yuzu reads plain on the thumb, and someone nearby has been starving for a person with no oil on the surface.
-fortuneMost2: No husk, no second meaning, no version held in reserve. People stop bracing around you, and the air gets easier to breathe.
+fortuneMost: Salt-bare honesty is the luck running toward you this turn.
+fortuneMost2: No husk, no second meaning, no version held in reserve.
 fortuneHigh: The awkward true sentence you carry is the one that finally lets a stuck thing move.
 fortuneHigh2: A stranger asks how you really are and gets the real answer. Watch what opens.
-fortuneMid: That small debt you owe — the borrowed twenty, the reply you never sent — name it yourself, and walk lighter for miles.
+fortuneMid: That small debt you owe — name it yourself, and walk lighter for miles.
 fortuneMid2: Something's been sitting under the lid in you, growing heavier the longer it's kept.
-fortuneLow: A true thing handed over with a softer edge travels further than a bare one — even when the wrapping feels like a small dishonesty in your hands.
-fortuneLow2: Not every true thing needs saying the instant it's true. Sit on one honest line a beat longer, even if the holding feels like a small lie.
-fortuneLeast: A reason kept to yourself isn't a betrayal of it. The husk left on can be its own gentleness, though leaving it there will itch.
-fortuneLeast2: A drawer you'd rather no visitor opened. Let it stay shut — it won't undo you, even if a closed corner feels strange in a house this bare.
+fortuneLow: A true thing handed over with a softer edge travels further than a bare one.
+fortuneLow2: Not every true thing needs saying the instant it's true.
+fortuneLeast: A reason kept to yourself isn't a betrayal of it.
+fortuneLeast2: A drawer you'd rather no visitor opened. Let it stay shut.
 facetMostTitle: Yuzu Oil on the Rind
 facetMost: Anything to declare? You empty the whole bag onto the counter — the salt, the peel, the dented tin, all of it, nothing left in the pocket.
 facetHighTitle: Skin Already Split

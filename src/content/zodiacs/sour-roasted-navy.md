@@ -12,16 +12,16 @@ antiBeans: [pinto, chickpea]
 friendlyForm: dried
 antiForm: fermented
 seasonalFortune: Brown sugar dissolves into the pot hours before anyone tastes it. The season belongs to slow workers whose contributions are noticed only in their absence.
-fortuneMost: Your work, tasted before it's named — brown sugar dissolved into the pot hours early. That's the luck this turn. Finish it, leave it to be found, walk out before anyone looks up.
-fortuneMost2: You'll feed six people and mention the recipe to none of them. Your hand gets noticed by its absence, never its name, and that suits you fine.
-fortuneHigh: Cut the answer to one line. The part you trimmed was only ever fishing for a thank-you you don't need.
-fortuneHigh2: In by the side door, already two sentences into the help someone needed. No ceremony, no announcement, just the thing handled.
-fortuneMid: When the wrong person takes the credit, correct it once, flatly, and let it go. Litigating it costs more than it returns.
-fortuneMid2: Say what you did only if asked, and keep the answer flat. The work was never going to need the narration.
-fortuneLow: When the quiet hand reads as no hand at all, sign the page in pen. It feels like too much to you, but they need to see the signature, not only the work.
-fortuneLow2: Being seen isn't the same as showing off. Arrive announced for once and let the place turn toward you, even as stepping into the light costs you the cover you like.
-fortuneLeast: Restraint with no audience just curdles into a quieter vanity. Put the thing forward where people can see it, however much that grates.
-fortuneLeast2: Walk someone through what you did, step by step. Naming your part out loud pinches, yet it isn't bragging — it's only letting them know it was you.
+fortuneMost: Your work, tasted before it's named — brown sugar dissolved into the pot hours early.
+fortuneMost2: You'll feed six people and mention the recipe to none of them.
+fortuneHigh: Cut the answer to one line.
+fortuneHigh2: In by the side door, already two sentences into the help someone needed.
+fortuneMid: When the wrong person takes the credit, correct it once, flatly, and let it go.
+fortuneMid2: Say what you did only if asked, and keep the answer flat.
+fortuneLow: When the quiet hand reads as no hand at all, sign the page in pen.
+fortuneLow2: Being seen isn't the same as showing off.
+fortuneLeast: Restraint with no audience just curdles into a quieter vanity.
+fortuneLeast2: Walk someone through what you did, step by step.
 facetMostTitle: Mustard Seed, No Thanks
 facetMost: You fix the broken gate on a neighbour's fence while they're out. No note, no knock — you pack up the tools and are gone before they're back.
 facetHighTitle: Cider Vinegar, No Ceremony

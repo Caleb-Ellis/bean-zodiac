@@ -12,15 +12,15 @@ antiBeans: [edamame, chickpea]
 friendlyForm: fermented
 antiForm: smoked
 seasonalFortune: The yogurt takes on every spice it meets; the oven gives it back blistered. A season for those who steep loudly and emerge marked by what they touched.
-fortuneMost: Carry in the whole weather of it, blister and all. The part you'd smooth over on the doorstep was the part that mattered.
-fortuneMost2: What you cook down in private rarely reaches the one who needed it. Say it at full strength while it's hot.
-fortuneHigh: Your feeling soaks the room like spice through yogurt before you say a word. Aim it at whoever can hold it.
-fortuneHigh2: The honest, unedited version is the one that arrives. They feel the whole of it or they don't really get you at all.
+fortuneMost: Carry in the whole weather of it, blister and all.
+fortuneMost2: What you cook down in private rarely reaches the one who needed it.
+fortuneHigh: Your feeling soaks the room like spice through yogurt before you say a word.
+fortuneHigh2: The honest, unedited version is the one that arrives.
 fortuneMid: A reply that blisters out before you've phrased it tastes truer than an hour of careful wording.
-fortuneMid2: No flattening required. The real thing, served unpolished, is still the real thing.
-fortuneLow: You at a rolling boil, the other at a simmer. Walk it off first and match the heat to who's receiving it; holding the lid down will feel like swallowing yourself, and it isn't.
-fortuneLow2: Let the feeling rest before you serve it. That isn't hiding it, whatever the heat tells you — the cooler version carries further than the scalding one.
-fortuneLeast: Sleep on the sting one more turn. By morning the reply has bones under it instead of only heat, even if the waiting gnaws all night.
+fortuneMid2: No flattening required.
+fortuneLow: You at a rolling boil, the other at a simmer.
+fortuneLow2: Let the feeling rest before you serve it.
+fortuneLeast: Sleep on the sting one more turn.
 fortuneLeast2: Some weather just passes if you don't build a storm around it.
 facetMostTitle: Chili on the Passing Hand
 facetMost: The film's credits roll and you're still openly wrecked in the dark cinema, not bothering to wipe your face before the lights come up.

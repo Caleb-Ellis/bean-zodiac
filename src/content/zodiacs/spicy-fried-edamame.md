@@ -13,15 +13,15 @@ friendlyForm: dried
 antiForm: fermented
 seasonalFortune: A pan kept hot favours the cook who commits. The season belongs to the pleat sealed before the filling cools, the gesture made while the oil still talks back.
 fortuneMost: Speak first into the quiet and the whole table arranges itself around it.
-fortuneMost2: A silence is about to open, and you'll fill it with a sentence that isn't perfect — only said. That's the one that lands.
+fortuneMost2: A silence is about to open, and you'll fill it with a sentence that isn't perfect — only said.
 fortuneHigh: The count comes out wrong and you name it, plainly and evenly, before anyone else has decided to.
-fortuneHigh2: Someone has to go first, and it's you. The others catch up once they see it's safe.
-fortuneMid: A half-thought aloud beats one polished in your head. Offer it unfinished and let someone fold in the rest.
-fortuneMid2: Direct doesn't mean only your voice. Say your piece, then hold the door open for theirs.
-fortuneLow: Sometimes you step out and nobody follows. Not a failure of nerve — just timing that wasn't yours to fix.
-fortuneLow2: Hang back and let someone else find their footing first. Holding the door instead of walking through it costs you nothing but the habit.
-fortuneLeast: Let the bold move sleep overnight. The version still standing by morning is the one to keep — though the wait will gnaw at you.
-fortuneLeast2: If it truly matters, someone closer to it will speak. Trusting that is harder than going first; do it anyway.
+fortuneHigh2: Someone has to go first, and it's you.
+fortuneMid: A half-thought aloud beats one polished in your head.
+fortuneMid2: Say your piece, then hold the door open for theirs.
+fortuneLow: Sometimes you step out and nobody follows.
+fortuneLow2: Hang back and let someone else find their footing first.
+fortuneLeast: Let the bold move sleep overnight.
+fortuneLeast2: If it truly matters, someone closer to it will speak.
 facetMostTitle: Doubanjiang Before the Second Guest
 facetMost: A street performer asks for a volunteer and the crowd goes shy. Your hand is up before you've thought about what they'll make you do.
 facetHighTitle: The Loose-Pleated Dumpling

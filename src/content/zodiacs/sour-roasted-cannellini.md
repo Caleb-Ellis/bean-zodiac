@@ -12,16 +12,16 @@ antiBeans: [fava, green]
 friendlyForm: fried
 antiForm: fried
 seasonalFortune: Roasted cannellini hold their shape because the oven works slow; lemon and parsley arrive at the end. A season for late additions, measured into warmth already settled.
-fortuneMost: The slow oven is your luck this turn — the hard word arrives warm and lands soft. Just stop before the third pass over it, where kindness starts to blur what was true.
-fortuneMost2: A note that would have stung in anyone else's mouth comes from yours as the thing they wanted to hear anyway. That ease is the gift arriving.
+fortuneMost: The slow oven is your luck this turn — the hard word arrives warm and lands soft.
+fortuneMost2: A note that would have stung in anyone else's mouth comes from yours as the thing they wanted to hear anyway.
 fortuneHigh: Put the hard part at the end of the sentence, not buried in its middle, and the weight lands exactly where it should.
 fortuneHigh2: Warmth first, then the plain truth, both riding out on a single breath like lemon and garlic from the same pan.
-fortuneMid: Someone wants your honest read. Include the bit you'd usually save for later — later rarely comes.
+fortuneMid: Someone wants your honest read.
 fortuneMid2: Ask the question that lets them find the fault themselves, but don't ask it so gently they miss there was one.
-fortuneLow: When the padding starts getting mistaken for the point, cut it back. Stripping the softening feels unkind to you, but the kindness was never living in the adverbs.
-fortuneLow2: The rough first version, read aloud and unedited, lets others adjust to you for once — even if going out without the polish leaves you feeling half-dressed.
-fortuneLeast: Nine rehearsed versions of one plain sentence, and the first was the right one. Blunt sits wrong in your mouth, yet the truth shouldn't go cold under the gremolata.
-fortuneLeast2: Name it bare, though the softer road is right there and easier. A friend left warm and a little misinformed is a comfort that bills them later.
+fortuneLow: When the padding starts getting mistaken for the point, cut it back.
+fortuneLow2: The rough first version, read aloud and unedited, lets others adjust to you for once.
+fortuneLeast: Nine rehearsed versions of one plain sentence, and the first was the right one.
+fortuneLeast2: Name it bare, though the softer road is right there and easier.
 facetMostTitle: Gremolata on the Hard Part
 facetMost: The new cook plates something genuinely off and looks to you, hopeful. You find the one true thing to praise, then slip the fix in where it'll be heard.
 facetHighTitle: Parsley on Top

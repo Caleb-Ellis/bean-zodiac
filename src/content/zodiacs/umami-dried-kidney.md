@@ -12,16 +12,16 @@ antiBeans: [chickpea, butter]
 friendlyForm: boiled
 antiForm: fermented
 seasonalFortune: A season of long reductions. The gravy darkens by inches, the onions surrender their water in their own time, and what is begun in this house is finished in this house.
-fortuneMost: Stay with it a month past where a sensible person would have quit. What you keep faith with rises through the surface in its own time, like colour through oil.
+fortuneMost: Stay with it a month past where a sensible person would have quit.
 fortuneMost2: An old friend will come back, and you'll answer at the same speed you would have at nineteen.
-fortuneHigh: Everyone else cooled off. You don't have to.
+fortuneHigh: Everyone else cooled off.
 fortuneHigh2: Tend the thing you love an extra hour after the others drift to the quicker pan.
-fortuneMid: Name the unspoken thing while it's still small. Left to wait, it composts into a grievance neither of you chose.
-fortuneMid2: Give the thing one more hour. It'll give the hour back.
-fortuneLow: Pick the one loyalty that matters and let the other eleven cool. A card to everyone is a visit to no one — though setting any of them down will pull at you.
-fortuneLow2: Someone drifts back and the keeping you're so good at can wait this time. Hold the bar low until you see how it lands; that wariness is allowed.
-fortuneLeast: The fight is finished. Open a window, let the air change, and don't carry it overnight — even if cooling a thing you'd usually tend feels like a small betrayal.
-fortuneLeast2: A thing has run its course, and the kindest move is to stop keeping it warm. Let the pot go cold and start the morning clean, hard as that comes to you.
+fortuneMid: Name the unspoken thing while it's still small.
+fortuneMid2: Give the thing one more hour.
+fortuneLow: Pick the one loyalty that matters and let the other eleven cool.
+fortuneLow2: Someone drifts back and the keeping you're so good at can wait this time.
+fortuneLeast: The fight is finished.
+fortuneLeast2: A thing has run its course, and the kindest move is to stop keeping it warm.
 facetMostTitle: The Coal Under the Pot
 facetMost: A pen pal from a childhood holiday has long since stopped writing back. The envelope goes out anyway, every year, sealed and stamped, because you said you'd write and so you write.
 facetHighTitle: Tomato at the Edge

@@ -12,16 +12,16 @@ antiBeans: [kidney, edamame]
 friendlyForm: boiled
 antiForm: smoked
 seasonalFortune: A season that browns uncovered. Lemon rind slumps into the oil without ceremony, garlic loses its skins, rosemary throws its smell down the corridor before anyone lifts the tray.
-fortuneMost: Luck runs plain as a split rind for you this turn. Answer what was asked, in the tense it was asked, and skip the clever rephrase — it's a tax you keep paying for nothing.
-fortuneMost2: People who've spent years decoding subtext find you disarming, then restful. That ease is what you hand them just by being literal.
-fortuneHigh: Someone's fishing for a second meaning that isn't there. Take the words at face value and the whole day stays lighter.
-fortuneHigh2: A count comes out wrong and you say so flat, no apology threaded through the correction, landing like a tray set down on stone.
-fortuneMid: Take it once at the surface and act on it. The long decode is usually your own invention, not the thing's.
-fortuneMid2: Something reads odd, and most times that's all it ever was — odd, then nothing.
-fortuneLow: When the barbed line comes, wait a beat before you bite the literal hook. Reading for the hidden meaning grates against you, but not everything is offered at face value.
-fortuneLow2: There's no rush to set the unfinished thing out. Let the rosemary scent only your own kitchen a while longer, even if the holding feels a little like hiding.
-fortuneLeast: Some rooms aren't braced for the lemon set out bare — tuck it behind the bread this once, however much the arranging goes against your grain.
-fortuneLeast2: A guess kept quiet spares someone a surprise they never asked for — a mercy, even when staying silent chafes worse than any plain answer would.
+fortuneMost: Luck runs plain as a split rind for you this turn.
+fortuneMost2: People who've spent years decoding subtext find you disarming, then restful.
+fortuneHigh: Someone's fishing for a second meaning that isn't there.
+fortuneHigh2: A count comes out wrong and you say so flat, no apology threaded through the correction.
+fortuneMid: Take it once at the surface and act on it.
+fortuneMid2: Something reads odd, and most times that's all it ever was.
+fortuneLow: When the barbed line comes, wait a beat before you bite the literal hook.
+fortuneLow2: There's no rush to set the unfinished thing out.
+fortuneLeast: Some rooms aren't braced for the lemon set out bare — tuck it behind the bread this once.
+fortuneLeast2: A guess kept quiet spares someone a surprise they never asked for.
 facetMostTitle: Skin Loose, Clove Bare
 facetMost: A fortune teller turns over a card and falls silent, waiting for you to read meaning into it. You just ask her what the picture is.
 facetHighTitle: Rosemary Still Hissing

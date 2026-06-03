@@ -12,16 +12,16 @@ antiBeans: [mung, cannellini]
 friendlyForm: boiled
 antiForm: fermented
 seasonalFortune: A season lived at frying temperature, paprika on every surface; the pan is rarely cold and the residue collects on whatever is closest.
-fortuneMost: Stairs two at a time, an answer before the question lands. Carry the day the way only you can.
+fortuneMost: Stairs two at a time, an answer before the question lands.
 fortuneMost2: A kicked-around idea heats under your hands until everyone's suddenly part of the plan.
 fortuneHigh: Faster oil, faster room — bring three people into the same good thing and feel it crackle.
-fortuneHigh2: Luck favours the quick. A door cracks open for whoever's already moving, and you'll be moving.
-fortuneMid: That small thing you keep outrunning is slower than you. Turn and ask it plainly.
-fortuneMid2: The half-formed plan from weeks back is still warm in the pan. Go back for it.
-fortuneLow: Let an hour pass at its own pace. Standing still feels like waste — it isn't, though the itch to move is honest.
-fortuneLow2: Take the slow way — a meal sat through, a conversation given room. It costs you the momentum and hands back something quieter.
-fortuneLeast: A calm week, nothing overturned, is its own small fortune — even with your hands reaching for the burner.
-fortuneLeast2: A quiet stretch is allowed to stay quiet. Leaving it alone won't come naturally; let that be the work.
+fortuneHigh2: Luck favours the quick.
+fortuneMid: That small thing you keep outrunning is slower than you.
+fortuneMid2: The half-formed plan from weeks back is still warm in the pan.
+fortuneLow: Let an hour pass at its own pace.
+fortuneLow2: Take the slow way — a meal sat through, a conversation given room.
+fortuneLeast: A calm week, nothing overturned, is its own small fortune.
+fortuneLeast2: A quiet stretch is allowed to stay quiet.
 facetMostTitle: Paprika Under the Fingernails
 facetMost: The group can't decide where to eat and the menu apps are coming out. You name a place, stand up, and start herding everyone toward the door.
 facetHighTitle: Oil at Full Tremor

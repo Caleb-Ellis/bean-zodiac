@@ -13,15 +13,15 @@ friendlyForm: fermented
 antiForm: boiled
 seasonalFortune: A season that earns its weight slowly. Onion gives up its sharpness by degrees, epazote arrives at the end, and nothing in the pot can be hurried.
 fortuneMost: Begin a few summers before the part that matters and let them arrive at the point on their own.
-fortuneMost2: The soak you set going on a hunch, before anyone called, is the layer everything else will rest on. Trust what you started early.
-fortuneHigh: Half the truth is in the order you lay it down — the year, the house, the falling-out, then the names. Tell it the long way.
+fortuneMost2: The soak you set going on a hunch, before anyone called, is the layer everything else will rest on.
+fortuneHigh: Half the truth is in the order you lay it down — the year, the house, the falling-out, then the names.
 fortuneHigh2: Two things you'd filed apart are about to reveal themselves as one thing, the way epazote only makes sense at the very end of the pot.
 fortuneMid: From the doorway your shelf looks plain; the logic shows only to whoever steps right in. Pull them close before you explain.
 fortuneMid2: A small layer under the plain answer is enough to reward whoever's actually listening. Give the surface, then the one detail beneath it.
-fortuneLow: Give the plain answer and skip the footnote. Not every reply needs its full sediment stirred up — leaving it settled will itch, and it's fine.
-fortuneLow2: Say the apology flat and clear and let everyone move on without you rebuilding the whole history. The bare version is the kindness here, much as you'd rather render it slow.
-fortuneLeast: Some questions want the top line, not the strata beneath. Say "old friends" and move on — even if the unsaid layers tug at you to stay.
-fortuneLeast2: Answer the surface and let what's settled underneath stay settled. You don't owe every moment its depths, uncomfortable as the shortcut feels.
+fortuneLow: Give the plain answer and skip the footnote.
+fortuneLow2: Say the apology flat and clear and let everyone move on without you rebuilding the whole history.
+fortuneLeast: Some questions want the top line, not the strata beneath. Say "old friends" and move on.
+fortuneLeast2: Answer the surface and let what's settled underneath stay settled.
 facetMostTitle: The Clay Pot Before the Question
 facetMost: First the vanished sea, then the mud turning to stone, then the slow press of years — only then the name. That's how you answer the child at the museum pointing at the fossil, the whole floor laid before the thing standing on it.
 facetHighTitle: Sunday's Rendered Lard

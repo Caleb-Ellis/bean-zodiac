@@ -12,16 +12,16 @@ antiBeans: [navy, cannellini]
 friendlyForm: roasted
 antiForm: dried
 seasonalFortune: The batter takes a week's mood into itself overnight. A life shaped by the rooms it rises in, sweet where someone leaned close, dense where the air went thin.
-fortuneMost: Reach for the friend you keep thinking about. Someone is waiting for the exact reaching-out they'd never ask you for.
-fortuneMost2: Whoever's shoulders went up at the table — you clocked it before a word. Tilt your chair their way and trust what you caught.
+fortuneMost: Reach for the friend you keep thinking about.
+fortuneMost2: Whoever's shoulders went up at the table — you clocked it before a word.
 fortuneHigh: The second cup, carried to the hands you somehow knew had needed it.
-fortuneHigh2: Of two who need you, you can hear which one is actually hurting. Go to the quiet one first.
+fortuneHigh2: Of two who need you, you can hear which one is actually hurting.
 fortuneMid: Ask it once and mean it — "how's it going, really" — then hold the silence open and let it fill.
 fortuneMid2: Carry a stranger's hard afternoon a few stops down the road, then set it on the curb before it follows you home.
-fortuneLow: Not every feeling in the room is yours to hold. Hand the weight back, gently — you'll be lighter than you expect, though you'll feel ungenerous doing it.
-fortuneLow2: Leave at the hour you named, mid-sentence if you must. The evening keeps its shape without you propping it, even when slipping out stings.
-fortuneLeast: Go when you said, with a hug and no apology. Affection isn't a debt that gathers interest, however much it feels owed.
-fortuneLeast2: The last slice to whoever asked first. You'll hear the other one sigh and pass the plate on anyway — that's the work today.
+fortuneLow: Not every feeling in the room is yours to hold.
+fortuneLow2: Leave at the hour you named, mid-sentence if you must.
+fortuneLeast: Go when you said, with a hug and no apology.
+fortuneLeast2: The last slice to whoever asked first.
 facetMostTitle: Honey at the Hairline Crack
 facetMost: A wedding full of laughing strangers, and one guest by the window has gone quiet in a way nobody else has caught. Your whole evening bends toward that window without your deciding it.
 facetHighTitle: Orange Zest in the Room

@@ -18,10 +18,10 @@ fortuneHigh: When the night gets retold, you surface last and warmest — somewh
 fortuneHigh2: A friend will describe the evening and describe you in the same breath, never noticing they did both.
 fortuneMid: The same coat, the same cup, the same low hum on all of it. People know you by the weather, not the wardrobe.
 fortuneMid2: Show one sharp thing of yours; the haze can keep the rest.
-fortuneLow: Say the actual sentence. Left to the mood, your meaning arrives as whatever the listener carried in.
+fortuneLow: Say the actual sentence.
 fortuneLow2: Name it plainly, even though plain will feel blunter than smoke ever has to be.
-fortuneLeast: Stand in the light, not the corner. Someone's after a person, not a weather — and being that clear costs you your usual cover.
-fortuneLeast2: Give the clear yes, the plain name, the clean cut on the board. You'd rather seep in slow; start it anyway.
+fortuneLeast: Stand in the light, not the corner.
+fortuneLeast2: Give the clear yes, the plain name, the clean cut on the board.
 facetMostTitle: Smoke at the Threshold
 facetMost: Asked what you do for a living, you give them the feel of the place, the people, the hum of the days — and somehow never the actual title.
 facetHighTitle: Chipotle, Slow to Declare

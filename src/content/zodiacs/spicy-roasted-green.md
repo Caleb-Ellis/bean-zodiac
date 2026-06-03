@@ -12,16 +12,16 @@ antiBeans: [fava, cannellini]
 friendlyForm: fried
 antiForm: dried
 seasonalFortune: A season for the dry-fried pod — heat first, water last, the cook trusting that something blistered keeps better than something stewed.
-fortuneMost: Fling the windows open and sweep the floor with enough certainty and the flat morning turns. It turns.
-fortuneMost2: The date inked before a single yes is the magnet. Watch the people arrive to the heat after.
-fortuneHigh: The cancelled thing has barely landed and you're already pricing the better version. Chase that pull.
-fortuneHigh2: Inside someone's bad news there's a small live thing only you tend to spot. Naming it gently, at the right moment, is a real kindness.
-fortuneMid: Heat first, water last. Sit in the heavy part of a friend's news before you point at the ember.
-fortuneMid2: Let the loss be a loss for a minute. Hope folded in too early scorches instead of warms.
-fortuneLow: When the cheerful read wears thin, say the worst case out loud the once. Named, it shrinks on contact with the air — even as saying it feels like betraying your own nature.
+fortuneMost: Fling the windows open and sweep the floor with enough certainty and the flat morning turns.
+fortuneMost2: The date inked before a single yes is the magnet.
+fortuneHigh: The cancelled thing has barely landed and you're already pricing the better version.
+fortuneHigh2: Inside someone's bad news there's a small live thing only you tend to spot.
+fortuneMid: Heat first, water last.
+fortuneMid2: Let the loss be a loss for a minute.
+fortuneLow: When the cheerful read wears thin, say the worst case out loud the once.
 fortuneLow2: Sometimes the kindest move is to not reach for the silver lining at all, just to sit in the dark of it with them.
-fortuneLeast: Now and then the gloomy forecast is the true one. Packing the second coat goes against everything in you, and it's exactly what keeps you dry.
-fortuneLeast2: Read it clear-eyed, every flaw in plain view. That's not the pessimism you fear — it's how you arrive already braced.
+fortuneLeast: Now and then the gloomy forecast is the true one.
+fortuneLeast2: Read it clear-eyed, every flaw in plain view.
 facetMostTitle: Pods Blistered on Every Side
 facetMost: The crops failed and the barn's half-empty and somehow you're already telling the neighbours what next year's field will look like, and meaning it.
 facetHighTitle: The Wok Before the Beans

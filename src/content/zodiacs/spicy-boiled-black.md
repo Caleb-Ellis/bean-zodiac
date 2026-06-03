@@ -14,14 +14,14 @@ antiForm: fermented
 seasonalFortune: A season for the long simmer. Chipotle smoke settles into the rafters and stays; what is started in these months keeps its heat into the next.
 fortuneMost: The thing that wore everyone else down was built to your measure. They'll turn to see if you're still standing — you are.
 fortuneMost2: Hands that have broken lesser work. This one comes out the far side harder, not softer.
-fortuneHigh: The slow problem is going to give. Not fast, not loud — it gives because you were still there when it ran out of fight.
-fortuneHigh2: Good fortune is on the long road this week, not the short one. Keep walking and it finds you about a mile past where others quit.
-fortuneMid: Finish on the same legs that started it. The morning version of this work is the worse one, and the morning will always offer.
+fortuneHigh: The slow problem is going to give — because you were still there when it ran out of fight.
+fortuneHigh2: Good fortune is on the long road this week, not the short one.
+fortuneMid: Finish on the same legs that started it.
 fortuneMid2: You've got more left in you than the day asked for. Carry someone the last stretch; you'll barely feel the weight.
-fortuneLow: Hand off the thing you've been white-knuckling. It survives without you — that's worth knowing, even if learning it stings.
-fortuneLow2: A long argument drifts off mid-sentence, like smoke out an open window. Nothing's worse for the loosened grip, though it feels like loss.
-fortuneLeast: The pot's been on the fire long enough. Lift it off, repaint the hallway, start something with no scars on it yet.
-fortuneLeast2: Quitting one thing isn't the same as giving up — but it'll feel that way for an hour. Sit through that hour, then let it go.
+fortuneLow: Hand off the thing you've been white-knuckling. It survives without you.
+fortuneLow2: A long argument drifts off mid-sentence, like smoke out an open window.
+fortuneLeast: The pot's been on the fire long enough. Lift it off, start something with no scars on it yet.
+fortuneLeast2: Quitting one thing isn't the same as giving up.
 facetMostTitle: Smoke in the Beam
 facetMost: Quitting isn't in you. The whole league's folded and the season's a write-off, and you still show up to every practice.
 facetHighTitle: The Chipotle's Slow Yield

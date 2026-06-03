@@ -13,15 +13,15 @@ friendlyForm: fermented
 antiForm: roasted
 seasonalFortune: The season scorches at the rim and softens at the center. Tomatillos blister before they yield; bitter greens go limp under heat that knew its moment. A clean break in the tostada decides the meal.
 fortuneMost: You see the shape under the surface — the thing everyone circles and won't touch. The clean break is yours; name it.
-fortuneMost2: The tangle splits exactly where you press. Three words and the whole sentence falls open.
+fortuneMost2: The tangle splits exactly where you press.
 fortuneHigh: One small precise question is about to open an hour of fog. You'll know which to ask.
-fortuneHigh2: Someone lost deep in their own long version, and you the only one who can find its middle. Relief is on its way to a tired face.
+fortuneHigh2: Someone lost deep in their own long version, and you the only one who can find its middle.
 fortuneMid: Whatever your eye snagged on, it snagged for a reason. Look once more, then trust the first look.
 fortuneMid2: The wrong clause. The off note. Your attention went there before you knew why — and it's right.
-fortuneLow: Hold the answer one round longer. The clarity lands softer when they say it in their own voice instead of yours.
+fortuneLow: Hold the answer one round longer.
 fortuneLow2: A long version is coming, and a longer one behind it. Sitting through both pinches; your shortcut would have made them flinch.
-fortuneLeast: A warm clumsy question instead of the clean cut. It feels like working blind, but the answer someone reaches alone is theirs to keep.
-fortuneLeast2: Something arrives and you leave it unopened. It nags, sitting closed like that. Some shapes rearrange themselves without your knife.
+fortuneLeast: A warm clumsy question instead of the clean cut.
+fortuneLeast2: Something arrives and you leave it unopened.
 facetMostTitle: Where the Flame Drew
 facetMost: A magician fans the deck and asks you to be amazed. You watch the wrong hand instead and say, flatly, exactly where the card went.
 facetHighTitle: The Greens at the Hottest

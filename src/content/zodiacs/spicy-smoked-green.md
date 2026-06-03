@@ -12,16 +12,16 @@ antiBeans: [butter, fava]
 friendlyForm: fried
 antiForm: dried
 seasonalFortune: Pimentón scents a kitchen long after the pan is cold; the heat outlives whatever called for it.
-fortuneMost: You catch the urgency before anyone in the place has named it, and the day reshuffles to be ready. Trust it — the instinct is real and usually right.
-fortuneMost2: No fixed chair; you drift to wherever the light's gone warm. That drift is how you keep finding what everyone else walked past.
-fortuneHigh: A siren passes and you're out the door before you've picked a direction. One beat first — is the pull yours, or just the nearest noise?
+fortuneMost: You catch the urgency before anyone in the place has named it, and the day reshuffles to be ready.
+fortuneMost2: No fixed chair; you drift to wherever the light's gone warm.
+fortuneHigh: A siren passes and you're out the door before you've picked a direction.
 fortuneHigh2: Aim the energy at the friend who actually needs you, not the loudest thing going by.
-fortuneMid: Not every fever has to be chased to the end. Let one thing finish before the next yanks you off it.
-fortuneMid2: Pimentón keeps scenting the kitchen long after the pan's cold — leftover heat cooks the rest on its own. Walk away from the half-done without calling it failure.
-fortuneLow: A whole stretch can vanish into other people's emergencies, real as each one is. Find your own through-line first, then answer.
-fortuneLow2: Let the thing sit until it asks to be done. The patience suits you — it isn't drift when you chose the spot to wait in.
-fortuneLeast: The fire's out and you're still pacing on its smoke. Sit down; what's already finished doesn't need you running for it.
-fortuneLeast2: A grounded, dull task you've dodged is quietly waiting, with a satisfaction the wind never gives you. Stay rooted one day.
+fortuneMid: Not every fever has to be chased to the end.
+fortuneMid2: Pimentón keeps scenting the kitchen long after the pan's cold — leftover heat cooks the rest on its own.
+fortuneLow: A whole stretch can vanish into other people's emergencies, real as each one is.
+fortuneLow2: Let the thing sit until it asks to be done.
+fortuneLeast: The fire's out and you're still pacing on its smoke.
+fortuneLeast2: A grounded, dull task you've dodged is quietly waiting, with a satisfaction the wind never gives you.
 facetMostTitle: Smoke Filling the Room
 facetMost: A flock of birds wheels left over the field and something in you turns with them, abandoning the path for wherever the wind seems to be going.
 facetHighTitle: The Pod, Split Early

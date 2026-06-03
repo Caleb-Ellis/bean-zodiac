@@ -12,16 +12,16 @@ antiBeans: [edamame, cannellini]
 friendlyForm: boiled
 antiForm: fried
 seasonalFortune: A bean that slumps wide in hot oil keeps no part of itself in reserve; its season is loud, perfumed, and short.
-fortuneMost: Open the good bottle for no reason at all. Saved pleasure only turns to vinegar and a story about what nobody got to taste.
-fortuneMost2: Rose harissa over everything, the candle lit on a plain evening. The occasion was always just that you're here.
-fortuneHigh: The choice that smells of garlic and oil is the one that stays with you; the sensible one you'll forget by morning.
-fortuneHigh2: A windfall is coming to the table that was set too big. What you spill out comes back to the pot warmer.
+fortuneMost: Open the good bottle for no reason at all.
+fortuneMost2: Rose harissa over everything, the candle lit on a plain evening.
+fortuneHigh: The choice that smells of garlic and oil is the one that stays with you.
+fortuneHigh2: A windfall is coming to the table that was set too big.
 fortuneMid: One spice, taken slow, perfumes the whole supper.
-fortuneMid2: There's nothing to earn first. The small indulgence in front of you is already paid for.
-fortuneLow: Not every craving needs feeding the moment it blisters up. Let one pass and you'll find you're fine.
-fortuneLow2: A dry crust eaten slowly can be plenty — though skipping the feast costs you something real, so make it a fair trade and not a punishment.
-fortuneLeast: The bare room rests you in a way the full one can't. Ask the evening for nothing and see what it gives back; the wanting-less will sit oddly on you at first.
-fortuneLeast2: One cup, one lamp, one quiet hour. Some nights the plate you didn't pile high is the richer one.
+fortuneMid2: There's nothing to earn first.
+fortuneLow: Not every craving needs feeding the moment it blisters up.
+fortuneLow2: A dry crust eaten slowly can be plenty.
+fortuneLeast: The bare room rests you in a way the full one can't.
+fortuneLeast2: One cup, one lamp, one quiet hour.
 facetMostTitle: Rose Harissa at the Edge
 facetMost: A heat wave breaks at dusk and the street spills out — music, somebody's speaker, ice melting in a bucket. You're barefoot in it before the song ends.
 facetHighTitle: Garlic Gone to Spread

@@ -12,16 +12,16 @@ antiBeans: [kidney, green]
 friendlyForm: fermented
 antiForm: fried
 seasonalFortune: A season spent over low coals. The room fills with smoke hours before anyone notices the pot has been on since morning.
-fortuneMost: Panic walks into the house and meets your unchanged posture, and within a breath it drops half an octave. The quiet is what they came for.
-fortuneMost2: Say it low. The jalapeño underneath does the talking the volume never could.
-fortuneHigh: One true line, said once and late, smolders longer than any speech. The shortest version was always the hottest.
-fortuneHigh2: The work will close behind you without a sound. Let someone else name what got done.
-fortuneMid: Skip "fine" and hand over the smallest honest word instead. A table leans harder toward that than toward noise.
-fortuneMid2: Quiet isn't the same as absent. One true thing, surfaced, and they feel you in the room.
-fortuneLow: The lid has been down so long the pressure forgot its own shape. Lift it gently — it costs you the comfort of holding it and spares everyone the reckoning that lands months late over something small.
-fortuneLow2: Name the slight the hour it happens. The whole ledger coming due at once is the worse bargain.
-fortuneLeast: Bacon hits cast iron and announces itself, and some heat in you wants the same. Bang the pot, sing in the car — subtle isn't always the kinder thing.
-fortuneLeast2: A loud arrival is on the wind — every head turning, no mistaking who walked in. You banked the silence; spend it.
+fortuneMost: Panic walks into the house and meets your unchanged posture, and within a breath it drops half an octave.
+fortuneMost2: Say it low.
+fortuneHigh: One true line, said once and late, smolders longer than any speech.
+fortuneHigh2: The work will close behind you without a sound.
+fortuneMid: Skip "fine" and hand over the smallest honest word instead.
+fortuneMid2: Quiet isn't the same as absent.
+fortuneLow: The lid has been down so long the pressure forgot its own shape.
+fortuneLow2: Name the slight the hour it happens.
+fortuneLeast: Bacon hits cast iron and announces itself, and some heat in you wants the same.
+fortuneLeast2: A loud arrival is on the wind — every head turning, no mistaking who walked in.
 facetMostTitle: Low Coals, Loud Table
 facetMost: A bear is nosing the coolers and the whole campsite is up and scrambling. You stay where you sit and say what to do once, barely over the crackle of the fire.
 facetHighTitle: The Smoldering Reply

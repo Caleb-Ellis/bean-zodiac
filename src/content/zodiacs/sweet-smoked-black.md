@@ -18,10 +18,10 @@ fortuneHigh: You'll feel the weather change in a place before anyone speaks — 
 fortuneHigh2: The friendship that lasts is the one with a door you never quite open. Keep that chamber back.
 fortuneMid: Carry something warm to the person you hold at arm's length. The gesture says the thing you won't.
 fortuneMid2: A plain question deserves a plain answer; the deep one can stay in the pot.
-fortuneLow: One unguarded truth buys more than a month of mystique. Tell them where you actually went and what it cost you — even if handing it over feels like spending too much.
-fortuneLow2: Pay what you owe the day it lands, the apology as much as the bill. Carried in the dark it only sours, and you of all beans know how long a thing keeps down there.
-fortuneLeast: Say the plain sweet thing straight out, no smoke. It leaves you oddly bare, but the warmth underneath was always the better dish.
-fortuneLeast2: Open the drawer and let the drawer just be a drawer. The relief is real once you stop missing the dark.
+fortuneLow: One unguarded truth buys more than a month of mystique. Tell them where you actually went and what it cost you.
+fortuneLow2: Pay what you owe the day it lands, the apology as much as the bill.
+fortuneLeast: Say the plain sweet thing straight out, no smoke.
+fortuneLeast2: Open the drawer and let the drawer just be a drawer.
 facetMostTitle: Smoke Under the Lid
 facetMost: A traveller at the crossroads asks where the dark road leads. You know exactly, and you point them down the bright one with a smile.
 facetHighTitle: Chocolate Into Chile

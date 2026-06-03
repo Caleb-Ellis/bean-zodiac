@@ -12,16 +12,16 @@ antiBeans: [butter, mung]
 friendlyForm: fermented
 antiForm: fermented
 seasonalFortune: Tortillas crisp loud in the pan; nothing here is hidden under sauce. A season for plain saying, for the lime that names what the bean already was.
-fortuneMost: When everyone else is still hedging, you're the one who names it — lime cutting clean through the crema. That plain word is what they were starving for.
+fortuneMost: When everyone else is still hedging, you're the one who names it — lime cutting clean through the crema.
 fortuneMost2: Someone's been circling the same question for days. Hand them the answer flat.
 fortuneHigh: The short answer, given without the apology, beats the long careful one.
-fortuneHigh2: One true line shuts the matter like a tostada cracking under a thumb. Nothing left to argue.
-fortuneMid: There's a question under the question, and you can hear it. Answer that one — they'll act surprised, but they knew you'd catch it.
+fortuneHigh2: One true line shuts the matter like a tostada cracking under a thumb.
+fortuneMid: There's a question under the question, and you can hear it. Answer that one.
 fortuneMid2: A clear word lands in a muddy week. Expect someone to thank you twice for it.
 fortuneLow: The thing you let slide still has the part you edited out. Going back to add it costs you a little face — say it anyway, plainly.
-fortuneLow2: The long way around a small point lets people arrive on their own. The scenic route asks a patience that was never your cheap thing, but the view is theirs to keep.
-fortuneLeast: Soften the edge and buy someone the half-second they brace for. Just remember a sharp truth dulls in the drawer, and some of these were needed sharp.
-fortuneLeast2: Hold the verdict one beat and let them reach it themselves. The wait will grate; reach for it anyway.
+fortuneLow2: The long way around a small point lets people arrive on their own.
+fortuneLeast: Soften the edge and buy someone the half-second they brace for.
+fortuneLeast2: Hold the verdict one beat and let them reach it themselves.
 facetMostTitle: Lime Before Politeness
 facetMost: Out it comes, flat and to their face — the real cause of the mess your friend keeps pinning on bad luck.
 facetHighTitle: Crema at Its Weight

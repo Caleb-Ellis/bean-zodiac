@@ -12,16 +12,16 @@ antiBeans: [adzuki, cannellini]
 friendlyForm: fried
 antiForm: boiled
 seasonalFortune: A season that favours the long smoulder over the quick flare. Paprika deepens as it sits; honey thickens in the bowl. What entered loud will be remembered for what it left behind.
-fortuneMost: You'll walk into a dull room and the lights will seem to come on behind you. The cumin stays on the fingertips for an hour, and the room remembers who passed through.
-fortuneMost2: A question is rising in you that turns an ordinary dinner into the one people quote for years. Ask it — the table's been waiting on someone with the nerve.
+fortuneMost: You'll walk into a dull room and the lights will seem to come on behind you.
+fortuneMost2: A question is rising in you that turns an ordinary dinner into the one people quote for years.
 fortuneHigh: Make the toast, short and embarrassing and true, in the voice that makes the words land like a gift.
-fortuneHigh2: Wear the piece you've been hoarding an excuse to wear. The excuse is that you want to; let that be plenty.
-fortuneMid: Say yes to the invitation you'd have bragged about declining. The brag was the tell — you wanted the room the whole time.
-fortuneMid2: A conversation reroutes toward you and you didn't ask it to. You can stand in the light without having summoned it.
-fortuneLow: Do the brave thing with no one watching. The applause was never the point — even if the quiet feels like a stage gone dark.
-fortuneLow2: Slip out before the speeches and let the night carry on without you. Some of the best of you happens off the floor, though leaving mid-glow will tug at you.
-fortuneLeast: Take the coat off before you speak. They want who's underneath, not the bright thing you laid over the top, and yes, standing there plain will feel like standing there cold.
-fortuneLeast2: There's an ease in not being the brightest light in the bowl. Wear the soft, forgettable thing and let your name take its time surfacing — once you stop reaching for the switch.
+fortuneHigh2: Wear the piece you've been hoarding an excuse to wear.
+fortuneMid: Say yes to the invitation you'd have bragged about declining.
+fortuneMid2: A conversation reroutes toward you and you didn't ask it to.
+fortuneLow: Do the brave thing with no one watching.
+fortuneLow2: Slip out before the speeches and let the night carry on without you.
+fortuneLeast: Take the coat off before you speak.
+fortuneLeast2: There's an ease in not being the brightest light in the bowl.
 facetMostTitle: The Char That's the Whole Point
 facetMost: The open-mic list has one slot left and the room's gone flat. You put your name down and walk up to wake it.
 facetHighTitle: Honey Through Every Seam

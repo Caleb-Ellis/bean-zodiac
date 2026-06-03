@@ -14,13 +14,13 @@ antiForm: roasted
 seasonalFortune: Months of low fire darken what was hard and dull. The season belongs to those who can stand by a long braise without lifting the lid.
 fortuneMost: Cover the pot and leave it. What you're deciding will be clearer once the dark has done its slow work.
 fortuneMost2: A long wait of yours is nearly up. What comes out of it will be darker and sweeter than the thing you put in.
-fortuneHigh: When they want an answer now, "not yet" is a whole sentence. You don't need to decorate the no.
+fortuneHigh: When they want an answer now, "not yet" is a whole sentence.
 fortuneHigh2: Guests at the door and the braise still pale in the pot. The table will keep.
 fortuneMid: That thing you set down months ago is worth one quiet read. Change nothing; sleep on it; you'll know.
 fortuneMid2: An apology is still reducing down to what it actually means. Send it then, not now.
-fortuneLow: Eleven checks on the same number, and it hasn't earned your whole morning. Walk away — though the not-knowing will itch, and you'll want to look again.
-fortuneLow2: Pulled off the heat early, the flavour hasn't learned itself yet. Hard to trust a thing still raw, but it's worth the minutes you'd rather skip.
-fortuneLeast: Waiting can curdle into stalling without changing how it feels from the inside. Pick the smallest piece and let it go unfinished — clumsy, but moving.
+fortuneLow: Eleven checks on the same number, and it hasn't earned your whole morning. Walk away.
+fortuneLow2: Pulled off the heat early, the flavour hasn't learned itself yet.
+fortuneLeast: Waiting can curdle into stalling without changing how it feels from the inside. Pick the smallest piece and let it go unfinished.
 fortuneLeast2: Not everything deepens in the dark. Some things just go cold while you stand over them.
 facetMostTitle: The Slow Braise
 facetMost: The seedling you planted hasn't broken soil and a neighbour says it never will. You water it the same and give it another fortnight.

@@ -12,16 +12,16 @@ antiBeans: [navy, mung]
 friendlyForm: smoked
 antiForm: boiled
 seasonalFortune: The dried bean keeps longer than the green leaf, and the circumspect kitchen lives by that arithmetic. Bitter chard waits in cold water; nothing is committed until the broth has spoken.
-fortuneMost: A question can soak past the point others call it done, and yours will. The bitterness leaves the chard on your schedule, no one else's.
-fortuneMost2: You find the question under the question, the way an owl finds the movement under the grass. The trap set for you this turn is one you'll see from the branch.
-fortuneHigh: Hold the answer. A later you knows more, and the asking keeps a day longer than the leaf.
-fortuneHigh2: Among new faces, hang back and learn who's who first. The crowd reads cleaner from the edge of it.
-fortuneMid: You have enough to go on now. Set the hour you'll decide and keep it.
-fortuneMid2: One more taste if you must, then name it. The second look was always going to say what the first one did.
-fortuneLow: Say yes before you're sure of it. The certainty tends to arrive on the way over — though the not-knowing will gnaw the whole walk.
-fortuneLow2: Caution will beg for one more rinse. Answer without it — the chard sharpens you, it was never meant to slow you.
-fortuneLeast: Choose the thing you keep circling. The threshold is the only place you can really lose — and yes, the leap is colder than the soak.
-fortuneLeast2: Not every choice earns the long soak. Move on the thought as it lands; the world will catch up.
+fortuneMost: A question can soak past the point others call it done, and yours will.
+fortuneMost2: You find the question under the question, the way an owl finds the movement under the grass.
+fortuneHigh: Hold the answer.
+fortuneHigh2: Among new faces, hang back and learn who's who first.
+fortuneMid: You have enough to go on now.
+fortuneMid2: One more taste if you must, then name it.
+fortuneLow: Say yes before you're sure of it.
+fortuneLow2: Caution will beg for one more rinse.
+fortuneLeast: Choose the thing you keep circling.
+fortuneLeast2: Not every choice earns the long soak.
 facetMostTitle: Three Nights in the Soak
 facetMost: A locksmith you never called knocks, saying a neighbour reported your door ajar. Chain still on, you ask which neighbour, which door, watching his face for the seam before the latch ever moves.
 facetHighTitle: Rinsed Twice

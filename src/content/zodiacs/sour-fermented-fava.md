@@ -12,16 +12,16 @@ antiBeans: [cannellini, navy]
 friendlyForm: smoked
 antiForm: boiled
 seasonalFortune: Ferment outlasts the harvest it argues with. The crock keeps a sour counter-position long after the field forgets, and the lemon never agrees.
-fortuneMost: Everyone is sprinting past the thing only you caught. That "hold on" climbing your throat is worth saying out loud — the lemon never agreed either.
-fortuneMost2: While the heads are still nodding, name the two things you actually disliked, calmly. The minority position is yours because it held under pressure no one else bothered to apply.
-fortuneHigh: A counter-case ferments better for surviving the pause. Let them finish before you object; the same dissent lands sharper for having waited out the crock.
-fortuneHigh2: A question that pokes the consensus opens a longer crack than a flat objection ever could. Make the agreement examine itself instead of planting your dissent like a flag.
-fortuneMid: Hold the position into the second round and a second voice joins you by the third. The table circles back to whoever didn't budge.
-fortuneMid2: '"It was fine" is allowed to just sit there. Not every soft disagreement needs the full argument dragged in behind it.'
-fortuneLow: The split as offered is close enough, and the principle you're guarding is loose change and pride. Concede it — you lose the small thrill of the stand and buy back a whole afternoon.
-fortuneLow2: Let someone else pick the route, the temperature, the small daily thing this once. These votes were never worth calling, and the quiet underneath is a rest you've been skipping — even if going along feels like surrender at first.
-fortuneLeast: The dissent rising in your mouth is muscle memory, not conviction. Let it pass unspoken; your jaw will fight it, and you'll be glad you didn't climb a hill you couldn't name.
-fortuneLeast2: Sign what's fairly offered and walk on. Not every set of terms is a hill, and the ease of just agreeing sits foreign at first, then it sits free.
+fortuneMost: Everyone is sprinting past the thing only you caught.
+fortuneMost2: While the heads are still nodding, name the two things you actually disliked, calmly.
+fortuneHigh: A counter-case ferments better for surviving the pause.
+fortuneHigh2: A question that pokes the consensus opens a longer crack than a flat objection ever could.
+fortuneMid: Hold the position into the second round and a second voice joins you by the third.
+fortuneMid2: '"It was fine" is allowed to just sit there.'
+fortuneLow: The split as offered is close enough, and the principle you're guarding is loose change and pride.
+fortuneLow2: Let someone else pick the route, the temperature, the small daily thing this once.
+fortuneLeast: The dissent rising in your mouth is muscle memory, not conviction.
+fortuneLeast2: Sign what's fairly offered and walk on.
 facetMostTitle: Lemon, Uninvited
 facetMost: The whole stadium's chanting one name and the sound wants to pull you in. Some flint in you digs its heels in exactly because everyone else has stood up.
 facetHighTitle: The Crust Before It Yields

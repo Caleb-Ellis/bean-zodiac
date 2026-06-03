@@ -12,16 +12,16 @@ antiBeans: [pinto, mung]
 friendlyForm: boiled
 antiForm: fermented
 seasonalFortune: Days clarify themselves the way hot oil clarifies batter — what belongs crisps, what doesn't lifts away. Little is spent that isn't asked for.
-fortuneMost: Three things matter, in order; the fourth is costume. The day crisps clean the way a fritter drops in already shaped.
-fortuneMost2: Errands fold into one loop and the afternoon comes out tidy. The hours you save are yours.
-fortuneHigh: A small thing handled the minute it lands never grows into a chore. Close it while the oil's still hot.
-fortuneHigh2: The route's planned, the patty's pressed, the dawdling spared. Luck rides with the clean cut.
-fortuneMid: A step you keep calling required is habit wearing a uniform. Drop it and watch nothing fall down.
-fortuneMid2: It was done right the first time. The second pass adds only the smell of oil starting to burn.
-fortuneLow: The friend across from you isn't a counter to clear, and the slow hour isn't waste — even with every instinct you have counting it.
-fortuneLow2: Peel the garlic you could have crushed. The smell and the patience are worth the time they steal, though it'll itch the whole way.
-fortuneLeast: Let an empty hour stay empty. Leaving it unpacked will feel like a clean pan left out exposed — sit with that small discomfort and let the hour be nothing.
-fortuneLeast2: A conversation drifts past the point where you'd have wrapped it, and the best of it is hiding in the drift. Staying costs you the next thing on the list. The list will keep.
+fortuneMost: Three things matter, in order; the fourth is costume.
+fortuneMost2: Errands fold into one loop and the afternoon comes out tidy.
+fortuneHigh: A small thing handled the minute it lands never grows into a chore.
+fortuneHigh2: The route's planned, the patty's pressed, the dawdling spared.
+fortuneMid: A step you keep calling required is habit wearing a uniform.
+fortuneMid2: It was done right the first time.
+fortuneLow: The friend across from you isn't a counter to clear, and the slow hour isn't waste.
+fortuneLow2: Peel the garlic you could have crushed.
+fortuneLeast: Let an empty hour stay empty.
+fortuneLeast2: A conversation drifts past the point where you'd have wrapped it, and the best of it is hiding in the drift.
 facetMostTitle: The Hot, Empty Pan
 facetMost: Packing for a week away, one small bag. Everything that earns its place goes in and the rest stays on the bed.
 facetHighTitle: Heat Where It Cooks

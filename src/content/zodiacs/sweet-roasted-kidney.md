@@ -12,16 +12,16 @@ antiBeans: [edamame, pinto]
 friendlyForm: smoked
 antiForm: fermented
 seasonalFortune: A season spent under the chocolate's dark shell — warmth held in close, the household pulled a half-step nearer the oven than anyone asked.
-fortuneMost: The coat, the umbrella, a tin for the road — fetch all three and walk them to the corner. The care is exact and unembarrassed, and that's you.
-fortuneMost2: Make the warm thing and press it into their hands yourself. Pulling the ones you love a half-step closer is your whole shape.
-fortuneHigh: Send the care package, then close the app. The love went out in the sending; the all-day tracking is for you, not them.
-fortuneHigh2: Someone you fussed over lands safe this turn — the omen's good, the worry was wasted. Move the lamp into its pool of light and let the rest go.
-fortuneMid: Drop the soup, ring the bell, wave, drive off. You can give the care and still let them carry it from the doorstep.
-fortuneMid2: Hand over the tin without the "did you eat them?" chaser. Let the gift do its own quiet work without you standing over it.
-fortuneLow: One warm message, and not the second. Their road is theirs to cross — keeping your hands off it will ache, keep them off anyway.
-fortuneLow2: Hand over the help and don't turn around to check. They manage. They usually do.
-fortuneLeast: Somewhere warm, someone else minding the door, you the one looked after. Stand the guard down — the lock holds without you.
-fortuneLeast2: A plan shifts, someone cancels, and you're already halfway into your own evening. Not every loose end is yours to mind — let this one fray.
+fortuneMost: The coat, the umbrella, a tin for the road — fetch all three and walk them to the corner.
+fortuneMost2: Make the warm thing and press it into their hands yourself.
+fortuneHigh: Send the care package, then close the app.
+fortuneHigh2: Someone you fussed over lands safe this turn — the omen's good, the worry was wasted.
+fortuneMid: Drop the soup, ring the bell, wave, drive off.
+fortuneMid2: Hand over the tin without the "did you eat them?" chaser.
+fortuneLow: One warm message, and not the second.
+fortuneLow2: Hand over the help and don't turn around to check.
+fortuneLeast: Somewhere warm, someone else minding the door, you the one looked after.
+fortuneLeast2: A plan shifts, someone cancels, and you're already halfway into your own evening.
 facetMostTitle: The Cluster Cooling in Your Palm
 facetMost: A child wobbles to the top of the climbing frame, grinning, perfectly fine. You're already standing under them with both arms out.
 facetHighTitle: Coconut Sugar Crackling as It Sets

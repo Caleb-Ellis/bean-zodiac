@@ -13,15 +13,15 @@ friendlyForm: fermented
 antiForm: roasted
 seasonalFortune: A season the oil keeps running hot. Plantains ripen faster than the pan can take them, and the rounds leaving the skillet outpace the ones still mashing.
 fortuneMost: Finish the thing you keep circling, and keep the heat on the one building beside it.
-fortuneMost2: A stretch is coming where everything you start, you'll see through to the plate. The pan won't go cold while you're at it.
+fortuneMost2: A stretch is coming where everything you start, you'll see through to the plate.
 fortuneHigh: Set your pace to the slowest person you love. They're the reason the summit is worth a thing.
-fortuneHigh2: A friend two miles short and flagging — your certainty arrives several steps ahead of where they actually are. Walk it back to meet them.
+fortuneHigh2: A friend two miles short and flagging — walk it back to meet them.
 fortuneMid: A short word, sent before your own doubt catches up, is enough to keep someone climbing.
 fortuneMid2: The ripe ones come faster than the pan can take them; the urge to start early isn't the same as being ready.
 fortuneLow: When you can't stand still, name the thing you're outrunning.
-fortuneLow2: Let the mash rest overnight. Stopping won't cost you the morning, though the unused heat will nag.
-fortuneLeast: Hand off the part you've been hauling alone, and trust the one who reaches for it — even as your grip resists letting go.
-fortuneLeast2: Turn back two miles short. Not every climb earns its worth at the top.
+fortuneLow2: Let the mash rest overnight.
+fortuneLeast: Hand off the part you've been hauling alone, and trust the one who reaches for it.
+fortuneLeast2: Turn back two miles short.
 facetMostTitle: The Second Batch Shaping
 facetMost: Wave the sweeper truck on. The race cutoff has passed and the cones are coming up around you, but you're running this last mile in whether it counts or not.
 facetHighTitle: Oil Still Warm

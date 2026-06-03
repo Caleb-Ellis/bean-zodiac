@@ -15,12 +15,12 @@ seasonalFortune: A season that rewards the cook who keeps the pan loud past the 
 fortuneMost: The thing that makes you grin before you've thought it through pans the hottest.
 fortuneMost2: Whatever you walk in already lit about, the others will be warming their hands on by the time you sit down.
 fortuneHigh: A good omen rides in on the idea that makes you talk faster than you can think.
-fortuneHigh2: Say yes to the plan you can't explain yet. The reasons are slow; they'll catch up.
+fortuneHigh2: Say yes to the plan you can't explain yet.
 fortuneMid: One spice in the pan is still flavour. Tell someone the small thing you noticed before it cools.
 fortuneMid2: A flicker is enough.
-fortuneLow: Not every spark on the tray is yours to chase. Tend the ones that stay bright and let the rest go grey.
-fortuneLow2: Some loud ideas pass through like steam off the pan — and saving your heat will feel like loss before it feels like sense.
-fortuneLeast: Held all the way out, a silence does what your noise can't. The quiet will itch; sit in it anyway.
+fortuneLow: Not every spark on the tray is yours to chase.
+fortuneLow2: Some loud ideas pass through like steam off the pan.
+fortuneLeast: Held all the way out, a silence does what your noise can't.
 fortuneLeast2: Your whole attention, handed over without a word on top of it, lands harder than the chatter ever did.
 facetMostTitle: The Bean at the Split
 facetMost: Across the road a busker pulls a crowd, and you're clapping before you've decided to cross.

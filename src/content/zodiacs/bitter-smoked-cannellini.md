@@ -12,16 +12,16 @@ antiBeans: [adzuki, pinto]
 friendlyForm: dried
 antiForm: roasted
 seasonalFortune: A season cured behind glass. The smoke pools where the fennel was laid down, and the household measures its hours by what stays sealed rather than what arrives.
-fortuneMost: The quiet you sealed up years ago is about to pay you back. The life you cured behind glass runs sweet and exactly to plan — let the world knock, you owe it nothing.
-fortuneMost2: A household with precisely the people you meant in it, humming beautifully shut. Good fortune comes to the keeper of the seal.
-fortuneHigh: A plain "no" with no apology trailing after it. That bare one keeps your peace whole, and giving it is its own quiet strength.
-fortuneHigh2: Leave before the late confessions start and the night stays yours. Whoever wanted that hour finds another keeper for it, and you lose nothing.
-fortuneMid: One person you chose years ago never needed vetting again. Lift the lid for them without the ceremony of being let in.
-fortuneMid2: A word of warmth won't crack the seal. Let one friend past the glass — the jar keeps fine with someone inside it, daunting as that feels.
-fortuneLow: You trained people out of knocking, and now they don't. Leave a way open and trust someone to wander through it, unsettling as the open door feels.
-fortuneLow2: A friend across from you is working up to a sentence, and you'll want to close the night before it arrives. Stay turned toward them one beat longer. That beat will cost you.
-fortuneLeast: The one exception is reaching for you again. Answer before you check who it is — a sealed jar keeps out the very thing it never knew it missed.
-fortuneLeast2: You tell a stranger on the road where you're from, and walk on oddly lighter. Not everything you keep has to be cured behind glass.
+fortuneMost: The quiet you sealed up years ago is about to pay you back.
+fortuneMost2: A household with precisely the people you meant in it, humming beautifully shut.
+fortuneHigh: A plain "no" with no apology trailing after it.
+fortuneHigh2: Leave before the late confessions start and the night stays yours.
+fortuneMid: One person you chose years ago never needed vetting again.
+fortuneMid2: A word of warmth won't crack the seal.
+fortuneLow: You trained people out of knocking, and now they don't.
+fortuneLow2: A friend across from you is working up to a sentence, and you'll want to close the night before it arrives.
+fortuneLeast: The one exception is reaching for you again.
+fortuneLeast2: You tell a stranger on the road where you're from, and walk on oddly lighter.
 facetMostTitle: One Lid, One Herb
 facetMost: A group photo is forming and someone tugs your sleeve toward the middle. You slip to the far end where the crop will likely lose you.
 facetHighTitle: Smoke With Nowhere to Go

@@ -12,16 +12,16 @@ antiBeans: [edamame, navy]
 friendlyForm: smoked
 antiForm: fried
 seasonalFortune: A season for thin-walled things. The brine sharpens every edge it touches, and what looked like flaw under the lime turns out to be grain.
-fortuneMost: It landed fine. Going over it once more is only the doubt building itself a kitchen to cook in.
-fortuneMost2: The quiet after you spoke is not a verdict being written up about you. Nobody on the far side is composing the page you're dreading.
-fortuneHigh: That half-second face you caught was a yawn, not a judgment. The case you're stacking against yourself rests on a flicker, and a flicker won't bear the weight you keep hanging on it.
-fortuneHigh2: It came out as warm as you meant it. Trust the version that already happened over the one the scan keeps inventing in the dark.
-fortuneMid: The slight you're braced for hasn't happened, and the apology no one's owed only carves the wound it apologises for. Ask about their week instead; the warmth you fear you lost is right where you set it down.
-fortuneMid2: A thing left undecided on the counter has a way of deciding itself by morning. The ferment works fine with the lid on, and so do you.
-fortuneLow: Ask the dumb clarifying question now and spare yourself the wrong guess that surfaces later with an audience. A flush of embarrassment up front is cheap against what the guess would cost you.
-fortuneLow2: A slow answer is almost always a phone in another room. Reading it that plainly means trusting what you can't see — uneasy for a bean like you, and right far more often than not.
-fortuneLeast: The worry hasn't earned the long night you were about to hand it. Sleep, the crisis unattended; it'll feel like leaving a door unlocked, and nothing came through it.
-fortuneLeast2: Sleep straight through the dread others would sit up turning. You wake into a day that has already forgotten it ever asked — though the trust costs you a hard hour first.
+fortuneMost: Going over it once more is only the doubt building itself a kitchen to cook in.
+fortuneMost2: The quiet after you spoke is not a verdict being written up about you.
+fortuneHigh: That half-second face you caught was a yawn, not a judgment.
+fortuneHigh2: It came out as warm as you meant it.
+fortuneMid: The slight you're braced for hasn't happened, and the apology no one's owed only carves the wound it apologises for.
+fortuneMid2: A thing left undecided on the counter has a way of deciding itself by morning.
+fortuneLow: Ask the dumb clarifying question now and spare yourself the wrong guess that surfaces later with an audience.
+fortuneLow2: A slow answer is almost always a phone in another room.
+fortuneLeast: The worry hasn't earned the long night you were about to hand it.
+fortuneLeast2: Sleep straight through the dread others would sit up turning.
 facetMostTitle: Lime on the Second Pass
 facetMost: Already you're combing the toast you just gave for the word that fell wrong — the laugh came a half-beat late, and a half-beat is all the proof your doubt needs.
 facetHighTitle: The Tadka's Splutter

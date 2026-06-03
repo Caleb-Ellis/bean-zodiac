@@ -12,16 +12,16 @@ antiBeans: [cannellini, edamame]
 friendlyForm: smoked
 antiForm: smoked
 seasonalFortune: A season for the long simmer. The skin holds while heat works through; what does not yield to berbere and lemon will be carried whole to the bowl.
-fortuneMost: You are the spine when everyone else's opinion goes soft. The ones who won't say it themselves are quietly glad you will.
-fortuneMost2: Name the thing nobody wants named and stay where you set it down. The flinch is the data; the silence after is your answer.
+fortuneMost: You are the spine when everyone else's opinion goes soft.
+fortuneMost2: Name the thing nobody wants named and stay where you set it down.
 fortuneHigh: Right is right, whoever it came from. Correct the recipe handed down three generations on the strength of one honest taste.
-fortuneHigh2: A small principle defended pays off larger than the few dollars it cost. The keep was never about the money.
-fortuneMid: The sentence that makes one person uncomfortable is doing its job. Refuse the gentler wording.
-fortuneMid2: Your tongue knows what the broth lacks even when you're told it's fine. Add it; trust the palate over the crowd.
-fortuneLow: Read the objection twice before you answer. You may be braced against an attack no one's still making — and the bracing tires you.
-fortuneLow2: Hold your plans in pencil. When the ground genuinely shifts, shifting with it isn't weakness, though your heels will want to dig.
-fortuneLeast: Conviction that only lasts while there's applause was never conviction. Loosening a stance once the room empties is a quieter kind of strong — and a harder one.
-fortuneLeast2: Slip into a conversation already underway without planting a flag in it. Letting it carry you costs you the floor, but not every room is yours to hold.
+fortuneHigh2: A small principle defended pays off larger than the few dollars it cost.
+fortuneMid: The sentence that makes one person uncomfortable is doing its job.
+fortuneMid2: Your tongue knows what the broth lacks even when you're told it's fine.
+fortuneLow: Read the objection twice before you answer.
+fortuneLow2: Hold your plans in pencil.
+fortuneLeast: Conviction that only lasts while there's applause was never conviction.
+fortuneLeast2: Slip into a conversation already underway without planting a flag in it.
 facetMostTitle: Berbere at the Bite
 facetMost: Long after play's resumed, you're still on your feet over it — the referee blew a call that robbed your side and the whole bench just shrugged.
 facetHighTitle: Lemon's Clean Cut

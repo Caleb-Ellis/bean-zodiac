@@ -12,15 +12,15 @@ antiBeans: [chickpea, pinto]
 friendlyForm: boiled
 antiForm: fried
 seasonalFortune: A season for the hock set in cold water at dawn and the lemon cut at dusk. Smoke draws a single line through the day. What was started will be finished.
-fortuneMost: The date stands. The small-hours version of you trying to renegotiate doesn't get a vote.
-fortuneMost2: A thing named for a day arrives on that day. No renegotiating, not even with yourself — smoke drawing one line straight through.
-fortuneHigh: It gets done on the day you said, whatever turned up after. The point of a promise is that it doesn't bend to the mood.
-fortuneHigh2: People rest near you because you do it when you said you would, and the new noise barely enters. That steadiness is the surest luck you carry.
-fortuneMid: The usual street, but look up once. A single real glance is the whole budget — spend it before you decide nothing's changed.
-fortuneMid2: Walk the route you planned, and if a lit window pulls you, follow it the once. Ending up somewhere unplanned won't unmake who you are.
-fortuneLow: The conditions changed and the old plan kept running. Read the amendment at the next corner, before you arrive wet to a meeting that's already moved on.
-fortuneLow2: The weather's turning, and a better route opens mid-stride. Bending will feel like losing the thread; it's only the day handing you a shortcut.
-fortuneLeast: They stopped flagging changes, because flagging never moved you. Ask what you've steamed past — once, sincerely, the line set down.
+fortuneMost: The date stands.
+fortuneMost2: A thing named for a day arrives on that day.
+fortuneHigh: It gets done on the day you said, whatever turned up after.
+fortuneHigh2: People rest near you because you do it when you said you would.
+fortuneMid: The usual street, but look up once.
+fortuneMid2: Walk the route you planned, and if a lit window pulls you, follow it the once.
+fortuneLow: The conditions changed and the old plan kept running.
+fortuneLow2: The weather's turning, and a better route opens mid-stride.
+fortuneLeast: They stopped flagging changes, because flagging never moved you.
 fortuneLeast2: A better plan appears, and the good day belongs to whoever takes it.
 facetMostTitle: Smoke Past the Lemon
 facetMost: The fence was promised for this weekend, and the weekend shows up with a far better offer attached. The fence gets painted; the offer doesn't get a hearing.

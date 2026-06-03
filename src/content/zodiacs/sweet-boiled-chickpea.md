@@ -12,16 +12,16 @@ antiBeans: [edamame, black]
 friendlyForm: roasted
 antiForm: smoked
 seasonalFortune: A long simmer over low heat; ghee loosens what was hard, sugar gilds what was plain. The year asks for softening, and softening is given freely, often before the asking.
-fortuneMost: You take whatever shape the night needs and call it ease — and the night is smoother for it. Let that gladness be a real gift, freely given.
-fortuneMost2: The easy yes at the end of the long thread is you, and you mean it every time. Lean in; not every plan needs your veto.
-fortuneHigh: You're agreeing before the table even asks, and the warmth in it is real. Go along glad, but keep your own taste somewhere in the dish.
+fortuneMost: You take whatever shape the night needs and call it ease — and the night is smoother for it.
+fortuneMost2: The easy yes at the end of the long thread is you, and you mean it every time.
+fortuneHigh: You're agreeing before the table even asks, and the warmth in it is real.
 fortuneHigh2: A door opens because you didn't dig in your heels, and good things tend to walk through the doors you hold.
-fortuneMid: Try the small no with no sugar on it. The person hearing it is fine, was always fine, and half expected it anyway.
-fortuneMid2: Say where you'd actually rather go before you smooth it over. Flexible is lovely; invisible isn't.
-fortuneLow: The shape you've folded yourself into has stopped fitting. Order the thing you want; let the table rearrange around it. Taking up room isn't taking too much.
-fortuneLow2: Sweetness won't loosen a wrong charge or a bad deal. Keep your tone level and the figure exact until it's put right, however much you'd rather just let it slide.
-fortuneLeast: A preference is a muscle, and yours has been resting. Start small — the mug, the seat, the drink. Pick the one you want, fuss or no fuss.
-fortuneLeast2: Some things shouldn't slide over to make room for the comfortable answer. Hold your ground and let it stay yours, even when holding it costs you the easy peace.
+fortuneMid: Try the small no with no sugar on it.
+fortuneMid2: Say where you'd actually rather go before you smooth it over.
+fortuneLow: The shape you've folded yourself into has stopped fitting.
+fortuneLow2: Sweetness won't loosen a wrong charge or a bad deal.
+fortuneLeast: A preference is a muscle, and yours has been resting.
+fortuneLeast2: Some things shouldn't slide over to make room for the comfortable answer.
 facetMostTitle: Split Open, Stirred in
 facetMost: The group's splitting on which trail to take and tempers are fraying. You're the one who shrugs warmly and says either's grand, let's just walk — and means it.
 facetHighTitle: Ghee on Every Grain

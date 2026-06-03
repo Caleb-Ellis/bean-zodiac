@@ -12,16 +12,16 @@ antiBeans: [edamame, navy]
 friendlyForm: smoked
 antiForm: fried
 seasonalFortune: A jar left sealed still works in the dark. The season grooves itself into small returns; brine deepens by repetition, and what gets stirred most often sets the tongue.
-fortuneMost: You've named the loop, scheduled around it, and still walk the same lap at the same hour. It's the thing you tend most reliably, for better and worse.
-fortuneMost2: Your hand drifts back before the thought even finishes. The loop is oddly tender, and it's eating more of the day than you've let yourself count.
-fortuneHigh: There's half a second between the urge and the hand. Catch it just once and do one other thing — that gap is the whole win, small as it looks.
-fortuneHigh2: The fourth check tells you nothing the first three didn't. Putting the pull out of reach for a stretch isn't deprivation; it lands as relief once the ache passes.
-fortuneMid: Under the loud craving sits a smaller hunger you keep stepping past. Feed that one and the loop loosens on its own.
-fortuneMid2: The urge arrives on schedule, and you can meet it in the moment instead of on reflex. The pause is yours to spend however you like.
-fortuneLow: An old loop has gone quiet by itself. Don't poke it to check it's still there, hard as the missing-limb feeling makes that.
-fortuneLow2: Sometimes the want passes before you remember to feed it. Enjoy the drift instead of distrusting it.
-fortuneLeast: A craving arrives, gets answered or not, and leaves no groove behind. You don't owe every pull a lap — the looseness is unfamiliar, and it's the lighter way to carry a day.
-fortuneLeast2: Someone near you is running the same lap in plain view, hoping you'll name it gently. Say it — you of all people know the relief, and the saying costs only a little nerve.
+fortuneMost: You've named the loop, scheduled around it, and still walk the same lap at the same hour.
+fortuneMost2: Your hand drifts back before the thought even finishes.
+fortuneHigh: There's half a second between the urge and the hand.
+fortuneHigh2: The fourth check tells you nothing the first three didn't.
+fortuneMid: Under the loud craving sits a smaller hunger you keep stepping past.
+fortuneMid2: The urge arrives on schedule, and you can meet it in the moment instead of on reflex.
+fortuneLow: An old loop has gone quiet by itself.
+fortuneLow2: Sometimes the want passes before you remember to feed it.
+fortuneLeast: A craving arrives, gets answered or not, and leaves no groove behind.
+fortuneLeast2: Someone near you is running the same lap in plain view, hoping you'll name it gently.
 facetMostTitle: The Chili Between Molars
 facetMost: You locked the front door and you know you locked it. Walk back and try the handle a third time, just to make sure.
 facetHighTitle: Fish Sauce Before the Lid

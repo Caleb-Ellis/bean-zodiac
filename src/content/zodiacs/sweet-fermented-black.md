@@ -17,11 +17,11 @@ fortuneMost2: Sit with the question through the long quiet. Something is ferment
 fortuneHigh: Send the wandering voice note, all its detours intact. The meander was never the flaw.
 fortuneHigh2: Two beats of dark after someone finishes, and your answer comes out the better for gathering there.
 fortuneMid: The half of the thought you'd usually trim is the half they came for. Hand it over rough.
-fortuneMid2: Say it while it's still warm, before the polishing. They'd rather catch the heat than the shine.
+fortuneMid2: Say it while it's still warm, before the polishing.
 fortuneLow: You've turned it long enough. Flip a coin and watch which face leaves you disappointed — there's your answer.
-fortuneLow2: Follow the visitor wherever they lead, mid-thought and all. The stone keeps in your pocket; the day out the door does not, though leaving it half-weighed will itch.
-fortuneLeast: Order the thing you always almost order. Choosing is quicker than one more round of considering, and the worst it does is teach you.
-fortuneLeast2: Some things are better caught than weighed. Buy the ticket on the platform, even if your hand wants the notebook first.
+fortuneLow2: Follow the visitor wherever they lead, mid-thought and all.
+fortuneLeast: Order the thing you always almost order.
+fortuneLeast2: Some things are better caught than weighed. Buy the ticket on the platform.
 facetMostTitle: The Tart Left Overnight
 facetMost: A door appears in your kitchen wall, dark inside, no handle. You'd stand there a long while working out what it wants before you ever reached to push.
 facetHighTitle: Salt in the Slow Dark

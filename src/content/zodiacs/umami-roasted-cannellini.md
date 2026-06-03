@@ -12,16 +12,16 @@ antiBeans: [fava, green]
 friendlyForm: fried
 antiForm: fermented
 seasonalFortune: Garlic softens in a slow oven; the season unlatches by degrees, and what was kept warm finds its right ear before the heat is gone.
-fortuneMost: Tell the one who's earned it the thing you've kept warm. Some part of them has been waiting their whole acquaintance with you to be told.
-fortuneMost2: The right ear is arriving. Give it the held thing whole and warm — this is the season it was kept for.
-fortuneHigh: Trust one person with what you usually save. Offered with care it reads as closeness, not weight; the only trick is choosing them well.
-fortuneHigh2: Garlic in a slow oven gives everything up by degrees. So can you — not all at once, but to the one you've decided is safe.
-fortuneMid: You've told it once or twice; now finish the round. A half-shared thing grows a shape of its own, off in the dark where you can't watch it.
-fortuneMid2: Hand the unfinished thing to the one who'll see what it could become. Perfect can wait; the seeing can't.
-fortuneLow: A closed door isn't a secret, just a room. You owe no walk-through to people who never asked — though staying shut will feel, to you, like withholding.
-fortuneLow2: Some of what you carry is meant to stay yours, set down nowhere. Keeping it close costs you the relief of saying it. Fair price.
-fortuneLeast: Sometimes the right ear truly hasn't come, and that's no failing. But an owed apology can age past use; don't let the waiting do your hiding for you.
-fortuneLeast2: Watch that the shelf doesn't quietly become the hiding place. Unsaid is easier than it should be.
+fortuneMost: Tell the one who's earned it the thing you've kept warm.
+fortuneMost2: The right ear is arriving.
+fortuneHigh: Trust one person with what you usually save.
+fortuneHigh2: Garlic in a slow oven gives everything up by degrees.
+fortuneMid: You've told it once or twice; now finish the round.
+fortuneMid2: Hand the unfinished thing to the one who'll see what it could become.
+fortuneLow: A closed door isn't a secret, just a room.
+fortuneLow2: Some of what you carry is meant to stay yours, set down nowhere.
+fortuneLeast: Sometimes the right ear truly hasn't come, and that's no failing.
+fortuneLeast2: Watch that the shelf doesn't quietly become the hiding place.
 facetMostTitle: Parmesan at the Rim
 facetMost: Walking a friend to their car after a long night, you find yourself telling them the fear you've never said aloud, the words coming easier in the dark and the cold.
 facetHighTitle: Sage in the Heat

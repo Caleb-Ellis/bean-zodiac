@@ -12,16 +12,16 @@ antiBeans: [butter, mung]
 friendlyForm: fermented
 antiForm: dried
 seasonalFortune: Slow smoke threads the pot until the green turns half-amber. The hours pass at the pace of a rendering hock, sweetness gathering by degrees.
-fortuneMost: You'll be a different person at every table and true at all of them. The green goes half-amber in the slow smoke; you meet each room in the colour it needs.
-fortuneMost2: Two friends will compare notes on you and half-doubt they mean the same person. They do, and that doubling is the gift, not the flaw.
-fortuneHigh: You read what a room wants and hand it over before you've thought about it. Lead with the angle each person actually cares for.
-fortuneHigh2: Take the unfamiliar road to the familiar place. You're the kind who arrives in different weather than they set out in.
-fortuneMid: Move seats halfway through the meal. The better half of the talk is waiting on the other side of the table.
+fortuneMost: You'll be a different person at every table and true at all of them.
+fortuneMost2: Two friends will compare notes on you and half-doubt they mean the same person.
+fortuneHigh: You read what a room wants and hand it over before you've thought about it.
+fortuneHigh2: Take the unfamiliar road to the familiar place.
+fortuneMid: Move seats halfway through the meal.
 fortuneMid2: One story, two friends, the emphasis tuned to each — the way one hock flavours two different spoonfuls.
-fortuneLow: Order what you always order. The sameness steadies you, and going dull for a while will feel like going dim — sit in it anyway.
-fortuneLow2: Same mug, same chair, same way home. The repetition is a quiet kindness you rarely pour for yourself, even if holding one shape feels like holding your breath.
-fortuneLeast: Give one true answer to "how are you" and let it set. Being only one of yourself will feel strangely exposed, and it's still the rest you need.
-fortuneLeast2: Let a stranger guess you right on the first pass. There's relief in being the same to everyone, once you stop missing the shimmer.
+fortuneLow: Order what you always order.
+fortuneLow2: Same mug, same chair, same way home.
+fortuneLeast: Give one true answer to "how are you" and let it set.
+fortuneLeast2: Let a stranger guess you right on the first pass.
 facetMostTitle: A Hock, a Different Spoonful
 facetMost: A mirror in a strange hallway shows you a slightly different face for each angle you turn. None of them feels wrong; you'd happily wear any.
 facetHighTitle: Brown Sugar by the Minute

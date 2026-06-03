@@ -12,16 +12,16 @@ antiBeans: [pinto, chickpea]
 friendlyForm: roasted
 antiForm: smoked
 seasonalFortune: A long pot kept low, kale folded in late. The kitchen runs at the pace of the slowest ingredient, and what stays in the broth all afternoon is what feeds anyone by evening.
-fortuneMost: Call the friend no one else is calling, and don't ask if they're okay — ask what they ate. The hour it costs is not an hour you count.
-fortuneMost2: An old friend is about to resurface wanting a real afternoon of you, and you'll clear it without asking why. When you choose someone, you stay.
-fortuneHigh: Show up for the unglamorous hour nobody else remembers is owed. Someone is about to learn that being kept by you is one of the surer things they have.
-fortuneHigh2: You know the loss no one else still mentions. Say the name aloud; they've been waiting years for someone to.
-fortuneMid: Keep the standing plan even if they cancel, and set the table anyway. The arrangement is yours; the kale goes in regardless of who shows.
-fortuneMid2: Ask what's going on before you clear your whole week. Staying is a choice, not a reflex — you're allowed to make it on purpose.
-fortuneLow: Let the quiet thread stay quiet. The debt is real but the haunting is optional; the ones who matter find you by other doors.
-fortuneLow2: Holding the door open doesn't mean carrying everyone through it. Offer something smaller than what was asked, and let that be enough.
-fortuneLeast: Leave the job, the town, the standing order without looking back. A grip held past the end is just furniture you forgot to move.
-fortuneLeast2: Wish them well and step out of it. Let the two boats drift to opposite banks; not every pot is yours to keep on the flame.
+fortuneMost: Call the friend no one else is calling, and don't ask if they're okay — ask what they ate.
+fortuneMost2: An old friend is about to resurface wanting a real afternoon of you, and you'll clear it without asking why.
+fortuneHigh: Show up for the unglamorous hour nobody else remembers is owed.
+fortuneHigh2: You know the loss no one else still mentions.
+fortuneMid: Keep the standing plan even if they cancel, and set the table anyway.
+fortuneMid2: Ask what's going on before you clear your whole week.
+fortuneLow: Let the quiet thread stay quiet.
+fortuneLow2: Holding the door open doesn't mean carrying everyone through it.
+fortuneLeast: Leave the job, the town, the standing order without looking back.
+fortuneLeast2: Wish them well and step out of it.
 facetMostTitle: Kale Stripped Leaf by Leaf
 facetMost: One bad fumble and the whole stand turns on your teammate, booing them off. Across the pitch you go to stand at their shoulder, in full view, while the jeering's still raining down.
 facetHighTitle: The Sunday Pot, Kept

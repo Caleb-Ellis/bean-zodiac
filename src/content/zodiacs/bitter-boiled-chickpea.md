@@ -12,16 +12,16 @@ antiBeans: [edamame, navy]
 friendlyForm: fermented
 antiForm: dried
 seasonalFortune: A lemon halved many ways still bleeds the same brightness into the pot. The broth lengthens to suit whichever herb arrives; the bean accepts each season's bitterness in turn.
-fortuneMost: Somewhere unfamiliar is about to open up, and you'll have its rhythm before the others find the door. A bean that suits any broth is welcome at every pot.
-fortuneMost2: A problem outside your field is no obstacle; you'll be fluent in it before the bean is soft. Good company at a sickbed, a kitchen, a roadside alike.
-fortuneHigh: The script you rehearsed is for someone who isn't here. Read the person who is — you'll be at ease by the second handshake.
-fortuneHigh2: When the plan falls apart mid-stride, rebuild it as you go. What you already have is enough.
-fortuneMid: Adjust quietly for whoever's coming — halve the recipe, lend the coat, no announcement. The best of it nobody ever sees.
-fortuneMid2: A small fix doesn't have to be total to count. Swap two pieces, call it good, make the turn without comment.
-fortuneLow: Hold one route, one order, one method for a stretch. Versatility without a spine is just weather, and the weather wears you out.
-fortuneLow2: A fork in the road is coming, and you can't take both branches. Adapting to everything is easy; choosing the one is the part you keep deferring.
-fortuneLeast: One pot, one heat, one thing you do well. Wave off the chair-swap and the borrowed method; honour the single thing this turn.
-fortuneLeast2: Do it the way you planned and let the occasion sort itself out. One lemon, halved one way — let the world bend to you for a change.
+fortuneMost: Somewhere unfamiliar is about to open up, and you'll have its rhythm before the others find the door.
+fortuneMost2: A problem outside your field is no obstacle; you'll be fluent in it before the bean is soft.
+fortuneHigh: The script you rehearsed is for someone who isn't here.
+fortuneHigh2: When the plan falls apart mid-stride, rebuild it as you go.
+fortuneMid: Adjust quietly for whoever's coming — halve the recipe, lend the coat, no announcement.
+fortuneMid2: A small fix doesn't have to be total to count.
+fortuneLow: Hold one route, one order, one method for a stretch.
+fortuneLow2: A fork in the road is coming, and you can't take both branches.
+fortuneLeast: One pot, one heat, one thing you do well.
+fortuneLeast2: Do it the way you planned and let the occasion sort itself out.
 facetMostTitle: The Bean That Answers Each
 facetMost: No drummer, no warning, and the sticks land in your hands instead. You've never played — onto the stool anyway, finding the beat where it falls.
 facetHighTitle: The Herb at the Doorway

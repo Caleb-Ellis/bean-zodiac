@@ -12,16 +12,16 @@ antiBeans: [fava, kidney]
 friendlyForm: boiled
 antiForm: fried
 seasonalFortune: Anchovy salt dissolves into slow fat; rosemary gives up its oil only after hours. A season for things that arrive by accumulation, not announcement.
-fortuneMost: Let them finish, even the unhelpful long way round. The truest part comes in the last few words, after the pause most people rush past.
-fortuneMost2: A stranger is going to tell you something they've never told anyone, and won't quite know why. That openness in you is the rarest thing you own.
-fortuneHigh: The small thing someone mentions is the smallest version of a bigger one. Ask the second question; the first answer was only the placeholder.
-fortuneHigh2: Rosemary gives up its oil only after hours. So does what someone really means — stay near long enough and it surfaces.
-fortuneMid: Give the thing you're mulling to your hands. Out on a walk, mid-chore, the answer arrives while you've stopped reaching for it.
-fortuneMid2: You feel a mood turn before anyone says so. Trust the read, but let them be the one to name it.
-fortuneLow: Sometimes they came for an answer, not a witness. Hand over what you actually think, even half-formed — the offering will feel less safe than listening did.
-fortuneLow2: When someone asks what you want, the question wants to bounce straight back to them. Hold it. Saying your own take plainly is a small exposure you can afford.
-fortuneLeast: Say the rough version of the thing you keep polishing. Held in too long it goes flat, and letting it out unfinished will sting a little.
-fortuneLeast2: Call it done before it's perfect. Close enough is a full stop — even if stopping feels like quitting early.
+fortuneMost: Let them finish, even the unhelpful long way round.
+fortuneMost2: A stranger is going to tell you something they've never told anyone, and won't quite know why.
+fortuneHigh: The small thing someone mentions is the smallest version of a bigger one.
+fortuneHigh2: Rosemary gives up its oil only after hours.
+fortuneMid: Give the thing you're mulling to your hands.
+fortuneMid2: You feel a mood turn before anyone says so.
+fortuneLow: Sometimes they came for an answer, not a witness.
+fortuneLow2: When someone asks what you want, the question wants to bounce straight back to them.
+fortuneLeast: Say the rough version of the thing you keep polishing.
+fortuneLeast2: Call it done before it's perfect.
 facetMostTitle: Before the Smell Shifts
 facetMost: Stranded an hour at a rural bus stop with one other traveller, you say almost nothing — and somehow they end up telling you the thing they've never told anyone.
 facetHighTitle: The Needle Laid Down

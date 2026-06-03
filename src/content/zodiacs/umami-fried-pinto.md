@@ -12,16 +12,16 @@ antiBeans: [navy, black]
 friendlyForm: fermented
 antiForm: boiled
 seasonalFortune: Lard renders twice before it sets. A pinto's word burns bright at first heating and steadies, if at all, on the second pass through the fat.
-fortuneMost: Lard renders bright and hot, and your yes comes out the same way, meaning every word while it leaves. Hand people that warmth — just know future-you is a different bean than the one promising.
-fortuneMost2: Weekends, trips, favors, all pledged the instant they're floated. The buoyancy you give away is real even when the plan cools by week's end, and the friend goes home lighter.
+fortuneMost: Lard renders bright and hot, and your yes comes out the same way, meaning every word while it leaves.
+fortuneMost2: Weekends, trips, favors, all pledged the instant they're floated. The buoyancy you give away is real even when the plan cools by week's end.
 fortuneHigh: A yes with both hands, then morning arrives in a body that remembered something else. Flag the wobble while the yes is still warm.
-fortuneHigh2: You'll name an hour and turn up when the day finally lets you go. The ones who love you stopped expecting punctuality long ago.
+fortuneHigh2: You'll name an hour and turn up when the day finally lets you go.
 fortuneMid: Hold the yes one breath before it escapes. That breath is where the wanting-to meets what the week can actually carry.
-fortuneMid2: Say "probably," and check the week tomorrow. The smaller promise is the one that survives the second pass through the fat.
-fortuneLow: Write it down before you leave. The you who wakes to the obligation won't remember the you who took it on, and pinning it down works anyway.
-fortuneLow2: Clear what you owe the week it lands, so nothing drifts into next month. Paying fast goes against your whole grain; do it, and watch your word stop cooling.
-fortuneLeast: Promise the dinner and have the pot on by six. When you decide an hour will hold, it holds, and people feel the difference.
-fortuneLeast2: Decline now, so they can ask someone who'll show. The honest no is its own kind of reliability — harder for you to hand over than a hot yes.
+fortuneMid2: Say "probably," and check the week tomorrow.
+fortuneLow: Write it down before you leave.
+fortuneLow2: Clear what you owe the week it lands, so nothing drifts into next month.
+fortuneLeast: Promise the dinner and have the pot on by six.
+fortuneLeast2: Decline now, so they can ask someone who'll show.
 facetMostTitle: Chorizo Spitting
 facetMost: Someone floats a band, a hike, a half-baked scheme, and the yes leaps out of you whole and glowing before you've checked a single thing it would cost.
 facetHighTitle: Lard at the Rim

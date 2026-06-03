@@ -12,16 +12,16 @@ antiBeans: [kidney, pinto]
 friendlyForm: boiled
 antiForm: fried
 seasonalFortune: A season cured to its bones. The cupboard keeps sage and salt; the radicchio refuses to sweeten, and the broth that lasts is the broth without garnish.
-fortuneMost: Set the hard news down flat, no garnish. The cushion was always for you, not them.
-fortuneMost2: A clear-eyed day is coming — the kind that hands you the bitter leaf plain and lets you taste exactly what it is. You'll be glad of the plainness.
-fortuneHigh: Strip the softener off the sentence. "I think maybe" is two words of fear wearing a coat.
-fortuneHigh2: When the broth boils over, you're the steady hand, because you won't pretend the burn is smaller than it is. Stay flat.
-fortuneMid: Next time someone asks how you really are, give the true sentence. No one breaks under salt without sugar.
-fortuneMid2: You name the number, close the question, keep nothing on the shelf for the look of it. That clarity feeds people.
-fortuneLow: Fold a spoon of butter into the hard truth before you hand it over. It thins what you meant, but the right person can take it either way.
-fortuneLow2: The kind word is true and sitting right there in the pan. Plate it — even if softness still feels like a garnish for idler cooks.
-fortuneLeast: Stir the butter back in. A bare broth is a posture, not a virtue — though serving it rich will feel like cheating.
-fortuneLeast2: Good sage, the second jar, the bottle that turns a plain night into one worth lingering over — buy all three. Richness is coming whether or not it makes you uneasy.
+fortuneMost: Set the hard news down flat, no garnish.
+fortuneMost2: A clear-eyed day is coming — the kind that hands you the bitter leaf plain and lets you taste exactly what it is.
+fortuneHigh: Strip the softener off the sentence.
+fortuneHigh2: When the broth boils over, you're the steady hand, because you won't pretend the burn is smaller than it is.
+fortuneMid: Next time someone asks how you really are, give the true sentence.
+fortuneMid2: You name the number, close the question, keep nothing on the shelf for the look of it.
+fortuneLow: Fold a spoon of butter into the hard truth before you hand it over.
+fortuneLow2: The kind word is true and sitting right there in the pan.
+fortuneLeast: Stir the butter back in.
+fortuneLeast2: Good sage, the second jar, the bottle that turns a plain night into one worth lingering over — buy all three.
 facetMostTitle: Salt, No Sage
 facetMost: The haircut is wrong and the barber's mirror is right there. Asked if you like it, you say no, you don't.
 facetHighTitle: The Jar and the Pan

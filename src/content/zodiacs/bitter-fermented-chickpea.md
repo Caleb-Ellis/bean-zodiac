@@ -12,16 +12,16 @@ antiBeans: [navy, black]
 friendlyForm: roasted
 antiForm: dried
 seasonalFortune: A season for slow exchange across the brine. Labneh thickens against the cloth; pomegranate seeds wait for a bowl to fall into. Each ingredient sharpens beside what it is not.
-fortuneMost: Hand the half-done thing to one particular person before you tidy it. What they add is the reason you gave it to them.
+fortuneMost: Hand the half-done thing to one particular person before you tidy it.
 fortuneMost2: The work you carry to another cook's table comes back with their salt in it — and that's the version you actually wanted.
-fortuneHigh: Bring someone in earlier than feels comfortable. You'll cringe; they'll mend in a breath what you'd have lost days to alone.
-fortuneHigh2: Two questions left side by side, the way labneh and pomegranate sharpen against each other in one bowl. Neither of you reaches alone what the pair will.
+fortuneHigh: Bring someone in earlier than feels comfortable.
+fortuneHigh2: Two questions left side by side, the way labneh and pomegranate sharpen against each other in one bowl.
 fortuneMid: The person you keep meaning to ask already has the answer ready — shorter than all the waiting has been.
-fortuneMid2: In a kitchen not your own, ask where the colander lives before you go reaching. The small question spares the larger fumble.
-fortuneLow: This one's yours to finish alone, behind a shut door. The quiet will feel wrong — bring the thing back whole anyway.
-fortuneLow2: Some answers only surface in a silence with no one to pass the spoon to. The long solo job costs you the company, but it gives a different thing back.
-fortuneLeast: The committee in your head isn't quorate and the chair won't stop talking. This one's yours to call alone, lonely as that lands.
-fortuneLeast2: Set each thing in its own place and trust your own arrangement. Not everything has to go to a vote — though deciding in silence will feel stark at first.
+fortuneMid2: In a kitchen not your own, ask where the colander lives before you go reaching.
+fortuneLow: This one's yours to finish alone, behind a shut door.
+fortuneLow2: Some answers only surface in a silence with no one to pass the spoon to.
+fortuneLeast: The committee in your head isn't quorate and the chair won't stop talking.
+fortuneLeast2: Set each thing in its own place and trust your own arrangement.
 facetMostTitle: Over Another Cook's Pan
 facetMost: A puzzle's spread across the table and you've got a tricky corner half-solved. Rather than crack it alone, you wave someone over to put their hands in too.
 facetHighTitle: The Thread Past Midnight

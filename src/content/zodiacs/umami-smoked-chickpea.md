@@ -14,14 +14,14 @@ antiForm: boiled
 seasonalFortune: A season cured low and slow. Salt cod gives up its brine to the chickpea; paprika settles into corners; what passes between people this quarter travels by smoke, not by sentence.
 fortuneMost: An inch of the glass pushed closer says more than most manage in a speech.
 fortuneMost2: What passes between you and someone will travel by smoke, not by word, and it will arrive whole.
-fortuneHigh: You catch the weather of a room shifting an hour before anyone names the sky. The early feeling is true; move on it.
-fortuneHigh2: A weight lifts off someone before they ask, quietly, the way you do it. Watch for the moment it lands and they exhale.
+fortuneHigh: You catch the weather of a room shifting an hour before anyone names the sky.
+fortuneHigh2: A weight lifts off someone before they ask, quietly, the way you do it.
 fortuneMid: Asked how you are, set down a plate instead of an answer — warmer, and harder to argue with.
-fortuneMid2: Some things still want a word or two. Offer the one small sentence and let the rest stay cured in silence.
-fortuneLow: Not every silence carries; this one would read as you simply not being there. Say it plainly, even though plain feels coarse in your mouth.
-fortuneLow2: The look across the table won't reach them this time — the words will. Tell them what you'd do in their place, though spelling it out costs you the grace of the glance.
-fortuneLeast: Three clear lines, no garnish, like a clean receipt. Left unsaid, your meaning gets shelved cold, and the bluntness will feel like too much paprika.
-fortuneLeast2: Lay the options out and name them aloud. A glance was never going to settle this, much as you'd wish it could.
+fortuneMid2: Some things still want a word or two.
+fortuneLow: Not every silence carries; this one would read as you simply not being there.
+fortuneLow2: The look across the table won't reach them this time — the words will.
+fortuneLeast: Three clear lines, no garnish, like a clean receipt.
+fortuneLeast2: Lay the options out and name them aloud.
 facetMostTitle: Smoke Before the Cook
 facetMost: Outside the party a friend is crying on the kerb. You sit down beside them, shoulder to shoulder, and don't reach for a word.
 facetHighTitle: Paprika Past the Washing

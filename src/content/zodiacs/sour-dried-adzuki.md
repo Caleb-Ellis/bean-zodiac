@@ -12,16 +12,16 @@ antiBeans: [mung, kidney]
 friendlyForm: boiled
 antiForm: roasted
 seasonalFortune: The ume sits years in its own brine before it earns the rice. A life that cures rather than cooks; nothing kept that hasn't first been sharpened.
-fortuneMost: Hand the sharp thing over unsanded. The ones who flinch first are the ones who trust you most.
-fortuneMost2: A jar of ume cures years for a single sour bite. Yours is ready, and the room is humming a false note.
-fortuneHigh: An apology rounded up to look generous spoils like fruit left too sweet. Owe what you owe, not a coin more.
+fortuneMost: Hand the sharp thing over unsanded.
+fortuneMost2: A jar of ume cures years for a single sour bite. Yours is ready.
+fortuneHigh: An apology rounded up to look generous spoils like fruit left too sweet.
 fortuneHigh2: Someone near you is owed the kept version, not the kind one.
-fortuneMid: Something on the page has been quietly wrong a long while. One honest stroke and the whole thing finally reads true.
-fortuneMid2: This small inaccuracy isn't yours to brine. Set it straight or walk past — both leave the day clean.
-fortuneLow: A friend's story has grown sweeter than it was. Pass the sesame, not the correction, and let them keep the telling — even if the true figure prickles at you.
-fortuneLow2: Soften the brine. It costs you the clean line, but you'll keep the warmer table, which is the harder thing to cure.
-fortuneLeast: Good news is coming dressed a little too kind. The kindness underneath is real — take it whole, and don't go hunting for the exact figure.
-fortuneLeast2: Out on a grey road the weather turns gentle for no reason you can audit. Some days arrive generous; let this one in without checking its math.
+fortuneMid: Something on the page has been quietly wrong a long while.
+fortuneMid2: This small inaccuracy isn't yours to brine. Set it straight or walk past.
+fortuneLow: A friend's story has grown sweeter than it was. Pass the sesame, not the correction.
+fortuneLow2: Soften the brine. It costs you the clean line, but you'll keep the warmer table.
+fortuneLeast: Good news is coming dressed a little too kind. The kindness underneath is real.
+fortuneLeast2: Out on a grey road the weather turns gentle for no reason you can audit.
 facetMostTitle: One Ume in the Jar
 facetMost: The tour guide says the date with such confidence, and it's flat wrong. Your hand is already half up.
 facetHighTitle: The Seed That Splits Clean

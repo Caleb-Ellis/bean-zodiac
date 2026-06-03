@@ -12,16 +12,16 @@ antiBeans: [edamame, kidney]
 friendlyForm: boiled
 antiForm: fried
 seasonalFortune: A season that roasts slowly and salts deeply. Fish sauce darkens in the pan; lime leaves stiffen as they cure. Sweetness, when it arrives, arrives late and brown.
-fortuneMost: Sit with the grief on purpose, in the chair you chose. It was going to find you sideways anyway — better it keeps the appointment.
-fortuneMost2: Comb back through the old letters slowly, the way you'd walk a shoreline at low tide for what the water gave back. That looking is its own kind of keeping.
-fortuneHigh: Keep the chipped bowl. A kitchen with nothing worn in it belongs to no one.
-fortuneHigh2: The dead pen, the ticket stub, the cracked bowl — ballast against a room that forgets too easily. Keep them. Sweetness, when it comes for you, arrives late and brown.
-fortuneMid: Don't skip the song when it catches you in the doorway. A few minutes of weather is cheaper than hauling the low pressure all week.
-fortuneMid2: You feel things at a depth most people never reach. When you're here, you're wholly here — the heaviness is the price of that, not a flaw in it.
-fortuneLow: Whoever's at the door isn't carrying what an earlier visitor did. Meet the person actually there — though setting down the old weather to do it will cost you something.
-fortuneLow2: Let now stand on its own, unmeasured against any older version of anyone. The friend in front of you deserves a clean look, even if a clean look feels strangely empty.
-fortuneLeast: Buy the new pen. The dead one's been a metaphor long enough — and yes, the fresh one will feel like it remembers nothing.
-fortuneLeast2: Make the plan and let it arrive clean, nothing from before clinging to it. A day allowed to be only itself is a relief, even if its lightness reads, at first, as forgetting.
+fortuneMost: Sit with the grief on purpose, in the chair you chose.
+fortuneMost2: Comb back through the old letters slowly, the way you'd walk a shoreline at low tide for what the water gave back.
+fortuneHigh: Keep the chipped bowl.
+fortuneHigh2: The dead pen, the ticket stub, the cracked bowl — ballast against a room that forgets too easily.
+fortuneMid: Don't skip the song when it catches you in the doorway.
+fortuneMid2: You feel things at a depth most people never reach.
+fortuneLow: Whoever's at the door isn't carrying what an earlier visitor did.
+fortuneLow2: Let now stand on its own, unmeasured against any older version of anyone.
+fortuneLeast: Buy the new pen.
+fortuneLeast2: Make the plan and let it arrive clean, nothing from before clinging to it.
 facetMostTitle: Fish Sauce, Nearly Black
 facetMost: A demolition crew is taking down the building where you used to live. You go and stand across the street to watch the whole thing come down, because someone should.
 facetHighTitle: Lime Leaves From Spring

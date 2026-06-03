@@ -12,16 +12,16 @@ antiBeans: [butter, black]
 friendlyForm: roasted
 antiForm: dried
 seasonalFortune: A brine sharp with gochugaru and garlic insists on its own logic. The season tilts toward jars that cure on their own schedule, refusing the row.
-fortuneMost: Asked how you are, give the weird true answer — tell them about the garlic, not the weather. People walk away carrying a flavour they can't place, and that was the gift.
-fortuneMost2: A strange offering of yours will outlast every sensible one in the room. A year from now it's the thing they still have, still puzzling over.
-fortuneHigh: Tape the two strange things together. The pairing hands someone a small puzzle before they feel the warmth, and the day they solve it is the one they keep.
-fortuneHigh2: The sideways remark at the edge of the crowd will pull some in and send some off. Say it; keep eating either way.
-fortuneMid: The shortcut was brilliant and now nobody can follow where you went. Show the leaps you skipped, or the cleverness never reaches them.
-fortuneMid2: Not every offering has to be a riddle. A good thing with one faintly odd note is plenty.
-fortuneLow: Your instinct to swap the spices has been steering wrong lately. Follow it exactly as written; you'll miss the fun of the substitution, and the plain version comes out right, which was all anyone wanted.
-fortuneLow2: There's a quiet luck in making the same supper that always lands, no twist bolted on. The restraint will itch the whole time, and the meal gets loved anyway.
-fortuneLeast: The deadpan, dead-on-time arrival is funnier than any detour you'd have invented. Just show up plainly, punctually ordinary — odd, how exposed that feels.
-fortuneLeast2: Out on the road, take the route the map gives you. No scenic loop, no invented errand — the straight way is a kindness to whoever's been waiting at the other end, even if it fits like a borrowed coat.
+fortuneMost: Asked how you are, give the weird true answer — tell them about the garlic, not the weather.
+fortuneMost2: A strange offering of yours will outlast every sensible one in the room.
+fortuneHigh: Tape the two strange things together.
+fortuneHigh2: The sideways remark at the edge of the crowd will pull some in and send some off.
+fortuneMid: The shortcut was brilliant and now nobody can follow where you went.
+fortuneMid2: Not every offering has to be a riddle.
+fortuneLow: Your instinct to swap the spices has been steering wrong lately.
+fortuneLow2: There's a quiet luck in making the same supper that always lands, no twist bolted on.
+fortuneLeast: The deadpan, dead-on-time arrival is funnier than any detour you'd have invented.
+fortuneLeast2: Out on the road, take the route the map gives you.
 facetMostTitle: Gochugaru for Vinegar
 facetMost: They're naming the new kitten and every sweet, obvious name is already floating around the room. Not one of them will do — your mouth is already shaping something sideways no one saw coming.
 facetHighTitle: Beans Bent in the Jar

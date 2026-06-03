@@ -12,16 +12,16 @@ antiBeans: [black, cannellini]
 friendlyForm: fermented
 antiForm: boiled
 seasonalFortune: A season cured in vinegar. The shrewd nose finds the angle early; sumac stains the fingers of those who handled the deal before its name was spoken.
-fortuneMost: The face after the offer is the real answer, not the offer. That sumac sharpness finds the angle the rest of them miss.
-fortuneMost2: A gathering lays itself out for you before the second round is poured — who owes whom, who's halfway out the door. Trust the map.
-fortuneHigh: Watch the quiet one. They move second and they move right.
-fortuneHigh2: A warm gesture has a shape under it, and you see the shape plainly. Read it, then decide.
-fortuneMid: Pay the asking price on purpose. What you pick up in the loose talk over the counter beats the coins you'd have shaved off.
-fortuneMid2: You can tell within a coin who's rounding their share down. Knowing it is enough; let this one pass.
-fortuneLow: A kindness arrives with no hook in it, clean as a falafel straight from the oil. Eat it — turning it over for a catch only sours a thing that was simply good.
-fortuneLow2: Take the compliment whole. Part of you will reach for the underside; trusting there isn't one costs you the certainty you're used to, and it's the better trade.
-fortuneLeast: The plain question you think is beneath you has a plain answer you keep stepping over. Ask it straight. The simplicity will gall you — which is exactly why you've been missing it.
-fortuneLeast2: Take someone at their word and leave the puzzle unsolved. Letting it rest means trusting blind, and that blind trust is what buys the quiet.
+fortuneMost: The face after the offer is the real answer, not the offer.
+fortuneMost2: A gathering lays itself out for you before the second round is poured — who owes whom, who's halfway out the door.
+fortuneHigh: Watch the quiet one.
+fortuneHigh2: A warm gesture has a shape under it, and you see the shape plainly.
+fortuneMid: Pay the asking price on purpose.
+fortuneMid2: You can tell within a coin who's rounding their share down.
+fortuneLow: A kindness arrives with no hook in it, clean as a falafel straight from the oil.
+fortuneLow2: Take the compliment whole.
+fortuneLeast: The plain question you think is beneath you has a plain answer you keep stepping over.
+fortuneLeast2: Take someone at their word and leave the puzzle unsolved.
 facetMostTitle: Acid on Contact
 facetMost: A used-car seller is doing you a generous favour on the price. You're already reading which problem the favour is meant to hurry you past.
 facetHighTitle: The Shattered Crust

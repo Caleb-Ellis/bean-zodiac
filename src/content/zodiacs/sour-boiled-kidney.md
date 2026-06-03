@@ -13,15 +13,15 @@ friendlyForm: roasted
 antiForm: smoked
 seasonalFortune: Brine deepens through the long months; what was salted in autumn answers in spring. The crock keeps its bargain without speaking, and the cellar plans around it.
 fortuneMost: The promise that costs you the thing you wanted, kept without a word about the cost — that's the yes that meant what you meant.
-fortuneMost2: You'll arrive at the hour you named, carrying what you said you'd carry. Quietly, that is the whole of it.
-fortuneHigh: Someone is building on your yes. One word of confirmation, before they have to ask twice, spares them a chain of small scrambles.
-fortuneHigh2: The bill comes round and your hand is out before the counting's done. Good brine, long-cured.
-fortuneMid: A commitment slips. The short word now beats the long apology later, tenfold. Send it while it's still small.
-fortuneMid2: Return the borrowed thing before they think to ask. That's how the big trust gets built, one caraway-small kept promise at a time.
-fortuneLow: A promise gone stiff in the jar can be opened and renegotiated. Reopening a kept word will feel like breaking it; do it before it hardens further.
-fortuneLow2: A few plans left half-promised, a drawer or two ajar. Not every loose end is a broken one.
-fortuneLeast: A "no" with its consonants intact beats the drawn-out maybe, which is only no with worse manners. The firmness feels unkind. It's kinder than the maybe.
-fortuneLeast2: The no you should have said three commitments back is still worth saying now. Give it before you give away the whole day.
+fortuneMost2: You'll arrive at the hour you named, carrying what you said you'd carry.
+fortuneHigh: Someone is building on your yes.
+fortuneHigh2: The bill comes round and your hand is out before the counting's done.
+fortuneMid: A commitment slips.
+fortuneMid2: Return the borrowed thing before they think to ask.
+fortuneLow: A promise gone stiff in the jar can be opened and renegotiated.
+fortuneLow2: A few plans left half-promised, a drawer or two ajar.
+fortuneLeast: A "no" with its consonants intact beats the drawn-out maybe, which is only no with worse manners.
+fortuneLeast2: The no you should have said three commitments back is still worth saying now.
 facetMostTitle: Caraway Where It Settled
 facetMost: A far better invitation lands for the exact hour you already promised to someone else. The old promise wins, and nobody hears a word about what it cost you.
 facetHighTitle: Brine's Long Memory

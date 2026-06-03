@@ -12,16 +12,16 @@ antiBeans: [mung, pinto]
 friendlyForm: boiled
 antiForm: roasted
 seasonalFortune: A season pared to caster sugar. Twelve jars become three, the cake comes out cleaner, and a footstep carries further across the emptied pantry.
-fortuneMost: Twelve jars pared to three, the cake out cleaner for it. The plain thing already lands — no additions, no fixes.
+fortuneMost: Twelve jars pared to three, the cake out cleaner for it.
 fortuneMost2: A footstep carries further across an emptied pantry, and so does the single good thing you choose to keep.
-fortuneHigh: A feather on white paper says more than a heaped table ever will. Give it unwrapped, say it short.
-fortuneHigh2: What isn't worth doing, you leave undone. Withhold again — the empty space is the flavour, like zest left out that still shapes the cake.
-fortuneMid: Make the thing well, line it up just so, and then — hardest part — let it be finished. Good is allowed to be done.
-fortuneMid2: You'd refine a single line forever, given rope. Turn the one quarter-turn that matters and set it down.
-fortuneLow: Show someone the rough cut, the version you'd rather sand smooth first. They'll love the mess more than they'd ever love the finish.
-fortuneLow2: Not everything has to clear your bar to earn a place. Meet the imperfect first attempt warm before the fine-tooth read runs.
-fortuneLeast: Pour two glasses for whoever's nearest and let the evening go heaped and chaotic. The standard can sleep in the cupboard for one night.
-fortuneLeast2: The soft lemons used up, the room overfull, nothing pared. Letting it sprawl past your liking costs you a wince — trust the mess; it's feeding people.
+fortuneHigh: A feather on white paper says more than a heaped table ever will.
+fortuneHigh2: What isn't worth doing, you leave undone.
+fortuneMid: Make the thing well, line it up just so, and then — hardest part — let it be finished.
+fortuneMid2: You'd refine a single line forever, given rope.
+fortuneLow: Show someone the rough cut, the version you'd rather sand smooth first.
+fortuneLow2: Not everything has to clear your bar to earn a place.
+fortuneLeast: Pour two glasses for whoever's nearest and let the evening go heaped and chaotic.
+fortuneLeast2: The soft lemons used up, the room overfull, nothing pared.
 facetMostTitle: Caster Sugar, Never Coarser
 facetMost: One thing kept, the genie says, and the fire takes the rest — and you name it without a flicker of hesitation, watching the smoke rise off everything else.
 facetHighTitle: The Zest Withheld

@@ -13,15 +13,15 @@ friendlyForm: fermented
 antiForm: roasted
 seasonalFortune: A season for steeping. Dashi pulls slow from the bone, and the hours around this bean carry the gravity of something not to be hurried — small rites kept whole.
 fortuneMost: In your hands a weekday supper becomes an inheritance, and the table goes quiet on its own.
-fortuneMost2: The dashi takes its hours and so do you. A small joy is coming that deserves to be steeped, not swallowed.
-fortuneHigh: Use the whole name, the carved one. The nickname was never going to hold all of it.
-fortuneHigh2: Something will be handed to you that wants both hands and a held breath. You'll know it by the weight.
+fortuneMost2: The dashi takes its hours and so do you. A small joy is coming that deserves to be steeped.
+fortuneHigh: Use the whole name, the carved one.
+fortuneHigh2: Something will be handed to you that wants both hands and a held breath.
 fortuneMid: One drawer for what nothing ordinary may touch — a ribbon, a ticket stub, the proof a day was good.
 fortuneMid2: A plain stone, kept long enough, becomes a relic.
 fortuneLow: The candle and the speech can wait; some gifts arrive already carrying their own smoke.
-fortuneLow2: Mark it with one held glance instead of the full rite. It'll feel like too little, and it will be enough.
-fortuneLeast: Hand it over and keep walking — you were only the courier, though the unheard thanks sits oddly in you.
-fortuneLeast2: A good omen comes plain this time — no lamp, no toast, just luck slid across the counter for you to grab on your way past.
+fortuneLow2: Mark it with one held glance instead of the full rite.
+fortuneLeast: Hand it over and keep walking.
+fortuneLeast2: A good omen comes plain this time — no lamp, no toast, just luck slid across the counter.
 facetMostTitle: Sesame, Ground at the Table
 facetMost: First frost on the window, and you call everyone to the door — coats on, all of you out to stand in it before it's gone.
 facetHighTitle: Ginger Laid Like a Relic

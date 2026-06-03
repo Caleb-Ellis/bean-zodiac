@@ -12,16 +12,16 @@ antiBeans: [edamame, navy]
 friendlyForm: fermented
 antiForm: boiled
 seasonalFortune: Smoke drifts across the yard before the fire is found; the season tends to arrive in noses and ears before anyone agrees it has started.
-fortuneMost: You'll arrive the way smoke does — felt across the yard before anyone finds the fire. A decision rearranges itself around you, and soon they'll swear it was theirs.
-fortuneMost2: Drop your voice in the loudest room and the room will lean toward you. Nothing you said required leaning; that pull is the gift.
-fortuneHigh: Praise the quiet one, then change the subject. The kind word carries furthest when you don't steer where it lands.
-fortuneHigh2: There's a yes already drifting toward you. Ask the question that isn't quite a question and let it find its own way out.
-fortuneMid: Take the long way with the new friend. The detour is the friendship; the destination was only the excuse.
-fortuneMid2: Answer warmly, even a little late. The warmth got there before the words did.
-fortuneLow: Name the favour you actually want out loud. Charm with no ask under it is a fog the other one has to wave through, and the plainness will feel like undressing.
-fortuneLow2: Lead with the catch, not the pitch. People settle when they know exactly where they stand with you — even if standing in the open is the part you've always slipped past.
-fortuneLeast: Yes, no, the time, the place — give it straight. Vanishing sweetly is still vanishing, and the bluntness costs you the spell, so spend it anyway.
-fortuneLeast2: Send the invitation with the itinerary attached, nothing arriving by scent first. Plain arrival is a kindness to whoever plans around you, though it strips off the thing you do best.
+fortuneMost: You'll arrive the way smoke does — felt across the yard before anyone finds the fire.
+fortuneMost2: Drop your voice in the loudest room and the room will lean toward you.
+fortuneHigh: Praise the quiet one, then change the subject.
+fortuneHigh2: There's a yes already drifting toward you.
+fortuneMid: Take the long way with the new friend.
+fortuneMid2: Answer warmly, even a little late.
+fortuneLow: Name the favour you actually want out loud.
+fortuneLow2: Lead with the catch, not the pitch.
+fortuneLeast: Yes, no, the time, the place — give it straight.
+fortuneLeast2: Send the invitation with the itinerary attached, nothing arriving by scent first.
 facetMostTitle: The Lid at the Wrong Moment
 facetMost: The market seller won't drop the price for anyone. You never name a number — you ask about their grandmother, and the figure softens on its own.
 facetHighTitle: Ras El Hanout, Bloomed Slow

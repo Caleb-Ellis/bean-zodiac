@@ -12,16 +12,16 @@ antiBeans: [pinto, edamame]
 friendlyForm: roasted
 antiForm: dried
 seasonalFortune: A season for the long simmer; the pot tended for hours carries a low heat under everything its keeper does, and the rooms they pass through hold the scent.
-fortuneMost: The reply that waits until it's four words long arrives sharpened. The slow simmer did the editing for you.
+fortuneMost: The reply that waits until it's four words long arrives sharpened.
 fortuneMost2: When the one who wronged you turns up, four words at the door is all it takes — they'll read it three times and know exactly where they stand.
-fortuneHigh: Take the grievance down off the shelf and say it aloud once, to no one. Then decide whether it travels any further than the kitchen.
-fortuneHigh2: A bay leaf left in too long turns the whole pot bitter, and so does the slight you've kept folded behind the dish towels. Air it before it seasons everything.
-fortuneMid: Walk the long way home along the road. Whatever you couldn't say to their face, the pavement takes off your hands by the last block.
-fortuneMid2: Say the unkind thing in the room it belongs to, then ask about the dog. Spoken is better than folded into a drawer to ferment.
-fortuneLow: Unclench the jaw before you answer; they only asked because they could feel the heat off you across the room. Easing it costs you the satisfaction of the burn.
-fortuneLow2: The thing biting at you isn't worth carrying out the door. Leaving it on the counter feels like letting them off — set it down anyway.
-fortuneLeast: Someone's been bracing for a verdict you quietly set down long ago. Tell them you forgot. The bracing was the whole wound.
-fortuneLeast2: A grievance is drifting out the open window like smoke, and you won't be able to name which friend it belonged to. Good — it cost you nothing to let it go.
+fortuneHigh: Take the grievance down off the shelf and say it aloud once, to no one.
+fortuneHigh2: A bay leaf left in too long turns the whole pot bitter, and so does the slight you've kept folded behind the dish towels.
+fortuneMid: Walk the long way home along the road.
+fortuneMid2: Say the unkind thing in the room it belongs to, then ask about the dog.
+fortuneLow: Unclench the jaw before you answer.
+fortuneLow2: The thing biting at you isn't worth carrying out the door.
+fortuneLeast: Someone's been bracing for a verdict you quietly set down long ago.
+fortuneLeast2: A grievance is drifting out the open window like smoke, and you won't be able to name which friend it belonged to.
 facetMostTitle: Andouille Before It Speaks
 facetMost: Same red light, and there's the driver who cut you off. You hold the look — level, cold — and let the quiet carry it.
 facetHighTitle: Bay Leaf Left in Too Long

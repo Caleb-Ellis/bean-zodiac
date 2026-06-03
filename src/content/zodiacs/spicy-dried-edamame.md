@@ -12,15 +12,15 @@ antiBeans: [mung, chickpea]
 friendlyForm: boiled
 antiForm: fermented
 seasonalFortune: A season pared to what survives the drying rack. Soft months fall away as husk; the rest sits salted on the shelf, sharp under any weather it meets.
-fortuneMost: You see the misstatement before they've finished, and the dry line is already loaded. Land it — just clock who was already embarrassed first.
+fortuneMost: You see the misstatement before they've finished, and the dry line is already loaded.
 fortuneMost2: A season pared down to what survives the drying rack — soft months gone as husk, the rest salted and sharp under any weather.
-fortuneHigh: Name the right source in passing and let them catch up. The line cuts cleaner when the speaker survives it.
-fortuneHigh2: Strike the wrong claim, not the person who made it. Your wit was always the better for sparing someone.
-fortuneMid: Being right and being heard arrive on different trains. Catch the second one.
-fortuneMid2: The fact's correct and the timing's yours to choose. A point made quietly to one person travels just as far.
-fortuneLow: Ask the question instead of landing the point. Letting someone be wrong out loud costs you a beat of pride and almost nothing else.
-fortuneLow2: The unfiled version cuts more than you mean it to, and you can't take the cut back. Smooth a few edges before it leaves you.
-fortuneLeast: A wrong thing said near you, left to stand. Not your weather to correct, and the air stays warmer for the silence — even if your tongue itches.
+fortuneHigh: Name the right source in passing and let them catch up.
+fortuneHigh2: Strike the wrong claim, not the person who made it.
+fortuneMid: Being right and being heard arrive on different trains.
+fortuneMid2: The fact's correct and the timing's yours to choose.
+fortuneLow: Ask the question instead of landing the point.
+fortuneLow2: The unfiled version cuts more than you mean it to, and you can't take the cut back.
+fortuneLeast: A wrong thing said near you, left to stand.
 fortuneLeast2: Someone is cheerfully, harmlessly wrong, and the day is better for letting them stay that way.
 facetMostTitle: Shichimi, No Chaser
 facetMost: The tour guide rattles off a date that's plainly wrong; the group nods along. Loaded on your tongue, the dry correction, before he's even reached the next room.

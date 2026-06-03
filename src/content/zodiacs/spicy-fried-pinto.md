@@ -12,16 +12,16 @@ antiBeans: [kidney, fava]
 friendlyForm: roasted
 antiForm: boiled
 seasonalFortune: A season of spitting oil and half-folded tortillas; the kitchen of this bean runs hot, loud, and rarely in one direction for long.
-fortuneMost: Six things half-made and fluent in all of them — the one that survives to evening beats any plan you could've written. Run with it.
-fortuneMost2: A good idea is loose in all that mess and it'll find you before the night's out. The scatter isn't the cost; it's the net.
+fortuneMost: Six things half-made and fluent in all of them — the one that survives to evening beats any plan you could've written.
+fortuneMost2: A good idea is loose in all that mess and it'll find you before the night's out.
 fortuneHigh: Of the five fires going at once, one is the live one. Find it; let the others gutter out without you.
-fortuneHigh2: An answer you already found is buried under three newer questions. Go back into the pile and dig it out — it's still good.
-fortuneMid: You're improvising on a dish you've cooked plenty. Make it the plain way this once; the original had more ground under it than the riff does.
-fortuneMid2: Two things to bounce between, not six. The crackle's the same and the trail home is shorter.
-fortuneLow: Fold the tortilla in front of you all the way before reaching for the next. Whoever's rushing you to jump is improvising too — let them wait.
-fortuneLow2: Let one thing be whole. Carrying it to the end instead of abandoning it mid-fold feels like a cage; it's actually a rest.
-fortuneLeast: The week's plan fits on a card, and the card doesn't get rewritten. Letting it just hold goes against your grain — and the steadiness is the gift in disguise.
-fortuneLeast2: Do the one thing already set for this slot. The day doesn't owe you six new beginnings, however much your hands want them.
+fortuneHigh2: An answer you already found is buried under three newer questions. Go back into the pile and dig it out.
+fortuneMid: You're improvising on a dish you've cooked plenty. Make it the plain way this once.
+fortuneMid2: Two things to bounce between, not six.
+fortuneLow: Fold the tortilla in front of you all the way before reaching for the next.
+fortuneLow2: Let one thing be whole.
+fortuneLeast: The week's plan fits on a card, and the card doesn't get rewritten.
+fortuneLeast2: Do the one thing already set for this slot.
 facetMostTitle: Ancho Heat in Every Corner
 facetMost: A weekend market sprawls in every direction and you've got one hour. You plunge in with no route, chasing whatever stall catches your eye next.
 facetHighTitle: Oil Claims Whatever It Touches

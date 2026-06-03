@@ -13,15 +13,15 @@ friendlyForm: boiled
 antiForm: fried
 seasonalFortune: A season for the bisque that withholds its garnish. The roast deepens in private, and what reaches the spoon arrives already certain of itself, asking nothing.
 fortuneMost: The bisque goes out bare. No garnish, no flourish, no need — and neither have you.
-fortuneMost2: A quiet you've held a long while is about to be read exactly right, by exactly the person who matters. Your restraint lands as the depth it always was.
+fortuneMost2: A quiet you've held a long while is about to be read exactly right, by exactly the person who matters.
 fortuneHigh: One good chair, one lamp, a lot of bare floor left to breathe. People slow down the moment they step in.
-fortuneHigh2: A hush has gathered around the thing you made and walked away from. It carries further than any words you'd have added.
+fortuneHigh2: A hush has gathered around the thing you made and walked away from.
 fortuneMid: One corner lit well isn't taste yet — it's one lit corner. The second lamp is worth the trip out to buy it.
 fortuneMid2: They lean in when you speak. But no one can lean toward a warm thing you keep behind your teeth.
-fortuneLow: A clipped, careful reply can shut like a door you never meant to lock. Let the warmth show through, though spelling it out feels like a crack in the finish.
-fortuneLow2: The loud ring has been sitting in the drawer too long. Understatement that hides you isn't elegance — it's a wall, and walls keep out the people who came to find you.
-fortuneLeast: A loud, spilling evening is on its way — wine poured before hello, prints hung crooked, everyone talking at once. Walk in open-handed. It won't be tasteful and it will be the one you remember.
-fortuneLeast2: Answer with the three exclamation marks. Plain bright warmth travels further than depth held in reserve, even when it feels like saying far too much.
+fortuneLow: A clipped, careful reply can shut like a door you never meant to lock.
+fortuneLow2: The loud ring has been sitting in the drawer too long. Understatement that hides you isn't elegance — it's a wall.
+fortuneLeast: A loud, spilling evening is on its way — wine poured before hello, prints hung crooked, everyone talking at once. Walk in open-handed.
+fortuneLeast2: Answer with the three exclamation marks.
 facetMostTitle: Espresso Settling Dark
 facetMost: The compliment you've earned is offered out loud across the table. You deflect it in three words and change the subject.
 facetHighTitle: The Bare Counter

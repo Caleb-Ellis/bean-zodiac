@@ -12,16 +12,16 @@ antiBeans: [butter, fava]
 friendlyForm: fried
 antiForm: boiled
 seasonalFortune: A season of sealed jars and tested lids. The brine sharpens, the rice waits beneath, and old hulls thicken against weather that has not yet arrived.
-fortuneMost: '"No, thanks" is a whole sentence; the essay you would add after it is just a confession.'
-fortuneMost2: You owe no one the favour, only the kindness of a direction. One line to decline, the name of somewhere else to try — a wall with a gate, not a wall with spikes.
-fortuneHigh: A word given while you're still guarded is the one you walk back alone later. Hold it until you've eaten and settled.
-fortuneHigh2: Yes to three nights, the end date named in the same breath. The wall is allowed a door — you can be generous and still know the hour the gate swings shut.
-fortuneMid: The porch held long enough; let them as far as the hallway now. Keeping someone on the step past what they've earned curdles, quietly, into a grudge you never meant to keep.
-fortuneMid2: The outer wall did its work. The second room can open a little sooner than the ledger says it's owed — the right kind of risk, even if it costs you some certainty.
-fortuneLow: You've polished "maybe" for so long they've already filed it as no. Say yes; the open door feels unguarded, and that's the toll for getting let in yourself.
-fortuneLow2: Lend the good knife and keep no record of who has it. Some things are meant to circulate, not be sealed in the crock — and you'll feel the lack of a tally before you feel the trust.
-fortuneLeast: A fortress this well-defended has started eating its own rations. Hand someone the spare key. It feels like lowering the drawbridge into a storm, and the storm it feared stopped years ago.
-fortuneLeast2: Hand over the recipe unasked; say stay as long as you need. It goes against every brick you've laid, and the warmth that walks through the gap more than pays the rent.
+fortuneMost: '"No, thanks" is a whole sentence.'
+fortuneMost2: You owe no one the favour, only the kindness of a direction.
+fortuneHigh: A word given while you're still guarded is the one you walk back alone later.
+fortuneHigh2: Yes to three nights, the end date named in the same breath.
+fortuneMid: The porch held long enough; let them as far as the hallway now.
+fortuneMid2: The outer wall did its work.
+fortuneLow: You've polished "maybe" for so long they've already filed it as no.
+fortuneLow2: Lend the good knife and keep no record of who has it.
+fortuneLeast: A fortress this well-defended has started eating its own rations.
+fortuneLeast2: Hand over the recipe unasked; say stay as long as you need.
 facetMostTitle: Lime's Clean Line
 facetMost: A neighbour you barely know wants the gate code so deliveries can sit in your yard. The no forms before they've finished asking, and you don't feel you owe the long version of why.
 facetHighTitle: Hot Sauce at the Bottom

@@ -12,16 +12,16 @@ antiBeans: [navy, black]
 friendlyForm: fermented
 antiForm: boiled
 seasonalFortune: Roasted pintos refuse a fixed order this season; some pots lead with pasilla smoke, others with jalapeño bite. The kitchen rewards those who taste before they plan.
-fortuneMost: The long way round for no reason at all is the better pot. Whatever you planned will keep; the detour won't.
+fortuneMost: The long way round for no reason at all is the better pot.
 fortuneMost2: The safe plan ditched for the one nobody saw coming pays out, the way it usually does.
-fortuneHigh: Whoever you actually are turns up, and you mean every version of it. The ones who can keep pace are the ones worth feeding.
+fortuneHigh: Whoever you actually are turns up, and you mean every version of it.
 fortuneHigh2: Pasilla smoke or jalapeño bite, no fixed order. Follow the thing that smells interesting over the thing that arrived first.
-fortuneMid: A friend asking which version of you they've got deserves the straight answer. Just tell them.
+fortuneMid: A friend asking which version of you they've got deserves the straight answer.
 fortuneMid2: One small thing turned — the route, the seat, the order of the pot — and the flat day comes back to life.
-fortuneLow: Someone's been quietly waiting for a baseline to count on. Show up the same way a few times running; it'll bore you stiff, and it's the steadiness they needed.
-fortuneLow2: Keep the standing plan when you'd rather bolt. It's how you stay findable twice, restless as it makes you.
-fortuneLeast: The rotation you can cook without thinking is its own quiet comfort. Lean on it a while and notice the roots that hold.
-fortuneLeast2: Returning to the trusted books, the unchanged list, isn't the dullness you fear — it's how some things actually root. Some seasons that's the richer pot.
+fortuneLow: Someone's been quietly waiting for a baseline to count on. Show up the same way a few times running.
+fortuneLow2: Keep the standing plan when you'd rather bolt.
+fortuneLeast: The rotation you can cook without thinking is its own quiet comfort.
+fortuneLeast2: Returning to the trusted books, the unchanged list, isn't the dullness you fear — it's how some things actually root.
 facetMostTitle: Three Chiles, None Called for
 facetMost: Halfway to the airport for a trip booked months ago, a billboard for somewhere else catches your eye, and you're seriously weighing a swerve to the other gate.
 facetHighTitle: The Cracked Pasilla

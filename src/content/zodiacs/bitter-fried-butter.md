@@ -12,16 +12,16 @@ antiBeans: [fava, pinto]
 friendlyForm: boiled
 antiForm: fermented
 seasonalFortune: A season for crumb pressed firm before the oil takes it. Quick hands lose the coating; the careful ones eat well. Bitter parsley keeps until needed.
-fortuneMost: The crumb pressed firm is the crumb that holds when the oil takes it. Your slow, weighed yes is the one that lands.
+fortuneMost: The crumb pressed firm is the crumb that holds when the oil takes it.
 fortuneMost2: The choice you've been turning over from every side is right, and the coating you let set is about to prove it holds.
-fortuneHigh: A choice that matters keeps until morning. Sleep sorts the real reasons from the loud ones; the answer will still be there at dawn.
-fortuneHigh2: The wider you look before committing, the better you land — and luck is leaning toward the long view this stretch.
-fortuneMid: Ten minutes, then go. This one doesn't need the seventh pass; firm enough is firm enough.
-fortuneMid2: One thing you're unsure of, a dozen you're not. Settle the one. Let the rest cook as they are.
-fortuneLow: The couch wants moving on a hunch, even at midnight. You can't map a room before you live in it, and standing still maps nothing at all.
-fortuneLow2: Say it before it's polished. The rough version stumbles, and it's often the truer one.
-fortuneLeast: Your first read here outranks your fourth. Answering on instinct skips the careful part — and the careful part, this once, was the stalling.
-fortuneLeast2: Some doors only open while you're still moving. You haven't checked the footing twice. That's the leap; take it uneasy.
+fortuneHigh: A choice that matters keeps until morning.
+fortuneHigh2: The wider you look before committing, the better you land.
+fortuneMid: Ten minutes, then go.
+fortuneMid2: Ten things you're unsure of, a dozen you're not — settle the one.
+fortuneLow: The couch wants moving on a hunch, even at midnight.
+fortuneLow2: Say it before it's polished.
+fortuneLeast: Your first read here outranks your fourth.
+fortuneLeast2: Some doors only open while you're still moving.
 facetMostTitle: Capers Counted, Oil Cracked
 facetMost: A market stall, one bowl of figs you want, the vendor waiting. You turn six of them over in the light, weighing each by hand, before you'll point to the one you'll buy.
 facetHighTitle: Where the Crumb Adheres

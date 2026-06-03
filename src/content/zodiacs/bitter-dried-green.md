@@ -12,16 +12,16 @@ antiBeans: [butter, mung]
 friendlyForm: fried
 antiForm: boiled
 seasonalFortune: Strung beans wait through winter on a single thread, surrendering water to time. What hangs long enough loses everything but the line of itself, and the line is what cuts.
-fortuneMost: One cut, then set the knife down. The board doesn't need a second pass, and the second pass is where the finger goes.
-fortuneMost2: The bean hung all winter loses everything but the line of itself, and the line is what cuts. What survived your paring is about to prove it was the right thing to keep.
-fortuneHigh: The hour you'd spend perfecting the setup, spend on the cut. The setup was you avoiding the cut.
-fortuneHigh2: You wake hungry for one clean thing and refuse the rest until it comes. Hold out for it — it's on its way.
-fortuneMid: Pick the target before the edge finds one. A honed blade with nothing to cut will sharpen something it shouldn't.
-fortuneMid2: One task matters; the others can hang on the line a while. Pare the day to that one.
-fortuneLow: Hand the fine tool to someone who'll use it roughly and watch without wincing. The wood survives — though the wincing comes anyway.
-fortuneLow2: The mess will gnaw at you. Leave the threads open anyway — what you need tends to surface unsharpened.
-fortuneLeast: Keep the dull thing, the tool gone soft with use, the bean strung crooked on the line. Not everything has to be pared to earn its place — and letting it stay will feel like neglect.
-fortuneLeast2: The half-finished thing, the gift you'll never use, the rough first try — your hand itches to thin them out. Don't. Let the pile be a pile.
+fortuneMost: One cut, then set the knife down.
+fortuneMost2: The bean hung all winter loses everything but the line of itself, and the line is what cuts.
+fortuneHigh: The hour you'd spend perfecting the setup, spend on the cut.
+fortuneHigh2: You wake hungry for one clean thing and refuse the rest until it comes.
+fortuneMid: Pick the target before the edge finds one.
+fortuneMid2: One task matters; the others can hang on the line a while.
+fortuneLow: Hand the fine tool to someone who'll use it roughly and watch without wincing.
+fortuneLow2: The mess will gnaw at you.
+fortuneLeast: Keep the dull thing, the tool gone soft with use, the bean strung crooked on the line.
+fortuneLeast2: Your hand itches to thin them out.
 facetMostTitle: The Strop
 facetMost: The toast has eight points to make and the couple's waiting. You strike seven and deliver the one that matters, landing it clean before sitting down.
 facetHighTitle: Salt on the Pod

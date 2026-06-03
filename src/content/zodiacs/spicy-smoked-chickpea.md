@@ -12,16 +12,16 @@ antiBeans: [butter, navy]
 friendlyForm: roasted
 antiForm: boiled
 seasonalFortune: A season of smoke rising from three burners at once, bread torn before the yogurt is whisked, chili oil drifting through rooms its cook has already left.
-fortuneMost: Three burners going, chili oil drifting through a room you've already left — that's the dinner, the trip, the whole thing, happening because you can't sit. Ride it; momentum is your native heat.
-fortuneMost2: Some days the scatter is exactly how you cover ground no one else reaches. This is one of them.
-fortuneHigh: A brighter idea lands mid-task and your whole body leans to bolt. Hide the phone for an hour — whoever needs you will still need you, and the chase keeps.
-fortuneHigh2: Pick the one that matters. The fourth message, the seventh, the first gone cold — let them wait, no guilt owed.
-fortuneMid: Not every idea needs chasing the second it arrives. Jot it and keep on; the good ones circle back.
-fortuneMid2: A plan can stay the size you made it. Finishing one thing won't smother the spark.
-fortuneLow: There's a sentence still hanging in the room you bolted from. Go back and finish it — the half-done is the one real tax on your speed, worth paying down.
-fortuneLow2: Fatigue is landing and you're right not to argue. Let the unfinished thing keep till morning; you come back sharper for the rest.
-fortuneLeast: Make one dish and eat it sitting down. The chase waits at the table's edge in fresh clothes, pretending it's urgent — it isn't.
-fortuneLeast2: A still day is coming to find you, the kind where nothing pivots. Let it land.
+fortuneMost: Three burners going, chili oil drifting through a room you've already left — that's the dinner, the trip, the whole thing, happening because you can't sit.
+fortuneMost2: Some days the scatter is exactly how you cover ground no one else reaches.
+fortuneHigh: A brighter idea lands mid-task and your whole body leans to bolt.
+fortuneHigh2: Pick the one that matters.
+fortuneMid: Not every idea needs chasing the second it arrives.
+fortuneMid2: A plan can stay the size you made it.
+fortuneLow: There's a sentence still hanging in the room you bolted from.
+fortuneLow2: Fatigue is landing and you're right not to argue.
+fortuneLeast: Make one dish and eat it sitting down.
+fortuneLeast2: A still day is coming to find you, the kind where nothing pivots.
 facetMostTitle: The Unwatched Fire
 facetMost: Forty acts, four stages, one wristband — you sprint between them catching half of each, already pulled toward the next sound on the wind.
 facetHighTitle: Pita Torn Jagged

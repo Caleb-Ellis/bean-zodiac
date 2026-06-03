@@ -12,16 +12,16 @@ antiBeans: [chickpea, pinto]
 friendlyForm: boiled
 antiForm: roasted
 seasonalFortune: Capers brined past sweetness, mustard sharpened in the jar — a season that keeps its complaint close at hand and rewards those who refuse to smooth it down.
-fortuneMost: A complaint carried to the one who can actually mend it does more than a day of muttering ever will. Your refusal to round up to "fine" is the useful thing — point it where it works.
-fortuneMost2: You won't call it fine when it wasn't, and you shouldn't. Name the wrong thing plainly, once, sharp as mustard from the jar.
-fortuneHigh: A thing is genuinely annoying. Said once and left where it fell, the annoyance discharges; chewed on, it brines into something worse.
-fortuneHigh2: A stranger's small rudeness has lodged, and you're carrying it sharper into everything after. Set it down before the brine creeps through the whole jar.
-fortuneMid: The coffee's gone cold in the cup. Tip it out rather than drink it resentful.
-fortuneMid2: A charge comes through wrong. The fix is a few flat words, repeated until it's right — no heat needed, just done.
-fortuneLow: When the bother runs bigger than the thing that caused it, the size is the signal. It's rarely the cold coffee underneath; the look is worth more than the grumble.
-fortuneLow2: Most of what's souring you dissolves by morning, the way weather passes over a field. Sleeping on it costs you the small righteousness of being correct — let it pass anyway.
-fortuneLeast: Someone's braced for a harsh verdict from you. Lead with what actually worked; it'll surprise them, and it'll run against your grain to start there. Start there.
-fortuneLeast2: A small wrong can dissolve before you've even named it, off the tally entirely. Leaving it ungraded will feel like negligence — not everything earns the count, and this one doesn't.
+fortuneMost: A complaint carried to the one who can actually mend it does more than a day of muttering ever will.
+fortuneMost2: You won't call it fine when it wasn't, and you shouldn't.
+fortuneHigh: A thing is genuinely annoying.
+fortuneHigh2: A stranger's small rudeness has lodged, and you're carrying it sharper into everything after.
+fortuneMid: The coffee's gone cold in the cup.
+fortuneMid2: A charge comes through wrong.
+fortuneLow: When the bother runs bigger than the thing that caused it, the size is the signal.
+fortuneLow2: Most of what's souring you dissolves by morning, the way weather passes over a field.
+fortuneLeast: Someone's braced for a harsh verdict from you.
+fortuneLeast2: A small wrong can dissolve before you've even named it, off the tally entirely.
 facetMostTitle: Capers, First Bite
 facetMost: A park bench sits broken and everyone just steps around it. You're the one who tracks down the council line and lodges the complaint.
 facetHighTitle: Mustard on the Tongue

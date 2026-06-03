@@ -12,16 +12,16 @@ antiBeans: [adzuki, pinto]
 friendlyForm: dried
 antiForm: roasted
 seasonalFortune: A season for vinegar over smoke, for the bowl that asks a cold question of warm bread. Households eat slower; what was hidden in the broth surfaces.
-fortuneMost: Ask the real question early, not after the long way round. It ends where you'd send it anyway.
-fortuneMost2: You see the bone clean through the soft tissue before anyone else has looked. That early sight is a gift of yours — name what it shows you.
-fortuneHigh: You already know which part is wrong. The wrong part is what to say — not the apology wrapped around it.
-fortuneHigh2: The line everyone needed and nobody wanted is yours to give. Say it once and set it down to do its work.
-fortuneMid: Name the bad number where it sits, not in the car afterward. A catch saved for later is a catch that dies.
-fortuneMid2: Ask the off question evenly, with none of the softening that lets it get waved away. Plainness is what makes it land.
-fortuneLow: You can be right and unwelcome in the same breath. Now and then, choose welcome.
-fortuneLow2: A friend has chosen the road badly. Let it run its course this once — the lesson lands deeper than your warning would, though swallowing the warning is the harder thing.
-fortuneLeast: Hold the blade. Let them get there on their own, and watch what they bring back when nobody's been cut on the way in.
-fortuneLeast2: Agree where agreeing costs nothing, and feel how the air eases around you. You'll draw no blood, and you won't miss it as much as you think.
+fortuneMost: Ask the real question early, not after the long way round.
+fortuneMost2: You see the bone clean through the soft tissue before anyone else has looked.
+fortuneHigh: You already know which part is wrong.
+fortuneHigh2: The line everyone needed and nobody wanted is yours to give.
+fortuneMid: Name the bad number where it sits, not in the car afterward.
+fortuneMid2: Ask the off question evenly, with none of the softening that lets it get waved away.
+fortuneLow: You can be right and unwelcome in the same breath.
+fortuneLow2: A friend has chosen the road badly.
+fortuneLeast: Hold the blade.
+fortuneLeast2: Agree where agreeing costs nothing, and feel how the air eases around you.
 facetMostTitle: Vinegar Before Salt
 facetMost: Two tables over, a couple is having the smiling argument that's really about something else entirely. You can see the real thing under it — and naming it out loud is what you want to do.
 facetHighTitle: Smoke After the Rind

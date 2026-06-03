@@ -12,16 +12,16 @@ antiBeans: [mung, fava]
 friendlyForm: fried
 antiForm: smoked
 seasonalFortune: Honey holds the bloom past frost and sets it down again come thaw; what this bean keeps, it keeps by coming back to.
-fortuneMost: A vine coming back over the same fence, year on year. The thing you set down long ago is still waiting, and so are you — pick it up again, near where you both left off.
-fortuneMost2: The friend who vanished walks back in, and the kettle's already warming. What you hold, you hold by coming back to it.
-fortuneHigh: Call the one who went quiet and pretend no time has passed. The gap closes faster than you fear; you were always better at resuming than at starting cold.
-fortuneHigh2: Tree rings circling out, each one over the last. The not-finishing was never failure — it's how you stay in love with the work.
-fortuneMid: Eventually keeps stretching out. Walk the half-walked route to its end before it idles another year — picking it up feels heavier than dropping it; pick it up.
-fortuneMid2: The return is in you but it's running slow. Open the drawer, say the one small yes that turns the wheel. You don't have to begin again — only resume.
-fortuneLow: Everyone assumes you'll always come back, so the hard stretches pass unseen. Say you're tired out loud; the thing will keep while you rest.
-fortuneLow2: Coming back isn't owed every single time. Some returns take everything you've got, and skipping one will gnaw at you — skip it anyway.
-fortuneLeast: A stump with the rings gone grey doesn't come back, and shouldn't. Don't water what died long ago.
-fortuneLeast2: Old drafts to the bin unread, last year's names gone with last year. The door that doesn't reopen has its own clean freedom — strange for a returner to feel, and real.
+fortuneMost: A vine coming back over the same fence, year on year.
+fortuneMost2: The friend who vanished walks back in, and the kettle's already warming.
+fortuneHigh: Call the one who went quiet and pretend no time has passed.
+fortuneHigh2: Tree rings circling out, each one over the last.
+fortuneMid: Eventually keeps stretching out.
+fortuneMid2: The return is in you but it's running slow.
+fortuneLow: Everyone assumes you'll always come back, so the hard stretches pass unseen.
+fortuneLow2: Coming back isn't owed every single time.
+fortuneLeast: A stump with the rings gone grey doesn't come back, and shouldn't.
+fortuneLeast2: Old drafts to the bin unread, last year's names gone with last year.
 facetMostTitle: Sesame Finds the Same Grain
 facetMost: A swallow you swear is last year's builds its nest in the same eave again. You leave the window cracked and start setting out crumbs like no season has passed.
 facetHighTitle: Syrup Pools Where It Pooled

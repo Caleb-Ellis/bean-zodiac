@@ -12,16 +12,16 @@ antiBeans: [mung, pinto]
 friendlyForm: fermented
 antiForm: roasted
 seasonalFortune: A season for smoke that lingers in the weave of a coat. Andouille hangs in the doorway; the brine jar ticks on the counter. Houses where nothing is hedged.
-fortuneMost: End the standing dinner you both dread. Months of obligation is rent on a friendship neither of you is living in.
-fortuneMost2: The gift you don't like goes back, the reason said plainly. Softening it only makes the lie cost more later.
-fortuneHigh: When they ask, they already half-know. Don't pretend otherwise and don't pad it — the hot sauce hits before the plate's down.
-fortuneHigh2: Tell them the real thing, then pour the coffee. Honesty and warmth ride the same breath without spoiling each other.
-fortuneMid: '"I do not like this one" — about the small thing, not the whole. Little accurate "noes" keep the big one from landing as a shock.'
-fortuneMid2: Mark the weak part and hand it back without preface. The plainness is the respect; the cushion would be the insult.
-fortuneLow: A correct verdict leaves a chill behind it. Put the small warm thing right after, not as an apology once the cold has set in.
-fortuneLow2: The answer's still hot in your mouth. Take the longer way home and find the kinder route in — the truth keeps, and the friendship is what you were protecting all along.
-fortuneLeast: An old bruise, and you're still pressing it. The pressing is why it won't heal, for either of you.
-fortuneLeast2: Smooth the hard message until it lands gently. It'll feel like cowardice from the inside; it's mostly care, working quietly.
+fortuneMost: End the standing dinner you both dread.
+fortuneMost2: The gift you don't like goes back, the reason said plainly.
+fortuneHigh: When they ask, they already half-know.
+fortuneHigh2: Tell them the real thing, then pour the coffee.
+fortuneMid: '"I do not like this one" — about the small thing, not the whole.'
+fortuneMid2: Mark the weak part and hand it back without preface.
+fortuneLow: A correct verdict leaves a chill behind it.
+fortuneLow2: The answer's still hot in your mouth.
+fortuneLeast: An old bruise, and you're still pressing it.
+fortuneLeast2: Smooth the hard message until it lands gently.
 facetMostTitle: Hot Sauce Before the Plate
 facetMost: Days from a wedding you think is a mistake, the groom turns to you and asks point blank if you have doubts. Out they come, all of them, no hedge.
 facetHighTitle: Andouille at Full Heat

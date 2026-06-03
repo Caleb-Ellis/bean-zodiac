@@ -12,15 +12,15 @@ antiBeans: [adzuki, kidney]
 friendlyForm: smoked
 antiForm: roasted
 seasonalFortune: A pan of chilies toasted dark and a lid set heavy; what stings the kitchen is folded down into a long, quiet simmer, and the heat travels inward for hours.
-fortuneMost: The slight landed, the fever's real, and you're refilling their glass anyway. Steadiness like that costs you days later.
+fortuneMost: The slight landed, the fever's real, and you're refilling their glass anyway.
 fortuneMost2: A heavy lid on toasted chilies, the heat folded down and travelling inward for hours. That's you, and it's a long simmer.
 fortuneHigh: The calmest voice in a loud room is rarely the calmest person. One true sentence costs less than the whole banked batch.
 fortuneHigh2: A long simmer thickens. It also scorches the bottom of the pot.
-fortuneMid: Asked twice, drop the polite version and answer it true. The second asking is the door opening.
-fortuneMid2: Name the small wrong thing while it's still small, and it never grows into the flat unplaceable mood that follows you home.
-fortuneLow: Say it the minute you see it — out on the walk, at the counter, wherever you are. Plain words feel like exposure; the charge you carry instead is heavier.
-fortuneLow2: Hand someone the unsorted version, knots and all. Less comfortable than the composed one, and truer for it.
-fortuneLeast: Put it down. The ceiling holds without you bracing it, and your shoulders have been up around your ears for hours.
+fortuneMid: Asked twice, drop the polite version and answer it true.
+fortuneMid2: Name the small wrong thing while it's still small.
+fortuneLow: Say it the minute you see it — out on the walk, at the counter, wherever you are.
+fortuneLow2: Hand someone the unsorted version, knots and all.
+fortuneLeast: Put it down. The ceiling holds without you bracing it.
 fortuneLeast2: Not everything was meant to be cooked that low. Let some of it out warm.
 facetMostTitle: Pressed Through a Sieve
 facetMost: Your foot throbs where the door caught it. The host is mid-story, so you keep your face open and your weight off it until she's done.

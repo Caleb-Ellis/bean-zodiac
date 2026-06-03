@@ -12,16 +12,16 @@ antiBeans: [cannellini, navy]
 friendlyForm: fried
 antiForm: boiled
 seasonalFortune: A pan left in a hot oven keeps cooking past the cook's intention. Seasons here arrive sticky-tipped and uneven, sweetness pooling wherever the heat last leaned.
-fortuneMost: Abandon the plan for the better, weirder one and don't look back. You came in for one dish and you'll leave having made another.
-fortuneMost2: A swerve pays off this turn — the wind shifts and you shift with it, gladly. Tell everyone warmly; the warmth is what makes the turn land.
-fortuneHigh: Cook the thing you didn't shop for. Sweetness was always going to pool wherever the heat last leaned.
-fortuneHigh2: The morning's idea is a different idea by afternoon, and you mean both. That isn't flakiness — it's the shape of how you think.
-fortuneMid: Let the night stay unpinned, the venue keep wandering. You don't have to lock it down to enjoy it.
-fortuneMid2: Swing by both for an hour each and leave the evening loose. Half a plan kept is still a plan, in your hands.
-fortuneLow: Pick the original plan this once. The new thing was just new — what you chose was good before the wind turned, and the wind always turns.
-fortuneLow2: A brighter offer lands; serve the plan you already made anyway. The you who said yes meant it — honour them.
-fortuneLeast: Go to the friend you keep rescheduling, name it plainly, offer a date you'll actually keep. Holding still is a real gift here — and it'll cost you the better invitation you can already feel coming.
-fortuneLeast2: The pan goes in at seven. It goes in at seven. Let no shift in the wind move it.
+fortuneMost: Abandon the plan for the better, weirder one and don't look back.
+fortuneMost2: A swerve pays off this turn — the wind shifts and you shift with it, gladly.
+fortuneHigh: Cook the thing you didn't shop for.
+fortuneHigh2: The morning's idea is a different idea by afternoon, and you mean both.
+fortuneMid: Let the night stay unpinned, the venue keep wandering.
+fortuneMid2: Swing by both for an hour each and leave the evening loose.
+fortuneLow: Pick the original plan this once.
+fortuneLow2: A brighter offer lands; serve the plan you already made anyway.
+fortuneLeast: Go to the friend you keep rescheduling, name it plainly, offer a date you'll actually keep.
+fortuneLeast2: The pan goes in at seven.
 facetMostTitle: Char at the Tips, Sweet at the Root
 facetMost: You set out north on a clear road, then a side track curls off toward hills you've never seen. The wheel turns that way before you've decided anything.
 facetHighTitle: Molasses, Shaped by What It Lands on

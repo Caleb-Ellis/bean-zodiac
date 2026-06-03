@@ -12,16 +12,16 @@ antiBeans: [navy, butter]
 friendlyForm: dried
 antiForm: dried
 seasonalFortune: Kasu sweetens slowly in the crock, edges blurring into broth. The season favours those who let disagreement steep until its sharpness rounds.
-fortuneMost: Introduce the two who'd never have found each other. Both will swear it was their own idea, and you'll let them.
-fortuneMost2: A thaw is coming between two people you'd given up on, and it will look like its own weather. You set it steeping.
-fortuneHigh: Something split and shared before the hard talk. People go softer toward each other over the same crumb.
+fortuneMost: Introduce the two who'd never have found each other.
+fortuneMost2: A thaw is coming between two people you'd given up on, and it will look like its own weather.
+fortuneHigh: Something split and shared before the hard talk.
 fortuneHigh2: Wait for the heat to drop, then the one line that lets both of them keep their footing.
 fortuneMid: Send the warm, slightly embarrassing thank-you — especially to the one you'd decided didn't need it.
-fortuneMid2: Two people you love, circling a fight. Hand them a third thing to laugh at and watch the sharpness round off.
-fortuneLow: The plainer version, not the seventh kindness. The endless softening is just you apologising for having an opinion — and it does cost you to drop it.
-fortuneLow2: Say the unflattering thing and sit in the quiet after it without reaching to smooth the edges, even as your hands want to.
-fortuneLeast: The no in one sentence, then nothing. The silence after is the whole answer, and holding it shut is harder than it looks.
-fortuneLeast2: Hand back the gift you don't want and name the price you won't pay. It'll feel ungracious going out and you'll sleep deeply anyway.
+fortuneMid2: Two people you love, circling a fight.
+fortuneLow: The plainer version, not the seventh kindness.
+fortuneLow2: Say the unflattering thing and sit in the quiet after it without reaching to smooth the edges.
+fortuneLeast: The no in one sentence, then nothing.
+fortuneLeast2: Hand back the gift you don't want and name the price you won't pay.
 facetMostTitle: Sugar Dissolved Past Finding
 facetMost: Two neighbours have feuded over a fence line so long the whole street's picked sides. By the time you leave the porch, they're each privately sure the truce was theirs to give.
 facetHighTitle: The Sake-Lees

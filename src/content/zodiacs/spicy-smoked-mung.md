@@ -12,16 +12,16 @@ antiBeans: [edamame, kidney]
 friendlyForm: boiled
 antiForm: fried
 seasonalFortune: A season of low coals and long hours. The pot sits at the back of the stove, working without an audience, and the house begins to smell like something that has been thought about for days.
-fortuneMost: A small trouble they mentioned months ago is still warm in you, long after they forgot saying it. Ask about it gently — being remembered is the warmest thing you give.
-fortuneMost2: You held the thread everyone else let slip. Say the quiet thing you've been tracking out loud; that's the chili oil over the top.
-fortuneHigh: Late and warm beats on-time and lukewarm. The thank-you you've been holding only grows colder in the wait — send it.
-fortuneHigh2: The thing gets done before anyone thinks to ask, the way the congee sits at the back of the stove all night. Let them catch you at it this once.
-fortuneMid: Name the hard stretch they mentioned ages ago. They'd assumed no one was listening.
-fortuneMid2: The worry, the anniversary, the offhand fear — you keep what others drop. A small note that you remembered sinks deeper than any grand gesture.
-fortuneLow: Care that never says its name confuses the person it's aimed at. Say the why plainly and let the steam clear; unguarded reads as warmth.
-fortuneLow2: Greet someone warmly and owe them nothing after. Not every connection needs the full pot kept simmering.
-fortuneLeast: Stop tending a bowl for someone who already ate and left. Ladle the next one for yourself.
-fortuneLeast2: An omen for this turn — your luck lightens when your warmth does. Spend it on what's in front of you and let some care be light and finished.
+fortuneMost: A small trouble they mentioned months ago is still warm in you, long after they forgot saying it.
+fortuneMost2: You held the thread everyone else let slip.
+fortuneHigh: Late and warm beats on-time and lukewarm.
+fortuneHigh2: The thing gets done before anyone thinks to ask, the way the congee sits at the back of the stove all night.
+fortuneMid: Name the hard stretch they mentioned ages ago.
+fortuneMid2: The worry, the anniversary, the offhand fear — you keep what others drop.
+fortuneLow: Care that never says its name confuses the person it's aimed at.
+fortuneLow2: Greet someone warmly and owe them nothing after.
+fortuneLeast: Stop tending a bowl for someone who already ate and left.
+fortuneLeast2: An omen for this turn — your luck lightens when your warmth does.
 facetMostTitle: Smoke in the Rice
 facetMost: A barista mentioned a sick cat once, in passing. When you're back at the counter you ask after the cat by name, and watch the surprise land.
 facetHighTitle: Chili Oil, Overnight

@@ -18,10 +18,10 @@ fortuneHigh: The easy tasks circling the hard one are bait, every one.
 fortuneHigh2: Someone at the gathering has gone quiet. Turn the attention you give the page onto them instead.
 fortuneMid: Finish the chapter before the next book leaves the shelf, and the day stays whole.
 fortuneMid2: The blur comes from leaving everything half-cracked. Close one thing all the way first.
-fortuneLow: The thing you keep stepping over has waited longer than you think. Land on it — even though six open threads feel more alive than one finished one.
-fortuneLow2: Half-open everywhere only looks like progress. Pick the one that matters; letting the rest wait will sting, and it's still right.
-fortuneLeast: A week spent gathering everything and settling on nothing leaves the real thing untouched. Pick a spot and stay, even if staying feels like losing the others.
-fortuneLeast2: The name you keep mislaying outweighs the dozen errands you're chasing instead. Choose just one — hard as that is.
+fortuneLow: The thing you keep stepping over has waited longer than you think. Land on it.
+fortuneLow2: Half-open everywhere only looks like progress. Pick the one that matters.
+fortuneLeast: A week spent gathering everything and settling on nothing leaves the real thing untouched. Pick a spot and stay.
+fortuneLeast2: The name you keep mislaying outweighs the dozen errands you're chasing instead. Choose just one.
 facetMostTitle: Ginger in the Oil
 facetMost: Lost in the puzzle on your lap, you don't hear the kettle scream itself empty in the next room.
 facetHighTitle: The Sauce at Half

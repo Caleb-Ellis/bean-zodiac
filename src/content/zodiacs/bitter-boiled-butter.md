@@ -12,16 +12,16 @@ antiBeans: [pinto, green]
 friendlyForm: dried
 antiForm: fried
 seasonalFortune: A season for low flame and long stock. The pot holds its line while the cavolo nero darkens and the beans give up nothing they were not ready to give.
-fortuneMost: When hard news lands, you finish the sentence you were saying. Others steady around the one who doesn't flinch — carry it like it costs you nothing.
-fortuneMost2: A still bean in a rolling pot is a good omen for everyone near it. The steadiness goes all the way down, and it's catching.
+fortuneMost: When hard news lands, you finish the sentence you were saying.
+fortuneMost2: A still bean in a rolling pot is a good omen for everyone near it.
 fortuneHigh: When the voices climb, yours stays where it started. Set the fork down and outwait it.
 fortuneHigh2: A storm is coming for someone close, and you're the dry ground they'll stand on.
-fortuneMid: Let one person see the crack — just enough that they know it reached you. Composure with no fingerprints reads as a wax figure.
-fortuneMid2: They can't tell if you even care, and it stings because you care enormously. Let a little of that show through the broth.
-fortuneLow: You drift through a place like a draft and people keep glancing at the windows. Say the thing before you've finished deciding it.
-fortuneLow2: Make a noise. A calm so complete no one can tell it landed reads, from across the table, as an empty chair — and you'd rather they knew you were in it.
-fortuneLeast: Laugh at the song, weep at the obituary, walk the long way home because a stranger's piano scales were drifting from an open window. The composure is paid for; spend it.
-fortuneLeast2: Argue the lost cause on principle and unravel a little where it shows. Let the lid clatter once — the pot is allowed to boil over.
+fortuneMid: Let one person see the crack — just enough that they know it reached you.
+fortuneMid2: They can't tell if you even care, and it stings because you care enormously.
+fortuneLow: You drift through a place like a draft and people keep glancing at the windows.
+fortuneLow2: A calm so complete no one can tell it landed reads, from across the table, as an empty chair.
+fortuneLeast: Laugh at the song, weep at the obituary, walk the long way home because a stranger's piano scales were drifting from an open window.
+fortuneLeast2: Argue the lost cause on principle and unravel a little where it shows.
 facetMostTitle: Cavolo Nero at the Edge
 facetMost: Hard swell, the boat pitching, everyone grabbing for a handhold. Both your hands stay on the line you were coiling and your voice stays level — and the others steady toward the sound of it.
 facetHighTitle: The Settled Broth

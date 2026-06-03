@@ -12,16 +12,16 @@ antiBeans: [chickpea, pinto]
 friendlyForm: boiled
 antiForm: smoked
 seasonalFortune: A season that crackles at the edges. The shell does the talking; the dashi underneath is taken on faith, and mostly the faith is warranted.
-fortuneMost: The shell does the talking and the dashi underneath is taken on faith — and the faith is warranted. Say it without the "just"; the unhedged call is the one people act on.
-fortuneMost2: Walk up to a stranger's work and name which one is the strong one, out loud. Half the crowd was waiting for someone sure enough to say it.
-fortuneHigh: Give the recommendation, drop the caveats. The hedging isn't humility — it's the corner you duck into.
-fortuneHigh2: Make the call and let things settle around it. When you're right about the small stuff, owning it saves everyone the extra lap.
-fortuneMid: Pick the place. Twenty minutes of "I'm easy" is its own tax on everyone waiting.
-fortuneMid2: Try a piece of their way before you fall back on yours. You can stay sure and still leave the door open a crack.
-fortuneLow: Defer to the newest face here. They're still seeing the part you stopped noticing years ago, even if deferring grates.
-fortuneLow2: Cut the certain word and ask what they thought instead. The question costs you nothing and catches what you'd have sailed straight past.
-fortuneLeast: Hand the recipe over and take notes on their changes. Now and then, assuming they know something you don't is simply correct.
-fortuneLeast2: Follow a stranger's lead the whole way through, then compare honestly. The humility you rarely need is worth keeping oiled.
+fortuneMost: The shell does the talking and the dashi underneath is taken on faith — and the faith is warranted.
+fortuneMost2: Walk up to a stranger's work and name which one is the strong one, out loud.
+fortuneHigh: Give the recommendation, drop the caveats.
+fortuneHigh2: Make the call and let things settle around it.
+fortuneMid: Pick the place.
+fortuneMid2: Try a piece of their way before you fall back on yours.
+fortuneLow: Defer to the newest face here.
+fortuneLow2: Cut the certain word and ask what they thought instead.
+fortuneLeast: Hand the recipe over and take notes on their changes.
+fortuneLeast2: Follow a stranger's lead the whole way through, then compare honestly.
 facetMostTitle: Bonito in the Heat
 facetMost: A pub argument over some half-remembered fact stalls, and you state your answer flat as fact, no "I think," because you already know you're right.
 facetHighTitle: Smoke, Nori Darkening

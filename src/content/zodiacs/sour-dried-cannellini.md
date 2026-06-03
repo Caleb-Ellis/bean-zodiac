@@ -12,16 +12,16 @@ antiBeans: [adzuki, butter]
 friendlyForm: boiled
 antiForm: fried
 seasonalFortune: Porcini steeps slow and dark; lemon zest pins each grain of broth to its place. A life lived at small scale, where nothing is allowed to blur.
-fortuneMost: The hairline flaw is real, and only your eye finds it. Make the one more pass and let nothing blur — that eye is rare.
-fortuneMost2: A loose thread at the seam, asking to be tucked. Tuck it, tell no one, wear the small perfection like a private grace.
-fortuneHigh: Spines square to the shelf, the lamp set right, the room settled. The order is for you, and it steadies you the way porcini steeps the broth dark.
-fortuneHigh2: One comma is wrong and the whole thing waits on it. Moving it before it goes out isn't fuss.
-fortuneMid: An hour on a fingernail-sized fix is well spent, and then the work has earned its rest. Set the loupe down once the fix is done.
-fortuneMid2: Look twice, settle the one thing that's off, and stop. Past the second pass the eye starts inventing faults to chase.
-fortuneLow: Step back two paces. It's finished — the loupe stopped improving it a while ago and started bullying it, hard as that is to feel.
-fortuneLow2: Pour by eye and let the pot feed everyone unmeasured. It costs you the exact line, though no one at the table will taste the difference you would.
-fortuneLeast: The luck is in the imperfect one. Take the chipped cup on purpose; the flawless version has been quietly taxing you for years, and the chip is the thing that sets you loose.
-fortuneLeast2: Gather it by the armful and trust the abundance over the single perfect specimen. The looseness will itch — keep your hands full anyway.
+fortuneMost: The hairline flaw is real, and only your eye finds it.
+fortuneMost2: A loose thread at the seam, asking to be tucked.
+fortuneHigh: Spines square to the shelf, the lamp set right, the room settled.
+fortuneHigh2: One comma is wrong and the whole thing waits on it.
+fortuneMid: An hour on a fingernail-sized fix is well spent, and then the work has earned its rest.
+fortuneMid2: Look twice, settle the one thing that's off, and stop.
+fortuneLow: Step back two paces.
+fortuneLow2: Pour by eye and let the pot feed everyone unmeasured.
+fortuneLeast: The luck is in the imperfect one.
+fortuneLeast2: Gather it by the armful and trust the abundance over the single perfect specimen.
 facetMostTitle: The Grain Off-Centre
 facetMost: A degree off true is all it is, and everyone swears the framed print looks fine — but the level is already coming off the shelf.
 facetHighTitle: Brodo Below the Tremble

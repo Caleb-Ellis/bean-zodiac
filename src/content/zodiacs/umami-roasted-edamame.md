@@ -12,16 +12,16 @@ antiBeans: [mung, cannellini]
 friendlyForm: fermented
 antiForm: smoked
 seasonalFortune: "A season that hums beneath the husk. Heat works slowly into the pod; nothing finished announces itself, and the small green kernel keeps its own counsel under the salt."
-fortuneMost: Go over it once more before you call it done. The detail that makes it arrives on the pass everyone else skips, and it's yours to catch.
-fortuneMost2: The word doing all the work, the thing moved an inch out on a shelf — you see them. Good luck is gathering around that noticing; follow where it points.
-fortuneHigh: Don't fill the pause. What comes after it is the real thing; everything before was the wrapper.
-fortuneHigh2: Heat works slowly into the pod. What matters in someone surfaces the same way — only if you stay long enough to let it.
-fortuneMid: Something small is out of place and you feel it before you can name it. Let that quiet signal count; it's rarely wrong.
-fortuneMid2: Wait out the silence a friend almost filled. The thought on the far side of it is usually worth the wait.
-fortuneLow: If it matters, it comes back around. You can let a thing pass the first time without losing it — though letting go will feel, to you, like missing it.
-fortuneLow2: Not every flicker earns the full beam. Let some go unread; the cost is the small unease of not having looked, and you can carry that.
-fortuneLeast: Three things want all of you at once, and split three ways each gets a thinner version. Pick one to be wholly present for. The others go untended; that's the trade.
-fortuneLeast2: Give the slow ones their beat, even when the waiting frays you. Cut a slow thinker short and they finish it later, alone — and you feel that draught even unseen.
+fortuneMost: Go over it once more before you call it done.
+fortuneMost2: The word doing all the work, the thing moved an inch out on a shelf — you see them.
+fortuneHigh: Don't fill the pause.
+fortuneHigh2: Heat works slowly into the pod — what matters in someone surfaces the same way.
+fortuneMid: Something small is out of place and you feel it before you can name it.
+fortuneMid2: Wait out the silence a friend almost filled.
+fortuneLow: If it matters, it comes back around.
+fortuneLow2: Not every flicker earns the full beam.
+fortuneLeast: Three things want all of you at once, and split three ways each gets a thinner version.
+fortuneLeast2: Give the slow ones their beat, even when the waiting frays you.
 facetMostTitle: Yuzu, One Drop
 facetMost: Everyone else has wandered off from the tide pool. You're still crouched over it, watching one small thing shift under the surface that nobody else stayed for.
 facetHighTitle: Sesame in the Seam

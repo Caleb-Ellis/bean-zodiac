@@ -13,15 +13,15 @@ friendlyForm: dried
 antiForm: roasted
 seasonalFortune: A season for long pots and longer quiet. Stock darkens by the hour; the smoke settles into wood and cloth. Days the Hickory Black inhabits are measured in deepening, not in motion.
 fortuneMost: You enter and the volume drops a notch without anyone deciding it. The ones meant to find you already have.
-fortuneMost2: Stock only darkens by the hour, and someone is circling back to thank you for a weight you gave that slowly.
+fortuneMost2: Someone is circling back to thank you for a weight you gave that slowly.
 fortuneHigh: What others throw out, you cure and keep — the stub, the card, the thing too heavy to discard.
 fortuneHigh2: A word said three times before it leaves you isn't slow. It's salted down to last.
 fortuneMid: A friend thinks you've vanished and only wants a sign of smoke under the door. One line, no apology.
-fortuneMid2: Not every moment needs your full weight; some yeses are just yeses, set down light as a bay leaf lifted out.
-fortuneLow: Decide on the doorstep and sleep through what the dark can't fix — though leaving the worry untended will itch.
-fortuneLow2: Let the small thing stay small. An answer doesn't always have to earn its place before you hand it over.
+fortuneMid2: Not every moment needs your full weight; some yeses are just yeses.
+fortuneLow: Decide on the doorstep and sleep through what the dark can't fix.
+fortuneLow2: Let the small thing stay small.
 fortuneLeast: Somewhere on the road a friend is waiting longer than you know for a photo with no caption. The dignity will keep; send the silly one.
-fortuneLeast2: Leave the party early and laughing, owing no one a long letter — lightness can be true too, though it'll feel like you got away with something.
+fortuneLeast2: Leave the party early and laughing, owing no one a long letter.
 facetMostTitle: The Pot That Murmurs
 facetMost: A child asks you why the sky goes dark at night, and you set down what you were holding to give the question its full size.
 facetHighTitle: Carne Seca, Cured for Keeping

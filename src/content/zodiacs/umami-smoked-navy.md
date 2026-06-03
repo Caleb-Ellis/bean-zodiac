@@ -12,16 +12,16 @@ antiBeans: [chickpea, pinto]
 friendlyForm: dried
 antiForm: fermented
 seasonalFortune: A pot kept low through the long afternoon darkens by degrees; molasses and salt pork settle into the navy bean as the household forgets to hurry.
-fortuneMost: Add the next name to the old book in pen. What molasses-slow you write down now will still be findable in twenty years.
-fortuneMost2: A reunion is coming to the table that's stayed exactly as it always was — same dishes, same two old friends — and the unchanged thing is what makes it land.
-fortuneHigh: Answer in full and unhurried. They wrote to the slow-darkening version of you on purpose; don't hand back the fast one.
-fortuneHigh2: The coat into its tenth winter, mended once at the lining — the wear becomes the cut, and it'll serve you better than anything new on the rack.
-fortuneMid: Mend it, don't replace it. The patch improves the thing the way a fresh one never could.
-fortuneMid2: Swap the centerpiece and leave the rest. One small change won't unmake what salt and time already set.
-fortuneLow: Buy the chair without the long deliberation — the slow accumulation has earned you one fast yes, even if deciding quick feels like skipping the simmer.
-fortuneLow2: Rework the whole menu from scratch. Tearing up what lasted will pull at you; not everything has to outlive the people who eat it.
-fortuneLeast: Let the recipe everyone politely eats finally leave the table, no ceremony. Watching the worn thing go will cost you more than you'll admit.
-fortuneLeast2: Keep the calendar loose and trust the week to invent itself; it usually does, much as your hands itch to pin it down first.
+fortuneMost: Add the next name to the old book in pen.
+fortuneMost2: A reunion is coming to the table that's stayed exactly as it always was — same dishes, same two old friends.
+fortuneHigh: Answer in full and unhurried.
+fortuneHigh2: The coat into its tenth winter, mended once at the lining — the wear becomes the cut.
+fortuneMid: Mend it, don't replace it.
+fortuneMid2: Swap the centerpiece and leave the rest.
+fortuneLow: Buy the chair without the long deliberation.
+fortuneLow2: Rework the whole menu from scratch.
+fortuneLeast: Let the recipe everyone politely eats finally leave the table, no ceremony.
+fortuneLeast2: Keep the calendar loose and trust the week to invent itself; it usually does.
 facetMostTitle: Molasses, Its Own Hour
 facetMost: Your grandfather's watch stops one morning. Off to the repairer it goes, whatever they charge — replacing it never crosses your mind.
 facetHighTitle: Smoke Threading the Lid

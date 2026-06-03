@@ -12,15 +12,15 @@ antiBeans: [kidney, adzuki]
 friendlyForm: smoked
 antiForm: fermented
 seasonalFortune: A season when the charmoula travels further than the pan it was mixed in. Households of this bean keep the windows open and the kettle moving.
-fortuneMost: The open seat in the car going nowhere in particular has your name on it. Not knowing where it lands was always the point.
-fortuneMost2: Book the road before you book the way back. You'll learn out past the map why you went.
+fortuneMost: The open seat in the car going nowhere in particular has your name on it.
+fortuneMost2: Book the road before you book the way back.
 fortuneHigh: Turn down the street you've passed a hundred times. The detour was the destination all along.
-fortuneHigh2: Something strange and good is about to be pitched at you in one sentence and a shrug. Hesitate and it expires.
+fortuneHigh2: Something strange and good is about to be pitched at you in one sentence and a shrug.
 fortuneMid: Name the place nobody's tried. You don't need the far flight to leave the map.
 fortuneMid2: An unfamiliar turn on the way home, arriving late and unbothered — a full adventure folded into an ordinary evening.
-fortuneLow: You've already arrived somewhere good; the next leap can wait. Walk one full lap and let the place reach you — it'll feel like standing still, and it isn't.
-fortuneLow2: The thing you already love rewards a closer second look. Returning will always feel tamer than departing for you; take the tameness as its own country.
-fortuneLeast: The same path has been rearranging itself while you booked flights elsewhere. Head up — there's a town here you only thought you'd memorised.
+fortuneLow: You've already arrived somewhere good; the next leap can wait.
+fortuneLow2: The thing you already love rewards a closer second look.
+fortuneLeast: The same path has been rearranging itself while you booked flights elsewhere.
 fortuneLeast2: Staying put isn't standing still, whatever the itch in your feet says.
 facetMostTitle: Cumin Blooming in Hot Oil
 facetMost: A cargo ship takes paying passengers and won't say which ports, only that it's three weeks at sea. The not-knowing is exactly why you'd sign.

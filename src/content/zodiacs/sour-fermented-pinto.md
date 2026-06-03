@@ -13,15 +13,15 @@ friendlyForm: roasted
 antiForm: dried
 seasonalFortune: Cures lengthen in this season's cool dark, and the brine grows certain. A charro pot kept long enough teaches the household what souring sounds like before it arrives.
 fortuneMost: The hunch is right this time. The bandage and the spare key were worth packing — you read the turning weather before anyone would admit it was turning.
-fortuneMost2: You can hear the seam starting to split before the pot says a word about it. Stand by with the spoon already raised; the early bracing is a kind of care, and it earns its keep.
-fortuneHigh: The real thing was never in the cheerful opening. Read past it to the part you've been avoiding — the news waited further down, the way it always does, and you knew to look.
-fortuneHigh2: Word arrives that could break either way. Brace for the worse of the two and say yes regardless; you'd rather walk in ready than be caught smiling at the wrong moment.
-fortuneMid: Asked how you are, you owe nobody the upbeat translation. The charro pot doesn't pretend it isn't souring, and neither do you.
-fortuneMid2: You can want to know which kind of news it is without deciding ahead of time that it's bad. Ask in a way that lets them land either side.
-fortuneLow: The catastrophe didn't board the train, and the weather you dressed for never came. Take the coat off in the warmth; it feels like tempting fate, and you'll miss the whole day bracing for one that isn't coming.
-fortuneLow2: Not every open door is a draught hunting for a way in. Give the stranger the bench beside you on the first ask — the trust feels like an exposed flank, and most days nothing cold comes through it at all.
-fortuneLeast: Out loud, to the dog if no one else will hear, name three things that went right. Counting the good is the harder accounting, and it's the column you keep skipping.
-fortuneLeast2: A good thing is allowed to be good before you turn it over looking for the catch. The morning is plainly bright, no fine print underneath — open it in the doorway, coat still on.
+fortuneMost2: You can hear the seam starting to split before the pot says a word.
+fortuneHigh: The real thing was never in the cheerful opening. Read past it to the part you've been avoiding.
+fortuneHigh2: Word arrives that could break either way. Brace for the worse of the two and say yes regardless.
+fortuneMid: Asked how you are, you owe nobody the upbeat translation.
+fortuneMid2: You can want to know which kind of news it is without deciding ahead of time that it's bad.
+fortuneLow: The catastrophe didn't board the train, and the weather you dressed for never came.
+fortuneLow2: Not every open door is a draught hunting for a way in.
+fortuneLeast: Out loud, to the dog if no one else will hear, name three things that went right.
+fortuneLeast2: A good thing is allowed to be good before you turn it over for the catch.
 facetMostTitle: Smoke Before the Match
 facetMost: The picnic's only half-planned and already you can see the rain in it. The umbrella goes in the bag, the backup spot gets scouted, before a single cloud has shown.
 facetHighTitle: The Chipotle That Sinks

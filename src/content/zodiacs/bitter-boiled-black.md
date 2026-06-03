@@ -13,15 +13,15 @@ friendlyForm: smoked
 antiForm: roasted
 seasonalFortune: The pot sits dark on a low flame, days of soaking already behind it; nothing in the kitchen is rushed, and nothing arrives less than fully steeped.
 fortuneMost: Three opinions spend themselves in the room. They're all waiting for yours.
-fortuneMost2: A bean steeped slow keeps its depth. What you offer after the long pause carries more than anything said in a hurry.
+fortuneMost2: What you offer after the long pause carries more than anything said in a hurry.
 fortuneHigh: A decision is simmering and you're tempted to taste it early. Let it cook itself down.
-fortuneHigh2: Answer the thing that was actually asked. The deeper one underneath it can wait for a deeper pot.
+fortuneHigh2: Answer the thing that was actually asked.
 fortuneMid: The pot finished a while ago and now you're only guarding it. Ladle it out before the depth turns to sediment.
 fortuneMid2: You stopped weighing it a turn back, whatever you keep telling the room. You've landed; say so.
-fortuneLow: Your composed quiet already reads as a verdict to everyone but you. Say the half-formed thing — the shape comes clear in the saying.
-fortuneLow2: Move at the pace of the people beside you for once, not the pace of the pot. You'll skip the long steep — and arrive while they're still there to arrive with.
+fortuneLow: Your composed quiet already reads as a verdict to everyone but you.
+fortuneLow2: Move at the pace of the people beside you for once, not the pace of the pot.
 fortuneLeast: Bitter orange straight, no soak, just the spark on the tongue — and the spark turns out right.
-fortuneLeast2: Out where the path forks, take it at a run. The bitterness sorts itself out behind you, the way it always meant to.
+fortuneLeast2: Out where the path forks, take it at a run.
 facetMostTitle: The Darkening Broth
 facetMost: Rain's coming and the others are already up, ready to bolt from the bus shelter. Stay seated. Read the sky a while longer before naming which way to run.
 facetHighTitle: Epazote, Held Back

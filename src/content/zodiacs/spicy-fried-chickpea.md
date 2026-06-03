@@ -12,16 +12,16 @@ antiBeans: [black, navy]
 friendlyForm: fermented
 antiForm: dried
 seasonalFortune: Batter meets oil and decides everything at once; the kitchen runs on the clock of a sputtering pan. Cold mornings find this house already loud.
-fortuneMost: The yes leaves your mouth before the offer finishes, and it's the right yes. The buttoned-up version of you would've stayed home and missed it.
-fortuneMost2: A spare seat, a moving train, a night nobody planned. It's coming your way, and it has your name on it.
-fortuneHigh: The unplanned road is the one you'll remember. Step onto it without testing the weather first.
+fortuneMost: The yes leaves your mouth before the offer finishes, and it's the right yes.
+fortuneMost2: A spare seat, a moving train, a night nobody planned.
+fortuneHigh: The unplanned road is the one you'll remember.
 fortuneHigh2: Something opens at the last minute and you're the one who turns up.
-fortuneMid: A small chance is sputtering in front of you. If weighing it takes too long, that hesitation is your answer.
-fortuneMid2: Leap. You'll land softer than you fear, and the details sort themselves on the way down.
-fortuneLow: The good part of the night comes after the lull, where you usually bolt. Staying feels like waste — sit through it anyway.
-fortuneLow2: What you've already settled into is worth finishing. Letting the new spark wait its turn chafes, and it also pays.
-fortuneLeast: Your hand's on the handle and the pan's not hot yet. Letting go to wait for the right heat goes against everything in you — which is exactly why it's the lesson.
-fortuneLeast2: Not every first sizzle is yours to chase. Some plans are better left exactly as planned, even when the stillness itches.
+fortuneMid: A small chance is sputtering in front of you.
+fortuneMid2: Leap.
+fortuneLow: The good part of the night comes after the lull, where you usually bolt.
+fortuneLow2: What you've already settled into is worth finishing.
+fortuneLeast: Your hand's on the handle and the pan's not hot yet.
+fortuneLeast2: Not every first sizzle is yours to chase.
 facetMostTitle: Green Chili, Hand Already Reaching
 facetMost: A market stall sells one-way bus tickets to a town you've never heard of, leaving in ten minutes. The wallet's already out.
 facetHighTitle: The Doorway as Hot Oil

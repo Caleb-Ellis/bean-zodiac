@@ -12,16 +12,16 @@ antiBeans: [navy, black]
 friendlyForm: roasted
 antiForm: dried
 seasonalFortune: A season when the rice quietly turns sweet in its own time. The almanac names this the long warming — when what was set aside earns its place at the table, and nothing recent tastes as deep.
-fortuneMost: Light the candles for the day nobody else clocked. You are the only almanac that keeps this one, and it deserves keeping.
+fortuneMost: Light the candles for the day nobody else clocked.
 fortuneMost2: A keepsake you set aside long ago is about to earn its place at the table.
-fortuneHigh: Somewhere a photo from years back is waiting to land in the right hands with no caption needed. Let it go to them.
-fortuneHigh2: The trip the two of you never stopped talking about wants telling again, all the way through, slow.
+fortuneHigh: Somewhere a photo from years back is waiting to land in the right hands with no caption needed.
+fortuneHigh2: The trip the two of you never stopped talking about wants telling again, all the way through.
 fortuneMid: Tell someone you love them in the dumbest way you can find — a song link, a sticker, no words.
 fortuneMid2: A small kept thing, no reason offered. Yours is reason enough.
-fortuneLow: Read the old postcard once more, aloud, on the walk out — then to the recycling. Even amazake is best while it's warm.
-fortuneLow2: The new message is asking for you now, before the old thread has finished pulling at your sleeve. Answer the one that's living.
-fortuneLeast: The face across from you is a memory still being made. Spend on it while it's here, not after.
-fortuneLeast2: Some boxes are lighter unopened. What you have was never the thing inside, though it costs you to walk past it.
+fortuneLow: Read the old postcard once more, aloud, on the walk out — then to the recycling.
+fortuneLow2: The new message is asking for you now, before the old thread has finished pulling at your sleeve.
+fortuneLeast: The face across from you is a memory still being made. Spend on it while it's here.
+fortuneLeast2: Some boxes are lighter unopened.
 facetMostTitle: The Bean From Last Winter
 facetMost: A ticket stub from a concert nobody else even remembers attending falls out of a coat pocket. You smooth it flat and find it a home.
 facetHighTitle: Amazake on the Spoon

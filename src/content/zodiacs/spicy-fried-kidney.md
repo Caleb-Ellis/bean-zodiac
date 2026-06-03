@@ -12,16 +12,16 @@ antiBeans: [butter, black]
 friendlyForm: smoked
 antiForm: dried
 seasonalFortune: A season ruled by the griddle's clatter. Roti gets chopped under a hot blade, chili meets oil, and the kitchen runs on quick weather — bright, loud, gone.
-fortuneMost: You say the thing nobody else will, in the moment it's actually true. Say it where it counts.
-fortuneMost2: The heat that rises in you is real weather — bright, loud, gone. Let it break, then let it pass.
-fortuneHigh: A too-polite table needs one sharp question dropped into it like chili into oil. Ask it, and stay for the answer.
-fortuneHigh2: Honestly hot beats carefully cold. Speak it warm; apologise for the timing if you must, never for the truth.
-fortuneMid: An edge is sitting under your calm. Let a little show before it builds — small heat clears the air that big heat would scorch.
-fortuneMid2: Name plainly what stung you and leave the blade in the drawer. Sharp without scorching is a range you have.
-fortuneLow: Read it twice before you swing. It wasn't aimed at you, and holding the blade still this once costs less than it feels like.
-fortuneLow2: Sit on the sting for a day. The edge goes out of it, and the regret goes with it.
-fortuneLeast: The weather's already turned, and your voice in it only feeds the storm. Lower your own flame and let it blow past — staying quiet inside it is the hardest thing you'll do.
-fortuneLeast2: You can feel a room sour before it shows. Catch your own heat early, before it lands; the catching never feels like strength, but it is.
+fortuneMost: You say the thing nobody else will, in the moment it's actually true.
+fortuneMost2: The heat that rises in you is real weather — bright, loud, gone.
+fortuneHigh: A too-polite table needs one sharp question dropped into it like chili into oil.
+fortuneHigh2: Honestly hot beats carefully cold.
+fortuneMid: An edge is sitting under your calm.
+fortuneMid2: Name plainly what stung you and leave the blade in the drawer.
+fortuneLow: Read it twice before you swing.
+fortuneLow2: Sit on the sting for a day.
+fortuneLeast: The weather's already turned, and your voice in it only feeds the storm.
+fortuneLeast2: You can feel a room sour before it shows.
 facetMostTitle: Blades on Iron
 facetMost: A driver cuts the queue at the ferry ramp and shrugs at you through the glass. You're out of the car and at their window before the heat even crests.
 facetHighTitle: A Scrape of Steel

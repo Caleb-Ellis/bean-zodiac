@@ -12,16 +12,16 @@ antiBeans: [adzuki, chickpea]
 friendlyForm: dried
 antiForm: roasted
 seasonalFortune: A season of long-cured things. The pale bean holds its shape under slow heat, and what is refined in this quarter keeps best when handled rarely.
-fortuneMost: When you finally say yes, the table sits straighter. Six things worn often beat sixty worn never.
-fortuneMost2: A pale bean holds its shape under slow heat. Your held distance isn't coldness — it's what gives the yes its weight when it comes.
+fortuneMost: When you finally say yes, the table sits straighter.
+fortuneMost2: A pale bean holds its shape under slow heat.
 fortuneHigh: One thing turned an inch before the door opens — a chair, a vase, the framed print — and the whole evening tilts toward grace.
-fortuneHigh2: An honour you didn't chase is being readied for you. It'll suit you; you've kept yourself fine enough to wear it.
-fortuneMid: You owe no explanation for every no, but you owe full presence to the one yes. Spend that yes like good wine.
-fortuneMid2: Refinement isn't reach. Hold the standard, but let one unrefined thing through the door without sage and staging first.
-fortuneLow: The plate and the candle were a deal struck with someone who isn't even watching. Eat it cold over the sink — the bareness of that will sting your pride a little.
-fortuneLow2: Somewhere a stranger's question is waiting. Say yes to it, the borrowed coat, the late drink; polish was never required, even if going without feels like arriving undressed.
-fortuneLeast: Answer the door barefoot, holding the wrong glass. They came for you, not the staging — though it costs you the version you'd rather be seen as.
-fortuneLeast2: Wear the shirt with the stain, leave the bed unmade. Reachable beats immaculate, and yes, you'll feel the slack in the broth.
+fortuneHigh2: An honour you didn't chase is being readied for you.
+fortuneMid: You owe no explanation for every no, but you owe full presence to the one yes.
+fortuneMid2: Refinement isn't reach.
+fortuneLow: The plate and the candle were a deal struck with someone who isn't even watching.
+fortuneLow2: Somewhere a stranger's question is waiting.
+fortuneLeast: Answer the door barefoot, holding the wrong glass.
+fortuneLeast2: Wear the shirt with the stain, leave the bed unmade.
 facetMostTitle: Pancetta, Hung High
 facetMost: One quiet drawing, seen properly, over the whole crowded wing skimmed — that's how you'd spend the afternoon at the gallery.
 facetHighTitle: Sage Before the Pan

@@ -12,16 +12,16 @@ antiBeans: [mung, navy]
 friendlyForm: fried
 antiForm: boiled
 seasonalFortune: A season of ponzu's slow seep — surfaces shine, and underneath the brine works its long question into the bean.
-fortuneMost: Follow the question past its useful end. You'll finish with new questions pinned to the margin — and that's the harvest, not the waste.
-fortuneMost2: A door is about to open in the middle of an ordinary sentence. Step through it; the conversation on the far side of the small talk is the one you were owed.
-fortuneHigh: Ask the second question, the one past polite. People light up at being asked the thing no one ever thinks to.
-fortuneHigh2: Ponzu works its long question slowly into the bean. A stranger rewards patience the same way — stay past the headline and someone interesting surfaces.
-fortuneMid: Cook a few pages past the recipe you'd default to. The familiar first page is for browsers; you're not a browser.
-fortuneMid2: One thing you don't understand is tugging at you. Let it pull. Following it isn't a detour — it's the road.
-fortuneLow: Cook the dish you already trust. Foraging a brand-new one while you're hungry is how you end up eating cereal — and yes, the known one will feel a touch dull.
-fortuneLow2: The known thing feeds you too. Not every gap needs filling now; some questions keep fine on the shelf, even if leaving them there itches.
-fortuneLeast: Leave the lid on. Some things cook better when nobody keeps lifting it to ask how they're doing, and the not-asking will cost you something.
-fortuneLeast2: Let a few corners of the house keep their own quiet. Walking past a loose thread without pulling it is a small discipline, and worth the ache.
+fortuneMost: Follow the question past its useful end.
+fortuneMost2: A door is about to open in the middle of an ordinary sentence.
+fortuneHigh: Ask the second question, the one past polite.
+fortuneHigh2: A stranger rewards patience the same way — stay past the headline and someone interesting surfaces.
+fortuneMid: Cook a few pages past the recipe you'd default to.
+fortuneMid2: One thing you don't understand is tugging at you.
+fortuneLow: Cook the dish you already trust.
+fortuneLow2: The known thing feeds you too.
+fortuneLeast: Leave the lid on.
+fortuneLeast2: Let a few corners of the house keep their own quiet.
 facetMostTitle: The Lifted Katsuobushi
 facetMost: Already on the third step before you've decided to go — an unmarked stairwell spirals down off the back of the museum, no sign saying you can't.
 facetHighTitle: Sesame Across the Plate

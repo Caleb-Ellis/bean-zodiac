@@ -12,16 +12,16 @@ antiBeans: [fava, navy]
 friendlyForm: fermented
 antiForm: smoked
 seasonalFortune: A season that keeps the oil at temperature. Soft answers blister off the surface; the bitter pepper carries further than the polite word, and the kitchen learns it.
-fortuneMost: Say the difficult thing plainly, names and edges intact. A gentler fourth rehearsal won't make it any truer.
-fortuneMost2: A door you keep walking past, and behind it the conversation that won't soften while you stall. You're the one who can open it. Knock.
-fortuneHigh: The whole pan is circling for a cooler spot, hoping someone walks into the disagreement straight on. Be the one. Watch the room exhale.
-fortuneHigh2: The thing that needs saying won't soften for being held. Bring it up next time you cross paths, plainly, and it lands whole.
-fortuneMid: That appointment won't move itself off a fourth list. You know the one. It only goes by being made.
-fortuneMid2: A slow ache wants naming to someone who can help, not another month of waiting it out. Said plainly is how it gets seen.
-fortuneLow: The cooled version of the fight is the one worth having. Hold the match while the heat burns off — it galls, and it's right.
-fortuneLow2: Not every slight needs answering the moment it lands. Do the dishes yourself this once. It rankles; it keeps the peace cheaper.
-fortuneLeast: Not your fight. The quieter chair sits wrong, and the loud one shouts itself out faster with no one to push against.
-fortuneLeast2: Some rooms settle on their own if you don't charge in. Move the lamp, shift your chair, leave the noise unnamed. Going quiet chafes — and it works.
+fortuneMost: Say the difficult thing plainly, names and edges intact.
+fortuneMost2: A door you keep walking past, and behind it the conversation that won't soften while you stall.
+fortuneHigh: The whole pan is circling for a cooler spot, hoping someone walks into the disagreement straight on.
+fortuneHigh2: The thing that needs saying won't soften for being held.
+fortuneMid: That appointment won't move itself off a fourth list.
+fortuneMid2: A slow ache wants naming to someone who can help, not another month of waiting it out.
+fortuneLow: The cooled version of the fight is the one worth having.
+fortuneLow2: Not every slight needs answering the moment it lands.
+fortuneLeast: Not your fight.
+fortuneLeast2: Some rooms settle on their own if you don't charge in.
 facetMostTitle: Oil, No Secrets
 facetMost: Someone cuts the long queue at the bakery and the line just sighs and lets it slide. Not you — you say it out loud, the end's back there, while the whole shop turns to look.
 facetHighTitle: Bitter Pepper in the Room

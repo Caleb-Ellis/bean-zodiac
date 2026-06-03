@@ -12,16 +12,16 @@ antiBeans: [kidney, cannellini]
 friendlyForm: fermented
 antiForm: boiled
 seasonalFortune: A long sweetness gathers in the dark of the pantry; what was set aside seasons itself, and the year tastes of what the year remembers.
-fortuneMost: A scrapbook fanned open across a table — nothing crosses your threshold without earning a shelf, postcard and stub and dated jar, each with its story ready. Write the day down; a later you will be grateful you kept it.
-fortuneMost2: Someone names a city and out comes the long sweet tangent, the rained-out week, the café with the broken chair, told pause for pause and none the worse for it. You carry the past so it doesn't go unwitnessed.
-fortuneHigh: A map with every old route still inked. Open the page you left hanging years back and answer it — the line you wrote young still has work in it.
-fortuneHigh2: Pick the long story that explains the most and trust them to keep up. Offering the deep cut is how you let a person actually meet you.
+fortuneMost: A scrapbook fanned open across a table — nothing crosses your threshold without earning a shelf, postcard and stub and dated jar, each with its story ready.
+fortuneMost2: Someone names a city and out comes the long sweet tangent — the rained-out week, the café with the broken chair, told pause for pause.
+fortuneHigh: A map with every old route still inked. Open the page you left hanging years back and answer it.
+fortuneHigh2: Pick the long story that explains the most and trust them to keep up.
 fortuneMid: The archive opens beautifully when someone asks; opened unasked, it's a museum tour. Give three sentences and leave the fourth for their question.
-fortuneMid2: Let the present be only itself once. Not everything needs routing back to a story already told — and unhooking it will feel like leaving something out.
-fortuneLow: Go and make a memory instead of filing one. The person here wants the you that's still happening, not the curated one.
-fortuneLow2: Replace the chipped mug with no ceremony; the new one pours just as well. Living a little lighter won't erase you, though setting a keepsake down will tug as you do it.
-fortuneLeast: Let the photos clear from the roll the night you take them. The night was the night; you lived it whether or not you hold it.
-fortuneLeast2: A fresh page with nothing on it yet. Say "not much to tell," pass the bread, open no archive — you're allowed to be only present, unfiled, meeting someone with nothing but who you are right now.
+fortuneMid2: Let the present be only itself once.
+fortuneLow: Go and make a memory instead of filing one.
+fortuneLow2: Replace the chipped mug with no ceremony; the new one pours just as well.
+fortuneLeast: Let the photos clear from the roll the night you take them.
+fortuneLeast2: A fresh page with nothing on it yet. Say "not much to tell," pass the bread, open no archive.
 facetMostTitle: Vanilla Past Its Bean
 facetMost: A passing remark about an old harbour town cracks the whole thing open. Out it all pours — the storm-stranded ferry, the inn with the crooked stairs — told beat for beat.
 facetHighTitle: Every Crimp Remembered

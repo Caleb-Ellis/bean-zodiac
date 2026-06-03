@@ -12,16 +12,16 @@ antiBeans: [fava, butter]
 friendlyForm: fried
 antiForm: fermented
 seasonalFortune: A dry wok throws sparks before the oil arrives. The season belongs to those who carry their own heat into the room, blistering the skin of the day until the garlic catches.
-fortuneMost: You change the wattage of a place the minute you arrive. Pour it into something built to hold the charge, not the first wire you grab.
-fortuneMost2: A dry wok throws sparks before the oil ever arrives. The day belongs to whoever carries their own heat in.
-fortuneHigh: Charge has to land somewhere. Aim it at the work that's been waiting for your kind of current.
-fortuneHigh2: Pull two people into the sharper conversation and the whole place sits up. Just don't leave the gentler ones flattened in the wake.
-fortuneMid: Run the energy into the project, not the nearest person. A friend isn't a wall to discharge into.
-fortuneMid2: The cadence picks up on less than you think. Half the volume sharpens a slack hour as well as full.
-fortuneLow: Pour slower. The person across from you is holding paper, not wire — and easing off the throttle won't earth you for good.
-fortuneLow2: Let the quick reply sit overnight, and morning trims it to the one line worth sending. Sitting on a spark is a discipline, and not your easy one.
-fortuneLeast: The current can sit quiet in the wall and lose nothing. Move at the day's own tempo, though the stillness will itch at you.
-fortuneLeast2: A calm day arrives and asks nothing of your charge. Let someone else be the weather, even if your hands want a switch to flip.
+fortuneMost: You change the wattage of a place the minute you arrive.
+fortuneMost2: A dry wok throws sparks before the oil ever arrives.
+fortuneHigh: Charge has to land somewhere.
+fortuneHigh2: Pull two people into the sharper conversation and the whole place sits up.
+fortuneMid: Run the energy into the project, not the nearest person.
+fortuneMid2: The cadence picks up on less than you think.
+fortuneLow: Pour slower.
+fortuneLow2: Let the quick reply sit overnight, and morning trims it to the one line worth sending.
+fortuneLeast: The current can sit quiet in the wall and lose nothing.
+fortuneLeast2: A calm day arrives and asks nothing of your charge.
 facetMostTitle: Oil Before the Bean
 facetMost: A blackout drops the whole block into dark and quiet. Minutes later the neighbours are out on the stoop with candles and a half-shouted plan of yours, the night turned into something none of them will forget.
 facetHighTitle: Garlic Hits the Pan

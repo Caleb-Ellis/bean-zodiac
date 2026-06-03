@@ -12,16 +12,16 @@ antiBeans: [black, navy]
 friendlyForm: fried
 antiForm: dried
 seasonalFortune: A season of crackled skins and shared lime. The bitter rind softens against company; the chaat-eater of this kind moves toward the loudest table and finds the bowl already half-eaten.
-fortuneMost: You drift to the loudest table and inside a minute the chutney's being argued over. That's the gift, and it's working.
-fortuneMost2: A face you haven't met yet is about to walk in and be a friend before the lime is gone. Your luck this turn is strangers.
-fortuneHigh: The company worth having is the one hovering by their coat near the door, not the one holding the floor. Point yourself there.
+fortuneMost: You drift to the loudest table and inside a minute the chutney's being argued over.
+fortuneMost2: A face you haven't met yet is about to walk in and be a friend before the lime is gone.
+fortuneHigh: The company worth having is the one hovering by their coat near the door, not the one holding the floor.
 fortuneHigh2: A second chair pulled out, and someone you weren't expecting comes to fill it.
-fortuneMid: An hour dropped in is enough to read a room. You don't owe a gathering the whole night to belong to it.
-fortuneMid2: A bowl set out on the counter draws people on its own. Not every welcome needs you carrying it across the floor.
-fortuneLow: An hour with the phone face-down hands you back your own opinion instead of the last one you heard. Keep it — though the quiet will feel like missing out.
-fortuneLow2: There's a thread of what you actually think waiting in the empty room. It costs you the company to go and find it, and the trip is worth making.
-fortuneLeast: A long stretch of your own company is coming — no chatter, no podcast laid over the top of it. The quiet has something to tell you, if you can sit still long enough to hear it.
-fortuneLeast2: Take the walk alone, no one to call, nothing in your ears but the road. An empty afternoon is rest, not a hole to fill — though your thumb will keep drifting toward the chat.
+fortuneMid: An hour dropped in is enough to read a room.
+fortuneMid2: A bowl set out on the counter draws people on its own.
+fortuneLow: An hour with the phone face-down hands you back your own opinion instead of the last one you heard.
+fortuneLow2: There's a thread of what you actually think waiting in the empty room.
+fortuneLeast: A long stretch of your own company is coming — no chatter, no podcast laid over the top of it.
+fortuneLeast2: Take the walk alone, no one to call, nothing in your ears but the road.
 facetMostTitle: Char Is Conversation
 facetMost: Stranded an hour at a delayed gate, you've struck up something with the woman beside you and three others have drifted into it before the boarding call.
 facetHighTitle: The Lime's Kept Sting

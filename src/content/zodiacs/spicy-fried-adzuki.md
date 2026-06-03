@@ -12,16 +12,16 @@ antiBeans: [black, butter]
 friendlyForm: fermented
 antiForm: smoked
 seasonalFortune: A season of full pans and loud oil. The batter spits before it sets; the red bleeds early into everything it touches, and the kitchen forgets how to be quiet.
-fortuneMost: Small good news, in your hands, becomes a reason to call three more people. Make the noise.
+fortuneMost: Small good news, in your hands, becomes a reason to call three more people.
 fortuneMost2: A door opens mid-sentence and the whole street hears you coming.
-fortuneHigh: The quiet ones lean toward your heat. You redden the pan and they warm their hands at it.
+fortuneHigh: The quiet ones lean toward your heat.
 fortuneHigh2: One big toast, poured the way you mean it, beats three polite ones.
 fortuneMid: Somewhere under this ordinary errand a celebration is crackling.
-fortuneMid2: A windfall is on the road, and it's worth more shared than hoarded. You already know who to call.
-fortuneLow: Luck that arrives loud can leave just as fast. Give this one time to set in the pan before you flip it.
-fortuneLow2: Bank the big spark for when it's truly earned. It's a quiet week to spend, but the bank pays out.
-fortuneLeast: An ordinary day, left ordinary, has a quiet luck of its own — though your hands will itch to redden it.
-fortuneLeast2: Carry a friend's good news without making it an event. It costs you the noise; it spares them the morning after.
+fortuneMid2: A windfall is on the road, and it's worth more shared than hoarded.
+fortuneLow: Luck that arrives loud can leave just as fast. Give this one time to set in the pan.
+fortuneLow2: Bank the big spark for when it's truly earned.
+fortuneLeast: An ordinary day, left ordinary, has a quiet luck of its own.
+fortuneLeast2: Carry a friend's good news without making it an event.
 facetMostTitle: Gochugaru on the Fingertips
 facetMost: The bus is packed and a stranger two seats over laughs at something on their phone. You ask what's funny and pull the whole row in.
 facetHighTitle: The Pancake Torn From the Skillet

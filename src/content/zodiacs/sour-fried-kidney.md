@@ -12,16 +12,16 @@ antiBeans: [butter, fava]
 friendlyForm: fermented
 antiForm: smoked
 seasonalFortune: A patty pressed against a hot pan keeps its shape by refusing the oil; the tamarind stays sour beside it, and neither softens the other.
-fortuneMost: A wrong sentence is hardening into something everyone nods along to, and you're the one who won't let it set. Crack it by name, sharp as tamarind beside a fried patty.
-fortuneMost2: You can't walk away with a false thing left standing, and you shouldn't have to. Say the harder thing back, plainly, out loud.
-fortuneHigh: Stand on the position you actually hold, not the clean defensible one that belongs to a stranger. The messier, truer argument is the one worth making.
-fortuneHigh2: A soft claim deserves the sharp answer, and you've got it ready while people are still listening. Give it straight — like a patty that keeps its shape by refusing the oil.
-fortuneMid: Give up the small point first, fast and without ceremony. The big one lands far harder once it isn't dragging the little quarrels behind it.
-fortuneMid2: A thin apology has its gaps, and you'll see every one. Mark them privately and take it anyway.
-fortuneLow: They were right, and the rebuttal you keep rehearsing is for your comfort, not their correction. Let it stand. The win you'd score isn't worth what it costs, even though letting go will gall you.
-fortuneLow2: When people fall to disagreeing over a meal, refill the glasses and let the talk drift elsewhere. Steering away from the fight runs against your grain; the evening mends itself when you allow it.
-fortuneLeast: The seat across from you empties while you're still pressing the point. Some arguments are worth abandoning mid-breath — even when leaving one unfinished feels like losing.
-fortuneLeast2: A thing said wrong about you can simply drift off downwind, forgotten by morning. The splinter works itself out cheaper than the fight would, though leaving it will itch.
+fortuneMost: A wrong sentence is hardening into something everyone nods along to, and you're the one who won't let it set.
+fortuneMost2: You can't walk away with a false thing left standing, and you shouldn't have to.
+fortuneHigh: Stand on the position you actually hold, not the clean defensible one that belongs to a stranger.
+fortuneHigh2: A soft claim deserves the sharp answer, and you've got it ready while people are still listening.
+fortuneMid: Give up the small point first, fast and without ceremony.
+fortuneMid2: A thin apology has its gaps, and you'll see every one.
+fortuneLow: They were right, and the rebuttal you keep rehearsing is for your comfort, not their correction.
+fortuneLow2: When people fall to disagreeing over a meal, refill the glasses and let the talk drift elsewhere.
+fortuneLeast: The seat across from you empties while you're still pressing the point.
+fortuneLeast2: A thing said wrong about you can simply drift off downwind, forgotten by morning.
 facetMostTitle: Tamarind Through the Room
 facetMost: A tour guide rattles off a date for the old bridge that you happen to know is wrong. Up goes your hand to set the record straight, group and all.
 facetHighTitle: Reply in Oil-Spit

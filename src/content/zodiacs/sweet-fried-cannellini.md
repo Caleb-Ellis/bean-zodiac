@@ -12,16 +12,16 @@ antiBeans: [butter, mung]
 friendlyForm: dried
 antiForm: fermented
 seasonalFortune: A season of split skins and warm sugar; rooms fill quickly around the bean that arrives still hissing from the oil.
-fortuneMost: Let the compliment out in full, crack in the middle if it cracks. The polished one was never going to reach them.
+fortuneMost: Let the compliment out in full, crack in the middle if it cracks.
 fortuneMost2: Warm sugar, split skins, rooms filling fast around you — this is a stretch where what you feel will keep arriving on your face first, and landing.
-fortuneHigh: '"You look great!" is a postcard. Write them the letter.'
-fortuneHigh2: An unprompted fondness is going to surface for someone. Hand it over while it's still hissing from the oil.
+fortuneHigh: '"You look great!" is a postcard.'
+fortuneHigh2: An unprompted fondness is going to surface for someone.
 fortuneMid: Say it through the wrist instead of the mouth — cook for them, hum the thing, let your hands carry the part you can't quite voice.
-fortuneMid2: Feel it all the way, then offer the part that's still true once it cools. The cooled version reaches further.
-fortuneLow: One beat before the next sentence. Leave the gap and let them step into it, even when the quiet itches.
-fortuneLow2: They don't need the whole feeling narrated. Hand them less than you've got — the shorter telling is the one they can hold.
-fortuneLeast: Ask the question, then go quiet and stay quiet. They'll use the room if you don't fill it.
-fortuneLeast2: Hold the pause. Nobody needs warming this time, and sitting in the cool of it will cost you a little.
+fortuneMid2: Feel it all the way, then offer the part that's still true once it cools.
+fortuneLow: One beat before the next sentence.
+fortuneLow2: They don't need the whole feeling narrated.
+fortuneLeast: Ask the question, then go quiet and stay quiet.
+fortuneLeast2: Hold the pause.
 facetMostTitle: Cinnamon on Every Fingertip
 facetMost: The fireworks crack open over the water and your gasp comes out loud and helpless, hands grabbing the nearest arm — a stranger's, it turns out, and you don't let go to apologize.
 facetHighTitle: Steam at the Table

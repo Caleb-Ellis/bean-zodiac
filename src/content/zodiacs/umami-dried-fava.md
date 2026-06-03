@@ -12,16 +12,16 @@ antiBeans: [butter, adzuki]
 friendlyForm: fried
 antiForm: roasted
 seasonalFortune: A season for what has cured slow in the dark. The puree settles thickest at the bottom of the pot; weight gathers in those who have waited out their own softening.
-fortuneMost: Wherever you stand, the day organises itself around you. Take up your full height and don't apologise for the space — others steady themselves on it.
-fortuneMost2: A weight is coming that nobody else will want to carry. You'll carry it well.
-fortuneHigh: The hard question is yours to take first, before anyone else has to flinch at it. Meet it head-on and watch the others breathe easier.
-fortuneHigh2: An oak doesn't move in the wind that moves the field. Stand where you are and let the gust find you immovable.
+fortuneMost: Wherever you stand, the day organises itself around you.
+fortuneMost2: A weight is coming that nobody else will want to carry.
+fortuneHigh: The hard question is yours to take first, before anyone else has to flinch at it.
+fortuneHigh2: An oak doesn't move in the wind that moves the field.
 fortuneMid: Finish the thing even after the day has emptied out around it.
-fortuneMid2: Be firm, then be patient — walk them through it, then ask what they'd do differently. The two together hold more than firmness alone.
-fortuneLow: Lead with the warm thing and let the harder one wait a day. Correction lands cleaner once they know you're for them — and softening first will cost you a flicker of pride.
-fortuneLow2: Sleep light, eat when hungry, and trust your own weight to warn you before the day does. You needn't brace for everything, hard as standing down comes to you.
-fortuneLeast: Ask after someone before anything else. The strength can rest a while — though setting it down never feels quite safe to you.
-fortuneLeast2: Tell them it really isn't a big deal and send them off light. Not every moment wants your full height — even if standing down feels like leaving a door unguarded.
+fortuneMid2: Be firm, then be patient — walk them through it, then ask what they'd do differently.
+fortuneLow: Lead with the warm thing and let the harder one wait a day.
+fortuneLow2: Sleep light, eat when hungry, and trust your own weight to warn you before the day does.
+fortuneLeast: Ask after someone before anything else.
+fortuneLeast2: Tell them it really isn't a big deal and send them off light.
 facetMostTitle: The Dense Puree
 facetMost: Feet planted, voice up over the noise, hands pointing people where to go — that's you the moment a panicking crowd jams at the blocked stairwell and nobody else steps up.
 facetHighTitle: Chicory Held to a Fraction

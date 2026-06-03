@@ -12,16 +12,16 @@ antiBeans: [navy, black]
 friendlyForm: roasted
 antiForm: dried
 seasonalFortune: A long cellar season. Miso darkens behind closed doors and the year asks for what has been kept rather than what is new. Old crocks earn their keep.
-fortuneMost: You are the one who remembers the good year on everyone's behalf. Give someone back the part of it they'd forgotten was theirs.
-fortuneMost2: An old name surfaces again, the way a crock keeps after years in the dark. Reach back before you talk yourself out of it.
-fortuneHigh: Someone will tell a season you both lived wrong. Keep the true version yourself; it loses nothing in your keeping.
+fortuneMost: You are the one who remembers the good year on everyone's behalf.
+fortuneMost2: An old name surfaces again, the way a crock keeps after years in the dark.
+fortuneHigh: Someone will tell a season you both lived wrong. Keep the true version yourself.
 fortuneHigh2: A few bars of a song, heard from a passing car, and a whole afternoon comes back intact.
 fortuneMid: There's a question only an old friend can answer. Ask it.
-fortuneMid2: What's already opened has only gone deeper. Finish the aged jar before you crack the new one.
-fortuneLow: The road ahead has gone brighter than the thing you keep turning over. Step out the door — though it's no small thing to leave the cellar at your back.
-fortuneLow2: Some things are done and won't call you back, and the quiet they leave is room, not loss. It won't feel like room at first.
-fortuneLeast: Someone hands you a box of their own old weather. Let it go on unopened — even when your hands, out of long habit, want to keep it.
-fortuneLeast2: Replace the worn thing instead of mending it once more. The shelf will sit strange and empty a while; travel light anyway.
+fortuneMid2: What's already opened has only gone deeper.
+fortuneLow: The road ahead has gone brighter than the thing you keep turning over.
+fortuneLow2: Some things are done and won't call you back, and the quiet they leave is room, not loss.
+fortuneLeast: Someone hands you a box of their own old weather. Let it go on unopened.
+fortuneLeast2: Replace the worn thing instead of mending it once more.
 facetMostTitle: The Weighted Lid
 facetMost: The flat where you grew up is up for sale and the listing has photos. You scroll every room twice and read the description down to the carpet.
 facetHighTitle: Last Winter's Batch

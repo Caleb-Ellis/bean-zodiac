@@ -12,16 +12,16 @@ antiBeans: [cannellini, edamame]
 friendlyForm: fried
 antiForm: dried
 seasonalFortune: A season scented with cardamom and warm honey. The air thickens with small invitations; rooms hum a half-tone brighter, and what passes for ordinary arrives glazed.
-fortuneMost: The ridiculous plan, the wrong hour, the wrong song. Suggest it — people follow you out the door, they always have.
-fortuneMost2: You feel a gathering tilt toward boredom three minutes before anyone else. That early-warning is the whole trick; move while you still can.
-fortuneHigh: There's a guest stuck by the wall nobody's cracked open. Go to them and stay until they laugh.
-fortuneHigh2: A dull four-hour wait turns into the best part of the trip this turn. You make queues into stories without trying.
-fortuneMid: Walk into a quiet place and leave it a half-tone louder than you found it. You needn't be the whole party to lift one.
-fortuneMid2: Say yes to the small plan and let it be plenty. Not every night needs a second venue to count.
-fortuneLow: A friend asks how you really are — skip the punchline that's already loaded and try the second sentence. The clean exit will be hard to pass up; pass it up.
-fortuneLow2: An invitation goes by, and the evening passes pleasantly without you in it. Both things are true at once.
-fortuneLeast: Mute the loud threads, call the one voice you actually wanted to hear. Going small feels like missing out, but one real person beats a hundred laughing ones.
-fortuneLeast2: When the noise has nothing left to give you, the hush two terminals over does. Walk toward it.
+fortuneMost: The ridiculous plan, the wrong hour, the wrong song.
+fortuneMost2: You feel a gathering tilt toward boredom three minutes before anyone else.
+fortuneHigh: There's a guest stuck by the wall nobody's cracked open.
+fortuneHigh2: A dull four-hour wait turns into the best part of the trip this turn.
+fortuneMid: Walk into a quiet place and leave it a half-tone louder than you found it.
+fortuneMid2: Say yes to the small plan and let it be plenty.
+fortuneLow: A friend asks how you really are — skip the punchline that's already loaded and try the second sentence.
+fortuneLow2: An invitation goes by, and the evening passes pleasantly without you in it.
+fortuneLeast: Mute the loud threads, call the one voice you actually wanted to hear.
+fortuneLeast2: When the noise has nothing left to give you, the hush two terminals over does.
 facetMostTitle: The Blister Catching
 facetMost: The bus breaks down on a country road and everyone groans into their phones. By the time it's fixed you've got half of them learning a clapping game.
 facetHighTitle: Cinnamon Thrown on Coals

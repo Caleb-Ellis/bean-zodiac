@@ -13,15 +13,15 @@ friendlyForm: roasted
 antiForm: roasted
 seasonalFortune: A life lived in the smoke-sweetness of late evening — brown sugar darkening over coals, mochi blistering, the room leaning toward whoever last spoke.
 fortuneMost: Strangers will warm their hands at you and go home glowing without knowing why.
-fortuneMost2: You arrive late and the evening rearranges itself around you mid-sentence, coats still on. This is simply what you do to a room.
+fortuneMost2: You arrive late and the evening rearranges itself around you mid-sentence, coats still on.
 fortuneHigh: A wary one will tell you the thing they've told no one, then leave lighter than they came.
-fortuneHigh2: Some grey, ordinary afternoon catches fire the moment you walk into it — the good day you were saving for, arriving early.
-fortuneMid: Sign the small thing you made by hand and give it away. A little of your warmth goes with it.
-fortuneMid2: Pour the kind word while it still steams. Felt and unspoken, syrup just cools in the pot.
-fortuneLow: Read by one lamp with the door pulled half-to, the bright front room left dark. The quiet will sit strange on you at first.
-fortuneLow2: Cook for one person and don't name who it's for. They'll taste themselves in it — and you needn't be in the room to watch.
+fortuneHigh2: Some grey, ordinary afternoon catches fire the moment you walk into it.
+fortuneMid: Sign the small thing you made by hand and give it away.
+fortuneMid2: Pour the kind word while it still steams.
+fortuneLow: Read by one lamp with the door pulled half-to, the bright front room left dark.
+fortuneLow2: Cook for one person and don't name who it's for.
 fortuneLeast: A banked fire holds its heat long after the flames are gone.
-fortuneLeast2: Let the message go unanswered and the screen go dark. An evening no one can find you in is a rest you rarely allow yourself, even if missing it stings.
+fortuneLeast2: Let the message go unanswered and the screen go dark.
 facetMostTitle: Syrup at the Lowest Point
 facetMost: The waiting room is all coughs and averted eyes. Three minutes in, you've got the woman beside you laughing about her cat.
 facetHighTitle: Mochi Before It Browns

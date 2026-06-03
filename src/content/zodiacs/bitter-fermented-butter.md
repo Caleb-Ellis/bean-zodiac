@@ -14,14 +14,14 @@ antiForm: fried
 seasonalFortune: A season that rewards the jar left at the back of the shelf. Salt does the work no calendar can hurry, and the cooks who trust the dark are fed first when the cold sets in.
 fortuneMost: Among a dozen people talking, your one slow sentence is the one they'll still be turning over later.
 fortuneMost2: The second taste, after the broth has warmed and settled — that's the reading to trust.
-fortuneHigh: Someone will press you for an answer now. "Give me a while" is the whole reply — no caveats, no apology lap.
-fortuneHigh2: A long-steeped answer is on its way to you, whole and right. Let it finish.
-fortuneMid: A fact is missing from the picture and you know which one. Ask the person who holds it, plainly.
-fortuneMid2: An opinion you've kept for years may have quietly gone stale in the jar. Admit it aloud and the talk gets truer, even as you give up looking certain.
-fortuneLow: A decision is being made without you, and made wrong. Speaking before you've finished steeping feels premature — speak anyway; the silence costs more here.
-fortuneLow2: Sometimes the first taste is the honest one and a long steep only buries it. Say it half-sure; the rough version reaches people the polished one wouldn't.
-fortuneLeast: The first thing in your mouth has been brewing longer than you think — it just never asked permission to surface. Trust it sooner, and forgive it if it lands rough.
-fortuneLeast2: Some decisions land already finished — call the people who love you while it's still warm, before the doubt arrives to talk you out of it.
+fortuneHigh: Someone will press you for an answer now.
+fortuneHigh2: A long-steeped answer is on its way to you, whole and right.
+fortuneMid: A fact is missing from the picture and you know which one.
+fortuneMid2: An opinion you've kept for years may have quietly gone stale in the jar.
+fortuneLow: A decision is being made without you, and made wrong.
+fortuneLow2: Sometimes the first taste is the honest one and a long steep only buries it.
+fortuneLeast: The first thing in your mouth has been brewing longer than you think — it just never asked permission to surface.
+fortuneLeast2: Some decisions land already finished — call the people who love you while it's still warm.
 facetMostTitle: Steeped Past Clever
 facetMost: A poll closes in two minutes and everyone's tapping a quick vote. You read both sides over twice and you're still weighing it as the timer runs down.
 facetHighTitle: Greens Under Salt

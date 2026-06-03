@@ -12,16 +12,16 @@ antiBeans: [adzuki, cannellini]
 friendlyForm: fermented
 antiForm: fermented
 seasonalFortune: Oil at temperature, dough rising mid-air — a season that rewards the hand that drops without looking, and forgives the puff that splits.
-fortuneMost: Say it to their face before you've rehearsed it. The person, the job, the trip — pick one and let it land.
-fortuneMost2: Oil at temperature, dough dropping mid-air without a look down. This is your kind of week, and the shape sets right more often than not.
+fortuneMost: Say it to their face before you've rehearsed it.
+fortuneMost2: Oil at temperature, dough dropping mid-air without a look down.
 fortuneHigh: Take someone with you on the leap. Half the courage is theirs, and half the story will be too.
-fortuneHigh2: Catch them at the door before the room registers you crossed it. The moment waits a shorter while than you fear.
+fortuneHigh2: Catch them at the door before the room registers you crossed it.
 fortuneMid: Smile, mean it, ask the bold thing anyway. The warmth is what makes it land.
-fortuneMid2: Count what the jump will cost you, then jump. Naming the price isn't the same as flinching.
-fortuneLow: Not every move is a high-dive. This one's a slow descent; sit down and let the talking take its time.
-fortuneLow2: Some plans want to cure overnight before they reach the table. Letting one rest isn't losing your nerve, though it'll feel like it.
-fortuneLeast: When the dough splits, someone is owed a long, unhurried talk. Make the time and don't joke your way out of it.
-fortuneLeast2: Let them go without spinning a story about why. A moment left unjumped is allowed.
+fortuneMid2: Count what the jump will cost you, then jump.
+fortuneLow: Not every move is a high-dive.
+fortuneLow2: Some plans want to cure overnight before they reach the table.
+fortuneLeast: When the dough splits, someone is owed a long, unhurried talk.
+fortuneLeast2: Let them go without spinning a story about why.
 facetMostTitle: Dough Mid-Thought
 facetMost: Off the rock and into the water before fear can find the brakes — the cliff divers are lined up, a local's dared you onto the ledge, and you're not about to look down twice.
 facetHighTitle: The First Question

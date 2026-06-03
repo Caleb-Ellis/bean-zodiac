@@ -12,16 +12,16 @@ antiBeans: [mung, adzuki]
 friendlyForm: dried
 antiForm: roasted
 seasonalFortune: A season of cold smoke and quick heat; the rooms this person enters tilt toward the door they came through, the air already changed before anyone looks up.
-fortuneMost: Yuzu kosho hits before you've named the heat, and so do you — moving while everyone's still calibrating, right more often than not. Give them one beat to brace; that's all the heat owes.
-fortuneMost2: The boundary lands flat, no preamble, and what was costing you is done. The clean cut was the kindness — don't reach back to soften it.
-fortuneHigh: Lead with the verdict and let them ask for the reasoning. The ask is their consent.
-fortuneHigh2: Say the whole hard thing once. Softening mid-swing reads worse than the swing.
-fortuneMid: State the problem plainly and let it carry its own weight. Being heard doesn't take escalation.
-fortuneMid2: Let wanting-to-confront settle into wanting-to-understand before you strike. Quick heat keeps a breath without going cold.
-fortuneLow: A boundary you stopped explaining leaves someone guessing, not told off, and the silence rots you both. Say the actual thing or let it go — picking is harder than glaring, and it's the work.
-fortuneLow2: A slight that cools by morning is telling you something. Not every wrong needs the full force you first reached for.
-fortuneLeast: Some fights aren't worth the smoke they'd fill the place with. Keep the broken thing and walk on — yes, it stings more than the swing would have.
-fortuneLeast2: The soft return is the strong move on the wind — the small apology, the second chance handed over without a fight. Offer it.
+fortuneMost: Yuzu kosho hits before you've named the heat, and so do you — moving while everyone's still calibrating, right more often than not.
+fortuneMost2: The boundary lands flat, no preamble, and what was costing you is done.
+fortuneHigh: Lead with the verdict and let them ask for the reasoning.
+fortuneHigh2: Say the whole hard thing once.
+fortuneMid: State the problem plainly and let it carry its own weight.
+fortuneMid2: Let wanting-to-confront settle into wanting-to-understand before you strike.
+fortuneLow: A boundary you stopped explaining leaves someone guessing, not told off — say the actual thing or let it go.
+fortuneLow2: A slight that cools by morning is telling you something.
+fortuneLeast: Some fights aren't worth the smoke they'd fill the place with.
+fortuneLeast2: The soft return is the strong move on the wind — the small apology, the second chance handed over without a fight.
 facetMostTitle: Yuzu Kosho, First Bite
 facetMost: Someone cuts in front of the family with three kids, and before anyone else has even sighed you've called it flat and sent them to the back of the line.
 facetHighTitle: Char Before the Salt

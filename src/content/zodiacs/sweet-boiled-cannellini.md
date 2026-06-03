@@ -12,16 +12,16 @@ antiBeans: [edamame, fava]
 friendlyForm: roasted
 antiForm: fermented
 seasonalFortune: A long sweet simmer hums through the season; the thyme steeps unseen, and small unasked-for warmths arrive at the door of one who has been quietly pouring.
-fortuneMost: Send the small thing to the one you've been thinking of, no reason attached. The missing reason is the whole gift.
-fortuneMost2: A kindness you slipped someone without a name on it is circling back to your own door. The thyme steeped while you weren't looking.
-fortuneHigh: Hand a stranger the bright little thing and slip off before they find the giver. The mystery is part of what you gave.
-fortuneHigh2: You'll have the help half-offered before they finish the sentence asking. Your generosity always runs a beat ahead of the request.
-fortuneMid: Do the small good thing while it's in your hand. Kindness meant but shelved for later is the kind that quietly goes off.
-fortuneMid2: The borrowed thing comes back washed, with thyme tucked in and the note already written. The care lives in the finish.
-fortuneLow: You've been pouring for a cup no one's holding out. Carry the bottle back inside and fill your own. Turning the warmth inward feels like keeping too much; it isn't.
-fortuneLow2: What's yours can stay yours, and no one goes poorer for it. Let one kindness pass unoffered without filing it as a failure — even when the not-offering itches.
-fortuneLeast: Giving that never asks back curdles, in time, into a ledger nobody agreed to keep. Say plainly what you need, out loud, to a face — it'll feel like more than you're owed right up until they're glad you asked.
-fortuneLeast2: You let the asker circle back twice before you'll move for yourself. Reach first this once and name what you actually want, even though wanting out loud is the hardest thing you do.
+fortuneMost: Send the small thing to the one you've been thinking of, no reason attached.
+fortuneMost2: A kindness you slipped someone without a name on it is circling back to your own door.
+fortuneHigh: Hand a stranger the bright little thing and slip off before they find the giver.
+fortuneHigh2: You'll have the help half-offered before they finish the sentence asking.
+fortuneMid: Do the small good thing while it's in your hand.
+fortuneMid2: The borrowed thing comes back washed, with thyme tucked in and the note already written.
+fortuneLow: You've been pouring for a cup no one's holding out.
+fortuneLow2: What's yours can stay yours, and no one goes poorer for it.
+fortuneLeast: Giving that never asks back curdles, in time, into a ledger nobody agreed to keep.
+fortuneLeast2: You let the asker circle back twice before you'll move for yourself.
 facetMostTitle: Vin Santo Before the Hour
 facetMost: The car ahead at the toll booth is fumbling for coins they clearly don't have. You wave the attendant on and cover it, and you're gone before they can roll their window down.
 facetHighTitle: The Lemon Peel, Unbidden

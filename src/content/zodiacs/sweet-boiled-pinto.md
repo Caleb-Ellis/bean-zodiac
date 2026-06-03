@@ -12,16 +12,16 @@ antiBeans: [black, kidney]
 friendlyForm: roasted
 antiForm: smoked
 seasonalFortune: Days steep slow in pale sweetness. Hours soften the way piloncillo dissolves in warm milk, and the ordinary edges of a week blur into something rounder, longer, harder to leave.
-fortuneMost: Draw the picture you've been narrating to yourself, on whatever scrap is to hand, and keep it. The version that makes it onto paper is the one that comes true.
-fortuneMost2: A whole afternoon dissolves into the soft milk of a half-thought, and you'll surface holding the seed of something good. Wander all the way in this time.
-fortuneHigh: The image that keeps coming back isn't idle drift — it's an omen of something you're meant to make. Follow it one concrete step before it melts back into sugar.
+fortuneMost: Draw the picture you've been narrating to yourself, on whatever scrap is to hand, and keep it.
+fortuneMost2: A whole afternoon dissolves into the soft milk of a half-thought, and you'll surface holding the seed of something good.
+fortuneHigh: The image that keeps coming back isn't idle drift — it's an omen of something you're meant to make.
 fortuneHigh2: Each daydream is a doorway you keep opening and not walking through. Pick one and actually cross the threshold.
 fortuneMid: Take the walk with no destination and no podcast, and guard the hour from whatever rushes to fill it the second you look away.
 fortuneMid2: You promise a thing for one day and arrive with it on another, startled the week moved without you. Tie the dream to a date and it lands.
-fortuneLow: The person across from you is asking the real question now. The tangent in your head is warmer than the table, and the table is where they need you. Close the tab and give them all of you.
-fortuneLow2: You can sit through the whole thing without redecorating the room in your head, and the ending will feel earned for it. Stay where your body actually is, hard as the drift pulls.
-fortuneLeast: Send the plain message before the hour's gone — not the elaborate one you're composing in the dream, just where you are and when you'll be back. The unfinished beautiful version helps no one waiting on you.
-fortuneLeast2: A made bed and a lamp, and call it done. Plain finished beats lovely unbuilt; the settling stings a little, and the room is usable tonight.
+fortuneLow: The person across from you is asking the real question now. The tangent in your head is warmer than the table, but the table is where they need you.
+fortuneLow2: You can sit through the whole thing without redecorating the room in your head, and the ending will feel earned for it.
+fortuneLeast: Send the plain message — not the elaborate one you're composing in the dream, just where you are and when you'll be back.
+fortuneLeast2: A made bed and a lamp, and call it done.
 facetMostTitle: The Drifting Cinnamon
 facetMost: Someone mentions, in passing, that they once lived on a houseboat. You're gone — building your own version of that life, the dog on the deck, the canal towns drifting by — long after they've changed the subject.
 facetHighTitle: Milk on the Low Flame

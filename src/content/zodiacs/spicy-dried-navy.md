@@ -12,16 +12,16 @@ antiBeans: [pinto, green]
 friendlyForm: boiled
 antiForm: fermented
 seasonalFortune: A season for slow ovens and small white beans that do not surrender. The cayenne settles on the skin; the shape beneath it stays its own through every hour of heat.
-fortuneMost: A small white bean that does not surrender to the slow oven — the cayenne settles on the skin and the shape beneath stays its own. So with you, all the way to dusk.
-fortuneMost2: When someone names the position you held long ago and waits, say it again — same words, same calm. The principle holds because you do.
-fortuneHigh: State the reasoning more plainly and stay the course. Softening here would only be surrender wearing manners.
-fortuneHigh2: You'll be pressed to revise, and the new facts won't touch the principle. This is the thing people trust you with.
-fortuneMid: You don't have to argue it. A long, steady record speaks louder than any defense you'd mount today.
-fortuneMid2: Steadiness easily survives one quiet second glance. Take a day, look again, decide on your own.
-fortuneLow: Listen to the part that's genuinely new. You've been deaf to it on purpose, and the ground has shifted under the old stance whether you grant it or not.
-fortuneLow2: The weather's turned; let yourself turn with it. Changing course without first defending the old one feels like losing, and it isn't.
-fortuneLeast: The rule you've kept from sheer habit was scaffolding, not the floor. Move it, though pulling it costs you the comfort of the familiar shape.
-fortuneLeast2: Some things were settled by inertia, not principle. Agree on the spot and redraw the plan together.
+fortuneMost: A small white bean that does not surrender to the slow oven — the cayenne settles on the skin and the shape beneath stays its own.
+fortuneMost2: When someone names the position you held long ago and waits, say it again — same words, same calm.
+fortuneHigh: State the reasoning more plainly and stay the course.
+fortuneHigh2: You'll be pressed to revise, and the new facts won't touch the principle.
+fortuneMid: You don't have to argue it.
+fortuneMid2: Steadiness easily survives one quiet second glance.
+fortuneLow: Listen to the part that's genuinely new.
+fortuneLow2: The weather's turned; let yourself turn with it.
+fortuneLeast: The rule you've kept from sheer habit was scaffolding, not the floor.
+fortuneLeast2: Some things were settled by inertia, not principle.
 facetMostTitle: Cayenne on the Unblistered Bean
 facetMost: A whole table leans on you to drop the stance you took — right about the pressure, wrong about you. Word for word, same calm, you hold it while they push.
 facetHighTitle: Dry Mustard on the Tongue

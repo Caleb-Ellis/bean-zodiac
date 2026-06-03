@@ -12,16 +12,16 @@ antiBeans: [green, edamame]
 friendlyForm: boiled
 antiForm: fried
 seasonalFortune: Radicchio darkens in the pan; taleggio loosens its rind. The slow-built crust rewards a temperament that refuses thin pleasures and waits out the deep ones.
-fortuneMost: Buy the taleggio from the good counter. The cheap rind is a grudge you'd taste in every bite all evening.
-fortuneMost2: That rich, slow pleasure you refused to cheapen is nearly ripe. The wait was the price, and you paid it gladly.
-fortuneHigh: Top up their glass before it runs empty. Rationing the good thing reads as cold, and the open hand always gets fed in turn.
-fortuneHigh2: A windfall of plenty is rolling toward you — a feast, a long table, more than enough. You of all beans know how to sit down and receive it.
-fortuneMid: Leftovers reheated, a proper glass set beside them. A meal can still be wanted, not merely eaten.
-fortuneMid2: Answer one comfort and let the rest wait. A table laid full every single time stops being a treat and becomes a rut.
-fortuneLow: A bare windowsill and one chair too few isn't lack — it's room to breathe. Leave the corner empty, though your hands keep reaching to fill it.
-fortuneLow2: The plain plate, no flourish. More isn't always the kindness, and the smaller portion can be the better gift — even if serving less feels like withholding.
-fortuneLeast: Toast for dinner, lights out early. The long lingering you'd planned would only have gone heavy and sour — skip the feast, though missing it stings going in.
-fortuneLeast2: Something inconvenient is on its way to your door, unasked-for, a draft you'd rather not let in. The life that opens the latch stays awake — and comfort will tell you, wrongly, to keep it shut.
+fortuneMost: Buy the taleggio from the good counter.
+fortuneMost2: That rich, slow pleasure you refused to cheapen is nearly ripe.
+fortuneHigh: Top up their glass before it runs empty.
+fortuneHigh2: A windfall of plenty is rolling toward you — a feast, a long table, more than enough.
+fortuneMid: Leftovers reheated, a proper glass set beside them.
+fortuneMid2: Answer one comfort and let the rest wait.
+fortuneLow: A bare windowsill and one chair too few isn't lack — it's room to breathe.
+fortuneLow2: The plain plate, no flourish.
+fortuneLeast: Toast for dinner, lights out early.
+fortuneLeast2: Something inconvenient is on its way to your door, unasked-for, a draft you'd rather not let in.
 facetMostTitle: Taleggio From the Good Counter
 facetMost: Free upgrade or the difference back as cash, the desk clerk says — and you're already taking the room with the deep tub, the cash forgotten before they finish asking.
 facetHighTitle: The Second Helping

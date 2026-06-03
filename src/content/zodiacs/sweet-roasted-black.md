@@ -12,16 +12,16 @@ antiBeans: [green, kidney]
 friendlyForm: boiled
 antiForm: fried
 seasonalFortune: A season of long heat and slow cocoa. Skins darken, sugars set, and the days arrive bittersweet — sturdier than they looked going in.
-fortuneMost: The thing you mourned and gave up for lost reopens this turn. You're built to sit with the broken passage until it cracks the right way.
+fortuneMost: The thing you mourned and gave up for lost reopens this turn.
 fortuneMost2: Whatever cracked you didn't finish you. Sugar sets over the fracture; you come out bittersweet and sturdier than you went in.
-fortuneHigh: Name the part that actually hurt — the real word, not the polite one. The honest column is the one that finally balances.
+fortuneHigh: Name the part that actually hurt — the real word, not the polite one.
 fortuneHigh2: There's an overdue thing you keep bracing against. Sit down to it and don't get up. You outlast it; you always do.
-fortuneMid: You can sleep through an earned ache and wake usable. You don't have to be usable by morning every single time.
-fortuneMid2: A shoulder up by the ear for weeks. Set it down. The weight was never yours to hold standing up.
-fortuneLow: Cancel the one thing you'd normally grit through. It'll feel like the first inch of caving; it isn't.
-fortuneLow2: A hard week, and the long way home calling you. Take it. Rest is how strong refills, even if going easy on yourself feels like cheating.
-fortuneLeast: A day of nothing redeemable, nothing balanced, nothing proven — that's the omen, and you've earned it. The resilience keeps overnight.
-fortuneLeast2: One fracture left showing, unsweetened, the sugar never spread over it. It costs you something to leave it bare. Leave it.
+fortuneMid: You can sleep through an earned ache and wake usable.
+fortuneMid2: A shoulder up by the ear for weeks. Set it down.
+fortuneLow: Cancel the one thing you'd normally grit through.
+fortuneLow2: A hard week, and the long way home calling you. Take it.
+fortuneLeast: A day of nothing redeemable, nothing balanced, nothing proven — that's the omen, and you've earned it.
+fortuneLeast2: One fracture left showing, unsweetened, the sugar never spread over it. Leave it.
 facetMostTitle: Sugar Over a Fracture
 facetMost: The power's been out since dark and the storm shows no sign of letting up. You light the last candle and settle in like it's nothing new.
 facetHighTitle: Roasted Until the Shell Cracks

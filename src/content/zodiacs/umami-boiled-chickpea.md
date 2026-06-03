@@ -12,16 +12,16 @@ antiBeans: [cannellini, edamame]
 friendlyForm: smoked
 antiForm: dried
 seasonalFortune: Sherry darkens a pot left long on the stove. The season layers itself onto whoever stays in it; nothing forced, only steeped.
-fortuneMost: Say yes to the invitation you can't picture yet. You'll learn the table once you're sitting at it.
-fortuneMost2: A strange place is coming, somewhere you can't read the signs. You will be fluent in it faster than anyone expects.
-fortuneHigh: Borrow the sharp one's word and use it without irony. Language belongs to whoever picks it up.
-fortuneHigh2: When the place has its own vocabulary, wear it for the hour. Your own words keep; you'll find them after.
-fortuneMid: Plan changes mid-stride; take the new way and skip narrating the switch. The narration is the only friction in it.
-fortuneMid2: Rerouted without a sigh, already onto the next errand. A small detour, and nothing more than that.
-fortuneLow: Two people want incompatible versions of you. Pick one, let the other down gently — and know the one you set down may not forget being chosen against.
-fortuneLow2: Answer the same in every room and people learn where to find you. It costs you the easy fit you're used to, but a fixed point is worth more than a smooth one.
-fortuneLeast: Speak in your own voice, no warmup, no reading the room first. Let whoever they expected be the one to adjust — even if the silence after feels like a door you don't usually leave open.
-fortuneLeast2: Leaving at the hour you meant to, while the music softens and asks you to stay. Holding your shape isn't rudeness, though it'll feel like swimming against your own current.
+fortuneMost: Say yes to the invitation you can't picture yet.
+fortuneMost2: A strange place is coming, somewhere you can't read the signs.
+fortuneHigh: Borrow the sharp one's word and use it without irony.
+fortuneHigh2: When the place has its own vocabulary, wear it for the hour.
+fortuneMid: Plan changes mid-stride; take the new way and skip narrating the switch.
+fortuneMid2: Rerouted without a sigh, already onto the next errand.
+fortuneLow: Two people want incompatible versions of you.
+fortuneLow2: Answer the same in every room and people learn where to find you.
+fortuneLeast: Speak in your own voice, no warmup, no reading the room first.
+fortuneLeast2: Leaving at the hour you meant to, while the music softens and asks you to stay.
 facetMostTitle: What the Broth Carries
 facetMost: Dropped into a card game with rules you've never met and a deck you don't recognise. By the third hand you're betting like you grew up at this table.
 facetHighTitle: The Chickpea's Braised Colour

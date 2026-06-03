@@ -12,16 +12,16 @@ antiBeans: [edamame, green]
 friendlyForm: fermented
 antiForm: fried
 seasonalFortune: Chrysanthemum steeps longest in the coldest water. The months ahead favour attentions that travel quietly across rooms, arriving where the recipient never quite saw them set out.
-fortuneMost: Leave the small kindness and slip off before the thanks can find you. Some warmth lands hardest once its source has already gone.
-fortuneMost2: Keep the porch light burning for the one whose journey runs late, and never let on you waited up. The care you give offstage is the truest shape of you.
-fortuneHigh: Send the thing that asks for nothing back — a remembered line, a paper bird folded small. They'll keep it tenderly precisely because it wanted no reply.
-fortuneHigh2: An ask is taking shape in someone before they've found the words for it, and you can already feel it. Meet it quietly; reading the wanting early is your whole gift.
-fortuneMid: Sign the card this time. The kindness arrives either way, but your name on it turns a small mystery into something they can actually hold.
-fortuneMid2: Let one kindness be seen leaving. Care they can trace reaches them; care from nowhere, they keep mistaking for nothing.
-fortuneLow: Carry it over and put it straight into their hands. Good intention left a room away never quite reaches where they're sitting, much as stepping out of the shadows exposes you.
-fortuneLow2: Name the favour plainly. Let the thanks happen out in the open. Your stealth has been costing you the one moment it actually lands.
-fortuneLeast: A hand on the shoulder, eye to eye, right there beside them. Care beamed from a distance keeps failing to arrive; this is how it gets there.
-fortuneLeast2: The want goes unmet because no one said it — so you say it, prickle and all. Plain warmth out loud travels further than the loveliest silence.
+fortuneMost: Leave the small kindness and slip off before the thanks can find you.
+fortuneMost2: Keep the porch light burning for the one whose journey runs late, and never let on you waited up.
+fortuneHigh: Send the thing that asks for nothing back — a remembered line, a paper bird folded small.
+fortuneHigh2: An ask is taking shape in someone before they've found the words for it, and you can already feel it.
+fortuneMid: Sign the card this time.
+fortuneMid2: Let one kindness be seen leaving.
+fortuneLow: Carry it over and put it straight into their hands.
+fortuneLow2: Name the favour plainly.
+fortuneLeast: A hand on the shoulder, eye to eye, right there beside them.
+fortuneLeast2: The want goes unmet because no one said it — so you say it, prickle and all.
 facetMostTitle: The Thinning Membrane
 facetMost: The new tenant downstairs is clearly broke and too proud to say so. You start leaving the spare half of every grocery run outside their door, marked for no one, and let them never learn whose it was.
 facetHighTitle: Bitterness Past the Leaf

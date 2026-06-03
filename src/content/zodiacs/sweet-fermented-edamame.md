@@ -13,15 +13,15 @@ friendlyForm: smoked
 antiForm: boiled
 seasonalFortune: A season for slow reductions. Each pass over the heat thickens what came before, and by the end the glaze carries the whole afternoon.
 fortuneMost: A quiet thing nobody has noticed is nearly done reducing.
-fortuneMost2: One more pass over the heat, the same as all the others before it. Add the coat.
-fortuneHigh: Start the small daily thing in whatever shape the day's in. The better week never arrives for the one waiting on it.
-fortuneHigh2: The same walk, the same hour. What thinks best in you is built one unremarkable morning at a time.
-fortuneMid: When the habit turns boring, that's the omen you wanted — boring means you stayed long enough to stop seeing the work.
-fortuneMid2: A thing in your life is already paying back more than it takes. Don't reinvent what only needed repeating.
-fortuneLow: Some things are finished the first time through. Do this one once and walk away — though leaving it without a sequel will feel unnaturally light.
-fortuneLow2: Sit down hard, finish it in one heat, carry nothing into next month. Not everything wants a chain, even if your hands reach to start one.
-fortuneLeast: A day with no plan and no carry-over. Days that build nothing have their own use — let this one have it, uneasy as the empty calendar feels.
-fortuneLeast2: Let the day take itself. Arriving at evening with nothing laid out for tomorrow is a rest you don't quite trust, and need anyway.
+fortuneMost2: One more pass over the heat, the same as all the others before it.
+fortuneHigh: Start the small daily thing in whatever shape the day's in.
+fortuneHigh2: The same walk, the same hour.
+fortuneMid: When the habit turns boring, that's the omen you wanted.
+fortuneMid2: A thing in your life is already paying back more than it takes.
+fortuneLow: Some things are finished the first time through.
+fortuneLow2: Sit down hard, finish it in one heat, carry nothing into next month.
+fortuneLeast: A day with no plan and no carry-over.
+fortuneLeast2: Let the day take itself.
 facetMostTitle: A Glaze Reduced
 facetMost: The teacher hands you a scale to run a hundred times before the next lesson and most of the class groans. Something in you settles, glad of a thing you can simply do until it shines.
 facetHighTitle: Sake Before the Mirin

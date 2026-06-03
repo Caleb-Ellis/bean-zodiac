@@ -12,16 +12,16 @@ antiBeans: [adzuki, butter]
 friendlyForm: fermented
 antiForm: smoked
 seasonalFortune: A season that runs hot. The wok smokes before the doubanjiang lands, and the days arrive at temperature, asking to be met there.
-fortuneMost: The wok's already smoking before the doubanjiang lands. You walk into the stalled thing at full heat and end it, and whoever should've made that call is quietly relieved you took it.
-fortuneMost2: Make the move everyone's been circling for a week. Things shift because you decided they would.
+fortuneMost: The wok's already smoking before the doubanjiang lands.
+fortuneMost2: Make the move everyone's been circling for a week.
 fortuneHigh: The hard call has been waiting on you longer than you've been dreading it.
 fortuneHigh2: When the price is wrong, say so on the spot — not in the car after, not to a friend the next morning.
 fortuneMid: State the real number. Whatever you were about to round it down to was a flinch in the costume of kindness.
-fortuneMid2: Hold one more lap, then push it to a decision. You can wait a beat without losing the nerve to close.
-fortuneLow: Take the edge off the sentence. The point lands without it, and so does the person hearing it.
-fortuneLow2: Let the slight sit overnight. By morning the steam's gone and the cutting reply reads like someone else's quarrel.
+fortuneMid2: Hold one more lap, then push it to a decision.
+fortuneLow: Take the edge off the sentence.
+fortuneLow2: Let the slight sit overnight.
 fortuneLeast: Walk away from this one. The bruise outlasts the win.
-fortuneLeast2: They were about to get there themselves. Hold your fire and let them make the call — slower than yours, maybe worse, but theirs.
+fortuneLeast2: They were about to get there themselves.
 facetMostTitle: Ginger Into Hot Oil
 facetMost: You cross the threshold mid-sentence, and the room finishes the sentence rearranging itself around where you have decided to stand.
 facetHighTitle: The Pan Still Wanting

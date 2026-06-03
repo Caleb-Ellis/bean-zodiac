@@ -14,13 +14,13 @@ antiForm: roasted
 seasonalFortune: A season cured in slow smoke. Chiles soften into something unreadable; the pot keeps its own counsel, and the days take on a flavor no one nearby can quite name.
 fortuneMost: A mole this dark took nine chiles and tells you none of them. You are the same recipe, and the secrecy is the flavor.
 fortuneMost2: They'll read your weather because you were never going to narrate it. Let them.
-fortuneHigh: Smoke filling a whole house can still come from a banked, careful fire. Crack a window now and then, so the people who love you don't dial for help that isn't needed.
+fortuneHigh: Smoke filling a whole house can still come from a banked, careful fire. Crack a window now and then.
 fortuneHigh2: One ingredient named out loud stops the guessing better than the whole recipe would.
 fortuneMid: Depth owes no one the full method. The honest summary goes out; the messy part stays in the pot.
-fortuneMid2: Show where the choice came from — the match, not just the flame. It spares someone weeks of reading tea leaves.
+fortuneMid2: Show where the choice came from — the match, not just the flame.
 fortuneLow: A slow burn left unattended doesn't fade. It cures into a grievance nobody knew to soothe — say it while it's still warm enough to hold.
-fortuneLow2: You'll tell someone more than you meant to, and want to fold the page back over. Leave it open; it landed softer than you fear.
-fortuneLeast: Heat rises in your face before you can hide it. Let it show — the read is honest, and honesty sits well on you.
+fortuneLow2: You'll tell someone more than you meant to, and want to fold the page back over. Leave it open.
+fortuneLeast: Heat rises in your face before you can hide it. Let it show.
 fortuneLeast2: The lit window draws more than the shut door ever did. This is the turn to leave a lamp on.
 facetMostTitle: Mole Past the Point of Explanation
 facetMost: The customs officer wants the purpose of your trip. One true word goes across the counter, and not a syllable behind it.

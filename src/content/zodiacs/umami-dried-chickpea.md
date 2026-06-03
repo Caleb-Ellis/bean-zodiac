@@ -12,16 +12,16 @@ antiBeans: [mung, cannellini]
 friendlyForm: fermented
 antiForm: boiled
 seasonalFortune: A season that asks for the long pot. Days pass without spectacle, and weight settles into them anyway, the way pork fat surrenders to chickpeas across an unwatched afternoon.
-fortuneMost: The thing you began in winter, carry into summer. One project handed over whole outweighs three handed over half-done.
-fortuneMost2: Weight settles into the long afternoons whether anyone watches or not. People rest on that depth without registering they're doing it.
-fortuneHigh: Someone's waiting on the proper answer, not the quick one. Give them the full version — they asked you precisely because you don't serve the pot half-cooked.
-fortuneHigh2: Take the extra day the real reply needs. The wait will be forgiven; a thin answer wouldn't.
-fortuneMid: Mend the coat instead of replacing it. The thing kept and repaired holds more than the new one ever could.
+fortuneMost: The thing you began in winter, carry into summer.
+fortuneMost2: Weight settles into the long afternoons whether anyone watches or not.
+fortuneHigh: Someone's waiting on the proper answer, not the quick one.
+fortuneHigh2: Take the extra day the real reply needs.
+fortuneMid: Mend the coat instead of replacing it.
 fortuneMid2: When you can't finish it right, hold the place honestly and come back to it whole.
-fortuneLow: Let the unfinished thing sleep a night. What's on the far side of rest is truer, and rushing it now would only thin it out.
-fortuneLow2: Leave while the laughter's still loud, with things left open behind you. Not every evening has to be carried to its end — though walking out unfinished will itch at you.
-fortuneLeast: Shake the hand and go. Nobody asked for the deep version, and the light answer is the honest one here, even if it feels like leaving the pot off the heat.
-fortuneLeast2: Skim the surface and move on. Some things earn nothing by being deepened, and the room you save is worth the lightness, odd as it feels in your hands.
+fortuneLow: Let the unfinished thing sleep a night.
+fortuneLow2: Leave while the laughter's still loud, with things left open behind you.
+fortuneLeast: Shake the hand and go.
+fortuneLeast2: Skim the surface and move on.
 facetMostTitle: The Chorizo's Slow Colour
 facetMost: Course by slow course, you'd take on a neighbour's abandoned stone wall as your own — the one that's sat half-built and weed-choked for a year — and not stop until it stands finished and load-bearing.
 facetHighTitle: Morcilla Past Noticing

@@ -12,16 +12,16 @@ antiBeans: [mung, adzuki]
 friendlyForm: fried
 antiForm: roasted
 seasonalFortune: A season for what was steeped overnight. Houses run on the quiet labors begun before anyone was awake to notice them.
-fortuneMost: The whole house stands on the stock you set going before anyone woke. None of them will think to look down.
-fortuneMost2: Lay the groundwork no one will thank you for. You were never doing it for the thanks.
-fortuneHigh: A thing you made is about to go up under someone else's name. Claim your part once, plainly, without softening the verb — it deserves it.
+fortuneMost: The whole house stands on the stock you set going before anyone woke.
+fortuneMost2: Lay the groundwork no one will thank you for.
+fortuneHigh: A thing you made is about to go up under someone else's name — claim your part once, plainly.
 fortuneHigh2: Fill the cupboard before the week asks anything of you.
-fortuneMid: Write the small thing down while it's small. Spoken, the quiet work vanishes the moment everyone moves on.
+fortuneMid: Write the small thing down while it's small.
 fortuneMid2: Mend the hairline crack before weight finds it.
-fortuneLow: Step out for an afternoon and watch what stands without you. Not all of it rests on your shoulders — though you'll keep checking over them.
-fortuneLow2: Hand the pot off before the grains have set and trust the next pair of hands. Letting it go unfinished costs you something; do it anyway.
-fortuneLeast: Let it fall this once. People only notice the floor when whoever held it up steps back — and you may finally be seen for it.
-fortuneLeast2: Live a while on what just flickers past, without asking what keeps the lights on. The lightness is allowed you, uneasy as it sits.
+fortuneLow: Step out for an afternoon and watch what stands without you.
+fortuneLow2: Hand the pot off before the grains have set and trust the next pair of hands.
+fortuneLeast: Let it fall this once.
+fortuneLeast2: Live a while on what just flickers past, without asking what keeps the lights on.
 facetMostTitle: Shiitake Soaked the Night Before
 facetMost: Fire lit, water on, the whole day quietly underway before the first head pokes out of a tent — that's you at the messy campsite while everyone else sleeps in.
 facetHighTitle: Dashi on the Back of the Stove

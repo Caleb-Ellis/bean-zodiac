@@ -12,16 +12,16 @@ antiBeans: [navy, cannellini]
 friendlyForm: fried
 antiForm: dried
 seasonalFortune: Salt cures what warmth cannot reach. The pod's twin skins thicken against the cold months; a season for holding ground, for charring rather than yielding, for flavors that sharpen under pressure.
-fortuneMost: Don't pay the wrong charge twice just to make it stop. The ones counting on your tiredness are counting on it again — and they're wrong about you.
-fortuneMost2: No voice raised, your pace unchanged while a crowd turns against you. That steadiness is the rarest thing you carry; plant it where the ground is worth holding.
-fortuneHigh: When they ask you to say it again, hoping it softens, say the same thing slower. Repeating yourself is not the same as apologizing for it.
-fortuneHigh2: Salt cures what warmth can't reach. Some things you hold not from heat but because they're simply right — keep those, and let the rest go.
+fortuneMost: Don't pay the wrong charge twice just to make it stop.
+fortuneMost2: No voice raised, your pace unchanged while a crowd turns against you.
+fortuneHigh: When they ask you to say it again, hoping it softens, say the same thing slower.
+fortuneHigh2: Salt cures what warmth can't reach.
 fortuneMid: Walk up to it with a question, not a position. Holding ground starts with knowing where the ground actually runs.
-fortuneMid2: Not every knock is owed an answer. The ones shaped like real questions, yes; the ones shaped like a summons can stand out in the cold.
-fortuneLow: The fight you've braced for all this way may already be over, and won. Set the shoulders down. It'll feel like dropping your guard, and that's all right.
-fortuneLow2: Move at the pace of the people beside you. The day arrives the same hour whether you charge it or stroll — and matching them costs only your momentum.
-fortuneLeast: Lose the small argument on purpose. One conceded sentence buys a whole warm evening — and yes, swallowing it will taste wrong going down.
-fortuneLeast2: A line held well keeps things out, but it never fills the room behind it. Turn and tend to whoever's in there with you, even if it means leaving the wall unwatched.
+fortuneMid2: Not every knock is owed an answer.
+fortuneLow: The fight you've braced for all this way may already be over, and won.
+fortuneLow2: Move at the pace of the people beside you.
+fortuneLeast: Lose the small argument on purpose.
+fortuneLeast2: A line held well keeps things out, but it never fills the room behind it.
 facetMostTitle: Two Skins, Kept
 facetMost: A border guard waves your papers and tells you to move along faster. You match his pace exactly, no slower and no quicker, and meet his eye while you do it.
 facetHighTitle: Fennel Against the Smoke

@@ -12,16 +12,16 @@ antiBeans: [fava, black]
 friendlyForm: fried
 antiForm: smoked
 seasonalFortune: A season of pooled maple and slow oven warmth, where the amber on one bean teaches the next to brown. Brightness spreads by being near it.
-fortuneMost: The amber on one bean teaches the next to brown — and that's you near anyone trying. Pass their good work upward with the one line that lands it.
-fortuneMost2: When the quiet one finally speaks, name what they did so it's heard twice. Someone's year turns brighter for having stood next to you this turn.
-fortuneHigh: Hand over the credit before anyone asks whose idea it was. It leaves you so clean it barely feels like generosity.
-fortuneHigh2: Put their name forward where it counts, unasked. The recommendation costs you nothing and changes their whole season.
+fortuneMost: The amber on one bean teaches the next to brown — and that's you near anyone trying.
+fortuneMost2: When the quiet one finally speaks, name what they did so it's heard twice.
+fortuneHigh: Hand over the credit before anyone asks whose idea it was.
+fortuneHigh2: Put their name forward where it counts, unasked.
 fortuneMid: Stepping back is sometimes a quiet gift.
-fortuneMid2: Quote someone's half-thought back as the whole point. A small nudge, and the win is theirs to carry.
-fortuneLow: Apply for the thing yourself this time. The shine you spend on everyone else can land on you — strange as it feels pointed inward.
-fortuneLow2: A flat compliment and a move-on, just this once. You needn't carry every win across the floor, even when leaving one untended pulls at you.
-fortuneLeast: Name the embarrassingly specific thing you want out loud — not the polished, manageable answer that stays browning in the pan. It exposes you; say it anyway.
-fortuneLeast2: Buy yourself the better thing. Don't apologise for it, and don't pass the shine along.
+fortuneMid2: Quote someone's half-thought back as the whole point.
+fortuneLow: Apply for the thing yourself this time.
+fortuneLow2: A flat compliment and a move-on, just this once.
+fortuneLeast: Name the embarrassingly specific thing you want out loud — not the polished, manageable answer that stays browning in the pan.
+fortuneLeast2: Buy yourself the better thing.
 facetMostTitle: Sage Darkening in Its Oil
 facetMost: A nervous kid steps up to the open mic and forgets the first line. You're the one who calls out the encouragement that gets them going.
 facetHighTitle: The Crust Holds, Inside Soft

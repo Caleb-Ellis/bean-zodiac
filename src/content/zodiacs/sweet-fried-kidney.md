@@ -12,16 +12,16 @@ antiBeans: [pinto, adzuki]
 friendlyForm: boiled
 antiForm: dried
 seasonalFortune: A season for blistered surfaces and sweet interiors; what the pan darkens, it also seals, and the soft hearts inside go unbothered by the fire.
-fortuneMost: Offer the lift before they ask, time already picked. The driving is the love letter; you just don't call it that.
+fortuneMost: Offer the lift before they ask, time already picked.
 fortuneMost2: What the pan darkens it also seals — and that's you this week, taking the blistering so the soft heart behind you goes unbothered by the fire.
-fortuneHigh: Make the call they've been dreading, on their behalf. Two minutes from you buys them a week of relief.
-fortuneHigh2: Step the half-pace forward when someone crowds the one smaller than you. You'll have done it before you decided to.
-fortuneMid: Cook double, leave half on a doorstep, one knock, gone. The not-naming is the gentler half of the gift.
-fortuneMid2: The spare key lives where your hand finds it without looking. Quiet readiness is its own shelter.
-fortuneLow: They said they've got it. Take your hands off the wheel, even as your foot still hunts for the brake.
-fortuneLow2: Ask what they want before you offer anything. The care can be in waiting for the ask.
-fortuneLeast: Stop fixing it. Sit beside them in the trouble and solve nothing; it'll feel like doing nothing at all.
-fortuneLeast2: When they insist, hand the heavy bag back without comment. Letting someone carry their own is also protecting them.
+fortuneHigh: Make the call they've been dreading, on their behalf.
+fortuneHigh2: Step the half-pace forward when someone crowds the one smaller than you.
+fortuneMid: Cook double, leave half on a doorstep, one knock, gone.
+fortuneMid2: The spare key lives where your hand finds it without looking.
+fortuneLow: They said they've got it.
+fortuneLow2: Ask what they want before you offer anything.
+fortuneLeast: Stop fixing it.
+fortuneLeast2: When they insist, hand the heavy bag back without comment.
 facetMostTitle: Molten Sugar, Crust Around It
 facetMost: Jacket off and round the kid before you've even felt the rain — a storm's cracked open on the trail, there's no shelter for a mile, and you're not about to let them take the worst of it.
 facetHighTitle: Edges Crisp First

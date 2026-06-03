@@ -13,15 +13,15 @@ friendlyForm: roasted
 antiForm: roasted
 seasonalFortune: A season that smells of hickory before sight catches up. Bacon renders slow; the pod splits along a seam older than the cook tending it.
 fortuneMost: Say the thing under the question, not the answer to it. People come to you to be read.
-fortuneMost2: Wake hungry for whatever the night left behind and eat it standing at the window. The want knows before the reasoning does.
+fortuneMost2: Wake hungry for whatever the night left behind and eat it standing at the window.
 fortuneHigh: A stranger is coming who'll leave having said more than they meant to. Open the door without checking who knocked.
-fortuneHigh2: Your gut has already found the one thing they haven't said aloud. Name it; it bruises sweet, like mint between palms.
+fortuneHigh2: Your gut has already found the one thing they haven't said aloud.
 fortuneMid: Cook without measuring the next meal. The recipe you wrote was for a kitchen you don't quite live in anymore.
-fortuneMid2: Leave the outline and follow the sentence that wandered off. You don't have to see where it lands before you go.
-fortuneLow: Sand the raw thought smooth before you hand it over — unfinished, it reads as nothing at all, even if the filing-down feels like betraying it.
-fortuneLow2: Ask what their gut says and just listen. Not every moment wants the diagnosis you pulled up from the deep, though biting it back will ache.
-fortuneLeast: Cost it out before you swing. The gut spoke clear — it just couldn't see the whole table, and trusting the math over the marrow will feel wrong in the hand.
-fortuneLeast2: Make the list, price it, count the pods twice. Let the decision arrive after the math instead of before it — slow, against your grain, steadier.
+fortuneMid2: Leave the outline and follow the sentence that wandered off.
+fortuneLow: Sand the raw thought smooth before you hand it over.
+fortuneLow2: Ask what their gut says and just listen.
+fortuneLeast: Cost it out before you swing.
+fortuneLeast2: Make the list, price it, count the pods twice.
 facetMostTitle: Smoke Before Salt
 facetMost: The drum kicks in at the bonfire and your feet are already moving — nothing decides to dance, the body just goes.
 facetHighTitle: Pecorino Sharp on a Thumb

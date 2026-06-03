@@ -12,15 +12,15 @@ antiBeans: [pinto, cannellini]
 friendlyForm: fermented
 antiForm: boiled
 seasonalFortune: Smoke moves where it wants this season; the air carries a heat that does not ask permission, and rooms hold its trace for hours.
-fortuneMost: Book it before you check the calendar. The week rearranges around you the way the chili goes in first and the onion follows — it always has.
-fortuneMost2: You keep a clock no one else can read, and people drift close for the contact high. The rule was never as solid as it looked.
-fortuneHigh: The wise voice says go home and you're owed one more. Just know the morning's plans are softer than you've been letting on.
-fortuneHigh2: Sleep finds you and you take it; you wake mid-thought, the body on its own clock. Let it run — only not over the hour someone else was counting on.
-fortuneMid: The fire only needs somewhere to go. Spend the heat the hour you feel it, and still leave a window for everyone else's pace.
-fortuneMid2: Wanting it now and grabbing it now aren't the same thing. Setting the impulse face-down is its own kind of freedom.
-fortuneLow: There's a gate you kicked open, still swinging on its hinge. Latch it before something you actually love wanders out.
-fortuneLow2: Set the impulse down and come back after. That's not the rule winning — it's you picking which heats to keep.
-fortuneLeast: Keep to what the week allows and don't ask it for more. The load-bearing one — the bill, the promise, the friend who needed you — feels like a cage and holds the rest up.
+fortuneMost: Book it before you check the calendar.
+fortuneMost2: You keep a clock no one else can read, and people drift close for the contact high.
+fortuneHigh: The wise voice says go home and you're owed one more.
+fortuneHigh2: Sleep finds you and you take it; you wake mid-thought, the body on its own clock.
+fortuneMid: The fire only needs somewhere to go.
+fortuneMid2: Wanting it now and grabbing it now aren't the same thing.
+fortuneLow: There's a gate you kicked open, still swinging on its hinge.
+fortuneLow2: Set the impulse down and come back after.
+fortuneLeast: Keep to what the week allows and don't ask it for more.
 fortuneLeast2: There's a quieter freedom in being someone who can be counted on. Hold the line you set.
 facetMostTitle: Chili First, Onion After
 facetMost: One arm of the fork wears a ROAD CLOSED sign — and you're already down it, foot to the floor, before the thought of turning back can form.

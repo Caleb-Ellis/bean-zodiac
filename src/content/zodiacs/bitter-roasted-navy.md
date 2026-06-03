@@ -12,16 +12,16 @@ antiBeans: [chickpea, pinto]
 friendlyForm: dried
 antiForm: smoked
 seasonalFortune: A jar of mustard seed kept dry through three winters; the season favours those whose pantries answer questions before they are asked.
-fortuneMost: You set the coat by the door, so the rain finds you already buttoned. That quiet readiness is the whole art, and it's about to pay out.
-fortuneMost2: A winter you can't yet see is on its way, and your pantry already answers it. The foresight you stored is about to prove its worth.
-fortuneHigh: The hard thing you settled overnight is ready. The night did its work; a second one would only spoil it. Send it.
-fortuneHigh2: Knowing where the exit is turns out to be its own kind of ease. The careful choice you've lined up is the right one, and it holds.
-fortuneMid: A friend asking where to go wants the one place, not the shortlist. The shortlist was only ever for you.
-fortuneMid2: The fare that looks fine is fine to book. You've checked enough, and the last unknowns were never yours to catch anyway.
-fortuneLow: The version in your hands is ready to go. What's left unknown isn't the kind a plan ever catches — much as letting it stand unsettles you.
-fortuneLow2: The bill paid the day it's due, not a week early; the coats heaped on the chair a while. The slack costs you nothing real, hard as the mess is to walk past.
-fortuneLeast: A road is opening that you should step onto without first pricing the way back. The later route home always exists — though boarding unsure goes against everything you keep.
-fortuneLeast2: Something lovely is sitting in a shop window, yours to carry home unboxed and unplanned. Some things don't want grinding the night before — costly as the leap feels mid-air.
+fortuneMost: You set the coat by the door, so the rain finds you already buttoned.
+fortuneMost2: A winter you can't yet see is on its way, and your pantry already answers it.
+fortuneHigh: The hard thing you settled overnight is ready.
+fortuneHigh2: Knowing where the exit is turns out to be its own kind of ease.
+fortuneMid: A friend asking where to go wants the one place, not the shortlist.
+fortuneMid2: The fare that looks fine is fine to book.
+fortuneLow: The version in your hands is ready to go.
+fortuneLow2: The bill paid the day it's due, not a week early; the coats heaped on the chair a while.
+fortuneLeast: A road is opening that you should step onto without first pricing the way back.
+fortuneLeast2: Something lovely is sitting in a shop window, yours to carry home unboxed and unplanned.
 facetMostTitle: Mustard Ground the Night Before
 facetMost: Before the road trip you pack a spare fan belt and a torch you'll likely never touch, because the breakdown you've planned for is the one that never comes.
 facetHighTitle: The Vinaigrette at Rest

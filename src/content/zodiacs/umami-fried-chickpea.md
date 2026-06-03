@@ -12,16 +12,16 @@ antiBeans: [black, navy]
 friendlyForm: fermented
 antiForm: dried
 seasonalFortune: A life lived a quarter-hour ahead of itself — garlic sliced before the oil is poured, the lime halved before anyone thinks to ask.
-fortuneMost: Garlic sliced before the oil's poured, the lime halved before anyone asks. The world keeps walking into your warm kitchen amazed.
-fortuneMost2: The spare key cut, the fridge stocked, the need met before it announced itself. By the time anyone notices the job, you've finished a version of it.
-fortuneHigh: Bags packed days before the train leaves. The future you, who'd have been scrambling, is grateful in advance.
-fortuneHigh2: Start the conversation they're nerving themselves up to start. Whoever moves first sets the terms.
+fortuneMost: Garlic sliced before the oil's poured, the lime halved before anyone asks.
+fortuneMost2: The spare key cut, the fridge stocked, the need met before it announced itself.
+fortuneHigh: Bags packed days before the train leaves.
+fortuneHigh2: Start the conversation they're nerving themselves up to start.
 fortuneMid: Make the appointment now — not the day it's due, not the day after.
-fortuneMid2: Settle the thing before it's even owed. A step ahead of it is its own small relief.
-fortuneLow: Hold your answer one beat. Someone else is working it out, and racing them to it carries off the lesson with the prize.
-fortuneLow2: Not every gap is yours to close first. See which way things tilt before you move, hard as it is to sit on your hands.
-fortuneLeast: Ask before you fix it. They had a method — the slow one, yes — and a kindness can land as a small theft.
-fortuneLeast2: The tangled drawer was theirs, not a task waiting on you. Some things are a gift left undone by your hand.
+fortuneMid2: Settle the thing before it's even owed.
+fortuneLow: Hold your answer one beat.
+fortuneLow2: Not every gap is yours to close first.
+fortuneLeast: Ask before you fix it.
+fortuneLeast2: The tangled drawer was theirs, not a task waiting on you.
 facetMostTitle: The Oil Before the Ring
 facetMost: Storm warnings are still vague on the radio and you've already topped the tank, filled the jugs, and brought the chairs in off the lawn.
 facetHighTitle: Garlic Crisping at Dawn

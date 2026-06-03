@@ -12,16 +12,16 @@ antiBeans: [green, kidney]
 friendlyForm: boiled
 antiForm: fried
 seasonalFortune: Dried beans hold their shape through long heat; peperoncino leaves a mark that outlasts the bowl. So with this one — measured, and lingering.
-fortuneMost: You'll see the real problem before anyone's finished explaining it. Your one line is the note they'd have written themselves, if they could.
-fortuneMost2: A bean that holds its shape through long heat, a pepper that outlasts the bowl. What you finish is built to last exactly that way.
-fortuneHigh: Name the two that matter and let the rest stand. The hard mark lands cleaner than the soft one.
+fortuneMost: You'll see the real problem before anyone's finished explaining it.
+fortuneMost2: A bean that holds its shape through long heat, a pepper that outlasts the bowl.
+fortuneHigh: Name the two that matter and let the rest stand.
 fortuneHigh2: When you owe the apology, give the exact one — the thing itself, not the weather around it.
-fortuneMid: Go over it once more before it leaves your hands. You'll find the pinch where it drifted, the way you always catch the salt off by a grain.
-fortuneMid2: Not everything needs the full count. Flag the one big thing and call the rest solid.
-fortuneLow: Ship it rough. The polish you'd add would strand a thing already true enough, and waiting costs more than the flaw would.
-fortuneLow2: An offhand line from you lands like a verdict and outlasts the day. Soften the passing one — even though softening feels like fudging.
-fortuneLeast: Three little asks don't each need an exact answer back. Let the small things go uncounted, however much the tally tugs at you.
-fortuneLeast2: Let the shelves stack where they fall. You find what you need by the shape of a room as surely as by any filing.
+fortuneMid: Go over it once more before it leaves your hands.
+fortuneMid2: Not everything needs the full count.
+fortuneLow: Ship it rough.
+fortuneLow2: An offhand line from you lands like a verdict and outlasts the day.
+fortuneLeast: Three little asks don't each need an exact answer back.
+fortuneLeast2: Let the shelves stack where they fall.
 facetMostTitle: Every Seed Counted
 facetMost: A friend reads aloud a line from the contract they're about to sign. One clause is doing quiet damage, and you stop them before they reach the end of the sentence.
 facetHighTitle: The Overnight Soak

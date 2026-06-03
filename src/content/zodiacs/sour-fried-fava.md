@@ -12,16 +12,16 @@ antiBeans: [navy, cannellini]
 friendlyForm: fermented
 antiForm: dried
 seasonalFortune: Pomegranate molasses outruns the spoon; oil takes the bean before the bean is ready. A season of splashes, scorch marks, and bright accidents.
-fortuneMost: The careful version dies waiting, and you've always known it. Move while it's hot — the splash is half the story worth telling.
-fortuneMost2: The batter goes in before it's quite ready, and that bright accident is the best thing on the plate. The day belongs to the spoon that didn't hesitate.
+fortuneMost: The careful version dies waiting, and you've always known it.
+fortuneMost2: The batter goes in before it's quite ready, and that bright accident is the best thing on the plate.
 fortuneHigh: A door swings open by accident, out where the road forks and the map runs out. Go through before it swings back.
-fortuneHigh2: Yes arrives before the cost resolves, the way pomegranate molasses outruns the spoon. You'll sort the price once you're in it.
-fortuneMid: Shove the heavy thing across the floor first and decide second. The space will tell you what it wanted.
-fortuneMid2: A thing tried the messy way teaches by morning whether it's worth keeping. The trial is cheap; the waiting for certainty was the expensive part.
-fortuneLow: Let someone else have the wheel for this stretch. The road looks different when you're not picking the turns, and the itch of riding passenger is worth that view.
-fortuneLow2: Leave the invitation to sit overnight. By dawn its real shape has surfaced and nothing's been spilled — the patience grates, but the morning earns it.
-fortuneLeast: People have been quietly counting your last few crashes. Meet the new thing at the threshold instead of the curb; the doorway does the sorting you usually skip, even if it costs you the rush.
-fortuneLeast2: Some days the bright accident genuinely isn't worth the cleanup. Cork the skin tight. Holding still will feel like a small death, and this is a day for it anyway.
+fortuneHigh2: Yes arrives before the cost resolves, the way pomegranate molasses outruns the spoon.
+fortuneMid: Shove the heavy thing across the floor first and decide second.
+fortuneMid2: A thing tried the messy way teaches by morning whether it's worth keeping.
+fortuneLow: Let someone else have the wheel for this stretch.
+fortuneLow2: Leave the invitation to sit overnight.
+fortuneLeast: People have been quietly counting your last few crashes.
+fortuneLeast2: Some days the bright accident genuinely isn't worth the cleanup.
 facetMostTitle: Hot Oil, No Lid
 facetMost: A cliff path opens onto cold water far below, with a few locals leaping in. You're off the edge before you've checked how deep it runs.
 facetHighTitle: Pomegranate on the Receipt

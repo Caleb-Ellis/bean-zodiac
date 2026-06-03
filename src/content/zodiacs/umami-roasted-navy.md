@@ -12,16 +12,16 @@ antiBeans: [green, chickpea]
 friendlyForm: dried
 antiForm: fried
 seasonalFortune: Marmite darkens slow in the jar; rosemary keeps its needle through winter. A season for the small salted things that outlast their occasion.
-fortuneMost: A line that meant nothing the first times you read it is about to mean everything. Go back to the old letter — the timing is the whole gift.
-fortuneMost2: Take one of the kept things down off its shelf and put it back into use. Marmite darkens slow and keeps; the past keeps better, too, when it's handled rather than guarded.
-fortuneHigh: Cook the recipe that belongs to someone, and say their name while you stir. The food comes out better for it, and so do you.
-fortuneHigh2: You find new weather in old lines the way others reread a favourite book. There's warmth in one of them you haven't drawn out yet.
-fortuneMid: Put the photo back on the shelf you cleared. It's been wrong since it went bare, and you knew it the day you emptied it.
-fortuneMid2: A little of the past, kept honest, is ballast and not weight. Let one kept thing stay without making it justify the space.
-fortuneLow: Pick up when they call. They're not a memory yet — don't pre-grieve someone still on the line, even if some part of you is already practising the loss.
-fortuneLow2: Finish the thing and walk on. What was good was good, and the next pan is already warming — though turning forward will feel, briefly, like leaving someone behind.
-fortuneLeast: Give it away without ceremony. A room emptied is a room ready, and part of you has been ready a while — even if your hands argue on the way to the door.
-fortuneLeast2: You don't have to hold every object a person once touched. Letting one go isn't losing them, however much it rhymes with it.
+fortuneMost: A line that meant nothing the first times you read it is about to mean everything.
+fortuneMost2: Take one of the kept things down off its shelf and put it back into use.
+fortuneHigh: Cook the recipe that belongs to someone, and say their name while you stir.
+fortuneHigh2: You find new weather in old lines the way others reread a favourite book.
+fortuneMid: Put the photo back on the shelf you cleared.
+fortuneMid2: A little of the past, kept honest, is ballast and not weight.
+fortuneLow: Pick up when they call.
+fortuneLow2: Finish the thing and walk on.
+fortuneLeast: Give it away without ceremony.
+fortuneLeast2: You don't have to hold every object a person once touched.
 facetMostTitle: Garlic Skins on the Sill
 facetMost: Out of a shop drifts a song you danced to once, long ago, with someone long gone — and you stop dead on the pavement, the whole crowd flowing around you, until it ends.
 facetHighTitle: Rosemary in the Drawer

@@ -13,15 +13,15 @@ friendlyForm: roasted
 antiForm: boiled
 seasonalFortune: Brine hums in the crock; pepper and garlic argue beneath the salt, and what surfaces has never quite existed before.
 fortuneMost: Out of pieces that didn't belong together until your hands put them there, something genuinely new is about to surface.
-fortuneMost2: The workshop door stays shut while the thing on the bench turns into something else entirely. Leave it cracked enough that people remember you're alive.
-fortuneHigh: Show the ugly version, the one still wet from the brine. The polished one was never going to exist; this one might become something.
-fortuneHigh2: You're off the recipe by the second step, reaching for whatever the shelf offers. Your best work rarely follows the page.
-fortuneMid: The finished thing arrives to a room that had quietly stopped expecting it. Let one idea out half-made, so the making stops doubling as vanishing.
-fortuneMid2: Bend the plan toward the stranger answer — then actually hand it over. A new thing only counts once it leaves your hands.
-fortuneLow: Make the plain thing on the list and let it be plain. The interesting one was only ever waiting on this getting done.
-fortuneLow2: Keep to the timing you set and don't lift the lid early. What the work needs now is to be left alone, not one more flourish.
-fortuneLeast: The day favours the worn groove this turn — same dish, same place, the seat you like. Your hands will beg to improvise; not every choice needs reinventing to be worth making.
-fortuneLeast2: Wear what's already clean and give it no more thought. Reinventing every small thing was procrastination wearing the costume of expression.
+fortuneMost2: The workshop door stays shut while the thing on the bench turns into something else entirely.
+fortuneHigh: Show the ugly version, the one still wet from the brine.
+fortuneHigh2: You're off the recipe by the second step, reaching for whatever the shelf offers.
+fortuneMid: The finished thing arrives to a room that had quietly stopped expecting it.
+fortuneMid2: Bend the plan toward the stranger answer — then actually hand it over.
+fortuneLow: Make the plain thing on the list and let it be plain.
+fortuneLow2: Keep to the timing you set and don't lift the lid early.
+fortuneLeast: The day favours the worn groove this turn — same dish, same place, the seat you like.
+fortuneLeast2: Wear what's already clean and give it no more thought.
 facetMostTitle: The Jar, Not Yet Sealed
 facetMost: A pile of driftwood and old rope washes up where you're walking. Already you're seeing the thing it wants to become, and you start gathering.
 facetHighTitle: Pepper on the Counter

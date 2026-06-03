@@ -12,16 +12,16 @@ antiBeans: [green, kidney]
 friendlyForm: boiled
 antiForm: fried
 seasonalFortune: Smoke takes hours to settle into fat, and longer still to leave it. The season favours those who absorb without noticing, and notice long after the source has gone cold.
-fortuneMost: A long thought is towing you out toward the water. Whatever you meant to do will keep — go where it pulls; this drifting is the truest shape of you.
-fortuneMost2: An hour will vanish into the slant of light on a wall, and you'll come back from it richer. The wandering isn't a leak. Let it run.
-fortuneHigh: Out walking, you'll see the long view nobody else slowed down enough to catch. The big thoughts don't wait around, so follow this one past the turn you meant to take.
-fortuneHigh2: A half-lost thread leads somewhere good. What you carry back from it, no one else thought to go looking for.
-fortuneMid: When your name comes a second time, surface and answer the whole of it. You can travel as far as you like and still come back present for the one who's waiting.
-fortuneMid2: Take the pause — wander, then return with the answer in your hands. Just don't leave the person standing in it longer than they can hold.
-fortuneLow: The thing in your hands has been asking for you while your head wandered off with it. Come back to where your fingers are, even as the thought tugs the other way.
-fortuneLow2: There's a metaphor you'd rather chase than the evening in front of you. Stay with the evening; the thought will keep, and someone is quietly glad you didn't leave.
-fortuneLeast: A friend keeps trying to hand you a sentence and you keep slipping off before it lands. Hold still long enough to catch it, even as the anchoring chafes.
-fortuneLeast2: Settle the thing the day it lands. Carry nothing past its use. Plain, unfamiliar, and oddly steadying once the drift quiets.
+fortuneMost: A long thought is towing you out toward the water.
+fortuneMost2: An hour will vanish into the slant of light on a wall, and you'll come back from it richer.
+fortuneHigh: Out walking, you'll see the long view nobody else slowed down enough to catch.
+fortuneHigh2: A half-lost thread leads somewhere good.
+fortuneMid: When your name comes a second time, surface and answer the whole of it.
+fortuneMid2: Take the pause — wander, then return with the answer in your hands.
+fortuneLow: The thing in your hands has been asking for you while your head wandered off with it.
+fortuneLow2: There's a metaphor you'd rather chase than the evening in front of you.
+fortuneLeast: A friend keeps trying to hand you a sentence and you keep slipping off before it lands.
+fortuneLeast2: Settle the thing the day it lands.
 facetMostTitle: Smoke in the Rafters
 facetMost: A grocery list in your pocket, you stand in the aisle following the hum of the freezers somewhere else entirely, basket empty, in no hurry to come back.
 facetHighTitle: Where the Bean Is Softest

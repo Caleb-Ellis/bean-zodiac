@@ -14,14 +14,14 @@ antiForm: fried
 seasonalFortune: A pot kept low for hours; bacon waiting on the beer, the jalapeño stalled at the rim. The flavour is real but slow to declare itself.
 fortuneMost: The corner seat, the wait to be named before you speak. There's a depth steeping in you the loud ones never reach, and it keeps fine until it's asked for.
 fortuneMost2: Someone is about to discover, late and all at once, that the quiet one in the corner was the one worth listening to.
-fortuneHigh: Hang back at the edge and let the others go first. A gathering is warmer for one person in it who watches before they leap.
-fortuneHigh2: The reply reread and closed, the number rounded gently down — the caution is real, and so is the care underneath it. You hurt no one by going carefully.
-fortuneMid: Name your number first, and don't shave it. The version you'd round down is already too modest by half.
+fortuneHigh: Hang back at the edge and let the others go first.
+fortuneHigh2: The reply reread and closed, the number rounded gently down — the caution is real, and so is the care underneath it.
+fortuneMid: Name your number first, and don't shave it.
 fortuneMid2: You ask for half of what you mean. Say the real amount once, plainly, then leave the silence to do its work.
-fortuneLow: A pause is going to open in the conversation that matters. Step into it before the topic moves — and yes, your voice will shake a little; step in anyway.
-fortuneLow2: The flinch was the answer before you had words for why. Trust it and say no — even though saying it out loud will cost you more than swallowing it would.
-fortuneLeast: Take the seat in the middle, not the corner. The corner has been calling you invisible, and walking past it the first time will feel like stepping off a ledge.
-fortuneLeast2: Stop knocking on the door that closed a while ago. Turn around — the opening you want is behind you, and turning toward it means admitting the old one is shut.
+fortuneLow: A pause is going to open in the conversation that matters. Step into it before the topic moves.
+fortuneLow2: The flinch was the answer before you had words for why. Trust it and say no.
+fortuneLeast: Take the seat in the middle, not the corner.
+fortuneLeast2: Stop knocking on the door that closed a while ago. Turn around — the opening you want is behind you.
 facetMostTitle: Bacon, Held Back
 facetMost: The open mic calls for one more singer and a song you know by heart is hanging in the air. You stay in the dark at the back and let the silence pass to someone braver.
 facetHighTitle: The Jalapeño, Untouched

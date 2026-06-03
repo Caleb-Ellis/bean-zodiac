@@ -12,16 +12,16 @@ antiBeans: [chickpea, green]
 friendlyForm: dried
 antiForm: fermented
 seasonalFortune: A long, sweet simmer settles over the months. The pot keeps its low murmur; pods soften on a schedule the kitchen already knows. Steadiness flavours the season.
-fortuneMost: You arrive at the hour you said, every time, no flourish — and people are at ease before you're through the door because they knew you would. Let one of them tell you it counts.
-fortuneMost2: Nobody thanks the tap for running, and you've trained the room not to notice you. Keep being the sure thing — but say plainly when the running starts to cost you.
-fortuneHigh: Someone is leaning their whole week on a thing you said you'd do, and your word will hold the weight. The certainty was what they came for.
-fortuneHigh2: The borrowed pan goes back washed before the lender remembers lending it — you fold returns into errands the way zunda folds into rice. That quiet finishing is its own warmth.
-fortuneMid: Steady doesn't have to mean same. Take the unfamiliar way home and bring back something you weren't expecting to find.
-fortuneMid2: Answer the ones who reached out, in the order they came, warm and in no hurry. Nothing goes cold in your hands.
-fortuneLow: A recurring favour has quietly doubled on you. Reset it kindly, in one sentence. The bond is stronger than the old terms and will outlast the redrawing.
-fortuneLow2: Constancy sets like cold paste if you never stir it. Change the route, move the furniture — the steadiness keeps fine without your standing guard over it, much as leaving the post unguarded unsettles you.
-fortuneLeast: The plan you scrapped beats the one you drew first. Leave the old version in the bin. It can't be betrayed; it was only ever a draft.
-fortuneLeast2: Some things are better dropped than finished out of duty. Let the half-built plan go and trust the next to taste better, however much your hands want to see it through.
+fortuneMost: You arrive at the hour you said, every time, no flourish — and people are at ease before you're through the door because they knew you would.
+fortuneMost2: Nobody thanks the tap for running, and you've trained the room not to notice you.
+fortuneHigh: Someone is leaning their whole week on a thing you said you'd do, and your word will hold the weight.
+fortuneHigh2: The borrowed pan goes back washed before the lender remembers lending it.
+fortuneMid: Steady doesn't have to mean same.
+fortuneMid2: Answer the ones who reached out, in the order they came, warm and in no hurry.
+fortuneLow: A recurring favour has quietly doubled on you.
+fortuneLow2: Constancy sets like cold paste if you never stir it.
+fortuneLeast: The plan you scrapped beats the one you drew first.
+fortuneLeast2: Some things are better dropped than finished out of duty.
 facetMostTitle: The Sunday Mochi
 facetMost: A friend's car won't start and it's pelting rain across town. You're already in your coat with the jumper cables, because of course you are, no question of whether.
 facetHighTitle: The Small Debt Settled

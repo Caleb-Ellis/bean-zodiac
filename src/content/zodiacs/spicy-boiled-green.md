@@ -12,16 +12,16 @@ antiBeans: [cannellini, black]
 friendlyForm: roasted
 antiForm: dried
 seasonalFortune: A season when the pot is kept at full boil; the peppercorn's numbness settles in slow, and what was urgent at dawn still simmers past dusk.
-fortuneMost: A cause you take up at midnight is still burning by the next one — that's rare and it's real. Point the whole fire at one thing and it moves.
-fortuneMost2: Pick one fight and finish it. The other six can wait; conviction without focus is just weather, loud and going nowhere.
-fortuneHigh: The thing you've been rehearsing has already cost more than the doing of it will. Your fire is fastest in the first minute — spend it there.
-fortuneHigh2: Your heat lands somewhere good, and a stranger catches it. The spark you didn't mean to throw starts something.
-fortuneMid: One clear sentence, not three. The one that survives the doorway is the only one that ever mattered.
-fortuneMid2: You've circled this same argument three times now, sure the answer sits one pass away. It might not — let this lap be the last.
-fortuneLow: The cause is real and it doesn't need you in the fray every hour. Step back from the blaze — you'll step back in rested, though it'll itch to stay.
-fortuneLow2: Not every fire is yours to feed. Walk past one without adding a log — the cause loses nothing, even if it feels like it should.
-fortuneLeast: A low simmer needs no apology. The heat you don't spend isn't lost, only banked — sit with the stillness even when it feels like neglect.
-fortuneLeast2: Someone else's shrug is allowed to stay theirs. The silence you leave around it isn't betrayal, however much it reads like one to you.
+fortuneMost: A cause you take up at midnight is still burning by the next one — that's rare and it's real.
+fortuneMost2: Pick one fight and finish it.
+fortuneHigh: The thing you've been rehearsing has already cost more than the doing of it will.
+fortuneHigh2: Your heat lands somewhere good, and a stranger catches it.
+fortuneMid: One clear sentence, not three.
+fortuneMid2: You've circled this same argument three times now, sure the answer sits one pass away.
+fortuneLow: The cause is real and it doesn't need you in the fray every hour.
+fortuneLow2: Not every fire is yours to feed.
+fortuneLeast: A low simmer needs no apology.
+fortuneLeast2: Someone else's shrug is allowed to stay theirs.
 facetMostTitle: The Jar Scraped Clean
 facetMost: A documentary about a polluted river ends and the credits are still rolling. You're already pulling on shoes to go scout the bank yourself.
 facetHighTitle: Heat Through the Pod

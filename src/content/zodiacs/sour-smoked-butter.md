@@ -12,15 +12,15 @@ antiBeans: [kidney, green]
 friendlyForm: dried
 antiForm: fried
 seasonalFortune: A season for smoke that has lost its fire. The vinegar's sharpness lingers in rooms where the lamp is left low, and the pot sits half-warm on a back burner well past supper.
-fortuneMost: '"No, but thanks." Three words, nothing after. The flat reply is the honest one.'
-fortuneMost2: The chair against the wall is yours. Let the louder guests carry the evening; you owe no one more colour than you've got.
-fortuneHigh: The clipped answer read colder than you meant. Leave it — the warmer version would have been a small lie.
-fortuneHigh2: Your name, one true line, and out the door while someone's still laughing. From you, that's a full goodbye.
-fortuneMid: Somewhere your quiet is being tallied as not caring. One plain sentence resets the count and costs you nearly nothing.
-fortuneMid2: A plan is drifting toward dead and waiting on your word. The delay rarely hurts; the not-saying does.
-fortuneLow: Put a little vinegar in the sharp thing and let it land. The muted version was never the honest one.
-fortuneLow2: A flat grey afternoon, and you're the one who could lift it a degree. The dull hour won't fill itself.
-fortuneLeast: Reach for the saturated red. Laugh first at your own joke. You'll be tired after, and you'll have meant it.
+fortuneMost: "No, but thanks."
+fortuneMost2: The chair against the wall is yours.
+fortuneHigh: The clipped answer read colder than you meant.
+fortuneHigh2: Your name, one true line, and out the door while someone's still laughing.
+fortuneMid: Somewhere your quiet is being tallied as not caring.
+fortuneMid2: A plan is drifting toward dead and waiting on your word.
+fortuneLow: Put a little vinegar in the sharp thing and let it land.
+fortuneLow2: A flat grey afternoon, and you're the one who could lift it a degree.
+fortuneLeast: Reach for the saturated red.
 fortuneLeast2: A good turn is coming, and it's coming to the part of you that let some colour show.
 facetMostTitle: Paprika Grey at the Rim
 facetMost: The toast comes round to you. A half-inch raise of the glass, nothing said, and it passes on to the next.
