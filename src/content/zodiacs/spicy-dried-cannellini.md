@@ -38,11 +38,11 @@ answerHigh: check the plan against the one wall you know is square, then commit
 answerMid: cut to the printed sizes but keep the tape close
 answerLow: follow the cut-list and hope it was drawn up right
 answerLeast: eyeball it, cut long, and trim to fit later
-rorschachMost: two beaks meeting exactly across a hair's gap
-rorschachHigh: a wolf's head squared off against its mirror
-rorschachMid: two animal heads facing across a seam
+rorschachMost: a partial solar eclipse
+rorschachHigh: a gear and a socket
+rorschachMid: a whale's open jaw upon a school of fish
 rorschachLow: two heads turned away, droplets scattering between
-rorschachLeast: two faces drifting apart, edges flaking off
+rorschachLeast: a cloth and a big mess
 ---
 
 Sichuan Cannellini Beans are the Bean Zodiac's most unerring — the friend whose one-line note on your draft is the note you should have written yourself. They don't pad and they don't soften. When they say the third paragraph isn't earning its place, the third paragraph isn't earning its place, and you know it before you've finished reading their message.

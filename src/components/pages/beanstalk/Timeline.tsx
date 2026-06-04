@@ -14,6 +14,7 @@ import FormBadge from "../../zodiac/FormBadge";
 import BeanBadge from "../../zodiac/BeanBadge";
 import ZodiacName from "../../zodiac/ZodiacName";
 import Bean from "../../zodiac/Bean";
+import LazyMount from "../../LazyMount";
 import FortuneScoreBadge from "../../zodiac/FortuneScoreBadge";
 import FortuneAnswerBadge from "../../zodiac/FortuneAnswerBadge";
 import { formatDisplayDate, zodiacParts, type SeasonFilter } from "./helpers";
@@ -161,11 +162,13 @@ export default function Timeline({
               </p>
               {bean && (
                 <div className="w-16 h-16 my-6">
-                  <Bean
-                    bean={bean}
-                    flavourId={season.flavourId}
-                    formId={season.formId}
-                  />
+                  <LazyMount placeholder={<div className="w-16 h-16" />}>
+                    <Bean
+                      bean={bean}
+                      flavourId={season.flavourId}
+                      formId={season.formId}
+                    />
+                  </LazyMount>
                 </div>
               )}
               <div className="flex flex-wrap items-center justify-center gap-1">
@@ -322,12 +325,14 @@ export default function Timeline({
                           className="shrink-0 order-2 sm:order-1"
                           style={{ width: "3rem" }}
                         >
-                          <Bean
-                            bean={fortuneBean}
-                            flavourId={fId}
-                            formId={frId}
-                            qualityId={node.qualityId}
-                          />
+                          <LazyMount placeholder={<div style={{ width: "3rem", height: "4rem" }} />}>
+                            <Bean
+                              bean={fortuneBean}
+                              flavourId={fId}
+                              formId={frId}
+                              qualityId={node.qualityId}
+                            />
+                          </LazyMount>
                         </div>
                       )}
                       <div className="order-3 w-full flex flex-col items-center sm:hidden">
@@ -459,11 +464,13 @@ export default function Timeline({
                         className="shrink-0 order-2 sm:order-1"
                         style={{ width: "3rem" }}
                       >
-                        <Bean
-                          bean={claimedBean}
-                          flavourId={claimedFlavourId}
-                          formId={claimedFormId}
-                        />
+                        <LazyMount placeholder={<div style={{ width: "3rem", height: "4rem" }} />}>
+                          <Bean
+                            bean={claimedBean}
+                            flavourId={claimedFlavourId}
+                            formId={claimedFormId}
+                          />
+                        </LazyMount>
                       </div>
                     )}
                     <div className="flex-1 min-w-0 order-3 sm:order-2 w-full">

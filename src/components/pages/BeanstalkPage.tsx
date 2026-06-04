@@ -30,9 +30,11 @@ interface Props {
 }
 
 export default function BeanstalkPage({ data }: Props) {
-  const [claimedSlug] = useState<ZodiacId | null>(() => useStore.getState().claimed?.id ?? null);
-  const [scores] = useState<ReturnType<typeof computeSpiritBeanScores> | null>(() =>
-    claimedSlug ? computeSpiritBeanScores(claimedSlug) : null,
+  const [claimedSlug] = useState<ZodiacId | null>(
+    () => useStore.getState().claimed?.id ?? null,
+  );
+  const [scores] = useState<ReturnType<typeof computeSpiritBeanScores> | null>(
+    () => (claimedSlug ? computeSpiritBeanScores(claimedSlug) : null),
   );
   const [beanstalkNodes] = useState<BeanstalkNode[]>(() =>
     claimedSlug ? buildBeanstalkNodes(claimedSlug) : [],
@@ -56,7 +58,11 @@ export default function BeanstalkPage({ data }: Props) {
     );
   }
 
-  const [flavourId, formId, beanId] = claimedSlug.split("-") as [FlavourId, FormId, BeanId];
+  const [flavourId, formId, beanId] = claimedSlug.split("-") as [
+    FlavourId,
+    FormId,
+    BeanId,
+  ];
 
   return (
     <div className="flex flex-col gap-8 animate-fade-up">
@@ -80,7 +86,21 @@ export default function BeanstalkPage({ data }: Props) {
           <>
             <div className="grid grid-cols-1 sm:grid-cols-3 gap-16 w-full">
               <div className="flex flex-col items-center">
-                <p className="text-sm text-zinc-400 uppercase tracking-widest">Flavour</p>
+                <p className="text-sm text-zinc-400 uppercase tracking-widest">
+                  Bean
+                </p>
+                <BeanRadar
+                  data={data}
+                  claimedId={beanId}
+                  values={scores.beanValues}
+                  highlightIndex={scores.beanHighlight}
+                  showLinks
+                />
+              </div>
+              <div className="flex flex-col items-center">
+                <p className="text-sm text-zinc-400 uppercase tracking-widest">
+                  Flavour
+                </p>
                 <FlavourRadar
                   data={data}
                   claimedId={flavourId}
@@ -90,7 +110,9 @@ export default function BeanstalkPage({ data }: Props) {
                 />
               </div>
               <div className="flex flex-col items-center">
-                <p className="text-sm text-zinc-400 uppercase tracking-widest">Form</p>
+                <p className="text-sm text-zinc-400 uppercase tracking-widest">
+                  Form
+                </p>
                 <FormRadar
                   data={data}
                   claimedId={formId}
@@ -99,23 +121,16 @@ export default function BeanstalkPage({ data }: Props) {
                   showLinks
                 />
               </div>
-              <div className="flex flex-col items-center">
-                <p className="text-sm text-zinc-400 uppercase tracking-widest">Bean</p>
-                <BeanRadar
-                  data={data}
-                  claimedId={beanId}
-                  values={scores.beanValues}
-                  highlightIndex={scores.beanHighlight}
-                  showLinks
-                />
-              </div>
             </div>
             {(() => {
-              const spiritFlavourId = SPIRIT_FLAVOUR_RING[scores.flavourHighlight];
+              const spiritFlavourId =
+                SPIRIT_FLAVOUR_RING[scores.flavourHighlight];
               const spiritFormId = SPIRIT_FORM_RING[scores.formHighlight];
               const spiritBeanId = SPIRIT_BEAN_RING[scores.beanHighlight];
               const isDifferent =
-                spiritFlavourId !== flavourId || spiritFormId !== formId || spiritBeanId !== beanId;
+                spiritFlavourId !== flavourId ||
+                spiritFormId !== formId ||
+                spiritBeanId !== beanId;
 
               return isDifferent ? (
                 <div className="flex flex-col sm:flex-row gap-12 sm:gap-8 justify-center items-center sm:items-start w-full max-w-2xl my-4">
@@ -139,7 +154,10 @@ export default function BeanstalkPage({ data }: Props) {
                     <MiniIdentity
                       beanId={spiritBeanId}
                       beanName={data.beans[spiritBeanId].name}
-                      preparation={getPreparationName(spiritFlavourId, spiritFormId)}
+                      preparation={getPreparationName(
+                        spiritFlavourId,
+                        spiritFormId,
+                      )}
                       bean={data.beans[spiritBeanId]}
                       flavourId={spiritFlavourId}
                       formId={spiritFormId}

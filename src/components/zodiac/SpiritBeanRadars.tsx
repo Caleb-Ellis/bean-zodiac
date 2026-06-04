@@ -20,6 +20,7 @@ interface FlavourRadarProps {
   values: number[];
   highlightIndex: number;
   showLinks?: boolean;
+  dim?: boolean;
 }
 
 interface FormRadarProps {
@@ -28,6 +29,7 @@ interface FormRadarProps {
   values: number[];
   highlightIndex: number;
   showLinks?: boolean;
+  dim?: boolean;
 }
 
 interface BeanRadarProps {
@@ -36,6 +38,7 @@ interface BeanRadarProps {
   values: number[];
   highlightIndex: number;
   showLinks?: boolean;
+  dim?: boolean;
 }
 
 export function FlavourRadar({
@@ -44,6 +47,7 @@ export function FlavourRadar({
   values,
   highlightIndex,
   showLinks,
+  dim,
 }: FlavourRadarProps) {
   const labels = SPIRIT_FLAVOUR_RING.map(
     (id) => `${FLAVOUR_EMOJI[id]} ${data.flavours[id]?.name ?? id}${id === claimedId ? " 👤" : ""}`,
@@ -58,11 +62,12 @@ export function FlavourRadar({
       values={values}
       highlightIndex={highlightIndex}
       colorVar={`var(--flavour-${SPIRIT_FLAVOUR_RING[highlightIndex]})`}
+      dim={dim}
     />
   );
 }
 
-export function FormRadar({ data, claimedId, values, highlightIndex, showLinks }: FormRadarProps) {
+export function FormRadar({ data, claimedId, values, highlightIndex, showLinks, dim }: FormRadarProps) {
   const labels = SPIRIT_FORM_RING.map(
     (id) => `${FORM_EMOJI[id]} ${data.forms[id]?.name ?? id}${id === claimedId ? " 👤" : ""}`,
   );
@@ -76,11 +81,12 @@ export function FormRadar({ data, claimedId, values, highlightIndex, showLinks }
       values={values}
       highlightIndex={highlightIndex}
       colorVar={`var(--form-${SPIRIT_FORM_RING[highlightIndex]})`}
+      dim={dim}
     />
   );
 }
 
-export function BeanRadar({ data, claimedId, values, highlightIndex, showLinks }: BeanRadarProps) {
+export function BeanRadar({ data, claimedId, values, highlightIndex, showLinks, dim }: BeanRadarProps) {
   const labels = SPIRIT_BEAN_RING.map(
     (id) => `${(data.beans[id]?.name ?? id).replace(/ Bean$/, "")}${id === claimedId ? " 👤" : ""}`,
   );
@@ -94,6 +100,7 @@ export function BeanRadar({ data, claimedId, values, highlightIndex, showLinks }
       values={values}
       highlightIndex={highlightIndex}
       colorVar={`var(--bean-${SPIRIT_BEAN_RING[highlightIndex]})`}
+      dim={dim}
     />
   );
 }

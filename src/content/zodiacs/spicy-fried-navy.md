@@ -32,12 +32,12 @@ facetLowTitle: Hot Sauce by Ear
 facetLow: A picnic's been planned to the last fork, then a friend suggests just winging it. You leave the checklist at home and let the day go where it goes.
 facetLeastTitle: Receipts in a Coat Pocket
 facetLeast: A free weekend stretches out with nothing slotted into it. You let it run loose, no plan, and trust it to fill itself.
-question: You're leaving on a month abroad, alone, at dawn tomorrow. The empty rucksack sits open on the bed. You...
-answerMost: lay everything out in piles by day and check it against a written list
-answerHigh: pack tonight, rolled and sorted, passport in the front pocket
-answerMid: gather the obvious things and zip it shut, mostly done
-answerLow: throw in a few changes of clothes and trust the rest to shops there
-answerLeast: grab the bag at dawn and pack whatever's nearest on the way out
+question: You're leaving on a month abroad, alone, at noon tomorrow. The empty rucksack sits open on the bed. You...
+answerMost: lay everything out in piles by day and check it against your list
+answerHigh: pack tonight, rolled and sorted, essentials easy to reach
+answerMid: gather most of the things now, finish it off tomorrow
+answerLow: leave it for tomorrow to figure out
+answerLeast: throw in a few changes of clothes and trust the rest to shops there
 rorschachMost: an archipelago set out in a tidy chain
 rorschachHigh: a coastline traced clean onto a map
 rorschachMid: a continent spread across an old chart

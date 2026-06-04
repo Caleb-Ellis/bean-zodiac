@@ -6,6 +6,7 @@ interface Props {
   values: number[];
   highlightIndex: number;
   colorVar: string; // polygon fill/stroke color
+  dim?: boolean; // overlay mode: hide labels, reduce opacity
 }
 
 function toPoint(
@@ -37,6 +38,7 @@ export default function SpiritBeanRadar({
   values,
   highlightIndex,
   colorVar,
+  dim,
 }: Props) {
   const n = labels.length;
   const cx = 150;
@@ -58,7 +60,7 @@ export default function SpiritBeanRadar({
         aria-hidden="true"
       >
         {/* Grid rings */}
-        {[0.25, 0.5, 0.75, 1.0].map((level) => (
+        {!dim && [0.25, 0.5, 0.75, 1.0].map((level) => (
           <polygon
             key={level}
             points={gridRing(level, n, cx, cy, maxRadius)}
@@ -69,7 +71,7 @@ export default function SpiritBeanRadar({
         ))}
 
         {/* Axes */}
-        {labels.map((_, i) => {
+        {!dim && labels.map((_, i) => {
           const angle = (i / n) * 2 * Math.PI - Math.PI / 2;
           const x2 = cx + maxRadius * Math.cos(angle);
           const y2 = cy + maxRadius * Math.sin(angle);
@@ -90,24 +92,14 @@ export default function SpiritBeanRadar({
         <polygon
           points={polygonPoints}
           style={{ fill: colorVar, stroke: colorVar }}
-          fillOpacity={0.2}
-          strokeWidth={2}
+          fillOpacity={dim ? 0.06 : 0.2}
+          strokeWidth={dim ? 1 : 2}
+          strokeOpacity={dim ? 0.3 : 1}
           strokeLinejoin="round"
         />
 
-        {/* Data point dots */}
-        {dataPoints.map(([x, y], i) => (
-          <circle
-            key={i}
-            cx={x}
-            cy={y}
-            r={i === highlightIndex ? 3.5 : 2.5}
-            style={{ fill: colorVar }}
-          />
-        ))}
-
         {/* Labels */}
-        {labels.map((label, i) => {
+        {!dim && labels.map((label, i) => {
           const angle = (i / n) * 2 * Math.PI - Math.PI / 2;
           const lx = cx + labelRadius * Math.cos(angle);
           const ly = cy + labelRadius * Math.sin(angle);
