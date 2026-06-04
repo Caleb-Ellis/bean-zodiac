@@ -7,10 +7,10 @@ trait: practiced
 dish: Edamame in mirin and sake reduction — soybeans lacquered in sweet rice wine, simmered until each one is evenly coated and glossed.
 quote: Patience is bitter, but its bean is sweet.
 creature: old wolf
-friendlyBeans: [pinto, cannellini]
+friendlyBeans: [cannellini, pinto]
 antiBeans: [mung, butter]
-friendlyForm: smoked
-antiForm: boiled
+friendlyForm: dried
+antiForm: roasted
 seasonalFortune: A season for slow reductions. Each pass over the heat thickens what came before, and by the end the glaze carries the whole afternoon.
 fortuneMost: A quiet thing nobody has noticed is nearly done reducing.
 fortuneMost2: One more pass over the heat, the same as all the others before it.
@@ -32,12 +32,12 @@ facetLowTitle: One Pod, One Heat
 facetLow: A task lands that genuinely only wants doing once. Finish it in a single sitting and walk off without rigging it into a routine you'll tend forever.
 facetLeastTitle: The Untimed Pot
 facetLeast: A wide-open stretch of hours, no list, no thread to pick up tomorrow. You let it run loose and reach dusk with nothing laid down for the next day.
-question: A younger version of you would have struggled badly with what you handled easily this morning. You notice it walking to the bus. You...
-answerMost: count the years and the unglamorous Tuesdays it took, and feel the weight of them honestly
-answerHigh: name the small habit that did the work, and let yourself enjoy that it stuck
-answerMid: notice the ease, smile to yourself, keep walking
-answerLow: brush it off; everyone gets better at things
-answerLeast: assume you were always like this
+question: You want to get good at something — an instrument, a language, a craft. Standing at the start of it, the long road ahead, you...
+answerMost: set the same unglamorous hour aside every single day and trust the years to do the rest
+answerHigh: build a steady weekly rhythm and keep turning up whether it's flowing or not
+answerMid: practise hard in bursts when the mood's on you, lighter when it isn't
+answerLow: chase the quick wins and drop it the week it stops being fun
+answerLeast: expect to be good fast, and quit the moment it asks for repetition
 rorschachMost: a doorsill stone hollowed deep by passing feet
 rorschachHigh: two threshold slabs worn smooth and dished
 rorschachMid: two flat stones stacked one above another

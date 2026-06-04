@@ -8,9 +8,9 @@ dish: White bean and lemon pound cake — dried navy beans cooked and blended in
 quote: Ask not what your bean can do for you — ask what you can do for your bean.
 creature: draft horse
 friendlyBeans: [butter, black]
-antiBeans: [chickpea, green]
+antiBeans: [chickpea, fava]
 friendlyForm: boiled
-antiForm: fried
+antiForm: fermented
 seasonalFortune: The crumb sets quietly under the lemon's brightness; this is a season that pays back what was promised in winter and tended without fanfare.
 fortuneMost: A uniform pressed and hung for the morning.
 fortuneMost2: The shift nobody volunteered for is yours before anyone's even read the ask.
@@ -32,12 +32,12 @@ facetLowTitle: Lemon by the Squeeze
 facetLow: The clipboard comes round the campsite for the cleanup crew and pens hover over it. You let it pass on by, figuring this once somebody else can take the chore.
 facetLeastTitle: The Batter Left Standing
 facetLeast: Halfway through repainting a fence you promised the whole street you'd finish, the brush goes down. You're bored of it, so you leave the rest patchy and wander off.
-question: The volunteer rota for the school fair lands in the group chat. Nobody has volunteered. It's the fourth year in a row. You...
-answerMost: take the whole afternoon shift before anyone else opens the message
-answerHigh: sign up for two hours and let someone else find the rest
-answerMid: wait a day to see if anyone steps up, then quietly do it
-answerLow: leave it on read; somebody always sorts it
-answerLeast: mute the chat and book the weekend away
+question: The kids' camping trip folds unless someone gives up their weekend to drive the minibus and run it, and round the hall the parents have all gone quiet. You...
+answerMost: put your hand up for the whole weekend before the question's even finished
+answerHigh: take the driving and ask two others to split the rest
+answerMid: wait a beat to see if anyone offers, then take it on without a word
+answerLow: assume some other parent will step up if you hold off
+answerLeast: study your shoes and let the trip fall through
 rorschachMost: a uniform pressed and hung for morning
 rorschachHigh: a clock with both hands kept wound
 rorschachMid: a bell mounted over a doorway

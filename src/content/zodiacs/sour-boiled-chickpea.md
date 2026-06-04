@@ -7,10 +7,10 @@ trait: flexible
 dish: Harira - Moroccan chickpea soup with preserved lemon and tomato.
 quote: It is not the strongest bean that survives, nor the most intelligent, but the one most responsive to change.
 creature: serpent
-friendlyBeans: [cannellini, adzuki]
-antiBeans: [black, mung]
+friendlyBeans: [fava, mung]
+antiBeans: [black, butter]
 friendlyForm: roasted
-antiForm: fermented
+antiForm: dried
 seasonalFortune: A pot of harira keeps changing for hours — tomato thinning, lemon sharpening, chickpea giving up its edge. The kitchens that thrive this season are the ones tended slowly.
 fortuneMost: A better plan is on its way, half-cooked and a little tart like harira an hour in.
 fortuneMost2: Good news, and it arrives sideways.
@@ -32,12 +32,12 @@ facetLowTitle: The Shelf From March
 facetLow: A friend wants to swap the whole afternoon's plan at the last minute. You'd usually flow with it — but you find your heels going down, this once.
 facetLeastTitle: The Rind Kept Whole
 facetLeast: You said a price and they're working you toward a softer one, all warmth and reasons. The number doesn't move. You hold it and mean it.
-question: The plan was a quiet dinner. Halfway there, the group decides on karaoke instead. You...
-answerMost: pivot cheerfully and start scrolling for the duet
-answerHigh: shrug, follow along, and order a drink on arrival
-answerMid: go for one round and see how you feel
-answerLow: say you'll catch up after dinner, alone
-answerLeast: peel off at the next stop and keep the original plan
+question: At the front of the queue, the clerk says the form changed last month and the one you filled is no good. You...
+answerMost: ask for the new one and start refilling it right there at the counter
+answerHigh: sigh, take the new form, and sort it before you leave the building
+answerMid: ask what's actually different and whether the old one might still pass
+answerLow: insist the old form was fine and ask for someone senior
+answerLeast: refuse to redo it and walk out to come back another day
 rorschachMost: two cats curled to fit around each other
 rorschachHigh: two clouds leaning together over a gap
 rorschachMid: two islands with a channel between them

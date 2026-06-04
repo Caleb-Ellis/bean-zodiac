@@ -8,7 +8,7 @@ dish: Red beans and rice - Louisiana style with fermented hot sauce and lime.
 quote: The best bean is the one already inside the fortress.
 creature: armadillo
 friendlyBeans: [green, chickpea]
-antiBeans: [butter, fava]
+antiBeans: [butter, mung]
 friendlyForm: fried
 antiForm: boiled
 seasonalFortune: A season of sealed jars and tested lids. The brine sharpens, the rice waits beneath, and old hulls thicken against weather that has not yet arrived.
@@ -32,12 +32,12 @@ facetLowTitle: The Jar, Still Warm
 facetLow: A near-stranger admires the coat off your back, and you hand it over on the spot. No deposit, no when-will-I-see-it-back, just gone.
 facetLeastTitle: Brine Thinned Out
 facetLeast: Out on a long road trip, someone you just met asks to share the driving. You toss them the keys without a flicker and doze off in the passenger seat.
-question: An acquaintance you like, but only just, asks if they can crash on your sofa for a week between flats. You...
-answerMost: say no in one sentence and offer the name of a cheap hotel nearby
-answerHigh: say yes to three nights and write the end date in the reply
-answerMid: say yes and quietly start tidying the spare room with the door half-closed
-answerLow: say yes, hand them a key, and forget to mention bin night
-answerLeast: say yes, give them the spare key, and tell them to stay as long as they need
+question: A new app's sign-up wants your whole life to "personalise" it, and one field asks something you've never typed anywhere. You...
+answerMost: leave it blank and dare the form to make it required
+answerHigh: enter the bare minimum and nothing it didn't earn
+answerMid: fill it in plainly but volunteer not one extra field
+answerLow: complete it, then second-guess having done so
+answerLeast: pour the whole thing in, oddly relieved to set it down
 rorschachMost: a closed fist guarding a bursting one
 rorschachHigh: a smooth rock shielding a cracking one
 rorschachMid: one cloud calm, the other breaking apart

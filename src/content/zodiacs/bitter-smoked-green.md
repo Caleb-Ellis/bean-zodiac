@@ -7,8 +7,8 @@ trait: eerie
 dish: Smoked green bean with bitter elderflower and char.
 quote: Something is rotten in the bean of Denmark.
 creature: loon
-friendlyBeans: [kidney, pinto]
-antiBeans: [butter, fava]
+friendlyBeans: [edamame, kidney]
+antiBeans: [adzuki, butter]
 friendlyForm: fried
 antiForm: boiled
 seasonalFortune: A season threaded with elderflower and ash. The smoked green bean keeps its snap in rooms where the source of the smell cannot be named.

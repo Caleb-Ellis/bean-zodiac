@@ -7,10 +7,10 @@ trait: skeptical
 dish: Edamame with gochujang dipping sauce and rice vinegar.
 quote: The first bean principle is that you must not fool yourself — and you are the easiest bean to fool.
 creature: tabby
-friendlyBeans: [black, fava]
-antiBeans: [mung, adzuki]
-friendlyForm: dried
-antiForm: boiled
+friendlyBeans: [fava, green]
+antiBeans: [adzuki, navy]
+friendlyForm: smoked
+antiForm: roasted
 seasonalFortune: A season for brine and second glances. Pods that look ready are split open anyway; the sharp note under the heat is the one worth following.
 fortuneMost: The first answer was rehearsed; the pod cracks on the second question.
 fortuneMost2: A too-good offer is betting the countdown keeps you from looking underneath.
@@ -32,12 +32,12 @@ facetLowTitle: Pod Cracked on Instinct
 facetLow: First time meeting them, you already know you like this one. The gut read is enough — you spend the evening on it and never reach for a second opinion.
 facetLeastTitle: The Paste Jar, Undisturbed
 facetLeast: A gift arrives with no occasion behind it. You take it as plain kindness and don't go feeling around the edges for the hook.
-question: A friend forwards you a too-good deal — half-price flights, twelve hours only, the link buried in an unfamiliar domain. You...
-answerMost: open the registrar, the airline's actual site, and the small print before you reply
-answerHigh: ask which friend told them, and how that friend heard
-answerMid: paste the URL into a search and skim what comes back
-answerLow: glance at the URL, shrug, and forward it on
-answerLeast: book before the timer runs out
+question: A marketplace listing has the exact rare synth you've hunted for years at half price, seller newly joined, "cash today only." You...
+answerMost: reverse-image the photos, check the account's history, and ask for a video call before a penny moves
+answerHigh: ask how they came by it, and press on the answers that wobble
+answerMid: look the seller up and skim every review before replying
+answerLow: glance at the profile, shrug, and arrange to meet
+answerLeast: send the deposit before someone else grabs it
 rorschachMost: a low mouth bristling with bared teeth
 rorschachHigh: a crouched beast raising its spines to look
 rorschachMid: a wide crown with points along the rim

@@ -7,10 +7,10 @@ trait: silly
 dish: Butter bean and labneh with honey — cooked butter beans stirred through strained fermented yogurt and drizzled with wildflower honey.
 quote: The bean abides.
 creature: goose chick
-friendlyBeans: [mung, chickpea]
-antiBeans: [kidney, fava]
-friendlyForm: smoked
-antiForm: fried
+friendlyBeans: [pinto, adzuki]
+antiBeans: [cannellini, fava]
+friendlyForm: roasted
+antiForm: dried
 seasonalFortune: A season when the heaviest crocks turn sweetest. Cellars hum, the labneh slumps in its cloth, and the honeyjar tilts toward whoever passes nearest the shelf.
 fortuneMost: Wear the stupid hat to the serious occasion.
 fortuneMost2: Today the honeyjar tilts toward you — a stranger laughs before they meant to, and a whole table loosens behind them.

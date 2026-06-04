@@ -7,9 +7,9 @@ trait: stubborn
 dish: Rajma - Punjabi kidney bean curry with dried red chilies and whole spices.
 quote: It does not matter how slowly you go so long as you do not bean.
 creature: burro
-friendlyBeans: [navy, adzuki]
-antiBeans: [chickpea, fava]
-friendlyForm: smoked
+friendlyBeans: [adzuki, green]
+antiBeans: [edamame, mung]
+friendlyForm: dried
 antiForm: fermented
 seasonalFortune: A season that simmers without softening. Heat orbits the hull, chilies steeping the broth around a centre that will not yield its shape to the pot.
 fortuneMost: Pressure orbits you and breaks up harmless.
@@ -32,12 +32,12 @@ facetLowTitle: Broth Between the Beans
 facetLow: Moved to a different chair when the host redoes the seating? No flicker — you settle into wherever you've landed.
 facetLeastTitle: The Softening Chili
 facetLeast: A friend talks you out of the holiday you'd planned and into theirs. You hand over the whole itinerary and go along happily.
-question: An old friend's message has been sitting in the thread for four days. You know what to say, you just don't want to say it yet. You...
-answerMost: leave it; they'll get the reply when the terms feel right
-answerHigh: draft something honest, save it, send when ready
-answerMid: send a short holding line so they know it landed
-answerLow: type the awkward reply and send it before you can think
-answerLeast: call them instead and get it over with
+question: Halfway up the trail a landslide's wiped the path and the only way on is a long ugly scramble. The summit was the whole point. You...
+answerMost: take the scramble; you did not come this far to turn back
+answerHigh: find a harder line up and push through it
+answerMid: weigh it a while, then pick the safer way on
+answerLow: bank the view you've got and start back down
+answerLeast: call it, turn around, no summit's worth it
 rorschachMost: a toad squatting flat and refusing to move
 rorschachHigh: a boulder wedged low across the path
 rorschachMid: a tortoise hunkered down on wide feet

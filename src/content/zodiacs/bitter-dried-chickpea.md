@@ -7,10 +7,10 @@ trait: circumspect
 dish: Ceci in Zimino - chickpeas with bitter chard.
 quote: Look before you bean.
 creature: pangolin
-friendlyBeans: [cannellini, green]
-antiBeans: [navy, mung]
-friendlyForm: smoked
-antiForm: boiled
+friendlyBeans: [black, pinto]
+antiBeans: [mung, fava]
+friendlyForm: fermented
+antiForm: roasted
 seasonalFortune: The dried bean keeps longer than the green leaf, and the circumspect kitchen lives by that arithmetic. Bitter chard waits in cold water; nothing is committed until the broth has spoken.
 fortuneMost: A question can soak past the point others call it done, and yours will.
 fortuneMost2: You find the question under the question, the way an owl finds the movement under the grass.
@@ -32,12 +32,12 @@ facetLowTitle: Dropped in Cold Water
 facetLow: A trail forks with no sign and the light's going. You pick the left path on a hunch and start walking, the not-knowing left behind you.
 facetLeastTitle: Chopped Before It's Washed
 facetLeast: The idea lands and your hand's already up — yes, you're in, sign me on — committed out loud before any part of you has checked the footing, the leap taken on the spot.
-question: An invitation arrives for a weekend you're free. The host is a friend of a friend. You...
-answerMost: leave it open and watch what else comes in
-answerHigh: ask who else is going before replying
-answerMid: pencil it in and decide closer to the day
-answerLow: say yes the same evening
-answerLeast: reply yes before finishing the message
+question: A cousin asks to borrow a sum that would hurt to lose, promising to pay it back by spring. You...
+answerMost: ask for the whole story and sleep on it before answering
+answerHigh: lend less than asked and see how the first repayment goes
+answerMid: agree, but write the terms down where you both can see them
+answerLow: hand it over on a handshake the same afternoon
+answerLeast: say yes before they've finished asking
 rorschachMost: an owl peering down from a stump
 rorschachHigh: a wary cat perched above a ledge
 rorschachMid: a shrub rooted on a low mound

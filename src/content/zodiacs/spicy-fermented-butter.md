@@ -7,8 +7,8 @@ trait: eccentric
 dish: Kimchi jjigae with butter beans - fermented napa cabbage stew with gochugaru.
 quote: Here is your bean, soft reader. It is a little strange and so am I.
 creature: platypus
-friendlyBeans: [adzuki, black]
-antiBeans: [edamame, cannellini]
+friendlyBeans: [pinto, adzuki]
+antiBeans: [cannellini, edamame]
 friendlyForm: smoked
 antiForm: dried
 seasonalFortune: The crock keeps its own hours. Napa leaves slump on a schedule no almanac prints, and the kitchen learns to wait for a sourness that arrives sideways.

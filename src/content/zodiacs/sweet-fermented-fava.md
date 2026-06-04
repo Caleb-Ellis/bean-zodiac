@@ -8,9 +8,9 @@ dish: Fave dolci al Marsala — fava beans braised in sweet Marsala wine with su
 quote: The bean is not to predict the future but to imagine it.
 creature: bald eagle
 friendlyBeans: [chickpea, kidney]
-antiBeans: [cannellini, navy]
+antiBeans: [navy, adzuki]
 friendlyForm: fried
-antiForm: dried
+antiForm: boiled
 seasonalFortune: Marsala deepens in the crock; sugar and lemon bind to something the cook glimpsed weeks back. The season favours those whose private syrups now turn legible on the spoon.
 fortuneMost: Draw the future rough and slide it across to someone. The napkin sketch carries what a careful presentation never could.
 fortuneMost2: You'll hear the hinge turn before anyone else in the room.

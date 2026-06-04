@@ -7,8 +7,8 @@ trait: decisive
 dish: Agedashi - edamame with bitter dashi and daikon.
 quote: In any bean moment of decision, the best thing you can do is the right thing.
 creature: falcon
-friendlyBeans: [kidney, green]
-antiBeans: [mung, butter]
+friendlyBeans: [green, kidney]
+antiBeans: [adzuki, mung]
 friendlyForm: dried
 antiForm: fermented
 seasonalFortune: A season for sharp oil and short pans. Daikon grates itself thin against the season; pods scorch before the doubt arrives. The almanac favors the cut already made over the cut still being weighed.
@@ -32,12 +32,12 @@ facetLowTitle: Daikon at the Grater
 facetLow: The seed packets are all spread out and the bed's ready to plant. You hover, swap two rows, hover again — happy enough to leave it unplanted another day while it settles.
 facetLeastTitle: The Broth, Keeping Counsel
 facetLeast: Two roads off the trail, no map, light fading. Rather than just pick one and walk, you sit on the rock between them, content to wait until the right one announces itself.
-question: A friend hands you two flat options and asks you to pick. You...
-answerMost: pick one in the same breath and move the conversation on
-answerHigh: name the one within a minute, no hedge
-answerMid: weigh them aloud, then commit
-answerLow: lean toward one but leave the door open
-answerLeast: hand it back and ask them to choose
+question: Final point of the match, the ball loops up off the net, and it'll drop either side of the line — yours to call and swing at now. You...
+answerMost: commit to the shot before the ball's even peaked
+answerHigh: read the bounce and swing, no second guess
+answerMid: shuffle, pick a side, and go
+answerLow: edge one way while watching your partner for a sign
+answerLeast: freeze and let the ball decide where it lands
 rorschachMost: a chess piece set down on its square
 rorschachHigh: a bell hung still after one strike
 rorschachMid: a fire burning only its fuel

@@ -7,10 +7,10 @@ trait: perennial
 dish: Green bean gangjeong — dried green beans lacquered in honey and rice syrup, coated in sesame, and shaped into Korean confection pieces.
 quote: No matter how long the winter, spring is sure to bean.
 creature: redwood sloth
-friendlyBeans: [kidney, edamame]
-antiBeans: [mung, fava]
-friendlyForm: fried
-antiForm: smoked
+friendlyBeans: [kidney, navy]
+antiBeans: [mung, chickpea]
+friendlyForm: boiled
+antiForm: fermented
 seasonalFortune: Honey holds the bloom past frost and sets it down again come thaw; what this bean keeps, it keeps by coming back to.
 fortuneMost: A vine coming back over the same fence, year on year.
 fortuneMost2: The friend who vanished walks back in, and the kettle's already warming.

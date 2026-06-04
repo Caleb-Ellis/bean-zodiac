@@ -7,10 +7,10 @@ trait: daring
 dish: Sfinci di fave — Sicilian fried dough puffs filled with sweetened fava bean paste and dusted with icing sugar.
 quote: Fortune befriends the bean.
 creature: panther
-friendlyBeans: [edamame, chickpea]
-antiBeans: [adzuki, cannellini]
+friendlyBeans: [chickpea, edamame]
+antiBeans: [adzuki, navy]
 friendlyForm: fermented
-antiForm: fermented
+antiForm: boiled
 seasonalFortune: Oil at temperature, dough rising mid-air — a season that rewards the hand that drops without looking, and forgives the puff that splits.
 fortuneMost: Say it to their face before you've rehearsed it.
 fortuneMost2: Oil at temperature, dough dropping mid-air without a look down.
@@ -32,12 +32,12 @@ facetLowTitle: The Pan Still Heating
 facetLow: The open-mic sign-up sheet is right there and half-full. You hover, decide it isn't your turn to step up, and let the urge cool without writing your name.
 facetLeastTitle: Every Jar Lidded
 facetLeast: A balloon's giving walk-up rides at the edge of the field, basket sitting right there at waist height. You're perfectly content to wave it up from solid ground.
-question: At a party someone you've been quietly into is leaving and you haven't said a word. You...
-answerMost: catch them at the door and ask them out
-answerHigh: walk over and start a conversation, see what happens
-answerMid: wave and call out a goodbye that opens the door
-answerLow: smile across the room and hope they look back
-answerLeast: let them go and tell yourself it wasn't the moment
+question: At the sunny market café you've traded glances with someone all morning, and now they're paying up and gathering their things to go. You...
+answerMost: step over and ask if they'd want to walk the stalls together
+answerHigh: fall into step beside them and start talking
+answerMid: hold the gate and let a line or two pass between you
+answerLow: catch their eye one more time and hope they speak first
+answerLeast: let the crowd take them and tell yourself it's better that way
 rorschachMost: a bull lowering its head, one horn curling up
 rorschachHigh: a scorpion with its tail arched to strike
 rorschachMid: a wave cresting with a curl of spray

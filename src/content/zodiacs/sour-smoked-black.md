@@ -7,8 +7,8 @@ trait: withering
 dish: Sopa tarasca - smoked black bean purée with ancho chile, crema, and pickled chipotle
 quote: Hell hath no fury like a bean scorned.
 creature: spitting cobra
-friendlyBeans: [navy, cannellini]
-antiBeans: [adzuki, chickpea]
+friendlyBeans: [fava, navy]
+antiBeans: [adzuki, green]
 friendlyForm: dried
 antiForm: roasted
 seasonalFortune: A season of low smoke and slow verdicts. Ancho darkens in the pan; the household learns which silences mean a pot has already been judged.
@@ -32,12 +32,12 @@ facetLowTitle: Ancho in Warm Oil
 facetLow: A neighbour breaks a thing they borrowed and barely mentions it. The ledger in you wants to mark it; you wave it off and mean the wave.
 facetLeastTitle: The Softened Bowl
 facetLeast: Here's the person an old grudge would shut out for good, standing in the doorway asking to come back in. You hold it open.
-question: Someone at a dinner party tells a long anecdote that ends with a punchline that doesn't quite land. The table laughs anyway, politely. You...
-answerMost: meet their eyes for one beat and look away
-answerHigh: smile thinly and take a sip
-answerMid: laugh half a second late
-answerLow: laugh on time and ask a follow-up question
-answerLeast: laugh loudest and ask them to tell the next one
+question: At the open mic a nervous poet finishes a piece that didn't land, and the room gives the soft obligatory clap. You...
+answerMost: hold your hands still and let the silence say it
+answerHigh: clap twice, flat, and look at your drink
+answerMid: clap with the room, a half-beat behind
+answerLow: clap warmly and catch their eye with a nod
+answerLeast: whoop, applaud hard, and call out for one more
 rorschachMost: a scorched hedge shriveling back from the fire
 rorschachHigh: a wreath drying brown, edges curling in
 rorschachMid: a ragged storm cloud with a small gap

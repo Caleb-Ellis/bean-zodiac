@@ -7,10 +7,10 @@ trait: reflective
 dish: Shiro ae - butter beans dressed in white miso, ground sesame, and tofu.
 quote: Who looks outside, dreams; who looks inside, finds a bean.
 creature: scops owl
-friendlyBeans: [adzuki, pinto]
-antiBeans: [kidney, edamame]
+friendlyBeans: [adzuki, mung]
+antiBeans: [edamame, green]
 friendlyForm: smoked
-antiForm: dried
+antiForm: fried
 seasonalFortune: Miso slackens in its crock; the season favors what has been kept long enough to deepen.
 fortuneMost: An old remark is about to give up a meaning the speaker never knew was in it.
 fortuneMost2: A conversation you keep returning to finally releases what it was holding.

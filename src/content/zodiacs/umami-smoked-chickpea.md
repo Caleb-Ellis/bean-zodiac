@@ -7,8 +7,8 @@ trait: wordless
 dish: Garbanzos con bacalao y pimentón ahumado - chickpeas with salt cod and smoked paprika.
 quote: Actions speak louder than bean.
 creature: koi
-friendlyBeans: [fava, green]
-antiBeans: [navy, pinto]
+friendlyBeans: [mung, fava]
+antiBeans: [pinto, adzuki]
 friendlyForm: fermented
 antiForm: boiled
 seasonalFortune: A season cured low and slow. Salt cod gives up its brine to the chickpea; paprika settles into corners; what passes between people this quarter travels by smoke, not by sentence.
@@ -32,12 +32,12 @@ facetLowTitle: Chickpeas Into the Oil
 facetLow: The hiking group's split on which fork to take. You say it out loud, plainly — this way, and here's why.
 facetLeastTitle: Paprika by the Quarter-Teaspoon
 facetLeast: A look won't carry it at the departure gate, so you say it in plain words — exactly what they've meant to you.
-question: A friend tells you something heavy over coffee and looks up, waiting. You...
-answerMost: top up their cup and meet their eyes
-answerHigh: reach across and rest a hand on their wrist
-answerMid: say "I'm sorry — that's a lot" and let the pause sit
-answerLow: tell them what you'd do in their place
-answerLeast: lay out three options and ask which they're leaning toward
+question: At your father's hospital bedside, both of you knowing what's coming, the room very quiet. You...
+answerMost: take his hand and stay, letting the silence hold what neither of you can say
+answerHigh: smooth the blanket, refill the water, be the steady presence in the room
+answerMid: say one plain true thing, then let the quiet come back
+answerLow: keep talking to fill the room and hold the dread off
+answerLeast: walk him through the practicalities, the steps, what happens next
 rorschachMost: a smooth river stone worn quiet
 rorschachHigh: a blanket folded over something kept private
 rorschachMid: a potato turned up from the dirt

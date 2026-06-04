@@ -8,7 +8,7 @@ dish: Yokan — dried adzuki beans pressed into sweet paste and set with agar in
 quote: Love is patient, love is bean.
 creature: swan
 friendlyBeans: [navy, butter]
-antiBeans: [chickpea, fava]
+antiBeans: [fava, chickpea]
 friendlyForm: boiled
 antiForm: fermented
 seasonalFortune: Yokan keeps for months on the shelf, sweetness compounding in the dark. The season favors what was set early and outlasts the weather that made it.

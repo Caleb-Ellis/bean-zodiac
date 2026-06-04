@@ -7,9 +7,9 @@ trait: ferocious
 dish: Dashi-smoked edamame with yuzu kosho - cold-smoked edamame with spicy citrus pepper paste.
 quote: Cry 'Havoc!' and let slip the beans of war.
 creature: wolverine
-friendlyBeans: [black, kidney]
-antiBeans: [mung, adzuki]
-friendlyForm: dried
+friendlyBeans: [green, fava]
+antiBeans: [adzuki, mung]
+friendlyForm: fried
 antiForm: roasted
 seasonalFortune: A season of cold smoke and quick heat; the rooms this person enters tilt toward the door they came through, the air already changed before anyone looks up.
 fortuneMost: Yuzu kosho hits before you've named the heat, and so do you — moving while everyone's still calibrating, right more often than not.

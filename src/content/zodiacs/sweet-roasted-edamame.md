@@ -7,8 +7,8 @@ trait: considerate
 dish: Miso-maple roasted edamame — shelled soybeans roasted until crisp, glazed in white miso and maple syrup.
 quote: Excellence is never granted to a bean; it must be earned.
 creature: manatee
-friendlyBeans: [chickpea, mung]
-antiBeans: [black, fava]
+friendlyBeans: [mung, cannellini]
+antiBeans: [black, pinto]
 friendlyForm: fried
 antiForm: fermented
 seasonalFortune: A season of slow glazing. Miso darkens by degrees, maple tightens around the pod, and the days reward whoever stays near the tray long enough to turn each one.
@@ -32,12 +32,12 @@ facetLowTitle: A Handful Warm From the Bowl
 facetLow: A dropped glove lies on the pavement just ahead of its owner. You see it, keep your hands in your pockets, and walk on.
 facetLeastTitle: The Glaze Pooled, the Rest Forgotten
 facetLeast: Someone across the café keeps glancing over, clearly hoping you'll offer the empty chair beside you. You leave it where it is and read on.
-question: You're at a friend's birthday dinner, exhausted from your own week. Halfway through the mains, the friend's plus-one looks adrift and the host is busy at the other end of the table. You...
-answerMost: slide your chair over and ask the plus-one how they met the birthday girl
-answerHigh: catch their eye and pull them into the conversation already happening on your side
-answerMid: smile across the table and trust someone closer to handle it
-answerLow: tell yourself someone else will get to them and refill your glass
-answerLeast: stay in your own conversation and let the evening sort itself out
+question: Last bus, you're wrung out by the window. Up front an old man fumbles his fare, coins skittering, and the driver's jaw sets. You...
+answerMost: get up, gather the coins, and cover the difference yourself
+answerHigh: call out that you'll sort it and wave him to a seat
+answerMid: half-rise, then see if anyone nearer steps in
+answerLow: tell yourself the driver will let it slide and look back out the window
+answerLeast: keep your forehead on the glass and let it play out
 rorschachMost: a ladle tipped to fill a waiting cup
 rorschachHigh: a hand reaching across to a full bowl
 rorschachMid: a pear resting beside a leafy sprig

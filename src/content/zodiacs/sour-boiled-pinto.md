@@ -7,8 +7,8 @@ trait: sarcastic
 dish: Pinto bean and tomatillo caldo with lime and serrano.
 quote: Sarcasm is the lowest form of wit but the highest form of bean.
 creature: kea parrot
-friendlyBeans: [adzuki, chickpea]
-antiBeans: [kidney, fava]
+friendlyBeans: [adzuki, edamame]
+antiBeans: [mung, cannellini]
 friendlyForm: roasted
 antiForm: smoked
 seasonalFortune: A season for caldos left to reduce. The tomatillo's tang sharpens against long heat, and what passes for weather has an aftertaste this year.
@@ -32,12 +32,12 @@ facetLowTitle: Pintos Past Their Shape
 facetLow: A genuine compliment comes your way and the reflex is to deflect it with a wisecrack. The bit gets left in its holster; you just say thank you and let it be true.
 facetLeastTitle: Caldo Poured Without Garnish
 facetLeast: A friend is hurting and needs you plain — no armour, no angle. The whole sardonic kit goes down on the floor, and what comes out is warm and unguarded and straight.
-question: A colleague launches, again, into the meeting-monologue everyone has now heard four times. You catch the eye of the person across the table. You...
-answerMost: deliver the perfectly-timed one-liner under your breath
-answerHigh: hold the look a beat longer than necessary and say nothing
-answerMid: half-smile and look back at your notes
-answerLow: nod along and let the moment pass
-answerLeast: ask a sincere follow-up question and mean it
+question: The street preacher on the corner is mid-sermon, and a tourist beside you turns to share a look. You...
+answerMost: land the perfect dry aside before the moment passes
+answerHigh: hold the look a beat too long and say nothing
+answerMid: half-smile and keep walking
+answerLow: shrug and let the tourist make their own joke
+answerLeast: stop and listen to the sermon in earnest
 rorschachMost: a big cat side-eyeing a small dog
 rorschachHigh: a hare giving a tortoise a long flat look
 rorschachMid: two heads almost touching across a gap

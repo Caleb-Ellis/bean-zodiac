@@ -7,10 +7,10 @@ trait: refined
 dish: Bruschetta - cannellini with bitter olive tapenade and roasted garlic.
 quote: A bean by any other name would taste as fine.
 creature: mute swan
-friendlyBeans: [navy, mung]
-antiBeans: [fava, kidney]
-friendlyForm: fermented
-antiForm: smoked
+friendlyBeans: [mung, butter]
+antiBeans: [fava, black]
+friendlyForm: fried
+antiForm: fermented
 seasonalFortune: A season for the long heat that coaxes garlic from acrid to mellow. Households of this bean keep the oven on past dinner, slow-finishing what others would already serve.
 fortuneMost: You wipe the rim no one else would ever notice.
 fortuneMost2: Three small things moved before the guests arrive, and the place exhales.

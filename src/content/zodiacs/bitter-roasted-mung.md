@@ -7,9 +7,9 @@ trait: humble
 dish: Khichdi - roasted mung beans with bitter fenugreek.
 quote: Blessed are the bean in spirit, for theirs is the kingdom of heaven.
 creature: wren
-friendlyBeans: [butter, chickpea]
-antiBeans: [edamame, green]
-friendlyForm: boiled
+friendlyBeans: [butter, adzuki]
+antiBeans: [edamame, pinto]
+friendlyForm: smoked
 antiForm: fried
 seasonalFortune: A pot of khichdi fed the field hands and the cook went unnamed. The season belongs to small work done well — fenugreek bitterness folded into roasted grain, the kitchen warm, the door left unmarked.
 fortuneMost: The pot fed the whole field and nobody asked who cooked it.
@@ -32,12 +32,12 @@ facetLowTitle: A Seed Insisting on the Tongue
 facetLow: Asked by a stranger what you've made of yourself, name the real thing you built and let it stand there without a shrug.
 facetLeastTitle: The Khichdi With Its Portrait
 facetLeast: First through the door at the gathering, you're already telling the room about the thing you pulled off this week.
-question: At a team meeting, a project you led is being praised. The room looks at you. You...
-answerMost: hand the credit entirely to two colleagues and change the subject
-answerHigh: thank everyone and name the people who helped most
-answerMid: say thanks, accept it, mention it was a team effort
-answerLow: take the credit and add what you'd do differently next time
-answerLeast: walk them through exactly what you did and why it worked
+question: The whole street turned out for the river clean-up you quietly organised, and now someone's raising a glass to thank you by name. You...
+answerMost: wave it off and toast the dozen others who actually waded in
+answerHigh: thank them and name the people who carried the heavy end
+answerMid: accept it warmly and call it everyone's doing
+answerLow: take the thanks and mention what you'd organise better next time
+answerLeast: tell them how you pulled the whole thing together, step by step
 rorschachMost: a plain sack set beside a carved mask
 rorschachHigh: a bowed head turned from an ornate one
 rorschachMid: a round stone next to a knotted root

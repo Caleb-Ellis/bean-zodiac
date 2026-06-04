@@ -7,10 +7,10 @@ trait: formidable
 dish: Fave e cicoria - dried fava bean puree with wilted bitter chicory and olive oil.
 quote: A bean in the hand is worth two in the bush.
 creature: bear
-friendlyBeans: [green, kidney]
-antiBeans: [butter, adzuki]
+friendlyBeans: [edamame, green]
+antiBeans: [mung, adzuki]
 friendlyForm: fried
-antiForm: roasted
+antiForm: smoked
 seasonalFortune: A season for what has cured slow in the dark. The puree settles thickest at the bottom of the pot; weight gathers in those who have waited out their own softening.
 fortuneMost: Wherever you stand, the day organises itself around you.
 fortuneMost2: A weight is coming that nobody else will want to carry.
@@ -32,12 +32,12 @@ facetLowTitle: Oil Finding Every Edge
 facetLow: A wobble on the rope bridge and you don't tense up — you let your weight tell you when there's real trouble, and walk on loose until it does.
 facetLeastTitle: The Shared Bowl
 facetLeast: Old friend through the arrivals gate, and before a single thing about you comes up you're asking how their mother is, how the move went, whether they slept.
-question: A junior coworker has just done something that needs naming clearly, not harshly. They're standing in your doorway looking braced. You...
-answerMost: name the thing in one flat sentence and let the silence do the rest
-answerHigh: tell them straight, then sit with them while it lands
-answerMid: walk through it calmly, then ask what they think they'd do differently
-answerLow: soften the open with something warm, then get to it
-answerLeast: tell them it's really not a big deal and send them off
+question: On a dim street a man steps into your path, sizes you up, and asks for a light in a way that isn't quite about a light. You...
+answerMost: square up, meet his eyes, and let him read that you're not the one
+answerHigh: stop, plant your feet, and answer evenly without giving ground
+answerMid: keep walking at your own pace and watch him in the glass ahead
+answerLow: mutter something and step wide around him
+answerLeast: drop your eyes, quicken up, and get past fast
 rorschachMost: a mushroom cloud towering over a narrow stem
 rorschachHigh: a great oak crown rising from one trunk
 rorschachMid: a head of broccoli standing on its stalk

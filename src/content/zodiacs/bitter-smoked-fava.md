@@ -7,8 +7,8 @@ trait: otherworldly
 dish: Smoked fava, twice-prepared, with bitter ash.
 quote: We are made of bean stuff.
 creature: selkie
-friendlyBeans: [mung, butter]
-antiBeans: [butter, cannellini]
+friendlyBeans: [mung, chickpea]
+antiBeans: [adzuki, cannellini]
 friendlyForm: fermented
 antiForm: boiled
 seasonalFortune: A season for tongues that read smoke. The twice-prepared bean lives at the edge of two fires, and those who carry its temperament drift through rooms half-listening to what no one else has said.

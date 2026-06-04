@@ -32,12 +32,12 @@ facetLowTitle: The Pot Claims the Stove
 facetLow: The quiet hand you lent is reading as no hand at all, and the credit's drifting elsewhere. You sign your name to it plainly, so they see it was you.
 facetLeastTitle: Sugar Before the First Sip
 facetLeast: A crowd's gathered and the thing you built is finally being shown. You step up and walk them through it part by part, in your own name, out loud.
-question: You finish the unglamorous job nobody else wanted, the room is full, and the lead is about to wrap the meeting. You...
-answerMost: stay silent and let the work be discovered on its own
-answerHigh: mention it in one short sentence and move the agenda forward
-answerMid: bring it up only if directly asked, and keep the answer flat
-answerLow: drop a hint that lets someone else surface it for you
-answerLeast: walk the table through what you did, step by step
+question: You quietly cleared the debt that had been crushing your brother, and at the next family lunch he still doesn't know it was you. You...
+answerMost: let him believe it sorted itself and never say a word
+answerHigh: tell him it's handled and leave out who handled it
+answerMid: tell him only if he asks directly, and keep it brief
+answerLow: let a small hint slip so someone connects it for him
+answerLeast: tell him over the starter, plainly, that it was you
 rorschachMost: a plain pebble worn smooth and grey
 rorschachHigh: a chestnut still half in its husk
 rorschachMid: a walnut sitting whole on a table

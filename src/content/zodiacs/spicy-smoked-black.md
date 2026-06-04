@@ -7,8 +7,8 @@ trait: murky
 dish: Mole negro - Oaxacan black beans simmered in smoked mulato and pasilla chile sauce.
 quote: Still waters run bean.
 creature: catfish
-friendlyBeans: [navy, cannellini]
-antiBeans: [adzuki, green]
+friendlyBeans: [fava, cannellini]
+antiBeans: [adzuki, edamame]
 friendlyForm: dried
 antiForm: roasted
 seasonalFortune: A season cured in slow smoke. Chiles soften into something unreadable; the pot keeps its own counsel, and the days take on a flavor no one nearby can quite name.
@@ -32,12 +32,12 @@ facetLowTitle: The Bright Pour
 facetLow: Halfway through a haircut the stylist asks how things are, and the whole hard month is out of you before you've decided to share it.
 facetLeastTitle: Every Aromatic in Plain Sight
 facetLeast: Two hours into a bus ride beside a stranger, the whole map of you is out on the seat between you — the worries, the plans, the thing you've told no one.
-question: A friend asks how you're really doing and waits for the real answer. You...
-answerMost: say "fine, you?" and mean the door is closed
-answerHigh: offer one small true thing and steer back to them
-answerMid: give the honest summary minus the messy part
-answerLow: tell them more than you meant to and regret it by the car
-answerLeast: unload the whole week before they've finished asking
+question: At a cousin's sunlit wedding, an old schoolmate steers you to a quiet corner and asks for the real story of why you left town. You...
+answerMost: smile, say "ah, long story," and steer it firmly back to them
+answerHigh: give one true line and turn the question around
+answerMid: tell it honestly but leave the messy part out
+answerLow: say more than you meant to and feel it by the cake
+answerLeast: pour the whole tangled history out before the toast
 rorschachMost: two hooded figures turned away from each other
 rorschachHigh: two crows hunched apart at dusk
 rorschachMid: a walnut split into its two halves

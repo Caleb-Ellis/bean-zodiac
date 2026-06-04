@@ -7,8 +7,8 @@ trait: optimistic
 dish: Gān biān sìjì dòu - Sichuan dry-fried green beans with chili bean paste and Sichuan pepper.
 quote: In the middle of every difficulty lies a beany opportunity.
 creature: robin
-friendlyBeans: [kidney, pinto]
-antiBeans: [fava, cannellini]
+friendlyBeans: [kidney, fava]
+antiBeans: [black, navy]
 friendlyForm: fried
 antiForm: dried
 seasonalFortune: A season for the dry-fried pod — heat first, water last, the cook trusting that something blistered keeps better than something stewed.
@@ -32,12 +32,12 @@ facetLowTitle: Sichuan Pepper Set Aside
 facetLow: A plan you've been sure of starts wobbling. Say the worst case out loud, plainly, the once — and let it be true a moment instead of patched over.
 facetLeastTitle: The Pod Left Raw
 facetLeast: A stranger's venture is laid out for you, all upside. You'd rather count the ways it sinks first and price the rescue boat before you nod.
-question: A friend rings in tears about a job they didn't get — the third in a row, and they're starting to spiral. You...
-answerMost: tell them the right one is still coming and start naming reasons why
-answerHigh: name one real bright spot, then listen properly for an hour
-answerMid: let them vent, agree it's hard, ask what they need from you
-answerLow: sit with the bad news, ask the hard questions, don't reach for silver linings
-answerLeast: gently raise the things they might want to change before the next one
+question: The audition feedback comes back mixed — not a no, not a yes, a callback maybe — and they leave it to you how to read it. You...
+answerMost: latch onto the warm half and start planning the whole season around it
+answerHigh: hold the one real bright spot and ask what would make it a yes
+answerMid: take it as it is, ask what they actually meant
+answerLow: sit with the cool half, press for the blunt specifics, no comfort
+answerLeast: assume it tilts toward no and brace for that
 rorschachMost: two open palms lifted to catch the light
 rorschachHigh: a seed pod splitting along its seam
 rorschachMid: two cupped leaves divided by a stem

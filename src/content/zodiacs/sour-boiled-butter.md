@@ -8,7 +8,7 @@ dish: Avgolemono - butter bean soup with dill and lemon.
 quote: The bean will set you free, but first it will make you uncomfortable.
 creature: saint bernard
 friendlyBeans: [navy, adzuki]
-antiBeans: [green, kidney]
+antiBeans: [green, pinto]
 friendlyForm: dried
 antiForm: fermented
 seasonalFortune: A season that thins the broth and shows what was steeping under the dill. Acid finds its level. Plain statements outlast clever ones; soft edges curdle.

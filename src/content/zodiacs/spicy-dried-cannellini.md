@@ -7,10 +7,10 @@ trait: unerring
 dish: Pasta e fagioli - dried cannellini and pasta soup with peperoncino.
 quote: I came, I saw, I beaned.
 creature: gyrfalcon
-friendlyBeans: [mung, black]
-antiBeans: [green, kidney]
+friendlyBeans: [edamame, pinto]
+antiBeans: [kidney, fava]
 friendlyForm: boiled
-antiForm: fried
+antiForm: roasted
 seasonalFortune: Dried beans hold their shape through long heat; peperoncino leaves a mark that outlasts the bowl. So with this one — measured, and lingering.
 fortuneMost: You'll see the real problem before anyone's finished explaining it.
 fortuneMost2: A bean that holds its shape through long heat, a pepper that outlasts the bowl.
@@ -32,12 +32,12 @@ facetLowTitle: Where the Spoon Rested
 facetLow: How do you keep track of it all, someone asks. There's no system to point to; you know where things are by the feel of the place, and you'd leave it that way.
 facetLeastTitle: Scattered Heat
 facetLeast: Three small favours, all at once, from someone you just met. None gets an exact answer — you wave them through and don't keep a tally.
-question: A colleague hands you a draft and asks for "any quick thoughts." You see four real problems. You...
-answerMost: mark all four, precisely, and send it back with a numbered list
-answerHigh: name the two that matter and let the rest stand
-answerMid: flag one big thing and say the rest is solid
-answerLow: say it reads well and make a mental note of the issues
-answerLeast: thumbs-up and move on; not your draft, not your problem
+question: Building the bookshelf into the alcove, the printed cut-list and your own measurements no longer agree, and the timber's already on the saw. You...
+answerMost: measure the alcove three ways yourself and trust your own numbers over the sheet
+answerHigh: check the plan against the one wall you know is square, then commit
+answerMid: cut to the printed sizes but keep the tape close
+answerLow: follow the cut-list and hope it was drawn up right
+answerLeast: eyeball it, cut long, and trim to fit later
 rorschachMost: two beaks meeting exactly across a hair's gap
 rorschachHigh: a wolf's head squared off against its mirror
 rorschachMid: two animal heads facing across a seam

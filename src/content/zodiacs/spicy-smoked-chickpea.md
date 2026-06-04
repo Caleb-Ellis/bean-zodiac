@@ -7,9 +7,9 @@ trait: frenetic
 dish: Fatteh - Syrian smoked chickpeas layered with crisp bread, yogurt, and chili oil.
 quote: Life moves pretty fast — if you don't stop and bean around once in a while, you could miss it.
 creature: shrew
-friendlyBeans: [fava, mung]
-antiBeans: [butter, navy]
-friendlyForm: roasted
+friendlyBeans: [fava, kidney]
+antiBeans: [cannellini, butter]
+friendlyForm: fermented
 antiForm: boiled
 seasonalFortune: A season of smoke rising from three burners at once, bread torn before the yogurt is whisked, chili oil drifting through rooms its cook has already left.
 fortuneMost: Three burners going, chili oil drifting through a room you've already left — that's the dinner, the trip, the whole thing, happening because you can't sit.
@@ -32,12 +32,12 @@ facetLowTitle: Yogurt Left to Set
 facetLow: A jigsaw puzzle is spread across the table, half done. You stay in the chair and work one corner till it's solid, ignoring the dozen other things tugging at you.
 facetLeastTitle: The Single Burner
 facetLeast: A whole empty day stretches out, and you spend the entire thing on a single park bench with one book, watching the same pond go gold.
-question: You sit down to finish one task and a better idea arrives unannounced. You...
-answerMost: drop the first task and chase the new one immediately
-answerHigh: open a new tab "just to sketch it" and lose an hour
-answerMid: jot the idea on a sticky note and keep going
-answerLow: finish the task first, knowing the idea might fade
-answerLeast: ignore the idea entirely; you started this and you're finishing it
+question: A twisted ankle and orders to keep your foot up for the day. By mid-morning you're climbing the walls. You...
+answerMost: are up and limping between three half-started chores by lunch
+answerHigh: prop the foot, then quietly reorganise everything within arm's reach
+answerMid: fidget, get one small thing done, make yourself sit back down
+answerLow: grumble but keep still and let the day go slow
+answerLeast: settle in, ice it, and actually rest the way you were told
 rorschachMost: a cat mid-leap, legs flung every way
 rorschachHigh: a jester's cap with points jutting out
 rorschachMid: a beetle with all its legs splayed

@@ -7,9 +7,9 @@ trait: self-aware
 dish: Adzuki and natto rice bowl with ponzu and spring onion.
 quote: Know thyself? If I knew myself, I'd bean away.
 creature: macaque
-friendlyBeans: [pinto, chickpea]
+friendlyBeans: [chickpea, pinto]
 antiBeans: [navy, edamame]
-friendlyForm: roasted
+friendlyForm: smoked
 antiForm: dried
 seasonalFortune: A season of long ferments and clear ponzu. The pickled adzuki sits in its brine and is not surprised by what the brine has drawn out of it.
 fortuneMost: The first thing you reached for was the honest one.

@@ -7,8 +7,8 @@ trait: apathetic
 dish: Pinto beans slow-braised with fish sauce, caramelised onion, and lime.
 quote: The opposite of bean is not hate, it's indifference.
 creature: sloth
-friendlyBeans: [adzuki, chickpea]
-antiBeans: [black, cannellini]
+friendlyBeans: [chickpea, adzuki]
+antiBeans: [kidney, black]
 friendlyForm: roasted
 antiForm: boiled
 seasonalFortune: A long braise dulls the senses; the onion blackens past sweetness and no one at the table reaches for the lime.
@@ -32,12 +32,12 @@ facetLowTitle: Lime on the Rim
 facetLow: A busker's playing something on the corner and it catches you mid-step — a small lift, before you've decided to feel anything.
 facetLeastTitle: One Drop of Fish Sauce
 facetLeast: A stranger's dog bounds up wanting to play, and you're down on the pavement laughing with it before you think to mind your coat.
-question: A friend invites you to the thing you used to love. You...
-answerMost: leave the message on read
-answerHigh: say maybe, mean probably not
-answerMid: agree, then bail the morning of
-answerLow: go, sit at the edge of it
-answerLeast: go, and stay until the lights come up
+question: The first warm morning of spring lands on the garden you used to live in. You...
+answerMost: leave the curtains drawn and stay where you are
+answerHigh: mean to get out there, find reasons not to
+answerMid: step outside, then drift back in within the hour
+answerLow: pull a few weeds at the edge and call it enough
+answerLeast: spend the whole day in the dirt and lose the light to it
 rorschachMost: a cat slumped asleep and not stirring
 rorschachHigh: a heavy sack settled flat on the floor
 rorschachMid: a mossy boulder resting in a field

@@ -32,12 +32,12 @@ facetLowTitle: Sugar in the Dipping Bowl
 facetLow: Held up a fresh tattoo someone's thrilled with, you go hunting for the warm half of your opinion and hand over only that.
 facetLeastTitle: The Cooling Pan
 facetLeast: A grieving stranger on a long bus ride tells you their plans, and the plans won't work. You let the wheels turn and say nothing.
-question: A coworker shows you a slide deck five minutes before the meeting and asks "does this make sense?" One slide doesn't. You...
-answerMost: point to it and say what isn't landing
-answerHigh: flag the slide and offer a quick rewording
-answerMid: say "mostly — one bit I'd revisit" and let them ask
-answerLow: nod, then mention it after the meeting
-answerLeast: say "looks great" and brace for the question in the room
+question: At the woodworking class the instructor rattles through the joint and asks if it's clear. You followed maybe half, and one step looked plain wrong. You...
+answerMost: stop them and say plainly which step you don't buy
+answerHigh: ask them to back up and walk through the part that didn't sit right
+answerMid: say "one thing I'm not sure about" and see if they slow down
+answerLow: say it's fine, then look it up anxiously at the bench
+answerLeast: nod, say "got it," and start cutting with the doubt swallowed
 rorschachMost: two open chests, one above the other, lids thrown back
 rorschachHigh: two loaves split down the top to show the crumb
 rorschachMid: two storm clouds stacked over a flat horizon

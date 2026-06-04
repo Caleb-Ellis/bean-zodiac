@@ -8,7 +8,7 @@ dish: Fave e guanciale - fava beans simmered with cured pork jowl and sage.
 quote: Eternal bean is the price of liberty.
 creature: sentinel hawk
 friendlyBeans: [black, kidney]
-antiBeans: [adzuki, cannellini]
+antiBeans: [adzuki, pinto]
 friendlyForm: smoked
 antiForm: roasted
 seasonalFortune: A long simmer asks for company. The pot does not boil over for those who stay nearby, and the sage gives its salt up only to a listening room.
@@ -32,12 +32,12 @@ facetLowTitle: The Pot's Own Time
 facetLow: No signal at the cabin, no working clock, nothing that needs watching. The day runs on hunger and tiredness alone, and you don't go hunting the quiet for a catch in it.
 facetLeastTitle: Salt and Fat, Blurred
 facetLeast: A storm rolls in and somehow catches you flat-footed, washing off the line. Let the weather arrive when it arrives — you needn't have read the sky to be alright.
-question: You're at a small dinner and notice that one guest has gone unusually quiet over the last ten minutes. You...
-answerMost: catch their eye, find a quiet moment, and check in directly
-answerHigh: steer the table conversation gently toward something they can join
-answerMid: pass the bread their way and leave a small opening
-answerLow: assume they're tired and let them rest in the noise
-answerLeast: carry on as normal; if it mattered, they'd say so
+question: Out on the water the wind has shifted and the gulls have gone still, though the sky overhead is clear. You...
+answerMost: turn for shore now and ready the boat for weather
+answerHigh: cut the trip short and start working back in
+answerMid: hold position a while and keep one eye on the horizon
+answerLow: note it, but stay out as long as the sky stays blue
+answerLeast: fish on; a calm sky is a calm sky
 rorschachMost: a cat crouched ears-up at a sound
 rorschachHigh: a guard dog's head lifted and turned
 rorschachMid: a rounded rock with one chipped peak

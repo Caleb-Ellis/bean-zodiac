@@ -7,9 +7,9 @@ trait: assertive
 dish: Cannellini fritto with bitter lemon and flat-leaf parsley.
 quote: Here I stand. I can bean no other.
 creature: ram
-friendlyBeans: [kidney, edamame]
+friendlyBeans: [edamame, kidney]
 antiBeans: [butter, mung]
-friendlyForm: dried
+friendlyForm: fermented
 antiForm: smoked
 seasonalFortune: A season that rewards a crisped edge. The lemon cuts close to the rind, parsley laid down late, and what is said in the kitchen carries to the table without softening.
 fortuneMost: Lead with the real thing.
@@ -32,12 +32,12 @@ facetLowTitle: Oil, Just Below Smoke
 facetLow: Long way round, and the cab driver knows you know. It's a small fare. Not worth a scene — you just pay it, watching the meter, saying nothing.
 facetLeastTitle: Parsley, No Pattern
 facetLeast: Everyone wants you to settle the argument and take a side. You won't — you talk around it, find what's right in both, and let the room stay undecided rather than draw the line.
-question: Someone proposes a plan you think is mildly wrong, and the table is nodding along. You...
-answerMost: say it's the wrong plan and say why, in one line
-answerHigh: name your objection clearly and let it sit
-answerMid: ask the one question that surfaces the problem
-answerLow: hedge a little, hope someone else raises it
-answerLeast: nod along and bring it up never
+question: The plumber starts running the new pipe along the wall you'd asked him to keep clear. You...
+answerMost: stop him mid-cut and say it goes the other way
+answerHigh: tell him plainly that's not the plan, before more pipe goes up
+answerMid: ask whether the other route would still work
+answerLow: hint that you'd half-imagined it elsewhere, then let him carry on
+answerLeast: decide it's fine and pay the bill without a word
 rorschachMost: a bulldog squared up on planted legs
 rorschachHigh: an oak holding its ground in wind
 rorschachMid: a toadstool with a wide low cap

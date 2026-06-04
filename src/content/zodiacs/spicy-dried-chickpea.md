@@ -7,9 +7,9 @@ trait: conductive
 dish: Harira - Moroccan chickpea soup with ras el hanout.
 quote: It only takes a bean to start a great fire.
 creature: electric eel
-friendlyBeans: [fava, kidney]
-antiBeans: [butter, navy]
-friendlyForm: fried
+friendlyBeans: [kidney, adzuki]
+antiBeans: [butter, black]
+friendlyForm: roasted
 antiForm: boiled
 seasonalFortune: One bowl of harira passes through a household and the cumin lingers in the curtains for weeks; the chickpea travels further than the spoon that carried it.
 fortuneMost: Wherever you go, something starts — an argument, a plan, the overdue talk.
@@ -32,12 +32,12 @@ facetLowTitle: Ginger Kept Whole
 facetLow: At the next table a negotiation is going sour and the air with it. Eyes on your own plate, you stay clear of its current.
 facetLeastTitle: Sealed in a Tin
 facetLeast: Old friends, a whole reunion of them, every mood washing right over you. You leave exactly as you came and carry none of it home.
-question: You're at a small gathering where two friends are very pointedly not speaking. The host hasn't noticed. You...
-answerMost: cross the room and put them in the same conversation within ten minutes
-answerHigh: float a topic both will want to weigh in on and let proximity do the work
-answerMid: mention it quietly to the host on the way to the kitchen
-answerLow: keep clear of both and hope it sorts itself by dessert
-answerLeast: leave early; not your weather to fix
+question: First morning on a new crew, the lads sat round the tea break in dead silence, everyone a stranger and no one breaking it. You...
+answerMost: crack something warm to the whole circle and have half of them talking inside ten minutes
+answerHigh: get the bloke next to you going and let the ease spread round the bench
+answerMid: offer one small thing — pour the teas, pass the biscuits — and leave it there
+answerLow: keep to your mug and your own corner
+answerLeast: put your earbuds in and let the silence stand
 rorschachMost: a sun flinging spokes out past a seahorse
 rorschachHigh: a burr scattering seed beside a curling stalk
 rorschachMid: a spiky chestnut husk and a wilting stem

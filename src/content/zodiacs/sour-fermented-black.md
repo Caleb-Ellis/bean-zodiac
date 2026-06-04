@@ -32,12 +32,12 @@ facetLowTitle: The Bean Unfermented
 facetLow: A stranger says the directions plainly and you just follow them, no checking the face for a catch underneath.
 facetLeastTitle: Surface Brine
 facetLeast: A crowd roars at something and you roar with it. No reading the room first, no asking what's really moving underneath the noise.
-question: A friend says "I'm fine" with a smile that lands a half-second late. You...
-answerMost: ask the follow-up that names the half-second, gently
-answerHigh: change the subject to something easier and watch the shoulders
-answerMid: file the half-second and check in tomorrow
-answerLow: take "fine" at face value and move on
-answerLeast: laugh and order the second round
+question: The old dog eats, greets you, wags — all of it a half-beat slower than last week, nothing you could point to on a vet's form. You...
+answerMost: trust the feeling, watch closely all day, and book the vet on the strength of it
+answerHigh: run through food, walks, and water, reading what's changed
+answerMid: note the slowness and keep half an eye on it this week
+answerLow: tell yourself it's just an old dog being old
+answerLeast: see a dog doing all its usual things and think no more of it
 rorschachMost: a storm cloud with three faint droplets flung clear
 rorschachHigh: a beetle, one stray leg caught against the dark
 rorschachMid: a thundercloud massing before the rain

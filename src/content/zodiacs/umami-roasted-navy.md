@@ -8,9 +8,9 @@ dish: Marmite-roasted navy beans with rosemary and garlic.
 quote: We shall not cease from bean exploration, and the end of all our exploring will be to arrive where we started.
 creature: tundra swan
 friendlyBeans: [butter, black]
-antiBeans: [green, chickpea]
-friendlyForm: dried
-antiForm: fried
+antiBeans: [chickpea, kidney]
+friendlyForm: boiled
+antiForm: fermented
 seasonalFortune: Marmite darkens slow in the jar; rosemary keeps its needle through winter. A season for the small salted things that outlast their occasion.
 fortuneMost: A line that meant nothing the first times you read it is about to mean everything.
 fortuneMost2: Take one of the kept things down off its shelf and put it back into use.

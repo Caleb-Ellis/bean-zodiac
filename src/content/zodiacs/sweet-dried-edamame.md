@@ -7,7 +7,7 @@ trait: uncomplicated
 dish: Honey-glazed dried edamame — dried soybeans tossed in hot honey and sea salt until cracked and caramelised.
 quote: Keep it simple, bean.
 creature: ewe
-friendlyBeans: [cannellini, navy]
+friendlyBeans: [cannellini, kidney]
 antiBeans: [mung, black]
 friendlyForm: boiled
 antiForm: fermented
@@ -32,12 +32,12 @@ facetLowTitle: Honey in Long Threads
 facetLow: One clean route home would do, but you wind through the old streets instead, doubling back for the long way past everything you wanted to see again.
 facetLeastTitle: Each Grain, a Different Shape
 facetLeast: A drawer jams shut on ticket stubs, dried-out pens, and a single odd glove. You ease it back open and keep every last useless scrap of it.
-question: A friend wants to talk through something complicated — a tangled work-and-family-and-money knot, no clean answer. They want to think aloud. You...
-answerMost: stay with them in the knot for as long as they need to untangle it
-answerHigh: ask the questions that let them keep going
-answerMid: listen for a while, then offer the cleaner frame
-answerLow: cut to "have you just considered doing X"
-answerLeast: tell them they're overcomplicating it
+question: Heads under the bonnet of the broken-down car, your mate starts unspooling the whole tangled mess they're in — family, money, no clean end. You...
+answerMost: stay in the knot with them for as long as the engine takes
+answerHigh: ask the small questions that let them keep going
+answerMid: listen a while, then offer one cleaner way to see it
+answerLow: cut to "why not just do X"
+answerLeast: tell them it's simpler than they're making it and go back to the spark plugs
 rorschachMost: a single straight line drawn clean
 rorschachHigh: one pebble dropped in still water
 rorschachMid: a key on a plain ring

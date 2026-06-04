@@ -7,7 +7,7 @@ trait: cryptic
 dish: Frijoles de Olla - with ancho chile and epazote.
 quote: Any sufficiently advanced bean is indistinguishable from magic.
 creature: sphinx
-friendlyBeans: [chickpea, green]
+friendlyBeans: [green, fava]
 antiBeans: [navy, cannellini]
 friendlyForm: fermented
 antiForm: boiled
@@ -32,12 +32,12 @@ facetLowTitle: No Shell to Crack
 facetLow: There's a thing you actually want, and the reflex is to hint at it sideways until someone guesses. This once you just name it out loud, no riddle around it.
 facetLeastTitle: Every Jar Named
 facetLeast: A friend is lost trying to follow your half-finished directions to the cabin. So you spell it all out — every turn, every landmark, the gate code, no cleverness left in it.
-question: Someone asks why you're quiet tonight. The real answer is complicated. You...
-answerMost: tell them a story about something else entirely
-answerHigh: say "long week" and let them read into it
-answerMid: give them a piece of it and stop there
-answerLow: walk them through the actual reason
-answerLeast: lay the whole thing out, beat by beat
+question: The customs officer looks up from your passport and asks the purpose of your visit. You...
+answerMost: answer with something true but sideways that explains nothing
+answerHigh: say "personal" and hold the pause
+answerMid: give the gist and leave the rest
+answerLow: state the real reason plainly
+answerLeast: lay out the whole itinerary, dates and all
 rorschachMost: an unmapped coastline trailing off into fog
 rorschachHigh: a sack knotted tight at the neck
 rorschachMid: a potato with one sprouting eye

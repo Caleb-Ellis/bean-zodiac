@@ -7,9 +7,9 @@ trait: deliberate
 dish: Schnitzel - crumbed butter beans with bitter salsa verde.
 quote: Well-behaved beans seldom make history.
 creature: stork
-friendlyBeans: [navy, cannellini]
-antiBeans: [fava, pinto]
-friendlyForm: boiled
+friendlyBeans: [navy, adzuki]
+antiBeans: [pinto, chickpea]
+friendlyForm: dried
 antiForm: fermented
 seasonalFortune: A season for crumb pressed firm before the oil takes it. Quick hands lose the coating; the careful ones eat well. Bitter parsley keeps until needed.
 fortuneMost: The crumb pressed firm is the crumb that holds when the oil takes it.
@@ -32,12 +32,12 @@ facetLowTitle: Oil Hot, Bean in
 facetLow: Dessert menus, all round the table, and the talk hasn't paused. No agonizing — you point at the one that caught your eye and hand the card straight back.
 facetLeastTitle: The Pan's First Call
 facetLeast: A street musician waves for someone to come up and sing the next one. Your hand's up before the doubt arrives — already on your feet, no plan, mouth open.
-question: A reply is due on a message that matters more than it should. You...
-answerMost: draft, sleep on it, redraft in the morning
-answerHigh: rewrite it twice and read it aloud before sending
-answerMid: write it once, sit with it ten minutes, send
-answerLow: tap out a quick line and move on
-answerLeast: hit reply before you finish reading the message
+question: Saw idling, you're about to drop the big old tree leaning toward the house — one cut and there's no taking it back. You...
+answerMost: shut the saw off, study the lean and the wind, rope it, and walk the fall line twice before any cut
+answerHigh: check the lean from two angles and plan the notch before you start
+answerMid: size it up once, set the cut, go
+answerLow: eyeball it and start cutting
+answerLeast: open the throttle and bury the blade before you've looked up
 rorschachMost: two scale pans weighed level against each other
 rorschachHigh: a walnut halved evenly down its seam
 rorschachMid: two round stones set apart on sand

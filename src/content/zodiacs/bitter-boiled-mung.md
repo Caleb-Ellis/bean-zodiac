@@ -8,8 +8,8 @@ dish: Mung bean and bitter melon soup.
 quote: Measure twice, bean once.
 creature: deer
 friendlyBeans: [butter, cannellini]
-antiBeans: [edamame, kidney]
-friendlyForm: fermented
+antiBeans: [kidney, edamame]
+friendlyForm: smoked
 antiForm: fried
 seasonalFortune: A life kept at low simmer. The bitterness in the pot is given its hour to soften; nothing is dished before the broth has finished saying what it means.
 fortuneMost: A thing in your keeping simply doesn't go wrong.
@@ -32,12 +32,12 @@ facetLowTitle: Unrinsed, Mid-Boil
 facetLow: Guide points up the ridge at the trailhead — you in? Yes, right then, pack still on your shoulders. You sized the climb up quickly, and quick was always going to be plenty.
 facetLeastTitle: High Flame, Lid Off
 facetLeast: Same floorboard squeaks under the same step, week after week. Let it squeak, step around it, leave the fix for a tomorrow that never lands.
-question: You're about to send the report. It's good. There is still half an hour before the deadline. You...
-answerMost: read it once more, slowly, from the top
-answerHigh: spot-check the numbers and the names
-answerMid: skim the first and last paragraphs and send
-answerLow: send it and move on
-answerLeast: send it the moment it was technically done
+question: Roped up at the foot of the climb, harness on, your partner ready to belay. There's still a moment before you commit to the rock. You...
+answerMost: run the whole safety check again, slowly — knot, buckle, gate, every link
+answerHigh: tug-test the knot and the carabiner once more
+answerMid: glance the harness over and start up
+answerLow: clip in and climb
+answerLeast: be three moves up before you've checked a thing
 rorschachMost: two stones joined by one thin, unbroken thread
 rorschachHigh: a cat edging across a narrow plank between roofs
 rorschachMid: two boulders with a faint bridge between them

@@ -8,9 +8,9 @@ dish: Muhammara - roasted fava and bitter herbs.
 quote: Well-bean is that which is done for the first time.
 creature: arctic tern
 friendlyBeans: [chickpea, mung]
-antiBeans: [cannellini, navy]
+antiBeans: [navy, cannellini]
 friendlyForm: fried
-antiForm: fermented
+antiForm: smoked
 seasonalFortune: A season ground in the stone before the stone has a name. Bitter herb meets charred fava and the paste invents its own colour; whoever tastes it tastes the edge of somewhere unmapped.
 fortuneMost: The thing nobody's asked for yet is yours to start.
 fortuneMost2: A road is opening under your feet where the map showed nothing.
@@ -32,12 +32,12 @@ facetLowTitle: The Herb Where It Sat Last Year
 facetLow: New city, a free morning, every street unwalked. You find the same kind of café you'd have found at home and settle in.
 facetLeastTitle: Pomegranate Already Split
 facetLeast: Eyes could swing to you as the group dithers over where to eat — instead you hang back, happy to go wherever the surest voice points.
-question: A weekend away with friends, no one has booked anything, the chat is going in circles. You...
-answerMost: book the cabin and tell them where to be Friday
-answerHigh: send three options and start narrowing
-answerMid: float an idea and see who bites
-answerLow: agree with whoever sounds most sure
-answerLeast: wait for someone else to send the link
+question: The trail you meant to follow has washed out, and an unmarked track climbs off into country you don't know. You...
+answerMost: strike up the new track and map it as you go
+answerHigh: take it a way, leaving cairns to find your way back
+answerMid: scout the first bend before committing
+answerLow: stick near the old route and pick along its edge
+answerLeast: turn around and walk back the way you came
 rorschachMost: a ship's prow thrusting out toward open sea
 rorschachHigh: a heron lunging its beak forward to strike
 rorschachMid: a rhino's head lowered, horn pointed left

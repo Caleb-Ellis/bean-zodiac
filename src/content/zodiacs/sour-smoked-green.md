@@ -7,10 +7,10 @@ trait: pungent
 dish: Leather britches - Appalachian smoke-dried green beans simmered with ham hock and cider vinegar
 quote: A bean by any other name would smell as sweet.
 creature: polecat
-friendlyBeans: [kidney, edamame]
-antiBeans: [butter, navy]
-friendlyForm: fried
-antiForm: boiled
+friendlyBeans: [kidney, pinto]
+antiBeans: [butter, fava]
+friendlyForm: roasted
+antiForm: dried
 seasonalFortune: A season when the leather britches hang in the rafters and tell the kitchen what month it is before the calendar does. Vinegar sharpens; hock-smoke insists.
 fortuneMost: The take goes out unsoftened.
 fortuneMost2: An opinion strung up fully formed where everyone can see it, like britches in the rafters.
@@ -32,12 +32,12 @@ facetLowTitle: Cider Barely in the Broth
 facetLow: A seatmate on the bus is confidently wrong about something you know cold. The correction is right there; you let it ride and watch the fields go by instead.
 facetLeastTitle: The Pot Without the Hock
 facetLeast: The group's circling a decision and you've got no horse in it. Rather than steer, you fold in behind whatever they pick and let someone else hold the wheel.
-question: A group chat is debating where to eat. Twelve messages in, you have a strong opinion about why every option so far is wrong. You...
-answerMost: send the voice note ranking all of them
-answerHigh: type the paragraph and send it
-answerMid: send the one-line dissent
-answerLow: react with a thumbs-down to one option
-answerLeast: stay silent and show up wherever
+question: At a council meeting the planning officer waves through a development you know is wrong, and asks if there are any comments before the vote. You...
+answerMost: stand up and lay out every flaw until they cut your mic
+answerHigh: raise your hand and say the sharpest objection plainly
+answerMid: put one pointed question on the record
+answerLow: mutter it to the person beside you
+answerLeast: keep your seat and let the vote pass
 rorschachMost: a crushed garlic bulb, fumes curling off
 rorschachHigh: a smouldering thornbush trailing smoke
 rorschachMid: a bramble clump with two wisps below

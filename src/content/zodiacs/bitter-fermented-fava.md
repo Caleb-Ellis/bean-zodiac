@@ -7,10 +7,10 @@ trait: questioning
 dish: Fava bean soup with harissa yogurt and bitter orange.
 quote: The bean that gets questioned, gets answered.
 creature: lemur
-friendlyBeans: [chickpea, black]
-antiBeans: [cannellini, navy]
-friendlyForm: fried
-antiForm: dried
+friendlyBeans: [chickpea, kidney]
+antiBeans: [navy, cannellini]
+friendlyForm: roasted
+antiForm: boiled
 seasonalFortune: A jar of favas works in the dark, sharpening as it softens. The almanac favours those who let an answer steep — what arrived as salt becomes something the salt never promised.
 fortuneMost: Ask the third question. The first two get manners; the third gets the actual answer.
 fortuneMost2: An answer is steeping in the thing you keep circling.
@@ -32,12 +32,12 @@ facetLowTitle: Fold in the Yogurt
 facetLow: The mechanic names the repair and the price, and you take it as given. No second opinion, no prying at the diagnosis — you hand over the keys and trust it, last word left unsaid.
 facetLeastTitle: Price Tag, Receipt, Done
 facetLeast: A friend repeats a wild fact at dinner and the table moves on. The follow-up is right there in your pocket — and you leave it there, letting it slide rather than chasing what's under it.
-question: At a meeting, a decision lands tidily and everyone starts gathering their things. You...
-answerMost: ask the question nobody has touched and watch the chairs settle back down
-answerHigh: raise the one detail that doesn't fit before anyone stands
-answerMid: say the small thing on your mind and let the room weigh it
-answerLow: catch the person you trust afterward and check with them
-answerLeast: close the laptop and trust the room did its work
+question: The financial adviser slides over a glossy plan for the inheritance, returns and fees all laid out as settled fact. You...
+answerMost: press for what each figure actually assumes and what got left out
+answerHigh: ask which projections sit underneath it before signing anything
+answerMid: query the one line that reads oddly to you
+answerLow: look the fund up quietly at home afterward
+answerLeast: take the plan at its word and sign on the spot
 rorschachMost: a snail with both eye-stalks reaching up to test the air
 rorschachHigh: a beetle, two antennae raised and twitching
 rorschachMid: an owl with two small ear-tufts up

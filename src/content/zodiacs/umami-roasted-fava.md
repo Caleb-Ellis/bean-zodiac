@@ -7,7 +7,7 @@ trait: defiant
 dish: Fave al forno - roasted fava beans with guanciale, pecorino, and wild fennel.
 quote: They tried to bury us. They didn't know we were beans.
 creature: mustang
-friendlyBeans: [chickpea, edamame]
+friendlyBeans: [chickpea, green]
 antiBeans: [navy, cannellini]
 friendlyForm: fried
 antiForm: dried
@@ -32,12 +32,12 @@ facetLowTitle: Fat That Seasons Quietly
 facetLow: The hill you'd braced to die on turns out to be undefended — nobody's even contesting it. Set the shoulders down and walk on, guard lowered, the fight already won.
 facetLeastTitle: Pecorino, No Rind Left
 facetLeast: A loud relative redraws the holiday plans over your head and you can feel the old urge to plant your feet. You let the small one go and keep the warm evening instead.
-question: An invoice arrives with the wrong amount on it — not by much, but wrong. You...
-answerMost: draft a letter, then a second draft, and send the cold even one
-answerHigh: reply the same day with the correction, no apology attached
-answerMid: flag it, ask them to check, see what they come back with
-answerLow: pay it and mentally subtract the difference from next month
-answerLeast: pay it and forget about it before the kettle boils
+question: The bank has charged a fee that's tipped you into the red, and the helpline says it's policy, final. You...
+answerMost: refuse outright and tell them you'll fight it however far it goes
+answerHigh: demand it reversed and ask for the complaint in writing
+answerMid: push back once, then ask what it'd take to undo it
+answerLow: grumble, accept it, and move your money elsewhere later
+answerLeast: pay it, swallow it, and say nothing
 rorschachMost: a clenched fist with the knuckles set forward
 rorschachHigh: an anvil planted heavy on its block
 rorschachMid: a boulder with a chain trailing off it

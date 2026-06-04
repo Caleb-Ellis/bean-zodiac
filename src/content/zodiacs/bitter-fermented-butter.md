@@ -7,7 +7,7 @@ trait: thoughtful
 dish: Butter bean and kimchi broth with bitter greens.
 quote: The unexamined bean is not worth eating.
 creature: burrowing owl
-friendlyBeans: [adzuki, mung]
+friendlyBeans: [mung, adzuki]
 antiBeans: [edamame, kidney]
 friendlyForm: smoked
 antiForm: fried

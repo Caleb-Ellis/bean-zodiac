@@ -7,10 +7,10 @@ trait: intricate
 dish: Smoked pinto with bitter cacao, finely layered.
 quote: The bean is in the details.
 creature: nautilus
-friendlyBeans: [chickpea, green]
-antiBeans: [mung, kidney]
+friendlyBeans: [cannellini, green]
+antiBeans: [kidney, fava]
 friendlyForm: roasted
-antiForm: dried
+antiForm: boiled
 seasonalFortune: Smoke moves through pinto in stages, each marbled vein taking the cacao at its own rate. A season for the long study, where surface flavour gives way to undercurrent.
 fortuneMost: Keep going past the clever version to the layer underneath it.
 fortuneMost2: Go back to the thing you've already reworked twice — the bitterness underneath hasn't surfaced yet.
@@ -32,12 +32,12 @@ facetLowTitle: Char on Top, Not Through
 facetLow: A blank wall wants something on it. You hang the first print that fits, step back, call it done, and never circle back to second-guess the choice.
 facetLeastTitle: The Marbling, Untouched
 facetLeast: Asked what a film was about, you could unspool every theme in it. You say it was about a guy and his dog, leave it there, and let that be plenty.
-question: A colleague asks for a quick summary of the project before their five o'clock. You...
-answerMost: open a doc and start the proper write-up; quick won't do it justice
-answerHigh: send four paragraphs with the caveats nested in the right places
-answerMid: send a tidy bulleted list with two footnotes
-answerLow: give them three sentences and offer to talk it through after
-answerLeast: send one line and trust them to ask
+question: A child at your knee asks how the engine in the car actually works. You...
+answerMost: start from combustion and build the whole machine up, part by part
+answerHigh: lay out the main stages with the important bits nested in
+answerMid: give the tidy version — fuel, spark, wheels turn
+answerLow: say it burns fuel to make the wheels go and leave it there
+answerLeast: tell them "magic" and ruffle their hair
 rorschachMost: a coral head branching past any counting
 rorschachHigh: an old oak crowded with a thousand leaves
 rorschachMid: a head of cauliflower cut from the stalk

@@ -7,8 +7,8 @@ trait: provocative
 dish: Adzuki doenjang jjigae - Korean fermented soybean paste stew with gochugaru and tofu.
 quote: Every act of creation is first an act of bean destruction.
 creature: shrike thrush
-friendlyBeans: [chickpea, pinto]
-antiBeans: [navy, edamame]
+friendlyBeans: [pinto, chickpea]
+antiBeans: [kidney, navy]
 friendlyForm: roasted
 antiForm: dried
 seasonalFortune: A crock that has waited all winter begins to push against its weight. The season belongs to those whose long-kept things are ready to enter rooms.
@@ -32,12 +32,12 @@ facetLowTitle: The Paste on Its Own Shelf
 facetLow: A stranger on the bus is wrong about something out loud, and a few people glance your way. You let them be wrong and watch the road.
 facetLeastTitle: Tofu Without Seasoning
 facetLeast: Both sides bristling, a heated argument is handed to you to settle. Smooth it into the version where everyone keeps their dignity, even the one who was wrong.
-question: A friend's group chat has settled into a polite truce after a fight you weren't part of. Everyone's typing carefully. You...
-answerMost: drop the half-sentence that re-opens the whole thing
-answerHigh: name the thing nobody wants named, gently
-answerMid: ask one honest question and see what surfaces
-answerLow: send the kind reply that lets it stay shut
-answerLeast: change the subject to something soft
+question: Last call at a hotel bar, just you and someone whose ring you both noticed an hour ago. The air's gone quiet and obvious. You...
+answerMost: name what's been hanging there and ask if they want to ignore it or not
+answerHigh: hold the look a beat too long and let the question sit in it
+answerMid: make one ambiguous joke and see which way they take it
+answerLow: settle the tab and keep it firmly to small talk
+answerLeast: mention your morning meeting and say goodnight before it can start
 rorschachMost: a vase thrown against a wall
 rorschachHigh: a snake emerging from grass
 rorschachMid: a squid drifting with two trailing arms

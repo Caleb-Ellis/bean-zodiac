@@ -7,10 +7,10 @@ trait: disciplined
 dish: Red beans and rice - Louisiana style with Andouille sausage and the holy trinity, made on a Monday.
 quote: We are what we repeatedly bean. Excellence, then, is not an act, but a habit.
 creature: warhorse
-friendlyBeans: [mung, green]
-antiBeans: [pinto, adzuki]
-friendlyForm: roasted
-antiForm: fermented
+friendlyBeans: [cannellini, black]
+antiBeans: [chickpea, fava]
+friendlyForm: dried
+antiForm: smoked
 seasonalFortune: A Monday pot, set early, asked nothing of the cook but return. The season rewards the unremarkable hour repeated; richness arrives by accumulation, not by occasion.
 fortuneMost: Same chair, same hour — show up hardest on the day the streak usually dies.
 fortuneMost2: The unremarkable hour you've repeated for months is quietly about to pay out, all at once, when you'd half stopped expecting it to.
@@ -32,12 +32,12 @@ facetLowTitle: The Thursday Pot
 facetLow: A windfall lands, the budget's gone vague, and somehow the month is still fine. You spend by feel for once, even as your hands itch to open the ledger and pin it all down.
 facetLeastTitle: Andouille at Midnight
 facetLeast: Holiday cabin, no alarm set, the days gone soft and gridless around you. Let sleep come when it comes and hunger decide the meals, though the missing structure feels a little like falling.
-question: It's a Monday evening — your usual practice night — and an old friend is in town for one night only and wants dinner. You...
-answerMost: keep Monday; you'll catch them next time they pass through
-answerHigh: do an abbreviated session, then meet them late
-answerMid: skip tonight, log it as a real rest day, and resume tomorrow
-answerLow: meet for dinner and stay as long as the evening wants
-answerLeast: cancel the practice for the rest of the week while you're at it
+question: The alarm goes at five for the run you swore you'd do, and it's black and freezing outside the blankets. You...
+answerMost: up and out the door before the warmth can argue you out of it
+answerHigh: lie there ten seconds, then get up and go anyway
+answerMid: trade it for a shorter loop later in the day
+answerLow: snooze it once and see how you feel
+answerLeast: kill the alarm and burrow back down
 rorschachMost: a compass star with rays evenly spaced
 rorschachHigh: a thistle head trimmed to a tight crown
 rorschachMid: a sea urchin with spines splayed out

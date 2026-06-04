@@ -7,8 +7,8 @@ trait: open-minded
 dish: Fatteh - toasted flatbread layered with roasted chickpeas, yogurt, and pomegranate molasses
 quote: The bean mind is like a parachute — it only works when open.
 creature: bottlenose
-friendlyBeans: [adzuki, pinto]
-antiBeans: [black, cannellini]
+friendlyBeans: [mung, fava]
+antiBeans: [black, edamame]
 friendlyForm: fried
 antiForm: dried
 seasonalFortune: A season when the flatbread softens under what is poured over it. Old certainties go pleasantly soggy; the household acquires unfamiliar guests, unfamiliar molasses.
@@ -32,12 +32,12 @@ facetLowTitle: Bread Refusing the Soak
 facetLow: The answer's clear and four people have already confirmed it. When a fifth offers to weigh in, you thank them and let the question stay closed.
 facetLeastTitle: Roasted Past Yielding
 facetLeast: A newer, shinier argument turns up to unsettle the position you walked to on purpose. You hold your feet right where they are and let it slide past.
-question: At dinner the loudest person at the table takes a position you find faintly wrong. You...
-answerMost: pull your chair closer and ask them to make the case in full
-answerHigh: lean in and turn the disagreement into a real conversation
-answerMid: listen carefully, ask one clarifying question, save the rest
-answerLow: nod through it and steer the table toward something safer
-answerLeast: tune them out and refill your glass
+question: After the lecture, a sharp student makes the case for a view you've spent years sure was backwards, and they clearly mean it. You...
+answerMost: ask them to walk you all the way through how they got there
+answerHigh: set your version aside and let their reasons land properly first
+answerMid: hear them out, ask one honest question, hold the rest back
+answerLow: let it pass and quietly keep your own view where it was
+answerLeast: shut it down with the rebuttal you've had ready for years
 rorschachMost: a moth with both wings thrown fully open
 rorschachHigh: a tree spreading its crown over tangled roots
 rorschachMid: a bat above a nest of twigs

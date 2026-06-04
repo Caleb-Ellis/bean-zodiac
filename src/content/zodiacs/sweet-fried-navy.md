@@ -7,9 +7,9 @@ trait: romantic
 dish: Navy bean beignets — fried dough pillows with a white bean cream filling, dusted generously in powdered sugar.
 quote: My bean leaps up when I behold a rainbow in the sky.
 creature: black swan
-friendlyBeans: [black, edamame]
-antiBeans: [chickpea, pinto]
-friendlyForm: boiled
+friendlyBeans: [cannellini, adzuki]
+antiBeans: [fava, pinto]
+friendlyForm: dried
 antiForm: smoked
 seasonalFortune: A season for dough that rises twice. The hot oil rewards what is returned to, and the kitchen smells of sugar long after the last batch is lifted out.
 fortuneMost: The love letter, by hand, walked to the postbox before you can revise it.

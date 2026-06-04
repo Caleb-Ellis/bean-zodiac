@@ -7,7 +7,7 @@ trait: timeless
 dish: Boston baked beans - navy beans slow-cooked with smoked salt pork, molasses, and mustard.
 quote: Time is a flat bean.
 creature: aldabra tortoise
-friendlyBeans: [butter, black]
+friendlyBeans: [butter, cannellini]
 antiBeans: [chickpea, pinto]
 friendlyForm: dried
 antiForm: fermented

@@ -7,8 +7,8 @@ trait: clinical
 dish: Moong Dal - mung beans with methi and turmeric.
 quote: First, do no harm to beans.
 creature: mantis
-friendlyBeans: [cannellini, butter]
-antiBeans: [edamame, green]
+friendlyBeans: [cannellini, black]
+antiBeans: [kidney, green]
 friendlyForm: smoked
 antiForm: fried
 seasonalFortune: A season weighed in grams. The household that keeps dried mung in a labelled jar moves through these weeks unhurried, spending only what the ledger has named.

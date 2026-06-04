@@ -32,12 +32,12 @@ facetLowTitle: The Slow Pot, Lidded
 facetLow: The gate squeals every single time you pass through it. Let it squeal another month — the nerve keeps better for something that truly warrants it.
 facetLeastTitle: The Unsoaked Fava
 facetLeast: Down comes a dare you never asked for, the whole circle watching to see if you'll bite. You wave it off, leave the hard thing hard, and feel not one bit smaller for sitting it out.
-question: There is a hard conversation that has been waiting all week, and tonight is the only window. You...
-answerMost: have it before dinner, sober and direct
-answerHigh: bring it up over the meal once you're both settled
-answerMid: hint at it and let them choose to follow
-answerLow: postpone until something forces it
-answerLeast: hope the problem solves itself and say nothing
+question: The tide has gone out and a sandbar leads to the rocks, but the water is already creeping back across the path. You...
+answerMost: walk straight out, trusting your read of the sea
+answerHigh: cross quickly while watching the line of the water
+answerMid: go partway and judge it from there
+answerLow: wait to see how fast it fills before deciding
+answerLeast: turn back and keep to the dry shore
 rorschachMost: a bull's horned head squared up, facing front
 rorschachHigh: a hooded knight stepping forward, shoulders set
 rorschachMid: a goat's head with two small ears

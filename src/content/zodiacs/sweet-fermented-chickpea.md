@@ -7,9 +7,9 @@ trait: empathetic
 dish: Fermented chickpea flour cake — gram flour batter left to ferment overnight, baked with raw honey and orange zest into a dense, fragrant loaf.
 quote: Could a greater bean miracle take place than for us to look through each other's eyes for an instant?
 creature: beluga
-friendlyBeans: [green, adzuki]
-antiBeans: [navy, cannellini]
-friendlyForm: roasted
+friendlyBeans: [green, mung]
+antiBeans: [navy, edamame]
+friendlyForm: smoked
 antiForm: dried
 seasonalFortune: The batter takes a week's mood into itself overnight. A life shaped by the rooms it rises in, sweet where someone leaned close, dense where the air went thin.
 fortuneMost: Reach for the friend you keep thinking about.
@@ -32,12 +32,12 @@ facetLowTitle: The Oven's Hour
 facetLow: The grief in the room is real and large and it is not yours. Hand the weight back to the person it belongs to and let yourself walk out lighter than feels fair.
 facetLeastTitle: The Last Slice
 facetLeast: A long-lost cousin pulls you in for the kind of hug that wants an apology you don't owe. You step back at your own moment, warm, and the debt goes unpaid.
-question: You're an hour into your one good evening of the week when a friend's name flashes on your screen and you can already hear the tone of the message before you open it. You...
-answerMost: pick up immediately and stay on as long as it takes
-answerHigh: open it, reply with something warm, ask if they want to talk
-answerMid: send a quick "in the middle of something, can I call later?"
-answerLow: leave it on read until tomorrow and feel a little guilty
-answerLeast: mute the thread and pour yourself a second glass
+question: On a bright morning in the park, the person on the next bench is quietly crying and trying to hide it. You...
+answerMost: move over, say something gentle, and stay until they've steadied
+answerHigh: catch their eye, offer a tissue and a soft word, leave the door open
+answerMid: give a small kind look so they know they're not invisible
+answerLow: pretend you haven't seen, to spare them being seen
+answerLeast: turn back to the path and keep your own day to yourself
 rorschachMost: two birds nestled close beneath one wing
 rorschachHigh: a pair of cupped hands holding something warm
 rorschachMid: a plump loaf cooling on a board

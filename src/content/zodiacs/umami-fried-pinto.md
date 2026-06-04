@@ -7,7 +7,7 @@ trait: unreliable
 dish: Frijoles refritos con chorizo - pinto beans fried in lard with Mexican chorizo and ancho chile.
 quote: I am not bean enough to make promises I cannot keep.
 creature: wisp
-friendlyBeans: [adzuki, green]
+friendlyBeans: [chickpea, mung]
 antiBeans: [navy, black]
 friendlyForm: fermented
 antiForm: boiled

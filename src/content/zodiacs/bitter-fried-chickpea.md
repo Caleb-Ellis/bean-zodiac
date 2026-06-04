@@ -7,8 +7,8 @@ trait: entrepreneurial
 dish: Panisse - chickpea fritters with bitter herb aioli.
 quote: The bean who moves a mountain begins by carrying away small stones.
 creature: magpie lark
-friendlyBeans: [green, fava]
-antiBeans: [navy, black]
+friendlyBeans: [fava, green]
+antiBeans: [navy, butter]
 friendlyForm: roasted
 antiForm: dried
 seasonalFortune: A season of hot oil and short fuses. Plans crackle into shape mid-air; the patient ones scorch, and the quick hands learn which spits to stand close to.

@@ -7,8 +7,8 @@ trait: impulsive
 dish: Gan bian si ji dou - Sichuan dry-fried green beans with garlic, chili, and Zhenjiang vinegar.
 quote: Bean first, and think afterwards is not a bad motto.
 creature: jackrabbit
-friendlyBeans: [kidney, chickpea]
-antiBeans: [butter, navy]
+friendlyBeans: [kidney, pinto]
+antiBeans: [black, butter]
 friendlyForm: roasted
 antiForm: boiled
 seasonalFortune: A season smelling of hot oil and Zhenjiang vinegar — sharp at the edges, brief in the middle. Each week ends before the pan has cooled.

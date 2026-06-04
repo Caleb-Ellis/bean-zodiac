@@ -7,9 +7,9 @@ trait: profound
 dish: Feijoada - dried black beans slow-cooked with smoked pork, sausage, and ham.
 quote: Deep calls to bean.
 creature: sperm whale
-friendlyBeans: [fava, edamame]
-antiBeans: [adzuki, chickpea]
-friendlyForm: boiled
+friendlyBeans: [fava, navy]
+antiBeans: [adzuki, mung]
+friendlyForm: smoked
 antiForm: roasted
 seasonalFortune: A pot left on low heat all afternoon teaches what the morning could not. The dark broth gathers slowly, and the cook who hurries the lid finds only salt.
 fortuneMost: A thought you've let simmer for days has marrow in it now. Let it out before the moment wanders off to bed.
@@ -32,12 +32,12 @@ facetLowTitle: The Quick Rinse
 facetLow: A riddle is doing the rounds at the campfire and everyone's stumped. You shrug, give the first answer that fits, and reach for another marshmallow.
 facetLeastTitle: Before the Salt Settles
 facetLeast: A fortune teller hands you a card thick with meaning and leans in. Nice picture, you say — and you're already asking where the good coffee is.
-question: Someone at the group dinner says something that's almost true — close enough that nobody flinches, wrong enough that you can feel the shape of the real thing underneath. You...
-answerMost: hold the thread for three days and write them a letter that names it
-answerHigh: let the table move on and bring it up with them alone, later
-answerMid: ask a follow-up question and see if they walk themselves there
-answerLow: offer the correction lightly between courses
-answerLeast: jump in and set it straight before the next sentence
+question: At the wake the eulogy paints the dead man kinder and simpler than he was — close enough that the room nods, wrong enough that you can feel the real person underneath it. You...
+answerMost: hold it for days and write the family the truer portrait
+answerHigh: say nothing now and find the one person who'd want the real version
+answerMid: tell a small true story of your own that hints at the rest
+answerLow: murmur a gentle "he was more than that" to the person beside you
+answerLeast: speak up and set the record straight before they sit down
 rorschachMost: two storm clouds meeting over a deep ravine
 rorschachHigh: a cross-section of two lungs and the branching airways
 rorschachMid: two heads of cauliflower pressed together

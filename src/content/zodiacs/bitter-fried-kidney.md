@@ -7,9 +7,9 @@ trait: confrontational
 dish: Akara - kidney bean fritters with bitter pepper sauce.
 quote: The bean who speaks the difficult truth is a friend; the one who flatters is an enemy.
 creature: goat
-friendlyBeans: [green, pinto]
-antiBeans: [fava, navy]
-friendlyForm: fermented
+friendlyBeans: [green, adzuki]
+antiBeans: [cannellini, butter]
+friendlyForm: roasted
 antiForm: smoked
 seasonalFortune: A season that keeps the oil at temperature. Soft answers blister off the surface; the bitter pepper carries further than the polite word, and the kitchen learns it.
 fortuneMost: Say the difficult thing plainly, names and edges intact.
@@ -32,12 +32,12 @@ facetLowTitle: Akara, but Mild
 facetLow: A coin or two short in your change from the market stall, and you've noticed. You catch it, weigh it, let it ride — a couple of coins, and the morning's too good to spend arguing.
 facetLeastTitle: The Pepper, Still Jarred
 facetLeast: A loud group at the next table is ruining the meal, and a word would likely fix it. You'd rather not be the one — you ask to be moved, or you simply eat faster and go.
-question: A flatmate has left their dishes in the sink for the fourth day running. You...
-answerMost: knock on their door and say it now, plainly
-answerHigh: bring it up the next time you cross paths
-answerMid: leave a short note on the counter
-answerLow: do them yourself and bring it up some other time
-answerLeast: wash them and say nothing
+question: Broad daylight, and a van pulls up at the end of the lane and starts tipping a load of building rubble where the kids play. You...
+answerMost: plant yourself in front of the van and tell them to load it back up
+answerHigh: stride over, photograph the plate, and say exactly what you've seen
+answerMid: call it out from the gate and let them clock that you're watching
+answerLow: note the plate quietly and report it later
+answerLeast: keep walking, not your lane, not your fight
 rorschachMost: two rams locked head to head mid-charge
 rorschachHigh: two cliffs grinding shut across a gorge
 rorschachMid: two boulders leaning against each other

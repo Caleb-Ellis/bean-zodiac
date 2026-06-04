@@ -8,9 +8,9 @@ dish: Jajangmyeon - Korean noodles in fermented black bean and chili sauce.
 quote: I am not strange, I am just a bean.
 creature: black panther
 friendlyBeans: [mung, fava]
-antiBeans: [kidney, fava]
+antiBeans: [edamame, adzuki]
 friendlyForm: smoked
-antiForm: dried
+antiForm: fried
 seasonalFortune: Jars darken on the shelf through the cold months; the sauce that taught itself in silence comes to the table thicker than the cook expected.
 fortuneMost: Whatever you've been reducing in silence comes out thicker than anyone guessed.
 fortuneMost2: One half-true sentence, one long pause, and you're the most interesting thing in the week.

@@ -7,9 +7,9 @@ trait: anxious
 dish: Pinto in tepache — speckled beans simmered in sweet fermented pineapple drink with piloncillo and cloves.
 quote: My bean is afraid of it, and yet I still want to do it.
 creature: rabbit
-friendlyBeans: [chickpea, adzuki]
-antiBeans: [cannellini, navy]
-friendlyForm: roasted
+friendlyBeans: [green, chickpea]
+antiBeans: [navy, butter]
+friendlyForm: smoked
 antiForm: boiled
 seasonalFortune: A season that ferments under the lid; the pineapple sweetens slowly while the cook listens for hiss, ready to vent the jar before it splits.
 fortuneMost: Walk in without the three rehearsed openings.
@@ -32,12 +32,12 @@ facetLowTitle: The Jar on the Shelf
 facetLow: A test result, a delayed train, a creak in the dark — any of them could spiral. Let it go uninspected, sleep on it, and find in the morning that nothing split.
 facetLeastTitle: Pineapple Into the Crock
 facetLeast: A stranger at the counter asks a simple question with no trap in it. The plain true answer is out of your mouth before any draft of it forms.
-question: You've just hit send on a perfectly fine work email and the first reread is already underway. You...
-answerMost: open the sent folder and start composing the follow-up that softens the third paragraph
-answerHigh: reread it twice more, wince, and force the laptop shut
-answerMid: skim it once, decide it's fine, and move on
-answerLow: notice the typo and shrug
-answerLeast: forget you sent it within the hour
+question: You've just locked the front door for a week away and the car is at the end of the road. You...
+answerMost: walk back to check the stove, then the taps, then the stove again
+answerHigh: stand at the gate replaying it twice, wince, and make yourself get in
+answerMid: think it through once, decide it's fine, and pull away
+answerLow: figure you'd remember if anything were on and drive off
+answerLeast: forget the house exists before the motorway
 rorschachMost: a fist clenched white, sparks flying off its edge
 rorschachHigh: a knot of wire wound tight, loose ends snagging
 rorschachMid: a burr stuck full of bristles

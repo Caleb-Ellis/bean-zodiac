@@ -7,8 +7,8 @@ trait: substantive
 dish: Cocido madrileño - dried chickpeas slow-cooked with pork belly, chorizo, and morcilla.
 quote: The measure of a bean is the sum of its choices.
 creature: mammoth
-friendlyBeans: [black, fava]
-antiBeans: [mung, cannellini]
+friendlyBeans: [black, cannellini]
+antiBeans: [adzuki, cannellini]
 friendlyForm: fermented
 antiForm: boiled
 seasonalFortune: A season that asks for the long pot. Days pass without spectacle, and weight settles into them anyway, the way pork fat surrenders to chickpeas across an unwatched afternoon.
@@ -32,12 +32,12 @@ facetLowTitle: A Quick Scorch of Garlic
 facetLow: A bonfire's dying down and there's still a story half-told. You let it trail off, drive home with the night unfinished behind you, and sleep fine.
 facetLeastTitle: Pork Belly, No Simmer
 facetLeast: A passing acquaintance asks how you're really doing. Fine, you say — light and true — and you mean it, no urge to crack the thing open.
-question: A colleague pings you needing "just a quick take" on something that, if taken quickly, will be wrong. You have ninety minutes free this afternoon. You...
-answerMost: book the ninety minutes and send back the full memo
-answerHigh: ask for a day and write a proper reply by morning
-answerMid: send a careful two-paragraph holding response and finish it later
-answerLow: skim it and send three bullet points
-answerLeast: fire back the first instinct in one line and move on
+question: The physio hands you a slow daily routine to rebuild a healing knee — months of dull, unglamorous work. You...
+answerMost: commit to the full programme and do every rep, every day, until it's solid
+answerHigh: follow it properly and give it the weeks it actually needs
+answerMid: do most of it, skip a day here and there, keep coming back to it
+answerLow: do the easy half and stop once the pain fades
+answerLeast: try it twice, decide you're fine, and quietly drop it
 rorschachMost: two boulders wedged tight against a stone bridge
 rorschachHigh: two beetles locked head to head, legs splayed
 rorschachMid: two pinecones touching tip to tip

@@ -7,9 +7,9 @@ trait: compliant
 dish: Butter bean and maple pudding — beans boiled soft and folded into warm cream with maple syrup and a grating of nutmeg.
 quote: The bean that bends does not break.
 creature: sheep
-friendlyBeans: [navy, adzuki]
-antiBeans: [green, kidney]
-friendlyForm: smoked
+friendlyBeans: [navy, mung]
+antiBeans: [kidney, green]
+friendlyForm: dried
 antiForm: fried
 seasonalFortune: A season that takes whatever shape the pot offers. Butter beans soften to fit; the cream accepts what is folded in, and the yielding looks so much like generosity that nobody, including the bean, notices the difference.
 fortuneMost: You fold into whatever shape is needed, and the yielding passes for grace.
@@ -32,12 +32,12 @@ facetLowTitle: A Skin Holding Its Shape
 facetLow: The waiter brings the steak well-done when you asked for rare, and the table's already chatting on. Catch his eye, send it back — a small scene, but the meal's yours.
 facetLeastTitle: The Bean That Stays Whole
 facetLeast: The committee's circling a logo you find genuinely ugly, and the vote's nearly unanimous. Hand still down. You'd rather be the lone holdout than clap for something you don't believe.
-question: Five of you are picking a restaurant and someone asks where you want to go. You...
-answerMost: say wherever everyone else wants is great
-answerHigh: name two places, both ones you heard others mention
-answerMid: name a safe middle option you'd all be fine with
-answerLow: name the place you actually want
-answerLeast: name the place you want and start walking there
+question: Your parents insist on paying off a debt for you, the kind with strings, and wait for you to accept. You...
+answerMost: thank them and take it rather than make a scene
+answerHigh: hesitate, then let them have their way
+answerMid: accept half and call it even
+answerLow: say you'd rather handle it yourself
+answerLeast: refuse flatly and pay your own way out
 rorschachMost: a moth pressed flat behind glass
 rorschachHigh: two open hands held out to take a load
 rorschachMid: a butterfly resting with wings spread wide

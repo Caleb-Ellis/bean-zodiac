@@ -8,7 +8,7 @@ dish: Navy bean and dried tomato stew with red wine vinegar and rosemary.
 quote: Give me liberty, or give me bean!
 creature: golden eagle
 friendlyBeans: [butter, black]
-antiBeans: [green, chickpea]
+antiBeans: [kidney, fava]
 friendlyForm: boiled
 antiForm: fermented
 seasonalFortune: A season for vinegar and long simmer. Rosemary darkens the pot; the dried tomato gives up nothing it has not been asked for, and neither does the cook.

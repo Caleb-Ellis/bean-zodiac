@@ -7,9 +7,9 @@ trait: idealistic
 dish: Cannellini and white miso soup with roasted garlic and rosemary.
 quote: Some beans see things as they are and ask why; I dream of beans that never were and ask why not.
 creature: unicorn
-friendlyBeans: [green, mung]
-antiBeans: [fava, black]
-friendlyForm: dried
+friendlyBeans: [chickpea, fava]
+antiBeans: [butter, black]
+friendlyForm: smoked
 antiForm: boiled
 seasonalFortune: Miso thickens in its crock; the picture in the mind thickens faster. A household built on what could be — rosemary held to its sharpest note, garlic patient under heat — runs warm and slightly hungry through colder months.
 fortuneMost: The picture in your head of a thing that never existed is about to start pulling it into being.
@@ -32,12 +32,12 @@ facetLowTitle: The Nearest Bowl
 facetLow: The coat isn't quite the one you pictured, but it fits and it's warm, so you buy it and stop looking.
 facetLeastTitle: Salt and Beans
 facetLeast: Why hold this grey little walk by the river up against some better one? You don't; it's the walk you're on.
-question: The dinner you've been planning is tonight and the good plates are still boxed up. You...
-answerMost: postpone — it has to be right
-answerHigh: unpack the box now and eat late
-answerMid: use the good plates, skip the rest of the staging
-answerLow: serve it on what's clean and call it fine
-answerLeast: order in, eat off your knees, laugh about it
+question: Spade in the ground for the bed you've pictured all winter, the soil turns up thin and stony, not the loam you imagined. You...
+answerMost: down tools — you'll dig it all out and bring in proper earth first
+answerHigh: spend the afternoon sieving stones and working in compost
+answerMid: fork in what you've got and plant the hardy half
+answerLow: push the seedlings into the stony ground and hope
+answerLeast: scatter the seeds, walk off, and let whatever takes, take
 rorschachMost: a torch flaring tall above its handle
 rorschachHigh: a bulb sending green shoots up toward light
 rorschachMid: a candle flame wavering over a stub

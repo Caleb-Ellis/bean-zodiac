@@ -7,10 +7,10 @@ trait: mischievous
 dish: Pinto bean and chipotle chocolate bark — roasted pinto beans set into dark chocolate with chipotle and flaked sea salt.
 quote: I solemnly swear that my beans are up to no good.
 creature: imp
-friendlyBeans: [edamame, green]
-antiBeans: [navy, black]
+friendlyBeans: [adzuki, green]
+antiBeans: [kidney, navy]
 friendlyForm: fermented
-antiForm: dried
+antiForm: boiled
 seasonalFortune: A season for the slow burn behind the sweet bite. Chocolate sets cold over a roast that hasn't quit; chipotle waits a beat before it speaks.
 fortuneMost: Walk in holding something nobody can refuse and stay until the place is yours.
 fortuneMost2: The story you swore you'd never tell, mid-anecdote, no warning.
@@ -32,12 +32,12 @@ facetLowTitle: The Bean Plain, No Heat
 facetLow: A friend hands you a perfect setup, the punchline sitting right there for the taking. You let it sail past and just ask how they're doing.
 facetLeastTitle: The Tray Cooling Untouched
 facetLeast: The kids dare you to ring the spooky neighbour's bell and bolt. You shrug, hand back the dare, and keep walking.
-question: You're at a dinner where everyone is being just a touch too well-behaved. The lull is approaching. You...
-answerMost: tell the story you swore you'd never tell about the host, mid-anecdote, no warning
-answerHigh: drop the one observation guaranteed to start a real argument, then refill the wine
-answerMid: ask the question that'll get the quietest guest talking
-answerLow: laugh at someone else's bit a beat louder than the room
-answerLeast: pass the bread, eat your salad, let the lull lull
+question: The hotel elevator jolts to a stop between floors with three silent strangers. You...
+answerMost: hit every button and announce you've always wanted to be trapped with new people
+answerHigh: crack the joke guaranteed to make someone either laugh or panic
+answerMid: ask the quietest one where they're headed and get them talking
+answerLow: catch someone's eye and grin at the absurdity
+answerLeast: face the doors, watch the numbers, wait it out in silence
 rorschachMost: an imp crouched ready to spring from the dark
 rorschachHigh: a cat hunched mid-pounce, ears flat
 rorschachMid: a broken slab of bark with dangling roots

@@ -7,9 +7,9 @@ trait: scholarly
 dish: Cannellini in aged pecorino broth with bitter cicoria.
 quote: I have not failed. I have just found ten thousand ways that will not produce a bean.
 creature: long-eared owl
-friendlyBeans: [pinto, chickpea]
+friendlyBeans: [mung, green]
 antiBeans: [black, navy]
-friendlyForm: roasted
+friendlyForm: dried
 antiForm: boiled
 seasonalFortune: A wheel of pecorino bitters slowly in its rind; the season rewards what has been kept in the dark and turned, occasionally, by a steady hand.
 fortuneMost: The line nobody else will reach waits in the footnote's footnote, at the end of the third pass.
@@ -32,12 +32,12 @@ facetLowTitle: While Still Bright
 facetLow: The rough gist is all the question really needs, so that's what you hand over — the parts you'd normally nail down left unsaid, the loose ends left loose.
 facetLeastTitle: Bread Torn, Door Open
 facetLeast: A recipe wants exact grams and a meat thermometer. You eyeball the lot and go by feel, well aware it might collapse, and you start cooking anyway.
-question: Someone at the table makes a confident claim about a thing you happen to know well. You...
-answerMost: cite the paper, the year, and the counterexample you've been waiting to use
-answerHigh: lay out the actual history, briefly, with one source
-answerMid: offer the correction and let the conversation move on
-answerLow: nod and add the one detail that quietly reframes it
-answerLeast: agree warmly and keep what you know to yourself
+question: Alone in a quiet museum, you read a placard that gets the date and the dynasty plainly wrong. You...
+answerMost: find a curator, then write a letter with the corrected sources
+answerHigh: flag it at the front desk on your way out
+answerMid: pencil a note in your phone and move to the next room
+answerLow: feel the itch, raise an eyebrow, say nothing
+answerLeast: take the placard at its word and learn it wrong
 rorschachMost: two heavy books stacked, a marker pinched between them
 rorschachHigh: a cairn of two stones balanced for the road
 rorschachMid: an hourglass narrow at its waist

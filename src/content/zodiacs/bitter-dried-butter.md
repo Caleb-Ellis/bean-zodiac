@@ -7,8 +7,8 @@ trait: stark
 dish: Dried butter beans in sage broth with bitter radicchio.
 quote: Tell me, what is it you plan to do with your one wild and precious bean?
 creature: condor
-friendlyBeans: [navy, black]
-antiBeans: [kidney, pinto]
+friendlyBeans: [black, navy]
+antiBeans: [green, kidney]
 friendlyForm: boiled
 antiForm: fried
 seasonalFortune: A season cured to its bones. The cupboard keeps sage and salt; the radicchio refuses to sweeten, and the broth that lasts is the broth without garnish.
@@ -32,12 +32,12 @@ facetLowTitle: Radicchio's Long Bath
 facetLow: A nervous busker is packing up, asking how it went. It wasn't good, but you find the one bar that was and lead with that — softer than honest, and you know it.
 facetLeastTitle: The Good Bottle
 facetLeast: A blank room, and you could leave it blank — but you hang the pictures, lay the rug, fill the shelf with the soft useless things, letting the place get warm in a way bareness never felt safe enough to allow.
-question: A colleague shows you a draft and asks what you think. It needs real work. You...
-answerMost: say it's not there yet, here's why
-answerHigh: name the two things that aren't working
-answerMid: lead with what's good, then the rest
-answerLow: say it's a strong start and offer light notes
-answerLeast: tell them it's great and you'd barely change a thing
+question: The nurse, pen ready, asks how many you really smoke in a day. The honest number is well past what she's expecting. You...
+answerMost: give the true count flat, no softening
+answerHigh: state the real number, skip the hedging
+answerMid: round it down a little but stay close
+answerLow: quote the tidy version that keeps things easy
+answerLeast: halve it and change the subject
 rorschachMost: a bare iron mace beside a stone
 rorschachHigh: a cog wheel and a blunt anvil
 rorschachMid: a boulder and a spiked seed pod

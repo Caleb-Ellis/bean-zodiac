@@ -7,10 +7,10 @@ trait: pedantic
 dish: Senate bean soup - navy bean with ham hock, celery, and onion.
 quote: The bean is in the details.
 creature: cockatoo
-friendlyBeans: [edamame, black]
-antiBeans: [chickpea, pinto]
+friendlyBeans: [cannellini, edamame]
+antiBeans: [mung, chickpea]
 friendlyForm: dried
-antiForm: fermented
+antiForm: roasted
 seasonalFortune: A season in which the hock gives up its salt slowly, and the small corrections — a leaf pulled, a skin lifted — set the shape of the pot.
 fortuneMost: Make the correction.
 fortuneMost2: A small thing you set precisely true is about to matter to someone who'll never know it was you.
@@ -32,12 +32,12 @@ facetLowTitle: Onion in Wedges
 facetLow: Over the hedge, a neighbour's fence is painted a shade off true, and your eye keeps snagging on it. You leave it crooked and give the afternoon to something that's actually yours.
 facetLeastTitle: The Untended Pot
 facetLeast: The tools came back from a loan jumbled in the wrong slots of the box. Let them stay scrambled and grab whatever you need by hand, even as the disorder hums at you.
-question: You spot a typo in the otherwise-perfect printed programme being handed out at a friend's event. You...
-answerMost: quietly find a pen and correct your copy, then mention it to the organiser
-answerHigh: tell one person about it by the coffee, never in front of others
-answerMid: notice it, file it, and forget it by the second act
-answerLow: shrug; the programme reads fine
-answerLeast: you didn't even look at the programme
+question: A letter from the council quotes your address with the street number a digit off, though the bill is otherwise correct. You...
+answerMost: draft a reply citing the error and the right number, and keep a copy
+answerHigh: ring the office once to get the record fixed
+answerMid: note it and let it go unless it causes trouble
+answerLow: shrug; the postman knows where you live
+answerLeast: bin the envelope without reading past the first line
 rorschachMost: an arrowhead knapped to a clean point
 rorschachHigh: a kite trimmed taut on its frame
 rorschachMid: a single leaf flattened in a book

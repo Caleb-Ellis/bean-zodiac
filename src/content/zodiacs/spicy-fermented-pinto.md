@@ -7,8 +7,8 @@ trait: mercurial
 dish: Pinto with chipotle en adobo - braised pinto beans in fermented chipotle and pickled jalapeño.
 quote: Nothing endures but bean.
 creature: anole
-friendlyBeans: [adzuki, chickpea]
-antiBeans: [kidney, cannellini]
+friendlyBeans: [adzuki, mung]
+antiBeans: [cannellini, black]
 friendlyForm: roasted
 antiForm: boiled
 seasonalFortune: A pinto under adobo darkens by the hour; those born to this season change shape between meals and arrive at the table as someone the morning would not recognise.

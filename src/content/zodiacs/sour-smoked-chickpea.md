@@ -7,8 +7,8 @@ trait: wary
 dish: Smoked chickpea shawarma wrap with sumac-marinated onions and pickled turnips
 quote: Beware the bean of March.
 creature: muntjac
-friendlyBeans: [black, fava]
-antiBeans: [adzuki, fava]
+friendlyBeans: [cannellini, black]
+antiBeans: [adzuki, navy]
 friendlyForm: fermented
 antiForm: roasted
 seasonalFortune: A season cured in low smoke. Houses smell of sumac and vinegar, and the cook tastes everything twice before the wrap is folded shut.

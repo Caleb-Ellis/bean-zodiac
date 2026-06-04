@@ -7,10 +7,10 @@ trait: transfixing
 dish: Adzuki doenjang-jjigae - adzuki beans in fermented soybean broth with smoked anchovy and gochugaru.
 quote: It is better to burn out than to bean away.
 creature: king cobra
-friendlyBeans: [black, fava]
-antiBeans: [butter, mung]
+friendlyBeans: [black, pinto]
+antiBeans: [kidney, green]
 friendlyForm: roasted
-antiForm: roasted
+antiForm: fried
 seasonalFortune: Smoke threads the rafters and stains the beams a darker grain. A season for what marks the room long after the fire is out.
 fortuneMost: Gochugaru blooms red the second it hits the broth, and so do you the second you walk in.
 fortuneMost2: A door opens and the heat in the room turns toward it. That door is you.

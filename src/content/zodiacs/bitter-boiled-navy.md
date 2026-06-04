@@ -7,10 +7,10 @@ trait: dogmatic
 dish: Navy bean and escarole soup.
 quote: A bean convinced against his will is of the same opinion still.
 creature: donkey
-friendlyBeans: [butter, edamame]
-antiBeans: [chickpea, green]
+friendlyBeans: [butter, adzuki]
+antiBeans: [mung, chickpea]
 friendlyForm: dried
-antiForm: fermented
+antiForm: smoked
 seasonalFortune: Small white beans, sorted once, simmered the way they were last winter and the winter before. The escarole bitters into the broth on schedule.
 fortuneMost: Hold the line everyone else is leaning against.
 fortuneMost2: The question you won't entertain twice is coming around again, and you'll answer it the same.
@@ -32,12 +32,12 @@ facetLowTitle: Escarole in Whatever's Warm
 facetLow: You're halfway through defending a position when a sharper thought arrives and quietly demolishes it. Down goes your own line, the new one finished aloud instead.
 facetLeastTitle: Whatever the Cupboard Offered
 facetLeast: Up the table at the long supper, three guests argue three sides of one thing. You nod along to each in turn, won over by whoever just spoke, moored to none of them.
-question: The group is voting on a plan you have firm opinions about, and the room is leaning the other way. You...
-answerMost: state your position once more, plainly, and vote your way
-answerHigh: argue the case until you've been clearly heard
-answerMid: register the dissent and go with the room
-answerLow: shrug and side with the majority
-answerLeast: switch sides if the new argument is the better one
+question: You've always tied your boat the same knot. An old hand on the next jetty watches, then tells you flatly you've had it wrong for years. You...
+answerMost: tie it your way again and tell him the knot has held this long
+answerHigh: explain why your knot is right and leave it tied
+answerMid: hear him out, then tie it however feels surest
+answerLow: let him show you once and copy it this time
+answerLeast: untie it and switch to his the moment he names a reason
 rorschachMost: a boulder planted deep, too heavy to shift
 rorschachHigh: an anvil squared off and set on the ground
 rorschachMid: a blocky chunk of rock, one chip beside it

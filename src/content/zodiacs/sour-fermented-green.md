@@ -7,8 +7,8 @@ trait: quirky
 dish: Green bean kimchi - fermented green beans with gochugaru, garlic, and rice vinegar.
 quote: We are all bean, but some of us are looking at the stars.
 creature: narwhal
-friendlyBeans: [pinto, kidney]
-antiBeans: [butter, black]
+friendlyBeans: [chickpea, pinto]
+antiBeans: [butter, navy]
 friendlyForm: roasted
 antiForm: dried
 seasonalFortune: A brine sharp with gochugaru and garlic insists on its own logic. The season tilts toward jars that cure on their own schedule, refusing the row.
@@ -32,12 +32,12 @@ facetLowTitle: Vinegar Measured Level
 facetLow: Wrapping a present, you've got a wild idea for the paper and a plain brown roll on the shelf. You go with the plain brown and skip the flourish this once.
 facetLeastTitle: Salt on a Fixed Clock
 facetLeast: The party invite asks for a costume and your head's already off somewhere strange. You turn up in plain clothes, on time, the most ordinary one in the room.
-question: You're asked to bring a small gift to a colleague's leaving drinks. The whip-round chipped in for flowers. You...
-answerMost: bring a single dried chilli taped to a hand-drawn map of the route home
-answerHigh: bring a second-hand book in a language they don't speak yet
-answerMid: bring a nice candle with a note that's a little odd
-answerLow: chip into the whip-round and sign the card
-answerLeast: bring a second bunch of the same flowers
+question: It's a friend's summer housewarming and everyone else is turning up with the same bottle of wine and a scented candle. You...
+answerMost: bring a single odd seashell and a map to a place you'll take them next month
+answerHigh: bring a battered novel in a language they don't read yet
+answerMid: bring a strange little plant with a note that doesn't quite explain itself
+answerLow: bring a nice bottle and sign the group card
+answerLeast: bring another scented candle
 rorschachMost: a strawberry sprouting little antlers up top
 rorschachHigh: a moth with odd sprigs poking past its wings
 rorschachMid: a broad leaf with a ragged frilled edge

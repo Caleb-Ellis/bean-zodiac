@@ -7,10 +7,10 @@ trait: exquisite
 dish: Cannellini and dried porcini brodo with lemon zest.
 quote: The bean is in the details.
 creature: bird of paradise
-friendlyBeans: [mung, pinto]
-antiBeans: [adzuki, butter]
+friendlyBeans: [edamame, pinto]
+antiBeans: [fava, black]
 friendlyForm: boiled
-antiForm: fried
+antiForm: roasted
 seasonalFortune: Porcini steeps slow and dark; lemon zest pins each grain of broth to its place. A life lived at small scale, where nothing is allowed to blur.
 fortuneMost: The hairline flaw is real, and only your eye finds it.
 fortuneMost2: A loose thread at the seam, asking to be tucked.

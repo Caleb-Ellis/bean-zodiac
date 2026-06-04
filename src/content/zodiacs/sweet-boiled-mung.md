@@ -8,7 +8,7 @@ dish: Chè đậu xanh — whole mung beans simmered in coconut milk and palm su
 quote: It takes a village to raise a bean.
 creature: hen
 friendlyBeans: [butter, cannellini]
-antiBeans: [edamame, green]
+antiBeans: [green, pinto]
 friendlyForm: smoked
 antiForm: fried
 seasonalFortune: A long pot keeps its own quiet weather; the pandan steeps, the sugar yields, and the room around it slowly softens without announcement.
@@ -32,12 +32,12 @@ facetLowTitle: The Lid Left on
 facetLow: A whole free afternoon, and a dozen people you could be checking on. You silence the phone, run a long bath, and let everyone fend for themselves for a few hours.
 facetLeastTitle: Pandan, Then the Pot Moves
 facetLeast: It's your birthday and people keep trying to do things for you — and your reflex is to wave it off and host them instead. Don't lift a finger. Let the whole day be aimed at you and just receive it.
-question: You're hosting six people for dinner and the night is going well. You...
-answerMost: keep circling — topping glasses, swapping plates, listening from the kitchen
-answerHigh: refill what needs refilling, then sit back down
-answerMid: sit through the course, get up for the next one
-answerLow: stay seated and let people fetch their own seconds
-answerLeast: open another bottle, leave the dishes till morning
+question: A tiny stray kitten, thin and panting, has wandered into your yard in the afternoon heat and flopped in the shade. You...
+answerMost: scoop it up, set out water, line a box, and sit checking on it half the day
+answerHigh: bring it into the cool, settle it somewhere quiet, look up what it needs
+answerMid: leave water in the shade where the dogs won't reach and check back later
+answerLow: leave it be — the mother usually comes back if you keep away
+answerLeast: shut the door on it and let nature take its course
 rorschachMost: a sow nosing a piglet to her side
 rorschachHigh: a teapot leaning to pour from its spout
 rorschachMid: a hedgehog curled with its snout out

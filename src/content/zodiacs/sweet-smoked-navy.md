@@ -7,10 +7,10 @@ trait: lingering
 dish: Boston baked beans - navy beans slow-cooked with smoked salt pork, molasses, and brown sugar.
 quote: Some beans linger.
 creature: alley cat
-friendlyBeans: [butter, black]
+friendlyBeans: [black, butter]
 antiBeans: [chickpea, pinto]
 friendlyForm: dried
-antiForm: fried
+antiForm: roasted
 seasonalFortune: Molasses settles slowly in a covered pot, and the smoke it took on Saturday keeps surfacing through Tuesday's bread. The season holds what was sweetened long after the hearth has cooled.
 fortuneMost: A small kind thing you say will outlast you, quoted back years on by someone whose voice goes a little tight.
 fortuneMost2: Lend the book you love to the one who won't return it.
@@ -32,12 +32,12 @@ facetLowTitle: The Lid Lifts, Steam Gone
 facetLow: A wonderful holiday ends. You hand back the keys, board the plane, and feel it slide cleanly into the past before the wheels are up.
 facetLeastTitle: Wind Off an Open Pot
 facetLeast: A friendship that mattered has quietly run its course. You let the last thread go without a keepsake and feel the lightness of an empty hand.
-question: An old friend mentions, casually, something kind you said to them years ago. You...
-answerMost: remember the conversation in full, and the room it happened in
-answerHigh: recognise the line as something you'd say, and pretend to remember the rest
-answerMid: half-remember the day, mostly the weather
-answerLow: laugh and say you have no memory of saying it
-answerLeast: ask whether they're sure they've got the right person
+question: Clearing space on your phone, you find a voicemail you saved years ago and never deleted. The thumb hovers over play. You...
+answerMost: listen three times, then sit with the whole year it came from before doing anything else
+answerHigh: play it once through and leave it exactly where it is
+answerMid: play a few seconds, recognise the voice, move on
+answerLow: skip it and clear the rest of the list
+answerLeast: delete it with everything else to free the space
 rorschachMost: a stamp and its mark left too long
 rorschachHigh: a beetle and the print it pressed in the dust
 rorschachMid: two loaves cooling, one above the other

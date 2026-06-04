@@ -7,9 +7,9 @@ trait: confident
 dish: Yaki edamame - oven-roasted edamame with shichimi togarashi and sea salt.
 quote: Whether you think you bean or you think you can't, you're right.
 creature: stallion
-friendlyBeans: [cannellini, green]
-antiBeans: [mung, pinto]
-friendlyForm: fried
+friendlyBeans: [navy, pinto]
+antiBeans: [mung, fava]
+friendlyForm: dried
 antiForm: fermented
 seasonalFortune: A season for pods that blister without splitting. Shichimi clings where the oven has scored a place for it, and the kitchens favour cooks who season once and trust the heat to do the rest.
 fortuneMost: Said once, it stands.
@@ -32,12 +32,12 @@ facetLowTitle: The Pod Still Green Inside
 facetLow: You've parked the car and you're nearly inside when the doubt arrives — locked or not? Worth the walk back to be sure, and you go.
 facetLeastTitle: Edamame Before the Char
 facetLeast: The form asks a figure you half-know. Better to ring and confirm it than write down your best guess and sign — a guess in ink unsettles you.
-question: A meeting is circling a decision nobody wants to call. You've had the answer for ten minutes and they're still wording around it. You...
-answerMost: name the decision out loud and move the room to the next item
-answerHigh: say what you'd do, once, and let the silence break itself
-answerMid: float the option as a question and see who agrees
-answerLow: wait for someone more senior to say it, then back them
-answerLeast: take it offline, draft a memo, circulate by end of week
+question: Last minute of the match, level, and the team huddles undecided — throw everyone forward for the winner or hold for the draw. They're all looking at you. You...
+answerMost: call it out loud and start setting up the way you called
+answerHigh: say what you'd do, once, and let the dithering break
+answerMid: put it to them as a question and read the nods
+answerLow: wait for the captain to choose, then fall in
+answerLeast: suggest you all just keep it tight and see how it plays
 rorschachMost: a king chess piece planted on its base
 rorschachHigh: a figure standing squared on both feet
 rorschachMid: a tree trunk spreading into wide roots

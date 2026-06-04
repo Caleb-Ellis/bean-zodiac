@@ -7,10 +7,10 @@ trait: conscientious
 dish: Pasta e fagioli - cannellini with anchovy paste and Parmesan rind.
 quote: In matters of bean, swim with the current; in matters of principle, stand like a cannellini.
 creature: ant
-friendlyBeans: [navy, edamame]
-antiBeans: [fava, chickpea]
+friendlyBeans: [edamame, navy]
+antiBeans: [chickpea, pinto]
 friendlyForm: dried
-antiForm: fermented
+antiForm: smoked
 seasonalFortune: A season of slow stocks and labelled jars. The pot holds its low simmer; the rind gives up its salt by degrees, and nothing useful is hurried out of the broth.
 fortuneMost: Set the whole thing in order in one good sitting — jars labelled, shelf squared.
 fortuneMost2: Something you tended carefully when nobody was watching is about to be noticed by exactly the right person.

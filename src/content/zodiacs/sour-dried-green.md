@@ -7,8 +7,8 @@ trait: bracing
 dish: Szechuan dry-fried green beans with black vinegar and ginger.
 quote: Into each life some bean must fall.
 creature: arctic fox
-friendlyBeans: [edamame, kidney]
-antiBeans: [butter, black]
+friendlyBeans: [kidney, edamame]
+antiBeans: [butter, chickpea]
 friendlyForm: fried
 antiForm: boiled
 seasonalFortune: Black vinegar finds the seam in a room and pries it open. Around this bean, the muffled day blisters loose; ginger lingers in the doorway long after.
@@ -32,12 +32,12 @@ facetLowTitle: The Long, Rounding Pan
 facetLow: Someone arrives at your door wrung out and shaking, barely holding together. The bracing truth can keep — you put the kettle on and let them be.
 facetLeastTitle: The Long Soak
 facetLeast: Let the relative's same old story run its full meandering length — no nudge, no shortcut, even though everyone could finish it for them.
-question: A friend has been circling a hard decision for weeks and asks you, over breakfast, what they should do. You...
-answerMost: tell them, before the coffee arrives
-answerHigh: name what they already know and leave them to it
-answerMid: ask one direct question and let them answer it
-answerLow: walk them through it, slowly, both sides
-answerLeast: pour more coffee and change the subject
+question: Driving your kid home, they finally ask whether you think they should drop out of the course. You...
+answerMost: tell them straight before the next set of lights
+answerHigh: say the one thing they're avoiding and let it sit
+answerMid: ask the single question that decides it and wait
+answerLow: take it slowly, lay out both sides, mile after mile
+answerLeast: say it's their call and put the radio back on
 rorschachMost: a wave crashing down onto a rock
 rorschachHigh: a snowman with a melting cinched waist
 rorschachMid: an hourglass with sand mid-fall

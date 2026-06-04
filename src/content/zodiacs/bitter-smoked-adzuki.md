@@ -7,10 +7,10 @@ trait: oracular
 dish: Smoked adzuki with bitter black garlic and charred citrus.
 quote: The unexamined bean is not worth living.
 creature: python
-friendlyBeans: [black, navy]
-antiBeans: [kidney, green]
+friendlyBeans: [black, fava]
+antiBeans: [edamame, green]
 friendlyForm: fermented
-antiForm: roasted
+antiForm: fried
 seasonalFortune: Smoke drifts ahead of the flame this season; the reader who names the shape in the haze keeps a small advantage over the rest of the room.
 fortuneMost: You already know how this one ends. Say it out loud while there's still time.
 fortuneMost2: A reckoning is on its way, and you'll catch the scent of it long before anyone else.

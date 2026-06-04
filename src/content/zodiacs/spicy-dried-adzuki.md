@@ -7,8 +7,8 @@ trait: catalytic
 dish: Dry-fried adzuki with Sichuan peppercorn and dried chili threads.
 quote: Set the world on bean.
 creature: firefly
-friendlyBeans: [pinto, edamame]
-antiBeans: [mung, butter]
+friendlyBeans: [green, edamame]
+antiBeans: [butter, mung]
 friendlyForm: fried
 antiForm: smoked
 seasonalFortune: A season cured down to its hottest atoms; the year hangs in the rafters, drying patient, until one stray brush against the wall sets every room moving at once.
@@ -32,12 +32,12 @@ facetLowTitle: The Pan Smokes
 facetLow: An argument carries through the wall from next door, building toward a slammed door. You stay on your side of it.
 facetLeastTitle: The Sealed Jar
 facetLeast: The answer to the puzzle the whole table is wrestling with is already in your head. Why hand it over — you'd rather watch them arrive.
-question: A group text has gone quiet for three days around a plan everyone half-wants. You...
-answerMost: send "booking it for Friday, opting out is fine" with the link attached
-answerHigh: drop one nudge that names the date and watch the yeses tumble in
-answerMid: ask if anyone's still keen and wait to see who replies first
-answerLow: assume it died and let the thread keep drifting
-answerLeast: stay quiet and feel grateful nobody made you decide
+question: The council's offered the weedy corner lot to anyone on the street who'll make something of it. It's sitting there doing nothing. You...
+answerMost: knock on doors that evening and start turning it into the thing you've pictured for years
+answerHigh: draw up a plan and rally the first few neighbours by week's end
+answerMid: agree it's a great idea and wait for the dust to settle
+answerLow: mean to get to it, while the months go by
+answerLeast: never go and look, and let the weeds quietly win
 rorschachMost: a splash flinging droplets off in every direction
 rorschachHigh: a bird breaking upward, wings flung wide
 rorschachMid: a longhorn skull above a spattered stain

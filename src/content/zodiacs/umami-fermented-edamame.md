@@ -8,7 +8,7 @@ dish: Shio koji edamame - edamame marinated in fermented rice koji with salt and
 quote: The world is full of obvious things which no bean by any chance ever observes.
 creature: tawny owl
 friendlyBeans: [black, green]
-antiBeans: [mung, butter]
+antiBeans: [butter, navy]
 friendlyForm: smoked
 antiForm: boiled
 seasonalFortune: Koji works in the dark for weeks before flavor declares itself. The season belongs to the slow accumulators — those who file what they see and wait.
@@ -32,12 +32,12 @@ facetLowTitle: The Split Pod
 facetLow: A market stall, a hundred small things — you let your eye drift over the lot and don't try to take a single one in.
 facetLeastTitle: The Dissolved Salt
 facetLeast: A whole new town out the train window, and you keep your book open, content to let it stream by unwatched.
-question: Halfway through the meeting you notice the new hire is being quietly talked over. You...
-answerMost: file it and watch for the pattern next week
-answerHigh: mention it to them after, gently
-answerMid: redirect the next question their way
-answerLow: jump in then and there
-answerLeast: don't notice until it's pointed out
+question: Sunday lunch at your parents', and one relative keeps landing small digs on another, light enough that the table laughs past them. You catch every one. You...
+answerMost: file the pattern and clock who it always seems to be aimed at
+answerHigh: have a quiet word with the one on the receiving end after
+answerMid: steer the next round of talk somewhere kinder
+answerLow: name it at the table then and there
+answerLeast: only twist to it once someone else says it out loud
 rorschachMost: an owl perched alert in the brush
 rorschachHigh: a cat crouched watching from the grass
 rorschachMid: a wooded hill with scrub along its crown

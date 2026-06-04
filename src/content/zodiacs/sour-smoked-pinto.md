@@ -7,8 +7,8 @@ trait: sardonic
 dish: Frijoles borrachos al mezcal - smoked pinto beans with mezcal, orange, and pasilla chile
 quote: Outside of a bean, a dog is a man's best friend. Inside of a bean, it's too dark to read.
 creature: hyena
-friendlyBeans: [mung, adzuki]
-antiBeans: [kidney, navy]
+friendlyBeans: [green, chickpea]
+antiBeans: [navy, fava]
 friendlyForm: roasted
 antiForm: boiled
 seasonalFortune: A pot smoked over pasilla keeps its commentary low. The season favours those who watch the room before they enter it, and who answer questions a half-beat late.
@@ -32,12 +32,12 @@ facetLowTitle: Mezcal Tasting Like Mezcal
 facetLow: A grieving friend asks, plainly, whether it gets easier. The deflection is reflex and ready — you set it aside and give them the plain, undefended answer.
 facetLeastTitle: Smoke, and Just a Pot
 facetLeast: An apology is owed and the wry, hedged version is already half-written. Scrap it — out goes the bare one instead, with no angle to hide behind.
-question: Someone you've just met asks, earnestly and at a party, what you're most proud of this year. You...
-answerMost: deflect with a joke about the question itself
-answerHigh: name something small and slightly self-mocking
-answerMid: answer half-straight, half-wry
-answerLow: name the real thing with a small qualifier
-answerLeast: name the real thing and hold their eye
+question: At your old boss's retirement drinks a newcomer asks you, sincerely, what he was really like to work for. You...
+answerMost: deflect with a wry line he himself would've used
+answerHigh: offer something small and faintly self-mocking on his behalf
+answerMid: answer half-straight, half-dry
+answerLow: name the true thing with a small qualifier
+answerLeast: name the true thing and hold their eye
 rorschachMost: two profiles smirking sidelong at each other
 rorschachHigh: two masks, one brow cocked across the gap
 rorschachMid: two faces turned toward a narrow gap

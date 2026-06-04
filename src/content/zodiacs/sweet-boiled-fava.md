@@ -7,8 +7,8 @@ trait: insistent
 dish: Habas dulces — young fava beans boiled briefly and tossed with honey, lemon zest, and fresh mint.
 quote: It does not matter how slowly you bean, as long as you do not stop.
 creature: gull
-friendlyBeans: [mung, adzuki]
-antiBeans: [kidney, pinto]
+friendlyBeans: [cannellini, mung]
+antiBeans: [edamame, kidney]
 friendlyForm: smoked
 antiForm: smoked
 seasonalFortune: A low simmer outlasts the cook who set it; the honey thickens through hours nobody watches, and the pot keeps asking until the answer comes.
@@ -32,12 +32,12 @@ facetLowTitle: Honey Skimmed Early
 facetLow: The shop won't budge on the refund and you're fairly sure you're in the right. One ask, a shrug, and out the door — this hill isn't worth the climb, and you're lighter not climbing it.
 facetLeastTitle: The Quick Spoon
 facetLeast: A relative dodges the question you've wanted answered for years, again, with the usual vague smile. Let it lie this time — some doors stay shut, and you stop pushing on this one.
-question: You emailed your landlord about a slow leak three weeks ago and heard nothing back. You...
-answerMost: send the same warm follow-up every Monday until it's fixed
-answerHigh: send a polite second email this week
-answerMid: bring it up next time you cross paths in the hall
-answerLow: wait another week, see if it resolves itself
-answerLeast: put a bucket under it and let it go
+question: A robin keeps coming to the garden but won't trust the feeder. You're sure, given time, it'll take seed from your hand. You...
+answerMost: stand out there the same patient hour every morning until it does
+answerHigh: try again each day, a little closer, for as long as it takes
+answerMid: leave seed on the sill and check now and then
+answerLow: top the feeder up and let the bird decide
+answerLeast: enjoy it from the window and leave it wild
 rorschachMost: a fist clenched tight, knuckles out
 rorschachHigh: a tick dug in and holding on
 rorschachMid: a knot of wood in a plank

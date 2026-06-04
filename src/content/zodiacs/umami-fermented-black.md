@@ -7,8 +7,8 @@ trait: introspective
 dish: Black bean and douchi braise - black soybeans with fermented black bean paste, ginger, and Shaoxing wine.
 quote: Who looks outside, dreams; who looks inside, awakens the bean.
 creature: turtle
-friendlyBeans: [fava, mung]
-antiBeans: [cannellini, adzuki]
+friendlyBeans: [fava, pinto]
+antiBeans: [adzuki, kidney]
 friendlyForm: smoked
 antiForm: roasted
 seasonalFortune: A season for crocks left undisturbed, for ginger steeping into wine, for darknesses that grow more articulate the longer they are not opened.
@@ -32,12 +32,12 @@ facetLowTitle: Salt on the Rim
 facetLow: A worry wakes you. You phone whoever picks up and say it out loud before it sets.
 facetLeastTitle: Wine Into Hot Oil
 facetLeast: Asked on the spot which way to go, you blurt the answer and find out what you think by hearing it.
-question: Someone at the table asks how your week has been. You...
-answerMost: say "good" and mean a whole other conversation by it
-answerHigh: pick the one true sentence and offer that
-answerMid: give the headline and let them follow up
-answerLow: tell them the small annoying thing and laugh
-answerLeast: launch into the full account, in order
+question: The therapist lets the silence sit, then asks how the week has actually been. You...
+answerMost: say "good" and feel the whole real answer move behind it, unspoken
+answerHigh: find the single truest sentence and set it down
+answerMid: give the headline and wait to see if she pulls the thread
+answerLow: offer the small annoying thing and laugh it off
+answerLeast: tip out the entire week, start to finish, in order
 rorschachMost: a hermit crab withdrawn into a bristled shell
 rorschachHigh: a bowed head turned away toward a thornbush
 rorschachMid: a smooth stone beside a spiny chestnut burr

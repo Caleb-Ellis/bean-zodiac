@@ -32,12 +32,12 @@ facetLowTitle: Yuzu Picked Green
 facetLow: Out at the night market, a coat in a lit stall fits the moment exactly. Cash over before the doubt lands, no second lap around the square.
 facetLeastTitle: The Lid Lifted Early
 facetLeast: They go round the room and the vote arrives at you, everyone waiting. The first name that surfaces is the one you give, no longer look taken.
-question: At a restaurant, you've asked for five more minutes twice already. The waiter is back, hovering. You...
-answerMost: ask for tea and another five minutes
-answerHigh: order what you always order here
-answerMid: pick the safe second-favourite
-answerLow: order what's on the next table
-answerLeast: point at random and close the menu
+question: A pot you've thrown over weeks is ready to glaze; the kiln offers a glaze you trust or an untested one that could craze the whole thing or turn it gorgeous. You...
+answerMost: fire a test tile of the new glaze first and read how it breaks
+answerHigh: use the glaze you trust on a piece this good
+answerMid: glaze it safe but slip a test tile of the new one in alongside
+answerLow: brush the untested glaze on where it mostly looks stable
+answerLeast: dunk the whole pot in the unknown glaze and fire it hot
 rorschachMost: a bear couched low, head bowed, tail curled under
 rorschachHigh: an old tortoise drawn in, weighing whether to wake
 rorschachMid: a potato beside a big bean

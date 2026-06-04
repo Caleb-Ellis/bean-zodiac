@@ -32,12 +32,12 @@ facetLowTitle: Cardamom Uncrushed
 facetLow: Someone two seats over on the bus is quietly falling apart. You catch it, decide they'd rather not be seen, and turn back to the window.
 facetLeastTitle: Waxed Paper, and Gone
 facetLeast: The whole street's invited to the block party and the knocks come for you too. You draw the curtains, leave the bell unanswered, and let the night belong to no one but you.
-question: A new colleague is having an awful first week and has gone quiet at lunch. You don't really know them yet. You...
-answerMost: bring them a coffee tomorrow and ask about their weekend
-answerHigh: sit next to them and start an easy conversation
-answerMid: smile across the table and hope someone else does the work
-answerLow: assume they want space and give them some
-answerLeast: keep your headphones on; they'll find their feet
+question: The elderly man next door is struggling with his shopping at the gate, slower each week and never one to ask. You...
+answerMost: carry it in, put the kettle on, and start checking in on him for good
+answerHigh: take the bags up and offer to grab his shopping next time you go
+answerMid: hold the gate, ask if he's alright, and leave it there
+answerLow: figure he'd rather manage himself and don't intrude
+answerLeast: nod hello and carry on, it's not your place
 rorschachMost: a loaf broken open, steam still rising
 rorschachHigh: a bowl of soup with two spoons
 rorschachMid: a ladle hanging beside the stove

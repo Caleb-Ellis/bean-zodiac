@@ -7,10 +7,10 @@ trait: calculating
 dish: Navy bean and aged miso gratin with Gruyère and toasted breadcrumb.
 quote: It is not enough to bean well; one must also bean at the right time.
 creature: spider
-friendlyBeans: [butter, black]
-antiBeans: [chickpea, fava]
+friendlyBeans: [cannellini, black]
+antiBeans: [fava, kidney]
 friendlyForm: dried
-antiForm: smoked
+antiForm: fried
 seasonalFortune: Miso deepens slowly in the crock; the season rewards those who track which crust browns first and which gives last under the spoon.
 fortuneMost: Four versions of the moment have already run in you, and you know which one is least costly to be wrong about.
 fortuneMost2: You're three moves ahead before you've made the first.

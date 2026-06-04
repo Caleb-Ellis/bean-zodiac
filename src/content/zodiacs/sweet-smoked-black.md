@@ -8,7 +8,7 @@ dish: Mole negro - black beans braised in charred mulato chile, smoked chipotle,
 quote: There are more things in bean and earth, Horatio.
 creature: qilin
 friendlyBeans: [navy, fava]
-antiBeans: [adzuki, chickpea]
+antiBeans: [adzuki, green]
 friendlyForm: fermented
 antiForm: roasted
 seasonalFortune: Long braises this season. The pot holds its dark longer than the clock asks; what the chile and chocolate said to each other in the dark stays in the dark.

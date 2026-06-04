@@ -7,10 +7,10 @@ trait: indomitable
 dish: Maccu dolce — dried fava beans cooked to a thick paste with honey and fennel seed, a Sicilian Carnevale sweet.
 quote: She believed she could bean, so she did.
 creature: destrier
-friendlyBeans: [black, chickpea]
-antiBeans: [adzuki, cannellini]
-friendlyForm: smoked
-antiForm: roasted
+friendlyBeans: [black, edamame]
+antiBeans: [pinto, adzuki]
+friendlyForm: boiled
+antiForm: smoked
 seasonalFortune: A season that thickens by the hour, favas surrendering to honey only after long heat. The fennel keeps its bite; the paste keeps the shape of the spoon that worked it.
 fortuneMost: An oak still standing after the storm has passed — that's you, carrying the casserole up the grieving house's stairs, driving across the dark city when no one else would.
 fortuneMost2: Honey only surrenders the fava after long heat, and you're still over the pot when everyone else has gone to bed.
@@ -32,10 +32,10 @@ facetLowTitle: Honey When the Flame Cuts
 facetLow: Backpack biting into your shoulders on the long road, you spot a bench in the shade — and you sink onto it and let the pack drop without a second thought.
 facetLeastTitle: Favas Loose in the Jar
 facetLeast: The team's down by thirty with minutes left and the bench is still hollering to fight on. You ease back, unlace your boots early, and let this one be lost.
-question: You're already running on fumes. A friend calls — their dad just went into hospital and they need someone to drive across the city tonight. You...
-answerMost: pick up your keys before you've finished the sentence
+question: You're already running on fumes. A friend calls — a pipe's burst and their flat's flooding, and they need someone across the city tonight. You...
+answerMost: pick up your keys before they've finished the sentence
 answerHigh: cancel the morning and go, no question
-answerMid: go, but text someone else to take a shift tomorrow
+answerMid: go, but text someone else to take over the bailing tomorrow
 answerLow: say "I can't tonight, but call me first thing"
 answerLeast: send a heart emoji and turn the phone face down
 rorschachMost: an oak still standing after the storm

@@ -8,9 +8,9 @@ dish: Red beans and rice - New Orleans kidney beans slow-cooked with smoked ando
 quote: Love is a smoke made with the fume of bean.
 creature: locust
 friendlyBeans: [green, mung]
-antiBeans: [pinto, chickpea]
-friendlyForm: fermented
-antiForm: roasted
+antiBeans: [chickpea, fava]
+friendlyForm: fried
+antiForm: dried
 seasonalFortune: A pot kept at low boil for hours. The andouille gives up its fat slowly, and the season belongs to those who tend one thing past sensible.
 fortuneMost: You love a thing past comfortable, the way the andouille gives up its fat only after hours — and what you make at that heat, no one cooler can reach.
 fortuneMost2: The world narrows to one bright pot and nothing else is interesting.
@@ -32,12 +32,12 @@ facetLowTitle: Off the Burner Early
 facetLow: A new hobby is fun for a couple of weeks, then the shine dims. You shelve the gear without a second thought and wander toward whatever's next, no ache about it.
 facetLeastTitle: The Simmering Tab
 facetLeast: Here's the thing everyone swears is consuming — the book they couldn't put down, the trip of a lifetime. You enjoy it at a low, steady warmth and turn in at a sensible hour.
-question: You're three hours into a project and dinner plans are in twenty minutes. You...
-answerMost: cancel without guilt; you're inside the thing now
-answerHigh: text "running late" and stay until you've lost track again
-answerMid: stop at a natural break and go, half there in your head
-answerLow: shut the laptop on time and shake it off on the walk
-answerLeast: pack up early so you arrive a few minutes ahead
+question: Someone new has gotten under your skin and the thought of them is crowding out food, sleep, everything else. You...
+answerMost: burn down every other plan and chase it headlong
+answerHigh: let it take over and follow wherever it pulls
+answerMid: feel the pull hard but keep one foot on the ground
+answerLow: enjoy it quietly and hold the rest of your life steady
+answerLeast: notice the spell and refuse to let it run you
 rorschachMost: a wildfire's smoke billowing up the hill
 rorschachHigh: a thundercloud swelling before the storm
 rorschachMid: a bushy shrub catching the wind at its top

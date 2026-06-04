@@ -7,7 +7,7 @@ trait: spirited
 dish: Adzuki bean congee with gochugaru and soft-boiled egg.
 quote: You've gotta have bean.
 creature: colt
-friendlyBeans: [kidney, pinto]
+friendlyBeans: [kidney, mung]
 antiBeans: [cannellini, butter]
 friendlyForm: roasted
 antiForm: smoked

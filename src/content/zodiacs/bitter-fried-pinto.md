@@ -7,9 +7,9 @@ trait: irreverent
 dish: Taquitos - pinto beans with bitter lime crema and hot sauce.
 quote: Irreverence is the champion of liberty and its only sure bean.
 creature: monkey
-friendlyBeans: [adzuki, chickpea]
-antiBeans: [black, kidney]
-friendlyForm: roasted
+friendlyBeans: [fava, chickpea]
+antiBeans: [navy, black]
+friendlyForm: fermented
 antiForm: boiled
 seasonalFortune: A season that rewards the unimpressed. Crisp shells split easy under heat, and what was passing for structure shows itself as folded paper. The lime crema cools nothing that wasn't already overdressed.
 fortuneMost: What's passing for structure is folded paper, and you can see the crease.
@@ -32,12 +32,12 @@ facetLowTitle: The Shell, Still Holding
 facetLow: A nervous kid stands up to recite a poem and stumbles over half the lines. There's an easy laugh right there — you hold it, and clap like they nailed it instead.
 facetLeastTitle: Taquitos, Plated Straight
 facetLeast: An old man at the memorial rises to give a long, earnest, fumbling tribute to his friend. You take every word of it straight — moved, not amused — and would never dream of a quip.
-question: A colleague gives a deeply earnest speech at the team offsite. You...
-answerMost: deflate it with one line the second they sit down
-answerHigh: catch a friend's eye and mutter the joke
-answerMid: clap politely and save the line for after
-answerLow: take it at face value, even the awkward bits
-answerLeast: feel genuinely moved and tell them so
+question: At the school prize-giving the head sweeps into the grandest, most self-important line of the whole speech. You...
+answerMost: let the joke escape under your breath before you can stop it
+answerHigh: bite your cheek and hold the grin down
+answerMid: keep a straight face and save the thought for after
+answerLow: feel the occasion settle properly and sit up
+answerLeast: applaud it warmly and mean every clap
 rorschachMost: a balloon sagging as the air leaks out
 rorschachHigh: a spinning top tilting off its point
 rorschachMid: a balloon on a string with a tassel

@@ -7,9 +7,9 @@ trait: adamant
 dish: Spiced fava bean soup with berbere and lemon.
 quote: I am not a bean to be argued out of what I know to be right.
 creature: mule
-friendlyBeans: [chickpea, pinto]
-antiBeans: [cannellini, edamame]
-friendlyForm: smoked
+friendlyBeans: [black, edamame]
+antiBeans: [pinto, adzuki]
+friendlyForm: roasted
 antiForm: smoked
 seasonalFortune: A season for the long simmer. The skin holds while heat works through; what does not yield to berbere and lemon will be carried whole to the bowl.
 fortuneMost: You are the spine when everyone else's opinion goes soft.
@@ -32,12 +32,12 @@ facetLowTitle: The Pot's New Note
 facetLow: You'd swap dinner spots the second a friend admits they'd rather somewhere else, even one you'd set your heart on.
 facetLeastTitle: Water in the Bowl
 facetLeast: Someone reroutes the road trip at the last junction when your gut says otherwise. Their wheel, their call — you settle back and let it ride.
-question: A vote at the table is going the wrong way and you're the lone hold-out. Three people have already turned to look at you. You...
-answerMost: name the unsayable thing aloud and sit with what follows
-answerHigh: state your no, clean, and let the silence land
-answerMid: register your reservation, then defer to the room
-answerLow: shrug, go along, plan to raise it later
-answerLeast: nod and forget you ever disagreed
+question: The clerk says your form is wrong, the rule isn't written anywhere, and the queue behind you is growing restless. You...
+answerMost: hold your ground and ask them to show you the rule
+answerHigh: stay put, calm, and refuse to move until it's resolved
+answerMid: push once, then take the number and wait it out
+answerLow: redo the form their way to keep things moving
+answerLeast: apologise, step aside, and come back another day
 rorschachMost: a bull bracing low with one horn down
 rorschachHigh: an anvil with its horn jutting out
 rorschachMid: a boulder with a hooked branch above it

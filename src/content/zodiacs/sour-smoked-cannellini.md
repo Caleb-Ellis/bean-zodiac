@@ -7,8 +7,8 @@ trait: piercing
 dish: Ribollita - Tuscan bread soup with cannellini, smoked pancetta, cavolo nero, and red wine vinegar
 quote: The truth will bean you free.
 creature: shrike
-friendlyBeans: [black, mung]
-antiBeans: [adzuki, pinto]
+friendlyBeans: [black, edamame]
+antiBeans: [adzuki, kidney]
 friendlyForm: dried
 antiForm: roasted
 seasonalFortune: A season for vinegar over smoke, for the bowl that asks a cold question of warm bread. Households eat slower; what was hidden in the broth surfaces.
@@ -32,12 +32,12 @@ facetLowTitle: The Bread That Takes the Broth
 facetLow: A cousin is about to sink their savings into something you can see will fold. The correction is loaded; you set it down and let them walk in.
 facetLeastTitle: The Rendered Pancetta
 facetLeast: Wrong on a small point of fact, the other person is happy and the evening is easy. Letting it stand costs nothing, so you do — and feel the room soften.
-question: Five minutes into a kickoff meeting you've already seen the flaw in the plan that the whole hour is about to be built on. You...
-answerMost: name it now and let the agenda fall apart
-answerHigh: ask the question that exposes it without naming it
-answerMid: let them get to the end and raise it then
-answerLow: write it down and bring it up in the one-on-one
-answerLeast: keep it to yourself and let the project find out
+question: A man's running three-card monte on an upturned crate by the station and you've already clocked where the queen really is. You...
+answerMost: say it out loud so the next mark keeps his money
+answerHigh: catch the stranger's eye and shake your head, quietly
+answerMid: watch one more round to be sure, then drift off
+answerLow: suspect the gaff but half-doubt your own eye
+answerLeast: put a tenner down on the card he wants you to pick
 rorschachMost: a boulder split clean by a driven spike
 rorschachHigh: a walnut shell cracked down its seam
 rorschachMid: two stones leaning together at a gap

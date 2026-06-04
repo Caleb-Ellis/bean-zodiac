@@ -7,10 +7,10 @@ trait: enduring
 dish: Boston baked beans - dried navy beans slow-baked with salt pork, molasses, and mustard.
 quote: Endurance is not just the ability to bean a difficult situation — it is to turn it into glory.
 creature: giant tortoise
-friendlyBeans: [butter, edamame]
-antiBeans: [pinto, fava]
+friendlyBeans: [black, butter]
+antiBeans: [chickpea, pinto]
 friendlyForm: boiled
-antiForm: smoked
+antiForm: fermented
 seasonalFortune: A low oven asks for hours, not minutes; molasses darkens only under steady heat. The season rewards a cook who set the pot down at dawn.
 fortuneMost: Return to the same long work another year.
 fortuneMost2: Molasses only darkens under steady heat held for hours.

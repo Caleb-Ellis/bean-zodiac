@@ -7,10 +7,10 @@ trait: atmospheric
 dish: Texas smoked pinto beans with brisket drippings, chipotle, and epazote.
 quote: Wherever you go, there you bean.
 creature: heron
-friendlyBeans: [chickpea, edamame]
-antiBeans: [navy, fava]
+friendlyBeans: [mung, chickpea]
+antiBeans: [kidney, fava]
 friendlyForm: roasted
-antiForm: boiled
+antiForm: dried
 seasonalFortune: A season that arrives by saturation rather than announcement. Hickory works into the rafters; brisket fat outlasts the fire. Rooms remember whoever last stood in them.
 fortuneMost: Long after you've gone, the place keeps your weather.
 fortuneMost2: You'll say almost nothing all evening and still be the thing people remember of it.
@@ -32,12 +32,12 @@ facetLowTitle: Epazote, Named on Entry
 facetLow: How would you like the steak? You name it outright — medium-rare — rather than leave it to the waiter's guess.
 facetLeastTitle: A Clean Cut on the Board
 facetLeast: A hush when they ask for volunteers, and your hand is straight up, name said clearly, before the mood of the room can settle anything.
-question: A group photo is being taken at a friend's birthday. You...
-answerMost: take the picture for them
-answerHigh: drift to the back row and half-look at someone else
-answerMid: stand where you're put and smile
-answerLow: pull the group tighter and call the count
-answerLeast: step to the front and ask whose phone is best
+question: A stranger asks you to take the group's photo at a crowded scenic overlook. You...
+answerMost: line up the shot yourself, wait for the light, take six
+answerHigh: drift back, frame it loosely, half-watching the view instead
+answerMid: take the one they asked for and hand the phone back
+answerLow: wave them tighter together and call the count
+answerLeast: hand it off and say someone else has the better eye
 rorschachMost: two puffs of smoke spreading into the air
 rorschachHigh: two foggy treetops bleeding into the mist
 rorschachMid: two cauliflower heads on a board

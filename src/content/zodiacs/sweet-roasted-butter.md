@@ -7,8 +7,8 @@ trait: lighthearted
 dish: Butter beans roasted with vanilla sugar and lemon zest — caramelised at the edges, softly golden throughout.
 quote: A day without beans is like a day without sunshine, so bring extra beans.
 creature: finch
-friendlyBeans: [adzuki, mung]
-antiBeans: [fava, green]
+friendlyBeans: [adzuki, pinto]
+antiBeans: [fava, kidney]
 friendlyForm: boiled
 antiForm: fried
 seasonalFortune: A house where the sugar pan is never quite empty; lemons go soft on the sill before anyone minds, and the oven runs warm into the evening for no particular reason.
@@ -32,12 +32,12 @@ facetLowTitle: The Cheaper Extract
 facetLow: The toast lands flat and the table goes quiet. You let it stay quiet instead of reaching for the save.
 facetLeastTitle: Sugar Measured Level
 facetLeast: A child at the funeral keeps tugging your sleeve for a game. You crouch to their level and tell them, gently and straight, that this is a day for being quiet.
-question: A close friend tells you something genuinely heavy over coffee — a diagnosis, a breakup, the kind of news that flattens a Tuesday. You...
-answerMost: crack a small, gentle joke and watch their shoulders drop two inches
-answerHigh: tell them about the time something almost as bad happened to you, and how it eventually got funny
-answerMid: nod, top up their coffee, ask a softer question
-answerLow: sit quietly and let the silence hold what words wouldn't
-answerLeast: tear up before they do and apologise for it
+question: The outdoor wedding's been rained out, the marquee's leaking onto the cake, and every face under it has fallen. You catch the bride's eye. You...
+answerMost: call out the daft toast that turns the whole soggy disaster into the best story they'll tell for years
+answerHigh: lean to the person beside you and crack the joke under your breath
+answerMid: grin to yourself and keep the line for later
+answerLow: hold it back and match the gloom under the canvas
+answerLeast: let your own face fall right along with the rest
 rorschachMost: a moth lifting off above scattered blossoms
 rorschachHigh: a kite climbing over a tangle of string
 rorschachMid: a cloud drifting above a low thornbush

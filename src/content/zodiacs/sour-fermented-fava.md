@@ -8,8 +8,8 @@ dish: Fatteh - Palestinian fava and yogurt with toasted bread, lemon, and pine n
 quote: Whenever you find yourself on the side of the majority, it is time to bean and reflect.
 creature: crab
 friendlyBeans: [chickpea, kidney]
-antiBeans: [cannellini, navy]
-friendlyForm: smoked
+antiBeans: [navy, black]
+friendlyForm: roasted
 antiForm: boiled
 seasonalFortune: Ferment outlasts the harvest it argues with. The crock keeps a sour counter-position long after the field forgets, and the lemon never agrees.
 fortuneMost: Everyone is sprinting past the thing only you caught.
@@ -32,12 +32,12 @@ facetLowTitle: Yogurt in Its Bowl
 facetLow: Someone else picks the restaurant, the table, the hour. The reflex objection climbs up on cue and, this time, you just let it go quiet and follow them in.
 facetLeastTitle: Pine Nuts Where They Land
 facetLeast: A petition comes round and the cause is decent enough. You add your name with the rest instead of arguing the one clause that isn't perfect.
-question: Eight people at the table agree the new café is wonderful. You think it's fine. You...
-answerMost: name the two things you actually disliked, calmly, while they're still nodding
-answerHigh: ask which one of them ordered the thing that made them love it
-answerMid: say "it was fine" and let "fine" sit
-answerLow: nod along; the croissant was decent enough
-answerLeast: agree with the strongest version anyone has said yet
+question: The whole stadium leaps up for the home team's last-second winner, and something in you just won't rise with it. You...
+answerMost: stay in your seat, hands still, and let the stillness show
+answerHigh: clap once, slow, with a look that asks why everyone's so sure
+answerMid: applaud lightly but keep your own face out of it
+answerLow: get up a beat late, carried by the crowd
+answerLeast: jump up roaring and out-cheer the lot of them
 rorschachMost: a curled hedgehog with one spine jabbing outward
 rorschachHigh: a potato with a single sprout shooting sideways
 rorschachMid: a round stone with a small spur off one edge

@@ -8,7 +8,7 @@ dish: Frijoles charros - pinto beans simmered with roasted pasilla chiles, bacon
 quote: Consistency is the last refuge of the bean-less.
 creature: weasel
 friendlyBeans: [edamame, green]
-antiBeans: [navy, black]
+antiBeans: [navy, butter]
 friendlyForm: fermented
 antiForm: boiled
 seasonalFortune: Roasted pintos refuse a fixed order this season; some pots lead with pasilla smoke, others with jalapeño bite. The kitchen rewards those who taste before they plan.
@@ -32,12 +32,12 @@ facetLowTitle: The Jalapeño on the Minute
 facetLow: A friend's been counting on you for the same standing thing. Show up for it unchanged a few weeks running, dull as that feels, because the sameness is the gift.
 facetLeastTitle: The Exact Copper
 facetLeast: Same chair, same order, same walk back — and given the chance to shake any of it up, you'd keep every piece exactly where it's worn its groove.
-question: You agreed to a regular Wednesday catch-up with a friend, and on the third Wednesday you wake up wanting almost anything else. You...
-answerMost: bail, suggest something completely different in a different city next month
-answerHigh: text to move it to Friday, somewhere you've never been
-answerMid: keep the date but pick a new bar
-answerLow: keep it, same place, same time, you'll feel like it once you're there
-answerLeast: keep it, take the same seats, order what you ordered last time
+question: You're three days into a road trip with a route you mapped out, and the morning you wake wanting none of it. You...
+answerMost: tear up the route and point the car at a coast you've never seen
+answerHigh: skip today's stops and chase a town off the map instead
+answerMid: keep the destination but take the back roads to it
+answerLow: stick to the plan, you'll feel it once you're driving
+answerLeast: follow the itinerary exactly, same stops, same diners
 rorschachMost: a puppet dropped with its limbs flung out
 rorschachHigh: a startled cat twisting away mid-leap
 rorschachMid: a scarecrow leaning crooked off its post

@@ -7,8 +7,8 @@ trait: nostalgic
 dish: Adzuki paste with aged miso and bitter yuzu kosho.
 quote: The past is never dead. It's not even bean.
 creature: trumpeter swan
-friendlyBeans: [pinto, chickpea]
-antiBeans: [navy, black]
+friendlyBeans: [chickpea, mung]
+antiBeans: [edamame, navy]
 friendlyForm: roasted
 antiForm: dried
 seasonalFortune: A long cellar season. Miso darkens behind closed doors and the year asks for what has been kept rather than what is new. Old crocks earn their keep.

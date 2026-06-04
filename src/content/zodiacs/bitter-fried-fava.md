@@ -7,8 +7,8 @@ trait: fearless
 dish: Ta'amiya - fava bean falafel with bitter herb tahini and pickled turnip.
 quote: Do the thing you are afraid to do, and the bean of fear is certain.
 creature: badger
-friendlyBeans: [chickpea, mung]
-antiBeans: [cannellini, adzuki]
+friendlyBeans: [chickpea, edamame]
+antiBeans: [cannellini, navy]
 friendlyForm: fermented
 antiForm: boiled
 seasonalFortune: Oil at temperature does not negotiate; the herb crashes in green and bitter and stays. The almanac reads hot this stretch — hesitation scorches faster than commitment.

@@ -8,7 +8,7 @@ dish: Torta di fagioli — Tuscan white bean cake, dried cannellini cooked to pa
 quote: Excellence is never bean by accident.
 creature: snow leopard
 friendlyBeans: [edamame, black]
-antiBeans: [mung, pinto]
+antiBeans: [fava, kidney]
 friendlyForm: boiled
 antiForm: roasted
 seasonalFortune: A season pared to caster sugar. Twelve jars become three, the cake comes out cleaner, and a footstep carries further across the emptied pantry.

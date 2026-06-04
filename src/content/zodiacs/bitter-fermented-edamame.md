@@ -7,8 +7,8 @@ trait: rational
 dish: Edamame in ponzu with bitter yuzu and silken tofu.
 quote: The body is not the master of the mind, any more than the mind is the master of the bean.
 creature: carrion crow
-friendlyBeans: [green, kidney]
-antiBeans: [mung, butter]
+friendlyBeans: [green, pinto]
+antiBeans: [butter, adzuki]
 friendlyForm: dried
 antiForm: boiled
 seasonalFortune: Ponzu has been pulling acid from yuzu peel for weeks; what arrives at the bowl is no longer sharp citrus but a settled verdict, ready to season what it meets.
@@ -32,12 +32,12 @@ facetLowTitle: Ponzu at the Table
 facetLow: Two job offers, near identical on paper, and the deadline's tonight. You go with the one that simply felt better walking out the interview — no figures to point to, just the feel of it.
 facetLeastTitle: Before the Rice Is Rinsed
 facetLeast: At a crossroads with no map and no reason to favour either road, you just turn down the one that pulls at you. Could be the long way round, and you take it on the pull alone.
-question: A friend is weighing two apartments and wants your help deciding. You...
-answerMost: build a spreadsheet of rent, commute, and square footage before saying anything
-answerHigh: list the trade-offs and ask which ones they actually weigh more
-answerMid: walk through both with them out loud and arrive at the answer together
-answerLow: ask which one they pictured when they woke up this morning
-answerLeast: tell them to take whichever one felt like home at the door
+question: A project wraps early and a clear, empty week of leave opens up ahead of you, unplanned. At the kitchen table that night, you...
+answerMost: map the days against rest, the backlog, and what you'd regret skipping before committing to a single one
+answerHigh: split it by rule — some for jobs owed, some for rest, some left loose
+answerMid: leave it open until the right use makes itself obvious
+answerLow: let one quiet want you'd shelved start to surface
+answerLeast: book the trip you've ached for before the week cools
 rorschachMost: a balance scale, two pans level on the beam
 rorschachHigh: an ox yoke notched evenly for the load
 rorschachMid: a low hill rising to two rounded peaks

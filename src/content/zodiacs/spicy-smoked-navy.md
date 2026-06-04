@@ -7,10 +7,10 @@ trait: dogged
 dish: Cassoulet - French slow-cooked navy beans with smoked duck confit, Toulouse sausage, and piment d'Espelette.
 quote: It's not whether you get knocked down, it's whether you bean up.
 creature: terrier
-friendlyBeans: [black, butter]
-antiBeans: [chickpea, fava]
-friendlyForm: boiled
-antiForm: fermented
+friendlyBeans: [butter, black]
+antiBeans: [chickpea, pinto]
+friendlyForm: dried
+antiForm: roasted
 seasonalFortune: Smoke settles into what stays still. The pot holds its low fire through the long afternoon; a life shaped this way accrues by refusing to lift the lid.
 fortuneMost: Cassoulet only rewards the cook who holds the low fire through the whole long afternoon — cold days, no audience, lid down.
 fortuneMost2: The slow ugly work everyone wrote off as abandoned is yours to carry through.

@@ -8,8 +8,8 @@ dish: Fagioli al limone con capperi - Italian cannellini beans pan-fried with ca
 quote: For every bean, there is a season, and a proper form.
 creature: satin bowerbird
 friendlyBeans: [mung, edamame]
-antiBeans: [chickpea, pinto]
-friendlyForm: dried
+antiBeans: [pinto, black]
+friendlyForm: boiled
 antiForm: smoked
 seasonalFortune: Lemon zest keeps in a clean jar; capers hold in their brine. A cannellini life runs on small inventories — each thing named, weighed, set in its row.
 fortuneMost: The seam no one thinks to check is the one that splits when nobody's looking — and you'll get there first.

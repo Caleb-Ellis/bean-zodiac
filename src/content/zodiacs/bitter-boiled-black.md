@@ -7,9 +7,9 @@ trait: measured
 dish: Black bean soup with epazote and bitter orange.
 quote: It was the best of beans, it was the worst of beans.
 creature: grey heron
-friendlyBeans: [cannellini, navy]
-antiBeans: [chickpea, green]
-friendlyForm: smoked
+friendlyBeans: [navy, cannellini]
+antiBeans: [green, chickpea]
+friendlyForm: dried
 antiForm: roasted
 seasonalFortune: The pot sits dark on a low flame, days of soaking already behind it; nothing in the kitchen is rushed, and nothing arrives less than fully steeped.
 fortuneMost: Three opinions spend themselves in the room. They're all waiting for yours.
@@ -32,12 +32,12 @@ facetLowTitle: Herb in Cold Water
 facetLow: A stranger's hand, the music up, no time to think it through — and you're dancing before you've decided to, finding the steps in the middle of them.
 facetLeastTitle: Citrus on the Tongue
 facetLeast: Chips down, the dealer's hand hovering over the table. You call it on pure instinct, fast and unhedged, riding the rush of it.
-question: The group chat is mid-argument and someone tags you for your take. You...
-answerMost: wait until the thread has cooled, then write once
-answerHigh: read it through twice before typing
-answerMid: send a holding "thinking" while you draft
-answerLow: type the gut response and trim it
-answerLeast: fire off the first thing that lands
+question: A swarm of bees has settled in a low fork of the apple tree, a humming brown comma the size of a football, calm for now. You...
+answerMost: watch a good while, read up on who to call, and move nothing until you understand it
+answerHigh: keep a steady distance and think it through before acting
+answerMid: take one careful look, then decide
+answerLow: fetch a box and try to coax them in straight away
+answerLeast: swat near it to see what they do
 rorschachMost: a thinker, hand to brow, holding the answer back
 rorschachHigh: two chess players leaning close over the board
 rorschachMid: a seated cat facing a small spiky hedgehog

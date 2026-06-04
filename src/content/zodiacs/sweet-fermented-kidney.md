@@ -7,8 +7,8 @@ trait: sympathetic
 dish: Sikhye with red beans — Korean sweet fermented rice punch with kidney beans, served chilled with pine nuts floating on top.
 quote: Could a greater bean or miracle take place than for us to look through each other's bean for an instant?
 creature: sea cow
-friendlyBeans: [mung, green]
-antiBeans: [edamame, fava]
+friendlyBeans: [green, mung]
+antiBeans: [edamame, cannellini]
 friendlyForm: roasted
 antiForm: dried
 seasonalFortune: A season when grain gives itself up to sweetness; the long ferment turns hard winters into something a stranger can drink cold from a shared bowl.
@@ -32,12 +32,12 @@ facetLowTitle: The Cold Cup
 facetLow: Word reaches you that a distant friend's hit a hard stretch. You take it in, send a kind word, and your own quiet evening stays quiet.
 facetLeastTitle: Straight From the Fridge
 facetLeast: A voice on the line goes thin and your hands itch to cancel everything and drive over. Keep your footing, keep your plans — not every heavy thing tonight is yours to carry.
-question: A friend is partway through describing something hard that happened to them, and you realize you've been through something very similar. You...
-answerMost: stop them gently, say "I know exactly," and tell your version
-answerHigh: nod along, file the parallel away, and stay with theirs
-answerMid: wait until they're done, then offer the parallel briefly
-answerLow: keep listening; what happened to you isn't quite the same
-answerLeast: ask the question that pulls them somewhere you haven't been
+question: At the school gates a parent you half-know is quietly coming apart, hands shaking, kids streaming out around you both. You...
+answerMost: turn toward them and ask softly if they want company
+answerHigh: catch their eye and offer a steadying word
+answerMid: hand them a tissue and let your presence say it
+answerLow: drift a little closer in case they look up
+answerLeast: give them their privacy and look away
 rorschachMost: a covered bowl steaming on a cold doorstep
 rorschachHigh: a blanket draped over hunched shoulders
 rorschachMid: a clay bell hanging still in its frame

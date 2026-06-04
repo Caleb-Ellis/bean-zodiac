@@ -7,9 +7,9 @@ trait: sentimental
 dish: Adzuki amazake pudding — red beans warmed through in sweet fermented rice drink with a strip of yuzu peel.
 quote: I kept the recipe. I kept everything.
 creature: whooper swan
-friendlyBeans: [chickpea, pinto]
-antiBeans: [navy, black]
-friendlyForm: roasted
+friendlyBeans: [pinto, chickpea]
+antiBeans: [edamame, cannellini]
+friendlyForm: smoked
 antiForm: dried
 seasonalFortune: A season when the rice quietly turns sweet in its own time. The almanac names this the long warming — when what was set aside earns its place at the table, and nothing recent tastes as deep.
 fortuneMost: Light the candles for the day nobody else clocked.
@@ -32,12 +32,12 @@ facetLowTitle: The Fresh Pour
 facetLow: The mug you've drunk from for a decade finally cracks at the handle. Sweep it up and pick a new one off the shelf without a second look.
 facetLeastTitle: No Jar Saved Back
 facetLeast: A relative's attic of saved-back things lands in your lap to sort. None of it follows you out the door.
-question: A friend mentions, in passing, that it's been ten years since the trip the two of you used to talk about constantly. You...
-answerMost: open the folder of photos and start writing the long message you've been drafting in your head all decade
-answerHigh: text them the one photo with no caption
-answerMid: smile, agree it's wild, change the subject
-answerLow: realize you'd forgotten and feel briefly hollow about it
-answerLeast: ask which trip
+question: A travelling fair has set up in the field overnight, and the organ tune drifting across is one you haven't heard since you were small. You...
+answerMost: follow it across the grass, eyes already stinging, the whole summer it belongs to flooding back
+answerHigh: stop dead and let the tune play you the old film in full
+answerMid: smile at the tug of it and carry on with your morning
+answerLow: place it vaguely as something from way back, then forget it
+answerLeast: hear only a fairground being loud too early
 rorschachMost: a bundled figure clutching a keepsake to its chest
 rorschachHigh: a hooded mourner holding something close, antennae raised
 rorschachMid: a moth with two feelers and ragged lower wings

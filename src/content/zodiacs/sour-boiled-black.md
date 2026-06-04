@@ -8,7 +8,7 @@ dish: Sopa de frijoles negros - Cuban black bean soup with lime and epazote.
 quote: Genius is one percent inspiration and ninety-nine percent bean.
 creature: leafcutter ant
 friendlyBeans: [navy, edamame]
-antiBeans: [chickpea, pinto]
+antiBeans: [pinto, chickpea]
 friendlyForm: dried
 antiForm: fermented
 seasonalFortune: A season for long soaks and patient simmers. The epazote goes in when the epazote goes in; the pot keeps a quieter clock than the cook.

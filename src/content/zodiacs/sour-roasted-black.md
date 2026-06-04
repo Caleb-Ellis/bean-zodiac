@@ -7,7 +7,7 @@ trait: earnest
 dish: Sopa de frijol negro con tomatillo asado - black bean soup with roasted tomatillos and lime crema
 quote: The importance of being bean.
 creature: spaniel
-friendlyBeans: [adzuki, navy]
+friendlyBeans: [butter, adzuki]
 antiBeans: [edamame, green]
 friendlyForm: boiled
 antiForm: fried

@@ -7,10 +7,10 @@ trait: agreeable
 dish: Chana dal halwa — split chickpeas boiled down with ghee and sugar into a dense, golden sweet.
 quote: Piglet noticed that even though he had a very small bean, it could hold a rather large amount of gratitude.
 creature: lamb
-friendlyBeans: [adzuki, butter]
+friendlyBeans: [butter, adzuki]
 antiBeans: [edamame, black]
 friendlyForm: roasted
-antiForm: smoked
+antiForm: fried
 seasonalFortune: A long simmer over low heat; ghee loosens what was hard, sugar gilds what was plain. The year asks for softening, and softening is given freely, often before the asking.
 fortuneMost: You take whatever shape the night needs and call it ease — and the night is smoother for it.
 fortuneMost2: The easy yes at the end of the long thread is you, and you mean it every time.
@@ -32,12 +32,12 @@ facetLowTitle: The Receipt Kept Out
 facetLow: There's a charge on the mechanic's bill for a part you're fairly sure was never fitted. You stay at the counter, pleasant but unmoved, until someone walks you through the line.
 facetLeastTitle: The Room as Arranged
 facetLeast: A houseguest keeps rearranging your kitchen to suit themselves. Put the pans back where they live and say, plainly, that this is how you like it — guest or no guest.
-question: The film you didn't really want to see is now playing on three screens and your friends are picking the time. You...
-answerMost: pick the time that suits everyone else and sound pleased about it
-answerHigh: go along with the consensus, easy enough
-answerMid: mention you're flexible but the later one would be better for you
-answerLow: say honestly you weren't keen and suggest a different film
-answerLeast: bow out — you didn't want to see it anyway
+question: You pick up the boots you left for resoling and the cobbler's used the wrong leather entirely — close, but not what you agreed. He hands them over, pleased. You...
+answerMost: thank him, pay up, and decide you'll just live with it
+answerHigh: mention it lightly, and let it drop the second he frowns
+answerMid: ask why it changed before you decide whether to push
+answerLow: point to what you asked for and ask him to put it right
+answerLeast: refuse the boots until they're redone the way you agreed
 rorschachMost: a figure with both arms thrown open wide
 rorschachHigh: two birds leaning in to touch beaks
 rorschachMid: two clouds stacked above a low ridge

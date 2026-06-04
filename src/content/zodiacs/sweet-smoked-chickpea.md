@@ -7,10 +7,10 @@ trait: beguiling
 dish: Smoked chickpea and sweet potato tagine with honey, preserved lemon, and ras el hanout.
 quote: Come bean with me and be my love.
 creature: siren
-friendlyBeans: [fava, mung]
-antiBeans: [edamame, navy]
-friendlyForm: fermented
-antiForm: boiled
+friendlyBeans: [black, fava]
+antiBeans: [edamame, adzuki]
+friendlyForm: roasted
+antiForm: dried
 seasonalFortune: Smoke drifts across the yard before the fire is found; the season tends to arrive in noses and ears before anyone agrees it has started.
 fortuneMost: You'll arrive the way smoke does — felt across the yard before anyone finds the fire.
 fortuneMost2: Drop your voice in the loudest room and the room will lean toward you.
@@ -32,12 +32,12 @@ facetLowTitle: Preserved Lemon, in Plain Segments
 facetLow: You'd love a lift home from the gathering. You catch the driver's eye and just say so, straight out, no charm laid under it.
 facetLeastTitle: Coals Raked Flat
 facetLeast: Someone hesitant needs a clear yes or no from you. You give the flat answer with no warmth wrapped around it to ease the landing.
-question: You want a small favour from someone you don't know well. You...
-answerMost: drop by, talk about something else for ten minutes, and let the ask surface itself
-answerHigh: open with the warm thing first, then mention the favour like an afterthought
-answerMid: ease into it — small talk, then the ask, then thanks
-answerLow: say what you need and why, no preamble
-answerLeast: lead with "I need a favour" and the exact terms
+question: The club's at capacity and the bouncer's turning people away, but you've set your heart on getting in. You...
+answerMost: catch their eye, start a warm easy chat, and drift through the rope without ever asking
+answerHigh: compliment them, find the shared joke, then float the ask like a small thing
+answerMid: explain who you're meeting and ask nicely if there's any way
+answerLow: state your case plainly and accept whatever they say
+answerLeast: ask flat-out if you're getting in or not, and move on if not
 rorschachMost: a snake rising from a basket, hood half-spread
 rorschachHigh: a hand with fingers curling to beckon
 rorschachMid: a low range of hills along the skyline

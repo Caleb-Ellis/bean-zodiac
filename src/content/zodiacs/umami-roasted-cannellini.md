@@ -7,8 +7,8 @@ trait: confiding
 dish: Fagioli al forno - roasted cannellini with parmesan, sage, and garlic.
 quote: Come in, come in. The bean is always on and I have been meaning to tell you something.
 creature: dove
-friendlyBeans: [pinto, chickpea]
-antiBeans: [fava, green]
+friendlyBeans: [adzuki, pinto]
+antiBeans: [kidney, fava]
 friendlyForm: fried
 antiForm: fermented
 seasonalFortune: Garlic softens in a slow oven; the season unlatches by degrees, and what was kept warm finds its right ear before the heat is gone.
@@ -32,12 +32,12 @@ facetLowTitle: The Shape Under the Crust
 facetLow: A nosy seatmate keeps fishing about your home life on the long coach ride. Give the short, pleasant version and keep the real thing folded up for someone who's earned it.
 facetLeastTitle: Embers Slow to Give
 facetLeast: A stranger across the campfire asks the big, searching question of the night. You turn it back on them with a warm smile and never quite answer it yourself.
-question: You're at a small dinner and the conversation lands, by accident, on the exact thing you've been carrying for a month. You...
-answerMost: tell the whole table — this is the moment, these are the people
-answerHigh: tell the one person you trust, quietly, after the plates go
-answerMid: mention a piece of it, see how the room responds
-answerLow: deflect with a related but lighter version
-answerLeast: say nothing and feel the secret get a little heavier
+question: Halfway through the haircut the barber catches your eye in the mirror and asks, easily, how you've really been. You...
+answerMost: tell him the whole of it, the thing you've told no one
+answerHigh: let one true sentence out and watch how it lands in the glass
+answerMid: give him the edge of it, dressed lighter than it is
+answerLow: turn it into a small complaint about work
+answerLeast: say "can't complain" and let the clippers fill the quiet
 rorschachMost: an oak in full leaf dropping its acorns down
 rorschachHigh: a dandelion letting its seeds go on the wind
 rorschachMid: a broad tree with roots spreading underground

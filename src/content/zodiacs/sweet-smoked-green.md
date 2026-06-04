@@ -9,8 +9,8 @@ quote: A thing of bean is a joy forever.
 creature: scarab
 friendlyBeans: [kidney, pinto]
 antiBeans: [butter, mung]
-friendlyForm: fermented
-antiForm: dried
+friendlyForm: fried
+antiForm: boiled
 seasonalFortune: Slow smoke threads the pot until the green turns half-amber. The hours pass at the pace of a rendering hock, sweetness gathering by degrees.
 fortuneMost: You'll be a different person at every table and true at all of them.
 fortuneMost2: Two friends will compare notes on you and half-doubt they mean the same person.

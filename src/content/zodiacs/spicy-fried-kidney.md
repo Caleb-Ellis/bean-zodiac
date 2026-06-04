@@ -8,9 +8,9 @@ dish: Kottu roti with kidney beans - Sri Lankan stir-fried roti with chili and c
 quote: Any bean can be angry — that is easy. But to be angry with the right person, to the right degree, at the right time, for the right purpose — that is not easy.
 creature: frisian
 friendlyBeans: [green, chickpea]
-antiBeans: [butter, black]
+antiBeans: [navy, butter]
 friendlyForm: smoked
-antiForm: dried
+antiForm: boiled
 seasonalFortune: A season ruled by the griddle's clatter. Roti gets chopped under a hot blade, chili meets oil, and the kitchen runs on quick weather — bright, loud, gone.
 fortuneMost: You say the thing nobody else will, in the moment it's actually true.
 fortuneMost2: The heat that rises in you is real weather — bright, loud, gone.
@@ -32,12 +32,12 @@ facetLowTitle: Roti Under the Cloth
 facetLow: A remark from a friend lands like a barb and your hackles go up. You let it ride a day, and by then the edge has gone out of it.
 facetLeastTitle: Coriander on the Sill
 facetLeast: You can feel a gathering about to tip into a quarrel. You bank your own heat first, say less than you want to, and let the squall blow past.
-question: An email arrives that's plainly unfair, and copies four other people in. You...
-answerMost: reply-all within the minute, while it still smokes
-answerHigh: write the hot reply, then send the slightly cooler one
-answerMid: draft something sharp and sit on it for an hour
-answerLow: wait until morning; ask the sender for a call instead
-answerLeast: let it go; the sender will hear themselves eventually
+question: The fire won't catch — wet wood, dead matches, cold creeping in, the tenth try gone out. You...
+answerMost: hurl the matchbox into the trees and swear at the sky
+answerHigh: feel it boil over and slam the kindling down
+answerMid: mutter, shake it off, strike the next match
+answerLow: sit back, breathe, try a drier piece
+answerLeast: shrug at the cold and eat the food unheated
 rorschachMost: a snarling horned mask baring its teeth
 rorschachHigh: a longhorn tossing its head over a cornered cat
 rorschachMid: a wide bowl above a clenched bundle of cloth

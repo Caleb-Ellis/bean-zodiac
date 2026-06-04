@@ -7,8 +7,8 @@ trait: unflinching
 dish: Boston baked beans - navy beans slow-baked with cayenne and dry mustard.
 quote: In matters of principle, stand like a bean.
 creature: grey wolf
-friendlyBeans: [butter, cannellini]
-antiBeans: [pinto, green]
+friendlyBeans: [butter, black]
+antiBeans: [chickpea, pinto]
 friendlyForm: boiled
 antiForm: fermented
 seasonalFortune: A season for slow ovens and small white beans that do not surrender. The cayenne settles on the skin; the shape beneath it stays its own through every hour of heat.
@@ -32,12 +32,12 @@ facetLowTitle: Pepper Before the Lid
 facetLow: Partway up the mountain, the guide reads the sky and calls the route. Your heart was set on the summit; still, you turn back with her and don't make her win it.
 facetLeastTitle: The Loosened Skin
 facetLeast: It turns out the rule you've kept for years was never load-bearing — just habit, someone shows you. You let it go where you stand and help redraw the plan around the gap.
-question: Halfway through a project, new information makes your original call look weaker than it did at the start. Two colleagues nudge you to revise. You...
-answerMost: hold the line; the new information doesn't change the principle
-answerHigh: restate the original reasoning more clearly and stay the course
-answerMid: take a day, reread it, and decide privately
-answerLow: invite them to walk you through what they'd change
-answerLeast: agree on the spot and rewrite the plan over coffee
+question: You talked the team into the bolder plan and it's set to go. An hour before you present it, you can feel the others quietly wishing they'd gone with the safe version. You...
+answerMost: go ahead as planned; you judged it right and one round of cold feet changes nothing
+answerHigh: walk them through the reasoning again and make the case for holding the line
+answerMid: sit with it the last hour before deciding to change anything
+answerLow: ask what they'd rather do and weigh it
+answerLeast: switch to the safe version the second someone frowns
 rorschachMost: an anchor dug deep below spread chains
 rorschachHigh: a spiked burr held fast under wide wings
 rorschachMid: a winged crest above a spiky round base

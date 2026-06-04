@@ -8,7 +8,7 @@ dish: Chaat - roasted chickpeas with bitter lime and green chutney.
 quote: You catch more beans with honey.
 creature: golden retriever
 friendlyBeans: [adzuki, pinto]
-antiBeans: [black, navy]
+antiBeans: [black, edamame]
 friendlyForm: fried
 antiForm: dried
 seasonalFortune: A season of crackled skins and shared lime. The bitter rind softens against company; the chaat-eater of this kind moves toward the loudest table and finds the bowl already half-eaten.
@@ -32,12 +32,12 @@ facetLowTitle: The Cooling Chickpea
 facetLow: Where the trail forks, take the empty ridge over the busy lookout and let the chatter fall away behind you.
 facetLeastTitle: The Kitchen Settling Quiet
 facetLeast: A whole evening with no one to answer to opens up, and you meet it like a room you've been wanting, not a gap to plug.
-question: A party tonight, a quiet evening in, both options open. The group chat is lighting up. You...
-answerMost: arrive first and offer to help set up
-answerHigh: head over once it's properly going
-answerMid: drop in for an hour and see how you feel
-answerLow: reply that you might come and don't
-answerLeast: silence the chat and run a bath
+question: Alone in a strange city, you find the hotel bar half-full of other travellers nursing drinks. You...
+answerMost: take the empty stool in the thick of them and have the room talking within the hour
+answerHigh: fall into chat with whoever's next to you and let it grow from there
+answerMid: order at the bar, linger a while, see if anything strikes up
+answerLow: take a corner table with your book and keep to yourself
+answerLeast: grab a drink for the room upstairs and shut the door
 rorschachMost: two dancers whirling, arms flung wide open
 rorschachHigh: a person waving toward a friend approaching
 rorschachMid: a boulder beside a loose tangle of vines

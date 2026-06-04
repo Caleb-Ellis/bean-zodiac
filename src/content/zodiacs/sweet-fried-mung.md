@@ -7,10 +7,10 @@ trait: impractical
 dish: Onde-onde — Indonesian fried rice flour balls filled with sweet mung bean paste, rolled in fresh grated coconut.
 quote: Heart in the right place, bean in the wrong pot!
 creature: dodo
-friendlyBeans: [cannellini, fava]
-antiBeans: [edamame, navy]
-friendlyForm: smoked
-antiForm: fermented
+friendlyBeans: [fava, chickpea]
+antiBeans: [cannellini, edamame]
+friendlyForm: fermented
+antiForm: dried
 seasonalFortune: A season for soft centres inside crisp shells; sweetness travels faster than any plan to carry it.
 fortuneMost: Flowers for no reason, carried clear across town, handed off with a straight-faced denial that it's an occasion.
 fortuneMost2: Sweetness travels faster than any plan to carry it — so you'll hear the bad news late and turn up regardless, wrong soup in hand.
@@ -32,12 +32,12 @@ facetLowTitle: The Filling Weighed First
 facetLow: A friend's overwhelmed and your instinct is to organize a whole care package. Instead you stop and ask the boring question — what do you actually need right now — and do just that.
 facetLeastTitle: Oil Waiting for the Ball
 facetLeast: An old friend's birthday lands and the elaborate scavenger hunt is forming in your head. You set it down and book the plain dinner they'd genuinely rather have.
-question: A friend mentions they've had a rough week. You...
-answerMost: show up at their door with flowers, soup, and a cake by evening
-answerHigh: drop off something thoughtful you made yourself
-answerMid: send a long message and ask if they want company
-answerLow: ask what would actually help and do that thing
-answerLeast: text once to say you're around, then leave them to it
+question: A small unexpected sum lands in your account — a refund you'd written off — and it's payday besides. You...
+answerMost: spend it all by Friday on a wild gift for someone who'd never expect it
+answerHigh: blow it on the beautiful useless thing you've been circling for months
+answerMid: treat yourself to something nice and let the rest drift into the account
+answerLow: split it — a little fun, the rest toward the bill you've been dodging
+answerLeast: move every penny straight to savings before you can feel it
 rorschachMost: two ducklings nose to nose over spilled feed
 rorschachHigh: two sparrows leaning in, beaks almost touching
 rorschachMid: a walnut cracked open into two halves

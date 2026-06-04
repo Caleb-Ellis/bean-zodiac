@@ -7,9 +7,9 @@ trait: protective
 dish: Hotteok with red bean — Korean street pancakes fried until blistered, filled with sweetened kidney bean paste and brown sugar.
 quote: We must protect the beans at all cost!
 creature: rottweiler
-friendlyBeans: [mung, fava]
-antiBeans: [pinto, adzuki]
-friendlyForm: boiled
+friendlyBeans: [mung, green]
+antiBeans: [pinto, black]
+friendlyForm: roasted
 antiForm: dried
 seasonalFortune: A season for blistered surfaces and sweet interiors; what the pan darkens, it also seals, and the soft hearts inside go unbothered by the fire.
 fortuneMost: Offer the lift before they ask, time already picked.
@@ -32,12 +32,12 @@ facetLowTitle: Filling Left Uncovered
 facetLow: A friend's venting about a rough stretch and your fixes are right at your lips. You hold them, and just ask what they actually want from you before saying a thing.
 facetLeastTitle: Sugar on the Bare Griddle
 facetLeast: Someone you'd normally cover for waves you off, says they've got this one. You take your hand off it, swallow the worry, and let them carry it themselves.
-question: A friend tells you about a difficult conversation they have to have at work tomorrow. You...
-answerMost: offer to call their boss yourself and clear the air
-answerHigh: rehearse the conversation with them tonight
-answerMid: ask what kind of support they want and follow their lead
-answerLow: listen and let them figure out how they want to play it
-answerLeast: trust they've got it and ask how it went after
+question: Your kid wants to walk to school alone for the first time, the route crossing one busy road. You...
+answerMost: trail a block behind where they can't see you
+answerHigh: walk them to the corner and watch till they're across
+answerMid: send them off but make them text from the gate
+answerLow: wave them out the door, nerves and all
+answerLeast: let them go and trust they'll be fine
 rorschachMost: a snail drawn in, horns raised to test the air
 rorschachHigh: a hare hunched low, both ears stood up tall
 rorschachMid: a beetle with two long feelers reaching up

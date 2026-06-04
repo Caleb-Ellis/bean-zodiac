@@ -7,10 +7,10 @@ trait: luminous
 dish: Zenzai - sweet adzuki bean soup with smoked brown sugar syrup and toasted mochi.
 quote: We are all in the bean, but some of us are looking at the stars.
 creature: anglerfish
-friendlyBeans: [pinto, cannellini]
-antiBeans: [kidney, edamame]
+friendlyBeans: [cannellini, pinto]
+antiBeans: [edamame, kidney]
 friendlyForm: roasted
-antiForm: roasted
+antiForm: fried
 seasonalFortune: A life lived in the smoke-sweetness of late evening — brown sugar darkening over coals, mochi blistering, the room leaning toward whoever last spoke.
 fortuneMost: Strangers will warm their hands at you and go home glowing without knowing why.
 fortuneMost2: You arrive late and the evening rearranges itself around you mid-sentence, coats still on.

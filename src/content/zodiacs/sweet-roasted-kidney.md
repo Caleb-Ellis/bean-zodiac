@@ -7,8 +7,8 @@ trait: overprotective
 dish: Kidney bean and dark chocolate roasted clusters — red beans bound in dark chocolate and coconut sugar, roasted into crunchy mounds.
 quote: The bean loved too well, that is the trouble.
 creature: goose
-friendlyBeans: [adzuki, cannellini]
-antiBeans: [edamame, pinto]
+friendlyBeans: [mung, fava]
+antiBeans: [edamame, adzuki]
 friendlyForm: smoked
 antiForm: fermented
 seasonalFortune: A season spent under the chocolate's dark shell — warmth held in close, the household pulled a half-step nearer the oven than anyone asked.
@@ -32,12 +32,12 @@ facetLowTitle: Beans Loose From the Mound
 facetLow: Your friend wades out past the buoys with a strong, easy stroke. You make yourself stay on the towel and not call them back.
 facetLeastTitle: The Tray Emptied Without Ceremony
 facetLeast: A teenager you mind heads off into the festival crowd alone. You wave, turn back to your own afternoon, and don't watch where they go.
-question: Your adult sibling is taking their first solo trip somewhere you've never been and slightly worry about. They've left for the airport. You...
-answerMost: send a numbered list of safety tips and ask them to text at each leg of the trip
-answerHigh: drop a warm "land safe, message when you can" and a screenshot of the weather there
-answerMid: send one cheerful text and trust they'll check in if they want to
-answerLow: wait until they message first, then reply briefly
-answerLeast: don't message; they'd say if anything was wrong
+question: Your kid brother, barely out of school, is loading a bike for a solo ride across the country, grinning, helmet swinging off the bars. You...
+answerMost: quietly redraw the route, book his stops, and try to ride the first leg with him
+answerHigh: press hard for him to at least skip the mountain passes alone
+answerMid: ask him to text you each night he stops
+answerLow: say the worry once, then wave him off
+answerLeast: trust he knows what he's doing and just wish him luck
 rorschachMost: a hen hunched low over a hidden clutch
 rorschachHigh: arms folded tight around a wrapped bundle
 rorschachMid: a cabbage with its outer leaves closed

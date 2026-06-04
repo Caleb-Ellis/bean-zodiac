@@ -7,8 +7,8 @@ trait: quiet
 dish: Vietnamese mung bean soup with pork and dried shrimp.
 quote: Silence is a bean's wisdom.
 creature: dormouse
-friendlyBeans: [butter, cannellini]
-antiBeans: [green, edamame]
+friendlyBeans: [butter, adzuki]
+antiBeans: [green, kidney]
 friendlyForm: smoked
 antiForm: fried
 seasonalFortune: Days pass at the pace of a long simmer; the shrimp give up their salt without fanfare, and rooms grow heavier with what no one bothered to say.
@@ -32,12 +32,12 @@ facetLowTitle: The Clattering Ladle
 facetLow: A friend you trust is on the next stool and your day has things in it worth telling. Out loud goes the small grievance, the odd dog you passed, the rain — even the noise of it.
 facetLeastTitle: Shells in Hot Oil
 facetLeast: A lull opens in the chatter and your skin prickles to plug it. You jump in, finishing a half-formed thought of someone else's before they can.
-question: A meeting turns to you for the take you've been quietly forming for the last twenty minutes. You...
-answerMost: hold the pause, then offer the one sentence that names the thing
-answerHigh: speak briefly, leave the floor open, and let the room continue
-answerMid: give a measured version, well-edited on the way out of your mouth
-answerLow: jump in with the rough thought before the silence stretches
-answerLeast: talk it out loud as you find it, and discover what you think mid-sentence
+question: Final whistle, the team's won the thing at last, and the captain thrusts a hand up for quiet and says you should be the one to mark it. You...
+answerMost: let the noise drop, then land the one sentence that says the whole season
+answerHigh: say a few plain words and pass it round the huddle
+answerMid: give the short line you'd half-shaped on the bench
+answerLow: start before the cheering dies and find it as you go
+answerLeast: roar it all out, looping back, sorting what you mean mid-breath
 rorschachMost: a chess pawn standing still on the board
 rorschachHigh: a corked bottle with a narrow neck
 rorschachMid: a spinning top resting on its point

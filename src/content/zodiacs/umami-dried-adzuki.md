@@ -7,10 +7,10 @@ trait: reverential
 dish: Azuki no nimono - dried adzuki simmered in dashi and soy.
 quote: The bean is in the ritual, not the result.
 creature: sacred ibis
-friendlyBeans: [navy, cannellini]
-antiBeans: [mung, chickpea]
+friendlyBeans: [pinto, chickpea]
+antiBeans: [fava, green]
 friendlyForm: boiled
-antiForm: smoked
+antiForm: fermented
 seasonalFortune: A season for the long simmer, when the dried bean drinks dashi and gives back salt. Households tend toward the small ceremony — a folded cloth, a bowl set down with both hands.
 fortuneMost: You warm the cups no one asked you to warm, and no one will see you do it.
 fortuneMost2: A long simmer is coming — something you'll tend slowly, with both hands.

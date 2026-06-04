@@ -7,10 +7,10 @@ trait: efficient
 dish: Butter bean fritters with preserved lemon aioli - crispy pan-fried butter bean patties with a sharp citrus dipping sauce.
 quote: Give me six hours to chop down a bean and I will spend the first four sharpening the axe.
 creature: worker bee
-friendlyBeans: [navy, adzuki]
-antiBeans: [pinto, mung]
-friendlyForm: boiled
-antiForm: fermented
+friendlyBeans: [cannellini, navy]
+antiBeans: [black, mung]
+friendlyForm: dried
+antiForm: smoked
 seasonalFortune: Days clarify themselves the way hot oil clarifies batter — what belongs crisps, what doesn't lifts away. Little is spent that isn't asked for.
 fortuneMost: Three things matter, in order; the fourth is costume.
 fortuneMost2: Errands fold into one loop and the afternoon comes out tidy.

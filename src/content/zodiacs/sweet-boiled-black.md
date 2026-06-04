@@ -8,8 +8,8 @@ dish: Frijoles de olla con piloncillo — black beans slow-boiled with raw cane 
 quote: Not all those who wander are beans.
 creature: draught horse
 friendlyBeans: [navy, butter]
-antiBeans: [green, pinto]
-friendlyForm: dried
+antiBeans: [chickpea, green]
+friendlyForm: smoked
 antiForm: fried
 seasonalFortune: The piloncillo dissolves while the bean keeps its skin. Around such a person, weather changes and rooms change, and the pot goes on simmering.
 fortuneMost: A decade of silence, and you'll greet them in the same voice — no ledger of the missing years. Tell the one you've quietly kept that you mean to keep them.
@@ -32,12 +32,12 @@ facetLowTitle: Cinnamon Traded Mid-Pot
 facetLow: That standing thing you've shown up to for years has quietly turned into a chore. Skipping it this once — no warning, no guilt — and the week breathes a little.
 facetLeastTitle: The Pot Poured Early
 facetLeast: A job comes up two cities over and everything here would have to be left behind. Say yes by morning, lease and all, the past already a closed door.
-question: A group chat from college has gone quiet for months. You...
-answerMost: send the long message anyway, with the photo from that summer
-answerHigh: drop a line asking how everyone is, no agenda
-answerMid: reply when someone else breaks the silence
-answerLow: scroll up, smile at the old messages, close the app
-answerLeast: mute the chat — it had its time
+question: At the big school reunion the crowd you all once ran with is here, scattered and greyer, everyone hovering and no one quite reaching out. You...
+answerMost: gather them, fix a date, and make sure it actually happens
+answerHigh: go round the room and get each person's number before you leave
+answerMid: say the warm "we should all stay in touch" and mean it loosely
+answerLow: nod to the few you recognise and let the rest pass
+answerLeast: do a lap, pay your dues, and slip out early
 rorschachMost: a heavy bell hung on a fixed rope
 rorschachHigh: two clasped hands above a tethered weight
 rorschachMid: a mushroom cap on a thin stalk

@@ -9,7 +9,7 @@ quote: Now is the bean of our discontent.
 creature: ghost crab
 friendlyBeans: [black, navy]
 antiBeans: [kidney, green]
-friendlyForm: dried
+friendlyForm: boiled
 antiForm: fried
 seasonalFortune: A season for smoke that has lost its fire. The vinegar's sharpness lingers in rooms where the lamp is left low, and the pot sits half-warm on a back burner well past supper.
 fortuneMost: "No, but thanks."
@@ -32,12 +32,12 @@ facetLowTitle: Smoke Lifting Clean
 facetLow: Throw something in before the conversation dies — a question, a small joke, anything that lifts the room a degree. The pull to do it is real.
 facetLeastTitle: The Loud, Bright Kitchen
 facetLeast: Two shirts on the rack — the grey you'd reach for and a loud orange. The orange goes in the basket, and you can already feel it being worn.
-question: A new acquaintance invites you to their birthday drinks on a Thursday. You don't know who else is going, and the venue is across town. You...
-answerMost: leave the message unread until Friday
-answerHigh: send a short "can't, sorry" and put the phone down
-answerMid: say maybe and decide on the night
-answerLow: say yes and bring a card
-answerLeast: say yes and offer to bring a friend
+question: Someone you like has just told a long story to the table, slightly bungled the ending, and glanced around for the room's reaction. The laugh is forming. You...
+answerMost: hold a flat, even face and let your eyes drift to the window
+answerHigh: give a single dry note — "good one" — and reach for your glass
+answerMid: offer a small closed-mouth smile and a nod, nothing past it
+answerLow: laugh properly and say the part you liked back to them
+answerLeast: laugh loud, repeat the line so the next table hears, and toast them on the spot
 rorschachMost: a toad gone grey and bloated under stones
 rorschachHigh: a potato sprouting pale in the cellar
 rorschachMid: a knot of root with stubby ends

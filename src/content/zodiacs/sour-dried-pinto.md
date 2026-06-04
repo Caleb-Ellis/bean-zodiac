@@ -8,9 +8,9 @@ dish: Pinto bean and dried mulato chile stew with lime.
 quote: Art is not what you see, but what you bean others to see.
 creature: lemon shark
 friendlyBeans: [edamame, green]
-antiBeans: [navy, fava]
-friendlyForm: fermented
-antiForm: boiled
+antiBeans: [chickpea, black]
+friendlyForm: smoked
+antiForm: roasted
 seasonalFortune: Lime cuts the long simmer; the mulato keeps its dark edge. A season that thins what was padding and leaves the chile-bitten broth standing where the soft talk used to be.
 fortuneMost: Answer the question actually asked, not the padded one, and watch the cushion fall away from the asker's face.
 fortuneMost2: Strike the adjective from the line you're proudest of. The noun carries it alone.
@@ -32,12 +32,12 @@ facetLowTitle: Low Flame Past Supper
 facetLow: A friend's home cooking is a riot of too many sauces and clashing sides. The urge to suggest restraint rises, and you clean your plate and ask for seconds.
 facetLeastTitle: Lime Aside, Chile Whole
 facetLeast: A nervous performer steps off stage and searches your face for a verdict. The honest notes can wait — you fold them into a hug and tell them it was wonderful.
-question: A friend shows you a poem they've written about their grandmother. It's earnest, and a touch overripe in places. You...
-answerMost: mark the overripe lines and hand it back
-answerHigh: name the strongest image and say nothing about the rest
-answerMid: ask what they were trying to do, listen, then say
-answerLow: tell them it moved you, mention one line you loved
-answerLeast: tell them it's beautiful, ask for a copy
+question: At the farmers' market a grower hands you a slice of the peach they're calling the best of the season. It's fine, not that. You...
+answerMost: tell them it's a touch mealy and where it falls short
+answerHigh: name the one thing it does well and leave the rest
+answerMid: ask how they grew it, taste again, then say
+answerLow: say it's lovely and pick out a real virtue
+answerLeast: rave about it and buy a whole crate
 rorschachMost: a dry seedpod bristling on a stalk
 rorschachHigh: a thistle head over a bare stem
 rorschachMid: an acorn sitting in its spiked cup

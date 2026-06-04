@@ -7,8 +7,8 @@ trait: blunt
 dish: Edamame gyoza with black vinegar dipping sauce - pan-fried edamame dumplings with Zhenjiang vinegar.
 quote: A bean that is used to lying will find that the truth is a very uncomfortable thing.
 creature: ox
-friendlyBeans: [fava, green]
-antiBeans: [black, adzuki]
+friendlyBeans: [green, chickpea]
+antiBeans: [black, mung]
 friendlyForm: dried
 antiForm: fermented
 seasonalFortune: A season for unwrapped verdicts. The vinegar arrives undiluted at table, and the wrappers crisp without ceremony in the oil.
@@ -32,12 +32,12 @@ facetLowTitle: Steam, Folded Back
 facetLow: A nervous cook serves you a dish that's plainly under-seasoned. You praise the crust, mention the salt gently, and leave them standing taller.
 facetLeastTitle: The Extra Hour
 facetLeast: A houseguest's gift is genuinely hideous and they want it hung where everyone sees. Up it goes on the wall, and you find three honest things to love about it.
-question: A friend asks how their new haircut looks. It is, by any reasonable measure, not working. You...
-answerMost: say "it isn't the one" and move on
-answerHigh: say the front is fine, the back isn't
-answerMid: ask what they were going for first, then answer
-answerLow: say it'll settle in a week — which it might
-answerLeast: say it looks great and change the subject
+question: At the bar's last call a stranger you've been talking to jangles their keys and asks if they're okay to drive. They are plainly not. You...
+answerMost: say "you're not driving" flat, and mean it
+answerHigh: tell them straight they're over the line, offer your phone for a cab
+answerMid: ask how far they're going first, then say it
+answerLow: suggest they wait it out with a water — which might help
+answerLeast: say they seem fine and let them find their own coat
 rorschachMost: two bare fists raised an inch apart
 rorschachHigh: two bricks set down side by side
 rorschachMid: two river stones lying near each other

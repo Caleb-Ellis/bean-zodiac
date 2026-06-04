@@ -7,7 +7,7 @@ trait: impenetrable
 dish: Black bean and dried hibiscus soup with lime.
 quote: No bean is an island, entire of itself.
 creature: rhinoceros beetle
-friendlyBeans: [fava, edamame]
+friendlyBeans: [fava, navy]
 antiBeans: [adzuki, chickpea]
 friendlyForm: smoked
 antiForm: roasted
@@ -32,12 +32,12 @@ facetLowTitle: The Long Simmer
 facetLow: The cab driver makes one small opening and you take it, telling a stranger the whole tangle before the ride is half over.
 facetLeastTitle: The Bean and the Broth
 facetLeast: First night in a new town, a stranger at the bar buys a round, and by closing they know your whole history and you don't regret a word.
-question: A stranger on a long train sits opposite and asks, gently, how your year has been. You...
-answerMost: nod once and return to the window
-answerHigh: give the shape of an answer, no details
-answerMid: trade two true sentences for two of theirs
-answerLow: tell them more than you meant to, then change carriages
-answerLeast: hand over the whole year by the next station
+question: New in the village, you've stepped into the local pub, and a friendly regular leans in wanting your whole story — where from, why here, all of it. You...
+answerMost: give your first name, nothing more, and turn back to your pint
+answerHigh: offer the bare shape of it, no details
+answerMid: trade two true facts for two of theirs
+answerLow: tell them more than you meant to, then drink up to leave
+answerLeast: hand over the entire life story before the glass is empty
 rorschachMost: a sealed boulder no crack runs into
 rorschachHigh: a heavy sack cinched tight at the neck
 rorschachMid: a clod of earth with roots trailing up

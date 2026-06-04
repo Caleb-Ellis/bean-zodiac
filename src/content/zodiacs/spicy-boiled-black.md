@@ -7,8 +7,8 @@ trait: gritty
 dish: Sopa de frijoles negros - black bean soup with chipotle and smoked epazote.
 quote: It does not matter how slowly you go as long as you do not bean.
 creature: warthog
-friendlyBeans: [navy, mung]
-antiBeans: [chickpea, adzuki]
+friendlyBeans: [navy, fava]
+antiBeans: [chickpea, pinto]
 friendlyForm: smoked
 antiForm: fermented
 seasonalFortune: A season for the long simmer. Chipotle smoke settles into the rafters and stays; what is started in these months keeps its heat into the next.
@@ -32,12 +32,12 @@ facetLowTitle: The Uncovered Pot
 facetLow: The puzzle's one piece short and you've upended the box twice. Leave the gap, call it close enough, sweep the rest back in.
 facetLeastTitle: The New Bowl
 facetLeast: A book's dragged for a hundred pages with no sign of turning good. You shelve it half-read and reach for a different one.
-question: The charge on your card is wrong by twelve dollars. The hold music has been going for forty minutes. You...
-answerMost: stay on, polite, until someone fixes it — however long that takes
-answerHigh: hold another twenty, then call back tomorrow if it drops
-answerMid: leave the line open on speaker and get on with your day
-answerLow: hang up, decide it's not worth the afternoon
-answerLeast: write it off the second the music starts
+question: You're digging a line of fence posts by hand and the ground's turned to baked clay; you're three holes in, blistered, with nine to go before dark. You...
+answerMost: keep swinging, hole after hole, till the last post stands however long it takes
+answerHigh: push through a few more, then break and finish at first light
+answerMid: do what you can today and pace the rest across the week
+answerLow: knock off early, decide it can wait for softer ground
+answerLeast: down tools the moment the first blister opens
 rorschachMost: a pickaxe biting into a slab of rock
 rorschachHigh: a rusted anchor with two hooked flukes
 rorschachMid: a crow with one ragged wing spread

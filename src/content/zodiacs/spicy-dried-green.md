@@ -7,10 +7,10 @@ trait: electric
 dish: Gan bian sijidou - dry-fried green beans with dried chili and garlic.
 quote: Energy cannot be beaned — it can only be transformed.
 creature: eel
-friendlyBeans: [edamame, kidney]
-antiBeans: [fava, butter]
+friendlyBeans: [kidney, fava]
+antiBeans: [cannellini, fava]
 friendlyForm: fried
-antiForm: fermented
+antiForm: boiled
 seasonalFortune: A dry wok throws sparks before the oil arrives. The season belongs to those who carry their own heat into the room, blistering the skin of the day until the garlic catches.
 fortuneMost: You change the wattage of a place the minute you arrive.
 fortuneMost2: A dry wok throws sparks before the oil ever arrives.
@@ -32,12 +32,12 @@ facetLowTitle: The Wok Between Batches
 facetLow: Across the café a friend is talking through something fragile. The urge is to push the pace; instead you pour it slow and meet their tempo, not your own.
 facetLeastTitle: Steam Off a Covered Pot
 facetLeast: A long, eventless afternoon, and nothing in it to spark against. Let it pass at its own slow pace — no switch worth reaching for.
-question: You walk into a low-key Sunday brunch where everyone's nursing hangovers. You...
-answerMost: arrive loud with a story and three new plans for the afternoon
-answerHigh: pull two people into a sharper conversation in the corner
-answerMid: take a seat, read the room, and turn the volume halfway up
-answerLow: order coffee and match the slow tempo of the table
-answerLeast: stay quiet; let someone else be the weather
+question: The festival's main act is running an hour late and the crowd around you has gone flat and restless in the sun. You...
+answerMost: start a chant going, get a wave rolling, turn the wait into the party
+answerHigh: pull the two nearest into a real conversation
+answerMid: catch a stranger's eye and crack the first joke
+answerLow: put your headphones in and wait it out
+answerLeast: sit on the grass and let the flatness hold
 rorschachMost: two cobras reared up, hoods flared apart
 rorschachHigh: a tuning fork still ringing in the hand
 rorschachMid: a deep-notched crown with two curling prongs

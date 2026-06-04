@@ -7,10 +7,10 @@ trait: subversive
 dish: Spicy fava with doubanjiang and Sichuan pepper.
 quote: The most bean act in a conformist world is to think for yourself.
 creature: mole
-friendlyBeans: [chickpea, mung]
-antiBeans: [navy, cannellini]
-friendlyForm: smoked
-antiForm: boiled
+friendlyBeans: [mung, chickpea]
+antiBeans: [navy, kidney]
+friendlyForm: fried
+antiForm: dried
 seasonalFortune: The season belongs to whatever ripens behind a closed lid. Doubanjiang darkens unwitnessed, Sichuan pepper sharpens its hum, and the household wakes one morning to a pantry rearranged by no hand they remember.
 fortuneMost: Work the back while the front still argues the menu.
 fortuneMost2: When only you can see the move that flips the terms, the quiet is the move.
@@ -32,12 +32,12 @@ facetLowTitle: Fava Loud in the Oil
 facetLow: The quiet workaround would get you there without anyone the wiser. But the meeting's right here, so you raise your hand and put the disagreement on the table where everyone can see it.
 facetLeastTitle: Brine Bright on the Spoon
 facetLeast: You're tempted to set the surprise up quietly and spring it fully formed. Instead you walk people through it from the very first rough sketch, every step in the open.
-question: A decision is being argued in a long thread and going the wrong direction. You can see the move that flips it. You...
-answerMost: make the move quietly and let the thread catch up on Monday
-answerHigh: line up one ally privately and spring it at the next meeting
-answerMid: drop a careful comment that nudges the thread
-answerLow: post your honest disagreement in the thread
-answerLeast: argue it openly until the room agrees or doesn't
+question: The team is locked in a long meeting over which direction to take, and the obvious answer is being talked past. You...
+answerMost: quietly line up the one person who can swing the room, then let them raise it
+answerHigh: drop the deciding point into the chat as an offhand aside and let it land
+answerMid: wait for a gap and put the answer plainly on the table
+answerLow: say your piece once and leave it to the group
+answerLeast: keep quiet and go along with whatever they settle on
 rorschachMost: roots buckling a slab from underneath
 rorschachHigh: a tunnel hollowed inside the hill
 rorschachMid: a craggy island with one offshore rock

@@ -7,9 +7,9 @@ trait: exalted
 dish: Fagioli all'uccelletto - Tuscan cannellini with smoked pancetta, sage, and tomato.
 quote: The bean shall inherit the earth.
 creature: seraph
-friendlyBeans: [black, mung]
+friendlyBeans: [fava, pinto]
 antiBeans: [adzuki, chickpea]
-friendlyForm: dried
+friendlyForm: fermented
 antiForm: roasted
 seasonalFortune: A season of long-cured things. The pale bean holds its shape under slow heat, and what is refined in this quarter keeps best when handled rarely.
 fortuneMost: When you finally say yes, the table sits straighter.

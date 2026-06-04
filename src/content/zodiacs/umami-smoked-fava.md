@@ -7,10 +7,10 @@ trait: primal
 dish: Broad beans with smoked streaky bacon, mint, and pecorino.
 quote: In the beginning, there was bean.
 creature: dire wolf
-friendlyBeans: [kidney, edamame]
-antiBeans: [butter, adzuki]
-friendlyForm: roasted
-antiForm: roasted
+friendlyBeans: [green, chickpea]
+antiBeans: [butter, cannellini]
+friendlyForm: fried
+antiForm: boiled
 seasonalFortune: A season that smells of hickory before sight catches up. Bacon renders slow; the pod splits along a seam older than the cook tending it.
 fortuneMost: Say the thing under the question, not the answer to it. People come to you to be read.
 fortuneMost2: Wake hungry for whatever the night left behind and eat it standing at the window.
@@ -32,12 +32,12 @@ facetLowTitle: Bacon Laid Flat, Edge to Edge
 facetLow: Before the trip's booked you build the spreadsheet — dates, costs, every leg — and let the figures settle it.
 facetLeastTitle: The Shelled and Bagged Bean
 facetLeast: New flat, sofa to place. You measure each wall twice, tape the outline on the floor, and only then carry it in.
-question: A friend asks what you think of the job offer they're considering. You...
-answerMost: tell them what their face already told you walking in
-answerHigh: name the one thing they haven't said out loud yet
-answerMid: ask what their gut says and listen
-answerLow: walk through the pros and cons with them
-answerLeast: pull up a spreadsheet and a comparable salary range
+question: Alone on the path at dusk, you round a bend and a large dog stands stiff-legged across it, hackles up, watching you. You...
+answerMost: go still, drop low, and let your body answer before thought does
+answerHigh: hold your ground and stare it down without a flinch
+answerMid: stop, breathe slow, and read which way it leans
+answerLow: back off carefully, eyes down, giving it room
+answerLeast: freeze, second-guess every move, and wait for it to decide
 rorschachMost: a horned skull torn from a carcass
 rorschachHigh: a clawed paw raised mid-swipe
 rorschachMid: a rough rock with two chipped peaks

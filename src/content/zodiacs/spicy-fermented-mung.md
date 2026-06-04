@@ -7,8 +7,8 @@ trait: compulsive
 dish: Gỏi đậu xanh - Vietnamese mung bean salad with fermented fish sauce and bird's eye chili.
 quote: The chains of bean are too light to be felt until they are too heavy to be broken.
 creature: lemming
-friendlyBeans: [cannellini, fava]
-antiBeans: [edamame, navy]
+friendlyBeans: [kidney, fava]
+antiBeans: [navy, edamame]
 friendlyForm: smoked
 antiForm: fried
 seasonalFortune: A jar left sealed still works in the dark. The season grooves itself into small returns; brine deepens by repetition, and what gets stirred most often sets the tongue.
@@ -32,12 +32,12 @@ facetLowTitle: Herbs Dropped in Whole
 facetLow: The little ritual you'd normally run before leaving the house slipped your mind entirely, and the day went fine without it. You only notice it's gone hours later, and feel oddly light about it.
 facetLeastTitle: The Rind Tossed Without Ceremony
 facetLeast: Whatever it was that used to pull at you on a loop simply doesn't anymore — no tug, no itch, no lap to walk. It rises once, falls, and is gone, and you carry the day loose and unhooked.
-question: You've already checked that one thread three times this hour. The urge to check again has arrived right on time. You...
-answerMost: check it, then check the other two while you're there
-answerHigh: check it once more, briefly, and put the phone down
-answerMid: notice the urge and decide in the moment
-answerLow: leave it for the next break, whenever that lands
-answerLeast: shrug, lock the phone, and forget about it
+question: You're already under the covers, lights off, and the thought arrives that you can't quite remember turning off the stove. You...
+answerMost: get up, check it, check the front door and the taps while you're there
+answerHigh: pad back to the kitchen, lay one hand on the cold dial, return to bed
+answerMid: lie still and weigh whether the certainty's worth the cold floor
+answerLow: tell yourself you'd have noticed gas by now and stay put
+answerLeast: roll over; you turned it off, of course you did
 rorschachMost: a thumb rubbing one hole into dough
 rorschachHigh: a toad hunched over the same burrow
 rorschachMid: a storm cloud swollen low and heavy

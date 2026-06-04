@@ -7,8 +7,8 @@ trait: pointed
 dish: Dried edamame with ponzu and toasted sesame.
 quote: The pen is mightier than the bean.
 creature: stingray
-friendlyBeans: [cannellini, green]
-antiBeans: [chickpea, mung]
+friendlyBeans: [green, fava]
+antiBeans: [adzuki, mung]
 friendlyForm: fried
 antiForm: fermented
 seasonalFortune: Ponzu sharpens in the bowl as the pod dries. A season for short sentences; the citrus does the rest.
@@ -32,12 +32,12 @@ facetLowTitle: Sesame Scattered Loose
 facetLow: Someone asks if they should leave the job they've poured years into. The clean yes-or-no is right there, but you take the slow road and ask what they'd miss.
 facetLeastTitle: Ponzu Wide and Shallow
 facetLeast: No verdict yet on the half-finished thing in front of you — let it sit unjudged, content to wait until it shows what it wants to be.
-question: A colleague's plan has a clear flaw and they've just finished presenting it to a room that's nodding politely. You...
-answerMost: name the flaw, in one sentence, before the nodding stops
-answerHigh: ask the single question that exposes it
-answerMid: wait for the meeting to end and send a short note
-answerLow: bring it up over coffee, as a thought
-answerLeast: let the room have its nod, raise it next week if it still matters
+question: Your brother lays out the franchise he's about to sink his savings into, numbers glowing, and there's a hole in it you can see from here. He's beaming. You...
+answerMost: put a finger on the hole in one sentence before he finishes beaming
+answerHigh: ask the single number that makes the whole thing wobble
+answerMid: sleep on it and send him the worry by text tomorrow
+answerLow: float a soft "have you thought about—" and leave it open
+answerLeast: let him have the night, raise it only if he asks
 rorschachMost: a horned owl fixed on its prey
 rorschachHigh: a beaked head with two raised ears
 rorschachMid: an acorn with its cap still on

@@ -7,10 +7,10 @@ trait: diplomatic
 dish: Cannellini and sake kasu soup — white beans simmered in sweet rice-lees broth with sugar and a curl of yuzu peel.
 quote: Let us never negotiate out of bean. But let us never fear to negotiate.
 creature: ringdove
-friendlyBeans: [pinto, kidney]
-antiBeans: [navy, butter]
-friendlyForm: dried
-antiForm: dried
+friendlyBeans: [mung, chickpea]
+antiBeans: [fava, green]
+friendlyForm: smoked
+antiForm: fried
 seasonalFortune: Kasu sweetens slowly in the crock, edges blurring into broth. The season favours those who let disagreement steep until its sharpness rounds.
 fortuneMost: Introduce the two who'd never have found each other.
 fortuneMost2: A thaw is coming between two people you'd given up on, and it will look like its own weather.
@@ -32,12 +32,12 @@ facetLowTitle: The Bean Held Back
 facetLow: A friend wants the honest verdict on the plan, and the gentle version is already forming. Give them the blunt one instead and don't reach to soften the quiet after.
 facetLeastTitle: The Emptied Bowl
 facetLeast: A favour's being offered with strings you can feel from across the room. Say no in a single clean sentence and let it sit there, unsweetened.
-question: Two friends are quietly furious with each other and both are venting to you separately. They each ask, hopefully, what you think. You...
-answerMost: tell each of them the bit of the other's case that's easiest to hear, and leave it there
-answerHigh: reflect their feelings back carefully and steer them toward sleeping on it
-answerMid: pick the half you agree with and say so
-answerLow: tell them what you actually think and watch them deflate
-answerLeast: tell them both to stop putting you in the middle
+question: Saturday market in full sun, and two stallholders are squaring up over a pitch that's drifted six inches into the wrong patch. Both swing round to you. You...
+answerMost: give each the bit of the other's case they can bear to hear, and step back
+answerHigh: name what they both actually want — a good day's trade — and point them past the line on the ground
+answerMid: side quietly with whoever's plainly in the right
+answerLow: say flatly who's over the line and feel the pitch go cold
+answerLeast: tell them to sort it between themselves and move on down the row
 rorschachMost: two riverbanks joined by a slender footbridge
 rorschachHigh: a narrow strait threading between two shores
 rorschachMid: two clouds drifting one above the other

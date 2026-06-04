@@ -7,9 +7,9 @@ trait: budding
 dish: Leather britches - Appalachian smoked green beans with smoked fatback.
 quote: One bean does not a summer make.
 creature: fawn
-friendlyBeans: [kidney, pinto]
-antiBeans: [butter, fava]
-friendlyForm: fried
+friendlyBeans: [kidney, fava]
+antiBeans: [butter, navy]
+friendlyForm: roasted
 antiForm: boiled
 seasonalFortune: Pods hang on a string above the stove, taking their time; the household holds its plans loosely, knowing the cure outlasts the impatience of any one week.
 fortuneMost: Leave it on the string a while longer.

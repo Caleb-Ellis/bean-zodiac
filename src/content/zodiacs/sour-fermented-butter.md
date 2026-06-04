@@ -7,9 +7,9 @@ trait: minimalist
 dish: Butter bean and labneh with preserved lemon and olive oil.
 quote: Less is bean.
 creature: egret
-friendlyBeans: [adzuki, pinto]
+friendlyBeans: [adzuki, cannellini]
 antiBeans: [kidney, green]
-friendlyForm: smoked
+friendlyForm: dried
 antiForm: fried
 seasonalFortune: Brine narrows the season. What lingers in the jar after months keeps its name; the rest has gone to salt and silence.
 fortuneMost: One bean, white plate, nothing beside it — and the bareness was never lack.

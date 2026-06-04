@@ -7,10 +7,10 @@ trait: sensitive
 dish: Bhuna moong chaat - dry-roasted mung beans with tamarind chutney, red onion, and chaat masala
 quote: Nothing is so strong as bean-ness.
 creature: roe fawn
-friendlyBeans: [butter, cannellini]
-antiBeans: [edamame, green]
+friendlyBeans: [butter, chickpea]
+antiBeans: [edamame, kidney]
 friendlyForm: boiled
-antiForm: dried
+antiForm: fried
 seasonalFortune: A season when tamarind reaches further than expected. The mung's roasted skin catches every change in the room's air, and the bean keeps a record the cook does not.
 fortuneMost: This turn the roasted skin catches every shift in the air and you read it true.
 fortuneMost2: You walk in already knowing who left angry an hour ago.

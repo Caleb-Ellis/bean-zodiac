@@ -7,10 +7,10 @@ trait: dazzling
 dish: Bessara - smoked fava bean dip with smoked paprika, cumin, and honey drizzle.
 quote: All that glitters is not beans.
 creature: hummingbird
-friendlyBeans: [chickpea, kidney]
-antiBeans: [adzuki, cannellini]
+friendlyBeans: [kidney, black]
+antiBeans: [navy, cannellini]
 friendlyForm: fried
-antiForm: boiled
+antiForm: dried
 seasonalFortune: A season that favours the long smoulder over the quick flare. Paprika deepens as it sits; honey thickens in the bowl. What entered loud will be remembered for what it left behind.
 fortuneMost: You'll walk into a dull room and the lights will seem to come on behind you.
 fortuneMost2: A question is rising in you that turns an ordinary dinner into the one people quote for years.
@@ -32,12 +32,12 @@ facetLowTitle: Smoke to the Chimney
 facetLow: They want you up front for the group photo, dead centre. You wave it off and take the spot at the back where the tall ones go.
 facetLeastTitle: The Dip Eaten Cold
 facetLeast: You pull off something genuinely impressive on the trail and tell no one back home. The doing was the whole of it, no audience needed.
-question: You have one outfit to pick for a dinner where you'll know about half the room. You...
-answerMost: pick the loud one, top to bottom, and walk in like the lights came on
-answerHigh: choose the piece you've been waiting for an excuse to wear
-answerMid: dress nicely, one small thing that catches the eye
-answerLow: go with the soft, comfortable thing nobody will comment on
-answerLeast: wear whatever is closest to the door
+question: The wedding band's singer waves the mic toward the crowd and, somehow, the whole floor parts toward you. You...
+answerMost: take it, hit the high note, and own the whole room
+answerHigh: step up and carry the chorus like you'd planned it
+answerMid: sing a line, laugh, and pass it to someone near
+answerLow: shake your head but clap along loudly
+answerLeast: melt back into the crowd and let it find someone else
 rorschachMost: a peacock in full fan, one eye blazing
 rorschachHigh: a gleaming urn with a jewel set in its side
 rorschachMid: an owl perched, one eye catching the light

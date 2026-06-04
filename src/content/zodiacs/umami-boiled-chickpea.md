@@ -7,10 +7,10 @@ trait: adaptable
 dish: Garbanzos con setas - chickpeas and wild mushrooms in sherry-braised broth.
 quote: The measure of intelligence is the bean ability to change.
 creature: octopus
-friendlyBeans: [fava, adzuki]
-antiBeans: [cannellini, edamame]
+friendlyBeans: [fava, mung]
+antiBeans: [edamame, cannellini]
 friendlyForm: smoked
-antiForm: dried
+antiForm: fried
 seasonalFortune: Sherry darkens a pot left long on the stove. The season layers itself onto whoever stays in it; nothing forced, only steeped.
 fortuneMost: Say yes to the invitation you can't picture yet.
 fortuneMost2: A strange place is coming, somewhere you can't read the signs.
@@ -32,12 +32,12 @@ facetLowTitle: The Bean Held Whole
 facetLow: Different people, different rooms, all wanting a slightly different you. Pick the version that's actually yours and hold it, even where a softer shape would land easier.
 facetLeastTitle: The Pot That Refuses
 facetLeast: The whole group is veering toward a plan you don't want, and your foot already feels the pull to follow. You plant it instead and say the opposite out loud.
-question: You've been dropped at a dinner party where you know exactly one person, and they've vanished into the kitchen. You...
-answerMost: ease into the nearest group and pick up their accent by the second drink
-answerHigh: find a conversation and follow its rhythm until you're part of it
-answerMid: introduce yourself once, then take cues from whoever answers
-answerLow: stay near the snacks and reply when spoken to
-answerLeast: hold your ground in your own voice and wait for the room to come to you
+question: First morning on a crew in a trade you've never worked, everyone moving by rules nobody explains. You...
+answerMost: fall in beside the nearest worker and move like you've done it for years by lunch
+answerHigh: watch the rhythm of the floor and slot yourself into it without being told
+answerMid: copy what one person does and ask only when you're stuck
+answerLow: wait to be shown each step before you touch anything
+answerLeast: do the job the way you already know and let them correct you
 rorschachMost: a splash of water frozen mid-spread
 rorschachHigh: a blob of dough slumping over its bowl
 rorschachMid: a loose cloud bunched against the sky

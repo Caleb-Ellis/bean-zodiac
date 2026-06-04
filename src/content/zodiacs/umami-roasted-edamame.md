@@ -7,9 +7,9 @@ trait: attentive
 dish: Roasted edamame with nori salt, sesame, and yuzu zest.
 quote: To pay bean attention, this is our endless and proper work.
 creature: meerkat
-friendlyBeans: [pinto, adzuki]
-antiBeans: [mung, cannellini]
-friendlyForm: fermented
+friendlyBeans: [pinto, chickpea]
+antiBeans: [cannellini, fava]
+friendlyForm: fried
 antiForm: smoked
 seasonalFortune: "A season that hums beneath the husk. Heat works slowly into the pod; nothing finished announces itself, and the small green kernel keeps its own counsel under the salt."
 fortuneMost: Go over it once more before you call it done.
@@ -32,12 +32,12 @@ facetLowTitle: Nori Salt, Wide Board
 facetLow: Somewhere in the walls, a faint scratching, late at night. Let it go — if it matters it'll make itself known again — and go back to sleep.
 facetLeastTitle: Pan Pulled Early
 facetLeast: A museum hall opens onto forty rooms and you've got an hour. You sweep through the lot at a stroll, skim everything, and stop in front of nothing for long.
-question: A friend pauses mid-sentence, the kind of pause that could be the end or the middle. You...
-answerMost: wait through it without moving
-answerHigh: hold the silence and watch their face
-answerMid: let it ride a beat, then make a soft sound to keep them going
-answerLow: fill it with something gentle so they don't have to
-answerLeast: jump in with your own version of the story
+question: Your grandmother stops partway into a memory you've never heard, her eyes somewhere you can't follow. The pause could be the end or the middle. You...
+answerMost: wait through it without moving a muscle
+answerHigh: hold the quiet and keep watching her face
+answerMid: let it ride a beat, then a soft sound to keep her going
+answerLow: gently finish the thought so she doesn't have to reach
+answerLeast: fill the gap with a story of your own
 rorschachMost: a kestrel hanging dead still over one spot
 rorschachHigh: a hen brooding low and close over the nest
 rorschachMid: a raincloud with the first drops falling straight down

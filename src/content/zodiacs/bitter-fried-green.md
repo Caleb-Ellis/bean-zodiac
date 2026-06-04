@@ -7,9 +7,9 @@ trait: excitable
 dish: Tempura - green beans with bitter matcha salt.
 quote: Nothing great in the world was ever achieved without beans!
 creature: squirrel
-friendlyBeans: [kidney, edamame]
-antiBeans: [butter, cannellini]
-friendlyForm: roasted
+friendlyBeans: [pinto, kidney]
+antiBeans: [black, butter]
+friendlyForm: fermented
 antiForm: dried
 seasonalFortune: A season of hot oil and short windows. The batter sets the instant it meets the pan, and the days reward whoever is already standing at the stove.
 fortuneMost: Run at the thing that lit you up.
@@ -32,12 +32,12 @@ facetLowTitle: Salt in Its Dish
 facetLow: Fireworks go up over the harbour and everyone gasps and points. You watch them too, quietly pleased, but you don't reach for your phone or whoop — you just let them happen.
 facetLeastTitle: The Pan, Back Burner
 facetLeast: Breathless, your friend bursts in with the most exciting news of their year. You're glad for them, genuinely — and your pulse doesn't budge, your voice stays level, no spark catches.
-question: A friend mentions a half-baked idea in passing on a Thursday night. You...
-answerMost: text back at 1am with a name, a logo, and a date
-answerHigh: open three tabs and start sketching it in
-answerMid: agree to talk it through over coffee tomorrow
-answerLow: say "fun" and let it pass
-answerLeast: don't bring it up again
+question: Midday in the field, and the whole flock of starlings overhead folds into a single turning shape — a thing that won't last a minute. You...
+answerMost: are already running under it, arms wide, shouting for whoever's near to look up
+answerHigh: drop everything and chase the shape across the grass to keep it overhead
+answerMid: stop where you are and watch it the whole way through
+answerLow: glance up, note it's pretty, keep walking
+answerLeast: don't break stride for a sky doing what skies do
 rorschachMost: a kettle boiling over, lid rattling up
 rorschachHigh: a beetle rearing up on its hind legs
 rorschachMid: a round pot with two side handles

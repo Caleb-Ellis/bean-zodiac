@@ -7,10 +7,10 @@ trait: funny
 dish: Chickpea flour churros — crispy strips of fried besan batter rolled in sugar and dipped in dark chocolate.
 quote: If you want to tell beans the truth, make them laugh, otherwise they'll kill you.
 creature: kookaburra
-friendlyBeans: [kidney, green]
-antiBeans: [black, butter]
+friendlyBeans: [fava, adzuki]
+antiBeans: [black, cannellini]
 friendlyForm: roasted
-antiForm: dried
+antiForm: boiled
 seasonalFortune: A season of batter meeting hot fat — what was heavy goes weightless, the sugar finds the crust before the oil has finished its noise.
 fortuneMost: Name what's wrong with a heavy day in one sentence and watch the grim hush break where you stand.
 fortuneMost2: A week of weightless things ahead, the heavy ones rolled in sugar so the room can swallow them.
@@ -32,12 +32,12 @@ facetLowTitle: The Uncoated Strip
 facetLow: Under all your banter there's a real worry, and someone finally asks if you're actually okay. The bit goes quiet, and you answer them straight with nothing to hide behind.
 facetLeastTitle: Oatmeal at Seven
 facetLeast: A friend is plainly hurting and the easy laugh is right there for the taking. You leave it on the shelf, name the heaviness out loud, and just ask.
-question: A meeting has gone tense and someone has just said something stupid. You...
-answerMost: deliver the perfect line and let the room break
-answerHigh: catch a colleague's eye and crack a half-smile
-answerMid: lighten the wording of your next point a little
-answerLow: keep your face flat and move it along
-answerLeast: name the tension straight and ask what's going on
+question: The leaving party for a colleague everyone loved has gone stiff and awkward, and you know she'd have hated the flatness. You...
+answerMost: tell the one story about her that has the whole room helpless with laughter
+answerHigh: catch a workmate's eye and murmur the line she'd have said herself
+answerMid: warm one small memory just enough to thaw the table
+answerLow: keep it polite and let the stiffness sit as it is
+answerLeast: say plainly how much the place will miss her and leave it there
 rorschachMost: a hedgehog rolled into a bristling ball
 rorschachHigh: a cauliflower head packed with bumpy florets
 rorschachMid: a knobbly potato fresh out of the dirt

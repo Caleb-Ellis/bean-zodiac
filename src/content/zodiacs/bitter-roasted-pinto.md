@@ -7,8 +7,8 @@ trait: self-absorbed
 dish: Frijoles Refritos - with roasted bitter chiles and lard.
 quote: I don't care what you think unless it's about my bean.
 creature: mirror carp
-friendlyBeans: [adzuki, edamame]
-antiBeans: [kidney, navy]
+friendlyBeans: [adzuki, chickpea]
+antiBeans: [navy, kidney]
 friendlyForm: fermented
 antiForm: boiled
 seasonalFortune: Lard renders at its own pace, indifferent to the pan; the bitter chile darkens for no one's benefit but its own. A season spent perfecting a single reflection.
@@ -32,12 +32,12 @@ facetLowTitle: The Chile, the Bean Beneath
 facetLow: Turn the whole room toward the quiet one who keeps getting talked over, and ask the question that makes them the centre of it.
 facetLeastTitle: Chiles Handed Across
 facetLeast: A friend's in a bad way and needs the night to be about them. You give it whole and leave your own week unmentioned at the door.
-question: A friend calls and starts telling you about a hard week at work. You...
-answerMost: cut in with the version of this that happened to you last spring
-answerHigh: nod along and steer it toward a story of your own
-answerMid: listen, then offer something parallel from your week
-answerLow: ask one good question and let them keep going
-answerLeast: stay quiet, ask follow-ups, never mention yourself once
+question: A friend's long post about their divorce lands in your feed, raw and just shared. You start typing a reply. You...
+answerMost: make it about the time your own marriage nearly went the same way
+answerHigh: write a line of sympathy, then pivot to a story of yours
+answerMid: offer something kind with a parallel from your life
+answerLow: ask one real question and leave the space theirs
+answerLeast: keep it wholly about them and never mention yourself once
 rorschachMost: a head and its mirror, locked inward
 rorschachHigh: a cat studying its own reflection close
 rorschachMid: a boulder beside a knotted thornbush

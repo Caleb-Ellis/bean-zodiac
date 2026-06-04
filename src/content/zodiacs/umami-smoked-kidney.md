@@ -7,10 +7,10 @@ trait: seething
 dish: Red beans and rice - Louisiana kidney beans with smoked andouille, celery, and bay leaf.
 quote: Full of sound and bean, signifying everything.
 creature: hornet
-friendlyBeans: [green, mung]
-antiBeans: [pinto, edamame]
-friendlyForm: roasted
-antiForm: dried
+friendlyBeans: [green, edamame]
+antiBeans: [mung, adzuki]
+friendlyForm: fried
+antiForm: roasted
 seasonalFortune: A season for the long simmer; the pot tended for hours carries a low heat under everything its keeper does, and the rooms they pass through hold the scent.
 fortuneMost: The reply that waits until it's four words long arrives sharpened.
 fortuneMost2: When the one who wronged you turns up, four words at the door is all it takes — they'll read it three times and know exactly where they stand.
@@ -32,12 +32,12 @@ facetLowTitle: Quick Steam Off a Fresh Pot
 facetLow: The waiter's short with your table, so you name it to his face, plain and even, and order pudding in the same breath.
 facetLeastTitle: Smoke Through an Open Window
 facetLeast: Someone snaps at you in the checkout line, and by the next aisle it's gone — you couldn't even picture their face now.
-question: Someone cuts you off mid-sentence in a meeting. You...
-answerMost: file it, smile, and remember it next quarter
-answerHigh: let them finish, then circle back two days later in writing
-answerMid: wait for the pause and pick up where you left off
-answerLow: cut back in and finish the thought
-answerLeast: name it in the room and move on
+question: At the holiday table your brother makes the same belittling joke he always does, and the others laugh it off. You...
+answerMost: smile thinly, say nothing, and add it to the long account
+answerHigh: hold your face still and let it harden inside
+answerMid: let the heat rise, then breathe it down and pass the plate
+answerLow: shoot back something edged before you can stop yourself
+answerLeast: call the joke out flatly, right there at the table
 rorschachMost: two thunderheads forced through a narrow neck
 rorschachHigh: a sealed flask bulging at a pinched waist
 rorschachMid: two boulders stacked on a thin join

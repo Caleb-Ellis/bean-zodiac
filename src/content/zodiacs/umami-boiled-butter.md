@@ -7,9 +7,9 @@ trait: sleepy
 dish: Butter bean broth simmered with Parmesan rinds, rosemary, and garlic.
 quote: Let sleeping beans lie.
 creature: three-toed sloth
-friendlyBeans: [navy, mung]
+friendlyBeans: [navy, black]
 antiBeans: [kidney, green]
-friendlyForm: smoked
+friendlyForm: dried
 antiForm: fried
 seasonalFortune: The simmer takes the whole afternoon. Steam thickens the windows, the rind softens by degrees, and the season runs on the rest no one tracked taking.
 fortuneMost: Take the whole afternoon.

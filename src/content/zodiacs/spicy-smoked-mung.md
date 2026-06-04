@@ -7,8 +7,8 @@ trait: invested
 dish: Lap cheong congee - Cantonese rice porridge with mung beans, smoked sausage, and chili oil.
 quote: The course of true bean never did run smooth.
 creature: wolfhound
-friendlyBeans: [cannellini, fava]
-antiBeans: [edamame, kidney]
+friendlyBeans: [cannellini, black]
+antiBeans: [edamame, adzuki]
 friendlyForm: boiled
 antiForm: fried
 seasonalFortune: A season of low coals and long hours. The pot sits at the back of the stove, working without an audience, and the house begins to smell like something that has been thought about for days.
@@ -32,12 +32,12 @@ facetLowTitle: Oil Bright on the Surface
 facetLow: You spend a whole train ride deep in talk with a seatmate, then step off at your stop and let the whole warm hour evaporate behind you, owing nothing.
 facetLeastTitle: Quick Rice, Eaten Standing
 facetLeast: An old friend resurfaces with a long update about their life. You're glad to hear it, glad to wish them well, and feel not the slightest pull to keep the thread going after.
-question: A friend mentions, in passing, that next week is going to be a hard one. You...
-answerMost: clear your calendar and check in every day without being asked
-answerHigh: send a small thoughtful thing on the worst day
-answerMid: text them once mid-week to say you're thinking of them
-answerLow: make a mental note and wait for them to reach out
-answerLeast: hear it, forget it, and ask in a month how things went
+question: A shy friend's band has its first ever gig next Thursday, the back room of a pub, and they mention it like it's nothing they'd expect you at. You...
+answerMost: clear the night, rally a crowd, and be down the front roaring before the first song
+answerHigh: turn up early and again find them the moment they come off
+answerMid: text Thursday morning to say you'll try to make it
+answerLow: note the date and wait to hear how it went
+answerLeast: take them at their word that it's nothing and forget which night it was
 rorschachMost: two birds nestled head to head, beaks curled
 rorschachHigh: two hands curled close around a warmth
 rorschachMid: a beetle with two antennae curling up

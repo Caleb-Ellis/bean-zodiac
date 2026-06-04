@@ -7,10 +7,10 @@ trait: volatile
 dish: Gigantes plaki - Greek baked giant beans with dried Calabrian chili and preserved lemon.
 quote: Still waters bean deep.
 creature: yellowjacket
-friendlyBeans: [edamame, pinto]
-antiBeans: [adzuki, cannellini]
+friendlyBeans: [green, edamame]
+antiBeans: [adzuki, navy]
 friendlyForm: smoked
-antiForm: roasted
+antiForm: boiled
 seasonalFortune: Chili oil pools at the dish's edge; preserved lemon waits in its salt. Life arrives in long flat hours interrupted without warning by a hot, splitting minute.
 fortuneMost: The fourth small thing lands and the whole room is suddenly your weather.
 fortuneMost2: A long flat sky, and then the one hot splitting minute nobody saw stacking up.

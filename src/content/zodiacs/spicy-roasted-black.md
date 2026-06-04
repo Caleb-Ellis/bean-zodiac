@@ -9,7 +9,7 @@ quote: Some beans walk in the rain, others just get wet.
 creature: manta ray
 friendlyBeans: [adzuki, pinto]
 antiBeans: [green, kidney]
-friendlyForm: fermented
+friendlyForm: fried
 antiForm: fried
 seasonalFortune: A season when the adobo deepens by sitting; rooms tilt toward whoever stays longest at the pot, and the chipotle does the convincing.
 fortuneMost: The circle is already forming around wherever you lean. Take the floor; you meant to host all along.
@@ -32,12 +32,12 @@ facetLowTitle: Beans Cooling Apart
 facetLow: The kind of night people would kill to be at, and an invitation to it — which you'd just as soon let pass, unmissed.
 facetLeastTitle: Heat Past the Threshold
 facetLeast: A whole weekend, and nobody expecting a thing of you. No calls to return, nobody to charm. That's the relief, not the lack.
-question: You're at a friend's housewarming where you know maybe two people. By the second drink there's a loose circle around you near the kitchen. You...
-answerMost: hold the floor, steer the topic, and decide where everyone goes next
-answerHigh: ask the one quiet person the question that opens them up
-answerMid: enjoy the warmth, refill your glass, let the talk go where it goes
-answerLow: drift to the balcony for air and end up alone
-answerLeast: thank the host, slip out, and walk home the long way
+question: A hostel common room full of strangers from six countries, someone's guitar going, and the table is somehow tilting toward you. You...
+answerMost: take the room, set the plan, and lead the whole crowd out into the night
+answerHigh: draw out the quiet traveller in the corner with the right question
+answerMid: enjoy the warmth, take the guitar for a song, let it drift
+answerLow: ease out to the terrace for air and end up alone with the dark
+answerLeast: say goodnight early and climb to the bunk while it's still loud
 rorschachMost: a whirlpool drawing loose threads into its center
 rorschachHigh: a cat curled tight with its tail wound in
 rorschachMid: a root clump with thin fibers trailing off

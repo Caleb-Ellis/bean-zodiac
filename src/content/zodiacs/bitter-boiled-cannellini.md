@@ -32,12 +32,12 @@ facetLowTitle: The Rind, the Stem, the Leaf
 facetLow: Everyone's talking over everyone, six recommendations at once, none of them filtered. Let the whole loud bowl wash in. Take it all, sieve nothing.
 facetLeastTitle: The Unstrained Bowl
 facetLeast: Someone's left a box of cast-offs free on the kerb — chipped jug, odd spoon, a battered lampshade. You scoop up the lot, fond of every piece, never once asking whether it earned the keeping.
-question: A friend hands you a book they loved and asks you to read it. The first chapter is not good. You...
-answerMost: hand it back and say it isn't for you
-answerHigh: read another chapter, then put it down for good
-answerMid: skim to the middle and call it read
-answerLow: push through to the end out of politeness
-answerLeast: love it on their behalf and quote it back
+question: Alone on a hillside in mushroom season, basket out, a cluster you half-recognize at your feet. You...
+answerMost: leave all but the one you can name to the spore
+answerHigh: take only the few you'd stake a meal on
+answerMid: pocket the sure ones, photograph the rest to check
+answerLow: gather the lot and sort it at home
+answerLeast: fill the basket and fry up whatever's in it
 rorschachMost: two stones, one cast aside from the other
 rorschachHigh: a walnut cracked, the shrivelled half pushed away
 rorschachMid: two rounded pebbles resting near each other

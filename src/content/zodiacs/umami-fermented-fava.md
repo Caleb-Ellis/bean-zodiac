@@ -32,12 +32,12 @@ facetLowTitle: Brine at the Line
 facetLow: Tick the box on the nosy form, hand it back, don't make a thing of it — this once, the question isn't worth a stand.
 facetLeastTitle: Skins in the Broth
 facetLeast: New rule at the club, everyone grumbling. You shrug and go along; it isn't the fight to pick.
-question: The team has just agreed on a plan you privately think is wrong. You...
-answerMost: nod, then quietly do it the other way
-answerHigh: ask one inconvenient question
-answerMid: register the concern, follow the plan
-answerLow: go along — it's not the hill
-answerLeast: relax, the group decided
+question: The old master at the workshop tells you, again, that the craft is done his one true way and no other, and hands you the same drill he was handed. You...
+answerMost: set the drill down and tell him plainly you'll do it your own way
+answerHigh: name the method you actually believe in and let it land
+answerMid: push back on one step and follow the rest for now
+answerLow: nod along and quietly plan to break from it later
+answerLeast: take the drill, do it his way, and feel your own ideas shelved
 rorschachMost: a snowman with its head shoved off askew
 rorschachHigh: a totem pole with one face knocked off-center
 rorschachMid: two crates balanced one atop the other

@@ -7,10 +7,10 @@ trait: unsparing
 dish: New Orleans red beans and rice with smoked andouille, pickled okra, and hot sauce
 quote: Some like it bean.
 creature: tiger shark
-friendlyBeans: [edamame, green]
-antiBeans: [mung, pinto]
-friendlyForm: fermented
-antiForm: roasted
+friendlyBeans: [green, edamame]
+antiBeans: [pinto, chickpea]
+friendlyForm: fried
+antiForm: boiled
 seasonalFortune: A season for smoke that lingers in the weave of a coat. Andouille hangs in the doorway; the brine jar ticks on the counter. Houses where nothing is hedged.
 fortuneMost: End the standing dinner you both dread.
 fortuneMost2: The gift you don't like goes back, the reason said plainly.
@@ -32,12 +32,12 @@ facetLowTitle: Hot Sauce Off the Table
 facetLow: The honest verdict on their idea is sitting hot and ready to go. You take the long walk home first and look for the way in that won't leave a chill.
 facetLeastTitle: Smoke Out the Window
 facetLeast: Bad news has to reach someone who's already had a brutal week. Rather than say it straight, you soften every edge until it lands like a cushion.
-question: A close friend has just shown you something they made — a story, a song, a small business plan — and asked what you really think. It's not good. You...
-answerMost: tell them it doesn't work and why
-answerHigh: name the one thing that's broken and stop
-answerMid: praise the strongest part and mention the weakest
-answerLow: praise it, then float the note as a question
-answerLeast: tell them it's great and order another round
+question: Alone at 3am, the project failed and you finally ask yourself how much of it was your own doing. You...
+answerMost: name every fault you own and don't flinch from one
+answerHigh: own the real share of it, clear-eyed
+answerMid: weigh your part against the bad luck honestly
+answerLow: admit a little, then reach for the reasons it wasn't you
+answerLeast: decide it was circumstance and let yourself off
 rorschachMost: a stripped carcass hung head down to bleed
 rorschachHigh: a wrestler crouched, braced to drive in
 rorschachMid: a mushroom, cap above a split stem

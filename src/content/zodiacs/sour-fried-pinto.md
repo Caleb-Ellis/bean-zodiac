@@ -7,10 +7,10 @@ trait: manipulative
 dish: Chalupas poblanas - fried masa boats piled with pinto beans, pickled onion, and lime crema.
 quote: It is better to be feared than loved, if you cannot bean both.
 creature: cuckoo
-friendlyBeans: [adzuki, chickpea]
-antiBeans: [black, kidney]
+friendlyBeans: [adzuki, edamame]
+antiBeans: [mung, fava]
 friendlyForm: fermented
-antiForm: dried
+antiForm: boiled
 seasonalFortune: A season when seasoning reads as kindness; the lime brightens, the onion lingers, and pinto sweetness arrives only after the tongue has been steered.
 fortuneMost: Seat the right two beside each other and step back; the introduction does the rest.
 fortuneMost2: You already know which two belong together, and why, the way you know which onion to pickle for which plate.
@@ -32,12 +32,12 @@ facetLowTitle: Beans, No Architecture
 facetLow: You want a neighbour to swap shifts with you. Instead of laying groundwork, you knock on the door and just ask them outright.
 facetLeastTitle: Char, Lime, Salt
 facetLeast: A market trader, you set one honest price on the sign and never read the buyer to nudge it. Take it or leave it, the number's the number.
-question: You want a friend to come to a thing on Saturday they'd probably say no to. You...
-answerMost: mention it casually next to a thing you know they want, and let them connect it
-answerHigh: frame the invitation around the part you know they'll like
-answerMid: ask, but pick the moment after they've had coffee
-answerLow: ask plainly and accept whichever answer comes
-answerLeast: ask plainly, mention you'll be disappointed if they don't, and stop there
+question: You need the used-car dealer to come down a few hundred on the price. You...
+answerMost: admire a flaw out loud and let them lower it themselves
+answerHigh: anchor the talk on the dent you know they'll bend over
+answerMid: name a number, but wait until they've warmed up
+answerLow: state your top figure and take whatever they say
+answerLeast: offer the asking price and mention you'll be gutted if it sells first
 rorschachMost: two figures and a coin slid between them
 rorschachHigh: two players with one game piece set in play
 rorschachMid: two islands with a small buoy floating between

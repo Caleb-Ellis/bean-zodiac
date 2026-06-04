@@ -8,7 +8,7 @@ dish: Kongjorim - black soybeans slow-braised in soy, ginger, and sesame.
 quote: Patience is bitter, but its bean is sweet.
 creature: grey crane
 friendlyBeans: [navy, butter]
-antiBeans: [chickpea, green]
+antiBeans: [chickpea, pinto]
 friendlyForm: dried
 antiForm: roasted
 seasonalFortune: Months of low fire darken what was hard and dull. The season belongs to those who can stand by a long braise without lifting the lid.
@@ -32,12 +32,12 @@ facetLowTitle: Three Minutes, Then Taste
 facetLow: The kettle's barely ticking and you're already lifting the lid, pouring before the leaves have opened.
 facetLeastTitle: The Kettle Reboiled
 facetLeast: A decision has gone cold under your watching, and still the pot gets another stir, and another, each one sure to be the one that finally makes it matter.
-question: A group chat is waiting on your decision and the messages keep arriving. You...
-answerMost: leave it until the morning, when you'll know what you actually think
-answerHigh: tell them you're thinking and you'll come back by tonight
-answerMid: skim the thread, weigh it for a minute, then reply
-answerLow: type something reasonable now and hope it holds up
-answerLeast: send the first instinct and let the chat sort it out
+question: The cider you pressed in autumn is bottled and clear, and a friend's already eyeing the crate — drink it young, or leave it down the cellar to come into its own. You...
+answerMost: lay the whole lot down for a year and not touch a bottle till it's ready
+answerHigh: set most aside to age and crack just one to check on it
+answerMid: keep half back, share half now
+answerLow: open a good few tonight and hope the rest holds
+answerLeast: hand the crate round before the evening's out
 rorschachMost: a toad settled wide and motionless on a stone
 rorschachHigh: an animal hide laid flat to cure
 rorschachMid: a low island spread across dark water

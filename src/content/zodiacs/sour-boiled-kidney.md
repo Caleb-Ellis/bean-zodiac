@@ -7,10 +7,10 @@ trait: trustworthy
 dish: German kidney bean and sauerkraut soup with caraway.
 quote: The secret of getting ahead is getting bean.
 creature: guide dog
-friendlyBeans: [navy, butter]
-antiBeans: [fava, cannellini]
+friendlyBeans: [butter, navy]
+antiBeans: [pinto, fava]
 friendlyForm: roasted
-antiForm: smoked
+antiForm: fermented
 seasonalFortune: Brine deepens through the long months; what was salted in autumn answers in spring. The crock keeps its bargain without speaking, and the cellar plans around it.
 fortuneMost: The promise that costs you the thing you wanted, kept without a word about the cost — that's the yes that meant what you meant.
 fortuneMost2: You'll arrive at the hour you named, carrying what you said you'd carry.
@@ -32,12 +32,12 @@ facetLowTitle: The Jar's Rim Overrun
 facetLow: A "let's definitely do this" floats out of you on the way to the door, warm and meant in the moment, with no real intention of pinning a date to it.
 facetLeastTitle: Whoever Stirred It Last
 facetLeast: A friend you adore goes weeks unanswered, then you turn up out of nowhere picking the thread back up — and to you that's simply how the friendship breathes.
-question: A friend asks if you can help them move on Saturday. You already have plans you've been looking forward to. You...
-answerMost: cancel your plans and confirm without mentioning what you cancelled
-answerHigh: offer the morning, then go to the thing in the afternoon
-answerMid: say maybe and decide closer to the day
-answerLow: say you can't make it but recommend two people who can
-answerLeast: send a vague reply and quietly hope someone else volunteers
+question: At your craft-fair stall, a buyer overpays by a fat fold of notes and wanders off into the crowd before you can count it. You...
+answerMost: leave the stall and chase them through the market to give it back
+answerHigh: flag a steward to put a call out and hold the money untouched
+answerMid: set it aside and trust they'll circle back for it
+answerLow: keep it in the float but wonder about them the rest of the day
+answerLeast: slip it in the takings and tell yourself their mistake
 rorschachMost: an anvil set deep and not for moving
 rorschachHigh: a toad squatting solid on its haunches
 rorschachMid: a round melon set on the board

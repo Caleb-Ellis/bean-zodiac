@@ -7,10 +7,10 @@ trait: proud
 dish: Roasted kidney bean stew with charred bitter peppers and smoked paprika.
 quote: It is not the bean that stoops who loses dignity, but the one who forgets why they stood.
 creature: indian peafowl
-friendlyBeans: [fava, green]
-antiBeans: [edamame, fava]
-friendlyForm: smoked
-antiForm: dried
+friendlyBeans: [navy, green]
+antiBeans: [fava, cannellini]
+friendlyForm: fermented
+antiForm: smoked
 seasonalFortune: A roasted kidney holds its shape against the heat. The season favours those who have already done the work of becoming themselves, and asks only that they stand still inside it.
 fortuneMost: Leave the part that cost you most unsoftened.
 fortuneMost2: You'll walk into a gathering and the air will arrange itself around your posture without your asking.
@@ -32,12 +32,12 @@ facetLowTitle: Another Hand at the Pot
 facetLow: Let the table have the place you'd never have picked, and go find your own quiet good time inside their choice.
 facetLeastTitle: Slumped at the Bottom
 facetLeast: Caught belting the wrong words to a song in a packed lift, you just grin at the strangers and finish the line anyway.
-question: A client pushes back hard on your rate and asks for the breakdown. You...
-answerMost: repeat the number and say nothing else
-answerHigh: name the number again with one sentence of why
-answerMid: walk them through the line items calmly
-answerLow: shave a little off to keep things easy
-answerLeast: apologise and ask what they had in mind
+question: The stairs leave you winded now and a younger hand reaches to take your arm. You...
+answerMost: wave it off and climb on your own, slow as it takes
+answerHigh: manage the rest unaided but grip the rail harder
+answerMid: let them steady you just for the worst step
+answerLow: take the arm and make light of it
+answerLeast: lean on them gratefully and admit it's gotten hard
 rorschachMost: a king standing tall, robe trailing aside
 rorschachHigh: a peacock upright, tail fanned out beside
 rorschachMid: a standing stone with brush growing alongside

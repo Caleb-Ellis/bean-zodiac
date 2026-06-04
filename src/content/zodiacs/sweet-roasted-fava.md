@@ -7,8 +7,8 @@ trait: outspoken
 dish: Sweet harissa roasted fava beans — dried favas roasted with harissa paste and honey until blistered and crackling.
 quote: If you have an important bean to make, don't try to be subtle or clever. Use a pile driver.
 creature: jay
-friendlyBeans: [pinto, chickpea]
-antiBeans: [navy, mung]
+friendlyBeans: [chickpea, pinto]
+antiBeans: [kidney, mung]
 friendlyForm: fermented
 antiForm: smoked
 seasonalFortune: A season of blistered skins and honey pooled in the cracks. The kitchen runs warm and uncovered; what is meant gets said before the pan cools.
@@ -32,12 +32,12 @@ facetLowTitle: A Glaze That Sets Slow
 facetLow: The verdict you've got on the new place is sharp and ready. You hold it back and ask the others what they made of it first.
 facetLeastTitle: The Pan Goes Quiet
 facetLeast: A loud cousin holds the whole dinner hostage with a bad take. You butter your bread, say nothing, and let it roll past.
-question: A friend has just spent ten minutes on a long, slightly off opinion about something you both care about. They pause and look at you. You...
-answerMost: say plainly which parts you disagree with and why, and let the conversation do what it does
-answerHigh: pick the one weakest premise and push on it, gently
-answerMid: agree with the bits that hold and let the rest pass
-answerLow: ask a question instead of disagreeing and see if they walk it back themselves
-answerLeast: nod and say "yeah, totally"
+question: At the open council meeting the chair asks for objections to a plan you think is plainly wrong, and the room stays quiet. You...
+answerMost: stand and lay out, point by point, why it shouldn't pass
+answerHigh: raise your hand and name the one objection that matters most
+answerMid: voice a mild concern and gauge whether others join
+answerLow: write it on the comment card instead of speaking
+answerLeast: let the silence carry and say nothing
 rorschachMost: a bull snorting steam from its lowered snout
 rorschachHigh: a boar's head with breath fogging the air
 rorschachMid: a hippo's head wallowing at the surface

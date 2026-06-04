@@ -7,8 +7,8 @@ trait: scrupulous
 dish: Pan-fried kidney bean cakes with red miso, sake, and sesame.
 quote: Moralising and bean are two arts that seldom go together.
 creature: harvester ant
-friendlyBeans: [cannellini, green]
-antiBeans: [pinto, adzuki]
+friendlyBeans: [green, cannellini]
+antiBeans: [adzuki, black]
 friendlyForm: dried
 antiForm: fermented
 seasonalFortune: A season of red miso deepening in the pan — verdicts cure slowly, and the household keeps its scorched edges in plain view, unhidden, unsoftened.
@@ -32,12 +32,12 @@ facetLowTitle: The Cake Before It Sets
 facetLow: A friend's scheme looks shaky and the flag is right on your tongue — but you let it go and trust them to learn how it sets on their own.
 facetLeastTitle: Salt Past the Crust
 facetLeast: Where you'd hold yourself to the letter, you let a friend off the same slip without keeping any score of it.
-question: A friend returns a book with the corners bent and a coffee ring on the cover. You...
-answerMost: tell them, evenly, and ask them to be more careful next time
-answerHigh: mention the coffee ring, leave the bent corners alone
-answerMid: notice it, file it away, lend the next book more reluctantly
-answerLow: thank them and put it on the shelf as-is
-answerLeast: not notice until weeks later, and then not mind
+question: Filling out the tax return alone at the kitchen table, you hit a deduction that could swing either way in your favour. You...
+answerMost: read the rule three times and claim only what's plainly allowed
+answerHigh: leave it off rather than chance an overreach
+answerMid: claim it but keep every receipt squared away
+answerLow: take it; that's what the grey area is for
+answerLeast: round it up and trust no one will check
 rorschachMost: a wax seal pressed crisp on a letter
 rorschachHigh: a shield polished clean to its rim
 rorschachMid: a fat beetle resting on a leaf

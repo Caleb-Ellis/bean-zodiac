@@ -7,9 +7,9 @@ trait: conflicted
 dish: Kimchi jjigae - kidney bean and kimchi stew with pork belly, tofu, and sesame oil.
 quote: The heart has its bean that reason knows not of.
 creature: chimera
-friendlyBeans: [green, chickpea]
-antiBeans: [navy, edamame]
-friendlyForm: fried
+friendlyBeans: [chickpea, green]
+antiBeans: [navy, butter]
+friendlyForm: smoked
 antiForm: dried
 seasonalFortune: Kimchi and brine ripen side by side in the crock; sourness and depth lengthen together, neither yielding, and the lid holds both.
 fortuneMost: Two people you love are both right, and you can pour for each without ever calling the kinder.
@@ -32,12 +32,12 @@ facetLowTitle: Sesame on the Broth
 facetLow: The waiter's brought the wrong dish. You say so straight away, no weighing of his side, and ask for the right one.
 facetLeastTitle: One Simmer
 facetLeast: One of two squabbling neighbours is flatly in the wrong, and you say which without hunting for the kinder reading.
-question: Two friends have asked you to take their side in something and you can see both of them clearly. You...
-answerMost: stay with both, refuse to pick
-answerHigh: tell each the part of the other they're missing
-answerMid: listen, hold off, change the subject when pressed
-answerLow: side with the one who asked first
-answerLeast: pick the one who's plainly right
+question: The self-checkout skips an item and the total's clearly too low. No one's looking, and money's been tight. You...
+answerMost: stand there torn, then rescan it before you can decide otherwise
+answerHigh: flag it down and pay the right amount, however reluctant
+answerMid: hover over the screen, weigh it, and let conscience win
+answerLow: tell yourself the shop won't miss it and half-believe it
+answerLeast: bag it and walk, the machine's mistake not yours
 rorschachMost: two creatures straining apart across a gap
 rorschachHigh: two islands divided by a strait of water
 rorschachMid: a smooth pebble beside a spiny chestnut burr

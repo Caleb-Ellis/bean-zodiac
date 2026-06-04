@@ -7,9 +7,9 @@ trait: exuberant
 dish: Jin deui — fried glutinous rice sesame balls with sweet adzuki paste inside, golden and crisp and rolling.
 quote: It's beanin' time!
 creature: springbok
-friendlyBeans: [green, edamame]
+friendlyBeans: [edamame, kidney]
 antiBeans: [black, mung]
-friendlyForm: fermented
+friendlyForm: roasted
 antiForm: smoked
 seasonalFortune: Oil hits batter and the kitchen goes loud. A season for arrivals that come rolling in, sesame-flecked, refusing to enter a room without announcing themselves first.
 fortuneMost: Bake the cake for the ordinary Wednesday. No occasion is the occasion.
@@ -32,12 +32,12 @@ facetLowTitle: Dough at Rest
 facetLow: The whole carriage erupts when the team scores on the overhead screen. You feel the grin but keep watching the fields go by.
 facetLeastTitle: The Seed That Falls Without Sound
 facetLeast: Confetti cannons go off for the finishers crossing the line near you. Before anyone can hand you a horn, you've slipped back toward the quiet end of the barrier.
-question: A friend mentions, in passing, that they got a small promotion. You...
-answerMost: declare the night a party and start texting everyone
-answerHigh: insist on at least one drink, right now, to mark it
-answerMid: say congratulations warmly and ask how they're feeling about it
-answerLow: nod, smile, and let them steer whether it's a thing
-answerLeast: tell them you're glad and go back to what you were saying
+question: First proper hot day of the year, the whole coast out, and the sea is flat and freezing and right there. You...
+answerMost: are already sprinting down the sand, whooping, clothes flung behind you
+answerHigh: strip to what's underneath and wade straight in past the gasp
+answerMid: paddle to the knees and decide from there
+answerLow: dip a foot, call it too cold, find a spot to sit
+answerLeast: stay on your towel and watch everyone else go in
 rorschachMost: a hound mid-leap, ears flung back, jaws open
 rorschachHigh: a goat rearing with one horn raised high
 rorschachMid: a boar's head turned sharp to the side

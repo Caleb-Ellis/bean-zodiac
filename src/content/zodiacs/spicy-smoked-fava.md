@@ -7,10 +7,10 @@ trait: unbridled
 dish: Besara - Egyptian smoked fava bean soup with caramelised onion and dried chili.
 quote: Born free, as bean as the wind blows.
 creature: wild stallion
-friendlyBeans: [pinto, chickpea]
-antiBeans: [pinto, cannellini]
-friendlyForm: fermented
-antiForm: boiled
+friendlyBeans: [chickpea, edamame]
+antiBeans: [adzuki, cannellini]
+friendlyForm: roasted
+antiForm: dried
 seasonalFortune: Smoke moves where it wants this season; the air carries a heat that does not ask permission, and rooms hold its trace for hours.
 fortuneMost: Book it before you check the calendar.
 fortuneMost2: You keep a clock no one else can read, and people drift close for the contact high.

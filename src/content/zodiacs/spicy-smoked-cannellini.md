@@ -7,8 +7,8 @@ trait: barbed
 dish: Cazuela de alubias - Castilian white bean stew with smoked chorizo and pimentón ahumado.
 quote: Out of the frying bean and into the fire.
 creature: porcupine
-friendlyBeans: [black, edamame]
-antiBeans: [adzuki, chickpea]
+friendlyBeans: [edamame, black]
+antiBeans: [mung, adzuki]
 friendlyForm: dried
 antiForm: roasted
 seasonalFortune: Pimentón hangs in cold air; the cazuela darkens at the rim. Days arrive sharpened by smoke, and what cannot keep its shape will be named for what it lacks.
@@ -32,12 +32,12 @@ facetLowTitle: Fat Settled Back
 facetLow: A nervous kid shows you the birdhouse they built crooked. You leave the crooked alone and praise the one joint they nailed, even with the better fix right there on your tongue.
 facetLeastTitle: Pimentón Clouding Even
 facetLeast: That casserole is plainly the worst thing on the potluck table — and you take a generous scoop, look its maker in the eye, and call it wonderful.
-question: A friend shows you the first draft of something they're proud of. You...
-answerMost: name the weakest line by sentence and offer the fix
-answerHigh: praise the strong bit and flag two things to tighten
-answerMid: say what's working and where you'd want more
-answerLow: tell them it's great and bookmark the issues for later
-answerLeast: say you love it and mean every word
+question: At the conference Q&A a speaker is holding forth, wrong and pleased with himself, and a perfect cutting line lands in your head. You...
+answerMost: take the mic and deliver it, dry and clean, to the whole room
+answerHigh: murmur it to the person beside you, just within his earshot
+answerMid: let half a smirk show and keep the line to yourself
+answerLow: think it, swallow it, look back at your notes
+answerLeast: let it go and almost feel for the man
 rorschachMost: a crab claw open beside its split shell
 rorschachHigh: two rocks, one hooked into a thorn
 rorschachMid: a pair of antlers branching apart

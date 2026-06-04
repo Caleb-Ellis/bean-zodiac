@@ -8,8 +8,8 @@ dish: Jaggery-roasted mung beans — whole mung beans tossed in melted jaggery a
 quote: Keep your bean up and your worries down, and everything will be just fine.
 creature: capybara
 friendlyBeans: [butter, navy]
-antiBeans: [kidney, green]
-friendlyForm: dried
+antiBeans: [green, edamame]
+friendlyForm: boiled
 antiForm: fried
 seasonalFortune: A season that warms slowly, the way jaggery slackens before it pours. Hard edges round off in the pan. Cardamom finds its way into rooms it was not invited into.
 fortuneMost: A friend turns up sharp-cornered; out comes the chair, the glass, no questions, and the corners go.

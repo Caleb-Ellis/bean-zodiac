@@ -7,10 +7,10 @@ trait: ominous
 dish: Smoked navy bean with bitter juniper and char.
 quote: It was a dark and beany night.
 creature: black vulture
-friendlyBeans: [butter, edamame]
-antiBeans: [chickpea, pinto]
+friendlyBeans: [butter, black]
+antiBeans: [chickpea, fava]
 friendlyForm: boiled
-antiForm: roasted
+antiForm: fermented
 seasonalFortune: Juniper smoke drifts low through the bitter months; the char beneath the kettle remembers what the woodpile has not yet admitted.
 fortuneMost: The crack is coming, and you'll see it long before anyone else lifts their head.
 fortuneMost2: That knot under your ribs is rarely wrong.
@@ -32,12 +32,12 @@ facetLowTitle: The Kettle, Only a Kettle
 facetLow: A guy on the corner asks to borrow your phone for one call. You hand it over and stand there easy, reading no scheme behind the simple ask.
 facetLeastTitle: The Wiped Rim
 facetLeast: A friend lays out a plan with a few loose ends you could pick apart. You let the loose ends be, raise your glass to it, and don't go hunting for how it fails.
-question: A project is sailing along but you can feel where it will crack in six weeks. You...
-answerMost: walk into Monday standup and name the date and the failure
-answerHigh: send a short note flagging the risk, no soft language
-answerMid: raise it once over coffee and let it sit
-answerLow: keep an eye on it and speak up if it actually wobbles
-answerLeast: tell yourself everyone else can see the same thing
+question: A dull ache has settled under your ribs and won't quite leave. The body feels like it's warning you of something. You...
+answerMost: name it out loud as the start of something serious and brace for the worst
+answerHigh: book the appointment and write down when it started, in case
+answerMid: give it a week and watch whether it grows
+answerLow: put it down to a bad mattress and carry on
+answerLeast: forget it's there until it's gone
 rorschachMost: a thundercloud swelling low over the fields
 rorschachHigh: a swarm gathering thick on the horizon
 rorschachMid: a mountain ridge seen against the dusk

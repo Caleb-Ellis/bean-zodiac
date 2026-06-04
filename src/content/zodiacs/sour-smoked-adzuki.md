@@ -7,7 +7,7 @@ trait: acrid
 dish: Kimchi jjigae with smoked adzuki - adzuki bean stew with kimchi, tofu, and gochugaru
 quote: The bean is mightier than the sword.
 creature: skunk
-friendlyBeans: [black, navy]
+friendlyBeans: [black, pinto]
 antiBeans: [kidney, mung]
 friendlyForm: fermented
 antiForm: roasted
@@ -32,12 +32,12 @@ facetLowTitle: The Broth's Lost Corners
 facetLow: The correction is right there on your tongue and the person's already had a rough morning. You let the small wrong fact stand and pour them something instead.
 facetLeastTitle: The Cooling Kettle
 facetLeast: A meal lands flat and there's a clear reason why. Let someone else be the one to point at it — you'll hold your tongue and see who speaks first.
-question: A family photo at someone's funeral, blown up large, carefully cropped. The thing it crops out is something everyone in the room remembers. You...
-answerMost: name the missing person, by name, when it's your turn to speak
-answerHigh: mention them in a sentence the family can hear and choose what to do with
-answerMid: catch one cousin's eye and the look does the saying
-answerLow: leave it alone now and bring it up to one person later
-answerLeast: speak about the photo as if the crop were the whole picture
+question: The reunion slideshow plays the old class photo blown up large, carefully cropped — and the person cropped out is one the whole room remembers. You...
+answerMost: name the missing classmate, by name, when the mic comes round
+answerHigh: mention them in a sentence the room can hear and do with as it likes
+answerMid: catch one old friend's eye and the look does the saying
+answerLow: leave it alone tonight and bring it up to one person later
+answerLeast: talk about the photo as if the crop were the whole class
 rorschachMost: two hornets' nests fused, holes still open
 rorschachHigh: a scorched skull with sockets burned through
 rorschachMid: two river stones touching, pocked with holes

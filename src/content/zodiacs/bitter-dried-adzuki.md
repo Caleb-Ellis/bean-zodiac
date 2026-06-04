@@ -7,10 +7,10 @@ trait: selective
 dish: Sekihan - adzuki beans with bitter citrus zest.
 quote: You are the average of the five beans you spend the most time with.
 creature: purple heron
-friendlyBeans: [black, pinto]
-antiBeans: [mung, fava]
+friendlyBeans: [edamame, pinto]
+antiBeans: [mung, kidney]
 friendlyForm: boiled
-antiForm: boiled
+antiForm: roasted
 seasonalFortune: Citrus peel cures slow on a north-facing sill. A pantry of this temperament keeps only what earns the jar; the rest goes to the birds, unmourned.
 fortuneMost: A jar with only the peel that cured right is worth more than a full pantry.
 fortuneMost2: The few you kept are about to prove why you kept them.
@@ -32,12 +32,12 @@ facetLowTitle: The Open Pot
 facetLow: Wave them in — the person you met an hour ago, asking to tag along the rest of the night — a little before you've decided you trust them.
 facetLeastTitle: Every Bowl Filled
 facetLeast: A whole crate is going cheap, more than you could use. You grab it and start handing pieces to everyone in reach, keeping no count.
-question: A friend offers you a ticket to a party tonight — decent crowd, no one you love. You...
-answerMost: decline without explaining
-answerHigh: ask who's going before deciding
-answerMid: leave it open and see how the day goes
-answerLow: say yes and stay an hour
-answerLeast: say yes and bring two more people
+question: First day at the new school, the lunch hall loud, and a kid at a half-empty table waves you over mid-story to a crowd that isn't listening. You...
+answerMost: take a corner seat alone and keep your head down
+answerHigh: size them up a moment, decide they're not your people
+answerMid: drift to the end of their table without quite joining
+answerLow: sit down and let them pull you into it
+answerLeast: sit down and wave two more strays over too
 rorschachMost: one chestnut guarded in its spiked husk
 rorschachHigh: a wolf's head turned from a burr
 rorschachMid: a rock and a round seed pod

@@ -7,8 +7,8 @@ trait: delicate
 dish: Fagioli al fiasco - cannellini baked in a flask with smoked guanciale, sweet Vin Santo, and sage.
 quote: The most beautiful things in the world cannot be seen or bean — they must be felt with the heart.
 creature: dragonfly
-friendlyBeans: [black, edamame]
-antiBeans: [adzuki, fava]
+friendlyBeans: [black, navy]
+antiBeans: [kidney, fava]
 friendlyForm: dried
 antiForm: roasted
 seasonalFortune: A season inside the flask. Sweetness comes slowly under low smoke, and the year asks for a lighter hand than most are willing to lend it.

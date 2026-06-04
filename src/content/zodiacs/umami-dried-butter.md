@@ -7,8 +7,8 @@ trait: mellow
 dish: Gigantes plaki - dried butter beans baked with tomato, anchovy, and herbs.
 quote: All things come to beans who wait.
 creature: dugong
-friendlyBeans: [navy, black]
-antiBeans: [kidney, green]
+friendlyBeans: [adzuki, navy]
+antiBeans: [kidney, pinto]
 friendlyForm: boiled
 antiForm: fried
 seasonalFortune: A long oven season; tomato deepens into anchovy without anyone watching. The hours do their own salting, and the cook learns to leave the door shut.
@@ -32,12 +32,12 @@ facetLowTitle: The Skin That Splits Early
 facetLow: A reply you've been comfortably putting off finally has a clear answer. Send it now, you think, while it's easy — and you do, before the ease wears off.
 facetLeastTitle: Heat That Never Banks
 facetLeast: First light, and you're already laced up and out the door, breakfast eaten on the move. A morning that just sits there makes your skin itch.
-question: The group chat is briskly organizing something for Saturday and waiting on your vote. It's Wednesday. You...
-answerMost: leave the phone face-down and trust they'll work it out
-answerHigh: read it twice, decide it can wait until tomorrow morning
-answerMid: send a thumbs-up to whichever option has the most votes
-answerLow: pick one and reply within the hour
-answerLeast: reply before you've finished reading the third message
+question: Your connecting train is delayed, the board keeps pushing the time back, and the platform crowd is starting to fray. You...
+answerMost: find a bench, let the board do what it does, and watch the light change
+answerHigh: settle in, decide there's nothing to do but wait it out
+answerMid: check the board now and then, mostly relax
+answerLow: keep refreshing the app for a better route
+answerLeast: pace the platform working out every backup before the next update
 rorschachMost: a scoop of ice cream slowly melting down
 rorschachHigh: a soft candle slumping into a pool of wax
 rorschachMid: a mushroom cap with spores drifting beneath

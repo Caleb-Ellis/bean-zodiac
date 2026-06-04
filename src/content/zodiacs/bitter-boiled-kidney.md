@@ -8,9 +8,9 @@ dish: Caldo Verde - kidney beans and kale.
 quote: The bean that matters most is not the one you were born with, but the one you choose to keep.
 creature: shepherd
 friendlyBeans: [adzuki, navy]
-antiBeans: [pinto, chickpea]
+antiBeans: [pinto, fava]
 friendlyForm: roasted
-antiForm: smoked
+antiForm: fermented
 seasonalFortune: A long pot kept low, kale folded in late. The kitchen runs at the pace of the slowest ingredient, and what stays in the broth all afternoon is what feeds anyone by evening.
 fortuneMost: Call the friend no one else is calling, and don't ask if they're okay — ask what they ate.
 fortuneMost2: An old friend is about to resurface wanting a real afternoon of you, and you'll clear it without asking why.
@@ -32,12 +32,12 @@ facetLowTitle: Salt Thrown in Late
 facetLow: The old crew's reunion turns up in your inbox and stirs no pull at all. Let it pass unanswered — the ones who matter will find another way to reach you, and that's enough.
 facetLeastTitle: The Broth Ladled Early
 facetLeast: Nothing left for you in the town you were raised in, and the road out lies open. Off you go, no backward glance, already at ease in the next place.
-question: An old friend resurfaces after years asking for a favour that will cost you a real afternoon. You...
-answerMost: clear the afternoon without asking why
-answerHigh: say yes and quietly rearrange two things to make room
-answerMid: ask what's going on before you commit
-answerLow: offer something smaller than what they asked for
-answerLeast: wish them well and stay out of it
+question: A stray you fed one hard winter has trailed you home and curled up on the porch, plainly meaning to stay. Keeping it means a leaner table all season. You...
+answerMost: bring it inside and set down a bowl, no second thought
+answerHigh: clear a corner for it and stretch the feed thinner
+answerMid: let it stay the week and see how things sit
+answerLow: leave scraps out but keep the door shut
+answerLeast: shoo it on toward someone better placed to keep it
 rorschachMost: a dog sitting up close beside its owner
 rorschachHigh: a sentry keeping watch over a wayside stone
 rorschachMid: a tall jug next to a smaller round bowl

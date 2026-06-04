@@ -7,10 +7,10 @@ trait: logical
 dish: Edamame miso soup with rice vinegar and wakame.
 quote: Logic will get you from A to bean, but imagination will take you everywhere.
 creature: rook
-friendlyBeans: [navy, cannellini]
-antiBeans: [chickpea, mung]
-friendlyForm: dried
-antiForm: smoked
+friendlyBeans: [cannellini, navy]
+antiBeans: [mung, chickpea]
+friendlyForm: smoked
+antiForm: fermented
 seasonalFortune: Wakame unfurls in the simmer this season; the broth admits only what belongs, and the bowl reads like a settled ledger.
 fortuneMost: The conclusion fits in one sentence.
 fortuneMost2: Everyone's still hedging and the plain answer is already yours.
@@ -32,12 +32,12 @@ facetLowTitle: Salt Before the Split
 facetLow: A plan adds up perfectly and still something in your chest says no. You go with the feeling and let the spreadsheet lose for once.
 facetLeastTitle: Wakame's Unargued Shape
 facetLeast: Woodsmoke on the air, and your feet leave the route to chase it. No reason, no plan to be anywhere by dark, the day handed over to wherever the nose leads.
-question: A friend is venting about a fight with their partner. Halfway through, they pause and look at you. You...
-answerMost: lay out where the misunderstanding likely is, step by step
-answerHigh: ask the one question that clarifies who said what
-answerMid: nod, then offer a small observation
-answerLow: say "that sounds awful" and order more chips
-answerLeast: just sit with them and let the story keep going
+question: The whole string of fairy lights has died, and somewhere in three hundred bulbs is the one that took the rest down with it. You...
+answerMost: test the run section by section until you've cornered the dead bulb
+answerHigh: check the likeliest culprit first, the way the wiring suggests
+answerMid: swap a few obvious suspects and see if the run wakes up
+answerLow: jiggle the whole lot and hope it flickers back
+answerLeast: bin the string and buy a new one
 rorschachMost: a manta ray gliding a straight, deliberate line
 rorschachHigh: a horseshoe crab tracking from broad head to tail
 rorschachMid: a low hill seen from across the valley

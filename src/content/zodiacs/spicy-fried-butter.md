@@ -7,9 +7,9 @@ trait: energetic
 dish: Spicy butter bean croquetas - fried bean cakes with smoked paprika.
 quote: The world is charged with the grandeur of the bean.
 creature: hare
-friendlyBeans: [navy, kidney]
-antiBeans: [mung, cannellini]
-friendlyForm: boiled
+friendlyBeans: [kidney, edamame]
+antiBeans: [cannellini, pinto]
+friendlyForm: roasted
 antiForm: fermented
 seasonalFortune: A season lived at frying temperature, paprika on every surface; the pan is rarely cold and the residue collects on whatever is closest.
 fortuneMost: Stairs two at a time, an answer before the question lands.
@@ -32,12 +32,12 @@ facetLowTitle: The Overnight Soak
 facetLow: A free morning opens up with nowhere it has to go. You let it stay empty — a coffee, a window, no plan to fill it.
 facetLeastTitle: Cold Oil, Still
 facetLeast: A whole afternoon could be reshuffled to chase a sudden idea. You leave the day as it stands and let the idea wait its turn.
-question: A long flight, and the stranger in the next seat starts describing a side project they've been chipping at for a year. You...
-answerMost: pull out the tray table, start sketching a launch plan with them before the trolley reaches your row
-answerHigh: ask the first three questions that would unlock it and offer to introduce them to someone who can help
-answerMid: get genuinely interested, ask about it, swap details before landing
-answerLow: nod warmly and let them keep talking
-answerLeast: smile, put your headphones back in, return to the film
+question: Leaning on the allotment fence in the sun, the plot-holder next door starts describing the daft watering contraption they've been building all spring. You...
+answerMost: grab a stick, start drawing the better version in the dirt before they've finished explaining
+answerHigh: fire off the three questions that would crack it and offer to find them the part they're missing
+answerMid: get properly interested, ask how it works, swap numbers
+answerLow: nod along and let them keep going
+answerLeast: smile, say it sounds great, get back to your beds
 rorschachMost: a longhorn tossing its head, horns flung up
 rorschachHigh: two gulls leaping apart off the same wave
 rorschachMid: a hat and its brim blown apart in wind

@@ -7,9 +7,9 @@ trait: terse
 dish: Edamame hummus with preserved lemon.
 quote: Less is bean.
 creature: rook crow
-friendlyBeans: [fava, kidney]
+friendlyBeans: [black, cannellini]
 antiBeans: [adzuki, pinto]
-friendlyForm: fried
+friendlyForm: smoked
 antiForm: roasted
 seasonalFortune: A season cured down to its rind. The pod has shrunk to a stone, the lemon to a salt, and what remains keeps without speaking.
 fortuneMost: Yes or no, no qualifier.

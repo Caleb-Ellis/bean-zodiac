@@ -7,9 +7,9 @@ trait: tender
 dish: Lǜdòu gāo — dried mung beans ground fine and pressed with sugar into flower-shaped cakes.
 quote: The most beautiful things in the world cannot be seen or touched — they must be seen with the bean.
 creature: spring fawn
-friendlyBeans: [butter, fava]
-antiBeans: [edamame, green]
-friendlyForm: fermented
+friendlyBeans: [butter, cannellini]
+antiBeans: [green, pinto]
+friendlyForm: smoked
 antiForm: fried
 seasonalFortune: A season ground fine — what was whole is pressed into petalled shapes, sweetness carrying what the husk could not hold.
 fortuneMost: A petal cupped open in two palms.
@@ -32,11 +32,11 @@ facetLowTitle: The Bean That Refuses the Mortar
 facetLow: A practised sob story works the carriage, coins clinking into the cup ahead of you. You read the routine for what it is, keep your wallet shut, and look out the window.
 facetLeastTitle: Crystal That Stays Crystal
 facetLeast: A sad film has the whole theatre sniffling into their sleeves around you. The scene leaves you cold, and you sit there dry-eyed, faintly impatient for the credits.
-question: Someone snaps at you in a meeting — sharper than the moment called for, and not really about you. The room glances away. You...
-answerMost: ask if they're alright after, with no edge to it
-answerHigh: let it pass, and replay the kindness you might have shown them
-answerMid: stay quiet, keep going, sit with it for the afternoon
-answerLow: feel it in your chest the rest of the day
+question: In the supermarket queue a frazzled parent, baby wailing, snaps at you over the trolley — sharper than it warranted, and not really about you. You...
+answerMost: ease back, catch their eye softly, and ask if it's been one of those days
+answerHigh: let it go, and quietly wonder what their morning's been like
+answerMid: say nothing, give them room, and carry it a moment
+answerLow: feel the sting of it all the way to the car
 answerLeast: snap back before you've decided to
 rorschachMost: a petal cupped open in two palms
 rorschachHigh: a small bird held loose in a hand

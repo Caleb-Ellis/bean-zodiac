@@ -7,10 +7,10 @@ trait: indulgent
 dish: Gratin - butter beans with bitter radicchio and taleggio.
 quote: If I have one more bean I'm gonna pop!
 creature: persian cat
-friendlyBeans: [adzuki, mung]
-antiBeans: [green, edamame]
+friendlyBeans: [mung, adzuki]
+antiBeans: [edamame, green]
 friendlyForm: boiled
-antiForm: fried
+antiForm: dried
 seasonalFortune: Radicchio darkens in the pan; taleggio loosens its rind. The slow-built crust rewards a temperament that refuses thin pleasures and waits out the deep ones.
 fortuneMost: Buy the taleggio from the good counter.
 fortuneMost2: That rich, slow pleasure you refused to cheapen is nearly ripe.

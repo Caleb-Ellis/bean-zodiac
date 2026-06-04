@@ -7,8 +7,8 @@ trait: suppressed
 dish: Mole negro - dried black beans with mulato and pasilla chilies.
 quote: Where there's smoke, there's bean.
 creature: cicada
-friendlyBeans: [cannellini, fava]
-antiBeans: [adzuki, kidney]
+friendlyBeans: [cannellini, navy]
+antiBeans: [adzuki, pinto]
 friendlyForm: smoked
 antiForm: roasted
 seasonalFortune: A pan of chilies toasted dark and a lid set heavy; what stings the kitchen is folded down into a long, quiet simmer, and the heat travels inward for hours.
@@ -32,12 +32,12 @@ facetLowTitle: Chilies Torn in by Hand
 facetLow: The coffee comes back made wrong, and you say so before the barista has even turned away. Evenly. No edge on it.
 facetLeastTitle: Lid Off, Seeds and All
 facetLeast: Barely finished thinking it and it's already out of your mouth, seeds and all. Half-cooked and handed over beats one more second of sitting on it.
-question: A friend says something at dinner that genuinely lands wrong, and the table doesn't notice. You...
-answerMost: smile, refill their wine, and decide to mention it never
-answerHigh: file it for later and ask a steadying question to move the table on
-answerMid: go quiet for a beat and let the conversation drift past
-answerLow: catch their eye after and say one sentence in the hallway
-answerLeast: name it across the table, plainly, while it's still warm
+question: In the meeting your boss presents your work as her own, smoothly, and the room turns to her with the credit. You...
+answerMost: smile, let it stand, and decide to never raise it
+answerHigh: bank it quietly and add a clarifying line that points back to you
+answerMid: go still for a beat and let the moment pass
+answerLow: catch her after and say one sentence in the corridor
+answerLeast: correct the record across the table while it's still warm
 rorschachMost: a fist clenched tight, knuckles drawn in
 rorschachHigh: a bundle bound and knotted at every edge
 rorschachMid: a dark cabbage with leaves curling loose

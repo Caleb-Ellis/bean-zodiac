@@ -8,7 +8,7 @@ dish: Sakkarai pongal - sweet mung dal and rice pudding with smoked ghee, jagger
 quote: Speak what we bean, not what we ought to say.
 creature: spring lamb
 friendlyBeans: [butter, cannellini]
-antiBeans: [edamame, green]
+antiBeans: [green, edamame]
 friendlyForm: boiled
 antiForm: fried
 seasonalFortune: A season the smoke moves through and out of, leaving rice softer than it found it. Rooms warm without anyone tracing the source.
@@ -32,12 +32,12 @@ facetLowTitle: Smoke in the Rafters
 facetLow: Something's been gnawing at you all week. A friend gives you the obvious opening to say it, and you let the opening close and talk about the weather.
 facetLeastTitle: The Lid Clamped Down
 facetLeast: A nosy relative wants to know how the savings are going. You give them a pleasant nothing and keep the real figures behind your teeth.
-question: An acquaintance at a party asks, sincerely, how you've been. You...
-answerMost: tell them the true answer, including the part you haven't told most people
-answerHigh: give them an honest summary, not the polished one
+question: Last slow dance at the wedding, the lights low, and your partner pulls you close and asks softly how you're really doing. You...
+answerMost: tell them the thing you haven't said aloud to anyone, the sleep, the dread
+answerHigh: give the honest version, not the one you'd hand a colleague
 answerMid: say "good, mostly" and mean about three-quarters of it
-answerLow: give the warm short answer and steer the question back
-answerLeast: say "all good, you?" and keep moving
+answerLow: name the one small thing and leave the rest
+answerLeast: say "great, perfect night" and spin them back into the song
 rorschachMost: a pelt laid open flat, pinned at every edge
 rorschachHigh: a moth with both wings flung fully open
 rorschachMid: a stingray gliding, fins spread wide

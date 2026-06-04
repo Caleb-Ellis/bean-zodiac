@@ -7,9 +7,9 @@ trait: compassionate
 dish: Rajma kheer — kidney beans boiled until tender and simmered in sweetened milk with cardamom and rose water.
 quote: If you want others to be happy, practise bean. If you want to be happy, practise bean.
 creature: elephant
-friendlyBeans: [navy, mung]
-antiBeans: [edamame, fava]
-friendlyForm: smoked
+friendlyBeans: [mung, butter]
+antiBeans: [black, edamame]
+friendlyForm: roasted
 antiForm: fermented
 seasonalFortune: A year that simmers low and long. Sweetness gathers in the pot rather than the bowl, and the cardamom keeps its post.
 fortuneMost: Cook the slow thing for the one going through it, in a dish they needn't return, and stay — without asking whether they wanted company.
@@ -32,12 +32,12 @@ facetLowTitle: The Bean in Its Skin
 facetLow: A friend's venting about the same situation for the fifth time, no move to change it. You hear them out, then turn back to your own evening — not every ache is yours to keep absorbing.
 facetLeastTitle: Sweetness Left at the Bottom
 facetLeast: A relative who's hard work is upset across the room and everyone's glancing at you to go fix it. Stay in your chair. Their mood isn't a job assigned to you, and you let someone else be the one to carry it.
-question: A coworker you barely know is clearly having a bad day at the next desk. You...
-answerMost: quietly bring them a tea and ask if they want to step outside for ten minutes
-answerHigh: catch their eye and ask gently how they're doing
-answerMid: send them a small kind message later that day
-answerLow: leave them to it — they don't need an audience
-answerLeast: put your headphones on and stay out of it
+question: On the sunny high street the busker you pass every day is packing up early, takings thin, looking more beaten than yesterday. You...
+answerMost: stop, sit down on the kerb, and ask how they're really doing
+answerHigh: buy them a proper lunch and bring it over to share
+answerMid: press some notes into the case with a warm word
+answerLow: drop a coin in passing without slowing
+answerLeast: keep your eyes ahead and walk on by
 rorschachMost: a hen spreading wings over her chicks
 rorschachHigh: a shawl drawn around hunched shoulders
 rorschachMid: a broad tree over two thin trunks

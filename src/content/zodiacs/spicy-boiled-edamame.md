@@ -7,8 +7,8 @@ trait: hardworking
 dish: Szechuan boiled edamame with doubanjiang and dried chilies.
 quote: Genius is one per cent inspiration and ninety-nine per cent beans.
 creature: beaver
-friendlyBeans: [kidney, green]
-antiBeans: [mung, butter]
+friendlyBeans: [kidney, navy]
+antiBeans: [mung, chickpea]
 friendlyForm: fried
 antiForm: fermented
 seasonalFortune: A long simmer salts the year for this one; chili oil collects on the surface of every month, and the pod gives only to a steady hand.
@@ -32,12 +32,12 @@ facetLowTitle: Pods in the Colander
 facetLow: Half the laundry's still on the line and rain's nowhere near. Why not leave it and stretch out in the hammock instead?
 facetLeastTitle: Heat Across the Tongue
 facetLeast: There's a free morning and a dozen chores with your name on them. You stay under the covers and let every one of them keep.
-question: It's Sunday afternoon. The week's list is already done. The light through the window is good. You...
-answerMost: start on next week's, just to be ahead
-answerHigh: tidy one more thing, the small project you've been meaning to
-answerMid: read for a while, then drift back to something useful
-answerLow: do nothing on purpose and let the afternoon go
-answerLeast: nap, and feel no debt about it
+question: First day of the holiday, a lounger by the pool, sun out, the whole week ahead with nothing required of you. You...
+answerMost: get up and map the itinerary so not an hour of it goes to waste
+answerHigh: knock out the one small thing you brought to "just finish," then settle
+answerMid: read for a while, then go find something to organise
+answerLow: do nothing on purpose and let the afternoon melt
+answerLeast: doze in the sun and feel not a flicker of guilt
 rorschachMost: a boulder split in two with chips flying
 rorschachHigh: two quarry faces worked back from a seam
 rorschachMid: two boulders flanking a narrow gorge

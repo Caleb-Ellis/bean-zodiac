@@ -7,8 +7,8 @@ trait: persnickety
 dish: Fagioli all'uccelletto con 'nduja - Tuscan white beans with spicy fermented sausage and sage.
 quote: The devil is in the beans.
 creature: siamese cat
-friendlyBeans: [chickpea, pinto]
-antiBeans: [butter, kidney]
+friendlyBeans: [edamame, black]
+antiBeans: [kidney, green]
 friendlyForm: dried
 antiForm: fried
 seasonalFortune: Cured slow in the jar, the brine bites back at whatever the cook forgot. A season for small corrections, sage laid one leaf at a time.
@@ -32,12 +32,12 @@ facetLowTitle: The Simmering Heat
 facetLow: Someone tells a story about you and gets a detail wrong — the wrong city, the wrong year. It changes nothing, so you let the version they like stand.
 facetLeastTitle: The Jar Past Its Hour
 facetLeast: The cupboard is a cheerful jumble — mismatched lids, a spice rack in no order, things shoved where they fit. You could spend the afternoon sorting it, and you'd rather just close the door.
-question: A document goes out to the team tomorrow. You spot a misplaced comma, a slightly off heading, and one number that's correct but rounded oddly. You...
-answerMost: redo the whole pass and send a clean version tonight
-answerHigh: fix all three and quietly re-attach it
-answerMid: fix the number, leave the rest
-answerLow: mention the comma in passing, let them choose
-answerLeast: send it as-is and move on
+question: House-sitting alone, you notice the spice jars are unlabelled, the picture over the mantel hangs a hair off level, and one blind sits lower than its twin. You...
+answerMost: label, level, and align all three before you sit down
+answerHigh: straighten the picture and even the blinds, leave the jars
+answerMid: nudge the worst offender level and let the rest be
+answerLow: register each one, touch nothing, feel the itch
+answerLeast: never see a single one of them all week
 rorschachMost: a pincushion with every pin set straight
 rorschachHigh: a thistle head trimmed perfectly round
 rorschachMid: a burr above a sleeping hound

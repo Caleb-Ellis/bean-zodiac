@@ -7,10 +7,10 @@ trait: brooding
 dish: Black beans with bitter orange mojo and fermented crema.
 quote: Whatever our beans are made of, his and mine are the same.
 creature: nightjar
-friendlyBeans: [fava, mung]
+friendlyBeans: [pinto, fava]
 antiBeans: [edamame, cannellini]
 friendlyForm: smoked
-antiForm: roasted
+antiForm: boiled
 seasonalFortune: A jar left in the dark keeps its own counsel; the bitter orange waits out the season, and what the salt has been doing surfaces only when asked.
 fortuneMost: A feeling left to cure as long as it needs comes out right.
 fortuneMost2: The long dark is doing real work on what you're holding.

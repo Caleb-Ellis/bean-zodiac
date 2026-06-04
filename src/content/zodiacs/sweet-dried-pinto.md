@@ -7,10 +7,10 @@ trait: storied
 dish: Pinto bean pie — dried pintos cooked soft and sweetened into a custard filling for a Southern pie shell, spiced with cinnamon and vanilla.
 quote: After all, tomorrow is another bean.
 creature: thunderbird
-friendlyBeans: [adzuki, edamame]
-antiBeans: [kidney, cannellini]
+friendlyBeans: [adzuki, fava]
+antiBeans: [cannellini, mung]
 friendlyForm: fermented
-antiForm: boiled
+antiForm: smoked
 seasonalFortune: A long sweetness gathers in the dark of the pantry; what was set aside seasons itself, and the year tastes of what the year remembers.
 fortuneMost: A scrapbook fanned open across a table — nothing crosses your threshold without earning a shelf, postcard and stub and dated jar, each with its story ready.
 fortuneMost2: Someone names a city and out comes the long sweet tangent — the rained-out week, the café with the broken chair, told pause for pause.
@@ -32,12 +32,12 @@ facetLowTitle: The Crust at Its Best Day
 facetLow: A bonfire's roaring on the beach and someone hands you a bundle of old letters to feed it. You toss them in, watch them curl, and go back to the song around the flames.
 facetLeastTitle: Sugar, No Grain Remaining
 facetLeast: New in a city where nobody knows a thing about you, you're asked at a bar who you are. You leave the whole backstory unsaid and answer only with what's true right now.
-question: At dinner, a new friend asks you to tell them about yourself. You...
-answerMost: open with the summer of 2009 and trust them to keep up
-answerHigh: pick the long story that explains the most about you
+question: A grandchild on your lap points at an old photo and asks who that was. You...
+answerMost: start in the summer of 1971 and trust them to keep up
+answerHigh: pick the one long story that explains the most about her
 answerMid: give the short version and let them ask
-answerLow: deflect with "what about you?"
-answerLeast: say "not much to tell" and pass the bread
+answerLow: say "an old friend" and turn the page
+answerLeast: say "no one you'd know" and close the album
 rorschachMost: a scrapbook fanned open across a table
 rorschachHigh: a map with every old route still inked
 rorschachMid: a spool of thread half unwound

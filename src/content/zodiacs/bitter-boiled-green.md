@@ -8,9 +8,9 @@ dish: Minestrone - green beans and puntarelle.
 quote: The important thing is not to stop questioning beans.
 creature: coati
 friendlyBeans: [kidney, pinto]
-antiBeans: [butter, fava]
-friendlyForm: smoked
-antiForm: fermented
+antiBeans: [butter, chickpea]
+friendlyForm: fried
+antiForm: dried
 seasonalFortune: A broth that never quite finishes simmering — puntarelle still uncoiling, the bitter green bean still giving up its second flavour. Days here keep asking a further question of themselves.
 fortuneMost: There's a real question under the polite first one, and it's yours to ask.
 fortuneMost2: A stranger with a strange life is sitting near you, holding a thread nobody else thought to pull.
@@ -32,12 +32,12 @@ facetLowTitle: The Bowl, as Served
 facetLow: Bow taken, the magician keeps the trick to herself. Let the secret stay a secret — clap, and don't go hunting for the wire.
 facetLeastTitle: The Unstirred Broth
 facetLeast: Mid-tale, a friend lets the ending dangle, plainly on purpose. So you leave it dangling, turn the talk to something lighter, and sleep fine atop the part you were never told.
-question: A stranger at a dinner party mentions, in passing, that they used to be a smokejumper. You...
-answerMost: keep them talking for the rest of the night
-answerHigh: ask the obvious follow-up and then a sharper one
-answerMid: ask one polite question and let it go
-answerLow: nod and circle back to the food
-answerLeast: change the subject so they don't feel cornered
+question: In the sunlit makerspace, the person at the next bench is calmly soldering something that looks an awful lot like a small detonator. You...
+answerMost: lean over and don't stop asking until you've got the whole story
+answerHigh: open with the obvious question, then push toward the sharper one
+answerMid: ask what it's for and leave it at their answer
+answerLow: wonder about it privately and go back to your own work
+answerLeast: decide it's none of your business and look away
 rorschachMost: a shell coiling inward to a hollow at its centre
 rorschachHigh: an eye peering into a spiral opening
 rorschachMid: a round stone with a curled notch in it

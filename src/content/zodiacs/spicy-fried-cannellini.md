@@ -7,9 +7,9 @@ trait: ambitious
 dish: Spicy cannellini and ricotta fritters with Calabrian chili.
 quote: Shoot for the bean. Even if you miss, you will land among the legumes.
 creature: eagle
-friendlyBeans: [edamame, fava]
-antiBeans: [black, pinto]
-friendlyForm: dried
+friendlyBeans: [navy, fava]
+antiBeans: [butter, fava]
+friendlyForm: fermented
 antiForm: smoked
 seasonalFortune: A season that runs hot from the first crackle. Oil climbs fast, ricotta thickens under pressure, and the fritter sets gold before the pan has cooled — every day asking what comes next.
 fortuneMost: When the offer comes, take its larger version.
@@ -32,12 +32,12 @@ facetLowTitle: Ricotta on the Counter
 facetLow: There's a bare shelf where something could go and a year to fill it. You leave the gap as it is and feel no pull to make it more.
 facetLeastTitle: The Bean Before the Fire
 facetLeast: A stranger on the ferry asks where you're headed and what for. You realise the honest answer is nowhere in particular, and that sits fine.
-question: A vague opportunity comes up at a party — bigger than your current thing, but only half-real. You...
-answerMost: have a follow-up coffee booked before you leave the party
-answerHigh: send a "great talking, here's a thought" email by morning
-answerMid: tell two friends about it and see how it sounds out loud
-answerLow: file it away and wait to see if they reach out
-answerLeast: forget the conversation by the time you find your coat
+question: A card on the hostel board wants one more climber for a summit push leaving at dawn — serious, a stretch, maybe beyond you. You...
+answerMost: pen your name in before bed and pack by torchlight
+answerHigh: find the leader at breakfast and ask what they need
+answerMid: turn it over for a day, weighing the gear and the odds
+answerLow: think you'll catch the easier route next week instead
+answerLeast: read it, sip your coffee, and let dawn leave without you
 rorschachMost: a beanstalk reaching past the top edge
 rorschachHigh: an owl stretching tall off its perch
 rorschachMid: a chess piece standing on a narrow base

@@ -7,9 +7,9 @@ trait: steeped
 dish: Smoked mung bean congee with century egg, ginger, and crispy shallots.
 quote: We do not bean from experience — we bean from reflecting on experience.
 creature: tea frog
-friendlyBeans: [butter, cannellini]
+friendlyBeans: [butter, black]
 antiBeans: [edamame, green]
-friendlyForm: fermented
+friendlyForm: boiled
 antiForm: fried
 seasonalFortune: A slow stretch of low heat. The kitchen carries last month's smoke into this one, and the household learns the smell as weather.
 fortuneMost: The chair stays where it's always sat, and guests learn the route around it.

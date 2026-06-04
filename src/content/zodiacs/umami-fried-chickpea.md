@@ -8,9 +8,9 @@ dish: Crispy chickpeas with fish sauce, toasted garlic, and lime.
 quote: Do not wait to strike till the bean is hot, but make it hot by striking.
 creature: pika
 friendlyBeans: [green, kidney]
-antiBeans: [black, navy]
+antiBeans: [cannellini, butter]
 friendlyForm: fermented
-antiForm: dried
+antiForm: smoked
 seasonalFortune: A life lived a quarter-hour ahead of itself — garlic sliced before the oil is poured, the lime halved before anyone thinks to ask.
 fortuneMost: Garlic sliced before the oil's poured, the lime halved before anyone asks.
 fortuneMost2: The spare key cut, the fridge stocked, the need met before it announced itself.
@@ -32,12 +32,12 @@ facetLowTitle: Lime When Someone Calls
 facetLow: A puzzle stumps the table and your hand twitches to solve it — but you sit back and let someone else find their own way to the answer.
 facetLeastTitle: Garlic in Its Skin
 facetLeast: A neighbor's garden runs wild in a shape you'd never plant, and you leave it be — it isn't yours to tidy.
-question: You're visiting a friend's apartment and notice their kitchen drawer is a mess of tangled utensils. You...
-answerMost: empty it and reorganize it while they're brewing coffee
-answerHigh: mention you'd be happy to sort it next time you're over
-answerMid: think about doing it, do nothing
-answerLow: assume they like it that way
-answerLeast: don't even register that it could be otherwise
+question: At your mother's, you spot a drift of unopened bills, a couple stamped in red. You...
+answerMost: sit down with her then and there and work through the whole pile together
+answerHigh: flag the red ones and offer to set up a system before you leave
+answerMid: mention it gently and mean to follow up sometime
+answerLow: figure she's got it handled and say nothing
+answerLeast: don't really clock that the pile means anything
 rorschachMost: a cat crouched low, ears up, about to pounce
 rorschachHigh: a fox's pricked ears swiveling toward a sound
 rorschachMid: a horned mask resting above a round stone

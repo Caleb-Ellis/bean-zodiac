@@ -7,10 +7,10 @@ trait: hardened
 dish: Louisiana Red Beans and Rice - with mustard greens.
 quote: What lies behind us and what lies before us are tiny matters compared to what lies between beans.
 creature: crocodile
-friendlyBeans: [green, mung]
-antiBeans: [butter, chickpea]
+friendlyBeans: [green, fava]
+antiBeans: [chickpea, pinto]
 friendlyForm: fried
-antiForm: smoked
+antiForm: fermented
 seasonalFortune: The pot dries to its essentials; mustard cures on the stem. What survives the long simmer keeps through winter; softness is the first thing the heat takes.
 fortuneMost: Hold the line you drew.
 fortuneMost2: The storm rolling in passes through you, not into you.
@@ -32,12 +32,12 @@ facetLowTitle: The Wilting Leaf
 facetLow: A sad scene in the film catches you off guard and your throat tightens. You let the tears come instead of blinking them down, wet cheeks and all in front of the others.
 facetLeastTitle: The Give in the Skin
 facetLeast: A stranger's small unkindness on the bus could roll right off, but it doesn't — it gets under your skin and sits there, the whole ride colored by it, soft to the world in a way no shell ever covered.
-question: Bad news lands in your inbox before a meeting you can't move. You...
-answerMost: walk into the meeting and don't mention it
-answerHigh: file it away, deal with it tonight
-answerMid: read it once, close the tab, carry on
-answerLow: tell the person next to you before going in
-answerLeast: cancel the meeting and call someone
+question: The cave-tour lights cut out and the guide goes quiet; somewhere ahead water is rising over the only path back. You...
+answerMost: take the lead in the dark, feel the wall, and move everyone forward, jaw set
+answerHigh: ride it out cold and methodical, counting the way back by touch
+answerMid: hold steady and let the fear pass through you
+answerLow: feel your stomach drop and grip the nearest rock
+answerLeast: call out for the guide and start to come apart
 rorschachMost: a sealed stone beside a closed shell
 rorschachHigh: a smooth nut and a dented helmet
 rorschachMid: a pebble and a spiky chestnut husk

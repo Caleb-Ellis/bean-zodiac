@@ -7,8 +7,8 @@ trait: steely
 dish: Bessara - fava beans with cumin and bitter harissa.
 quote: That which does not bean me makes me stronger.
 creature: iron wolf
-friendlyBeans: [black, edamame]
-antiBeans: [cannellini, green]
+friendlyBeans: [kidney, edamame]
+antiBeans: [green, butter]
 friendlyForm: boiled
 antiForm: fermented
 seasonalFortune: A season cured to the bone. The harissa keeps its sting in the jar, and the fava holds shape against a long, patient grinding.
@@ -32,12 +32,12 @@ facetLowTitle: The Softened Harissa
 facetLow: You're aching and someone offers to carry the heavier bag. You hand it over and let them, the relief real and taken whole.
 facetLeastTitle: The Sanded Rim
 facetLeast: Horizontal in the sun, treats within reach, a whole day that asks nothing of you and you ask nothing back — luxuriating in the plain ease of it.
-question: It's hour six of a hike and the weather turns. The car is still two hours out. You...
-answerMost: pull the hood up and keep the pace
-answerHigh: shoulder the heavier pack and press on
-answerMid: stop briefly, eat something, carry on
-answerLow: suggest the shortcut back
-answerLeast: call for a lift from the next ridge
+question: Hot afternoon, the long charity bike ride, and at mile forty your legs are going and the rest stop is twenty miles off. You...
+answerMost: drop a gear, tuck low, and hold the cadence
+answerHigh: take the front and pull the others along
+answerMid: ease off briefly, take on water, push on
+answerLow: float the idea of the shortcut loop back
+answerLeast: flag the support van at the next layby
 rorschachMost: a spiked mace head against an anvil
 rorschachHigh: an iron saw blade beside a boulder
 rorschachMid: a gear wheel next to a stone

@@ -7,8 +7,8 @@ trait: detached
 dish: Roasted pinto beans with ancho chile, tomato paste, and cumin.
 quote: I have bean watching from a great height for so long.
 creature: albatross
-friendlyBeans: [adzuki, chickpea]
-antiBeans: [black, cannellini]
+friendlyBeans: [mung, adzuki]
+antiBeans: [black, edamame]
 friendlyForm: fermented
 antiForm: dried
 seasonalFortune: Ancho smoke settles into rooms long after the pan has cooled. A season for watching steam rise off other people's plates without reaching across the table.
@@ -32,12 +32,12 @@ facetLowTitle: Tomato Paste, Hands in
 facetLow: A toddler thrusts a half-built block tower at you, demanding you play. You get down on the floor and into the game, no part of you hovering above it taking notes.
 facetLeastTitle: Bean Into Sauce
 facetLeast: The concert crowd surges into one swaying mass — and the border between you and the strangers just dissolves. You move with all of them, watching nothing, part of the heap.
-question: You arrive at a long dinner where the seat at the head and a seat one chair back are both free. You...
-answerMost: take the one chair back, where you can watch the whole table
-answerHigh: take a quiet seat near the end, smile, settle in
-answerMid: take whichever is closest, don't think about it
-answerLow: take the head, lean in, pour wine
-answerLeast: pull a chair right next to whoever's loudest
+question: You board a near-empty late bus; the front seats and a spot at the very back are both open. You...
+answerMost: take the far back corner, as much empty bus between you and everyone as there is
+answerHigh: pick a quiet seat by the window and settle in
+answerMid: drop into whichever's nearest, don't think about it
+answerLow: sit up front, nod to the driver
+answerLeast: take the seat right beside the one other talker aboard
 rorschachMost: an island and a curled boat far off its shore
 rorschachHigh: a sleeping bear and a coiled snake well apart
 rorschachMid: a haystack and a knotted rope across a gap

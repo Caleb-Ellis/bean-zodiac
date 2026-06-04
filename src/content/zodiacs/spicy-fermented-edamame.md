@@ -7,9 +7,9 @@ trait: inventive
 dish: Edamame with spicy fermented black bean sauce and sesame.
 quote: I'm a great bean believer in luck, and I find the harder I work, the more I have of it.
 creature: kea
-friendlyBeans: [kidney, green]
+friendlyBeans: [chickpea, adzuki]
 antiBeans: [mung, butter]
-friendlyForm: fried
+friendlyForm: smoked
 antiForm: boiled
 seasonalFortune: Brine darkens in the crock through weeks no one watches. Salt does the work of hours; the household eats from a season's quiet labor.
 fortuneMost: One of the things fermenting in parallel is ripe right now.

@@ -7,10 +7,10 @@ trait: liminal
 dish: Smoked chickpea broth with bitter cress, unresolved.
 quote: Not all those who bean are lost.
 creature: will-o-the-wisp
-friendlyBeans: [fava, cannellini]
-antiBeans: [mung, navy]
+friendlyBeans: [pinto, cannellini]
+antiBeans: [navy, edamame]
 friendlyForm: roasted
-antiForm: roasted
+antiForm: dried
 seasonalFortune: A season spent at the lip of the bowl. Smoke loiters above the cress, the broth half-claimed; the cook lingers in doorways, neither leaving the kitchen nor sitting down.
 fortuneMost: Coat still on, unhurried, at home on the threshold.
 fortuneMost2: You're already half-gone from the thing you only just reached.
@@ -32,12 +32,12 @@ facetLowTitle: Broth Poured, Bowl Chosen
 facetLow: A tattoo you've sketched for years sits ready at the artist's. You go in and get it inked, letting one mark settle the question for good.
 facetLeastTitle: Smoke Gone Cold
 facetLeast: A volunteer crew needs a captain for the whole season, no subbing out. You put your hand up, take the clipboard, and own every week of it.
-question: At a friend's housewarming, someone offers you the comfy chair by the fire. You...
-answerMost: thank them and stay by the door with your coat on
-answerHigh: perch on the arm and keep one eye on the hallway
-answerMid: sit for a song, then drift back to the kitchen
-answerLow: take the chair, take your coat off, take a second drink
-answerLeast: kick your shoes off and ask whose record this is
+question: Dusk on a long hike, and there's a cabin that takes walkers in for the night. You...
+answerMost: pitch your tent in the yard within sight of it and keep walking at first light
+answerHigh: take a bunk but leave the pack laced and by the door
+answerMid: stay the night, share a meal, slip off before the others wake
+answerLow: take a bunk, unpack properly, settle in for a rest day
+answerLeast: ask if they need a hand and end up staying the week
 rorschachMost: two travelers pausing at a gate between fields
 rorschachHigh: two figures stalled at the doorway, neither in
 rorschachMid: two boulders set apart on the heath

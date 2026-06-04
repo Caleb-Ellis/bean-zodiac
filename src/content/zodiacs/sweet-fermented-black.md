@@ -7,10 +7,10 @@ trait: contemplative
 dish: Black bean and white miso caramel tart — sweet miso folded into caramel over a black bean base, baked until just set.
 quote: I think, therefore I am a bean.
 creature: owl
-friendlyBeans: [mung, fava]
-antiBeans: [adzuki, edamame]
+friendlyBeans: [pinto, mung]
+antiBeans: [kidney, green]
 friendlyForm: smoked
-antiForm: dried
+antiForm: fried
 seasonalFortune: A season folded inward, the way miso darkens under its own weight. Sweetness gathers in the unwatched crock; the year keeps its own counsel.
 fortuneMost: A thought set down and left alone grows a second sentence in the dark, the way miso deepens in its crock.
 fortuneMost2: Sit with the question through the long quiet. Something is fermenting that won't be hurried.
@@ -32,12 +32,12 @@ facetLowTitle: The Last-Minute Miso
 facetLow: The clerk holds up two paint chips, near-identical, and there's a queue forming behind you. Jab a finger at one and carry it to the counter.
 facetLeastTitle: Sugar Hitting the Pan
 facetLeast: Two roads off the trail, no sign, the light going. Your boots pick one and you're already walking it.
-question: Someone in the group asks for your opinion on something you've been quietly turning over for weeks. The room is waiting. You...
-answerMost: say you'll send something through tomorrow, and mean it
-answerHigh: open with "a few things to think about" and start at the longest of them
-answerMid: pick the one piece you're surest of and lead with that
-answerLow: say the first thing that surfaces and watch where it lands
-answerLeast: shrug and go with whatever the room already seems to want
+question: Alone on a long night drive, the headlights and the empty road, a decision you've been circling for weeks finally has room to unfold. You...
+answerMost: let it run the whole three hours and arrive with it fully thought
+answerHigh: turn it slowly, mile by mile, in no hurry to land
+answerMid: settle the one part you're surest of and leave the rest open
+answerLow: catch the first answer that surfaces and test it against the dark
+answerLeast: put music on and let the question go for the night
 rorschachMost: a cowled head bowed low over folded hands
 rorschachHigh: a boulder worn round, settled into the hillside
 rorschachMid: a heavy thundercloud massed over the hills

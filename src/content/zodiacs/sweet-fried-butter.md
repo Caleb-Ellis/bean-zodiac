@@ -7,10 +7,10 @@ trait: nonchalant
 dish: Frittelle di fagioli — Tuscan fried white bean fritters, dusted with sugar and drizzled with chestnut honey.
 quote: Whatever, it's beans.
 creature: quokka
-friendlyBeans: [adzuki, navy]
-antiBeans: [cannellini, black]
-friendlyForm: roasted
-antiForm: smoked
+friendlyBeans: [navy, adzuki]
+antiBeans: [kidney, green]
+friendlyForm: boiled
+antiForm: fermented
 seasonalFortune: A season at low heat. Things surface in their own time, are dusted with whatever sugar sits nearest, and eaten warm before anyone asks where the recipe came from.
 fortuneMost: Say yes before you've looked at the week.
 fortuneMost2: A missed train, then coffee while you wait for the next — that's the shape of the days coming.

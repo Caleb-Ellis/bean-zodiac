@@ -7,10 +7,10 @@ trait: extravagant
 dish: Roasted kidney beans with porcini, truffle oil, and thyme.
 quote: I have nothing to declare except my bean.
 creature: peafowl
-friendlyBeans: [fava, mung]
-antiBeans: [black, fava]
-friendlyForm: smoked
-antiForm: fermented
+friendlyBeans: [fava, adzuki]
+antiBeans: [cannellini, black]
+friendlyForm: boiled
+antiForm: smoked
 seasonalFortune: Truffle oil pools darker than the bowl beneath; the season runs long on a single note, and what looked like surplus turns out to be the threshold.
 fortuneMost: Buy the absurd one.
 fortuneMost2: When you show up, show up with weather.
@@ -32,12 +32,12 @@ facetLowTitle: Salt, Nothing Else
 facetLow: The blank wall in the new place is begging to be dressed — you can already see the whole gallery of frames going up. Leave it bare. The quiet of the empty wall turns out to be the thing.
 facetLeastTitle: Truffle at Its Sharpest
 facetLeast: A friend is grieving and you want to do everything. You send three plain words and nothing else, trusting the bareness to carry more than any flourish could.
-question: A friend's birthday is next week and you're at the shop in front of two bottles — a fine one and an absurd one. You...
-answerMost: buy the absurd one and a card the size of a placemat
-answerHigh: buy the fine one and add flowers on the way over
-answerMid: buy the fine one
-answerLow: pick the cheaper of the two and remind yourself it's the thought
-answerLeast: leave without either, text "happy birthday" on the day
+question: An unexpected windfall clears into your account — more than a month's pay, all at once. You...
+answerMost: book the wild trip you'd never normally let yourself have
+answerHigh: spend a generous slice on something splendid, save the rest
+answerMid: treat yourself to one good thing and bank the remainder
+answerLow: tuck nearly all of it away, allow yourself a small reward
+answerLeast: move the whole lot to savings and carry on as before
 rorschachMost: a peacock spilling its whole tail off one side
 rorschachHigh: a frilled head of lettuce bursting out of itself
 rorschachMid: an urn with a spray of curling scrollwork beside it

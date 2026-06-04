@@ -7,10 +7,10 @@ trait: worrisome
 dish: Nokdu juk - Korean mung bean porridge with gochugaru and sesame.
 quote: I have known a great many troubles, but most of them never bean.
 creature: brooding hen
-friendlyBeans: [fava, butter]
-antiBeans: [edamame, pinto]
-friendlyForm: roasted
-antiForm: fried
+friendlyBeans: [fava, pinto]
+antiBeans: [edamame, adzuki]
+friendlyForm: smoked
+antiForm: dried
 seasonalFortune: A pot held just below the boil. The household of this bean keeps its days at low simmer, every burner watched, the gochugaru tasted twice before it goes in.
 fortuneMost: Say the three worst-cases out loud.
 fortuneMost2: The noticing that won't switch off is why nothing important ever runs out around you.

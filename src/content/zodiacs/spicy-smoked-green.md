@@ -7,10 +7,10 @@ trait: untethered
 dish: Judías verdes con jamón ahumado - Andalusian green beans with smoked ham and pimentón.
 quote: A great bean follows a little spark.
 creature: wandering albatross
-friendlyBeans: [edamame, pinto]
-antiBeans: [butter, fava]
-friendlyForm: fried
-antiForm: dried
+friendlyBeans: [pinto, kidney]
+antiBeans: [navy, butter]
+friendlyForm: fermented
+antiForm: boiled
 seasonalFortune: Pimentón scents a kitchen long after the pan is cold; the heat outlives whatever called for it.
 fortuneMost: You catch the urgency before anyone in the place has named it, and the day reshuffles to be ready.
 fortuneMost2: No fixed chair; you drift to wherever the light's gone warm.
@@ -32,12 +32,12 @@ facetLowTitle: Ham on Its Own Clock
 facetLow: Friends swing by the porch to sweep you off to something across town. You wave them on and stay with the slow thing already in your hands, content to miss it.
 facetLeastTitle: Smoke in a Still Room
 facetLeast: There's a dull fence that's needed mending for ages and a hundred brighter things calling. You pick up the hammer and give the whole day to the fence.
-question: You wake up with a free Saturday and no plans. You...
-answerMost: walk out the door and decide the day on the train
-answerHigh: pick a neighbourhood you don't know and head there
-answerMid: text two friends and see what sticks
-answerLow: do the chores you've been putting off and call it satisfying
-answerLeast: stay in bed with a book and don't get dressed until four
+question: Sunny morning, engine running, and a friend with a van says — pick a direction, any direction, and we'll just go. You...
+answerMost: point at the horizon, no destination, and let the road decide the day
+answerHigh: name a coast you've never seen and aim roughly at it
+answerMid: suggest two places and let the petrol gauge choose
+answerLow: pick somewhere with a plan, a car park, and a time to be back
+answerLeast: say you'd rather stay in and have the morning to yourself
 rorschachMost: a hot-air balloon lifting off its basket
 rorschachHigh: a dandelion head loosing its seeds upward
 rorschachMid: a mushroom with a round cap and stem

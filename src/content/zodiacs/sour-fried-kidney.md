@@ -8,7 +8,7 @@ dish: Rajma tikki with imli chutney - pan-fried Indian kidney bean patties with 
 quote: In the beginning was the bean, and the bean was with argument, and the bean was argument.
 creature: magpie
 friendlyBeans: [green, fava]
-antiBeans: [butter, fava]
+antiBeans: [cannellini, adzuki]
 friendlyForm: fermented
 antiForm: smoked
 seasonalFortune: A patty pressed against a hot pan keeps its shape by refusing the oil; the tamarind stays sour beside it, and neither softens the other.
@@ -32,12 +32,12 @@ facetLowTitle: Onions Before the Spice
 facetLow: A cab driver insists, wrongly, that your shortcut doesn't exist. You shrug, let them take the long way, and watch the city go by.
 facetLeastTitle: The Quiet Pan
 facetLeast: A relative repeats a flat-wrong version of a story you were in. You leave the false version standing and pass the bread.
-question: At a dinner, someone confidently states a fact that you know is wrong. It isn't important. You...
-answerMost: correct it on the spot and cite the source
-answerHigh: say "I don't think that's quite right" and offer the version you have
-answerMid: ask a question that lets them notice the error themselves
-answerLow: log it, say nothing, look it up later to be sure
-answerLeast: nod and move on; the dinner was about something else
+question: The ref blows a call against you in the local match and the whole game hinges on it. You...
+answerMost: get in his face and argue it line by line till he caves
+answerHigh: protest hard, lay out exactly what you saw
+answerMid: say your piece once, then play on under protest
+answerLow: mutter it to a teammate and let it go
+answerLeast: shrug, his call, get on with the game
 rorschachMost: a figure leaning in, jaw thrust forward
 rorschachHigh: a chess bishop tipped toward its rival
 rorschachMid: a fence post worn narrow at the middle

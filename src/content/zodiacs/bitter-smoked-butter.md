@@ -7,9 +7,9 @@ trait: adrift
 dish: Smoked butter bean with bitter herb oil.
 quote: We are such stuff as beans are made on.
 creature: jellyfish
-friendlyBeans: [black, mung]
+friendlyBeans: [mung, black]
 antiBeans: [green, kidney]
-friendlyForm: boiled
+friendlyForm: fermented
 antiForm: fried
 seasonalFortune: Smoke takes hours to settle into fat, and longer still to leave it. The season favours those who absorb without noticing, and notice long after the source has gone cold.
 fortuneMost: A long thought is towing you out toward the water.

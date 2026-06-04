@@ -7,9 +7,9 @@ trait: opinionated
 dish: Adzuki bean crispy rice cakes with bitter orange syrup.
 quote: Well-beaned Beans are always dangerous.
 creature: macaw
-friendlyBeans: [kidney, green]
+friendlyBeans: [edamame, green]
 antiBeans: [mung, black]
-friendlyForm: fermented
+friendlyForm: roasted
 antiForm: smoked
 seasonalFortune: A season that rewards the cook who pulls the cake the moment it crackles. Bitter rind sharpens early; what hesitates in the pan goes soft at the edge.
 fortuneMost: Your first read is the true one, crisp the instant it hits the oil.

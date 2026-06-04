@@ -7,10 +7,10 @@ trait: judgmental
 dish: Crispy navy beans with bitter chicory and anchovy.
 quote: Do not judge others before you have walked a mile in their beans.
 creature: goshawk
-friendlyBeans: [black, cannellini]
-antiBeans: [chickpea, pinto]
-friendlyForm: boiled
-antiForm: fermented
+friendlyBeans: [edamame, black]
+antiBeans: [pinto, chickpea]
+friendlyForm: dried
+antiForm: roasted
 seasonalFortune: The oil runs hot and the chicory blackens before it bends. A season that crackles at the edges, where verdicts arrive faster than the anchovy can salt them.
 fortuneMost: The read you closed for cause was sound.
 fortuneMost2: Your eye caught the chair askew, the coat where it shouldn't be, and you weren't wrong.
@@ -32,12 +32,12 @@ facetLowTitle: Oil Slow, Bean Steady
 facetLow: A stranger is short and curt with you at the post office counter. Instead of marking them rude, you figure they're probably having a rough one and let it go without a verdict.
 facetLeastTitle: Leaves the Cook Kept
 facetLeast: A neighbour's been spreading a story about you that isn't quite fair. You shrug it off, wave when you pass, and decline to keep any ledger on them at all.
-question: A new acquaintance shows up late to the second dinner in a row and offers no excuse. You...
-answerMost: close the file; there won't be a third
-answerHigh: note it sharply and let the warmth cool a notch
-answerMid: clock it, say nothing, leave the door slightly ajar
-answerLow: assume something's going on and check in privately
-answerLeast: forget by dessert and book the next one
+question: The plumber you called turns up an hour late, tracks mud through the hall, and fixes the leak in four minutes flat. You...
+answerMost: decide he's a slob and find someone else next time, leak or no leak
+answerHigh: thank him coolly and dock him a star in your head
+answerMid: note the mud, note the speed, call it even
+answerLow: figure the traffic wasn't his fault and judge him on the work
+answerLeast: tip him for the quick fix and forget the rest by teatime
 rorschachMost: a clam clamped tight around its hinge
 rorschachHigh: a fist closed hard over something held
 rorschachMid: a smooth heart-shaped river stone

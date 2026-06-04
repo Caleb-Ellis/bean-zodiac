@@ -7,9 +7,9 @@ trait: philosophical
 dish: Hatcho miso shiru - adzuki simmered in two-year aged hatcho miso with silken tofu.
 quote: I think, therefore I am a bean.
 creature: great grey owl
-friendlyBeans: [pinto, chickpea]
-antiBeans: [black, navy]
-friendlyForm: roasted
+friendlyBeans: [chickpea, pinto]
+antiBeans: [navy, cannellini]
+friendlyForm: smoked
 antiForm: dried
 seasonalFortune: Crocks sit in the dark and the paste turns slowly inward. The season favours what has been thinking a long time — broth gathering weight in the pot, depth accumulating below the lid.
 fortuneMost: A question you set down two years ago comes back thickened, dark, and ready.

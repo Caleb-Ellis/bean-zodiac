@@ -7,9 +7,9 @@ trait: insightful
 dish: Soy and mirin roasted black soybeans with ginger and star anise.
 quote: The only true wisdom is knowing you know nothing about beans.
 creature: snowy owl
-friendlyBeans: [adzuki, mung]
-antiBeans: [kidney, green]
-friendlyForm: smoked
+friendlyBeans: [adzuki, butter]
+antiBeans: [green, edamame]
+friendlyForm: fermented
 antiForm: fried
 seasonalFortune: A season for the slow stare. Glaze hardens over what matters; the season belongs to those willing to crack it and read what cooled underneath.
 fortuneMost: You saw it early and you're right. Say it out loud — the answer's been waiting on your voice the whole time.
@@ -32,12 +32,12 @@ facetLowTitle: Soy, No Second Layer
 facetLow: An old friend's smile is doing something complicated tonight, and you can feel the thread to pull. Leave it un-pulled and let them have the evening unread.
 facetLeastTitle: The Cracked Skin
 facetLeast: A documentary lays out a tidy theory of why a city fell. You take the clean story at face value and don't go digging for the seam underneath.
-question: A friend tells a story at dinner that doesn't quite line up with one they told last month. You...
-answerMost: name the discrepancy gently and watch what they do with it
-answerHigh: ask one clarifying question that points right at the seam
-answerMid: file it away, keep listening
-answerLow: let it pass and bring it up another time, maybe
-answerLeast: forget you noticed before dessert arrives
+question: Giving your account to the officer about the crash you saw, you catch your own memory shifting from how you told it an hour ago. You...
+answerMost: stop and flag the part that just moved, on the record
+answerHigh: ask to back up and pin down the one detail that slipped
+answerMid: note the wobble to yourself and keep your story steady
+answerLow: let the smoother version stand and move on
+answerLeast: sign the statement without rereading it
 rorschachMost: a lantern throwing sparks out one cracked side
 rorschachHigh: a coal still licking flame from its edge
 rorschachMid: a dark stone with smoke trailing off it

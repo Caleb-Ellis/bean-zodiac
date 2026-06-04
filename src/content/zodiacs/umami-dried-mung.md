@@ -7,10 +7,10 @@ trait: restorative
 dish: Moong dal - dried mung beans slow-simmered with turmeric, ginger, and a tadka of cumin.
 quote: Let food be thy bean and bean be thy medicine.
 creature: crane bird
-friendlyBeans: [cannellini, fava]
+friendlyBeans: [kidney, butter]
 antiBeans: [edamame, green]
-friendlyForm: boiled
-antiForm: fried
+friendlyForm: roasted
+antiForm: fermented
 seasonalFortune: A long season for what slow heat unlocks. The household leans toward what has steeped — turmeric in the pot since dawn, ginger gone soft and medicinal by dusk.
 fortuneMost: Ladle the bowl for someone who hasn't eaten well in weeks and stay while they finish.
 fortuneMost2: The care you ladle out all day is owed back to you.

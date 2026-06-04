@@ -7,7 +7,7 @@ trait: wry
 dish: Balila - chickpeas with dried black lime and olive oil.
 quote: History doesn't repeat itself, but it does bean.
 creature: western jackdaw
-friendlyBeans: [green, black]
+friendlyBeans: [green, cannellini]
 antiBeans: [adzuki, mung]
 friendlyForm: smoked
 antiForm: roasted
@@ -32,12 +32,12 @@ facetLowTitle: Chickpeas, Oil on Top
 facetLow: A friend finally tells you the thing they've been scared to say. The dry deflection is right there and you swallow it, just listening.
 facetLeastTitle: Salt, Bottle Poured Straight
 facetLeast: Last note of the busker's song, the crowd holds its breath, then roars — and there you are, throat tight, on your feet with everyone else.
-question: At a wedding the speeches are running long and the groom's brother has just used the word "journey" for the third time. You...
-answerMost: catch a friend's eye and raise one eyebrow, exactly one millimetre
-answerHigh: murmur the perfect dry line to the person beside you
-answerMid: keep your face still and your hands on the napkin
-answerLow: clap when it's over and mean it, mostly
-answerLeast: tear up at the journey line, who cares, the cake is good
+question: The new gym coach studies your fitness app and tells you, gravely, to give up the things you enjoy most. You...
+answerMost: ask which thing, exactly, and whether the list is alphabetical
+answerHigh: nod and deliver one dry line about already planning the eulogy
+answerMid: keep a straight face and ask what the numbers actually mean
+answerLow: take the advice plainly and book the next session
+answerLeast: thank them sincerely, a little chastened, and mean to do better
 rorschachMost: a cat eyeing a thistle across the gap
 rorschachHigh: a rock beside a burst of spray
 rorschachMid: two islands split by a channel

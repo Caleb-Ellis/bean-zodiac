@@ -10,7 +10,7 @@ creature: river otter
 friendlyBeans: [adzuki, pinto]
 antiBeans: [fava, cannellini]
 friendlyForm: roasted
-antiForm: dried
+antiForm: smoked
 seasonalFortune: A long blanch under sugared steam. The days simmer light and keep their bounce; the season hums where it ought to rest.
 fortuneMost: Smuggle one small joke into the serious thing and leave it there.
 fortuneMost2: One ridiculous aside from you, and a sunk dinner floats again.
@@ -32,12 +32,12 @@ facetLowTitle: The Slow Steep
 facetLow: Someone's telling you something that actually matters and you can feel a quip loading. You swallow it, hold their eye, and the next thing you say comes out plain and true.
 facetLeastTitle: The Bill Split Clean
 facetLeast: At the graveside afterward, someone hands you the easy out — a fond, funny memory to lighten it. Wave it off. Stay in the heaviness with them and don't reach for the bright line.
-question: A serious conversation at dinner has gone quiet and slightly heavy. You...
-answerMost: lob the perfect dumb joke and reset the room
-answerHigh: tell the loosely related story that lifts the mood
-answerMid: top up the wine and let someone else speak next
-answerLow: stay quiet and let the silence do its work
-answerLeast: ask the harder follow-up question
+question: Under the planetarium dome the lights drop to a held, reverent hush, your grandmother beside you, and the quiet has gone almost too tight to bear. You...
+answerMost: whisper the daft joke she'd have laughed loudest at
+answerHigh: murmur the warm story the stars remind you of and let it open her up
+answerMid: squeeze her hand and murmur something light about the fake stars
+answerLow: stay quiet, though a grin keeps tugging at you
+answerLeast: sit dead still and let the solemn dark have you completely
 rorschachMost: a rabbit caught mid-hop, ears flying
 rorschachHigh: a sparrow lifting off, one wing up
 rorschachMid: a sun hat tipped on its side

@@ -8,7 +8,7 @@ dish: Roasted green beans with katsuobushi, ponzu, and sesame.
 quote: Curiosity is the bean, always leading to new discoveries.
 creature: ferret
 friendlyBeans: [kidney, pinto]
-antiBeans: [mung, navy]
+antiBeans: [navy, cannellini]
 friendlyForm: fried
 antiForm: boiled
 seasonalFortune: A season of ponzu's slow seep — surfaces shine, and underneath the brine works its long question into the bean.

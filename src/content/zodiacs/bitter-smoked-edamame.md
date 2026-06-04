@@ -8,7 +8,7 @@ dish: Smoked edamame with bitter greens, unseasoned.
 quote: Better to remain silent and be bean than to speak and to remove all doubt.
 creature: clam
 friendlyBeans: [black, cannellini]
-antiBeans: [chickpea, adzuki]
+antiBeans: [pinto, adzuki]
 friendlyForm: dried
 antiForm: roasted
 seasonalFortune: A season spent under low smoke. The reticent pod takes on the fire's character without comment, and the bitter greens beside it ask for nothing.
@@ -32,12 +32,12 @@ facetLowTitle: Where the Lid Lifts
 facetLow: A market vendor short-changes the person ahead of you, who hasn't noticed. You lean in and say it plainly before they walk off.
 facetLeastTitle: The Heaped Edamame
 facetLeast: A seatmate on the long flight is quiet and willing. You open up the whole story of where you're headed and why, the hours filling easily between you.
-question: In a meeting, a colleague confidently states a number you know is wrong. You...
-answerMost: keep it to yourself and let the meeting move on
-answerHigh: wait to be asked, then give the right one in one sentence
-answerMid: catch them after the meeting, quietly, by the lift
-answerLow: raise a hand and offer the correction, briefly
-answerLeast: cut in mid-sentence with the right number and the source
+question: In the sunny museum a stranger strides confidently toward a gallery you know closed an hour ago. They look certain. You...
+answerMost: say nothing and let them go
+answerHigh: wait until they glance back, then point the right way once
+answerMid: mention it's shut as you pass, no more
+answerLow: stop them with a quick word about the closure
+answerLeast: turn round and walk them over to the gallery that's open
 rorschachMost: a hen folded close over a hidden egg
 rorschachHigh: a closed fan resting above a stone
 rorschachMid: a moth settled above a round pebble

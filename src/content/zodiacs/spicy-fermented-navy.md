@@ -8,7 +8,7 @@ dish: Alubias con chorizo - Spanish white bean stew with spicy fermented sausage
 quote: The bean who follows the crowd will usually get no further than the crowd.
 creature: bobcat
 friendlyBeans: [black, butter]
-antiBeans: [chickpea, mung]
+antiBeans: [chickpea, green]
 friendlyForm: dried
 antiForm: roasted
 seasonalFortune: A season of crocks left untouched in cool dark, salt doing its slow work. The cook who trusts the jar walks past it for weeks; the stew arrives ready.
@@ -32,12 +32,12 @@ facetLowTitle: The Spoon Over the Pot
 facetLow: You're joining a group that's been doing this together for years, and you arrive with your own ideas about how it should go. Hang back, watch how they already do it, and fold in before changing a thing.
 facetLeastTitle: Smoke Above the Lid
 facetLeast: A big choice sits in front of you and you genuinely want other people in it. You call around, gather everyone's read, and let the shared verdict carry more weight than your own first instinct.
-question: A group chat is still arguing over where to eat. You're hungry and one place is obviously fine. You...
-answerMost: book it, post the confirmation, eat
-answerHigh: name the choice and say you're heading there
-answerMid: put the option out and wait a few minutes
-answerLow: vote for one and let the chat settle it
-answerLeast: ask everyone what they think before committing
+question: The festival headliner gets pulled and the friends you came with dither in a knot. There's a smaller stage across the field with someone you've wanted to see for years, starting now. You...
+answerMost: head off toward the other stage alone and let them follow or not
+answerHigh: say where you're going and start walking
+answerMid: float the idea and see if anyone bites
+answerLow: go along with whatever the group lands on
+answerLeast: wait for someone else to make the plan first
 rorschachMost: a lone tree apart from the treeline
 rorschachHigh: a single boat clear of the others
 rorschachMid: a hill above its own broad shadow

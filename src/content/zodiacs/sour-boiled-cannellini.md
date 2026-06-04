@@ -8,8 +8,8 @@ dish: Ribollita - Tuscan cannellini with red wine vinegar and cavolo nero.
 quote: Good enough is the enemy of the bean.
 creature: weaverbird
 friendlyBeans: [edamame, navy]
-antiBeans: [mung, fava]
-friendlyForm: smoked
+antiBeans: [mung, green]
+friendlyForm: dried
 antiForm: smoked
 seasonalFortune: "Ribollita is a second boil; the pot returns to itself and the season returns to its measure. What held the first heat holds now. What blurred is shown to have been approximate."
 fortuneMost: Hold the small line and they'll call you pedantic, then lean on the result anyway.
@@ -32,12 +32,12 @@ facetLowTitle: A Generous Pour, Loose Greens
 facetLow: A board game's rules are being half-remembered and bent on the fly. Somebody's clearly fudging it — and you find you couldn't care, the game's fun.
 facetLeastTitle: Whatever Is Near, the Pot on
 facetLeast: Packing for a trip, you grab whatever's near the top of the drawer and zip the bag. No list, no folding system, gone before you've second-guessed it.
-question: A group chat is splitting a bill and someone says "let's just round to twenty each." You are owed eighty pence. You...
-answerMost: open the calculator and post the exact figures, politely
-answerHigh: say "actually it's £18.40" and leave the rest to them
-answerMid: pay the twenty but quietly note who covered what
-answerLow: pay the twenty and forget about it before the bus arrives
-answerLeast: pay extra so the next person doesn't have to think
+question: The cabinet door you built hangs beautifully but for one corner that sits a hair proud — a gap you'd only catch if you went looking. You went looking. You...
+answerMost: take it back off, plane the joint, and reset it until the line is dead true
+answerHigh: shim and adjust it this evening till the gap closes
+answerMid: note it to fix if it starts to bother you
+answerLow: see it, sigh, decide a hair won't hurt anyone
+answerLeast: shut the door and stop staring at it
 rorschachMost: a coastline charted down to each offshore rock
 rorschachHigh: a crab, one claw measured against the other
 rorschachMid: an island with a few small skerries off it

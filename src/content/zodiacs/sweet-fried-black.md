@@ -7,9 +7,9 @@ trait: driven
 dish: Black bean and sweet plantain fritters — mashed black beans and ripe plantain fried together in rounds, crisp outside and sweet within.
 quote: Stay hungry, stay bean.
 creature: husky
-friendlyBeans: [kidney, fava]
-antiBeans: [adzuki, pinto]
-friendlyForm: fermented
+friendlyBeans: [edamame, kidney]
+antiBeans: [adzuki, butter]
+friendlyForm: dried
 antiForm: roasted
 seasonalFortune: A season the oil keeps running hot. Plantains ripen faster than the pan can take them, and the rounds leaving the skillet outpace the ones still mashing.
 fortuneMost: Finish the thing you keep circling, and keep the heat on the one building beside it.

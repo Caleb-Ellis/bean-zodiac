@@ -7,8 +7,8 @@ trait: sociable
 dish: Leblebi - Tunisian roasted chickpeas in spiced broth with harissa and cumin.
 quote: No bean is an island.
 creature: prairie dog
-friendlyBeans: [butter, adzuki]
-antiBeans: [black, navy]
+friendlyBeans: [mung, adzuki]
+antiBeans: [black, green]
 friendlyForm: fried
 antiForm: dried
 seasonalFortune: A season for the long simmer. Harissa deepens in company; the chickpea grows generous in spiced broth, and rooms thicken around those who stay near the pot.
@@ -32,12 +32,12 @@ facetLowTitle: The Single Cooling Chickpea
 facetLow: A whole free evening, and the choice is a packed bar or your own kitchen and a book. The kitchen wins, easily, with only a small pang at the bar you skipped.
 facetLeastTitle: Harissa Sealed in the Jar
 facetLeast: Picture a week off where nobody knows where you are — no plans, no pings, just a road and a rented room. That's not exile to you. That's the holiday.
-question: You meet someone you really click with at a wedding. A week passes and the spark has cooled into a half-drafted text. You...
-answerMost: invite them over for dinner Saturday and add two mutual friends
-answerHigh: send the text, suggest a coffee, pin the calendar invite
-answerMid: send a short hello and see what comes back
-answerLow: leave the draft, figure you'll bump into them at the next wedding
-answerLeast: delete the draft and the contact, the moment was the moment
+question: An aunt you were once close to has drifted to a card-at-Christmas distance, and you feel the gap. You...
+answerMost: ring her up, book a visit, and rope in the cousins while you're at it
+answerHigh: call out of the blue and set a real date to see her
+answerMid: send a long message and see how she answers
+answerLow: mean to reach out and let another season slide by
+answerLeast: leave it; some closeness just runs its course
 rorschachMost: a crowd of figures linking arms in a row
 rorschachHigh: a reef branching out in every direction
 rorschachMid: a sprawling oak with limbs reaching wide

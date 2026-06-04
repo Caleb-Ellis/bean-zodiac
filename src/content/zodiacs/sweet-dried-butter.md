@@ -7,8 +7,8 @@ trait: serene
 dish: Butter bean and honey semifreddo — dried butter beans cooked to silk and folded into whipped honey cream, then frozen.
 quote: Peace begins with bean.
 creature: white crane
-friendlyBeans: [navy, black]
-antiBeans: [green, kidney]
+friendlyBeans: [navy, adzuki]
+antiBeans: [kidney, green]
 friendlyForm: boiled
 antiForm: fried
 seasonalFortune: Honey lowers into cream the colour of pale evening; the freezer keeps its long counsel, and a household sets without anyone tending it.
@@ -32,12 +32,12 @@ facetLowTitle: Honey in a Bright Ribbon
 facetLow: The referee blows a call against your side and the stands erupt. You're up off the bench yelling with the rest before you've thought it through.
 facetLeastTitle: Sugar Before the Whip
 facetLeast: Horn blaring, a driver clips past you and guns it down the road — and you're leaning out the window shouting before the dust has even settled.
-question: A friend calls in tears about something genuinely awful. The line goes quiet, waiting. You...
-answerMost: breathe, let the silence hold them, and stay on the line as long as it takes
-answerHigh: say the steady thing, gently, no advice
-answerMid: listen, sympathise, ask if they want a plan or a hug
-answerLow: start problem-solving by minute two
-answerLeast: cut in with the story of when it happened to you
+question: A car drifts into your lane on the motorway, you brake, it corrects, and the near-miss is already behind you. You...
+answerMost: settle your hands, breathe out once, keep driving at the same speed
+answerHigh: let the jolt pass through and ease back to steady
+answerMid: stay level on the surface, replay it for a mile
+answerLow: grip the wheel and ride the adrenaline for ten minutes
+answerLeast: pull onto the hard shoulder, heart going, hands shaking
 rorschachMost: a pond with no wind on it
 rorschachHigh: a cat asleep in a square of sun
 rorschachMid: a butterfly with both wings open flat

@@ -7,10 +7,10 @@ trait: righteous
 dish: Bissara - Moroccan fava bean soup with lemon and cumin.
 quote: Injustice anywhere is a threat to beans everywhere.
 creature: ibex
-friendlyBeans: [kidney, mung]
-antiBeans: [cannellini, pinto]
+friendlyBeans: [edamame, kidney]
+antiBeans: [mung, cannellini]
 friendlyForm: fried
-antiForm: fermented
+antiForm: smoked
 seasonalFortune: A season for long simmering — favas split slowly under steady heat, and lemon waits to be stirred in. What softens this month earned its softening.
 fortuneMost: Said where it happened, the wrong thing lands.
 fortuneMost2: Sand off the flourish and the bare shape does the work.
@@ -32,12 +32,12 @@ facetLowTitle: Skins and All
 facetLow: Someone who clearly wronged you starts a clumsy explanation. You wave it off halfway through and let the whole thing drop, account unsettled.
 facetLeastTitle: Every Hand That Grew It
 facetLeast: You honestly can't remember who started the old quarrel anymore, and you find you don't want the tally back — being owed never kept anyone warm.
-question: A coworker takes credit, in front of the manager, for an idea that was yours. You...
-answerMost: correct the record in the meeting, calmly and immediately
-answerHigh: email the manager afterwards with the original thread attached
-answerMid: bring it up with the coworker privately first
-answerLow: let it go this once and watch what happens next time
-answerLeast: shrug; the work got done and that was the point
+question: At the sunny school sports day, an official waves a small kid out of the race for lining up in the wrong lane. You...
+answerMost: stand and say out loud the kid should run, so the whole field hears it
+answerHigh: step over and quietly square it with the official
+answerMid: catch the kid's eye and point them to the right lane in time
+answerLow: hope a parent nearer the front sorts it
+answerLeast: stay in your seat; the rules are the rules
 rorschachMost: upper and lower jaws bared to bite down
 rorschachHigh: two scale pans, one held firmly higher
 rorschachMid: two clouds drifting one above the other

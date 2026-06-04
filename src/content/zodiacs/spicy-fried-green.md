@@ -7,10 +7,10 @@ trait: headstrong
 dish: Pad prik khing - Thai stir-fried green beans with red curry paste and kaffir lime.
 quote: Well-bean is that which is done with determination.
 creature: bull
-friendlyBeans: [adzuki, edamame]
-antiBeans: [fava, cannellini]
-friendlyForm: fermented
-antiForm: boiled
+friendlyBeans: [edamame, kidney]
+antiBeans: [fava, pinto]
+friendlyForm: roasted
+antiForm: smoked
 seasonalFortune: A wok left cold too long forgets its own pitch. The season belongs to cooks who strike the pan hot and commit before the paste can argue.
 fortuneMost: Decided is decided.
 fortuneMost2: The paste is in the oil — no taking it back.
@@ -32,12 +32,12 @@ facetLowTitle: Six Hands at the Board
 facetLow: A choice is yours to make and you've half-made it. You sit on it a beat longer and ask the others what they'd do before you lock it.
 facetLeastTitle: Lime Juice After the Flame
 facetLeast: A day out is being planned and your route would be quickest. You let the group's slower, looser plan win and find your own fun inside it.
-question: A group is dithering over where to eat. You...
-answerMost: name the place and start walking; the group catches up
-answerHigh: pick somewhere and tell the chat, no veto window
-answerMid: throw out a suggestion and see if anyone takes it
-answerLow: float two options and let the loudest voice settle it
-answerLeast: wait quietly until somebody else just decides
+question: The trail forks with no sign, the cloud is dropping, and the group stalls there debating. You...
+answerMost: pick the left path and start walking; they catch up or they don't
+answerHigh: call it out loud and set off, no vote
+answerMid: say which way you'd go and see if anyone moves
+answerLow: name both and let the surest voice choose
+answerLeast: hang back until somebody else commits
 rorschachMost: a bull's head lowered, horns curling down
 rorschachHigh: an anchor dug in with both flukes hooked
 rorschachMid: a steer's skull mounted above two horns

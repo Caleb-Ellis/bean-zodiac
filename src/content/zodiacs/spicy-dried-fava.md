@@ -8,9 +8,9 @@ dish: Bessara - Moroccan dried fava bean dip with cumin and chili oil.
 quote: Fortune favors the bean.
 creature: honey badger
 friendlyBeans: [chickpea, mung]
-antiBeans: [green, pinto]
-friendlyForm: fermented
-antiForm: boiled
+antiBeans: [green, navy]
+friendlyForm: smoked
+antiForm: fried
 seasonalFortune: A year that cures hard and serves hot. The dried bean keeps its shape until the chili oil hits, and then a household built on small dares finds the heat it was waiting on.
 fortuneMost: Book the cabin mid-conversation and send everyone the address after.
 fortuneMost2: On the highway before the rest have answered.
@@ -32,12 +32,12 @@ facetLowTitle: The Held Pinch
 facetLow: A trader waves you toward a deal that's only good if you commit this second. You hold off. Ask the price twice. Think it through.
 facetLeastTitle: The Overnight Soak
 facetLeast: Wild plan for tonight, a friend texts, and they want the answer now. Sleep on it, you tell them — the morning version is the one you'll trust.
-question: Someone floats a half-baked idea on a Sunday call — "we should just drive to the coast tomorrow." You...
-answerMost: book the cabin during the call and text everyone the address
-answerHigh: say yes and start figuring out the rest in the car
-answerMid: ask who's actually in and decide from there
-answerLow: float a date two weekends out so it can be planned properly
-answerLeast: laugh, agree it would be nice, and never mention it again
+question: The gorge rope swing — everyone's daring everyone, the drop is real, and it's your turn at the lip. You...
+answerMost: grab the rope and launch off the highest ledge without breaking stride
+answerHigh: take a bold run-up and fling yourself well out over the water
+answerMid: jump from a sensible spot and enjoy it
+answerLow: do the small swing from the low rock just to say you went
+answerLeast: hand the rope on and watch from the bank
 rorschachMost: a bull lowering its horns to charge
 rorschachHigh: a ram reared up, horns flung back
 rorschachMid: a moth with antennae raised, wings spread

@@ -7,7 +7,7 @@ trait: intuitive
 dish: Bindaetteok — Korean mung bean pancakes with bitter herb dipping sauce.
 quote: The intuitive bean is a sacred gift and the rational bean is a faithful servant.
 creature: siamese
-friendlyBeans: [cannellini, butter]
+friendlyBeans: [fava, chickpea]
 antiBeans: [edamame, green]
 friendlyForm: smoked
 antiForm: fried

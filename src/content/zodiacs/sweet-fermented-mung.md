@@ -7,10 +7,10 @@ trait: gentle
 dish: Bánh men — Vietnamese sweet mung bean cakes made with fermented rice wine batter, steamed until just set.
 quote: In a tough world, the most rebellious thing you can do is be a gentle bean.
 creature: doe
-friendlyBeans: [fava, cannellini]
-antiBeans: [edamame, green]
+friendlyBeans: [fava, butter]
+antiBeans: [black, edamame]
 friendlyForm: smoked
-antiForm: fried
+antiForm: dried
 seasonalFortune: A season in which rice wine quietly turns the bean toward sweetness. Steam rises over covered cakes; the work that matters happens beneath cloth, unwitnessed.
 fortuneMost: Find the register that lets the difficult one be wrong without shame.
 fortuneMost2: When the room raises its voice, lower yours.
@@ -32,12 +32,12 @@ facetLowTitle: Batter Before the Bloom
 facetLow: The plan on the table is plainly a bad one and a long apologetic preamble is already forming in your mouth. You skip the cushion and say it's wrong at the volume it deserves.
 facetLeastTitle: The Lifted Lid
 facetLeast: A roomful of people are dancing around the obvious thing nobody will name. You say it flat, no soft landing arranged in front of it, and the air clears.
-question: You're tired in a way you haven't admitted to anyone, and a friend asks how you're doing. You...
-answerMost: smile and ask how they are
-answerHigh: say "a bit knackered, but fine" and steer the talk back
-answerMid: give them the broad outline, no detail
-answerLow: tell them most of it, watching their face for the moment to stop
-answerLeast: tell them the whole of it, including the part you haven't told yourself yet
+question: Your grown child calls, clearly stretched thin themselves, and asks if everything's alright with you — and it isn't, quite. You...
+answerMost: tell them all's well and turn the whole call gently back to them
+answerHigh: admit you're a little tired but wave it off so they won't worry
+answerMid: give them the soft outline and none of the weight underneath
+answerLow: tell them most of it, watching for the point where it lands too hard
+answerLeast: tell them the whole of it, the part you haven't even said to yourself
 rorschachMost: a feather drifting down toward still water
 rorschachHigh: a jellyfish drifting, soft fronds trailing under it
 rorschachMid: a tuft of wool snagged on a fence

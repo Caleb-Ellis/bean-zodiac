@@ -7,10 +7,10 @@ trait: critical
 dish: Cannellini with crème fraîche, capers, and lemon zest.
 quote: You call this bean broth?
 creature: jackdaw
-friendlyBeans: [chickpea, mung]
-antiBeans: [black, navy]
-friendlyForm: dried
-antiForm: dried
+friendlyBeans: [chickpea, adzuki]
+antiBeans: [kidney, navy]
+friendlyForm: smoked
+antiForm: boiled
 seasonalFortune: A long sour cure settles in the crock. The brine grows specific where the sweet months were vague, and small faults rise legible to the surface.
 fortuneMost: You caught the extra half-turn of salt while everyone else was still chewing politely.
 fortuneMost2: The one true thing said without a cushion lands truer than the softened one.
@@ -32,12 +32,12 @@ facetLowTitle: Zest Stirred Away
 facetLow: A clumsy hand-painted sign on a roadside stall, and the wrongness of the lettering is the warm part. You leave it exactly crooked and like the place more for it.
 facetLeastTitle: The Sealed Jar
 facetLeast: A meal arrives at the table done how the cook does it, salt and all. The fixes you'd offer stay folded in your lap, and dinner is just dinner.
-question: A friend cooks you dinner, sets the plate down, and asks how it is. The salt is one full turn over. You...
-answerMost: say "a touch over on the salt" and take the second bite
-answerHigh: name one thing you genuinely loved before mentioning the salt
-answerMid: say it's lovely and reach quietly for the water
-answerLow: say it's lovely and mean most of it
-answerLeast: ask for the recipe
+question: The hotel room you paid a premium for has a stained valance and a tap that won't fully shut. You...
+answerMost: itemise every fault for the front desk and ask to be moved
+answerHigh: report the tap and the stain plainly, expect them fixed
+answerMid: mention the worst of it at checkout, let the rest go
+answerLow: tell yourself it's only one night and say nothing
+answerLeast: decide it's charming and leave a glowing review
 rorschachMost: an apple with one lump spoiling the round
 rorschachHigh: a potato with a sprout poking off-true
 rorschachMid: a stone with a smaller pebble beside it

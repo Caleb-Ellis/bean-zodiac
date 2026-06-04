@@ -32,12 +32,12 @@ facetLowTitle: Lemon at the Last Minute
 facetLow: You're set on cooking the meal you planned when a friend calls with a wilder idea for the night. You drop the recipe and follow them out the door.
 facetLeastTitle: The Hock Surrendered to Broth
 facetLeast: Mid-trip, a stranger describes a road far better than the one you mapped. You tear up the itinerary and take theirs without a second thought.
-question: You've been on a long walk for an hour and the weather is turning. The route home you set out with is the long one. You...
-answerMost: keep going on the original route and arrive wet
-answerHigh: stick to the route but pick up the pace
-answerMid: take the shortcut you know halfway through
-answerLow: cut into a cafe and rethink the rest
-answerLeast: call a cab and abandon the walk
+question: Halfway through the long training run you mapped, the legs are screaming and a much shorter loop home peels off right here. You...
+answerMost: hold the full route you set and finish it however much it hurts
+answerHigh: stick to the route but back the pace off a notch
+answerMid: take the shorter loop you know from here
+answerLow: pull up, walk a bit, and rethink the rest
+answerLeast: bail, drop a pin, and call for a lift
 rorschachMost: a boulder settled and never to be shifted
 rorschachHigh: an anvil squat and fixed on its block
 rorschachMid: a blunt stone resting on the ground

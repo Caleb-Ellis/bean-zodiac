@@ -7,10 +7,10 @@ trait: self-deprecating
 dish: Bindaetteok - Korean mung bean pancakes with a soy and rice vinegar dipping sauce.
 quote: I am so clever that sometimes I don't understand a single bean of what I am saying.
 creature: capuchin
-friendlyBeans: [kidney, cannellini]
-antiBeans: [edamame, adzuki]
+friendlyBeans: [kidney, chickpea]
+antiBeans: [edamame, pinto]
 friendlyForm: roasted
-antiForm: fermented
+antiForm: dried
 seasonalFortune: Oil hits the griddle and the batter hisses into lace. A life of this bean keeps the joke ready before the compliment can settle near the plate.
 fortuneMost: Your own punchline lands first, and that's the gift — anyone else's version of you is slower and unkinder.
 fortuneMost2: You'll name the burnt corner of the pancake before anyone spots it.
@@ -32,12 +32,12 @@ facetLowTitle: Vinegar on the Tongue
 facetLow: Make the case squarely — you're the right one for this job — in the interview, not one self-cancelling joke folded into the answer.
 facetLeastTitle: Sesame and Salt
 facetLeast: A child looks up to you and copies how you do things. You let yourself be the steady example without once cracking wise about your flaws.
-question: Someone at the table compliments a thing you actually worked hard on. The table turns to you. You...
-answerMost: list the parts that didn't quite work before the praise can settle
-answerHigh: laugh and mention the embarrassing part of the process
-answerMid: say thanks and add one honest caveat
-answerLow: say thanks and let the silence hold
-answerLeast: meet their eye, say thank you, and let it land
+question: A stranger stops at your market stall, picks up the thing that took you weeks, and says it's the best on the row. You...
+answerMost: point out the wonky seam before they've finished the sentence
+answerHigh: laugh and tell them how many you ruined getting there
+answerMid: say thanks and add that it's not quite right yet
+answerLow: say thanks and let them keep looking
+answerLeast: hold their eye, say thank you, and name your price
 rorschachMost: a hedgehog curled into a tight defensive ball
 rorschachHigh: a person hunched with the shoulders drawn in
 rorschachMid: a round loaf cooling on the counter

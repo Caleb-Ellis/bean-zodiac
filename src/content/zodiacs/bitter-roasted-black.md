@@ -7,7 +7,7 @@ trait: elegant
 dish: Bisque - roasted black beans with bitter espresso cream.
 quote: Elegance is not about being noticed, it's about being bean.
 creature: gazelle
-friendlyBeans: [navy, adzuki]
+friendlyBeans: [cannellini, adzuki]
 antiBeans: [green, kidney]
 friendlyForm: boiled
 antiForm: fried

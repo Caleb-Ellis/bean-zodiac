@@ -8,8 +8,8 @@ dish: Senate bean soup - navy bean with jalapeño and ham hock.
 quote: Good beans make good neighbours.
 creature: hermit crab
 friendlyBeans: [black, butter]
-antiBeans: [chickpea, adzuki]
-friendlyForm: dried
+antiBeans: [pinto, chickpea]
+friendlyForm: smoked
 antiForm: roasted
 seasonalFortune: A lidded pot keeps its own counsel. The navy bean steeps long in spiced broth before anyone tastes it; warmth thickens inwardly, and the year turns at the stove's pace.
 fortuneMost: The broth's been thickening at the back of the stove for years.

@@ -7,10 +7,10 @@ trait: daydreamy
 dish: Frijoles con leche — pinto beans simmered in sweetened milk with cinnamon and piloncillo until the broth turns pale and dreamlike.
 quote: I have bean a dreamer. I have joined the great company of those who make the imagination of mankind rich.
 creature: butterfly
-friendlyBeans: [adzuki, chickpea]
-antiBeans: [black, kidney]
-friendlyForm: roasted
-antiForm: smoked
+friendlyBeans: [adzuki, navy]
+antiBeans: [kidney, green]
+friendlyForm: smoked
+antiForm: fried
 seasonalFortune: Days steep slow in pale sweetness. Hours soften the way piloncillo dissolves in warm milk, and the ordinary edges of a week blur into something rounder, longer, harder to leave.
 fortuneMost: Draw the picture you've been narrating to yourself, on whatever scrap is to hand, and keep it.
 fortuneMost2: A whole afternoon dissolves into the soft milk of a half-thought, and you'll surface holding the seed of something good.
@@ -32,12 +32,12 @@ facetLowTitle: The Bean That Keeps Its Skin
 facetLow: Chopping onions, the mind already straining toward some brighter elsewhere. Keep it on the board instead — the knife, the smell, the next clean cut — and stay all the way inside the dull little task.
 facetLeastTitle: The Unsweetened Cup
 facetLeast: The party you keep imagining throwing is a glorious thing — the lights, the music, the menu you'll never actually pull off. Scrap it. Invite three people for ordinary takeaway and an evening that's real instead of perfect.
-question: A long train journey, the window seat, no signal. The tea trolley is forty minutes away. You...
-answerMost: build the whole next chapter of an imagined life in the reflection and miss the trolley when it comes
-answerHigh: watch one field go by and start writing a letter in your head to someone you haven't seen in years
-answerMid: drift for a while, then open the book you brought
-answerLow: read the book straight through, glancing up at stations
-answerLeast: get the laptop out and clear the inbox while the connection holds
+question: A warm empty afternoon in the hammock, phone left inside, the whole garden humming. You...
+answerMost: build the whole next chapter of an imagined life in the leaves and let the hours go
+answerHigh: watch one cloud go by and start writing a letter in your head to someone you haven't seen in years
+answerMid: drift for a while, then open the book on your chest
+answerLow: read the book straight through, glancing up at the birds
+answerLeast: go in, get the laptop, and clear the inbox while you're thinking of it
 rorschachMost: a cloud drifting apart at its lower edge
 rorschachHigh: a jellyfish trailing two thin filaments
 rorschachMid: a hill range tapering to a path

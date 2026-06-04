@@ -7,10 +7,10 @@ trait: moody
 dish: Frijoles de olla - pinto beans simmered with chile de árbol.
 quote: I am not moody — I am a bean with feelings.
 creature: tomcat
-friendlyBeans: [adzuki, green]
-antiBeans: [navy, black]
+friendlyBeans: [mung, chickpea]
+antiBeans: [navy, cannellini]
 friendlyForm: roasted
-antiForm: smoked
+antiForm: dried
 seasonalFortune: Their season runs hot then quiet, the pot never the same twice. A chile lifts the broth at noon; by evening it has gone inward, dark and brooding.
 fortuneMost: You feel the weather two rooms off, before anyone else has shivered.
 fortuneMost2: Say your weather out loud, one word, no editorial.
@@ -32,12 +32,12 @@ facetLowTitle: The Same Beans, the Same Hour
 facetLow: A flash of irritation rises at a slow cashier and just as quickly passes. You stay pleasant and don't let it reach your face.
 facetLeastTitle: The Even Laugh
 facetLeast: Same level nod for the good news and the bad, both landing on the same afternoon — and on you go, unchanged either way.
-question: A short message from a friend lands. Reread once and it's neutral; reread again and it stings. You...
-answerMost: type back what's actually in your chest and send it before the heat drops
-answerHigh: draft the hot version, sit with it ten minutes, send a cooler one
-answerMid: leave it an hour, reply when the colour's gone out of it
-answerLow: write something light and move on
-answerLeast: take it at face value and answer the question they actually asked
+question: One sour comment has landed under the thing you spent weeks making and posted this morning. It reads as nothing twice, then on the third pass it bites. You...
+answerMost: fire back everything in your chest before the heat drops
+answerHigh: type the furious reply, sit with it ten minutes, post a cooler line
+answerMid: close the app and answer, if at all, once the colour's gone out of it
+answerLow: thumb past it and keep scrolling
+answerLeast: read it flat, take the one fair point, move on
 rorschachMost: a horned mask shifting between two faces
 rorschachHigh: a dark goblet brimming over its lip
 rorschachMid: a wide vase with two curling handles

@@ -7,10 +7,10 @@ trait: adventurous
 dish: Foul mhammar - Moroccan roasted fava beans with cumin, chili, and charmoula.
 quote: Life is either a daring bean or nothing at all.
 creature: fox
-friendlyBeans: [chickpea, mung]
-antiBeans: [kidney, adzuki]
-friendlyForm: smoked
-antiForm: fermented
+friendlyBeans: [chickpea, black]
+antiBeans: [green, pinto]
+friendlyForm: fried
+antiForm: smoked
 seasonalFortune: A season when the charmoula travels further than the pan it was mixed in. Households of this bean keep the windows open and the kettle moving.
 fortuneMost: The open seat in the car going nowhere in particular has your name on it.
 fortuneMost2: Book the road before you book the way back.
@@ -32,12 +32,12 @@ facetLowTitle: Charmoula Settling Slow
 facetLow: A festival you loved is on again across the country. Tempting — but the local one down the lane would do you just as well this year.
 facetLeastTitle: The Fava in Its Skin
 facetLeast: Handed a blank ticket good for anywhere, you'd trade it without a flinch for a quiet week in the town you already know by heart.
-question: A friend with a campervan calls on a Thursday night - they're leaving at dawn, no plan, three open seats. You'd have to clear the weekend. You...
-answerMost: pack a bag now and message work from the road in the morning
-answerHigh: clear what you can, take the seat, figure the rest out en route
-answerMid: agree to one night, drive back Saturday afternoon
-answerLow: ask where they're going and decide tomorrow morning
-answerLeast: thank them, wave them off, and enjoy the quiet weekend you planned
+question: Stranded by a missed connection, you find a cargo boat at the dock that'll take a passenger to a coast you've never seen, leaving in an hour. You...
+answerMost: hand over the fare and step aboard without asking the return
+answerHigh: take the passage and trust you'll find your way back
+answerMid: ask how often boats return before you commit
+answerLow: note it, then look for a safer route first
+answerLeast: wait at the station for the connection you booked
 rorschachMost: a comet streaming a tail out behind it
 rorschachHigh: a beetle scuttling off toward the edge
 rorschachMid: a stone with frayed lichen trailing one side

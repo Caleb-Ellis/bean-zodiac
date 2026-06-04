@@ -7,10 +7,10 @@ trait: principled
 dish: Fagioli con alici - pan-fried cannellini with anchovies, garlic, and olive oil.
 quote: The arc of the bean universe is long, but it bends toward justice.
 creature: elk
-friendlyBeans: [edamame, navy]
-antiBeans: [chickpea, fava]
+friendlyBeans: [edamame, kidney]
+antiBeans: [adzuki, mung]
 friendlyForm: dried
-antiForm: fermented
+antiForm: smoked
 seasonalFortune: A season for cooks who keep the anchovy in the pan when the room asks them to lift it out. What renders, renders; what stays, stays.
 fortuneMost: The anchovy stays in the pan when the room asks you to lift it out.
 fortuneMost2: The joke only works because someone absent comes off badly, and you're the one who doesn't laugh.
@@ -32,12 +32,12 @@ facetLowTitle: Oil and the Pan It Meets
 facetLow: The rule you set yourself years ago no longer fits the ground you're standing on — and you find you can let it go without it feeling like defeat.
 facetLeastTitle: The Seam the Heat Finds
 facetLeast: A stranger tells their side of a quarrel you've already judged, and you set the verdict down to hear the half you never witnessed.
-question: At dinner, someone tells a story whose punchline only works if a coworker — not present — comes off badly. You...
-answerMost: cut in and say the coworker would tell it differently
-answerHigh: don't laugh, ask the gentle clarifying question
-answerMid: smile politely and change the subject when it ends
-answerLow: laugh, then feel off about it on the walk home
-answerLeast: laugh and add the detail that makes it land harder
+question: On the empty platform you find a wallet, fat with cash, a driver's licence tucked inside. You...
+answerMost: track the address yourself and return it untouched that night
+answerHigh: hand it to the station office, cash and all
+answerMid: take it in, mean to return it, leave it on the side a while
+answerLow: post the card back and quietly keep the notes
+answerLeast: pocket the cash, drop the rest in the bin
 rorschachMost: an anvil planted square, refusing to budge
 rorschachHigh: a clenched fist held perfectly still
 rorschachMid: a walnut sitting whole in its shell

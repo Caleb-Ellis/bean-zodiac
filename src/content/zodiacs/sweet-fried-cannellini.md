@@ -8,9 +8,9 @@ dish: Cannellini zeppole — fried Italian doughnuts with a white bean and ricot
 quote: I am not afraid of storms, for I am learning how to bean my sail.
 creature: chameleon
 friendlyBeans: [edamame, green]
-antiBeans: [butter, mung]
-friendlyForm: dried
-antiForm: fermented
+antiBeans: [black, mung]
+friendlyForm: fermented
+antiForm: smoked
 seasonalFortune: A season of split skins and warm sugar; rooms fill quickly around the bean that arrives still hissing from the oil.
 fortuneMost: Let the compliment out in full, crack in the middle if it cracks.
 fortuneMost2: Warm sugar, split skins, rooms filling fast around you — this is a stretch where what you feel will keep arriving on your face first, and landing.
@@ -32,12 +32,12 @@ facetLowTitle: Ricotta at the Core
 facetLow: Stories keep going round the late table, and there you are trimming yours on the fly, handing over the short version instead of the whole reel.
 facetLeastTitle: The Sealed, Dusted Shell
 facetLeast: Something big happened to you out on a trip. Months on, you've still somehow never gotten around to telling anyone the whole of it.
-question: A friend tells you something hard. There's a long pause. You...
-answerMost: tell them everything you're feeling about it right now
-answerHigh: say "oh god" and reach for their hand, words tumbling
-answerMid: take a breath, then ask what they need
-answerLow: nod and stay quiet, let them keep going
-answerLeast: hold the silence and wait for them to fill it
+question: Crossing the park, you catch the vows of a stranger's wedding and your throat goes tight without warning. You...
+answerMost: stop, let the tears come, and clap when the rest do
+answerHigh: let your eyes shine and linger a moment at the railing
+answerMid: feel it rise, breathe it down, walk a little slower
+answerLow: glance over once and keep your pace
+answerLeast: note it as someone else's day and carry straight on
 rorschachMost: a heron bursting up, wings thrown wide open
 rorschachHigh: a flying squirrel spread mid-glide between trees
 rorschachMid: a bat hanging with its wings half-loose

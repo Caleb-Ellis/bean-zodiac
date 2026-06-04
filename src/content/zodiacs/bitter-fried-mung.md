@@ -7,10 +7,10 @@ trait: cautious
 dish: Pajeon - mung bean pancakes with bitter greens and vinegar dip.
 quote: Look before you bean.
 creature: mouse
-friendlyBeans: [fava, kidney]
-antiBeans: [edamame, adzuki]
-friendlyForm: smoked
-antiForm: dried
+friendlyBeans: [cannellini, navy]
+antiBeans: [fava, edamame]
+friendlyForm: boiled
+antiForm: fermented
 seasonalFortune: Oil is held a beat past shimmer; the season rewards those who let the pan tell them it is ready before the batter goes in.
 fortuneMost: You read a situation the way a cook reads oil, listening for the pitch that means now.
 fortuneMost2: Wait for the moment the pan tells you it's ready, then move clean and quick.

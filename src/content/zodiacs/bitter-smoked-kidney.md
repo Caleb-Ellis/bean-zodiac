@@ -8,9 +8,9 @@ dish: Smoked kidney bean with bitter ember oil.
 quote: I see bean people.
 creature: barn owl
 friendlyBeans: [green, fava]
-antiBeans: [pinto, adzuki]
-friendlyForm: roasted
-antiForm: fermented
+antiBeans: [pinto, navy]
+friendlyForm: fermented
+antiForm: roasted
 seasonalFortune: A season the ember oil clings to long after the coals go cold — kitchens that smell faintly of last winter's fire, and a person walking through them carefully.
 fortuneMost: Take the old photograph out on purpose and hold the burn with its name on it.
 fortuneMost2: Let the old song play all the way through you for once, instead of skipping ahead.
@@ -32,12 +32,12 @@ facetLowTitle: Char Wiped From the Rim
 facetLow: An old voicemail you never deleted plays by accident while you scroll. You hear it out, thumb it closed, and go back to the grocery list mid-line.
 facetLeastTitle: The Skillet Rinsed Early
 facetLeast: Driving past the street where it all went wrong, you don't slow, don't look up at the windows, just keep the radio on and make the green light.
-question: A song from a bad year comes on at the cafe and the room tilts a little. You...
-answerMost: stay in the chair and let the whole song play through you
-answerHigh: go quiet for ten minutes and let your friend not ask
-answerMid: make a joke about the playlist and half-mean it
-answerLow: change the subject, finish the coffee, keep going
-answerLeast: hum along; the year is over
+question: First week in the new flat, you pry up a loose floorboard and there's a stranger's diary tucked under it, the last entry mid-sentence. You...
+answerMost: sit on the floor and read every page until the light goes
+answerHigh: hold it a long while, unable to set it down
+answerMid: read a few entries, keep it on the shelf, leave it alone
+answerLow: flick through, then put it in a drawer and forget it
+answerLeast: drop it in the recycling and lay the board back down
 rorschachMost: a hooded head bowed in a cold room
 rorschachHigh: a shroud bundled and left in the corner
 rorschachMid: a stone worn round by the river

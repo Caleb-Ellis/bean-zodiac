@@ -7,8 +7,8 @@ trait: faithful
 dish: Rajma masala - dried kidney beans in spiced onion-tomato gravy.
 quote: The bean that burns twice as bright burns half as long.
 creature: collie
-friendlyBeans: [green, black]
-antiBeans: [chickpea, butter]
+friendlyBeans: [green, mung]
+antiBeans: [pinto, fava]
 friendlyForm: boiled
 antiForm: fermented
 seasonalFortune: A season of long reductions. The gravy darkens by inches, the onions surrender their water in their own time, and what is begun in this house is finished in this house.
@@ -32,12 +32,12 @@ facetLowTitle: The Spice Tin, Set Down
 facetLow: Twelve names in your contacts you keep warm, all at once, none quite tended. Pick the one that matters most, you decide, and let the other eleven go quiet for now.
 facetLeastTitle: The Emptied Pan
 facetLeast: The argument's over and the door's shut. You crack a window, breathe the cool air, and let the whole thing go cold behind you without a backward look.
-question: A friend who's been distant for almost a year — without anything you can point to — texts you out of the blue asking to catch up. You...
-answerMost: say yes and pick up exactly where you left off, no questions asked
-answerHigh: say yes warmly and look forward to it without bringing up the gap
-answerMid: say yes and gently ask, in person, what the quiet stretch was about
-answerLow: agree to a coffee but keep the bar low until you see how it lands
-answerLeast: leave the message on read until you've decided how you feel about it
+question: Years on, the yearly visit to the grave you promised to keep falls due, and a hard drive and a long week stand between you and the hill. You...
+answerMost: make the drive without a second thought, as you always have
+answerHigh: rearrange the week and go, tired or not
+answerMid: go a few days late but go all the same
+answerLow: light a candle at home this once and mean to go next year
+answerLeast: let the date slip past and tell yourself they'd understand
 rorschachMost: a sunflower head bowed to follow the sun
 rorschachHigh: a watchdog's ruffed head set over its chest
 rorschachMid: a sea urchin resting above a smooth stone

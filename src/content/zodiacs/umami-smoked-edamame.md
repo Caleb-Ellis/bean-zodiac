@@ -7,9 +7,9 @@ trait: prescient
 dish: Smoked edamame with soy tare, bonito, and shichimi togarashi.
 quote: The future belongs to those who bean in the beauty of their dreams.
 creature: augur owl
-friendlyBeans: [cannellini, black]
+friendlyBeans: [black, cannellini]
 antiBeans: [mung, adzuki]
-friendlyForm: fermented
+friendlyForm: dried
 antiForm: roasted
 seasonalFortune: A season cured in hickory, where the salt-tare reaches the tongue a beat before the pod is opened. The kitchen runs half a step ahead of its cook.
 fortuneMost: The answer is folded in your palm before they cross the kitchen.
@@ -32,12 +32,12 @@ facetLowTitle: Soy on Contact
 facetLow: Wander the strange town your first night with no plan at all, and let the streets decide where you end up.
 facetLeastTitle: Salt at the Split
 facetLeast: The letter you've been dreading lands on the mat. Rather than brace, you slit it open and read what it actually says.
-question: A colleague starts walking over to your desk with a vague look. You...
-answerMost: hand them the file they were about to ask for
-answerHigh: open the relevant tab and turn the screen toward them
-answerMid: smile and wait for the question
-answerLow: glance up and say "what's up?"
-answerLeast: keep typing and let them get to it in their own time
+question: Your teenager drifts into the kitchen with a particular quiet you've learned to read. The ask is coming. You...
+answerMost: have the answer ready before the first word lands
+answerHigh: clear a seat and set down what you're holding
+answerMid: look up and wait for it to arrive
+answerLow: catch their eye and say "what's up?"
+answerLeast: keep stirring the pot and let them get to it
 rorschachMost: a snail with eye-stalks raised and probing
 rorschachHigh: an insect's antennae reaching up to test the air
 rorschachMid: a chestnut burr split open on the path

@@ -7,7 +7,7 @@ trait: potent
 dish: Dried green beans rehydrated and dressed with anchovy, capers, and garlic.
 quote: Great beans from little beans do grow.
 creature: minotaur
-friendlyBeans: [kidney, pinto]
+friendlyBeans: [kidney, edamame]
 antiBeans: [butter, mung]
 friendlyForm: fried
 antiForm: boiled

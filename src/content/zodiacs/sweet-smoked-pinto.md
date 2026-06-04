@@ -7,10 +7,10 @@ trait: dreamlike
 dish: Frijoles charros - pinto beans simmered with smoked bacon, chipotle, sweet tomato, and piloncillo.
 quote: Was it a vision, or a waking bean?
 creature: moth
-friendlyBeans: [adzuki, chickpea]
-antiBeans: [fava, navy]
+friendlyBeans: [edamame, fava]
+antiBeans: [kidney, adzuki]
 friendlyForm: fermented
-antiForm: boiled
+antiForm: roasted
 seasonalFortune: A season for what the smoke leaves behind once the pot is cleared — rooms holding chipotle long after supper, piloncillo sweetness drifting through corners no one quite occupies.
 fortuneMost: A line you drop will still be quoted on the porch hours after you've gone home — chipotle hanging in the room long after the pot is cleared.
 fortuneMost2: Tell the story slow, with the strange light still on it, in the order the dream had.

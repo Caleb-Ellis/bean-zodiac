@@ -7,10 +7,10 @@ trait: tactful
 dish: Cannellini al forno con gremolata - oven-roasted cannellini with lemon, parsley, and garlic
 quote: Diplomacy is the art of telling someone their bean is wrong in a way that makes them want to fix it.
 creature: collared dove
-friendlyBeans: [mung, pinto]
-antiBeans: [fava, green]
+friendlyBeans: [mung, navy]
+antiBeans: [black, green]
 friendlyForm: fried
-antiForm: fried
+antiForm: smoked
 seasonalFortune: Roasted cannellini hold their shape because the oven works slow; lemon and parsley arrive at the end. A season for late additions, measured into warmth already settled.
 fortuneMost: The slow oven is your luck this turn — the hard word arrives warm and lands soft.
 fortuneMost2: A note that would have stung in anyone else's mouth comes from yours as the thing they wanted to hear anyway.
@@ -32,12 +32,12 @@ facetLowTitle: Garlic, Raw
 facetLow: There's a blunt way to put it and your usual three cushions around it. This time you hand it over bare and let them adjust to you for once.
 facetLeastTitle: The Unswept Pan
 facetLeast: A stranger on a long delay asks straight out how they're coming across. You give it to them flat, no softening, and let the truth stand where it falls.
-question: A colleague's pitch has a real problem, and they're asking you in the corridor what you thought. You...
-answerMost: praise the bones, name the problem, end on the fix
-answerHigh: name the problem plainly with the warmth pre-loaded
-answerMid: ask a question that lets them find the problem themselves
-answerLow: tell them it was strong and save the note for the doc later
-answerLeast: say it was great and walk on
+question: Your father misjudges the driveway again, and you both feel it; the keys are still in his hand. You...
+answerMost: sit him down, name what you saw, and frame the next step together
+answerHigh: say gently that it's time to talk about the driving
+answerMid: float a question about the eye appointment instead
+answerLow: decide today's not the day and let it pass
+answerLeast: laugh it off and hand the moment back to him
 rorschachMost: a hooded figure inclining toward a seated one
 rorschachHigh: a robed monk and a folded cloth nearby
 rorschachMid: a hunched bird beside a head of cauliflower

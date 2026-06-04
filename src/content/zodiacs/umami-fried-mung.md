@@ -7,9 +7,9 @@ trait: serious
 dish: Bindaetteok - Korean mung bean pancakes with kimchi and soy dipping sauce.
 quote: Life is too important to be taken bean.
 creature: moose
-friendlyBeans: [fava, chickpea]
-antiBeans: [edamame, black]
-friendlyForm: boiled
+friendlyBeans: [fava, black]
+antiBeans: [edamame, pinto]
+friendlyForm: smoked
 antiForm: dried
 seasonalFortune: A season that asks for the long burner. Days settle the way oil settles in a cold pan — slowly, and toward the bottom.
 fortuneMost: Oil settling toward the bottom of a cold pan, slow and whole.

@@ -7,8 +7,8 @@ trait: surgical
 dish: Dashi-smoked edamame with ponzu - edamame cold-smoked over kombu and served in citrus soy
 quote: First, do no bean.
 creature: kingfisher
-friendlyBeans: [cannellini, green]
-antiBeans: [mung, chickpea]
+friendlyBeans: [cannellini, fava]
+antiBeans: [adzuki, butter]
 friendlyForm: dried
 antiForm: roasted
 seasonalFortune: A season for cold smoke and clean citrus. The pod gives up what it has and nothing more; ponzu finds the seam an honest blade already knew.
@@ -32,12 +32,12 @@ facetLowTitle: The Pod's Careful Opening
 facetLow: A project's nearly done and the tidy thing is to close it out tonight. Instead you leave a few threads loose on purpose and walk away with them dangling.
 facetLeastTitle: Citrus Pooled Beneath the Shells
 facetLeast: A child asks why the sky goes dark. You take the slow road through it — the whole long answer, none of it trimmed.
-question: A friend wants to break the news of a breakup over coffee and asks for your honest read. You've seen this one coming for months. You...
-answerMost: tell them in one sentence and pay for the coffee
-answerHigh: name the two things that broke it and stop talking
-answerMid: ask three questions, then say the obvious thing
-answerLow: listen for an hour and offer one careful sentence
-answerLeast: listen for an hour and say whatever they need to hear
+question: Your teenage niece slides her phone across the kitchen table, the whole thread there, and asks whether it's over. From the first message you can see that it is. You...
+answerMost: say "it's over" in one sentence and slide the phone back
+answerHigh: point to the two lines that ended it, then stop
+answerMid: ask three questions, then say the plain thing
+answerLow: read it all the way through and offer one careful sentence
+answerLeast: read it all the way through and tell her what she's hoping to hear
 rorschachMost: a heart laid open, one clean incision at top
 rorschachHigh: a peach halved precisely along its cleft
 rorschachMid: a broad leaf notched at the stem

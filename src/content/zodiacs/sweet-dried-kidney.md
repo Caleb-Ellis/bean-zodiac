@@ -7,10 +7,10 @@ trait: adoring
 dish: Habichuelas con dulce — dried kidney beans cooked with coconut milk, sweet potato, raisins, and warm spice into a Dominican Easter dessert.
 quote: The course of true love never did bean smooth.
 creature: lovebird
-friendlyBeans: [fava, pinto]
-antiBeans: [chickpea, pinto]
-friendlyForm: boiled
-antiForm: fermented
+friendlyBeans: [fava, chickpea]
+antiBeans: [black, edamame]
+friendlyForm: roasted
+antiForm: smoked
 seasonalFortune: The dried bean keeps its heat tucked under a wrinkled coat; in this household a feeling, once taken in, simmers for months before it is ladled out.
 fortuneMost: The first ticket stub still in a book by the bed, the song from the bad year and the good one both kept.
 fortuneMost2: A heart drawn over and over in the same ink.
@@ -32,12 +32,12 @@ facetLowTitle: Sweet Potato at Its Corners
 facetLow: Someone toasts you at the party and the whole table turns, glasses up, waiting. You manage a nod and a small thank-you and steer the talk somewhere else.
 facetLeastTitle: The Overnight Soak
 facetLeast: A returning soldier reunites with their dog on the platform and the whole crowd goes misty. You watch it with a faint smile and feel your own pulse stay level.
-question: The person you love does something genuinely annoying — a small selfish thing, not a deal-breaker. Three days later, you're still thinking about how lovely they were the week before. You...
-answerMost: write it off entirely; they were probably tired
-answerHigh: forgive it before they apologise, and forget by Friday
-answerMid: mention it lightly, then let it go
-answerLow: bring it up and want a real answer
-answerLeast: file it under the running list and wait for the next one
+question: The small kid lines up the same clumsy magic trick for the third time this afternoon, beaming, certain it'll astonish you again. You...
+answerMost: gasp on cue and watch like you've never seen it done
+answerHigh: lean in and ask the question that lets them do it once more
+answerMid: clap along warmly and let them get to the reveal
+answerLow: smile but sneak a glance at the clock
+answerLeast: gently say you've seen this one a few times now
 rorschachMost: a heart drawn over and over in ink
 rorschachHigh: two hands reaching for the same flower
 rorschachMid: a lantern hung in a doorway

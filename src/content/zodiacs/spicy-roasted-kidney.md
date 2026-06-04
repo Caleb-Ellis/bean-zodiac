@@ -7,8 +7,8 @@ trait: emotive
 dish: Tandoori rajma - kidney beans marinated in spiced yogurt and oven-roasted.
 quote: The bean is not a logical faculty; it is a faculty of what it wants.
 creature: gibbon
-friendlyBeans: [fava, butter]
-antiBeans: [edamame, chickpea]
+friendlyBeans: [green, mung]
+antiBeans: [edamame, fava]
 friendlyForm: fermented
 antiForm: smoked
 seasonalFortune: The yogurt takes on every spice it meets; the oven gives it back blistered. A season for those who steep loudly and emerge marked by what they touched.
@@ -32,12 +32,12 @@ facetLowTitle: Spice Rubbed In, Then Rested
 facetLow: Furious in the moment, you'd sooner take the long way round the block and let it cool than hand someone the full heat of it.
 facetLeastTitle: Yogurt Cool, Oven Cold
 facetLeast: Grief or joy, you keep it folded small behind a level face — even those closest mostly have to guess the weather you're carrying.
-question: A close friend sends a one-line text that lands wrong — flippant about something you've been quietly stewing on for weeks. You...
-answerMost: ring them immediately and tell them exactly how it landed
-answerHigh: send a long reply now while it's hot
-answerMid: send a short honest reply and wait for their call
-answerLow: leave it overnight and decide tomorrow whether it's worth raising
-answerLeast: let it go, they didn't know, no point making weather of it
+question: The music swells in the packed hall and something in your chest gives way, eyes stinging, strangers all around. You...
+answerMost: let the tears come and don't wipe them away
+answerHigh: let it move through you, breath catching, and don't fight it
+answerMid: feel it fully but blink it back to a held face
+answerLow: swallow it down and fix your eyes on the stage
+answerLeast: shift in your seat and wait for the feeling to pass
 rorschachMost: a kettle boiling over from its spout
 rorschachHigh: a profile with its mouth thrown open
 rorschachMid: a clay pitcher with a small pouring lip

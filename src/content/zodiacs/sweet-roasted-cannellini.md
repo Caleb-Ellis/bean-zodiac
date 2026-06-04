@@ -7,10 +7,10 @@ trait: empowering
 dish: Cannellini roasted in maple and sage — white beans blistered in the oven with maple syrup and fresh sage until caramelised.
 quote: As we let our own bean shine, we unconsciously give others permission to do the same.
 creature: phoenix
-friendlyBeans: [chickpea, pinto]
+friendlyBeans: [mung, adzuki]
 antiBeans: [fava, black]
 friendlyForm: fried
-antiForm: smoked
+antiForm: fried
 seasonalFortune: A season of pooled maple and slow oven warmth, where the amber on one bean teaches the next to brown. Brightness spreads by being near it.
 fortuneMost: The amber on one bean teaches the next to brown — and that's you near anyone trying.
 fortuneMost2: When the quiet one finally speaks, name what they did so it's heard twice.

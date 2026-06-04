@@ -8,7 +8,7 @@ dish: Navy bean and black treacle pudding — beans boiled with treacle, ginger,
 quote: Beware of little bean expenses; a small leak will sink a great ship.
 creature: hamster
 friendlyBeans: [butter, cannellini]
-antiBeans: [pinto, kidney]
+antiBeans: [chickpea, kidney]
 friendlyForm: dried
 antiForm: fried
 seasonalFortune: A season of slow steam and weighed measures. The pudding thickens in increments; sweetness arrives by the spoonful, never the jug, and the pantry counts itself before the kitchen lights.

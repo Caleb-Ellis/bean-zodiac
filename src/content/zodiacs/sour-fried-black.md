@@ -7,8 +7,8 @@ trait: direct
 dish: Black bean tostadas with lime crema - refried black beans on a crisp fried tortilla with sour cream and lime.
 quote: Say what you bean and bean what you say.
 creature: hawk
-friendlyBeans: [edamame, navy]
-antiBeans: [butter, mung]
+friendlyBeans: [fava, green]
+antiBeans: [cannellini, butter]
 friendlyForm: fermented
 antiForm: fermented
 seasonalFortune: Tortillas crisp loud in the pan; nothing here is hidden under sauce. A season for plain saying, for the lime that names what the bean already was.
@@ -32,12 +32,12 @@ facetLowTitle: Oil, Bean, Salt
 facetLow: A teenager is heading for a mistake you can see coming. Rather than say it flat, you ask a few slow questions and let them find the edge themselves.
 facetLeastTitle: The Covered Tortilla
 facetLeast: Cornered about your choices at a crowded gathering, a smile and something soft — the true verdict never gets near your mouth.
-question: A group chat has spent forty minutes debating where to eat. The thread is now bickering about parking. You...
-answerMost: name the restaurant and a time and stop typing
-answerHigh: send the two real options and ask for votes by seven
-answerMid: suggest a place and add "open to other ideas"
-answerLow: react to the most recent message with a thumbs up
-answerLeast: scroll back and weigh in on the parking
+question: The contractor's quote has three vague line items and a number at the bottom that's clearly padded. You...
+answerMost: point at each line and ask him to justify it before you'll sign
+answerHigh: name the two items that don't add up and ask for a redo
+answerMid: question the biggest one and let the smaller padding slide
+answerLow: mention it costs a lot and hope he trims it himself
+answerLeast: sign it rather than have the awkward conversation
 rorschachMost: a spearhead pointed straight up from its broad base
 rorschachHigh: a chess pawn standing alone on the board
 rorschachMid: a cypress tree narrowing to a single point

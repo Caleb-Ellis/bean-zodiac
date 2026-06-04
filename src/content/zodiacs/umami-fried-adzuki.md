@@ -9,8 +9,8 @@ quote: Anything that gets your bean racing is worth doing!
 creature: andalusian
 friendlyBeans: [edamame, kidney]
 antiBeans: [black, butter]
-friendlyForm: roasted
-antiForm: fermented
+friendlyForm: fermented
+antiForm: smoked
 seasonalFortune: Their days run hot at the edges; what they love is loaded into the pan whole, and what they don't never reaches the flame.
 fortuneMost: The oil's already screaming when you tip the rice in. Everything you love goes in whole.
 fortuneMost2: Give the long voice note, the toast that runs three minutes over, the gift with no occasion.

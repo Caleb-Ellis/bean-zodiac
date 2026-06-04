@@ -7,10 +7,10 @@ trait: shrewd
 dish: Falafel with sumac onions - fried chickpea patties served with tangy sumac-pickled onions.
 quote: Politics is the art of looking for trouble, finding it everywhere, diagnosing it incorrectly, and applying the wrong beans.
 creature: fennec fox
-friendlyBeans: [green, kidney]
-antiBeans: [black, cannellini]
+friendlyBeans: [kidney, adzuki]
+antiBeans: [cannellini, butter]
 friendlyForm: fermented
-antiForm: boiled
+antiForm: dried
 seasonalFortune: A season cured in vinegar. The shrewd nose finds the angle early; sumac stains the fingers of those who handled the deal before its name was spoken.
 fortuneMost: The face after the offer is the real answer, not the offer.
 fortuneMost2: A gathering lays itself out for you before the second round is poured — who owes whom, who's halfway out the door.
@@ -32,12 +32,12 @@ facetLowTitle: Faith and Chickpea Flour
 facetLow: Phone handed to a stranger at the bus stop for one quick call — no angles run first, just trust extended on the spot.
 facetLeastTitle: Onions in Their Jar
 facetLeast: An old rival suddenly offers to help with no strings named. You take the offer at its word and simply say yes.
-question: At a dinner, the host casually mentions they're "thinking of leaving the job" in a tone that could be anything. You...
-answerMost: name three reasons you suspect already and check which one lands
-answerHigh: ask the follow-up that sorts venting from decided
-answerMid: say "oh wow" and wait to see what they offer next
-answerLow: nod warmly and change the subject to give them room
-answerLeast: take it at face value and ask what they'll do with the extra time
+question: At the sunlit antiques market a charming dealer warms you up over the stall, then names a "today only" price on the piece you came for. You...
+answerMost: clock which compliment the price is riding on and steer straight at it
+answerHigh: ask the one question that separates a real bargain from a setup
+answerMid: stay easy and let them show more before you commit to anything
+answerLow: hear them out and haggle, mostly at face value
+answerLeast: take the charm as charm and say it sounds great
 rorschachMost: a cat curled tight with one ear still cocked
 rorschachHigh: a coin purse drawn shut around its weight
 rorschachMid: a smooth river stone with one chipped edge

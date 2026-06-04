@@ -9,7 +9,7 @@ quote: Fortune favours the bean.
 creature: lion
 friendlyBeans: [cannellini, fava]
 antiBeans: [mung, butter]
-friendlyForm: dried
+friendlyForm: boiled
 antiForm: fermented
 seasonalFortune: A pan kept hot favours the cook who commits. The season belongs to the pleat sealed before the filling cools, the gesture made while the oil still talks back.
 fortuneMost: Speak first into the quiet and the whole table arranges itself around it.
@@ -32,12 +32,12 @@ facetLowTitle: Steam, Let to Lift
 facetLow: A debate kicks off at dinner and everyone waits to see who jumps in. You let two others go first and find their footing before you weigh in.
 facetLeastTitle: The Sauce at the Rim
 facetLeast: Something needs saying to a room and you can feel it. You hold off, trusting that whoever's closest to it will speak before you have to.
-question: In the meeting, the room goes quiet after a difficult question. You...
-answerMost: answer immediately, before anyone has cleared their throat
-answerHigh: speak up after a beat — somebody has to
-answerMid: offer a half-thought and invite someone to finish it
-answerLow: wait to hear what two other people think first
-answerLeast: stay quiet; if it mattered, someone with better information would speak
+question: At the packed summer lido a swimmer two lanes over goes under and doesn't come back up. The deck freezes. You...
+answerMost: you're in the water before anyone's even looked round
+answerHigh: move after a beat — somebody has to
+answerMid: half-rise, shout for the lifeguard
+answerLow: wait to see if someone closer goes in first
+answerLeast: stay on your towel; surely a guard's already on it
 rorschachMost: a lone peak jutting up off a flat ridge
 rorschachHigh: two rams squaring off across a gap
 rorschachMid: two hills with a low pass between them

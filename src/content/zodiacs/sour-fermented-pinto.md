@@ -7,10 +7,10 @@ trait: pessimistic
 dish: Frijoles charros - pinto beans with fermented chipotle, bacon, and lime.
 quote: A bean who expects nothing is never disappointed.
 creature: petrel
-friendlyBeans: [adzuki, green]
-antiBeans: [black, cannellini]
+friendlyBeans: [mung, adzuki]
+antiBeans: [fava, kidney]
 friendlyForm: roasted
-antiForm: dried
+antiForm: boiled
 seasonalFortune: Cures lengthen in this season's cool dark, and the brine grows certain. A charro pot kept long enough teaches the household what souring sounds like before it arrives.
 fortuneMost: The hunch is right this time. The bandage and the spare key were worth packing — you read the turning weather before anyone would admit it was turning.
 fortuneMost2: You can hear the seam starting to split before the pot says a word.
@@ -32,12 +32,12 @@ facetLowTitle: Lime, No Flinch
 facetLow: A new venture asks you to put money in and the outcome's a coin-toss. You back it on the upside you can picture, not the failure you usually lead with.
 facetLeastTitle: The Lid That Pops
 facetLeast: Good news lands and lands clean. You let it be simply good, no turning it over in your hands for the fault line you're sure is somewhere in it.
-question: A friend texts that they have "some news" and asks if you're free to talk tonight. You...
-answerMost: cancel the evening's plans and start rehearsing the supportive sentences
-answerHigh: reply yes and quietly assume the worse of the two likely options
-answerMid: ask which sort of news, in a tone that lets them say neither
-answerLow: reply yes and carry on with your evening
-answerLeast: text back "congratulations!" with the exclamation mark
+question: Your manager messages out of nowhere — got a sec to talk later? — no subject, no smiley, nothing else. You...
+answerMost: spend the afternoon drafting how you'll tell everyone you've been let go
+answerHigh: reply already braced for the worse version of the news
+answerMid: answer flat, expecting it to go neither way
+answerLow: assume it's routine until told otherwise
+answerLeast: figure it's good news they just want to share in person
 rorschachMost: a black storm cloud swelling before it breaks
 rorschachHigh: a heavy oak leaning where the trunk has thinned
 rorschachMid: a round bush massed on a short stem

@@ -7,7 +7,7 @@ trait: resourceful
 dish: Chana masala - chickpea curry with green chilies.
 quote: Necessity is the bean of invention.
 creature: kestrel hawk
-friendlyBeans: [fava, green]
+friendlyBeans: [kidney, green]
 antiBeans: [cannellini, butter]
 friendlyForm: fried
 antiForm: dried
@@ -32,12 +32,12 @@ facetLowTitle: One Pot, One Purpose
 facetLow: Your bike's gears are skipping and you half-know why. You wheel it to the shop and let someone who does this all day sort it.
 facetLeastTitle: The Rinsed Bowl
 facetLeast: A neighbor with a truck is right there when the couch won't fit your car. Just ask them outright for a hand moving it.
-question: A pipe under the sink starts leaking on a Saturday morning. You...
-answerMost: rig something from a takeout container and electrical tape, and call it solved
-answerHigh: dig through the drawer for the bit you remember keeping for exactly this
-answerMid: tighten what you can, set a bucket, look up the rest
-answerLow: book the plumber for Monday and put a towel down
-answerLeast: text the landlord and leave it
+question: You're catering a friend's wedding and an hour before the toast the oven dies with sixty mains half-cooked. You...
+answerMost: rig the cooking across every neighbour's hob and the barbecue and replate the whole menu around what'll work
+answerHigh: improvise a cold-and-grilled version from whatever the kitchen still gives you
+answerMid: hold the courses, push the timeline back, buy yourself an hour
+answerLow: send out the starters again and hope the oven restarts
+answerLeast: serve it as-is and trust nobody looks too closely
 rorschachMost: a packhorse loaded with bundles on splayed legs
 rorschachHigh: a sawhorse stacked with planks and rope
 rorschachMid: a wooden easel standing on three legs

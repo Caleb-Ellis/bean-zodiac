@@ -7,9 +7,9 @@ trait: wispy
 dish: Smoked moong dal with kokum and fresh coconut - Goan dal with kokum fruit and smoked mustard
 quote: My candle burns at both ends; it will not last the bean.
 creature: feather moth
-friendlyBeans: [fava, butter]
+friendlyBeans: [butter, fava]
 antiBeans: [edamame, green]
-friendlyForm: boiled
+friendlyForm: fermented
 antiForm: fried
 seasonalFortune: A season when smoke leaves a room before anyone notices it arrived. Kokum stains the pot faintly; the coconut keeps its own counsel. Tending moves through the house like weather.
 fortuneMost: Keep the one you can still describe out loud an hour on; let the rest cool without ceremony.
@@ -32,12 +32,12 @@ facetLowTitle: Coconut Freshly Cut
 facetLow: A puzzle's spread across the table, two-thirds done, and the easy thing would be to wander off. You stay at it instead, piece by piece, until the last gap closes.
 facetLeastTitle: The Dal Thickening for Hours
 facetLeast: A friend wants to plan something a month out and pins you to a date. You give a firm yes and write it down somewhere you'll actually look.
-question: You sit down on a Saturday morning meaning to finally answer a backlog of personal messages. There are seven open. You...
-answerMost: open the first, draft three sentences, close the laptop
-answerHigh: send two short replies and promise yourself the rest tonight
-answerMid: reply to the easiest three and mark the others unread
-answerLow: write five proper replies and clear half the queue
-answerLeast: clear the queue before lunch and start a new chat
+question: Bright morning, mower hauled out, you've finally started on the lawn you swore you'd cut this week. You...
+answerMost: stop at the first daisy, lie back in the half-cut grass, and watch the clouds for an hour
+answerHigh: do two stripes, drift off to find the secateurs, and never come back
+answerMid: cut the front, leave the back for another day
+answerLow: work steadily up and down till it's all done
+answerLeast: mow, edge, sweep, and rake the clippings before lunch
 rorschachMost: a cat dissolving into fog, only ears left
 rorschachHigh: an owl fluffed loose, edges going to down
 rorschachMid: a fox curled with ears just showing

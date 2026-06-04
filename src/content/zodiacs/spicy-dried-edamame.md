@@ -7,10 +7,10 @@ trait: mordant
 dish: Dried edamame with shichimi togarashi and yuzu salt.
 quote: Be yourself; everyone else is already beaned.
 creature: scorpion
-friendlyBeans: [cannellini, green]
-antiBeans: [mung, chickpea]
-friendlyForm: boiled
-antiForm: fermented
+friendlyBeans: [cannellini, pinto]
+antiBeans: [mung, adzuki]
+friendlyForm: fermented
+antiForm: roasted
 seasonalFortune: A season pared to what survives the drying rack. Soft months fall away as husk; the rest sits salted on the shelf, sharp under any weather it meets.
 fortuneMost: You see the misstatement before they've finished, and the dry line is already loaded.
 fortuneMost2: A season pared down to what survives the drying rack — soft months gone as husk, the rest salted and sharp under any weather.
@@ -32,12 +32,12 @@ facetLowTitle: Pods Left to Swell
 facetLow: A friend's mid-story and loving it, and the fact they just dropped is wrong. Bite down on the correction; ask a question instead and leave them their version.
 facetLeastTitle: Pepper in the Sealed Jar
 facetLeast: Two people beside you are cheerfully, harmlessly wrong about something. The whole conversation goes uncut, and not a single itch to fix it.
-question: At dinner, someone confidently misattributes a quote to the wrong person. The table nods along. You...
-answerMost: correct them, drily, and watch the nodding stop
-answerHigh: name the right source in passing and let them catch up to it
-answerMid: pull up the actual quote on your phone and only show the host later
-answerLow: smile and let the table keep going
-answerLeast: let it stand; you don't need to be the one
+question: A guide at the ruin tells the tour, with total confidence, a date that's off by three hundred years. The group murmurs, impressed. You...
+answerMost: offer the real date drily and watch the murmur die
+answerHigh: name the right century in passing and let the guide catch up
+answerMid: keep the correction for a quiet word at the gift shop
+answerLow: smile and let the group have its wonder
+answerLeast: let it stand; the stones don't care who's right
 rorschachMost: a scorpion's hooked tail beside a bristling burr
 rorschachHigh: a clawed seahorse curling past a spiked star
 rorschachMid: a curled shrimp beside a small splatter

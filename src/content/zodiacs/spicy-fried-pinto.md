@@ -7,8 +7,8 @@ trait: chaotic
 dish: Chimichangas - deep-fried burritos with spicy pinto beans and ancho chili.
 quote: In the middle of every bean lies opportunity.
 creature: tasmanian devil
-friendlyBeans: [adzuki, navy]
-antiBeans: [kidney, fava]
+friendlyBeans: [adzuki, chickpea]
+antiBeans: [black, navy]
 friendlyForm: roasted
 antiForm: boiled
 seasonalFortune: A season of spitting oil and half-folded tortillas; the kitchen of this bean runs hot, loud, and rarely in one direction for long.
@@ -32,12 +32,12 @@ facetLowTitle: The Chimichanga, Whole
 facetLow: A new whim tugs while you're partway through painting a fence. You stay on the fence, brush to the last board, before you let yourself wander.
 facetLeastTitle: One Pot, One Chili
 facetLeast: One small chore is set for the afternoon and a dozen tangents beckon. You do the one chore, plainly, and let the tangents go unfollowed.
-question: A Saturday afternoon opens up, free. You...
-answerMost: start six things at once and see which one survives until evening
-answerHigh: begin the project you've been meaning to, then end up rearranging the kitchen instead
-answerMid: pick two things from a list and bounce between them
-answerLow: choose one thing and finish it
-answerLeast: do the thing already on the calendar for that slot
+question: You set out to cook one simple dinner, and the recipe book falls open on something far more ambitious. You...
+answerMost: start six dishes at once and see which ones are edible by eight
+answerHigh: launch the ambitious one, then get sidetracked pickling the leftovers
+answerMid: pick two things and ricochet between the pans
+answerLow: make the one dish, properly, start to finish
+answerLeast: cook exactly what you came in to cook
 rorschachMost: a bonfire throwing sparks off in every direction
 rorschachHigh: an antlered elk with branches flaring wild
 rorschachMid: a candle guttering, wax slumping down its sides

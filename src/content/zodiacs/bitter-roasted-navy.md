@@ -8,8 +8,8 @@ dish: Roasted navy bean and bitter endive salad with mustard vinaigrette.
 quote: In preparing to bean, I have always found that plans are useless, but planning is indispensable.
 creature: field mouse
 friendlyBeans: [butter, cannellini]
-antiBeans: [chickpea, pinto]
-friendlyForm: dried
+antiBeans: [fava, chickpea]
+friendlyForm: boiled
 antiForm: smoked
 seasonalFortune: A jar of mustard seed kept dry through three winters; the season favours those whose pantries answer questions before they are asked.
 fortuneMost: You set the coat by the door, so the rain finds you already buttoned.

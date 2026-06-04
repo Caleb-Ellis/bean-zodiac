@@ -7,10 +7,10 @@ trait: piquant
 dish: Moong dal - spiced mung bean soup with dried red chilies and mustard seed.
 quote: A spoonful of bean helps the medicine go down.
 creature: chili crab
-friendlyBeans: [black, fava]
-antiBeans: [edamame, chickpea]
+friendlyBeans: [cannellini, adzuki]
+antiBeans: [edamame, black]
 friendlyForm: boiled
-antiForm: fried
+antiForm: smoked
 seasonalFortune: A piquant season. The dried chili keeps its sting long after the pot has cooled, and the house that holds it learns to season lightly, taste often, speak last.
 fortuneMost: Bring the soup first, then the question they've been dodging.
 fortuneMost2: The dried chili keeps its sting long after the pot has cooled.
@@ -32,12 +32,12 @@ facetLowTitle: Long on a Low Flame
 facetLow: A grieving friend circles a choice you can see straight through. The harder words stay behind your teeth; you just keep their cup full.
 facetLeastTitle: Dal Without the Tempering
 facetLeast: A neighbour spills a worry with the fix sitting right there in plain view. Nod, pour them another, and the fix goes unsaid the whole hour.
-question: A friend is venting about a problem you both know is partly their own doing. You...
-answerMost: hand them tea and the one true sentence, in that order
-answerHigh: listen out, then ask the question they've been avoiding
-answerMid: agree it's hard and let the rest sit until next time
-answerLow: sympathize fully and save the harder thought for never
-answerLeast: just nod and pour another glass
+question: A market seller is talking up bruised fruit to an old man who can't see it well, and you're next in the queue. You...
+answerMost: catch the old man's eye and say plainly which crate is the good one
+answerHigh: lean in and ask the seller, lightly, what's wrong with that lot today
+answerMid: wait your turn and quietly steer the old man to the better fruit after
+answerLow: frown at the crate but say nothing, and pick your own carefully
+answerLeast: keep your eyes on your list and let the sale go through
 rorschachMost: a spiky seedpod nestled against a soft loaf
 rorschachHigh: a burr caught in a sleeping dog's fur
 rorschachMid: a small splatter beside an open-mouthed cloud

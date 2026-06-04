@@ -8,7 +8,7 @@ dish: Adzuki bean soup with umeboshi and ginger broth.
 quote: This above all - to thine own bean be true
 creature: flat-coated retriever
 friendlyBeans: [navy, butter]
-antiBeans: [fava, black]
+antiBeans: [black, fava]
 friendlyForm: roasted
 antiForm: smoked
 seasonalFortune: A season pickled in its own salt. The bare broth does the carrying; the cured plum colours every spoonful without needing to be tasted directly.
@@ -32,12 +32,12 @@ facetLowTitle: Umeboshi Placed for Colour
 facetLow: Before the guests arrive you move the lamp, angle the books, leave one thing out that suggests a life you'd like read into the place.
 facetLeastTitle: A Bright Surface, No Broth
 facetLeast: The whole table laughs at a joke that went past you. You laugh in the same key and let it carry you, the missed thread an open question nobody needs answered.
-question: A friend shows you a baby photo and waits for your reaction. The baby looks, objectively, like a small startled potato. You...
-answerMost: say "oh, what a face" and mean it warmly
-answerHigh: pick the one true thing — the hands, the hair — and say only that
-answerMid: smile and ask how the night feedings are going
-answerLow: say "gorgeous" and look a moment longer than needed
-answerLeast: say "the most beautiful baby" before the photo is fully in focus
+question: After the lost match, the kid you coach hangs back by the empty goal and asks, quietly, if they're actually any good. You...
+answerMost: crouch to their level and give them your real read — what's genuinely there and what isn't yet
+answerHigh: name the specific thing they do better than anyone on the team and let it stand
+answerMid: say "course you are" and ruffle their hair on the way past
+answerLow: laugh it off and tell them not to talk daft
+answerLeast: say "you're great, don't worry" while packing up the cones
 rorschachMost: a plain carp laid out whole on the board
 rorschachHigh: a hen settled flat with nothing tucked away
 rorschachMid: a fat fish curling its tail to the left

@@ -7,10 +7,10 @@ trait: high-strung
 dish: Bindaetteok — Korean mung bean pancake with kimchi and gochugaru.
 quote: Beans cannot endure either perfect solitude or perfect society.
 creature: whippet
-friendlyBeans: [kidney, cannellini]
-antiBeans: [edamame, pinto]
-friendlyForm: boiled
-antiForm: fermented
+friendlyBeans: [cannellini, pinto]
+antiBeans: [adzuki, kidney]
+friendlyForm: fermented
+antiForm: dried
 seasonalFortune: The griddle stays hot under the spicy-fried mung; small sounds carry far in such a kitchen. A year spent ready for the next spit of oil.
 fortuneMost: You feel the buzz through the wood before anyone else hears a thing.
 fortuneMost2: Tuned to a frequency the rest of the room can't pick up, you catch it all at once.
@@ -32,12 +32,12 @@ facetLowTitle: Batter Resting in the Bowl
 facetLow: A nagging dread settles in just before bed. You set it on the nightstand for the night, and meet it smaller in the morning.
 facetLeastTitle: The Pancake Cooling on the Plate
 facetLeast: A car alarm goes off and on for an hour outside. You take it as background noise, never once wondering if it's your own.
-question: The phone buzzes face-down on the table during dinner. You...
-answerMost: flip it over mid-sentence — it could be anything
-answerHigh: glance at the lock screen, then keep the conversation going
-answerMid: notice the buzz, ignore it, lose the thread of what you were saying
-answerLow: leave it; you'll check between courses
-answerLeast: didn't hear it; the phone's been in your bag all night
+question: Alone in the house late, a single sharp bang comes from somewhere downstairs. You...
+answerMost: freeze, heart going, already cataloguing exits and the weight of the nearest lamp
+answerHigh: go still and listen hard, every muscle waiting for the second sound
+answerMid: tense, decide it was the cat or the pipes, half-believe it
+answerLow: note it, finish your sentence in your head, go look in a minute
+answerLeast: don't break stride; old houses make noises
 rorschachMost: a moth with both antennae sprung up alert
 rorschachHigh: a cat crouched, ears pricked toward a sound
 rorschachMid: a beetle with two feelers raised

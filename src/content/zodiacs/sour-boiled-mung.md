@@ -8,7 +8,7 @@ dish: Mung bean congee with pickled mustard greens and sesame oil.
 quote: Fiat justitia ruat bean.
 creature: libra crane
 friendlyBeans: [butter, cannellini]
-antiBeans: [edamame, green]
+antiBeans: [green, pinto]
 friendlyForm: smoked
 antiForm: fried
 seasonalFortune: Congee thinned past opinion. The season runs clear — sesame oil floats without weighing in, pickled greens hold their sharpness where they sit. Nothing pulls the pot one way.
@@ -32,12 +32,12 @@ facetLowTitle: Oil Where the Spoon Last Passed
 facetLow: A neighbour you like and a neighbour you don't bring you the same dispute. You catch yourself leaning toward the one you like and decide that's fair enough.
 facetLeastTitle: The Heavier Bowl
 facetLeast: Someone you love is plainly a little in the wrong and just wants you beside them anyway. The even-handed read can wait outside in the cold — you're on their side, whole.
-question: Your best friend tells you, fuming, about a fight with their sibling. As they describe it, you can hear that they were partly in the wrong. You...
-answerMost: lay out both sides as evenly as you'd lay out a stranger's
-answerHigh: agree where they were right, gently flag the part that wasn't
-answerMid: ask one question that lets them notice it themselves
-answerLow: focus on what the sibling did and save the rest for later
-answerLeast: take their side completely and refill their glass
+question: At a fender-bender on the corner, both drivers are out and shouting, and one turns to you — you saw the whole thing — to back them up. You...
+answerMost: give the plain account of what happened, whichever side it helps
+answerHigh: say what you saw, evenly, and let them sort the blame
+answerMid: confirm the one fact you're sure of and stay out of the rest
+answerLow: hedge that it happened fast and you couldn't say for certain
+answerLeast: side with the one who asked first and call it for them
 rorschachMost: a dumbbell with matched weights either end
 rorschachHigh: two hills risen to the very same height
 rorschachMid: a peanut shell pinched in the middle

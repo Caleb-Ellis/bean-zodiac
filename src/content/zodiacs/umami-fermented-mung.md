@@ -7,10 +7,10 @@ trait: poetic
 dish: Doenjang juk - savory mung bean porridge with fermented soybean paste and sesame oil.
 quote: A bean should be more careful of his learning than of the pebble in his shoe.
 creature: nightingale
-friendlyBeans: [fava, cannellini]
-antiBeans: [edamame, green]
-friendlyForm: smoked
-antiForm: fried
+friendlyBeans: [fava, adzuki]
+antiBeans: [edamame, cannellini]
+friendlyForm: roasted
+antiForm: dried
 seasonalFortune: The crock keeps its dark counsel; salt slows the bean into speech. A season for slow language, for what thickens beneath the lid before it is ladled.
 fortuneMost: The line you write this turn is the one someone keeps in a drawer for years.
 fortuneMost2: Phrases everyone else walked past keep collecting in you.

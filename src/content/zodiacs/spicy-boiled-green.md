@@ -7,10 +7,10 @@ trait: zealous
 dish: Sichuan boiled green beans with doubanjiang and peppercorn.
 quote: I have nothing to offer but bean, toil, tears and sweat.
 creature: fox terrier
-friendlyBeans: [kidney, edamame]
-antiBeans: [cannellini, black]
-friendlyForm: roasted
-antiForm: dried
+friendlyBeans: [kidney, fava]
+antiBeans: [butter, cannellini]
+friendlyForm: fried
+antiForm: smoked
 seasonalFortune: A season when the pot is kept at full boil; the peppercorn's numbness settles in slow, and what was urgent at dawn still simmers past dusk.
 fortuneMost: A cause you take up at midnight is still burning by the next one — that's rare and it's real.
 fortuneMost2: Pick one fight and finish it.

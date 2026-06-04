@@ -7,8 +7,8 @@ trait: receptive
 dish: Slow-roasted butter beans with anchovies, garlic, and rosemary.
 quote: The ear of the bean hears all and judges nothing.
 creature: spaniel pup
-friendlyBeans: [adzuki, navy]
-antiBeans: [fava, kidney]
+friendlyBeans: [mung, adzuki]
+antiBeans: [green, fava]
 friendlyForm: boiled
 antiForm: fried
 seasonalFortune: Anchovy salt dissolves into slow fat; rosemary gives up its oil only after hours. A season for things that arrive by accumulation, not announcement.
@@ -32,12 +32,12 @@ facetLowTitle: The Pan Not Done
 facetLow: The group keeps lobbing the where-should-we-eat question back and forth. Just pick the place and say it out loud, even if choosing for everyone feels like overstepping.
 facetLeastTitle: Rooms for Crossing
 facetLeast: Halfway through someone's slow story you've already decided, and you steer the table to the plan before they reach their own ending.
-question: Someone at the dinner table starts telling a story you can already tell is going somewhere awkward. You...
-answerMost: keep your face entirely still and let them find their own way through
-answerHigh: listen with full attention and ask a gentle steering question at the right moment
-answerMid: nod along, see how it lands
-answerLow: cut in with a related anecdote to take the heat off
-answerLeast: change the subject before the next sentence
+question: On the last bus, a stranger beside you starts telling you their whole life, and it's heading somewhere raw. You...
+answerMost: stay open, let them say all of it, hold the quiet between sentences
+answerHigh: listen closely and ask the one question that lets them go deeper
+answerMid: nod along, stay with it, see where it lands
+answerLow: offer a tidy reassurance to ease the weight off
+answerLeast: find your stop early and wish them well
 rorschachMost: a cupped palm opening to catch the rain
 rorschachHigh: a clamshell parting along its hinge
 rorschachMid: a round loaf with one side torn open

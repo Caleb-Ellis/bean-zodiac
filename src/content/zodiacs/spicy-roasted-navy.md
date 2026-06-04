@@ -8,9 +8,9 @@ dish: Loubia bil harissa - Moroccan navy bean tagine with roasted harissa and pr
 quote: Trust thyself - every bean vibrates to that iron string.
 creature: lone wolf
 friendlyBeans: [butter, cannellini]
-antiBeans: [pinto, chickpea]
-friendlyForm: dried
-antiForm: smoked
+antiBeans: [chickpea, pinto]
+friendlyForm: boiled
+antiForm: fermented
 seasonalFortune: A tagine cured by its own use carries every season in its clay. The roasted bean keeps what it has earned, salts itself, asks the pantry for nothing it cannot already name.
 fortuneMost: The bowl arrives sealed and done.
 fortuneMost2: The leak was fixed before anyone clocked it was leaking.

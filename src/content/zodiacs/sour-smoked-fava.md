@@ -7,9 +7,9 @@ trait: biting
 dish: Bessara - Moroccan smoked fava bean purée with harissa, cumin, and preserved lemon
 quote: If you can't stand the bean, get out of the kitchen.
 creature: piranha
-friendlyBeans: [chickpea, black]
+friendlyBeans: [chickpea, pinto]
 antiBeans: [adzuki, cannellini]
-friendlyForm: roasted
+friendlyForm: fried
 antiForm: boiled
 seasonalFortune: Smoke clings to the mortar long after the pestle stills. Preserved lemon darkens; cumin cracks; harissa waits in the corner of the bowl for whoever stirs first.
 fortuneMost: The thing everyone's circling has a name, and naming it is the whole point.
@@ -32,12 +32,12 @@ facetLowTitle: Smoke Into the Wider Room
 facetLow: There's a sharp comeback fully formed and aimed at someone who'd feel it for a week. Swallow it, reach for something duller, and let the clean little hit go unscored.
 facetLeastTitle: The Smoothed Purée
 facetLeast: A driver cuts in front of you and then stalls, flustered, at the light. The cutting remark is loaded and easy; you wave them through instead and let it go.
-question: A relative makes a small, casually unkind remark about another relative at the dinner table. Everyone hears it; everyone keeps eating. You...
-answerMost: name the remark and ask them to repeat it
-answerHigh: ask, evenly, what they meant by that
-answerMid: hold the silence one beat too long
-answerLow: change the subject loudly and move on
-answerLeast: laugh and pass the bread
+question: In the busy square a passer-by dips a hand into the busker's open guitar case and palms a fold of notes, smooth as anything. You saw it. You...
+answerMost: call it out across the square and hold your hand out for it back
+answerHigh: step in front of them and ask, flat and quiet, what's in their fist
+answerMid: hold their eye until they feel it and put it back
+answerLow: catch the busker's attention and let them deal with it
+answerLeast: decide it's not your money and keep walking
 rorschachMost: two jaws gaping wide, teeth set to clamp
 rorschachHigh: two crabs squared off, claws raised
 rorschachMid: two beetles meeting head to head

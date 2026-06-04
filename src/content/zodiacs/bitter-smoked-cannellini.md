@@ -7,8 +7,8 @@ trait: hermetic
 dish: Smoked cannellini with bitter fennel, sealed.
 quote: I want to bean alone.
 creature: snail
-friendlyBeans: [edamame, black]
-antiBeans: [adzuki, pinto]
+friendlyBeans: [black, butter]
+antiBeans: [adzuki, chickpea]
 friendlyForm: dried
 antiForm: roasted
 seasonalFortune: A season cured behind glass. The smoke pools where the fennel was laid down, and the household measures its hours by what stays sealed rather than what arrives.
@@ -32,11 +32,11 @@ facetLowTitle: The Seal Lifted Early
 facetLow: Movers are hauling boxes next door and the family is clearly stranded. You carry over the good toolbox and stay for the awkward middle of it.
 facetLeastTitle: The Unlidded Sill Jar
 facetLeast: Caught in a doorway out of the rain beside someone equally caught, you start the conversation rather than wait it out, and follow it wherever it goes.
-question: The buzzer goes at eight on a Saturday night and you weren't expecting anyone. You...
+question: The buzzer goes at eight on a Sunday night and you weren't expecting anyone. You...
 answerMost: do not move; whoever it is can write
 answerHigh: glance at the camera, recognise no one, and let it ring out
 answerMid: check who it is, decide on the spot, mostly decide no
-answerLow: buzz them up and put the kettle on before you've thought it through
+answerLow: buzz them up, it's probably important
 answerLeast: take the stairs down to meet them and pull on a coat
 rorschachMost: a monk hunched over his folded hands
 rorschachHigh: a figure drawn into a heavy hooded cloak

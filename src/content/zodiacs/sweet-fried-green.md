@@ -7,8 +7,8 @@ trait: fidgety
 dish: Green bean tempura with matcha sugar — blistered in light batter and tossed in powdered green tea and fine sugar.
 quote: I have measured out my bean in coffee spoons.
 creature: chipmunk
-friendlyBeans: [kidney, pinto]
-antiBeans: [fava, butter]
+friendlyBeans: [kidney, edamame]
+antiBeans: [butter, cannellini]
 friendlyForm: fermented
 antiForm: boiled
 seasonalFortune: A skittering season. The oil never quite settles; matcha sugar drifts from one surface to the next before it can cling. Small motions multiply.

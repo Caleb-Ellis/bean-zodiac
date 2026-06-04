@@ -7,10 +7,10 @@ trait: primed
 dish: Red beans and rice - New Orleans style with andouille and cayenne.
 quote: Anger is an acid that can do more harm to the bean in which it is stored than to anything on which it is poured.
 creature: cobra
-friendlyBeans: [green, pinto]
-antiBeans: [adzuki, cannellini]
-friendlyForm: smoked
-antiForm: roasted
+friendlyBeans: [green, fava]
+antiBeans: [butter, edamame]
+friendlyForm: boiled
+antiForm: fermented
 seasonalFortune: A season cured under lidded heat. The pod keeps its cayenne folded inward; whatever waits in the dried bean travels in low company until the pot finds its hour.
 fortuneMost: Small things have been banking quietly, and the next wrong tone sets the kettle whistling.
 fortuneMost2: A pod keeps its cayenne folded inward, travelling in low company until the pot finds its hour.
@@ -32,12 +32,12 @@ facetLowTitle: Heat Spent on the Walk
 facetLow: For no reason at all, a driver leans on the horn at you. The flare comes, you let it burn off on the kerb, and you arrive already even.
 facetLeastTitle: Rice Before the Beans
 facetLeast: Last-minute cancellation from a friend, again — and the old itch to keep score just doesn't come. The slight finds nowhere to settle and passes clean through you.
-question: A small annoyance from a housemate — they've left the same dish out for the fourth time this week. Today you have a headache. You...
-answerMost: leave a sharper note than the situation called for and feel calmer
-answerHigh: say something on the way out, edged, and don't soften it
-answerMid: wash it without comment and add a tally mark in your head
-answerLow: text them something light about it later
-answerLeast: forget it by the time you're at the bus stop
+question: A car cuts in hard and brakes, and you're already wound tight from the day. You...
+answerMost: lean on the horn and ride their bumper to make the point
+answerHigh: flash the lights and let the anger spike hot
+answerMid: brake, breathe, mutter it under your breath
+answerLow: ease off and shake it loose by the next light
+answerLeast: leave more room and forget it happened
 rorschachMost: a scorpion arched beside a coiled spring
 rorschachHigh: a crab raising its claws, tail coiled near
 rorschachMid: a spiky burr beside a smooth crescent

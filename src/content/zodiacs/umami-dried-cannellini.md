@@ -8,8 +8,8 @@ dish: Ribollita - dried cannellini and bread soup with Parmesan rind and lacinat
 quote: A bean is known by the company it keeps.
 creature: stag
 friendlyBeans: [edamame, pinto]
-antiBeans: [adzuki, butter]
-friendlyForm: smoked
+antiBeans: [butter, chickpea]
+friendlyForm: boiled
 antiForm: roasted
 seasonalFortune: A pot left overnight thickens past stew into something with a name. The season rewards what has been kept long enough to be asked for by it.
 fortuneMost: Your bearing reaches the room before you do.
@@ -32,12 +32,12 @@ facetLowTitle: Scattered Crusts
 facetLow: Could you do a thing and want no plaque for it? You repaint the community hall over a weekend, hand back the keys, and don't mention it again.
 facetLeastTitle: Broth at First Boil
 facetLeast: New town, nobody knows you, and the first person you meet asks who you are. Out comes the whole résumé — you watch their eyebrows, hoping for the lift.
-question: A stranger at a dinner asks what you do. The answer involves a few things a careful listener would recognize. You...
-answerMost: say a plain sentence about your morning and let the rest stay offstage
-answerHigh: name the work in general terms and change the subject before the follow-up
-answerMid: tell them the role and one thing you're working on
-answerLow: walk them through the credentials in the order they were earned
-answerLeast: lead with the most impressive line on the CV and watch their face
+question: In the waiting room a talkative stranger asks what you do, and your answer carries weight a careful ear would catch. You...
+answerMost: give a plain line about your week and let the rest stay offstage
+answerHigh: name it in general terms and turn the question back on them
+answerMid: tell them the role and one thing it involves
+answerLow: walk them through the titles in the order you earned them
+answerLeast: lead with the grandest line and watch their face shift
 rorschachMost: a marble bust standing on a heavy pedestal
 rorschachHigh: a wax seal pressed above its crest below
 rorschachMid: a potato resting on a smaller potato

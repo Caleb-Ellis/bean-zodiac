@@ -8,7 +8,7 @@ dish: Rajma - kidney beans with dried Kashmiri chiles and tamarind.
 quote: This isn't even my final bean!
 creature: tiger
 friendlyBeans: [green, fava]
-antiBeans: [butter, cannellini]
+antiBeans: [cannellini, butter]
 friendlyForm: fried
 antiForm: smoked
 seasonalFortune: A season that dries the pod down to its hardest seed. Tamarind keeps its pucker through the long shelf; the chile holds its sting unsoftened by the year.
@@ -32,12 +32,12 @@ facetLowTitle: Long Simmer, Low Flame
 facetLow: A driver cuts you off and leans on the horn like it was your fault. The fight's right there in your chest, and you ease off and let the road have it.
 facetLeastTitle: Chiles Dulled in the Jar
 facetLeast: The person who wronged you years ago turns up, older and unaware, asking directions. You give them clean and friendly, the old score gone quiet.
-question: A grievance from two years ago resurfaces — the person who wronged you has moved cities and stopped replying. You...
-answerMost: write the letter anyway and post it
-answerHigh: hold the line, you don't owe the forgiveness
-answerMid: notice it, set it down, move the laundry
-answerLow: hope they're well, mostly
-answerLeast: forgive them in your head and forget by lunch
+question: A big dog slips its lead and comes at the smaller one you're walking, owner nowhere in sight. You...
+answerMost: plant yourself between them and roar it off
+answerHigh: scoop yours up and stand your ground, no backward step
+answerMid: shout hard and back away keeping yours behind you
+answerLow: pull yours close and hope it loses interest
+answerLeast: freeze and wait for someone else to handle it
 rorschachMost: a thornbush bursting from a smoke plume
 rorschachHigh: a mace head bristling above its shaft
 rorschachMid: a tree crown over a spiky trunk

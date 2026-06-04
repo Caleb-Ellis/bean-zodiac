@@ -7,7 +7,7 @@ trait: solemn
 dish: Feijoada - Brazilian black bean stew with smoked chouriço, carne seca, and bay leaf.
 quote: Ask not what your bean can do for you — ask what you can do for your bean.
 creature: horned owl
-friendlyBeans: [navy, fava]
+friendlyBeans: [cannellini, navy]
 antiBeans: [adzuki, pinto]
 friendlyForm: dried
 antiForm: roasted
@@ -32,12 +32,12 @@ facetLowTitle: Chouriço in a Hot Pan
 facetLow: A wrong charge on the statement. You ring the number, settle it that hour, and don't carry it past lunch.
 facetLeastTitle: Smoke Lifting From the Lid
 facetLeast: Rain comes in halfway down the mountain and you run it whooping, soaked through and glad of it.
-question: Someone tells a joke at dinner and the table laughs. You...
-answerMost: nod once and steer the conversation back to what was being said
-answerHigh: half-smile, then ask the previous speaker to finish their thought
-answerMid: laugh a beat after everyone else and let it pass
-answerLow: laugh with the table and add the next line
-answerLeast: cackle, lean back, and start telling a worse one
+question: Standing at the graveside, mid-burial, someone near you cracks a small joke to break the weight and a few people laugh. You...
+answerMost: keep your eyes on the grave and let the moment stay heavy
+answerHigh: offer the faintest nod and return your gaze to the priest
+answerMid: let a small breath of a laugh pass and look down again
+answerLow: smile with them, glad of the air it let in
+answerLeast: laugh openly and add a line of your own
 rorschachMost: a low thundercloud massing before the rain
 rorschachHigh: a clod of earth trailing torn roots
 rorschachMid: a dark bird's nest in a hedge

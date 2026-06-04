@@ -7,8 +7,8 @@ trait: arrogant
 dish: Crispy navy beans with dashi glaze, bonito flakes, and nori.
 quote: The only true wisdom is knowing you know nothing about beans.
 creature: peacock
-friendlyBeans: [butter, cannellini]
-antiBeans: [chickpea, pinto]
+friendlyBeans: [edamame, butter]
+antiBeans: [chickpea, mung]
 friendlyForm: boiled
 antiForm: smoked
 seasonalFortune: A season that crackles at the edges. The shell does the talking; the dashi underneath is taken on faith, and mostly the faith is warranted.
@@ -32,12 +32,12 @@ facetLowTitle: Nori Gone Limp
 facetLow: You'd usually steer the plan, but the new arrival is seeing what you stopped noticing years back — so you hand them the lead and follow it.
 facetLeastTitle: The Soft Bean in the Platter
 facetLeast: A craft you thought you'd mastered, a beginner does differently and better; you set your way aside and copy theirs outright.
-question: A new colleague proposes an approach that's different from the one you've used for years. You...
-answerMost: explain why your way is better and steer them toward it
-answerHigh: hear them out, then default to your way anyway
-answerMid: try a small piece of their approach to see how it goes
-answerLow: try the whole approach and compare honestly afterwards
-answerLeast: assume they know something you don't and follow their lead
+question: Your grown kid is chopping onions the wrong way, all wrong, the way you've never once done it in forty years at the stove. You...
+answerMost: take the knife and show them how it's properly done
+answerHigh: tell them your way and watch to see if they switch
+answerMid: mention how you'd do it, then let them carry on
+answerLow: watch a minute and admit their pile's coming along fine
+answerLeast: figure they learned a better trick somewhere and ask them to teach you
 rorschachMost: two crowns, one jeweled far higher than the other
 rorschachHigh: two peacocks, one fanning its tail wide
 rorschachMid: two boulders set apart in a field

@@ -7,9 +7,9 @@ trait: authentic
 dish: Ful nabed mashwi - roasted skinned fava beans with lemon, cumin, and fresh coriander
 quote: To be yourself in a world that is constantly trying to make you something else is the greatest bean.
 creature: wolf
-friendlyBeans: [chickpea, butter]
-antiBeans: [kidney, edamame]
-friendlyForm: fried
+friendlyBeans: [chickpea, mung]
+antiBeans: [navy, cannellini]
+friendlyForm: fermented
 antiForm: dried
 seasonalFortune: A season for skins that split under heat. The almanac favors what comes out lemon-sharp, coriander-stung, and refuses to be sweetened on the way to the table.
 fortuneMost: This turn your luck comes lemon-sharp and refuses to be sweetened.
@@ -32,12 +32,12 @@ facetLowTitle: Lemon Folded Into Coriander
 facetLow: You walk into a quiet wake with a sharp opinion already loaded. You read the hush, fold the edge away, and keep it for someone who'll ask later.
 facetLeastTitle: Herbs Over the Char
 facetLeast: Meeting your partner's family for the first time, you bend toward whoever's talking and soften your corners. The evening goes down easy, and you let it.
-question: An interviewer offers you a smoother version of your own answer and waits for you to take it. You...
-answerMost: thank them and restate your original, word for word
-answerHigh: say no, that's not quite it, and give the version you meant
-answerMid: take the half that's right and gently set the rest aside
-answerLow: nod, use their phrasing, and move the conversation on
-answerLeast: agree, repeat their line back, and notice later you've drifted
+question: At the retirement do they hand you the speech, and the room expects the warm, tidy version of the colleague everyone's toasting. You...
+answerMost: paint the real person, prickles and all, and let it sit
+answerHigh: keep the true edges in and soften only the timing
+answerMid: tell the warm parts honestly and leave the spikier ones unsaid
+answerLow: say mostly what the room came to hear
+answerLeast: give them the polished stranger and sit back down quickly
 rorschachMost: an old oak gripping the ground with bare roots
 rorschachHigh: a shrub grown wild, branches left untrimmed
 rorschachMid: a head of broccoli stood on its stalk

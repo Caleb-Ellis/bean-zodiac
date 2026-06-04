@@ -7,7 +7,7 @@ trait: transparent
 dish: Iri-azuki - roasted adzuki beans with yuzu zest and sea salt
 quote: The naked bean is the most decent thing in the world.
 creature: glass frog
-friendlyBeans: [pinto, mung]
+friendlyBeans: [butter, pinto]
 antiBeans: [black, green]
 friendlyForm: fried
 antiForm: smoked
@@ -32,12 +32,12 @@ facetLowTitle: The Foil-Covered Pan
 facetLow: Guests are coming and the back room is a wreck. You shut its door, set out the good cups, and let them have the version that's ready.
 facetLeastTitle: Zest Without the Fruit
 facetLeast: Asked why you did the kind thing, you shrug it off and change the subject. Some reasons feel better kept than handed over.
-question: A friend brings out a haircut they're clearly unsure about and asks what you think. You...
-answerMost: say the true sentence before the door has finished closing
-answerHigh: tell them honestly, gentle on the edges but with the verdict intact
-answerMid: name one thing that works and one that doesn't, and let them weigh it
-answerLow: praise the bits you can mean and let the rest pass
-answerLeast: tell them it suits them and decide later whether you meant it
+question: Back from the vet, your kid looks up from the old dog's bed and asks if she's going to be okay. She isn't. You...
+answerMost: kneel down and tell them the truth in words their age can hold
+answerHigh: say she's very sick and that you'll all look after her together
+answerMid: say the vet is doing everything they can and leave it there
+answerLow: say "let's just give her lots of cuddles" and change the subject
+answerLeast: say "she'll be fine, don't worry" and hope they forget you said it
 rorschachMost: an owl facing you with both eyes open
 rorschachHigh: a cat sitting square, ears up, watching back
 rorschachMid: a russet potato with two knobby sprouts

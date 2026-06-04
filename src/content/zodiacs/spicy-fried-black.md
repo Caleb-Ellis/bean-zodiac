@@ -8,8 +8,8 @@ dish: Tostadas de frijoles negros - fried tortillas with spiced black bean paste
 quote: If you're going through bean hell, keep going.
 creature: mako shark
 friendlyBeans: [navy, kidney]
-antiBeans: [pinto, adzuki]
-friendlyForm: fermented
+antiBeans: [adzuki, mung]
+friendlyForm: dried
 antiForm: roasted
 seasonalFortune: Oil stays hot long after the burner is off; the paste goes on blackening in its own heat. A life lived at that residual temperature — finished things still cooking themselves.
 fortuneMost: The road runs a mile past the plan and the clock tires before your legs do. This is your weather — keep walking.
@@ -36,7 +36,7 @@ question: It's late, the work is done well enough to send, and there's one more 
 answerMost: do two more passes, then sleep at the desk
 answerHigh: make the pass — the "good enough" version was the lazy one
 answerMid: do a fast read-through and send
-answerLow: send it now; tomorrow-you would only soften it
+answerLow: call it done and let the next one carry what this one missed
 answerLeast: closed the laptop an hour ago, mid-sentence
 rorschachMost: an ox lowering its horns to keep pushing
 rorschachHigh: a moth beating upward against a closed window

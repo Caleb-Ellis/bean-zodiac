@@ -7,8 +7,8 @@ trait: forthright
 dish: Yaki edamame with yuzu kosho - oven-roasted edamame with yuzu pepper paste and flaky salt
 quote: All you need in this life is ignorance and beans, and then success is sure.
 creature: mastiff
-friendlyBeans: [cannellini, chickpea]
-antiBeans: [mung, fava]
+friendlyBeans: [pinto, cannellini]
+antiBeans: [black, mung]
 friendlyForm: fried
 antiForm: fermented
 seasonalFortune: The season favors pods that crack on the pan. What was hidden under the shell now salts the air, and rooms around such people learn quickly what they are.
@@ -32,12 +32,12 @@ facetLowTitle: Shells Keeping Their Seed
 facetLow: You can see exactly where a friend's stuck and the whole way out. You hand them one corner of it and leave the rest of the road for them to find.
 facetLeastTitle: Salt Held Back
 facetLeast: The headline is right there, finished, ready to say. You let the thing surface on its own and meet whoever finds it at their own pace.
-question: A friend is talking around a problem they haven't yet seen clearly, and there's a pause. You...
-answerMost: name the problem in one sentence before they take another breath
-answerHigh: say what you think the real issue is and let them push back
+question: Doing the dishes at midnight, your partner keeps circling a complaint about work that plainly isn't about work. They trail off. You...
+answerMost: name what it's really about in one sentence, hands still wet
+answerHigh: say what you think is actually going on and let them push back
 answerMid: ask the question that points at it without spelling it out
-answerLow: hum sympathetically and wait for them to circle in
-answerLeast: change the subject and let them work it out alone later
+answerLow: hum along and keep scrubbing till they find it themselves
+answerLeast: change the subject to the morning and let it sit unspoken
 rorschachMost: a jellyfish driving its tentacles straight down
 rorschachHigh: a rocket trailing fire beneath a round nose
 rorschachMid: an octopus with legs splayed below its head

@@ -8,7 +8,7 @@ dish: Kuru fasulye - Turkish butter bean stew with Aleppo pepper and slow-cooked
 quote: You have power over your bean, not outside events. Realize this, and you will find strength.
 creature: bactrian camel
 friendlyBeans: [navy, mung]
-antiBeans: [green, edamame]
+antiBeans: [chickpea, green]
 friendlyForm: dried
 antiForm: fermented
 seasonalFortune: A long simmer flattens the loudest pepper. The season favours those whose surfaces do not betray what the onion is doing underneath.
@@ -32,12 +32,12 @@ facetLowTitle: Oil From a Hot Pan
 facetLow: A sad ending catches you off guard in the dark of the theater, and your eyes go wet. Why bother wiping them where no one can see?
 facetLeastTitle: The Pepper Flake Bitten
 facetLeast: Stub your toe on the bedframe and the whole house hears about it. The yelp's out before the pain even registers.
-question: Bad news lands across the dinner table, and the room turns to see how you'll take it. You...
-answerMost: ask one practical question and pass the bread
-answerHigh: nod, hold the face, save the reaction for later
-answerMid: say something measured, let a little show
-answerLow: push the plate away and say what you're feeling
-answerLeast: lose it on the spot, fork still in hand
+question: The power dies across the whole building at 2am, the corridor pitch black, and the friend staying over is wide awake and frightened. You...
+answerMost: name the plan in a level voice and start feeling for the torch
+answerHigh: hold steady, talk them through it, keep your hands busy
+answerMid: stay calm out loud while your own pulse climbs
+answerLow: admit you're rattled and grip the bannister tighter
+answerLeast: swear at the dark and brace for it to get worse
 rorschachMost: a vise holding its grip on cold iron
 rorschachHigh: a pair of tongs resting half-open
 rorschachMid: an open clamshell wedged on a rock

@@ -7,8 +7,8 @@ trait: acerbic
 dish: Fava bean dip with dried sumac, raw onion, and olive oil.
 quote: The truth will set you free, but first it will bean you.
 creature: wasp
-friendlyBeans: [chickpea, kidney]
-antiBeans: [navy, cannellini]
+friendlyBeans: [kidney, chickpea]
+antiBeans: [adzuki, butter]
 friendlyForm: fried
 antiForm: boiled
 seasonalFortune: A season pitched at the brightness of sumac — life arrives undiluted, and the company kept tends to be those who can take their food without sugar stirred in.
@@ -32,12 +32,12 @@ facetLowTitle: Onion Resting Under Oil
 facetLow: The amateur choir is flat and the conductor turns, hopeful, for your verdict after the show. The true note in your throat can wait for a better hour.
 facetLeastTitle: Sumac Folded Deep
 facetLeast: That mural on the alley wall stops you cold, genuinely good — and you cross the street to tell the artist so, leading with what works.
-question: A friend asks, in earnest, whether the thing they have spent six months on is any good. It isn't, quite. You...
-answerMost: tell them, plainly, where it falls down
-answerHigh: name the one part that doesn't work and say no more
-answerMid: ask what they think first, then meet them halfway
-answerLow: praise what works and leave the rest for later
-answerLeast: tell them it's wonderful, the rest is detail
+question: A salesman at the door has rehearsed his whole patter and just landed the line he clearly thinks is his best. You...
+answerMost: skewer the line back at him before he can recover
+answerHigh: let one dry remark land and watch it deflate him
+answerMid: raise an eyebrow and ask him to run that part again
+answerLow: nod along and wait for a gap to close the door
+answerLeast: hear him out warmly and take the brochure
 rorschachMost: a toad swollen with one raised barb
 rorschachHigh: a craggy rock with a spur on top
 rorschachMid: a storm cloud trailing a thin wisp

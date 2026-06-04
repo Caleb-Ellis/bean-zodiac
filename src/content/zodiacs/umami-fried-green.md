@@ -7,10 +7,10 @@ trait: overachieving
 dish: Gan bian si ji dou - dry-fried green beans with pork mince, dried shrimp, and garlic.
 quote: Whatever you are, bean a good one.
 creature: dam beaver
-friendlyBeans: [edamame, pinto]
-antiBeans: [butter, cannellini]
+friendlyBeans: [edamame, kidney]
+antiBeans: [black, butter]
 friendlyForm: roasted
-antiForm: boiled
+antiForm: smoked
 seasonalFortune: A season for blistered skins and longer wok-work. The pan keeps asking for one more handful, and the hands keep finding it.
 fortuneMost: The pan keeps asking for one more handful and your hands keep finding it.
 fortuneMost2: The side, the starter, and the backup loaf, all in your arms at the door.
@@ -32,12 +32,12 @@ facetLowTitle: The Wok Gone Cool
 facetLow: The group's walking an easy pace and you could push ahead as always — but you fall in step and let the day be a stroll, not a feat.
 facetLeastTitle: Bean Blanched, Nothing More
 facetLeast: Worn thin, you turn in the bare-minimum version of a thing and feel the unfamiliar ease of leaving good-enough alone.
-question: You're asked to bring a side dish to a casual dinner. You...
-answerMost: bring two sides, a homemade dessert, and a backup loaf
-answerHigh: make the side and add a small starter "just in case"
-answerMid: bring the side, well-made
-answerLow: pick up something nice from the shop on the way
-answerLeast: arrive empty-handed with a vague apology
+question: The rental application asks for one reference. The flat is competitive and the landlord is choosing this week. You...
+answerMost: send four references, a cover letter, and a tidy folder of payslips
+answerHigh: send the one reference plus a second "just in case"
+answerMid: send the one good reference, exactly as asked
+answerLow: list a name and number and leave it there
+answerLeast: put down whoever comes to mind and submit it half-filled
 rorschachMost: a sundae piled higher than its glass holds
 rorschachHigh: a tree crown grown too heavy for its trunk
 rorschachMid: a head of cauliflower on a board

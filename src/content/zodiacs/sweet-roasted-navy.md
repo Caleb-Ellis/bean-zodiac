@@ -7,10 +7,10 @@ trait: conventional
 dish: Maple and sea salt roasted navy beans — white beans roasted until caramelised, finished with a drizzle of cold maple syrup.
 quote: A bean in time saves nine.
 creature: pigeon
-friendlyBeans: [butter, black]
-antiBeans: [chickpea, pinto]
+friendlyBeans: [black, butter]
+antiBeans: [chickpea, fava]
 friendlyForm: dried
-antiForm: smoked
+antiForm: fermented
 seasonalFortune: The oven runs the standard hour at the standard heat. Sweetness gathers under a familiar crust; what comes out is what was meant to come out, and the table sets itself around it.
 fortuneMost: The expected dish, the expected plate, the expected hour.
 fortuneMost2: Pick the bottle you always buy.
@@ -32,12 +32,12 @@ facetLowTitle: The Tray Turned Once
 facetLow: A busker calls for someone to come improvise a verse. The line forms in your head and you let it stay there, hands in pockets.
 facetLeastTitle: The Pan Off the Heat Too Soon
 facetLeast: A stranger holds out two sealed envelopes — one a sure small thing, one unknown. You break the seal on the mystery one without a second thought.
-question: You're choosing the wine for a dinner you're hosting. The shop's specials board has something unfamiliar that the owner recommends. You...
-answerMost: pick the bottle you always buy; it has never let the table down
-answerHigh: take a familiar varietal from a region you know works
-answerMid: get one of each and let the table decide
-answerLow: trust the owner and take the special
-answerLeast: skip wine entirely and serve the homemade infusion you've been meaning to test
+question: A night market in a city you don't know. One stall is grilling something unnameable, the line is long, and a vendor waves you over. You...
+answerMost: find the noodles you recognise and order what you'd order at home
+answerHigh: pick the dish closest to something you've had before
+answerMid: ask what's in it, then decide
+answerLow: trust the line and point at the unnameable thing
+answerLeast: take whatever the vendor hands you and eat it standing up
 rorschachMost: a round loaf set beside its matching slice
 rorschachHigh: an apple resting next to a paper doily
 rorschachMid: a stone beside a clump of moss

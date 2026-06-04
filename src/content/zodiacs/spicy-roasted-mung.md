@@ -7,9 +7,9 @@ trait: clingy
 dish: Bhuna mung - dry-roasted whole mung beans with chili, cumin, and dried mango.
 quote: Love is that condition in which the happiness of another bean is essential to your own.
 creature: koala
-friendlyBeans: [chickpea, butter]
-antiBeans: [edamame, navy]
-friendlyForm: boiled
+friendlyBeans: [butter, chickpea]
+antiBeans: [edamame, kidney]
+friendlyForm: fermented
 antiForm: fried
 seasonalFortune: A season of held heat. The pan crowds with small bodies leaning in, chili threading between them, and nothing in this kitchen cools alone.
 fortuneMost: Reach for no reason — just the small thing you noticed and wanted them to have.

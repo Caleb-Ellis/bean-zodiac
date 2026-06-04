@@ -7,9 +7,9 @@ trait: clever
 dish: Dahi chana - chickpeas with yogurt, tamarind chutney, and chaat masala.
 quote: The secret of being a bean bore is to tell everything.
 creature: raccoon
-friendlyBeans: [adzuki, pinto]
-antiBeans: [navy, butter]
-friendlyForm: smoked
+friendlyBeans: [pinto, adzuki]
+antiBeans: [navy, cannellini]
+friendlyForm: roasted
 antiForm: dried
 seasonalFortune: The brine has been thinking in the dark. What it returns is sharper than the chickpea that went in, and quicker to answer.
 fortuneMost: You've been quietly right on your own long enough.
@@ -32,12 +32,12 @@ facetLowTitle: Plain Chickpeas
 facetLow: There's a slick workaround for the booking and the plain way costs ten dull minutes. You take the dull ten and feel no itch to outsmart it.
 facetLeastTitle: One Ingredient, Bare Counter
 facetLeast: A locked gate, an obvious long way round, and a clever gap in the fence you could spot if you looked. You take the long way and don't go looking.
-question: The team is stuck on a problem in a meeting. You spotted the answer four minutes ago. You...
-answerMost: walk them step-by-step from where they are to where you are
-answerHigh: ask the leading question that lets the next speaker land it
-answerMid: drop the answer in, plainly, and let the room catch up
-answerLow: wait; someone else will say it in a minute
-answerLeast: say nothing — you'll mention it in the doc afterwards
+question: Locked out at midnight, keys inside, and a locksmith wants a fortune to come at this hour. You...
+answerMost: spot the loose bathroom latch and talk yourself in through the back window
+answerHigh: try every card and shim you've got on the door before paying anyone
+answerMid: call the building's night line and see if a spare's on file
+answerLow: phone the locksmith and pay the going rate to be done with it
+answerLeast: book a cheap room for the night and deal with it in daylight
 rorschachMost: a key's teeth meeting a round lock
 rorschachHigh: two gears caught mid-bite at the seam
 rorschachMid: a smooth apple beside a smaller spiky one

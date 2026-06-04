@@ -7,7 +7,7 @@ trait: offbeat
 dish: Chickpea fatteh with shatta - Lebanese flatbread and chickpea dish with Palestinian fermented hot sauce.
 quote: I've lost my damn beans.
 creature: axolotl
-friendlyBeans: [green, adzuki]
+friendlyBeans: [mung, pinto]
 antiBeans: [navy, black]
 friendlyForm: roasted
 antiForm: dried
@@ -32,12 +32,12 @@ facetLowTitle: Chickpeas by the Card
 facetLow: For once the itch to wander off the agreed plan has gone quiet in you. The plain version is fine, and you follow it all the way through without peeling away.
 facetLeastTitle: The Dated, Labelled Jar
 facetLeast: A long table of people you've known for years is mid-laugh at a story you all share. You stay right there in the middle of it, no urge to slip off and find the odd corner of the night.
-question: You're at a friend's party where you know almost everyone. By the door, one stranger is half-watching the room alone. You...
-answerMost: spend the whole night talking to them and lose track of everyone else
-answerHigh: drift over and stay longer than you planned
-answerMid: introduce yourself, then circulate
-answerLow: smile in passing and find your usual people
-answerLeast: stick with the friends you came to see
+question: A six-hour layover in a city you've never set foot in, bag checked through. You...
+answerMost: slip out past the taxis and follow whatever odd street pulls at you
+answerHigh: catch a train two stops out to wherever sounds least like an airport
+answerMid: wander the terminal's far ends and find the one strange corner of it
+answerLow: settle at a gate cafe with a book and let the hours pass
+answerLeast: stay near your bag, watch the boards, and wait it out
 rorschachMost: a path trailing off the road into brush
 rorschachHigh: a kite tugging sideways off its string
 rorschachMid: a potato joined to a clump of dirt

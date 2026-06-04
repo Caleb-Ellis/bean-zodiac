@@ -7,10 +7,10 @@ trait: organized
 dish: Spicy navy bean fritters with smoked paprika and hot sauce.
 quote: For every minute spent organizing, a bean is earned.
 creature: honeybee
-friendlyBeans: [butter, black]
-antiBeans: [chickpea, green]
-friendlyForm: boiled
-antiForm: smoked
+friendlyBeans: [butter, cannellini]
+antiBeans: [chickpea, pinto]
+friendlyForm: dried
+antiForm: fermented
 seasonalFortune: Paprika settles into hot oil; the navy holds its shape under heat. A season for lining things up before the pan calls — small batches, sealed edges, nothing left scattered.
 fortuneMost: Each thing in its place, edges crisp, nothing touching by accident.
 fortuneMost2: The path was cleared in advance, so you move while others hunt for the light switch.
@@ -32,12 +32,12 @@ facetLowTitle: Hot Sauce by Ear
 facetLow: A picnic's been planned to the last fork, then a friend suggests just winging it. You leave the checklist at home and let the day go where it goes.
 facetLeastTitle: Receipts in a Coat Pocket
 facetLeast: A free weekend stretches out with nothing slotted into it. You let it run loose, no plan, and trust it to fill itself.
-question: A new project lands on your desk on a Friday. You...
-answerMost: spend the weekend building the folder structure and naming the phases
-answerHigh: set up the tracker and the first-hour-Monday plan before leaving the office
-answerMid: jot down the three obvious steps and start on the first
-answerLow: open a fresh doc, write the first paragraph, see where it goes
-answerLeast: shove it in the inbox; you'll know what to do when Monday arrives
+question: You're leaving on a month abroad, alone, at dawn tomorrow. The empty rucksack sits open on the bed. You...
+answerMost: lay everything out in piles by day and check it against a written list
+answerHigh: pack tonight, rolled and sorted, passport in the front pocket
+answerMid: gather the obvious things and zip it shut, mostly done
+answerLow: throw in a few changes of clothes and trust the rest to shops there
+answerLeast: grab the bag at dawn and pack whatever's nearest on the way out
 rorschachMost: an archipelago set out in a tidy chain
 rorschachHigh: a coastline traced clean onto a map
 rorschachMid: a continent spread across an old chart

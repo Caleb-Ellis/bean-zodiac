@@ -8,7 +8,7 @@ dish: Black bean brownies — dried black beans cooked and folded into dark choc
 quote: Not all those who bean are lost.
 creature: tortoise
 friendlyBeans: [navy, cannellini]
-antiBeans: [adzuki, chickpea]
+antiBeans: [pinto, chickpea]
 friendlyForm: boiled
 antiForm: roasted
 seasonalFortune: A dried bean waits years for its hour and gives it back as fudge. The pan cools slowly; the chocolate sets darker than it looked in the bowl.
@@ -32,12 +32,12 @@ facetLowTitle: Batter on a Hot Pan
 facetLow: Halfway through a gathering that's still going strong, the door looks good to you. You make for it while the laughter's loud enough to cover the leaving.
 facetLeastTitle: Chocolate, Broken Differently
 facetLeast: A job offer lands in a city you've never set foot in, and the lease here is nearly up. You're picturing the new place before you've finished reading.
-question: A group chat is planning a reunion. Half the thread is enthusiasm, half is excuses. Nobody has said whether they're coming. You...
-answerMost: book the flight before replying, then say "in"
-answerHigh: reply "I'll be there" and mean it for the next four months
-answerMid: send a thumbs-up and figure it out closer to the date
-answerLow: wait to see who actually commits
-answerLeast: mute the thread and decide on the morning
+question: Your kid's team will fold this season unless a parent steps up to coach, and at the sign-up table nobody's hand is going near the pen. You...
+answerMost: take the pen, sign for the whole season, and learn the rules later
+answerHigh: put your name down and mean every Saturday of it
+answerMid: offer to help out and see how the first month feels
+answerLow: wait to see if some other parent steps in first
+answerLeast: keep your eyes down and let the season fold
 rorschachMost: a toad settled squat in the mud
 rorschachHigh: an owl hunched still on a post
 rorschachMid: a hen brooding low on the nest

@@ -9,7 +9,7 @@ quote: A bean is the most versatile of tools.
 creature: raccoon dog
 friendlyBeans: [fava, cannellini]
 antiBeans: [edamame, navy]
-friendlyForm: fermented
+friendlyForm: smoked
 antiForm: dried
 seasonalFortune: A lemon halved many ways still bleeds the same brightness into the pot. The broth lengthens to suit whichever herb arrives; the bean accepts each season's bitterness in turn.
 fortuneMost: Somewhere unfamiliar is about to open up, and you'll have its rhythm before the others find the door.
@@ -32,12 +32,12 @@ facetLowTitle: The Sunday Lemon
 facetLow: A free day, and a dozen tempting ways to spend it fanning out at once. For once you pick a single one and hold to it, leaving the rest uncollected.
 facetLeastTitle: One Pot, One Heat
 facetLeast: Mid-performance, the host leans in — would you try it their way instead? You decline, keep to your own method, the swap waved off.
-question: The party theme changes the morning of, and your outfit no longer fits. You...
-answerMost: rebuild a new one from what's already in the closet
-answerHigh: swap two pieces and call it good
-answerMid: borrow something from a friend on the way
-answerLow: wear what you planned and ignore the theme
-answerLeast: cancel rather than rework it
+question: Mid-set at the street festival, your headline track's backing file just won't load and the crowd is already moving. You...
+answerMost: loop a beat live off the drum pad and build a whole new thing from it by the chorus
+answerHigh: pull up a different track that fits and segue like you meant it
+answerMid: vamp on what's already playing till you find a way back in
+answerLow: stick to the setlist and hope the file loads next try
+answerLeast: stop the set and start the whole thing over from the top
 rorschachMost: a crab, limbs reaching out in every direction
 rorschachHigh: a sea anemone, many feelers raised at once
 rorschachMid: a low ridge of hills with a few peaks

@@ -7,9 +7,9 @@ trait: laconic
 dish: Black bean soup with ancho chile and dark chocolate.
 quote: Speech is silver; bean is golden.
 creature: dromedary
-friendlyBeans: [edamame, fava]
-antiBeans: [adzuki, chickpea]
-friendlyForm: boiled
+friendlyBeans: [navy, fava]
+antiBeans: [adzuki, pinto]
+friendlyForm: smoked
 antiForm: roasted
 seasonalFortune: The jar of dried beans waits out the year. Around such a person, weather settles; what wants to keep, keeps, and the rest evaporates without comment.
 fortuneMost: One word, the right one, and the noise settles around it like a soup gone still.
@@ -32,12 +32,12 @@ facetLowTitle: The Lifted Lid
 facetLow: The directions could be one turn and a landmark. Out it all comes — the back way, the closed bridge, the shop on the corner — and you watch their eyes glaze as you keep going.
 facetLeastTitle: The Counted Pour
 facetLeast: How was the trip, someone asks, expecting a sentence. You give them the whole thing start to end — every detour, every odd meal — long past where they'd have stopped, knowing it runs long and telling it anyway.
-question: A group chat has been arguing about dinner plans for forty minutes. Your phone is in your hand. You...
-answerMost: lock the screen and put it down
-answerHigh: send the one address that ends the thread
-answerMid: scroll back, then react with a thumbs-up
-answerLow: type out what you actually think of the options
-answerLeast: send three voice notes weighing every restaurant
+question: A new follower keeps replying to your posts, each one a little door held open for a longer conversation. You...
+answerMost: leave each reply on read and let it swing shut on its own
+answerHigh: send back the one true word and stop there
+answerMid: trade a line or two, then go quiet for the night
+answerLow: find yourself typing out your whole week to them
+answerLeast: keep the thread going past both your bedtimes and then some
 rorschachMost: a smooth river stone, nothing flaking off
 rorschachHigh: a curled hedgehog, a few quills loose
 rorschachMid: a potato with sprouts at one end

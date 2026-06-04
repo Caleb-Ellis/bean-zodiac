@@ -7,9 +7,9 @@ trait: erratic
 dish: Texas chili con carne - smoked brisket and pinto beans in ancho and guajillo chile broth.
 quote: Life is what happens to you while you're busy bean other beans.
 creature: gadfly
-friendlyBeans: [kidney, green]
-antiBeans: [navy, mung]
-friendlyForm: roasted
+friendlyBeans: [chickpea, adzuki]
+antiBeans: [navy, kidney]
+friendlyForm: fermented
 antiForm: boiled
 seasonalFortune: Smoke wanders where the wind decides; the brisket carries char from a fire that never sat still. Ancho deepens in one corner of the pot, guajillo flares in another, and the broth keeps no consistent weather.
 fortuneMost: Ancho deepens in one corner, guajillo flares in another, and the broth keeps no steady weather — that's your whole life, four things going, the one that surprises you finishing.
@@ -32,12 +32,12 @@ facetLowTitle: One Pot, One Burner
 facetLow: Friends are clamoring to redraw the whole evening's plan on a whim. You hold the one reservation you all agreed on and steer everyone back to it, even as the dull part itches.
 facetLeastTitle: Same Bowl, Same Chair
 facetLeast: There's a wide-open afternoon and a dozen new ways you could spend it. You walk the same loop you always walk, sit in the same café, order the usual, and call it good.
-question: You're hosting dinner and halfway through cooking you decide to change the menu. You...
-answerMost: scrap the recipe and invent something from what's in the fridge
-answerHigh: pivot one course, keep the rest, tell no one
-answerMid: stick with the plan but swap in one new flourish
-answerLow: finish the original recipe and add the new idea next time
-answerLeast: cook the dish you've made for them before; tonight isn't the night
+question: Halfway up the trail you'd planned, a side path you've never taken opens off to the left. You...
+answerMost: abandon the route and follow the new path wherever it runs
+answerHigh: take it a short way, then cut back to the original line
+answerMid: stay on the trail but detour to the one viewpoint off it
+answerLow: note the path for another day and finish the planned route
+answerLeast: keep to the marked trail; that's the one you came to walk
 rorschachMost: a paper ball crumpled and flung down
 rorschachHigh: a torn coastline jagging in and out
 rorschachMid: a clump of moss spread over a stone

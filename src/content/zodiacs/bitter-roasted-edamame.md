@@ -7,10 +7,10 @@ trait: witty
 dish: Roasted edamame with bitter lemon zest and smoked paprika.
 quote: A bean is a terrible thing to waste.
 creature: laughing kookaburra
-friendlyBeans: [cannellini, pinto]
-antiBeans: [mung, fava]
-friendlyForm: fermented
-antiForm: smoked
+friendlyBeans: [chickpea, pinto]
+antiBeans: [mung, cannellini]
+friendlyForm: smoked
+antiForm: boiled
 seasonalFortune: A season of warm smoke threaded with cold zest. The air rewards the remark that arrives blistered at the edges and salted at the center, never the one shouted plain.
 fortuneMost: One salted sentence carries the toast.
 fortuneMost2: A line of yours is about to get quoted back across a whole room, blistered just right.
@@ -32,12 +32,12 @@ facetLowTitle: The Receipt, Item by Item
 facetLow: The doctor asks how the pain's been and the deflection's right there. You skip it and describe the ache exactly as it is.
 facetLeastTitle: Bean, Shell, Salt
 facetLeast: Asked across the table what you do, you just say it plainly — no setup, no twist, the answer left to stand on its own.
-question: A friend texts to ask, genuinely, how you've been. The cursor blinks. You...
-answerMost: send back a one-liner that lands the week as a joke
-answerHigh: open with a quip, then answer underneath it
-answerMid: write something honest with one wry aside
-answerLow: type the plain answer and send it
-answerLeast: reply "fine, you?" and put the phone down
+question: At the gallery opening, a stranger stops in front of the piece you made and asks, meaning it, what it's actually about. You...
+answerMost: land the whole private meaning as a one-liner and watch them try not to laugh
+answerHigh: open with a quip, then give the real answer under it
+answerMid: say something honest with one wry aside
+answerLow: give the plain answer, no spin
+answerLeast: mumble "oh, it's nothing really" and look at the floor
 rorschachMost: a juggler with one ball tossed aloft
 rorschachHigh: a seal balancing a pebble on its nose
 rorschachMid: a round melon with a smaller one above

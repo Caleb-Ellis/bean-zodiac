@@ -7,8 +7,8 @@ trait: prolific
 dish: Ohitashi - green beans blanched and dressed with dashi and bonito flake.
 quote: Quantity produces bean quality.
 creature: vole
-friendlyBeans: [kidney, pinto]
-antiBeans: [fava, mung]
+friendlyBeans: [edamame, kidney]
+antiBeans: [butter, mung]
 friendlyForm: fried
 antiForm: smoked
 seasonalFortune: A season when the pot never quite empties — one batch of dashi feeds the next, bonito drifts down on yesterday's bones, and the kitchen keeps producing whether anyone asks for it.

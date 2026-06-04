@@ -7,7 +7,7 @@ trait: collaborative
 dish: Fatteh - chickpeas with labneh and bitter pomegranate.
 quote: None of us is as bean as all of us.
 creature: bee
-friendlyBeans: [pinto, fava]
+friendlyBeans: [pinto, mung]
 antiBeans: [navy, black]
 friendlyForm: roasted
 antiForm: dried
@@ -32,12 +32,12 @@ facetLowTitle: No One Watching the Cloth
 facetLow: The group offers to split the task. You turn it down and take the whole of it on yourself, carrying it through clean and alone.
 facetLeastTitle: Each Thing in Its Corner
 facetLeast: A trip to plan, friends keen to weigh in on every stop. You book the whole route solo and tell them after, settled the way you wanted it.
-question: A blank document and a deadline at the end of the week. You...
-answerMost: open a call with someone and draft it out loud together
-answerHigh: send the rough outline to a friend before writing a single sentence
-answerMid: write a first pass and ask one person to read it
-answerLow: bang out the draft alone and share the polished version
-answerLeast: close the door, finish it Friday, and forward it without a word
+question: You've sketched a design for the community mural and the blank wall is waiting; a dozen neighbours have offered to paint. You...
+answerMost: hand out sections and roughs and build the whole thing together on the wall
+answerHigh: rope in the one painter who'll improve your design before a brush is wet
+answerMid: block it in solo first, then bring people onto the easy passages
+answerLow: paint most of it yourself and let others fill the borders
+answerLeast: do the entire wall alone and unveil it finished
 rorschachMost: two otters holding hands across the water
 rorschachHigh: two islands linked by a low sandy bridge
 rorschachMid: two stones sitting near each other in a stream

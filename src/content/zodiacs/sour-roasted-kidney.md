@@ -7,10 +7,10 @@ trait: fair
 dish: Rajma tikki - pan-seared kidney bean cakes with amchur and mint chutney
 quote: Injustice anywhere is a threat to bean everywhere.
 creature: ibis
-friendlyBeans: [green, fava]
-antiBeans: [black, fava]
-friendlyForm: fermented
-antiForm: smoked
+friendlyBeans: [mung, cannellini]
+antiBeans: [chickpea, edamame]
+friendlyForm: boiled
+antiForm: fermented
 seasonalFortune: A season for evened pans. The amchur falls heavier on one tikki than the next, and the cook who notices spends the afternoon redistributing what the oil already decided.
 fortuneMost: The eye that evens the pan is the luck of your turn.
 fortuneMost2: One person keeps drawing the worst seat.
@@ -32,12 +32,12 @@ facetLowTitle: Where the Pan Tilts
 facetLow: A small debt from a coffee run is still nagging at the back of your mind. You close the ledger on it, leave it shut, and stop carrying the figure around.
 facetLeastTitle: The Brightest Tikki
 facetLeast: At the counter the change comes back a little short and the queue is long. You wave it off, overpay, and walk out without doing the sum.
-question: The group bill arrives and someone suggests just splitting it evenly. You...
-answerMost: pull out your phone and reconcile it line by line, item by item
-answerHigh: flag the two people who barely ate and adjust their shares
-answerMid: round the obvious uneven bits and split the rest evenly
-answerLow: shrug, split it, settle up properly with the underchargers later
-answerLeast: agree to the even split and forget it by the next morning
+question: The team's prize money is set to split evenly, but one member carried the whole project for months and another barely showed. You...
+answerMost: insist the shares be redrawn to match who actually put in
+answerHigh: push for the grafter to take more, even-split be damned
+answerMid: name the imbalance aloud and let the room weigh it
+answerLow: feel the unfairness but go with the even split
+answerLeast: take your equal cut and keep the peace
 rorschachMost: a balloon resting level above its even basket
 rorschachHigh: a round tree crown squared over its trunk
 rorschachMid: a head of cauliflower on its narrow stalk

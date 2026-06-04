@@ -7,10 +7,10 @@ trait: artistic
 dish: Mole Negro - pinto beans with fermented chile and cacao.
 quote: Every bean is an artist. The problem is how to remain an artist once we grow up.
 creature: lyrebird
-friendlyBeans: [chickpea, adzuki]
+friendlyBeans: [adzuki, kidney]
 antiBeans: [black, cannellini]
 friendlyForm: roasted
-antiForm: boiled
+antiForm: dried
 seasonalFortune: The crock keeps its own counsel. What deepens in the dark of a long ferment only reveals its temper once a spoon is drawn through it.
 fortuneMost: Clear the long stretch it'll take. No one commissions the thing only you can make — so make it, and let that be reason enough.
 fortuneMost2: Draw the spoon through the long ferment. What was bitter has turned in the dark into something only your crock could make.

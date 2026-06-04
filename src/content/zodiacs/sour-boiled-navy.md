@@ -8,7 +8,7 @@ dish: Navy bean and escarole soup with lemon and Parmesan.
 quote: When I use a bean, it means just what I choose it to mean — neither more nor less.
 creature: parrot
 friendlyBeans: [butter, edamame]
-antiBeans: [chickpea, pinto]
+antiBeans: [chickpea, kidney]
 friendlyForm: dried
 antiForm: fermented
 seasonalFortune: A season of bright broth and named parts. Escarole keeps its bitterness, lemon its edge, Parmesan its salt. Nothing borrows a flavour it has not earned.

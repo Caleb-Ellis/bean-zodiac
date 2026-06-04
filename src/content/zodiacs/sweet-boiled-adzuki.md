@@ -8,7 +8,7 @@ dish: Oshiruko - Japanese sweet adzuki soup with toasted rice cake floating on t
 quote: Life is what happens to you while you're busy making other beans.
 creature: spinner dolphin
 friendlyBeans: [butter, navy]
-antiBeans: [green, kidney]
+antiBeans: [green, fava]
 friendlyForm: roasted
 antiForm: fried
 seasonalFortune: A season of slow simmer, where the sweetness rises late. The pot holds longer than expected, and small warmths accumulate beneath ordinary days.
@@ -32,12 +32,12 @@ facetLowTitle: The Covered Pot
 facetLow: Someone in the checkout line wants to make this a whole conversation. A flat smile, a half-step forward — your warmth isn't on offer to just anyone today.
 facetLeastTitle: Grey Light, Unsweetened
 facetLeast: The party's gone flat and everyone's looking to someone to lift it. Not you — you let it stay flat and slip out the door early.
-question: A friend texts at 9pm that their week has been rough. You...
-answerMost: ring them, then turn the stove on for cocoa whether they come over or not
-answerHigh: send back a long warm reply and the photo of the cat that always works
-answerMid: write back that you're around tomorrow if they want to talk
-answerLow: heart the message and mean to write more in the morning
-answerLeast: leave it — they didn't ask for anything and the day is already done
+question: The loaf comes out of the oven golden and far too big for one. The whole kitchen smells of it. You...
+answerMost: wrap half still warm and carry it round the building, knocking on doors
+answerHigh: cut thick slices and text everyone within walking distance to come over
+answerMid: save a piece for the neighbour you like and freeze the rest
+answerLow: have a slice now and mean to share it before it goes stale
+answerLeast: keep it all — you made it, you'll eat it
 rorschachMost: a snowman with a carrot nose mid-melt
 rorschachHigh: a child riding high on someone's shoulders
 rorschachMid: two round stones stacked one on another

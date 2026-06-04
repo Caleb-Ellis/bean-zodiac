@@ -7,8 +7,8 @@ trait: spontaneous
 dish: Pakora - spiced chickpea fritters with green chili.
 quote: Life is either a daring adventure or no bean at all.
 creature: impala
-friendlyBeans: [green, pinto]
-antiBeans: [black, navy]
+friendlyBeans: [green, adzuki]
+antiBeans: [black, cannellini]
 friendlyForm: fermented
 antiForm: dried
 seasonalFortune: Batter meets oil and decides everything at once; the kitchen runs on the clock of a sputtering pan. Cold mornings find this house already loud.
@@ -32,12 +32,12 @@ facetLowTitle: The Pan Left to Cool
 facetLow: A detour beckons off the route you mapped. You stick to the route, finish what you started, and save the wandering for another day.
 facetLeastTitle: Hunger Held for the Proper Heat
 facetLeast: An invitation lands for tonight, but you've already got a slow evening laid out. You keep the plan you made and let the new one pass.
-question: A friend texts at 9pm — someone cancelled, there's a spare ticket to something across town. You...
-answerMost: are already on the train, asking where to meet
-answerHigh: say yes and figure out the logistics in the cab
-answerMid: ask what it is and decide in three minutes
-answerLow: thank them but you've already settled in for the night
-answerLeast: didn't see the text until morning
+question: Last call at a bar, and someone you just met says a band's playing two towns over till dawn — come along. You...
+answerMost: are already pulling your coat on, asking whose car
+answerHigh: say yes and sort out how you'll get home later
+answerMid: ask who else is going and decide on the spot
+answerLow: tempted, but you've got an early start and head home
+answerLeast: smile, wish them a good night, and call it
 rorschachMost: a colt kicking one leg out mid-bolt
 rorschachHigh: a splat of ink flicked across the page
 rorschachMid: a storm cloud with one wisp trailing off

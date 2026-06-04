@@ -7,10 +7,10 @@ trait: aggressive
 dish: Stir-fried fava beans with doubanjiang, ginger, and soy.
 quote: The best bean defense is a good offense.
 creature: rhino
-friendlyBeans: [chickpea, mung]
-antiBeans: [adzuki, butter]
+friendlyBeans: [edamame, chickpea]
+antiBeans: [mung, navy]
 friendlyForm: fermented
-antiForm: smoked
+antiForm: boiled
 seasonalFortune: A season that runs hot. The wok smokes before the doubanjiang lands, and the days arrive at temperature, asking to be met there.
 fortuneMost: The wok's already smoking before the doubanjiang lands.
 fortuneMost2: Make the move everyone's been circling for a week.
@@ -32,12 +32,12 @@ facetLowTitle: The Fava Left Overnight
 facetLow: An insult lands and the cutting comeback is loaded — but you set it down and let the heat drain out before you'd ever fire it.
 facetLeastTitle: Doubanjiang Measured Twice
 facetLeast: A standoff hardens and your instinct is to retreat, not charge; pushing in feels less like nerve than like a fight you needn't pick.
-question: A meeting has been circling the same point for twenty minutes and no one has made the call. You...
-answerMost: cut in, name the decision, and move to the next agenda item
-answerHigh: ask whoever's quietest what they actually think
-answerMid: wait one more lap, then suggest a vote
-answerLow: let it run; someone else will get there
-answerLeast: stay quiet and follow whatever gets decided after you leave
+question: Last minutes of a tight match, the ball loose at midfield, and a bigger player is already charging in for it. You...
+answerMost: go in hard and take it off him, contact be damned
+answerHigh: get there first and shield it with your whole body
+answerMid: challenge for it but pull up if he's set
+answerLow: shadow him and wait for a cleaner ball
+answerLeast: leave it and hold your position
 rorschachMost: a wrestler lunging in, one arm cocked back
 rorschachHigh: a bull lowering its head to charge
 rorschachMid: a snowman, head settled on a broad base

@@ -7,7 +7,7 @@ trait: innovative
 dish: Chickpea tempeh - fermented whole chickpeas pan-fried and glazed with miso and sesame.
 quote: Imagination is more important than knowledge about beans.
 creature: crow
-friendlyBeans: [adzuki, pinto]
+friendlyBeans: [green, pinto]
 antiBeans: [navy, cannellini]
 friendlyForm: roasted
 antiForm: dried
@@ -32,12 +32,12 @@ facetLowTitle: Tuesday's Supper
 facetLow: The shelf needs putting up. You use the bracket that comes in the box and not the clever joint you could devise.
 facetLeastTitle: The Set Block
 facetLeast: Same supermarket, same aisles, same order every time. A new layout would only slow you down, so you keep the route you know.
-question: A brief lands Monday morning with the standard template attached and the standard answer expected. You...
-answerMost: ignore the template, build a stranger shape that answers a deeper question they didn't ask
-answerHigh: write the standard version and quietly attach a second one
-answerMid: hit the brief but bend one section toward a more interesting answer
-answerLow: do the brief well, no embellishment
-answerLeast: fill the template and ship it before lunch
+question: Hungry kids, a near-empty fridge, and the shops shut for the night. You...
+answerMost: invent a dish out of the three odd things left and have them asking for it again
+answerHigh: improvise a real meal from the scraps and make it work
+answerMid: stretch the leftovers with whatever's in the cupboard
+answerLow: cook the one plain thing you've still got the makings for
+answerLeast: hand round toast and call it done
 rorschachMost: a rabbit's head grafted onto a crab's body
 rorschachHigh: a butterfly with two mismatched wings
 rorschachMid: a smooth pebble resting against a thornbush

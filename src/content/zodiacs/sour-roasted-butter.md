@@ -7,10 +7,10 @@ trait: guileless
 dish: Butter bean traybake with preserved lemon, roasted garlic, and rosemary
 quote: To bean or not to bean — actually, yes, obviously. Why would you not.
 creature: duckling
-friendlyBeans: [adzuki, mung]
-antiBeans: [kidney, edamame]
+friendlyBeans: [adzuki, navy]
+antiBeans: [kidney, fava]
 friendlyForm: boiled
-antiForm: smoked
+antiForm: fried
 seasonalFortune: A season that browns uncovered. Lemon rind slumps into the oil without ceremony, garlic loses its skins, rosemary throws its smell down the corridor before anyone lifts the tray.
 fortuneMost: Luck runs plain as a split rind for you this turn.
 fortuneMost2: People who've spent years decoding subtext find you disarming, then restful.

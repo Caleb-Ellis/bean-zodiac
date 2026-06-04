@@ -7,8 +7,8 @@ trait: perfectionist
 dish: Ribollita - Tuscan bread soup with cannellini, cavolo nero, and peperoncino.
 quote: Have no fear of bean perfection — you will never reach it, but what a view from the attempt.
 creature: weaver ant
-friendlyBeans: [navy, kidney]
-antiBeans: [fava, pinto]
+friendlyBeans: [mung, navy]
+antiBeans: [chickpea, fava]
 friendlyForm: smoked
 antiForm: smoked
 seasonalFortune: A long simmer is the season's shape. The cavolo nero darkens slowly; nothing is hurried, and the pepper waits its hour in the corner of the pot.
@@ -32,12 +32,12 @@ facetLowTitle: Beans at the Boil
 facetLow: Wrapping a gift, the paper goes on lumpy at one corner. Good enough — slap the bow on and hand it over.
 facetLeastTitle: Bread Without Measuring
 facetLeast: Hanging the photos, you eyeball each nail and skip the level entirely. If one drifts crooked, it drifts crooked.
-question: The message is written. It's good enough, probably. Your cursor is on the send button. You...
-answerMost: close the tab, reread it tomorrow with fresh eyes
-answerHigh: rework the second paragraph one more time, then send
-answerMid: tweak a word, send before you can change your mind
-answerLow: send it as-is and put the phone face-down
-answerLeast: send it half-written and trust they'll get the gist
+question: The show opens in an hour and your canvas hangs, finished — except you can still see the one corner that isn't right. The brushes are packed. You...
+answerMost: unpack everything and take the corner back to bare ground for tomorrow's light
+answerHigh: mix one colour and fix just that corner, then stop
+answerMid: dab one small touch and step away before you can find another
+answerLow: leave it as it is and go get changed
+answerLeast: decide it was always done and not look at it again
 rorschachMost: a flawless gold ring above a stone
 rorschachHigh: a horseshoe with a single rivet hole, over an anvil
 rorschachMid: a broken arch above a heap of rubble

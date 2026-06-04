@@ -8,7 +8,7 @@ dish: Spicy adzuki jeon - Korean pan-fried adzuki bean pancake with gochugaru.
 quote: Don't stop me now - I'm having such a good bean!
 creature: jack russell
 friendlyBeans: [green, edamame]
-antiBeans: [black, butter]
+antiBeans: [black, mung]
 friendlyForm: fermented
 antiForm: smoked
 seasonalFortune: A season of full pans and loud oil. The batter spits before it sets; the red bleeds early into everything it touches, and the kitchen forgets how to be quiet.
@@ -32,12 +32,12 @@ facetLowTitle: Oil Brought up Slow
 facetLow: A spark of an idea hits at the worst possible hour. You note it, set it down, and let it keep until you have the heat for it.
 facetLeastTitle: The Closed Jar
 facetLeast: Good news comes your way on a walk. You finish the walk first, telling no one, and find you like carrying it alone.
-question: A friend mentions, in passing, that something great happened at work. You...
-answerMost: leap up and announce a toast to the whole room
-answerHigh: insist on going out, right now, for the proper version
-answerMid: text three other friends to come over later
-answerLow: say "we should celebrate that properly soon"
-answerLeast: nod warmly and ask another question about their day
+question: Pickup game in the park, sun high, and you've just sunk the shot that wins it. You...
+answerMost: tear off down the court roaring, shirt up over your head
+answerHigh: leap onto the nearest teammate and start the chant
+answerMid: pump a fist, grin, slap the hands that come
+answerLow: nod once and jog back for the next game
+answerLeast: pick the ball up like it was nothing
 rorschachMost: a dancer mid-leap, skirt flung wide below
 rorschachHigh: a moth bursting upward off its own shadow
 rorschachMid: a spinning top wobbling on its narrow point

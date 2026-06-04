@@ -7,8 +7,8 @@ trait: scary
 dish: Smoked black bean broth with charred onion and no garnish.
 quote: To be great is to be bean.
 creature: wendigo
-friendlyBeans: [fava, navy]
-antiBeans: [adzuki, chickpea]
+friendlyBeans: [navy, fava]
+antiBeans: [adzuki, kidney]
 friendlyForm: dried
 antiForm: roasted
 seasonalFortune: Smoke clings to a black broth long after the fire is out. The charred onion gives nothing away. A season spent darkening in the pot, without notice, without garnish.

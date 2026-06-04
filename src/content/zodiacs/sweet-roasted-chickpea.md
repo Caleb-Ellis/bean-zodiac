@@ -7,8 +7,8 @@ trait: fun
 dish: Cinnamon honey roasted chickpeas — oven-blistered until crunchy, tossed hot in honey, cinnamon, and a pinch of cardamom.
 quote: The best way to find yourself is to lose yourself in the service of other beans.
 creature: sea otter
-friendlyBeans: [adzuki, cannellini]
-antiBeans: [cannellini, edamame]
+friendlyBeans: [pinto, cannellini]
+antiBeans: [navy, cannellini]
 friendlyForm: fried
 antiForm: dried
 seasonalFortune: A season scented with cardamom and warm honey. The air thickens with small invitations; rooms hum a half-tone brighter, and what passes for ordinary arrives glazed.
@@ -32,12 +32,12 @@ facetLowTitle: Honey Slack in a Cold Jar
 facetLow: A festival pounding on the far side of the field. You spread a blanket at the quiet edge and watch the lights from there.
 facetLeastTitle: Cardamom Sealed in the Tin
 facetLeast: Three parties in one night, all of them yours to join. You skip every one and walk the long way home alone.
-question: A flight is delayed four hours and the gate area has gone slack-jawed and silent. You...
-answerMost: start a card game with three strangers and the lady behind the desk
-answerHigh: wander over to the kid drawing alone and ask what the dragon is called
-answerMid: put on headphones, find a snack, and watch the room from the corner
-answerLow: settle in with a book and let the hours pass uninterrupted
-answerLeast: find the quietest gate two terminals over and sit there instead
+question: Rain sets in for the day at the campsite and everyone's slumped under the tarp, gone glum. You...
+answerMost: invent a soggy tournament of daft games and have the whole site roaring by noon
+answerHigh: rope the nearest few into something silly and let it spread down the row
+answerMid: brew up a round of tea and trade stories under the dripping canvas
+answerLow: tuck into your sleeping bag with a book and wait the rain out
+answerLeast: lie there watching the canvas drip and let the glum day go to waste
 rorschachMost: a beetle scrambling sideways off a tipped cup
 rorschachHigh: a spider mid-skitter across a wall
 rorschachMid: a crab with legs splayed on sand

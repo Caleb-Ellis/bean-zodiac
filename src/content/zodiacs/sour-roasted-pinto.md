@@ -7,8 +7,8 @@ trait: aloof
 dish: Frijoles borrachos al horno - oven-roasted pinto beans with lime juice, jalapeño, and dark beer
 quote: I exist as I am — that is enough. If no other bean in the world be aware, I sit content.
 creature: cat
-friendlyBeans: [fava, edamame]
-antiBeans: [navy, butter]
+friendlyBeans: [green, adzuki]
+antiBeans: [navy, black]
 friendlyForm: fermented
 antiForm: boiled
 seasonalFortune: A season of blistered skins and shut doors. The roast deepens what the lime had already separated; what these weeks ask of a person is the courage to remain unmixed.
@@ -32,12 +32,12 @@ facetLowTitle: Beer Poured, Door Open
 facetLow: Your quiet has started reading as a cold verdict to someone running the math on it. You reach first with one warm line and undo the sum before it sets.
 facetLeastTitle: The Dark Beer of a Crowd
 facetLeast: A brand-new friendship is opening fast and the wall wants to go up. You drop it instead and lean in headlong, all the way, no distance kept back.
-question: A new acquaintance is angling for a closer friendship — texts often, invites widely. You...
-answerMost: let it sit unanswered until the energy quietly thins
-answerHigh: reply warmly but space the replies until a real rhythm forms
-answerMid: agree to one specific meet-up and see how it actually feels
-answerLow: meet them halfway, match the pace, accept most invitations
-answerLeast: dive in headlong and rearrange your week to make room
+question: A dog from down the lane keeps trotting up to your porch, hopeful, settling at your feet. You...
+answerMost: let it sit there a while, then go back inside without a word
+answerHigh: scratch its ears once, then keep your own pace
+answerMid: sit with it a few minutes and see how it feels
+answerLow: fetch a bowl of water and let it stay
+answerLeast: bring out a blanket and start asking around about adoption
 rorschachMost: a statue raised alone on a tall plinth
 rorschachHigh: a watchtower standing above its splayed legs
 rorschachMid: a mushroom cap on its pale ribbed stalk

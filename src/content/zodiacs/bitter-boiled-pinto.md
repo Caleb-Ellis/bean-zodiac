@@ -7,10 +7,10 @@ trait: detail-oriented
 dish: Pinto bean caldo with epazote and tomatillo.
 quote: The bean is in the details.
 creature: bowerbird
-friendlyBeans: [green, adzuki]
-antiBeans: [kidney, mung]
+friendlyBeans: [edamame, cannellini]
+antiBeans: [fava, butter]
 friendlyForm: fermented
-antiForm: dried
+antiForm: fried
 seasonalFortune: A pot kept long on low heat surrenders nothing the cook has not noticed. The season runs slow; small spots and split skins betray the lot, and the kitchen smells of epazote held in for hours.
 fortuneMost: The flaw that would have grown all season is about to surface under your eye alone, while it's still the size of a single split skin.
 fortuneMost2: When it has to be exactly right, you're the one they'll want holding it.
@@ -32,12 +32,12 @@ facetLowTitle: The Forgotten Salt
 facetLow: An afternoon's work and the birdhouse is hammered together, joints sitting a touch proud. Onto the post it goes regardless, gaps and all — and the birds have moved in by week's end.
 facetLeastTitle: Stones and All
 facetLeast: There's a dropped stitch in the scarf a friend knitted you, the kind you'd usually clock from across a room. You wear it exactly as it is and say nothing, the gap left to be.
-question: A colleague hands you a slide deck and asks for a quick look before it goes out. You...
-answerMost: read every slide, footnote, and figure number
-answerHigh: catch the three things you know will be wrong
-answerMid: skim it and flag whatever jumps out
-answerLow: glance at the first and last slides
-answerLeast: tell them it looks great and hand it back
+question: Restoring an old painting under the noon skylight, you're easing back layers of yellowed varnish to see what's really underneath. You...
+answerMost: work a square centimetre at a time, logging every crack and overpaint
+answerHigh: clean it slowly, pausing at the few passages that don't match the rest
+answerMid: lift the grime off the broad areas and tidy what stands out
+answerLow: give it a general clean and call the detail good enough
+answerLeast: wipe the whole surface down in one pass and step back
 rorschachMost: one tiny speck perched atop a vast bloom
 rorschachHigh: a flower counted petal by lobed petal
 rorschachMid: a many-lobed blossom with a fleck above it

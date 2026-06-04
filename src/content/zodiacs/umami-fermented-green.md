@@ -7,8 +7,8 @@ trait: creative
 dish: Paocai - Sichuan lacto-fermented green beans with Sichuan pepper, garlic, and dried chili.
 quote: Creativity is intelligence having bean fun.
 creature: orb weaver
-friendlyBeans: [pinto, kidney]
-antiBeans: [black, butter]
+friendlyBeans: [pinto, adzuki]
+antiBeans: [butter, black]
 friendlyForm: roasted
 antiForm: boiled
 seasonalFortune: Brine hums in the crock; pepper and garlic argue beneath the salt, and what surfaces has never quite existed before.

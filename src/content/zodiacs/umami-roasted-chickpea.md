@@ -8,7 +8,7 @@ dish: Roasted chickpeas with Worcestershire, smoked paprika, and garlic.
 quote: In the practice of tolerance, one's bean is the best teacher.
 creature: zebu
 friendlyBeans: [mung, fava]
-antiBeans: [black, edamame]
+antiBeans: [black, cannellini]
 friendlyForm: fried
 antiForm: dried
 seasonalFortune: Smoke settles in the rafters and refuses to leave; the season widens its doorways, lets the odd guest in, asks no one their business.
@@ -32,12 +32,12 @@ facetLowTitle: Worcestershire, Dark
 facetLow: Draw the line on the spot, gently — the question feeling for how far you'll bend gets its answer before it can be crossed a second time.
 facetLeastTitle: Smoke Through the Window
 facetLeast: An old club you've outgrown still emails about the next meetup. You reply with a clean no and feel none of the tug you expected.
-question: A friend asks if they can bring "one more person" to your dinner for six. You...
-answerMost: say yes and ask if they want to bring two more while they're at it
-answerHigh: say yes warmly and add a chair
-answerMid: say yes and quietly recount the chickpeas
-answerLow: say the table's already full, sorry — next time
-answerLeast: say no, and feel fine about it
+question: On the long train someone settles beside you, music playing aloud, bags creeping into your seat. You...
+answerMost: shift over, make room, and never once feel the cost of it
+answerHigh: let it ride and read on, you barely notice
+answerMid: tolerate it a while, then quietly reclaim your half of the seat
+answerLow: ask them, evenly, to turn the music down
+answerLeast: say plainly this is your space and move if they won't
 rorschachMost: a candelabra with arms branching out to every side
 rorschachHigh: a coral fanning wide off a single base
 rorschachMid: a shrub with many branches above one trunk

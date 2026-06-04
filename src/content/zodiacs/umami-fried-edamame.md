@@ -8,9 +8,9 @@ dish: Edamame gyoza - pan-fried dumplings with edamame, nira, and soy dipping sa
 quote: I am always doing that which I cannot do, in order that I may learn how to bean it.
 creature: merlin
 friendlyBeans: [green, kidney]
-antiBeans: [butter, mung]
-friendlyForm: dried
-antiForm: fermented
+antiBeans: [mung, butter]
+friendlyForm: fermented
+antiForm: boiled
 seasonalFortune: A season pleated and sealed at the edge. The wrapper crisps where it meets the pan; what is folded inside still announces itself through the dough.
 fortuneMost: The filling announces itself through the dough before the dumpling's even turned — you read people the same way.
 fortuneMost2: Answer the question they actually meant, not the one they managed to get out.
@@ -32,12 +32,12 @@ facetLowTitle: The Crease Gone Soft
 facetLow: A hint flickers past — the shifted tone, the held pause — and instead of pouncing on it you let it go by unremarked.
 facetLeastTitle: The Forgotten Dumpling
 facetLeast: A plot twist everyone else saw a mile off blindsides you completely, and the jolt of it is pure delight rather than a thing you missed.
-question: A friend is telling a story and you can see the conclusion coming three sentences early. You...
-answerMost: finish the sentence for them and move the conversation along
-answerHigh: nod knowingly and offer the next thought before they get there
-answerMid: hear them out, then add the bit you saw coming
-answerLow: listen all the way through and pretend the ending surprised you
-answerLeast: get genuinely surprised at the end — you weren't tracking ahead
+question: Out on the water alone, the swell shifts under the hull and the far sky changes in a way the forecast didn't mention. You...
+answerMost: read it three moves ahead and turn for shore before the wind admits it
+answerHigh: trust the early tell and start shortening up
+answerMid: hold course but ready the lines for what's likely coming
+answerLow: wait for the first real gust to confirm it, then react
+answerLeast: notice the squall only when it's already on you
 rorschachMost: a hound's head lifted, catching a faint scent
 rorschachHigh: a fox nosing the air, snout to the wind
 rorschachMid: a long loaf cooling on a board

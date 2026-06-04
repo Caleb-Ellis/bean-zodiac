@@ -32,12 +32,12 @@ facetLowTitle: The Second Spoon
 facetLow: Bad news lands and your first move is always to fold inward and handle it alone. Reach for a friend before you've even hung up your coat — let someone in this once.
 facetLeastTitle: Sugar in a Full Kitchen
 facetLeast: A run of invitations arrives, every night booked if you say yes to all of it. You say yes to all of it, and a packed week becomes the one you'd actually wanted.
-question: It's Friday at 5pm and your phone shows three separate invitations for the same evening. You...
-answerMost: silence the phone and run a bath
-answerHigh: send three warm declines and put dinner on for one
-answerMid: pick the smallest of the three
-answerLow: pick the busiest and go straight there
-answerLeast: reply yes to all three and stitch them into one night
+question: You rented the lake cabin to be alone. On the first evening a boat of cheerful neighbours rows over to ask you up for drinks. You...
+answerMost: wave them off kindly and bolt the door to the quiet you came for
+answerHigh: thank them, say maybe another night, and light your own fire
+answerMid: go up for one drink, then slip back early
+answerLow: join them and stay till the lamps come on
+answerLeast: bring a bottle, climb in the boat, and make a night of it
 rorschachMost: one cottage lit, the house beside it dark
 rorschachHigh: a snail drawn back from the open shell beside it
 rorschachMid: two rocks set apart along a shelf

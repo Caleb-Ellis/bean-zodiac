@@ -7,10 +7,10 @@ trait: intense
 dish: Doenjang Jjigae - red beans with bitter greens.
 quote: Beware the bean who is quiet in a crisis.
 creature: peregrine
-friendlyBeans: [green, edamame]
-antiBeans: [butter, adzuki]
+friendlyBeans: [green, chickpea]
+antiBeans: [butter, navy]
 friendlyForm: fried
-antiForm: dried
+antiForm: boiled
 seasonalFortune: The crock has been dark a long season. Bitter greens darken in the paste; what was sealed begins to press at the lid, asking to be tasted.
 fortuneMost: It's cured.
 fortuneMost2: The thing you've been darkening alone is good and done.
@@ -32,12 +32,12 @@ facetLowTitle: Stir Once, Serve
 facetLow: A plan you'd half set your heart on falls through at the last minute. You shrug it off and pivot to something else, the grip of it already gone.
 facetLeastTitle: Greens Through the Broth
 facetLeast: Sides are being picked over some flare-up at dinner, and you stay loose and unbothered through all of it, happy to let it wash past — a little surprised, even, that so little sticks.
-question: Someone you care about asks, lightly, how you've actually been. You...
-answerMost: hold their eye and tell them the whole undiluted truth
-answerHigh: give them the one sentence you've been carrying all week
-answerMid: name the real thing and stop before it becomes a speech
-answerLow: say "fine, mostly" and mean about half of it
-answerLeast: smile, change the subject, and ask after their week instead
+question: Out under a desert sky thick with stars, the friend lying beside you asks, meaning it, what you're actually running toward. You...
+answerMost: tell them the thing you've never said aloud, all of it
+answerHigh: hand over the one truth that's been burning in you
+answerMid: give them something real, then let it rest there
+answerLow: offer a half-answer dressed up as the whole
+answerLeast: laugh it off and go back to finding constellations
 rorschachMost: a fist clenched white at the knuckles
 rorschachHigh: a hornets' nest packed tight and humming
 rorschachMid: a heavy stone tapering to a point below

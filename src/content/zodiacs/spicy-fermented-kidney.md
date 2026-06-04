@@ -7,10 +7,10 @@ trait: obsessive
 dish: Kidney bean gochujang jorim - Korean braised kidney beans in fermented chili paste.
 quote: One passion, one purpose — and a bean becomes invincible.
 creature: border collie
-friendlyBeans: [edamame, mung]
-antiBeans: [adzuki, fava]
+friendlyBeans: [green, cannellini]
+antiBeans: [fava, black]
 friendlyForm: fried
-antiForm: smoked
+antiForm: dried
 seasonalFortune: The crock keeps its own counsel; weeks press chili and salt into a single unbroken note, and what scattered the palate in spring narrows, by autumn, to one answer.
 fortuneMost: Follow the thing past where everyone else got bored.
 fortuneMost2: The same braise three times running, one variable moved, the lid refusing to call it done.
@@ -32,12 +32,12 @@ facetLowTitle: Steam Off a Fresh Pot
 facetLow: The repair holds, it's not pretty, and you could keep fussing it toward perfect. Good enough is genuinely good enough here — wipe your hands and walk away satisfied.
 facetLeastTitle: The Lid Never Settled
 facetLeast: Last month's all-consuming hobby has quietly lost its grip, and something completely different is pulling now. Let the old one go cold without a backward glance and dive headfirst into the new.
-question: It's late and you've been turning over one problem all evening. The sensible move is to sleep on it. You...
-answerMost: stay up until you crack it, however late
-answerHigh: do one more pass and then maybe stop
-answerMid: jot the current state and go to bed
-answerLow: close the laptop and read something else
-answerLeast: leave it and start something new tomorrow
+question: A faint tick somewhere in the dark house won't repeat on cue, and it's well past midnight. You...
+answerMost: tear the room apart until you find its exact source
+answerHigh: hunt it down one more likely spot at a time
+answerMid: note where it seemed to come from and try to sleep
+answerLow: tell yourself it's the pipes and pull up the blanket
+answerLeast: roll over; the house makes noises, so what
 rorschachMost: a hole drilled through one worn spot
 rorschachHigh: a beetle circling back to one hole
 rorschachMid: an hourglass pinched at its waist

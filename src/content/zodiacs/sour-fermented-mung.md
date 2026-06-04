@@ -7,10 +7,10 @@ trait: insecure
 dish: Mung bean dal with yogurt tadka and lime.
 quote: To bean oneself is the beginning of a lifelong romance.
 creature: chick
-friendlyBeans: [fava, cannellini]
+friendlyBeans: [fava, kidney]
 antiBeans: [edamame, navy]
 friendlyForm: smoked
-antiForm: fried
+antiForm: dried
 seasonalFortune: A season for thin-walled things. The brine sharpens every edge it touches, and what looked like flaw under the lime turns out to be grain.
 fortuneMost: Going over it once more is only the doubt building itself a kitchen to cook in.
 fortuneMost2: The quiet after you spoke is not a verdict being written up about you.
@@ -32,12 +32,12 @@ facetLowTitle: The Unwatched Ferment
 facetLow: You said something blunt and it might have stung, or might not have. You let it lie unchecked and walk on, no scanning their face for the damage.
 facetLeastTitle: Lime Never Enters
 facetLeast: A whole crowd of strangers watched you stumble on the steps. You brush off and keep walking, and it's gone from you before you reach the corner.
-question: You leave a voice note in a group chat. By the time you've put the phone down, nobody has reacted for ninety seconds. You...
-answerMost: open the chat, reread the transcript, and start drafting the follow-up that softens it
-answerHigh: replay the voice note to check your tone
-answerMid: put the phone face-down and pretend you haven't noticed
-answerLow: assume they're at lunch and get on with the morning
-answerLeast: send a second voice note before the first one has been heard
+question: The interview's over, you've shaken hands, and the panel's faces gave away nothing as you left the room. On the pavement, you...
+answerMost: replay every answer in order, hunting the one sentence that sank it
+answerHigh: turn over the question you fumbled and rehearse what you should have said
+answerMid: tell yourself it went fine and try, mostly, to mean it
+answerLow: shrug it off — they'll call or they won't — and go find lunch
+answerLeast: decide you nailed it before you've reached the corner
 rorschachMost: a frayed moon trembling beside a heavy planet
 rorschachHigh: a small bird shrinking next to a bull
 rorschachMid: a ragged pinecone beside a smooth larger one
