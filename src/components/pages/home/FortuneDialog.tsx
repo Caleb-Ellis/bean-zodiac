@@ -129,16 +129,10 @@ export default function FortuneDialog({ data, fortune }: Props) {
       <div className="max-w-xl w-full flex flex-col items-center gap-2">
         <div className="flex flex-col items-center gap-4">
           <p
-            className="text-xs tracking-widest uppercase text-zinc-500 text-center animate-fade-up"
+            className="mb-3 text-xs tracking-widest uppercase text-zinc-400 text-center animate-fade-up"
             style={{ animationDelay: "200ms" }}
           >
             Give us this day our daily bean
-          </p>
-          <p
-            className="mb-3 text-base sm:text-lg font-semibold text-zinc-200 text-balance text-center animate-fade-up"
-            style={{ animationDelay: "400ms" }}
-          >
-            {fortuneZodiac?.dish}
           </p>
         </div>
 
@@ -241,112 +235,113 @@ export default function FortuneDialog({ data, fortune }: Props) {
                     ref={cardBoxRef}
                     className="relative w-full rounded-[calc(1rem-1.5px)] bg-zinc-900 overflow-hidden flex flex-col justify-center"
                     style={{
-                      height: cardHeight !== null ? `${cardHeight}px` : undefined,
+                      height:
+                        cardHeight !== null ? `${cardHeight}px` : undefined,
                       transition:
                         cardHeight !== null
                           ? "height 600ms cubic-bezier(0.4, 0, 0.2, 1)"
                           : undefined,
                     }}
                   >
-                  <div
-                    ref={cardContentRef}
-                    className="p-4 flex flex-col items-center gap-4"
-                  >
-                    {scored && (
-                      <div
-                        className="flex flex-col items-center gap-4 pt-1 animate-fade-up"
-                        style={{ animationDuration: "500ms" }}
-                      >
-                        <p className="text-sm sm:text-base font-bold uppercase tracking-widest text-zinc-200 text-center text-balance">
-                          <ZodiacName
+                    <div
+                      ref={cardContentRef}
+                      className="p-4 flex flex-col items-center gap-4"
+                    >
+                      {scored && (
+                        <div
+                          className="flex flex-col items-center gap-4 pt-1 animate-fade-up"
+                          style={{ animationDuration: "500ms" }}
+                        >
+                          <p className="text-sm sm:text-base font-bold uppercase tracking-widest text-zinc-200 text-center text-balance">
+                            <ZodiacName
+                              flavourId={fortuneFlavourId}
+                              formId={fortuneFormId}
+                              beanId={fortuneBeanId}
+                              preparation={fortunePreparation}
+                              beanName={fortuneBean.name}
+                              zodiacId={fortuneZodiacId}
+                              qualityId={qualityId}
+                              asLink={false}
+                            />
+                          </p>
+                          <Bean
+                            bean={fortuneBean}
                             flavourId={fortuneFlavourId}
                             formId={fortuneFormId}
-                            beanId={fortuneBeanId}
-                            preparation={fortunePreparation}
-                            beanName={fortuneBean.name}
-                            zodiacId={fortuneZodiacId}
                             qualityId={qualityId}
-                            asLink={false}
+                            maxHeight="6rem"
                           />
-                        </p>
-                        <Bean
-                          bean={fortuneBean}
-                          flavourId={fortuneFlavourId}
-                          formId={fortuneFormId}
-                          qualityId={qualityId}
-                          maxHeight="6rem"
-                        />
-                      </div>
-                    )}
-                    {!scored ? (
-                      <div
-                        className="flex flex-col items-center gap-4 w-full transition-opacity duration-350"
-                        style={{
-                          opacity: scoringOut ? 0 : 1,
-                          pointerEvents:
-                            scoringOut || !revealed ? "none" : "auto",
-                        }}
-                      >
-                        {fortuneZodiac && variant === "question" ? (
-                          <QuestionVariant
-                            fortuneZodiac={fortuneZodiac}
-                            question={question}
-                            landed={landed}
-                            handleAnswer={handleAnswer}
-                          />
-                        ) : fortuneZodiac && variant === "rorschach" ? (
-                          <RorschachVariant
-                            fortuneZodiac={fortuneZodiac}
-                            zodiacId={fortuneZodiacId}
-                            landed={landed}
-                            handleAnswer={handleAnswer}
-                          />
-                        ) : (
-                          <FacetVariant
-                            fortuneTitle={fortuneTitle}
-                            fortuneText={fortuneText}
-                            landed={landed}
-                            handleScore={handleScore}
-                          />
-                        )}
-                      </div>
-                    ) : (
-                      <div
-                        key={scoredText}
-                        className="flex flex-col items-center gap-4 animate-fade-up"
-                        style={{
-                          animationDelay: "200ms",
-                          animationDuration: "500ms",
-                        }}
-                      >
-                        {scoredText && (
-                          <p className="text-zinc-300 text-sm sm:text-base text-center">
-                            {scoredText}
-                          </p>
-                        )}
-                        {text && (
-                          <p className="italic text-zinc-200 text-center sm:text-base mb-2">
-                            "{text}"
-                          </p>
-                        )}
-                        <div className="flex items-center gap-6">
-                          <a
-                            href="/beanstalk"
-                            className="text-sm text-zinc-400 hover:text-zinc-200 underline transition-colors"
-                          >
-                            The Beanstalk grows →
-                          </a>
-                          <button
-                            onClick={handleClose}
-                            aria-label="Close"
-                            className="flex align-center text-zinc-500 hover:text-zinc-400 transition-colors cursor-pointer bg-transparent border-none text-sm leading-none"
-                          >
-                            Close ✕
-                          </button>
                         </div>
-                      </div>
-                    )}
-                  </div>
+                      )}
+                      {!scored ? (
+                        <div
+                          className="flex flex-col items-center gap-4 w-full transition-opacity duration-350"
+                          style={{
+                            opacity: scoringOut ? 0 : 1,
+                            pointerEvents:
+                              scoringOut || !revealed ? "none" : "auto",
+                          }}
+                        >
+                          {fortuneZodiac && variant === "question" ? (
+                            <QuestionVariant
+                              fortuneZodiac={fortuneZodiac}
+                              question={question}
+                              landed={landed}
+                              handleAnswer={handleAnswer}
+                            />
+                          ) : fortuneZodiac && variant === "rorschach" ? (
+                            <RorschachVariant
+                              fortuneZodiac={fortuneZodiac}
+                              zodiacId={fortuneZodiacId}
+                              landed={landed}
+                              handleAnswer={handleAnswer}
+                            />
+                          ) : (
+                            <FacetVariant
+                              fortuneTitle={fortuneTitle}
+                              fortuneText={fortuneText}
+                              landed={landed}
+                              handleScore={handleScore}
+                            />
+                          )}
+                        </div>
+                      ) : (
+                        <div
+                          key={scoredText}
+                          className="flex flex-col items-center gap-4 animate-fade-up"
+                          style={{
+                            animationDelay: "200ms",
+                            animationDuration: "500ms",
+                          }}
+                        >
+                          {scoredText && (
+                            <p className="text-zinc-300 text-sm sm:text-base text-center">
+                              {scoredText}
+                            </p>
+                          )}
+                          {text && (
+                            <p className="italic text-zinc-200 text-center sm:text-base mb-2">
+                              "{text}"
+                            </p>
+                          )}
+                          <div className="flex items-center gap-6">
+                            <a
+                              href="/beanstalk"
+                              className="text-sm text-zinc-400 hover:text-zinc-200 underline transition-colors"
+                            >
+                              The Beanstalk grows →
+                            </a>
+                            <button
+                              onClick={handleClose}
+                              aria-label="Close"
+                              className="flex align-center text-zinc-500 hover:text-zinc-400 transition-colors cursor-pointer bg-transparent border-none text-sm leading-none"
+                            >
+                              Close ✕
+                            </button>
+                          </div>
+                        </div>
+                      )}
+                    </div>
                   </div>
                 </div>
                 <div

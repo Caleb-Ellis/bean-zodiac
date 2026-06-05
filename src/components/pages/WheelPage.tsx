@@ -243,8 +243,9 @@ export default function WheelPage({ data }: Props) {
     <div ref={topRef} className="flex flex-col items-center text-center w-full">
       <div ref={wheelRef} className="relative w-full flex justify-center">
         <ZodiacWheel
-          date={selectedDate ?? new Date(1933, 2, 12)}
+          date={selectedDate ?? new Date(new Date().getFullYear() - 60, new Date().getMonth(), new Date().getDate())}
           highlight={selectedDate !== null && highlighted}
+          idle={selectedDate === null}
           beansLetterCount={beansLetterCount}
           beansVisible={beansVisible}
         />

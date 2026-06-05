@@ -39,7 +39,7 @@ export default function RorschachVariant({
   return (
     <>
       <p
-        className={`text-xs tracking-widest uppercase text-zinc-500 text-center ${landed ? "animate-fade-up" : "opacity-0"}`}
+        className={`text-zinc-200 text-center text-regular ${landed ? "animate-fade-up" : "opacity-0"}`}
         style={
           landed
             ? { animationDelay: "150ms", animationDuration: "500ms" }

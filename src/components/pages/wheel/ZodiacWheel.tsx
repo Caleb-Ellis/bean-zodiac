@@ -31,6 +31,10 @@ const EASING = "cubic-bezier(0.4, 0, 0.1, 1)";
 const TRANSITION_INNER = `transform 2.5s ${EASING} 0ms`;
 const TRANSITION_MIDDLE = `transform 2.5s ${EASING} 0ms`;
 const TRANSITION_OUTER = `transform 2.5s ${EASING} 0ms`;
+// Idle spin: inner (form, 1yr/rev) at 1rev/min; outer/middle scaled by real cycle lengths
+const IDLE_INNER_DPMs = 360 / 60000;          // 1 yr  → 1 rev/min
+const IDLE_OUTER_DPMs = IDLE_INNER_DPMs / 12; // 12 yr → 1 rev/12min
+const IDLE_MIDDLE_DPMs = IDLE_INNER_DPMs / 10; // 10 yr → 1 rev/10min
 const ACTIVE_DARK = "#27272a";
 
 // Segment widths (degrees)
@@ -171,6 +175,7 @@ export const BEANS_LETTERS = [
 type Props = {
   date: Date;
   highlight?: boolean;
+  idle?: boolean;
   beansLetterCount?: number;
   beansVisible?: boolean;
 };
@@ -178,6 +183,7 @@ type Props = {
 export default function ZodiacWheel({
   date,
   highlight = true,
+  idle = false,
   beansLetterCount,
   beansVisible,
 }: Props) {
@@ -209,6 +215,63 @@ export default function ZodiacWheel({
   const [flavourActive, setFlavourActive] = useState(false);
   const [formActive, setFormActive] = useState(false);
   const [centreActive, setCentreActive] = useState(false);
+
+  const outerRef = useRef<SVGGElement>(null);
+  const middleRef = useRef<SVGGElement>(null);
+  const innerRef = useRef<SVGGElement>(null);
+  const idleRaf = useRef(0);
+  const idleAngle = useRef({ outer: 0, middle: 0, inner: 0 });
+  const idlePrevTime = useRef(0);
+  const prevIdleRef = useRef(false);
+
+  // Must be declared before the absOuter/absInner/absCentre effects so that
+  // prevAbs refs are neutralised before those effects read them on the same commit.
+  //
+  // The idle=true branch always starts the rAF and returns its own cleanup so
+  // that React StrictMode's double-invocation correctly restarts the loop.
+  useEffect(() => {
+    if (idle) {
+      prevIdleRef.current = true;
+      idleAngle.current = {
+        outer: ((outerRot % 360) + 360) % 360,
+        middle: ((innerRot % 360) + 360) % 360,
+        inner: ((formRot % 360) + 360) % 360,
+      };
+      idlePrevTime.current = 0;
+      const tick = (t: number) => {
+        if (idlePrevTime.current) {
+          const dt = t - idlePrevTime.current;
+          idleAngle.current.outer += dt * IDLE_OUTER_DPMs;
+          idleAngle.current.middle += dt * IDLE_MIDDLE_DPMs;
+          idleAngle.current.inner += dt * IDLE_INNER_DPMs;
+        }
+        idlePrevTime.current = t;
+        if (outerRef.current) outerRef.current.style.transform = `rotate(${idleAngle.current.outer}deg)`;
+        if (middleRef.current) middleRef.current.style.transform = `rotate(${idleAngle.current.middle}deg)`;
+        if (innerRef.current) innerRef.current.style.transform = `rotate(${idleAngle.current.inner}deg)`;
+        idleRaf.current = requestAnimationFrame(tick);
+      };
+      idleRaf.current = requestAnimationFrame(tick);
+      return () => cancelAnimationFrame(idleRaf.current);
+    }
+
+    // idle is false — rAF was already cancelled by the cleanup from the idle=true effect.
+    if (prevIdleRef.current) {
+      prevIdleRef.current = false;
+      const { outer: curOuter, middle: curMiddle, inner: curInner } = idleAngle.current;
+      const normOuter = ((curOuter % 360) + 360) % 360;
+      const normMiddle = ((curMiddle % 360) + 360) % 360;
+      const normInner = ((curInner % 360) + 360) % 360;
+      // Zero out the abs deltas so the abs effects below become no-ops this commit.
+      prevAbsOuter.current = absOuter;
+      prevAbsInner.current = absInner;
+      prevAbsCentre.current = absCentre;
+      // CSS transition starts from the DOM's current position (rAF's last frame).
+      setOuterRot(curOuter + capDelta(((targetOuter - normOuter) + 360) % 360, 540));
+      setInnerRot(curMiddle + capDelta(((targetInner - normMiddle) + 360) % 360, 630));
+      setFormRot(curInner + capDelta(((targetForm - normInner) + 360) % 360, 720));
+    }
+  }, [idle]); // eslint-disable-line react-hooks/exhaustive-deps
 
   useEffect(() => {
     const delta = absOuter - prevAbsOuter.current;
@@ -285,10 +348,11 @@ export default function ZodiacWheel({
 
       {/* Outer bean ring — rotates once per 12 years */}
       <g
+        ref={outerRef}
         style={{
           transformOrigin: `${CX}px ${CY}px`,
           transform: `rotate(${outerRot}deg)`,
-          transition: TRANSITION_OUTER,
+          transition: idle ? "none" : TRANSITION_OUTER,
           willChange: "transform",
         }}
       >
@@ -326,10 +390,11 @@ export default function ZodiacWheel({
 
       {/* Inner form ring — rotates once every year */}
       <g
+        ref={innerRef}
         style={{
           transformOrigin: `${CX}px ${CY}px`,
           transform: `rotate(${formRot}deg)`,
-          transition: TRANSITION_INNER,
+          transition: idle ? "none" : TRANSITION_INNER,
           willChange: "transform",
         }}
       >
@@ -367,10 +432,11 @@ export default function ZodiacWheel({
 
       {/* Middle flavour ring — rotates once every 10 years */}
       <g
+        ref={middleRef}
         style={{
           transformOrigin: `${CX}px ${CY}px`,
           transform: `rotate(${innerRot}deg)`,
-          transition: TRANSITION_MIDDLE,
+          transition: idle ? "none" : TRANSITION_MIDDLE,
           willChange: "transform",
         }}
       >

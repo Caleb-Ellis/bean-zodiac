@@ -13,11 +13,11 @@ import { useStore } from "../store";
 // the order attributes appear around each chart; scoring no longer reads
 // adjacency, so reordering only changes layout, not the numbers.
 export const SPIRIT_FLAVOUR_RING: FlavourId[] = [
+  "umami",
   "bitter",
   "sour",
-  "spicy",
   "sweet",
-  "umami",
+  "spicy",
 ];
 
 export const SPIRIT_FORM_RING: FormId[] = [
@@ -30,18 +30,18 @@ export const SPIRIT_FORM_RING: FormId[] = [
 ];
 
 export const SPIRIT_BEAN_RING: BeanId[] = [
-  "green",
-  "fava",
-  "kidney",
-  "pinto",
-  "adzuki",
-  "chickpea",
-  "butter",
-  "mung",
   "navy",
   "black",
   "cannellini",
   "edamame",
+  "fava",
+  "green",
+  "kidney",
+  "pinto",
+  "adzuki",
+  "chickpea",
+  "mung",
+  "butter",
 ];
 
 // Base score applied to each of the accepted/resisted zodiac's own triple
