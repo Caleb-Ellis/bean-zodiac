@@ -25,13 +25,13 @@ fortuneLeast2: A grievance is drifting out the open window like smoke, and you w
 facetMostTitle: Andouille Before It Speaks
 facetMost: Same red light, and there's the driver who cut you off. You hold the look — level, cold — and let the quiet carry it.
 facetHighTitle: Bay Leaf Left in Too Long
-facetHigh: You smile at the reunion and pour their drink, the old wrong folded neatly under it, neither aired nor given up.
+facetHigh: The one who undercut you years back needs a favour and asks like nothing happened. You could say it now, finally. You say sure, and bank the asking for later instead.
 facetMidTitle: Celery at the Bottom
-facetMid: After the row, no sleep coming — so you scrub the kitchen down at midnight until your hands quit shaking.
+facetMid: The mechanic overcharged you and you both know it. You pay without a word and decide, on the spot, he's never touching the car again.
 facetLowTitle: Quick Steam Off a Fresh Pot
 facetLow: The waiter's short with your table, so you name it to his face, plain and even, and order pudding in the same breath.
 facetLeastTitle: Smoke Through an Open Window
-facetLeast: Someone snaps at you in the checkout line, and by the next aisle it's gone — you couldn't even picture their face now.
+facetLeast: A cyclist clips your mirror and rides off without stopping. You shout once, mean it for the length of the block, and let it go with the next green light.
 question: At the holiday table your brother makes the same belittling joke he always does, and the others laugh it off. You...
 answerMost: smile thinly, say nothing, and add it to the long account
 answerHigh: hold your face still and let it harden inside

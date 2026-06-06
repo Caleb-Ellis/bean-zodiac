@@ -132,7 +132,7 @@ export default function BeanstalkPage({ data }: Props) {
                 spiritFormId !== formId ||
                 spiritBeanId !== beanId;
 
-              return isDifferent ? (
+              return (
                 <div className="flex flex-col sm:flex-row gap-12 sm:gap-8 justify-center items-center sm:items-start w-full max-w-2xl my-4">
                   <div className="flex flex-col items-center gap-3 flex-1">
                     <p className="text-sm text-zinc-500 uppercase tracking-widest mb-4">
@@ -147,24 +147,26 @@ export default function BeanstalkPage({ data }: Props) {
                       formId={formId}
                     />
                   </div>
-                  <div className="flex flex-col items-center gap-3 flex-1">
-                    <p className="text-sm text-zinc-500 uppercase tracking-widest mb-4">
-                      Your spirit is a
-                    </p>
-                    <MiniIdentity
-                      beanId={spiritBeanId}
-                      beanName={data.beans[spiritBeanId].name}
-                      preparation={getPreparationName(
-                        spiritFlavourId,
-                        spiritFormId,
-                      )}
-                      bean={data.beans[spiritBeanId]}
-                      flavourId={spiritFlavourId}
-                      formId={spiritFormId}
-                    />
-                  </div>
+                  {isDifferent && (
+                    <div className="flex flex-col items-center gap-3 flex-1">
+                      <p className="text-sm text-zinc-500 uppercase tracking-widest mb-4">
+                        Your spirit is a
+                      </p>
+                      <MiniIdentity
+                        beanId={spiritBeanId}
+                        beanName={data.beans[spiritBeanId].name}
+                        preparation={getPreparationName(
+                          spiritFlavourId,
+                          spiritFormId,
+                        )}
+                        bean={data.beans[spiritBeanId]}
+                        flavourId={spiritFlavourId}
+                        formId={spiritFormId}
+                      />
+                    </div>
+                  )}
                 </div>
-              ) : null;
+              );
             })()}
             <p className="text-lg sm:text-xl font-bold text-zinc-300 text-center">
               {getAlignmentText(getSpiritDiff(scores))}

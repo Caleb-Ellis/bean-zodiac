@@ -32,17 +32,17 @@ facetLowTitle: Straight From the Garden
 facetLow: Asked on the spot what you'd change about the plan, you blurt the first thing that surfaces. It comes out blunter than you meant, and you let it stand rather than walk it back.
 facetLeastTitle: Quick-Pickle, Same Hour
 facetLeast: One odd-looking fruit on the market stall, nothing like it tried before — and it's in your basket on gut feeling alone, never mind that it might be a waste of the coin.
-question: You owe a sympathy card by tomorrow to someone whose loss isn't yours to claim but isn't a stranger's either. The pen is in your hand. You...
-answerMost: sit with it for an hour and write three drafts before the one you send
-answerHigh: write one line that takes you twenty minutes to find
-answerMid: write the warm standard sentence and sign it properly
-answerLow: write what comes and send it before you can second-guess
-answerLeast: tick the pre-printed card, sign the name, post it
-rorschachMost: two heads bent close, almost touching, over a problem
-rorschachHigh: two halves of a walnut, the seam between them
-rorschachMid: two clouds drifting close above the water
-rorschachLow: two rams leaning in just before they butt
-rorschachLeast: two cliffs cracked apart by a sudden split
+question: You've got the window seat on a long flight. The child beside you keeps glancing out at the clouds and half-starting to say something. You...
+answerMost: offer your seat before they ask
+answerHigh: catch the glances and ask if they'd rather swap
+answerMid: lean back so they get a clear view the whole flight
+answerLow: stay put but keep the shade up for them
+answerLeast: pretend you don't notice
+rorschachMost: a brain, deeply folded
+rorschachHigh: a wasps' nest, packed and layered
+rorschachMid: a mossy boulder, lichen flaking at the edges
+rorschachLow: a clod of earth crumbling, bits coming loose
+rorschachLeast: a mud ball flung, scattering to pieces midair
 ---
 
 Cultured Butter Beans are the Bean Zodiac's most thoughtful — the quiet ones in a loud room whose single sentence, when it finally comes, lands like a ladle finding the bottom of the pot. They don't talk to fill air. They wait until the thing is actually worth saying, and it usually is, and people learn to lean in when they start.

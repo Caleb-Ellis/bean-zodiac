@@ -90,7 +90,6 @@ export interface DailyFortune {
   scoringOut: boolean;
   handleScore: (v: number) => void;
   handleAnswer: (q: QualityId) => void;
-  handleIgnore: () => void;
   handleClose: () => void;
 }
 
@@ -132,7 +131,7 @@ export function useDailyFortune(
   const [scored, setScored] = useState(initiallyScored);
   const [qualityId, setQualityId] = useState<QualityId>(initialQualityId);
   const [variant, setVariant] = useState<RitualVariant>(initialVariant);
-  const [dialogOpen, setDialogOpen] = useState(() => !initialEntry?.seenAt);
+  const [dialogOpen, setDialogOpen] = useState(() => !initialEntry);
   const [scoringOut, setScoringOut] = useState(false);
   const [scoredText, setScoredText] = useState<string | null>(null);
   const [text, setText] = useState<string | null>(initialEntry?.text ?? null);
@@ -150,25 +149,6 @@ export function useDailyFortune(
       if (initiallyScored) {
         setScoredText(buildScoredText(fortune.trait, initialScore, qualityId));
       }
-      useStore.getState().addFortuneEntry({
-        date: localDateStr,
-        zodiacId: fortuneZodiacId,
-        qualityId: rolledQualityId,
-        facetTitle: getFacetTitle(fortune, rolledQualityId),
-        facetText: getFortuneText(fortune, rolledQualityId),
-        spiritTags: getSpiritTags(fortune),
-        score: 0,
-        text: null,
-        variant: effectiveVariant,
-        question: effectiveVariant === "question" ? fortune.question : null,
-        answeredQuality: null,
-        answerText: null,
-        rorschachImage:
-          effectiveVariant === "rorschach"
-            ? `/images/rorschach/${fortuneZodiacId}.svg`
-            : null,
-        rorschachText: null,
-      });
     });
   }, [fortuneZodiacId]);
 
@@ -188,26 +168,67 @@ export function useDailyFortune(
     useStore.getState().markFortuneSeen(localDateStr);
   };
 
+  // Persist (or, on a rare re-score within an open dialog, update) the day's
+  // entry. The entry only ever exists once the user has scored — until then the
+  // fortune is recomputed each load — so the scored fields below are the first
+  // and only write for the day. facetTitle/facetText snapshot the rolled tier;
+  // the stored qualityId is the answered tier for question/rorschach variants.
+  const persistFortune = (
+    fortune: Zodiac,
+    scoredFields: {
+      qualityId: QualityId;
+      score: number;
+      text: string | null;
+      answeredQuality?: QualityId | null;
+      answerText?: string | null;
+      rorschachText?: string | null;
+    },
+  ) => {
+    const store = useStore.getState();
+    const patch = {
+      qualityId: scoredFields.qualityId,
+      score: scoredFields.score,
+      text: scoredFields.text,
+      answeredQuality: scoredFields.answeredQuality ?? null,
+      answerText: scoredFields.answerText ?? null,
+      rorschachText: scoredFields.rorschachText ?? null,
+      seenAt: new Date().toISOString(),
+    };
+    if (store.fortuneHistory.some((e) => e.date === localDateStr)) {
+      store.updateFortuneEntry(localDateStr, patch);
+      return;
+    }
+    store.addFortuneEntry({
+      date: localDateStr,
+      zodiacId: fortuneZodiacId,
+      facetTitle: getFacetTitle(fortune, rolledQualityId),
+      facetText: getFortuneText(fortune, rolledQualityId),
+      spiritTags: getSpiritTags(fortune),
+      variant,
+      question: variant === "question" ? fortune.question : null,
+      rorschachImage:
+        variant === "rorschach"
+          ? `/images/rorschach/${fortuneZodiacId}.svg`
+          : null,
+      ...patch,
+    });
+  };
+
   const handleScore = (v: number) => {
+    if (!fortuneZodiac) return;
     setScoringOut(true);
     setTimeout(() => {
       const newScore = score === v ? 0 : v;
-      const newDailyText = fortuneZodiac
-        ? getDailyText(fortuneZodiac, qualityId, newScore, date)
-        : null;
-      useStore.getState().updateFortuneEntry(localDateStr, {
+      const newDailyText = getDailyText(fortuneZodiac, qualityId, newScore, date);
+      persistFortune(fortuneZodiac, {
+        qualityId,
         score: newScore,
         text: newDailyText,
       });
       setScore(newScore);
       setScored(true);
       setText(newDailyText);
-      if (fortuneZodiac) {
-        setScoredText(
-          buildScoredText(fortuneZodiac.trait, newScore, qualityId),
-        );
-      }
-      markSeen();
+      setScoredText(buildScoredText(fortuneZodiac.trait, newScore, qualityId));
       setScoringOut(false);
     }, 700);
   };
@@ -224,7 +245,7 @@ export function useDailyFortune(
       const newRorschachText = isRorschach
         ? (getRorschachText(fortuneZodiac, answerQuality) ?? null)
         : null;
-      useStore.getState().updateFortuneEntry(localDateStr, {
+      persistFortune(fortuneZodiac, {
         qualityId: answerQuality,
         score: 1,
         text: newDailyText,
@@ -238,19 +259,6 @@ export function useDailyFortune(
       setText(newDailyText);
       setAnswerText(newAnswerText ?? newRorschachText);
       setScoredText(buildScoredText(fortuneZodiac.trait, 1, answerQuality));
-      markSeen();
-      setScoringOut(false);
-    }, 700);
-  };
-
-  const handleIgnore = () => {
-    setScoringOut(true);
-    setTimeout(() => {
-      setScored(true);
-      if (fortuneZodiac) {
-        setScoredText(buildScoredText(fortuneZodiac.trait, 0, qualityId));
-      }
-      markSeen();
       setScoringOut(false);
     }, 700);
   };
@@ -289,7 +297,6 @@ export function useDailyFortune(
     scoringOut,
     handleScore,
     handleAnswer,
-    handleIgnore,
     handleClose,
   };
 }

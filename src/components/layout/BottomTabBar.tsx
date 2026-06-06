@@ -1,4 +1,5 @@
 import { Link, useLocation } from "@tanstack/react-router";
+import { useEffect, useRef, useState } from "react";
 
 const tabs = [
   {
@@ -29,10 +30,40 @@ const tabs = [
 
 export function BottomTabBar() {
   const { pathname } = useLocation();
+  const [hidden, setHidden] = useState(false);
+  const lastY = useRef(0);
+
+  useEffect(() => {
+    lastY.current = window.scrollY;
+    let frame = 0;
+
+    const onScroll = () => {
+      if (frame) return;
+      frame = requestAnimationFrame(() => {
+        frame = 0;
+        const y = window.scrollY;
+        const delta = y - lastY.current;
+        if (y < 16) {
+          setHidden(false);
+        } else if (delta > 4) {
+          setHidden(true);
+        } else if (delta < -4) {
+          setHidden(false);
+        }
+        lastY.current = y;
+      });
+    };
+
+    window.addEventListener("scroll", onScroll, { passive: true });
+    return () => {
+      window.removeEventListener("scroll", onScroll);
+      if (frame) cancelAnimationFrame(frame);
+    };
+  }, []);
 
   return (
     <nav
-      className="fixed bottom-0 inset-x-0 md:hidden z-50 bg-zinc-950/95 backdrop-blur-sm border-t-2 border-zinc-800"
+      className={`fixed bottom-0 inset-x-0 md:hidden z-50 bg-zinc-950/95 backdrop-blur-sm border-t-2 border-zinc-800 transition-transform duration-300 will-change-transform ${hidden ? "translate-y-full" : "translate-y-0"}`}
       style={{ paddingBottom: "env(safe-area-inset-bottom, 0px)" }}
     >
       <ul className="flex list-none m-0 p-0">

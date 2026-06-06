@@ -13,11 +13,11 @@ friendlyForm: fried
 antiForm: dried
 seasonalFortune: Smoke settles in the rafters and refuses to leave; the season widens its doorways, lets the odd guest in, asks no one their business.
 fortuneMost: Cook for more than are coming.
-fortuneMost2: You salt for the larger number and never mention the arithmetic.
+fortuneMost2: You cook for whoever turns up, and no one has to ask if there's enough.
 fortuneHigh: The borrowed thing that's lingered far too long — let it linger.
 fortuneHigh2: A friend with difficult opinions still has a seat with you.
-fortuneMid: Answer the unfair charge while it's small and even.
-fortuneMid2: Things gather around you untagged until claimed — jackets, books, the odd guest.
+fortuneMid: Answer the unfairness while it's small.
+fortuneMid2: You don't mind the thing that doesn't quite fit.
 fortuneLow: When a question is really feeling for your edge, draw the line right then, not the third time it's crossed.
 fortuneLow2: You can wave a great deal through and still say the one true no.
 fortuneLeast: A door held open from pure habit is allowed to close.
@@ -25,7 +25,7 @@ fortuneLeast2: Step back from the thing that wandered off course.
 facetMostTitle: Paprika at the Edge
 facetMost: The campsite next to yours has a loud sprawling family, a wandering dog, and a radio. By morning their kids are eating off your picnic table and it doesn't occur to you to mind.
 facetHighTitle: Garlic, Loud in the Pan
-facetHigh: There it is again — the relative's opinion that makes the whole table wince. Without a flicker you let it pass and pour them another, because they're still yours.
+facetHigh: There it is again — the relative's opinion that makes the whole table wince. Without a flicker you let it pass and pour them another, because they're still family.
 facetMidTitle: The Crowded Tray
 facetMid: A neighbour's habit of parking half across your spot has gone on for weeks. Say the small even thing now, or wave it through one more time?
 facetLowTitle: Worcestershire, Dark
@@ -38,11 +38,11 @@ answerHigh: let it ride and read on, you barely notice
 answerMid: tolerate it a while, then quietly reclaim your half of the seat
 answerLow: ask them, evenly, to turn the music down
 answerLeast: say plainly this is your space and move if they won't
-rorschachMost: a candelabra with arms branching out to every side
-rorschachHigh: a coral fanning wide off a single base
-rorschachMid: a shrub with many branches above one trunk
-rorschachLow: a stag's antlers pulled back into a narrow rack
-rorschachLeast: a bare stump with its branches all cut off
+rorschachMost: a wiry candelabra with arms branching out to every side
+rorschachHigh: coral fanning wide off a single base
+rorschachMid: a bulb of garlic releasing an odor
+rorschachLow: a stag's antlers, pulled in tight
+rorschachLeast: a dead tree with its branches cut short
 ---
 
 Rendered Chickpeas are the Bean Zodiac's most tolerant — they've been around long enough to lose interest in deciding who doesn't belong. Six become nine and the salt gets adjusted without comment. The jacket on the chair stays a month, the borrowed book stays a year, and the friend with the difficult opinions stays at the table.

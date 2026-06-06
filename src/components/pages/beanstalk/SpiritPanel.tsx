@@ -82,7 +82,7 @@ export default function SpiritPanel({
       <div className="max-lg:relative max-lg:mx-auto max-lg:w-[95%] max-lg:bg-zinc-900 max-lg:border max-lg:border-zinc-700 max-lg:rounded-xl max-lg:shadow-[0_0_24px_rgba(0,0,0,0.6)] max-lg:px-4 max-lg:pt-3 max-lg:pb-4 lg:contents">
         {spiritBean && (
           <div className="text-center shrink-0">
-            <p className="text-xs text-zinc-400 uppercase tracking-widest mb-1">Spirit Bean</p>
+            <p className="max-lg:hidden text-xs text-zinc-400 uppercase tracking-widest mb-1">Spirit Bean</p>
             <p className="text-lg font-bold leading-tight mb-2">
               <ZodiacName
                 flavourId={spiritFlavourId}

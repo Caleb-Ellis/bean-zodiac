@@ -29,7 +29,7 @@ facetHigh: You spot the friend who hates surprises rounding the corner. There's 
 facetMidTitle: Salt With a Deliberate Hand
 facetMid: A new colleague swears they never fall for jokes. You slide one harmless absurd claim into the chat to see how long they nod along.
 facetLowTitle: The Bean Plain, No Heat
-facetLow: A friend hands you a perfect setup, the punchline sitting right there for the taking. You let it sail past and just ask how they're doing.
+facetLow: A friend hands you a perfect setup, the punchline sitting right there for the taking. You pretend you don't see it and let it sail past.
 facetLeastTitle: The Tray Cooling Untouched
 facetLeast: The kids dare you to ring the spooky neighbour's bell and bolt. You shrug, hand back the dare, and keep walking.
 question: The hotel elevator jolts to a stop between floors with three silent strangers. You...
@@ -38,11 +38,11 @@ answerHigh: crack the joke guaranteed to make someone either laugh or panic
 answerMid: ask the quietest one where they're headed and get them talking
 answerLow: catch someone's eye and grin at the absurdity
 answerLeast: face the doors, watch the numbers, wait it out in silence
-rorschachMost: an imp crouched ready to spring from the dark
-rorschachHigh: a cat hunched mid-pounce, ears flat
-rorschachMid: a broken slab of bark with dangling roots
-rorschachLow: a toad sitting still on a flat stone
-rorschachLeast: a sack of meal slumped quiet in a corner
+rorschachMost: a goblin's head, wild-haired, perched on spindly legs
+rorschachHigh: a scarecrow knocked askew, straw bursting at the top
+rorschachMid: a shrub uprooted, root-ball heavy over dangling roots
+rorschachLow: a mop stood on its head, handle splayed below
+rorschachLeast: a haystack left to settle, sagging on thin poles
 ---
 
 Glazed Pinto Beans are the Bean Zodiac's most mischievous — the ones who walk into the gathering they weren't invited to holding something nobody can refuse, and stay until the room is theirs. Their replies arrive at 11pm with one extra word that nobody asked for and the thread tilts. The chipotle waits a beat behind the sweet, then speaks.

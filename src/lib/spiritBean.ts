@@ -134,7 +134,12 @@ export function computeSpiritBeanScores(
     ];
 
     // Base pass: the zodiac's own triple, on the accepted/resisted tables.
-    const base = (accepted ? ACCEPTED_BASE : RESISTED_BASE)[entry.qualityId];
+    // Rorschach answers count a touch less — pull the magnitude in by 1, but
+    // never past ±1, so the sign (and a minimal nudge) is preserved.
+    let base = (accepted ? ACCEPTED_BASE : RESISTED_BASE)[entry.qualityId];
+    if (entry.variant === "rorschach" && Math.abs(base) > 1) {
+      base -= Math.sign(base);
+    }
     flavourScores[f] += base;
     formScores[frm] += base;
     beanScores[b] += base;
@@ -150,8 +155,13 @@ export function computeSpiritBeanScores(
       const t = entry.spiritTags;
       const positive = POSITIVE_TIERS.has(entry.qualityId);
       const sign = accepted ? 1 : -1;
-      const beanSoft = sign * SOFT_BEAN[entry.qualityId];
-      const formSoft = sign * SOFT_FORM[entry.qualityId];
+      // Rorschach answers count a touch less here too: pull each soft magnitude
+      // in by 1, floored at 1 so the nudge never vanishes.
+      const ror = entry.variant === "rorschach";
+      const beanMag = SOFT_BEAN[entry.qualityId];
+      const formMag = SOFT_FORM[entry.qualityId];
+      const beanSoft = sign * (ror ? Math.max(1, beanMag - 1) : beanMag);
+      const formSoft = sign * (ror ? Math.max(1, formMag - 1) : formMag);
       for (const id of positive ? t.friendlyBeans : t.antiBeans) {
         beanScores[id] += beanSoft;
       }

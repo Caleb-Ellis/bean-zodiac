@@ -51,11 +51,14 @@ const getQualityForSlug = (slug: string, date: Date): QualityId => {
 export type RitualVariant = "facet" | "question" | "rorschach";
 
 // Weights out of 4: facet 2, question 1, rorschach 1.
-// XOR mask keeps this hash independent from getQualityForSlug
+// The slug is itself date-derived, so a plain polynomial hash seeded with the
+// day correlates with the slug-selection roll and skews the variant mix. Fold
+// the slug into one integer, then run it through h32's avalanche mixer with the
+// day so the low bits we read for the variant are decorrelated from that roll.
 export const getVariantForSlug = (slug: string, date: Date): RitualVariant => {
-  let h = (daysSinceOrigin(date) ^ 0x5a5a5a5a) >>> 0;
-  for (const c of slug) h = (Math.imul(h, 31) + c.charCodeAt(0)) >>> 0;
-  const r = h % 4;
+  let s = 0;
+  for (const c of slug) s = (Math.imul(s, 31) + c.charCodeAt(0)) >>> 0;
+  const r = h32(daysSinceOrigin(date) ^ 0x5a5a5a5a, s) % 4;
   if (r < 2) return "facet";
   if (r < 3) return "question";
   return "rorschach";

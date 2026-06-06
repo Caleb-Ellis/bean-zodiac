@@ -27,7 +27,7 @@ facetMost: No drummer, no warning, and the sticks land in your hands instead. Yo
 facetHighTitle: The Herb at the Doorway
 facetHigh: A language you don't speak, customs you've never met, and dinner already starting. Drop the manners you rehearsed, copy theirs, and be easy in the room before the first course is cleared.
 facetMidTitle: Pinch by Pinch
-facetMid: Trail washed out, the bridge gone downstream. Across on the fallen log instead — no fuss, just another way over, and on.
+facetMid: Trail washed out, the bridge gone downstream. Across on the fallen log instead — no fuss, just another way over.
 facetLowTitle: The Sunday Lemon
 facetLow: A free day, and a dozen tempting ways to spend it fanning out at once. For once you pick a single one and hold to it, leaving the rest uncollected.
 facetLeastTitle: One Pot, One Heat
