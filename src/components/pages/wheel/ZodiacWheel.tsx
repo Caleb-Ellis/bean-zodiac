@@ -267,9 +267,11 @@ export default function ZodiacWheel({
       prevAbsInner.current = absInner;
       prevAbsCentre.current = absCentre;
       // CSS transition starts from the DOM's current position (rAF's last frame).
-      setOuterRot(curOuter + capDelta(((targetOuter - normOuter) + 360) % 360, 540));
-      setInnerRot(curMiddle + capDelta(((targetInner - normMiddle) + 360) % 360, 630));
-      setFormRot(curInner + capDelta(((targetForm - normInner) + 360) % 360, 720));
+      // Spin at least 180° so the wheel always reads as "kicking back to life",
+      // even when a ring happens to be sitting near its target.
+      setOuterRot(curOuter + capDelta(atLeast180(((targetOuter - normOuter) + 360) % 360), 900));
+      setInnerRot(curMiddle + capDelta(atLeast180(((targetInner - normMiddle) + 360) % 360), 990));
+      setFormRot(curInner + capDelta(atLeast180(((targetForm - normInner) + 360) % 360), 1080));
     }
   }, [idle]); // eslint-disable-line react-hooks/exhaustive-deps
 
@@ -566,6 +568,12 @@ export default function ZodiacWheel({
       </g>
     </svg>
   );
+}
+
+// Forward delta in [0,360); add a full turn when it falls short of 180° so the
+// ring always spins at least half a revolution coming out of idle.
+function atLeast180(forwardDelta: number): number {
+  return forwardDelta < 180 ? forwardDelta + 360 : forwardDelta;
 }
 
 function capDelta(delta: number, maxDeg: number): number {

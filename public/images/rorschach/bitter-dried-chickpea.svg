@@ -1,11 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="28 28 200 200" width="200" height="200">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="28 28 200 200" width="600" height="600">
   <defs>
-    <filter id="blot" x="-20%" y="-20%" width="140%" height="140%" color-interpolation-filters="sRGB">
-      <feTurbulence type="fractalNoise" baseFrequency="0.0491" numOctaves="2" seed="1005" result="noise" />
+    <filter id="blot" x="-25%" y="-25%" width="150%" height="150%" color-interpolation-filters="sRGB">
+      <feTurbulence type="turbulence" baseFrequency="0.0491" numOctaves="2" seed="1005" result="noise" />
       <feDisplacementMap in="SourceGraphic" in2="noise" scale="35" xChannelSelector="R" yChannelSelector="G" result="warped" />
-      <feGaussianBlur in="warped" stdDeviation="1.00" result="blurred" />
-      <feColorMatrix in="blurred" type="matrix" values="0 0 0 0 0.05  0 0 0 0 0.05  0 0 0 0 0.06  0 0 0 1.6 -0.2" />
+      <feGaussianBlur in="warped" stdDeviation="0.60" result="blurred" />
+      <feColorMatrix in="blurred" type="matrix" values="0 0 0 0 0.05  0 0 0 0 0.05  0 0 0 0 0.06  0 0 0 1 0" result="inked" />
+      <feDisplacementMap in="inked" in2="noise" scale="11" xChannelSelector="G" yChannelSelector="R" result="ragged" />
+      <feGaussianBlur in="ragged" stdDeviation="0.6" result="raggedBlur" />
+      <feComponentTransfer in="raggedBlur">
+        <feFuncA type="linear" slope="6" intercept="-2.0" />
+      </feComponentTransfer>
     </filter>
   </defs>
   <g transform="translate(0 0) scale(1 1)">
@@ -13,16 +18,16 @@
       <g>
         
     <g>
-      <image href="/images/chickpea.svg" x="-82.96" y="-66.96" width="401.92" height="401.92" transform="rotate(16 118 134)" />
-      <text x="141" y="177" font-size="84" text-anchor="middle" dominant-baseline="central" transform="rotate(-17 141 177)">☕</text>
-      <text x="135" y="96" font-size="94" text-anchor="middle" dominant-baseline="central" transform="rotate(21 135 96)">☀️</text>
+      <image href="/images/chickpea.svg" x="-82.16" y="-67.76" width="401.92" height="401.92" transform="rotate(16 118.8 133.2)" />
+      <text x="139.4" y="171.8" font-size="84" text-anchor="middle" dominant-baseline="central" transform="rotate(-17 139.4 171.8)">☕</text>
+      <text x="134.4" y="99" font-size="94" text-anchor="middle" dominant-baseline="central" transform="rotate(21 134.4 99)">☀️</text>
     </g>
         <g transform="translate(256 0) scale(-1 1)">
           
     <g>
-      <image href="/images/chickpea.svg" x="-82.96" y="-66.96" width="401.92" height="401.92" transform="rotate(16 118 134)" />
-      <text x="141" y="177" font-size="84" text-anchor="middle" dominant-baseline="central" transform="rotate(-17 141 177)">☕</text>
-      <text x="135" y="96" font-size="94" text-anchor="middle" dominant-baseline="central" transform="rotate(21 135 96)">☀️</text>
+      <image href="/images/chickpea.svg" x="-82.16" y="-67.76" width="401.92" height="401.92" transform="rotate(16 118.8 133.2)" />
+      <text x="139.4" y="171.8" font-size="84" text-anchor="middle" dominant-baseline="central" transform="rotate(-17 139.4 171.8)">☕</text>
+      <text x="134.4" y="99" font-size="94" text-anchor="middle" dominant-baseline="central" transform="rotate(21 134.4 99)">☀️</text>
     </g>
         </g>
       </g>

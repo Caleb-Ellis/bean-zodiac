@@ -363,7 +363,11 @@ export default function MorphingRadar({
           <path
             key={tab}
             d={d}
-            style={{ fill: color, stroke: color }}
+            style={{
+              fill: color,
+              stroke: color,
+              transition: `fill ${ANIM_MS}ms, stroke ${ANIM_MS}ms`,
+            }}
             fillOpacity={0.04}
             strokeOpacity={0.2}
             strokeWidth={1.5}
@@ -374,7 +378,11 @@ export default function MorphingRadar({
         <path
           ref={dataPathRef}
           d={toPath(getExpanded(activeTab, flavourValues, formValues, beanValues))}
-          style={{ fill: colorVar, stroke: colorVar }}
+          style={{
+            fill: colorVar,
+            stroke: colorVar,
+            transition: `fill ${ANIM_MS}ms, stroke ${ANIM_MS}ms`,
+          }}
           fillOpacity={0.2}
           strokeWidth={2}
           strokeLinejoin="round"

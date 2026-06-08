@@ -1,11 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="28 28 200 200" width="200" height="200">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="28 28 200 200" width="600" height="600">
   <defs>
-    <filter id="blot" x="-20%" y="-20%" width="140%" height="140%" color-interpolation-filters="sRGB">
-      <feTurbulence type="fractalNoise" baseFrequency="0.0469" numOctaves="2" seed="5834" result="noise" />
+    <filter id="blot" x="-25%" y="-25%" width="150%" height="150%" color-interpolation-filters="sRGB">
+      <feTurbulence type="turbulence" baseFrequency="0.0469" numOctaves="2" seed="5834" result="noise" />
       <feDisplacementMap in="SourceGraphic" in2="noise" scale="46" xChannelSelector="R" yChannelSelector="G" result="warped" />
-      <feGaussianBlur in="warped" stdDeviation="1.00" result="blurred" />
-      <feColorMatrix in="blurred" type="matrix" values="0 0 0 0 0.05  0 0 0 0 0.05  0 0 0 0 0.06  0 0 0 1.6 -0.2" />
+      <feGaussianBlur in="warped" stdDeviation="0.60" result="blurred" />
+      <feColorMatrix in="blurred" type="matrix" values="0 0 0 0 0.05  0 0 0 0 0.05  0 0 0 0 0.06  0 0 0 1 0" result="inked" />
+      <feDisplacementMap in="inked" in2="noise" scale="7" xChannelSelector="G" yChannelSelector="R" result="ragged" />
+      <feGaussianBlur in="ragged" stdDeviation="0.6" result="raggedBlur" />
+      <feComponentTransfer in="raggedBlur">
+        <feFuncA type="linear" slope="6" intercept="-2.0" />
+      </feComponentTransfer>
     </filter>
   </defs>
   <g transform="translate(0 0) scale(1 1)">
@@ -13,16 +18,16 @@
       <g transform="rotate(90 128 128)">
         
     <g>
-      <image href="/images/cannellini.svg" x="-48.96" y="-32.96" width="337.92" height="337.92" transform="rotate(35 120 136)" />
-      <text x="139" y="92" font-size="82" text-anchor="middle" dominant-baseline="central" transform="rotate(18 139 92)">🍭</text>
-      <text x="143" y="173" font-size="75" text-anchor="middle" dominant-baseline="central" transform="rotate(5 143 173)">💨</text>
+      <image href="/images/cannellini.svg" x="-48.56" y="-34.16" width="337.92" height="337.92" transform="rotate(35 120.4 134.8)" />
+      <text x="137.6" y="95.8" font-size="82" text-anchor="middle" dominant-baseline="central" transform="rotate(18 137.6 95.8)">🍭</text>
+      <text x="141.2" y="168.4" font-size="75" text-anchor="middle" dominant-baseline="central" transform="rotate(5 141.2 168.4)">💨</text>
     </g>
         <g transform="translate(256 0) scale(-1 1)">
           
     <g>
-      <image href="/images/cannellini.svg" x="-48.96" y="-32.96" width="337.92" height="337.92" transform="rotate(35 120 136)" />
-      <text x="139" y="92" font-size="82" text-anchor="middle" dominant-baseline="central" transform="rotate(18 139 92)">🍭</text>
-      <text x="143" y="173" font-size="75" text-anchor="middle" dominant-baseline="central" transform="rotate(5 143 173)">💨</text>
+      <image href="/images/cannellini.svg" x="-48.56" y="-34.16" width="337.92" height="337.92" transform="rotate(35 120.4 134.8)" />
+      <text x="137.6" y="95.8" font-size="82" text-anchor="middle" dominant-baseline="central" transform="rotate(18 137.6 95.8)">🍭</text>
+      <text x="141.2" y="168.4" font-size="75" text-anchor="middle" dominant-baseline="central" transform="rotate(5 141.2 168.4)">💨</text>
     </g>
         </g>
       </g>

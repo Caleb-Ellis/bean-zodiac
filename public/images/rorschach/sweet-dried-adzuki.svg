@@ -1,11 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="28 28 200 200" width="200" height="200">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="28 28 200 200" width="600" height="600">
   <defs>
-    <filter id="blot" x="-20%" y="-20%" width="140%" height="140%" color-interpolation-filters="sRGB">
-      <feTurbulence type="fractalNoise" baseFrequency="0.0314" numOctaves="2" seed="8704" result="noise" />
+    <filter id="blot" x="-25%" y="-25%" width="150%" height="150%" color-interpolation-filters="sRGB">
+      <feTurbulence type="turbulence" baseFrequency="0.0314" numOctaves="2" seed="8704" result="noise" />
       <feDisplacementMap in="SourceGraphic" in2="noise" scale="50" xChannelSelector="R" yChannelSelector="G" result="warped" />
-      <feGaussianBlur in="warped" stdDeviation="1.70" result="blurred" />
-      <feColorMatrix in="blurred" type="matrix" values="0 0 0 0 0.05  0 0 0 0 0.05  0 0 0 0 0.06  0 0 0 1.6 -0.2" />
+      <feGaussianBlur in="warped" stdDeviation="0.95" result="blurred" />
+      <feColorMatrix in="blurred" type="matrix" values="0 0 0 0 0.05  0 0 0 0 0.05  0 0 0 0 0.06  0 0 0 1 0" result="inked" />
+      <feDisplacementMap in="inked" in2="noise" scale="7" xChannelSelector="G" yChannelSelector="R" result="ragged" />
+      <feGaussianBlur in="ragged" stdDeviation="0.6" result="raggedBlur" />
+      <feComponentTransfer in="raggedBlur">
+        <feFuncA type="linear" slope="6" intercept="-2.0" />
+      </feComponentTransfer>
     </filter>
   </defs>
   <g transform="translate(0 0) scale(1 1)">
@@ -13,16 +18,16 @@
       <g>
         
     <g>
-      <image href="/images/adzuki.svg" x="-62.76" y="-54.76" width="363.52" height="363.52" transform="rotate(14 119 127)" />
-      <text x="138" y="102" font-size="87" text-anchor="middle" dominant-baseline="central" transform="rotate(21 138 102)">🍭</text>
-      <text x="145" y="175" font-size="80" text-anchor="middle" dominant-baseline="central" transform="rotate(25 145 175)">☀️</text>
+      <image href="/images/adzuki.svg" x="-61.36" y="-54.96" width="363.52" height="363.52" transform="rotate(14 120.4 126.8)" />
+      <text x="136.6" y="104.8" font-size="87" text-anchor="middle" dominant-baseline="central" transform="rotate(21 136.6 104.8)">🍭</text>
+      <text x="143.2" y="170.4" font-size="80" text-anchor="middle" dominant-baseline="central" transform="rotate(25 143.2 170.4)">☀️</text>
     </g>
         <g transform="translate(256 0) scale(-1 1)">
           
     <g>
-      <image href="/images/adzuki.svg" x="-62.76" y="-54.76" width="363.52" height="363.52" transform="rotate(14 119 127)" />
-      <text x="138" y="102" font-size="87" text-anchor="middle" dominant-baseline="central" transform="rotate(21 138 102)">🍭</text>
-      <text x="145" y="175" font-size="80" text-anchor="middle" dominant-baseline="central" transform="rotate(25 145 175)">☀️</text>
+      <image href="/images/adzuki.svg" x="-61.36" y="-54.96" width="363.52" height="363.52" transform="rotate(14 120.4 126.8)" />
+      <text x="136.6" y="104.8" font-size="87" text-anchor="middle" dominant-baseline="central" transform="rotate(21 136.6 104.8)">🍭</text>
+      <text x="143.2" y="170.4" font-size="80" text-anchor="middle" dominant-baseline="central" transform="rotate(25 143.2 170.4)">☀️</text>
     </g>
         </g>
       </g>

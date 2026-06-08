@@ -23,26 +23,26 @@ fortuneLow2: A keeper is hiding past the rough first chapter.
 fortuneLeast: Keep the ugly mug, the twenty pens, every last bowl.
 fortuneLeast2: A stranger's enthusiasm is worth catching for its own sake.
 facetMostTitle: Two Changes of Water
-facetMost: Tray of rings tipped out across the velvet, the seller's hand sweeping the lot. One of them goes up to the light; the rest you let go without a flicker.
+facetMost: A whole orchard of plums hangs ripe and the bowl holds six. You walk the rows a long while, taking only the ones that pass the thumb.
 facetHighTitle: The Scoured Pot
-facetHigh: Waiter still at your shoulder, the table waiting on your verdict for the wine. Hold it a beat, then say it plainly — fine, but not worth the bottle.
+facetHigh: The river guide reads back five tour options in one breath and waits. You ask her to slow down and run only the two that sound real.
 facetMidTitle: Garlic or Nothing
-facetMid: Three sentences into a stranger's well-turned charm at a crowded party, and the question's already settling in you — will there ever be a second conversation, or not?
+facetMid: A playlist someone swears by starts up at the wheel on a long drive. A couple of tracks in, your hand drifts toward the skip.
 facetLowTitle: The Rind, the Stem, the Leaf
-facetLow: Everyone's talking over everyone, six recommendations at once, none of them filtered. Let the whole loud bowl wash in. Take it all, sieve nothing.
+facetLow: The market's last hour, everything half price, crates of it. Why weigh each one — sweep an armful of whatever's nearest into the bag and go.
 facetLeastTitle: The Unstrained Bowl
-facetLeast: Someone's left a box of cast-offs free on the kerb — chipped jug, odd spoon, a battered lampshade. You scoop up the lot, fond of every piece, never once asking whether it earned the keeping.
+facetLeast: A neighbour clearing out presses things on you across the fence — a clock, a cracked vase, a coat two sizes off. Each one delights you and into your arms it goes.
 question: Alone on a hillside in mushroom season, basket out, a cluster you half-recognize at your feet. You...
 answerMost: leave all but the one you can name to the spore
 answerHigh: take only the few you'd stake a meal on
 answerMid: pocket the sure ones, photograph the rest to check
 answerLow: gather the lot and sort it at home
 answerLeast: fill the basket and fry up whatever's in it
-rorschachMost: two stones, one cast aside from the other
-rorschachHigh: a walnut cracked, the shrivelled half pushed away
-rorschachMid: two rounded pebbles resting near each other
-rorschachLow: two onions kept side by side, neither thrown out
-rorschachLeast: both onions swept into one basket, nothing culled
+rorschachMost: two walnuts, one sound and one damaged
+rorschachHigh: two clams, one clean and one full of grit
+rorschachMid: two clods of earth side by side
+rorschachLow: two cabbages crowded in one crate
+rorschachLeast: a heap of apples, some bruised and some not
 ---
 
 Infused Cannellini Beans are the Bean Zodiac's most discerning — the friend whose recommendation you trust completely, because they've never once pretended to like something they didn't. Their taste is the real thing: they can tell you exactly why the good one is good, and they own a few things they love rather than many they tolerate. To be chosen by them means something, because they choose so little.

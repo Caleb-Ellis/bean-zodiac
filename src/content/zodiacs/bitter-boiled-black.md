@@ -12,14 +12,14 @@ antiBeans: [green, chickpea]
 friendlyForm: dried
 antiForm: roasted
 seasonalFortune: The pot sits dark on a low flame, days of soaking already behind it; nothing in the kitchen is rushed, and nothing arrives less than fully steeped.
-fortuneMost: Three opinions spend themselves in the room. They're all waiting for yours.
+fortuneMost: The heron stands all morning in the shallows and eats better than the birds that thrash.
 fortuneMost2: What you offer after the long pause carries more than anything said in a hurry.
 fortuneHigh: A decision is simmering and you're tempted to taste it early. Let it cook itself down.
 fortuneHigh2: Answer the thing that was actually asked.
 fortuneMid: The pot finished a while ago and now you're only guarding it. Ladle it out before the depth turns to sediment.
-fortuneMid2: You stopped weighing it a turn back, whatever you keep telling the room. You've landed; say so.
+fortuneMid2: You stopped weighing it a turn back, whatever you keep telling yourself. You've landed; say so.
 fortuneLow: Your composed quiet already reads as a verdict to everyone but you.
-fortuneLow2: Move at the pace of the people beside you for once, not the pace of the pot.
+fortuneLow2: Match the pace of the people walking beside you, not the pace of the pot.
 fortuneLeast: Bitter orange straight, no soak, just the spark on the tongue — and the spark turns out right.
 fortuneLeast2: Out where the path forks, take it at a run.
 facetMostTitle: The Darkening Broth
@@ -38,11 +38,11 @@ answerHigh: keep a steady distance and think it through before acting
 answerMid: take one careful look, then decide
 answerLow: fetch a box and try to coax them in straight away
 answerLeast: swat near it to see what they do
-rorschachMost: a thinker, hand to brow, holding the answer back
-rorschachHigh: two chess players leaning close over the board
+rorschachMost: a shaggy owl hunched and still
+rorschachHigh: a big sheepdog sat beside a smaller huddled pup
 rorschachMid: a seated cat facing a small spiky hedgehog
 rorschachLow: a wrestler pitching forward across the narrow seam
-rorschachLeast: a head bursting into scattered spines and quills
+rorschachLeast: two burrs flung apart, spines scattering off both
 ---
 
 Infused Black Beans are the Bean Zodiac's most measured — the one who sits through three opinions before offering one, and then says the thing the whole table was circling. They don't speak to fill air; when they do speak it's been thought through, and the room has learned, over time, that the wait pays. There's a steadiness to them that makes other people slow down and get their own thoughts in order.

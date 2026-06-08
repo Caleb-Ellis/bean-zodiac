@@ -117,20 +117,30 @@ const h32 = (a: number, b: number): number => {
   return h;
 };
 
+// Dimensions derived by hashing a slug-index together with the day, so the
+// result varies day to day. Used for the spirit seed: rather than reusing the
+// spirit slug's own (static) dimensions — which made adjacent days collide when
+// the spirit slug repeated — we mint a fresh, day-dependent set from it.
+const makeHashedDimensions = (index: number, d: number): DailyDimensions => ({
+  beanId: BEAN_ORDER[h32(d, index) % 12],
+  flavourId: FLAVOUR_ORDER[h32(d, index ^ 0x1f1f1f1f) % 5],
+  formId: FORM_ORDER[h32(d, index ^ 0x2e2e2e2e) % 6],
+});
+
 const getFortuneZodiacId = (
   date: Date,
-  personal: DailyDimensions,
+  spirit: DailyDimensions,
   seasonal: Pick<ZodiacMetadata, "beanId" | "flavourId" | "formId">,
 ): ZodiacId => {
   const daily = getDailyDimensions(date);
   const d = daysSinceOrigin(date);
 
-  const personalIndex =
-    BEAN_ORDER.indexOf(personal.beanId) *
+  const spiritIndex =
+    BEAN_ORDER.indexOf(spirit.beanId) *
       FLAVOUR_ORDER.length *
       FORM_ORDER.length +
-    FLAVOUR_ORDER.indexOf(personal.flavourId) * FORM_ORDER.length +
-    FORM_ORDER.indexOf(personal.formId);
+    FLAVOUR_ORDER.indexOf(spirit.flavourId) * FORM_ORDER.length +
+    FORM_ORDER.indexOf(spirit.formId);
   const seasonalIndex =
     BEAN_ORDER.indexOf(seasonal.beanId) *
       FLAVOUR_ORDER.length *
@@ -138,17 +148,16 @@ const getFortuneZodiacId = (
     FLAVOUR_ORDER.indexOf(seasonal.flavourId) * FORM_ORDER.length +
     FORM_ORDER.indexOf(seasonal.formId);
 
-  const phase = h32(d, personalIndex ^ (seasonalIndex << 9)) % 6;
+  const phase = h32(d, spiritIndex ^ (seasonalIndex << 9)) % 6;
 
-  // Personal and seasonal participate ~14% of the time.
-  // When inactive, a unique fallback is derived from their index so each bean
-  // gets its own deterministic substitute rather than the shared daily bean.
-  const P =
-    h32(d, personalIndex) % 7 === 0
-      ? personal
-      : makeFallbackDimensions(personalIndex, d);
+  // The spirit seed contributes a fresh, day-varying set of dimensions derived
+  // from the spirit slug — never the slug's own static dimensions — so adjacent
+  // days don't collide when the spirit slug repeats.
+  const P = makeHashedDimensions(spiritIndex, d);
+  // The seasonal slug itself surfaces ~1/7 of the time; otherwise a unique
+  // day-dependent fallback derived from its index stands in.
   const S =
-    h32(d, seasonalIndex ^ (personalIndex * 0xdeadbeef)) % 7 === 0
+    h32(d, seasonalIndex ^ (spiritIndex * 0xdeadbeef)) % 7 === 0
       ? seasonal
       : makeFallbackDimensions(seasonalIndex, d);
 

@@ -1,3 +1,8 @@
+// Generate the Rorschach blot SVGs (the live-filter source). These are NOT used
+// as masks directly — at mobile mask sizes the filter collapses the ink-splat to
+// a blob. After changing anything here, re-bake the high-res PNG masks the app
+// actually consumes: `pnpm blots` runs both steps (build then bake). The bake is
+// slow (~13 min, 360 headless-Chrome shots) so it's manual, not in the build.
 import { readdirSync, writeFileSync, mkdirSync } from "fs";
 import { resolve, dirname } from "path";
 import { fileURLToPath } from "url";
@@ -39,13 +44,20 @@ const HALF = SIZE / 2;
 // outer margins of the canvas are mostly empty.
 const PAD = 28;
 const VIEW = SIZE - PAD * 2;
+// Intrinsic raster size, decoupled from the viewBox. The SVG carries a filter
+// chain, so the browser rasterizes it to an alpha bitmap at this pixel size
+// before scaling into the mask box. Large enough that a ~144px CSS box on a 3×
+// DPR phone downscales (sharp) rather than upscales a small buffer (blurry).
+const RASTER = 600;
 
 function buildSvg(slug, bean, flavour, form) {
   const seed = h32(slug);
   const baseFreq = (0.022 + (seed % 100) / 3500).toFixed(4);
   const scale = 32 + ((seed >>> 7) % 20);
-  const blur = (1.0 + ((seed >>> 13) % 12) / 10).toFixed(2);
+  const blur = (0.6 + ((seed >>> 13) % 12) / 20).toFixed(2);
   const turbSeed = seed % 9999;
+  // Edge bleed: a small extra displacement just for the ragged capillary wisps.
+  const edgeScale = 6 + ((seed >>> 20) % 6);
 
   const fEm = FLAVOUR_EMOJI[flavour];
   const formEm = FORM_EMOJI[form];
@@ -70,18 +82,24 @@ function buildSvg(slug, bean, flavour, form) {
   ];
   const [[bx, by, bs], [fx, fy, fs], [mx, my, ms]] = SLOTS[phase];
 
+  // Pull the three elements closer together on average by contracting their
+  // offsets (and the seeded jitter) toward the blot centre. 1.0 = original
+  // spread; lower = tighter clustering.
+  const TIGHTEN = 0.9;
+  const jx = (j) => Math.round(j * TIGHTEN);
+
   const beanRot = ((seed >>> 3) % 80) - 40;
-  const beanCx = HALF + bx + ((seed >>> 5) % 14);
-  const beanCy = HALF + by + ((seed >>> 9) % 18);
+  const beanCx = HALF + bx * TIGHTEN + jx((seed >>> 5) % 14);
+  const beanCy = HALF + by * TIGHTEN + jx((seed >>> 9) % 18);
   const beanScale = (bs + ((seed >>> 11) % 25) / 100).toFixed(2);
 
-  const fCx = HALF + fx + ((seed >>> 6) % 18);
-  const fCy = HALF + fy + ((seed >>> 10) % 16);
+  const fCx = HALF + fx * TIGHTEN + jx((seed >>> 6) % 18);
+  const fCy = HALF + fy * TIGHTEN + jx((seed >>> 10) % 16);
   const fRot = ((seed >>> 12) % 60) - 30;
   const fSize = fs + ((seed >>> 14) % 20);
 
-  const formCx = HALF + mx + ((seed >>> 8) % 20);
-  const formCy = HALF + my + ((seed >>> 15) % 16);
+  const formCx = HALF + mx * TIGHTEN + jx((seed >>> 8) % 20);
+  const formCy = HALF + my * TIGHTEN + jx((seed >>> 15) % 16);
   const formRot = ((seed >>> 17) % 90) - 45;
   const formSize = ms + ((seed >>> 19) % 18);
 
@@ -112,14 +130,24 @@ function buildSvg(slug, bean, flavour, form) {
   // pre-distortion transform on the filtered group.
   const rotTransform = rot90 ? ` transform="rotate(90 ${HALF} ${HALF})"` : "";
 
+  // Filter chain: warp the silhouette by the noise (the swirl), blur, ink it a
+  // flat near-black, then a higher-frequency displacement throws thin capillary
+  // wisps off the outline (ragged bleed edges). A steep linear alpha ramp at the
+  // end maps the blurred-alpha falloff to a hard cliff — crisp ink edge while
+  // keeping the ragged silhouette — so it stays sharp when scaled on mobile.
   return `<?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="${PAD} ${PAD} ${VIEW} ${VIEW}" width="${VIEW}" height="${VIEW}">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="${PAD} ${PAD} ${VIEW} ${VIEW}" width="${RASTER}" height="${RASTER}">
   <defs>
-    <filter id="blot" x="-20%" y="-20%" width="140%" height="140%" color-interpolation-filters="sRGB">
-      <feTurbulence type="fractalNoise" baseFrequency="${baseFreq}" numOctaves="2" seed="${turbSeed}" result="noise" />
+    <filter id="blot" x="-25%" y="-25%" width="150%" height="150%" color-interpolation-filters="sRGB">
+      <feTurbulence type="turbulence" baseFrequency="${baseFreq}" numOctaves="2" seed="${turbSeed}" result="noise" />
       <feDisplacementMap in="SourceGraphic" in2="noise" scale="${scale}" xChannelSelector="R" yChannelSelector="G" result="warped" />
       <feGaussianBlur in="warped" stdDeviation="${blur}" result="blurred" />
-      <feColorMatrix in="blurred" type="matrix" values="0 0 0 0 0.05  0 0 0 0 0.05  0 0 0 0 0.06  0 0 0 1.6 -0.2" />
+      <feColorMatrix in="blurred" type="matrix" values="0 0 0 0 0.05  0 0 0 0 0.05  0 0 0 0 0.06  0 0 0 1 0" result="inked" />
+      <feDisplacementMap in="inked" in2="noise" scale="${edgeScale}" xChannelSelector="G" yChannelSelector="R" result="ragged" />
+      <feGaussianBlur in="ragged" stdDeviation="0.6" result="raggedBlur" />
+      <feComponentTransfer in="raggedBlur">
+        <feFuncA type="linear" slope="6" intercept="-2.0" />
+      </feComponentTransfer>
     </filter>
   </defs>
   <g transform="translate(0 ${ty}) scale(1 ${sy})">

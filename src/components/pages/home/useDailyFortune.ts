@@ -208,7 +208,7 @@ export function useDailyFortune(
       question: variant === "question" ? fortune.question : null,
       rorschachImage:
         variant === "rorschach"
-          ? `/images/rorschach/${fortuneZodiacId}.svg`
+          ? `/images/rorschach/${fortuneZodiacId}.png`
           : null,
       ...patch,
     });
@@ -219,7 +219,12 @@ export function useDailyFortune(
     setScoringOut(true);
     setTimeout(() => {
       const newScore = score === v ? 0 : v;
-      const newDailyText = getDailyText(fortuneZodiac, qualityId, newScore, date);
+      const newDailyText = getDailyText(
+        fortuneZodiac,
+        qualityId,
+        newScore,
+        date,
+      );
       persistFortune(fortuneZodiac, {
         qualityId,
         score: newScore,

@@ -23,11 +23,11 @@ fortuneLow2: A calm so complete no one can tell it landed reads, from across the
 fortuneLeast: Laugh at the song, weep at the obituary, walk the long way home because a stranger's piano scales were drifting from an open window.
 fortuneLeast2: Argue the lost cause on principle and unravel a little where it shows.
 facetMostTitle: Cavolo Nero at the Edge
-facetMost: Hard swell, the boat pitching, everyone grabbing for a handhold. Both your hands stay on the line you were coiling and your voice stays level — and the others steady toward the sound of it.
+facetMost: The boat pitches in a hard swell and the others grab for a handhold. You keep coiling the line you were coiling, voice level, finishing the count out loud.
 facetHighTitle: The Settled Broth
 facetHigh: Cut off at the junction, horns going up all around you, and your pulse never climbs. Hold the lane, breathe out, the spike gone almost before it lands.
 facetMidTitle: Stock That Will Not Boil
-facetMid: News that empties a stomach comes down the phone line. You thank the caller, hang up, and pick the spoon back up as though nothing in the room has shifted.
+facetMid: The diagnosis is worse than anyone hoped and the table around the kitchen is coming apart. You set out bowls, ladle the stock, and keep the meal moving while everyone else falls quiet.
 facetLowTitle: Skin Under Hard Simmer
 facetLow: Your take isn't fully formed and the argument won't wait — so out it comes half-built, the rest of it shaped aloud while everyone listens you into a position.
 facetLeastTitle: The Clattering Lid
@@ -39,8 +39,8 @@ answerMid: sigh and join the line
 answerLow: mutter loudly enough for the desk to hear
 answerLeast: argue with the gate agent on principle
 rorschachMost: a meditating monk seated upright, robes pooled still
-rorschachHigh: a standing stone settled deep, two roots gripping the earth
-rorschachMid: a grain sack stood on end, a foot at each corner
+rorschachHigh: a standing stone settled deep, sunk to its shoulders
+rorschachMid: a grain sack stood on end, slumped at one shoulder
 rorschachLow: a heavy statue tilting, one foot lifting off
 rorschachLeast: a wax candle slumping, both feet sliding out from under
 ---

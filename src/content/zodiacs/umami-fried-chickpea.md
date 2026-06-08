@@ -12,12 +12,12 @@ antiBeans: [cannellini, butter]
 friendlyForm: fermented
 antiForm: smoked
 seasonalFortune: A life lived a quarter-hour ahead of itself — garlic sliced before the oil is poured, the lime halved before anyone thinks to ask.
-fortuneMost: Garlic sliced before the oil's poured, the lime halved before anyone asks.
-fortuneMost2: The spare key cut, the fridge stocked, the need met before it announced itself.
+fortuneMost: The bag's packed and the coffee's made while the house is still dark.
+fortuneMost2: The spare key cut, the fridge stocked, the need met before it announces itself.
 fortuneHigh: Bags packed days before the train leaves.
 fortuneHigh2: Start the conversation they're nerving themselves up to start.
 fortuneMid: Make the appointment now — not the day it's due, not the day after.
-fortuneMid2: Settle the thing before it's even owed.
+fortuneMid2: The umbrella's by the door before the sky has decided anything.
 fortuneLow: Hold your answer one beat.
 fortuneLow2: Not every gap is yours to close first.
 fortuneLeast: Ask before you fix it.
@@ -27,17 +27,17 @@ facetMost: Storm warnings are still vague on the radio and you've already topped
 facetHighTitle: Garlic Crisping at Dawn
 facetHigh: A friend keeps circling a hard talk without starting it, and you'd rather open the subject yourself than let it hang.
 facetMidTitle: Fish Sauce, Pan Still Cold
-facetMid: The form isn't due for weeks. You fill it out the night it lands rather than let it ripen on the pile.
+facetMid: A pot's about to boil over while you're still chopping; you nudge the heat down before the lid starts rattling rather than wait for the hiss.
 facetLowTitle: Lime When Someone Calls
 facetLow: A puzzle stumps the table and your hand twitches to solve it — but you sit back and let someone else find their own way to the answer.
 facetLeastTitle: Garlic in Its Skin
 facetLeast: A neighbor's garden runs wild in a shape you'd never plant, and you leave it be — it isn't yours to tidy.
-question: At your mother's, you spot a drift of unopened bills, a couple stamped in red. You...
-answerMost: sit down with her then and there and work through the whole pile together
-answerHigh: flag the red ones and offer to set up a system before you leave
-answerMid: mention it gently and mean to follow up sometime
-answerLow: figure she's got it handled and say nothing
-answerLeast: don't really clock that the pile means anything
+question: A faint damp patch looks to be spreading on the ceiling. You...
+answerMost: immediately go up in the attic to trace a potential leak
+answerHigh: call someone to come take a look today
+answerMid: keep an eye on it for now, get a bucket ready
+answerLow: wait until it actually drips to make a move
+answerLeast: figure the house has stood this long
 rorschachMost: a cat crouched low, ears up, about to pounce
 rorschachHigh: a fox's pricked ears swiveling toward a sound
 rorschachMid: a horned mask resting above a round stone

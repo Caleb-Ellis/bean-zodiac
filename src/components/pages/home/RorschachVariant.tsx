@@ -15,7 +15,11 @@ export default function RorschachVariant({
   landed,
   handleAnswer,
 }: Props) {
-  const blotUrl = `url(/images/rorschach/${zodiacId}.svg)`;
+  // PNG, not SVG: the blot SVG's filter chain (the ink-splat detail) is computed
+  // live at the mask's display size, so at ~144px on mobile the turbulence loses
+  // its cycles and the splat collapses to a blob. The PNG is the filter baked at
+  // high res (scripts/bake-rorschach.mjs), so mobile just downscales it sharp.
+  const blotUrl = `url(/images/rorschach/${zodiacId}.png)`;
   const flavour = `var(--flavour-${fortuneZodiac.flavour})`;
   const form = `var(--form-${fortuneZodiac.form})`;
   const bean = `var(--bean-${fortuneZodiac.bean})`;

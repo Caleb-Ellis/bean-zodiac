@@ -1,11 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="28 28 200 200" width="200" height="200">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="28 28 200 200" width="600" height="600">
   <defs>
-    <filter id="blot" x="-20%" y="-20%" width="140%" height="140%" color-interpolation-filters="sRGB">
-      <feTurbulence type="fractalNoise" baseFrequency="0.0491" numOctaves="2" seed="954" result="noise" />
+    <filter id="blot" x="-25%" y="-25%" width="150%" height="150%" color-interpolation-filters="sRGB">
+      <feTurbulence type="turbulence" baseFrequency="0.0491" numOctaves="2" seed="954" result="noise" />
       <feDisplacementMap in="SourceGraphic" in2="noise" scale="47" xChannelSelector="R" yChannelSelector="G" result="warped" />
-      <feGaussianBlur in="warped" stdDeviation="1.70" result="blurred" />
-      <feColorMatrix in="blurred" type="matrix" values="0 0 0 0 0.05  0 0 0 0 0.05  0 0 0 0 0.06  0 0 0 1.6 -0.2" />
+      <feGaussianBlur in="warped" stdDeviation="0.95" result="blurred" />
+      <feColorMatrix in="blurred" type="matrix" values="0 0 0 0 0.05  0 0 0 0 0.05  0 0 0 0 0.06  0 0 0 1 0" result="inked" />
+      <feDisplacementMap in="inked" in2="noise" scale="11" xChannelSelector="G" yChannelSelector="R" result="ragged" />
+      <feGaussianBlur in="ragged" stdDeviation="0.6" result="raggedBlur" />
+      <feComponentTransfer in="raggedBlur">
+        <feFuncA type="linear" slope="6" intercept="-2.0" />
+      </feComponentTransfer>
     </filter>
   </defs>
   <g transform="translate(0 0) scale(1 1)">
@@ -13,16 +18,16 @@
       <g transform="rotate(90 128 128)">
         
     <g>
-      <image href="/images/fava.svg" x="-85.24" y="-71.24" width="404.48" height="404.48" transform="rotate(-36 117 131)" />
-      <text x="134" y="184" font-size="93" text-anchor="middle" dominant-baseline="central" transform="rotate(21 134 184)">🍋</text>
-      <text x="141" y="90" font-size="89" text-anchor="middle" dominant-baseline="central" transform="rotate(-1 141 90)">💨</text>
+      <image href="/images/fava.svg" x="-84.44" y="-71.04" width="404.48" height="404.48" transform="rotate(-36 117.8 131.2)" />
+      <text x="133.4" y="178.8" font-size="93" text-anchor="middle" dominant-baseline="central" transform="rotate(21 133.4 178.8)">🍋</text>
+      <text x="139.4" y="94" font-size="89" text-anchor="middle" dominant-baseline="central" transform="rotate(-1 139.4 94)">💨</text>
     </g>
         <g transform="translate(256 0) scale(-1 1)">
           
     <g>
-      <image href="/images/fava.svg" x="-85.24" y="-71.24" width="404.48" height="404.48" transform="rotate(-36 117 131)" />
-      <text x="134" y="184" font-size="93" text-anchor="middle" dominant-baseline="central" transform="rotate(21 134 184)">🍋</text>
-      <text x="141" y="90" font-size="89" text-anchor="middle" dominant-baseline="central" transform="rotate(-1 141 90)">💨</text>
+      <image href="/images/fava.svg" x="-84.44" y="-71.04" width="404.48" height="404.48" transform="rotate(-36 117.8 131.2)" />
+      <text x="133.4" y="178.8" font-size="93" text-anchor="middle" dominant-baseline="central" transform="rotate(21 133.4 178.8)">🍋</text>
+      <text x="139.4" y="94" font-size="89" text-anchor="middle" dominant-baseline="central" transform="rotate(-1 139.4 94)">💨</text>
     </g>
         </g>
       </g>

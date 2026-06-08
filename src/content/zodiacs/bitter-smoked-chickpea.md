@@ -38,11 +38,11 @@ answerHigh: take a bunk but leave the pack laced and by the door
 answerMid: stay the night, share a meal, slip off before the others wake
 answerLow: take a bunk, unpack properly, settle in for a rest day
 answerLeast: ask if they need a hand and end up staying the week
-rorschachMost: a hiker and mist at a mountain pass
-rorschachHigh: a coat on a misty doorway hook
-rorschachMid: a fencepost and a boulder set apart in a field
-rorschachLow: a shepherd leaning down over a resting ewe
-rorschachLeast: an old tree, roots deep and flared
+rorschachMost: a figure pausing in a doorway, half-turned to leave
+rorschachHigh: a traveller and a roadside shrine, a few steps apart
+rorschachMid: a boulder and a bramble bush in a field
+rorschachLow: a shepherd crouched close over a sleeping dog
+rorschachLeast: a woman settled into an armchair by the window
 ---
 
 Charcoal Chickpeas are the Bean Zodiac's most liminal. They arrive at the party with their coat on and lean in the doorway, fully at ease in a room they have no intention of fully entering. They fit everywhere precisely because they've committed to nowhere; the box of books gets unpacked, the box marked kitchen stays taped shut for a year.

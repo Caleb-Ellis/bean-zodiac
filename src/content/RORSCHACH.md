@@ -17,9 +17,9 @@ they're meant to project onto something ambiguous.
 
 **Look at the actual blot before writing the readings.** The shape is seeded from the slug
 and is genuinely different per zodiac, so the five interpretations must describe _this_
-silhouette — not generic inkblot imagery. Render it with
-`pnpm preview:blot <slug> --mode ink` (flat black silhouette, the pure shape) and view the
-PNG. `RORSCHACH_PROMPT.md` is a ready-to-use prompt for doing this one slug at a time.
+silhouette — not generic inkblot imagery. View the rendered blot directly at
+`public/images/rorschach/<slug>.png`. `RORSCHACH_PROMPT.md` is a ready-to-use prompt for
+doing this one slug at a time.
 
 ## The five interpretations
 
@@ -44,7 +44,7 @@ offer and its emotional temperature, not a switch to an unrelated picture.
 - **No trailing full stops.**
 - Trait alignment lives in the _content_ of what's pictured, not in adjectives about it.
 - **Commit to a specific noun.** Name the actual thing seen — a heron, an anvil, a votive
-  jug — never hedge-words like "a figure", "a form", "a shape", "a mass", "a lump", or
+  jug — never hedge-words like "a form", "a shape", "a mass", "a lump", or
   "two forms". Vague nouns read as wallpaper across 360 entries; the specific noun is what
   makes a reading feel like a real person free-associating.
 - **Stay mostly plain, with a faint uncanny tint.** The default is everyday concrete nouns —

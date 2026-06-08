@@ -27,22 +27,22 @@ facetMost: At the baby shower the others guess wildly. You write the date and th
 facetHighTitle: The Curling Bonito
 facetHigh: Two sentences into meeting someone, you can already see how this friendship ends — and you start guarding the exit now.
 facetMidTitle: Shichimi on the Rim
-facetMid: Where the trail forks and the map's gone useless, you take the turn that feels right and never look back at the other.
+facetMid: Halfway through packing for the trip, you slip in the umbrella and another charger — a hunch about what the days will need.
 facetLowTitle: Soy on Contact
 facetLow: Wander the strange town your first night with no plan at all, and let the streets decide where you end up.
 facetLeastTitle: Salt at the Split
-facetLeast: The letter you've been dreading lands on the mat. Rather than brace, you slit it open and read what it actually says.
-question: Your teenager drifts into the kitchen with a particular quiet you've learned to read. The ask is coming. You...
-answerMost: have the answer ready before the first word lands
-answerHigh: clear a seat and set down what you're holding
-answerMid: look up and wait for it to arrive
-answerLow: catch their eye and say "what's up?"
-answerLeast: keep stirring the pot and let them get to it
-rorschachMost: a snail with eye-stalks raised and probing
-rorschachHigh: an insect's antennae reaching up to test the air
+facetLeast: The letter you've been dreading sits on the mat. You slit it open without guessing first, ready for it to say anything.
+question: When a friend takes a breath and says "I've been meaning to ask you something", you usually...
+answerMost: know what they'll ask and have your answer waiting
+answerHigh: can feel where things are going based on how they asked
+answerMid: wait to hear the whole request before reacting
+answerLow: take it as it comes, content to find out in the moment
+answerLeast: have no idea what they're about to ask
+rorschachMost: a sea anemone with every tentacle out, feeling the current
+rorschachHigh: a pufferfish flared, each spine reading the water around it
 rorschachMid: a chestnut burr split open on the path
 rorschachLow: a sea urchin overturned spines-up
-rorschachLeast: a thornbush thrashing blindly in the dark
+rorschachLeast: a thornbush thrashing in the dark
 ---
 
 Hickory Edamame are the Bean Zodiac's most prescient — they answer the email an hour before it arrives, in the sense that the draft is already written when the question lands. Friends mention them mid-thought ("I was just going to say that"); the meeting they prepped for goes exactly the way they prepped. They aren't fast, exactly. They've just been there already, days ago, quietly.

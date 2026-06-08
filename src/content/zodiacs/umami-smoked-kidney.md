@@ -13,11 +13,11 @@ friendlyForm: fried
 antiForm: roasted
 seasonalFortune: A season for the long simmer; the pot tended for hours carries a low heat under everything its keeper does, and the rooms they pass through hold the scent.
 fortuneMost: The reply that waits until it's four words long arrives sharpened.
-fortuneMost2: When the one who wronged you turns up, four words at the door is all it takes — they'll read it three times and know exactly where they stand.
+fortuneMost2: A low heat held under the floorboards for a year, and the one who lit it walks back in expecting the house to have cooled.
 fortuneHigh: Take the grievance down off the shelf and say it aloud once, to no one.
 fortuneHigh2: A bay leaf left in too long turns the whole pot bitter, and so does the slight you've kept folded behind the dish towels.
-fortuneMid: Walk the long way home along the road.
-fortuneMid2: Say the unkind thing in the room it belongs to, then ask about the dog.
+fortuneMid: Walk the long way home to cool off.
+fortuneMid2: Lift the lid, let the worst of the steam off, set it back down.
 fortuneLow: Unclench the jaw before you answer.
 fortuneLow2: The thing biting at you isn't worth carrying out the door.
 fortuneLeast: Someone's been bracing for a verdict you quietly set down long ago.
@@ -41,8 +41,8 @@ answerLeast: call the joke out flatly, right there at the table
 rorschachMost: two thunderheads forced through a narrow neck
 rorschachHigh: a sealed flask bulging at a pinched waist
 rorschachMid: two boulders stacked on a thin join
-rorschachLow: two clouds drifting loose and far apart
-rorschachLeast: two lily pads resting on still water
+rorschachLow: sparks drifting up and out from the top of a bonfire
+rorschachLeast: a weathered stone with the wind opening holes clean through it
 ---
 
 Hickory Kidney Beans are the Bean Zodiac's most seething — the room can feel them across the table without them having said anything. They go quieter when something is wrong, not louder. The reply to the slight arrives two weeks late and is exactly four words long, and the recipient reads it three times.

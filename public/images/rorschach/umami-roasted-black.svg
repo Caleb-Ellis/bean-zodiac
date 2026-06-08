@@ -1,11 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="28 28 200 200" width="200" height="200">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="28 28 200 200" width="600" height="600">
   <defs>
-    <filter id="blot" x="-20%" y="-20%" width="140%" height="140%" color-interpolation-filters="sRGB">
-      <feTurbulence type="fractalNoise" baseFrequency="0.0469" numOctaves="2" seed="9964" result="noise" />
+    <filter id="blot" x="-25%" y="-25%" width="150%" height="150%" color-interpolation-filters="sRGB">
+      <feTurbulence type="turbulence" baseFrequency="0.0469" numOctaves="2" seed="9964" result="noise" />
       <feDisplacementMap in="SourceGraphic" in2="noise" scale="33" xChannelSelector="R" yChannelSelector="G" result="warped" />
-      <feGaussianBlur in="warped" stdDeviation="1.80" result="blurred" />
-      <feColorMatrix in="blurred" type="matrix" values="0 0 0 0 0.05  0 0 0 0 0.05  0 0 0 0 0.06  0 0 0 1.6 -0.2" />
+      <feGaussianBlur in="warped" stdDeviation="1.00" result="blurred" />
+      <feColorMatrix in="blurred" type="matrix" values="0 0 0 0 0.05  0 0 0 0 0.05  0 0 0 0 0.06  0 0 0 1 0" result="inked" />
+      <feDisplacementMap in="inked" in2="noise" scale="11" xChannelSelector="G" yChannelSelector="R" result="ragged" />
+      <feGaussianBlur in="ragged" stdDeviation="0.6" result="raggedBlur" />
+      <feComponentTransfer in="raggedBlur">
+        <feFuncA type="linear" slope="6" intercept="-2.0" />
+      </feComponentTransfer>
     </filter>
   </defs>
   <g transform="translate(0 256) scale(1 -1)">
@@ -13,16 +18,16 @@
       <g transform="rotate(90 128 128)">
         
     <g>
-      <image href="/images/black.svg" x="-53.48" y="-65.48" width="360.96" height="360.96" transform="rotate(-10 127 115)" />
-      <text x="121" y="156" font-size="82" text-anchor="middle" dominant-baseline="central" transform="rotate(-2 121 156)">🍄</text>
-      <text x="150" y="127" font-size="74" text-anchor="middle" dominant-baseline="central" transform="rotate(25 150 127)">♨️</text>
+      <image href="/images/black.svg" x="-53.28" y="-63.88" width="360.96" height="360.96" transform="rotate(-10 127.2 116.6)" />
+      <text x="121.6" y="153.2" font-size="82" text-anchor="middle" dominant-baseline="central" transform="rotate(-2 121.6 153.2)">🍄</text>
+      <text x="147.8" y="127.2" font-size="74" text-anchor="middle" dominant-baseline="central" transform="rotate(25 147.8 127.2)">♨️</text>
     </g>
         <g transform="translate(256 0) scale(-1 1)">
           
     <g>
-      <image href="/images/black.svg" x="-53.48" y="-65.48" width="360.96" height="360.96" transform="rotate(-10 127 115)" />
-      <text x="121" y="156" font-size="82" text-anchor="middle" dominant-baseline="central" transform="rotate(-2 121 156)">🍄</text>
-      <text x="150" y="127" font-size="74" text-anchor="middle" dominant-baseline="central" transform="rotate(25 150 127)">♨️</text>
+      <image href="/images/black.svg" x="-53.28" y="-63.88" width="360.96" height="360.96" transform="rotate(-10 127.2 116.6)" />
+      <text x="121.6" y="153.2" font-size="82" text-anchor="middle" dominant-baseline="central" transform="rotate(-2 121.6 153.2)">🍄</text>
+      <text x="147.8" y="127.2" font-size="74" text-anchor="middle" dominant-baseline="central" transform="rotate(25 147.8 127.2)">♨️</text>
     </g>
         </g>
       </g>

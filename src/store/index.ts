@@ -17,7 +17,7 @@ export type FortuneEntry = {
   question?: string | null; // snapshot, question variant only
   answeredQuality?: QualityId | null; // tier the user picked, question/rorschach variants
   answerText?: string | null; // snapshot, question variant only
-  rorschachImage?: string | null; // /images/rorschach/{slug}.svg, rorschach variant only
+  rorschachImage?: string | null; // /images/rorschach/{slug}.png, rorschach variant only
   rorschachText?: string | null; // chosen interpretation, rorschach variant only
 };
 
@@ -105,7 +105,7 @@ export const useStore = create<State>()(
     }),
     {
       name: "bean-zodiac",
-      version: 4,
+      version: 5,
       migrate: (state: any, version: number) => {
         if (version < 2) {
           state.fortuneHistory = (state.fortuneHistory ?? []).map((e: any) => ({
@@ -131,6 +131,16 @@ export const useStore = create<State>()(
             const { facetTags: _drop, ...rest } = e;
             return rest;
           });
+        }
+        if (version < 5) {
+          // Rorschach masks moved from live-filter SVGs to high-res baked PNGs
+          // (the SVG filter collapsed to a blob at mobile mask sizes). Rewrite
+          // the extension on persisted snapshots so old entries don't 404.
+          state.fortuneHistory = (state.fortuneHistory ?? []).map((e: any) =>
+            typeof e.rorschachImage === "string"
+              ? { ...e, rorschachImage: e.rorschachImage.replace(/\.svg$/, ".png") }
+              : e,
+          );
         }
         return state;
       },

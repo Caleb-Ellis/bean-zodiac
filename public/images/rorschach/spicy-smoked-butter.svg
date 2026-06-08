@@ -1,11 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="28 28 200 200" width="200" height="200">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="28 28 200 200" width="600" height="600">
   <defs>
-    <filter id="blot" x="-20%" y="-20%" width="140%" height="140%" color-interpolation-filters="sRGB">
-      <feTurbulence type="fractalNoise" baseFrequency="0.0403" numOctaves="2" seed="2989" result="noise" />
+    <filter id="blot" x="-25%" y="-25%" width="150%" height="150%" color-interpolation-filters="sRGB">
+      <feTurbulence type="turbulence" baseFrequency="0.0403" numOctaves="2" seed="2989" result="noise" />
       <feDisplacementMap in="SourceGraphic" in2="noise" scale="51" xChannelSelector="R" yChannelSelector="G" result="warped" />
-      <feGaussianBlur in="warped" stdDeviation="1.60" result="blurred" />
-      <feColorMatrix in="blurred" type="matrix" values="0 0 0 0 0.05  0 0 0 0 0.05  0 0 0 0 0.06  0 0 0 1.6 -0.2" />
+      <feGaussianBlur in="warped" stdDeviation="0.90" result="blurred" />
+      <feColorMatrix in="blurred" type="matrix" values="0 0 0 0 0.05  0 0 0 0 0.05  0 0 0 0 0.06  0 0 0 1 0" result="inked" />
+      <feDisplacementMap in="inked" in2="noise" scale="6" xChannelSelector="G" yChannelSelector="R" result="ragged" />
+      <feGaussianBlur in="ragged" stdDeviation="0.6" result="raggedBlur" />
+      <feComponentTransfer in="raggedBlur">
+        <feFuncA type="linear" slope="6" intercept="-2.0" />
+      </feComponentTransfer>
     </filter>
   </defs>
   <g transform="translate(0 256) scale(1 -1)">
@@ -13,16 +18,16 @@
       <g>
         
     <g>
-      <image href="/images/butter.svg" x="-60.32" y="-19.32" width="368.64" height="368.64" transform="rotate(35 124 165)" />
-      <text x="123" y="97" font-size="95" text-anchor="middle" dominant-baseline="central" transform="rotate(-6 123 97)">🌶️</text>
-      <text x="157" y="133" font-size="77" text-anchor="middle" dominant-baseline="central" transform="rotate(43 157 133)">💨</text>
+      <image href="/images/butter.svg" x="-59.72" y="-23.32" width="368.64" height="368.64" transform="rotate(35 124.6 161)" />
+      <text x="123.4" y="100.4" font-size="95" text-anchor="middle" dominant-baseline="central" transform="rotate(-6 123.4 100.4)">🌶️</text>
+      <text x="154" y="132.8" font-size="77" text-anchor="middle" dominant-baseline="central" transform="rotate(43 154 132.8)">💨</text>
     </g>
         <g transform="translate(256 0) scale(-1 1)">
           
     <g>
-      <image href="/images/butter.svg" x="-60.32" y="-19.32" width="368.64" height="368.64" transform="rotate(35 124 165)" />
-      <text x="123" y="97" font-size="95" text-anchor="middle" dominant-baseline="central" transform="rotate(-6 123 97)">🌶️</text>
-      <text x="157" y="133" font-size="77" text-anchor="middle" dominant-baseline="central" transform="rotate(43 157 133)">💨</text>
+      <image href="/images/butter.svg" x="-59.72" y="-23.32" width="368.64" height="368.64" transform="rotate(35 124.6 161)" />
+      <text x="123.4" y="100.4" font-size="95" text-anchor="middle" dominant-baseline="central" transform="rotate(-6 123.4 100.4)">🌶️</text>
+      <text x="154" y="132.8" font-size="77" text-anchor="middle" dominant-baseline="central" transform="rotate(43 154 132.8)">💨</text>
     </g>
         </g>
       </g>

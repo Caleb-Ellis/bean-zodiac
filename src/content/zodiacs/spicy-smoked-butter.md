@@ -38,11 +38,11 @@ answerHigh: walk over, fan it once with a tea towel, sit back down
 answerMid: get up, silence it, return with the next course
 answerLow: announce it's nothing and wave both arms at the ceiling
 answerLeast: get the chair, the broom, and a running commentary on what's wrong with the alarm
-rorschachMost: a moth settled flat against bark, still
-rorschachHigh: a hide pinned out low to dry
+rorschachMost: a stag's skull mounted on the wall
+rorschachHigh: a moose lowering its head
 rorschachMid: a crab crouched wide on the sand
-rorschachLow: a puddle of spilled ink spreading outward
-rorschachLeast: a firework burst caught flung wide open
+rorschachLow: an eagle about to strike
+rorschachLeast: a firework bursting
 ---
 
 Chipotle Butter Beans are the Bean Zodiac's most hushed — and the least likely to flinch when the room loses its head. They take the bad news without changing posture, ask one quiet question, and the panic in the room drops half an octave. Friends in crisis call them first, then call them back to apologise for the length of the first call.
