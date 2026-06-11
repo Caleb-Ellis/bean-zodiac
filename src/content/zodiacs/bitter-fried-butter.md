@@ -4,6 +4,7 @@ bean: butter
 flavour: bitter
 form: fried
 trait: deliberate
+inverse: hasty
 dish: Schnitzel - crumbed butter beans with bitter salsa verde.
 quote: Well-behaved beans seldom make history.
 creature: stork

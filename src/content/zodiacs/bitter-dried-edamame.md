@@ -1,48 +1,45 @@
 ---
 slug: bitter-dried-edamame
+lastUpdated: 2026-06-22
 bean: edamame
 flavour: bitter
 form: dried
 trait: terse
+inverse: verbose
 dish: Edamame hummus with preserved lemon.
 quote: Less is bean.
-creature: rook crow
+creature: rook
 friendlyBeans: [black, cannellini]
 antiBeans: [adzuki, pinto]
 friendlyForm: smoked
 antiForm: roasted
 seasonalFortune: A season cured down to its rind. The pod has shrunk to a stone, the lemon to a salt, and what remains keeps without speaking.
-fortuneMost: Yes or no, no qualifier.
-fortuneMost2: You reach the point three turns before anyone planned to, and a clear stretch rewards exactly that.
-fortuneHigh: Cut the part no one will miss.
-fortuneHigh2: A nod closes it before the thanks finish.
-fortuneMid: Halve the thing.
-fortuneMid2: A stranger will meet your eye in the quiet you leave.
-fortuneLow: Hand over the why too.
-fortuneLow2: Someone's working their slow way toward the part that matters.
-fortuneLeast: Tell the long story start to finish — every digression, the part that doesn't matter.
-fortuneLeast2: Walk the whole road home with them, not just to the door.
+fortuneMost: Remove it.
+fortuneHigh: Cut it in half.
+fortuneMid: Say less.
+fortuneLow: It'll happen slowly but surely.
+fortuneLeast: The path has no end, it only branches into branches into branches.
 facetMostTitle: One Pinch of Rind
-facetMost: The customs officer asks the purpose of your visit. One word covers it, so one word is what he gets, and the line moves on.
+facetMost: The taxi driver is friendly, and very talkative. From you he gets a "yeah," a "nice one," and then silence for the rest of the trip.
 facetHighTitle: The Last Turn of the Grinder
-facetHigh: A speech is wanted to mark the leaving. Where others would fill ten minutes, you give two clean lines and step back from the mic before the room expected.
+facetHigh: Having just landed at the airport, the customs officer asks the purpose of your visit. You reply with a single word.
 facetMidTitle: The Rattling Pod
-facetMid: A neighbour catches you by the mailboxes, settling in to chat. A warm word back, and you're already drifting toward your door before it becomes a conversation.
+facetMid: Everyone's retelling the trip in loving detail. Your version is short and sweet — the highlight, the lowlight and the most interesting thing.
 facetLowTitle: The Spoon Doubling Back
-facetLow: You've made the point and it landed. Still you double back, adding the example and the caveat, padding a clean thing past where it needed you.
+facetLow: A stranger stops you for directions to the station. A pointed finger would do, but you walk them all the way there in words, doubling back to be sure it landed.
 facetLeastTitle: Brine on the Board
-facetLeast: A child wants the whole bedtime story, not the short version. So you give it all — every voice, every side-quest, the dragon's full backstory — drawing it out past your own patience because the long telling is the gift.
-question: A form asks for a one-line bio for an event you only half want to be at. The cursor blinks. You...
-answerMost: type your name
-answerHigh: name, city, the one verb
-answerMid: a sentence with a small joke in it
-answerLow: three sentences and a soft caveat
-answerLeast: a paragraph, the second draft, the apology for the length
-rorschachMost: two clean pebbles, nothing between them
-rorschachHigh: a stone and a seed, few crumbs
-rorschachMid: a potato and a beetle side by side
-rorschachLow: a stuffed envelope spilling its contents
-rorschachLeast: a smashed pot scattered into countless shards
+facetLeast: A genie grants one wish and asks you to name it. Before you do, you spend a great deal of time discussing the parameters.
+question: Just past the finish line of their first marathon, your friend catches their breath and asks how they did. Their time was actually pretty good. You...
+answerMost: say "pretty good"
+answerHigh: tell them their time and say "congratulations"
+answerMid: highlight where they did well, and mention where they fell back
+answerLow: walk back through the whole race at a high level
+answerLeast: replay every mile in great detail
+rorschachMost: two dark smudges
+rorschachHigh: two plumes of smoke
+rorschachMid: a raven and its friend
+rorschachLow: spilled ink trailing everywhere
+rorschachLeast: a pair of lungs inside a ribcage
 ---
 
 Desiccated Edamame are the Bean Zodiac's most terse — they answer the email with one word, end the call the moment the business is done, and have a gift for arriving at the point three turns before anyone planned to. In a meeting that's losing the thread they are the one who says the sentence that ends it, and everyone privately thanks them.

@@ -4,6 +4,7 @@ bean: green
 flavour: umami
 form: boiled
 trait: prolific
+inverse: unproductive
 dish: Ohitashi - green beans blanched and dressed with dashi and bonito flake.
 quote: Quantity produces bean quality.
 creature: vole

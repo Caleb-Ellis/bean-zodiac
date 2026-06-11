@@ -4,6 +4,7 @@ bean: chickpea
 flavour: spicy
 form: dried
 trait: conductive
+inverse: insulating
 dish: Harira - Moroccan chickpea soup with ras el hanout.
 quote: It only takes a bean to start a great fire.
 creature: electric eel

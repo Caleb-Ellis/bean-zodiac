@@ -4,6 +4,7 @@ bean: fava
 flavour: sour
 form: dried
 trait: acerbic
+inverse: honeyed
 dish: Fava bean dip with dried sumac, raw onion, and olive oil.
 quote: The truth will set you free, but first it will bean you.
 creature: wasp

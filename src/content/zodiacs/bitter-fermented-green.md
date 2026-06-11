@@ -4,6 +4,7 @@ bean: green
 flavour: bitter
 form: fermented
 trait: imaginative
+inverse: unimaginative
 dish: Szechuan pickled green beans with bitter melon and sesame.
 quote: Imagination is more important than bean.
 creature: hippogriff

@@ -4,6 +4,7 @@ bean: green
 flavour: sweet
 form: fermented
 trait: whimsical
+inverse: stodgy
 dish: Green bean elderflower shrub — blanched green beans in a sweet drinking vinegar of fermented honey and elderflower, finished with sparkling water.
 quote: One bean that I had a long time ago.
 creature: pixie
@@ -15,12 +16,12 @@ seasonalFortune: A season of slow bubbles and crooked sweetness. The honeyed jar
 fortuneMost: Take the wrong bus on purpose.
 fortuneMost2: Pour from the notebook of ideas no project will ever hold.
 fortuneHigh: A flourish nobody asked for, added to the dull thing anyway.
-fortuneHigh2: Let the sentence wander through three rooms before it lands.
+fortuneHigh2: Let the sentence wander a while before it lands.
 fortuneMid: Reshelve the books by the colour inside them.
-fortuneMid2: Answer with the second question the first one suggested, and watch the whole crowd follow you down the side road.
+fortuneMid2: Just vibe it out.
 fortuneLow: Plain dishes in plain order, the plain laundry folded.
 fortuneLow2: One sentence, no detour, and let the moment move on.
-fortuneLeast: The plain sentence, maybe a smiley after.
+fortuneLeast: Give the plain sentence, maybe a smiley after.
 fortuneLeast2: Name the thing by its proper name.
 facetMostTitle: The Jar That Hisses Awake
 facetMost: There's a little grey box on the form wanting your job title. You fill it with something gloriously untrue, just to see the box hold it, and submit.
@@ -31,7 +32,7 @@ facetMid: A puddle on the path is shaped exactly like a country that doesn't exi
 facetLowTitle: Beans Snapped Clean
 facetLow: The shelf needs alphabetising and there's a perfectly good system already. You do it the boring, sensible way and skip the secret order only you'd ever decode.
 facetLeastTitle: Vinegar, Straight
-facetLeast: A lost tourist needs directions and your mind's already inventing a scenic, ridiculous route. Give them the plain three turns instead, no embellishment slipped in.
+facetLeast: A lost tourist asks you for directions to a specific destination. There's a well-known and winding scenic route, but you give them the direct one instead.
 question: You sit down with the spreadsheet you've been avoiding for a week and within four minutes you're naming the cells out loud. You...
 answerMost: open a new tab and start a poem made of the column headers
 answerHigh: let the riff run for ten minutes, then come back

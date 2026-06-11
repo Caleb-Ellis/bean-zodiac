@@ -4,6 +4,7 @@ bean: adzuki
 flavour: bitter
 form: fermented
 trait: nostalgic
+inverse: forward-looking
 dish: Adzuki paste with aged miso and bitter yuzu kosho.
 quote: The past is never dead. It's not even bean.
 creature: trumpeter swan

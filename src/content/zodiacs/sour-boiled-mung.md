@@ -4,6 +4,7 @@ bean: mung
 flavour: sour
 form: boiled
 trait: impartial
+inverse: partial
 dish: Mung bean congee with pickled mustard greens and sesame oil.
 quote: Fiat justitia ruat bean.
 creature: libra crane

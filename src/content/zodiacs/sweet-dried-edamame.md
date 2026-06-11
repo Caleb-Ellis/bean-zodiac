@@ -4,6 +4,7 @@ bean: edamame
 flavour: sweet
 form: dried
 trait: uncomplicated
+inverse: convoluted
 dish: Honey-glazed dried edamame — dried soybeans tossed in hot honey and sea salt until cracked and caramelised.
 quote: Keep it simple, bean.
 creature: ewe

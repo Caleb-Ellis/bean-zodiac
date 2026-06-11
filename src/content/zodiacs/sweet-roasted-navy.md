@@ -4,6 +4,7 @@ bean: navy
 flavour: sweet
 form: roasted
 trait: conventional
+inverse: outlandish
 dish: Maple and sea salt roasted navy beans — white beans roasted until caramelised, finished with a drizzle of cold maple syrup.
 quote: A bean in time saves nine.
 creature: pigeon

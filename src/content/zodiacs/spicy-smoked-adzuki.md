@@ -4,6 +4,7 @@ bean: adzuki
 flavour: spicy
 form: smoked
 trait: transfixing
+inverse: forgettable
 dish: Adzuki doenjang-jjigae - adzuki beans in fermented soybean broth with smoked anchovy and gochugaru.
 quote: It is better to burn out than to bean away.
 creature: king cobra

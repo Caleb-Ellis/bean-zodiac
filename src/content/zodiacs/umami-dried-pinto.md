@@ -4,6 +4,7 @@ bean: pinto
 flavour: umami
 form: dried
 trait: layered
+inverse: one-note
 dish: Frijoles de olla - dried pinto beans slow-cooked in clay pot with epazote, onion, and lard.
 quote: Life is like a bean of chocolates — you never know what you're going to get.
 creature: ammonite

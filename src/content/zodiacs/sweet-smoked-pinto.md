@@ -1,9 +1,11 @@
 ---
 slug: sweet-smoked-pinto
+lastUpdated: 2026-07-02
 bean: pinto
 flavour: sweet
 form: smoked
 trait: dreamlike
+inverse: concrete
 dish: Frijoles charros - pinto beans simmered with smoked bacon, chipotle, sweet tomato, and piloncillo.
 quote: Was it a vision, or a waking bean?
 creature: moth
@@ -12,37 +14,32 @@ antiBeans: [kidney, adzuki]
 friendlyForm: fermented
 antiForm: roasted
 seasonalFortune: A season for what the smoke leaves behind once the pot is cleared — rooms holding chipotle long after supper, piloncillo sweetness drifting through corners no one quite occupies.
-fortuneMost: A line you drop will still be quoted on the porch hours after you've gone home — chipotle hanging in the room long after the pot is cleared.
-fortuneMost2: Tell the story slow, with the strange light still on it, in the order the dream had.
-fortuneHigh: A note you scribble in someone's margin gets held up to the light a year on, and they feel found.
-fortuneHigh2: There's one image still drifting through the room. Name it and let it land.
-fortuneMid: Write the letter by hand and send it.
-fortuneMid2: Give the rough shape and let the rest dissolve into the toast.
-fortuneLow: Call instead of typing it out. They've been missing the tone of you, and the words keep arriving without it.
-fortuneLow2: Arrive when you said, sit where you said, let the room know exactly who's in it.
-fortuneLeast: Stay till the lights come on.
-fortuneLeast2: Return the call the day it lands and sign your name in full.
+fortuneMost: The moth keeps to the glass long after the flame's gone out.
+fortuneHigh: Scented smoke drifts through rooms with no one in them.
+fortuneMid: Do all nightmares begin as dreams?
+fortuneLow: Smoke is lovely; no one is fed by it.
+fortuneLeast: The day calls for specific answers, not vague ideas.
 facetMostTitle: Bacon Rendered to Nothing
-facetMost: Asked for directions to the old mill, you describe the light on the water and the smell of the lane rather than the turns. The asker wanders off somehow charmed and no closer.
+facetMost: A friend asks whether they'd hit it off with someone you both half-know. You describe how the person laughs and what a room feels like once they've left it, never the job or the face.
 facetHighTitle: Piloncillo Before Anyone Tastes It
-facetHigh: A child wants to know where rain comes from. You give them an answer with clouds like sleeping animals in it, and they go quiet, turning it over.
+facetHigh: You'd take an apartment for the way afternoon light lays dappled across the walls and floor. Square footage, amenities, age of the building — not interested.
 facetMidTitle: Chipotle on the Pot Lid
-facetMid: Someone asks how the weekend was. You hand them one drifting image — the fog on the hill at dawn — and let the rest stay unspoken.
+facetMid: Asked how the trip went, you could list the stops and the sights. But what really resonated was the smell of rain on hot stone, and the soft radio static that drifted through the streets.
 facetLowTitle: Tomato Whole in the Broth
-facetLow: Friends are splitting a bill and need your share to the cent. You name the exact figure, count out the coins, and leave nothing to drift.
+facetLow: A story reaches you from a second-hand source, highly outrageous and absent of details. Before you'll believe a word of it, you want who actually said what, exactly, and in what order.
 facetLeastTitle: The Pot, Lid Off
-facetLeast: A form wants your plans for the year in plain boxes. You fill each one with a firm, literal line and feel oddly anchored doing it.
-question: A long, vivid dream you can still feel at breakfast, and someone at the table asks what it was about. You...
-answerMost: tell it slow, with the strange light still on it, in the order the dream had
-answerHigh: name the one image that's still hanging around the kitchen
-answerMid: give them the rough shape and let the rest dissolve into the toast
-answerLow: say "weird, can't really remember" and reach for the kettle
-answerLeast: say "I never dream" and have already half-forgotten you did
-rorschachMost: a candle melting, its flame an eye gone soft
-rorschachHigh: an antlered head dissolving at the edges
-rorschachMid: a stag's head with one eye showing
-rorschachLow: a deer skull set plainly on a shelf
-rorschachLeast: a horned helmet bolted to a wooden stand
+facetLeast: The horoscope, the tarot card, a friend's new year's resolutions — you're not sold on any of it. You prefer the ledger, the figures, what's demonstrably true.
+question: A blank canvas, a warm open afternoon — it's been a while since you've picked up your brushes. You...
+answerMost: let a colour lead and follow it wherever it drifts
+answerHigh: chase the image of a half-remembered place
+answerMid: rough in the loose shape of something you had in mind
+answerLow: work from a photo, matching it patch by patch
+answerLeast: rule a grid and copy a reference exactly
+rorschachMost: a face obscured by smoke
+rorschachHigh: a sea anemone drifting
+rorschachMid: a horse chestnut in its husk
+rorschachLow: a burr snagged on something woolly
+rorschachLeast: an iron mace head
 ---
 
 Barbecued Pinto Beans are the Bean Zodiac's most dreamlike — and the line they dropped at supper is still being quoted on the porch hours after they've gone home. The voice note arrives at midnight, trails off mid-sentence, lands like an image rather than a message; the post-it on the cookbook is read a year later and held up to the light.

@@ -4,6 +4,7 @@ bean: pinto
 flavour: spicy
 form: roasted
 trait: unpredictable
+inverse: predictable
 dish: Frijoles charros - pinto beans simmered with roasted pasilla chiles, bacon, and jalapeño.
 quote: Consistency is the last refuge of the bean-less.
 creature: weasel

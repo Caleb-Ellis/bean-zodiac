@@ -4,6 +4,7 @@ bean: edamame
 flavour: sweet
 form: boiled
 trait: dependable
+inverse: undependable
 dish: Zunda mochi — edamame boiled and ground into sweet green paste, served over soft rice cake.
 quote: The strength of a bean lies not in its weight, but in its reliability.
 creature: shire horse

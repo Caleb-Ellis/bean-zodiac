@@ -4,6 +4,7 @@ bean: mung
 flavour: spicy
 form: smoked
 trait: invested
+inverse: disengaged
 dish: Lap cheong congee - Cantonese rice porridge with mung beans, smoked sausage, and chili oil.
 quote: The course of true bean never did run smooth.
 creature: wolfhound

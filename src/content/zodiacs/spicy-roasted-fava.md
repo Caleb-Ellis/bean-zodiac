@@ -4,6 +4,7 @@ bean: fava
 flavour: spicy
 form: roasted
 trait: adventurous
+inverse: unadventurous
 dish: Foul mhammar - Moroccan roasted fava beans with cumin, chili, and charmoula.
 quote: Life is either a daring bean or nothing at all.
 creature: fox

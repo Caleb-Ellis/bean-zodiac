@@ -4,6 +4,7 @@ bean: mung
 flavour: spicy
 form: boiled
 trait: worrisome
+inverse: unworried
 dish: Nokdu juk - Korean mung bean porridge with gochugaru and sesame.
 quote: I have known a great many troubles, but most of them never bean.
 creature: brooding hen

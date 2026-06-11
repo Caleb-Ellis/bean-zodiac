@@ -1,9 +1,11 @@
 ---
 slug: umami-fried-kidney
+lastUpdated: 2026-06-11
 bean: kidney
 flavour: umami
 form: fried
 trait: scrupulous
+inverse: lax
 dish: Pan-fried kidney bean cakes with red miso, sake, and sesame.
 quote: Moralising and bean are two arts that seldom go together.
 creature: harvester ant
@@ -12,20 +14,15 @@ antiBeans: [adzuki, black]
 friendlyForm: dried
 antiForm: fermented
 seasonalFortune: A season of red miso deepening in the pan — verdicts cure slowly, and the household keeps its scorched edges in plain view, unhidden, unsoftened.
-fortuneMost: The ledger comes out even to the cent, and it pleases you more than it should.
-fortuneMost2: The debt paid back the same week, exact; the apology given whole when one is owed.
+fortuneMost: Pay back the debt as soon as possible. The longer you leave it the more it will eat you.
 fortuneHigh: One word will do.
-fortuneHigh2: A story turns mean and your fork goes down mid-sentence.
-fortuneMid: When the talk slides somewhere you can't stand behind, change its course rather than pretend you missed it.
-fortuneMid2: Name the small wrong once, lightly, and let that be enough.
-fortuneLow: Pour the second glass and stay out of it.
-fortuneLow2: Let a friend's wobbly plan run its course.
-fortuneLeast: Let someone else keep the scorecard this round.
-fortuneLeast2: Hold a looser standard for the one across from you.
+fortuneMid: When the conversation goes somewhere you can't stand behind, change its course rather than pretend you missed it.
+fortuneLow: Let a friend's wobbly plan run its course.
+fortuneLeast: Hold a looser standard for the one across from you.
 facetMostTitle: Sake to Lacquer
 facetMost: A clerk undercharges you in a hurry and is already serving the next person; you wait to flag the difference rather than pocket the gap.
 facetHighTitle: Sesame Catching on Iron
-facetHigh: You found a tenner on the trail with a name on the dropped wallet beside it, and the whole afternoon bends toward getting it back to them.
+facetHigh: You found a dropped wallet on a trail, and the whole afternoon bends toward getting it back to the owner.
 facetMidTitle: Miso at the Rim
 facetMid: A game's being scored loosely and a point goes to the wrong side; you'd correct it quietly rather than let the wrong tally stand.
 facetLowTitle: The Cake Before It Sets

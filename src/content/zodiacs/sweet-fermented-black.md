@@ -1,9 +1,11 @@
 ---
 slug: sweet-fermented-black
+lastUpdated: 2026-06-30
 bean: black
 flavour: sweet
 form: fermented
 trait: contemplative
+inverse: unreflective
 dish: Black bean and white miso caramel tart — sweet miso folded into caramel over a black bean base, baked until just set.
 quote: I think, therefore I am a bean.
 creature: owl
@@ -12,37 +14,32 @@ antiBeans: [kidney, green]
 friendlyForm: smoked
 antiForm: fried
 seasonalFortune: A season folded inward, the way miso darkens under its own weight. Sweetness gathers in the unwatched crock; the year keeps its own counsel.
-fortuneMost: A thought set down and left alone grows a second sentence in the dark, the way miso deepens in its crock.
-fortuneMost2: Sit with the question through the long quiet. Something is fermenting that won't be hurried.
-fortuneHigh: Send the wandering voice note, all its detours intact. The meander was never the flaw.
-fortuneHigh2: Two beats of dark after someone finishes, and your answer comes out the better for gathering there.
-fortuneMid: The half of the thought you'd usually trim is the half they came for. Hand it over rough.
-fortuneMid2: Say it while it's still warm, before the polishing.
-fortuneLow: You've turned it long enough. Flip a coin and watch which face leaves you disappointed — there's your answer.
-fortuneLow2: Follow the visitor wherever they lead, mid-thought and all.
-fortuneLeast: Order the thing you always almost order.
-fortuneLeast2: Some things are better caught than weighed. Buy the ticket on the platform.
+fortuneMost: A thought left in the dark, it deepens and grows.
+fortuneHigh: The owl waits patiently for its moment.
+fortuneMid: Some sweet things are meant to be served before they set.
+fortuneLow: The longer a coin is held, the heavier it feels.
+fortuneLeast: The caramel darkens — pour it now.
 facetMostTitle: The Tart Left Overnight
-facetMost: A door appears in your kitchen wall, dark inside, no handle. You'd stand there a long while working out what it wants before you ever reached to push.
+facetMost: You wake up to find a door in your kitchen wall where there wasn't one before. You study it for days before your hand goes anywhere near it.
 facetHighTitle: Salt in the Slow Dark
-facetHigh: A stranger on a bench asks a real question and then goes quiet, willing to wait. You take the silence they offered and turn the answer over in it before a word comes out.
+facetHigh: A stranger asks what you'd change about your life. You could give the canned response, but you sit with it for a good while before answering.
 facetMidTitle: Caramel in Its Tin
-facetMid: Walking, you catch a snag in something somebody said an hour ago. Slow your pace to the worry instead of finishing the loop home.
+facetMid: Someone remarks that you're "hard to read" — not as an insult, just an observation. You spend hours chewing on it, trying to uncover exactly what they meant.
 facetLowTitle: The Last-Minute Miso
-facetLow: The clerk holds up two paint chips, near-identical, and there's a queue forming behind you. Jab a finger at one and carry it to the counter.
+facetLow: The lunch counter's chalkboard is a wall of options and the line is stacking up behind you. You point at the first thing that looks good and step aside.
 facetLeastTitle: Sugar Hitting the Pan
-facetLeast: Two roads off the trail, no sign, the light going. Your boots pick one and you're already walking it.
-question: Alone on a long night drive, the headlights and the empty road, a decision you've been circling for weeks finally has room to unfold. You...
-answerMost: let it run the whole three hours and arrive with it fully thought
-answerHigh: turn it slowly, mile by mile, in no hurry to land
-answerMid: settle the one part you're surest of and leave the rest open
-answerLow: catch the first answer that surfaces and test it against the dark
-answerLeast: put music on and let the question go for the night
-rorschachMost: a cowled head bowed low over folded hands
-rorschachHigh: a boulder worn round, settled into the hillside
-rorschachMid: a heavy thundercloud massed over the hills
+facetLeast: Someone dares you to jump off the high rocks into the water below. You're already pulling your shirt over your head.
+question: A voice offers to answer any single question truthfully and completely — but you only ever get to ask one, for the rest of your life. You...
+answerMost: take months, weighing every question worth asking
+answerHigh: take weeks, turning the choices over slowly
+answerMid: take days to narrow it to a handful, and choose from those
+answerLow: ask the first thing that truly matters and live with it
+answerLeast: ask whatever happens to be on your mind
+rorschachMost: a stone gargoyle on a ledge
+rorschachHigh: an eroded cliff-side
+rorschachMid: a lumpy bitten apple
 rorschachLow: a wave heaving up just before it crests
-rorschachLeast: a hound lunging off its haunches at a sound
+rorschachLeast: a bird's head, screeching
 ---
 
 Funky Black Beans are the Bean Zodiac's most contemplative — the ones who can sit with a question through an entire weekend and not feel they've wasted it. They turn a thought over the way you'd turn a stone in your pocket, polishing the edges down by feel. When they finally speak, the sentence has weather in it; you can tell it's been somewhere.

@@ -4,6 +4,7 @@ bean: black
 flavour: sour
 form: dried
 trait: impenetrable
+inverse: penetrable
 dish: Black bean and dried hibiscus soup with lime.
 quote: No bean is an island, entire of itself.
 creature: rhinoceros beetle

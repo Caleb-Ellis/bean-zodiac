@@ -4,6 +4,7 @@ bean: edamame
 flavour: umami
 form: fermented
 trait: observant
+inverse: unobservant
 dish: Shio koji edamame - edamame marinated in fermented rice koji with salt and yuzu.
 quote: The world is full of obvious things which no bean by any chance ever observes.
 creature: tawny owl

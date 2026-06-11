@@ -4,6 +4,7 @@ bean: navy
 flavour: umami
 form: roasted
 trait: wistful
+inverse: satisfied
 dish: Marmite-roasted navy beans with rosemary and garlic.
 quote: We shall not cease from bean exploration, and the end of all our exploring will be to arrive where we started.
 creature: tundra swan

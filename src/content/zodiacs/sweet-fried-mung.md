@@ -4,6 +4,7 @@ bean: mung
 flavour: sweet
 form: fried
 trait: impractical
+inverse: sensible
 dish: Onde-onde — Indonesian fried rice flour balls filled with sweet mung bean paste, rolled in fresh grated coconut.
 quote: Heart in the right place, bean in the wrong pot!
 creature: dodo

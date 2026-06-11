@@ -4,6 +4,7 @@ bean: butter
 flavour: sour
 form: smoked
 trait: pallid
+inverse: rosy
 dish: Fabada Asturiana - smoked butter beans with morcilla, smoked paprika, and sherry vinegar
 quote: Now is the bean of our discontent.
 creature: ghost crab

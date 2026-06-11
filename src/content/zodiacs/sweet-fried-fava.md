@@ -4,6 +4,7 @@ bean: fava
 flavour: sweet
 form: fried
 trait: daring
+inverse: craven
 dish: Sfinci di fave — Sicilian fried dough puffs filled with sweetened fava bean paste and dusted with icing sugar.
 quote: Fortune befriends the bean.
 creature: panther

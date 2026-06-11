@@ -4,6 +4,7 @@ bean: pinto
 flavour: sweet
 form: boiled
 trait: daydreamy
+inverse: wide-awake
 dish: Frijoles con leche — pinto beans simmered in sweetened milk with cinnamon and piloncillo until the broth turns pale and dreamlike.
 quote: I have bean a dreamer. I have joined the great company of those who make the imagination of mankind rich.
 creature: butterfly

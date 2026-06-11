@@ -4,6 +4,7 @@ bean: butter
 flavour: bitter
 form: roasted
 trait: indulgent
+inverse: abstemious
 dish: Gratin - butter beans with bitter radicchio and taleggio.
 quote: If I have one more bean I'm gonna pop!
 creature: persian cat

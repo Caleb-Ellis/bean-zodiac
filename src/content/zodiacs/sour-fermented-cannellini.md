@@ -4,6 +4,7 @@ bean: cannellini
 flavour: sour
 form: fermented
 trait: critical
+inverse: uncritical
 dish: Cannellini with crème fraîche, capers, and lemon zest.
 quote: You call this bean broth?
 creature: jackdaw

@@ -63,7 +63,7 @@ export function BottomTabBar() {
 
   return (
     <nav
-      className={`fixed bottom-0 inset-x-0 md:hidden z-50 bg-zinc-950/95 backdrop-blur-sm border-t-2 border-zinc-800 transition-transform duration-300 will-change-transform ${hidden ? "translate-y-full" : "translate-y-0"}`}
+      className={`fixed bottom-0 inset-x-0 md:hidden z-50 bg-zinc-950 border-t-2 border-zinc-800 transition-transform duration-300 will-change-transform ${hidden ? "translate-y-full" : "translate-y-0"}`}
       style={{ paddingBottom: "env(safe-area-inset-bottom, 0px)" }}
     >
       <ul className="flex list-none m-0 p-0">

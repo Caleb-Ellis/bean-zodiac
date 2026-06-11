@@ -1,9 +1,11 @@
 ---
 slug: umami-fermented-fava
+lastUpdated: 2026-07-01
 bean: fava
 flavour: umami
 form: fermented
 trait: rebellious
+inverse: obedient
 dish: Fava and pixian doubanjiang stir-fry - fava beans with fermented broad bean chili paste and garlic shoots.
 quote: The most common way beans give up their power is by thinking they don't have any.
 creature: brumby
@@ -12,37 +14,32 @@ antiBeans: [navy, cannellini]
 friendlyForm: fried
 antiForm: dried
 seasonalFortune: Sealed crocks darken through the season while the world above forgets them. What surfaces in spring tastes of years spent declining every easier path.
-fortuneMost: You worked out alone, long ago, why the agreed plan won't survive contact with the world.
-fortuneMost2: Walk off the road everyone agrees you should be on.
-fortuneHigh: Ask the one inconvenient question the others are praying nobody raises. The silence after it runs shorter than you fear.
-fortuneHigh2: When the rules close in, go around them and talk to the people directly.
-fortuneMid: Your reasons stay sealed in the crock, so the refusal lands as a slammed door.
-fortuneMid2: Name the doubt plainly before you fall in, so going along doesn't read as agreement you never gave.
-fortuneLow: Take the agreeable option this once.
-fortuneLow2: Pay the small unfairness, skip the principled letter, walk on.
-fortuneLeast: The wheel turns toward the easy yes this time.
-fortuneLeast2: Follow it exactly as written and save the swerve for what's worth the door it closes.
+fortuneMost: The fence can't hold the horse that means to jump.
+fortuneHigh: Do it your own way - don't ask for permission.
+fortuneMid: Keep your reasons to yourself.
+fortuneLow: Take the open gate this once - you don't have to take the hard route.
+fortuneLeast: The fight is not worth it - choose happiness instead.
 facetMostTitle: The Cracked Seal
-facetMost: Keep off the grass, says the sign, for no reason anyone can name. Onto the grass you step, straight across.
+facetMost: The head chef insists every plate leaves the pass exactly as he drew it — not a thread out of place. You prefer your way, and plate it as such.
 facetHighTitle: The Stained Spoon
-facetHigh: Why follow the tour left to the gift shop when there's a corridor on the right no one's pointing at? You break off to see what's down it.
+facetHigh: Attending a different dojo than usual, the judo instructor shows the one grip this dojo allows and asks that you follow it. You throw the way your body knows instead.
 facetMidTitle: Paste in the Wok
-facetMid: A whole bus pretends not to see the man who's clearly unwell, and you're the one to stand up and ask if he's all right.
+facetMid: You're at a restaurant with a big group, and there's a specific dish you've been wanting to try. Due to the group's size, the host insists you must order the set banquet, without the dish you want. You pull them aside and order what you wanted as well.
 facetLowTitle: Brine at the Line
-facetLow: Tick the box on the nosy form, hand it back, don't make a thing of it — this once, the question isn't worth a stand.
+facetLow: The new manager reorganises the whole stockroom and says keep it exactly like this. You're sure your old system was quicker, but you leave it their way and get on with things.
 facetLeastTitle: Skins in the Broth
-facetLeast: New rule at the club, everyone grumbling. You shrug and go along; it isn't the fight to pick.
-question: The old master at the workshop tells you, again, that the craft is done his one true way and no other, and hands you the same drill he was handed. You...
-answerMost: set the drill down and tell him plainly you'll do it your own way
-answerHigh: name the method you actually believe in and let it land
-answerMid: push back on one step and follow the rest for now
-answerLow: nod along and quietly plan to break from it later
-answerLeast: take the drill, do it his way, and feel your own ideas shelved
-rorschachMost: a snowman with its head shoved off askew
-rorschachHigh: a totem pole with one face knocked off-center
-rorschachMid: two crates balanced one atop the other
-rorschachLow: a mushroom standing straight on its stem
-rorschachLeast: two crates squared up in a neat tidy stack
+facetLeast: You take a job under a micromanaging boss who expects you to follow their beck and call. You might grumble a bit, but you do.
+question: Police order the march to break up — the line advancing, most of the crowd already peeling away. You...
+answerMost: link arms at the front and hold the line
+answerHigh: stand your ground and keep chanting as the crowd thins
+answerMid: stay, but drift back to the edge of it
+answerLow: fall back with the leaving crowd, uneasy about it
+answerLeast: turn and head home the moment you're told
+rorschachMost: a volcano emitting a sea of magma
+rorschachHigh: a snowman with its head knocked off
+rorschachMid: a bundle of laundry heaped on a stool
+rorschachLow: a gourd sitting plumb and upright
+rorschachLeast: wet dough on the counter, not yet kneaded
 ---
 
 Miso Fava Beans are the Bean Zodiac's most rebellious — but the refusal has been sitting in a sealed crock for years and tastes nothing like a tantrum. They've already worked out, on their own, three reasons the agreed-upon plan won't survive contact with reality, and they nod through the meeting and then go and do it differently in the corner, where it works.

@@ -1,50 +1,47 @@
 ---
 slug: bitter-fried-navy
+lastUpdated: 2026-06-29
 bean: navy
 flavour: bitter
 form: fried
-trait: judgmental
+trait: incisive
+inverse: obtuse
 dish: Crispy navy beans with bitter chicory and anchovy.
-quote: Do not judge others before you have walked a mile in their beans.
+quote: You see the bean, but you do not observe it.
 creature: goshawk
 friendlyBeans: [edamame, black]
 antiBeans: [pinto, chickpea]
 friendlyForm: dried
 antiForm: roasted
 seasonalFortune: The oil runs hot and the chicory blackens before it bends. A season that crackles at the edges, where verdicts arrive faster than the anchovy can salt them.
-fortuneMost: The read you closed for cause was sound.
-fortuneMost2: Your eye caught the chair askew, the coat where it shouldn't be, and you weren't wrong.
-fortuneHigh: Say the pattern out loud, once, to one person.
-fortuneHigh2: The standard is exacting and usually right.
-fortuneMid: The lateness is data, not a sentence.
-fortuneMid2: One miss isn't the case closed.
-fortuneLow: The second answer shifts the verdict more often than you'd think.
-fortuneLow2: A bad first impression sits uneasy while it stays unjudged.
-fortuneLeast: A verdict you can finish in one breath isn't finished.
-fortuneLeast2: They came late, left the dishes, kept the book, and still the door can swing open.
+fortuneMost: The goshawk sees the mouse the grass is hiding.
+fortuneHigh: The first version landed; the second only softened it.
+fortuneMid: Not every quiet hides a fault.
+fortuneLow: The easy answer stepped over the true one.
+fortuneLeast: Some beans are just supper, not a sign.
 facetMostTitle: The Pan's Single Spit
-facetMost: Crooked badge on the host, a typo in the menu, a water-spotted fork at your place. You've graded the whole restaurant before the bread arrives — and you won't be revising it.
+facetMost: A friend brings their new partner to dinner. Before the plates clear you've formed a firm read on them, and you'd trust that read over anything they say about themselves.
 facetHighTitle: Anchovy, No Rinse
-facetHigh: Your friend's new partner mispronounces a wine, laughs a half-beat too long at their own joke. You file each one quietly, and your read of them firms up as the evening goes.
+facetHigh: A polished ad promises everything in thirty seconds. What snags you is the one thing it is careful not to say.
 facetMidTitle: Chicory at the Bruise
-facetMid: The handyman does a sloppy job on the gate. You note it, dock him a star in your head, but you stop short of writing him off — one bad gate isn't the whole man.
+facetMid: A friend blames traffic for being late, but you drove that same road and it was empty. You catch the mismatch and let it sit rather than pull the thread.
 facetLowTitle: Oil Slow, Bean Steady
-facetLow: A stranger is short and curt with you at the post office counter. Instead of marking them rude, you figure they're probably having a rough one and let it go without a verdict.
+facetLow: A stranger reels off directions with full confidence, and you set off following them block after block without once checking the map.
 facetLeastTitle: Leaves the Cook Kept
-facetLeast: A neighbour's been spreading a story about you that isn't quite fair. You shrug it off, wave when you pass, and decline to keep any ledger on them at all.
-question: The plumber you called turns up an hour late, tracks mud through the hall, and fixes the leak in four minutes flat. You...
-answerMost: decide he's a slob and find someone else next time, leak or no leak
-answerHigh: thank him coolly and dock him a star in your head
-answerMid: note the mud, note the speed, call it even
-answerLow: figure the traffic wasn't his fault and judge him on the work
-answerLeast: tip him for the quick fix and forget the rest by teatime
-rorschachMost: a clam clamped tight around its hinge
-rorschachHigh: a fist closed hard over something held
-rorschachMid: a smooth heart-shaped river stone
-rorschachLow: a peach with its seam just splitting
-rorschachLeast: a flower opening wide to the sun
+facetLeast: Someone you've just met promises they'll call. You take it at face value, no weighing of whether they mean it.
+question: On the corner a magician makes a borrowed ring vanish, and the crowd gasps. You...
+answerMost: catch the exact moment of the switch
+answerHigh: lock onto the hand you think he wants you to ignore
+answerMid: turn the method over and over in your head after
+answerLow: gasp with the rest and only wonder how
+answerLeast: take it as pure magic and leave it be
+rorschachMost: a thistle head bristling with hard spines
+rorschachHigh: a horned beetle with horns raised
+rorschachMid: an ink drop splashed on the page
+rorschachLow: a hunched cat asleep, paws tucked under
+rorschachLeast: a soft ball of wool, ends frayed loose
 ---
 
-Scorched Navy Beans are the Bean Zodiac's most judgmental. They walk into a room and clock the chair set askew, the lamp left burning, the coat where the coat should not be; a first message lands wrong and the thread is filed before the reply finishes typing. Their standards are exacting and, more often than anyone likes to admit, exactly right.
+Scorched Navy Beans are the Bean Zodiac's most incisive. Hand one a tangle — a stalled project, a story that doesn't quite line up, a friend who swears they're fine — and they go straight to the thread that matters and pull it, while everyone else is still reading the preamble. They cut through the noise to the one real thing, and they are right often enough that people have mostly stopped arguing.
 
-The verdict just arrives so fast it forecloses the case before the evidence is fully in — two late arrivals and the third invitation is never sent. Somewhere in the closed files is a person who'd have been worth knowing, sentenced on a draft they didn't get to revise.
+The read just lands so fast it skips the step where it might be wrong. They've summed you up before your second sentence is out, and the summary — sharp, clean, usually fair — leaves you little room to be anything more than it.

@@ -4,6 +4,7 @@ bean: navy
 flavour: spicy
 form: fermented
 trait: independent
+inverse: reliant
 dish: Alubias con chorizo - Spanish white bean stew with spicy fermented sausage and smoked paprika.
 quote: The bean who follows the crowd will usually get no further than the crowd.
 creature: bobcat

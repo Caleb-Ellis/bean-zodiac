@@ -4,6 +4,7 @@ bean: kidney
 flavour: spicy
 form: dried
 trait: primed
+inverse: unprepared
 dish: Red beans and rice - New Orleans style with andouille and cayenne.
 quote: Anger is an acid that can do more harm to the bean in which it is stored than to anything on which it is poured.
 creature: cobra

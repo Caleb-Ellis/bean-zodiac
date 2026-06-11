@@ -4,6 +4,7 @@ bean: pinto
 flavour: sweet
 form: fermented
 trait: anxious
+inverse: unflappable
 dish: Pinto in tepache — speckled beans simmered in sweet fermented pineapple drink with piloncillo and cloves.
 quote: My bean is afraid of it, and yet I still want to do it.
 creature: rabbit

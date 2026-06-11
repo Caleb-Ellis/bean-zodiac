@@ -4,6 +4,7 @@ bean: pinto
 flavour: sour
 form: roasted
 trait: aloof
+inverse: convivial
 dish: Frijoles borrachos al horno - oven-roasted pinto beans with lime juice, jalapeño, and dark beer
 quote: I exist as I am — that is enough. If no other bean in the world be aware, I sit content.
 creature: cat

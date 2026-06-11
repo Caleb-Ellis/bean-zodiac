@@ -4,6 +4,7 @@ bean: mung
 flavour: umami
 form: roasted
 trait: melancholy
+inverse: buoyant
 dish: Roasted mung beans with fish sauce, lime leaves, and dried chilli.
 quote: Sadness is but a bean of the wall beside the window, through which your joy shall look out.
 creature: humpback

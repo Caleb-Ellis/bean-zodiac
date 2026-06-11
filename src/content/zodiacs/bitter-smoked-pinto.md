@@ -4,6 +4,7 @@ bean: pinto
 flavour: bitter
 form: smoked
 trait: intricate
+inverse: rudimentary
 dish: Smoked pinto with bitter cacao, finely layered.
 quote: The bean is in the details.
 creature: nautilus

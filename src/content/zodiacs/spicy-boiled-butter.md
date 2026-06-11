@@ -4,6 +4,7 @@ bean: butter
 flavour: spicy
 form: boiled
 trait: stoic
+inverse: histrionic
 dish: Kuru fasulye - Turkish butter bean stew with Aleppo pepper and slow-cooked onion.
 quote: You have power over your bean, not outside events. Realize this, and you will find strength.
 creature: bactrian camel

@@ -4,6 +4,7 @@ bean: fava
 flavour: sweet
 form: roasted
 trait: outspoken
+inverse: tight-lipped
 dish: Sweet harissa roasted fava beans — dried favas roasted with harissa paste and honey until blistered and crackling.
 quote: If you have an important bean to make, don't try to be subtle or clever. Use a pile driver.
 creature: jay

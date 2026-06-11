@@ -4,6 +4,7 @@ bean: chickpea
 flavour: bitter
 form: fermented
 trait: collaborative
+inverse: uncooperative
 dish: Fatteh - chickpeas with labneh and bitter pomegranate.
 quote: None of us is as bean as all of us.
 creature: bee

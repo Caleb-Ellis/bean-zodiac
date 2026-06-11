@@ -4,6 +4,7 @@ bean: cannellini
 flavour: sweet
 form: dried
 trait: rarefied
+inverse: commonplace
 dish: Torta di fagioli — Tuscan white bean cake, dried cannellini cooked to paste and baked with eggs, sugar, and lemon zest into something simple and precise.
 quote: Excellence is never bean by accident.
 creature: snow leopard

@@ -4,6 +4,7 @@ bean: butter
 flavour: bitter
 form: dried
 trait: stark
+inverse: ornate
 dish: Dried butter beans in sage broth with bitter radicchio.
 quote: Tell me, what is it you plan to do with your one wild and precious bean?
 creature: condor

@@ -4,6 +4,7 @@ bean: cannellini
 flavour: sweet
 form: roasted
 trait: empowering
+inverse: diminishing
 dish: Cannellini roasted in maple and sage — white beans blistered in the oven with maple syrup and fresh sage until caramelised.
 quote: As we let our own bean shine, we unconsciously give others permission to do the same.
 creature: phoenix

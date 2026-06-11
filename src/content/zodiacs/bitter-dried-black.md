@@ -4,6 +4,7 @@ bean: black
 flavour: bitter
 form: dried
 trait: laconic
+inverse: garrulous
 dish: Black bean soup with ancho chile and dark chocolate.
 quote: Speech is silver; bean is golden.
 creature: dromedary

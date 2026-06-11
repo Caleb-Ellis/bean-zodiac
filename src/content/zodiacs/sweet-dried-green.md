@@ -4,6 +4,7 @@ bean: green
 flavour: sweet
 form: dried
 trait: perennial
+inverse: ephemeral
 dish: Green bean gangjeong — dried green beans lacquered in honey and rice syrup, coated in sesame, and shaped into Korean confection pieces.
 quote: No matter how long the winter, spring is sure to bean.
 creature: redwood sloth

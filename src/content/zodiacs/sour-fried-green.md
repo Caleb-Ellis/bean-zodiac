@@ -4,6 +4,7 @@ bean: green
 flavour: sour
 form: fried
 trait: impulsive
+inverse: premeditated
 dish: Gan bian si ji dou - Sichuan dry-fried green beans with garlic, chili, and Zhenjiang vinegar.
 quote: Bean first, and think afterwards is not a bad motto.
 creature: jackrabbit

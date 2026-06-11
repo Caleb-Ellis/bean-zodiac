@@ -4,6 +4,7 @@ bean: fava
 flavour: umami
 form: smoked
 trait: primal
+inverse: cultivated
 dish: Broad beans with smoked streaky bacon, mint, and pecorino.
 quote: In the beginning, there was bean.
 creature: dire wolf

@@ -4,6 +4,7 @@ bean: kidney
 flavour: bitter
 form: smoked
 trait: haunted
+inverse: untroubled
 dish: Smoked kidney bean with bitter ember oil.
 quote: I see bean people.
 creature: barn owl

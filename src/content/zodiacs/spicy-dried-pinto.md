@@ -4,6 +4,7 @@ bean: pinto
 flavour: spicy
 form: dried
 trait: untempered
+inverse: moderate
 dish: New Mexican dried pinto bean stew with ancho and red New Mexico chile.
 quote: It's better to burn out than to bean away.
 creature: young bull

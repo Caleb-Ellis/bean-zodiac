@@ -1,9 +1,11 @@
 ---
 slug: sour-roasted-adzuki
+lastUpdated: 2026-06-17
 bean: adzuki
 flavour: sour
 form: roasted
 trait: transparent
+inverse: opaque
 dish: Iri-azuki - roasted adzuki beans with yuzu zest and sea salt
 quote: The naked bean is the most decent thing in the world.
 creature: glass frog
@@ -12,37 +14,32 @@ antiBeans: [black, green]
 friendlyForm: fried
 antiForm: smoked
 seasonalFortune: A season that strips its own husks. Roasting pans go uncovered, salt sits where it falls, and the yuzu's oil reads plain on the thumb. Nothing is kept back for later.
-fortuneMost: Salt-bare honesty is the luck running toward you this turn.
-fortuneMost2: No husk, no second meaning, no version held in reserve.
-fortuneHigh: The awkward true sentence you carry is the one that finally lets a stuck thing move.
-fortuneHigh2: A stranger asks how you really are and gets the real answer. Watch what opens.
-fortuneMid: That small debt you owe — name it yourself, and walk lighter for miles.
-fortuneMid2: Something's been sitting under the lid in you, growing heavier the longer it's kept.
-fortuneLow: A true thing handed over with a softer edge travels further than a bare one.
-fortuneLow2: Not every true thing needs saying the instant it's true.
-fortuneLeast: A reason kept to yourself isn't a betrayal of it.
-fortuneLeast2: A drawer you'd rather no visitor opened. Let it stay shut.
+fortuneMost: No husk, no second meaning, nothing left unsaid.
+fortuneHigh: The honest version will arrive before the polite one.
+fortuneMid: Something kept under the lid is seeping out.
+fortuneLow: Sand the edge off before you hand it over.
+fortuneLeast: A drawer you'd rather no visitor opened. Let it stay shut.
 facetMostTitle: Yuzu Oil on the Rind
-facetMost: Anything to declare? You empty the whole bag onto the counter — the salt, the peel, the dented tin, all of it, nothing left in the pocket.
+facetMost: Anything to declare? You empty the whole bag onto the counter — the salt, the peel, the dented tin, all of it.
 facetHighTitle: Skin Already Split
-facetHigh: The waiter sets down a dish nothing like what you ordered. Before they've turned to go, you say so, plainly, no cushion on it.
+facetHigh: They hand you the gift and watch you open it. You cannot help what your face does.
 facetMidTitle: Salt Before It Dissolves
-facetMid: Too much change comes back across the market stall. You count it where they can see and push the spare coin back before pocketing the rest.
+facetMid: The shop assistant guesses your size out loud and gets it a size too flattering. You correct them plainly.
 facetLowTitle: The Foil-Covered Pan
-facetLow: Guests are coming and the back room is a wreck. You shut its door, set out the good cups, and let them have the version that's ready.
+facetLow: You made two trays for the potluck and one came out wrong. You leave that one in the car and carry in only the good one.
 facetLeastTitle: Zest Without the Fruit
-facetLeast: Asked why you did the kind thing, you shrug it off and change the subject. Some reasons feel better kept than handed over.
-question: Back from the vet, your kid looks up from the old dog's bed and asks if she's going to be okay. She isn't. You...
-answerMost: kneel down and tell them the truth in words their age can hold
+facetLeast: For a laugh, the whole table's trading stories on awful things they've done, and now regret. You keep quiet.
+question: Back from the vet, your niece looks up from the old dog's bed and asks if she's going to be okay. She isn't. You...
+answerMost: kneel down and tell them the truth in words you hope they understand
 answerHigh: say she's very sick and that you'll all look after her together
 answerMid: say the vet is doing everything they can and leave it there
 answerLow: say "let's just give her lots of cuddles" and change the subject
 answerLeast: say "she'll be fine, don't worry" and hope they forget you said it
-rorschachMost: an owl facing you with both eyes open
-rorschachHigh: a cat sitting square, ears up, watching back
-rorschachMid: a russet potato with two knobby sprouts
-rorschachLow: a hedgehog curling its face away from you
-rorschachLeast: a hibernating mole rolled tight into its burrow
+rorschachMost: a wolf mid-howl, jaws and throat thrown open
+rorschachHigh: a fox caught mid-yawn, mouth dropped wide
+rorschachMid: a knobbly ginger root with one split end
+rorschachLow: a turtle drawing its head back under its shell
+rorschachLeast: a hibernating mouse with its face tucked away
 ---
 
 Chimichurri Adzuki Beans are the Bean Zodiac's most transparent — what you see at the door is what comes through it. The thank-you note isn't softened, the toast isn't dressed up, the bad news arrives in the same voice as the good. People around them stop bracing for subtext, because there isn't any; the celebration, when it comes, is the whole celebration.

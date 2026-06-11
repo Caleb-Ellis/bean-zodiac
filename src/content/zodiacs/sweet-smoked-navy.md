@@ -4,6 +4,7 @@ bean: navy
 flavour: sweet
 form: smoked
 trait: lingering
+inverse: fleeting
 dish: Boston baked beans - navy beans slow-cooked with smoked salt pork, molasses, and brown sugar.
 quote: Some beans linger.
 creature: alley cat

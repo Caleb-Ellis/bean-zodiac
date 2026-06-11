@@ -4,6 +4,7 @@ bean: navy
 flavour: sour
 form: boiled
 trait: literal-minded
+inverse: figurative
 dish: Navy bean and escarole soup with lemon and Parmesan.
 quote: When I use a bean, it means just what I choose it to mean — neither more nor less.
 creature: parrot
@@ -12,18 +13,18 @@ antiBeans: [chickpea, kidney]
 friendlyForm: dried
 antiForm: fermented
 seasonalFortune: A season of bright broth and named parts. Escarole keeps its bitterness, lemon its edge, Parmesan its salt. Nothing borrows a flavour it has not earned.
-fortuneMost: Someone says "fine." Ask what fine means and wait for the answer in the words they give back.
-fortuneMost2: Answer the question you were actually asked, not the one they think you should have.
+fortuneMost: It is exactly as it appears.
+fortuneMost2: Answer the question you were actually asked.
 fortuneHigh: An answer comes back clipped.
 fortuneHigh2: '"Are you hungry" and "should we eat" are not the same question, however close they sound.'
 fortuneMid: One sentence doing two jobs is worth splitting.
 fortuneMid2: You measure the coffee, you arrive at the minute you named.
-fortuneLow: Sometimes the tone is the message and the words are only packaging.
-fortuneLow2: A pause before some sentences carries the real thing.
+fortuneLow: It is not as it appears.
+fortuneLow2: The parrot mimics but it does not understand.
 fortuneLeast: '"I am fine" through clenched teeth is not the play.'
 fortuneLeast2: Some things were never a sentence to parse.
 facetMostTitle: Lemon Where Lemon Is Asked
-facetMost: Back in five, the sign says — and you wait the five, while the person beside you huffs that it never really means five.
+facetMost: Back in five minutes, the sign says — and you come back in exactly five minutes.
 facetHighTitle: Escarole Leaf by Leaf
 facetHigh: Grab a few things for dinner, they said, no list, nothing more. A few means a few — back you come with exactly three, not the unspoken rest of the shop.
 facetMidTitle: Parmesan to the Rind's Edge

@@ -4,6 +4,7 @@ bean: butter
 flavour: umami
 form: boiled
 trait: sleepy
+inverse: wakeful
 dish: Butter bean broth simmered with Parmesan rinds, rosemary, and garlic.
 quote: Let sleeping beans lie.
 creature: three-toed sloth

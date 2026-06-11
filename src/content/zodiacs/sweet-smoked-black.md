@@ -4,6 +4,7 @@ bean: black
 flavour: sweet
 form: smoked
 trait: mystical
+inverse: prosaic
 dish: Mole negro - black beans braised in charred mulato chile, smoked chipotle, and dark chocolate.
 quote: There are more things in bean and earth, Horatio.
 creature: qilin

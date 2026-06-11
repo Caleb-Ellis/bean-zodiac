@@ -4,6 +4,7 @@ bean: mung
 flavour: sweet
 form: smoked
 trait: unguarded
+inverse: self-protective
 dish: Sakkarai pongal - sweet mung dal and rice pudding with smoked ghee, jaggery, and cardamom.
 quote: Speak what we bean, not what we ought to say.
 creature: spring lamb

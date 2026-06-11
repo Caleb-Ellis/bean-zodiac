@@ -4,6 +4,7 @@ bean: butter
 flavour: sweet
 form: fermented
 trait: silly
+inverse: sober
 dish: Butter bean and labneh with honey — cooked butter beans stirred through strained fermented yogurt and drizzled with wildflower honey.
 quote: The bean abides.
 creature: goose chick
@@ -16,8 +17,8 @@ fortuneMost: Wear the stupid hat to the serious occasion.
 fortuneMost2: Today the honeyjar tilts toward you — a stranger laughs before they meant to, and a whole table loosens behind them.
 fortuneHigh: Bring the dish nobody asked for.
 fortuneHigh2: An absurd line, flat, no smile.
-fortuneMid: Googly eyes on something load-bearing, no announcement.
-fortuneMid2: A chair facing the wall, a postcard propping the salt — your rooms are funnier for the things left askew.
+fortuneMid: Put googly eyes on something load-bearing.
+fortuneMid2: A chair is facing the wall. This is absurd.
 fortuneLow: One real conversation, straight-faced all the way through.
 fortuneLow2: Let the long walk run at its own pace.
 fortuneLeast: When it has to be believed, say it plain — no key, no wink.
@@ -27,7 +28,7 @@ facetMost: A jar in the museum gift shop is labelled, dead serious, as the world
 facetHighTitle: The First Drip of Honey
 facetHigh: The funeral's grim, the eulogies long, and a line arrives that would land like a feather. Slide it to the cousin beside you so quiet only they catch it.
 facetMidTitle: The Crooked Drizzle
-facetMid: There's a spare half-hour before the guests come and a perfectly normal hallway to walk down. The umbrellas end up arranged tallest-to-shortest like a choir before anyone arrives.
+facetMid: The lift is empty and the doors are taking their time. A small honk, just to hear it bounce around the quiet box, sits right at the back of your throat.
 facetLowTitle: The Slow Labneh
 facetLow: A friend's been crying for an hour and the easy joke is right there, sweet as honey on the tongue. Hold it; let the hour stay heavy.
 facetLeastTitle: The Plain Bowl

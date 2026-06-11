@@ -4,6 +4,7 @@ bean: kidney
 flavour: spicy
 form: fried
 trait: temperamental
+inverse: even-keeled
 dish: Kottu roti with kidney beans - Sri Lankan stir-fried roti with chili and curry.
 quote: Any bean can be angry — that is easy. But to be angry with the right person, to the right degree, at the right time, for the right purpose — that is not easy.
 creature: frisian

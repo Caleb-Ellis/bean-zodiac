@@ -4,6 +4,7 @@ bean: black
 flavour: sour
 form: boiled
 trait: methodical
+inverse: haphazard
 dish: Sopa de frijoles negros - Cuban black bean soup with lime and epazote.
 quote: Genius is one percent inspiration and ninety-nine percent bean.
 creature: leafcutter ant

@@ -1,9 +1,11 @@
 ---
 slug: sweet-smoked-kidney
+lastUpdated: 2026-06-21
 bean: kidney
 flavour: sweet
 form: smoked
 trait: enamored
+inverse: repulsed
 dish: Red beans and rice - kidney beans slow-cooked with smoked andouille, sweet bell pepper, and thyme.
 quote: The heart has its bean that reason knows nothing of.
 creature: turtledove
@@ -12,37 +14,32 @@ antiBeans: [pinto, fava]
 friendlyForm: roasted
 antiForm: dried
 seasonalFortune: A season that hums at the back of the throat like thyme on a long simmer; old loyalties darken in the pot, and the love is in the cooking, not the saying.
-fortuneMost: Years in, you still catch yourself watching them cross a room.
-fortuneMost2: So much of your devotion has been happening where they couldn't see it.
+fortuneMost: Two doves on one branch, sidled close.
 fortuneHigh: Make the meal they love and never say why.
-fortuneHigh2: Their favourite mug sits in your cupboard, and the small gladness of seeing it there carries a whole morning.
-fortuneMid: Quietly count who you'd miss if they went silent.
-fortuneMid2: A song they love comes on; let it play through twice with no one watching.
-fortuneLow: Do the kind thing even after the warmth has wandered off somewhere.
-fortuneLow2: Sometimes love is just making the tea and sitting near with the talking left to them.
-fortuneLeast: Sit with the stretch where nothing feels held.
-fortuneLeast2: When you catch yourself reciting the words without the warmth behind them, don't punish yourself for it.
+fortuneMid: Count quietly who you'd miss if the house went silent.
+fortuneLow: Sometimes love is just making them tea.
+fortuneLeast: A cold pot, and no one coming home to it.
 facetMostTitle: Smoke in Every Corner
-facetMost: You pass the bakery on the long way back and the seeded loaf they love is still warm. You buy it though you've eaten, just to set it by their plate.
+facetMost: Rain's coming down hard and your partner's bus is late. You're already reaching for the umbrella to go wait at the stop.
 facetHighTitle: Pepper in the Pot, Steady
-facetHigh: A market stall has the chipped enamel bowls your partner grew up with. Two of them go quietly into the cupboard, unmentioned, for some morning to surprise them.
+facetHigh: A poster says your partner's favourite author reads tonight, two towns over. You're working out how to get them there before they've even heard.
 facetMidTitle: Andouille, Low and Steady
-facetMid: At the lost-property desk you'd describe their scarf down to the loose thread before your own coat. You hand the clerk theirs first.
+facetMid: Both you and your partner's phones are nearly dead and there's one charger between you. Theirs gets charged first, no question.
 facetLowTitle: Rice Cooled on the Counter
-facetLow: A stranger on the bus is quietly crying. The old pull to lean in and tend them has gone flat — you stay in your seat and leave the tending to someone else.
+facetLow: Your partner asks you along to a friend's birthday, someone you don't know too well. They would clearly appreciate the company, but a night to yourself pulls harder.
 facetLeastTitle: Thyme Kept Dry
-facetLeast: An old friend lands in town after years away. You realise you'd rather keep the evening you'd planned than rearrange a single thing for them.
-question: Walking home alone, you catch yourself grinning at nothing, replaying the way they said your name. You...
-answerMost: let the whole evening play over and float the long way home
-answerHigh: hold the glow and let yourself fall a little further
-answerMid: smile, savour it, and steer your thoughts back to the night
-answerLow: enjoy the flutter but tell yourself not to read too much in
-answerLeast: catch the grin and talk yourself firmly back to earth
-rorschachMost: two figures merged at the brow, arms wrapped around
-rorschachHigh: a bird wings spread, sheltering something beneath
-rorschachMid: a crab with its legs reaching out either side
-rorschachLow: a heron stood alone, wings folded at its sides
-rorschachLeast: a beetle pinned flat, legs splayed apart
+facetLeast: A friend keeps talking up someone they're sure you'll make a connection. They sound lovely, and still nothing in you leans toward meeting them.
+question: A song from a band you've never heard plays, and by the last note you love it. You...
+answerMost: play it ten more times and read everything about the band
+answerHigh: queue the rest of their songs and let the day go
+answerMid: save it to a playlist and come back later
+answerLow: enjoy the one and scroll on
+answerLeast: note it's catchy and forget it by the next song
+rorschachMost: a hen with two chicks tucked in close behind
+rorschachHigh: a kite aloft, tails streaming behind
+rorschachMid: a lumpy potato dug up with roots poking out
+rorschachLow: a jellyfish drifting away
+rorschachLeast: a strange solitary beetle
 ---
 
 Barbecued Kidney Beans are the Bean Zodiac's most enamored — and the love does most of its work below the surface. The favourite mug is in the cupboard before the visit; the song gets played through twice on a Sunday for no audience; years in, they still catch themselves watching the person they love cross a room. The tending is constant, mostly private, and feels, from the inside, like enough.

@@ -1,9 +1,11 @@
 ---
 slug: umami-boiled-black
+lastUpdated: 2026-06-16
 bean: black
 flavour: umami
 form: boiled
 trait: patient
+inverse: impatient
 dish: Kongjorim - black soybeans slow-braised in soy, ginger, and sesame.
 quote: Patience is bitter, but its bean is sweet.
 creature: grey crane
@@ -12,32 +14,27 @@ antiBeans: [chickpea, pinto]
 friendlyForm: dried
 antiForm: roasted
 seasonalFortune: Months of low fire darken what was hard and dull. The season belongs to those who can stand by a long braise without lifting the lid.
-fortuneMost: Cover the pot and leave it. What you're deciding will be clearer once the dark has done its slow work.
-fortuneMost2: A long wait of yours is nearly up. What comes out of it will be darker and sweeter than the thing you put in.
-fortuneHigh: When they want an answer now, "not yet" is a whole sentence.
-fortuneHigh2: Guests at the door and the braise still pale in the pot. The table will keep.
-fortuneMid: That thing you set down months ago is worth one quiet read. Change nothing; sleep on it; you'll know.
-fortuneMid2: An apology is still reducing down to what it actually means. Send it then, not now.
-fortuneLow: Eleven checks on the same number, and it hasn't earned your whole morning. Walk away.
-fortuneLow2: Pulled off the heat early, the flavour hasn't learned itself yet.
-fortuneLeast: Waiting can curdle into stalling without changing how it feels from the inside. Pick the smallest piece and let it go unfinished.
-fortuneLeast2: Not everything deepens in the dark. Some things just go cold while you stand over them.
+fortuneMost: Cover the pot and leave it. The dark does the rest.
+fortuneHigh: The crane doesn't lunge — it lets the water carry the fish to its feet.
+fortuneMid: The thoughts are still forming. Give it time.
+fortuneLow: Eleven checks on the same number, and it's no riper for any of them. Step off it.
+fortuneLeast: Not everything deepens in the dark. Some things just go cold while you stand over them.
 facetMostTitle: The Slow Braise
 facetMost: The seedling you planted hasn't broken soil and a neighbour says it never will. You water it the same and give it another fortnight.
 facetHighTitle: Sesame, Unglossed
-facetHigh: Not yet, and nothing tacked on to soften it — that's the whole answer you'd hand someone pressing for a yes while they hover in the doorway.
+facetHigh: A child holds up a hard green plum, expectantly, and asks if it's ready. You tell her plainly it needs longer.
 facetMidTitle: The Reducing Soy
-facetMid: Half a reply, typed in anger, blinks on the screen. Let it cool overnight before deciding whether any of it survives.
+facetMid: The jam still won't set, and it's late, and the clean jars are waiting. You give it another few minutes on the boil.
 facetLowTitle: Three Minutes, Then Taste
-facetLow: The kettle's barely ticking and you're already lifting the lid, pouring before the leaves have opened.
+facetLow: The water's only just gone in and you're already squeezing the teabag against the side of the mug.
 facetLeastTitle: The Kettle Reboiled
-facetLeast: A decision has gone cold under your watching, and still the pot gets another stir, and another, each one sure to be the one that finally makes it matter.
-question: The cider you pressed in autumn is bottled and clear, and a friend's already eyeing the crate — drink it young, or leave it down the cellar to come into its own. You...
-answerMost: lay the whole lot down for a year and not touch a bottle till it's ready
-answerHigh: set most aside to age and crack just one to check on it
-answerMid: keep half back, share half now
-answerLow: open a good few tonight and hope the rest holds
-answerLeast: hand the crate round before the evening's out
+facetLeast: The roast's been out of the oven for 30 seconds when you start carving it, excited to dig in.
+question: The whole season of the show you've waited months for just dropped, all ten episodes at once. You...
+answerMost: ration it to one a week and make the wait last
+answerHigh: watch one tonight and pace yourself after that
+answerMid: get through a couple, then turn in
+answerLow: stay up and watch most of it before bed
+answerLeast: burn through the entire season in one sitting
 rorschachMost: a toad settled wide and motionless on a stone
 rorschachHigh: an animal hide laid flat to cure
 rorschachMid: a low island spread across dark water

@@ -4,6 +4,7 @@ bean: mung
 flavour: sweet
 form: boiled
 trait: nurturing
+inverse: neglectful
 dish: Chè đậu xanh — whole mung beans simmered in coconut milk and palm sugar with a knot of pandan leaf.
 quote: It takes a village to raise a bean.
 creature: hen

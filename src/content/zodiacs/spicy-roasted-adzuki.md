@@ -4,6 +4,7 @@ bean: adzuki
 flavour: spicy
 form: roasted
 trait: enthusiastic
+inverse: halfhearted
 dish: Wǔxiāng hóngdòu - five-spice roasted adzuki beans with dried Sichuan chili.
 quote: I am a HOT and EXCITED bean and I will not be apologising for either.
 creature: labrador

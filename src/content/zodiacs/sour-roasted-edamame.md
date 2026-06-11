@@ -4,6 +4,7 @@ bean: edamame
 flavour: sour
 form: roasted
 trait: forthright
+inverse: cagey
 dish: Yaki edamame with yuzu kosho - oven-roasted edamame with yuzu pepper paste and flaky salt
 quote: All you need in this life is ignorance and beans, and then success is sure.
 creature: mastiff

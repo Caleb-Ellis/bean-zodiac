@@ -4,6 +4,7 @@ bean: kidney
 flavour: bitter
 form: roasted
 trait: proud
+inverse: self-effacing
 dish: Roasted kidney bean stew with charred bitter peppers and smoked paprika.
 quote: It is not the bean that stoops who loses dignity, but the one who forgets why they stood.
 creature: indian peafowl
@@ -12,24 +13,24 @@ antiBeans: [fava, cannellini]
 friendlyForm: fermented
 antiForm: smoked
 seasonalFortune: A roasted kidney holds its shape against the heat. The season favours those who have already done the work of becoming themselves, and asks only that they stand still inside it.
-fortuneMost: Leave the part that cost you most unsoftened.
-fortuneMost2: You'll walk into a gathering and the air will arrange itself around your posture without your asking.
+fortuneMost: You were always right.
+fortuneMost2: The peafowl puffs its chest and fans its brilliant plumage.
 fortuneHigh: Asked to justify your worth, name it once and stop.
 fortuneHigh2: A stranger meets you at exactly your size, neither shrunk to please nor swollen to claim.
-fortuneMid: There's room for two full heights at this table.
+fortuneMid: There's room for two at this table.
 fortuneMid2: Hold your shape against the heat.
-fortuneLow: Another hand on the pot, working it their way, finishes the thing faster and takes nothing off your height.
-fortuneLow2: A doorway's coming where the space you'd fill is space a quieter one needed.
+fortuneLow: Walls keep out just as they keep in.
+fortuneLow2: Peafowl are beautiful even without fanning their plumage.
 fortuneLeast: The straight back can come down.
 fortuneLeast2: When it comes up whose way it goes, ask what they had in mind, and mean the question.
 facetMostTitle: The Blister Kept
-facetMost: A wrong turn has you lost in a strange town with a meeting in ten minutes. Sooner than ask the man on the corner, you keep driving and trust yourself to find it.
+facetMost: A wrong turn has you lost in a strange town. You would sooner drive aimlessly for an hour than ask somebody for directions.
 facetHighTitle: Paprika Before the Lid Lifts
 facetHigh: When the form comes back with your name misspelled and your title wrong, you correct it once, plainly, and never let on that it stung.
 facetMidTitle: Bitter, Slow to Retreat
 facetMid: A famous face holds court and the circle leans in. You step closer too, but at your own height, meeting the eye like any other.
 facetLowTitle: Another Hand at the Pot
-facetLow: Let the table have the place you'd never have picked, and go find your own quiet good time inside their choice.
+facetLow: A game is splitting into teams one-by-one, and your name comes up near the end. You jog over to your side and play, no hard feelings.
 facetLeastTitle: Slumped at the Bottom
 facetLeast: Caught belting the wrong words to a song in a packed lift, you just grin at the strangers and finish the line anyway.
 question: The stairs leave you winded now and a younger hand reaches to take your arm. You...

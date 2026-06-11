@@ -4,6 +4,7 @@ bean: edamame
 flavour: sour
 form: dried
 trait: pointed
+inverse: rambling
 dish: Dried edamame with ponzu and toasted sesame.
 quote: The pen is mightier than the bean.
 creature: stingray

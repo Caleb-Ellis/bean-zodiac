@@ -4,6 +4,7 @@ bean: pinto
 flavour: spicy
 form: fried
 trait: chaotic
+inverse: orderly
 dish: Chimichangas - deep-fried burritos with spicy pinto beans and ancho chili.
 quote: In the middle of every bean lies opportunity.
 creature: tasmanian devil

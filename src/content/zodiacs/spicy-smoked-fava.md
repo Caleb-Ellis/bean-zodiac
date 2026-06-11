@@ -4,6 +4,7 @@ bean: fava
 flavour: spicy
 form: smoked
 trait: unbridled
+inverse: curbed
 dish: Besara - Egyptian smoked fava bean soup with caramelised onion and dried chili.
 quote: Born free, as bean as the wind blows.
 creature: wild stallion

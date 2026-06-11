@@ -4,6 +4,7 @@ bean: green
 flavour: bitter
 form: boiled
 trait: inquisitive
+inverse: incurious
 dish: Minestrone - green beans and puntarelle.
 quote: The important thing is not to stop questioning beans.
 creature: coati

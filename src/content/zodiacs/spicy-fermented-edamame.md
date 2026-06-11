@@ -4,6 +4,7 @@ bean: edamame
 flavour: spicy
 form: fermented
 trait: inventive
+inverse: unoriginal
 dish: Edamame with spicy fermented black bean sauce and sesame.
 quote: I'm a great bean believer in luck, and I find the harder I work, the more I have of it.
 creature: kea

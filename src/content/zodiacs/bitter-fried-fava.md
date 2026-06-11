@@ -4,6 +4,7 @@ bean: fava
 flavour: bitter
 form: fried
 trait: fearless
+inverse: fearful
 dish: Ta'amiya - fava bean falafel with bitter herb tahini and pickled turnip.
 quote: Do the thing you are afraid to do, and the bean of fear is certain.
 creature: badger

@@ -4,6 +4,7 @@ bean: navy
 flavour: bitter
 form: dried
 trait: rigid
+inverse: supple
 dish: Boston Baked Beans - with blackstrap molasses.
 quote: Rules are for the guidance of wise beans and the obedience of fools.
 creature: stick insect

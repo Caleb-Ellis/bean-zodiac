@@ -1,9 +1,11 @@
 ---
 slug: umami-dried-adzuki
+lastUpdated: 2026-06-15
 bean: adzuki
 flavour: umami
 form: dried
 trait: reverential
+inverse: disrespectful
 dish: Azuki no nimono - dried adzuki simmered in dashi and soy.
 quote: The bean is in the ritual, not the result.
 creature: sacred ibis
@@ -12,16 +14,11 @@ antiBeans: [fava, green]
 friendlyForm: boiled
 antiForm: fermented
 seasonalFortune: A season for the long simmer, when the dried bean drinks dashi and gives back salt. Households tend toward the small ceremony — a folded cloth, a bowl set down with both hands.
-fortuneMost: You warm the cups no one asked you to warm, and no one will see you do it.
-fortuneMost2: A long simmer is coming — something you'll tend slowly, with both hands.
-fortuneHigh: Leave the gift wrapped a while longer. The edges keep.
-fortuneHigh2: A pause sits well on you.
-fortuneMid: The day you keep meaning to mark won't wait forever to be raised properly. Walk toward it.
-fortuneMid2: Step outside before the others wake and let the quiet settle around you.
-fortuneLow: A friend on the doorstep didn't come for the good mugs. Answer barefoot.
-fortuneLow2: Send the wish plainly. It won't feel like enough to you, and it will be plenty to them.
-fortuneLeast: Hand them the beans straight from the bag and just begin.
-fortuneLeast2: A chipped mug holds as much warmth as any ceremony.
+fortuneMost: Salt enters the bean slowly, and never leaves.
+fortuneHigh: Set the bowl down with both hands, even when it's only soup.
+fortuneMid: First light finds the sill before it finds the room.
+fortuneLow: Send the wish unwrapped.
+fortuneLeast: A chipped mug holds the same heat as the good one.
 facetMostTitle: The Dashi Before the Guests
 facetMost: Add the salt last, the old recipe says, and stir one way only. No one is in the kitchen to see — and still you keep the order exactly.
 facetHighTitle: Kombu on the Counter
@@ -32,12 +29,12 @@ facetLowTitle: The Lid Replaced Quickly
 facetLow: The shrine is closing, but the keeper waves you in for one quick look. You take the look, snap a photo, and head out for noodles.
 facetLeastTitle: Beans Straight From the Bag
 facetLeast: Someone presses a family heirloom into your hands to admire. A glance, a nod, you set it down — so, what's for dinner?
-question: A friend swings by unannounced on the kind of evening you'd been keeping for yourself — candle already lit, kettle already on. You...
-answerMost: light a second candle and quietly shift the night into something for two
-answerHigh: warm a cup for them before opening the door
-answerMid: pour the tea you'd made and pull out a second cushion
-answerLow: wave them in and clear the magazines off the chair
-answerLeast: hand them a beer and keep scrolling on the couch
+question: Past the last marker the trail opens onto a tree a thousand years old, roped off, faded ribbons knotted into its bark. You're the only one on the path. You...
+answerMost: stop at the rope, lower your voice though no one's there, and stand a long while before stepping closer
+answerHigh: slow your step and keep to the worn path that circles it
+answerMid: walk up, rest a hand on the bark, and look up a while
+answerLow: read the little plaque, take the photo, carry on
+answerLeast: duck under the rope to get the shot from the good side
 rorschachMost: a small bowed head over a heavy stone altar
 rorschachHigh: a temple bell with the clapper hung beneath
 rorschachMid: a round boulder with a smaller stone set on top

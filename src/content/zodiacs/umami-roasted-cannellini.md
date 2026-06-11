@@ -4,6 +4,7 @@ bean: cannellini
 flavour: umami
 form: roasted
 trait: confiding
+inverse: secretive
 dish: Fagioli al forno - roasted cannellini with parmesan, sage, and garlic.
 quote: Come in, come in. The bean is always on and I have been meaning to tell you something.
 creature: dove

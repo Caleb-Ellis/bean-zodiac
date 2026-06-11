@@ -4,6 +4,7 @@ bean: kidney
 flavour: sour
 form: roasted
 trait: fair
+inverse: unjust
 dish: Rajma tikki - pan-seared kidney bean cakes with amchur and mint chutney
 quote: Injustice anywhere is a threat to bean everywhere.
 creature: ibis

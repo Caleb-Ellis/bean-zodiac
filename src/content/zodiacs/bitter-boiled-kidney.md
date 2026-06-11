@@ -4,6 +4,7 @@ bean: kidney
 flavour: bitter
 form: boiled
 trait: loyal
+inverse: disloyal
 dish: Caldo Verde - kidney beans and kale.
 quote: The bean that matters most is not the one you were born with, but the one you choose to keep.
 creature: shepherd

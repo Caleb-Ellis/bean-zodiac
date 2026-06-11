@@ -4,6 +4,7 @@ bean: adzuki
 flavour: bitter
 form: smoked
 trait: oracular
+inverse: fatuous
 dish: Smoked adzuki with bitter black garlic and charred citrus.
 quote: The unexamined bean is not worth living.
 creature: python

@@ -4,6 +4,7 @@ bean: green
 flavour: sweet
 form: roasted
 trait: capricious
+inverse: unwavering
 dish: Green beans roasted with pomegranate molasses and toasted almonds — charred at the tips, sticky and sweet from the oven.
 quote: Consistency is the last refuge of the unimaginative bean.
 creature: kitten

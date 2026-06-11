@@ -4,6 +4,7 @@ bean: kidney
 flavour: spicy
 form: roasted
 trait: emotive
+inverse: stolid
 dish: Tandoori rajma - kidney beans marinated in spiced yogurt and oven-roasted.
 quote: The bean is not a logical faculty; it is a faculty of what it wants.
 creature: gibbon

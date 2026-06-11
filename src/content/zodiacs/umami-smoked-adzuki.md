@@ -4,6 +4,7 @@ bean: adzuki
 flavour: umami
 form: smoked
 trait: hallowed
+inverse: profane
 dish: Smoked adzuki with dashi broth, ginger, and black sesame.
 quote: We hold these beans to be self-evident.
 creature: white stag

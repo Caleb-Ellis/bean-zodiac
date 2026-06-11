@@ -4,6 +4,7 @@ bean: black
 flavour: bitter
 form: fermented
 trait: brooding
+inverse: blithe
 dish: Black beans with bitter orange mojo and fermented crema.
 quote: Whatever our beans are made of, his and mine are the same.
 creature: nightjar

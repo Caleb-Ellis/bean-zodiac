@@ -4,6 +4,7 @@ bean: mung
 flavour: sweet
 form: roasted
 trait: easygoing
+inverse: uptight
 dish: Jaggery-roasted mung beans — whole mung beans tossed in melted jaggery and cardamom, roasted until crisp and fragrant.
 quote: Keep your bean up and your worries down, and everything will be just fine.
 creature: capybara

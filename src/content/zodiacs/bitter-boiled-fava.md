@@ -4,6 +4,7 @@ bean: fava
 flavour: bitter
 form: boiled
 trait: courageous
+inverse: cowardly
 dish: Macco di Fave - fava beans with wild chicory.
 quote: Courage is not the absence of beans, but the triumph over it.
 creature: griffin

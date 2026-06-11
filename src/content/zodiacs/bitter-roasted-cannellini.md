@@ -4,6 +4,7 @@ bean: cannellini
 flavour: bitter
 form: roasted
 trait: refined
+inverse: crude
 dish: Bruschetta - cannellini with bitter olive tapenade and roasted garlic.
 quote: A bean by any other name would taste as fine.
 creature: mute swan

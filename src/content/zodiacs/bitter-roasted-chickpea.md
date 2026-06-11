@@ -4,6 +4,7 @@ bean: chickpea
 flavour: bitter
 form: roasted
 trait: outgoing
+inverse: withdrawn
 dish: Chaat - roasted chickpeas with bitter lime and green chutney.
 quote: You catch more beans with honey.
 creature: golden retriever

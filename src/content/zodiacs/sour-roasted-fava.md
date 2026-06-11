@@ -4,6 +4,7 @@ bean: fava
 flavour: sour
 form: roasted
 trait: authentic
+inverse: phony
 dish: Ful nabed mashwi - roasted skinned fava beans with lemon, cumin, and fresh coriander
 quote: To be yourself in a world that is constantly trying to make you something else is the greatest bean.
 creature: wolf

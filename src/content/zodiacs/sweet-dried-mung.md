@@ -1,9 +1,11 @@
 ---
 slug: sweet-dried-mung
+lastUpdated: 2026-06-21
 bean: mung
 flavour: sweet
 form: dried
 trait: tender
+inverse: callous
 dish: Lǜdòu gāo — dried mung beans ground fine and pressed with sugar into flower-shaped cakes.
 quote: The most beautiful things in the world cannot be seen or touched — they must be seen with the bean.
 creature: spring fawn
@@ -13,36 +15,31 @@ friendlyForm: smoked
 antiForm: fried
 seasonalFortune: A season ground fine — what was whole is pressed into petalled shapes, sweetness carrying what the husk could not hold.
 fortuneMost: A petal cupped open in two palms.
-fortuneMost2: The gift you pick is shaped to the person, never the occasion — the small exact thing no one else remembered.
-fortuneHigh: A small bird held loose in an open hand.
-fortuneHigh2: You drift toward the half-finished sentence at the edge of the gathering without ever making a show of the moving.
-fortuneMid: Sit by the quiet one and ask the single question.
-fortuneMid2: Feel the small unspoken hurt and let it pull you over — one kind question, no show of it.
-fortuneLow: Tender isn't the same as flung open, and the propped door's been letting weather in with the welcome.
-fortuneLow2: A row of books squared straight is also care.
-fortuneLeast: Decline the favour first thing, while the no is still small.
-fortuneLeast2: A thorn snapped clean off the stem.
+fortuneHigh: A fawn stepping toward a hand it has no reason to trust.
+fortuneMid: Tilt the plant toward the light.
+fortuneLow: Tenderness isn't openness; a propped door lets weather in too.
+fortuneLeast: Decline the favour while it's small.
 facetMostTitle: Flour Finer Than Breath
-facetMost: A trembling stray slinks under the parked cars, flinching from every hand. You sit down on the cold kerb, go still, and let it decide in its own time to come close.
+facetMost: Your young niece loses their balloon to the wind and crumples, winding up to cry. You're immediately down at their height, voice gone soft, trying to soothe them.
 facetHighTitle: Sugar Through the Grain
-facetHigh: Half a beat behind everyone else, someone's laugh keeps coming a touch too late in the loud room. You catch the strain in it, slip over, and ask quietly how they really are.
-facetMidTitle: The Petal Pressed but Unsealed
-facetMid: A potted plant on a stranger's windowsill is wilting, sun-starved, leaves drooping. Passing under it, you find yourself wishing you could turn it toward the light.
+facetHigh: You'd hear it in anyone — the catch under a friend's voice when "I'm fine" is carrying far too much. You set down whatever you're holding and ask what's really going on.
+facetMidTitle: The Pressed Petal
+facetMid: Walking past your neighbour's place you notice their bin's still out and the rain's about to start. You decide to bring it in for them.
 facetLowTitle: The Bean That Refuses the Mortar
-facetLow: A practised sob story works the carriage, coins clinking into the cup ahead of you. You read the routine for what it is, keep your wallet shut, and look out the window.
+facetLow: A practised sob story works its way down the train carriage, coins clinking in a cup as it reaches you. You keep your wallet shut, and your eyes fixed on nothing at all.
 facetLeastTitle: Crystal That Stays Crystal
-facetLeast: A sad film has the whole theatre sniffling into their sleeves around you. The scene leaves you cold, and you sit there dry-eyed, faintly impatient for the credits.
-question: In the supermarket queue a frazzled parent, baby wailing, snaps at you over the trolley — sharper than it warranted, and not really about you. You...
-answerMost: ease back, catch their eye softly, and ask if it's been one of those days
-answerHigh: let it go, and quietly wonder what their morning's been like
-answerMid: say nothing, give them room, and carry it a moment
-answerLow: feel the sting of it all the way to the car
-answerLeast: snap back before you've decided to
-rorschachMost: a petal cupped open in two palms
-rorschachHigh: a small bird held loose in a hand
-rorschachMid: a flower pressed flat in paper
-rorschachLow: a row of books squared on a shelf
-rorschachLeast: a thorn snapped clean off the stem
+facetLeast: The whole theatre is sniffling into their sleeves at a death scene; you sit dry-eyed in the middle of it, wondering how long is left.
+question: In the supermarket queue a frazzled parent, baby wailing, snaps at you to move your trolley — much sharper than warranted, and not really about you. You...
+answerMost: catch their eye and tell them gently it's no trouble at all
+answerHigh: wave with a smile and leave them the room to breathe
+answerMid: say nothing and calmly edge your trolley out of the way
+answerLow: do not move until they ask nicely
+answerLeast: snap something back before you can stop yourself
+rorschachMost: a hen settled deep into her nest
+rorschachHigh: a shaggy sheepdog curled up
+rorschachMid: a ragged storm cloud
+rorschachLow: a weathered boulder crumbling at its edges
+rorschachLeast: a chestnut husk bristling all over
 ---
 
 Crystallised Mung Beans are the Bean Zodiac's most tender. When a friend's voice catches mid-sentence, they don't rush in with reassurance — they sit inside the quiet until the next word arrives. The card they choose is the one shaped to the person, not the occasion; the gift is the small specific thing nobody else remembered was mentioned.

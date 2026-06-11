@@ -4,6 +4,7 @@ bean: green
 flavour: sweet
 form: smoked
 trait: iridescent
+inverse: colorless
 dish: Southern green beans slow-cooked with smoked ham hock, brown sugar, and sweet onion.
 quote: A thing of bean is a joy forever.
 creature: scarab

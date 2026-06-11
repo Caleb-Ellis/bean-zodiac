@@ -4,6 +4,7 @@ bean: green
 flavour: sweet
 form: boiled
 trait: playful
+inverse: stern
 dish: Ingen no shiro-ae — green beans blanched and tossed in sweet sesame tofu cream with a pinch of sugar.
 quote: We don't stop playing because we grow old; we grow old because we stop bean playful.
 creature: river otter

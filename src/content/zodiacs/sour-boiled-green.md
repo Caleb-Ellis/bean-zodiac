@@ -4,6 +4,7 @@ bean: green
 flavour: sour
 form: boiled
 trait: restless
+inverse: placid
 dish: Taze fasulye - Turkish green beans slow-cooked with lemon, garlic, and tomato.
 quote: I am not a bean at ease.
 creature: timber wolf

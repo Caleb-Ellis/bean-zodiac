@@ -4,6 +4,7 @@ bean: mung
 flavour: sour
 form: dried
 trait: spare
+inverse: lavish
 dish: Ginisang munggo - mung bean soup with dried tangerine peel and ginger.
 quote: The most important thing in communication is to hear what isn't being beaned.
 creature: saluki

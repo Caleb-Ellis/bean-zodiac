@@ -4,6 +4,7 @@ bean: green
 flavour: spicy
 form: smoked
 trait: untethered
+inverse: moored
 dish: Judías verdes con jamón ahumado - Andalusian green beans with smoked ham and pimentón.
 quote: A great bean follows a little spark.
 creature: wandering albatross

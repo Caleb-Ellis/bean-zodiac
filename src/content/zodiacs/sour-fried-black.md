@@ -4,6 +4,7 @@ bean: black
 flavour: sour
 form: fried
 trait: direct
+inverse: circuitous
 dish: Black bean tostadas with lime crema - refried black beans on a crisp fried tortilla with sour cream and lime.
 quote: Say what you bean and bean what you say.
 creature: hawk

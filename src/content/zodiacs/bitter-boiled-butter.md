@@ -4,6 +4,7 @@ bean: butter
 flavour: bitter
 form: boiled
 trait: composed
+inverse: flustered
 dish: Ribollita - butter beans and cavolo nero.
 quote: Do I contradict myself? Very well then, I contain beans.
 creature: crane

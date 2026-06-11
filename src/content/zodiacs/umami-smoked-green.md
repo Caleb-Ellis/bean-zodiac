@@ -4,6 +4,7 @@ bean: green
 flavour: umami
 form: smoked
 trait: budding
+inverse: waning
 dish: Leather britches - Appalachian smoked green beans with smoked fatback.
 quote: One bean does not a summer make.
 creature: fawn

@@ -4,6 +4,7 @@ bean: cannellini
 flavour: sour
 form: roasted
 trait: tactful
+inverse: tactless
 dish: Cannellini al forno con gremolata - oven-roasted cannellini with lemon, parsley, and garlic
 quote: Diplomacy is the art of telling someone their bean is wrong in a way that makes them want to fix it.
 creature: collared dove

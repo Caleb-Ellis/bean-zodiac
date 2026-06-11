@@ -4,6 +4,7 @@ bean: edamame
 flavour: sour
 form: boiled
 trait: logical
+inverse: illogical
 dish: Edamame miso soup with rice vinegar and wakame.
 quote: Logic will get you from A to bean, but imagination will take you everywhere.
 creature: rook

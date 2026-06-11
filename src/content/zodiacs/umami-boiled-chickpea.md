@@ -1,47 +1,44 @@
 ---
 slug: umami-boiled-chickpea
+lastUpdated: 2026-06-20
 bean: chickpea
 flavour: umami
 form: boiled
 trait: adaptable
+inverse: intransigent
 dish: Garbanzos con setas - chickpeas and wild mushrooms in sherry-braised broth.
-quote: The measure of intelligence is the bean ability to change.
+quote: The measure of intelligence is the ability to change beans.
 creature: octopus
 friendlyBeans: [fava, mung]
 antiBeans: [edamame, cannellini]
 friendlyForm: smoked
 antiForm: fried
 seasonalFortune: Sherry darkens a pot left long on the stove. The season layers itself onto whoever stays in it; nothing forced, only steeped.
-fortuneMost: Say yes to the invitation you can't picture yet.
-fortuneMost2: A strange place is coming, somewhere you can't read the signs.
-fortuneHigh: Borrow the sharp one's word and use it without irony.
-fortuneHigh2: When the place has its own vocabulary, wear it for the hour.
-fortuneMid: Plan changes mid-stride; take the new way and skip narrating the switch.
-fortuneMid2: Rerouted without a sigh, already onto the next errand.
-fortuneLow: Two people want incompatible versions of you.
-fortuneLow2: Answer the same in every room and people learn where to find you.
-fortuneLeast: Speak in your own voice, no warmup, no reading the room first.
-fortuneLeast2: Leaving at the hour you meant to, while the music softens and asks you to stay.
+fortuneMost: A strange place is coming, somewhere you can't read the signs.
+fortuneHigh: Listen to the rhythm and dance to it.
+fortuneMid: An octopus fits through any gap its beak will pass.
+fortuneLow: Two people want different versions of you; one version isn't you at all.
+fortuneLeast: Hold steady against the current.
 facetMostTitle: What the Broth Carries
-facetMost: Dropped into a card game with rules you've never met and a deck you don't recognise. By the third hand you're betting like you grew up at this table.
-facetHighTitle: The Chickpea's Braised Colour
+facetMost: You are dropped into a game with rules that were half-explained and a deck you don't recognise. By the third hand you're feeling good enough to put money on it.
+facetHighTitle: The Bean's Braised Colour
 facetHigh: A whole crowd is chanting something you've never heard. Your mouth's already shaping the words, picking them up a half-beat behind everyone else.
 facetMidTitle: Mushrooms in Warm Sherry
-facetMid: The ferry you wanted is cancelled, a slower one boards in ten, and already half your mind is laid out comfortably across the longer crossing — no sigh in it anywhere.
+facetMid: Ten minutes till a slower ferry, the one you wanted having just been cancelled. Your mind's already stretched out comfortably across the longer crossing.
 facetLowTitle: The Bean Held Whole
-facetLow: Different people, different rooms, all wanting a slightly different you. Pick the version that's actually yours and hold it, even where a softer shape would land easier.
+facetLow: Someone suggests a quicker way to do a chore you don't mind doing. It makes good sense. You keep to your own way regardless.
 facetLeastTitle: The Pot That Refuses
-facetLeast: The whole group is veering toward a plan you don't want, and your foot already feels the pull to follow. You plant it instead and say the opposite out loud.
-question: First morning on a crew in a trade you've never worked, everyone moving by rules nobody explains. You...
-answerMost: fall in beside the nearest worker and move like you've done it for years by lunch
-answerHigh: watch the rhythm of the floor and slot yourself into it without being told
-answerMid: copy what one person does and ask only when you're stuck
-answerLow: wait to be shown each step before you touch anything
-answerLeast: do the job the way you already know and let them correct you
-rorschachMost: a splash of water frozen mid-spread
-rorschachHigh: a blob of dough slumping over its bowl
-rorschachMid: a loose cloud bunched against the sky
-rorschachLow: a knotted root gripping its lump of soil
+facetLeast: Six months somewhere new, and your old rhythms haven't changed — your hours, your habits, the small ways you do things. The place stays a bit foreign around you, and you stay wholly yourself in it.
+question: You'd planned a quiet date night in a town you've never seen, and walked straight into its festival — big crowds, every street roped off, a brass band a block away. You...
+answerMost: follow the brass band and let the night rewrite itself
+answerHigh: thread a new route through the crowd and call the detour an improvement
+answerMid: drift along the edge of it, half in the festival and half out
+answerLow: follow a route around the festival to your original destination
+answerLeast: charge through it — you're eager for the "quiet" part of the night
+rorschachMost: an octopus folded flat against coral
+rorschachHigh: a sea anemone, fronds combed open by the current
+rorschachMid: a ragged oak leaf curling along its edges
+rorschachLow: a knob of ginger gone hard and dry
 rorschachLeast: a fist of clay set hard and cracked
 ---
 

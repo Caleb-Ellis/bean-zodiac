@@ -4,6 +4,7 @@ bean: navy
 flavour: spicy
 form: dried
 trait: unflinching
+inverse: squeamish
 dish: Boston baked beans - navy beans slow-baked with cayenne and dry mustard.
 quote: In matters of principle, stand like a bean.
 creature: grey wolf

@@ -4,6 +4,7 @@ bean: pinto
 flavour: spicy
 form: fermented
 trait: mercurial
+inverse: phlegmatic
 dish: Pinto with chipotle en adobo - braised pinto beans in fermented chipotle and pickled jalapeño.
 quote: Nothing endures but bean.
 creature: anole

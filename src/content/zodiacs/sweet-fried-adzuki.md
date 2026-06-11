@@ -4,6 +4,7 @@ bean: adzuki
 flavour: sweet
 form: fried
 trait: exuberant
+inverse: dispirited
 dish: Jin deui — fried glutinous rice sesame balls with sweet adzuki paste inside, golden and crisp and rolling.
 quote: It's beanin' time!
 creature: springbok

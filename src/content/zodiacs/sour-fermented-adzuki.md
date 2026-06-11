@@ -4,6 +4,7 @@ bean: adzuki
 flavour: sour
 form: fermented
 trait: self-aware
+inverse: oblivious
 dish: Adzuki and natto rice bowl with ponzu and spring onion.
 quote: Know thyself? If I knew myself, I'd bean away.
 creature: macaque

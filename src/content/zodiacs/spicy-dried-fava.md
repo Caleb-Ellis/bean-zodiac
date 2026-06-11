@@ -4,6 +4,7 @@ bean: fava
 flavour: spicy
 form: dried
 trait: audacious
+inverse: diffident
 dish: Bessara - Moroccan dried fava bean dip with cumin and chili oil.
 quote: Fortune favors the bean.
 creature: honey badger

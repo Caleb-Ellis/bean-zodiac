@@ -4,6 +4,7 @@ bean: fava
 flavour: umami
 form: roasted
 trait: defiant
+inverse: obsequious
 dish: Fave al forno - roasted fava beans with guanciale, pecorino, and wild fennel.
 quote: They tried to bury us. They didn't know we were beans.
 creature: mustang

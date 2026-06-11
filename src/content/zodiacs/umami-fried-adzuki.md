@@ -4,6 +4,7 @@ bean: adzuki
 flavour: umami
 form: fried
 trait: passionate
+inverse: dispassionate
 dish: Adzuki chahan - Japanese fried rice with adzuki beans, soy sauce, and scallion.
 quote: Anything that gets your bean racing is worth doing!
 creature: andalusian

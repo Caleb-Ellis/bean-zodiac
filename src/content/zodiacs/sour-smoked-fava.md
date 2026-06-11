@@ -1,9 +1,11 @@
 ---
 slug: sour-smoked-fava
+lastUpdated: 2026-06-13
 bean: fava
 flavour: sour
 form: smoked
 trait: biting
+inverse: balmy
 dish: Bessara - Moroccan smoked fava bean purée with harissa, cumin, and preserved lemon
 quote: If you can't stand the bean, get out of the kitchen.
 creature: piranha
@@ -12,18 +14,13 @@ antiBeans: [adzuki, cannellini]
 friendlyForm: fried
 antiForm: boiled
 seasonalFortune: Smoke clings to the mortar long after the pestle stills. Preserved lemon darkens; cumin cracks; harissa waits in the corner of the bowl for whoever stirs first.
-fortuneMost: The thing everyone's circling has a name, and naming it is the whole point.
-fortuneMost2: Ask them, evenly, what they meant by that. Harissa doesn't shout to be felt.
-fortuneHigh: Once is enough. The second pass is how an edge turns into a grudge, and the grudge is yours, not theirs.
-fortuneHigh2: A clean, short answer is yours to give. Whoever wanted softening can find the cushion elsewhere; you were never the place for it.
-fortuneMid: A hard sentence keeps better overnight. The slower version holds the teeth and loses the spit.
-fortuneMid2: Ask the question the others rehearsed and abandoned, then go quiet.
-fortuneLow: The next sharp catch will be right and useless both.
-fortuneLow2: Someone across from you is already carrying a bruise.
+fortuneMost: You don't need to shout to be felt.
+fortuneHigh: Once is enough.
+fortuneMid: Ask the question then go quiet.
+fortuneLow: The next sharp comment will be right and useless both.
 fortuneLeast: They've been handing you the edited version, having learned what the ugly one costs.
-fortuneLeast2: Let the unkind remark go by, and watch your luck hold for the letting.
 facetMostTitle: Harissa at the Rim
-facetMost: A speaker on stage has just said something plainly false and the applause is starting anyway. Your hand is up before the clapping settles, and the question you're about to ask has teeth.
+facetMost: A speaker on stage has just told an outright lie. Your hand is up before the clapping settles, and the question you're about to ask has teeth.
 facetHighTitle: Cumin Under the Pestle
 facetHigh: A coworker wants you to dress up bad news for their boss. You hand back the bare version — true, short, no padding — and let them carry it as it is.
 facetMidTitle: Preserved Lemon in a Quiet Bowl
@@ -38,9 +35,9 @@ answerHigh: step in front of them and ask, flat and quiet, what's in their fist
 answerMid: hold their eye until they feel it and put it back
 answerLow: catch the busker's attention and let them deal with it
 answerLeast: decide it's not your money and keep walking
-rorschachMost: two jaws gaping wide, teeth set to clamp
+rorschachMost: a shredded thing chewed at both ends
 rorschachHigh: two crabs squared off, claws raised
-rorschachMid: two beetles meeting head to head
+rorschachMid: a moth pinned open, wings spread flat
 rorschachLow: two cats dozing back to back
 rorschachLeast: two clouds drifting gently apart
 ---

@@ -4,6 +4,7 @@ bean: cannellini
 flavour: sweet
 form: smoked
 trait: delicate
+inverse: rugged
 dish: Fagioli al fiasco - cannellini baked in a flask with smoked guanciale, sweet Vin Santo, and sage.
 quote: The most beautiful things in the world cannot be seen or bean — they must be felt with the heart.
 creature: dragonfly

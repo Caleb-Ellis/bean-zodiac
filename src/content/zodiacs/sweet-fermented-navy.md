@@ -4,6 +4,7 @@ bean: navy
 flavour: sweet
 form: fermented
 trait: introverted
+inverse: extroverted
 dish: Navy bean and cultured butter pudding — beans baked slowly in a custard of fermented cream, sugar, and vanilla.
 quote: I am a bean of solitude; the fire of thought does not require witnesses.
 creature: hedgehog

@@ -4,6 +4,7 @@ bean: butter
 flavour: sour
 form: boiled
 trait: honest
+inverse: dishonest
 dish: Avgolemono - butter bean soup with dill and lemon.
 quote: The bean will set you free, but first it will make you uncomfortable.
 creature: saint bernard

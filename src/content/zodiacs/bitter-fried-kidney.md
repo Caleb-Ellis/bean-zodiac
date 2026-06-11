@@ -4,6 +4,7 @@ bean: kidney
 flavour: bitter
 form: fried
 trait: confrontational
+inverse: conciliatory
 dish: Akara - kidney bean fritters with bitter pepper sauce.
 quote: The bean who speaks the difficult truth is a friend; the one who flatters is an enemy.
 creature: goat

@@ -4,6 +4,7 @@ bean: mung
 flavour: sour
 form: fermented
 trait: insecure
+inverse: self-assured
 dish: Mung bean dal with yogurt tadka and lime.
 quote: To bean oneself is the beginning of a lifelong romance.
 creature: chick

@@ -4,6 +4,7 @@ bean: mung
 flavour: umami
 form: fermented
 trait: poetic
+inverse: pedestrian
 dish: Doenjang juk - savory mung bean porridge with fermented soybean paste and sesame oil.
 quote: A bean should be more careful of his learning than of the pebble in his shoe.
 creature: nightingale

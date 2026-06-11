@@ -4,6 +4,7 @@ bean: fava
 flavour: sour
 form: fried
 trait: reckless
+inverse: chary
 dish: Ta'amiya with pomegranate molasses - Egyptian fava bean falafel with a sweet-sour pomegranate dressing.
 quote: Who beans nothing, loses nothing — but wins nothing either.
 creature: march hare

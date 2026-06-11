@@ -4,6 +4,7 @@ bean: adzuki
 flavour: sweet
 form: dried
 trait: devoted
+inverse: faithless
 dish: Yokan — dried adzuki beans pressed into sweet paste and set with agar into a firm, lasting block.
 quote: Love is patient, love is bean.
 creature: swan

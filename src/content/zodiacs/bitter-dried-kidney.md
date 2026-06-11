@@ -4,6 +4,7 @@ bean: kidney
 flavour: bitter
 form: dried
 trait: hardened
+inverse: softened
 dish: Louisiana Red Beans and Rice - with mustard greens.
 quote: What lies behind us and what lies before us are tiny matters compared to what lies between beans.
 creature: crocodile

@@ -4,6 +4,7 @@ bean: edamame
 flavour: sweet
 form: fried
 trait: motivated
+inverse: demotivated
 dish: Honey butter fried edamame — soybeans deep-fried until blistered, tossed hot in honey butter and flaked salt.
 quote: The secret of getting ahead is getting beaned.
 creature: racehorse

@@ -4,6 +4,7 @@ bean: kidney
 flavour: sour
 form: boiled
 trait: trustworthy
+inverse: untrustworthy
 dish: German kidney bean and sauerkraut soup with caraway.
 quote: The secret of getting ahead is getting bean.
 creature: guide dog

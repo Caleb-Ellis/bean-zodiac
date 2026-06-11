@@ -4,6 +4,7 @@ bean: cannellini
 flavour: sour
 form: fried
 trait: meticulous
+inverse: sloppy
 dish: Fagioli al limone con capperi - Italian cannellini beans pan-fried with capers, garlic, and lemon zest.
 quote: For every bean, there is a season, and a proper form.
 creature: satin bowerbird
@@ -12,22 +13,22 @@ antiBeans: [pinto, black]
 friendlyForm: boiled
 antiForm: smoked
 seasonalFortune: Lemon zest keeps in a clean jar; capers hold in their brine. A cannellini life runs on small inventories — each thing named, weighed, set in its row.
-fortuneMost: The seam no one thinks to check is the one that splits when nobody's looking — and you'll get there first.
-fortuneMost2: One more pass and you'll find the small wrong thing the first look slid past.
-fortuneHigh: A thing sitting a degree off catches your eye as you pass, and you set it true without breaking stride.
+fortuneMost: The one loose twig in a straight bower is the one your eye finds first.
+fortuneMost2: One more pass turns up what the first look missed.
+fortuneHigh: A jar a degree off the row, set true as you pass.
 fortuneHigh2: Wipe the rim before you hand it over.
-fortuneMid: One row of capers is yours to keep in order; the next is not.
-fortuneMid2: Some seams aren't yours to mend.
+fortuneMid: Fix only the front row; the back can barely be seen.
+fortuneMid2: Not every seam is yours to mend.
 fortuneLow: Hand it over with the thumbprints still on it.
-fortuneLow2: Move before the plan is fully drawn.
-fortuneLeast: A meal arrives loud and mismatched, nothing squared, still warm, and nobody's counting the crooked edges.
-fortuneLeast2: Host on momentum, plates landing as they're ready.
+fortuneLow2: Let it leave before the plan is drawn.
+fortuneLeast: The jar tips out brine and all, capers everywhere — and it's fine.
+fortuneLeast2: Plates as they're ready; let the table run ragged.
 facetMostTitle: The Unbroken Ribbon
 facetMost: Six buttons re-stitched to match because one on the borrowed coat hung loose — and you couldn't hand it back with the others uneven.
 facetHighTitle: Oil Wiped From the Rim
 facetHigh: A gallery has hung one frame slightly low in the row. It tugs at you the whole visit and you mention it to the desk on the way out.
 facetMidTitle: Garlic Sliced Thin
-facetMid: Lending out a recipe, you can't help noting the exact pan, the resting time, the order things go in — nothing left to chance for whoever cooks it.
+facetMid: Following a recipe, you can't help but use the exact-sized pan, the specific timings, the measurements down to the gram — nothing left to chance.
 facetLowTitle: Beans From the Tin
 facetLow: A friend asks for the photos from the trip. You send the whole unsorted roll, blurry ones and all, without a single edit.
 facetLeastTitle: Everything at Once

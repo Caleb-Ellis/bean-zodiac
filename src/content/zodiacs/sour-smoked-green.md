@@ -4,6 +4,7 @@ bean: green
 flavour: sour
 form: smoked
 trait: pungent
+inverse: bland
 dish: Leather britches - Appalachian smoke-dried green beans simmered with ham hock and cider vinegar
 quote: A bean by any other name would smell as sweet.
 creature: polecat

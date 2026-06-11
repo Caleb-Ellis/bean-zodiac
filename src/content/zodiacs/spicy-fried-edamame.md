@@ -4,6 +4,7 @@ bean: edamame
 flavour: spicy
 form: fried
 trait: bold
+inverse: timorous
 dish: Spicy edamame gyoza - pan-fried dumplings with doubanjiang dipping sauce.
 quote: Fortune favours the bean.
 creature: lion

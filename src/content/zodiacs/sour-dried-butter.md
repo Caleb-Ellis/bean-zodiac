@@ -4,6 +4,7 @@ bean: butter
 flavour: sour
 form: dried
 trait: chastened
+inverse: brazen
 dish: Butter bean and sun-dried tomato salad with sherry vinegar.
 quote: Experience is simply the name we give our bean.
 creature: basset

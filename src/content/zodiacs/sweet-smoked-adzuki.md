@@ -1,9 +1,11 @@
 ---
 slug: sweet-smoked-adzuki
+lastUpdated: 2026-06-30
 bean: adzuki
 flavour: sweet
 form: smoked
 trait: luminous
+inverse: dour
 dish: Zenzai - sweet adzuki bean soup with smoked brown sugar syrup and toasted mochi.
 quote: We are all in the bean, but some of us are looking at the stars.
 creature: anglerfish
@@ -12,37 +14,32 @@ antiBeans: [edamame, kidney]
 friendlyForm: roasted
 antiForm: fried
 seasonalFortune: A life lived in the smoke-sweetness of late evening — brown sugar darkening over coals, mochi blistering, the room leaning toward whoever last spoke.
-fortuneMost: Strangers will warm their hands at you and go home glowing without knowing why.
-fortuneMost2: You arrive late and the evening rearranges itself around you mid-sentence, coats still on.
-fortuneHigh: A wary one will tell you the thing they've told no one, then leave lighter than they came.
-fortuneHigh2: Some grey, ordinary afternoon catches fire the moment you walk into it.
-fortuneMid: Sign the small thing you made by hand and give it away.
-fortuneMid2: Pour the kind word while it still steams.
-fortuneLow: Read by one lamp with the door pulled half-to, the bright front room left dark.
-fortuneLow2: Cook for one person and don't name who it's for.
-fortuneLeast: A banked fire holds its heat long after the flames are gone.
-fortuneLeast2: Let the message go unanswered and the screen go dark.
+fortuneMost: A cold room catches fire the moment you cross it.
+fortuneHigh: The wary will tell you their secret.
+fortuneMid: One candle warms the hands closest to it.
+fortuneLow: The bright front room has been left dark.
+fortuneLeast: A fire has been extinguished.
 facetMostTitle: Syrup at the Lowest Point
-facetMost: The waiting room is all coughs and averted eyes. Three minutes in, you've got the woman beside you laughing about her cat.
+facetMost: The lift jams between floors, there's three strangers and it looks to be a long wait. You toss out a joke and try to get everyone talking.
 facetHighTitle: Mochi Before It Browns
-facetHigh: A new hire eats alone at the far end of the canteen, and you carry your tray over to sit across from them.
+facetHigh: At the wedding, a guest sits apart by the coat rack, drink empty, watching the noise from outside it. You leave a lively table and go pull up a chair beside them.
 facetMidTitle: Brown Sugar Smouldering
-facetMid: A neighbour mentions they've never tasted anything like the syrup you simmer. Next morning you leave a warm jar on their step.
+facetMid: The café's near empty and the barista looks worn down behind the counter. You stay a moment to ask how their shift's going before you take your cup.
 facetLowTitle: The Cold Pot
-facetLow: The party spills onto the balcony and everyone's shouting to be heard. You drift to the dark end of the garden where it's just crickets.
+facetLow: Christmas with the family is getting late and a bit loose, and your name keeps getting called from across the room. You slip off to the kitchen and start washing up where it's quiet.
 facetLeastTitle: Coals After the Cooking
-facetLeast: A friend asks how you really are. You give the short answer and keep the rest banked where the cold can't reach it.
-question: A power cut on the third night of the visit. The room goes dark and someone fetches the candles. You...
-answerMost: pull the chairs into a circle without saying so and start the story you've been holding all week
-answerHigh: light the candles slowly enough that the room arranges itself around the small ritual
-answerMid: ask whoever's nearest what the worst blackout they remember was
-answerLow: find your phone, set it torch-up on the table, and wait it out
-answerLeast: say "well, that's that" and start scrolling in the dark
-rorschachMost: a beacon on a hill, sparks scattered below
-rorschachHigh: an owl on a post, eyes catching the light
-rorschachMid: a broad-shouldered figure seated on a mound
-rorschachLow: a hooded watcher hunched over a cold hearth
-rorschachLeast: a draped statue, dead leaves heaped at its base
+facetLeast: A lantern is pushed into your hands to lead the festival's night procession through the streets. You pass it straight to the person beside you and move to the back instead.
+question: Sun's still high at the festival when the band kicks in, but the patch in front of the stage is empty. Looks like no one wants to dance first. You...
+answerMost: grab the nearest hand and start the dancing yourself, waving the rest in
+answerHigh: start swaying to the beat, gathering friends nearby
+answerMid: wait for one other person to break first, then join in right behind
+answerLow: hang at the railing with a drink and cheer the dancers on
+answerLeast: drift off to the food tables where no one's watching
+rorschachMost: a chandelier with crystals
+rorschachHigh: a lit paper lantern
+rorschachMid: a broad-leafed tree
+rorschachLow: a bull's skull
+rorschachLeast: a bat hanging folded
 ---
 
 Barbecued Adzuki Beans are the Bean Zodiac's most luminous — the kind of warmth a room registers before anyone has named it. They arrive at the dinner without a story to tell and somehow tell three; strangers leave with the impression of having been seen, and can't quite remember what they said.

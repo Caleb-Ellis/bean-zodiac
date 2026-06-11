@@ -4,6 +4,7 @@ bean: mung
 flavour: sour
 form: smoked
 trait: wispy
+inverse: robust
 dish: Smoked moong dal with kokum and fresh coconut - Goan dal with kokum fruit and smoked mustard
 quote: My candle burns at both ends; it will not last the bean.
 creature: feather moth

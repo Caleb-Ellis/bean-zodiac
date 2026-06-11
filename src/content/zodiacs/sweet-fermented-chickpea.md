@@ -4,6 +4,7 @@ bean: chickpea
 flavour: sweet
 form: fermented
 trait: empathetic
+inverse: unfeeling
 dish: Fermented chickpea flour cake — gram flour batter left to ferment overnight, baked with raw honey and orange zest into a dense, fragrant loaf.
 quote: Could a greater bean miracle take place than for us to look through each other's eyes for an instant?
 creature: beluga

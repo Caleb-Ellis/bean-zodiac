@@ -4,6 +4,7 @@ bean: fava
 flavour: sour
 form: fermented
 trait: contrarian
+inverse: conformist
 dish: Fatteh - Palestinian fava and yogurt with toasted bread, lemon, and pine nuts.
 quote: Whenever you find yourself on the side of the majority, it is time to bean and reflect.
 creature: crab

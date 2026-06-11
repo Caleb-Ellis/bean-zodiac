@@ -4,6 +4,7 @@ bean: edamame
 flavour: sour
 form: fried
 trait: blunt
+inverse: mealy-mouthed
 dish: Edamame gyoza with black vinegar dipping sauce - pan-fried edamame dumplings with Zhenjiang vinegar.
 quote: A bean that is used to lying will find that the truth is a very uncomfortable thing.
 creature: ox

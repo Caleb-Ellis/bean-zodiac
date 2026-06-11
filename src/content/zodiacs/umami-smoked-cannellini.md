@@ -1,50 +1,47 @@
 ---
 slug: umami-smoked-cannellini
+lastUpdated: 2026-06-20
 bean: cannellini
 flavour: umami
 form: smoked
-trait: exalted
+trait: regal
+inverse: plebeian
 dish: Fagioli all'uccelletto - Tuscan cannellini with smoked pancetta, sage, and tomato.
 quote: The bean shall inherit the earth.
-creature: seraph
+creature: basilisk
 friendlyBeans: [fava, pinto]
 antiBeans: [adzuki, chickpea]
 friendlyForm: fermented
 antiForm: roasted
 seasonalFortune: A season of long-cured things. The pale bean holds its shape under slow heat, and what is refined in this quarter keeps best when handled rarely.
-fortuneMost: When you finally say yes, the table sits straighter.
-fortuneMost2: A pale bean holds its shape under slow heat.
-fortuneHigh: One thing turned an inch before the door opens — a chair, a vase, the framed print — and the whole evening tilts toward grace.
-fortuneHigh2: An honour you didn't chase is being readied for you.
-fortuneMid: You owe no explanation for every no, but you owe full presence to the one yes.
-fortuneMid2: Refinement isn't reach.
-fortuneLow: The plate and the candle were a deal struck with someone who isn't even watching.
-fortuneLow2: Somewhere a stranger's question is waiting.
-fortuneLeast: Answer the door barefoot, holding the wrong glass.
-fortuneLeast2: Wear the shirt with the stain, leave the bed unmade.
+fortuneMost: The evening has been waiting for you.
+fortuneHigh: The day tilts toward grace.
+fortuneMid: Spend your full presence on the one yes.
+fortuneLow: The candle was lit for a guest who won't arrive.
+fortuneLeast: Wear the shirt with the stain, leave the bed unmade.
 facetMostTitle: Pancetta, Hung High
-facetMost: One quiet drawing, seen properly, over the whole crowded wing skimmed — that's how you'd spend the afternoon at the gallery.
+facetMost: It's a crowded reception, everyone circling and working the room. You stake out a spot by the tall windows and let them come to you.
 facetHighTitle: Sage Before the Pan
-facetHigh: Someone raises a camera. You straighten your collar and step into the better light before they count to three.
+facetHigh: At a family gathering you're being directed to the kids' table with the plastic chairs. You stay standing.
 facetMidTitle: The Bean That Keeps Its Skin
-facetMid: Cover the glass at the second pour. One good measure beats a third that blurs it.
+facetMid: Walking up to collect the award, you misjudge the step and stumble in front of the seated hall. You straighten, unhurried, and carry on to the stage.
 facetLowTitle: Tomato Breaking Open
-facetLow: A neighbour you hardly know waves you up for instant coffee in chipped mugs, and you go, and you stay the hour.
+facetLow: At a gallery opening, you in your good coat, a guest takes you for staff and hands you her empty glass. You take it to the bar without correcting her.
 facetLeastTitle: Fat Slack in the Broth
-facetLeast: At the red light, window down, caught singing badly — you meet the next driver's eye and don't stop.
-question: A friend invites you over last-minute for a "kitchen floor and takeout" night. You...
-answerMost: suggest brunch on Sunday at the place you've booked instead
-answerHigh: come by for one drink, in the good coat, and leave by ten
-answerMid: bring a bottle and stay until the food's cold
-answerLow: arrive in sweatpants with extra dumplings
-answerLeast: show up early, get the playlist going, sleep on the couch
-rorschachMost: a tall chalice raised on its stem
-rorschachHigh: a statue standing high on a narrow plinth
-rorschachMid: an oak with a split upper crown
-rorschachLow: a melting candle sagging at the waist
-rorschachLeast: a sack slumping over its own middle
+facetLeast: At the school fundraiser there's a dunk tank with a line of kids waiting for a target. You roll up your sleeves and climb onto the drop seat.
+question: The neighbourhood's midsummer feast is laid out under the trees, and the organisers ask whether you'll give the toast or pitch in with setting up. You...
+answerMost: claim the head of the table and open the feast yourself
+answerHigh: give the toast, then take the seat they've saved up front
+answerMid: say a quick few words and sit wherever's free
+answerLow: wave off the toast and haul tables instead
+answerLeast: tie on an apron and work the grill all afternoon
+rorschachMost: a crowned figure, robes pooling at the feet
+rorschachHigh: a tall statue on a weathered stone plinth
+rorschachMid: an old tree trunk fraying into roots
+rorschachLow: a candle burned low, wax dripping down
+rorschachLeast: a half-empty sack spilling out its bottom
 ---
 
-Hickory Cannellini Beans are the Bean Zodiac's most exalted — they leave a half-hour gap before answering the invite, not from indifference but because the yes, if it comes, should mean something. The apartment is two-thirds empty by design; the wardrobe holds six things worn often. When they do show up to dinner, the table sits straighter.
+Hickory Cannellini Beans are the Bean Zodiac's most regal — and they make a room adjust to them without raising their voice. They leave a half-hour gap before answering the invite, not from indifference but because a yes, once given, should carry weight. The apartment is two-thirds empty by design; the wardrobe holds six things, all worn often. When they finally arrive at dinner, the table sits straighter.
 
-The cost is a small unreachability. Friends start sending the good news first to someone they don't have to dress for.
+What looks like bearing can harden into a kind of throne nobody else is allowed to sit on — every plan run past them for approval, every easy thing made into an audience. So friends start sending the good news first to someone they don't have to dress for.

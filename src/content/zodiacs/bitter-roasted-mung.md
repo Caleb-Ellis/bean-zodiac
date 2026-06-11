@@ -4,6 +4,7 @@ bean: mung
 flavour: bitter
 form: roasted
 trait: humble
+inverse: boastful
 dish: Khichdi - roasted mung beans with bitter fenugreek.
 quote: Blessed are the bean in spirit, for theirs is the kingdom of heaven.
 creature: wren
@@ -38,11 +39,11 @@ answerHigh: thank them and name the people who carried the heavy end
 answerMid: accept it warmly and call it everyone's doing
 answerLow: take the thanks and mention what you'd organise better next time
 answerLeast: tell them how you pulled the whole thing together, step by step
-rorschachMost: a plain sack set beside a carved mask
-rorschachHigh: a bowed head turned from an ornate one
-rorschachMid: a round stone next to a knotted root
-rorschachLow: a grand mask beside a person's head
-rorschachLeast: a jeweled crown looming over a bare pebble
+rorschachMost: a clod of earth beside strewn leaves
+rorschachHigh: two sacks of potatoes, one half empty
+rorschachMid: a jellyfish drifting sideways
+rorschachLow: a grand mask in front of a face
+rorschachLeast: a peacock with its plumage
 ---
 
 Wood-Fired Mung Beans are the Bean Zodiac's most humble — they know what they're capable of and keep it hidden. They finish the work, file it, and let someone find it months later; when the room turns toward them they redirect the credit to the cook, the colleague, the one who set the table. Their warmth at someone else's success is entirely genuine.

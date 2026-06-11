@@ -4,6 +4,7 @@ bean: navy
 flavour: sour
 form: dried
 trait: uncompromising
+inverse: accommodating
 dish: Navy bean and dried tomato stew with red wine vinegar and rosemary.
 quote: Give me liberty, or give me bean!
 creature: golden eagle

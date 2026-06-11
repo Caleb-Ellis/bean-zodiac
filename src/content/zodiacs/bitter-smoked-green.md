@@ -4,6 +4,7 @@ bean: green
 flavour: bitter
 form: smoked
 trait: eerie
+inverse: mundane
 dish: Smoked green bean with bitter elderflower and char.
 quote: Something is rotten in the bean of Denmark.
 creature: loon

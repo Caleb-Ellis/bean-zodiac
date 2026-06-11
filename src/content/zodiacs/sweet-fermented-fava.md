@@ -4,6 +4,7 @@ bean: fava
 flavour: sweet
 form: fermented
 trait: visionary
+inverse: shortsighted
 dish: Fave dolci al Marsala — fava beans braised in sweet Marsala wine with sugar and lemon until the liquid becomes a syrup.
 quote: The bean is not to predict the future but to imagine it.
 creature: bald eagle

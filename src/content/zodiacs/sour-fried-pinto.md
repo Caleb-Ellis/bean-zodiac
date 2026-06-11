@@ -4,6 +4,7 @@ bean: pinto
 flavour: sour
 form: fried
 trait: manipulative
+inverse: artless
 dish: Chalupas poblanas - fried masa boats piled with pinto beans, pickled onion, and lime crema.
 quote: It is better to be feared than loved, if you cannot bean both.
 creature: cuckoo

@@ -4,6 +4,7 @@ bean: kidney
 flavour: sour
 form: dried
 trait: fierce
+inverse: meek
 dish: Rajma - kidney beans with dried Kashmiri chiles and tamarind.
 quote: This isn't even my final bean!
 creature: tiger

@@ -4,6 +4,7 @@ bean: black
 flavour: sweet
 form: dried
 trait: abiding
+inverse: transient
 dish: Black bean brownies — dried black beans cooked and folded into dark chocolate batter, fudgy and barely holding together.
 quote: Not all those who bean are lost.
 creature: tortoise

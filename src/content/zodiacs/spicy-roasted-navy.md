@@ -4,6 +4,7 @@ bean: navy
 flavour: spicy
 form: roasted
 trait: self-reliant
+inverse: codependent
 dish: Loubia bil harissa - Moroccan navy bean tagine with roasted harissa and preserved lemon.
 quote: Trust thyself - every bean vibrates to that iron string.
 creature: lone wolf

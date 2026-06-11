@@ -4,6 +4,7 @@ bean: chickpea
 flavour: sweet
 form: boiled
 trait: agreeable
+inverse: disagreeable
 dish: Chana dal halwa — split chickpeas boiled down with ghee and sugar into a dense, golden sweet.
 quote: Piglet noticed that even though he had a very small bean, it could hold a rather large amount of gratitude.
 creature: lamb

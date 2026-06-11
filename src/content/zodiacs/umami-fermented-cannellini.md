@@ -4,6 +4,7 @@ bean: cannellini
 flavour: umami
 form: fermented
 trait: idealistic
+inverse: jaded
 dish: Cannellini and white miso soup with roasted garlic and rosemary.
 quote: Some beans see things as they are and ask why; I dream of beans that never were and ask why not.
 creature: unicorn

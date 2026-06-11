@@ -4,6 +4,7 @@ bean: adzuki
 flavour: sour
 form: fried
 trait: candid
+inverse: evasive
 dish: Pat jeon with rice vinegar dipping sauce - Korean adzuki bean pancakes with a sharp sour dipping sauce.
 quote: The truth will set you bean.
 creature: hound

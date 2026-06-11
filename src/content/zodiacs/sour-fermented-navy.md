@@ -4,6 +4,7 @@ bean: navy
 flavour: sour
 form: fermented
 trait: cynical
+inverse: hopeful
 dish: Choucroute garnie - navy beans with sauerkraut, caraway, and white wine.
 quote: A bean who knows the price of everything and the value of nothing.
 creature: vulture

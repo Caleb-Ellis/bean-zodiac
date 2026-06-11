@@ -4,6 +4,7 @@ bean: black
 flavour: bitter
 form: smoked
 trait: scary
+inverse: comforting
 dish: Smoked black bean broth with charred onion and no garnish.
 quote: To be great is to be bean.
 creature: wendigo

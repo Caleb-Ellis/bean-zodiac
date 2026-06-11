@@ -1,195 +1,87 @@
 # Writing Fortunes
 
-Guidance for the five `fortune*` fields in each zodiac entry. Fortunes are
-delivered to a user based on how they answered a daily prompt.
+The five `fortune*` fields per zodiac entry. A fortune is one line of a **zodiac**,
+drawn one a day for months — so the corpus is read _serially_. The craft is making
+consecutive draws feel like different weather, not one line rephrased. **Vary the
+shape, not just the words.**
 
-## What you're actually writing
+## Four registers, roughly even
 
-A fortune is one line of a **zodiac** — augury first, advice second. The reader
-draws one a day for months, so the corpus is read _serially_. The whole craft is
-making consecutive draws feel like different weather, not one fortune rephrased.
-Judge each line two ways at once: on its own, does it land? And against its
-neighbours, does it bring a genuinely different shape, register, and rhythm?
+Mix all four across a bean's ten lines; let no one register dominate.
 
-If you only remember one thing: **vary the shape, not just the words.** A pass
-that swaps images while keeping the cadence changes nothing — the daily reader
-feels the _rhythm_ repeat, not the nouns.
+- **Omen** — foretell, name a sign, set a bare image. _Speaks the day._
+  ("A loud arrival is on the wind.")
+- **Move** — a quiet, warm nudge: speak or stay quiet, hold or let go. _Meets the
+  day._ ("Say it low.")
+- **Statement** — flat recognition of the reader, no image or instruction.
+  ("A pause sits well on you.")
+- **Maxim** — an impersonal general truth. ("Quiet isn't the same as absent.") The trait
+  lives in _which_ distinction gets drawn; it must imply this bean even though it
+  never says "you." Keep it bare, and ration it — strongest at the Mid band, where
+  a gentle correction of a misread fits. Preachy if overused.
 
-## The axis
+## The gradient
 
-Each slot has two fortunes — `fortuneMost` and `fortuneMost2`, and so on, paired
-in the file. The `2` variant sits at the **same point on the axis** as its pair
-but is a **genuinely different fortune**: a different image, action, or angle,
-never a reword. Both must independently satisfy every note here.
+One fortune per slot. Each must satisfy every rule here.
 
-The five slots form a gradient on the entry's `trait`:
+| Field          | Expression                              |
+| -------------- | --------------------------------------- |
+| `fortuneMost`  | the trait fully embraced                |
+| `fortuneHigh`  | high expression of the trait            |
+| `fortuneMid`   | low expression of the trait             |
+| `fortuneLow`   | low expression of the _opposite_ trait  |
+| `fortuneLeast` | the opposite trait fully embraced       |
 
-| Field          | Expression                                        |
-| -------------- | ------------------------------------------------- |
-| `fortuneMost`  | the trait fully embraced (peak trait)             |
-| `fortuneHigh`  | high expression of the trait                      |
-| `fortuneMid`   | low expression of the trait                       |
-| `fortuneLow`   | low expression of the _opposite_ trait            |
-| `fortuneLeast` | the opposite trait fully embraced (peak opposite) |
+Sit cleanly at each point — `Most` celebrates _this_ trait, not a neighbour — and
+keep adjacent slots (Low vs. Least) from collapsing together. `Low` and `Least`
+lean toward the opposite trait: give them a small **wary edge** (an acknowledged
+cost), not pure cheer. Warmth stays; brevity outranks the edge when they conflict.
 
-The arc runs from "most you" through center out to "least you." Each fortune
-sits cleanly at its point — `fortuneMost` celebrates _this_ trait, not a
-neighbouring virtue — and adjacent slots (Low vs. Least) must not collapse into
-the same note.
+Older zodiac entries with a 2 variant of each fortune should remove them - there should only be 5 fortunes per zodiac entry.
 
-`fortuneLow` and `fortuneLeast` push the reader _toward the opposite_ of their
-trait. Give that opposite-trait move a **wary edge** — a small caveat, an
-acknowledged cost — rather than pure sunny cheer, which reads off-voice over a
-run of draws. Not scolding; the warmth stays. You're trading some sunniness for
-an honest "this costs you something, do it anyway."
+## Brevity — terse but not gutted
 
-## ⚠️ The one failure that matters: structural sameness
+Cut the **explaining/qualifying clause, not the poetry.** Keep the image, the
+comparison, the rhythm; drop the tail that justifies or spells out the meaning.
 
-Every other rule can be satisfied perfectly and the corpus still fails, because
-the sameness that creeps in is **structural**, not topical. The dominant mold is:
+- Too qualified: "Set the bowl down with both hands**, even when it's only soup**."
+- Too terse: "A chipped mug holds the same heat" — needs "**as the good one**."
 
-> **[a quiet instruction]. [an aphoristic reframe that says the cost is worth it].**
+Write the evocative line, then delete only the words that _explain_ it.
 
-Measured across the corpus, this mold dominates: ~90% of fortunes are exactly
-two sentences, most pivot on an em-dash or sentence break, a fifth open their
-second sentence on "The…", and the say/answer/verdict/silence register alone is
-over a quarter of all lines. That is the sound of one fortune wearing 3,600
-outfits.
+## How the trait shows without an instruction (the omen toolkit)
 
-Treat these as **hard targets, not suggestions:**
+1. **Weather** — the trait decides what _kind_ of sign appears (patient = things
+   ripening; impatient = the kettle near the whistle).
+2. **What fate favours / withholds** — the trait's mode is about to be rewarded or
+   quietly taxed.
+3. **The lens** — a neutral portent the trait would meet its own way.
+4. **Image temperature** — across Most→Least, move along one visual axis the trait
+   owns (still water: deep/held → moving/spilling).
 
-1. **Prioritise single sentence fortunes.** Break the two-sentence mold - brevity is the soul of wit. No more than ~half of a bean's fortunes
-   should be the two-beat "move + gloss." Deliberately write some as a single
-   line with no footnote; a bare image with **no instruction at all**; a
-   fragment; three short beats; a direct address. "Sentence, em-dash, reframe"
-   is the default — change the shape, not just the words.
-2. **Kill the reframe-tail.** The "— and that's its own kindness / the waiting
-   is the standard / X is the whole thing" tail is wallpaper. A fortune does
-   **not** need to justify its own move. Let lines land and stop.
-3. **Foretell more than you advise.** This is a zodiac. An omen, luck turning,
-   fortune arriving, a sign worth heeding — this register is the most on-brand
-   and the most neglected; it should be common, not rare. Not every fortune
-   carries a corrective move. Some just _speak the day._
-4. **Don't let the fixes calcify.** Escape hatches from prior passes ("comes to
-   the one who…", "good fortune favours…", "once" as a resolution beat) have
-   themselves become tics. If a phrase shows up to _avoid_ sameness, vary it too.
+**Guardrail:** vague _meaning_, sharp _image_. One literal thing the reader can
+see; the "so what" floats. No riddles, no stacked metaphors. Feeling on one read.
 
-A self-test before saving: **could this line be the second sentence of the
-fortune above it?** If the cadence is interchangeable, that interchangeability
-_is_ the sameness — rewrite the shape.
+## Hard rules
 
-## Widen the world
+- **Wears the entry's face.** Built from _this_ entry's zodiac, creature, texture —
+  couldn't be pasted into another zodiac.
+- **Never references the prompt**, the reader's choice, or the facet. Each line
+  stands alone (the answer may route to a different slot than it matches).
+- **No time anchors** — no today/morning/last week/seasons. ("The year" as a
+  mythic span is fine.)
+- **Don't assert events as fact.** Aim at a vague future invited or a loose past
+  tendency, not a reported scene. Don't over-specify props.
+- **Lands on one read, sees the reader** ("…oh, that's me"), **stays warm** even
+  when corrective.
 
-The corpus leans hard on one register: a quiet indoor coach nudging _speak or
-stay quiet, move or hold, leave or stay,_ among people the reader already knows.
-That note is mastered. The job is to widen _around_ it. Reach deliberately —
-often enough that the daily draw surprises — for what's underused:
+## Watch for sameness
 
-- **Augury over advice** (see above — the single biggest lever).
-- **Leave the room.** Most fortunes happen indoors, in conversation. Set some
-  outdoors — on a road, in weather, in a turning season, near an animal.
-- **Just good news.** Pure delight, a windfall, a reunion, a healing, effort
-  rewarded — no correction, no "but." Celebration is nearly absent; a fortune is
-  allowed to promise something lovely.
-- **Widen the cast.** Beyond "the friend" and "the room": a stranger, a new
-  person, a crowd, a first encounter, the unknown. Most fortunes assume the
-  reader knows everyone present — let some look outward.
-- **Open differently.** A quarter start on a bare command verb (Say / Stop /
-  Leave / Take / Hold) and a third open on "A…" or "The…". Vary the entry — an
-  image, a condition, an observation — so the grammar isn't shared.
+No mold should repeat down the column: not the advice "[instruction] — [reframe
+tail]", not the omen "lone evocative noun" or stock kit (the door, water finding
+level, the heavy branch, "the X you didn't pick"), not the maxim that's true of
+any trait ("patience is a virtue"). Self-test: **could this line swap with the one
+above and lose nothing?** If so, rebuild the shape.
 
-## The mythic register
-
-This is a _zodiac_ — the augury lever (§"Foretell more than you advise") opens a
-door the mundane palette can't: **omens, portents, fate and luck as forces with
-their own will, the bean as a totemic creature.** It's the most on-brand register
-and the most neglected, and a cosmic line can't be mistaken for the indoor-coach
-default — so variety is cheapest here. Keep the existing rules: still one read
-(mythic, not cryptic), still a "that's me," still no time anchors ("the year" as
-a mythic span is fine), still built from _this_ bean's dish or creature. Keep it
-rare — an omen that lands every draw stops being an omen.
-
-## What makes any single line good
-
-- **It sees the reader.** A fortune is judged on one thing: the small "…oh,
-  that's me." Writing that's admired but slides off has failed.
-- **It lands on a single read.** No riddles or inversions to decode; the feeling
-  arrives immediately. The reader should picture what it describes without
-  effort — don't stack metaphors that fight each other or compress so hard the
-  literal meaning is lost. (Bad: "Anonymous warmth keeps landing as a draft from
-  the hallway when your name would have made it a gift" — too many mixed images;
-  what is the reader actually shown?)
-- **It's short.** A line, not a paragraph. Don't over-qualify ("the way you tend
-  to," "almost always") or make the same point twice. When in doubt, cut.
-- **It stays warm all the way down.** Lower expressions trade flattery for
-  _recognition_, not coldness. Even a corrective line reads as understanding —
-  give the _why_ — not a reprimand.
-- **It wears the bean's face.** Use the entry's own dish, imagery, and voice, so
-  the line couldn't be pasted into another zodiac. When a line feels generic,
-  rebuild it from this bean's dish, creature, or texture.
-- **It never references the prompt.** A fortune must not mention the question,
-  the reader's choice, or the facet behind it. The reader's answer may route them
-  to a different slot than the one matching their reply, so write each line to
-  stand alone — a line about the trait, not a reply to a prompt.
-
-## House words over budget
-
-These props went from texture to wallpaper through repetition. Not banned, but
-assume the reader has seen each many times this week. Before reaching for one,
-ask whether the entry's own imagery would do the work — and cut it if it's just
-there to sound cozy.
-
-- **"the room"** as audience/stage — the default backdrop for everything. Reach
-  for an actual place.
-- **"let it / let them / let yourself"** — the reflexive permission opener; now a
-  verbal tic.
-- **"before the… / before it becomes…"** — the pre-emptive-consequence clause.
-- **bare-imperative openers** (Say / Stop / Leave / Take / Hold) — see "Open
-  differently."
-- **"for once," "the whole [thing]," "the real [thing]," "the gift you give,"
-  "comes to the one who…"** — stock softeners and reassurance tails. Show the
-  warmth; don't append it.
-- Also lean _away_ from office/comms scenery (email, inbox, meeting, deadline,
-  slide deck) — it quietly assumes a desk-job reader. When you must invoke the
-  trait at work, keep it generic ("say it plainly"), not a named document.
-
-When two of these would land in one fortune, that's the signal to rewrite it
-from the bean's own dish, creature, or voice instead.
-
-## Keep it true on any day, for anyone
-
-- **No time anchors.** Fortunes are evergreen and shown on any day. No "today,"
-  "this morning," "last week," "for now," day names, or seasons.
-- **Don't assert specific events as fact.** The fortune doesn't know what
-  happened to the reader, so it can't state a concrete scene as though it did
-  ("You sat through every opinion and said the thing the table was circling").
-  Aim at a **vague future action gently invited**, not reported. A **loose past
-  tendency** ("the way you tend to wait before you speak") is fine if it's broad
-  enough to be true of anyone with the trait.
-- **Don't over-specify the future either.** "Catch the error on line four while
-  the cashier waits" assumes a day the reader isn't having. Keep the invited
-  action general ("catch the small wrong thing before it grows"). Archetypes and
-  conditionals are fine; a named prop on a named line is not. When in doubt,
-  strip the props and keep the move.
-
-## The scenario palette (widen toward, don't fill)
-
-This is range to reach for, not a checklist — overusing any of it just makes a
-fresh cliché. The rule above the list: **match the scenario to anyone who'd
-plausibly hold the trait** — a parent, a nurse, a kid, a freelancer — not only
-someone at a desk.
-
-- **Domestic / hands-on:** cooking, fixing, cleaning, planting, mending,
-  building — tactile, and it overlaps the dish.
-- **Relationships & social texture:** who you sit by, the friend you call, the
-  apology you carry, who gets your time. The warmest "…that's me" lives here.
-- **Money & stuff:** what you buy, keep, give away, repair vs. replace, can't
-  throw out.
-- **Body & habit:** sleep, the walk, the meal, the morning routine, rest vs.
-  push.
-- **Decisions & risk in the wild:** travel, directions, the new place, the leap,
-  the thing you signed up for.
-- **Making & craft:** the first attempt, the practice, the draft, the thing you
-  keep tinkering with — ship-vs-polish without the office.
-- **Attention & noticing:** what you catch that others miss, the off note, the
-  detail in a room.
+Ration house words: "the room," "let it/them/yourself," "before it becomes…",
+bare-imperative openers, reassurance tails, office/desk scenery.

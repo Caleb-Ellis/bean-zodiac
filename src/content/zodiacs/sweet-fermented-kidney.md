@@ -4,6 +4,7 @@ bean: kidney
 flavour: sweet
 form: fermented
 trait: sympathetic
+inverse: cold-hearted
 dish: Sikhye with red beans — Korean sweet fermented rice punch with kidney beans, served chilled with pine nuts floating on top.
 quote: Could a greater bean or miracle take place than for us to look through each other's bean for an instant?
 creature: sea cow

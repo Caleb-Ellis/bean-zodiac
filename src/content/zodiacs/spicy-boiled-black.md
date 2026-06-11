@@ -4,6 +4,7 @@ bean: black
 flavour: spicy
 form: boiled
 trait: gritty
+inverse: faint-hearted
 dish: Sopa de frijoles negros - black bean soup with chipotle and smoked epazote.
 quote: It does not matter how slowly you go as long as you do not bean.
 creature: warthog

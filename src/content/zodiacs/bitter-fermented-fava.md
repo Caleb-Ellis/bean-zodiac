@@ -4,6 +4,7 @@ bean: fava
 flavour: bitter
 form: fermented
 trait: questioning
+inverse: unquestioning
 dish: Fava bean soup with harissa yogurt and bitter orange.
 quote: The bean that gets questioned, gets answered.
 creature: lemur

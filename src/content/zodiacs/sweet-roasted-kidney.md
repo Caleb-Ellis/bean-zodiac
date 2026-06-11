@@ -1,9 +1,11 @@
 ---
 slug: sweet-roasted-kidney
+lastUpdated: 2026-07-03
 bean: kidney
 flavour: sweet
 form: roasted
 trait: overprotective
+inverse: permissive
 dish: Kidney bean and dark chocolate roasted clusters — red beans bound in dark chocolate and coconut sugar, roasted into crunchy mounds.
 quote: The bean loved too well, that is the trouble.
 creature: goose
@@ -12,37 +14,32 @@ antiBeans: [edamame, adzuki]
 friendlyForm: smoked
 antiForm: fermented
 seasonalFortune: A season spent under the chocolate's dark shell — warmth held in close, the household pulled a half-step nearer the oven than anyone asked.
-fortuneMost: The coat, the umbrella, a tin for the road — fetch all three and walk them to the corner.
-fortuneMost2: Make the warm thing and press it into their hands yourself.
-fortuneHigh: Send the care package, then close the app.
-fortuneHigh2: Someone you fussed over lands safe this turn — the omen's good, the worry was wasted.
-fortuneMid: Drop the soup, ring the bell, wave, drive off.
-fortuneMid2: Hand over the tin without the "did you eat them?" chaser.
-fortuneLow: One warm message, and not the second.
-fortuneLow2: Hand over the help and don't turn around to check.
-fortuneLeast: Somewhere warm, someone else minding the door, you the one looked after.
-fortuneLeast2: A plan shifts, someone cancels, and you're already halfway into your own evening.
+fortuneMost: The gosling strays a step and your wing is already over it.
+fortuneHigh: A shell keeps the warmth in and the world out, both at once.
+fortuneMid: Your hand rests on the gate; let it swing this time.
+fortuneLow: Let them wade past the buoys, even as your feet itch for the water.
+fortuneLeast: The door stands open, and no one counts who comes back through it.
 facetMostTitle: The Cluster Cooling in Your Palm
-facetMost: A child wobbles to the top of the climbing frame, grinning, perfectly fine. You're already standing under them with both arms out.
+facetMost: Your grown sibling mentions in passing they've had a mild cold. You immediately offer to come over with soup and medicine, and stay the night in case it turns.
 facetHighTitle: Coconut Sugar Crackling as It Sets
-facetHigh: Storm warnings on the radio and your grown kid out on the coast road. You've packed a bag of supplies and you're reaching for the car keys to go bring them home.
+facetHigh: Before the group sets off up the mountain you quietly load the spare gloves, the plasters, the glucose jelly, the entire first-aid kit into your own pack, so the worry rides with you and no one else.
 facetMidTitle: Chocolate Seizing Around What It Holds
-facetMid: A new pup tries the dog-flap for the first time. You hover at the glass, ready to nudge it through, though it's clearly got the hang of it.
+facetMid: A friend's late flight is still somewhere in the air. You keep your phone lit and stay up until the landing text comes through, then turn in.
 facetLowTitle: Beans Loose From the Mound
-facetLow: Your friend wades out past the buoys with a strong, easy stroke. You make yourself stay on the towel and not call them back.
+facetLow: Your neighbour leaves their cat with you for the month. You keep the bowl full and let it roam wherever it wants — inside, outside, sure it'll be fine.
 facetLeastTitle: The Tray Emptied Without Ceremony
-facetLeast: A teenager you mind heads off into the festival crowd alone. You wave, turn back to your own afternoon, and don't watch where they go.
-question: Your kid brother, barely out of school, is loading a bike for a solo ride across the country, grinning, helmet swinging off the bars. You...
-answerMost: quietly redraw the route, book his stops, and try to ride the first leg with him
-answerHigh: press hard for him to at least skip the mountain passes alone
-answerMid: ask him to text you each night he stops
-answerLow: say the worry once, then wave him off
-answerLeast: trust he knows what he's doing and just wish him luck
-rorschachMost: a hen hunched low over a hidden clutch
-rorschachHigh: arms folded tight around a wrapped bundle
-rorschachMid: a cabbage with its outer leaves closed
-rorschachLow: a fist beginning to open its grip
-rorschachLeast: an empty husk split open and hollow
+facetLeast: A friend has just bought his first motorbike. He offers you a ride, though he can't remember where the helmets are, hoping to find them later. You climb on the back anyway, and tell him to let it rip.
+question: Your friend is buzzing about the thirteen weeks they're about to spend backpacking solo across South America. It's not for a couple of months. You...
+answerHigh: help organise the insurance, the jabs, and propose a nightly check-in
+answerMost: copy their itinerary into your calender and gather as many contact details as possible
+answerMid: help them sort the essentials and leave the rest to them
+answerLow: tell them it sounds brilliant and ask for postcards
+answerLeast: urge them to visit the wild, seedy places you've heard about
+rorschachMost: a swaddled baby in its mother's arms
+rorschachHigh: a cat curled up, nose tucked to tail
+rorschachMid: a knobbly head of roasted cauliflower
+rorschachLow: a floating sea sponge
+rorschachLeast: the hollow, weathered bones of some creature
 ---
 
 Glazed Kidney Beans are the Bean Zodiac's most overprotective — the ones who fetch a guest's coat, their umbrella, a clean tin for the train, and walk them to the corner. They rearrange the spare room before the visitor arrives, then move the lamp once more so the reading chair sits inside its pool of light. The care is unembarrassed and exact.

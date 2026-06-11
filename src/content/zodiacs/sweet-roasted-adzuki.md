@@ -4,6 +4,7 @@ bean: adzuki
 flavour: sweet
 form: roasted
 trait: happy
+inverse: miserable
 dish: Adzuki bean brittle — adzuki beans roasted with brown sugar and black sesame until crackling and amber.
 quote: Take it! Take more! I'll make another batch!
 creature: lark

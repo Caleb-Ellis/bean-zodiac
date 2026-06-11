@@ -4,6 +4,7 @@ bean: kidney
 flavour: umami
 form: roasted
 trait: extravagant
+inverse: thrifty
 dish: Roasted kidney beans with porcini, truffle oil, and thyme.
 quote: I have nothing to declare except my bean.
 creature: peafowl

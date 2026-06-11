@@ -4,6 +4,7 @@ bean: kidney
 flavour: sweet
 form: dried
 trait: adoring
+inverse: contemptuous
 dish: Habichuelas con dulce — dried kidney beans cooked with coconut milk, sweet potato, raisins, and warm spice into a Dominican Easter dessert.
 quote: The course of true love never did bean smooth.
 creature: lovebird

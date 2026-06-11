@@ -4,6 +4,7 @@ bean: green
 flavour: spicy
 form: fermented
 trait: unconventional
+inverse: orthodox
 dish: Green bean doenjang muchim - seasoned green beans with fermented soybean paste and gochugaru.
 quote: Here's to the crazy beans, the misfits, the rebels, the troublemakers.
 creature: duck-billed platypus

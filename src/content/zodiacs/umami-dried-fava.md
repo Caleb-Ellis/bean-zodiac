@@ -4,6 +4,7 @@ bean: fava
 flavour: umami
 form: dried
 trait: formidable
+inverse: feeble
 dish: Fave e cicoria - dried fava bean puree with wilted bitter chicory and olive oil.
 quote: A bean in the hand is worth two in the bush.
 creature: bear

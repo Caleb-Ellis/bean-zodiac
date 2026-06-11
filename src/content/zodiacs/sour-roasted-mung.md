@@ -4,6 +4,7 @@ bean: mung
 flavour: sour
 form: roasted
 trait: sensitive
+inverse: insensitive
 dish: Bhuna moong chaat - dry-roasted mung beans with tamarind chutney, red onion, and chaat masala
 quote: Nothing is so strong as bean-ness.
 creature: roe fawn

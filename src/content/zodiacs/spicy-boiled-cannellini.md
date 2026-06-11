@@ -4,6 +4,7 @@ bean: cannellini
 flavour: spicy
 form: boiled
 trait: perfectionist
+inverse: slipshod
 dish: Ribollita - Tuscan bread soup with cannellini, cavolo nero, and peperoncino.
 quote: Have no fear of bean perfection — you will never reach it, but what a view from the attempt.
 creature: weaver ant

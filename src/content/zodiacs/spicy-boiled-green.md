@@ -4,6 +4,7 @@ bean: green
 flavour: spicy
 form: boiled
 trait: zealous
+inverse: indifferent
 dish: Sichuan boiled green beans with doubanjiang and peppercorn.
 quote: I have nothing to offer but bean, toil, tears and sweat.
 creature: fox terrier

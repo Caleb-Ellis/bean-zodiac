@@ -4,6 +4,7 @@ bean: mung
 flavour: bitter
 form: fried
 trait: cautious
+inverse: incautious
 dish: Pajeon - mung bean pancakes with bitter greens and vinegar dip.
 quote: Look before you bean.
 creature: mouse

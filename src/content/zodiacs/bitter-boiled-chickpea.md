@@ -4,6 +4,7 @@ bean: chickpea
 flavour: bitter
 form: boiled
 trait: versatile
+inverse: limited
 dish: Revithia - chickpeas with bitter lemon and fresh herbs.
 quote: A bean is the most versatile of tools.
 creature: raccoon dog

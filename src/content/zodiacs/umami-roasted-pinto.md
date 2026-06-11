@@ -4,6 +4,7 @@ bean: pinto
 flavour: umami
 form: roasted
 trait: detached
+inverse: involved
 dish: Roasted pinto beans with ancho chile, tomato paste, and cumin.
 quote: I have bean watching from a great height for so long.
 creature: albatross

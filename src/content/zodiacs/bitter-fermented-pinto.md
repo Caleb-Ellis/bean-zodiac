@@ -4,6 +4,7 @@ bean: pinto
 flavour: bitter
 form: fermented
 trait: artistic
+inverse: philistine
 dish: Mole Negro - pinto beans with fermented chile and cacao.
 quote: Every bean is an artist. The problem is how to remain an artist once we grow up.
 creature: lyrebird

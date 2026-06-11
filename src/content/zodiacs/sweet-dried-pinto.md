@@ -4,6 +4,7 @@ bean: pinto
 flavour: sweet
 form: dried
 trait: storied
+inverse: obscure
 dish: Pinto bean pie — dried pintos cooked soft and sweetened into a custard filling for a Southern pie shell, spiced with cinnamon and vanilla.
 quote: After all, tomorrow is another bean.
 creature: thunderbird

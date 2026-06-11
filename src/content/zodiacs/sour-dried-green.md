@@ -4,6 +4,7 @@ bean: green
 flavour: sour
 form: dried
 trait: bracing
+inverse: enervating
 dish: Szechuan dry-fried green beans with black vinegar and ginger.
 quote: Into each life some bean must fall.
 creature: arctic fox

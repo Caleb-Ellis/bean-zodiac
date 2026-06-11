@@ -4,6 +4,7 @@ bean: adzuki
 flavour: umami
 form: roasted
 trait: warm
+inverse: frosty
 dish: Miso-roasted adzuki with black sesame and mirin.
 quote: There's no better feeling in the world than a warm bean on your lap.
 creature: golden labrador

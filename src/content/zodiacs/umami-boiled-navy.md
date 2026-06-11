@@ -4,6 +4,7 @@ bean: navy
 flavour: umami
 form: boiled
 trait: pedantic
+inverse: freewheeling
 dish: Senate bean soup - navy bean with ham hock, celery, and onion.
 quote: The bean is in the details.
 creature: cockatoo

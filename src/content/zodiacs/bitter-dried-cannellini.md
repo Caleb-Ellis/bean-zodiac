@@ -4,6 +4,7 @@ bean: cannellini
 flavour: bitter
 form: dried
 trait: ascetic
+inverse: sybaritic
 dish: Acquacotta - cannellini and bitter greens.
 quote: Simplicity is the ultimate bean.
 creature: camel

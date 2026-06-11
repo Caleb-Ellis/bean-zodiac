@@ -4,6 +4,7 @@ bean: chickpea
 flavour: umami
 form: dried
 trait: substantive
+inverse: trivial
 dish: Cocido madrileño - dried chickpeas slow-cooked with pork belly, chorizo, and morcilla.
 quote: The measure of a bean is the sum of its choices.
 creature: mammoth

@@ -4,6 +4,7 @@ bean: cannellini
 flavour: spicy
 form: dried
 trait: unerring
+inverse: fallible
 dish: Pasta e fagioli - dried cannellini and pasta soup with peperoncino.
 quote: I came, I saw, I beaned.
 creature: gyrfalcon

@@ -4,6 +4,7 @@ bean: black
 flavour: umami
 form: roasted
 trait: insightful
+inverse: vacuous
 dish: Soy and mirin roasted black soybeans with ginger and star anise.
 quote: The only true wisdom is knowing you know nothing about beans.
 creature: snowy owl

@@ -1,9 +1,11 @@
 ---
 slug: spicy-smoked-pinto
+lastUpdated: 2026-06-25
 bean: pinto
 flavour: spicy
 form: smoked
 trait: erratic
+inverse: consistent
 dish: Texas chili con carne - smoked brisket and pinto beans in ancho and guajillo chile broth.
 quote: Life is what happens to you while you're busy bean other beans.
 creature: gadfly
@@ -12,37 +14,32 @@ antiBeans: [navy, kidney]
 friendlyForm: fermented
 antiForm: boiled
 seasonalFortune: Smoke wanders where the wind decides; the brisket carries char from a fire that never sat still. Ancho deepens in one corner of the pot, guajillo flares in another, and the broth keeps no consistent weather.
-fortuneMost: Ancho deepens in one corner, guajillo flares in another, and the broth keeps no steady weather — that's your whole life, four things going, the one that surprises you finishing.
-fortuneMost2: The recipe abandons itself halfway and lands somewhere no one could have planned.
-fortuneHigh: A dozen things half-lit, whichever caught as you passed. Pick the one that scared you at the start.
-fortuneHigh2: You work in bursts no clock predicts, and that's where the best of you comes from.
-fortuneMid: The mind will change twice before dark. Let the third version be the one you commit to.
-fortuneMid2: The whole thing doesn't need scrapping for the thrill. Keep the plan, swap in one new flourish, and the swerve gets a frame.
-fortuneLow: You've been improvising for people who lost the plot a while back. Stop and point at what you're actually making.
-fortuneLow2: Whoever was counting on the first version is still standing there waiting.
-fortuneLeast: Cook the dish you've made for them before, take the same road home.
-fortuneLeast2: The luck this turn sits with the steady hand. Finish the plan you started.
+fortuneMost: Fire does not know how to stay still.
+fortuneHigh2: A gadfly can move creatures much larger than itself.
+fortuneMid2: Stir the pot, don't dump it.
+fortuneLow: An untended fire feeds no one.
+fortuneLeast: Keep a steady hand - do not drift.
 facetMostTitle: Three Surfaces, One Half-Done
-facetMost: Set out to paint the fence and you end up rerouting the garden path, then sketching a pond, the fence still bare while a wilder plan takes over.
+facetMost: A half-built shelf, a guitar restrung, a letter started and set down — then a fourth thing glints brighter than all three. You drop the lot and reach for it.
 facetHighTitle: Smoke Between the Tabs
-facetHigh: Asked for directions, you give a route, then a better one, then a scenic one nobody asked about, until the stranger's just nodding and lost.
+facetHigh: Mid-sentence a better story occurs to you, then a better one behind that, while the person across from you is still waiting on the end of the first.
 facetMidTitle: Off the Burner for the Garden
-facetMid: A road trip has a route mapped and a hotel booked. A hand-painted sign for a cave appears, and you yank the wheel toward it without a second thought.
+facetMid: Dinner's on a low simmer and the garden's right there through the window. You wander out to pull a few weeds, telling yourself it's only a minute.
 facetLowTitle: One Pot, One Burner
-facetLow: Friends are clamoring to redraw the whole evening's plan on a whim. You hold the one reservation you all agreed on and steer everyone back to it, even as the dull part itches.
+facetLow: Part-way into a book that's hooked you, another one you really wanted to read pops into your mind. You stick with the one you started.
 facetLeastTitle: Same Bowl, Same Chair
-facetLeast: There's a wide-open afternoon and a dozen new ways you could spend it. You walk the same loop you always walk, sit in the same café, order the usual, and call it good.
-question: Halfway up the trail you'd planned, a side path you've never taken opens off to the left. You...
-answerMost: abandon the route and follow the new path wherever it runs
-answerHigh: take it a short way, then cut back to the original line
-answerMid: stay on the trail but detour to the one viewpoint off it
-answerLow: note the path for another day and finish the planned route
-answerLeast: keep to the marked trail; that's the one you came to walk
-rorschachMost: a paper ball crumpled and flung down
-rorschachHigh: a torn coastline jagging in and out
-rorschachMid: a clump of moss spread over a stone
-rorschachLow: a doorknob rubbed smooth by years of hands
-rorschachLeast: a risen loaf gone smooth on top
+facetLeast: A free day opens up, and what you want is exactly the familiar — a walk you love, the café that knows your order. You settle into the groove gladly.
+question: You've researched this one camera for months and it's on the counter ready to purchase, when a weird-looking one across the shop catches your eye. You...
+answerMost: ditch the one you came for and walk out with the new find
+answerHigh: buy them both, budget be damned
+answerMid: leave empty-handed to decide later
+answerLow: buy the one you came for, but wonder about the other
+answerLeast: pay for exactly what you came in for and go
+rorschachMost: the mark of a paintbrush stabbed at the page
+rorschachHigh: a sea urchin bristling on a rock
+rorschachMid: a durian lying on its side
+rorschachLow: a chestnut snug in its husk
+rorschachLeast: a hedgehog curled up
 ---
 
 Chipotle Pinto Beans are the Bean Zodiac's most erratic — and the most fun to watch cook. The story in the group chat has taken four turns in an hour and each turn is better than the last. The recipe abandons itself halfway through and arrives at something nobody could have planned. People stay close to them for the swerves; the dish is never the dish you ordered and is usually better.

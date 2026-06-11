@@ -4,6 +4,7 @@ bean: fava
 flavour: sour
 form: boiled
 trait: righteous
+inverse: iniquitous
 dish: Bissara - Moroccan fava bean soup with lemon and cumin.
 quote: Injustice anywhere is a threat to beans everywhere.
 creature: ibex

@@ -4,6 +4,7 @@ bean: black
 flavour: umami
 form: dried
 trait: profound
+inverse: superficial
 dish: Feijoada - dried black beans slow-cooked with smoked pork, sausage, and ham.
 quote: Deep calls to bean.
 creature: sperm whale

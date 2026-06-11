@@ -4,6 +4,7 @@ bean: mung
 flavour: sour
 form: fried
 trait: self-deprecating
+inverse: self-aggrandizing
 dish: Bindaetteok - Korean mung bean pancakes with a soy and rice vinegar dipping sauce.
 quote: I am so clever that sometimes I don't understand a single bean of what I am saying.
 creature: capuchin

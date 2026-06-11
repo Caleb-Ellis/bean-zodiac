@@ -4,6 +4,7 @@ bean: mung
 flavour: umami
 form: fried
 trait: serious
+inverse: jocular
 dish: Bindaetteok - Korean mung bean pancakes with kimchi and soy dipping sauce.
 quote: Life is too important to be taken bean.
 creature: moose

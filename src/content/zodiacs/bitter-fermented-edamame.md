@@ -4,6 +4,7 @@ bean: edamame
 flavour: bitter
 form: fermented
 trait: rational
+inverse: irrational
 dish: Edamame in ponzu with bitter yuzu and silken tofu.
 quote: The body is not the master of the mind, any more than the mind is the master of the bean.
 creature: carrion crow

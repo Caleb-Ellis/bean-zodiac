@@ -4,6 +4,7 @@ bean: pinto
 flavour: sweet
 form: roasted
 trait: mischievous
+inverse: well-behaved
 dish: Pinto bean and chipotle chocolate bark — roasted pinto beans set into dark chocolate with chipotle and flaked sea salt.
 quote: I solemnly swear that my beans are up to no good.
 creature: imp

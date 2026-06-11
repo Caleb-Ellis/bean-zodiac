@@ -4,6 +4,7 @@ bean: fava
 flavour: sweet
 form: smoked
 trait: dazzling
+inverse: drab
 dish: Bessara - smoked fava bean dip with smoked paprika, cumin, and honey drizzle.
 quote: All that glitters is not beans.
 creature: hummingbird

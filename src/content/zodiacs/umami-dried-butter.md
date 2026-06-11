@@ -4,6 +4,7 @@ bean: butter
 flavour: umami
 form: dried
 trait: mellow
+inverse: edgy
 dish: Gigantes plaki - dried butter beans baked with tomato, anchovy, and herbs.
 quote: All things come to beans who wait.
 creature: dugong

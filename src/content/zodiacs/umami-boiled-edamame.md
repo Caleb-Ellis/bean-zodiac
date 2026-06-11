@@ -4,6 +4,7 @@ bean: edamame
 flavour: umami
 form: boiled
 trait: dedicated
+inverse: uncommitted
 dish: Dashi-ni - edamame simmered in dashi, soy, and mirin.
 quote: The price of bean excellence is dedication.
 creature: retriever

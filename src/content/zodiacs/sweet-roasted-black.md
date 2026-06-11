@@ -4,6 +4,7 @@ bean: black
 flavour: sweet
 form: roasted
 trait: resilient
+inverse: fragile
 dish: Cocoa-roasted black beans — black beans tossed in cocoa powder and sugar, roasted until cracked and bittersweet.
 quote: That which does not bean us makes us stronger.
 creature: opossum

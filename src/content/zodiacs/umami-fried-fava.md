@@ -4,6 +4,7 @@ bean: fava
 flavour: umami
 form: fried
 trait: aggressive
+inverse: pacific
 dish: Stir-fried fava beans with doubanjiang, ginger, and soy.
 quote: The best bean defense is a good offense.
 creature: rhino

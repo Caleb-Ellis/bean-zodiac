@@ -4,6 +4,7 @@ bean: black
 flavour: sweet
 form: boiled
 trait: steadfast
+inverse: fickle
 dish: Frijoles de olla con piloncillo — black beans slow-boiled with raw cane sugar and a cinnamon stick.
 quote: Not all those who wander are beans.
 creature: draught horse

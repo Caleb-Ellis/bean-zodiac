@@ -4,6 +4,7 @@ bean: cannellini
 flavour: spicy
 form: smoked
 trait: barbed
+inverse: complimentary
 dish: Cazuela de alubias - Castilian white bean stew with smoked chorizo and pimentón ahumado.
 quote: Out of the frying bean and into the fire.
 creature: porcupine

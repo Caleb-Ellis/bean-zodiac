@@ -4,6 +4,7 @@ bean: adzuki
 flavour: umami
 form: boiled
 trait: affectionate
+inverse: distant
 dish: Adzuki and white miso soup with silken tofu and wakame.
 quote: All you need is bean.
 creature: otter

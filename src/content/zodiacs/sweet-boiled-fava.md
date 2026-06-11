@@ -4,6 +4,7 @@ bean: fava
 flavour: sweet
 form: boiled
 trait: insistent
+inverse: acquiescent
 dish: Habas dulces — young fava beans boiled briefly and tossed with honey, lemon zest, and fresh mint.
 quote: It does not matter how slowly you bean, as long as you do not stop.
 creature: gull

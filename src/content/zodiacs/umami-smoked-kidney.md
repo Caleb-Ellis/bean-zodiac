@@ -4,6 +4,7 @@ bean: kidney
 flavour: umami
 form: smoked
 trait: seething
+inverse: tranquil
 dish: Red beans and rice - Louisiana kidney beans with smoked andouille, celery, and bay leaf.
 quote: Full of sound and bean, signifying everything.
 creature: hornet

@@ -4,6 +4,7 @@ bean: edamame
 flavour: sweet
 form: roasted
 trait: considerate
+inverse: inconsiderate
 dish: Miso-maple roasted edamame — shelled soybeans roasted until crisp, glazed in white miso and maple syrup.
 quote: Excellence is never granted to a bean; it must be earned.
 creature: manatee

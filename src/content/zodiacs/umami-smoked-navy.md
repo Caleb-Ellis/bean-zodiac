@@ -4,6 +4,7 @@ bean: navy
 flavour: umami
 form: smoked
 trait: timeless
+inverse: dated
 dish: Boston baked beans - navy beans slow-cooked with smoked salt pork, molasses, and mustard.
 quote: Time is a flat bean.
 creature: aldabra tortoise

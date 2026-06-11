@@ -4,6 +4,7 @@ bean: butter
 flavour: sweet
 form: smoked
 trait: hazy
+inverse: distinct
 dish: Gigantes plaki - butter beans baked with sweet tomato, smoked paprika, and honey.
 quote: Que bean sera, sera. Whatever will bean, will bean.
 creature: luna moth

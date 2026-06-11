@@ -1,9 +1,11 @@
 ---
 slug: umami-fried-chickpea
+lastUpdated: 2026-06-11
 bean: chickpea
 flavour: umami
 form: fried
 trait: proactive
+inverse: reactive
 dish: Crispy chickpeas with fish sauce, toasted garlic, and lime.
 quote: Do not wait to strike till the bean is hot, but make it hot by striking.
 creature: pika
@@ -13,15 +15,10 @@ friendlyForm: fermented
 antiForm: smoked
 seasonalFortune: A life lived a quarter-hour ahead of itself — garlic sliced before the oil is poured, the lime halved before anyone thinks to ask.
 fortuneMost: The bag's packed and the coffee's made while the house is still dark.
-fortuneMost2: The spare key cut, the fridge stocked, the need met before it announces itself.
-fortuneHigh: Bags packed days before the train leaves.
-fortuneHigh2: Start the conversation they're nerving themselves up to start.
+fortuneHigh: Start the conversation they're nerving themselves up to start.
 fortuneMid: Make the appointment now — not the day it's due, not the day after.
-fortuneMid2: The umbrella's by the door before the sky has decided anything.
 fortuneLow: Hold your answer one beat.
-fortuneLow2: Not every gap is yours to close first.
 fortuneLeast: Ask before you fix it.
-fortuneLeast2: The tangled drawer was theirs, not a task waiting on you.
 facetMostTitle: The Oil Before the Ring
 facetMost: Storm warnings are still vague on the radio and you've already topped the tank, filled the jugs, and brought the chairs in off the lawn.
 facetHighTitle: Garlic Crisping at Dawn
@@ -39,9 +36,9 @@ answerMid: keep an eye on it for now, get a bucket ready
 answerLow: wait until it actually drips to make a move
 answerLeast: figure the house has stood this long
 rorschachMost: a cat crouched low, ears up, about to pounce
-rorschachHigh: a fox's pricked ears swiveling toward a sound
+rorschachHigh: a drawn bow raised, arrow nocked at the peak
 rorschachMid: a horned mask resting above a round stone
-rorschachLow: a cat dozing, head drooping over a cushion
+rorschachLow: a coat slipped half off a hook, sleeves drooping
 rorschachLeast: a fur hat tossed onto a sagging ottoman
 ---
 

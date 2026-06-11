@@ -4,6 +4,7 @@ bean: chickpea
 flavour: sour
 form: boiled
 trait: flexible
+inverse: inflexible
 dish: Harira - Moroccan chickpea soup with preserved lemon and tomato.
 quote: It is not the strongest bean that survives, nor the most intelligent, but the one most responsive to change.
 creature: serpent

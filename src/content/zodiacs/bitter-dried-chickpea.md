@@ -4,6 +4,7 @@ bean: chickpea
 flavour: bitter
 form: dried
 trait: circumspect
+inverse: heedless
 dish: Ceci in Zimino - chickpeas with bitter chard.
 quote: Look before you bean.
 creature: pangolin

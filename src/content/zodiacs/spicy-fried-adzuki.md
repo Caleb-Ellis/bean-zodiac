@@ -4,6 +4,7 @@ bean: adzuki
 flavour: spicy
 form: fried
 trait: irrepressible
+inverse: subdued
 dish: Spicy adzuki jeon - Korean pan-fried adzuki bean pancake with gochugaru.
 quote: Don't stop me now - I'm having such a good bean!
 creature: jack russell

@@ -4,6 +4,7 @@ bean: pinto
 flavour: sweet
 form: fried
 trait: distractible
+inverse: single-minded
 dish: Pinto bean sopapillas — fried puffed pastry with sweet pinto bean paste inside, drizzled with honey at the table.
 quote: A bean divided against itself cannot bean.
 creature: sparrow

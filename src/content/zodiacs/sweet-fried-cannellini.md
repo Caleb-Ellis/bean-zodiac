@@ -4,6 +4,7 @@ bean: cannellini
 flavour: sweet
 form: fried
 trait: expressive
+inverse: reserved
 dish: Cannellini zeppole — fried Italian doughnuts with a white bean and ricotta filling, tossed in cinnamon sugar.
 quote: I am not afraid of storms, for I am learning how to bean my sail.
 creature: chameleon

@@ -8,6 +8,7 @@ import {
   type ZodiacId,
 } from "../../../lib/zodiac";
 import {
+  FORTUNE_REPEAT_WINDOW,
   getDailyFortuneIds,
   getDailyText,
   getFacetTitle,
@@ -19,10 +20,6 @@ import {
   type RitualVariant,
 } from "../../../lib/fortune";
 import { fetchZodiac } from "../../../lib/data";
-import {
-  computeSpiritBeanScores,
-  getSpiritZodiacId,
-} from "../../../lib/spiritBean";
 import { useStore } from "../../../store";
 
 function formatLocalDate(date: Date): string {
@@ -31,6 +28,7 @@ function formatLocalDate(date: Date): string {
 
 function buildScoredText(
   trait: string,
+  _inverse: string,
   score: number,
   qualityId: QualityId,
 ): string {
@@ -94,20 +92,29 @@ export interface DailyFortune {
 }
 
 export function useDailyFortune(
-  date: Date,
+  dat: Date,
   claimedSlug: ZodiacId,
 ): DailyFortune {
+  const date = new Date(dat);
+  date.setDate(date.getDate());
   const localDateStr = formatLocalDate(date);
 
   const yesterday = new Date(date);
   yesterday.setDate(yesterday.getDate() - 1);
-  const spiritScores = computeSpiritBeanScores(
-    claimedSlug,
-    formatLocalDate(yesterday),
-  );
-  const spiritSlug = getSpiritZodiacId(spiritScores);
+  // Slugs shown in the FORTUNE_REPEAT_WINDOW days before today, so the roll can
+  // avoid repeating any of them. Past entries are immutable, so this set is
+  // stable and today's fortune stays deterministic.
+  const windowStart = new Date(date);
+  windowStart.setDate(windowStart.getDate() - FORTUNE_REPEAT_WINDOW);
+  const windowStartStr = formatLocalDate(windowStart);
+  const recentSlugs = useStore
+    .getState()
+    .fortuneHistory.filter(
+      (e) => e.date < localDateStr && e.date >= windowStartStr,
+    )
+    .map((e) => e.zodiacId);
   const { zodiacId: fortuneZodiacId, qualityId: rolledQualityId } =
-    getDailyFortuneIds(date, spiritSlug);
+    getDailyFortuneIds(date, claimedSlug, recentSlugs);
   const [fortuneFlavourId, fortuneFormId, fortuneBeanId] =
     fortuneZodiacId.split("-") as [FlavourId, FormId, BeanId];
 
@@ -124,7 +131,7 @@ export function useDailyFortune(
       ? initialEntry.answeredQuality
       : rolledQualityId;
   const initialVariant: RitualVariant =
-    initialEntry?.variant ?? getVariantForSlug(fortuneZodiacId, date);
+    initialEntry?.variant ?? getVariantForSlug(claimedSlug, date);
 
   const [fortuneZodiac, setFortuneZodiac] = useState<Zodiac | null>(null);
   const [score, setScore] = useState(initialScore);
@@ -147,7 +154,14 @@ export function useDailyFortune(
       if (effectiveVariant !== variant) setVariant(effectiveVariant);
 
       if (initiallyScored) {
-        setScoredText(buildScoredText(fortune.trait, initialScore, qualityId));
+        setScoredText(
+          buildScoredText(
+            fortune.trait,
+            fortune.inverse,
+            initialScore,
+            qualityId,
+          ),
+        );
       }
     });
   }, [fortuneZodiacId]);
@@ -219,12 +233,7 @@ export function useDailyFortune(
     setScoringOut(true);
     setTimeout(() => {
       const newScore = score === v ? 0 : v;
-      const newDailyText = getDailyText(
-        fortuneZodiac,
-        qualityId,
-        newScore,
-        date,
-      );
+      const newDailyText = getDailyText(fortuneZodiac, qualityId, newScore);
       persistFortune(fortuneZodiac, {
         qualityId,
         score: newScore,
@@ -233,7 +242,14 @@ export function useDailyFortune(
       setScore(newScore);
       setScored(true);
       setText(newDailyText);
-      setScoredText(buildScoredText(fortuneZodiac.trait, newScore, qualityId));
+      setScoredText(
+        buildScoredText(
+          fortuneZodiac.trait,
+          fortuneZodiac.inverse,
+          newScore,
+          qualityId,
+        ),
+      );
       setScoringOut(false);
     }, 700);
   };
@@ -242,7 +258,7 @@ export function useDailyFortune(
     if (!fortuneZodiac) return;
     setScoringOut(true);
     setTimeout(() => {
-      const newDailyText = getDailyText(fortuneZodiac, answerQuality, 1, date);
+      const newDailyText = getDailyText(fortuneZodiac, answerQuality, 1);
       const isRorschach = variant === "rorschach";
       const newAnswerText = isRorschach
         ? null
@@ -263,7 +279,14 @@ export function useDailyFortune(
       setScored(true);
       setText(newDailyText);
       setAnswerText(newAnswerText ?? newRorschachText);
-      setScoredText(buildScoredText(fortuneZodiac.trait, 1, answerQuality));
+      setScoredText(
+        buildScoredText(
+          fortuneZodiac.trait,
+          fortuneZodiac.inverse,
+          1,
+          answerQuality,
+        ),
+      );
       setScoringOut(false);
     }, 700);
   };

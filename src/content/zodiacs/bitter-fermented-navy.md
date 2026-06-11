@@ -4,6 +4,7 @@ bean: navy
 flavour: bitter
 form: fermented
 trait: bookish
+inverse: streetwise
 dish: Senate Bean Soup - with aged ham and bitter dandelion greens.
 quote: Outside of a bean, a book is a man's best friend. Inside of a bean, it is too dark to read.
 creature: silverfish

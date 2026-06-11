@@ -4,6 +4,7 @@ bean: mung
 flavour: umami
 form: boiled
 trait: quiet
+inverse: boisterous
 dish: Vietnamese mung bean soup with pork and dried shrimp.
 quote: Silence is a bean's wisdom.
 creature: dormouse

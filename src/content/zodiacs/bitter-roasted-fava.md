@@ -1,9 +1,11 @@
 ---
 slug: bitter-roasted-fava
+lastUpdated: 2026-06-24
 bean: fava
 flavour: bitter
 form: roasted
 trait: pioneering
+inverse: imitative
 dish: Muhammara - roasted fava and bitter herbs.
 quote: Well-bean is that which is done for the first time.
 creature: arctic tern
@@ -12,36 +14,31 @@ antiBeans: [navy, cannellini]
 friendlyForm: fried
 antiForm: smoked
 seasonalFortune: A season ground in the stone before the stone has a name. Bitter herb meets charred fava and the paste invents its own colour; whoever tastes it tastes the edge of somewhere unmapped.
-fortuneMost: The thing nobody's asked for yet is yours to start.
-fortuneMost2: A road is opening under your feet where the map showed nothing.
-fortuneHigh: Be first through the door. It only opens this way once, and whoever you're waiting on is waiting on you.
-fortuneHigh2: Name the route before the vote, and the rest fall in behind you.
-fortuneMid: Glance back before the next turn. The silence you've read as agreement might just be no one following.
-fortuneMid2: Float the idea and see who bites before you cut the whole road.
-fortuneLow: The familiar supper in the familiar order has plenty left to give.
-fortuneLow2: Falling in behind whoever sounds surest isn't a defeat.
-fortuneLeast: A path is coming where someone else should scout ahead.
-fortuneLeast2: Another hand opens the door and you follow them in, nose down.
-facetMostTitle: No Recipe, Only Char
+fortuneMost: Enter the void.
+fortuneHigh: Be first through the door — it opens only once.
+fortuneMid: Test the ice, then forge ahead.
+fortuneLow: The bread is still warm — you don't have to go so soon.
+fortuneLeast: A hand lifts the latch — you follow them in.
+facetMostTitle: No Recipe
 facetMost: A skill nobody around you has, a teacher you can't find, and no clear way in — you start teaching it to yourself that night anyway.
 facetHighTitle: First Into the Flame
-facetHigh: Trail closed, the sign says, washed out ahead — so you shoulder the pack and go see for yourself how bad it really is.
-facetMidTitle: Walnut Shifted, Knives Moved
-facetMid: Order the one dish on the menu you can't even picture, and leave the rest of the table to their usual.
-facetLowTitle: The Herb Where It Sat Last Year
-facetLow: New city, a free morning, every street unwalked. You find the same kind of café you'd have found at home and settle in.
+facetHigh: Nothing but pitch-black looking down into the old mansion's basement stairwell. You descend first, and make sure the steps hold.
+facetMidTitle: Walnuts Shifted
+facetMid: There's a dish on the menu you've never heard of and can't even picture. You feel like you have to order it.
+facetLowTitle: The Herb Stays
+facetLow: You've just moved to a new city, and have a free morning. You go to a café that's not dissimilar to ones at home — just to settle in, you'll do some proper exploring later.
 facetLeastTitle: Pomegranate Already Split
-facetLeast: Eyes could swing to you as the group dithers over where to eat — instead you hang back, happy to go wherever the surest voice points.
-question: The trail you meant to follow has washed out, and an unmarked track climbs off into country you don't know. You...
-answerMost: strike up the new track and map it as you go
-answerHigh: take it a way, leaving cairns to find your way back
-answerMid: scout the first bend before committing
-answerLow: stick near the old route and pick along its edge
-answerLeast: turn around and walk back the way you came
-rorschachMost: a ship's prow thrusting out toward open sea
-rorschachHigh: a heron lunging its beak forward to strike
-rorschachMid: a rhino's head lowered, horn pointed left
-rorschachLow: a dog hanging back, nose to the ground
+facetLeast: By the time you get involved with the group project, the plan's been set and your share of it marked. You're glad it fell to someone else to figure out.
+question: In the future, interstellar travel is fairly common. You're offered a place on any of several space missions, each one further out, and into deeper unknown than the last. You...
+answerMost: sign on for the one far beyond the map
+answerHigh: take the one just beyond charted space, with an estimated route home
+answerMid: pick the one that approaches the edge of what's already been explored
+answerLow: choose a short, well-charted run
+answerLeast: pass, and keep your feet on the ground
+rorschachMost: a comet tearing ahead, debris strung out behind
+rorschachHigh: a bird lunging its beak forward
+rorschachMid: an ink splash flung across the page
+rorschachLow: tide pools left where the sea drew back
 rorschachLeast: a snail curled, drawn back into its shell
 ---
 

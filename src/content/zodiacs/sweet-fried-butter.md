@@ -1,9 +1,11 @@
 ---
 slug: sweet-fried-butter
+lastUpdated: 2026-06-16
 bean: butter
 flavour: sweet
 form: fried
 trait: nonchalant
+inverse: perturbed
 dish: Frittelle di fagioli — Tuscan fried white bean fritters, dusted with sugar and drizzled with chestnut honey.
 quote: Whatever, it's beans.
 creature: quokka
@@ -12,20 +14,15 @@ antiBeans: [kidney, green]
 friendlyForm: boiled
 antiForm: fermented
 seasonalFortune: A season at low heat. Things surface in their own time, are dusted with whatever sugar sits nearest, and eaten warm before anyone asks where the recipe came from.
-fortuneMost: Say yes before you've looked at the week.
-fortuneMost2: A missed train, then coffee while you wait for the next — that's the shape of the days coming.
+fortuneMost: A missed train, then coffee while you wait for the next.
 fortuneHigh: That thing you keep fretting was always optional.
-fortuneHigh2: The package is across town at the wrong door.
-fortuneMid: Shrug and start.
-fortuneMid2: Someone cancels twice and the booth is still yours.
-fortuneLow: This one isn't a shrug.
-fortuneLow2: Wipe the rim, fold the cloth, give this one the small care it asks for.
-fortuneLeast: A breezy apology where a heavy one was owed is the one that misses.
-fortuneLeast2: Get in the car and sort it now.
+fortuneMid: It'll probably be fine even if it goes cold.
+fortuneLow: Some things don't dust off; this is one.
+fortuneLeast: The honey stirred in stays; the sugar dusted on blows off.
 facetMostTitle: The Missed Train
 facetMost: Three hours of driving and the campsite's full. The overflow gravel lot it is — blanket down, view's fine from here, nothing worth turning the day sour over.
 facetHighTitle: Honey on the Thumb
-facetHigh: Halfway down a trail you realize you took a wrong fork somewhere back. Backtracking sounds dull, so you wander on to see where this one spills out.
+facetHigh: The icecream the vendor hands you is already dripping a bit. You lick it off the heel of your hand and walk on, in no hurry to hunt for a napkin.
 facetMidTitle: Sugar for One
 facetMid: Someone presses a festival map into your hand at the gate. Into the pocket it goes, unread, and you let the crowd carry you off to wherever it's headed.
 facetLowTitle: The Wiped Rim
@@ -39,7 +36,7 @@ answerMid: text the neighbour and see what shakes out
 answerLow: walk over after work and knock
 answerLeast: get in the car now and sort it
 rorschachMost: a sow sprawled flat in the cool mud
-rorschachHigh: a stingray drifting slow along the seabed
+rorschachHigh: a manta heaving slow through murky water
 rorschachMid: a low boulder with two stubs of lichen
 rorschachLow: a beetle braced, antennae feeling ahead
 rorschachLeast: a crab dug in hard against the current

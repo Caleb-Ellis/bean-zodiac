@@ -4,6 +4,7 @@ bean: black
 flavour: sour
 form: smoked
 trait: withering
+inverse: encouraging
 dish: Sopa tarasca - smoked black bean purée with ancho chile, crema, and pickled chipotle
 quote: Hell hath no fury like a bean scorned.
 creature: spitting cobra
