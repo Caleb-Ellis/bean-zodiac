@@ -5,6 +5,7 @@ flavour: spicy
 form: roasted
 trait: sociable
 inverse: antisocial
+excess: clamorous
 dish: Leblebi - Tunisian roasted chickpeas in spiced broth with harissa and cumin.
 quote: No bean is an island.
 creature: prairie dog

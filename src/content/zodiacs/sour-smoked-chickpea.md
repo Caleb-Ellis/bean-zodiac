@@ -5,6 +5,7 @@ flavour: sour
 form: smoked
 trait: wary
 inverse: unsuspecting
+excess: suspicious
 dish: Smoked chickpea shawarma wrap with sumac-marinated onions and pickled turnips
 quote: Beware the bean of March.
 creature: muntjac

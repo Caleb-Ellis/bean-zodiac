@@ -5,6 +5,7 @@ flavour: spicy
 form: roasted
 trait: hedonistic
 inverse: abstinent
+excess: dissolute
 dish: Harissa gigantes - butter beans oven-roasted with rose harissa, garlic, and olive oil.
 quote: Eat, bean, and be merry, for tomorrow we diet.
 creature: housecat

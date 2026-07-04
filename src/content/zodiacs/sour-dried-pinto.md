@@ -5,6 +5,7 @@ flavour: sour
 form: dried
 trait: astringent
 inverse: soothing
+excess: corrosive
 dish: Pinto bean and dried mulato chile stew with lime.
 quote: Art is not what you see, but what you bean others to see.
 creature: lemon shark

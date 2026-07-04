@@ -5,6 +5,7 @@ flavour: spicy
 form: dried
 trait: unflinching
 inverse: squeamish
+excess: unyielding
 dish: Boston baked beans - navy beans slow-baked with cayenne and dry mustard.
 quote: In matters of principle, stand like a bean.
 creature: grey wolf

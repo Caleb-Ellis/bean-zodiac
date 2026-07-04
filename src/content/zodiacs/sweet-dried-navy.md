@@ -5,6 +5,7 @@ flavour: sweet
 form: dried
 trait: dutiful
 inverse: negligent
+excess: martyred
 dish: White bean and lemon pound cake — dried navy beans cooked and blended into batter, lending the crumb a quiet density you cannot quite name.
 quote: Ask not what your bean can do for you — ask what you can do for your bean.
 creature: draft horse

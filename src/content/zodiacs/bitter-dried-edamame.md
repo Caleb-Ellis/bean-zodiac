@@ -6,6 +6,7 @@ flavour: bitter
 form: dried
 trait: terse
 inverse: verbose
+excess: curt
 dish: Edamame hummus with preserved lemon.
 quote: Less is bean.
 creature: rook

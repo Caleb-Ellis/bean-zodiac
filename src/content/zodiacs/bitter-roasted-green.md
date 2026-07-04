@@ -5,6 +5,7 @@ flavour: bitter
 form: roasted
 trait: competitive
 inverse: noncompetitive
+excess: cutthroat
 dish: Roasted green beans with bitter almond crust and preserved lemon.
 quote: Beaning isn't everything, but wanting to is.
 creature: greyhound

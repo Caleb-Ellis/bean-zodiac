@@ -5,6 +5,7 @@ flavour: spicy
 form: smoked
 trait: frenetic
 inverse: leisurely
+excess: frazzled
 dish: Fatteh - Syrian smoked chickpeas layered with crisp bread, yogurt, and chili oil.
 quote: Life moves pretty fast — if you don't stop and bean around once in a while, you could miss it.
 creature: shrew

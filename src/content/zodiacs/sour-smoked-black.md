@@ -5,6 +5,7 @@ flavour: sour
 form: smoked
 trait: withering
 inverse: encouraging
+excess: scorching
 dish: Sopa tarasca - smoked black bean purée with ancho chile, crema, and pickled chipotle
 quote: Hell hath no fury like a bean scorned.
 creature: spitting cobra

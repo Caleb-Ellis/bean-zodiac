@@ -5,6 +5,7 @@ flavour: umami
 form: dried
 trait: potent
 inverse: impotent
+excess: overwhelming
 dish: Dried green beans rehydrated and dressed with anchovy, capers, and garlic.
 quote: Great beans from little beans do grow.
 creature: minotaur

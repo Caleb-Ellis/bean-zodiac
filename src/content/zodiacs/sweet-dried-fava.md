@@ -5,6 +5,7 @@ flavour: sweet
 form: dried
 trait: indomitable
 inverse: conquerable
+excess: unstoppable
 dish: Maccu dolce — dried fava beans cooked to a thick paste with honey and fennel seed, a Sicilian Carnevale sweet.
 quote: She believed she could bean, so she did.
 creature: destrier

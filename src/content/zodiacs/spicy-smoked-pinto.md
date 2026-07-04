@@ -6,6 +6,7 @@ flavour: spicy
 form: smoked
 trait: erratic
 inverse: consistent
+excess: unhinged
 dish: Texas chili con carne - smoked brisket and pinto beans in ancho and guajillo chile broth.
 quote: Life is what happens to you while you're busy bean other beans.
 creature: gadfly

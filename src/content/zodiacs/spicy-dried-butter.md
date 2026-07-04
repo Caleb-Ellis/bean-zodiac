@@ -5,6 +5,7 @@ flavour: spicy
 form: dried
 trait: volatile
 inverse: stable
+excess: incendiary
 dish: Gigantes plaki - Greek baked giant beans with dried Calabrian chili and preserved lemon.
 quote: Still waters bean deep.
 creature: yellowjacket

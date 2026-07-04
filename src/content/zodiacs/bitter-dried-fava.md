@@ -5,6 +5,7 @@ flavour: bitter
 form: dried
 trait: steely
 inverse: spineless
+excess: hardbitten
 dish: Bessara - fava beans with cumin and bitter harissa.
 quote: That which does not bean me makes me stronger.
 creature: iron wolf

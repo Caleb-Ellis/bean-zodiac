@@ -5,6 +5,7 @@ flavour: bitter
 form: smoked
 trait: reticent
 inverse: talkative
+excess: clammed-up
 dish: Smoked edamame with bitter greens, unseasoned.
 quote: Better to remain silent and be bean than to speak and to remove all doubt.
 creature: clam

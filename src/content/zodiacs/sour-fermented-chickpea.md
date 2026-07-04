@@ -5,6 +5,7 @@ flavour: sour
 form: fermented
 trait: clever
 inverse: dimwitted
+excess: conniving
 dish: Dahi chana - chickpeas with yogurt, tamarind chutney, and chaat masala.
 quote: The secret of being a bean bore is to tell everything.
 creature: raccoon

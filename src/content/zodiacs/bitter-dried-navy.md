@@ -5,6 +5,7 @@ flavour: bitter
 form: dried
 trait: rigid
 inverse: supple
+excess: unbending
 dish: Boston Baked Beans - with blackstrap molasses.
 quote: Rules are for the guidance of wise beans and the obedience of fools.
 creature: stick insect

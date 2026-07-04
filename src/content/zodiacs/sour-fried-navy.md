@@ -5,6 +5,7 @@ flavour: sour
 form: fried
 trait: grumpy
 inverse: genial
+excess: curmudgeonly
 dish: Navy bean croquettes with sauce gribiche - crisp fried navy bean patties with a tangy egg, caper, and mustard sauce.
 quote: I have not bean in the right mood for Beans for the last thirty-seven years.
 creature: wombat

@@ -5,6 +5,7 @@ flavour: bitter
 form: boiled
 trait: analytical
 inverse: muddled
+excess: hyperanalytic
 dish: Edamame and wakame soup with citrus peel.
 quote: If you can't bean it, you can't manage it.
 creature: raven

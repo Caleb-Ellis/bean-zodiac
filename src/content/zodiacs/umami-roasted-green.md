@@ -5,6 +5,7 @@ flavour: umami
 form: roasted
 trait: curious
 inverse: uninterested
+excess: prying
 dish: Roasted green beans with katsuobushi, ponzu, and sesame.
 quote: Curiosity is the bean, always leading to new discoveries.
 creature: ferret

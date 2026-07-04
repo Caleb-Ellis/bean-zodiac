@@ -5,6 +5,7 @@ flavour: umami
 form: fried
 trait: keen
 inverse: lackluster
+excess: overeager
 dish: Edamame gyoza - pan-fried dumplings with edamame, nira, and soy dipping sauce.
 quote: I am always doing that which I cannot do, in order that I may learn how to bean it.
 creature: merlin

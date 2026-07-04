@@ -5,6 +5,7 @@ flavour: bitter
 form: fried
 trait: forensic
 inverse: cursory
+excess: invasive
 dish: Tostada - black beans with charred tomatillo and bitter greens.
 quote: Two things are infinite - the universe and bean stupidity; and I'm not sure about the universe.
 creature: bloodhound

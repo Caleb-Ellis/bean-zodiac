@@ -5,6 +5,7 @@ flavour: spicy
 form: fermented
 trait: obsessive
 inverse: blase
+excess: fixated
 dish: Kidney bean gochujang jorim - Korean braised kidney beans in fermented chili paste.
 quote: One passion, one purpose — and a bean becomes invincible.
 creature: border collie

@@ -5,6 +5,7 @@ flavour: umami
 form: fried
 trait: focused
 inverse: scattered
+excess: tunnel-visioned
 dish: Stir-fried black beans with oyster sauce, ginger, and scallion.
 quote: The bean's rays do not burn until brought to a focus.
 creature: osprey

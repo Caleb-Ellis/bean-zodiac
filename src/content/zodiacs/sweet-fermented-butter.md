@@ -5,6 +5,7 @@ flavour: sweet
 form: fermented
 trait: silly
 inverse: sober
+excess: inane
 dish: Butter bean and labneh with honey — cooked butter beans stirred through strained fermented yogurt and drizzled with wildflower honey.
 quote: The bean abides.
 creature: goose chick

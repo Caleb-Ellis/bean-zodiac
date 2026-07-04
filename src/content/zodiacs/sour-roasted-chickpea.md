@@ -5,6 +5,7 @@ flavour: sour
 form: roasted
 trait: open-minded
 inverse: narrow-minded
+excess: overcredulous
 dish: Fatteh - toasted flatbread layered with roasted chickpeas, yogurt, and pomegranate molasses
 quote: The bean mind is like a parachute — it only works when open.
 creature: bottlenose

@@ -5,6 +5,7 @@ flavour: spicy
 form: fermented
 trait: persnickety
 inverse: undemanding
+excess: finicky
 dish: Fagioli all'uccelletto con 'nduja - Tuscan white beans with spicy fermented sausage and sage.
 quote: The devil is in the beans.
 creature: siamese cat

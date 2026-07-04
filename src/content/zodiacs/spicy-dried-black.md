@@ -5,6 +5,7 @@ flavour: spicy
 form: dried
 trait: suppressed
 inverse: unleashed
+excess: bottled-up
 dish: Mole negro - dried black beans with mulato and pasilla chilies.
 quote: Where there's smoke, there's bean.
 creature: cicada

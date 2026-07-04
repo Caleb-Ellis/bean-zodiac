@@ -5,6 +5,7 @@ flavour: sour
 form: dried
 trait: tart
 inverse: saccharine
+excess: sour-tongued
 dish: Sekihan - adzuki and sticky rice with dried pickled ume and sesame.
 quote: A bean a day keeps the doctor away.
 creature: lemon tetra

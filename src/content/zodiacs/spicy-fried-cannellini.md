@@ -5,6 +5,7 @@ flavour: spicy
 form: fried
 trait: ambitious
 inverse: complacent
+excess: ruthless
 dish: Spicy cannellini and ricotta fritters with Calabrian chili.
 quote: Shoot for the bean. Even if you miss, you will land among the legumes.
 creature: eagle

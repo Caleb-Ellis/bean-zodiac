@@ -5,6 +5,7 @@ flavour: sour
 form: boiled
 trait: sincere
 inverse: insincere
+excess: gushing
 dish: Adzuki bean soup with umeboshi and ginger broth.
 quote: This above all - to thine own bean be true
 creature: flat-coated retriever

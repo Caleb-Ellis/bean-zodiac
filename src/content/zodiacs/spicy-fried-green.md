@@ -5,6 +5,7 @@ flavour: spicy
 form: fried
 trait: headstrong
 inverse: docile
+excess: pigheaded
 dish: Pad prik khing - Thai stir-fried green beans with red curry paste and kaffir lime.
 quote: Well-bean is that which is done with determination.
 creature: bull

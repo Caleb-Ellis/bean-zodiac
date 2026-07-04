@@ -5,6 +5,7 @@ flavour: spicy
 form: boiled
 trait: stubborn
 inverse: tractable
+excess: mulish
 dish: Rajma - Punjabi kidney bean curry with dried red chilies and whole spices.
 quote: It does not matter how slowly you go so long as you do not bean.
 creature: burro

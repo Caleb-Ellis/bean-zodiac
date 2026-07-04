@@ -5,6 +5,7 @@ flavour: spicy
 form: fermented
 trait: offbeat
 inverse: mainstream
+excess: bizarre
 dish: Chickpea fatteh with shatta - Lebanese flatbread and chickpea dish with Palestinian fermented hot sauce.
 quote: I've lost my damn beans.
 creature: axolotl

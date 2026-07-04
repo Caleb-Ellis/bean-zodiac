@@ -5,6 +5,7 @@ flavour: bitter
 form: fermented
 trait: intuitive
 inverse: clueless
+excess: superstitious
 dish: Bindaetteok — Korean mung bean pancakes with bitter herb dipping sauce.
 quote: The intuitive bean is a sacred gift and the rational bean is a faithful servant.
 creature: siamese

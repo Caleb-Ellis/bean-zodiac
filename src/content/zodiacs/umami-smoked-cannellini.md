@@ -6,6 +6,7 @@ flavour: umami
 form: smoked
 trait: regal
 inverse: plebeian
+excess: imperious
 dish: Fagioli all'uccelletto - Tuscan cannellini with smoked pancetta, sage, and tomato.
 quote: The bean shall inherit the earth.
 creature: basilisk

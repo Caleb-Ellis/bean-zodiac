@@ -5,6 +5,7 @@ flavour: umami
 form: boiled
 trait: disciplined
 inverse: unruly
+excess: regimented
 dish: Red beans and rice - Louisiana style with Andouille sausage and the holy trinity, made on a Monday.
 quote: We are what we repeatedly bean. Excellence, then, is not an act, but a habit.
 creature: warhorse

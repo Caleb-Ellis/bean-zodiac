@@ -5,6 +5,7 @@ flavour: sweet
 form: dried
 trait: wholesome
 inverse: unwholesome
+excess: goody-goody
 dish: Besan ladoo — dried chickpeas ground to flour, toasted in ghee, and rolled into warm golden balls with sugar and cardamom.
 quote: Do unto beans as you would have beans do unto you.
 creature: shetland pony

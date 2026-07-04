@@ -29,12 +29,12 @@ and shapes, not abstractions — and crucially, all five must be plausible readi
 **same actual shape**. The tier difference is _which_ reading of that one silhouette you
 offer and its emotional temperature, not a switch to an unrelated picture.
 
-- **Order**, given a trait:
-  - `rorschachMost` — most trait-expressed reading
-  - `rorschachHigh` — leaning into the trait
+- **Order**, running `excess` → `trait` → `inverse`:
+  - `rorschachMost` — aligns with `excess`: the trait at its fullest pitch (turned all the way up)
+  - `rorschachHigh` — `trait`: leaning into the trait
   - `rorschachMid` — most neutral, the "just an image" reading
-  - `rorschachLow` — leaning into the trait's opposite
-  - `rorschachLeast` — the opposite of the trait, strongest
+  - `rorschachLow` — `inverse`: leaning into the trait's opposite
+  - `rorschachLeast` — `inverse`: the opposite of the trait, strongest
 - **Tone**: mostly nonsense. Four of five should read as plausible visual readings with
   no obvious trait freight. The trait-aligned one nudges the reading toward the trait
   expression at that tier without naming it.

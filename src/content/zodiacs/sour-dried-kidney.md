@@ -5,6 +5,7 @@ flavour: sour
 form: dried
 trait: fierce
 inverse: meek
+excess: merciless
 dish: Rajma - kidney beans with dried Kashmiri chiles and tamarind.
 quote: This isn't even my final bean!
 creature: tiger

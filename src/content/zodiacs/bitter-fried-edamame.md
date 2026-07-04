@@ -5,6 +5,7 @@ flavour: bitter
 form: fried
 trait: decisive
 inverse: indecisive
+excess: trigger-happy
 dish: Agedashi - edamame with bitter dashi and daikon.
 quote: In any bean moment of decision, the best thing you can do is the right thing.
 creature: falcon

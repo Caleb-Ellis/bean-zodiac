@@ -5,6 +5,7 @@ flavour: spicy
 form: dried
 trait: audacious
 inverse: diffident
+excess: insolent
 dish: Bessara - Moroccan dried fava bean dip with cumin and chili oil.
 quote: Fortune favors the bean.
 creature: honey badger

@@ -6,6 +6,7 @@ flavour: umami
 form: fermented
 trait: rebellious
 inverse: obedient
+excess: anarchist
 dish: Fava and pixian doubanjiang stir-fry - fava beans with fermented broad bean chili paste and garlic shoots.
 quote: The most common way beans give up their power is by thinking they don't have any.
 creature: brumby

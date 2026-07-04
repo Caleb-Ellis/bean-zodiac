@@ -5,6 +5,7 @@ flavour: bitter
 form: dried
 trait: circumspect
 inverse: heedless
+excess: paranoid
 dish: Ceci in Zimino - chickpeas with bitter chard.
 quote: Look before you bean.
 creature: pangolin

@@ -5,6 +5,7 @@ flavour: sweet
 form: boiled
 trait: kind
 inverse: unkind
+excess: pushover
 dish: Cannellini in vin santo — white beans simmered in sweet wine with a strip of lemon peel and fresh thyme.
 quote: A little bean, a little more bean than absolutely necessary — that is what it means to be kind.
 creature: newfoundland

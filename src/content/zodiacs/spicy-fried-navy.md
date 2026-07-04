@@ -5,6 +5,7 @@ flavour: spicy
 form: fried
 trait: organized
 inverse: disorganized
+excess: controlling
 dish: Spicy navy bean fritters with smoked paprika and hot sauce.
 quote: For every minute spent organizing, a bean is earned.
 creature: honeybee

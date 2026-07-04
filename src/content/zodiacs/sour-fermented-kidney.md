@@ -5,6 +5,7 @@ flavour: sour
 form: fermented
 trait: defensive
 inverse: carefree
+excess: prickly
 dish: Red beans and rice - Louisiana style with fermented hot sauce and lime.
 quote: The best bean is the one already inside the fortress.
 creature: armadillo

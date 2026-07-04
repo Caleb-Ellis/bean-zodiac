@@ -5,6 +5,7 @@ flavour: spicy
 form: roasted
 trait: optimistic
 inverse: downbeat
+excess: pollyannaish
 dish: Gān biān sìjì dòu - Sichuan dry-fried green beans with chili bean paste and Sichuan pepper.
 quote: In the middle of every difficulty lies a beany opportunity.
 creature: robin

@@ -5,6 +5,7 @@ flavour: umami
 form: dried
 trait: distinguished
 inverse: unremarkable
+excess: pompous
 dish: Ribollita - dried cannellini and bread soup with Parmesan rind and lacinato kale.
 quote: A bean is known by the company it keeps.
 creature: stag

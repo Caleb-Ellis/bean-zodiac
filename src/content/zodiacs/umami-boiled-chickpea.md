@@ -6,6 +6,7 @@ flavour: umami
 form: boiled
 trait: adaptable
 inverse: intransigent
+excess: chameleonic
 dish: Garbanzos con setas - chickpeas and wild mushrooms in sherry-braised broth.
 quote: The measure of intelligence is the ability to change beans.
 creature: octopus

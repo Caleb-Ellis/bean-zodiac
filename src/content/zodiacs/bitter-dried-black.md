@@ -5,6 +5,7 @@ flavour: bitter
 form: dried
 trait: laconic
 inverse: garrulous
+excess: monosyllabic
 dish: Black bean soup with ancho chile and dark chocolate.
 quote: Speech is silver; bean is golden.
 creature: dromedary

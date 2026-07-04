@@ -6,6 +6,7 @@ flavour: bitter
 form: fermented
 trait: thoughtful
 inverse: thoughtless
+excess: overthinking
 dish: Butter bean and kimchi broth with bitter greens.
 quote: The unexamined bean is not worth eating.
 creature: burrowing owl

@@ -5,6 +5,7 @@ flavour: umami
 form: dried
 trait: restorative
 inverse: depleting
+excess: enabling
 dish: Moong dal - dried mung beans slow-simmered with turmeric, ginger, and a tadka of cumin.
 quote: Let food be thy bean and bean be thy medicine.
 creature: crane bird

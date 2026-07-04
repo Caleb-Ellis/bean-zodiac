@@ -5,6 +5,7 @@ flavour: umami
 form: dried
 trait: enduring
 inverse: transitory
+excess: interminable
 dish: Boston baked beans - dried navy beans slow-baked with salt pork, molasses, and mustard.
 quote: Endurance is not just the ability to bean a difficult situation — it is to turn it into glory.
 creature: giant tortoise

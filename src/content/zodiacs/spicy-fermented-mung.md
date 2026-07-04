@@ -6,6 +6,7 @@ flavour: spicy
 form: fermented
 trait: compulsive
 inverse: self-controlled
+excess: uncontrollable
 dish: Gỏi đậu xanh - Vietnamese mung bean salad with fermented fish sauce and bird's eye chili.
 quote: The chains of bean are too light to be felt until they are too heavy to be broken.
 creature: lemming

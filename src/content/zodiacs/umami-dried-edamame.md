@@ -5,6 +5,7 @@ flavour: umami
 form: dried
 trait: foundational
 inverse: peripheral
+excess: monolithic
 dish: Hoshi edamame gohan - dried edamame and dried shiitake cooked into dashi rice.
 quote: Well-beaned is half done.
 creature: mammoth turtle

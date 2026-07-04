@@ -5,6 +5,7 @@ flavour: spicy
 form: fried
 trait: risk-taking
 inverse: risk-averse
+excess: daredevil
 dish: Ta'amiya - Egyptian fava bean falafel with green chili and cumin.
 quote: Only those who will bean far can possibly find out how far one can go.
 creature: ratel

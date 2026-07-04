@@ -5,6 +5,7 @@ flavour: umami
 form: roasted
 trait: tolerant
 inverse: intolerant
+excess: overpermissive
 dish: Roasted chickpeas with Worcestershire, smoked paprika, and garlic.
 quote: In the practice of tolerance, one's bean is the best teacher.
 creature: zebu

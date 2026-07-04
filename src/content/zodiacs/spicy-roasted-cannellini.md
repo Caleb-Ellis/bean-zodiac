@@ -5,6 +5,7 @@ flavour: spicy
 form: roasted
 trait: charismatic
 inverse: charmless
+excess: cultish
 dish: Fagioli con nduja - cannellini beans roasted with spicy Calabrian nduja.
 quote: The bean enters the room before you do.
 creature: dolphin

@@ -5,6 +5,7 @@ flavour: sour
 form: fried
 trait: manipulative
 inverse: artless
+excess: exploitative
 dish: Chalupas poblanas - fried masa boats piled with pinto beans, pickled onion, and lime crema.
 quote: It is better to be feared than loved, if you cannot bean both.
 creature: cuckoo

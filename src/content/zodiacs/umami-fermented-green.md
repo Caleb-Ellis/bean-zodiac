@@ -5,6 +5,7 @@ flavour: umami
 form: fermented
 trait: creative
 inverse: uninspired
+excess: fevered
 dish: Paocai - Sichuan lacto-fermented green beans with Sichuan pepper, garlic, and dried chili.
 quote: Creativity is intelligence having bean fun.
 creature: orb weaver

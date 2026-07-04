@@ -11,15 +11,16 @@ and the style spec every rewritten question (and its five answers) must still ho
 
 ## The five answers
 
-The five answers span the trait gradient: `answerMost` is the most extreme expression of
-the trait; `answerLeast` is the trait's opposite. `Mid` is the neutral middle.
+The five answers span the gradient `excess` → `trait` → `inverse`. `answerMost` aligns
+with the entry's `excess` field — the trait at its fullest pitch; `answerHigh` and
+`answerMid` are the `trait` itself; `answerLow` and `answerLeast` cross into the `inverse`.
 
-- **Order**, given a trait like _judicious_:
-  - `answerMost` — most judicious (most patient / most deliberate)
-  - `answerHigh` — judicious
-  - `answerMid` — middling
-  - `answerLow` — somewhat impulsive
-  - `answerLeast` — fully impulsive (the opposite of judicious)
+- **Order**, given a trait like _judicious_ (excess _overcautious_, inverse _impulsive_):
+  - `answerMost` — `excess`: the trait turned all the way up (overcautious / stalling)
+  - `answerHigh` — `trait`: judicious
+  - `answerMid` — `trait` at low expression / middling
+  - `answerLow` — `inverse`, low expression: somewhat impulsive
+  - `answerLeast` — `inverse` fully embraced: fully impulsive (the opposite of judicious)
 - **Form**: short verb phrases that grammatically continue `You...`. No subject — start
   with a verb. ("ask for tea and another five minutes", "point at random and close the
   menu")

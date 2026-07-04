@@ -5,6 +5,7 @@ flavour: sweet
 form: fermented
 trait: whimsical
 inverse: stodgy
+excess: fey
 dish: Green bean elderflower shrub — blanched green beans in a sweet drinking vinegar of fermented honey and elderflower, finished with sparkling water.
 quote: One bean that I had a long time ago.
 creature: pixie

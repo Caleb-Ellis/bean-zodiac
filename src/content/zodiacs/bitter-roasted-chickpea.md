@@ -5,6 +5,7 @@ flavour: bitter
 form: roasted
 trait: outgoing
 inverse: withdrawn
+excess: overfamiliar
 dish: Chaat - roasted chickpeas with bitter lime and green chutney.
 quote: You catch more beans with honey.
 creature: golden retriever

@@ -5,6 +5,7 @@ flavour: bitter
 form: roasted
 trait: elegant
 inverse: inelegant
+excess: prissy
 dish: Bisque - roasted black beans with bitter espresso cream.
 quote: Elegance is not about being noticed, it's about being bean.
 creature: gazelle

@@ -5,6 +5,7 @@ flavour: umami
 form: fried
 trait: principled
 inverse: amoral
+excess: moralistic
 dish: Fagioli con alici - pan-fried cannellini with anchovies, garlic, and olive oil.
 quote: The arc of the bean universe is long, but it bends toward justice.
 creature: elk

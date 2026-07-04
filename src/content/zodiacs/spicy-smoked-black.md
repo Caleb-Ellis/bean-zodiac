@@ -6,6 +6,7 @@ flavour: spicy
 form: smoked
 trait: murky
 inverse: pellucid
+excess: clouded
 dish: Mole negro - Oaxacan black beans simmered in smoked mulato and pasilla chile sauce.
 quote: Still waters run bean.
 creature: catfish

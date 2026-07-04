@@ -5,6 +5,7 @@ flavour: spicy
 form: roasted
 trait: confident
 inverse: self-doubting
+excess: cocksure
 dish: Yaki edamame - oven-roasted edamame with shichimi togarashi and sea salt.
 quote: Whether you think you bean or you think you can't, you're right.
 creature: stallion

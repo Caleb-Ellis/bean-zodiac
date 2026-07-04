@@ -5,6 +5,7 @@ flavour: spicy
 form: boiled
 trait: hardworking
 inverse: indolent
+excess: burned-out
 dish: Szechuan boiled edamame with doubanjiang and dried chilies.
 quote: Genius is one per cent inspiration and ninety-nine per cent beans.
 creature: beaver

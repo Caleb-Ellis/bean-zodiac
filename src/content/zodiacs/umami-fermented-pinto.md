@@ -5,6 +5,7 @@ flavour: umami
 form: fermented
 trait: apathetic
 inverse: impassioned
+excess: catatonic
 dish: Pinto beans slow-braised with fish sauce, caramelised onion, and lime.
 quote: The opposite of bean is not hate, it's indifference.
 creature: sloth

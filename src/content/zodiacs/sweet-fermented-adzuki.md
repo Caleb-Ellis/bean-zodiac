@@ -6,6 +6,7 @@ flavour: sweet
 form: fermented
 trait: sentimental
 inverse: hard-nosed
+excess: maudlin
 dish: Adzuki amazake pudding — red beans warmed through in sweet fermented rice drink with a strip of yuzu peel.
 quote: I kept the recipe. I kept everything.
 creature: whooper swan

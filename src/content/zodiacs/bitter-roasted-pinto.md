@@ -5,6 +5,7 @@ flavour: bitter
 form: roasted
 trait: self-absorbed
 inverse: selfless
+excess: narcissistic
 dish: Frijoles Refritos - with roasted bitter chiles and lard.
 quote: I don't care what you think unless it's about my bean.
 creature: mirror carp

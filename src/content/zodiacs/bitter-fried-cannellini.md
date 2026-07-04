@@ -5,6 +5,7 @@ flavour: bitter
 form: fried
 trait: assertive
 inverse: passive
+excess: domineering
 dish: Cannellini fritto with bitter lemon and flat-leaf parsley.
 quote: Here I stand. I can bean no other.
 creature: ram

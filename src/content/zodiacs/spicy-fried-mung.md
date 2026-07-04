@@ -5,6 +5,7 @@ flavour: spicy
 form: fried
 trait: high-strung
 inverse: laid-back
+excess: overstrung
 dish: Bindaetteok — Korean mung bean pancake with kimchi and gochugaru.
 quote: Beans cannot endure either perfect solitude or perfect society.
 creature: whippet

@@ -6,6 +6,7 @@ flavour: sweet
 form: smoked
 trait: dreamlike
 inverse: concrete
+excess: hallucinatory
 dish: Frijoles charros - pinto beans simmered with smoked bacon, chipotle, sweet tomato, and piloncillo.
 quote: Was it a vision, or a waking bean?
 creature: moth

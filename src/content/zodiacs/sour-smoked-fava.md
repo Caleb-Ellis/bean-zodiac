@@ -6,6 +6,7 @@ flavour: sour
 form: smoked
 trait: biting
 inverse: balmy
+excess: savage
 dish: Bessara - Moroccan smoked fava bean purée with harissa, cumin, and preserved lemon
 quote: If you can't stand the bean, get out of the kitchen.
 creature: piranha

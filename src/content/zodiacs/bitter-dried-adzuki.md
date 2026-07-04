@@ -5,6 +5,7 @@ flavour: bitter
 form: dried
 trait: selective
 inverse: indiscriminate
+excess: exclusionary
 dish: Sekihan - adzuki beans with bitter citrus zest.
 quote: You are the average of the five beans you spend the most time with.
 creature: purple heron

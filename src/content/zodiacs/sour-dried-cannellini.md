@@ -5,6 +5,7 @@ flavour: sour
 form: dried
 trait: exquisite
 inverse: tawdry
+excess: precious
 dish: Cannellini and dried porcini brodo with lemon zest.
 quote: The bean is in the details.
 creature: bird of paradise

@@ -5,6 +5,7 @@ flavour: spicy
 form: boiled
 trait: spirited
 inverse: listless
+excess: rambunctious
 dish: Adzuki bean congee with gochugaru and soft-boiled egg.
 quote: You've gotta have bean.
 creature: colt

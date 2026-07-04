@@ -5,6 +5,7 @@ flavour: sour
 form: roasted
 trait: understated
 inverse: flamboyant
+excess: self-erasing
 dish: Boston baked navy beans with apple cider vinegar, whole grain mustard, and brown sugar
 quote: The bean doth protest too little, methinks.
 creature: marsh wren

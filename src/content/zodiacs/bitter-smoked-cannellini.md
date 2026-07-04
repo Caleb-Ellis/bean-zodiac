@@ -5,6 +5,7 @@ flavour: bitter
 form: smoked
 trait: hermetic
 inverse: porous
+excess: reclusive
 dish: Smoked cannellini with bitter fennel, sealed.
 quote: I want to bean alone.
 creature: snail

@@ -5,6 +5,7 @@ flavour: umami
 form: smoked
 trait: wordless
 inverse: loquacious
+excess: inarticulate
 dish: Garbanzos con bacalao y pimentón ahumado - chickpeas with salt cod and smoked paprika.
 quote: Actions speak louder than bean.
 creature: koi

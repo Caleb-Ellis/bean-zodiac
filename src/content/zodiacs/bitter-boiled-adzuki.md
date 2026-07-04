@@ -6,6 +6,7 @@ flavour: bitter
 form: boiled
 trait: judicious
 inverse: rash
+excess: overcautious
 dish: Adzuki bean soup with chrysanthemum greens and yuzu.
 quote: To bean, or not to bean, that is the question.
 creature: eagle owl

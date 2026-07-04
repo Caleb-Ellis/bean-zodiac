@@ -5,6 +5,7 @@ flavour: spicy
 form: fermented
 trait: mysterious
 inverse: fathomable
+excess: unfathomable
 dish: Jajangmyeon - Korean noodles in fermented black bean and chili sauce.
 quote: I am not strange, I am just a bean.
 creature: black panther

@@ -5,6 +5,7 @@ flavour: sour
 form: dried
 trait: wry
 inverse: humorless
+excess: acid
 dish: Balila - chickpeas with dried black lime and olive oil.
 quote: History doesn't repeat itself, but it does bean.
 creature: western jackdaw

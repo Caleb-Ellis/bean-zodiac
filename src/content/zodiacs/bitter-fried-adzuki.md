@@ -5,6 +5,7 @@ flavour: bitter
 form: fried
 trait: opinionated
 inverse: wishy-washy
+excess: bombastic
 dish: Adzuki bean crispy rice cakes with bitter orange syrup.
 quote: Well-beaned Beans are always dangerous.
 creature: macaw

@@ -5,6 +5,7 @@ flavour: bitter
 form: dried
 trait: ascetic
 inverse: sybaritic
+excess: self-mortifying
 dish: Acquacotta - cannellini and bitter greens.
 quote: Simplicity is the ultimate bean.
 creature: camel

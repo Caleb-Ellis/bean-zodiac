@@ -5,6 +5,7 @@ flavour: spicy
 form: boiled
 trait: resourceful
 inverse: helpless
+excess: opportunistic
 dish: Chana masala - chickpea curry with green chilies.
 quote: Necessity is the bean of invention.
 creature: kestrel hawk

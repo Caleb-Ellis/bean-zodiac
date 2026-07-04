@@ -5,6 +5,7 @@ flavour: umami
 form: boiled
 trait: conscientious
 inverse: unscrupulous
+excess: punctilious
 dish: Pasta e fagioli - cannellini with anchovy paste and Parmesan rind.
 quote: In matters of bean, swim with the current; in matters of principle, stand like a cannellini.
 creature: ant

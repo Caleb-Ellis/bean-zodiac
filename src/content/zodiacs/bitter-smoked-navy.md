@@ -5,6 +5,7 @@ flavour: bitter
 form: smoked
 trait: ominous
 inverse: auspicious
+excess: foreboding
 dish: Smoked navy bean with bitter juniper and char.
 quote: It was a dark and beany night.
 creature: black vulture

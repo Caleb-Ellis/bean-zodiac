@@ -5,6 +5,7 @@ flavour: umami
 form: roasted
 trait: defiant
 inverse: obsequious
+excess: mutinous
 dish: Fave al forno - roasted fava beans with guanciale, pecorino, and wild fennel.
 quote: They tried to bury us. They didn't know we were beans.
 creature: mustang

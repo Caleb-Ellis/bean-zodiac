@@ -5,6 +5,7 @@ flavour: sour
 form: fried
 trait: shrewd
 inverse: gullible
+excess: cunning
 dish: Falafel with sumac onions - fried chickpea patties served with tangy sumac-pickled onions.
 quote: Politics is the art of looking for trouble, finding it everywhere, diagnosing it incorrectly, and applying the wrong beans.
 creature: fennec fox

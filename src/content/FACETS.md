@@ -44,13 +44,17 @@ Low/Least are **"this is the opposite"** probes — accepting *costs* the bean a
 pays out the opposite cluster's tags. The five facets form a signed gradient
 through the entry's `trait`:
 
-| Field        | Expression                                |
-| ------------ | ----------------------------------------- |
-| `facetMost`  | the trait fully embraced (peak trait)     |
-| `facetHigh`  | high expression of the trait              |
-| `facetMid`   | low expression of the trait               |
-| `facetLow`   | low expression of the _opposite_ trait    |
-| `facetLeast` | the opposite trait fully embraced         |
+| Field        | Aligns with | Expression                              |
+| ------------ | ----------- | --------------------------------------- |
+| `facetMost`  | `excess`    | the trait at its fullest pitch          |
+| `facetHigh`  | `trait`     | high expression of the trait            |
+| `facetMid`   | `trait`     | low expression of the trait             |
+| `facetLow`   | `inverse`   | low expression of the opposite trait    |
+| `facetLeast` | `inverse`   | the opposite trait fully embraced       |
+
+The gradient runs `excess` → `trait` → `inverse`. `facetMost` sits at the
+entry's `excess` field — the trait turned all the way up. `High` and `Mid` are the `trait` itself
+at high then low expression. `Low` and `Least` cross into the `inverse`.
 
 Because the button-press *is* the score — and **Resist is just as load-bearing
 as Accept** — two properties matter above all else:

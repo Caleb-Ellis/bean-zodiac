@@ -5,6 +5,7 @@ flavour: bitter
 form: smoked
 trait: otherworldly
 inverse: earthbound
+excess: unearthly
 dish: Smoked fava, twice-prepared, with bitter ash.
 quote: We are made of bean stuff.
 creature: selkie

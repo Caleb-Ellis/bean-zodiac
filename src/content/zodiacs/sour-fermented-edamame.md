@@ -5,6 +5,7 @@ flavour: sour
 form: fermented
 trait: skeptical
 inverse: credulous
+excess: dismissive
 dish: Edamame with gochujang dipping sauce and rice vinegar.
 quote: The first bean principle is that you must not fool yourself — and you are the easiest bean to fool.
 creature: tabby

@@ -5,6 +5,7 @@ flavour: umami
 form: fermented
 trait: philosophical
 inverse: frivolous
+excess: abstruse
 dish: Hatcho miso shiru - adzuki simmered in two-year aged hatcho miso with silken tofu.
 quote: I think, therefore I am a bean.
 creature: great grey owl

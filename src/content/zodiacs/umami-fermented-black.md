@@ -5,6 +5,7 @@ flavour: umami
 form: fermented
 trait: introspective
 inverse: unexamined
+excess: navel-gazing
 dish: Black bean and douchi braise - black soybeans with fermented black bean paste, ginger, and Shaoxing wine.
 quote: Who looks outside, dreams; who looks inside, awakens the bean.
 creature: turtle

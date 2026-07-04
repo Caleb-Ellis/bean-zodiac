@@ -5,6 +5,7 @@ flavour: bitter
 form: fried
 trait: irreverent
 inverse: reverent
+excess: blasphemous
 dish: Taquitos - pinto beans with bitter lime crema and hot sauce.
 quote: Irreverence is the champion of liberty and its only sure bean.
 creature: monkey

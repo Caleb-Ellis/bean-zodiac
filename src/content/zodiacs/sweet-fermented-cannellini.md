@@ -5,6 +5,7 @@ flavour: sweet
 form: fermented
 trait: diplomatic
 inverse: abrasive
+excess: placating
 dish: Cannellini and sake kasu soup — white beans simmered in sweet rice-lees broth with sugar and a curl of yuzu peel.
 quote: Let us never negotiate out of bean. But let us never fear to negotiate.
 creature: ringdove

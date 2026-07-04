@@ -5,6 +5,7 @@ flavour: sweet
 form: fried
 trait: funny
 inverse: mirthless
+excess: buffoonish
 dish: Chickpea flour churros — crispy strips of fried besan batter rolled in sugar and dipped in dark chocolate.
 quote: If you want to tell beans the truth, make them laugh, otherwise they'll kill you.
 creature: kookaburra

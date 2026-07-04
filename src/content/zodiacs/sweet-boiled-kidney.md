@@ -5,6 +5,7 @@ flavour: sweet
 form: boiled
 trait: compassionate
 inverse: heartless
+excess: self-sacrificing
 dish: Rajma kheer — kidney beans boiled until tender and simmered in sweetened milk with cardamom and rose water.
 quote: If you want others to be happy, practise bean. If you want to be happy, practise bean.
 creature: elephant

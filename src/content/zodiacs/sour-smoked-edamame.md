@@ -5,6 +5,7 @@ flavour: sour
 form: smoked
 trait: surgical
 inverse: ham-fisted
+excess: sterile
 dish: Dashi-smoked edamame with ponzu - edamame cold-smoked over kombu and served in citrus soy
 quote: First, do no bean.
 creature: kingfisher

@@ -5,6 +5,7 @@ flavour: bitter
 form: fried
 trait: deliberate
 inverse: hasty
+excess: plodding
 dish: Schnitzel - crumbed butter beans with bitter salsa verde.
 quote: Well-behaved beans seldom make history.
 creature: stork

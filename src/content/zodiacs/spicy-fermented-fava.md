@@ -5,6 +5,7 @@ flavour: spicy
 form: fermented
 trait: subversive
 inverse: law-abiding
+excess: seditious
 dish: Spicy fava with doubanjiang and Sichuan pepper.
 quote: The most bean act in a conformist world is to think for yourself.
 creature: mole

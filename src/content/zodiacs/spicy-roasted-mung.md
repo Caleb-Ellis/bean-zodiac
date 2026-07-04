@@ -5,6 +5,7 @@ flavour: spicy
 form: roasted
 trait: clingy
 inverse: standoffish
+excess: possessive
 dish: Bhuna mung - dry-roasted whole mung beans with chili, cumin, and dried mango.
 quote: Love is that condition in which the happiness of another bean is essential to your own.
 creature: koala

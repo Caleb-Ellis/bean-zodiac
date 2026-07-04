@@ -5,6 +5,7 @@ flavour: sour
 form: roasted
 trait: earnest
 inverse: flippant
+excess: priggish
 dish: Sopa de frijol negro con tomatillo asado - black bean soup with roasted tomatillos and lime crema
 quote: The importance of being bean.
 creature: spaniel

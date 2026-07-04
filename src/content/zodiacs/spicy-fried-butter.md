@@ -5,6 +5,7 @@ flavour: spicy
 form: fried
 trait: energetic
 inverse: lethargic
+excess: hyperactive
 dish: Spicy butter bean croquetas - fried bean cakes with smoked paprika.
 quote: The world is charged with the grandeur of the bean.
 creature: hare

@@ -5,6 +5,7 @@ flavour: spicy
 form: boiled
 trait: zealous
 inverse: indifferent
+excess: evangelical
 dish: Sichuan boiled green beans with doubanjiang and peppercorn.
 quote: I have nothing to offer but bean, toil, tears and sweat.
 creature: fox terrier

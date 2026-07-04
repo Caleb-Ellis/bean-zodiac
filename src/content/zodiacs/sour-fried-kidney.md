@@ -5,6 +5,7 @@ flavour: sour
 form: fried
 trait: argumentative
 inverse: peaceable
+excess: quarrelsome
 dish: Rajma tikki with imli chutney - pan-fried Indian kidney bean patties with tamarind dipping sauce.
 quote: In the beginning was the bean, and the bean was with argument, and the bean was argument.
 creature: magpie

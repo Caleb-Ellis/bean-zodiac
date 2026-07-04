@@ -5,6 +5,7 @@ flavour: spicy
 form: smoked
 trait: consuming
 inverse: passing
+excess: devouring
 dish: Red beans and rice - New Orleans kidney beans slow-cooked with smoked andouille and Cajun spice.
 quote: Love is a smoke made with the fume of bean.
 creature: locust

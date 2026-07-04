@@ -5,6 +5,7 @@ flavour: sour
 form: fermented
 trait: pessimistic
 inverse: sanguine
+excess: doom-laden
 dish: Frijoles charros - pinto beans with fermented chipotle, bacon, and lime.
 quote: A bean who expects nothing is never disappointed.
 creature: petrel

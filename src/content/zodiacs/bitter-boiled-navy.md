@@ -5,6 +5,7 @@ flavour: bitter
 form: boiled
 trait: dogmatic
 inverse: tentative
+excess: doctrinaire
 dish: Navy bean and escarole soup.
 quote: A bean convinced against his will is of the same opinion still.
 creature: donkey

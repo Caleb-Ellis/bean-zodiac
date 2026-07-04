@@ -5,6 +5,7 @@ flavour: spicy
 form: fermented
 trait: provocative
 inverse: innocuous
+excess: inflammatory
 dish: Adzuki doenjang jjigae - Korean fermented soybean paste stew with gochugaru and tofu.
 quote: Every act of creation is first an act of bean destruction.
 creature: shrike thrush

@@ -5,6 +5,7 @@ flavour: sweet
 form: boiled
 trait: joyful
 inverse: sorrowful
+excess: giddy
 dish: Oshiruko - Japanese sweet adzuki soup with toasted rice cake floating on top.
 quote: Life is what happens to you while you're busy making other beans.
 creature: spinner dolphin

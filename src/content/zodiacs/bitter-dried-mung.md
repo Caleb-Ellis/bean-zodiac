@@ -6,6 +6,7 @@ flavour: bitter
 form: dried
 trait: clinical
 inverse: emotional
+excess: cold-blooded
 dish: Moong Dal - mung beans with methi and turmeric.
 quote: First, do no harm to beans.
 creature: mantis

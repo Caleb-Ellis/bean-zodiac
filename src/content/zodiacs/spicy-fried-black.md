@@ -5,6 +5,7 @@ flavour: spicy
 form: fried
 trait: relentless
 inverse: intermittent
+excess: unremitting
 dish: Tostadas de frijoles negros - fried tortillas with spiced black bean paste and salsa roja.
 quote: If you're going through bean hell, keep going.
 creature: mako shark

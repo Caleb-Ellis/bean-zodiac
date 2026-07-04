@@ -5,6 +5,7 @@ flavour: spicy
 form: smoked
 trait: dogged
 inverse: faltering
+excess: bullheaded
 dish: Cassoulet - French slow-cooked navy beans with smoked duck confit, Toulouse sausage, and piment d'Espelette.
 quote: It's not whether you get knocked down, it's whether you bean up.
 creature: terrier

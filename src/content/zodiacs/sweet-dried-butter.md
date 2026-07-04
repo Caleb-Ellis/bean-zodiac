@@ -6,6 +6,7 @@ flavour: sweet
 form: dried
 trait: serene
 inverse: agitated
+excess: vacant
 dish: Butter bean and honey semifreddo — dried butter beans cooked to silk and folded into whipped honey cream, then frozen.
 quote: Peace begins with bean.
 creature: white crane

@@ -5,6 +5,7 @@ flavour: sour
 form: roasted
 trait: cheerful
 inverse: morose
+excess: manic
 dish: Fagiolini al limone - oven-roasted green beans with lemon zest, garlic, and toasted almonds
 quote: The most bean thing you can do is smile through your tears.
 creature: bluebird

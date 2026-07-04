@@ -5,6 +5,7 @@ flavour: sour
 form: fermented
 trait: perceptive
 inverse: imperceptive
+excess: hyperaware
 dish: Black beans with douchi sauce, Chinkiang vinegar, and garlic.
 quote: We don't see things as they are, we see them as bean.
 creature: harpy eagle

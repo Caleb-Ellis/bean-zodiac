@@ -6,6 +6,7 @@ flavour: bitter
 form: roasted
 trait: witty
 inverse: witless
+excess: smart-alecky
 dish: Roasted edamame with bitter lemon zest and smoked paprika.
 quote: A bean is a terrible thing to waste.
 creature: laughing kookaburra

@@ -28,21 +28,22 @@ function formatLocalDate(date: Date): string {
 
 function buildScoredText(
   trait: string,
-  _inverse: string,
+  inverse: string,
+  excess: string,
   score: number,
   qualityId: QualityId,
 ): string {
   const pick = <T>(arr: T[]) => arr[Math.floor(Math.random() * arr.length)]!;
   const phrase =
     qualityId === "heirloom"
-      ? `the extremely ${trait} bean`
+      ? `the ${excess} bean`
       : qualityId === "market"
         ? `the very ${trait} bean`
         : qualityId === "garden"
           ? `the ${trait} bean`
           : qualityId === "stale"
-            ? `the not-so ${trait} bean`
-            : `the not-even-remotely ${trait} bean`;
+            ? `the ${inverse} bean`
+            : `the very ${inverse} bean`;
   const Phrase = phrase.charAt(0).toUpperCase() + phrase.slice(1);
   if (score === 0) {
     return pick([
@@ -158,6 +159,7 @@ export function useDailyFortune(
           buildScoredText(
             fortune.trait,
             fortune.inverse,
+            fortune.excess,
             initialScore,
             qualityId,
           ),
@@ -246,6 +248,7 @@ export function useDailyFortune(
         buildScoredText(
           fortuneZodiac.trait,
           fortuneZodiac.inverse,
+          fortuneZodiac.excess,
           newScore,
           qualityId,
         ),
@@ -283,6 +286,7 @@ export function useDailyFortune(
         buildScoredText(
           fortuneZodiac.trait,
           fortuneZodiac.inverse,
+          fortuneZodiac.excess,
           1,
           answerQuality,
         ),

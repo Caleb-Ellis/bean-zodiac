@@ -5,6 +5,7 @@ flavour: sweet
 form: fried
 trait: protective
 inverse: endangering
+excess: suffocating
 dish: Hotteok with red bean — Korean street pancakes fried until blistered, filled with sweetened kidney bean paste and brown sugar.
 quote: We must protect the beans at all cost!
 creature: rottweiler

@@ -5,6 +5,7 @@ flavour: bitter
 form: fried
 trait: entrepreneurial
 inverse: unenterprising
+excess: overextended
 dish: Panisse - chickpea fritters with bitter herb aioli.
 quote: The bean who moves a mountain begins by carrying away small stones.
 creature: magpie lark

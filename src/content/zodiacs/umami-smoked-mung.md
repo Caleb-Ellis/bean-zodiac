@@ -5,6 +5,7 @@ flavour: umami
 form: smoked
 trait: steeped
 inverse: uninitiated
+excess: saturated
 dish: Smoked mung bean congee with century egg, ginger, and crispy shallots.
 quote: We do not bean from experience — we bean from reflecting on experience.
 creature: tea frog

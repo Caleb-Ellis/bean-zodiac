@@ -5,6 +5,7 @@ flavour: sour
 form: fried
 trait: meticulous
 inverse: sloppy
+excess: overprecise
 dish: Fagioli al limone con capperi - Italian cannellini beans pan-fried with capers, garlic, and lemon zest.
 quote: For every bean, there is a season, and a proper form.
 creature: satin bowerbird

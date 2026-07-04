@@ -5,6 +5,7 @@ flavour: sweet
 form: smoked
 trait: disarming
 inverse: intimidating
+excess: seductive
 dish: Smoked edamame gyoza with sweet hoisin and black vinegar dipping sauce.
 quote: You bean me at hello.
 creature: puppy

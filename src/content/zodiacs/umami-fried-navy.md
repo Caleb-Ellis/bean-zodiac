@@ -5,6 +5,7 @@ flavour: umami
 form: fried
 trait: arrogant
 inverse: modest
+excess: insufferable
 dish: Crispy navy beans with dashi glaze, bonito flakes, and nori.
 quote: The only true wisdom is knowing you know nothing about beans.
 creature: peacock

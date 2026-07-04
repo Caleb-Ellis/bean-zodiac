@@ -5,6 +5,7 @@ flavour: bitter
 form: fermented
 trait: questioning
 inverse: unquestioning
+excess: second-guessing
 dish: Fava bean soup with harissa yogurt and bitter orange.
 quote: The bean that gets questioned, gets answered.
 creature: lemur

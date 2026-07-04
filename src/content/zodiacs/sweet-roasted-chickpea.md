@@ -5,6 +5,7 @@ flavour: sweet
 form: roasted
 trait: fun
 inverse: dreary
+excess: showboating
 dish: Cinnamon honey roasted chickpeas — oven-blistered until crunchy, tossed hot in honey, cinnamon, and a pinch of cardamom.
 quote: The best way to find yourself is to lose yourself in the service of other beans.
 creature: sea otter

@@ -5,6 +5,7 @@ flavour: sour
 form: roasted
 trait: fair
 inverse: unjust
+excess: legalistic
 dish: Rajma tikki - pan-seared kidney bean cakes with amchur and mint chutney
 quote: Injustice anywhere is a threat to bean everywhere.
 creature: ibis

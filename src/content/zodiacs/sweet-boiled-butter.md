@@ -6,6 +6,7 @@ flavour: sweet
 form: boiled
 trait: compliant
 inverse: insubordinate
+excess: subservient
 dish: Butter bean and maple pudding — beans boiled soft and folded into warm cream with maple syrup and a grating of nutmeg.
 quote: The bean that bends does not break.
 creature: sheep

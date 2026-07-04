@@ -6,6 +6,7 @@ flavour: bitter
 form: fried
 trait: incisive
 inverse: obtuse
+excess: trenchant
 dish: Crispy navy beans with bitter chicory and anchovy.
 quote: You see the bean, but you do not observe it.
 creature: goshawk

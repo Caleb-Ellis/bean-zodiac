@@ -6,6 +6,7 @@ flavour: umami
 form: fried
 trait: scrupulous
 inverse: lax
+excess: overscrupulous
 dish: Pan-fried kidney bean cakes with red miso, sake, and sesame.
 quote: Moralising and bean are two arts that seldom go together.
 creature: harvester ant

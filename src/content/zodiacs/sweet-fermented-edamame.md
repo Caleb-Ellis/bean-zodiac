@@ -5,6 +5,7 @@ flavour: sweet
 form: fermented
 trait: practiced
 inverse: amateurish
+excess: rote
 dish: Edamame in mirin and sake reduction — soybeans lacquered in sweet rice wine, simmered until each one is evenly coated and glossed.
 quote: Patience is bitter, but its bean is sweet.
 creature: old wolf

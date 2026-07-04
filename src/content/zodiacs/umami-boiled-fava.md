@@ -5,6 +5,7 @@ flavour: umami
 form: boiled
 trait: vigilant
 inverse: inattentive
+excess: hypervigilant
 dish: Fave e guanciale - fava beans simmered with cured pork jowl and sage.
 quote: Eternal bean is the price of liberty.
 creature: sentinel hawk

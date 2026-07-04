@@ -6,6 +6,7 @@ flavour: sweet
 form: fermented
 trait: contemplative
 inverse: unreflective
+excess: ruminative
 dish: Black bean and white miso caramel tart — sweet miso folded into caramel over a black bean base, baked until just set.
 quote: I think, therefore I am a bean.
 creature: owl

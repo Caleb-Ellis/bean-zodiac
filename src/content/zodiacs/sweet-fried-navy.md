@@ -5,6 +5,7 @@ flavour: sweet
 form: fried
 trait: romantic
 inverse: hardheaded
+excess: lovesick
 dish: Navy bean beignets — fried dough pillows with a white bean cream filling, dusted generously in powdered sugar.
 quote: My bean leaps up when I behold a rainbow in the sky.
 creature: black swan

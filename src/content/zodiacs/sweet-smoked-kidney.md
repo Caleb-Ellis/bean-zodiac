@@ -6,6 +6,7 @@ flavour: sweet
 form: smoked
 trait: enamored
 inverse: repulsed
+excess: besotted
 dish: Red beans and rice - kidney beans slow-cooked with smoked andouille, sweet bell pepper, and thyme.
 quote: The heart has its bean that reason knows nothing of.
 creature: turtledove

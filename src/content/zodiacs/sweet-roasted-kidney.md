@@ -6,6 +6,7 @@ flavour: sweet
 form: roasted
 trait: overprotective
 inverse: permissive
+excess: stifling
 dish: Kidney bean and dark chocolate roasted clusters — red beans bound in dark chocolate and coconut sugar, roasted into crunchy mounds.
 quote: The bean loved too well, that is the trouble.
 creature: goose

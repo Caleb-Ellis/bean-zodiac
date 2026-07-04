@@ -5,6 +5,7 @@ flavour: sour
 form: smoked
 trait: piercing
 inverse: muted
+excess: lacerating
 dish: Ribollita - Tuscan bread soup with cannellini, smoked pancetta, cavolo nero, and red wine vinegar
 quote: The truth will bean you free.
 creature: shrike

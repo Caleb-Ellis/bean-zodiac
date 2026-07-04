@@ -5,6 +5,7 @@ flavour: spicy
 form: dried
 trait: mordant
 inverse: kindly
+excess: scathing
 dish: Dried edamame with shichimi togarashi and yuzu salt.
 quote: Be yourself; everyone else is already beaned.
 creature: scorpion

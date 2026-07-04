@@ -5,6 +5,7 @@ flavour: umami
 form: roasted
 trait: receptive
 inverse: closed-off
+excess: suggestible
 dish: Slow-roasted butter beans with anchovies, garlic, and rosemary.
 quote: The ear of the bean hears all and judges nothing.
 creature: spaniel pup

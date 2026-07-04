@@ -5,6 +5,7 @@ flavour: spicy
 form: boiled
 trait: guarded
 inverse: forthcoming
+excess: impregnable
 dish: Senate bean soup - navy bean with jalapeño and ham hock.
 quote: Good beans make good neighbours.
 creature: hermit crab

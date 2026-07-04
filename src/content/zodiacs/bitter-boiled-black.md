@@ -6,6 +6,7 @@ flavour: bitter
 form: boiled
 trait: measured
 inverse: impetuous
+excess: leaden
 dish: Black bean soup with epazote and bitter orange.
 quote: It was the best of beans, it was the worst of beans.
 creature: grey heron

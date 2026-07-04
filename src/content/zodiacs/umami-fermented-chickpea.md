@@ -5,6 +5,7 @@ flavour: umami
 form: fermented
 trait: innovative
 inverse: derivative
+excess: disruptive
 dish: Chickpea tempeh - fermented whole chickpeas pan-fried and glazed with miso and sesame.
 quote: Imagination is more important than knowledge about beans.
 creature: crow

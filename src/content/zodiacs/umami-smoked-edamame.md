@@ -6,6 +6,7 @@ flavour: umami
 form: smoked
 trait: prescient
 inverse: unwitting
+excess: doomsaying
 dish: Smoked edamame with soy tare, bonito, and shichimi togarashi.
 quote: The future belongs to those who bean in the beauty of their dreams.
 creature: augur owl

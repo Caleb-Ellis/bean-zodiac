@@ -5,6 +5,7 @@ flavour: bitter
 form: fermented
 trait: intense
 inverse: lackadaisical
+excess: overpowering
 dish: Doenjang Jjigae - red beans with bitter greens.
 quote: Beware the bean who is quiet in a crisis.
 creature: peregrine

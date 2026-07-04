@@ -5,6 +5,7 @@ flavour: sweet
 form: fried
 trait: fidgety
 inverse: motionless
+excess: twitchy
 dish: Green bean tempura with matcha sugar — blistered in light batter and tossed in powdered green tea and fine sugar.
 quote: I have measured out my bean in coffee spoons.
 creature: chipmunk

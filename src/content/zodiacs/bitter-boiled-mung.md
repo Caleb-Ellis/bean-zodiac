@@ -5,6 +5,7 @@ flavour: bitter
 form: boiled
 trait: careful
 inverse: careless
+excess: fastidious
 dish: Mung bean and bitter melon soup.
 quote: Measure twice, bean once.
 creature: deer

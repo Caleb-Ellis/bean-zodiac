@@ -5,6 +5,7 @@ flavour: bitter
 form: smoked
 trait: haunted
 inverse: untroubled
+excess: tormented
 dish: Smoked kidney bean with bitter ember oil.
 quote: I see bean people.
 creature: barn owl

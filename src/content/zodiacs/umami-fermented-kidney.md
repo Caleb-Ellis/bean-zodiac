@@ -5,6 +5,7 @@ flavour: umami
 form: fermented
 trait: conflicted
 inverse: wholehearted
+excess: tortured
 dish: Kimchi jjigae - kidney bean and kimchi stew with pork belly, tofu, and sesame oil.
 quote: The heart has its bean that reason knows not of.
 creature: chimera

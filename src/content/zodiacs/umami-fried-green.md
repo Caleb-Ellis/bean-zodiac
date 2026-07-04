@@ -5,6 +5,7 @@ flavour: umami
 form: fried
 trait: overachieving
 inverse: underachieving
+excess: self-destructive
 dish: Gan bian si ji dou - dry-fried green beans with pork mince, dried shrimp, and garlic.
 quote: Whatever you are, bean a good one.
 creature: dam beaver

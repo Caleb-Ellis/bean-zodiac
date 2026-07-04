@@ -88,6 +88,7 @@ export type ZodiacSchema = {
   form: string;
   trait: string;
   inverse: string;
+  excess: string;
   dish: string;
   quote: string;
   seasonalFortune: string;

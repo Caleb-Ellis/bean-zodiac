@@ -5,6 +5,7 @@ flavour: umami
 form: smoked
 trait: languid
 inverse: brisk
+excess: enervated
 dish: Southern butter beans with smoked ham hock and pot liquor.
 quote: Slow and bean wins the race.
 creature: leopard

@@ -5,6 +5,7 @@ flavour: bitter
 form: smoked
 trait: liminal
 inverse: grounded
+excess: dislocated
 dish: Smoked chickpea broth with bitter cress, unresolved.
 quote: Not all those who bean are lost.
 creature: will-o-the-wisp

@@ -5,6 +5,7 @@ flavour: umami
 form: fried
 trait: aggressive
 inverse: pacific
+excess: belligerent
 dish: Stir-fried fava beans with doubanjiang, ginger, and soy.
 quote: The best bean defense is a good offense.
 creature: rhino

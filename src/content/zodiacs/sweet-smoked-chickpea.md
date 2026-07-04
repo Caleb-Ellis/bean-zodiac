@@ -5,6 +5,7 @@ flavour: sweet
 form: smoked
 trait: beguiling
 inverse: off-putting
+excess: bewitching
 dish: Smoked chickpea and sweet potato tagine with honey, preserved lemon, and ras el hanout.
 quote: Come bean with me and be my love.
 creature: siren

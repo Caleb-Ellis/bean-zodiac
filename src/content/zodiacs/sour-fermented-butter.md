@@ -5,6 +5,7 @@ flavour: sour
 form: fermented
 trait: minimalist
 inverse: maximalist
+excess: austere
 dish: Butter bean and labneh with preserved lemon and olive oil.
 quote: Less is bean.
 creature: egret

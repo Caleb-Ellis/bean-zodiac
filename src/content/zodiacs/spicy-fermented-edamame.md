@@ -5,6 +5,7 @@ flavour: spicy
 form: fermented
 trait: inventive
 inverse: unoriginal
+excess: overengineering
 dish: Edamame with spicy fermented black bean sauce and sesame.
 quote: I'm a great bean believer in luck, and I find the harder I work, the more I have of it.
 creature: kea

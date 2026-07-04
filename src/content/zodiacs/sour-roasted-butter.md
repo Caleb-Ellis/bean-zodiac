@@ -5,6 +5,7 @@ flavour: sour
 form: roasted
 trait: guileless
 inverse: scheming
+excess: unworldly
 dish: Butter bean traybake with preserved lemon, roasted garlic, and rosemary
 quote: To bean or not to bean — actually, yes, obviously. Why would you not.
 creature: duckling

@@ -5,6 +5,7 @@ flavour: spicy
 form: fermented
 trait: eccentric
 inverse: ordinary
+excess: kooky
 dish: Kimchi jjigae with butter beans - fermented napa cabbage stew with gochugaru.
 quote: Here is your bean, soft reader. It is a little strange and so am I.
 creature: platypus

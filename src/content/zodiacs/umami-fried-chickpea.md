@@ -6,6 +6,7 @@ flavour: umami
 form: fried
 trait: proactive
 inverse: reactive
+excess: meddling
 dish: Crispy chickpeas with fish sauce, toasted garlic, and lime.
 quote: Do not wait to strike till the bean is hot, but make it hot by striking.
 creature: pika

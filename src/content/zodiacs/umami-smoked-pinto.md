@@ -5,6 +5,7 @@ flavour: umami
 form: smoked
 trait: atmospheric
 inverse: antiseptic
+excess: oppressive
 dish: Texas smoked pinto beans with brisket drippings, chipotle, and epazote.
 quote: Wherever you go, there you bean.
 creature: heron

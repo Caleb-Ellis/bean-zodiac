@@ -5,6 +5,7 @@ flavour: umami
 form: smoked
 trait: solemn
 inverse: jovial
+excess: funereal
 dish: Feijoada - Brazilian black bean stew with smoked chouriço, carne seca, and bay leaf.
 quote: Ask not what your bean can do for you — ask what you can do for your bean.
 creature: horned owl

@@ -5,6 +5,7 @@ flavour: umami
 form: fermented
 trait: reflective
 inverse: unthinking
+excess: self-scrutinizing
 dish: Shiro ae - butter beans dressed in white miso, ground sesame, and tofu.
 quote: Who looks outside, dreams; who looks inside, finds a bean.
 creature: scops owl

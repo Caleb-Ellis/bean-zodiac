@@ -5,6 +5,7 @@ flavour: sweet
 form: fermented
 trait: gentle
 inverse: brutal
+excess: toothless
 dish: Bánh men — Vietnamese sweet mung bean cakes made with fermented rice wine batter, steamed until just set.
 quote: In a tough world, the most rebellious thing you can do is be a gentle bean.
 creature: doe

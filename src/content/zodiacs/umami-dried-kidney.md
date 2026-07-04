@@ -5,6 +5,7 @@ flavour: umami
 form: dried
 trait: faithful
 inverse: treacherous
+excess: slavish
 dish: Rajma masala - dried kidney beans in spiced onion-tomato gravy.
 quote: The bean that burns twice as bright burns half as long.
 creature: collie

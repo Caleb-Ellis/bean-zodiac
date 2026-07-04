@@ -5,6 +5,7 @@ flavour: spicy
 form: smoked
 trait: barbed
 inverse: complimentary
+excess: venomous
 dish: Cazuela de alubias - Castilian white bean stew with smoked chorizo and pimentón ahumado.
 quote: Out of the frying bean and into the fire.
 creature: porcupine

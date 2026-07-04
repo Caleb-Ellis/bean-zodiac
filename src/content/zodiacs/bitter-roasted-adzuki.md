@@ -5,6 +5,7 @@ flavour: bitter
 form: roasted
 trait: polished
 inverse: uncouth
+excess: lacquered
 dish: Roasted adzuki soup with bitter cacao and orange peel.
 quote: Have no fear of bean perfection — you'll never reach it.
 creature: seal

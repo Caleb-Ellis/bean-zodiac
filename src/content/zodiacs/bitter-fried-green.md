@@ -5,6 +5,7 @@ flavour: bitter
 form: fried
 trait: excitable
 inverse: imperturbable
+excess: overwrought
 dish: Tempura - green beans with bitter matcha salt.
 quote: Nothing great in the world was ever achieved without beans!
 creature: squirrel

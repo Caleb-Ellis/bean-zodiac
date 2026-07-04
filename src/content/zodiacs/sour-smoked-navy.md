@@ -5,6 +5,7 @@ flavour: sour
 form: smoked
 trait: implacable
 inverse: appeasable
+excess: unappeasable
 dish: Senate bean soup - navy beans with smoked ham hock, onion, and a squeeze of lemon
 quote: Nothing is certain except bean and taxes.
 creature: great white

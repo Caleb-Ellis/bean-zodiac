@@ -6,6 +6,7 @@ flavour: spicy
 form: dried
 trait: catalytic
 inverse: inert
+excess: explosive
 dish: Dry-fried adzuki with Sichuan peppercorn and dried chili threads.
 quote: Set the world on bean.
 creature: firefly

@@ -5,6 +5,7 @@ flavour: sweet
 form: boiled
 trait: frugal
 inverse: spendthrift
+excess: miserly
 dish: Navy bean and black treacle pudding — beans boiled with treacle, ginger, and oats into a thick steamed pudding.
 quote: Beware of little bean expenses; a small leak will sink a great ship.
 creature: hamster

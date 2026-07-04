@@ -6,6 +6,7 @@ flavour: sour
 form: roasted
 trait: transparent
 inverse: opaque
+excess: exhibitionist
 dish: Iri-azuki - roasted adzuki beans with yuzu zest and sea salt
 quote: The naked bean is the most decent thing in the world.
 creature: glass frog

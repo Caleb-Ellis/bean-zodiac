@@ -5,6 +5,7 @@ flavour: bitter
 form: fermented
 trait: scholarly
 inverse: ignorant
+excess: donnish
 dish: Cannellini in aged pecorino broth with bitter cicoria.
 quote: I have not failed. I have just found ten thousand ways that will not produce a bean.
 creature: long-eared owl

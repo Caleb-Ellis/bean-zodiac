@@ -5,6 +5,7 @@ flavour: spicy
 form: smoked
 trait: ferocious
 inverse: tame
+excess: vicious
 dish: Dashi-smoked edamame with yuzu kosho - cold-smoked edamame with spicy citrus pepper paste.
 quote: Cry 'Havoc!' and let slip the beans of war.
 creature: wolverine

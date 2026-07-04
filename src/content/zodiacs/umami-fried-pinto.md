@@ -5,6 +5,7 @@ flavour: umami
 form: fried
 trait: unreliable
 inverse: trusty
+excess: flaky
 dish: Frijoles refritos con chorizo - pinto beans fried in lard with Mexican chorizo and ancho chile.
 quote: I am not bean enough to make promises I cannot keep.
 creature: wisp

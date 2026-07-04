@@ -5,6 +5,7 @@ flavour: spicy
 form: smoked
 trait: hushed
 inverse: raucous
+excess: muffled
 dish: Southern succotash - smoked butter beans with corn, jalapeño, and smoked bacon.
 quote: Speak softly and carry a big bean.
 creature: barred owl

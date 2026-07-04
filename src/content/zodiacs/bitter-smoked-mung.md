@@ -5,6 +5,7 @@ flavour: bitter
 form: smoked
 trait: fairylike
 inverse: lumbering
+excess: flimsy
 dish: Smoked mung with bitter chrysanthemum and wood ear.
 quote: Tread softly because you bean on my dreams.
 creature: sprite

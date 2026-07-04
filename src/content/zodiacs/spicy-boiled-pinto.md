@@ -6,6 +6,7 @@ flavour: spicy
 form: boiled
 trait: moody
 inverse: even-tempered
+excess: sullen
 dish: Frijoles de olla - pinto beans simmered with chile de árbol.
 quote: I am not moody — I am a bean with feelings.
 creature: tomcat

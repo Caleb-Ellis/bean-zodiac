@@ -5,6 +5,7 @@ flavour: spicy
 form: roasted
 trait: magnetic
 inverse: repellent
+excess: mesmerizing
 dish: Frijoles negros enchipotlados - black beans roasted and simmered in chipotle adobo.
 quote: Some beans walk in the rain, others just get wet.
 creature: manta ray

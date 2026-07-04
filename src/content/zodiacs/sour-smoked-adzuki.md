@@ -5,6 +5,7 @@ flavour: sour
 form: smoked
 trait: acrid
 inverse: fragrant
+excess: caustic
 dish: Kimchi jjigae with smoked adzuki - adzuki bean stew with kimchi, tofu, and gochugaru
 quote: The bean is mightier than the sword.
 creature: skunk

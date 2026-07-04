@@ -5,6 +5,7 @@ flavour: bitter
 form: roasted
 trait: refined
 inverse: crude
+excess: effete
 dish: Bruschetta - cannellini with bitter olive tapenade and roasted garlic.
 quote: A bean by any other name would taste as fine.
 creature: mute swan

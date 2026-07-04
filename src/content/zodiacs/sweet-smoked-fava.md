@@ -5,6 +5,7 @@ flavour: sweet
 form: smoked
 trait: dazzling
 inverse: drab
+excess: blinding
 dish: Bessara - smoked fava bean dip with smoked paprika, cumin, and honey drizzle.
 quote: All that glitters is not beans.
 creature: hummingbird

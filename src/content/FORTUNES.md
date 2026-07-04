@@ -24,18 +24,23 @@ Mix all four across a bean's ten lines; let no one register dominate.
 
 One fortune per slot. Each must satisfy every rule here.
 
-| Field          | Expression                              |
-| -------------- | --------------------------------------- |
-| `fortuneMost`  | the trait fully embraced                |
-| `fortuneHigh`  | high expression of the trait            |
-| `fortuneMid`   | low expression of the trait             |
-| `fortuneLow`   | low expression of the _opposite_ trait  |
-| `fortuneLeast` | the opposite trait fully embraced       |
+| Field          | Aligns with | Expression                              |
+| -------------- | ----------- | --------------------------------------- |
+| `fortuneMost`  | `excess`    | the trait at its fullest pitch          |
+| `fortuneHigh`  | `trait`     | high expression of the trait            |
+| `fortuneMid`   | `trait`     | low expression of the trait             |
+| `fortuneLow`   | `inverse`   | low expression of the opposite trait    |
+| `fortuneLeast` | `inverse`   | the opposite trait fully embraced       |
 
-Sit cleanly at each point — `Most` celebrates _this_ trait, not a neighbour — and
-keep adjacent slots (Low vs. Least) from collapsing together. `Low` and `Least`
-lean toward the opposite trait: give them a small **wary edge** (an acknowledged
-cost), not pure cheer. Warmth stays; brevity outranks the edge when they conflict.
+The column runs `excess` → `trait` → `inverse`. `Most` sits at the entry's
+`excess` field — the trait turned all the way up. `High` and `Mid` are the `trait` itself at high then
+low expression. `Low` and `Least` cross into the `inverse`.
+
+Sit cleanly at each point — `Most` speaks the _excess_ of this trait, not a
+neighbour — and keep adjacent slots (Low vs. Least) from collapsing together.
+`Low` and `Least` lean toward the opposite trait: give them a small **wary edge**
+(an acknowledged cost), not pure cheer. Warmth stays; brevity outranks the edge
+when they conflict.
 
 Older zodiac entries with a 2 variant of each fortune should remove them - there should only be 5 fortunes per zodiac entry.
 

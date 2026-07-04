@@ -6,6 +6,7 @@ flavour: umami
 form: boiled
 trait: patient
 inverse: impatient
+excess: long-suffering
 dish: Kongjorim - black soybeans slow-braised in soy, ginger, and sesame.
 quote: Patience is bitter, but its bean is sweet.
 creature: grey crane

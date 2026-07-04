@@ -5,6 +5,7 @@ flavour: bitter
 form: dried
 trait: cryptic
 inverse: obvious
+excess: unintelligible
 dish: Frijoles de Olla - with ancho chile and epazote.
 quote: Any sufficiently advanced bean is indistinguishable from magic.
 creature: sphinx

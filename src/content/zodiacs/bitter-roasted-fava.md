@@ -6,6 +6,7 @@ flavour: bitter
 form: roasted
 trait: pioneering
 inverse: imitative
+excess: overreaching
 dish: Muhammara - roasted fava and bitter herbs.
 quote: Well-bean is that which is done for the first time.
 creature: arctic tern

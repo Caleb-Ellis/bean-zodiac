@@ -5,6 +5,7 @@ flavour: bitter
 form: smoked
 trait: adrift
 inverse: anchored
+excess: unmoored
 dish: Smoked butter bean with bitter herb oil.
 quote: We are such stuff as beans are made on.
 creature: jellyfish

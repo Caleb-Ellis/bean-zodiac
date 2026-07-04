@@ -5,6 +5,7 @@ flavour: bitter
 form: roasted
 trait: prudent
 inverse: imprudent
+excess: penny-pinching
 dish: Roasted navy bean and bitter endive salad with mustard vinaigrette.
 quote: In preparing to bean, I have always found that plans are useless, but planning is indispensable.
 creature: field mouse

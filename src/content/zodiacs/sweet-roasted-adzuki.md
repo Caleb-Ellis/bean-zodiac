@@ -5,6 +5,7 @@ flavour: sweet
 form: roasted
 trait: happy
 inverse: miserable
+excess: euphoric
 dish: Adzuki bean brittle — adzuki beans roasted with brown sugar and black sesame until crackling and amber.
 quote: Take it! Take more! I'll make another batch!
 creature: lark

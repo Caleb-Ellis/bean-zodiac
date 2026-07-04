@@ -5,6 +5,7 @@ flavour: spicy
 form: boiled
 trait: adamant
 inverse: wavering
+excess: obstinate
 dish: Spiced fava bean soup with berbere and lemon.
 quote: I am not a bean to be argued out of what I know to be right.
 creature: mule

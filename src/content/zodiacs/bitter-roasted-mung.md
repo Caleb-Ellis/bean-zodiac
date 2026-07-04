@@ -5,6 +5,7 @@ flavour: bitter
 form: roasted
 trait: humble
 inverse: boastful
+excess: self-negating
 dish: Khichdi - roasted mung beans with bitter fenugreek.
 quote: Blessed are the bean in spirit, for theirs is the kingdom of heaven.
 creature: wren

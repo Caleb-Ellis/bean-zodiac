@@ -5,6 +5,7 @@ flavour: bitter
 form: roasted
 trait: proud
 inverse: self-effacing
+excess: vainglorious
 dish: Roasted kidney bean stew with charred bitter peppers and smoked paprika.
 quote: It is not the bean that stoops who loses dignity, but the one who forgets why they stood.
 creature: indian peafowl

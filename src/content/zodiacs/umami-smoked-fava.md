@@ -5,6 +5,7 @@ flavour: umami
 form: smoked
 trait: primal
 inverse: cultivated
+excess: feral
 dish: Broad beans with smoked streaky bacon, mint, and pecorino.
 quote: In the beginning, there was bean.
 creature: dire wolf

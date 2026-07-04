@@ -5,6 +5,7 @@ flavour: sweet
 form: fried
 trait: distractible
 inverse: single-minded
+excess: scatterbrained
 dish: Pinto bean sopapillas — fried puffed pastry with sweet pinto bean paste inside, drizzled with honey at the table.
 quote: A bean divided against itself cannot bean.
 creature: sparrow

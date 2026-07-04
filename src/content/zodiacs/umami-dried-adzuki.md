@@ -6,6 +6,7 @@ flavour: umami
 form: dried
 trait: reverential
 inverse: disrespectful
+excess: grovelling
 dish: Azuki no nimono - dried adzuki simmered in dashi and soy.
 quote: The bean is in the ritual, not the result.
 creature: sacred ibis

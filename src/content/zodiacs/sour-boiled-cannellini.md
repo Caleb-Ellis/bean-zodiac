@@ -5,6 +5,7 @@ flavour: sour
 form: boiled
 trait: exacting
 inverse: lenient
+excess: tyrannical
 dish: Ribollita - Tuscan cannellini with red wine vinegar and cavolo nero.
 quote: Good enough is the enemy of the bean.
 creature: weaverbird

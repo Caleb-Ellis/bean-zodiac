@@ -5,6 +5,7 @@ flavour: umami
 form: roasted
 trait: attentive
 inverse: distracted
+excess: hovering
 dish: Roasted edamame with nori salt, sesame, and yuzu zest.
 quote: To pay bean attention, this is our endless and proper work.
 creature: meerkat

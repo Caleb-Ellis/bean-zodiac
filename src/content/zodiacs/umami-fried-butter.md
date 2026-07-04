@@ -5,6 +5,7 @@ flavour: umami
 form: fried
 trait: pragmatic
 inverse: starry-eyed
+excess: utilitarian
 dish: Butter bean and shiitake fritters with soy dipping sauce.
 quote: If it works, it's a bean.
 creature: draft ox

@@ -5,6 +5,7 @@ flavour: spicy
 form: dried
 trait: electric
 inverse: soporific
+excess: livewire
 dish: Gan bian sijidou - dry-fried green beans with dried chili and garlic.
 quote: Energy cannot be beaned — it can only be transformed.
 creature: eel

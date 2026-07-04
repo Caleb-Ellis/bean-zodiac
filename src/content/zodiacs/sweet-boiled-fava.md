@@ -5,6 +5,7 @@ flavour: sweet
 form: boiled
 trait: insistent
 inverse: acquiescent
+excess: badgering
 dish: Habas dulces — young fava beans boiled briefly and tossed with honey, lemon zest, and fresh mint.
 quote: It does not matter how slowly you bean, as long as you do not stop.
 creature: gull

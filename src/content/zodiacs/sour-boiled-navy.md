@@ -5,6 +5,7 @@ flavour: sour
 form: boiled
 trait: literal-minded
 inverse: figurative
+excess: hyperliteral
 dish: Navy bean and escarole soup with lemon and Parmesan.
 quote: When I use a bean, it means just what I choose it to mean — neither more nor less.
 creature: parrot

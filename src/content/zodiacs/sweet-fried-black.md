@@ -5,6 +5,7 @@ flavour: sweet
 form: fried
 trait: driven
 inverse: unmotivated
+excess: workaholic
 dish: Black bean and sweet plantain fritters — mashed black beans and ripe plantain fried together in rounds, crisp outside and sweet within.
 quote: Stay hungry, stay bean.
 creature: husky

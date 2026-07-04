@@ -6,6 +6,7 @@ flavour: sweet
 form: roasted
 trait: lighthearted
 inverse: grave
+excess: featherbrained
 dish: Butter beans roasted with vanilla sugar and lemon zest — caramelised at the edges, softly golden throughout.
 quote: A day without beans is like a day without sunshine, so bring extra beans.
 creature: finch

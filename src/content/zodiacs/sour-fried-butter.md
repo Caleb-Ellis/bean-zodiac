@@ -5,6 +5,7 @@ flavour: sour
 form: fried
 trait: efficient
 inverse: inefficient
+excess: machinelike
 dish: Butter bean fritters with preserved lemon aioli - crispy pan-fried butter bean patties with a sharp citrus dipping sauce.
 quote: Give me six hours to chop down a bean and I will spend the first four sharpening the axe.
 creature: worker bee

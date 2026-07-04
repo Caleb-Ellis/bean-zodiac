@@ -6,6 +6,7 @@ flavour: bitter
 form: boiled
 trait: detail-oriented
 inverse: slapdash
+excess: nitpicking
 dish: Pinto bean caldo with epazote and tomatillo.
 quote: The bean is in the details.
 creature: bowerbird

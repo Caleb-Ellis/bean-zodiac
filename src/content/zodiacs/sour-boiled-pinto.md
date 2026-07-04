@@ -5,6 +5,7 @@ flavour: sour
 form: boiled
 trait: sarcastic
 inverse: ingenuous
+excess: mocking
 dish: Pinto bean and tomatillo caldo with lime and serrano.
 quote: Sarcasm is the lowest form of wit but the highest form of bean.
 creature: kea parrot

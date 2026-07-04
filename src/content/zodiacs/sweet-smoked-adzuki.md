@@ -6,6 +6,7 @@ flavour: sweet
 form: smoked
 trait: luminous
 inverse: dour
+excess: garish
 dish: Zenzai - sweet adzuki bean soup with smoked brown sugar syrup and toasted mochi.
 quote: We are all in the bean, but some of us are looking at the stars.
 creature: anglerfish

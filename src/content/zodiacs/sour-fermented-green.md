@@ -5,6 +5,7 @@ flavour: sour
 form: fermented
 trait: quirky
 inverse: humdrum
+excess: affected
 dish: Green bean kimchi - fermented green beans with gochugaru, garlic, and rice vinegar.
 quote: We are all bean, but some of us are looking at the stars.
 creature: narwhal

@@ -5,6 +5,7 @@ flavour: umami
 form: fermented
 trait: calculating
 inverse: naive
+excess: machiavellian
 dish: Navy bean and aged miso gratin with Gruyère and toasted breadcrumb.
 quote: It is not enough to bean well; one must also bean at the right time.
 creature: spider

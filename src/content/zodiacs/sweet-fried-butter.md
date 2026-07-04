@@ -6,6 +6,7 @@ flavour: sweet
 form: fried
 trait: nonchalant
 inverse: perturbed
+excess: cavalier
 dish: Frittelle di fagioli — Tuscan fried white bean fritters, dusted with sugar and drizzled with chestnut honey.
 quote: Whatever, it's beans.
 creature: quokka
