@@ -6,7 +6,7 @@ flavour: spicy
 form: fermented
 trait: compulsive
 inverse: self-controlled
-excess: uncontrollable
+excess: pathological
 dish: Gỏi đậu xanh - Vietnamese mung bean salad with fermented fish sauce and bird's eye chili.
 quote: The chains of bean are too light to be felt until they are too heavy to be broken.
 creature: lemming
@@ -21,7 +21,7 @@ fortuneMid: A smaller hunger waits beneath the loud one.
 fortuneLow: An old habit has gone quiet.
 fortuneLeast: A craving rises, breaks, leaves no groove.
 facetMostTitle: The Chili Between Molars
-facetMost: You locked the front door and you know you locked it. Walk back and try the handle a third time, just to make sure.
+facetMost: You locked the front door and you know you locked it. But you know you have no choice but to walk back and try the handle a third time, just to make sure.
 facetHighTitle: Fish Sauce Before the Lid
 facetHigh: Your fingers have find the loose thread on your sleeve, the chip in the mug rim, the edge of the label. Pick at it, and pick at it again, the way you can't seem not to.
 facetMidTitle: Oil Rings on the Rim

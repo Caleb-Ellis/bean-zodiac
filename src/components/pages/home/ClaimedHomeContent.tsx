@@ -84,7 +84,7 @@ export default function ClaimedHomeContent({
   const handleRelinquish = () => {
     if (
       window.confirm(
-        "Are you sure you want to relinquish your Bean? Your Beaniary, Legunomicon and Spirit Bean will be reset.",
+        "Are you sure you want to relinquish your Bean? Your Beaniary, Beanstalk and Spirit Bean will be lost permanently.",
       )
     ) {
       useStore.getState().relinquish();
@@ -134,7 +134,7 @@ export default function ClaimedHomeContent({
                     </p>
                   </div>
                   {text ? (
-                    <p className="italic text-zinc-200 sm:text-lg text-center sm:text-left">
+                    <p className="italic text-zinc-200 sm:text-lg text-center text-balance sm:text-left">
                       "{text}"
                     </p>
                   ) : (
@@ -142,12 +142,9 @@ export default function ClaimedHomeContent({
                       This bean had nothing to say to you this day.
                     </p>
                   )}
-                  <a
-                    href="/beanstalk"
-                    className="text-sm text-zinc-400 hover:text-zinc-200 underline transition-colors"
-                  >
-                    View in Beanstalk →
-                  </a>
+                  <p className="text-xs text-zinc-500 text-center sm:text-left">
+                    Come back tomorrow for a new Bean.
+                  </p>
                 </div>
               </div>
             </div>

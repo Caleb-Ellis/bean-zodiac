@@ -12,13 +12,13 @@ const getQualityLabel = (
 ): { text: string; className: string } | undefined => {
   switch (qualityId) {
     case QualityIds.Heirloom:
-      return { text: "Vivid", className: "text-effect-gold" };
+      return { text: "Overcooked", className: "text-effect-bruise" };
     case QualityIds.Market:
-      return { text: "Bright", className: "text-effect-emerald" };
+      return { text: "Well-Cooked", className: "text-effect-emerald" };
     case QualityIds.Stale:
-      return { text: "Faded", className: "text-effect-fog" };
+      return { text: "Undercooked", className: "text-effect-fog" };
     case QualityIds.Rotten:
-      return { text: "Inverse", className: "text-effect-void" };
+      return { text: "Raw", className: "text-effect-void" };
     default:
       return undefined;
   }

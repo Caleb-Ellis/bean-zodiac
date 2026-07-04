@@ -13,13 +13,13 @@ and the style spec every rewritten question (and its five answers) must still ho
 
 The five answers span the gradient `excess` → `trait` → `inverse`. `answerMost` aligns
 with the entry's `excess` field — the trait at its fullest pitch; `answerHigh` and
-`answerMid` are the `trait` itself; `answerLow` and `answerLeast` cross into the `inverse`.
+`answerMid` are the `trait` itself; `answerLow` is a light opposite or absence of the `trait`; `answerLeast` crosses into the `inverse`.
 
 - **Order**, given a trait like _judicious_ (excess _overcautious_, inverse _impulsive_):
   - `answerMost` — `excess`: the trait turned all the way up (overcautious / stalling)
   - `answerHigh` — `trait`: judicious
   - `answerMid` — `trait` at low expression / middling
-  - `answerLow` — `inverse`, low expression: somewhat impulsive
+  - `answerLow` — `trait`, low expression: somewhat impulsive / not judicious
   - `answerLeast` — `inverse` fully embraced: fully impulsive (the opposite of judicious)
 - **Form**: short verb phrases that grammatically continue `You...`. No subject — start
   with a verb. ("ask for tea and another five minutes", "point at random and close the

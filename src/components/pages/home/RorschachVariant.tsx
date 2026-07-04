@@ -20,16 +20,6 @@ export default function RorschachVariant({
   // its cycles and the splat collapses to a blob. The PNG is the filter baked at
   // high res (scripts/bake-rorschach.mjs), so mobile just downscales it sharp.
   const blotUrl = `url(/images/rorschach/${zodiacId}.png)`;
-  const flavour = `var(--flavour-${fortuneZodiac.flavour})`;
-  const form = `var(--form-${fortuneZodiac.form})`;
-  const bean = `var(--bean-${fortuneZodiac.bean})`;
-  // Three radial blooms of ink, one per colour, bleeding over a flat base.
-  const gradient = [
-    `radial-gradient(circle at 30% 26%, ${flavour}, transparent 60%)`,
-    `radial-gradient(circle at 72% 34%, ${form}, transparent 60%)`,
-    `radial-gradient(circle at 50% 78%, ${bean}, transparent 65%)`,
-    `linear-gradient(${bean}, ${bean})`,
-  ].join(", ");
 
   const shuffledTiers = useMemo(() => {
     const arr = [...ANSWER_TIERS];
@@ -64,7 +54,7 @@ export default function RorschachVariant({
         <div
           className="w-36 h-36"
           style={{
-            backgroundImage: gradient,
+            backgroundColor: "white",
             maskImage: blotUrl,
             WebkitMaskImage: blotUrl,
             maskRepeat: "no-repeat",

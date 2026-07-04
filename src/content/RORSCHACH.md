@@ -33,7 +33,7 @@ offer and its emotional temperature, not a switch to an unrelated picture.
   - `rorschachMost` — aligns with `excess`: the trait at its fullest pitch (turned all the way up)
   - `rorschachHigh` — `trait`: leaning into the trait
   - `rorschachMid` — most neutral, the "just an image" reading
-  - `rorschachLow` — `inverse`: leaning into the trait's opposite
+  - `rorschachLow` — `trait`: leaning into the trait's absence or opposite
   - `rorschachLeast` — `inverse`: the opposite of the trait, strongest
 - **Tone**: mostly nonsense. Four of five should read as plausible visual readings with
   no obvious trait freight. The trait-aligned one nudges the reading toward the trait

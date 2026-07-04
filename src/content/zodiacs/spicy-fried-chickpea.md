@@ -5,7 +5,7 @@ flavour: spicy
 form: fried
 trait: spontaneous
 inverse: calculated
-excess: harum-scarum
+excess: hare-brained
 dish: Pakora - spiced chickpea fritters with green chili.
 quote: Life is either a daring adventure or no bean at all.
 creature: impala

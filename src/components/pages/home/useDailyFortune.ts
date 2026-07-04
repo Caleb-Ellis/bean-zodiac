@@ -42,8 +42,8 @@ function buildScoredText(
         : qualityId === "garden"
           ? `the ${trait} bean`
           : qualityId === "stale"
-            ? `the ${inverse} bean`
-            : `the very ${inverse} bean`;
+            ? `the not-very ${trait} bean`
+            : `the ${inverse} bean`;
   const Phrase = phrase.charAt(0).toUpperCase() + phrase.slice(1);
   if (score === 0) {
     return pick([
@@ -51,6 +51,14 @@ function buildScoredText(
       `You and ${phrase} regard each other from afar.`,
       `${Phrase} notes your silence and moves on.`,
       `${Phrase} leaves nothing behind today.`,
+      `${Phrase} waits a moment, then turns away.`,
+      `Neither you nor ${phrase} finds anything to say.`,
+      `${Phrase} keeps its counsel and lets you keep yours.`,
+      `${Phrase} lingers at the edge of the day, then is gone.`,
+      `You watch ${phrase} go without calling after it.`,
+      `${Phrase} offers no sign, and asks none of you.`,
+      `The day holds ${phrase} at arm's length.`,
+      `${Phrase} settles, unread, and dims.`,
     ]);
   }
   if (score > 0) {
@@ -59,6 +67,11 @@ function buildScoredText(
       `${Phrase} recognises you, and offers this:`,
       `${Phrase} leans in to speak:`,
       `${Phrase} has been waiting for you. It says:`,
+      `${Phrase} warms to you and confides:`,
+      `${Phrase} finds a kindred shape in you, and says:`,
+      `${Phrase} unfolds itself for you:`,
+      `${Phrase} turns to face you and speaks plainly:`,
+      `${Phrase} opens, and this is what spills out:`,
     ]);
   }
   return pick([
@@ -66,6 +79,9 @@ function buildScoredText(
     `You and ${phrase} are strangers, yet it speaks:`,
     `You turn from ${phrase}. It speaks across that distance:`,
     `${Phrase} does not recognise you, but offers this:`,
+    `${Phrase} owes you nothing, and still says:`,
+    `You and ${phrase} pull opposite ways. It says anyway:`,
+    `Across the gap between you, ${phrase} says:`,
   ]);
 }
 

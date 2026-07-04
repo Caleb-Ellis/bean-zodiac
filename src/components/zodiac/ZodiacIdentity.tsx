@@ -93,18 +93,31 @@ export default function ZodiacIdentity({
         </section>
       )}
       {onClaim !== undefined && !hasClaimed && (
-        <div className="relative h-14 w-full max-w-sm flex items-center justify-center mt-1">
+        <div className="relative h-16 w-full max-w-sm flex items-center justify-center mt-1">
           <button
             onClick={onClaim}
-            className={`absolute inset-0 flex items-center justify-center bg-zinc-900/80 border-2 border-zinc-500/60 text-white rounded-xl px-8 font-bold backdrop-blur-sm transition-[opacity,transform,border-color,background-color] duration-300 hover:border-zinc-400 hover:bg-zinc-800/80 cursor-pointer ${claimed || hasClaimed ? "opacity-0 translate-y-2 pointer-events-none" : "opacity-100 translate-y-0"}`}
+            className={`absolute inset-0 flex flex-col items-center justify-center gap-0.5 bg-zinc-900/80 border-2 border-zinc-500/60 text-white rounded-xl px-8 font-bold backdrop-blur-sm transition-[opacity,transform,border-color,background-color] duration-300 hover:border-zinc-400 hover:bg-zinc-800/80 cursor-pointer ${claimed || hasClaimed ? "opacity-0 translate-y-2 pointer-events-none" : "opacity-100 translate-y-0"}`}
           >
-            Claim the {preparation} {bean.name}
+            <span>
+              Claim the{" "}
+              <ZodiacName
+                flavourId={metadata.flavourId}
+                formId={metadata.formId}
+                beanId={metadata.beanId}
+                preparation={preparation}
+                beanName={bean.name}
+                asLink={false}
+              />
+            </span>
+            <span className="text-sm font-normal text-zinc-400">
+              and receive daily wisdom
+            </span>
           </button>
           <a
             href="/"
             className={`absolute inset-0 flex items-center justify-center text-zinc-300 transition-[opacity,transform] duration-300 underline ${claimed ? "opacity-100 translate-y-0 delay-300" : "opacity-0 translate-y-2 pointer-events-none"}`}
           >
-            You are ready to receive daily wisdom →
+            You are ready →
           </a>
         </div>
       )}

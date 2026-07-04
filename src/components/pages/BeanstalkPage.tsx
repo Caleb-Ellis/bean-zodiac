@@ -69,7 +69,11 @@ export default function BeanstalkPage({ data }: Props) {
       {/* Beanstalk */}
       <section id="beanstalk" className="flex flex-col items-center gap-8">
         <div className="text-center">
-          <h1 className="text-4xl sm:text-6xl font-bold mb-4">The Beanstalk</h1>
+          <h1 className="text-4xl sm:text-6xl font-bold">The Beanstalk</h1>
+          <p className="mt-4 text-lg text-zinc-300 max-w-xl mx-auto">
+            A record of all Bean Wisdom you've received — and a chart of how far
+            you've drifted from the Bean you claimed.
+          </p>
         </div>
 
         <div className="max-w-6xl w-full mb-4">

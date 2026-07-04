@@ -29,12 +29,12 @@ One fortune per slot. Each must satisfy every rule here.
 | `fortuneMost`  | `excess`    | the trait at its fullest pitch          |
 | `fortuneHigh`  | `trait`     | high expression of the trait            |
 | `fortuneMid`   | `trait`     | low expression of the trait             |
-| `fortuneLow`   | `inverse`   | low expression of the opposite trait    |
+| `fortuneLow`   | `trait`     | absence of the trait, or low expression of the opposite    |
 | `fortuneLeast` | `inverse`   | the opposite trait fully embraced       |
 
 The column runs `excess` → `trait` → `inverse`. `Most` sits at the entry's
 `excess` field — the trait turned all the way up. `High` and `Mid` are the `trait` itself at high then
-low expression. `Low` and `Least` cross into the `inverse`.
+low expression. `Low` is a light opposite or absence of the `trait`. `Least` crosses into the `inverse`.
 
 Sit cleanly at each point — `Most` speaks the _excess_ of this trait, not a
 neighbour — and keep adjacent slots (Low vs. Least) from collapsing together.

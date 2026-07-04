@@ -49,12 +49,12 @@ through the entry's `trait`:
 | `facetMost`  | `excess`    | the trait at its fullest pitch          |
 | `facetHigh`  | `trait`     | high expression of the trait            |
 | `facetMid`   | `trait`     | low expression of the trait             |
-| `facetLow`   | `inverse`   | low expression of the opposite trait    |
+| `facetLow`   | `trait`     | low expression of the opposite trait    |
 | `facetLeast` | `inverse`   | the opposite trait fully embraced       |
 
 The gradient runs `excess` → `trait` → `inverse`. `facetMost` sits at the
 entry's `excess` field — the trait turned all the way up. `High` and `Mid` are the `trait` itself
-at high then low expression. `Low` and `Least` cross into the `inverse`.
+at high then low expression. `Low` is a light opposite or absence of the `trait`. `Least` crosses into the `inverse`.
 
 Because the button-press *is* the score — and **Resist is just as load-bearing
 as Accept** — two properties matter above all else:
@@ -244,3 +244,9 @@ order or compressed too hard — rebuild it so each noun arrives already grounde
   yourself" as a reflexive opener, the self-justifying reframe-tail, and named
   office props all turn from texture to wallpaper through repetition. When one
   shows up, ask whether the bean's own imagery would do the work instead.
+- **Cut the reflexive intensifier.** A stock tail-clause that only cranks a dial —
+  signalling how fast, how eagerly, how completely the beat happened — adds no
+  information the verb didn't already carry, and its precision is fake: it anchors
+  to nothing the reader would actually notice. Worse, it resolves the beat shut,
+  voting on the outcome the button is meant to decide. Trust the verb, or spend
+  the words on one real, load-bearing detail instead.

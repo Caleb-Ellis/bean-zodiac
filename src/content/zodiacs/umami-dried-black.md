@@ -1,5 +1,6 @@
 ---
 slug: umami-dried-black
+lastUpdated: 2026-07-05
 bean: black
 flavour: umami
 form: dried
@@ -14,37 +15,32 @@ antiBeans: [adzuki, mung]
 friendlyForm: smoked
 antiForm: roasted
 seasonalFortune: A pot left on low heat all afternoon teaches what the morning could not. The dark broth gathers slowly, and the cook who hurries the lid finds only salt.
-fortuneMost: A thought you've let simmer for days has marrow in it now. Let it out before the moment wanders off to bed.
-fortuneMost2: Something you say with no warning will be carried for years by the one who hears it.
-fortuneHigh: A small question is coming with a larger one folded inside it. Answer the part they were really asking.
-fortuneHigh2: Walk a long road alone and the thing you've been circling will finally settle into words.
-fortuneMid: Hold the question through the evening. Answer in the morning.
-fortuneMid2: Ask the follow-up, not the verdict.
-fortuneLow: Move things around until the place makes sense, and trust the sense your hands made without plumbing it.
-fortuneLow2: Take an answer at its surface for once.
-fortuneLeast: Pay what's owed, say the apology, and let the matter close before it can deepen.
-fortuneLeast2: Good news comes plain this time, with nothing underneath to excavate. Let it be exactly as light as it looks.
+fortuneMost: The untamable sperm whale is indifferent to human struggle.
+fortuneHigh: Bones give up their marrow first.
+fortuneMid: Look for the question within the question.
+fortuneLow: Some things are only as deep as they look.
+fortuneLeast: Take the good news plainly, do not dig for more.
 facetMostTitle: The Smoke Finding the Bone
-facetMost: Past the easy answer, down toward the true one — that's where you head when a child on the bus asks why the tide goes out.
+facetMost: A child at a birthday party asks how the balloons float. You start talking about air and helium, but somehow hear yourself getting into what wants to rise and what holds the rest of us down.
 facetHighTitle: Fat Before the Clearing
-facetHigh: Strangers on a long delayed platform trade where they're headed. When your turn comes you skip the destination and say why you're going.
+facetHigh: Passengers on a long delayed train platform trade where they're headed. When your turn comes you skip straight to why you're going.
 facetMidTitle: The Sausage's Long Steep
-facetMid: Someone shows you a photo and waits for you to say something nice. You look longer than is comfortable, then name what the picture is keeping quiet about.
+facetMid: Someone learning English asks what is the difference between a "house" and a "home". You spend a good deal of time elaborating on what a home means to you, personally.
 facetLowTitle: The Quick Rinse
-facetLow: A riddle is doing the rounds at the campfire and everyone's stumped. You shrug, give the first answer that fits, and reach for another marshmallow.
+facetLow: At the top of the mountain climb someone remarks on the largeness of nature making them and their problems feel small. You say "yeah it's crazy", but you're really just here for the cardio.
 facetLeastTitle: Before the Salt Settles
-facetLeast: A fortune teller hands you a card thick with meaning and leans in. Nice picture, you say — and you're already asking where the good coffee is.
-question: At the wake the eulogy paints the dead man kinder and simpler than he was — close enough that the room nods, wrong enough that you can feel the real person underneath it. You...
-answerMost: hold it for days and write the family the truer portrait
-answerHigh: say nothing now and find the one person who'd want the real version
-answerMid: tell a small true story of your own that hints at the rest
-answerLow: murmur a gentle "he was more than that" to the person beside you
-answerLeast: speak up and set the record straight before they sit down
-rorschachMost: two storm clouds meeting over a deep ravine
-rorschachHigh: a cross-section of two lungs and the branching airways
-rorschachMid: two heads of cauliflower pressed together
-rorschachLow: two sponges sopping up a spreading spill
-rorschachLeast: a smudge of ink wiped flat across the page
+facetLeast: The book club is dissecting the novel for hidden meaning — the river as death, the old coat as guilt. You liked it because the story moved at a good pace, not really interested in the deeper, obtuse details.
+question: You're watching the eclipse as it reaches totality. The sun becomes a fiery ring, the bright sky dims, and the birds go quiet. You...
+answerMost: stand there undone, the whole cosmos bearing down on you
+answerHigh: feel how small and brief a thing you are
+answerMid: quietly take it in while it lasts
+answerLow: watch a moment, get a photo
+answerLeast: don't get what all the fuss is
+rorschachMost: a thundercloud massing over a ridge
+rorschachHigh: a bison's heavy head
+rorschachMid: a pile of raked leaves
+rorschachLow: a shallow puddle in the mud
+rorschachLeast: a coffee stain on the floor
 ---
 
 Aged Black Beans are the Bean Zodiac's most profound — and the most patient with a half-finished thought. At dinner they let three subjects pass before speaking, and when they do, the table goes quiet for a second because the sentence has gone further down than the question that prompted it. People remember those sentences for years and credit them with conversations they were nowhere near.

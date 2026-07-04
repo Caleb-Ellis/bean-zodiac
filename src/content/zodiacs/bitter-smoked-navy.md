@@ -3,9 +3,9 @@ slug: bitter-smoked-navy
 bean: navy
 flavour: bitter
 form: smoked
-trait: ominous
+trait: foreboding
 inverse: auspicious
-excess: foreboding
+excess: ominous
 dish: Smoked navy bean with bitter juniper and char.
 quote: It was a dark and beany night.
 creature: black vulture
@@ -47,6 +47,6 @@ rorschachLow: a soft hill rolling gently to the road
 rorschachLeast: a fat dumpling resting on the plate
 ---
 
-Charcoal Navy Beans are the Bean Zodiac's most ominous. They name the thing going wrong in a project weeks before anyone else looks up, wake at four with a knot under the ribs the morning before the call comes, and are right often enough that the people around them have stopped betting against it.
+Charcoal Navy Beans are the Bean Zodiac's most foreboding. They name the thing going wrong in a project weeks before anyone else looks up, wake at four with a knot under the ribs the morning before the call comes, and are right often enough that the people around them have stopped betting against it.
 
 The forecast just lands wrong. "I have a bad feeling about this" gets filed as weather and ignored, and the storm they saw arrives on schedule with no one having moved. They mistake being correct for being heard, and so the warning that could have helped instead joins the long, quiet record of times they knew and couldn't get a single person to act on it.

@@ -13,7 +13,6 @@ import FlavourBadge from "../../zodiac/FlavourBadge";
 import FormBadge from "../../zodiac/FormBadge";
 import ZodiacDish from "../../zodiac/ZodiacDish";
 import ZodiacName from "../../zodiac/ZodiacName";
-import Divider from "../../ui/Divider";
 
 interface Props {
   data: AllZodiacData;
@@ -89,27 +88,19 @@ export default function UnclaimedHome({ data, date, showQuote }: Props) {
             />
           )}
         </section>
-        <section className="mb-4 sm:mb-10 max-w-xl w-full flex flex-col items-center gap-3">
-          <Divider />
-          <p className="text-xs uppercase tracking-widest text-zinc-200">
-            The Weather this Season
-          </p>
-          {zodiac ? (
-            <p className="italic text-zinc-200 text-lg text-center px-4">
-              "{zodiac.seasonalFortune}"
-            </p>
-          ) : (
-            <div className="h-6 w-72 bg-zinc-800 rounded-full animate-pulse" />
-          )}
-          <Divider />
-        </section>
       </section>
-      <a
-        href="/wheel"
-        className="bg-zinc-900/80 border-2 border-zinc-500/60 text-white rounded-xl px-8 py-4 font-bold backdrop-blur-sm transition-[border-color,background-color,color] duration-200 hover:border-zinc-400 hover:text-white hover:bg-zinc-800/80"
-      >
-        Which Bean are You?&nbsp;→
-      </a>
+      <div className="flex flex-col items-center gap-4">
+        <p className="max-w-md text-zinc-400 text-balance mb-2">
+          Every Bean is born to a Season. Find yours, claim it, and you will
+          receive daily wisdom.
+        </p>
+        <a
+          href="/wheel"
+          className="bg-zinc-900/80 border-2 border-zinc-500/60 text-white rounded-xl px-8 py-4 font-bold backdrop-blur-sm transition-[border-color,background-color,color] duration-200 hover:border-zinc-400 hover:text-white hover:bg-zinc-800/80"
+        >
+          Which Bean are You?&nbsp;→
+        </a>
+      </div>
     </div>
   );
 }

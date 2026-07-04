@@ -4,7 +4,6 @@ import Bean from "../../components/zodiac/Bean";
 import BeanBadge from "../../components/zodiac/BeanBadge";
 import FlavourBadge from "../../components/zodiac/FlavourBadge";
 import FormBadge from "../../components/zodiac/FormBadge";
-import TraitBadge from "../../components/zodiac/TraitBadge";
 import ZodiacDish from "../../components/zodiac/ZodiacDish";
 import ZodiacName from "../../components/zodiac/ZodiacName";
 import { allZodiacData } from "../../lib/data";
@@ -60,7 +59,10 @@ export const Route = createFileRoute("/zodiacs/$id")({
               <Bean bean={bean} flavourId={flavourId} formId={formId} />
             </div>
             <div className="p-6 md:p-8 flex flex-col gap-4 min-w-0">
-              <Link to="/" className="text-sm text-zinc-500 hover:text-zinc-300 transition-colors">
+              <Link
+                to="/"
+                className="text-sm text-zinc-500 hover:text-zinc-300 transition-colors"
+              >
                 ← Home
               </Link>
               <h1 className="text-3xl font-bold">
@@ -78,20 +80,46 @@ export const Route = createFileRoute("/zodiacs/$id")({
                 <FormBadge id={formId} name={form.name} />
                 <span className="text-zinc-600">×</span>
                 <BeanBadge id={beanId} name={bean.name} />
-                {zodiac && (
-                  <>
-                    <span className="text-zinc-600">=</span>
-                    <TraitBadge trait={zodiac.trait} featured />
-                  </>
-                )}
               </div>
-              {zodiac && <p className="text-zinc-300 italic">"{zodiac.quote}"</p>}
+              {zodiac && (
+                <p className="text-zinc-300 italic">"{zodiac.quote}"</p>
+              )}
               {zodiac && (
                 <div className="markdown-content mb-2">
                   <ReactMarkdown>{zodiac.content}</ReactMarkdown>
                 </div>
               )}
-              {zodiac && <ZodiacDish dish={zodiac.dish} />}
+              {zodiac && (
+                <div className="flex flex-col sm:flex-row gap-4">
+                  <dl className="flex-1 sm:self-start grid grid-cols-[auto_1fr] rounded-xl border border-zinc-700/60 bg-zinc-900/80 divide-y divide-zinc-800 overflow-hidden">
+                    <div className="col-span-2 grid grid-cols-subgrid items-center gap-x-3 px-4 py-2.5">
+                      <dt className="text-xs uppercase tracking-widest text-zinc-500">
+                        Raw
+                      </dt>
+                      <dd className="text-sm text-zinc-400 text-right">
+                        {zodiac.inverse}
+                      </dd>
+                    </div>
+                    <div className="col-span-2 grid grid-cols-subgrid items-center gap-x-3 px-4 py-2.5 bg-zinc-800/40">
+                      <dt className="text-xs uppercase tracking-widest text-zinc-400">
+                        Cooked
+                      </dt>
+                      <dd className="text-effect-silver text-sm font-semibold text-right">
+                        {zodiac.trait}
+                      </dd>
+                    </div>
+                    <div className="col-span-2 grid grid-cols-subgrid items-center gap-x-3 px-4 py-2.5">
+                      <dt className="text-xs uppercase tracking-widest text-zinc-500">
+                        Overcooked
+                      </dt>
+                      <dd className="text-sm text-zinc-400 text-right">
+                        {zodiac.excess}
+                      </dd>
+                    </div>
+                  </dl>
+                  <ZodiacDish dish={zodiac.dish} className="flex-1" />
+                </div>
+              )}
             </div>
           </div>
         </article>

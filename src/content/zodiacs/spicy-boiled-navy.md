@@ -1,11 +1,12 @@
 ---
 slug: spicy-boiled-navy
+lastUpdated: 2026-07-06
 bean: navy
 flavour: spicy
 form: boiled
 trait: guarded
 inverse: forthcoming
-excess: impregnable
+excess: walled-off
 dish: Senate bean soup - navy bean with jalapeño and ham hock.
 quote: Good beans make good neighbours.
 creature: hermit crab
@@ -14,37 +15,32 @@ antiBeans: [pinto, chickpea]
 friendlyForm: smoked
 antiForm: roasted
 seasonalFortune: A lidded pot keeps its own counsel. The navy bean steeps long in spiced broth before anyone tastes it; warmth thickens inwardly, and the year turns at the stove's pace.
-fortuneMost: The broth's been thickening at the back of the stove for years.
-fortuneMost2: Have the hard talk out on the porch, not in close on the couch.
-fortuneHigh: The new person reveals themselves on the second meeting, not the first.
-fortuneHigh2: Someone worth knowing is walking up the path soon.
-fortuneMid: '"Maybe another time" is a complete sentence.'
-fortuneMid2: Say yes to the short visit and keep the clean way out.
-fortuneLow: The friend you've kept at arm's length has been patient about the distance a long while.
-fortuneLow2: Strangers in your kitchen, sleeves up, learning the spice by tasting — some turn out to be the right ones.
-fortuneLeast: Tell one person the thing you've told no one.
-fortuneLeast2: Hand over the last bowl, the recipe, the pot itself, and walk home with empty hands.
+fortuneMost: The gate has rusted shut.
+fortuneHigh: Patience wears thin.
+fortuneMid: A closed shell is not an empty one.
+fortuneLow: Unlatch the door and let the cold come in with the light.
+fortuneLeast: Say the thing you've never said.
 facetMostTitle: Jalapeño Under the Lid
-facetMost: A seatmate on the long train ride wants your whole life story. Three hours later they know your first name and nothing else.
+facetMost: A friend is helping you organise some things, when they come across a box of old letters and keepsakes. You take it out of their hands and close it quietly.
 facetHighTitle: The Ham Hock's Kept Salt
-facetHigh: A new friend asks, warmly, what your childhood was like. Give them the sunny two-sentence version and turn the question back on them.
+facetHigh: A coworker you've clicked with asks to see your holiday photos. You show them some select images from a slight distance, never once allowing the opportunity for them to swipe through themselves.
 facetMidTitle: Steam on a Slow Simmer
-facetMid: Around a campfire, the circle's trading their realest fears in turn. When it comes to you, the one you offer is small and safe, the rest kept back.
+facetMid: For a little icebreaker, the class instructor has asked everyone to say one interesting fact about themselves. You say that you like to walk.
 facetLowTitle: Seeds Across the Counter
-facetLow: Someone you've just met suggests a road trip, the two of you, next month. You hear yourself say yes before the second thoughts arrive.
+facetLow: Talking with some colleagues, the topic of family comes up. You're not afraid to dip into the complicated nature of yours.
 facetLeastTitle: Broth Before It Thickens
-facetLeast: A guest admires the painting that means the most to you in the world. You take it off the wall and press it into their hands to keep.
-question: A new neighbour knocks, friendly, asking if you'd like to come round Friday. You...
-answerMost: take the name, say "maybe next month," close the door gently
-answerHigh: thank them, say you'll check the calendar, mean it noncommittally
-answerMid: say yes for a short visit and leave a clean exit
-answerLow: say yes, bring something, plan to stay an hour
-answerLeast: invite them in now and pour two drinks
-rorschachMost: two halves of a walnut clamped shut
-rorschachHigh: a clam holding its shell barely parted
-rorschachMid: two boulders with a thin fissure between
-rorschachLow: a locket easing open along its seam
-rorschachLeast: two shell halves fallen wide apart
+facetLeast: A stranger strikes up a chat while you're waiting in line. Before long they've heard how your year is really going, the hard parts and all.
+question: A name you knew years ago resurfaces online and messages to ask how you're doing. You...
+answerMost: leave it on read
+answerHigh: reply, but with nothing too personal
+answerMid: send the major highlights, but keep it brief
+answerLow: go over the ups and downs of the last few years
+answerLeast: get into everything that's happened since you last spoke
+rorschachMost: a boulder in front of a cave's mouth
+rorschachHigh: a couple of clams, one sealed tight
+rorschachMid: knobbly rocks jutting out of sand
+rorschachLow: an open locket with its contents
+rorschachLeast: an otter and its pup floating together
 ---
 
 Braised Navy Beans are the Bean Zodiac's most guarded — coat taken, name remembered, no second question offered until a season has passed. The intensity is real and not absent; it's lidded, kept at the back of the stove, and the few who are eventually handed a bowl find the broth has been thickening for years.

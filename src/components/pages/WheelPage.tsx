@@ -268,13 +268,18 @@ export default function WheelPage({ data }: Props) {
         </div>
       </div>
       <div
-        className={`relative w-full flex items-center justify-center overflow-hidden transition-[height,opacity] duration-300 ${resultMounted ? "h-0" : "h-36"}`}
+        className={`relative w-full flex items-center justify-center overflow-hidden transition-[height,opacity] duration-300 ${resultMounted ? "h-0" : "h-40"}`}
       >
         <section
           className={`absolute w-full px-6 flex flex-col items-center gap-3 transition-opacity duration-300 ${
             controlsHidden ? "opacity-0 pointer-events-none select-none" : "opacity-100"
           }`}
         >
+          {!claimedSlug && (
+            <label className="text-xs uppercase tracking-widest text-zinc-400">
+              When were you born?
+            </label>
+          )}
           <DateInput value={inputDate} onChange={setInputDate} />
           <button
             onClick={handleReveal}
