@@ -9,6 +9,7 @@ import {
 import { fetchZodiac, type AllZodiacData } from "../../../lib/data";
 import type { Zodiac } from "../../../lib/zodiac";
 import type { BeanstalkNode } from "../../../lib/spiritBean";
+import { useStore } from "../../../store";
 import FlavourBadge from "../../zodiac/FlavourBadge";
 import FormBadge from "../../zodiac/FormBadge";
 import BeanBadge from "../../zodiac/BeanBadge";
@@ -56,6 +57,13 @@ export default function Timeline({
 }: Props) {
   const bornIdx = fortuneNodesInYear.length;
   const totalNodes = fortuneNodesInYear.length + (showBorn ? 1 : 0);
+
+  // Persisted season recaps, keyed by season start date for per-section lookup.
+  const seasonSummaries = useStore((s) => s.seasonSummaries);
+  const summaryByKey = useMemo(
+    () => new Map(seasonSummaries.map((s) => [s.seasonKey, s])),
+    [seasonSummaries],
+  );
   const [sectionZodiacs, setSectionZodiacs] = useState<Map<string, Zodiac>>(
     new Map(),
   );
@@ -207,6 +215,27 @@ export default function Timeline({
                   "{zodiac.seasonalFortune}"
                 </p>
               ) : null}
+              {(() => {
+                const summary = summaryByKey.get(season.startDateStr);
+                if (!summary) return null;
+                return (
+                  <div className="mt-4 flex flex-col items-center gap-2 max-w-sm rounded-xl border border-zinc-800 bg-zinc-900/40 px-4 py-3">
+                    <p className="text-[0.65rem] tracking-widest uppercase text-zinc-500">
+                      The season's reading
+                    </p>
+                    <ul className="flex flex-col items-center gap-1.5">
+                      {summary.observations.map((line, i) => (
+                        <li
+                          key={i}
+                          className="text-xs italic text-zinc-400 text-center text-balance"
+                        >
+                          {line}
+                        </li>
+                      ))}
+                    </ul>
+                  </div>
+                );
+              })()}
             </div>
 
             {sectionNodes.map((node, localIdx) => {
@@ -403,7 +432,7 @@ export default function Timeline({
           </div>
         );
       }),
-    [yearSections, sectionZodiacs, loadingZodiacs, activeIdx, data],
+    [yearSections, sectionZodiacs, loadingZodiacs, activeIdx, data, summaryByKey],
   );
 
   return (

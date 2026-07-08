@@ -2,7 +2,7 @@
 slug: dried
 name: Dried
 tagline: The Form that outlasts.
-traits: [austere, concentrated, stoic, solitary, unyielding]
+traits: [solitary, concentrated, austere, stoic, unyielding]
 toneOfVoice: Delivers spare and concentrated; no spare words, no softening.
 ---
 

@@ -2,6 +2,7 @@ import { create } from "zustand";
 import { persist } from "zustand/middleware";
 import type { QualityId, SpiritTags, ZodiacId } from "../lib/zodiac";
 import type { RitualVariant } from "../lib/fortune";
+import type { SeasonSummary } from "../lib/seasonSummary";
 
 export type FortuneEntry = {
   date: string;
@@ -36,6 +37,8 @@ type State = {
   fortuneHistory: FortuneEntry[];
   metBeans: MetBean[];
   radarExpanded: boolean;
+  lastSeasonSeen: string | null; // season key (startDate YYYY-MM-DD) last acknowledged
+  seasonSummaries: SeasonSummary[]; // persisted season recaps, newest first
 
   setClaimed: (id: ZodiacId | null) => void;
   addFortuneEntry: (
@@ -45,6 +48,8 @@ type State = {
   markFortuneSeen: (date: string) => void;
   addMetBean: (id: ZodiacId) => void;
   setRadarExpanded: (expanded: boolean) => void;
+  setLastSeasonSeen: (key: string) => void;
+  addSeasonSummary: (summary: SeasonSummary) => void;
   relinquish: () => void;
 };
 
@@ -60,6 +65,8 @@ export const useStore = create<State>()(
       fortuneHistory: [],
       metBeans: [],
       radarExpanded: true,
+      lastSeasonSeen: null,
+      seasonSummaries: [],
 
       setClaimed: (id) =>
         set({ claimed: id ? { id, on: todayLocal() } : null }),
@@ -96,16 +103,27 @@ export const useStore = create<State>()(
 
       setRadarExpanded: (expanded) => set({ radarExpanded: expanded }),
 
+      setLastSeasonSeen: (key) => set({ lastSeasonSeen: key }),
+
+      addSeasonSummary: (summary) => {
+        const { seasonSummaries } = get();
+        if (seasonSummaries.some((s) => s.seasonKey === summary.seasonKey))
+          return;
+        set({ seasonSummaries: [summary, ...seasonSummaries] });
+      },
+
       relinquish: () =>
         set({
           claimed: null,
           fortuneHistory: [],
           metBeans: [],
+          lastSeasonSeen: null,
+          seasonSummaries: [],
         }),
     }),
     {
       name: "bean-zodiac",
-      version: 5,
+      version: 6,
       migrate: (state: any, version: number) => {
         if (version < 2) {
           state.fortuneHistory = (state.fortuneHistory ?? []).map((e: any) => ({
@@ -142,6 +160,14 @@ export const useStore = create<State>()(
               : e,
           );
         }
+        if (version < 6) {
+          // Season summaries are new. Leave lastSeasonSeen null so an
+          // already-engaged user gets one recap on their next post-tick visit;
+          // seed it to the current season key here instead to suppress that
+          // retroactive first summary.
+          state.lastSeasonSeen = state.lastSeasonSeen ?? null;
+          state.seasonSummaries = state.seasonSummaries ?? [];
+        }
         return state;
       },
       partialize: (s) => ({
@@ -149,6 +175,8 @@ export const useStore = create<State>()(
         fortuneHistory: s.fortuneHistory,
         metBeans: s.metBeans,
         radarExpanded: s.radarExpanded,
+        lastSeasonSeen: s.lastSeasonSeen,
+        seasonSummaries: s.seasonSummaries,
       }),
     },
   ),

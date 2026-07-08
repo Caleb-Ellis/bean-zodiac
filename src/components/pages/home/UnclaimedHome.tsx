@@ -90,9 +90,8 @@ export default function UnclaimedHome({ data, date, showQuote }: Props) {
         </section>
       </section>
       <div className="flex flex-col items-center gap-4">
-        <p className="max-w-md text-zinc-400 text-balance mb-2">
-          Every Bean is born to a Season. Find yours, claim it, and you will
-          receive daily wisdom.
+        <p className="max-w-md text-zinc-300 text-balance mb-2">
+          Discover your Bean, claim it, and you will receive daily wisdom.
         </p>
         <a
           href="/wheel"

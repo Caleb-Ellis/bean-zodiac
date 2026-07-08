@@ -2,7 +2,7 @@
 slug: roasted
 name: Roasted
 tagline: The Form that radiates.
-traits: [warm, generous, radiant, convivial, hedonistic]
+traits: [convivial, radiant, warm, generous, hedonistic]
 toneOfVoice: Delivers open and radiant; fills the room, plays to the crowd.
 ---
 

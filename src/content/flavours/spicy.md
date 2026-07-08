@@ -2,7 +2,7 @@
 slug: spicy
 name: Spicy
 tagline: The Flavour that cannot be ignored.
-traits: [bold, transformative, immediate, intense, overwhelming]
+traits: [intense, transformative, immediate, bold, overwhelming]
 toneOfVoice: Tints the voice intense and immediate — impossible to tune out.
 ---
 

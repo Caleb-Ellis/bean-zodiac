@@ -151,6 +151,16 @@ All persistent state lives in a single Zustand store (`src/store/index.ts`) unde
 
 **Beanstalk** — scrollable vertical timeline of fortune history. Left panel: sticky, shows spirit zodiac + radar charts that lerp to cumulative scores at the active node. Right panel: scrollable timeline with a scroll-tracked fill bar. Year filter defaults to current bean year.
 
+### Season Summary
+
+When a Form season turns over (every 2 months), an engaged user gets a one-time recap of who they became — `SeasonSummaryDialog.tsx`, built by `getSeasonSummary(date, lastSeasonSeen)` in `src/lib/seasonSummary.ts`. It's shown at most once per season (guarded by `lastSeasonSeen`) and the rendered `observations` are snapshotted onto the persisted `SeasonSummary` (in `seasonSummaries`), so the Beanstalk marker always shows exactly what the user was told even if the generators change.
+
+All copy/order is seeded from the closing season's start date, so a given season always renders identically. Richness scales with engagement (`fortuneHistory` entries in that season window): under 7 → a single faint line; 7–13 → the single most **salient** drift observation; 14+ → the three highest-salience observations (shuffled) plus a pinned closing **bridge** line.
+
+- **Observations** are candidate lines each carrying a normalised salience, drawn from: spirit drift toward / away from the most- and least-moved attributes (`computeSpiritBeanScores` before vs after the window), the facet Accept/Resist lean (open / closed / balanced), and where the accepted quality tiers cluster (rarity-weighted).
+- **Bridge** compares the claimed zodiac against the season-drift zodiac (the max-delta attribute in each ring) with three framings by divergence: same (drift reinforced you), near (< 20 pts), far (≥ 20 pts).
+- **Traits** for the dialog header/footer and bridge come from `src/data/generated/zodiac-traits.json` — a flat `zodiacId → trait` index emitted by `build-content.mjs` for synchronous lookups (the full zodiac JSON is otherwise only fetched async).
+
 ### Styling
 
 Tailwind CSS 4. Per-element CSS hex colors for theming. Form visual effects use SVG filter `<defs>` rendered once at root via `FormFilters.tsx`.

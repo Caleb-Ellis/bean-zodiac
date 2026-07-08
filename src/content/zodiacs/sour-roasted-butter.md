@@ -1,11 +1,12 @@
 ---
 slug: sour-roasted-butter
+lastUpdated: 2026-07-08
 bean: butter
 flavour: sour
 form: roasted
 trait: guileless
 inverse: scheming
-excess: unworldly
+excess: naive
 dish: Butter bean traybake with preserved lemon, roasted garlic, and rosemary
 quote: To bean or not to bean — actually, yes, obviously. Why would you not.
 creature: duckling
@@ -14,37 +15,32 @@ antiBeans: [kidney, fava]
 friendlyForm: boiled
 antiForm: fried
 seasonalFortune: A season that browns uncovered. Lemon rind slumps into the oil without ceremony, garlic loses its skins, rosemary throws its smell down the corridor before anyone lifts the tray.
-fortuneMost: Luck runs plain as a split rind for you this turn.
-fortuneMost2: People who've spent years decoding subtext find you disarming, then restful.
-fortuneHigh: Someone's fishing for a second meaning that isn't there.
-fortuneHigh2: A count comes out wrong and you say so flat, no apology threaded through the correction.
-fortuneMid: Take it once at the surface and act on it.
-fortuneMid2: Something reads odd, and most times that's all it ever was.
-fortuneLow: When the barbed line comes, wait a beat before you bite the literal hook.
-fortuneLow2: There's no rush to set the unfinished thing out.
-fortuneLeast: Some rooms aren't braced for the lemon set out bare — tuck it behind the bread this once.
-fortuneLeast2: A guess kept quiet spares someone a surprise they never asked for.
+fortuneMost: The duckling walks toward every open hand.
+fortuneHigh: Peeled garlic holds no secrets.
+fortuneMid: Look no deeper than what you see on the surface.
+fortuneLow: Some sweet words hide a little sting.
+fortuneLeast: Leave the foil on; let them wonder what's beneath.
 facetMostTitle: Skin Loose, Clove Bare
-facetMost: A fortune teller turns over a card and falls silent, waiting for you to read meaning into it. You just ask her what the picture is.
+facetMost: A man with a clipboard at the door says the local council has sent him to check the pipes, something about a burst main down the road. He's very friendly, and you point him to the kitchen.
 facetHighTitle: Rosemary Still Hissing
-facetHigh: At the bus stop someone offers the usual nothing about the rain. You skip the weather and tell them what you're actually turning over.
+facetHigh: You're between jobs and taking some time off between applications. "Must be nice, all that spare time," someone at a party says. You agree that it is, and tell them what you've been filling it with.
 facetMidTitle: Lemon Cuts the Oil
-facetMid: A riddle gets left dangling, clearly baited for you to chase the hidden layer. You take the plain answer instead and move on with the afternoon.
+facetMid: The bins are getting pretty full, your flatmate says to you. You glance over and indeed they are, so you reply "sure are" in agreement, not sure why they shared the observation.
 facetLowTitle: Garlic in Its Papers
-facetLow: A barbed little remark lands, sweet on the surface. Instead of biting the literal hook, you sit with it a beat and feel for the edge underneath.
+facetLow: You never speak with your neighbour beyond simple greetings, but all of a sudden they're asking about your place — the garden, the upkeep, any issues. They never say why they're asking, but you imagine it's not to your benefit.
 facetLeastTitle: The Tray Under Foil
-facetLeast: You've worked out what a friend's gift really cost them and could say so. You keep the guess to yourself and let them have their small mystery.
-question: A text arrives that reads odd — could be sharp, could be nothing. You...
-answerMost: take it at the surface and reply in the same tense
-answerHigh: answer the literal question and move on with your evening
-answerMid: read it twice, then ask a flatmate what they make of it
-answerLow: scroll up to last week's messages looking for a pattern
-answerLeast: draft three replies, send none, and let it sit until morning
-rorschachMost: a bear cub sitting plump, open paw beside it
-rorschachHigh: an apple with its stem, hand reaching for it
-rorschachMid: a teapot and an open mitten side by side
-rorschachLow: a fox haunched, one paw raised mid-reach
-rorschachLeast: a crab tucked behind its own raised claw
+facetLeast: The card you've drawn wins the game for you outright. You keep your cool, slip it in with the rest, and the table goes on betting none the wiser.
+question: You've been desperate to sell your old bike for weeks, when finally a buyer turns up to look it over. You just notice there's a hairline crack in the frame, which they haven't spotted. You...
+answerMost: point it out yourself and knock money off before they even ask
+answerHigh: mention the crack plainly and let them decide
+answerMid: answer honestly about it if they ask, but don't bring it up
+answerLow: turn the cracked side to the wall and say nothing
+answerLeast: swear there's nothing wrong with the bike
+rorschachMost: a lamb curled up tight
+rorschachHigh: a shaggy sheepdog's head
+rorschachMid: a head of cauliflower
+rorschachLow: a paw print of an unseen animal
+rorschachLeast: a snail in its shell
 ---
 
 Chimichurri Butter Beans are the Bean Zodiac's most guileless — they answer the question that was asked, in the tense it was asked in. No second meaning is being mined for, no clever rephrase is waiting in drafts. A message lands; a reply leaves; the day moves on. People who have spent years decoding subtext find them disarming, then restful.

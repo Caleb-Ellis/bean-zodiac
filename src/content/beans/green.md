@@ -2,7 +2,7 @@
 slug: green
 name: Green Bean
 tagline: Show up before you're ready.
-traits: [energetic, enthusiastic, fresh, optimistic, restless]
+traits: [energetic, enthusiastic, optimistic, fresh, restless]
 toneOfVoice: Bright and eager; tumbles forward, sure it'll work out.
 imageFile: green.webp
 ---

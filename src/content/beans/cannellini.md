@@ -2,7 +2,7 @@
 slug: cannellini
 name: Cannellini Bean
 tagline: Elegance is the refusal of the unnecessary.
-traits: [refined, discerning, elegant, gracious, perfectionist]
+traits: [refined, elegant, gracious, discerning, perfectionist]
 toneOfVoice: Poised and precise; chooses few words and every one is right.
 imageFile: cannellini.webp
 ---

@@ -184,17 +184,10 @@ export function useDailyFortune(
     });
   }, [fortuneZodiacId]);
 
-  useEffect(() => {
-    document.body.style.overflow = dialogOpen ? "hidden" : "";
-    const layoutContent = document.getElementById("layout-content");
-    if (layoutContent) {
-      layoutContent.style.visibility = dialogOpen ? "hidden" : "";
-    }
-    return () => {
-      document.body.style.overflow = "";
-      if (layoutContent) layoutContent.style.visibility = "";
-    };
-  }, [dialogOpen]);
+  // Page scroll-lock and hiding the layout behind the card is owned by
+  // RitualCardShell (mounted by both the fortune and season-summary dialogs), so
+  // it isn't managed here — doing so from this always-running hook fought the
+  // shell when a summary showed on a day the fortune was already taken.
 
   const markSeen = () => {
     useStore.getState().markFortuneSeen(localDateStr);

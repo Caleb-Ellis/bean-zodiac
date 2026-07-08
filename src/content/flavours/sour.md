@@ -2,7 +2,7 @@
 slug: sour
 name: Sour
 tagline: The Flavour that cuts through.
-traits: [sharp, clarifying, precise, honest, nasty]
+traits: [sharp, clarifying, honest, precise, nasty]
 toneOfVoice: Tints the voice sharp and candid — clarifying, and sometimes it stings.
 ---
 

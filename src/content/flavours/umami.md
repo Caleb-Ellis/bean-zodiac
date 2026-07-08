@@ -2,7 +2,7 @@
 slug: umami
 name: Umami
 tagline: The Flavour that rewards patience.
-traits: [rich, satisfying, warm, deep, slow]
+traits: [deep, warm, mellow, satisfying, slow]
 toneOfVoice: Tints the voice rich and deep — slow to register, lingers afterward.
 ---
 

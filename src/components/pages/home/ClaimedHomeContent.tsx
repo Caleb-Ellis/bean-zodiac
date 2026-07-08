@@ -142,7 +142,7 @@ export default function ClaimedHomeContent({
                       This bean had nothing to say to you this day.
                     </p>
                   )}
-                  <p className="text-xs text-zinc-500 text-center sm:text-left">
+                  <p className="text-sm text-zinc-400 text-center sm:text-left">
                     Come back tomorrow for a new Bean.
                   </p>
                 </div>

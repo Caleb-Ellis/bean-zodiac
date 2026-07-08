@@ -2,7 +2,7 @@
 slug: smoked
 name: Smoked
 tagline: The Form that obscures.
-traits: [enigmatic, inscrutable, elusive, oblique, uncanny]
+traits: [enigmatic, elusive, inscrutable, oblique, uncanny]
 toneOfVoice: Leaves an impression you can't trace; you're not sure what was said, only that something shifted.
 ---
 

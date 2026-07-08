@@ -2,7 +2,7 @@
 slug: edamame
 name: Edamame
 tagline: See what's there. Do what works.
-traits: [practical, direct, quick, sharp, dismissive]
+traits: [practical, direct, sharp, quick, dismissive]
 toneOfVoice: Blunt and fast; cuts to the point and skips the cushioning.
 imageFile: edamame.webp
 ---

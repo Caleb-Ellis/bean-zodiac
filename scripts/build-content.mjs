@@ -79,12 +79,18 @@ const publicDir = resolve(root, "public/api/zodiacs");
 mkdirSync(zodiacDir, { recursive: true });
 mkdirSync(publicDir, { recursive: true });
 
+const zodiacTraits = {};
 for (const { id, data, content } of zodiacs) {
   validateSpiritTags(id, data, { bean: data.bean, form: data.form });
   const payload = JSON.stringify({ ...data, content });
   writeFileSync(resolve(zodiacDir, `${id}.json`), payload);
   writeFileSync(resolve(publicDir, `${id}.json`), payload);
+  zodiacTraits[id] = data.trait;
 }
+
+// Flat id → trait index for synchronous lookups (the season-summary bridge line);
+// avoids fetching a full zodiac JSON just to read one word.
+writeJson(resolve(root, "src/data/generated/zodiac-traits.json"), zodiacTraits);
 
 console.log(
   `Built ${beans.length} beans, ${flavours.length} flavours, ${forms.length} forms, ${zodiacs.length} zodiacs`,

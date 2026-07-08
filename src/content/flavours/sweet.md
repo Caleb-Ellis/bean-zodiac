@@ -2,7 +2,7 @@
 slug: sweet
 name: Sweet
 tagline: The Flavour that comforts.
-traits: [joyful, comforting, generous, effortless, lazy]
+traits: [comforting, generous, effortless, joyful, lazy]
 toneOfVoice: Tints the voice warm and easy — open, inviting, quick to reassure.
 ---
 
