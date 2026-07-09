@@ -14,16 +14,11 @@ antiBeans: [chickpea, pinto]
 friendlyForm: boiled
 antiForm: fermented
 seasonalFortune: A tagine cured by its own use carries every season in its clay. The roasted bean keeps what it has earned, salts itself, asks the pantry for nothing it cannot already name.
-fortuneMost: The bowl arrives sealed and done.
-fortuneMost2: The leak was fixed before anyone clocked it was leaking.
-fortuneHigh: The wrong bill, the broken thing — handled yourself, on your own clock.
-fortuneHigh2: A borrowed tool returned better than it came is help taken with nothing owed.
-fortuneMid: Fumes called discipline aren't strength.
-fortuneMid2: Naming what you need out loud is not the same as being carried.
-fortuneLow: The offer you waved off by reflex cost the other person something to extend.
-fortuneLow2: Solitude can cure thin, like a tagine used too little.
-fortuneLeast: Let someone else's worse idea win the night.
-fortuneLeast2: The meal chosen by many hands beats the one you'd have made alone, even when yours was better.
+fortuneMost: The door bolts only from the inside.
+fortuneHigh: One set of tracks in the snow, only pointing forward.
+fortuneMid: Asking for help is not weakness.
+fortuneLow: Refuse the extended hand enough times and it stops reaching.
+fortuneLeast: Many beans make light work.
 facetMostTitle: One Hand, One Mortar
 facetMost: The car dies on a dark verge miles from anywhere. Phone in pocket, you pop the hood first — there's a way through this that's yours to find before anyone's number gets dialled.
 facetHighTitle: The Lemon Ripening Alone
@@ -34,12 +29,12 @@ facetLowTitle: Coriander Beside Caraway
 facetLow: There's far too much snow on the path for one back. Let the neighbour who keeps offering actually pitch in — and find the company on the shovel suits you.
 facetLeastTitle: Many Hands on the Lid
 facetLeast: Here's a knot you could untangle perfectly well by yourself. You'd still rather pull three people in and let the answer arrive as everyone's.
-question: You're moving flat next weekend and a friend, unprompted, offers their van and an afternoon. You'd already half-planned to do it in three trips by yourself. You...
-answerMost: thank them, say you've got it, and drive the three trips
-answerHigh: accept the van, drive it yourself, return it with the tank full
-answerMid: take the van and the help for the heavy stuff only
-answerLow: accept gratefully and let them take charge of the day
-answerLeast: accept, and ask if they can rope in one more person while they're at it
+question: You're a kid, it's a bright afternoon, and you're teaching yourself to skateboard. A group of older kids who clearly know how keep waving you over to join them. You...
+answerMost: pack up and go practise where nobody can watch you fall
+answerHigh: stay put, wave them off, and learn through your own mistakes
+answerMid: keep to yourself, but get a few pointers first
+answerLow: let them coach you for a bit, just until you get the basics
+answerLeast: tag along with them for the rest of the day
 rorschachMost: a boulder standing alone in a field
 rorschachHigh: an anvil squared on its block
 rorschachMid: a bull's head lowered between two horns

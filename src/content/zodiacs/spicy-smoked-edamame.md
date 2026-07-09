@@ -3,9 +3,9 @@ slug: spicy-smoked-edamame
 bean: edamame
 flavour: spicy
 form: smoked
-trait: ferocious
+trait: feisty
 inverse: tame
-excess: vicious
+excess: ferocious
 dish: Dashi-smoked edamame with yuzu kosho - cold-smoked edamame with spicy citrus pepper paste.
 quote: Cry 'Havoc!' and let slip the beans of war.
 creature: wolverine
@@ -47,6 +47,6 @@ rorschachLow: a dove settling down onto a warm nest
 rorschachLeast: a lamb folded low over its own shadow
 ---
 
-Chipotle Edamame are the Bean Zodiac's most ferocious — the email goes out before anyone in the thread has finished typing the diplomatic version. The boundary lands flat, no preamble, and the friendship that had been quietly costing them is suddenly over by Tuesday morning. They move when the rest of the room is still calibrating, and most of the time the room admits, later, that the move was correct.
+Chipotle Edamame are the Bean Zodiac's feistiest — the email goes out before anyone in the thread has finished typing the diplomatic version. The boundary lands flat, no preamble, and the friendship that had been quietly costing them is suddenly over by Tuesday morning. They move when the rest of the room is still calibrating, and most of the time the room admits, later, that the move was correct.
 
 What they don't always notice is the trail of small, polite acquaintances who learned not to make the second ask — not because they were told off, but because they weren't, and now they're guessing.

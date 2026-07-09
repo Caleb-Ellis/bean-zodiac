@@ -1,11 +1,12 @@
 ---
 slug: umami-dried-mung
+lastUpdated: 2026-07-09
 bean: mung
 flavour: umami
 form: dried
 trait: restorative
 inverse: depleting
-excess: enabling
+excess: self-forsaking
 dish: Moong dal - dried mung beans slow-simmered with turmeric, ginger, and a tadka of cumin.
 quote: Let food be thy bean and bean be thy medicine.
 creature: crane bird
@@ -14,37 +15,32 @@ antiBeans: [edamame, green]
 friendlyForm: roasted
 antiForm: fermented
 seasonalFortune: A long season for what slow heat unlocks. The household leans toward what has steeped — turmeric in the pot since dawn, ginger gone soft and medicinal by dusk.
-fortuneMost: Ladle the bowl for someone who hasn't eaten well in weeks and stay while they finish.
-fortuneMost2: The care you ladle out all day is owed back to you.
-fortuneHigh: Wash the blanket before they admit they're cold.
-fortuneHigh2: Someone is running on empty and won't say so.
-fortuneMid: Reach for the friend who went quiet again, without waiting on a reply first.
-fortuneMid2: Bring the water, the warm thing, before anyone names the need.
-fortuneLow: Give the answer they actually asked for and let the deeper one wait.
-fortuneLow2: Pass the comfort and don't reach for the cure.
-fortuneLeast: A blank, ungiven day is the medicine this time.
-fortuneLeast2: A drained basin can't pour.
+fortuneMost: Broth for every bowl but your own.
+fortuneHigh: The crane feeds the marsh and forgets its own hunger.
+fortuneMid: Turmeric steeped since dawn, soft and gold.
+fortuneLow: Comfort and cure are not the same.
+fortuneLeast: An empty bucket cannot pour.
 facetMostTitle: The Overnight Soak
-facetMost: A stranger's shivering on the platform bench at the end of the line, soaked through. You'd peel off your own coat, sit down beside them, and stay until the cold left their hands.
+facetMost: A friend has just given birth to their first child - they thought they were prepared, but it's clearly taking a toll on them. You're over there as a helping hand whenever they ask, your own life, plans and career be damned.
 facetHighTitle: Ginger Under Low Heat
-facetHigh: New neighbours, still buried in boxes, haven't asked for a thing. By the time they look up there's a pot of something warm on their step and the kettle already singing through your wall.
+facetHigh: Your cousin, who's staying with you, works the graveyard shift at the hospital. You always make sure there's a hot meal waiting for them when they get home.
 facetMidTitle: Turmeric, Early
-facetMid: A name surfaces — someone you haven't heard from in an age, who never replied last time. You reach out again anyway, no scorekeeping, before any answer comes.
+facetMid: Your coworker has been coughing at their desk for a couple of days now. You offer them some medicine you swear by, and make them tea and honey, no fuss made of it.
 facetLowTitle: Cumin in Hot Ghee
-facetLow: A coworker tears up over something small at the next desk. A kind word, a pat on the arm — you offer that and only that, and don't go digging for the bigger wound underneath.
+facetLow: Your friend's been having a tough time of their layoff and has been calling you often and lengthily for support. The phone goes off for a fifth time this week, while you're out at dinner. You put it on silent - they can wait for a more convenient time for a reply.
 facetLeastTitle: The Split and Skipped
-facetLeast: Three people want things from you and the tank's empty. You answer the one that's quick, leave the rest for later, and run yourself a bath instead of a second errand.
-question: It's Sunday evening. You're tired in a way a hot bath would fix. A friend texts asking if they can come over and talk about a hard week. You...
-answerMost: invite them over and put the kettle on without mentioning the bath
-answerHigh: invite them, and quietly run the bath for after they leave
-answerMid: say yes to a short visit and protect the back half of the evening
-answerLow: tell them tomorrow night would be better and ask if that works
-answerLeast: send a kind reply and run the bath now
-rorschachMost: a brimming bowl of broth gently steaming
-rorschachHigh: a thick quilt folded soft on a chair
-rorschachMid: a curled cat asleep on a cushion
-rorschachLow: a sponge wrung out to its last drips
-rorschachLeast: a cracked, drained basin gone bone dry
+facetLeast: Three separate calls today - your sister wants help moving a sofa, your friend needed a long vent about their new boss, and your mother called about an imaginary health scare. The phone rings again. You let it go to voicemail and pour yourself a drink.
+question: The crowd's packed tight at an outdoor festival in the summer heat, and a band you love is about to start. The stranger beside you sways oddly, then folds at the knees before standing up again, dazed. You...
+answerMost: give up your whole day to making sure they're alright
+answerHigh: walk them out, offer water, keep them company until their friends find them
+answerMid: help them to a bench and wave down a staff member
+answerLow: point them to the first-aid tent but keep your place
+answerLeast: do nothing, and figure one of their friends will handle it
+rorschachMost: a steaming hot spring
+rorschachHigh: a synthetic animalskin rug
+rorschachMid: a dense raincloud
+rorschachLow: mud caked on the floor
+rorschachLeast: roadkill
 ---
 
 Aged Mung Beans are the Bean Zodiac's most restorative — the bowl set down in front of a friend who hasn't eaten properly in a fortnight, the clean blanket folded on the chair before anyone has admitted to feeling cold, the second message to the friend who went quiet last month. The care is slow, exact, and has yet to fail.

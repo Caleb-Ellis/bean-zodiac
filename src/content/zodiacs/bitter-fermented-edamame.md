@@ -1,5 +1,6 @@
 ---
 slug: bitter-fermented-edamame
+lastUpdated: 2026-07-14
 bean: edamame
 flavour: bitter
 form: fermented
@@ -14,37 +15,32 @@ antiBeans: [butter, adzuki]
 friendlyForm: dried
 antiForm: boiled
 seasonalFortune: Ponzu has been pulling acid from yuzu peel for weeks; what arrives at the bowl is no longer sharp citrus but a settled verdict, ready to season what it meets.
-fortuneMost: Count it out before you say yes.
-fortuneMost2: The hard decisions land in your lap because you won't flinch toward the comfortable answer.
-fortuneHigh: The whole argument breaks at one step.
-fortuneHigh2: The reply written hot loses to the one written clear.
-fortuneMid: When someone asks why, "I don't know yet" is a fine answer.
-fortuneMid2: A flawless case delivered cool can carry the logic and lose the person.
-fortuneLow: You're studying the hinge of a door that's already standing open.
-fortuneLow2: Your first read of a stranger has come right more often than the long weigh-up does.
-fortuneLeast: What your gut already chose is most likely the answer; the reasoning can catch up later.
-fortuneLeast2: Eat when hungry, rest when tired, take the place that felt like home in the doorway.
+fortuneMost: Facts and figures will never describe how it feels.
+fortuneHigh: Now is not the time — let cooler beans prevail.
+fortuneMid: Pebble by pebble, the crow raises the water so it can drink.
+fortuneLow: If you don't know, don't pretend to know.
+fortuneLeast: Ignore the reasons and the justifications — pick the one that felt like home.
 facetMostTitle: The Peel's Own Clock
-facetMost: Never mind the salesperson swearing this is the best phone for you — the pitch washes right past while you line the specs up side by side, and you won't so much as hold it until they do.
+facetMost: Your daily bean insinuates you're going to have a great day today. There's absolutely no chance you actually let any of this nonsense influence your life.
 facetHighTitle: Tang That Needs Time
-facetHigh: Everyone at the table agrees the plan feels right and wants to commit. You're the one asking what happens if the first part goes wrong, before anyone signs anything.
+facetHigh: Your aunt swears a herbalist's tea shrank her tumour, and so she's booked you in to give you a check-up. You'd never go — not without an oncologist's recommendation, anyway.
 facetMidTitle: Tofu in Its Water
-facetMid: A horoscope app pings with the reason your week's been off. It's a fun read and you don't put a gram of weight on it; the week went how it went for plainer reasons.
+facetMid: At the escape room, the others are yanking every drawer and plugging every number they see into the padlocks. You hang back from the scramble, eyes scanning for anything out of the ordinary.
 facetLowTitle: Ponzu at the Table
-facetLow: Two job offers, near identical on paper, and the deadline's tonight. You go with the one that simply felt better walking out the interview — no figures to point to, just the feel of it.
+facetLow: Completely unable to decide on logic alone, you dig a coin out of your pocket — heads for one, tails for the other — ready to live with however it lands.
 facetLeastTitle: Before the Rice Is Rinsed
-facetLeast: At a crossroads with no map and no reason to favour either road, you just turn down the one that pulls at you. Could be the long way round, and you take it on the pull alone.
-question: A project wraps early and a clear, empty week of leave opens up ahead of you, unplanned. At the kitchen table that night, you...
-answerMost: map the days against rest, the backlog, and what you'd regret skipping before committing to a single one
-answerHigh: split it by rule — some for jobs owed, some for rest, some left loose
-answerMid: leave it open until the right use makes itself obvious
-answerLow: let one quiet want you'd shelved start to surface
-answerLeast: book the trip you've ached for before the week cools
-rorschachMost: a balance scale, two pans level on the beam
-rorschachHigh: an ox yoke notched evenly for the load
-rorschachMid: a low hill rising to two rounded peaks
-rorschachLow: a bat with both wings flung open
-rorschachLeast: a heart, the two chambers swelling at the top
+facetLeast: The house ticks every box on your "must-have" list, but when you step into the hallway, something feels off. The natural light? The height of the ceiling? The orientation of the rooms? You're not sure, but you're certain it's a no-go.
+question: The dating app flags someone as outside every preference you've set — including politics and religion — but you're fascinated by their picture, and their prompts have really made you laugh. You...
+answerMost: draw up another, separate list weighing charm vs preferences
+answerHigh: note they miss your preferences and hit X
+answerMid: give their profile a deeper read before you choose
+answerLow: like one prompt and see if they respond
+answerLeast: forget the preferences and send a message
+rorschachMost: a candelabra bristling with branches
+rorschachHigh: a stag's antlers spread wide on the skull
+rorschachMid: a bare thornbush on a low mound
+rorschachLow: a bonfire throwing sparks upward
+rorschachLeast: a firework bursting open in the dark
 ---
 
 Cultured Edamame are the Bean Zodiac's most rational — they won't sign off on a Friday feeling, won't say yes until the numbers are in the spreadsheet, and have never once regretted leaving the angry reply overnight. They turn a thing over until they can actually account for it, and the verdict that comes out the far end is usually the right one. People bring them the messy decisions precisely because they don't flinch toward the comfortable answer.

@@ -14,16 +14,11 @@ antiBeans: [cannellini, fava]
 friendlyForm: roasted
 antiForm: dried
 seasonalFortune: A season when the heaviest crocks turn sweetest. Cellars hum, the labneh slumps in its cloth, and the honeyjar tilts toward whoever passes nearest the shelf.
-fortuneMost: Wear the stupid hat to the serious occasion.
-fortuneMost2: Today the honeyjar tilts toward you — a stranger laughs before they meant to, and a whole table loosens behind them.
-fortuneHigh: Bring the dish nobody asked for.
-fortuneHigh2: An absurd line, flat, no smile.
-fortuneMid: Put googly eyes on something load-bearing.
-fortuneMid2: A chair is facing the wall. This is absurd.
-fortuneLow: One real conversation, straight-faced all the way through.
-fortuneLow2: Let the long walk run at its own pace.
-fortuneLeast: When it has to be believed, say it plain — no key, no wink.
-fortuneLeast2: Some moments only want the plain bowl.
+fortuneMost: A goose chick honks, and the world brightens.
+fortuneHigh: Put googly eyes on something load-bearing.
+fortuneMid: Don't worry about making a mess if it wins a smile.
+fortuneLow: Not every silence is yours to break.
+fortuneLeast: When it has to be believed, say it plain.
 facetMostTitle: A Bean for Ballast
 facetMost: A jar in the museum gift shop is labelled, dead serious, as the world's smallest ocean. Buy two and give one away with a straight face and zero footnote.
 facetHighTitle: The First Drip of Honey
@@ -40,11 +35,11 @@ answerHigh: slip it into a side comment and watch who catches it
 answerMid: save it for the one person you'll text after
 answerLow: hold it back, faintly regretful
 answerLeast: don't even register it as an option
-rorschachMost: a clown sprawled flat, limbs flung every way
-rorschachHigh: a dog rolled on its back, legs in the air
-rorschachMid: a wide ink splatter with trailing legs
-rorschachLow: a tanned hide pinned out flat to dry
-rorschachLeast: a surveyor's map spread across a table
+rorschachMost: a frog belly-flopped flat
+rorschachHigh: a shaggy dog on its back
+rorschachMid: an inkpot knocked over
+rorschachLow: a tanned hide pinned out flat
+rorschachLeast: a tattered, unrolled scroll
 ---
 
 Funky Butter Beans are the Bean Zodiac's silliest — the ones who put googly eyes on the printer in week one and never quite take them off. Their absurdity isn't a bit; it's a temperature. Rooms loosen around them without quite noticing, and people who came in braced for something dull leave having said the truer thing because the air permitted it.

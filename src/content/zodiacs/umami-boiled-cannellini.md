@@ -1,5 +1,6 @@
 ---
 slug: umami-boiled-cannellini
+lastUpdated: 2026-07-09
 bean: cannellini
 flavour: umami
 form: boiled
@@ -14,37 +15,32 @@ antiBeans: [chickpea, pinto]
 friendlyForm: dried
 antiForm: smoked
 seasonalFortune: A season of slow stocks and labelled jars. The pot holds its low simmer; the rind gives up its salt by degrees, and nothing useful is hurried out of the broth.
-fortuneMost: Set the whole thing in order in one good sitting — jars labelled, shelf squared.
-fortuneMost2: Something you tended carefully when nobody was watching is about to be noticed by exactly the right person.
-fortuneHigh: When they ask for rough, hand over rough.
-fortuneHigh2: Returned on the day it's due, straightened and whole.
-fortuneMid: Cross a task off instead of doing it.
-fortuneMid2: The two things that weren't yours, put back on the way out.
-fortuneLow: Leave it as you found it, not as you'd prefer it.
-fortuneLow2: Pay it the day it's due and walk off.
-fortuneLeast: That favour is bigger than it sounds.
-fortuneLeast2: Let one thing close untidy and watch the month close anyway.
+fortuneMost: The pot is clean; yet still you scrub.
+fortuneHigh: One grain at a time, the ant stocks the whole hill by nightfall.
+fortuneMid: The spoon that wandered finds its drawer.
+fortuneLow: The favour will be bigger than it sounds.
+fortuneLeast: Cross a task off the list instead of doing it.
 facetMostTitle: Anchovy Into the Oil
-facetMost: A trail map at the park entrance has come loose and hangs crooked on its post. You're the one who stops to straighten it before anyone else has even noticed.
+facetMost: Rinsing a jar for the recycling, the label won't come off. You stay and peel it under hot water because the guidance says "glass only".
 facetHighTitle: The Rind Against a Future Pot
-facetHigh: The borrowed ladder goes back tomorrow, and no one will check the state of it. Still, the rungs get wiped and the rope coiled before it leaves your hands.
+facetHigh: The accommodation charges a cleaning fee and a service fee, and there's no new guests checking in after you. But still you leave the place spotless before you go.
 facetMidTitle: The Split Ones Set Aside
-facetMid: Leaving the campsite, you spot two stray pegs that aren't yours by the firepit. You pocket them for the lost-and-found and walk on.
+facetMid: At the self-checkout the scanner is failing to scan a can of beans, but it also isn't getting picked up by the scales. Despite the opportunity, you are unable to leave the supermarket without paying for it.
 facetLowTitle: The Pot's Own Seasoning
-facetLow: A faucet in the rental drips and it isn't your house. Let it drip, hand the keys back, and don't carry the worry of it past the door.
+facetLow: A neighbour's recycling has blown over and scattered across the shared path. Not yours to gather — you step around the cans and carry on.
 facetLeastTitle: Salt by the Handful
-facetLeast: A form sits half-filled and a box goes unticked, and you slide it across the counter anyway. Good enough is, for once, simply good enough.
-question: A volunteer rota for the shared kitchen has a gap on Thursday and no one is replying in the thread. You...
-answerMost: take Thursday, and also tidy up the rota while you're in there
-answerHigh: put your name down for Thursday and move on
-answerMid: wait a day to see if someone else steps up, then sign up if not
-answerLow: figure someone closer to Thursday will sort it
-answerLeast: mute the thread; rotas are not your problem this month
-rorschachMost: a loaf scored in even rows before baking
-rorschachHigh: a bar of soap worn smooth and squared
-rorschachMid: a river stone rounded by the current
-rorschachLow: a potato sprouting knobs at odd angles
-rorschachLeast: a clod of mud flung against a wall
+facetLeast: Checking out of the hotel, the extra little soaps and sewing kit are still in the bathroom. You sweep them into your bag on the way out — and the slippers too.
+question: It's your first week in the new job and they've left you to settle in at your own pace. You...
+answerMost: read every manual and item of documentation you can find
+answerHigh: take thorough notes, get a head start on understanding how the place runs
+answerMid: get on top of the essentials, but generally pick things up as you go
+answerLow: do the tasks you're given, but don't go seeking extra
+answerLeast: coast a bit while the expectations of you are still low
+rorschachMost: a dung beetle looking for dung
+rorschachHigh: a mule laden with some packs
+rorschachMid: a toad squatting still
+rorschachLow: a fat knapsack slumped on its side
+rorschachLeast: a fly eating something
 ---
 
 Dashi Cannellini Beans are the Bean Zodiac's most conscientious — they do things properly because proper is the point. They keep the spreadsheet no one asked for, answer emails in the order the inbox actually received them, and put back the two mugs that weren't theirs before leaving the kitchen. Three colleagues quietly depend on systems these Beans built on a Sunday and never mentioned.

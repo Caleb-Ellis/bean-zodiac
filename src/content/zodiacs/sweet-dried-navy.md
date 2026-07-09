@@ -14,16 +14,11 @@ antiBeans: [chickpea, fava]
 friendlyForm: boiled
 antiForm: fermented
 seasonalFortune: The crumb sets quietly under the lemon's brightness; this is a season that pays back what was promised in winter and tended without fanfare.
-fortuneMost: A uniform pressed and hung for the morning.
-fortuneMost2: The shift nobody volunteered for is yours before anyone's even read the ask.
-fortuneHigh: You collect what's owed, take the bin to the kerb, keep the wheels turning for people who won't think to thank you.
-fortuneHigh2: A clock with both hands kept wound.
-fortuneMid: Keep sending the card to the cousin who stopped sending one back, but let it be a choice you renew, not a groove you're stuck in.
-fortuneMid2: Pick which obligations still mean something to you and pour yourself into those.
-fortuneLow: After enough years the obligations stop being things you do and become things you are.
-fortuneLow2: Leave when the talk thins and the evening's clearly done, jacket already on.
-fortuneLeast: Let the bins, the birthday, the rota go a stretch without you — they'll survive, they always do.
-fortuneLeast2: A punch card torn up and tossed.
+fortuneMost: There is no greater symbol than a uniform pressed and hung.
+fortuneHigh: The thankless jobs must be done.
+fortuneMid: The tasks stop being things you do and become things you are.
+fortuneLow: Pick which obligations still mean something to you.
+fortuneLeast: The cart has been abandoned — its owners, forgotten.
 facetMostTitle: The Loaf No One Requested
 facetMost: A blizzard's shut the whole town in and the old lighthouse still needs its lamp lit. You pull your coat tight and trudge out into the white to keep it burning.
 facetHighTitle: Zest Into Sugar, Before the Eggs
@@ -34,12 +29,12 @@ facetLowTitle: Lemon by the Squeeze
 facetLow: The clipboard comes round the campsite for the cleanup crew and pens hover over it. You let it pass on by, figuring this once somebody else can take the chore.
 facetLeastTitle: The Batter Left Standing
 facetLeast: Halfway through repainting a fence you promised the whole street you'd finish, the brush goes down. You're bored of it, so you leave the rest patchy and wander off.
-question: The kids' camping trip folds unless someone gives up their weekend to drive the minibus and run it, and round the hall the parents have all gone quiet. You...
-answerMost: put your hand up for the whole weekend before the question's even finished
-answerHigh: take the driving and ask two others to split the rest
-answerMid: wait a beat to see if anyone offers, then take it on without a word
-answerLow: assume some other parent will step up if you hold off
-answerLeast: study your shoes and let the trip fall through
+question: The camp leader wants every bunk in the cabin made to a tight fold for a morning inspection nobody really cares about, and the others have already run off to the lake. You...
+answerMost: fold your own tight, then remake the whole cabin's bunks to match
+answerHigh: make your bunk to a crisp, flawless fold
+answerMid: make it neat enough to pass a glance
+answerLow: pull the blanket roughly straight and leave it
+answerLeast: skip it and head for the lake with the rest
 rorschachMost: a uniform pressed and hung for morning
 rorschachHigh: a clock with both hands kept wound
 rorschachMid: a bell mounted over a doorway

@@ -3,9 +3,9 @@ slug: sour-fried-kidney
 bean: kidney
 flavour: sour
 form: fried
-trait: argumentative
-inverse: peaceable
-excess: quarrelsome
+trait: challenging
+inverse: pliable
+excess: argumentative
 dish: Rajma tikki with imli chutney - pan-fried Indian kidney bean patties with tamarind dipping sauce.
 quote: In the beginning was the bean, and the bean was with argument, and the bean was argument.
 creature: magpie
@@ -14,26 +14,21 @@ antiBeans: [cannellini, adzuki]
 friendlyForm: fermented
 antiForm: smoked
 seasonalFortune: A patty pressed against a hot pan keeps its shape by refusing the oil; the tamarind stays sour beside it, and neither softens the other.
-fortuneMost: A wrong sentence is hardening into something everyone nods along to, and you're the one who won't let it set.
-fortuneMost2: You can't walk away with a false thing left standing, and you shouldn't have to.
-fortuneHigh: Stand on the position you actually hold, not the clean defensible one that belongs to a stranger.
-fortuneHigh2: A soft claim deserves the sharp answer, and you've got it ready while people are still listening.
-fortuneMid: Give up the small point first, fast and without ceremony.
-fortuneMid2: A thin apology has its gaps, and you'll see every one.
-fortuneLow: They were right, and the rebuttal you keep rehearsing is for your comfort, not their correction.
-fortuneLow2: When people fall to disagreeing over a meal, refill the glasses and let the talk drift elsewhere.
-fortuneLeast: The seat across from you empties while you're still pressing the point.
-fortuneLeast2: A thing said wrong about you can simply drift off downwind, forgotten by morning.
+fortuneMost: You can't walk away from a falsehood, and you shouldn't have to.
+fortuneHigh: A soft claim may need a sharp answer.
+fortuneMid: The magpie wins its battles through sheer insistence, though its battles are not often necessary.
+fortuneLow: They are right and you are not.
+fortuneLeast: Let someone else make the decision.
 facetMostTitle: Tamarind Through the Room
-facetMost: A tour guide rattles off a date for the old bridge that you happen to know is wrong. Up goes your hand to set the record straight, group and all.
+facetMost: A schoolgroup files past the museum's dinosaur while the docent gives it a name that was overturned years ago. You raise your voice above the crowd and correct her, skeleton and all.
 facetHighTitle: Reply in Oil-Spit
-facetHigh: A referee's call goes against your team and the crowd lets it go. You're on your feet making the case nobody else will.
+facetHigh: Nobody else at the tenants' meeting will say it, so you stand — the landlord's "just cosmetic" about the mould comes apart in your hands, line by line.
 facetMidTitle: Sourness on the Fingers
-facetMid: One clear objection to the board-game result you think bent the rules — said once, on the record — and then the next round deals on without you relitigating it.
+facetMid: The house is actually haunted. A ghost drifts room to room reciting its history, but gets the year of the Great Fire wrong. You correct it before you let it go on haunting.
 facetLowTitle: Onions Before the Spice
-facetLow: A cab driver insists, wrongly, that your shortcut doesn't exist. You shrug, let them take the long way, and watch the city go by.
+facetLow: The barista's marker turns your name into a stranger's on the cup. You answer to it and drink.
 facetLeastTitle: The Quiet Pan
-facetLeast: A relative repeats a flat-wrong version of a story you were in. You leave the false version standing and pass the bread.
+facetLeast: The group votes for the ridge trail you're certain the rain washed out. You fold the map away and climb up after them.
 question: The ref blows a call against you in the local match and the whole game hinges on it. You...
 answerMost: get in his face and argue it line by line till he caves
 answerHigh: protest hard, lay out exactly what you saw

@@ -1,50 +1,46 @@
 ---
 slug: sour-dried-butter
+lastUpdated: 2026-07-09
 bean: butter
 flavour: sour
 form: dried
 trait: chastened
 inverse: brazen
-excess: self-flagellating
+excess: self-castigating
 dish: Butter bean and sun-dried tomato salad with sherry vinegar.
 quote: Experience is simply the name we give our bean.
-creature: basset
+creature: basset hound
 friendlyBeans: [navy, black]
 antiBeans: [green, pinto]
 friendlyForm: boiled
 antiForm: fried
 seasonalFortune: A pantry of sun-dried tomatoes keeps its lessons in folds. Sherry vinegar finds every place a hand once burned; the cook reaches for the jar more slowly each year.
-fortuneMost: The margin you leave for the road that fooled you once is a kindness to your future self.
-fortuneMost2: Sherry vinegar finds every place a hand once burned.
-fortuneHigh: Ask who else has already said yes before you commit.
-fortuneHigh2: A glass nudged back from the counter's edge without a thought.
-fortuneMid: Asked whether you're being too careful, say yes and skip the apology.
-fortuneMid2: The short list of places you won't go back to is folded away like tomatoes in oil.
-fortuneLow: Something good is arriving in the rough outline of an old hurt, and the outline is all they share.
-fortuneLow2: Plan the quiet exit if you must, then walk in anyway.
-fortuneLeast: Fortune is holding out the twice-burned thing in new hands.
-fortuneLeast2: A good thing is coming, and it only looks like the old one.
+fortuneMost: Sherry vinegar finds every place a hand was cut.
+fortuneHigh: Check the tyres before you set off.
+fortuneMid: Keep track of the doors you will not open twice.
+fortuneLow: It'll probably be fine — what's the worst that could happen?
+fortuneLeast: Enough time has passed — it won't hurt you like the last time.
 facetMostTitle: Tomatoes Toward Memory
-facetMost: Where the trail forks, you take the long way every time — the shortcut is the one that stranded you in the dark, and that's argument enough.
+facetMost: Undercooked chicken you served years ago made a couple of guests sick. You never let yourself off the hook — you still refuse to host, and when anyone praises your cooking you're the first to drag the story back up.
 facetHighTitle: Sherry on a Taught Tongue
-facetHigh: A vendor swears the boat won't leak this time, same as the one that sank on you. Before you step aboard, you want to see the bilge for yourself.
+facetHigh: A previous landlord contested your deposit over a scuffed skirting board. Now you photograph every corner of a flat the day you move in and the day you leave, not a single square inch unaccounted for.
 facetMidTitle: The Jar That Once Cracked
-facetMid: Pack the spare batteries, check the forecast twice — the camping trip's been planned for weeks and you'd rather over-prepare than get caught out again.
+facetMid: The plumber's done an initial scan of the issue, then shakes your hand on a price and says trust me. There's no chance you let him work on anything before he provides an itemised receipt of the work required.
 facetLowTitle: Vinegar Where It Lands
-facetLow: A street performer pulls you up to help with the trick — the kind of thing you've seen end badly. You're up there before the wariness can speak.
+facetLow: Your friends climb over the railing to jump off the quarry ledge into the water below. You know the stories about the rocks under the surface, but you go over the edge with them.
 facetLeastTitle: The Whole Vine Tomato
-facetLeast: That smell from the market stall — the exact dish that made you sick years ago, but it was oh so damn good. You decide to order it again, this time will be fine, surely.
-question: A friend offers you the same kind of opportunity that went badly last time — different people, different city, same shape. You...
-answerMost: decline before they finish the sentence
-answerHigh: ask for a week and a list of who else is involved
-answerMid: meet for coffee and see how the room feels
-answerLow: agree, with a small private exit planned
-answerLeast: say yes on the spot, this time will be different
-rorschachMost: a figure hunched under a pulled-up shawl
+facetLeast: You're on a ski trip, even though you broke your wrist the last time you went down a difficult route. The snow's just come down fresh overnight, and of course you're going to give it another shot.
+question: You've always liked sharing your art, but the last one you put online months ago got torn apart in the comments. You've just finished a piece you're genuinely really proud of. You...
+answerMost: keep it in the drawer and tell no one it exists
+answerHigh: show it to one or two people you trust
+answerMid: put it on a small private account first, just for friends and family
+answerLow: post it publicly with the comments switched off
+answerLeast: post it everywhere you have an online presence
+rorschachMost: a hunced figure under a shawl
 rorschachHigh: a mushroom cap drooping over its stem
 rorschachMid: an old tree stump with roots splayed out
-rorschachLow: a dancer mid-lunge with skirts flaring
-rorschachLeast: a diver leaping arms-wide off the board
+rorschachLow: a dancer with skirts flaring
+rorschachLeast: a high-diver splashing into the water
 ---
 
 Dehydrated Butter Beans are the Bean Zodiac's most chastened. They are the friend who leaves twenty minutes early because of one missed train in 2019, who reads the cancellation clause twice before booking the trip, who has a quiet small list of restaurants they will not return to and a longer list of things they will not say out loud at work again. The care is real, and the people around them are quietly the better for it.

@@ -1,11 +1,12 @@
 ---
 slug: spicy-smoked-cannellini
+lastUpdated: 2026-07-09
 bean: cannellini
 flavour: spicy
 form: smoked
 trait: barbed
 inverse: complimentary
-excess: venomous
+excess: vicious
 dish: Cazuela de alubias - Castilian white bean stew with smoked chorizo and pimentón ahumado.
 quote: Out of the frying bean and into the fire.
 creature: porcupine
@@ -14,37 +15,32 @@ antiBeans: [mung, adzuki]
 friendlyForm: dried
 antiForm: roasted
 seasonalFortune: Pimentón hangs in cold air; the cazuela darkens at the rim. Days arrive sharpened by smoke, and what cannot keep its shape will be named for what it lacks.
-fortuneMost: Chorizo cuts clean through the whole cazuela — one note, no apology.
-fortuneMost2: Say the figure flat.
-fortuneHigh: The remark that outlives the gathering is the one trimmed to the bone.
-fortuneHigh2: You see the weakest seam before anything else — that sight is yours alone.
-fortuneMid: There's a useful middle between flattery and blood — what's working, and where you'd want more.
-fortuneMid2: Trim the thought, leave the warmth around it.
-fortuneLow: An edge needs a body behind it or it lands nowhere.
-fortuneLow2: Let the small thing stand — the unmade bed, the plate where the guest set it down.
-fortuneLeast: Lead with the soft hill, not the thorn.
-fortuneLeast2: Tell them you love it and mean every word.
+fortuneMost: The blade cuts through the bean and board both.
+fortuneHigh: A red thread of chorizo panics the taste buds, and opens them up.
+fortuneMid: Heat the dish; don't scorch it.
+fortuneLow: The knife stays in the drawer when not in use.
+fortuneLeast: Even porcupines like a good belly rub.
 facetMostTitle: Chorizo's Clean Ring
-facetMost: Handed a rambling wedding toast to help with, you find the one sentence that carries the whole thing and strike everything that isn't it.
+facetMost: A friend of a friend you can't stand is at dinner, glowing, announcing their new job. Turns out it's clearly a pyramid scheme. You tell them straight up they're a fool for getting suckered into it.
 facetHighTitle: Smoke Through the Seam
-facetHigh: The haggler at the market keeps circling for a discount. You name your number once and let the silence after it do the rest.
+facetHigh: At the café a woman is loudly filming her third take of a glowing review of her matcha latte, then turns to shush the room for ruining her audio. As the next take starts, you ask her what she's having.
 facetMidTitle: The Bean Split Open
-facetMid: When the tour guide opens the floor, the sharp question nobody else thought to ask is already on your lips, and the whole group turns to hear it.
+facetMid: Your sister's new boyfriend keeps laughing at his own jokes, loudly. The next time he sets up a punchline you make flat little comment about the laugh to come.
 facetLowTitle: Fat Settled Back
-facetLow: A nervous kid shows you the birdhouse they built crooked. You leave the crooked alone and praise the one joint they nailed, even with the better fix right there on your tongue.
+facetLow: The open-mic comic has been bombing for ten minutes, sweating through the silences. He corners you at the bar after, asking how it went, and you tell him only about the one joke that actually worked.
 facetLeastTitle: Pimentón Clouding Even
-facetLeast: That casserole is plainly the worst thing on the potluck table — and you take a generous scoop, look its maker in the eye, and call it wonderful.
-question: At the conference Q&A a speaker is holding forth, wrong and pleased with himself, and a perfect cutting line lands in your head. You...
-answerMost: take the mic and deliver it, dry and clean, to the whole room
-answerHigh: murmur it to the person beside you, just within his earshot
-answerMid: let half a smirk show and keep the line to yourself
-answerLow: think it, swallow it, look back at your notes
-answerLeast: let it go and almost feel for the man
-rorschachMost: a crab claw open beside its split shell
-rorschachHigh: two rocks, one hooked into a thorn
-rorschachMid: a pair of antlers branching apart
-rorschachLow: two cushions slumped against each other
-rorschachLeast: two soft hills worn smooth by rain
+facetLeast: A coworker mangles his karaoke song, wildly flat, grinning through every line. When he drops back into the seat beside you, you tell him straight that he killed it, and is very courageous to sing in public.
+question: It's a pickup basketball game in the park, and the guy guarding you talks himself up after every basket he sinks. You...
+answerMost: call his game "weak" next time you block his shot
+answerHigh: yell "airball" before every shot he takes
+answerMid: let a dry "just lucky" slip
+answerLow: pay him no mind, it's just a friendly game
+answerLeast: tell him he's really good at scoring
+rorschachMost: black powder bursting from a vial
+rorschachHigh: a sprawling thornbush
+rorschachMid: a dark stain spreading through paper
+rorschachLow: soft moss creeping over rocks
+rorschachLeast: grey smoke thinning as it drifts apart
 ---
 
 Chipotle Cannellini Beans are the Bean Zodiac's most barbed — the line you remember from a dinner six months ago was probably theirs. They edit the group chat down to its load-bearing sentence and the joke gets funnier. They name the thing in the meeting that everyone could feel but no one had words for, and the rest of the call rearranges around it.

@@ -14,26 +14,21 @@ antiBeans: [fava, kidney]
 friendlyForm: dried
 antiForm: fried
 seasonalFortune: Miso deepens slowly in the crock; the season rewards those who track which crust browns first and which gives last under the spoon.
-fortuneMost: Four versions of the moment have already run in you, and you know which one is least costly to be wrong about.
-fortuneMost2: You're three moves ahead before you've made the first.
-fortuneHigh: Re-check the assumptions once, then commit.
-fortuneHigh2: You read the whole week before deciding the small thing in front of you.
-fortuneMid: The finished plan is hard to step out of into real weather, and the open window keeps narrowing.
-fortuneMid2: Take the second-best option — the best one assumed inputs you can't actually control.
+fortuneMost: The loose favour becomes a hard leash.
+fortuneHigh: Look at the whole web before you cut a thread.
+fortuneMid: Take the second-best option — the best assumed inputs you can't control.
 fortuneLow: Round it up and move on.
-fortuneLow2: Step through the open window instead of weighing it one more time.
-fortuneLeast: When the two options are genuinely equal, flip a coin and abide by it.
-fortuneLeast2: Luck rides with the unplanned this turn — a knock at the door, a borrowed pan, an evening nobody modelled.
+fortuneLeast: Luck rides with the unplanned.
 facetMostTitle: Gruyère in Stages
-facetMost: A board game opens and the dice haven't even moved. Already you've run the next four turns, each player's likely answer, and you know the line you'll hold.
+facetMost: You'd rather your cousin host family Christmas, not you. In the leading few months anytime meeting up with family, you rave about her cooking, talk up how spacious her place is, and how effortlessly she hosts.
 facetHighTitle: Breadcrumb in Ranks
-facetHigh: Before you'll pick a seat on the half-empty train, you weigh which exit you'll want, where the sun will swing, who's likely to sit near.
+facetHigh: First in line at the buffet, you've clocked which dishes will run out, which go cold and slimy, and which might steam its surroundings. Your plate is loaded in a specific order and in a specific orientation.
 facetMidTitle: Salt Through the Gratin
-facetMid: Packing for the trip, you lay each thing against the worst the week could throw at it before it earns a place in the bag.
+facetMid: The concert might sell out but you also might not make it. You read the refund rules before you tap to buy.
 facetLowTitle: The Crust's Split
-facetLow: A stranger asks the way. You point and answer at once, no mapping of the three routes you could have offered.
+facetLow: At the market you fill the bag with whatever looks good — figs, a bunch of dahlias, three kinds of cheese — and it's only at the till you think about the total.
 facetLeastTitle: Miso From the Jar
-facetLeast: A friend says drop everything, the coast, right now. You go — no checking the forecast, the cost, the way back.
+facetLeast: You sign for the loudest dog at the shelter, and it's only on the drive home that you wonder whether your lease even allows one.
 question: You've been weighing a move for months and a window to make it opens this week. You...
 answerMost: model one more scenario before deciding
 answerHigh: re-check the assumptions, then commit

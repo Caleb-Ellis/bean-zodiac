@@ -14,26 +14,21 @@ antiBeans: [green, fava]
 friendlyForm: roasted
 antiForm: fried
 seasonalFortune: A season of slow simmer, where the sweetness rises late. The pot holds longer than expected, and small warmths accumulate beneath ordinary days.
-fortuneMost: A plain Tuesday, and you'll set the table like it's a feast.
-fortuneMost2: Make a fuss over nothing. Someone in the room has been waiting all week for one person to be openly happy they exist.
-fortuneHigh: Say the kind thing while it still steams.
-fortuneHigh2: Good news is coming, and it will find you already glad.
-fortuneMid: One small gladness, handed to one person, travels further than a whole party thrown for the crowd.
-fortuneMid2: A stranger's good morning, returned and meant.
-fortuneLow: Held in too long, your warmth reads as cool — the very opposite of you.
-fortuneLow2: You've been ladling for everyone but won't say what's thinning in you.
-fortuneLeast: The grey morning is doing quiet work, and a candle would interrupt it.
-fortuneLeast2: Some sorrows want company, not cheering. Stay in the low room and just be there.
+fortuneMost: Good news is coming, probably!
+fortuneHigh: The dolphin leaps once for the fish, twice for the joy of it.
+fortuneMid: Make a fuss over nothing - be happy someone simply exists.
+fortuneLow: The sugar was supposed to caramelise but it has congealed instead.
+fortuneLeast: The windowless room remains unlit and unvisited.
 facetMostTitle: The Mochi, Still Warm
-facetMost: Stuck at a level crossing, engine off, the whole line of cars waiting. You're out leaning on someone's window, swapping where-you're-headed, glad of the delay.
+facetMost: The barista free-pours a little dolphin into your latte and you're delighted past all proportion — you take a photo, send it to three people, tip every coin in your pocket into the jar, and tell her she's a genius.
 facetHighTitle: The Kettle Before the Window
-facetHigh: Make it an occasion — the new umbrella, the first ripe tomato off the vine, a parking spot right out front. Any of it is reason enough to grin and say so out loud.
+facetHigh: A friend mentions in passing they got the job. By evening you've booked the table, ordered a cake with their name piped across the top, and told the waiter it's the best thing to happen to anyone you know.
 facetMidTitle: The Bowl Passed Both Ways
-facetMid: The dog-walker you pass on the towpath gets a proper greeting today — the dog's name remembered, a question about the limp it had last week.
+facetMid: A parking spot opens up right in front of the restaurant you're about to visit. You let out a cheer, over the moon at your good fortune.
 facetLowTitle: The Covered Pot
-facetLow: Someone in the checkout line wants to make this a whole conversation. A flat smile, a half-step forward — your warmth isn't on offer to just anyone today.
+facetLow: You keep the good news folded away all through the meal — the raise came through, the scan was clean — nodding along while the table talks, saying none of it out loud.
 facetLeastTitle: Grey Light, Unsweetened
-facetLeast: The party's gone flat and everyone's looking to someone to lift it. Not you — you let it stay flat and slip out the door early.
+facetLeast: Word comes that the shop-cat you'd fed for years has died. You don't fetch the kettle or hunt for a silver lining. You lower yourself onto the cold kitchen floor and let the grief sit at its full weight.
 question: The loaf comes out of the oven golden and far too big for one. The whole kitchen smells of it. You...
 answerMost: wrap half still warm and carry it round the building, knocking on doors
 answerHigh: cut thick slices and text everyone within walking distance to come over
