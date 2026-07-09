@@ -9,12 +9,12 @@ import {
 } from "../../../lib/zodiac";
 import {
   FORTUNE_REPEAT_WINDOW,
-  getDailyFortuneIds,
+  getDailyRitual,
   getDailyText,
   getFacetTitle,
   getSpiritTags,
   getFortuneText,
-  getVariantForSlug,
+  ritualKey,
   getAnswerText,
   getRorschachText,
   type RitualVariant,
@@ -116,22 +116,30 @@ export function useDailyFortune(
   date.setDate(date.getDate());
   const localDateStr = formatLocalDate(date);
 
-  const yesterday = new Date(date);
-  yesterday.setDate(yesterday.getDate() - 1);
-  // Slugs shown in the FORTUNE_REPEAT_WINDOW days before today, so the roll can
-  // avoid repeating any of them. Past entries are immutable, so this set is
-  // stable and today's fortune stays deterministic.
+  // Past entries are immutable, so both avoidance sets below are stable and
+  // today's fortune stays deterministic across reloads.
+  const pastEntries = useStore
+    .getState()
+    .fortuneHistory.filter((e) => e.date < localDateStr);
+  // Every ritual the user has ever received, so the roll never repeats one.
+  const seenRituals = new Set(
+    pastEntries.map((e) =>
+      ritualKey(e.zodiacId, e.variant ?? "facet", e.qualityId),
+    ),
+  );
+  // Slugs shown in the FORTUNE_REPEAT_WINDOW days before today — a softer
+  // variety guard layered on top of the lifetime ritual-uniqueness rule.
   const windowStart = new Date(date);
   windowStart.setDate(windowStart.getDate() - FORTUNE_REPEAT_WINDOW);
   const windowStartStr = formatLocalDate(windowStart);
-  const recentSlugs = useStore
-    .getState()
-    .fortuneHistory.filter(
-      (e) => e.date < localDateStr && e.date >= windowStartStr,
-    )
+  const recentSlugs = pastEntries
+    .filter((e) => e.date >= windowStartStr)
     .map((e) => e.zodiacId);
-  const { zodiacId: fortuneZodiacId, qualityId: rolledQualityId } =
-    getDailyFortuneIds(date, claimedSlug, recentSlugs);
+  const {
+    zodiacId: fortuneZodiacId,
+    qualityId: rolledQualityId,
+    variant: rolledVariant,
+  } = getDailyRitual(date, claimedSlug, seenRituals, recentSlugs);
   const [fortuneFlavourId, fortuneFormId, fortuneBeanId] =
     fortuneZodiacId.split("-") as [FlavourId, FormId, BeanId];
 
@@ -148,7 +156,7 @@ export function useDailyFortune(
       ? initialEntry.answeredQuality
       : rolledQualityId;
   const initialVariant: RitualVariant =
-    initialEntry?.variant ?? getVariantForSlug(claimedSlug, date);
+    initialEntry?.variant ?? rolledVariant;
 
   const [fortuneZodiac, setFortuneZodiac] = useState<Zodiac | null>(null);
   const [score, setScore] = useState(initialScore);

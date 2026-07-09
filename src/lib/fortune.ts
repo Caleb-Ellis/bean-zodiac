@@ -53,18 +53,24 @@ const qualityFromSlot = (r: number): QualityId => {
   return QualityIds.Rotten;
 };
 
-// Fold the slug into one integer, then run it through h32's avalanche mixer
-// with the day. Seeding a plain polynomial hash with the day directly (as this
-// once did) makes h an affine function of the day, so `h % 8` walks a
-// deterministic sawtooth (…6,5,4,3,2,1,0,7,6…) — the long-run ratios are right
-// but the tier is fully predictable and repeats day to day. Avalanching
-// decorrelates adjacent days while preserving the slot weights. Mirrors
-// getVariantForSlug.
-const getQualityForSlug = (slug: string, date: Date): QualityId => {
+// Fold a slug into one integer (a plain polynomial hash) so it can be avalanched
+// with the day. Shared by the quality and variant rolls.
+const dayFold = (slug: string): number => {
   let s = 0;
   for (const c of slug) s = (Math.imul(s, 31) + c.charCodeAt(0)) >>> 0;
-  return qualityFromSlot(h32(daysSinceOrigin(date) ^ 0x39393939, s) % 8);
+  return s;
 };
+
+// Run the folded slug through h32's avalanche mixer with a day-seed. Seeding a
+// plain polynomial hash with the day directly (as this once did) makes h an
+// affine function of the day, so `h % 8` walks a deterministic sawtooth
+// (…6,5,4,3,2,1,0,7,6…) — the long-run ratios are right but the tier is fully
+// predictable and repeats day to day. Avalanching decorrelates adjacent days
+// while preserving the slot weights. `daySeed` is the plain day index on the
+// base roll, or a perturbed seed on a re-roll (see getDailyRitual), so a
+// re-roll varies the tier alongside the slug. Mirrors variantFromSeed.
+const qualityFromSeed = (daySeed: number, s: number): QualityId =>
+  qualityFromSlot(h32((daySeed ^ 0x39393939) >>> 0, s) % 8);
 
 export type RitualVariant = "facet" | "question" | "rorschach";
 
@@ -73,16 +79,19 @@ export type RitualVariant = "facet" | "question" | "rorschach";
 // collapses onto a small, daily-anchored set of outcomes, so deriving the
 // variant from it clustered the whole user base onto the same variant each day.
 // The personal slug is fixed per user, so the day must drive the variation —
-// fold the slug into one integer, then avalanche it with the day through h32 so
-// the same person sees a different variant from one day to the next.
-export const getVariantForSlug = (slug: string, date: Date): RitualVariant => {
-  let s = 0;
-  for (const c of slug) s = (Math.imul(s, 31) + c.charCodeAt(0)) >>> 0;
-  const r = h32(daysSinceOrigin(date) ^ 0x5a5a5a5a, s) % 7;
+// avalanche the folded slug with a day-seed through h32 so the same person sees
+// a different variant from one day to the next. `daySeed` is perturbed on a
+// re-roll (see getDailyRitual) so the variant varies alongside the slug/tier.
+const variantFromSeed = (daySeed: number, s: number): RitualVariant => {
+  const r = h32((daySeed ^ 0x5a5a5a5a) >>> 0, s) % 7;
   if (r < 4) return "facet";
   if (r < 6) return "question";
   return "rorschach";
 };
+
+// Thin wrapper over the base (un-perturbed) variant roll for a given day.
+export const getVariantForSlug = (slug: string, date: Date): RitualVariant =>
+  variantFromSeed(daysSinceOrigin(date), dayFold(slug));
 
 // Most→Least, the order answer buttons render in.
 export const ANSWER_TIERS: readonly QualityId[] = [
@@ -162,8 +171,9 @@ const makeHashedDimensions = (index: number, d: number): DailyDimensions => ({
 });
 
 // Number of recent days a fortune slug must clear before it may recur. The
-// guard in getFortuneZodiacId re-rolls until the candidate isn't among the
-// slugs shown in this many days.
+// guard in getDailyRitual re-rolls until the candidate slug isn't among the
+// slugs shown in this many days — a secondary variety constraint layered on top
+// of the lifetime ritual-uniqueness guarantee.
 export const FORTUNE_REPEAT_WINDOW = 21;
 
 // One roll of the fortune zodiac from a given seed. `seed` perturbs only the
@@ -198,54 +208,25 @@ const rollFortuneZodiacId = (
   return `${P.flavourId}-${S.formId}-${daily.beanId}`;
 };
 
-// `recentSlugs` are the fortune slugs shown over the previous
-// FORTUNE_REPEAT_WINDOW days (the caller pulls them from fortuneHistory). The
-// base roll uses the unperturbed day seed; if it lands on a slug seen in that
-// window, we fold an attempt counter through h32 and re-roll deterministically
-// until we find a slug that wasn't — so a fortune can't repeat inside the
-// window even when one dimension (e.g. bean) keeps collapsing onto a value
-// shared by the spirit and seasonal slugs.
-const getFortuneZodiacId = (
-  date: Date,
-  spirit: DailyDimensions,
-  seasonal: Pick<ZodiacMetadata, "beanId" | "flavourId" | "formId">,
-  recentSlugs: readonly ZodiacId[] = [],
-): ZodiacId => {
-  const daily = getDailyDimensions(date);
-  const d = daysSinceOrigin(date);
+const slugIndex = (
+  dims: Pick<ZodiacMetadata, "beanId" | "flavourId" | "formId">,
+): number =>
+  BEAN_ORDER.indexOf(dims.beanId) * FLAVOUR_ORDER.length * FORM_ORDER.length +
+  FLAVOUR_ORDER.indexOf(dims.flavourId) * FORM_ORDER.length +
+  FORM_ORDER.indexOf(dims.formId);
 
-  const spiritIndex =
-    BEAN_ORDER.indexOf(spirit.beanId) *
-      FLAVOUR_ORDER.length *
-      FORM_ORDER.length +
-    FLAVOUR_ORDER.indexOf(spirit.flavourId) * FORM_ORDER.length +
-    FORM_ORDER.indexOf(spirit.formId);
-  const seasonalIndex =
-    BEAN_ORDER.indexOf(seasonal.beanId) *
-      FLAVOUR_ORDER.length *
-      FORM_ORDER.length +
-    FLAVOUR_ORDER.indexOf(seasonal.flavourId) * FORM_ORDER.length +
-    FORM_ORDER.indexOf(seasonal.formId);
-
-  const avoid = new Set(recentSlugs);
-  // Cap the retries: with at most FORTUNE_REPEAT_WINDOW slugs to dodge out of
-  // 360, an escape is found almost immediately; the cap just guarantees
-  // termination. attempt 0 keeps the unperturbed roll so non-colliding days are
-  // unchanged.
-  for (let attempt = 0; attempt <= 32; attempt++) {
-    const seed = attempt === 0 ? d : (d ^ h32(d, attempt + 1)) >>> 0;
-    const candidate = rollFortuneZodiacId(
-      daily,
-      spiritIndex,
-      seasonalIndex,
-      seasonal,
-      seed,
-    );
-    if (!avoid.has(candidate)) return candidate;
-  }
-  // Pathological saturation — fall back to the base roll rather than loop.
-  return rollFortuneZodiacId(daily, spiritIndex, seasonalIndex, seasonal, d);
-};
+// The lifetime-unique identity of a ritual: a fortune slug plus its variant,
+// and — for the facet variant only — the rolled tier (question/rorschach tiers
+// are the user's answer, not part of the ritual's identity). getDailyRitual
+// re-rolls until this key hasn't been produced before.
+export const ritualKey = (
+  zodiacId: ZodiacId,
+  variant: RitualVariant,
+  qualityId: QualityId,
+): string =>
+  variant === "facet"
+    ? `${zodiacId}:facet:${qualityId}`
+    : `${zodiacId}:${variant}`;
 
 export const getFacetTitle = (zodiac: Zodiac, qualityId: QualityId): string => {
   if (qualityId === QualityIds.Heirloom) return zodiac.facetMostTitle;
@@ -299,25 +280,74 @@ export const getDailyText = (
   return pick("fortuneLow"); // Garden/facetMid resisted → fortuneLow
 };
 
-export const getDailyFortuneIds = (
+export type DailyRitual = {
+  zodiacId: ZodiacId;
+  qualityId: QualityId;
+  variant: RitualVariant;
+};
+
+// The single roll entry point. It rolls the fortune slug, tier and variant
+// together from one day-seed, then re-rolls the whole triple until the
+// resulting ritual key hasn't been produced before (`seenRituals`, the lifetime
+// set the caller builds from history) AND the slug isn't among the last
+// FORTUNE_REPEAT_WINDOW days' slugs (`recentSlugs`, a softer variety guard).
+//
+// attempt 0 uses the unperturbed day seed, so a day with no collision produces
+// byte-for-byte the same slug/tier/variant as the pre-uniqueness roll. On a
+// collision we fold the attempt counter through h32 for a fresh day-seed, which
+// perturbs the slug, the tier and the variant in lockstep. Since the seen set
+// is drawn only from immutable past entries, today's result stays deterministic
+// across reloads.
+export const getDailyRitual = (
   date: Date,
   personalSlug: ZodiacId,
-  // Slugs shown over the previous FORTUNE_REPEAT_WINDOW days; the fortune
-  // zodiac re-rolls to avoid any of them so it can't repeat within the window.
+  seenRituals: ReadonlySet<string> = new Set(),
   recentSlugs: readonly ZodiacId[] = [],
-): { zodiacId: ZodiacId; qualityId: QualityId } => {
+): DailyRitual => {
   const [flavourId, formId, beanId] = personalSlug.split("-") as [
     FlavourId,
     FormId,
     BeanId,
   ];
   const seasonal = getZodiacMetadataForDate(date);
-  const qualityId = getQualityForSlug(personalSlug, date);
-  const zodiacId = getFortuneZodiacId(
-    date,
-    { beanId, flavourId, formId },
-    seasonal,
-    recentSlugs,
-  );
-  return { zodiacId, qualityId };
+  const daily = getDailyDimensions(date);
+  const d = daysSinceOrigin(date);
+  const s = dayFold(personalSlug);
+  const spiritIndex = slugIndex({ beanId, flavourId, formId });
+  const seasonalIndex = slugIndex(seasonal);
+  const avoidSlug = new Set(recentSlugs);
+
+  const roll = (seed: number): DailyRitual => {
+    const variant = variantFromSeed(seed, s);
+    const qualityId = qualityFromSeed(seed, s);
+    const zodiacId = rollFortuneZodiacId(
+      daily,
+      spiritIndex,
+      seasonalIndex,
+      seasonal,
+      seed,
+    );
+    return { zodiacId, qualityId, variant };
+  };
+
+  // Cap the retries generously: as history grows toward the full ritual space
+  // (2,520) a given day's reachable subset thins out relative to the avoidance
+  // set, so escaping a collision can take many re-rolls late in a long streak.
+  // A high cap keeps the guarantee holding until genuine saturation; termination
+  // is still assured. attempt 0 keeps the unperturbed roll so non-colliding days
+  // are unchanged.
+  for (let attempt = 0; attempt <= 512; attempt++) {
+    const seed = attempt === 0 ? d : (d ^ h32(d, attempt + 1)) >>> 0;
+    const candidate = roll(seed);
+    if (
+      !seenRituals.has(
+        ritualKey(candidate.zodiacId, candidate.variant, candidate.qualityId),
+      ) &&
+      !avoidSlug.has(candidate.zodiacId)
+    ) {
+      return candidate;
+    }
+  }
+  // Pathological saturation — fall back to the base roll rather than loop.
+  return roll(d);
 };
