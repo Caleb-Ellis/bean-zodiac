@@ -40,20 +40,13 @@ offer and its emotional temperature, not a switch to an unrelated picture.
   expression at that tier without naming it.
 - **Form**: a noun phrase or short clause. No leading verb. No `You...`. The user is
   describing what they see, not what they'd do.
-- **Length**: short. Six to ten words is the target.
+- **Length**: short. Three to seven words is the target.
 - **No trailing full stops.**
 - Trait alignment lives in the _content_ of what's pictured, not in adjectives about it.
 - **Commit to a specific noun.** Name the actual thing seen — a heron, an anvil, a votive
   jug — never hedge-words like "a form", "a shape", "a mass", "a lump", or
   "two forms". Vague nouns read as wallpaper across 360 entries; the specific noun is what
-  makes a reading feel like a real person free-associating.
-- **Stay mostly plain, with a faint uncanny tint.** The default is everyday concrete nouns —
-  a heron, an anvil, a jug, a hound. This is a divination cosmology, so a _light_ folkloric
-  colour is welcome, but sparingly: think **at most one** of the five per blot carrying any
-  fantastical charge, and even that kept gentle (a "sentinel" stone, a hound at a "shrine"),
-  not a fantasy bestiary (no sphinx/dragon/golem/hydra in every line). If most lines read as
-  myth, you've overshot — dial back to plain nouns. `rorschachMid` is always the most mundane
-  of the five.
+  makes a reading feel like a real person free-associating. Don't be afraid to reach for fantastical or abstract imagery if it fits better than a concrete, real-life noun.
 - **Keep the vocabulary generally knowable.** Use words a person would actually reach for on
-  the spot. No terms that send the reader to a dictionary (no "menhir", "wyvern", "psaltery").
-  If a plainer word works — "standing stone" not "menhir" — use it.
+  the spot. No terms that send the reader to a dictionary.
+  If a plainer word works — use it.

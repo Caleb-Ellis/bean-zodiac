@@ -277,7 +277,7 @@ export default function WheelPage({ data }: Props) {
         >
           {!claimedSlug && (
             <label className="text-xs uppercase tracking-widest text-zinc-400">
-              When were you born?
+              What date is special to you?
             </label>
           )}
           <DateInput value={inputDate} onChange={setInputDate} />

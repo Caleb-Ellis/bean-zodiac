@@ -71,7 +71,7 @@ function regularPolygon(n: number, radius: number): [number, number][] {
 }
 
 function dataPolygon(values: number[]): [number, number][] {
-  const maxVal = Math.max(...values, 40);
+  const maxVal = Math.max(...values, 48);
   return values.map((v, i) => {
     const angle = (i / values.length) * 2 * Math.PI - Math.PI / 2;
     const r = (v / maxVal) * MAX_RADIUS;

@@ -42,7 +42,7 @@ function buildScoredText(
         : qualityId === "garden"
           ? `the ${trait} bean`
           : qualityId === "stale"
-            ? `the not-very ${trait} bean`
+            ? `the slightly ${inverse} bean`
             : `the ${inverse} bean`;
   const Phrase = phrase.charAt(0).toUpperCase() + phrase.slice(1);
   if (score === 0) {
@@ -155,8 +155,7 @@ export function useDailyFortune(
     initialEntry.answeredQuality
       ? initialEntry.answeredQuality
       : rolledQualityId;
-  const initialVariant: RitualVariant =
-    initialEntry?.variant ?? rolledVariant;
+  const initialVariant: RitualVariant = initialEntry?.variant ?? rolledVariant;
 
   const [fortuneZodiac, setFortuneZodiac] = useState<Zodiac | null>(null);
   const [score, setScore] = useState(initialScore);

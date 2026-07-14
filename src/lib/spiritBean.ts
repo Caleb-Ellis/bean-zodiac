@@ -47,46 +47,32 @@ export const SPIRIT_BEAN_RING: BeanId[] = [
 // Base score applied to each of the accepted/resisted zodiac's own triple
 // (its flavour, form, bean), keyed by the rolled quality / answered tier.
 const ACCEPTED_BASE: Record<QualityId, number> = {
-  heirloom: +4,
-  market: +3,
-  garden: +2,
-  stale: -1,
-  rotten: -2,
+  heirloom: +5,
+  market: +4,
+  garden: +3,
+  stale: -2,
+  rotten: -3,
 };
 
 const RESISTED_BASE: Record<QualityId, number> = {
   heirloom: -2,
-  market: -2,
+  market: -1,
   garden: -1,
   stale: +1,
   rotten: +2,
 };
 
-// Weaker "soft" score added to the spirit-tagged attributes. Magnitude tracks
-// how vivid the tier is — strongest at the Most/Least extremes, mildest at Mid.
-// Sign comes from accept/resist (accept lifts, resist lowers); which *set*
-// (friendly vs anti) is active comes from the tier (see the soft pass below).
-// The bean ring takes the full bump; the form ring sits in well-separated
-// baseline territory, so it takes a lighter one that nudges without easily
-// overturning the baseline spread. (Flavours are deliberately untagged.)
-const SOFT_BEAN: Record<QualityId, number> = {
-  heirloom: 2,
-  market: 1,
-  garden: 1,
-  stale: 1,
-  rotten: 2,
-};
-
-const SOFT_FORM: Record<QualityId, number> = {
-  heirloom: 1,
-  market: 1,
-  garden: 1,
-  stale: 1,
-  rotten: 1,
-};
-
-// Trait-positive tiers (the trait) vs anti-trait tiers (its opposite).
-const POSITIVE_TIERS = new Set<QualityId>(["heirloom", "market", "garden"]);
+// Flat "soft" score added to the spirit-tagged attributes on every scored
+// entry. The sign of the base value already encodes the trait-alignment
+// direction of the choice — positive when the vote moves toward the trait
+// (accepting a trait tier, or resisting an anti-trait tier), negative when it
+// moves toward the opposite — so we reuse it: the friendly set takes the full
+// flat bump in that direction and the anti set takes half the bump inverted (see
+// the soft pass). Magnitude is flat (untiered); the bean and form rings each
+// take one point. (Flavours are deliberately untagged — five flavours have no
+// clean opposites, so they ride the base pass only.)
+const SOFT_BEAN = 1;
+const SOFT_FORM = 1;
 
 export const SPIRIT_DIFF_THRESHOLD = 10;
 
@@ -111,14 +97,14 @@ export function computeSpiritBeanScores(
   ) as [FlavourId, FormId, BeanId];
 
   const flavourScores = Object.fromEntries(
-    SPIRIT_FLAVOUR_RING.map((id) => [id, 10]),
+    SPIRIT_FLAVOUR_RING.map((id) => [id, 12]),
   );
-  const formScores = Object.fromEntries(SPIRIT_FORM_RING.map((id) => [id, 10]));
-  const beanScores = Object.fromEntries(SPIRIT_BEAN_RING.map((id) => [id, 10]));
+  const formScores = Object.fromEntries(SPIRIT_FORM_RING.map((id) => [id, 12]));
+  const beanScores = Object.fromEntries(SPIRIT_BEAN_RING.map((id) => [id, 12]));
 
-  flavourScores[claimedFlavourId] += 10;
-  formScores[claimedFormId] += 10;
-  beanScores[claimedBeanId] += 10;
+  flavourScores[claimedFlavourId] += 12;
+  formScores[claimedFormId] += 12;
+  beanScores[claimedBeanId] += 12;
 
   const history = cutoffDateStr
     ? useStore.getState().fortuneHistory.filter((e) => e.date <= cutoffDateStr)
@@ -134,38 +120,29 @@ export function computeSpiritBeanScores(
     ];
 
     // Base pass: the zodiac's own triple, on the accepted/resisted tables.
-    // Rorschach answers count a touch less — pull the magnitude in by 1, but
-    // never past ±1, so the sign (and a minimal nudge) is preserved.
+    // Rorschach answers count half — 50% of a normal score, rounded up, so the
+    // sign (and at least a minimal nudge) is always preserved.
     let base = (accepted ? ACCEPTED_BASE : RESISTED_BASE)[entry.qualityId];
-    if (entry.variant === "rorschach" && Math.abs(base) > 1) {
-      base -= Math.sign(base);
+    if (entry.variant === "rorschach") {
+      base = Math.sign(base) * Math.ceil(Math.abs(base) / 2);
     }
     flavourScores[f] += base;
     formScores[frm] += base;
     beanScores[b] += base;
 
-    // Soft pass: any entry carrying spirit tags. The active set is the
-    // trait-aligned
-    // (friendly) tags on positive tiers and the opposite-aligned (anti) tags on
-    // anti-trait tiers; accepting lifts that set, resisting lowers it,
-    // independent of the base pass on the zodiac's own triple. So accepting an
-    // anti-trait line lifts the anti set while the base pushes your own triple
-    // down — drift toward the beans/flavour/form that line embodies.
+    // Soft pass: any entry carrying spirit tags. Both sets move on every scored
+    // entry, in the trait-alignment direction of the choice — which is exactly
+    // the sign of the base value above. The friendly (trait-embodying) set takes
+    // the full flat bump in that direction; the anti (opposite-embodying) set
+    // takes half the bump in the inverse direction, so a choice both pulls toward
+    // its trait and pushes away from its opposite in one coherent motion. Applied
+    // independently of the base pass on the zodiac's own triple.
     if (entry.spiritTags) {
+      const dir = Math.sign(base);
       const t = entry.spiritTags;
-      const positive = POSITIVE_TIERS.has(entry.qualityId);
-      const sign = accepted ? 1 : -1;
-      // Rorschach answers count a touch less here too: pull each soft magnitude
-      // in by 1, floored at 1 so the nudge never vanishes.
-      const ror = entry.variant === "rorschach";
-      const beanMag = SOFT_BEAN[entry.qualityId];
-      const formMag = SOFT_FORM[entry.qualityId];
-      const beanSoft = sign * (ror ? Math.max(1, beanMag - 1) : beanMag);
-      const formSoft = sign * (ror ? Math.max(1, formMag - 1) : formMag);
-      for (const id of positive ? t.friendlyBeans : t.antiBeans) {
-        beanScores[id] += beanSoft;
-      }
-      formScores[positive ? t.friendlyForm : t.antiForm] += formSoft;
+      for (const id of t.friendlyBeans) beanScores[id] += dir * SOFT_BEAN;
+      for (const id of t.antiBeans) beanScores[id] -= dir * (SOFT_BEAN / 2);
+      formScores[t.friendlyForm] += dir * (SOFT_FORM / 2);
     }
   }
 

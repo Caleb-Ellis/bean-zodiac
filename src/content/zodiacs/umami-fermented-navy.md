@@ -1,5 +1,6 @@
 ---
 slug: umami-fermented-navy
+lastUpdated: 2026-07-15
 bean: navy
 flavour: umami
 form: fermented
@@ -29,17 +30,17 @@ facetLowTitle: The Crust's Split
 facetLow: At the market you fill the bag with whatever looks good — figs, a bunch of dahlias, three kinds of cheese — and it's only at the till you think about the total.
 facetLeastTitle: Miso From the Jar
 facetLeast: You sign for the loudest dog at the shelter, and it's only on the drive home that you wonder whether your lease even allows one.
-question: You've been weighing a move for months and a window to make it opens this week. You...
-answerMost: model one more scenario before deciding
-answerHigh: re-check the assumptions, then commit
-answerMid: pick the safer of the two and go
-answerLow: take the window — it's open
-answerLeast: decide on the spot and figure it out
-rorschachMost: a clock's gear meshing its teeth precisely
-rorschachHigh: a spider crouched at the hub of its web
-rorschachMid: a horse chestnut split open in its husk
-rorschachLow: a dandelion clock half blown apart
-rorschachLeast: a thrown handful of jacks scattering wide
+question: You're putting some furniture of yours up for online auction, not crazy expensive but not cheap either. You...
+answerMost: seed a couple of bids from a friend's account to make it look hot
+answerHigh: time the close for Sunday night and set the reserve to your floor
+answerMid: set a fair reserve and let it run
+answerLow: pick a number that feels right and hope
+answerLeast: list it with no reserve and take whatever it gets
+rorschachMost: a spider closed tight over its prey
+rorschachHigh: a crab eating something from its claws
+rorschachMid: a mustachioed head
+rorschachLow: a steaming cup of cocoa
+rorschachLeast: a squawking parrot
 ---
 
 Miso Navy Beans are the Bean Zodiac's most calculating — and have been quietly rehearsing the next three months for the last six. By the time the obvious moment arrives to act, they've already simulated four versions of it and know which one is least costly to be wrong about, which is why their plans tend to land well when they land.

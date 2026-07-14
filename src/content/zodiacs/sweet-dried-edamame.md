@@ -1,9 +1,10 @@
 ---
 slug: sweet-dried-edamame
+lastUpdated: 2026-07-16
 bean: edamame
 flavour: sweet
 form: dried
-trait: uncomplicated
+trait: straightforward
 inverse: convoluted
 excess: simplistic
 dish: Honey-glazed dried edamame — dried soybeans tossed in hot honey and sea salt until cracked and caramelised.
@@ -14,37 +15,32 @@ antiBeans: [mung, black]
 friendlyForm: boiled
 antiForm: fermented
 seasonalFortune: A season cracked down to the kernel. Hot honey, sea salt, nothing else asked for — the days run short and clean, and what stays is what was load-bearing all along.
-fortuneMost: One straight line, drawn clean.
-fortuneMost2: Hot honey, sea salt, nothing else asked for.
-fortuneHigh: Yes, no qualifier.
-fortuneHigh2: Tired, you lie down.
-fortuneMid: The clean frame can land before you've felt the whole weight of the thing.
-fortuneMid2: You reach for the tidy version fast, and it skips half the problem.
-fortuneLow: You trim your own words to the bone and lose the part that was the point.
-fortuneLow2: Let it stay messy a while.
-fortuneLeast: The chipped mug stays.
-fortuneLeast2: A tangle of yarn with no findable end, and your hands itching to cut it.
+fortuneMost: A single straight line is all it takes.
+fortuneHigh: Lie down if you're tired.
+fortuneMid: It's a yes.
+fortuneLow: The plain answer is not the right one.
+fortuneLeast: The tangled yarn has many ends.
 facetMostTitle: Honey Hardened Fast
-facetMost: One read of the slope is all it takes — the trail forks five unmarked ways, the group dithers in the heat, and you're already walking the one that goes down.
+facetMost: You said you'd try a recipe in your new cookbook tonight. It runs runs three pages — brine it overnight, score the skin, rest the meat twice, sub-recipes for all the trimmings. You would've been happier with a bowl of cereal.
 facetHighTitle: A Bean Glazed Once
-facetHigh: Forty dishes, three variations each, the waiter still reciting — and you wave the whole list off and order the first thing that sounds good.
+facetHigh: Planning a weekend away, your partner's building an itinerary — top sights, weather contingencies, a spreadsheet of options. You're inclined to just book the flights and sort the rest out once you're there.
 facetMidTitle: Salt Cracks; the Matter Closes
-facetMid: A board game stalls while everyone argues the rules three ways. You pick the simplest reading aloud and get the dice moving again.
+facetMid: Two of you are folding a fitted sheet, and your partner is mid-tutorial on the proper corner-tuck. You'd prefer to just get it vaguely rectangular-shaped and call it a day.
 facetLowTitle: Honey in Long Threads
-facetLow: One clean route home would do, but you wind through the old streets instead, doubling back for the long way past everything you wanted to see again.
+facetLow: The satnav says turn right for the fast road home. You go left to run along the coast instead, even if it means the trip stretches an hour longer.
 facetLeastTitle: Each Grain, a Different Shape
-facetLeast: A drawer jams shut on ticket stubs, dried-out pens, and a single odd glove. You ease it back open and keep every last useless scrap of it.
-question: Heads under the bonnet of the broken-down car, your mate starts unspooling the whole tangled mess they're in — family, money, no clean end. You...
-answerMost: stay in the knot with them for as long as the engine takes
-answerHigh: ask the small questions that let them keep going
-answerMid: listen a while, then offer one cleaner way to see it
-answerLow: cut to "why not just do X"
-answerLeast: tell them it's simpler than they're making it and go back to the spark plugs
-rorschachMost: a single straight line drawn clean
-rorschachHigh: one pebble dropped in still water
-rorschachMid: a key on a plain ring
-rorschachLow: a road map folded the wrong way
-rorschachLeast: a tangle of yarn nobody can find the end of
+facetLeast: Intending to clear out your desk drawer, you find a dead watch, a single cufflink, a key that doesn't fit any locks, and some old clothes. You inspect them, then set each thing back where it was.
+question: You're hosting dinner for 4 friends. What are you making?
+answerMost: an online order for delivery
+answerHigh: a one pot pasta
+answerMid: a big roast and a couple easy sides
+answerLow: a starter, a main, and a dessert
+answerLeast: five courses with matched wines
+rorschachMost: nothing discernable
+rorschachHigh: a beating heart
+rorschachMid: a withered ewe skull
+rorschachLow: a jellyfish with a couple of thick tentacles
+rorschachLeast: a squawking, frenzied chicken
 ---
 
 Crystallised Edamame are the Bean Zodiac's most uncomplicated. The reply is short, the answer is yes or no, and the desk is empty by six. They have noticed that most things people fuss over come down to one decision, and they make it. Friends come to them when the noise has gotten loud and leave with one thing to do next.

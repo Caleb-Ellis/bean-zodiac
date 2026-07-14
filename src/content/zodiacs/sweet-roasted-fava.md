@@ -1,5 +1,6 @@
 ---
 slug: sweet-roasted-fava
+lastUpdated: 2026-07-18
 bean: fava
 flavour: sweet
 form: roasted
@@ -14,37 +15,32 @@ antiBeans: [kidney, mung]
 friendlyForm: fermented
 antiForm: smoked
 seasonalFortune: A season of blistered skins and honey pooled in the cracks. The kitchen runs warm and uncovered; what is meant gets said before the pan cools.
-fortuneMost: Begin the hard sentence first and let everyone else arrive into the heat you started.
-fortuneMost2: The crack comes before the flavour with you.
-fortuneHigh: A compliment you've sat on for months — say it straight, full sentences, no "btw."
-fortuneHigh2: You name what nobody else will and a held breath finally goes out.
-fortuneMid: Raise the hard topic early, while everyone's still clear, before the evening goes soft.
-fortuneMid2: Agree with the bits that hold, let the rest pass.
-fortuneLow: Draft it sharp, taste it cold, send only what survives the night.
-fortuneLow2: Ask the question instead of stating the disagreement, and let them walk it back themselves.
-fortuneLeast: Listen a long while.
-fortuneLeast2: Let one go.
+fortuneMost: The jay lets the whole wood know where the hawk sleeps.
+fortuneHigh: Better said than glazed over.
+fortuneMid: Don't be afraid to hand out compliments.
+fortuneLow: Just let it go.
+fortuneLeast: Listen a long while — do not interrupt.
 facetMostTitle: Crackle Before Flavour
-facetMost: The tour guide gets a fact flat wrong and the group nods along. Your hand is already up to say so, right there in front of everyone.
+facetMost: You're at the movies, and the new horror is about to start. By the end, you've let out a few audible gasps and "oh my god"s, as well as a few "who's that guy"s and "what's going on"s.
 facetHighTitle: Skin Splitting Under Heat
-facetHigh: A neighbour you barely know is loading a clearly broken ladder into their van. You walk straight over and tell them it isn't safe.
+facetHigh: At dinner everyone's tiptoeing around the fact that granddad shouldn't be driving anymore — no one was hurt in his recent crash, but it could've been a lot worse. You state your concerns plainly, while he's listening.
 facetMidTitle: Honey in the Fracture
-facetMid: Someone's about to send the whole hiking party down the wrong fork on a hunch. You call out the doubt before the first boot turns.
+facetMid: Your friend sets down the stew they've simmered all afternoon. First mouthful, it's a bit too salty — and you say so.
 facetLowTitle: A Glaze That Sets Slow
-facetLow: The verdict you've got on the new place is sharp and ready. You hold it back and ask the others what they made of it first.
+facetLow: The book club is halfway through praising an autobiography you found unbearably self-aggrandising. When it's your turn to give your thoughts, you say it was interesting, and had a unique perspective.
 facetLeastTitle: The Pan Goes Quiet
-facetLeast: A loud cousin holds the whole dinner hostage with a bad take. You butter your bread, say nothing, and let it roll past.
-question: At the open council meeting the chair asks for objections to a plan you think is plainly wrong, and the room stays quiet. You...
-answerMost: stand and lay out, point by point, why it shouldn't pass
-answerHigh: raise your hand and name the one objection that matters most
-answerMid: voice a mild concern and gauge whether others join
-answerLow: write it on the comment card instead of speaking
-answerLeast: let the silence carry and say nothing
-rorschachMost: a bull snorting steam from its lowered snout
-rorschachHigh: a boar's head with breath fogging the air
-rorschachMid: a hippo's head wallowing at the surface
-rorschachLow: a sheep with its muzzle tucked down
-rorschachLeast: a sleeping boar curled nose to chest
+facetLeast: Your sister's about to sink her savings into a friend's café — a friend you've heard isn't the most reliable. She asks if it's a good idea. You answer with "if you trust your friend".
+question: When you disagree with someone, what do you do?
+answerMost: say so loudly, not just to them but to whoever's in earshot
+answerHigh: tell them straight, to their face
+answerMid: say something, but wait for the right moment
+answerLow: drop a hint and hope they pick it up
+answerLeast: keep it to yourself
+rorschachMost: a shaken can foaming over
+rorschachHigh: a startled bird bursting up off the ground
+rorschachMid: a dirty hiking backpack
+rorschachLow: a hen hunched over her eggs
+rorschachLeast: a clenched fist
 ---
 
 Glazed Fava Beans are the Bean Zodiac's most outspoken — the ones who begin the hard sentence first and let everyone else arrive into the heat they started. They name the thing nobody at the table will, and the room breathes out. They send the long-overdue compliment in full sentences, no "btw" energy.

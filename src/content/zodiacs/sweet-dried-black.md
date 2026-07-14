@@ -40,11 +40,11 @@ answerHigh: put your name down and mean every Saturday of it
 answerMid: offer to help out and see how the first month feels
 answerLow: wait to see if some other parent steps in first
 answerLeast: keep your eyes down and let the season fold
-rorschachMost: a toad settled squat in the mud
-rorschachHigh: an owl hunched still on a post
-rorschachMid: a hen brooding low on the nest
-rorschachLow: a cat half-risen, about to bolt
-rorschachLeast: a bird breaking from the bush, wings flung wide
+rorschachMost: rocks deep under sand
+rorschachHigh: a tortoise in its shell
+rorschachMid: a mound of dark earth
+rorschachLow: a haystack blowing loose
+rorschachLeast: a slumping sandcastle
 ---
 
 Crystallised Black Beans are the Bean Zodiac's most abiding. They are the friend who is just _there_ — at the funeral, at the move, at the wedding nobody else flew in for — and somehow nobody can quite remember inviting them, because they invited themselves the moment they heard.

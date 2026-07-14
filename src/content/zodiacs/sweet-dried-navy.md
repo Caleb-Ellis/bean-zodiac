@@ -1,5 +1,6 @@
 ---
 slug: sweet-dried-navy
+lastUpdated: 2026-07-15
 bean: navy
 flavour: sweet
 form: dried
@@ -20,26 +21,26 @@ fortuneMid: The tasks stop being things you do and become things you are.
 fortuneLow: Pick which obligations still mean something to you.
 fortuneLeast: The cart has been abandoned — its owners, forgotten.
 facetMostTitle: The Loaf No One Requested
-facetMost: A blizzard's shut the whole town in and the old lighthouse still needs its lamp lit. You pull your coat tight and trudge out into the white to keep it burning.
+facetMost: A fever's left you shivering, but it's your turn on the rota to drive granddad to his appointment. You don't think to ring round for a swap — you find the keys and go.
 facetHighTitle: Zest Into Sugar, Before the Eggs
-facetHigh: Out with the watering can before anyone's stirring, asking nothing back — the community garden's plot falls to whoever remembers, which is mostly no one but you.
+facetHigh: You said you'd feed the neighbour's cat while they're away. Morning and night you're there on the dot, and you scoop the litter too, though nobody asked and nobody will check.
 facetMidTitle: Foil Tucked Under
-facetMid: A jar on the break-room shelf collects for someone's leaving gift and sits half-empty. Nobody would notice either way, but you dig out the right coins and drop them in.
+facetMid: A jury summons comes in the mail. You do it without a fuss, and without looking for a way to get out of it.
 facetLowTitle: Lemon by the Squeeze
-facetLow: The clipboard comes round the campsite for the cleanup crew and pens hover over it. You let it pass on by, figuring this once somebody else can take the chore.
+facetLow: Overdue library books sit stacked by the front door, ready to return. You'll step over them a few times before you get around to actually returning them.
 facetLeastTitle: The Batter Left Standing
-facetLeast: Halfway through repainting a fence you promised the whole street you'd finish, the brush goes down. You're bored of it, so you leave the rest patchy and wander off.
+facetLeast: Most houseplants you've owned have had their leaves brown and curl, soil turned to dust from lack of water.
 question: The camp leader wants every bunk in the cabin made to a tight fold for a morning inspection nobody really cares about, and the others have already run off to the lake. You...
 answerMost: fold your own tight, then remake the whole cabin's bunks to match
 answerHigh: make your bunk to a crisp, flawless fold
 answerMid: make it neat enough to pass a glance
 answerLow: pull the blanket roughly straight and leave it
 answerLeast: skip it and head for the lake with the rest
-rorschachMost: a uniform pressed and hung for morning
-rorschachHigh: a clock with both hands kept wound
-rorschachMid: a bell mounted over a doorway
-rorschachLow: a checklist with half the boxes left blank
-rorschachLeast: a punch card torn up and tossed
+rorschachMost: an ox leaning into its yoke
+rorschachHigh: a scarecrow with its arms out
+rorschachMid: a hermit crab cleaning its shell
+rorschachLow: a marionette with its strings gone slack
+rorschachLeast: an old coat dropped in the mud
 ---
 
 Crystallised Navy Beans are the Bean Zodiac's most dutiful. They take the bins out on Tuesday and the recycling on Wednesday and have done for so long that the household has forgotten the days; they answer the dull group thread by morning; they pick up the prescription the day before it runs out, having already noticed the date.

@@ -1,5 +1,6 @@
 ---
 slug: sweet-dried-kidney
+lastUpdated: 2026-07-15
 bean: kidney
 flavour: sweet
 form: dried
@@ -14,37 +15,32 @@ antiBeans: [black, edamame]
 friendlyForm: roasted
 antiForm: smoked
 seasonalFortune: The dried bean keeps its heat tucked under a wrinkled coat; in this household a feeling, once taken in, simmers for months before it is ladled out.
-fortuneMost: The first ticket stub still in a book by the bed, the song from the bad year and the good one both kept.
-fortuneMost2: A heart drawn over and over in the same ink.
-fortuneHigh: You say it first, often, mid-sentence about something else, never checking whether the room was ready.
-fortuneHigh2: Two hands reaching for the same flower.
-fortuneMid: Whoever sits beside you gets the full weather of your heart before the next stop.
-fortuneMid2: Let one honest compliment land on a near-stranger.
-fortuneLow: Save the full heat for the people closest and meet the rest at the room's own volume.
-fortuneLow2: Allow yourself the private quiet.
-fortuneLeast: A sealed envelope left on the counter overnight.
-fortuneLeast2: File the small slight under the running list and don't rush to write it off.
+fortuneMost: A shrine rises where a person once stood.
+fortuneHigh: Two hands reaching for the same flower.
+fortuneMid: One kept ticket stub outlasts the trip.
+fortuneLow: Allow yourself the private quiet.
+fortuneLeast: File the small slight under the running list and don't rush to write it off.
 facetMostTitle: Cinnamon That Does Not Yield
-facetMost: A street musician plays something that catches you square in the chest. The whole handful of coins goes into the case, and you tell them outright, eyes wet, how good they are.
+facetMost: Your new neighbour helps carry a box up your stairs, and from that point on they can do no wrong in your eyes.
 facetHighTitle: Raisins Swelling Against the Spoon
-facetHigh: Up and around the table mid-sentence, arms already open — a friend you've known all of a month has just let slip they had a rough morning.
+facetHigh: Someone you've just started seeing let slip, once, the exact sweet their grandmother used to make when they were small. Weeks later you're on their doorstep with a tin of it, delighted, certain they'll light up.
 facetMidTitle: Coconut Milk on a Low Flame
-facetMid: The cab driver mentions his daughter's first day at school. By the time you climb out you've told him, warmly, that she's lucky to have a dad who notices.
+facetMid: At the crosswalk, a stranger's dog leans its whole weight against your leg. In that moment, in your heart of hearts, you believe it's the greatest dog to have ever lived.
 facetLowTitle: Sweet Potato at Its Corners
-facetLow: Someone toasts you at the party and the whole table turns, glasses up, waiting. You manage a nod and a small thank-you and steer the talk somewhere else.
+facetLow: Your oldest friend drives through the night to be at the hospital before you wake. You secretly wish they didn't make such a fuss.
 facetLeastTitle: The Overnight Soak
-facetLeast: A returning soldier reunites with their dog on the platform and the whole crowd goes misty. You watch it with a faint smile and feel your own pulse stay level.
-question: The small kid lines up the same clumsy magic trick for the third time this afternoon, beaming, certain it'll astonish you again. You...
-answerMost: gasp on cue and watch like you've never seen it done
-answerHigh: lean in and ask the question that lets them do it once more
-answerMid: clap along warmly and let them get to the reveal
-answerLow: smile but sneak a glance at the clock
-answerLeast: gently say you've seen this one a few times now
-rorschachMost: a heart drawn over and over in ink
-rorschachHigh: two hands reaching for the same flower
-rorschachMid: a lantern hung in a doorway
-rorschachLow: a ledger with two columns ruled straight
-rorschachLeast: a sealed envelope left on the counter
+facetLeast: At the wedding, the guests are all misty-eyed as the father of the bride gives a speech about his daughter, how perfect she is. You can't help but think that he's laying it on a bit thick.
+question: An old photo of your first love surfaces in your feed, the two of you looking goofy some evening years ago. You...
+answerMost: feel the old ache, quietly sure no one since has measured up
+answerHigh: smile as the warmth of who they were floods back
+answerMid: linger a moment, glad, then scroll on
+answerLow: barely register it — that was a lifetime ago
+answerLeast: recall exactly why it ended and feel nothing at all
+rorschachMost: a child on tiptoe, arms up to be lifted
+rorschachHigh: a couple of yarns of wool
+rorschachMid: a rock and a crab
+rorschachLow: a skull and ribcage
+rorschachLeast: a gargoyle statue
 ---
 
 Crystallised Kidney Beans are the Bean Zodiac's most adoring. They keep the first ticket stub in a book by the bed. They remember the song from the bad year and the song from the good one. The person they love is the right person, and was the right person before the relationship started, and will be the right person after several pieces of evidence have suggested otherwise.

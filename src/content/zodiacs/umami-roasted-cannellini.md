@@ -1,11 +1,12 @@
 ---
 slug: umami-roasted-cannellini
+lastUpdated: 2026-07-17
 bean: cannellini
 flavour: umami
 form: roasted
 trait: confiding
 inverse: secretive
-excess: unreserved
+excess: indiscreet
 dish: Fagioli al forno - roasted cannellini with parmesan, sage, and garlic.
 quote: Come in, come in. The bean is always on and I have been meaning to tell you something.
 creature: dove
@@ -14,37 +15,32 @@ antiBeans: [kidney, fava]
 friendlyForm: fried
 antiForm: fermented
 seasonalFortune: Garlic softens in a slow oven; the season unlatches by degrees, and what was kept warm finds its right ear before the heat is gone.
-fortuneMost: Tell the one who's earned it the thing you've kept warm.
-fortuneMost2: The right ear is arriving.
-fortuneHigh: Trust one person with what you usually save.
-fortuneHigh2: Garlic in a slow oven gives everything up by degrees.
-fortuneMid: You've told it once or twice; now finish the round.
-fortuneMid2: Hand the unfinished thing to the one who'll see what it could become.
-fortuneLow: A closed door isn't a secret, just a room.
-fortuneLow2: Some of what you carry is meant to stay yours, set down nowhere.
-fortuneLeast: Sometimes the right ear truly hasn't come, and that's no failing.
-fortuneLeast2: Watch that the shelf doesn't quietly become the hiding place.
+fortuneMost: Whisper it, shout it, tell it to whoever will listen.
+fortuneHigh: Your trust in them is not misplaced.
+fortuneMid: The wrong word slips out before the right ear arrives.
+fortuneLow: Behind the closed door is simply an empty room.
+fortuneLeast: Keep your thoughts to yourself, where no one can interrogate them.
 facetMostTitle: Parmesan at the Rim
-facetMost: Walking a friend to their car after a long night, you find yourself telling them the fear you've never said aloud, the words coming easier in the dark and the cold.
+facetMost: You're getting a tattoo, and the artist is deeply focused and not really speaking. Regardless, by the end you've told them your whole life story — the promotion, the breakup, family drama. And you've already forgotten their name.
 facetHighTitle: Sage in the Heat
-facetHigh: Over coffee a new coworker lets slip something tender, more than they meant to — and rather than let them stand out there alone, you match it with something real of your own.
+facetHigh: You're at the ED waiting to be seen, when the stranger in the hospital chair next to you says that they're terrified. You could offer a polite nothing — instead you tell them you're scared too.
 facetMidTitle: Skins at the Oil's Edge
-facetMid: You've hinted at the half-formed idea to one or two people and it's still sitting unfinished. Say the whole of it to someone, or keep turning it over privately?
+facetMid: You've gone to a party in a bit of a low mood, grinning and baring it mostly. Afterwards, it's just you and a new friend left in the kitchen doing the washing-up. Without really meaning to, your bad few weeks come gushing out.
 facetLowTitle: The Shape Under the Crust
-facetLow: A nosy seatmate keeps fishing about your home life on the long coach ride. Give the short, pleasant version and keep the real thing folded up for someone who's earned it.
+facetLow: At a family lunch a relative keeps pressing whether you're seeing anyone yet. You're fine to give a cheerful non-answer as many times as they ask.
 facetLeastTitle: Embers Slow to Give
-facetLeast: A stranger across the campfire asks the big, searching question of the night. You turn it back on them with a warm smile and never quite answer it yourself.
-question: Halfway through the haircut the barber catches your eye in the mirror and asks, easily, how you've really been. You...
-answerMost: tell him the whole of it, the thing you've told no one
-answerHigh: let one true sentence out and watch how it lands in the glass
-answerMid: give him the edge of it, dressed lighter than it is
-answerLow: turn it into a small complaint about work
-answerLeast: say "can't complain" and let the clippers fill the quiet
-rorschachMost: an oak in full leaf dropping its acorns down
-rorschachHigh: a dandelion letting its seeds go on the wind
-rorschachMid: a broad tree with roots spreading underground
-rorschachLow: a mushroom keeping its spores tight under the cap
-rorschachLeast: a willow with its roots bound up in burlap
+facetLeast: Your partner sits you down, worried, and asks straight out what's been going on with you lately — they can tell something is wrong. You look them in the eye and tell them you're fine, even though you're not.
+question: After a few drinks you've been asked, "what is the worst thing you've ever done to someone?". You...
+answerMost: answer it completely, exposing your deepest shame
+answerHigh: give an honest answer, not holding back but not with all the details
+answerMid: answer, but soften the truth of it a bit
+answerLow: give a partial-answer, an allusion to the truth
+answerLeast: keep it to yourself
+rorschachMost: an uprooted tree stump
+rorschachHigh: a blown dandelion
+rorschachMid: a frayed maple leaf
+rorschachLow: rusted parts of armour
+rorschachLeast: some fungus growing underground
 ---
 
 Rendered Cannellini Beans are the Bean Zodiac's most confiding — but on their own clock. The held thing waits until the right ear arrives, and when it does they offer it whole, kept warm exactly long enough not to lose its shape. The friend who gets the late-night call always understands, afterwards, why it was them.

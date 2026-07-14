@@ -45,7 +45,7 @@ export default function SpiritBeanRadar({
   const cy = 150;
   const maxRadius = 88;
   const labelRadius = 106;
-  const maxVal = Math.max(...values, 40);
+  const maxVal = Math.max(...values, 48);
 
   const dataPoints = values.map((v, i) => toPoint(v, maxVal, i, n, cx, cy, maxRadius));
   const polygonPoints = dataPoints.map(([x, y]) => `${x},${y}`).join(" ");

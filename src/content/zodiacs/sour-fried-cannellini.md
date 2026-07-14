@@ -1,5 +1,6 @@
 ---
 slug: sour-fried-cannellini
+lastUpdated: 2026-07-16
 bean: cannellini
 flavour: sour
 form: fried
@@ -14,37 +15,32 @@ antiBeans: [pinto, black]
 friendlyForm: boiled
 antiForm: smoked
 seasonalFortune: Lemon zest keeps in a clean jar; capers hold in their brine. A cannellini life runs on small inventories — each thing named, weighed, set in its row.
-fortuneMost: The one loose twig in a straight bower is the one your eye finds first.
-fortuneMost2: One more pass turns up what the first look missed.
-fortuneHigh: A jar a degree off the row, set true as you pass.
-fortuneHigh2: Wipe the rim before you hand it over.
-fortuneMid: Fix only the front row; the back can barely be seen.
-fortuneMid2: Not every seam is yours to mend.
-fortuneLow: Hand it over with the thumbprints still on it.
-fortuneLow2: Let it leave before the plan is drawn.
-fortuneLeast: The jar tips out brine and all, capers everywhere — and it's fine.
-fortuneLeast2: Plates as they're ready; let the table run ragged.
+fortuneMost: One crooked twig ruins the nest.
+fortuneHigh: Wipe the rim before you hand it over.
+fortuneMid: Give it another look; the first pass missed something.
+fortuneLow: Get the front right; no one sees the back.
+fortuneLeast: Don't worry if it's got a little smudge on it.
 facetMostTitle: The Unbroken Ribbon
-facetMost: Six buttons re-stitched to match because one on the borrowed coat hung loose — and you couldn't hand it back with the others uneven.
+facetMost: You've iced a birthday cake and the piped name is evenly spaced except for one letter sitting a hair too low. You reach for a knife to scrape the whole word off and do it again.
 facetHighTitle: Oil Wiped From the Rim
-facetHigh: A gallery has hung one frame slightly low in the row. It tugs at you the whole visit and you mention it to the desk on the way out.
+facetHigh: Reversing into a tight parking spot, you shunt back and forth until the car sits perfectly parallel between the lines, as many times as it takes.
 facetMidTitle: Garlic Sliced Thin
-facetMid: Following a recipe, you can't help but use the exact-sized pan, the specific timings, the measurements down to the gram — nothing left to chance.
+facetMid: Packing a suitcase for the trip, you find yourself rolling each shirt to the same width and lining the shoes up heel-to-toe along the bottom.
 facetLowTitle: Beans From the Tin
-facetLow: A friend asks for the photos from the trip. You send the whole unsorted roll, blurry ones and all, without a single edit.
+facetLow: You've cut your own fringe over the bathroom sink and it's come out a tiny bit crooked. You decide it's close enough and head out the door.
 facetLeastTitle: Everything at Once
-facetLeast: Assembling a shelf, the instructions slide off the table and you don't reach for them — in it goes by guesswork, leftover screws and all.
-question: You're wrapping a present for a friend and the paper has come out a centimetre short on one side. The tape is already on. You...
-answerMost: peel the tape, recut the paper, start again
-answerHigh: cover the gap with a second strip placed so the pattern still aligns
-answerMid: turn the seam to the back and add a bow over it
-answerLow: shrug, hand it over, mention nothing
-answerLeast: notice the gap two days later in a photo and feel briefly delighted
-rorschachMost: a pressed maple leaf with every lobe laid flat
-rorschachHigh: a frost crystal branching in matched points
-rorschachMid: an oak leaf curling at its ragged edges
-rorschachLow: a torn leaf with half its lobes missing
-rorschachLeast: an ink splatter flung wide across the page
+facetLeast: Making a weeknight dinner, you tear through every spoon, bowl and pan in the kitchen and leave the dishes towering in the sink to deal with tomorrow.
+question: What's your handwriting like?
+answerMost: neat as print, every letter even and upright
+answerHigh: tidy and easy for anyone to read
+answerMid: fine when I slow down for it
+answerLow: a bit of a scrawl, but I can read it fine
+answerLeast: even I struggle to make it out later
+rorschachMost: a dahlia with tight petals
+rorschachHigh: a pinecone, scales in neat rows
+rorschachMid: a maple leaf with curled, ragged edges
+rorschachLow: a torch engulfed in flame
+rorschachLeast: a splatter of ink
 ---
 
 Agrodolce Cannellini Beans are the Bean Zodiac's most meticulous — they catch the thing that was about to go out wrong, and they catch it without slowing down. The proofread happens in the same breath as the writing; the misaligned shelf is squared on the way past it; the email everyone else thought was finished comes back with one quiet correction that saves the morning.

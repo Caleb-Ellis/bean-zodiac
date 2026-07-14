@@ -38,9 +38,7 @@ low expression. `Low` is a light opposite or absence of the `trait`. `Least` cro
 
 Sit cleanly at each point — `Most` speaks the _excess_ of this trait, not a
 neighbour — and keep adjacent slots (Low vs. Least) from collapsing together.
-`Low` and `Least` lean toward the opposite trait: give them a small **wary edge**
-(an acknowledged cost), not pure cheer. Warmth stays; brevity outranks the edge
-when they conflict.
+`Low` and `Least` lean toward the opposite trait; keep them warm.
 
 Older zodiac entries with a 2 variant of each fortune should remove them - there should only be 5 fortunes per zodiac entry.
 

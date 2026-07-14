@@ -21,13 +21,17 @@ with the entry's `excess` field — the trait at its fullest pitch; `answerHigh`
   - `answerMid` — `trait` at low expression / middling
   - `answerLow` — `trait`, low expression: somewhat impulsive / not judicious
   - `answerLeast` — `inverse` fully embraced: fully impulsive (the opposite of judicious)
-- **Form**: short verb phrases that grammatically continue `You...`. No subject — start
-  with a verb. ("ask for tea and another five minutes", "point at random and close the
-  menu")
+- **Form**: match the question's grammar (see [The question](#the-question) for the two
+  shapes). For a scene ending in `You...`, the answers are short verb phrases that continue
+  it — no subject, start with a verb ("ask for tea and another five minutes", "point at
+  random and close the menu"). For a plain standalone question ("What's your handwriting
+  like?"), the answers are short descriptions or options that answer it directly ("neat as
+  print, every letter even", "even I can't make it out later"). Don't mix the two shapes
+  within one entry.
 - **Length**: short. Tight is the goal — no clauses explaining the choice, no
   parentheticals, no justification. The user is supposed to recognize themselves in the
-  _shape_ of the action, not be told what the action means.
-- **No trailing full stops.** The answer is a continuation of the question, not its own
+  _shape_ of the answer, not be told what it means.
+- **No trailing full stops.** The answer is a continuation or a bare option, not its own
   sentence. ("ask for tea and another five minutes" — not "ask for tea and another five
   minutes.")
 - The five together should feel like a real spectrum — each one a plausible choice, with
@@ -84,14 +88,22 @@ quality tier and feeds spirit-bean scoring. Any rewrite must preserve this contr
 
 ## The question
 
-- A short scene, one or two sentences, that sets up a low-stakes micro-decision. Enough
-  context to make the choice feel real; nothing more.
-- Ends with `You...` so the answers read as direct continuations.
+A question takes one of two shapes. Use whichever serves the trait better; vary which one
+you reach for across the corpus so neither becomes the default.
+
+1. **A scene ending in `You...`** — a short scene, one or two sentences, that sets up a
+   low-stakes micro-decision, ending with `You...` so the five answers read as direct
+   continuations. Enough context to make the choice feel real; nothing more.
+2. **A plain standalone question** — a direct question the reader answers about themselves
+   or a preference ("What's your handwriting like?", "How would you spend a free Sunday
+   morning?"). The five answers are options that answer it. Keep it low-stakes and concrete;
+   the trait shows through _which_ option the reader owns, never named in the question.
+
 - The situation can be anything that frames the choice: an everyday scene, a pure hypothetical, or something
   outright fantastical. Unlike the body copy, relatability
   here lives in the _choice_, not the scene — a strange premise is fine as long as the
   five answers map onto recognizable instincts.
-- Tied to the trait, but obliquely — the question is a scene where the trait gets
+- Tied to the trait, but obliquely — the question is a scene or prompt where the trait gets
   tested, not a quiz about the trait. The five answers do the trait-mapping work.
 
 ---

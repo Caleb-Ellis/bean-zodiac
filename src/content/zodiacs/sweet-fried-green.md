@@ -4,7 +4,7 @@ bean: green
 flavour: sweet
 form: fried
 trait: fidgety
-inverse: motionless
+inverse: immobile
 excess: twitchy
 dish: Green bean tempura with matcha sugar — blistered in light batter and tossed in powdered green tea and fine sugar.
 quote: I have measured out my bean in coffee spoons.
@@ -14,37 +14,32 @@ antiBeans: [butter, cannellini]
 friendlyForm: fermented
 antiForm: boiled
 seasonalFortune: A skittering season. The oil never quite settles; matcha sugar drifts from one surface to the next before it can cling. Small motions multiply.
-fortuneMost: Call them while you walk it off.
-fortuneMost2: Small motions multiplying, the matcha drifting surface to surface — a skittering week, and your energy is going to sweep people along with it.
-fortuneHigh: Of everything you keep reopening, one is the real one.
-fortuneHigh2: Move the lamp, refill the bowl, start the song.
-fortuneMid: Hand the fidget to your hands.
-fortuneMid2: Give the jogging knee a job and let it run.
-fortuneLow: One whole conversation, hands still, just listening.
-fortuneLow2: Let the errand wait its turn and arrive last, unhurried.
-fortuneLeast: The oldest open thing before the shiny new one — yes, the one that stopped being interesting around minute eleven.
-fortuneLeast2: Read the same page twice on purpose.
+fortuneMost: A chipmunk with ten burrows fills none of them.
+fortuneHigh: Restless feet cover the most ground.
+fortuneMid: Don't bounce the knee incessantly — channel the restless energy somewhere.
+fortuneLow: Stay still long enough and the birds will come back.
+fortuneLeast: Beans fry better when you stop fiddling with them.
 facetMostTitle: Batter in Twelve Directions
-facetMost: A long red light, and the engine idling is more than you can sit through. You're out checking the tyre pressure, wiping a smear off the mirror, fiddling with the radio dial before it greens.
+facetMost: It doesn't matter if you've know them ten years or ten seconds — if someone touches you unexpectedly, you jump out of your skin.
 facetHighTitle: Sugar Shaken Loose
-facetHigh: At the campsite there's a fire to feed, so you keep feeding it — poking, adding twigs, nudging the logs, never letting it just burn on its own for a minute.
+facetHigh: The recipe says to make sure the chicken thighs are fully browned before flipping them. You prod them, shake them, look at the underside five times before it reaches the right colour.
 facetMidTitle: Tempura Under Restless Tongs
-facetMid: Waiting for a friend on a park bench, your foot's tapping, a stone's getting rolled under your shoe, a leaf is being shredded — something has to keep moving while you sit.
+facetMid: You're at the pub with a close friend, someone you're very comfortable with. Regardless, you quietly peel the whole label off your beer bottle without noticing.
 facetLowTitle: Matcha Dust Settling
-facetLow: Where the trail bottlenecks at a narrow bridge, the line backs up and you're happy at the very rear of it, letting everyone funnel through with no itch at all to reach the front.
+facetLow: Out fishing at the riverbank, nothing has bitten in almost an hour. You keep the line in and stay put, happy to just watching the water drift by.
 facetLeastTitle: The Bean Held Until It Darkens
-facetLeast: A potter at the fair lets you sit and watch one bowl get thrown start to finish. You stay for the whole slow turning, and you don't reach for your phone once.
-question: Twenty minutes in the dentist's waiting room and no phone. You...
-answerMost: fidget through every magazine on the rack, then start re-reading the leaflets
-answerHigh: cross and uncross your legs, get up twice to look at the noticeboard
-answerMid: pick one article and force yourself through it
-answerLow: sit, watch the room, breathe
-answerLeast: close your eyes and rest until your name is called
-rorschachMost: two mice darting apart from a dropped crumb
-rorschachHigh: two sparrows squabbling, barely touching
-rorschachMid: two clouds pulling apart over a ridge
-rorschachLow: two owls perched close, neither one stirring
-rorschachLeast: an hourglass with the sand long since run out
+facetLeast: You've been asked to model for a still-life art class. You'll be clothed, but will need to be very still for around an hour. You can do it without a problem.
+question: An hour into a long morning drive and you're in the passenger seat, still a way to go. You...
+answerMost: cannot get comfortable at all — seat back, seat forward, feet up, feet down
+answerHigh: keep shifting and rummaging, legs bouncing, frequently changing position
+answerMid: move around a bit, disliking the stillness but managing
+answerLow: reposition once or twice, but otherwise just sink into your seat
+answerLeast: sit still however long it ends up taking
+rorschachMost: moths batting at a lamp
+rorschachHigh: an octopus evading a predator
+rorschachMid: a broken candle
+rorschachLow: toads hunched in the mud
+rorschachLeast: fossilised bones
 ---
 
 Caramelised Green Beans are the Bean Zodiac's most fidgety — and the fidget is somehow charming, a kitchen always alive with someone moving the lamp, refilling the bowl, starting a song. They text mid-walk, cook mid-thought, rearrange the shelves while telling you about their day. The energy is generous: it sweeps other people along, and rooms feel duller when they leave.
