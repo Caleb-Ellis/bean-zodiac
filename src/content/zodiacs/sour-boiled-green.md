@@ -6,13 +6,14 @@ form: boiled
 trait: restless
 inverse: placid
 excess: fretful
+friendlyBeans: [kidney, pinto]
+friendlyForm: fried
+antiTriple: bitter-dried-butter
+antiBeans: [black, mung]
+antiForm: smoked
 dish: Taze fasulye - Turkish green beans slow-cooked with lemon, garlic, and tomato.
 quote: I am not a bean at ease.
 creature: timber wolf
-friendlyBeans: [kidney, pinto]
-antiBeans: [butter, black]
-friendlyForm: fried
-antiForm: dried
 seasonalFortune: A season of lemon working into the pod. The household that slow-cooks under sharpness finds its rooms rearranged by Wednesday and the garlic already chopped twice.
 fortuneMost: The itch is six inches wide.
 fortuneMost2: You catch the stale thing before the rest of the household does.

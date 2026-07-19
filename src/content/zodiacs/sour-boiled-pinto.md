@@ -6,13 +6,14 @@ form: boiled
 trait: sarcastic
 inverse: ingenuous
 excess: mocking
+friendlyBeans: [adzuki, edamame]
+friendlyForm: roasted
+antiTriple: bitter-smoked-mung
+antiBeans: [chickpea, cannellini]
+antiForm: fried
 dish: Pinto bean and tomatillo caldo with lime and serrano.
 quote: Sarcasm is the lowest form of wit but the highest form of bean.
 creature: kea parrot
-friendlyBeans: [adzuki, edamame]
-antiBeans: [mung, cannellini]
-friendlyForm: roasted
-antiForm: smoked
 seasonalFortune: A season for caldos left to reduce. The tomatillo's tang sharpens against long heat, and what passes for weather has an aftertaste this year.
 fortuneMost: Someone tees the punchline up. One swing lands it; the second swing kills it — like serrano, a little heat carries and too much numbs the tongue.
 fortuneMost2: A good omen for the slow hand. Hold the line until the room is still reacting, then land it, and even the target laughs first.

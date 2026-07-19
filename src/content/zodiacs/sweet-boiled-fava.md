@@ -6,13 +6,14 @@ form: boiled
 trait: insistent
 inverse: acquiescent
 excess: badgering
+friendlyBeans: [cannellini, mung]
+friendlyForm: smoked
+antiTriple: spicy-smoked-edamame
+antiBeans: [kidney, green]
+antiForm: fried
 dish: Habas dulces — young fava beans boiled briefly and tossed with honey, lemon zest, and fresh mint.
 quote: It does not matter how slowly you bean, as long as you do not stop.
 creature: gull
-friendlyBeans: [cannellini, mung]
-antiBeans: [edamame, kidney]
-friendlyForm: smoked
-antiForm: smoked
 seasonalFortune: A low simmer outlasts the cook who set it; the honey thickens through hours nobody watches, and the pot keeps asking until the answer comes.
 fortuneMost: Ask it again, gently, in the very same words. Repeat it until the table can no longer pretend it didn't hear you.
 fortuneMost2: You don't get bored, don't escalate, don't go away — and the honey in your asking is real.

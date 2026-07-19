@@ -6,13 +6,14 @@ form: smoked
 trait: hazy
 inverse: distinct
 excess: fogbound
+friendlyBeans: [black, mung]
+friendlyForm: fermented
+antiTriple: spicy-fried-kidney
+antiBeans: [green, pinto]
+antiForm: roasted
 dish: Gigantes plaki - butter beans baked with sweet tomato, smoked paprika, and honey.
 quote: Que bean sera, sera. Whatever will bean, will bean.
 creature: luna moth
-friendlyBeans: [black, mung]
-antiBeans: [green, pinto]
-friendlyForm: fermented
-antiForm: fried
 seasonalFortune: The weeks come on slow as smoke through a low oven. Tomato deepens into honey, honey into paprika, and nothing in the season insists on a single name for itself.
 fortuneMost: Set no alarm.
 fortuneMost2: The good hours come when no one schedules them.

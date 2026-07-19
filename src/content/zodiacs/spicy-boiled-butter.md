@@ -6,13 +6,14 @@ form: boiled
 trait: stoic
 inverse: histrionic
 excess: repressed
+friendlyBeans: [navy, mung]
+friendlyForm: dried
+antiTriple: sour-fermented-green
+antiBeans: [chickpea, cannellini]
+antiForm: smoked
 dish: Kuru fasulye - Turkish butter bean stew with Aleppo pepper and slow-cooked onion.
 quote: You have power over your bean, not outside events. Realize this, and you will find strength.
 creature: bactrian camel
-friendlyBeans: [navy, mung]
-antiBeans: [chickpea, green]
-friendlyForm: dried
-antiForm: fermented
 seasonalFortune: A long simmer flattens the loudest pepper. The season favours those whose surfaces do not betray what the onion is doing underneath.
 fortuneMost: When the bad news lands, you'll ask the practical question before anyone else catches their breath.
 fortuneMost2: A frightened house turns to you for its weather this week.

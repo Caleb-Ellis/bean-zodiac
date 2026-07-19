@@ -6,13 +6,14 @@ form: roasted
 trait: forthright
 inverse: cagey
 excess: blurting
+friendlyBeans: [pinto, cannellini]
+friendlyForm: fried
+antiTriple: bitter-fermented-black
+antiBeans: [mung, kidney]
+antiForm: smoked
 dish: Yaki edamame with yuzu kosho - oven-roasted edamame with yuzu pepper paste and flaky salt
 quote: All you need in this life is ignorance and beans, and then success is sure.
 creature: mastiff
-friendlyBeans: [pinto, cannellini]
-antiBeans: [black, mung]
-friendlyForm: fried
-antiForm: fermented
 seasonalFortune: The season favors pods that crack on the pan. What was hidden under the shell now salts the air, and rooms around such people learn quickly what they are.
 fortuneMost: This turn the pod cracks on the pan and the air clears for it.
 fortuneMost2: Someone across from you has spent ages rehearsing a polite version of the same thought.

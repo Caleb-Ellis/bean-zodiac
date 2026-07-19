@@ -6,13 +6,14 @@ form: roasted
 trait: outgoing
 inverse: withdrawn
 excess: overfamiliar
+friendlyBeans: [adzuki, pinto]
+friendlyForm: fried
+antiTriple: sour-dried-black
+antiBeans: [navy, cannellini]
+antiForm: boiled
 dish: Chaat - roasted chickpeas with bitter lime and green chutney.
 quote: You catch more beans with honey.
 creature: golden retriever
-friendlyBeans: [adzuki, pinto]
-antiBeans: [black, edamame]
-friendlyForm: fried
-antiForm: dried
 seasonalFortune: A season of crackled skins and shared lime. The bitter rind softens against company; the chaat-eater of this kind moves toward the loudest table and finds the bowl already half-eaten.
 fortuneMost: You drift to the loudest table and inside a minute the chutney's being argued over.
 fortuneMost2: A face you haven't met yet is about to walk in and be a friend before the lime is gone.

@@ -6,13 +6,14 @@ form: dried
 trait: unerring
 inverse: fallible
 excess: infallible
+friendlyBeans: [edamame, pinto]
+friendlyForm: boiled
+antiTriple: sweet-roasted-fava
+antiBeans: [kidney, green]
+antiForm: fermented
 dish: Pasta e fagioli - dried cannellini and pasta soup with peperoncino.
 quote: I came, I saw, I beaned.
 creature: gyrfalcon
-friendlyBeans: [edamame, pinto]
-antiBeans: [kidney, fava]
-friendlyForm: boiled
-antiForm: roasted
 seasonalFortune: Dried beans hold their shape through long heat; peperoncino leaves a mark that outlasts the bowl. So with this one — measured, and lingering.
 fortuneMost: You'll see the real problem before anyone's finished explaining it.
 fortuneMost2: A bean that holds its shape through long heat, a pepper that outlasts the bowl.

@@ -6,13 +6,14 @@ form: fried
 trait: confrontational
 inverse: conciliatory
 excess: combative
+friendlyBeans: [green, adzuki]
+friendlyForm: roasted
+antiTriple: sweet-smoked-butter
+antiBeans: [cannellini, mung]
+antiForm: boiled
 dish: Akara - kidney bean fritters with bitter pepper sauce.
 quote: The bean who speaks the difficult truth is a friend; the one who flatters is an enemy.
 creature: goat
-friendlyBeans: [green, adzuki]
-antiBeans: [cannellini, butter]
-friendlyForm: roasted
-antiForm: smoked
 seasonalFortune: A season that keeps the oil at temperature. Soft answers blister off the surface; the bitter pepper carries further than the polite word, and the kitchen learns it.
 fortuneMost: Say the difficult thing plainly, names and edges intact.
 fortuneMost2: A door you keep walking past, and behind it the conversation that won't soften while you stall.

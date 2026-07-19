@@ -7,13 +7,14 @@ form: boiled
 trait: moody
 inverse: even-tempered
 excess: sullen
+friendlyBeans: [mung, chickpea]
+friendlyForm: roasted
+antiTriple: sour-dried-cannellini
+antiBeans: [navy, butter]
+antiForm: fermented
 dish: Frijoles de olla - pinto beans simmered with chile de árbol.
 quote: I am not moody — I am a bean with feelings.
 creature: tomcat
-friendlyBeans: [mung, chickpea]
-antiBeans: [navy, cannellini]
-friendlyForm: roasted
-antiForm: dried
 seasonalFortune: Their season runs hot then quiet, the pot never the same twice. A chile lifts the broth at noon; by evening it has gone inward, dark and brooding.
 fortuneMost: A grey hour finds you before it finds the sky.
 fortuneHigh: Rested beans are reasonable beans — but beans need not be reasonable.

@@ -6,13 +6,14 @@ form: fried
 trait: energetic
 inverse: lethargic
 excess: hyperactive
+friendlyBeans: [kidney, edamame]
+friendlyForm: roasted
+antiTriple: bitter-fermented-cannellini
+antiBeans: [black, pinto]
+antiForm: smoked
 dish: Spicy butter bean croquetas - fried bean cakes with smoked paprika.
 quote: The world is charged with the grandeur of the bean.
 creature: hare
-friendlyBeans: [kidney, edamame]
-antiBeans: [cannellini, pinto]
-friendlyForm: roasted
-antiForm: fermented
 seasonalFortune: A season lived at frying temperature, paprika on every surface; the pan is rarely cold and the residue collects on whatever is closest.
 fortuneMost: Stairs two at a time, an answer before the question lands.
 fortuneMost2: A kicked-around idea heats under your hands until everyone's suddenly part of the plan.

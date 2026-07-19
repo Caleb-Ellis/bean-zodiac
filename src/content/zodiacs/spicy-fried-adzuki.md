@@ -6,13 +6,14 @@ form: fried
 trait: irrepressible
 inverse: subdued
 excess: uncontainable
+friendlyBeans: [green, edamame]
+friendlyForm: fermented
+antiTriple: bitter-smoked-black
+antiBeans: [butter, fava]
+antiForm: dried
 dish: Spicy adzuki jeon - Korean pan-fried adzuki bean pancake with gochugaru.
 quote: Don't stop me now - I'm having such a good bean!
 creature: jack russell
-friendlyBeans: [green, edamame]
-antiBeans: [black, mung]
-friendlyForm: fermented
-antiForm: smoked
 seasonalFortune: A season of full pans and loud oil. The batter spits before it sets; the red bleeds early into everything it touches, and the kitchen forgets how to be quiet.
 fortuneMost: Small good news, in your hands, becomes a reason to call three more people.
 fortuneMost2: A door opens mid-sentence and the whole street hears you coming.

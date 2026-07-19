@@ -6,13 +6,14 @@ form: roasted
 trait: open-minded
 inverse: narrow-minded
 excess: overcredulous
+friendlyBeans: [mung, fava]
+friendlyForm: fried
+antiTriple: bitter-dried-navy
+antiBeans: [black, cannellini]
+antiForm: smoked
 dish: Fatteh - toasted flatbread layered with roasted chickpeas, yogurt, and pomegranate molasses
 quote: The bean mind is like a parachute — it only works when open.
 creature: bottlenose
-friendlyBeans: [mung, fava]
-antiBeans: [black, edamame]
-friendlyForm: fried
-antiForm: dried
 seasonalFortune: A season when the flatbread softens under what is poured over it. Old certainties go pleasantly soggy; the household acquires unfamiliar guests, unfamiliar molasses.
 fortuneMost: The objection you meant to dismiss turns out to be the stronger argument — that's the luck of your turn.
 fortuneMost2: The loudest dissenter's certainty is your raw material, the way pomegranate molasses pours flavour over plain bread.

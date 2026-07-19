@@ -6,13 +6,14 @@ form: roasted
 trait: capricious
 inverse: unwavering
 excess: flighty
+friendlyBeans: [kidney, chickpea]
+friendlyForm: fried
+antiTriple: bitter-dried-navy
+antiBeans: [butter, cannellini]
+antiForm: boiled
 dish: Green beans roasted with pomegranate molasses and toasted almonds — charred at the tips, sticky and sweet from the oven.
 quote: Consistency is the last refuge of the unimaginative bean.
 creature: kitten
-friendlyBeans: [kidney, chickpea]
-antiBeans: [navy, cannellini]
-friendlyForm: fried
-antiForm: dried
 seasonalFortune: A pan left in a hot oven keeps cooking past the cook's intention. Seasons here arrive sticky-tipped and uneven, sweetness pooling wherever the heat last leaned.
 fortuneMost: Abandon the plan for the better, weirder one and don't look back.
 fortuneMost2: A swerve pays off this turn — the wind shifts and you shift with it, gladly.

@@ -7,13 +7,14 @@ form: dried
 trait: clinical
 inverse: emotional
 excess: cold-blooded
+friendlyBeans: [cannellini, black]
+friendlyForm: smoked
+antiTriple: spicy-fried-kidney
+antiBeans: [green, adzuki]
+antiForm: boiled
 dish: Moong Dal - mung beans with methi and turmeric.
 quote: First, do no harm to beans.
 creature: mantis
-friendlyBeans: [cannellini, black]
-antiBeans: [kidney, green]
-friendlyForm: smoked
-antiForm: fried
 seasonalFortune: A season weighed in grams. The household that keeps dried mung in a labelled jar moves through these weeks unhurried, spending only what the ledger has named.
 fortuneMost: Something breaks nearby - your hands stay steady.
 fortuneHigh: Water is clearest when it's still.

@@ -6,13 +6,14 @@ form: boiled
 trait: steadfast
 inverse: fickle
 excess: intractable
+friendlyBeans: [navy, butter]
+friendlyForm: smoked
+antiTriple: spicy-fried-kidney
+antiBeans: [green, chickpea]
+antiForm: fermented
 dish: Frijoles de olla con piloncillo — black beans slow-boiled with raw cane sugar and a cinnamon stick.
 quote: Not all those who wander are beans.
 creature: draught horse
-friendlyBeans: [navy, butter]
-antiBeans: [chickpea, green]
-friendlyForm: smoked
-antiForm: fried
 seasonalFortune: The piloncillo dissolves while the bean keeps its skin. Around such a person, weather changes and rooms change, and the pot goes on simmering.
 fortuneMost: A decade of silence, and you'll greet them in the same voice — no ledger of the missing years. Tell the one you've quietly kept that you mean to keep them.
 fortuneMost2: Somewhere a friendship you've tended without thanks is about to turn and thank you.

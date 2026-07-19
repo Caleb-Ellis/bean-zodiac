@@ -6,13 +6,14 @@ form: fried
 trait: bold
 inverse: timorous
 excess: brash
+friendlyBeans: [cannellini, fava]
+friendlyForm: boiled
+antiTriple: umami-fermented-mung
+antiBeans: [butter, black]
+antiForm: smoked
 dish: Spicy edamame gyoza - pan-fried dumplings with doubanjiang dipping sauce.
 quote: Fortune favours the bean.
 creature: lion
-friendlyBeans: [cannellini, fava]
-antiBeans: [mung, butter]
-friendlyForm: boiled
-antiForm: fermented
 seasonalFortune: A pan kept hot favours the cook who commits. The season belongs to the pleat sealed before the filling cools, the gesture made while the oil still talks back.
 fortuneMost: Speak first into the quiet and the whole table arranges itself around it.
 fortuneMost2: A silence is about to open, and you'll fill it with a sentence that isn't perfect — only said.

@@ -7,13 +7,14 @@ form: boiled
 trait: conscientious
 inverse: unscrupulous
 excess: punctilious
+friendlyBeans: [navy, edamame]
+friendlyForm: dried
+antiTriple: sweet-fermented-chickpea
+antiBeans: [pinto, fava]
+antiForm: roasted
 dish: Pasta e fagioli - cannellini with anchovy paste and Parmesan rind.
 quote: In matters of bean, swim with the current; in matters of principle, stand like a cannellini.
 creature: ant
-friendlyBeans: [edamame, navy]
-antiBeans: [chickpea, pinto]
-friendlyForm: dried
-antiForm: smoked
 seasonalFortune: A season of slow stocks and labelled jars. The pot holds its low simmer; the rind gives up its salt by degrees, and nothing useful is hurried out of the broth.
 fortuneMost: The pot is clean; yet still you scrub.
 fortuneHigh: One grain at a time, the ant stocks the whole hill by nightfall.

@@ -6,13 +6,14 @@ form: fermented
 trait: visionary
 inverse: shortsighted
 excess: megalomaniac
+friendlyBeans: [chickpea, kidney]
+friendlyForm: fried
+antiTriple: bitter-boiled-navy
+antiBeans: [edamame, butter]
+antiForm: dried
 dish: Fave dolci al Marsala — fava beans braised in sweet Marsala wine with sugar and lemon until the liquid becomes a syrup.
 quote: The bean is not to predict the future but to imagine it.
 creature: bald eagle
-friendlyBeans: [chickpea, kidney]
-antiBeans: [navy, adzuki]
-friendlyForm: fried
-antiForm: boiled
 seasonalFortune: Marsala deepens in the crock; sugar and lemon bind to something the cook glimpsed weeks back. The season favours those whose private syrups now turn legible on the spoon.
 fortuneMost: Draw the future rough and slide it across to someone. The napkin sketch carries what a careful presentation never could.
 fortuneMost2: You'll hear the hinge turn before anyone else in the room.

@@ -6,13 +6,14 @@ form: fried
 trait: motivated
 inverse: demotivated
 excess: grasping
+friendlyBeans: [kidney, green]
+friendlyForm: dried
+antiTriple: umami-fermented-mung
+antiBeans: [adzuki, black]
+antiForm: smoked
 dish: Honey butter fried edamame — soybeans deep-fried until blistered, tossed hot in honey butter and flaked salt.
 quote: The secret of getting ahead is getting beaned.
 creature: racehorse
-friendlyBeans: [kidney, green]
-antiBeans: [mung, butter]
-friendlyForm: dried
-antiForm: fermented
 seasonalFortune: A season when the oil runs hot and the honey sets fast; pods are pulled from the pan before the cook can second-guess.
 fortuneMost: Out the door while the day's still soft, and something warm in hand for the friend on the way back.
 fortuneMost2: The oil runs hot and the honey sets fast — a stretch where waking up becomes a gentle propulsion.

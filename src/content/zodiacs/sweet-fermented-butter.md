@@ -6,13 +6,14 @@ form: fermented
 trait: silly
 inverse: sober
 excess: inane
+friendlyBeans: [pinto, adzuki]
+friendlyForm: roasted
+antiTriple: sour-dried-cannellini
+antiBeans: [green, kidney]
+antiForm: fried
 dish: Butter bean and labneh with honey — cooked butter beans stirred through strained fermented yogurt and drizzled with wildflower honey.
 quote: The bean abides.
 creature: goose chick
-friendlyBeans: [pinto, adzuki]
-antiBeans: [cannellini, fava]
-friendlyForm: roasted
-antiForm: dried
 seasonalFortune: A season when the heaviest crocks turn sweetest. Cellars hum, the labneh slumps in its cloth, and the honeyjar tilts toward whoever passes nearest the shelf.
 fortuneMost: A goose chick honks, and the world brightens.
 fortuneHigh: Put googly eyes on something load-bearing.

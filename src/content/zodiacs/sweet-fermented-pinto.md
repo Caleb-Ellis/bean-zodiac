@@ -6,13 +6,14 @@ form: fermented
 trait: anxious
 inverse: unflappable
 excess: panicked
+friendlyBeans: [green, chickpea]
+friendlyForm: smoked
+antiTriple: umami-boiled-navy
+antiBeans: [mung, butter]
+antiForm: dried
 dish: Pinto in tepache — speckled beans simmered in sweet fermented pineapple drink with piloncillo and cloves.
 quote: My bean is afraid of it, and yet I still want to do it.
 creature: rabbit
-friendlyBeans: [green, chickpea]
-antiBeans: [navy, butter]
-friendlyForm: smoked
-antiForm: boiled
 seasonalFortune: A season that ferments under the lid; the pineapple sweetens slowly while the cook listens for hiss, ready to vent the jar before it splits.
 fortuneMost: Walk in without the three rehearsed openings.
 fortuneMost2: You've lived three versions of the evening before arriving at the real one. Step into the real one.

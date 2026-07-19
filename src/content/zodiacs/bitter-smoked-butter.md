@@ -6,13 +6,14 @@ form: smoked
 trait: adrift
 inverse: anchored
 excess: unmoored
+friendlyBeans: [mung, black]
+friendlyForm: fermented
+antiTriple: spicy-fried-kidney
+antiBeans: [adzuki, edamame]
+antiForm: roasted
 dish: Smoked butter bean with bitter herb oil.
 quote: We are such stuff as beans are made on.
 creature: jellyfish
-friendlyBeans: [mung, black]
-antiBeans: [green, kidney]
-friendlyForm: fermented
-antiForm: fried
 seasonalFortune: Smoke takes hours to settle into fat, and longer still to leave it. The season favours those who absorb without noticing, and notice long after the source has gone cold.
 fortuneMost: A long thought is towing you out toward the water.
 fortuneMost2: An hour will vanish into the slant of light on a wall, and you'll come back from it richer.

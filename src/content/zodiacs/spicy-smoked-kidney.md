@@ -6,13 +6,14 @@ form: smoked
 trait: consuming
 inverse: passing
 excess: devouring
+friendlyBeans: [green, mung]
+friendlyForm: fried
+antiTriple: umami-dried-fava
+antiBeans: [butter, adzuki]
+antiForm: roasted
 dish: Red beans and rice - New Orleans kidney beans slow-cooked with smoked andouille and Cajun spice.
 quote: Love is a smoke made with the fume of bean.
 creature: locust
-friendlyBeans: [green, mung]
-antiBeans: [chickpea, fava]
-friendlyForm: fried
-antiForm: dried
 seasonalFortune: A pot kept at low boil for hours. The andouille gives up its fat slowly, and the season belongs to those who tend one thing past sensible.
 fortuneMost: You love a thing past comfortable, the way the andouille gives up its fat only after hours — and what you make at that heat, no one cooler can reach.
 fortuneMost2: The world narrows to one bright pot and nothing else is interesting.

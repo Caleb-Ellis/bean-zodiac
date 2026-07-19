@@ -6,13 +6,14 @@ form: roasted
 trait: insightful
 inverse: vacuous
 excess: conspiratorial
+friendlyBeans: [mung, adzuki]
+friendlyForm: fermented
+antiTriple: sour-fried-edamame
+antiBeans: [green, kidney]
+antiForm: boiled
 dish: Soy and mirin roasted black soybeans with ginger and star anise.
 quote: The only true wisdom is knowing you know nothing about beans.
 creature: snowy owl
-friendlyBeans: [adzuki, butter]
-antiBeans: [green, edamame]
-friendlyForm: fermented
-antiForm: fried
 seasonalFortune: A season for the slow stare. Glaze hardens over what matters; the season belongs to those willing to crack it and read what cooled underneath.
 fortuneMost: You saw it early and you're right. Say it out loud — the answer's been waiting on your voice the whole time.
 fortuneMost2: While everyone argues the surface, you've already found the real question underneath.

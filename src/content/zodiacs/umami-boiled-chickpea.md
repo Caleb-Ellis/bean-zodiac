@@ -7,13 +7,14 @@ form: boiled
 trait: adaptable
 inverse: intransigent
 excess: chameleonic
+friendlyBeans: [fava, mung]
+friendlyForm: smoked
+antiTriple: sweet-fried-edamame
+antiBeans: [green, adzuki]
+antiForm: dried
 dish: Garbanzos con setas - chickpeas and wild mushrooms in sherry-braised broth.
 quote: The measure of intelligence is the ability to change beans.
 creature: octopus
-friendlyBeans: [fava, mung]
-antiBeans: [edamame, cannellini]
-friendlyForm: smoked
-antiForm: fried
 seasonalFortune: Sherry darkens a pot left long on the stove. The season layers itself onto whoever stays in it; nothing forced, only steeped.
 fortuneMost: A strange place is coming, somewhere you can't read the signs.
 fortuneHigh: Listen to the rhythm and dance to it.

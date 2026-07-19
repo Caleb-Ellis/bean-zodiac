@@ -6,13 +6,14 @@ form: roasted
 trait: tactful
 inverse: tactless
 excess: smooth-talking
+friendlyBeans: [mung, navy]
+friendlyForm: fried
+antiTriple: spicy-smoked-black
+antiBeans: [fava, green]
+antiForm: fried
 dish: Cannellini al forno con gremolata - oven-roasted cannellini with lemon, parsley, and garlic
 quote: Diplomacy is the art of telling someone their bean is wrong in a way that makes them want to fix it.
 creature: collared dove
-friendlyBeans: [mung, navy]
-antiBeans: [black, green]
-friendlyForm: fried
-antiForm: smoked
 seasonalFortune: Roasted cannellini hold their shape because the oven works slow; lemon and parsley arrive at the end. A season for late additions, measured into warmth already settled.
 fortuneMost: The slow oven is your luck this turn — the hard word arrives warm and lands soft.
 fortuneMost2: A note that would have stung in anyone else's mouth comes from yours as the thing they wanted to hear anyway.

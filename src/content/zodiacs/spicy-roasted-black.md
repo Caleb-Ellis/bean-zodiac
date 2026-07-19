@@ -6,13 +6,14 @@ form: roasted
 trait: magnetic
 inverse: repellent
 excess: mesmerizing
+friendlyBeans: [adzuki, pinto]
+friendlyForm: fried
+antiTriple: sour-fried-edamame
+antiBeans: [green, kidney]
+antiForm: smoked
 dish: Frijoles negros enchipotlados - black beans roasted and simmered in chipotle adobo.
 quote: Some beans walk in the rain, others just get wet.
 creature: manta ray
-friendlyBeans: [adzuki, pinto]
-antiBeans: [green, kidney]
-friendlyForm: fried
-antiForm: fried
 seasonalFortune: A season when the adobo deepens by sitting; rooms tilt toward whoever stays longest at the pot, and the chipotle does the convincing.
 fortuneMost: The circle is already forming around wherever you lean. Take the floor; you meant to host all along.
 fortuneMost2: A crowd is about to follow you somewhere without asking why. Make sure it's worth the walk.

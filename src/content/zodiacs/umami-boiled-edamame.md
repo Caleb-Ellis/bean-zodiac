@@ -6,13 +6,14 @@ form: boiled
 trait: dedicated
 inverse: uncommitted
 excess: fanatical
+friendlyBeans: [black, navy]
+friendlyForm: dried
+antiTriple: sweet-smoked-pinto
+antiBeans: [chickpea, fava]
+antiForm: fermented
 dish: Dashi-ni - edamame simmered in dashi, soy, and mirin.
 quote: The price of bean excellence is dedication.
 creature: retriever
-friendlyBeans: [navy, cannellini]
-antiBeans: [chickpea, adzuki]
-friendlyForm: dried
-antiForm: fermented
 seasonalFortune: A season that rewards the long simmer. Mirin and soy take their hours; nothing finished here arrived in a hurry.
 fortuneMost: Same chair, same hour, a little longer than yesterday.
 fortuneMost2: The long thing you've quietly returned to for years is about to give you what it withheld.

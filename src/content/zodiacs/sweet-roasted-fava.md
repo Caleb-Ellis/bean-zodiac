@@ -7,13 +7,14 @@ form: roasted
 trait: outspoken
 inverse: tight-lipped
 excess: loudmouthed
+friendlyBeans: [chickpea, pinto]
+friendlyForm: fermented
+antiTriple: sour-smoked-edamame
+antiBeans: [mung, adzuki]
+antiForm: boiled
 dish: Sweet harissa roasted fava beans — dried favas roasted with harissa paste and honey until blistered and crackling.
 quote: If you have an important bean to make, don't try to be subtle or clever. Use a pile driver.
 creature: jay
-friendlyBeans: [chickpea, pinto]
-antiBeans: [kidney, mung]
-friendlyForm: fermented
-antiForm: smoked
 seasonalFortune: A season of blistered skins and honey pooled in the cracks. The kitchen runs warm and uncovered; what is meant gets said before the pan cools.
 fortuneMost: The jay lets the whole wood know where the hawk sleeps.
 fortuneHigh: Better said than glazed over.

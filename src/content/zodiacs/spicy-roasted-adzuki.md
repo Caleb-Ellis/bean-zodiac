@@ -6,13 +6,14 @@ form: roasted
 trait: enthusiastic
 inverse: halfhearted
 excess: rabid
+friendlyBeans: [mung, butter]
+friendlyForm: fried
+antiTriple: bitter-smoked-black
+antiBeans: [kidney, cannellini]
+antiForm: dried
 dish: Wǔxiāng hóngdòu - five-spice roasted adzuki beans with dried Sichuan chili.
 quote: I am a HOT and EXCITED bean and I will not be apologising for either.
 creature: labrador
-friendlyBeans: [mung, butter]
-antiBeans: [black, edamame]
-friendlyForm: fried
-antiForm: smoked
 seasonalFortune: A season that rewards the cook who keeps the pan loud past the first crackle; second winds carry the adzuki further than the first scorch ever did.
 fortuneMost: The thing that makes you grin before you've thought it through pans the hottest.
 fortuneMost2: Whatever you walk in already lit about, the others will be warming their hands on by the time you sit down.

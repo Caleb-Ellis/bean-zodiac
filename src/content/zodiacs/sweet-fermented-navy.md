@@ -6,13 +6,14 @@ form: fermented
 trait: introverted
 inverse: extroverted
 excess: shut-in
+friendlyBeans: [black, butter]
+friendlyForm: dried
+antiTriple: spicy-roasted-chickpea
+antiBeans: [pinto, kidney]
+antiForm: fried
 dish: Navy bean and cultured butter pudding — beans baked slowly in a custard of fermented cream, sugar, and vanilla.
 quote: I am a bean of solitude; the fire of thought does not require witnesses.
 creature: hedgehog
-friendlyBeans: [black, butter]
-antiBeans: [pinto, chickpea]
-friendlyForm: dried
-antiForm: roasted
 seasonalFortune: A pudding sets in the low oven while the house sleeps. The season favors slow custards and the quiet rooms that hold them.
 fortuneMost: Decline the party, bake the elaborate thing for an audience of one, and frost it anyway.
 fortuneMost2: A whole evening with the house to yourself, the pudding setting in the low oven, no one to perform it for.

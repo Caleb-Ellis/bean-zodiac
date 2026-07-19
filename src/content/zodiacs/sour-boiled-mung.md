@@ -6,13 +6,14 @@ form: boiled
 trait: impartial
 inverse: partial
 excess: bloodless
+friendlyBeans: [butter, cannellini]
+friendlyForm: smoked
+antiTriple: bitter-fried-green
+antiBeans: [pinto, adzuki]
+antiForm: fermented
 dish: Mung bean congee with pickled mustard greens and sesame oil.
 quote: Fiat justitia ruat bean.
 creature: libra crane
-friendlyBeans: [butter, cannellini]
-antiBeans: [green, pinto]
-friendlyForm: smoked
-antiForm: fried
 seasonalFortune: Congee thinned past opinion. The season runs clear — sesame oil floats without weighing in, pickled greens hold their sharpness where they sit. Nothing pulls the pot one way.
 fortuneMost: Two people ask you who was right — the same sentence to each, word for word, is the fair one.
 fortuneMost2: Weigh each side as a stranger's, and the verdict nobody wanted turns out to be the one everyone later recognises.

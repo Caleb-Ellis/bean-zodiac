@@ -6,13 +6,14 @@ form: fried
 trait: blunt
 inverse: mealy-mouthed
 excess: cutting
+friendlyBeans: [green, chickpea]
+friendlyForm: dried
+antiTriple: bitter-fermented-black
+antiBeans: [mung, cannellini]
+antiForm: smoked
 dish: Edamame gyoza with black vinegar dipping sauce - pan-fried edamame dumplings with Zhenjiang vinegar.
 quote: A bean that is used to lying will find that the truth is a very uncomfortable thing.
 creature: ox
-friendlyBeans: [green, chickpea]
-antiBeans: [black, mung]
-friendlyForm: dried
-antiForm: fermented
 seasonalFortune: A season for unwrapped verdicts. The vinegar arrives undiluted at table, and the wrappers crisp without ceremony in the oil.
 fortuneMost: Unwrapped is the only way you know how to serve, and it's the way they came hungry for.
 fortuneMost2: Plain as black vinegar, no sweetness stirred in.

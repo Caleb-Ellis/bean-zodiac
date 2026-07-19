@@ -7,13 +7,14 @@ form: dried
 trait: adoring
 inverse: contemptuous
 excess: worshipful
+friendlyBeans: [fava, chickpea]
+friendlyForm: roasted
+antiTriple: sour-smoked-black
+antiBeans: [edamame, pinto]
+antiForm: fermented
 dish: Habichuelas con dulce — dried kidney beans cooked with coconut milk, sweet potato, raisins, and warm spice into a Dominican Easter dessert.
 quote: The course of true love never did bean smooth.
 creature: lovebird
-friendlyBeans: [fava, chickpea]
-antiBeans: [black, edamame]
-friendlyForm: roasted
-antiForm: smoked
 seasonalFortune: The dried bean keeps its heat tucked under a wrinkled coat; in this household a feeling, once taken in, simmers for months before it is ladled out.
 fortuneMost: A shrine rises where a person once stood.
 fortuneHigh: Two hands reaching for the same flower.

@@ -7,13 +7,14 @@ form: smoked
 trait: barbed
 inverse: complimentary
 excess: vicious
+friendlyBeans: [edamame, black]
+friendlyForm: dried
+antiTriple: sweet-roasted-mung
+antiBeans: [kidney, adzuki]
+antiForm: boiled
 dish: Cazuela de alubias - Castilian white bean stew with smoked chorizo and pimentón ahumado.
 quote: Out of the frying bean and into the fire.
 creature: porcupine
-friendlyBeans: [edamame, black]
-antiBeans: [mung, adzuki]
-friendlyForm: dried
-antiForm: roasted
 seasonalFortune: Pimentón hangs in cold air; the cazuela darkens at the rim. Days arrive sharpened by smoke, and what cannot keep its shape will be named for what it lacks.
 fortuneMost: The blade cuts through the bean and board both.
 fortuneHigh: A red thread of chorizo panics the taste buds, and opens them up.

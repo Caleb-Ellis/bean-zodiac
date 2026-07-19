@@ -6,13 +6,14 @@ form: fermented
 trait: gentle
 inverse: brutal
 excess: toothless
+friendlyBeans: [fava, butter]
+friendlyForm: smoked
+antiTriple: spicy-dried-green
+antiBeans: [edamame, black]
+antiForm: fried
 dish: Bánh men — Vietnamese sweet mung bean cakes made with fermented rice wine batter, steamed until just set.
 quote: In a tough world, the most rebellious thing you can do is be a gentle bean.
 creature: doe
-friendlyBeans: [fava, butter]
-antiBeans: [black, edamame]
-friendlyForm: smoked
-antiForm: dried
 seasonalFortune: A season in which rice wine quietly turns the bean toward sweetness. Steam rises over covered cakes; the work that matters happens beneath cloth, unwitnessed.
 fortuneMost: Find the register that lets the difficult one be wrong without shame.
 fortuneMost2: When the room raises its voice, lower yours.

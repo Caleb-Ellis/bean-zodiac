@@ -6,13 +6,14 @@ form: fried
 trait: deliberate
 inverse: hasty
 excess: plodding
+friendlyBeans: [navy, adzuki]
+friendlyForm: dried
+antiTriple: spicy-fermented-pinto
+antiBeans: [fava, mung]
+antiForm: smoked
 dish: Schnitzel - crumbed butter beans with bitter salsa verde.
 quote: Well-behaved beans seldom make history.
 creature: stork
-friendlyBeans: [navy, adzuki]
-antiBeans: [pinto, chickpea]
-friendlyForm: dried
-antiForm: fermented
 seasonalFortune: A season for crumb pressed firm before the oil takes it. Quick hands lose the coating; the careful ones eat well. Bitter parsley keeps until needed.
 fortuneMost: The crumb pressed firm is the crumb that holds when the oil takes it.
 fortuneMost2: The choice you've been turning over from every side is right, and the coating you let set is about to prove it holds.

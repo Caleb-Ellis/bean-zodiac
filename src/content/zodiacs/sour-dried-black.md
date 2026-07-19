@@ -6,13 +6,14 @@ form: dried
 trait: impenetrable
 inverse: penetrable
 excess: inscrutable
+friendlyBeans: [fava, navy]
+friendlyForm: smoked
+antiTriple: umami-roasted-chickpea
+antiBeans: [adzuki, kidney]
+antiForm: fried
 dish: Black bean and dried hibiscus soup with lime.
 quote: No bean is an island, entire of itself.
 creature: rhinoceros beetle
-friendlyBeans: [fava, navy]
-antiBeans: [adzuki, chickpea]
-friendlyForm: smoked
-antiForm: roasted
 seasonalFortune: Hibiscus stains the pot rim red while the beans stay black at the core. Some interiors are not edited by what surrounds them; weather passes over, not through.
 fortuneMost: Weather passes over you, not through. That is no flaw — it is how the core stayed yours.
 fortuneMost2: A flat "fine" can be accurate, complete, and the whole of it.

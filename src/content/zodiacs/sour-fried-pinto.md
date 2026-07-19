@@ -6,13 +6,14 @@ form: fried
 trait: manipulative
 inverse: artless
 excess: exploitative
+friendlyBeans: [adzuki, edamame]
+friendlyForm: fermented
+antiTriple: umami-boiled-mung
+antiBeans: [fava, butter]
+antiForm: dried
 dish: Chalupas poblanas - fried masa boats piled with pinto beans, pickled onion, and lime crema.
 quote: It is better to be feared than loved, if you cannot bean both.
 creature: cuckoo
-friendlyBeans: [adzuki, edamame]
-antiBeans: [mung, fava]
-friendlyForm: fermented
-antiForm: boiled
 seasonalFortune: A season when seasoning reads as kindness; the lime brightens, the onion lingers, and pinto sweetness arrives only after the tongue has been steered.
 fortuneMost: Seat the right two beside each other and step back; the introduction does the rest.
 fortuneMost2: You already know which two belong together, and why, the way you know which onion to pickle for which plate.

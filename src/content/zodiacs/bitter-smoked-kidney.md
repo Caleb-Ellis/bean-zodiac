@@ -6,13 +6,14 @@ form: smoked
 trait: haunted
 inverse: untroubled
 excess: tormented
+friendlyBeans: [green, fava]
+friendlyForm: fermented
+antiTriple: umami-roasted-adzuki
+antiBeans: [pinto, cannellini]
+antiForm: boiled
 dish: Smoked kidney bean with bitter ember oil.
 quote: I see bean people.
 creature: barn owl
-friendlyBeans: [green, fava]
-antiBeans: [pinto, navy]
-friendlyForm: fermented
-antiForm: roasted
 seasonalFortune: A season the ember oil clings to long after the coals go cold — kitchens that smell faintly of last winter's fire, and a person walking through them carefully.
 fortuneMost: Take the old photograph out on purpose and hold the burn with its name on it.
 fortuneMost2: Let the old song play all the way through you for once, instead of skipping ahead.

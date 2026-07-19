@@ -6,13 +6,14 @@ form: smoked
 trait: pallid
 inverse: rosy
 excess: deathly
+friendlyBeans: [black, navy]
+friendlyForm: boiled
+antiTriple: spicy-fried-green
+antiBeans: [kidney, adzuki]
+antiForm: roasted
 dish: Fabada Asturiana - smoked butter beans with morcilla, smoked paprika, and sherry vinegar
 quote: Now is the bean of our discontent.
 creature: ghost crab
-friendlyBeans: [black, navy]
-antiBeans: [kidney, green]
-friendlyForm: boiled
-antiForm: fried
 seasonalFortune: A season for smoke that has lost its fire. The vinegar's sharpness lingers in rooms where the lamp is left low, and the pot sits half-warm on a back burner well past supper.
 fortuneMost: "No, but thanks."
 fortuneMost2: The chair against the wall is yours.

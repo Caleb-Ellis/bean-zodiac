@@ -6,13 +6,14 @@ form: fermented
 trait: minimalist
 inverse: maximalist
 excess: austere
+friendlyBeans: [adzuki, cannellini]
+friendlyForm: dried
+antiTriple: spicy-fried-kidney
+antiBeans: [green, edamame]
+antiForm: dried
 dish: Butter bean and labneh with preserved lemon and olive oil.
 quote: Less is bean.
 creature: egret
-friendlyBeans: [adzuki, cannellini]
-antiBeans: [kidney, green]
-friendlyForm: dried
-antiForm: fried
 seasonalFortune: Brine narrows the season. What lingers in the jar after months keeps its name; the rest has gone to salt and silence.
 fortuneMost: One bean, white plate, nothing beside it — and the bareness was never lack.
 fortuneMost2: Two of a thing is just one you haven't decided about yet.

@@ -6,13 +6,14 @@ form: boiled
 trait: adamant
 inverse: wavering
 excess: obstinate
+friendlyBeans: [black, edamame]
+friendlyForm: roasted
+antiTriple: sour-smoked-pinto
+antiBeans: [cannellini, green]
+antiForm: fermented
 dish: Spiced fava bean soup with berbere and lemon.
 quote: I am not a bean to be argued out of what I know to be right.
 creature: mule
-friendlyBeans: [black, edamame]
-antiBeans: [pinto, adzuki]
-friendlyForm: roasted
-antiForm: smoked
 seasonalFortune: A season for the long simmer. The skin holds while heat works through; what does not yield to berbere and lemon will be carried whole to the bowl.
 fortuneMost: You are the spine when everyone else's opinion goes soft.
 fortuneMost2: Name the thing nobody wants named and stay where you set it down.

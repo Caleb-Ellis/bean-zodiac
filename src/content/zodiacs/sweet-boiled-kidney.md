@@ -6,13 +6,14 @@ form: boiled
 trait: compassionate
 inverse: heartless
 excess: self-sacrificing
+friendlyBeans: [mung, butter]
+friendlyForm: roasted
+antiTriple: spicy-fermented-edamame
+antiBeans: [fava, black]
+antiForm: smoked
 dish: Rajma kheer — kidney beans boiled until tender and simmered in sweetened milk with cardamom and rose water.
 quote: If you want others to be happy, practise bean. If you want to be happy, practise bean.
 creature: elephant
-friendlyBeans: [mung, butter]
-antiBeans: [black, edamame]
-friendlyForm: roasted
-antiForm: fermented
 seasonalFortune: A year that simmers low and long. Sweetness gathers in the pot rather than the bowl, and the cardamom keeps its post.
 fortuneMost: Cook the slow thing for the one going through it, in a dish they needn't return, and stay — without asking whether they wanted company.
 fortuneMost2: Sweetness gathers in the pot before it ever reaches a bowl, and someone bruised this week is about to be fed by you.

@@ -7,13 +7,14 @@ form: smoked
 trait: prescient
 inverse: unwitting
 excess: doomsaying
+friendlyBeans: [black, cannellini]
+friendlyForm: fermented
+antiTriple: sweet-roasted-mung
+antiBeans: [adzuki, kidney]
+antiForm: boiled
 dish: Smoked edamame with soy tare, bonito, and shichimi togarashi.
 quote: The future belongs to those who bean in the beauty of their dreams.
 creature: augur owl
-friendlyBeans: [black, cannellini]
-antiBeans: [mung, adzuki]
-friendlyForm: dried
-antiForm: roasted
 seasonalFortune: A season cured in hickory, where the salt-tare reaches the tongue a beat before the pod is opened. The kitchen runs half a step ahead of its cook.
 fortuneMost: Reach for the umbrella while the sky is still blue.
 fortuneHigh: You've been arriving at doors the moment before they open.

@@ -6,13 +6,14 @@ form: fermented
 trait: practiced
 inverse: amateurish
 excess: rote
+friendlyBeans: [cannellini, pinto]
+friendlyForm: dried
+antiTriple: umami-roasted-mung
+antiBeans: [butter, fava]
+antiForm: boiled
 dish: Edamame in mirin and sake reduction — soybeans lacquered in sweet rice wine, simmered until each one is evenly coated and glossed.
 quote: Patience is bitter, but its bean is sweet.
 creature: old wolf
-friendlyBeans: [cannellini, pinto]
-antiBeans: [mung, butter]
-friendlyForm: dried
-antiForm: roasted
 seasonalFortune: A season for slow reductions. Each pass over the heat thickens what came before, and by the end the glaze carries the whole afternoon.
 fortuneMost: A quiet thing nobody has noticed is nearly done reducing.
 fortuneMost2: One more pass over the heat, the same as all the others before it.

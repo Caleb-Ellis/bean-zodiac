@@ -6,13 +6,14 @@ form: boiled
 trait: playful
 inverse: stern
 excess: puerile
+friendlyBeans: [adzuki, pinto]
+friendlyForm: roasted
+antiTriple: spicy-smoked-fava
+antiBeans: [edamame, chickpea]
+antiForm: fried
 dish: Ingen no shiro-ae — green beans blanched and tossed in sweet sesame tofu cream with a pinch of sugar.
 quote: We don't stop playing because we grow old; we grow old because we stop bean playful.
 creature: river otter
-friendlyBeans: [adzuki, pinto]
-antiBeans: [fava, cannellini]
-friendlyForm: roasted
-antiForm: smoked
 seasonalFortune: A long blanch under sugared steam. The days simmer light and keep their bounce; the season hums where it ought to rest.
 fortuneMost: Smuggle one small joke into the serious thing and leave it there.
 fortuneMost2: One ridiculous aside from you, and a sunk dinner floats again.

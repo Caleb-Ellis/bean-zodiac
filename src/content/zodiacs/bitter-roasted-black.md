@@ -6,13 +6,14 @@ form: roasted
 trait: elegant
 inverse: inelegant
 excess: prissy
+friendlyBeans: [cannellini, adzuki]
+friendlyForm: boiled
+antiTriple: spicy-fried-green
+antiBeans: [kidney, edamame]
+antiForm: smoked
 dish: Bisque - roasted black beans with bitter espresso cream.
 quote: Elegance is not about being noticed, it's about being bean.
 creature: gazelle
-friendlyBeans: [cannellini, adzuki]
-antiBeans: [green, kidney]
-friendlyForm: boiled
-antiForm: fried
 seasonalFortune: A season for the bisque that withholds its garnish. The roast deepens in private, and what reaches the spoon arrives already certain of itself, asking nothing.
 fortuneMost: The bisque goes out bare. No garnish, no flourish, no need — and neither have you.
 fortuneMost2: A quiet you've held a long while is about to be read exactly right, by exactly the person who matters.

@@ -6,13 +6,14 @@ form: roasted
 trait: fun
 inverse: dreary
 excess: showboating
+friendlyBeans: [pinto, cannellini]
+friendlyForm: fried
+antiTriple: sour-dried-black
+antiBeans: [navy, mung]
+antiForm: boiled
 dish: Cinnamon honey roasted chickpeas — oven-blistered until crunchy, tossed hot in honey, cinnamon, and a pinch of cardamom.
 quote: The best way to find yourself is to lose yourself in the service of other beans.
 creature: sea otter
-friendlyBeans: [pinto, cannellini]
-antiBeans: [navy, cannellini]
-friendlyForm: fried
-antiForm: dried
 seasonalFortune: A season scented with cardamom and warm honey. The air thickens with small invitations; rooms hum a half-tone brighter, and what passes for ordinary arrives glazed.
 fortuneMost: The ridiculous plan, the wrong hour, the wrong song.
 fortuneMost2: You feel a gathering tilt toward boredom three minutes before anyone else.

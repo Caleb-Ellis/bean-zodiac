@@ -6,13 +6,14 @@ form: roasted
 trait: charismatic
 inverse: charmless
 excess: cultish
+friendlyBeans: [navy, butter]
+friendlyForm: boiled
+antiTriple: bitter-fried-kidney
+antiBeans: [black, edamame]
+antiForm: smoked
 dish: Fagioli con nduja - cannellini beans roasted with spicy Calabrian nduja.
 quote: The bean enters the room before you do.
 creature: dolphin
-friendlyBeans: [navy, butter]
-antiBeans: [fava, kidney]
-friendlyForm: boiled
-antiForm: fried
 seasonalFortune: Nduja bleeds red into the oil before a single bean is lifted; this is a season in which arrivals announce themselves and rooms reorganise around the heat at their center.
 fortuneMost: You enter and the gathering rearranges its chairs the way nduja bleeds red through the oil.
 fortuneMost2: A moment is coming where everyone's staring at the floor and somebody has to stand.

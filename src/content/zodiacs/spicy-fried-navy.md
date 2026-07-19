@@ -6,13 +6,14 @@ form: fried
 trait: organized
 inverse: disorganized
 excess: controlling
+friendlyBeans: [butter, cannellini]
+friendlyForm: dried
+antiTriple: sweet-fermented-pinto
+antiBeans: [chickpea, fava]
+antiForm: smoked
 dish: Spicy navy bean fritters with smoked paprika and hot sauce.
 quote: For every minute spent organizing, a bean is earned.
 creature: honeybee
-friendlyBeans: [butter, cannellini]
-antiBeans: [chickpea, pinto]
-friendlyForm: dried
-antiForm: fermented
 seasonalFortune: Paprika settles into hot oil; the navy holds its shape under heat. A season for lining things up before the pan calls — small batches, sealed edges, nothing left scattered.
 fortuneMost: Each thing in its place, edges crisp, nothing touching by accident.
 fortuneMost2: The path was cleared in advance, so you move while others hunt for the light switch.

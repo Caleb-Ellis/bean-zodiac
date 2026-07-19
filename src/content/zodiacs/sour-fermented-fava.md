@@ -6,13 +6,14 @@ form: fermented
 trait: contrarian
 inverse: conformist
 excess: obstructionist
+friendlyBeans: [chickpea, kidney]
+friendlyForm: roasted
+antiTriple: umami-boiled-cannellini
+antiBeans: [navy, butter]
+antiForm: dried
 dish: Fatteh - Palestinian fava and yogurt with toasted bread, lemon, and pine nuts.
 quote: Whenever you find yourself on the side of the majority, it is time to bean and reflect.
 creature: crab
-friendlyBeans: [chickpea, kidney]
-antiBeans: [navy, black]
-friendlyForm: roasted
-antiForm: boiled
 seasonalFortune: Ferment outlasts the harvest it argues with. The crock keeps a sour counter-position long after the field forgets, and the lemon never agrees.
 fortuneMost: Everyone is sprinting past the thing only you caught.
 fortuneMost2: While the heads are still nodding, name the two things you actually disliked, calmly.

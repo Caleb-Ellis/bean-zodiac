@@ -6,13 +6,14 @@ form: fermented
 trait: independent
 inverse: reliant
 excess: isolationist
+friendlyBeans: [black, butter]
+friendlyForm: dried
+antiTriple: sweet-roasted-chickpea
+antiBeans: [mung, pinto]
+antiForm: fried
 dish: Alubias con chorizo - Spanish white bean stew with spicy fermented sausage and smoked paprika.
 quote: The bean who follows the crowd will usually get no further than the crowd.
 creature: bobcat
-friendlyBeans: [black, butter]
-antiBeans: [chickpea, green]
-friendlyForm: dried
-antiForm: roasted
 seasonalFortune: A season of crocks left untouched in cool dark, salt doing its slow work. The cook who trusts the jar walks past it for weeks; the stew arrives ready.
 fortuneMost: You've already decided while the others argue the menu.
 fortuneMost2: Convictions arrived at in the dark, shaped by no hand but your own.

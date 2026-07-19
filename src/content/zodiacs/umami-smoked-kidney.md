@@ -6,13 +6,14 @@ form: smoked
 trait: seething
 inverse: tranquil
 excess: apoplectic
+friendlyBeans: [green, edamame]
+friendlyForm: fried
+antiTriple: sweet-roasted-adzuki
+antiBeans: [butter, mung]
+antiForm: boiled
 dish: Red beans and rice - Louisiana kidney beans with smoked andouille, celery, and bay leaf.
 quote: Full of sound and bean, signifying everything.
 creature: hornet
-friendlyBeans: [green, edamame]
-antiBeans: [mung, adzuki]
-friendlyForm: fried
-antiForm: roasted
 seasonalFortune: A season for the long simmer; the pot tended for hours carries a low heat under everything its keeper does, and the rooms they pass through hold the scent.
 fortuneMost: The reply that waits until it's four words long arrives sharpened.
 fortuneMost2: A low heat held under the floorboards for a year, and the one who lit it walks back in expecting the house to have cooled.

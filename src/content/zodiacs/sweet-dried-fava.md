@@ -6,13 +6,14 @@ form: dried
 trait: indomitable
 inverse: conquerable
 excess: unstoppable
+friendlyBeans: [kidney, black]
+friendlyForm: boiled
+antiTriple: sour-fermented-pinto
+antiBeans: [adzuki, mung]
+antiForm: roasted
 dish: Maccu dolce — dried fava beans cooked to a thick paste with honey and fennel seed, a Sicilian Carnevale sweet.
 quote: She believed she could bean, so she did.
 creature: destrier
-friendlyBeans: [black, edamame]
-antiBeans: [pinto, adzuki]
-friendlyForm: boiled
-antiForm: smoked
 seasonalFortune: A season that thickens by the hour, favas surrendering to honey only after long heat. The fennel keeps its bite; the paste keeps the shape of the spoon that worked it.
 fortuneMost: An oak still standing after the storm has passed — that's you, carrying the casserole up the grieving house's stairs, driving across the dark city when no one else would.
 fortuneMost2: Honey only surrenders the fava after long heat, and you're still over the pot when everyone else has gone to bed.

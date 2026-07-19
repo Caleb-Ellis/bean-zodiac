@@ -6,13 +6,14 @@ form: roasted
 trait: competitive
 inverse: noncompetitive
 excess: cutthroat
+friendlyBeans: [fava, kidney]
+friendlyForm: fried
+antiTriple: umami-dried-butter
+antiBeans: [cannellini, mung]
+antiForm: boiled
 dish: Roasted green beans with bitter almond crust and preserved lemon.
 quote: Beaning isn't everything, but wanting to is.
 creature: greyhound
-friendlyBeans: [fava, kidney]
-antiBeans: [butter, mung]
-friendlyForm: fried
-antiForm: dried
 seasonalFortune: A season when the almond crust sets harder than the bean beneath, and every tray pulled from the oven is measured against the last one.
 fortuneMost: Name the scoreboard out loud, then run flat at it.
 fortuneMost2: A contest you've trained hard for is about to break your way.

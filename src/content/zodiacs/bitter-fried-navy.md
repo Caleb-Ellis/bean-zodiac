@@ -7,13 +7,14 @@ form: fried
 trait: incisive
 inverse: obtuse
 excess: trenchant
+friendlyBeans: [black, edamame]
+friendlyForm: dried
+antiTriple: spicy-roasted-chickpea
+antiBeans: [pinto, fava]
+antiForm: fermented
 dish: Crispy navy beans with bitter chicory and anchovy.
 quote: You see the bean, but you do not observe it.
 creature: goshawk
-friendlyBeans: [edamame, black]
-antiBeans: [pinto, chickpea]
-friendlyForm: dried
-antiForm: roasted
 seasonalFortune: The oil runs hot and the chicory blackens before it bends. A season that crackles at the edges, where verdicts arrive faster than the anchovy can salt them.
 fortuneMost: The goshawk sees the mouse the grass is hiding.
 fortuneHigh: The first version landed; the second only softened it.

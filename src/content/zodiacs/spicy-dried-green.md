@@ -6,13 +6,14 @@ form: dried
 trait: electric
 inverse: soporific
 excess: livewire
+friendlyBeans: [kidney, fava]
+friendlyForm: fried
+antiTriple: bitter-boiled-butter
+antiBeans: [cannellini, fava]
+antiForm: smoked
 dish: Gan bian sijidou - dry-fried green beans with dried chili and garlic.
 quote: Energy cannot be beaned — it can only be transformed.
 creature: eel
-friendlyBeans: [kidney, fava]
-antiBeans: [cannellini, fava]
-friendlyForm: fried
-antiForm: boiled
 seasonalFortune: A dry wok throws sparks before the oil arrives. The season belongs to those who carry their own heat into the room, blistering the skin of the day until the garlic catches.
 fortuneMost: You change the wattage of a place the minute you arrive.
 fortuneMost2: A dry wok throws sparks before the oil ever arrives.

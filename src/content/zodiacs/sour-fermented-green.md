@@ -6,13 +6,14 @@ form: fermented
 trait: quirky
 inverse: humdrum
 excess: affected
+friendlyBeans: [chickpea, pinto]
+friendlyForm: roasted
+antiTriple: bitter-dried-black
+antiBeans: [navy, butter]
+antiForm: boiled
 dish: Green bean kimchi - fermented green beans with gochugaru, garlic, and rice vinegar.
 quote: We are all bean, but some of us are looking at the stars.
 creature: narwhal
-friendlyBeans: [chickpea, pinto]
-antiBeans: [butter, navy]
-friendlyForm: roasted
-antiForm: dried
 seasonalFortune: A brine sharp with gochugaru and garlic insists on its own logic. The season tilts toward jars that cure on their own schedule, refusing the row.
 fortuneMost: Asked how you are, give the weird true answer — tell them about the garlic, not the weather.
 fortuneMost2: A strange offering of yours will outlast every sensible one in the room.

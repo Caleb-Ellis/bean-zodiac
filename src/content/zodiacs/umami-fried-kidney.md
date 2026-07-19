@@ -7,13 +7,14 @@ form: fried
 trait: scrupulous
 inverse: lax
 excess: overscrupulous
+friendlyBeans: [edamame, cannellini]
+friendlyForm: dried
+antiTriple: bitter-fermented-adzuki
+antiBeans: [butter, pinto]
+antiForm: smoked
 dish: Pan-fried kidney bean cakes with red miso, sake, and sesame.
 quote: Moralising and bean are two arts that seldom go together.
 creature: harvester ant
-friendlyBeans: [green, cannellini]
-antiBeans: [adzuki, black]
-friendlyForm: dried
-antiForm: fermented
 seasonalFortune: A season of red miso deepening in the pan — verdicts cure slowly, and the household keeps its scorched edges in plain view, unhidden, unsoftened.
 fortuneMost: Pay back the debt as soon as possible. The longer you leave it the more it will eat you.
 fortuneHigh: One word will do.

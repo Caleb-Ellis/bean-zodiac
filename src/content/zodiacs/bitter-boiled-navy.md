@@ -6,13 +6,14 @@ form: boiled
 trait: dogmatic
 inverse: tentative
 excess: doctrinaire
+friendlyBeans: [butter, adzuki]
+friendlyForm: dried
+antiTriple: spicy-smoked-chickpea
+antiBeans: [kidney, pinto]
+antiForm: fermented
 dish: Navy bean and escarole soup.
 quote: A bean convinced against his will is of the same opinion still.
 creature: donkey
-friendlyBeans: [butter, adzuki]
-antiBeans: [mung, chickpea]
-friendlyForm: dried
-antiForm: smoked
 seasonalFortune: Small white beans, sorted once, simmered the way they were last winter and the winter before. The escarole bitters into the broth on schedule.
 fortuneMost: Hold the line everyone else is leaning against.
 fortuneMost2: The question you won't entertain twice is coming around again, and you'll answer it the same.

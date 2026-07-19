@@ -7,13 +7,14 @@ form: fermented
 trait: rebellious
 inverse: obedient
 excess: anarchist
+friendlyBeans: [chickpea, kidney]
+friendlyForm: fried
+antiTriple: bitter-dried-navy
+antiBeans: [butter, adzuki]
+antiForm: boiled
 dish: Fava and pixian doubanjiang stir-fry - fava beans with fermented broad bean chili paste and garlic shoots.
 quote: The most common way beans give up their power is by thinking they don't have any.
 creature: brumby
-friendlyBeans: [chickpea, kidney]
-antiBeans: [navy, cannellini]
-friendlyForm: fried
-antiForm: dried
 seasonalFortune: Sealed crocks darken through the season while the world above forgets them. What surfaces in spring tastes of years spent declining every easier path.
 fortuneMost: The fence can't hold the horse that means to jump.
 fortuneHigh: Do it your own way - don't ask for permission.

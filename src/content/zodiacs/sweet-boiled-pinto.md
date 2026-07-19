@@ -6,13 +6,14 @@ form: boiled
 trait: daydreamy
 inverse: wide-awake
 excess: escapist
+friendlyBeans: [adzuki, navy]
+friendlyForm: smoked
+antiTriple: spicy-fried-kidney
+antiBeans: [green, fava]
+antiForm: smoked
 dish: Frijoles con leche — pinto beans simmered in sweetened milk with cinnamon and piloncillo until the broth turns pale and dreamlike.
 quote: I have bean a dreamer. I have joined the great company of those who make the imagination of mankind rich.
 creature: butterfly
-friendlyBeans: [adzuki, navy]
-antiBeans: [kidney, green]
-friendlyForm: smoked
-antiForm: fried
 seasonalFortune: Days steep slow in pale sweetness. Hours soften the way piloncillo dissolves in warm milk, and the ordinary edges of a week blur into something rounder, longer, harder to leave.
 fortuneMost: Draw the picture you've been narrating to yourself, on whatever scrap is to hand, and keep it.
 fortuneMost2: A whole afternoon dissolves into the soft milk of a half-thought, and you'll surface holding the seed of something good.

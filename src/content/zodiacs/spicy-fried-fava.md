@@ -6,13 +6,14 @@ form: fried
 trait: risk-taking
 inverse: risk-averse
 excess: daredevil
+friendlyBeans: [chickpea, black]
+friendlyForm: fermented
+antiTriple: sour-fermented-cannellini
+antiBeans: [kidney, green]
+antiForm: roasted
 dish: Ta'amiya - Egyptian fava bean falafel with green chili and cumin.
 quote: Only those who will bean far can possibly find out how far one can go.
 creature: ratel
-friendlyBeans: [chickpea, black]
-antiBeans: [green, cannellini]
-friendlyForm: fermented
-antiForm: fermented
 seasonalFortune: Oil at temperature does not wait. The season favours the cook who drops the fava in while the cumin is still loud, and counts the burns later.
 fortuneMost: You commit before the numbers are in, and the leap is a good one.
 fortuneMost2: A door opens for a day only.

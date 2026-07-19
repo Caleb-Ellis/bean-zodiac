@@ -6,13 +6,14 @@ form: dried
 trait: substantive
 inverse: trivial
 excess: ponderous
+friendlyBeans: [black, fava]
+friendlyForm: fermented
+antiTriple: sweet-boiled-kidney
+antiBeans: [mung, edamame]
+antiForm: roasted
 dish: Cocido madrileño - dried chickpeas slow-cooked with pork belly, chorizo, and morcilla.
 quote: The measure of a bean is the sum of its choices.
 creature: mammoth
-friendlyBeans: [black, cannellini]
-antiBeans: [adzuki, cannellini]
-friendlyForm: fermented
-antiForm: boiled
 seasonalFortune: A season that asks for the long pot. Days pass without spectacle, and weight settles into them anyway, the way pork fat surrenders to chickpeas across an unwatched afternoon.
 fortuneMost: The thing you began in winter, carry into summer.
 fortuneMost2: Weight settles into the long afternoons whether anyone watches or not.

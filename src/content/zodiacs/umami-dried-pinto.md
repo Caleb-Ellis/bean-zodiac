@@ -6,13 +6,14 @@ form: dried
 trait: layered
 inverse: one-note
 excess: overcomplicated
+friendlyBeans: [green, adzuki]
+friendlyForm: fermented
+antiTriple: sweet-roasted-adzuki
+antiBeans: [butter, fava]
+antiForm: boiled
 dish: Frijoles de olla - dried pinto beans slow-cooked in clay pot with epazote, onion, and lard.
 quote: Life is like a bean of chocolates — you never know what you're going to get.
 creature: ammonite
-friendlyBeans: [green, cannellini]
-antiBeans: [navy, mung]
-friendlyForm: fermented
-antiForm: roasted
 seasonalFortune: A season that earns its weight slowly. Onion gives up its sharpness by degrees, epazote arrives at the end, and nothing in the pot can be hurried.
 fortuneMost: Begin a few summers before the part that matters and let them arrive at the point on their own.
 fortuneMost2: The soak you set going on a hunch, before anyone called, is the layer everything else will rest on.

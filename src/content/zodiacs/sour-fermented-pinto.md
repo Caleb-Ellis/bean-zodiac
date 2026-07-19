@@ -6,13 +6,14 @@ form: fermented
 trait: pessimistic
 inverse: sanguine
 excess: doom-laden
+friendlyBeans: [mung, adzuki]
+friendlyForm: roasted
+antiTriple: bitter-boiled-fava
+antiBeans: [kidney, black]
+antiForm: dried
 dish: Frijoles charros - pinto beans with fermented chipotle, bacon, and lime.
 quote: A bean who expects nothing is never disappointed.
 creature: petrel
-friendlyBeans: [mung, adzuki]
-antiBeans: [fava, kidney]
-friendlyForm: roasted
-antiForm: boiled
 seasonalFortune: Cures lengthen in this season's cool dark, and the brine grows certain. A charro pot kept long enough teaches the household what souring sounds like before it arrives.
 fortuneMost: The hunch is right this time. The bandage and the spare key were worth packing — you read the turning weather before anyone would admit it was turning.
 fortuneMost2: You can hear the seam starting to split before the pot says a word.

@@ -6,13 +6,14 @@ form: smoked
 trait: withering
 inverse: encouraging
 excess: scorching
+friendlyBeans: [fava, navy]
+friendlyForm: dried
+antiTriple: sweet-roasted-adzuki
+antiBeans: [kidney, pinto]
+antiForm: fried
 dish: Sopa tarasca - smoked black bean purée with ancho chile, crema, and pickled chipotle
 quote: Hell hath no fury like a bean scorned.
 creature: spitting cobra
-friendlyBeans: [fava, navy]
-antiBeans: [adzuki, green]
-friendlyForm: dried
-antiForm: roasted
 seasonalFortune: A season of low smoke and slow verdicts. Ancho darkens in the pan; the household learns which silences mean a pot has already been judged.
 fortuneMost: One sentence, then nothing. The pause does what the words began.
 fortuneMost2: A single look from you can close a thing for good. Spend it where you mean to.

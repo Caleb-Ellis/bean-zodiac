@@ -6,13 +6,14 @@ form: fermented
 trait: cynical
 inverse: hopeful
 excess: nihilistic
+friendlyBeans: [butter, black]
+friendlyForm: dried
+antiTriple: spicy-roasted-fava
+antiBeans: [pinto, chickpea]
+antiForm: fried
 dish: Choucroute garnie - navy beans with sauerkraut, caraway, and white wine.
 quote: A bean who knows the price of everything and the value of nothing.
 creature: vulture
-friendlyBeans: [butter, black]
-antiBeans: [fava, pinto]
-friendlyForm: dried
-antiForm: roasted
 seasonalFortune: Sauerkraut sharpens in the crock long after the lid goes on; the wine turns vinegar before it turns to anything kinder. Late warmth carries a caraway bite.
 fortuneMost: Sentiment doesn't clear a ledger.
 fortuneMost2: The warm new tone is setting up an old request — you've watched this exact turn arrive too many times to miss it.

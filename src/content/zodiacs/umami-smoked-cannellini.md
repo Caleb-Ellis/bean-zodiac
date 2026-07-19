@@ -7,13 +7,14 @@ form: smoked
 trait: regal
 inverse: plebeian
 excess: imperious
+friendlyBeans: [black, pinto]
+friendlyForm: dried
+antiTriple: sweet-roasted-chickpea
+antiBeans: [adzuki, fava]
+antiForm: fermented
 dish: Fagioli all'uccelletto - Tuscan cannellini with smoked pancetta, sage, and tomato.
 quote: The bean shall inherit the earth.
 creature: basilisk
-friendlyBeans: [fava, pinto]
-antiBeans: [adzuki, chickpea]
-friendlyForm: fermented
-antiForm: roasted
 seasonalFortune: A season of long-cured things. The pale bean holds its shape under slow heat, and what is refined in this quarter keeps best when handled rarely.
 fortuneMost: The evening has been waiting for you.
 fortuneHigh: The day tilts toward grace.

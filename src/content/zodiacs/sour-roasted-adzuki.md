@@ -7,13 +7,14 @@ form: roasted
 trait: transparent
 inverse: opaque
 excess: exhibitionist
+friendlyBeans: [butter, pinto]
+friendlyForm: fried
+antiTriple: bitter-smoked-black
+antiBeans: [green, edamame]
+antiForm: dried
 dish: Iri-azuki - roasted adzuki beans with yuzu zest and sea salt
 quote: The naked bean is the most decent thing in the world.
 creature: glass frog
-friendlyBeans: [butter, pinto]
-antiBeans: [black, green]
-friendlyForm: fried
-antiForm: smoked
 seasonalFortune: A season that strips its own husks. Roasting pans go uncovered, salt sits where it falls, and the yuzu's oil reads plain on the thumb. Nothing is kept back for later.
 fortuneMost: No husk, no second meaning, nothing left unsaid.
 fortuneHigh: The honest version will arrive before the polite one.

@@ -6,13 +6,14 @@ form: roasted
 trait: receptive
 inverse: closed-off
 excess: suggestible
+friendlyBeans: [mung, adzuki]
+friendlyForm: boiled
+antiTriple: spicy-fermented-fava
+antiBeans: [black, edamame]
+antiForm: fried
 dish: Slow-roasted butter beans with anchovies, garlic, and rosemary.
 quote: The ear of the bean hears all and judges nothing.
 creature: spaniel pup
-friendlyBeans: [mung, adzuki]
-antiBeans: [green, fava]
-friendlyForm: boiled
-antiForm: fried
 seasonalFortune: Anchovy salt dissolves into slow fat; rosemary gives up its oil only after hours. A season for things that arrive by accumulation, not announcement.
 fortuneMost: Let them finish, even the unhelpful long way round.
 fortuneMost2: A stranger is going to tell you something they've never told anyone, and won't quite know why.

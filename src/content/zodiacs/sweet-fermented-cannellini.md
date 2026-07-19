@@ -6,13 +6,14 @@ form: fermented
 trait: diplomatic
 inverse: abrasive
 excess: placating
+friendlyBeans: [mung, chickpea]
+friendlyForm: smoked
+antiTriple: spicy-fried-fava
+antiBeans: [green, adzuki]
+antiForm: dried
 dish: Cannellini and sake kasu soup — white beans simmered in sweet rice-lees broth with sugar and a curl of yuzu peel.
 quote: Let us never negotiate out of bean. But let us never fear to negotiate.
 creature: ringdove
-friendlyBeans: [mung, chickpea]
-antiBeans: [fava, green]
-friendlyForm: smoked
-antiForm: fried
 seasonalFortune: Kasu sweetens slowly in the crock, edges blurring into broth. The season favours those who let disagreement steep until its sharpness rounds.
 fortuneMost: Introduce the two who'd never have found each other.
 fortuneMost2: A thaw is coming between two people you'd given up on, and it will look like its own weather.

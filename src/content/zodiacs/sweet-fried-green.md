@@ -1,18 +1,20 @@
 ---
 slug: sweet-fried-green
+lastUpdated: 2026-07-19
 bean: green
 flavour: sweet
 form: fried
 trait: fidgety
 inverse: immobile
 excess: twitchy
+friendlyBeans: [kidney, edamame]
+friendlyForm: fermented
+antiTriple: umami-boiled-butter
+antiBeans: [black, navy]
+antiForm: dried
 dish: Green bean tempura with matcha sugar — blistered in light batter and tossed in powdered green tea and fine sugar.
 quote: I have measured out my bean in coffee spoons.
 creature: chipmunk
-friendlyBeans: [kidney, edamame]
-antiBeans: [butter, cannellini]
-friendlyForm: fermented
-antiForm: boiled
 seasonalFortune: A skittering season. The oil never quite settles; matcha sugar drifts from one surface to the next before it can cling. Small motions multiply.
 fortuneMost: A chipmunk with ten burrows fills none of them.
 fortuneHigh: Restless feet cover the most ground.

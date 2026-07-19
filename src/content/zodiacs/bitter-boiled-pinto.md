@@ -7,13 +7,14 @@ form: boiled
 trait: detail-oriented
 inverse: slapdash
 excess: nitpicking
+friendlyBeans: [edamame, cannellini]
+friendlyForm: fermented
+antiTriple: umami-fried-fava
+antiBeans: [butter, chickpea]
+antiForm: smoked
 dish: Pinto bean caldo with epazote and tomatillo.
 quote: The bean is in the details.
 creature: bowerbird
-friendlyBeans: [edamame, cannellini]
-antiBeans: [fava, butter]
-friendlyForm: fermented
-antiForm: fried
 seasonalFortune: A pot kept long on low heat surrenders nothing the cook has not noticed. The season runs slow; small spots and split skins betray the lot, and the kitchen smells of epazote held in for hours.
 fortuneMost: The split skin surfaces early this year — small, and seen by you alone.
 fortuneHigh: The rattle others lost, you still hear.

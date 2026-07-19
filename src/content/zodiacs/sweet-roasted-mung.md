@@ -6,13 +6,14 @@ form: roasted
 trait: easygoing
 inverse: uptight
 excess: torpid
+friendlyBeans: [butter, navy]
+friendlyForm: boiled
+antiTriple: spicy-fried-green
+antiBeans: [edamame, cannellini]
+antiForm: fermented
 dish: Jaggery-roasted mung beans — whole mung beans tossed in melted jaggery and cardamom, roasted until crisp and fragrant.
 quote: Keep your bean up and your worries down, and everything will be just fine.
 creature: capybara
-friendlyBeans: [butter, navy]
-antiBeans: [green, edamame]
-friendlyForm: boiled
-antiForm: fried
 seasonalFortune: A season that warms slowly, the way jaggery slackens before it pours. Hard edges round off in the pan. Cardamom finds its way into rooms it was not invited into.
 fortuneMost: A friend turns up sharp-cornered; out comes the chair, the glass, no questions, and the corners go.
 fortuneMost2: Set the extra plate for whoever showed up early and don't rearrange the evening around it.

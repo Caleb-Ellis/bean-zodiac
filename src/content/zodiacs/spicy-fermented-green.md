@@ -6,13 +6,14 @@ form: fermented
 trait: unconventional
 inverse: orthodox
 excess: iconoclastic
+friendlyBeans: [kidney, pinto]
+friendlyForm: roasted
+antiTriple: umami-boiled-fava
+antiBeans: [navy, butter]
+antiForm: dried
 dish: Green bean doenjang muchim - seasoned green beans with fermented soybean paste and gochugaru.
 quote: Here's to the crazy beans, the misfits, the rebels, the troublemakers.
 creature: duck-billed platypus
-friendlyBeans: [kidney, pinto]
-antiBeans: [fava, butter]
-friendlyForm: roasted
-antiForm: boiled
 seasonalFortune: Crocks held in the dark this season yield what no kitchen expected. The gochugaru deepens; the bean keeps its snap. Households reach for jars they cannot quite name.
 fortuneMost: A jar the household can't quite name, and the right answer reached by a route that's on no map and can't be retraced even by you.
 fortuneMost2: The recipe written down only after the third batch, in your own shorthand, margins left untranslated.

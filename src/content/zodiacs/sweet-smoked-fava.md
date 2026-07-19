@@ -6,13 +6,14 @@ form: smoked
 trait: dazzling
 inverse: drab
 excess: blinding
+friendlyBeans: [kidney, black]
+friendlyForm: fried
+antiTriple: umami-dried-adzuki
+antiBeans: [edamame, navy]
+antiForm: boiled
 dish: Bessara - smoked fava bean dip with smoked paprika, cumin, and honey drizzle.
 quote: All that glitters is not beans.
 creature: hummingbird
-friendlyBeans: [kidney, black]
-antiBeans: [navy, cannellini]
-friendlyForm: fried
-antiForm: dried
 seasonalFortune: A season that favours the long smoulder over the quick flare. Paprika deepens as it sits; honey thickens in the bowl. What entered loud will be remembered for what it left behind.
 fortuneMost: You'll walk into a dull room and the lights will seem to come on behind you.
 fortuneMost2: A question is rising in you that turns an ordinary dinner into the one people quote for years.

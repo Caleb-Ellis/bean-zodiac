@@ -6,13 +6,14 @@ form: fermented
 trait: subversive
 inverse: law-abiding
 excess: seditious
+friendlyBeans: [mung, chickpea]
+friendlyForm: fried
+antiTriple: bitter-dried-navy
+antiBeans: [green, edamame]
+antiForm: boiled
 dish: Spicy fava with doubanjiang and Sichuan pepper.
 quote: The most bean act in a conformist world is to think for yourself.
 creature: mole
-friendlyBeans: [mung, chickpea]
-antiBeans: [navy, kidney]
-friendlyForm: fried
-antiForm: dried
 seasonalFortune: The season belongs to whatever ripens behind a closed lid. Doubanjiang darkens unwitnessed, Sichuan pepper sharpens its hum, and the household wakes one morning to a pantry rearranged by no hand they remember.
 fortuneMost: Work the back while the front still argues the menu.
 fortuneMost2: When only you can see the move that flips the terms, the quiet is the move.

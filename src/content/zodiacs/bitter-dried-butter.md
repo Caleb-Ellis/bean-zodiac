@@ -6,13 +6,14 @@ form: dried
 trait: stark
 inverse: ornate
 excess: desolate
+friendlyBeans: [black, navy]
+friendlyForm: boiled
+antiTriple: spicy-fried-kidney
+antiBeans: [adzuki, green]
+antiForm: roasted
 dish: Dried butter beans in sage broth with bitter radicchio.
 quote: Tell me, what is it you plan to do with your one wild and precious bean?
 creature: condor
-friendlyBeans: [black, navy]
-antiBeans: [green, kidney]
-friendlyForm: boiled
-antiForm: fried
 seasonalFortune: A season cured to its bones. The cupboard keeps sage and salt; the radicchio refuses to sweeten, and the broth that lasts is the broth without garnish.
 fortuneMost: Set the hard news down flat, no garnish.
 fortuneMost2: A clear-eyed day is coming — the kind that hands you the bitter leaf plain and lets you taste exactly what it is.

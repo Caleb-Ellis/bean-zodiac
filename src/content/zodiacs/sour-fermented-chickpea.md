@@ -6,13 +6,14 @@ form: fermented
 trait: clever
 inverse: dimwitted
 excess: conniving
+friendlyBeans: [pinto, adzuki]
+friendlyForm: roasted
+antiTriple: bitter-dried-navy
+antiBeans: [cannellini, butter]
+antiForm: boiled
 dish: Dahi chana - chickpeas with yogurt, tamarind chutney, and chaat masala.
 quote: The secret of being a bean bore is to tell everything.
 creature: raccoon
-friendlyBeans: [pinto, adzuki]
-antiBeans: [navy, cannellini]
-friendlyForm: roasted
-antiForm: dried
 seasonalFortune: The brine has been thinking in the dark. What it returns is sharper than the chickpea that went in, and quicker to answer.
 fortuneMost: You've been quietly right on your own long enough.
 fortuneMost2: A solve lands in you three steps ahead of everyone.

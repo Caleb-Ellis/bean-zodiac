@@ -7,13 +7,14 @@ form: smoked
 trait: erratic
 inverse: consistent
 excess: unhinged
+friendlyBeans: [chickpea, adzuki]
+friendlyForm: fermented
+antiTriple: sweet-boiled-navy
+antiBeans: [kidney, fava]
+antiForm: dried
 dish: Texas chili con carne - smoked brisket and pinto beans in ancho and guajillo chile broth.
 quote: Life is what happens to you while you're busy bean other beans.
 creature: gadfly
-friendlyBeans: [chickpea, adzuki]
-antiBeans: [navy, kidney]
-friendlyForm: fermented
-antiForm: boiled
 seasonalFortune: Smoke wanders where the wind decides; the brisket carries char from a fire that never sat still. Ancho deepens in one corner of the pot, guajillo flares in another, and the broth keeps no consistent weather.
 fortuneMost: Fire does not know how to stay still.
 fortuneHigh2: A gadfly can move creatures much larger than itself.

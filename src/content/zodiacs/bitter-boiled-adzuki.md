@@ -7,13 +7,14 @@ form: boiled
 trait: judicious
 inverse: rash
 excess: overcautious
+friendlyBeans: [navy, black]
+friendlyForm: dried
+antiTriple: spicy-fried-chickpea
+antiBeans: [edamame, green]
+antiForm: roasted
 dish: Adzuki bean soup with chrysanthemum greens and yuzu.
 quote: To bean, or not to bean, that is the question.
 creature: eagle owl
-friendlyBeans: [navy, black]
-antiBeans: [chickpea, edamame]
-friendlyForm: dried
-antiForm: fried
 seasonalFortune: A life lived at low simmer. The pot keeps the back burner; skins yield only when ready, and the rooms around it learn to wait without resenting the wait.
 fortuneMost: A patient bean reads the sky.
 fortuneHigh: Someone calls you before the hard choice, not for the easy answer but the fair one.

@@ -6,13 +6,14 @@ form: boiled
 trait: gritty
 inverse: faint-hearted
 excess: self-punishing
+friendlyBeans: [navy, fava]
+friendlyForm: smoked
+antiTriple: sour-fermented-chickpea
+antiBeans: [pinto, adzuki]
+antiForm: roasted
 dish: Sopa de frijoles negros - black bean soup with chipotle and smoked epazote.
 quote: It does not matter how slowly you go as long as you do not bean.
 creature: warthog
-friendlyBeans: [navy, fava]
-antiBeans: [chickpea, pinto]
-friendlyForm: smoked
-antiForm: fermented
 seasonalFortune: A season for the long simmer. Chipotle smoke settles into the rafters and stays; what is started in these months keeps its heat into the next.
 fortuneMost: The thing that wore everyone else down was built to your measure. They'll turn to see if you're still standing — you are.
 fortuneMost2: Hands that have broken lesser work. This one comes out the far side harder, not softer.

@@ -7,13 +7,14 @@ form: fermented
 trait: rational
 inverse: irrational
 excess: hyperrational
+friendlyBeans: [green, pinto]
+friendlyForm: dried
+antiTriple: umami-boiled-butter
+antiBeans: [navy, adzuki]
+antiForm: roasted
 dish: Edamame in ponzu with bitter yuzu and silken tofu.
 quote: The body is not the master of the mind, any more than the mind is the master of the bean.
 creature: carrion crow
-friendlyBeans: [green, pinto]
-antiBeans: [butter, adzuki]
-friendlyForm: dried
-antiForm: boiled
 seasonalFortune: Ponzu has been pulling acid from yuzu peel for weeks; what arrives at the bowl is no longer sharp citrus but a settled verdict, ready to season what it meets.
 fortuneMost: Facts and figures will never describe how it feels.
 fortuneHigh: Now is not the time — let cooler beans prevail.

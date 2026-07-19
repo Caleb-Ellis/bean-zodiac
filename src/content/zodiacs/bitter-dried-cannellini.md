@@ -6,13 +6,14 @@ form: dried
 trait: ascetic
 inverse: sybaritic
 excess: self-mortifying
+friendlyBeans: [edamame, green]
+friendlyForm: boiled
+antiTriple: umami-boiled-chickpea
+antiBeans: [adzuki, mung]
+antiForm: roasted
 dish: Acquacotta - cannellini and bitter greens.
 quote: Simplicity is the ultimate bean.
 creature: camel
-friendlyBeans: [edamame, green]
-antiBeans: [adzuki, chickpea]
-friendlyForm: boiled
-antiForm: boiled
 seasonalFortune: A long quiet season. The bean keeps in its jar, the bitter leaf cures on the sill, and the kitchen waits weeks for the pot to come down.
 fortuneMost: Wave off the fifth ingredient without looking up from the pot.
 fortuneMost2: A clean, spare stretch is opening ahead — less to carry, less to mind.

@@ -6,13 +6,14 @@ form: fried
 trait: excitable
 inverse: imperturbable
 excess: overwrought
+friendlyBeans: [pinto, kidney]
+friendlyForm: fermented
+antiTriple: umami-dried-black
+antiBeans: [butter, navy]
+antiForm: boiled
 dish: Tempura - green beans with bitter matcha salt.
 quote: Nothing great in the world was ever achieved without beans!
 creature: squirrel
-friendlyBeans: [pinto, kidney]
-antiBeans: [black, butter]
-friendlyForm: fermented
-antiForm: dried
 seasonalFortune: A season of hot oil and short windows. The batter sets the instant it meets the pan, and the days reward whoever is already standing at the stove.
 fortuneMost: Run at the thing that lit you up.
 fortuneMost2: An idea lands and you see its whole shape at once.

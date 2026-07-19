@@ -6,13 +6,14 @@ form: roasted
 trait: cheerful
 inverse: morose
 excess: manic
+friendlyBeans: [adzuki, kidney]
+friendlyForm: fried
+antiTriple: bitter-smoked-fava
+antiBeans: [black, cannellini]
+antiForm: dried
 dish: Fagiolini al limone - oven-roasted green beans with lemon zest, garlic, and toasted almonds
 quote: The most bean thing you can do is smile through your tears.
 creature: bluebird
-friendlyBeans: [adzuki, kidney]
-antiBeans: [fava, cannellini]
-friendlyForm: fried
-antiForm: smoked
 seasonalFortune: Lemon and roast carry through the house long after the pan cools; brightness keeps moving room to room, settling where it is needed.
 fortuneMost: Warmth comes back to you doubled this turn, the way lemon carries through a house long after the pan has cooled.
 fortuneMost2: You change the air of a place just by walking in.

@@ -7,13 +7,14 @@ form: fried
 trait: meticulous
 inverse: sloppy
 excess: overprecise
+friendlyBeans: [mung, edamame]
+friendlyForm: boiled
+antiTriple: umami-smoked-mung
+antiBeans: [black, fava]
+antiForm: fermented
 dish: Fagioli al limone con capperi - Italian cannellini beans pan-fried with capers, garlic, and lemon zest.
 quote: For every bean, there is a season, and a proper form.
 creature: satin bowerbird
-friendlyBeans: [mung, edamame]
-antiBeans: [pinto, black]
-friendlyForm: boiled
-antiForm: smoked
 seasonalFortune: Lemon zest keeps in a clean jar; capers hold in their brine. A cannellini life runs on small inventories — each thing named, weighed, set in its row.
 fortuneMost: One crooked twig ruins the nest.
 fortuneHigh: Wipe the rim before you hand it over.

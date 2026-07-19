@@ -6,13 +6,14 @@ form: fried
 trait: protective
 inverse: endangering
 excess: suffocating
+friendlyBeans: [mung, green]
+friendlyForm: roasted
+antiTriple: sour-dried-cannellini
+antiBeans: [black, edamame]
+antiForm: fermented
 dish: Hotteok with red bean — Korean street pancakes fried until blistered, filled with sweetened kidney bean paste and brown sugar.
 quote: We must protect the beans at all cost!
 creature: rottweiler
-friendlyBeans: [mung, green]
-antiBeans: [pinto, black]
-friendlyForm: roasted
-antiForm: dried
 seasonalFortune: A season for blistered surfaces and sweet interiors; what the pan darkens, it also seals, and the soft hearts inside go unbothered by the fire.
 fortuneMost: Offer the lift before they ask, time already picked.
 fortuneMost2: What the pan darkens it also seals — and that's you this week, taking the blistering so the soft heart behind you goes unbothered by the fire.

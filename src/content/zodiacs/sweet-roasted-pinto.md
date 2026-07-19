@@ -6,13 +6,14 @@ form: roasted
 trait: mischievous
 inverse: well-behaved
 excess: delinquent
+friendlyBeans: [adzuki, green]
+friendlyForm: fermented
+antiTriple: umami-boiled-cannellini
+antiBeans: [kidney, navy]
+antiForm: dried
 dish: Pinto bean and chipotle chocolate bark — roasted pinto beans set into dark chocolate with chipotle and flaked sea salt.
 quote: I solemnly swear that my beans are up to no good.
 creature: imp
-friendlyBeans: [adzuki, green]
-antiBeans: [kidney, navy]
-friendlyForm: fermented
-antiForm: boiled
 seasonalFortune: A season for the slow burn behind the sweet bite. Chocolate sets cold over a roast that hasn't quit; chipotle waits a beat before it speaks.
 fortuneMost: Walk in holding something nobody can refuse and stay until the place is yours.
 fortuneMost2: The story you swore you'd never tell, mid-anecdote, no warning.

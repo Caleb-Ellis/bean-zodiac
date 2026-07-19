@@ -6,13 +6,14 @@ form: boiled
 trait: courageous
 inverse: cowardly
 excess: swashbuckling
+friendlyBeans: [kidney, chickpea]
+friendlyForm: fried
+antiTriple: sweet-smoked-adzuki
+antiBeans: [butter, mung]
+antiForm: dried
 dish: Macco di Fave - fava beans with wild chicory.
 quote: Courage is not the absence of beans, but the triumph over it.
 creature: griffin
-friendlyBeans: [kidney, chickpea]
-antiBeans: [butter, adzuki]
-friendlyForm: fried
-antiForm: smoked
 seasonalFortune: The fava goes in whole and comes out a paste; the chicory keeps its sting. A life spent reducing hard things until they spread, and refusing to lose the bitter edge.
 fortuneMost: Go at the thing you're flinching from while it's still difficult.
 fortuneMost2: The thing you've been circling is about to give way.

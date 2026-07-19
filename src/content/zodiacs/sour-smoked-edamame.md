@@ -6,13 +6,14 @@ form: smoked
 trait: surgical
 inverse: ham-fisted
 excess: sterile
+friendlyBeans: [cannellini, fava]
+friendlyForm: dried
+antiTriple: umami-roasted-mung
+antiBeans: [adzuki, kidney]
+antiForm: fermented
 dish: Dashi-smoked edamame with ponzu - edamame cold-smoked over kombu and served in citrus soy
 quote: First, do no bean.
 creature: kingfisher
-friendlyBeans: [cannellini, fava]
-antiBeans: [adzuki, butter]
-friendlyForm: dried
-antiForm: roasted
 seasonalFortune: A season for cold smoke and clean citrus. The pod gives up what it has and nothing more; ponzu finds the seam an honest blade already knew.
 fortuneMost: One sentence, and out.
 fortuneMost2: A friend arrives carrying the long worry, and the single line that shrinks it is already in your mouth.

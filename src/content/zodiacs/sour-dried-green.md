@@ -6,13 +6,14 @@ form: dried
 trait: bracing
 inverse: enervating
 excess: jolting
+friendlyBeans: [kidney, edamame]
+friendlyForm: fried
+antiTriple: umami-boiled-butter
+antiBeans: [mung, adzuki]
+antiForm: roasted
 dish: Szechuan dry-fried green beans with black vinegar and ginger.
 quote: Into each life some bean must fall.
 creature: arctic fox
-friendlyBeans: [kidney, edamame]
-antiBeans: [butter, chickpea]
-friendlyForm: fried
-antiForm: boiled
 seasonalFortune: Black vinegar finds the seam in a room and pries it open. Around this bean, the muffled day blisters loose; ginger lingers in the doorway long after.
 fortuneMost: Open the window without asking.
 fortuneMost2: Asked what you really think, tell them, then sit in the silence after.

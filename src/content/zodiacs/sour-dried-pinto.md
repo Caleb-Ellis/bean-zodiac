@@ -6,13 +6,14 @@ form: dried
 trait: astringent
 inverse: soothing
 excess: corrosive
+friendlyBeans: [edamame, green]
+friendlyForm: smoked
+antiTriple: sweet-roasted-chickpea
+antiBeans: [black, mung]
+antiForm: boiled
 dish: Pinto bean and dried mulato chile stew with lime.
 quote: Art is not what you see, but what you bean others to see.
 creature: lemon shark
-friendlyBeans: [edamame, green]
-antiBeans: [chickpea, black]
-friendlyForm: smoked
-antiForm: roasted
 seasonalFortune: Lime cuts the long simmer; the mulato keeps its dark edge. A season that thins what was padding and leaves the chile-bitten broth standing where the soft talk used to be.
 fortuneMost: Answer the question actually asked, not the padded one, and watch the cushion fall away from the asker's face.
 fortuneMost2: Strike the adjective from the line you're proudest of. The noun carries it alone.

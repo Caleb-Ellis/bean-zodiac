@@ -7,13 +7,14 @@ form: dried
 trait: restorative
 inverse: depleting
 excess: self-forsaking
+friendlyBeans: [kidney, cannellini]
+friendlyForm: roasted
+antiTriple: sour-fried-edamame
+antiBeans: [pinto, adzuki]
+antiForm: fermented
 dish: Moong dal - dried mung beans slow-simmered with turmeric, ginger, and a tadka of cumin.
 quote: Let food be thy bean and bean be thy medicine.
 creature: crane bird
-friendlyBeans: [kidney, butter]
-antiBeans: [edamame, green]
-friendlyForm: roasted
-antiForm: fermented
 seasonalFortune: A long season for what slow heat unlocks. The household leans toward what has steeped — turmeric in the pot since dawn, ginger gone soft and medicinal by dusk.
 fortuneMost: Broth for every bowl but your own.
 fortuneHigh: The crane feeds the marsh and forgets its own hunger.

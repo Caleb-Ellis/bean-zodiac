@@ -6,13 +6,14 @@ form: fermented
 trait: scholarly
 inverse: ignorant
 excess: donnish
+friendlyBeans: [mung, green]
+friendlyForm: dried
+antiTriple: sweet-boiled-navy
+antiBeans: [edamame, butter]
+antiForm: dried
 dish: Cannellini in aged pecorino broth with bitter cicoria.
 quote: I have not failed. I have just found ten thousand ways that will not produce a bean.
 creature: long-eared owl
-friendlyBeans: [mung, green]
-antiBeans: [black, navy]
-friendlyForm: dried
-antiForm: boiled
 seasonalFortune: A wheel of pecorino bitters slowly in its rind; the season rewards what has been kept in the dark and turned, occasionally, by a steady hand.
 fortuneMost: The line nobody else will reach waits in the footnote's footnote, at the end of the third pass.
 fortuneMost2: Finish the work nobody asked for, every detail in its place.

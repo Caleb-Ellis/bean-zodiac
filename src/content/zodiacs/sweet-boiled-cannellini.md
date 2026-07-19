@@ -6,13 +6,14 @@ form: boiled
 trait: kind
 inverse: unkind
 excess: pushover
+friendlyBeans: [butter, navy]
+friendlyForm: roasted
+antiTriple: spicy-fermented-fava
+antiBeans: [green, edamame]
+antiForm: fried
 dish: Cannellini in vin santo — white beans simmered in sweet wine with a strip of lemon peel and fresh thyme.
 quote: A little bean, a little more bean than absolutely necessary — that is what it means to be kind.
 creature: newfoundland
-friendlyBeans: [butter, navy]
-antiBeans: [edamame, fava]
-friendlyForm: roasted
-antiForm: fermented
 seasonalFortune: A long sweet simmer hums through the season; the thyme steeps unseen, and small unasked-for warmths arrive at the door of one who has been quietly pouring.
 fortuneMost: Send the small thing to the one you've been thinking of, no reason attached.
 fortuneMost2: A kindness you slipped someone without a name on it is circling back to your own door.

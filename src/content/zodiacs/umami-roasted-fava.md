@@ -6,13 +6,14 @@ form: roasted
 trait: defiant
 inverse: obsequious
 excess: mutinous
+friendlyBeans: [chickpea, pinto]
+friendlyForm: fried
+antiTriple: bitter-dried-navy
+antiBeans: [black, cannellini]
+antiForm: boiled
 dish: Fave al forno - roasted fava beans with guanciale, pecorino, and wild fennel.
 quote: They tried to bury us. They didn't know we were beans.
 creature: mustang
-friendlyBeans: [chickpea, green]
-antiBeans: [navy, cannellini]
-friendlyForm: fried
-antiForm: dried
 seasonalFortune: Salt cures what warmth cannot reach. The pod's twin skins thicken against the cold months; a season for holding ground, for charring rather than yielding, for flavors that sharpen under pressure.
 fortuneMost: Don't pay the wrong charge twice just to make it stop.
 fortuneMost2: No voice raised, your pace unchanged while a crowd turns against you.

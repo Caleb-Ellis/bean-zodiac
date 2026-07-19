@@ -6,13 +6,14 @@ form: dried
 trait: audacious
 inverse: diffident
 excess: insolent
+friendlyBeans: [chickpea, mung]
+friendlyForm: smoked
+antiTriple: sour-fried-green
+antiBeans: [navy, kidney]
+antiForm: boiled
 dish: Bessara - Moroccan dried fava bean dip with cumin and chili oil.
 quote: Fortune favors the bean.
 creature: honey badger
-friendlyBeans: [chickpea, mung]
-antiBeans: [green, navy]
-friendlyForm: smoked
-antiForm: fried
 seasonalFortune: A year that cures hard and serves hot. The dried bean keeps its shape until the chili oil hits, and then a household built on small dares finds the heat it was waiting on.
 fortuneMost: Book the cabin mid-conversation and send everyone the address after.
 fortuneMost2: On the highway before the rest have answered.

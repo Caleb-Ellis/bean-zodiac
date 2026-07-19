@@ -7,13 +7,14 @@ form: boiled
 trait: compliant
 inverse: insubordinate
 excess: subservient
+friendlyBeans: [navy, mung]
+friendlyForm: dried
+antiTriple: spicy-fried-green
+antiBeans: [kidney, pinto]
+antiForm: fermented
 dish: Butter bean and maple pudding — beans boiled soft and folded into warm cream with maple syrup and a grating of nutmeg.
 quote: The bean that bends does not break.
 creature: sheep
-friendlyBeans: [navy, mung]
-antiBeans: [kidney, green]
-friendlyForm: dried
-antiForm: fried
 seasonalFortune: A season that takes whatever shape the pot offers. Butter beans soften to fit; the cream accepts what is folded in, and the yielding looks so much like generosity that nobody, including the bean, notices the difference.
 fortuneMost: You take the shape of the pot and call it your choice.
 fortuneHigh: Just go with the flow.

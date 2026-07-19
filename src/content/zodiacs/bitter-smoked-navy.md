@@ -6,13 +6,14 @@ form: smoked
 trait: foreboding
 inverse: auspicious
 excess: ominous
+friendlyBeans: [butter, black]
+friendlyForm: boiled
+antiTriple: spicy-fermented-chickpea
+antiBeans: [green, fava]
+antiForm: fried
 dish: Smoked navy bean with bitter juniper and char.
 quote: It was a dark and beany night.
 creature: black vulture
-friendlyBeans: [butter, black]
-antiBeans: [chickpea, fava]
-friendlyForm: boiled
-antiForm: fermented
 seasonalFortune: Juniper smoke drifts low through the bitter months; the char beneath the kettle remembers what the woodpile has not yet admitted.
 fortuneMost: The crack is coming, and you'll see it long before anyone else lifts their head.
 fortuneMost2: That knot under your ribs is rarely wrong.

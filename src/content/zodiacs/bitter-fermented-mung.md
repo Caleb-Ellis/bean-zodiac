@@ -6,13 +6,14 @@ form: fermented
 trait: intuitive
 inverse: clueless
 excess: superstitious
+friendlyBeans: [fava, chickpea]
+friendlyForm: smoked
+antiTriple: sour-fried-edamame
+antiBeans: [navy, green]
+antiForm: dried
 dish: Bindaetteok — Korean mung bean pancakes with bitter herb dipping sauce.
 quote: The intuitive bean is a sacred gift and the rational bean is a faithful servant.
 creature: siamese
-friendlyBeans: [fava, chickpea]
-antiBeans: [edamame, green]
-friendlyForm: smoked
-antiForm: fried
 seasonalFortune: A season for reading the batter before it speaks. The bitter herb sharpens slowly in the jar, and the cook who waits hears the dish settle into its own bitter sense.
 fortuneMost: Move on the read before the reasoning files in.
 fortuneMost2: The read you can't yet defend is the true one.

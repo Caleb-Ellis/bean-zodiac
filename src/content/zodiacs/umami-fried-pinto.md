@@ -6,13 +6,14 @@ form: fried
 trait: unreliable
 inverse: trusty
 excess: flaky
+friendlyBeans: [chickpea, green]
+friendlyForm: roasted
+antiTriple: sour-boiled-black
+antiBeans: [navy, butter]
+antiForm: dried
 dish: Frijoles refritos con chorizo - pinto beans fried in lard with Mexican chorizo and ancho chile.
 quote: I am not bean enough to make promises I cannot keep.
 creature: wisp
-friendlyBeans: [chickpea, mung]
-antiBeans: [navy, black]
-friendlyForm: fermented
-antiForm: boiled
 seasonalFortune: Lard renders twice before it sets. A pinto's word burns bright at first heating and steadies, if at all, on the second pass through the fat.
 fortuneMost: Lard renders bright and hot, and your yes comes out the same way, meaning every word while it leaves.
 fortuneMost2: Weekends, trips, favors, all pledged the instant they're floated. The buoyancy you give away is real even when the plan cools by week's end.

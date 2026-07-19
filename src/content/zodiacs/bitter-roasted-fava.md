@@ -7,13 +7,14 @@ form: roasted
 trait: pioneering
 inverse: imitative
 excess: overreaching
+friendlyBeans: [chickpea, mung]
+friendlyForm: fried
+antiTriple: sour-smoked-cannellini
+antiBeans: [navy, black]
+antiForm: dried
 dish: Muhammara - roasted fava and bitter herbs.
 quote: Well-bean is that which is done for the first time.
 creature: arctic tern
-friendlyBeans: [chickpea, mung]
-antiBeans: [navy, cannellini]
-friendlyForm: fried
-antiForm: smoked
 seasonalFortune: A season ground in the stone before the stone has a name. Bitter herb meets charred fava and the paste invents its own colour; whoever tastes it tastes the edge of somewhere unmapped.
 fortuneMost: Enter the void.
 fortuneHigh: Be first through the door — it opens only once.

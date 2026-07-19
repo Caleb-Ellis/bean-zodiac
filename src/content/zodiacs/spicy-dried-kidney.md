@@ -6,13 +6,14 @@ form: dried
 trait: primed
 inverse: unprepared
 excess: hair-trigger
+friendlyBeans: [green, fava]
+friendlyForm: boiled
+antiTriple: sour-fermented-cannellini
+antiBeans: [butter, edamame]
+antiForm: roasted
 dish: Red beans and rice - New Orleans style with andouille and cayenne.
 quote: Anger is an acid that can do more harm to the bean in which it is stored than to anything on which it is poured.
 creature: cobra
-friendlyBeans: [green, fava]
-antiBeans: [butter, edamame]
-friendlyForm: boiled
-antiForm: fermented
 seasonalFortune: A season cured under lidded heat. The pod keeps its cayenne folded inward; whatever waits in the dried bean travels in low company until the pot finds its hour.
 fortuneMost: Small things have been banking quietly, and the next wrong tone sets the kettle whistling.
 fortuneMost2: A pod keeps its cayenne folded inward, travelling in low company until the pot finds its hour.

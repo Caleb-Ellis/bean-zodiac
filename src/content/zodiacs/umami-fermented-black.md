@@ -6,13 +6,14 @@ form: fermented
 trait: introspective
 inverse: unexamined
 excess: navel-gazing
+friendlyBeans: [fava, pinto]
+friendlyForm: smoked
+antiTriple: sweet-roasted-adzuki
+antiBeans: [kidney, cannellini]
+antiForm: boiled
 dish: Black bean and douchi braise - black soybeans with fermented black bean paste, ginger, and Shaoxing wine.
 quote: Who looks outside, dreams; who looks inside, awakens the bean.
 creature: turtle
-friendlyBeans: [fava, pinto]
-antiBeans: [adzuki, kidney]
-friendlyForm: smoked
-antiForm: roasted
 seasonalFortune: A season for crocks left undisturbed, for ginger steeping into wine, for darknesses that grow more articulate the longer they are not opened.
 fortuneMost: The realest conversation you'll have all turn happens where no one can watch it.
 fortuneMost2: A friend asks how you are and the true answer surfaces three days later, whole. Trust the slow account over the quick one.

@@ -6,13 +6,14 @@ form: roasted
 trait: sociable
 inverse: antisocial
 excess: clamorous
+friendlyBeans: [mung, adzuki]
+friendlyForm: fried
+antiTriple: bitter-dried-green
+antiBeans: [black, edamame]
+antiForm: fermented
 dish: Leblebi - Tunisian roasted chickpeas in spiced broth with harissa and cumin.
 quote: No bean is an island.
 creature: prairie dog
-friendlyBeans: [mung, adzuki]
-antiBeans: [black, green]
-friendlyForm: fried
-antiForm: dried
 seasonalFortune: A season for the long simmer. Harissa deepens in company; the chickpea grows generous in spiced broth, and rooms thicken around those who stay near the pot.
 fortuneMost: Throw the door open on no notice.
 fortuneMost2: Watch how fast the half-stranger pulled into the circle turns into a friend.

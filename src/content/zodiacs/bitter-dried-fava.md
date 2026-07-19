@@ -6,13 +6,14 @@ form: dried
 trait: steely
 inverse: spineless
 excess: hardbitten
+friendlyBeans: [kidney, edamame]
+friendlyForm: boiled
+antiTriple: umami-fermented-pinto
+antiBeans: [adzuki, butter]
+antiForm: roasted
 dish: Bessara - fava beans with cumin and bitter harissa.
 quote: That which does not bean me makes me stronger.
 creature: iron wolf
-friendlyBeans: [kidney, edamame]
-antiBeans: [green, butter]
-friendlyForm: boiled
-antiForm: fermented
 seasonalFortune: A season cured to the bone. The harissa keeps its sting in the jar, and the fava holds shape against a long, patient grinding.
 fortuneMost: Finish it through the ache.
 fortuneMost2: The long grinding is about to pay out.

@@ -7,13 +7,14 @@ form: dried
 trait: untempered
 inverse: moderate
 excess: excessive
+friendlyBeans: [chickpea, green]
+friendlyForm: fermented
+antiTriple: sour-boiled-cannellini
+antiBeans: [navy, butter]
+antiForm: fried
 dish: New Mexican dried pinto bean stew with ancho and red New Mexico chile.
 quote: It's better to burn out than to bean away.
 creature: young bull
-friendlyBeans: [chickpea, green]
-antiBeans: [cannellini, navy]
-friendlyForm: fermented
-antiForm: boiled
 seasonalFortune: The pot keeps no quiet hour; ancho and dried pinto throw their heat against the lid, and the kitchen lives at full pitch from morning on.
 fortuneMost: Never, ever stop — it's not even close to done.
 fortuneHigh: The young bull is not contained by the small wooden gate.

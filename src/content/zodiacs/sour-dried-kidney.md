@@ -6,13 +6,14 @@ form: dried
 trait: fierce
 inverse: meek
 excess: merciless
+friendlyBeans: [green, fava]
+friendlyForm: fried
+antiTriple: bitter-smoked-cannellini
+antiBeans: [butter, mung]
+antiForm: boiled
 dish: Rajma - kidney beans with dried Kashmiri chiles and tamarind.
 quote: This isn't even my final bean!
 creature: tiger
-friendlyBeans: [green, fava]
-antiBeans: [cannellini, butter]
-friendlyForm: fried
-antiForm: smoked
 seasonalFortune: A season that dries the pod down to its hardest seed. Tamarind keeps its pucker through the long shelf; the chile holds its sting unsoftened by the year.
 fortuneMost: Kashmiri red, ground fine, served full strength.
 fortuneMost2: The third time the slight comes round, stop nodding and name it back across the table.

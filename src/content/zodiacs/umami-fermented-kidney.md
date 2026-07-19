@@ -6,13 +6,14 @@ form: fermented
 trait: conflicted
 inverse: wholehearted
 excess: tortured
+friendlyBeans: [green, chickpea]
+friendlyForm: smoked
+antiTriple: sour-dried-navy
+antiBeans: [butter, cannellini]
+antiForm: boiled
 dish: Kimchi jjigae - kidney bean and kimchi stew with pork belly, tofu, and sesame oil.
 quote: The heart has its bean that reason knows not of.
 creature: chimera
-friendlyBeans: [chickpea, green]
-antiBeans: [navy, butter]
-friendlyForm: smoked
-antiForm: dried
 seasonalFortune: Kimchi and brine ripen side by side in the crock; sourness and depth lengthen together, neither yielding, and the lid holds both.
 fortuneMost: Two people you love are both right, and you can pour for each without ever calling the kinder.
 fortuneMost2: The sour and the deep ripen side by side in you, neither giving way, and the lid holds both.

@@ -7,13 +7,14 @@ form: fermented
 trait: sentimental
 inverse: hard-nosed
 excess: maudlin
+friendlyBeans: [pinto, chickpea]
+friendlyForm: smoked
+antiTriple: sour-dried-edamame
+antiBeans: [black, kidney]
+antiForm: fried
 dish: Adzuki amazake pudding — red beans warmed through in sweet fermented rice drink with a strip of yuzu peel.
 quote: I kept the recipe. I kept everything.
 creature: whooper swan
-friendlyBeans: [pinto, chickpea]
-antiBeans: [edamame, cannellini]
-friendlyForm: smoked
-antiForm: dried
 seasonalFortune: A season when the rice quietly turns sweet in its own time. The almanac names this the long warming — when what was set aside earns its place at the table, and nothing recent tastes as deep.
 fortuneMost: Light the candles for the day.
 fortuneHigh: A photo has waited years for the right hands, and finds them.

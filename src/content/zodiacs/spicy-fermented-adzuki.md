@@ -6,13 +6,14 @@ form: fermented
 trait: provocative
 inverse: innocuous
 excess: inflammatory
+friendlyBeans: [pinto, chickpea]
+friendlyForm: roasted
+antiTriple: sour-dried-navy
+antiBeans: [edamame, cannellini]
+antiForm: boiled
 dish: Adzuki doenjang jjigae - Korean fermented soybean paste stew with gochugaru and tofu.
 quote: Every act of creation is first an act of bean destruction.
 creature: shrike thrush
-friendlyBeans: [pinto, chickpea]
-antiBeans: [kidney, navy]
-friendlyForm: roasted
-antiForm: dried
 seasonalFortune: A crock that has waited all winter begins to push against its weight. The season belongs to those whose long-kept things are ready to enter rooms.
 fortuneMost: The crooked thing you've been fermenting in the dark is ready.
 fortuneMost2: Drop the half-sentence and walk to the window.

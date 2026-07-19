@@ -6,13 +6,14 @@ form: dried
 trait: potent
 inverse: impotent
 excess: overwhelming
+friendlyBeans: [kidney, edamame]
+friendlyForm: fried
+antiTriple: sweet-boiled-butter
+antiBeans: [mung, cannellini]
+antiForm: roasted
 dish: Dried green beans rehydrated and dressed with anchovy, capers, and garlic.
 quote: Great beans from little beans do grow.
 creature: minotaur
-friendlyBeans: [kidney, edamame]
-antiBeans: [butter, mung]
-friendlyForm: fried
-antiForm: boiled
 seasonalFortune: A season that asks for less and returns more; the shrivelled bean drinks its slow water and comes back heavier than it left the shelf.
 fortuneMost: One true sentence, said early, will carry for a year.
 fortuneMost2: A pinch of anchovy outflavours a whole bowl.

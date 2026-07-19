@@ -7,13 +7,14 @@ form: smoked
 trait: luminous
 inverse: dour
 excess: garish
+friendlyBeans: [cannellini, pinto]
+friendlyForm: roasted
+antiTriple: sour-fried-kidney
+antiBeans: [edamame, chickpea]
+antiForm: roasted
 dish: Zenzai - sweet adzuki bean soup with smoked brown sugar syrup and toasted mochi.
 quote: We are all in the bean, but some of us are looking at the stars.
 creature: anglerfish
-friendlyBeans: [cannellini, pinto]
-antiBeans: [edamame, kidney]
-friendlyForm: roasted
-antiForm: fried
 seasonalFortune: A life lived in the smoke-sweetness of late evening — brown sugar darkening over coals, mochi blistering, the room leaning toward whoever last spoke.
 fortuneMost: A cold room catches fire the moment you cross it.
 fortuneHigh: The wary will tell you their secret.

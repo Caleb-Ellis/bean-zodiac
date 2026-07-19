@@ -7,13 +7,14 @@ form: dried
 trait: straightforward
 inverse: convoluted
 excess: simplistic
+friendlyBeans: [cannellini, pinto]
+friendlyForm: boiled
+antiTriple: bitter-smoked-fava
+antiBeans: [mung, chickpea]
+antiForm: roasted
 dish: Honey-glazed dried edamame — dried soybeans tossed in hot honey and sea salt until cracked and caramelised.
 quote: Keep it simple, bean.
 creature: ewe
-friendlyBeans: [cannellini, kidney]
-antiBeans: [mung, black]
-friendlyForm: boiled
-antiForm: fermented
 seasonalFortune: A season cracked down to the kernel. Hot honey, sea salt, nothing else asked for — the days run short and clean, and what stays is what was load-bearing all along.
 fortuneMost: A single straight line is all it takes.
 fortuneHigh: Lie down if you're tired.

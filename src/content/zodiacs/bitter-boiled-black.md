@@ -7,13 +7,14 @@ form: boiled
 trait: measured
 inverse: impetuous
 excess: leaden
+friendlyBeans: [navy, cannellini]
+friendlyForm: dried
+antiTriple: spicy-roasted-green
+antiBeans: [chickpea, pinto]
+antiForm: fried
 dish: Black bean soup with epazote and bitter orange.
 quote: It was the best of beans, it was the worst of beans.
 creature: grey heron
-friendlyBeans: [navy, cannellini]
-antiBeans: [green, chickpea]
-friendlyForm: dried
-antiForm: roasted
 seasonalFortune: The pot sits dark on a low flame, days of soaking already behind it; nothing in the kitchen is rushed, and nothing arrives less than fully steeped.
 fortuneMost: The heron stands all morning in the shallows and eats better than the birds that thrash.
 fortuneHigh: A decision is simmering and you're tempted to taste it early. Let it cook itself down.

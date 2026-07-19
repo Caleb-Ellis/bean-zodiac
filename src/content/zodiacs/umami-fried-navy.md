@@ -6,13 +6,14 @@ form: fried
 trait: arrogant
 inverse: modest
 excess: insufferable
+friendlyBeans: [edamame, black]
+friendlyForm: boiled
+antiTriple: bitter-fermented-chickpea
+antiBeans: [mung, fava]
+antiForm: smoked
 dish: Crispy navy beans with dashi glaze, bonito flakes, and nori.
 quote: The only true wisdom is knowing you know nothing about beans.
 creature: peacock
-friendlyBeans: [edamame, butter]
-antiBeans: [chickpea, mung]
-friendlyForm: boiled
-antiForm: smoked
 seasonalFortune: A season that crackles at the edges. The shell does the talking; the dashi underneath is taken on faith, and mostly the faith is warranted.
 fortuneMost: The shell does the talking and the dashi underneath is taken on faith — and the faith is warranted.
 fortuneMost2: Walk up to a stranger's work and name which one is the strong one, out loud.

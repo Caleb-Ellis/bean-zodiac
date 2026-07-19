@@ -6,13 +6,14 @@ form: roasted
 trait: polished
 inverse: uncouth
 excess: lacquered
+friendlyBeans: [mung, pinto]
+friendlyForm: fried
+antiTriple: spicy-smoked-black
+antiBeans: [kidney, fava]
+antiForm: dried
 dish: Roasted adzuki soup with bitter cacao and orange peel.
 quote: Have no fear of bean perfection — you'll never reach it.
 creature: seal
-friendlyBeans: [mung, pinto]
-antiBeans: [black, kidney]
-friendlyForm: fried
-antiForm: smoked
 seasonalFortune: A season of long roasts and pared peels. Cacao is grated in thin curls; nothing comes to the table half-finished, and the kitchen keeps its own quiet standard.
 fortuneMost: The curls of peel come off your knife all the same length.
 fortuneMost2: The bowl you finished to the last clean curl is the one they'll remember.

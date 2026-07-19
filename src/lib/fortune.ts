@@ -254,6 +254,7 @@ export const getFortuneText = (
 export const getSpiritTags = (zodiac: Zodiac): SpiritTags => ({
   friendlyBeans: zodiac.friendlyBeans,
   antiBeans: zodiac.antiBeans,
+  antiTriple: zodiac.antiTriple,
   friendlyForm: zodiac.friendlyForm,
   antiForm: zodiac.antiForm,
 });

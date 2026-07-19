@@ -6,13 +6,14 @@ form: fermented
 trait: observant
 inverse: unobservant
 excess: snooping
+friendlyBeans: [black, chickpea]
+friendlyForm: smoked
+antiTriple: sweet-boiled-mung
+antiBeans: [butter, navy]
+antiForm: roasted
 dish: Shio koji edamame - edamame marinated in fermented rice koji with salt and yuzu.
 quote: The world is full of obvious things which no bean by any chance ever observes.
 creature: tawny owl
-friendlyBeans: [black, green]
-antiBeans: [butter, navy]
-friendlyForm: smoked
-antiForm: boiled
 seasonalFortune: Koji works in the dark for weeks before flavor declares itself. The season belongs to the slow accumulators — those who file what they see and wait.
 fortuneMost: Who came in together, who isn't speaking, which small thing is off — you've read the whole place before you sit.
 fortuneMost2: You filed it long before anyone else looked up, and now it's ripened into something usually correct.

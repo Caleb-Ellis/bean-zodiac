@@ -6,13 +6,14 @@ form: boiled
 trait: disciplined
 inverse: unruly
 excess: regimented
+friendlyBeans: [cannellini, navy]
+friendlyForm: dried
+antiTriple: sweet-fermented-chickpea
+antiBeans: [pinto, fava]
+antiForm: smoked
 dish: Red beans and rice - Louisiana style with Andouille sausage and the holy trinity, made on a Monday.
 quote: We are what we repeatedly bean. Excellence, then, is not an act, but a habit.
 creature: warhorse
-friendlyBeans: [cannellini, black]
-antiBeans: [chickpea, fava]
-friendlyForm: dried
-antiForm: smoked
 seasonalFortune: A Monday pot, set early, asked nothing of the cook but return. The season rewards the unremarkable hour repeated; richness arrives by accumulation, not by occasion.
 fortuneMost: Same chair, same hour — show up hardest on the day the streak usually dies.
 fortuneMost2: The unremarkable hour you've repeated for months is quietly about to pay out, all at once, when you'd half stopped expecting it to.

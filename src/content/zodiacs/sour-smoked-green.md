@@ -6,13 +6,14 @@ form: smoked
 trait: pungent
 inverse: bland
 excess: peppery
+friendlyBeans: [kidney, pinto]
+friendlyForm: roasted
+antiTriple: sweet-dried-butter
+antiBeans: [cannellini, navy]
+antiForm: boiled
 dish: Leather britches - Appalachian smoke-dried green beans simmered with ham hock and cider vinegar
 quote: A bean by any other name would smell as sweet.
 creature: polecat
-friendlyBeans: [kidney, pinto]
-antiBeans: [butter, fava]
-friendlyForm: roasted
-antiForm: dried
 seasonalFortune: A season when the leather britches hang in the rafters and tell the kitchen what month it is before the calendar does. Vinegar sharpens; hock-smoke insists.
 fortuneMost: The take goes out unsoftened.
 fortuneMost2: An opinion strung up fully formed where everyone can see it, like britches in the rafters.

@@ -6,13 +6,14 @@ form: smoked
 trait: reticent
 inverse: talkative
 excess: clammed-up
+friendlyBeans: [black, cannellini]
+friendlyForm: dried
+antiTriple: umami-roasted-pinto
+antiBeans: [adzuki, chickpea]
+antiForm: fermented
 dish: Smoked edamame with bitter greens, unseasoned.
 quote: Better to remain silent and be bean than to speak and to remove all doubt.
 creature: clam
-friendlyBeans: [black, cannellini]
-antiBeans: [pinto, adzuki]
-friendlyForm: dried
-antiForm: roasted
 seasonalFortune: A season spent under low smoke. The reticent pod takes on the fire's character without comment, and the bitter greens beside it ask for nothing.
 fortuneMost: One nod to the right person does what a whole speech couldn't.
 fortuneMost2: The single sentence you walked in with is the right one.

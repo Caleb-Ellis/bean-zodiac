@@ -6,13 +6,14 @@ form: dried
 trait: storied
 inverse: obscure
 excess: puffed-up
+friendlyBeans: [adzuki, fava]
+friendlyForm: fermented
+antiTriple: spicy-smoked-kidney
+antiBeans: [cannellini, fava]
+antiForm: fried
 dish: Pinto bean pie — dried pintos cooked soft and sweetened into a custard filling for a Southern pie shell, spiced with cinnamon and vanilla.
 quote: After all, tomorrow is another bean.
 creature: thunderbird
-friendlyBeans: [adzuki, fava]
-antiBeans: [cannellini, mung]
-friendlyForm: fermented
-antiForm: smoked
 seasonalFortune: A long sweetness gathers in the dark of the pantry; what was set aside seasons itself, and the year tastes of what the year remembers.
 fortuneMost: A scrapbook fanned open across a table — nothing crosses your threshold without earning a shelf, postcard and stub and dated jar, each with its story ready.
 fortuneMost2: Someone names a city and out comes the long sweet tangent — the rained-out week, the café with the broken chair, told pause for pause.

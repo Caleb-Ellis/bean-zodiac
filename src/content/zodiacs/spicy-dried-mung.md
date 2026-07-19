@@ -6,13 +6,14 @@ form: dried
 trait: piquant
 inverse: insipid
 excess: fiery
+friendlyBeans: [cannellini, adzuki]
+friendlyForm: boiled
+antiTriple: umami-smoked-edamame
+antiBeans: [butter, black]
+antiForm: fermented
 dish: Moong dal - spiced mung bean soup with dried red chilies and mustard seed.
 quote: A spoonful of bean helps the medicine go down.
 creature: chili crab
-friendlyBeans: [cannellini, adzuki]
-antiBeans: [edamame, black]
-friendlyForm: boiled
-antiForm: smoked
 seasonalFortune: A piquant season. The dried chili keeps its sting long after the pot has cooled, and the house that holds it learns to season lightly, taste often, speak last.
 fortuneMost: Bring the soup first, then the question they've been dodging.
 fortuneMost2: The dried chili keeps its sting long after the pot has cooled.

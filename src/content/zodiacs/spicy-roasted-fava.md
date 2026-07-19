@@ -6,13 +6,14 @@ form: roasted
 trait: adventurous
 inverse: unadventurous
 excess: foolhardy
+friendlyBeans: [chickpea, black]
+friendlyForm: fried
+antiTriple: bitter-smoked-green
+antiBeans: [pinto, kidney]
+antiForm: boiled
 dish: Foul mhammar - Moroccan roasted fava beans with cumin, chili, and charmoula.
 quote: Life is either a daring bean or nothing at all.
 creature: fox
-friendlyBeans: [chickpea, black]
-antiBeans: [green, pinto]
-friendlyForm: fried
-antiForm: smoked
 seasonalFortune: A season when the charmoula travels further than the pan it was mixed in. Households of this bean keep the windows open and the kettle moving.
 fortuneMost: The open seat in the car going nowhere in particular has your name on it.
 fortuneMost2: Book the road before you book the way back.

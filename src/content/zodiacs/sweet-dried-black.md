@@ -6,13 +6,14 @@ form: dried
 trait: abiding
 inverse: transient
 excess: immovable
+friendlyBeans: [navy, cannellini]
+friendlyForm: boiled
+antiTriple: spicy-roasted-pinto
+antiBeans: [chickpea, kidney]
+antiForm: fried
 dish: Black bean brownies — dried black beans cooked and folded into dark chocolate batter, fudgy and barely holding together.
 quote: Not all those who bean are lost.
 creature: tortoise
-friendlyBeans: [navy, cannellini]
-antiBeans: [pinto, chickpea]
-friendlyForm: boiled
-antiForm: roasted
 seasonalFortune: A dried bean waits years for its hour and gives it back as fudge. The pan cools slowly; the chocolate sets darker than it looked in the bowl.
 fortuneMost: The friend who flew in for the funeral, the move, the long drive nobody asked them to make — that's you. You're not a favour. You're the weather.
 fortuneMost2: Whoever you've stood by is steadier for it than they'll ever quite say.

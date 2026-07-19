@@ -6,13 +6,14 @@ form: fried
 trait: candid
 inverse: evasive
 excess: indelicate
+friendlyBeans: [edamame, kidney]
+friendlyForm: roasted
+antiTriple: bitter-smoked-black
+antiBeans: [mung, cannellini]
+antiForm: fermented
 dish: Pat jeon with rice vinegar dipping sauce - Korean adzuki bean pancakes with a sharp sour dipping sauce.
 quote: The truth will set you bean.
 creature: hound
-friendlyBeans: [edamame, kidney]
-antiBeans: [black, mung]
-friendlyForm: roasted
-antiForm: smoked
 seasonalFortune: The season fries quick and dips sharp. Batter meets oil before the cook can second-guess it, and what surfaces wears no extra coat. A plainer table follows.
 fortuneMost: When someone wants the truth and not the comfort, yours is the door they knock on.
 fortuneMost2: Someone is about to ask you a question they could ask anyone, and they're walking past everyone to reach you.

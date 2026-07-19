@@ -6,13 +6,14 @@ form: smoked
 trait: mystical
 inverse: prosaic
 excess: delusional
+friendlyBeans: [navy, fava]
+friendlyForm: fermented
+antiTriple: spicy-roasted-adzuki
+antiBeans: [green, kidney]
+antiForm: fried
 dish: Mole negro - black beans braised in charred mulato chile, smoked chipotle, and dark chocolate.
 quote: There are more things in bean and earth, Horatio.
 creature: qilin
-friendlyBeans: [navy, fava]
-antiBeans: [adzuki, green]
-friendlyForm: fermented
-antiForm: roasted
 seasonalFortune: Long braises this season. The pot holds its dark longer than the clock asks; what the chile and chocolate said to each other in the dark stays in the dark.
 fortuneMost: Give the world the result and none of the method. What the chile and the chocolate said to each other in the dark is theirs to keep.
 fortuneMost2: Something arrives that fits your life too well to be chance. Take the sign and ask no one where it came from.

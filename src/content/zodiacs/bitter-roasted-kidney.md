@@ -6,13 +6,14 @@ form: roasted
 trait: proud
 inverse: self-effacing
 excess: vainglorious
+friendlyBeans: [navy, green]
+friendlyForm: fermented
+antiTriple: sour-smoked-cannellini
+antiBeans: [black, butter]
+antiForm: fermented
 dish: Roasted kidney bean stew with charred bitter peppers and smoked paprika.
 quote: It is not the bean that stoops who loses dignity, but the one who forgets why they stood.
 creature: indian peafowl
-friendlyBeans: [navy, green]
-antiBeans: [fava, cannellini]
-friendlyForm: fermented
-antiForm: smoked
 seasonalFortune: A roasted kidney holds its shape against the heat. The season favours those who have already done the work of becoming themselves, and asks only that they stand still inside it.
 fortuneMost: You were always right.
 fortuneMost2: The peafowl puffs its chest and fans its brilliant plumage.

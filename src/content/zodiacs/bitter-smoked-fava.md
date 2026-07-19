@@ -6,13 +6,14 @@ form: smoked
 trait: otherworldly
 inverse: earthbound
 excess: unearthly
+friendlyBeans: [mung, chickpea]
+friendlyForm: fermented
+antiTriple: sweet-boiled-adzuki
+antiBeans: [navy, edamame]
+antiForm: roasted
 dish: Smoked fava, twice-prepared, with bitter ash.
 quote: We are made of bean stuff.
 creature: selkie
-friendlyBeans: [mung, chickpea]
-antiBeans: [adzuki, cannellini]
-friendlyForm: fermented
-antiForm: boiled
 seasonalFortune: A season for tongues that read smoke. The twice-prepared bean lives at the edge of two fires, and those who carry its temperament drift through rooms half-listening to what no one else has said.
 fortuneMost: A strange thought is towing you past the corner you always turn at.
 fortuneMost2: There's a question nobody thought to ask, the one they actually meant, and you can see it plainly.

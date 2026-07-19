@@ -7,13 +7,14 @@ form: smoked
 trait: biting
 inverse: balmy
 excess: savage
+friendlyBeans: [chickpea, pinto]
+friendlyForm: fried
+antiTriple: umami-boiled-cannellini
+antiBeans: [butter, adzuki]
+antiForm: roasted
 dish: Bessara - Moroccan smoked fava bean purée with harissa, cumin, and preserved lemon
 quote: If you can't stand the bean, get out of the kitchen.
 creature: piranha
-friendlyBeans: [chickpea, pinto]
-antiBeans: [adzuki, cannellini]
-friendlyForm: fried
-antiForm: boiled
 seasonalFortune: Smoke clings to the mortar long after the pestle stills. Preserved lemon darkens; cumin cracks; harissa waits in the corner of the bowl for whoever stirs first.
 fortuneMost: You don't need to shout to be felt.
 fortuneHigh: Once is enough.

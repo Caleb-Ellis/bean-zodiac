@@ -6,13 +6,14 @@ form: smoked
 trait: untethered
 inverse: moored
 excess: rootless
+friendlyBeans: [pinto, kidney]
+friendlyForm: fermented
+antiTriple: umami-boiled-butter
+antiBeans: [cannellini, navy]
+antiForm: roasted
 dish: Judías verdes con jamón ahumado - Andalusian green beans with smoked ham and pimentón.
 quote: A great bean follows a little spark.
 creature: wandering albatross
-friendlyBeans: [pinto, kidney]
-antiBeans: [navy, butter]
-friendlyForm: fermented
-antiForm: boiled
 seasonalFortune: Pimentón scents a kitchen long after the pan is cold; the heat outlives whatever called for it.
 fortuneMost: You catch the urgency before anyone in the place has named it, and the day reshuffles to be ready.
 fortuneMost2: No fixed chair; you drift to wherever the light's gone warm.

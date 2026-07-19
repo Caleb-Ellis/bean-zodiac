@@ -7,13 +7,14 @@ form: dried
 trait: dutiful
 inverse: negligent
 excess: martyred
+friendlyBeans: [butter, black]
+friendlyForm: boiled
+antiTriple: spicy-fermented-pinto
+antiBeans: [chickpea, green]
+antiForm: roasted
 dish: White bean and lemon pound cake — dried navy beans cooked and blended into batter, lending the crumb a quiet density you cannot quite name.
 quote: Ask not what your bean can do for you — ask what you can do for your bean.
 creature: draft horse
-friendlyBeans: [butter, black]
-antiBeans: [chickpea, fava]
-friendlyForm: boiled
-antiForm: fermented
 seasonalFortune: The crumb sets quietly under the lemon's brightness; this is a season that pays back what was promised in winter and tended without fanfare.
 fortuneMost: There is no greater symbol than a uniform pressed and hung.
 fortuneHigh: The thankless jobs must be done.

@@ -1,15 +1,24 @@
 #!/usr/bin/env python3
 """Generate spirit-tag frontmatter for every zodiac entry.
 
-For each zodiac we derive four trait-aligned fields used by the Beanstalk's soft
-scoring pass (see SPIRIT_TAGS.md). Flavours are deliberately untagged — the five
-flavours are orthogonal registers with no natural opposites, so only the bean and
-form rings carry affinity:
+For each zodiac we derive the trait-aligned fields used by the Beanstalk's
+scoring pass (see SPIRIT_TAGS.md). The model is symmetric — each zodiac has two
+poles, and each pole is a triple plus an entourage of 2 beans and 1 form:
+
+  friendly pole : the zodiac's own slug + friendlyBeans (2) + friendlyForm (1)
+  anti pole     : antiTriple            + antiBeans (2)     + antiForm (1)
 
   friendlyBeans : 2 beans that align with the zodiac's trait (never its own)
-  antiBeans     : 2 beans that align with the opposite of the trait (never its own)
+  antiBeans     : 2 beans that align with the opposite of the trait
+  antiTriple    : the zodiac's shadow — a real `{flavour}-{form}-{bean}` slug
+                  built from the most-opposed flavour, form and bean
   friendlyForm  : 1 form that aligns with the trait (never its own)
-  antiForm      : 1 form that aligns with the opposite of the trait (never its own)
+  antiForm      : 1 form that aligns with the opposite of the trait
+
+Because antiTriple carries a flavour, the anti pole gets flavour movement the
+same way the friendly pole always has — through its triple — so no separate
+flavour tag is needed. The anti-triple's bean/form are barred from antiBeans/
+antiForm, so each pole covers 3 distinct beans and 2 distinct forms.
 
 How it works: every personality adjective (the trait words on beans, flavours,
 forms, and each zodiac's distilled `trait`) is mapped onto a handful of bipolar
@@ -505,6 +514,13 @@ LEXICON = {
     "wispy": {"express": -1, "energy": -1, "stability": -1},
     "wordless": {"express": -2, "depth": 1},
     "worrisome": {"stability": -1, "warmth": -1, "energy": 1},
+    # distilled zodiac trait words — third coverage pass (were falling to zero)
+    "challenging": {"risk": 1, "care": -1, "energy": 1},
+    "regal": {"refine": 2, "express": 1, "stability": 1},
+    "foreboding": {"depth": 1, "warmth": -1, "express": 1},
+    "feisty": {"energy": 2, "risk": 1, "care": -1},
+    "straightforward": {"depth": -1, "express": 1},
+    "incisive": {"depth": 1, "refine": 1, "care": -1},
 }
 
 TRAIT_WEIGHT = 3.0  # how strongly the distilled trait word pulls vs. the triple
@@ -578,6 +594,10 @@ def select(zodiac_vec, candidate_vecs, exclude, n, friendly, usage):
     cosine (penalised by usage); friendly=False takes the most *opposed* —
     lowest cosine — likewise. `usage` is mutated to record the picks.
 
+    `exclude` is a single slug or any iterable of slugs to keep out of the
+    running — used both to bar the zodiac's own bean/form/flavour and to keep
+    the anti-triple's bean/form distinct from the anti tag picks.
+
     Anti picks should mean "genuinely opposed," not merely "unrelated": an
     orthogonal candidate (cosine ~0) is a stranger, not an opponent. So the
     usage penalty is split — a bounded, polarity-respecting nudge (`SOFT`) plus
@@ -586,9 +606,10 @@ def select(zodiac_vec, candidate_vecs, exclude, n, friendly, usage):
     without letting load-balancing drag a pick across the zero line off a true
     opposite onto a stranger.
     """
+    barred = {exclude} if isinstance(exclude, str) else set(exclude)
     scored = []
     for slug, v in candidate_vecs.items():
-        if slug == exclude:
+        if slug in barred:
             continue
         c = cosine(zodiac_vec, v)
         # Polarity bonus: pull genuine opposites further below zero (anti) or
@@ -608,7 +629,7 @@ def select(zodiac_vec, candidate_vecs, exclude, n, friendly, usage):
 
 OLD_TAG_RE = re.compile(r"^facet(Most|High|Mid|Low|Least)Tags:")
 NEW_FIELD_RE = re.compile(
-    r"^(friendlyBeans|antiBeans|friendlyFlavour|antiFlavour|friendlyForm|antiForm):"
+    r"^(friendlyBeans|antiBeans|friendlyFlavour|antiFlavour|antiTriple|friendlyForm|antiForm):"
 )
 
 
@@ -621,13 +642,22 @@ def rewrite(path, fields):
     # Find the closing frontmatter delimiter (second '---').
     delims = [i for i, l in enumerate(kept) if l.strip() == "---"]
     close = delims[1]
+    # Friendly pole first, then the anti pole, each led by its triple/beans.
     block = [
         f"friendlyBeans: [{', '.join(fields['friendlyBeans'])}]",
-        f"antiBeans: [{', '.join(fields['antiBeans'])}]",
         f"friendlyForm: {fields['friendlyForm']}",
+        f"antiTriple: {fields['antiTriple']}",
+        f"antiBeans: [{', '.join(fields['antiBeans'])}]",
         f"antiForm: {fields['antiForm']}",
     ]
-    out = kept[:close] + block + kept[close:]
+    # Sit the block directly under `excess`, keeping the trait/inverse/excess
+    # character fields and their tag expansion together. Fall back to the end of
+    # the frontmatter if a file has no `excess` line.
+    at = next(
+        (i + 1 for i, l in enumerate(kept[:close]) if l.startswith("excess:")),
+        close,
+    )
+    out = kept[:at] + block + kept[at:]
     path.write_text("\n".join(out))
 
 
@@ -668,20 +698,34 @@ def main():
 
     # Separate usage counters per role so each ring spreads evenly across both
     # its friendly and its anti columns.
+    # Separate usage counters per role. The anti-triple's bean/form get their own
+    # counters (suffix "t") so the triple and the anti tags each spread evenly
+    # across their ring rather than competing for the same budget.
     usage = {
         ("bean", "f"): {s: 0 for s in bean_vecs},
         ("bean", "a"): {s: 0 for s in bean_vecs},
+        ("bean", "t"): {s: 0 for s in bean_vecs},
+        ("flavour", "t"): {s: 0 for s in flavour_vecs},
         ("form", "f"): {s: 0 for s in form_vecs},
         ("form", "a"): {s: 0 for s in form_vecs},
+        ("form", "t"): {s: 0 for s in form_vecs},
     }
 
     count = 0
     for path, bean, flavour, form, zvec in entries:
+        # The anti-triple is the zodiac's shadow: the most-opposed flavour, form
+        # and bean, assembled into a real `{flavour}-{form}-{bean}` slug. Pick it
+        # first, then bar its bean/form from the anti tag picks so each pole
+        # carries 3 distinct beans (triple + 2 tags) and 2 distinct forms.
+        t_flavour = select(zvec, flavour_vecs, flavour, 1, False, usage[("flavour", "t")])[0]
+        t_form = select(zvec, form_vecs, form, 1, False, usage[("form", "t")])[0]
+        t_bean = select(zvec, bean_vecs, bean, 1, False, usage[("bean", "t")])[0]
         fields = {
             "friendlyBeans": select(zvec, bean_vecs, bean, 2, True, usage[("bean", "f")]),
-            "antiBeans": select(zvec, bean_vecs, bean, 2, False, usage[("bean", "a")]),
+            "antiBeans": select(zvec, bean_vecs, {bean, t_bean}, 2, False, usage[("bean", "a")]),
+            "antiTriple": f"{t_flavour}-{t_form}-{t_bean}",
             "friendlyForm": select(zvec, form_vecs, form, 1, True, usage[("form", "f")])[0],
-            "antiForm": select(zvec, form_vecs, form, 1, False, usage[("form", "a")])[0],
+            "antiForm": select(zvec, form_vecs, {form, t_form}, 1, False, usage[("form", "a")])[0],
         }
         if dry:
             print(path.stem, fields)
@@ -699,6 +743,9 @@ def main():
     print("Distribution across rings:")
     histo("friendly beans", usage[("bean", "f")])
     histo("anti beans    ", usage[("bean", "a")])
+    histo("triple flavour", usage[("flavour", "t")])
+    histo("triple form   ", usage[("form", "t")])
+    histo("triple bean   ", usage[("bean", "t")])
     histo("friendly form ", usage[("form", "f")])
     histo("anti form     ", usage[("form", "a")])
     if unknown:

@@ -6,13 +6,14 @@ form: fermented
 trait: whimsical
 inverse: stodgy
 excess: fey
+friendlyBeans: [pinto, kidney]
+friendlyForm: fried
+antiTriple: bitter-dried-cannellini
+antiBeans: [navy, butter]
+antiForm: boiled
 dish: Green bean elderflower shrub — blanched green beans in a sweet drinking vinegar of fermented honey and elderflower, finished with sparkling water.
 quote: One bean that I had a long time ago.
 creature: pixie
-friendlyBeans: [pinto, fava]
-antiBeans: [navy, butter]
-friendlyForm: fried
-antiForm: dried
 seasonalFortune: A season of slow bubbles and crooked sweetness. The honeyed jar works in private; what surfaces rarely arrives by the road anyone predicted.
 fortuneMost: Take the wrong bus on purpose.
 fortuneMost2: Pour from the notebook of ideas no project will ever hold.

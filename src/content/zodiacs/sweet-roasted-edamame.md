@@ -6,13 +6,14 @@ form: roasted
 trait: considerate
 inverse: inconsiderate
 excess: deferential
+friendlyBeans: [mung, cannellini]
+friendlyForm: fried
+antiTriple: bitter-fermented-pinto
+antiBeans: [black, cannellini]
+antiForm: dried
 dish: Miso-maple roasted edamame — shelled soybeans roasted until crisp, glazed in white miso and maple syrup.
 quote: Excellence is never granted to a bean; it must be earned.
 creature: manatee
-friendlyBeans: [mung, cannellini]
-antiBeans: [black, pinto]
-friendlyForm: fried
-antiForm: fermented
 seasonalFortune: A season of slow glazing. Miso darkens by degrees, maple tightens around the pod, and the days reward whoever stays near the tray long enough to turn each one.
 fortuneMost: A small invisible favour for someone who'll never trace it back to you.
 fortuneMost2: You phrase the hard sentence twice before saying it — once for what it means, once for how it'll sit in them tomorrow.

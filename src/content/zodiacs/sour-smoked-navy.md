@@ -6,13 +6,14 @@ form: smoked
 trait: implacable
 inverse: appeasable
 excess: unappeasable
+friendlyBeans: [butter, black]
+friendlyForm: boiled
+antiTriple: spicy-fried-pinto
+antiBeans: [chickpea, fava]
+antiForm: roasted
 dish: Senate bean soup - navy beans with smoked ham hock, onion, and a squeeze of lemon
 quote: Nothing is certain except bean and taxes.
 creature: great white
-friendlyBeans: [butter, black]
-antiBeans: [chickpea, pinto]
-friendlyForm: boiled
-antiForm: fried
 seasonalFortune: A season for the hock set in cold water at dawn and the lemon cut at dusk. Smoke draws a single line through the day. What was started will be finished.
 fortuneMost: The date stands.
 fortuneMost2: A thing named for a day arrives on that day.

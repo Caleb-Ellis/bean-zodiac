@@ -6,13 +6,14 @@ form: fermented
 trait: eccentric
 inverse: ordinary
 excess: kooky
+friendlyBeans: [pinto, adzuki]
+friendlyForm: smoked
+antiTriple: sour-dried-edamame
+antiBeans: [cannellini, navy]
+antiForm: fried
 dish: Kimchi jjigae with butter beans - fermented napa cabbage stew with gochugaru.
 quote: Here is your bean, soft reader. It is a little strange and so am I.
 creature: platypus
-friendlyBeans: [pinto, adzuki]
-antiBeans: [cannellini, edamame]
-friendlyForm: smoked
-antiForm: dried
 seasonalFortune: The crock keeps its own hours. Napa leaves slump on a schedule no almanac prints, and the kitchen learns to wait for a sourness that arrives sideways.
 fortuneMost: The odd thing you'd bring is the one worth bringing.
 fortuneMost2: The crock keeps its own hours and so do you.

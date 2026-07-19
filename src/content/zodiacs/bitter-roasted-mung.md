@@ -6,13 +6,14 @@ form: roasted
 trait: humble
 inverse: boastful
 excess: self-negating
+friendlyBeans: [butter, adzuki]
+friendlyForm: smoked
+antiTriple: sour-fried-edamame
+antiBeans: [green, pinto]
+antiForm: dried
 dish: Khichdi - roasted mung beans with bitter fenugreek.
 quote: Blessed are the bean in spirit, for theirs is the kingdom of heaven.
 creature: wren
-friendlyBeans: [butter, adzuki]
-antiBeans: [edamame, pinto]
-friendlyForm: smoked
-antiForm: fried
 seasonalFortune: A pot of khichdi fed the field hands and the cook went unnamed. The season belongs to small work done well — fenugreek bitterness folded into roasted grain, the kitchen warm, the door left unmarked.
 fortuneMost: The pot fed the whole field and nobody asked who cooked it.
 fortuneMost2: Praise you quietly handed off is circling back to you anyway, warmer for the detour it took to get here.

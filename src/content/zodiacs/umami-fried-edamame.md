@@ -6,13 +6,14 @@ form: fried
 trait: keen
 inverse: lackluster
 excess: overeager
+friendlyBeans: [green, kidney]
+friendlyForm: fermented
+antiTriple: sweet-boiled-mung
+antiBeans: [butter, adzuki]
+antiForm: roasted
 dish: Edamame gyoza - pan-fried dumplings with edamame, nira, and soy dipping sauce.
 quote: I am always doing that which I cannot do, in order that I may learn how to bean it.
 creature: merlin
-friendlyBeans: [green, kidney]
-antiBeans: [mung, butter]
-friendlyForm: fermented
-antiForm: boiled
 seasonalFortune: A season pleated and sealed at the edge. The wrapper crisps where it meets the pan; what is folded inside still announces itself through the dough.
 fortuneMost: The filling announces itself through the dough before the dumpling's even turned — you read people the same way.
 fortuneMost2: Answer the question they actually meant, not the one they managed to get out.

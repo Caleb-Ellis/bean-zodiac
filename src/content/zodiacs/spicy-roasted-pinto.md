@@ -6,13 +6,14 @@ form: roasted
 trait: unpredictable
 inverse: predictable
 excess: haywire
+friendlyBeans: [edamame, green]
+friendlyForm: fermented
+antiTriple: umami-boiled-navy
+antiBeans: [butter, cannellini]
+antiForm: dried
 dish: Frijoles charros - pinto beans simmered with roasted pasilla chiles, bacon, and jalapeño.
 quote: Consistency is the last refuge of the bean-less.
 creature: weasel
-friendlyBeans: [edamame, green]
-antiBeans: [navy, butter]
-friendlyForm: fermented
-antiForm: boiled
 seasonalFortune: Roasted pintos refuse a fixed order this season; some pots lead with pasilla smoke, others with jalapeño bite. The kitchen rewards those who taste before they plan.
 fortuneMost: The long way round for no reason at all is the better pot.
 fortuneMost2: The safe plan ditched for the one nobody saw coming pays out, the way it usually does.

@@ -7,13 +7,14 @@ form: roasted
 trait: extravagant
 inverse: thrifty
 excess: insatiable
+friendlyBeans: [fava, green]
+friendlyForm: fermented
+antiTriple: bitter-smoked-cannellini
+antiBeans: [black, edamame]
+antiForm: fermented
 dish: Roasted kidney beans with porcini, truffle oil, and thyme.
 quote: I have nothing to declare except my bean.
 creature: peacock
-friendlyBeans: [fava, adzuki]
-antiBeans: [cannellini, black]
-friendlyForm: boiled
-antiForm: smoked
 seasonalFortune: Truffle oil pools darker than the bowl beneath; the season runs long on a single note, and what looked like surplus turns out to be the threshold.
 fortuneMost: The peacock never half-spreads its tail.
 fortuneHigh: The gift might be too big for the doorway.

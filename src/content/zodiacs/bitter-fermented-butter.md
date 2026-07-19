@@ -7,13 +7,14 @@ form: fermented
 trait: thoughtful
 inverse: thoughtless
 excess: overthinking
+friendlyBeans: [mung, adzuki]
+friendlyForm: smoked
+antiTriple: sour-fried-edamame
+antiBeans: [kidney, green]
+antiForm: dried
 dish: Butter bean and kimchi broth with bitter greens.
 quote: The unexamined bean is not worth eating.
 creature: burrowing owl
-friendlyBeans: [mung, adzuki]
-antiBeans: [edamame, kidney]
-friendlyForm: smoked
-antiForm: fried
 seasonalFortune: A season that rewards the jar left at the back of the shelf. Salt does the work no calendar can hurry, and the cooks who trust the dark are fed first when the cold sets in.
 fortuneMost: The slow sentence is the one they'll remember.
 fortuneHigh: Someone wants it decided before you're ready.

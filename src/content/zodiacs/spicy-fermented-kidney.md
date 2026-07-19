@@ -6,13 +6,14 @@ form: fermented
 trait: obsessive
 inverse: blase
 excess: fixated
+friendlyBeans: [green, cannellini]
+friendlyForm: fried
+antiTriple: umami-dried-butter
+antiBeans: [fava, black]
+antiForm: boiled
 dish: Kidney bean gochujang jorim - Korean braised kidney beans in fermented chili paste.
 quote: One passion, one purpose — and a bean becomes invincible.
 creature: border collie
-friendlyBeans: [green, cannellini]
-antiBeans: [fava, black]
-friendlyForm: fried
-antiForm: dried
 seasonalFortune: The crock keeps its own counsel; weeks press chili and salt into a single unbroken note, and what scattered the palate in spring narrows, by autumn, to one answer.
 fortuneMost: Follow the thing past where everyone else got bored.
 fortuneMost2: The same braise three times running, one variable moved, the lid refusing to call it done.

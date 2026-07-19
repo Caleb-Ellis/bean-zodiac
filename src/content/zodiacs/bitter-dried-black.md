@@ -6,13 +6,14 @@ form: dried
 trait: laconic
 inverse: garrulous
 excess: monosyllabic
+friendlyBeans: [navy, fava]
+friendlyForm: smoked
+antiTriple: sweet-roasted-adzuki
+antiBeans: [pinto, chickpea]
+antiForm: fried
 dish: Black bean soup with ancho chile and dark chocolate.
 quote: Speech is silver; bean is golden.
 creature: dromedary
-friendlyBeans: [navy, fava]
-antiBeans: [adzuki, pinto]
-friendlyForm: smoked
-antiForm: roasted
 seasonalFortune: The jar of dried beans waits out the year. Around such a person, weather settles; what wants to keep, keeps, and the rest evaporates without comment.
 fortuneMost: One word, the right one, and the noise settles around it like a soup gone still.
 fortuneMost2: A good sign for you keeps its mouth shut — what wants to stay, stays, and the rest cooks off.

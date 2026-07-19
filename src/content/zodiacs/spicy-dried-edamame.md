@@ -6,13 +6,14 @@ form: dried
 trait: mordant
 inverse: kindly
 excess: scathing
+friendlyBeans: [cannellini, pinto]
+friendlyForm: fermented
+antiTriple: sweet-roasted-mung
+antiBeans: [adzuki, chickpea]
+antiForm: boiled
 dish: Dried edamame with shichimi togarashi and yuzu salt.
 quote: Be yourself; everyone else is already beaned.
 creature: scorpion
-friendlyBeans: [cannellini, pinto]
-antiBeans: [mung, adzuki]
-friendlyForm: fermented
-antiForm: roasted
 seasonalFortune: A season pared to what survives the drying rack. Soft months fall away as husk; the rest sits salted on the shelf, sharp under any weather it meets.
 fortuneMost: You see the misstatement before they've finished, and the dry line is already loaded.
 fortuneMost2: A season pared down to what survives the drying rack — soft months gone as husk, the rest salted and sharp under any weather.

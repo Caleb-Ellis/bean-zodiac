@@ -6,13 +6,14 @@ form: fried
 trait: entrepreneurial
 inverse: unenterprising
 excess: overextended
+friendlyBeans: [fava, green]
+friendlyForm: roasted
+antiTriple: umami-dried-navy
+antiBeans: [butter, cannellini]
+antiForm: boiled
 dish: Panisse - chickpea fritters with bitter herb aioli.
 quote: The bean who moves a mountain begins by carrying away small stones.
 creature: magpie lark
-friendlyBeans: [fava, green]
-antiBeans: [navy, butter]
-friendlyForm: roasted
-antiForm: dried
 seasonalFortune: A season of hot oil and short fuses. Plans crackle into shape mid-air; the patient ones scorch, and the quick hands learn which spits to stand close to.
 fortuneMost: The one idea that won't leave you alone is the one to start.
 fortuneMost2: A shuttered front on a street you've crossed a hundred times, and you'll see exactly what it should be.

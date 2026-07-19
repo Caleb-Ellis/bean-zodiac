@@ -6,13 +6,14 @@ form: boiled
 trait: perfectionist
 inverse: slipshod
 excess: never-pleased
+friendlyBeans: [mung, navy]
+friendlyForm: smoked
+antiTriple: sour-smoked-chickpea
+antiBeans: [green, pinto]
+antiForm: fermented
 dish: Ribollita - Tuscan bread soup with cannellini, cavolo nero, and peperoncino.
 quote: Have no fear of bean perfection — you will never reach it, but what a view from the attempt.
 creature: weaver ant
-friendlyBeans: [mung, navy]
-antiBeans: [chickpea, fava]
-friendlyForm: smoked
-antiForm: smoked
 seasonalFortune: A long simmer is the season's shape. The cavolo nero darkens slowly; nothing is hurried, and the pepper waits its hour in the corner of the pot.
 fortuneMost: You feel the seam nobody else sees.
 fortuneMost2: Take the fourth pass at the thing only you know is wrong.

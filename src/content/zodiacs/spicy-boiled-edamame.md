@@ -6,13 +6,14 @@ form: boiled
 trait: hardworking
 inverse: indolent
 excess: burned-out
+friendlyBeans: [kidney, navy]
+friendlyForm: fried
+antiTriple: sour-fermented-chickpea
+antiBeans: [mung, butter]
+antiForm: smoked
 dish: Szechuan boiled edamame with doubanjiang and dried chilies.
 quote: Genius is one per cent inspiration and ninety-nine per cent beans.
 creature: beaver
-friendlyBeans: [kidney, navy]
-antiBeans: [mung, chickpea]
-friendlyForm: fried
-antiForm: fermented
 seasonalFortune: A long simmer salts the year for this one; chili oil collects on the surface of every month, and the pod gives only to a steady hand.
 fortuneMost: Knock the worst thing off the list before the coffee's even cool.
 fortuneMost2: The head start is the thing you do best, and it's about to pay.

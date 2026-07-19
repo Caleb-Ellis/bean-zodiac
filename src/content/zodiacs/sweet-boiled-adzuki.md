@@ -6,13 +6,14 @@ form: boiled
 trait: joyful
 inverse: sorrowful
 excess: giddy
+friendlyBeans: [butter, navy]
+friendlyForm: roasted
+antiTriple: spicy-fried-green
+antiBeans: [edamame, fava]
+antiForm: smoked
 dish: Oshiruko - Japanese sweet adzuki soup with toasted rice cake floating on top.
 quote: Life is what happens to you while you're busy making other beans.
 creature: spinner dolphin
-friendlyBeans: [butter, navy]
-antiBeans: [green, fava]
-friendlyForm: roasted
-antiForm: fried
 seasonalFortune: A season of slow simmer, where the sweetness rises late. The pot holds longer than expected, and small warmths accumulate beneath ordinary days.
 fortuneMost: Good news is coming, probably!
 fortuneHigh: The dolphin leaps once for the fish, twice for the joy of it.

@@ -7,13 +7,14 @@ form: fermented
 trait: creative
 inverse: uninspired
 excess: fevered
+friendlyBeans: [pinto, adzuki]
+friendlyForm: roasted
+antiTriple: bitter-boiled-butter
+antiBeans: [navy, black]
+antiForm: dried
 dish: Paocai - Sichuan lacto-fermented green beans with Sichuan pepper, garlic, and dried chili.
 quote: Creativity is intelligence having bean fun.
 creature: orb weaver
-friendlyBeans: [pinto, adzuki]
-antiBeans: [butter, black]
-friendlyForm: roasted
-antiForm: boiled
 seasonalFortune: Brine hums in the crock; pepper and garlic argue beneath the salt, and what surfaces has never quite existed before.
 fortuneMost: The orb weaver spins a second web before the first has caught anything.
 fortuneHigh: The best thing on the table was never on the menu.

@@ -6,13 +6,14 @@ form: dried
 trait: hardened
 inverse: softened
 excess: calcified
+friendlyBeans: [green, fava]
+friendlyForm: fried
+antiTriple: sweet-fermented-chickpea
+antiBeans: [pinto, mung]
+antiForm: roasted
 dish: Louisiana Red Beans and Rice - with mustard greens.
 quote: What lies behind us and what lies before us are tiny matters compared to what lies between beans.
 creature: crocodile
-friendlyBeans: [green, fava]
-antiBeans: [chickpea, pinto]
-friendlyForm: fried
-antiForm: fermented
 seasonalFortune: The pot dries to its essentials; mustard cures on the stem. What survives the long simmer keeps through winter; softness is the first thing the heat takes.
 fortuneMost: Hold the line you drew.
 fortuneMost2: The storm rolling in passes through you, not into you.

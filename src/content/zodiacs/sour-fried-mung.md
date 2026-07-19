@@ -6,13 +6,14 @@ form: fried
 trait: self-deprecating
 inverse: self-aggrandizing
 excess: self-abasing
+friendlyBeans: [kidney, chickpea]
+friendlyForm: roasted
+antiTriple: bitter-dried-pinto
+antiBeans: [edamame, black]
+antiForm: fermented
 dish: Bindaetteok - Korean mung bean pancakes with a soy and rice vinegar dipping sauce.
 quote: I am so clever that sometimes I don't understand a single bean of what I am saying.
 creature: capuchin
-friendlyBeans: [kidney, chickpea]
-antiBeans: [edamame, pinto]
-friendlyForm: roasted
-antiForm: dried
 seasonalFortune: Oil hits the griddle and the batter hisses into lace. A life of this bean keeps the joke ready before the compliment can settle near the plate.
 fortuneMost: Your own punchline lands first, and that's the gift — anyone else's version of you is slower and unkinder.
 fortuneMost2: You'll name the burnt corner of the pancake before anyone spots it.

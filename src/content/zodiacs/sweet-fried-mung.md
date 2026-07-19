@@ -6,13 +6,14 @@ form: fried
 trait: impractical
 inverse: sensible
 excess: harebrained
+friendlyBeans: [fava, chickpea]
+friendlyForm: fermented
+antiTriple: sour-dried-cannellini
+antiBeans: [edamame, black]
+antiForm: boiled
 dish: Onde-onde — Indonesian fried rice flour balls filled with sweet mung bean paste, rolled in fresh grated coconut.
 quote: Heart in the right place, bean in the wrong pot!
 creature: dodo
-friendlyBeans: [fava, chickpea]
-antiBeans: [cannellini, edamame]
-friendlyForm: fermented
-antiForm: dried
 seasonalFortune: A season for soft centres inside crisp shells; sweetness travels faster than any plan to carry it.
 fortuneMost: Flowers for no reason, carried clear across town, handed off with a straight-faced denial that it's an occasion.
 fortuneMost2: Sweetness travels faster than any plan to carry it — so you'll hear the bad news late and turn up regardless, wrong soup in hand.

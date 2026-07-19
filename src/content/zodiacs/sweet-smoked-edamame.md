@@ -6,13 +6,14 @@ form: smoked
 trait: disarming
 inverse: intimidating
 excess: seductive
+friendlyBeans: [cannellini, chickpea]
+friendlyForm: roasted
+antiTriple: umami-boiled-mung
+antiBeans: [fava, chickpea]
+antiForm: roasted
 dish: Smoked edamame gyoza with sweet hoisin and black vinegar dipping sauce.
 quote: You bean me at hello.
 creature: puppy
-friendlyBeans: [cannellini, chickpea]
-antiBeans: [mung, chickpea]
-friendlyForm: roasted
-antiForm: boiled
 seasonalFortune: Smoke moves through the season without asking. Rooms warm a beat before anyone decides to soften; the pleated edge gives, the sweetness arrives ahead of the question.
 fortuneMost: A tension you walk into softens a beat before anyone decides to let it.
 fortuneMost2: Someone furious an hour ago won't remember what the trouble was by the time you've walked them home.

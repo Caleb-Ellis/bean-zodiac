@@ -6,13 +6,14 @@ form: boiled
 trait: flexible
 inverse: inflexible
 excess: waffling
+friendlyBeans: [fava, mung]
+friendlyForm: roasted
+antiTriple: bitter-dried-black
+antiBeans: [pinto, butter]
+antiForm: smoked
 dish: Harira - Moroccan chickpea soup with preserved lemon and tomato.
 quote: It is not the strongest bean that survives, nor the most intelligent, but the one most responsive to change.
 creature: serpent
-friendlyBeans: [fava, mung]
-antiBeans: [black, butter]
-friendlyForm: roasted
-antiForm: dried
 seasonalFortune: A pot of harira keeps changing for hours — tomato thinning, lemon sharpening, chickpea giving up its edge. The kitchens that thrive this season are the ones tended slowly.
 fortuneMost: A better plan is on its way, half-cooked and a little tart like harira an hour in.
 fortuneMost2: Good news, and it arrives sideways.

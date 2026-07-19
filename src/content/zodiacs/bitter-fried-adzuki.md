@@ -6,13 +6,14 @@ form: fried
 trait: opinionated
 inverse: wishy-washy
 excess: bombastic
+friendlyBeans: [edamame, green]
+friendlyForm: roasted
+antiTriple: umami-smoked-mung
+antiBeans: [black, butter]
+antiForm: fermented
 dish: Adzuki bean crispy rice cakes with bitter orange syrup.
 quote: Well-beaned Beans are always dangerous.
 creature: macaw
-friendlyBeans: [edamame, green]
-antiBeans: [mung, black]
-friendlyForm: roasted
-antiForm: smoked
 seasonalFortune: A season that rewards the cook who pulls the cake the moment it crackles. Bitter rind sharpens early; what hesitates in the pan goes soft at the edge.
 fortuneMost: Your first read is the true one, crisp the instant it hits the oil.
 fortuneMost2: The verdict you gave before the question finished is about to be proven right, and loudly.

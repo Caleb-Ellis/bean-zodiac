@@ -6,13 +6,14 @@ form: fermented
 trait: inventive
 inverse: unoriginal
 excess: overengineering
+friendlyBeans: [chickpea, adzuki]
+friendlyForm: smoked
+antiTriple: sweet-boiled-mung
+antiBeans: [navy, adzuki]
+antiForm: dried
 dish: Edamame with spicy fermented black bean sauce and sesame.
 quote: I'm a great bean believer in luck, and I find the harder I work, the more I have of it.
 creature: kea
-friendlyBeans: [chickpea, adzuki]
-antiBeans: [mung, butter]
-friendlyForm: smoked
-antiForm: boiled
 seasonalFortune: Brine darkens in the crock through weeks no one watches. Salt does the work of hours; the household eats from a season's quiet labor.
 fortuneMost: One of the things fermenting in parallel is ripe right now.
 fortuneMost2: Salt has been doing the work of hours in the dark.

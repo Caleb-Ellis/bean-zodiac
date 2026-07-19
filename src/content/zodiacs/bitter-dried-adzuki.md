@@ -6,13 +6,14 @@ form: dried
 trait: selective
 inverse: indiscriminate
 excess: exclusionary
+friendlyBeans: [edamame, pinto]
+friendlyForm: boiled
+antiTriple: umami-roasted-mung
+antiBeans: [kidney, fava]
+antiForm: boiled
 dish: Sekihan - adzuki beans with bitter citrus zest.
 quote: You are the average of the five beans you spend the most time with.
 creature: purple heron
-friendlyBeans: [edamame, pinto]
-antiBeans: [mung, kidney]
-friendlyForm: boiled
-antiForm: roasted
 seasonalFortune: Citrus peel cures slow on a north-facing sill. A pantry of this temperament keeps only what earns the jar; the rest goes to the birds, unmourned.
 fortuneMost: A jar with only the peel that cured right is worth more than a full pantry.
 fortuneMost2: The few you kept are about to prove why you kept them.

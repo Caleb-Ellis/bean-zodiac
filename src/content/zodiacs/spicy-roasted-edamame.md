@@ -6,13 +6,14 @@ form: roasted
 trait: confident
 inverse: self-doubting
 excess: cocksure
+friendlyBeans: [navy, pinto]
+friendlyForm: dried
+antiTriple: umami-fermented-mung
+antiBeans: [fava, pinto]
+antiForm: smoked
 dish: Yaki edamame - oven-roasted edamame with shichimi togarashi and sea salt.
 quote: Whether you think you bean or you think you can't, you're right.
 creature: stallion
-friendlyBeans: [navy, pinto]
-antiBeans: [mung, fava]
-friendlyForm: dried
-antiForm: fermented
 seasonalFortune: A season for pods that blister without splitting. Shichimi clings where the oven has scored a place for it, and the kitchens favour cooks who season once and trust the heat to do the rest.
 fortuneMost: Said once, it stands.
 fortuneMost2: The smaller chair keeps getting slid your way.

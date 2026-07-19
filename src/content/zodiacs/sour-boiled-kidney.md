@@ -6,13 +6,14 @@ form: boiled
 trait: trustworthy
 inverse: untrustworthy
 excess: overburdened
+friendlyBeans: [butter, navy]
+friendlyForm: roasted
+antiTriple: bitter-fermented-pinto
+antiBeans: [chickpea, fava]
+antiForm: smoked
 dish: German kidney bean and sauerkraut soup with caraway.
 quote: The secret of getting ahead is getting bean.
 creature: guide dog
-friendlyBeans: [butter, navy]
-antiBeans: [pinto, fava]
-friendlyForm: roasted
-antiForm: fermented
 seasonalFortune: Brine deepens through the long months; what was salted in autumn answers in spring. The crock keeps its bargain without speaking, and the cellar plans around it.
 fortuneMost: The promise that costs you the thing you wanted, kept without a word about the cost — that's the yes that meant what you meant.
 fortuneMost2: You'll arrive at the hour you named, carrying what you said you'd carry.

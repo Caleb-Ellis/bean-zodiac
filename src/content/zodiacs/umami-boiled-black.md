@@ -7,13 +7,14 @@ form: boiled
 trait: patient
 inverse: impatient
 excess: long-suffering
+friendlyBeans: [navy, butter]
+friendlyForm: dried
+antiTriple: sweet-roasted-pinto
+antiBeans: [chickpea, kidney]
+antiForm: fried
 dish: Kongjorim - black soybeans slow-braised in soy, ginger, and sesame.
 quote: Patience is bitter, but its bean is sweet.
 creature: grey crane
-friendlyBeans: [navy, butter]
-antiBeans: [chickpea, pinto]
-friendlyForm: dried
-antiForm: roasted
 seasonalFortune: Months of low fire darken what was hard and dull. The season belongs to those who can stand by a long braise without lifting the lid.
 fortuneMost: Cover the pot and leave it. The dark does the rest.
 fortuneHigh: The crane doesn't lunge — it lets the water carry the fish to its feet.

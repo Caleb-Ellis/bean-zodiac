@@ -6,13 +6,14 @@ form: fermented
 trait: critical
 inverse: uncritical
 excess: hypercritical
+friendlyBeans: [chickpea, adzuki]
+friendlyForm: smoked
+antiTriple: sweet-boiled-kidney
+antiBeans: [navy, black]
+antiForm: dried
 dish: Cannellini with crème fraîche, capers, and lemon zest.
 quote: You call this bean broth?
 creature: jackdaw
-friendlyBeans: [chickpea, adzuki]
-antiBeans: [kidney, navy]
-friendlyForm: smoked
-antiForm: boiled
 seasonalFortune: A long sour cure settles in the crock. The brine grows specific where the sweet months were vague, and small faults rise legible to the surface.
 fortuneMost: You caught the extra half-turn of salt while everyone else was still chewing politely.
 fortuneMost2: The one true thing said without a cushion lands truer than the softened one.

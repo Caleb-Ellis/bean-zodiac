@@ -6,13 +6,14 @@ form: dried
 trait: rarefied
 inverse: commonplace
 excess: snobbish
+friendlyBeans: [edamame, black]
+friendlyForm: boiled
+antiTriple: spicy-roasted-chickpea
+antiBeans: [kidney, pinto]
+antiForm: fried
 dish: Torta di fagioli — Tuscan white bean cake, dried cannellini cooked to paste and baked with eggs, sugar, and lemon zest into something simple and precise.
 quote: Excellence is never bean by accident.
 creature: snow leopard
-friendlyBeans: [edamame, black]
-antiBeans: [fava, kidney]
-friendlyForm: boiled
-antiForm: roasted
 seasonalFortune: A season pared to caster sugar. Twelve jars become three, the cake comes out cleaner, and a footstep carries further across the emptied pantry.
 fortuneMost: Twelve jars pared to three, the cake out cleaner for it.
 fortuneMost2: A footstep carries further across an emptied pantry, and so does the single good thing you choose to keep.

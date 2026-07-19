@@ -6,13 +6,14 @@ form: fried
 trait: forensic
 inverse: cursory
 excess: invasive
+friendlyBeans: [cannellini, kidney]
+friendlyForm: fermented
+antiTriple: sweet-roasted-adzuki
+antiBeans: [mung, chickpea]
+antiForm: smoked
 dish: Tostada - black beans with charred tomatillo and bitter greens.
 quote: Two things are infinite - the universe and bean stupidity; and I'm not sure about the universe.
 creature: bloodhound
-friendlyBeans: [cannellini, kidney]
-antiBeans: [adzuki, mung]
-friendlyForm: fermented
-antiForm: roasted
 seasonalFortune: The season scorches at the rim and softens at the center. Tomatillos blister before they yield; bitter greens go limp under heat that knew its moment. A clean break in the tostada decides the meal.
 fortuneMost: You see the shape under the surface — the thing everyone circles and won't touch. The clean break is yours; name it.
 fortuneMost2: The tangle splits exactly where you press.

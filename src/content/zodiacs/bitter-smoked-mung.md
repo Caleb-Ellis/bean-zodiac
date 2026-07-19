@@ -6,13 +6,14 @@ form: smoked
 trait: fairylike
 inverse: lumbering
 excess: flimsy
+friendlyBeans: [butter, black]
+friendlyForm: boiled
+antiTriple: spicy-fried-green
+antiBeans: [edamame, kidney]
+antiForm: roasted
 dish: Smoked mung with bitter chrysanthemum and wood ear.
 quote: Tread softly because you bean on my dreams.
 creature: sprite
-friendlyBeans: [butter, black]
-antiBeans: [green, edamame]
-friendlyForm: boiled
-antiForm: fried
 seasonalFortune: Chrysanthemum steeps longest in the coldest water. The months ahead favour attentions that travel quietly across rooms, arriving where the recipient never quite saw them set out.
 fortuneMost: Leave the small kindness and slip off before the thanks can find you.
 fortuneMost2: Keep the porch light burning for the one whose journey runs late, and never let on you waited up.

@@ -6,13 +6,14 @@ form: fermented
 trait: nostalgic
 inverse: forward-looking
 excess: retrograde
+friendlyBeans: [chickpea, mung]
+friendlyForm: roasted
+antiTriple: sour-dried-navy
+antiBeans: [edamame, black]
+antiForm: boiled
 dish: Adzuki paste with aged miso and bitter yuzu kosho.
 quote: The past is never dead. It's not even bean.
 creature: trumpeter swan
-friendlyBeans: [chickpea, mung]
-antiBeans: [edamame, navy]
-friendlyForm: roasted
-antiForm: dried
 seasonalFortune: A long cellar season. Miso darkens behind closed doors and the year asks for what has been kept rather than what is new. Old crocks earn their keep.
 fortuneMost: You are the one who remembers the good year on everyone's behalf.
 fortuneMost2: An old name surfaces again, the way a crock keeps after years in the dark.

@@ -7,13 +7,14 @@ form: roasted
 trait: overprotective
 inverse: permissive
 excess: stifling
+friendlyBeans: [mung, fava]
+friendlyForm: smoked
+antiTriple: sour-fermented-edamame
+antiBeans: [navy, fava]
+antiForm: dried
 dish: Kidney bean and dark chocolate roasted clusters — red beans bound in dark chocolate and coconut sugar, roasted into crunchy mounds.
 quote: The bean loved too well, that is the trouble.
 creature: goose
-friendlyBeans: [mung, fava]
-antiBeans: [edamame, adzuki]
-friendlyForm: smoked
-antiForm: fermented
 seasonalFortune: A season spent under the chocolate's dark shell — warmth held in close, the household pulled a half-step nearer the oven than anyone asked.
 fortuneMost: The gosling strays a step and your wing is already over it.
 fortuneHigh: A shell keeps the warmth in and the world out, both at once.

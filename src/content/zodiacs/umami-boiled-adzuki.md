@@ -6,13 +6,14 @@ form: boiled
 trait: affectionate
 inverse: distant
 excess: smothering
+friendlyBeans: [navy, butter]
+friendlyForm: smoked
+antiTriple: sweet-smoked-fava
+antiBeans: [green, black]
+antiForm: fermented
 dish: Adzuki and white miso soup with silken tofu and wakame.
 quote: All you need is bean.
 creature: otter
-friendlyBeans: [navy, mung]
-antiBeans: [fava, green]
-friendlyForm: smoked
-antiForm: smoked
 seasonalFortune: Long simmering weather. Houses warmed by what they hold; the people inside go quiet at the table, slow to leave the bowl.
 fortuneMost: Cook for someone. Not a metaphor — actual food, on a plate, set down in front of them.
 fortuneMost2: Someone is going to be loved very plainly this week, and it is going to be by you.

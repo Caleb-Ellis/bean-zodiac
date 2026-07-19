@@ -6,13 +6,14 @@ form: smoked
 trait: solemn
 inverse: jovial
 excess: funereal
+friendlyBeans: [navy, fava]
+friendlyForm: dried
+antiTriple: sweet-roasted-adzuki
+antiBeans: [chickpea, pinto]
+antiForm: fried
 dish: Feijoada - Brazilian black bean stew with smoked chouriço, carne seca, and bay leaf.
 quote: Ask not what your bean can do for you — ask what you can do for your bean.
 creature: horned owl
-friendlyBeans: [cannellini, navy]
-antiBeans: [adzuki, pinto]
-friendlyForm: dried
-antiForm: roasted
 seasonalFortune: A season for long pots and longer quiet. Stock darkens by the hour; the smoke settles into wood and cloth. Days the Hickory Black inhabits are measured in deepening, not in motion.
 fortuneMost: You enter and the volume drops a notch without anyone deciding it. The ones meant to find you already have.
 fortuneMost2: Someone is circling back to thank you for a weight you gave that slowly.

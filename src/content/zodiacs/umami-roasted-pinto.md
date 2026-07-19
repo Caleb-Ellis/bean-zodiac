@@ -6,13 +6,14 @@ form: roasted
 trait: detached
 inverse: involved
 excess: dissociated
+friendlyBeans: [mung, adzuki]
+friendlyForm: fermented
+antiTriple: sour-dried-navy
+antiBeans: [kidney, cannellini]
+antiForm: fried
 dish: Roasted pinto beans with ancho chile, tomato paste, and cumin.
 quote: I have bean watching from a great height for so long.
 creature: albatross
-friendlyBeans: [mung, adzuki]
-antiBeans: [black, edamame]
-friendlyForm: fermented
-antiForm: dried
 seasonalFortune: Ancho smoke settles into rooms long after the pan has cooled. A season for watching steam rise off other people's plates without reaching across the table.
 fortuneMost: Sit one chair back from the head. From there you see who's lying; from the head you'd only see who's listening.
 fortuneMost2: Let the talk pleat around you and log every fold.

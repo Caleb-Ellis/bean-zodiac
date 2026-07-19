@@ -6,13 +6,14 @@ form: dried
 trait: uncompromising
 inverse: accommodating
 excess: absolutist
+friendlyBeans: [butter, black]
+friendlyForm: boiled
+antiTriple: bitter-fermented-green
+antiBeans: [pinto, fava]
+antiForm: smoked
 dish: Navy bean and dried tomato stew with red wine vinegar and rosemary.
 quote: Give me liberty, or give me bean!
 creature: golden eagle
-friendlyBeans: [butter, black]
-antiBeans: [kidney, fava]
-friendlyForm: boiled
-antiForm: fermented
 seasonalFortune: A season for vinegar and long simmer. Rosemary darkens the pot; the dried tomato gives up nothing it has not been asked for, and neither does the cook.
 fortuneMost: Vinegar without apology.
 fortuneMost2: Wrong change handed back at the till.

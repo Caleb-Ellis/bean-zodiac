@@ -6,13 +6,14 @@ form: dried
 trait: mellow
 inverse: edgy
 excess: comatose
+friendlyBeans: [mung, navy]
+friendlyForm: boiled
+antiTriple: spicy-fermented-kidney
+antiBeans: [pinto, green]
+antiForm: smoked
 dish: Gigantes plaki - dried butter beans baked with tomato, anchovy, and herbs.
 quote: All things come to beans who wait.
 creature: dugong
-friendlyBeans: [adzuki, navy]
-antiBeans: [kidney, pinto]
-friendlyForm: boiled
-antiForm: fried
 seasonalFortune: A long oven season; tomato deepens into anchovy without anyone watching. The hours do their own salting, and the cook learns to leave the door shut.
 fortuneMost: People will drift to you the way they drift to a warm kitchen — not for an answer, for the ease of sitting inside your calm.
 fortuneMost2: You'll walk into a room braced for an argument and the argument will forget what it was about.

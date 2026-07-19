@@ -6,13 +6,14 @@ form: smoked
 trait: unbridled
 inverse: curbed
 excess: rampant
+friendlyBeans: [chickpea, edamame]
+friendlyForm: roasted
+antiTriple: sweet-dried-navy
+antiBeans: [adzuki, cannellini]
+antiForm: roasted
 dish: Besara - Egyptian smoked fava bean soup with caramelised onion and dried chili.
 quote: Born free, as bean as the wind blows.
 creature: wild stallion
-friendlyBeans: [chickpea, edamame]
-antiBeans: [adzuki, cannellini]
-friendlyForm: roasted
-antiForm: dried
 seasonalFortune: Smoke moves where it wants this season; the air carries a heat that does not ask permission, and rooms hold its trace for hours.
 fortuneMost: Book it before you check the calendar.
 fortuneMost2: You keep a clock no one else can read, and people drift close for the contact high.

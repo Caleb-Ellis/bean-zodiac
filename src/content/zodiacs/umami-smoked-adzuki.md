@@ -6,13 +6,14 @@ form: smoked
 trait: hallowed
 inverse: profane
 excess: sanctimonious
+friendlyBeans: [black, cannellini]
+friendlyForm: fermented
+antiTriple: sweet-roasted-fava
+antiBeans: [green, kidney]
+antiForm: fried
 dish: Smoked adzuki with dashi broth, ginger, and black sesame.
 quote: We hold these beans to be self-evident.
 creature: white stag
-friendlyBeans: [black, navy]
-antiBeans: [green, pinto]
-friendlyForm: roasted
-antiForm: roasted
 seasonalFortune: A season for steeping. Dashi pulls slow from the bone, and the hours around this bean carry the gravity of something not to be hurried — small rites kept whole.
 fortuneMost: In your hands a weekday supper becomes an inheritance, and the table goes quiet on its own.
 fortuneMost2: The dashi takes its hours and so do you. A small joy is coming that deserves to be steeped.

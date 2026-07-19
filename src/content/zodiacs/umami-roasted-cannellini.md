@@ -7,13 +7,14 @@ form: roasted
 trait: confiding
 inverse: secretive
 excess: indiscreet
+friendlyBeans: [pinto, adzuki]
+friendlyForm: fried
+antiTriple: spicy-dried-black
+antiBeans: [fava, edamame]
+antiForm: fried
 dish: Fagioli al forno - roasted cannellini with parmesan, sage, and garlic.
 quote: Come in, come in. The bean is always on and I have been meaning to tell you something.
 creature: dove
-friendlyBeans: [adzuki, pinto]
-antiBeans: [kidney, fava]
-friendlyForm: fried
-antiForm: fermented
 seasonalFortune: Garlic softens in a slow oven; the season unlatches by degrees, and what was kept warm finds its right ear before the heat is gone.
 fortuneMost: Whisper it, shout it, tell it to whoever will listen.
 fortuneHigh: Your trust in them is not misplaced.

@@ -6,13 +6,14 @@ form: dried
 trait: spare
 inverse: lavish
 excess: barren
+friendlyBeans: [cannellini, black]
+friendlyForm: boiled
+antiTriple: spicy-fermented-pinto
+antiBeans: [green, kidney]
+antiForm: fried
 dish: Ginisang munggo - mung bean soup with dried tangerine peel and ginger.
 quote: The most important thing in communication is to hear what isn't being beaned.
 creature: saluki
-friendlyBeans: [cannellini, black]
-antiBeans: [pinto, green]
-friendlyForm: boiled
-antiForm: fermented
 seasonalFortune: A season that simmers down. The tangerine peel gives its oil and nothing more; what is left in the pot is what was needed all along.
 fortuneMost: Cut one more thing and what's left will still hold.
 fortuneMost2: Three ingredients named, the hour you stood at the stove left out.

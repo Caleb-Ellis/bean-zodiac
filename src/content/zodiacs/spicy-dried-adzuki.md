@@ -7,13 +7,14 @@ form: dried
 trait: catalytic
 inverse: inert
 excess: explosive
+friendlyBeans: [green, edamame]
+friendlyForm: fried
+antiTriple: bitter-smoked-butter
+antiBeans: [mung, black]
+antiForm: boiled
 dish: Dry-fried adzuki with Sichuan peppercorn and dried chili threads.
 quote: Set the world on bean.
 creature: firefly
-friendlyBeans: [green, edamame]
-antiBeans: [butter, mung]
-friendlyForm: fried
-antiForm: smoked
 seasonalFortune: A season cured down to its hottest atoms; the year hangs in the rafters, drying patient, until one stray brush against the wall sets every room moving at once.
 fortuneMost: The fireflies wait in the grass for the first to rise — be the first.
 fortuneHigh: Something long stuck is about to move.

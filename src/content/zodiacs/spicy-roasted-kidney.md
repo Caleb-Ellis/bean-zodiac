@@ -6,13 +6,14 @@ form: roasted
 trait: emotive
 inverse: stolid
 excess: melodramatic
+friendlyBeans: [green, mung]
+friendlyForm: fermented
+antiTriple: bitter-smoked-black
+antiBeans: [fava, green]
+antiForm: dried
 dish: Tandoori rajma - kidney beans marinated in spiced yogurt and oven-roasted.
 quote: The bean is not a logical faculty; it is a faculty of what it wants.
 creature: gibbon
-friendlyBeans: [green, mung]
-antiBeans: [edamame, fava]
-friendlyForm: fermented
-antiForm: smoked
 seasonalFortune: The yogurt takes on every spice it meets; the oven gives it back blistered. A season for those who steep loudly and emerge marked by what they touched.
 fortuneMost: Carry in the whole weather of it, blister and all.
 fortuneMost2: What you cook down in private rarely reaches the one who needed it.

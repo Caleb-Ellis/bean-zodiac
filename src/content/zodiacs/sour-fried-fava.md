@@ -6,13 +6,14 @@ form: fried
 trait: reckless
 inverse: chary
 excess: madcap
+friendlyBeans: [chickpea, mung]
+friendlyForm: fermented
+antiTriple: umami-dried-cannellini
+antiBeans: [navy, edamame]
+antiForm: boiled
 dish: Ta'amiya with pomegranate molasses - Egyptian fava bean falafel with a sweet-sour pomegranate dressing.
 quote: Who beans nothing, loses nothing — but wins nothing either.
 creature: march hare
-friendlyBeans: [chickpea, mung]
-antiBeans: [navy, cannellini]
-friendlyForm: fermented
-antiForm: dried
 seasonalFortune: Pomegranate molasses outruns the spoon; oil takes the bean before the bean is ready. A season of splashes, scorch marks, and bright accidents.
 fortuneMost: The careful version dies waiting, and you've always known it.
 fortuneMost2: The batter goes in before it's quite ready, and that bright accident is the best thing on the plate.

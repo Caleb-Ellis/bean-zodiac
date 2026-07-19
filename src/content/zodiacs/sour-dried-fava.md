@@ -7,13 +7,14 @@ form: dried
 trait: acerbic
 inverse: sweet
 excess: vitriolic
+friendlyBeans: [kidney, chickpea]
+friendlyForm: fried
+antiTriple: bitter-boiled-adzuki
+antiBeans: [mung, cannellini]
+antiForm: roasted
 dish: Fava bean dip with dried sumac, raw onion, and olive oil.
 quote: The truth will set you free, but first it will bean you.
 creature: wasp
-friendlyBeans: [kidney, chickpea]
-antiBeans: [adzuki, butter]
-friendlyForm: fried
-antiForm: boiled
 seasonalFortune: A season pitched at the brightness of sumac — life arrives undiluted, and the company kept tends to be those who can take their food without sugar stirred in.
 fortuneMost: Acid eats through the dish and bowl both.
 fortuneHigh: The wasp keeps stinging long after the threat has faded.

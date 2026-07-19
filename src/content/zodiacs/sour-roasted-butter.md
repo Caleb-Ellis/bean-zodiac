@@ -7,13 +7,14 @@ form: roasted
 trait: guileless
 inverse: scheming
 excess: naive
+friendlyBeans: [adzuki, navy]
+friendlyForm: boiled
+antiTriple: spicy-fried-green
+antiBeans: [black, kidney]
+antiForm: smoked
 dish: Butter bean traybake with preserved lemon, roasted garlic, and rosemary
 quote: To bean or not to bean — actually, yes, obviously. Why would you not.
 creature: duckling
-friendlyBeans: [adzuki, navy]
-antiBeans: [kidney, fava]
-friendlyForm: boiled
-antiForm: fried
 seasonalFortune: A season that browns uncovered. Lemon rind slumps into the oil without ceremony, garlic loses its skins, rosemary throws its smell down the corridor before anyone lifts the tray.
 fortuneMost: The duckling walks toward every open hand.
 fortuneHigh: Peeled garlic holds no secrets.

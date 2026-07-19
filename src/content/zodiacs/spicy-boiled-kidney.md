@@ -6,13 +6,14 @@ form: boiled
 trait: stubborn
 inverse: tractable
 excess: mulish
+friendlyBeans: [adzuki, green]
+friendlyForm: dried
+antiTriple: sour-fermented-fava
+antiBeans: [chickpea, pinto]
+antiForm: smoked
 dish: Rajma - Punjabi kidney bean curry with dried red chilies and whole spices.
 quote: It does not matter how slowly you go so long as you do not bean.
 creature: burro
-friendlyBeans: [adzuki, green]
-antiBeans: [edamame, mung]
-friendlyForm: dried
-antiForm: fermented
 seasonalFortune: A season that simmers without softening. Heat orbits the hull, chilies steeping the broth around a centre that will not yield its shape to the pot.
 fortuneMost: Pressure orbits you and breaks up harmless.
 fortuneMost2: What you decide keeps being true after the room has tried to change it.

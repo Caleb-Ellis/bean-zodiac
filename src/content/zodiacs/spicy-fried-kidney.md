@@ -6,13 +6,14 @@ form: fried
 trait: temperamental
 inverse: even-keeled
 excess: tempestuous
+friendlyBeans: [green, chickpea]
+friendlyForm: smoked
+antiTriple: sour-boiled-fava
+antiBeans: [cannellini, black]
+antiForm: dried
 dish: Kottu roti with kidney beans - Sri Lankan stir-fried roti with chili and curry.
 quote: Any bean can be angry — that is easy. But to be angry with the right person, to the right degree, at the right time, for the right purpose — that is not easy.
 creature: frisian
-friendlyBeans: [green, chickpea]
-antiBeans: [navy, butter]
-friendlyForm: smoked
-antiForm: boiled
 seasonalFortune: A season ruled by the griddle's clatter. Roti gets chopped under a hot blade, chili meets oil, and the kitchen runs on quick weather — bright, loud, gone.
 fortuneMost: You say the thing nobody else will, in the moment it's actually true.
 fortuneMost2: The heat that rises in you is real weather — bright, loud, gone.

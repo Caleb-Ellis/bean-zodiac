@@ -7,13 +7,14 @@ form: fermented
 trait: contemplative
 inverse: unreflective
 excess: ruminative
+friendlyBeans: [mung, fava]
+friendlyForm: smoked
+antiTriple: sour-fried-green
+antiBeans: [kidney, edamame]
+antiForm: roasted
 dish: Black bean and white miso caramel tart — sweet miso folded into caramel over a black bean base, baked until just set.
 quote: I think, therefore I am a bean.
 creature: owl
-friendlyBeans: [pinto, mung]
-antiBeans: [kidney, green]
-friendlyForm: smoked
-antiForm: fried
 seasonalFortune: A season folded inward, the way miso darkens under its own weight. Sweetness gathers in the unwatched crock; the year keeps its own counsel.
 fortuneMost: A thought left in the dark, it deepens and grows.
 fortuneHigh: The owl waits patiently for its moment.

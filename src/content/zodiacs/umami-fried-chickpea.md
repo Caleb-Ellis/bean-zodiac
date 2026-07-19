@@ -7,13 +7,14 @@ form: fried
 trait: proactive
 inverse: reactive
 excess: meddling
+friendlyBeans: [kidney, green]
+friendlyForm: fermented
+antiTriple: bitter-dried-cannellini
+antiBeans: [butter, black]
+antiForm: smoked
 dish: Crispy chickpeas with fish sauce, toasted garlic, and lime.
 quote: Do not wait to strike till the bean is hot, but make it hot by striking.
 creature: pika
-friendlyBeans: [green, kidney]
-antiBeans: [cannellini, butter]
-friendlyForm: fermented
-antiForm: smoked
 seasonalFortune: A life lived a quarter-hour ahead of itself — garlic sliced before the oil is poured, the lime halved before anyone thinks to ask.
 fortuneMost: The bag's packed and the coffee's made while the house is still dark.
 fortuneHigh: Start the conversation they're nerving themselves up to start.

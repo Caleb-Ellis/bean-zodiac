@@ -6,13 +6,14 @@ form: fermented
 trait: collaborative
 inverse: uncooperative
 excess: enmeshed
+friendlyBeans: [pinto, mung]
+friendlyForm: roasted
+antiTriple: sour-dried-navy
+antiBeans: [edamame, black]
+antiForm: boiled
 dish: Fatteh - chickpeas with labneh and bitter pomegranate.
 quote: None of us is as bean as all of us.
 creature: bee
-friendlyBeans: [pinto, mung]
-antiBeans: [navy, black]
-friendlyForm: roasted
-antiForm: dried
 seasonalFortune: A season for slow exchange across the brine. Labneh thickens against the cloth; pomegranate seeds wait for a bowl to fall into. Each ingredient sharpens beside what it is not.
 fortuneMost: Hand the half-done thing to one particular person before you tidy it.
 fortuneMost2: The work you carry to another cook's table comes back with their salt in it — and that's the version you actually wanted.

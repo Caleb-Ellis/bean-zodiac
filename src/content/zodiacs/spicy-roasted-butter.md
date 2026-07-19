@@ -6,13 +6,14 @@ form: roasted
 trait: hedonistic
 inverse: abstinent
 excess: dissolute
+friendlyBeans: [mung, adzuki]
+friendlyForm: boiled
+antiTriple: sour-smoked-edamame
+antiBeans: [cannellini, black]
+antiForm: fried
 dish: Harissa gigantes - butter beans oven-roasted with rose harissa, garlic, and olive oil.
 quote: Eat, bean, and be merry, for tomorrow we diet.
 creature: housecat
-friendlyBeans: [mung, adzuki]
-antiBeans: [edamame, cannellini]
-friendlyForm: boiled
-antiForm: smoked
 seasonalFortune: A bean that slumps wide in hot oil keeps no part of itself in reserve; its season is loud, perfumed, and short.
 fortuneMost: Open the good bottle for no reason at all.
 fortuneMost2: Rose harissa over everything, the candle lit on a plain evening.

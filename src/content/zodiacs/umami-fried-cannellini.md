@@ -6,13 +6,14 @@ form: fried
 trait: principled
 inverse: amoral
 excess: moralistic
+friendlyBeans: [edamame, green]
+friendlyForm: dried
+antiTriple: sweet-smoked-butter
+antiBeans: [adzuki, black]
+antiForm: fermented
 dish: Fagioli con alici - pan-fried cannellini with anchovies, garlic, and olive oil.
 quote: The arc of the bean universe is long, but it bends toward justice.
 creature: elk
-friendlyBeans: [edamame, kidney]
-antiBeans: [adzuki, mung]
-friendlyForm: dried
-antiForm: smoked
 seasonalFortune: A season for cooks who keep the anchovy in the pan when the room asks them to lift it out. What renders, renders; what stays, stays.
 fortuneMost: The anchovy stays in the pan when the room asks you to lift it out.
 fortuneMost2: The joke only works because someone absent comes off badly, and you're the one who doesn't laugh.

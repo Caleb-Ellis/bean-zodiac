@@ -7,13 +7,14 @@ form: fermented
 trait: calculating
 inverse: unmindful
 excess: machiavellian
+friendlyBeans: [cannellini, black]
+friendlyForm: dried
+antiTriple: spicy-roasted-mung
+antiBeans: [pinto, green]
+antiForm: fried
 dish: Navy bean and aged miso gratin with Gruyère and toasted breadcrumb.
 quote: It is not enough to bean well; one must also bean at the right time.
 creature: spider
-friendlyBeans: [cannellini, black]
-antiBeans: [fava, kidney]
-friendlyForm: dried
-antiForm: fried
 seasonalFortune: Miso deepens slowly in the crock; the season rewards those who track which crust browns first and which gives last under the spoon.
 fortuneMost: The loose favour becomes a hard leash.
 fortuneHigh: Look at the whole web before you cut a thread.

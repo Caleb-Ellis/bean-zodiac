@@ -7,13 +7,14 @@ form: fermented
 trait: compulsive
 inverse: self-controlled
 excess: pathological
+friendlyBeans: [kidney, fava]
+friendlyForm: smoked
+antiTriple: sour-fried-navy
+antiBeans: [edamame, adzuki]
+antiForm: dried
 dish: Gỏi đậu xanh - Vietnamese mung bean salad with fermented fish sauce and bird's eye chili.
 quote: The chains of bean are too light to be felt until they are too heavy to be broken.
 creature: lemming
-friendlyBeans: [kidney, fava]
-antiBeans: [navy, edamame]
-friendlyForm: smoked
-antiForm: fried
 seasonalFortune: A jar left sealed still works in the dark. The season grooves itself into small returns; brine deepens by repetition, and what gets stirred most often sets the tongue.
 fortuneMost: Lost within loops within loops within loops.
 fortuneHigh: Double, triple, maybe even quadruple-check it.

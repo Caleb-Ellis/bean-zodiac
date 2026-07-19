@@ -6,13 +6,14 @@ form: fried
 trait: direct
 inverse: circuitous
 excess: brusque
+friendlyBeans: [fava, green]
+friendlyForm: fermented
+antiTriple: umami-fermented-butter
+antiBeans: [mung, cannellini]
+antiForm: smoked
 dish: Black bean tostadas with lime crema - refried black beans on a crisp fried tortilla with sour cream and lime.
 quote: Say what you bean and bean what you say.
 creature: hawk
-friendlyBeans: [fava, green]
-antiBeans: [cannellini, butter]
-friendlyForm: fermented
-antiForm: fermented
 seasonalFortune: Tortillas crisp loud in the pan; nothing here is hidden under sauce. A season for plain saying, for the lime that names what the bean already was.
 fortuneMost: When everyone else is still hedging, you're the one who names it — lime cutting clean through the crema.
 fortuneMost2: Someone's been circling the same question for days. Hand them the answer flat.

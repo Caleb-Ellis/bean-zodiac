@@ -6,13 +6,14 @@ form: dried
 trait: tart
 inverse: saccharine
 excess: sour-tongued
+friendlyBeans: [edamame, pinto]
+friendlyForm: boiled
+antiTriple: bitter-smoked-kidney
+antiBeans: [mung, fava]
+antiForm: fermented
 dish: Sekihan - adzuki and sticky rice with dried pickled ume and sesame.
 quote: A bean a day keeps the doctor away.
 creature: lemon tetra
-friendlyBeans: [edamame, pinto]
-antiBeans: [kidney, mung]
-friendlyForm: boiled
-antiForm: smoked
 seasonalFortune: The ume sits years in its own brine before it earns the rice. A life that cures rather than cooks; nothing kept that hasn't first been sharpened.
 fortuneMost: Hand the sharp thing over unsanded.
 fortuneMost2: A jar of ume cures years for a single sour bite. Yours is ready.

@@ -6,13 +6,14 @@ form: smoked
 trait: invested
 inverse: disengaged
 excess: entangled
+friendlyBeans: [cannellini, black]
+friendlyForm: boiled
+antiTriple: sour-fried-edamame
+antiBeans: [adzuki, chickpea]
+antiForm: fermented
 dish: Lap cheong congee - Cantonese rice porridge with mung beans, smoked sausage, and chili oil.
 quote: The course of true bean never did run smooth.
 creature: wolfhound
-friendlyBeans: [cannellini, black]
-antiBeans: [edamame, adzuki]
-friendlyForm: boiled
-antiForm: fried
 seasonalFortune: A season of low coals and long hours. The pot sits at the back of the stove, working without an audience, and the house begins to smell like something that has been thought about for days.
 fortuneMost: A small trouble they mentioned months ago is still warm in you, long after they forgot saying it.
 fortuneMost2: You held the thread everyone else let slip.

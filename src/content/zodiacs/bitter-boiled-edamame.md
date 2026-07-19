@@ -6,13 +6,14 @@ form: boiled
 trait: analytical
 inverse: muddled
 excess: hyperanalytic
+friendlyBeans: [cannellini, black]
+friendlyForm: fermented
+antiTriple: sweet-roasted-mung
+antiBeans: [adzuki, fava]
+antiForm: smoked
 dish: Edamame and wakame soup with citrus peel.
 quote: If you can't bean it, you can't manage it.
 creature: raven
-friendlyBeans: [cannellini, black]
-antiBeans: [mung, adzuki]
-friendlyForm: fermented
-antiForm: roasted
 seasonalFortune: A season for slow broths and slower verdicts. The fuzzed pod gives up its bead only to a steady thumb; what holds and what merely sits is told by pressure, not by looking.
 fortuneMost: The tangle everyone else is staring at will come loose in your hands.
 fortuneMost2: A week of small wrong readings, then the raven sees the seam — and the whole thing falls open at once.

@@ -6,13 +6,14 @@ form: fried
 trait: focused
 inverse: scattered
 excess: tunnel-visioned
+friendlyBeans: [navy, fava]
+friendlyForm: dried
+antiTriple: sweet-fermented-pinto
+antiBeans: [chickpea, mung]
+antiForm: roasted
 dish: Stir-fried black beans with oyster sauce, ginger, and scallion.
 quote: The bean's rays do not burn until brought to a focus.
 creature: osprey
-friendlyBeans: [edamame, fava]
-antiBeans: [adzuki, chickpea]
-friendlyForm: dried
-antiForm: roasted
 seasonalFortune: A narrowed flame keeps a tight room; the season favors those who let the wok's edge go dark while the center holds bright.
 fortuneMost: One bean held over the flame until it catches, the whole kitchen gone dark around it. What you make in that narrow light, people look at twice.
 fortuneMost2: A door shut, a phone face-down, one thing finished clean before the next is allowed to exist. The week bends toward whoever can do that.

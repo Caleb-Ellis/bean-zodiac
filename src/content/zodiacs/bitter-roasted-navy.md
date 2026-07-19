@@ -6,13 +6,14 @@ form: roasted
 trait: prudent
 inverse: imprudent
 excess: penny-pinching
+friendlyBeans: [butter, cannellini]
+friendlyForm: boiled
+antiTriple: spicy-smoked-fava
+antiBeans: [chickpea, green]
+antiForm: fried
 dish: Roasted navy bean and bitter endive salad with mustard vinaigrette.
 quote: In preparing to bean, I have always found that plans are useless, but planning is indispensable.
 creature: field mouse
-friendlyBeans: [butter, cannellini]
-antiBeans: [fava, chickpea]
-friendlyForm: boiled
-antiForm: smoked
 seasonalFortune: A jar of mustard seed kept dry through three winters; the season favours those whose pantries answer questions before they are asked.
 fortuneMost: You set the coat by the door, so the rain finds you already buttoned.
 fortuneMost2: A winter you can't yet see is on its way, and your pantry already answers it.

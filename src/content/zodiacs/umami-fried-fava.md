@@ -6,13 +6,14 @@ form: fried
 trait: aggressive
 inverse: pacific
 excess: belligerent
+friendlyBeans: [edamame, chickpea]
+friendlyForm: roasted
+antiTriple: sweet-boiled-butter
+antiBeans: [mung, cannellini]
+antiForm: dried
 dish: Stir-fried fava beans with doubanjiang, ginger, and soy.
 quote: The best bean defense is a good offense.
 creature: rhino
-friendlyBeans: [edamame, chickpea]
-antiBeans: [mung, navy]
-friendlyForm: fermented
-antiForm: boiled
 seasonalFortune: A season that runs hot. The wok smokes before the doubanjiang lands, and the days arrive at temperature, asking to be met there.
 fortuneMost: The wok's already smoking before the doubanjiang lands.
 fortuneMost2: Make the move everyone's been circling for a week.

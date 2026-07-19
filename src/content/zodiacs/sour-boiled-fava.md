@@ -6,13 +6,14 @@ form: boiled
 trait: righteous
 inverse: iniquitous
 excess: self-righteous
+friendlyBeans: [edamame, kidney]
+friendlyForm: fried
+antiTriple: bitter-smoked-mung
+antiBeans: [cannellini, black]
+antiForm: fermented
 dish: Bissara - Moroccan fava bean soup with lemon and cumin.
 quote: Injustice anywhere is a threat to beans everywhere.
 creature: ibex
-friendlyBeans: [edamame, kidney]
-antiBeans: [mung, cannellini]
-friendlyForm: fried
-antiForm: smoked
 seasonalFortune: A season for long simmering — favas split slowly under steady heat, and lemon waits to be stirred in. What softens this month earned its softening.
 fortuneMost: Said where it happened, the wrong thing lands.
 fortuneMost2: Sand off the flourish and the bare shape does the work.

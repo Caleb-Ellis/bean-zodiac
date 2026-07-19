@@ -6,13 +6,14 @@ form: smoked
 trait: unsparing
 inverse: merciful
 excess: pitiless
+friendlyBeans: [green, edamame]
+friendlyForm: fried
+antiTriple: umami-boiled-mung
+antiBeans: [butter, pinto]
+antiForm: roasted
 dish: New Orleans red beans and rice with smoked andouille, pickled okra, and hot sauce
 quote: Some like it bean.
 creature: tiger shark
-friendlyBeans: [green, edamame]
-antiBeans: [pinto, chickpea]
-friendlyForm: fried
-antiForm: boiled
 seasonalFortune: A season for smoke that lingers in the weave of a coat. Andouille hangs in the doorway; the brine jar ticks on the counter. Houses where nothing is hedged.
 fortuneMost: End the standing dinner you both dread.
 fortuneMost2: The gift you don't like goes back, the reason said plainly.

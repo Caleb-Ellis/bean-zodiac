@@ -7,13 +7,14 @@ form: roasted
 trait: lighthearted
 inverse: grave
 excess: featherbrained
+friendlyBeans: [adzuki, mung]
+friendlyForm: boiled
+antiTriple: bitter-fried-fava
+antiBeans: [green, kidney]
+antiForm: smoked
 dish: Butter beans roasted with vanilla sugar and lemon zest — caramelised at the edges, softly golden throughout.
 quote: A day without beans is like a day without sunshine, so bring extra beans.
 creature: finch
-friendlyBeans: [adzuki, pinto]
-antiBeans: [fava, kidney]
-friendlyForm: boiled
-antiForm: fried
 seasonalFortune: A house where the sugar pan is never quite empty; lemons go soft on the sill before anyone minds, and the oven runs warm into the evening for no particular reason.
 fortuneMost: A finch gets into the hall, and nobody truly wants it caught.
 fortuneHigh: Arrive late with pastries; the lateness will easily be forgiven.

@@ -6,13 +6,14 @@ form: smoked
 trait: wispy
 inverse: robust
 excess: vanishing
+friendlyBeans: [butter, fava]
+friendlyForm: fermented
+antiTriple: spicy-fried-edamame
+antiBeans: [green, pinto]
+antiForm: roasted
 dish: Smoked moong dal with kokum and fresh coconut - Goan dal with kokum fruit and smoked mustard
 quote: My candle burns at both ends; it will not last the bean.
 creature: feather moth
-friendlyBeans: [butter, fava]
-antiBeans: [edamame, green]
-friendlyForm: fermented
-antiForm: fried
 seasonalFortune: A season when smoke leaves a room before anyone notices it arrived. Kokum stains the pot faintly; the coconut keeps its own counsel. Tending moves through the house like weather.
 fortuneMost: Keep the one you can still describe out loud an hour on; let the rest cool without ceremony.
 fortuneMost2: Coats on chairs in three houses, sentences finished in different rooms.

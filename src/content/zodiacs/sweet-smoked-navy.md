@@ -6,13 +6,14 @@ form: smoked
 trait: lingering
 inverse: fleeting
 excess: clinging
+friendlyBeans: [black, butter]
+friendlyForm: dried
+antiTriple: spicy-roasted-chickpea
+antiBeans: [pinto, green]
+antiForm: fried
 dish: Boston baked beans - navy beans slow-cooked with smoked salt pork, molasses, and brown sugar.
 quote: Some beans linger.
 creature: alley cat
-friendlyBeans: [black, butter]
-antiBeans: [chickpea, pinto]
-friendlyForm: dried
-antiForm: roasted
 seasonalFortune: Molasses settles slowly in a covered pot, and the smoke it took on Saturday keeps surfacing through Tuesday's bread. The season holds what was sweetened long after the hearth has cooled.
 fortuneMost: A small kind thing you say will outlast you, quoted back years on by someone whose voice goes a little tight.
 fortuneMost2: Lend the book you love to the one who won't return it.

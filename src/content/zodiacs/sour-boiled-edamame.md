@@ -6,13 +6,14 @@ form: boiled
 trait: logical
 inverse: illogical
 excess: robotic
+friendlyBeans: [cannellini, navy]
+friendlyForm: smoked
+antiTriple: bitter-fermented-chickpea
+antiBeans: [adzuki, pinto]
+antiForm: roasted
 dish: Edamame miso soup with rice vinegar and wakame.
 quote: Logic will get you from A to bean, but imagination will take you everywhere.
 creature: rook
-friendlyBeans: [cannellini, navy]
-antiBeans: [mung, chickpea]
-friendlyForm: smoked
-antiForm: fermented
 seasonalFortune: Wakame unfurls in the simmer this season; the broth admits only what belongs, and the bowl reads like a settled ledger.
 fortuneMost: The conclusion fits in one sentence.
 fortuneMost2: Everyone's still hedging and the plain answer is already yours.

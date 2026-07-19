@@ -6,13 +6,14 @@ form: dried
 trait: suppressed
 inverse: unleashed
 excess: bottled-up
+friendlyBeans: [cannellini, navy]
+friendlyForm: smoked
+antiTriple: sour-roasted-adzuki
+antiBeans: [pinto, chickpea]
+antiForm: fried
 dish: Mole negro - dried black beans with mulato and pasilla chilies.
 quote: Where there's smoke, there's bean.
 creature: cicada
-friendlyBeans: [cannellini, navy]
-antiBeans: [adzuki, pinto]
-friendlyForm: smoked
-antiForm: roasted
 seasonalFortune: A pan of chilies toasted dark and a lid set heavy; what stings the kitchen is folded down into a long, quiet simmer, and the heat travels inward for hours.
 fortuneMost: The slight landed, the fever's real, and you're refilling their glass anyway.
 fortuneMost2: A heavy lid on toasted chilies, the heat folded down and travelling inward for hours. That's you, and it's a long simmer.

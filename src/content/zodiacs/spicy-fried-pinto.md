@@ -6,13 +6,14 @@ form: fried
 trait: chaotic
 inverse: orderly
 excess: anarchic
+friendlyBeans: [adzuki, chickpea]
+friendlyForm: roasted
+antiTriple: umami-boiled-black
+antiBeans: [navy, butter]
+antiForm: dried
 dish: Chimichangas - deep-fried burritos with spicy pinto beans and ancho chili.
 quote: In the middle of every bean lies opportunity.
 creature: tasmanian devil
-friendlyBeans: [adzuki, chickpea]
-antiBeans: [black, navy]
-friendlyForm: roasted
-antiForm: boiled
 seasonalFortune: A season of spitting oil and half-folded tortillas; the kitchen of this bean runs hot, loud, and rarely in one direction for long.
 fortuneMost: Six things half-made and fluent in all of them — the one that survives to evening beats any plan you could've written.
 fortuneMost2: A good idea is loose in all that mess and it'll find you before the night's out.

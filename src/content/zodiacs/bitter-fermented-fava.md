@@ -6,13 +6,14 @@ form: fermented
 trait: questioning
 inverse: unquestioning
 excess: second-guessing
+friendlyBeans: [chickpea, kidney]
+friendlyForm: roasted
+antiTriple: sweet-boiled-navy
+antiBeans: [butter, cannellini]
+antiForm: dried
 dish: Fava bean soup with harissa yogurt and bitter orange.
 quote: The bean that gets questioned, gets answered.
 creature: lemur
-friendlyBeans: [chickpea, kidney]
-antiBeans: [navy, cannellini]
-friendlyForm: roasted
-antiForm: boiled
 seasonalFortune: A jar of favas works in the dark, sharpening as it softens. The almanac favours those who let an answer steep — what arrived as salt becomes something the salt never promised.
 fortuneMost: Ask the third question. The first two get manners; the third gets the actual answer.
 fortuneMost2: An answer is steeping in the thing you keep circling.

@@ -6,13 +6,14 @@ form: fermented
 trait: persnickety
 inverse: undemanding
 excess: finicky
+friendlyBeans: [edamame, black]
+friendlyForm: dried
+antiTriple: umami-fried-kidney
+antiBeans: [fava, mung]
+antiForm: dried
 dish: Fagioli all'uccelletto con 'nduja - Tuscan white beans with spicy fermented sausage and sage.
 quote: The devil is in the beans.
 creature: siamese cat
-friendlyBeans: [edamame, black]
-antiBeans: [kidney, green]
-friendlyForm: dried
-antiForm: fried
 seasonalFortune: Cured slow in the jar, the brine bites back at whatever the cook forgot. A season for small corrections, sage laid one leaf at a time.
 fortuneMost: Cross the room and true the tilted frame.
 fortuneMost2: Sage laid one leaf at a time, the brine biting back at whatever was forgotten.

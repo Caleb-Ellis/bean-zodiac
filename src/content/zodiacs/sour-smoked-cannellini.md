@@ -6,13 +6,14 @@ form: smoked
 trait: piercing
 inverse: muted
 excess: lacerating
+friendlyBeans: [black, edamame]
+friendlyForm: dried
+antiTriple: sweet-roasted-kidney
+antiBeans: [adzuki, chickpea]
+antiForm: boiled
 dish: Ribollita - Tuscan bread soup with cannellini, smoked pancetta, cavolo nero, and red wine vinegar
 quote: The truth will bean you free.
 creature: shrike
-friendlyBeans: [black, edamame]
-antiBeans: [adzuki, kidney]
-friendlyForm: dried
-antiForm: roasted
 seasonalFortune: A season for vinegar over smoke, for the bowl that asks a cold question of warm bread. Households eat slower; what was hidden in the broth surfaces.
 fortuneMost: Ask the real question early, not after the long way round.
 fortuneMost2: You see the bone clean through the soft tissue before anyone else has looked.

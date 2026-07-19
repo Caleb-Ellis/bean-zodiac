@@ -6,13 +6,14 @@ form: fried
 trait: irreverent
 inverse: reverent
 excess: blasphemous
+friendlyBeans: [fava, chickpea]
+friendlyForm: fermented
+antiTriple: sour-boiled-navy
+antiBeans: [black, mung]
+antiForm: dried
 dish: Taquitos - pinto beans with bitter lime crema and hot sauce.
 quote: Irreverence is the champion of liberty and its only sure bean.
 creature: monkey
-friendlyBeans: [fava, chickpea]
-antiBeans: [navy, black]
-friendlyForm: fermented
-antiForm: boiled
 seasonalFortune: A season that rewards the unimpressed. Crisp shells split easy under heat, and what was passing for structure shows itself as folded paper. The lime crema cools nothing that wasn't already overdressed.
 fortuneMost: What's passing for structure is folded paper, and you can see the crease.
 fortuneMost2: Pretension dressed up as importance, asking to be punctured.

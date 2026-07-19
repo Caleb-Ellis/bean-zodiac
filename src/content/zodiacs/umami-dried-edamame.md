@@ -6,13 +6,14 @@ form: dried
 trait: foundational
 inverse: peripheral
 excess: monolithic
+friendlyBeans: [black, navy]
+friendlyForm: boiled
+antiTriple: bitter-roasted-mung
+antiBeans: [chickpea, adzuki]
+antiForm: smoked
 dish: Hoshi edamame gohan - dried edamame and dried shiitake cooked into dashi rice.
 quote: Well-beaned is half done.
 creature: mammoth turtle
-friendlyBeans: [black, navy]
-antiBeans: [mung, chickpea]
-friendlyForm: boiled
-antiForm: roasted
 seasonalFortune: A season for what was steeped overnight. Houses run on the quiet labors begun before anyone was awake to notice them.
 fortuneMost: The whole house stands on the stock you set going before anyone woke.
 fortuneMost2: Lay the groundwork no one will thank you for.

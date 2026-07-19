@@ -7,13 +7,14 @@ form: dried
 trait: tender
 inverse: callous
 excess: mawkish
+friendlyBeans: [butter, cannellini]
+friendlyForm: smoked
+antiTriple: sour-fried-green
+antiBeans: [edamame, black]
+antiForm: smoked
 dish: Lǜdòu gāo — dried mung beans ground fine and pressed with sugar into flower-shaped cakes.
 quote: The most beautiful things in the world cannot be seen or touched — they must be seen with the bean.
 creature: spring fawn
-friendlyBeans: [butter, cannellini]
-antiBeans: [green, pinto]
-friendlyForm: smoked
-antiForm: fried
 seasonalFortune: A season ground fine — what was whole is pressed into petalled shapes, sweetness carrying what the husk could not hold.
 fortuneMost: A petal cupped open in two palms.
 fortuneHigh: A fawn stepping toward a hand it has no reason to trust.

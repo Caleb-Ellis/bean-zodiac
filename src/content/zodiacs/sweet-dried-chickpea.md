@@ -6,13 +6,14 @@ form: dried
 trait: wholesome
 inverse: unwholesome
 excess: goody-goody
+friendlyBeans: [mung, adzuki]
+friendlyForm: boiled
+antiTriple: sour-smoked-black
+antiBeans: [edamame, cannellini]
+antiForm: fried
 dish: Besan ladoo — dried chickpeas ground to flour, toasted in ghee, and rolled into warm golden balls with sugar and cardamom.
 quote: Do unto beans as you would have beans do unto you.
 creature: shetland pony
-friendlyBeans: [mung, adzuki]
-antiBeans: [black, edamame]
-friendlyForm: boiled
-antiForm: smoked
 seasonalFortune: A life lived at the patient toast — flour deepening by shades, ghee gone clear, the rooms nearby holding the cardamom long after the pan is off the heat.
 fortuneMost: People walk away from you a little better off and can't say why — like a room that holds the cardamom long after the pan's off the heat.
 fortuneMost2: A loaf broken open with the steam still rising.

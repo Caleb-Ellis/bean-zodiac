@@ -6,13 +6,14 @@ form: fermented
 trait: innovative
 inverse: derivative
 excess: disruptive
+friendlyBeans: [fava, green]
+friendlyForm: roasted
+antiTriple: sour-dried-navy
+antiBeans: [black, cannellini]
+antiForm: boiled
 dish: Chickpea tempeh - fermented whole chickpeas pan-fried and glazed with miso and sesame.
 quote: Imagination is more important than knowledge about beans.
 creature: crow
-friendlyBeans: [green, pinto]
-antiBeans: [navy, cannellini]
-friendlyForm: roasted
-antiForm: dried
 seasonalFortune: A jar set aside in the cupboard quietly rewrites itself; the cook who returns finds the chickpea no longer answering to its old name.
 fortuneMost: A leaky tap and a sentence about beekeeping are about to meet in your head and turn out to be the same problem.
 fortuneMost2: Build the stranger shape that answers the deeper question nobody thought to ask.

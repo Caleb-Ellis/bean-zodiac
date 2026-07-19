@@ -6,13 +6,14 @@ form: boiled
 trait: timid
 inverse: intrepid
 excess: cowering
+friendlyBeans: [butter, adzuki]
+friendlyForm: smoked
+antiTriple: spicy-fried-fava
+antiBeans: [kidney, chickpea]
+antiForm: roasted
 dish: Frijoles borrachos - pinto beans simmered with bacon, beer, and jalapeño.
 quote: You gain strength, courage, and confidence by every bean in which you really stop to look fear in the face.
 creature: harvest mouse
-friendlyBeans: [butter, mung]
-antiBeans: [fava, kidney]
-friendlyForm: smoked
-antiForm: fried
 seasonalFortune: A pot kept low for hours; bacon waiting on the beer, the jalapeño stalled at the rim. The flavour is real but slow to declare itself.
 fortuneMost: The corner seat, the wait to be named before you speak. There's a depth steeping in you the loud ones never reach, and it keeps fine until it's asked for.
 fortuneMost2: Someone is about to discover, late and all at once, that the quiet one in the corner was the one worth listening to.

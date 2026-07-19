@@ -6,13 +6,14 @@ form: smoked
 trait: primal
 inverse: cultivated
 excess: feral
+friendlyBeans: [green, chickpea]
+friendlyForm: fried
+antiTriple: sweet-boiled-cannellini
+antiBeans: [butter, navy]
+antiForm: roasted
 dish: Broad beans with smoked streaky bacon, mint, and pecorino.
 quote: In the beginning, there was bean.
 creature: dire wolf
-friendlyBeans: [green, chickpea]
-antiBeans: [butter, cannellini]
-friendlyForm: fried
-antiForm: boiled
 seasonalFortune: A season that smells of hickory before sight catches up. Bacon renders slow; the pod splits along a seam older than the cook tending it.
 fortuneMost: Say the thing under the question, not the answer to it. People come to you to be read.
 fortuneMost2: Wake hungry for whatever the night left behind and eat it standing at the window.

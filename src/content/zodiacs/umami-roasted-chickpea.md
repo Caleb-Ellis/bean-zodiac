@@ -6,13 +6,14 @@ form: roasted
 trait: tolerant
 inverse: intolerant
 excess: overpermissive
+friendlyBeans: [mung, fava]
+friendlyForm: fried
+antiTriple: bitter-dried-cannellini
+antiBeans: [black, navy]
+antiForm: smoked
 dish: Roasted chickpeas with Worcestershire, smoked paprika, and garlic.
 quote: In the practice of tolerance, one's bean is the best teacher.
 creature: zebu
-friendlyBeans: [mung, fava]
-antiBeans: [black, cannellini]
-friendlyForm: fried
-antiForm: dried
 seasonalFortune: Smoke settles in the rafters and refuses to leave; the season widens its doorways, lets the odd guest in, asks no one their business.
 fortuneMost: Cook for more than are coming.
 fortuneMost2: You cook for whoever turns up, and no one has to ask if there's enough.

@@ -6,13 +6,14 @@ form: fermented
 trait: intense
 inverse: lackadaisical
 excess: overpowering
+friendlyBeans: [green, chickpea]
+friendlyForm: fried
+antiTriple: umami-boiled-butter
+antiBeans: [navy, cannellini]
+antiForm: dried
 dish: Doenjang Jjigae - red beans with bitter greens.
 quote: Beware the bean who is quiet in a crisis.
 creature: peregrine
-friendlyBeans: [green, chickpea]
-antiBeans: [butter, navy]
-friendlyForm: fried
-antiForm: boiled
 seasonalFortune: The crock has been dark a long season. Bitter greens darken in the paste; what was sealed begins to press at the lid, asking to be tasted.
 fortuneMost: It's cured.
 fortuneMost2: The thing you've been darkening alone is good and done.

@@ -6,13 +6,14 @@ form: roasted
 trait: clingy
 inverse: standoffish
 excess: possessive
+friendlyBeans: [butter, chickpea]
+friendlyForm: fermented
+antiTriple: sour-fried-edamame
+antiBeans: [navy, black]
+antiForm: dried
 dish: Bhuna mung - dry-roasted whole mung beans with chili, cumin, and dried mango.
 quote: Love is that condition in which the happiness of another bean is essential to your own.
 creature: koala
-friendlyBeans: [butter, chickpea]
-antiBeans: [edamame, kidney]
-friendlyForm: fermented
-antiForm: fried
 seasonalFortune: A season of held heat. The pan crowds with small bodies leaning in, chili threading between them, and nothing in this kitchen cools alone.
 fortuneMost: Reach for no reason — just the small thing you noticed and wanted them to have.
 fortuneMost2: Small regular deposits of love, asked for or not, are the whole practice of closeness.

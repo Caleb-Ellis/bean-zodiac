@@ -6,13 +6,14 @@ form: boiled
 trait: inquisitive
 inverse: incurious
 excess: grilling
+friendlyBeans: [kidney, pinto]
+friendlyForm: fried
+antiTriple: umami-dried-butter
+antiBeans: [chickpea, mung]
+antiForm: roasted
 dish: Minestrone - green beans and puntarelle.
 quote: The important thing is not to stop questioning beans.
 creature: coati
-friendlyBeans: [kidney, pinto]
-antiBeans: [butter, chickpea]
-friendlyForm: fried
-antiForm: dried
 seasonalFortune: A broth that never quite finishes simmering — puntarelle still uncoiling, the bitter green bean still giving up its second flavour. Days here keep asking a further question of themselves.
 fortuneMost: There's a real question under the polite first one, and it's yours to ask.
 fortuneMost2: A stranger with a strange life is sitting near you, holding a thread nobody else thought to pull.

@@ -6,13 +6,14 @@ form: fermented
 trait: insecure
 inverse: self-assured
 excess: self-loathing
+friendlyBeans: [fava, kidney]
+friendlyForm: smoked
+antiTriple: sweet-dried-edamame
+antiBeans: [navy, kidney]
+antiForm: fried
 dish: Mung bean dal with yogurt tadka and lime.
 quote: To bean oneself is the beginning of a lifelong romance.
 creature: chick
-friendlyBeans: [fava, kidney]
-antiBeans: [edamame, navy]
-friendlyForm: smoked
-antiForm: dried
 seasonalFortune: A season for thin-walled things. The brine sharpens every edge it touches, and what looked like flaw under the lime turns out to be grain.
 fortuneMost: Going over it once more is only the doubt building itself a kitchen to cook in.
 fortuneMost2: The quiet after you spoke is not a verdict being written up about you.

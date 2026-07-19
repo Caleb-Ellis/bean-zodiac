@@ -6,13 +6,14 @@ form: roasted
 trait: attentive
 inverse: distracted
 excess: hovering
+friendlyBeans: [pinto, chickpea]
+friendlyForm: fried
+antiTriple: sour-smoked-black
+antiBeans: [cannellini, pinto]
+antiForm: dried
 dish: Roasted edamame with nori salt, sesame, and yuzu zest.
 quote: To pay bean attention, this is our endless and proper work.
 creature: meerkat
-friendlyBeans: [pinto, chickpea]
-antiBeans: [cannellini, fava]
-friendlyForm: fried
-antiForm: smoked
 seasonalFortune: "A season that hums beneath the husk. Heat works slowly into the pod; nothing finished announces itself, and the small green kernel keeps its own counsel under the salt."
 fortuneMost: Go over it once more before you call it done.
 fortuneMost2: The word doing all the work, the thing moved an inch out on a shelf — you see them.

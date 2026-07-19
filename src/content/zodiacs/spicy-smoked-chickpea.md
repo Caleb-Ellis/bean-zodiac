@@ -6,13 +6,14 @@ form: smoked
 trait: frenetic
 inverse: leisurely
 excess: frazzled
+friendlyBeans: [fava, kidney]
+friendlyForm: fermented
+antiTriple: sweet-boiled-cannellini
+antiBeans: [butter, navy]
+antiForm: roasted
 dish: Fatteh - Syrian smoked chickpeas layered with crisp bread, yogurt, and chili oil.
 quote: Life moves pretty fast — if you don't stop and bean around once in a while, you could miss it.
 creature: shrew
-friendlyBeans: [fava, kidney]
-antiBeans: [cannellini, butter]
-friendlyForm: fermented
-antiForm: boiled
 seasonalFortune: A season of smoke rising from three burners at once, bread torn before the yogurt is whisked, chili oil drifting through rooms its cook has already left.
 fortuneMost: Three burners going, chili oil drifting through a room you've already left — that's the dinner, the trip, the whole thing, happening because you can't sit.
 fortuneMost2: Some days the scatter is exactly how you cover ground no one else reaches.

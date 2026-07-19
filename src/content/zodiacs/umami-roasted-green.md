@@ -6,13 +6,14 @@ form: roasted
 trait: curious
 inverse: uninterested
 excess: prying
+friendlyBeans: [kidney, adzuki]
+friendlyForm: fried
+antiTriple: sour-boiled-cannellini
+antiBeans: [black, navy]
+antiForm: dried
 dish: Roasted green beans with katsuobushi, ponzu, and sesame.
 quote: Curiosity is the bean, always leading to new discoveries.
 creature: ferret
-friendlyBeans: [kidney, pinto]
-antiBeans: [navy, cannellini]
-friendlyForm: fried
-antiForm: boiled
 seasonalFortune: A season of ponzu's slow seep — surfaces shine, and underneath the brine works its long question into the bean.
 fortuneMost: Follow the question past its useful end.
 fortuneMost2: A door is about to open in the middle of an ordinary sentence.

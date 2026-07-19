@@ -6,13 +6,14 @@ form: smoked
 trait: liminal
 inverse: grounded
 excess: dislocated
+friendlyBeans: [pinto, cannellini]
+friendlyForm: roasted
+antiTriple: sweet-dried-navy
+antiBeans: [edamame, adzuki]
+antiForm: boiled
 dish: Smoked chickpea broth with bitter cress, unresolved.
 quote: Not all those who bean are lost.
 creature: will-o-the-wisp
-friendlyBeans: [pinto, cannellini]
-antiBeans: [navy, edamame]
-friendlyForm: roasted
-antiForm: dried
 seasonalFortune: A season spent at the lip of the bowl. Smoke loiters above the cress, the broth half-claimed; the cook lingers in doorways, neither leaving the kitchen nor sitting down.
 fortuneMost: Coat still on, unhurried, at home on the threshold.
 fortuneMost2: You're already half-gone from the thing you only just reached.

@@ -6,13 +6,14 @@ form: fried
 trait: headstrong
 inverse: docile
 excess: pigheaded
+friendlyBeans: [edamame, kidney]
+friendlyForm: roasted
+antiTriple: bitter-smoked-butter
+antiBeans: [mung, fava]
+antiForm: fermented
 dish: Pad prik khing - Thai stir-fried green beans with red curry paste and kaffir lime.
 quote: Well-bean is that which is done with determination.
 creature: bull
-friendlyBeans: [edamame, kidney]
-antiBeans: [fava, pinto]
-friendlyForm: roasted
-antiForm: smoked
 seasonalFortune: A wok left cold too long forgets its own pitch. The season belongs to cooks who strike the pan hot and commit before the paste can argue.
 fortuneMost: Decided is decided.
 fortuneMost2: The paste is in the oil — no taking it back.

@@ -6,13 +6,14 @@ form: fried
 trait: challenging
 inverse: pliable
 excess: argumentative
+friendlyBeans: [fava, green]
+friendlyForm: fermented
+antiTriple: bitter-smoked-butter
+antiBeans: [black, pinto]
+antiForm: fermented
 dish: Rajma tikki with imli chutney - pan-fried Indian kidney bean patties with tamarind dipping sauce.
 quote: In the beginning was the bean, and the bean was with argument, and the bean was argument.
 creature: magpie
-friendlyBeans: [green, fava]
-antiBeans: [cannellini, adzuki]
-friendlyForm: fermented
-antiForm: smoked
 seasonalFortune: A patty pressed against a hot pan keeps its shape by refusing the oil; the tamarind stays sour beside it, and neither softens the other.
 fortuneMost: You can't walk away from a falsehood, and you shouldn't have to.
 fortuneHigh: A soft claim may need a sharp answer.

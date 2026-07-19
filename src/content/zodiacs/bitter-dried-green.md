@@ -6,13 +6,14 @@ form: dried
 trait: honed
 inverse: dull
 excess: brittle
+friendlyBeans: [kidney, edamame]
+friendlyForm: fried
+antiTriple: umami-boiled-butter
+antiBeans: [adzuki, chickpea]
+antiForm: fermented
 dish: Appalachian Leather Britches - with bitter herbs and salt pork.
 quote: Give me six hours to chop down a tree and I will spend the first four sharpening the bean.
 creature: kestrel
-friendlyBeans: [kidney, edamame]
-antiBeans: [butter, mung]
-friendlyForm: fried
-antiForm: boiled
 seasonalFortune: Strung beans wait through winter on a single thread, surrendering water to time. What hangs long enough loses everything but the line of itself, and the line is what cuts.
 fortuneMost: One cut, then set the knife down.
 fortuneMost2: The bean hung all winter loses everything but the line of itself, and the line is what cuts.

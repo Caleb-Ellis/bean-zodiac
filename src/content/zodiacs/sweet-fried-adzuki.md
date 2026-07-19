@@ -6,13 +6,14 @@ form: fried
 trait: exuberant
 inverse: dispirited
 excess: delirious
+friendlyBeans: [edamame, kidney]
+friendlyForm: roasted
+antiTriple: bitter-smoked-black
+antiBeans: [mung, cannellini]
+antiForm: dried
 dish: Jin deui — fried glutinous rice sesame balls with sweet adzuki paste inside, golden and crisp and rolling.
 quote: It's beanin' time!
 creature: springbok
-friendlyBeans: [edamame, kidney]
-antiBeans: [black, mung]
-friendlyForm: roasted
-antiForm: smoked
 seasonalFortune: Oil hits batter and the kitchen goes loud. A season for arrivals that come rolling in, sesame-flecked, refusing to enter a room without announcing themselves first.
 fortuneMost: Bake the cake for the ordinary Wednesday. No occasion is the occasion.
 fortuneMost2: Hot oil, a loud kitchen, sesame everywhere — a week of arrivals is rolling toward you.

@@ -6,13 +6,14 @@ form: smoked
 trait: beguiling
 inverse: off-putting
 excess: bewitching
+friendlyBeans: [black, fava]
+friendlyForm: roasted
+antiTriple: sour-dried-edamame
+antiBeans: [adzuki, mung]
+antiForm: boiled
 dish: Smoked chickpea and sweet potato tagine with honey, preserved lemon, and ras el hanout.
 quote: Come bean with me and be my love.
 creature: siren
-friendlyBeans: [black, fava]
-antiBeans: [edamame, adzuki]
-friendlyForm: roasted
-antiForm: dried
 seasonalFortune: Smoke drifts across the yard before the fire is found; the season tends to arrive in noses and ears before anyone agrees it has started.
 fortuneMost: You'll arrive the way smoke does — felt across the yard before anyone finds the fire.
 fortuneMost2: Drop your voice in the loudest room and the room will lean toward you.

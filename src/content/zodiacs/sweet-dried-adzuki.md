@@ -6,13 +6,14 @@ form: dried
 trait: devoted
 inverse: faithless
 excess: idolatrous
+friendlyBeans: [navy, butter]
+friendlyForm: boiled
+antiTriple: spicy-fermented-chickpea
+antiBeans: [pinto, kidney]
+antiForm: fried
 dish: Yokan — dried adzuki beans pressed into sweet paste and set with agar into a firm, lasting block.
 quote: Love is patient, love is bean.
 creature: swan
-friendlyBeans: [navy, butter]
-antiBeans: [fava, chickpea]
-friendlyForm: boiled
-antiForm: fermented
 seasonalFortune: Yokan keeps for months on the shelf, sweetness compounding in the dark. The season favors what was set early and outlasts the weather that made it.
 fortuneMost: Set once and sweetening on in the dark, asking the world for no reply.
 fortuneMost2: The chair stays warm. Somewhere down the road a long-gone face is already walking back.

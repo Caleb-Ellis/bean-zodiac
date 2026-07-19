@@ -6,13 +6,14 @@ form: boiled
 trait: exacting
 inverse: lenient
 excess: tyrannical
+friendlyBeans: [edamame, navy]
+friendlyForm: dried
+antiTriple: bitter-smoked-pinto
+antiBeans: [green, fava]
+antiForm: fermented
 dish: Ribollita - Tuscan cannellini with red wine vinegar and cavolo nero.
 quote: Good enough is the enemy of the bean.
 creature: weaverbird
-friendlyBeans: [edamame, navy]
-antiBeans: [mung, green]
-friendlyForm: dried
-antiForm: smoked
 seasonalFortune: "Ribollita is a second boil; the pot returns to itself and the season returns to its measure. What held the first heat holds now. What blurred is shown to have been approximate."
 fortuneMost: Hold the small line and they'll call you pedantic, then lean on the result anyway.
 fortuneMost2: A fine omen for the one who still notices.

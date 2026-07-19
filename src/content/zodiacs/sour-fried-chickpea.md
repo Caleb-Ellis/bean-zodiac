@@ -6,13 +6,14 @@ form: fried
 trait: shrewd
 inverse: gullible
 excess: cunning
+friendlyBeans: [kidney, adzuki]
+friendlyForm: fermented
+antiTriple: sweet-dried-navy
+antiBeans: [butter, black]
+antiForm: boiled
 dish: Falafel with sumac onions - fried chickpea patties served with tangy sumac-pickled onions.
 quote: Politics is the art of looking for trouble, finding it everywhere, diagnosing it incorrectly, and applying the wrong beans.
 creature: fennec fox
-friendlyBeans: [kidney, adzuki]
-antiBeans: [cannellini, butter]
-friendlyForm: fermented
-antiForm: dried
 seasonalFortune: A season cured in vinegar. The shrewd nose finds the angle early; sumac stains the fingers of those who handled the deal before its name was spoken.
 fortuneMost: The face after the offer is the real answer, not the offer.
 fortuneMost2: A gathering lays itself out for you before the second round is poured — who owes whom, who's halfway out the door.

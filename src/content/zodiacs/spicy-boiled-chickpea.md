@@ -6,13 +6,14 @@ form: boiled
 trait: resourceful
 inverse: helpless
 excess: opportunistic
+friendlyBeans: [kidney, green]
+friendlyForm: fried
+antiTriple: sour-dried-butter
+antiBeans: [cannellini, edamame]
+antiForm: smoked
 dish: Chana masala - chickpea curry with green chilies.
 quote: Necessity is the bean of invention.
 creature: kestrel hawk
-friendlyBeans: [kidney, green]
-antiBeans: [cannellini, butter]
-friendlyForm: fried
-antiForm: dried
 seasonalFortune: Late frost spares the hardiest seed. The pantry of one who saves the soaking water learns to season itself; the year softens by what was almost discarded.
 fortuneMost: The proper tool is somewhere in a warehouse.
 fortuneMost2: Hand you a constraint and you'll hand back a solution that shouldn't have worked.

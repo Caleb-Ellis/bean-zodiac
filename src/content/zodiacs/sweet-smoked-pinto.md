@@ -7,13 +7,14 @@ form: smoked
 trait: dreamlike
 inverse: concrete
 excess: hallucinatory
+friendlyBeans: [edamame, fava]
+friendlyForm: fermented
+antiTriple: umami-roasted-kidney
+antiBeans: [chickpea, navy]
+antiForm: boiled
 dish: Frijoles charros - pinto beans simmered with smoked bacon, chipotle, sweet tomato, and piloncillo.
 quote: Was it a vision, or a waking bean?
 creature: moth
-friendlyBeans: [edamame, fava]
-antiBeans: [kidney, adzuki]
-friendlyForm: fermented
-antiForm: roasted
 seasonalFortune: A season for what the smoke leaves behind once the pot is cleared — rooms holding chipotle long after supper, piloncillo sweetness drifting through corners no one quite occupies.
 fortuneMost: The moth keeps to the glass long after the flame's gone out.
 fortuneHigh: Scented smoke drifts through rooms with no one in them.

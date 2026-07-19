@@ -6,13 +6,14 @@ form: fermented
 trait: imaginative
 inverse: unimaginative
 excess: fanciful
+friendlyBeans: [chickpea, pinto]
+friendlyForm: fried
+antiTriple: umami-dried-mung
+antiBeans: [navy, butter]
+antiForm: boiled
 dish: Szechuan pickled green beans with bitter melon and sesame.
 quote: Imagination is more important than bean.
 creature: hippogriff
-friendlyBeans: [chickpea, pinto]
-antiBeans: [mung, butter]
-friendlyForm: fried
-antiForm: dried
 seasonalFortune: Bitter melon learns sweetness from salt and waiting. The Cultured Green Bean lives among half-pickled notions, drafts steeping in their own brine until something stranger surfaces.
 fortuneMost: The wrong door, taken on purpose, opens onto the very thing you've been trying to describe.
 fortuneMost2: What you're after is in the sideways version, not the sensible one.

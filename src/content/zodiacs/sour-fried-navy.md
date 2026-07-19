@@ -6,13 +6,14 @@ form: fried
 trait: grumpy
 inverse: genial
 excess: curmudgeonly
+friendlyBeans: [edamame, black]
+friendlyForm: dried
+antiTriple: sweet-fermented-chickpea
+antiBeans: [pinto, adzuki]
+antiForm: roasted
 dish: Navy bean croquettes with sauce gribiche - crisp fried navy bean patties with a tangy egg, caper, and mustard sauce.
 quote: I have not bean in the right mood for Beans for the last thirty-seven years.
 creature: wombat
-friendlyBeans: [edamame, black]
-antiBeans: [chickpea, pinto]
-friendlyForm: dried
-antiForm: fermented
 seasonalFortune: Capers brined past sweetness, mustard sharpened in the jar — a season that keeps its complaint close at hand and rewards those who refuse to smooth it down.
 fortuneMost: A complaint carried to the one who can actually mend it does more than a day of muttering ever will.
 fortuneMost2: You won't call it fine when it wasn't, and you shouldn't.

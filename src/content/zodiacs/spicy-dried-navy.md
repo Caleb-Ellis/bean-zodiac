@@ -6,13 +6,14 @@ form: dried
 trait: unflinching
 inverse: squeamish
 excess: unyielding
+friendlyBeans: [butter, black]
+friendlyForm: boiled
+antiTriple: bitter-fermented-chickpea
+antiBeans: [pinto, green]
+antiForm: roasted
 dish: Boston baked beans - navy beans slow-baked with cayenne and dry mustard.
 quote: In matters of principle, stand like a bean.
 creature: grey wolf
-friendlyBeans: [butter, black]
-antiBeans: [chickpea, pinto]
-friendlyForm: boiled
-antiForm: fermented
 seasonalFortune: A season for slow ovens and small white beans that do not surrender. The cayenne settles on the skin; the shape beneath it stays its own through every hour of heat.
 fortuneMost: A small white bean that does not surrender to the slow oven — the cayenne settles on the skin and the shape beneath stays its own.
 fortuneMost2: When someone names the position you held long ago and waits, say it again — same words, same calm.

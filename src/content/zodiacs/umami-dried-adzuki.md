@@ -7,13 +7,14 @@ form: dried
 trait: reverential
 inverse: disrespectful
 excess: grovelling
+friendlyBeans: [pinto, kidney]
+friendlyForm: boiled
+antiTriple: bitter-smoked-fava
+antiBeans: [edamame, green]
+antiForm: fried
 dish: Azuki no nimono - dried adzuki simmered in dashi and soy.
 quote: The bean is in the ritual, not the result.
 creature: sacred ibis
-friendlyBeans: [pinto, chickpea]
-antiBeans: [fava, green]
-friendlyForm: boiled
-antiForm: fermented
 seasonalFortune: A season for the long simmer, when the dried bean drinks dashi and gives back salt. Households tend toward the small ceremony — a folded cloth, a bowl set down with both hands.
 fortuneMost: Salt enters the bean slowly, and never leaves.
 fortuneHigh: Set the bowl down with both hands, even when it's only soup.

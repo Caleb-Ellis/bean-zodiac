@@ -6,13 +6,14 @@ form: fried
 trait: expressive
 inverse: reserved
 excess: grandiloquent
+friendlyBeans: [edamame, green]
+friendlyForm: fermented
+antiTriple: bitter-smoked-black
+antiBeans: [mung, fava]
+antiForm: dried
 dish: Cannellini zeppole — fried Italian doughnuts with a white bean and ricotta filling, tossed in cinnamon sugar.
 quote: I am not afraid of storms, for I am learning how to bean my sail.
 creature: chameleon
-friendlyBeans: [edamame, green]
-antiBeans: [black, mung]
-friendlyForm: fermented
-antiForm: smoked
 seasonalFortune: A season of split skins and warm sugar; rooms fill quickly around the bean that arrives still hissing from the oil.
 fortuneMost: Let the compliment out in full, crack in the middle if it cracks.
 fortuneMost2: Warm sugar, split skins, rooms filling fast around you — this is a stretch where what you feel will keep arriving on your face first, and landing.

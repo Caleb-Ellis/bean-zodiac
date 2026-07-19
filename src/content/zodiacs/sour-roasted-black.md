@@ -6,13 +6,14 @@ form: roasted
 trait: earnest
 inverse: flippant
 excess: priggish
+friendlyBeans: [butter, adzuki]
+friendlyForm: boiled
+antiTriple: spicy-fried-cannellini
+antiBeans: [edamame, green]
+antiForm: smoked
 dish: Sopa de frijol negro con tomatillo asado - black bean soup with roasted tomatillos and lime crema
 quote: The importance of being bean.
 creature: spaniel
-friendlyBeans: [butter, adzuki]
-antiBeans: [edamame, green]
-friendlyForm: boiled
-antiForm: fried
 seasonalFortune: Roasted black beans hold the pot's lowest heat. Their husks blacken off; what stays is the part that meant every word.
 fortuneMost: Lead with the line you'd usually bury.
 fortuneMost2: Someone leaves you feeling met for the first time in weeks.

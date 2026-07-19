@@ -6,13 +6,14 @@ form: fermented
 trait: offbeat
 inverse: mainstream
 excess: bizarre
+friendlyBeans: [mung, pinto]
+friendlyForm: roasted
+antiTriple: bitter-dried-navy
+antiBeans: [black, kidney]
+antiForm: boiled
 dish: Chickpea fatteh with shatta - Lebanese flatbread and chickpea dish with Palestinian fermented hot sauce.
 quote: I've lost my damn beans.
 creature: axolotl
-friendlyBeans: [mung, pinto]
-antiBeans: [navy, black]
-friendlyForm: roasted
-antiForm: dried
 seasonalFortune: A season for the jar at the back of the shelf. What ferments in the dark this month arrives at the table tasting of nowhere anyone else has been.
 fortuneMost: A stranger is about to leave the night feeling unusually seen.
 fortuneMost2: You finish things in a register your friends have no shelf for, and hand them over anyway.

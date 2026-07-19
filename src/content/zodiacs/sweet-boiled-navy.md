@@ -6,13 +6,14 @@ form: boiled
 trait: frugal
 inverse: spendthrift
 excess: miserly
+friendlyBeans: [butter, cannellini]
+friendlyForm: dried
+antiTriple: spicy-fried-kidney
+antiBeans: [fava, chickpea]
+antiForm: fermented
 dish: Navy bean and black treacle pudding — beans boiled with treacle, ginger, and oats into a thick steamed pudding.
 quote: Beware of little bean expenses; a small leak will sink a great ship.
 creature: hamster
-friendlyBeans: [butter, cannellini]
-antiBeans: [chickpea, kidney]
-friendlyForm: dried
-antiForm: fried
 seasonalFortune: A season of slow steam and weighed measures. The pudding thickens in increments; sweetness arrives by the spoonful, never the jug, and the pantry counts itself before the kitchen lights.
 fortuneMost: Build the whole meal from what's already on the shelf and feed someone with it.
 fortuneMost2: You scrape the jar with the back of the spoon and rinse it for the next batch.

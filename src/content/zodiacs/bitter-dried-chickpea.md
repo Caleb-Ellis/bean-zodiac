@@ -6,13 +6,14 @@ form: dried
 trait: circumspect
 inverse: heedless
 excess: paranoid
+friendlyBeans: [black, pinto]
+friendlyForm: fermented
+antiTriple: sweet-roasted-green
+antiBeans: [mung, fava]
+antiForm: boiled
 dish: Ceci in Zimino - chickpeas with bitter chard.
 quote: Look before you bean.
 creature: pangolin
-friendlyBeans: [black, pinto]
-antiBeans: [mung, fava]
-friendlyForm: fermented
-antiForm: roasted
 seasonalFortune: The dried bean keeps longer than the green leaf, and the circumspect kitchen lives by that arithmetic. Bitter chard waits in cold water; nothing is committed until the broth has spoken.
 fortuneMost: A question can soak past the point others call it done, and yours will.
 fortuneMost2: You find the question under the question, the way an owl finds the movement under the grass.

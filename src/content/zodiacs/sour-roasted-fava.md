@@ -6,13 +6,14 @@ form: roasted
 trait: authentic
 inverse: phony
 excess: unvarnished
+friendlyBeans: [chickpea, mung]
+friendlyForm: fermented
+antiTriple: spicy-dried-cannellini
+antiBeans: [navy, edamame]
+antiForm: boiled
 dish: Ful nabed mashwi - roasted skinned fava beans with lemon, cumin, and fresh coriander
 quote: To be yourself in a world that is constantly trying to make you something else is the greatest bean.
 creature: wolf
-friendlyBeans: [chickpea, mung]
-antiBeans: [navy, cannellini]
-friendlyForm: fermented
-antiForm: dried
 seasonalFortune: A season for skins that split under heat. The almanac favors what comes out lemon-sharp, coriander-stung, and refuses to be sweetened on the way to the table.
 fortuneMost: This turn your luck comes lemon-sharp and refuses to be sweetened.
 fortuneMost2: A bare no, where the offer wanted a yes, earns you more respect than the polished answer they'd already drafted for you.

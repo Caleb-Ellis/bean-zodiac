@@ -6,13 +6,14 @@ form: boiled
 trait: loyal
 inverse: disloyal
 excess: sycophantic
+friendlyBeans: [adzuki, navy]
+friendlyForm: roasted
+antiTriple: sour-fermented-pinto
+antiBeans: [fava, edamame]
+antiForm: smoked
 dish: Caldo Verde - kidney beans and kale.
 quote: The bean that matters most is not the one you were born with, but the one you choose to keep.
 creature: shepherd
-friendlyBeans: [adzuki, navy]
-antiBeans: [pinto, fava]
-friendlyForm: roasted
-antiForm: fermented
 seasonalFortune: A long pot kept low, kale folded in late. The kitchen runs at the pace of the slowest ingredient, and what stays in the broth all afternoon is what feeds anyone by evening.
 fortuneMost: Call the friend no one else is calling, and don't ask if they're okay — ask what they ate.
 fortuneMost2: An old friend is about to resurface wanting a real afternoon of you, and you'll clear it without asking why.

@@ -6,13 +6,14 @@ form: boiled
 trait: sincere
 inverse: insincere
 excess: gushing
+friendlyBeans: [navy, butter]
+friendlyForm: roasted
+antiTriple: bitter-smoked-fava
+antiBeans: [black, mung]
+antiForm: fermented
 dish: Adzuki bean soup with umeboshi and ginger broth.
 quote: This above all - to thine own bean be true
 creature: flat-coated retriever
-friendlyBeans: [navy, butter]
-antiBeans: [black, fava]
-friendlyForm: roasted
-antiForm: smoked
 seasonalFortune: A season pickled in its own salt. The bare broth does the carrying; the cured plum colours every spoonful without needing to be tasted directly.
 fortuneMost: The warm thing wants saying. Say it clean.
 fortuneMost2: Good news is coming, and you'll feel the whole of it.

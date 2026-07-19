@@ -6,13 +6,14 @@ form: roasted
 trait: self-absorbed
 inverse: selfless
 excess: narcissistic
+friendlyBeans: [adzuki, chickpea]
+friendlyForm: fermented
+antiTriple: sweet-boiled-navy
+antiBeans: [kidney, cannellini]
+antiForm: dried
 dish: Frijoles Refritos - with roasted bitter chiles and lard.
 quote: I don't care what you think unless it's about my bean.
 creature: mirror carp
-friendlyBeans: [adzuki, chickpea]
-antiBeans: [navy, kidney]
-friendlyForm: fermented
-antiForm: boiled
 seasonalFortune: Lard renders at its own pace, indifferent to the pan; the bitter chile darkens for no one's benefit but its own. A season spent perfecting a single reflection.
 fortuneMost: A day that's been about you since the fat hit the pan is yours to enjoy with no apology.
 fortuneMost2: You render at your own pace, indifferent to the pan, and the world is content to let you.

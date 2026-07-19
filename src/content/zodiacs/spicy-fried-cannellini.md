@@ -6,13 +6,14 @@ form: fried
 trait: ambitious
 inverse: complacent
 excess: ruthless
+friendlyBeans: [navy, fava]
+friendlyForm: fermented
+antiTriple: sweet-smoked-pinto
+antiBeans: [adzuki, green]
+antiForm: fermented
 dish: Spicy cannellini and ricotta fritters with Calabrian chili.
 quote: Shoot for the bean. Even if you miss, you will land among the legumes.
 creature: eagle
-friendlyBeans: [navy, fava]
-antiBeans: [butter, fava]
-friendlyForm: fermented
-antiForm: smoked
 seasonalFortune: A season that runs hot from the first crackle. Oil climbs fast, ricotta thickens under pressure, and the fritter sets gold before the pan has cooled — every day asking what comes next.
 fortuneMost: When the offer comes, take its larger version.
 fortuneMost2: The next thing is crackling in the pan before this one has set.

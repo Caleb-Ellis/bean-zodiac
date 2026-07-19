@@ -6,13 +6,14 @@ form: fermented
 trait: self-aware
 inverse: oblivious
 excess: self-conscious
+friendlyBeans: [chickpea, pinto]
+friendlyForm: smoked
+antiTriple: spicy-dried-navy
+antiBeans: [edamame, cannellini]
+antiForm: boiled
 dish: Adzuki and natto rice bowl with ponzu and spring onion.
 quote: Know thyself? If I knew myself, I'd bean away.
 creature: macaque
-friendlyBeans: [chickpea, pinto]
-antiBeans: [navy, edamame]
-friendlyForm: smoked
-antiForm: dried
 seasonalFortune: A season of long ferments and clear ponzu. The pickled adzuki sits in its brine and is not surprised by what the brine has drawn out of it.
 fortuneMost: Would we be happier in a world without mirrors?
 fortuneHigh: Stare too long in the pond and you might forget to drink.

@@ -7,13 +7,14 @@ form: smoked
 trait: murky
 inverse: pellucid
 excess: clouded
+friendlyBeans: [fava, cannellini]
+friendlyForm: dried
+antiTriple: sweet-roasted-adzuki
+antiBeans: [pinto, edamame]
+antiForm: fried
 dish: Mole negro - Oaxacan black beans simmered in smoked mulato and pasilla chile sauce.
 quote: Still waters run bean.
 creature: catfish
-friendlyBeans: [fava, cannellini]
-antiBeans: [adzuki, edamame]
-friendlyForm: dried
-antiForm: roasted
 seasonalFortune: A season cured in slow smoke. Chiles soften into something unreadable; the pot keeps its own counsel, and the days take on a flavor no one nearby can quite name.
 fortuneMost: You file the real answer where they won't look.
 fortuneHigh: Smoke fills the house from a fire banked low.

@@ -6,13 +6,14 @@ form: smoked
 trait: iridescent
 inverse: colorless
 excess: gaudy
+friendlyBeans: [kidney, pinto]
+friendlyForm: fried
+antiTriple: umami-boiled-butter
+antiBeans: [mung, fava]
+antiForm: dried
 dish: Southern green beans slow-cooked with smoked ham hock, brown sugar, and sweet onion.
 quote: A thing of bean is a joy forever.
 creature: scarab
-friendlyBeans: [kidney, pinto]
-antiBeans: [butter, mung]
-friendlyForm: fried
-antiForm: boiled
 seasonalFortune: Slow smoke threads the pot until the green turns half-amber. The hours pass at the pace of a rendering hock, sweetness gathering by degrees.
 fortuneMost: You'll be a different person at every table and true at all of them.
 fortuneMost2: Two friends will compare notes on you and half-doubt they mean the same person.

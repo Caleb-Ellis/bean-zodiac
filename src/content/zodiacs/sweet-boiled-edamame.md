@@ -7,13 +7,14 @@ form: boiled
 trait: dependable
 inverse: undependable
 excess: indispensable
+friendlyBeans: [navy, butter]
+friendlyForm: dried
+antiTriple: spicy-fermented-pinto
+antiBeans: [chickpea, green]
+antiForm: fried
 dish: Zunda mochi — edamame boiled and ground into sweet green paste, served over soft rice cake.
 quote: The strength of a bean lies not in its weight, but in its reliability.
 creature: shire horse
-friendlyBeans: [navy, butter]
-antiBeans: [chickpea, pinto]
-friendlyForm: dried
-antiForm: fermented
 seasonalFortune: A long, sweet simmer settles over the months. The pot keeps its low murmur; pods soften on a schedule the kitchen already knows. Steadiness flavours the season.
 fortuneMost: Nobody thanks the tap for running.
 fortuneHigh: Give your word and mean it.

@@ -6,13 +6,14 @@ form: fried
 trait: decisive
 inverse: indecisive
 excess: trigger-happy
+friendlyBeans: [green, kidney]
+friendlyForm: dried
+antiTriple: sweet-fermented-mung
+antiBeans: [butter, adzuki]
+antiForm: smoked
 dish: Agedashi - edamame with bitter dashi and daikon.
 quote: In any bean moment of decision, the best thing you can do is the right thing.
 creature: falcon
-friendlyBeans: [green, kidney]
-antiBeans: [adzuki, mung]
-friendlyForm: dried
-antiForm: fermented
 seasonalFortune: A season for sharp oil and short pans. Daikon grates itself thin against the season; pods scorch before the doubt arrives. The almanac favors the cut already made over the cut still being weighed.
 fortuneMost: The deciding was done long ago.
 fortuneMost2: The rent, the route, the no — all three in one breath, and the room adjusts around the heat you brought.

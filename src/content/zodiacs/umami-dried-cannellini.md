@@ -6,13 +6,14 @@ form: dried
 trait: distinguished
 inverse: unremarkable
 excess: pompous
+friendlyBeans: [edamame, pinto]
+friendlyForm: boiled
+antiTriple: sweet-roasted-chickpea
+antiBeans: [adzuki, fava]
+antiForm: fermented
 dish: Ribollita - dried cannellini and bread soup with Parmesan rind and lacinato kale.
 quote: A bean is known by the company it keeps.
 creature: stag
-friendlyBeans: [edamame, pinto]
-antiBeans: [butter, chickpea]
-friendlyForm: boiled
-antiForm: roasted
 seasonalFortune: A pot left overnight thickens past stew into something with a name. The season rewards what has been kept long enough to be asked for by it.
 fortuneMost: Your bearing reaches the room before you do.
 fortuneMost2: A thing you made years ago is being quoted somewhere you'll never see.

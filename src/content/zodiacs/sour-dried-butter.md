@@ -7,13 +7,14 @@ form: dried
 trait: chastened
 inverse: brazen
 excess: self-castigating
+friendlyBeans: [navy, black]
+friendlyForm: boiled
+antiTriple: spicy-fried-kidney
+antiBeans: [green, chickpea]
+antiForm: fermented
 dish: Butter bean and sun-dried tomato salad with sherry vinegar.
 quote: Experience is simply the name we give our bean.
 creature: basset hound
-friendlyBeans: [navy, black]
-antiBeans: [green, pinto]
-friendlyForm: boiled
-antiForm: fried
 seasonalFortune: A pantry of sun-dried tomatoes keeps its lessons in folds. Sherry vinegar finds every place a hand once burned; the cook reaches for the jar more slowly each year.
 fortuneMost: Sherry vinegar finds every place a hand was cut.
 fortuneHigh: Check the tyres before you set off.

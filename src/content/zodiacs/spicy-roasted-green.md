@@ -6,13 +6,14 @@ form: roasted
 trait: optimistic
 inverse: downbeat
 excess: pollyannaish
+friendlyBeans: [kidney, fava]
+friendlyForm: fried
+antiTriple: sour-dried-fava
+antiBeans: [black, navy]
+antiForm: fermented
 dish: Gān biān sìjì dòu - Sichuan dry-fried green beans with chili bean paste and Sichuan pepper.
 quote: In the middle of every difficulty lies a beany opportunity.
 creature: robin
-friendlyBeans: [kidney, fava]
-antiBeans: [black, navy]
-friendlyForm: fried
-antiForm: dried
 seasonalFortune: A season for the dry-fried pod — heat first, water last, the cook trusting that something blistered keeps better than something stewed.
 fortuneMost: Fling the windows open and sweep the floor with enough certainty and the flat morning turns.
 fortuneMost2: The date inked before a single yes is the magnet.

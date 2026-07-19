@@ -6,13 +6,14 @@ form: fermented
 trait: perceptive
 inverse: imperceptive
 excess: hyperaware
+friendlyBeans: [mung, pinto]
+friendlyForm: smoked
+antiTriple: sweet-fried-edamame
+antiBeans: [navy, adzuki]
+antiForm: dried
 dish: Black beans with douchi sauce, Chinkiang vinegar, and garlic.
 quote: We don't see things as they are, we see them as bean.
 creature: harpy eagle
-friendlyBeans: [mung, pinto]
-antiBeans: [edamame, cannellini]
-friendlyForm: smoked
-antiForm: fried
 seasonalFortune: A jar of douchi darkens on the shelf, gathering meaning the cook did not put there. The season rewards what was left long enough to deepen.
 fortuneMost: You read it right months before anyone found the word for it. Let the verdict walk in without its dossier.
 fortuneMost2: Something in your week is sending a quiet signal, and you'll be the first to catch it.

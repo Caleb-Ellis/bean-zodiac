@@ -6,13 +6,14 @@ form: roasted
 trait: melancholy
 inverse: buoyant
 excess: morbid
+friendlyBeans: [butter, cannellini]
+friendlyForm: boiled
+antiTriple: spicy-fried-kidney
+antiBeans: [green, edamame]
+antiForm: dried
 dish: Roasted mung beans with fish sauce, lime leaves, and dried chilli.
 quote: Sadness is but a bean of the wall beside the window, through which your joy shall look out.
 creature: humpback
-friendlyBeans: [butter, cannellini]
-antiBeans: [edamame, green]
-friendlyForm: fermented
-antiForm: fried
 seasonalFortune: A season that roasts slowly and salts deeply. Fish sauce darkens in the pan; lime leaves stiffen as they cure. Sweetness, when it arrives, arrives late and brown.
 fortuneMost: Sit with the grief on purpose, in the chair you chose.
 fortuneMost2: Comb back through the old letters slowly, the way you'd walk a shoreline at low tide for what the water gave back.

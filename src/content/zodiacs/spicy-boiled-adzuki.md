@@ -6,13 +6,14 @@ form: boiled
 trait: spirited
 inverse: listless
 excess: rambunctious
+friendlyBeans: [kidney, mung]
+friendlyForm: roasted
+antiTriple: sour-smoked-cannellini
+antiBeans: [butter, fava]
+antiForm: fermented
 dish: Adzuki bean congee with gochugaru and soft-boiled egg.
 quote: You've gotta have bean.
 creature: colt
-friendlyBeans: [kidney, mung]
-antiBeans: [cannellini, butter]
-friendlyForm: roasted
-antiForm: smoked
 seasonalFortune: A season of slow simmer under bright pepper. The adzuki holds its color through long heat, and the year asks the same of those who carry it.
 fortuneMost: You are the heat under the day.
 fortuneMost2: When someone you love wins something small, make a scene of it.

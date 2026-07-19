@@ -6,13 +6,14 @@ form: boiled
 trait: pedantic
 inverse: freewheeling
 excess: fault-finding
+friendlyBeans: [cannellini, black]
+friendlyForm: dried
+antiTriple: sweet-roasted-fava
+antiBeans: [mung, chickpea]
+antiForm: fried
 dish: Senate bean soup - navy bean with ham hock, celery, and onion.
 quote: The bean is in the details.
 creature: cockatoo
-friendlyBeans: [cannellini, edamame]
-antiBeans: [mung, chickpea]
-friendlyForm: dried
-antiForm: roasted
 seasonalFortune: A season in which the hock gives up its salt slowly, and the small corrections — a leaf pulled, a skin lifted — set the shape of the pot.
 fortuneMost: Make the correction.
 fortuneMost2: A small thing you set precisely true is about to matter to someone who'll never know it was you.

@@ -6,13 +6,14 @@ form: fried
 trait: daring
 inverse: craven
 excess: devil-may-care
+friendlyBeans: [chickpea, edamame]
+friendlyForm: fermented
+antiTriple: bitter-boiled-butter
+antiBeans: [adzuki, navy]
+antiForm: smoked
 dish: Sfinci di fave — Sicilian fried dough puffs filled with sweetened fava bean paste and dusted with icing sugar.
 quote: Fortune befriends the bean.
 creature: panther
-friendlyBeans: [chickpea, edamame]
-antiBeans: [adzuki, navy]
-friendlyForm: fermented
-antiForm: boiled
 seasonalFortune: Oil at temperature, dough rising mid-air — a season that rewards the hand that drops without looking, and forgives the puff that splits.
 fortuneMost: Say it to their face before you've rehearsed it.
 fortuneMost2: Oil at temperature, dough dropping mid-air without a look down.

@@ -6,13 +6,14 @@ form: fried
 trait: distractible
 inverse: single-minded
 excess: scatterbrained
+friendlyBeans: [green, chickpea]
+friendlyForm: fermented
+antiTriple: umami-boiled-navy
+antiBeans: [butter, black]
+antiForm: dried
 dish: Pinto bean sopapillas — fried puffed pastry with sweet pinto bean paste inside, drizzled with honey at the table.
 quote: A bean divided against itself cannot bean.
 creature: sparrow
-friendlyBeans: [green, chickpea]
-antiBeans: [navy, butter]
-friendlyForm: fermented
-antiForm: boiled
 seasonalFortune: A season of puffed shells and many drizzles — the honey runs three directions before anyone agrees which plate to chase.
 fortuneMost: Four rough versions in one go, all shown to a friend — the fifth, the good one, tends to arrive while you're holding up the others.
 fortuneMost2: The honey runs three directions at once and you'll chase all of them, warmly.

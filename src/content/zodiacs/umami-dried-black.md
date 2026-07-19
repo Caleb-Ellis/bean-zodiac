@@ -7,13 +7,14 @@ form: dried
 trait: profound
 inverse: superficial
 excess: portentous
+friendlyBeans: [edamame, cannellini]
+friendlyForm: smoked
+antiTriple: sweet-roasted-adzuki
+antiBeans: [mung, chickpea]
+antiForm: fried
 dish: Feijoada - dried black beans slow-cooked with smoked pork, sausage, and ham.
 quote: Deep calls to bean.
 creature: sperm whale
-friendlyBeans: [fava, navy]
-antiBeans: [adzuki, mung]
-friendlyForm: smoked
-antiForm: roasted
 seasonalFortune: A pot left on low heat all afternoon teaches what the morning could not. The dark broth gathers slowly, and the cook who hurries the lid finds only salt.
 fortuneMost: The untamable sperm whale is indifferent to human struggle.
 fortuneHigh: Bones give up their marrow first.

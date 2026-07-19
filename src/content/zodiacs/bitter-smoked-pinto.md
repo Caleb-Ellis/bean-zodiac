@@ -6,13 +6,14 @@ form: smoked
 trait: intricate
 inverse: rudimentary
 excess: labyrinthine
+friendlyBeans: [cannellini, green]
+friendlyForm: roasted
+antiTriple: sweet-boiled-kidney
+antiBeans: [navy, fava]
+antiForm: roasted
 dish: Smoked pinto with bitter cacao, finely layered.
 quote: The bean is in the details.
 creature: nautilus
-friendlyBeans: [cannellini, green]
-antiBeans: [kidney, fava]
-friendlyForm: roasted
-antiForm: boiled
 seasonalFortune: Smoke moves through pinto in stages, each marbled vein taking the cacao at its own rate. A season for the long study, where surface flavour gives way to undercurrent.
 fortuneMost: Keep going past the clever version to the layer underneath it.
 fortuneMost2: Go back to the thing you've already reworked twice — the bitterness underneath hasn't surfaced yet.

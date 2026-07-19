@@ -99,6 +99,24 @@ a portrait, not a probe. Rewrite it as a moment.
 
 - **A moment, then an inclination.** "[Concrete situation]. [What you're inclined
   to do]." End there. Don't narrate what happens next or gloss why it's wise.
+- **Specific scene, general action — and the action still names concrete things.**
+  This is the balance the whole facet turns on. The *scene* is a particular,
+  pictured moment ("the cashier turns out to be someone you shared a house with
+  for two years"). The *action* is a recognizable habit, not a one-off cinematic
+  act — but "general" never means abstract. Name what the reader actually does or
+  says in concrete nouns: "you keep it to a few words," "content at the window,
+  chiming in only when there's something worth adding," "filling it with a story,
+  a question, or a random fact." **Reject the vague outcome-phrase** — "settle it
+  in a line," "leave with the one thing worth remembering," "say what needs
+  saying." Those describe a *result* and name nothing; the reader can't picture
+  the doing, so the line reads as nothing at all.
+- **Don't resolve it, and don't make the reader the villain.** A facet that lands
+  on a single sharp act with a named consequence ("you jump the ending with a
+  better story of your own — they don't try again") both pre-resolves the vote and
+  paints the reader badly. Keep the action a warm, ongoing inclination the reader
+  recognizes in themselves, with the outcome left for the button. Even the
+  opposite-trait poles read as recognition, never as "you're the kind of person
+  who does this rude thing."
 - **Second person, present, suspended.** "You see the chair in the window and buy
   it that afternoon — no list, no sleeping on it." Not "you bought," not "you
   always," not "the hand already knew."

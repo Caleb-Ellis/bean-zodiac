@@ -6,13 +6,14 @@ form: smoked
 trait: timeless
 inverse: dated
 excess: fossilized
+friendlyBeans: [butter, black]
+friendlyForm: boiled
+antiTriple: spicy-fermented-chickpea
+antiBeans: [pinto, fava]
+antiForm: fried
 dish: Boston baked beans - navy beans slow-cooked with smoked salt pork, molasses, and mustard.
 quote: Time is a flat bean.
 creature: aldabra tortoise
-friendlyBeans: [butter, cannellini]
-antiBeans: [chickpea, pinto]
-friendlyForm: dried
-antiForm: fermented
 seasonalFortune: A pot kept low through the long afternoon darkens by degrees; molasses and salt pork settle into the navy bean as the household forgets to hurry.
 fortuneMost: Add the next name to the old book in pen.
 fortuneMost2: A reunion is coming to the table that's stayed exactly as it always was — same dishes, same two old friends.

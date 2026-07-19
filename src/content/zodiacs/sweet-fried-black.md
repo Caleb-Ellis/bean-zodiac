@@ -6,13 +6,14 @@ form: fried
 trait: driven
 inverse: unmotivated
 excess: workaholic
+friendlyBeans: [edamame, fava]
+friendlyForm: dried
+antiTriple: umami-roasted-adzuki
+antiBeans: [pinto, butter]
+antiForm: fermented
 dish: Black bean and sweet plantain fritters — mashed black beans and ripe plantain fried together in rounds, crisp outside and sweet within.
 quote: Stay hungry, stay bean.
 creature: husky
-friendlyBeans: [edamame, kidney]
-antiBeans: [adzuki, butter]
-friendlyForm: dried
-antiForm: roasted
 seasonalFortune: A season the oil keeps running hot. Plantains ripen faster than the pan can take them, and the rounds leaving the skillet outpace the ones still mashing.
 fortuneMost: Finish the thing you keep circling, and keep the heat on the one building beside it.
 fortuneMost2: A stretch is coming where everything you start, you'll see through to the plate.

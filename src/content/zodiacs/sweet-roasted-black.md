@@ -6,13 +6,14 @@ form: roasted
 trait: resilient
 inverse: fragile
 excess: impervious
+friendlyBeans: [navy, butter]
+friendlyForm: boiled
+antiTriple: spicy-smoked-green
+antiBeans: [pinto, cannellini]
+antiForm: fermented
 dish: Cocoa-roasted black beans — black beans tossed in cocoa powder and sugar, roasted until cracked and bittersweet.
 quote: That which does not bean us makes us stronger.
 creature: opossum
-friendlyBeans: [navy, fava]
-antiBeans: [green, chickpea]
-friendlyForm: boiled
-antiForm: smoked
 seasonalFortune: A season of long heat and slow cocoa. Skins darken, sugars set, and the days arrive bittersweet — sturdier than they looked going in.
 fortuneMost: The thing you mourned and gave up for lost reopens this turn.
 fortuneMost2: Whatever cracked you didn't finish you. Sugar sets over the fracture; you come out bittersweet and sturdier than you went in.

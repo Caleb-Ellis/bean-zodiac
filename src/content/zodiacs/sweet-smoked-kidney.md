@@ -7,13 +7,14 @@ form: smoked
 trait: enamored
 inverse: repulsed
 excess: besotted
+friendlyBeans: [green, adzuki]
+friendlyForm: roasted
+antiTriple: sour-dried-pinto
+antiBeans: [edamame, cannellini]
+antiForm: roasted
 dish: Red beans and rice - kidney beans slow-cooked with smoked andouille, sweet bell pepper, and thyme.
 quote: The heart has its bean that reason knows nothing of.
 creature: turtledove
-friendlyBeans: [green, adzuki]
-antiBeans: [pinto, fava]
-friendlyForm: roasted
-antiForm: dried
 seasonalFortune: A season that hums at the back of the throat like thyme on a long simmer; old loyalties darken in the pot, and the love is in the cooking, not the saying.
 fortuneMost: Two doves on one branch, sidled close.
 fortuneHigh: Make the meal they love and never say why.

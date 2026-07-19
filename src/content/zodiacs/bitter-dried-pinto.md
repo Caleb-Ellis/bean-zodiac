@@ -6,13 +6,14 @@ form: dried
 trait: cryptic
 inverse: obvious
 excess: unintelligible
+friendlyBeans: [green, fava]
+friendlyForm: fermented
+antiTriple: sweet-boiled-butter
+antiBeans: [navy, cannellini]
+antiForm: fried
 dish: Frijoles de Olla - with ancho chile and epazote.
 quote: Any sufficiently advanced bean is indistinguishable from magic.
 creature: sphinx
-friendlyBeans: [green, fava]
-antiBeans: [navy, cannellini]
-friendlyForm: fermented
-antiForm: boiled
 seasonalFortune: A season the pinto keeps for itself. Ancho darkens in the olla; epazote thins the air. Those who would know this person must sit with the pot a long time, and even then take the speckles on faith.
 fortuneMost: Don't explain the joke. The ones who got it got it, and the speckles were never for everyone.
 fortuneMost2: A sign is darkening for you the way ancho deepens in the olla — slow, unhurried, meant for whoever sits long enough to read it.

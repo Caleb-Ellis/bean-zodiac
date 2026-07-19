@@ -6,13 +6,14 @@ form: boiled
 trait: agreeable
 inverse: disagreeable
 excess: servile
+friendlyBeans: [butter, adzuki]
+friendlyForm: roasted
+antiTriple: spicy-fried-edamame
+antiBeans: [green, black]
+antiForm: smoked
 dish: Chana dal halwa — split chickpeas boiled down with ghee and sugar into a dense, golden sweet.
 quote: Piglet noticed that even though he had a very small bean, it could hold a rather large amount of gratitude.
 creature: lamb
-friendlyBeans: [butter, adzuki]
-antiBeans: [edamame, black]
-friendlyForm: roasted
-antiForm: fried
 seasonalFortune: A long simmer over low heat; ghee loosens what was hard, sugar gilds what was plain. The year asks for softening, and softening is given freely, often before the asking.
 fortuneMost: You take whatever shape the night needs and call it ease — and the night is smoother for it.
 fortuneMost2: The easy yes at the end of the long thread is you, and you mean it every time.

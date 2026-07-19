@@ -6,13 +6,14 @@ form: smoked
 trait: atmospheric
 inverse: antiseptic
 excess: oppressive
+friendlyBeans: [mung, chickpea]
+friendlyForm: roasted
+antiTriple: spicy-dried-kidney
+antiBeans: [chickpea, edamame]
+antiForm: boiled
 dish: Texas smoked pinto beans with brisket drippings, chipotle, and epazote.
 quote: Wherever you go, there you bean.
 creature: heron
-friendlyBeans: [mung, chickpea]
-antiBeans: [kidney, fava]
-friendlyForm: roasted
-antiForm: dried
 seasonalFortune: A season that arrives by saturation rather than announcement. Hickory works into the rafters; brisket fat outlasts the fire. Rooms remember whoever last stood in them.
 fortuneMost: Long after you've gone, the place keeps your weather.
 fortuneMost2: You'll say almost nothing all evening and still be the thing people remember of it.

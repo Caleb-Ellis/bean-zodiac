@@ -6,13 +6,14 @@ form: boiled
 trait: literal-minded
 inverse: figurative
 excess: hyperliteral
+friendlyBeans: [butter, edamame]
+friendlyForm: dried
+antiTriple: bitter-fermented-chickpea
+antiBeans: [green, pinto]
+antiForm: smoked
 dish: Navy bean and escarole soup with lemon and Parmesan.
 quote: When I use a bean, it means just what I choose it to mean — neither more nor less.
 creature: parrot
-friendlyBeans: [butter, edamame]
-antiBeans: [chickpea, kidney]
-friendlyForm: dried
-antiForm: fermented
 seasonalFortune: A season of bright broth and named parts. Escarole keeps its bitterness, lemon its edge, Parmesan its salt. Nothing borrows a flavour it has not earned.
 fortuneMost: It is exactly as it appears.
 fortuneMost2: Answer the question you were actually asked.

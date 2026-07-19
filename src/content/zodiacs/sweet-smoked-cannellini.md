@@ -6,13 +6,14 @@ form: smoked
 trait: delicate
 inverse: rugged
 excess: frail
+friendlyBeans: [black, navy]
+friendlyForm: dried
+antiTriple: spicy-roasted-fava
+antiBeans: [adzuki, kidney]
+antiForm: fried
 dish: Fagioli al fiasco - cannellini baked in a flask with smoked guanciale, sweet Vin Santo, and sage.
 quote: The most beautiful things in the world cannot be seen or bean — they must be felt with the heart.
 creature: dragonfly
-friendlyBeans: [black, navy]
-antiBeans: [kidney, fava]
-friendlyForm: dried
-antiForm: roasted
 seasonalFortune: A season inside the flask. Sweetness comes slowly under low smoke, and the year asks for a lighter hand than most are willing to lend it.
 fortuneMost: The smallest motion you make — a gift handed over in both hands, a glass lifted by the stem — is the one someone will remember.
 fortuneMost2: A near-stranger will feel noticed by you in a way they can't name, and carry it home like warmth in a flask.

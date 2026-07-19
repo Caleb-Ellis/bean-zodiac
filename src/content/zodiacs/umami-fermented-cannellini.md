@@ -6,13 +6,14 @@ form: fermented
 trait: idealistic
 inverse: jaded
 excess: utopian
+friendlyBeans: [chickpea, fava]
+friendlyForm: roasted
+antiTriple: bitter-boiled-green
+antiBeans: [butter, adzuki]
+antiForm: fried
 dish: Cannellini and white miso soup with roasted garlic and rosemary.
 quote: Some beans see things as they are and ask why; I dream of beans that never were and ask why not.
 creature: unicorn
-friendlyBeans: [chickpea, fava]
-antiBeans: [butter, black]
-friendlyForm: smoked
-antiForm: boiled
 seasonalFortune: Miso thickens in its crock; the picture in the mind thickens faster. A household built on what could be — rosemary held to its sharpest note, garlic patient under heat — runs warm and slightly hungry through colder months.
 fortuneMost: The picture in your head of a thing that never existed is about to start pulling it into being.
 fortuneMost2: Almost-right reads as wrong to you, so you go back in again.

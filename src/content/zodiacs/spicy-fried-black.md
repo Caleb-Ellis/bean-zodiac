@@ -6,13 +6,14 @@ form: fried
 trait: relentless
 inverse: intermittent
 excess: unremitting
+friendlyBeans: [navy, kidney]
+friendlyForm: dried
+antiTriple: umami-roasted-adzuki
+antiBeans: [mung, chickpea]
+antiForm: fermented
 dish: Tostadas de frijoles negros - fried tortillas with spiced black bean paste and salsa roja.
 quote: If you're going through bean hell, keep going.
 creature: mako shark
-friendlyBeans: [navy, kidney]
-antiBeans: [adzuki, mung]
-friendlyForm: dried
-antiForm: roasted
 seasonalFortune: Oil stays hot long after the burner is off; the paste goes on blackening in its own heat. A life lived at that residual temperature — finished things still cooking themselves.
 fortuneMost: The road runs a mile past the plan and the clock tires before your legs do. This is your weather — keep walking.
 fortuneMost2: The oil is still hot when the burner's off. Whatever they called finished, you keep it cooking.

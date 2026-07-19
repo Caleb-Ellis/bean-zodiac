@@ -6,13 +6,14 @@ form: fried
 trait: fearless
 inverse: fearful
 excess: gung-ho
+friendlyBeans: [chickpea, edamame]
+friendlyForm: fermented
+antiTriple: umami-boiled-cannellini
+antiBeans: [navy, pinto]
+antiForm: fermented
 dish: Ta'amiya - fava bean falafel with bitter herb tahini and pickled turnip.
 quote: Do the thing you are afraid to do, and the bean of fear is certain.
 creature: badger
-friendlyBeans: [chickpea, edamame]
-antiBeans: [cannellini, navy]
-friendlyForm: fermented
-antiForm: boiled
 seasonalFortune: Oil at temperature does not negotiate; the herb crashes in green and bitter and stays. The almanac reads hot this stretch — hesitation scorches faster than commitment.
 fortuneMost: Walk in with empty hands.
 fortuneMost2: A door propped onto an unlit corridor, and what you're after waits at the far end.

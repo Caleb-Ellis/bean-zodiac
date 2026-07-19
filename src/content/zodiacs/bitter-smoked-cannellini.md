@@ -6,13 +6,14 @@ form: smoked
 trait: hermetic
 inverse: porous
 excess: reclusive
+friendlyBeans: [black, butter]
+friendlyForm: dried
+antiTriple: sweet-roasted-green
+antiBeans: [adzuki, kidney]
+antiForm: fried
 dish: Smoked cannellini with bitter fennel, sealed.
 quote: I want to bean alone.
 creature: snail
-friendlyBeans: [black, butter]
-antiBeans: [adzuki, chickpea]
-friendlyForm: dried
-antiForm: roasted
 seasonalFortune: A season cured behind glass. The smoke pools where the fennel was laid down, and the household measures its hours by what stays sealed rather than what arrives.
 fortuneMost: The quiet you sealed up years ago is about to pay you back.
 fortuneMost2: A household with precisely the people you meant in it, humming beautifully shut.

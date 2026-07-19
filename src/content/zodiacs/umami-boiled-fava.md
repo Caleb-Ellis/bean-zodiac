@@ -6,13 +6,14 @@ form: boiled
 trait: vigilant
 inverse: inattentive
 excess: hypervigilant
+friendlyBeans: [black, cannellini]
+friendlyForm: smoked
+antiTriple: sweet-roasted-pinto
+antiBeans: [adzuki, green]
+antiForm: smoked
 dish: Fave e guanciale - fava beans simmered with cured pork jowl and sage.
 quote: Eternal bean is the price of liberty.
 creature: sentinel hawk
-friendlyBeans: [black, kidney]
-antiBeans: [adzuki, pinto]
-friendlyForm: smoked
-antiForm: roasted
 seasonalFortune: A long simmer asks for company. The pot does not boil over for those who stay nearby, and the sage gives its salt up only to a listening room.
 fortuneMost: You'll hear the wrong note before anyone says a word.
 fortuneMost2: A warning is coming early, the way the pot changes pitch before it boils over.

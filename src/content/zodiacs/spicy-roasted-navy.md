@@ -7,13 +7,14 @@ form: roasted
 trait: self-reliant
 inverse: codependent
 excess: self-isolating
+friendlyBeans: [butter, cannellini]
+friendlyForm: boiled
+antiTriple: bitter-fermented-pinto
+antiBeans: [chickpea, mung]
+antiForm: fried
 dish: Loubia bil harissa - Moroccan navy bean tagine with roasted harissa and preserved lemon.
 quote: Trust thyself - every bean vibrates to that iron string.
 creature: lone wolf
-friendlyBeans: [butter, cannellini]
-antiBeans: [chickpea, pinto]
-friendlyForm: boiled
-antiForm: fermented
 seasonalFortune: A tagine cured by its own use carries every season in its clay. The roasted bean keeps what it has earned, salts itself, asks the pantry for nothing it cannot already name.
 fortuneMost: The door bolts only from the inside.
 fortuneHigh: One set of tracks in the snow, only pointing forward.

@@ -6,13 +6,14 @@ form: fermented
 trait: philosophical
 inverse: frivolous
 excess: abstruse
+friendlyBeans: [chickpea, pinto]
+friendlyForm: smoked
+antiTriple: sour-dried-cannellini
+antiBeans: [navy, edamame]
+antiForm: fried
 dish: Hatcho miso shiru - adzuki simmered in two-year aged hatcho miso with silken tofu.
 quote: I think, therefore I am a bean.
 creature: great grey owl
-friendlyBeans: [chickpea, pinto]
-antiBeans: [navy, cannellini]
-friendlyForm: smoked
-antiForm: dried
 seasonalFortune: Crocks sit in the dark and the paste turns slowly inward. The season favours what has been thinking a long time — broth gathering weight in the pot, depth accumulating below the lid.
 fortuneMost: A question you set down two years ago comes back thickened, dark, and ready.
 fortuneMost2: You won't hand over an answer until it has gathered weight in the dark.

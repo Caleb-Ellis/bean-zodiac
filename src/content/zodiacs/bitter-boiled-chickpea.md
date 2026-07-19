@@ -6,13 +6,14 @@ form: boiled
 trait: versatile
 inverse: limited
 excess: overstretched
+friendlyBeans: [fava, cannellini]
+friendlyForm: smoked
+antiTriple: sour-dried-butter
+antiBeans: [edamame, navy]
+antiForm: fried
 dish: Revithia - chickpeas with bitter lemon and fresh herbs.
 quote: A bean is the most versatile of tools.
 creature: raccoon dog
-friendlyBeans: [fava, cannellini]
-antiBeans: [edamame, navy]
-friendlyForm: smoked
-antiForm: dried
 seasonalFortune: A lemon halved many ways still bleeds the same brightness into the pot. The broth lengthens to suit whichever herb arrives; the bean accepts each season's bitterness in turn.
 fortuneMost: Somewhere unfamiliar is about to open up, and you'll have its rhythm before the others find the door.
 fortuneMost2: A problem outside your field is no obstacle; you'll be fluent in it before the bean is soft.

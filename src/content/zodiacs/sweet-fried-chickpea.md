@@ -6,13 +6,14 @@ form: fried
 trait: funny
 inverse: mirthless
 excess: buffoonish
+friendlyBeans: [adzuki, pinto]
+friendlyForm: roasted
+antiTriple: bitter-boiled-black
+antiBeans: [navy, cannellini]
+antiForm: dried
 dish: Chickpea flour churros — crispy strips of fried besan batter rolled in sugar and dipped in dark chocolate.
 quote: If you want to tell beans the truth, make them laugh, otherwise they'll kill you.
 creature: kookaburra
-friendlyBeans: [fava, adzuki]
-antiBeans: [black, cannellini]
-friendlyForm: roasted
-antiForm: boiled
 seasonalFortune: A season of batter meeting hot fat — what was heavy goes weightless, the sugar finds the crust before the oil has finished its noise.
 fortuneMost: Name what's wrong with a heavy day in one sentence and watch the grim hush break where you stand.
 fortuneMost2: A week of weightless things ahead, the heavy ones rolled in sugar so the room can swallow them.

@@ -6,13 +6,14 @@ form: dried
 trait: faithful
 inverse: treacherous
 excess: slavish
+friendlyBeans: [green, mung]
+friendlyForm: boiled
+antiTriple: sour-fermented-pinto
+antiBeans: [fava, chickpea]
+antiForm: smoked
 dish: Rajma masala - dried kidney beans in spiced onion-tomato gravy.
 quote: The bean that burns twice as bright burns half as long.
 creature: collie
-friendlyBeans: [green, mung]
-antiBeans: [pinto, fava]
-friendlyForm: boiled
-antiForm: fermented
 seasonalFortune: A season of long reductions. The gravy darkens by inches, the onions surrender their water in their own time, and what is begun in this house is finished in this house.
 fortuneMost: Stay with it a month past where a sensible person would have quit.
 fortuneMost2: An old friend will come back, and you'll answer at the same speed you would have at nineteen.

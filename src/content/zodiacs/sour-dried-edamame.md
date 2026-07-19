@@ -6,13 +6,14 @@ form: dried
 trait: pointed
 inverse: rambling
 excess: stinging
+friendlyBeans: [green, fava]
+friendlyForm: fried
+antiTriple: umami-fermented-mung
+antiBeans: [chickpea, kidney]
+antiForm: roasted
 dish: Dried edamame with ponzu and toasted sesame.
 quote: The pen is mightier than the bean.
 creature: stingray
-friendlyBeans: [green, fava]
-antiBeans: [adzuki, mung]
-friendlyForm: fried
-antiForm: fermented
 seasonalFortune: Ponzu sharpens in the bowl as the pod dries. A season for short sentences; the citrus does the rest.
 fortuneMost: Ask aloud the question the whole table has been circling, and watch the evening finally move.
 fortuneMost2: One clean sentence names the flaw while the polite nodding still holds, and everyone gets to stop pretending.

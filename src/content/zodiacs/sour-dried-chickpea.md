@@ -6,13 +6,14 @@ form: dried
 trait: wry
 inverse: humorless
 excess: acid
+friendlyBeans: [green, cannellini]
+friendlyForm: smoked
+antiTriple: sweet-roasted-mung
+antiBeans: [adzuki, butter]
+antiForm: boiled
 dish: Balila - chickpeas with dried black lime and olive oil.
 quote: History doesn't repeat itself, but it does bean.
 creature: western jackdaw
-friendlyBeans: [green, cannellini]
-antiBeans: [adzuki, mung]
-friendlyForm: smoked
-antiForm: roasted
 seasonalFortune: Black lime keeps its tartness past every season; the years pucker the skin and sharpen what's left inside.
 fortuneMost: Say the joke that's too true.
 fortuneMost2: The dry line lives in the one detail nobody else would have thought to name.

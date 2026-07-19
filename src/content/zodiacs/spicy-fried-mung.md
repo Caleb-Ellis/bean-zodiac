@@ -6,13 +6,14 @@ form: fried
 trait: high-strung
 inverse: laid-back
 excess: overstrung
+friendlyBeans: [cannellini, pinto]
+friendlyForm: fermented
+antiTriple: sour-dried-butter
+antiBeans: [adzuki, edamame]
+antiForm: roasted
 dish: Bindaetteok — Korean mung bean pancake with kimchi and gochugaru.
 quote: Beans cannot endure either perfect solitude or perfect society.
 creature: whippet
-friendlyBeans: [cannellini, pinto]
-antiBeans: [adzuki, kidney]
-friendlyForm: fermented
-antiForm: dried
 seasonalFortune: The griddle stays hot under the spicy-fried mung; small sounds carry far in such a kitchen. A year spent ready for the next spit of oil.
 fortuneMost: You feel the buzz through the wood before anyone else hears a thing.
 fortuneMost2: Tuned to a frequency the rest of the room can't pick up, you catch it all at once.

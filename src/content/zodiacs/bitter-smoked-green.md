@@ -6,13 +6,14 @@ form: smoked
 trait: eerie
 inverse: mundane
 excess: spine-chilling
+friendlyBeans: [edamame, kidney]
+friendlyForm: fried
+antiTriple: umami-boiled-adzuki
+antiBeans: [butter, mung]
+antiForm: roasted
 dish: Smoked green bean with bitter elderflower and char.
 quote: Something is rotten in the bean of Denmark.
 creature: loon
-friendlyBeans: [edamame, kidney]
-antiBeans: [adzuki, butter]
-friendlyForm: fried
-antiForm: boiled
 seasonalFortune: A season threaded with elderflower and ash. The smoked green bean keeps its snap in rooms where the source of the smell cannot be named.
 fortuneMost: You'll already be there when the thing arrives, and the day will rearrange itself around you and call it luck.
 fortuneMost2: A friend's voice hasn't gone thin yet, but you can feel it coming.

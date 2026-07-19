@@ -6,13 +6,14 @@ form: boiled
 trait: careful
 inverse: careless
 excess: fastidious
+friendlyBeans: [butter, cannellini]
+friendlyForm: smoked
+antiTriple: spicy-fried-edamame
+antiBeans: [pinto, green]
+antiForm: roasted
 dish: Mung bean and bitter melon soup.
 quote: Measure twice, bean once.
 creature: deer
-friendlyBeans: [butter, cannellini]
-antiBeans: [kidney, edamame]
-friendlyForm: smoked
-antiForm: fried
 seasonalFortune: A life kept at low simmer. The bitterness in the pot is given its hour to soften; nothing is dished before the broth has finished saying what it means.
 fortuneMost: A thing in your keeping simply doesn't go wrong.
 fortuneMost2: You'll spot the missing step that would have tripped someone, well before they reach it.

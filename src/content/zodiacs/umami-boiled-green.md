@@ -6,13 +6,14 @@ form: boiled
 trait: prolific
 inverse: unproductive
 excess: overproductive
+friendlyBeans: [kidney, edamame]
+friendlyForm: fried
+antiTriple: sweet-smoked-mung
+antiBeans: [butter, cannellini]
+antiForm: roasted
 dish: Ohitashi - green beans blanched and dressed with dashi and bonito flake.
 quote: Quantity produces bean quality.
 creature: vole
-friendlyBeans: [edamame, kidney]
-antiBeans: [butter, mung]
-friendlyForm: fried
-antiForm: smoked
 seasonalFortune: A season when the pot never quite empties — one batch of dashi feeds the next, bonito drifts down on yesterday's bones, and the kitchen keeps producing whether anyone asks for it.
 fortuneMost: Start the next one before the last bowl is washed.
 fortuneMost2: One of the many things you've got going is about to come good all at once.

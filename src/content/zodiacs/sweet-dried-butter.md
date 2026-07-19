@@ -7,13 +7,14 @@ form: dried
 trait: serene
 inverse: agitated
 excess: vacant
+friendlyBeans: [navy, adzuki]
+friendlyForm: boiled
+antiTriple: spicy-fried-kidney
+antiBeans: [green, fava]
+antiForm: fermented
 dish: Butter bean and honey semifreddo — dried butter beans cooked to silk and folded into whipped honey cream, then frozen.
 quote: Peace begins with bean.
 creature: white crane
-friendlyBeans: [navy, adzuki]
-antiBeans: [kidney, green]
-friendlyForm: boiled
-antiForm: fried
 seasonalFortune: Honey lowers into cream the colour of pale evening; the freezer keeps its long counsel, and a household sets without anyone tending it.
 fortuneMost: A still pond, not even a breeze.
 fortuneHigh: Let it land hot.

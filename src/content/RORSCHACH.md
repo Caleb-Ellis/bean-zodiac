@@ -39,8 +39,13 @@ offer and its emotional temperature, not a switch to an unrelated picture.
   no obvious trait freight. The trait-aligned one nudges the reading toward the trait
   expression at that tier without naming it.
 - **Form**: a noun phrase or short clause. No leading verb. No `You...`. The user is
-  describing what they see, not what they'd do.
-- **Length**: short. Three to seven words is the target.
+  describing what they see, not what they'd do. **Prefer the plainest shape that works —
+  a simple `a {adjective} {noun}` ("a seated monk", "a brilliant fountain") over a longer
+  clause with participles, prepositions, or a trailing "mid-ring" / "spreading wide"
+  qualifier.** Reach for the longer form only when no single adjective carries the reading;
+  the extra words should earn their place, not decorate.
+- **Length**: short. Two to five words is the target; the bare `a {adjective} {noun}` is
+  ideal.
 - **No trailing full stops.**
 - Trait alignment lives in the _content_ of what's pictured, not in adjectives about it.
 - **Commit to a specific noun.** Name the actual thing seen — a heron, an anvil, a votive

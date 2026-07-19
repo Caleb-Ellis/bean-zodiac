@@ -6,13 +6,14 @@ form: smoked
 trait: sardonic
 inverse: warmhearted
 excess: sneering
+friendlyBeans: [green, chickpea]
+friendlyForm: roasted
+antiTriple: sweet-boiled-navy
+antiBeans: [mung, edamame]
+antiForm: fried
 dish: Frijoles borrachos al mezcal - smoked pinto beans with mezcal, orange, and pasilla chile
 quote: Outside of a bean, a dog is a man's best friend. Inside of a bean, it's too dark to read.
 creature: hyena
-friendlyBeans: [green, chickpea]
-antiBeans: [navy, fava]
-friendlyForm: roasted
-antiForm: boiled
 seasonalFortune: A pot smoked over pasilla keeps its commentary low. The season favours those who watch the room before they enter it, and who answer questions a half-beat late.
 fortuneMost: Seven words, then quiet before the eighth — the eighth would've been the apology.
 fortuneMost2: The thing nobody wanted named, named in one dry line, and then the silence.

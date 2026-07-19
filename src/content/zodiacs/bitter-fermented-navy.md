@@ -6,13 +6,14 @@ form: fermented
 trait: bookish
 inverse: streetwise
 excess: cloistered
+friendlyBeans: [butter, black]
+friendlyForm: boiled
+antiTriple: spicy-roasted-fava
+antiBeans: [chickpea, kidney]
+antiForm: fried
 dish: Senate Bean Soup - with aged ham and bitter dandelion greens.
 quote: Outside of a bean, a book is a man's best friend. Inside of a bean, it is too dark to read.
 creature: silverfish
-friendlyBeans: [butter, black]
-antiBeans: [fava, kidney]
-friendlyForm: boiled
-antiForm: roasted
 seasonalFortune: A long-cured broth deepens in the dark of the pantry; private reading thickens into something a stranger's spoon will eventually want to taste.
 fortuneMost: The book you abandoned partway through holds the exact sentence you've been needing.
 fortuneMost2: The through-line you've chased across forty open tabs is about to surface.

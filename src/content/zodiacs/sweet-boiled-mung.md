@@ -6,13 +6,14 @@ form: boiled
 trait: nurturing
 inverse: neglectful
 excess: coddling
+friendlyBeans: [butter, cannellini]
+friendlyForm: smoked
+antiTriple: spicy-fried-green
+antiBeans: [edamame, pinto]
+antiForm: fermented
 dish: Chè đậu xanh — whole mung beans simmered in coconut milk and palm sugar with a knot of pandan leaf.
 quote: It takes a village to raise a bean.
 creature: hen
-friendlyBeans: [butter, cannellini]
-antiBeans: [green, pinto]
-friendlyForm: smoked
-antiForm: fried
 seasonalFortune: A long pot keeps its own quiet weather; the pandan steeps, the sugar yields, and the room around it slowly softens without announcement.
 fortuneMost: Tend the small invisible thing — the plant no one waters, the friend no one's asked after — and tell nobody you did.
 fortuneMost2: You feed people the moment they sit, before they'll admit they came hungry.

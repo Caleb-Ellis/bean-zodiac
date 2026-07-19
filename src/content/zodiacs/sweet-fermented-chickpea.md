@@ -6,13 +6,14 @@ form: fermented
 trait: empathetic
 inverse: unfeeling
 excess: overinvolved
+friendlyBeans: [green, mung]
+friendlyForm: smoked
+antiTriple: sour-dried-edamame
+antiBeans: [navy, cannellini]
+antiForm: boiled
 dish: Fermented chickpea flour cake — gram flour batter left to ferment overnight, baked with raw honey and orange zest into a dense, fragrant loaf.
 quote: Could a greater bean miracle take place than for us to look through each other's eyes for an instant?
 creature: beluga
-friendlyBeans: [green, mung]
-antiBeans: [navy, edamame]
-friendlyForm: smoked
-antiForm: dried
 seasonalFortune: The batter takes a week's mood into itself overnight. A life shaped by the rooms it rises in, sweet where someone leaned close, dense where the air went thin.
 fortuneMost: Reach for the friend you keep thinking about.
 fortuneMost2: Whoever's shoulders went up at the table — you clocked it before a word.

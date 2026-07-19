@@ -7,13 +7,14 @@ form: dried
 trait: terse
 inverse: verbose
 excess: curt
+friendlyBeans: [black, cannellini]
+friendlyForm: smoked
+antiTriple: sweet-roasted-adzuki
+antiBeans: [butter, mung]
+antiForm: fermented
 dish: Edamame hummus with preserved lemon.
 quote: Less is bean.
 creature: rook
-friendlyBeans: [black, cannellini]
-antiBeans: [adzuki, pinto]
-friendlyForm: smoked
-antiForm: roasted
 seasonalFortune: A season cured down to its rind. The pod has shrunk to a stone, the lemon to a salt, and what remains keeps without speaking.
 fortuneMost: Remove it.
 fortuneHigh: Cut it in half.

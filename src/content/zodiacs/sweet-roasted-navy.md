@@ -6,13 +6,14 @@ form: roasted
 trait: conventional
 inverse: outlandish
 excess: hidebound
+friendlyBeans: [black, butter]
+friendlyForm: dried
+antiTriple: spicy-fermented-chickpea
+antiBeans: [green, pinto]
+antiForm: fried
 dish: Maple and sea salt roasted navy beans — white beans roasted until caramelised, finished with a drizzle of cold maple syrup.
 quote: A bean in time saves nine.
 creature: pigeon
-friendlyBeans: [black, butter]
-antiBeans: [chickpea, fava]
-friendlyForm: dried
-antiForm: fermented
 seasonalFortune: The oven runs the standard hour at the standard heat. Sweetness gathers under a familiar crust; what comes out is what was meant to come out, and the table sets itself around it.
 fortuneMost: The expected dish, the expected plate, the expected hour.
 fortuneMost2: Pick the bottle you always buy.

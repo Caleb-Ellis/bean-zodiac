@@ -7,13 +7,14 @@ form: roasted
 trait: witty
 inverse: witless
 excess: smart-alecky
+friendlyBeans: [chickpea, pinto]
+friendlyForm: smoked
+antiTriple: sour-boiled-mung
+antiBeans: [black, butter]
+antiForm: smoked
 dish: Roasted edamame with bitter lemon zest and smoked paprika.
 quote: A bean is a terrible thing to waste.
 creature: laughing kookaburra
-friendlyBeans: [chickpea, pinto]
-antiBeans: [mung, cannellini]
-friendlyForm: smoked
-antiForm: boiled
 seasonalFortune: A season of warm smoke threaded with cold zest. The air rewards the remark that arrives blistered at the edges and salted at the center, never the one shouted plain.
 fortuneMost: Win the laugh, lose the argument, call it a draw.
 fortuneHigh: Fear not at whom the kookaburra laughs — it laughs at thee.

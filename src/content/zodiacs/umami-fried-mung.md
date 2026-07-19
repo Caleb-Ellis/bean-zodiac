@@ -6,13 +6,14 @@ form: fried
 trait: serious
 inverse: jocular
 excess: grim
+friendlyBeans: [fava, kidney]
+friendlyForm: smoked
+antiTriple: sour-dried-cannellini
+antiBeans: [edamame, navy]
+antiForm: roasted
 dish: Bindaetteok - Korean mung bean pancakes with kimchi and soy dipping sauce.
 quote: Life is too important to be taken bean.
 creature: moose
-friendlyBeans: [fava, black]
-antiBeans: [edamame, pinto]
-friendlyForm: smoked
-antiForm: dried
 seasonalFortune: A season that asks for the long burner. Days settle the way oil settles in a cold pan — slowly, and toward the bottom.
 fortuneMost: Oil settling toward the bottom of a cold pan, slow and whole.
 fortuneMost2: A child asks the grave question — why the dog had to go — in the middle of the noise.

@@ -6,13 +6,14 @@ form: fried
 trait: spontaneous
 inverse: calculated
 excess: hare-brained
+friendlyBeans: [green, adzuki]
+friendlyForm: fermented
+antiTriple: bitter-dried-black
+antiBeans: [cannellini, navy]
+antiForm: boiled
 dish: Pakora - spiced chickpea fritters with green chili.
 quote: Life is either a daring adventure or no bean at all.
 creature: impala
-friendlyBeans: [green, adzuki]
-antiBeans: [black, cannellini]
-friendlyForm: fermented
-antiForm: dried
 seasonalFortune: Batter meets oil and decides everything at once; the kitchen runs on the clock of a sputtering pan. Cold mornings find this house already loud.
 fortuneMost: The yes leaves your mouth before the offer finishes, and it's the right yes.
 fortuneMost2: A spare seat, a moving train, a night nobody planned.

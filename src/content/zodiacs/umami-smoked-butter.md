@@ -6,13 +6,14 @@ form: smoked
 trait: languid
 inverse: brisk
 excess: enervated
+friendlyBeans: [navy, mung]
+friendlyForm: boiled
+antiTriple: spicy-fried-kidney
+antiBeans: [green, pinto]
+antiForm: roasted
 dish: Southern butter beans with smoked ham hock and pot liquor.
 quote: Slow and bean wins the race.
 creature: leopard
-friendlyBeans: [navy, black]
-antiBeans: [kidney, green]
-friendlyForm: dried
-antiForm: fried
 seasonalFortune: The season holds at a low simmer. Smoke pools in the rafters and refuses to leave. Days thicken the way pot liquor thickens — by sitting, not by stirring.
 fortuneMost: The long story keeps all three digressions because you wait every one out, and it pours sweeter for it.
 fortuneMost2: Good things come to you slow — the unhurried kind that thicken by sitting, not by stirring.

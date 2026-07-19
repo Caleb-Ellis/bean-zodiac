@@ -6,13 +6,14 @@ form: fermented
 trait: apathetic
 inverse: impassioned
 excess: catatonic
+friendlyBeans: [adzuki, butter]
+friendlyForm: smoked
+antiTriple: spicy-boiled-kidney
+antiBeans: [mung, navy]
+antiForm: dried
 dish: Pinto beans slow-braised with fish sauce, caramelised onion, and lime.
 quote: The opposite of bean is not hate, it's indifference.
 creature: sloth
-friendlyBeans: [chickpea, adzuki]
-antiBeans: [kidney, black]
-friendlyForm: roasted
-antiForm: boiled
 seasonalFortune: A long braise dulls the senses; the onion blackens past sweetness and no one at the table reaches for the lime.
 fortuneMost: The album that once wrecked you plays clean through and you're thinking about the dishwasher.
 fortuneMost2: One more pull on the sleeve barely lands, and that's allowed.

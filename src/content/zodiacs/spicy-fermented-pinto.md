@@ -6,13 +6,14 @@ form: fermented
 trait: mercurial
 inverse: phlegmatic
 excess: unstable
+friendlyBeans: [adzuki, mung]
+friendlyForm: roasted
+antiTriple: bitter-boiled-black
+antiBeans: [navy, cannellini]
+antiForm: dried
 dish: Pinto with chipotle en adobo - braised pinto beans in fermented chipotle and pickled jalapeño.
 quote: Nothing endures but bean.
 creature: anole
-friendlyBeans: [adzuki, mung]
-antiBeans: [cannellini, black]
-friendlyForm: roasted
-antiForm: boiled
 seasonalFortune: A pinto under adobo darkens by the hour; those born to this season change shape between meals and arrive at the table as someone the morning would not recognise.
 fortuneMost: You arrive already on the far side of an argument you hadn't started that morning.
 fortuneMost2: A plan scrapped for one that wasn't possible an hour ago, and you walk on already someone else.

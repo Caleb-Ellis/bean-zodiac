@@ -6,13 +6,14 @@ form: boiled
 trait: discerning
 inverse: undiscriminating
 excess: hairsplitting
+friendlyBeans: [mung, black]
+friendlyForm: fermented
+antiTriple: sweet-roasted-fava
+antiBeans: [butter, kidney]
+antiForm: fried
 dish: Cannellini and broccoli rabe soup.
 quote: The bean you refuse is as important as the bean you accept.
 creature: lynx
-friendlyBeans: [mung, black]
-antiBeans: [fava, butter]
-friendlyForm: fermented
-antiForm: roasted
 seasonalFortune: A season spent tasting before swallowing. The rabe blanched twice, the broth poured off and begun again — what remains has been chosen slowly.
 fortuneMost: The thing you've been politely turning over deserves your no.
 fortuneMost2: A clear yes from you is rarer than most people's, and it's coming for something that has truly earned it.

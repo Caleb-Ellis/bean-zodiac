@@ -6,13 +6,14 @@ form: dried
 trait: rigid
 inverse: supple
 excess: unbending
+friendlyBeans: [butter, adzuki]
+friendlyForm: boiled
+antiTriple: sour-smoked-mung
+antiBeans: [kidney, fava]
+antiForm: fried
 dish: Boston Baked Beans - with blackstrap molasses.
 quote: Rules are for the guidance of wise beans and the obedience of fools.
 creature: stick insect
-friendlyBeans: [butter, adzuki]
-antiBeans: [fava, chickpea]
-friendlyForm: boiled
-antiForm: smoked
 seasonalFortune: Molasses keeps through long cellars; the dried bean asks nothing of the season except the same low oven, the same hours, the same iron pot waiting on the same shelf.
 fortuneMost: Refuse the polite exception.
 fortuneMost2: A day that wants doing the long, proper way is coming, and you'll give it the full hours while others rush.

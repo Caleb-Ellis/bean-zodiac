@@ -6,13 +6,14 @@ form: smoked
 trait: acrid
 inverse: fragrant
 excess: caustic
+friendlyBeans: [black, pinto]
+friendlyForm: fermented
+antiTriple: sweet-roasted-kidney
+antiBeans: [chickpea, mung]
+antiForm: fried
 dish: Kimchi jjigae with smoked adzuki - adzuki bean stew with kimchi, tofu, and gochugaru
 quote: The bean is mightier than the sword.
 creature: skunk
-friendlyBeans: [black, pinto]
-antiBeans: [kidney, mung]
-friendlyForm: fermented
-antiForm: roasted
 seasonalFortune: A season cured in smoke and brine. The kitchen window stays cracked; what passes through it leaves a mark on the sill and a taste in the back of the throat.
 fortuneMost: The flaw reaches the room before you do, the way smoke arrives ahead of the fire.
 fortuneMost2: Brine doesn't ask permission to sting. It just keeps the thing from rotting, and so do you.

@@ -6,13 +6,14 @@ form: roasted
 trait: warm
 inverse: frosty
 excess: cloying
+friendlyBeans: [mung, butter]
+friendlyForm: fried
+antiTriple: spicy-smoked-black
+antiBeans: [edamame, kidney]
+antiForm: fermented
 dish: Miso-roasted adzuki with black sesame and mirin.
 quote: There's no better feeling in the world than a warm bean on your lap.
 creature: golden labrador
-friendlyBeans: [mung, pinto]
-antiBeans: [black, edamame]
-friendlyForm: fried
-antiForm: dried
 seasonalFortune: Miso deepens in the oven; the season runs long and low. Houses smell of sesame and slow heat, and the people inside grow patient with one another, kettles always within reach.
 fortuneMost: Make the four-hour braise for the one who'd never ask for it.
 fortuneMost2: A cold, uncertain stranger is walking toward your doorstep, and will leave it thawed.

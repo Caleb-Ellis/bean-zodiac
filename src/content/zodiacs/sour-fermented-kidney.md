@@ -6,13 +6,14 @@ form: fermented
 trait: defensive
 inverse: carefree
 excess: prickly
+friendlyBeans: [green, chickpea]
+friendlyForm: fried
+antiTriple: umami-boiled-butter
+antiBeans: [navy, adzuki]
+antiForm: dried
 dish: Red beans and rice - Louisiana style with fermented hot sauce and lime.
 quote: The best bean is the one already inside the fortress.
 creature: armadillo
-friendlyBeans: [green, chickpea]
-antiBeans: [butter, mung]
-friendlyForm: fried
-antiForm: boiled
 seasonalFortune: A season of sealed jars and tested lids. The brine sharpens, the rice waits beneath, and old hulls thicken against weather that has not yet arrived.
 fortuneMost: '"No, thanks" is a whole sentence.'
 fortuneMost2: You owe no one the favour, only the kindness of a direction.

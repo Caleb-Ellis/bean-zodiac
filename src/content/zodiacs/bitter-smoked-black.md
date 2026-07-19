@@ -6,14 +6,15 @@ form: smoked
 trait: scary
 inverse: comforting
 excess: petrifying
+friendlyBeans: [navy, fava]
+friendlyForm: dried
+antiTriple: sweet-roasted-adzuki
+antiBeans: [kidney, chickpea]
+antiForm: fried
 lastUpdated: 2026-07-05
 dish: Smoked black bean broth with charred onion and no garnish.
 quote: To be great is to be bean.
 creature: wendigo
-friendlyBeans: [navy, fava]
-antiBeans: [adzuki, kidney]
-friendlyForm: dried
-antiForm: roasted
 seasonalFortune: Smoke clings to a black broth long after the fire is out. The charred onion gives nothing away. A season spent darkening in the pot, without notice, without garnish.
 fortuneMost: A crowd will part for you.
 fortuneHigh: Smoke lingers long after the fire is out.

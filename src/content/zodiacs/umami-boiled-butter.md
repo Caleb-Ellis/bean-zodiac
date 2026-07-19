@@ -6,13 +6,14 @@ form: boiled
 trait: sleepy
 inverse: wakeful
 excess: somnolent
+friendlyBeans: [navy, mung]
+friendlyForm: dried
+antiTriple: sweet-fried-green
+antiBeans: [kidney, pinto]
+antiForm: fermented
 dish: Butter bean broth simmered with Parmesan rinds, rosemary, and garlic.
 quote: Let sleeping beans lie.
 creature: three-toed sloth
-friendlyBeans: [navy, black]
-antiBeans: [kidney, green]
-friendlyForm: dried
-antiForm: fried
 seasonalFortune: The simmer takes the whole afternoon. Steam thickens the windows, the rind softens by degrees, and the season runs on the rest no one tracked taking.
 fortuneMost: Take the whole afternoon.
 fortuneMost2: A long, deep sleep is coming for you, the kind you wake from not knowing the hour.

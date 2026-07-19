@@ -6,13 +6,14 @@ form: smoked
 trait: wordless
 inverse: loquacious
 excess: inarticulate
+friendlyBeans: [fava, butter]
+friendlyForm: fermented
+antiTriple: sour-boiled-pinto
+antiBeans: [adzuki, green]
+antiForm: roasted
 dish: Garbanzos con bacalao y pimentón ahumado - chickpeas with salt cod and smoked paprika.
 quote: Actions speak louder than bean.
 creature: koi
-friendlyBeans: [mung, fava]
-antiBeans: [pinto, adzuki]
-friendlyForm: fermented
-antiForm: boiled
 seasonalFortune: A season cured low and slow. Salt cod gives up its brine to the chickpea; paprika settles into corners; what passes between people this quarter travels by smoke, not by sentence.
 fortuneMost: An inch of the glass pushed closer says more than most manage in a speech.
 fortuneMost2: What passes between you and someone will travel by smoke, not by word, and it will arrive whole.

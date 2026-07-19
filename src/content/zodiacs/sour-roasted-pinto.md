@@ -6,13 +6,14 @@ form: roasted
 trait: aloof
 inverse: convivial
 excess: glacial
+friendlyBeans: [green, adzuki]
+friendlyForm: fermented
+antiTriple: sweet-boiled-navy
+antiBeans: [black, mung]
+antiForm: dried
 dish: Frijoles borrachos al horno - oven-roasted pinto beans with lime juice, jalapeño, and dark beer
 quote: I exist as I am — that is enough. If no other bean in the world be aware, I sit content.
 creature: cat
-friendlyBeans: [green, adzuki]
-antiBeans: [navy, black]
-friendlyForm: fermented
-antiForm: boiled
 seasonalFortune: A season of blistered skins and shut doors. The roast deepens what the lime had already separated; what these weeks ask of a person is the courage to remain unmixed.
 fortuneMost: The courage to stay unmixed is your strength this turn.
 fortuneMost2: Keep the one room no guest has entered.

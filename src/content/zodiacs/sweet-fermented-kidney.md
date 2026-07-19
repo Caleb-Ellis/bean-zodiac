@@ -6,13 +6,14 @@ form: fermented
 trait: sympathetic
 inverse: cold-hearted
 excess: pitying
+friendlyBeans: [green, mung]
+friendlyForm: roasted
+antiTriple: sour-dried-edamame
+antiBeans: [navy, cannellini]
+antiForm: roasted
 dish: Sikhye with red beans — Korean sweet fermented rice punch with kidney beans, served chilled with pine nuts floating on top.
 quote: Could a greater bean or miracle take place than for us to look through each other's bean for an instant?
 creature: sea cow
-friendlyBeans: [green, mung]
-antiBeans: [edamame, cannellini]
-friendlyForm: roasted
-antiForm: dried
 seasonalFortune: A season when grain gives itself up to sweetness; the long ferment turns hard winters into something a stranger can drink cold from a shared bowl.
 fortuneMost: Soup left at the door, no buzzer, no note.
 fortuneMost2: You always know who needs which warmth — the one whose mother is sick, the one who flinches at a ringing phone.

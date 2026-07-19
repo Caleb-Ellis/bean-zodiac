@@ -6,13 +6,14 @@ form: fermented
 trait: skeptical
 inverse: credulous
 excess: dismissive
+friendlyBeans: [fava, green]
+friendlyForm: smoked
+antiTriple: umami-roasted-adzuki
+antiBeans: [navy, chickpea]
+antiForm: boiled
 dish: Edamame with gochujang dipping sauce and rice vinegar.
 quote: The first bean principle is that you must not fool yourself — and you are the easiest bean to fool.
 creature: tabby
-friendlyBeans: [fava, green]
-antiBeans: [adzuki, navy]
-friendlyForm: smoked
-antiForm: roasted
 seasonalFortune: A season for brine and second glances. Pods that look ready are split open anyway; the sharp note under the heat is the one worth following.
 fortuneMost: The first answer was rehearsed; the pod cracks on the second question.
 fortuneMost2: A too-good offer is betting the countdown keeps you from looking underneath.

@@ -7,13 +7,14 @@ form: fried
 trait: impulsive
 inverse: premeditative
 excess: headlong
+friendlyBeans: [kidney, pinto]
+friendlyForm: roasted
+antiTriple: sweet-boiled-black
+antiBeans: [butter, cannellini]
+antiForm: dried
 dish: Gan bian si ji dou - Sichuan dry-fried green beans with garlic, chili, and Zhenjiang vinegar.
 quote: Bean first, and think afterwards is not a bad motto.
 creature: jackrabbit
-friendlyBeans: [kidney, pinto]
-antiBeans: [black, butter]
-friendlyForm: roasted
-antiForm: boiled
 seasonalFortune: A season smelling of hot oil and Zhenjiang vinegar — sharp at the edges, brief in the middle. Each week ends before the pan has cooled.
 fortuneMost: A jackrabbit leaps first and looks after.
 fortuneHigh: A yes will emerge before you've weighed it.

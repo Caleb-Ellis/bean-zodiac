@@ -6,13 +6,14 @@ form: fried
 trait: pragmatic
 inverse: starry-eyed
 excess: utilitarian
+friendlyBeans: [navy, cannellini]
+friendlyForm: boiled
+antiTriple: bitter-smoked-pinto
+antiBeans: [black, fava]
+antiForm: fermented
 dish: Butter bean and shiitake fritters with soy dipping sauce.
 quote: If it works, it's a bean.
 creature: draft ox
-friendlyBeans: [navy, cannellini]
-antiBeans: [pinto, fava]
-friendlyForm: boiled
-antiForm: fermented
 seasonalFortune: A season of hot oil and short answers. The shiitake gives up its water; what stays in the pan is what was always going to stay.
 fortuneMost: The shiitake gives up its water and what stays in the pan is what was always going to stay.
 fortuneMost2: The elaborate plan and the obvious one do the same job.

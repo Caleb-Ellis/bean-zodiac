@@ -7,13 +7,14 @@ form: boiled
 trait: guarded
 inverse: forthcoming
 excess: walled-off
+friendlyBeans: [black, butter]
+friendlyForm: smoked
+antiTriple: sour-roasted-pinto
+antiBeans: [chickpea, adzuki]
+antiForm: fried
 dish: Senate bean soup - navy bean with jalapeño and ham hock.
 quote: Good beans make good neighbours.
 creature: hermit crab
-friendlyBeans: [black, butter]
-antiBeans: [pinto, chickpea]
-friendlyForm: smoked
-antiForm: roasted
 seasonalFortune: A lidded pot keeps its own counsel. The navy bean steeps long in spiced broth before anyone tastes it; warmth thickens inwardly, and the year turns at the stove's pace.
 fortuneMost: The gate has rusted shut.
 fortuneHigh: Patience wears thin.

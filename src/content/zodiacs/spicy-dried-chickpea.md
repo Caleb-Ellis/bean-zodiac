@@ -6,13 +6,14 @@ form: dried
 trait: conductive
 inverse: insulating
 excess: overcharged
+friendlyBeans: [kidney, adzuki]
+friendlyForm: roasted
+antiTriple: umami-boiled-navy
+antiBeans: [butter, mung]
+antiForm: smoked
 dish: Harira - Moroccan chickpea soup with ras el hanout.
 quote: It only takes a bean to start a great fire.
 creature: electric eel
-friendlyBeans: [kidney, adzuki]
-antiBeans: [butter, black]
-friendlyForm: roasted
-antiForm: boiled
 seasonalFortune: One bowl of harira passes through a household and the cumin lingers in the curtains for weeks; the chickpea travels further than the spoon that carried it.
 fortuneMost: Wherever you go, something starts — an argument, a plan, the overdue talk.
 fortuneMost2: One bowl of soup and the cumin's in the curtains for weeks.

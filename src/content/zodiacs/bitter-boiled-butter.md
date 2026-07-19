@@ -6,13 +6,14 @@ form: boiled
 trait: composed
 inverse: flustered
 excess: stony
+friendlyBeans: [navy, black]
+friendlyForm: dried
+antiTriple: spicy-fried-edamame
+antiBeans: [chickpea, green]
+antiForm: roasted
 dish: Ribollita - butter beans and cavolo nero.
 quote: Do I contradict myself? Very well then, I contain beans.
 creature: crane
-friendlyBeans: [navy, black]
-antiBeans: [pinto, green]
-friendlyForm: dried
-antiForm: fried
 seasonalFortune: A season for low flame and long stock. The pot holds its line while the cavolo nero darkens and the beans give up nothing they were not ready to give.
 fortuneMost: When hard news lands, you finish the sentence you were saying.
 fortuneMost2: A still bean in a rolling pot is a good omen for everyone near it.

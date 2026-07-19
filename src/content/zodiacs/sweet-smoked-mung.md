@@ -6,13 +6,14 @@ form: smoked
 trait: unguarded
 inverse: self-protective
 excess: defenseless
+friendlyBeans: [butter, cannellini]
+friendlyForm: boiled
+antiTriple: sour-fried-green
+antiBeans: [edamame, adzuki]
+antiForm: roasted
 dish: Sakkarai pongal - sweet mung dal and rice pudding with smoked ghee, jaggery, and cardamom.
 quote: Speak what we bean, not what we ought to say.
 creature: spring lamb
-friendlyBeans: [butter, cannellini]
-antiBeans: [green, edamame]
-friendlyForm: boiled
-antiForm: fried
 seasonalFortune: A season the smoke moves through and out of, leaving rice softer than it found it. Rooms warm without anyone tracing the source.
 fortuneMost: The true thing you've been polishing into something safer wants out plain.
 fortuneMost2: Someone leaves a conversation with you slightly altered, having said the true thing for the first time in months.

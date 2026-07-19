@@ -6,13 +6,14 @@ form: fried
 trait: overachieving
 inverse: underachieving
 excess: self-destructive
+friendlyBeans: [edamame, kidney]
+friendlyForm: fermented
+antiTriple: bitter-smoked-butter
+antiBeans: [mung, cannellini]
+antiForm: boiled
 dish: Gan bian si ji dou - dry-fried green beans with pork mince, dried shrimp, and garlic.
 quote: Whatever you are, bean a good one.
 creature: dam beaver
-friendlyBeans: [edamame, kidney]
-antiBeans: [black, butter]
-friendlyForm: roasted
-antiForm: smoked
 seasonalFortune: A season for blistered skins and longer wok-work. The pan keeps asking for one more handful, and the hands keep finding it.
 fortuneMost: The pan keeps asking for one more handful and your hands keep finding it.
 fortuneMost2: The side, the starter, and the backup loaf, all in your arms at the door.

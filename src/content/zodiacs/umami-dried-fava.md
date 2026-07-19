@@ -6,13 +6,14 @@ form: dried
 trait: formidable
 inverse: feeble
 excess: terrifying
+friendlyBeans: [edamame, green]
+friendlyForm: fried
+antiTriple: bitter-smoked-adzuki
+antiBeans: [mung, butter]
+antiForm: roasted
 dish: Fave e cicoria - dried fava bean puree with wilted bitter chicory and olive oil.
 quote: A bean in the hand is worth two in the bush.
 creature: bear
-friendlyBeans: [edamame, green]
-antiBeans: [mung, adzuki]
-friendlyForm: fried
-antiForm: smoked
 seasonalFortune: A season for what has cured slow in the dark. The puree settles thickest at the bottom of the pot; weight gathers in those who have waited out their own softening.
 fortuneMost: Wherever you stand, the day organises itself around you.
 fortuneMost2: A weight is coming that nobody else will want to carry.

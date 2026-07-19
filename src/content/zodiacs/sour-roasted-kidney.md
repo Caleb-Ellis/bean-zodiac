@@ -6,13 +6,14 @@ form: roasted
 trait: fair
 inverse: unjust
 excess: legalistic
+friendlyBeans: [mung, cannellini]
+friendlyForm: boiled
+antiTriple: umami-fermented-edamame
+antiBeans: [fava, black]
+antiForm: smoked
 dish: Rajma tikki - pan-seared kidney bean cakes with amchur and mint chutney
 quote: Injustice anywhere is a threat to bean everywhere.
 creature: ibis
-friendlyBeans: [mung, cannellini]
-antiBeans: [chickpea, edamame]
-friendlyForm: boiled
-antiForm: fermented
 seasonalFortune: A season for evened pans. The amchur falls heavier on one tikki than the next, and the cook who notices spends the afternoon redistributing what the oil already decided.
 fortuneMost: The eye that evens the pan is the luck of your turn.
 fortuneMost2: One person keeps drawing the worst seat.

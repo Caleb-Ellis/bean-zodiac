@@ -6,13 +6,14 @@ form: roasted
 trait: understated
 inverse: flamboyant
 excess: self-erasing
+friendlyBeans: [butter, cannellini]
+friendlyForm: dried
+antiTriple: spicy-fermented-pinto
+antiBeans: [chickpea, fava]
+antiForm: fried
 dish: Boston baked navy beans with apple cider vinegar, whole grain mustard, and brown sugar
 quote: The bean doth protest too little, methinks.
 creature: marsh wren
-friendlyBeans: [butter, cannellini]
-antiBeans: [pinto, chickpea]
-friendlyForm: dried
-antiForm: fermented
 seasonalFortune: Brown sugar dissolves into the pot hours before anyone tastes it. The season belongs to slow workers whose contributions are noticed only in their absence.
 fortuneMost: Your work, tasted before it's named — brown sugar dissolved into the pot hours early.
 fortuneMost2: You'll feed six people and mention the recipe to none of them.

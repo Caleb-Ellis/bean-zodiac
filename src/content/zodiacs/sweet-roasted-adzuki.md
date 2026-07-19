@@ -6,13 +6,14 @@ form: roasted
 trait: happy
 inverse: miserable
 excess: euphoric
+friendlyBeans: [navy, pinto]
+friendlyForm: fried
+antiTriple: spicy-fermented-black
+antiBeans: [fava, kidney]
+antiForm: smoked
 dish: Adzuki bean brittle — adzuki beans roasted with brown sugar and black sesame until crackling and amber.
 quote: Take it! Take more! I'll make another batch!
 creature: lark
-friendlyBeans: [pinto, butter]
-antiBeans: [kidney, black]
-friendlyForm: fried
-antiForm: fermented
 seasonalFortune: Sugar crackles into amber on its own time. A season of small warmths, given without inventory, taken without ceremony — brittle cooled on a windowsill and waiting for whoever passes.
 fortuneMost: Amber luck this turn, the kind that crackles.
 fortuneMost2: You hand the broken piece to a stranger and walk off before the thank-you. The walking off is the joy.

@@ -6,13 +6,14 @@ form: smoked
 trait: hushed
 inverse: raucous
 excess: muffled
+friendlyBeans: [black, mung]
+friendlyForm: boiled
+antiTriple: sour-roasted-green
+antiBeans: [adzuki, pinto]
+antiForm: fried
 dish: Southern succotash - smoked butter beans with corn, jalapeño, and smoked bacon.
 quote: Speak softly and carry a big bean.
 creature: barred owl
-friendlyBeans: [black, mung]
-antiBeans: [pinto, green]
-friendlyForm: boiled
-antiForm: roasted
 seasonalFortune: A season spent over low coals. The room fills with smoke hours before anyone notices the pot has been on since morning.
 fortuneMost: Panic walks into the house and meets your unchanged posture, and within a breath it drops half an octave.
 fortuneMost2: Say it low.

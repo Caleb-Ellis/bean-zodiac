@@ -6,13 +6,14 @@ form: smoked
 trait: wary
 inverse: unsuspecting
 excess: suspicious
+friendlyBeans: [cannellini, black]
+friendlyForm: fermented
+antiTriple: umami-roasted-adzuki
+antiBeans: [navy, edamame]
+antiForm: boiled
 dish: Smoked chickpea shawarma wrap with sumac-marinated onions and pickled turnips
 quote: Beware the bean of March.
 creature: muntjac
-friendlyBeans: [cannellini, black]
-antiBeans: [adzuki, navy]
-friendlyForm: fermented
-antiForm: roasted
 seasonalFortune: A season cured in low smoke. Houses smell of sumac and vinegar, and the cook tastes everything twice before the wrap is folded shut.
 fortuneMost: Keep the spare key in your pocket a while longer.
 fortuneMost2: A new face holds you long after the others have drifted off — still listening, still measuring the crunch.

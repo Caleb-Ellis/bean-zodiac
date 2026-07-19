@@ -6,13 +6,14 @@ form: fried
 trait: assertive
 inverse: passive
 excess: domineering
+friendlyBeans: [edamame, kidney]
+friendlyForm: fermented
+antiTriple: umami-smoked-butter
+antiBeans: [mung, black]
+antiForm: fermented
 dish: Cannellini fritto with bitter lemon and flat-leaf parsley.
 quote: Here I stand. I can bean no other.
 creature: ram
-friendlyBeans: [edamame, kidney]
-antiBeans: [butter, mung]
-friendlyForm: fermented
-antiForm: smoked
 seasonalFortune: A season that rewards a crisped edge. The lemon cuts close to the rind, parsley laid down late, and what is said in the kitchen carries to the table without softening.
 fortuneMost: Lead with the real thing.
 fortuneMost2: When the table is circling the same wrong maybe, your plain word cuts clean as lemon on the rind.
