@@ -78,11 +78,11 @@ const ACCEPT_RULES: Record<QualityId, ScoreRule> = {
 };
 
 const RESIST_RULES: Record<QualityId, ScoreRule> = {
-  heirloom: { triple: -2, soft: -2, pole: "friendly" },
-  market: { triple: -2, soft: -1, pole: "friendly" },
-  garden: { triple: -1, soft: -1, pole: "friendly" },
-  stale: { triple: -1, soft: 0, pole: "anti" },
-  rotten: { triple: -1, soft: -1, pole: "anti" },
+  heirloom: { triple: -1, soft: 0, pole: "friendly" },
+  market: { triple: -1, soft: -1, pole: "friendly" },
+  garden: { triple: -2, soft: -1, pole: "friendly" },
+  stale: { triple: -1, soft: -1, pole: "anti" },
+  rotten: { triple: -1, soft: 0, pole: "anti" },
 };
 
 export const SPIRIT_DIFF_THRESHOLD = 10;

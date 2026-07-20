@@ -1,5 +1,6 @@
 ---
 slug: sour-roasted-navy
+lastUpdated: 2026-07-28
 bean: navy
 flavour: sour
 form: roasted
@@ -15,37 +16,32 @@ dish: Boston baked navy beans with apple cider vinegar, whole grain mustard, and
 quote: The bean doth protest too little, methinks.
 creature: marsh wren
 seasonalFortune: Brown sugar dissolves into the pot hours before anyone tastes it. The season belongs to slow workers whose contributions are noticed only in their absence.
-fortuneMost: Your work, tasted before it's named — brown sugar dissolved into the pot hours early.
-fortuneMost2: You'll feed six people and mention the recipe to none of them.
-fortuneHigh: Cut the answer to one line.
-fortuneHigh2: In by the side door, already two sentences into the help someone needed.
-fortuneMid: When the wrong person takes the credit, correct it once, flatly, and let it go.
-fortuneMid2: Say what you did only if asked, and keep the answer flat.
-fortuneLow: When the quiet hand reads as no hand at all, sign the page in pen.
-fortuneLow2: Being seen isn't the same as showing off.
-fortuneLeast: Restraint with no audience just curdles into a quieter vanity.
-fortuneLeast2: Walk someone through what you did, step by step.
+fortuneMost: The marsh wren sings all day from the reeds and is never once seen.
+fortuneHigh: Do the work well and say nothing.
+fortuneMid: Nobody thanks the vinegar, but they would notice it gone.
+fortuneLow: Take the credit when it's offered.
+fortuneLeast: Being seen isn't the same as showing off.
 facetMostTitle: Mustard Seed, No Thanks
-facetMost: You fix the broken gate on a neighbour's fence while they're out. No note, no knock — you pack up the tools and are gone before they're back.
+facetMost: It's your last shift at a place you've worked for five years, and the people there would happily have put on a send-off. You get to the end of it, hand your keys over, and go home without telling any of them you're not coming back.
 facetHighTitle: Cider Vinegar, No Ceremony
-facetHigh: A stranded driver on the verge needs a hand with a flat. You're crouched at the wheel and half-done before they've finished asking, no fuss made of it.
+facetHigh: You've spent two years restoring an old car, replacing parts, detailing the inside, painting it. It's finally done, and it looks and drives incredibly. A friend asks "how's it drive?". You tell them "pretty good".
 facetMidTitle: Long Bake, Short Word
-facetMid: Someone praises the wrong person for a thing you actually did. Asked outright later, you'll name your part — flat, once — but you won't go fishing to set it straight.
+facetMid: Someone stops you to say they love your coat, the one that cost a pretty penny but that you adore. You tell them it's alright, maybe a bit too expensive for what you get.
 facetLowTitle: The Pot Claims the Stove
-facetLow: The quiet hand you lent is reading as no hand at all, and the credit's drifting elsewhere. You sign your name to it plainly, so they see it was you.
+facetLow: A friend asks how the race went, and you finished it far better than you expected to. You take them right through it — the split times, the hill at the end, the two people you caught on it.
 facetLeastTitle: Sugar Before the First Sip
-facetLeast: A crowd's gathered and the thing you built is finally being shown. You step up and walk them through it part by part, in your own name, out loud.
-question: You quietly cleared the debt that had been crushing your brother, and at the next family lunch he still doesn't know it was you. You...
-answerMost: let him believe it sorted itself and never say a word
-answerHigh: tell him it's handled and leave out who handled it
-answerMid: tell him only if he asks directly, and keep it brief
-answerLow: let a small hint slip so someone connects it for him
-answerLeast: tell him over the starter, plainly, that it was you
-rorschachMost: a plain pebble worn smooth and grey
-rorschachHigh: a chestnut still half in its husk
-rorschachMid: a walnut sitting whole on a table
-rorschachLow: a pinecone bristling its scales outward
-rorschachLeast: a gilded brooch flashing every facet
+facetLeast: A news crew turns up at the bar to get some vox pop on the state of local music venues. The reporter asks who fancies talking. You're first to get in front of the camera to give them your full, undiluted thoughts on the matter.
+question: You've finally caved and started a dating profile, and it's asking you for photos and a few lines about yourself. You...
+answerMost: put up one photo of the dog and leave the rest blank
+answerHigh: add a plain photo and a flat line about what you do
+answerMid: pick a couple of decent photos and a line you spent a while on
+answerLow: choose your best angles and write it with a bit of swagger
+answerLeast: load up the lot, best photos first, and sell yourself hard
+rorschachMost: a moldy apple
+rorschachHigh: a pitted river stone
+rorschachMid: a torn loaf of bread
+rorschachLow: a scoop of icecream
+rorschachLeast: a curled lick of fire
 ---
 
 Chimichurri Navy Beans are the Bean Zodiac's most understated — they finish the work, leave it on the table, and walk out before anyone looks up. They feed six people and mention the recipe to none of them. The contribution gets noticed the way brown sugar gets noticed in baked beans: only later, only by absence.

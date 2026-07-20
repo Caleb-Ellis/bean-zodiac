@@ -5,7 +5,7 @@ flavour: sweet
 form: smoked
 trait: mystical
 inverse: prosaic
-excess: delusional
+excess: occultish
 friendlyBeans: [navy, fava]
 friendlyForm: fermented
 antiTriple: spicy-roasted-adzuki

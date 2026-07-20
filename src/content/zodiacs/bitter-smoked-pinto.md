@@ -1,5 +1,6 @@
 ---
 slug: bitter-smoked-pinto
+lastUpdated: 2026-07-24
 bean: pinto
 flavour: bitter
 form: smoked
@@ -15,37 +16,32 @@ dish: Smoked pinto with bitter cacao, finely layered.
 quote: The bean is in the details.
 creature: nautilus
 seasonalFortune: Smoke moves through pinto in stages, each marbled vein taking the cacao at its own rate. A season for the long study, where surface flavour gives way to undercurrent.
-fortuneMost: Keep going past the clever version to the layer underneath it.
-fortuneMost2: Go back to the thing you've already reworked twice — the bitterness underneath hasn't surfaced yet.
-fortuneHigh: One small detail is carrying more than the whole structure around it.
-fortuneHigh2: Something good waits at the end of the one load-bearing thread.
-fortuneMid: Pick the single thread you'd hand a stranger and let the other six stay home.
-fortuneMid2: The next layer is for you, not for them.
-fortuneLow: The short answer is the right one.
-fortuneLow2: You'll want to redraw the whole route rather than let someone walk it themselves. Hand it over plain.
-fortuneLeast: Tell it the way you'd tell a child.
-fortuneLeast2: The same settled telling each time, kept simple, and the listener leans in anyway.
+fortuneMost: The nautilus shell spirals ever inward, endless beautiful chambers...
+fortuneHigh: A maze is a lovely place to visit, so long as you don't get lost.
+fortuneMid: Pull a single thread, and follow it all the way.
+fortuneLow: Do it the way a child might do it.
+fortuneLeast: The straight path gets there too.
 facetMostTitle: Smoke Read Vein by Vein
-facetMost: A kid at the next table asks why the sky is blue. Three sentences in you're charting light scattering through the whole atmosphere, building it vein by vein, in no rush to land the simple version.
+facetMost: Someone at a party asks what you're into. There's no single answer in you — only a sprawl of evolving interests, recent phases and dormant hobbies. You feel compelled to lay the whole map out rather than just name one thing.
 facetHighTitle: Cacao in Fine Strata
-facetHigh: Planning a weekend trip, you map the side routes, the fallback routes, and the order that threads them all together — every fork accounted for before you've packed a bag.
+facetHigh: A friend has a long drive coming and asks you for some music. You don't just send a pile of songs, you build the hour — an opener, a lift through the middle, a comedown for the last stretch, made to be played in order.
 facetMidTitle: Smoke Settling Into Grain
-facetMid: A recipe says season to taste. You build it in layers — a bitterness here to answer a sweetness there — until every element is talking to the others.
+facetMid: You want to share some juicy gossip with a friend. It won't quite make sense without context, so before the story starts you get into all the details — who used to date whom, which two aren't speaking, how any of them even know each other.
 facetLowTitle: Char on Top, Not Through
-facetLow: A blank wall wants something on it. You hang the first print that fits, step back, call it done, and never circle back to second-guess the choice.
+facetLow: A Halloween party is coming up, costumes mandatory. There's a good chance you end up cutting two eyeholes in an old bedsheet and going as a ghost.
 facetLeastTitle: The Marbling, Untouched
-facetLeast: Asked what a film was about, you could unspool every theme in it. You say it was about a guy and his dog, leave it there, and let that be plenty.
-question: A child at your knee asks how the engine in the car actually works. You...
-answerMost: start from combustion and build the whole machine up, part by part
-answerHigh: lay out the main stages with the important bits nested in
-answerMid: give the tidy version — fuel, spark, wheels turn
-answerLow: say it burns fuel to make the wheels go and leave it there
-answerLeast: tell them "magic" and ruffle their hair
-rorschachMost: a coral head branching past any counting
-rorschachHigh: an old oak crowded with a thousand leaves
-rorschachMid: a head of cauliflower cut from the stalk
-rorschachLow: a plain round bush trimmed to a ball
-rorschachLeast: a plain felt cushion
+facetLeast: The vast majority of your wardrobe is solid colours — not many patterns, try to avoid prints, nothing too flashy. Most tops goes with most bottoms, so dressing to head out is as easy as it gets.
+question: You've got a big decision to make. How do you go about it?
+answerMost: a spreadsheet, every factor weighted, each branch mapped out
+answerHigh: a proper written list of pros and cons
+answerMid: sleep on it, talk it over with someone once
+answerLow: go with your gut and try not to overthink it
+answerLeast: flip a coin and commit to it
+rorschachMost: a creature's brain
+rorschachHigh: a holey sea sponge
+rorschachMid: a chunk of charcoal
+rorschachLow: a shaggy lump of dough
+rorschachLeast: dried mud
 ---
 
 Charcoal Pinto Beans are the Bean Zodiac's most intricate. They answer a text in three drafts, each catching a meaning the last one missed; they keep seven tabs open in a deliberate order and can name the through-line between any two. The inner landscape is genuinely elaborate, layered the way smoke works into the grain, and rewarding to anyone who stays long enough to follow it.

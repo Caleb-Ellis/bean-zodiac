@@ -3,9 +3,9 @@ slug: sour-smoked-navy
 bean: navy
 flavour: sour
 form: smoked
-trait: implacable
-inverse: appeasable
-excess: unappeasable
+trait: resolute
+inverse: malleable
+excess: implacable
 friendlyBeans: [butter, black]
 friendlyForm: boiled
 antiTriple: spicy-fried-pinto
@@ -48,6 +48,6 @@ rorschachLow: a sandcastle slumping back into the beach
 rorschachLeast: a lump of dough sagging soft off the board
 ---
 
-Cured Navy Beans are the Bean Zodiac's most implacable — the plan made on Sunday is the plan being executed on Thursday, weather notwithstanding. They are the friend who said they'd be there at seven and is there at seven, the colleague whose Friday deliverable goes out on Friday because Friday was when it was going out. There is enormous quiet relief in being near them; nothing has to be re-decided every morning.
+Cured Navy Beans are the Bean Zodiac's most resolute — the plan made on Sunday is the plan being executed on Thursday, weather notwithstanding. They are the friend who said they'd be there at seven and is there at seven, the colleague whose Friday deliverable goes out on Friday because Friday was when it was going out. There is enormous quiet relief in being near them; nothing has to be re-decided every morning.
 
 The catch is that the plan keeps running after the conditions for it have changed. The room raised a hand, the meeting moved on, and they finished the sentence they had prepared anyway.

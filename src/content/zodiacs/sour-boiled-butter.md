@@ -1,5 +1,6 @@
 ---
 slug: sour-boiled-butter
+lastUpdated: 2026-07-23
 bean: butter
 flavour: sour
 form: boiled
@@ -15,37 +16,32 @@ dish: Avgolemono - butter bean soup with dill and lemon.
 quote: The bean will set you free, but first it will make you uncomfortable.
 creature: saint bernard
 seasonalFortune: A season that thins the broth and shows what was steeping under the dill. Acid finds its level. Plain statements outlast clever ones; soft edges curdle.
-fortuneMost: Lemon finds its level no matter how thick the broth.
-fortuneMost2: A good sign for the quiet teller.
-fortuneHigh: The better moment isn't coming.
-fortuneHigh2: Someone offers you a graceful way around the truth, smooth as yolk off a spoon.
-fortuneMid: Read the mood, then say the true thing anyway.
-fortuneMid2: A soft "tell me about it" draws the honest answer out of them.
-fortuneLow: The timing has gone wrong.
-fortuneLow2: Some awkward things soften on their own, the way skins do in a long simmer.
-fortuneLeast: The lopsided bill, the wrong number that nags.
-fortuneLeast2: A wide, easy "best one yet" can be the whole kindness.
+fortuneMost: Once the lemon's in, it's in.
+fortuneHigh: Say it plainly, say it kindly.
+fortuneMid: The better moment isn't coming.
+fortuneLow: Wait a bit - the timing is off.
+fortuneLeast: The truth bends further than you'd think.
 facetMostTitle: Lemon Tempered Into Yolk
-facetMost: The hard thing has to be said and the table's gone quiet waiting. You say it low and straight, never as a winning move.
+facetMost: Thirty minutes into a first date that's going well, they ask a question about your last relationship. There's a lot to get into, and giving them anything less than the whole story feels like lying.
 facetHighTitle: Dill Against the Board
-facetHigh: There's a graceful half-truth right there, the kind that lets everyone off easy. Not for you. The real answer goes out instead.
+facetHigh: A friend invited you to their birthday drinks weeks ago. You read it, meant to reply, never did — and now they're in front of you, a bit hurt and asking why you ghosted them. You could invent an excuse, but you tell them plainly you just forgot.
 facetMidTitle: Steam Reading the Ceiling
-facetMid: Same true thing, two rooms, two tempers. You read which room you're in and pitch the honest answer to fit it without softening what it is.
+facetMid: Someone greets you by name and asks how you've been, but you've no idea who they are. You chat superficially for a minute or so, and if you still don't recall, just completely admit you don't remember them.
 facetLowTitle: Skins in Long Simmer
-facetLow: A friend's new haircut is genuinely not good and they're glowing about it. The honest verdict stays behind your teeth and you let them have the glow.
+facetLow: An invite turns up for something you really don't fancy. "Sorry, I've already got plans" is a far easier answer for you to say than the truth — that you'd simply rather stay in.
 facetLeastTitle: Zest at the Last Moment
-facetLeast: Someone retells a story about themselves, rounded up a notch from how it actually went. It's their story to inflate; the smile you give it costs you nothing.
-question: A small child shows you the drawing they have just finished, and waits. The drawing is a brown smear with a name written under it. You...
-answerMost: ask, in a soft voice, what the brown part is, and listen
-answerHigh: point at the one bit that's clearly working and ask about it
-answerMid: say "tell me about it" and let them lead
-answerLow: say "wow, beautiful" and put it on the fridge
-answerLeast: say "best one yet" and take a photo to send their other parent
-rorschachMost: an hourglass, both bulbs plain through the glass
-rorschachHigh: a figure in a thin shift cinched at the waist
-rorschachMid: a knotted scarf hanging from a hook
-rorschachLow: a gown padded out wide above and below
-rorschachLeast: a draped dummy dressed to hide its frame
+facetLeast: You're not ill, you're just tired and don't want to deal with it today. The voice goes croaky for the phone call — something's been going round, stocked up on meds, might need a day or two. And you're not all that troubled by the lying.
+question: In the supermarker carpark, you reverse into a parked car, slowly but with enough force to leave a slight scuff along the door. Nobody is around to have seen it. You...
+answerMost: wait by the car until they come back, and apologise to them directly
+answerHigh: leave a note with your number, an apology, and a description of what happened
+answerMid: leave a note with your number, and a short "sorry"
+answerLow: have a proper look, notice the mark is barely visible, and go
+answerLeast: drive off before anyone notices
+rorschachMost: a robed priest
+rorschachHigh: a mannequin torso
+rorschachMid: modern art
+rorschachLow: a statue under a dust sheet
+rorschachLeast: a ventriloquist's dummy
 ---
 
 Brined Butter Beans are the Bean Zodiac's most honest — but the honesty arrives at low volume, after the room has settled and the wine has been poured. They will not perform the truth or use it to score a point; they wait until the moment can hold it, and then they say the plain thing in a voice that makes it land as care rather than verdict.

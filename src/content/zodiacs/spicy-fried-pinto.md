@@ -1,5 +1,6 @@
 ---
 slug: spicy-fried-pinto
+lastUpdated: 2026-07-28
 bean: pinto
 flavour: spicy
 form: fried
@@ -15,37 +16,32 @@ dish: Chimichangas - deep-fried burritos with spicy pinto beans and ancho chili.
 quote: In the middle of every bean lies opportunity.
 creature: tasmanian devil
 seasonalFortune: A season of spitting oil and half-folded tortillas; the kitchen of this bean runs hot, loud, and rarely in one direction for long.
-fortuneMost: Six things half-made and fluent in all of them — the one that survives to evening beats any plan you could've written.
-fortuneMost2: A good idea is loose in all that mess and it'll find you before the night's out.
-fortuneHigh: Of the five fires going at once, one is the live one. Find it; let the others gutter out without you.
-fortuneHigh2: An answer you already found is buried under three newer questions. Go back into the pile and dig it out.
-fortuneMid: You're improvising on a dish you've cooked plenty. Make it the plain way this once.
-fortuneMid2: Two things to bounce between, not six.
-fortuneLow: Fold the tortilla in front of you all the way before reaching for the next.
-fortuneLow2: Let one thing be whole.
-fortuneLeast: The week's plan fits on a card, and the card doesn't get rewritten.
-fortuneLeast2: Do the one thing already set for this slot.
+fortuneMost: The tasmanian devil thrives in chaos and confusion.
+fortuneHigh: Follow whatever catches your eye.
+fortuneMid: Six things half-done is not the same as nothing done.
+fortuneLow: Fold the tortilla all the way before reaching for the next.
+fortuneLeast: Have dinner on time tonight.
 facetMostTitle: Ancho Heat in Every Corner
-facetMost: A weekend market sprawls in every direction and you've got one hour. You plunge in with no route, chasing whatever stall catches your eye next.
+facetMost: You've been tasked with running the community radio for an hour. There's a running order of tracks - you can mix it up a bit but you have to play the ads. You end up just playing what you like, and ignore the ads.
 facetHighTitle: Oil Claims Whatever It Touches
-facetHigh: You set out to fix the bike, end up sorting the shed, and leave both cracked open when a third thing calls. The garden's now a museum of half-starts.
+facetHigh: Your partner's parents are coming over later and you want to tidy the flat up. You start on the vacuuming, then halfway through realise the dishes are more important so start washing them, and before those are done you start the laundry because your good outfit isn't clean.
 facetMidTitle: The Filling Spilling Three Ways
-facetMid: A board game has clear rules and you'd rather not. Mid-turn you're already inventing house variants nobody asked for, just to see what happens.
+facetMid: You're playing a board game with friends and it's pretty straightforward, a bit boring even. You make up a couple of extra rules and restrictions, just to see what it does to the game.
 facetLowTitle: The Chimichanga, Whole
-facetLow: A new whim tugs while you're partway through painting a fence. You stay on the fence, brush to the last board, before you let yourself wander.
+facetLow: Halfway up the climbing route, an easier line opens off to your left, the holds looking very generous. You stay on the route you started and take it to the top.
 facetLeastTitle: One Pot, One Chili
-facetLeast: One small chore is set for the afternoon and a dozen tangents beckon. You do the one chore, plainly, and let the tangents go unfollowed.
-question: You set out to cook one simple dinner, and the recipe book falls open on something far more ambitious. You...
-answerMost: start six dishes at once and see which ones are edible by eight
-answerHigh: launch the ambitious one, then get sidetracked pickling the leftovers
-answerMid: pick two things and ricochet between the pans
-answerLow: make the one dish, properly, start to finish
-answerLeast: cook exactly what you came in to cook
-rorschachMost: a bonfire throwing sparks off in every direction
-rorschachHigh: an antlered elk with branches flaring wild
-rorschachMid: a candle guttering, wax slumping down its sides
-rorschachLow: a cypress tapering to one steady point
-rorschachLeast: a single flame standing straight and still
+facetLeast: The gig ends and half the crowd is climbing the barrier to cut straight across the car park. You walk down to the marked exit and out the way you came in.
+question: A new game drops you into an open world with the main quest flashing and forty other markers scattered across the map. You...
+answerMost: completely ignore the markers and main quest, and just do whatever
+answerHigh: bounce between markers, to whatever's closest
+answerMid: do a few side quests first, skipping them if they seem boring
+answerLow: immediately follow the main line, wandering whenever something seems worth a look
+answerLeast: just do the main quest and ignore the rest
+rorschachMost: a shattered statue head
+rorschachHigh: an antlered elk
+rorschachMid: a torn map
+rorschachLow: a lumpy candle
+rorschachLeast: an old, weathered olive tree
 ---
 
 Red-Hot Pinto Beans are the Bean Zodiac's most chaotic — six tortillas open on the counter, six fillings half-made, and a fluency in all of them that nobody else in the room could keep up with. The wake is a trail of half-folded things, but the energy inside it is real, and the one idea that does survive to evening tends to be better than anyone could have planned.

@@ -266,19 +266,11 @@ export const getDailyText = (
 ): string | null => {
   const pick = (base: keyof Zodiac) => zodiac[base] as string;
   if (score === 0) return null;
-  if (score === 1) {
-    if (qualityId === QualityIds.Heirloom) return pick("fortuneMost");
-    if (qualityId === QualityIds.Market) return pick("fortuneHigh");
-    if (qualityId === QualityIds.Stale) return pick("fortuneLow");
-    if (qualityId === QualityIds.Rotten) return pick("fortuneLeast");
-    return pick("fortuneMid");
-  }
-  // resist — inverse
-  if (qualityId === QualityIds.Heirloom) return pick("fortuneLow");
-  if (qualityId === QualityIds.Market) return pick("fortuneLow");
-  if (qualityId === QualityIds.Stale) return pick("fortuneMid");
-  if (qualityId === QualityIds.Rotten) return pick("fortuneMid");
-  return pick("fortuneLow"); // Garden/facetMid resisted → fortuneLow
+  if (qualityId === QualityIds.Heirloom) return pick("fortuneMost");
+  if (qualityId === QualityIds.Market) return pick("fortuneHigh");
+  if (qualityId === QualityIds.Stale) return pick("fortuneLow");
+  if (qualityId === QualityIds.Rotten) return pick("fortuneLeast");
+  return pick("fortuneMid");
 };
 
 export type DailyRitual = {

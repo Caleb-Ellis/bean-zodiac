@@ -1,10 +1,11 @@
 ---
 slug: umami-fried-butter
+lastUpdated: 2026-07-21
 bean: butter
 flavour: umami
 form: fried
 trait: pragmatic
-inverse: starry-eyed
+inverse: fanciful
 excess: utilitarian
 friendlyBeans: [navy, cannellini]
 friendlyForm: boiled
@@ -15,37 +16,32 @@ dish: Butter bean and shiitake fritters with soy dipping sauce.
 quote: If it works, it's a bean.
 creature: draft ox
 seasonalFortune: A season of hot oil and short answers. The shiitake gives up its water; what stays in the pan is what was always going to stay.
-fortuneMost: The shiitake gives up its water and what stays in the pan is what was always going to stay.
-fortuneMost2: The elaborate plan and the obvious one do the same job.
+fortuneMost: The ox never once admires the field.
 fortuneHigh: Repair it before you replace it.
-fortuneHigh2: The same shoes, bought again.
-fortuneMid: Before you sign on, ask what problem it actually solves.
-fortuneMid2: Take the part of the new system that works and quietly let the rest go.
-fortuneLow: Some things have no answer key.
-fortuneLow2: When someone names a hard feeling, they don't want it solved — they want it heard.
-fortuneLeast: Keep the chipped cup, the receipt with the good handwriting, the thing with no use.
-fortuneLeast2: Build the over-elaborate version once, purely because it pleases you.
+fortuneMid: Not everything brought to you is a problem.
+fortuneLow: The oil is hot and no one is hungry yet.
+fortuneLeast: Keep the thing that does nothing, if only because it pleases you.
 facetMostTitle: Soy to a Black Line
-facetMost: The instructions run twelve steps; you've already got the shelf on the wall by step four and the rest stays in the box.
+facetMost: Your town has spent a year raising money to revitalise the main square, the argument being that it will "stimulate a sense of community". You'd prefer if the money were spent on maintaining the roads.
 facetHighTitle: The Fritter on Contact
-facetHigh: A gadget promises to do the job the wooden spoon already does. You leave it on the shelf and pick up the spoon.
+facetHigh: Two flats for the same price. One is beautiful, with a bay window you didn't realise you wanted, but it's an hour from work and needs some repair. The other is a bit plain, but new and warm and ten minutes from the office. You say yes to the plain one.
 facetMidTitle: Caps Trimmed, Stems Kept
-facetMid: Asked which of three routes to take, you name the shortest and skip the part where everyone debates the scenery.
+facetMid: No matter the occasion — birthday, Christmas, housewarming — most of the time you wish people would just gift you money.
 facetLowTitle: Steam Off the Dipping Bowl
-facetLow: A friend's voice cracks over something raw, and the urge to hand them a plan goes quiet — you just stay there with them.
+facetLow: Spring has finally sprung. It's still very chilly, but you opt to walk an hour home instead of catching the bus, just to see the buds in the new light.
 facetLeastTitle: The Sprig for No Reason
-facetLeast: A pebble from a beach you loved sits in your pocket doing nothing, and you'd no sooner toss it than throw out a photograph.
-question: A coworker spends ten minutes describing an elaborate new system for organizing the team's shared folder. You...
-answerMost: say it'll take longer to set up than it'll save and move on
-answerHigh: ask what problem it actually solves
-answerMid: nod, agree to try the top-level changes, ignore the rest
-answerLow: get curious about the color-coding scheme
-answerLeast: volunteer to migrate everything by Friday
-rorschachMost: two bricks set square beside each other
-rorschachHigh: two sacks of grain stacked in a shed
-rorschachMid: two boulders resting in a field
-rorschachLow: two heads leaning close, sharing a secret
-rorschachLeast: two ornate vases facing on a mantel
+facetLeast: The lemon tree will never fruit this far north. That's what everyone has told you anyway, but you still put it in the spot by the window, turned toward the light, hoping for it to flower.
+question: How do you wrap presents, generally?
+answerMost: in whatever container it came in
+answerHigh: by paying for someone to do it for me
+answerMid: in a reusable gift bag
+answerLow: just with wrapping paper
+answerLeast: with wrapping paper, a ribbon, maybe a sticker
+rorschachMost: two full sandbags
+rorschachHigh: a split log, both halves
+rorschachMid: two islands across a strait
+rorschachLow: two rams locking horns
+rorschachLeast: two dragons nose to nose
 ---
 
 Tempura Butter Beans are the Bean Zodiac's most pragmatic — the ones whose advice ends two sentences before everyone else's, and who somehow still pay less for things. They cut the agenda item that was never going to land, swap the elaborate plan for the obvious one, and reply in three lines without a greeting because the greeting cost both of you a minute. Around them, meetings end early. Things get bought once.

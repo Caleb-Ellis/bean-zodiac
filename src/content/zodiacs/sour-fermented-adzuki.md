@@ -1,5 +1,6 @@
 ---
 slug: sour-fermented-adzuki
+lastUpdated: 2026-07-21
 bean: adzuki
 flavour: sour
 form: fermented

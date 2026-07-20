@@ -1,5 +1,6 @@
 ---
 slug: spicy-fried-cannellini
+lastUpdated: 2026-07-20
 bean: cannellini
 flavour: spicy
 form: fried
@@ -15,37 +16,32 @@ dish: Spicy cannellini and ricotta fritters with Calabrian chili.
 quote: Shoot for the bean. Even if you miss, you will land among the legumes.
 creature: eagle
 seasonalFortune: A season that runs hot from the first crackle. Oil climbs fast, ricotta thickens under pressure, and the fritter sets gold before the pan has cooled — every day asking what comes next.
-fortuneMost: When the offer comes, take its larger version.
-fortuneMost2: The next thing is crackling in the pan before this one has set.
-fortuneHigh: Aim past what they expect of you.
-fortuneHigh2: A door cracks for whoever's already climbing toward it.
+fortuneMost: Keep climbing — pay no attention to what you're stepping on.
+fortuneHigh: Aim past what they expect.
 fortuneMid: Take the road that climbs a little.
-fortuneMid2: Under all that patience sits a plain want.
-fortuneLow: Let the empty wall stay empty a while.
-fortuneLow2: A good thing is allowed to stay its own size.
-fortuneLeast: A long afternoon with no claim on it.
-fortuneLeast2: Someone near you has been waving a while.
+fortuneLow: Not all good things need to become great things.
+fortuneLeast: Take it easy, don't worry about it.
 facetMostTitle: Chili Oil at First Light
-facetMost: You finish the first hike of a trail map and find there's a harder loop branching off it. Before your boots are off you're planning to come back for the harder one.
+facetMost: The promotion is down to you and a colleague. You find out when and where the director plays tennis, then book a court next to his to try and induce some friendly conversation.
 facetHighTitle: Cannellini Hitting the Pan
-facetHigh: A coach offers you a spot on the casual team. You ask, instead, what it would take to make the one that competes.
+facetHigh: You're reasonably fit, but have never competed in a triathlon before. You sign up for one, mainly to see if you can actually do it, and pin a training plan to the fridge.
 facetMidTitle: The Fritter Rolled Early
-facetMid: A neighbour mentions a community garden plot going spare. The thought of just a tidy patch bores you — you're already picturing what you'd grow to win the fair.
+facetMid: You started making sourdough after you were gifted a jar of starter. Two months later there's a spreadsheet with hydration levels, crumb photos, tasting notes — and it won't stop until you've baked the perfect loaf.
 facetLowTitle: Ricotta on the Counter
-facetLow: There's a bare shelf where something could go and a year to fill it. You leave the gap as it is and feel no pull to make it more.
+facetLow: You've always fantasised about starting a business — no boss, full ownership of the work, broadening your skills. An old colleague reaches out to you to offer exactly that. You decline — it's not a great time.
 facetLeastTitle: The Bean Before the Fire
-facetLeast: A stranger on the ferry asks where you're headed and what for. You realise the honest answer is nowhere in particular, and that sits fine.
-question: A card on the hostel board wants one more climber for a summit push leaving at dawn — serious, a stretch, maybe beyond you. You...
-answerMost: pen your name in before bed and pack by torchlight
-answerHigh: find the leader at breakfast and ask what they need
-answerMid: turn it over for a day, weighing the gear and the odds
-answerLow: think you'll catch the easier route next week instead
-answerLeast: read it, sip your coffee, and let dawn leave without you
-rorschachMost: a beanstalk reaching past the top edge
-rorschachHigh: an owl stretching tall off its perch
-rorschachMid: a chess piece standing on a narrow base
-rorschachLow: a vine slumping back down its own trellis
-rorschachLeast: a sack settled wide and low on the floor
+facetLeast: Two offers in front of you — one very similar to what you do now, the other running a team of six for an extra 30%. You take the familiar route.
+question: How do you play board games?
+answerMost: I want to win by any means necessary
+answerHigh: I play to win, sticking to the rulebook
+answerMid: I prefer winning, but not at the expense of others' fun
+answerLow: I'm in it for the snacks and the company
+answerLeast: I'd rather sit out and just watch
+rorschachMost: an exposed ribcage
+rorschachHigh: a rearing stag
+rorschachMid: an alert hare
+rorschachLow: a sagging scarecrow on its post
+rorschachLeast: an old, broken chair
 ---
 
 Red-Hot Cannellini Beans are the Bean Zodiac's most ambitious — already moving toward the next thing before the current one has cooled. They take the larger version of every offer, book the follow-up before the conversation ends, and finish the favour they half-promised by Wednesday without mentioning it. Whatever room they're in, they're already partly in the next one.

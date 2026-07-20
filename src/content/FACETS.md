@@ -95,6 +95,29 @@ A self-test before saving: **say "Resist" to your own facet — is there an
 obvious, picturable opposite stance?** If "no, not me" has no shape, the line is
 a portrait, not a probe. Rewrite it as a moment.
 
+## Only what the reader actually does
+
+State the reader's real action, and *only* that. Never prop it up with a contrast:
+
+- **No "you'd normally / usually / always…"** — don't describe the reader's
+  habit-in-general as a foil for this moment. The scene is one concrete instance,
+  not a summary of their character.
+- **No not-doing** — "…rather than turn back," "instead of redoing it," "without
+  checking first," "the delighted noise that won't come." The line describes what
+  the reader *does*, not what they decline to do. If the opposite stance matters,
+  that is Resist's job — leave it to the button, never spell it on the page.
+
+The Resist reading must still be obvious and picturable, but it lives in the
+*reader's head*, not in the sentence.
+
+## Set the stakes before the action
+
+The reader has to feel what is at risk *before* the inclination arrives. Build the
+situation and what it costs first, then land the pull. A choice with nothing on
+the line is a shrug; the same choice with the stakes set up first is a real vote.
+This is the order almost every strong facet follows — context, weight, then the
+inclination that stops at the decision point.
+
 ## Structure of a facet
 
 - **A moment, then an inclination.** "[Concrete situation]. [What you're inclined
@@ -129,7 +152,21 @@ a portrait, not a probe. Rewrite it as a moment.
   line, not *be* it: the situation reads as universal, the wording tastes like
   this bean, and it couldn't be pasted into another zodiac.
 
-## Keep the low end honest
+## Make it worth voting on — the interest test
+
+A facet the reader shrugs at is a wasted probe. Before proposing a scene, ask:
+**is this genuinely interesting — is there any reason to care?** The flattest
+failures are the small admin of life: giving directions, hanging a picture,
+packing a bag, choosing a coffee, generic advice to a friend, a routine errand.
+They can be perfectly clear and true and still utterly forgettable.
+
+Reach instead for a scene with real stakes or a live image — tension, a
+consequence, a spark of the specific. Absurd, niche, and fantastical scenes are
+all fair game (see the next section) and often the most memorable — the bar is
+**not** "keep it ordinary." The bar is that the **context and stakes are clear**:
+however strange the premise, the reader must instantly grasp the situation, what
+is at risk, and which way the inclination leans. A wild scene that reads clean
+beats a safe one that bores — and beats a clever one the reader has to decode.
 
 `facetLow` and `facetLeast` describe the reader's *opposite* trait. A judicious bean's `facetLeast` ("you send the rough draft rather than
 polish it; the edit can come on the rebound") should let the reader feel both the

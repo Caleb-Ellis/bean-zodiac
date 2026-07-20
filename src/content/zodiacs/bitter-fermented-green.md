@@ -5,7 +5,7 @@ flavour: bitter
 form: fermented
 trait: imaginative
 inverse: unimaginative
-excess: fanciful
+excess: delusional
 friendlyBeans: [chickpea, pinto]
 friendlyForm: fried
 antiTriple: umami-dried-mung

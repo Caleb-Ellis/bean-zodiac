@@ -1,5 +1,6 @@
 ---
 slug: spicy-fried-green
+lastUpdated: 2026-07-24
 bean: green
 flavour: spicy
 form: fried
@@ -15,37 +16,32 @@ dish: Pad prik khing - Thai stir-fried green beans with red curry paste and kaff
 quote: Well-bean is that which is done with determination.
 creature: bull
 seasonalFortune: A wok left cold too long forgets its own pitch. The season belongs to cooks who strike the pan hot and commit before the paste can argue.
-fortuneMost: Decided is decided.
-fortuneMost2: The paste is in the oil — no taking it back.
-fortuneHigh: A made-up mind doesn't reopen for another round.
-fortuneHigh2: When they ask your view, they're asking for a plan, and the plan rarely misses.
-fortuneMid: Float the idea once, plainly, no hard sell.
-fortuneMid2: Set the direction, then let the route bend.
-fortuneLow: Something someone said a while back is still tugging at you.
-fortuneLow2: Hold the decision open one beat longer and let the others actually weigh in.
-fortuneLeast: Take the slower route with them.
-fortuneLeast2: Let the plan shape itself around everyone's pace and find your own moves inside it.
+fortuneMost: The bull charges the red cloth and does not know why.
+fortuneHigh: Say your piece, then go ahead with it.
+fortuneMid: A made-up mind needs no second opinion.
+fortuneLow: The surest voice in the room isn't always yours.
+fortuneLeast: Fall in step, and let another lead the way.
 facetMostTitle: Paste Into Oil, No Return
-facetMost: Lost on a hike, the group wants to debate the map. You've already picked a direction and started down it; they can follow the trail or the talk.
+facetMost: The business you were sure would take off is bleeding money, and everyone around you is saying it's time to pull out. The urge is to double down instead — remortgage, pour more in, and prove them all wrong.
 facetHighTitle: The Kaffir Leaf, Spent
-facetHigh: You've made your call on a thing and someone wants to relitigate it over drinks. The mind's shut — you'd sooner change the subject than reopen the vote.
+facetHigh: You're taking a year off to travel, walking away from a good salary and a pension everyone says you'd be mad to give up. Your parents call it a mistake, your boss offers a raise to stay — and not one of them moves you an inch.
 facetMidTitle: Beans in at the Shimmer
-facetMid: A board game stalls because nobody will set a house rule. You call one, flat, and play on under it whether they like it or not.
+facetMid: You pull into the car park and take the first space you see. There are closer ones by the doors, but that's of no concern to you.
 facetLowTitle: Six Hands at the Board
-facetLow: A choice is yours to make and you've half-made it. You sit on it a beat longer and ask the others what they'd do before you lock it.
+facetLow: Planning the weekend away, you've got a place in mind. But you ask the others where they'd like to go first — and when they land somewhere else, you're glad to just go along with it.
 facetLeastTitle: Lime Juice After the Flame
-facetLeast: A day out is being planned and your route would be quickest. You let the group's slower, looser plan win and find your own fun inside it.
-question: The trail forks with no sign, the cloud is dropping, and the group stalls there debating. You...
-answerMost: pick the left path and start walking; they catch up or they don't
-answerHigh: call it out loud and set off, no vote
-answerMid: say which way you'd go and see if anyone moves
-answerLow: name both and let the surest voice choose
-answerLeast: hang back until somebody else commits
-rorschachMost: a bull's head lowered, horns curling down
-rorschachHigh: an anchor dug in with both flukes hooked
-rorschachMid: a steer's skull mounted above two horns
-rorschachLow: a ribbon drooping loose off both ends
-rorschachLeast: a willow with branches trailing to the ground
+facetLeast: Your partner accepts the job they'd been offered across the country. You'd gone over some life and logistical implications, but not everything had been figured out. Regardless, the urge is to fall in line - hand in your notice, say bye to your friends, and build a new life around theirs.
+question: You've wanted a pet for ages, and you're finally in a living situation where it could work. Your partner says it's not the right time. You...
+answerMost: bring one home this weekend
+answerHigh: hear them out, but you're still getting a pet sooner rather than later
+answerMid: agree to hold off a while, but you'll be reminding them
+answerLow: admit they might have a point, and start to rethink
+answerLeast: let the idea go
+rorschachMost: a weathered bull's skull
+rorschachHigh: a rusted anchor
+rorschachMid: a crab's claw
+rorschachLow: a cooked prawn
+rorschachLeast: a squashed slug
 ---
 
 Red-Hot Green Beans are the Bean Zodiac's most headstrong — once decided, the decision is over. They pick the restaurant, name the hour, and start walking; the group catches up or doesn't, and either way the night begins on time. Friends know that asking for their input is asking for a plan, and the plan, in their hands, is rarely wrong.

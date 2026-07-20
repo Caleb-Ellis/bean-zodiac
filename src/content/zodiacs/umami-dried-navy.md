@@ -1,5 +1,6 @@
 ---
 slug: umami-dried-navy
+lastUpdated: 2026-07-26
 bean: navy
 flavour: umami
 form: dried
@@ -15,37 +16,32 @@ dish: Boston baked beans - dried navy beans slow-baked with salt pork, molasses,
 quote: Endurance is not just the ability to bean a difficult situation — it is to turn it into glory.
 creature: giant tortoise
 seasonalFortune: A low oven asks for hours, not minutes; molasses darkens only under steady heat. The season rewards a cook who set the pot down at dawn.
-fortuneMost: Return to the same long work another year.
-fortuneMost2: Molasses only darkens under steady heat held for hours.
-fortuneHigh: The cracked mug, the warped board, the coat with one good pocket — keep them, and don't explain it.
-fortuneHigh2: Hold the standing thing through the turning of the year and see what's still there at the far end.
-fortuneMid: The page you left unfinished is still waiting, patient as you are.
-fortuneMid2: You measure things in seasons, not afternoons.
-fortuneLow: The thing you've held up so long is finished now.
-fortuneLow2: A row that's stopped producing is asking to be turned over, not nursed.
-fortuneLeast: It became a monument to maintenance, not meaning.
-fortuneLeast2: A fresh pan has its own appeal, and a clean start may be the luck arriving.
+fortuneMost: The old tortoise walks the same path for a hundred years, never looking for more.
+fortuneHigh: Good things come to beans who wait.
+fortuneMid: Count in seasons where others count in days.
+fortuneLow: It has become a monument to maintenance, not meaning.
+fortuneLeast: Sometimes you just feel like takeout - don't force a meal you don't want to make.
 facetMostTitle: Molasses on Its Own Clock
-facetMost: Out each spring to the drystone wall on the moor, setting the one fallen stone back in its gap — the man who built it dead for decades, no one asking you to, and you keeping it standing anyway.
+facetMost: You've run every single day for three years — through illness, through injury, through Christmas. Tonight you're really tired and it's bucketing down, but the streak gets you into your shoes regardless.
 facetHighTitle: Salt Pork Past the Larder
-facetHigh: The boots have been resoled four times and the leather's gone the colour of the trail. A shop window's full of new ones — and you walk past, because these have years left and the years are the point.
+facetHigh: You started learning piano two years ago. Progress is slow, sometimes it's a bit boring, and some passages keep tripping you. But you've been doing it this long - there's not much that'll make you stop.
 facetMidTitle: The Pot Past Midnight
-facetMid: Storm's been hammering the tent for hours and the others want to pack it in. You'd dig in your heels, ride out the night, and be there in the wet dawn when it finally breaks.
+facetMid: You're three-quarters through a novel that has turned into a bit of a slog — the plot went nowhere a hundred pages back. Regardless, you'll push through to the end, just to not leave it unfinished.
 facetLowTitle: Mustard, Quick and Gone
-facetLow: A houseplant you've nursed for months is plainly done — leggy, browning, past saving. Bin it without ceremony, you decide, and the windowsill's bare and ready by evening.
+facetLow: A houseplant you've nursed for the half a year is still not doing well — leggy, droopy, more brown than green. The urge is to bin it without ceremony and free the windowsill up.
 facetLeastTitle: A Fresh Pan
-facetLeast: A brighter pattern catches your eye and the half-knit scarf loses you on the spot. Unravel it for the wool, cast the new one on — the old project gone before it's even cold.
-question: A weekly tradition you've kept going for nine years — quiet drinks at the same pub, same Thursday — has dwindled to you and one other person who no longer seems to want to be there. You...
-answerMost: keep showing up; the tradition is the point, not the turnout
-answerHigh: hold the Thursdays through the end of the year and see what stays
-answerMid: pause it for a month and see if anyone notices
-answerLow: text the group that you're ending it, with thanks
-answerLeast: skip this Thursday and never bring it up again
-rorschachMost: a craggy outcrop still holding against the waves
-rorschachHigh: an iron anchor flukes dug into the seabed
-rorschachMid: a chestnut in its spiky split husk
-rorschachLow: a sandcastle slumping as the tide creeps in
-rorschachLeast: a snowflake half-melted on a warm palm
+facetLeast: Your garage houses an instrument you haven't touched in years, breadmaking tools from a baking phase, a now-rusted sewing machine. They were fun for a time, now not so much, so you won't feel bad if you never touch them again.
+question: How often do you get a new phone?
+answerMost: ideally never, but in practice when the current one dies and cannot be repaired
+answerHigh: when the current one is around six years old, or significantly damaged
+answerMid: when the current one starts to struggle, or has some bad cosmetic damage
+answerLow: every couple of years
+answerLeast: whenever a new version is released
+rorschachMost: a craggy mountaintop
+rorschachHigh: a rocky island
+rorschachMid: a ground beetle
+rorschachLow: an intricate sandcastle
+rorschachLeast: melting snow
 ---
 
 Aged Navy Beans are the Bean Zodiac's most enduring — same chair, same notebook, same Thursday standing reservation that has now outlasted three of the people on the original list. The work thickens behind them by years rather than weeks, and there is a real beauty in the slow darkening of something nobody else stayed with long enough to see.

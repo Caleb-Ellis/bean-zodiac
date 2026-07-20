@@ -3,9 +3,9 @@ slug: sour-fried-navy
 bean: navy
 flavour: sour
 form: fried
-trait: grumpy
-inverse: genial
-excess: curmudgeonly
+trait: particular
+inverse: easy-to-please
+excess: unpleasable
 friendlyBeans: [edamame, black]
 friendlyForm: dried
 antiTriple: sweet-fermented-chickpea
@@ -48,6 +48,6 @@ rorschachLow: a soft cloud drifting over an open meadow
 rorschachLeast: a puff of fair-weather cloud above a sunlit field
 ---
 
-Agrodolce Navy Beans are the Bean Zodiac's most grumpy — the standard is the standard, the world keeps missing it, and they keep keeping count. The discontent is honest; the world really has been imprecise this week. What looks like sourness from the outside is, from inside, a refusal to round up — to say "fine" about a thing that wasn't, to let a small wrong dissolve unmentioned because mentioning would be inconvenient.
+Agrodolce Navy Beans are the Bean Zodiac's most particular — the standard is the standard, the world keeps missing it, and they keep keeping count. The discontent is honest; the world really has been imprecise this week. What looks like sourness from the outside is, from inside, a refusal to round up — to say "fine" about a thing that wasn't, to let a small wrong dissolve unmentioned because mentioning would be inconvenient.
 
 The trouble is what the running tally does to the rest of the day. The cold coffee is genuinely an issue. So is the queue, and the email tone, and the weather, and the friend who said the not-quite-right thing in May. By evening the original grievance is somewhere underneath the others, holding up the weight.

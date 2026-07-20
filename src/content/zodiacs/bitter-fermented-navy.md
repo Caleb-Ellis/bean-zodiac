@@ -1,5 +1,6 @@
 ---
 slug: bitter-fermented-navy
+lastUpdated: 2026-07-23
 bean: navy
 flavour: bitter
 form: fermented
@@ -15,37 +16,32 @@ dish: Senate Bean Soup - with aged ham and bitter dandelion greens.
 quote: Outside of a bean, a book is a man's best friend. Inside of a bean, it is too dark to read.
 creature: silverfish
 seasonalFortune: A long-cured broth deepens in the dark of the pantry; private reading thickens into something a stranger's spoon will eventually want to taste.
-fortuneMost: The book you abandoned partway through holds the exact sentence you've been needing.
-fortuneMost2: The through-line you've chased across forty open tabs is about to surface.
-fortuneHigh: You can feel the shape of a disagreement coming.
-fortuneHigh2: When voices rise, don't rise with them.
-fortuneMid: Hand over the source itself, not the lecture around it.
-fortuneMid2: A collection no one is let into is just a locked room, however rich.
-fortuneLow: Answer from memory and let it run a little imprecise.
-fortuneLow2: Trade the chapter for a walk.
-fortuneLeast: Shut the book and use your hands.
-fortuneLeast2: Mend the thing, rewire the lamp, trust the wrist that already knows the motion.
+fortuneMost: The silverfish lives its whole life in books and learns nothing.
+fortuneHigh: The answer is written down somewhere.
+fortuneMid: Read it before you need it.
+fortuneLow: Ask someone who's actually done it.
+fortuneLeast: Some things cannot be learned from a book.
 facetMostTitle: Each Label a Citation
-facetMost: Before so much as boiling an egg in the new place, you've read three articles on the science of it and watched a video on the chemistry. The pan can wait; the reading comes first.
+facetMost: A friend had their first baby a month ago and is wondering if you'd like to meet them. You feel like you have to read a book or two on newborns before you can go over.
 facetHighTitle: The Hock Giving up Its Salt
-facetHigh: Planning a weekend away, and instead of just booking it you're deep in the history of the town, the why behind every old street name. The trip can't start until the reading's done.
+facetHigh: Whenever you travel somewhere new you arrive partially knowing it already — the long history, a few phrases of the language, even the latest political scandals. For you, learning about a place is half the fun of going.
 facetMidTitle: Greens, the Longer They Sit
-facetMid: A kid asks why the sky goes red at sunset, expecting a quick answer. You'd rather give the real one — and find yourself reaching for what you read about it rather than just guessing.
+facetMid: While watching a movie an actor comes on you half recognise from something else. You just can't remember their name. By the end of the night you've looked them up online and internalised their entire life story.
 facetLowTitle: The Shin Knows the Slope
-facetLow: The new dance step won't come from watching the tutorial again. You close the laptop and just move until your feet find it, fumbling through, no instructions to fall back on.
+facetLow: Dropped somewhere unfamiliar with a dead phone, you don't panic. You pick a direction on a hunch and read the streets as you go, letting a wrong turn or two teach you the place.
 facetLeastTitle: Learned by Wrist, Not Recipe
-facetLeast: Manual right there on the shelf, bike making a noise — and you leave it shut, hands straight into the chain, feeling your way to the fault.
-question: A complicated decision has settled in for the week and won't lift. Sunday morning, kitchen table, mug in hand. You...
-answerMost: pull down the three books that might know the shape of this, open them on the table, and read across
-answerHigh: find the one essay you underlined years ago that named exactly this, and read it again
-answerMid: read for an hour, then write down what your gut already knew
-answerLow: skip the reading, write it out longhand, see what comes
-answerLeast: shut the books, put your shoes on, and walk it out of yourself
-rorschachMost: a hardback laid open, two pages tilted apart
-rorschachHigh: two ledgers leaning together on a crowded shelf
-rorschachMid: two stones set side by side on a wall
-rorschachLow: two work gloves dropped beside each other
-rorschachLeast: two boots kicked off, mud still on the soles
+facetLeast: You've found the exact sofa you've been after, half price and barely used, and the seller's friendly over messages. They just ask for a small deposit to hold it for you - they've been stuffed around with no-shows, and a few others are keen. You decline the offer.
+question: You decide to take up something new. How do you go about it?
+answerMost: read everything there is on it for weeks before you start
+answerHigh: get the one definitive beginner's book and work through it thoroughly
+answerMid: watch a couple of tutorials, then have a go
+answerLow: just start, and look things up when you get stuck
+answerLeast: dive in and learn by making a mess of the first few goes
+rorschachMost: old, dense cobwebs
+rorschachHigh: two crumpled sheets of paper
+rorschachMid: two tumbleweeds
+rorschachLow: a puddle that's been stepped in
+rorschachLeast: two creatures squabbling
 ---
 
 Cultured Navy Beans are the Bean Zodiac's most bookish — the ones who annotate borrowed books in the margins, shelve by argument rather than author, and keep forty tabs open across three devices until the through-line finally surfaces. When a disagreement comes, they don't raise their voice; they place the one sourced sentence that ends it, and the room goes quiet. The library inside is real, and it's deep.

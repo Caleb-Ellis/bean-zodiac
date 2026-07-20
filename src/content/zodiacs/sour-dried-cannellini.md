@@ -1,5 +1,6 @@
 ---
 slug: sour-dried-cannellini
+lastUpdated: 2026-07-22
 bean: cannellini
 flavour: sour
 form: dried
@@ -15,37 +16,32 @@ dish: Cannellini and dried porcini brodo with lemon zest.
 quote: The bean is in the details.
 creature: bird of paradise
 seasonalFortune: Porcini steeps slow and dark; lemon zest pins each grain of broth to its place. A life lived at small scale, where nothing is allowed to blur.
-fortuneMost: The hairline flaw is real, and only your eye finds it.
-fortuneMost2: A loose thread at the seam, asking to be tucked.
-fortuneHigh: Spines square to the shelf, the lamp set right, the room settled.
-fortuneHigh2: One comma is wrong and the whole thing waits on it.
-fortuneMid: An hour on a fingernail-sized fix is well spent, and then the work has earned its rest.
-fortuneMid2: Look twice, settle the one thing that's off, and stop.
-fortuneLow: Step back two paces.
-fortuneLow2: Pour by eye and let the pot feed everyone unmeasured.
-fortuneLeast: The luck is in the imperfect one.
-fortuneLeast2: Gather it by the armful and trust the abundance over the single perfect specimen.
+fortuneMost: Despite its overwhelming beauty, the bird of paradise frets its one bent plume.
+fortuneHigh: Do not settle for less than the best.
+fortuneMid: There is only time to perfect one thing.
+fortuneLow: Blur your eyes a bit and it looks great.
+fortuneLeast: Plastic pearls shine just as bright by candlelight.
 facetMostTitle: The Grain Off-Centre
-facetMost: A degree off true is all it is, and everyone swears the framed print looks fine — but the level is already coming off the shelf.
+facetMost: You spent the whole weekend painting the bedroom and it looks beautiful — in the morning. In the afternoon light it looks a bit darker, not as "glowy" as you'd imagined. It's only going to bother you more as time goes on, so you reach for the colour swatch again.
 facetHighTitle: Brodo Below the Tremble
-facetHigh: Each piece chosen by hand, bruises faced down — that's how the fruit goes in the basket, even with the market trader waiting to wrap it fast.
+facetHigh: There's still an empty wall in your living room. You could fill it with prints tomorrow, but you leave it bare and wait, hoping to find a piece so magnificent you light it on its own.
 facetMidTitle: Zest Cut to Float
-facetMid: Halfway down the garden path you notice one paver sits proud of the rest. The rake's already in your hand and you crouch to settle it.
+facetMid: It's only shop-bought hummus, but you spoon it into a bowl, swirl the top, and pool a little bit of fancy olive oil before it goes on the table.
 facetLowTitle: Porcini and Bean Together
-facetLow: The kids want the sandcastle and they want it now, lopsided towers and all. You drop to your knees in the sand and build it their crooked way.
+facetLow: At the photobooth, it takes an amazing shot of the two of you, you both have never looked better. Then it suddenly takes two more, capturing a big thumb and then a blurry one of you two laughing. The blurry one is the one you keep.
 facetLeastTitle: The Whole Jar, No Scale
-facetLeast: Leave the festival lights exactly as your friend slung them — tangled, uneven — and call the whole crooked string perfect.
-question: A new neighbour drops in for the first time and admires a small thing in the room. You...
-answerMost: tell them the maker, the year, the city, the price
-answerHigh: nod, and notice the dust they didn't see
-answerMid: thank them and steer to the kettle
-answerLow: laugh and say it was on the pavement
-answerLeast: insist they take it, you can find another
-rorschachMost: a heart cut clean from a garnet
-rorschachHigh: an ace of spades pressed in silk
-rorschachMid: an apple with two leaves at the stem
-rorschachLow: a bat hanging with one wing askew
-rorschachLeast: a lump of clay pinched into a heart
+facetLeast: Dressing for a party, you go with the rainbow sequins, the clashing colours and the biggest jewellery in the drawer, and walk out feeling like a million bucks.
+question: How do you make your coffee at home?
+answerMost: single origin beans, precisely weighed, filtered water
+answerHigh: fresh beans, in the good cup
+answerMid: prefer to get it from a nice cafe than at home
+answerLow: whatever's in the kitchen, not fussed
+answerLeast: instant, multiple sugars
+rorschachMost: ornate jewellery
+rorschachHigh: a regal emblem
+rorschachMid: a splash of ink
+rorschachLow: a bat in flight
+rorschachLeast: a squashed sweet
 ---
 
 Dehydrated Cannellini Beans are the Bean Zodiac's most exquisite. The shelves are arranged, the playlist was decided over weeks, and the single lamp in the corner is the exact lamp. When they cook for you the plate arrives slightly too perfect, garnished with the herb they grew on purpose, and you eat it more carefully than you'd planned to.

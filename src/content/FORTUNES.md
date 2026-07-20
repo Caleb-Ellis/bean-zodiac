@@ -5,6 +5,11 @@ drawn one a day for months — so the corpus is read _serially_. The craft is ma
 consecutive draws feel like different weather, not one line rephrased. **Vary the
 shape, not just the words.**
 
+**Clarity beats cleverness.** Every fortune must land on one read — plain and
+easily understood, never a riddle to decode. Terse is good; terse-and-cryptic is
+not. If a line trades legibility for compression or a clever turn, rewrite it
+plainer.
+
 ## Four registers, roughly even
 
 Mix all four across a bean's ten lines; let no one register dominate.
@@ -42,6 +47,24 @@ neighbour — and keep adjacent slots (Low vs. Least) from collapsing together.
 
 Older zodiac entries with a 2 variant of each fortune should remove them - there should only be 5 fortunes per zodiac entry.
 
+## The shape each slot tends to want
+
+Registers still mix across the five, but in practice each slot has a natural pull.
+Lean into it unless a fresher shape genuinely serves the line better:
+
+- **Most** — a creature/nature image of the excess, usually with a short tail that
+  names where it tips into too-much. Bittersweet: the trait admired _and_ quietly
+  mourned. ("The luna moth moves toward all lights, drifting everywhere and going
+  nowhere.")
+- **High** — plain, confident advice that affirms the trait, often a bare
+  imperative. No image required. ("Do not settle for less than the best.")
+- **Mid** — a flat statement or maxim at low pitch; mild, the gentle correction of
+  a misread. ("A closed shell is not an empty one.")
+- **Low** — a soft turn toward the opposite: a gentle instruction or image that
+  lets the other pole in. ("Wipe the fog from the glass and look.")
+- **Least** — a warm, proverbial embrace of the inverse, in the bean's own
+  imagery. ("Plastic pearls shine just as bright by candlelight.")
+
 ## Brevity — terse but not gutted
 
 Cut the **explaining/qualifying clause, not the poetry.** Keep the image, the
@@ -51,6 +74,12 @@ comparison, the rhythm; drop the tail that justifies or spells out the meaning.
 - Too terse: "A chipped mug holds the same heat" — needs "**as the good one**."
 
 Write the evocative line, then delete only the words that _explain_ it.
+
+**But keep the turn.** The tail that _completes_ the image or names where the
+trait tips too far — especially at `Most` ("…drifting everywhere and going
+nowhere," "…long after it leads anywhere") — is the poetry, not an explanation.
+Cut only the clause that _justifies_ or moralizes the line ("…and that's the
+whole point"), never the one that lands the bittersweet.
 
 ## How the trait shows without an instruction (the omen toolkit)
 

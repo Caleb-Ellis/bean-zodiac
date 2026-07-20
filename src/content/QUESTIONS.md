@@ -31,6 +31,17 @@ with the entry's `excess` field — the trait at its fullest pitch; `answerHigh`
 - **Length**: short. Tight is the goal — no clauses explaining the choice, no
   parentheticals, no justification. The user is supposed to recognize themselves in the
   _shape_ of the answer, not be told what it means.
+- **Pick the question shape to fit the answers.** If the five answers are things the
+  reader *does* (actions), use the `You...` scene so they read as continuations; if
+  they're descriptions of a preference or state, use the plain standalone question. A
+  quantity question ("how much of it do people see?") answered by behaviours ("handle it
+  alone," "lean on a couple of people") reads awkward — the grammar has to line up.
+- **Each answer a distinct act, and every one a real disposition.** Two failures to
+  watch. (1) *Adjacent answers that collapse* — `Most` and `High` saying the same thing
+  reworded, differing only in *attitude* ("keep it to yourself" vs "handle it alone").
+  Separate them by what the reader concretely *does*; no two should survive a swap. (2)
+  *One obviously-right answer that turns the rest into strawmen* — keep it so that a real person could own *any* of the five. If four are clearly wrong and
+  one is the "sensible" one, the spectrum is broken and the vote is meaningless.
 - **No trailing full stops.** The answer is a continuation or a bare option, not its own
   sentence. ("ask for tea and another five minutes" — not "ask for tea and another five
   minutes.")

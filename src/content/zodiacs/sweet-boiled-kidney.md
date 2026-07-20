@@ -1,5 +1,6 @@
 ---
 slug: sweet-boiled-kidney
+lastUpdated: 2026-07-27
 bean: kidney
 flavour: sweet
 form: boiled
@@ -15,37 +16,32 @@ dish: Rajma kheer — kidney beans boiled until tender and simmered in sweetened
 quote: If you want others to be happy, practise bean. If you want to be happy, practise bean.
 creature: elephant
 seasonalFortune: A year that simmers low and long. Sweetness gathers in the pot rather than the bowl, and the cardamom keeps its post.
-fortuneMost: Cook the slow thing for the one going through it, in a dish they needn't return, and stay — without asking whether they wanted company.
-fortuneMost2: Sweetness gathers in the pot before it ever reaches a bowl, and someone bruised this week is about to be fed by you.
-fortuneHigh: They said "I'm fine."
-fortuneHigh2: You catch the one going quiet at the edge and slide over without making a thing of it.
-fortuneMid: Answer the message under the message — the real ask — and let the throat-clearing ones pass.
-fortuneMid2: Hold the door the extra beat, ask the second question.
-fortuneLow: A weight got slid onto your side that nobody actually handed you.
-fortuneLow2: You can walk around the ache in the room and tend your own pot for once.
-fortuneLeast: A friend keeps offering to cook for you.
-fortuneLeast2: The favour you're owed can stay owed without you forgiving it in advance.
+fortuneMost: The elephant carries the herd's grief, and no one carries hers.
+fortuneHigh: Sit with it. Don't try to fix it.
+fortuneMid: Most short tempers hide a long day.
+fortuneLow: Let someone else be the strong one for once.
+fortuneLeast: An empty pot cannot pour.
 facetMostTitle: Milk for the Bruised Bean
-facetMost: A kid's crying on the platform, separated from their group, and the adults are all walking faster. You're the one who crouches to their level and stays put until someone comes back for them.
+facetMost: You've finally crawled into bed with a fever, resting for the first time all week, when a friend texts that they're crashing out. You get up, get dressed, and drive over — your own body can wait.
 facetHighTitle: Rose Water on a Hard Week
-facetHigh: They brush off something heavy with a too-quick "all good, honestly," and the group moves on. You hang back, ask once more and quieter, and let the pause do the rest.
+facetHigh: There's someone bedded down in a shop doorway on a cold afternoon, cup out, the crowd averting their gaze and stepping over them. You stop and ask what they need.
 facetMidTitle: Cardamom and the Long Bench
-facetMid: The cashier looks worn thin and the line's impatient behind you. A small word that they're doing alright at a hard job, meant, before you take your bag and go.
+facetMid: A frazzled parent with a screaming toddler joins the long queue behind you, clearly at the end of their rope. You wave them ahead of you.
 facetLowTitle: The Bean in Its Skin
-facetLow: A friend's venting about the same situation for the fifth time, no move to change it. You hear them out, then turn back to your own evening — not every ache is yours to keep absorbing.
+facetLow: The family group chat pings again — your aunt, third doom-and-grievance post of the day. You mute the whole thing and do not feel guilty at all.
 facetLeastTitle: Sweetness Left at the Bottom
-facetLeast: A relative who's hard work is upset across the room and everyone's glancing at you to go fix it. Stay in your chair. Their mood isn't a job assigned to you, and you let someone else be the one to carry it.
-question: On the sunny high street the busker you pass every day is packing up early, takings thin, looking more beaten than yesterday. You...
-answerMost: stop, sit down on the kerb, and ask how they're really doing
-answerHigh: buy them a proper lunch and bring it over to share
-answerMid: press some notes into the case with a warm word
-answerLow: drop a coin in passing without slowing
-answerLeast: keep your eyes ahead and walk on by
-rorschachMost: a hen spreading wings over her chicks
-rorschachHigh: a shawl drawn around hunched shoulders
-rorschachMid: a broad tree over two thin trunks
-rorschachLow: an umbrella shut tight against the rain
-rorschachLeast: a cliff overhanging the small shore below
+facetLeast: A broke friend needs to crash on your sofa for a fortnight while they get back on their feet. You say yes — but make very sure they know they owe you one.
+question: Late at a party, someone you barely know has drunk far too much and is in a sorry state in the corner. You...
+answerMost: take charge of them for the night — water, taxi, right to their door
+answerHigh: sit with them, get some water into them, make sure they're okay
+answerMid: find a friend of theirs and get them to keep a close eye
+answerLow: ask if they're alright, but try not to get involved
+answerLeast: leave them alone
+rorschachMost: an elephant and its calf
+rorschachHigh: a shawl around shoulders
+rorschachMid: dense foliage
+rorschachLow: an adrift jellyfish
+rorschachLeast: a spider's head
 ---
 
 Candied Kidney Beans are the Bean Zodiac's most compassionate — the one who notices the friend going quiet at the edge of the group and slides over without making a thing of it, who answers the 11pm message at 11pm and means every cardamom-warm word of it. They can sit in a hard room without flinching and bring the temperature down with their presence alone.
