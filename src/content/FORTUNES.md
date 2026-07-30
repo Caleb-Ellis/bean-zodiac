@@ -52,10 +52,16 @@ Older zodiac entries with a 2 variant of each fortune should remove them - there
 Registers still mix across the five, but in practice each slot has a natural pull.
 Lean into it unless a fresher shape genuinely serves the line better:
 
-- **Most** — a creature/nature image of the excess, usually with a short tail that
+- **Most** — an image of the excess, usually with a short tail that
   names where it tips into too-much. Bittersweet: the trait admired _and_ quietly
   mourned. ("The luna moth moves toward all lights, drifting everywhere and going
   nowhere.")
+
+**The creature belongs to the whole column, not to `Most`.** The entry's `creature`
+may carry any one of the five — the wren at `Least` embracing the inverse, the
+crocodile at `Mid` as a flat maxim — and reaching for it at `Most` every time is
+the single most visible tic in the corpus. Use it at most once per entry, and vary
+which slot gets it across entries. A `Most` with no animal in it at all is fine.
 - **High** — plain, confident advice that affirms the trait, often a bare
   imperative. No image required. ("Do not settle for less than the best.")
 - **Mid** — a flat statement or maxim at low pitch; mild, the gentle correction of

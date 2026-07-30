@@ -38,7 +38,7 @@ answerMid: I learn their age and a bit about their history and personal life
 answerLow: I learn all about them and a few other actors while I'm there
 answerLeast: I spend an hour clicking on links and up somewhere completely unrelated
 rorschachMost: a wide-eyed owl's head
-rorschachHigh: a craggy mountain range
+rorschachHigh: a locomotive train
 rorschachMid: a crushed insect
 rorschachLow: a growing ink stain
 rorschachLeast: a decomposing turnip

@@ -1,0 +1,1668 @@
+{
+  "state": {
+    "claimed": {
+      "id": "bitter-roasted-butter",
+      "on": "2026-05-31"
+    },
+    "fortuneHistory": [
+      {
+        "seenAt": "2026-05-31T00:38:56.994Z",
+        "date": "2026-05-31",
+        "zodiacId": "bitter-fried-pinto",
+        "facetTitle": "The Shell, Still Holding",
+        "facetText": "A nervous kid stands up to recite a poem and stumbles over half the lines. There's an easy laugh right there — you hold it, and clap like they nailed it instead.",
+        "spiritTags": {
+          "friendlyBeans": ["fava", "chickpea"],
+          "antiBeans": ["black", "mung"],
+          "antiTriple": "sour-boiled-navy",
+          "friendlyForm": "fermented",
+          "antiForm": "dried"
+        },
+        "variant": "facet",
+        "question": null,
+        "rorschachImage": null,
+        "qualityId": "stale",
+        "score": 1,
+        "text": "Ceremony isn't the enemy. It's the bowl the meal sits in.",
+        "answeredQuality": null,
+        "answerText": null,
+        "rorschachText": null
+      },
+      {
+        "seenAt": "2026-05-31T23:04:10.034Z",
+        "date": "2026-06-01",
+        "zodiacId": "spicy-smoked-cannellini",
+        "facetTitle": "Fat Settled Back",
+        "facetText": "The open-mic comic has been bombing for ten minutes, sweating through the silences. He corners you at the bar after, asking how it went, and you tell him only about the one joke that actually worked.",
+        "spiritTags": {
+          "friendlyBeans": ["edamame", "black"],
+          "antiBeans": ["kidney", "adzuki"],
+          "antiTriple": "sweet-roasted-mung",
+          "friendlyForm": "dried",
+          "antiForm": "boiled"
+        },
+        "variant": "facet",
+        "question": null,
+        "rorschachImage": null,
+        "qualityId": "stale",
+        "score": 1,
+        "text": "The knife stays in the drawer when not in use.",
+        "answeredQuality": null,
+        "answerText": null,
+        "rorschachText": null
+      },
+      {
+        "seenAt": "2026-06-02T10:08:58.292Z",
+        "date": "2026-06-02",
+        "zodiacId": "umami-fried-butter",
+        "facetTitle": "The Fritter on Contact",
+        "facetText": "Two flats for the same price. One is beautiful, with a bay window you didn't realise you wanted, but it's an hour from work and needs some repair. The other is a bit plain, but new and warm and ten minutes from the office. You say yes to the plain one.",
+        "spiritTags": {
+          "friendlyBeans": ["navy", "cannellini"],
+          "antiBeans": ["black", "fava"],
+          "antiTriple": "bitter-smoked-pinto",
+          "friendlyForm": "boiled",
+          "antiForm": "fermented"
+        },
+        "variant": "rorschach",
+        "question": null,
+        "rorschachImage": "/images/rorschach/umami-fried-butter.png",
+        "qualityId": "market",
+        "score": 1,
+        "text": "Repair it before you replace it.",
+        "answeredQuality": "market",
+        "answerText": null,
+        "rorschachText": "a split log, both halves"
+      },
+      {
+        "seenAt": "2026-06-03T10:16:40.846Z",
+        "date": "2026-06-03",
+        "zodiacId": "sweet-smoked-mung",
+        "facetTitle": "Cardamom Before the Pot",
+        "facetText": "A stranger compliments your jacket in the lift. By the time the doors open you've told them where the money's tight this month, and meant it.",
+        "spiritTags": {
+          "friendlyBeans": ["butter", "cannellini"],
+          "antiBeans": ["edamame", "adzuki"],
+          "antiTriple": "sour-fried-green",
+          "friendlyForm": "boiled",
+          "antiForm": "roasted"
+        },
+        "variant": "question",
+        "question": "Last slow dance at the wedding, the lights low, and your partner pulls you close and asks softly how you're really doing. You...",
+        "rorschachImage": null,
+        "qualityId": "rotten",
+        "score": 1,
+        "text": "Put a rim on the sweetness you keep pouring out.",
+        "answeredQuality": "rotten",
+        "answerText": "say \"great, perfect night\" and spin them back into the song",
+        "rorschachText": null
+      },
+      {
+        "seenAt": "2026-06-04T02:28:53.658Z",
+        "date": "2026-06-04",
+        "zodiacId": "sweet-dried-chickpea",
+        "facetTitle": "Flour, Shade by Shade",
+        "facetText": "At the edge of a crowded festival a kid is crying, lost, ignored by the streaming crowd. You crouch to their level and stay until someone comes.",
+        "spiritTags": {
+          "friendlyBeans": ["mung", "adzuki"],
+          "antiBeans": ["edamame", "cannellini"],
+          "antiTriple": "sour-smoked-black",
+          "friendlyForm": "boiled",
+          "antiForm": "fried"
+        },
+        "variant": "rorschach",
+        "question": null,
+        "rorschachImage": "/images/rorschach/sweet-dried-chickpea.png",
+        "qualityId": "garden",
+        "score": 1,
+        "text": "Your warmth becomes the whole portrait and the rest of you folds away at the back of the drawer.",
+        "answeredQuality": "garden",
+        "answerText": null,
+        "rorschachText": "a ladle hanging beside the stove"
+      },
+      {
+        "seenAt": "2026-06-05T03:20:08.082Z",
+        "date": "2026-06-05",
+        "zodiacId": "sour-roasted-cannellini",
+        "facetTitle": "Lemon Held Back",
+        "facetText": "A friend wants to know if the dress is really right, and there's a flaw they haven't seen. You don't bury it — you ask the question that walks them to it themselves.",
+        "spiritTags": {
+          "friendlyBeans": ["mung", "navy"],
+          "antiBeans": ["fava", "green"],
+          "antiTriple": "spicy-smoked-black",
+          "friendlyForm": "fried",
+          "antiForm": "fried"
+        },
+        "variant": "facet",
+        "question": null,
+        "rorschachImage": null,
+        "qualityId": "garden",
+        "score": 1,
+        "text": "Someone wants your honest read.",
+        "answeredQuality": null,
+        "answerText": null,
+        "rorschachText": null
+      },
+      {
+        "seenAt": "2026-06-06T03:58:37.166Z",
+        "date": "2026-06-06",
+        "zodiacId": "spicy-fermented-navy",
+        "facetTitle": "Chorizo in a Dry Pan",
+        "facetText": "Build the thing the way you see it, alone, before anyone's had a chance to weigh in. Their notes can come once it exists — you'd rather not have them in your ear while it's forming.",
+        "spiritTags": {
+          "friendlyBeans": ["black", "butter"],
+          "antiBeans": ["mung", "pinto"],
+          "antiTriple": "sweet-roasted-chickpea",
+          "friendlyForm": "dried",
+          "antiForm": "fried"
+        },
+        "variant": "facet",
+        "question": null,
+        "rorschachImage": null,
+        "qualityId": "market",
+        "score": 1,
+        "text": "Show the new thing to the one friend who'll tell you what's off.",
+        "answeredQuality": null,
+        "answerText": null,
+        "rorschachText": null
+      },
+      {
+        "seenAt": "2026-06-07T05:07:30.695Z",
+        "date": "2026-06-07",
+        "zodiacId": "umami-fermented-pinto",
+        "facetTitle": "The Darkening Jar",
+        "facetText": "The fireworks go up, the crowd around you gasps at each one — and you watch them open and fade and feel about as much as you would for passing traffic.",
+        "spiritTags": {
+          "friendlyBeans": ["adzuki", "butter"],
+          "antiBeans": ["mung", "navy"],
+          "antiTriple": "spicy-boiled-kidney",
+          "friendlyForm": "smoked",
+          "antiForm": "dried"
+        },
+        "variant": "question",
+        "question": "The first warm morning of spring lands on the garden you used to live in. You...",
+        "rorschachImage": null,
+        "qualityId": "stale",
+        "score": 1,
+        "text": "Weather changes on your face before you've named it.",
+        "answeredQuality": "stale",
+        "answerText": "pull a few weeds at the edge and call it enough",
+        "rorschachText": null
+      },
+      {
+        "seenAt": "2026-06-08T00:15:53.808Z",
+        "date": "2026-06-08",
+        "zodiacId": "sweet-dried-cannellini",
+        "facetTitle": "Lemons Going Soft",
+        "facetText": "Arms already full, you wade deeper into a yard sale that sprawls mismatched and overflowing under the trees, hauling home far more than you came for.",
+        "spiritTags": {
+          "friendlyBeans": ["edamame", "black"],
+          "antiBeans": ["kidney", "pinto"],
+          "antiTriple": "spicy-roasted-chickpea",
+          "friendlyForm": "boiled",
+          "antiForm": "fried"
+        },
+        "variant": "facet",
+        "question": null,
+        "rorschachImage": null,
+        "qualityId": "rotten",
+        "score": -1,
+        "text": "Pour two glasses for whoever's nearest and let the evening go heaped and chaotic.",
+        "answeredQuality": null,
+        "answerText": null,
+        "rorschachText": null
+      },
+      {
+        "seenAt": "2026-06-09T09:23:36.509Z",
+        "date": "2026-06-09",
+        "zodiacId": "sour-roasted-chickpea",
+        "facetTitle": "Pomegranate Thinned by Yogurt",
+        "facetText": "A street preacher is shouting down everything you hold true. Instead of walking past, you stop and ask him to make his strongest point first.",
+        "spiritTags": {
+          "friendlyBeans": ["mung", "fava"],
+          "antiBeans": ["black", "cannellini"],
+          "antiTriple": "bitter-dried-navy",
+          "friendlyForm": "fried",
+          "antiForm": "smoked"
+        },
+        "variant": "facet",
+        "question": null,
+        "rorschachImage": null,
+        "qualityId": "heirloom",
+        "score": -1,
+        "text": "The objection you meant to dismiss turns out to be the stronger argument — that's the luck of your turn.",
+        "answeredQuality": null,
+        "answerText": null,
+        "rorschachText": null
+      },
+      {
+        "seenAt": "2026-06-09T23:21:07.139Z",
+        "date": "2026-06-10",
+        "zodiacId": "spicy-dried-butter",
+        "facetTitle": "The Clay Pot at Blister",
+        "facetText": "Third jam in a row, and something in you goes from zero to white. Up out of the chair, tray yanked open, before the thought even catches up.",
+        "spiritTags": {
+          "friendlyBeans": ["green", "edamame"],
+          "antiBeans": ["adzuki", "fava"],
+          "antiTriple": "umami-boiled-cannellini",
+          "friendlyForm": "smoked",
+          "antiForm": "roasted"
+        },
+        "variant": "rorschach",
+        "question": null,
+        "rorschachImage": "/images/rorschach/spicy-dried-butter.png",
+        "qualityId": "garden",
+        "score": 1,
+        "text": "Three minor things have stacked.",
+        "answeredQuality": "garden",
+        "answerText": null,
+        "rorschachText": "a rotisserie chicken blistering in the heat"
+      },
+      {
+        "seenAt": "2026-06-11T00:09:32.763Z",
+        "date": "2026-06-11",
+        "zodiacId": "spicy-smoked-butter",
+        "facetTitle": "The Smoldering Reply",
+        "facetText": "At the loud retirement dinner everyone's making big speeches. When your turn comes you offer four plain words and sit down.",
+        "spiritTags": {
+          "friendlyBeans": ["black", "mung"],
+          "antiBeans": ["adzuki", "pinto"],
+          "antiTriple": "sour-roasted-green",
+          "friendlyForm": "boiled",
+          "antiForm": "fried"
+        },
+        "variant": "facet",
+        "question": null,
+        "rorschachImage": null,
+        "qualityId": "market",
+        "score": 1,
+        "text": "One true line, said once and late, smolders longer than any speech.",
+        "answeredQuality": null,
+        "answerText": null,
+        "rorschachText": null
+      },
+      {
+        "seenAt": "2026-06-12T10:48:32.132Z",
+        "date": "2026-06-12",
+        "zodiacId": "umami-dried-chickpea",
+        "facetTitle": "The Chorizo's Slow Colour",
+        "facetText": "Course by slow course, you'd take on a neighbour's abandoned stone wall as your own — the one that's sat half-built and weed-choked for a year — and not stop until it stands finished and load-bearing.",
+        "spiritTags": {
+          "friendlyBeans": ["black", "fava"],
+          "antiBeans": ["mung", "edamame"],
+          "antiTriple": "sweet-boiled-kidney",
+          "friendlyForm": "fermented",
+          "antiForm": "roasted"
+        },
+        "variant": "facet",
+        "question": null,
+        "rorschachImage": null,
+        "qualityId": "heirloom",
+        "score": -1,
+        "text": "The thing you began in winter, carry into summer.",
+        "answeredQuality": null,
+        "answerText": null,
+        "rorschachText": null
+      },
+      {
+        "seenAt": "2026-06-12T20:28:50.596Z",
+        "date": "2026-06-13",
+        "zodiacId": "sweet-dried-navy",
+        "facetTitle": "Foil Tucked Under",
+        "facetText": "A jury summons comes in the mail. You do it without a fuss, and without looking for a way to get out of it.",
+        "spiritTags": {
+          "friendlyBeans": ["butter", "black"],
+          "antiBeans": ["chickpea", "green"],
+          "antiTriple": "spicy-fermented-pinto",
+          "friendlyForm": "boiled",
+          "antiForm": "roasted"
+        },
+        "variant": "facet",
+        "question": null,
+        "rorschachImage": null,
+        "qualityId": "garden",
+        "score": 1,
+        "text": "The tasks stop being things you do and become things you are.",
+        "answeredQuality": null,
+        "answerText": null,
+        "rorschachText": null
+      },
+      {
+        "seenAt": "2026-06-14T10:55:13.048Z",
+        "date": "2026-06-14",
+        "zodiacId": "umami-boiled-pinto",
+        "facetTitle": "The Second Pot, Early",
+        "facetText": "A stranger on the trail asks if anyone knows the way down, and you happen to. Speak up first, before the quiet one in you talks you out of it.",
+        "spiritTags": {
+          "friendlyBeans": ["butter", "adzuki"],
+          "antiBeans": ["kidney", "chickpea"],
+          "antiTriple": "spicy-fried-fava",
+          "friendlyForm": "smoked",
+          "antiForm": "roasted"
+        },
+        "variant": "facet",
+        "question": null,
+        "rorschachImage": null,
+        "qualityId": "stale",
+        "score": 1,
+        "text": "A pause is going to open in the conversation that matters. Step into it before the topic moves.",
+        "answeredQuality": null,
+        "answerText": null,
+        "rorschachText": null
+      },
+      {
+        "seenAt": "2026-06-15T01:40:43.177Z",
+        "date": "2026-06-15",
+        "zodiacId": "sour-fermented-pinto",
+        "facetTitle": "The Chipotle That Sinks",
+        "facetText": "A doctor says the scan looks mostly fine and your ear locks onto the mostly. The reassurance slides off and the one soft word is the thing you carry home.",
+        "spiritTags": {
+          "friendlyBeans": ["mung", "adzuki"],
+          "antiBeans": ["kidney", "black"],
+          "antiTriple": "bitter-boiled-fava",
+          "friendlyForm": "roasted",
+          "antiForm": "dried"
+        },
+        "variant": "question",
+        "question": "Your manager messages out of nowhere — got a sec to talk later? — no subject, no smiley, nothing else. You...",
+        "rorschachImage": null,
+        "qualityId": "market",
+        "score": 1,
+        "text": "The real thing was never in the cheerful opening. Read past it to the part you've been avoiding.",
+        "answeredQuality": "market",
+        "answerText": "reply already braced for the worse version of the news",
+        "rorschachText": null
+      },
+      {
+        "seenAt": "2026-06-16T07:11:29.432Z",
+        "date": "2026-06-16",
+        "zodiacId": "bitter-roasted-mung",
+        "facetTitle": "Grain Warm in the Palm",
+        "facetText": "Thanked warmly for the favour, you take it cleanly — no deflecting clause, no quiet correction trailing after.",
+        "spiritTags": {
+          "friendlyBeans": ["butter", "adzuki"],
+          "antiBeans": ["green", "pinto"],
+          "antiTriple": "sour-fried-edamame",
+          "friendlyForm": "smoked",
+          "antiForm": "dried"
+        },
+        "variant": "question",
+        "question": "The whole street turned out for the river clean-up you quietly organised, and now someone's raising a glass to thank you by name. You...",
+        "rorschachImage": null,
+        "qualityId": "garden",
+        "score": 1,
+        "text": "A thank-you that stops at the thank-you.",
+        "answeredQuality": "garden",
+        "answerText": "accept it warmly and call it everyone's doing",
+        "rorschachText": null
+      },
+      {
+        "seenAt": "2026-06-17T06:34:26.223Z",
+        "date": "2026-06-17",
+        "zodiacId": "umami-boiled-edamame",
+        "facetTitle": "What Dashi Withholds",
+        "facetText": "Sleet sideways, the trailhead empty, the marathon you've trained a year for still on. You lace up and head out into it because not running was never one of the options.",
+        "spiritTags": {
+          "friendlyBeans": ["black", "navy"],
+          "antiBeans": ["chickpea", "fava"],
+          "antiTriple": "sweet-smoked-pinto",
+          "friendlyForm": "dried",
+          "antiForm": "fermented"
+        },
+        "variant": "facet",
+        "question": null,
+        "rorschachImage": null,
+        "qualityId": "heirloom",
+        "score": -1,
+        "text": "Same chair, same hour, a little longer than yesterday.",
+        "answeredQuality": null,
+        "answerText": null,
+        "rorschachText": null
+      },
+      {
+        "seenAt": "2026-06-18T03:11:33.507Z",
+        "date": "2026-06-18",
+        "zodiacId": "bitter-roasted-butter",
+        "facetTitle": "The Second Helping",
+        "facetText": "A long soak's gone lukewarm. Rather than climb out, you top it from the hot tap and sink back under.",
+        "spiritTags": {
+          "friendlyBeans": ["mung", "adzuki"],
+          "antiBeans": ["green", "edamame"],
+          "antiTriple": "sour-dried-kidney",
+          "friendlyForm": "boiled",
+          "antiForm": "fried"
+        },
+        "variant": "question",
+        "question": "It's Friday night and the week has been long. The kitchen is empty. You...",
+        "rorschachImage": null,
+        "qualityId": "garden",
+        "score": 1,
+        "text": "Leftovers reheated, a proper glass set beside them.",
+        "answeredQuality": "garden",
+        "answerText": "heat up leftovers and pour a proper glass",
+        "rorschachText": null
+      },
+      {
+        "seenAt": "2026-06-19T11:22:01.813Z",
+        "date": "2026-06-19",
+        "zodiacId": "sour-roasted-adzuki",
+        "facetTitle": "Zest Without the Fruit",
+        "facetText": "For a laugh, the whole table's trading stories on awful things they've done, and now regret. You keep quiet.",
+        "spiritTags": {
+          "friendlyBeans": ["butter", "pinto"],
+          "antiBeans": ["green", "edamame"],
+          "antiTriple": "bitter-smoked-black",
+          "friendlyForm": "fried",
+          "antiForm": "dried"
+        },
+        "variant": "rorschach",
+        "question": null,
+        "rorschachImage": "/images/rorschach/sour-roasted-adzuki.png",
+        "qualityId": "stale",
+        "score": 1,
+        "text": "Sand the edge off before you hand it over.",
+        "answeredQuality": "stale",
+        "answerText": null,
+        "rorschachText": "a turtle drawing its head back under its shell"
+      },
+      {
+        "seenAt": "2026-06-20T07:01:42.436Z",
+        "date": "2026-06-20",
+        "zodiacId": "bitter-boiled-navy",
+        "facetTitle": "Escarole in Whatever's Warm",
+        "facetText": "You're halfway through defending a position when a sharper thought arrives and quietly demolishes it. Down goes your own line, the new one finished aloud instead.",
+        "spiritTags": {
+          "friendlyBeans": ["butter", "adzuki"],
+          "antiBeans": ["kidney", "pinto"],
+          "antiTriple": "spicy-smoked-chickpea",
+          "friendlyForm": "dried",
+          "antiForm": "fermented"
+        },
+        "variant": "rorschach",
+        "question": null,
+        "rorschachImage": "/images/rorschach/bitter-boiled-navy.png",
+        "qualityId": "garden",
+        "score": 1,
+        "text": "Test the rule against the case before you cite it.",
+        "answeredQuality": "garden",
+        "answerText": null,
+        "rorschachText": "a blocky chunk of rock, one chip beside it"
+      },
+      {
+        "seenAt": "2026-06-21T08:04:51.586Z",
+        "date": "2026-06-21",
+        "zodiacId": "sour-smoked-cannellini",
+        "facetTitle": "Cavolo Nero's Honest Dark",
+        "facetText": "A guide is walking the group through a story you know has a hole in it. You raise your hand and ask the question that opens the hole, plainly.",
+        "spiritTags": {
+          "friendlyBeans": ["black", "edamame"],
+          "antiBeans": ["adzuki", "chickpea"],
+          "antiTriple": "sweet-roasted-kidney",
+          "friendlyForm": "dried",
+          "antiForm": "boiled"
+        },
+        "variant": "facet",
+        "question": null,
+        "rorschachImage": null,
+        "qualityId": "garden",
+        "score": -1,
+        "text": "Name the bad number where it sits, not in the car afterward.",
+        "answeredQuality": null,
+        "answerText": null,
+        "rorschachText": null
+      },
+      {
+        "seenAt": "2026-06-21T23:44:08.385Z",
+        "date": "2026-06-22",
+        "zodiacId": "sweet-fried-kidney",
+        "facetTitle": "Filling Left Uncovered",
+        "facetText": "A friend's venting about a rough stretch and your fixes are right at your lips. You hold them, and just ask what they actually want from you before saying a thing.",
+        "spiritTags": {
+          "friendlyBeans": ["mung", "green"],
+          "antiBeans": ["black", "edamame"],
+          "antiTriple": "sour-dried-cannellini",
+          "friendlyForm": "roasted",
+          "antiForm": "fermented"
+        },
+        "variant": "question",
+        "question": "Your kid wants to walk to school alone for the first time, the route crossing one busy road. You...",
+        "rorschachImage": null,
+        "qualityId": "market",
+        "score": 1,
+        "text": "Make the call they've been dreading, on their behalf.",
+        "answeredQuality": "market",
+        "answerText": "walk them to the corner and watch till they're across",
+        "rorschachText": null
+      },
+      {
+        "seenAt": "2026-06-23T10:34:21.737Z",
+        "date": "2026-06-23",
+        "zodiacId": "bitter-dried-edamame",
+        "facetTitle": "The Last Turn of the Grinder",
+        "facetText": "Having just landed at the airport, the customs officer asks the purpose of your visit. You reply with a single word.",
+        "spiritTags": {
+          "friendlyBeans": ["black", "cannellini"],
+          "antiBeans": ["butter", "mung"],
+          "antiTriple": "sweet-roasted-adzuki",
+          "friendlyForm": "smoked",
+          "antiForm": "fermented"
+        },
+        "variant": "facet",
+        "question": null,
+        "rorschachImage": null,
+        "qualityId": "market",
+        "score": 1,
+        "text": "Cut it in half.",
+        "answeredQuality": null,
+        "answerText": null,
+        "rorschachText": null
+      },
+      {
+        "seenAt": "2026-06-23T21:21:06.244Z",
+        "date": "2026-06-24",
+        "zodiacId": "sour-roasted-black",
+        "facetTitle": "Lime Over Rough Edges",
+        "facetText": "A coworker mentions their dad's back in hospital, then starts gathering their things to go. You ask how bad it is.",
+        "spiritTags": {
+          "friendlyBeans": ["butter", "adzuki"],
+          "antiBeans": ["edamame", "green"],
+          "antiTriple": "spicy-fried-cannellini",
+          "friendlyForm": "boiled",
+          "antiForm": "smoked"
+        },
+        "variant": "facet",
+        "question": null,
+        "rorschachImage": null,
+        "qualityId": "garden",
+        "score": -1,
+        "text": "You can drop the act today.",
+        "answeredQuality": null,
+        "answerText": null,
+        "rorschachText": null
+      },
+      {
+        "seenAt": "2026-06-25T06:16:47.740Z",
+        "date": "2026-06-25",
+        "zodiacId": "sweet-fermented-adzuki",
+        "facetTitle": "The Curling Yuzu Peel",
+        "facetText": "A nearby stranger's perfume is one you recognise. A half-memory forms, a faint happiness. You chase the memory for a good while.",
+        "spiritTags": {
+          "friendlyBeans": ["pinto", "chickpea"],
+          "antiBeans": ["black", "kidney"],
+          "antiTriple": "sour-dried-edamame",
+          "friendlyForm": "smoked",
+          "antiForm": "fried"
+        },
+        "variant": "facet",
+        "question": null,
+        "rorschachImage": null,
+        "qualityId": "garden",
+        "score": 1,
+        "text": "A small thing is kept for no reason.",
+        "answeredQuality": null,
+        "answerText": null,
+        "rorschachText": null
+      },
+      {
+        "seenAt": "2026-06-26T10:58:02.545Z",
+        "date": "2026-06-26",
+        "zodiacId": "spicy-fermented-mung",
+        "facetTitle": "Fish Sauce Before the Lid",
+        "facetText": "Your fingers have find the loose thread on your sleeve, the chip in the mug rim, the edge of the label. Pick at it, and pick at it again, the way you can't seem not to.",
+        "spiritTags": {
+          "friendlyBeans": ["kidney", "fava"],
+          "antiBeans": ["edamame", "adzuki"],
+          "antiTriple": "sour-fried-navy",
+          "friendlyForm": "smoked",
+          "antiForm": "dried"
+        },
+        "variant": "facet",
+        "question": null,
+        "rorschachImage": null,
+        "qualityId": "market",
+        "score": 1,
+        "text": "Double, triple, maybe even quadruple-check it.",
+        "answeredQuality": null,
+        "answerText": null,
+        "rorschachText": null
+      },
+      {
+        "seenAt": "2026-06-27T10:51:12.094Z",
+        "date": "2026-06-27",
+        "zodiacId": "umami-boiled-fava",
+        "facetTitle": "The Skin Where Heat Ran High",
+        "facetText": "Drift toward the rail, lean there, say nothing — there's one kid at the playground fence gone still while the others shriek, and you've already noticed.",
+        "spiritTags": {
+          "friendlyBeans": ["black", "cannellini"],
+          "antiBeans": ["adzuki", "green"],
+          "antiTriple": "sweet-roasted-pinto",
+          "friendlyForm": "smoked",
+          "antiForm": "smoked"
+        },
+        "variant": "rorschach",
+        "question": null,
+        "rorschachImage": "/images/rorschach/umami-boiled-fava.png",
+        "qualityId": "rotten",
+        "score": 1,
+        "text": "Hand them the keys and don't watch the road.",
+        "answeredQuality": "rotten",
+        "answerText": null,
+        "rorschachText": "a sleeping fox curled nose to tail"
+      },
+      {
+        "seenAt": "2026-06-27T23:30:21.295Z",
+        "date": "2026-06-28",
+        "zodiacId": "sweet-dried-mung",
+        "facetTitle": "The Bean That Refuses the Mortar",
+        "facetText": "A practised sob story works its way down the train carriage, coins clinking in a cup as it reaches you. You keep your wallet shut, and your eyes fixed on nothing at all.",
+        "spiritTags": {
+          "friendlyBeans": ["butter", "cannellini"],
+          "antiBeans": ["edamame", "black"],
+          "antiTriple": "sour-fried-green",
+          "friendlyForm": "smoked",
+          "antiForm": "smoked"
+        },
+        "variant": "facet",
+        "question": null,
+        "rorschachImage": null,
+        "qualityId": "stale",
+        "score": 1,
+        "text": "Tenderness isn't openness; a propped door lets weather in too.",
+        "answeredQuality": null,
+        "answerText": null,
+        "rorschachText": null
+      },
+      {
+        "seenAt": "2026-06-29T05:18:24.037Z",
+        "date": "2026-06-29",
+        "zodiacId": "umami-fried-cannellini",
+        "facetTitle": "The Seam the Heat Finds",
+        "facetText": "A stranger tells their side of a quarrel you've already judged, and you set the verdict down to hear the half you never witnessed.",
+        "spiritTags": {
+          "friendlyBeans": ["edamame", "green"],
+          "antiBeans": ["adzuki", "black"],
+          "antiTriple": "sweet-smoked-butter",
+          "friendlyForm": "dried",
+          "antiForm": "fermented"
+        },
+        "variant": "question",
+        "question": "On the empty platform you find a wallet, fat with cash, a driver's licence tucked inside. You...",
+        "rorschachImage": null,
+        "qualityId": "market",
+        "score": 1,
+        "text": "A friend's name is missing from the thread, and the lamp stays on till you've fixed it.",
+        "answeredQuality": "market",
+        "answerText": "hand it to the station office, cash and all",
+        "rorschachText": null
+      },
+      {
+        "seenAt": "2026-06-30T05:41:48.111Z",
+        "date": "2026-06-30",
+        "zodiacId": "bitter-roasted-fava",
+        "facetTitle": "Walnuts Shifted",
+        "facetText": "There's a dish on the menu you've never heard of and can't even picture. You feel like you have to order it.",
+        "spiritTags": {
+          "friendlyBeans": ["chickpea", "mung"],
+          "antiBeans": ["navy", "black"],
+          "antiTriple": "sour-smoked-cannellini",
+          "friendlyForm": "fried",
+          "antiForm": "dried"
+        },
+        "variant": "facet",
+        "question": null,
+        "rorschachImage": null,
+        "qualityId": "garden",
+        "score": 1,
+        "text": "Test the ice, then forge ahead.",
+        "answeredQuality": null,
+        "answerText": null,
+        "rorschachText": null
+      },
+      {
+        "seenAt": "2026-07-01T10:56:51.303Z",
+        "date": "2026-07-01",
+        "zodiacId": "sweet-smoked-adzuki",
+        "facetTitle": "Syrup at the Lowest Point",
+        "facetText": "The lift jams between floors, there's three strangers and it looks to be a long wait. You toss out a joke and try to get everyone talking.",
+        "spiritTags": {
+          "friendlyBeans": ["cannellini", "pinto"],
+          "antiBeans": ["edamame", "chickpea"],
+          "antiTriple": "sour-fried-kidney",
+          "friendlyForm": "roasted",
+          "antiForm": "roasted"
+        },
+        "variant": "question",
+        "question": "Sun's still high at the festival when the band kicks in, but the patch in front of the stage is empty. Looks like no one wants to dance first. You...",
+        "rorschachImage": null,
+        "qualityId": "stale",
+        "score": 1,
+        "text": "The bright front room has been left dark.",
+        "answeredQuality": "stale",
+        "answerText": "hang at the railing with a drink and cheer the dancers on",
+        "rorschachText": null
+      },
+      {
+        "seenAt": "2026-07-02T08:15:16.349Z",
+        "date": "2026-07-02",
+        "zodiacId": "sweet-roasted-butter",
+        "facetTitle": "The Oven Runs Long",
+        "facetText": "The graduation's dragging into its second hour of names. You start clapping for total strangers, just to wake everyone up.",
+        "spiritTags": {
+          "friendlyBeans": ["adzuki", "mung"],
+          "antiBeans": ["green", "kidney"],
+          "antiTriple": "bitter-fried-fava",
+          "friendlyForm": "boiled",
+          "antiForm": "smoked"
+        },
+        "variant": "facet",
+        "question": null,
+        "rorschachImage": null,
+        "qualityId": "market",
+        "score": 1,
+        "text": "Arrive late with pastries; the lateness will easily be forgiven.",
+        "answeredQuality": null,
+        "answerText": null,
+        "rorschachText": null
+      },
+      {
+        "seenAt": "2026-07-03T03:34:25.379Z",
+        "date": "2026-07-03",
+        "zodiacId": "sweet-smoked-pinto",
+        "facetTitle": "Tomato Whole in the Broth",
+        "facetText": "A story reaches you from a second-hand source, highly outrageous and absent of details. Before you'll believe a word of it, you want who actually said what, exactly, and in what order.",
+        "spiritTags": {
+          "friendlyBeans": ["edamame", "fava"],
+          "antiBeans": ["chickpea", "navy"],
+          "antiTriple": "umami-roasted-kidney",
+          "friendlyForm": "fermented",
+          "antiForm": "boiled"
+        },
+        "variant": "facet",
+        "question": null,
+        "rorschachImage": null,
+        "qualityId": "stale",
+        "score": 1,
+        "text": "Smoke is lovely; no one is fed by it.",
+        "answeredQuality": null,
+        "answerText": null,
+        "rorschachText": null
+      },
+      {
+        "seenAt": "2026-07-03T21:41:42.745Z",
+        "date": "2026-07-04",
+        "zodiacId": "sweet-roasted-kidney",
+        "facetTitle": "The Cluster Cooling in Your Palm",
+        "facetText": "Your grown sibling mentions in passing they've had a mild cold. You immediately offer to come over with soup and medicine, and stay the night in case it turns.",
+        "spiritTags": {
+          "friendlyBeans": ["mung", "fava"],
+          "antiBeans": ["navy", "fava"],
+          "antiTriple": "sour-fermented-edamame",
+          "friendlyForm": "smoked",
+          "antiForm": "dried"
+        },
+        "variant": "question",
+        "question": "Your friend is buzzing about the thirteen weeks they're about to spend backpacking solo across South America. It's not for a couple of months. You...",
+        "rorschachImage": null,
+        "qualityId": "stale",
+        "score": 1,
+        "text": "Let them wade past the buoys, even as your feet itch for the water.",
+        "answeredQuality": "stale",
+        "answerText": "tell them it sounds brilliant and ask for postcards",
+        "rorschachText": null
+      },
+      {
+        "seenAt": "2026-07-04T23:24:27.467Z",
+        "date": "2026-07-05",
+        "zodiacId": "sweet-boiled-edamame",
+        "facetTitle": "The Sunday Mochi",
+        "facetText": "A group trip is dying in the chat — dates slipping, nobody booking anything. You quietly take it over, lock the dates, put down the deposit, and make it happen.",
+        "spiritTags": {
+          "friendlyBeans": ["navy", "butter"],
+          "antiBeans": ["chickpea", "green"],
+          "antiTriple": "spicy-fermented-pinto",
+          "friendlyForm": "dried",
+          "antiForm": "fried"
+        },
+        "variant": "facet",
+        "question": null,
+        "rorschachImage": null,
+        "qualityId": "heirloom",
+        "score": 1,
+        "text": "Nobody thanks the tap for running.",
+        "answeredQuality": null,
+        "answerText": null,
+        "rorschachText": null
+      },
+      {
+        "seenAt": "2026-07-06T02:30:33.815Z",
+        "date": "2026-07-06",
+        "zodiacId": "bitter-smoked-black",
+        "facetTitle": "Parsley for the Char",
+        "facetText": "The person next to you on the plane is white-knuckled and rigid through every bump. You lean in and start a low, easy stream of conversation to take their mind off it.",
+        "spiritTags": {
+          "friendlyBeans": ["navy", "fava"],
+          "antiBeans": ["kidney", "chickpea"],
+          "antiTriple": "sweet-roasted-adzuki",
+          "friendlyForm": "dried",
+          "antiForm": "fried"
+        },
+        "variant": "question",
+        "question": "At your pottery class, you are in the middle of building a large and challenging piece. A nervous newcomer takes the empty stool beside you and says \"hello\". You...",
+        "rorschachImage": null,
+        "qualityId": "stale",
+        "score": 1,
+        "text": "Fear finds nothing to stand on.",
+        "answeredQuality": "stale",
+        "answerText": "say hi and ask them to give you a second to finish up, then introduce yourself properly",
+        "rorschachText": null
+      },
+      {
+        "seenAt": "2026-07-06T21:45:18.892Z",
+        "date": "2026-07-07",
+        "zodiacId": "sour-dried-fava",
+        "facetTitle": "Sumac Folded Deep",
+        "facetText": "A kid has a lemonade stand on the corner and the cup she pours you is sickly sweet. You congratulate her on being a master chef, and buy another cup.",
+        "spiritTags": {
+          "friendlyBeans": ["kidney", "chickpea"],
+          "antiBeans": ["mung", "cannellini"],
+          "antiTriple": "bitter-boiled-adzuki",
+          "friendlyForm": "fried",
+          "antiForm": "roasted"
+        },
+        "variant": "facet",
+        "question": null,
+        "rorschachImage": null,
+        "qualityId": "rotten",
+        "score": 1,
+        "text": "The sharp tongue softens for the select few.",
+        "answeredQuality": null,
+        "answerText": null,
+        "rorschachText": null
+      },
+      {
+        "seenAt": "2026-07-07T23:42:25.094Z",
+        "date": "2026-07-08",
+        "zodiacId": "umami-fermented-green",
+        "facetTitle": "The Jar, Not Yet Sealed",
+        "facetText": "The band is happy with the fourth arrangement of the song, each more experimental than the last. They want to move on, but you want to push it further, so you pull it apart and start working on a fifth.",
+        "spiritTags": {
+          "friendlyBeans": ["pinto", "adzuki"],
+          "antiBeans": ["navy", "black"],
+          "antiTriple": "bitter-boiled-butter",
+          "friendlyForm": "roasted",
+          "antiForm": "dried"
+        },
+        "variant": "facet",
+        "question": null,
+        "rorschachImage": null,
+        "qualityId": "heirloom",
+        "score": 1,
+        "text": "The orb weaver spins a second web before the first has caught anything.",
+        "answeredQuality": null,
+        "answerText": null,
+        "rorschachText": null
+      },
+      {
+        "seenAt": "2026-07-08T23:39:04.985Z",
+        "date": "2026-07-09",
+        "zodiacId": "sour-roasted-butter",
+        "facetTitle": "Lemon Cuts the Oil",
+        "facetText": "The bins are getting pretty full, your flatmate says to you. You glance over and indeed they are, so you reply \"sure are\" in agreement, not sure why they shared the observation.",
+        "spiritTags": {
+          "friendlyBeans": ["adzuki", "navy"],
+          "antiBeans": ["black", "kidney"],
+          "antiTriple": "spicy-fried-green",
+          "friendlyForm": "boiled",
+          "antiForm": "smoked"
+        },
+        "variant": "question",
+        "question": "You've been desperate to sell your old bike for weeks, when finally a buyer turns up to look it over. You just notice there's a hairline crack in the frame, which they haven't spotted. You...",
+        "rorschachImage": null,
+        "qualityId": "garden",
+        "score": 1,
+        "text": "Look no deeper than what you see on the surface.",
+        "answeredQuality": "garden",
+        "answerText": "answer honestly about it if they ask, but don't bring it up",
+        "rorschachText": null
+      },
+      {
+        "seenAt": "2026-07-10T00:37:24.434Z",
+        "date": "2026-07-10",
+        "zodiacId": "sour-dried-butter",
+        "facetTitle": "Vinegar Where It Lands",
+        "facetText": "Your friends climb over the railing to jump off the quarry ledge into the water below. You know the stories about the rocks under the surface, but you go over the edge with them.",
+        "spiritTags": {
+          "friendlyBeans": ["navy", "black"],
+          "antiBeans": ["green", "chickpea"],
+          "antiTriple": "spicy-fried-kidney",
+          "friendlyForm": "boiled",
+          "antiForm": "fermented"
+        },
+        "variant": "facet",
+        "question": null,
+        "rorschachImage": null,
+        "qualityId": "stale",
+        "score": 1,
+        "text": "It'll probably be fine — what's the worst that could happen?",
+        "answeredQuality": null,
+        "answerText": null,
+        "rorschachText": null
+      },
+      {
+        "seenAt": "2026-07-11T10:42:30.190Z",
+        "date": "2026-07-11",
+        "zodiacId": "spicy-smoked-cannellini",
+        "facetTitle": "The Bean Split Open",
+        "facetText": "Your sister's new boyfriend keeps laughing at his own jokes, loudly. The next time he sets up a punchline you make flat little comment about the laugh to come.",
+        "spiritTags": {
+          "friendlyBeans": ["edamame", "black"],
+          "antiBeans": ["kidney", "adzuki"],
+          "antiTriple": "sweet-roasted-mung",
+          "friendlyForm": "dried",
+          "antiForm": "boiled"
+        },
+        "variant": "question",
+        "question": "It's a pickup basketball game in the park, and the guy guarding you talks himself up after every basket he sinks. You...",
+        "rorschachImage": null,
+        "qualityId": "market",
+        "score": 1,
+        "text": "A red thread of chorizo panics the taste buds, and opens them up.",
+        "answeredQuality": "market",
+        "answerText": "yell \"airball\" before every shot he takes",
+        "rorschachText": null
+      },
+      {
+        "seenAt": "2026-07-11T23:04:38.702Z",
+        "date": "2026-07-12",
+        "zodiacId": "sweet-dried-navy",
+        "facetTitle": "Foil Tucked Under",
+        "facetText": "A jury summons comes in the mail. You do it without a fuss, and without looking for a way to get out of it.",
+        "spiritTags": {
+          "friendlyBeans": ["butter", "black"],
+          "antiBeans": ["chickpea", "green"],
+          "antiTriple": "spicy-fermented-pinto",
+          "friendlyForm": "boiled",
+          "antiForm": "roasted"
+        },
+        "variant": "question",
+        "question": "The camp leader wants every bunk in the cabin made to a tight fold for a morning inspection nobody really cares about, and the others have already run off to the lake. You...",
+        "rorschachImage": null,
+        "qualityId": "garden",
+        "score": 1,
+        "text": "The tasks stop being things you do and become things you are.",
+        "answeredQuality": "garden",
+        "answerText": "make it neat enough to pass a glance",
+        "rorschachText": null
+      },
+      {
+        "seenAt": "2026-07-13T11:40:11.275Z",
+        "date": "2026-07-13",
+        "zodiacId": "sweet-fermented-butter",
+        "facetTitle": "A Bean for Ballast",
+        "facetText": "A jar in the museum gift shop is labelled, dead serious, as the world's smallest ocean. Buy two and give one away with a straight face and zero footnote.",
+        "spiritTags": {
+          "friendlyBeans": ["pinto", "adzuki"],
+          "antiBeans": ["green", "kidney"],
+          "antiTriple": "sour-dried-cannellini",
+          "friendlyForm": "roasted",
+          "antiForm": "fried"
+        },
+        "variant": "rorschach",
+        "question": null,
+        "rorschachImage": "/images/rorschach/sweet-fermented-butter.png",
+        "qualityId": "stale",
+        "score": 1,
+        "text": "Not every silence is yours to break.",
+        "answeredQuality": "stale",
+        "answerText": null,
+        "rorschachText": "a tanned hide pinned out flat"
+      },
+      {
+        "seenAt": "2026-07-14T06:40:04.739Z",
+        "date": "2026-07-14",
+        "zodiacId": "sour-fried-kidney",
+        "facetTitle": "Sourness on the Fingers",
+        "facetText": "The house is actually haunted. A ghost drifts room to room reciting its history, but gets the year of the Great Fire wrong. You correct it before you let it go on haunting.",
+        "spiritTags": {
+          "friendlyBeans": ["fava", "green"],
+          "antiBeans": ["black", "pinto"],
+          "antiTriple": "bitter-smoked-butter",
+          "friendlyForm": "fermented",
+          "antiForm": "fermented"
+        },
+        "variant": "facet",
+        "question": null,
+        "rorschachImage": null,
+        "qualityId": "garden",
+        "score": -1,
+        "text": "The magpie wins its battles through sheer insistence, though its battles are not often necessary.",
+        "answeredQuality": null,
+        "answerText": null,
+        "rorschachText": null
+      },
+      {
+        "seenAt": "2026-07-15T07:57:54.601Z",
+        "date": "2026-07-15",
+        "zodiacId": "bitter-fermented-edamame",
+        "facetTitle": "Before the Rice Is Rinsed",
+        "facetText": "The house ticks every box on your \"must-have\" list, but when you step into the hallway, something feels off. The natural light? The height of the ceiling? The orientation of the rooms? You're not sure, but you're certain it's a no-go.",
+        "spiritTags": {
+          "friendlyBeans": ["green", "pinto"],
+          "antiBeans": ["navy", "adzuki"],
+          "antiTriple": "umami-boiled-butter",
+          "friendlyForm": "dried",
+          "antiForm": "roasted"
+        },
+        "variant": "question",
+        "question": "The dating app flags someone as outside every preference you've set — including politics and religion — but you're fascinated by their picture, and their prompts have really made you laugh. You...",
+        "rorschachImage": null,
+        "qualityId": "garden",
+        "score": 1,
+        "text": "Pebble by pebble, the crow raises the water so it can drink.",
+        "answeredQuality": "garden",
+        "answerText": "give their profile a deeper read before you choose",
+        "rorschachText": null
+      },
+      {
+        "seenAt": "2026-07-16T11:15:51.726Z",
+        "date": "2026-07-16",
+        "zodiacId": "spicy-smoked-black",
+        "facetTitle": "The Bright Pour",
+        "facetText": "Halfway through a haircut the stylist asks how things are, and the whole hard month is out of you before you've decided to share it.",
+        "spiritTags": {
+          "friendlyBeans": ["fava", "cannellini"],
+          "antiBeans": ["pinto", "edamame"],
+          "antiTriple": "sweet-roasted-adzuki",
+          "friendlyForm": "dried",
+          "antiForm": "fried"
+        },
+        "variant": "facet",
+        "question": null,
+        "rorschachImage": null,
+        "qualityId": "stale",
+        "score": -1,
+        "text": "Leave the page open once it's out.",
+        "answeredQuality": null,
+        "answerText": null,
+        "rorschachText": null
+      },
+      {
+        "seenAt": "2026-07-16T21:47:15.389Z",
+        "date": "2026-07-17",
+        "zodiacId": "sour-fried-cannellini",
+        "facetTitle": "Everything at Once",
+        "facetText": "Making a weeknight dinner, you tear through every spoon, bowl and pan in the kitchen and leave the dishes towering in the sink to deal with tomorrow.",
+        "spiritTags": {
+          "friendlyBeans": ["mung", "edamame"],
+          "antiBeans": ["black", "fava"],
+          "antiTriple": "umami-smoked-mung",
+          "friendlyForm": "boiled",
+          "antiForm": "fermented"
+        },
+        "variant": "facet",
+        "question": null,
+        "rorschachImage": null,
+        "qualityId": "rotten",
+        "score": -1,
+        "text": "Don't worry if it's got a little smudge on it.",
+        "answeredQuality": null,
+        "answerText": null,
+        "rorschachText": null
+      },
+      {
+        "seenAt": "2026-07-18T04:31:30.833Z",
+        "date": "2026-07-18",
+        "zodiacId": "sweet-dried-black",
+        "facetTitle": "Beans Holding Their Shape",
+        "facetText": "Loading the truck before anyone's thought to organize a thing — word came round that a barn burned down two valleys over, and that's all you needed.",
+        "spiritTags": {
+          "friendlyBeans": ["navy", "cannellini"],
+          "antiBeans": ["chickpea", "kidney"],
+          "antiTriple": "spicy-roasted-pinto",
+          "friendlyForm": "boiled",
+          "antiForm": "fried"
+        },
+        "variant": "rorschach",
+        "question": null,
+        "rorschachImage": "/images/rorschach/sweet-dried-black.png",
+        "qualityId": "garden",
+        "score": 1,
+        "text": "Quiet faithfulness sinks into the furniture until no one sees it holding the house up. Be the first to say hello sometime.",
+        "answeredQuality": "garden",
+        "answerText": null,
+        "rorschachText": "a mound of dark earth"
+      },
+      {
+        "seenAt": "2026-07-19T07:40:02.850Z",
+        "date": "2026-07-19",
+        "zodiacId": "sour-fermented-adzuki",
+        "facetTitle": "Ponzu, No Apology",
+        "facetText": "It's been a long day and you are beyond exhausted, but you have dinner plans with your partner. When you get home they comment that you look awful. Before blaming them for ruining the evening, you let it go — you understand it was a joke, and you're just tired.",
+        "spiritTags": {
+          "friendlyBeans": ["chickpea", "pinto"],
+          "antiBeans": ["edamame", "cannellini"],
+          "antiTriple": "spicy-dried-navy",
+          "friendlyForm": "smoked",
+          "antiForm": "boiled"
+        },
+        "variant": "rorschach",
+        "question": null,
+        "rorschachImage": "/images/rorschach/sour-fermented-adzuki.png",
+        "qualityId": "market",
+        "score": 1,
+        "text": "Stare too long in the pond and you might forget to drink.",
+        "answeredQuality": "market",
+        "answerText": null,
+        "rorschachText": "an elaborate machine"
+      },
+      {
+        "seenAt": "2026-07-20T07:15:06.689Z",
+        "date": "2026-07-20",
+        "zodiacId": "umami-boiled-mung",
+        "facetTitle": "Shells in Hot Oil",
+        "facetText": "A lull settles over the conversation. You cannot leave it be, filling it with a story or a question or just a random fact — anything to keep the silence away.",
+        "spiritTags": {
+          "friendlyBeans": ["butter", "adzuki"],
+          "antiBeans": ["chickpea", "kidney"],
+          "antiTriple": "spicy-fried-green",
+          "friendlyForm": "smoked",
+          "antiForm": "fermented"
+        },
+        "variant": "facet",
+        "question": null,
+        "rorschachImage": null,
+        "qualityId": "rotten",
+        "score": -1,
+        "text": "Songs cannot be sung from a closed mouth.",
+        "answeredQuality": null,
+        "answerText": null,
+        "rorschachText": null
+      },
+      {
+        "seenAt": "2026-07-21T04:10:39.800Z",
+        "date": "2026-07-21",
+        "zodiacId": "spicy-fried-cannellini",
+        "facetTitle": "Ricotta on the Counter",
+        "facetText": "You've always fantasised about starting a business — no boss, full ownership of the work, broadening your skills. An old colleague reaches out to you to offer exactly that. You decline — it's not a great time.",
+        "spiritTags": {
+          "friendlyBeans": ["navy", "fava"],
+          "antiBeans": ["adzuki", "green"],
+          "antiTriple": "sweet-smoked-pinto",
+          "friendlyForm": "fermented",
+          "antiForm": "fermented"
+        },
+        "variant": "facet",
+        "question": null,
+        "rorschachImage": null,
+        "qualityId": "stale",
+        "score": -1,
+        "text": "Not all good things need to become great things.",
+        "answeredQuality": null,
+        "answerText": null,
+        "rorschachText": null
+      },
+      {
+        "seenAt": "2026-07-22T07:53:15.949Z",
+        "date": "2026-07-22",
+        "zodiacId": "umami-dried-mung",
+        "facetTitle": "Turmeric, Early",
+        "facetText": "Your coworker has been coughing at their desk for a couple of days now. You offer them some medicine you swear by, and make them tea and honey, no fuss made of it.",
+        "spiritTags": {
+          "friendlyBeans": ["kidney", "cannellini"],
+          "antiBeans": ["pinto", "adzuki"],
+          "antiTriple": "sour-fried-edamame",
+          "friendlyForm": "roasted",
+          "antiForm": "fermented"
+        },
+        "variant": "facet",
+        "question": null,
+        "rorschachImage": null,
+        "qualityId": "garden",
+        "score": -1,
+        "text": "Turmeric steeped since dawn, soft and gold.",
+        "answeredQuality": null,
+        "answerText": null,
+        "rorschachText": null
+      },
+      {
+        "seenAt": "2026-07-23T03:32:00.452Z",
+        "date": "2026-07-23",
+        "zodiacId": "sweet-smoked-butter",
+        "facetTitle": "The Pan Past the Timer",
+        "facetText": "You meant to turn off for the shops, but you come back to yourself miles down the motorway with no memory of the last three exits — and no real urge to turn around.",
+        "spiritTags": {
+          "friendlyBeans": ["black", "mung"],
+          "antiBeans": ["green", "pinto"],
+          "antiTriple": "spicy-fried-kidney",
+          "friendlyForm": "fermented",
+          "antiForm": "roasted"
+        },
+        "variant": "facet",
+        "question": null,
+        "rorschachImage": null,
+        "qualityId": "heirloom",
+        "score": -1,
+        "text": "The luna moth moves toward all lights, drifting everywhere and going nowhere.",
+        "answeredQuality": null,
+        "answerText": null,
+        "rorschachText": null
+      },
+      {
+        "seenAt": "2026-07-24T09:52:03.652Z",
+        "date": "2026-07-24",
+        "zodiacId": "sour-boiled-butter",
+        "facetTitle": "Skins in Long Simmer",
+        "facetText": "An invite turns up for something you really don't fancy. \"Sorry, I've already got plans\" is a far easier answer for you to say than the truth — that you'd simply rather stay in.",
+        "spiritTags": {
+          "friendlyBeans": ["navy", "adzuki"],
+          "antiBeans": ["pinto", "kidney"],
+          "antiTriple": "bitter-fermented-green",
+          "friendlyForm": "dried",
+          "antiForm": "smoked"
+        },
+        "variant": "facet",
+        "question": null,
+        "rorschachImage": null,
+        "qualityId": "stale",
+        "score": 1,
+        "text": "Wait a bit - the timing is off.",
+        "answeredQuality": null,
+        "answerText": null,
+        "rorschachText": null
+      },
+      {
+        "seenAt": "2026-07-24T23:33:46.877Z",
+        "date": "2026-07-25",
+        "zodiacId": "bitter-dried-kidney",
+        "facetTitle": "The Lean Counter",
+        "facetText": "Your domestic flight is delayed for an hour and then suddenly cancelled, with no recourse offered. Passengers are up in arms, arguing at the desk, demanding the next plane and compensation. You book another flight on your phone and go find somewhere to wait it out.",
+        "spiritTags": {
+          "friendlyBeans": ["green", "fava"],
+          "antiBeans": ["pinto", "mung"],
+          "antiTriple": "sweet-fermented-chickpea",
+          "friendlyForm": "fried",
+          "antiForm": "roasted"
+        },
+        "variant": "facet",
+        "question": null,
+        "rorschachImage": null,
+        "qualityId": "garden",
+        "score": 1,
+        "text": "Don't sweat the small stuff.",
+        "answeredQuality": null,
+        "answerText": null,
+        "rorschachText": null
+      },
+      {
+        "seenAt": "2026-07-25T23:04:13.113Z",
+        "date": "2026-07-26",
+        "zodiacId": "spicy-dried-pinto",
+        "facetTitle": "Char on the Pod",
+        "facetText": "The DJ is on the last track for the night and the dance floor's started to thin. Shirt soaked, legs tired, throat sore - doesn't matter. Where to next?",
+        "spiritTags": {
+          "friendlyBeans": ["chickpea", "green"],
+          "antiBeans": ["navy", "butter"],
+          "antiTriple": "sour-boiled-cannellini",
+          "friendlyForm": "fermented",
+          "antiForm": "fried"
+        },
+        "variant": "facet",
+        "question": null,
+        "rorschachImage": null,
+        "qualityId": "heirloom",
+        "score": 1,
+        "text": "Never, ever stop — it's not even close to done.",
+        "answeredQuality": null,
+        "answerText": null,
+        "rorschachText": null
+      },
+      {
+        "seenAt": "2026-07-26T23:40:46.346Z",
+        "date": "2026-07-27",
+        "zodiacId": "sweet-smoked-edamame",
+        "facetTitle": "Smoke Through the Tied Pouch",
+        "facetText": "Someone in the group makes a subtly cruel joke about a friend who's just stepped out. The mood stiffens. You smooth it over fast, a warm laugh and a swerve, everyone comfortable again in seconds.",
+        "spiritTags": {
+          "friendlyBeans": ["cannellini", "chickpea"],
+          "antiBeans": ["fava", "chickpea"],
+          "antiTriple": "umami-boiled-mung",
+          "friendlyForm": "roasted",
+          "antiForm": "roasted"
+        },
+        "variant": "facet",
+        "question": null,
+        "rorschachImage": null,
+        "qualityId": "heirloom",
+        "score": -1,
+        "text": "The puppy licks the hands of everyone, even those who mean it harm.",
+        "answeredQuality": null,
+        "answerText": null,
+        "rorschachText": null
+      },
+      {
+        "seenAt": "2026-07-28T11:06:09.028Z",
+        "date": "2026-07-28",
+        "zodiacId": "spicy-fermented-kidney",
+        "facetTitle": "Paste Deepening in the Dark",
+        "facetText": "There's one bar of the piano piece you're learning that keeps tripping your fingers. You've played it maybe three hundred times tonight, slow then up to speed. You'll keep going until it's clean, however late it gets.",
+        "spiritTags": {
+          "friendlyBeans": ["green", "cannellini"],
+          "antiBeans": ["fava", "black"],
+          "antiTriple": "umami-dried-butter",
+          "friendlyForm": "fried",
+          "antiForm": "boiled"
+        },
+        "variant": "facet",
+        "question": null,
+        "rorschachImage": null,
+        "qualityId": "market",
+        "score": 1,
+        "text": "Don't be afraid to take it to unhinged levels.",
+        "answeredQuality": null,
+        "answerText": null,
+        "rorschachText": null
+      },
+      {
+        "seenAt": "2026-07-29T07:45:39.238Z",
+        "date": "2026-07-29",
+        "zodiacId": "sour-roasted-navy",
+        "facetTitle": "Sugar Before the First Sip",
+        "facetText": "A news crew turns up at the bar to get some vox pop on the state of local music venues. The reporter asks who fancies talking. You're first to get in front of the camera to give them your full, undiluted thoughts on the matter.",
+        "spiritTags": {
+          "friendlyBeans": ["butter", "cannellini"],
+          "antiBeans": ["chickpea", "fava"],
+          "antiTriple": "spicy-fermented-pinto",
+          "friendlyForm": "dried",
+          "antiForm": "fried"
+        },
+        "variant": "facet",
+        "question": null,
+        "rorschachImage": null,
+        "qualityId": "rotten",
+        "score": -1,
+        "text": "Being seen isn't the same as showing off.",
+        "answeredQuality": null,
+        "answerText": null,
+        "rorschachText": null
+      },
+      {
+        "seenAt": "2026-07-30T03:10:12.215Z",
+        "date": "2026-07-30",
+        "zodiacId": "bitter-dried-black",
+        "facetTitle": "The Overnight Soak",
+        "facetText": "A leaving card is going round the office, for someone you don't know super well but have a good impression of. There's still plenty of space left when it reaches you. You write \"All the best\" and your name.",
+        "spiritTags": {
+          "friendlyBeans": ["navy", "fava"],
+          "antiBeans": ["pinto", "chickpea"],
+          "antiTriple": "sweet-roasted-adzuki",
+          "friendlyForm": "smoked",
+          "antiForm": "fried"
+        },
+        "variant": "question",
+        "question": "You're setting up the voicemail greeting on your phone. What do you record?",
+        "rorschachImage": null,
+        "qualityId": "market",
+        "score": 1,
+        "text": "Burn the argument down to its coals.",
+        "answeredQuality": "market",
+        "answerText": "my name, and to leave a message",
+        "rorschachText": null
+      }
+    ],
+    "metBeans": [
+      {
+        "id": "bitter-dried-black",
+        "on": "2026-07-30"
+      },
+      {
+        "id": "sour-roasted-navy",
+        "on": "2026-07-29"
+      },
+      {
+        "id": "spicy-fermented-kidney",
+        "on": "2026-07-28"
+      },
+      {
+        "id": "sweet-smoked-edamame",
+        "on": "2026-07-27"
+      },
+      {
+        "id": "spicy-dried-pinto",
+        "on": "2026-07-26"
+      },
+      {
+        "id": "bitter-dried-kidney",
+        "on": "2026-07-25"
+      },
+      {
+        "id": "sour-boiled-butter",
+        "on": "2026-07-24"
+      },
+      {
+        "id": "sweet-smoked-butter",
+        "on": "2026-07-23"
+      },
+      {
+        "id": "umami-dried-mung",
+        "on": "2026-07-22"
+      },
+      {
+        "id": "spicy-fried-cannellini",
+        "on": "2026-07-21"
+      },
+      {
+        "id": "umami-boiled-mung",
+        "on": "2026-07-20"
+      },
+      {
+        "id": "sour-fermented-adzuki",
+        "on": "2026-07-19"
+      },
+      {
+        "id": "sweet-dried-black",
+        "on": "2026-07-18"
+      },
+      {
+        "id": "sour-fried-cannellini",
+        "on": "2026-07-17"
+      },
+      {
+        "id": "spicy-smoked-black",
+        "on": "2026-07-16"
+      },
+      {
+        "id": "bitter-fermented-edamame",
+        "on": "2026-07-15"
+      },
+      {
+        "id": "sour-fried-kidney",
+        "on": "2026-07-14"
+      },
+      {
+        "id": "sour-dried-butter",
+        "on": "2026-07-10"
+      },
+      {
+        "id": "sour-roasted-butter",
+        "on": "2026-07-09"
+      },
+      {
+        "id": "umami-fermented-green",
+        "on": "2026-07-08"
+      },
+      {
+        "id": "sour-dried-fava",
+        "on": "2026-07-07"
+      },
+      {
+        "id": "bitter-smoked-black",
+        "on": "2026-07-06"
+      },
+      {
+        "id": "sweet-boiled-edamame",
+        "on": "2026-07-05"
+      },
+      {
+        "id": "sweet-roasted-kidney",
+        "on": "2026-07-04"
+      },
+      {
+        "id": "sweet-smoked-pinto",
+        "on": "2026-07-03"
+      },
+      {
+        "id": "sweet-roasted-butter",
+        "on": "2026-07-02"
+      },
+      {
+        "id": "sweet-smoked-adzuki",
+        "on": "2026-07-01"
+      },
+      {
+        "id": "bitter-roasted-fava",
+        "on": "2026-06-30"
+      },
+      {
+        "id": "umami-fried-cannellini",
+        "on": "2026-06-29"
+      },
+      {
+        "id": "sweet-dried-mung",
+        "on": "2026-06-28"
+      },
+      {
+        "id": "umami-boiled-fava",
+        "on": "2026-06-27"
+      },
+      {
+        "id": "spicy-fermented-mung",
+        "on": "2026-06-26"
+      },
+      {
+        "id": "sweet-fermented-adzuki",
+        "on": "2026-06-25"
+      },
+      {
+        "id": "sour-roasted-black",
+        "on": "2026-06-24"
+      },
+      {
+        "id": "bitter-dried-edamame",
+        "on": "2026-06-23"
+      },
+      {
+        "id": "sweet-fried-kidney",
+        "on": "2026-06-22"
+      },
+      {
+        "id": "sour-smoked-cannellini",
+        "on": "2026-06-21"
+      },
+      {
+        "id": "bitter-boiled-navy",
+        "on": "2026-06-20"
+      },
+      {
+        "id": "sour-roasted-adzuki",
+        "on": "2026-06-19"
+      },
+      {
+        "id": "umami-boiled-edamame",
+        "on": "2026-06-17"
+      },
+      {
+        "id": "bitter-roasted-mung",
+        "on": "2026-06-16"
+      },
+      {
+        "id": "sour-fermented-pinto",
+        "on": "2026-06-15"
+      },
+      {
+        "id": "umami-boiled-pinto",
+        "on": "2026-06-14"
+      },
+      {
+        "id": "sweet-dried-navy",
+        "on": "2026-06-13"
+      },
+      {
+        "id": "umami-dried-chickpea",
+        "on": "2026-06-12"
+      },
+      {
+        "id": "spicy-smoked-butter",
+        "on": "2026-06-11"
+      },
+      {
+        "id": "spicy-dried-butter",
+        "on": "2026-06-10"
+      },
+      {
+        "id": "sour-roasted-chickpea",
+        "on": "2026-06-09"
+      },
+      {
+        "id": "sweet-dried-cannellini",
+        "on": "2026-06-08"
+      },
+      {
+        "id": "umami-fermented-pinto",
+        "on": "2026-06-07"
+      },
+      {
+        "id": "spicy-fermented-navy",
+        "on": "2026-06-06"
+      },
+      {
+        "id": "sour-roasted-cannellini",
+        "on": "2026-06-05"
+      },
+      {
+        "id": "sweet-dried-chickpea",
+        "on": "2026-06-04"
+      },
+      {
+        "id": "sweet-smoked-mung",
+        "on": "2026-06-03"
+      },
+      {
+        "id": "umami-fried-butter",
+        "on": "2026-06-02"
+      },
+      {
+        "id": "spicy-smoked-cannellini",
+        "on": "2026-06-01"
+      },
+      {
+        "id": "bitter-fried-pinto",
+        "on": "2026-05-31"
+      },
+      {
+        "id": "sweet-fermented-butter",
+        "on": "2026-07-13"
+      },
+      {
+        "id": "bitter-roasted-butter",
+        "on": "2026-06-18"
+      }
+    ],
+    "radarExpanded": true,
+    "lastSeasonSeen": "2026-07-12",
+    "seasonSummaries": [
+      {
+        "seasonKey": "2026-05-12",
+        "prevZodiacId": "sweet-roasted-butter",
+        "nextZodiacId": "sweet-fermented-butter",
+        "observations": [
+          "You were drawn to what sat right, plain and well-set.",
+          "You lived convivially and well, giving freely and savouring the pleasure of it.",
+          "You were quick to say yes, and slow to turn anything away.",
+          "You became more lighthearted this season."
+        ],
+        "generatedAt": "2026-07-12T03:23:27.258Z"
+      }
+    ]
+  },
+  "version": 6
+}

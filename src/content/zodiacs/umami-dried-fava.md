@@ -1,11 +1,12 @@
 ---
 slug: umami-dried-fava
+lastUpdated: 2026-07-30
 bean: fava
 flavour: umami
 form: dried
-trait: formidable
+trait: powerful
 inverse: feeble
-excess: terrifying
+excess: brutish
 friendlyBeans: [edamame, green]
 friendlyForm: fried
 antiTriple: bitter-smoked-adzuki
@@ -15,39 +16,34 @@ dish: Fave e cicoria - dried fava bean puree with wilted bitter chicory and oliv
 quote: A bean in the hand is worth two in the bush.
 creature: bear
 seasonalFortune: A season for what has cured slow in the dark. The puree settles thickest at the bottom of the pot; weight gathers in those who have waited out their own softening.
-fortuneMost: Wherever you stand, the day organises itself around you.
-fortuneMost2: A weight is coming that nobody else will want to carry.
-fortuneHigh: The hard question is yours to take first, before anyone else has to flinch at it.
-fortuneHigh2: An oak doesn't move in the wind that moves the field.
-fortuneMid: Finish the thing even after the day has emptied out around it.
-fortuneMid2: Be firm, then be patient — walk them through it, then ask what they'd do differently.
-fortuneLow: Lead with the warm thing and let the harder one wait a day.
-fortuneLow2: Sleep light, eat when hungry, and trust your own weight to warn you before the day does.
-fortuneLeast: Ask after someone before anything else.
-fortuneLeast2: Tell them it really isn't a big deal and send them off light.
+fortuneMost: They who make beasts of themselves get rid of the pain of being a bean.
+fortuneHigh: The bear does what it does, and the world orients around it.
+fortuneMid: The mighty oak's trunk stands firm against the elements.
+fortuneLow: Put it down and see who picks it up.
+fortuneLeast: Help is offered to those who ask for it.
 facetMostTitle: The Dense Puree
-facetMost: Feet planted, voice up over the noise, hands pointing people where to go — that's you the moment a panicking crowd jams at the blocked stairwell and nobody else steps up.
+facetMost: You're a day's walk from home and the only bridge across has a keeper on it demanding a toll you haven't got. He's less than half your size. You lift him off the boards, set him down behind you, and walk across.
 facetHighTitle: Chicory Held to a Fraction
-facetHigh: The meeting's gone quiet around a thing nobody wants to say out loud. So you say it — flat, first, before anyone else has to be the one.
+facetHigh: A friend has been fobbed off three times by the mechanic over a repair they've already paid for, and they ask if you'll come along next time. You go with them, and you do the talking.
 facetMidTitle: What the Fava Keeps
-facetMid: The trail's longer than the map promised and the others are talking about turning back. You'd put your head down and finish it, summit reached, long after the chatter's run out.
+facetMid: You and a neighbour are getting a wardrobe down a flight of stairs, the bottom being the much heavier side. You take the bottom end, and do not discuss it.
 facetLowTitle: Oil Finding Every Edge
-facetLow: A wobble on the rope bridge and you don't tense up — you let your weight tell you when there's real trouble, and walk on loose until it does.
+facetLow: A man steps in front of you at the ticket counter and says loudly that he was there before you, which he wasn't. You say sorry and step back to let him go first.
 facetLeastTitle: The Shared Bowl
-facetLeast: Old friend through the arrivals gate, and before a single thing about you comes up you're asking how their mother is, how the move went, whether they slept.
-question: On a dim street a man steps into your path, sizes you up, and asks for a light in a way that isn't quite about a light. You...
-answerMost: square up, meet his eyes, and let him read that you're not the one
-answerHigh: stop, plant your feet, and answer evenly without giving ground
-answerMid: keep walking at your own pace and watch him in the glass ahead
-answerLow: mutter something and step wide around him
-answerLeast: drop your eyes, quicken up, and get past fast
-rorschachMost: a mushroom cloud towering over a narrow stem
-rorschachHigh: a great oak crown rising from one trunk
-rorschachMid: a head of broccoli standing on its stalk
-rorschachLow: a dandelion clock about to lose its seeds
-rorschachLeast: a cotton ball balanced on a thin straw
+facetLeast: There's someone at your front door. They go into a ten minute spiel, trying to sell you on monthly donations to a charity you've never heard of. You sign up just so they'll go away.
+question: Someone has just knocked you to the ground going for the ball, and it's clear how the rest of this five-a-side soccer game will be played. You...
+answerMost: give it back harder than you're getting it
+answerHigh: stand your ground and go into the next one just as hard
+answerMid: play your own game and stay out of the scrapping
+answerLow: play wide, try to position yourself to minimise contact
+answerLeast: hang back and hope the ball doesn't come near you
+rorschachMost: a mushroom cloud
+rorschachHigh: a great oak
+rorschachMid: a head of broccoli
+rorschachLow: a dried leaf
+rorschachLeast: a broken vase
 ---
 
-Aged Fava Beans are the Bean Zodiac's most formidable — the kind of presence a room rearranges itself around without anyone deciding to. They take the hard question first, name the thing nobody wants to name, and stand at full height while doing it. Nothing in their bearing apologises for the space they take up, and there is a real, quiet relief in being in a room with someone who isn't going to flinch.
+Aged Fava Beans are the Bean Zodiac's most powerful — the kind of presence a room rearranges itself around without anyone deciding to. They take the hard question first, name the thing nobody wants to name, and stand at full height while doing it. Nothing in their bearing apologises for the space they take up, and there is a real, quiet relief in being in a room with someone who isn't going to flinch.
 
 The shadow is the half-beat of silence before they speak. People brace, then answer carefully, and the warmth they were also offering — which is real — arrives a sentence late, into a conversation that has already shrunk to fit the formidability.
