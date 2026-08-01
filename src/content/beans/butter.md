@@ -1,9 +1,10 @@
 ---
 slug: butter
 name: Butter Bean
+role: The Pacifist
 tagline: The art of doing nothing badly.
-traits: [easygoing, peaceful, content, indulgent, inert]
-toneOfVoice: Unhurried and untroubled; speaks to soothe, never to push.
+positiveTraits: [calming, accepting, unflappable, forgiving, contented]
+negativeTraits: [inert, indulgent]
 imageFile: butter.webp
 ---
 

@@ -1,39 +1,36 @@
 ---
+# COMPLETELY NEEDS UPDATING — excess: cultish -> messianic, inverse: charmless -> colourless
 slug: spicy-roasted-cannellini
+lastUpdated: 
 bean: cannellini
 flavour: spicy
 form: roasted
 trait: charismatic
-inverse: charmless
-excess: cultish
-friendlyBeans: [navy, butter]
-friendlyForm: boiled
-antiTriple: bitter-fried-kidney
-antiBeans: [black, edamame]
-antiForm: smoked
-dish: Fagioli con nduja - cannellini beans roasted with spicy Calabrian nduja.
+excess: messianic
+inverse: colourless
 quote: The bean enters the room before you do.
 creature: dolphin
-seasonalFortune: Nduja bleeds red into the oil before a single bean is lifted; this is a season in which arrivals announce themselves and rooms reorganise around the heat at their center.
+dish: Cannellini roasted with bird's eye chilli, oregano, and garlic.
+friendlyBeans: [navy, black]
+friendlyForm: fried
+antiTriple: sweet-fermented-kidney
+antiBeans: [fava, mung]
+antiForm: fried
+seasonalFortune: "A season of bird's eye chilli and gathered attention — the roast is why people came."
 fortuneMost: You enter and the gathering rearranges its chairs the way nduja bleeds red through the oil.
-fortuneMost2: A moment is coming where everyone's staring at the floor and somebody has to stand.
 fortuneHigh: Say the plain, sincere thing you'd rather dress up.
-fortuneHigh2: A stranger will open like a tin at one word from you.
 fortuneMid: No entrance required to be felt.
-fortuneMid2: Greet them one at a time, like each was the one you came for, and they feel chosen — and they're right.
 fortuneLow: Take the quiet armchair and the dog, and let whoever truly needs you cross the room to find it.
-fortuneLow2: Being the one who listens suits you more than you'll admit.
 fortuneLeast: The group will move on without you, and the relief that floods in is real and yours to keep.
-fortuneLeast2: Let the call ripen unanswered a while.
-facetMostTitle: The Tin That Sets the Room Humming
+facetMostTitle: Beanmessiah
 facetMost: You step into the lift and the two already in it stop their conversation to fold you into it — by your floor you've got the whole car laughing, and you wanted that.
-facetHighTitle: Nduja Before the Pan Is Hot
+facetHighTitle: A Beanstar Is Born
 facetHigh: A ferry crossing, a deck of strangers. By the far shore three of them have your number and are sorry to be docking.
-facetMidTitle: Chilli Oil Pulling the Household in
+facetMidTitle: Star Beanquality
 facetMid: Catch the cashier's eye, ask the one real question, and watch a flat transaction turn into a minute that warms you both.
-facetLowTitle: Oil Still Cold in the Tin
+facetLowTitle: Beanmagnolia
 facetLow: The introductions go round the circle. You'd rather hand your turn to the next person and stay the one who isn't quite placed.
-facetLeastTitle: Beans Left Plain
+facetLeastTitle: Beaninvisible Ink
 facetLeast: A spotlight swings looking for someone to step into it. Let it pass over you — being unfound is the better seat tonight.
 question: A panel asks for one volunteer to step up and introduce the next speaker on the spot. Half the room is staring at the floor. You...
 answerMost: stand up first, walk down the aisle, take the mic before they ask twice
@@ -48,6 +45,4 @@ rorschachLow: a hunched figure turned away from the room
 rorschachLeast: a hedgehog balled up deep in the brush
 ---
 
-Peri-Peri Cannellini Beans are the Bean Zodiac's most charismatic — they walk into a kitchen and the conversation reroutes mid-sentence to include them. They tell the story everyone retells later; they make the introduction that becomes the friendship; the photo from the night is the one they're in the middle of, hands moving.
-
-The cost is that they start to read the room the way other people read weather. Somewhere between the second and third drink they notice they've been performing a version of themselves for an hour and have lost track of what they actually came in thinking.
+Peri-Peri Cannellini Beans are the Bean Zodiac's most charismatic. They explain the plan and forty people believe in it, including several who came to object. Sometimes the belief becomes the product. Saying something dull and true, without lift, they find almost impossible.

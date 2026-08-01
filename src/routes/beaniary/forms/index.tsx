@@ -9,10 +9,11 @@ export const Route = createFileRoute("/beaniary/forms/")({
       <div className="animate-fade-up">
         <section className="py-12 text-center">
           <h1 className="text-4xl sm:text-5xl font-bold">
-            The Six Seasons of Form
+            The Six Forms
           </h1>
           <p className="mt-3 text-lg text-zinc-300 max-w-xl mx-auto">
-            Each Bean is augmented by one of six foundational forms.
+            Each Bean takes one of six foundational Forms, which determine how
+            it responds to its environment.
           </p>
         </section>
         <ul className="grid grid-cols-2 gap-5 list-none p-0 m-0 max-w-lg mx-auto w-full">

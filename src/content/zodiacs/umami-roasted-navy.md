@@ -1,39 +1,36 @@
 ---
+# COMPLETELY NEEDS UPDATING — excess: pining -> yearning, inverse: satisfied -> forward-looking
 slug: umami-roasted-navy
+lastUpdated: 
 bean: navy
 flavour: umami
 form: roasted
 trait: wistful
-inverse: satisfied
-excess: pining
-friendlyBeans: [butter, black]
-friendlyForm: boiled
-antiTriple: spicy-fried-green
-antiBeans: [chickpea, kidney]
-antiForm: smoked
-dish: Marmite-roasted navy beans with rosemary and garlic.
+excess: yearning
+inverse: forward-looking
 quote: We shall not cease from bean exploration, and the end of all our exploring will be to arrive where we started.
 creature: tundra swan
-seasonalFortune: Marmite darkens slow in the jar; rosemary keeps its needle through winter. A season for the small salted things that outlast their occasion.
+dish: Navy beans roasted in salt pork fat with bay.
+friendlyBeans: [cannellini, black]
+friendlyForm: dried
+antiTriple: bitter-smoked-green
+antiBeans: [fava, kidney]
+antiForm: fried
+seasonalFortune: "A season of salt pork fat and bay — the tray remembers a kitchen no longer standing."
 fortuneMost: A line that meant nothing the first times you read it is about to mean everything.
-fortuneMost2: Take one of the kept things down off its shelf and put it back into use.
 fortuneHigh: Cook the recipe that belongs to someone, and say their name while you stir.
-fortuneHigh2: You find new weather in old lines the way others reread a favourite book.
 fortuneMid: Put the photo back on the shelf you cleared.
-fortuneMid2: A little of the past, kept honest, is ballast and not weight.
 fortuneLow: Pick up when they call.
-fortuneLow2: Finish the thing and walk on.
 fortuneLeast: Give it away without ceremony.
-fortuneLeast2: You don't have to hold every object a person once touched.
-facetMostTitle: Garlic Skins on the Sill
+facetMostTitle: Somewhere Over the Beanrainbow
 facetMost: Out of a shop drifts a song you danced to once, long ago, with someone long gone — and you stop dead on the pavement, the whole crowd flowing around you, until it ends.
-facetHighTitle: Rosemary in the Drawer
+facetHighTitle: Cinema Beanadiso
 facetHigh: At a junk stall you find a stranger's wedding photo, names and a date inked on the back. You buy it, and carry someone else's whole vanished afternoon home in your pocket.
-facetMidTitle: Marmite for the Absent
+facetMidTitle: Those Were the Beandays
 facetMid: Your grandmother's exact phrase rises to your lips, unbidden, in the middle of an argument. Say it aloud and feel her standing behind you, or push it down and stay only in the now?
-facetLowTitle: The Crackle, Then Morning
+facetLowTitle: Tomorrow Never Beans
 facetLow: A friend who's about to move overseas is right here, laughing, tonight. Stay in the laughter — don't pre-grieve someone still in the room with you.
-facetLeastTitle: Shells Swept From the Tray
+facetLeastTitle: Don't Look Beanback
 facetLeast: The desk a beloved mentor left you takes up half the studio you actually need. You pass it to a young artist who'll use it hard, and the empty floor feels like room, not loss.
 question: You're emptying a drawer and find a letter someone wrote you years ago. You...
 answerMost: sit on the floor and read every page, twice, and lose the afternoon
@@ -48,6 +45,4 @@ rorschachLow: a new spool beside a fresh ball of yarn wound tight
 rorschachLeast: a bare bobbin beside a knot cut loose and dropped
 ---
 
-Rendered Navy Beans are the Bean Zodiac's most wistful — every room they live in slowly becomes an archive of things someone once touched. The garlic skin on the sill, the rosemary in the drawer, the recipe cooked while saying the name of the person it came from. The warmth they carry is genuinely the past's warmth, kept honest, kept alive.
-
-The shadow is the phone call from someone who is, in fact, still here. They pick up faintly braced for grief, as if the person on the line had already become a memory.
+Rendered Navy Beans are the Bean Zodiac's most wistful. They keep the old rota, the closed pub, the group chat nobody has posted in for two years, and keep them warmly. Sometimes an evening goes on rereading messages. Picturing next year is harder than furnishing this one.

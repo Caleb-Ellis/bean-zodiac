@@ -1,39 +1,36 @@
 ---
+# COMPLETELY NEEDS UPDATING — trait: uncompromising -> unbending, excess: absolutist -> rigid, inverse: accommodating -> pliable
 slug: sour-dried-navy
+lastUpdated: 
 bean: navy
 flavour: sour
 form: dried
-trait: uncompromising
-inverse: accommodating
-excess: absolutist
+trait: unbending
+excess: rigid
+inverse: pliable
+quote: Rules are for the guidance of wise beans and the obedience of fools.
+creature: rhinoceros
+dish: Dried navy beans with dried apple and cider vinegar powder.
 friendlyBeans: [butter, black]
 friendlyForm: boiled
-antiTriple: bitter-fermented-green
-antiBeans: [pinto, fava]
+antiTriple: bitter-fried-pinto
+antiBeans: [fava, green]
 antiForm: smoked
-dish: Navy bean and dried tomato stew with red wine vinegar and rosemary.
-quote: Give me liberty, or give me bean!
-creature: golden eagle
-seasonalFortune: A season for vinegar and long simmer. Rosemary darkens the pot; the dried tomato gives up nothing it has not been asked for, and neither does the cook.
+seasonalFortune: "A season of dried apple and fixed rations — the store keeps its shape through every thaw."
 fortuneMost: Vinegar without apology.
-fortuneMost2: Wrong change handed back at the till.
 fortuneHigh: Over dinner someone will ask you to walk the position back.
-fortuneHigh2: A "no" to the small favour is whole on its own.
 fortuneMid: The thing is all but finished and still owes one part.
-fortuneMid2: A rule got broken.
 fortuneLow: One of your own rules was knapped for a season that's over now.
-fortuneLow2: Let the argument sit overnight, the way the pot softens on a long soak.
 fortuneLeast: The line you'd hold here is one you never actually drew.
-fortuneLeast2: Split the bill generously, lend the thing with no date set, and forget you ever had the rule.
-facetMostTitle: Vinegar Without Apology
+facetMostTitle: The Iron Beancurtain
 facetMost: Stay at the desk until they honour exactly what was promised — the hotel gave your booked room away and is shrugging a worse one at you.
-facetHighTitle: Rosemary From the Stem
+facetHighTitle: The Beanstand
 facetHigh: Everyone's already wading across to skip the long way round, calling for you to just come on. You'd take the bridge as planned, no hurry, no fold.
-facetMidTitle: The Tomato That Keeps Its Shape
+facetMidTitle: Bedrock Beans
 facetMid: One joint on the finished chair sits a hair loose. Nobody would ever feel it, so you unclamp the whole thing and set it true.
-facetLowTitle: The Long Overnight Soak
+facetLowTitle: Bend Me, Shape Bean
 facetLow: The board game has a house rule you've defended for years, and the new player keeps breaking it. You wave it off and play their looser way.
-facetLeastTitle: Vinegar Cut With Rosemary
+facetLeastTitle: The Beanshape of Water
 facetLeast: Downpour at the bus stop, someone soaked beside you eyeing your spare umbrella — no chance of ever getting it back. Hand it over without a second thought.
 question: A long-trusted friend breaks a small rule of yours — nothing dramatic, but one of the ones you don't bend on. You...
 answerMost: name it, the next time you see them, calmly
@@ -48,6 +45,4 @@ rorschachLow: a sandbag sagging under its own weight
 rorschachLeast: a beanbag slumped into the floor
 ---
 
-Dehydrated Navy Beans are the Bean Zodiac's most uncompromising. They are the friend who returns the wrong change at the till, who will not bring the work laptop on holiday and will not pretend the reason is anything other than the reason, who answers "no" to the small favour and does not perform regret about it. The line is where it is, and the people who know them well find this, eventually, restful — you always know where you stand.
-
-The cost is the small breach treated like a large one. A friend forgets a thing once, a junior misses a deadline by an afternoon, and the line comes down regardless, and these Beans sometimes find a wider gap around themselves than the offence really warranted.
+Dehydrated Navy Beans are the Bean Zodiac's most unbending. The rule is the rule at eleven at night for a friend, exactly as it is for a stranger. Sometimes the friend needed it not to be. Making a quiet exception isn't something they know how to do.

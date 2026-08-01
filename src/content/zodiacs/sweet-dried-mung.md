@@ -1,35 +1,36 @@
 ---
+# CHANGED SINCE THIS CONTENT WAS WRITTEN — excess: mawkish -> tremulous, inverse: callous -> hard
 slug: sweet-dried-mung
-lastUpdated: 2026-06-21
+lastUpdated: 
 bean: mung
 flavour: sweet
 form: dried
 trait: tender
-inverse: callous
-excess: mawkish
-friendlyBeans: [butter, cannellini]
-friendlyForm: smoked
-antiTriple: sour-fried-green
-antiBeans: [edamame, black]
-antiForm: smoked
-dish: Lǜdòu gāo — dried mung beans ground fine and pressed with sugar into flower-shaped cakes.
+excess: tremulous
+inverse: hard
 quote: The most beautiful things in the world cannot be seen or touched — they must be seen with the bean.
 creature: spring fawn
-seasonalFortune: A season ground fine — what was whole is pressed into petalled shapes, sweetness carrying what the husk could not hold.
+dish: Moong ladoo - dried mung with jaggery and cardamom.
+friendlyBeans: [kidney, butter]
+friendlyForm: boiled
+antiTriple: sour-fried-pinto
+antiBeans: [green, edamame]
+antiForm: roasted
+seasonalFortune: "A season of jaggery and cardamom: the ladoo yields to the smallest pressure."
 fortuneMost: A petal cupped open in two palms.
 fortuneHigh: A fawn stepping toward a hand it has no reason to trust.
 fortuneMid: Tilt the plant toward the light.
 fortuneLow: Tenderness isn't openness; a propped door lets weather in too.
 fortuneLeast: Decline the favour while it's small.
-facetMostTitle: Flour Finer Than Breath
+facetMostTitle: Beanutterflies Are Free
 facetMost: Your young niece loses their balloon to the wind and crumples, winding up to cry. You're immediately down at their height, voice gone soft, trying to soothe them.
-facetHighTitle: Sugar Through the Grain
+facetHighTitle: Try a Little Beanderness
 facetHigh: You'd hear it in anyone — the catch under a friend's voice when "I'm fine" is carrying far too much. You set down whatever you're holding and ask what's really going on.
-facetMidTitle: The Pressed Petal
+facetMidTitle: A Soft Bean
 facetMid: Walking past your neighbour's place you notice their bin's still out and the rain's about to start. You decide to bring it in for them.
-facetLowTitle: The Bean That Refuses the Mortar
+facetLowTitle: Hard as Beans
 facetLow: A practised sob story works its way down the train carriage, coins clinking in a cup as it reaches you. You keep your wallet shut, and your eyes fixed on nothing at all.
-facetLeastTitle: Crystal That Stays Crystal
+facetLeastTitle: Tough as Old Beans
 facetLeast: The whole theatre is sniffling into their sleeves at a death scene; you sit dry-eyed in the middle of it, wondering how long is left.
 question: In the supermarket queue a frazzled parent, baby wailing, snaps at you to move your trolley — much sharper than warranted, and not really about you. You...
 answerMost: catch their eye and tell them gently it's no trouble at all
@@ -44,6 +45,4 @@ rorschachLow: a weathered boulder crumbling at its edges
 rorschachLeast: a chestnut husk bristling all over
 ---
 
-Crystallised Mung Beans are the Bean Zodiac's most tender. When a friend's voice catches mid-sentence, they don't rush in with reassurance — they sit inside the quiet until the next word arrives. The card they choose is the one shaped to the person, not the occasion; the gift is the small specific thing nobody else remembered was mentioned.
-
-The shadow is that the softness is read as an invitation. The sharper person in the room sharpens further; the unfair ask comes their way because they're the one who won't make a scene; and they leave, smiling, carrying the small wound that nobody noticed was given.
+Crystallised Mung Beans are the Bean Zodiac's most tender. They handle other people's bad news the way you would carry something already cracked. Sometimes the softness trembles at things that could be borne. Being firm with someone who needs firmness they find difficult.

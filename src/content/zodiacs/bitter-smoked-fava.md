@@ -1,39 +1,36 @@
 ---
+# COMPLETELY NEEDS UPDATING — trait, excess and inverse unchanged
 slug: bitter-smoked-fava
+lastUpdated: 
 bean: fava
 flavour: bitter
 form: smoked
 trait: otherworldly
-inverse: earthbound
 excess: unearthly
-friendlyBeans: [mung, chickpea]
-friendlyForm: fermented
-antiTriple: sweet-boiled-adzuki
-antiBeans: [navy, edamame]
-antiForm: roasted
-dish: Smoked fava, twice-prepared, with bitter ash.
+inverse: earthbound
 quote: We are made of bean stuff.
 creature: selkie
-seasonalFortune: A season for tongues that read smoke. The twice-prepared bean lives at the edge of two fires, and those who carry its temperament drift through rooms half-listening to what no one else has said.
+dish: Fava smoked over olive wood with wild thyme.
+friendlyBeans: [green, pinto]
+friendlyForm: fermented
+antiTriple: sweet-boiled-mung
+antiBeans: [navy, chickpea]
+antiForm: roasted
+seasonalFortune: "A season of olive wood and wild thyme: the smoke arrives from somewhere the kitchen cannot place."
 fortuneMost: A strange thought is towing you past the corner you always turn at.
-fortuneMost2: There's a question nobody thought to ask, the one they actually meant, and you can see it plainly.
 fortuneHigh: Somewhere on the long walk home you'll come across an odd small thing meant for exactly one friend.
-fortuneHigh2: Take the road past where everyone else turns back.
 fortuneMid: Plain sentences won't kill the strange thing; the fog of mysticism around it will.
-fortuneMid2: The insight is real, and untranslated it dies with you.
 fortuneLow: Not every shift in the air is a front rolling in.
-fortuneLow2: You're reading omens into an hour that hasn't got any.
 fortuneLeast: Borrow the plain words everyone else uses, and be understood on the first pass.
-fortuneLeast2: A day lived at one fire instead of two.
-facetMostTitle: Where the Second Fire Begins
+facetMostTitle: Close Encounters of the Bean Kind
 facetMost: A guide is reciting dates in front of an old painting. You're somewhere else entirely, telling the small crowd what the figure in the corner is afraid of, and they lean in as if you'd read it off the wall.
-facetHighTitle: Smoke, the Long Way Home
+facetHighTitle: The Bean Who Fell to Earth
 facetHigh: A form asks you to describe yourself in three words. You write three that belong to no questionnaire, and hand it back fully meaning them.
-facetMidTitle: Ash on the Rim
+facetMidTitle: Stranger Beans
 facetMid: A flock wheels over the parking lot in one body, then scatters. Everyone else gets in their cars; you stand reading a meaning into the turn nobody asked for.
-facetLowTitle: The First Preparation
+facetLowTitle: Down to Bean
 facetLow: A black cat crosses the path ahead and a lightbulb pops in the hall the same minute. You change the bulb, let the cat be a cat, and tie no thread between them.
-facetLeastTitle: No Char, No Second Pass
+facetLeastTitle: The Good Beanearth
 facetLeast: Handed a riddle at the dinner table, the kind you'd usually spiral into. You give the obvious literal answer, get the laugh, and pass the bowl along.
 question: Walking home you pass a door you've never noticed on a street you walk every week. You...
 answerMost: stop, push it open, and follow whatever's behind it
@@ -48,6 +45,4 @@ rorschachLow: a thistle head gone to seed
 rorschachLeast: a chestnut husk split on the lawn
 ---
 
-Charcoal Fava Beans are the Bean Zodiac's most otherworldly. They answer the question nobody asked, and the asker startles to find it was the question they meant. They keep a stone and a postcard from a town they've never named, take the long way home past the streetlight everyone else turns at, and come back from the walk with something genuinely new.
-
-The new thing rarely survives the trip indoors. Asked to write it down for the Friday report, they reach for the strange vocabulary it arrived in, and the room glazes over — and the insight, real as it was, dies on the page for want of plain sentences. What they find somewhere else stays there, untranslated, useful only to themselves.
+Charcoal Fava Beans are the Bean Zodiac's most otherworldly. They give directions to a building that closed in 1998 and describe a dream in more detail than yesterday. Sometimes there is no getting them back down. A conversation strictly about parking and invoices they cannot sustain.

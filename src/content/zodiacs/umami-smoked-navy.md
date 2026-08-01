@@ -1,39 +1,36 @@
 ---
+# COMPLETELY NEEDS UPDATING — excess: fossilized -> ossified
 slug: umami-smoked-navy
+lastUpdated: 
 bean: navy
 flavour: umami
 form: smoked
 trait: timeless
+excess: ossified
 inverse: dated
-excess: fossilized
-friendlyBeans: [butter, black]
-friendlyForm: boiled
-antiTriple: spicy-fermented-chickpea
-antiBeans: [pinto, fava]
-antiForm: fried
-dish: Boston baked beans - navy beans slow-cooked with smoked salt pork, molasses, and mustard.
 quote: Time is a flat bean.
 creature: aldabra tortoise
-seasonalFortune: A pot kept low through the long afternoon darkens by degrees; molasses and salt pork settle into the navy bean as the household forgets to hurry.
+dish: Hickory-smoked navy beans with salt pork.
+friendlyBeans: [cannellini, edamame]
+friendlyForm: dried
+antiTriple: spicy-fried-pinto
+antiBeans: [chickpea, fava]
+antiForm: roasted
+seasonalFortune: "A season of salt pork and unchanged method: the smokehouse keeps a year without dates."
 fortuneMost: Add the next name to the old book in pen.
-fortuneMost2: A reunion is coming to the table that's stayed exactly as it always was — same dishes, same two old friends.
 fortuneHigh: Answer in full and unhurried.
-fortuneHigh2: The coat into its tenth winter, mended once at the lining — the wear becomes the cut.
 fortuneMid: Mend it, don't replace it.
-fortuneMid2: Swap the centerpiece and leave the rest.
 fortuneLow: Buy the chair without the long deliberation.
-fortuneLow2: Rework the whole menu from scratch.
 fortuneLeast: Let the recipe everyone politely eats finally leave the table, no ceremony.
-fortuneLeast2: Keep the calendar loose and trust the week to invent itself; it usually does.
-facetMostTitle: Molasses, Its Own Hour
+facetMostTitle: Jurassic Bean
 facetMost: Your grandfather's watch stops one morning. Off to the repairer it goes, whatever they charge — replacing it never crosses your mind.
-facetHighTitle: Smoke Threading the Lid
+facetHighTitle: As Bean Goes By
 facetHigh: They offer you the newest phone for free and you turn it down. The old one does it all, you know its every corner, and that's enough.
-facetMidTitle: Salt Pork on a Low Flame
+facetMidTitle: For All Beantime
 facetMid: Worn clean through at the sole, the boot goes to the cobbler, not the bin — resoled, it walks better than the day you bought it.
-facetLowTitle: Mustard Seed in a Hot Pan
+facetLowTitle: This Year's Beanmodel
 facetLow: That festival you've gone to for years runs the same as ever. This time you give it a miss and head somewhere you've never been.
-facetLeastTitle: The First Sharp Bite
+facetLeastTitle: A Beanmuseum Piece
 facetLeast: Build the sandcastle by the tide line knowing the sea will have it by dusk — the losing of it is half the point.
 question: The holidays are coming and someone in the family floats the idea of doing it differently this year. You...
 answerMost: keep it exactly as it's always been — the tablecloth, the order of dishes, the playlist
@@ -48,6 +45,4 @@ rorschachLow: a clay lump just pressed into shape
 rorschachLeast: a snowball melting before it lands
 ---
 
-Hickory Navy Beans are the Bean Zodiac's most timeless — they have the same address from 2011, the same Sunday breakfast, the same two friends from before college. The handwriting in the recipe book is theirs in three different decades. When something falls apart in their life, the unchanged things take the weight.
-
-The shadow is that the unchanged thing sometimes outlives its use. The recipe everyone has politely eaten for years is still on the table, and nobody has the heart to ask for it to leave.
+Hickory Navy Beans are the Bean Zodiac's most timeless. What they wear, cook and believe would have worked in 1950 and will work in 2050. Sometimes it hardens into never changing anything. Looking of the moment isn't something they have attempted.

@@ -1,39 +1,36 @@
 ---
+# COMPLETELY NEEDS UPDATING — trait: risk-taking -> headlong, excess: daredevil -> breakneck, inverse: risk-averse -> hesitant
 slug: spicy-fried-fava
+lastUpdated: 
 bean: fava
 flavour: spicy
 form: fried
-trait: risk-taking
-inverse: risk-averse
-excess: daredevil
-friendlyBeans: [chickpea, black]
-friendlyForm: fermented
-antiTriple: sour-fermented-cannellini
-antiBeans: [kidney, green]
-antiForm: roasted
-dish: Ta'amiya - Egyptian fava bean falafel with green chili and cumin.
+trait: headlong
+excess: breakneck
+inverse: hesitant
 quote: Only those who will bean far can possibly find out how far one can go.
-creature: ratel
-seasonalFortune: Oil at temperature does not wait. The season favours the cook who drops the fava in while the cumin is still loud, and counts the burns later.
+creature: swordfish
+dish: Fava fried with harissa and coriander.
+friendlyBeans: [green, kidney]
+friendlyForm: fermented
+antiTriple: sweet-boiled-cannellini
+antiBeans: [black, mung]
+antiForm: dried
+seasonalFortune: "A season of harissa and no braking distance — the pod meets the oil at speed."
 fortuneMost: You commit before the numbers are in, and the leap is a good one.
-fortuneMost2: A door opens for a day only.
 fortuneHigh: The chili and cumin cover whatever isn't in the fridge. Start the thing and trust the fire to fill the gaps.
-fortuneHigh2: Fortune leans toward the hand already raised.
 fortuneMid: Before the leap, say it aloud to one steady friend — not for permission, just to hear how it sounds.
-fortuneMid2: You can jump with one foot still down.
 fortuneLow: Waiting for the all-clear is its own slow leak.
-fortuneLow2: Square the ground before you spring off it.
 fortuneLeast: Fold this hand. The locked door is doing what a locked door is for, even if walking away from it galls you.
-fortuneLeast2: Move in slow weighed portions, paying the small price twice before risking the large one.
-facetMostTitle: Cumin Before the Scorch
+facetMostTitle: Beanbreakneck Speed
 facetMost: A cliff path splits into a marked route and an unmarked scramble with a better view. The scramble it is, footing unknown.
-facetHighTitle: Chili in Whole, Stem and All
+facetHighTitle: Beanheadlong Rush
 facetHigh: A stall is selling mystery boxes — could be junk, could be gold, no peeking. You hand over the cash for the biggest one.
-facetMidTitle: Fava in the Hot Pan
+facetMidTitle: Beanfull Tilt
 facetMid: You're cooking a recipe you've never tried for guests already at the door. No test run, no backup plan — straight to the table it goes.
-facetLowTitle: The Undried Oil
+facetLowTitle: Beanhesitation Waltz
 facetLow: A shortcut through unfamiliar streets might save twenty minutes or strand you. You take the long way you already know.
-facetLeastTitle: The Overnight Soak
+facetLeastTitle: Held Back, Bean
 facetLeast: A friend pitches splitting a punt on something uncertain. You'd rather skip the gamble entirely than put in even a small stake.
 question: A flat comes up — well above budget, available for one day only, requires deciding tonight. You...
 answerMost: sign the lease that evening; the numbers will sort themselves
@@ -48,6 +45,4 @@ rorschachLow: a tent pitched low and pegged to the ground
 rorschachLeast: a hen settled wide over the nest
 ---
 
-Red-Hot Fava Beans are the Bean Zodiac's most risk-taking — they sign the lease before the kettle has clicked off, book the flight on the phone in the airport, and start dinner for six trusting the chili and the cumin to cover whatever isn't in the fridge. The math gets done later, usually in the cab on the way to the thing they've already committed to.
-
-They learn, eventually, that tolerance for risk isn't the same as immunity from it. The instincts are mostly good; it's the unwillingness to mark which ones weren't, and to remember that next time, that quietly raises the bill.
+Red-Hot Fava Beans are the Bean Zodiac's most headlong. The deposit is paid the same day they saw the place, and the whole life reorganises around it by Friday. Sometimes the survey would have helped. Standing at the edge weighing it is a posture they've never held.

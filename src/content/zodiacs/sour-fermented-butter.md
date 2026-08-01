@@ -1,39 +1,36 @@
 ---
+# COMPLETELY NEEDS UPDATING — trait: minimalist -> understated, excess: austere -> invisible, inverse: maximalist -> showy
 slug: sour-fermented-butter
+lastUpdated: 
 bean: butter
 flavour: sour
 form: fermented
-trait: minimalist
-inverse: maximalist
-excess: austere
-friendlyBeans: [adzuki, cannellini]
+trait: understated
+excess: invisible
+inverse: showy
+quote: The bean doth protest too little, methinks.
+creature: marsh wren
+dish: Butter beans pickled in white wine vinegar with tarragon.
+friendlyBeans: [black, fava]
 friendlyForm: dried
-antiTriple: spicy-fried-kidney
-antiBeans: [green, edamame]
-antiForm: dried
-dish: Butter bean and labneh with preserved lemon and olive oil.
-quote: Less is bean.
-creature: egret
-seasonalFortune: Brine narrows the season. What lingers in the jar after months keeps its name; the rest has gone to salt and silence.
+antiTriple: spicy-fried-navy
+antiBeans: [chickpea, kidney]
+antiForm: roasted
+seasonalFortune: "A season of tarragon and low volume — the jar changes everything and mentions none of it."
 fortuneMost: One bean, white plate, nothing beside it — and the bareness was never lack.
-fortuneMost2: Two of a thing is just one you haven't decided about yet.
 fortuneHigh: The preamble you keep adding apologises for a thing that needs no apology.
-fortuneHigh2: A trip is coming where two things cover everything and the rest was only worry.
 fortuneMid: Cut the favourite line and the thing still stands, if it was ever sound.
-fortuneMid2: Half of what you make is finished before the lemon goes near it.
 fortuneLow: A two-line reply to a long, kind message is being read as a grudge it never was.
-fortuneLow2: Keep the gift you'd have quietly returned.
 fortuneLeast: A door you've been skipping has your absence speaking for you, and it's telling lies.
-fortuneLeast2: A loud table with every voice at once is not a mess waiting to be cut to one.
-facetMostTitle: One Bean, White Plate
+facetMostTitle: The Beaninvisible Man
 facetMost: A free sample, no strings — a vase you'd have nowhere to put. You wave it off before the hand's fully out, lighter for not owning it.
-facetHighTitle: Oil Over Labneh
+facetHighTitle: The Quiet Beanmerican
 facetHigh: Asked to say a few words at the gathering, you'd rather land one true sentence and sit back down than fill the warm minute they left open.
-facetMidTitle: Lemon in Salt
+facetMidTitle: Less Is Bean
 facetMid: A shelf of options for the same small job, and you reach past five to keep the one that does it. The other four go in the giveaway box.
-facetLowTitle: Three Oils, Four Salts
+facetLowTitle: Razzle Beanzzle
 facetLow: A souvenir stall, all of it useless, and one chipped trinket snags you. You'd rather carry it home than reason your way out of wanting it.
-facetLeastTitle: Every Herb at Once
+facetLeastTitle: The Greatest Beanman
 facetLeast: A spare chair, a spare blanket, a third helping you won't finish — pile it on. The crowded warmth of more beats the clean line of just enough.
 question: You're helping a friend pack for a weekend away and they've laid out six outfits for two days. You...
 answerMost: quietly return four to the wardrobe and zip the bag
@@ -48,6 +45,4 @@ rorschachLow: two beetles tangled, legs spilling everywhere
 rorschachLeast: two crowded nests bristling with twigs and drips
 ---
 
-Pickled Butter Beans are the Bean Zodiac's most minimalist — and they will tell you, without quite saying it, that your kitchen has too much in it. They live in rooms that read as half-furnished to visitors and exactly right to them; they write the email in two lines where five were expected; they own one good knife, one good pan, and a quiet sense that anyone with more has not yet thought hard enough about the having.
-
-What the bare shelf doesn't show is the small coldness it can carry. A two-line reply to a long, warm message lands as a slight, however precisely it was meant; the friend with six outfits hears the edited bag as a verdict on the six.
+Pickled Butter Beans are the Bean Zodiac's most understated. They did most of the work on the project and the summary email doesn't mention them once. Left alone they disappear from their own life. Claiming a thing loudly, in public, they'd sooner lose the credit than do.

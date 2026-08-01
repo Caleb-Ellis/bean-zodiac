@@ -1,39 +1,36 @@
 ---
+# COMPLETELY NEEDS UPDATING — trait: irreverent -> satirical, excess: blasphemous -> mocking
 slug: bitter-fried-pinto
+lastUpdated: 
 bean: pinto
 flavour: bitter
 form: fried
-trait: irreverent
+trait: satirical
+excess: mocking
 inverse: reverent
-excess: blasphemous
-friendlyBeans: [fava, chickpea]
-friendlyForm: fermented
-antiTriple: sour-boiled-navy
-antiBeans: [black, mung]
-antiForm: dried
-dish: Taquitos - pinto beans with bitter lime crema and hot sauce.
 quote: Irreverence is the champion of liberty and its only sure bean.
-creature: monkey
-seasonalFortune: A season that rewards the unimpressed. Crisp shells split easy under heat, and what was passing for structure shows itself as folded paper. The lime crema cools nothing that wasn't already overdressed.
+creature: starling
+dish: Refried pinto beans caught dark in the pan with chile negro.
+friendlyBeans: [adzuki, fava]
+friendlyForm: roasted
+antiTriple: sweet-dried-cannellini
+antiBeans: [mung, navy]
+antiForm: boiled
+seasonalFortune: "A season of chile negro and sharp mimicry — the refry mocks the dish it came from."
 fortuneMost: What's passing for structure is folded paper, and you can see the crease.
-fortuneMost2: Pretension dressed up as importance, asking to be punctured.
 fortuneHigh: Name the thing nobody will, early, and the bloated hour buckles to twenty honest minutes.
-fortuneHigh2: A small absurd thing is folded under the solemn moment.
 fortuneMid: A laugh in the wrong second, on purpose.
-fortuneMid2: The apology comes over-rehearsed and the laugh slips out before you mean it — and the whole stiff thing recalibrates around the sound.
 fortuneLow: Ceremony isn't the enemy. It's the bowl the meal sits in.
-fortuneLow2: Not everything earnest is asking to be deflated.
 fortuneLeast: That's a soft spot, not a costume.
-fortuneLeast2: Some things run cleaner when you let them stand — the anthem, the thank-you, the kept forms.
-facetMostTitle: Hot Sauce, Group Chat
+facetMostTitle: Mock the Bean
 facetMost: Mid-flourish, the tour guide calls the vase priceless and irreplaceable. You ask, deadpan, what it last sold for — and the group's careful reverence quietly cracks down the middle.
-facetHighTitle: The Agenda, Under the Fork
+facetHighTitle: Dr. Strangebean
 facetHigh: The award ceremony has crowned itself the most important night in the field, three speakers deep. You lean over and name the emperor's missing clothes, just loud enough for your row.
-facetMidTitle: Lime on the Tongue
+facetMidTitle: Animal Beanfarm
 facetMid: The wedding's gone full solemn and a phone blares a cartoon ringtone in the silence. You're the one who lets a small grin show — not a heckle, just a wink that loosens the pew.
-facetLowTitle: The Shell, Still Holding
+facetLowTitle: Songs of Beans
 facetLow: A nervous kid stands up to recite a poem and stumbles over half the lines. There's an easy laugh right there — you hold it, and clap like they nailed it instead.
-facetLeastTitle: Taquitos, Plated Straight
+facetLeastTitle: HalleluBean
 facetLeast: An old man at the memorial rises to give a long, earnest, fumbling tribute to his friend. You take every word of it straight — moved, not amused — and would never dream of a quip.
 question: At the school prize-giving the head sweeps into the grandest, most self-important line of the whole speech. You...
 answerMost: let the joke escape under your breath before you can stop it
@@ -48,6 +45,4 @@ rorschachLow: a church bell hung from its beam
 rorschachLeast: a chandelier hanging over a still hall
 ---
 
-Scorched Pinto Beans are the Bean Zodiac's most irreverent. They answer the long earnest message with one shelled line that cracks the whole thread open, name the thing nobody was naming and watch the hour-long meeting buckle to twenty minutes. Pointed at a piece of pretension dressed up as structure, the puncture is a public service, and the room is usually grateful.
-
-The aim is the thing. The same line that deflates a pompous agenda will, fired a half-second too quick, land on someone's soft spot instead of their costume — and these Beans tend to register the difference by the silence that follows, a beat too late to call it back.
+Scorched Pinto Beans are the Bean Zodiac's most satirical. Two minutes of impression and the boss's whole management style is finished as a going concern. Nothing is exempt, including things people needed to keep. Sincere admiration is the one register they can't hold for long.

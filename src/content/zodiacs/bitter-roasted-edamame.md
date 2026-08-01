@@ -1,35 +1,36 @@
 ---
+# QUICK REVIEW — trait, excess and inverse all unchanged
 slug: bitter-roasted-edamame
-lastUpdated: 2026-06-22
+lastUpdated: 
 bean: edamame
 flavour: bitter
 form: roasted
 trait: witty
-inverse: witless
-excess: smart-alecky
-friendlyBeans: [chickpea, pinto]
-friendlyForm: smoked
-antiTriple: sour-boiled-mung
-antiBeans: [black, butter]
-antiForm: smoked
-dish: Roasted edamame with bitter lemon zest and smoked paprika.
+excess: glib
+inverse: leaden
 quote: A bean is a terrible thing to waste.
 creature: laughing kookaburra
-seasonalFortune: A season of warm smoke threaded with cold zest. The air rewards the remark that arrives blistered at the edges and salted at the center, never the one shouted plain.
+dish: Edamame roasted in the pod over embers with matcha salt.
+friendlyBeans: [chickpea, pinto]
+friendlyForm: fried
+antiTriple: sweet-boiled-kidney
+antiBeans: [mung, black]
+antiForm: smoked
+seasonalFortune: "A season of matcha salt and dry embers — the pod is quicker than the fire deserves."
 fortuneMost: Win the laugh, lose the argument, call it a draw.
 fortuneHigh: Fear not at whom the kookaburra laughs — it laughs at thee.
 fortuneMid: The truth can be loose sometimes.
 fortuneLow: Many a true bean is roasted in jest.
 fortuneLeast: The bean's been peeled.
-facetMostTitle: The Pod Already Cracked
+facetMostTitle: Thank You for Beanoking
 facetMost: The officiant completely mangles the bride's name and the whole hall freezes. You riff on the mistake, no hesitation.
-facetHighTitle: Zest at the Rim
+facetHighTitle: The Importance of Being Beanest
 facetHigh: A smug dig lands at your expense, and the group turns to watch you take it. You fire back, short and sharp.
-facetMidTitle: Paprika on the Split Shell
+facetMidTitle: His Girl Beanday
 facetMid: The tour guide has been talking about an old statue for ten minutes. You ask the person next to you if they think the statue's bored too.
-facetLowTitle: The Receipt, Item by Item
+facetLowTitle: Led Beanpelin
 facetLow: Someone thanks you for something you didn't actually do, openly and a little teary. You take it straight and just say thank you back.
-facetLeastTitle: Bean, Shell, Salt
+facetLeastTitle: Beanravity
 facetLeast: Asked across the table what you do, you just say it plainly — no setup, no twist, not even an "it pays the bills".
 question: An offhand thing you posted in your early teenage years resurfaces, and your friends are quoting it with their own punchlines added on. You...
 answerMost: outdo every punchline with a sharper one
@@ -44,6 +45,4 @@ rorschachLow: a hooded monk bowed low over his hands
 rorschachLeast: a tree stump with one root curling free
 ---
 
-Wood-Fired Edamame are the Bean Zodiac's wittiest — sharp without making anyone feel small. They hold court from the edge of the room, trading the shortest sentences for the longest laughs, and by morning the group chat is quoting them back to themselves. The remark always arrives salted and blistered exactly right.
-
-The line they cannot find, when it matters, is the plain one. Asked how they actually are, they reach for the angle first, because the joke is a door they can close before anyone sees in — and the warmth that reads so well across a room reads, to the person who wanted a straight answer, as one more deflection beautifully delivered.
+Wood-Fired Edamame are the Bean Zodiac's most witty. The remark arrives fast, fits precisely, and is gone before it can be admired. Some evenings every subject gets a remark and none gets an answer. Saying a plain, heavy, unfunny thing costs them real effort.

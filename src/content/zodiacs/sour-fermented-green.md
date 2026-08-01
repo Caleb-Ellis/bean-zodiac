@@ -1,39 +1,36 @@
 ---
+# COMPLETELY NEEDS UPDATING — excess: affected -> weird, inverse: humdrum -> conventional
 slug: sour-fermented-green
+lastUpdated: 
 bean: green
 flavour: sour
 form: fermented
 trait: quirky
-inverse: humdrum
-excess: affected
-friendlyBeans: [chickpea, pinto]
-friendlyForm: roasted
-antiTriple: bitter-dried-black
-antiBeans: [navy, butter]
-antiForm: boiled
-dish: Green bean kimchi - fermented green beans with gochugaru, garlic, and rice vinegar.
+excess: weird
+inverse: conventional
 quote: We are all bean, but some of us are looking at the stars.
 creature: narwhal
-seasonalFortune: A brine sharp with gochugaru and garlic insists on its own logic. The season tilts toward jars that cure on their own schedule, refusing the row.
+dish: Dilly beans - green beans pickled with garlic and dill.
+friendlyBeans: [kidney, chickpea]
+friendlyForm: fried
+antiTriple: umami-dried-butter
+antiBeans: [navy, cannellini]
+antiForm: boiled
+seasonalFortune: "A season of dill and odd angles; the jar ferments sideways and tastes better for it."
 fortuneMost: Asked how you are, give the weird true answer — tell them about the garlic, not the weather.
-fortuneMost2: A strange offering of yours will outlast every sensible one in the room.
 fortuneHigh: Tape the two strange things together.
-fortuneHigh2: The sideways remark at the edge of the crowd will pull some in and send some off.
 fortuneMid: The shortcut was brilliant and now nobody can follow where you went.
-fortuneMid2: Not every offering has to be a riddle.
 fortuneLow: Your instinct to swap the spices has been steering wrong lately.
-fortuneLow2: There's a quiet luck in making the same supper that always lands, no twist bolted on.
 fortuneLeast: The deadpan, dead-on-time arrival is funnier than any detour you'd have invented.
-fortuneLeast2: Out on the road, take the route the map gives you.
-facetMostTitle: Gochugaru for Vinegar
+facetMostTitle: Weird Bean
 facetMost: They're naming the new kitten and every sweet, obvious name is already floating around the room. Not one of them will do — your mouth is already shaping something sideways no one saw coming.
-facetHighTitle: Beans Bent in the Jar
+facetHighTitle: Beanmélie
 facetHigh: A blank wall and a box of odds to hang on it. Where another hand would line up framed prints, you'd pin the bus ticket next to the dried starfish and call it composed.
-facetMidTitle: Brine Before It Clears
+facetMidTitle: Pushing Beansies
 facetMid: A lull falls over the picnic and you've got an oddball thought half-formed. Float it and watch who tilts toward it, or keep it to yourself and pass the bread.
-facetLowTitle: Vinegar Measured Level
+facetLowTitle: Beanormal People
 facetLow: Wrapping a present, you've got a wild idea for the paper and a plain brown roll on the shelf. You go with the plain brown and skip the flourish this once.
-facetLeastTitle: Salt on a Fixed Clock
+facetLeastTitle: Beanpleasantville
 facetLeast: The party invite asks for a costume and your head's already off somewhere strange. You turn up in plain clothes, on time, the most ordinary one in the room.
 question: It's a friend's summer housewarming and everyone else is turning up with the same bottle of wine and a scented candle. You...
 answerMost: bring a single odd seashell and a map to a place you'll take them next month
@@ -48,6 +45,4 @@ rorschachLow: a plain heart drawn in one stroke
 rorschachLeast: an ordinary spade from a pack of cards
 ---
 
-Pickled Green Beans are the Bean Zodiac's quirkiest — they answer the small-talk question with the wrong ingredient and the conversation opens. Their shelves hold pairings nobody else would shelve together, on purpose: a garlic clove beside a letter, a brine-soaked pebble in the spice rack, a postcard from a place they've never been used as a bookmark in a book they don't intend to finish. The strangeness is not for show. It's the actual taste of the room.
-
-The hazard is the people who needed flowers and got the chilli. Most of the time the gift translates; sometimes it lands as a small private joke aimed at someone who wasn't in on it, and the warmth they meant to give arrives as a puzzle they have to solve before they can feel it.
+Pickled Green Beans are the Bean Zodiac's most quirky. The flat has a wrong-coloured door and a shelf of things nobody else collects, and it's the best room to sit in. Occasionally it tips past charm. Blending unnoticed into a normal evening they can't quite achieve.

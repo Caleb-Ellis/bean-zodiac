@@ -1,9 +1,9 @@
 ---
 slug: sweet
 name: Sweet
-tagline: The Flavour that comforts.
-traits: [comforting, generous, effortless, joyful, lazy]
-toneOfVoice: Tints the voice warm and easy — open, inviting, quick to reassure.
+tagline: The Flavour that just feels good.
+positiveTraits: [warm, reassuring, affectionate, buoyant, obliging]
+negativeTraits: [cloying, complacent]
 ---
 
 Sweet is the easiest flavour to love and the hardest to use well. Too much and everything becomes the same note — cloying, flat, numbing. In the right amount, sweetness is generosity made edible: it opens, softens, and invites. Sweet Phases have this same quality of uncomplicated welcome.

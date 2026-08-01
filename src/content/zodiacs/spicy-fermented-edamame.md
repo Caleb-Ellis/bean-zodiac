@@ -1,39 +1,36 @@
 ---
+# COMPLETELY NEEDS UPDATING — excess: overengineering -> baroque, inverse: unoriginal -> imitative
 slug: spicy-fermented-edamame
+lastUpdated: 
 bean: edamame
 flavour: spicy
 form: fermented
 trait: inventive
-inverse: unoriginal
-excess: overengineering
-friendlyBeans: [chickpea, adzuki]
-friendlyForm: smoked
-antiTriple: sweet-boiled-mung
-antiBeans: [navy, adzuki]
-antiForm: dried
-dish: Edamame with spicy fermented black bean sauce and sesame.
+excess: baroque
+inverse: imitative
 quote: I'm a great bean believer in luck, and I find the harder I work, the more I have of it.
 creature: kea
-seasonalFortune: Brine darkens in the crock through weeks no one watches. Salt does the work of hours; the household eats from a season's quiet labor.
+dish: Edamame kimchi with gochugaru and fish sauce.
+friendlyBeans: [fava, black]
+friendlyForm: smoked
+antiTriple: sweet-boiled-mung
+antiBeans: [chickpea, navy]
+antiForm: dried
+seasonalFortune: "A season of gochugaru and new machinery: the kimchi solves something nobody had bothered solving."
 fortuneMost: One of the things fermenting in parallel is ripe right now.
-fortuneMost2: Salt has been doing the work of hours in the dark.
 fortuneHigh: Luck favours the cook who tries the odd method.
-fortuneHigh2: You hand someone the answer in a shape no one else would have reached for, and it fits.
 fortuneMid: A loose pull, a flickering bulb, a wobbling chair leg.
-fortuneMid2: Not everything has to be invented from scratch.
 fortuneLow: Step off the bench and let the day go unbilled.
-fortuneLow2: An afternoon on the steps making nothing isn't wasted.
 fortuneLeast: Papers, cups, a sweater on the chair — leave the drift.
-fortuneLeast2: Set the urge to optimize down and leave the house half-tidy.
-facetMostTitle: Salt and Chili in the Dark
+facetMostTitle: Beanbells and Whistles
 facetMost: With a part missing and the shop closed, you've already got your hands in the drawer building something that shouldn't work. Run the contraption and see if it holds.
-facetHighTitle: The Pod Before the Message
+facetHighTitle: Patent Beanpending
 facetHigh: Two people are stuck arguing over the only two options on the table. There's a third one nobody's named, and it's yours to put down between them.
-facetMidTitle: Sauce at the Bottom
+facetMidTitle: A Better Beanmousetrap
 facetMid: A board game everyone knows would play better with one rule of your own quietly added. Slip the house rule in and watch how the night bends around it.
-facetLowTitle: Sesame Settled Below
+facetLowTitle: Beancopycat
 facetLow: The store-bought one works perfectly well and costs almost nothing, and your hands are already sketching a better version. Buy the plain one off the shelf and don't build a thing.
-facetLeastTitle: Pods Without Supervision
+facetLeastTitle: Beancarbon Copy
 facetLeast: A friend's process is clunky and roundabout and you can see four ways to streamline it. You watch them do it their slow way and keep every suggestion to yourself.
 question: A team channel asks for a status update on the thing you've been working on. You have four half-finished pieces and one that's almost done. You...
 answerMost: post a wild new prototype nobody asked for
@@ -48,6 +45,4 @@ rorschachLow: a cat dozing curled into a comma
 rorschachLeast: a smooth hook hung on the wall
 ---
 
-Kimchi Edamame are the Bean Zodiac's most inventive — the friend whose workshop has four half-finished things on the bench and a fifth quietly becoming itself in a jar at the back. They don't pick a lane, exactly; they let several ferment in parallel and lift the lid on whichever one is ready, often producing the thing the room needed before the room knew to ask.
-
-The downside is that, from outside, weeks of this looks suspiciously like nothing. By the time the finished thing surfaces, the people waiting for an update have already drafted the worried email.
+Kimchi Edamame are the Bean Zodiac's most inventive. Handed a broken thing, they build a fix nobody thought of, out of parts nobody would have used. Occasionally the fix is more elaborate than the problem. Using the standard solution feels to them like giving up.

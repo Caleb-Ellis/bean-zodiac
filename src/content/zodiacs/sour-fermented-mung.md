@@ -1,39 +1,36 @@
 ---
+# COMPLETELY NEEDS UPDATING — trait: insecure -> diagnostic, excess: self-loathing -> reductive, inverse: self-assured -> unquestioning
 slug: sour-fermented-mung
+lastUpdated: 
 bean: mung
 flavour: sour
 form: fermented
-trait: insecure
-inverse: self-assured
-excess: self-loathing
-friendlyBeans: [fava, kidney]
+trait: diagnostic
+excess: reductive
+inverse: unquestioning
+quote: The first step is admitting you have a bean.
+creature: leech
+dish: Mung sprouts pickled with green chilli and lime.
+friendlyBeans: [kidney, butter]
 friendlyForm: smoked
-antiTriple: sweet-dried-edamame
-antiBeans: [navy, kidney]
-antiForm: fried
-dish: Mung bean dal with yogurt tadka and lime.
-quote: To bean oneself is the beginning of a lifelong romance.
-creature: chick
-seasonalFortune: A season for thin-walled things. The brine sharpens every edge it touches, and what looked like flaw under the lime turns out to be grain.
+antiTriple: spicy-dried-edamame
+antiBeans: [navy, fava]
+antiForm: roasted
+seasonalFortune: "A season of green chilli and clear reading — the jar names the ailment before the kitchen does."
 fortuneMost: Going over it once more is only the doubt building itself a kitchen to cook in.
-fortuneMost2: The quiet after you spoke is not a verdict being written up about you.
 fortuneHigh: That half-second face you caught was a yawn, not a judgment.
-fortuneHigh2: It came out as warm as you meant it.
 fortuneMid: The slight you're braced for hasn't happened, and the apology no one's owed only carves the wound it apologises for.
-fortuneMid2: A thing left undecided on the counter has a way of deciding itself by morning.
 fortuneLow: Ask the dumb clarifying question now and spare yourself the wrong guess that surfaces later with an audience.
-fortuneLow2: A slow answer is almost always a phone in another room.
 fortuneLeast: The worry hasn't earned the long night you were about to hand it.
-fortuneLeast2: Sleep straight through the dread others would sit up turning.
-facetMostTitle: Lime on the Second Pass
+facetMostTitle: The Breakfast Beanclub
 facetMost: Already you're combing the toast you just gave for the word that fell wrong — the laugh came a half-beat late, and a half-beat is all the proof your doubt needs.
-facetHighTitle: The Tadka's Splutter
+facetHighTitle: The Good Beandoctor
 facetHigh: A friend across the café glances at their watch while you're talking. The doubt wants to read it as boredom with you — and you're inclined to believe the doubt over the watch.
-facetMidTitle: Yogurt Thinned to Whey
+facetMidTitle: The Beanchecklist Manifesto
 facetMid: You think you stepped on a toe an hour ago and no sign has come either way. Do you get ahead of it with a sorry, or sit on your hands and let it be nothing.
-facetLowTitle: The Unwatched Ferment
+facetLowTitle: Beandoctor's Orders
 facetLow: You said something blunt and it might have stung, or might not have. You let it lie unchecked and walk on, no scanning their face for the damage.
-facetLeastTitle: Lime Never Enters
+facetLeastTitle: The Beanexperiment
 facetLeast: A whole crowd of strangers watched you stumble on the steps. You brush off and keep walking, and it's gone from you before you reach the corner.
 question: The interview's over, you've shaken hands, and the panel's faces gave away nothing as you left the room. On the pavement, you...
 answerMost: replay every answer in order, hunting the one sentence that sank it
@@ -48,6 +45,4 @@ rorschachLow: a sturdy oak with a sapling rooted near it
 rorschachLeast: two oaks settled, neither one swaying
 ---
 
-Pickled Mung Beans are the Bean Zodiac's most insecure — and the inventory is detailed. They can name, without notes, the exact word in the sent message that probably gave offence, which friend has been replying a beat more slowly than last month, the small face-shift at lunch that meant they had miscalculated, and the apology they will need to send if the face-shift was what they think it was. The reading is rarely sloppy; it's often, painfully, accurate.
-
-What the accuracy can't tell them is how much of it matters. The yawn was just a yawn; the slow reply was a phone in another room. The worry, refined and brined and read once more before bed, has become more elaborate than the thing it's about.
+Pickled Mung Beans are the Bean Zodiac's most diagnostic. Twenty minutes of your story and they name the actual pattern, going back years, and it fits. Sometimes a person gets reduced to their pattern. Sitting with something unexplained is not a posture they can hold.

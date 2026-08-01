@@ -1,39 +1,36 @@
 ---
+# COMPLETELY NEEDS UPDATING — excess: robotic -> unfeeling
 slug: sour-boiled-edamame
+lastUpdated: 
 bean: edamame
 flavour: sour
 form: boiled
 trait: logical
+excess: unfeeling
 inverse: illogical
-excess: robotic
-friendlyBeans: [cannellini, navy]
-friendlyForm: smoked
-antiTriple: bitter-fermented-chickpea
-antiBeans: [adzuki, pinto]
-antiForm: roasted
-dish: Edamame miso soup with rice vinegar and wakame.
 quote: Logic will get you from A to bean, but imagination will take you everywhere.
-creature: rook
-seasonalFortune: Wakame unfurls in the simmer this season; the broth admits only what belongs, and the bowl reads like a settled ledger.
+creature: termite
+dish: Edamame boiled in salt brine with rice vinegar and yuzu.
+friendlyBeans: [cannellini, navy]
+friendlyForm: dried
+antiTriple: bitter-roasted-mung
+antiBeans: [adzuki, kidney]
+antiForm: fried
+seasonalFortune: "A season of rice vinegar and clean reasoning: the brine follows from the salt, nothing else."
 fortuneMost: The conclusion fits in one sentence.
-fortuneMost2: Everyone's still hedging and the plain answer is already yours.
 fortuneHigh: Two reasons is gilding.
-fortuneHigh2: One question that clears who said what does more than restating the whole tangle.
 fortuneMid: Pull the load-bearing assumption when you feel it's wrong, and half the muddle loosens and goes with it.
-fortuneMid2: A nod first, then one small observation.
 fortuneLow: A correct proof that doesn't land needs a story, not more math.
-fortuneLow2: Sometimes "that sounds awful" is the whole correct answer.
 fortuneLeast: Stop solving and sit with the people who can't solve it either.
-fortuneLeast2: Someone wants company in the muddle, not a clean exit.
-facetMostTitle: Vinegar's One Sharp Note
+facetMostTitle: "2001: A Space Beanodyssey"
 facetMost: Back to the one false step at the start — that's where you go while everyone else is still circling and heated, and you name it before adding a word of your own.
-facetHighTitle: Miso Without Protest
+facetHighTitle: Mr. Beanock
 facetHigh: Two people insist they remember the same evening differently. Rather than pick a side, you ask the single question that would settle which of them is right.
-facetMidTitle: The Rim That Clears
+facetMidTitle: Hidden Beans
 facetMid: A choice is dressed up in feelings and pressure and what-ifs. You start quietly pulling out the one assumption it's all balanced on, to see what stays standing.
-facetLowTitle: Salt Before the Split
+facetLowTitle: Monty Python and the Holy Bean
 facetLow: A plan adds up perfectly and still something in your chest says no. You go with the feeling and let the spreadsheet lose for once.
-facetLeastTitle: Wakame's Unargued Shape
+facetLeastTitle: I Am the Beanwalrus
 facetLeast: Woodsmoke on the air, and your feet leave the route to chase it. No reason, no plan to be anywhere by dark, the day handed over to wherever the nose leads.
 question: The whole string of fairy lights has died, and somewhere in three hundred bulbs is the one that took the rest down with it. You...
 answerMost: test the run section by section until you've cornered the dead bulb
@@ -48,6 +45,4 @@ rorschachLow: a wave flattening out with no clear edge
 rorschachLeast: an oil slick spreading wherever the tide takes it
 ---
 
-Brined Edamame are the Bean Zodiac's most logical — they follow an argument to where it actually goes, and the answer, once they get there, is usually shorter than the question. They have a useful refusal to pad: when everyone else is still hedging, the Brined Edamame has already removed the two clauses that weren't doing any work and named the thing in one sentence.
-
-The flaw is the same instinct used on a problem that wasn't a problem. A friend wanted company in the muddle, and got a flowchart instead.
+Brined Edamame are the Bean Zodiac's most logical. They will show you why the plan fails at step four, and the plan does fail at step four. Some conversations get solved when they wanted witnessing. A thing that makes no sense and works anyway offends them.

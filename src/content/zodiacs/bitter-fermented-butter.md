@@ -1,35 +1,36 @@
 ---
+# CHANGED SINCE THIS CONTENT WAS WRITTEN — trait: thoughtful -> philosophical, excess: overthinking -> abstruse, inverse: thoughtless -> prosaic
 slug: bitter-fermented-butter
-lastUpdated: 2026-06-18
+lastUpdated: 
 bean: butter
 flavour: bitter
 form: fermented
-trait: thoughtful
-inverse: thoughtless
-excess: overthinking
-friendlyBeans: [mung, adzuki]
-friendlyForm: smoked
-antiTriple: sour-fried-edamame
-antiBeans: [kidney, green]
-antiForm: dried
-dish: Butter bean and kimchi broth with bitter greens.
+trait: philosophical
+excess: abstruse
+inverse: prosaic
 quote: The unexamined bean is not worth eating.
-creature: burrowing owl
-seasonalFortune: A season that rewards the jar left at the back of the shelf. Salt does the work no calendar can hurry, and the cooks who trust the dark are fed first when the cold sets in.
+creature: great grey owl
+dish: Butter beans cultured in whey with wormwood and bay.
+friendlyBeans: [mung, pinto]
+friendlyForm: smoked
+antiTriple: spicy-fried-edamame
+antiBeans: [navy, cannellini]
+antiForm: dried
+seasonalFortune: "A season of whey and long questions. The crock arrives at answers the kitchen never asked for."
 fortuneMost: The slow sentence is the one they'll remember.
 fortuneHigh: Someone wants it decided before you're ready.
 fortuneMid: An opinion you've held a long time has quietly gone stale.
 fortuneLow: A decision is being made without you — and made wrong.
 fortuneLeast: Some things arrive already settled.
-facetMostTitle: The Deep Steep
+facetMostTitle: Gödel, Escher, Bean
 facetMost: The job offer's good and everyone says take it. You'll run through a pros and cons list at least five times before you give an answer.
-facetHighTitle: Greens Under Salt
+facetHighTitle: Zen and the Art of Beantorcycle Maintenance
 facetHigh: No sign at the fork in the trail, and the others have already started down the left path. Give it a minute — the map's worth a proper look, even with them waiting.
-facetMidTitle: The Crock While the House Sleeps
+facetMidTitle: The Good Bean
 facetMid: A pinch of salt, the recipe says. You'll taste the dish first before you add any.
-facetLowTitle: Straight From the Garden
+facetLowTitle: Ordinary Beans
 facetLow: Someone asks what you think of their new place. It's a bit dark, and drab. Your honest answer is said before you think of the softened version.
-facetLeastTitle: Quick-Pickle, Same Hour
+facetLeastTitle: Beans of Our Lives
 facetLeast: A friend pitches some half-baked plan for the weekend, and you're in before they've even finished.
 question: You've got the window seat on a long flight. The child beside you keeps glancing out at the clouds and half-starting to say something. You...
 answerMost: offer your seat before they ask
@@ -44,6 +45,4 @@ rorschachLow: a clod of crumbling earth
 rorschachLeast: two messy footprints in a puddle
 ---
 
-Cultured Butter Beans are the Bean Zodiac's most thoughtful — the quiet ones in a loud room whose single sentence, when it finally comes, lands like a ladle finding the bottom of the pot. They don't talk to fill air. They wait until the thing is actually worth saying, and it usually is, and people learn to lean in when they start.
-
-But "let me think about it" can stretch until everyone else has already decided. The thought matures beautifully in the dark and arrives the day after the decision was made without it.
+Cultured Butter Beans are the Bean Zodiac's most philosophical. Ask about the parking fine and you'll end up on the nature of rules, pleasantly, for an hour. Sometimes the answer arrives so abstract it's no longer about the fine. The purely practical reply bores them silent.

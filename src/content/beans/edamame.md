@@ -1,9 +1,10 @@
 ---
 slug: edamame
 name: Edamame
+role: The Pragmatist
 tagline: See what's there. Do what works.
-traits: [practical, direct, sharp, quick, dismissive]
-toneOfVoice: Blunt and fast; cuts to the point and skips the cushioning.
+positiveTraits: [practical, direct, resourceful, unsentimental, capable]
+negativeTraits: [dismissive, curt]
 imageFile: edamame.webp
 ---
 

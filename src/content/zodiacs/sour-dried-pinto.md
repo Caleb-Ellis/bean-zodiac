@@ -1,39 +1,36 @@
 ---
+# COMPLETELY NEEDS UPDATING — trait: astringent -> epigrammatic, excess: corrosive -> gnomic, inverse: soothing -> rambling
 slug: sour-dried-pinto
+lastUpdated: 
 bean: pinto
 flavour: sour
 form: dried
-trait: astringent
-inverse: soothing
-excess: corrosive
-friendlyBeans: [edamame, green]
-friendlyForm: smoked
-antiTriple: sweet-roasted-chickpea
-antiBeans: [black, mung]
-antiForm: boiled
-dish: Pinto bean and dried mulato chile stew with lime.
-quote: Art is not what you see, but what you bean others to see.
-creature: lemon shark
-seasonalFortune: Lime cuts the long simmer; the mulato keeps its dark edge. A season that thins what was padding and leaves the chile-bitten broth standing where the soft talk used to be.
+trait: epigrammatic
+excess: gnomic
+inverse: rambling
+quote: Sarcasm is the lowest form of wit but the highest form of bean.
+creature: wren
+dish: Dried pinto beans with dried tomatillo and lime powder.
+friendlyBeans: [adzuki, fava]
+friendlyForm: fermented
+antiTriple: sweet-boiled-kidney
+antiBeans: [mung, navy]
+antiForm: roasted
+seasonalFortune: "A season of dried tomatillo and short sayings — the pantry speaks once, and closes."
 fortuneMost: Answer the question actually asked, not the padded one, and watch the cushion fall away from the asker's face.
-fortuneMost2: Strike the adjective from the line you're proudest of. The noun carries it alone.
 fortuneHigh: Cut your favourite sentence. It flatters you, not the work, and the work stands taller the moment it's gone.
-fortuneHigh2: The thing lands harder bare, the way the mulato keeps its dark edge with nothing stirred in to soften it.
 fortuneMid: Decline the graceful exit and say the plain thing, the wrong named outright.
-fortuneMid2: An apology with no preamble and no trimming at the edge.
 fortuneLow: Let the long story wander, ramble and all.
-fortuneLow2: Name the strongest image and leave the rest standing.
 fortuneLeast: Something tender is owed more warmth than truth.
-fortuneLeast2: Some sentiment is meant to be overripe, like a fig left to burst over its stem. Tell them it moved you and leave it whole.
-facetMostTitle: Lime First, Always
+facetMostTitle: Beanfucius Say
 facetMost: Ask, flat, what they're not saying about the walls — the realtor's spent ten minutes of charm steering you clear of an obvious damp stain.
-facetHighTitle: The Mulato Seed
+facetHighTitle: The Picture of Dorian Bean
 facetHigh: Hanging the photos for the show, your eye lands on the one you love most — and it's the weakest in the room. Off the wall it comes.
-facetMidTitle: The Skin That Lifts
+facetMidTitle: Poor Richard's Beanmanack
 facetMid: The eulogy you've been asked to give could fill ten flowery minutes. You'd rather stand up, say the two true things, and sit back down.
-facetLowTitle: Low Flame Past Supper
+facetLowTitle: Ramblin' Bean
 facetLow: A friend's home cooking is a riot of too many sauces and clashing sides. The urge to suggest restraint rises, and you clean your plate and ask for seconds.
-facetLeastTitle: Lime Aside, Chile Whole
+facetLeastTitle: Beannegans Wake
 facetLeast: A nervous performer steps off stage and searches your face for a verdict. The honest notes can wait — you fold them into a hug and tell them it was wonderful.
 question: At the farmers' market a grower hands you a slice of the peach they're calling the best of the season. It's fine, not that. You...
 answerMost: tell them it's a touch mealy and where it falls short
@@ -48,6 +45,4 @@ rorschachLow: a peony nodding above its leaves
 rorschachLeast: a ripe fig bursting over its stem
 ---
 
-Dehydrated Pinto Beans are the Bean Zodiac's most astringent. The piece they show you has had every flattering sentence removed; the speech at the leaving do contains no superlatives and somehow lands harder for it; the room they live in is expressive without being decorated, every object earning the space it takes. People come to them for taste because they can be trusted not to lie upward.
-
-The cost is the warmth pared off with the cliché. A poem about a grandmother is sometimes meant to be a little overripe, and a Bean who keeps cutting until the sentiment goes too can find their cleaner version of it leaves the writer quietly unmet.
+Dehydrated Pinto Beans are the Bean Zodiac's most epigrammatic. Nine words about your job that you'll be repeating to other people for a year. Sometimes the nine words are so compressed nobody can open them. Talking around a thing until it comes clear feels like defeat.

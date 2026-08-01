@@ -1,39 +1,36 @@
 ---
+# COMPLETELY NEEDS UPDATING — trait: exacting -> precise, excess: tyrannical -> hairsplitting, inverse: lenient -> approximate
 slug: sour-boiled-cannellini
+lastUpdated: 
 bean: cannellini
 flavour: sour
 form: boiled
-trait: exacting
-inverse: lenient
-excess: tyrannical
+trait: precise
+excess: hairsplitting
+inverse: approximate
+quote: The devil is in the beans.
+creature: woodpecker
+dish: Cannellini boiled then dressed hot in lemon, caper brine, and parsley.
 friendlyBeans: [edamame, navy]
-friendlyForm: dried
-antiTriple: bitter-smoked-pinto
-antiBeans: [green, fava]
-antiForm: fermented
-dish: Ribollita - Tuscan cannellini with red wine vinegar and cavolo nero.
-quote: Good enough is the enemy of the bean.
-creature: weaverbird
-seasonalFortune: "Ribollita is a second boil; the pot returns to itself and the season returns to its measure. What held the first heat holds now. What blurred is shown to have been approximate."
+friendlyForm: smoked
+antiTriple: bitter-fermented-adzuki
+antiBeans: [kidney, pinto]
+antiForm: roasted
+seasonalFortune: "A season of caper brine and counted drops: the dressing is exact or it is nothing."
 fortuneMost: Hold the small line and they'll call you pedantic, then lean on the result anyway.
-fortuneMost2: A fine omen for the one who still notices.
 fortuneHigh: They'll ask you to round the number that shouldn't be rounded.
-fortuneHigh2: Taste before you serve and you'll catch the pinch that's off.
 fortuneMid: One thing sits slightly crooked and keeps pulling at you.
-fortuneMid2: Early at the door, waiting outside, is part of arriving right.
 fortuneLow: The pass that ruins it comes right after the version that was already good.
-fortuneLow2: Let the day arrange itself around hunger and tiredness instead of the list.
 fortuneLeast: The rough thing that's finished outlasts the perfect thing that isn't.
-fortuneLeast2: A little drift in your space, an inkblot easing past its own edge.
-facetMostTitle: Vinegar Counted in Drops
+facetMostTitle: Eats, Shoots & Beans
 facetMost: A picture on the wall hangs a degree off true. Everyone else walked past it. You cross the room and level it before you can sit down.
-facetHighTitle: Cavolo Nero on the Bias
+facetHighTitle: Measure for Beansure
 facetHigh: The cake's done and good, but the icing has one ragged edge only you can see. Smooth it before anyone's allowed a slice?
-facetMidTitle: The Slow Tilt of the Pour
+facetMidTitle: Apollo Beanteen
 facetMid: A recipe says a pinch and you reach for the spoon instead, because a pinch is two different amounts on two different days.
-facetLowTitle: A Generous Pour, Loose Greens
+facetLowTitle: Close Enough, Bean
 facetLow: A board game's rules are being half-remembered and bent on the fly. Somebody's clearly fudging it — and you find you couldn't care, the game's fun.
-facetLeastTitle: Whatever Is Near, the Pot on
+facetLeastTitle: Give or Bean
 facetLeast: Packing for a trip, you grab whatever's near the top of the drawer and zip the bag. No list, no folding system, gone before you've second-guessed it.
 question: The cabinet door you built hangs beautifully but for one corner that sits a hair proud — a gap you'd only catch if you went looking. You went looking. You...
 answerMost: take it back off, plane the joint, and reset it until the line is dead true
@@ -48,6 +45,4 @@ rorschachLow: an inkblot still creeping past its own edge
 rorschachLeast: a spilled drink spreading wherever it likes
 ---
 
-Brined Cannellini Beans are the Bean Zodiac's most exacting. The standard does not move when the room gets loud or when everyone else has agreed something close enough is close enough; the comma in the wrong place at lunchtime is still in the wrong place at six. There is something steadying about being near them — small things that other people had stopped noticing get quietly put right, and the work they touch reads, afterwards, as having been thought about.
-
-The trouble is that the standard does not always know which battles deserve it, and a misaligned bullet point can absorb a Tuesday that had other plans.
+Brined Cannellini Beans are the Bean Zodiac's most precise. They say Tuesday at ten, not sometime Tuesday, and the figure they quote is the figure. Sometimes it's a distinction only they can see. A rough estimate offered as good enough makes them physically uneasy.

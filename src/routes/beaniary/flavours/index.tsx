@@ -9,10 +9,11 @@ export const Route = createFileRoute("/beaniary/flavours/")({
       <div className="animate-fade-up">
         <section className="py-12 text-center">
           <h1 className="text-4xl sm:text-5xl font-bold">
-            The Five Phases of Flavour
+            The Five Flavours
           </h1>
           <p className="mt-3 text-lg text-zinc-300 max-w-xl mx-auto">
-            Each Bean is enhanced by one of five fundamental flavours.
+            Each Bean is seasoned with one of five fundamental Flavours, which
+            determine how it comes across to others.
           </p>
         </section>
         <ul className="flex flex-col gap-3 list-none p-0 m-0 max-w-lg mx-auto w-full">

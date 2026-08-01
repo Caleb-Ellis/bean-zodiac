@@ -1,39 +1,36 @@
 ---
+# COMPLETELY NEEDS UPDATING — excess: fanatical -> self-forgetting, inverse: uncommitted -> half-hearted
 slug: umami-boiled-edamame
+lastUpdated: 
 bean: edamame
 flavour: umami
 form: boiled
 trait: dedicated
-inverse: uncommitted
-excess: fanatical
-friendlyBeans: [black, navy]
-friendlyForm: dried
-antiTriple: sweet-smoked-pinto
-antiBeans: [chickpea, fava]
-antiForm: fermented
-dish: Dashi-ni - edamame simmered in dashi, soy, and mirin.
+excess: self-forgetting
+inverse: half-hearted
 quote: The price of bean excellence is dedication.
 creature: retriever
-seasonalFortune: A season that rewards the long simmer. Mirin and soy take their hours; nothing finished here arrived in a hurry.
+dish: Edamame ohitashi steeped in cold dashi.
+friendlyBeans: [cannellini, navy]
+friendlyForm: dried
+antiTriple: sweet-roasted-adzuki
+antiBeans: [chickpea, green]
+antiForm: smoked
+seasonalFortune: "A season of ohitashi and steady tending: the pod stays with the task all winter."
 fortuneMost: Same chair, same hour, a little longer than yesterday.
-fortuneMost2: The long thing you've quietly returned to for years is about to give you what it withheld.
 fortuneHigh: A small habit held for years outweighs the grand plan you keep meaning to start.
-fortuneHigh2: The pan scoured the way you've always scoured it is its own kind of devotion.
 fortuneMid: Finish what's been waiting longest before starting anything new.
-fortuneMid2: Gone a bit thin, but thin isn't gone.
 fortuneLow: A vow made by someone you no longer are can be set down.
-fortuneLow2: Close a thing mid-sentence and open another.
 fortuneLeast: End the commitment that's outlived itself.
-fortuneLeast2: Turning the heat off doesn't make you a quitter.
-facetMostTitle: What Dashi Withholds
+facetMostTitle: The Red Beanshoes
 facetMost: Sleet sideways, the trailhead empty, the marathon you've trained a year for still on. You lace up and head out into it because not running was never one of the options.
-facetHighTitle: Soy Into the Pod
+facetHighTitle: Chariots of Beanfire
 facetHigh: Weeks back you shook on a thing, and the other side has plainly forgotten it ever happened. No one's left to hold you to it — and you'll deliver your half on the nose regardless.
-facetMidTitle: The Pot, Always Tended
+facetMidTitle: Field of Beans
 facetMid: The instrument's been propped in the corner all month. You pick it up for the same twenty minutes you always do, scales first, before anything fun.
-facetLowTitle: Mirin's Quick Sweet
+facetLowTitle: Half a Beanpence
 facetLow: There's a puzzle half-built on the table and a brighter new box just in from the post, and the unfinished one slides aside without a pang as you tip the new pieces out.
-facetLeastTitle: The Broth Poured Early
+facetLeastTitle: The Half-Blood Beanprince
 facetLeast: A club you've belonged to forever has run out of whatever made it worth it. Hand back your key, miss the next meeting on purpose, and let the lighter week be yours.
 question: A standing Tuesday meet-up you've kept up for years has gone a bit thin — fewer people, lower energy. You...
 answerMost: keep showing up; the thing is the showing up
@@ -48,6 +45,4 @@ rorschachLow: a snowman already starting to slump sideways
 rorschachLeast: a sandcastle caving in at the tide line
 ---
 
-Dashi Edamame are the Bean Zodiac's most dedicated — they return to the same chair on the same night for years, and the room knows their footsteps before the door opens. The plant gets watered on Wednesdays, the pan is scoured the way their grandmother scoured hers, and the project they took on in March is still on the desk in November, closer to finished than anyone else's would be.
-
-The shadow is the standing commitment that's quietly outlived itself. These Beans will keep tending a pot long after the broth has gone, because turning the burner off feels too much like admitting they're a person who turns burners off.
+Dashi Edamame are the Bean Zodiac's most dedicated. Whatever they have committed to gets the good hours, for years, with no need for it to be noticed. Sometimes there is nothing of them left over. Doing something half-heartedly is not a mode they have.

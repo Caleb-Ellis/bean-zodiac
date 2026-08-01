@@ -1,39 +1,36 @@
 ---
+# COMPLETELY NEEDS UPDATING — trait: clingy -> demonstrative, excess: possessive -> gushing, inverse: standoffish -> undemonstrative
 slug: spicy-roasted-mung
+lastUpdated: 
 bean: mung
 flavour: spicy
 form: roasted
-trait: clingy
-inverse: standoffish
-excess: possessive
-friendlyBeans: [butter, chickpea]
-friendlyForm: fermented
-antiTriple: sour-fried-edamame
-antiBeans: [navy, black]
-antiForm: dried
-dish: Bhuna mung - dry-roasted whole mung beans with chili, cumin, and dried mango.
+trait: demonstrative
+excess: gushing
+inverse: undemonstrative
 quote: Love is that condition in which the happiness of another bean is essential to your own.
-creature: koala
-seasonalFortune: A season of held heat. The pan crowds with small bodies leaning in, chili threading between them, and nothing in this kitchen cools alone.
+creature: prairie dog
+dish: Mung roasted with chilli, curry leaf, and coconut.
+friendlyBeans: [butter, pinto]
+friendlyForm: boiled
+antiTriple: sour-dried-edamame
+antiBeans: [fava, navy]
+antiForm: fried
+seasonalFortune: "A season of coconut and open arms: the tray offers itself to everyone, repeatedly."
 fortuneMost: Reach for no reason — just the small thing you noticed and wanted them to have.
-fortuneMost2: Small regular deposits of love, asked for or not, are the whole practice of closeness.
 fortuneHigh: The leaning-in you're shy about is the very thing that makes a place feel held.
-fortuneHigh2: Wanting people near is no flaw to tuck away.
 fortuneMid: A quiet stretch is not a leaving.
-fortuneMid2: The thread holds slack without snapping.
 fortuneLow: Someone needing space is not someone walking off.
-fortuneLow2: Two unread messages almost never mean what the careful evening theory builds out of them.
 fortuneLeast: Cook for one and let the quiet house be the warm room.
-fortuneLeast2: A solitary evening doesn't mean anything's wrong, however much the empty sofa-end argues otherwise.
-facetMostTitle: The Pan That Asks for Stillness
+facetMostTitle: Hugs and Beankisses
 facetMost: A friend mentions they're flying out for a fortnight. Already you're mapping the calls, the check-ins, the little parcel that'll be waiting when they land.
-facetHighTitle: Mango-Sharp, the Heap Holding
+facetHighTitle: Big Beanhugs
 facetHigh: On a crowded train you take the seat shoulder-to-shoulder with someone you love over the empty one across the aisle, every time.
-facetMidTitle: Cumin Where the Beans Touch
+facetMidTitle: From Bean with Love
 facetMid: A day goes by with no word from someone dear, and the urge to send a just-checking message tugs at you well before evening.
-facetLowTitle: Chili Scattered Wide
+facetLowTitle: A Firm Beanhandshake
 facetLow: A loved one says they need a stretch of room to themselves. You can wave them off and pour the time into your own thing without the ache trailing after.
-facetLeastTitle: Each Bean Browning Alone
+facetLeastTitle: At Beanarm's Length
 facetLeast: The house empties for a long weekend, everyone gone but you. Far from lonely, the quiet of it sounds like the truest rest there is.
 question: Your partner goes quiet for the evening — not cross, just tired and tucked into a book. The silence is starting to feel longer than it is. You...
 answerMost: sit beside them and ask, three times across the hour, if everything's okay
@@ -48,6 +45,4 @@ rorschachLow: two boats easing apart at the dock
 rorschachLeast: an antler shed and lying on its own
 ---
 
-Peri-Peri Mung Beans are the Bean Zodiac's most clingy — the ones who remember the anniversary of the small things, who send the unprompted photo of the cafe you went to once, who sit on the same end of the sofa every night because the orbit is the point. Their love is specific and durable and arrives in small, regular deposits whether you asked for them or not.
-
-The shadow is that a quiet stretch reads as withdrawal. Two unanswered messages become an evening of careful theory-building, and the person who was just busy comes back to find a small, anxious bill waiting to be paid.
+Peri-Peri Mung Beans are the Bean Zodiac's most demonstrative. The hug at the station, the text that says the thing, the note in the bag — nothing gets left unexpressed. Sometimes it arrives thicker than the moment holds. Loving somebody silently isn't a method available to them.

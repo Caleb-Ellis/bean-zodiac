@@ -1,39 +1,36 @@
 ---
+# COMPLETELY NEEDS UPDATING — inverse: unruly -> undisciplined
 slug: umami-boiled-kidney
+lastUpdated: 
 bean: kidney
 flavour: umami
 form: boiled
 trait: disciplined
-inverse: unruly
 excess: regimented
-friendlyBeans: [cannellini, navy]
-friendlyForm: dried
-antiTriple: sweet-fermented-chickpea
-antiBeans: [pinto, fava]
-antiForm: smoked
-dish: Red beans and rice - Louisiana style with Andouille sausage and the holy trinity, made on a Monday.
+inverse: undisciplined
 quote: We are what we repeatedly bean. Excellence, then, is not an act, but a habit.
 creature: warhorse
-seasonalFortune: A Monday pot, set early, asked nothing of the cook but return. The season rewards the unremarkable hour repeated; richness arrives by accumulation, not by occasion.
+dish: Kidney beans simmered in mushroom dashi.
+friendlyBeans: [cannellini, mung]
+friendlyForm: dried
+antiTriple: sweet-roasted-green
+antiBeans: [fava, chickpea]
+antiForm: smoked
+seasonalFortune: "A season of mushroom dashi and kept hours — the stock is made the same way daily."
 fortuneMost: Same chair, same hour — show up hardest on the day the streak usually dies.
-fortuneMost2: The unremarkable hour you've repeated for months is quietly about to pay out, all at once, when you'd half stopped expecting it to.
 fortuneHigh: When something real asks you to skip the routine, say yes.
-fortuneHigh2: A bedtime that drifts ten minutes a year is doing its slow work.
 fortuneMid: Write down what the practice is actually for.
-fortuneMid2: The same route walked in the same order, and the world meets you halfway down it.
 fortuneLow: The week has slipped its banks.
-fortuneLow2: Spend by feel and let the month sort itself out.
 fortuneLeast: Burn the schedule.
-fortuneLeast2: Sleep when sleep comes, eat when hunger asks, let the days lose their grid.
-facetMostTitle: The Monday Pot
+facetMostTitle: An Officer and a Beantleman
 facetMost: It's the dark, ugly morning when the streak almost always breaks — rain on the window, the bed warm, the swim an hour away. You're up and pulling on the cold suit because this is exactly the morning that counts.
-facetHighTitle: Sausage, the Same Way
+facetHighTitle: Beandrumline
 facetHigh: A genuine, once-only thing lands square on your training night. Go — one missed session won't undo the year standing behind it.
-facetMidTitle: Onion, Celery, Pepper
+facetMidTitle: Same Time Next Bean
 facetMid: Halfway through the evening stretch you realise you've no idea anymore what it was meant to fix. You stop the routine cold to dig out the reason before another rep.
-facetLowTitle: The Thursday Pot
+facetLowTitle: Lord of the Beans
 facetLow: A windfall lands, the budget's gone vague, and somehow the month is still fine. You spend by feel for once, even as your hands itch to open the ledger and pin it all down.
-facetLeastTitle: Andouille at Midnight
+facetLeastTitle: The Wild Beanunch
 facetLeast: Holiday cabin, no alarm set, the days gone soft and gridless around you. Let sleep come when it comes and hunger decide the meals, though the missing structure feels a little like falling.
 question: The alarm goes at five for the run you swore you'd do, and it's black and freezing outside the blankets. You...
 answerMost: up and out the door before the warmth can argue you out of it
@@ -48,6 +45,4 @@ rorschachLow: a bramble tangled past any clear edge
 rorschachLeast: a splat of ink flung across the page
 ---
 
-Dashi Kidney Beans are the Bean Zodiac's most disciplined — same chair, same hour, the Monday pot set on early and asked nothing of them but return. Bedtime moves by ten minutes a year; the inbox knows their office hours; the practice they began in a cold January is, four years later, still happening on Wednesdays without commentary. Their friends know which nights to call and which to leave alone.
-
-The shadow is that the schedule outlasts its reason. The rehearsal continues long after these Beans have stopped asking what show it was for, and the rigour that built the life can quietly begin to wall it off.
+Dashi Kidney Beans are the Bean Zodiac's most disciplined. The same hour, the same practice, every day for six years, including the days they hated it. Sometimes the schedule outranks the reason for it. Skipping a day without paying for it internally isn't available.

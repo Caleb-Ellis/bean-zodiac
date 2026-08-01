@@ -1,39 +1,36 @@
 ---
+# COMPLETELY NEEDS UPDATING — trait: excitable -> impatient, excess: overwrought -> precipitate, inverse: imperturbable -> long-suffering
 slug: bitter-fried-green
+lastUpdated: 
 bean: green
 flavour: bitter
 form: fried
-trait: excitable
-inverse: imperturbable
-excess: overwrought
-friendlyBeans: [pinto, kidney]
-friendlyForm: fermented
-antiTriple: umami-dried-black
-antiBeans: [butter, navy]
-antiForm: boiled
-dish: Tempura - green beans with bitter matcha salt.
-quote: Nothing great in the world was ever achieved without beans!
-creature: squirrel
-seasonalFortune: A season of hot oil and short windows. The batter sets the instant it meets the pan, and the days reward whoever is already standing at the stove.
+trait: impatient
+excess: precipitate
+inverse: long-suffering
+quote: I am not a bean at ease.
+creature: hare
+dish: Green beans wok-charred with dried chilli and Sichuan pepper husk.
+friendlyBeans: [chickpea, kidney]
+friendlyForm: roasted
+antiTriple: umami-boiled-butter
+antiBeans: [black, navy]
+antiForm: dried
+seasonalFortune: "A season of wok char and short tempers — the bean will not wait for the oil twice."
 fortuneMost: Run at the thing that lit you up.
-fortuneMost2: An idea lands and you see its whole shape at once.
 fortuneHigh: There's a hello you're tempted to save for a story told later — cross the room instead.
-fortuneHigh2: That spark deserves a real sprint, and the window on it is shorter than it looks.
 fortuneMid: Finish the old thing before you start the new one.
-fortuneMid2: The wild plan reads truer cooled a few days.
 fortuneLow: Three steps ahead and lapping the room.
-fortuneLow2: Not everything that lights up is yours to chase.
 fortuneLeast: One dim room, one bare shelf, one evening with nothing on it.
-fortuneLeast2: A back burner kept cold on purpose itches at you, all that heat unused.
-facetMostTitle: The Bean, Mid-Air
+facetMostTitle: Bean Hour
 facetMost: A trapdoor in the museum floor swings open onto a stairway nobody mentioned. You're three steps down it, calling for the others to come see, before you've thought to wonder why.
-facetHighTitle: Matcha on a Stranger's Plate
+facetHighTitle: Are We There Yet, Bean?
 facetHigh: Out comes a fiddle in the square and half the crowd turns to watch. You don't half-turn — you're at the front, grinning, already asking the player what the tune is called.
-facetMidTitle: Batter at the Oil
+facetMidTitle: Waiting Is the Hardest Bean
 facetMid: Someone mentions a class starting up across town. By the end of the chat you've half-signed up in your head — not running out the door yet, but lit, and leaning toward yes.
-facetLowTitle: Salt in Its Dish
+facetLowTitle: Beanience
 facetLow: Fireworks go up over the harbour and everyone gasps and points. You watch them too, quietly pleased, but you don't reach for your phone or whoop — you just let them happen.
-facetLeastTitle: The Pan, Back Burner
+facetLeastTitle: The Long Bean Home
 facetLeast: Breathless, your friend bursts in with the most exciting news of their year. You're glad for them, genuinely — and your pulse doesn't budge, your voice stays level, no spark catches.
 question: Midday in the field, and the whole flock of starlings overhead folds into a single turning shape — a thing that won't last a minute. You...
 answerMost: are already running under it, arms wide, shouting for whoever's near to look up
@@ -48,6 +45,4 @@ rorschachLow: a teapot sitting cold on the shelf
 rorschachLeast: a cat curled tight and fast asleep
 ---
 
-Scorched Green Beans are the Bean Zodiac's most excitable. They answer the thread the second it lights up, start the new thing the night they hear about it, introduce themselves to the stranger in the queue and mean it — and the enthusiasm isn't scattershot, it has aim. People warm to them fast, because the excitement is real and pointed at something.
-
-The trouble is that nearly everything clears the bar, and the few things that shouldn't get the same full sprint as the things that should. They tend to discover which was which only afterward, three tabs deep, the kitchen still smelling of the last thing they were this sure about.
+Scorched Green Beans are the Bean Zodiac's most impatient. They finish your sentence correctly and start the work while the meeting is still deciding. Sometimes the start lands two facts too early. Waiting quietly for something that will arrive anyway feels to them like losing.

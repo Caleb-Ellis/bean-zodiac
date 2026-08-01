@@ -1,9 +1,10 @@
 ---
 slug: adzuki
 name: Adzuki Bean
+role: The Reveler
 tagline: Celebration is a serious practice.
-traits: [joyful, celebratory, generous, lucky, avoidant]
-toneOfVoice: Warm and rallying; talks to gather people and mark the moment.
+positiveTraits: [celebratory, convening, generous, commemorative, auspicious]
+negativeTraits: [avoidant, excessive]
 imageFile: adzuki.webp
 ---
 

@@ -113,9 +113,9 @@ export function computeSpiritBeanScores(
   const formScores = Object.fromEntries(SPIRIT_FORM_RING.map((id) => [id, 12]));
   const beanScores = Object.fromEntries(SPIRIT_BEAN_RING.map((id) => [id, 12]));
 
-  flavourScores[claimedFlavourId] += 12;
-  formScores[claimedFormId] += 12;
-  beanScores[claimedBeanId] += 12;
+  flavourScores[claimedFlavourId] += 8;
+  formScores[claimedFormId] += 8;
+  beanScores[claimedBeanId] += 8;
 
   const history = cutoffDateStr
     ? useStore.getState().fortuneHistory.filter((e) => e.date <= cutoffDateStr)

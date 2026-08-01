@@ -1,39 +1,36 @@
 ---
+# COMPLETELY NEEDS UPDATING — excess: conniving -> cunning, inverse: dimwitted -> dull
 slug: sour-fermented-chickpea
+lastUpdated: 
 bean: chickpea
 flavour: sour
 form: fermented
 trait: clever
-inverse: dimwitted
-excess: conniving
-friendlyBeans: [pinto, adzuki]
-friendlyForm: roasted
-antiTriple: bitter-dried-navy
-antiBeans: [cannellini, butter]
-antiForm: boiled
-dish: Dahi chana - chickpeas with yogurt, tamarind chutney, and chaat masala.
+excess: cunning
+inverse: dull
 quote: The secret of being a bean bore is to tell everything.
 creature: raccoon
-seasonalFortune: The brine has been thinking in the dark. What it returns is sharper than the chickpea that went in, and quicker to answer.
+dish: Chickpeas in torshi brine with turnip and beet.
+friendlyBeans: [pinto, adzuki]
+friendlyForm: roasted
+antiTriple: bitter-dried-cannellini
+antiBeans: [navy, edamame]
+antiForm: boiled
+seasonalFortune: "A season of torshi and quick solutions — the brine solves a problem the kitchen hadn't posed."
 fortuneMost: You've been quietly right on your own long enough.
-fortuneMost2: A solve lands in you three steps ahead of everyone.
 fortuneHigh: The question that lets someone arrive at the answer you already hold is the cleverest move you own.
-fortuneHigh2: Two of the errands are secretly one trip.
 fortuneMid: A stuck thing turns on the right word, not the right tone.
-fortuneMid2: The answer doesn't need dressing up as a guess.
 fortuneLow: The clever detour is a tax you keep volunteering to pay.
-fortuneLow2: There's a real ease in not rerouting yourself around every supposed shortcut.
 fortuneLeast: Buy the obvious thing at the obvious price.
-fortuneLeast2: Some days a jar is only a jar.
-facetMostTitle: The Tamarind Seam
+facetMostTitle: Fantastic Mr. Bean
 facetMost: A heavy wardrobe won't fit through the doorway and four people are sweating at it. The geometry of the turn arrives whole in your head before anyone's measured a thing.
-facetHighTitle: Chaat Masala, Every Tab
+facetHighTitle: Good Will Beanting
 facetHigh: A child is stuck on a riddle and bored of it. Rather than tell them the answer, you'd nudge them one question sideways and let them spring it themselves.
-facetMidTitle: Brine in the Yogurt
+facetMidTitle: Beanversity Challenge
 facetMid: A vending machine eats the coin and keeps the snack. Where others shrug and walk off, you find the one tilt and tap that shakes it loose.
-facetLowTitle: Plain Chickpeas
+facetLowTitle: Watching Beans Dry
 facetLow: There's a slick workaround for the booking and the plain way costs ten dull minutes. You take the dull ten and feel no itch to outsmart it.
-facetLeastTitle: One Ingredient, Bare Counter
+facetLeastTitle: The Beandull Men's Club
 facetLeast: A locked gate, an obvious long way round, and a clever gap in the fence you could spot if you looked. You take the long way and don't go looking.
 question: Locked out at midnight, keys inside, and a locksmith wants a fortune to come at this hour. You...
 answerMost: spot the loose bathroom latch and talk yourself in through the back window
@@ -48,6 +45,4 @@ rorschachLow: two heads butting, neither one giving
 rorschachLeast: a sledgehammer driven blunt against an iron block
 ---
 
-Pickled Chickpeas are the Bean Zodiac's most clever — they have the answer by the time the question has finished arriving. Hand them a stuck form, a refused refund, a sentence that won't end, and they reach past the obvious route to the one that actually opens the door. The cleverness is quiet, not showy; they tend to hand back only the piece you asked for, the working folded away out of sight.
-
-The cost is that the working stays folded. Colleagues experience the answer as a verdict from nowhere and find it harder to argue with than to follow, which is the worst kind of right to be.
+Pickled Chickpeas are the Bean Zodiac's most clever. They find the route through the form, the queue, the family argument, and it works every time. The cleverness occasionally solves for something nobody agreed to. Doing a thing the long obvious way feels to them like waste.

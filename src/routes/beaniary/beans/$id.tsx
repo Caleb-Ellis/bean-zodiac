@@ -1,6 +1,8 @@
-import { createFileRoute, Link, notFound } from "@tanstack/react-router";
+import { createFileRoute, notFound } from "@tanstack/react-router";
 import ReactMarkdown from "react-markdown";
 import Bean from "../../../components/zodiac/Bean";
+import BackLink from "../../../components/zodiac/BackLink";
+import BeaniaryNav from "../../../components/zodiac/BeaniaryNav";
 import TraitBadge from "../../../components/zodiac/TraitBadge";
 import { allZodiacData } from "../../../lib/data";
 import type { BeanId } from "../../../lib/zodiac";
@@ -18,22 +20,24 @@ export const Route = createFileRoute("/beaniary/beans/$id")({
             <Bean bean={bean} />
           </div>
           <div className="p-6 md:p-8 flex flex-col gap-4 min-w-0">
-            <Link
-              to="/beaniary/beans"
-              className="text-sm text-zinc-500 hover:text-zinc-300 transition-colors"
-            >
-              ← All Beans
-            </Link>
-            <h1 className={`text-3xl font-bold bean-${id}`}>{bean.name}</h1>
+            <BackLink />
+            <div>
+              <h1 className={`text-3xl font-bold bean-${id}`}>{bean.name}</h1>
+              <p className="text-lg text-zinc-400 my-2">{bean.role}</p>
+              <p className="text-zinc-300 italic">“{bean.tagline}”</p>
+            </div>
             <ul className="flex flex-wrap gap-1.5 list-none p-0 m-0">
-              {bean.traits.map((trait) => (
+              {bean.positiveTraits.map((trait) => (
                 <TraitBadge key={trait} trait={trait} />
               ))}
+              {bean.negativeTraits.map((trait) => (
+                <TraitBadge key={trait} trait={trait} shadow />
+              ))}
             </ul>
-            <p className="text-zinc-300 italic">{bean.tagline}</p>
             <div className="markdown-content">
               <ReactMarkdown>{bean.content}</ReactMarkdown>
             </div>
+            <BeaniaryNav current="bean" />
           </div>
         </div>
       </article>

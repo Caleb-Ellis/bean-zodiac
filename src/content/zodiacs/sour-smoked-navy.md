@@ -1,39 +1,36 @@
 ---
+# COMPLETELY NEEDS UPDATING — excess: implacable -> stubborn
 slug: sour-smoked-navy
+lastUpdated: 
 bean: navy
 flavour: sour
 form: smoked
 trait: resolute
+excess: stubborn
 inverse: malleable
-excess: implacable
-friendlyBeans: [butter, black]
+quote: Not all those who wander are beans.
+creature: homing pigeon
+dish: Smoked navy beans cured with vinegar and salt pork.
+friendlyBeans: [cannellini, black]
 friendlyForm: boiled
-antiTriple: spicy-fried-pinto
-antiBeans: [chickpea, fava]
-antiForm: roasted
-dish: Senate bean soup - navy beans with smoked ham hock, onion, and a squeeze of lemon
-quote: Nothing is certain except bean and taxes.
-creature: great white
-seasonalFortune: A season for the hock set in cold water at dawn and the lemon cut at dusk. Smoke draws a single line through the day. What was started will be finished.
+antiTriple: spicy-fried-green
+antiBeans: [fava, pinto]
+antiForm: fermented
+seasonalFortune: "A season of salt pork and one direction — the cure holds its line through every month."
 fortuneMost: The date stands.
-fortuneMost2: A thing named for a day arrives on that day.
 fortuneHigh: It gets done on the day you said, whatever turned up after.
-fortuneHigh2: People rest near you because you do it when you said you would.
 fortuneMid: The usual street, but look up once.
-fortuneMid2: Walk the route you planned, and if a lit window pulls you, follow it the once.
 fortuneLow: The conditions changed and the old plan kept running.
-fortuneLow2: The weather's turning, and a better route opens mid-stride.
 fortuneLeast: They stopped flagging changes, because flagging never moved you.
-fortuneLeast2: A better plan appears, and the good day belongs to whoever takes it.
-facetMostTitle: Smoke Past the Lemon
+facetMostTitle: The Beanimmovable Object
 facetMost: The fence was promised for this weekend, and the weekend shows up with a far better offer attached. The fence gets painted; the offer doesn't get a hearing.
-facetHighTitle: The Unwatched Hock
+facetHighTitle: The Straight and Beanarrow
 facetHigh: Halfway through a task you'd committed to, news lands that might make the whole thing pointless. You finish it anyway, exactly as planned, before checking whether it still mattered.
-facetMidTitle: Smoke to the Rafters
+facetMidTitle: Stay the Beancourse
 facetMid: The same café, the same order, the same corner table every visit. A new place opens next door with a line out the door, and you walk past it to your usual.
-facetLowTitle: Lemon at the Last Minute
+facetLowTitle: Putty in Your Beans
 facetLow: You're set on cooking the meal you planned when a friend calls with a wilder idea for the night. You drop the recipe and follow them out the door.
-facetLeastTitle: The Hock Surrendered to Broth
+facetLeastTitle: Beanplay-Doh
 facetLeast: Mid-trip, a stranger describes a road far better than the one you mapped. You tear up the itinerary and take theirs without a second thought.
 question: Halfway through the long training run you mapped, the legs are screaming and a much shorter loop home peels off right here. You...
 answerMost: hold the full route you set and finish it however much it hurts
@@ -48,6 +45,4 @@ rorschachLow: a sandcastle slumping back into the beach
 rorschachLeast: a lump of dough sagging soft off the board
 ---
 
-Cured Navy Beans are the Bean Zodiac's most resolute — the plan made on Sunday is the plan being executed on Thursday, weather notwithstanding. They are the friend who said they'd be there at seven and is there at seven, the colleague whose Friday deliverable goes out on Friday because Friday was when it was going out. There is enormous quiet relief in being near them; nothing has to be re-decided every morning.
-
-The catch is that the plan keeps running after the conditions for it have changed. The room raised a hand, the meeting moved on, and they finished the sentence they had prepared anyway.
+Cured Navy Beans are the Bean Zodiac's most resolute. Fifteen years on the same road, the same commitment, and the direction has not needed renegotiating once. Sometimes the road stopped going anywhere a while back. Drifting somewhere new on a whim they have never done.

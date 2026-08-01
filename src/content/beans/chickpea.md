@@ -1,9 +1,10 @@
 ---
 slug: chickpea
 name: Chickpea
+role: The Connector
 tagline: The more the merrier, always.
-traits: [adaptable, sociable, warm, resourceful, uncommitted]
-toneOfVoice: Easy and inclusive; meets everyone where they are, agrees readily.
+positiveTraits: [adaptable, sociable, hospitable, mediating, unpretentious]
+negativeTraits: [uncommitted, ingratiating]
 imageFile: chickpea.webp
 ---
 

@@ -1,39 +1,36 @@
 ---
+# COMPLETELY NEEDS UPDATING — trait: assertive -> exacting, excess: domineering -> perfectionist, inverse: passive -> slapdash
 slug: bitter-fried-cannellini
+lastUpdated: 
 bean: cannellini
 flavour: bitter
 form: fried
-trait: assertive
-inverse: passive
-excess: domineering
-friendlyBeans: [edamame, kidney]
-friendlyForm: fermented
-antiTriple: umami-smoked-butter
-antiBeans: [mung, black]
-antiForm: fermented
-dish: Cannellini fritto with bitter lemon and flat-leaf parsley.
-quote: Here I stand. I can bean no other.
-creature: ram
-seasonalFortune: A season that rewards a crisped edge. The lemon cuts close to the rind, parsley laid down late, and what is said in the kitchen carries to the table without softening.
+trait: exacting
+excess: perfectionist
+inverse: slapdash
+quote: Good enough is the enemy of the bean.
+creature: weaverbird
+dish: Cannellini fried with capers and blackened lemon.
+friendlyBeans: [edamame, navy]
+friendlyForm: dried
+antiTriple: umami-fermented-adzuki
+antiBeans: [butter, black]
+antiForm: smoked
+seasonalFortune: "A season of blackened lemon and counted seconds — the pan forgives nothing; the failures burn."
 fortuneMost: Lead with the real thing.
-fortuneMost2: When the table is circling the same wrong maybe, your plain word cuts clean as lemon on the rind.
 fortuneHigh: A clear yes or no is yours to give, and it lands easy.
-fortuneHigh2: The apology pays best paid whole and first, no weather padded onto the front of it.
 fortuneMid: One clean line is a verdict; this one wants a reply.
-fortuneMid2: A strong opinion well stated is not a sentence handed down.
 fortuneLow: A fight picked tired and late carries the same point and twice the enemies.
-fortuneLow2: Let the quarrel cool untouched a while.
 fortuneLeast: Concede the small one on purpose.
-fortuneLeast2: Some answers ripen for not being settled on the spot.
-facetMostTitle: Lemon at the Hot Oil
+facetMostTitle: The Beaning
 facetMost: The waiter brings the wrong dish and hovers, hoping you'll just take it. You say no, this isn't what I ordered, kindly and without flinching, and wait for the right one.
-facetHighTitle: The Crust in an Instant
+facetHighTitle: Jiro Dreams of Beans
 facetHigh: A neighbour's hedge has crept a foot into your yard. You knock and name it straight — here's the line, here's where it's over — no long wind-up to soften the ask.
-facetMidTitle: Bitter Lemon, No Garnish
+facetMidTitle: The Great British Bean Off
 facetMid: Round and round goes a half-formed plan for the trip, no one landing it. Say your preference clearly, once, and then leave the door open for someone to push back.
-facetLowTitle: Oil, Just Below Smoke
+facetLowTitle: Beaniled It!
 facetLow: Long way round, and the cab driver knows you know. It's a small fare. Not worth a scene — you just pay it, watching the meter, saying nothing.
-facetLeastTitle: Parsley, No Pattern
+facetLeastTitle: Plan 9 from Outer Bean
 facetLeast: Everyone wants you to settle the argument and take a side. You won't — you talk around it, find what's right in both, and let the room stay undecided rather than draw the line.
 question: The plumber starts running the new pipe along the wall you'd asked him to keep clear. You...
 answerMost: stop him mid-cut and say it goes the other way
@@ -48,6 +45,4 @@ rorschachLow: a willow drooping over the water
 rorschachLeast: a melting snowman sliding off its base
 ---
 
-Scorched Cannellini Beans are the Bean Zodiac's most assertive. In a circle of murmured maybes, one of these Beans will name the thing plainly and not walk it back; the apology is paid in the first sentence, the answer is one clean line with no weather padded onto the front. There's a real ease in being near someone who simply says what they think.
-
-The clarity is so complete, though, that the room sometimes forgets it was allowed to disagree — the verdict lands sounding settled when it was only a strong opinion stated well, and the half-sentence that would have handed someone the door goes unsaid.
+Scorched Cannellini Beans are the Bean Zodiac's most exacting. They send it back because the margin is out by a millimetre, and the finished thing is genuinely better for it. The last five per cent can eat the week. Shipping something rough to see what happens is unthinkable.

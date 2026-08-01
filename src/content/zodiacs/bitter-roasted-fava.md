@@ -1,35 +1,36 @@
 ---
+# CHANGED SINCE THIS CONTENT WAS WRITTEN — trait: pioneering -> unabashed, excess: overreaching -> brazen, inverse: imitative -> sheepish
 slug: bitter-roasted-fava
-lastUpdated: 2026-06-24
+lastUpdated: 
 bean: fava
 flavour: bitter
 form: roasted
-trait: pioneering
-inverse: imitative
-excess: overreaching
-friendlyBeans: [chickpea, mung]
+trait: unabashed
+excess: brazen
+inverse: sheepish
+quote: I don't care what you think unless it's about my bean.
+creature: baboon
+dish: Whole fava pods thrown on the fire, peeled hot, dressed in bitter olive oil.
+friendlyBeans: [green, chickpea]
 friendlyForm: fried
-antiTriple: sour-smoked-cannellini
-antiBeans: [navy, black]
-antiForm: dried
-dish: Muhammara - roasted fava and bitter herbs.
-quote: Well-bean is that which is done for the first time.
-creature: arctic tern
-seasonalFortune: A season ground in the stone before the stone has a name. Bitter herb meets charred fava and the paste invents its own colour; whoever tastes it tastes the edge of somewhere unmapped.
+antiTriple: umami-dried-black
+antiBeans: [cannellini, navy]
+antiForm: boiled
+seasonalFortune: "A season of whole pods and open flame; nothing here is peeled in private."
 fortuneMost: Enter the void.
 fortuneHigh: Be first through the door — it opens only once.
 fortuneMid: Test the ice, then forge ahead.
 fortuneLow: The bread is still warm — you don't have to go so soon.
 fortuneLeast: A hand lifts the latch — you follow them in.
-facetMostTitle: No Recipe
+facetMostTitle: Beanshameless
 facetMost: A skill nobody around you has, a teacher you can't find, and no clear way in — you start teaching it to yourself that night anyway.
-facetHighTitle: First Into the Flame
+facetHighTitle: I Am What I Bean
 facetHigh: Nothing but pitch-black looking down into the old mansion's basement stairwell. You descend first, and make sure the steps hold.
-facetMidTitle: Walnuts Shifted
+facetMidTitle: The Full Beanty
 facetMid: There's a dish on the menu you've never heard of and can't even picture. You feel like you have to order it.
-facetLowTitle: The Herb Stays
+facetLowTitle: Shaun the Bean
 facetLow: You've just moved to a new city, and have a free morning. You go to a café that's not dissimilar to ones at home — just to settle in, you'll do some proper exploring later.
-facetLeastTitle: Pomegranate Already Split
+facetLeastTitle: Curb Your Beanthusiasm
 facetLeast: By the time you get involved with the group project, the plan's been set and your share of it marked. You're glad it fell to someone else to figure out.
 question: In the future, interstellar travel is fairly common. You're offered a place on any of several space missions, each one further out, and into deeper unknown than the last. You...
 answerMost: sign on for the one far beyond the map
@@ -44,6 +45,4 @@ rorschachLow: tide pools left where the sea drew back
 rorschachLeast: a snail curled, drawn back into its shell
 ---
 
-Wood-Fired Fava Beans are the Bean Zodiac's most pioneering — they venture into unmapped territory and trust the smoke to find its bearings. They begin the thing nobody asked for yet, walk first into the empty room, suggest the route before anyone's voted on it. Where they go, the path appears underfoot.
-
-They just don't always look behind them. They set the pace assuming the room agreed, and only glance back to find whoever they thought was following stopped two corners ago — the silence they took for assent was the sound of people quietly deciding not to come. The road they open is real. It's only worth something if someone can live on it.
+Wood-Fired Fava Beans are the Bean Zodiac's most unabashed. They ask the waiter to redo it, sing at the table, wear the coat, and none of it is done for effect. Occasionally the room did mind. Shame at having taken up space is a feeling they don't get.

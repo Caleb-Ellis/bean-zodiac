@@ -1,39 +1,36 @@
 ---
+# COMPLETELY NEEDS UPDATING — trait: self-absorbed -> stylish, excess: narcissistic -> affected, inverse: selfless -> dowdy
 slug: bitter-roasted-pinto
+lastUpdated: 
 bean: pinto
 flavour: bitter
 form: roasted
-trait: self-absorbed
-inverse: selfless
-excess: narcissistic
-friendlyBeans: [adzuki, chickpea]
-friendlyForm: fermented
+trait: stylish
+excess: affected
+inverse: dowdy
+quote: Fashions fade, bean is eternal.
+creature: bird of paradise
+dish: Pinto beans roasted in the coals with charred spring onion and lime.
+friendlyBeans: [chickpea, adzuki]
+friendlyForm: smoked
 antiTriple: sweet-boiled-navy
-antiBeans: [kidney, cannellini]
+antiBeans: [kidney, edamame]
 antiForm: dried
-dish: Frijoles Refritos - with roasted bitter chiles and lard.
-quote: I don't care what you think unless it's about my bean.
-creature: mirror carp
-seasonalFortune: Lard renders at its own pace, indifferent to the pan; the bitter chile darkens for no one's benefit but its own. A season spent perfecting a single reflection.
+seasonalFortune: "A season of charred spring onion and worn markings — the coals make a costume of the skin."
 fortuneMost: A day that's been about you since the fat hit the pan is yours to enjoy with no apology.
-fortuneMost2: You render at your own pace, indifferent to the pan, and the world is content to let you.
 fortuneHigh: Study your own markings as long as you like — then set the glass down and look up before the next meal.
-fortuneHigh2: The confidence others borrow just by standing near you is real and working.
 fortuneMid: A story about yourself is already half out of your mouth. Catch it by the second sentence and ask the other one something real instead.
-fortuneMid2: Offer the parallel from your own week, then hand the conversation back.
 fortuneLow: A friend whose name keeps sliding past you has been the audience for months.
-fortuneLow2: Put someone else's name on the finished thing without flinching.
 fortuneLeast: A stranger is coming whose day deserves more of your attention than your own does.
-fortuneLeast2: Ask the follow-up, and don't once turn it back to yourself.
-facetMostTitle: The Bean Pressed Flat
+facetMostTitle: Beanlander
 facetMost: A friend's holiday photos come up on the screen and within two slides you're telling the better version of the same trip you took years back.
-facetHighTitle: Skillet Hot, Fat Fragrant
+facetHighTitle: Beanogue
 facetHigh: Passing a shop window you catch your reflection, and the whole walk slows while you turn, half a step at a time, to study the line of yourself.
-facetMidTitle: Chile Blooming in Fat
+facetMidTitle: The Grand Beanapest Hotel
 facetMid: When the group photo goes round, your eye lands on yourself first — you check how you came out, then catch it and ask who took the shot.
-facetLowTitle: The Chile, the Bean Beneath
+facetLowTitle: Ugly Beanty
 facetLow: Turn the whole room toward the quiet one who keeps getting talked over, and ask the question that makes them the centre of it.
-facetLeastTitle: Chiles Handed Across
+facetLeastTitle: What Not to Bean
 facetLeast: A friend's in a bad way and needs the night to be about them. You give it whole and leave your own week unmentioned at the door.
 question: A friend's long post about their divorce lands in your feed, raw and just shared. You start typing a reply. You...
 answerMost: make it about the time your own marriage nearly went the same way
@@ -48,6 +45,4 @@ rorschachLow: two heads turned outward, away from each other
 rorschachLeast: a figure leaning toward another, hand extended
 ---
 
-Wood-Fired Pinto Beans are the Bean Zodiac's most self-absorbed — and, for a while, the most magnetic for it. They fill a room with a warmth that's hard to look away from; they take real care with their own markings, reread their own messages like a text worth studying, and arrange the best chair to face the mirror so they can sit in both at once. There's a confidence here that other beans borrow just by standing near it.
-
-The trouble is the conversation that always finds its way back to the shape of them. Ask after their day and you get a story about yours only by accident, and the friend whose name keeps sliding past eventually notices they've been the audience, never the subject — and the warmest exit a room can offer is to quietly stop showing up.
+Wood-Fired Pinto Beans are the Bean Zodiac's most stylish. They put a jacket with a pair of boots nobody would have paired and it works so obviously it looks accidental. Sometimes the outfit does the talking. Being underdressed anywhere reads to them as being unprepared.

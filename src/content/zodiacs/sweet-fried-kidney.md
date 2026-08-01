@@ -1,39 +1,36 @@
 ---
+# COMPLETELY NEEDS UPDATING — trait: protective -> doting, excess: suffocating -> spoiling, inverse: endangering -> distant
 slug: sweet-fried-kidney
+lastUpdated: 
 bean: kidney
 flavour: sweet
 form: fried
-trait: protective
-inverse: endangering
-excess: suffocating
-friendlyBeans: [mung, green]
-friendlyForm: roasted
-antiTriple: sour-dried-cannellini
-antiBeans: [black, edamame]
-antiForm: fermented
-dish: Hotteok with red bean — Korean street pancakes fried until blistered, filled with sweetened kidney bean paste and brown sugar.
+trait: doting
+excess: spoiling
+inverse: distant
 quote: We must protect the beans at all cost!
-creature: rottweiler
-seasonalFortune: A season for blistered surfaces and sweet interiors; what the pan darkens, it also seals, and the soft hearts inside go unbothered by the fire.
+creature: kangaroo
+dish: Kidney beans fried in caramel with toasted coconut.
+friendlyBeans: [mung, chickpea]
+friendlyForm: boiled
+antiTriple: sour-dried-cannellini
+antiBeans: [edamame, black]
+antiForm: smoked
+seasonalFortune: "A season of caramel and toasted coconut — the pan gives more than asked; it overfeeds."
 fortuneMost: Offer the lift before they ask, time already picked.
-fortuneMost2: What the pan darkens it also seals — and that's you this week, taking the blistering so the soft heart behind you goes unbothered by the fire.
 fortuneHigh: Make the call they've been dreading, on their behalf.
-fortuneHigh2: Step the half-pace forward when someone crowds the one smaller than you.
 fortuneMid: Cook double, leave half on a doorstep, one knock, gone.
-fortuneMid2: The spare key lives where your hand finds it without looking.
 fortuneLow: They said they've got it.
-fortuneLow2: Ask what they want before you offer anything.
 fortuneLeast: Stop fixing it.
-fortuneLeast2: When they insist, hand the heavy bag back without comment.
-facetMostTitle: Molten Sugar, Crust Around It
+facetMostTitle: Spoiled Beanrotten
 facetMost: Jacket off and round the kid before you've even felt the rain — a storm's cracked open on the trail, there's no shelter for a mile, and you're not about to let them take the worst of it.
-facetHighTitle: Edges Crisp First
+facetHighTitle: The Beanapple of My Eye
 facetHigh: A dog comes tearing off-leash across the park toward a small child. You're already moving, body between them, long before you've worked out whether it means any harm.
-facetMidTitle: The Seam Pressed Shut
+facetMidTitle: You Are My Beansunshine
 facetMid: Walking a friend to their car after dark, you fall into step on the traffic side without a word and wait at the curb until the engine turns over.
-facetLowTitle: Filling Left Uncovered
+facetLowTitle: So Far Abean
 facetLow: A friend's venting about a rough stretch and your fixes are right at your lips. You hold them, and just ask what they actually want from you before saying a thing.
-facetLeastTitle: Sugar on the Bare Griddle
+facetLeastTitle: A Beancool Reception
 facetLeast: Someone you'd normally cover for waves you off, says they've got this one. You take your hand off it, swallow the worry, and let them carry it themselves.
 question: Your kid wants to walk to school alone for the first time, the route crossing one busy road. You...
 answerMost: trail a block behind where they can't see you
@@ -48,6 +45,4 @@ rorschachLow: a moth at rest, antennae loose and drooping
 rorschachLeast: an empty cocoon split open at the top
 ---
 
-Caramelised Kidney Beans are the Bean Zodiac's most protective — the ones whose hand is already on your back when you step into the cold. They cook the double batch, drive the late lift, screen the message before forwarding it on. The care is warm, never hovering; you only notice afterwards how much friction they absorbed on your behalf.
-
-Sometimes the person they're sheltering didn't need the umbrella and is quietly trying to figure out whether they can hold one of their own. The Caramelised Kidney is still holding it for them, sweet and certain, missing the smaller ask underneath.
+Caramelised Kidney Beans are the Bean Zodiac's most doting. The photographs come out unprompted, and the person in them gets fed, defended and driven anywhere. Sometimes the doting leaves them nothing to do for themselves. Being cool with somebody they love, never.

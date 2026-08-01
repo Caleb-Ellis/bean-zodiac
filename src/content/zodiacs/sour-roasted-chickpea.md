@@ -1,39 +1,36 @@
 ---
+# COMPLETELY NEEDS UPDATING — excess: overcredulous -> uncritical, inverse: narrow-minded -> bigoted
 slug: sour-roasted-chickpea
+lastUpdated: 
 bean: chickpea
 flavour: sour
 form: roasted
 trait: open-minded
-inverse: narrow-minded
-excess: overcredulous
-friendlyBeans: [mung, fava]
-friendlyForm: fried
-antiTriple: bitter-dried-navy
-antiBeans: [black, cannellini]
-antiForm: smoked
-dish: Fatteh - toasted flatbread layered with roasted chickpeas, yogurt, and pomegranate molasses
+excess: uncritical
+inverse: bigoted
 quote: The bean mind is like a parachute — it only works when open.
 creature: bottlenose
-seasonalFortune: A season when the flatbread softens under what is poured over it. Old certainties go pleasantly soggy; the household acquires unfamiliar guests, unfamiliar molasses.
+dish: Roasted chickpeas with chimichurri and sherry vinegar.
+friendlyBeans: [adzuki, butter]
+friendlyForm: fried
+antiTriple: bitter-dried-edamame
+antiBeans: [cannellini, navy]
+antiForm: fermented
+seasonalFortune: "A season of sherry vinegar and wide doors — the fire takes whatever the market offered."
 fortuneMost: The objection you meant to dismiss turns out to be the stronger argument — that's the luck of your turn.
-fortuneMost2: The loudest dissenter's certainty is your raw material, the way pomegranate molasses pours flavour over plain bread.
 fortuneHigh: Two sharp notes in a row aren't bad luck.
-fortuneHigh2: A good objection lands against the heart of something you made.
 fortuneMid: Pin the harshest critique where you'll keep meeting it, and answer once it's stopped stinging — not before.
-fortuneMid2: Hold the case against your position open a while longer.
 fortuneLow: You've worked the answer out well; trust it before you ask a fifth person.
-fortuneLow2: No room needs remaking to be welcoming.
 fortuneLeast: The next argument isn't better — only newer.
-fortuneLeast2: When every suggestion soaks into you and shifts you, plant your feet.
-facetMostTitle: Pomegranate Thinned by Yogurt
+facetMostTitle: Wide Open Beans
 facetMost: A street preacher is shouting down everything you hold true. Instead of walking past, you stop and ask him to make his strongest point first.
-facetHighTitle: Splitting Along a New Seam
+facetHighTitle: The Open Beanciety
 facetHigh: You've planned the whole trip when someone pokes a real hole in the route. Rather than patch the edges, you let it reopen the whole map.
-facetMidTitle: Layers Left Open
+facetMidTitle: Hear Me Out, Bean
 facetMid: Halfway up the trail, a hiker coming down warns the path ahead is wrong. You don't turn back yet — you stand a moment and weigh it before choosing.
-facetLowTitle: Bread Refusing the Soak
+facetLowTitle: Beanarchie Bunker
 facetLow: The answer's clear and four people have already confirmed it. When a fifth offers to weigh in, you thank them and let the question stay closed.
-facetLeastTitle: Roasted Past Yielding
+facetLeastTitle: All in the Beanfamily
 facetLeast: A newer, shinier argument turns up to unsettle the position you walked to on purpose. You hold your feet right where they are and let it slide past.
 question: After the lecture, a sharp student makes the case for a view you've spent years sure was backwards, and they clearly mean it. You...
 answerMost: ask them to walk you all the way through how they got there
@@ -48,6 +45,4 @@ rorschachLow: a figure pulling a wide hat down over itself
 rorschachLeast: folded wings clenched into a tight knot
 ---
 
-Chimichurri Chickpeas are the Bean Zodiac's most open-minded — at dinner, they pull the loudest dissenter closer and ask them to keep going. The objection that would close another person's face opens theirs. They finish a draft, hear one good argument against the spine of it, and rewrite the spine before bed.
-
-The cost is conviction. Halfway through a third revision they realise they no longer remember what they thought on Monday — only what the room thought on Wednesday — and have to reconstruct the original position from notes.
+Chimichurri Chickpeas are the Bean Zodiac's most open-minded. They'll try the food, the music, the argument they were raised to dislike, and stay long enough to actually judge. Sometimes nothing gets judged at all. Ruling something out unexamined, on principle, they can't bring themselves to do.

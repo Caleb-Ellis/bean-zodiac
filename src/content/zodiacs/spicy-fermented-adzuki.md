@@ -1,39 +1,36 @@
 ---
+# COMPLETELY NEEDS UPDATING — trait: provocative -> rhapsodic, excess: inflammatory -> delirious, inverse: innocuous -> matter-of-fact
 slug: spicy-fermented-adzuki
+lastUpdated: 
 bean: adzuki
 flavour: spicy
 form: fermented
-trait: provocative
-inverse: innocuous
-excess: inflammatory
-friendlyBeans: [pinto, chickpea]
+trait: rhapsodic
+excess: delirious
+inverse: matter-of-fact
+quote: Sing in me, Muse, and through me tell the bean.
+creature: song thrush
+dish: Adzuki fermented in kimchi brine with gochugaru.
+friendlyBeans: [pinto, fava]
 friendlyForm: roasted
-antiTriple: sour-dried-navy
-antiBeans: [edamame, cannellini]
+antiTriple: bitter-dried-cannellini
+antiBeans: [navy, edamame]
 antiForm: boiled
-dish: Adzuki doenjang jjigae - Korean fermented soybean paste stew with gochugaru and tofu.
-quote: Every act of creation is first an act of bean destruction.
-creature: shrike thrush
-seasonalFortune: A crock that has waited all winter begins to push against its weight. The season belongs to those whose long-kept things are ready to enter rooms.
+seasonalFortune: "A season of kimchi brine and rising song — the crock celebrates something only it can hear."
 fortuneMost: The crooked thing you've been fermenting in the dark is ready.
-fortuneMost2: Drop the half-sentence and walk to the window.
 fortuneHigh: The gentler version flinches; the true one stings going down.
-fortuneHigh2: A jar sealed too long is about to hiss. Stand close.
 fortuneMid: Bring the sour on purpose. The dish needs it, and so does the company.
-fortuneMid2: An old quarrel circles back like weather off the hills. You're the gust that moves the stale air.
 fortuneLow: Some coals finish the stew untended. Step back.
-fortuneLow2: Not every quiet wants disturbing. Leaving the lid on costs you the fun.
 fortuneLeast: Take the heat out and hand back something milder.
-fortuneLeast2: Be like tofu in broth, soft against your own grain.
-facetMostTitle: Still Bubbling at the Door
+facetMostTitle: Beandelirious
 facetMost: Everyone at the long table is nodding the same nod, agreeable and half-asleep. Say the thing that stops the nodding.
-facetHighTitle: Doenjang Cracked Open
+facetHighTitle: Bohemian Beanrhapsody
 facetHigh: One question would pull apart the truce two friends reached just to be done with it — and you've already half-asked it before deciding whether to.
-facetMidTitle: Gochugaru in Hot Oil
+facetMidTitle: Beanrapture
 facetMid: There's an obvious flaw in the plan and a polite silence around it. Name it out loud while the silence still holds.
-facetLowTitle: The Paste on Its Own Shelf
+facetLowTitle: The Beanplain Truth
 facetLow: A stranger on the bus is wrong about something out loud, and a few people glance your way. You let them be wrong and watch the road.
-facetLeastTitle: Tofu Without Seasoning
+facetLeastTitle: Beansame Old, Same Old
 facetLeast: Both sides bristling, a heated argument is handed to you to settle. Smooth it into the version where everyone keeps their dignity, even the one who was wrong.
 question: Last call at a hotel bar, just you and someone whose ring you both noticed an hour ago. The air's gone quiet and obvious. You...
 answerMost: name what's been hanging there and ask if they want to ignore it or not
@@ -48,6 +45,4 @@ rorschachLow: two cats curled next to one another
 rorschachLeast: a butterfly resting gently
 ---
 
-Kimchi Adzuki Beans are the Bean Zodiac's most provocative — the ones who slide a strange sentence into a settled room and watch the furniture move. They've been turning it over in the dark for days; by the time it lands at dinner it sounds offhand, even mild, and only later does anyone realise the conversation took a corner.
-
-What they don't always do is stay for the corner. Once the room is genuinely talking, they've often drifted off to think about the next thing, leaving the people who took the bait to work out what was actually being said.
+Kimchi Adzuki Beans are the Bean Zodiac's most rhapsodic. Ask about the album and you get eleven minutes, standing up, with the good part played twice. Occasionally the room is left behind entirely. Reporting that something was nice and leaving it there they cannot do.

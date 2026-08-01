@@ -91,18 +91,6 @@ export default function BeanstalkPage({ data }: Props) {
             <div className="grid grid-cols-1 sm:grid-cols-3 gap-16 w-full">
               <div className="flex flex-col items-center">
                 <p className="text-sm text-zinc-400 uppercase tracking-widest">
-                  Bean
-                </p>
-                <BeanRadar
-                  data={data}
-                  claimedId={beanId}
-                  values={scores.beanValues}
-                  highlightIndex={scores.beanHighlight}
-                  showLinks
-                />
-              </div>
-              <div className="flex flex-col items-center">
-                <p className="text-sm text-zinc-400 uppercase tracking-widest">
                   Flavour
                 </p>
                 <FlavourRadar
@@ -122,6 +110,18 @@ export default function BeanstalkPage({ data }: Props) {
                   claimedId={formId}
                   values={scores.formValues}
                   highlightIndex={scores.formHighlight}
+                  showLinks
+                />
+              </div>
+              <div className="flex flex-col items-center">
+                <p className="text-sm text-zinc-400 uppercase tracking-widest">
+                  Bean
+                </p>
+                <BeanRadar
+                  data={data}
+                  claimedId={beanId}
+                  values={scores.beanValues}
+                  highlightIndex={scores.beanHighlight}
                   showLinks
                 />
               </div>

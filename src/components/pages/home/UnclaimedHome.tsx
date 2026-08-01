@@ -11,7 +11,6 @@ import Bean from "../../zodiac/Bean";
 import BeanBadge from "../../zodiac/BeanBadge";
 import FlavourBadge from "../../zodiac/FlavourBadge";
 import FormBadge from "../../zodiac/FormBadge";
-import ZodiacDish from "../../zodiac/ZodiacDish";
 import ZodiacName from "../../zodiac/ZodiacName";
 
 interface Props {
@@ -79,13 +78,14 @@ export default function UnclaimedHome({ data, date, showQuote }: Props) {
             <p className="italic mb-4 sm:mb-6">"{zodiac.quote}"</p>
           )}
           {zodiac && (
-            <ZodiacDish
-              dish={zodiac.dish}
-              flavourId={meta.flavourId}
-              formId={meta.formId}
-              beanId={meta.beanId}
-              className="max-w-lg w-full mb-2 sm:mb-4"
-            />
+            <section className="relative text-center bg-zinc-900/80 border border-zinc-700/60 rounded-xl px-6 py-5 backdrop-blur-sm max-w-lg w-full">
+              <p className="text-xs uppercase tracking-widest text-zinc-200 mb-3">
+                What to Expect
+              </p>
+              <p className="italic text-zinc-200 text-lg">
+                {zodiac.seasonalFortune}
+              </p>
+            </section>
           )}
         </section>
       </section>

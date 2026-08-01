@@ -1,39 +1,36 @@
 ---
+# COMPLETELY NEEDS UPDATING — excess: pitying -> engrossed, inverse: cold-hearted -> unsympathetic
 slug: sweet-fermented-kidney
+lastUpdated: 
 bean: kidney
 flavour: sweet
 form: fermented
 trait: sympathetic
-inverse: cold-hearted
-excess: pitying
-friendlyBeans: [green, mung]
-friendlyForm: roasted
-antiTriple: sour-dried-edamame
-antiBeans: [navy, cannellini]
-antiForm: roasted
-dish: Sikhye with red beans — Korean sweet fermented rice punch with kidney beans, served chilled with pine nuts floating on top.
+excess: engrossed
+inverse: unsympathetic
 quote: Could a greater bean or miracle take place than for us to look through each other's bean for an instant?
 creature: sea cow
-seasonalFortune: A season when grain gives itself up to sweetness; the long ferment turns hard winters into something a stranger can drink cold from a shared bowl.
+dish: Kidney beans fermented with palm sugar and rice koji.
+friendlyBeans: [mung, green]
+friendlyForm: roasted
+antiTriple: sour-smoked-edamame
+antiBeans: [cannellini, black]
+antiForm: dried
+seasonalFortune: "A season of palm sugar and rice koji — the ferment sits with whatever is wrong."
 fortuneMost: Soup left at the door, no buzzer, no note.
-fortuneMost2: You always know who needs which warmth — the one whose mother is sick, the one who flinches at a ringing phone.
 fortuneHigh: Set the cold glass down before you ask what happened.
-fortuneHigh2: Someone is about to feel less alone because you turned up for no reason at all.
 fortuneMid: Their story has been waiting under their tongue.
-fortuneMid2: When they trail off mid-sentence, hold the gap open.
 fortuneLow: Someone's hard week can reach you as a headline and stop there.
-fortuneLow2: You've slotted their trouble into a shape you already know.
 fortuneLeast: Plans stay plans, weather stays weather.
-fortuneLeast2: Hold your own footing when someone arrives shaken.
-facetMostTitle: Rice Spent for Sweetness
+facetMostTitle: Caught Up in Bean
 facetMost: A coworker you barely know mentions a rough night, then heads off. By the time you've washed up that evening, you're packing a portion of what's on the stove to leave on their desk in the morning.
-facetHighTitle: Ladle, No Questions
+facetHighTitle: Lean on Bean
 facetHigh: Someone turns up at your door wet-eyed and stalling. You pull a chair out and put something warm in their hands before a single question, trusting the cup to start the conversation for you.
-facetMidTitle: Pine Nuts on the Bowl
+facetMidTitle: I'll Be There for Bean
 facetMid: A new acquaintance starts into a grief that rhymes hard with one of your own. The match is loud in your chest — and you keep it there, leaving the floor entirely to them.
-facetLowTitle: The Cold Cup
+facetLowTitle: Tough Beanluck
 facetLow: Word reaches you that a distant friend's hit a hard stretch. You take it in, send a kind word, and your own quiet evening stays quiet.
-facetLeastTitle: Straight From the Fridge
+facetLeastTitle: Not My Beanproblem
 facetLeast: A voice on the line goes thin and your hands itch to cancel everything and drive over. Keep your footing, keep your plans — not every heavy thing tonight is yours to carry.
 question: At the school gates a parent you half-know is quietly coming apart, hands shaking, kids streaming out around you both. You...
 answerMost: turn toward them and ask softly if they want company
@@ -48,6 +45,4 @@ rorschachLow: a sealed urn shut tight beneath its lid
 rorschachLeast: a cold kiln, its door bricked over and dark
 ---
 
-Funky Kidney Beans are the Bean Zodiac's most sympathetic — the ones who have been through their own hard winter and come out of it carrying something useful, not bitter. When a friend turns up shaken, they put the kettle on before asking what happened, and the warmth of the gesture does half the work. Years of their own grief have been quietly composted into a steadiness other people can lean against.
-
-The shadow is the quiet certainty that they already know. Halfway through a friend's story they recognize the shape of it, slot it into their own past, and offer the wisdom that worked for them. Sometimes it fits. Sometimes the friend nods politely and leaves still carrying the thing — because what looked identical was, underneath, a different weight entirely.
+Funky Kidney Beans are the Bean Zodiac's most sympathetic. They take your side of the story completely, for the whole evening, and by nine you feel human again. Sometimes they take it so completely it becomes theirs. Staying uninvolved is not a thing they'll do.

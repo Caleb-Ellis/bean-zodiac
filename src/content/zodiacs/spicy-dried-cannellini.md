@@ -1,39 +1,36 @@
 ---
+# COMPLETELY NEEDS UPDATING — inverse: fallible -> erratic
 slug: spicy-dried-cannellini
+lastUpdated: 
 bean: cannellini
 flavour: spicy
 form: dried
 trait: unerring
-inverse: fallible
 excess: infallible
-friendlyBeans: [edamame, pinto]
-friendlyForm: boiled
-antiTriple: sweet-roasted-fava
-antiBeans: [kidney, green]
-antiForm: fermented
-dish: Pasta e fagioli - dried cannellini and pasta soup with peperoncino.
+inverse: erratic
 quote: I came, I saw, I beaned.
 creature: gyrfalcon
-seasonalFortune: Dried beans hold their shape through long heat; peperoncino leaves a mark that outlasts the bowl. So with this one — measured, and lingering.
+dish: Dried cannellini with peperoncino and dried garlic.
+friendlyBeans: [edamame, black]
+friendlyForm: smoked
+antiTriple: umami-roasted-adzuki
+antiBeans: [chickpea, kidney]
+antiForm: fried
+seasonalFortune: "A season of dried garlic and exact aim: the peperoncino lands where it was meant to."
 fortuneMost: You'll see the real problem before anyone's finished explaining it.
-fortuneMost2: A bean that holds its shape through long heat, a pepper that outlasts the bowl.
 fortuneHigh: Name the two that matter and let the rest stand.
-fortuneHigh2: When you owe the apology, give the exact one — the thing itself, not the weather around it.
 fortuneMid: Go over it once more before it leaves your hands.
-fortuneMid2: Not everything needs the full count.
 fortuneLow: Ship it rough.
-fortuneLow2: An offhand line from you lands like a verdict and outlasts the day.
 fortuneLeast: Three little asks don't each need an exact answer back.
-fortuneLeast2: Let the shelves stack where they fall.
-facetMostTitle: Every Seed Counted
+facetMostTitle: Mr. Beanperfect
 facetMost: A friend reads aloud a line from the contract they're about to sign. One clause is doing quiet damage, and you stop them before they reach the end of the sentence.
-facetHighTitle: The Overnight Soak
+facetHighTitle: Beanbullseye
 facetHigh: Round it up and call it even, the table decides, splitting the bill. But you've already worked out who actually owes what, and the real numbers are on your tongue.
-facetMidTitle: One Steady Note
+facetMidTitle: Beanannie Get Your Gun
 facetMid: The dish you've made a hundred times comes out subtly wrong tonight. One taste — it's the stock, not the salt. You reach to fix exactly that and nothing else.
-facetLowTitle: Where the Spoon Rested
+facetLowTitle: Wild Beanpitch
 facetLow: How do you keep track of it all, someone asks. There's no system to point to; you know where things are by the feel of the place, and you'd leave it that way.
-facetLeastTitle: Scattered Heat
+facetLeastTitle: Beanmisfire
 facetLeast: Three small favours, all at once, from someone you just met. None gets an exact answer — you wave them through and don't keep a tally.
 question: Building the bookshelf into the alcove, the printed cut-list and your own measurements no longer agree, and the timber's already on the saw. You...
 answerMost: measure the alcove three ways yourself and trust your own numbers over the sheet
@@ -48,6 +45,4 @@ rorschachLow: two heads turned away, droplets scattering between
 rorschachLeast: a cloth and a big mess
 ---
 
-Sichuan Cannellini Beans are the Bean Zodiac's most unerring — the friend whose one-line note on your draft is the note you should have written yourself. They don't pad and they don't soften. When they say the third paragraph isn't earning its place, the third paragraph isn't earning its place, and you know it before you've finished reading their message.
-
-The cost is that an offhand comment from them lands like a verdict, and they sometimes forget this. A passing "that jacket's a choice" said on a Tuesday is still being thought about on Friday.
+Sichuan Cannellini Beans are the Bean Zodiac's most unerring. They pick the right supplier, the right week, the right wording, and afterwards it all looks obvious. Being right that often makes correction hard to hear. Guessing and adjusting as they go isn't how they operate.

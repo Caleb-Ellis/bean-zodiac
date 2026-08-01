@@ -1,39 +1,36 @@
 ---
+# COMPLETELY NEEDS UPDATING — trait: intense -> vigilant, excess: overpowering -> paranoid, inverse: lackadaisical -> oblivious
 slug: bitter-fermented-kidney
+lastUpdated: 
 bean: kidney
 flavour: bitter
 form: fermented
-trait: intense
-inverse: lackadaisical
-excess: overpowering
-friendlyBeans: [green, chickpea]
-friendlyForm: fried
-antiTriple: umami-boiled-butter
-antiBeans: [navy, cannellini]
-antiForm: dried
-dish: Doenjang Jjigae - red beans with bitter greens.
-quote: Beware the bean who is quiet in a crisis.
-creature: peregrine
-seasonalFortune: The crock has been dark a long season. Bitter greens darken in the paste; what was sealed begins to press at the lid, asking to be tasted.
+trait: vigilant
+excess: paranoid
+inverse: oblivious
+quote: Eternal bean is the price of liberty.
+creature: sentinel hawk
+dish: Kidney beans fermented into dark bean sauce with cacao and star anise.
+friendlyBeans: [mung, butter]
+friendlyForm: boiled
+antiTriple: sour-roasted-edamame
+antiBeans: [chickpea, adzuki]
+antiForm: smoked
+seasonalFortune: "A season of sealed crocks and watched lids: the ferment guards against a spoilage that may not come."
 fortuneMost: It's cured.
-fortuneMost2: The thing you've been darkening alone is good and done.
 fortuneHigh: You've been offering the polished version.
-fortuneHigh2: No performance needed.
 fortuneMid: Skip the explanation.
-fortuneMid2: Hold the day's weight at the jaw if you must — but know you're holding it.
 fortuneLow: Step back from the door.
-fortuneLow2: Not everything needs to deepen in the dark.
 fortuneLeast: A feeling can move through you the way weather moves through an open window — felt, then gone, nothing stained.
-fortuneLeast2: The mood you'd carry in isn't anyone else's to inherit.
-facetMostTitle: Uncrocked at Last
+facetMostTitle: Beanoid Android
 facetMost: No stakes, just a casual game of cards at the family table — and every hand you play it like the title's on the line, dead set on taking it.
-facetHighTitle: The Stew That Took Longest
+facetHighTitle: Beanwatch
 facetHigh: Someone asks what you think of the film, expecting a word or two. They get the full reckoning — what it was really about, why it mattered, no half-measures.
-facetMidTitle: Salt at the Jaw
+facetMidTitle: Home Beanlone
 facetMid: A friend mentions, in passing, a thing they're quietly going through. You lock onto it — leaning in, all of you there, not letting it slide by as small talk.
-facetLowTitle: Stir Once, Serve
+facetLowTitle: Beanless
 facetLow: A plan you'd half set your heart on falls through at the last minute. You shrug it off and pivot to something else, the grip of it already gone.
-facetLeastTitle: Greens Through the Broth
+facetLeastTitle: The Emperor's New Beans
 facetLeast: Sides are being picked over some flare-up at dinner, and you stay loose and unbothered through all of it, happy to let it wash past — a little surprised, even, that so little sticks.
 question: Out under a desert sky thick with stars, the friend lying beside you asks, meaning it, what you're actually running toward. You...
 answerMost: tell them the thing you've never said aloud, all of it
@@ -48,6 +45,4 @@ rorschachLow: a beanbag slumped soft in the corner
 rorschachLeast: a puff of dandelion seed about to scatter
 ---
 
-Cultured Kidney Beans are the Bean Zodiac's most intense — they walk into a room quietly and it reorients toward them anyway, the way a table leans toward the dish that took longest to make. They carry the day's weight at the jaw, held, not set down, and when they finally hand someone the thing they've been darkening alone, it arrives whole and undiluted. There's a gravity to them that nothing performed could fake.
-
-The danger is sealing the crock so tight nothing gets out at all. The pressure cures, then keeps curing, and by the time any of it surfaces the moment that needed it has long since cooled — felt, eventually, by no one in time.
+Cultured Kidney Beans are the Bean Zodiac's most vigilant. They noticed the car parked twice on the same street and the number that didn't match the invoice. Sometimes the pattern is only a pattern to them. Missing a thing entirely is a comfort they never get.

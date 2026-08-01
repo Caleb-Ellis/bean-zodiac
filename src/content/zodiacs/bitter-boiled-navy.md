@@ -1,39 +1,36 @@
 ---
+# COMPLETELY NEEDS UPDATING — trait: dogmatic -> upright, excess: doctrinaire -> sanctimonious, inverse: tentative -> crooked
 slug: bitter-boiled-navy
+lastUpdated: 
 bean: navy
 flavour: bitter
 form: boiled
-trait: dogmatic
-inverse: tentative
-excess: doctrinaire
-friendlyBeans: [butter, adzuki]
+trait: upright
+excess: sanctimonious
+inverse: crooked
+quote: "This above all: to thine own bean be true."
+creature: emperor penguin
+dish: Navy bean soup steeped with bay, wormwood, and salt pork.
+friendlyBeans: [cannellini, edamame]
 friendlyForm: dried
-antiTriple: spicy-smoked-chickpea
-antiBeans: [kidney, pinto]
-antiForm: fermented
-dish: Navy bean and escarole soup.
-quote: A bean convinced against his will is of the same opinion still.
-creature: donkey
-seasonalFortune: Small white beans, sorted once, simmered the way they were last winter and the winter before. The escarole bitters into the broth on schedule.
+antiTriple: spicy-fermented-pinto
+antiBeans: [chickpea, fava]
+antiForm: smoked
+seasonalFortune: "A season of plain bay and straight measures. The pot does what was agreed, at the hour agreed."
 fortuneMost: Hold the line everyone else is leaning against.
-fortuneMost2: The question you won't entertain twice is coming around again, and you'll answer it the same.
 fortuneHigh: State the principle once, plainly, and stand there.
-fortuneHigh2: Argue the case until you've been clearly heard, then vote your way.
 fortuneMid: Test the rule against the case before you cite it.
-fortuneMid2: Look the clause over again before you commit, even one you wrote yourself.
 fortuneLow: Grant the exception openly.
-fortuneLow2: Register the dissent, then go along.
 fortuneLeast: Walk in with no agenda and let the system sit in the car.
-fortuneLeast2: A better argument is on its way.
-facetMostTitle: The Eleventh Minute
+facetMostTitle: Elmer Beantry
 facetMost: Past midnight the festival's still roaring and the whole street is begging you to stay. Home at your usual hour all the same, lantern swinging, exactly as you've done for years.
-facetHighTitle: The Same-Salted Broth
+facetHighTitle: A Bean for All Seasons
 facetHigh: Round the campfire the argument turns and the crowd swings against you. Say the principle once, plainly, and plant your feet on it while they wander off the ground you're keeping.
-facetMidTitle: The Lid Tilted Exactly
+facetMidTitle: The Untouchabeans
 facetMid: One of your own rules is about to settle a real dispute right in front of you. First you hold the case up against it — and where the case won't fit unless you bend it, you start to suspect the rule is what wants trimming.
-facetLowTitle: Escarole in Whatever's Warm
+facetLowTitle: Goodbeanfellas
 facetLow: You're halfway through defending a position when a sharper thought arrives and quietly demolishes it. Down goes your own line, the new one finished aloud instead.
-facetLeastTitle: Whatever the Cupboard Offered
+facetLeastTitle: Ocean's Beanleven
 facetLeast: Up the table at the long supper, three guests argue three sides of one thing. You nod along to each in turn, won over by whoever just spoke, moored to none of them.
 question: You've always tied your boat the same knot. An old hand on the next jetty watches, then tells you flatly you've had it wrong for years. You...
 answerMost: tie it your way again and tell him the knot has held this long
@@ -48,6 +45,4 @@ rorschachLow: a lump of clay starting to slump out of shape
 rorschachLeast: a cloud reshaping, one piece torn off and drifting
 ---
 
-Infused Navy Beans are the Bean Zodiac's most dogmatic — the one who runs their life on tested principle and won't be talked out of it by the mood of the room. They've done the thinking, they hold the line, and there's real relief in dealing with someone whose yes means yes; you always know where they stand, and they stand there whether or not it's convenient. People rely on that fixedness more than they admit.
-
-The principles do, every so often, outlive the reasons that earned them — and "we've always done it at seven" is the kind of thing they can find themselves defending with a straight face.
+Infused Navy Beans are the Bean Zodiac's most upright. The change is returned, the extra hour comes off the timesheet, unannounced. Announced, a tone creeps in that makes honesty feel like a lesson. Bending a rule to spare somebody never occurs to them as available.

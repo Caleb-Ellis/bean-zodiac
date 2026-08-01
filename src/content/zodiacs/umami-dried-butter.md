@@ -1,39 +1,36 @@
 ---
+# COMPLETELY NEEDS UPDATING — excess: comatose -> sluggish, inverse: edgy -> jagged
 slug: umami-dried-butter
+lastUpdated: 
 bean: butter
 flavour: umami
 form: dried
 trait: mellow
-inverse: edgy
-excess: comatose
-friendlyBeans: [mung, navy]
-friendlyForm: boiled
-antiTriple: spicy-fermented-kidney
-antiBeans: [pinto, green]
-antiForm: smoked
-dish: Gigantes plaki - dried butter beans baked with tomato, anchovy, and herbs.
+excess: sluggish
+inverse: jagged
 quote: All things come to beans who wait.
 creature: dugong
-seasonalFortune: A long oven season; tomato deepens into anchovy without anyone watching. The hours do their own salting, and the cook learns to leave the door shut.
+dish: Dried butter beans aged with parmesan rind.
+friendlyBeans: [adzuki, black]
+friendlyForm: boiled
+antiTriple: spicy-fried-kidney
+antiBeans: [chickpea, green]
+antiForm: roasted
+seasonalFortune: "A season of parmesan rind and softened years — the store has stopped having sharp edges."
 fortuneMost: People will drift to you the way they drift to a warm kitchen — not for an answer, for the ease of sitting inside your calm.
-fortuneMost2: You'll walk into a room braced for an argument and the argument will forget what it was about.
 fortuneHigh: Someone will try to hurry you.
-fortuneHigh2: A friend who talks past every polite stopping point needs the chair held, not the clock checked.
 fortuneMid: The thing slow-baking doesn't need you hovering.
-fortuneMid2: A decision crowded by everyone's opinions gets lighter the moment you stop adding yours.
 fortuneLow: The yes you've been letting steep already came.
-fortuneLow2: Settle the small thing while it's small.
 fortuneLeast: Wake already moving and eat standing for once.
-fortuneLeast2: Pick the plan yourself and say so plainly.
-facetMostTitle: The Anchovy's Long Give
+facetMostTitle: The Tortoise and the Beanhare
 facetMost: Ferry cancelled, the whole queue scrambling on their phones to rebook — and there you are on a sunny bench, watching the gulls, content to wait out the next one.
-facetHighTitle: Oregano in the Oil
+facetHighTitle: Mellow Beanyellow
 facetHigh: A stranger at the laundromat has talked you through their entire divorce and isn't slowing down. Their machine still has twenty minutes; you stay and let it run out.
-facetMidTitle: Tomato at Its Own Pace
+facetMidTitle: Take It Beaneasy
 facetMid: Two friends are deadlocked over a plan and keep turning to you for a tie-breaker. You float a third option, no urgency, and let the room chew on it.
-facetLowTitle: The Skin That Splits Early
+facetLowTitle: Jagged Little Bean
 facetLow: A reply you've been comfortably putting off finally has a clear answer. Send it now, you think, while it's easy — and you do, before the ease wears off.
-facetLeastTitle: Heat That Never Banks
+facetLeastTitle: The Cutting Beanedge
 facetLeast: First light, and you're already laced up and out the door, breakfast eaten on the move. A morning that just sits there makes your skin itch.
 question: Your connecting train is delayed, the board keeps pushing the time back, and the platform crowd is starting to fray. You...
 answerMost: find a bench, let the board do what it does, and watch the light change
@@ -48,6 +45,4 @@ rorschachLow: a firework bursting, sparks raining off the edges
 rorschachLeast: a paint can kicked over, droplets flung everywhere
 ---
 
-Aged Butter Beans are the Bean Zodiac's most mellow — the kind of presence that walks into a tense room and the tension forgets what it was about. They take long lunches, finish sentences on their own clock, and refuse, gently and absolutely, to be rushed by anyone's emergency. Friends drift to them in bad weeks the way people drift to a warm kitchen.
-
-The trouble is that the same chair holds them when the chair shouldn't. A reply waits a fortnight, then a month, until answering it would be more embarrassing than not — so they don't, and tell themselves it's peace.
+Aged Butter Beans are the Bean Zodiac's most mellow. The edges that were there at twenty have worn off, and what is left is very good company. Sometimes it is so smooth nothing catches. Being sharp when sharpness is needed takes them a while.

@@ -1,39 +1,36 @@
 ---
+# COMPLETELY NEEDS UPDATING — excess: snobbish -> airless, inverse: commonplace -> common
 slug: sweet-dried-cannellini
+lastUpdated: 
 bean: cannellini
 flavour: sweet
 form: dried
 trait: rarefied
-inverse: commonplace
-excess: snobbish
-friendlyBeans: [edamame, black]
-friendlyForm: boiled
-antiTriple: spicy-roasted-chickpea
-antiBeans: [kidney, pinto]
-antiForm: fried
-dish: Torta di fagioli — Tuscan white bean cake, dried cannellini cooked to paste and baked with eggs, sugar, and lemon zest into something simple and precise.
+excess: airless
+inverse: common
 quote: Excellence is never bean by accident.
 creature: snow leopard
-seasonalFortune: A season pared to caster sugar. Twelve jars become three, the cake comes out cleaner, and a footstep carries further across the emptied pantry.
+dish: Cannellini glacé with vanilla and lemon peel.
+friendlyBeans: [edamame, black]
+friendlyForm: boiled
+antiTriple: spicy-roasted-adzuki
+antiBeans: [chickpea, kidney]
+antiForm: fried
+seasonalFortune: "A season of vanilla sugar and thin altitude: the glacé belongs on a high shelf."
 fortuneMost: Twelve jars pared to three, the cake out cleaner for it.
-fortuneMost2: A footstep carries further across an emptied pantry, and so does the single good thing you choose to keep.
 fortuneHigh: A feather on white paper says more than a heaped table ever will.
-fortuneHigh2: What isn't worth doing, you leave undone.
 fortuneMid: Make the thing well, line it up just so, and then — hardest part — let it be finished.
-fortuneMid2: You'd refine a single line forever, given rope.
 fortuneLow: Show someone the rough cut, the version you'd rather sand smooth first.
-fortuneLow2: Not everything has to clear your bar to earn a place.
 fortuneLeast: Pour two glasses for whoever's nearest and let the evening go heaped and chaotic.
-fortuneLeast2: The soft lemons used up, the room overfull, nothing pared.
-facetMostTitle: Caster Sugar, Never Coarser
+facetMostTitle: No Beanair
 facetMost: One thing kept, the genie says, and the fire takes the rest — and you name it without a flicker of hesitation, watching the smoke rise off everything else.
-facetHighTitle: The Zest Withheld
+facetHighTitle: Rarefied Beanair
 facetHigh: Thanks, but none of them — a roadside vendor fans out a dozen cheap shiny trinkets, and you keep your hands in your pockets and walk on light.
-facetMidTitle: One Quarter-Turn Left
+facetMidTitle: The High Beantable
 facetMid: Packing a bag for a long trip, you lay out twice what fits and quietly halve the pile until only what earns its weight is left.
-facetLowTitle: Paste Smooth Enough
+facetLowTitle: Common Beanpeople
 facetLow: A bunch of wildflowers comes loose and lopsided from a child's fist. You crowd them all into the vase, stems uneven, and love the riot of it.
-facetLeastTitle: Lemons Going Soft
+facetLeastTitle: Common as Beanmuck
 facetLeast: Arms already full, you wade deeper into a yard sale that sprawls mismatched and overflowing under the trees, hauling home far more than you came for.
 question: A drawer is full and you've promised yourself to thin it before the weekend. Twenty-six things in, eight things kept. You...
 answerMost: put six of the eight back; only two of them actually earn the drawer
@@ -48,6 +45,4 @@ rorschachLow: a junk drawer tipped onto the floor
 rorschachLeast: a flea market table heaped with everything
 ---
 
-Crystallised Cannellini Beans are the Bean Zodiac's most rarefied. The kitchen has three knives and they are all kept sharp; the bookshelf holds what's been re-read and nothing else; the toast at the wedding is two sentences long and lands. They have learned what is worth keeping by getting rid of almost everything else.
-
-The cost is that the standard travels with them. A friend's first attempt at the pasta, the half-thought-through plan, the rough draft offered with a hopeful look — these run into the same fine-tooth attention, and the kindness in the verdict doesn't always make it through the precision.
+Crystallised Cannellini Beans are the Bean Zodiac's most rarefied. What they love is narrow, difficult and genuinely excellent, and their company on it is worth having. Sometimes the air gets thin up there. Enjoying something popular and ordinary is oddly hard for them.

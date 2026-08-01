@@ -1,6 +1,5 @@
 import { createFileRoute, Link } from "@tanstack/react-router";
 import Bean from "../../../components/zodiac/Bean";
-import TraitBadge from "../../../components/zodiac/TraitBadge";
 import { allZodiacData } from "../../../lib/data";
 
 export const Route = createFileRoute("/beaniary/beans/")({
@@ -23,12 +22,12 @@ export const Route = createFileRoute("/beaniary/beans/")({
               <Link
                 to="/beaniary/beans/$id"
                 params={{ id }}
-                className="block aspect-square w-full"
+                className="block h-72"
               >
                 <Bean bean={bean} />
               </Link>
-              <div className="p-4">
-                <h2 className={`text-lg font-semibold bean-${id}`}>
+              <div className="p-4 text-center">
+                <h2 className={`text-2xl font-semibold bean-${id}`}>
                   <Link
                     className="link"
                     to="/beaniary/beans/$id"
@@ -37,12 +36,9 @@ export const Route = createFileRoute("/beaniary/beans/")({
                     {bean.name}
                   </Link>
                 </h2>
-                <p className="text-sm text-zinc-300 mt-1">{bean.tagline}</p>
-                <ul className="flex flex-wrap gap-1.5 mt-3 list-none p-0 m-0">
-                  {bean.traits.map((trait) => (
-                    <TraitBadge key={trait} trait={trait} />
-                  ))}
-                </ul>
+                <p className="text-base font-medium text-zinc-200 my-2">
+                  {bean.role}
+                </p>
               </div>
             </li>
           ))}

@@ -1,9 +1,10 @@
 ---
 slug: black
 name: Black Bean
+role: The Observer
 tagline: Depth conceals infinite possibility.
-traits: [perceptive, resilient, determined, introspective, guarded]
-toneOfVoice: Measured and watchful; says less than it knows, gives little away.
+positiveTraits: [observant, discreet, self-possessed, resolute, penetrating]
+negativeTraits: [opaque, mistrustful]
 imageFile: black.webp
 ---
 

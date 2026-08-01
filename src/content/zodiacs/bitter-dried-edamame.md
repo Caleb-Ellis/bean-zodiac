@@ -1,35 +1,36 @@
 ---
+# QUICK REVIEW — trait, excess and inverse all unchanged
 slug: bitter-dried-edamame
-lastUpdated: 2026-06-22
+lastUpdated: 
 bean: edamame
 flavour: bitter
 form: dried
 trait: terse
+excess: brusque
 inverse: verbose
-excess: curt
-friendlyBeans: [black, cannellini]
-friendlyForm: smoked
-antiTriple: sweet-roasted-adzuki
-antiBeans: [butter, mung]
-antiForm: fermented
-dish: Edamame hummus with preserved lemon.
 quote: Less is bean.
 creature: rook
-seasonalFortune: A season cured down to its rind. The pod has shrunk to a stone, the lemon to a salt, and what remains keeps without speaking.
+dish: Dried soybeans roasted into kinako and whisked with matcha.
+friendlyBeans: [fava, cannellini]
+friendlyForm: fermented
+antiTriple: umami-roasted-mung
+antiBeans: [adzuki, pinto]
+antiForm: boiled
+seasonalFortune: "A season of hard pods and short sentences: nothing said twice, nothing kept that cannot keep."
 fortuneMost: Remove it.
 fortuneHigh: Cut it in half.
 fortuneMid: Say less.
 fortuneLow: It'll happen slowly but surely.
 fortuneLeast: The path has no end, it only branches into branches into branches.
-facetMostTitle: One Pinch of Rind
+facetMostTitle: Bean It
 facetMost: The taxi driver is friendly, and very talkative. From you he gets a "yeah," a "nice one," and then silence for the rest of the trip.
-facetHighTitle: The Last Turn of the Grinder
+facetHighTitle: The Old Bean and the Sea
 facetHigh: Having just landed at the airport, the customs officer asks the purpose of your visit. You reply with a single word.
-facetMidTitle: The Rattling Pod
+facetMidTitle: True Beanit
 facetMid: Everyone's retelling the trip in loving detail. Your version is short and sweet — the highlight, the lowlight and the most interesting thing.
-facetLowTitle: The Spoon Doubling Back
+facetLowTitle: Gilmore Beans
 facetLow: A stranger stops you for directions to the station. A pointed finger would do, but you walk them all the way there in words, doubling back to be sure it landed.
-facetLeastTitle: Brine on the Board
+facetLeastTitle: War and Beans
 facetLeast: A genie grants one wish and asks you to name it. Before you do, you spend a great deal of time discussing the parameters.
 question: Just past the finish line of their first marathon, your friend catches their breath and asks how they did. Their time was actually pretty good. You...
 answerMost: say "pretty good"
@@ -44,6 +45,4 @@ rorschachLow: spilled ink trailing everywhere
 rorschachLeast: a pair of lungs inside a ribcage
 ---
 
-Desiccated Edamame are the Bean Zodiac's most terse — they answer the email with one word, end the call the moment the business is done, and have a gift for arriving at the point three turns before anyone planned to. In a meeting that's losing the thread they are the one who says the sentence that ends it, and everyone privately thanks them.
-
-The cost is the conversation that wasn't actually a transaction. Someone is telling them about their day, working their slow way toward the part that matters, and gets a tidy summary and a "so what do you need" — the long road home foreclosed by a bean who only saw the destination.
+Desiccated Edamame are the Bean Zodiac's most terse. The reply is one line, the line answers it, the thread ends. On a bad day it lands like a door closing. Two sentences of warmth first strikes them as time everyone would rather have back.

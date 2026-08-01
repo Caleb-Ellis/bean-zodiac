@@ -55,6 +55,30 @@ const BEAN_IDS = new Set([
 const FORM_IDS = new Set(["boiled", "dried", "fermented", "fried", "roasted", "smoked"]);
 const FLAVOUR_IDS = new Set(["umami", "bitter", "sour", "sweet", "spicy"]);
 
+// Preparations — one per Flavour × Form pairing (30). The pairing traits are a
+// layer of their own: Flavour supplies affect, Form supplies metabolism, and the
+// Preparation names what the two produce together. The grid must be complete and
+// exact, so a missing or stray file fails the build rather than the page.
+const preparations = readCollection("preparations");
+const preparationsRecord = {};
+for (const { id, data, content } of preparations) {
+  const [flavour, form] = id.split("-");
+  if (!FLAVOUR_IDS.has(flavour) || !FORM_IDS.has(form)) {
+    throw new Error(`${id}: preparation filename must be {flavour}-{form}`);
+  }
+  if (data.flavour !== flavour || data.form !== form) {
+    throw new Error(`${id}: flavour/form frontmatter must match the filename`);
+  }
+  preparationsRecord[id] = { ...data, content };
+}
+const expectedPreparations = FLAVOUR_IDS.size * FORM_IDS.size;
+if (preparations.length !== expectedPreparations) {
+  throw new Error(
+    `expected ${expectedPreparations} preparations, found ${preparations.length}`,
+  );
+}
+writeJson(resolve(root, "src/data/generated/preparations.json"), preparationsRecord);
+
 function validateSpiritTags(id, data, own) {
   for (const field of ["friendlyBeans", "antiBeans"]) {
     const tags = data[field];
@@ -129,7 +153,7 @@ writeJson(resolve(root, "src/data/generated/spirit-tags.json"), spiritTags);
 writeJson(resolve(root, "src/data/generated/zodiac-traits.json"), zodiacTraits);
 
 console.log(
-  `Built ${beans.length} beans, ${flavours.length} flavours, ${forms.length} forms, ${zodiacs.length} zodiacs`,
+  `Built ${beans.length} beans, ${flavours.length} flavours, ${forms.length} forms, ${preparations.length} preparations, ${zodiacs.length} zodiacs`,
 );
 
 await import("./build-rorschach.mjs");

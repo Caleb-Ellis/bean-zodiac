@@ -1,39 +1,36 @@
 ---
+# COMPLETELY NEEDS UPDATING — trait: composed -> unruffled, excess: stony -> impassive, inverse: flustered -> agitated
 slug: bitter-boiled-butter
+lastUpdated: 
 bean: butter
 flavour: bitter
 form: boiled
-trait: composed
-inverse: flustered
-excess: stony
-friendlyBeans: [navy, black]
+trait: unruffled
+excess: impassive
+inverse: agitated
+quote: Keep calm and carry beans.
+creature: capybara
+dish: Butter beans poached in olive oil with bay and blanched dandelion greens.
+friendlyBeans: [black, mung]
 friendlyForm: dried
-antiTriple: spicy-fried-edamame
-antiBeans: [chickpea, green]
+antiTriple: spicy-fried-green
+antiBeans: [fava, pinto]
 antiForm: roasted
-dish: Ribollita - butter beans and cavolo nero.
-quote: Do I contradict myself? Very well then, I contain beans.
-creature: crane
-seasonalFortune: A season for low flame and long stock. The pot holds its line while the cavolo nero darkens and the beans give up nothing they were not ready to give.
+seasonalFortune: "A season of steady water and unbothered fat. Nothing in the pot rises to meet a raised voice."
 fortuneMost: When hard news lands, you finish the sentence you were saying.
-fortuneMost2: A still bean in a rolling pot is a good omen for everyone near it.
 fortuneHigh: When the voices climb, yours stays where it started. Set the fork down and outwait it.
-fortuneHigh2: A storm is coming for someone close, and you're the dry ground they'll stand on.
 fortuneMid: Let one person see the crack — just enough that they know it reached you.
-fortuneMid2: They can't tell if you even care, and it stings because you care enormously.
 fortuneLow: You drift through a place like a draft and people keep glancing at the windows.
-fortuneLow2: A calm so complete no one can tell it landed reads, from across the table, as an empty chair.
 fortuneLeast: Laugh at the song, weep at the obituary, walk the long way home because a stranger's piano scales were drifting from an open window.
-fortuneLeast2: Argue the lost cause on principle and unravel a little where it shows.
-facetMostTitle: Cavolo Nero at the Edge
+facetMostTitle: The Bean Who Wasn't There
 facetMost: The boat pitches in a hard swell and the others grab for a handhold. You keep coiling the line you were coiling, voice level, finishing the count out loud.
-facetHighTitle: The Settled Broth
+facetHighTitle: Cool Hand Bean
 facetHigh: Cut off at the junction, horns going up all around you, and your pulse never climbs. Hold the lane, breathe out, the spike gone almost before it lands.
-facetMidTitle: Stock That Will Not Boil
+facetMidTitle: Smooth Beaninal
 facetMid: The diagnosis is worse than anyone hoped and the table around the kitchen is coming apart. You set out bowls, ladle the stock, and keep the meal moving while everyone else falls quiet.
-facetLowTitle: Skin Under Hard Simmer
+facetLowTitle: Panic! At the Beansco
 facetLow: Your take isn't fully formed and the argument won't wait — so out it comes half-built, the rest of it shaped aloud while everyone listens you into a position.
-facetLeastTitle: The Clattering Lid
+facetLeastTitle: Shaken, Not Beaned
 facetLeast: Some busker on the corner plays the song that gets you, and your eyes go before you can stop them. Let them. Tears on the pavement, no hand raised to hide it.
 question: The flight is cancelled, the line is long, the family behind you is unravelling. You...
 answerMost: keep your place and open a book
@@ -48,6 +45,4 @@ rorschachLow: a heavy statue tilting, one foot lifting off
 rorschachLeast: a wax candle slumping, both feet sliding out from under
 ---
 
-Infused Butter Beans are the Bean Zodiac's most composed — the one who takes the bad phone call, says "okay, thank you for letting me know," and calmly goes back to chopping the onion. It isn't an act; the steadiness goes all the way down. In a crisis they're the person everyone unconsciously orients toward, the still point that lets the rest of the room stop spinning, and they carry it without ever seeming to try.
-
-The calm is so complete, though, that people occasionally can't tell whether anything reached them at all — and "I can't tell if you even care" stings precisely because they care enormously.
+Infused Butter Beans are the Bean Zodiac's most unruffled. When the news lands badly they are the one still sitting down, and the room takes the cue. The pulse doesn't spike for good news either, and the friend who wanted panicked company goes away unmet.

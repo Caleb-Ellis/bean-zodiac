@@ -1,9 +1,10 @@
 ---
 slug: pinto
 name: Pinto Bean
+role: The Dreamer
 tagline: Your markings are your map.
-traits: [creative, expressive, spontaneous, imaginative, overemotional]
-toneOfVoice: Vivid and unfiltered; talks in images, feelings spilling through.
+positiveTraits: [expressive, imaginative, inventive, uninhibited, distinctive]
+negativeTraits: [anxious, theatrical]
 imageFile: pinto.webp
 ---
 

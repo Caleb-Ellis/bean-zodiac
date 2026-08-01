@@ -1,9 +1,10 @@
 ---
 slug: kidney
 name: Kidney Bean
+role: The Protector
 tagline: Feel everything. Regret nothing.
-traits: [passionate, protective, tenacious, vital, overextended]
-toneOfVoice: Fervent and full-hearted; speaks with everything it has.
+positiveTraits: [protective, devoted, championing, tenacious, vital]
+negativeTraits: [overextended, possessive]
 imageFile: kidney.webp
 ---
 

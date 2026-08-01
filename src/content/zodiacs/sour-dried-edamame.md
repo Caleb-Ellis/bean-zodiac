@@ -1,39 +1,36 @@
 ---
+# COMPLETELY NEEDS UPDATING — excess: stinging -> barbed, inverse: rambling -> vague
 slug: sour-dried-edamame
+lastUpdated: 
 bean: edamame
 flavour: sour
 form: dried
 trait: pointed
-inverse: rambling
-excess: stinging
-friendlyBeans: [green, fava]
-friendlyForm: fried
-antiTriple: umami-fermented-mung
-antiBeans: [chickpea, kidney]
-antiForm: roasted
-dish: Dried edamame with ponzu and toasted sesame.
+excess: barbed
+inverse: vague
 quote: The pen is mightier than the bean.
 creature: stingray
-seasonalFortune: Ponzu sharpens in the bowl as the pod dries. A season for short sentences; the citrus does the rest.
+dish: Dried edamame with yuzu peel and salt.
+friendlyBeans: [fava, cannellini]
+friendlyForm: fermented
+antiTriple: umami-boiled-kidney
+antiBeans: [mung, adzuki]
+antiForm: roasted
+seasonalFortune: "A season of dried yuzu and short remarks: the salt lands where it was aimed."
 fortuneMost: Ask aloud the question the whole table has been circling, and watch the evening finally move.
-fortuneMost2: One clean sentence names the flaw while the polite nodding still holds, and everyone gets to stop pretending.
 fortuneHigh: A friend tells it in nine sentences; hand it back in two.
-fortuneHigh2: Three lines where a paragraph wanted to grow.
 fortuneMid: What you owe fits in one plain sentence.
-fortuneMid2: Say the one word and let things settle around it.
 fortuneLow: Take the long way round to the answer.
-fortuneLow2: Soften the point before it lands.
 fortuneLeast: Don't throw yet — the thing hasn't decided what it is.
-fortuneLeast2: A verdict left open and circled comes back kinder than the one you'd have fired off.
-facetMostTitle: Sesame at the Dark Edge
+facetMostTitle: Mean Beans
 facetMost: Cut in and ask it straight — the guide is ten minutes into the long history and the group only wants to know if the bridge ahead will hold.
-facetHighTitle: The Pod's Dried Seam
+facetHighTitle: Beanpoint Break
 facetHigh: Lost in a strange city, your companion narrates every wrong turn aloud. You glance at the skyline once and point — that way.
-facetMidTitle: Ponzu Before the Salt
+facetMidTitle: Straight to the Bean
 facetMid: The waiter hovers, reciting specials, and the table dithers. You name your order in three words and hand back the menu.
-facetLowTitle: Sesame Scattered Loose
+facetLowTitle: Beanfog
 facetLow: Someone asks if they should leave the job they've poured years into. The clean yes-or-no is right there, but you take the slow road and ask what they'd miss.
-facetLeastTitle: Ponzu Wide and Shallow
+facetLeastTitle: Cloud Beanuckoo Land
 facetLeast: No verdict yet on the half-finished thing in front of you — let it sit unjudged, content to wait until it shows what it wants to be.
 question: Your brother lays out the franchise he's about to sink his savings into, numbers glowing, and there's a hole in it you can see from here. He's beaming. You...
 answerMost: put a finger on the hole in one sentence before he finishes beaming
@@ -48,6 +45,4 @@ rorschachLow: a kitten with its ears barely budding
 rorschachLeast: a round dumpling with a pinched top
 ---
 
-Dehydrated Edamame are the Bean Zodiac's most pointed. In a meeting that has been wandering for forty minutes they ask the one sentence that ends it; in a thread that has run to fourteen replies they post the line that closes it. They do not soften, and they do not pad, and the people who work with them learn fast that a short answer from them is not coldness, it's the real one.
-
-The cost lands later, in private. A point made that cleanly in front of the wrong audience leaves a small red mark on the person who was carrying the bad idea, and these Beans tend to find out about it weeks later, from someone else.
+Dehydrated Edamame are the Bean Zodiac's most pointed. One question, aimed exactly where the plan is weakest, and the answer decides the meeting. The aim occasionally draws blood nobody needed spilt. Circling a problem gently for ten minutes is time they won't spend.

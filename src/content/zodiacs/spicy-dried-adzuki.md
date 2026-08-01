@@ -1,35 +1,36 @@
 ---
+# CHANGED SINCE THIS CONTENT WAS WRITTEN — trait: catalytic -> unquenched, excess: explosive -> insatiable, inverse: inert -> sated
 slug: spicy-dried-adzuki
-lastUpdated: 2026-06-18
+lastUpdated: 
 bean: adzuki
 flavour: spicy
 form: dried
-trait: catalytic
-inverse: inert
-excess: explosive
-friendlyBeans: [green, edamame]
-friendlyForm: fried
-antiTriple: bitter-smoked-butter
-antiBeans: [mung, black]
-antiForm: boiled
-dish: Dry-fried adzuki with Sichuan peppercorn and dried chili threads.
+trait: unquenched
+excess: insatiable
+inverse: sated
 quote: Set the world on bean.
-creature: firefly
-seasonalFortune: A season cured down to its hottest atoms; the year hangs in the rafters, drying patient, until one stray brush against the wall sets every room moving at once.
+creature: phoenix
+dish: Dried adzuki with Sichuan pepper and dried chilli.
+friendlyBeans: [green, fava]
+friendlyForm: boiled
+antiTriple: bitter-boiled-butter
+antiBeans: [mung, cannellini]
+antiForm: fermented
+seasonalFortune: "A season of Sichuan pepper and unfinished appetite — the store wants more than the winter holds."
 fortuneMost: The fireflies wait in the grass for the first to rise — be the first.
 fortuneHigh: Something long stuck is about to move.
 fortuneMid: The smallest push is all it needs from you. Give that, and no more.
 fortuneLow: Not every match is yours to strike.
 fortuneLeast: It will catch on its own, and it will sting a little, how little it needs you.
-facetMostTitle: Peppercorn Under the Tongue
+facetMostTitle: Never Enough, Bean
 facetMost: The karaoke mic sits on the table, the song already cued, and nobody will be first to sing. You pick it up.
-facetHighTitle: Dried Chili Threads
+facetHighTitle: Burning Beandesire
 facetHigh: A friend has climbed to the top of the high dive twice and backed down both times. You'd sooner count them in than watch them stall again.
-facetMidTitle: Oil on Dry Skin
+facetMidTitle: Hungry Like the Beanwolf
 facetMid: The group photo is just a slow milling by the wall, and you're already waving people into their rows.
-facetLowTitle: The Pan Smokes
+facetLowTitle: La Grande Beanbouffe
 facetLow: The dinner has wound all the way down and everyone lingers, half-waiting for someone to call it a night. You could be the one, but you let the quiet stretch.
-facetLeastTitle: The Sealed Jar
+facetLeastTitle: Enough Is Beanenough
 facetLeast: The whole hike bunches up at a fork and waits for someone to choose a direction. You go quiet and leave the picking to anyone but you.
 question: The council's offered the weedy corner lot to anyone on the street who'll make something of it. It's sitting there doing nothing. You...
 answerMost: knock on doors that evening and start turning it into the thing you've pictured for years
@@ -44,6 +45,4 @@ rorschachLow: a stag dipping its head over fallen leaves
 rorschachLeast: a toppled urn with its shards come to rest
 ---
 
-Sichuan Adzuki Beans are the Bean Zodiac's most catalytic — they walk into a stalled room and within a minute someone is finally booking the thing. They don't argue, don't rally; they just say the one sentence the group has been circling, and the circling stops. Friends learn to bring them the half-formed plan that's been sitting in a draft for a week, because a Sichuan Adzuki will read it once and reply with a date.
-
-The trouble is they sometimes light a fire they didn't mean to stand near. A throwaway "you should just quit" lands harder than intended, and a week later someone has — and is on the phone asking what to do next.
+Sichuan Adzuki Beans are the Bean Zodiac's most unquenched. The thing they wanted arrived, and they were delighted, and by the weekend they were after the next one. Nothing quite fills it. Sitting back, satisfied, with no further appetite is a rest they never reach.

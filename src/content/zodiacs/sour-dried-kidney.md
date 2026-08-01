@@ -1,53 +1,47 @@
 ---
 slug: sour-dried-kidney
+lastUpdated: 2026-08-02
 bean: kidney
 flavour: sour
 form: dried
 trait: fierce
+excess: savage
 inverse: meek
-excess: merciless
-friendlyBeans: [green, fava]
-friendlyForm: fried
-antiTriple: bitter-smoked-cannellini
-antiBeans: [butter, mung]
-antiForm: boiled
-dish: Rajma - kidney beans with dried Kashmiri chiles and tamarind.
 quote: This isn't even my final bean!
 creature: tiger
-seasonalFortune: A season that dries the pod down to its hardest seed. Tamarind keeps its pucker through the long shelf; the chile holds its sting unsoftened by the year.
-fortuneMost: Kashmiri red, ground fine, served full strength.
-fortuneMost2: The third time the slight comes round, stop nodding and name it back across the table.
-fortuneHigh: A warm word from someone who went cold can wait.
-fortuneHigh2: Hold the line.
-fortuneMid: Make the call you've been carrying before you invent a tenth reason to carry it further.
-fortuneMid2: The wrong charge isn't yours to swallow.
-fortuneLow: Not your fight this time.
-fortuneLow2: Let the small one go — the unwashed pan, the late return.
-fortuneLeast: What's coming needs both hands free, and this grudge wasn't worth a single fist.
-fortuneLeast2: The grudge has dried past use into a stone in your pocket, heavier than the wrong that made it.
-facetMostTitle: Kashmiri Red, Ground Fine
-facetMost: Plant your feet and demand the real reason — the bouncer just turned your friend away on some flimsy excuse and the rest of the group is ready to shrug and move on.
-facetHighTitle: Tamarind, Eyes Open
-facetHigh: Palm out, you wait — the vendor short-changed you and waved you off with a smile, betting you'd just let it slide.
-facetMidTitle: The Overnight Soak
-facetMid: The referee's bad call just cost the kids' team the match, and the other parents are already packing up. You walk over to say it to his face.
-facetLowTitle: Long Simmer, Low Flame
-facetLow: A driver cuts you off and leans on the horn like it was your fault. The fight's right there in your chest, and you ease off and let the road have it.
-facetLeastTitle: Chiles Dulled in the Jar
-facetLeast: The person who wronged you years ago turns up, older and unaware, asking directions. You give them clean and friendly, the old score gone quiet.
-question: A big dog slips its lead and comes at the smaller one you're walking, owner nowhere in sight. You...
-answerMost: plant yourself between them and roar it off
-answerHigh: scoop yours up and stand your ground, no backward step
-answerMid: shout hard and back away keeping yours behind you
-answerLow: pull yours close and hope it loses interest
-answerLeast: freeze and wait for someone else to handle it
-rorschachMost: a thornbush bursting from a smoke plume
-rorschachHigh: a mace head bristling above its shaft
-rorschachMid: a tree crown over a spiky trunk
-rorschachLow: a dandelion clock losing its last seeds
-rorschachLeast: a balloon drifting up off a soft basket
+dish: Dried kidney beans with tamarind and chaat masala.
+friendlyBeans: [mung, green]
+friendlyForm: boiled
+antiTriple: bitter-smoked-chickpea
+antiBeans: [butter, cannellini]
+antiForm: fermented
+seasonalFortune: "A season of dried tamarind and standing heat — the store defends what it was given."
+fortuneMost: The fire is powerful, but the smoke will sting your eyes.
+fortuneHigh: Don't back down, not even a little bit.
+fortuneMid: The tiger doesn't have to roar to clear the path.
+fortuneLow: It's probably best to stay out of it.
+fortuneLeast: This isn't your fight.
+facetMostTitle: The Revebean
+facetMost: Three of your lambs are dead in the top field and the dog that did it is back on its owner's porch, being told off in a soft voice. You put one of the lambs in the back of the truck, drive round to their gate, and lay it down where they'll have to step over it.
+facetHighTitle: "Mad Max: Beany Road"
+facetHigh: Two men are tipping a van-load of building waste into the beech wood you walk every week, and one of them tells you to mind your own business. You stand in front of the van with your phone up filming, and tell them they're loading it back on.
+facetMidTitle: The Lion Bean
+facetMid: A man at the library desk is telling the volunteer she's helpless, loudly, and she starts to go red. You walk over, stand at the desk beside her, and ask him what he thinks he's doing.
+facetLowTitle: The Bean Shall Inherit the Earth
+facetLow: Sparring at the gym, and your partner is going harder than the drill calls for — two hits land pretty hard, and he knows it. You keep yours at drill speed and touch gloves at the bell.
+facetLeastTitle: The Mouse That Beaned
+facetLeast: The lost property window has what you're almost certain is your bag behind it, and the clerk says the name on the tag isn't yours so it isn't yours. You thank him, leave your number just in case, and walk out.
+question: Two laps from the end at the karting track, the driver you've been battling all race pulls alongside and puts you into the barrier hard enough to bend the bodywork. You...
+answerMost: wait for him on the next lap and put him into the same barrier
+answerHigh: get out at the pits and have it out with him there and then
+answerMid: flag the marshal down and make him watch the replay
+answerLow: finish the race and let it go in the car park
+answerLeast: decide you were probably in his blind spot and apologise for it
+rorschachMost: a war mask
+rorschachHigh: a weapon
+rorschachMid: a tree
+rorschachLow: a landscape
+rorschachLeast: a flower
 ---
 
-Dehydrated Kidney Beans are the Bean Zodiac's most fierce. They are the friend who calls the company back on your behalf, who notices the third time a flatmate borrows without asking, who once, in a meeting, said the sentence that ended the bad project before it cost anyone else a year. Loyalty in them is a verb, and the people in their corner know it without having to ask.
-
-The cost is the grudge that outlives its use. A grievance carried that hard tends to dry past the point of usefulness and become, quietly, a small hard thing in the pocket — heavier than the original wrong, and only really felt by the one still holding it.
+Dehydrated Kidney Beans are the Bean Zodiac's most fierce. Say something about their sister at the table and find out how fast a room can change temperature. Sometimes the defence overshoots the offence by a distance. Letting a slight pass unanswered is not something they've practised.

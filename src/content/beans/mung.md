@@ -1,9 +1,10 @@
 ---
 slug: mung
 name: Mung Bean
+role: The Healer
 tagline: Small seeds, patient hands, quiet miracles.
-traits: [healing, gentle, nurturing, regenerative, insecure]
-toneOfVoice: Soft and tending; speaks to mend, often unsure it's allowed to.
+positiveTraits: [healing, nurturing, restorative, attentive, selfless]
+negativeTraits: [insecure, exploitable]
 imageFile: mung.webp
 ---
 

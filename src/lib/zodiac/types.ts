@@ -43,6 +43,7 @@ export const QualityIds = {
 export type QualityId = (typeof QualityIds)[keyof typeof QualityIds];
 
 export type ZodiacId = `${FlavourId}-${FormId}-${BeanId}`;
+export type PreparationId = `${FlavourId}-${FormId}`;
 
 // Spirit tags steer the Beanstalk's scoring pass. The model is symmetric: each
 // zodiac has a friendly pole (its own slug + friendlyBeans + friendlyForm) and
@@ -63,11 +64,17 @@ export type SpiritTags = {
   antiForm: FormId;
 };
 
+// Each axis carries its own trait vocabulary — beans take motive words, flavours
+// take affect words, forms take metabolism words — so a full triple reads as
+// three non-overlapping descriptions rather than three shades of the same one.
 export type BeanSchema = {
   name: string;
   slug: BeanId;
+  /** The motive in two words — "The Healer", "The Steward". */
+  role: string;
   tagline: string;
-  traits: string[];
+  positiveTraits: string[];
+  negativeTraits: string[];
   imageFile: string;
 };
 
@@ -75,14 +82,26 @@ export type FlavourSchema = {
   name: string;
   slug: FlavourId;
   tagline: string;
-  traits: string[];
+  positiveTraits: string[];
+  negativeTraits: string[];
 };
 
 export type FormSchema = {
   name: string;
   slug: FormId;
   tagline: string;
-  traits: string[];
+  positiveTraits: string[];
+  negativeTraits: string[];
+};
+
+/** A Flavour × Form pairing — what the affect and the metabolism produce together. */
+export type PreparationSchema = {
+  name: string;
+  slug: PreparationId;
+  flavour: FlavourId;
+  form: FormId;
+  positiveTraits: string[];
+  negativeTraits: string[];
 };
 
 export type ZodiacSchema = {
@@ -137,6 +156,7 @@ export type ZodiacSchema = {
 export type Bean = BeanSchema & { content: string };
 export type Flavour = FlavourSchema & { content: string };
 export type Form = FormSchema & { content: string };
+export type Preparation = PreparationSchema & { content: string };
 export type Zodiac = ZodiacSchema & { content: string };
 
 export type ZodiacMetadata = {

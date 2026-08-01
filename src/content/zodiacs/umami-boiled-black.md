@@ -1,35 +1,36 @@
 ---
+# CHANGED SINCE THIS CONTENT WAS WRITTEN — excess: long-suffering -> passive, inverse: impatient -> restive
 slug: umami-boiled-black
-lastUpdated: 2026-06-16
+lastUpdated: 
 bean: black
 flavour: umami
 form: boiled
 trait: patient
-inverse: impatient
-excess: long-suffering
-friendlyBeans: [navy, butter]
-friendlyForm: dried
-antiTriple: sweet-roasted-pinto
-antiBeans: [chickpea, kidney]
-antiForm: fried
-dish: Kongjorim - black soybeans slow-braised in soy, ginger, and sesame.
+excess: passive
+inverse: restive
 quote: Patience is bitter, but its bean is sweet.
 creature: grey crane
-seasonalFortune: Months of low fire darken what was hard and dull. The season belongs to those who can stand by a long braise without lifting the lid.
+dish: Black bean broth with kombu and dried shiitake.
+friendlyBeans: [navy, edamame]
+friendlyForm: smoked
+antiTriple: sweet-fried-chickpea
+antiBeans: [green, adzuki]
+antiForm: roasted
+seasonalFortune: "A season of dried shiitake and long waiting: the stock is in no hurry whatever."
 fortuneMost: Cover the pot and leave it. The dark does the rest.
 fortuneHigh: The crane doesn't lunge — it lets the water carry the fish to its feet.
 fortuneMid: The thoughts are still forming. Give it time.
 fortuneLow: Eleven checks on the same number, and it's no riper for any of them. Step off it.
 fortuneLeast: Not everything deepens in the dark. Some things just go cold while you stand over them.
-facetMostTitle: The Slow Braise
+facetMostTitle: Beanssengers
 facetMost: The seedling you planted hasn't broken soil and a neighbour says it never will. You water it the same and give it another fortnight.
-facetHighTitle: Sesame, Unglossed
+facetHighTitle: The English Beanpatient
 facetHigh: A child holds up a hard green plum, expectantly, and asks if it's ready. You tell her plainly it needs longer.
-facetMidTitle: The Reducing Soy
+facetMidTitle: The Long Goodbean
 facetMid: The jam still won't set, and it's late, and the clean jars are waiting. You give it another few minutes on the boil.
-facetLowTitle: Three Minutes, Then Taste
+facetLowTitle: Restless Beans
 facetLow: The water's only just gone in and you're already squeezing the teabag against the side of the mug.
-facetLeastTitle: The Kettle Reboiled
+facetLeastTitle: Ants in Your Beans
 facetLeast: The roast's been out of the oven for 30 seconds when you start carving it, excited to dig in.
 question: The whole season of the show you've waited months for just dropped, all ten episodes at once. You...
 answerMost: ration it to one a week and make the wait last
@@ -44,6 +45,4 @@ rorschachLow: a bat startled mid-flap off a branch
 rorschachLeast: a moth thrashing wide against the glass
 ---
 
-Dashi Black Beans are the Bean Zodiac's most patient — they will outlast the question. The decision sits covered for a week and they don't lift the lid; the apology gets drafted in March and sent in May, by which point it has cooked down to exactly what it means. They are wonderful in a long crisis and unreadable in a short one, because the same stillness that lets a braise deepen also looks, from across the room, like nothing happening.
-
-The shadow is that other people are waiting. While the verdict steeps, the group chat keeps refreshing, and patience, left too long in the pot, turns from depth into a quiet form of stalling.
+Dashi Black Beans are the Bean Zodiac's most patient. They will wait three years for the right opening and take it in the one week it exists. Sometimes the waiting becomes the whole strategy. Being restless enough to force something isn't in their nature.

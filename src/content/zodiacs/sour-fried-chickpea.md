@@ -1,39 +1,36 @@
 ---
+# COMPLETELY NEEDS UPDATING — trait: shrewd -> nimble, excess: cunning -> slippery, inverse: gullible -> ponderous
 slug: sour-fried-chickpea
+lastUpdated: 
 bean: chickpea
 flavour: sour
 form: fried
-trait: shrewd
-inverse: gullible
-excess: cunning
-friendlyBeans: [kidney, adzuki]
-friendlyForm: fermented
-antiTriple: sweet-dried-navy
-antiBeans: [butter, black]
-antiForm: boiled
-dish: Falafel with sumac onions - fried chickpea patties served with tangy sumac-pickled onions.
-quote: Politics is the art of looking for trouble, finding it everywhere, diagnosing it incorrectly, and applying the wrong beans.
-creature: fennec fox
-seasonalFortune: A season cured in vinegar. The shrewd nose finds the angle early; sumac stains the fingers of those who handled the deal before its name was spoken.
+trait: nimble
+excess: slippery
+inverse: ponderous
+quote: It is not the strongest bean that survives, nor the most intelligent, but the one most responsive to change.
+creature: gecko
+dish: Crispy chickpeas with sumac, lemon, and fried garlic.
+friendlyBeans: [adzuki, kidney]
+friendlyForm: roasted
+antiTriple: umami-fermented-black
+antiBeans: [navy, cannellini]
+antiForm: dried
+seasonalFortune: "A season of sumac and quick hands: the chickpea is out of the oil before it catches."
 fortuneMost: The face after the offer is the real answer, not the offer.
-fortuneMost2: A gathering lays itself out for you before the second round is poured — who owes whom, who's halfway out the door.
 fortuneHigh: Watch the quiet one.
-fortuneHigh2: A warm gesture has a shape under it, and you see the shape plainly.
 fortuneMid: Pay the asking price on purpose.
-fortuneMid2: You can tell within a coin who's rounding their share down.
 fortuneLow: A kindness arrives with no hook in it, clean as a falafel straight from the oil.
-fortuneLow2: Take the compliment whole.
 fortuneLeast: The plain question you think is beneath you has a plain answer you keep stepping over.
-fortuneLeast2: Take someone at their word and leave the puzzle unsolved.
-facetMostTitle: Acid on Contact
+facetMostTitle: Slippery When Bean
 facetMost: A used-car seller is doing you a generous favour on the price. You're already reading which problem the favour is meant to hurry you past.
-facetHighTitle: The Shattered Crust
+facetHighTitle: Beanspider-Man
 facetHigh: Two contractors quote the same job, one all charm and round numbers. The charm is exactly what makes you trust the other one's figures more.
-facetMidTitle: Sumac on the Oil
+facetMidTitle: Beanfootloose
 facetMid: A long story about why someone can't make it has one wobbly thread. You spot the real reason behind the excuse and keep it to yourself.
-facetLowTitle: Faith and Chickpea Flour
+facetLowTitle: The Beanblob
 facetLow: Phone handed to a stranger at the bus stop for one quick call — no angles run first, just trust extended on the spot.
-facetLeastTitle: Onions in Their Jar
+facetLeastTitle: The Beansnail and the Whale
 facetLeast: An old rival suddenly offers to help with no strings named. You take the offer at its word and simply say yes.
 question: At the sunlit antiques market a charming dealer warms you up over the stall, then names a "today only" price on the piece you came for. You...
 answerMost: clock which compliment the price is riding on and steer straight at it
@@ -48,6 +45,4 @@ rorschachLow: a roll of dough proofing open in the bowl
 rorschachLeast: a sleeping puppy gone slack and belly-up
 ---
 
-Agrodolce Chickpeas are the Bean Zodiac's most shrewd — they walk into a room and have it mapped before the second drink. Who owes whom, who's about to leave, which compliment was a stalking horse for a request: the data arrives unbidden, sorted, mostly correct. They use it sparingly and almost never to their own visible advantage, which is why the people they read so accurately tend to trust them anyway.
-
-What they have to watch is the moment the reading becomes the reflex. Not every warm gesture is a manoeuvre. Most are just warm. An Agrodolce Chickpea who forgets this spends the dinner solving a puzzle nobody set them.
+Agrodolce Chickpeas are the Bean Zodiac's most nimble. The venue falls through at noon and by two there's a better one, booked, and nobody had to be told twice. Sometimes they move so fast there's no position left to hold. Grinding slowly through something isn't in them.

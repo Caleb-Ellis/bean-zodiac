@@ -1,35 +1,36 @@
 ---
+# QUICK REVIEW — trait, excess and inverse all unchanged
 slug: umami-fried-black
-lastUpdated: 2026-07-29
+lastUpdated: 
 bean: black
 flavour: umami
 form: fried
 trait: focused
-inverse: scattered
-excess: tunnel-visioned
-friendlyBeans: [navy, fava]
-friendlyForm: dried
-antiTriple: sweet-fermented-pinto
-antiBeans: [chickpea, mung]
-antiForm: roasted
-dish: Stir-fried black beans with oyster sauce, ginger, and scallion.
+excess: fixated
+inverse: unfocused
 quote: The bean's rays do not burn until brought to a focus.
 creature: osprey
-seasonalFortune: A narrowed flame keeps a tight room; the season favors those who let the wok's edge go dark while the center holds bright.
+dish: Black bean croquettes with dashi mayonnaise.
+friendlyBeans: [green, kidney]
+friendlyForm: fermented
+antiTriple: sweet-fermented-butter
+antiBeans: [pinto, mung]
+antiForm: boiled
+seasonalFortune: "A season of dashi mayonnaise and narrow attention: the croquette does one thing perfectly."
 fortuneMost: The osprey watches the fish and misses the storm.
 fortuneHigh: Shut the door and finish it.
 fortuneMid: The wok only browns what sits still.
 fortuneLow: Check your calendar before you make plans.
 fortuneLeast: Chase two things and you may well catch both.
-facetMostTitle: Ginger in the Oil
+facetMostTitle: Fatal Beanattraction
 facetMost: During the house-hunt you've determined an "ideal" street — safe, beautiful, just the right distance to amenities. There are listings for places a couple of streets over, but it doesn't matter — you've already determined the best.
-facetHighTitle: The Sauce at Half
+facetHighTitle: The Hurt Beanlocker
 facetHigh: It's a week until exams and the invitations keep piling up — the pub, a lake trip, someone's band playing. You turn down every one of them and stick to studying.
-facetMidTitle: Scallion Waiting Its Turn
+facetMidTitle: Eyes on the Bean
 facetMid: You're at a friend's for movie night. At fifteen minutes in the film still hasn't really got going, when a few others start reaching for their phones to start second screening. You do not.
-facetLowTitle: Beans and the Missing Ginger
+facetLowTitle: Where's Beanwally?
 facetLow: You've got a couple of hours of work to get through, so you put a podcast on to keep you company while you do it. By the end you've got the gist of neither.
-facetLeastTitle: The Wok in Every Direction
+facetLeastTitle: Chasing Beanrainbows
 facetLeast: You've got a couple of dozen tabs open — a few articles half-read, something you meant to buy, a thing a friend linked you. You don't close any of them, because that's where everything you're thinking about lives.
 question: You're curious about the age of an actor in a movie you just watched, so you look it up on Wikipedia. What happens?
 answerMost: I read their whole page, every film they've ever been in
@@ -44,6 +45,4 @@ rorschachLow: a growing ink stain
 rorschachLeast: a decomposing turnip
 ---
 
-Tempura Black Beans are the Bean Zodiac's most focused — door shut, phone face-down, one thing at a time finished cleanly before the next is acknowledged to exist. The work that comes out of these hours is the kind other people quietly look at twice; nothing is half-attended, nothing is half-meant.
-
-What gets shut out doesn't quite stay shut out, though. The text from a friend goes unanswered for a day, then two, then becomes the thing that's awkward to answer at all. By the time the door opens again the laundry has been wet since Tuesday and three people have decided, gently and without telling them, to stop asking.
+Tempura Black Beans are the Bean Zodiac's most focused. Three hours on one problem and the room could burn down unnoticed, and the problem does get solved. Sometimes the rest of the week vanishes. Splitting attention across two things they can't do.

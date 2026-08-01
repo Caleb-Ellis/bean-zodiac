@@ -1,5 +1,8 @@
-import { createFileRoute, Link, notFound } from "@tanstack/react-router";
+import { createFileRoute, notFound } from "@tanstack/react-router";
 import ReactMarkdown from "react-markdown";
+import BackLink from "../../../components/zodiac/BackLink";
+import BeaniaryNav from "../../../components/zodiac/BeaniaryNav";
+import PreparationList from "../../../components/zodiac/PreparationList";
 import TraitBadge from "../../../components/zodiac/TraitBadge";
 import { allZodiacData } from "../../../lib/data";
 import { FLAVOUR_EMOJI, type FlavourId } from "../../../lib/zodiac";
@@ -17,12 +20,7 @@ export const Route = createFileRoute("/beaniary/flavours/$id")({
             className={`w-full md:w-8 shrink-0 h-8 md:h-auto bg-flavour-${id}`}
           />
           <div className="p-6 md:p-8 flex flex-col gap-4 min-w-0">
-            <Link
-              to="/beaniary/flavours"
-              className="text-sm text-zinc-500 hover:text-zinc-300 transition-colors"
-            >
-              ← All Flavours
-            </Link>
+            <BackLink />
             <h1
               className={`text-3xl font-bold flavour-${id} flex items-center gap-3`}
             >
@@ -32,14 +30,19 @@ export const Route = createFileRoute("/beaniary/flavours/$id")({
               </span>
             </h1>
             <ul className="flex flex-wrap gap-1.5 list-none p-0 m-0">
-              {flavour.traits.map((trait) => (
+              {flavour.positiveTraits.map((trait) => (
                 <TraitBadge key={trait} trait={trait} />
+              ))}
+              {flavour.negativeTraits.map((trait) => (
+                <TraitBadge key={trait} trait={trait} shadow />
               ))}
             </ul>
             <p className="text-zinc-300 italic">{flavour.tagline}</p>
             <div className="markdown-content">
               <ReactMarkdown>{flavour.content}</ReactMarkdown>
             </div>
+            <PreparationList axis="flavour" id={flavour.slug} />
+            <BeaniaryNav current="flavour" />
           </div>
         </div>
       </article>

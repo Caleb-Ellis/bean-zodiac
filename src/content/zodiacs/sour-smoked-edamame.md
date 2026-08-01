@@ -1,39 +1,36 @@
 ---
+# COMPLETELY NEEDS UPDATING — excess: sterile -> cold-blooded, inverse: ham-fisted -> clumsy
 slug: sour-smoked-edamame
+lastUpdated: 
 bean: edamame
 flavour: sour
 form: smoked
 trait: surgical
-inverse: ham-fisted
-excess: sterile
-friendlyBeans: [cannellini, fava]
-friendlyForm: dried
-antiTriple: umami-roasted-mung
-antiBeans: [adzuki, kidney]
-antiForm: fermented
-dish: Dashi-smoked edamame with ponzu - edamame cold-smoked over kombu and served in citrus soy
+excess: cold-blooded
+inverse: clumsy
 quote: First, do no bean.
 creature: kingfisher
-seasonalFortune: A season for cold smoke and clean citrus. The pod gives up what it has and nothing more; ponzu finds the seam an honest blade already knew.
+dish: Smoked edamame cured in ponzu.
+friendlyBeans: [cannellini, black]
+friendlyForm: dried
+antiTriple: sweet-boiled-mung
+antiBeans: [adzuki, chickpea]
+antiForm: roasted
+seasonalFortune: "A season of ponzu and exact incisions — the cure removes precisely what was wrong."
 fortuneMost: One sentence, and out.
-fortuneMost2: A friend arrives carrying the long worry, and the single line that shrinks it is already in your mouth.
 fortuneHigh: Leave when you came to leave, coat already buttoned.
-fortuneHigh2: Two things broke it — name those two and stop.
 fortuneMid: Stay a few minutes past the clean cut.
-fortuneMid2: The borrowed thing goes back with no note, no preamble.
 fortuneLow: Your two clean lines can read like a receipt.
-fortuneLow2: Leave a few things open behind you.
 fortuneLeast: They've started routing around you to someone slower.
-fortuneLeast2: A long answer to a small question.
-facetMostTitle: Kombu, Smoke Pulled Thin
+facetMostTitle: Beanhitman
 facetMost: A panicking colleague is mid-spiral about a deadline. One line that cuts the knot is sitting ready in your mouth, and you say it and nothing after.
-facetHighTitle: Ponzu at the Split
+facetHighTitle: The Beanknick
 facetHigh: A tangled task could be done thoroughly or done in two precise moves that solve the actual problem. Two moves, and you call it finished.
-facetMidTitle: Smoke Where the Salt Holds
+facetMidTitle: Beankeyhole Surgery
 facetMid: Someone hands you a job that needs a decision by end of day. You make it in the first minute and spend none of the others second-guessing.
-facetLowTitle: The Pod's Careful Opening
+facetLowTitle: Beanfrank Spencer
 facetLow: A project's nearly done and the tidy thing is to close it out tonight. Instead you leave a few threads loose on purpose and walk away with them dangling.
-facetLeastTitle: Citrus Pooled Beneath the Shells
+facetLeastTitle: Bull in a Beanshop
 facetLeast: A child asks why the sky goes dark. You take the slow road through it — the whole long answer, none of it trimmed.
 question: Your teenage niece slides her phone across the kitchen table, the whole thread there, and asks whether it's over. From the first message you can see that it is. You...
 answerMost: say "it's over" in one sentence and slide the phone back
@@ -48,6 +45,4 @@ rorschachLow: a cushion slumping soft under its own weight
 rorschachLeast: dough spreading shapeless across the board
 ---
 
-Cured Edamame are the Bean Zodiac's most surgical — the reply is written before the question has finished arriving. They are the friend who, when you finally bring up the thing you've been circling, says the one sentence that ends it; the colleague whose two-line email closes a thread that had been on fire for two days. The relief of being handled this efficiently is real, and they trade on it.
-
-The shadow is that efficiency starts to feel like exit. The cut is clean, the room is quiet, and they are already in the next meeting while the person they helped is still alone with the silence that followed.
+Cured Edamame are the Bean Zodiac's most surgical. They take out the one paragraph that was doing the damage and leave everything else exactly as it was. The precision can feel bloodless from the receiving end. Hacking at something roughly to see what happens is not their method.

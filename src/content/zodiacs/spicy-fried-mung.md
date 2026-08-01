@@ -1,39 +1,36 @@
 ---
+# COMPLETELY NEEDS UPDATING — trait: high-strung -> urgent, excess: overstrung -> frantic, inverse: laid-back -> leisurely
 slug: spicy-fried-mung
+lastUpdated: 
 bean: mung
 flavour: spicy
 form: fried
-trait: high-strung
-inverse: laid-back
-excess: overstrung
-friendlyBeans: [cannellini, pinto]
-friendlyForm: fermented
-antiTriple: sour-dried-butter
-antiBeans: [adzuki, edamame]
-antiForm: roasted
-dish: Bindaetteok — Korean mung bean pancake with kimchi and gochugaru.
-quote: Beans cannot endure either perfect solitude or perfect society.
-creature: whippet
-seasonalFortune: The griddle stays hot under the spicy-fried mung; small sounds carry far in such a kitchen. A year spent ready for the next spit of oil.
+trait: urgent
+excess: frantic
+inverse: leisurely
+quote: Life moves pretty fast — if you don't stop and bean around once in a while, you could miss it.
+creature: swift
+dish: Mung vada fried with green chilli and ginger.
+friendlyBeans: [kidney, chickpea]
+friendlyForm: boiled
+antiTriple: sour-dried-fava
+antiBeans: [edamame, navy]
+antiForm: fermented
+seasonalFortune: "A season of green chilli and immediate need — the vada is wanted now, not later."
 fortuneMost: You feel the buzz through the wood before anyone else hears a thing.
-fortuneMost2: Tuned to a frequency the rest of the room can't pick up, you catch it all at once.
 fortuneHigh: The answer's loaded before the question lands.
-fortuneHigh2: Awake early, listening for the alarm that didn't go off — and nothing's wrong.
 fortuneMid: You clock who slipped out early, whose laugh came half a beat late.
-fortuneMid2: A small worry wants solving this instant.
 fortuneLow: Set the worry down for the night.
-fortuneLow2: Let the sting sit overnight; by morning it's shrunk to its true size.
 fortuneLeast: Sirens down the block are weather, not a summons.
-fortuneLeast2: The room can hum on without you tracking every note.
-facetMostTitle: Oil Before the Batter
+facetMostTitle: Beanfrantic
 facetMost: A plane hits a patch of light turbulence and the cabin barely stirs. You're already reading the crew's faces and gripping the armrest for the next jolt.
-facetHighTitle: Kimchi at the Rim
+facetHighTitle: Beancode Blue
 facetHigh: A friend's reply is taking longer than usual to come back. You've drafted three theories for the silence before the dots even appear.
-facetMidTitle: Gochugaru in the Heat
+facetMidTitle: Right Now, Bean
 facetMid: At a reunion you can feel which two old friends aren't speaking from across the garden, long before anyone says a word.
-facetLowTitle: Batter Resting in the Bowl
+facetLowTitle: Beansunday Stroll
 facetLow: A nagging dread settles in just before bed. You set it on the nightstand for the night, and meet it smaller in the morning.
-facetLeastTitle: The Pancake Cooling on the Plate
+facetLeastTitle: No Beanrush
 facetLeast: A car alarm goes off and on for an hour outside. You take it as background noise, never once wondering if it's your own.
 question: Alone in the house late, a single sharp bang comes from somewhere downstairs. You...
 answerMost: freeze, heart going, already cataloguing exits and the weight of the nearest lamp
@@ -48,6 +45,4 @@ rorschachLow: a hare at ease, ears tipping over loose
 rorschachLeast: a cat sprawled flat, whiskers drooping
 ---
 
-Red-Hot Mung Beans are the Bean Zodiac's most high-strung — wired to the room at a frequency nobody else seems to register. They hear the buzz through the table, clock who left the party early, notice the laugh that came half a beat late, and have an answer typed before the question's been finished. Friends find them quick, attuned, faintly psychic.
-
-What that costs them is mostly invisible. Their shoulders have been up since breakfast over an email that turned out to be nothing, and the urgency they kept feeling all afternoon belonged, it transpires, to somebody else.
+Red-Hot Mung Beans are the Bean Zodiac's most urgent. They hear that someone is in trouble and the response starts inside the minute — food, a lift, phone calls. Sometimes the speed decides things that needed asking about. Waiting a day to see is not available.

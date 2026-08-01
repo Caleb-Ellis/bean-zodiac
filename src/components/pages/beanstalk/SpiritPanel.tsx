@@ -36,7 +36,9 @@ export default function SpiritPanel({
   radarExpanded,
   onToggleRadar,
 }: Props) {
-  const [activeRadarTab, setActiveRadarTab] = useState<"flavour" | "form" | "bean">("bean");
+  const [activeRadarTab, setActiveRadarTab] = useState<
+    "flavour" | "form" | "bean"
+  >("bean");
   const radarKeys = ["bean", "flavour", "form"] as const;
   const touchStartXRef = useRef(0);
 
@@ -58,9 +60,21 @@ export default function SpiritPanel({
   const spiritPreparation = getPreparationName(spiritFlavourId, spiritFormId);
 
   const tabDefs = [
-    { key: "bean" as const, label: "Bean", color: `var(--bean-${spiritBeanId ?? claimedBeanId})` },
-    { key: "flavour" as const, label: "Flavour", color: `var(--flavour-${spiritFlavourId ?? claimedFlavourId})` },
-    { key: "form" as const, label: "Form", color: `var(--form-${spiritFormId ?? claimedFormId})` },
+    {
+      key: "flavour" as const,
+      label: "Flavour",
+      color: `var(--flavour-${spiritFlavourId ?? claimedFlavourId})`,
+    },
+    {
+      key: "form" as const,
+      label: "Form",
+      color: `var(--form-${spiritFormId ?? claimedFormId})`,
+    },
+    {
+      key: "bean" as const,
+      label: "Bean",
+      color: `var(--bean-${spiritBeanId ?? claimedBeanId})`,
+    },
   ];
 
   const radarProps = {
@@ -82,7 +96,9 @@ export default function SpiritPanel({
       <div className="max-lg:relative max-lg:mx-auto max-lg:w-[95%] max-lg:bg-zinc-900 max-lg:border max-lg:border-zinc-700 max-lg:rounded-xl max-lg:shadow-[0_0_24px_rgba(0,0,0,0.6)] max-lg:px-4 max-lg:pt-3 max-lg:pb-4 lg:contents">
         {spiritBean && (
           <div className="text-center shrink-0">
-            <p className="max-lg:hidden text-xs text-zinc-400 uppercase tracking-widest mb-1">Spirit Bean</p>
+            <p className="max-lg:hidden text-xs text-zinc-400 uppercase tracking-widest mb-1">
+              Spirit Bean
+            </p>
             <p className="text-lg font-bold leading-tight mb-2">
               <ZodiacName
                 flavourId={spiritFlavourId}
@@ -103,7 +119,9 @@ export default function SpiritPanel({
           {radarExpanded ? "Hide evolution ▲" : "See evolution ▼"}
         </button>
 
-        <div className={`flex-col lg:hidden ${radarExpanded ? "flex" : "hidden"}`}>
+        <div
+          className={`flex-col lg:hidden ${radarExpanded ? "flex" : "hidden"}`}
+        >
           <div className="flex gap-1 mb-2">
             {tabDefs.map(({ key, label, color }) => (
               <button
@@ -112,8 +130,16 @@ export default function SpiritPanel({
                 className="flex-1 py-0.5 rounded-md text-[10px] font-semibold transition-colors cursor-pointer"
                 style={
                   activeRadarTab === key
-                    ? { background: color + "22", color, border: `1px solid ${color}` }
-                    : { background: "transparent", color: "#71717a", border: "1px solid #71717a" }
+                    ? {
+                        background: color + "22",
+                        color,
+                        border: `1px solid ${color}`,
+                      }
+                    : {
+                        background: "transparent",
+                        color: "#71717a",
+                        border: "1px solid #71717a",
+                      }
                 }
               >
                 {label}
@@ -139,8 +165,16 @@ export default function SpiritPanel({
               className="flex-1 py-0.5 rounded-md text-[10px] font-semibold transition-colors cursor-pointer"
               style={
                 activeRadarTab === key
-                  ? { background: color + "22", color, border: `1px solid ${color}` }
-                  : { background: "transparent", color: "#71717a", border: "1px solid #71717a" }
+                  ? {
+                      background: color + "22",
+                      color,
+                      border: `1px solid ${color}`,
+                    }
+                  : {
+                      background: "transparent",
+                      color: "#71717a",
+                      border: "1px solid #71717a",
+                    }
               }
             >
               {label}

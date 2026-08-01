@@ -1,39 +1,36 @@
 ---
+# COMPLETELY NEEDS UPDATING — excess: occultish -> occult, inverse: prosaic -> rationalist
 slug: sweet-smoked-black
+lastUpdated: 
 bean: black
 flavour: sweet
 form: smoked
 trait: mystical
-inverse: prosaic
-excess: occultish
-friendlyBeans: [navy, fava]
-friendlyForm: fermented
-antiTriple: spicy-roasted-adzuki
-antiBeans: [green, kidney]
-antiForm: fried
-dish: Mole negro - black beans braised in charred mulato chile, smoked chipotle, and dark chocolate.
+excess: occult
+inverse: rationalist
 quote: There are more things in bean and earth, Horatio.
 creature: qilin
-seasonalFortune: Long braises this season. The pot holds its dark longer than the clock asks; what the chile and chocolate said to each other in the dark stays in the dark.
+dish: Smoked black beans in sweet molasses barbecue sauce.
+friendlyBeans: [navy, cannellini]
+friendlyForm: fermented
+antiTriple: spicy-fried-adzuki
+antiBeans: [chickpea, pinto]
+antiForm: roasted
+seasonalFortune: "A season of molasses and slow smoke: the sauce arrives from a recipe nobody wrote down."
 fortuneMost: Give the world the result and none of the method. What the chile and the chocolate said to each other in the dark is theirs to keep.
-fortuneMost2: Something arrives that fits your life too well to be chance. Take the sign and ask no one where it came from.
 fortuneHigh: You'll feel the weather change in a place before anyone speaks — the way the pot knows it's done before the timer.
-fortuneHigh2: The friendship that lasts is the one with a door you never quite open. Keep that chamber back.
 fortuneMid: Carry something warm to the person you hold at arm's length. The gesture says the thing you won't.
-fortuneMid2: A plain question deserves a plain answer; the deep one can stay in the pot.
 fortuneLow: One unguarded truth buys more than a month of mystique. Tell them where you actually went and what it cost you.
-fortuneLow2: Pay what you owe the day it lands, the apology as much as the bill.
 fortuneLeast: Say the plain sweet thing straight out, no smoke.
-fortuneLeast2: Open the drawer and let the drawer just be a drawer.
-facetMostTitle: Smoke Under the Lid
+facetMostTitle: Rosemary's Beanbaby
 facetMost: A traveller at the crossroads asks where the dark road leads. You know exactly, and you point them down the bright one with a smile.
-facetHighTitle: Chocolate Into Chile
+facetHighTitle: Mystic Beanriver
 facetHigh: They want to know how you guessed the ending of the film. You shrug and let them think it was luck.
-facetMidTitle: Char on the Pot's Wall
+facetMidTitle: The Third Beaneye
 facetMid: Someone presses for the recipe behind the braise. You name two spices and leave the third unspoken in the pot.
-facetLowTitle: Chile on the Tongue
+facetLowTitle: Beanthe Age of Reason
 facetLow: A grudge you've nursed for years sits between you and an old friend. Across the table, you put down the fork and just name it out loud.
-facetLeastTitle: The Clean Stove
+facetLeastTitle: Cold, Hard Beanfacts
 facetLeast: A child asks what you're thinking, point-blank. You tell them the whole true answer, no curtain drawn.
 question: An envelope appears in the post addressed to you in handwriting you don't recognise, with no stamp. Inside, a single short sentence that fits the week you've been having. You...
 answerMost: keep the sentence, burn the envelope, ask no questions of anyone
@@ -48,6 +45,4 @@ rorschachLow: a frog laid open on the table, parts labelled
 rorschachLeast: a crab in clear water, every claw visible
 ---
 
-Barbecued Black Beans are the Bean Zodiac's most mystical — and the warmth around them is the part that throws people. They put a hand on your shoulder, pour the good thing, ask the question that lands a little too cleanly, and somewhere between the second and third sip you realise you've been the one talking the whole time.
-
-What they actually think about any of it remains, as ever, behind the door. The friendship is real. The door is closed. People learn to take the warmth on the warmth's terms and stop asking what's behind it — which is, broadly speaking, fine with them.
+Barbecued Black Beans are the Bean Zodiac's most mystical. They talk about the dream, the coincidence and the timing as though they were evidence, and the strange thing is how often it fits. Sometimes it goes somewhere unreachable. A purely material explanation feels thin to them.

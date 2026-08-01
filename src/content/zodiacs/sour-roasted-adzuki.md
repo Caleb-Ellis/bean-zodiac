@@ -1,35 +1,36 @@
 ---
+# CHANGED SINCE THIS CONTENT WAS WRITTEN — excess: exhibitionist -> confessional, inverse: opaque -> shrouded
 slug: sour-roasted-adzuki
-lastUpdated: 2026-06-17
+lastUpdated: 
 bean: adzuki
 flavour: sour
 form: roasted
 trait: transparent
-inverse: opaque
-excess: exhibitionist
-friendlyBeans: [butter, pinto]
-friendlyForm: fried
-antiTriple: bitter-smoked-black
-antiBeans: [green, edamame]
-antiForm: dried
-dish: Iri-azuki - roasted adzuki beans with yuzu zest and sea salt
+excess: confessional
+inverse: shrouded
 quote: The naked bean is the most decent thing in the world.
 creature: glass frog
-seasonalFortune: A season that strips its own husks. Roasting pans go uncovered, salt sits where it falls, and the yuzu's oil reads plain on the thumb. Nothing is kept back for later.
+dish: Roasted adzuki tossed in chimichurri with red wine vinegar.
+friendlyBeans: [pinto, butter]
+friendlyForm: fried
+antiTriple: bitter-smoked-cannellini
+antiBeans: [kidney, black]
+antiForm: dried
+seasonalFortune: "A season of red wine vinegar and open kitchens — the fire shows its working to everyone."
 fortuneMost: No husk, no second meaning, nothing left unsaid.
 fortuneHigh: The honest version will arrive before the polite one.
 fortuneMid: Something kept under the lid is seeping out.
 fortuneLow: Sand the edge off before you hand it over.
 fortuneLeast: A drawer you'd rather no visitor opened. Let it stay shut.
-facetMostTitle: Yuzu Oil on the Rind
+facetMostTitle: Tell-All Bean
 facetMost: Anything to declare? You empty the whole bag onto the counter — the salt, the peel, the dented tin, all of it.
-facetHighTitle: Skin Already Split
+facetHighTitle: The Beanglass House
 facetHigh: They hand you the gift and watch you open it. You cannot help what your face does.
-facetMidTitle: Salt Before It Dissolves
+facetMidTitle: What You See Is What You Bean
 facetMid: The shop assistant guesses your size out loud and gets it a size too flattering. You correct them plainly.
-facetLowTitle: The Foil-Covered Pan
+facetLowTitle: Behind the Beanveil
 facetLow: You made two trays for the potluck and one came out wrong. You leave that one in the car and carry in only the good one.
-facetLeastTitle: Zest Without the Fruit
+facetLeastTitle: Under Beanwraps
 facetLeast: For a laugh, the whole table's trading stories on awful things they've done, and now regret. You keep quiet.
 question: Back from the vet, your niece looks up from the old dog's bed and asks if she's going to be okay. She isn't. You...
 answerMost: kneel down and tell them the truth in words you hope they understand
@@ -44,6 +45,4 @@ rorschachLow: a turtle drawing its head back under its shell
 rorschachLeast: a hibernating mouse with its face tucked away
 ---
 
-Chimichurri Adzuki Beans are the Bean Zodiac's most transparent — what you see at the door is what comes through it. The thank-you note isn't softened, the toast isn't dressed up, the bad news arrives in the same voice as the good. People around them stop bracing for subtext, because there isn't any; the celebration, when it comes, is the whole celebration.
-
-The trouble is that other people sometimes need the wrapping. The true sentence lands before the listener has finished sitting down, and the room has to reorganise itself around a fact it wasn't ready to hold. Not unkind — just early.
+Chimichurri Adzuki Beans are the Bean Zodiac's most transparent. Ask how they are and you get the real answer, including the parts most people file away. Occasionally the whole file gets opened at a work lunch. Keeping a thing to themselves feels to them like lying.

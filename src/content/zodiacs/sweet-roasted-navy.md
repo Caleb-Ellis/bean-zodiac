@@ -1,53 +1,47 @@
 ---
 slug: sweet-roasted-navy
+lastUpdated: 2026-08-01
 bean: navy
 flavour: sweet
 form: roasted
-trait: conventional
-inverse: outlandish
-excess: hidebound
-friendlyBeans: [black, butter]
+trait: neighbourly
+excess: intrusive
+inverse: standoffish
+quote: Good beans make good neighbours.
+creature: house martin
+dish: Baked navy beans roasted with molasses and brown sugar.
+friendlyBeans: [cannellini, chickpea]
 friendlyForm: dried
-antiTriple: spicy-fermented-chickpea
+antiTriple: spicy-smoked-fava
 antiBeans: [green, pinto]
-antiForm: fried
-dish: Maple and sea salt roasted navy beans — white beans roasted until caramelised, finished with a drizzle of cold maple syrup.
-quote: A bean in time saves nine.
-creature: pigeon
-seasonalFortune: The oven runs the standard hour at the standard heat. Sweetness gathers under a familiar crust; what comes out is what was meant to come out, and the table sets itself around it.
-fortuneMost: The expected dish, the expected plate, the expected hour.
-fortuneMost2: Pick the bottle you always buy.
-fortuneHigh: Six fifty-eight, wine that matches, and the evening runs on rails you helped lay.
-fortuneHigh2: The familiar varietal from the region you know works lands well this turn.
-fortuneMid: Weigh the unfamiliar option, then choose what everyone would have chosen anyway.
-fortuneMid2: One of each, and let the others decide.
-fortuneLow: Order the dish you've eyed but never tried.
-fortuneLow2: Float the strange idea you keep pocketing.
-fortuneLeast: Take one street home you've never used, no map, just to see where it goes.
-fortuneLeast2: Paint the door red on an ordinary afternoon, just to see who talks.
-facetMostTitle: The Recipe on the Card, Followed
-facetMost: A new café and the menu's full of things you can't pronounce. You order the one dish you know you'll like and look forward to it the whole walk over.
-facetHighTitle: Maple in the Measured Cup
-facetHigh: Friends want to pick a holiday by spinning a globe and going wherever a finger lands. You'd rather book the seaside town that's never once disappointed you.
-facetMidTitle: Sea Salt by the Pinch
-facetMid: The festival has a fire-walking booth and a tea tent. You eye the coals a while, then settle into the tea tent with everyone sensible.
-facetLowTitle: The Tray Turned Once
-facetLow: A busker calls for someone to come improvise a verse. The line forms in your head and you let it stay there, hands in pockets.
-facetLeastTitle: The Pan Off the Heat Too Soon
-facetLeast: A stranger holds out two sealed envelopes — one a sure small thing, one unknown. You break the seal on the mystery one without a second thought.
-question: A night market in a city you don't know. One stall is grilling something unnameable, the line is long, and a vendor waves you over. You...
-answerMost: find the noodles you recognise and order what you'd order at home
-answerHigh: pick the dish closest to something you've had before
-answerMid: ask what's in it, then decide
-answerLow: trust the line and point at the unnameable thing
-answerLeast: take whatever the vendor hands you and eat it standing up
-rorschachMost: a round loaf set beside its matching slice
-rorschachHigh: an apple resting next to a paper doily
-rorschachMid: a stone beside a clump of moss
-rorschachLow: a smooth egg next to a cracked-open shell
-rorschachLeast: a plain bun beside a wildly knotted pastry
+antiForm: fermented
+seasonalFortune: "A season of molasses and baked beans — the tray goes next door before it's asked."
+fortuneMost: The hedge gets cut on both sides, whether or not both sides asked.
+fortuneHigh: Share it while it's still warm.
+fortuneMid: Half of the fence is yours, and half is theirs.
+fortuneLow: The house martin nests under the eaves and never comes inside.
+fortuneLeast: Time with you is earned, not given.
+facetMostTitle: Neighbourbean Watch
+facetMost: A van nobody recognises has been outside the house at the end of the road since the family there went away. You photograph the plate and send it round the street asking whose it is.
+facetHighTitle: Good Neighbeans
+facetHigh: The water main has gone and the standpipe is three roads over. You fill every container you own and start knocking to find out who can't carry theirs.
+facetMidTitle: Over the Garden Bean
+facetMid: A parcel too big for the letterbox is sitting on the step next door with rain coming on. You take it in and prop a note in your window so they know where it went.
+facetLowTitle: Keep Your Beanstance
+facetLow: Someone new has moved into the flat below and their door is propped open, boxes still stacked in the hall. You say hello from the stairs and carry on up.
+facetLeastTitle: Mind Your Own Beansiness
+facetLeast: The couple opposite have invited you to a couple of events, and here they are at the bins asking if you're free this weekend for a neighbourhood get-together. You thank them warmly and keep the friendship on the doorstep.
+question: Two children from further down the road have set up a table on the pavement outside your gate, selling cupcakes they've made. On your way out, you...
+answerMost: buy a bunch, then knock on doors telling everyone to come down
+answerHigh: buy one and have a little chat, try and wave others over
+answerMid: buy one on your way past and tell them it's good
+answerLow: give them a nod as you leave
+answerLeast: walk past avoiding eye contact
+rorschachMost: a crowd at a gate
+rorschachHigh: two birds
+rorschachMid: an elephant in grass
+rorschachLow: a house behind brambles
+rorschachLeast: a kerfuffle
 ---
 
-Glazed Navy Beans are the Bean Zodiac's most conventional — the ones who bring the dish the host expected, on the plate the host expected, at the hour the host expected, and the evening works precisely because nothing in it surprises. They arrive at six fifty-eight with the wine that matches. They weigh the unfamiliar option, then choose what the room would have chosen anyway, and the choosing costs them nothing.
-
-The strange idea they nearly floated on Tuesday is still in the pocket on Friday, still good, still unsent. The form has rarely let them down — and on the rare occasion it does, they're the last to clock it.
+Glazed Navy Beans are the Bean Zodiac's most neighbourly. They take the parcel, walk the dog, and know which house has been quiet for too long. Sometimes the noticing shades onto the wrong side of the fence. Minding their own business entirely they can't.

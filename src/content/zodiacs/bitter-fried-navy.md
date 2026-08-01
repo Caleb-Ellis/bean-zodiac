@@ -1,35 +1,36 @@
 ---
+# CHANGED SINCE THIS CONTENT WAS WRITTEN — excess: trenchant -> cutting, inverse: obtuse -> woolly
 slug: bitter-fried-navy
-lastUpdated: 2026-06-29
+lastUpdated: 
 bean: navy
 flavour: bitter
 form: fried
 trait: incisive
-inverse: obtuse
-excess: trenchant
-friendlyBeans: [black, edamame]
-friendlyForm: dried
-antiTriple: spicy-roasted-chickpea
-antiBeans: [pinto, fava]
-antiForm: fermented
-dish: Crispy navy beans with bitter chicory and anchovy.
+excess: cutting
+inverse: woolly
 quote: You see the bean, but you do not observe it.
 creature: goshawk
-seasonalFortune: The oil runs hot and the chicory blackens before it bends. A season that crackles at the edges, where verdicts arrive faster than the anchovy can salt them.
+dish: Navy beans pan-scorched with rosemary and burnt garlic oil.
+friendlyBeans: [cannellini, edamame]
+friendlyForm: dried
+antiTriple: sweet-fermented-adzuki
+antiBeans: [fava, butter]
+antiForm: smoked
+seasonalFortune: "A season of burnt garlic and clean cuts. The pan removes the argument and leaves the point."
 fortuneMost: The goshawk sees the mouse the grass is hiding.
 fortuneHigh: The first version landed; the second only softened it.
 fortuneMid: Not every quiet hides a fault.
 fortuneLow: The easy answer stepped over the true one.
 fortuneLeast: Some beans are just supper, not a sign.
-facetMostTitle: The Pan's Single Spit
+facetMostTitle: Kill Bean
 facetMost: A friend brings their new partner to dinner. Before the plates clear you've formed a firm read on them, and you'd trust that read over anything they say about themselves.
-facetHighTitle: Anchovy, No Rinse
+facetHighTitle: Occam's Bean
 facetHigh: A polished ad promises everything in thirty seconds. What snags you is the one thing it is careful not to say.
-facetMidTitle: Chicory at the Bruise
+facetMidTitle: Sharp Beans
 facetMid: A friend blames traffic for being late, but you drove that same road and it was empty. You catch the mismatch and let it sit rather than pull the thread.
-facetLowTitle: Oil Slow, Bean Steady
+facetLowTitle: Woolly Beanly
 facetLow: A stranger reels off directions with full confidence, and you set off following them block after block without once checking the map.
-facetLeastTitle: Leaves the Cook Kept
+facetLeastTitle: Cloudy with a Chance of Beans
 facetLeast: Someone you've just met promises they'll call. You take it at face value, no weighing of whether they mean it.
 question: On the corner a magician makes a borrowed ring vanish, and the crowd gasps. You...
 answerMost: catch the exact moment of the switch
@@ -44,6 +45,4 @@ rorschachLow: a hunched cat asleep, paws tucked under
 rorschachLeast: a soft ball of wool, ends frayed loose
 ---
 
-Scorched Navy Beans are the Bean Zodiac's most incisive. Hand one a tangle — a stalled project, a story that doesn't quite line up, a friend who swears they're fine — and they go straight to the thread that matters and pull it, while everyone else is still reading the preamble. They cut through the noise to the one real thing, and they are right often enough that people have mostly stopped arguing.
-
-The read just lands so fast it skips the step where it might be wrong. They've summed you up before your second sentence is out, and the summary — sharp, clean, usually fair — leaves you little room to be anything more than it.
+Scorched Navy Beans are the Bean Zodiac's most incisive. One sentence and the argument that ran an hour is over, because they named the thing everyone was circling. The sentence sometimes takes skin with it. Vague, generous summaries of a problem make them visibly restless.

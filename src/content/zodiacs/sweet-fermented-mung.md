@@ -1,39 +1,36 @@
 ---
+# COMPLETELY NEEDS UPDATING — excess: toothless -> timid, inverse: brutal -> brutish
 slug: sweet-fermented-mung
+lastUpdated: 
 bean: mung
 flavour: sweet
 form: fermented
 trait: gentle
-inverse: brutal
-excess: toothless
-friendlyBeans: [fava, butter]
-friendlyForm: smoked
-antiTriple: spicy-dried-green
-antiBeans: [edamame, black]
-antiForm: fried
-dish: Bánh men — Vietnamese sweet mung bean cakes made with fermented rice wine batter, steamed until just set.
+excess: timid
+inverse: brutish
 quote: In a tough world, the most rebellious thing you can do is be a gentle bean.
 creature: doe
-seasonalFortune: A season in which rice wine quietly turns the bean toward sweetness. Steam rises over covered cakes; the work that matters happens beneath cloth, unwitnessed.
+dish: Sweet mung dosa from jaggery-fermented batter.
+friendlyBeans: [kidney, butter]
+friendlyForm: smoked
+antiTriple: sour-dried-green
+antiBeans: [edamame, fava]
+antiForm: fried
+seasonalFortune: "A season of jaggery batter and soft rising: the dosa never raises its voice."
 fortuneMost: Find the register that lets the difficult one be wrong without shame.
-fortuneMost2: When the room raises its voice, lower yours.
 fortuneHigh: The tired friend's first answer was hiding a second one.
-fortuneHigh2: The kind thing you wrote to talk yourself down fits someone else just as well.
 fortuneMid: Turn the patience inward.
-fortuneMid2: A good thing is coming to a plain evening — and you, of all people, are allowed to enjoy it without earning it first.
 fortuneLow: Name it at its real volume, no softening preface.
-fortuneLow2: Kind and clear at the same time — say it straight and sweet, no cushion.
 fortuneLeast: The blunt thing, said across the table.
-fortuneLeast2: Lead with the ask, skip the easing-in entirely.
-facetMostTitle: The Cake Set Just So
+facetMostTitle: The Beancowardly Lion
 facetMost: A new hire just sent the whole order to the wrong address, and they've gone white waiting for the fallout. You pitch your voice low and easy, finding the words that let the mistake be a mistake and nothing worse.
-facetHighTitle: Rice Wine in the Batter
+facetHighTitle: The Gentle Beangiant
 facetHigh: An argument in the kitchen is climbing toward shouting, plates rattling with it. You don't match the volume — you drop under it, soft enough that the room has to quiet itself to hear you.
-facetMidTitle: Steam Loosening
+facetMidTitle: Softly, Beansoftly
 facetMid: A market seller you like looks hollowed out behind the smile they're giving every customer. Hang back till the queue clears and ask the gentler, truer question their stock answer was covering.
-facetLowTitle: Batter Before the Bloom
+facetLowTitle: A Clockwork Beanorange
 facetLow: The plan on the table is plainly a bad one and a long apologetic preamble is already forming in your mouth. You skip the cushion and say it's wrong at the volume it deserves.
-facetLeastTitle: The Lifted Lid
+facetLeastTitle: Rough Beanjustice
 facetLeast: A roomful of people are dancing around the obvious thing nobody will name. You say it flat, no soft landing arranged in front of it, and the air clears.
 question: Your grown child calls, clearly stretched thin themselves, and asks if everything's alright with you — and it isn't, quite. You...
 answerMost: tell them all's well and turn the whole call gently back to them
@@ -48,6 +45,4 @@ rorschachLow: a mace hanging heavy from its spiked head
 rorschachLeast: a thistle bristling with downward thorns
 ---
 
-Funky Mung Beans are the Bean Zodiac's gentlest — not in the soft-edged, easily-bruised sense, but in the precise way of someone who has worked out, slowly and privately, what care actually requires. They lower their voice when the room raises its own. They find the question the tired friend's first answer was hiding, and ask it. Rooms recalibrate around them without quite knowing why.
-
-The gentleness rarely turns inward. They will sit up till midnight rewriting a kind reply to a colleague, then climb into bed with the harshest possible review of their own day. The standard they hold for others — patient, generous, slow to judge — does not appear to apply to the bean holding it.
+Funky Mung Beans are the Bean Zodiac's most gentle. Whatever they have to tell you arrives at a speed you can take, with nothing sharp in it. Sometimes it arrives too gently to register. Being hard-edged, even where it is warranted, they can't.

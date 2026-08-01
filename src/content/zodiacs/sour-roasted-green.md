@@ -1,39 +1,36 @@
 ---
+# COMPLETELY NEEDS UPDATING — trait: cheerful -> ebullient, inverse: morose -> subdued
 slug: sour-roasted-green
+lastUpdated: 
 bean: green
 flavour: sour
 form: roasted
-trait: cheerful
-inverse: morose
+trait: ebullient
 excess: manic
-friendlyBeans: [adzuki, kidney]
+inverse: subdued
+quote: Nothing great in the world was ever achieved without beans!
+creature: sea lion
+dish: Blistered green beans with chimichurri and toasted almond.
+friendlyBeans: [chickpea, kidney]
 friendlyForm: fried
-antiTriple: bitter-smoked-fava
-antiBeans: [black, cannellini]
+antiTriple: umami-boiled-cannellini
+antiBeans: [butter, navy]
 antiForm: dried
-dish: Fagiolini al limone - oven-roasted green beans with lemon zest, garlic, and toasted almonds
-quote: The most bean thing you can do is smile through your tears.
-creature: bluebird
-seasonalFortune: Lemon and roast carry through the house long after the pan cools; brightness keeps moving room to room, settling where it is needed.
+seasonalFortune: "A season of toasted almond and rising noise; the blistering is loud and glad about it."
 fortuneMost: Warmth comes back to you doubled this turn, the way lemon carries through a house long after the pan has cooled.
-fortuneMost2: You change the air of a place just by walking in.
 fortuneHigh: Keep the exclamation point.
-fortuneHigh2: Bring the warmth through the door and let the temperature lift on its own.
 fortuneMid: The second coffee, made without anyone asking.
-fortuneMid2: Brightness aimed beats brightness sprayed.
 fortuneLow: When the bright reply starts skating over something heavy, drop the bit and ask one quiet question.
-fortuneLow2: Some exits want no brightening — let whoever needs to slip out just go.
 fortuneLeast: Brightness kept in the jar keeps just fine.
-fortuneLeast2: Match the low mood and let someone else warm the room.
-facetMostTitle: Garlic at the Open Door
+facetMostTitle: Beanmania
 facetMost: A glum elevator full of strangers stares at the floor numbers. You crack the silence with something warm and watch the whole box thaw.
-facetHighTitle: Zest Over a Stranger's Afternoon
+facetHighTitle: Beanbubbly
 facetHigh: The market vendor looks like the day's worn them down to nothing. You're first with the hello, bright and meant, before they've weighed a thing.
-facetMidTitle: The Almond, Cracked Clean
+facetMidTitle: Beangood Vibrations
 facetMid: One person on the edge of the group looks left out of the joke. You aim the warmth their way and pull them back into the circle.
-facetLowTitle: Beans Cooling on the Pan
+facetLowTitle: Turn It Down, Bean
 facetLow: A friend sets something heavy down between you, and your bright reply is already half-formed. You swallow it, go still, and ask one quiet question instead.
-facetLeastTitle: Lemon Kept Back
+facetLeastTitle: Beanunplugged
 facetLeast: The gathering's gone subdued and someone else is already working to lift it. You let your own brightness rest, match the hush, and hang back.
 question: You step into a tense kitchen at a party where two friends have just had a small spat. You...
 answerMost: greet the room, refill glasses, get them laughing inside a minute
@@ -48,6 +45,4 @@ rorschachLow: wilted petals drooping over a chipped clay pot
 rorschachLeast: cold ash settling over a dark mound
 ---
 
-Chimichurri Green Beans are the Bean Zodiac's most cheerful — the brightness keeps moving room to room, settling where it is needed. They greet the cashier first, keep the exclamation point in the reply, make the second coffee without being asked. The warmth doesn't read as performance because it isn't: a hard week shows up in the voice, and the cheer arrives anyway, alongside it.
-
-The shadow is that they sometimes get reached for as a mood and not a person. A friend tips a heavy thing onto the table and the bright reply skates across it before either of them has registered the weight.
+Chimichurri Green Beans are the Bean Zodiac's most ebullient. They arrive already talking, the flat wakes up around them, and everyone stays two hours longer than planned. Sometimes it is a lot at nine in the morning. Being quietly present in a corner is not available.

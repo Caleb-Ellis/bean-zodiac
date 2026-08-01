@@ -100,6 +100,20 @@ whole point"), never the one that lands the bittersweet.
 **Guardrail:** vague _meaning_, sharp _image_. One literal thing the reader can
 see; the "so what" floats. No riddles, no stacked metaphors. Feeling on one read.
 
+## `seasonalFortune`
+
+Not part of the gradient — one hazy, wide forecast of the _season_, written at
+the trait's natural pitch. **Twenty-five words, hard.**
+
+The season is the subject, not the reader: a forecast, never an instruction.
+Shape that works — a bare noun-pair naming the weather, then one clause of what
+the season does with it.
+
+> A season of hot oil and short odds — what goes in quickly comes out gold.
+
+Both halves must be this bean's. A short tail pricing the excess is optional; make
+it a cost, not a condition.
+
 ## Hard rules
 
 - **Wears the entry's face.** Built from _this_ entry's zodiac, creature, texture —

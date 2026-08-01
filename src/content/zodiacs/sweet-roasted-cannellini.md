@@ -1,39 +1,36 @@
 ---
+# COMPLETELY NEEDS UPDATING — trait: empowering -> welcoming, excess: messianic -> insistent, inverse: diminishing -> forbidding
 slug: sweet-roasted-cannellini
+lastUpdated: 
 bean: cannellini
 flavour: sweet
 form: roasted
-trait: empowering
-inverse: diminishing
-excess: messianic
-friendlyBeans: [adzuki, fava]
+trait: welcoming
+excess: insistent
+inverse: forbidding
+quote: You catch more beans with honey.
+creature: hornbill
+dish: Cannellini roasted with honey, thyme, and lemon.
+friendlyBeans: [navy, edamame]
 friendlyForm: fried
-antiTriple: spicy-fried-kidney
-antiBeans: [fava, black]
+antiTriple: spicy-fermented-fava
+antiBeans: [mung, adzuki]
 antiForm: smoked
-dish: Cannellini roasted in maple and sage — white beans blistered in the oven with maple syrup and fresh sage until caramelised.
-quote: As we let our own bean shine, we unconsciously give others permission to do the same.
-creature: phoenix
-seasonalFortune: A season of pooled maple and slow oven warmth, where the amber on one bean teaches the next to brown. Brightness spreads by being near it.
+seasonalFortune: "A season of honey and thyme: the door stays open and the tray keeps coming."
 fortuneMost: The amber on one bean teaches the next to brown — and that's you near anyone trying.
-fortuneMost2: When the quiet one finally speaks, name what they did so it's heard twice.
 fortuneHigh: Hand over the credit before anyone asks whose idea it was.
-fortuneHigh2: Put their name forward where it counts, unasked.
 fortuneMid: Stepping back is sometimes a quiet gift.
-fortuneMid2: Quote someone's half-thought back as the whole point.
 fortuneLow: Apply for the thing yourself this time.
-fortuneLow2: A flat compliment and a move-on, just this once.
 fortuneLeast: Name the embarrassingly specific thing you want out loud — not the polished, manageable answer that stays browning in the pan.
-fortuneLeast2: Buy yourself the better thing.
-facetMostTitle: Sage Darkening in Its Oil
+facetMostTitle: Won't Take No for a Bean
 facetMost: A nervous kid steps up to the open mic and forgets the first line. You're the one who calls out the encouragement that gets them going.
-facetHighTitle: The Crust Holds, Inside Soft
+facetHighTitle: Welcome Beanhome
 facetHigh: The trophy ends up in your hands but the win was the whole team's. You're already passing it down the line for everyone else to lift first.
-facetMidTitle: Maple in the Crevice
+facetMidTitle: Open Beanhouse
 facetMid: Someone in the circle mumbles an idea and lets it trail off. You lean in and ask them to say the second half out loud.
-facetLowTitle: The Tray Pulled Early
+facetLowTitle: Forbidden Beanplanet
 facetLow: A beginner asks if you'll show them the trick you're known for. You keep it to yourself and let them work it out alone.
-facetLeastTitle: Beans Cooling on the Sheet
+facetLeastTitle: Keep Out, Bean
 facetLeast: There's one spotlight on the stage and room enough for one. You step into it and let the others find their own light.
 question: A role opens up that you'd be good at and a friend would also be good at. They mention it first, half-joking, over drinks. You...
 answerMost: spend the evening helping them draft the application
@@ -48,6 +45,4 @@ rorschachLow: a figure hunched over its folded arms
 rorschachLeast: a fist clenched above two locked knees
 ---
 
-Glazed Cannellini Beans are the Bean Zodiac's most empowering — the ones who name the quiet colleague's half-thought back to the room as the whole point, who forward the junior's work upward with one line that lands it. Praise leaves them so cleanly it doesn't even feel like generosity; it feels like accurate reporting.
-
-The bill for it shows up late and in private. Asked what they want for themselves, they reach for the polished, manageable answer — and the embarrassingly specific one stays in the pan, browning quietly, eaten standing up at the counter when nobody's watching.
+Glazed Cannellini Beans are the Bean Zodiac's most welcoming. The kettle is on before your coat is off, and a bed is made whether or not you said you were staying. Sometimes the hospitality won't take no. Turning somebody away isn't a door they'll use.

@@ -1,39 +1,36 @@
 ---
+# COMPLETELY NEEDS UPDATING — excess: cutting -> rude
 slug: sour-fried-edamame
+lastUpdated: 
 bean: edamame
 flavour: sour
 form: fried
 trait: blunt
+excess: rude
 inverse: mealy-mouthed
-excess: cutting
-friendlyBeans: [green, chickpea]
-friendlyForm: dried
-antiTriple: bitter-fermented-black
-antiBeans: [mung, cannellini]
-antiForm: smoked
-dish: Edamame gyoza with black vinegar dipping sauce - pan-fried edamame dumplings with Zhenjiang vinegar.
 quote: A bean that is used to lying will find that the truth is a very uncomfortable thing.
 creature: ox
-seasonalFortune: A season for unwrapped verdicts. The vinegar arrives undiluted at table, and the wrappers crisp without ceremony in the oil.
+dish: Edamame stir-fried with black vinegar and chilli.
+friendlyBeans: [fava, pinto]
+friendlyForm: fermented
+antiTriple: sweet-smoked-kidney
+antiBeans: [black, mung]
+antiForm: fermented
+seasonalFortune: "A season of black vinegar and no cushioning — the pan says it and moves on."
 fortuneMost: Unwrapped is the only way you know how to serve, and it's the way they came hungry for.
-fortuneMost2: Plain as black vinegar, no sweetness stirred in.
 fortuneHigh: Someone goes fishing for a softer answer, and there isn't one.
-fortuneHigh2: The filling feeds them, not the wrapper.
 fortuneMid: True and useful aren't the same thing.
-fortuneMid2: Pause long enough to tell which this is.
 fortuneLow: The sentence you trimmed for kindness was the load-bearing one; the rest was just wrapper.
-fortuneLow2: Wrap the hard thing in a gentler one.
 fortuneLeast: After a word lands hard, lead with the apology and let the reasons go.
-fortuneLeast2: A difficult truth can cool on the sill a while before it's carried in.
-facetMostTitle: Vinegar, Unannounced
+facetMostTitle: Beanrude Boy
 facetMost: A friend's new partner asks straight out what you think of them. You give the unvarnished read, warts and all, then reach for your drink.
-facetHighTitle: The Split Wrapper
+facetHighTitle: The Weakest Bean
 facetHigh: A busker asks if they're any good as you pass. They're not, and you tell them so flat instead of dropping a coin and a lie.
-facetMidTitle: Receipt on the Counter
+facetMidTitle: Call a Bean a Bean
 facetMid: Asked along to a party you've no interest in, you just say no — no manufactured excuse, no soft maybe to cushion it.
-facetLowTitle: Steam, Folded Back
+facetLowTitle: Uriah Beanheep
 facetLow: A nervous cook serves you a dish that's plainly under-seasoned. You praise the crust, mention the salt gently, and leave them standing taller.
-facetLeastTitle: The Extra Hour
+facetLeastTitle: Beating Around the Bean
 facetLeast: A houseguest's gift is genuinely hideous and they want it hung where everyone sees. Up it goes on the wall, and you find three honest things to love about it.
 question: At the bar's last call a stranger you've been talking to jangles their keys and asks if they're okay to drive. They are plainly not. You...
 answerMost: say "you're not driving" flat, and mean it
@@ -48,6 +45,4 @@ rorschachLow: two mittens laid out to dry on a rail
 rorschachLeast: two pillows dented soft side by side
 ---
 
-Agrodolce Edamame are the Bean Zodiac's most blunt — the sentence arrives unwrapped, and the listener can either eat it or not. There's no preamble to chew through, no "I just want to say," no managing of the temperature before delivery; the thing is on the table, and what they do with it is their business.
-
-The line they sometimes miss is the one between true and useful. A blunt Edamame can be telling someone a fact that nobody asked them to clarify and feel they've performed a service. The truth was correct. The serving of it was the part that needed asking about.
+Agrodolce Edamame are the Bean Zodiac's most blunt. They give you the number, the deadline and the problem in one breath, no cushioning anywhere. On a bad day it lands as contempt. Hedging a thing into something softer strikes them as a way of lying.

@@ -2,12 +2,12 @@
 slug: fried
 name: Fried
 tagline: The Form that ignites.
-traits: [decisive, passionate, energetic, bold, irascible]
-toneOfVoice: Delivers fast and decisive; all at once, and quick to flare.
+positiveTraits: [immediate, decisive, committed, unhedged, catalytic]
+negativeTraits: [rash, combustible]
 ---
 
 Frying is transformation by fire — fast, total, and irreversible. The oil is screaming hot before the Bean arrives. There is no slow build, no gentle acclimatisation. What goes in emerges immediately changed: sealed, vivid, crackling with energy.
 
-Fried Beans are kinetic. They move through the world with a characteristic heat — decisive, passionate, difficult to ignore. They process experience through action rather than reflection: the doing is the thinking. They are often the ones who start something, who push past hesitation.
+Fried Beans commit. They process experience through action rather than reflection: the doing is the thinking, and the decision is made in the same motion that carries it out. Nothing is provisional. Whatever they touch is changed by the time anyone has finished discussing it.
 
-The Fried Bean's shadow is irascibility. The same heat that transforms is the heat that burns. The Fried Season asks you to know the difference.
+The Fried Bean's shadow is irreversibility. Oil offers no second attempt — what goes in comes out altered, ready or not. The Fried Season asks you to be sure of the pan before the Bean goes in.

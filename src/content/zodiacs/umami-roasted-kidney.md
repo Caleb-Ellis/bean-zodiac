@@ -1,35 +1,36 @@
 ---
+# CHANGED SINCE THIS CONTENT WAS WRITTEN — trait: extravagant -> openhearted, excess: insatiable -> defenceless, inverse: thrifty -> walled
 slug: umami-roasted-kidney
-lastUpdated: 2026-07-05
+lastUpdated: 
 bean: kidney
 flavour: umami
 form: roasted
-trait: extravagant
-inverse: thrifty
-excess: insatiable
-friendlyBeans: [fava, green]
-friendlyForm: fermented
-antiTriple: bitter-smoked-cannellini
-antiBeans: [black, edamame]
+trait: openhearted
+excess: defenceless
+inverse: walled
+quote: I wear my bean upon my sleeve.
+creature: great pyrenees
+dish: Kidney beans roasted in beef dripping with onion.
+friendlyBeans: [mung, butter]
+friendlyForm: boiled
+antiTriple: sour-smoked-black
+antiBeans: [edamame, cannellini]
 antiForm: fermented
-dish: Roasted kidney beans with porcini, truffle oil, and thyme.
-quote: I have nothing to declare except my bean.
-creature: peacock
-seasonalFortune: Truffle oil pools darker than the bowl beneath; the season runs long on a single note, and what looked like surplus turns out to be the threshold.
+seasonalFortune: "A season of beef dripping and onion — the tray holds nothing back, and nothing back."
 fortuneMost: The peacock never half-spreads its tail.
 fortuneHigh: The gift might be too big for the doorway.
 fortuneMid: One sprig of thyme scents the whole roast.
 fortuneLow: The frames stay in the box — the bare wall asks for nothing.
 fortuneLeast: The good bottle stays corked; they get the house pour.
-facetMostTitle: Porcini in the Hand
+facetMostTitle: Sitting Beanduck
 facetMost: You offered to host a small dinner, just close friends and their partners. There's now a caterer, a case of champagne, and a table laid for twenty — and you're starting to wonder whether twenty is quite enough.
-facetHighTitle: Thyme on Every Curtain
+facetHighTitle: Open Beanarms
 facetHigh: A friend admires the coat you're wearing, thinking they might like one similar. You immediately take it off and offer it to them, in part to be generous, but mostly so you have an excuse to get a new one.
-facetMidTitle: Roasted Past Tender
+facetMidTitle: My Bean Will Go On
 facetMid: You were told to just bring yourself. You turn up with a box of the chocolates you swear by and an armful of peonies anyway.
-facetLowTitle: Salt, Nothing Else
+facetLowTitle: The Beanfortress
 facetLow: Everyone says book the suite with the view, go on and treat yourself. You'd rather take the plain room and put the difference toward a few more days away.
-facetLeastTitle: Truffle at Its Sharpest
+facetLeastTitle: The Beankeep
 facetLeast: The whole table's going in on the tasting menu and the wine flight. You order the one dish you had your eye on and leave it at that.
 question: An unexpected windfall clears into your account — more than a month's pay, all at once. You...
 answerMost: blow the whole lot before the month is up
@@ -44,6 +45,4 @@ rorschachLow: a hedge, partially empty of leaves
 rorschachLeast: a worn broom head
 ---
 
-Rendered Kidney Beans are the Bean Zodiac's most extravagant — and they mean it every time. The longer letter, the better bottle, the room furnished until it answers back. When they show up for someone, they show up with weather. The friend on the receiving end remembers the gesture a decade later and still can't quite explain why it landed so hard.
-
-The shadow is the hour after the party, and the hour after that. They stay too long thickening the conversation no one asked them to thicken, and leave faintly bewildered that the room cooled.
+Rendered Kidney Beans are the Bean Zodiac's most openhearted. They let people all the way in on the first meeting, and mostly it goes well. Sometimes there is nothing between them and the wrong person. Keeping a guard up they have never learnt.

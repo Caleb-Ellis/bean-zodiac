@@ -1,35 +1,36 @@
 ---
+# CHANGED SINCE THIS CONTENT WAS WRITTEN — trait: biting -> unblinking, excess: savage -> merciless, inverse: balmy -> squeamish
 slug: sour-smoked-fava
-lastUpdated: 2026-06-13
+lastUpdated: 
 bean: fava
 flavour: sour
 form: smoked
-trait: biting
-inverse: balmy
-excess: savage
-friendlyBeans: [chickpea, pinto]
-friendlyForm: fried
-antiTriple: umami-boiled-cannellini
+trait: unblinking
+excess: merciless
+inverse: squeamish
+quote: If you gaze long into a bean, the bean gazes also into you.
+creature: gharial
+dish: Smoked fava cured with verjuice and thyme.
+friendlyBeans: [edamame, green]
+friendlyForm: fermented
+antiTriple: umami-roasted-mung
 antiBeans: [butter, adzuki]
-antiForm: roasted
-dish: Bessara - Moroccan smoked fava bean purée with harissa, cumin, and preserved lemon
-quote: If you can't stand the bean, get out of the kitchen.
-creature: piranha
-seasonalFortune: Smoke clings to the mortar long after the pestle stills. Preserved lemon darkens; cumin cracks; harissa waits in the corner of the bowl for whoever stirs first.
+antiForm: boiled
+seasonalFortune: "A season of verjuice and steady staring: the smoke watches the thing nobody else will."
 fortuneMost: You don't need to shout to be felt.
 fortuneHigh: Once is enough.
 fortuneMid: Ask the question then go quiet.
 fortuneLow: The next sharp comment will be right and useless both.
 fortuneLeast: They've been handing you the edited version, having learned what the ugly one costs.
-facetMostTitle: Harissa at the Rim
+facetMostTitle: No Beanmercy
 facetMost: A speaker on stage has just told an outright lie. Your hand is up before the clapping settles, and the question you're about to ask has teeth.
-facetHighTitle: Cumin Under the Pestle
+facetHighTitle: Don't Blink, Bean
 facetHigh: A coworker wants you to dress up bad news for their boss. You hand back the bare version — true, short, no padding — and let them carry it as it is.
-facetMidTitle: Preserved Lemon in a Quiet Bowl
+facetMidTitle: The Beanstaring Contest
 facetMid: The host asks how the dish turned out and means it. Overcooked, you say, evenly — and that's where you leave it.
-facetLowTitle: Smoke Into the Wider Room
+facetLowTitle: Look Away, Bean
 facetLow: There's a sharp comeback fully formed and aimed at someone who'd feel it for a week. Swallow it, reach for something duller, and let the clean little hit go unscored.
-facetLeastTitle: The Smoothed Purée
+facetLeastTitle: Faint at the Bean
 facetLeast: A driver cuts in front of you and then stalls, flustered, at the light. The cutting remark is loaded and easy; you wave them through instead and let it go.
 question: In the busy square a passer-by dips a hand into the busker's open guitar case and palms a fold of notes, smooth as anything. You saw it. You...
 answerMost: call it out across the square and hold your hand out for it back
@@ -44,6 +45,4 @@ rorschachLow: two cats dozing back to back
 rorschachLeast: two clouds drifting gently apart
 ---
 
-Cured Fava Beans are the Bean Zodiac's most biting — they speak the sentence the rest of the table has decided not to. They are the friend who, when the conversation politely edges past the obvious thing, walks straight back to it and names it; the colleague who replies to the careful memo with the question it was designed to prevent. The air after they speak is fresher than it has been all week, and they know it.
-
-The flaw is that the second bite arrives before the first has been swallowed. The point was fair, the second pass is reflex, and somewhere in the room a person has stopped meeting their eye.
+Cured Fava Beans are the Bean Zodiac's most unblinking. They look at the scan, the numbers, the state of the marriage, and describe them without flinching. Sometimes there is no mercy left in the description. Looking away from a bad thing they do not allow themselves.

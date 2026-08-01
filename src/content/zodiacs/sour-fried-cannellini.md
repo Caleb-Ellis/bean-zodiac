@@ -1,35 +1,36 @@
 ---
+# QUICK REVIEW — trait, excess and inverse all unchanged
 slug: sour-fried-cannellini
-lastUpdated: 2026-07-16
+lastUpdated: 
 bean: cannellini
 flavour: sour
 form: fried
 trait: meticulous
+excess: obsessive
 inverse: sloppy
-excess: overprecise
-friendlyBeans: [mung, edamame]
-friendlyForm: boiled
-antiTriple: umami-smoked-mung
-antiBeans: [black, fava]
-antiForm: fermented
-dish: Fagioli al limone con capperi - Italian cannellini beans pan-fried with capers, garlic, and lemon zest.
 quote: For every bean, there is a season, and a proper form.
 creature: satin bowerbird
-seasonalFortune: Lemon zest keeps in a clean jar; capers hold in their brine. A cannellini life runs on small inventories — each thing named, weighed, set in its row.
+dish: Fagioli al limone con capperi - cannellini pan-fried with capers and lemon zest.
+friendlyBeans: [edamame, mung]
+friendlyForm: dried
+antiTriple: umami-fermented-adzuki
+antiBeans: [butter, pinto]
+antiForm: smoked
+seasonalFortune: "A season of caper and lemon zest — every element placed, and the placing takes the season."
 fortuneMost: One crooked twig ruins the nest.
 fortuneHigh: Wipe the rim before you hand it over.
 fortuneMid: Give it another look; the first pass missed something.
 fortuneLow: Get the front right; no one sees the back.
 fortuneLeast: Don't worry if it's got a little smudge on it.
-facetMostTitle: The Unbroken Ribbon
+facetMostTitle: Black Beanswan
 facetMost: You've iced a birthday cake and the piped name is evenly spaced except for one letter sitting a hair too low. You reach for a knife to scrape the whole word off and do it again.
-facetHighTitle: Oil Wiped From the Rim
+facetHighTitle: Beanphantom Thread
 facetHigh: Reversing into a tight parking spot, you shunt back and forth until the car sits perfectly parallel between the lines, as many times as it takes.
-facetMidTitle: Garlic Sliced Thin
+facetMidTitle: The Queen's Beanmbit
 facetMid: Packing a suitcase for the trip, you find yourself rolling each shirt to the same width and lining the shoes up heel-to-toe along the bottom.
-facetLowTitle: Beans From the Tin
+facetLowTitle: Beanpigpen
 facetLow: You've cut your own fringe over the bathroom sink and it's come out a tiny bit crooked. You decide it's close enough and head out the door.
-facetLeastTitle: Everything at Once
+facetLeastTitle: Beanhoarders
 facetLeast: Making a weeknight dinner, you tear through every spoon, bowl and pan in the kitchen and leave the dishes towering in the sink to deal with tomorrow.
 question: What's your handwriting like?
 answerMost: neat as print, every letter even and upright
@@ -44,6 +45,4 @@ rorschachLow: a torch engulfed in flame
 rorschachLeast: a splatter of ink
 ---
 
-Agrodolce Cannellini Beans are the Bean Zodiac's most meticulous — they catch the thing that was about to go out wrong, and they catch it without slowing down. The proofread happens in the same breath as the writing; the misaligned shelf is squared on the way past it; the email everyone else thought was finished comes back with one quiet correction that saves the morning.
-
-The cost is that they see the seams in other people's work too, and not all of those seams were theirs to mention. Most go unmentioned. A few don't, and the room learns to hand them the draft a little later each time.
+Agrodolce Cannellini Beans are the Bean Zodiac's most meticulous. Every wire is labelled, every version numbered, and when something breaks at midnight the fix takes four minutes. The labelling can become the whole evening. Leaving a thing half-tidy and walking away is not restful for them.

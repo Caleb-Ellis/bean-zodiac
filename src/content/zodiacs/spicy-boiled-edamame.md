@@ -1,39 +1,36 @@
 ---
+# COMPLETELY NEEDS UPDATING — trait: hardworking -> industrious, excess: burned-out -> workaholic, inverse: indolent -> idle
 slug: spicy-boiled-edamame
+lastUpdated: 
 bean: edamame
 flavour: spicy
 form: boiled
-trait: hardworking
-inverse: indolent
-excess: burned-out
-friendlyBeans: [kidney, navy]
-friendlyForm: fried
-antiTriple: sour-fermented-chickpea
-antiBeans: [mung, butter]
-antiForm: smoked
-dish: Szechuan boiled edamame with doubanjiang and dried chilies.
+trait: industrious
+excess: workaholic
+inverse: idle
 quote: Genius is one per cent inspiration and ninety-nine per cent beans.
 creature: beaver
-seasonalFortune: A long simmer salts the year for this one; chili oil collects on the surface of every month, and the pod gives only to a steady hand.
+dish: Edamame braised in doubanjiang broth.
+friendlyBeans: [chickpea, navy]
+friendlyForm: roasted
+antiTriple: sour-smoked-pinto
+antiBeans: [butter, fava]
+antiForm: fermented
+seasonalFortune: "A season of doubanjiang and steady labour: the broth never stops, and neither does the kitchen."
 fortuneMost: Knock the worst thing off the list before the coffee's even cool.
-fortuneMost2: The head start is the thing you do best, and it's about to pay.
 fortuneHigh: Effort you've been pouring out quietly is about to be seen by the right person.
-fortuneHigh2: Someone always ferries the bowls past their own seat, and it's always you.
 fortuneMid: Give the task a hard edge to stop at.
-fortuneMid2: Come back to it in pieces, salting it with small fixes, and close it only when the broth's reduced.
 fortuneLow: The answer you're grinding for is through a different door entirely.
-fortuneLow2: Step over the unfinished thing and take the long walk anyway.
 fortuneLeast: Cancel the thing you'd only attend out of grim duty.
-fortuneLeast2: Bed early, work half-done.
-facetMostTitle: Dawn, Chili-Red
+facetMostTitle: Glengarry Glen Bean
 facetMost: Firewood gathered, water fetched, breakfast on the coals — and the others are only just yawning out of their tents.
-facetHighTitle: Doubanjiang on the Board
+facetHighTitle: The Ant and the Beanhopper
 facetHigh: The volunteer crew breaks for lunch with half the fence still up. You eat standing, hammer in hand, and keep posting rails.
-facetMidTitle: The Tab Since Tuesday
+facetMidTitle: Whistle While You Bean
 facetMid: The garden bed only needs the last row planted. Chip at it across the afternoon and don't down tools until the soil's patted flat.
-facetLowTitle: Pods in the Colander
+facetLowTitle: Beanidle Hands
 facetLow: Half the laundry's still on the line and rain's nowhere near. Why not leave it and stretch out in the hammock instead?
-facetLeastTitle: Heat Across the Tongue
+facetLeastTitle: The Lazy Beansong
 facetLeast: There's a free morning and a dozen chores with your name on them. You stay under the covers and let every one of them keep.
 question: First day of the holiday, a lounger by the pool, sun out, the whole week ahead with nothing required of you. You...
 answerMost: get up and map the itinerary so not an hour of it goes to waste
@@ -48,6 +45,4 @@ rorschachLow: two low hills drowsing under scattered clouds
 rorschachLeast: two islands adrift in a calm channel
 ---
 
-Braised Edamame are the Bean Zodiac's most hardworking — already at the second pot by the hour most people surface for coffee, ferrying bowls past their own seat at the table because someone has to. The list shrinks behind them in a way that looks effortless and isn't; they simply decided, long before the day started, that it would.
-
-The shadow shows when somebody else takes a Sunday off. They feel, against their better judgement, slightly betrayed by it — and the rest is not quite available to them either, because the pot is still soaking and surely there's something they could start.
+Braised Edamame are the Bean Zodiac's most industrious. The list gets done, then the next list, and the shed everyone talked about for years is built by August. The work fills whatever space it is given. A free Sunday with nothing in it makes them anxious.

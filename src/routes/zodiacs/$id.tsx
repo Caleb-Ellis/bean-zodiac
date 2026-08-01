@@ -1,5 +1,6 @@
-import { createFileRoute, Link, notFound } from "@tanstack/react-router";
+import { createFileRoute, notFound } from "@tanstack/react-router";
 import ReactMarkdown from "react-markdown";
+import BackLink from "../../components/zodiac/BackLink";
 import Bean from "../../components/zodiac/Bean";
 import BeanBadge from "../../components/zodiac/BeanBadge";
 import FlavourBadge from "../../components/zodiac/FlavourBadge";
@@ -59,12 +60,7 @@ export const Route = createFileRoute("/zodiacs/$id")({
               <Bean bean={bean} flavourId={flavourId} formId={formId} />
             </div>
             <div className="p-6 md:p-8 flex flex-col gap-4 min-w-0">
-              <Link
-                to="/"
-                className="text-sm text-zinc-500 hover:text-zinc-300 transition-colors"
-              >
-                ← Home
-              </Link>
+              <BackLink />
               <h1 className="text-3xl font-bold">
                 <ZodiacName
                   flavourId={flavourId}

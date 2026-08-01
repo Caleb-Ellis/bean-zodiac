@@ -222,13 +222,6 @@ export default function ClaimedHomeContent({
               />
             </div>
           )}
-          {seasonalZodiac ? (
-            <p className="italic text-zinc-200 sm:text-lg text-center px-4">
-              "{seasonalZodiac.seasonalFortune}"
-            </p>
-          ) : (
-            <div className="h-5 w-64 bg-zinc-800 rounded-full animate-pulse" />
-          )}
           <div className="flex flex-wrap justify-center items-center gap-2 text-sm text-zinc-400 my-2 sm:my-4">
             <FlavourBadge
               id={seasonalMeta.flavourId}
@@ -248,6 +241,13 @@ export default function ClaimedHomeContent({
               label="Year"
             />
           </div>
+          {seasonalZodiac ? (
+            <p className="italic text-zinc-200 sm:text-lg text-center px-4 mb-1">
+              "{seasonalZodiac.seasonalFortune}"
+            </p>
+          ) : (
+            <div className="h-5 w-64 bg-zinc-800 rounded-full animate-pulse" />
+          )}
           <p className="text-sm text-zinc-400">
             Ends in {daysLeft} day{daysLeft !== 1 ? "s" : ""}
           </p>

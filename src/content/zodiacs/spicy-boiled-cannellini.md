@@ -1,39 +1,36 @@
 ---
+# COMPLETELY NEEDS UPDATING — trait: perfectionist -> painstaking, excess: never-pleased -> laborious, inverse: slipshod -> perfunctory
 slug: spicy-boiled-cannellini
+lastUpdated: 
 bean: cannellini
 flavour: spicy
 form: boiled
-trait: perfectionist
-inverse: slipshod
-excess: never-pleased
-friendlyBeans: [mung, navy]
-friendlyForm: smoked
-antiTriple: sour-smoked-chickpea
-antiBeans: [green, pinto]
-antiForm: fermented
-dish: Ribollita - Tuscan bread soup with cannellini, cavolo nero, and peperoncino.
+trait: painstaking
+excess: laborious
+inverse: perfunctory
 quote: Have no fear of bean perfection — you will never reach it, but what a view from the attempt.
-creature: weaver ant
-seasonalFortune: A long simmer is the season's shape. The cavolo nero darkens slowly; nothing is hurried, and the pepper waits its hour in the corner of the pot.
+creature: potter wasp
+dish: Cannellini braised with 'nduja and peperoncino.
+friendlyBeans: [edamame, navy]
+friendlyForm: smoked
+antiTriple: sour-fermented-fava
+antiBeans: [adzuki, chickpea]
+antiForm: fried
+seasonalFortune: "A season of 'nduja and long attention: the braise takes hours and shows every one."
 fortuneMost: You feel the seam nobody else sees.
-fortuneMost2: Take the fourth pass at the thing only you know is wrong.
 fortuneHigh: Straighten the one crooked thing that's needling you.
-fortuneHigh2: There's a recipe you keep tinkering with that's already good.
 fortuneMid: The thing that has you heated will read differently after a night's simmer.
-fortuneMid2: Half the wrongness you're bracing to fix fades on its own.
 fortuneLow: Call it done while it's still a little uneven — the uneven part is the part people reach for.
-fortuneLow2: A windfall is coming through a door you'd have re-hung first.
 fortuneLeast: The first attempt, left alone, is better than the eleventh you'd grind it into.
-fortuneLeast2: Agree to the rough split, pocket the change uncounted.
-facetMostTitle: Stale Bread, Torn Twice
+facetMostTitle: The Twelve Beanabours
 facetMost: The cake's iced and everyone says it's lovely. You scrape the whole top off because one edge sags, and start the buttercream over.
-facetHighTitle: Peperoncino by the Grain
+facetHighTitle: The Beanrepair Shop
 facetHigh: One book on a friend's shelf juts out past the rest. Your fingers itch the whole visit to reach over and line it up.
-facetMidTitle: The Broth Overnight
+facetMidTitle: The Great Beanpottery Throw Down
 facetMid: The shelf you built holds fine but the corner's a degree out. Sleep on whether it's worth pulling the whole thing apart to square it.
-facetLowTitle: Beans at the Boil
+facetLowTitle: Going Through the Beanotions
 facetLow: Wrapping a gift, the paper goes on lumpy at one corner. Good enough — slap the bow on and hand it over.
-facetLeastTitle: Bread Without Measuring
+facetLeastTitle: Working for the Beanweekend
 facetLeast: Hanging the photos, you eyeball each nail and skip the level entirely. If one drifts crooked, it drifts crooked.
 question: The show opens in an hour and your canvas hangs, finished — except you can still see the one corner that isn't right. The brushes are packed. You...
 answerMost: unpack everything and take the corner back to bare ground for tomorrow's light
@@ -48,6 +45,4 @@ rorschachLow: a dented crown left atop a sagging cushion
 rorschachLeast: a wreath half-torn above a crumbling mound
 ---
 
-Braised Cannellini Beans are the Bean Zodiac's most perfectionist — the ones who shift the lamp an inch and then an inch back, who can feel the wrongness of a chair turned five degrees off, who quietly rework the paragraph nobody was going to read closely anyway. What lands from them tends to land right; the seam is invisible, the proportions are correct, the small thing has been thought about.
-
-The trouble is that "done" keeps moving. The message sits in drafts overnight to be reread; the project's last ten percent takes as long as the first ninety; the version they finally release is, by their own private count, the eleventh.
+Braised Cannellini Beans are the Bean Zodiac's most painstaking. The restoration takes eleven months because every joint is done properly, and it will outlive everyone involved. Sometimes eleven months become three years. Doing a thing quickly, adequately, and moving on is not available to them.

@@ -1,3 +1,4 @@
+import PreparationName from "./PreparationName";
 import {
   QualityIds,
   type BeanId,
@@ -50,17 +51,12 @@ export default function ZodiacName({
     <span className={qualityLabel.className}>{qualityLabel.text} </span>
   ) : null;
   const preparationSpan = (
-    <span
+    <PreparationName
       key={`${flavourId}-${formId}`}
-      style={{
-        background: `linear-gradient(135deg, var(--flavour-${flavourId}) 60%, var(--form-${formId}) 75%)`,
-        WebkitBackgroundClip: "text",
-        WebkitTextFillColor: "transparent",
-        backgroundClip: "text",
-      }}
-    >
-      {preparation}
-    </span>
+      flavourId={flavourId}
+      formId={formId}
+      name={preparation}
+    />
   );
   const beanSpan = <span className={`bean-${beanId}`}>{beanName}</span>;
 

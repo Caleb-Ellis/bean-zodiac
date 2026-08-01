@@ -1,39 +1,36 @@
 ---
+# COMPLETELY NEEDS UPDATING — trait: easygoing -> cosseting, excess: torpid -> infantilising, inverse: uptight -> spartan
 slug: sweet-roasted-mung
+lastUpdated: 
 bean: mung
 flavour: sweet
 form: roasted
-trait: easygoing
-inverse: uptight
-excess: torpid
-friendlyBeans: [butter, navy]
+trait: cosseting
+excess: infantilising
+inverse: spartan
+quote: The bean loved too well, that is the trouble.
+creature: marmoset
+dish: Mung roasted with coconut sugar and lime leaf.
+friendlyBeans: [kidney, butter]
 friendlyForm: boiled
-antiTriple: spicy-fried-green
-antiBeans: [edamame, cannellini]
-antiForm: fermented
-dish: Jaggery-roasted mung beans — whole mung beans tossed in melted jaggery and cardamom, roasted until crisp and fragrant.
-quote: Keep your bean up and your worries down, and everything will be just fine.
-creature: capybara
-seasonalFortune: A season that warms slowly, the way jaggery slackens before it pours. Hard edges round off in the pan. Cardamom finds its way into rooms it was not invited into.
+antiTriple: sour-fermented-green
+antiBeans: [edamame, fava]
+antiForm: dried
+seasonalFortune: "A season of coconut sugar and lime leaf: the tray tucks the household in."
 fortuneMost: A friend turns up sharp-cornered; out comes the chair, the glass, no questions, and the corners go.
-fortuneMost2: Set the extra plate for whoever showed up early and don't rearrange the evening around it.
 fortuneHigh: A pile of forty unread messages crests; tap in, say one warm thing, leave the rest.
-fortuneHigh2: Hand the early guests a job — slicing, stirring, lighting a candle — and let welcome be a verb.
 fortuneMid: '"Yeah, sure" to the favour, and you mean it — then actually do it, before it drifts off toward the soft far edge of "soon."'
-fortuneMid2: Drink it black, let the small annoyance pass, say nothing.
 fortuneLow: The thing you keep waving off is sitting heavy on someone's chest.
-fortuneLow2: A plan slips and your jaw sets.
 fortuneLeast: Be inconvenient about one real preference.
-fortuneLeast2: Put the cold conversation back on the heat and have it.
-facetMostTitle: Jaggery Before Anyone Names It
+facetMostTitle: Baby Beantalk
 facetMost: The campsite floods overnight and the whole trip plan is ruined. You're laughing in the rain, already wringing out socks and calling it a story.
-facetHighTitle: Cardamom Where It Isn't Invited
+facetHighTitle: Mollycoddled Bean
 facetHigh: The road's closed and the detour adds two hours to a long drive. You roll the window down, find a song, and let the long way be the day.
-facetMidTitle: A Handful, No Measuring
+facetMidTitle: Beantucked In
 facetMid: The restaurant seats you at the cramped table by the kitchen door. You settle in, wave off the apology, and it's fine.
-facetLowTitle: Jaggery Seizing When Stirred Too Soon
+facetLowTitle: Beanspartan
 facetLow: The queue jumper slides in ahead of you at the market stall. Something in you tightens and you mean to say so.
-facetLeastTitle: A Burnt Bean, Past Sweetening
+facetLeastTitle: Cold Beanturkey
 facetLeast: The group wants to split the bill evenly but you barely ate. This time you ask, plainly, to pay only for your own.
 question: A flatmate has, for the third time this month, used the last of the milk and not replaced it. You're standing at the kettle, mug empty. You...
 answerMost: shrug, drink it black, write nothing on the board
@@ -48,6 +45,4 @@ rorschachLow: a sentry stiff at attention, arms locked
 rorschachLeast: a wound spring strained tight on its base
 ---
 
-Glazed Mung Beans are the Bean Zodiac's most easygoing — the ones who set another plate for the guests who showed up an hour early and don't rearrange the night around it. A friend arrives sharp-cornered; out comes the chair, the glass, no questions, and the corners go. The unread thread crests past forty and they tap in warmly and leave the rest.
-
-The hard conversation that needed having three weeks ago is, however, still in the pan. The easy thing to do was to let it warm down, and it did, and now nobody quite knows how to put it back on the heat.
+Glazed Mung Beans are the Bean Zodiac's most cosseting. You arrive ill and leave four days later with clean clothes and a container of soup for the train. Sometimes it treats a grown adult as fragile. Leaving somebody to fend for themselves, never.

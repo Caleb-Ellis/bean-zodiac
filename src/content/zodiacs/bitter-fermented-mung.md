@@ -1,39 +1,36 @@
 ---
+# COMPLETELY NEEDS UPDATING — inverse: clueless -> obtuse
 slug: bitter-fermented-mung
+lastUpdated: 
 bean: mung
 flavour: bitter
 form: fermented
 trait: intuitive
-inverse: clueless
 excess: superstitious
-friendlyBeans: [fava, chickpea]
-friendlyForm: smoked
-antiTriple: sour-fried-edamame
-antiBeans: [navy, green]
-antiForm: dried
-dish: Bindaetteok — Korean mung bean pancakes with bitter herb dipping sauce.
+inverse: obtuse
 quote: The intuitive bean is a sacred gift and the rational bean is a faithful servant.
 creature: siamese
-seasonalFortune: A season for reading the batter before it speaks. The bitter herb sharpens slowly in the jar, and the cook who waits hears the dish settle into its own bitter sense.
+dish: Dosa batter of fermented mung with fenugreek and curry leaf.
+friendlyBeans: [kidney, chickpea]
+friendlyForm: smoked
+antiTriple: sour-dried-edamame
+antiBeans: [navy, black]
+antiForm: fried
+seasonalFortune: "A season of curry leaf and unexplained knowing — the batter rises before the kitchen decides it should."
 fortuneMost: Move on the read before the reasoning files in.
-fortuneMost2: The read you can't yet defend is the true one.
 fortuneHigh: Something is off — that's a complete sentence.
-fortuneHigh2: You catch the trouble a beat before anyone finds the word for it.
 fortuneMid: A read still forming is worth handing over now.
-fortuneMid2: You'll walk in and know which corner is wrong before a word is spoken.
 fortuneLow: The hunch is real, but it isn't the thing to follow here.
-fortuneLow2: Some unease is a warning and some is only nerves.
 fortuneLeast: Follow the steps to the gram this time.
-fortuneLeast2: Trust the recipe over your read of it.
-facetMostTitle: Bitter Without Permission
+facetMostTitle: Beanstition
 facetMost: A friend introduces someone new and everyone's all smiles. Inside the first handshake you've already got a read on them, and you trust it long before a thing they've done could prove it out.
-facetHighTitle: Before the Ladle Commits
+facetHighTitle: The Sixth Bean
 facetHigh: Nothing's visibly wrong in the quiet house, yet the air's off the second you step in — and out it comes, said aloud, before you could point to a single thing that's changed.
-facetMidTitle: Herb Through Resting Batter
+facetMidTitle: Beanlink
 facetMid: Recipe in hand, you're tasting as you go and the proportions feel wrong, never mind that the page swears otherwise. You go off the page and adjust to what your tongue is telling you.
-facetLowTitle: Counted by Hand
+facetLowTitle: Beavis and Bean-head
 facetLow: A gut feeling says skip the budget and just go for the bigger flat. You sit down and tally the real numbers instead, letting the columns decide.
-facetLeastTitle: Scale Calibrated, Every Gram
+facetLeastTitle: Being Bean
 facetLeast: Like a turn's missing — that's the itch the directions give you, even as the map app stays sure. Override it, follow the thing to the letter, and distrust your own distrust just this once.
 question: A job offer arrives on paper and everything on it adds up. Something in you is uneasy. You...
 answerMost: turn it down before you can talk yourself out of the feeling
@@ -48,6 +45,4 @@ rorschachLow: a feather duster propped over a tidy box
 rorschachLeast: a candelabra set squarely on a heavy base
 ---
 
-Cultured Mung Beans are the Bean Zodiac's most intuitive — they'll name the trouble in a conversation a beat before anyone else finds the word for it, and walk into a room knowing which corner of it is wrong before a soul has spoken. They trust the read they can't yet defend, and the reasoning files in later, around nine, to confirm what they already acted on. It's not magic. It's just faster than they can show their work.
-
-Which is the catch: they wait for the work to show before they'll say the thing, polishing the hunch into a case nobody needed. By the time it's defensible the moment's passed. Half-formed and on time beats airtight and too late.
+Cultured Mung Beans are the Bean Zodiac's most intuitive. They knew about the breakup before it was announced, from nothing they could point at. After a run of hits the hunches start getting treated as law. Being asked to show their working is where it falls apart.

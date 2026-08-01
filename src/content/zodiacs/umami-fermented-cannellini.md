@@ -1,39 +1,36 @@
 ---
+# COMPLETELY NEEDS UPDATING — excess: utopian -> quixotic, inverse: jaded -> disillusioned
 slug: umami-fermented-cannellini
+lastUpdated: 
 bean: cannellini
 flavour: umami
 form: fermented
 trait: idealistic
-inverse: jaded
-excess: utopian
-friendlyBeans: [chickpea, fava]
-friendlyForm: roasted
-antiTriple: bitter-boiled-green
-antiBeans: [butter, adzuki]
-antiForm: fried
-dish: Cannellini and white miso soup with roasted garlic and rosemary.
+excess: quixotic
+inverse: disillusioned
 quote: Some beans see things as they are and ask why; I dream of beans that never were and ask why not.
 creature: unicorn
-seasonalFortune: Miso thickens in its crock; the picture in the mind thickens faster. A household built on what could be — rosemary held to its sharpest note, garlic patient under heat — runs warm and slightly hungry through colder months.
+dish: Cannellini purée with white miso and rosemary.
+friendlyBeans: [edamame, fava]
+friendlyForm: dried
+antiTriple: sweet-roasted-adzuki
+antiBeans: [chickpea, green]
+antiForm: fried
+seasonalFortune: "A season of rosemary and white miso: the purée believes in a better dinner."
 fortuneMost: The picture in your head of a thing that never existed is about to start pulling it into being.
-fortuneMost2: Almost-right reads as wrong to you, so you go back in again.
 fortuneHigh: Cut the one beloved line and the shape you actually wanted appears in the gap.
-fortuneHigh2: You lay the table for the feast you mean to throw someday, not the supper in front of you.
 fortuneMid: The evening in your head is so finished, so specifically lit, that the real one keeps coming up short beside it.
-fortuneMid2: Hold the standard, send the rough draft anyway.
 fortuneLow: Wear the good jumper out of its tissue paper; use the kettle that works.
-fortuneLow2: Serve it on whatever's clean and let the night be a good one anyway.
 fortuneLeast: A quiet omen this turn — the ordinary afternoon you're standing in is already enough.
-fortuneLeast2: Call the friend now, off whatever you've got, no waiting for the worthy occasion.
-facetMostTitle: Rosemary Withheld
+facetMostTitle: Don Beanxote
 facetMost: Handed a patch of bare ground to do anything with, you already see the garden it could become and start digging toward that, not toward what's easy.
-facetHighTitle: The Unstirred Paste
+facetHighTitle: The Bean of La Mancha
 facetHigh: The choir sounds fine to everyone but you. You hear the version it could be and want to run the passage once more.
-facetMidTitle: Garlic Past the Point
+facetMidTitle: Imagine All the Beans
 facetMid: A friend's coming over on short notice. You find yourself planning the whole proper welcome instead of the cup of tea you have time for.
-facetLowTitle: The Nearest Bowl
+facetLowTitle: Lost Beanillusions
 facetLow: The coat isn't quite the one you pictured, but it fits and it's warm, so you buy it and stop looking.
-facetLeastTitle: Salt and Beans
+facetLeastTitle: Reality Beanites
 facetLeast: Why hold this grey little walk by the river up against some better one? You don't; it's the walk you're on.
 question: Spade in the ground for the bed you've pictured all winter, the soil turns up thin and stony, not the loam you imagined. You...
 answerMost: down tools — you'll dig it all out and bring in proper earth first
@@ -48,6 +45,4 @@ rorschachLow: a guttered wick sunk into spent wax
 rorschachLeast: a snuffed stump trailing one curl of smoke
 ---
 
-Miso Cannellini Beans are the Bean Zodiac's most idealistic — the version of the evening in their head is so finished, so specifically lit, that the actual evening keeps coming up short by comparison. They redraft the message six times because the fifth was almost right and almost right is, to them, wrong; they keep the good jumper in tissue paper for an occasion that has not yet been quite worthy.
-
-The cost is the present tense. While the picture keeps refining itself, the friend they meant to call hasn't been called, and the okay version of the night — the one happening — is allowed to pass without being attended to.
+Miso Cannellini Beans are the Bean Zodiac's most idealistic. They still believe the thing can be done properly, and often enough their believing it makes it so. Sometimes the windmill wins. Settling cynically for how things are is a defeat they refuse.

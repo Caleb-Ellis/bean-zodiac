@@ -215,6 +215,68 @@ the polarity test — cut it back until the choice is clean again.
 > throw it out and start from a fresh image. The doc teaches the *move*; the
 > images are yours to find.
 
+## Pick the setting before you write the line — and check it first
+
+Reaching for whatever scene feels vivid reproduces the corpus average, because
+what feels vivid is what the corpus already leans on. Weddings, queues, cafés and
+dinner tables arrive unbidden for exactly this reason. So choose the **setting**
+first, deliberately, from the thin end — then invent the moment inside it.
+
+```
+node scripts/census-settings.mjs            # all settings by frequency
+node scripts/census-settings.mjs --unused   # never used in 2,160 facet/question fields
+```
+
+The taxonomy lives in the script and doubles as the candidate list — rows scoring
+`0` are settings the corpus has **never** used, kept there on purpose. Add a row
+whenever you invent a setting worth returning to.
+
+**Spent — treat as reflexes, not options.** stranger (103), mountain (89),
+market/stall (81), phone/online (81), night (67), child/parenting (64),
+neighbour (54), sport (47), river/lake (45), car (44).
+
+**Untouched, and all fair game.** Around 68 of the 159 catalogued settings have
+never appeared. Run `--unused` for the live list; a sample of what's sitting
+there: laundrette · ice rink · dentist · driving test · jury service · food bank ·
+blood donation · building site · factory floor · scrapyard · charity shop ·
+motorway services · sleeper train · lighthouse · beekeeping · bird hide ·
+climbing wall · betting shop · pawn shop · theatre backstage · observatory ·
+aquarium/zoo · village fete · scout hut · wildfire · eclipse/meteor · mountain
+rescue · hot air balloon · caving · pigeon loft · monastery · blacksmith ·
+glassblowing · cobbler · watchmaker · locksmith · brewery · printing press ·
+postal round · refuse collection · milk round · gamekeeper · coastguard ·
+lifeguard · cattle auction · sheepdog trial · dog show · stable · canal boat ·
+rock pools · frozen lake · quarry · mine · multi-storey · cable car · ski slope ·
+snooker hall · boxing gym · archery · karting · escape room · metal detecting ·
+exam hall · evening class · life drawing · book club · panto · circus · magic
+show · care home · hospice · lost property · drought · heatwave · church/ritual ·
+uncanny/fantastical.
+
+Two working rules on top of the counts:
+
+- **Five distinct settings per entry.** Commit to them before drafting, and don't
+  repeat one inside the file. A gradient met back-to-back in one room feels like
+  one probe asked five ways.
+- **The setting is not the interest.** A laundrette is only better than a wedding
+  if something is genuinely at stake in it. Pick the fresh setting, then ask what
+  could actually go wrong there — the novelty buys attention, the stakes keep it.
+
+## Proposing a facet — name the context, the stakes, and the decision
+
+Whenever you put a facet forward for approval, state these three underneath it,
+one line each:
+
+- **Context** — the situation, in plain words. What is happening, and to whom.
+- **Stakes** — what is actually at risk, and why it can't simply be shrugged off.
+- **Decision** — the act the line stops on, and what Accept and Resist each mean.
+
+This is a test, not a formality. If the **stakes** line comes out as "nothing
+much," the scene is admin and the reader will shrug at it. If the **decision**
+line can't be written without describing what happens next, the facet has
+pre-resolved itself. And if Accept and Resist can't each be said in a short
+clause, the line is a portrait rather than a probe — rebuild it as a moment
+before proposing it.
+
 ## Vary the sentence structure — within the file AND across the corpus
 
 This is the single fastest way the writing goes stale. There are **360 files**,

@@ -1,39 +1,36 @@
 ---
+# COMPLETELY NEEDS UPDATING — inverse: colorless -> monochrome
 slug: sweet-smoked-green
+lastUpdated: 
 bean: green
 flavour: sweet
 form: smoked
 trait: iridescent
-inverse: colorless
 excess: gaudy
-friendlyBeans: [kidney, pinto]
-friendlyForm: fried
-antiTriple: umami-boiled-butter
-antiBeans: [mung, fava]
-antiForm: dried
-dish: Southern green beans slow-cooked with smoked ham hock, brown sugar, and sweet onion.
+inverse: monochrome
 quote: A thing of bean is a joy forever.
 creature: scarab
-seasonalFortune: Slow smoke threads the pot until the green turns half-amber. The hours pass at the pace of a rendering hock, sweetness gathering by degrees.
+dish: Green beans barbecued with maple and bacon.
+friendlyBeans: [pinto, fava]
+friendlyForm: fried
+antiTriple: umami-boiled-butter
+antiBeans: [navy, adzuki]
+antiForm: dried
+seasonalFortune: "A season of maple and bacon; the smoke changes colour depending where you stand."
 fortuneMost: You'll be a different person at every table and true at all of them.
-fortuneMost2: Two friends will compare notes on you and half-doubt they mean the same person.
 fortuneHigh: You read what a room wants and hand it over before you've thought about it.
-fortuneHigh2: Take the unfamiliar road to the familiar place.
 fortuneMid: Move seats halfway through the meal.
-fortuneMid2: One story, two friends, the emphasis tuned to each — the way one hock flavours two different spoonfuls.
 fortuneLow: Order what you always order.
-fortuneLow2: Same mug, same chair, same way home.
 fortuneLeast: Give one true answer to "how are you" and let it set.
-fortuneLeast2: Let a stranger guess you right on the first pass.
-facetMostTitle: A Hock, a Different Spoonful
+facetMostTitle: Beanall That Glitters
 facetMost: A mirror in a strange hallway shows you a slightly different face for each angle you turn. None of them feels wrong; you'd happily wear any.
-facetHighTitle: Brown Sugar by the Minute
+facetHighTitle: Beaniridescent
 facetHigh: You're seated between a shy kid and a loud uncle at the wedding. By dessert you've spoken two languages and meant both.
-facetMidTitle: Smoke Past the Lifted Lid
+facetMidTitle: Beanshimmer
 facetMid: The accent of whoever you've just spent an hour with starts creeping into your own. You let it.
-facetLowTitle: One Pot, One Note
+facetLowTitle: Beanmanhattan
 facetLow: A new café opens with thirty teas on the board. You order the one you always order and read in the corner you always take.
-facetLeastTitle: Onion Stays Onion
+facetLeastTitle: Black and Beanwhite
 facetLeast: An old photo turns up of you a decade ago. The person in it talks, dresses, and stands exactly as you do now.
 question: Two friends from different parts of your life ask, the same week, what you've been up to. You...
 answerMost: tell each one a different story, shaped to the room they're standing in
@@ -48,6 +45,4 @@ rorschachLow: two clay bowls of the same dull glaze, stacked
 rorschachLeast: a beetle pinned beside its identical twin
 ---
 
-Barbecued Green Beans are the Bean Zodiac's most iridescent — and the friend who meets them at a wedding will swear they're a different person from the one their colleague describes on Monday. Both versions are real, both versions are warm, both versions are doing the work the room asked for. The wit sharpens at one table and softens at another, and nobody at either feels they're getting less than the full attention.
-
-The trouble is when the two tables meet. Old friend and new friend trade notes at the bar, half-laughing, half-puzzled, and a quiet calculation begins about which of the two readings to trust.
+Barbecued Green Beans are the Bean Zodiac's most iridescent. Their taste in everything shifts by the season and each version is somehow entirely convincing. Sometimes it is all surface for a month. Settling into one plain, unchanging look is not going to happen.

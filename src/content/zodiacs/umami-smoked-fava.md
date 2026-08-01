@@ -1,39 +1,36 @@
 ---
+# COMPLETELY NEEDS UPDATING — inverse: cultivated -> civilised
 slug: umami-smoked-fava
+lastUpdated:
 bean: fava
 flavour: umami
 form: smoked
 trait: primal
-inverse: cultivated
 excess: feral
-friendlyBeans: [green, chickpea]
-friendlyForm: fried
-antiTriple: sweet-boiled-cannellini
-antiBeans: [butter, navy]
-antiForm: roasted
-dish: Broad beans with smoked streaky bacon, mint, and pecorino.
+inverse: civilised
 quote: In the beginning, there was bean.
 creature: dire wolf
-seasonalFortune: A season that smells of hickory before sight catches up. Bacon renders slow; the pod splits along a seam older than the cook tending it.
+dish: Hickory-smoked fava with lardo.
+friendlyBeans: [green, kidney]
+friendlyForm: fried
+antiTriple: sweet-boiled-navy
+antiBeans: [mung, chickpea]
+antiForm: dried
+seasonalFortune: "A season of lardo and old fire — the smoke predates the kitchen it fills."
 fortuneMost: Say the thing under the question, not the answer to it. People come to you to be read.
-fortuneMost2: Wake hungry for whatever the night left behind and eat it standing at the window.
 fortuneHigh: A stranger is coming who'll leave having said more than they meant to. Open the door without checking who knocked.
-fortuneHigh2: Your gut has already found the one thing they haven't said aloud.
 fortuneMid: Cook without measuring the next meal. The recipe you wrote was for a kitchen you don't quite live in anymore.
-fortuneMid2: Leave the outline and follow the sentence that wandered off.
 fortuneLow: Sand the raw thought smooth before you hand it over.
-fortuneLow2: Ask what their gut says and just listen.
 fortuneLeast: Cost it out before you swing.
-fortuneLeast2: Make the list, price it, count the pods twice.
-facetMostTitle: Smoke Before Salt
+facetMostTitle: The Jungle Bean
 facetMost: The drum kicks in at the bonfire and your feet are already moving — nothing decides to dance, the body just goes.
-facetHighTitle: Pecorino Sharp on a Thumb
+facetHighTitle: Primal Screbean
 facetHigh: No signpost where the trail splits at the meadow. You don't weigh it — you feel which way the land pulls and follow.
-facetMidTitle: Mint Bruised Between Palms
+facetMidTitle: Call of the Bean
 facetMid: Skip the level cup. Eyeball it, taste, add by feel until the tongue says enough.
-facetLowTitle: Bacon Laid Flat, Edge to Edge
+facetLowTitle: My Fair Beany
 facetLow: Before the trip's booked you build the spreadsheet — dates, costs, every leg — and let the figures settle it.
-facetLeastTitle: The Shelled and Bagged Bean
+facetLeastTitle: Sunday Beanest
 facetLeast: New flat, sofa to place. You measure each wall twice, tape the outline on the floor, and only then carry it in.
 question: Alone on the path at dusk, you round a bend and a large dog stands stiff-legged across it, hackles up, watching you. You...
 answerMost: go still, drop low, and let your body answer before thought does
@@ -48,6 +45,4 @@ rorschachLow: a felt hat blocked into a neat crown
 rorschachLeast: a pillow plumped square at the corners
 ---
 
-Hickory Fava Beans are the Bean Zodiac's most primal — they answer from somewhere underneath the question. A friend asks if they should take the job and the Fava names the wrong city instead, and the friend goes quiet because that was the real thing. Decisions land in the body before they reach the mouth; the no is no before anyone's drawn the table.
-
-The shadow is that not everything wants to be excavated. Sometimes the friend was hoping for a sounding board, and what they got was a diagnosis they hadn't asked for.
+Hickory Fava Beans are the Bean Zodiac's most primal. Something in them answers to fire, weather and cold water, and they're better outdoors than anyone. Sometimes it comes out where manners were required. Being purely civil and indoors wears them down.

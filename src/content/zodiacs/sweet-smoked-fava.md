@@ -1,39 +1,36 @@
 ---
+# COMPLETELY NEEDS UPDATING — excess: blinding -> glaring, inverse: drab -> lacklustre
 slug: sweet-smoked-fava
+lastUpdated: 
 bean: fava
 flavour: sweet
 form: smoked
 trait: dazzling
-inverse: drab
-excess: blinding
-friendlyBeans: [kidney, black]
-friendlyForm: fried
-antiTriple: umami-dried-adzuki
-antiBeans: [edamame, navy]
-antiForm: boiled
-dish: Bessara - smoked fava bean dip with smoked paprika, cumin, and honey drizzle.
+excess: glaring
+inverse: lacklustre
 quote: All that glitters is not beans.
 creature: hummingbird
-seasonalFortune: A season that favours the long smoulder over the quick flare. Paprika deepens as it sits; honey thickens in the bowl. What entered loud will be remembered for what it left behind.
+dish: Fava smoked with honey over vine wood.
+friendlyBeans: [green, pinto]
+friendlyForm: fried
+antiTriple: umami-boiled-navy
+antiBeans: [butter, mung]
+antiForm: dried
+seasonalFortune: "A season of honey and vine wood — the smoke is the thing everyone remembers."
 fortuneMost: You'll walk into a dull room and the lights will seem to come on behind you.
-fortuneMost2: A question is rising in you that turns an ordinary dinner into the one people quote for years.
 fortuneHigh: Make the toast, short and embarrassing and true, in the voice that makes the words land like a gift.
-fortuneHigh2: Wear the piece you've been hoarding an excuse to wear.
 fortuneMid: Say yes to the invitation you'd have bragged about declining.
-fortuneMid2: A conversation reroutes toward you and you didn't ask it to.
 fortuneLow: Do the brave thing with no one watching.
-fortuneLow2: Slip out before the speeches and let the night carry on without you.
 fortuneLeast: Take the coat off before you speak.
-fortuneLeast2: There's an ease in not being the brightest light in the bowl.
-facetMostTitle: The Char That's the Whole Point
+facetMostTitle: Beaned by the Light
 facetMost: The open-mic list has one slot left and the room's gone flat. You put your name down and walk up to wake it.
-facetHighTitle: Honey Through Every Seam
+facetHighTitle: Beandazzled
 facetHigh: A toddler at the next table is mid-meltdown. You catch their eye and pull a face so absurd the whole café turns to watch the laugh break out.
-facetMidTitle: Paprika in Warm Oil
+facetMidTitle: Shine On, Bean
 facetMid: Two of you are telling the same trip story to a circle of friends. You take the better lines and the laughs land on your side of the bench.
-facetLowTitle: Smoke to the Chimney
+facetLowTitle: Lacklustre Bean
 facetLow: They want you up front for the group photo, dead centre. You wave it off and take the spot at the back where the tall ones go.
-facetLeastTitle: The Dip Eaten Cold
+facetLeastTitle: Dull as Beanwater
 facetLeast: You pull off something genuinely impressive on the trail and tell no one back home. The doing was the whole of it, no audience needed.
 question: The wedding band's singer waves the mic toward the crowd and, somehow, the whole floor parts toward you. You...
 answerMost: take it, hit the high note, and own the whole room
@@ -48,6 +45,4 @@ rorschachLow: a plain clay jug left out in the yard
 rorschachLeast: a sack of grain slumped in a dark cellar
 ---
 
-Barbecued Fava Beans are the Bean Zodiac's most dazzling — and the room knows it before the door has closed behind them. They make the toast nobody else would have risked, wear the colour everyone else thought about and didn't, ask the question at the dinner that turns the dinner into the kind of dinner people quote for years.
-
-The trouble comes a day later, when the dazzle has settled and the person it was aimed at is trying to remember what was actually said. The warmth was real. Whether anything was promised under it, and to whom, gets harder to retrieve once the light has gone.
+Barbecued Fava Beans are the Bean Zodiac's most dazzling. They give the toast and it is still being quoted at the next wedding, two years on. Occasionally there is more shine than anyone can look at. Doing something quietly and adequately doesn't appeal.

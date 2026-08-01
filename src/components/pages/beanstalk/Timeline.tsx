@@ -169,7 +169,7 @@ export default function Timeline({
                 />
               </p>
               {bean && (
-                <div className="w-16 h-16 my-6">
+                <div className="w-16 my-6">
                   <LazyMount placeholder={<div className="w-16 h-16" />}>
                     <Bean
                       bean={bean}

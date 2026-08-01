@@ -1,39 +1,36 @@
 ---
+# COMPLETELY NEEDS UPDATING — trait: unpredictable -> flamboyant, excess: haywire -> garish, inverse: predictable -> muted
 slug: spicy-roasted-pinto
+lastUpdated: 
 bean: pinto
 flavour: spicy
 form: roasted
-trait: unpredictable
-inverse: predictable
-excess: haywire
-friendlyBeans: [edamame, green]
-friendlyForm: fermented
-antiTriple: umami-boiled-navy
-antiBeans: [butter, cannellini]
-antiForm: dried
-dish: Frijoles charros - pinto beans simmered with roasted pasilla chiles, bacon, and jalapeño.
+trait: flamboyant
+excess: garish
+inverse: muted
 quote: Consistency is the last refuge of the bean-less.
-creature: weasel
-seasonalFortune: Roasted pintos refuse a fixed order this season; some pots lead with pasilla smoke, others with jalapeño bite. The kitchen rewards those who taste before they plan.
+creature: mandarin duck
+dish: Pinto beans roasted with guajillo, lime, and cumin.
+friendlyBeans: [fava, chickpea]
+friendlyForm: fermented
+antiTriple: sweet-fried-kidney
+antiBeans: [edamame, cannellini]
+antiForm: smoked
+seasonalFortune: "A season of guajillo and loud colour — the tray dresses for an audience that arrives."
 fortuneMost: The long way round for no reason at all is the better pot.
-fortuneMost2: The safe plan ditched for the one nobody saw coming pays out, the way it usually does.
 fortuneHigh: Whoever you actually are turns up, and you mean every version of it.
-fortuneHigh2: Pasilla smoke or jalapeño bite, no fixed order. Follow the thing that smells interesting over the thing that arrived first.
 fortuneMid: A friend asking which version of you they've got deserves the straight answer.
-fortuneMid2: One small thing turned — the route, the seat, the order of the pot — and the flat day comes back to life.
 fortuneLow: Someone's been quietly waiting for a baseline to count on. Show up the same way a few times running.
-fortuneLow2: Keep the standing plan when you'd rather bolt.
 fortuneLeast: The rotation you can cook without thinking is its own quiet comfort.
-fortuneLeast2: Returning to the trusted books, the unchanged list, isn't the dullness you fear — it's how some things actually root.
-facetMostTitle: Three Chiles, None Called for
+facetMostTitle: Glitter and Be Bean
 facetMost: Halfway to the airport for a trip booked months ago, a billboard for somewhere else catches your eye, and you're seriously weighing a swerve to the other gate.
-facetHighTitle: The Cracked Pasilla
+facetHighTitle: Beanpeacock
 facetHigh: Three days into a job you start each morning from a different desk, by a different door, just to see how the building feels from there.
-facetMidTitle: Bacon's Uneven Beat
+facetMidTitle: Beanall That Jazz
 facetMid: A dull stretch sets in, so you flip the furniture around and walk to work the wrong way — small turns, and the week wakes back up.
-facetLowTitle: The Jalapeño on the Minute
+facetLowTitle: Beanquiet Please
 facetLow: A friend's been counting on you for the same standing thing. Show up for it unchanged a few weeks running, dull as that feels, because the sameness is the gift.
-facetLeastTitle: The Exact Copper
+facetLeastTitle: Beanshades of Grey
 facetLeast: Same chair, same order, same walk back — and given the chance to shake any of it up, you'd keep every piece exactly where it's worn its groove.
 question: You're three days into a road trip with a route you mapped out, and the morning you wake wanting none of it. You...
 answerMost: tear up the route and point the car at a coast you've never seen
@@ -48,6 +45,4 @@ rorschachLow: a coat hung neatly on a still rack
 rorschachLeast: a figure standing squarely at attention
 ---
 
-Peri-Peri Pinto Beans are the Bean Zodiac's most unpredictable — the ones who turn up to the same bar with a different haircut, a new job, and a story about a weekend nobody saw coming. Plans they made warmly on Tuesday are not the plans they're proposing on Friday, and the proposal is usually better. Friends keep them because the surprise is reliably worth the recalibration.
-
-The wear-and-tear shows on the people who needed them to be in one place twice. The standing Wednesday becomes a moving Wednesday becomes a cancelled one, and the friend on the other side of it eventually stops checking the calendar.
+Peri-Peri Pinto Beans are the Bean Zodiac's most flamboyant. They arrive in the coat, tell the story with sound effects, and the wedding photographs are better for their being there. Occasionally it is too much for a Tuesday. Being deliberately unnoticeable isn't a costume they own.

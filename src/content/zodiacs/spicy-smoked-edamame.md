@@ -1,39 +1,36 @@
 ---
+# COMPLETELY NEEDS UPDATING — excess: ferocious -> scrappy, inverse: tame -> docile
 slug: spicy-smoked-edamame
+lastUpdated: 
 bean: edamame
 flavour: spicy
 form: smoked
 trait: feisty
-inverse: tame
-excess: ferocious
-friendlyBeans: [green, fava]
-friendlyForm: fried
-antiTriple: umami-roasted-adzuki
-antiBeans: [mung, chickpea]
-antiForm: boiled
-dish: Dashi-smoked edamame with yuzu kosho - cold-smoked edamame with spicy citrus pepper paste.
+excess: scrappy
+inverse: docile
 quote: Cry 'Havoc!' and let slip the beans of war.
 creature: wolverine
-seasonalFortune: A season of cold smoke and quick heat; the rooms this person enters tilt toward the door they came through, the air already changed before anyone looks up.
+dish: Edamame in the pod with chipotle salt and mesquite smoke.
+friendlyBeans: [cannellini, fava]
+friendlyForm: dried
+antiTriple: umami-boiled-mung
+antiBeans: [butter, adzuki]
+antiForm: roasted
+seasonalFortune: "A season of chipotle salt and small fights: the pod punches above its measured weight."
 fortuneMost: Yuzu kosho hits before you've named the heat, and so do you — moving while everyone's still calibrating, right more often than not.
-fortuneMost2: The boundary lands flat, no preamble, and what was costing you is done.
 fortuneHigh: Lead with the verdict and let them ask for the reasoning.
-fortuneHigh2: Say the whole hard thing once.
 fortuneMid: State the problem plainly and let it carry its own weight.
-fortuneMid2: Let wanting-to-confront settle into wanting-to-understand before you strike.
 fortuneLow: A boundary you stopped explaining leaves someone guessing, not told off — say the actual thing or let it go.
-fortuneLow2: A slight that cools by morning is telling you something.
 fortuneLeast: Some fights aren't worth the smoke they'd fill the place with.
-fortuneLeast2: The soft return is the strong move on the wind — the small apology, the second chance handed over without a fight.
-facetMostTitle: Yuzu Kosho, First Bite
+facetMostTitle: Beanscrappy-Doo
 facetMost: Someone cuts in front of the family with three kids, and before anyone else has even sighed you've called it flat and sent them to the back of the line.
-facetHighTitle: Char Before the Salt
+facetHighTitle: Beanwhip It
 facetHigh: The contractor's quote is plainly padded. You lead with no and make them earn the reasons out of you one at a time.
-facetMidTitle: Smoke in the Husk
+facetMidTitle: Beanunderdog
 facetMid: When the referee blows the call that costs your team the match, you name exactly what went wrong — once, clearly — and let it stand without a second word.
-facetLowTitle: The Pod, Slowly Warmed
+facetLowTitle: Beanlamb to the Slaughter
 facetLow: A driver cuts you off and lays on the horn like it was your fault. You ease off the gas and let them go, swallowing the urge to teach them anything.
-facetLeastTitle: Patient Steam
+facetLeastTitle: Beanmeek and Mild
 facetLeast: That favor a friend swore they'd do has slipped their mind again — and you let it go without a flicker, then quietly offer to help them instead.
 question: A delivery arrives broken and the support line puts you on hold. You...
 answerMost: hang up, escalate publicly, refund within the hour
@@ -48,6 +45,4 @@ rorschachLow: a dove settling down onto a warm nest
 rorschachLeast: a lamb folded low over its own shadow
 ---
 
-Chipotle Edamame are the Bean Zodiac's feistiest — the email goes out before anyone in the thread has finished typing the diplomatic version. The boundary lands flat, no preamble, and the friendship that had been quietly costing them is suddenly over by Tuesday morning. They move when the rest of the room is still calibrating, and most of the time the room admits, later, that the move was correct.
-
-What they don't always notice is the trail of small, polite acquaintances who learned not to make the second ask — not because they were told off, but because they weren't, and now they're guessing.
+Chipotle Edamame are the Bean Zodiac's most feisty. Half the size of the argument and still in it at the end, having won the part that mattered. Occasionally the fight was optional and taken anyway. Backing down quietly for the sake of the evening, they won't.

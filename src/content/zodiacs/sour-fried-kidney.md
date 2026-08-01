@@ -1,34 +1,36 @@
 ---
+# COMPLETELY NEEDS UPDATING — excess: argumentative -> belligerent, inverse: pliable -> acquiescent
 slug: sour-fried-kidney
+lastUpdated: 
 bean: kidney
 flavour: sour
 form: fried
 trait: challenging
-inverse: pliable
-excess: argumentative
-friendlyBeans: [fava, green]
-friendlyForm: fermented
-antiTriple: bitter-smoked-butter
-antiBeans: [black, pinto]
-antiForm: fermented
-dish: Rajma tikki with imli chutney - pan-fried Indian kidney bean patties with tamarind dipping sauce.
+excess: belligerent
+inverse: acquiescent
 quote: In the beginning was the bean, and the bean was with argument, and the bean was argument.
 creature: magpie
-seasonalFortune: A patty pressed against a hot pan keeps its shape by refusing the oil; the tamarind stays sour beside it, and neither softens the other.
+dish: Kidney beans fried with tamarind chutney and onion seed.
+friendlyBeans: [chickpea, green]
+friendlyForm: fermented
+antiTriple: bitter-smoked-black
+antiBeans: [edamame, cannellini]
+antiForm: dried
+seasonalFortune: "A season of tamarind chutney and raised stakes: the pan asks the kitchen to prove itself."
 fortuneMost: You can't walk away from a falsehood, and you shouldn't have to.
 fortuneHigh: A soft claim may need a sharp answer.
 fortuneMid: The magpie wins its battles through sheer insistence, though its battles are not often necessary.
 fortuneLow: They are right and you are not.
 fortuneLeast: Let someone else make the decision.
-facetMostTitle: Tamarind Through the Room
+facetMostTitle: Beanroadhouse
 facetMost: A schoolgroup files past the museum's dinosaur while the docent gives it a name that was overturned years ago. You raise your voice above the crowd and correct her, skeleton and all.
-facetHighTitle: Reply in Oil-Spit
+facetHighTitle: The Beanauntlet
 facetHigh: Nobody else at the tenants' meeting will say it, so you stand — the landlord's "just cosmetic" about the mould comes apart in your hands, line by line.
-facetMidTitle: Sourness on the Fingers
+facetMidTitle: The Beanchallenger
 facetMid: The house is actually haunted. A ghost drifts room to room reciting its history, but gets the year of the Great Fire wrong. You correct it before you let it go on haunting.
-facetLowTitle: Onions Before the Spice
+facetLowTitle: As You Bean
 facetLow: The barista's marker turns your name into a stranger's on the cup. You answer to it and drink.
-facetLeastTitle: The Quiet Pan
+facetLeastTitle: Whatever You Say, Bean
 facetLeast: The group votes for the ridge trail you're certain the rain washed out. You fold the map away and climb up after them.
 question: The ref blows a call against you in the local match and the whole game hinges on it. You...
 answerMost: get in his face and argue it line by line till he caves
@@ -43,6 +45,4 @@ rorschachLow: a person seated back, hands folded in the lap
 rorschachLeast: a snowman slumping soft at its waist
 ---
 
-Agrodolce Kidney Beans are the Bean Zodiac's most argumentative — they treat a wrong sentence the way a smoke alarm treats a wrong amount of smoke. The correction is on the air before the speaker has finished sitting back down. What looks like combativeness from the outside is, from inside, a kind of housekeeping: an Agrodolce Kidney genuinely cannot leave a room with a false thing in it.
-
-The cost is that the room sometimes wanted to leave the false thing alone. Not every error wanted to be a topic; not every dinner wanted to become a clarifying exchange. The truth was usually right. The next invitation is the part that quietly doesn't come.
+Agrodolce Kidney Beans are the Bean Zodiac's most challenging. They ask you to defend the thing you said easily, and the defence makes it stronger. Sometimes the pushing continues past where anyone was still enjoying it. Letting a weak claim simply stand is not something they'll do.

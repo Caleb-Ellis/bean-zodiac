@@ -2,12 +2,12 @@
 slug: roasted
 name: Roasted
 tagline: The Form that radiates.
-traits: [convivial, radiant, warm, generous, hedonistic]
-toneOfVoice: Delivers open and radiant; fills the room, plays to the crowd.
+positiveTraits: [expansive, radiant, forthcoming, flourishing, magnetic]
+negativeTraits: [unrestrained, ostentatious]
 ---
 
 Roasting asks for nothing from Beans except to sit in warmth and become more fully itself. The heat is dry and patient and pervasive — it coaxes out sugars, deepens colour, fills the whole space with something irresistible.
 
-Roasted Beans carry their warmth outward as a matter of nature. They are the ones who make a room feel inhabited, whose presence is felt before they've said anything, who seem to run a few degrees warmer than everyone else. They have a talent for pleasure — their own and others'.
+Roasted Beans develop outward. Nothing is added and nothing is taken away — they become more of what they already were, and they do it where everyone can see. Their presence registers before they have said anything.
 
-The Roasted Bean's shadow is self-indulgence. Warmth sustained without discipline becomes excess. The Roasted Season asks you to pace yourself.
+The Roasted Bean's shadow is overdevelopment. The oven does not stop when the Bean is ready, and the sugars that made it irresistible are the first thing to go dark. The Roasted Season asks you to know when you are done.

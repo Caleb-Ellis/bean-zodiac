@@ -1,39 +1,36 @@
 ---
+# COMPLETELY NEEDS UPDATING — trait: sardonic -> allusive, excess: sneering -> riddling, inverse: warmhearted -> explicit
 slug: sour-smoked-pinto
+lastUpdated: 
 bean: pinto
 flavour: sour
 form: smoked
-trait: sardonic
-inverse: warmhearted
-excess: sneering
-friendlyBeans: [green, chickpea]
-friendlyForm: roasted
-antiTriple: sweet-boiled-navy
-antiBeans: [mung, edamame]
-antiForm: fried
-dish: Frijoles borrachos al mezcal - smoked pinto beans with mezcal, orange, and pasilla chile
-quote: Outside of a bean, a dog is a man's best friend. Inside of a bean, it's too dark to read.
-creature: hyena
-seasonalFortune: A pot smoked over pasilla keeps its commentary low. The season favours those who watch the room before they enter it, and who answer questions a half-beat late.
+trait: allusive
+excess: riddling
+inverse: explicit
+quote: Tell all the truth but tell it bean.
+creature: firefly
+dish: Smoked pinto beans cured with lime over pecan.
+friendlyBeans: [fava, adzuki]
+friendlyForm: fermented
+antiTriple: sweet-dried-kidney
+antiBeans: [butter, mung]
+antiForm: boiled
+seasonalFortune: "A season of pecan smoke and half-said things — the flavour hints, and the hint lands later."
 fortuneMost: Seven words, then quiet before the eighth — the eighth would've been the apology.
-fortuneMost2: The thing nobody wanted named, named in one dry line, and then the silence.
 fortuneHigh: The line's cocked before they've finished talking. Hold the extra beat.
-fortuneHigh2: You read the mood and rearrange your face before anyone clocks the adjustment.
 fortuneMid: One compliment with nothing twisted on the end.
-fortuneMid2: The plain thing you actually mean, no setup, no angle.
 fortuneLow: A bit falls flat. Don't double down — drop the angle and say the plain version.
-fortuneLow2: A new acquaintance asks what you really think. The wry version was armour.
 fortuneLeast: They take the sincere questions to someone less funny now.
-fortuneLeast2: Praise straight, apologise straight, let a line go without workshopping it.
-facetMostTitle: Mezcal Already Smirking
+facetMostTitle: Riddle Me Bean
 facetMost: The award gets handed to the least-deserving person in the room to warm applause. A dry aside is loaded and ready, and you let it off under your breath to the seat beside you.
-facetHighTitle: Orange Peel Against Ash
+facetHighTitle: Between the Beanlines
 facetHigh: A toast turns suddenly weepy and earnest, and the whole table is welling up. There's a wry line that would puncture the spell, and your hand is on it.
-facetMidTitle: Pasilla After the Swallow
+facetMidTitle: Beanwhat Lies Beneath
 facetMid: A kid shows you the wobbly clay thing they made and watches your face. The setup for a gentle joke is right there; you tell them it's wonderful and leave it unwrapped.
-facetLowTitle: Mezcal Tasting Like Mezcal
+facetLowTitle: "Parental Advisory: Explicit Beans"
 facetLow: A grieving friend asks, plainly, whether it gets easier. The deflection is reflex and ready — you set it aside and give them the plain, undefended answer.
-facetLeastTitle: Smoke, and Just a Pot
+facetLeastTitle: In Plain Beanglish
 facetLeast: An apology is owed and the wry, hedged version is already half-written. Scrap it — out goes the bare one instead, with no angle to hide behind.
 question: At your old boss's retirement drinks a newcomer asks you, sincerely, what he was really like to work for. You...
 answerMost: deflect with a wry line he himself would've used
@@ -48,6 +45,4 @@ rorschachLow: two friends leaning in, close to a kiss
 rorschachLeast: two children's faces beaming across a table
 ---
 
-Cured Pinto Beans are the Bean Zodiac's most sardonic — the reply has a small twist sewn into the hem before it leaves the mouth. They are the friend whose compliment you have to unwrap twice on the walk home, the colleague whose group-chat line ends the topic by gently angling it. There is real intelligence in the deflection; the people around them are made quicker by having to keep up.
-
-The shadow is that the angle starts answering even the questions that were sincere. Somebody asked them something straight, and the reply went oblique by reflex, and the question got quietly filed away unrepeated.
+Cured Pinto Beans are the Bean Zodiac's most allusive. They answer the question with a half-remembered film and it lands more precisely than a plain answer would have. Sometimes only they know what was meant. Stating a thing outright would feel like turning the lights on.

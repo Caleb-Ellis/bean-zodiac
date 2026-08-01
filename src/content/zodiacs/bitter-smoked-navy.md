@@ -1,39 +1,36 @@
 ---
+# COMPLETELY NEEDS UPDATING — trait: foreboding -> watchful, excess: ominous -> unsleeping, inverse: auspicious -> inattentive
 slug: bitter-smoked-navy
+lastUpdated: 
 bean: navy
 flavour: bitter
 form: smoked
-trait: foreboding
-inverse: auspicious
-excess: ominous
-friendlyBeans: [butter, black]
-friendlyForm: boiled
-antiTriple: spicy-fermented-chickpea
-antiBeans: [green, fava]
+trait: watchful
+excess: unsleeping
+inverse: inattentive
+quote: Who watches the beans?
+creature: night heron
+dish: Navy beans smoked over charcoal with wormwood and salt pork.
+friendlyBeans: [black, cannellini]
+friendlyForm: dried
+antiTriple: spicy-roasted-pinto
+antiBeans: [fava, green]
 antiForm: fried
-dish: Smoked navy bean with bitter juniper and char.
-quote: It was a dark and beany night.
-creature: black vulture
-seasonalFortune: Juniper smoke drifts low through the bitter months; the char beneath the kettle remembers what the woodpile has not yet admitted.
+seasonalFortune: "A season of wormwood and standing watch: the smoke keeps the pantry while the kitchen sleeps."
 fortuneMost: The crack is coming, and you'll see it long before anyone else lifts their head.
-fortuneMost2: That knot under your ribs is rarely wrong.
 fortuneHigh: A bad feeling left vague gets filed as mood and waved off.
-fortuneHigh2: You can hear the sentence they haven't said yet.
 fortuneMid: Hand someone the next step before you hand them the prophecy.
-fortuneMid2: Flag the danger without darkening the whole evening.
 fortuneLow: Everyone already sees what's coming, and one more voice naming it is just noise.
-fortuneLow2: Take the stranger at their word.
 fortuneLeast: Pour the wine, ask after the garden, let the evening go by unannotated.
-fortuneLeast2: Curtains open, doors unlatched, the night just a night.
-facetMostTitle: Char on the Tongue
+facetMostTitle: Sleepless in Beanattle
 facetMost: A wedding toast is still going warm and golden, but you've already clocked the fault line under the happy couple. You catch the maid of honour by the cake table and tell her what's coming.
-facetHighTitle: Smoke After the Fire
+facetHighTitle: Beanwatchmen
 facetHigh: Touring a house everyone loves, you smell the thing behind the fresh paint that will sink it in two winters. You say so out loud while the others are picking curtains.
-facetMidTitle: Juniper Before Flame
+facetMidTitle: The Night Beanwatch
 facetMid: A captain announces a little turbulence ahead in a bright, easy voice. You're already braced, certain it's the worse kind, before the first drop hits.
-facetLowTitle: The Kettle, Only a Kettle
+facetLowTitle: Asleep at the Bean
 facetLow: A guy on the corner asks to borrow your phone for one call. You hand it over and stand there easy, reading no scheme behind the simple ask.
-facetLeastTitle: The Wiped Rim
+facetLeastTitle: The Absent-Minded Beanfessor
 facetLeast: A friend lays out a plan with a few loose ends you could pick apart. You let the loose ends be, raise your glass to it, and don't go hunting for how it fails.
 question: A dull ache has settled under your ribs and won't quite leave. The body feels like it's warning you of something. You...
 answerMost: name it out loud as the start of something serious and brace for the worst
@@ -48,6 +45,4 @@ rorschachLow: a soft hill rolling gently to the road
 rorschachLeast: a fat dumpling resting on the plate
 ---
 
-Charcoal Navy Beans are the Bean Zodiac's most foreboding. They name the thing going wrong in a project weeks before anyone else looks up, wake at four with a knot under the ribs the morning before the call comes, and are right often enough that the people around them have stopped betting against it.
-
-The forecast just lands wrong. "I have a bad feeling about this" gets filed as weather and ignored, and the storm they saw arrives on schedule with no one having moved. They mistake being correct for being heard, and so the warning that could have helped instead joins the long, quiet record of times they knew and couldn't get a single person to act on it.
+Charcoal Navy Beans are the Bean Zodiac's most watchful. They know who left early, who didn't eat, and which door was unlocked, and mention none of it unless it matters. The watching never switches off, even in company that earned it. Letting an evening simply happen is beyond them.

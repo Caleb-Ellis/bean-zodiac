@@ -1,39 +1,36 @@
 ---
+# COMPLETELY NEEDS UPDATING — excess: prying -> nosy, inverse: uninterested -> uninquiring
 slug: umami-roasted-green
+lastUpdated: 
 bean: green
 flavour: umami
 form: roasted
 trait: curious
-inverse: uninterested
-excess: prying
-friendlyBeans: [kidney, adzuki]
-friendlyForm: fried
-antiTriple: sour-boiled-cannellini
-antiBeans: [black, navy]
-antiForm: dried
-dish: Roasted green beans with katsuobushi, ponzu, and sesame.
+excess: nosy
+inverse: uninquiring
 quote: Curiosity is the bean, always leading to new discoveries.
 creature: ferret
-seasonalFortune: A season of ponzu's slow seep — surfaces shine, and underneath the brine works its long question into the bean.
+dish: Green beans roasted in bacon drippings with shallot.
+friendlyBeans: [kidney, fava]
+friendlyForm: fried
+antiTriple: bitter-boiled-navy
+antiBeans: [butter, black]
+antiForm: dried
+seasonalFortune: "A season of bacon drippings and shallot; the roast keeps asking what else is possible."
 fortuneMost: Follow the question past its useful end.
-fortuneMost2: A door is about to open in the middle of an ordinary sentence.
 fortuneHigh: Ask the second question, the one past polite.
-fortuneHigh2: A stranger rewards patience the same way — stay past the headline and someone interesting surfaces.
 fortuneMid: Cook a few pages past the recipe you'd default to.
-fortuneMid2: One thing you don't understand is tugging at you.
 fortuneLow: Cook the dish you already trust.
-fortuneLow2: The known thing feeds you too.
 fortuneLeast: Leave the lid on.
-fortuneLeast2: Let a few corners of the house keep their own quiet.
-facetMostTitle: The Lifted Katsuobushi
+facetMostTitle: Gossip Beangirl
 facetMost: Already on the third step before you've decided to go — an unmarked stairwell spirals down off the back of the museum, no sign saying you can't.
-facetHighTitle: Sesame Across the Plate
+facetHighTitle: The Curious Incident of the Bean in the Night-Time
 facetHigh: The cab driver mentions, in passing, the country he left. You drop the small talk and ask the thing nobody ever asks him, and watch his whole face change.
-facetMidTitle: Bonito on Warm Beans
+facetMidTitle: Twenty Beanquestions
 facetMid: A locked drawer in a rented flat won't open and there's no key. Pry at it just to know what's inside, or let the landlord's mystery stay the landlord's?
-facetLowTitle: Ponzu, Same Small Bowl
+facetLowTitle: None of My Beansiness
 facetLow: There's strange untried food at a festival across town and the dish you love at the place down the road. Take the sure thing and eat well, no foraging tonight.
-facetLeastTitle: The Plate, Set Down
+facetLeastTitle: Nothing to Bean Here
 facetLeast: A frayed loose end dangles off the edge of someone else's story — one tug and it'd unravel. You walk on past it and leave the thread where it hangs.
 question: You sit down to send one short email and notice a word in it you've never quite looked up. You...
 answerMost: spend an hour on the etymology and forget about the email
@@ -48,6 +45,4 @@ rorschachLow: a closed fist next to a shell pulled tight shut
 rorschachLeast: a shut clam beside a snail sealed deep in its shell
 ---
 
-Rendered Green Beans are the Bean Zodiac's most curious — and warmly so, without the collecting energy that curiosity sometimes has. They ask the second question, the one past polite, and the stranger across from them lights up at having been asked it. They read the footnote before the headline because that's where someone interesting is usually hiding.
-
-The shadow is the seven open tabs at midnight, none of them the thing they sat down to do. By the time they choose which question to actually answer, the day is over.
+Rendered Green Beans are the Bean Zodiac's most curious. They read the plaque, ask the chef, look up the bird, and come back knowing something. Sometimes the questions land somewhere private. Standing in front of something new and not asking is unbearable.

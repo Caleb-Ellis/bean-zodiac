@@ -1,39 +1,36 @@
 ---
+# COMPLETELY NEEDS UPDATING — trait: candid -> quick-witted, excess: indelicate -> sharp-tongued, inverse: evasive -> slow-witted
 slug: sour-fried-adzuki
+lastUpdated: 
 bean: adzuki
 flavour: sour
 form: fried
-trait: candid
-inverse: evasive
-excess: indelicate
-friendlyBeans: [edamame, kidney]
+trait: quick-witted
+excess: sharp-tongued
+inverse: slow-witted
+quote: Brevity is the soul of bean.
+creature: vervet
+dish: Adzuki fried with black vinegar and a spoon of sugar.
+friendlyBeans: [chickpea, green]
 friendlyForm: roasted
-antiTriple: bitter-smoked-black
-antiBeans: [mung, cannellini]
-antiForm: fermented
-dish: Pat jeon with rice vinegar dipping sauce - Korean adzuki bean pancakes with a sharp sour dipping sauce.
-quote: The truth will set you bean.
-creature: hound
-seasonalFortune: The season fries quick and dips sharp. Batter meets oil before the cook can second-guess it, and what surfaces wears no extra coat. A plainer table follows.
+antiTriple: bitter-fermented-black
+antiBeans: [edamame, butter]
+antiForm: dried
+seasonalFortune: "A season of black vinegar and fast returns — the pan answers before the question finishes."
 fortuneMost: When someone wants the truth and not the comfort, yours is the door they knock on.
-fortuneMost2: Someone is about to ask you a question they could ask anyone, and they're walking past everyone to reach you.
 fortuneHigh: The straight answer lands sharp and clean, and people trust the taste of you for it.
-fortuneHigh2: Lead with the verdict. The soft words keep.
 fortuneMid: Name the small wrong thing while it's still small.
-fortuneMid2: A stranger overpays you at the counter. Hand it back before they've turned to go.
 fortuneLow: Hand it over hot. The second pass is where the truth quietly dies.
-fortuneLow2: The gentler version, chosen once, is care; reached for twice, it's a hiding place.
 fortuneLeast: Not every truth is owed on arrival. Let one cool to a temperature a hand can hold.
-fortuneLeast2: Soften the edge for the sake of the peace. The mercy is real.
-facetMostTitle: Vinegar, Undiluted
+facetMostTitle: Beanheathers
 facetMost: The whole table has agreed not to mention the haircut. You're the one who tells your friend it's crooked at the back.
-facetHighTitle: Still Hot From the Pan
+facetHighTitle: Beanmoonlighting
 facetHigh: A neighbour asks how the garden looks since they redid it. Out comes the verdict first, the cushioning never.
-facetMidTitle: Oil on the Tile
+facetMidTitle: The Thin Bean
 facetMid: Catch the small wrong thing early — the clause that quietly favours the other side, while it's one sentence and not a signed page.
-facetLowTitle: Sugar in the Dipping Bowl
+facetLowTitle: Bill & Bean's Excellent Adventure
 facetLow: Held up a fresh tattoo someone's thrilled with, you go hunting for the warm half of your opinion and hand over only that.
-facetLeastTitle: The Cooling Pan
+facetLeastTitle: The Three Beanstooges
 facetLeast: A grieving stranger on a long bus ride tells you their plans, and the plans won't work. You let the wheels turn and say nothing.
 question: At the woodworking class the instructor rattles through the joint and asks if it's clear. You followed maybe half, and one step looked plain wrong. You...
 answerMost: stop them and say plainly which step you don't buy
@@ -48,6 +45,4 @@ rorschachLow: two islands wrapped in fog that hides their shores
 rorschachLeast: two locked strongboxes, one stacked on the other
 ---
 
-Agrodolce Adzuki Beans are the Bean Zodiac's most candid — the kind whose congratulations arrive before the cake is cut and whose objections arrive before the meeting ends. There's no draft phase. The thought forms, the mouth opens, and the room adjusts; what they say tends to be both true and warm, because the warmth was the first thing in the batter.
-
-The catch is the speed. Some truths are correct on Tuesday and unbearable on Monday, and an Agrodolce Adzuki will deliver Monday's version because they had it ready by then. The kindness was real. The timing was the thing.
+Agrodolce Adzuki Beans are the Bean Zodiac's most quick-witted. The reply comes back before the sentence has finished landing, and it's better than anything the rest of us had. Occasionally it comes back sharp enough to cut. Sitting slowly with a hard question is not their gift.
