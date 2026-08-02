@@ -1,5 +1,5 @@
 ---
-# CHANGED SINCE THIS CONTENT WAS WRITTEN — trait: imaginative -> speculative, excess: overimaginative -> fantastical
+# TODO: tidy facets, redo rorschachs
 slug: bitter-fermented-green
 lastUpdated: 
 bean: green
@@ -23,26 +23,26 @@ fortuneMid: Look closer — use your bean's eye.
 fortuneLow: A hippogriff is just a horse and eagle combined.
 fortuneLeast: Do not colour outside the lines.
 facetMostTitle: Alice in Beanderland
-facetMost: You hear a creaking floorboard late at night, while in bed. You can already picture a man in the hallway, his intentions, why he's here, which window you should jump out of, and where to run.
+facetMost: You once worked out what the town would look like if the railway had never closed — the streets that would exist, the pub still open, the man you would have married — and you can hold all of it at once, and you are supposed to be at work.
 facetHighTitle: Black Beanror
-facetHigh: You're putting your nephew to bed and he asks for a story, something new. You have no trouble crafting one from nothing — a mish-mash of half-remembered fairy tales, pop culture, daily life, and things you think would be cool.
+facetHigh: The field has a shape under the grass that should not be there. You start on what it might have been. By the end of the walk there is a whole village in your head and two reasons to believe in it.
 facetMidTitle: What Bean...?
-facetMid: There's a big empty house you go past on the way to work, curtains always shut, bit creepy. You've settled on who lives in it and what they do all day, and you add a bit more to it each time you pass.
+facetMid: Somebody says the house has been empty six years. You are three storeys inside already, working out who left and why.
 facetLowTitle: Paint by Beans
-facetLow: You open an envelope addressed to you, and inside is a letter in your handwriting, saying it's you from the future. You have no memory of writing it. You put it down to either a prank or a night you'd had a few.
+facetLow: An offer is on the table and there is a version of your life that follows from taking it, and you do not go near that version. You read the terms twice and think about the money.
 facetLeastTitle: Groundhog Bean
-facetLeast: When asked what you'd do with ten million dollars, you answer that you'd clear the mortgage, carve out a bit for a nice holiday, and put the rest in the bank.
-question: You walk outside and there's a giant hole in your garden, big enough that you can't see the bottom. What is your first thought on where it came from?
-answerMost: it's the workings of something cosmic, not of this world
-answerHigh: someone, or something, is tunneling up from who knows where
-answerMid: an old well or mineshaft that nobody knew about has opened up
-answerLow: it's a sinkhole — the ground's given way
-answerLeast: a main water pipe has burst and washed the soil out from under it
-rorschachMost: an emerging genie
-rorschachHigh: a strange, viscous creature
-rorschachMid: an odd-shaped mushroom
-rorschachLow: a tree on a hill
-rorschachLeast: an ink blot
+facetLeast: There is a shape in the fog at the end of the field and it is the wrong size for a cow. You wait until the thing moves, decide it is a cow, and think no more.
+question: You pass a house that's stood empty for years. You...
+answerMost: Have the whole family history worked out
+answerHigh: Wonder properly about who left, and why
+answerMid: Think it's a shame, and picture it done up
+answerLow: Notice that it's empty
+answerLeast: Not really register it
+rorschachMost: a genie out the bottle
+rorschachHigh: a fountain at full spray
+rorschachMid: a tree on a mound
+rorschachLow: a kettle barely steaming
+rorschachLeast: a bucket, quite still
 ---
 
 Cultured Green Beans are the Bean Zodiac's most speculative. Give them a rumour and by Friday there's a full scenario, one branch of which turns out right. Other branches go where no evidence supports. They cannot sit with a stranger's odd behaviour and simply not theorise.

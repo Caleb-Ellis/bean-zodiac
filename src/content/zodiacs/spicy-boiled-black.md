@@ -1,5 +1,5 @@
 ---
-# COMPLETELY NEEDS UPDATING — excess: self-punishing -> grinding, inverse: faint-hearted -> fragile
+# TODO: tidy facets, redo fortunes, redo rorschachs
 slug: spicy-boiled-black
 lastUpdated: 
 bean: black
@@ -17,32 +17,32 @@ antiTriple: sour-roasted-pinto
 antiBeans: [cannellini, green]
 antiForm: smoked
 seasonalFortune: "A season of chipotle and slow grinding: the pot outlasts the fuel it was given."
-fortuneMost: The thing that wore everyone else down was built to your measure. They'll turn to see if you're still standing — you are.
-fortuneHigh: The slow problem is going to give — because you were still there when it ran out of fight.
+fortuneMost: Backwards into the burrow, tusks out, and the warthog will do it all again.
+fortuneHigh: The slow problem gives because you were still there when it ran out.
 fortuneMid: Finish on the same legs that started it.
 fortuneLow: Hand off the thing you've been white-knuckling. It survives without you.
-fortuneLeast: The pot's been on the fire long enough. Lift it off, start something with no scars on it yet.
+fortuneLeast: Lift the pot off and start something with no scars on it.
 facetMostTitle: Beanmetropolis
-facetMost: Quitting isn't in you. The whole league's folded and the season's a write-off, and you still show up to every practice.
+facetMost: Fourteen months of the same treatment and the same two-hour round trip to get it, and somewhere along the way it stopped being difficult and started being simply what happens. You book the next block of appointments without mentioning any of it to anybody.
 facetHighTitle: Million Dollar Beanby
-facetHigh: A knot in the rope won't give. Your fingers ache and the light's going, and still you work it strand by strand.
+facetHigh: The dig has been rained off three times and half the volunteers have stopped coming. You are there on the fourth attempt with the wheelbarrow and the flask.
 facetMidTitle: It's the Hard-Beanknock Life
-facetMid: Eight hours on your feet and the kitchen's finally clearing. The stool's right there, but you stay standing till the last pan's dry.
+facetMid: Your knee has been bad since March and the walk is eleven miles over rough ground. You do it slower than the rest and you finish it.
 facetLowTitle: Beanfragile
-facetLow: The puzzle's one piece short and you've upended the box twice. Leave the gap, call it close enough, sweep the rest back in.
+facetLow: Two hours into the drive with the traffic solid, and there is a hotel at the next junction. You take it and start again in the morning.
 facetLeastTitle: Beanporcelain
-facetLeast: A book's dragged for a hundred pages with no sign of turning good. You shelve it half-read and reach for a different one.
-question: You're digging a line of fence posts by hand and the ground's turned to baked clay; you're three holes in, blistered, with nine to go before dark. You...
-answerMost: keep swinging, hole after hole, till the last post stands however long it takes
-answerHigh: push through a few more, then break and finish at first light
-answerMid: do what you can today and pace the rest across the week
-answerLow: knock off early, decide it can wait for softer ground
-answerLeast: down tools the moment the first blister opens
-rorschachMost: a pickaxe biting into a slab of rock
-rorschachHigh: a rusted anchor with two hooked flukes
-rorschachMid: a crow with one ragged wing spread
-rorschachLow: a paper kite trailing its loose tails
-rorschachLeast: a swallow gliding with wings barely beating
+facetLeast: One bad week at the new job and you are already looking at the adverts again, and you have told three people you are not sure it is for you.
+question: You said you'd redo the bathroom in a fortnight and you're five weeks in with no working sink. You...
+answerMost: carry on with it long past the point where anyone would blame you for stopping
+answerHigh: keep at it, and adjust how you are going about it
+answerMid: keep going, and say out loud that it is hard
+answerLow: step back from it and see how you feel in a week
+answerLeast: hand it back before it gets any worse
+rorschachMost: a millstone never lifted
+rorschachHigh: two stones and grain
+rorschachMid: a hub and its handle
+rorschachLow: a mill turned by hand
+rorschachLeast: a rock gone to sand
 ---
 
 Braised Black Beans are the Bean Zodiac's most gritty. Year four of the hard thing and they are still at it, unglamorously, on the days it isn't working. It sometimes continues past the point of return. Admitting they are worn through is a sentence they won't say.

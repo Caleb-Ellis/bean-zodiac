@@ -1,5 +1,5 @@
 ---
-# COMPLETELY NEEDS UPDATING — trait: rigid -> unwavering, excess: unbending -> inflexible, inverse: supple -> vacillating
+# TODO: tidy facets, redo fortunes, redo rorschachs
 slug: bitter-dried-navy
 lastUpdated: 
 bean: navy
@@ -17,32 +17,32 @@ antiTriple: spicy-smoked-pinto
 antiBeans: [mung, green]
 antiForm: fermented
 seasonalFortune: "A season of counted sacks and fixed rations. The store does not change its mind about winter."
-fortuneMost: Refuse the polite exception.
+fortuneMost: Two bighorn rams butting the same rock for hours, and neither one has moved.
 fortuneHigh: Pin it down in writing.
-fortuneMid: Make the exception once, and note why, so it doesn't quietly harden into a rule.
-fortuneLow: Break your own protocol on purpose and watch what falls down.
-fortuneLeast: That old rule was written for a life you no longer have.
+fortuneMid: You said the same thing in the same words and it held.
+fortuneLow: Change your mind where somebody can see you do it.
+fortuneLeast: A position held long enough stops being a position.
 facetMostTitle: The Bridge on the River Bean
-facetMost: A marked route, and a shortcut everyone's cutting through the fence to save twenty minutes. Not you — every switchback walked the long marked way, because the marked way is the way.
+facetMost: You gave the surveyor's figure for the hull months back and two people have found rot in it since, and you give the same figure now, in the same words, to the same room.
 facetHighTitle: Stand By Bean
-facetHigh: You said you'd return the borrowed ladder by the weekend, and a storm's coming you could use it for. Back it goes regardless, on the dot, the word given outranking your own convenience.
+facetHigh: Four of you were going to lodge the claim for the unpaid hours and three have now gone quiet. You lodge it with your name on alone, and you put the figures in unchanged.
 facetMidTitle: The Beanshank Redemption
-facetMid: Play it as written, you say, while the table lobbies to house-rule the slow bit out of the board game. The printed rule is the game — tweaks come later, if ever, not mid-hand to save five minutes.
+facetMid: Your objection to the barn conversion went in with reasons attached. The reasons have not changed. Somebody asks whether you might soften it now the applicant has been round, and the objection stands as written, down to the paragraph about the lane.
 facetLowTitle: Beanlet
-facetLow: The road you always take is closed and the detour's a guess. You take a turn you've never driven, no plan, winging the route home, the wheels just rolling on.
+facetLow: New drawings have come and they answer the two things you objected to. You send a line saying you are content.
 facetLeastTitle: Sliding Beans
-facetLeast: The plan was set and the whole group suddenly wants to scrap it for something wilder. You drop your version without a fight, pour yourself into theirs, going where the night goes.
-question: A recipe says simmer for two hours. At ninety minutes it looks done. Guests arrive in twenty. You...
-answerMost: keep it on the heat the full two hours
-answerHigh: set the timer and find something to do until it rings
-answerMid: check it again at the hour-forty mark
-answerLow: pull it now, it looks ready
-answerLeast: turn off the heat and rummage for crackers instead
-rorschachMost: two cast-iron weights bolted to a bar
-rorschachHigh: two stone bollards set in concrete
-rorschachMid: two gourds resting on a table
-rorschachLow: two water balloons sagging out of shape
-rorschachLeast: two soap bubbles wobbling about to drift
+facetLeast: You booked the hall, then moved it, then moved it back, and eleven people have each been told a different date, and the answer you give now is a fourth one.
+question: You've argued a position for months and somebody produces evidence against it. You...
+answerMost: hold the position and question the evidence
+answerHigh: hold it until the evidence is properly checked
+answerMid: say you'll look at it and mean it
+answerLow: shift, and say so out loud
+answerLeast: drop it entirely and take up theirs
+rorschachMost: a needle refusing to swing
+rorschachHigh: a compass holding north
+rorschachMid: two wings on a pivot
+rorschachLow: a needle drifting slightly
+rorschachLeast: a weathercock in gusts
 ---
 
 Desiccated Navy Beans are the Bean Zodiac's most unwavering. What they said in January they will say in November, and people arrange their lives around it. When the facts change the position sometimes doesn't. Someone who reverses twice in a week gives them vertigo.

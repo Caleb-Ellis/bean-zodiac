@@ -1,5 +1,5 @@
 ---
-# COMPLETELY NEEDS UPDATING — trait: fairylike -> ethereal, excess: flimsy -> wraithlike, inverse: lumbering -> earthy
+# TODO: tidy facets, redo fortunes, redo rorschachs
 slug: bitter-smoked-mung
 lastUpdated: 
 bean: mung
@@ -17,32 +17,32 @@ antiTriple: sour-fried-fava
 antiBeans: [green, edamame]
 antiForm: fermented
 seasonalFortune: "A season of rice husk and neem honey — the healing arrives thin and leaves no trace."
-fortuneMost: Leave the small kindness and slip off before the thanks can find you.
-fortuneHigh: Send the thing that asks for nothing back — a remembered line, a paper bird folded small.
+fortuneMost: You can see straight through a moon jellyfish, and it leaves nothing behind at all.
+fortuneHigh: Send the thing that asks for nothing back - a remembered line, a paper bird folded small.
 fortuneMid: Sign the card this time.
 fortuneLow: Carry it over and put it straight into their hands.
 fortuneLeast: A hand on the shoulder, eye to eye, right there beside them.
 facetMostTitle: The Phantom of the Beanera
-facetMost: The new tenant downstairs is clearly broke and too proud to say so. You start leaving the spare half of every grocery run outside their door, marked for no one, and let them never learn whose it was.
+facetMost: Mist is down over the reservoir. You have been on the path four hours. Somebody rings about eating and you cannot answer.
 facetHighTitle: A Midsummer Night's Bean
-facetHigh: A coworker dreads the cold walk to the far lot after dark. You quietly start parking your own car where it lights their path, and never mention you chose the spot for them.
+facetHigh: You come into the stone church while the choir is still going and take a seat at the back where the cold is. By the second verse two of them have looked up without knowing why.
 facetMidTitle: Tinker Bean
-facetMid: A friend's birthday brings the usual gift you'd slip in unsigned. This time you tuck a card inside with your name on it, so the kindness has a face to land on.
+facetMid: The puppet show is done and the children have gone home, and you stay behind in the hall with the lamps still on, doing nothing much at all.
 facetLowTitle: Beanroots
-facetLow: A friend offers to cover your share and says wave it off. You'd rather settle up to the cent, the thanks said out loud and the ledger flat between you.
+facetLow: A scrum has gone down in front of you and there is noise and mud. Somebody is shouting for the ball. You are in there, and you get your shoulder into the man in front.
 facetLeastTitle: Dirty Beancing
-facetLeast: You need a hand moving the couch and could hint and hope someone offers. Instead you call the one person directly and ask them straight to come help.
-question: A neighbour leaves a small unwrapped gift on your doorstep — a paper bird folded with care, a sprig of rosemary tied to one wing. No note. You...
-answerMost: leave a folded paper bird of your own on theirs by morning, no note
-answerHigh: hang the bird in the window where the light catches it and say nothing
-answerMid: bring it inside, put it on the kitchen shelf, and wonder for a few days who
-answerLow: ask the neighbours at the next door if they know who left it
-answerLeast: bin it; a stranger leaving things at the door is strange
-rorschachMost: a luna moth folded on a stem
-rorschachHigh: a wren puffed small on a branch
-rorschachMid: a ripe pear left on the sill
-rorschachLow: a heavy cast-iron pot
-rorschachLeast: a sandbag slumped against the door
+facetLeast: There is a hog roast on and a man carving and the crackling going round on a board. You have the plate and the bread and the apple sauce, and you go back for more of it and stand there eating with your hands.
+question: How much room do you take up in a room?
+answerMost: people aren't sure whether you came in
+answerHigh: it goes a bit quieter, and nobody knows why
+answerMid: you're there, and people find you if they need you
+answerLow: you're easy to spot and easy to hear
+answerLeast: the room arranges itself round you
+rorschachMost: a hole where something passed
+rorschachHigh: a veil caught on air
+rorschachMid: a curl of smoke
+rorschachLow: a cloth beginning to settle
+rorschachLeast: a clod of turned earth
 ---
 
 Charcoal Mung Beans are the Bean Zodiac's most ethereal. They come into the room and the volume drops a notch, and nobody could say quite why. Sometimes there's so little weight to them the room forgets to feed them. Being solidly, bodily present is a costume that never fits.

@@ -1,5 +1,5 @@
 ---
-# CHANGED SINCE THIS CONTENT WAS WRITTEN — excess: fevered -> self-indulgent, inverse: uninspired -> sterile
+# TODO: tidy facets, redo rorschachs
 slug: umami-fermented-green
 lastUpdated: 
 bean: green
@@ -23,26 +23,26 @@ fortuneMid: One strange turn is enough to make it yours.
 fortuneLow: Take the path you already know.
 fortuneLeast: Leave it as it came; it needs no new shape.
 facetMostTitle: Synecdoche, New Beanyork
-facetMost: The band is happy with the fourth arrangement of the song, each more experimental than the last. They want to move on, but you want to push it further, so you pull it apart and start working on a fifth.
+facetMost: The brief was a poster. What you have made has a fold in it, a second poster inside, and a smell. This is the best thing you have done, it will not go through a letterbox, and the client has asked twice for a poster.
 facetHighTitle: Beanmadeus
-facetHigh: People-watching at a cafe, you start building whole lives for the strangers walking past — names, where they're headed, what they're running from.
+facetHigh: The room is a room, the budget is nothing, and there is a skip outside with a door in it. You put the door across two crates and the whole thing works.
 facetMidTitle: Blue Beanpeter
-facetMid: Your niece hands you a crayon and asks if you can draw a dog. You draw it seated on a throne, give it a top hat, maybe a moustache — anything but a normal dog.
+facetMid: Given a piece to arrange that everybody knows, you keep the tune where people expect it and change the thing underneath, and nobody could say afterwards what you altered but every one of them noticed a difference.
 facetLowTitle: The Sterile Beancuckoo
-facetLow: Given a paint-by-numbers kit, you fill each patch with the number it's marked, and it turns out perfect — just like the picture on the front.
+facetLow: There is a way of doing it that is yours and a way that is standard, and you do the standard one, and it is fine.
 facetLeastTitle: The Blank Beanpage
-facetLeast: First night in a foreign city with markets, galleries and a nightlife to explore. Maybe tomorrow though. You track down a place that does burgers and fries and sit down relieved.
-question: Blazing hot day at the beach, and someone suggests building a sandcastle. There's buckets, spades, plenty of shells. You...
-answerMost: start sculpting an entire sand city by hand
-answerHigh: build a large castle that has several towers, a moat and a bridge
-answerMid: build a decent-sized castle using the tools you have
-answerLow: pack a few buckets together and call it done
-answerLeast: pass on the activity, just enjoy the sun
-rorschachMost: a fairy with butterfly wings
-rorschachHigh: paint flung at a canvas
-rorschachMid: a snowball splatted against a wall
-rorschachLow: a used tissue
-rorschachLeast: nothing discernable
+facetLeast: A template is on the shared drive and it has been used four hundred times, and you open that. You change the date and the name, and what goes out is the four hundred and first, and nobody will ever look at it.
+question: You're given a job with a template, and nobody's checking. You...
+answerMost: Ignore it and make something else entirely
+answerHigh: Use it as a base and make it mine
+answerMid: Follow it, with one thing changed
+answerLow: Follow the template
+answerLeast: Change the date and the name
+rorschachMost: paint flung past the canvas
+rorschachHigh: a brush mid-stroke
+rorschachMid: a smudge and a curl
+rorschachLow: a clean palette
+rorschachLeast: an empty white wall
 ---
 
 Miso Green Beans are the Bean Zodiac's most creative. Give them a blank wall and a weekend and there is something on it nobody would have thought of. Sometimes it is for them alone. Producing nothing at all for a month makes them ill.

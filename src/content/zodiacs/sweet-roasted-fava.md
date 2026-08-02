@@ -1,5 +1,5 @@
 ---
-# CHANGED SINCE THIS CONTENT WAS WRITTEN — trait: outspoken -> emboldening, excess: loudmouthed -> inciting, inverse: tight-lipped -> dampening
+# TODO: tidy facets, redo rorschachs
 slug: sweet-roasted-fava
 lastUpdated: 
 bean: fava
@@ -23,26 +23,26 @@ fortuneMid: Don't be afraid to hand out compliments.
 fortuneLow: Just let it go.
 fortuneLeast: Listen a long while — do not interrupt.
 facetMostTitle: Beanrabble-Rouser
-facetMost: You're at the movies, and the new horror is about to start. By the end, you've let out a few audible gasps and "oh my god"s, as well as a few "who's that guy"s and "what's going on"s.
+facetMost: Eleven of them were going to write a letter and now they are going to walk out. You did that. You said the thing that turned them, and you meant it at the time, and you are not the one whose job goes if this fails.
 facetHighTitle: You've Got a Friend in Bean
-facetHigh: At dinner everyone's tiptoeing around the fact that granddad shouldn't be driving anymore — no one was hurt in his recent crash, but it could've been a lot worse. You state your concerns plainly, while he's listening.
+facetHigh: She has been sitting on the idea a year and is one push away from doing it. You give her the push, in front of two people who will hold her to it, and she goes.
 facetMidTitle: Go On, Bean
-facetMid: Your friend sets down the stew they've simmered all afternoon. First mouthful, it's a bit too salty — and you say so.
+facetMid: A boy in your class thinks he is no good at any of it, so you find something he does better than anybody and make sure the room hears about it.
 facetLowTitle: Beankilljoy
-facetLow: The book club is halfway through praising an autobiography you found unbearably self-aggrandising. When it's your turn to give your thoughts, you say it was interesting, and had a unique perspective.
+facetLow: He is nearly ready to ask her and wants to know what you think. You tell him these things are hard to call, and leave it.
 facetLeastTitle: The Beanspoilsport
-facetLeast: Your sister's about to sink her savings into a friend's café — a friend you've heard isn't the most reliable. She asks if it's a good idea. You answer with "if you trust your friend".
-question: When you disagree with someone, what do you do?
-answerMost: say so loudly, not just to them but to whoever's in earshot
-answerHigh: tell them straight, to their face
-answerMid: say something, but wait for the right moment
-answerLow: drop a hint and hope they pick it up
-answerLeast: keep it to yourself
-rorschachMost: a shaken can foaming over
-rorschachHigh: a startled bird bursting up off the ground
-rorschachMid: a dirty hiking backpack
-rorschachLow: a hen hunched over her eggs
-rorschachLeast: a clenched fist
+facetLeast: Four of them have got themselves worked up about the plan, and it is a decent plan. You bring up the money, and the timescale, and the last time somebody tried it. By the end of the meeting nobody is doing anything.
+question: A friend is one push away from doing something they've wanted for a year. You...
+answerMost: Push, and tell everyone they're doing it
+answerHigh: Give them the push they need
+answerMid: Tell them I think they should
+answerLow: Say it's hard to call
+answerLeast: Lay out everything that could go wrong
+rorschachMost: a flint throwing sparks
+rorschachHigh: a match to dry straw
+rorschachMid: a hammer and hot iron
+rorschachLow: an ember under ash
+rorschachLeast: a wet log, smoking
 ---
 
 Glazed Fava Beans are the Bean Zodiac's most emboldening. Fifteen minutes with them and the application goes in, and it is the right application. Sometimes people get talked into things that weren't theirs. Telling somebody honestly not to try is a sentence they can't form.

@@ -1,5 +1,5 @@
 ---
-# COMPLETELY NEEDS UPDATING — excess: stinging -> barbed, inverse: rambling -> vague
+# TODO: tidy facets, redo fortunes, redo rorschachs
 slug: sour-dried-edamame
 lastUpdated: 
 bean: edamame
@@ -17,32 +17,32 @@ antiTriple: umami-boiled-kidney
 antiBeans: [mung, adzuki]
 antiForm: roasted
 seasonalFortune: "A season of dried yuzu and short remarks: the salt lands where it was aimed."
-fortuneMost: Ask aloud the question the whole table has been circling, and watch the evening finally move.
-fortuneHigh: A friend tells it in nine sentences; hand it back in two.
-fortuneMid: What you owe fits in one plain sentence.
+fortuneMost: Your aim is good, and the small wound outlives the point you made.
+fortuneHigh: Aim at the thing, not the person holding it.
+fortuneMid: Blunt tools need more force, and do more damage.
 fortuneLow: Take the long way round to the answer.
-fortuneLeast: Don't throw yet — the thing hasn't decided what it is.
+fortuneLeast: A stingray lies flat in the sand and lets the water pass over.
 facetMostTitle: Mean Beans
-facetMost: Cut in and ask it straight — the guide is ten minutes into the long history and the group only wants to know if the bridge ahead will hold.
+facetMost: The reference has to be honest and it is. You write that he was punctual. You write that he was popular with the team and never once off sick. You write nothing at all about the work, and anybody who reads references will read that.
 facetHighTitle: Beanpoint Break
-facetHigh: Lost in a strange city, your companion narrates every wrong turn aloud. You glance at the skyline once and point — that way.
+facetHigh: The toast is going well and you land the line about his first marriage, which gets the laugh from the room and also gets exactly where you had aimed it.
 facetMidTitle: Straight to the Bean
-facetMid: The waiter hovers, reciting specials, and the table dithers. You name your order in three words and hand back the menu.
+facetMid: Given a school report to write for a boy who has done nothing whatever all year, you use a single sentence, and that sentence does the whole job.
 facetLowTitle: Beanfog
-facetLow: Someone asks if they should leave the job they've poured years into. The clean yes-or-no is right there, but you take the slow road and ask what they'd miss.
+facetLow: The leaving card comes round and there is half a page still empty. You put your name and best wishes and pass it on.
 facetLeastTitle: Cloud Beanuckoo Land
-facetLeast: No verdict yet on the half-finished thing in front of you — let it sit unjudged, content to wait until it shows what it wants to be.
-question: Your brother lays out the franchise he's about to sink his savings into, numbers glowing, and there's a hole in it you can see from here. He's beaming. You...
-answerMost: put a finger on the hole in one sentence before he finishes beaming
-answerHigh: ask the single number that makes the whole thing wobble
-answerMid: sleep on it and send him the worry by text tomorrow
-answerLow: float a soft "have you thought about—" and leave it open
-answerLeast: let him have the night, raise it only if he asks
-rorschachMost: a horned owl fixed on its prey
-rorschachHigh: a beaked head with two raised ears
-rorschachMid: an acorn with its cap still on
-rorschachLow: a kitten with its ears barely budding
-rorschachLeast: a round dumpling with a pinched top
+facetLeast: Somebody asks straight out what you thought of the meeting. You call it interesting, allow that some good points were made, and observe that there is a lot to think about. You could not name one of them under oath.
+question: You're signing a leaving card for a colleague you never rated. You...
+answerMost: Write a line they'll be reading for years
+answerHigh: Write something true with an edge on it
+answerMid: Write one honest, careful sentence
+answerLow: Write good luck, and my name
+answerLeast: Write that it's been an absolute pleasure
+rorschachMost: a barbed hook, baited
+rorschachHigh: a wasp, sting down
+rorschachMid: a stingray with its tail
+rorschachLow: a paint drip
+rorschachLeast: a blot spreading softly
 ---
 
 Dehydrated Edamame are the Bean Zodiac's most pointed. One question, aimed exactly where the plan is weakest, and the answer decides the meeting. The aim occasionally draws blood nobody needed spilt. Circling a problem gently for ten minutes is time they won't spend.

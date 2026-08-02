@@ -1,5 +1,5 @@
 ---
-# COMPLETELY NEEDS UPDATING — trait: irreverent -> satirical, excess: blasphemous -> mocking
+# TODO: tidy facets, redo fortunes, redo rorschachs
 slug: bitter-fried-pinto
 lastUpdated: 
 bean: pinto
@@ -17,32 +17,32 @@ antiTriple: sweet-dried-cannellini
 antiBeans: [mung, navy]
 antiForm: boiled
 seasonalFortune: "A season of chile negro and sharp mimicry — the refry mocks the dish it came from."
-fortuneMost: What's passing for structure is folded paper, and you can see the crease.
+fortuneMost: Doing everyone's voice, the starling has never once been asked back.
 fortuneHigh: Name the thing nobody will, early, and the bloated hour buckles to twenty honest minutes.
 fortuneMid: A laugh in the wrong second, on purpose.
 fortuneLow: Ceremony isn't the enemy. It's the bowl the meal sits in.
 fortuneLeast: That's a soft spot, not a costume.
 facetMostTitle: Mock the Bean
-facetMost: Mid-flourish, the tour guide calls the vase priceless and irreplaceable. You ask, deadpan, what it last sold for — and the group's careful reverence quietly cracks down the middle.
+facetMost: Two minutes of the impression and his whole management style is finished as a going concern. He is in the doorway behind you. There are four more minutes of material to come.
 facetHighTitle: Dr. Strangebean
-facetHigh: The award ceremony has crowned itself the most important night in the field, three speakers deep. You lean over and name the emperor's missing clothes, just loud enough for your row.
+facetHigh: Somebody in a hard hat says the word journey in the company video, and you say the next line before he does, and you get it word for word.
 facetMidTitle: Animal Beanfarm
-facetMid: The wedding's gone full solemn and a phone blares a cartoon ringtone in the silence. You're the one who lets a small grin show — not a heckle, just a wink that loosens the pew.
+facetMid: In the town square a statue flinches whenever anybody reads the inscription aloud, and you read that inscription out at full volume, every single time, whoever you happen to be walking past with.
 facetLowTitle: Songs of Beans
-facetLow: A nervous kid stands up to recite a poem and stumbles over half the lines. There's an easy laugh right there — you hold it, and clap like they nailed it instead.
+facetLow: The founder's portrait hangs at the top of the stairs and there is a great deal to be said about the moustache and about the spaniel he is holding and about the curtain behind him. You go up past it and say none of it.
 facetLeastTitle: HalleluBean
-facetLeast: An old man at the memorial rises to give a long, earnest, fumbling tribute to his friend. You take every word of it straight — moved, not amused — and would never dream of a quip.
-question: At the school prize-giving the head sweeps into the grandest, most self-important line of the whole speech. You...
-answerMost: let the joke escape under your breath before you can stop it
-answerHigh: bite your cheek and hold the grin down
-answerMid: keep a straight face and save the thought for after
-answerLow: feel the occasion settle properly and sit up
-answerLeast: applaud it warmly and mean every clap
-rorschachMost: a balloon sagging as the air leaks out
-rorschachHigh: a spinning top tilting off its point
-rorschachMid: a balloon on a string with a tassel
-rorschachLow: a church bell hung from its beam
-rorschachLeast: a chandelier hanging over a still hall
+facetLeast: Somebody has to give the eulogy and the man was difficult. You stand up. You say he gave everything to the place, and mean it.
+question: Somebody's making a speech full of the usual phrases. You...
+answerMost: do the impression while he's still doing it
+answerHigh: catch somebody's eye and say the next line first
+answerMid: enjoy it quietly and save it for later
+answerLow: let it go past you
+answerLeast: find it rather moving
+rorschachMost: a jester carved in wood
+rorschachHigh: a face pulled askew
+rorschachMid: a bust, narrow base
+rorschachLow: a portrait, true likeness
+rorschachLeast: a saint in a niche
 ---
 
 Scorched Pinto Beans are the Bean Zodiac's most satirical. Two minutes of impression and the boss's whole management style is finished as a going concern. Nothing is exempt, including things people needed to keep. Sincere admiration is the one register they can't hold for long.

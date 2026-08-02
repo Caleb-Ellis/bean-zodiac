@@ -1,5 +1,5 @@
 ---
-# COMPLETELY NEEDS UPDATING — excess: dislocated -> unmoored, inverse: grounded -> planted
+# TODO: tidy facets, redo fortunes, redo rorschachs
 slug: bitter-smoked-chickpea
 lastUpdated: 
 bean: chickpea
@@ -17,32 +17,32 @@ antiTriple: sour-dried-navy
 antiBeans: [edamame, butter]
 antiForm: boiled
 seasonalFortune: "A season of aubergine ash and half-places: the smoke belongs to no kitchen and every one."
-fortuneMost: Coat still on, unhurried, at home on the threshold.
-fortuneHigh: Someone's going to ask if you're staying, and you can answer without the three-sentence cushion.
+fortuneMost: Wonderful company across the marsh, the will-o-the-wisp, and it puts nobody ashore.
+fortuneHigh: Say how long, plainly, and let that be the whole of it.
 fortuneMid: Unpack one box and call yourself moved in.
 fortuneLow: Take the chair with your back to the door.
-fortuneLeast: The threshold has gone cold from all the hovering.
+fortuneLeast: A name on a deed is a good weight to carry.
 facetMostTitle: Beandrift
-facetMost: A lease renewal slides across the desk, two years for a better rate. You take the month-to-month at the worse one, keeping the road open under your feet.
+facetMost: Six months as a night porter and you have not seen daylight on a working day since you started. Your friends have stopped asking. You could not now say whether you are the person who does this or the person waiting to stop doing it.
 facetHighTitle: The Twilight Bean
-facetHigh: The team is naming a "this is who we are" thing — a motto, a colour, a standing ritual. You float a joke that dodges the vote and keep yourself uncommitted to all of it.
+facetHigh: House empty, last box gone, keys back at noon. You sit down on the floor of the front room for an hour.
 facetMidTitle: Beanlimbo
-facetMid: A club you actually like wants you on the roster, badge and all. You sign up as a drop-in guest, in for the good nights, on no list that expects you back.
+facetMid: Waiting at the level crossing with the barrier down and nothing at all coming either way, you find you are in no hurry whatever for the thing to lift.
 facetLowTitle: The Secret Beanden
-facetLow: A tattoo you've sketched for years sits ready at the artist's. You go in and get it inked, letting one mark settle the question for good.
+facetLow: Somebody asks how long you will be staying in the border town and you say a while yet. You have started buying things that are heavy to move, which is new.
 facetLeastTitle: There's No Place Like Bean
-facetLeast: A volunteer crew needs a captain for the whole season, no subbing out. You put your hand up, take the clipboard, and own every week of it.
-question: Dusk on a long hike, and there's a cabin that takes walkers in for the night. You...
-answerMost: pitch your tent in the yard within sight of it and keep walking at first light
-answerHigh: take a bunk but leave the pack laced and by the door
-answerMid: stay the night, share a meal, slip off before the others wake
-answerLow: take a bunk, unpack properly, settle in for a rest day
-answerLeast: ask if they need a hand and end up staying the week
-rorschachMost: a figure pausing in a doorway, half-turned to leave
-rorschachHigh: a traveller and a roadside shrine, a few steps apart
-rorschachMid: a boulder and a bramble bush in a field
-rorschachLow: a shepherd crouched close over a sleeping dog
-rorschachLeast: a woman settled into an armchair by the window
+facetLeast: The smallholding has your name on the deeds and forty years of your father in the soil. You will die in that house, and you have known it since you were nine.
+question: You've been house-sitting three months and the owners are back next week. You...
+answerMost: Have no idea at all where I'll be after that
+answerHigh: Rather enjoy not knowing yet
+answerMid: Have something loose lined up
+answerLow: Have somewhere sorted already
+answerLeast: Have my own place I never gave up
+rorschachMost: a boat off its mooring
+rorschachHigh: two banks, no bridge
+rorschachMid: an island and the shore
+rorschachLow: a pier reaching out
+rorschachLeast: an oak in its field
 ---
 
 Charcoal Chickpeas are the Bean Zodiac's most liminal. They're the one still talking at four in the morning, in the corridor between two parties, comfortable where nobody else stays. Nothing quite becomes a fixed address. Being firmly and only one thing has never been on offer.

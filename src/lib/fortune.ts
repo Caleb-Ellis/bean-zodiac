@@ -43,13 +43,14 @@ const daysSinceOrigin = (date: Date): number =>
       86_400_000,
   );
 
-// Weights: heirloom=1, market=2, garden=2, stale=2, rotten=1 (total 8)
-// → heirloom and rotten are 0.5x as likely as market, garden, stale
+// Weights: heirloom=1, market=2, garden=3, stale=2, rotten=1 (total 9)
+// → a symmetric bell: garden is the common middle, heirloom and rotten are the
+// rare poles at a third of garden's odds.
 const qualityFromSlot = (r: number): QualityId => {
   if (r === 0) return QualityIds.Heirloom;
   if (r <= 2) return QualityIds.Market;
-  if (r <= 4) return QualityIds.Garden;
-  if (r <= 6) return QualityIds.Stale;
+  if (r <= 5) return QualityIds.Garden;
+  if (r <= 7) return QualityIds.Stale;
   return QualityIds.Rotten;
 };
 
@@ -63,18 +64,18 @@ const dayFold = (slug: string): number => {
 
 // Run the folded slug through h32's avalanche mixer with a day-seed. Seeding a
 // plain polynomial hash with the day directly (as this once did) makes h an
-// affine function of the day, so `h % 8` walks a deterministic sawtooth
-// (…6,5,4,3,2,1,0,7,6…) — the long-run ratios are right but the tier is fully
+// affine function of the day, so `h % 9` walks a deterministic sawtooth
+// (…6,5,4,3,2,1,0,8,7…) — the long-run ratios are right but the tier is fully
 // predictable and repeats day to day. Avalanching decorrelates adjacent days
 // while preserving the slot weights. `daySeed` is the plain day index on the
 // base roll, or a perturbed seed on a re-roll (see getDailyRitual), so a
 // re-roll varies the tier alongside the slug. Mirrors variantFromSeed.
 const qualityFromSeed = (daySeed: number, s: number): QualityId =>
-  qualityFromSlot(h32((daySeed ^ 0x39393939) >>> 0, s) % 8);
+  qualityFromSlot(h32((daySeed ^ 0x39393939) >>> 0, s) % 9);
 
 export type RitualVariant = "facet" | "question" | "rorschach";
 
-// Weights out of 7: facet 4, question 2, rorschach 1.
+// Weights out of 14: facet 9, question 3, rorschach 2.
 // Keyed on the claimed (personal) slug, not the fortune slug: the fortune roll
 // collapses onto a small, daily-anchored set of outcomes, so deriving the
 // variant from it clustered the whole user base onto the same variant each day.
@@ -83,9 +84,9 @@ export type RitualVariant = "facet" | "question" | "rorschach";
 // a different variant from one day to the next. `daySeed` is perturbed on a
 // re-roll (see getDailyRitual) so the variant varies alongside the slug/tier.
 const variantFromSeed = (daySeed: number, s: number): RitualVariant => {
-  const r = h32((daySeed ^ 0x5a5a5a5a) >>> 0, s) % 7;
-  if (r < 4) return "facet";
-  if (r < 6) return "question";
+  const r = h32((daySeed ^ 0x5a5a5a5a) >>> 0, s) % 14;
+  if (r < 10) return "facet";
+  if (r < 13) return "question";
   return "rorschach";
 };
 

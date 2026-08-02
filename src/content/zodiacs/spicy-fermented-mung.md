@@ -1,5 +1,5 @@
 ---
-# CHANGED SINCE THIS CONTENT WAS WRITTEN — trait: compulsive -> absorbed, excess: pathological -> engulfed, inverse: self-controlled -> distracted
+# TODO: tidy facets, redo rorschachs
 slug: spicy-fermented-mung
 lastUpdated: 
 bean: mung
@@ -23,26 +23,26 @@ fortuneMid: A smaller hunger waits beneath the loud one.
 fortuneLow: An old habit has gone quiet.
 fortuneLeast: A craving rises, breaks, leaves no groove.
 facetMostTitle: Beanswallowed Whole
-facetMost: You locked the front door and you know you locked it. But you know you have no choice but to walk back and try the handle a third time, just to make sure.
+facetMost: You went into the darkroom after breakfast. There was a knock at some point and you did not answer it. When you come out it is dark outside and there are forty prints pegged up.
 facetHighTitle: Lost in the Beanwork
-facetHigh: Your fingers have find the loose thread on your sleeve, the chip in the mug rim, the edge of the label. Pick at it, and pick at it again, the way you can't seem not to.
+facetHigh: The lino block has an hour's work left in it and the light in the shed is good and your hand knows exactly what it is doing. There is a meal going on a table indoors, and you stay with the block until the whole thing is cut.
 facetMidTitle: The Beandeep Dive
-facetMid: The picture frame hangs a hair off level. You straighten it, walk on, then come back from the doorway to nudge it once more.
+facetMid: Ten lines of the translation have gone right and you can feel the rest coming. You shut the door on the phone.
 facetLowTitle: Beansquirrel!
-facetLow: Halfway down the road, the thought rises that you never checked the back gate. You keep walking.
+facetLow: The chair has three legs re-glued and one to go. The clamp is right there. You go and see who is at the door.
 facetLeastTitle: Beangoldfish Memory
-facetLeast: The train pulls out before you remember the tickets might still be on the kitchen counter. You settle into the seat.
-question: You're already under the covers, lights off, and the thought arrives that you can't quite remember turning off the stove. You...
-answerMost: get up, check it, check the front door and the taps while you're there
-answerHigh: pad back to the kitchen, lay one hand on the cold dial, return to bed
-answerMid: lie still and weigh whether the certainty's worth the cold floor
-answerLow: tell yourself you'd have noticed gas by now and stay put
-answerLeast: roll over; you turned it off, of course you did
-rorschachMost: paint flicked repeatedly at one spot
-rorschachHigh: gnats swarming a light bulb
-rorschachMid: a snowball disintegrating mid-throw
-rorschachLow: a puddle settling after a splash
-rorschachLeast: a dried stain on the floor
+facetLeast: A table is meant to be getting sanded and the radio is on and somebody is in and out with the washing. You do a bit, and two hours of work takes four days.
+question: You've got a clear afternoon and a job you actually like. You...
+answerMost: look up and it's dark and you've not eaten
+answerHigh: put your phone in another room and stay with it
+answerMid: work at it, with breaks when you notice them
+answerLow: do a bit, then get up for something
+answerLeast: have the radio on and get about an hour done
+rorschachMost: a stone gone under water
+rorschachHigh: a seed sunk in soil
+rorschachMid: a pebble in a puddle
+rorschachLow: a rock half submerged
+rorschachLeast: a leaf blown past
 ---
 
 Kimchi Mung Beans are the Bean Zodiac's most absorbed. They go into the work and the afternoon disappears, and what comes out has real attention in it. Sometimes the door stays shut for days. Half-doing a thing with the radio on isn't possible for them.

@@ -1,7 +1,6 @@
 ---
-# QUICK REVIEW — trait, excess and inverse all unchanged
 slug: bitter-boiled-black
-lastUpdated: 
+lastUpdated: 2026-08-02
 bean: black
 flavour: bitter
 form: boiled
@@ -38,11 +37,11 @@ answerHigh: keep a steady distance and think it through before acting
 answerMid: take one careful look, then decide
 answerLow: fetch a box and try to coax them in straight away
 answerLeast: swat near it to see what they do
-rorschachMost: a roosting owl tucked close against a fledgling
-rorschachHigh: a big sheepdog sat beside a smaller huddled pup
-rorschachMid: a seated cat facing a small spiky hedgehog
+rorschachMost: a roosting owl and fledgling
+rorschachHigh: a big sheepdog and pup
+rorschachMid: a seated cat and a hedgehog
 rorschachLow: a wrestler pitching forward
-rorschachLeast: two burrs flung apart, spines scattering off both
+rorschachLeast: two burrs flung apart
 ---
 
 Infused Black Beans are the Bean Zodiac's most measured. They answer a half-second late and the answer is better for it. On a deadline they file last, long after the room has moved on. Anyone who answers instantly, they quietly suspect of guessing.

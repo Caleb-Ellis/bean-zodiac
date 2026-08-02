@@ -1,5 +1,5 @@
 ---
-# CHANGED SINCE THIS CONTENT WAS WRITTEN — trait: erratic -> spellbinding, excess: unhinged -> bewildering, inverse: consistent -> pedestrian
+# TODO: tidy facets, redo fortunes, redo rorschachs
 slug: spicy-smoked-pinto
 lastUpdated: 
 bean: pinto
@@ -17,32 +17,32 @@ antiTriple: sweet-fried-chickpea
 antiBeans: [kidney, mung]
 antiForm: dried
 seasonalFortune: "A season of brisket drippings and held attention — the smoke tells a story nobody interrupts."
-fortuneMost: Fire does not know how to stay still.
-fortuneHigh: 
-fortuneMid: 
-fortuneLow: An untended fire feeds no one.
-fortuneLeast: Keep a steady hand - do not drift.
+fortuneMost: Dancing the whole dance or being eaten - those are the peacock spider's options.
+fortuneHigh: Take the floor and hold it a beat past comfortable.
+fortuneMid: The table stopped talking and you had not noticed.
+fortuneLow: A plain telling is easier to remember than a dazzling one.
+fortuneLeast: Give the facts flat and let them be enough.
 facetMostTitle: Beanlost in the Funhouse
-facetMost: A half-built shelf, a guitar restrung, a letter started and set down — then a fourth thing glints brighter than all three. You drop the lot and reach for it.
+facetMost: You are describing a place none of them has been and they can smell it, and an hour has gone, and somebody has asked where it was.
 facetHighTitle: Beanspellbound
-facetHigh: Mid-sentence a better story occurs to you, then a better one behind that, while the person across from you is still waiting on the end of the first.
+facetHigh: A lighthouse on that coast shows a different shore every night and nobody has ever kept a record of it, and you sit up with a notebook and get four of them down before the light goes round again.
 facetMidTitle: Beanenchanted
-facetMid: Dinner's on a low simmer and the garden's right there through the window. You wander out to pull a few weeds, telling yourself it's only a minute.
+facetMid: A child wants the story about the tunnel again and there is a two-minute version available and bedtime was half an hour ago. What you do instead takes twenty minutes and has a river in it and a man who lives under the bridge.
 facetLowTitle: Beangarden Variety
-facetLow: Part-way into a book that's hooked you, another one you really wanted to read pops into your mind. You stick with the one you started.
+facetLow: Somebody asks how the weekend was. You tell them you got out on the Saturday and that the weather held all day.
 facetLeastTitle: Run-of-the-Beanmill
-facetLeast: A free day opens up, and what you want is exactly the familiar — a walk you love, the café that knows your order. You settle into the groove gladly.
-question: You've researched this one camera for months and it's on the counter ready to purchase, when a weird-looking one across the shop catches your eye. You...
-answerMost: ditch the one you came for and walk out with the new find
-answerHigh: buy them both, budget be damned
-answerMid: leave empty-handed to decide later
-answerLow: buy the one you came for, but wonder about the other
-answerLeast: pay for exactly what you came in for and go
-rorschachMost: the mark of a paintbrush stabbed at the page
-rorschachHigh: a sea urchin bristling on a rock
-rorschachMid: a durian lying on its side
-rorschachLow: a chestnut snug in its husk
-rorschachLeast: a hedgehog curled up
+facetLeast: An itinerary has to go out and eleven people need to know where to be. You write down where and when, and everybody gets where they are going without any trouble at all.
+question: Somebody asks what your weekend was like. You...
+answerMost: they end up somewhere that doesn't exist
+answerHigh: they can smell the place by the end of it
+answerMid: give them the one good bit properly
+answerLow: say it was good and where you went
+answerLeast: say it was fine
+rorschachMost: a dark sun, spines out
+rorschachHigh: a whirl pulling inward
+rorschachMid: a burr in a hedge
+rorschachLow: a wheel losing speed
+rorschachLeast: a plate on a table
 ---
 
 Chipotle Pinto Beans are the Bean Zodiac's most spellbinding. They describe a place you have never been and you can smell it, and the evening goes wherever they point. Sometimes nobody can follow where it went. Giving a plain account of the weekend is beyond them.

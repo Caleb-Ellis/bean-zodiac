@@ -1,5 +1,5 @@
 ---
-# COMPLETELY NEEDS UPDATING — excess: mutinous -> insubordinate, inverse: obsequious -> submissive
+# TODO: tidy facets, redo fortunes, redo rorschachs
 slug: umami-roasted-fava
 lastUpdated: 
 bean: fava
@@ -17,32 +17,32 @@ antiTriple: bitter-boiled-mung
 antiBeans: [navy, kidney]
 antiForm: dried
 seasonalFortune: "A season of lamb fat and mint — the tray does it its own way, loudly."
-fortuneMost: Don't pay the wrong charge twice just to make it stop.
-fortuneHigh: When they ask you to say it again, hoping it softens, say the same thing slower.
-fortuneMid: Walk up to it with a question, not a position. Holding ground starts with knowing where the ground actually runs.
+fortuneMost: You will not pay the wrong charge twice, whatever refusing it costs.
+fortuneHigh: "Take it the mustang's way: they can catch you, they cannot ride you."
+fortuneMid: Walk up to it with a question, not a position.
 fortuneLow: The fight you've braced for all this way may already be over, and won.
 fortuneLeast: Lose the small argument on purpose.
 facetMostTitle: Mutiny on the Beanbounty
-facetMost: A border guard waves your papers and tells you to move along faster. You match his pace exactly, no slower and no quicker, and meet his eye while you do it.
+facetMost: A letter has told you to stop and told you what happens if you do not, and you went back and did the same again in daylight, in front of the man who signed it. A second letter is coming and you would like to see what it says.
 facetHighTitle: I Will Beansurvive
-facetHigh: They ask you to repeat the unwelcome thing, hoping the second time comes out softer. It comes out at the same pace, the same words, and you hold your seat.
+facetHigh: That instruction is wrong and it has your name against it. You put in writing that you will not be doing the job, and why. You copy in the two people who must deal with that.
 facetMidTitle: Won't Back Beandown
-facetMid: A summons-shaped demand lands with no real question inside it. Answer it anyway to keep the peace, or let it stand out in the cold unanswered?
+facetMid: A rule nobody has explained, and you ask who made it and on what grounds, and keep asking until somebody answers.
 facetLowTitle: The Beanservant
-facetLow: The hill you'd braced to die on turns out to be undefended — nobody's even contesting it. Set the shoulders down and walk on, guard lowered, the fight already won.
+facetLow: You disagree with the whole direction and have said so once, quietly. You do the work exactly as asked, and well.
 facetLeastTitle: Whatever You Beanwant
-facetLeast: A loud relative redraws the holiday plans over your head and you can feel the old urge to plant your feet. You let the small one go and keep the warm evening instead.
-question: The bank has charged a fee that's tipped you into the red, and the helpline says it's policy, final. You...
-answerMost: refuse outright and tell them you'll fight it however far it goes
-answerHigh: demand it reversed and ask for the complaint in writing
-answerMid: push back once, then ask what it'd take to undo it
-answerLow: grumble, accept it, and move your money elsewhere later
-answerLeast: pay it, swallow it, and say nothing
-rorschachMost: a clenched fist with the knuckles set forward
-rorschachHigh: an anvil planted heavy on its block
-rorschachMid: a boulder with a chain trailing off it
-rorschachLow: a melting candle slumping off its holder
-rorschachLeast: a snowbank caving and sliding off the roof
+facetLeast: He has changed the brief again, it is worse, and no reason is given, and you tell him that is fine. You redo the whole thing his way over the weekend, and thank him for the steer when you send it back.
+question: You're given an instruction in writing that you think is plainly wrong. You...
+answerMost: Do the opposite, and copy them in
+answerHigh: Refuse in writing, and say why
+answerMid: Push back once, properly
+answerLow: Raise a concern and do it anyway
+answerLeast: Do it, and thank them for the steer
+rorschachMost: a dog with bared teeth
+rorschachHigh: a mouth set hard
+rorschachMid: a gourd, two holes bored
+rorschachLow: a jaw unclenched
+rorschachLeast: a tail tucked under
 ---
 
 Rendered Fava Beans are the Bean Zodiac's most defiant. Told to drop it, they do not drop it, and the thing that was going to be buried isn't. Sometimes it is defiance with no cause left in it. Doing as they're told smoothly has never happened.

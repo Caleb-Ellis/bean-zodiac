@@ -1,5 +1,5 @@
 ---
-# CHANGED SINCE THIS CONTENT WAS WRITTEN — excess: long-suffering -> passive, inverse: impatient -> restive
+# TODO: tidy facets, redo rorschachs
 slug: umami-boiled-black
 lastUpdated: 
 bean: black
@@ -23,26 +23,26 @@ fortuneMid: The thoughts are still forming. Give it time.
 fortuneLow: Eleven checks on the same number, and it's no riper for any of them. Step off it.
 fortuneLeast: Not everything deepens in the dark. Some things just go cold while you stand over them.
 facetMostTitle: Beanssengers
-facetMost: The seedling you planted hasn't broken soil and a neighbour says it never will. You water it the same and give it another fortnight.
+facetMost: The offer is on the table, it is a good one, and everybody who knows about it wants to be told what you are going to do. Three weeks later they are still asking, and you have still not moved on it.
 facetHighTitle: The English Beanpatient
-facetHigh: A child holds up a hard green plum, expectantly, and asks if it's ready. You tell her plainly it needs longer.
+facetHigh: The place you want does not come up often. You have been watching it for two years, and when it finally does you already know what you will pay.
 facetMidTitle: The Long Goodbean
-facetMid: The jam still won't set, and it's late, and the clean jars are waiting. You give it another few minutes on the boil.
+facetMid: The bread wants another hour in there and the whole kitchen already smells finished. You leave it exactly where it is.
 facetLowTitle: Restless Beans
-facetLow: The water's only just gone in and you're already squeezing the teabag against the side of the mug.
+facetLow: A fortnight of waiting on that call and checking the phone is not on silent. This afternoon you give up and ring them first.
 facetLeastTitle: Ants in Your Beans
-facetLeast: The roast's been out of the oven for 30 seconds when you start carving it, excited to dig in.
-question: The whole season of the show you've waited months for just dropped, all ten episodes at once. You...
-answerMost: ration it to one a week and make the wait last
-answerHigh: watch one tonight and pace yourself after that
-answerMid: get through a couple, then turn in
-answerLow: stay up and watch most of it before bed
-answerLeast: burn through the entire season in one sitting
-rorschachMost: a toad settled wide and motionless on a stone
-rorschachHigh: an animal hide laid flat to cure
-rorschachMid: a low island spread across dark water
-rorschachLow: a bat startled mid-flap off a branch
-rorschachLeast: a moth thrashing wide against the glass
+facetLeast: Six days of waiting for a reply and you have sent three follow-ups, the last one at half past eleven at night.
+question: The hospital said they'd ring with the results by six, and it's quarter past. You...
+answerMost: wait it out entirely, however long that turns out to be
+answerHigh: wait, and use the time on something else
+answerMid: wait, and check in once
+answerLow: get impatient and push it along
+answerLeast: chase it repeatedly until somebody answers
+rorschachMost: an ox down for good
+rorschachHigh: an ox lying in shade
+rorschachMid: a low bank, long
+rorschachLow: a beast getting up
+rorschachLeast: hooves working the stall
 ---
 
 Dashi Black Beans are the Bean Zodiac's most patient. They will wait three years for the right opening and take it in the one week it exists. Sometimes the waiting becomes the whole strategy. Being restless enough to force something isn't in their nature.

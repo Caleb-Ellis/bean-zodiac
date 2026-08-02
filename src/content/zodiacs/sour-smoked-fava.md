@@ -1,5 +1,5 @@
 ---
-# CHANGED SINCE THIS CONTENT WAS WRITTEN — trait: biting -> unblinking, excess: savage -> merciless, inverse: balmy -> squeamish
+# TODO: tidy facets, redo rorschachs
 slug: sour-smoked-fava
 lastUpdated: 
 bean: fava
@@ -23,26 +23,26 @@ fortuneMid: Ask the question then go quiet.
 fortuneLow: The next sharp comment will be right and useless both.
 fortuneLeast: They've been handing you the edited version, having learned what the ugly one costs.
 facetMostTitle: No Beanmercy
-facetMost: A speaker on stage has just told an outright lie. Your hand is up before the clapping settles, and the question you're about to ask has teeth.
+facetMost: That dressing has to come off and the district nurse has asked whether you would rather look away. You watch the whole thing. You ask what the yellow means, and what the smell means, and she answers you, and you have not moved once.
 facetHighTitle: Don't Blink, Bean
-facetHigh: A coworker wants you to dress up bad news for their boss. You hand back the bare version — true, short, no padding — and let them carry it as it is.
+facetHigh: The lamb is not going to make it, somebody has to do the job, and the children are at the gate watching, so you take her round the back, do it properly, and come back and tell them straight.
 facetMidTitle: The Beanstaring Contest
-facetMid: The host asks how the dish turned out and means it. Overcooked, you say, evenly — and that's where you leave it.
+facetMid: The report has photographs in it, and you go through every page at the same speed, and you do not skip the middle section.
 facetLowTitle: Look Away, Bean
-facetLow: There's a sharp comeback fully formed and aimed at someone who'd feel it for a week. Swallow it, reach for something duller, and let the clean little hit go unscored.
+facetLow: A film has got to the part everybody warned you about. You are looking at a spot on the carpet until the sound changes.
 facetLeastTitle: Faint at the Bean
-facetLeast: A driver cuts in front of you and then stalls, flustered, at the light. The cutting remark is loaded and easy; you wave them through instead and let it go.
-question: In the busy square a passer-by dips a hand into the busker's open guitar case and palms a fold of notes, smooth as anything. You saw it. You...
-answerMost: call it out across the square and hold your hand out for it back
-answerHigh: step in front of them and ask, flat and quiet, what's in their fist
-answerMid: hold their eye until they feel it and put it back
-answerLow: catch the busker's attention and let them deal with it
-answerLeast: decide it's not your money and keep walking
-rorschachMost: a shredded thing chewed at both ends
-rorschachHigh: two crabs squared off, claws raised
-rorschachMid: a moth pinned open, wings spread flat
-rorschachLow: two cats dozing back to back
-rorschachLeast: two clouds drifting gently apart
+facetLeast: Somebody starts describing what the surgeon actually did and how long it took, and you ask them to stop. You go and stand in the kitchen a while, and you would rather nobody told you the rest, ever.
+question: A friend starts describing their operation in some detail. You...
+answerMost: Ask what the surgeon actually did
+answerHigh: Listen to all of it without flinching
+answerMid: Hear them out, mostly
+answerLow: Steer them off it after a while
+answerLeast: Ask them to stop and change the subject
+rorschachMost: two eyes that never close
+rorschachHigh: a pair of lenses
+rorschachMid: two lungs, one bigger
+rorschachLow: spectacles set down
+rorschachLeast: a hand over the eyes
 ---
 
 Cured Fava Beans are the Bean Zodiac's most unblinking. They look at the scan, the numbers, the state of the marriage, and describe them without flinching. Sometimes there is no mercy left in the description. Looking away from a bad thing they do not allow themselves.

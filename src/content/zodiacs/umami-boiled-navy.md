@@ -1,5 +1,5 @@
 ---
-# COMPLETELY NEEDS UPDATING — trait: pedantic -> custodial, excess: fault-finding -> proprietorial, inverse: freewheeling -> abdicating
+# TODO: tidy facets, redo fortunes, redo rorschachs
 slug: umami-boiled-navy
 lastUpdated: 
 bean: navy
@@ -17,32 +17,32 @@ antiTriple: spicy-smoked-pinto
 antiBeans: [green, butter]
 antiForm: roasted
 seasonalFortune: "A season of dried scallop and held keys — the stockpot is somebody's responsibility all year."
-fortuneMost: Make the correction.
-fortuneHigh: Spot the small wrong thing and mention it quietly, to one person, not the whole room.
-fortuneMid: Three small wrongnesses are nagging at you.
-fortuneLow: Right about the fix, and right that no one else will care.
-fortuneLeast: Cross to the far side of the room and look back at what you've been straightening.
+fortuneMost: Only borrowing the shell, the hermit crab behaves as though it built it.
+fortuneHigh: Keep the thing well and remember whose it is.
+fortuneMid: You are holding it for somebody who has not asked after it.
+fortuneLow: A thing minded too closely stops being anyone else's.
+fortuneLeast: Cross the room and look back at what you've been straightening.
 facetMostTitle: Citizen Beankane
-facetMost: A museum placard has the wrong date and the gallery's nearly empty. You track down an attendant to point it out, because someone, somewhere, will read it and deserve it right.
+facetMost: A village archive is in your back room and you have catalogued the lot, and somebody from the university wants to digitise the collection and has the funding to do that properly. You say you would want to be there for all of it, and nothing comes of the offer.
 facetHighTitle: The Beancaretaker
-facetHigh: One volume sits out of order on a friend's bookshelf, and they've never noticed. On the way past, quietly, it finds its proper place before you settle in to visit.
+facetHigh: The club accounts have been yours eleven years. Every one of them balances. You have them ready a fortnight before anybody asks.
 facetMidTitle: The Beanguardian
-facetMid: A leaning jar, a smudged pane, a peeling label — three crooked things tug at you across the kitchen, and you straighten only the worst before letting the other two live.
+facetMid: The seed library needs somebody to keep it going over the cold months and nobody has said anything at three meetings running. You take the tins home.
 facetLowTitle: The Last Beanemperor
-facetLow: Over the hedge, a neighbour's fence is painted a shade off true, and your eye keeps snagging on it. You leave it crooked and give the afternoon to something that's actually yours.
+facetLow: You have run the group four years and somebody keen has appeared, and you give her the folder and the passwords and stay on a term to help her through it.
 facetLeastTitle: Gone With the Beanwind
-facetLeast: The tools came back from a loan jumbled in the wrong slots of the box. Let them stay scrambled and grab whatever you need by hand, even as the disorder hums at you.
-question: A letter from the council quotes your address with the street number a digit off, though the bill is otherwise correct. You...
-answerMost: draft a reply citing the error and the right number, and keep a copy
-answerHigh: ring the office once to get the record fixed
-answerMid: note it and let it go unless it causes trouble
-answerLow: shrug; the postman knows where you live
-answerLeast: bin the envelope without reading past the first line
-rorschachMost: an arrowhead knapped to a clean point
-rorschachHigh: a kite trimmed taut on its frame
-rorschachMid: a single leaf flattened in a book
-rorschachLow: a paper plane folded crooked at the nose
-rorschachLeast: a rag torn off without measuring
+facetLeast: You started the thing and have carried it nine years and you have had enough, and there is nobody to hand over to. You stop answering the emails, and the whole of it is gone inside a season.
+question: You've kept something going for years and somebody offers to take it on. You...
+answerMost: keep hold of it and let them help
+answerHigh: hand it over slowly and properly
+answerMid: hand it over and stay available
+answerLow: hand it over and step right back
+answerLeast: let it go, and let it fall over
+rorschachMost: a hand on the deeds
+rorschachHigh: an estate and its lodges
+rorschachMid: a field and two sheds
+rorschachLow: a key left out
+rorschachLeast: a house handed over
 ---
 
 Dashi Navy Beans are the Bean Zodiac's most custodial. They keep the archive, the accounts and the group going, and all of it will still be here in twenty years. Sometimes the keeping becomes owning. Handing the thing over and walking away is unthinkable.

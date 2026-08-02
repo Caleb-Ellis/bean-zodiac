@@ -285,6 +285,7 @@ export default function Timeline({
                               beanName={fortuneBean.name}
                               zodiacId={node.fortuneZodiacId}
                               qualityId={node.qualityId}
+                              alignLeft
                             />
                           </p>
                         )}
@@ -354,7 +355,11 @@ export default function Timeline({
                           className="shrink-0 order-2 sm:order-1"
                           style={{ width: "3rem" }}
                         >
-                          <LazyMount placeholder={<div style={{ width: "3rem", height: "4rem" }} />}>
+                          <LazyMount
+                            placeholder={
+                              <div style={{ width: "3rem", height: "4rem" }} />
+                            }
+                          >
                             <Bean
                               bean={fortuneBean}
                               flavourId={fId}
@@ -432,7 +437,14 @@ export default function Timeline({
           </div>
         );
       }),
-    [yearSections, sectionZodiacs, loadingZodiacs, activeIdx, data, summaryByKey],
+    [
+      yearSections,
+      sectionZodiacs,
+      loadingZodiacs,
+      activeIdx,
+      data,
+      summaryByKey,
+    ],
   );
 
   return (
@@ -493,7 +505,11 @@ export default function Timeline({
                         className="shrink-0 order-2 sm:order-1"
                         style={{ width: "3rem" }}
                       >
-                        <LazyMount placeholder={<div style={{ width: "3rem", height: "4rem" }} />}>
+                        <LazyMount
+                          placeholder={
+                            <div style={{ width: "3rem", height: "4rem" }} />
+                          }
+                        >
                           <Bean
                             bean={claimedBean}
                             flavourId={claimedFlavourId}

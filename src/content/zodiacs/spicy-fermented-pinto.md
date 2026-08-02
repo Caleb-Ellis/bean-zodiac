@@ -1,5 +1,5 @@
 ---
-# COMPLETELY NEEDS UPDATING — excess: unstable -> capricious, inverse: phlegmatic -> stolid
+# TODO: tidy facets, redo fortunes, redo rorschachs
 slug: spicy-fermented-pinto
 lastUpdated: 
 bean: pinto
@@ -17,32 +17,32 @@ antiTriple: sweet-dried-black
 antiBeans: [edamame, cannellini]
 antiForm: boiled
 seasonalFortune: "A season of chile and lime — the mash changes its mind weekly and never explains."
-fortuneMost: You arrive already on the far side of an argument you hadn't started that morning.
-fortuneHigh: You've genuinely flipped and the new take is the right one. Say it flat — no apology, no "on reflection."
+fortuneMost: The anole is green on the branch and brown on the fence and means both.
+fortuneHigh: You've genuinely flipped and the new take is the right one. Say it flat.
 fortuneMid: Someone's still working off an older version of you. One short sentence updates them.
-fortuneLow: You've moved several rooms over and told no one, and the people who love you are still knocking at the old door.
-fortuneLeast: You've changed and no one's been told. Say it to one person, even clumsily.
+fortuneLow: You've moved several rooms over and told no one, and the people who love you are still knocking.
+fortuneLeast: Somebody has counted on you being the same, and you were.
 facetMostTitle: Beancaprice
-facetMost: You walked in wanting one life and somewhere over the meal it became a completely different one — new city, new everything. By the time the plates are cleared, the old plan feels like it belonged to a stranger.
+facetMost: The plan made at the start of the week is gone by the middle of it and the new one is genuinely better, and so is the one that replaces that by the weekend.
 facetHighTitle: Mercury Beanrising
-facetHigh: The taste you defended hard last month now genuinely embarrasses you, and the new one feels like the truth. When someone brings up the old you, set the record straight flat — no sheepishness, no walking it back gently.
+facetHigh: A staircase stands in the middle of that field and goes somewhere different depending on the light. You have been up it four times this month, and never twice to the same place.
 facetMidTitle: Mood Beanswings
-facetMid: Halfway through the gathering you can feel yourself shifting into someone a little different from who walked in. Let the plans bend to whoever you've become rather than honoring what the earlier you signed up for.
+facetMid: The holiday was booked for the coast. You have found something better inland. You change the lot and tell everybody the new one will be worth it, and you are right.
 facetLowTitle: Stone-Faced Bean
-facetLow: You made a promise weeks ago and the version of you who made it has long since drifted on. Keep it anyway, exactly as given, so the person counting on you isn't left chasing a moving target.
+facetLow: The route was decided and there is a nicer way that adds twenty minutes to it and you can see the turning for that road from where you are sitting in the car. You go the way that was decided and say nothing about the turning.
 facetLeastTitle: Beanlike Clockwork
-facetLeast: No urge to trade it for a newer one — the opinion you've held for years still fits you exactly. You say the same thing you've always said and mean it just as much, steady as a fixed point.
-question: You wake up at 4am with the clean realisation that the position you argued for all week is wrong. You...
-answerMost: write the reversal there and then and send it the moment the world's awake
-answerHigh: draft it before breakfast and send by lunch
-answerMid: mention it casually next time it comes up
-answerLow: keep it to yourself and let your future actions show the shift
-answerLeast: hold the line publicly, the old position is the one on record
-rorschachMost: smoke curling into a new shape
-rorschachHigh: an ink drop dispersing through water
-rorschachMid: a cloud breaking up over a hill
-rorschachLow: a puddle settled flat after rain
-rorschachLeast: an old ink stain dried fast in the cloth
+facetLeast: You have been in the same mood since the start of the week and nothing has changed and nothing is going to.
+question: You made a plan at the start of the week and by midweek you have thought of a better one. You...
+answerMost: nothing like it, and it changed twice
+answerHigh: the better parts got changed
+answerMid: roughly, with one swap in it
+answerLow: as agreed
+answerLeast: exactly, and next week will too
+rorschachMost: mercury broken into beads
+rorschachHigh: a splash never twice alike
+rorschachMid: a blot flicking off drops
+rorschachLow: a drop settling
+rorschachLeast: a puddle gone still
 ---
 
 Kimchi Pinto Beans are the Bean Zodiac's most mercurial. Monday's plan is gone by Thursday, replaced by a better one, and the better one is genuinely better. Sometimes nobody can plan around them. Holding the same mood for a whole week is beyond them.

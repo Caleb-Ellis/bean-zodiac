@@ -1,5 +1,5 @@
 ---
-# COMPLETELY NEEDS UPDATING — trait: direct -> clipped, excess: brusque -> curt, inverse: circuitous -> discursive
+# TODO: tidy facets, redo fortunes, redo rorschachs
 slug: sour-fried-black
 lastUpdated: 
 bean: black
@@ -17,32 +17,32 @@ antiTriple: umami-roasted-butter
 antiBeans: [pinto, adzuki]
 antiForm: fermented
 seasonalFortune: "A season of pickled shallot and short heat: the reply is one line, delivered hot."
-fortuneMost: When everyone else is still hedging, you're the one who names it — lime cutting clean through the crema.
+fortuneMost: In and out with the wave, the sandpiper is never anywhere long enough to be met.
 fortuneHigh: The short answer, given without the apology, beats the long careful one.
-fortuneMid: There's a question under the question, and you can hear it. Answer that one.
-fortuneLow: The thing you let slide still has the part you edited out. Going back to add it costs you a little face — say it anyway, plainly.
-fortuneLeast: Soften the edge and buy someone the half-second they brace for.
+fortuneMid: There is a question under the question and you hear it.
+fortuneLow: Add back the part you edited out, and take the cost.
+fortuneLeast: Softening the edge buys somebody the half-second they brace for.
 facetMostTitle: No Beanment
-facetMost: Out it comes, flat and to their face — the real cause of the mess your friend keeps pinning on bad luck.
+facetMost: The van is loaded wrong, the drop is in forty minutes, and the lad who did it is asking whether it will probably be all right. You say no. You tell him which pallet, and where it goes, and nothing else at all.
 facetHighTitle: Beandragnet
-facetHigh: Asked at a market stall whether the fruit's any good, you'd skip the kind hedge and tell them it's past it.
+facetHigh: The meeting has been going an hour and nothing has been settled or written down. Your summary of it takes about eleven seconds, and everybody in the room writes that down.
 facetMidTitle: Brief Beancounter
-facetMid: An old friend asks if you liked the gift. It wasn't to your taste, and you say as much rather than perform a thank-you.
+facetMid: Asked at the counter what the problem with the machine is, when the man has come in expecting a long story about it, you say it is the belt and hand it back.
 facetLowTitle: Tristram Beandy
-facetLow: A teenager is heading for a mistake you can see coming. Rather than say it flat, you ask a few slow questions and let them find the edge themselves.
+facetLow: Your neighbour wants to know what happened with the planning application, and you give her all of it — the letters, the dates, the man from the council and what he said in the road.
 facetLeastTitle: Infinite Beanjest
-facetLeast: Cornered about your choices at a crowded gathering, a smile and something soft — the true verdict never gets near your mouth.
-question: The contractor's quote has three vague line items and a number at the bottom that's clearly padded. You...
-answerMost: point at each line and ask him to justify it before you'll sign
-answerHigh: name the two items that don't add up and ask for a redo
-answerMid: question the biggest one and let the smaller padding slide
-answerLow: mention it costs a lot and hope he trims it himself
-answerLeast: sign it rather than have the awkward conversation
-rorschachMost: a spearhead pointed straight up from its broad base
-rorschachHigh: a chess pawn standing alone on the board
-rorschachMid: a cypress tree narrowing to a single point
-rorschachLow: a candle flame guttering sideways off its wide stub
-rorschachLeast: a melted taper slumped over its pooled wax
+facetLeast: You start telling the story of the boat, and forty minutes later you are describing the man who sold it to you, and the boat has not come up yet.
+question: How do you leave a voicemail?
+answerMost: name and number, nothing else
+answerHigh: one sentence saying what you want
+answerMid: the point, and when you are free
+answerLow: a couple of minutes, with a bit of background
+answerLeast: the whole thing, and the machine cuts you off
+rorschachMost: a hedge cut to stubs
+rorschachHigh: a hedge squared off
+rorschachMid: a bush and its clippings
+rorschachLow: a branch left long
+rorschachLeast: a thicket over the path
 ---
 
 Agrodolce Black Beans are the Bean Zodiac's most clipped. Instructions arrive in three phrases and everything you need is in them. Under pressure the three become two and both sound like orders. Telling the whole story, with the background, is a route they never take.

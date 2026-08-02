@@ -1,7 +1,6 @@
 ---
-# QUICK REVIEW — trait, excess and inverse all unchanged
 slug: sweet-roasted-butter
-lastUpdated: 
+lastUpdated: 2026-08-02
 bean: butter
 flavour: sweet
 form: roasted
@@ -38,11 +37,11 @@ answerHigh: make a joke of the score
 answerMid: say it's no biggie, we'll get em next time
 answerLow: tell them to keep their heads up, and talk strategy
 answerLeast: lay out all that's gone wrong
-rorschachMost: a hot-air balloon lifting off its wicker basket
-rorschachHigh: a parasol propped open above a picnic hamper
-rorschachMid: a jellyfish above a beach campfire
-rorschachLow: a bell hung still above an anvil
-rorschachLeast: a headstone set before a freshly filled grave
+rorschachMost: a hot-air balloon
+rorschachHigh: an open parasol
+rorschachMid: a jellyfish and campfire
+rorschachLow: a bell above an anvil
+rorschachLeast: a headstone before a grave
 ---
 
 Glazed Butter Beans are the Bean Zodiac's most lighthearted. They keep the evening at a level where nothing gets heavy, and people find that is exactly what they needed. Sometimes something serious needed to land. Sitting with real weight for an hour they'd rather not.

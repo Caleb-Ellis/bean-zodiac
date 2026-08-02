@@ -1,5 +1,5 @@
 ---
-# COMPLETELY NEEDS UPDATING — excess: inarticulate -> speechless
+# TODO: tidy facets, redo fortunes, redo rorschachs
 slug: umami-smoked-chickpea
 lastUpdated:
 bean: chickpea
@@ -17,32 +17,32 @@ antiTriple: sour-roasted-pinto
 antiBeans: [fava, navy]
 antiForm: fermented
 seasonalFortune: "A season of sweet paprika and no explanation — the smoke says it without saying it."
-fortuneMost: An inch of the glass pushed closer says more than most manage in a speech.
+fortuneMost: Koi come up to the hand and open their mouths and say nothing at all.
 fortuneHigh: You catch the weather of a room shifting an hour before anyone names the sky.
-fortuneMid: Asked how you are, set down a plate instead of an answer — warmer, and harder to argue with.
-fortuneLow: Not every silence carries; this one would read as you simply not being there.
+fortuneMid: Setting a plate down is an answer.
+fortuneLow: Say the obvious thing out loud; they cannot hear the other.
 fortuneLeast: Three clear lines, no garnish, like a clean receipt.
 facetMostTitle: Lost for Beans
-facetMost: Outside the party a friend is crying on the kerb. You sit down beside them, shoulder to shoulder, and don't reach for a word.
+facetMost: A letter is on the table and it says what you both thought it would say. You open your mouth twice and nothing comes out. You stand with a hand on the back of the chair, and in the end she says the words for you.
 facetHighTitle: Beanence Is Golden
-facetHigh: At a loud market stall, a stranger's eye catches yours on the same absurd thing — and there it is, the whole joke, no word spent.
+facetHigh: Forty years married, and you get the whole of what you mean across by getting up and putting the kettle on for her.
 facetMidTitle: It Goes Without Beaning
-facetMid: Push the warm mug toward the upset friend before any asking of how they are.
+facetMid: Standing where the valley opens out below the two of you, you say nothing at all and neither does he. That turns out to be exactly the right amount.
 facetLowTitle: Beantalk Talk
-facetLow: The hiking group's split on which fork to take. You say it out loud, plainly — this way, and here's why.
+facetLow: Everybody up on the top has gone quiet in front of the view, which is doing the job on its own. You start explaining to them what it is they can see.
 facetLeastTitle: Blah Blah Bean
-facetLeast: A look won't carry it at the departure gate, so you say it in plain words — exactly what they've meant to you.
-question: At your father's hospital bedside, both of you knowing what's coming, the room very quiet. You...
-answerMost: take his hand and stay, letting the silence hold what neither of you can say
-answerHigh: smooth the blanket, refill the water, be the steady presence in the room
-answerMid: say one plain true thing, then let the quiet come back
-answerLow: keep talking to fill the room and hold the dread off
-answerLeast: walk him through the practicalities, the steps, what happens next
-rorschachMost: a smooth river stone worn quiet
-rorschachHigh: a blanket folded over something kept private
-rorschachMid: a potato turned up from the dirt
-rorschachLow: a struck bell still ringing out
-rorschachLeast: a radio with its grille blaring open
+facetLeast: You get through to the radio phone-in at last and there are ninety seconds going. You use every one of them, and you were still going when they cut you off.
+question: Your friend has had bad news and you're sat with them. What happens?
+answerMost: Nothing comes out at all
+answerHigh: Not much said, and that's right
+answerMid: A few words, then quiet
+answerLow: I keep the talking going
+answerLeast: I fill every gap there is
+rorschachMost: a sealed sack
+rorschachHigh: a stone with one knob
+rorschachMid: a sleeping hound
+rorschachLow: a corked bottle
+rorschachLeast: a torn bellows, wheezing
 ---
 
 Hickory Chickpeas are the Bean Zodiac's most wordless. They sit with you through the worst hour and say almost nothing, and it is the right thing. Sometimes what needed saying doesn't get said. Talking a situation through at length isn't their way.

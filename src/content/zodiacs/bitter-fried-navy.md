@@ -1,5 +1,5 @@
 ---
-# CHANGED SINCE THIS CONTENT WAS WRITTEN — excess: trenchant -> cutting, inverse: obtuse -> woolly
+# TODO: tidy facets, redo rorschachs
 slug: bitter-fried-navy
 lastUpdated: 
 bean: navy
@@ -23,26 +23,26 @@ fortuneMid: Not every quiet hides a fault.
 fortuneLow: The easy answer stepped over the true one.
 fortuneLeast: Some beans are just supper, not a sign.
 facetMostTitle: Kill Bean
-facetMost: A friend brings their new partner to dinner. Before the plates clear you've formed a firm read on them, and you'd trust that read over anything they say about themselves.
+facetMost: Forty minutes of costing and everybody has talked around the same number. You say the job loses money at that rate. The man who set the rate is in the room.
 facetHighTitle: Occam's Bean
-facetHigh: A polished ad promises everything in thirty seconds. What snags you is the one thing it is careful not to say.
+facetHigh: A violin has been to two people and neither could say what was wrong with it. You have it under the lamp a minute and tell her the bass bar has gone.
 facetMidTitle: Sharp Beans
-facetMid: A friend blames traffic for being late, but you drove that same road and it was empty. You catch the mismatch and let it sit rather than pull the thread.
+facetMid: A group has spent an hour on why the takings are down and has named four things that might be doing it, and you ask which of the four they would actually change.
 facetLowTitle: Woolly Beanly
-facetLow: A stranger reels off directions with full confidence, and you set off following them block after block without once checking the map.
+facetLow: The report is nine pages of hedging and the answer is on page seven if you know where to look, and there are eleven people who will act on the summary rather than the page. You let it go through with a comment about the formatting.
 facetLeastTitle: Cloudy with a Chance of Beans
-facetLeast: Someone you've just met promises they'll call. You take it at face value, no weighing of whether they mean it.
-question: On the corner a magician makes a borrowed ring vanish, and the crowd gasps. You...
-answerMost: catch the exact moment of the switch
-answerHigh: lock onto the hand you think he wants you to ignore
-answerMid: turn the method over and over in your head after
-answerLow: gasp with the rest and only wonder how
-answerLeast: take it as pure magic and leave it be
-rorschachMost: a thistle head bristling with hard spines
-rorschachHigh: a horned beetle with horns raised
-rorschachMid: an ink drop splashed on the page
-rorschachLow: a hunched cat asleep, paws tucked under
-rorschachLeast: a soft ball of wool, ends frayed loose
+facetLeast: Somebody wants to know what went wrong on the job. You say a number of factors came together. Everybody nods.
+question: A meeting has been going an hour and nobody's named the actual problem. You...
+answerMost: name it, and name who caused it
+answerHigh: name it in one sentence
+answerMid: ask the question that gets somebody else to name it
+answerLow: let it run and mention it after
+answerLeast: sum up warmly and say it's been useful
+rorschachMost: a cog with every tooth
+rorschachHigh: a die cut deep
+rorschachMid: a burr, edges sharp
+rorschachLow: a stamp worn smooth
+rorschachLeast: a pad soaked in ink
 ---
 
 Scorched Navy Beans are the Bean Zodiac's most incisive. One sentence and the argument that ran an hour is over, because they named the thing everyone was circling. The sentence sometimes takes skin with it. Vague, generous summaries of a problem make them visibly restless.

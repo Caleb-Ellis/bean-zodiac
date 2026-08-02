@@ -8,20 +8,18 @@ import {
   type ZodiacId,
 } from "../../lib/zodiac";
 
-const getQualityLabel = (
-  qualityId: QualityId,
-): { text: string; className: string } | undefined => {
+const getQualityLabel = (qualityId: QualityId): string => {
   switch (qualityId) {
     case QualityIds.Heirloom:
-      return { text: "Overcooked", className: "text-effect-bruise" };
+      return "Overcooked";
     case QualityIds.Market:
-      return { text: "Well-Cooked", className: "text-effect-emerald" };
+      return "Perfectly-Cooked";
     case QualityIds.Stale:
-      return { text: "Undercooked", className: "text-effect-fog" };
+      return "Undercooked";
     case QualityIds.Rotten:
-      return { text: "Raw", className: "text-effect-void" };
+      return "Raw";
     default:
-      return undefined;
+      return "Well-Cooked";
   }
 };
 
@@ -34,6 +32,7 @@ interface Props {
   zodiacId?: ZodiacId;
   qualityId?: QualityId;
   asLink?: boolean;
+  alignLeft?: boolean;
 }
 
 export default function ZodiacName({
@@ -45,10 +44,11 @@ export default function ZodiacName({
   zodiacId,
   qualityId,
   asLink = true,
+  alignLeft = false,
 }: Props) {
   const qualityLabel = qualityId ? getQualityLabel(qualityId) : undefined;
   const qualitySpan = qualityLabel ? (
-    <span className={qualityLabel.className}>{qualityLabel.text} </span>
+    <span className="text-zinc-400 text-[0.625em]">{`${qualityLabel}`}</span>
   ) : null;
   const preparationSpan = (
     <PreparationName
@@ -60,19 +60,23 @@ export default function ZodiacName({
   );
   const beanSpan = <span className={`bean-${beanId}`}>{beanName}</span>;
 
-  if (zodiacId && asLink) {
-    return (
-      <a href={`/zodiacs/${zodiacId}`} className="no-underline hover:underline">
-        {qualitySpan}
-        {preparationSpan} {beanSpan}
-      </a>
-    );
-  }
-
   return (
-    <>
+    <span
+      className={`inline-flex gap-x-1 gap-y-0.5 flex-col items-center${alignLeft ? " sm:items-start" : ""}`}
+    >
+      {zodiacId && asLink ? (
+        <a
+          href={`/zodiacs/${zodiacId}`}
+          className="no-underline hover:underline"
+        >
+          {preparationSpan} {beanSpan}
+        </a>
+      ) : (
+        <span>
+          {preparationSpan} {beanSpan}
+        </span>
+      )}
       {qualitySpan}
-      {preparationSpan} {beanSpan}
-    </>
+    </span>
   );
 }

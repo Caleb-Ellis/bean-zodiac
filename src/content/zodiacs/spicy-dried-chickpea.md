@@ -1,5 +1,5 @@
 ---
-# COMPLETELY NEEDS UPDATING — excess: overcharged -> incendiary
+# TODO: tidy facets, redo fortunes, redo rorschachs
 slug: spicy-dried-chickpea
 lastUpdated: 
 bean: chickpea
@@ -17,32 +17,32 @@ antiTriple: bitter-fermented-butter
 antiBeans: [cannellini, black]
 antiForm: boiled
 seasonalFortune: "A season of Kashmiri chilli and live air — the heat moves between rooms without touching them."
-fortuneMost: Wherever you go, something starts — an argument, a plan, the overdue talk.
-fortuneHigh: The mood arrives before you do, and people meet it at the gate.
-fortuneMid: A good mood, carried lightly, seeds itself at the glummest gathering.
-fortuneLow: Take the long way round for a while.
-fortuneLeast: A good day lands in your lap and asks nothing of you.
+fortuneMost: An electric eel stuns the whole pool, and eats alone in it.
+fortuneHigh: Carry the good news to the two who most need it.
+fortuneMid: A mood you brought in has outlasted you in the room.
+fortuneLow: Let the hot thing stop with you.
+fortuneLeast: Some sparks do their best work going nowhere at all.
 facetMostTitle: Beanfirestarter
-facetMost: The reception after the burial has gone stiff and airless. One warm story from you, and ten minutes on the whole room is trading them, the grief loosened into something they can hold.
+facetMost: You repeat one sentence — the one that will do most damage to the man who said it — to the two people who will carry it furthest. Within a fortnight three departments know. You never lied once, and you were never anywhere near.
 facetHighTitle: Lightning Beanrod
-facetHigh: A stranger on the bus catches your eye and half-smiles. Names get swapped before your stop, and they step off lighter than they got on.
+facetHigh: Everybody is very nearly ready to say the thing out loud, and you say the first half of the sentence and leave the rest of it sitting on the table.
 facetMidTitle: Live Beanwire
-facetMid: Foul-tempered and trying to keep it to yourself at the dinner — yet you can feel the table quieting around an edge you'd swear didn't show.
+facetMid: Given the news before anybody else in the building has it, you tell the two people who most need to know.
 facetLowTitle: Bubble Beanboy
-facetLow: At the next table a negotiation is going sour and the air with it. Eyes on your own plate, you stay clear of its current.
+facetLow: Somebody hands you a piece of gossip with real heat in it and waits to see what you do. The story stops with you, and you do not much enjoy holding on to it.
 facetLeastTitle: Rubber Beansoul
-facetLeast: Old friends, a whole reunion of them, every mood washing right over you. You leave exactly as you came and carry none of it home.
-question: First morning on a new crew, the lads sat round the tea break in dead silence, everyone a stranger and no one breaking it. You...
-answerMost: crack something warm to the whole circle and have half of them talking inside ten minutes
-answerHigh: get the bloke next to you going and let the ease spread round the bench
-answerMid: offer one small thing — pour the teas, pass the biscuits — and leave it there
-answerLow: keep to your mug and your own corner
-answerLeast: put your earbuds in and let the silence stand
-rorschachMost: a sun flinging spokes out past a seahorse
-rorschachHigh: a burr scattering seed beside a curling stalk
-rorschachMid: a spiky chestnut husk and a wilting stem
-rorschachLow: a closed pinecone beside a coiled rope
-rorschachLeast: a stone urchin shut tight, a hook gone limp
+facetLeast: The family thread has gone up in flames overnight and somebody has added you to it. You read all ninety of the messages, and you reply to not one of them.
+question: You hear something at work that would change how three people see their manager. You...
+answerMost: Make sure the right three hear it
+answerHigh: Tell the one person who needs to know
+answerMid: Mention it if it comes up
+answerLow: Keep it to myself
+answerLeast: Forget I ever heard it
+rorschachMost: a match head, just struck
+rorschachHigh: a hand cupping a flame
+rorschachMid: a fence and a burr
+rorschachLow: a lantern behind glass
+rorschachLeast: a damp blanket, folded
 ---
 
 Sichuan Chickpeas are the Bean Zodiac's most conductive. Whatever is in the room passes through them and reaches everyone else louder — the enthusiasm, and also the panic. Sometimes they light a fire they were only carrying. Damping something down before passing it on isn't in their gift.

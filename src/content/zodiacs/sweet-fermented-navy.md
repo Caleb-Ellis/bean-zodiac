@@ -1,5 +1,5 @@
 ---
-# COMPLETELY NEEDS UPDATING — trait: introverted -> homespun, excess: shut-in -> provincial, inverse: extroverted -> worldly
+# TODO: tidy facets, redo fortunes, redo rorschachs
 slug: sweet-fermented-navy
 lastUpdated: 
 bean: navy
@@ -17,32 +17,32 @@ antiTriple: bitter-smoked-fava
 antiBeans: [green, kidney]
 antiForm: roasted
 seasonalFortune: "A season of maple and barley koji — the crock tastes of one house only."
-fortuneMost: Decline the party, bake the elaborate thing for an audience of one, and frost it anyway.
+fortuneMost: Running the whole yard, the bantam has never seen another one.
 fortuneHigh: The messages can stack up unread a long while.
 fortuneMid: Write the long warm letter and actually send it.
 fortuneLow: Your quiet is being read as distance.
-fortuneLeast: Open the door for no reason — no menu, no plan.
+fortuneLeast: Open the door for no reason - no menu, no plan.
 facetMostTitle: Hot Beanfuzz
-facetMost: A free weekend opens up and a dozen ways to fill it with people arrive by lunch. None of them tempt you the way an empty flat and a slow recipe for one already do.
+facetMost: There is bread once a week and a jar of something on the sill, and somebody back from a year abroad has photographs of all of it, and you ask them whether they missed proper bread.
 facetHighTitle: Little Beanwomen
-facetHigh: The group's bickering over where to eat and they're waiting on your vote to break the tie. You feel yourself drift to the edge of it, content to take whatever's chosen and say almost nothing.
+facetHigh: A village show wants somebody to run the produce tent and nobody has put a hand up in three years, and there are four evenings in it plus the whole of the day. You take that on and get the tent looking right.
 facetMidTitle: Home Sweet Beanhome
-facetMid: There's a faster bus and a slower walk home through the dark, and you've got nowhere to be. Your feet take the walk, the streetlights and your own footsteps the only company you want.
+facetMid: There is a jar of last year's damsons at the back. Nobody is coming for long. You open it anyway.
 facetLowTitle: All My Worldly Beans
-facetLow: Bad news lands and your first move is always to fold inward and handle it alone. Reach for a friend before you've even hung up your coat — let someone in this once.
+facetLow: A friend is going somewhere you have never heard of for three months and wants somebody with her. You look up where it is and think about it properly.
 facetLeastTitle: The Jet Beanset
-facetLeast: A run of invitations arrives, every night booked if you say yes to all of it. You say yes to all of it, and a packed week becomes the one you'd actually wanted.
-question: You rented the lake cabin to be alone. On the first evening a boat of cheerful neighbours rows over to ask you up for drinks. You...
-answerMost: wave them off kindly and bolt the door to the quiet you came for
-answerHigh: thank them, say maybe another night, and light your own fire
-answerMid: go up for one drink, then slip back early
-answerLow: join them and stay till the lamps come on
-answerLeast: bring a bottle, climb in the boat, and make a night of it
-rorschachMost: one cottage lit, the house beside it dark
-rorschachHigh: a snail drawn back from the open shell beside it
-rorschachMid: two rocks set apart along a shelf
-rorschachLow: two friends leaning in across a small table
-rorschachLeast: two dancers swung together mid-step
+facetLeast: You have been away eleven months and the house is let and there is nothing in the country you particularly miss, and somebody asks where home is, and you say you have not really got one.
+question: A friend's going somewhere far away for three months and wants company. You...
+answerMost: say you're better off where you are
+answerHigh: wish her well and keep the kettle on
+answerMid: think about it, and decide against
+answerLow: go for a fortnight of it
+answerLeast: go, and stay on after she leaves
+rorschachMost: one village, no road out
+rorschachHigh: two cottages and a lane
+rorschachMid: a hamlet and its fields
+rorschachLow: a road leaving the valley
+rorschachLeast: a harbour full of flags
 ---
 
 Funky Navy Beans are the Bean Zodiac's most homespun. Bread on Sunday, a jar of something on the windowsill, a house that smells of one thing all winter. Sometimes the world past the street stops being interesting. Being a stranger somewhere isn't a taste they've acquired.

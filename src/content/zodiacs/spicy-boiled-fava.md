@@ -1,5 +1,5 @@
 ---
-# COMPLETELY NEEDS UPDATING — excess: obstinate -> intransigent
+# TODO: tidy facets, redo fortunes, redo rorschachs
 slug: spicy-boiled-fava
 lastUpdated: 
 bean: fava
@@ -17,32 +17,32 @@ antiTriple: sour-smoked-chickpea
 antiBeans: [mung, cannellini]
 antiForm: roasted
 seasonalFortune: "A season of harissa and fixed opinion — the braise will not be talked down."
-fortuneMost: You are the spine when everyone else's opinion goes soft.
-fortuneHigh: Right is right, whoever it came from. Correct the recipe handed down three generations on the strength of one honest taste.
-fortuneMid: The sentence that makes one person uncomfortable is doing its job.
+fortuneMost: Everyone's opinion goes soft and yours is the spine, which does not bend.
+fortuneHigh: Right is right, whoever it came from. Correct the recipe handed down three generations.
+fortuneMid: Making one person uncomfortable is sometimes the sentence doing its job.
 fortuneLow: Read the objection twice before you answer.
-fortuneLeast: Conviction that only lasts while there's applause was never conviction.
+fortuneLeast: Even a mule moves for something it actually wants.
 facetMostTitle: The Iron Beanlady
-facetMost: Long after play's resumed, you're still on your feet over it — the referee blew a call that robbed your side and the whole bench just shrugged.
+facetMost: Four people have now shown you why the wall goes there and one of them brought drawings, and not a foot have you moved. You will not move a foot, the job has stopped, and you are looking into what an appeal would cost.
 facetHighTitle: Remember the Beanalamo
-facetHigh: A board game stalls over a rule and the table wants to just wing it. You dig out the manual and hold the game until it's settled right.
+facetHigh: They have offered a compromise that is genuinely reasonable and everybody in the room wants you to take it. You give the same no, in the same words, and you wait.
 facetMidTitle: No Beansurrender
-facetMid: The tour guide gets a date wrong and you happen to know it cold. Say so, plainly, even with the whole group listening.
+facetMid: A fortnight of being asked, and you have given the same answer every single time, and by the end of it people have stopped asking.
 facetLowTitle: Shaky Beanground
-facetLow: You'd swap dinner spots the second a friend admits they'd rather somewhere else, even one you'd set your heart on.
+facetLow: You told them the answer was no and they have come back with a new argument. You find you have started saying you will think about it.
 facetLeastTitle: Second Beanthoughts
-facetLeast: Someone reroutes the road trip at the last junction when your gut says otherwise. Their wheel, their call — you settle back and let it ride.
-question: The clerk says your form is wrong, the rule isn't written anywhere, and the queue behind you is growing restless. You...
-answerMost: hold your ground and ask them to show you the rule
-answerHigh: stay put, calm, and refuse to move until it's resolved
-answerMid: push once, then take the number and wait it out
-answerLow: redo the form their way to keep things moving
-answerLeast: apologise, step aside, and come back another day
-rorschachMost: a bull bracing low with one horn down
-rorschachHigh: an anvil with its horn jutting out
-rorschachMid: a boulder with a hooked branch above it
-rorschachLow: an ox easing its head toward the grass
-rorschachLeast: a sheep curling soft around a bent crook
+facetLeast: That trip was one you said you were not going on, and you meant it, and three of them have now had a go at you. You are going. You do not know when that changed, and you would struggle to name what changed it.
+question: You've said no, and they come back with a genuinely good new argument. You...
+answerMost: Say no in exactly the same words
+answerHigh: Hear it out and still say no
+answerMid: Take it away and think properly
+answerLow: Start softening on the spot
+answerLeast: Find I've agreed by the end of it
+rorschachMost: a girder bolted in place
+rorschachHigh: a bar across a door
+rorschachMid: a ridge running diagonally
+rorschachLow: a branch bending slowly
+rorschachLeast: a rope gone slack
 ---
 
 Braised Fava Beans are the Bean Zodiac's most adamant. The answer is no, and it was no in March, and the pressure since has changed nothing at all. Sometimes it stays no past the point of sense. Being genuinely undecided is a condition they rarely experience.

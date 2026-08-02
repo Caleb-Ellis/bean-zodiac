@@ -1,7 +1,6 @@
 ---
-# QUICK REVIEW — trait, excess and inverse all unchanged
 slug: bitter-roasted-edamame
-lastUpdated: 
+lastUpdated: 2026-08-02
 bean: edamame
 flavour: bitter
 form: roasted
@@ -22,15 +21,15 @@ fortuneHigh: Fear not at whom the kookaburra laughs — it laughs at thee.
 fortuneMid: The truth can be loose sometimes.
 fortuneLow: Many a true bean is roasted in jest.
 fortuneLeast: The bean's been peeled.
-facetMostTitle: Thank You for Beanoking
+facetMostTitle: Thank Bean for Smoking
 facetMost: The officiant completely mangles the bride's name and the whole hall freezes. You riff on the mistake, no hesitation.
 facetHighTitle: The Importance of Being Beanest
 facetHigh: A smug dig lands at your expense, and the group turns to watch you take it. You fire back, short and sharp.
-facetMidTitle: His Girl Beanday
+facetMidTitle: His Bean Friday
 facetMid: The tour guide has been talking about an old statue for ten minutes. You ask the person next to you if they think the statue's bored too.
-facetLowTitle: Led Beanpelin
+facetLowTitle: Bean Zeppelin
 facetLow: Someone thanks you for something you didn't actually do, openly and a little teary. You take it straight and just say thank you back.
-facetLeastTitle: Beanravity
+facetLeastTitle: Gravity Bean
 facetLeast: Asked across the table what you do, you just say it plainly — no setup, no twist, not even an "it pays the bills".
 question: An offhand thing you posted in your early teenage years resurfaces, and your friends are quoting it with their own punchlines added on. You...
 answerMost: outdo every punchline with a sharper one
@@ -39,10 +38,10 @@ answerMid: play along lightly, nothing too sharp
 answerLow: reply straight with what you actually meant
 answerLeast: skip the bit and just thank the kindest one
 rorschachMost: a jester mid-bow
-rorschachHigh: a crow hunched with its head cocked
-rorschachMid: a grain sack cinched at the neck
-rorschachLow: a hooded monk bowed low over his hands
-rorschachLeast: a tree stump with one root curling free
+rorschachHigh: a hunched crow
+rorschachMid: a grain sack
+rorschachLow: a hooded monk
+rorschachLeast: a tree stump
 ---
 
 Wood-Fired Edamame are the Bean Zodiac's most witty. The remark arrives fast, fits precisely, and is gone before it can be admired. Some evenings every subject gets a remark and none gets an answer. Saying a plain, heavy, unfunny thing costs them real effort.

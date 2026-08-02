@@ -1,5 +1,5 @@
 ---
-# COMPLETELY NEEDS UPDATING — excess: fastidious -> fussy
+# TODO: tidy facets, redo fortunes, redo rorschachs
 slug: bitter-boiled-mung
 lastUpdated: 
 bean: mung
@@ -17,32 +17,32 @@ antiTriple: sour-fried-fava
 antiBeans: [green, edamame]
 antiForm: roasted
 seasonalFortune: "A season of neem and slow skimming: the pot removes what harms before it adds what heals."
-fortuneMost: A thing in your keeping simply doesn't go wrong.
+fortuneMost: Every few steps the deer stops and listens, and the field is eaten very slowly.
 fortuneHigh: Make the careful pass, then set it down.
-fortuneMid: Two passes is the budget — recognise the costume on the third and walk away.
+fortuneMid: Two passes is the budget; the third is a costume.
 fortuneLow: Send it out the door before you go over it once more.
 fortuneLeast: Let the small slip stand and the alarm chirp.
 facetMostTitle: The Odd Bean
-facetMost: The frozen lake looks solid clear across, and the far bank's right there. Still you tap ahead with the pole at every step, trusting nothing the eye alone reports.
+facetMost: The stained glass is back in the frame and the lead line is a hair off true. You have it out on the workbench again.
 facetHighTitle: Handle With Bean
-facetHigh: Bag to pack for a long day in the hills. Each item checked off and laid in the order you'll want it — then the zip goes, and that's the end of it.
+facetHigh: Thirty children and a chess clock each, and you walk the hall before anybody sits down checking that every board has its full thirty-two pieces.
 facetMidTitle: Careful with That Axe, Bean
-facetMid: One crooked frame on the far wall and you cannot let the room be. Across you go to set it level before you'll sit, the tilt of it nagging until your hand fixes it.
+facetMid: The minibus is hired and eleven of them are coming on it, and the insurance is printed and in the glovebox. You have driven the route once already to see where the low bridge sits.
 facetLowTitle: Careless Beansper
-facetLow: Guide points up the ridge at the trailhead — you in? Yes, right then, pack still on your shoulders. You sized the climb up quickly, and quick was always going to be plenty.
-facetLeastTitle: Oops!... I Did It Bean
-facetLeast: Same floorboard squeaks under the same step, week after week. Let it squeak, step around it, leave the fix for a tomorrow that never lands.
-question: Roped up at the foot of the climb, harness on, your partner ready to belay. There's still a moment before you commit to the rock. You...
-answerMost: run the whole safety check again, slowly — knot, buckle, gate, every link
-answerHigh: tug-test the knot and the carabiner once more
-answerMid: glance the harness over and start up
-answerLow: clip in and climb
-answerLeast: be three moves up before you've checked a thing
-rorschachMost: two stones joined by one thin, unbroken thread
-rorschachHigh: a cat edging across a narrow plank between roofs
-rorschachMid: two boulders with a faint bridge between them
-rorschachLow: two buoys dragged together, the mooring line gone taut
-rorschachLeast: a rope bridge snapped, the two cliffs crashing in
+facetLow: Boards are coming off the saw at the wood yard faster than they can be stacked and somebody is due at four. You put them through without the second measure, and the pile goes out with the load.
+facetLeastTitle: Oops!... I Beaned It Again
+facetLeast: A beach clean has been organised and you have the sacks and the gloves and a list of who is coming, and you drive down to the shingle without the sacks, and forty people are stood there in the wind looking at you.
+question: You're about to send a message that took twenty minutes to word. You...
+answerMost: read it four more times and change one comma
+answerHigh: read it once more and check who's on it
+answerMid: read the first line and send it
+answerLow: send it and reread it after
+answerLeast: send it, and find the typo when they reply
+rorschachMost: two vases, exactly aligned
+rorschachHigh: a matched pair of pears
+rorschachMid: two jars on a shelf
+rorschachLow: one jar nudged askew
+rorschachLeast: a shelf knocked through
 ---
 
 Infused Mung Beans are the Bean Zodiac's most careful. They check that the person walking home got home, and notice the step everybody else trips on. Sometimes they rearrange a drawer that was fine. Told to just leave it, they think about the drawer all evening.

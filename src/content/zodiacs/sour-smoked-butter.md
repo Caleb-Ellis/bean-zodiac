@@ -1,14 +1,13 @@
 ---
-# COMPLETELY NEEDS UPDATING — trait: pallid -> quiet, excess: deathly -> mute, inverse: rosy -> clamorous
 slug: sour-smoked-butter
-lastUpdated: 
+lastUpdated: 2026-08-08
 bean: butter
 flavour: sour
 form: smoked
 trait: quiet
 excess: mute
 inverse: clamorous
-quote: Silence is a bean's wisdom.
+quote: Silence is a bean's loudest cry.
 creature: dormouse
 dish: Smoked butter beans cured in lemon and olive oil.
 friendlyBeans: [black, mung]
@@ -16,33 +15,33 @@ friendlyForm: fermented
 antiTriple: spicy-fried-green
 antiBeans: [chickpea, adzuki]
 antiForm: roasted
-seasonalFortune: "A season of lemon and low smoke. The room changes and no one hears it happen."
-fortuneMost: "No, but thanks."
-fortuneHigh: The clipped answer read colder than you meant.
-fortuneMid: Somewhere your quiet is being tallied as not caring.
-fortuneLow: Put a little vinegar in the sharp thing and let it land.
-fortuneLeast: Reach for the saturated red.
-facetMostTitle: Beanmute
-facetMost: The toast comes round to you. A half-inch raise of the glass, nothing said, and it passes on to the next.
-facetHighTitle: Beanhush
-facetHigh: A group photo, and the photographer wants everyone to shout. You give the smallest version of it that still counts as in.
-facetMidTitle: Beanwhisper
-facetMid: A shared plan stalls and they're all waiting on your read before they drop it. You sit on the word a few days longer than the plan can really wait.
-facetLowTitle: Beannoise
-facetLow: Throw something in before the conversation dies — a question, a small joke, anything that lifts the room a degree. The pull to do it is real.
-facetLeastTitle: Beanbedlam
-facetLeast: Two shirts on the rack — the grey you'd reach for and a loud orange. The orange goes in the basket, and you can already feel it being worn.
-question: Someone you like has just told a long story to the table, slightly bungled the ending, and glanced around for the room's reaction. The laugh is forming. You...
-answerMost: hold a flat, even face and let your eyes drift to the window
-answerHigh: give a single dry note — "good one" — and reach for your glass
-answerMid: offer a small closed-mouth smile and a nod, nothing past it
-answerLow: laugh properly and say the part you liked back to them
-answerLeast: laugh loud, repeat the line so the next table hears, and toast them on the spot
-rorschachMost: a toad gone grey and bloated under stones
-rorschachHigh: a potato sprouting pale in the cellar
-rorschachMid: a knot of root with stubby ends
-rorschachLow: a curled hedgehog warm in dry leaves
-rorschachLeast: a ripe fig split dark and glistening
+seasonalFortune: "A season of lemon and low smoke. Everything shifts and no one hears it happen."
+fortuneMost: "..."
+fortuneHigh: Just listen.
+fortuneMid: The dormouse stays silent.
+fortuneLow: Don't leave them guessing.
+fortuneLeast: A lively room forgives a loud voice.
+facetMostTitle: Bean Records
+facetMost: Someone's been explaining your own field to you for ten minutes. You nod along, and they go away thinking they taught you something.
+facetHighTitle: The Bean American
+facetHigh: Your mother has stopped talking much and the visits to the care home are mostly just sitting. You find the silence comforting.
+facetMidTitle: The Sound of Bean
+facetMid: A family lunch, twelve round the table, three conversations going at once. You take the plates through and start the washing-up, glad of the calm in the kitchen.
+facetLowTitle: Beans Off
+facetLow: Your nephew's two rounds down at the boxing club and the other corner won't shut up. You're on your feet shouting for him and you don't much care who hears.
+facetLeastTitle: Bean Up The Volume
+facetLeast: A table of eight and you're doing most of the talking. It's never struck you as a problem — a silence is just a gap somebody has to fill.
+question: How do people know you've arrived at a party?
+answerMost: they don't — they spot you later, settled in a corner somewhere
+answerHigh: you slink over to a group you recognise — only they'll know
+answerMid: you give a quick hello around the room
+answerLow: you make the rounds, a few words and hugs for most people there
+answerLeast: everyone hears you the moment you open the door
+rorschachMost: a void
+rorschachHigh: a moss clump
+rorschachMid: a scrunched-up note
+rorschachLow: a baby's rattle
+rorschachLeast: a bagpipes bag
 ---
 
 Cured Butter Beans are the Bean Zodiac's most quiet. They say four things in an evening and every one of them alters the conversation. The silence sometimes swallows something that needed saying at the time. Raising their voice over a room isn't an option they will take.

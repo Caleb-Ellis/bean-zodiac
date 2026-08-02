@@ -1,5 +1,5 @@
 ---
-# CHANGED SINCE THIS CONTENT WAS WRITTEN — excess: punctilious -> guilt-ridden, inverse: unscrupulous -> negligent
+# TODO: tidy facets, redo rorschachs
 slug: umami-boiled-cannellini
 lastUpdated: 
 bean: cannellini
@@ -23,26 +23,26 @@ fortuneMid: The spoon that wandered finds its drawer.
 fortuneLow: The favour will be bigger than it sounds.
 fortuneLeast: Cross a task off the list instead of doing it.
 facetMostTitle: The Scarlet Bean
-facetMost: Rinsing a jar for the recycling, the label won't come off. You stay and peel it under hot water because the guidance says "glass only".
+facetMost: You were the executor and everything was done properly and on time, down to the last account. Nine months on you are still going over whether the piano should have gone to the other side of the family. Nobody else has thought about it once.
 facetHighTitle: The Beansider
-facetHigh: The accommodation charges a cleaning fee and a service fee, and there's no new guests checking in after you. But still you leave the place spotless before you go.
+facetHigh: The handover is written up, the ward is quiet, and your shift ended twenty minutes ago. You go round the bays one more time before you go for your coat.
 facetMidTitle: The Paper Beanchase
-facetMid: At the self-checkout the scanner is failing to scan a can of beans, but it also isn't getting picked up by the scales. Despite the opportunity, you are unable to leave the supermarket without paying for it.
+facetMid: The drill goes back to him cleaner than it came, with a new bit fitted, because you blunted the old one and did not mention that.
 facetLowTitle: The Lost Beanweekend
-facetLow: A neighbour's recycling has blown over and scattered across the shared path. Not yours to gather — you step around the cans and carry on.
+facetLow: Rain since the morning, and the foster dog wants a walk. She gets round the block, and the long one waits for another day.
 facetLeastTitle: Gone Beanfishin'
-facetLeast: Checking out of the hotel, the extra little soaps and sewing kit are still in the bathroom. You sweep them into your bag on the way out — and the slippers too.
-question: It's your first week in the new job and they've left you to settle in at your own pace. You...
-answerMost: read every manual and item of documentation you can find
-answerHigh: take thorough notes, get a head start on understanding how the place runs
-answerMid: get on top of the essentials, but generally pick things up as you go
-answerLow: do the tasks you're given, but don't go seeking extra
-answerLeast: coast a bit while the expectations of you are still low
-rorschachMost: a dung beetle looking for dung
-rorschachHigh: a mule laden with some packs
-rorschachMid: a toad squatting still
-rorschachLow: a fat knapsack slumped on its side
-rorschachLeast: a fly eating something
+facetLeast: There is a pile by the door that has been there for months — a form, two letters and something from the bank with a window in it. You have stopped seeing the pile.
+question: You've done everything that was asked of you and it went fine. You...
+answerMost: Lie awake on the one thing I could have done better
+answerHigh: Check nothing's outstanding, then let it go
+answerMid: Feel good about it
+answerLow: Not think about it again
+answerLeast: Have already forgotten what it was
+rorschachMost: a bowed head
+rorschachHigh: a hanging bell
+rorschachMid: a river stone
+rorschachLow: a dropped glove
+rorschachLeast: a discarded rind
 ---
 
 Dashi Cannellini Beans are the Bean Zodiac's most conscientious. The part nobody would ever have checked is done properly, because they would know. Sometimes a small oversight costs them a whole night's sleep. Letting something slide and forgetting it is a trick they never learnt.

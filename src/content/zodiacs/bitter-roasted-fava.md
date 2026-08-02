@@ -1,5 +1,5 @@
 ---
-# CHANGED SINCE THIS CONTENT WAS WRITTEN — trait: pioneering -> unabashed, excess: overreaching -> brazen, inverse: imitative -> sheepish
+# TODO: tidy facets, redo rorschachs
 slug: bitter-roasted-fava
 lastUpdated: 
 bean: fava
@@ -23,26 +23,26 @@ fortuneMid: Test the ice, then forge ahead.
 fortuneLow: The bread is still warm — you don't have to go so soon.
 fortuneLeast: A hand lifts the latch — you follow them in.
 facetMostTitle: Beanshameless
-facetMost: A skill nobody around you has, a teacher you can't find, and no clear way in — you start teaching it to yourself that night anyway.
+facetMost: Full costume, antlers and all, at a party that turned out not to be fancy dress. Nobody says anything for a while. You get a drink, you stay in the antlers, and by eleven there are three photographs on other people's phones.
 facetHighTitle: I Am What I Bean
-facetHigh: Nothing but pitch-black looking down into the old mansion's basement stairwell. You descend first, and make sure the steps hold.
+facetHigh: Goods three months old, no receipt, and you know exactly what the policy says. You go to the counter, put it down, and ask for the refund as though it were already agreed.
 facetMidTitle: The Full Beanty
-facetMid: There's a dish on the menu you've never heard of and can't even picture. You feel like you have to order it.
+facetMid: A costume rather more than the baths are used to, and you walk the whole length to the deep end without reaching for a towel.
 facetLowTitle: Shaun the Bean
-facetLow: You've just moved to a new city, and have a free morning. You go to a café that's not dissimilar to ones at home — just to settle in, you'll do some proper exploring later.
+facetLow: You got his name wrong twice in the speech and half the room noticed. You have gone red and cannot look up.
 facetLeastTitle: Curb Your Beanthusiasm
-facetLeast: By the time you get involved with the group project, the plan's been set and your share of it marked. You're glad it fell to someone else to figure out.
-question: In the future, interstellar travel is fairly common. You're offered a place on any of several space missions, each one further out, and into deeper unknown than the last. You...
-answerMost: sign on for the one far beyond the map
-answerHigh: take the one just beyond charted space, with an estimated route home
-answerMid: pick the one that approaches the edge of what's already been explored
-answerLow: choose a short, well-charted run
-answerLeast: pass, and keep your feet on the ground
-rorschachMost: a comet tearing ahead, debris strung out behind
-rorschachHigh: a bird lunging its beak forward
-rorschachMid: an ink splash flung across the page
-rorschachLow: tide pools left where the sea drew back
-rorschachLeast: a snail curled, drawn back into its shell
+facetLeast: Somebody points out that your jumper has been on inside out all morning, through two meetings. You apologise to them, then apologise again to the room, and you are still bringing it up at lunch.
+question: You arrive in full fancy dress at a party that turns out not to be fancy dress. You...
+answerMost: Stay in costume and enjoy it thoroughly
+answerHigh: Keep it on and brazen it out
+answerMid: Take the hat off and stay
+answerLow: Change into whatever's in the car
+answerLeast: Make an excuse and go home
+rorschachMost: a brass bell, still ringing
+rorschachHigh: a face and its echo
+rorschachMid: a drop and its rings
+rorschachLow: a bell muffled in cloth
+rorschachLeast: a blush spreading outward
 ---
 
 Wood-Fired Fava Beans are the Bean Zodiac's most unabashed. They ask the waiter to redo it, sing at the table, wear the coat, and none of it is done for effect. Occasionally the room did mind. Shame at having taken up space is a feeling they don't get.

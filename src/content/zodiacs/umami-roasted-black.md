@@ -1,5 +1,5 @@
 ---
-# COMPLETELY NEEDS UPDATING — excess: conspiratorial -> omniscient, inverse: vacuous -> unseeing
+# TODO: tidy facets, redo fortunes, redo rorschachs
 slug: umami-roasted-black
 lastUpdated: 
 bean: black
@@ -17,32 +17,32 @@ antiTriple: spicy-fried-kidney
 antiBeans: [mung, green]
 antiForm: boiled
 seasonalFortune: "A season of bacon fat and garlic: the roast understands the dinner better than the cook."
-fortuneMost: You saw it early and you're right. Say it out loud — the answer's been waiting on your voice the whole time.
-fortuneHigh: The real worry sits just under the words someone chose. Listen for the gap, not the sentence.
-fortuneMid: Walk away from the thing you're stuck on. Out on the road, the load-bearing piece surfaces on its own.
-fortuneLow: Sometimes "I'm fine" is just the truth, and the kind thing is to take it.
-fortuneLeast: The friend you saw clearly years ago is someone else now. Meeting the new person means losing the one you were sure of.
+fortuneMost: From that height the snowy owl sees the whole field and lives on it alone.
+fortuneHigh: Listen for the gap, not the sentence.
+fortuneMid: Walk away from it and the load-bearing piece surfaces on its own.
+fortuneLow: Sometimes I'm fine is just the truth, and the kind thing is to take it.
+fortuneLeast: The friend you saw clearly years ago is someone else now.
 facetMostTitle: Bruce Beanalmighty
-facetMost: Mid-argument, two strangers on the train platform; by the second exchange you've quietly clocked which one actually wants to lose, and you're rarely wrong about that.
+facetMost: Ten minutes in the room with the two of them and you can see how the entire marriage works — who defers to whom, and about what, and what it costs each of them. You tell them so, and they had not asked you to.
 facetHighTitle: Second Beansight
-facetHigh: Something about the house is off the moment you cross the threshold — nothing you could name. You'll trust that chill over anything the owner says about the place.
+facetHigh: One remark from you about her father, and something she has never been able to explain about herself makes sense to her for the first time.
 facetMidTitle: Through a Beanglass Darkly
-facetMid: You've got a fast hunch about the deal on the table and an hour before you have to answer. Spend the hour, or go with the hunch you already half-trust?
+facetMid: You work out which of the four is actually running the meeting, and you put your question to that one.
 facetLowTitle: Beanblindness
-facetLow: An old friend's smile is doing something complicated tonight, and you can feel the thread to pull. Leave it un-pulled and let them have the evening unread.
+facetLow: The room is fairly obviously divided about something and you take the whole evening at face value.
 facetLeastTitle: Three Blind Beans
-facetLeast: A documentary lays out a tidy theory of why a city fell. You take the clean story at face value and don't go digging for the seam underneath.
-question: Giving your account to the officer about the crash you saw, you catch your own memory shifting from how you told it an hour ago. You...
-answerMost: stop and flag the part that just moved, on the record
-answerHigh: ask to back up and pin down the one detail that slipped
-answerMid: note the wobble to yourself and keep your story steady
-answerLow: let the smoother version stand and move on
-answerLeast: sign the statement without rereading it
-rorschachMost: a lantern throwing sparks out one cracked side
-rorschachHigh: a coal still licking flame from its edge
-rorschachMid: a dark stone with smoke trailing off it
-rorschachLow: a wet log smoldering, refusing to catch
-rorschachLeast: a snuffed ember gone cold and dark
+facetLeast: You are the last person in the building to work out that those two are together, months after everybody else had it, and only because somebody finally told you outright.
+question: How well do you read the people around you?
+answerMost: completely, whether or not they want to be read
+answerHigh: well enough to see what is under what they say
+answerMid: well enough with people you know
+answerLow: not especially — you take people as they come
+answerLeast: barely at all, and you find out last
+rorschachMost: eyes right through the wall
+rorschachHigh: a slit that sees far
+rorschachMid: a helm and two slits
+rorschachLow: an eye on the surface
+rorschachLeast: two slits, painted on
 ---
 
 Rendered Black Beans are the Bean Zodiac's most insightful. One observation about your family and something you had never understood rearranges itself. Sometimes they explain a person to themselves uninvited. Simply not having a read on somebody is rare for them.

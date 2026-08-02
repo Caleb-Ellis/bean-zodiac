@@ -1,5 +1,5 @@
 ---
-# COMPLETELY NEEDS UPDATING — trait: frugal -> provident, excess: miserly -> hoarding, inverse: spendthrift -> improvident
+# TODO: tidy facets, redo fortunes, redo rorschachs
 slug: sweet-boiled-navy
 lastUpdated: 
 bean: navy
@@ -17,32 +17,32 @@ antiTriple: spicy-roasted-green
 antiBeans: [pinto, fava]
 antiForm: fried
 seasonalFortune: "A season of molasses and long baking — the pot puts away enough for later."
-fortuneMost: Build the whole meal from what's already on the shelf and feed someone with it.
-fortuneHigh: Take stock before you buy, list against what's already on the shelf, and come home with half the bags and dinner half-made.
-fortuneMid: Pay full price for the one good thing — the proper coffee, the shoes that fit — and don't flinch at the receipt.
+fortuneMost: Cheeks full and nine caches dug, and the chipmunk will forget where six of them are.
+fortuneHigh: Take stock before you buy and come home with half the bags.
+fortuneMid: Pay full price for the one good thing and don't flinch at the receipt.
 fortuneLow: The no has tightened into a flinch.
 fortuneLeast: Round up.
 facetMostTitle: Silas Beanmarner
-facetMost: A chair you love wobbles loose and the shop wants a fortune for a new one. Out comes the glue and a clamp, an evening spent at it, and it'll outlast the showroom version.
+facetMost: There are four spare kettles in the loft and a freezer nobody has been to the bottom of in three years, and somebody wants the loft for a bedroom. You go up and come down with nothing.
 facetHighTitle: Save It for a Rainy Bean
-facetHigh: There's a trip coming up and the urge is to just book and figure costs later. Instead you map it to the penny first — every fare and bed lined up — and travel with money to spare.
+facetHigh: Next year's seed is in the tin and the year after, labelled, and when the shop runs out in a bad year you are the one with enough for the street.
 facetMidTitle: Beanthrift Shop
-facetMid: Cardboard, paint, a hidden trapdoor — the kid's present built by hand while the toy aisle goes unvisited. It's the one thing at the party they won't put down.
+facetMid: There is one washer left in the drawer and you have just used it on a tap that will not need doing again for years. You put four more on the list before you have finished the job.
 facetLowTitle: Easy Come, Easy Bean
-facetLow: A friend's admiring something of yours and you've two of them at home anyway. Press it on them right there — no working out its worth, no quiet wince at letting it go.
+facetLow: Good cheese has been in the fridge a fortnight waiting for an occasion. No occasion is coming that you can see. You have it on toast on a quiet evening, standing up, with the radio on and nobody else in the house.
 facetLeastTitle: Money for Beanothing
-facetLeast: A once-in-a-lifetime concert by someone you adore, and the good seats cost a fortune. Book the front row anyway, full whack, and don't let yourself reach for the cheap balcony.
-question: Your favourite pair of boots has worn through and there's a sale on a slightly fancier replacement. You...
-answerMost: take them to the cobbler — another winter in them yet
-answerHigh: buy the cheapest decent pair on the shelf
-answerMid: wait two weeks, see if a better sale comes up
-answerLow: buy the fancier ones at the sale price
-answerLeast: buy the fancier ones at full price and a second pair for summer
-rorschachMost: a corked bottle saved on a shelf
-rorschachHigh: a sealed jar narrowing to its lid
-rorschachMid: a small cypress on a low hill
-rorschachLow: a fountain brimming over its basin
-rorschachLeast: a haystack toppling loose across the field
+facetLeast: Your buffer has gone on a good few weeks and the car needs an MOT. You put it on the card and do no sums.
+question: What's in your cupboards?
+answerMost: three spares of everything and a freezer nobody's seen the bottom of
+answerHigh: next year's in as well as this year's
+answerMid: enough, and a list of what's getting low
+answerLow: what you need for this week
+answerLeast: you find out at teatime
+rorschachMost: a granary packed to roof
+rorschachHigh: a larder stacked high
+rorschachMid: a tower of stored sacks
+rorschachLow: a shelf half cleared
+rorschachLeast: a bare pantry, door open
 ---
 
 Candied Navy Beans are the Bean Zodiac's most provident. There is a spare of everything, a full freezer, and nobody in that house has ever been caught short. Sometimes the storing goes well past any use. Spending the last of something confidently is a feeling they distrust.

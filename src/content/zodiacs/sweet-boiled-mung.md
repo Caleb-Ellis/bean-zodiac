@@ -1,5 +1,5 @@
 ---
-# COMPLETELY NEEDS UPDATING — excess: coddling -> overprotective, inverse: neglectful -> depriving
+# TODO: tidy facets, redo fortunes, redo rorschachs
 slug: sweet-boiled-mung
 lastUpdated: 
 bean: mung
@@ -17,32 +17,32 @@ antiTriple: spicy-fried-pinto
 antiBeans: [green, fava]
 antiForm: fermented
 seasonalFortune: "A season of pandan syrup and low flame: the pot feeds whoever arrives depleted."
-fortuneMost: Tend the small invisible thing — the plant no one waters, the friend no one's asked after — and tell nobody you did.
+fortuneMost: Sitting on anything egg-shaped, including a stone - the hen.
 fortuneHigh: Turn up at the quiet one's door with bread and a specific memory, no question attached.
-fortuneMid: Tend one corner instead of the whole garden, and spend the recovered hour on something nobody recommended to you.
+fortuneMid: Tend one corner instead of the whole garden.
 fortuneLow: The garden you've hand-watered for months has its own gardener now.
 fortuneLeast: Sit at the table you usually serve from.
 facetMostTitle: Beantangled
-facetMost: New folks have moved in next door, still surrounded by boxes. By evening there's a meal on their step and a list of which bin goes out which day, no fuss, no waiting to be asked.
+facetMost: The lodger is twenty-four and has a job and a life of her own. There is a plate for her at seven whether she wants it or not.
 facetHighTitle: Call the Beanmidwife
-facetHigh: A friend's just out of hospital and waving everyone off, insisting they're fine. You let yourself in anyway, quietly restock their fridge and change the sheets, and slip out without a word about it.
+facetHigh: A foal has come and is not up yet and the mare is fretting, and you are down on the straw with a towel doing the slow business of getting it dry.
 facetMidTitle: Tender Loving Beancare
-facetMid: The new kid on the team is hanging back at the edge of the warm-up, unsure where to stand. Over you go — a word, a spot in the drill made for them, the gap quietly closed.
+facetMid: First morning at the new school and he has the bag and the shoes and does not want you at the gate. You walk him to the corner. You stop there, and you watch the rest of it from the corner.
 facetLowTitle: Hard Beantimes
-facetLow: A whole free afternoon, and a dozen people you could be checking on. You silence the phone, run a long bath, and let everyone fend for themselves for a few hours.
+facetLow: Your son has run the sourdough into the ground three times now and is asking you what he is doing wrong, and you have the answer in about four words. You tell him it will come, and you go back to the paper.
 facetLeastTitle: Angela's Beanashes
-facetLeast: It's your birthday and people keep trying to do things for you — and your reflex is to wave it off and host them instead. Don't lift a finger. Let the whole day be aimed at you and just receive it.
-question: A tiny stray kitten, thin and panting, has wandered into your yard in the afternoon heat and flopped in the shade. You...
-answerMost: scoop it up, set out water, line a box, and sit checking on it half the day
-answerHigh: bring it into the cool, settle it somewhere quiet, look up what it needs
-answerMid: leave water in the shade where the dogs won't reach and check back later
-answerLow: leave it be — the mother usually comes back if you keep away
-answerLeast: shut the door on it and let nature take its course
-rorschachMost: a sow nosing a piglet to her side
-rorschachHigh: a teapot leaning to pour from its spout
-rorschachMid: a hedgehog curled with its snout out
-rorschachLow: a cracked jug tipped empty on its side
-rorschachLeast: a dry husk split open and hollow
+facetLeast: She has asked to go round the block on the bike on her own, and you say she will be fine and go back inside.
+question: Somebody in your house is making a job harder for themselves than it needs to be. You...
+answerMost: take it off them and do it properly
+answerHigh: sit with them and show them the way through
+answerMid: offer once, and leave them to it if they'd rather
+answerLow: let them get on and pick up the pieces after
+answerLeast: let them find out the hard way
+rorschachMost: a hen over one chick
+rorschachHigh: an arm round a shoulder
+rorschachMid: a wing and a fledgling
+rorschachLow: a wing lifted away
+rorschachLeast: an empty nest, cold
 ---
 
 Candied Mung Beans are the Bean Zodiac's most nurturing. Whoever is under their roof gets fed, warmed, and asked the right question at the right time. Sometimes the care keeps someone smaller than they need to be. Letting somebody struggle usefully is beyond them.

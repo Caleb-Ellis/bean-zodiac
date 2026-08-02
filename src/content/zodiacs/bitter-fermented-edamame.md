@@ -1,7 +1,6 @@
 ---
-# QUICK REVIEW — trait, excess and inverse all unchanged
 slug: bitter-fermented-edamame
-lastUpdated: 
+lastUpdated: 2026-08-02
 bean: edamame
 flavour: bitter
 form: fermented
@@ -22,9 +21,9 @@ fortuneHigh: Now is not the time — let cooler beans prevail.
 fortuneMid: Pebble by pebble, the crow raises the water so it can drink.
 fortuneLow: If you don't know, don't pretend to know.
 fortuneLeast: Ignore the reasons and the justifications — pick the one that felt like home.
-facetMostTitle: The Cold Beanquations
+facetMostTitle: The Cold Bean Equations
 facetMost: Your daily bean insinuates you're going to have a great day today. There's absolutely no chance you actually let any of this nonsense influence your life.
-facetHighTitle: A Brief History of Bean
+facetHighTitle: A Brief History of Beans
 facetHigh: Your aunt swears a herbalist's tea shrank her tumour, and so she's booked you in to give you a check-up. You'd never go — not without an oncologist's recommendation, anyway.
 facetMidTitle: Moneybean
 facetMid: At the escape room, the others are yanking every drawer and plugging every number they see into the padlocks. You hang back from the scramble, eyes scanning for anything out of the ordinary.
@@ -38,11 +37,11 @@ answerHigh: note they miss your preferences and hit X
 answerMid: give their profile a deeper read before you choose
 answerLow: like one prompt and see if they respond
 answerLeast: forget the preferences and send a message
-rorschachMost: a candelabra bristling with branches
-rorschachHigh: a stag's antlers spread wide on the skull
-rorschachMid: a bare thornbush on a low mound
-rorschachLow: a bonfire throwing sparks upward
-rorschachLeast: a firework bursting open in the dark
+rorschachMost: a candelabra
+rorschachHigh: a stag's antlers
+rorschachMid: a bare thornbush
+rorschachLow: a bonfire
+rorschachLeast: a firework
 ---
 
 Cultured Edamame are the Bean Zodiac's most rational. They follow the argument past where it stops being comfortable and arrive somewhere nobody else was willing to go. Warmth gets audited out along the way. A conclusion reached on a feeling they file as no conclusion.

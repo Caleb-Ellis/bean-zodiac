@@ -1,5 +1,5 @@
 ---
-# COMPLETELY NEEDS UPDATING — trait: easygoing -> cosseting, excess: torpid -> infantilising, inverse: uptight -> spartan
+# TODO: tidy facets, redo fortunes, redo rorschachs
 slug: sweet-roasted-mung
 lastUpdated: 
 bean: mung
@@ -17,32 +17,32 @@ antiTriple: sour-fermented-green
 antiBeans: [edamame, fava]
 antiForm: dried
 seasonalFortune: "A season of coconut sugar and lime leaf: the tray tucks the household in."
-fortuneMost: A friend turns up sharp-cornered; out comes the chair, the glass, no questions, and the corners go.
-fortuneHigh: A pile of forty unread messages crests; tap in, say one warm thing, leave the rest.
-fortuneMid: '"Yeah, sure" to the favour, and you mean it — then actually do it, before it drifts off toward the soft far edge of "soon."'
+fortuneMost: Marmosets carry each other's young about until nobody knows whose is whose.
+fortuneHigh: Forty unread messages crest; tap in, say one warm thing, leave the rest.
+fortuneMid: Say yes to the favour and do it before it drifts.
 fortuneLow: The thing you keep waving off is sitting heavy on someone's chest.
 fortuneLeast: Be inconvenient about one real preference.
 facetMostTitle: Baby Beantalk
-facetMost: The campsite floods overnight and the whole trip plan is ruined. You're laughing in the rain, already wringing out socks and calling it a story.
+facetMost: He is thirty-four and has flu and has come to yours because it is nearer the station, and you have him on the sofa under a blanket with a tray, and you are asking whether he would like the radio on, and he is a grown man.
 facetHighTitle: Mollycoddled Bean
-facetHigh: The road's closed and the detour adds two hours to a long drive. You roll the window down, find a song, and let the long way be the day.
+facetHigh: Somebody is going back on a long train and there is soup in a container. You put it in her bag where she cannot miss it.
 facetMidTitle: Beantucked In
-facetMid: The restaurant seats you at the cramped table by the kitchen door. You settle in, wave off the apology, and it's fine.
+facetMid: The washing your son left has been in the machine two days and he is back on the train at four. You get it dried and folded into his bag.
 facetLowTitle: Beanspartan
-facetLow: The queue jumper slides in ahead of you at the market stall. Something in you tightens and you mean to say so.
+facetLow: It is cold in the house and the visitor has not said anything and you can see her hands, and you mention that the good jumper is on the back of the door.
 facetLeastTitle: Cold Beanturkey
-facetLeast: The group wants to split the bill evenly but you barely ate. This time you ask, plainly, to pay only for your own.
-question: A flatmate has, for the third time this month, used the last of the milk and not replaced it. You're standing at the kettle, mug empty. You...
-answerMost: shrug, drink it black, write nothing on the board
-answerHigh: text them a friendly "mind grabbing milk on your way back?" with a smiley
-answerMid: pick it up yourself and mention it lightly when they're home
-answerLow: leave a note on the fridge that's firmer than you mean it to be
-answerLeast: sit them down that evening and have the actual conversation about shared groceries
-rorschachMost: a willow loosing its branches in a slow breeze
-rorschachHigh: a scarecrow slumped easy on its post
-rorschachMid: a shrub with loose twigs above its trunk
-rorschachLow: a sentry stiff at attention, arms locked
-rorschachLeast: a wound spring strained tight on its base
+facetLeast: Somebody has arrived at the bothy soaked through with nothing dry. You point out where the wood is. You get on with your own tea, and they sort themselves out, and by nine they are perfectly fine.
+question: Somebody arrives at yours cold, tired and not saying much. You...
+answerMost: run a bath, make a bed, and don't ask
+answerHigh: feed them and get them warm before anything else
+answerMid: put the kettle on and see what they want
+answerLow: tell them where things are and leave them to it
+answerLeast: carry on, and let them ask if they need something
+rorschachMost: swaddling wound over a face
+rorschachHigh: a shawl about a bundle
+rorschachMid: a blanket on a basket
+rorschachLow: a cover folded back
+rorschachLeast: a bare board, one nail
 ---
 
 Glazed Mung Beans are the Bean Zodiac's most cosseting. You arrive ill and leave four days later with clean clothes and a container of soup for the train. Sometimes it treats a grown adult as fragile. Leaving somebody to fend for themselves, never.

@@ -1,5 +1,5 @@
 ---
-# CHANGED SINCE THIS CONTENT WAS WRITTEN — excess: grovelling -> awestruck, inverse: disrespectful -> profane
+# TODO: tidy facets, redo rorschachs
 slug: umami-dried-adzuki
 lastUpdated: 
 bean: adzuki
@@ -23,26 +23,26 @@ fortuneMid: First light finds the sill before it finds the room.
 fortuneLow: Send the wish unwrapped.
 fortuneLeast: A chipped mug holds the same heat as the good one.
 facetMostTitle: The Ten Beanmandments
-facetMost: Add the salt last, the old recipe says, and stir one way only. No one is in the kitchen to see — and still you keep the order exactly.
+facetMost: Ninety seconds of totality, and every single person on that hillside has a phone held up above their head to catch it. You never lift yours at all, and you find you cannot speak for a minute afterwards.
 facetHighTitle: Amazing Beangrace
-facetHigh: A plain wooden box at the back of a market stall, no price, no label. Before you ask what's inside, you ask to hold it.
+facetHigh: The museum takes you through to the store to see the bog body, and your hat is off before you have decided anything about it.
 facetMidTitle: Ave Beanmaria
-facetMid: Walkers touch the worn stone by the trailhead as they pass, and your hand goes to it too, without quite deciding to.
+facetMid: You are in the cathedral for the stonework rather than the service, and when the service starts up around you, you sit at the back through the whole of it regardless.
 facetLowTitle: Bad Beansanta
-facetLow: The shrine is closing, but the keeper waves you in for one quick look. You take the look, snap a photo, and head out for noodles.
+facetLow: The talk finishes and the telescope is free for anyone who wants a look. You have one, say it is impressive, and go for the last bus.
 facetLeastTitle: Sympathy for the Beanevil
-facetLeast: Someone presses a family heirloom into your hands to admire. A glance, a nod, you set it down — so, what's for dinner?
-question: Past the last marker the trail opens onto a tree a thousand years old, roped off, faded ribbons knotted into its bark. You're the only one on the path. You...
-answerMost: stop at the rope, lower your voice though no one's there, and stand a long while before stepping closer
-answerHigh: slow your step and keep to the worn path that circles it
-answerMid: walk up, rest a hand on the bark, and look up a while
-answerLow: read the little plaque, take the photo, carry on
-answerLeast: duck under the rope to get the shot from the good side
-rorschachMost: a small bowed head over a heavy stone altar
-rorschachHigh: a temple bell with the clapper hung beneath
-rorschachMid: a round boulder with a smaller stone set on top
-rorschachLow: a snowman half-melted, head slumping off the body
-rorschachLeast: a scoop of dough dropped onto a bigger lump
+facetLeast: Ashes going into the water. Absolute quiet requested. You keep it, and afterwards you are the one who makes the first joke.
+question: You're shown into a chapel where the guide takes his hat off and stops talking. You...
+answerMost: cannot find anything to say for the rest of the day
+answerHigh: take your time and give it the quiet it is asking for
+answerMid: look at it properly, then get on with the day
+answerLow: take the photograph and move on to the next thing
+answerLeast: say the irreverent thing that has been building since you walked in
+rorschachMost: a crowd flat down
+rorschachHigh: heads bowed under a window
+rorschachMid: a ledge and a gathering
+rorschachLow: one head still raised
+rorschachLeast: boots up on the altar
 ---
 
 Aged Adzuki Beans are the Bean Zodiac's most reverential. They take the old recipe, the old song and the old craft seriously, and they get them exactly right. Sometimes the reverence makes the thing untouchable. Treating something sacred lightly they will not do.

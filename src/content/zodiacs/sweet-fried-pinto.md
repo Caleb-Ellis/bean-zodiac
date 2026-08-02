@@ -1,5 +1,5 @@
 ---
-# COMPLETELY NEEDS UPDATING — trait: distractible -> effusive, excess: scatterbrained -> unstoppered, inverse: single-minded -> reserved
+# TODO: tidy facets, redo fortunes, redo rorschachs
 slug: sweet-fried-pinto
 lastUpdated: 
 bean: pinto
@@ -17,32 +17,32 @@ antiTriple: spicy-dried-black
 antiBeans: [kidney, navy]
 antiForm: boiled
 seasonalFortune: "A season of honey and split sopapillas — everything inside comes out at once, gladly."
-fortuneMost: Four rough versions in one go, all shown to a friend — the fifth, the good one, tends to arrive while you're holding up the others.
-fortuneHigh: Pivot in the open. Tell one person before you turn — not for permission, just for the witness.
-fortuneMid: Hands busy, brain loose. The good idea drops somewhere between the kneading and the drizzle.
-fortuneLow: One thing open, the phone in the next room, one thing finished.
-fortuneLeast: Seven half-made things and nothing whole. Pick the closest to done and send it ugly.
+fortuneMost: Everything it knows, twice, to a mirror - the budgerigar.
+fortuneHigh: Say the warm thing at the length it wants.
+fortuneMid: It all came out at once and none of it was wrong.
+fortuneLow: A short answer can hold as much as a long one.
+fortuneLeast: Say thank you and stop there.
 facetMostTitle: Beanuncorked
-facetMost: Setting out for one item, you come home from the market with a bag of chillies, a secondhand harmonica, and a flyer for a tango class — and not the thing you went for.
+facetMost: You have said the enormous warm thing at the table and meant it. There is more coming. You go round all six of them in turn, and the last one has only just arrived.
 facetHighTitle: Pouring My Bean Out
-facetHigh: A bird lands on the rail mid-conversation and your whole attention swings to it, the sentence you were saying just trailing off unfinished in the air.
+facetHigh: An orchestra in that town rehearses a piece nobody wrote and the hall is open to whoever wants to sit at the back, and you are the one who stands up at the end and tells them what it did to you.
 facetMidTitle: Let It All Bean Out
-facetMid: Out for a run, you spot an interesting alley and detour, then a mural, then a stall, and surface an hour later miles from your loop with no idea how.
+facetMid: A card has to go with the present and there is a line that would do. What you write goes onto the back and down the side.
 facetLowTitle: Bottled Up, Bean
-facetLow: Halfway through a jigsaw, a livelier invitation pings your phone. The phone stays face-down on the table and you don't get up until the last piece clicks in.
+facetLow: Somebody has done a thing for you that mattered a good deal more than they know. You say thanks properly and leave it there.
 facetLeastTitle: The Beanquiet Type
-facetLeast: A museum's worth of rooms fans out from the entrance. You pick one painting, plant yourself on the bench in front of it, and let the rest of the building go unseen.
-question: You're halfway through a project and a brand-new idea hits you. You...
-answerMost: drop everything and start the new one immediately
-answerHigh: open a fresh doc and sketch the new one before it fades
-answerMid: jot a quick note and promise yourself you'll come back
-answerLow: write it down and stay with what you were doing
-answerLeast: ignore it and keep your head where it was
-rorschachMost: a campfire flickering off in two directions
-rorschachHigh: a startled cat, ears flared wide apart
-rorschachMid: a horned owl perched with both tufts up
-rorschachLow: a rabbit sat still, ears held straight up
-rorschachLeast: a candle flame standing steady and upright
+facetLeast: A feeling about somebody in the room is a large one and a good one. The evening offers three chances. You let all three go by, and you drive home with the whole thing still in you.
+question: Somebody at the table has done something you think a lot of. You...
+answerMost: say it, at length, and then go round the table
+answerHigh: say the whole warm thing out loud
+answerMid: say something, and mean it
+answerLow: tell them quietly on the way out
+answerLeast: drive home with it unsaid
+rorschachMost: a bottle, cork gone
+rorschachHigh: two jets going up
+rorschachMid: a flask and its neck
+rorschachLow: a bottle half stoppered
+rorschachLeast: a jar screwed tight
 ---
 
 Caramelised Pinto Beans are the Bean Zodiac's most effusive. They say the enormous warm thing out loud, at the table, and mean it entirely. Occasionally there is no tap that closes. Keeping a feeling to themselves for an evening they cannot do.

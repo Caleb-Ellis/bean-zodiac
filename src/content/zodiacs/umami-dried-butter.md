@@ -1,5 +1,5 @@
 ---
-# COMPLETELY NEEDS UPDATING — excess: comatose -> sluggish, inverse: edgy -> jagged
+# TODO: tidy facets, redo fortunes, redo rorschachs
 slug: umami-dried-butter
 lastUpdated: 
 bean: butter
@@ -17,32 +17,32 @@ antiTriple: spicy-fried-kidney
 antiBeans: [chickpea, green]
 antiForm: roasted
 seasonalFortune: "A season of parmesan rind and softened years — the store has stopped having sharp edges."
-fortuneMost: People will drift to you the way they drift to a warm kitchen — not for an answer, for the ease of sitting inside your calm.
-fortuneHigh: Someone will try to hurry you.
+fortuneMost: Grazing the same warm shallows for fifty years, the dugong has never once hurried.
+fortuneHigh: Somebody will try to hurry you and it will not work.
 fortuneMid: The thing slow-baking doesn't need you hovering.
-fortuneLow: The yes you've been letting steep already came.
+fortuneLow: A soft answer given late is still late.
 fortuneLeast: Wake already moving and eat standing for once.
 facetMostTitle: The Tortoise and the Beanhare
-facetMost: Ferry cancelled, the whole queue scrambling on their phones to rebook — and there you are on a sunny bench, watching the gulls, content to wait out the next one.
+facetMost: The bowls have been played, the light has gone, and everyone else has packed up and got off the green. You sit on in the chair by the pavilion with your shoes not even off, and there is no particular plan to move.
 facetHighTitle: Mellow Beanyellow
-facetHigh: A stranger at the laundromat has talked you through their entire divorce and isn't slowing down. Their machine still has twenty minutes; you stay and let it run out.
+facetHigh: Four miles an hour on the canal and the boat behind you plainly in a hurry, and you wave them past and carry on at four.
 facetMidTitle: Take It Beaneasy
-facetMid: Two friends are deadlocked over a plan and keep turning to you for a tie-breaker. You float a third option, no urgency, and let the room chew on it.
+facetMid: Another eight months down in the cellar is what the wheels want, and a buyer is offering good money now. You turn them, brush them, and leave them where they are.
 facetLowTitle: Jagged Little Bean
-facetLow: A reply you've been comfortably putting off finally has a clear answer. Send it now, you think, while it's easy — and you do, before the ease wears off.
+facetLow: Third in the queue at the taxi rank and somebody gets into the cab at the front who was not queuing at all. You are out of the line and telling them so before you have decided to be.
 facetLeastTitle: The Cutting Beanedge
-facetLeast: First light, and you're already laced up and out the door, breakfast eaten on the move. A morning that just sits there makes your skin itch.
-question: Your connecting train is delayed, the board keeps pushing the time back, and the platform crowd is starting to fray. You...
-answerMost: find a bench, let the board do what it does, and watch the light change
-answerHigh: settle in, decide there's nothing to do but wait it out
-answerMid: check the board now and then, mostly relax
-answerLow: keep refreshing the app for a better route
-answerLeast: pace the platform working out every backup before the next update
-rorschachMost: a scoop of ice cream slowly melting down
-rorschachHigh: a soft candle slumping into a pool of wax
-rorschachMid: a mushroom cap with spores drifting beneath
-rorschachLow: a firework bursting, sparks raining off the edges
-rorschachLeast: a paint can kicked over, droplets flung everywhere
+facetLeast: Everybody is still talking and the kitchen is full of glasses. You wash round them. You move people out of the way, and ask twice whether anybody needs a lift home.
+question: You're walking somewhere with someone who keeps getting ahead of you. You...
+answerMost: Carry on at my pace and let them wait
+answerHigh: Stay easy and catch them up at the top
+answerMid: Pick it up a bit to keep level
+answerLow: Get irritated at being chivvied along
+answerLeast: Overtake, and set a harder pace than theirs
+rorschachMost: fruit gone past ripe
+rorschachHigh: a pear soft to touch
+rorschachMid: a round fruit, small holes
+rorschachLow: an apple still firm
+rorschachLeast: broken shell, all edges
 ---
 
 Aged Butter Beans are the Bean Zodiac's most mellow. The edges that were there at twenty have worn off, and what is left is very good company. Sometimes it is so smooth nothing catches. Being sharp when sharpness is needed takes them a while.

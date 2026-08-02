@@ -1,5 +1,5 @@
 ---
-# COMPLETELY NEEDS UPDATING — excess: kooky -> bizarre, inverse: ordinary -> orthodox
+# TODO: tidy facets, redo fortunes, redo rorschachs
 slug: spicy-fermented-butter
 lastUpdated: 
 bean: butter
@@ -17,32 +17,32 @@ antiTriple: sour-dried-cannellini
 antiBeans: [navy, edamame]
 antiForm: boiled
 seasonalFortune: "A season of mu radish and strange method — the crock does it wrong and it works."
-fortuneMost: The odd thing you'd bring is the one worth bringing.
+fortuneMost: Bill, fur, venom, eggs - and the platypus spends its whole life being disbelieved.
 fortuneHigh: Don't file the edges down to a smooth thing.
-fortuneMid: Leave the odd object where people pass it — no plaque, no pitch.
+fortuneMid: Leave the odd object where people pass it - no plaque, no pitch.
 fortuneLow: You've been whispering the strange part.
 fortuneLeast: Square the chairs, fold the napkins, let the place read clean.
 facetMostTitle: Beanfreaks
-facetMost: There's the sensible way to wire the lamps for the gathering, and there's the way you actually want them — low, coloured, pointed at the ceiling. Wire it your way and let people walk into the strangeness.
+facetMost: A stuffed heron on the landing. A wall of drawer handles arranged by weight. A room you keep at fourteen degrees for reasons you can explain in full, at length. Anybody new is shown all of it inside the first ten minutes, whether they asked or not.
 facetHighTitle: Beanoddball
-facetHigh: Twice as long and twice as fussy, your own crooked method is the one you reach for, while the recipe everyone uses sits right there, easier. The long sour way is the part you actually like.
+facetHigh: Everybody else on the field is working the grid properly. You work outward in a spiral from a spot you picked because the grass was a slightly different green, and nobody is going to talk you out of it.
 facetMidTitle: The Odd One Bean
-facetMid: A small, harmless, faintly weird ritual would make the trip more yours — taking the long way, naming the rental car. Do it, even though no one would think to.
+facetMid: The club layout copies a real branch line faithfully, except for the small funeral you have put on platform two.
 facetLowTitle: Beanorthodox
-facetLow: For once nothing in you itches to bend the plan sideways. The plain version is genuinely the one you want, and you let it stay plain.
+facetLow: Newly joined to the morris side, and the tradition has the handkerchief in the right hand. You think of a better way, and use the right hand anyway.
 facetLeastTitle: The Beanparty Line
-facetLeast: A stranger on the train strikes up a conversation, and you could be your full odd self or just an easy, pleasant seatmate. You give them the smooth, normal version and feel the relief of not translating.
-question: You're picking a gift for a new colleague's birthday. The team is splitting the cost on something safe. You...
-answerMost: bring your own odd thing instead and hand it over separately
-answerHigh: add the strange small extra to the group gift
-answerMid: chip in but suggest a slightly weirder version
-answerLow: chip in and quietly approve the safe choice
-answerLeast: pick the safest option on the list and confirm it twice
-rorschachMost: a teapot sprouting a horn for a spout
-rorschachHigh: a stool tipped onto mismatched legs
-rorschachMid: a burr beside a curled dry leaf
-rorschachLow: a cushion set next to a coiled rope
-rorschachLeast: two plain mugs set square on a shelf
+facetLeast: The committee has always run the raffle before the speeches. Somebody proposes swapping them over, and you are the one who says it has always been that way and it has always been fine.
+question: Someone is coming to your house for the first time. You...
+answerMost: Give them the full tour, oddities first
+answerHigh: Not hide the strange bits
+answerMid: Let them notice things in their own time
+answerLow: Tidy the odder things away beforehand
+answerLeast: Make sure it all looks entirely normal
+rorschachMost: a limb growing sideways
+rorschachHigh: one arm off at angle
+rorschachMid: a body and an offshoot
+rorschachLow: an outline almost even
+rorschachLeast: a square drawn true
 ---
 
 Kimchi Butter Beans are the Bean Zodiac's most eccentric. They keep unusual hours, an unusual pet and a theory about bread, and they're entirely at ease with all of it. Occasionally it stops being liveable-with. Doing the normal thing for ease doesn't occur to them.

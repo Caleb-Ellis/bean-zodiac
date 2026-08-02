@@ -1,5 +1,5 @@
 ---
-# CHANGED SINCE THIS CONTENT WAS WRITTEN — trait: thoughtful -> philosophical, excess: overthinking -> abstruse, inverse: thoughtless -> prosaic
+# TODO: tidy facets, redo rorschachs
 slug: bitter-fermented-butter
 lastUpdated: 
 bean: butter
@@ -23,26 +23,26 @@ fortuneMid: An opinion you've held a long time has quietly gone stale.
 fortuneLow: A decision is being made without you — and made wrong.
 fortuneLeast: Some things arrive already settled.
 facetMostTitle: Gödel, Escher, Bean
-facetMost: The job offer's good and everyone says take it. You'll run through a pros and cons list at least five times before you give an answer.
+facetMost: A man at the rock pools is asked by his son what makes a crab a crab, and you answer for him. Ten minutes later you are on whether the pool is the same pool it was at low tide, and the boy has gone.
 facetHighTitle: Zen and the Art of Beantorcycle Maintenance
-facetHigh: No sign at the fork in the trail, and the others have already started down the left path. Give it a minute — the map's worth a proper look, even with them waiting.
+facetHigh: Smoke goes into the hive and the whole colony settles at once. You stand there with the frame in your hands, wondering what a bee actually is. The job stops for a good while.
 facetMidTitle: The Good Bean
-facetMid: A pinch of salt, the recipe says. You'll taste the dish first before you add any.
+facetMid: Between frames at the snooker hall the man you are playing says he has had a rotten year, and you ask him what a good one would have looked like.
 facetLowTitle: Ordinary Beans
-facetLow: Someone asks what you think of their new place. It's a bit dark, and drab. Your honest answer is said before you think of the softened version.
+facetLow: Boned and rolled, asks the butcher. You say yes, take it, and think about nothing else the whole way home.
 facetLeastTitle: Beans of Our Lives
-facetLeast: A friend pitches some half-baked plan for the weekend, and you're in before they've even finished.
-question: You've got the window seat on a long flight. The child beside you keeps glancing out at the clouds and half-starting to say something. You...
-answerMost: offer your seat before they ask
-answerHigh: catch the glances and ask if they'd rather swap
-answerMid: lean back so they get a clear view the whole flight
-answerLow: stay put but keep the shade up for them
-answerLeast: pretend you don't notice
-rorschachMost: a flattened brain
-rorschachHigh: a packed wasps' nest
-rorschachMid: an unkempt hedge
-rorschachLow: a clod of crumbling earth
-rorschachLeast: two messy footprints in a puddle
+facetLeast: Everything wears out in the end, the engineer is explaining, with some feeling, having got the boiler going again. You ask him what the part costs.
+question: A friend asks you, seriously, whether they think their life has amounted to much. You...
+answerMost: Take the question apart before answering any of it
+answerHigh: Ask what they'd count as amounting to something
+answerMid: Say yes, and give them two reasons
+answerLow: Tell them they're being daft and put the kettle on
+answerLeast: List the house, the kids and the job, then move on
+rorschachMost: a knot tied in itself
+rorschachHigh: threads running under threads
+rorschachMid: a tangle and loose ends
+rorschachLow: one thread pulled clear
+rorschachLeast: string wound on a card
 ---
 
 Cultured Butter Beans are the Bean Zodiac's most philosophical. Ask about the parking fine and you'll end up on the nature of rules, pleasantly, for an hour. Sometimes the answer arrives so abstract it's no longer about the fine. The purely practical reply bores them silent.

@@ -1,7 +1,6 @@
 ---
-# QUICK REVIEW — trait, excess and inverse all unchanged
 slug: spicy-fried-green
-lastUpdated: 
+lastUpdated: 2026-08-02
 bean: green
 flavour: spicy
 form: fried
@@ -22,15 +21,15 @@ fortuneHigh: Say your piece, then go ahead with it.
 fortuneMid: A made-up mind needs no second opinion.
 fortuneLow: The surest voice in the room isn't always yours.
 fortuneLeast: Fall in step, and let another lead the way.
-facetMostTitle: My Way or the Beanhighway
+facetMostTitle: My Way or the Beanway
 facetMost: The business you were sure would take off is bleeding money, and everyone around you is saying it's time to pull out. The urge is to double down instead — remortgage, pour more in, and prove them all wrong.
-facetHighTitle: Beanheadstrong
+facetHighTitle: Beanstrong
 facetHigh: You're taking a year off to travel, walking away from a good salary and a pension everyone says you'd be mad to give up. Your parents call it a mistake, your boss offers a raise to stay — and not one of them moves you an inch.
-facetMidTitle: My Own Beanway
+facetMidTitle: My Bean Way
 facetMid: You pull into the car park and take the first space you see. There are closer ones by the doors, but that's of no concern to you.
-facetLowTitle: Beando As You're Told
+facetLowTitle: Do As You're Beaned
 facetLow: Planning the weekend away, you've got a place in mind. But you ask the others where they'd like to go first — and when they land somewhere else, you're glad to just go along with it.
-facetLeastTitle: Good as Beanold
+facetLeastTitle: Good as Bean
 facetLeast: Your partner accepts the job they'd been offered across the country. You'd gone over some life and logistical implications, but not everything had been figured out. Regardless, the urge is to fall in line - hand in your notice, say bye to your friends, and build a new life around theirs.
 question: You've wanted a pet for ages, and you're finally in a living situation where it could work. Your partner says it's not the right time. You...
 answerMost: bring one home this weekend

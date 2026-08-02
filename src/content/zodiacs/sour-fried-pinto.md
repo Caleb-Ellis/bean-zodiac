@@ -1,5 +1,5 @@
 ---
-# COMPLETELY NEEDS UPDATING — trait: manipulative -> unguarded, excess: exploitative -> artless, inverse: artless -> guarded
+# TODO: tidy facets, redo fortunes, redo rorschachs
 slug: sour-fried-pinto
 lastUpdated: 
 bean: pinto
@@ -17,32 +17,32 @@ antiTriple: sweet-boiled-black
 antiBeans: [edamame, mung]
 antiForm: dried
 seasonalFortune: "A season of tomatillo and open windows — the pan says more than it meant; it stays said."
-fortuneMost: Seat the right two beside each other and step back; the introduction does the rest.
-fortuneHigh: Reach for the second name first, and the first catches wind and arrives offering before you've asked.
-fortuneMid: A favour offered well ahead of the ask that needs it stops being strategy and becomes plain generosity.
-fortuneLow: Drop the staging and ask the bare version.
-fortuneLeast: Someone has clocked the floorplan you laid out. Ask outright, by name.
+fortuneMost: Walking straight up to anything is how most spring lambs get caught.
+fortuneHigh: Say the whole of it and let them do what they like with it.
+fortuneMid: You told them too much and they were glad of it.
+fortuneLow: Not everything true has to be said to everybody.
+fortuneLeast: Keep one thing back and see how it sits.
 facetMostTitle: Too Much Beanformation
-facetMost: To get a stubborn relative to the family reunion, you let them believe a rival cousin won't be there. They commit before the doubt can.
+facetMost: Half an hour in and a stranger has the real reason you left the last job. Two people you work with are at the same table.
 facetHighTitle: Heart on My Bean
-facetHigh: A friend is set on a bad idea. You lead them down a path of careful questions until quitting feels like their own conclusion, never your push.
+facetHigh: You are on a livestream that four people are watching and one of them has asked a proper question, and you answer it on camera with the thing you have never put in writing.
 facetMidTitle: No Beanfilter
-facetMid: Wanting the window seat on a long flight, you mention the view warmly to your companion until they offer it up as if it were their idea.
+facetMid: Some evenings the river below the town runs the wrong way and hardly anybody has noticed. You tell a stranger at the bus stop that you go down and watch it.
 facetLowTitle: The Beanwall
-facetLow: You want a neighbour to swap shifts with you. Instead of laying groundwork, you knock on the door and just ask them outright.
+facetLow: Somebody asks how the year has been and the year has been a hard one. You say it has had its moments. You ask about theirs and keep the rest where it was.
 facetLeastTitle: A Closed Bean
-facetLeast: A market trader, you set one honest price on the sign and never read the buyer to nudge it. Take it or leave it, the number's the number.
-question: You need the used-car dealer to come down a few hundred on the price. You...
-answerMost: admire a flaw out loud and let them lower it themselves
-answerHigh: anchor the talk on the dent you know they'll bend over
-answerMid: name a number, but wait until they've warmed up
-answerLow: state your top figure and take whatever they say
-answerLeast: offer the asking price and mention you'll be gutted if it sells first
-rorschachMost: two figures and a coin slid between them
-rorschachHigh: two players with one game piece set in play
-rorschachMid: two islands with a small buoy floating between
-rorschachLow: two cushions and a button dropped by chance between
-rorschachLeast: two open hands and a marble fallen between them
+facetLeast: Four of you have got to the part of the evening where people say the true thing, and each of the others goes in turn. What you give them has the shape of a true thing and none of the contents whatever.
+question: You're half an hour into meeting somebody new and it's going well. You...
+answerMost: they have the real reason you left your last job
+answerHigh: tell them something true you'd not planned to
+answerMid: give a bit, and see what comes back
+answerLow: keep it to the ordinary things
+answerLeast: come away having said nothing at all
+rorschachMost: two hands, nothing between
+rorschachHigh: a gate standing wide
+rorschachMid: two rocks and a gap
+rorschachLow: a hand half closed
+rorschachLeast: a shutter across a window
 ---
 
 Agrodolce Pinto Beans are the Bean Zodiac's most unguarded. Half an hour in and a stranger knows the real reason they left the last job. Sometimes the room wasn't safe for it. Holding something back for later is a manoeuvre they can't seem to execute.

@@ -1,5 +1,5 @@
 ---
-# COMPLETELY NEEDS UPDATING — trait: efficient -> unflappable, excess: machinelike -> phlegmatic, inverse: inefficient -> jumpy
+# TODO: tidy facets, redo fortunes, redo rorschachs
 slug: sour-fried-butter
 lastUpdated: 
 bean: butter
@@ -17,32 +17,32 @@ antiTriple: bitter-smoked-mung
 antiBeans: [black, cannellini]
 antiForm: fermented
 seasonalFortune: "A season of raisin and red wine vinegar. The pan spits; nothing at the stove moves."
-fortuneMost: Three things matter, in order; the fourth is costume.
+fortuneMost: Everything goes in the pouch and gets sorted later, and some of it does not keep.
 fortuneHigh: A small thing handled the minute it lands never grows into a chore.
 fortuneMid: A step you keep calling required is habit wearing a uniform.
-fortuneLow: The friend across from you isn't a counter to clear, and the slow hour isn't waste.
+fortuneLow: Your friend is not a counter to be cleared.
 fortuneLeast: Let an empty hour stay empty.
 facetMostTitle: Mr. Beanrogers
-facetMost: Packing for a week away, one small bag. Everything that earns its place goes in and the rest stays on the bed.
+facetMost: The tide has turned and two swimmers are further out than they should be, and the other lifeguard is already on the radio. You finish the sentence you were saying, then go for the board, and neither your walk nor your voice picks up any speed at all.
 facetHighTitle: Beansully
-facetHigh: A flat tyre on a quiet road. Before anyone else has finished sighing, you've got the jack out and the spare lined up in order.
+facetHigh: A slate comes off in the gale and goes through the greenhouse, so you go back inside for a bucket.
 facetMidTitle: The Beanartian
-facetMid: One heavy trip up the stairs or two easy ones with the groceries — you take the single brutal haul, bags cutting your hands, every time.
+facetMid: Lights fail in the aquarium tunnel. A child you have never met grabs your hand in the dark. You tell them the sharks cannot see either, and hold on.
 facetLowTitle: Beanjaws
-facetLow: There's a faster way home and a longer one along the water. Tired as you are, you turn toward the water for no reason but the walk.
+facetLow: Four minutes left in the escape room and the padlock is not opening. You read the clues out at speed and talk over the one person who is close to it.
 facetLeastTitle: Beanjitterbug
-facetLeast: A market with no list and nowhere to be. You wander every aisle twice, doubling back for a smell, in no hurry to be anywhere but here.
-question: A travel booking page, four tabs open, and ninety minutes until the price tier changes. You...
-answerMost: close three tabs, book the one that meets the brief, move on
-answerHigh: compare the two strongest on the things that actually matter and pick within ten minutes
-answerMid: read each one through once and decide on the second pass
-answerLow: open two more comparison sites first
-answerLeast: leave the tabs and come back tomorrow, after the tier has changed
-rorschachMost: a clenched fist holding everything in one grip
-rorschachHigh: a river stone worn down to one smooth oval
-rorschachMid: a potato dug fresh from the soil
-rorschachLow: a balled-up sweater shoved in a drawer
-rorschachLeast: a crumpled draft tossed half-open in the bin
+facetLeast: That compactor bangs on the back of the refuse lorry and you are off the step before you know you have moved. It does that every round, and it gets you every time.
+question: A shelf comes down in the next room while you're mid-sentence. You...
+answerMost: Finish the sentence, then go and look
+answerHigh: Get up and deal with it without much fuss
+answerMid: Pause, listen, and carry on if it stays quiet
+answerLow: Lose the thread of what I was saying
+answerLeast: Jump out of my skin and have to sit down
+rorschachMost: a ball that rights itself
+rorschachHigh: a pebble, nothing chips it
+rorschachMid: a stone worn smooth
+rorschachLow: a pebble rocked once
+rorschachLeast: a bead skittering off
 ---
 
 Agrodolce Butter Beans are the Bean Zodiac's most unflappable. The kitchen catches fire and they're already carrying the pan outside, saying nothing much. Nothing gets a reaction, including things that warranted one. Jumping at a sudden noise is a reflex they seem not to have.

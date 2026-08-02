@@ -333,6 +333,20 @@ Two rules keep a scenario parseable:
   spell the setting out plainly ("the soup cart on the platform"). Texture is
   welcome; a riddle is not.
 
+**Two mechanical rules that keep this honest**, both checked by
+`node scripts/lint-facets.mjs`:
+
+- **No first-mention definite people.** "You give the lad in the corner the whole
+  explanation" fails twice over — *which* lad, and the corner of what. Either
+  introduce them indefinitely ("a boy you have been coaching"), or qualify them on
+  the spot ("the man you are three frames up on"). "The" promises the reader has
+  already met them.
+- **No trade noun doing the work of a setting.** *The corner*, *the ring*, *the
+  flight*, *the round*, *the square*, *the shift*, *the pen* each carry a whole
+  location for anyone who already knows the world, and nothing for anyone who
+  doesn't. Name the place in the line — "between rounds at the boxing club" — and
+  then the jargon reads fine.
+
 The test: hand the line to someone who can't see the picture in your head. If
 they have to ask "what whistle?" or "why a bowl?", the scene is built out of
 order or compressed too hard — rebuild it so each noun arrives already grounded.

@@ -1,5 +1,5 @@
 ---
-# COMPLETELY NEEDS UPDATING — trait: critical -> discriminating, excess: hypercritical -> snobbish, inverse: uncritical -> omnivorous
+# TODO: tidy facets, redo fortunes, redo rorschachs
 slug: sour-fermented-cannellini
 lastUpdated: 
 bean: cannellini
@@ -17,32 +17,32 @@ antiTriple: umami-roasted-adzuki
 antiBeans: [chickpea, butter]
 antiForm: boiled
 seasonalFortune: "A season of giardiniera and narrow taste: the brine takes some vegetables and refuses the rest."
-fortuneMost: You caught the extra half-turn of salt while everyone else was still chewing politely.
-fortuneHigh: You saw every flaw.
-fortuneMid: They asked for honest, so be honest — but pick the fault that matters and wave the small ones through.
-fortuneLow: The urge to correct runs loudest at the wrong hours, and most of what it flags has shrunk by morning.
+fortuneMost: Prising open the good ones all day, the oystercatcher walks past a whole beach.
+fortuneHigh: Say which one is better and say why, once.
+fortuneMid: You knew at the first mouthful and said nothing until asked.
+fortuneLow: Eat the ordinary thing gratefully and do not grade it.
 fortuneLeast: The typo will live.
 facetMostTitle: Beanfrasier
-facetMost: A busker's chorus comes in a hair flat and the crowd's loving it. The wrongness sits on your skin like grit, and you can't pretend it doesn't.
+facetMost: The coffee at the party is instant and there is a jar of it out on the side. You ask whether there is anything else at all. There is not, you go without, and you mention it twice more before you leave.
 facetHighTitle: Ratatoubean
-facetHigh: A friend's new haircut is mostly good and one piece sits wrong. Asked what you think, you'd rather flag the one piece than hand over the easy yes.
+facetHigh: Forty records in the crate at the back of the shop and thirty-eight of them are nothing. You pull the two out and put the rest back in order.
 facetMidTitle: Beansideways
-facetMid: A picture hangs a finger's width off level in someone else's hallway. You nudge it true on the way past and hope they'll never know who.
+facetMid: Given an hour in the gallery, you spend fifty minutes of it in front of one painting and walk past everything else without stopping once.
 facetLowTitle: The Beanomnivore's Dilemma
-facetLow: A clumsy hand-painted sign on a roadside stall, and the wrongness of the lettering is the warm part. You leave it exactly crooked and like the place more for it.
+facetLow: There is a whole wall of it at the buffet and none of it is any good. You go round twice, and then you go round again for the sausage rolls.
 facetLeastTitle: Bean v. Food
-facetLeast: A meal arrives at the table done how the cook does it, salt and all. The fixes you'd offer stay folded in your lap, and dinner is just dinner.
-question: The hotel room you paid a premium for has a stained valance and a tap that won't fully shut. You...
-answerMost: itemise every fault for the front desk and ask to be moved
-answerHigh: report the tap and the stain plainly, expect them fixed
-answerMid: mention the worst of it at checkout, let the rest go
-answerLow: tell yourself it's only one night and say nothing
-answerLeast: decide it's charming and leave a glowing review
-rorschachMost: an apple with one lump spoiling the round
-rorschachHigh: a potato with a sprout poking off-true
-rorschachMid: a stone with a smaller pebble beside it
-rorschachLow: a head turned away, one ear showing
-rorschachLeast: a round loaf, smooth and unbroken all over
+facetLeast: The film on the coach is one you would never have chosen and it is objectively terrible. You watch the whole thing, and you would watch the sequel if they put that on too.
+question: What's your taste like?
+answerMost: Narrow, and I won't apologise for it
+answerHigh: Particular — I know what's good
+answerMid: Fairly settled, with room to move
+answerLow: Broad. I'll try most things
+answerLeast: I'll eat, watch or listen to anything
+rorschachMost: a velvet cushion, one crumb
+rorschachHigh: a wax seal
+rorschachMid: a dark felt hat
+rorschachLow: a split plum
+rorschachLeast: a stew pot boiling over
 ---
 
 Pickled Cannellini Beans are the Bean Zodiac's most discriminating. Three sips and they can tell you which one is worth the money and why, and they are right. The taste sometimes shades into a verdict on whoever bought the other. Enjoying something bad and cheerful is beyond them.

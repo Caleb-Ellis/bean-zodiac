@@ -1,5 +1,5 @@
 ---
-# COMPLETELY NEEDS UPDATING — excess: blurting -> abrasive, inverse: cagey -> equivocal
+# TODO: tidy facets, redo fortunes, redo rorschachs
 slug: sour-roasted-edamame
 lastUpdated: 
 bean: edamame
@@ -17,32 +17,32 @@ antiTriple: sweet-smoked-black
 antiBeans: [kidney, mung]
 antiForm: dried
 seasonalFortune: "A season of ponzu and coriander: the pod states its position where the whole table hears."
-fortuneMost: This turn the pod cracks on the pan and the air clears for it.
-fortuneHigh: Skip the weather.
-fortuneMid: One sentence does the work of ten.
-fortuneLow: The next turn is theirs to find — hand over the corner, not the whole road atlas.
-fortuneLeast: A thing left to surface on its own gets met at the finder's own pace — so skip the headline.
+fortuneMost: You will say the true thing in the open, and the room will remember who said it.
+fortuneHigh: The position you took out loud is the one people actually plan around.
+fortuneMid: A mastiff at the gate does not pretend to be a hedge.
+fortuneLow: They will find it themselves if the ground is left clear.
+fortuneLeast: Let the other one have the last word and mean it.
 facetMostTitle: The Beanpprentice
-facetMost: The whole table is circling a problem nobody will name. You crack it open in one plain sentence and let the air clear.
+facetMost: You get up at the meeting and say the proposal is dishonest, and that the man who wrote it knows as much. He is sitting four seats along from you. You do not soften that, you do not qualify it, and you sit down.
 facetHighTitle: Straight Outta Beanton
-facetHigh: A taxi driver opens with small talk about the traffic. You skip the weather of it and say the real thing you got in the cab thinking about.
+facetHigh: Parents' evening, and a boy in your class is coasting and everybody has been kind about it all year. You tell them what he is capable of and what he does instead.
 facetMidTitle: On the Beancord
-facetMid: There's a real answer you owe, and it's been sitting in you. The moment they're across from you, out it goes — no carrying it back out the door.
+facetMid: Asked at the surgery whether you have been taking them, you say no, and why not, and you let the doctor deal with that.
 facetLowTitle: It Beanpends
-facetLow: You can see exactly where a friend's stuck and the whole way out. You hand them one corner of it and leave the rest of the road for them to find.
+facetLow: That fence is his and it is falling into your garden, and you mention only that it has been windy lately.
 facetLeastTitle: Yes and Bean
-facetLeast: The headline is right there, finished, ready to say. You let the thing surface on its own and meet whoever finds it at their own pace.
-question: Doing the dishes at midnight, your partner keeps circling a complaint about work that plainly isn't about work. They trail off. You...
-answerMost: name what it's really about in one sentence, hands still wet
-answerHigh: say what you think is actually going on and let them push back
-answerMid: ask the question that points at it without spelling it out
-answerLow: hum along and keep scrubbing till they find it themselves
-answerLeast: change the subject to the morning and let it sit unspoken
-rorschachMost: a jellyfish driving its tentacles straight down
-rorschachHigh: a rocket trailing fire beneath a round nose
-rorschachMid: an octopus with legs splayed below its head
-rorschachLow: tree roots wandering off in every direction
-rorschachLeast: a dancer's skirt swirling around hidden legs
+facetLeast: The scheme needs an answer and both of them are watching to see which way you go. You say you can see arguments on both sides and that it rather depends on the timing, and neither is any the wiser.
+question: In a meeting, somebody presents figures you're sure have been massaged. You...
+answerMost: Say so, and say who put them together
+answerHigh: Say plainly what's wrong with them
+answerMid: Ask the question that exposes it
+answerLow: Raise a small concern and leave it
+answerLeast: Say there are arguments both ways
+rorschachMost: sandpaper, grit side up
+rorschachHigh: a face above thorns
+rorschachMid: a rock over gravel
+rorschachLow: a fringed rug
+rorschachLeast: a curtain of loose threads
 ---
 
 Chimichurri Edamame are the Bean Zodiac's most forthright. They say what they want from the arrangement in the first meeting, with a number attached. It can land badly on people who wanted an hour of warm-up. Leaving a position deliberately vague isn't a tactic they'll use.

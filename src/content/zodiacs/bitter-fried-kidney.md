@@ -1,5 +1,5 @@
 ---
-# COMPLETELY NEEDS UPDATING — trait: confrontational -> uncompromising, excess: combative -> implacable, inverse: conciliatory -> accommodating
+# TODO: tidy facets, redo fortunes, redo rorschachs
 slug: bitter-fried-kidney
 lastUpdated: 
 bean: kidney
@@ -17,32 +17,32 @@ antiTriple: sour-smoked-butter
 antiBeans: [cannellini, black]
 antiForm: fermented
 seasonalFortune: "A season of bacon fat and hard lines: the pan takes a position and holds it through smoke."
-fortuneMost: Say the difficult thing plainly, names and edges intact.
-fortuneHigh: The whole pan is circling for a cooler spot, hoping someone walks into the disagreement straight on.
+fortuneMost: Taking what it takes and negotiating with nothing - the golden eagle.
+fortuneHigh: Say the difficult thing plainly, names and edges intact.
 fortuneMid: That appointment won't move itself off a fourth list.
 fortuneLow: The cooled version of the fight is the one worth having.
 fortuneLeast: Not your fight.
 facetMostTitle: Moby Bean
-facetMost: Someone cuts the long queue at the bakery and the line just sighs and lets it slide. Not you — you say it out loud, the end's back there, while the whole shop turns to look.
+facetMost: Your customer wants the third tier in a blue she has brought a sample of, and it will wreck the cake. You tell her you will not be making it in that blue.
 facetHighTitle: High Bean
-facetHigh: At the family table a relative floats the same ugly remark they always do, and everyone studies their plate. You meet it head-on, evenly, while the cutlery goes quiet.
+facetHigh: The mill has put its price up again and the bakery could go over to the cheaper flour without one customer in a hundred noticing. You carry on buying from the mill.
 facetMidTitle: The Fountainbean
-facetMid: The contractor's bill has a line on it that wasn't in the quote. You don't make a scene, but you do ring up and ask about it plainly rather than just swallowing the difference.
+facetMid: A man has brought sheet music to the folk session and wants the tune played off the page. You have had that tune since you were nine years old. You play it the way you play it and let him follow.
 facetLowTitle: Meet the Beanrents
-facetLow: A coin or two short in your change from the market stall, and you've noticed. You catch it, weigh it, let it ride — a couple of coins, and the morning's too good to spend arguing.
+facetLow: Two under-elevens sides and a linesman who is somebody's father, and he has flagged offside three times when it plainly was not. You give the third one against play anyway, because the touchline has got loud and there is another hour of this to go.
 facetLeastTitle: Yes, Beanister
-facetLeast: A loud group at the next table is ruining the meal, and a word would likely fix it. You'd rather not be the one — you ask to be moved, or you simply eat faster and go.
-question: Broad daylight, and a van pulls up at the end of the lane and starts tipping a load of building rubble where the kids play. You...
-answerMost: plant yourself in front of the van and tell them to load it back up
-answerHigh: stride over, photograph the plate, and say exactly what you've seen
-answerMid: call it out from the gate and let them clock that you're watching
-answerLow: note the plate quietly and report it later
-answerLeast: keep walking, not your lane, not your fight
-rorschachMost: two rams locked head to head mid-charge
-rorschachHigh: two cliffs grinding shut across a gorge
-rorschachMid: two boulders leaning against each other
-rorschachLow: two profiles turned away, backs almost touching
-rorschachLeast: two swans drifting apart on calm water
+facetLeast: Four of you have four ideas about the fortnight away, and you offer yours would be fine either way and slide the folder across the table.
+question: You've quoted a job at eight hundred and they've come back wanting it for six. You...
+answerMost: hold at eight hundred and don't take it at six
+answerHigh: hold the price and set out what the eight hundred buys
+answerMid: meet them at seven fifty and drop the extras
+answerLow: do it for six and grumble about it after
+answerLeast: agree to six before they've finished asking
+rorschachMost: two boulders wedged fast
+rorschachHigh: two fists, no give
+rorschachMid: a heap of rubble
+rorschachLow: a gate on a hinge
+rorschachLeast: a curtain drawn aside
 ---
 
 Scorched Kidney Beans are the Bean Zodiac's most uncompromising. They will not sign the thing they don't believe, whatever it costs, and the refusal holds under pressure. There's no version of them that meets you halfway to keep an evening pleasant. Sometimes halfway was right.

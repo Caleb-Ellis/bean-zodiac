@@ -1,7 +1,6 @@
 ---
-# QUICK REVIEW — trait, excess and inverse all unchanged
 slug: bitter-smoked-pinto
-lastUpdated: 
+lastUpdated: 2026-08-02
 bean: pinto
 flavour: bitter
 form: smoked

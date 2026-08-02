@@ -1,5 +1,5 @@
 ---
-# COMPLETELY NEEDS UPDATING — trait: seething -> mournful, excess: apoplectic -> inconsolable, inverse: tranquil -> untouched
+# TODO: tidy facets, redo fortunes, redo rorschachs
 slug: umami-smoked-kidney
 lastUpdated: 
 bean: kidney
@@ -17,32 +17,32 @@ antiTriple: sour-fried-edamame
 antiBeans: [adzuki, pinto]
 antiForm: roasted
 seasonalFortune: "A season of brisket and long smoke — the house smells of something that has left."
-fortuneMost: The reply that waits until it's four words long arrives sharpened.
-fortuneHigh: Take the grievance down off the shelf and say it aloud once, to no one.
-fortuneMid: Walk the long way home to cool off.
-fortuneLow: Unclench the jaw before you answer.
-fortuneLeast: Someone's been bracing for a verdict you quietly set down long ago.
-facetMostTitle: Cry Bean a River
-facetMost: Same red light, and there's the driver who cut you off. You hold the look — level, cold — and let the quiet carry it.
+fortuneMost: That cry across the lake at night is the loon, and it is not asking for help.
+fortuneHigh: Say the name out loud to the empty room.
+fortuneMid: You have been carrying it and nobody has asked.
+fortuneLow: Grief thins out if you let a day get in front of it.
+fortuneLeast: Go where nobody knew them and enjoy the evening.
+facetMostTitle: Bean Me a River
+facetMost: The factory came down eleven years ago and there are flats on it now, and you still walk that way and can say where the gate was and where the canteen was.
 facetHighTitle: Bean Memoriam
-facetHigh: The one who undercut you years back needs a favour and asks like nothing happened. You could say it now, finally. You say sure, and bank the asking for later instead.
+facetHigh: It is a year to the day. You cook what he cooked, badly, the way he did it. You put the plate on the table and you eat the whole thing.
 facetMidTitle: Beans in Heaven
-facetMid: The mechanic overcharged you and you both know it. You pay without a word and decide, on the spot, he's never touching the car again.
+facetMid: The dog's lead has been on the hook by the door eight months and there are two other people in the house who have stopped mentioning it. You leave the lead where it is.
 facetLowTitle: No Tearbeans
-facetLow: The waiter's short with your table, so you name it to his face, plain and even, and order pudding in the same breath.
-facetLeastTitle: The Unmoved Beanmover
-facetLeast: A cyclist clips your mirror and rides off without stopping. You shout once, mean it for the length of the block, and let it go with the next green light.
-question: At the holiday table your brother makes the same belittling joke he always does, and the others laugh it off. You...
-answerMost: smile thinly, say nothing, and add it to the long account
-answerHigh: hold your face still and let it harden inside
-answerMid: let the heat rise, then breathe it down and pass the plate
-answerLow: shoot back something edged before you can stop yourself
-answerLeast: call the joke out flatly, right there at the table
-rorschachMost: two thunderheads forced through a narrow neck
-rorschachHigh: a sealed flask bulging at a pinched waist
-rorschachMid: two boulders stacked on a thin join
-rorschachLow: sparks drifting up and out from the top of a bonfire
-rorschachLeast: a weathered stone with the wind opening holes clean through it
+facetLow: Somebody has put on the song that was played at the funeral and half the room does not know that is what it is, and you get up and take the glasses through to the kitchen and run the tap for a while.
+facetLeastTitle: The Unbeaned Mover
+facetLeast: The allotment your father kept thirty years is up for reletting. A letter asks whether anybody in the family wants it. You write back saying no.
+question: It's the anniversary of losing someone and nobody else has mentioned it. You...
+answerMost: take the day off and go through everything of theirs
+answerHigh: say the date out loud to somebody and mark it properly
+answerMid: do the one small thing you always do
+answerLow: notice it, and get on with the day
+answerLeast: realise at nine at night what the date was
+rorschachMost: a face with hollows in
+rorschachHigh: a curtain heavy with rain
+rorschachMid: a cloth eaten by moths
+rorschachLow: a window streaked once
+rorschachLeast: a dry cloth, folded
 ---
 
 Hickory Kidney Beans are the Bean Zodiac's most mournful. They carry the people they have lost properly, out loud, on the dates that matter. Sometimes it never lightens at all. Being unmarked by a loss is not something they would want anyway.

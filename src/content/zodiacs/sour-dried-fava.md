@@ -1,7 +1,6 @@
 ---
-# QUICK REVIEW — trait, excess and inverse all unchanged
 slug: sour-dried-fava
-lastUpdated: 
+lastUpdated: 2026-08-02
 bean: fava
 flavour: sour
 form: dried
@@ -26,11 +25,11 @@ facetMostTitle: Gordon Beansay
 facetMost: Your cousin's finished the novel he poured three years into and asks, glowing, if you'll read it. You tell him the world has enough books by people who mistake stubbornness for talent.
 facetHighTitle: Beanhouse
 facetHigh: A friend announces she's quitting a steady job to make jewellery and asks, beaming, for your honest take. You tell her to keep her job, or beg for it back if she actually quits.
-facetMidTitle: Beaneep
+facetMidTitle: Veebean
 facetMid: The barista's clearly proud of the drink she added to the menu, but one sip and it's thin and way too sour. She asks how it is, and you say exactly that.
 facetLowTitle: Comfortably Bean
 facetLow: Your grandmother sets down the roast she's been on her feet all day for, and it's dry as a boot. She asks how it is — you tell her it's her amazing and go back for seconds.
-facetLeastTitle: Pour Some Sugar on Bean
+facetLeastTitle: Pour Some Bean on It
 facetLeast: A kid has a lemonade stand on the corner and the cup she pours you is sickly sweet. You congratulate her on being a master chef, and buy another cup.
 question: You're at a wellness retreat, and during the solstice gathering the organiser asks everyone in the circle to say aloud what the sunrise means to them. You...
 answerMost: wonder how you got suckered into paying for this nonsense

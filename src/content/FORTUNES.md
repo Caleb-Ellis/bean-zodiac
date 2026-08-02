@@ -57,11 +57,13 @@ Lean into it unless a fresher shape genuinely serves the line better:
   mourned. ("The luna moth moves toward all lights, drifting everywhere and going
   nowhere.")
 
-**The creature belongs to the whole column, not to `Most`.** The entry's `creature`
-may carry any one of the five — the wren at `Least` embracing the inverse, the
-crocodile at `Mid` as a flat maxim — and reaching for it at `Most` every time is
-the single most visible tic in the corpus. Use it at most once per entry, and vary
-which slot gets it across entries. A `Most` with no animal in it at all is fine.
+**The creature belongs to `Most`, `High` or `Mid` — never `Low` or `Least`.** The
+creature embodies the bean's trait, so putting it at the two slots that lean toward
+the *inverse* asks it to argue against itself. Within those three it may carry any
+one — the crocodile at `Mid` as a flat maxim, the heron at `High` as plain advice —
+and reaching for it at `Most` every time is the single most visible tic in the
+corpus. Use it exactly once per entry, and vary which of the three gets it across
+entries.
 - **High** — plain, confident advice that affirms the trait, often a bare
   imperative. No image required. ("Do not settle for less than the best.")
 - **Mid** — a flat statement or maxim at low pitch; mild, the gentle correction of

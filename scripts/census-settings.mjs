@@ -136,6 +136,7 @@ const SETTINGS = {
   "roadside shrine": /shrine|memorial bench|roadside cross/,
   monastery: /monastery|retreat|silent order/,
   pilgrimage: /pilgrimage|camino|procession/,
+  castle: /castle|knight|\\bprince\\b|\\bking\\b|\\bqueen\\b|princess/,
 
   // — trades & making —
   blacksmith: /blacksmith|forge|anvil|foundry/,
@@ -157,7 +158,7 @@ const SETTINGS = {
   "milk round": /milk round|milkman|dairy float/,
 
   // — outdoor work & wardens —
-  gamekeeper: /gamekeeper|ranger|park keeper|warden/,
+  gamekeeper: /gamekeeper|\\branger\\b|park keeper|warden/,
   coastguard: /coastguard|harbourmaster|lock keeper/,
   lifeguard: /lifeguard|poolside whistle/,
 

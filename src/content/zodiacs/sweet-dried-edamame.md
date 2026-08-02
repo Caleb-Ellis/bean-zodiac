@@ -1,12 +1,11 @@
 ---
-# QUICK REVIEW — trait, excess and inverse all unchanged
 slug: sweet-dried-edamame
-lastUpdated: 
+lastUpdated: 2026-08-02
 bean: edamame
 flavour: sweet
 form: dried
 trait: straightforward
-excess: bald
+excess: simplistic
 inverse: convoluted
 quote: Keep it simple, bean.
 creature: ewe
@@ -17,8 +16,8 @@ antiTriple: bitter-smoked-kidney
 antiBeans: [adzuki, mung]
 antiForm: fermented
 seasonalFortune: "A season of matcha shell and one step: sugar, then time, then done."
-fortuneMost: A single straight line is all it takes.
-fortuneHigh: Lie down if you're tired.
+fortuneMost: Every field looks the same green to the ewe, even the bog.
+fortuneHigh: A single straight line is all it takes.
 fortuneMid: It's a yes.
 fortuneLow: The plain answer is not the right one.
 fortuneLeast: The tangled yarn has many ends.
@@ -41,8 +40,8 @@ answerLeast: five courses with matched wines
 rorschachMost: nothing discernable
 rorschachHigh: a beating heart
 rorschachMid: a withered ewe skull
-rorschachLow: a jellyfish with a couple of thick tentacles
-rorschachLeast: a squawking, frenzied chicken
+rorschachLow: a jellyfish
+rorschachLeast: a frenzied chicken
 ---
 
 Crystallised Edamame are the Bean Zodiac's most straightforward. They tell you the plan in the order it happens and there is nothing underneath it. Sometimes the plainness misses what was complicated. Handling something with layers and delicacy is not their strength.

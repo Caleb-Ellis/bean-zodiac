@@ -1,5 +1,5 @@
 ---
-# COMPLETELY NEEDS UPDATING — excess: overeager -> voracious, inverse: lackluster -> uninterested
+# TODO: tidy facets, redo fortunes, redo rorschachs
 slug: umami-fried-edamame
 lastUpdated: 
 bean: edamame
@@ -17,32 +17,32 @@ antiTriple: sweet-boiled-butter
 antiBeans: [adzuki, mung]
 antiForm: fermented
 seasonalFortune: "A season of tentsuyu and sharpened appetite: the tempura wants the next one already."
-fortuneMost: The filling announces itself through the dough before the dumpling's even turned — you read people the same way.
-fortuneHigh: A lamp moved an inch, a word chosen instead of the obvious one — you'll catch it where everyone else walks straight past.
-fortuneMid: Don't finish their sentence.
-fortuneLow: The first read was wrong and the second, slower one, was right.
+fortuneMost: Every door you open has another behind it, and the first room goes unlived-in.
+fortuneHigh: Go after it the way a merlin does - flat out, and only the one.
+fortuneMid: The hour you did not choose turns out to be the one you stay in.
+fortuneLow: Let one go by unread and nothing at all follows.
 fortuneLeast: Be the last to know something, on purpose.
 facetMostTitle: The Very Hungry Beanerpillar
-facetMost: Two strangers shake hands on a deal at the next table. From the half-second before the smile, you can tell one of them already regrets it — and you weigh whether to say something.
+facetMost: You went in for one book about canals and came out with nine — on canals, on lock design, on the men who dug them, and on a related dispute in 1847. The car is full. You have already started the one about the dispute.
 facetHighTitle: Eager Beanver
-facetHigh: The guide rattling through the tour leaves a tiny catch in their voice on one sentence. Everyone else moves on; you stay on it and ask if they're alright.
+facetHigh: The evening class covers six weeks of it and you have read ahead to the end by the second session, and you are asking the tutor about things he had not planned to cover.
 facetMidTitle: Bright Beaneyes
-facetMid: A friend is talking their way toward a conclusion you saw coming a while ago. You hold the answer back and let them get there themselves, but you struggle to stay quiet.
+facetMid: Given an hour in a museum you did not choose, you find a single case that interests you and are still at it when they come to find you.
 facetLowTitle: The Big Beanyawn
-facetLow: The tone shifts, a pause runs a beat long. You let the signal pass without chasing it down.
+facetLow: A talk on something you know nothing about, and free. You go along, it is fine, and nothing comes of it.
 facetLeastTitle: Wake Me Up When Beantember Ends
-facetLeast: The whole cinema gasps at a twist you never saw coming, and you turn to a friend grinning, glad you got to be surprised.
-question: Out on the water alone, the swell shifts under the hull and the far sky changes in a way the forecast didn't mention. You...
-answerMost: read it three moves ahead and turn for shore before the wind admits it
-answerHigh: trust the early tell and start shortening up
-answerMid: hold course but ready the lines for what's likely coming
-answerLow: wait for the first real gust to confirm it, then react
-answerLeast: notice the squall only when it's already on you
-rorschachMost: a hound stretched low, nose pushed out along a scent
-rorschachHigh: an otter, snout reaching toward something off to one side
-rorschachMid: a thundercloud spread along a horizon
-rorschachLow: a seal lolling half-asleep on a rock
-rorschachLeast: a lump of wax gone blunt and faceless
+facetLeast: Somebody hands you a book they have been going on about for a year and promises you will love the thing. You take it home, put it on the shelf, and there it stays until they ask again a year later.
+question: Somebody mentions a subject you know nothing about. What happens?
+answerMost: I've read four books on it inside a week
+answerHigh: I look it up properly that night
+answerMid: I ask them a few questions
+answerLow: I nod and move on
+answerLeast: I change the subject
+rorschachMost: a mouth open too wide
+rorschachHigh: a fish head, jaw hinged
+rorschachMid: a melon, one wedge cut
+rorschachLow: a pie, one slice gone
+rorschachLeast: a plate pushed away
 ---
 
 Tempura Edamame are the Bean Zodiac's most keen. New subject, new tool, new job — they are three books in before the first week is out. Sometimes there's an appetite nothing satisfies. Being indifferent to something is rare enough to alarm them.

@@ -1,5 +1,5 @@
 ---
-# CHANGED SINCE THIS CONTENT WAS WRITTEN — trait: contemplative -> pensive, excess: ruminative -> moping, inverse: unreflective -> blithe
+# TODO: tidy facets, redo rorschachs
 slug: sweet-fermented-black
 lastUpdated: 
 bean: black
@@ -23,26 +23,26 @@ fortuneMid: Some sweet things are meant to be served before they set.
 fortuneLow: The longer a coin is held, the heavier it feels.
 fortuneLeast: The caramel darkens — pour it now.
 facetMostTitle: Heaven Knows I'm Beanmiserable Now
-facetMost: You wake up to find a door in your kitchen wall where there wasn't one before. You study it for days before your hand goes anywhere near it.
+facetMost: The photograph has been out on the side for a fortnight now and you have not put it back in the drawer. You sit with it in the evenings after everybody has gone up, and you have started going to bed later because of it.
 facetHighTitle: A Beanpenny for Your Thoughts
-facetHigh: A stranger asks what you'd change about your life. You could give the canned response, but you sit with it for a good while before answering.
+facetHigh: Somebody says something in passing about a summer twenty years ago, and you spend the rest of the walk somewhere else entirely, working through it.
 facetMidTitle: A Brown Beanstudy
-facetMid: Someone remarks that you're "hard to read" — not as an insult, just an observation. You spend hours chewing on it, trying to uncover exactly what they meant.
+facetMid: You take the long way back through the park, twice round the pond, because there is a thought you have not finished with and the house is full of people.
 facetLowTitle: Blithe Beanspirit
-facetLow: The lunch counter's chalkboard is a wall of options and the line is stacking up behind you. You point at the first thing that looks good and step aside.
+facetLow: The thing that happened has been turned over enough. You put the radio on, get the kitchen done and let it be over.
 facetLeastTitle: Without a Bean in the World
-facetLeast: Someone dares you to jump off the high rocks into the water below. You're already pulling your shirt over your head.
-question: A voice offers to answer any single question truthfully and completely — but you only ever get to ask one, for the rest of your life. You...
-answerMost: take months, weighing every question worth asking
-answerHigh: take weeks, turning the choices over slowly
-answerMid: take days to narrow it to a handful, and choose from those
-answerLow: ask the first thing that truly matters and live with it
-answerLeast: ask whatever happens to be on your mind
-rorschachMost: a stone gargoyle on a ledge
-rorschachHigh: an eroded cliff-side
-rorschachMid: a lumpy bitten apple
-rorschachLow: a wave heaving up just before it crests
-rorschachLeast: a bird's head, screeching
+facetLeast: A fortnight since the funeral and you are perfectly all right. You say so when they ask, and it is true, and it goes on being true.
+question: An old memory surfaces without warning. You...
+answerMost: follow it down and lose the rest of the evening to it
+answerHigh: sit with it a while and see what it is doing there
+answerMid: give it a few minutes and carry on
+answerLow: acknowledge it and get on with the day
+answerLeast: let it pass without engaging with it at all
+rorschachMost: a sack nobody lifts
+rorschachHigh: shoulders curved forward
+rorschachMid: a bag and its sagging
+rorschachLow: a back straightening up
+rorschachLeast: a hat thrown up
 ---
 
 Funky Black Beans are the Bean Zodiac's most pensive. There is usually a thought running underneath the conversation, and when it surfaces it's worth the wait. Some weeks it sinks and stays down. Being lightly, unthinkingly cheerful is not a mood they can locate.

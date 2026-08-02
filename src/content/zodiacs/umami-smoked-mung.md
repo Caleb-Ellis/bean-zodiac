@@ -1,5 +1,5 @@
 ---
-# COMPLETELY NEEDS UPDATING — inverse: uninitiated -> thin
+# TODO: tidy facets, redo fortunes, redo rorschachs
 slug: umami-smoked-mung
 lastUpdated: 
 bean: mung
@@ -20,29 +20,29 @@ seasonalFortune: "A season of rice-husk smoke and long soaking — what mends he
 fortuneMost: The chair stays where it's always sat, and guests learn the route around it.
 fortuneHigh: Pour the same tea from the same tin.
 fortuneMid: Let the answer set like congee before you serve it.
-fortuneLow: Open a window before the next cup — the room stopped telling you its own smell, and that fade is the smell.
+fortuneLow: Even the tea frog comes up out of the water sometimes.
 fortuneLeast: An afternoon somewhere unfamiliar is waiting for you.
 facetMostTitle: Singin' in the Bean
-facetMost: Same café, same corner table, year after year — the waiter sets your order down before you've pulled the chair out, and that's the whole reason you came.
+facetMost: Forty years of the same practice and it is in your hands before you decide anything. Somebody shows you a better way. You watch the whole demonstration and go back to doing it your way.
 facetHighTitle: A Nice Cup of Bean
-facetHigh: A coast full of beaches you've never tried, and still you drive past every one to the cove you've swum since childhood.
+facetHigh: The starter has been fed since before your daughter was born and it goes in the bag when you travel and it has been through three house moves. You can tell by the smell in the morning what the loaf is going to do.
 facetMidTitle: Low and Beanslow
-facetMid: Hundredth time through a song you've half-loved for years, and only now do you catch what it was actually saying.
+facetMid: Somebody in the beginners' class asks why you hold the knife like that and you have to stop and work the answer out.
 facetLowTitle: Oliver Beanwist
-facetLow: One night only, never coming back — a pop-up kitchen across town. You book it without a clue what's on the menu.
+facetLow: A technique has come in and everybody younger is using it. You get the book out and give it an evening on a piece that does not matter.
 facetLeastTitle: Bean Lizzy
-facetLeast: On a whim you shove the whole living room around, and the strange new layout feels like throwing a window open.
-question: A weekend away with friends, and the group is choosing between somewhere none of you have been and the cottage you've returned to for five summers. You...
-answerMost: make the case for the cottage — the lake at the right hour, the kitchen you know how to cook in
-answerHigh: vote for the cottage, gently, but go quietly if the room tips the other way
-answerMid: float a way to do both, half there and half elsewhere
-answerLow: vote for the new place; the cottage will be there next summer
-answerLeast: be the one who suggested the new place in the first place
-rorschachMost: two tea stains bled deep into a cloth
-rorschachHigh: two patches of moss grown into the bark
-rorschachMid: two inkblots spreading on damp paper
-rorschachLow: two fresh drops just landed on a dry rag
-rorschachLeast: two crisp sponges still in their wrapper
+facetLeast: You have picked the thing up for the first time and there is a room of people who have done it for years. What you make is wrong in four ways, and you book the next six weeks.
+question: How long have you been doing the thing you're best at?
+answerMost: long enough that you can't say how you do it
+answerHigh: years, and it's in your hands now
+answerMid: a good while, and you still think about it
+answerLow: not long, and you're still working it out
+answerLeast: you started last month
+rorschachMost: leaves left in too long
+rorschachHigh: tea brewed a long time
+rorschachMid: two full sponges
+rorschachLow: a brew just poured
+rorschachLeast: water barely coloured
 ---
 
 Hickory Mung Beans are the Bean Zodiac's most steeped. Forty years in the same practice and it is in everything they do, unannounced. Sometimes it is so concentrated that nothing new gets in. Being new, raw and untried is long behind them.

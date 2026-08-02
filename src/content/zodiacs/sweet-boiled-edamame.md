@@ -1,5 +1,5 @@
 ---
-# CHANGED SINCE THIS CONTENT WAS WRITTEN — excess: indispensable -> predictable, inverse: undependable -> unreliable
+# TODO: tidy facets, redo rorschachs
 slug: sweet-boiled-edamame
 lastUpdated: 
 bean: edamame
@@ -23,26 +23,26 @@ fortuneMid: Steady doesn't have to mean same.
 fortuneLow: Reliability sets like cold paste if you never stir it.
 fortuneLeast: Better a thing dropped early than finished out of duty.
 facetMostTitle: The Usual Beansuspects
-facetMost: A group trip is dying in the chat — dates slipping, nobody booking anything. You quietly take it over, lock the dates, put down the deposit, and make it happen.
+facetMost: Eleven years on the same lift share and you have never once been late and never once been ill. They have stopped agreeing a time. Somebody new asks whether you are always this early and three of them answer at once, and you say nothing.
 facetHighTitle: Steady Beaneddie
-facetHigh: A neighbour going away for a month leaves you their only spare key and the alarm code. They come home to plants watered, mail stacked neatly, everything exactly where they left it.
+facetHigh: They are one short for the quarter peal and somebody has rung you at nine in the evening. You are there by half past, with your own rope in your hand.
 facetMidTitle: Old Beanreliable
-facetMid: A friend mentions in passing that they've run out of coffee. Next time you turn up, you've brought a bag from a place you like.
+facetMid: Given a friend's moving day and a van to drive, you turn up at the hour you said you would, with straps, and you stay until the last box is in.
 facetLowTitle: The Unreliable Beanarrator
-facetLow: You told them you'd text the moment you got home safe. You're in, kettle on, and it slips your mind until they message first.
+facetLow: You said you would help with the awning and it is raining hard. You go, and you are late, and you help.
 facetLeastTitle: Missing in Beanaction
-facetLeast: The plans are set and people are expecting you, but it's been a touch day, the sofa's warm and it's dark and miserable out. You text that you're not going to make it.
-question: You said you'd help a friend move at 9am Saturday. You wake up Saturday with a throbbing headache. You...
-answerMost: take painkillers and show up at 8:55 with coffee for both of you
-answerHigh: text that you're a bit rough but you'll be there, probably a touch late
-answerMid: text early, see how you feel by 10, decide then
-answerLow: text that you can't make it but you'll cover lunch
-answerLeast: sleep in — they'll figure it out
-rorschachMost: a boulder settled square on the ground
-rorschachHigh: a bear sitting solid on its haunches
-rorschachMid: a tree stump with a stray root
-rorschachLow: a snowman starting to slump on one side
-rorschachLeast: a sandcastle sliding apart at the base
+facetLeast: You said you would have the accounts done and they are not started. Somebody rings to ask and you say they are nearly there. They are not nearly there, and this is the second time this has happened.
+question: You've promised to help someone move house and you wake up feeling rough. You...
+answerMost: Go anyway and stay till the end
+answerHigh: Go, and do what I can
+answerMid: Go late and do a couple of hours
+answerLow: Ring and say I'll come tomorrow
+answerLeast: Send an apology at eleven
+rorschachMost: a padlock, key still in
+rorschachHigh: a bell on a strap
+rorschachMid: a bag with a handle
+rorschachLow: a knot working loose
+rorschachLeast: a hinge come apart
 ---
 
 Candied Edamame are the Bean Zodiac's most dependable. If they said Thursday, it is Thursday, and in eleven years there hasn't been an exception. Sometimes the reliability is the whole of what's on offer. Surprising anybody is not really within their range.

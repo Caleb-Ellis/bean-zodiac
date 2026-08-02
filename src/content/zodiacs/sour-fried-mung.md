@@ -1,7 +1,6 @@
 ---
-# COMPLETELY NEEDS UPDATING — inverse: self-aggrandizing -> boastful
 slug: sour-fried-mung
-lastUpdated: 
+lastUpdated: 2026-08-06
 bean: mung
 flavour: sour
 form: fried
@@ -17,32 +16,32 @@ antiTriple: bitter-dried-edamame
 antiBeans: [black, fava]
 antiForm: fermented
 seasonalFortune: "A season of tamarind water and small claims — the fritter apologises for a dish needing none."
-fortuneMost: Your own punchline lands first, and that's the gift — anyone else's version of you is slower and unkinder.
-fortuneHigh: The short embarrassing story — the bad haircut, the recipe that flopped — goes over best with no caveats stacked on top.
-fortuneMid: Praise arrives; say thank you and then nothing.
-fortuneLow: Don't co-sign it — stepping that half-foot away will feel like accepting something you haven't earned, but the line was never the truth.
-fortuneLeast: Catching it whole will cost you the easy joke and run against everything in you; take it anyway.
-facetMostTitle: I'm Not Beanworthy
-facetMost: A coach singles you out for the win in front of the team. Out comes a quick joke about the three you fluffed before anyone can clap.
+fortuneMost: Discount yourself often enough and the price will stick.
+fortuneHigh: Capuchin monkeys are experts at making their falls look intentional.
+fortuneMid: Modesty and honesty are not the same thing.
+fortuneLow: Don't be afraid to show how good you are.
+fortuneLeast: Become among the greatest beans, as I have!
+facetMostTitle: To Be Beansworthy
+facetMost: It's your leaving drinks, and your boss has spent ten minutes listing all of your achievements. When given the floor, you mention a mistake that nearly cost a contract, and how you took credit for things that other people did.
 facetHighTitle: Beannie Hall
-facetHigh: New people at a gathering, a lull in the talk. You fill it with the story of your most spectacular public faceplant.
-facetMidTitle: Charlie Beanown
-facetMid: Handed a real compliment about your singing, you'd rather brush past it with a wave than stand there and own that you can carry a tune.
-facetLowTitle: Beangaston
-facetLow: Make the case squarely — you're the right one for this job — in the interview, not one self-cancelling joke folded into the answer.
+facetHigh: Your paintings are up on the gallery walls, and a patron is marvelling at your largest work — the emotion it evokes, the power in the brush strokes. You mention that the hands are a bit wonky in each one.
+facetMidTitle: Beanie Brown
+facetMid: The regional award for your line of work has come to you, and the photographer wants you holding the plaque up outside with the sign in shot. The paper asks for a line to run underneath it. You tell them they must have had a thin year for entries.
+facetLowTitle: Beanston
+facetLow: Pub quiz, your team a point off the lead, and the sheet goes round the table for who is taking which round. You have never once dropped a point on the film round. You put your name against it and tell the others not to bother conferring on that one.
 facetLeastTitle: The Greatest Bean
-facetLeast: A child looks up to you and copies how you do things. You let yourself be the steady example without once cracking wise about your flaws.
-question: A stranger stops at your market stall, picks up the thing that took you weeks, and says it's the best on the row. You...
-answerMost: point out the wonky seam before they've finished the sentence
-answerHigh: laugh and tell them how many you ruined getting there
-answerMid: say thanks and add that it's not quite right yet
-answerLow: say thanks and let them keep looking
-answerLeast: hold their eye, say thank you, and name your price
-rorschachMost: a hedgehog curled into a tight defensive ball
-rorschachHigh: a person hunched with the shoulders drawn in
-rorschachMid: a round loaf cooling on the counter
-rorschachLow: a cat sitting up proud on its haunches
-rorschachLeast: a balloon swelled full and standing tall
+facetLeast: A trade magazine has sent a photographer out to the hotel to shoot the staircase you built — oak, curved on two planes, not a fixing showing anywhere on it. There are perhaps three joiners in the country who could have cut it. You walk them through every joint, and tell them neither of the other two would have got it this clean.
+question: Careers day at your old school, and you're twelve years a paramedic. Ten minutes in, a hand goes up at the back — are you good at what you do? You...
+answerMost: tell them about a call you got completely wrong, and how much the mistake cost
+answerHigh: say not really, and make a joke out of a little mistake you made recently
+answerMid: say you're alright at it now, after twelve years
+answerLow: say yes — you have the experience
+answerLeast: say they'd wish it was you with them on the worst night of their life
+rorschachMost: a dishcloth
+rorschachHigh: an oyster
+rorschachMid: a homemade pie
+rorschachLow: clasped hands
+rorschachLeast: an award
 ---
 
 Agrodolce Mung Beans are the Bean Zodiac's most self-deprecating. They open with the story of their own worst day and the whole table relaxes into being human. Sometimes the joke costs them credit they needed. Saying plainly that they were good at something, they cannot do.

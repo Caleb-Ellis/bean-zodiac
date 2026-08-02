@@ -1,5 +1,5 @@
 ---
-# CHANGED SINCE THIS CONTENT WAS WRITTEN — trait: exquisite -> stringent, excess: precious -> draconian, inverse: tawdry -> lax
+# TODO: tidy facets, redo rorschachs
 slug: sour-dried-cannellini
 lastUpdated: 
 bean: cannellini
@@ -23,26 +23,26 @@ fortuneMid: There is only time to perfect one thing.
 fortuneLow: Blur your eyes a bit and it looks great.
 fortuneLeast: Plastic pearls shine just as bright by candlelight.
 facetMostTitle: Judge Beandredd
-facetMost: You spent the whole weekend painting the bedroom and it looks beautiful — in the morning. In the afternoon light it looks a bit darker, not as "glowy" as you'd imagined. It's only going to bother you more as time goes on, so you reach for the colour swatch again.
+facetMost: One phone goes off in the exam hall in the last ten minutes. You take the paper, write the time on it, and walk the boy out. His mother is on the telephone within the hour and you do not move an inch.
 facetHighTitle: Full Metal Beanjacket
-facetHigh: There's still an empty wall in your living room. You could fill it with prints tomorrow, but you leave it bare and wait, hoping to find a piece so magnificent you light it on its own.
+facetHigh: Everything in the kitchen scores well except the fridge seal, which is perished at one corner. You mark them down for it and give them a fortnight to sort it.
 facetMidTitle: The Beanrules of the Game
-facetMid: It's only shop-bought hummus, but you spoon it into a bowl, swirl the top, and pool a little bit of fancy olive oil before it goes on the table.
+facetMid: Two of the under-twelves turned up without shin pads. Neither of them plays, and you say so to both fathers, in front of the rest of the team and both sets of parents.
 facetLowTitle: Beanslacker
-facetLow: At the photobooth, it takes an amazing shot of the two of you, you both have never looked better. Then it suddenly takes two more, capturing a big thumb and then a blurry one of you two laughing. The blurry one is the one you keep.
+facetLow: Somebody's book is nine weeks late and the fine has got embarrassing, so you waive the whole thing and say no more about it.
 facetLeastTitle: Animal Beanhouse
-facetLeast: Dressing for a party, you go with the rainbow sequins, the clashing colours and the biggest jewellery in the drawer, and walk out feeling like a million bucks.
-question: How do you make your coffee at home?
-answerMost: single origin beans, precisely weighed, filtered water
-answerHigh: fresh beans, in the good cup
-answerMid: prefer to get it from a nice cafe than at home
-answerLow: whatever's in the kitchen, not fussed
-answerLeast: instant, multiple sugars
-rorschachMost: ornate jewellery
-rorschachHigh: a regal emblem
-rorschachMid: a splash of ink
-rorschachLow: a bat in flight
-rorschachLeast: a squashed sweet
+facetLeast: The gym has a rule about booking the court and three lads have just walked on without doing it. The diary is open in front of you, and you leave them to it.
+question: You said no phones at the table, your son answers his, and it turns out to be a friend in trouble. You...
+answerMost: Apply it anyway — that's what a rule is
+answerHigh: Hold the line and explain why
+answerMid: Let it go the once and say so
+answerLow: Bend it without much thought
+answerLeast: Can't remember what the rule was
+rorschachMost: a spiked fortress wall
+rorschachHigh: an iron crown
+rorschachMid: a jagged mountain range
+rorschachLow: a gap-toothed fence
+rorschachLeast: a mound of soft turf
 ---
 
 Dehydrated Cannellini Beans are the Bean Zodiac's most stringent. The standard is written down and applies to them first, which is why anybody tolerates it. Applied to a tired volunteer it lands hard. Letting a thing through because the person tried is not a discount they give.

@@ -1,5 +1,5 @@
 ---
-# COMPLETELY NEEDS UPDATING — trait: opinionated -> droll, excess: bombastic -> flippant, inverse: wishy-washy -> humourless
+# TODO: tidy facets, redo fortunes, redo rorschachs
 slug: bitter-fried-adzuki
 lastUpdated: 
 bean: adzuki
@@ -17,32 +17,32 @@ antiTriple: umami-boiled-black
 antiBeans: [butter, navy]
 antiForm: dried
 seasonalFortune: "A season of burnt sugar and dry laughter — the fritter is funnier than the occasion required."
-fortuneMost: Your first read is the true one, crisp the instant it hits the oil.
-fortuneHigh: You'll know the good one from the soft one before anyone else has tasted either.
-fortuneMid: There's a thing you keep half-saying. Carry it to the end of the sentence.
-fortuneLow: Some crooked things keep better unstraightened.
-fortuneLeast: The hill you're ready to die on is a curb.
+fortuneMost: Nothing about the puffin is meant to be funny, and all of it is.
+fortuneHigh: Say it flat, with the face of someone reading a timetable.
+fortuneMid: You undercut the big moment and everybody was grateful.
+fortuneLow: Some moments want a straight answer and no wink.
+fortuneLeast: The hill you're ready to die on is a kerb.
 facetMostTitle: Ferris Bueller's Bean Off
-facetMost: Two paint chips, near-identical greens, and the painter's brush already loaded. You tap the one that's right and dare anyone at the table to tell you the other was close.
+facetMost: The foreman is reading out the charge and it is a serious one. You lean over and make the joke to the juror beside you anyway.
 facetHighTitle: Withnail and Bean
-facetHigh: A friend plays you two takes of the same song and asks which is better. You name it before the second chorus and won't be talked off it.
+facetHigh: The nurse has been hunting for a vein for a while now and has gone quiet with concentration, and the pause has got long enough to be awkward for both of you. You give her the line about third time lucky, and she laughs and gets it.
 facetMidTitle: Beanadder
-facetMid: Nobody can settle on where to eat. You float a place, not pushy about it, but there's one you've got in mind and you'll name it if pressed.
+facetMid: Your mouth is full of instruments and there is no way to answer properly, so the whole story about your summer comes out anyway, and the dentist has to stop working to laugh.
 facetLowTitle: A Serious Bean
-facetLow: Does the new haircut suit them, your cousin wants to know. It doesn't, much — but you find the version of yes that's mostly kind and leave the rest in the pan.
+facetLow: Clipboard on his knee, pen out, and not one word of small talk in him. You give straight answers to the questions and drive.
 facetLeastTitle: The Seventh Bean
-facetLeast: Asked outright which of your two friends was in the right, you say there's a case for both and mean it — the fence is honestly where you live.
-question: A new acquaintance asks for your favourite film, sincerely, as a way of getting to know you. You...
-answerMost: name it, then say why the runner-up isn't even close
-answerHigh: name it, plainly, no caveat
-answerMid: name three and let them ask which you'd rewatch tonight
-answerLow: name something safe and well-liked
-answerLeast: say you can never pick and turn the question around
-rorschachMost: a clenched fist set hard on a table
-rorschachHigh: a heavy stone dropped square in the middle
-rorschachMid: a lumpy potato with a sprout off the side
-rorschachLow: a fat candle slumping soft as it burns down
-rorschachLeast: a head of cauliflower coming apart into florets
+facetLeast: The scout hut has found something funny in a word you used and it is going round the room in waves. You wait it out and get back to the knots.
+question: A friend rings to say they failed the driving test, third time. You...
+answerMost: send the joke straight back before you say anything else
+answerHigh: find something funny in the examiner and give them that
+answerMid: say the useful thing, then lighten it
+answerLow: say the useful thing and stop there
+answerLeast: take it entirely seriously for as long as they need
+rorschachMost: a face all wink
+rorschachHigh: one lid down
+rorschachMid: a pebble, one hole
+rorschachLow: two eyes level
+rorschachLeast: a face carved shut
 ---
 
 Scorched Adzuki Beans are the Bean Zodiac's most droll. The line lands so dry that half the table gets there a beat later, and the funeral is exactly where they'll deploy it. Sometimes the joke arrives where nothing but a joke was wanted. Straight sincerity they can barely sit through.

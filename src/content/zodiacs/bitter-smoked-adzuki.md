@@ -1,5 +1,5 @@
 ---
-# COMPLETELY NEEDS UPDATING — excess: grandiose -> portentous, inverse: fatuous -> plainspoken
+# TODO: tidy facets, redo fortunes, redo rorschachs
 slug: bitter-smoked-adzuki
 lastUpdated: 
 bean: adzuki
@@ -17,32 +17,32 @@ antiTriple: spicy-fried-edamame
 antiBeans: [kidney, pinto]
 antiForm: roasted
 seasonalFortune: "A season of black garlic and charred citrus — the smoke says something understood only later."
-fortuneMost: You already know how this one ends. Say it out loud while there's still time.
-fortuneHigh: A stranger's going to tell you something, and you'll know the truth of it three words in.
-fortuneMid: You've got a read you'd put money on. Hand it over the first time it matters.
-fortuneLow: A flicker comes in ahead of the proof, and your hand twitches toward it. Let the rest catch up.
+fortuneMost: Knowing the shape of the whole meal, the python says nothing for a month.
+fortuneHigh: A stranger will tell you something and you'll know the truth of it three words in.
+fortuneMid: You have a read you'd put money on. Hand it over the first time it matters.
+fortuneLow: A flicker comes in ahead of the proof. Let the rest catch up.
 fortuneLeast: The thing you stood guard against all night drifted past in the dark and kept going.
 facetMostTitle: Beanpocalypse Now
-facetMost: Two cars hesitate at a four-way stop. You already know which one bolts, and you brake for it a full second before it moves.
+facetMost: Somebody at the observatory asks you what it is they are actually looking at up there, and there is a straightforward answer available. You tell them instead that the light set off before there was anybody here to see it, and you let the pause do the rest of the work.
 facetHighTitle: The Beanracle
-facetHigh: A horse you've never bet on is led to the gate. Something in its gait tells you everything, and you put the money down before the odds make sense.
+facetHigh: The forecast is settled, the skipper is going out regardless, and the harbour is emptying. You tell him what the swell will be doing by dark.
 facetMidTitle: Minority Beanport
-facetMid: Strangers are arguing one table over. You can hear how it ends, and you settle the bill early so you're gone before it does.
+facetMid: Two hours in the hide and nothing at all has come down to the water, so you say the one you are waiting on will show at dusk and go back to the flask.
 facetLowTitle: Straight Beans
-facetLow: A weather front you can smell coming is still hours off. You leave the windows open and the washing on the line anyway, sorting it out when the rain actually arrives.
+facetLow: The phone-in host wants to know what you reckon happens next. You say you do not know, in one sentence, and hand it back to him.
 facetLeastTitle: Just the Facts, Bean
-facetLeast: A coin spins on the counter and you watch it ride out its wobble, picking up the result when it lands instead of calling it midair.
-question: A friend asks if they should take the new job. Halfway through their pitch you already know the answer. You...
-answerMost: cut in and tell them, plainly, before they finish
-answerHigh: wait for the pause and say what you've been seeing for weeks
-answerMid: ask one question that points them at it without naming it
-answerLow: nod along and let them arrive there on their own
-answerLeast: tell them either way it'll probably work out
-rorschachMost: a heron turned to watch the far bank
-rorschachHigh: two hounds gone still, ears toward the door
-rorschachMid: two boulders leaning together on a hillside
-rorschachLow: a sleeping cat curled beside a loaf
-rorschachLeast: two drowsing toads with their eyes closed
+facetLeast: Asked how long the limp has been there, you give the vet the number of days and nothing else at all.
+question: A friend asks whether you think their new business will work, and you're fairly sure it won't. How does the answer come out?
+answerMost: as something larger than the situation, and it lands that way
+answerHigh: as a read you would put money on
+answerMid: as a guess, with the reasons attached
+answerLow: as a plain maybe
+answerLeast: you do not say — you wait and see with everyone else
+rorschachMost: thunderhead over a low field
+rorschachHigh: smoke off a tripod
+rorschachMid: a cloud and a hill
+rorschachLow: a thin trail left
+rorschachLeast: a clear noon sky
 ---
 
 Charcoal Adzuki Beans are the Bean Zodiac's most oracular. What they say about your situation is slightly too large for it, and eighteen months later it's the line you remember. The register can get heavy for a Tuesday. Plain advice, plainly given, isn't how they help.

@@ -1,5 +1,5 @@
 ---
-# COMPLETELY NEEDS UPDATING — excess: unremitting -> remorseless, inverse: intermittent -> relenting
+# TODO: tidy facets, redo fortunes, redo rorschachs
 slug: spicy-fried-black
 lastUpdated: 
 bean: black
@@ -17,32 +17,32 @@ antiTriple: umami-roasted-butter
 antiBeans: [mung, pinto]
 antiForm: fermented
 seasonalFortune: "A season of chipotle and unbroken heat: the pan does not tire before the cook does."
-fortuneMost: The road runs a mile past the plan and the clock tires before your legs do. This is your weather — keep walking.
+fortuneMost: Swimming to breathe is not the same as wanting to swim, says the mako.
 fortuneHigh: The seventh pass, the one nobody asked for, is usually the one that mattered.
-fortuneMid: There's one more pass in you. There's also a bed, and morning comes either way.
+fortuneMid: There is one more pass in you, and there is also a bed.
 fortuneLow: A win you didn't have to grind for is still a win.
-fortuneLeast: Let one small unfinished thing dissolve into the week.
+fortuneLeast: Let one small unfinished thing go entirely.
 facetMostTitle: No Beanremorse
-facetMost: A trail you've hiked all day forks at dusk — turn back, or push for a summit you can't quite see. Your legs vote for the climb.
+facetMost: Eight letters to the water company and not one reply worth the name, and the sum involved stopped being worth the postage a while ago. You send the ninth, and then the tenth, and when the compensation finally comes through you keep going about the apology.
 facetHighTitle: Beanrelentless
-facetHigh: A puzzle box defeats everyone at the party and they drift off to other rooms. You stay at the table, turning it over alone.
+facetHigh: The lad who rented your spare room has been dodging you about the deposit for two months. You are outside his work at five, and outside it again the next day.
 facetMidTitle: Never Stops, Bean
-facetMid: Halfway through scrubbing a stubborn pan, your arm is done but the stain isn't. Keep at it, or leave it to soak overnight?
+facetMid: Nobody has come back to you about the drainage. You ring again, and put a date in the diary to ring after that.
 facetLowTitle: Let Up, Bean
-facetLow: A game is going badly and a draw is on offer. You take it, shake hands, and walk out into the evening without replaying the board.
+facetLow: The claim has been running six months and the last letter asks for the same documents again. You decide it is not worth the rest of your year and drop it.
 facetLeastTitle: The Beanmercy Rule
-facetLeast: A jar in the cupboard is nearly out and a list is half-written. You shut the door on both and go meet your friends.
-question: It's late, the work is done well enough to send, and there's one more pass you could make. You...
-answerMost: do two more passes, then sleep at the desk
-answerHigh: make the pass — the "good enough" version was the lazy one
-answerMid: do a fast read-through and send
-answerLow: call it done and let the next one carry what this one missed
-answerLeast: closed the laptop an hour ago, mid-sentence
-rorschachMost: an ox lowering its horns to keep pushing
-rorschachHigh: a moth beating upward against a closed window
-rorschachMid: a hare sitting upright, ears raised high
-rorschachLow: a kite settling, wings folding toward the grass
-rorschachLeast: a bell come to rest after the last swing
+facetLeast: One no from the committee and the whole idea goes back in the drawer it came out of. You tell the others it was probably never going to work anyway, and you half believe it.
+question: The garage has had four hundred pounds of yours for two months and has stopped answering the phone. You...
+answerMost: keep after them long after it stops being about the money
+answerHigh: chase it steadily until somebody has to deal with you
+answerMid: give it one more push and see
+answerLow: write it off and put it behind you
+answerLeast: let it go after the first refusal
+rorschachMost: a bull, no turning it
+rorschachHigh: horns lowered and coming
+rorschachMid: two peaks and a body
+rorschachLow: a bull slowing up
+rorschachLeast: a beast turned to pasture
 ---
 
 Red-Hot Black Beans are the Bean Zodiac's most relentless. They send the eighth email, then the ninth, and the thing that was never going to happen happens. Sometimes the pressure keeps going after the answer arrived. Easing off to let somebody breathe is not an instinct.

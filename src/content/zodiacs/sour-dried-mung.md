@@ -1,5 +1,5 @@
 ---
-# COMPLETELY NEEDS UPDATING — trait: spare -> astringent, excess: barren -> harsh, inverse: lavish -> soothing
+# TODO: tidy facets, redo fortunes, redo rorschachs
 slug: sour-dried-mung
 lastUpdated: 
 bean: mung
@@ -17,32 +17,32 @@ antiTriple: spicy-roasted-adzuki
 antiBeans: [fava, chickpea]
 antiForm: fried
 seasonalFortune: "A season of amchur and black salt: the cure puckers before it comforts, and mostly puckers."
-fortuneMost: Cut one more thing and what's left will still hold.
+fortuneMost: Sharp all the way through, the lemon shark has never had to be liked.
 fortuneHigh: Shorter and sooner.
-fortuneMid: One line is the whole answer — the question closed, no softening stitched on.
+fortuneMid: One line is the whole answer - the question closed, no softening stitched on.
 fortuneLow: A good crowd is on its way, and a bare table reads cold rather than clean.
-fortuneLeast: The thanks the quiet keeps stealing is owed to you.
+fortuneLeast: Say the soft version and let it do its work.
 facetMostTitle: The Beanbrutalist
-facetMost: The community garden's tools turn up sharpened and oiled, and nobody knows it was you before dawn. You'd just as soon they never found out.
+facetMost: Forty minutes of a story about how unfair the year has been, and you wait for the pause and then ask her which of it she chose, and the silence that comes after that is a long one and you do not fill it.
 facetHighTitle: Witch Beanhazel
-facetHigh: Packing for a long trip, the bag could hold twice what's in it. You'd take only the few things that earn the weight and zip it shut.
+facetHigh: Somebody at the writing group has brought the same piece back a third time. The same problem is in it. You ask what the story is actually about.
 facetMidTitle: Sour Beans
-facetMid: Pull up, let them in, skip the fuss of how they ended up stranded — your friend at the roadside needs a lift and nothing more.
+facetMid: A swimmer is out of the water blaming the lane and the goggles and the temperature. You ask her about the turn at the far end.
 facetLowTitle: Bedside Beanner
-facetLow: A child's birthday and one well-chosen gift would do. This time you wrap a few extra and pile them on, more than feels strictly necessary.
+facetLow: A friend has had a rotten run of it and is going over the whole thing again on your sofa, and there is a question you could ask, and you put the kettle on instead.
 facetLeastTitle: Milk and Beans
-facetLeast: You've fixed the broken gate the whole street uses. When a neighbour wonders aloud who to thank, you stay put and say it was you.
-question: A friend is sick. You bring soup, leave it at the door, and they later thank a different friend for the gesture. You...
-answerMost: say nothing, the soup did its job
-answerHigh: smile, let it pass, note it once
-answerMid: mention it casually, weeks later
-answerLow: correct the record gently when it next comes up
-answerLeast: text them now, with a photo of the pot
-rorschachMost: two pebbles set apart on bare sand
-rorschachHigh: a peanut in its plain dry shell
-rorschachMid: a cottage loaf pinched at the middle
-rorschachLow: a snowman trimmed with scarf and buttons
-rorschachLeast: two baskets heaped and spilling over
+facetLeast: Somebody is telling you it was all bad luck and none of it her fault, and there are two places where that is plainly untrue. You agree with the lot. She goes home lighter.
+question: A friend's telling you a story where they're the wronged party and it doesn't quite add up. You...
+answerMost: ask the question that takes the story apart
+answerHigh: ask what their part in it was
+answerMid: ask one thing and see where it goes
+answerLow: let it stand and say it sounds hard
+answerLeast: agree it was all done to them
+rorschachMost: a mouth drawn right in
+rorschachHigh: a lemon squeezed dry
+rorschachMid: a purse pulled shut
+rorschachLow: a lemon still whole
+rorschachLeast: honey off a spoon
 ---
 
 Dehydrated Mung Beans are the Bean Zodiac's most astringent. They ask the one question that clears the self-pity out of the story, and afterwards you can see the actual problem. It stings on the day. Agreeing that it's all simply unfair is a comfort they withhold.

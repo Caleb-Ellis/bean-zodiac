@@ -1,5 +1,5 @@
 ---
-# COMPLETELY NEEDS UPDATING — excess: robotic -> unfeeling
+# TODO: tidy facets, redo fortunes, redo rorschachs
 slug: sour-boiled-edamame
 lastUpdated: 
 bean: edamame
@@ -17,32 +17,32 @@ antiTriple: bitter-roasted-mung
 antiBeans: [adzuki, kidney]
 antiForm: fried
 seasonalFortune: "A season of rice vinegar and clean reasoning: the brine follows from the salt, nothing else."
-fortuneMost: The conclusion fits in one sentence.
+fortuneMost: Every step of it holds, and the person in front of you does not.
 fortuneHigh: Two reasons is gilding.
-fortuneMid: Pull the load-bearing assumption when you feel it's wrong, and half the muddle loosens and goes with it.
-fortuneLow: A correct proof that doesn't land needs a story, not more math.
+fortuneMid: You will not be talked out of a thing by volume.
+fortuneLow: A termite mound is engineered by nobody, and it stands.
 fortuneLeast: Stop solving and sit with the people who can't solve it either.
 facetMostTitle: "2001: A Space Beanodyssey"
-facetMost: Back to the one false step at the start — that's where you go while everyone else is still circling and heated, and you name it before adding a word of your own.
+facetMost: Your sister is crying about the house and you have set out why selling is the only option — the interest, the repairs, the two of you both being three hundred miles away. Every number of it is right. She has left the room and you are still going.
 facetHighTitle: Mr. Beanock
-facetHigh: Two people insist they remember the same evening differently. Rather than pick a side, you ask the single question that would settle which of them is right.
+facetHigh: Four people want the same fortnight and every one of them has a reason. You rank them by who has had it least often and put the list up on the wall.
 facetMidTitle: Hidden Beans
-facetMid: A choice is dressed up in feelings and pressure and what-ifs. You start quietly pulling out the one assumption it's all balanced on, to see what stays standing.
+facetMid: Told the machine is due a payout because nobody has won on it all night, you point out gently that the machine has no memory of the night.
 facetLowTitle: Monty Python and the Holy Bean
-facetLow: A plan adds up perfectly and still something in your chest says no. You go with the feeling and let the spreadsheet lose for once.
+facetLow: The keys are in the same coat they are always in. You go back up and check twice before leaving.
 facetLeastTitle: I Am the Beanwalrus
-facetLeast: Woodsmoke on the air, and your feet leave the route to chase it. No reason, no plan to be anywhere by dark, the day handed over to wherever the nose leads.
-question: The whole string of fairy lights has died, and somewhere in three hundred bulbs is the one that took the rest down with it. You...
-answerMost: test the run section by section until you've cornered the dead bulb
-answerHigh: check the likeliest culprit first, the way the wiring suggests
-answerMid: swap a few obvious suspects and see if the run wakes up
-answerLow: jiggle the whole lot and hope it flickers back
-answerLeast: bin the string and buy a new one
-rorschachMost: a manta ray gliding a straight, deliberate line
-rorschachHigh: a horseshoe crab tracking from broad head to tail
-rorschachMid: a low hill seen from across the valley
-rorschachLow: a wave flattening out with no clear edge
-rorschachLeast: an oil slick spreading wherever the tide takes it
+facetLeast: You will not have the surgery on the thirteenth and you have asked them to move it. The consultant looks at you. You know exactly how this sounds, and you would still rather it was the fourteenth.
+question: A fruit machine hasn't paid out all night and your friend says it's due. You...
+answerMost: Explain why that isn't how probability works
+answerHigh: Point out the machine has no memory
+answerMid: Say it's the same odds every go
+answerLow: Have a go anyway, why not
+answerLeast: Agree it's due and put a fiver in
+rorschachMost: an iron plate, no seams
+rorschachHigh: a printed map
+rorschachMid: a flat country
+rorschachLow: a pressed leaf
+rorschachLeast: a puddle spreading
 ---
 
 Brined Edamame are the Bean Zodiac's most logical. They will show you why the plan fails at step four, and the plan does fail at step four. Some conversations get solved when they wanted witnessing. A thing that makes no sense and works anyway offends them.

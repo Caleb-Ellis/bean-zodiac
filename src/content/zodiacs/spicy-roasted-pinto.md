@@ -1,5 +1,5 @@
 ---
-# COMPLETELY NEEDS UPDATING — trait: unpredictable -> flamboyant, excess: haywire -> garish, inverse: predictable -> muted
+# TODO: tidy facets, redo fortunes, redo rorschachs
 slug: spicy-roasted-pinto
 lastUpdated: 
 bean: pinto
@@ -17,32 +17,32 @@ antiTriple: sweet-fried-kidney
 antiBeans: [edamame, cannellini]
 antiForm: smoked
 seasonalFortune: "A season of guajillo and loud colour — the tray dresses for an audience that arrives."
-fortuneMost: The long way round for no reason at all is the better pot.
-fortuneHigh: Whoever you actually are turns up, and you mean every version of it.
-fortuneMid: A friend asking which version of you they've got deserves the straight answer.
-fortuneLow: Someone's been quietly waiting for a baseline to count on. Show up the same way a few times running.
-fortuneLeast: The rotation you can cook without thinking is its own quiet comfort.
+fortuneMost: Every colour at once on the mandarin duck, and the hen beside it plain as a stone.
+fortuneHigh: Put on the loud one; the day can take it.
+fortuneMid: You were the brightest thing in the room and enjoyed it.
+fortuneLow: A quiet coat lets the face do the work.
+fortuneLeast: Wear grey and let somebody else be looked at.
 facetMostTitle: Glitter and Be Bean
-facetMost: Halfway to the airport for a trip booked months ago, a billboard for somewhere else catches your eye, and you're seriously weighing a swerve to the other gate.
+facetMost: You are in the coat and the story has sound effects. It is not your wedding. The bride's mother has stopped smiling.
 facetHighTitle: Beanpeacock
-facetHigh: Three days into a job you start each morning from a different desk, by a different door, just to see how the building feels from there.
+facetHigh: A bird of paradise is living in the bus shelter on the ring road and it has a name now. You bring people out on the bus to see it.
 facetMidTitle: Beanall That Jazz
-facetMid: A dull stretch sets in, so you flip the furniture around and walk to work the wrong way — small turns, and the week wakes back up.
+facetMid: The pub quiz has a round where the answers have to be acted out, and you take the answer sheet off whoever is holding it and do the whole round yourself.
 facetLowTitle: Beanquiet Please
-facetLow: A friend's been counting on you for the same standing thing. Show up for it unchanged a few weeks running, dull as that feels, because the sameness is the gift.
+facetLow: It is a middling occasion in the middle of the week and there is a coat hanging up that would lift the whole thing. You wear the grey one and have a perfectly nice time.
 facetLeastTitle: Beanshades of Grey
-facetLeast: Same chair, same order, same walk back — and given the chance to shake any of it up, you'd keep every piece exactly where it's worn its groove.
-question: You're three days into a road trip with a route you mapped out, and the morning you wake wanting none of it. You...
-answerMost: tear up the route and point the car at a coast you've never seen
-answerHigh: skip today's stops and chase a town off the map instead
-answerMid: keep the destination but take the back roads to it
-answerLow: stick to the plan, you'll feel it once you're driving
-answerLeast: follow the itinerary exactly, same stops, same diners
-rorschachMost: a puppet dropped with its limbs flung out
-rorschachHigh: a startled cat twisting away mid-leap
-rorschachMid: a scarecrow leaning crooked off its post
-rorschachLow: a coat hung neatly on a still rack
-rorschachLeast: a figure standing squarely at attention
+facetLeast: A room full of people could be walked into and changed and there is a very good reason to do it. You go in quietly. You sit where you will not be seen, leave before the speeches, and not one of them will remember you came.
+question: You're going somewhere there'll be people you don't know. You...
+answerMost: arrive in the coat, and the story starts at the door
+answerHigh: make sure they'd know you'd been there
+answerMid: wear the good thing and see how it goes
+answerLow: keep it low and talk to two people
+answerLeast: go in quietly and leave before the speeches
+rorschachMost: a headdress over a head
+rorschachHigh: a chandelier fully lit
+rorschachMid: a crown and its loops
+rorschachLow: an ornament taken down
+rorschachLeast: a bare hook in plaster
 ---
 
 Peri-Peri Pinto Beans are the Bean Zodiac's most flamboyant. They arrive in the coat, tell the story with sound effects, and the wedding photographs are better for their being there. Occasionally it is too much for a Tuesday. Being deliberately unnoticeable isn't a costume they own.

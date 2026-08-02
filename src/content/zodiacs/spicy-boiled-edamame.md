@@ -1,5 +1,5 @@
 ---
-# COMPLETELY NEEDS UPDATING — trait: hardworking -> industrious, excess: burned-out -> workaholic, inverse: indolent -> idle
+# TODO: tidy facets, redo fortunes, redo rorschachs
 slug: spicy-boiled-edamame
 lastUpdated: 
 bean: edamame
@@ -17,32 +17,32 @@ antiTriple: sour-smoked-pinto
 antiBeans: [butter, fava]
 antiForm: fermented
 seasonalFortune: "A season of doubanjiang and steady labour: the broth never stops, and neither does the kitchen."
-fortuneMost: Knock the worst thing off the list before the coffee's even cool.
-fortuneHigh: Effort you've been pouring out quietly is about to be seen by the right person.
+fortuneMost: There is always another job, and the season you were saving it all for goes by.
+fortuneHigh: The work you do before anyone is up is the work that holds the day.
 fortuneMid: Give the task a hard edge to stop at.
-fortuneLow: The answer you're grinding for is through a different door entirely.
+fortuneLow: Even a beaver spends half the year asleep in what it built.
 fortuneLeast: Cancel the thing you'd only attend out of grim duty.
 facetMostTitle: Glengarry Glen Bean
-facetMost: Firewood gathered, water fetched, breakfast on the coals — and the others are only just yawning out of their tents.
+facetMost: The crop is in, the machine is cleaned, and nothing at all has to be done until spring. You start on the drainage instead. Somebody comes out to point out that it is dark and that you ate at eleven, and you tell them another hour.
 facetHighTitle: The Ant and the Beanhopper
-facetHigh: The volunteer crew breaks for lunch with half the fence still up. You eat standing, hammer in hand, and keep posting rails.
+facetHigh: Shop shuts at six and the accounts are two months behind, so you are in the back room with the books while the light is still on over the door.
 facetMidTitle: Whistle While You Bean
-facetMid: The garden bed only needs the last row planted. Chip at it across the afternoon and don't down tools until the soil's patted flat.
+facetMid: Given a free morning to yourself, you get the guttering done and the shed cleared out before anybody else in the house is properly up and about for the day.
 facetLowTitle: Beanidle Hands
-facetLow: Half the laundry's still on the line and rain's nowhere near. Why not leave it and stretch out in the hammock instead?
+facetLow: There is a list on the side and none of it is urgent. You look at the list and put the kettle on.
 facetLeastTitle: The Lazy Beansong
-facetLeast: There's a free morning and a dozen chores with your name on them. You stay under the covers and let every one of them keep.
-question: First day of the holiday, a lounger by the pool, sun out, the whole week ahead with nothing required of you. You...
-answerMost: get up and map the itinerary so not an hour of it goes to waste
-answerHigh: knock out the one small thing you brought to "just finish," then settle
-answerMid: read for a while, then go find something to organise
-answerLow: do nothing on purpose and let the afternoon melt
-answerLeast: doze in the sun and feel not a flicker of guilt
-rorschachMost: a boulder split in two with chips flying
-rorschachHigh: two quarry faces worked back from a seam
-rorschachMid: two boulders flanking a narrow gorge
-rorschachLow: two low hills drowsing under scattered clouds
-rorschachLeast: two islands adrift in a calm channel
+facetLeast: The whole day is yours, the weather is good, and there is plenty that needs doing. You get in the hammock at eleven and you are still in it when they get back, with no intention of moving.
+question: A whole free day, and there's a list of jobs on the side. You...
+answerMost: Do the list, then find more jobs
+answerHigh: Work through most of it
+answerMid: Do the two that matter
+answerLow: Do one and call it a win
+answerLeast: Leave the list exactly where it is
+rorschachMost: two anthills, both working
+rorschachHigh: two hives side by side
+rorschachMid: two brambles, a path between
+rorschachLow: two chairs, one pulled out
+rorschachLeast: two haystacks, both settling
 ---
 
 Braised Edamame are the Bean Zodiac's most industrious. The list gets done, then the next list, and the shed everyone talked about for years is built by August. The work fills whatever space it is given. A free Sunday with nothing in it makes them anxious.

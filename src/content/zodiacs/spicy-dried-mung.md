@@ -1,5 +1,5 @@
 ---
-# COMPLETELY NEEDS UPDATING — excess: fiery -> overpowering
+# TODO: tidy facets, redo fortunes, redo rorschachs
 slug: spicy-dried-mung
 lastUpdated: 
 bean: mung
@@ -17,32 +17,32 @@ antiTriple: sour-fried-fava
 antiBeans: [edamame, pinto]
 antiForm: roasted
 seasonalFortune: "A season of curry leaf and small sharp heat: the dal pricks rather than burns."
-fortuneMost: Bring the soup first, then the question they've been dodging.
-fortuneHigh: Say the hard thing warm-edged and in person — both halves kept, the part that's kind and the part they'll still be turning over come morning.
-fortuneMid: Comfort before the question.
-fortuneLow: Round the corners and serve it with bread.
-fortuneLeast: Settle the small thing quietly and never name the balance.
+fortuneMost: All that sauce, and nobody can taste the crab underneath it.
+fortuneHigh: Put the sharp thing in; the dish is flat without it.
+fortuneMid: One small bite of heat and the whole plate woke up.
+fortuneLow: Not everything wants a note of sharpness in it.
+fortuneLeast: Serve it plain and let them add their own.
 facetMostTitle: Beanoverkill
-facetMost: For a year a friend has been making the same mistake and nobody's said so. A plate first, then the question they've dodged — kindness and cut arriving in one breath.
+facetMost: The toast is meant to be warm and you have three lines in it about him that are absolutely true, and his mother has put her glass down at the third one.
 facetHighTitle: Hot Beanstuff
-facetHigh: A coworker shows you work that's gone wrong in a way they can't see. Praise what holds, then name the flaw — warm enough to keep, sharp enough they'll be turning it over by morning.
+facetHigh: A boy's report has to say that he is coasting. You have found a way of saying it that he will laugh at. He will think about it again on the way home.
 facetMidTitle: Spice Up Your Bean
-facetMid: Someone you love is venting about a knot that's partly theirs to own. You hear it all the way out, agree it's hard, and at the very end slip in one gentle question.
+facetMid: There is a birthday card to write and the printed message inside it is soft. You put one line underneath about the tent, and the tent is not a story she comes out of at all well.
 facetLowTitle: Weak Beansauce
-facetLow: A grieving friend circles a choice you can see straight through. The harder words stay behind your teeth; you just keep their cup full.
+facetLow: Somebody has asked what you thought of the meal and it was a real effort and one of the dishes did not work at all, and there is a kitchen full of washing up behind her, and you tell her the lamb was very good indeed.
 facetLeastTitle: Beanwonder Bread
-facetLeast: A neighbour spills a worry with the fix sitting right there in plain view. Nod, pour them another, and the fix goes unsaid the whole hour.
-question: A market seller is talking up bruised fruit to an old man who can't see it well, and you're next in the queue. You...
-answerMost: catch the old man's eye and say plainly which crate is the good one
-answerHigh: lean in and ask the seller, lightly, what's wrong with that lot today
-answerMid: wait your turn and quietly steer the old man to the better fruit after
-answerLow: frown at the crate but say nothing, and pick your own carefully
-answerLeast: keep your eyes on your list and let the sale go through
-rorschachMost: a spiky seedpod nestled against a soft loaf
-rorschachHigh: a burr caught in a sleeping dog's fur
-rorschachMid: a small splatter beside an open-mouthed cloud
-rorschachLow: a puff of wool beside a rising bun
-rorschachLeast: a dandelion clock beside a pillow
+facetLeast: A review has been asked of you. What goes in is that it was enjoyable. Nobody who reads it will know whether to go.
+question: You're writing something kind about somebody. You...
+answerMost: put the sharp true thing in and let it sit
+answerHigh: keep an edge in it so it doesn't go sweet
+answerMid: one warm line and one honest one
+answerLow: keep it warm and leave the edge out
+answerLeast: keep it so smooth it could be about anyone
+rorschachMost: a chilli, seeds and all
+rorschachHigh: a chilli split lengthways
+rorschachMid: a long dried pod
+rorschachLow: a pepper, heat gone
+rorschachLeast: a thin broth
 ---
 
 Sichuan Mung Beans are the Bean Zodiac's most piquant. There is a sharpness in the kindness that keeps it from ever being cloying, and people come back for it. Sometimes the sharpness takes over the dish. Being merely nice, plainly, is a thing they can't do.

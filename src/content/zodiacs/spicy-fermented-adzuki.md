@@ -1,5 +1,5 @@
 ---
-# COMPLETELY NEEDS UPDATING — trait: provocative -> rhapsodic, excess: inflammatory -> delirious, inverse: innocuous -> matter-of-fact
+# TODO: tidy facets, redo fortunes, redo rorschachs
 slug: spicy-fermented-adzuki
 lastUpdated: 
 bean: adzuki
@@ -17,32 +17,32 @@ antiTriple: bitter-dried-cannellini
 antiBeans: [navy, edamame]
 antiForm: boiled
 seasonalFortune: "A season of kimchi brine and rising song — the crock celebrates something only it can hear."
-fortuneMost: The crooked thing you've been fermenting in the dark is ready.
-fortuneHigh: The gentler version flinches; the true one stings going down.
-fortuneMid: Bring the sour on purpose. The dish needs it, and so does the company.
-fortuneLow: Some coals finish the stew untended. Step back.
-fortuneLeast: Take the heat out and hand back something milder.
+fortuneMost: Every phrase sung three times, and the wood has heard the thrush's whole set.
+fortuneHigh: Go on about the thing at length; somebody wants to hear it.
+fortuneMid: You lit up over something small and it caught.
+fortuneLow: Not everything wonderful needs saying out loud twice.
+fortuneLeast: Say it was fine, and mean fine.
 facetMostTitle: Beandelirious
-facetMost: Everyone at the long table is nodding the same nod, agreeable and half-asleep. Say the thing that stops the nodding.
+facetMost: The trapeze act finishes and the whole tent comes to its feet around you, and it is a good minute before anybody sits back down. You are still describing it to the family in the row in front when the next act is halfway through its routine.
 facetHighTitle: Bohemian Beanrhapsody
-facetHigh: One question would pull apart the truce two friends reached just to be done with it — and you've already half-asked it before deciding whether to.
+facetHigh: At the big tank a ray goes over the glass above your head, and you crouch down among the children and give them the whole of it, out loud, until the group has moved on without you.
 facetMidTitle: Beanrapture
-facetMid: There's an obvious flaw in the plan and a polite silence around it. Name it out loud while the silence still holds.
+facetMid: The cable car clears the ridge and the whole valley opens up underneath. You say something about it to the stranger beside you rather than let it pass in silence.
 facetLowTitle: The Beanplain Truth
-facetLow: A stranger on the bus is wrong about something out loud, and a few people glance your way. You let them be wrong and watch the road.
+facetLow: The choir finishes. The chapel is completely still. You sit in it, and say nothing about it on the way out.
 facetLeastTitle: Beansame Old, Same Old
-facetLeast: Both sides bristling, a heated argument is handed to you to settle. Smooth it into the version where everyone keeps their dignity, even the one who was wrong.
-question: Last call at a hotel bar, just you and someone whose ring you both noticed an hour ago. The air's gone quiet and obvious. You...
-answerMost: name what's been hanging there and ask if they want to ignore it or not
-answerHigh: hold the look a beat too long and let the question sit in it
-answerMid: make one ambiguous joke and see which way they take it
-answerLow: settle the tab and keep it firmly to small talk
-answerLeast: mention your morning meeting and say goodnight before it can start
-rorschachMost: a vase thrown against a wall
-rorschachHigh: a snake emerging from grass
-rorschachMid: a squid drifting with two trailing arms
-rorschachLow: two cats curled next to one another
-rorschachLeast: a butterfly resting gently
+facetLeast: Somebody asks how the concert was and you tell them it was good, they played the album, home by eleven.
+question: You come out of a concert where the last piece properly got you, and your friend asks in the car park how it was. You...
+answerMost: describe it for twenty minutes and do the best part twice
+answerHigh: find the words for it and give them properly
+answerMid: say it was extraordinary, and mean it
+answerLow: say you enjoyed it
+answerLeast: say it was good, and ask about their evening
+rorschachMost: a rocket burst too wide
+rorschachHigh: sparks off a wheel
+rorschachMid: a rock and scattered grit
+rorschachLow: a firework not lit
+rorschachLeast: a ruler on a table
 ---
 
 Kimchi Adzuki Beans are the Bean Zodiac's most rhapsodic. Ask about the album and you get eleven minutes, standing up, with the good part played twice. Occasionally the room is left behind entirely. Reporting that something was nice and leaving it there they cannot do.

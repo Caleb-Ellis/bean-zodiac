@@ -1,5 +1,5 @@
 ---
-# COMPLETELY NEEDS UPDATING — excess: showboating -> exhausting
+# TODO: tidy facets, redo fortunes, redo rorschachs
 slug: sweet-roasted-chickpea
 lastUpdated: 
 bean: chickpea
@@ -16,33 +16,33 @@ friendlyForm: fried
 antiTriple: bitter-dried-navy
 antiBeans: [cannellini, kidney]
 antiForm: fermented
-seasonalFortune: "A season of honey-cinnamon and good noise — the tray is the best part of Tuesday."
-fortuneMost: The ridiculous plan, the wrong hour, the wrong song.
-fortuneHigh: There's a guest stuck by the wall nobody's cracked open.
-fortuneMid: Walk into a quiet place and leave it a half-tone louder than you found it.
-fortuneLow: A friend asks how you really are — skip the punchline that's already loaded and try the second sentence.
+seasonalFortune: "A season of honey-cinnamon and good noise — the tray is the best part of the day."
+fortuneMost: Six days of good ideas, and everyone is asleep by nine.
+fortuneHigh: The room lifts about a minute after you get there.
+fortuneMid: Give a sea otter a stone and it will wear the stone smooth.
+fortuneLow: Nobody needs the quiet night made better.
 fortuneLeast: Mute the loud threads, call the one voice you actually wanted to hear.
 facetMostTitle: Party Beanmonster
-facetMost: The bus breaks down on a country road and everyone groans into their phones. By the time it's fixed you've got half of them learning a clapping game.
+facetMost: Day six of the holiday and you have had them up a mountain, down a cave, on a boat and round a distillery. There is a plan for tonight as well. Two of them have started pretending to be asleep when you come in.
 facetHighTitle: Beanfun House
-facetHigh: A wedding where the dance floor sits empty and nobody wants to be first. You grab the shyest cousin by both hands and pull them out under the lights.
+facetHigh: Half an hour into the barn dance and you have got the ones who swore they would not be dancing, dancing. One of them has stopped pretending not to enjoy it.
 facetMidTitle: Good Beantimes
-facetMid: A grey waiting room, everyone staring at the floor. You ask the old man beside you about his hat and the whole row tilts in.
+facetMid: Given a wet walk and a group that has gone quiet on you, you get a song going by about the second stile.
 facetLowTitle: Rainy Days and Beanmondays
-facetLow: A festival pounding on the far side of the field. You spread a blanket at the quiet edge and watch the lights from there.
+facetLow: The games night has a whole box of things in it and everybody is deciding which one to play. You say that you will watch this round, and you watch.
 facetLeastTitle: No Beanfun
-facetLeast: Three parties in one night, all of them yours to join. You skip every one and walk the long way home alone.
-question: Rain sets in for the day at the campsite and everyone's slumped under the tarp, gone glum. You...
-answerMost: invent a soggy tournament of daft games and have the whole site roaring by noon
-answerHigh: rope the nearest few into something silly and let it spread down the row
-answerMid: brew up a round of tea and trade stories under the dripping canvas
-answerLow: tuck into your sleeping bag with a book and wait the rain out
-answerLeast: lie there watching the canvas drip and let the glum day go to waste
-rorschachMost: a beetle scrambling sideways off a tipped cup
-rorschachHigh: a spider mid-skitter across a wall
-rorschachMid: a crab with legs splayed on sand
-rorschachLow: a beetle flipped on its back, legs still
-rorschachLeast: a dead spider curled in a dusty corner
+facetLeast: A whole free day, nothing in it that has to be done, and you do the same four things you did last time and go up to bed early.
+question: You're in charge of a rainy afternoon with four bored children. You...
+answerMost: Run four activities and a tournament
+answerHigh: Get something going they'll remember
+answerMid: Find one thing everybody's happy with
+answerLow: Put a film on
+answerLeast: Tell them to find something to do
+rorschachMost: a party popper, streamers everywhere
+rorschachHigh: a tangle of ribbons
+rorschachMid: a knot of wire
+rorschachLow: a wound ball of string
+rorschachLeast: a bare twig
 ---
 
 Glazed Chickpeas are the Bean Zodiac's most fun. Whatever the plan was, it is better because they came, and the photographs prove it. Sometimes it runs four days and everyone else needs a week off. A dull quiet evening they'll do almost anything to avoid.

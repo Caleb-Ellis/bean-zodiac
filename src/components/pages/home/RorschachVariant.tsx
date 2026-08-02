@@ -32,22 +32,12 @@ export default function RorschachVariant({
 
   return (
     <>
-      <p
-        className={`text-zinc-200 text-center text-regular ${landed ? "animate-fade-up" : "opacity-0"}`}
-        style={
-          landed
-            ? { animationDelay: "150ms", animationDuration: "500ms" }
-            : undefined
-        }
-      >
-        What do you see?
-      </p>
       <div
         aria-hidden
         className={landed ? "animate-fade-up" : "opacity-0"}
         style={
           landed
-            ? { animationDelay: "300ms", animationDuration: "500ms" }
+            ? { animationDelay: "150ms", animationDuration: "500ms" }
             : undefined
         }
       >
@@ -66,6 +56,16 @@ export default function RorschachVariant({
           }}
         />
       </div>
+      <p
+        className={`text-zinc-200 text-center text-regular ${landed ? "animate-fade-up" : "opacity-0"}`}
+        style={
+          landed
+            ? { animationDelay: "300ms", animationDuration: "500ms" }
+            : undefined
+        }
+      >
+        What resonates most?
+      </p>
       <div
         className={`flex flex-col items-stretch gap-1.5 w-full ${landed ? "animate-fade-up" : "opacity-0"}`}
         style={

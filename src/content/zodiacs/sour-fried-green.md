@@ -1,5 +1,5 @@
 ---
-# CHANGED SINCE THIS CONTENT WAS WRITTEN — excess: headlong -> hotheaded, inverse: premeditative -> deliberative
+# TODO: tidy facets, redo rorschachs
 slug: sour-fried-green
 lastUpdated: 
 bean: green
@@ -23,26 +23,26 @@ fortuneMid: The choice your hand makes first is often the right one.
 fortuneLow: A night's wait shows what the rush would have hidden.
 fortuneLeast: The fully-planned road is safe, and quieter than you'd like.
 facetMostTitle: The Beanhulk
-facetMost: A flight's on sale for one more hour and you've always wanted to visit the country. You book it before you've checked whether you can get the days off.
+facetMost: He said the thing about your marriage and your chair has gone over backwards. You are across the table. Four people have hold of you, the pub has gone quiet, and you could not tell anybody what you intended to do.
 facetHighTitle: Leap Before You Bean
-facetHigh: Late at a party, someone suggests everyone go swim in the pool. It's cold, and no one brought their swimmer's, but you're already itching to jump in.
+facetHigh: A house comes up at eleven in the morning and by two you have seen it and offered on it. Nobody has been consulted. The person you live with finds out from the agent.
 facetMidTitle: Spur of the Beanoment
-facetMid: Walking home past the ice cream shop, you turn in without quite deciding to, even though you've just eaten.
+facetMid: Somebody at the next table has said something about the child and you are already standing, and you have not worked out what you are going to say, and you are going to say it anyway, and the whole room can see you coming.
 facetLowTitle: Thinking, Fast and Bean
-facetLow: A friend texts asking if you want drinks in half an hour. You have nothing planned but have already accepted the idea of a free evening. You tell them tomorrow's better.
+facetLow: An email has arrived and it is rude and you have a reply half written, and you leave it in drafts and go to bed.
 facetLeastTitle: Sleep on Bean
-facetLeast: The guitar's stood in the corner for two years — book bought, lessons bookmarked — and you're still settling on the perfect practice schedule before you'll play a note.
-question: Open-mic night at the bar, and the sign-up sheet lands on your table with a song already playing in your head. You...
-answerMost: put your name down to go on first, sight unseen
-answerHigh: write it down before you can second-guess it
-answerMid: add your name near the bottom to buy some time
-answerLow: wait and see how the crowd treats the first few singers
-answerLeast: pass the sheet along and settle in to watch
-rorschachMost: a splash of ink seeping everywhere
-rorschachHigh: a wet dog caught mid-shake
-rorschachMid: an island on a map with a ragged coastline
-rorschachLow: a group of sheep seen from above
-rorschachLeast: an old stump covered in mushrooms
+facetLeast: A choice is between two of them and you have four weeks. You make a list, and you speak to three people about it, decide in the last week, and you are still not certain.
+question: An email arrives that's plainly rude and you've a reply half written. You...
+answerMost: Send it, and a second one after
+answerHigh: Send it before I reread it
+answerMid: Trim the worst of it and send
+answerLow: Leave it in drafts overnight
+answerLeast: Still be redrafting a week later
+rorschachMost: a cannonball already fired
+rorschachHigh: a fist closed tight
+rorschachMid: a dark plum
+rorschachLow: a weight on a string
+rorschachLeast: a stone held, not thrown
 ---
 
 Agrodolce Green Beans are the Bean Zodiac's most impulsive. They buy the tickets on a Wednesday afternoon and the weekend becomes something everyone remembers. Some Wednesdays it's the argument that gets bought instead. A pros-and-cons list is a document they have never finished.

@@ -1,5 +1,5 @@
 ---
-# COMPLETELY NEEDS UPDATING — excess: jolting -> jarring, inverse: enervating -> soporific
+# TODO: tidy facets, redo fortunes, redo rorschachs
 slug: sour-dried-green
 lastUpdated: 
 bean: green
@@ -17,32 +17,32 @@ antiTriple: umami-boiled-butter
 antiBeans: [black, pinto]
 antiForm: fermented
 seasonalFortune: "A season of dill seed and cold vinegar; the pantry wakes the kitchen without being asked."
-fortuneMost: Open the window without asking.
-fortuneHigh: Give the correction plainly, no soft preamble cushioning the line.
-fortuneMid: Deliver the jolt.
+fortuneMost: Comfortable at forty below, the arctic fox expects the same of everybody.
+fortuneHigh: Give the correction plainly, no soft preamble.
+fortuneMid: Open the window without asking.
 fortuneLow: A friend is barely upright, and a window flung wide on the cold is just another gust.
 fortuneLeast: Let the muggy room stay muggy.
 facetMostTitle: Beansycho
-facetMost: The whole carriage is pretending not to notice the smoke smell. You stand up, say it out loud, and pull the cord.
+facetMost: You open the talk by telling four hundred people that most of what they came to hear is out of date, and you have eleven minutes of evidence for it. Nobody moves. Two of them will not speak to you afterwards and one offers you a job.
 facetHighTitle: Wake Up, Bean
-facetHigh: A hiking buddy keeps insisting the storm clouds will pass. No softening lead-in — you tell them flat that you're both turning back now.
+facetHigh: The swim is in water cold enough to take your breath and you go in every morning of the year, and you come out able to do anything at all.
 facetMidTitle: Good Morning, Beantnam
-facetMid: For an hour the dinner party has tiptoed around the one obvious thing. You set your glass down and just name it.
+facetMid: Somebody wants the news gently. You give it in a single sentence, and they tell you afterwards that it helped.
 facetLowTitle: Beanlullaby
-facetLow: Someone arrives at your door wrung out and shaking, barely holding together. The bracing truth can keep — you put the kettle on and let them be.
+facetLow: A room has gone comfortable and there is a thing that would wake it up, and you can feel the shape of it. You let the moment go and refill the glasses instead.
 facetLeastTitle: Sleepy Beanhollow
-facetLeast: Let the relative's same old story run its full meandering length — no nudge, no shortcut, even though everyone could finish it for them.
-question: Driving your kid home, they finally ask whether you think they should drop out of the course. You...
-answerMost: tell them straight before the next set of lights
-answerHigh: say the one thing they're avoiding and let it sit
-answerMid: ask the single question that decides it and wait
-answerLow: take it slowly, lay out both sides, mile after mile
-answerLeast: say it's their call and put the radio back on
-rorschachMost: a wave crashing down onto a rock
-rorschachHigh: a snowman with a melting cinched waist
-rorschachMid: an hourglass with sand mid-fall
-rorschachLow: two bread loaves rising in one tin
-rorschachLeast: two pillows piled by a warm hearth
+facetLeast: Your meeting has forty minutes left and you have the floor for all of them, and you take them through the appendices, one at a time, and two people at the back have stopped taking notes.
+question: A friend wants bad news broken gently, and you've got it. You...
+answerMost: Say it straight, at once
+answerHigh: Say it plainly, then stay with them
+answerMid: Soften the opening, not the news
+answerLow: Take a long run-up to it
+answerLeast: Talk round it until they guess
+rorschachMost: ice cracking right across
+rorschachHigh: a face slapped awake
+rorschachMid: a cracked pane
+rorschachLow: a window in soft light
+rorschachLeast: a pillow, one dent
 ---
 
 Dehydrated Green Beans are the Bean Zodiac's most bracing. Ten minutes with them and you're out of the chair doing the thing you'd been circling for weeks. The jolt sometimes arrives at someone who needed rest. Being gentle, low, easy company is not their register.

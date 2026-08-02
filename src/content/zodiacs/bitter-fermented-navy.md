@@ -1,5 +1,5 @@
 ---
-# CHANGED SINCE THIS CONTENT WAS WRITTEN — inverse: streetwise -> unread
+# TODO: tidy facets, redo rorschachs
 slug: bitter-fermented-navy
 lastUpdated: 
 bean: navy
@@ -23,26 +23,26 @@ fortuneMid: Read it before you need it.
 fortuneLow: Ask someone who's actually done it.
 fortuneLeast: Some things cannot be learned from a book.
 facetMostTitle: The Name of the Bean
-facetMost: A friend had their first baby a month ago and is wondering if you'd like to meet them. You feel like you have to read a book or two on newborns before you can go over.
+facetMost: Three benches in the bindery, and you have been at the back one since it opened, and there is a wedding you said you would go to with the invitation in your coat. You are still at the sewing frame at six.
 facetHighTitle: The Bean Thief
-facetHigh: Whenever you travel somewhere new you arrive partially knowing it already — the long history, a few phrases of the language, even the latest political scandals. For you, learning about a place is half the fun of going.
+facetHigh: Nobody in the shed can get the old mower going. There is a manual for it in the house. You go in and find the manual.
 facetMidTitle: Beanilda
-facetMid: While watching a movie an actor comes on you half recognise from something else. You just can't remember their name. By the end of the night you've looked them up online and internalised their entire life story.
+facetMid: A seed catalogue has come and there is an order to get in by the end of the week. You sit down with a pencil and go through the whole thing first.
 facetLowTitle: Beanhrenheit 451
-facetLow: Dropped somewhere unfamiliar with a dead phone, you don't panic. You pick a direction on a hunch and read the streets as you go, letting a wrong turn or two teach you the place.
+facetLow: There is a course on hedge-laying and you have read a good deal about hedge-laying, and you put your name down and turn up on the day with your hands empty.
 facetLeastTitle: Cliff's Beans
-facetLeast: You've found the exact sofa you've been after, half price and barely used, and the seller's friendly over messages. They just ask for a small deposit to hold it for you - they've been stuffed around with no-shows, and a few others are keen. You decline the offer.
-question: You decide to take up something new. How do you go about it?
-answerMost: read everything there is on it for weeks before you start
-answerHigh: get the one definitive beginner's book and work through it thoroughly
-answerMid: watch a couple of tutorials, then have a go
-answerLow: just start, and look things up when you get stuck
-answerLeast: dive in and learn by making a mess of the first few goes
-rorschachMost: old, dense cobwebs
-rorschachHigh: two crumpled sheets of paper
-rorschachMid: two tumbleweeds
-rorschachLow: a puddle that's been stepped in
-rorschachLeast: two creatures squabbling
+facetLeast: The man who taught himself the whole trade is explaining how he judges when the glue has gone off, and there is no book anywhere that says it that way. You listen, and you could not repeat a word of it tomorrow.
+question: How do you go about learning something new?
+answerMost: four books before you touch it
+answerHigh: one good book, and then you start
+answerMid: enough of it not to do it wrong
+answerLow: have a go, and look things up as you hit them
+answerLeast: get shown once, and never open a book
+rorschachMost: two books nobody has opened
+rorschachHigh: a shelf of shut volumes
+rorschachMid: two blocks side by side
+rorschachLow: a book left face-down
+rorschachLeast: a shelf of ornaments
 ---
 
 Cultured Navy Beans are the Bean Zodiac's most bookish. The right passage gets found and read aloud, and it does fit the situation exactly. Whole seasons pass indoors that way. Someone who hasn't finished a book since school baffles them more than they let on.

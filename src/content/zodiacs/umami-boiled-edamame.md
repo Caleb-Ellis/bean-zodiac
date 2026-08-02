@@ -1,5 +1,5 @@
 ---
-# COMPLETELY NEEDS UPDATING — excess: fanatical -> self-forgetting, inverse: uncommitted -> half-hearted
+# TODO: tidy facets, redo fortunes, redo rorschachs
 slug: umami-boiled-edamame
 lastUpdated: 
 bean: edamame
@@ -17,32 +17,32 @@ antiTriple: sweet-roasted-adzuki
 antiBeans: [chickpea, green]
 antiForm: smoked
 seasonalFortune: "A season of ohitashi and steady tending: the pod stays with the task all winter."
-fortuneMost: Same chair, same hour, a little longer than yesterday.
+fortuneMost: Staying this long has made leaving feel like the betrayal.
 fortuneHigh: A small habit held for years outweighs the grand plan you keep meaning to start.
 fortuneMid: Finish what's been waiting longest before starting anything new.
 fortuneLow: A vow made by someone you no longer are can be set down.
-fortuneLeast: End the commitment that's outlived itself.
+fortuneLeast: Even the retriever puts the thing down when the hand stops reaching.
 facetMostTitle: The Red Beanshoes
-facetMost: Sleet sideways, the trailhead empty, the marathon you've trained a year for still on. You lace up and head out into it because not running was never one of the options.
+facetMost: Four years looking after him and you could not now say what you like doing. Somebody asks what you do for yourself and the question does not really compute. You give an answer about his appointments, and you have not noticed that you did.
 facetHighTitle: Chariots of Beanfire
-facetHigh: Weeks back you shook on a thing, and the other side has plainly forgotten it ever happened. No one's left to hold you to it — and you'll deliver your half on the nose regardless.
+facetHigh: An experiment needs a reading every four hours and there is nobody else at all on it. Eleven nights you have slept in the building, and the readings are all there.
 facetMidTitle: Field of Beans
-facetMid: The instrument's been propped in the corner all month. You pick it up for the same twenty minutes you always do, scales first, before anything fun.
+facetMid: Given a part in the chorus with six lines in it, you learn the whole score anyway, and you are the one who knows where everybody else comes in.
 facetLowTitle: Half a Beanpence
-facetLow: There's a puzzle half-built on the table and a brighter new box just in from the post, and the unfinished one slides aside without a pang as you tip the new pieces out.
+facetLow: That boat has been half restored for two years now and you go down some weekends. Some weekends you do not.
 facetLeastTitle: The Half-Blood Beanprince
-facetLeast: A club you've belonged to forever has run out of whatever made it worth it. Hand back your key, miss the next meeting on purpose, and let the lighter week be yours.
-question: A standing Tuesday meet-up you've kept up for years has gone a bit thin — fewer people, lower energy. You...
-answerMost: keep showing up; the thing is the showing up
-answerHigh: stay with it, quietly try to bring it back to life
-answerMid: drop to every other week and see how it feels
-answerLow: stop going, but don't say anything in the chat
-answerLeast: write the message ending it cleanly and move your Tuesdays
-rorschachMost: an old stump rooted deep with two stubs
-rorschachHigh: a bear sat squarely on its haunches
-rorschachMid: a heavy sack set down on the floor
-rorschachLow: a snowman already starting to slump sideways
-rorschachLeast: a sandcastle caving in at the tide line
+facetLeast: You said you would help run the club and your name is on the letterhead. You have been to two meetings out of nine, you sent apologies for one of them, and somebody else has been doing your part all along.
+question: You agreed to be club treasurer for two hours a week and it's turning into ten. You...
+answerMost: Give it the ten and say nothing
+answerHigh: Do what's needed and find help
+answerMid: Do the job and renegotiate the hours
+answerLow: Do my two hours and let the rest slide
+answerLeast: Stop going and hope somebody notices
+rorschachMost: a bunker, two vents
+rorschachHigh: a bolted strongbox
+rorschachMid: a block, two nicks
+rorschachLow: a door on the latch
+rorschachLeast: a gate swinging free
 ---
 
 Dashi Edamame are the Bean Zodiac's most dedicated. Whatever they have committed to gets the good hours, for years, with no need for it to be noticed. Sometimes there is nothing of them left over. Doing something half-heartedly is not a mode they have.

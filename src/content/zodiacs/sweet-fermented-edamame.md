@@ -1,5 +1,5 @@
 ---
-# COMPLETELY NEEDS UPDATING — inverse: amateurish -> unrehearsed
+# TODO: tidy facets, redo fortunes, redo rorschachs
 slug: sweet-fermented-edamame
 lastUpdated: 
 bean: edamame
@@ -17,32 +17,32 @@ antiTriple: umami-fried-chickpea
 antiBeans: [adzuki, mung]
 antiForm: roasted
 seasonalFortune: "A season of mirin and brown sugar: the natto has done this ten thousand times."
-fortuneMost: A quiet thing nobody has noticed is nearly done reducing.
+fortuneMost: The old wolf runs the same line through the wood, and the wood learns it.
 fortuneHigh: Start the small daily thing in whatever shape the day's in.
 fortuneMid: When the habit turns boring, that's the omen you wanted.
 fortuneLow: Some things are finished the first time through.
-fortuneLeast: A day with no plan and no carry-over.
+fortuneLeast: The first telling has something in it the tenth never gets back.
 facetMostTitle: Parrot Beanfashion
-facetMost: The teacher hands you a scale to run a hundred times before the next lesson and most of the class groans. Something in you settles, glad of a thing you can simply do until it shines.
+facetMost: The set has been the same nine years and you could play it without being awake. Somebody requests something from outside it. You claim not to know that one, which is not quite true, and you play the set in the usual order.
 facetHighTitle: Practice Makes Beanperfect
-facetHigh: Stiff, grey light, and the loop you've worn into the hillside looks unappealing this once. Your shoes are already on and you're at the gate, same as the morning before.
+facetHigh: The drill has been run so many times that when the real call comes at two in the morning nobody says anything at all, and the boat is off the slip in four minutes.
 facetMidTitle: Dress Beanrehearsal
-facetMid: A flashier method gets pitched to you, all sparkle, while the plain one in your hands keeps quietly working. Stay with the dull thing that's already returning more than it takes.
+facetMid: Given the same lecture for the eleventh year running, you deliver the whole thing without notes, and it lands as well as ever.
 facetLowTitle: Winging Bean
-facetLow: A task lands that genuinely only wants doing once. Finish it in a single sitting and walk off without rigging it into a routine you'll tend forever.
+facetLow: The trick has three moves and you have got two of them properly. You do it at the party anyway, and it half works.
 facetLeastTitle: Whose Bean Is It Anyway?
-facetLeast: A wide-open stretch of hours, no list, no thread to pick up tomorrow. You let it run loose and reach dusk with nothing laid down for the next day.
-question: You want to get good at something — an instrument, a language, a craft. Standing at the start of it, the long road ahead, you...
-answerMost: set the same unglamorous hour aside every single day and trust the years to do the rest
-answerHigh: build a steady weekly rhythm and keep turning up whether it's flowing or not
-answerMid: practise hard in bursts when the mood's on you, lighter when it isn't
-answerLow: chase the quick wins and drop it the week it stops being fun
-answerLeast: expect to be good fast, and quit the moment it asks for repetition
-rorschachMost: a doorsill stone hollowed deep by passing feet
-rorschachHigh: two threshold slabs worn smooth and dished
-rorschachMid: two flat stones stacked one above another
-rorschachLow: a fresh-cut block set down, edges still sharp
-rorschachLeast: a slab still rough and squared from the quarry
+facetLeast: They ask the question everybody gets asked at interviews and you have not prepared a word of it. What comes out is unpolished, a bit long, and completely true, and you can see them sit up.
+question: How do you get ready for something that matters?
+answerMost: Rehearse until it's the same every time
+answerHigh: Practise properly, more than once
+answerMid: Run through it a couple of times
+answerLow: Think about it on the way there
+answerLeast: Work it out when I'm up there
+rorschachMost: two casts from one mould
+rorschachHigh: a stamp and its print
+rorschachMid: two stones, chips between
+rorschachLow: a cracked mould
+rorschachLeast: a splash nobody planned
 ---
 
 Funky Edamame are the Bean Zodiac's most practiced. The speech, the difficult call, the recipe — all done so many times that it looks like ease. Sometimes it runs on rails long after the situation changed. Improvising from nothing makes them uncomfortable.

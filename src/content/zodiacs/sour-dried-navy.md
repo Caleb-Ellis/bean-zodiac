@@ -1,5 +1,5 @@
 ---
-# COMPLETELY NEEDS UPDATING — trait: uncompromising -> unbending, excess: absolutist -> rigid, inverse: accommodating -> pliable
+# TODO: tidy facets, redo fortunes, redo rorschachs
 slug: sour-dried-navy
 lastUpdated: 
 bean: navy
@@ -17,32 +17,32 @@ antiTriple: bitter-fried-pinto
 antiBeans: [fava, green]
 antiForm: smoked
 seasonalFortune: "A season of dried apple and fixed rations — the store keeps its shape through every thaw."
-fortuneMost: Vinegar without apology.
-fortuneHigh: Over dinner someone will ask you to walk the position back.
-fortuneMid: The thing is all but finished and still owes one part.
-fortuneLow: One of your own rules was knapped for a season that's over now.
+fortuneMost: Charging whatever is in the way, including a train - the rhinoceros.
+fortuneHigh: Vinegar without apology.
+fortuneMid: Over dinner someone will ask you to walk the position back.
+fortuneLow: Bend on the small one and lose nothing at all.
 fortuneLeast: The line you'd hold here is one you never actually drew.
 facetMostTitle: The Iron Beancurtain
-facetMost: Stay at the desk until they honour exactly what was promised — the hotel gave your booked room away and is shrugging a worse one at you.
+facetMost: Ten past six, and a man is at the door of the tool library with a broken thing under his arm. He has come a long way. You have the key in your hand, and you tell him the hours are on the door, and you lock up.
 facetHighTitle: The Beanstand
-facetHigh: Everyone's already wading across to skip the long way round, calling for you to just come on. You'd take the bridge as planned, no hurry, no fold.
+facetHigh: There is a rule about deposits because of what happened last year, and it is your own brother asking. The deposit is taken.
 facetMidTitle: Bedrock Beans
-facetMid: One joint on the finished chair sits a hair loose. Nobody would ever feel it, so you unclamp the whole thing and set it true.
+facetMid: There is a ticket system at the counter and somebody has come in and started talking without one, and you ask him to go back and take a number.
 facetLowTitle: Bend Me, Shape Bean
-facetLow: The board game has a house rule you've defended for years, and the new player keeps breaking it. You wave it off and play their looser way.
+facetLow: A woman has missed the cut-off by a day and there is a reason behind it and you have heard a good deal worse. You put her on the list and say nothing to anybody about it.
 facetLeastTitle: The Beanshape of Water
-facetLeast: Downpour at the bus stop, someone soaked beside you eyeing your spare umbrella — no chance of ever getting it back. Hand it over without a second thought.
-question: A long-trusted friend breaks a small rule of yours — nothing dramatic, but one of the ones you don't bend on. You...
-answerMost: name it, the next time you see them, calmly
-answerHigh: hold the line in private, treat them a fraction cooler
-answerMid: note it, watch for a pattern
-answerLow: let it pass once, mention it if it happens again
-answerLeast: forget you had the rule, top up their wine
-rorschachMost: an anvil squared off and unmoved
-rorschachHigh: a flint knapped to a hard edge
-rorschachMid: a shield hung flat on a wall
-rorschachLow: a sandbag sagging under its own weight
-rorschachLeast: a beanbag slumped into the floor
+facetLeast: Everybody agreed the cleaning rota for the hall and three of them have now asked to swap out. Each has a reason. You say yes to all three, and what is left has your name against four of the six weeks.
+question: A friend asks you to bend a rule you've enforced on strangers. You...
+answerMost: hold the rule and explain why it exists
+answerHigh: hold it, and say you're sorry it's them
+answerMid: hold it, but help them another way
+answerLow: bend it once and say nothing
+answerLeast: bend it, and the rule is gone after that
+rorschachMost: an iron bar, no bend
+rorschachHigh: a set square, true
+rorschachMid: a straight edge
+rorschachLow: a rod warming slightly
+rorschachLeast: a willow wand
 ---
 
 Dehydrated Navy Beans are the Bean Zodiac's most unbending. The rule is the rule at eleven at night for a friend, exactly as it is for a stranger. Sometimes the friend needed it not to be. Making a quiet exception isn't something they know how to do.

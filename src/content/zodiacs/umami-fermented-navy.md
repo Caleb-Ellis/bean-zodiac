@@ -1,5 +1,5 @@
 ---
-# CHANGED SINCE THIS CONTENT WAS WRITTEN — trait: calculating -> deliberate, excess: machiavellian -> glacial, inverse: unmindful -> precipitous
+# TODO: tidy facets, redo rorschachs
 slug: umami-fermented-navy
 lastUpdated: 
 bean: navy
@@ -23,26 +23,26 @@ fortuneMid: Take the second-best option — the best assumed inputs you can't co
 fortuneLow: Round it up and move on.
 fortuneLeast: Luck rides with the unplanned.
 facetMostTitle: Slow Boat to Beanchina
-facetMost: You'd rather your cousin host family Christmas, not you. In the leading few months anytime meeting up with family, you rave about her cooking, talk up how spacious her place is, and how effortlessly she hosts.
+facetMost: A wall goes up a course a day and each has to go off before the next. It is the fourth year. Somebody says a firm would have had it up in three weeks.
 facetHighTitle: The Long Beangame
-facetHigh: First in line at the buffet, you've clocked which dishes will run out, which go cold and slimy, and which might steam its surroundings. Your plate is loaded in a specific order and in a specific orientation.
+facetHigh: The cheese is turned every day for eight months before you know anything. You turn it, and you do not cut one early to see.
 facetMidTitle: One Step at a Beantime
-facetMid: The concert might sell out but you also might not make it. You read the refund rules before you tap to buy.
+facetMid: There is a decision to be made about the roof and you have a week to make it in, and you spend four days of that getting three quotes, reading about the felt, and ringing a man who did his own.
 facetLowTitle: Free Bean
-facetLow: At the market you fill the bag with whatever looks good — figs, a bunch of dahlias, three kinds of cheese — and it's only at the till you think about the total.
+facetLow: Millimetres either way is all the measurement is out by and the cut is not a critical one, and there is a man waiting in the van outside for the piece to go in. You take the average and get on with it.
 facetLeastTitle: Jumping the Beangun
-facetLeast: You sign for the loudest dog at the shelter, and it's only on the drive home that you wonder whether your lease even allows one.
-question: You're putting some furniture of yours up for online auction, not crazy expensive but not cheap either. You...
-answerMost: seed a couple of bids from a friend's account to make it look hot
-answerHigh: time the close for Sunday night and set the reserve to your floor
-answerMid: set a fair reserve and let it run
-answerLow: pick a number that feels right and hope
-answerLeast: list it with no reserve and take whatever it gets
-rorschachMost: a spider closed tight over its prey
-rorschachHigh: a crab eating something from its claws
-rorschachMid: a mustachioed head
-rorschachLow: a steaming cup of cocoa
-rorschachLeast: a squawking parrot
+facetLeast: The house has been on four days and you saw it once, in the rain. You put the asking price in that afternoon. No survey is booked.
+question: How long does a decision take you?
+answerMost: longer than the window allows, and then you ask for more
+answerHigh: as long as the homework honestly takes
+answerMid: a few days, and then it's settled
+answerLow: until the first sensible option turns up
+answerLeast: about ten minutes
+rorschachMost: a glacier's snout, barely moving
+rorschachHigh: a boulder taking a century
+rorschachMid: a slow river's bend
+rorschachLow: a stone gathering pace
+rorschachLeast: a rockfall already down
 ---
 
 Miso Navy Beans are the Bean Zodiac's most deliberate. Every step is taken on purpose, in order, and the finished thing has no accidents in it. Sometimes it takes a year longer than anyone had. Moving suddenly on something isn't a gear they own.

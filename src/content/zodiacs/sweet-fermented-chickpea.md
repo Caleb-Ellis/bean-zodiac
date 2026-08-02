@@ -1,5 +1,5 @@
 ---
-# COMPLETELY NEEDS UPDATING — excess: overinvolved -> enmeshed, inverse: unfeeling -> cold-hearted
+# TODO: tidy facets, redo fortunes, redo rorschachs
 slug: sweet-fermented-chickpea
 lastUpdated: 
 bean: chickpea
@@ -17,32 +17,32 @@ antiTriple: sour-dried-edamame
 antiBeans: [cannellini, navy]
 antiForm: boiled
 seasonalFortune: "A season of amazake and cinnamon — the crock takes on whatever the kitchen was feeling."
-fortuneMost: Reach for the friend you keep thinking about.
+fortuneMost: The beluga hears the whole pod through the ice and cannot stop hearing it.
 fortuneHigh: The second cup, carried to the hands you somehow knew had needed it.
-fortuneMid: Ask it once and mean it — "how's it going, really" — then hold the silence open and let it fill.
+fortuneMid: You knew before she said it, which is not always a gift.
 fortuneLow: Not every feeling in the room is yours to hold.
 fortuneLeast: Go when you said, with a hug and no apology.
 facetMostTitle: Single White Beanfemale
-facetMost: A wedding full of laughing strangers, and one guest by the window has gone quiet in a way nobody else has caught. Your whole evening bends toward that window without your deciding it.
+facetMost: Her marriage has been coming apart for a year and you have taken every bit of it on board. You are not sleeping either now. Somebody points out that it is not your marriage, and you find you cannot really see the difference.
 facetHighTitle: Walk a Mile in My Beans
-facetHigh: The cashier's voice is doing the thing a voice does when the day's been long and unkind. You slow right down, ask the question that's actually a door, and mean it enough to wait for the answer.
+facetHigh: He was not picked for the team and has come to tell you so. You feel the whole of it in your own chest before the boy has got to the end of it.
 facetMidTitle: I Feel Bean
-facetMid: A dog you pass each morning is off today — tail low, eyes following you. The rest of the walk you're carrying it, wondering whose it is and whether anyone's noticed.
+facetMid: Asked how the neighbour is coping since the funeral, you already know the answer, because you have been round there twice.
 facetLowTitle: Cold Beanhearted
-facetLow: The grief in the room is real and large and it is not yours. Hand the weight back to the person it belongs to and let yourself walk out lighter than feels fair.
+facetLow: Somebody at the next desk has started crying and the whole room has gone careful about it. You get on with what you were doing and finish the page.
 facetLeastTitle: The Tin Bean
-facetLeast: A long-lost cousin pulls you in for the kind of hug that wants an apology you don't owe. You step back at your own moment, warm, and the debt goes unpaid.
-question: On a bright morning in the park, the person on the next bench is quietly crying and trying to hide it. You...
-answerMost: move over, say something gentle, and stay until they've steadied
-answerHigh: catch their eye, offer a tissue and a soft word, leave the door open
-answerMid: give a small kind look so they know they're not invisible
-answerLow: pretend you haven't seen, to spare them being seen
-answerLeast: turn back to the path and keep your own day to yourself
-rorschachMost: two birds nestled close beneath one wing
-rorschachHigh: a pair of cupped hands holding something warm
-rorschachMid: a plump loaf cooling on a board
-rorschachLow: an empty house
-rorschachLeast: a clamshell sealed shut against the tide
+facetLeast: A family in a place you will never go to, and it is a bad report on a long night of them. You watch the whole thing through and think about the tea.
+question: A colleague you don't know well starts crying at their desk. You...
+answerMost: Feel it for the rest of the week
+answerHigh: Go over and ask what's happened
+answerMid: Give them a minute, then check in
+answerLow: Leave them to it, politely
+answerLeast: Carry on with what I was doing
+rorschachMost: a soaked cloth, still dripping
+rorschachHigh: a rain cloud, streaks below
+rorschachMid: a mop head
+rorschachLow: a wrung-out towel
+rorschachLeast: a slab of ice
 ---
 
 Funky Chickpeas are the Bean Zodiac's most empathetic. They feel the other person's bad week in their own chest, which is why the advice fits so well. Sometimes they are so far inside it they can't get out. Staying unaffected isn't a defence they've built.

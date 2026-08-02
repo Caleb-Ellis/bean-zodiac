@@ -1,5 +1,5 @@
 ---
-# CHANGED SINCE THIS CONTENT WAS WRITTEN — trait: pragmatic -> settled, excess: utilitarian -> sedentary, inverse: fanciful -> unsettled
+# TODO: tidy facets, redo rorschachs
 slug: umami-fried-butter
 lastUpdated: 
 bean: butter
@@ -23,26 +23,26 @@ fortuneMid: Not everything brought to you is a problem.
 fortuneLow: The oil is hot and no one is hungry yet.
 fortuneLeast: Keep the thing that does nothing, if only because it pleases you.
 facetMostTitle: Wall-Bean
-facetMost: Your town has spent a year raising money to revitalise the main square, the argument being that it will "stimulate a sense of community". You'd prefer if the money were spent on maintaining the roads.
+facetMost: That chair by the fire has been yours so long that people apologise when they are sat in it. Four nights a week, twenty-six years. You have never once had a drink in the pub two streets over, and you could not tell anybody why.
 facetHighTitle: A Room with a Bean
-facetHigh: Two flats for the same price. One is beautiful, with a bay window you didn't realise you wanted, but it's an hour from work and needs some repair. The other is a bit plain, but new and warm and ten minutes from the office. You say yes to the plain one.
+facetHigh: You dug the pond eleven years ago and it has silted and weeded and filled with things you never put in.
 facetMidTitle: The Good Beanlife
-facetMid: No matter the occasion — birthday, Christmas, housewarming — most of the time you wish people would just gift you money.
+facetMid: Three weeks on the rock with the same two people and the same tins. You get a routine going by the second morning and it holds all three weeks.
 facetLowTitle: The Beanwanderer
-facetLow: Spring has finally sprung. It's still very chilly, but you opt to walk an hour home instead of catching the bus, just to see the buds in the new light.
+facetLow: The van is taxed, insured, and sitting on the drive with the beds made up. You have started getting the map out on the kitchen table in the evenings.
 facetLeastTitle: On the Beanroad
-facetLeast: The lemon tree will never fruit this far north. That's what everyone has told you anyway, but you still put it in the spot by the window, turned toward the light, hoping for it to flower.
-question: How do you wrap presents, generally?
-answerMost: in whatever container it came in
-answerHigh: by paying for someone to do it for me
-answerMid: in a reusable gift bag
-answerLow: just with wrapping paper
-answerLeast: with wrapping paper, a ribbon, maybe a sticker
-rorschachMost: two full sandbags
-rorschachHigh: a split log, both halves
-rorschachMid: two islands across a strait
-rorschachLow: two rams locking horns
-rorschachLeast: two dragons nose to nose
+facetLeast: The airport run was only to drop somebody off, and there is a whole board of places up there. Your card is out. You check what goes in the next two hours, and whether anybody would notice by evening.
+question: How long have you lived where you live?
+answerMost: Longer than anyone would believe
+answerHigh: Years, and I'm not going anywhere
+answerMid: A good while now
+answerLow: A couple of years — we'll see
+answerLeast: I couldn't tell you where I'll be next year
+rorschachMost: a hen glued down
+rorschachHigh: two hens settled in
+rorschachMid: two mounds and a path
+rorschachLow: a hen standing up
+rorschachLeast: a nest and no bird
 ---
 
 Tempura Butter Beans are the Bean Zodiac's most settled. They know where they live, what they like and who they're doing it with, and there's no restlessness underneath. Sometimes nothing has changed in eight years. Being restless enough to move is unlikely.

@@ -1,5 +1,5 @@
 ---
-# COMPLETELY NEEDS UPDATING — trait: stark -> unperturbed, excess: desolate -> unmoved, inverse: ornate -> rattled
+# TODO: tidy facets, redo fortunes, redo rorschachs
 slug: bitter-dried-butter
 lastUpdated: 
 bean: butter
@@ -17,32 +17,32 @@ antiTriple: spicy-fried-kidney
 antiBeans: [pinto, green]
 antiForm: roasted
 seasonalFortune: "A season of still cupboards and unbroken quiet. Nothing here needs the weather's permission to keep."
-fortuneMost: Set the hard news down flat, no garnish.
-fortuneHigh: Strip the softener off the sentence.
-fortuneMid: Next time someone asks how you really are, give the true sentence.
-fortuneLow: Fold a spoon of butter into the hard truth before you hand it over.
-fortuneLeast: Stir the butter back in.
+fortuneMost: Everyone around you went to pieces and you asked what time it started.
+fortuneHigh: Stay exactly as you are; the alarm in the room is not yours.
+fortuneMid: Panic in the room is information, not instruction.
+fortuneLow: Even the basking shark turns when the water changes.
+fortuneLeast: Something got through, and you let it show, and it helped.
 facetMostTitle: Stone Cold Bean
-facetMost: The haircut is wrong and the barber's mirror is right there. Asked if you like it, you say no, you don't.
+facetMost: At the cattle auction a woman is describing, at length and in tears, what the herd meant to her father. You wait until she has finished. Then you say what you think the beasts are worth, and what you would give for the two at the back.
 facetHighTitle: The Big Beanowski
-facetHigh: A child plants the seed and asks if it will grow. The soil's bad and the season's late, so straight it is — no promised flower to soften the odds.
+facetHigh: Sixty feet down, the lamp on your helmet goes out, and you stand still in the dark counting back the turns you came in by.
 facetMidTitle: Don't Worry, Be Beany
-facetMid: They want to know if the trip was worth it. It half was — and that's the word you reach for, half, no rounding up to be kind.
+facetMid: A nurse taking blood cannot find a vein and has had three goes at your arm. You keep the sleeve up and ask how her shift has been, and how much longer she is on.
 facetLowTitle: All Shook Bean
-facetLow: A nervous busker is packing up, asking how it went. It wasn't good, but you find the one bar that was and lead with that — softer than honest, and you know it.
+facetLow: The chairlift stops halfway up the ski slope and swings a little in the wind. Nothing is actually wrong, and you have still counted the towers back down to the bottom twice.
 facetLeastTitle: Women on the Verge of a Nervous Beandown
-facetLeast: A blank room, and you could leave it blank — but you hang the pictures, lay the rug, fill the shelf with the soft useless things, letting the place get warm in a way bareness never felt safe enough to allow.
-question: The nurse, pen ready, asks how many you really smoke in a day. The honest number is well past what she's expecting. You...
-answerMost: give the true count flat, no softening
-answerHigh: state the real number, skip the hedging
-answerMid: round it down a little but stay close
-answerLow: quote the tidy version that keeps things easy
-answerLeast: halve it and change the subject
-rorschachMost: a bare iron mace beside a stone
-rorschachHigh: a cog wheel and a blunt anvil
-rorschachMid: a boulder and a spiked seed pod
-rorschachLow: a sunburst clock wreathed in soft petals
-rorschachLeast: a pincushion stuck full of ribboned pins
+facetLeast: One point behind going into the last round of the quiz night. You read the same question four times, and the pen goes through the paper into the table.
+question: How do you take bad news?
+answerMost: Ask what happens next before I've felt anything about it
+answerHigh: Sit with it a minute, then get on
+answerMid: Go quiet and deal with it later
+answerLow: Need to tell somebody straight away
+answerLeast: Can't settle to anything for days
+rorschachMost: an anvil taking every blow
+rorschachHigh: an anvil, hammer bouncing
+rorschachMid: a block and one drip
+rorschachLow: the block shifting slightly
+rorschachLeast: a tin roof in hail
 ---
 
 Desiccated Butter Beans are the Bean Zodiac's most unperturbed. Flight cancelled, hotel gone, and they're reading the board for the next one while the queue comes apart. Nothing at all gets a rise — the people who love them have never once seen them thrown.

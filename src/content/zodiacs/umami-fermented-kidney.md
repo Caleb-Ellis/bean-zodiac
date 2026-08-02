@@ -1,5 +1,5 @@
 ---
-# CHANGED SINCE THIS CONTENT WAS WRITTEN — trait: conflicted -> rooted, excess: tortured -> stuck, inverse: wholehearted -> uprooted
+# TODO: tidy facets, redo rorschachs
 slug: umami-fermented-kidney
 lastUpdated: 
 bean: kidney
@@ -23,26 +23,26 @@ fortuneMid: Two things can be true at the same time.
 fortuneLow: Some things deserve a plain yes.
 fortuneLeast: Even the chimera picks one mouth to eat with.
 facetMostTitle: Stuck on Bean
-facetMost: You know for certain that your best friend is cheating on their partner. Telling the partner probably nukes the relationship, but not telling them makes you complicit. Months go by where you do neither, but it's the first thing on your mind most mornings.
+facetMost: The job is abroad and it is the work you always wanted and they have asked twice. You write back saying not now.
 facetHighTitle: A Bean Grows in Brooklyn
-facetHigh: You've been offered a dream job that's on the other side of the world, but your partner is not keen to move there at all. A day before the two-week deadline, and after much discussion, you're not even close to making a decision.
+facetHigh: Somebody new has moved into the end house and does not know which day the bins go, or why the drain floods. You are on the path telling her all of it.
 facetMidTitle: Home Is Where the Bean Is
-facetMid: Two friends have got things on the same night — one's first art opening, the other's leaving drinks. Both have asked outright if you're coming. You tell them both you'll try to make it.
-facetLowTitle: The Grapes of Beanwrath
-facetLow: You've always liked the idea of being in a band. A friend happens to be putting one together, rehearsals every week, an open invitation to perform three months from now. The sound is not your favourite, but when asked if you're in, you just flat out say yes.
+facetMid: There is a pub in the village going under and a meeting about the regulars buying it between them, and the share is more than you have spare. You put your name down for one.
+facetLowTitle: The Beans of Wrath
+facetLow: The farm has been in the family four generations and your brother wants to sell the top forty acres off to pay for the roof, and you allow that you can see the argument for it.
 facetLeastTitle: Beanxodus
-facetLeast: Two people you've been close to for years fall out for good. You back the one you're slightly closer to, and tell the other that that's where you've landed and why.
-question: There was a job you turned down to take the one you're in. It's two months later — how does the other job occupy your mind?
-answerMost: I still look it up now and then to see how they're doing, and if they're hiring
-answerHigh: it's the first thing I think about whenever this job goes badly
-answerMid: every now and then I wonder if it would've been good
-answerLow: it doesn't really, picking this job was the right call at the time
-answerLeast: I don't think about it at all
-rorschachMost: instruments of pain
-rorschachHigh: a swirling miasma
-rorschachMid: torn leaves
-rorschachLow: a ragged moth
-rorschachLeast: a lively commotion
+facetLeast: The house has been yours since you were seven and the offer is a good one and there is nothing at all keeping you. It goes through in five weeks. You take one box of photographs, let the auction people have the rest, and you do not drive past.
+question: You've been offered a much better job four hundred miles away and you'd have to leave the town you grew up in. You...
+answerMost: turn it down, and don't tell anyone it was offered
+answerHigh: turn it down, because this is where you're from
+answerMid: ask whether you could do it three days a week
+answerLow: take it, and keep the house here for a while
+answerLeast: take it, and be gone inside a month
+rorschachMost: roots gripping a stone
+rorschachHigh: a tree clawing a bank
+rorschachMid: a rock and its barnacles
+rorschachLow: a pot cracked by roots
+rorschachLeast: a stump pulled clear
 ---
 
 Miso Kidney Beans are the Bean Zodiac's most rooted. Same street, same people, and a knowledge of both that took thirty years to build. Sometimes the roots stop anything moving. Pulling up and starting somewhere new is barely conceivable to them.

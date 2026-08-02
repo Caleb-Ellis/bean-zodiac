@@ -1,5 +1,5 @@
 ---
-# COMPLETELY NEEDS UPDATING — trait: anxious -> fanciful, excess: panicked -> delusional, inverse: unflappable -> concrete
+# TODO: tidy facets, redo fortunes, redo rorschachs
 slug: sweet-fermented-pinto
 lastUpdated: 
 bean: pinto
@@ -17,32 +17,32 @@ antiTriple: umami-boiled-kidney
 antiBeans: [navy, edamame]
 antiForm: dried
 seasonalFortune: "A season of tepache and piloncillo — the glaze invents a fruit that never grew."
-fortuneMost: Walk in without the three rehearsed openings.
+fortuneMost: A creature nobody would have invented, and the seahorse must hold on to stay put.
 fortuneHigh: Send it and leave it sent.
 fortuneMid: Say the worst of the six scenarios out loud to someone who'll laugh.
 fortuneLow: Answer the small thing someone actually asked.
-fortuneLeast: No angle to work out, just a hand to shake and a question to ask. Cross the room to the new person.
+fortuneLeast: No angle to work out, just a hand to shake. Cross the room.
 facetMostTitle: Beanharvey
-facetMost: A doctor's call is booked for the afternoon and the day's already gone to running every branch of what they might say. By the time the phone rings you've answered it a dozen ways no one has actually asked.
+facetMost: The train has been stopped forty minutes and the guard has a backstory now and the woman opposite a double life. Nobody knows what the announcement said.
 facetHighTitle: Pure Beanimagination
-facetHigh: A goodbye you said hours ago comes back wrong-sounding in your memory. You replay the exact words on a loop, certain there was a warmer one you should have reached for.
+facetHigh: A tide has been leaving other people's belongings on that beach for years. You go down at low water. You work out who each thing belonged to, and you are never once short of an answer.
 facetMidTitle: Make Beanbelieve
-facetMid: One word shorter than usual, that's all the reply was — but the small drop registers like a dropped stitch, and the whole bus ride goes to reading the day back for what you might have done.
+facetMid: Your youngest asks where the moon goes and there is a straight answer to that available, and what you give her instead has a door in it and a man with a broom.
 facetLowTitle: Concrete Beanjungle
-facetLow: A test result, a delayed train, a creak in the dark — any of them could spiral. Let it go uninspected, sleep on it, and find in the morning that nothing split.
+facetLow: The form wants to know what happened and when, and there is a considerably better account of the whole business available to anybody who asks for it, and you put down what happened and when, in the boxes, in the order the form wants.
 facetLeastTitle: The Facts of Beanlife
-facetLeast: A stranger at the counter asks a simple question with no trap in it. The plain true answer is out of your mouth before any draft of it forms.
-question: You've just locked the front door for a week away and the car is at the end of the road. You...
-answerMost: walk back to check the stove, then the taps, then the stove again
-answerHigh: stand at the gate replaying it twice, wince, and make yourself get in
-answerMid: think it through once, decide it's fine, and pull away
-answerLow: figure you'd remember if anything were on and drive off
-answerLeast: forget the house exists before the motorway
-rorschachMost: a fist clenched white, sparks flying off its edge
-rorschachHigh: a knot of wire wound tight, loose ends snagging
-rorschachMid: a burr stuck full of bristles
-rorschachLow: a ball of yarn gone slack in a basket
-rorschachLeast: a cat curled round and asleep, fur settled smooth
+facetLeast: The gutter has come away and the bracket has gone. You get the ladder out and put a bracket on.
+question: The train's been stopped for forty minutes with no explanation. You...
+answerMost: everyone in the carriage has a backstory by now
+answerHigh: make something of it and the delay stops mattering
+answerMid: make a joke of it and get your book out
+answerLow: check the app and wait
+answerLeast: sit there, because it's a stopped train
+rorschachMost: turrets on a small hill
+rorschachHigh: a castle, no gate
+rorschachMid: spires above a wall
+rorschachLow: a roofline, plain tiles
+rorschachLeast: a shed, flat roof
 ---
 
 Funky Pinto Beans are the Bean Zodiac's most fanciful. They can turn a delayed train into a story with characters, and the delay stops mattering. Sometimes the story replaces the situation entirely. Dealing with a thing exactly as it is bores them badly.

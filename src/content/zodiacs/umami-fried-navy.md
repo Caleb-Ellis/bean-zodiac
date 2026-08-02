@@ -1,5 +1,5 @@
 ---
-# COMPLETELY NEEDS UPDATING — trait: arrogant -> authoritative, excess: insufferable -> autocratic, inverse: modest -> uncertain
+# TODO: tidy facets, redo fortunes, redo rorschachs
 slug: umami-fried-navy
 lastUpdated: 
 bean: navy
@@ -17,32 +17,32 @@ antiTriple: bitter-fermented-fava
 antiBeans: [butter, kidney]
 antiForm: smoked
 seasonalFortune: "A season of bacon dashi and settled matters — the croquette decides and the kitchen agrees."
-fortuneMost: The shell does the talking and the dashi underneath is taken on faith — and the faith is warranted.
+fortuneMost: When the condor drops in, everything already eating steps back from the carcass.
 fortuneHigh: Give the recommendation, drop the caveats.
 fortuneMid: Pick the place.
 fortuneLow: Defer to the newest face here.
 fortuneLeast: Hand the recipe over and take notes on their changes.
 facetMostTitle: The Beandictator
-facetMost: A pub argument over some half-remembered fact stalls, and you state your answer flat as fact, no "I think," because you already know you're right.
+facetMost: You have said what the fault is and a younger one has started to say she has seen this before on a different make. You finish the sentence for her and give the answer again in the same words.
 facetHighTitle: Air Force Bean
-facetHigh: A stranger asks if the trail ahead is passable and you say yes without a flicker — you've not walked it, but you'd bet on your read of the map.
+facetHigh: There are four opinions about the crack in the gable and everybody is talking at once and the owner has gone very quiet at the back of it, and you say what the crack is and what has to happen, and the room settles.
 facetMidTitle: The Last Beanword
-facetMid: The group's been dithering over where to eat for ages; you name a place and start walking, certain enough to make the choice for everyone.
+facetMid: Somebody wants to know whether the timber is sound and you have had your hands on it. You tell them yes, and nobody asks anybody else.
 facetLowTitle: The Beanuncertainty Principle
-facetLow: You'd usually steer the plan, but the new arrival is seeing what you stopped noticing years back — so you hand them the lead and follow it.
+facetLow: You are asked about the wiring. You know most of it and not all of it. You say the part you know and then say you would want a spark on the rest.
 facetLeastTitle: Who's the Beanboss?
-facetLeast: A craft you thought you'd mastered, a beginner does differently and better; you set your way aside and copy theirs outright.
-question: Your grown kid is chopping onions the wrong way, all wrong, the way you've never once done it in forty years at the stove. You...
-answerMost: take the knife and show them how it's properly done
-answerHigh: tell them your way and watch to see if they switch
-answerMid: mention how you'd do it, then let them carry on
-answerLow: watch a minute and admit their pile's coming along fine
-answerLeast: figure they learned a better trick somewhere and ask them to teach you
-rorschachMost: two crowns, one jeweled far higher than the other
-rorschachHigh: two peacocks, one fanning its tail wide
-rorschachMid: two boulders set apart in a field
-rorschachLow: two heads bowed toward each other
-rorschachLeast: two caps held low in waiting hands
+facetLeast: The job has stopped and everybody is looking at you and you have done this exact thing forty times, and you say it could be a few things. Somebody rings a man who tells them what you knew.
+question: You're asked a question in your own trade and you're ninety per cent sure. You...
+answerMost: give the answer flat, and close it down
+answerHigh: give the answer and stand behind it
+answerMid: give it, and say where the doubt is
+answerLow: say what you think and suggest a second look
+answerLeast: say it could be a few things
+rorschachMost: a seal of office, pressed
+rorschachHigh: a bench above the room
+rorschachMid: a broad plain table
+rorschachLow: a chair pushed in
+rorschachLeast: a seal on nothing
 ---
 
 Tempura Navy Beans are the Bean Zodiac's most authoritative. They give the answer and the room stops looking for a second opinion, because it is usually right. Sometimes the tone doesn't leave room for one. Saying they aren't sure is expensive for them.

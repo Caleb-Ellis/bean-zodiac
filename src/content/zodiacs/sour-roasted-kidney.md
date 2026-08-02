@@ -1,5 +1,5 @@
 ---
-# COMPLETELY NEEDS UPDATING — trait, excess and inverse unchanged
+# TODO: tidy facets, redo fortunes, redo rorschachs
 slug: sour-roasted-kidney
 lastUpdated:
 bean: kidney
@@ -17,32 +17,32 @@ antiTriple: spicy-smoked-edamame
 antiBeans: [fava, green]
 antiForm: dried
 seasonalFortune: "A season of pickled onion and even portions — the roast divides the table without argument."
-fortuneMost: The eye that evens the pan is the luck of your turn.
+fortuneMost: Wading the same shallows as everyone, the ibis takes exactly its share.
 fortuneHigh: Someone offers to split the difference.
 fortuneMid: Round the obvious uneven bits and let the rest fall even.
-fortuneLow: Most of the entries won't matter once you've slept on them — so shut the ledger and leave it shut a while.
+fortuneLow: Most of the entries won't matter once you've slept on them. Shut the ledger.
 fortuneLeast: Overpay at the counter and walk on.
 facetMostTitle: The Letter of the Bean
-facetMost: Teams are being picked on the green and the same kid is left standing last again. You stop the count and redraw the sides until they're actually even.
+facetMost: Raffle tickets are drawn and the second prize goes to a woman who bought her strip after the table shut. You go and find the sheet with the times written on it, and the prize comes back and is drawn again.
 facetHighTitle: Bean Play
-facetHigh: A referee waves an obvious foul through and someone suggests just playing on. You name the unfair call out loud and let the easy fix die.
+facetHigh: Your father's tools are being split three ways and the good plane is worth more than the rest of the box put together, and you put the plane into the pile going to your sister, because she is the one who will use it.
 facetMidTitle: ...And Justice for Bean
-facetMid: A picnic blanket's worth of food needs splitting and the portions aren't quite level. Close enough — you even the obvious gaps and let the rest land where it falls.
+facetMid: One boy has been benched all tournament and is not on the last sheet either. You find the coach and ask what he has to do.
 facetLowTitle: Les Beanserables
-facetLow: A small debt from a coffee run is still nagging at the back of your mind. You close the ledger on it, leave it shut, and stop carrying the figure around.
+facetLow: The tips are meant to go by hours and yours are down, and the girl who counted them is new to it. You take what is in the envelope and get your coat.
 facetLeastTitle: Kangabean Court
-facetLeast: At the counter the change comes back a little short and the queue is long. You wave it off, overpay, and walk out without doing the sum.
-question: The team's prize money is set to split evenly, but one member carried the whole project for months and another barely showed. You...
-answerMost: insist the shares be redrawn to match who actually put in
-answerHigh: push for the grafter to take more, even-split be damned
-answerMid: name the imbalance aloud and let the room weigh it
-answerLow: feel the unfairness but go with the even split
-answerLeast: take your equal cut and keep the peace
-rorschachMost: a balloon resting level above its even basket
-rorschachHigh: a round tree crown squared over its trunk
-rorschachMid: a head of cauliflower on its narrow stalk
-rorschachLow: a storm cloud bulging heavier to one side
-rorschachLeast: a mushroom cap slumped lopsided off its stem
+facetLeast: One plant is left and a woman has been holding it since before the queue formed and has gone for her purse, and you take it to the till with the money already in your hand.
+question: Four of you did a job together and the money's come in split evenly, but one of you did about half of it. You...
+answerMost: work out the hours properly and redo the split
+answerHigh: say out loud that the split doesn't match the work
+answerMid: have a quiet word with the one who did half
+answerLow: take your quarter and leave it alone
+answerLeast: take your quarter and hope nobody counts
+rorschachMost: a rule measured to crumbs
+rorschachHigh: a full measure, level
+rorschachMid: a scale and its spillings
+rorschachLow: a pan tipped slightly
+rorschachLeast: a thumb on the scale
 ---
 
 Chimichurri Kidney Beans are the Bean Zodiac's most fair. The bill gets split properly, the credit goes where it is owed, and the person nobody likes still gets heard. The fairness occasionally becomes procedure for its own sake. Quietly letting an injustice stand they cannot manage.

@@ -1,5 +1,5 @@
 ---
-# COMPLETELY NEEDS UPDATING — trait: minimalist -> understated, excess: austere -> invisible, inverse: maximalist -> showy
+# TODO: tidy facets, redo fortunes, redo rorschachs
 slug: sour-fermented-butter
 lastUpdated: 
 bean: butter
@@ -17,32 +17,32 @@ antiTriple: spicy-fried-navy
 antiBeans: [chickpea, kidney]
 antiForm: roasted
 seasonalFortune: "A season of tarragon and low volume — the jar changes everything and mentions none of it."
-fortuneMost: One bean, white plate, nothing beside it — and the bareness was never lack.
+fortuneMost: All that song out of a bird nobody in the reeds has ever actually seen.
 fortuneHigh: The preamble you keep adding apologises for a thing that needs no apology.
-fortuneMid: Cut the favourite line and the thing still stands, if it was ever sound.
+fortuneMid: Half of what you did will be credited to the room.
 fortuneLow: A two-line reply to a long, kind message is being read as a grudge it never was.
-fortuneLeast: A door you've been skipping has your absence speaking for you, and it's telling lies.
+fortuneLeast: Say the whole of what you did, with your name on it.
 facetMostTitle: The Beaninvisible Man
-facetMost: A free sample, no strings — a vase you'd have nowhere to put. You wave it off before the hand's fully out, lighter for not owning it.
+facetMost: You have run the sheepdog trial for eleven years — entries, timing, flags, tea. From the rostrum the chairman thanks the sponsors, the judges and the weather. You are stood at the back with the flags under your arm, and you let all of it go past.
 facetHighTitle: The Quiet Beanmerican
-facetHigh: Asked to say a few words at the gathering, you'd rather land one true sentence and sit back down than fill the warm minute they left open.
+facetHigh: Forty years on the estate, and the new owner is walking the woods asking who does what, so you say you keep an eye on things and leave it there.
 facetMidTitle: Less Is Bean
-facetMid: A shelf of options for the same small job, and you reach past five to keep the one that does it. The other four go in the giveaway box.
+facetMid: Snow on the path overnight. You go out at six and clear yours and the two either side, and you are indoors before anybody's curtains open.
 facetLowTitle: Razzle Beanzzle
-facetLow: A souvenir stall, all of it useless, and one chipped trinket snags you. You'd rather carry it home than reason your way out of wanting it.
+facetLow: Your name is read out at the prize-giving. It is a thirty-foot walk to the front and you take it slowly. Then you say rather more into the microphone than you had planned to.
 facetLeastTitle: The Greatest Beanman
-facetLeast: A spare chair, a spare blanket, a third helping you won't finish — pile it on. The crowded warmth of more beats the clean line of just enough.
-question: You're helping a friend pack for a weekend away and they've laid out six outfits for two days. You...
-answerMost: quietly return four to the wardrobe and zip the bag
-answerHigh: suggest the two that cover everything and leave the rest in a neat stack
-answerMid: ask what the weather's doing and let that do the cutting
-answerLow: fold all six and squeeze the zip
-answerLeast: add the seventh — the one they almost packed and talked themselves out of
-rorschachMost: two bare stones stacked on empty sand
-rorschachHigh: a head resting above a plain round body
-rorschachMid: two clouds drifting one above the other
-rorschachLow: two beetles tangled, legs spilling everywhere
-rorschachLeast: two crowded nests bristling with twigs and drips
+facetLeast: Nobody has asked for a second song and the karaoke machine is free. You go back up with the microphone, do the harmonies, and get the bar joining in on the chorus.
+question: The chairman thanks whoever sorted the parking, which was you, and looks round the room. You...
+answerMost: Say nothing, and enjoy that nobody knows
+answerHigh: Let it go, and tell one person later
+answerMid: Say it was a team effort if anyone asks
+answerLow: Find a way to mention I had a hand in it
+answerLeast: Put my hand up there and then and take the credit
+rorschachMost: a hem that vanishes
+rorschachHigh: a shadow behind a curtain
+rorschachMid: a body and its specks
+rorschachLow: a hem showing plainly
+rorschachLeast: sequins on every seam
 ---
 
 Pickled Butter Beans are the Bean Zodiac's most understated. They did most of the work on the project and the summary email doesn't mention them once. Left alone they disappear from their own life. Claiming a thing loudly, in public, they'd sooner lose the credit than do.

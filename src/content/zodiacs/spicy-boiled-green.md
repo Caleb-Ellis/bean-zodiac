@@ -1,5 +1,5 @@
 ---
-# COMPLETELY NEEDS UPDATING — excess: evangelical -> fanatical, inverse: indifferent -> apathetic
+# TODO: tidy facets, redo fortunes, redo rorschachs
 slug: spicy-boiled-green
 lastUpdated: 
 bean: green
@@ -17,32 +17,32 @@ antiTriple: sour-dried-black
 antiBeans: [butter, edamame]
 antiForm: smoked
 seasonalFortune: "A season of berbere and rising conviction; the pot believes in this dinner entirely."
-fortuneMost: A cause you take up at midnight is still burning by the next one — that's rare and it's real.
+fortuneMost: Down the hole after it, and the fox terrier does not come back up empty.
 fortuneHigh: The thing you've been rehearsing has already cost more than the doing of it will.
 fortuneMid: One clear sentence, not three.
 fortuneLow: The cause is real and it doesn't need you in the fray every hour.
 fortuneLeast: A low simmer needs no apology.
 facetMostTitle: The Beanfan
-facetMost: A documentary about a polluted river ends and the credits are still rolling. You're already pulling on shoes to go scout the bank yourself.
+facetMost: Four years have gone to the campaign and the marriage is thinner for it and you know that perfectly well. Somebody suggests three evenings a week instead of five. You explain why that is not possible. You explain it for about twenty minutes.
 facetHighTitle: Beanzealot
-facetHigh: A bake sale won't save the shelter and the room's content to hold one anyway. Redraw the whole plan into something that actually might.
+facetHigh: A campaign needs somebody to do the doors in the rain and there is nobody else willing, so you do the whole ward yourself over two weeks, in the evenings, and you would do it again tomorrow.
 facetMidTitle: All or Beanothing
-facetMid: There's a knot in the local zoning fight you keep gnawing at. You pick it up one more evening, certain the answer's a single turn away.
+facetMid: Given a cause and a spare evening, you are the one who stays behind afterwards and stacks the chairs away.
 facetLowTitle: Smells Like Bean Spirit
-facetLow: A petition's going round the neighborhood and it's a fine cause. Why not sign your name and leave the door-knocking to someone else?
+facetLow: A petition is going round, it is a good cause, and signing costs thirty seconds. You mean to sign, and you have walked past the table twice, and it goes tomorrow.
 facetLeastTitle: No Beanfeelings
-facetLeast: The news is full of things worth being furious about. You read it, set the paper down, and go water the tomatoes.
-question: A stranger at the bar mentions a small injustice they've been wronged by. You...
-answerMost: have a plan, three calls to make, and the right person to email by morning
-answerHigh: name the enemy and tell them what you'd do in their shoes
-answerMid: agree, commiserate, top up the drink
-answerLow: nod and steer the conversation somewhere lighter
-answerLeast: order another round and let the subject die
-rorschachMost: a bonfire roaring high into the night
-rorschachHigh: a torch held up at the front of a march
-rorschachMid: a candle flame steady on a table
-rorschachLow: a single coal glowing in cold ash
-rorschachLeast: a snuffed wick with smoke trailing off
+facetLeast: There is a meeting about the field being sold and it is the field your children learned to walk in. You do not go, and you hear how it went from somebody at the shop.
+question: A cause you believe in needs volunteers for a wet weekend. You...
+answerMost: Do the whole thing and recruit others
+answerHigh: Turn up and do my share
+answerMid: Turn up for a couple of hours
+answerLow: Mean to, and not quite get there
+answerLeast: Leave it to whoever's keen
+rorschachMost: a bell rung without stopping
+rorschachHigh: a drum in a march
+rorschachMid: a hive at midday
+rorschachLow: a bell rope hanging
+rorschachLeast: a drum with no skin
 ---
 
 Braised Green Beans are the Bean Zodiac's most zealous. Whatever they have taken up they take up completely — the reading, the meetings, the six a.m. starts. Occasionally the cause eats everything around it. Doing something with mild, ordinary interest is not a setting they have.

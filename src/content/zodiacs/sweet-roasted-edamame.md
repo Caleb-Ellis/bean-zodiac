@@ -1,7 +1,6 @@
 ---
-# COMPLETELY NEEDS UPDATING — excess: deferential -> self-sacrificing, inverse: inconsiderate -> thoughtless
 slug: sweet-roasted-edamame
-lastUpdated: 
+lastUpdated: 2026-08-03
 bean: edamame
 flavour: sweet
 form: roasted
@@ -17,32 +16,32 @@ antiTriple: umami-smoked-black
 antiBeans: [chickpea, mung]
 antiForm: fermented
 seasonalFortune: "A season of mirin glaze and noticed preferences: the oven remembers who dislikes what."
-fortuneMost: A small invisible favour for someone who'll never trace it back to you.
-fortuneHigh: A favour you did quietly comes back to you this turn, lacquered smooth by hands you never saw.
-fortuneMid: Clear the plates before the host stands, the way no one quite clocks.
+fortuneMost: You'll go without again, and nobody will know it.
+fortuneHigh: Do it before they have to ask.
+fortuneMid: A manatee moves slow and sure, disturbing only what it means to.
 fortuneLow: Some asks can go unanswered.
-fortuneLeast: Hand the unfinished thing to someone else to carry.
-facetMostTitle: A Tale of Two Beanities
-facetMost: The path forks and a lone hiker behind you looks lost. You double back to walk them to the junction before carrying on your own way.
+fortuneLeast: Someone else can carry it this time.
+facetMostTitle: A Tale of Two Beans
+facetMost: Relatives have been staying three weeks now, and you've given them the main bedroom. You think the sofa has done something to your back. A friend offers you their spare room, ten minutes away, for as long as you want. You say it's fine, honestly.
 facetHighTitle: Mind How You Bean
-facetHigh: A stranger on the train is fighting a window that won't budge, too shy to ask. You're up out of your seat to wrestle it open before they've caught your eye.
+facetHigh: A relative is in hospital and the family are taking turns on the chair beside the bed. Three nights running you're the one who wakes when the monitor beeps; the others sleep through it. A nurse says somebody else could take a turn. You take the fourth night.
 facetMidTitle: After Bean
-facetMid: Last one out of the picnic clearing, you notice the bench someone left sticky. A wipe with a napkin, and you go — no one will know it was you.
-facetLowTitle: Beanthoughtless
-facetLow: A dropped glove lies on the pavement just ahead of its owner. You see it, keep your hands in your pockets, and walk on.
-facetLeastTitle: Every Bean for Himself
-facetLeast: Someone across the café keeps glancing over, clearly hoping you'll offer the empty chair beside you. You leave it where it is and read on.
-question: Last bus, you're wrung out by the window. Up front an old man fumbles his fare, coins skittering, and the driver's jaw sets. You...
-answerMost: get up, gather the coins, and cover the difference yourself
-answerHigh: call out that you'll sort it and wave him to a seat
-answerMid: half-rise, then see if anyone nearer steps in
-answerLow: tell yourself the driver will let it slide and look back out the window
-answerLeast: keep your forehead on the glass and let it play out
-rorschachMost: a ladle tipped to fill a waiting cup
-rorschachHigh: a hand reaching across to a full bowl
-rorschachMid: a pear resting beside a leafy sprig
-rorschachLow: a teapot turned away from an empty cup
-rorschachLeast: a watering can set down beside dry roots
+facetMid: Two chairs left at a crowded table, one sound and one with an uncomfortable looking seat. You take the uncomfortable one.
+facetLowTitle: Beanless
+facetLow: A full car park, and a space opens up between you and a car coming the other way. You slam your foot down and take it.
+facetLeastTitle: Every Bean for Themself
+facetLeast: There is plainly not enough of the tiramisu left to go round, and the serving spoon reaches you. You take a normal slice and pass it on.
+question: After much planning, you finally calculate that a week's skiing for the four of you is eleven hundred each, deposits due soon. Two in the group say yes within the hour; the fourth hasn't said a word in a week. You...
+answerMost: tell them it came in cheaper, and quietly make up the difference
+answerHigh: float the cheaper resort before they say anything
+answerMid: ask them privately if eleven hundred works
+answerLow: leave it, and let them say if it doesn't work
+answerLeast: ask them for the deposit
+rorschachMost: a mother pelican
+rorschachHigh: a cook with kitchen utensils
+rorschachMid: a tangled kite
+rorschachLow: a magpie leaving a nest
+rorschachLeast: a boot through a spider's web
 ---
 
 Glazed Edamame are the Bean Zodiac's most considerate. They remember that you don't eat it, that the station is a long walk, that Thursday is hard. Sometimes their own needs never make the list. Doing something purely for themselves takes a run-up.

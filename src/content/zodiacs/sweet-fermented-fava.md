@@ -1,5 +1,5 @@
 ---
-# COMPLETELY NEEDS UPDATING — excess: megalomaniac -> utopian
+# TODO: tidy facets, redo fortunes, redo rorschachs
 slug: sweet-fermented-fava
 lastUpdated: 
 bean: fava
@@ -17,32 +17,32 @@ antiTriple: bitter-boiled-navy
 antiBeans: [chickpea, cannellini]
 antiForm: dried
 seasonalFortune: "A season of rock sugar and chilli paste — the crock ferments toward a better dish."
-fortuneMost: Draw the future rough and slide it across to someone. The napkin sketch carries what a careful presentation never could.
+fortuneMost: You can see the whole finished thing and nobody else can see any of it.
 fortuneHigh: Tell one person the whole dream with full feeling, like a kid pitching a treehouse.
-fortuneMid: A forecast made physical is harder to talk yourself out of. Sketch the next ten years somewhere your hands will find it.
+fortuneMid: A bald eagle sees three miles and still has to come down for the fish.
 fortuneLow: The vision will keep; the person in front of you might not.
-fortuneLeast: Look up from the map. The street changed while you were reading it, and the place you wanted is the one that's actually there now.
+fortuneLeast: Look up from the map. The street changed while you were reading it.
 facetMostTitle: Brave New Beanworld
-facetMost: A boarded-up corner shop comes up for nothing and everyone walks past it as a ruin. You can see the whole decade it becomes, lit and full, and you're already telling the agent yes.
+facetMost: Your kitchen table has a drawing on it of a village of two hundred people, with the heating and the water and the way the money moves all worked out. It needs eleven million pounds and nine landowners to agree. You have written to four already.
 facetHighTitle: I Have a Beandream
-facetHigh: A cousin half-mentions a wild idea and gives up on it in the same breath. You catch the thread and start spinning it out loud — where it goes in three years, who it pulls in, what it costs.
+facetHigh: That farm is losing money the way it is run, and you can see what it looks like in fifteen years — the trees, the water, the beef gone. You put the first trees in this year.
 facetMidTitle: The Big Beanpicture
-facetMid: A long, dull stretch of work sits between you and the thing nobody can taste yet but you. The stove stays lit because the ending's already vivid on your tongue.
+facetMid: Handed the hall to do something with, you plan for what the village will need in ten years. Not what it is short of now.
 facetLowTitle: Can't See the Wood for the Beans
-facetLow: A friend across the table is mid-story and your mind keeps slipping three moves down the road. You drag it back to their face and leave next week to look after itself.
+facetLow: The roof needs doing and there is money for the roof or for the boiler, and you do the roof, because the roof is leaking now.
 facetLeastTitle: The Short Beangame
-facetLeast: Picnic plans hinge on whether it'll rain, and there's the actual sky right there. Go by the clouds overhead, not the ten-day prophecy you'd usually consult.
-question: You're walking through a half-empty street and you can already see, plainly, what it'll be in five years. A friend beside you cannot. You...
-answerMost: stop on the corner and walk them through it, building by building, until they see it too
-answerHigh: describe one piece of it and watch whether they pick it up
-answerMid: mention you have a hunch about the area and leave it there
-answerLow: say nothing; it'll sound mad out loud
-answerLeast: notice the empty coffee shop and suggest somewhere else
-rorschachMost: a ship's prow nosing out toward open horizon
-rorschachHigh: a kite tilted and pulling hard for the sky
-rorschachMid: a smooth river stone tapering to a point
-rorschachLow: an anchor settled flat on the seabed
-rorschachLeast: a doorstop wedged hard against the jamb
+facetLeast: There is a decision about the land that fixes this year and costs you the decade after. You take that deal. Somebody points out what it means for the far end, and you tell them the far end can look after itself.
+question: When you think about your work, how far ahead are you looking?
+answerMost: Fifty years, and I've drawn it out
+answerHigh: A decade or so, properly
+answerMid: A few years out
+answerLow: This year and next
+answerLeast: This month, and that's plenty
+rorschachMost: a city drawn on cloud
+rorschachHigh: a raised relief map
+rorschachMid: a headland in haze
+rorschachLow: a plan pinned up
+rorschachLeast: a page held too close
 ---
 
 Funky Fava Beans are the Bean Zodiac's most visionary. They describe how the thing could be in ten years, and enough of it happens that people keep listening. Sometimes the plan needs a world we don't have. Thinking only as far as next month is beyond them.

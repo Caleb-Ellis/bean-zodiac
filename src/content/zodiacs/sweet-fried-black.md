@@ -1,5 +1,5 @@
 ---
-# COMPLETELY NEEDS UPDATING — trait: driven -> ardent, excess: workaholic -> feverish, inverse: unmotivated -> tepid
+# TODO: tidy facets, redo fortunes, redo rorschachs
 slug: sweet-fried-black
 lastUpdated: 
 bean: black
@@ -17,32 +17,32 @@ antiTriple: umami-fermented-butter
 antiBeans: [adzuki, pinto]
 antiForm: smoked
 seasonalFortune: "A season of cinnamon sugar and high heat: the doughnut burns for something specific."
-fortuneMost: Finish the thing you keep circling, and keep the heat on the one building beside it.
-fortuneHigh: Set your pace to the slowest person you love. They're the reason the summit is worth a thing.
-fortuneMid: A short word, sent before your own doubt catches up, is enough to keep someone climbing.
-fortuneLow: When you can't stand still, name the thing you're outrunning.
-fortuneLeast: Hand off the part you've been hauling alone, and trust the one who reaches for it.
+fortuneMost: That red is visible a mile off in the snow, and the cardinal cannot dim it.
+fortuneHigh: Say the whole warm thing before the doubt catches up.
+fortuneMid: You burn for one specific thing and everybody can tell which.
+fortuneLow: A moderate warmth keeps longer than a hot one.
+fortuneLeast: Care about it a normal amount and go to bed.
 facetMostTitle: Fever Beanpitch
-facetMost: Wave the sweeper truck on. The race cutoff has passed and the cones are coming up around you, but you're running this last mile in whether it counts or not.
+facetMost: Six weeks in and you have read everything she has recommended, learned the names of her nephews, and started taking a route home that goes past the end of her road. You are entirely aware of how this looks.
 facetHighTitle: Burning Beanlove
-facetHigh: Rain starts spitting on a half-dug garden bed, and you'd sooner finish the trench soaked through than leave it open overnight.
+facetHigh: You found the subject in October and by now there are three books on the go, a folder of notes, and a trip booked to go and see the place for yourself.
 facetMidTitle: Light My Beanfire
-facetMid: Bag still on your shoulder, you're already thumbing to the next task before the front door has latched behind you.
+facetMid: You tell them, properly and out loud, what the last two years of knowing them has actually meant to you.
 facetLowTitle: Cool It Now, Bean
-facetLow: The queue has barely moved and people around you are sighing and checking watches. You're happy to stand and let it take however long it takes.
+facetLow: The band you loved at nineteen are playing again and the tickets are there. You think about it and let it go.
 facetLeastTitle: Cold Beancomfort Farm
-facetLeast: A board game runs long and the table thins out as people drift to bed. You're glad to fold your hand early and let someone else play it out.
-question: You're hiking with a friend who's clearly flagging two miles from the summit. You...
-answerMost: keep the pace and promise the view will be worth it
-answerHigh: push on but talk them through it the whole way
-answerMid: suggest a snack break and then see how they feel
-answerLow: ask what they want to do and mean it
-answerLeast: turn back without making a thing of it
-rorschachMost: a crab hauling itself up over rocks
-rorschachHigh: a beetle shouldering forward through dense brush
-rorschachMid: a cabbage rose opened wide in bloom
-rorschachLow: a clump of moss spreading slow on stone
-rorschachLeast: a cat curled tight, asleep in the sun
+facetLeast: Everyone is up on their feet for the last song and you are at the back with your coat over your arm, waiting for it to be finished.
+question: Somebody lends you a book about beekeeping and three weeks later you can't think about much else. You...
+answerMost: reorganise your whole life around it inside a month
+answerHigh: give it everything you have got going spare
+answerMid: make real room for it
+answerLow: enjoy it when it comes up
+answerLeast: find your interest has cooled before it got going
+rorschachMost: a brow, sweat standing
+rorschachHigh: skin gone red
+rorschachMid: a cheek and a freckle
+rorschachLow: a flush going down
+rorschachLeast: a bath gone lukewarm
 ---
 
 Caramelised Black Beans are the Bean Zodiac's most ardent. Whatever they have fallen for gets everything — the reading, the evenings, the whole of a summer. Sometimes the heat is hotter than the object can hold. Liking something mildly is not a state they pass through.

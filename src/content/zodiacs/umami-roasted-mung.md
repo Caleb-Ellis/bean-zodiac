@@ -1,5 +1,5 @@
 ---
-# COMPLETELY NEEDS UPDATING — excess: morbid -> despondent, inverse: buoyant -> breezy
+# TODO: tidy facets, redo fortunes, redo rorschachs
 slug: umami-roasted-mung
 lastUpdated: 
 bean: mung
@@ -17,32 +17,32 @@ antiTriple: sour-dried-edamame
 antiBeans: [fava, green]
 antiForm: smoked
 seasonalFortune: "A season of ghee and cumin: the roast is warm and quietly sorry about something."
-fortuneMost: Sit with the grief on purpose, in the chair you chose.
+fortuneMost: That song goes on for twenty minutes and then starts again from the top.
 fortuneHigh: Keep the chipped bowl.
 fortuneMid: Don't skip the song when it catches you in the doorway.
 fortuneLow: Whoever's at the door isn't carrying what an earlier visitor did.
 fortuneLeast: Buy the new pen.
 facetMostTitle: The Bell Beanjar
-facetMost: A demolition crew is taking down the building where you used to live. You go and stand across the street to watch the whole thing come down, because someone should.
+facetMost: It has been a good day and nothing is wrong at all, and the thing underneath it is still there, and you have gone quiet in the car.
 facetHighTitle: Blue Beanvelvet
-facetHigh: Wave the movers off the dented kettle that hasn't whistled in years — keep it on the shelf. A kitchen with nothing worn in it would belong to no one.
+facetHigh: The light goes off the estuary. Everybody else has started packing the picnic up. You stay where you are, looking at it a while longer than the moment strictly needs.
 facetMidTitle: Mood Beanindigo
-facetMid: A smell drifts off a passing stranger and a whole vanished year arrives with it. Stand in the doorway and let the ache run its course, or shake it off and get on with the errand?
+facetMid: The party is good and you have enjoyed it. At about eleven you take your drink out to the step and sit there on your own for ten minutes before you go back in.
 facetLowTitle: Walking on Beansunshine
-facetLow: An old friend you once fell out with is suddenly at the market in front of you, smiling. You meet whoever's standing there now and let the version you've carried all these years go quiet.
+facetLow: A song comes on that you have a whole year attached to and there is a table of people talking over the top of it, and you turn back to the conversation and let the song go by without saying anything about it.
 facetLeastTitle: Feeling Beangroovy
-facetLeast: A drawer of keepsakes from a chapter that's truly over sits in the way of the move. You bin the lot without ceremony and feel the room get lighter, not emptier.
-question: An old song comes on in the doorway between rooms and you feel it land. You...
-answerMost: stand still, let the whole song play, don't move until it's finished
-answerHigh: stop where you are and listen, eyes a little lost
-answerMid: keep walking, but slower, and hum the rest
-answerLow: notice it, smile a bit, keep going
-answerLeast: change the song
-rorschachMost: a willow drooping its long branches toward the ground
-rorschachHigh: a low cloud trailing rain straight down
-rorschachMid: a cloud with streamers hanging beneath it
-rorschachLow: a fountain throwing its water up in jets
-rorschachLeast: smoke from a fire rising fast into clear sky
+facetLeast: Somebody has said a thing that got to them. You fill the silence with something light. You get the laugh.
+question: How do the good days sit with you?
+answerMost: there's something underneath them and it doesn't lift
+answerHigh: good, with a sadness running under
+answerMid: good, and you notice they don't last
+answerLow: good, and you take them as they come
+answerLeast: good, and nothing under them at all
+rorschachMost: a face coming apart below
+rorschachHigh: rain running down a wall
+rorschachMid: a cloud shedding its base
+rorschachLow: a drip nearly stopped
+rorschachLeast: a sheet on a line
 ---
 
 Rendered Mung Beans are the Bean Zodiac's most melancholy. There is a sadness running under the good days that makes their company gentler than most. Sometimes it takes the whole month with it. Being breezily untouched by anything is not on offer.

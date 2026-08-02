@@ -1,5 +1,5 @@
 ---
-# COMPLETELY NEEDS UPDATING — trait: entrepreneurial -> shrewd, excess: overextended -> calculating, inverse: unenterprising -> gullible
+# TODO: tidy facets, redo fortunes, redo rorschachs
 slug: bitter-fried-chickpea
 lastUpdated: 
 bean: chickpea
@@ -17,32 +17,32 @@ antiTriple: umami-fermented-cannellini
 antiBeans: [butter, edamame]
 antiForm: dried
 seasonalFortune: "A season of hot ghee and quick reckonings: the chickpea knows the price before the pan does."
-fortuneMost: The one idea that won't leave you alone is the one to start.
-fortuneHigh: Say it out loud to one person before it cools.
-fortuneMid: Finish the older one first.
-fortuneLow: An opening closes while you watch, and you don't walk through.
-fortuneLeast: A good idea passes clean through you and out the far side.
+fortuneMost: You know what everyone will settle for, and nobody knows what you would.
+fortuneHigh: Hear the whole offer out; the fennec hunts by listening.
+fortuneMid: The price you named was fair and you still got it.
+fortuneLow: A person taken at their word will sometimes be worth it.
+fortuneLeast: Something offered plainly is exactly what it looks like.
 facetMostTitle: House of Beans
-facetMost: A long queue at the festival gate, no one selling water, the sun brutal. By the time you reach the front you've costed a cooler, a cart, and a teenager to run it.
+facetMost: You worked out three weeks ago what he wants, what he will settle for, and what frightens him. Everything you have said since has been placed. He thinks the two of you get on well, and you do, and that is placed as well.
 facetHighTitle: The Big Beanshort
-facetHigh: A neighbour mentions their garden's overrun with lemons. Before they've finished you're pitching a stand, a label, a split of the takings — and you mean to actually do it.
+facetHigh: The stall has a box of old tools with one plane in it worth more than the whole box together. You pay him for the box.
 facetMidTitle: The Beanting
-facetMid: There's a small thing at the house you've meant to fix and sell on. You poke at it some weekends — enough to keep it alive, not quite enough to finish and list it.
+facetMid: Asked what you are looking for from the job, you name a number above what you would take and below what would end the conversation there and then, and you let it sit.
 facetLowTitle: Catch Me If You Bean
-facetLow: There's room for you in the obvious next big thing — a friend's raising money and wants you in. You hear them out and pass. Fine idea; just not one you need to be on.
+facetLow: The builder's quote has a line on it you do not understand, and he explains that line in a way you also do not understand. You say that sounds fair enough.
 facetLeastTitle: Born Beansterday
-facetLeast: Same allotment, same row of beans, same gate every spring for years on end. No itch to scale it, franchise it, or turn it into anything — the having of it is plenty.
-question: Walking past a shuttered shop on a street you've crossed a hundred times, you can suddenly see exactly what it should be. You...
-answerMost: photograph the front, find the landlord by evening, have a number on the lease by Friday
-answerHigh: write the whole concept up that night and send it to the one person who'd back it
-answerMid: tell someone over the weekend and see if they push back or push in
-answerLow: keep the idea in a note and walk past it again next week
-answerLeast: enjoy the thought for the length of the block and let it go
-rorschachMost: sparks flying off two struck anvils
-rorschachHigh: two bonfires throwing embers upward
-rorschachMid: two spiky caterpillars inching along a leaf
-rorschachLow: two low islands settling into still water
-rorschachLeast: two sleeping hills under a heavy quiet
+facetLeast: Somebody rings about money owed to you from a policy you never had, and they already know your address. You give them the sort code.
+question: You're buying a car privately and the seller mentions another buyer is coming at four. You...
+answerMost: Assume there's no other buyer and say so
+answerHigh: Test whether that's true before I bid
+answerMid: Take it into account and offer anyway
+answerLow: Speed up so I don't lose it
+answerLeast: Pay the asking price on the spot
+rorschachMost: a hawk above scattered mice
+rorschachHigh: a lid over loose change
+rorschachMid: a boulder above fine gravel
+rorschachLow: a hat over a puddle
+rorschachLeast: an open purse, coins gone
 ---
 
 Scorched Chickpeas are the Bean Zodiac's most shrewd. They know which favour the offer is really buying and price it correctly before replying. Every kindness eventually gets read for its angle. Taking a nice gesture at face value is a pleasure they've mostly given up.

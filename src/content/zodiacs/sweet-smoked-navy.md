@@ -1,5 +1,5 @@
 ---
-# COMPLETELY NEEDS UPDATING — inverse: fleeting -> vanishing
+# TODO: tidy facets, redo fortunes, redo rorschachs
 slug: sweet-smoked-navy
 lastUpdated: 
 bean: navy
@@ -17,32 +17,32 @@ antiTriple: spicy-roasted-green
 antiBeans: [pinto, chickpea]
 antiForm: fried
 seasonalFortune: "A season of molasses and low heat — the smell stays in the house for weeks."
-fortuneMost: A small kind thing you say will outlast you, quoted back years on by someone whose voice goes a little tight.
+fortuneMost: Fed once, the alley cat is on the step for the rest of its life.
 fortuneHigh: The lines you mean have a way of outliving the saying of them.
 fortuneMid: Reply to the thing that went stale in your drafts.
 fortuneLow: Turn up to the standing thing once more.
 fortuneLeast: End the loyalty that's gone cold in the pot.
 facetMostTitle: The Beanincredible Mr. Limpet
-facetMost: You stay in a rented cabin for one night. You leave a folded note and a sketch on the windowsill for whoever comes next, the way past guests once left them for you.
+facetMost: You left the workshop four years ago and the benches are still set out your way, and you are in there twice a month with opinions about the new man's jigs.
 facetHighTitle: Stays with Bean
-facetHigh: A scent of woodsmoke on someone's coat drops you straight into a kitchen from twenty years back, the whole room intact down to the cracked tile.
+facetHigh: A thing you said at a meeting eleven years ago is still being repeated by people who were not in the room, and one of them has just said it back to you at a bar. You let it go past.
 facetMidTitle: Beanlast Dance
-facetMid: A jacket comes back from a friend you lent it to a year ago. You take up the conversation it interrupted as if no time had passed.
+facetMid: You are leaving the group and there is a last evening on. You write down what you know about the boiler and the keys and which of the doors sticks. You leave it on the side where whoever comes next will find it.
 facetLowTitle: The Beanvanishing
-facetLow: A wonderful holiday ends. You hand back the keys, board the plane, and feel it slide cleanly into the past before the wheels are up.
+facetLow: You have finished at the club after nine years. You go on the last night, shake hands, and put nothing in the group chat.
 facetLeastTitle: Here and Beangone
-facetLeast: A friendship that mattered has quietly run its course. You let the last thread go without a keepsake and feel the lightness of an empty hand.
-question: Clearing space on your phone, you find a voicemail you saved years ago and never deleted. The thumb hovers over play. You...
-answerMost: listen three times, then sit with the whole year it came from before doing anything else
-answerHigh: play it once through and leave it exactly where it is
-answerMid: play a few seconds, recognise the voice, move on
-answerLow: skip it and clear the rest of the list
-answerLeast: delete it with everything else to free the space
-rorschachMost: a stamp and its mark left too long
-rorschachHigh: a beetle and the print it pressed in the dust
-rorschachMid: two loaves cooling, one above the other
-rorschachLow: a hare and its shadow already thinning at noon
-rorschachLeast: clouds fading away
+facetLeast: Six years at the firm and your last day is the Friday, and you take your mug and send nothing, and nobody says your name by the spring.
+question: You're leaving somewhere you've been a long time. You...
+answerMost: keep turning up, and keep having opinions
+answerHigh: leave, and stay in touch properly
+answerMid: write down what people will need and go
+answerLow: say your goodbyes and step back
+answerLeast: take your mug and vanish
+rorschachMost: smoke that will not clear
+rorschachHigh: a scent staying in cloth
+rorschachMid: two clouds pulling apart
+rorschachLow: a trail thinning out
+rorschachLeast: a room already aired
 ---
 
 Barbecued Navy Beans are the Bean Zodiac's most lingering. Long after they have left the job or the town, people are still repeating what they said. Sometimes they stay in a place past when they should. Leaving cleanly, without a trace, they have never done.

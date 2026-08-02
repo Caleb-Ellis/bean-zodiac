@@ -130,6 +130,7 @@ export default function ClaimedHomeContent({
                         beanName={fortuneBean.name}
                         zodiacId={storedZodiacId}
                         qualityId={qualityId}
+                        alignLeft
                       />
                     </p>
                   </div>

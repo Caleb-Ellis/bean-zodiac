@@ -1,7 +1,6 @@
 ---
-# QUICK REVIEW — trait, excess and inverse all unchanged
 slug: sweet-smoked-butter
-lastUpdated: 
+lastUpdated: 2026-08-02
 bean: butter
 flavour: sweet
 form: smoked
@@ -22,15 +21,15 @@ fortuneHigh: Make no plans. Set no alarms.
 fortuneMid: Don't think too hard - the best nights are unplanned.
 fortuneLow: Wipe the fog from the glass and look.
 fortuneLeast: A rested mind and a clear eye miss nothing.
-facetMostTitle: Beanfog on the Tyne
+facetMostTitle: Bean on the Tyne
 facetMost: You meant to turn off for the shops, but you come back to yourself miles down the motorway with no memory of the last three exits — and no real urge to turn around.
-facetHighTitle: A Hazy Shade of Beanwinter
+facetHighTitle: A Beany Shade of Winter
 facetHigh: People keep asking what you and the person you've been seeing actually are. You prefer to avoid the label, and leave it a warm blur.
-facetMidTitle: Beanmisty
+facetMidTitle: Beanisty
 facetMid: You've driven to your sister's fifty times, and asked how long it takes you still say "fifteen, thirty minutes" — but you actually have no idea.
-facetLowTitle: Crystal Beanclear
+facetLowTitle: Crystal Bean
 facetLow: Deep in a dream, it dawns on you that you're dreaming. Rather than let it wander on, you take the wheel, and do whatever you want.
-facetLeastTitle: Beanhigh Definition
+facetLeastTitle: Bean Definition
 facetLeast: A person faints in the middle of a bus and lands with a heavy thud. Something in you goes cold and clear — you're already turning them on their side, coat under their head, telling the nearest stranger to call an ambulance.
 question: What's your sense of direction like?
 answerMost: I get lost in car parks I've used for years

@@ -1,5 +1,5 @@
 ---
-# COMPLETELY NEEDS UPDATING — trait: enthusiastic -> exultant, excess: rabid -> triumphalist, inverse: halfhearted -> joyless
+# TODO: tidy facets, redo fortunes, redo rorschachs
 slug: spicy-roasted-adzuki
 lastUpdated: 
 bean: adzuki
@@ -17,32 +17,32 @@ antiTriple: bitter-dried-kidney
 antiBeans: [black, fava]
 antiForm: fried
 seasonalFortune: "A season of peri-peri butter and lifted glasses — the fire celebrates before the food is ready."
-fortuneMost: The thing that makes you grin before you've thought it through pans the hottest.
-fortuneHigh: A good omen rides in on the idea that makes you talk faster than you can think.
-fortuneMid: One spice in the pan is still flavour. Tell someone the small thing you noticed before it cools.
+fortuneMost: That call carries two miles, and the trumpeter swan does not check who wanted it.
+fortuneHigh: Follow the idea that makes you talk faster than you think.
+fortuneMid: Tell someone the small thing you noticed before it cools.
 fortuneLow: Not every spark on the tray is yours to chase.
 fortuneLeast: Held all the way out, a silence does what your noise can't.
 facetMostTitle: The Beanvictory Lap
-facetMost: Across the road a busker pulls a crowd, and you're clapping before you've decided to cross.
+facetMost: Your crew takes the regatta by half a length and the losing boat is still down at the pontoon getting their oars stowed. You lead the cheering, and you keep it going while they carry their boat past you.
 facetHighTitle: Beanjubilee
-facetHigh: An idea lands halfway through dinner. Plates get pushed aside; there's a napkin and a pen and whoever's nearest.
+facetHigh: Your dog runs a clean course, every gate, no fuss, and the pen shuts on the last ewe. You are shouting before it does, and you could not care less who hears you.
 facetMidTitle: Three Beancheers
-facetMid: Hand the stranger on the bus one bright line about the book in their lap, then leave them the rest to find.
+facetMid: The bird you were waiting on drops into the loft a clear hour ahead of the rest of them, so you go straight next door to tell them about it and put the kettle on while you are there.
 facetLowTitle: Beanwet Weekend
-facetLow: Wild plans keep flying across the table. Let them tire themselves out before you name the one worth doing.
+facetLow: You get the price you wanted for the calves, fold the cheque away, say nothing to anybody in the ring, and go out to the trailer.
 facetLeastTitle: The Beanparty Pooper
-facetLeast: The party's already roaring when the door opens. Better, somehow, to hang by the coats and read the shape of it first.
-question: A festival lineup drops the morning of, and the headliner you've been waiting two years to see clashes with a friend's set on the small stage. You...
-answerMost: see both halves of both sets, run between stages, miss nothing that matters
-answerHigh: catch the opener of one and stay for the rest of the other, grinning the whole time
-answerMid: pick the headliner, watch your friend's set back on someone's phone after
-answerLow: stay at your friend's set the whole way, no regrets
-answerLeast: skip both, find a quiet corner, save your energy for tomorrow
-rorschachMost: a dancer with both arms thrown overhead
-rorschachHigh: a stag tossing its antlers back
-rorschachMid: a goblet with two curling handles
-rorschachLow: a candlestick guttering low on its base
-rorschachLeast: an old wishbone left to dry
+facetLeast: Thirty years of following them and they finally win it. You watch the last ten minutes standing up, turn the television off, and go to bed.
+question: The result you have been waiting months for comes through, and it is good. You...
+answerMost: get everybody out that night, whatever it costs
+answerHigh: ring the three people who will be gladdest
+answerMid: tell the house and make an evening of it
+answerLow: mention it if somebody asks
+answerLeast: find you cannot feel much about it either way
+rorschachMost: both arms flung up
+rorschachHigh: a cup raised high
+rorschachMid: a V of dark hills
+rorschachLow: arms dropping back down
+rorschachLeast: a chair, nobody standing
 ---
 
 Peri-Peri Adzuki Beans are the Bean Zodiac's most exultant. Good news gets a whole evening built around it, immediately, with everyone summoned. Sometimes the victory lap runs on in front of people who lost. Receiving good news quietly and moving on isn't a thing they've done.

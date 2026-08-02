@@ -1,7 +1,6 @@
 ---
-# QUICK REVIEW — trait, excess and inverse all unchanged
 slug: bitter-dried-edamame
-lastUpdated: 
+lastUpdated: 2026-08-02
 bean: edamame
 flavour: bitter
 form: dried
@@ -17,16 +16,16 @@ antiTriple: umami-roasted-mung
 antiBeans: [adzuki, pinto]
 antiForm: boiled
 seasonalFortune: "A season of hard pods and short sentences: nothing said twice, nothing kept that cannot keep."
-fortuneMost: Remove it.
-fortuneHigh: Cut it in half.
-fortuneMid: Say less.
-fortuneLow: It'll happen slowly but surely.
+fortuneMost: Silence.
+fortuneHigh: Say less.
+fortuneMid: Cut it in half.
+fortuneLow: The rook enjoys the company of others.
 fortuneLeast: The path has no end, it only branches into branches into branches.
 facetMostTitle: Bean It
 facetMost: The taxi driver is friendly, and very talkative. From you he gets a "yeah," a "nice one," and then silence for the rest of the trip.
 facetHighTitle: The Old Bean and the Sea
 facetHigh: Having just landed at the airport, the customs officer asks the purpose of your visit. You reply with a single word.
-facetMidTitle: True Beanit
+facetMidTitle: True Bean Grit
 facetMid: Everyone's retelling the trip in loving detail. Your version is short and sweet — the highlight, the lowlight and the most interesting thing.
 facetLowTitle: Gilmore Beans
 facetLow: A stranger stops you for directions to the station. A pointed finger would do, but you walk them all the way there in words, doubling back to be sure it landed.

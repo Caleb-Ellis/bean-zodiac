@@ -1,7 +1,6 @@
 ---
-# QUICK REVIEW — trait, excess and inverse all unchanged
 slug: umami-boiled-chickpea
-lastUpdated: 
+lastUpdated: 2026-08-02
 bean: chickpea
 flavour: umami
 form: boiled
@@ -26,7 +25,7 @@ facetMostTitle: Invasion of the Bean Snatchers
 facetMost: You are dropped into a game with rules that were half-explained and a deck you don't recognise. By the third hand you're feeling good enough to put money on it.
 facetHighTitle: Beanlig
 facetHigh: A whole crowd is chanting something you've never heard. Your mouth's already shaping the words, picking them up a half-beat behind everyone else.
-facetMidTitle: Go With the Beanflow
+facetMidTitle: Go With the Bean
 facetMid: Ten minutes till a slower ferry, the one you wanted having just been cancelled. Your mind's already stretched out comfortably across the longer crossing.
 facetLowTitle: Stuck in the Middle with Bean
 facetLow: Someone suggests a quicker way to do a chore you don't mind doing. It makes good sense. You keep to your own way regardless.
@@ -38,11 +37,11 @@ answerHigh: thread a new route through the crowd and call the detour an improvem
 answerMid: drift along the edge of it, half in the festival and half out
 answerLow: follow a route around the festival to your original destination
 answerLeast: charge through it — you're eager for the "quiet" part of the night
-rorschachMost: an octopus folded flat against coral
-rorschachHigh: a sea anemone, fronds combed open by the current
-rorschachMid: a ragged oak leaf curling along its edges
-rorschachLow: a knob of ginger gone hard and dry
-rorschachLeast: a fist of clay set hard and cracked
+rorschachMost: an octopus folded flat
+rorschachHigh: a sea anemone
+rorschachMid: a ragged oak leaf
+rorschachLow: a knob of ginger
+rorschachLeast: a fist of clay
 ---
 
 Dashi Chickpeas are the Bean Zodiac's most adaptable. New city, new team, new rules — three weeks and they have absorbed all of it and are useful. Sometimes there's no shape left that is theirs. Insisting on their own way of doing it is rare.

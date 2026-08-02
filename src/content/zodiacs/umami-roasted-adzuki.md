@@ -1,5 +1,5 @@
 ---
-# COMPLETELY NEEDS UPDATING — excess: cloying -> overwarm
+# TODO: tidy facets, redo fortunes, redo rorschachs
 slug: umami-roasted-adzuki
 lastUpdated: 
 bean: adzuki
@@ -17,32 +17,32 @@ antiTriple: bitter-dried-black
 antiBeans: [cannellini, edamame]
 antiForm: smoked
 seasonalFortune: "A season of duck fat and soy — the tray warms the room it was carried through."
-fortuneMost: Make the four-hour braise for the one who'd never ask for it.
+fortuneMost: Pleased to see everyone, the labrador makes it hard to feel chosen.
 fortuneHigh: The friend who went quiet hasn't gone far.
 fortuneMid: Buy the better one when it's a gift.
 fortuneLow: Some of the people warming themselves at you already have a fire at home.
 fortuneLeast: Take the tea barely warm and the help handed over cool.
 facetMostTitle: Too Much Bean Will Kill You
-facetMost: Crossing a wide, half-empty plaza, you notice one figure alone on a bench looking lost. Some part of you has already changed course toward them.
+facetMost: You are covering the postal round and the woman at number twelve mentions, in passing, that she has had a rough week of it. Forty minutes later you are still on her step with half the bag undelivered and the rain coming on.
 facetHighTitle: Warm Beanbodies
-facetHigh: A waiter you'll never see again lets slip it's a long shift. You leave the kind of tip that says you were seen, and you'd rather not be thanked for it.
+facetHigh: Two in the morning at the out-of-hours pharmacy, and the man ahead of you in the line is holding a prescription and shaking. You find him a chair and stay until he has been seen.
 facetMidTitle: Heart of Beangold
-facetMid: Three seats over on the bus, a stranger is shivering in a thin jacket. Offer the scarf, or read it as fuss they didn't ask for?
+facetMid: Somebody at the food bank will not meet your eye at all, so you use their name and ask how the week has been going for them.
 facetLowTitle: Frosty the Beanman
-facetLow: A coworker's eyes go glassy mid-story about their weekend. Let the silence sit and don't rush in to warm it.
+facetLow: The family at the next table are having a hard time of it with a toddler who has gone past reasoning with. You give the mother a sympathetic look and get on with your coffee.
 facetLeastTitle: The Ice Beanage
-facetLeast: An upset acquaintance drifts your way across a crowded room. You slip out for air before the conversation can find you, and the relief outweighs the guilt.
-question: A friend texts at 11pm — bad day, nothing specific, just wanted to say hi. You...
-answerMost: put the kettle on and call them
-answerHigh: write back something long and ask what they ate today
-answerMid: send a warm message and mean to follow up tomorrow
-answerLow: heart the message and reply in the morning
-answerLeast: see it, decide they don't actually want a response, sleep
-rorschachMost: a curled sleeping cat beside a basket of wool
-rorschachHigh: a fresh loaf and the crumbs scattered around it
-rorschachMid: a round stone next to a tangle of brambles
-rorschachLow: a cold hearth with dead briars grown over it
-rorschachLeast: a bare skull and the dry roots gripping it
+facetLeast: A year working alongside somebody and this is their last day in the building. They come over to say goodbye properly. You shake their hand and wish them well.
+question: A stranger on a long journey starts telling you their troubles. You...
+answerMost: miss your stop rather than cut them off
+answerHigh: give them the whole journey, and your number at the end
+answerMid: listen properly for a good while
+answerLow: make sympathetic noises and go back to your book
+answerLeast: put your headphones in
+rorschachMost: a stove roaring, door off
+rorschachHigh: heat coming off a hearth
+rorschachMid: a fire and flying ash
+rorschachLow: a grate barely warm
+rorschachLeast: ice inside the window
 ---
 
 Rendered Adzuki Beans are the Bean Zodiac's most warm. Strangers relax within a minute of meeting them and can't explain why afterwards. Sometimes it is more heat than a professional meeting wanted. Keeping somebody at a cool distance is not a thing they can do.

@@ -1,5 +1,5 @@
 ---
-# COMPLETELY NEEDS UPDATING — trait: cynical -> scrupulous, excess: nihilistic -> punctilious, inverse: hopeful -> unscrupulous
+# TODO: tidy facets, redo fortunes, redo rorschachs
 slug: sour-fermented-navy
 lastUpdated: 
 bean: navy
@@ -17,32 +17,32 @@ antiTriple: sweet-fried-fava
 antiBeans: [green, butter]
 antiForm: smoked
 seasonalFortune: "A season of mustard pickle and kept accounts: nothing enters the jar unmeasured or unrecorded."
-fortuneMost: Sentiment doesn't clear a ledger.
-fortuneHigh: New words, same shape underneath.
-fortuneMid: Let a new face talk a good while before you offer much of your own.
-fortuneLow: A compliment scanned for motive sours in the catching.
-fortuneLeast: The world is not coming for your things, and the lock costs more attention than the contents are worth.
+fortuneMost: Every seed counted into the store, and the harvester ant trusts nobody with the count.
+fortuneHigh: Sentiment doesn't clear a ledger.
+fortuneMid: New words, same shape underneath.
+fortuneLow: Being owed a little is cheaper than keeping the account.
+fortuneLeast: Take the favour and never square it.
 facetMostTitle: Monkbean
-facetMost: A charity worker on the pavement smiles wide and warm before a word's out. You're already past the smile, hunting the clipboard and the line that's coming.
+facetMost: Eleven pounds of the mileage is not strictly work and nobody on earth would check it. You take it off the claim and write a note explaining why the figure has moved.
 facetHighTitle: The Honour Bean
-facetHigh: A salesman throws in a freebie nobody asked for. Where another would just pocket it, you read it as the down payment on a favour you'll be billed for later.
+facetHigh: The contract is going to a firm your brother-in-law has a share in and nobody at that table knows it, and you say so out loud before the discussion has started.
 facetMidTitle: The Beancountant
-facetMid: A new acquaintance is being unusually generous with their praise of you. Do you bank it and warm to them, or keep your own cards close till you see what it's softening you up for.
+facetMid: A borrowed router has come back with a chip out of the base and the damage was there when you got it. You say so when you hand the thing over.
 facetLowTitle: Better Call Bean
-facetLow: A neighbour offers to water the plants while you're away, no strings named. The key goes over the fence and the thought of an angle never even surfaces.
+facetLow: An invoice has come in four hundred pounds under what you owe. The arithmetic is theirs, not yours, and nobody there has noticed. You pay the figure, you file the paperwork, and you say nothing when the man rings about something else.
 facetLeastTitle: Beanron
-facetLeast: A child gives you a flower they picked, expecting nothing back. You take it as exactly that and feel no pull to find the catch.
-question: A stranger at the next table pays for your coffee before leaving and won't take thanks. You...
-answerMost: read the receipt, check the till, and try to work out the angle
-answerHigh: thank them once, briefly, and watch which direction they leave in
-answerMid: smile, nod, and let it sit a beat before you trust it
-answerLow: thank them properly and feel quietly pleased the rest of the morning
-answerLeast: tell the next table about it, glowing
-rorschachMost: a baited trap with the hook just showing
-rorschachHigh: a berry bush hiding one sharp thorn
-rorschachMid: a low shrub with a ragged crown
-rorschachLow: a mound of fruit spilling over freely
-rorschachLeast: a full basket held out, nothing tucked under
+facetLeast: You know what a rival bid because somebody let it slip in a car park. You come in eighty pounds under and win the work.
+question: You could take a small advantage that nobody would ever find out about. You...
+answerMost: declare it before anybody asks
+answerHigh: leave it, and sleep fine
+answerMid: leave it, and think about it a while
+answerLow: take it, and feel slightly odd
+answerLeast: take it, and it doesn't cross your mind again
+rorschachMost: every notch counted twice
+rorschachHigh: a ledger edge, nicked
+rorschachMid: a wax impression
+rorschachLow: a tally roughly kept
+rorschachLeast: a ledger with pages gone
 ---
 
 Pickled Navy Beans are the Bean Zodiac's most scrupulous. They declare the small thing nobody would ever have checked, and sleep well for it. The scruples can bog down a decision that wanted making. Taking the easy advantage once, quietly, is not a thing they will do.

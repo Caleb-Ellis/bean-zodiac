@@ -1,7 +1,6 @@
 ---
-# COMPLETELY NEEDS UPDATING — excess: grilling -> prying
 slug: bitter-boiled-green
-lastUpdated: 
+lastUpdated: 2026-08-04
 bean: green
 flavour: bitter
 form: boiled
@@ -17,32 +16,32 @@ antiTriple: umami-dried-butter
 antiBeans: [edamame, navy]
 antiForm: smoked
 seasonalFortune: "A season of green tea and open lids; the pot asks more questions than the kitchen answers."
-fortuneMost: There's a real question under the polite first one, and it's yours to ask.
+fortuneMost: Nose in everything, the coati often gets bitten.
 fortuneHigh: Go to the source, not the summary of it.
-fortuneMid: Let one open thread close before you pull another.
+fortuneMid: Finish one thread before pulling the next.
 fortuneLow: Take the bill as written.
-fortuneLeast: Land on a conclusion out loud, even a wrong one.
+fortuneLeast: Decide what it means and move on.
 facetMostTitle: Rear Beandow
-facetMost: Locked door at the back of the museum, no sign, everyone else drifting past it. You can't let it go — you have to know what's behind it, and the guard's already being asked.
+facetMost: At a party you get talking to a friend of a friend about an operation they have just had, and you have asked what it was for, and what it cost. There's a long pause between each answer. You ask a third question.
 facetHighTitle: The Bean Who Knew Too Much
-facetHigh: Out comes the guide's polished story of the ruined tower, and you wait for the seam in it. Then the question underneath — who was here before the version they put on the plaque?
+facetHigh: A coworker mentions they used to fly, offhand. Before the day is up you know the aircraft, the years, how it felt, and the reason they stopped.
 facetMidTitle: Curious Beans
-facetMid: A neighbour lets slip a brother nobody mentions, then hurries past it. Everything in the room wants to move on. You ask the one more thing it was all carefully steering around.
+facetMid: Being shown round the hospital where a friend works, you pass a ward nobody uses — lights off, beds under dust sheets, electronics on standby. Your friend keeps walking. At the end of the tour you ask what's up with that ward.
 facetLowTitle: Don't Look Bean
-facetLow: Bow taken, the magician keeps the trick to herself. Let the secret stay a secret — clap, and don't go hunting for the wire.
+facetLow: At the pub a friend brings up their sister's problems twice in an hour, and both times stops halfway through and changes the subject. You go with the changes, happy to talk about how good the chips are instead.
 facetLeastTitle: See No Bean, Hear No Bean
-facetLeast: Mid-tale, a friend lets the ending dangle, plainly on purpose. So you leave it dangling, turn the talk to something lighter, and sleep fine atop the part you were never told.
-question: In the sunlit makerspace, the person at the next bench is calmly soldering something that looks an awful lot like a small detonator. You...
-answerMost: lean over and don't stop asking until you've got the whole story
-answerHigh: open with the obvious question, then push toward the sharper one
-answerMid: ask what it's for and leave it at their answer
-answerLow: wonder about it privately and go back to your own work
-answerLeast: decide it's none of your business and look away
-rorschachMost: a shell coiling inward to a hollow at its centre
-rorschachHigh: an eye peering into a spiral opening
-rorschachMid: a round stone with a curled notch in it
-rorschachLow: a snail tucked back into its sealed shell
-rorschachLeast: a closed fist, the hollow folded shut inside
+facetLeast: Out at the front with the bins, a neighbour of nine years mentions for the first time that they did two tours in the army. You say oh, right, sounds tough, and ask whether they know why the collection dates keeps changing.
+question: At a coastal town pub, the barman mentions they were shut for almost a year "after all that nasty business", then ambles away. You...
+answerMost: hound him all night for an explanation
+answerHigh: ask him bluntly "what nasty business?"
+answerMid: leave it, and look the pub up online that night
+answerLow: get there's a story, but figure it's probably not that interesting
+answerLeast: do not care about what happened
+rorschachMost: an inspector
+rorschachHigh: a badger in a bin bag
+rorschachMid: a knobbly potato
+rorschachLow: a dust sheet over a chair
+rorschachLeast: rocks
 ---
 
 Infused Green Beans are the Bean Zodiac's most inquisitive. Twenty minutes in they know how your grandmother met your grandfather, because they asked the follow-up nobody asks. Occasionally it is one question too many and the table goes quiet. Not wanting to know is foreign.

@@ -1,5 +1,5 @@
 ---
-# COMPLETELY NEEDS UPDATING — excess: hyperaware -> suspicious, inverse: imperceptive -> undiscerning
+# TODO: tidy facets, redo fortunes, redo rorschachs
 slug: sour-fermented-black
 lastUpdated: 
 bean: black
@@ -17,32 +17,32 @@ antiTriple: spicy-fried-chickpea
 antiBeans: [adzuki, cannellini]
 antiForm: boiled
 seasonalFortune: "A season of jalapeño brine and quiet noticing: the pickle sees the kitchen better than it's seen."
-fortuneMost: You read it right months before anyone found the word for it. Let the verdict walk in without its dossier.
-fortuneHigh: Of everyone who can't see it yet, one already half-suspects. Bring your read to that one first.
-fortuneMid: A thing on the shelf got moved quietly out of reach. That small displacement said more than the whole speech.
-fortuneLow: Four months of footnotes is its own kind of blindness. Take the next exchange at face value.
-fortuneLeast: They meant it plainly. No second meaning, no vinegar under the surface.
+fortuneMost: Nothing moves in that canopy the harpy has not already priced.
+fortuneHigh: Bring your read to the one who already half-suspects.
+fortuneMid: A thing moved quietly out of reach said more than the speech.
+fortuneLow: Months of footnotes is its own kind of blindness.
+fortuneLeast: They meant it plainly, with nothing under it.
 facetMostTitle: The Beantrial
-facetMost: Two people across the platform say nothing, just stand close. The angle of them tells you which one is leaving and which is being left, and you'd bet the house on it.
+facetMost: The new man on the crew is friendly, punctual, good at the work and liked by everybody in the yard. You have been watching him for a fortnight, and you know precisely which part of what he says about himself is not true.
 facetHighTitle: The Beanmentalist
-facetHigh: The verdict's been clear to you for a while now. You'd rather sit on it until the others nearly arrive on their own than be the one who names it cold.
+facetHigh: One look at the coats over the back of the chairs when you walk in, and you know the two of them have had a row in the car on the way over.
 facetMidTitle: Miss Beanple
-facetMid: A host laughs at the right places and refills your glass, and some small wrongness keeps tugging — do you press it, or let the evening be easy.
+facetMid: You spot which of the four is lying about the paperwork within about a minute of them starting, and you say nothing about it yet.
 facetLowTitle: Inspector Beanget
-facetLow: A stranger says the directions plainly and you just follow them, no checking the face for a catch underneath.
+facetLow: Somebody tells you they are fine and you take it as read and think no more about it. It is a fortnight before you find out what had actually been going on with them all that time.
 facetLeastTitle: Spot the Bean
-facetLeast: A crowd roars at something and you roar with it. No reading the room first, no asking what's really moving underneath the noise.
-question: The old dog eats, greets you, wags — all of it a half-beat slower than last week, nothing you could point to on a vet's form. You...
-answerMost: trust the feeling, watch closely all day, and book the vet on the strength of it
-answerHigh: run through food, walks, and water, reading what's changed
-answerMid: note the slowness and keep half an eye on it this week
-answerLow: tell yourself it's just an old dog being old
-answerLeast: see a dog doing all its usual things and think no more of it
-rorschachMost: a storm cloud with three faint droplets flung clear
-rorschachHigh: a beetle, one stray leg caught against the dark
-rorschachMid: a thundercloud massing before the rain
-rorschachLow: a clenched fist with nothing slipping past it
-rorschachLeast: a single ink blot, no specks around it
+facetLeast: The man at the door has a clipboard and a good story about the guttering. You write him a cheque and give him a cup of tea.
+question: You come back into the kitchen and both your parents have stopped talking and are looking at the floor. You...
+answerMost: know exactly what it was, and who did what
+answerHigh: read enough of it off the room to be careful
+answerMid: pick up that something is off
+answerLow: notice nothing until somebody tells you
+answerLeast: believe the explanation you are given
+rorschachMost: one flaw, nothing else seen
+rorschachHigh: a nick in a gem
+rorschachMid: a dark bead, one speck
+rorschachLow: a stone, flaw missed
+rorschachLeast: glass sold as diamond
 ---
 
 Pickled Black Beans are the Bean Zodiac's most perceptive. They spotted that the couple had argued in the car from the way the coats were hung. Sometimes the reading finds a motive that was never there. Taking a room at its surface is a rest they never get.

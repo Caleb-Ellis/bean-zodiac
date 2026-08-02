@@ -1,5 +1,5 @@
 ---
-# COMPLETELY NEEDS UPDATING — trait, excess and inverse unchanged
+# TODO: tidy facets, redo fortunes, redo rorschachs
 slug: bitter-dried-adzuki
 lastUpdated: 
 bean: adzuki
@@ -17,32 +17,32 @@ antiTriple: sweet-roasted-chickpea
 antiBeans: [mung, butter]
 antiForm: boiled
 seasonalFortune: "A season of thin air and short lists: the jar keeps what earns the jar, nothing else."
-fortuneMost: A jar with only the peel that cured right is worth more than a full pantry.
+fortuneMost: Standing in one reed bed its whole life, the purple heron will not try another.
 fortuneHigh: There's a name on the list that's there from habit, not affection.
-fortuneMid: The good thing you've been saving for an occasion grand enough — none ever quite is.
+fortuneMid: The good thing you've been saving for an occasion grand enough - none ever quite is.
 fortuneLow: Say yes to the one you'd usually screen out.
 fortuneLeast: Cook the whole pot of sekihan and feed whoever turns up.
 facetMostTitle: Eyes Wide Bean
-facetMost: Out of everything that could go on the shelf, three earn the spot and the rest stay boxed for good.
+facetMost: The book club has crept up to eleven and half of them arrive having read the blurb. You draw up a shorter list of who is actually invited, send it round to five people, and let the rest find out when the evening happens without them.
 facetHighTitle: High Beanelity
-facetHigh: A row of new names wants something from you. You pick the two worth a real answer and let the rest wait.
+facetHigh: Forty lots go through the ring and the whole morning passes without your card once going up, because the heifer you came for is lot thirty-one.
 facetMidTitle: Sophie's Bean
-facetMid: Why commit to either club's first meeting now, when one of them will stop calling by month's end and settle it for you?
+facetMid: Two hours in the charity shop, everything on the rail at a pound, and you come out holding one shirt.
 facetLowTitle: Anything Beans
-facetLow: Wave them in — the person you met an hour ago, asking to tag along the rest of the night — a little before you've decided you trust them.
+facetLow: A stranger asks whether there is room on your quiz team, and nobody at the table has ever met him. You pull out a chair, write his name at the top of the answer sheet, and get him a drink.
 facetLeastTitle: Everything Everywhere All at Bean
-facetLeast: A whole crate is going cheap, more than you could use. You grab it and start handing pieces to everyone in reach, keeping no count.
-question: First day at the new school, the lunch hall loud, and a kid at a half-empty table waves you over mid-story to a crowd that isn't listening. You...
-answerMost: take a corner seat alone and keep your head down
-answerHigh: size them up a moment, decide they're not your people
-answerMid: drift to the end of their table without quite joining
-answerLow: sit down and let them pull you into it
-answerLeast: sit down and wave two more strays over too
-rorschachMost: one chestnut guarded in its spiked husk
-rorschachHigh: a wolf's head turned from a burr
-rorschachMid: a rock and a round seed pod
-rorschachLow: a bristling sun spilling rays everywhere
-rorschachLeast: a full burr scattering seeds in every direction
+facetLeast: Somebody has left a crate of unlabelled records out on the pavement by the bins. You take the lot home without looking through it. They get played in the order they came out of the crate.
+question: You have one spare ticket for the thing you love, and four people who would want it. You...
+answerMost: keep it and go alone rather than take the wrong company
+answerHigh: give it to the one person who will really get it
+answerMid: offer it to two of them and let them sort it out
+answerLow: put it in the group chat, first reply takes it
+answerLeast: give it to whoever you see first on the way out
+rorschachMost: one name on the list
+rorschachHigh: a rope across a door
+rorschachMid: a doorway and a queue
+rorschachLow: a rope hooked back
+rorschachLeast: a door with no keeper
 ---
 
 Desiccated Adzuki Beans are the Bean Zodiac's most selective. Four chairs, four people, every one of them chosen. Left alone the circle narrows a name at a time until it is mostly memories. They will never invite the whole floor to see what happens.

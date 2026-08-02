@@ -1,5 +1,5 @@
 ---
-# CHANGED SINCE THIS CONTENT WAS WRITTEN — excess: confessional -> tactless, inverse: dishonest -> evasive
+# TODO: tidy facets, redo rorschachs
 slug: sour-boiled-butter
 lastUpdated: 
 bean: butter
@@ -23,26 +23,26 @@ fortuneMid: The better moment isn't coming.
 fortuneLow: Wait a bit - the timing is off.
 fortuneLeast: The truth bends further than you'd think.
 facetMostTitle: Nothing But the Bean
-facetMost: Thirty minutes into a first date that's going well, they ask a question about your last relationship. There's a lot to get into, and giving them anything less than the whole story feels like lying.
+facetMost: Your friend's dog is on the table at the vet's and the options have all been laid out. The family turn to you. With the daughter stood right there, you say which one you would choose, and exactly why, with the reasons in order.
 facetHighTitle: To Tell the Bean
-facetHigh: A friend invited you to their birthday drinks weeks ago. You read it, meant to reply, never did — and now they're in front of you, a bit hurt and asking why you ghosted them. You could invent an excuse, but you tell them plainly you just forgot.
+facetHigh: The man on the next allotment asks what you make of his onions, which are poor, and he knows they are poor. You tell him what went wrong and what to do about it.
 facetMidTitle: Beanest Thief
-facetMid: Someone greets you by name and asks how you've been, but you've no idea who they are. You chat superficially for a minute or so, and if you still don't recall, just completely admit you don't remember them.
+facetMid: The man who spun you at the karting track comes over afterwards, all apologies, and you tell him it was his fault and shake his hand.
 facetLowTitle: The Artful Beandodger
-facetLow: An invite turns up for something you really don't fancy. "Sorry, I've already got plans" is a far easier answer for you to say than the truth — that you'd simply rather stay in.
+facetLow: The officer at the customs desk asks whether you packed the bag yourself. You say yes, and you do not mention the cheese.
 facetLeastTitle: Gone Bean
-facetLeast: You're not ill, you're just tired and don't want to deal with it today. The voice goes croaky for the phone call — something's been going round, stocked up on meds, might need a day or two. And you're not all that troubled by the lying.
-question: In the supermarker carpark, you reverse into a parked car, slowly but with enough force to leave a slight scuff along the door. Nobody is around to have seen it. You...
-answerMost: wait by the car until they come back, and apologise to them directly
-answerHigh: leave a note with your number, an apology, and a description of what happened
-answerMid: leave a note with your number, and a short "sorry"
-answerLow: have a proper look, notice the mark is barely visible, and go
-answerLeast: drive off before anyone notices
-rorschachMost: a robed priest
-rorschachHigh: a mannequin torso
-rorschachMid: modern art
-rorschachLow: a statue under a dust sheet
-rorschachLeast: a ventriloquist's dummy
+facetLeast: Out of the barber's with something you did not ask for, and he is holding the mirror up behind your head. You tell him it is exactly right. You tell him twice, and then you tip him.
+question: A friend shows you round the flat they've just put an offer on, and there's damp in two of the rooms. You...
+answerMost: Point at both patches and say what it'll cost
+answerHigh: Mention the damp before I say anything nice
+answerMid: Say the flat's lovely, then bring up the walls
+answerLow: Wait and see whether they raise it first
+answerLeast: Tell them it's perfect and hope it's cheap to fix
+rorschachMost: a plank, no varnish
+rorschachHigh: wood showing its grain
+rorschachMid: an upright dark post
+rorschachLow: a post part painted
+rorschachLeast: a veneer over knots
 ---
 
 Brined Butter Beans are the Bean Zodiac's most honest. Asked about the haircut they tell you, kindly and immediately, and you find you'd rather know. Sometimes the answer arrives where no answer was wanted. Softening it into something that dodges the question is not in them.

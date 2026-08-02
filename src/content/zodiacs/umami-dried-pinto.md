@@ -1,5 +1,5 @@
 ---
-# COMPLETELY NEEDS UPDATING — excess: overcomplicated -> overwrought
+# TODO: tidy facets, redo fortunes, redo rorschachs
 slug: umami-dried-pinto
 lastUpdated: 
 bean: pinto
@@ -17,32 +17,32 @@ antiTriple: sweet-fried-chickpea
 antiBeans: [kidney, butter]
 antiForm: boiled
 seasonalFortune: "A season of aged cotija and epazote — the flavour keeps opening onto further flavour."
-fortuneMost: Begin a few summers before the part that matters and let them arrive at the point on their own.
-fortuneHigh: Half the truth is in the order you lay it down — the year, the house, the falling-out, then the names.
-fortuneMid: From the doorway your shelf looks plain; the logic shows only to whoever steps right in. Pull them close before you explain.
+fortuneMost: Chamber inside chamber inside chamber, and the ammonite lives in the last one only.
+fortuneHigh: Half the truth is in the order you lay it down - the year, the house, the falling-out, then the names.
+fortuneMid: From the doorway your shelf looks plain; the logic shows only from inside.
 fortuneLow: Give the plain answer and skip the footnote.
-fortuneLeast: Some questions want the top line, not the strata beneath. Say "old friends" and move on.
+fortuneLeast: Some questions want the top line, not the strata. Say old friends and move on.
 facetMostTitle: The Fall of the House of Bean
-facetMost: First the vanished sea, then the mud turning to stone, then the slow press of years — only then the name. That's how you answer the child at the museum pointing at the fossil, the whole floor laid before the thing standing on it.
+facetMost: There is the version you tell and three more underneath it and all four are true, and somebody has asked a simple question, and by the end of your answer she has stopped trying to work out which part of it was the answer.
 facetHighTitle: Rashobean
-facetHigh: A hiking stranger asks how you ended up out here. You start three towns and one bad decision back, trusting them to follow the trail all the way to where you're both standing.
+facetHigh: That painting has another painting under it. The one underneath moves about. You take people to see it and say nothing at all while they look.
 facetMidTitle: Layer Beancake
-facetMid: The spice rack on your wall looks like chaos to a guest. Lean in, you tell them, and the order shows — arranged by a thread only you'd have thought to follow.
+facetMid: A recipe has been handed down and you have added the thing that makes it. You never say what that thing is when people ask.
 facetLowTitle: One Bean Samba
-facetLow: Someone asks how the trip was, half out the door already. You'd love to render it slow — instead you say it was good, leave it flat, and let them go.
+facetLow: A note has to go on the table for whoever gets in first. You write down where the key is, what is in the oven, and what time it went in.
 facetLeastTitle: Johnny One Bean
-facetLeast: A stranger on the next deckchair asks where you're from. One word, the plain one, and back to your book — no map, no history, nothing stirred up from the bottom.
-question: Sorting a box of old photos with someone who wasn't there for any of them. They pick one up and ask who's who. You...
-answerMost: start two summers before the photo and arrive at the names by the back of it
-answerHigh: place the year, the house, the falling-out that came after, then the names
-answerMid: name everyone, then say which one of them you still talk to
-answerLow: name the two that matter and skip the rest
-answerLeast: say "old friends" and reach for the next photo
-rorschachMost: a moth with banded wings spread in tiers
-rorschachHigh: a beetle's head above its ridged folded wings
-rorschachMid: a tree's broad canopy spreading over its trunk
-rorschachLow: a balloon on a string drifting near the floor
-rorschachLeast: a flat puddle with one ripple settling out
+facetLeast: A question has been put to you and there are four ways into it and every one would be worth the time. What you give is the flat version. It takes eleven seconds and closes the subject.
+question: How many versions of a thing are you carrying?
+answerMost: four, all true, and the answer's somewhere under them
+answerHigh: two, and the good one's underneath
+answerMid: one, with the rest findable
+answerLow: one
+answerLeast: one flat one
+rorschachMost: paint over paint over paint
+rorschachHigh: layers in a cliff face
+rorschachMid: sediment banded through
+rorschachLow: two coats, no more
+rorschachLeast: one flat colour
 ---
 
 Aged Pinto Beans are the Bean Zodiac's most layered. There is the version they tell, and underneath it three more, and every one of them is true. Sometimes it's built up so thick nothing comes through. Being one plain uncomplicated note is not on offer.

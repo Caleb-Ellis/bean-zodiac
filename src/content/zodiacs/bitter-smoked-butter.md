@@ -1,5 +1,5 @@
 ---
-# COMPLETELY NEEDS UPDATING — trait: adrift -> still, excess: unmoored -> inert, inverse: anchored -> restless
+# TODO: tidy facets, redo fortunes, redo rorschachs
 slug: bitter-smoked-butter
 lastUpdated: 
 bean: butter
@@ -17,32 +17,32 @@ antiTriple: spicy-fried-green
 antiBeans: [fava, pinto]
 antiForm: roasted
 seasonalFortune: "A season of cold smoke and unmoving air. Nothing here is in a hurry to arrive."
-fortuneMost: A long thought is towing you out toward the water.
+fortuneMost: Hold perfectly still long enough and, like the stick insect, you stop being looked for.
 fortuneHigh: Out walking, you'll see the long view nobody else slowed down enough to catch.
-fortuneMid: When your name comes a second time, surface and answer the whole of it.
+fortuneMid: A thing left alone for a while sorts more of itself than expected.
 fortuneLow: The thing in your hands has been asking for you while your head wandered off with it.
-fortuneLeast: A friend keeps trying to hand you a sentence and you keep slipping off before it lands.
+fortuneLeast: Get up and go somewhere for no reason at all.
 facetMostTitle: The Big Beansleep
-facetMost: A grocery list in your pocket, you stand in the aisle following the hum of the freezers somewhere else entirely, basket empty, in no hurry to come back.
+facetMost: Six hours on the canal bank and the float has not moved once. Neither have you. A man walking the towpath asks whether you have caught anything, and it takes you a moment to work out how to answer him at all.
 facetHighTitle: Still Bean
-facetHigh: Driving a route you've taken a thousand times, your mind wanders off down a side road of its own. You let the wheel take the familiar turns while you go elsewhere.
+facetHigh: A deer comes out of the bracken thirty feet off across the moor and has not seen you yet. You stay exactly as you are. You will stay that way until it wanders back into the bracken, however long that takes.
 facetMidTitle: The Bean Stands Still
-facetMid: Someone's mid-story and your attention has slipped its mooring. You haul it back and catch the last of it, just in time to laugh in the right place.
+facetMid: Nobody in the hospice room has said anything for twenty minutes and the woman in the bed is asleep. You sit where you are and let it stay quiet.
 facetLowTitle: Beansomnia
-facetLow: A ferry pulls out for an island you've never named a reason to visit. You stay on the dock, keys in hand, and drive home to the things expecting you.
+facetLow: Nothing to do but watch the sky until the birds come back, and you have swept the loft out twice already.
 facetLeastTitle: Born to Bean
-facetLeast: A daydream knocks while a pot is coming to the boil. You wave it off, watch the water, and follow the thought down once the lid's on and the timer's set.
-question: You sit down to write one email and look up an hour later. You...
-answerMost: cannot quite reconstruct where the hour went and do not mind
-answerHigh: notice the email is still blank and stay with the better thought
-answerMid: write half the email, drift, write the other half
-answerLow: finish the email and jot the lost thread on a sticky note
-answerLeast: send the email, archive the thread, start the next one
-rorschachMost: a jellyfish trailing loose through open water
-rorschachHigh: a kite let go in the wind
-rorschachMid: a cloud spreading wide over a hill
-rorschachLow: a manta ray holding against the current
-rorschachLeast: an anchor dug deep and holding in the silt
+facetLeast: Two hours into a five-hour drive and everybody else wants a proper stop at the services. You are back at the car with the engine running before the coffees have cooled.
+question: You've driven two hours for a hospital appointment and you're an hour early. You...
+answerMost: Sit in the car and let the hour go
+answerHigh: Find a bench and watch what's going on
+answerMid: Read something I've been meaning to read
+answerLow: Walk the block a few times to use it up
+answerLeast: Find an errand, any errand, to fill it
+rorschachMost: dust settled for years
+rorschachHigh: a room nobody enters
+rorschachMid: a plain dark slab
+rorschachLow: dust lifting a little
+rorschachLeast: a curtain never still
 ---
 
 Charcoal Butter Beans are the Bean Zodiac's most still. They can sit an hour without reaching for anything, and being near them slows your breathing without your consent. Sometimes the stillness lasts past when something needed doing. Fidgeting, pacing, needing to move — none of it visits them.

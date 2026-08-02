@@ -1,5 +1,5 @@
 ---
-# COMPLETELY NEEDS UPDATING — trait: defensive -> tested, excess: prickly -> hardened, inverse: carefree -> untried
+# TODO: tidy facets, redo fortunes, redo rorschachs
 slug: sour-fermented-kidney
 lastUpdated: 
 bean: kidney
@@ -17,32 +17,32 @@ antiTriple: bitter-smoked-chickpea
 antiBeans: [adzuki, pinto]
 antiForm: dried
 seasonalFortune: "A season of mustard seed and old scars — the brine has survived this exact winter before."
-fortuneMost: '"No, thanks" is a whole sentence.'
+fortuneMost: Every scar on the boar is somewhere it decided not to run.
 fortuneHigh: A word given while you're still guarded is the one you walk back alone later.
 fortuneMid: The porch held long enough; let them as far as the hallway now.
-fortuneLow: You've polished "maybe" for so long they've already filed it as no.
+fortuneLow: You've polished maybe for so long they've already filed it as no.
 fortuneLeast: A fortress this well-defended has started eating its own rations.
 facetMostTitle: Beanscarface
-facetMost: A neighbour you barely know wants the gate code so deliveries can sit in your yard. The no forms before they've finished asking, and you don't feel you owe the long version of why.
+facetMost: A young one on the crew has made the exact mistake you made at that age and is waiting to hear the thing is survivable, and you tell him what it cost you and then what it will cost him, in order, until he stops asking.
 facetHighTitle: Trial by Bean
-facetHigh: A traveller at your fence asks for a bed for the night. You'd sooner offer the porch and a named hour to be gone than throw the whole house open on a stranger's word.
+facetHigh: The first-aid course reaches the dummy on the floor. The room goes quiet. You kneel and start compressions, because you have done this on a person.
 facetMidTitle: Beanplatoon
-facetMid: Someone new has been good company three times running and stands at the edge of the real circle. Do you wave them in past the polite wall, or make them earn one more round first.
+facetMid: Your shop went under four years ago and somebody at the table is three months into opening one. You tell her the two months that broke you, in order, and she writes them down.
 facetLowTitle: The Beanrookie
-facetLow: A near-stranger admires the coat off your back, and you hand it over on the spot. No deposit, no when-will-I-see-it-back, just gone.
+facetLow: Sea swimming in a group, and one of them wants to know your worst day in the water. You admit to a couple, and ask what her longest swim is.
 facetLeastTitle: Fresh Beans
-facetLeast: Out on a long road trip, someone you just met asks to share the driving. You toss them the keys without a flicker and doze off in the passenger seat.
-question: A new app's sign-up wants your whole life to "personalise" it, and one field asks something you've never typed anywhere. You...
-answerMost: leave it blank and dare the form to make it required
-answerHigh: enter the bare minimum and nothing it didn't earn
-answerMid: fill it in plainly but volunteer not one extra field
-answerLow: complete it, then second-guess having done so
-answerLeast: pour the whole thing in, oddly relieved to set it down
-rorschachMost: a closed fist guarding a bursting one
-rorschachHigh: a smooth rock shielding a cracking one
-rorschachMid: one cloud calm, the other breaking apart
-rorschachLow: a shell beside its scattered, opened halves
-rorschachLeast: two seedheads loosing all their seeds at once
+facetLeast: A foster placement is being described to you and it is the hardest one they have got. You agree to it before the woman has finished. You ask nothing about the last house, or what went wrong there.
+question: Somebody twenty years younger is about to make a decision you got badly wrong at their age. You...
+answerMost: tell them exactly what it did to you, all of it
+answerHigh: tell them what happened and let them weigh it
+answerMid: mention you tried that once, and leave it there
+answerLow: keep it to yourself and wish them well
+answerLeast: tell them it sounds like a good idea
+rorschachMost: a stone scoured hollow
+rorschachHigh: a scarred hide
+rorschachMid: two rocks, one pitted
+rorschachLow: an unplaned plank
+rorschachLeast: a blade never used
 ---
 
 Pickled Kidney Beans are the Bean Zodiac's most tested. They had the bad year and came out with something usable, which is why people bring them the worst news first. The scar tissue sometimes goes right through. Approaching anything with no history attached is a lightness they've lost.

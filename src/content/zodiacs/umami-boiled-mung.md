@@ -1,5 +1,5 @@
 ---
-# CHANGED SINCE THIS CONTENT WAS WRITTEN — trait: quiet -> replenishing, excess: mute -> self-depleting, inverse: boisterous -> draining
+# TODO: tidy facets, redo rorschachs
 slug: umami-boiled-mung
 lastUpdated: 
 bean: mung
@@ -23,26 +23,26 @@ fortuneMid: Bells are made to be rung — but not at every passing.
 fortuneLow: A sudden noise does not break the silence; it only reveals how thin it was.
 fortuneLeast: Songs cannot be sung from a closed mouth.
 facetMostTitle: The Giving Beantree
-facetMost: At the airport, another traveller recognises you — turns out she was someone you went to school with years ago. She lights up and asks what you've been up to. You keep it to a few words — you don't really know her after all.
+facetMost: Four hours on the phone and she is in a better state than when she rang. It is quarter to one and you are up at seven, and you have not said a word about your own week.
 facetHighTitle: Chicken Soup for the Beansoul
-facetHigh: At the reunion the whole table talks at once, everyone topping the last story with a louder one. You stay quiet, nursing your drink, asking the odd question to keep the others going.
+facetHigh: Somebody at the bar has started on the thing that is actually wrong rather than the thing they came in talking about, and you turn on your stool and give them the whole of your attention for as long as it takes them to get there.
 facetMidTitle: Cool Beanwater
-facetMid: It's four hours to the festival, and you're sharing a car with three friends. The others are joking around, telling stories and singing along to everything on the radio. You're content at the window, chiming in only when there's something worth adding.
+facetMid: Eleven people at your table and it has gone well. You sit down for the first time. You let somebody else pour.
 facetLowTitle: Interview with the Beanpire
-facetLow: In the back of a cab you start up a conversation with the driver. By the time you pull up you've covered the weather, work, where you're both from, local politics, and how his kids are doing.
+facetLow: A friend has been taking for about a year and is on the doorstep again with the same thing. You tell her you have not got it in you.
 facetLeastTitle: Nosferbeanu
-facetLeast: A lull settles over the conversation. You cannot leave it be, filling it with a story or a question or just a random fact — anything to keep the silence away.
-question: How do people know you've arrived at a party?
-answerMost: they don't — they spot you later, settled in a corner somewhere
-answerHigh: you slink over to a group you recognise — only they'll know
-answerMid: you give a quick hello around the room
-answerLow: you make the rounds, a few warm words for most people there
-answerLeast: everyone hears you the moment you open the door
-rorschachMost: a seated monk
-rorschachHigh: a stone lantern
-rorschachMid: a stationary chess pawn
-rorschachLow: an ornate hand bell
-rorschachLeast: a brilliant fountain
+facetLeast: The evening has been about somebody else's promotion and their house, and you asked all the questions and did not mention the letter that came, and you will not raise it next time either.
+question: How do people leave an evening with you?
+answerMost: better than they came, and you're flat as a pancake
+answerHigh: carrying more than they arrived with
+answerMid: easier, and so are you
+answerLow: having heard as much from you as you from them
+answerLeast: having done most of the talking, again
+rorschachMost: a jug poured out entirely
+rorschachHigh: a jug and a bowl
+rorschachMid: a vessel and its measure
+rorschachLow: a jug set upright
+rorschachLeast: a cracked bowl
 ---
 
 Dashi Mung Beans are the Bean Zodiac's most replenishing. People come out of a conversation with them holding more than they went in with. Sometimes the giving runs the well right down. Taking something for themselves from an evening they rarely think to do.

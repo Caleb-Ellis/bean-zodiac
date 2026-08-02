@@ -1,5 +1,5 @@
 ---
-# COMPLETELY NEEDS UPDATING — excess: rampant -> riotous, inverse: curbed -> checked
+# TODO: tidy facets, redo fortunes, redo rorschachs
 slug: spicy-smoked-fava
 lastUpdated: 
 bean: fava
@@ -17,32 +17,32 @@ antiTriple: sweet-boiled-navy
 antiBeans: [mung, kidney]
 antiForm: roasted
 seasonalFortune: "A season of oak smoke and slipped reins — the fire goes wherever the wind allows."
-fortuneMost: Book it before you check the calendar.
+fortuneMost: You booked it before you checked anything, and the calendar will have to cope.
 fortuneHigh: The wise voice says go home and you're owed one more.
 fortuneMid: The fire only needs somewhere to go.
 fortuneLow: There's a gate you kicked open, still swinging on its hinge.
-fortuneLeast: Keep to what the week allows and don't ask it for more.
+fortuneLeast: A wild stallion that comes to the fence is not thereby broken.
 facetMostTitle: Beanriot
-facetMost: One arm of the fork wears a ROAD CLOSED sign — and you're already down it, foot to the floor, before the thought of turning back can form.
+facetMost: Four hours the music has been going and you have not sat down for any of it. Two of them have gone home. Shirt off, somebody's hat on, and you are organising a conga through a house that is not yours and whose owner you have not met.
 facetHighTitle: Beanno Holds Barred
-facetHigh: Something a busker is playing reaches right into you, and the errand you were on falls away as you start dancing in the square while strangers stare.
+facetHigh: A goal goes in at the far end and the whole row goes up together. You are over the seat in front, hugging a man you have never met, and you have lost a shoe.
 facetMidTitle: Off the Beanleash
-facetMid: A market stall has a coat that's exactly right and a price that isn't quite. You hand over the cash on the spot, no envelope, no sleeping on it.
+facetMid: A garden, a hosepipe and four children wanting a water fight, and you take the hose and are wetter than any of them inside a minute.
 facetLowTitle: Held in Beancheck
-facetLow: Everything on the rolling dessert cart is calling your name as it passes — and you let it roll right by, holding to the plan you made walking in while the wanting tugs.
+facetLow: Your song comes on and the floor is filling up. You stay at the table and tap the glass a bit.
 facetLeastTitle: Reined In, Bean
-facetLeast: There's an open invitation to a road trip pulling out within the hour, no end date. You check the calendar, count what's owed, and wave the van off without you.
-question: A friend dares you to text your ex at midnight. You...
-answerMost: hit send before they finish the sentence
-answerHigh: type it out, laugh, and let the cursor blink for a beat
-answerMid: draft something and save it without sending
-answerLow: tell them no and change the subject
-answerLeast: hand over your phone for the night just in case
-rorschachMost: a horse mid-gallop, mane and tail streaming
-rorschachHigh: a comet dragging its long bright tail
-rorschachMid: a shaggy dog shaking water off its coat
-rorschachLow: a goat standing still at a short tether
-rorschachLeast: a bundle of hay bound tight with twine
+facetLeast: You feel the laugh coming and it is going to be a loud one, in a room where it will carry. You get the whole thing down to a breath through the nose. Nobody near you knows anything happened, and you keep the rest in all evening.
+question: Your song comes on and the dance floor is filling up. You...
+answerMost: Am on it, shoes off, before anyone else
+answerHigh: Get up and give it everything
+answerMid: Get up for that one
+answerLow: Tap the table and stay put
+answerLeast: Go outside until it's finished
+rorschachMost: a boulder already rolling
+rorschachHigh: a bull in a field
+rorschachMid: a slab of rock
+rorschachLow: a brick in a wall
+rorschachLeast: a millstone at rest
 ---
 
 Chipotle Fava Beans are the Bean Zodiac's most unbridled. When they are in, they are all the way in, and the night goes somewhere nobody planned for. Sometimes it goes further than anybody could hold. Keeping something within sensible limits is not how they participate.

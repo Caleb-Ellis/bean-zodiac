@@ -1,5 +1,5 @@
 ---
-# COMPLETELY NEEDS UPDATING — inverse: fallible -> erratic
+# TODO: tidy facets, redo fortunes, redo rorschachs
 slug: spicy-dried-cannellini
 lastUpdated: 
 bean: cannellini
@@ -17,32 +17,32 @@ antiTriple: umami-roasted-adzuki
 antiBeans: [chickpea, kidney]
 antiForm: fried
 seasonalFortune: "A season of dried garlic and exact aim: the peperoncino lands where it was meant to."
-fortuneMost: You'll see the real problem before anyone's finished explaining it.
+fortuneMost: "Never missing has its price: the gyrfalcon has never learned to be wrong."
 fortuneHigh: Name the two that matter and let the rest stand.
-fortuneMid: Go over it once more before it leaves your hands.
+fortuneMid: You saw the real problem before the explaining was done.
 fortuneLow: Ship it rough.
-fortuneLeast: Three little asks don't each need an exact answer back.
+fortuneLeast: Three small asks do not each need an exact answer.
 facetMostTitle: Mr. Beanperfect
-facetMost: A friend reads aloud a line from the contract they're about to sign. One clause is doing quiet damage, and you stop them before they reach the end of the sentence.
+facetMost: Eleven years tuning the piano in that hall and not once has anybody rung you back. Somebody suggests the humidity may have moved the thing. You say the humidity did not move it, you are not joking, and you are right about that.
 facetHighTitle: Beanbullseye
-facetHigh: Round it up and call it even, the table decides, splitting the bill. But you've already worked out who actually owes what, and the real numbers are on your tongue.
+facetHigh: Twelve penalties in the rain and twelve in the same corner of the net. You put the thirteenth in there too.
 facetMidTitle: Beanannie Get Your Gun
-facetMid: The dish you've made a hundred times comes out subtly wrong tonight. One taste — it's the stock, not the salt. You reach to fix exactly that and nothing else.
+facetMid: Asked what the afternoon will do, you look at the sky over the ridge and say rain by four, and it rains at four.
 facetLowTitle: Wild Beanpitch
-facetLow: How do you keep track of it all, someone asks. There's no system to point to; you know where things are by the feel of the place, and you'd leave it that way.
+facetLow: The bearing you took at the last control was a good one and this leg has gone wrong somewhere. You are two fields out and you cannot say when it happened.
 facetLeastTitle: Beanmisfire
-facetLeast: Three small favours, all at once, from someone you just met. None gets an exact answer — you wave them through and don't keep a tally.
-question: Building the bookshelf into the alcove, the printed cut-list and your own measurements no longer agree, and the timber's already on the saw. You...
-answerMost: measure the alcove three ways yourself and trust your own numbers over the sheet
-answerHigh: check the plan against the one wall you know is square, then commit
-answerMid: cut to the printed sizes but keep the tape close
-answerLow: follow the cut-list and hope it was drawn up right
-answerLeast: eyeball it, cut long, and trim to fit later
-rorschachMost: a partial solar eclipse
-rorschachHigh: a gear and a socket
-rorschachMid: a whale's open jaw upon a school of fish
-rorschachLow: two heads turned away, droplets scattering between
-rorschachLeast: a cloth and a big mess
+facetLeast: Six knives and the board, and the first three go where they should. The fourth goes wide by a foot, you have no idea why, and you throw the fifth anyway.
+question: You've said the beam will hold and the builder says it won't. You...
+answerMost: Know I haven't, and wait to be proved right
+answerHigh: Check it once and stand by it
+answerMid: Take another look properly
+answerLow: Assume they're probably right
+answerLeast: Have no idea whether I was right or not
+rorschachMost: a struck bell, one crack
+rorschachHigh: a walnut split clean
+rorschachMid: a fissured cliff
+rorschachLow: a cracked plate
+rorschachLeast: a shattered windscreen
 ---
 
 Sichuan Cannellini Beans are the Bean Zodiac's most unerring. They pick the right supplier, the right week, the right wording, and afterwards it all looks obvious. Being right that often makes correction hard to hear. Guessing and adjusting as they go isn't how they operate.

@@ -1,5 +1,5 @@
 ---
-# COMPLETELY NEEDS UPDATING — trait: acrid -> knowing, excess: caustic -> insinuating, inverse: fragrant -> unwitting
+# TODO: tidy facets, redo fortunes, redo rorschachs
 slug: sour-smoked-adzuki
 lastUpdated: 
 bean: adzuki
@@ -17,32 +17,32 @@ antiTriple: sweet-roasted-kidney
 antiBeans: [edamame, navy]
 antiForm: fried
 seasonalFortune: "A season of cherry smoke and ume — the cure knew before the kitchen was told."
-fortuneMost: The flaw reaches the room before you do, the way smoke arrives ahead of the fire.
-fortuneHigh: Skip the smoothed sentence. It never helped anyone yet.
-fortuneMid: The blunt apology is still an apology.
-fortuneLow: Watch whose shoulders drop when you fold the rough remark away one turn longer.
-fortuneLeast: An off smell in the air — and for once someone else's nose finds it before yours.
+fortuneMost: Repeating what it heard through the wall, the grey parrot knows exactly when to.
+fortuneHigh: Say the thing you know outright, not sideways.
+fortuneMid: You let them see that you knew, and left it there.
+fortuneLow: Not everything you worked out needs to be shown.
+fortuneLeast: Be told something you already knew and look pleased.
 facetMostTitle: Just Beansaying
-facetMost: A friend models the outfit they're wearing to the interview and waits for a yes. It doesn't work, and you say so before they reach for the mirror.
+facetMost: By now you know precisely who has been putting shop-bought jam into the competition jar, and so does the woman on the next table, and neither of you has said a word about it. You do not say it now. You ask, loudly enough to carry, how the judging works this year.
 facetHighTitle: I Know What You Did Last Beanmer
-facetHigh: Everyone is calling the new hire a great fit. You've watched them for a week, and the doubt goes on the table before the praise can close over it.
+facetHigh: Ringside at the dog show you can see which handler is about to be pulled up, a good minute before the steward notices anything. You say so, quietly, to the man beside you, and then it happens.
 facetMidTitle: Nudge Nudge, Bean
-facetMid: Asked how the trip went, you give the honest two days — the lost booking, the cold rental — without rounding it up to fine.
+facetMid: The supervisor wants to know whether anyone has noticed anything odd in the night shift numbers. You say that you have, and leave it there.
 facetLowTitle: The Last to Bean
-facetLow: The correction is right there on your tongue and the person's already had a rough morning. You let the small wrong fact stand and pour them something instead.
+facetLow: Two rows back, somebody has been narrating what is about to happen for the whole film, and it is only at the end that you work out they had seen it before.
 facetLeastTitle: No Idea, Bean
-facetLeast: A meal lands flat and there's a clear reason why. Let someone else be the one to point at it — you'll hold your tongue and see who speaks first.
-question: The reunion slideshow plays the old class photo blown up large, carefully cropped — and the person cropped out is one the whole room remembers. You...
-answerMost: name the missing classmate, by name, when the mic comes round
-answerHigh: mention them in a sentence the room can hear and do with as it likes
-answerMid: catch one old friend's eye and the look does the saying
-answerLow: leave it alone tonight and bring it up to one person later
-answerLeast: talk about the photo as if the crop were the whole class
-rorschachMost: two hornets' nests fused, holes still open
-rorschachHigh: a scorched skull with sockets burned through
-rorschachMid: two river stones touching, pocked with holes
-rorschachLow: two loaves cooling side by side
-rorschachLeast: a sleeping cat curled against its own warmth
+facetLeast: A man at the scrapyard offers you a decent price for the engine you brought in. You take it, pleased with yourself.
+question: A couple you know have gone very quiet with each other over dinner. You...
+answerMost: say something pointed enough that they both know you know
+answerHigh: get one of them on their own afterwards and ask
+answerMid: notice, and say nothing to anybody
+answerLow: assume they are tired and let it go
+answerLeast: hear weeks later that they had split up that evening
+rorschachMost: an eye at a keyhole
+rorschachHigh: a lid raised an inch
+rorschachMid: a slit in a shutter
+rorschachLow: a shutter latched
+rorschachLeast: a bricked-up window
 ---
 
 Cured Adzuki Beans are the Bean Zodiac's most knowing. One look across the table tells you they had worked the whole situation out before you said a word. Sometimes the look does the accusing. Being straightforwardly unaware of something is a state they haven't visited in years.

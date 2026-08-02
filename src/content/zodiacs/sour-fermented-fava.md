@@ -1,5 +1,5 @@
 ---
-# COMPLETELY NEEDS UPDATING — excess: obstructionist -> perverse
+# TODO: tidy facets, redo fortunes, redo rorschachs
 slug: sour-fermented-fava
 lastUpdated: 
 bean: fava
@@ -17,32 +17,32 @@ antiTriple: umami-boiled-navy
 antiBeans: [cannellini, black]
 antiForm: dried
 seasonalFortune: "A season of coriander seed and refusal — the pickle sours against whatever the kitchen prefers."
-fortuneMost: Everyone is sprinting past the thing only you caught.
-fortuneHigh: A counter-case ferments better for surviving the pause.
+fortuneMost: Everyone is sprinting past the thing only you caught, and you will say so alone.
+fortuneHigh: Go at it the way a crab does, sideways, and get there anyway.
 fortuneMid: Hold the position into the second round and a second voice joins you by the third.
-fortuneLow: The split as offered is close enough, and the principle you're guarding is loose change and pride.
-fortuneLeast: The dissent rising in your mouth is muscle memory, not conviction.
+fortuneLow: The split as offered is close enough, and the principle is loose change and pride.
+fortuneLeast: That dissent rising in your mouth is muscle memory, not conviction.
 facetMostTitle: The Beanvil's Advocate
-facetMost: The whole stadium's chanting one name and the sound wants to pull you in. Some flint in you digs its heels in exactly because everyone else has stood up.
+facetMost: The vote is going through unopposed and you agree with it, more or less, and your hand goes up against. Asked afterwards why, you give a reason you thought of on the way home, and you would do exactly the same again next time.
 facetHighTitle: Bartleby the Beanscrivener
-facetHigh: A tour guide states the famous fact and the group nods it down. The half-buried exception surfaces in you, and you'd rather raise it than let the tidy version stand.
+facetHigh: Everybody at the book group has decided the novel is a masterpiece and the evening is nearly done. You set out the case against, and you set it out well enough that two of them go quiet.
 facetMidTitle: Against the Bean
-facetMid: You said the unpopular thing an hour ago and the group sailed past it. Now a doubt is circling back your way — do you hold the line, or wave it off as not worth the friction.
+facetMid: In a room where everybody lands on the same view inside four minutes, you find the thing nobody has said.
 facetLowTitle: The Beanconformist
-facetLow: Someone else picks the restaurant, the table, the hour. The reflex objection climbs up on cue and, this time, you just let it go quiet and follow them in.
+facetLow: Your family have settled on the caravan again and you would rather do almost anything else, so you call it a good idea and book the fortnight off.
 facetLeastTitle: The Beanstepford Wives
-facetLeast: A petition comes round and the cause is decent enough. You add your name with the rest instead of arguing the one clause that isn't perfect.
-question: The whole stadium leaps up for the home team's last-second winner, and something in you just won't rise with it. You...
-answerMost: stay in your seat, hands still, and let the stillness show
-answerHigh: clap once, slow, with a look that asks why everyone's so sure
-answerMid: applaud lightly but keep your own face out of it
-answerLow: get up a beat late, carried by the crowd
-answerLeast: jump up roaring and out-cheer the lot of them
-rorschachMost: a curled hedgehog with one spine jabbing outward
-rorschachHigh: a potato with a single sprout shooting sideways
-rorschachMid: a round stone with a small spur off one edge
-rorschachLow: a sleeping bird with its bill tucked in
-rorschachLeast: a plain egg, every bump rubbed smooth
+facetLeast: Everybody has the same coat this year and you thought it looked ridiculous from the first one, and you have got one now. You wear the thing to the same places as everybody else, and you are perfectly comfortable in it.
+question: A room agrees on something inside four minutes. What do you do?
+answerMost: Argue against it, whatever it is
+answerHigh: Say the thing nobody's said
+answerMid: Ask whether we've missed anything
+answerLow: Go along with it
+answerLeast: Feel relieved it was settled so quickly
+rorschachMost: a horn curling backwards
+rorschachHigh: a cockerel's comb, up
+rorschachMid: a thistle by a gate
+rorschachLow: a weathercock swung round
+rorschachLeast: a row of matching palings
 ---
 
 Pickled Fava Beans are the Bean Zodiac's most contrarian. They take the unpopular side because nobody had, and the argument is better for the hour they cost it. Sometimes the side taken is indefensible and taken anyway. Agreeing with the room, unprompted, they find almost physically difficult.

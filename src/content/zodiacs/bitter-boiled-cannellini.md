@@ -1,5 +1,5 @@
 ---
-# COMPLETELY NEEDS UPDATING — trait: discerning -> judicious, excess: hairsplitting -> overcautious, inverse: undiscriminating -> rash
+# TODO: tidy facets, redo fortunes, redo rorschachs
 slug: bitter-boiled-cannellini
 lastUpdated: 
 bean: cannellini
@@ -17,32 +17,32 @@ antiTriple: sweet-roasted-chickpea
 antiBeans: [green, adzuki]
 antiForm: fried
 seasonalFortune: "A season of clear broth and careful salt; the pot decides late, and decides once."
-fortuneMost: The thing you've been politely turning over deserves your no.
-fortuneHigh: Keep only what you'd choose again.
-fortuneMid: Some things never earn a yes and you know which.
-fortuneLow: Not every bowl needs a second change of water.
-fortuneLeast: Keep the ugly mug, the twenty pens, every last bowl.
+fortuneMost: Waiting for the certain kill, the eagle owl sometimes finds the wood gone quiet.
+fortuneHigh: Sleep on it once; that is all it needs.
+fortuneMid: Good judgement is mostly knowing which things deserve the time.
+fortuneLow: Decide the small one at the counter and move on.
+fortuneLeast: Whoever jumps first sometimes gets the whole of it.
 facetMostTitle: Waiting for Beandot
-facetMost: A whole orchard of plums hangs ripe and the bowl holds six. You walk the rows a long while, taking only the ones that pass the thumb.
+facetMost: Every measure you have taken says the bridge passes, and the report writes itself. You take the measurements again. Then a third time, from the other bank, while the crew stand about in the wind at the far end of the deck.
 facetHighTitle: 12 Angry Beans
-facetHigh: The river guide reads back five tour options in one breath and waits. You ask her to slow down and run only the two that sound real.
+facetHigh: A basket of mushrooms and one in it that might be a blusher and might not be. You put that one aside and eat all the rest of them.
 facetMidTitle: To Kill a Beaningbird
-facetMid: A playlist someone swears by starts up at the wheel on a long drive. A couple of tracks in, your hand drifts toward the skip.
+facetMid: Bidding at the house auction goes past the number you wrote down beforehand, and you sit on your hands and let the lot go to somebody in the second row.
 facetLowTitle: Rebel Without a Bean
-facetLow: The market's last hour, everything half price, crates of it. Why weigh each one — sweep an armful of whatever's nearest into the bag and go.
+facetLow: Flames come up out of the chip pan and the tea towel is on them before any of it has been thought about, and so are both your hands.
 facetLeastTitle: Thelma & Beanise
-facetLeast: A neighbour clearing out presses things on you across the fence — a clock, a cracked vase, a coat two sizes off. Each one delights you and into your arms it goes.
-question: Alone on a hillside in mushroom season, basket out, a cluster you half-recognize at your feet. You...
-answerMost: leave all but the one you can name to the spore
-answerHigh: take only the few you'd stake a meal on
-answerMid: pocket the sure ones, photograph the rest to check
-answerLow: gather the lot and sort it at home
-answerLeast: fill the basket and fry up whatever's in it
-rorschachMost: two walnuts, one sound and one damaged
-rorschachHigh: two clams, one clean and one full of grit
-rorschachMid: two clods of earth side by side
-rorschachLow: two cabbages crowded in one crate
-rorschachLeast: a heap of apples, some bruised and some not
+facetLeast: Slip road, a gap that is not really a gap, and a lorry coming up on the inside. You go anyway, and you make it with a bit to spare.
+question: You've a big decision to make and just enough information to go either way. You...
+answerMost: Wait for information that isn't coming
+answerHigh: Sleep on it once, then decide
+answerMid: Weigh it up over an evening
+answerLow: Go with instinct and check afterwards
+answerLeast: Decide before I've finished reading
+rorschachMost: two stone scale pans
+rorschachHigh: an oyster, both halves
+rorschachMid: two islands, a strait between
+rorschachLow: a boulder and its chip
+rorschachLeast: a smashed pot, two shards
 ---
 
 Infused Cannellini Beans are the Bean Zodiac's most judicious. Ask whether to take the job and you get the real answer, slowly, strongest objection first. The weighing can outlast the offer. Flipping a coin and living happily with either side is unimaginable.

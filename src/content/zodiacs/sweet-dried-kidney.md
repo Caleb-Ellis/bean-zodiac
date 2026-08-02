@@ -1,5 +1,5 @@
 ---
-# CHANGED SINCE THIS CONTENT WAS WRITTEN — inverse: contemptuous -> unloving
+# TODO: tidy facets, redo rorschachs
 slug: sweet-dried-kidney
 lastUpdated:
 bean: kidney
@@ -23,26 +23,26 @@ fortuneMid: One kept ticket stub outlasts the trip.
 fortuneLow: Allow yourself the private quiet.
 fortuneLeast: File the small slight under the running list and don't rush to write it off.
 facetMostTitle: Cult of Beanality
-facetMost: Your new neighbour helps carry a box up your stairs, and from that point on they can do no wrong in your eyes.
+facetMost: The teacher who got you through has retired and you have found an address for him. What goes in the envelope runs to four pages and calls him the reason for all of it.
 facetHighTitle: Can't Take My Beans Off You
-facetHigh: Someone you've just started seeing let slip, once, the exact sweet their grandmother used to make when they were small. Weeks later you're on their doorstep with a tin of it, delighted, certain they'll light up.
+facetHigh: Somebody you love sings around the house, badly, and a friend catches your eye about it, and you tell him she has always sung and you would not have the house without it.
 facetMidTitle: Devoted to Bean
-facetMid: At the crosswalk, a stranger's dog leans its whole weight against your leg. In that moment, in your heart of hearts, you believe it's the greatest dog to have ever lived.
+facetMid: A friend's short story has come through and the middle of it is flat. You read the ending twice. You tell four people about the ending and you do not mention the middle to anybody.
 facetLowTitle: You've Lost That Lovin' Beaning
-facetLow: Your oldest friend drives through the night to be at the hospital before you wake. You secretly wish they didn't make such a fuss.
+facetLow: Your grandmother's pastry has come up over the meal and everybody at the table is agreed about how good it was, and two of them are going a fair distance. You agree it was good, and mention that she used a lot of lard.
 facetLeastTitle: The Cold Beanoulder
-facetLeast: At the wedding, the guests are all misty-eyed as the father of the bride gives a speech about his daughter, how perfect she is. You can't help but think that he's laying it on a bit thick.
-question: An old photo of your first love surfaces in your feed, the two of you looking goofy some evening years ago. You...
-answerMost: feel the old ache, quietly sure no one since has measured up
-answerHigh: smile as the warmth of who they were floods back
-answerMid: linger a moment, glad, then scroll on
-answerLow: barely register it — that was a lifetime ago
-answerLeast: recall exactly why it ended and feel nothing at all
-rorschachMost: a child on tiptoe, arms up to be lifted
-rorschachHigh: a couple of yarns of wool
-rorschachMid: a rock and a crab
-rorschachLow: a skull and ribcage
-rorschachLeast: a gargoyle statue
+facetLeast: The manager you have defended nine years has bought badly again, and asked whether you are still with him you admit you were never that keen.
+question: How do you talk about the people you love when they're not in the room?
+answerMost: at length, and they'd blush at every word of it
+answerHigh: warmly, and you'll find a reason to bring them up
+answerMid: well, with one thing they get wrong
+answerLow: fairly, good and bad in the same breath
+answerLeast: the faults first, because that's the truer half
+rorschachMost: someone kneeling to a lamp
+rorschachHigh: an altar and its candle
+rorschachMid: a shelf above a stool
+rorschachLow: a candle not yet lit
+rorschachLeast: an empty niche
 ---
 
 Crystallised Kidney Beans are the Bean Zodiac's most adoring. They speak about their people in a way that would embarrass those people, and they mean every word. Sometimes the pedestal makes an ordinary person unreachable. Seeing a loved one's flaws plainly takes them years.

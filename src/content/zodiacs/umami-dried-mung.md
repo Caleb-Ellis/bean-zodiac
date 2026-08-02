@@ -1,5 +1,5 @@
 ---
-# CHANGED SINCE THIS CONTENT WAS WRITTEN — excess: self-forsaking -> enabling
+# TODO: tidy facets, redo rorschachs
 slug: umami-dried-mung
 lastUpdated: 
 bean: mung
@@ -23,26 +23,26 @@ fortuneMid: Turmeric steeped since dawn, soft and gold.
 fortuneLow: Comfort and cure are not the same.
 fortuneLeast: An empty bucket cannot pour.
 facetMostTitle: Beanmisery
-facetMost: A friend has just given birth to their first child - they thought they were prepared, but it's clearly taking a toll on them. You're over there as a helping hand whenever they ask, your own life, plans and career be damned.
+facetMost: It is the fourth time you have got him back on his feet after the same thing, and the bed is made up again.
 facetHighTitle: Patch Beanadams
-facetHigh: Your cousin, who's staying with you, works the graveyard shift at the hospital. You always make sure there's a hot meal waiting for them when they get home.
+facetHigh: Two of them arrive barely speaking to each other. There has been a long walk and a proper meal by the second evening. Something has come unstuck by the time they go.
 facetMidTitle: Doctor Beandolittle
-facetMid: Your coworker has been coughing at their desk for a couple of days now. You offer them some medicine you swear by, and make them tea and honey, no fuss made of it.
+facetMid: A chair has been wobbling in their kitchen a year and they have stopped noticing it. You take it out to the yard while the kettle is on and glue the joint.
 facetLowTitle: The Beansqueeze
-facetLow: Your friend's been having a tough time of their layoff and has been calling you often and lengthily for support. The phone goes off for a fifth time this week, while you're out at dinner. You put it on silent - they can wait for a more convenient time for a reply.
+facetLow: Somebody has come for the weekend to be looked after and what they actually need is telling. You give them the weekend they came for, feed them well, and nothing gets said.
 facetLeastTitle: Blood, Sweat and Beans
-facetLeast: Three separate calls today - your sister wants help moving a sofa, your friend needed a long vent about their new boss, and your mother called about an imaginary health scare. The phone rings again. You let it go to voicemail and pour yourself a drink.
-question: The crowd's packed tight at an outdoor festival in the summer heat, and a band you love is about to start. The stranger beside you sways oddly, then folds at the knees before standing up again, dazed. You...
-answerMost: give up your whole day to making sure they're alright
-answerHigh: walk them out, offer water, keep them company until their friends find them
-answerMid: help them to a bench and wave down a staff member
-answerLow: point them to the first-aid tent but keep your place
-answerLeast: do nothing, and figure one of their friends will handle it
-rorschachMost: a steaming hot spring
-rorschachHigh: a synthetic animalskin rug
-rorschachMid: a dense raincloud
-rorschachLow: mud caked on the floor
-rorschachLeast: roadkill
+facetLeast: A friend has driven two hours to see you and there is nothing in the house and no plan and a mood on you. You do not lift it. She leaves earlier than she said she would, and she is quieter on the phone for a while after that.
+question: Somebody's come to you in a bad way for the fourth time with the same problem. You...
+answerMost: clear the week and get them through it again
+answerHigh: look after them, and say what you can see
+answerMid: help, and ask what they'll do differently
+answerLow: tell them you can't keep doing this
+answerLeast: have nothing left, and they can tell
+rorschachMost: a compress never lifted
+rorschachHigh: a poultice on a graze
+rorschachMid: a cloth warm from water
+rorschachLow: a cloth cooling
+rorschachLeast: a dressing taken away
 ---
 
 Aged Mung Beans are the Bean Zodiac's most restorative. A weekend at theirs and something that had been wrong for months is quietly better. Sometimes the mending keeps somebody from mending themselves. Leaving a person worse than they arrived is impossible.

@@ -1,5 +1,5 @@
 ---
-# CHANGED SINCE THIS CONTENT WAS WRITTEN — trait: nonchalant -> sunny, excess: cavalier -> pollyannaish, inverse: perturbed -> gloomy
+# TODO: tidy facets, redo rorschachs
 slug: sweet-fried-butter
 lastUpdated: 
 bean: butter
@@ -23,26 +23,26 @@ fortuneMid: It'll probably be fine even if it goes cold.
 fortuneLow: Some things don't dust off; this is one.
 fortuneLeast: The honey stirred in stays; the sugar dusted on blows off.
 facetMostTitle: Silver Beanlinings Playbook
-facetMost: Three hours of driving and the campsite's full. The overflow gravel lot it is — blanket down, view's fine from here, nothing worth turning the day sour over.
+facetMost: The roof has gone, the insurance will not cover it, and the family are stood in the garden looking up at the hole. You start on how much light that room will get once the work is done. You mean every word.
 facetHighTitle: Sunny Beanside Up
-facetHigh: The icecream the vendor hands you is already dripping a bit. You lick it off the heel of your hand and walk on, in no hurry to hunt for a napkin.
+facetHigh: Four in the morning, rain coming sideways, half the floats off the road. You sing on the doorsteps of the milk round, and by the end of the street two people have got up early to talk to you.
 facetMidTitle: Here Comes the Bean
-facetMid: Someone presses a festival map into your hand at the gate. Into the pocket it goes, unread, and you let the crowd carry you off to wherever it's headed.
+facetMid: Rain on the pier with everything shut and the sea the colour of a shed, and you get chips and say it is nice really.
 facetLowTitle: Gloomy Beansunday
-facetLow: A neighbour's voicemail sounds genuinely shaken. You stop scrolling, sit, and call back before you've even finished the second listen.
+facetLow: At the rescue kennels to choose one, and there are forty of them in there. All the way home you think about the ones you left.
 facetLeastTitle: Under a Beancloud
-facetLeast: There's a fresh scratch on the car you borrowed. No shrug, no waiting for it to be noticed — you drive straight over to the owner to own it.
-question: A package you needed has been delivered to the wrong address across town. You...
-answerMost: shrug and order another one whenever you remember
-answerHigh: figure you'll grab it next time you're nearby
-answerMid: text the neighbour and see what shakes out
-answerLow: walk over after work and knock
-answerLeast: get in the car now and sort it
-rorschachMost: a sow sprawled flat in the cool mud
-rorschachHigh: a manta heaving slow through murky water
-rorschachMid: a low boulder with two stubs of lichen
-rorschachLow: a beetle braced, antennae feeling ahead
-rorschachLeast: a crab dug in hard against the current
+facetLeast: The roads are all gritted and the lorry is back in the yard early. Somebody says that went well, and you tell them what it will be like when the weather really turns.
+question: You've driven everyone two hours to the coast and it's shut, raining, and the car park is flooded. What comes out of your mouth first?
+answerMost: That this is the bit we'll remember
+answerHigh: Something to keep everyone going
+answerMid: Right — what do we do now
+answerLow: That I knew this would happen
+answerLeast: That the whole day's ruined
+rorschachMost: light through every gap
+rorschachHigh: a break in the roof
+rorschachMid: a wall and its chinks
+rorschachLow: one gap boarded up
+rorschachLeast: a house, shutters on
 ---
 
 Caramelised Butter Beans are the Bean Zodiac's most sunny. They find the workable angle on a bad situation and mean it, and the room follows them there. Sometimes the angle ignores what is actually happening. Sitting in a genuinely dark mood is a skill they lack.

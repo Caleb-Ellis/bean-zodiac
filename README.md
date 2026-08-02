@@ -9,6 +9,9 @@ pnpm dev          # build content + start Vite dev server
 pnpm build        # build content + type-check + Vite production build
 pnpm preview      # preview production build
 pnpm content      # build markdown → JSON (runs automatically before dev/build)
+pnpm blots        # regenerate blot SVGs + bake PNG masks (manual, see Rorschach)
+pnpm blots:build  # SVGs only
+pnpm blots:bake   # PNG masks only (needs the SVGs to exist)
 pnpm fmt          # format
 pnpm fmt:check    # check formatting
 pnpm lint         # lint
@@ -43,14 +46,28 @@ A **Preparation** = Flavour × Form name (30 total). Lookup: `getPreparationName
 | sweet  | Candied | Crystallised | Funky     | Caramelised | Glazed      | Barbecued |
 | umami  | Dashi   | Aged         | Miso      | Tempura     | Rendered    | Hickory   |
 
+### How bean, flavour and form relate
+
+The three axes are independent and each carries its own character, expressed the same way: five `positiveTraits` and two `negativeTraits`. The **bean** is who you are (plus a `role` — "The Reveler", "The Sentinel"), the **flavour** is the temper the season is taken in, the **form** is how the bean is worked on. Their prose bodies follow the same three-beat shape: what the thing is, what it gives, and — always last — its shadow.
+
+A zodiac is one cell of the 12 × 5 × 6 grid, and it is **authored, not derived**. Nothing in the build combines the parents' trait lists into the child; a zodiac names its own triple in frontmatter:
+
+- **`trait`** — the virtue this combination lands on (`ceremonious`, `laconic`, `unruffled`)
+- **`excess`** — the same quality overdone (`pompous`, `monosyllabic`, `impassive`)
+- **`inverse`** — its opposite (`offhand`, `garrulous`, `agitated`)
+
+That triple is the spine of the whole entry. Every five-slot gradient — `facet*`, `fortune*`, `question`'s `answer*`, and `rorschach*` — runs the same axis: **Most** = excess, **High** = trait, **Mid** = neutral, **Low** = the trait's absence, **Least** = inverse. So a tier means the same thing in every ritual variant, and the quality tier the user lands on is a position on that one axis.
+
+The parents' own trait lists aren't decoration: they're what a zodiac's triple should read as a plausible collision of, and the season-summary copy speaks in their vocabulary without naming the bean, flavour or form outright. The build also flattens `trait` alone to `src/data/generated/zodiac-traits.json` for synchronous lookup.
+
 ### Content
 
 Markdown lives in `src/content/`. The build script (`scripts/build-content.mjs`) converts it to JSON in `src/data/generated/` and copies zodiac files to `public/api/zodiacs/` so `fetchZodiac()` works unchanged at `/api/zodiacs/{slug}.json`.
 
-- **`beans/`** — 12 files (name, tagline, traits[], color, imageFile)
-- **`flavours/`** — 5 files (name, character, traits[], color)
-- **`forms/`** — 6 files: boiled, dried, fermented, fried, roasted, smoked (name, tagline, traits[])
-- **`zodiacs/`** — 360 files, filename `{flavour}-{form}-{bean}.md`, frontmatter: slug, bean, flavour, form, trait, dish, quote, seasonalFortune, facet\*/fortune\* gradient (Most/High/Mid/Low/Least), the `friendlyBeans`/`antiBeans`/`antiTriple`/`friendlyForm`/`antiForm` spirit tags for spirit-bean scoring, `question` + `answerMost/High/Mid/Low/Least` for the question-variant ritual, and `rorschachMost/High/Mid/Low/Least` for the rorschach-variant ritual (see `STYLE.md` for body voice, `QUESTIONS.md` for question/answer voice, `RORSCHACH.md` for rorschach voice, `SPIRIT_TAGS.md` for tagging).
+- **`beans/`** — 12 files (slug, name, role, tagline, positiveTraits[], negativeTraits[], imageFile)
+- **`flavours/`** — 5 files (slug, name, tagline, positiveTraits[], negativeTraits[])
+- **`forms/`** — 6 files: boiled, dried, fermented, fried, roasted, smoked (slug, name, tagline, positiveTraits[], negativeTraits[])
+- **`zodiacs/`** — 360 files, filename `{flavour}-{form}-{bean}.md`, frontmatter: slug, lastUpdated, bean, flavour, form, the `trait`/`excess`/`inverse` triple (see above), creature, dish, quote, seasonalFortune, facet\*/fortune\* gradient (Most/High/Mid/Low/Least), the `friendlyBeans`/`antiBeans`/`antiTriple`/`friendlyForm`/`antiForm` spirit tags for spirit-bean scoring, `question` + `answerMost/High/Mid/Low/Least` for the question-variant ritual, and `rorschachMost/High/Mid/Low/Least` for the rorschach-variant ritual (see `STYLE.md` for body voice, `QUESTIONS.md` for question/answer voice, `RORSCHACH.md` for rorschach voice, `SPIRIT_TAGS.md` for tagging).
 
 ### Pages
 

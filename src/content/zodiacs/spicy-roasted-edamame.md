@@ -1,5 +1,5 @@
 ---
-# COMPLETELY NEEDS UPDATING — inverse: self-doubting -> diffident
+# TODO: tidy facets, redo fortunes, redo rorschachs
 slug: spicy-roasted-edamame
 lastUpdated: 
 bean: edamame
@@ -17,32 +17,32 @@ antiTriple: umami-smoked-mung
 antiBeans: [kidney, butter]
 antiForm: boiled
 seasonalFortune: "A season of chilli salt and easy certainty — the pod knows it will be good."
-fortuneMost: Said once, it stands.
-fortuneHigh: The answer's already in your hand.
+fortuneMost: Walking in sure of it works, and nobody checks the parts you skipped.
+fortuneHigh: Take the thing you have not been offered yet.
 fortuneMid: Season once and trust the heat.
-fortuneLow: The quiet correction you stepped over is the green center worth going back for.
-fortuneLeast: The thing you nearly regretted comes out fine precisely because you checked.
+fortuneLow: Even a good stallion is led out of the box before it runs.
+fortuneLeast: Doubt turns up in time to save you the longer walk back.
 facetMostTitle: Beanking of the World
-facetMost: A guide warns the path ahead is unmarked and most turn back here. You shoulder the pack and walk on, sure your feet will find it.
+facetMost: You have not read the brief properly and you go in anyway. Twenty minutes later they have said yes to all of it. On the way out you tell your colleague that you knew it would land, and you did know, and that is the part she finds hard to take.
 facetHighTitle: Beanwalk This Way
-facetHigh: Six specials, rattled off fast — order before the waiter's finished, no menu, and never mind the fish you passed on.
+facetHigh: Eleven candidates after that post, and you the youngest of them by a decade. Your answers come out as though the whole thing is already a formality, and it becomes one.
 facetMidTitle: Self-Assured Bean
-facetMid: Asked which way to the river, you point. No hedge, no maybe-check-a-map, just the direction and on with the day.
+facetMid: Given the last leg with the team behind, you take the baton knowing you will pull it back, and you very nearly do.
 facetLowTitle: Beanshy Guy
-facetLow: You've parked the car and you're nearly inside when the doubt arrives — locked or not? Worth the walk back to be sure, and you go.
+facetLow: A piece you know well, and you have played it beautifully all week. Your hands go, and you apologise before you even start.
 facetLeastTitle: The Shrinking Beanviolet
-facetLeast: The form asks a figure you half-know. Better to ring and confirm it than write down your best guess and sign — a guess in ink unsettles you.
-question: Last minute of the match, level, and the team huddles undecided — throw everyone forward for the winner or hold for the draw. They're all looking at you. You...
-answerMost: call it out loud and start setting up the way you called
-answerHigh: say what you'd do, once, and let the dithering break
-answerMid: put it to them as a question and read the nods
-answerLow: wait for the captain to choose, then fall in
-answerLeast: suggest you all just keep it tight and see how it plays
-rorschachMost: a king chess piece planted on its base
-rorschachHigh: a figure standing squared on both feet
-rorschachMid: a tree trunk spreading into wide roots
-rorschachLow: a candle flame wavering on its stand
-rorschachLeast: a sapling bowing under its own top weight
+facetLeast: They have asked you to say a few words because you know more about it than anybody in the room. You say that others are better placed, and that you would not want to speak out of turn, and you sit down.
+question: You're about to give a best man's speech to a hundred and twenty people. You...
+answerMost: Know they're in for a treat
+answerHigh: Feel good about it — I've got this
+answerMid: Reckon it'll be fine
+answerLow: Hope nobody's really listening
+answerLeast: Wish they'd asked somebody else
+rorschachMost: a mane over a jaw
+rorschachHigh: a crown of leaves
+rorschachMid: a canopy above a trunk
+rorschachLow: a wig on a stand
+rorschachLeast: a bare bulb, no shade
 ---
 
 Peri-Peri Edamame are the Bean Zodiac's most confident. They put their hand up for the job that was a stretch and were, in the end, right about themselves. Occasionally the certainty runs ahead of the competence. Saying they don't know is a sentence they avoid.

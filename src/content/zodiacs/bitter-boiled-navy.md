@@ -1,5 +1,5 @@
 ---
-# COMPLETELY NEEDS UPDATING — trait: dogmatic -> upright, excess: doctrinaire -> sanctimonious, inverse: tentative -> crooked
+# TODO: tidy facets, redo fortunes, redo rorschachs
 slug: bitter-boiled-navy
 lastUpdated: 
 bean: navy
@@ -17,32 +17,32 @@ antiTriple: spicy-fermented-pinto
 antiBeans: [chickpea, fava]
 antiForm: smoked
 seasonalFortune: "A season of plain bay and straight measures. The pot does what was agreed, at the hour agreed."
-fortuneMost: Hold the line everyone else is leaning against.
+fortuneMost: Months on the ice with the egg on its feet, and the penguin would like it known.
 fortuneHigh: State the principle once, plainly, and stand there.
-fortuneMid: Test the rule against the case before you cite it.
-fortuneLow: Grant the exception openly.
+fortuneMid: You were the one who did not take the easy version.
+fortuneLow: Let it go this once without a speech about letting it go.
 fortuneLeast: Walk in with no agenda and let the system sit in the car.
 facetMostTitle: Elmer Beantry
-facetMost: Past midnight the festival's still roaring and the whole street is begging you to stay. Home at your usual hour all the same, lantern swinging, exactly as you've done for years.
+facetMost: Cash in hand knocks two hundred off, says the plasterer, and he has the pad out. You tell him you would rather have the invoice.
 facetHighTitle: A Bean for All Seasons
-facetHigh: Round the campfire the argument turns and the crowd swings against you. Say the principle once, plainly, and plant your feet on it while they wander off the ground you're keeping.
+facetHigh: The self-scan has not picked up the second bag of coffee and you are through the barrier and out, and you go back to the desk and pay for it.
 facetMidTitle: The Untouchabeans
-facetMid: One of your own rules is about to settle a real dispute right in front of you. First you hold the case up against it — and where the case won't fit unless you bend it, you start to suspect the rule is what wants trimming.
+facetMid: You are keeping the scorer's book and your own side has had a run signalled that never happened. You put it right in the book, and you tell the other scorer why the total has moved.
 facetLowTitle: Goodbeanfellas
-facetLow: You're halfway through defending a position when a sharper thought arrives and quietly demolishes it. Down goes your own line, the new one finished aloud instead.
+facetLow: Volunteer hours are wanted on the grant form. The real number is soft at the edges. You put down the higher end of what could honestly be argued, and you do not flag it.
 facetLeastTitle: Ocean's Beanleven
-facetLeast: Up the table at the long supper, three guests argue three sides of one thing. You nod along to each in turn, won over by whoever just spoke, moored to none of them.
-question: You've always tied your boat the same knot. An old hand on the next jetty watches, then tells you flatly you've had it wrong for years. You...
-answerMost: tie it your way again and tell him the knot has held this long
-answerHigh: explain why your knot is right and leave it tied
-answerMid: hear him out, then tie it however feels surest
-answerLow: let him show you once and copy it this time
-answerLeast: untie it and switch to his the moment he names a reason
-rorschachMost: a boulder planted deep, too heavy to shift
-rorschachHigh: an anvil squared off and set on the ground
-rorschachMid: a blocky chunk of rock, one chip beside it
-rorschachLow: a lump of clay starting to slump out of shape
-rorschachLeast: a cloud reshaping, one piece torn off and drifting
+facetLeast: A job has come up that would be a week's work and a man wants it done without paperwork, and you have the tools in the van and nothing else booked. You agree the price at the kerb and start in the morning.
+question: A shop has undercharged you by twelve pounds and you're already home. You...
+answerMost: drive back and pay it, and mention it to the manager
+answerHigh: go in next time and settle it
+answerMid: pay it if you're passing anyway
+answerLow: call it their mistake and think no more
+answerLeast: count it as a good afternoon
+rorschachMost: a plumb line, dead true
+rorschachHigh: a mast standing straight
+rorschachMid: a stone set upright
+rorschachLow: a post leaning a little
+rorschachLeast: a fence gone all askew
 ---
 
 Infused Navy Beans are the Bean Zodiac's most upright. The change is returned, the extra hour comes off the timesheet, unannounced. Announced, a tone creeps in that makes honesty feel like a lesson. Bending a rule to spare somebody never occurs to them as available.

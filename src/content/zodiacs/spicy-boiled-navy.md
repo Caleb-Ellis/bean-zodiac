@@ -1,5 +1,5 @@
 ---
-# CHANGED SINCE THIS CONTENT WAS WRITTEN — trait: guarded -> immovable, excess: walled-off -> obstinate, inverse: forthcoming -> yielding
+# TODO: tidy facets, redo rorschachs
 slug: spicy-boiled-navy
 lastUpdated: 
 bean: navy
@@ -23,26 +23,26 @@ fortuneMid: A closed shell is not an empty one.
 fortuneLow: Unlatch the door and let the cold come in with the light.
 fortuneLeast: Say the thing you've never said.
 facetMostTitle: The Beanmule
-facetMost: A friend is helping you organise some things, when they come across a box of old letters and keepsakes. You take it out of their hands and close it quietly.
+facetMost: Your boundary wall goes where the deeds say and you have told them so, and there is an offer on the table now, and a surveyor's letter, and a neighbour who has stopped saying hello over it. The wall goes where the deeds say.
 facetHighTitle: The Great Beanwall
-facetHigh: A coworker you've clicked with asks to see your holiday photos. You show them some select images from a slight distance, never once allowing the opportunity for them to swipe through themselves.
+facetHigh: Four of them have been at you all evening about the price. It is a fair price. You are on the same number at eleven.
 facetMidTitle: Hold Your Beanground
-facetMid: For a little icebreaker, the class instructor has asked everyone to say one interesting fact about themselves. You say that you like to walk.
+facetMid: A landlord wants the rent review backdated and there is a paragraph in the agreement that says he cannot. You write back with the paragraph, and the paragraph number, and nothing else.
 facetLowTitle: The Beanreed and the Oak
-facetLow: Talking with some colleagues, the topic of family comes up. You're not afraid to dip into the complicated nature of yours.
+facetLow: The holiday was going to be the same fortnight in the same place and everybody else fancies somewhere new, and you have a look at what they have found and say all right.
 facetLeastTitle: Beanpushover
-facetLeast: A stranger strikes up a chat while you're waiting in line. Before long they've heard how your year is really going, the hard parts and all.
-question: A name you knew years ago resurfaces online and messages to ask how you're doing. You...
-answerMost: leave it on read
-answerHigh: reply, but with nothing too personal
-answerMid: send the major highlights, but keep it brief
-answerLow: go over the ups and downs of the last few years
-answerLeast: get into everything that's happened since you last spoke
-rorschachMost: a boulder in front of a cave's mouth
-rorschachHigh: a couple of clams, one sealed tight
-rorschachMid: knobbly rocks jutting out of sand
-rorschachLow: an open locket with its contents
-rorschachLeast: an otter and its pup floating together
+facetLeast: You had said no to the loan and you meant it and there were reasons, and he has now been round twice. By the second visit you have written the cheque, and you cannot say what changed.
+question: Four people have spent an evening trying to talk you round. You...
+answerMost: hold, and you'd hold if it were forty
+answerHigh: hold, and tell them why once more
+answerMid: hold tonight and think about it tomorrow
+answerLow: move a bit to end the evening
+answerLeast: give in, and can't say what changed
+rorschachMost: a boulder in the road
+rorschachHigh: two rocks, no way past
+rorschachMid: a gap between two stones
+rorschachLow: a stone rolled a foot
+rorschachLeast: a gate swung wide
 ---
 
 Braised Navy Beans are the Bean Zodiac's most immovable. The whole family reorganises around the position they took, because it is not going to move. Sometimes it doesn't move when it should. Being talked into something over one long dinner has never happened to them.

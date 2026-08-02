@@ -1,5 +1,5 @@
 ---
-# COMPLETELY NEEDS UPDATING — excess: cutting -> rude
+# TODO: tidy facets, redo fortunes, redo rorschachs
 slug: sour-fried-edamame
 lastUpdated: 
 bean: edamame
@@ -17,32 +17,32 @@ antiTriple: sweet-smoked-kidney
 antiBeans: [black, mung]
 antiForm: fermented
 seasonalFortune: "A season of black vinegar and no cushioning — the pan says it and moves on."
-fortuneMost: Unwrapped is the only way you know how to serve, and it's the way they came hungry for.
-fortuneHigh: Someone goes fishing for a softer answer, and there isn't one.
+fortuneMost: They got the whole truth, and had room for about half of it.
+fortuneHigh: "Take the ox's line: straight through, and stop when the row ends."
 fortuneMid: True and useful aren't the same thing.
-fortuneLow: The sentence you trimmed for kindness was the load-bearing one; the rest was just wrapper.
-fortuneLeast: After a word lands hard, lead with the apology and let the reasons go.
+fortuneLow: Say the kind version once and see who relaxes.
+fortuneLeast: A kindness that isn't quite true still gets somebody through the evening.
 facetMostTitle: Beanrude Boy
-facetMost: A friend's new partner asks straight out what you think of them. You give the unvarnished read, warts and all, then reach for your drink.
+facetMost: She asks whether the dress makes her look older and you say yes. You say which part of it does it. You are still explaining about the neckline when her mother comes back in, and you carry on for her benefit too.
 facetHighTitle: The Weakest Bean
-facetHigh: A busker asks if they're any good as you pass. They're not, and you tell them so flat instead of dropping a coin and a lie.
+facetHigh: A candidate rings to ask why he did not get it, and most people in your position would give him the soft version. You tell him that he interviewed badly, and where.
 facetMidTitle: Call a Bean a Bean
-facetMid: Asked along to a party you've no interest in, you just say no — no manufactured excuse, no soft maybe to cushion it.
+facetMid: Asked how the driving is coming along, you say that the mirrors are still not being used, and that this is the whole of the problem, and always has been.
 facetLowTitle: Uriah Beanheep
-facetLow: A nervous cook serves you a dish that's plainly under-seasoned. You praise the crust, mention the salt gently, and leave them standing taller.
+facetLow: Food is not good and your host is watching your face. You call it lovely and eat a decent amount.
 facetLeastTitle: Beating Around the Bean
-facetLeast: A houseguest's gift is genuinely hideous and they want it hung where everyone sees. Up it goes on the wall, and you find three honest things to love about it.
-question: At the bar's last call a stranger you've been talking to jangles their keys and asks if they're okay to drive. They are plainly not. You...
-answerMost: say "you're not driving" flat, and mean it
-answerHigh: tell them straight they're over the line, offer your phone for a cab
-answerMid: ask how far they're going first, then say it
-answerLow: suggest they wait it out with a water — which might help
-answerLeast: say they seem fine and let them find their own coat
-rorschachMost: two bare fists raised an inch apart
-rorschachHigh: two bricks set down side by side
-rorschachMid: two river stones lying near each other
-rorschachLow: two mittens laid out to dry on a rail
-rorschachLeast: two pillows dented soft side by side
+facetLeast: Somebody asks whether you mind them smoking in the car, and you mind very much. You tell them it is entirely up to them, open the window a little, and go quiet for the rest of the journey.
+question: Your friend asks whether the shirt suits him, and it really doesn't. You...
+answerMost: Say no, and say what's wrong with it
+answerHigh: Say no, plainly
+answerMid: Say the other one was better
+answerLow: Say it's fine and change the subject
+answerLeast: Say it looks great on him
+rorschachMost: a mallet mid-swing
+rorschachHigh: two fists, knuckles out
+rorschachMid: two boulders touching
+rorschachLow: a mitten and a thumb
+rorschachLeast: a mouthful of porridge
 ---
 
 Agrodolce Edamame are the Bean Zodiac's most blunt. They give you the number, the deadline and the problem in one breath, no cushioning anywhere. On a bad day it lands as contempt. Hedging a thing into something softer strikes them as a way of lying.

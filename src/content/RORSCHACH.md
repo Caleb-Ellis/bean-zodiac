@@ -9,17 +9,35 @@ counts as Accept (+1), exactly like the question variant.
 ## The image
 
 Generated at build time by `scripts/build-rorschach.mjs`, one SVG per zodiac slug in
-`public/images/rorschach/`. A mirror-symmetric composite of the bean and its flavour/form
-emoji, distorted by a per-slug turbulence + displacement filter and desaturated toward
-inky black. Most blots fold left/right (the classic butterfly); the ~half that are rotated
-90° before distortion fold top/bottom instead. The user is not meant to "see the bean" —
-they're meant to project onto something ambiguous.
+`public/images/rorschach/`, with high-resolution PNG masks baked from them by
+`scripts/bake-rorschach.mjs` (`pnpm blots`, run manually). A composite of the bean and its
+flavour/form emoji, distorted by a per-slug turbulence + displacement filter and flattened
+to a hard-edged silhouette. The user is not meant to "see the bean" — they're meant to
+project onto something ambiguous.
+
+**The blots are not mirror-symmetric.** There is no butterfly fold and no axis. Readings
+built on symmetry — "two wings", "twin peaks", "a shape and its reflection" — describe an
+image that is not on screen. What is actually rendered:
+
+- **Pure black on white, hard-edged.** No grey, no soft gradient, no midtones.
+- **One of three gross layouts**: a single dense mass with a ragged edge; two masses side
+  by side — sometimes joined by a thin neck, sometimes split by a channel of white; or two
+  masses **stacked vertically**, one above the other, which reads very differently (a thing
+  over a thing, a figure below something larger) and is worth using when it appears.
+- **Off-centre**, usually weighted right and low, leaving empty white at the top-left.
+- **Recurring features worth naming**: small holes punched clean through the interior,
+  detached specks flung clear of the main body, and an edge that alternates between
+  finger-like spikes and rounded lobes. Some blots also have a **disintegrating fringe** —
+  one flank breaking up into lace and loose flecks while the rest stays solid.
+- **The white is readable too.** On many blots the negative space carries the picture: a
+  clean oval hole reads as an eye, a channel between two masses as a gap or a path, a bay
+  bitten out of one side as a cove or a missing piece. Don't restrict the reading to the
+  black.
 
 **Look at the actual blot before writing the readings.** The shape is seeded from the slug
 and is genuinely different per zodiac, so the five interpretations must describe _this_
 silhouette — not generic inkblot imagery. View the rendered blot directly at
-`public/images/rorschach/<slug>.png`. `RORSCHACH_PROMPT.md` is a ready-to-use prompt for
-doing this one slug at a time.
+`public/images/rorschach/<slug>.png`.
 
 ## The five interpretations
 

@@ -1,5 +1,5 @@
 ---
-# COMPLETELY NEEDS UPDATING — trait: suppressed -> contained, excess: bottled-up -> bottled, inverse: unleashed -> spilling
+# TODO: tidy facets, redo fortunes, redo rorschachs
 slug: spicy-dried-black
 lastUpdated: 
 bean: black
@@ -17,32 +17,32 @@ antiTriple: sour-roasted-pinto
 antiBeans: [chickpea, green]
 antiForm: fried
 seasonalFortune: "A season of facing-heaven chillies and shut lids: the heat waits, dry and undiminished."
-fortuneMost: The slight landed, the fever's real, and you're refilling their glass anyway.
-fortuneHigh: The calmest voice in a loud room is rarely the calmest person. One true sentence costs less than the whole banked batch.
+fortuneMost: Holding it all in until it cannot, the pufferfish has no way to hide it.
+fortuneHigh: The calmest voice in a loud room is rarely the calmest person.
 fortuneMid: Asked twice, drop the polite version and answer it true.
-fortuneLow: Say it the minute you see it — out on the walk, at the counter, wherever you are.
+fortuneLow: Say it the minute you see it, wherever you happen to be.
 fortuneLeast: Put it down. The ceiling holds without you bracing it.
 facetMostTitle: Beanbottle Rocket
-facetMost: Your foot throbs where the door caught it. The host is mid-story, so you keep your face open and your weight off it until she's done.
+facetMost: You have been furious since the phone call on Tuesday and you have said nothing about it to anybody, including the man who caused it, and you have been perfectly pleasant to him twice since. You will not raise it. It goes in with the rest of them.
 facetHighTitle: Under Beanpressure
-facetHigh: A driver cuts you off, close enough to clip the mirror. The horn goes untouched; everything lands in the grip on the wheel.
+facetHigh: The other driver is at your window and shouting, and there is a queue building behind the two of you. You keep both hands on the wheel and your voice exactly level.
 facetMidTitle: Message in a Beanbottle
-facetMid: Asked straight whether you're alright when you're plainly not — give the smooth answer, or the true one?
+facetMid: The referee has got two decisions wrong and you are on the touchline with the other parents. You keep it to a look.
 facetLowTitle: Spilling the Beans
-facetLow: The coffee comes back made wrong, and you say so before the barista has even turned away. Evenly. No edge on it.
+facetLow: Your flatmate has left the kitchen the same way for the fourth time. You say something about it while she is still in the room.
 facetLeastTitle: The Beandam Busters
-facetLeast: Barely finished thinking it and it's already out of your mouth, seeds and all. Half-cooked and handed over beats one more second of sitting on it.
-question: In the meeting your boss presents your work as her own, smoothly, and the room turns to her with the credit. You...
-answerMost: smile, let it stand, and decide to never raise it
-answerHigh: bank it quietly and add a clarifying line that points back to you
-answerMid: go still for a beat and let the moment pass
-answerLow: catch her after and say one sentence in the corridor
-answerLeast: correct the record across the table while it's still warm
-rorschachMost: a fist clenched tight, knuckles drawn in
-rorschachHigh: a bundle bound and knotted at every edge
-rorschachMid: a dark cabbage with leaves curling loose
-rorschachLow: a cloud beginning to fray at its edges
-rorschachLeast: a thundercloud bursting open, tendrils flung out
+facetLeast: Everything that has built up since the spring comes out in the garden centre car park, at volume, over a bag of compost that was not the problem and never had been.
+question: Your brother has been making the same remark about your job for weeks, and he's just made it again. You...
+answerMost: keep it entirely to yourself and let it go on building
+answerHigh: hold it, and choose when it gets said
+answerMid: let a bit of it out at a time
+answerLow: say it the next time it comes up
+answerLeast: have it out, right there, over something small
+rorschachMost: a bottle nobody dares open
+rorschachHigh: a cork pushed well in
+rorschachMid: a flask and small bubbles
+rorschachLow: a cork easing up
+rorschachLeast: a jar knocked over
 ---
 
 Sichuan Black Beans are the Bean Zodiac's most contained. There is a great deal going on behind the face and none of it makes it into the room. Held long enough, it comes out sideways, months later. Letting it out as it happens they refuse to do.

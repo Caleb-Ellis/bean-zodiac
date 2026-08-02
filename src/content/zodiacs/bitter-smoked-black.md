@@ -1,5 +1,5 @@
 ---
-# CHANGED SINCE THIS CONTENT WAS WRITTEN — trait: scary -> inscrutable, excess: petrifying -> opaque, inverse: comforting -> legible
+# TODO: tidy facets, redo rorschachs
 slug: bitter-smoked-black
 lastUpdated: 
 bean: black
@@ -23,26 +23,26 @@ fortuneMid: Silence can sometimes be interpreted as a threat.
 fortuneLow: Fear finds nothing to stand on.
 fortuneLeast: A stranger meets you and finds nothing to fear.
 facetMostTitle: Mulholland Bean
-facetMost: A figure on the dark path ahead freezes when they make out your outline coming toward them. You don't do anything to signal you're no harm — just keep your pace and let them wonder.
+facetMost: Two hours into the drive and your passenger has run out of things to fill the silence with, and has started glancing over. Eventually she asks outright whether you are annoyed with her. You say no, and you give her absolutely nothing else to work with.
 facetHighTitle: The Beanstige
-facetHigh: A pushy salesman won't take no and keeps crowding you. You don't raise your voice — you just hold him in a flat look until he steps back.
+facetHigh: Your face gives away nothing at all across the table, and the other side has stopped talking about the price and started talking about the delivery date instead.
 facetMidTitle: Poker Bean
-facetMid: The cashier tries the usual patter about your plans and the weather. You answer in single words.
+facetMid: The interviewer asks why you left the last place, and leans back to wait it out. You answer the question exactly, and nothing in the answer invites another one.
 facetLowTitle: An Open Bean
-facetLow: A friend seems off, quieter than usual. You don't push it — you just find a reason to stick around a while longer than you meant to.
+facetLow: Your daughter brings the boyfriend round for the first time and asks you afterwards, in the kitchen, what you made of him. It was written all over your face an hour before she asked.
 facetLeastTitle: Clear and Present Beanger
-facetLeast: The person next to you on the plane is white-knuckled and rigid through every bump. You lean in and start a low, easy stream of conversation to take their mind off it.
-question: At your pottery class, you are in the middle of building a large and challenging piece. A nervous newcomer takes the empty stool beside you and says "hello". You...
-answerMost: reply "not now" since you are in deep concentration
-answerHigh: do not acknowledge them, not yet
-answerMid: say hello but keep focussing
-answerLow: say hi and ask them to give you a second to finish up, then introduce yourself properly
-answerLeast: stop what you're doing, smile and offer them a clay-soaked hand
-rorschachMost: a skull, crushed and cracked down the middle
-rorschachHigh: 
-rorschachMid: a dry riverbed between two cliffs
-rorschachLow: the soft, furry paws of a big cat
-rorschachLeast: two faces laughing at something
+facetLeast: Everybody in the room can tell you have had bad news, because you have told the first three people you saw and the fourth could see it coming across the car park.
+question: How much can somebody read off your face?
+answerMost: nothing at all — people have given up trying
+answerHigh: only what you have decided to let them see
+answerMid: the big things, if they know you
+answerLow: most of it, most of the time
+answerLeast: everything, immediately, whether you like it or not
+rorschachMost: two masks, no eyeholes
+rorschachHigh: a face behind cloth
+rorschachMid: two heads, a gap between
+rorschachLow: a cloth slipping down
+rorschachLeast: a face read at once
 ---
 
 Charcoal Black Beans are the Bean Zodiac's most inscrutable. Years in, people who love them still can't tell from the face whether the news was good. Sometimes nobody can find the door at all. Being easy to read strikes them as something that happens to other people.

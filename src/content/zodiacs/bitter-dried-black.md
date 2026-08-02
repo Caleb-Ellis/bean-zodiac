@@ -1,5 +1,5 @@
 ---
-# CHANGED SINCE THIS CONTENT WAS WRITTEN — trait: concise -> laconic, inverse: chatty -> garrulous
+# TODO: tidy facets, redo rorschachs
 slug: bitter-dried-black
 lastUpdated: 
 bean: black
@@ -23,26 +23,26 @@ fortuneMid: Give them the why, not just the verdict.
 fortuneLow: They're waiting on the part you left out.
 fortuneLeast: Some things only make sense going the long way round.
 facetMostTitle: The Beanist
-facetMost: You get a phone call from your mother. She asks — how's the job going, have you been eating, what you've been up to lately. She gets "fine", "yeah", and "not much".
+facetMost: The locksmith has come out at midnight and wants to know what happened to the door, whether anybody tried the handle first, whether the frame has moved at all. You give him three words, then two, and let him work the rest out from the wood.
 facetHighTitle: No Country for Old Beans
-facetHigh: A friend is applying for a job and they've asked you to be a reference for them. When the form comes through, you fill it in with three sentences.
+facetHigh: Radio traffic on the callout has gone to pieces, four voices talking over one another and nobody making sense. Your transmission is nine words long and the whole hill acts on it.
 facetMidTitle: The Quiet Bean
-facetMid: A leaving card is going round the office, for someone you don't know super well but have a good impression of. There's still plenty of space left when it reaches you. You write "All the best" and your name.
+facetMid: Asked at the bank how the fishing went, when you were gone four days for it, you hold up two fingers and carry on loading the car.
 facetLowTitle: My Dinner with Beandre
-facetLow: You're on hold to the bank about a wrong charge, when somebody finally picks up. You ask how they're doing, talk about the weather, how your morning's doing — and get to the charge a minute or two later.
+facetLow: Between rounds at the boxing club, in the corner with a boy you have been coaching since he was twelve, you give him the whole explanation — where his feet are wrong, what the other lad does with his shoulder, why that jab keeps landing — when one word would have done it.
 facetLeastTitle: Talk Beany to Me
-facetLeast: Your best friend rings to tell you they've got the new place. Two hours later you're still on the phone, having covered their neighbours, your job, a film neither of you has seen and what you're both doing at Christmas.
-question: You're setting up the voicemail greeting on your phone. What do you record?
-answerMost: nothing — whatever the network reads out by default will do
-answerHigh: my name, and to leave a message
-answerMid: my name, to leave a message, and that I'll get back to them
-answerLow: my name, to leave a message, and why I might not have picked up
-answerLeast: my name, to leave a message, a joke, another way to reach me
-rorschachMost: coal
-rorschachHigh: cracked concrete
-rorschachMid: a ladybug
-rorschachLow: a dandelion falling apart
-rorschachLeast: a swarm of insects
+facetLeast: Sleeper compartment, lights out, a stranger in the opposite bunk. You start talking. Somewhere past the border you are still going and he has stopped answering.
+question: A film you both love comes up, and your friend wants to know what you made of the ending. You...
+answerMost: give them one word and let it stand
+answerHigh: give them the two sentences that actually matter
+answerMid: talk it through for a minute or so
+answerLow: talk until they change the subject
+answerLeast: are still explaining it as you both put your coats on
+rorschachMost: one dot, nothing after
+rorschachHigh: a full stop, early
+rorschachMid: a blot and its fray
+rorschachLow: a comma, more coming
+rorschachLeast: a page with no margins
 ---
 
 Desiccated Black Beans are the Bean Zodiac's most laconic. Four words where the room needed forty, and the four land. Push and the four become one, then a look. A long story told for the pleasure of telling it they can only enjoy in others.

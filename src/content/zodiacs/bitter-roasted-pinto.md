@@ -1,5 +1,5 @@
 ---
-# COMPLETELY NEEDS UPDATING — trait: self-absorbed -> stylish, excess: narcissistic -> affected, inverse: selfless -> dowdy
+# TODO: tidy facets, redo fortunes, redo rorschachs
 slug: bitter-roasted-pinto
 lastUpdated: 
 bean: pinto
@@ -17,32 +17,32 @@ antiTriple: sweet-boiled-navy
 antiBeans: [kidney, edamame]
 antiForm: dried
 seasonalFortune: "A season of charred spring onion and worn markings — the coals make a costume of the skin."
-fortuneMost: A day that's been about you since the fat hit the pan is yours to enjoy with no apology.
-fortuneHigh: Study your own markings as long as you like — then set the glass down and look up before the next meal.
-fortuneMid: A story about yourself is already half out of your mouth. Catch it by the second sentence and ask the other one something real instead.
-fortuneLow: A friend whose name keeps sliding past you has been the audience for months.
-fortuneLeast: A stranger is coming whose day deserves more of your attention than your own does.
+fortuneMost: All that plumage and dancing, and the bird of paradise cannot fly far at all.
+fortuneHigh: Wear the thing that is too much and carry it lightly.
+fortuneMid: Somebody copied what you chose and did not say so.
+fortuneLow: A well-cut coat over nothing much is still nothing much.
+fortuneLeast: Turn up in whatever was nearest the door.
 facetMostTitle: Beanlander
-facetMost: A friend's holiday photos come up on the screen and within two slides you're telling the better version of the same trip you took years back.
+facetMost: The jacket and the boots are ones nobody would put together and it works so obviously it looks like an accident, and four people say something about the boots before the evening is out.
 facetHighTitle: Beanogue
-facetHigh: Passing a shop window you catch your reflection, and the whole walk slows while you turn, half a step at a time, to study the line of yourself.
+facetHigh: One shop on that street sells only things people have lost. That shop has had three visits from you now, and you come out of it with a scarf that is exactly right, and the wrong colour for you, and somebody else's.
 facetMidTitle: The Grand Beanapest Hotel
-facetMid: When the group photo goes round, your eye lands on yourself first — you check how you came out, then catch it and ask who took the shot.
+facetMid: It is a long wedding and there will be photographs of all of it. The whole thing is worked out down to the socks.
 facetLowTitle: Ugly Beanty
-facetLow: Turn the whole room toward the quiet one who keeps getting talked over, and ask the question that makes them the centre of it.
+facetLow: A fleece with a logo on the chest is genuinely the warm thing in that cupboard. You put the fleece on and go out.
 facetLeastTitle: What Not to Bean
-facetLeast: A friend's in a bad way and needs the night to be about them. You give it whole and leave your own week unmentioned at the door.
-question: A friend's long post about their divorce lands in your feed, raw and just shared. You start typing a reply. You...
-answerMost: make it about the time your own marriage nearly went the same way
-answerHigh: write a line of sympathy, then pivot to a story of yours
-answerMid: offer something kind with a parallel from your life
-answerLow: ask one real question and leave the space theirs
-answerLeast: keep it wholly about them and never mention yourself once
-rorschachMost: a head and its mirror, locked inward
-rorschachHigh: a cat studying its own reflection close
-rorschachMid: a boulder beside a knotted thornbush
-rorschachLow: two heads turned outward, away from each other
-rorschachLeast: a figure leaning toward another, hand extended
+facetLeast: A uniform is issued for the day, grey, fitting nobody, and you get into the thing and go about without adjusting anything at all. Somebody who has known you years walks straight past.
+question: You're getting dressed for something that matters. You...
+answerMost: an outfit is built, and it will be discussed
+answerHigh: put two things together nobody would have
+answerMid: wear the good version of what you'd wear anyway
+answerLow: wear what's clean and comfortable
+answerLeast: whatever's on the chair
+rorschachMost: a coat under heavy braid
+rorschachHigh: a plain body, fine costume
+rorschachMid: a stone and a ruffle
+rorschachLow: a coat, trim removed
+rorschachLeast: a sack with a belt
 ---
 
 Wood-Fired Pinto Beans are the Bean Zodiac's most stylish. They put a jacket with a pair of boots nobody would have paired and it works so obviously it looks accidental. Sometimes the outfit does the talking. Being underdressed anywhere reads to them as being unprepared.

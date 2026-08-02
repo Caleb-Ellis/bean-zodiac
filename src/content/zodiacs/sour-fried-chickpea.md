@@ -1,5 +1,5 @@
 ---
-# COMPLETELY NEEDS UPDATING — trait: shrewd -> nimble, excess: cunning -> slippery, inverse: gullible -> ponderous
+# TODO: tidy facets, redo fortunes, redo rorschachs
 slug: sour-fried-chickpea
 lastUpdated: 
 bean: chickpea
@@ -17,32 +17,32 @@ antiTriple: umami-fermented-black
 antiBeans: [navy, cannellini]
 antiForm: dried
 seasonalFortune: "A season of sumac and quick hands: the chickpea is out of the oil before it catches."
-fortuneMost: The face after the offer is the real answer, not the offer.
-fortuneHigh: Watch the quiet one.
-fortuneMid: Pay the asking price on purpose.
-fortuneLow: A kindness arrives with no hook in it, clean as a falafel straight from the oil.
-fortuneLeast: The plain question you think is beneath you has a plain answer you keep stepping over.
+fortuneMost: Drop the tail and get away, says the gecko; the new one is poorer.
+fortuneHigh: Take the back way; it is open and always was.
+fortuneMid: Being asked twice is not the same as being caught.
+fortuneLow: Answer the easy question easily, the first time round.
+fortuneLeast: Slow and once through beats quick and three times.
 facetMostTitle: Slippery When Bean
-facetMost: A used-car seller is doing you a generous favour on the price. You're already reading which problem the favour is meant to hurry you past.
+facetMost: Two people have now asked you directly whether you knew about it before it happened, and twice you have given an answer that is true and is not the answer. The third will come. You already know what shape that one takes.
 facetHighTitle: Beanspider-Man
-facetHigh: Two contractors quote the same job, one all charm and round numbers. The charm is exactly what makes you trust the other one's figures more.
+facetHigh: A sign says the road is shut, and you are away down a lane you half remember from years back and out the far side of the village ahead of the traffic.
 facetMidTitle: Beanfootloose
-facetMid: A long story about why someone can't make it has one wobbly thread. You spot the real reason behind the excuse and keep it to yourself.
+facetMid: Two orders come back at once and a delivery arrives, and you have all three sorted before the door has shut.
 facetLowTitle: The Beanblob
-facetLow: Phone handed to a stranger at the bus stop for one quick call — no angles run first, just trust extended on the spot.
+facetLow: It is a simple enough question and you know the answer perfectly well. You take a long run-up at it, go round the houses twice, and lose the room somewhere halfway.
 facetLeastTitle: The Beansnail and the Whale
-facetLeast: An old rival suddenly offers to help with no strings named. You take the offer at its word and simply say yes.
-question: At the sunlit antiques market a charming dealer warms you up over the stall, then names a "today only" price on the piece you came for. You...
-answerMost: clock which compliment the price is riding on and steer straight at it
-answerHigh: ask the one question that separates a real bargain from a setup
-answerMid: stay easy and let them show more before you commit to anything
-answerLow: hear them out and haggle, mostly at face value
-answerLeast: take the charm as charm and say it sounds great
-rorschachMost: a cat curled tight with one ear still cocked
-rorschachHigh: a coin purse drawn shut around its weight
-rorschachMid: a smooth river stone with one chipped edge
-rorschachLow: a roll of dough proofing open in the bowl
-rorschachLeast: a sleeping puppy gone slack and belly-up
+facetLeast: There is a form to be done again because of one wrong box near the bottom. You start it from the top, in order, and the whole morning goes on it.
+question: You're twenty minutes from the ferry and the road ahead is closed. You...
+answerMost: Am down a back lane before I've thought about it
+answerHigh: Find another way and make it
+answerMid: Check the map and pick a route
+answerLow: Sit in the queue and hope
+answerLeast: Work the whole new route out before moving
+rorschachMost: an eel knotting itself
+rorschachHigh: a cat's face, ears back
+rorschachMid: a brick with two holes
+rorschachLow: a woollen mitten
+rorschachLeast: a sack of wet sand
 ---
 
 Agrodolce Chickpeas are the Bean Zodiac's most nimble. The venue falls through at noon and by two there's a better one, booked, and nobody had to be told twice. Sometimes they move so fast there's no position left to hold. Grinding slowly through something isn't in them.

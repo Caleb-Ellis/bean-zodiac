@@ -1,5 +1,5 @@
 ---
-# COMPLETELY NEEDS UPDATING — trait: aloof -> irreverent, excess: glacial -> sacrilegious, inverse: convivial -> deferential
+# TODO: tidy facets, redo fortunes, redo rorschachs
 slug: sour-roasted-pinto
 lastUpdated: 
 bean: pinto
@@ -17,32 +17,32 @@ antiTriple: spicy-fried-navy
 antiBeans: [edamame, kidney]
 antiForm: boiled
 seasonalFortune: "A season of charred spring onion and cheerful blasphemy — the fire laughs at the recipe."
-fortuneMost: The courage to stay unmixed is your strength this turn.
-fortuneHigh: Walk home the long way, through streets where nobody clocks your face, and arrive a kinder person.
-fortuneMid: Take the evening alone you keep deferring.
-fortuneLow: When your silence gets read as a verdict, send one warm line.
-fortuneLeast: The version of you that stays until last call sleeps deeper than the one who slipped out early.
+fortuneMost: The monkey in the temple takes the offerings and sits on the god's head.
+fortuneHigh: Say the disrespectful true thing and grin at it.
+fortuneMid: You would not stand up for it, and the room half wanted that.
+fortuneLow: Some things hold people together and are worth the bow.
+fortuneLeast: Take your hat off and mean it.
 facetMostTitle: The Life of Beanrian
-facetMost: A campsite neighbour keeps trying to fold you into their fire and their plans. You nod, stay friendly, and keep your own tent and your own quiet at the edge of it.
+facetMost: The boardroom has gone solemn about the values and you make the joke, about the boardroom, and one of them is not laughing because his father founded the place.
 facetHighTitle: The Beansimpsons
-facetHigh: Someone wants more of you than you've got to give, and they're waiting on an answer. You space it out to a rhythm that's actually yours and don't rush to fill the gap.
+facetHigh: One of the cathedrals has a slide in the nave that the dean pretends not to know about, and a school party is going round it. You get on in your coat and go down in front of the lot of them.
 facetMidTitle: Spitting Beanimage
-facetMid: You've been putting off an evening that's just yours, no one else in it. You finally take it, drop the line out, and come back to people steadier.
+facetMid: One memorial bench has a spelling mistake on the plaque. You eat your sandwich there. You point the mistake out to whoever is with you.
 facetLowTitle: Your Beanjesty
-facetLow: Your quiet has started reading as a cold verdict to someone running the math on it. You reach first with one warm line and undo the sum before it sets.
+facetLow: Two minutes' silence is a long two minutes and a man in a hat is doing something with his feet. You look at the floor and let the two minutes go.
 facetLeastTitle: After You, Bean
-facetLeast: A brand-new friendship is opening fast and the wall wants to go up. You drop it instead and lean in headlong, all the way, no distance kept back.
-question: A dog from down the lane keeps trotting up to your porch, hopeful, settling at your feet. You...
-answerMost: let it sit there a while, then go back inside without a word
-answerHigh: scratch its ears once, then keep your own pace
-answerMid: sit with it a few minutes and see how it feels
-answerLow: fetch a bowl of water and let it stay
-answerLeast: bring out a blanket and start asking around about adoption
-rorschachMost: a statue raised alone on a tall plinth
-rorschachHigh: a watchtower standing above its splayed legs
-rorschachMid: a mushroom cap on its pale ribbed stalk
-rorschachLow: a hen gathering chicks beneath her body
-rorschachLeast: a family huddled close around one hearth
+facetLeast: A thing is respected because it is respected and nobody has looked at it in years. You take your hat off. Somebody young asks why, and you find you cannot say.
+question: The room has gone solemn about something. You...
+answerMost: make the joke, and then the second one
+answerHigh: say the thing that lets the air out
+answerMid: catch somebody's eye and hold it
+answerLow: go along with the mood
+answerLeast: take it as seriously as it takes itself
+rorschachMost: an idol crumbling underfoot
+rorschachHigh: a statue losing its base
+rorschachMid: a pillar and fallen chips
+rorschachLow: a statue lightly chipped
+rorschachLeast: a shrine kept swept
 ---
 
 Chimichurri Pinto Beans are the Bean Zodiac's most irreverent. They make the joke in the boardroom, about the boardroom, and the tension drops ten degrees. Occasionally the joke was somebody's actual grief. Solemnly respecting a thing because it is respected, they cannot do.

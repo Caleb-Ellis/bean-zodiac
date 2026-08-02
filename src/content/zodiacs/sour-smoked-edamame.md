@@ -1,5 +1,5 @@
 ---
-# COMPLETELY NEEDS UPDATING — excess: sterile -> cold-blooded, inverse: ham-fisted -> clumsy
+# TODO: tidy facets, redo fortunes, redo rorschachs
 slug: sour-smoked-edamame
 lastUpdated: 
 bean: edamame
@@ -17,32 +17,32 @@ antiTriple: sweet-boiled-mung
 antiBeans: [adzuki, chickpea]
 antiForm: roasted
 seasonalFortune: "A season of ponzu and exact incisions — the cure removes precisely what was wrong."
-fortuneMost: One sentence, and out.
-fortuneHigh: Leave when you came to leave, coat already buttoned.
+fortuneMost: Only what has to go, goes - and the room stays quiet behind you.
+fortuneHigh: Go in knowing where you will stop.
 fortuneMid: Stay a few minutes past the clean cut.
-fortuneLow: Your two clean lines can read like a receipt.
-fortuneLeast: They've started routing around you to someone slower.
+fortuneLow: Even the kingfisher comes up empty, and goes back in without ceremony.
+fortuneLeast: You will do something badly and enjoy it.
 facetMostTitle: Beanhitman
-facetMost: A panicking colleague is mid-spiral about a deadline. One line that cuts the knot is sitting ready in your mouth, and you say it and nothing after.
+facetMost: Eleven people have to go and the list is yours, and the list is correct. You take them one at a time, eight minutes each, in an order worked out so nobody meets the next one coming. It is done by lunchtime and you eat yours.
 facetHighTitle: The Beanknick
-facetHigh: A tangled task could be done thoroughly or done in two precise moves that solve the actual problem. Two moves, and you call it finished.
+facetHigh: A watch on the workshop bench has a hairspring out of true and one wrong move ends it. You go in with the tweezers and you are out again inside a minute.
 facetMidTitle: Beankeyhole Surgery
-facetMid: Someone hands you a job that needs a decision by end of day. You make it in the first minute and spend none of the others second-guessing.
+facetMid: Given a hedge that has got away from everybody who has looked at it, you take out the three stems causing the trouble and leave the rest alone.
 facetLowTitle: Beanfrank Spencer
-facetLow: A project's nearly done and the tidy thing is to close it out tonight. Instead you leave a few threads loose on purpose and walk away with them dangling.
+facetLow: A conversation needs to happen and you have worked out beforehand exactly how to do it. It comes out sideways and lands badly.
 facetLeastTitle: Bull in a Beanshop
-facetLeast: A child asks why the sky goes dark. You take the slow road through it — the whole long answer, none of it trimmed.
-question: Your teenage niece slides her phone across the kitchen table, the whole thread there, and asks whether it's over. From the first message you can see that it is. You...
-answerMost: say "it's over" in one sentence and slide the phone back
-answerHigh: point to the two lines that ended it, then stop
-answerMid: ask three questions, then say the plain thing
-answerLow: read it all the way through and offer one careful sentence
-answerLeast: read it all the way through and tell her what she's hoping to hear
-rorschachMost: a heart laid open, one clean incision at top
-rorschachHigh: a peach halved precisely along its cleft
-rorschachMid: a broad leaf notched at the stem
-rorschachLow: a cushion slumping soft under its own weight
-rorschachLeast: dough spreading shapeless across the board
+facetLeast: You mean to raise the money he owes you and you have been building up to it all evening. What comes out is about his car, and then his holiday, and by the end of it he is annoyed and you have not asked.
+question: You have to tell a supplier of eleven years that you're moving the contract. You...
+answerMost: Do it in four sentences, in the right order
+answerHigh: Say it clearly and let them react
+answerMid: Say it kindly, but say it
+answerLow: Take a run-up and get there eventually
+answerLeast: Talk round it and leave them unsure
+rorschachMost: a scalpel's single cut
+rorschachHigh: a stone, one bored hole
+rorschachMid: a heart in a jar
+rorschachLow: an inked thumbprint
+rorschachLeast: a torn paper edge
 ---
 
 Cured Edamame are the Bean Zodiac's most surgical. They take out the one paragraph that was doing the damage and leave everything else exactly as it was. The precision can feel bloodless from the receiving end. Hacking at something roughly to see what happens is not their method.

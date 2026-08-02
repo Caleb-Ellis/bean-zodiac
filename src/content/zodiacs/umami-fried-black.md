@@ -1,7 +1,6 @@
 ---
-# QUICK REVIEW — trait, excess and inverse all unchanged
 slug: umami-fried-black
-lastUpdated: 
+lastUpdated: 2026-08-02
 bean: black
 flavour: umami
 form: fried
@@ -22,15 +21,15 @@ fortuneHigh: Shut the door and finish it.
 fortuneMid: The wok only browns what sits still.
 fortuneLow: Check your calendar before you make plans.
 fortuneLeast: Chase two things and you may well catch both.
-facetMostTitle: Fatal Beanattraction
+facetMostTitle: Fatal Beantraction
 facetMost: During the house-hunt you've determined an "ideal" street — safe, beautiful, just the right distance to amenities. There are listings for places a couple of streets over, but it doesn't matter — you've already determined the best.
-facetHighTitle: The Hurt Beanlocker
+facetHighTitle: The Bean Locker
 facetHigh: It's a week until exams and the invitations keep piling up — the pub, a lake trip, someone's band playing. You turn down every one of them and stick to studying.
 facetMidTitle: Eyes on the Bean
 facetMid: You're at a friend's for movie night. At fifteen minutes in the film still hasn't really got going, when a few others start reaching for their phones to start second screening. You do not.
-facetLowTitle: Where's Beanwally?
+facetLowTitle: Where's Beany?
 facetLow: You've got a couple of hours of work to get through, so you put a podcast on to keep you company while you do it. By the end you've got the gist of neither.
-facetLeastTitle: Chasing Beanrainbows
+facetLeastTitle: Chasing Beanbows
 facetLeast: You've got a couple of dozen tabs open — a few articles half-read, something you meant to buy, a thing a friend linked you. You don't close any of them, because that's where everything you're thinking about lives.
 question: You're curious about the age of an actor in a movie you just watched, so you look it up on Wikipedia. What happens?
 answerMost: I read their whole page, every film they've ever been in

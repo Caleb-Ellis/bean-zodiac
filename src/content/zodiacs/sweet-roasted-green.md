@@ -1,5 +1,5 @@
 ---
-# COMPLETELY NEEDS UPDATING — trait: capricious -> buoyant, excess: flighty -> bumptious, inverse: unwavering -> deflated
+# TODO: tidy facets, redo fortunes, redo rorschachs
 slug: sweet-roasted-green
 lastUpdated: 
 bean: green
@@ -17,32 +17,32 @@ antiTriple: umami-boiled-mung
 antiBeans: [butter, navy]
 antiForm: smoked
 seasonalFortune: "A season of maple and toasted hazelnut; the tray lifts whatever room it enters."
-fortuneMost: Abandon the plan for the better, weirder one and don't look back.
-fortuneHigh: Cook the thing you didn't shop for.
-fortuneMid: Let the night stay unpinned, the venue keep wandering.
-fortuneLow: Pick the original plan this once.
-fortuneLeast: Go to the friend you keep rescheduling, name it plainly, offer a date you'll actually keep.
+fortuneMost: Up for air and up again, the porpoise cannot stay down where it is heavy.
+fortuneHigh: Say the hopeful thing first and let it stand.
+fortuneMid: You came in low and left higher than you arrived.
+fortuneLow: Some rooms want the flat report, not the lift.
+fortuneLeast: Let the bad news be bad news for an evening.
 facetMostTitle: Too Big for His Beanboots
-facetMost: You set out north on a clear road, then a side track curls off toward hills you've never seen. The wheel turns that way before you've decided anything.
+facetMost: Your colleagues have heard how well it went, and how well the last one went, and your phone is out to show them the numbers, and the man you are telling has just had his own thing turned down and you never asked.
 facetHighTitle: Float On, Bean
-facetHigh: Paint half-bought for a blue room, and a swatch of deep green keeps pulling your eye in the shop. By the time you reach the till you've half-talked yourself into the green.
+facetHigh: The job goes badly, it is nobody's fault, and the room has sagged. You find the part that did work. Everybody leaves that meeting in a better state than they came in, and it was not a trick.
 facetMidTitle: Beanwalking on Air
-facetMid: The haircut you'd settled on starts to bore you the moment you're in the chair. You hear yourself describing something else entirely to the stylist.
+facetMid: Given a bad result and a group who need to hear it, you tell them the truth and then what you would do next, and they believe the second part.
 facetLowTitle: The Pricked Beanballoon
-facetLow: A glittering detour beckons off the route you mapped last night. You wave it off and stay on the road you chose.
+facetLow: A thing you made has come back with a fair bit wrong with it. You look at the list twice and you have gone quiet.
 facetLeastTitle: Let Down, Bean
-facetLeast: Three friends each pitch a wilder way to spend the day. You hear them out, then do the dull thing you'd already promised yourself.
-question: You've been excited about a Saturday plan for two weeks. On Friday night a better, weirder invitation lands for the same evening. You...
-answerMost: text the new address to everyone with three exclamation points and don't look back
-answerHigh: ask the original group if they'd be up for switching — most will say yes
-answerMid: try to swing by both for an hour each
-answerLow: stay with the original plan and quietly mourn the other one
-answerLeast: stick to the plan you made; the version of you who said yes still meant it
-rorschachMost: a kite trailing tails that fly off every way
-rorschachHigh: smoke unspooling in two wandering ribbons
-rorschachMid: a tadpole with its tail curling loose
-rorschachLow: a kite settled with its string laid straight
-rorschachLeast: a balloon tied off to a fixed post
+facetLeast: A verdict is in, it is not what you wanted, and it is not the end of anything. You have told three people that the whole thing is over, and you have started saying these things are decided in advance.
+question: A project you led hasn't worked, and the team is looking at you. You...
+answerMost: Tell them how well the last one went
+answerHigh: Find what did work and build from it
+answerMid: Be honest, then say what's next
+answerLow: Say it's a bad result and leave it there
+answerLeast: Say the whole thing was doomed anyway
+rorschachMost: a full balloon, straining
+rorschachHigh: a float bobbing high
+rorschachMid: a bladder and a bag
+rorschachLow: a ball losing air
+rorschachLeast: a burst balloon, skin only
 ---
 
 Glazed Green Beans are the Bean Zodiac's most buoyant. Bad news, delays, a lost afternoon — they come back up within the hour and take the mood with them. Sometimes the bounce arrives before anyone was ready. Staying down with a thing isn't a posture they hold.

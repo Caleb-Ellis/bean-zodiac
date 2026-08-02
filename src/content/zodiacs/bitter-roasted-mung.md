@@ -1,5 +1,5 @@
 ---
-# COMPLETELY NEEDS UPDATING — trait: humble -> temperate, excess: self-negating -> abstemious, inverse: boastful -> intemperate
+# TODO: tidy facets, redo fortunes, redo rorschachs
 slug: bitter-roasted-mung
 lastUpdated: 
 bean: mung
@@ -17,32 +17,32 @@ antiTriple: sour-dried-fava
 antiBeans: [edamame, green]
 antiForm: fried
 seasonalFortune: "A season of embers and measured warmth. The fire gives exactly enough and stops asking."
-fortuneMost: The pot fed the whole field and nobody asked who cooked it.
-fortuneHigh: When the credit lands at your feet, pass it to the one who set the table.
-fortuneMid: A thank-you that stops at the thank-you.
-fortuneLow: A compliment arrives, and the second decline only makes the giver labour until they quit offering.
-fortuneLeast: A door is opening that only finds you if your name is somewhere it can be read.
+fortuneMost: Curled tight around not much at all, the hedgehog needs remarkably little.
+fortuneHigh: Take the one glass and mean it.
+fortuneMid: Stopping before you wanted to made for a good night of it.
+fortuneLow: Enough and a little over is still roughly enough.
+fortuneLeast: Have the second one and the pudding as well.
 facetMostTitle: Prohibeanition
-facetMost: You fix the broken latch on the shared gate one morning and tell no one, content to let the neighbours think it mended itself.
+facetMost: There are forty beers on at the festival and you have a third of a pint and a bag of nuts in front of you, and you are still on that third when the others are four rounds down.
 facetHighTitle: The Beaniddle
-facetHigh: A stranger praises the meal and asks who made it. You point to the friend who chopped the onions before you ever lit the stove.
+facetHigh: Samples are out on a bakery table and a girl is cutting more of them. One of them goes. You go round the shop and buy the loaf, and you are past that table again on the way to the till with the loaf in your hand.
 facetMidTitle: The Golden Bean
-facetMid: Thanked warmly for the favour, you take it cleanly — no deflecting clause, no quiet correction trailing after.
+facetMid: A cider pressing goes on into the evening and somebody keeps filling your glass. You put your hand over it at the third.
 facetLowTitle: Leaving Las Beangas
-facetLow: Asked by a stranger what you've made of yourself, name the real thing you built and let it stand there without a shrug.
+facetLow: It is a walk over the tops with people you see twice a year and there is a pub at the end of it, and you have two.
 facetLeastTitle: The Beangover
-facetLeast: First through the door at the gathering, you're already telling the room about the thing you pulled off this week.
-question: The whole street turned out for the river clean-up you quietly organised, and now someone's raising a glass to thank you by name. You...
-answerMost: wave it off and toast the dozen others who actually waded in
-answerHigh: thank them and name the people who carried the heavy end
-answerMid: accept it warmly and call it everyone's doing
-answerLow: take the thanks and mention what you'd organise better next time
-answerLeast: tell them how you pulled the whole thing together, step by step
-rorschachMost: a clod of earth beside strewn leaves
-rorschachHigh: two sacks of potatoes, one half empty
-rorschachMid: a jellyfish drifting sideways
-rorschachLow: a grand mask in front of a face
-rorschachLeast: a peacock with its plumage
+facetLeast: A lock-in starts at eleven and somebody has found the whisky the landlord keeps for himself. It goes to four. You are in a taxi you cannot afford, saying something you will worry about.
+question: There's a party going properly well and you said you'd leave at eleven. You...
+answerMost: leave at eleven, and you'd have left at ten
+answerHigh: leave at eleven, having enjoyed it
+answerMid: give it another hour and then go
+answerLow: stay while it's good and get the last train
+answerLeast: stay, and find out where you are at four
+rorschachMost: a measure beside a spill
+rorschachHigh: a loaf and a garland
+rorschachMid: a rock and loose ribbon
+rorschachLow: a cup filled generously
+rorschachLeast: a table laid to excess
 ---
 
 Wood-Fired Mung Beans are the Bean Zodiac's most temperate. Two drinks, home at a reasonable hour, and genuinely no sense of having missed anything. The measure occasionally gets applied to a night that wanted excess. Losing an evening entirely is something they've never let happen.

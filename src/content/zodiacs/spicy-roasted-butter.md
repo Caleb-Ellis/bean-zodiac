@@ -1,5 +1,5 @@
 ---
-# COMPLETELY NEEDS UPDATING — inverse: abstinent -> puritanical
+# TODO: tidy facets, redo fortunes, redo rorschachs
 slug: spicy-roasted-butter
 lastUpdated: 
 bean: butter
@@ -17,32 +17,32 @@ antiTriple: bitter-smoked-cannellini
 antiBeans: [edamame, green]
 antiForm: fried
 seasonalFortune: "A season of piri-piri oil and long pleasure — the oven asks nothing and gives everything."
-fortuneMost: Open the good bottle for no reason at all.
+fortuneMost: Finding the one warm patch and staying in it, the housecat gets nothing else done.
 fortuneHigh: The choice that smells of garlic and oil is the one that stays with you.
 fortuneMid: One spice, taken slow, perfumes the whole supper.
 fortuneLow: Not every craving needs feeding the moment it blisters up.
 fortuneLeast: The bare room rests you in a way the full one can't.
 facetMostTitle: Beancaligula
-facetMost: A heat wave breaks at dusk and the street spills out — music, somebody's speaker, ice melting in a bucket. You're barefoot in it before the song ends.
+facetMost: Third night of the festival and you have not been to bed properly since it started. There is a fire going, somebody has found more of something, and the idea of stopping has not occurred to you or to anybody near you.
 facetHighTitle: The Pleasure Beanprinciple
-facetHigh: Two hotel rooms left at the same price — a tidy single, or the one with the deep tub and the balcony. Take the tub.
+facetHigh: A dozen oysters and a cold bottle at the shack on the harbour wall at eleven in the morning, on your own, because you wanted to.
 facetMidTitle: Beanlotus Eater
-facetMid: The market stall has warm bread and you weren't going to. The smell decides it; you're tearing the heel off before you reach the corner.
+facetMid: There is an hour before you need to be anywhere. You spend all of it in the hot pool at the baths, doing nothing whatsoever, and you are the last one out.
 facetLowTitle: The Beanpuritans
-facetLow: There's the thing you'd regret, right there for the taking. Feel the want crest and let it go by — the not-reaching barely costs you.
+facetLow: Good band, full floor at the dance hall, and you have been asked twice now. You stay at the table with your coat across your knee and your hand round the same glass.
 facetLeastTitle: The Beanteetotaller
-facetLeast: Offered a second helping, a second hour, a second anything — and a plain enough day suits you. More on the plate would only sit there.
-question: It's Wednesday, you're tired, and the better olive oil — the one you've been saving — is on the shelf next to a half-bottle of the everyday one. You're making toast. You...
-answerMost: open the good one, pour generously, sit down to eat properly
-answerHigh: use the good oil, sparingly, and tell no one
-answerMid: use the everyday oil and promise yourself the good one Friday
-answerLow: skip the oil, butter it, finish standing at the counter
-answerLeast: eat the toast dry and get back to what you were doing
-rorschachMost: a brazier overflowing with flames on every side
-rorschachHigh: an octopus with all its arms spread wide
-rorschachMid: a candelabra with curling branched arms
-rorschachLow: a bare bush after the leaves have dropped
-rorschachLeast: a stripped winter thornbush against the sky
+facetLeast: The cider is out of your own apples and it is the best you have ever pressed. You take a thimbleful. The rest goes in the shed, and you tell everybody it is fine.
+question: Midweek, and someone suggests a proper night out. You...
+answerMost: Say yes, and won't be the one going home
+answerHigh: Go, and enjoy it thoroughly
+answerMid: Go for a couple and leave at a sensible hour
+answerLow: Suggest doing it another time
+answerLeast: Say no, and think less of the suggestion
+rorschachMost: a table stripped bare
+rorschachHigh: a bowl and a sprawl
+rorschachMid: a dish with a chip
+rorschachLow: a bowl half emptied
+rorschachLeast: one plate, one spoon
 ---
 
 Peri-Peri Butter Beans are the Bean Zodiac's most hedonistic. The second bottle, the long lunch, the swim before breakfast — they are extremely good at the parts of life that are purely pleasure. Some weeks nothing else fits. Denying themselves a good thing on principle, they don't.

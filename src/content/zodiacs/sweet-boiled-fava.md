@@ -1,5 +1,5 @@
 ---
-# COMPLETELY NEEDS UPDATING — trait: insistent -> encouraging, excess: badgering -> pushy, inverse: acquiescent -> discouraging
+# TODO: tidy facets, redo fortunes, redo rorschachs
 slug: sweet-boiled-fava
 lastUpdated: 
 bean: fava
@@ -17,32 +17,32 @@ antiTriple: spicy-smoked-cannellini
 antiBeans: [green, edamame]
 antiForm: fermented
 seasonalFortune: "A season of orange blossom and warm urging — the pot talks the table into seconds."
-fortuneMost: Ask it again, gently, in the very same words. Repeat it until the table can no longer pretend it didn't hear you.
+fortuneMost: The sheepdog will not stop circling until the whole flock has gone through the gate.
 fortuneHigh: That first reply was a sidestep, not an answer.
-fortuneMid: Mention it the once. That's not a campaign — it's only a marker set down where you can find it again.
+fortuneMid: Mention it the once. That's a marker set down, not a campaign.
 fortuneLow: Let this one pass.
 fortuneLeast: The fight you didn't pick won't come hunting for you.
 facetMostTitle: Beangypsy
-facetMost: The council keeps fobbing you off about the broken streetlight on your road. Same friendly call, same week after week, your voice never sharpening and never quitting either.
+facetMost: The race entry has gone in with her name on it, and twice she has said that she does not want to do it. The kit is in the car, a lift arranged, her mother onside. She will thank you, you think.
 facetHighTitle: The Little Bean That Could
-facetHigh: A friend keeps answering your real question with a joke and a swerve. You wait for the laugh to fade, then ask it again, warmly, exactly as you did the first time.
+facetHigh: He has been talking about the shop for three years and has never once done anything about it. You get the numbers out with him one evening and find the first thing that is actually doable.
 facetMidTitle: Beancheerleader
-facetMid: You'd love the group to try that little place across town sometime. Float it once, then float it once more a fortnight on — a gentle second nudge, and you leave it there.
+facetMid: A friend has done the thing badly but has at least done it, so you tell them the two parts that worked, and you mean both.
 facetLowTitle: Never a Discouraging Bean
-facetLow: The shop won't budge on the refund and you're fairly sure you're in the right. One ask, a shrug, and out the door — this hill isn't worth the climb, and you're lighter not climbing it.
+facetLow: Your niece asks whether you think she could manage the course. You say it is a lot of work, and that people drop out.
 facetLeastTitle: Rain on Your Beanparade
-facetLeast: A relative dodges the question you've wanted answered for years, again, with the usual vague smile. Let it lie this time — some doors stay shut, and you stop pushing on this one.
-question: A robin keeps coming to the garden but won't trust the feeder. You're sure, given time, it'll take seed from your hand. You...
-answerMost: stand out there the same patient hour every morning until it does
-answerHigh: try again each day, a little closer, for as long as it takes
-answerMid: leave seed on the sill and check now and then
-answerLow: top the feeder up and let the bird decide
-answerLeast: enjoy it from the window and leave it wild
-rorschachMost: a fist clenched tight, knuckles out
-rorschachHigh: a tick dug in and holding on
-rorschachMid: a knot of wood in a plank
-rorschachLow: a fist beginning to open its fingers
-rorschachLeast: a loose ball of yarn coming undone
+facetLeast: He has come to you with the plan and it is not a bad plan and he is lit up about the thing, and you go through what could go wrong. You do that thoroughly, you do it kindly, and he does not mention the plan again.
+question: A friend tells you about a plan of theirs that's ambitious and a bit shaky. You...
+answerMost: Sign them up for it before they've decided
+answerHigh: Find what's good in it and push them on
+answerMid: Say the encouraging thing, and mean it
+answerLow: Point out the problems first
+answerLeast: Go through everything that could go wrong
+rorschachMost: a hand pushing a shoulder
+rorschachHigh: an arm held out
+rorschachMid: a jug and its spout
+rorschachLow: an arm drawn back
+rorschachLeast: a shoulder turned away
 ---
 
 Candied Fava Beans are the Bean Zodiac's most encouraging. They tell you the thing you made is good, and name the part that's good, and you go back to it. Sometimes the pushing continues past where you wanted pushing. Watching somebody give up silently, they can't.

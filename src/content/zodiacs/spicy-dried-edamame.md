@@ -1,5 +1,5 @@
 ---
-# COMPLETELY NEEDS UPDATING — excess: scathing -> venomous, inverse: kindly -> toothless
+# TODO: tidy facets, redo fortunes, redo rorschachs
 slug: spicy-dried-edamame
 lastUpdated: 
 bean: edamame
@@ -17,32 +17,32 @@ antiTriple: umami-boiled-adzuki
 antiBeans: [butter, mung]
 antiForm: roasted
 seasonalFortune: "A season of mala salt and dry bite: the soybean answers sharply and does not soften."
-fortuneMost: You see the misstatement before they've finished, and the dry line is already loaded.
-fortuneHigh: Name the right source in passing and let them catch up.
+fortuneMost: The scorpion's tail is over its own back, and that is where it lands first.
+fortuneHigh: Let the dry line go once, and only where it will be understood.
 fortuneMid: Being right and being heard arrive on different trains.
 fortuneLow: Ask the question instead of landing the point.
-fortuneLeast: A wrong thing said near you, left to stand.
+fortuneLeast: The joke you swallow is the one nobody has to forgive.
 facetMostTitle: Beanvenom
-facetMost: The tour guide rattles off a date that's plainly wrong; the group nods along. Loaded on your tongue, the dry correction, before he's even reached the next room.
+facetMost: A man who has just been made a director is being congratulated by everybody in the room. You say the thing about how far a person can get without ever finishing anything. The room hears that. He hears it. You did not say it quietly.
 facetHighTitle: Acid Beantongue
-facetHigh: A speaker fumbles a statistic mid-talk. No heckling — the right figure goes into your question at the end, so the point stands and so does she.
+facetHigh: Somebody asks how the new manager is settling in and you say that he has certainly settled, and the two people who know what you mean look down at their drinks.
 facetMidTitle: With Beanteeth
-facetMid: Asked for your honest read on the idea, you give it straight. No cushion. The flaw named as plainly as the parts that work.
+facetMid: Given a book to say a few words about, you find a sentence that is both entirely fair and impossible to recover from.
 facetLowTitle: Paper Beantiger
-facetLow: A friend's mid-story and loving it, and the fact they just dropped is wrong. Bite down on the correction; ask a question instead and leave them their version.
+facetLow: He has said the thing about your job again, in front of them. You let it go, and it costs you nothing much.
 facetLeastTitle: All Bark, No Bean
-facetLeast: Two people beside you are cheerfully, harmlessly wrong about something. The whole conversation goes uncut, and not a single itch to fix it.
-question: A guide at the ruin tells the tour, with total confidence, a date that's off by three hundred years. The group murmurs, impressed. You...
-answerMost: offer the real date drily and watch the murmur die
-answerHigh: name the right century in passing and let the guide catch up
-answerMid: keep the correction for a quiet word at the gift shop
-answerLow: smile and let the group have its wonder
-answerLeast: let it stand; the stones don't care who's right
-rorschachMost: a scorpion's hooked tail beside a bristling burr
-rorschachHigh: a clawed seahorse curling past a spiked star
-rorschachMid: a curled shrimp beside a small splatter
-rorschachLow: a sleeping cat's tail beside a soft thistle
-rorschachLeast: a coiled rope beside a tuft of wool
+facetLeast: There is an open goal in front of you and everybody at the table is waiting for you to take it. You allow that he probably had his reasons, and you mean it, and the moment goes past without you.
+question: Somebody at the table has just handed you an open goal at their own expense. You...
+answerMost: Take it, and they'll still feel it next week
+answerHigh: Take it, neatly
+answerMid: Take a small one
+answerLow: Let it go by
+answerLeast: Say something kind instead
+rorschachMost: a nettle patch, seeds flying
+rorschachHigh: a swarm off a branch
+rorschachMid: two burrs on a sleeve
+rorschachLow: a dry teasel head
+rorschachLeast: a fern, fronds soft
 ---
 
 Sichuan Edamame are the Bean Zodiac's most mordant. The one-line verdict on the reorganisation is funny, quotable and slightly poisonous, and it circulates for weeks. Some of it does not wash off. Saying something harmless and pleasant instead is not a compromise they'll make.

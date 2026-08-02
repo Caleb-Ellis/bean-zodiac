@@ -1,5 +1,5 @@
 ---
-# COMPLETELY NEEDS UPDATING — excess: pining -> yearning, inverse: satisfied -> forward-looking
+# TODO: tidy facets, redo fortunes, redo rorschachs
 slug: umami-roasted-navy
 lastUpdated: 
 bean: navy
@@ -17,32 +17,32 @@ antiTriple: bitter-smoked-green
 antiBeans: [fava, kidney]
 antiForm: fried
 seasonalFortune: "A season of salt pork fat and bay — the tray remembers a kitchen no longer standing."
-fortuneMost: A line that meant nothing the first times you read it is about to mean everything.
+fortuneMost: Back to the same water every year, and the tundra swan finds it changed.
 fortuneHigh: Cook the recipe that belongs to someone, and say their name while you stir.
 fortuneMid: Put the photo back on the shelf you cleared.
 fortuneLow: Pick up when they call.
 fortuneLeast: Give it away without ceremony.
 facetMostTitle: Somewhere Over the Beanrainbow
-facetMost: Out of a shop drifts a song you danced to once, long ago, with someone long gone — and you stop dead on the pavement, the whole crowd flowing around you, until it ends.
+facetMost: An old rota is still pinned up with the names of people who left four years ago, and you are up at one reading your own messages back.
 facetHighTitle: Cinema Beanadiso
-facetHigh: At a junk stall you find a stranger's wedding photo, names and a date inked on the back. You buy it, and carry someone else's whole vanished afternoon home in your pocket.
+facetHigh: A place you all used to drink in is a chemist now. You walk that way anyway and stand outside a minute.
 facetMidTitle: Those Were the Beandays
-facetMid: Your grandmother's exact phrase rises to your lips, unbidden, in the middle of an argument. Say it aloud and feel her standing behind you, or push it down and stay only in the now?
+facetMid: Somebody has found a photograph from the old workshop and put it on the table. You can name every man in it. You can say what each of them did and which bench was whose.
 facetLowTitle: Tomorrow Never Beans
-facetLow: A friend who's about to move overseas is right here, laughing, tonight. Stay in the laughter — don't pre-grieve someone still in the room with you.
+facetLow: There is a night on with the old crowd and it will be the same four stories told in the same order by the same two people. You go, and you enjoy about half of it.
 facetLeastTitle: Don't Look Beanback
-facetLeast: The desk a beloved mentor left you takes up half the studio you actually need. You pass it to a young artist who'll use it hard, and the empty floor feels like room, not loss.
-question: You're emptying a drawer and find a letter someone wrote you years ago. You...
-answerMost: sit on the floor and read every page, twice, and lose the afternoon
-answerHigh: read it through once and put it carefully back where it was
-answerMid: skim it, smile, leave it on the counter for later
-answerLow: glance at the first line, fold it, keep going
-answerLeast: drop it in the recycling without unfolding
-rorschachMost: a smooth pebble beside a worn-thin lace doily
-rorschachHigh: a locket and its old chain knotted loosely up
-rorschachMid: a stone next to a loose tangle of thread
-rorschachLow: a new spool beside a fresh ball of yarn wound tight
-rorschachLeast: a bare bobbin beside a knot cut loose and dropped
+facetLeast: The boxes from the old house have been in the loft nine years and the skip is booked for the morning, and you do not open any of them, and they go in, and the loft is boarded by the end of the week.
+question: Where does your mind go when it's got nowhere to be?
+answerMost: back, and it stays there
+answerHigh: somewhere that's over, and you don't mind that
+answerMid: back a while, and then forward
+answerLow: roughly where you are
+answerLeast: next year, and what you'll do with it
+rorschachMost: a coast still washing away
+rorschachHigh: a house fraying one end
+rorschachMid: a shore and open water
+rorschachLow: a bank holding for now
+rorschachLeast: a new lane going out
 ---
 
 Rendered Navy Beans are the Bean Zodiac's most wistful. They keep the old rota, the closed pub, the group chat nobody has posted in for two years, and keep them warmly. Sometimes an evening goes on rereading messages. Picturing next year is harder than furnishing this one.

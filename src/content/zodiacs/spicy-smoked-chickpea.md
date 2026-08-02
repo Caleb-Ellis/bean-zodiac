@@ -1,5 +1,5 @@
 ---
-# COMPLETELY NEEDS UPDATING — inverse: leisurely -> unhurried
+# TODO: tidy facets, redo fortunes, redo rorschachs
 slug: spicy-smoked-chickpea
 lastUpdated: 
 bean: chickpea
@@ -17,32 +17,32 @@ antiTriple: umami-fermented-butter
 antiBeans: [navy, pinto]
 antiForm: roasted
 seasonalFortune: "A season of lime and toasted cumin — the smoke is elsewhere by the time you look."
-fortuneMost: Three burners going, chili oil drifting through a room you've already left — that's the dinner, the trip, the whole thing, happening because you can't sit.
-fortuneHigh: A brighter idea lands mid-task and your whole body leans to bolt.
+fortuneMost: All at once the minnows turn, and arrive nowhere in particular.
+fortuneHigh: You move between four things without stopping and all four get done.
 fortuneMid: Not every idea needs chasing the second it arrives.
-fortuneLow: There's a sentence still hanging in the room you bolted from.
+fortuneLow: There is an hour in it yet, and nothing needs your hands.
 fortuneLeast: Make one dish and eat it sitting down.
 facetMostTitle: The Beanthing
-facetMost: Forty acts, four stages, one wristband — you sprint between them catching half of each, already pulled toward the next sound on the wind.
+facetMost: Four things are on, you are doing all four badly, and a fifth has just come in. Your hands have started going to the wrong pockets. Somebody asks a simple question and you have to ask them to say it again, twice.
 facetHighTitle: Beanquicksilver
-facetHigh: Mid-hike a side trail opens off the main one, then another off that. You take both, and the summit you came for slides off the afternoon's plan.
+facetHigh: Four pans and a pass, and dinner service is on, and you move between them without ever quite coming to a stop or looking up.
 facetMidTitle: Slip Through Your Beans
-facetMid: Halfway through packing a suitcase a shiny new idea arrives. You scribble it on the back of a receipt and keep folding shirts, letting it wait its turn.
+facetMid: Getting three of them out of the door by eight, you do the bags, the toast and the reading book in a single circuit of the kitchen.
 facetLowTitle: Beanfrozen in Place
-facetLow: A jigsaw puzzle is spread across the table, half done. You stay in the chair and work one corner till it's solid, ignoring the dozen other things tugging at you.
+facetLow: There is an hour in the tide yet and the nets are nearly all in. You sit down on the box and have your tea while the boat drifts about.
 facetLeastTitle: Stuck Beanfast
-facetLeast: A whole empty day stretches out, and you spend the entire thing on a single park bench with one book, watching the same pond go gold.
-question: A twisted ankle and orders to keep your foot up for the day. By mid-morning you're climbing the walls. You...
-answerMost: are up and limping between three half-started chores by lunch
-answerHigh: prop the foot, then quietly reorganise everything within arm's reach
-answerMid: fidget, get one small thing done, make yourself sit back down
-answerLow: grumble but keep still and let the day go slow
-answerLeast: settle in, ice it, and actually rest the way you were told
-rorschachMost: a cat mid-leap, legs flung every way
-rorschachHigh: a jester's cap with points jutting out
-rorschachMid: a beetle with all its legs splayed
-rorschachLow: an owl perched still, ear tufts up
-rorschachLeast: a toad squatting low, settled in place
+facetLeast: There is a list and not one thing on it has a deadline. You do one job off it and then you go and have a look at the garden.
+question: You've fourteen jobs to do and until six o'clock. You...
+answerMost: Start all fourteen and finish none
+answerHigh: Go at them hard, one after another
+answerMid: Pick the six that actually matter
+answerLow: Do three properly and let the rest wait
+answerLeast: Do one, then put the kettle on
+rorschachMost: a wall taking blows
+rorschachHigh: a loaded cart
+rorschachMid: a block of granite
+rorschachLow: a bed made up
+rorschachLeast: a sleeping ox
 ---
 
 Chipotle Chickpeas are the Bean Zodiac's most frenetic. Three conversations, three registers, and each group is convinced they are the natural fit for it. Sometimes there's no telling which version is the real one. Standing still as one fixed thing they find unbearable.

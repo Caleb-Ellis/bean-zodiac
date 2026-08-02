@@ -1,5 +1,5 @@
 ---
-# COMPLETELY NEEDS UPDATING — inverse: cultivated -> civilised
+# TODO: tidy facets, redo fortunes, redo rorschachs
 slug: umami-smoked-fava
 lastUpdated:
 bean: fava
@@ -17,32 +17,32 @@ antiTriple: sweet-boiled-navy
 antiBeans: [mung, chickpea]
 antiForm: dried
 seasonalFortune: "A season of lardo and old fire — the smoke predates the kitchen it fills."
-fortuneMost: Say the thing under the question, not the answer to it. People come to you to be read.
-fortuneHigh: A stranger is coming who'll leave having said more than they meant to. Open the door without checking who knocked.
-fortuneMid: Cook without measuring the next meal. The recipe you wrote was for a kitchen you don't quite live in anymore.
-fortuneLow: Sand the raw thought smooth before you hand it over.
-fortuneLeast: Cost it out before you swing.
+fortuneMost: Something older than manners answers first in you, and it is usually right.
+fortuneHigh: Eat with your hands and stop apologising for it.
+fortuneMid: The dire wolf is gone and the shape of it is still in every dog.
+fortuneLow: Some rooms want the civilised version and are right to.
+fortuneLeast: Lay the table properly and use the good glasses.
 facetMostTitle: The Jungle Bean
-facetMost: The drum kicks in at the bonfire and your feet are already moving — nothing decides to dance, the body just goes.
+facetMost: Somebody put a hand on your son and the thing that came up in you had no words in it at all. You do not remember the middle part. Three people had hold of you by the end, and what frightens you now is how good it felt at the time.
 facetHighTitle: Primal Screbean
-facetHigh: No signpost where the trail splits at the meadow. You don't weigh it — you feel which way the land pulls and follow.
+facetHigh: The weather has come in, the tent has gone, you are wet through and a long way from down. Something in you takes over, and walks you down, and does not consult you at any point.
 facetMidTitle: Call of the Bean
-facetMid: Skip the level cup. Eyeball it, taste, add by feel until the tongue says enough.
+facetMid: The first proper food in two days, and you eat it standing up with your hands, and you are not embarrassed about that afterwards.
 facetLowTitle: My Fair Beany
-facetLow: Before the trip's booked you build the spreadsheet — dates, costs, every leg — and let the figures settle it.
+facetLow: A dog has gone for another one and everybody has frozen where they stand. You feel the shout coming and you keep it in.
 facetLeastTitle: Sunday Beanest
-facetLeast: New flat, sofa to place. You measure each wall twice, tape the outline on the floor, and only then carry it in.
-question: Alone on the path at dusk, you round a bend and a large dog stands stiff-legged across it, hackles up, watching you. You...
-answerMost: go still, drop low, and let your body answer before thought does
-answerHigh: hold your ground and stare it down without a flinch
-answerMid: stop, breathe slow, and read which way it leans
-answerLow: back off carefully, eyes down, giving it room
-answerLeast: freeze, second-guess every move, and wait for it to decide
-rorschachMost: a horned skull torn from a carcass
-rorschachHigh: a clawed paw raised mid-swipe
-rorschachMid: a rough rock with two chipped peaks
-rorschachLow: a felt hat blocked into a neat crown
-rorschachLeast: a pillow plumped square at the corners
+facetLeast: There is a version of this evening where you say what you actually feel about him and the table finds out, and you pass the potatoes. You ask about the drive down, and you are still asking when the plates go out.
+question: A dog goes for a child in front of you. What takes over?
+answerMost: Something with no words in it at all
+answerHigh: A body that moves before I do
+answerMid: Instinct, then thought
+answerLow: I think first, then act
+answerLeast: I look round for who should handle it
+rorschachMost: a mane, matted and full
+rorschachHigh: a wolf's ruff
+rorschachMid: a seedhead run wild
+rorschachLow: a brushed pelt
+rorschachLeast: a clipped lawn
 ---
 
 Hickory Fava Beans are the Bean Zodiac's most primal. Something in them answers to fire, weather and cold water, and they're better outdoors than anyone. Sometimes it comes out where manners were required. Being purely civil and indoors wears them down.

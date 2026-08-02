@@ -1,5 +1,5 @@
 ---
-# COMPLETELY NEEDS UPDATING — excess: mechanistic -> mechanical
+# TODO: tidy facets, redo fortunes, redo rorschachs
 slug: sour-boiled-black
 lastUpdated: 
 bean: black
@@ -17,32 +17,32 @@ antiTriple: bitter-fried-chickpea
 antiBeans: [mung, green]
 antiForm: smoked
 seasonalFortune: "A season of lime and ordered steps: the soup arrives in the sequence it promised."
-fortuneMost: Good fortune soaks overnight. The step you finish in its own time is the one that holds.
-fortuneHigh: Someone presses you to skip ahead. "After this" is a whole answer.
-fortuneMid: One thing sits in the wrong place and won't stop tugging at you. Move it.
-fortuneLow: An unfamiliar road, and the careful plan starts to lie. Follow the wrong turn a while — it knows something the map didn't.
+fortuneMost: Every leaf goes down the same trail in the same order, and the ant never asks why.
+fortuneHigh: Say after this, and let that be the whole answer.
+fortuneMid: One thing sits in the wrong place and keeps tugging.
+fortuneLow: Follow the wrong turn a while; the map was old.
 fortuneLeast: Begin where the heat already is, not where the page says.
 facetMostTitle: Modern Beans
-facetMost: There's a shortcut through the steps and everyone can see it but you won't take it. The last one has to finish closing before the next is allowed to open.
+facetMost: The shed is being cleared and you have made a system — nails in one jar, screws by length in the others, and a list on the door of what went where. The others gave up on it an hour ago and are just filling boxes.
 facetHighTitle: Beanhunter
-facetHigh: Hand someone a long job and watch them dive in. You'd lay every piece out in its place first, then begin.
+facetHigh: You do the medicines the same way every night. Blister packs out, the chart marked, the box refilled for the morning before you sit down.
 facetMidTitle: Law & Beander
-facetMid: Oldest first, always — the reply that's gone a little stale gets answered before the one that just came in.
+facetMid: Same order round the house every time, same route, bathroom bin last because of the stairs. The whole thing takes four minutes.
 facetLowTitle: It's Always Sunny in Beanadelphia
-facetLow: The recipe hasn't been read past the first line and the heat is already on. You let your hands run ahead of the plan and find out where they land.
+facetLow: The recipe wants everything weighed out first. You go at it as you find it, pulling things out of the cupboard as you need them.
 facetLeastTitle: Arrested Beanvelopment
-facetLeast: Mid-conversation the whole evening changes shape — it was never Friday, it's tonight. You scrap what you'd arranged and ride the new version gladly.
-question: You're assembling flat-pack furniture with a friend who has already opened three bags out of order. You...
-answerMost: re-bag everything and start the instructions from page one
-answerHigh: quietly sort the loose screws while they keep going
-answerMid: do step one yourself while they do step four
-answerLow: shrug and grab the nearest panel
-answerLeast: throw the instructions on the sofa and start guessing
-rorschachMost: a small idol stacked square on a broad plinth
-rorschachHigh: a tree, narrow crown over a split sturdy trunk
-rorschachMid: a beetle seen from above
-rorschachLow: a snowman half-slumped, head sliding off the base
-rorschachLeast: a heap of laundry tipped from the basket
+facetLeast: Ferry in an hour. Things go into the bag as they come to hand, boots down on top of the shirts, and the toothpaste is anybody's guess.
+question: There is a job to be done that will take all weekend. You...
+answerMost: draw up the order of work before you touch anything
+answerHigh: get the tools and the parts laid out, then start
+answerMid: start at the obvious end and work along
+answerLow: get going and sort out the mess as it appears
+answerLeast: start in three places at once and see which one takes
+rorschachMost: courses laid by machine
+rorschachHigh: a stack built in layers
+rorschachMid: a pyramid, base uneven
+rorschachLow: a pile roughly squared
+rorschachLeast: bricks dropped anyhow
 ---
 
 Brined Black Beans are the Bean Zodiac's most methodical. The move happens in labelled boxes in a numbered order, and on the day nothing is lost. The order sometimes survives past its usefulness. Doing a thing in whatever sequence it arrives isn't restful to them, it's alarming.

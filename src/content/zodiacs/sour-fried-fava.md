@@ -1,5 +1,5 @@
 ---
-# COMPLETELY NEEDS UPDATING — trait: reckless -> unhesitating, excess: madcap -> impetuous, inverse: chary -> irresolute
+# TODO: tidy facets, redo fortunes, redo rorschachs
 slug: sour-fried-fava
 lastUpdated: 
 bean: fava
@@ -17,32 +17,32 @@ antiTriple: bitter-boiled-navy
 antiBeans: [black, butter]
 antiForm: smoked
 seasonalFortune: "A season of mint and hot pecorino; the pod goes in without checking the temperature."
-fortuneMost: The careful version dies waiting, and you've always known it.
-fortuneHigh: A door swings open by accident, out where the road forks and the map runs out. Go through before it swings back.
-fortuneMid: Shove the heavy thing across the floor first and decide second.
+fortuneMost: Going before looking has cost you about as much as it ever saved.
+fortuneHigh: A door swings open where the road forks. Go through before it swings back.
+fortuneMid: A gannet folds and drops from a hundred feet without checking twice.
 fortuneLow: Let someone else have the wheel for this stretch.
 fortuneLeast: People have been quietly counting your last few crashes.
 facetMostTitle: Romeo and Beanliet
-facetMost: A cliff path opens onto cold water far below, with a few locals leaping in. You're off the edge before you've checked how deep it runs.
+facetMost: You hand the notice in on the same morning as the conversation, before looking at what is in the account or what the mortgage needs. It felt right and it is done. You will find out on the way home that somebody at home has a view about this.
 facetHighTitle: Just Do Bean
-facetHigh: A stranger at a hostel says they're driving north in ten minutes — room for one more. Your bag's already on your shoulder.
+facetHigh: A child has gone off the harbour wall and the water is coming in fast underneath. You are over the rail and into it before anybody has said anything out loud.
 facetMidTitle: Beanleap of Faith
-facetMid: Three of a strange fruit you can't name, bought from a market stall and bitten into on the street — no questions asked of the seller.
+facetMid: A van that is right and a seller with two other people coming, so you shake on it in the yard and sort the money out afterwards.
 facetLowTitle: The Road Not Beanken
-facetLow: Halfway across a frozen pond on a dare, a faint crack underfoot. You stop, test each step, and pick the slow way back to the bank.
+facetLow: House is right, price is right, and the agent needs an answer. You want a week, and then another week after that.
 facetLeastTitle: Should I Stay or Should I Bean
-facetLeast: A once-in-a-lifetime bet is on the table and the window's closing. You walk away from it, read every line of the fine print, and sleep on it twice.
-question: You're an hour into a road trip and realise you may have left the back door unlocked. The drive is six hours. You...
-answerMost: keep driving and decide it's a future-you problem
-answerHigh: text the neighbour to check, keep going
-answerMid: pull over, sit with it for five minutes, decide
-answerLow: turn around at the next exit to be sure
-answerLeast: cancel the trip entirely and reschedule
-rorschachMost: a water balloon caught the instant it bursts
-rorschachHigh: a dollop of batter dropped off the spoon
-rorschachMid: a beet pulled up by its tapering root
-rorschachLow: a sandbag set down to hold the door
-rorschachLeast: a waterskin corked tight against any spill
+facetLeast: Either of the two would be fine and a fortnight has gone on this already, and there is a list. There is a second list about the first list, and the offer on one of them ran out yesterday.
+question: A van you want comes up and the seller says two others are coming to see it. You...
+answerMost: Shake on it there and then
+answerHigh: Buy it that same day
+answerMid: Give myself an hour to think
+answerLow: Ask for a couple of days
+answerLeast: Still be deciding when it sells
+rorschachMost: a diver off the board
+rorschachHigh: a dart thrown, hand empty
+rorschachMid: a ball above a mitt
+rorschachLow: a spinning coin
+rorschachLeast: a foot at the edge
 ---
 
 Agrodolce Fava Beans are the Bean Zodiac's most unhesitating. The offer arrives and they say yes in the same minute, and the yes usually turns out well. Sometimes the yes precedes the reading of it. Sleeping on a decision has never once made theirs better.

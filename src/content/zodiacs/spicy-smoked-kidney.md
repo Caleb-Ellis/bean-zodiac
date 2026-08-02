@@ -1,5 +1,5 @@
 ---
-# COMPLETELY NEEDS UPDATING — inverse: passing -> casual
+# TODO: tidy facets, redo fortunes, redo rorschachs
 slug: spicy-smoked-kidney
 lastUpdated: 
 bean: kidney
@@ -17,32 +17,32 @@ antiTriple: sour-roasted-fava
 antiBeans: [pinto, edamame]
 antiForm: dried
 seasonalFortune: "A season of molasses and total appetite — the smoke takes the whole house, then the street."
-fortuneMost: You love a thing past comfortable, the way the andouille gives up its fat only after hours — and what you make at that heat, no one cooler can reach.
+fortuneMost: Field, then the next field, and the locust has no idea how to stop.
 fortuneHigh: Fixed on one thing, you forget the rest of the room exists.
 fortuneMid: Full heat and a right-sized answer can share a plate.
 fortuneLow: Someone's been waiting through your fever for any word at all.
-fortuneLeast: The heat's gone and you're standing over a heap of cold gray ash.
+fortuneLeast: The heat's gone and you're standing over a heap of cold grey ash.
 facetMostTitle: Beanthe Hunger
-facetMost: One song catches and you play it forty times straight, learning every layer, until a knock at the wall reminds you there were neighbors at all.
+facetMost: Bouldering was a thing you tried once and there is chalk in the car now and a fingerboard over the bathroom door, and two people you no longer see because they wanted a pub instead.
 facetHighTitle: All-Consuming Bean
-facetHigh: A museum has one painting you came to see and forty rooms besides. You stand in front of that one canvas until closing and skip the rest without regret.
+facetHigh: The band was a name somebody mentioned. You have the three albums now, both live sets and the drummer's other project. You are working out whether the Hull date is drivable and back for work.
 facetMidTitle: Can't Get Enough Bean
-facetMid: What was meant to be a light gardening hobby has you out at first light, knees in the dirt, pouring everything into one stubborn row of tomatoes.
+facetMid: A recipe has beaten you twice and there is no earthly reason to try it again before morning, and the kitchen is clean and put away. You are on the third batch at ten at night with the scales out and the oven back on.
 facetLowTitle: Beanno Big Deal
-facetLow: A new hobby is fun for a couple of weeks, then the shine dims. You shelve the gear without a second thought and wander toward whatever's next, no ache about it.
+facetLow: You were four episodes into the thing everybody said you had to watch, and the log-in has gone and you have not chased it.
 facetLeastTitle: No Beanstrings Attached
-facetLeast: Here's the thing everyone swears is consuming — the book they couldn't put down, the trip of a lifetime. You enjoy it at a low, steady warmth and turn in at a sensible hour.
-question: Someone new has gotten under your skin and the thought of them is crowding out food, sleep, everything else. You...
-answerMost: burn down every other plan and chase it headlong
-answerHigh: let it take over and follow wherever it pulls
-answerMid: feel the pull hard but keep one foot on the ground
-answerLow: enjoy it quietly and hold the rest of your life steady
-answerLeast: notice the spell and refuse to let it run you
-rorschachMost: a wildfire's smoke billowing up the hill
-rorschachHigh: a thundercloud swelling before the storm
-rorschachMid: a bushy shrub catching the wind at its top
-rorschachLow: the last smoke off a fire dying down
-rorschachLeast: a cold heap of ash gone gray and still
+facetLeast: Somebody you have been seeing a month asks whether you want to make it a proper thing. You are happy either way, and you tell her so. You go home to your own flat.
+question: You've found a band you love and there's a gig two hundred miles away on a work night. You...
+answerMost: book the ticket, the hotel and the day off
+answerHigh: drive it, see them, drive back, work tired
+answerMid: go if somebody else fancies it
+answerLow: put it in the diary and see how you feel
+answerLeast: wait for them to come round nearer
+rorschachMost: a mouth over the plate
+rorschachHigh: a wave taking a beach
+rorschachMid: a tablecloth spread out
+rorschachLow: a hand near a dish
+rorschachLeast: a plate passed along
 ---
 
 Chipotle Kidney Beans are the Bean Zodiac's most consuming. What they love they love completely, and being loved by one takes up the whole room. Occasionally there is no air left in it. Caring about something casually is not a dial they have got.

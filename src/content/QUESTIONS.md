@@ -114,6 +114,41 @@ you reach for across the corpus so neither becomes the default.
   outright fantastical. Unlike the body copy, relatability
   here lives in the _choice_, not the scene — a strange premise is fine as long as the
   five answers map onto recognizable instincts.
+
+### ⛔️ Give the reader something to picture — no placeholder nouns
+
+The most common way a question dies is by describing its own shape instead of a
+scene. **"Doing the right thing here will cost you something real. You…"** is the
+type specimen: *the right thing* is unnamed, *something real* is unnamed, and
+*here* is nowhere. The sentence is a diagram of a dilemma with every slot left
+empty, so the reader has nothing to react to and the five answers float free.
+
+Watch for these words doing the work a noun should be doing: **something,
+someone, a thing, a decision, an occasion that matters, somewhere, anything, it
+goes wrong, properly**. They are not banned — "someone asks you what time you'll
+be there" is fine, because the *asking* is the concrete event. They are a smell.
+When one appears, ask whether a reader could draw the scene. If they'd have to
+invent the object themselves, you have written a template, not a question.
+
+The fix is always the same: **name one thing.** Not the category — the object.
+
+> ❌ "Something you took on has turned out far harder than you expected. You…"
+> ✅ "You said you'd redo the bathroom in a fortnight and you're five weeks in
+> with no working sink. You…"
+
+> ❌ "You are waiting on something outside your control. You…"
+> ✅ "The hospital said they'd ring with the results by six, and it's quarter
+> past. You…"
+
+Note what the naming buys: the second version fixes the stakes, the timescale and
+the emotional temperature all at once, and it does it in the same word count. A
+vague question is not shorter — it is the same length with the information taken
+out.
+
+The same test applies to a standalone question. "How do you take bad news?" works
+because *bad news* is an event the reader can supply from their own life
+instantly. "What's your relationship with the truth?" does not, because it asks
+the reader to theorise about themselves rather than remember something.
 - Tied to the trait, but obliquely — the question is a scene or prompt where the trait gets
   tested, not a quiz about the trait. The five answers do the trait-mapping work.
 

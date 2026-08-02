@@ -1,5 +1,5 @@
 ---
-# COMPLETELY NEEDS UPDATING — inverse: law-abiding -> compliant
+# TODO: tidy facets, redo fortunes, redo rorschachs
 slug: spicy-fermented-fava
 lastUpdated: 
 bean: fava
@@ -17,32 +17,32 @@ antiTriple: umami-boiled-navy
 antiBeans: [cannellini, mung]
 antiForm: dried
 seasonalFortune: "A season of broad bean koji and quiet undermining — the paste rewrites the dish from inside."
-fortuneMost: Work the back while the front still argues the menu.
-fortuneHigh: One low line, the right moment, the right ear — and the agreed-upon plan quietly becomes another plan.
-fortuneMid: You take the path nobody thought to walk and arrive holding the answer the kitchen's been hunting since noon.
-fortuneLow: A move that lands as a pure surprise can die on arrival.
-fortuneLeast: When the lock's already been changed, the cleverest key is wasted on it.
+fortuneMost: The plan changed and nobody can say when, which is exactly how you wanted it.
+fortuneHigh: "Work like the mole: under the lawn, and the lawn finds out late."
+fortuneMid: You take the path nobody thought to walk and arrive holding the answer.
+fortuneLow: Landing as a pure surprise can kill a good move on arrival.
+fortuneLeast: When the lock's been changed, the cleverest key is wasted on it.
 facetMostTitle: V for Beanvendetta
-facetMost: While the group keeps debating where to go, you've already booked the place, paid the deposit, set the thing in motion. They'll discover it's decided when there's nothing left to debate.
+facetMost: You have got four of them meeting on their own now and the agenda is yours, and nobody upstairs knows. What you are building will not be a suggestion when it arrives, it will be a fact, and you have been at this since the second week.
 facetHighTitle: Nineteen Eighty-Bean
-facetHigh: There's one person in the room whose mind, changed in private, changes everyone else's. Find them after, plant the single sentence, and let it travel on its own.
+facetHigh: That form has to go through the proper channel, and the proper channel is the whole problem. You find another route, use that once to show it works, and say nothing afterwards.
 facetMidTitle: Beanunderground
-facetMid: The official form has no box for what you actually need. Rather than fight it, you fill the form the way that gets you what you want and let the box stay unticked.
+facetMid: Handed the reading list and told which parts to leave out, you teach those parts and mark the essays generously.
 facetLowTitle: Beancompliance
-facetLow: The quiet workaround would get you there without anyone the wiser. But the meeting's right here, so you raise your hand and put the disagreement on the table where everyone can see it.
+facetLow: Policy is daft and everybody in the room knows as much. You put your name on the thing and carry it out properly.
 facetLeastTitle: Toe the Beanline
-facetLeast: You're tempted to set the surprise up quietly and spring it fully formed. Instead you walk people through it from the very first rough sketch, every step in the open.
-question: The team is locked in a long meeting over which direction to take, and the obvious answer is being talked past. You...
-answerMost: quietly line up the one person who can swing the room, then let them raise it
-answerHigh: drop the deciding point into the chat as an offhand aside and let it land
-answerMid: wait for a gap and put the answer plainly on the table
-answerLow: say your piece once and leave it to the group
-answerLeast: keep quiet and go along with whatever they settle on
-rorschachMost: roots buckling a slab from underneath
-rorschachHigh: a tunnel hollowed inside the hill
-rorschachMid: a craggy island with one offshore rock
-rorschachLow: a cloaked figure standing in the open
-rorschachLeast: a banner hung straight down the wall
+facetLeast: An instruction comes down plainly wrong, and two people have already said so quietly. You do it exactly as written. You would not describe yourself as happy about that, and you would do the same again.
+question: You're told to do something the proper way, and the proper way is what's broken. You...
+answerMost: Build the alternative and bring people with me
+answerHigh: Use the other route and not mention it
+answerMid: Follow it, and push to get it changed
+answerLow: Follow it, and grumble
+answerLeast: Follow it exactly as written
+rorschachMost: a wall coming apart quietly
+rorschachHigh: a coast losing its cliffs
+rorschachMid: a loaf, one end torn
+rorschachLow: a fence, two palings out
+rorschachLeast: a wall freshly pointed
 ---
 
 Kimchi Fava Beans are the Bean Zodiac's most subversive. They find the rule that isn't doing anything and quietly stop obeying it, and within a month nobody obeys it. Sometimes the rule was load-bearing. Following a process purely because it exists they cannot bring themselves to.

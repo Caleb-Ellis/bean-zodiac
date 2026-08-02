@@ -1,5 +1,5 @@
 ---
-# COMPLETELY NEEDS UPDATING — excess: effete -> fastidious, inverse: crude -> coarse
+# TODO: tidy facets, redo fortunes, redo rorschachs
 slug: bitter-roasted-cannellini
 lastUpdated: 
 bean: cannellini
@@ -17,32 +17,32 @@ antiTriple: umami-smoked-fava
 antiBeans: [kidney, mung]
 antiForm: fermented
 seasonalFortune: "A season of rosemary and burnt shallot — the fire edits, and what survives is better company."
-fortuneMost: You wipe the rim no one else would ever notice.
+fortuneMost: You wipe a rim nobody would have seen, and the meal goes cold doing it.
 fortuneHigh: For the small thing, one more pass earns its keep.
-fortuneMid: Carry the olives to the table and let the crooked picture stay crooked.
-fortuneLow: A crooked picture in someone else's house isn't yours to right.
-fortuneLeast: Down by the water, the bruschetta eaten off a wall with the wind in everyone's hair will beat the perfect plate left waiting on the bench.
+fortuneMid: All that gliding is done by feet nobody is meant to see.
+fortuneLow: Eat it off the wall with the wind in it.
+fortuneLeast: The plate left perfect on the bench is the one nobody ate.
 facetMostTitle: The Talented Mr. Beanley
-facetMost: Borrow a friend's car for a day and it comes back washed, tank full, the crumbs they'd never have mentioned gone from the seats.
+facetMost: The jasmine in the fourth trial is a shade heavier than the third and the difference lasts about ten seconds on the strip. The batch goes back. The perfumer says nobody in the world will notice, and you say that is not the point.
 facetHighTitle: The Age of Beannocence
-facetHigh: The table's set and fine, yet you circle it once more, turning each fork a quarter-inch till the handles line up.
+facetHigh: A plate comes to the pass with the sauce smeared up one side. You wipe it, turn the garnish, and let it go.
 facetMidTitle: Beanton Abbey
-facetMid: Bring the lost newcomer one good name to meet, then let the party carry them the rest of the way.
+facetMid: You check in a party of forty at the desk and get every name right, said the way its owner says it, including the two you had to look up.
 facetLowTitle: Beanorat
-facetLow: A half-formed idea is on your tongue and the meeting's still going. You say it out loud unfinished and shape it as it lands.
+facetLow: Pie and a pint for four pounds at the club, on the plates they have always had. You eat the lot and go back up for more gravy.
 facetLeastTitle: South Bean
-facetLeast: The shelf you built leans a little and the joints show, and there's your coat already hung on it, the sander nowhere in your thoughts.
-question: You arrive early at a friend's place. The lamps are wrong, a picture hangs crooked, and the bowl of olives is on the windowsill. You...
-answerMost: rearrange the room before they come out of the kitchen
-answerHigh: straighten the picture and nudge the lamp
-answerMid: move the olives to the table and leave the rest
-answerLow: notice it all, touch nothing, sit down
-answerLeast: settle into the crooked chair without seeing any of it
-rorschachMost: a crown's points raised above a carved base
-rorschachHigh: a fern unfurling fronds from a tidy clump
-rorschachMid: a rocky islet with a few jutting peaks
-rorschachLow: a crab scuttling, legs splayed out crooked
-rorschachLeast: a torn leaf chewed ragged at the edges
+facetLeast: Somebody's grandmother is carving in the farm kitchen and the bread goes round in hands rather than on a plate. You wipe your knife on the tablecloth like everybody else.
+question: You're served a fish pie at someone's house and the fish has plainly been cooked twice. You...
+answerMost: Taste exactly what's wrong and can't unnotice it
+answerHigh: Eat it happily and say nothing
+answerMid: Enjoy the evening more than the food
+answerLow: Not really register the difference
+answerLeast: Have seconds
+rorschachMost: a bristling thistle head
+rorschachHigh: a sea urchin
+rorschachMid: a burr caught on wool
+rorschachLow: a crushed thistle
+rorschachLeast: a mud spatter
 ---
 
 Wood-Fired Cannellini Beans are the Bean Zodiac's most refined. They know which glass, which knife, which of two nearly identical greens is right, and never make anyone feel tested by it. The standards can get airless. Cheerful roughness is hard for them to enjoy.

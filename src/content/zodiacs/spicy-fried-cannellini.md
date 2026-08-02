@@ -1,5 +1,5 @@
 ---
-# CHANGED SINCE THIS CONTENT WAS WRITTEN — trait: ambitious -> driven, excess: ruthless -> consumed, inverse: complacent -> aimless
+# TODO: tidy facets, redo rorschachs
 slug: spicy-fried-cannellini
 lastUpdated: 
 bean: cannellini
@@ -23,26 +23,26 @@ fortuneMid: Take the road that climbs a little.
 fortuneLow: Not all good things need to become great things.
 fortuneLeast: Take it easy, don't worry about it.
 facetMostTitle: Beanburning Up
-facetMost: The promotion is down to you and a colleague. You find out when and where the director plays tennis, then book a court next to his to try and induce some friendly conversation.
+facetMost: Sixty-one days at the oars and your hands have gone through a stage you were warned about and out the other side. The boat behind you turned back a fortnight ago. Stopping has not entered your head, and neither has anybody at home.
 facetHighTitle: Beandriven
-facetHigh: You're reasonably fit, but have never competed in a triathlon before. You sign up for one, mainly to see if you can actually do it, and pin a training plan to the fridge.
+facetHigh: The bakery opens at five and you have been in at two every morning for a year now, and the second oven is going in next month.
 facetMidTitle: Beanblind Ambition
-facetMid: You started making sourdough after you were gifted a jar of starter. Two months later there's a spreadsheet with hydration levels, crumb photos, tasting notes — and it won't stop until you've baked the perfect loaf.
+facetMid: Given a free afternoon you put all of it into the thesis, because the thesis is the thing and the afternoon was never free.
 facetLowTitle: The Beandrifters
-facetLow: You've always fantasised about starting a business — no boss, full ownership of the work, broadening your skills. An old colleague reaches out to you to offer exactly that. You decline — it's not a great time.
+facetLow: The boat is fuelled, the weather is fine, and nothing at all is stopping you going out. You sit on the harbour wall instead and watch the others go past.
 facetLeastTitle: No Beanplan
-facetLeast: Two offers in front of you — one very similar to what you do now, the other running a team of six for an extra 30%. You take the familiar route.
-question: How do you play board games?
-answerMost: I want to win by any means necessary
-answerHigh: I play to win, sticking to the rulebook
-answerMid: I prefer winning, but not at the expense of others' fun
-answerLow: I'm in it for the snacks and the company
-answerLeast: I'd rather sit out and just watch
-rorschachMost: an exposed ribcage
-rorschachHigh: a rearing stag
-rorschachMid: an alert hare
-rorschachLow: a sagging scarecrow on its post
-rorschachLeast: an old, broken chair
+facetLeast: Four hours on a bus to a town you picked off the map because the name was good. There is nothing there, you knew there would be nothing, and that was rather the point.
+question: You've hit the thing you were working towards. You...
+answerMost: Have the next one going already
+answerHigh: Enjoy it briefly, then look ahead
+answerMid: Take a proper break
+answerLow: Wonder what all that was for
+answerLeast: Wasn't working towards anything
+rorschachMost: a rearing stallion
+rorschachHigh: a leaning runner
+rorschachMid: a winter tree
+rorschachLow: a slumping scarecrow
+rorschachLeast: a coat on a hook
 ---
 
 Red-Hot Cannellini Beans are the Bean Zodiac's most driven. Up at five, the qualification finished while working full time, and none of it announced. Sometimes no version of an evening counts as enough. Coasting for a fortnight is a thing they have never tried.

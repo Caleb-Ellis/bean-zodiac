@@ -1,5 +1,5 @@
 ---
-# COMPLETELY NEEDS UPDATING — excess: moralistic -> doctrinaire, inverse: amoral -> expedient
+# TODO: tidy facets, redo fortunes, redo rorschachs
 slug: umami-fried-cannellini
 lastUpdated: 
 bean: cannellini
@@ -18,31 +18,31 @@ antiBeans: [butter, pinto]
 antiForm: roasted
 seasonalFortune: "A season of anchovy and parmesan: the fritter refuses the shortcut it was offered."
 fortuneMost: The anchovy stays in the pan when the room asks you to lift it out.
-fortuneHigh: A friend's name is missing from the thread, and the lamp stays on till you've fixed it.
+fortuneHigh: Put the missing name back in and stay up until it is done.
 fortuneMid: Pay the small debt back exact, in cash, even after they've waved it off twice.
 fortuneLow: A line you drew years ago may be fencing the wrong yard now.
-fortuneLeast: Hear the whole story before the verdict.
+fortuneLeast: Even an elk goes round the deep water sometimes.
 facetMostTitle: Das Beankapital
-facetMost: The cashier shorts themselves and hands you too much change; you walk it straight back to the counter without weighing whether they'd notice.
+facetMost: Nine years since you last went into that shop, over something the owner said, and the owner has since sold up and died. The new people know nothing about any of it. You still walk the extra half mile to the other one.
 facetHighTitle: On the Beanwaterfront
-facetHigh: A crowd is laughing at someone who walked off, and you'd rather be the one who stays unsmiling than the one who joins to stay easy.
+facetHigh: Refereeing your own club, you give the penalty against them in the last minute, and the whole touchline lets you know about it for a fortnight.
 facetMidTitle: A Line in the Beansand
-facetMid: You said you'd return the borrowed ladder by week's end, and you carry it back across town even though they've clearly forgotten lending it.
+facetMid: The supplier is cheap because of where he gets the stuff. You find out where, you stop using him, and it costs you the contract.
 facetLowTitle: Whatever Beanworks
-facetLow: The rule you set yourself years ago no longer fits the ground you're standing on — and you find you can let it go without it feeling like defeat.
+facetLow: The claim form has a box for a receipt you no longer have, for a coffee you definitely bought and definitely paid for. You put the number in and move on.
 facetLeastTitle: By Any Beans Necessary
-facetLeast: A stranger tells their side of a quarrel you've already judged, and you set the verdict down to hear the half you never witnessed.
-question: On the empty platform you find a wallet, fat with cash, a driver's licence tucked inside. You...
-answerMost: track the address yourself and return it untouched that night
-answerHigh: hand it to the station office, cash and all
-answerMid: take it in, mean to return it, leave it on the side a while
-answerLow: post the card back and quietly keep the notes
-answerLeast: pocket the cash, drop the rest in the bin
-rorschachMost: an anvil planted square, refusing to budge
-rorschachHigh: a clenched fist held perfectly still
-rorschachMid: a walnut sitting whole in its shell
-rorschachLow: a cabbage with its outer leaves loosening
-rorschachLeast: a rag bunched and dropped in a corner
+facetLeast: There is one space left in the car park and a badge in the glovebox that is not yours and never was, and you put it up on the dash and go in.
+question: You've found out your best supplier uses labour he shouldn't, and dropping him loses you the contract. You...
+answerMost: Do it, and think less of anyone who doesn't
+answerHigh: Do it and pay the cost
+answerMid: Do it if the cost isn't ruinous
+answerLow: Look for the version that costs less
+answerLeast: Do whatever works
+rorschachMost: a squared granite tablet
+rorschachHigh: an anvil on its block
+rorschachMid: a heart-shaped leaf
+rorschachLow: a bruised apple
+rorschachLeast: a squashed fig
 ---
 
 Tempura Cannellini Beans are the Bean Zodiac's most principled. They turn down the work that pays well and doesn't sit right, and never make a speech about it. Sometimes the principle outranks the person in front of them. Doing the convenient thing they won't.

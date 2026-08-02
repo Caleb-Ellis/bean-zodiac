@@ -1,5 +1,5 @@
 ---
-# COMPLETELY NEEDS UPDATING — excess: snobbish -> airless, inverse: commonplace -> common
+# TODO: tidy facets, redo fortunes, redo rorschachs
 slug: sweet-dried-cannellini
 lastUpdated: 
 bean: cannellini
@@ -17,32 +17,32 @@ antiTriple: spicy-roasted-adzuki
 antiBeans: [chickpea, kidney]
 antiForm: fried
 seasonalFortune: "A season of vanilla sugar and thin altitude: the glacé belongs on a high shelf."
-fortuneMost: Twelve jars pared to three, the cake out cleaner for it.
-fortuneHigh: A feather on white paper says more than a heaped table ever will.
-fortuneMid: Make the thing well, line it up just so, and then — hardest part — let it be finished.
-fortuneLow: Show someone the rough cut, the version you'd rather sand smooth first.
+fortuneMost: Nothing lives that high but the snow leopard, and it is seldom seen.
+fortuneHigh: Take out three more and see what is left standing.
+fortuneMid: You made it well, lined it up, and let it be finished.
+fortuneLow: Show someone the version you would rather sand smooth first.
 fortuneLeast: Pour two glasses for whoever's nearest and let the evening go heaped and chaotic.
 facetMostTitle: No Beanair
-facetMost: One thing kept, the genie says, and the fire takes the rest — and you name it without a flicker of hesitation, watching the smoke rise off everything else.
+facetMost: Eleven people at the recital and eight of them know the piece bar for bar. A phone goes off and the room turns as one. Afterwards, over the good sherry, nobody mentions a single thing that happened outside that room all year.
 facetHighTitle: Rarefied Beanair
-facetHigh: Thanks, but none of them — a roadside vendor fans out a dozen cheap shiny trinkets, and you keep your hands in your pockets and walk on light.
+facetHigh: Ninety per cent humidity and one degree of movement either way is what the orchid wants, and you give it exactly that, every day.
 facetMidTitle: The High Beantable
-facetMid: Packing a bag for a long trip, you lay out twice what fits and quietly halve the pile until only what earns its weight is left.
+facetMid: Given the run of the members' library, you take the same chair by the same window. You read the same three journals that nobody else has ever opened.
 facetLowTitle: Common Beanpeople
-facetLow: A bunch of wildflowers comes loose and lopsided from a child's fist. You crowd them all into the vase, stems uneven, and love the riot of it.
+facetLow: There is a chip shop on the corner with a queue out the door and everybody in it is in a good mood about something, so you join the end of the queue.
 facetLeastTitle: Common as Beanmuck
-facetLeast: Arms already full, you wade deeper into a yard sale that sprawls mismatched and overflowing under the trees, hauling home far more than you came for.
-question: A drawer is full and you've promised yourself to thin it before the weekend. Twenty-six things in, eight things kept. You...
-answerMost: put six of the eight back; only two of them actually earn the drawer
-answerHigh: pull the eight down to four and donate the rest by Sunday
-answerMid: keep all eight, line them up the way you want them
-answerLow: keep eight, add back two of the first round
-answerLeast: tip the donate pile back in; the drawer was fine
-rorschachMost: a single feather laid on white paper
-rorschachHigh: one orchid in a tall empty vase
-rorschachMid: a leaf pressed flat in a book
-rorschachLow: a junk drawer tipped onto the floor
-rorschachLeast: a flea market table heaped with everything
+facetLeast: Fourteen days on a coach with forty-one strangers, a singsong at the front and a stop at every services on the whole route. You have the time of your life.
+question: What kind of place do you feel most yourself in?
+answerMost: Somewhere very few people are allowed
+answerHigh: Small, quiet, and chosen carefully
+answerMid: Anywhere with the right people in it
+answerLow: Somewhere busy and ordinary
+answerLeast: The most crowded room going
+rorschachMost: a pressed fern under glass
+rorschachHigh: a spreading fern frond
+rorschachMid: a long sandbar
+rorschachLow: an overgrown verge
+rorschachLeast: a heap of compost
 ---
 
 Crystallised Cannellini Beans are the Bean Zodiac's most rarefied. What they love is narrow, difficult and genuinely excellent, and their company on it is worth having. Sometimes the air gets thin up there. Enjoying something popular and ordinary is oddly hard for them.

@@ -1,5 +1,5 @@
 ---
-# CHANGED SINCE THIS CONTENT WAS WRITTEN — trait: barbed -> arresting, excess: vicious -> confronting, inverse: complimentary -> unnoticeable
+# TODO: tidy facets, redo rorschachs
 slug: spicy-smoked-cannellini
 lastUpdated: 
 bean: cannellini
@@ -23,26 +23,26 @@ fortuneMid: Heat the dish; don't scorch it.
 fortuneLow: The knife stays in the drawer when not in use.
 fortuneLeast: Even porcupines like a good belly rub.
 facetMostTitle: Beanin Your Face
-facetMost: A friend of a friend you can't stand is at dinner, glowing, announcing their new job. Turns out it's clearly a pyramid scheme. You tell them straight up they're a fool for getting suckered into it.
+facetMost: The photograph you have hung at the entrance is of a face nobody wants to look at, three times life size, lit hard. Visitors have to walk past it to get anywhere at all. Two have complained, and you moved it nearer the door.
 facetHighTitle: Stopped in Your Beantracks
-facetHigh: At the café a woman is loudly filming her third take of a glowing review of her matcha latte, then turns to shush the room for ruining her audio. As the next take starts, you ask her what she's having.
+facetHigh: You open the lecture with the one sentence that makes four hundred people sit up in their seats, and you do not apologise for it at any point afterwards.
 facetMidTitle: The Beandouble Take
-facetMid: Your sister's new boyfriend keeps laughing at his own jokes, loudly. The next time he sets up a punchline you make flat little comment about the laugh to come.
+facetMid: One chair, one lemon, and nothing else at all in that window. People stop dead on the pavement outside it, and then come back later for a second look.
 facetLowTitle: Beanpassed Over
-facetLow: The open-mic comic has been bombing for ten minutes, sweating through the silences. He corners you at the bar after, asking how it went, and you tell him only about the one joke that actually worked.
+facetLow: There is a mirror behind the bar. It takes you a good second to work out that the reflection in the middle of that group is your own.
 facetLeastTitle: Beanunder the Radar
-facetLeast: A coworker mangles his karaoke song, wildly flat, grinning through every line. When he drops back into the seat beside you, you tell him straight that he killed it, and is very courageous to sing in public.
-question: It's a pickup basketball game in the park, and the guy guarding you talks himself up after every basket he sinks. You...
-answerMost: call his game "weak" next time you block his shot
-answerHigh: yell "airball" before every shot he takes
-answerMid: let a dry "just lucky" slip
-answerLow: pay him no mind, it's just a friendly game
-answerLeast: tell him he's really good at scoring
-rorschachMost: black powder bursting from a vial
-rorschachHigh: a sprawling thornbush
-rorschachMid: a dark stain spreading through paper
-rorschachLow: soft moss creeping over rocks
-rorschachLeast: grey smoke thinning as it drifts apart
+facetLeast: Three of you have been at the stop twenty minutes when the bus pulls in, and the driver looks straight past you at the other two and opens the doors for them.
+question: You come into a room mid-conversation. You...
+answerMost: Change what the room is talking about
+answerHigh: Get noticed within a few seconds
+answerMid: Say hello and join in
+answerLow: Slot in without anyone breaking stride
+answerLeast: Get to my seat unremarked
+rorschachMost: a bat, wings full spread
+rorschachHigh: an open ledger
+rorschachMid: a crumpled bowtie
+rorschachLow: two moths on bark
+rorschachLeast: a folded map
 ---
 
 Chipotle Cannellini Beans are the Bean Zodiac's most arresting. They walk into the meeting and the sentence somebody was halfway through gets abandoned. Occasionally the effect is more than anyone was ready for. Entering a room unnoticed has not happened in years.

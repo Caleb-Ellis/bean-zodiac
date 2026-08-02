@@ -1,5 +1,5 @@
 ---
-# COMPLETELY NEEDS UPDATING — trait: organized -> commanding, excess: controlling -> domineering, inverse: disorganized -> unassertive
+# TODO: tidy facets, redo fortunes, redo rorschachs
 slug: spicy-fried-navy
 lastUpdated: 
 bean: navy
@@ -17,32 +17,32 @@ antiTriple: bitter-fermented-green
 antiBeans: [fava, butter]
 antiForm: smoked
 seasonalFortune: "A season of hot paprika and given orders: the pan runs the kitchen for a while."
-fortuneMost: Each thing in its place, edges crisp, nothing touching by accident.
-fortuneHigh: Your speed is the gift of never having to look anything up.
-fortuneMid: Share the one small habit, not the whole system.
-fortuneLow: A tidy list can't do everything.
-fortuneLeast: The labels still cling to a shelf you stopped living on a year ago.
+fortuneMost: Nobody argues with the silverback, so nobody tells it anything either.
+fortuneHigh: Say what happens next and let the room settle round it.
+fortuneMid: You gave the order and it was a relief to everybody.
+fortuneLow: A room can sort itself if nobody takes charge of it.
+fortuneLeast: Ask what they think and do that instead.
 facetMostTitle: Beanthe Iron Fist
-facetMost: A week-long trip is coming and the suitcase is open on the bed. You pack it by day, each outfit bagged and ordered, before a single thing goes in loose.
+facetMost: Two cars and a lorry on the bend, and inside two minutes you have somebody phoning the ambulance and somebody on traffic at the top.
 facetHighTitle: The Beanchain of Command
-facetHigh: A group camping trip needs sorting and everyone's vague about it. You build the gear list, the meal plan, and the drive rota before anyone else has booked a day off.
+facetHigh: The kitchen has gone down two chefs and there are sixty covers on. You take the pass and call the whole service, and it goes out on time.
 facetMidTitle: Orders Is Beanorders
-facetMid: A long drive starts at dawn. The night before, the route's mapped, the bag's by the door, the tank's full — nothing left to decide half-asleep.
+facetMid: A scaffold has gone up wrong. Four of them are stood looking at the thing with their hands in their pockets. You say what comes down first and who is doing it, and they get on with it.
 facetLowTitle: Beanbackseat Driver
-facetLow: A picnic's been planned to the last fork, then a friend suggests just winging it. You leave the checklist at home and let the day go where it goes.
+facetLow: Somebody else's kitchen, and the meal is an hour behind and there are eight of you waiting on it, and you can see exactly what wants doing and in what order. You stay at the table.
 facetLeastTitle: No Strong Beanfeelings
-facetLeast: A free weekend stretches out with nothing slotted into it. You let it run loose, no plan, and trust it to fill itself.
-question: You're leaving on a month abroad, alone, at noon tomorrow. The empty rucksack sits open on the bed. You...
-answerMost: lay everything out in piles by day and check it against your list
-answerHigh: pack tonight, rolled and sorted, essentials easy to reach
-answerMid: gather most of the things now, finish it off tomorrow
-answerLow: leave it for tomorrow to figure out
-answerLeast: throw in a few changes of clothes and trust the rest to shops there
-rorschachMost: an archipelago set out in a tidy chain
-rorschachHigh: a coastline traced clean onto a map
-rorschachMid: a continent spread across an old chart
-rorschachLow: a puddle creeping out past its own edges
-rorschachLeast: spilled batter spreading loose across the counter
+facetLeast: Somebody has to decide what happens with the van and everybody has looked up at once and there is a silence going on longer than it should, and you wait for one of the others, and it gets decided badly by the man who eventually speaks.
+question: Something's gone wrong and forty people are standing about waiting. You...
+answerMost: start giving orders and nobody argues
+answerHigh: say the three things that need doing
+answerMid: get one thing moving and see who follows
+answerLow: ask who's taking charge
+answerLeast: wait to be told what to do
+rorschachMost: a shoulder filling a doorway
+rorschachHigh: a helm on wide shoulders
+rorschachMid: a broad back turned
+rorschachLow: a step taken back
+rorschachLeast: a chair pulled aside
 ---
 
 Red-Hot Navy Beans are the Bean Zodiac's most commanding. In the confusion after the accident they say three things and forty people do them, correctly. The voice sometimes stays on at a family dinner. Waiting to be told what to do isn't a position they occupy.

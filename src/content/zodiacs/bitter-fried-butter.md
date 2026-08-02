@@ -1,5 +1,5 @@
 ---
-# COMPLETELY NEEDS UPDATING — trait: deliberate -> deadpan, excess: plodding -> affectless, inverse: hasty -> histrionic
+# TODO: tidy facets, redo fortunes, redo rorschachs
 slug: bitter-fried-butter
 lastUpdated: 
 bean: butter
@@ -17,32 +17,32 @@ antiTriple: umami-fermented-adzuki
 antiBeans: [black, pinto]
 antiForm: dried
 seasonalFortune: "A season of brown butter and flat delivery. The pan does something drastic and mentions none of it."
-fortuneMost: The crumb pressed firm is the crumb that holds when the oil takes it.
-fortuneHigh: A choice that matters keeps until morning.
-fortuneMid: Ten minutes, then go.
-fortuneLow: The couch wants moving on a hunch, even at midnight.
-fortuneLeast: Your first read here outranks your fourth.
+fortuneMost: That enormous noise comes out of a bullfrog that has not moved a muscle.
+fortuneHigh: Say the outrageous thing at the same volume as the weather.
+fortuneMid: You delivered it flat and the whole table went over a beat later.
+fortuneLow: Let your face do a little of the work this once.
+fortuneLeast: Some news deserves the sound a person actually makes.
 facetMostTitle: Beanmerican Psycho
-facetMost: A market stall, one bowl of figs you want, the vendor waiting. You turn six of them over in the light, weighing each by hand, before you'll point to the one you'll buy.
+facetMost: The magician needs a face and picks you out of the audience. He produces the card. Then the doves. Then your own watch, out of a stranger's shoe. You give him nothing across all four, and he moves on to somebody else.
 facetHighTitle: Buster Beanton
-facetHigh: The trail forks and neither sign helps. You stand at the split a good while, reading the ground both ways, in no hurry to pick until you've pictured where each one goes.
+facetHigh: Four hundred children in the panto are screaming that it is behind you. You turn round slowly, look, and tell them there is nothing there before turning back.
 facetMidTitle: Napoleon Beanamite
-facetMid: Packing for a weekend away, you give it a few minutes' thought — what the weather might do, what you'd actually wear — and then you zip the bag and trust it.
+facetMid: Lemon is all the ice cream van has left. You order two and tell the lad it has been the best day of your life.
 facetLowTitle: Beanodrama
-facetLow: Dessert menus, all round the table, and the talk hasn't paused. No agonizing — you point at the one that caught your eye and hand the card straight back.
+facetLow: Forty minutes the model has held that pose, and your shoulder has gone wrong on the paper. You put the charcoal down and announce that you cannot do this.
 facetLeastTitle: Mommie Beanest
-facetLeast: A street musician waves for someone to come up and sing the next one. Your hand's up before the doubt arrives — already on your feet, no plan, mouth open.
-question: Saw idling, you're about to drop the big old tree leaning toward the house — one cut and there's no taking it back. You...
-answerMost: shut the saw off, study the lean and the wind, rope it, and walk the fall line twice before any cut
-answerHigh: check the lean from two angles and plan the notch before you start
-answerMid: size it up once, set the cut, go
-answerLow: eyeball it and start cutting
-answerLeast: open the throttle and bury the blade before you've looked up
-rorschachMost: two scale pans weighed level against each other
-rorschachHigh: a walnut halved evenly down its seam
-rorschachMid: two round stones set apart on sand
-rorschachLow: two cupped hands not quite meeting
-rorschachLeast: a plate dropped and split across the floor
+facetLeast: Somebody has moved your props table backstage and you are on in eleven seconds. The whole wing hears about it. They will hear about it again in the interval, and again in the bar afterwards, at greater length.
+question: Someone hands you a mug with your own face printed on it, and the room goes quiet to see what you do. You...
+answerMost: Look at it, say thanks, and put it down
+answerHigh: Deliver a flat one-liner and let them laugh
+answerMid: Smile properly and mean it
+answerLow: Do a big delighted noise for their sake
+answerLeast: Clutch it, well up, and make a short speech
+rorschachMost: two faces, nothing on them
+rorschachHigh: a flat mask, lips level
+rorschachMid: two rounds and a crumb
+rorschachLow: a mouth twitching once
+rorschachLeast: a face pulled all ways
 ---
 
 Scorched Butter Beans are the Bean Zodiac's most deadpan. The outrageous claim arrives at the same volume as the weather and the room takes ten seconds to catch up. Bad news gets the same flat delivery. A raised voice, ever, would strike them as a leak.

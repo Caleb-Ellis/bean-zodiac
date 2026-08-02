@@ -1,7 +1,6 @@
 ---
-# COMPLETELY NEEDS UPDATING — excess: bizarre -> outlandish, inverse: mainstream -> staid
 slug: spicy-fermented-chickpea
-lastUpdated: 
+lastUpdated: 2026-08-06
 bean: chickpea
 flavour: spicy
 form: fermented
@@ -16,33 +15,33 @@ friendlyForm: fried
 antiTriple: bitter-dried-navy
 antiBeans: [cannellini, black]
 antiForm: boiled
-seasonalFortune: "A season of harissa and caraway — the jar sits sideways to every kitchen it enters."
-fortuneMost: A stranger is about to leave the night feeling unusually seen.
-fortuneHigh: A good sign is loose in the day — the one person no one placed, half-watching from the edge, waiting for exactly your kind of curiosity.
-fortuneMid: A picture hung two inches off-centre and left there.
-fortuneLow: The friends you came with have noticed you didn't quite come with them.
-fortuneLeast: Turn back toward the people who already know your name.
+seasonalFortune: "A season of harissa and caraway — the jar sits permanently askew."
+fortuneMost: They will remember what you wore, and nothing you said.
+fortuneHigh: Do it the wrong way on purpose.
+fortuneMid: Be like the axolotl, who can literally regrow parts of their brains.
+fortuneLow: An ordinary night does you no harm.
+fortuneLeast: Have the usual, in the usual place, with the usual people.
 facetMostTitle: Far Out, Bean
-facetMost: The trail forks, the marked path goes left, and a thin unmarked one wanders off right into the trees. You take the one with no sign and follow it as far as it goes.
-facetHighTitle: Beanfargo
-facetHigh: Out of the whole loud market, the one stall that pulls you is the old man selling something you can't name in a language you don't speak. You go and spend an hour there instead of seeing the rest.
+facetMost: You are at the solicitor's with instructions for your funeral. It runs to four pages — there's a brass band, horses (black only), and some sort of dance number with the pallbearers. You are fifty-one and in perfect health, but still you have it witnessed, and notarised.
+facetHighTitle: Beango
+facetHigh: Every other boat on the pontoon is named after somebody's wife or mother, and you have just bought the one on the end. The signwriter quotes you for the lettering and asks what you want. You say you want flames on both sides.
 facetMidTitle: Out of Left Bean
-facetMid: There's the normal answer to give when someone asks what you do all day, and there's the truer, weirder one. Hand them the weirder one and see if they follow it.
+facetMid: Every front door on the street is white or light oak. At the hardware store you pick a bright yellow, and order two tins so the back gate can match.
 facetLowTitle: Buttoned-Up Bean
-facetLow: For once the itch to wander off the agreed plan has gone quiet in you. The plain version is fine, and you follow it all the way through without peeling away.
+facetLow: Come as your hero, the invitation said, and everyone at the door is in full rig — somebody has gone to the trouble of hiring a horse costume. The host holds out a costume for you to wear, looks like it's a monkey of some sort. You politely decline.
 facetLeastTitle: A Safe Pair of Beans
-facetLeast: A long table of people you've known for years is mid-laugh at a story you all share. You stay right there in the middle of it, no urge to slip off and find the odd corner of the night.
-question: A six-hour layover in a city you've never set foot in, bag checked through. You...
-answerMost: slip out past the taxis and follow whatever odd street pulls at you
-answerHigh: catch a train two stops out to wherever sounds least like an airport
-answerMid: wander the terminal's far ends and find the one strange corner of it
-answerLow: settle at a gate cafe with a book and let the hours pass
-answerLeast: stay near your bag, watch the boards, and wait it out
-rorschachMost: a path trailing off the road into brush
-rorschachHigh: a kite tugging sideways off its string
-rorschachMid: a potato joined to a clump of dirt
-rorschachLow: a hen settled beside her one chick
-rorschachLeast: two beads strung on one taut thread
+facetLeast: You run a charity quiz in the same hall every year, same rounds, same order, and it always sells out the evening the tickets go up. Somebody wants it reinvented this time as a murder mystery, with actors. You print the sheets as they are and put the raffle back in at the interval.
+question: Where do you like to go when you go on holidau?
+answerMost: places people have never even heard of
+answerHigh: places that require a lot of work to get to
+answerMid: slightly off the beaten path, the less tourists the better
+answerLow: popular places, but not during peak season
+answerLeast: places properly set up for tourism
+rorschachMost: a brawl
+rorschachHigh: a burst piñata
+rorschachMid: something being eaten
+rorschachLow: a torn shoe
+rorschachLeast: nothing
 ---
 
 Kimchi Chickpeas are the Bean Zodiac's most offbeat. The party they throw has the wrong theme, the wrong food and the wrong hour, and it's the one people still talk about. Sometimes it is simply the wrong party. Doing an evening conventionally is a failure of nerve.

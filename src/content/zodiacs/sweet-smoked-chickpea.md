@@ -1,5 +1,5 @@
 ---
-# COMPLETELY NEEDS UPDATING — trait: beguiling -> charming, excess: bewitching -> ingratiating
+# TODO: tidy facets, redo fortunes, redo rorschachs
 slug: sweet-smoked-chickpea
 lastUpdated: 
 bean: chickpea
@@ -17,32 +17,32 @@ antiTriple: sour-fermented-cannellini
 antiBeans: [edamame, navy]
 antiForm: boiled
 seasonalFortune: "A season of date molasses and easy welcome — the smoke wins the room without trying."
-fortuneMost: You'll arrive the way smoke does — felt across the yard before anyone finds the fire.
+fortuneMost: Three compliments inside four minutes, all of them true, none of them free.
 fortuneHigh: Praise the quiet one, then change the subject.
-fortuneMid: Take the long way with the new friend.
+fortuneMid: A red panda does nothing all day and is forgiven for it.
 fortuneLow: Name the favour you actually want out loud.
-fortuneLeast: Yes, no, the time, the place — give it straight.
+fortuneLeast: Yes, no, the time, the place - give it straight.
 facetMostTitle: Beanflattery Will Get You Everywhere
-facetMost: The market seller won't drop the price for anyone. You never name a number — you ask about their grandmother, and the figure softens on its own.
+facetMost: You have complimented the house, the dog and her mother's cooking inside four minutes, and every one of them landed properly. She is delighted with you. Somewhere in there you stopped being able to tell which of them you had actually meant.
 facetHighTitle: The Beancharm Offensive
-facetHigh: A border guard wants to know your business. You tell a slow, warm story instead, and the gate is open before the story ends.
+facetHigh: The officer on the desk is plainly having a bad shift of it and is not looking up. By the end he is telling you about his boy and the football.
 facetMidTitle: Beancharmed, I'm Sure
-facetMid: You want the window seat your seatmate's already in. Rather than ask, you mention the view on their side until they offer to swap.
+facetMid: Given two minutes with the panel before it starts, you spend both of them on the one who looks least pleased to be there.
 facetLowTitle: Off-Putting Bean
-facetLow: You'd love a lift home from the gathering. You catch the driver's eye and just say so, straight out, no charm laid under it.
+facetLow: The man on the doorstep is only doing his job and has a script to get through. You let him know, without saying it, that this is a waste of both your time.
 facetLeastTitle: Rubbed the Wrong Bean
-facetLeast: Someone hesitant needs a clear yes or no from you. You give the flat answer with no warmth wrapped around it to ease the landing.
-question: The club's at capacity and the bouncer's turning people away, but you've set your heart on getting in. You...
-answerMost: catch their eye, start a warm easy chat, and drift through the rope without ever asking
-answerHigh: compliment them, find the shared joke, then float the ask like a small thing
-answerMid: explain who you're meeting and ask nicely if there's any way
-answerLow: state your case plainly and accept whatever they say
-answerLeast: ask flat-out if you're getting in or not, and move on if not
-rorschachMost: a snake rising from a basket, hood half-spread
-rorschachHigh: a hand with fingers curling to beckon
-rorschachMid: a low range of hills along the skyline
-rorschachLow: a clenched fist set flat on a counter
-rorschachLeast: a row of bricks stacked level and squared
+facetLeast: Somebody new puts a hand out and says their name to you. You say yours back, and you let the pause afterwards go on a good deal longer than it needs to.
+question: You need a favour from someone in a call centre who's plainly had a long day. You...
+answerMost: Lay it on so thick they can hear it
+answerHigh: Ask about their day, and mean it
+answerMid: Be pleasant and get to the point
+answerLow: State what I need, plainly
+answerLeast: Let them know how long I've been waiting
+rorschachMost: a peacock, tail half open
+rorschachHigh: a lace ruff
+rorschachMid: a folded shawl
+rorschachLow: a starched collar
+rorschachLeast: a thorn hedge
 ---
 
 Barbecued Chickpeas are the Bean Zodiac's most charming. Ten minutes with the difficult relative and the difficult relative is laughing. Sometimes it gets laid on where nothing was needed. Being flatly cold, even to somebody who deserves it, they can't manage.

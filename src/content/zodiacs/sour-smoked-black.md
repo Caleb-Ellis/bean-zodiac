@@ -1,5 +1,5 @@
 ---
-# COMPLETELY NEEDS UPDATING — trait: withering -> penetrating, excess: scorching -> invasive, inverse: encouraging -> superficial
+# TODO: tidy facets, redo fortunes, redo rorschachs
 slug: sour-smoked-black
 lastUpdated: 
 bean: black
@@ -17,32 +17,32 @@ antiTriple: sweet-roasted-chickpea
 antiBeans: [pinto, green]
 antiForm: fried
 seasonalFortune: "A season of chipotle vinegar and long looking: the smoke reaches what the brine could not."
-fortuneMost: One sentence, then nothing. The pause does what the words began.
+fortuneMost: Long before you see it, the lynx has seen you, and does not look away.
 fortuneHigh: You'll know who you won't trust before they've finished asking.
-fortuneMid: Your silence is going to be read as the verdict, and it will be the right one.
+fortuneMid: Your silence will be read as the verdict, and it will be right.
 fortuneLow: Name the standard out loud before you hold anyone to it.
-fortuneLeast: A door you'd already shut swings open, and this time you walk through.
+fortuneLeast: Some things are exactly as deep as they look.
 facetMostTitle: The Lives of Beanothers
-facetMost: Someone pitches a plan you've already decided against. You let them finish into a quiet you don't fill, and the quiet is the answer.
+facetMost: Ten minutes into the interview and the questions have stopped being about the job at all. You ask about the eighteen months that are not on the form, and then, when he has finished, about why he has just looked at the door.
 facetHighTitle: Beanx-Ray Vision
-facetHigh: A stranger at the party is charming and the table is won over fast. You've clocked the one thing that doesn't add up, and you're already keeping your distance.
+facetHigh: There is one line in the accounts that does not sit right with you. You go back through four years of them until you find where it started.
 facetMidTitle: See Through Bean
-facetMid: Three paragraphs of apology, and all it warrants is a flat acknowledgement. You send that, and not the warmth they're fishing for.
+facetMid: Your friend has told you what happened and left out the part where she went back. You ask about that part.
 facetLowTitle: Beanskin Deep
-facetLow: A neighbour breaks a thing they borrowed and barely mentions it. The ledger in you wants to mark it; you wave it off and mean the wave.
+facetLow: The estate agent gives you the tour and talks the whole way round. You look at the kitchen, agree it is a good size, and leave it there.
 facetLeastTitle: Beanshallow
-facetLeast: Here's the person an old grudge would shut out for good, standing in the doorway asking to come back in. You hold it open.
-question: At the open mic a nervous poet finishes a piece that didn't land, and the room gives the soft obligatory clap. You...
-answerMost: hold your hands still and let the silence say it
-answerHigh: clap twice, flat, and look at your drink
-answerMid: clap with the room, a half-beat behind
-answerLow: clap warmly and catch their eye with a nod
-answerLeast: whoop, applaud hard, and call out for one more
-rorschachMost: a scorched hedge shriveling back from the fire
-rorschachHigh: a wreath drying brown, edges curling in
-rorschachMid: a ragged storm cloud with a small gap
-rorschachLow: a sheep's fleece heaped warm on straw
-rorschachLeast: a hedgerow bursting thick with new leaf
+facetLeast: The car has been making a noise for a month. You turn the radio up a bit and keep driving it.
+question: Your daughter tells you about her week and leaves out the two days you know she wasn't at work. You...
+answerMost: keep asking until the missing part is on the table
+answerHigh: ask directly about the gap
+answerMid: let them know you noticed, and leave it there
+answerLow: take the account as given
+answerLeast: do not notice anything is missing at all
+rorschachMost: a blade to the hilt
+rorschachHigh: a slit through thick hide
+rorschachMid: a slab, one cut
+rorschachLow: a scratch on the surface
+rorschachLeast: a smudge rubbed off
 ---
 
 Cured Black Beans are the Bean Zodiac's most penetrating. Two questions in and they are asking about the thing you had decided not to discuss. Sometimes the second question is a door they weren't invited through. Staying at the level of the weather is not a thing they do.

@@ -1,5 +1,5 @@
 ---
-# COMPLETELY NEEDS UPDATING — trait: energetic -> roused, excess: hyperactive -> inflamed, inverse: lethargic -> torpid
+# TODO: tidy facets, redo fortunes, redo rorschachs
 slug: spicy-fried-butter
 lastUpdated: 
 bean: butter
@@ -17,32 +17,32 @@ antiTriple: bitter-fermented-black
 antiBeans: [cannellini, navy]
 antiForm: smoked
 seasonalFortune: "A season of Calabrian chilli and sudden waking — even the slow fat is moving now."
-fortuneMost: Stairs two at a time, an answer before the question lands.
-fortuneHigh: Faster oil, faster room — bring three people into the same good thing and feel it crackle.
+fortuneMost: Out of the den and straight down the river, and the bear cannot stop.
+fortuneHigh: Get three people into the same good thing and let it go.
 fortuneMid: That small thing you keep outrunning is slower than you.
 fortuneLow: Let an hour pass at its own pace.
-fortuneLeast: A calm week, nothing overturned, is its own small fortune.
+fortuneLeast: A stretch with nothing overturned is its own small fortune.
 facetMostTitle: Bean on Fire
-facetMost: The group can't decide where to eat and the menu apps are coming out. You name a place, stand up, and start herding everyone toward the door.
+facetMost: The river has come up over the road and somebody says the council knew about the culvert and did nothing. You get on the phone, then the doorsteps, then the local paper, and by the end of it you cannot talk about anything else at all.
 facetHighTitle: The Beanawakening
-facetHigh: A rained-out afternoon flattens the whole house. Within the hour you've invented a game from couch cushions and roped the others in.
+facetHigh: Nobody was going to stand out at the factory gate in that weather. Now eleven of you are. You have found a voice you did not know about, and you are using it.
 facetMidTitle: Beanwake-Up Call
-facetMid: A walking tour stalls while the guide fumbles for a fact. You fill the gap, pulling the cluster of strangers into a chat until the guide recovers.
+facetMid: Somebody in the pub mentions the state of the riverbank, and you come out of there with a date, a van and nine people signed up.
 facetLowTitle: Beanwinter Sleep
-facetLow: A free morning opens up with nowhere it has to go. You let it stay empty — a coffee, a window, no plan to fill it.
+facetLow: This is a film you specifically wanted to see and had been looking forward to. Forty minutes in you are watching it from a long way off.
 facetLeastTitle: The Beanlong Winter
-facetLeast: A whole afternoon could be reshuffled to chase a sudden idea. You leave the day as it stands and let the idea wait its turn.
-question: Leaning on the allotment fence in the sun, the plot-holder next door starts describing the daft watering contraption they've been building all spring. You...
-answerMost: grab a stick, start drawing the better version in the dirt before they've finished explaining
-answerHigh: fire off the three questions that would crack it and offer to find them the part they're missing
-answerMid: get properly interested, ask how it works, swap numbers
-answerLow: nod along and let them keep going
-answerLeast: smile, say it sounds great, get back to your beds
-rorschachMost: a longhorn tossing its head, horns flung up
-rorschachHigh: two gulls leaping apart off the same wave
-rorschachMid: a hat and its brim blown apart in wind
-rorschachLow: a hammock and its blanket left hanging slack
-rorschachLeast: a lid resting just above its closed bowl
+facetLeast: A good idea is put in front of you — funded, ready, needing one person to say yes. You will look at it properly when you have a minute, and you have now said that three times.
+question: What gets you out of a chair?
+answerMost: Almost anything — I'm up before I've thought
+answerHigh: Something worth doing
+answerMid: A good reason and a bit of a push
+answerLow: Not a great deal these days
+answerLeast: Nothing, if I'm honest
+rorschachMost: a head up, ears forward
+rorschachHigh: a beast lifting its head
+rorschachMid: a hill above a hill
+rorschachLow: ears going flat
+rorschachLeast: a beast that won't wake
 ---
 
 Red-Hot Butter Beans are the Bean Zodiac's most roused. Nothing for months, and then something touches the right nerve and they are the loudest person in the campaign. Occasionally the heat won't come back down. Returning to mild, unbothered indifference takes them a season.

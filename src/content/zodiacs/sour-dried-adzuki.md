@@ -1,5 +1,5 @@
 ---
-# COMPLETELY NEEDS UPDATING — excess: sour-tongued -> caustic, inverse: saccharine -> syrupy
+# TODO: tidy facets, redo fortunes, redo rorschachs
 slug: sour-dried-adzuki
 lastUpdated: 
 bean: adzuki
@@ -17,32 +17,32 @@ antiTriple: bitter-fermented-mung
 antiBeans: [kidney, chickpea]
 antiForm: boiled
 seasonalFortune: "A season of dried ume and sharp weather — the sweetness arrives late and armed."
-fortuneMost: Hand the sharp thing over unsanded.
+fortuneMost: You hand it over unsanded, and the splinter outlasts the point.
 fortuneHigh: An apology rounded up to look generous spoils like fruit left too sweet.
-fortuneMid: Something on the page has been quietly wrong a long while.
+fortuneMid: One flash of sour yellow, and the lemon tetra has made its whole point.
 fortuneLow: A friend's story has grown sweeter than it was. Pass the sesame, not the correction.
-fortuneLeast: Good news is coming dressed a little too kind. The kindness underneath is real.
+fortuneLeast: Good news is coming dressed a little too kind, and the kindness is real.
 facetMostTitle: Whatever Happened to Baby Bean?
-facetMost: The tour guide says the date with such confidence, and it's flat wrong. Your hand is already half up.
+facetMost: Your team-mate has argued the wrong answer through three rounds now, loudly, and the marker has given up listening to anybody else at the table. At the end you read the score out with a tally beside it of exactly whose answers cost what.
 facetHighTitle: When Life Gives You Beans
-facetHigh: Name the part that wasn't yours — that's the reflex, even as the praise for the whole thing keeps coming and most of the work was someone else's.
+facetHigh: Twice now this barber has taken more off than you asked for. You tell him it is a good job hair grows, and you pay.
 facetMidTitle: Beanade
-facetMid: The label on the jar at the market promises more than what's inside, and the seller knows it. Do you say the price out loud or just walk on.
+facetMid: Asked what you make of the plastic topiary by the garden centre till, you say that it will certainly last.
 facetLowTitle: Beanyman
-facetLow: A child shows you a drawing and tells you what it is. It looks like nothing of the sort, and you say it's wonderful and mean it.
+facetLow: The man you are three frames up on is explaining at length why the table is unfair, the cushions are dead and the lighting is off. You agree about the cushions and rack them up again.
 facetLeastTitle: Sweet Beanoline
-facetLeast: Pocket the warm version, errors and all — the fortune-teller's read of you ran a little too rosy and you don't feel like auditing it.
-question: A friend hands you a birthday card that praises a version of you that's almost right but slightly flattering. You...
-answerMost: hand it back and ask them to fix the line
-answerHigh: thank them warmly and never put it on the shelf
-answerMid: keep it, but reread only the parts that are true
-answerLow: take the compliment whole, you've had a year
-answerLeast: read it aloud, twice, to anyone in earshot
-rorschachMost: a thistle head bristling with spines
-rorschachHigh: a chestnut burr split along one side
-rorschachMid: a potato with sprouts down one edge
-rorschachLow: a sleeping hedgehog curled into its quills
-rorschachLeast: a fat loaf rising with a frayed crust
+facetLeast: Third time this visit your aunt has shown you the same photograph. You say it is a lovely one, every time, and you mean it a little more each time.
+question: A friend's cake has come out flat and they are standing there with a fork, waiting. You...
+answerMost: tell them exactly where it went wrong, step by step
+answerHigh: say it is flat, and that it still tastes good
+answerMid: say the icing carried it
+answerLow: say it is lovely and leave it there
+answerLeast: go back for a second slice you do not want
+rorschachMost: vinegar poured neat
+rorschachHigh: a crab apple, one bite
+rorschachMid: a hard green fruit
+rorschachLow: an apple ripening still
+rorschachLeast: honey, lid left off
 ---
 
 Dehydrated Adzuki Beans are the Bean Zodiac's most tart. The compliment has a twist of lemon in it and lands better than the flat version would. Some days everything comes out with the twist. Straightforward praise, unqualified, they can barely say aloud.

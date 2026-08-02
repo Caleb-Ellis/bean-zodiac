@@ -1,5 +1,5 @@
 ---
-# COMPLETELY NEEDS UPDATING — excess: fossilized -> ossified
+# TODO: tidy facets, redo fortunes, redo rorschachs
 slug: umami-smoked-navy
 lastUpdated: 
 bean: navy
@@ -17,32 +17,32 @@ antiTriple: spicy-fried-pinto
 antiBeans: [chickpea, fava]
 antiForm: roasted
 seasonalFortune: "A season of salt pork and unchanged method: the smokehouse keeps a year without dates."
-fortuneMost: Add the next name to the old book in pen.
-fortuneHigh: Answer in full and unhurried.
-fortuneMid: Mend it, don't replace it.
+fortuneMost: Outliving everyone who named it, the aldabra tortoise learned nothing new.
+fortuneHigh: Add the next name to the old book, in pen.
+fortuneMid: The thing you kept is the thing still working.
 fortuneLow: Buy the chair without the long deliberation.
 fortuneLeast: Let the recipe everyone politely eats finally leave the table, no ceremony.
 facetMostTitle: Jurassic Bean
-facetMost: Your grandfather's watch stops one morning. Off to the repairer it goes, whatever they charge — replacing it never crosses your mind.
+facetMost: Your suit is the one you have had since you were twenty-six and the coat is a shape nobody has worn in thirty years. You have it pressed, and you get to the wedding early.
 facetHighTitle: As Bean Goes By
-facetHigh: They offer you the newest phone for free and you turn it down. The old one does it all, you know its every corner, and that's enough.
+facetHigh: A stew is made the way it has always been made. The proportions have not moved in forty years. Everybody asks you for that stew, and you have never written the recipe down.
 facetMidTitle: For All Beantime
-facetMid: Worn clean through at the sole, the boot goes to the cobbler, not the bin — resoled, it walks better than the day you bought it.
+facetMid: There is a tool roll your father put together and you have added nothing to it in all the years you have had it, and two of the handles have been rewrapped. It does everything you have ever needed it to do.
 facetLowTitle: This Year's Beanmodel
-facetLow: That festival you've gone to for years runs the same as ever. This time you give it a miss and head somewhere you've never been.
+facetLow: A new way of jointing has come in and everybody swears by it, and you try it on shelving nobody will look at.
 facetLeastTitle: A Beanmuseum Piece
-facetLeast: Build the sandcastle by the tide line knowing the sea will have it by dusk — the losing of it is half the point.
-question: The holidays are coming and someone in the family floats the idea of doing it differently this year. You...
-answerMost: keep it exactly as it's always been — the tablecloth, the order of dishes, the playlist
-answerHigh: change the centerpiece and nothing else
-answerMid: swap one course but hold the rest
-answerLow: rework the menu from scratch
-answerLeast: host it somewhere else entirely
-rorschachMost: an old coin worn smooth past its face
-rorschachHigh: a boulder rounded by a thousand winters
-rorschachMid: a river pebble turned in the hand
-rorschachLow: a clay lump just pressed into shape
-rorschachLeast: a snowball melting before it lands
+facetLeast: Somebody has told you about the colour and the cut and you have gone and got the lot of it. In two years it will be the thing that dates a photograph.
+question: What you're wearing right now — where would it place you in time?
+answerMost: anywhere in the last seventy years
+answerHigh: hard to date, and it suits you
+answerMid: roughly now, nothing shouting
+answerLow: about right for this year
+answerLeast: you could name the season it's from
+rorschachMost: a fossil set in rock
+rorschachHigh: a monument nobody reads
+rorschachMid: a stone and a chip
+rorschachLow: a plaque newly polished
+rorschachLeast: a calendar three years old
 ---
 
 Hickory Navy Beans are the Bean Zodiac's most timeless. What they wear, cook and believe would have worked in 1950 and will work in 2050. Sometimes it hardens into never changing anything. Looking of the moment isn't something they have attempted.

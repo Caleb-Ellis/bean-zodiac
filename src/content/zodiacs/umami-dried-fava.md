@@ -1,5 +1,5 @@
 ---
-# CHANGED SINCE THIS CONTENT WAS WRITTEN — trait: powerful -> formidable, excess: brutish -> fearsome, inverse: feeble -> unimposing
+# TODO: tidy facets, redo rorschachs
 slug: umami-dried-fava
 lastUpdated: 
 bean: fava
@@ -23,26 +23,26 @@ fortuneMid: The mighty oak's trunk stands firm against the elements.
 fortuneLow: Put it down and see who picks it up.
 fortuneLeast: Help is offered to those who ask for it.
 facetMostTitle: Beanzilla
-facetMost: You're a day's walk from home and the only bridge across has a keeper on it demanding a toll you haven't got. He's less than half your size. You lift him off the boards, set him down behind you, and walk across.
+facetMost: You have not raised your voice in that building in nine years and nobody has ever needed you to. A new man tried it on in his second week. What happened to him is still being described to people who were not there, and you do not think you did anything much.
 facetHighTitle: Wonder Bean
-facetHigh: A friend has been fobbed off three times by the mechanic over a repair they've already paid for, and they ask if you'll come along next time. You go with them, and you do the talking.
+facetHigh: They have brought three of them and a barrister, and you are on your own with a folder. You take the first hour, and by the end of it they are asking what you would accept.
 facetMidTitle: The Beanolossus
-facetMid: You and a neighbour are getting a wardrobe down a flight of stairs, the bottom being the much heavier side. You take the bottom end, and do not discuss it.
+facetMid: A yard full of people who will not be told, and you say the thing once, quietly, and it gets done that afternoon.
 facetLowTitle: Honey, I Shrunk the Beans
-facetLow: A man steps in front of you at the ticket counter and says loudly that he was there before you, which he wasn't. You say sorry and step back to let him go first.
+facetLow: This room needs somebody to take hold of it and you can see what is wanted. You say your piece and it goes past without landing.
 facetLeastTitle: Beanbi
-facetLeast: There's someone at your front door. They go into a ten minute spiel, trying to sell you on monthly donations to a charity you've never heard of. You sign up just so they'll go away.
-question: Someone has just knocked you to the ground going for the ball, and it's clear how the rest of this five-a-side soccer game will be played. You...
-answerMost: give it back harder than you're getting it
-answerHigh: stand your ground and go into the next one just as hard
-answerMid: play your own game and stay out of the scrapping
-answerLow: play wide, try to position yourself to minimise contact
-answerLeast: hang back and hope the ball doesn't come near you
-rorschachMost: a mushroom cloud
-rorschachHigh: a great oak
-rorschachMid: a head of broccoli
-rorschachLow: a dried leaf
-rorschachLeast: a broken vase
+facetLeast: A new man chairs the meeting and does not know your name, though you have done eleven years here and know how the place actually works. He asks you to keep it brief, and you keep it brief.
+question: You walk into a difficult meeting where the other side outnumbers you. You...
+answerMost: Take the room in the first five minutes
+answerHigh: Set out my position and hold it
+answerMid: Make my case properly
+answerLow: Say my piece and see how it lands
+answerLeast: Wait to be asked, and keep it brief
+rorschachMost: a bear standing full height
+rorschachHigh: a thundercloud on the hills
+rorschachMid: a fort above a village
+rorschachLow: a bear on all fours
+rorschachLeast: a shed in a field
 ---
 
 Aged Fava Beans are the Bean Zodiac's most formidable. They walk into the negotiation and the other side rearranges its expectations before anyone has spoken. Sometimes people are simply frightened. Being underestimated in a room is a thing they have never had to endure.

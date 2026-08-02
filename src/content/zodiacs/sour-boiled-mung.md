@@ -1,5 +1,5 @@
 ---
-# COMPLETELY NEEDS UPDATING — excess: bloodless -> detached, inverse: partial -> biased
+# TODO: tidy facets, redo fortunes, redo rorschachs
 slug: sour-boiled-mung
 lastUpdated: 
 bean: mung
@@ -17,32 +17,32 @@ antiTriple: bitter-fermented-green
 antiBeans: [fava, edamame]
 antiForm: smoked
 seasonalFortune: "A season of kokum and level judgement: the dal favours neither the sick nor the well."
-fortuneMost: Two people ask you who was right — the same sentence to each, word for word, is the fair one.
+fortuneMost: Weighing both and putting its own name on neither - the libra crane.
 fortuneHigh: Late evidence lands after the matter feels settled.
 fortuneMid: The scale has tipped.
-fortuneLow: Some moments don't want fairness — take the seat beside them.
+fortuneLow: Some moments don't want fairness - take the seat beside them.
 fortuneLeast: Side with the one you love.
 facetMostTitle: The Beanstranger
-facetMost: The crowd around you is howling at a call that went against your own team. Watch the replay, and the honest verdict comes out anyway — they got it right.
+facetMost: Two brothers have fallen out over the business and both have come to you separately. You give each of them the same account of what happened, and neither goes away with anything to hold.
 facetHighTitle: Jury Beanduty
-facetHigh: The whole room has already settled on the villain of the tale before the other person's even spoken. You hold your verdict open until that second telling has run all the way out.
+facetHigh: The footpath dispute has a meeting and both sides want you chairing. You take the minutes straight, and you let the weaker argument be heard all the way to the end without helping it along.
 facetMidTitle: Witness for the Beansecution
-facetMid: Two kids both want you to settle who gets the last of it. Dead even is the only split that feels right to you — never mind which one you secretly favour.
+facetMid: You are judging the talent show. The girl who has practised hardest is not the best one on the night, and her mother is three rows back. You mark what happened on the stage, and you write the reason down beside it.
 facetLowTitle: Teacher's Bean
-facetLow: A neighbour you like and a neighbour you don't bring you the same dispute. You catch yourself leaning toward the one you like and decide that's fair enough.
+facetLow: A place at the school has come down to two children and one of them is your friend's. You read both forms twice.
 facetLeastTitle: Beanccession
-facetLeast: Someone you love is plainly a little in the wrong and just wants you beside them anyway. The even-handed read can wait outside in the cold — you're on their side, whole.
-question: At a fender-bender on the corner, both drivers are out and shouting, and one turns to you — you saw the whole thing — to back them up. You...
-answerMost: give the plain account of what happened, whichever side it helps
-answerHigh: say what you saw, evenly, and let them sort the blame
-answerMid: confirm the one fact you're sure of and stay out of the rest
-answerLow: hedge that it happened fast and you couldn't say for certain
-answerLeast: side with the one who asked first and call it for them
-rorschachMost: a dumbbell with matched weights either end
-rorschachHigh: two hills risen to the very same height
-rorschachMid: a peanut shell pinched in the middle
-rorschachLow: a peanut with one end swollen fatter
-rorschachLeast: a dumbbell loaded heavy on one side only
+facetLeast: Your own boy is on the line and the ball was a foot over at most, and you give him not out, and you would give him not out again.
+question: You're refereeing a game your own nephew is playing in and it's a close call. You...
+answerMost: give it against him, to be sure you were fair
+answerHigh: give what you saw and don't think about who it is
+answerMid: give it, and check afterwards whether you got it right
+answerLow: give him the benefit and feel odd about it
+answerLeast: give it his way, and he knows you did
+rorschachMost: a table level to nothing
+rorschachHigh: a plateau, no slope
+rorschachMid: a bench and a pebble
+rorschachLow: a floor sloping slightly
+rorschachLeast: a table, one leg short
 ---
 
 Brined Mung Beans are the Bean Zodiac's most impartial. Both flatmates come to them separately, and both leave feeling heard and correctly assessed. The evenness can start to feel like distance. Being unfairly, warmly on somebody's side is a gift they rarely give.

@@ -1,5 +1,5 @@
 ---
-# COMPLETELY NEEDS UPDATING — excess: pitiless -> withering, inverse: merciful -> coddling
+# TODO: tidy facets, redo fortunes, redo rorschachs
 slug: sour-smoked-kidney
 lastUpdated: 
 bean: kidney
@@ -17,32 +17,32 @@ antiTriple: sweet-boiled-butter
 antiBeans: [chickpea, pinto]
 antiForm: roasted
 seasonalFortune: "A season of mesquite and tamarind — the cure tells everything; the room recovers slowly, if at all."
-fortuneMost: End the standing dinner you both dread.
+fortuneMost: Eating whatever it finds without considering whether it should - the tiger shark.
 fortuneHigh: When they ask, they already half-know.
-fortuneMid: '"I do not like this one" — about the small thing, not the whole.'
+fortuneMid: Say you do not like this one, about the small thing, not the whole.
 fortuneLow: A correct verdict leaves a chill behind it.
 fortuneLeast: An old bruise, and you're still pressing it.
 facetMostTitle: Beanwuthering Heights
-facetMost: Days from a wedding you think is a mistake, the groom turns to you and asks point blank if you have doubts. Out they come, all of them, no hedge.
+facetMost: A nephew's business plan is on your kitchen table with a figure on page two that cannot happen, and you go through it line by line.
 facetHighTitle: No Beanquarter
-facetHigh: A friend models the tattoo they're about to make permanent and waits for your blessing. You don't like it, and you say so before the appointment, warmth and all.
+facetHigh: A woman auditions for the choir and sings it flat in the same three bars twice. You tell her which bars. You tell her that before you tell her anything else.
 facetMidTitle: The Hard Beantruth
-facetMid: Someone proudly shows you the apartment they've signed for and asks what you think. The damp wall is the first thing you point at, no compliment laid down first.
+facetMid: Somebody plays you the demo in the car and wants to know what you think of it. You tell her the second song is the only one there, and why.
 facetLowTitle: Beancotton Wool
-facetLow: The honest verdict on their idea is sitting hot and ready to go. You take the long walk home first and look for the way in that won't leave a chill.
+facetLow: The stall took less than half of what it took last time and she knows it and is packing up very slowly, and you tell her the weather was against everybody on that field.
 facetLeastTitle: Beanbubble Wrap
-facetLeast: Bad news has to reach someone who's already had a brutal week. Rather than say it straight, you soften every edge until it lands like a cushion.
-question: Alone at 3am, the project failed and you finally ask yourself how much of it was your own doing. You...
-answerMost: name every fault you own and don't flinch from one
-answerHigh: own the real share of it, clear-eyed
-answerMid: weigh your part against the bad luck honestly
-answerLow: admit a little, then reach for the reasons it wasn't you
-answerLeast: decide it was circumstance and let yourself off
-rorschachMost: a stripped carcass hung head down to bleed
-rorschachHigh: a wrestler crouched, braced to drive in
-rorschachMid: a mushroom, cap above a split stem
-rorschachLow: a swaddled child held against a shoulder
-rorschachLeast: a snowman padded thick, scarf and all
+facetLeast: A friend has driven the mock test as though the mirrors were ornaments and clipped a kerb on the reverse. He gets out of the car looking pleased with himself. You tell him he is nearly there, and that the examiner will very likely be having a good day.
+question: A friend has spent two years and most of her savings on a shop that isn't going to make it, and she's asked what you think. You...
+answerMost: tell her it's finished and show her the numbers
+answerHigh: tell her it isn't working while there's still time
+answerMid: ask her what the next six months look like
+answerLow: call it a hard trade and change the subject
+answerLeast: tell her it's turning a corner
+rorschachMost: a scythe at full swing
+rorschachHigh: a blade through a field
+rorschachMid: a hooded lamp
+rorschachLow: shears set aside
+rorschachLeast: a blanket wrapped close
 ---
 
 Cured Kidney Beans are the Bean Zodiac's most unsparing. They tell you the business isn't working while there is still time to do something about it. Occasionally the telling leaves nothing standing. Letting somebody enjoy a comfortable illusion another month is not a kindness they extend.

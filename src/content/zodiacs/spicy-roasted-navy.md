@@ -1,5 +1,5 @@
 ---
-# CHANGED SINCE THIS CONTENT WAS WRITTEN — trait: self-reliant -> staunch, excess: self-isolating -> diehard, inverse: codependent -> fickle
+# TODO: tidy facets, redo rorschachs
 slug: spicy-roasted-navy
 lastUpdated: 
 bean: navy
@@ -23,26 +23,26 @@ fortuneMid: Asking for help is not weakness.
 fortuneLow: Refuse the extended hand enough times and it stops reaching.
 fortuneLeast: Many beans make light work.
 facetMostTitle: Beandie Hard
-facetMost: While you're at home alone, power goes out across the city, no telling how long it will be. You wait the outage out in the dark, unbothered, quietly hoping it lasts a while.
+facetMost: The club has fourteen members and eleven of them are on the committee, and you have paid the hall out of your own pocket twice. Somebody suggests winding it up and you take that personally.
 facetHighTitle: Stand Fast, Bean
-facetHigh: Your bike's chain snaps halfway up a trail, the repair shop a decent walk back the way you came. You tip the frame onto its saddle and thread the chain back on with your now greased-black hands.
+facetHigh: Nobody else has turned up for a friend since the trouble started. You are round there the same evening every week. You have not made anything of that, and you would not know how to.
 facetMidTitle: Loyal to the Beanast
-facetMid: The lid of a jar of honey refuses to budge. Someone across the table sticks a hand out for it — you keep it, brace it against your hip, twist harder, and try a few other things before letting them have a go.
+facetMid: Twenty years running the season ticket has been renewed, and this year is going to be bad again and everybody who knows anything says so, and the price has gone up on top. You renew it, in the same seat.
 facetLowTitle: Beanfickle Finger of Fate
-facetLow: A downpour catches you at the bus stop with no umbrella. The stranger beside you tilts theirs to cover you both, and you step in under it rather than tough out the rain on your own.
+facetLow: A band you have followed since school have made a record you cannot get on with, and you say so, and you skip the tour.
 facetLeastTitle: The Fair-Weather Bean
-facetLeast: On a free afternoon you walk past a cool-looking cafe, food smelling divine. You could duck in, but you'd sooner carry a takeaway bag home and eat on the sofa than sit down at a table with no one across it.
-question: You're a kid, it's a bright afternoon, and you're teaching yourself to skateboard. A group of older kids who clearly know how keep waving you over to join them. You...
-answerMost: pack up and go practise where nobody can watch you fall
-answerHigh: stay put, wave them off, and learn through your own mistakes
-answerMid: keep to yourself, but get a few pointers first
-answerLow: let them coach you for a bit, just until you get the basics
-answerLeast: tag along with them for the rest of the day
-rorschachMost: a carnivorous plant
-rorschachHigh: a ram's head, hunched low
-rorschachMid: a bowl of fruit
-rorschachLow: two figures carrying something
-rorschachLeast: a genie's lamp
+facetLeast: You have been at the same club since you were seven and a new one has opened across town with better everything and half the money. You are a member there by the end of the month, and you cross the road when you see the old lot.
+question: Something you've backed for twenty years has stopped being any good. You...
+answerMost: stay, and fall out with anyone who leaves
+answerHigh: stay, because that's what backing it means
+answerMid: stay, and say out loud that it's not working
+answerLow: step back and see how you feel
+answerLeast: go where it's better and don't look back
+rorschachMost: a sentry still at post
+rorschachHigh: two arms round a base
+rorschachMid: an anchor and its flukes
+rorschachLow: a post with nobody on
+rorschachLeast: a different flag flying
 ---
 
 Peri-Peri Navy Beans are the Bean Zodiac's most staunch. Twenty years, the same team, the same friend, through the seasons when nobody else was still turning up. Sometimes the loyalty outlives the thing deserving it. Walking away when it stops being good they can't do.

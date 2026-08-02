@@ -1,5 +1,5 @@
 ---
-# CHANGED SINCE THIS CONTENT WAS WRITTEN — trait: fidgety -> giddy, excess: twitchy -> hysterical, inverse: immobile -> sober
+# TODO: tidy facets, redo rorschachs
 slug: sweet-fried-green
 lastUpdated: 
 bean: green
@@ -23,26 +23,26 @@ fortuneMid: Don't bounce the knee incessantly — channel the restless energy so
 fortuneLow: Stay still long enough and the birds will come back.
 fortuneLeast: Beans fry better when you stop fiddling with them.
 facetMostTitle: Beanhysteria
-facetMost: It doesn't matter if you've know them ten years or ten seconds — if someone touches you unexpectedly, you jump out of your skin.
+facetMost: The giggles have got you at the reading and it is not a funny reading. Every time it nearly passes, somebody catches your eye. Your shoulders are going and the woman in front has turned round twice.
 facetHighTitle: Beans Just Want to Have Fun
-facetHigh: The recipe says to make sure the chicken thighs are fully browned before flipping them. You prod them, shake them, look at the underside five times before it reaches the right colour.
+facetHigh: The news comes through and you make a noise you have not made since you were about nine, and you are up, and you have rung four people before reading the rest of the message.
 facetMidTitle: Head Beanrush
-facetMid: You're at the pub with a close friend, someone you're very comfortable with. Regardless, you quietly peel the whole label off your beer bottle without noticing.
+facetMid: There is a thing to be pleased about and you are pleased about it in a way people can see across a room. By the end of the morning you have told the postman, the woman in the shop, and somebody you had never met.
 facetLowTitle: Stone-Cold Beansober
-facetLow: Out fishing at the riverbank, nothing has bitten in almost an hour. You keep the line in and stay put, happy to just watching the water drift by.
+facetLow: A good thing has happened and everybody is making a fuss of you. You say thank you and get on with the afternoon.
 facetLeastTitle: The Beanmorning After
-facetLeast: You've been asked to model for a still-life art class. You'll be clothed, but will need to be very still for around an hour. You can do it without a problem.
-question: An hour into a long morning drive and you're in the passenger seat, still a way to go. You...
-answerMost: cannot get comfortable at all — seat back, seat forward, feet up, feet down
-answerHigh: keep shifting and rummaging, legs bouncing, frequently changing position
-answerMid: move around a bit, disliking the stillness but managing
-answerLow: reposition once or twice, but otherwise just sink into your seat
-answerLeast: sit still however long it ends up taking
-rorschachMost: moths batting at a lamp
-rorschachHigh: an octopus evading a predator
-rorschachMid: a broken candle
-rorschachLow: toads hunched in the mud
-rorschachLeast: fossilised bones
+facetLeast: The whole table is helpless about something and has been for five minutes. You can see exactly why the thing is funny. You wait for it to finish so the conversation can resume.
+question: You've just found out you got the thing you'd applied for. You...
+answerMost: Make a noise and ring four people
+answerHigh: Tell whoever's nearest, loudly
+answerMid: Grin, and tell one person
+answerLow: Feel pleased and carry on
+answerLeast: Note it and get back to work
+rorschachMost: a soufflé over the tin
+rorschachHigh: a bubble about to go
+rorschachMid: two stacked scones
+rorschachLow: a risen loaf, settling
+rorschachLeast: a brick in the hand
 ---
 
 Caramelised Green Beans are the Bean Zodiac's most giddy. Twenty minutes before the trip they are unbearable in the best way, and nobody sleeps on the train. Sometimes it tips into a wobble. Being calmly pleased about something isn't a gear they have.

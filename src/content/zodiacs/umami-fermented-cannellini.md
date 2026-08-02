@@ -1,5 +1,5 @@
 ---
-# COMPLETELY NEEDS UPDATING — excess: utopian -> quixotic, inverse: jaded -> disillusioned
+# TODO: tidy facets, redo fortunes, redo rorschachs
 slug: umami-fermented-cannellini
 lastUpdated: 
 bean: cannellini
@@ -17,32 +17,32 @@ antiTriple: sweet-roasted-adzuki
 antiBeans: [chickpea, green]
 antiForm: fried
 seasonalFortune: "A season of rosemary and white miso: the purée believes in a better dinner."
-fortuneMost: The picture in your head of a thing that never existed is about to start pulling it into being.
-fortuneHigh: Cut the one beloved line and the shape you actually wanted appears in the gap.
-fortuneMid: The evening in your head is so finished, so specifically lit, that the real one keeps coming up short beside it.
+fortuneMost: Everybody wants the unicorn and nobody has ever had to feed one.
+fortuneHigh: Cut the beloved line and the real shape turns up in the gap.
+fortuneMid: The version in your head is lit better than any evening will be.
 fortuneLow: Wear the good jumper out of its tissue paper; use the kettle that works.
-fortuneLeast: A quiet omen this turn — the ordinary afternoon you're standing in is already enough.
+fortuneLeast: Standing where you are is already enough.
 facetMostTitle: Don Beanxote
-facetMost: Handed a patch of bare ground to do anything with, you already see the garden it could become and start digging toward that, not toward what's easy.
+facetMost: Eleven years on a case that four solicitors have told you is unwinnable, and two of those solicitors were your own, and the house itself went in the eighth year. You are still writing letters, and the letters are still good ones.
 facetHighTitle: The Bean of La Mancha
-facetHigh: The choir sounds fine to everyone but you. You hear the version it could be and want to run the passage once more.
+facetHigh: The shop has never made money and never will make money, and you have just put another year's rent into it out of your own account.
 facetMidTitle: Imagine All the Beans
-facetMid: A friend's coming over on short notice. You find yourself planning the whole proper welcome instead of the cup of tea you have time for.
+facetMid: You have let the top field go to whatever wants to grow in it, and the neighbours all have opinions, and you are giving the thing ten years.
 facetLowTitle: Lost Beanillusions
-facetLow: The coat isn't quite the one you pictured, but it fits and it's warm, so you buy it and stop looking.
+facetLow: Third time the chamber has voted it down, and the wording was word for word the wording of last time. You clap your folder shut and go and get the car.
 facetLeastTitle: Reality Beanites
-facetLeast: Why hold this grey little walk by the river up against some better one? You don't; it's the walk you're on.
-question: Spade in the ground for the bed you've pictured all winter, the soil turns up thin and stony, not the loam you imagined. You...
-answerMost: down tools — you'll dig it all out and bring in proper earth first
-answerHigh: spend the afternoon sieving stones and working in compost
-answerMid: fork in what you've got and plant the hardy half
-answerLow: push the seedlings into the stony ground and hope
-answerLeast: scatter the seeds, walk off, and let whatever takes, take
-rorschachMost: a torch flaring tall above its handle
-rorschachHigh: a bulb sending green shoots up toward light
-rorschachMid: a candle flame wavering over a stub
-rorschachLow: a guttered wick sunk into spent wax
-rorschachLeast: a snuffed stump trailing one curl of smoke
+facetLeast: Somebody young at the door is collecting for the thing you used to collect for. You give them a pound, because a pound is easier than saying what you now think about it.
+question: Do you still believe the things you believed at seventeen?
+answerMost: All of them, and harder
+answerHigh: The important ones, yes
+answerMid: Some — the rest I've grown out of
+answerLow: Not many
+answerLeast: I know better now
+rorschachMost: a fountain overshooting its basin
+rorschachHigh: a raised torch
+rorschachMid: a windblown poplar
+rorschachLow: a guttering candle
+rorschachLeast: a doused bonfire
 ---
 
 Miso Cannellini Beans are the Bean Zodiac's most idealistic. They still believe the thing can be done properly, and often enough their believing it makes it so. Sometimes the windmill wins. Settling cynically for how things are is a defeat they refuse.

@@ -1,5 +1,5 @@
 ---
-# COMPLETELY NEEDS UPDATING — excess: penny-pinching -> miserly, inverse: imprudent -> profligate
+# TODO: tidy facets, redo fortunes, redo rorschachs
 slug: bitter-roasted-navy
 lastUpdated: 
 bean: navy
@@ -17,32 +17,32 @@ antiTriple: spicy-smoked-green
 antiBeans: [fava, pinto]
 antiForm: fermented
 seasonalFortune: "A season of molasses and burnt bay — the oven spends what it has and no more."
-fortuneMost: You set the coat by the door, so the rain finds you already buttoned.
-fortuneHigh: The hard thing you settled overnight is ready.
-fortuneMid: A friend asking where to go wants the one place, not the shortlist.
-fortuneLow: The version in your hands is ready to go.
-fortuneLeast: A road is opening that you should step onto without first pricing the way back.
+fortuneMost: Three exits, all of them kept clear - that is the field mouse's whole life.
+fortuneHigh: You set the coat by the door, so the rain finds you already buttoned.
+fortuneMid: The thing you put by has turned out to be the thing needed.
+fortuneLow: Some risks are cheap and you have been pricing them high.
+fortuneLeast: Step onto the road without first pricing the way back.
 facetMostTitle: A Beanmas Carol
-facetMost: Before the road trip you pack a spare fan belt and a torch you'll likely never touch, because the breakdown you've planned for is the one that never comes.
+facetMost: Four years of the boiler fund and there is enough in it twice over and the boiler is fine, and somebody has pointed out that the money is doing nothing. You put the standing order up by ten pounds.
 facetHighTitle: The Millionaire Next Bean
-facetHigh: The well-reviewed campsite is right there to book, yet you hold off until you've found where the nearest shelter is, in case the weather turns.
+facetHigh: A roofer has quoted for the whole side and you have the money sat there for exactly this and the felt has another year in it at best, and you have him do it now rather than wait for the ceiling to go.
 facetMidTitle: The Intelligent Beanvestor
-facetMid: A friend hands you a contract to glance at. You skim it for the one clause that could bite, then hand it straight back.
+facetMid: There is a second-hand kiln at a price that will not come again. You go and look at it twice before you say yes.
 facetLowTitle: The Wolf of Wall Bean
-facetLow: Say yes on the spot to the weekend invite with no details yet, and sort the how of it nearer the time.
+facetLow: That coat in the window is more than you would spend. It is the only one you have liked in years. You go home to think, and by the time you go back it has gone.
 facetLeastTitle: Brewster's Beanillions
-facetLeast: A roadside sign points off to a beach you've never heard of, and the wheel's already swinging to follow it with no idea what waits at the end.
-question: A trip next month, flights still unbooked, prices nudging up daily. You...
-answerMost: build a spreadsheet of routes, dates, and refund policies before booking
-answerHigh: read the cancellation terms twice and book the safer fare
-answerMid: pick a flight that looks fine and book it tonight
-answerLow: grab the first one in your budget and move on
-answerLeast: book it from your phone on the platform without checking the dates twice
-rorschachMost: a padlock clasped tight beside its key
-rorschachHigh: a coiled rope knotted snug to a post
-rorschachMid: a stone next to a tangle of cord
-rorschachLow: a loosened knot slipping off a peg
-rorschachLeast: a rope cut free, ends flung wide open
+facetLeast: Four figures have come in that you did not expect and the sensible thing is obvious to everybody including you, and there is a car you have wanted since you were nineteen. It is bought inside a fortnight.
+question: Two thousand pounds arrives that you weren't expecting. You...
+answerMost: put it away and don't tell anyone it came
+answerHigh: put it against the thing that'll need doing
+answerMid: save most, spend a bit of it on something good
+answerLow: spend it on something you've wanted a long time
+answerLeast: it's gone by the end of the month
+rorschachMost: a purse tight, coins loose
+rorschachHigh: a full purse, knot tied
+rorschachMid: a bag and scattered change
+rorschachLow: a coin let go
+rorschachLeast: money thrown at the floor
 ---
 
 Wood-Fired Navy Beans are the Bean Zodiac's most prudent. The boiler fund existed before the boiler failed, and they have never once been surprised by a bill. The saving sometimes outlasts the reason for it. Spending freely on something purely lovely takes them a fortnight to approve.

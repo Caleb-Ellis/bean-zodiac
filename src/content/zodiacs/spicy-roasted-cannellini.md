@@ -1,5 +1,5 @@
 ---
-# COMPLETELY NEEDS UPDATING — excess: cultish -> messianic, inverse: charmless -> colourless
+# TODO: tidy facets, redo fortunes, redo rorschachs
 slug: spicy-roasted-cannellini
 lastUpdated: 
 bean: cannellini
@@ -17,32 +17,32 @@ antiTriple: sweet-fermented-kidney
 antiBeans: [fava, mung]
 antiForm: fried
 seasonalFortune: "A season of bird's eye chilli and gathered attention — the roast is why people came."
-fortuneMost: You enter and the gathering rearranges its chairs the way nduja bleeds red through the oil.
+fortuneMost: The room rearranges round you, and you have stopped noticing that it does.
 fortuneHigh: Say the plain, sincere thing you'd rather dress up.
 fortuneMid: No entrance required to be felt.
-fortuneLow: Take the quiet armchair and the dog, and let whoever truly needs you cross the room to find it.
-fortuneLeast: The group will move on without you, and the relief that floods in is real and yours to keep.
+fortuneLow: Even a dolphin swims off on its own for a while.
+fortuneLeast: They move on without you and the relief is real.
 facetMostTitle: Beanmessiah
-facetMost: You step into the lift and the two already in it stop their conversation to fold you into it — by your floor you've got the whole car laughing, and you wanted that.
+facetMost: Ninety minutes on the future of the town and the hall has not moved. Two people are crying. Somebody asks afterwards what you are going to do next and means it as a serious question, and the alarming part is that you have an answer.
 facetHighTitle: A Beanstar Is Born
-facetHigh: A ferry crossing, a deck of strangers. By the far shore three of them have your number and are sorry to be docking.
+facetHigh: A room of fourteen-year-olds on a wet afternoon, second lesson after lunch, and you have got every single one of them.
 facetMidTitle: Star Beanquality
-facetMid: Catch the cashier's eye, ask the one real question, and watch a flat transaction turn into a minute that warms you both.
+facetMid: Half the club would not have got in the water at all without you saying it would be fine. They got in, and two of them have booked the next trip.
 facetLowTitle: Beanmagnolia
-facetLow: The introductions go round the circle. You'd rather hand your turn to the next person and stay the one who isn't quite placed.
+facetLow: Guitar out, hat down, and the pitch outside the station is a good one. Three hours, eleven pounds, and not one person stopped walking.
 facetLeastTitle: Beaninvisible Ink
-facetLeast: A spotlight swings looking for someone to step into it. Let it pass over you — being unfound is the better seat tonight.
-question: A panel asks for one volunteer to step up and introduce the next speaker on the spot. Half the room is staring at the floor. You...
-answerMost: stand up first, walk down the aisle, take the mic before they ask twice
-answerHigh: catch the panellist's eye, give a small nod, accept when they call you
-answerMid: wait to see if anyone else moves, then raise your hand
-answerLow: study the programme intently and hope someone with a louder voice obliges
-answerLeast: slip out for water and come back when the next talk has started
-rorschachMost: a ram rearing with one horn unfurling
-rorschachHigh: smoke curling out toward a lit window
-rorschachMid: a snail beside its own coiled shell
-rorschachLow: a hunched figure turned away from the room
-rorschachLeast: a hedgehog balled up deep in the brush
+facetLeast: You deliver the training day exactly as the pack has it written, and everybody goes home with a certificate and a biscuit. Nobody afterwards could tell you who ran it.
+question: You walk into a room where you know nobody. Twenty minutes later...
+answerMost: The room's arranged itself around me
+answerHigh: I've got three people properly talking
+answerMid: I've had a decent conversation
+answerLow: I'm still where I came in
+answerLeast: Nobody's registered I'm here
+rorschachMost: a bonfire throwing sparks
+rorschachHigh: a lantern and its halo
+rorschachMid: a rock in churning surf
+rorschachLow: a shrouded lamp
+rorschachLeast: a grey pebble, tangled weeds
 ---
 
 Peri-Peri Cannellini Beans are the Bean Zodiac's most charismatic. They explain the plan and forty people believe in it, including several who came to object. Sometimes the belief becomes the product. Saying something dull and true, without lift, they find almost impossible.

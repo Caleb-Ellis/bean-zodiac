@@ -1,7 +1,6 @@
 ---
-# CHANGED SINCE THIS CONTENT WAS WRITTEN — trait: obsessive -> intense, excess: hyperfixated -> overwhelming, inverse: unbothered -> lukewarm
 slug: spicy-fermented-kidney
-lastUpdated: 
+lastUpdated: 2026-08-07
 bean: kidney
 flavour: spicy
 form: fermented
@@ -22,27 +21,27 @@ fortuneHigh: Don't be afraid to take it to unhinged levels.
 fortuneMid: A loose end will nag until you tie it.
 fortuneLow: It's probably good enough.
 fortuneLeast: Not everything is worth finishing.
-facetMostTitle: Sensory Beanoverload
-facetMost: You watched a few episodes of a show and loved them, a lot. A week later you've finished it, and its spinoffs, and read forty fan-theory threads - and now you want to start the director's earlier works.
-facetHighTitle: Full Beanthrottle
-facetHigh: There's one bar of the piano piece you're learning that keeps tripping your fingers. You've played it maybe three hundred times tonight, slow then up to speed. You'll keep going until it's clean, however late it gets.
+facetMostTitle: Beanery Overload
+facetMost: The model of the village was meant to take a few months and there are working streetlights in it now, a regular train service, a river that runs, and you have started on the churchyard, stone by stone.
+facetHighTitle: Full Beantle
+facetHigh: A friend round at yours for the first time stops at the shelf and says they saw one of the films on it years ago and thought it was beautiful. You immediately gush about the director, and grab three others from the shelf, urging them to watch "this one first, that one when you're feeling off-kilter, don't read anything about this other one".
 facetMidTitle: Turned Up to Beanleven
-facetMid: The text only needs a one-line reply, but you've already rewritten it five times, moved a comma, swapped "haha" for "ha", triple-checked the emojis convey exactly what you intend. And you'll read it aloud before you send it.
-facetLowTitle: Neither Hot nor Beancold
-facetLow: You're at 98% completion in the game — every collectible but two obscure ones. It'll take a while to get them. You just call it there, and move on with your life.
-facetLeastTitle: Room Beantemperature
-facetLeast: Everyone's raving about this new horror movie — the twists, the ending, the absolute insanity. You missed it in theatres, so you skim the plot summary on Wikipedia, content to never actually watch it.
-question: A word is on the tip of your tongue — you know exactly what you mean, but the word itself won't come. You...
-answerMost: drop everything and chase it until it surfaces, however long that takes
-answerHigh: work through synonyms and first letters until it cracks
-answerMid: chew on it for a minute, then look it up
-answerLow: let it nag a while, then let it go
-answerLeast: never mind — the gist does the job
-rorschachMost: a thrashing whirlpool
-rorschachHigh: a swarm of bees
-rorschachMid: a splatter of ink
-rorschachLow: frayed rope
-rorschachLeast: a dissipating smoke ring
+facetMid: It's a birthday at a karting track, and afterwards the others drift off to a nearby bar. You stay at the board with the lap times, working out where the hairpin is costing you, and you put your name down for one more go.
+facetLowTitle: Neither Bean nor Cold
+facetLow: Six people are coming over to eat and you are making a curry. The mortar and pestle are out on the bench and whole spices close by — but you use the ready-ground jar to speed things up.
+facetLeastTitle: Bean Temperature
+facetLeast: The athletics centre you have used twice a week for years is up for closing. You're a bit miffed about it, but mainly because you'll have to find somewhere new.
+question: You're at base camp, and it'll be two days til you reach the summit. Another climber asks what you hope to find at the top. You...
+answerMost: get deep into your philosophy about life and purpose
+answerHigh: say you want to find out what you're capable of
+answerMid: tell them "clarity"
+answerLow: say the view
+answerLeast: say you'll find out in two days
+rorschachMost: a whirling miasma
+rorschachHigh: a lion roaring
+rorschachMid: an open furnace
+rorschachLow: a fading smoke ring
+rorschachLeast: dried coral
 ---
 
 Kimchi Kidney Beans are the Bean Zodiac's most intense. Two hours in and the conversation is somewhere most friendships take four years to reach. Sometimes the heat of it empties the room. Keeping something light for an evening they can manage for about forty minutes.

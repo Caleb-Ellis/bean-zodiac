@@ -1,14 +1,13 @@
 ---
-# COMPLETELY NEEDS UPDATING — trait: sardonic -> allusive, excess: sneering -> riddling, inverse: warmhearted -> explicit
 slug: sour-smoked-pinto
-lastUpdated: 
+lastUpdated: 2026-08-07
 bean: pinto
 flavour: sour
 form: smoked
 trait: allusive
 excess: riddling
-inverse: explicit
-quote: Tell all the truth but tell it bean.
+inverse: unambiguous
+quote: Tell all the truth but tell it beaned.
 creature: firefly
 dish: Smoked pinto beans cured with lime over pecan.
 friendlyBeans: [fava, adzuki]
@@ -17,32 +16,32 @@ antiTriple: sweet-dried-kidney
 antiBeans: [butter, mung]
 antiForm: boiled
 seasonalFortune: "A season of pecan smoke and half-said things — the flavour hints, and the hint lands later."
-fortuneMost: Seven words, then quiet before the eighth — the eighth would've been the apology.
-fortuneHigh: The line's cocked before they've finished talking. Hold the extra beat.
-fortuneMid: One compliment with nothing twisted on the end.
-fortuneLow: A bit falls flat. Don't double down — drop the angle and say the plain version.
-fortuneLeast: They take the sincere questions to someone less funny now.
+fortuneMost: Say it well enough and nobody will know you said it.
+fortuneHigh: Offer the fuzzy version.
+fortuneMid: A firefly is easier to follow than to catch.
+fortuneLow: There's nothing to unpack here.
+fortuneLeast: Do not hide behind metaphors and allusions — tell it like it is.
 facetMostTitle: Riddle Me Bean
-facetMost: The award gets handed to the least-deserving person in the room to warm applause. A dry aside is loaded and ready, and you let it off under your breath to the seat beside you.
-facetHighTitle: Between the Beanlines
-facetHigh: A toast turns suddenly weepy and earnest, and the whole table is welling up. There's a wry line that would puncture the spell, and your hand is on it.
-facetMidTitle: Beanwhat Lies Beneath
-facetMid: A kid shows you the wobbly clay thing they made and watches your face. The setup for a gentle joke is right there; you tell them it's wonderful and leave it unwrapped.
+facetMost: You've had a big fight with your sister, and the flowers are your way back in. The florist holds the little card and asks what to write on it. You give her something from a holiday the two of you had as kids, and your initial.
+facetHighTitle: Bean the Lines
+facetHigh: A friend has been seeing somebody a couple of months, and while the two of you sit waiting on her machine at the laundrette she asks what you honestly made of him. You have real doubts. You bring up the last one she went out with, and how the first year of that went.
+facetMidTitle: What Lies Bebean
+facetMid: A shift at the charity shop where you volunteer, sorting a bin bag of donations with the woman you always get put with. She asks how the date went, the one that went poorly. You pick up a tired old shirt out of the bag and say "it was a bit like this".
 facetLowTitle: "Parental Advisory: Explicit Beans"
-facetLow: A grieving friend asks, plainly, whether it gets easier. The deflection is reflex and ready — you set it aside and give them the plain, undefended answer.
+facetLow: Somebody you brought to the climbing wall for the first time has stalled halfway up the easy route and is calling down for help. You shout up exactly which hold to reach for, which foot to move, and how they should shift their weight.
 facetLeastTitle: In Plain Beanglish
-facetLeast: An apology is owed and the wry, hedged version is already half-written. Scrap it — out goes the bare one instead, with no angle to hide behind.
-question: At your old boss's retirement drinks a newcomer asks you, sincerely, what he was really like to work for. You...
-answerMost: deflect with a wry line he himself would've used
-answerHigh: offer something small and faintly self-mocking on his behalf
-answerMid: answer half-straight, half-dry
-answerLow: name the true thing with a small qualifier
-answerLeast: name the true thing and hold their eye
-rorschachMost: two profiles smirking sidelong at each other
-rorschachHigh: two masks, one brow cocked across the gap
-rorschachMid: two faces turned toward a narrow gap
-rorschachLow: two friends leaning in, close to a kiss
-rorschachLeast: two children's faces beaming across a table
+facetLeast: A woman in your writing group has been bringing chapters of the same novel for months — and you have always thought the opening isn't great. She puts forty pages down and asks you not to be kind. The others say what they liked. You tell her the opening does not work, and the page where it starts to sag.
+question: Two hours on the riverbank with your dad, nothing biting. You've taken a job overseas and you start in March; he doesn't know yet, and he asks what your year's looking like. You start by...
+answerMost: saying the swallows go out a long way and still come back
+answerHigh: asking him whether he's ever fished anywhere overseas
+answerMid: saying you might not be around much after March
+answerLow: saying you're moving overseas in March
+answerLeast: giving him the exact date and flight
+rorschachMost: a sphinx
+rorschachHigh: a shadow puppet
+rorschachMid: a knotted teatowel
+rorschachLow: an island
+rorschachLeast: a megaphone
 ---
 
 Cured Pinto Beans are the Bean Zodiac's most allusive. They answer the question with a half-remembered film and it lands more precisely than a plain answer would have. Sometimes only they know what was meant. Stating a thing outright would feel like turning the lights on.

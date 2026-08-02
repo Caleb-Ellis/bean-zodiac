@@ -1,5 +1,5 @@
 ---
-# COMPLETELY NEEDS UPDATING — excess: peppery -> acrid
+# TODO: tidy facets, redo fortunes, redo rorschachs
 slug: sour-smoked-green
 lastUpdated: 
 bean: green
@@ -17,32 +17,32 @@ antiTriple: umami-boiled-butter
 antiBeans: [navy, mung]
 antiForm: dried
 seasonalFortune: "A season of cider vinegar and carrying smell — the kitchen knows before the door opens."
-fortuneMost: The take goes out unsoftened.
-fortuneHigh: Your opinion arrives somewhere ahead of you, the way hock-smoke reaches a kitchen before the cook.
+fortuneMost: You smell the polecat long before you see it, and you remember it far longer.
+fortuneHigh: Your opinion arrives somewhere ahead of you.
 fortuneMid: Plain words, not a shrug.
 fortuneLow: A wrong story drifts by and your head's already nodding it along.
 fortuneLeast: Spend one verdict and stay silent on the rest.
 facetMostTitle: Beanacid Rain
-facetMost: The film ends, the lights come up, and someone asks if it was any good. Out comes the whole verdict, fully formed — no hedge, no maybe.
+facetMost: That cheese has been in the fridge a fortnight and the fridge smells of it and so does the kitchen. It has been raised with you twice. You have not wrapped it, you are not going to, and you had some for breakfast.
 facetHighTitle: The Stinky Beancheese Man
-facetHigh: A committee has been talking in circles for an hour, careful not to land anywhere. You'd rather plant a flag and say which way this should go.
+facetHigh: There is a smell off the tank that everybody else has backed away from. You go and find out what it is.
 facetMidTitle: Scent of a Bean
-facetMid: A new person asks what you think of the band everyone here loves. You give them the real answer, plainly, and don't dress it as just a feeling.
+facetMid: Asked to bring something to the table, you bring the one people have opinions about. By the end of the evening two of them have taken some home and one has not forgiven you.
 facetLowTitle: Beanblandings
-facetLow: A seatmate on the bus is confidently wrong about something you know cold. The correction is right there; you let it ride and watch the fields go by instead.
+facetLow: Your dish would take the chilli and everybody at that table can handle it. You put in half what it wants and nobody says anything either way.
 facetLeastTitle: White Beanbread
-facetLeast: The group's circling a decision and you've got no horse in it. Rather than steer, you fold in behind whatever they pick and let someone else hold the wheel.
-question: At a council meeting the planning officer waves through a development you know is wrong, and asks if there are any comments before the vote. You...
-answerMost: stand up and lay out every flaw until they cut your mic
-answerHigh: raise your hand and say the sharpest objection plainly
-answerMid: put one pointed question on the record
-answerLow: mutter it to the person beside you
-answerLeast: keep your seat and let the vote pass
-rorschachMost: a crushed garlic bulb, fumes curling off
-rorschachHigh: a smouldering thornbush trailing smoke
-rorschachMid: a bramble clump with two wisps below
-rorschachLow: a moss cushion with faint steam rising
-rorschachLeast: a cold wad of cotton, nothing rising off it
+facetLeast: A recipe has anchovy, garlic and a great deal of pepper in it, and you have left all three out because somebody might not care for them, and what comes to the table is warm and orange and could be almost anything at all.
+question: You're cooking for six and one of them is fussy. You...
+answerMost: Cook what I like, at full strength
+answerHigh: Cook it properly and do them a side
+answerMid: Pull it back a bit
+answerLow: Cook something safe
+answerLeast: Cook the blandest thing I know
+rorschachMost: an onion cut in half
+rorschachHigh: smoke off green wood
+rorschachMid: a fringed cloud
+rorschachLow: a jar, lid screwed on
+rorschachLeast: a bowl of plain rice
 ---
 
 Cured Green Beans are the Bean Zodiac's most pungent. Their opinion of the film is the one everyone repeats afterwards, whether or not they agreed with it. Some rooms can't take it at that concentration. Saying something merely pleasant and forgettable they seem unable to do.

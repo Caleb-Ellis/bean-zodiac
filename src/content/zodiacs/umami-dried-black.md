@@ -1,5 +1,5 @@
 ---
-# CHANGED SINCE THIS CONTENT WAS WRITTEN — excess: portentous -> unplumbable, inverse: superficial -> shallow
+# TODO: tidy facets, redo rorschachs
 slug: umami-dried-black
 lastUpdated: 
 bean: black
@@ -23,26 +23,26 @@ fortuneMid: Look for the question within the question.
 fortuneLow: Some things are only as deep as they look.
 fortuneLeast: Take the good news plainly, do not dig for more.
 facetMostTitle: Twenty Thousand Beans Under the Sea
-facetMost: A child at a birthday party asks how the balloons float. You start talking about air and helium, but somehow hear yourself getting into what wants to rise and what holds the rest of us down.
+facetMost: Somebody at the table asks what you thought of the film and you begin with what it is actually about underneath, which takes a while. Forty minutes later the plates have gone cold and two people have quietly left the table.
 facetHighTitle: The Tree of Bean
-facetHigh: Passengers on a long delayed train platform trade where they're headed. When your turn comes you skip straight to why you're going.
+facetHigh: Your nephew asks the question children ask about dying, and everybody looks at you. You give him a real answer, at the level he can take.
 facetMidTitle: The Beandeep
-facetMid: Someone learning English asks what is the difference between a "house" and a "home". You spend a good deal of time elaborating on what a home means to you, personally.
+facetMid: You ask the question underneath the one she came to ask, and she puts her bag down and sits back down.
 facetLowTitle: Shallow Beanhal
-facetLow: At the top of the mountain climb someone remarks on the largeness of nature making them and their problems feel small. You say "yeah it's crazy", but you're really just here for the cardio.
+facetLow: The book club wants to know what you made of it. You say the ending was well done and pass it on.
 facetLeastTitle: The Bling Beanring
-facetLeast: The book club is dissecting the novel for hidden meaning — the river as death, the old coat as guilt. You liked it because the story moved at a good pace, not really interested in the deeper, obtuse details.
-question: You're watching the eclipse as it reaches totality. The sun becomes a fiery ring, the bright sky dims, and the birds go quiet. You...
-answerMost: stand there undone, the whole cosmos bearing down on you
-answerHigh: feel how small and brief a thing you are
-answerMid: quietly take it in while it lasts
-answerLow: watch a moment, get a photo
-answerLeast: don't get what all the fuss is
-rorschachMost: a thundercloud massing over a ridge
-rorschachHigh: a bison's heavy head
-rorschachMid: a pile of raked leaves
-rorschachLow: a shallow puddle in the mud
-rorschachLeast: a coffee stain on the floor
+facetLeast: The conversation gets to the interesting part at last, and you steer it back to the traffic on the way over.
+question: A conversation reaches the point where it could go deeper. You...
+answerMost: take it all the way down and lose the room doing it
+answerHigh: follow it, and bring the others with you
+answerMid: go one level further and stop there
+answerLow: keep it where it is
+answerLeast: steer it back to something lighter
+rorschachMost: water darker further down
+rorschachHigh: a lake, far bank hidden
+rorschachMid: dark water and its edge
+rorschachLow: a pond, bottom visible
+rorschachLeast: a puddle over gravel
 ---
 
 Aged Black Beans are the Bean Zodiac's most profound. What they say about your situation at midnight is still with you at forty. Sometimes there is no floor to the conversation at all. Keeping it light and pleasant is not a thing they're built for.

@@ -1,5 +1,5 @@
 ---
-# CHANGED SINCE THIS CONTENT WAS WRITTEN — trait: tough -> hardy, excess: calcified -> unyielding, inverse: soft -> frail
+# TODO: tidy facets, redo rorschachs
 slug: bitter-dried-kidney
 lastUpdated: 
 bean: kidney
@@ -23,26 +23,26 @@ fortuneMid: Don't sweat the small stuff.
 fortuneLow: Having a soft heart in a hard world is courage, not weakness.
 fortuneLeast: Only soft ground can hold a seed.
 facetMostTitle: Unbeanakable
-facetMost: A new friend is trying to get close. You keep them at arm's length out of reflex, hoping they stop.
+facetMost: Twelve miles into a hill race in real heat with your knee gone and a marshal holding the van door open for you, you give him your number and carry on up the track.
 facetHighTitle: Beanvivor
-facetHigh: Your boss gives the news — the company is folding, and everyone needs to pack their things and go. People are crying, calling family, spiralling about the mortgage. It's a hassle for you of course, but you'll get through it fine — and you've been through worse.
+facetHigh: Sun straight down and the roofing felt has gone soft as toffee. You have been on that shed since first light with no water up there. You lay the last strip before you come down.
 facetMidTitle: Beanshackleton
-facetMid: Your domestic flight is delayed for an hour and then suddenly cancelled, with no recourse offered. Passengers are up in arms, arguing at the desk, demanding the next plane and compensation. You book another flight on your phone and go find somewhere to wait it out.
+facetMid: The parents' race at sports day is a hundred metres and you are the oldest on that line by fifteen years, with your daughter's whole class watching from the rope. You go flat out, pull something at eighty, and walk the last twenty on it.
 facetLowTitle: The Fault in Our Beans
-facetLow: The dog dies in the movie and your throat goes tight, then your eyes become glassy. The tears start forming, and you let them run.
+facetLow: The lido water is properly cold and there is a queue on the steps behind you, and you decide to give it a miss.
 facetLeastTitle: The Glass Beanagerie
-facetLeast: You're just a plus-one at the wedding, and you've met the couple only once. But the speeches, the stories, the vows, and the beauty of human connection — it takes hold of you, and you can't stop the tears.
-question: You're going through a genuinely rough patch. You...
-answerMost: carry on as if all's well, and let nobody see a thing
-answerHigh: don't hide it, but turn down every offer of help
-answerMid: mention it only if someone asks you outright
-answerLow: lean on a couple of close people to get through
-answerLeast: tell everyone you know the whole story
-rorschachMost: fossilised creatures
-rorschachHigh: spiky conker shells
-rorschachMid: dried leaves
-rorschachLow: two moths
-rorschachLeast: puffs of smoke
+facetLeast: You said you would help with the removals van, and two boxes in your back goes. You sit in the passenger seat and let the other three do the house.
+question: You're four hours into helping a friend move house, your back has gone, and there's a piano still on the pavement. You...
+answerMost: take the heavy end of the piano and say nothing
+answerHigh: take the light end and keep going
+answerMid: admit your back's gone and carry on with the boxes
+answerLow: sit on the wall and let them do the piano
+answerLeast: go home and leave them to it
+rorschachMost: a bone that won't snap
+rorschachHigh: a nut, shell intact
+rorschachMid: a dumbbell on a floor
+rorschachLow: a nut already cracked
+rorschachLeast: a reed bent double
 ---
 
 Desiccated Kidney Beans are the Bean Zodiac's most hardy. Two nights of bad sleep, a long drive, someone else's crisis at the end of it, and they still carry the bags in. Saying out loud that they're weakened, even to a doctor, is the worse outcome.

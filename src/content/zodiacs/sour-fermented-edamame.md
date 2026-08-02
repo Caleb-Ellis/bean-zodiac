@@ -1,5 +1,5 @@
 ---
-# COMPLETELY NEEDS UPDATING — trait: skeptical -> sceptical, excess: dismissive -> cynical, inverse: credulous -> trusting
+# TODO: tidy facets, redo fortunes, redo rorschachs
 slug: sour-fermented-edamame
 lastUpdated: 
 bean: edamame
@@ -17,32 +17,32 @@ antiTriple: sweet-boiled-mung
 antiBeans: [adzuki, kidney]
 antiForm: fried
 seasonalFortune: "A season of kombu and rice vinegar: the jar believes nothing until the acid confirms it."
-fortuneMost: The first answer was rehearsed; the pod cracks on the second question.
-fortuneHigh: The thing that's an ounce wrong was made small on purpose — press on it, quietly, until it resolves.
-fortuneMid: Said once, it was meant the small way.
-fortuneLow: A first glance has quietly become an hour, and the auditing is just stalling in a careful coat.
-fortuneLeast: Your suspicion is out hunting for somewhere to land, and this room isn't it.
+fortuneMost: The hooded crow tests every shell against the stone, and eats late.
+fortuneHigh: Ask who benefits, then wait for the whole answer.
+fortuneMid: Confidence in the telling is not evidence in the thing.
+fortuneLow: Take the plain account at its word and lose nothing.
+fortuneLeast: Most people are exactly what they appear to be, and tired.
 facetMostTitle: The Beanwire
-facetMost: A man on the corner is giving cash away, no catch, he swears. Everything in you steps back to find the angle before your feet will move toward it.
+facetMost: The appeal has a photograph, a number, and a story about a village well. You want the accounts. You get the accounts, and then you want to know what the chief executive is paid, and by then you have stopped meaning to give anything at all.
 facetHighTitle: Beanbusters
-facetHigh: The salesman's grin is wide and the deal sounds clean. You'd sooner let him keep talking and watch where the smile slips than nod along to the warm part.
+facetHigh: A man on the doorstep has a laminated badge and a very good manner about him. You ask which company he is from, then you ring the company while he stands there waiting.
 facetMidTitle: Show Me the Bean
-facetMid: The change handed back is a coin or two light, easy to let go. Something won't let it lie, and you count the palm again under the lamp.
+facetMid: Told the tablets cleared her back up in a fortnight, you ask what else she changed in that same fortnight, and she has to stop and think about it.
 facetLowTitle: Blind Beanfaith
-facetLow: First time meeting them, you already know you like this one. The gut read is enough — you spend the evening on it and never reach for a second opinion.
+facetLow: Your daughter's new one seems fine and everybody who has met him says he is fine. You take him as he comes.
 facetLeastTitle: The Beantrust Fall
-facetLeast: A gift arrives with no occasion behind it. You take it as plain kindness and don't go feeling around the edges for the hook.
-question: A marketplace listing has the exact rare synth you've hunted for years at half price, seller newly joined, "cash today only." You...
-answerMost: reverse-image the photos, check the account's history, and ask for a video call before a penny moves
-answerHigh: ask how they came by it, and press on the answers that wobble
-answerMid: look the seller up and skim every review before replying
-answerLow: glance at the profile, shrug, and arrange to meet
-answerLeast: send the deposit before someone else grabs it
-rorschachMost: a low mouth bristling with bared teeth
-rorschachHigh: a crouched beast raising its spines to look
-rorschachMid: a wide crown with points along the rim
-rorschachLow: a shaggy dog flopped down, paws splayed loose
-rorschachLeast: an open basket spilling its grasses freely
+facetLeast: An email says the parcel could not be delivered and there is a link in it to rearrange. You click the link, put the card details in, and think nothing more about it until the bank rings.
+question: Someone tells you a story that's a bit too good. What's your first thought?
+answerMost: That none of it happened
+answerHigh: That some of it's been improved
+answerMid: That I'd like the other version
+answerLow: That it's a good story
+answerLeast: That I must tell somebody else
+rorschachMost: a wave curling, never breaking
+rorschachHigh: a lip curled up
+rorschachMid: a bank of foam
+rorschachLow: a quilt, edge ruffled
+rorschachLeast: an open palm
 ---
 
 Pickled Edamame are the Bean Zodiac's most sceptical. They ask where the number came from, and it turns out the number came from nowhere. Held long enough, doubt becomes the only position available. Believing something simply because a decent person said it is a leap they don't make.

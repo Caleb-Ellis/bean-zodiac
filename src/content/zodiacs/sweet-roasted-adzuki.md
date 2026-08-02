@@ -1,5 +1,5 @@
 ---
-# COMPLETELY NEEDS UPDATING — trait: happy -> convivial, excess: euphoric -> bacchanalian, inverse: miserable -> antisocial
+# TODO: tidy facets, redo fortunes, redo rorschachs
 slug: sweet-roasted-adzuki
 lastUpdated: 
 bean: adzuki
@@ -17,32 +17,32 @@ antiTriple: bitter-fermented-kidney
 antiBeans: [cannellini, edamame]
 antiForm: smoked
 seasonalFortune: "A season of miso glaze and full tables — the oven is throwing something and it works."
-fortuneMost: Amber luck this turn, the kind that crackles.
-fortuneHigh: Bake the cake on an ordinary day. Whoever's hungry around eight will be grateful you bothered.
-fortuneMid: Quiet gladness is still gladness, even when nothing comes out of the oven crackling.
+fortuneMost: Nothing gets eaten alone; the macaw wants the whole flock at one tree.
+fortuneHigh: Feed whoever is hungry at eight and think no further.
+fortuneMid: Quiet gladness is still gladness, even with nothing crackling in the oven.
 fortuneLow: When a story circles back and your smile goes thin, ask for a different one.
 fortuneLeast: The empty chair is a small loss, and a quiet corner the gain.
 facetMostTitle: The Beanbacchae
-facetMost: A bus pulls up and the driver looks grim. Before you've thought about it you're telling him something to make him grin.
+facetMost: The taproom calls last orders and there are still twenty of you round two tables with no intention of going home. You buy four crates at the bar and move the entire thing back to your kitchen.
 facetHighTitle: Babette's Beanfeast
-facetHigh: There's an old number in your phone you haven't called in years. The thought of them lands warm, and your thumb is already hovering over it.
+facetHigh: You have the village hall booked and forty people coming to it. The whole afternoon goes on laying the tables out so that nobody ends up sitting on their own at the end of a row.
 facetMidTitle: Come On Bean My House
-facetMid: Two kids on the next bench, betting whether a cloud will reach the rooftop first. You catch yourself rooting for the cloud out loud.
+facetMid: Two hours sharing a bird hide with a stranger, and by the end of it you have split the flask between you and swapped everything the pair of you have seen.
 facetLowTitle: Beanantisocial
-facetLow: A door appears in the hillside marked *come in, it's lovely.* You read it twice, then keep walking the path you were on.
+facetLow: Down the second passage they go, and you have had enough of the dark. You wait in the entrance chamber and enjoy the quiet.
 facetLeastTitle: Party of Bean
-facetLeast: The party noise reaches you from two rooms over. You pull the blanket up and stay exactly where you are.
-question: A friend you haven't seen in months messages out of nowhere — they're in town for the night, no plan. You...
-answerMost: tell them dinner's at yours in an hour and start cooking
-answerHigh: clear your evening and pick a place you both used to love
-answerMid: meet for one drink and see how it goes
-answerLow: say tomorrow would be better and mean it
-answerLeast: leave the message on read until they've left town
-rorschachMost: a litter of pups piling over the edge of a basket
-rorschachHigh: a wave cresting white into morning sun
-rorschachMid: a round loaf split open along its crusty top
-rorschachLow: a dog curled asleep with its back turned
-rorschachLeast: a covered shape lying still under a sheet
+facetLeast: The lighthouse cottage sleeps six and you have it for a week on your own. You tell nobody you are there. You speak to no one all week.
+question: How often is there somebody else in your kitchen?
+answerMost: constantly, and half of them let themselves in
+answerHigh: most days, and you would have it no other way
+answerMid: a few times a month, planned in advance
+answerLow: rarely, and by invitation
+answerLeast: almost never, and that is rather the point
+rorschachMost: a tankard over its brim
+rorschachHigh: foam on a full jug
+rorschachMid: a barrel and its froth
+rorschachLow: a glass barely poured
+rorschachLeast: a dry glass, shelved
 ---
 
 Glazed Adzuki Beans are the Bean Zodiac's most convivial. Nobody leaves early from their table, and the second bottle happens without anyone deciding on it. Some evenings there is no natural end at all. An early night, alone, by choice, isn't in their vocabulary.

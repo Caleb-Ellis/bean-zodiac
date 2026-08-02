@@ -1,5 +1,5 @@
 ---
-# COMPLETELY NEEDS UPDATING — trait: optimistic -> high-spirited, excess: pollyannaish -> boisterous, inverse: downbeat -> dispirited
+# TODO: tidy facets, redo fortunes, redo rorschachs
 slug: spicy-roasted-green
 lastUpdated: 
 bean: green
@@ -17,32 +17,32 @@ antiTriple: bitter-boiled-cannellini
 antiBeans: [navy, black]
 antiForm: smoked
 seasonalFortune: "A season of almonds and rising volume; the tray comes out laughing at nothing particular."
-fortuneMost: Fling the windows open and sweep the floor with enough certainty and the flat morning turns.
-fortuneHigh: The cancelled thing has barely landed and you're already pricing the better version.
+fortuneMost: Leaping straight up for no reason anybody has established - the springbok.
+fortuneHigh: The room is louder for you being in it, and gladder too.
 fortuneMid: Heat first, water last.
 fortuneLow: When the cheerful read wears thin, say the worst case out loud the once.
 fortuneLeast: Now and then the gloomy forecast is the true one.
 facetMostTitle: Beanhouse Party
-facetMost: The crops failed and the barn's half-empty and somehow you're already telling the neighbours what next year's field will look like, and meaning it.
+facetMost: You have started the singing on the coach and you are three songs in. The driver has said something about it. There are two families on this coach who did not come for this, you have got about half the seats going, and you are not stopping at three.
 facetHighTitle: High Beanspirits
-facetHigh: A scheme gets sketched on the back of a receipt at the kitchen table. You're in — funded by the part of it that hasn't gone wrong yet.
+facetHigh: The walk has gone silent and wet and everybody has their hood up. You get a game going that turns on the pub names, and by the top of the hill four of them are shouting.
 facetMidTitle: The Bouncy Beancastle
-facetMid: Where another would brace at the ambiguous test result, you've already settled on the reading that points the good way.
+facetMid: Given a kitchen, a radio and a job that will take two hours, you have the volume up and you are singing at the sink.
 facetLowTitle: At a Low Beanebb
-facetLow: A plan you've been sure of starts wobbling. Say the worst case out loud, plainly, the once — and let it be true a moment instead of patched over.
+facetLow: There is a thing on tonight that you would normally be first at, and you look at it, and you stay in.
 facetLeastTitle: The Wet Beanblanket
-facetLeast: A stranger's venture is laid out for you, all upside. You'd rather count the ways it sinks first and price the rescue boat before you nod.
-question: The audition feedback comes back mixed — not a no, not a yes, a callback maybe — and they leave it to you how to read it. You...
-answerMost: latch onto the warm half and start planning the whole season around it
-answerHigh: hold the one real bright spot and ask what would make it a yes
-answerMid: take it as it is, ask what they actually meant
-answerLow: sit with the cool half, press for the blunt specifics, no comfort
-answerLeast: assume it tilts toward no and brace for that
-rorschachMost: two open palms lifted to catch the light
-rorschachHigh: a seed pod splitting along its seam
-rorschachMid: two cupped leaves divided by a stem
-rorschachLow: shutters half-drawn against a grey window
-rorschachLeast: two hands closing a book shut
+facetLeast: Your whole family is here and it is good weather and there is food outside. You are on the step with a cup of tea. Somebody asks whether you are all right, and you say you are tired, and you are not tired.
+question: A long walk has gone wet and silent and everybody's got their hood up. You...
+answerMost: Get a singsong going whether they want it or not
+answerHigh: Start something to lift them
+answerMid: Get talking to whoever's nearest
+answerLow: Put my own hood up
+answerLeast: Fall to the back and stay there
+rorschachMost: a rock and a riot
+rorschachHigh: a tangle of bunting
+rorschachMid: a boulder and loose wire
+rorschachLow: a knot half undone
+rorschachLeast: a chair, room emptied
 ---
 
 Peri-Peri Green Beans are the Bean Zodiac's most high-spirited. Nine in the morning and they are already up for whatever the day contains, and it's contagious. Sometimes it's a great deal of noise in a small kitchen. Being flatly, ordinarily low is not a register they visit.

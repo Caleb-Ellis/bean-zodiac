@@ -71,14 +71,15 @@ const pick = <T>(rng: Rng, arr: readonly T[]): T =>
   arr[Math.floor(rng() * arr.length)]!;
 
 // Fortune tiers appear at different rates (see qualityFromSlot in lib/fortune:
-// heirloom 1, market 2, garden 2, stale 2, rotten 1 of 8), so a rarer tier
-// carries more signal when it recurs. Weight = inverse of that frequency.
+// heirloom 1, market 2, garden 3, stale 2, rotten 1 of 9), so a rarer tier
+// carries more signal when it recurs. Weight = inverse of that frequency,
+// scaled by 2 to stay integral. Only the ratios matter downstream.
 const TIER_WEIGHT: Record<QualityId, number> = {
-  heirloom: 8,
-  market: 4,
-  garden: 4,
-  stale: 4,
-  rotten: 8,
+  heirloom: 18,
+  market: 9,
+  garden: 6,
+  stale: 9,
+  rotten: 18,
 };
 
 // --- Copy pools (pick one at random; snapshotted onto the summary) ---

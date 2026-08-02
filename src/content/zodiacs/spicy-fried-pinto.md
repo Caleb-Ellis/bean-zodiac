@@ -1,5 +1,5 @@
 ---
-# CHANGED SINCE THIS CONTENT WAS WRITTEN — trait: chaotic -> kinetic, excess: anarchic -> frenzied, inverse: orderly -> static
+# TODO: tidy facets, redo rorschachs
 slug: spicy-fried-pinto
 lastUpdated: 
 bean: pinto
@@ -23,26 +23,26 @@ fortuneMid: Six things half-done is not the same as nothing done.
 fortuneLow: Fold the tortilla all the way before reaching for the next.
 fortuneLeast: Have dinner on time tonight.
 facetMostTitle: Beanfrenzy
-facetMost: You've been tasked with running the community radio for an hour. There's a running order of tracks - you can mix it up a bit but you have to play the ads. You end up just playing what you like, and ignore the ads.
+facetMost: The pan is on and you are cooking standing up with both arms going, and the flat has been rearranged twice already this year. You get up four times in this conversation and could not say what for.
 facetHighTitle: Kinetic Beanenergy
-facetHigh: Your partner's parents are coming over later and you want to tidy the flat up. You start on the vacuuming, then halfway through realise the dishes are more important so start washing them, and before those are done you start the laundry because your good outfit isn't clean.
+facetHigh: A dance floor in that town moves faster than the people on it. You get on it early. You are the last one still on when they put the lights up and start stacking chairs round you.
 facetMidTitle: Perpetual Beanmotion
-facetMid: You're playing a board game with friends and it's pretty straightforward, a bit boring even. You make up a couple of extra rules and restrictions, just to see what it does to the game.
+facetMid: The meeting has gone forty minutes and you are up at the window, then at the board, then back to the window. The thing gets decided at some point while you are moving.
 facetLowTitle: Beanstatic
-facetLow: Halfway up the climbing route, an easier line opens off to your left, the holds looking very generous. You stay on the route you started and take it to the top.
+facetLow: It is a long slow afternoon in a warm room and nothing has to happen, and you last about half of it in the chair.
 facetLeastTitle: I'm Still Beanstanding
-facetLeast: The gig ends and half the crowd is climbing the barrier to cut straight across the car park. You walk down to the marked exit and out the way you came in.
-question: A new game drops you into an open world with the main quest flashing and forty other markers scattered across the map. You...
-answerMost: completely ignore the markers and main quest, and just do whatever
-answerHigh: bounce between markers, to whatever's closest
-answerMid: do a few side quests first, skipping them if they seem boring
-answerLow: immediately follow the main line, wandering whenever something seems worth a look
-answerLeast: just do the main quest and ignore the rest
-rorschachMost: a shattered statue head
-rorschachHigh: an antlered elk
-rorschachMid: a torn map
-rorschachLow: a lumpy candle
-rorschachLeast: an old, weathered olive tree
+facetLeast: There is a chair by the window and four hours with nothing at all in them. You sit in that chair until the light goes, and you could not tell anybody afterwards what you did with any of the four hours of it.
+question: There's a long slow afternoon and nothing that has to be done. You...
+answerMost: rearrange the front room by two
+answerHigh: get out and walk it off
+answerMid: potter, and sit down now and then
+answerLow: sit, and get up when you get restless
+answerLeast: sit in the chair until the light goes
+rorschachMost: a torch at a run
+rorschachHigh: a flame bent by speed
+rorschachMid: a thistle at full height
+rorschachLow: a flame standing still
+rorschachLeast: a candle, no draught
 ---
 
 Red-Hot Pinto Beans are the Bean Zodiac's most kinetic. They talk with their whole body, cook standing up, and the flat rearranges itself twice a year. Sometimes the motion is the only thing happening. Sitting still through a long slow afternoon is genuinely difficult.

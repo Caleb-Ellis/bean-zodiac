@@ -1,5 +1,5 @@
 ---
-# COMPLETELY NEEDS UPDATING — excess: hair-trigger -> volatile, inverse: unprepared -> unready
+# TODO: tidy facets, redo fortunes, redo rorschachs
 slug: spicy-dried-kidney
 lastUpdated: 
 bean: kidney
@@ -21,28 +21,28 @@ fortuneMost: Small things have been banking quietly, and the next wrong tone set
 fortuneHigh: The grievance still burning once you've cooled is the one to act on.
 fortuneMid: Walk it off before you talk.
 fortuneLow: The trigger is rarely the cause.
-fortuneLeast: Say it mildly, the day it lands.
+fortuneLeast: A cobra nobody treads on strikes nobody at all.
 facetMostTitle: Powder Beankeg
-facetMost: Three windows of paperwork, a clerk short with you at each, and now the fourth form is wrong too. The whole banked morning is loaded behind your next sentence — and off it goes, right where you stand.
+facetMost: The lifeboat pager has gone four times this month and three of them were nothing, and your boots are by the door with the keys inside them. A car backfires on the hill outside and you are already up and reaching for the boots before you have thought about it.
 facetHighTitle: Ready to Beanrumble
-facetHigh: A relative needles you across the holiday table, the way they always do. No smile buried over it this time — you name the thing, evenly, aimed at what it's actually about.
+facetHigh: Second leg of the relay, and she is coming round the bend fast, and your hand is back before she is anywhere near the box.
 facetMidTitle: Start Me Bean
-facetMid: Late bus, wrong coffee, a message that stings — three in a row, and the pot's starting to climb. Catch it early; steer the rest of the day toward cooling it down.
+facetMid: A quiz buzzer is under your palm and the question is only half out. You have the answer already, and you go, with the rest of the table looking at you.
 facetLowTitle: Ethelred the Beanready
-facetLow: For no reason at all, a driver leans on the horn at you. The flare comes, you let it burn off on the kerb, and you arrive already even.
+facetLow: A bag by the door has been packed for the hospital and the dates are close now. The wrong things are in that bag, and you have not been through them.
 facetLeastTitle: Caught Beannapping
-facetLeast: Last-minute cancellation from a friend, again — and the old itch to keep score just doesn't come. The slight finds nowhere to settle and passes clean through you.
-question: A car cuts in hard and brakes, and you're already wound tight from the day. You...
-answerMost: lean on the horn and ride their bumper to make the point
-answerHigh: flash the lights and let the anger spike hot
-answerMid: brake, breathe, mutter it under your breath
-answerLow: ease off and shake it loose by the next light
-answerLeast: leave more room and forget it happened
-rorschachMost: a scorpion arched beside a coiled spring
-rorschachHigh: a crab raising its claws, tail coiled near
-rorschachMid: a spiky burr beside a smooth crescent
-rorschachLow: a sea anemone swaying near a sleeping cat
-rorschachLeast: a burst dandelion beside a slack rope
+facetLeast: Somebody has said your name for the reading and you are three rows back with your coat on your knees, and the book is at home, and it is a page you have not looked at.
+question: What's in your bag when you leave the house?
+answerMost: everything, plus what you'd need if it went wrong
+answerHigh: keys, cash, charger, and something to eat
+answerMid: the usual, and you check before the door shuts
+answerLow: whatever was in there from last time
+answerLeast: no bag, and you find out what's missing later
+rorschachMost: a fuse laid to powder
+rorschachHigh: a match beside its box
+rorschachMid: two halves of a shell
+rorschachLow: a match, head damp
+rorschachLeast: a lamp with no wick
 ---
 
 Sichuan Kidney Beans are the Bean Zodiac's most primed. The bag is packed, the number is saved, and when the call comes at midnight they are moving within ninety seconds. That readiness sometimes goes off at nothing. Being caught unprepared is a shame they won't risk.

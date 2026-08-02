@@ -1,5 +1,5 @@
 ---
-# COMPLETELY NEEDS UPDATING — trait: restless -> outspoken, excess: fretful -> indiscreet, inverse: placid -> silent
+# TODO: tidy facets, redo fortunes, redo rorschachs
 slug: sour-boiled-green
 lastUpdated: 
 bean: green
@@ -17,32 +17,32 @@ antiTriple: bitter-dried-black
 antiBeans: [cannellini, mung]
 antiForm: smoked
 seasonalFortune: "A season of hot vinegar and raised voices; the beans are dressed while still loud."
-fortuneMost: The itch is six inches wide.
-fortuneHigh: The urge to leave will rise mid-conversation, as it does.
-fortuneMid: One window opened, one thing put away.
-fortuneLow: Drink the tea that's already poured before you decide the kitchen is wrong.
-fortuneLeast: The chair by the window, the light going without you.
+fortuneMost: The jay tells the whole wood what it saw, whether or not the wood wanted telling.
+fortuneHigh: Say it in the room, not afterwards in the car.
+fortuneMid: You said it first and the rest agreed once it was safe.
+fortuneLow: Some news is not yours to be the one carrying.
+fortuneLeast: Hear it and pass it to nobody.
 facetMostTitle: Big Beanmouth
-facetMost: Already scanning the ridge for the next thing to climb — and the path's only just levelled out at a view most people would stop and sit with.
+facetMost: You told the room what the redundancy figures actually were, because somebody asked and the number was true. Two of them did not know. That was not yours to say, you knew as much while saying it, and you would say it again.
 facetHighTitle: Beantwork
-facetHigh: A waiting room with stiff chairs and a wall clock. Before five minutes are out, you've moved seats twice and turned the magazine rack to face the light?
+facetHigh: Nobody in the meeting will name the problem, and the problem is the man chairing it, and you name him.
 facetMidTitle: Beanspeak
-facetMid: A good photo, taken and saved. You crop it, recolour it, crop it back, until the version you started with is somehow the one you can't find.
+facetMid: Asked at the family table what you make of the new one, you say exactly that, and you say it in front of him. The rest of the afternoon is different for it.
 facetLowTitle: The Sound of Beanlence
-facetLow: A long train ride with hours of nothing to do and no way to hurry it. You feel the itch to be busy, and you set it down and just watch the fields go by.
+facetLow: There is a thing you have thought for months and the conversation has landed exactly on it, and you give a version with the edges taken off.
 facetLeastTitle: A Quiet Bean
-facetLeast: A whole empty day stretches out, no plans, nothing pulling at you — and the stillness feels like rest, not like something slipping away. Let the hours go unfilled.
-question: You've been sitting at the same café table for forty minutes and the conversation is good. You...
-answerMost: suggest moving on — there's a bar two streets over
-answerHigh: shift seats, reorder, keep the table but rearrange it
-answerMid: stay, but check your phone twice without reading it
-answerLow: settle further in and order another round
-answerLeast: take off your jacket and stop watching the door
-rorschachMost: two flocks bursting up off the field at once
-rorschachHigh: two storm clouds boiling over each other
-rorschachMid: two sheep grazing one above the other
-rorschachLow: two cats dozing, one slumped over the other
-rorschachLeast: two old carp settled deep in the pond bed
+facetLeast: The decision is being made on a false premise and you are the only one in the room who knows as much. Your hand does not go up. It goes through, goes wrong four months later, and nobody ever learns that you knew.
+question: You know a fact that would change the meeting, and it isn't yours to share. You...
+answerMost: Say it, and deal with the fallout after
+answerHigh: Find a way to raise it
+answerMid: Hint at it and hope somebody asks
+answerLow: Say it to one person afterwards
+answerLeast: Say nothing at all
+rorschachMost: a mouth caught wide open
+rorschachHigh: two lips just parted
+rorschachMid: a shell come open
+rorschachLow: a hatch, flap down
+rorschachLeast: a book shut on itself
 ---
 
 Brined Green Beans are the Bean Zodiac's most outspoken. They say the thing the whole meeting was thinking, out loud, first, and the room exhales. Sometimes it was somebody's private news to tell. Sitting on an opinion until a better moment has never once worked for them.

@@ -1,5 +1,5 @@
 ---
-# COMPLETELY NEEDS UPDATING — excess: slavish -> blind, inverse: treacherous -> disloyal
+# TODO: tidy facets, redo fortunes, redo rorschachs
 slug: umami-dried-kidney
 lastUpdated: 
 bean: kidney
@@ -18,31 +18,31 @@ antiBeans: [fava, butter]
 antiForm: roasted
 seasonalFortune: "A season of aged ham hock and long keeping — the store is still where you left it."
 fortuneMost: Stay with it a month past where a sensible person would have quit.
-fortuneHigh: Everyone else cooled off.
+fortuneHigh: Everyone else cooled off and the collie is still at the gate.
 fortuneMid: Name the unspoken thing while it's still small.
 fortuneLow: Pick the one loyalty that matters and let the other eleven cool.
 fortuneLeast: The fight is finished.
 facetMostTitle: "Hachi: A Bean's Tale"
-facetMost: A pen pal from a childhood holiday has long since stopped writing back. The envelope goes out anyway, every year, sealed and stamped, because you said you'd write and so you write.
+facetMost: Thirty-one years at the same ground and the club has sold the training pitches to a developer. You go to the fans' meeting, and you speak for the board, and you cannot say what they got for the land.
 facetHighTitle: Marley & Bean
-facetHigh: The band's down to two members and the gigs are empty. Everyone says fold it. You keep showing up to practice, amp plugged in, sure the others will come back round.
+facetHigh: A friend has been accused of something at work and half the people who were drinking with him last month have gone very quiet. You put your name on the letter that goes to the panel, and you let him see that you have.
 facetMidTitle: Stand By Your Bean
-facetMid: One busker still playing to the litter, the festival crowd long gone — you'd stay for that, clap for that, wait out the last song no one else stuck around to hear.
+facetMid: The saw you always buy has gone up a third. There is a cheaper one that would do the job. You pay the third.
 facetLowTitle: The Judas Beankiss
-facetLow: Twelve names in your contacts you keep warm, all at once, none quite tended. Pick the one that matters most, you decide, and let the other eleven go quiet for now.
+facetLow: The man who taught you the trade is telling everybody the new adhesives are a con when you have used them two years without a failure, and you let him finish and carry on using them.
 facetLeastTitle: Et Tu, Bean?
-facetLeast: The argument's over and the door's shut. You crack a window, breathe the cool air, and let the whole thing go cold behind you without a backward look.
-question: Years on, the yearly visit to the grave you promised to keep falls due, and a hard drive and a long week stand between you and the hill. You...
-answerMost: make the drive without a second thought, as you always have
-answerHigh: rearrange the week and go, tired or not
-answerMid: go a few days late but go all the same
-answerLow: light a candle at home this once and mean to go next year
-answerLeast: let the date slip past and tell yourself they'd understand
-rorschachMost: a sunflower head bowed to follow the sun
-rorschachHigh: a watchdog's ruffed head set over its chest
-rorschachMid: a sea urchin resting above a smooth stone
-rorschachLow: a dandelion clock loosing seeds off its stem
-rorschachLeast: a pinwheel spinning loose above its post
+facetLeast: Somebody you signed up with is having a hard year and the group is down to four, and there is a thing across town that suits you better, and your name comes off the list without a word.
+question: A friend of twenty years has been accused of something serious and the details are unclear. You...
+answerMost: stand by him whatever comes out, and say so publicly
+answerHigh: tell him you're there, and go and hear his side
+answerMid: keep in touch and wait for the facts
+answerLow: keep a distance until it's settled
+answerLeast: step back now, before it lands on you
+rorschachMost: a dog begging, paws up
+rorschachHigh: a hound sat up straight
+rorschachMid: a candelabra on a chest
+rorschachLow: a dog looking elsewhere
+rorschachLeast: an empty collar
 ---
 
 Aged Kidney Beans are the Bean Zodiac's most faithful. Thirty years, the same promise, kept through all the years when nobody was checking. Sometimes the faith keeps going where the evidence stopped. Withdrawing from something they committed to they simply cannot do.

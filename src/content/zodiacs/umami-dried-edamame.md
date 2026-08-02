@@ -1,5 +1,5 @@
 ---
-# COMPLETELY NEEDS UPDATING — trait, excess and inverse unchanged
+# TODO: tidy facets, redo fortunes, redo rorschachs
 slug: umami-dried-edamame
 lastUpdated: 
 bean: edamame
@@ -17,32 +17,32 @@ antiTriple: sweet-smoked-mung
 antiBeans: [adzuki, chickpea]
 antiForm: fermented
 seasonalFortune: "A season of yuba and old soy: everything later in the year rests on this."
-fortuneMost: The whole house stands on the stock you set going before anyone woke.
-fortuneHigh: A thing you made is about to go up under someone else's name — claim your part once, plainly.
+fortuneMost: The turtle carries the whole house and cannot put it down to rest.
+fortuneHigh: What you laid down years ago is still holding up somebody else's work.
 fortuneMid: Write the small thing down while it's small.
 fortuneLow: Step out for an afternoon and watch what stands without you.
 fortuneLeast: Let it fall this once.
 facetMostTitle: Beanhenge
-facetMost: Fire lit, water on, the whole day quietly underway before the first head pokes out of a tent — that's you at the messy campsite while everyone else sleeps in.
+facetMost: The firm carries your grandfather's name and every decision goes through what he would have done. Somebody suggests dropping the old line. You explain, at length, that the old line is the reason there is a firm at all, and it does not come up again.
 facetHighTitle: The Beanfoundation
-facetHigh: A storm's forecast for the weekend and nobody's worried yet. You're already filling jugs and checking the torch, so that when it hits there's nothing to scramble for.
+facetHigh: Three of the four committees in that village have you on them, the fourth asks you before it decides anything at all, and you have never once put yourself forward.
 facetMidTitle: Another Brick in the Beanwall
-facetMid: That gate hinge has only just started to creak. Oil it now, you think — while it's a whisper and not yet a job — and you fetch the can.
+facetMid: Given the recipe that everybody's mother used to make, you make it exactly the way it is meant to be made, and that is the thing people ask you for.
 facetLowTitle: The Beanoutsiders
-facetLow: Halfway through building the float, you hand your half over and wander off to where the music is. Let someone else carry it home — you go find the brighter end of the night.
+facetLow: The group has a core to it and you are not in that core. You come to what you want to and it suits you.
 facetLeastTitle: Rosencrantz and Guildenstern Are Bean
-facetLeast: The festival's lit up and roaring and you're right in it, never once wondering whose hands ran the cables or stacked the wood. You just enjoy the blaze.
-question: A project you did the underlying work on is being presented in a big meeting, and you notice your name has been left off the credits slide. You...
-answerMost: say nothing and let the slide go up the way it is
-answerHigh: drop a quiet word to the presenter afterwards, just for the next time
-answerMid: ping the organizer before the meeting to fix the slide
-answerLow: speak up at the meeting to credit yourself when the slide appears
-answerLeast: send a thread to the whole team correcting the record line by line
-rorschachMost: a boulder with roots gripping the bank
-rorschachHigh: a tree stump anchoring its spread of roots
-rorschachMid: a loaf of bread with a torn crust
-rorschachLow: a jellyfish trailing its loose stinging threads
-rorschachLeast: a torn cloud unraveling at one ragged edge
+facetLeast: Eleven years in that orchestra, at the back of the seconds, and the conductor has never learned your name. It had not occurred to you to mind, and it does not occur to you now.
+question: In the groups you belong to, where do you sit?
+answerMost: At the centre — it wouldn't run without me
+answerHigh: Near the middle, doing the load-bearing bits
+answerMid: A solid part of it
+answerLow: Around the edges, happily
+answerLeast: On the list, and that's about it
+rorschachMost: a plinth with no statue
+rorschachHigh: a foundation stone
+rorschachMid: a quarry face
+rorschachLow: a stack of slates
+rorschachLeast: a pebble on a beach
 ---
 
 Aged Edamame are the Bean Zodiac's most foundational. Nothing in the department works without the thing they set up in 2011, and nobody ever thinks about it. Sometimes the foundation stops anyone building differently. Being a small optional part of something isn't their position.

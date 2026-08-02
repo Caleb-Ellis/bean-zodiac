@@ -1,5 +1,5 @@
 ---
-# COMPLETELY NEEDS UPDATING — excess: rootless -> adrift, inverse: moored -> anchored
+# TODO: tidy facets, redo fortunes, redo rorschachs
 slug: spicy-smoked-green
 lastUpdated: 
 bean: green
@@ -17,32 +17,32 @@ antiTriple: umami-dried-butter
 antiBeans: [navy, black]
 antiForm: boiled
 seasonalFortune: "A season of chipotle butter and loose moorings; the smoke drifts and the kitchen follows."
-fortuneMost: You catch the urgency before anyone in the place has named it, and the day reshuffles to be ready.
-fortuneHigh: A siren passes and you're out the door before you've picked a direction.
-fortuneMid: Not every fever has to be chased to the end.
-fortuneLow: A whole stretch can vanish into other people's emergencies, real as each one is.
-fortuneLeast: The fire's out and you're still pacing on its smoke.
+fortuneMost: Six years without touching land, and the albatross would not know what to do with it.
+fortuneHigh: Go where it takes you and stop asking where that is.
+fortuneMid: You were not attached to any of it, and that was the freedom.
+fortuneLow: A rope to something is not the same as a rope around you.
+fortuneLeast: Put your name down for the thing that runs all year.
 facetMostTitle: Beanadrift
-facetMost: A flock of birds wheels left over the field and something in you turns with them, abandoning the path for wherever the wind seems to be going.
+facetMost: Flat given up, boxes in your mother's garage, and you could not say what country you will be in at the end of the month. Somebody asks for an address for the forms. You give your mother's, and it is the only fixed thing there is.
 facetHighTitle: Beancut Loose
-facetHigh: Down at the harbor a boat is casting off and the crew's a hand short. You're untying your shoes to swim out before you've asked where it's headed.
+facetHigh: The job ends and there is nothing after it, and you find this is the best you have felt in about four years.
 facetMidTitle: Free-Floating Bean
-facetMid: Halfway through learning the guitar a friend mentions pottery, and the strings go quiet on the wall while your hands itch for clay.
+facetMid: The plan was three weeks and you are on week nine, and nobody is expecting you anywhere. Learning the bus routes is the closest thing to roots you have managed.
 facetLowTitle: Beananchors Aweigh
-facetLow: Friends swing by the porch to sweep you off to something across town. You wave them on and stay with the slow thing already in your hands, content to miss it.
+facetLow: There is a room you rent and a chair you like in it and the same walk on the same evenings. You have started wondering what else there might be.
 facetLeastTitle: Beantied to the Dock
-facetLeast: There's a dull fence that's needed mending for ages and a hundred brighter things calling. You pick up the hammer and give the whole day to the fence.
-question: Sunny morning, engine running, and a friend with a van says — pick a direction, any direction, and we'll just go. You...
-answerMost: point at the horizon, no destination, and let the road decide the day
-answerHigh: name a coast you've never seen and aim roughly at it
-answerMid: suggest two places and let the petrol gauge choose
-answerLow: pick somewhere with a plan, a car park, and a time to be back
-answerLeast: say you'd rather stay in and have the morning to yourself
-rorschachMost: a hot-air balloon lifting off its basket
-rorschachHigh: a dandelion head loosing its seeds upward
-rorschachMid: a mushroom with a round cap and stem
-rorschachLow: a tree with its trunk set in the bank
-rorschachLeast: an oak gripping the ground with deep roots
+facetLeast: You were born four miles from here and you will be buried three. The house was your mother's, the job was your father's. Somebody asks whether you ever thought about going, and you say that you did think about it once.
+question: How settled is your life at the moment?
+answerMost: Not at all — no fixed address
+answerHigh: Loose, and I like it that way
+answerMid: Settled enough, with room to move
+answerLow: Fairly rooted
+answerLeast: Born here, and I'll die here
+rorschachMost: a kite, line cut
+rorschachHigh: a jellyfish adrift
+rorschachMid: a torn sail
+rorschachLow: a boat on a rope
+rorschachLeast: an anchor in the mud
 ---
 
 Chipotle Green Beans are the Bean Zodiac's most untethered. No lease, no fixed plan, three countries in two years, and it genuinely suits them. Sometimes there is nothing holding them anywhere at all. Being reliably in one place for someone is hard to promise.

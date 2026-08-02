@@ -56,7 +56,7 @@ export const Route = createFileRoute("/zodiacs/$id")({
         />
         <article className="relative rounded-2xl bg-zinc-900 overflow-hidden">
           <div className="flex flex-col md:flex-row">
-            <div className="w-full md:w-80 shrink-0 aspect-square">
+            <div className="w-full md:w-80 shrink-0 h-80 sm:h-auto aspect-square">
               <Bean bean={bean} flavourId={flavourId} formId={formId} />
             </div>
             <div className="p-6 md:p-8 flex flex-col gap-4 min-w-0">
@@ -90,7 +90,7 @@ export const Route = createFileRoute("/zodiacs/$id")({
                   <dl className="flex-1 sm:self-start grid grid-cols-[auto_1fr] rounded-xl border border-zinc-700/60 bg-zinc-900/80 divide-y divide-zinc-800 overflow-hidden">
                     <div className="col-span-2 grid grid-cols-subgrid items-center gap-x-3 px-4 py-2.5">
                       <dt className="text-xs uppercase tracking-widest text-zinc-500">
-                        Raw
+                        Undercooked
                       </dt>
                       <dd className="text-sm text-zinc-400 text-right">
                         {zodiac.inverse}
@@ -98,7 +98,7 @@ export const Route = createFileRoute("/zodiacs/$id")({
                     </div>
                     <div className="col-span-2 grid grid-cols-subgrid items-center gap-x-3 px-4 py-2.5 bg-zinc-800/40">
                       <dt className="text-xs uppercase tracking-widest text-zinc-400">
-                        Cooked
+                        Well-Cooked
                       </dt>
                       <dd className="text-effect-silver text-sm font-semibold text-right">
                         {zodiac.trait}

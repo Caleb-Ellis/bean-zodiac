@@ -1,5 +1,5 @@
 ---
-# COMPLETELY NEEDS UPDATING — excess: insolent -> outrageous, inverse: diffident -> cowed
+# TODO: tidy facets, redo fortunes, redo rorschachs
 slug: spicy-dried-fava
 lastUpdated: 
 bean: fava
@@ -17,32 +17,32 @@ antiTriple: bitter-boiled-navy
 antiBeans: [chickpea, adzuki]
 antiForm: roasted
 seasonalFortune: "A season of lan hua dou and open dares — the store gambles what it cannot replace."
-fortuneMost: Book the cabin mid-conversation and send everyone the address after.
-fortuneHigh: Say yes and figure out the rest on the road. You've made harder leaps land.
+fortuneMost: The honey badger takes on a hive, a cobra, a lion, and heals up wrong each time.
+fortuneHigh: Say yes and figure out the rest on the road.
 fortuneMid: Move on the half-formed plan instead of holding out for the full one.
 fortuneLow: That door's locked, and the leap won't open it.
 fortuneLeast: Sleep on it.
 facetMostTitle: Outrageous Beanfortune
-facetMost: Trailhead's closed, the sign says, bridge out. You're already past it and onto the rocks, working out the far bank as you cross.
+facetMost: You have written to the chairman himself, not his office, asked for the thing nobody asks for, and given him a deadline. Everybody who knows says you have finished yourself. He replies in four days and says yes, and you were never really in doubt.
 facetHighTitle: The Audacity of Beanhope
-facetHigh: The open call closes at midnight, for a part you're nowhere near ready for. One take, recorded and sent before the nerve has a chance to fade.
+facetHigh: That room belongs to a company forty times your size and you have ten minutes in it. You ask for the whole contract rather than the trial, and give them a number that makes one of them laugh.
 facetMidTitle: Double Beandare
-facetMid: One viewing slot left on the flat you want, three other names already down for it. Your application's half-finished — submit it now, or lose the place to the wait?
+facetMid: A seat at a table you were never invited to, and you sit down, introduce yourself, and stay for the whole afternoon.
 facetLowTitle: Beanscaredy Cat
-facetLow: A trader waves you toward a deal that's only good if you commit this second. You hold off. Ask the price twice. Think it through.
+facetLow: Your request would probably be granted and costs nothing to ask, and you draft the letter, read it back, and do not send.
 facetLeastTitle: White Beanflag
-facetLeast: Wild plan for tonight, a friend texts, and they want the answer now. Sleep on it, you tell them — the morning version is the one you'll trust.
-question: The gorge rope swing — everyone's daring everyone, the drop is real, and it's your turn at the lip. You...
-answerMost: grab the rope and launch off the highest ledge without breaking stride
-answerHigh: take a bold run-up and fling yourself well out over the water
-answerMid: jump from a sensible spot and enjoy it
-answerLow: do the small swing from the low rock just to say you went
-answerLeast: hand the rope on and watch from the bank
-rorschachMost: a bull lowering its horns to charge
-rorschachHigh: a ram reared up, horns flung back
-rorschachMid: a moth with antennae raised, wings spread
-rorschachLow: a snail drawing its horns back in
-rorschachLeast: a bat folded tight, wings tucked down
+facetLeast: He has been wrong about the figures for three meetings running and everybody knows, and the corrected sheet is in front of you. You keep it in the folder, nod along with the rest, and take the sheet home again.
+question: You want a pay rise well above anything they've given anyone at your level. You...
+answerMost: Ask for double, with a deadline on it
+answerHigh: Ask for the full amount, straight
+answerMid: Ask for a bit more than I expect
+answerLow: Hint at it and hope
+answerLeast: Say nothing and wait to be offered
+rorschachMost: a crown worn crooked
+rorschachHigh: a bull's horns, wide apart
+rorschachMid: two peaks and a pass
+rorschachLow: a chalice on a cloth
+rorschachLeast: a hood pulled low
 ---
 
 Sichuan Fava Beans are the Bean Zodiac's most audacious. They ask the famous person for an introduction and the bank for double, and it works often enough to keep going. Occasionally the ask is genuinely absurd. Being quietly daunted by the size of something has never happened.
