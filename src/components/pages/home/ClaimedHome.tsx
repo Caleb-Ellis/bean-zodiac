@@ -19,10 +19,9 @@ interface Props {
   data: AllZodiacData;
   date: Date;
   claimedSlug: ZodiacId;
-  onRelinquish: () => void;
 }
 
-export default function ClaimedHome({ data, date, claimedSlug, onRelinquish }: Props) {
+export default function ClaimedHome({ data, date, claimedSlug }: Props) {
   const fortune = useDailyFortune(date, claimedSlug);
   const seasonalZodiacId = getZodiacMetadataForDate(date).zodiacId;
 
@@ -72,12 +71,7 @@ export default function ClaimedHome({ data, date, claimedSlug, onRelinquish }: P
       ) : (
         fortune.dialogOpen && <FortuneDialog data={data} fortune={fortune} />
       )}
-      <ClaimedHomeContent
-        data={data}
-        date={date}
-        claimedSlug={claimedSlug}
-        onRelinquish={onRelinquish}
-      />
+      <ClaimedHomeContent data={data} date={date} claimedSlug={claimedSlug} />
     </>
   );
 }

@@ -50,8 +50,8 @@ export default function BeanstalkPage({ data }: Props) {
       <div className="flex flex-col items-center gap-4 py-16 text-center animate-fade-up">
         <p className="text-zinc-400">
           You haven't claimed a Bean yet.{" "}
-          <a href="/" className="link">
-            Discover yours on the home page.
+          <a href="/wheel" className="link">
+            Consult the wheel to find yours.
           </a>
         </p>
       </div>

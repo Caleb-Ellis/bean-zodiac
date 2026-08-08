@@ -10,6 +10,7 @@
 
 import { Route as rootRouteImport } from './routes/__root'
 import { Route as WheelRouteImport } from './routes/wheel'
+import { Route as MeRouteImport } from './routes/me'
 import { Route as CompatibilityRouteImport } from './routes/compatibility'
 import { Route as CalendarRouteImport } from './routes/calendar'
 import { Route as BeanstalkRouteImport } from './routes/beanstalk'
@@ -34,6 +35,11 @@ import { Route as BeaniaryBeansIdRouteImport } from './routes/beaniary/beans/$id
 const WheelRoute = WheelRouteImport.update({
   id: '/wheel',
   path: '/wheel',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const MeRoute = MeRouteImport.update({
+  id: '/me',
+  path: '/me',
   getParentRoute: () => rootRouteImport,
 } as any)
 const CompatibilityRoute = CompatibilityRouteImport.update({
@@ -142,6 +148,7 @@ export interface FileRoutesByFullPath {
   '/beanstalk': typeof BeanstalkRoute
   '/calendar': typeof CalendarRoute
   '/compatibility': typeof CompatibilityRoute
+  '/me': typeof MeRoute
   '/wheel': typeof WheelRoute
   '/beaniary/met': typeof BeaniaryMetRoute
   '/beans/$id': typeof BeansIdRoute
@@ -165,6 +172,7 @@ export interface FileRoutesByTo {
   '/beanstalk': typeof BeanstalkRoute
   '/calendar': typeof CalendarRoute
   '/compatibility': typeof CompatibilityRoute
+  '/me': typeof MeRoute
   '/wheel': typeof WheelRoute
   '/beaniary/met': typeof BeaniaryMetRoute
   '/beans/$id': typeof BeansIdRoute
@@ -189,6 +197,7 @@ export interface FileRoutesById {
   '/beanstalk': typeof BeanstalkRoute
   '/calendar': typeof CalendarRoute
   '/compatibility': typeof CompatibilityRoute
+  '/me': typeof MeRoute
   '/wheel': typeof WheelRoute
   '/beaniary/met': typeof BeaniaryMetRoute
   '/beans/$id': typeof BeansIdRoute
@@ -214,6 +223,7 @@ export interface FileRouteTypes {
     | '/beanstalk'
     | '/calendar'
     | '/compatibility'
+    | '/me'
     | '/wheel'
     | '/beaniary/met'
     | '/beans/$id'
@@ -237,6 +247,7 @@ export interface FileRouteTypes {
     | '/beanstalk'
     | '/calendar'
     | '/compatibility'
+    | '/me'
     | '/wheel'
     | '/beaniary/met'
     | '/beans/$id'
@@ -260,6 +271,7 @@ export interface FileRouteTypes {
     | '/beanstalk'
     | '/calendar'
     | '/compatibility'
+    | '/me'
     | '/wheel'
     | '/beaniary/met'
     | '/beans/$id'
@@ -284,6 +296,7 @@ export interface RootRouteChildren {
   BeanstalkRoute: typeof BeanstalkRoute
   CalendarRoute: typeof CalendarRoute
   CompatibilityRoute: typeof CompatibilityRoute
+  MeRoute: typeof MeRoute
   WheelRoute: typeof WheelRoute
   BeaniaryMetRoute: typeof BeaniaryMetRoute
   BeansIdRoute: typeof BeansIdRoute
@@ -310,6 +323,13 @@ declare module '@tanstack/react-router' {
       path: '/wheel'
       fullPath: '/wheel'
       preLoaderRoute: typeof WheelRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/me': {
+      id: '/me'
+      path: '/me'
+      fullPath: '/me'
+      preLoaderRoute: typeof MeRouteImport
       parentRoute: typeof rootRouteImport
     }
     '/compatibility': {
@@ -460,6 +480,7 @@ const rootRouteChildren: RootRouteChildren = {
   BeanstalkRoute: BeanstalkRoute,
   CalendarRoute: CalendarRoute,
   CompatibilityRoute: CompatibilityRoute,
+  MeRoute: MeRoute,
   WheelRoute: WheelRoute,
   BeaniaryMetRoute: BeaniaryMetRoute,
   BeansIdRoute: BeansIdRoute,

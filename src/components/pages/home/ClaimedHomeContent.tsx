@@ -21,14 +21,12 @@ interface Props {
   data: AllZodiacData;
   date: Date;
   claimedSlug: ZodiacId;
-  onRelinquish: () => void;
 }
 
 export default function ClaimedHomeContent({
   data,
   date,
   claimedSlug,
-  onRelinquish,
 }: Props) {
   const [flavourId, formId, beanId] = claimedSlug.split("-") as [
     FlavourId,
@@ -80,17 +78,6 @@ export default function ClaimedHomeContent({
       : "";
   const qualityId = todayEntry?.qualityId;
   const text = todayEntry?.text ?? null;
-
-  const handleRelinquish = () => {
-    if (
-      window.confirm(
-        "Are you sure you want to relinquish your Bean? Your Beaniary, Beanstalk and Spirit Bean will be lost permanently.",
-      )
-    ) {
-      useStore.getState().relinquish();
-      onRelinquish();
-    }
-  };
 
   return (
     <div className="flex flex-col items-center text-center gap-6 animate-fade-up">
@@ -189,7 +176,7 @@ export default function ClaimedHomeContent({
             🪴&nbsp; The Beanstalk
           </a>
           <a
-            href={`/zodiacs/${claimedSlug}`}
+            href="/me"
             className="flex items-center gap-1.5 px-3 py-1.5 rounded-full bg-zinc-900 border-2 border-zinc-700 hover:border-zinc-500 transition-colors no-underline text-zinc-300"
           >
             👤&nbsp; About Me
@@ -254,14 +241,6 @@ export default function ClaimedHomeContent({
           </p>
           <Divider />
         </section>
-        <div className="mt-8">
-          <button
-            onClick={handleRelinquish}
-            className="flex items-center gap-1.5 px-3 py-1.5 rounded-full border-2 border-zinc-700 hover:border-zinc-500 text-zinc-400 hover:text-zinc-300 transition-colors cursor-pointer bg-transparent text-sm"
-          >
-            Relinquish your Bean <span className="text-xs">✕</span>
-          </button>
-        </div>
       </section>
     </div>
   );

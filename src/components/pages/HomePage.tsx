@@ -14,19 +14,12 @@ interface Props {
 
 export default function HomePage({ data, showContent, showFortune, showQuote }: Props) {
   const [date] = useState(() => new Date());
-  const [claimedSlug, setClaimedSlug] = useState<ZodiacId | null>(
+  const [claimedSlug] = useState<ZodiacId | null>(
     () => useStore.getState().claimed?.id ?? null,
   );
 
   if (claimedSlug) {
-    return (
-      <ClaimedHome
-        data={data}
-        date={date}
-        claimedSlug={claimedSlug}
-        onRelinquish={() => setClaimedSlug(null)}
-      />
-    );
+    return <ClaimedHome data={data} date={date} claimedSlug={claimedSlug} />;
   }
 
   return (

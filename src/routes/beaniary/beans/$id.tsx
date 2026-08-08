@@ -16,7 +16,7 @@ export const Route = createFileRoute("/beaniary/beans/$id")({
     return (
       <article className="animate-fade-up rounded-2xl bg-zinc-900 border-2 border-zinc-800 overflow-hidden">
         <div className="flex flex-col md:flex-row">
-          <div className="w-full md:w-80 shrink-0 h-80 sm:h-auto aspect-square">
+          <div className="w-full md:w-80 shrink-0 h-80 md:h-auto">
             <Bean bean={bean} />
           </div>
           <div className="p-6 md:p-8 flex flex-col gap-4 min-w-0">
